@@ -1,6 +1,6 @@
-{100}{}{Widzisz stra¿nika w luŸnym ubraniu, wygl¹da na znu¿onego czuwaniem.}
-{101}{}{Sprawia wra¿enie, ¿e nie chce tu ju¿ byæ.}
-{150}{}{Uch, co robisz, ¿e tak siê skradasz?}
-{151}{}{Jesteœ szpiegiem, czy coœ?}
-{200}{}{To ci¹gle przyprawia mnie o dreszcze.}
-{201}{}{Przestañ marnowaæ mój czas, lao wai.}
+{100}{}{Widzisz straÅ¼nika w luÅºnym ubraniu, wyglÄ…da na znuÅ¼onego czuwaniem.}
+{101}{}{Sprawia wraÅ¼enie, Å¼e nie chce tu juÅ¼ byÄ‡.}
+{150}{}{Uch, co robisz, Å¼e tak siÄ™ skradasz?}
+{151}{}{JesteÅ› szpiegiem, czy coÅ›?}
+{200}{}{To ciÄ…gle przyprawia mnie o dreszcze.}
+{201}{}{PrzestaÅ„ marnowaÄ‡ mÃ³j czas, lao wai.}

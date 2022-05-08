@@ -1,32 +1,32 @@
 {100}{}{Ves a un mercenario bien armado.}
 {150}{}{Ves a un tipo duro que lleva una armadura de cuero. Numerosas cicatrices y heridas de bala recorren su cuerpo. Su armadura y sus armas, por otra parte, parecen en buen estado, casi nuevas.}
-{151}{}{Ves a un bandido bien armado. Está examinando la zona y portando su pistola.}
+{151}{}{Ves a un bandido bien armado. EstÃ¡ examinando la zona y portando su pistola.}
 {200}{}{Vaya, que cojonazos los de este hijo de puta...}
-{201}{}{¡Contacto!}
-{202}{}{¡Perímetro roto!}
-{203}{}{¡Tenemos intrusos, muchachos!}
-{204}{}{¡A divertirse, muchachos, tenemos un intruso!}
-{205}{}{Vaya, mira quién ha venido aquí a morir…}
-{206}{}{¡Maldición! ¡Alguien nos ha encontrado!}
-{207}{}{Que vengas aquí es una fiesta...}
+{201}{}{Â¡Contacto!}
+{202}{}{Â¡PerÃ­metro roto!}
+{203}{}{Â¡Tenemos intrusos, muchachos!}
+{204}{}{Â¡A divertirse, muchachos, tenemos un intruso!}
+{205}{}{Vaya, mira quiÃ©n ha venido aquÃ­ a morirâ€¦}
+{206}{}{Â¡MaldiciÃ³n! Â¡Alguien nos ha encontrado!}
+{207}{}{Que vengas aquÃ­ es una fiesta...}
 {208}{}{Has venido al lugar equivocado, puta.}
-{209}{}{Vaya, mira cómo se pavonea esta golfa...}
-{250}{}{Salimos a beber, y él lo llamó 'hora de ajuste de actitud', así que le dimos una patada en el culo.}
+{209}{}{Vaya, mira cÃ³mo se pavonea esta golfa...}
+{250}{}{Salimos a beber, y Ã©l lo llamÃ³ 'hora de ajuste de actitud', asÃ­ que le dimos una patada en el culo.}
 {251}{}{Tenemos que comprobar esas agrupaciones en la cueva...}
-{252}{}{Hora de volver a revisar el perímetro…}
-{253}{}{Tío, ese tribal apesta. Todos los suyos apestan.}
-{254}{}{Malditos cañones láser de Ciudad Refugio…}
+{252}{}{Hora de volver a revisar el perÃ­metroâ€¦}
+{253}{}{TÃ­o, ese tribal apesta. Todos los suyos apestan.}
+{254}{}{Malditos caÃ±ones lÃ¡ser de Ciudad Refugioâ€¦}
 {255}{}{Me estoy cansando de abrillantar mi pistola... mis DOS pistolas.}
-{256}{}{¿Cuánto tiempo vamos a estar aquí?}
-{257}{}{Deberíamos irnos de aquí en unos pocos días…}
+{256}{}{Â¿CuÃ¡nto tiempo vamos a estar aquÃ­?}
+{257}{}{DeberÃ­amos irnos de aquÃ­ en unos pocos dÃ­asâ€¦}
 {258}{}{No puedo esperar a volver a Reno. Sobretodo a La Garra de la Gata.}
-{259}{}{Esos escorpiones están otra vez hambrientos. Les he estado oyendo esta noche… *click* *clack* *click*}
-{260}{}{¿Revisaste las minas de la entrada como te dije?}
-{261}{}{El capitán me ha estado dando la brasa porque casi dejo escapar a ese mercader…}
-{262}{}{Me pregunto cómo puedo quitarme este atuendo inútil.}
-{263}{}{Lynette está bastante buena. Claro, si te gusta la arrogancia aristocrática, la dominación y que te traten como a un esclavo.}
-{264}{}{…así que entonces *ella* dice, '¡eso es mi ombligo, gilipollas!' ¡Juas! Siempre me muero de risa con ese chiste.}
+{259}{}{Esos escorpiones estÃ¡n otra vez hambrientos. Les he estado oyendo esta nocheâ€¦ *click* *clack* *click*}
+{260}{}{Â¿Revisaste las minas de la entrada como te dije?}
+{261}{}{El capitÃ¡n me ha estado dando la brasa porque casi dejo escapar a ese mercaderâ€¦}
+{262}{}{Me pregunto cÃ³mo puedo quitarme este atuendo inÃºtil.}
+{263}{}{Lynette estÃ¡ bastante buena. Claro, si te gusta la arrogancia aristocrÃ¡tica, la dominaciÃ³n y que te traten como a un esclavo.}
+{264}{}{â€¦asÃ­ que entonces *ella* dice, 'Â¡eso es mi ombligo, gilipollas!' Â¡Juas! Siempre me muero de risa con ese chiste.}
 {265}{}{Me alegra que nos vayamos.}
-{266}{}{El capitán me está hinchando las pelotas de verdad…}
-{267}{}{Me siento como si llevara aquí de pie toda la eternidad, esperando a que aparezca alguien.}
-{268}{}{Ojalá tuviéramos otro sitio al que poder ir.}
+{266}{}{El capitÃ¡n me estÃ¡ hinchando las pelotas de verdadâ€¦}
+{267}{}{Me siento como si llevara aquÃ­ de pie toda la eternidad, esperando a que aparezca alguien.}
+{268}{}{OjalÃ¡ tuviÃ©ramos otro sitio al que poder ir.}

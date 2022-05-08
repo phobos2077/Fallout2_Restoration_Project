@@ -1,51 +1,51 @@
-{100}{}{Úgy t?nik, ? egy prémvadász.}
-{101}{}{? éppen pihenget.}
-{102}{}{Egy helybéli.}
-{103}{}{Egy relaxáló melóst látsz.}
-{104}{}{Láthatóan élvezi az italát.}
-{150}{}{Csak nem tévesztetted el a házszámot?}
+{100}{}{Ãšgy t?nik, ? egy prÃ©mvadÃ¡sz.}
+{101}{}{? Ã©ppen pihenget.}
+{102}{}{Egy helybÃ©li.}
+{103}{}{Egy relaxÃ¡lÃ³ melÃ³st lÃ¡tsz.}
+{104}{}{LÃ¡thatÃ³an Ã©lvezi az italÃ¡t.}
+{150}{}{Csak nem tÃ©vesztetted el a hÃ¡zszÃ¡mot?}
 {151}{}{Nem kellenek a bajkever?k!}
-{152}{}{A törzsbéliek csak bajt jelentenek.}
-{153}{}{Csak nehogy sok legyen a tüzesvízb?l!}
-{154}{}{(motyogás) ...húzz el innen...}
-{155}{}{Még egy tag Dunton bandájából.}
-{156}{}{Mit néze'?}
-{157}{}{Haladj szépen tovább!}
-{158}{}{Hívj meg minket egy körre, idegen.}
-{159}{}{Ki ne öntsd a piát!}
-{160}{}{Nem úgy nézel ki, mint egy kannibál.}
-{161}{}{Itt nincs hely a fajtádnak!}
-{162}{}{Túl sok itt az idegen mostanában.}
-{163}{}{Legalább a te fogaid nincsenek lereszelve.}
-{164}{}{Ez a környék sem a régi már.}
-{165}{}{Nem hiányzik egy csont az orrodból?}
-{166}{}{(rádnéz, aztán csak rázza a fejét)}
+{152}{}{A tÃ¶rzsbÃ©liek csak bajt jelentenek.}
+{153}{}{Csak nehogy sok legyen a tÃ¼zesvÃ­zb?l!}
+{154}{}{(motyogÃ¡s) ...hÃºzz el innen...}
+{155}{}{MÃ©g egy tag Dunton bandÃ¡jÃ¡bÃ³l.}
+{156}{}{Mit nÃ©ze'?}
+{157}{}{Haladj szÃ©pen tovÃ¡bb!}
+{158}{}{HÃ­vj meg minket egy kÃ¶rre, idegen.}
+{159}{}{Ki ne Ã¶ntsd a piÃ¡t!}
+{160}{}{Nem Ãºgy nÃ©zel ki, mint egy kannibÃ¡l.}
+{161}{}{Itt nincs hely a fajtÃ¡dnak!}
+{162}{}{TÃºl sok itt az idegen mostanÃ¡ban.}
+{163}{}{LegalÃ¡bb a te fogaid nincsenek lereszelve.}
+{164}{}{Ez a kÃ¶rnyÃ©k sem a rÃ©gi mÃ¡r.}
+{165}{}{Nem hiÃ¡nyzik egy csont az orrodbÃ³l?}
+{166}{}{(rÃ¡dnÃ©z, aztÃ¡n csak rÃ¡zza a fejÃ©t)}
 {167}{}{(finoman bemutat egyet)}
-{168}{}{Biztos te is benne vagy a brahmin csonkításokban.}
+{168}{}{Biztos te is benne vagy a brahmin csonkÃ­tÃ¡sokban.}
 {169}{}{Some of our trappers' is gone missing an' you're prob'ly why.}
-{170}{}{Bogáremberek ólálkodnak a város körül.}
+{170}{}{BogÃ¡remberek Ã³lÃ¡lkodnak a vÃ¡ros kÃ¶rÃ¼l.}
 {171}{}{There's a spirit in a canyon east of town.}
-{172}{}{Ne hagyd, hogy elkapjon a járkáló szellem!}
-{173}{}{Nem ajánlatos elkötni a brahminjainkat!}
-{174}{}{Szemmel tartjuk magát!}
-{201}{}{Jó végre új arcot látni a városban.}
-{202}{}{Talán a törzsbéliek nem is olyan szörny?ek, mint hittem.}
-{203}{}{Fizess egy kört!}
-{204}{}{Köszönj Smileynak és a mellette ül? Sánta Jim-nek.}
-{205}{}{Akár Sulik testvére is lehetnél.}
-{206}{}{Köszöntél már Suliknak?}
-{207}{}{Egész jó a fogás mostanában.}
-{208}{}{Azt hiszem, hamarosan megváltozik az id?.}
-{209}{}{Találtam egy jó helyet a csapdáknak nem messze innen, délre.}
-{210}{}{Ha van eszed, távol tartod magad a Duntonoktól.}
+{172}{}{Ne hagyd, hogy elkapjon a jÃ¡rkÃ¡lÃ³ szellem!}
+{173}{}{Nem ajÃ¡nlatos elkÃ¶tni a brahminjainkat!}
+{174}{}{Szemmel tartjuk magÃ¡t!}
+{201}{}{JÃ³ vÃ©gre Ãºj arcot lÃ¡tni a vÃ¡rosban.}
+{202}{}{TalÃ¡n a tÃ¶rzsbÃ©liek nem is olyan szÃ¶rny?ek, mint hittem.}
+{203}{}{Fizess egy kÃ¶rt!}
+{204}{}{KÃ¶szÃ¶nj Smileynak Ã©s a mellette Ã¼l? SÃ¡nta Jim-nek.}
+{205}{}{AkÃ¡r Sulik testvÃ©re is lehetnÃ©l.}
+{206}{}{KÃ¶szÃ¶ntÃ©l mÃ¡r Suliknak?}
+{207}{}{EgÃ©sz jÃ³ a fogÃ¡s mostanÃ¡ban.}
+{208}{}{Azt hiszem, hamarosan megvÃ¡ltozik az id?.}
+{209}{}{TalÃ¡ltam egy jÃ³ helyet a csapdÃ¡knak nem messze innen, dÃ©lre.}
+{210}{}{Ha van eszed, tÃ¡vol tartod magad a DuntonoktÃ³l.}
 {211}{}{If you're anxious, try the Bathhouse.}
-{212}{}{Ha zsákmányt keresel, nézz körül a Prémvadászok Városában.}
-{213}{}{Üdvözöllek, barátom!}
-{214}{}{Remélem, tetszik a városunk.}
-{215}{}{Klamath igazán klassz hely.}
-{216}{}{Örülök, hogy itt vagy.}
-{217}{}{(feléd emeli a korsóját)}
-{218}{}{(rádkacsint)}
-{219}{}{Ne mászkálj éjszaka!}
-{220}{}{Bogáremberek ólálkodnak odakint a hegyekben.}
-{221}{}{Az egyik legjobb prémvadászunk elt?nt.}
+{212}{}{Ha zsÃ¡kmÃ¡nyt keresel, nÃ©zz kÃ¶rÃ¼l a PrÃ©mvadÃ¡szok VÃ¡rosÃ¡ban.}
+{213}{}{ÃœdvÃ¶zÃ¶llek, barÃ¡tom!}
+{214}{}{RemÃ©lem, tetszik a vÃ¡rosunk.}
+{215}{}{Klamath igazÃ¡n klassz hely.}
+{216}{}{Ã–rÃ¼lÃ¶k, hogy itt vagy.}
+{217}{}{(felÃ©d emeli a korsÃ³jÃ¡t)}
+{218}{}{(rÃ¡dkacsint)}
+{219}{}{Ne mÃ¡szkÃ¡lj Ã©jszaka!}
+{220}{}{BogÃ¡remberek Ã³lÃ¡lkodnak odakint a hegyekben.}
+{221}{}{Az egyik legjobb prÃ©mvadÃ¡szunk elt?nt.}

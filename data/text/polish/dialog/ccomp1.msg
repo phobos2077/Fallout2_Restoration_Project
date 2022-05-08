@@ -1,18 +1,18 @@
 {100}{}{Widzisz technika.}
 {101}{}{Widzisz technika komputerowego.}
-{102}{}{Widzisz osobê ubran¹ w laboratoryjny fartuch.}
-{103}{}{Dzieñ dobry, ¿o³nierzu.}
-{104}{}{Proszê nie dotykaj niczego.}
-{105}{}{Szeregowym wstêp wzbroniony!}
-{106}{}{Gdzie masz swój uniform? }
-{107}{}{Lepiej siê ubierz. Zbrojownia mieœci siê na koñcu korytarza, po lewej.}
-{108}{}{Chodz¹c bez munduru du¿o ryzykujesz. Lepiej zg³oœ siê do zaopatrzenia.}
-{109}{}{Kim wy u licha jesteœcie... Alarm! Intruzi!}
-{110}{}{Zostaliœmy zinfiltrowani! Alarm!}
-{111}{}{Liczni intruzi! Og³osiæ alarm!}
-{112}{}{Cholera. Za³adowaæ kopiê rezerwow¹.}
-{113}{}{Zamkn¹æ wszystkie zastrze¿one procesy.}
-{114}{}{Zabezpieczyæ system i uaktywniæ wszystkie has³a.}
-{115}{}{Jestem naukowcem, nie ¿o³nierzem!}
-{116}{}{Ostry koniec z diod¹ laserow¹ skierowaæ na przeciwnika. Nacisn¹æ przycisk.}
-{117}{}{Pomocy! Pomocy! Zagro¿enie w pracowni komputerowej!}
+{102}{}{Widzisz osobÄ™ ubranÄ… w laboratoryjny fartuch.}
+{103}{}{DzieÅ„ dobry, Å¼oÅ‚nierzu.}
+{104}{}{ProszÄ™ nie dotykaj niczego.}
+{105}{}{Szeregowym wstÄ™p wzbroniony!}
+{106}{}{Gdzie masz swÃ³j uniform? }
+{107}{}{Lepiej siÄ™ ubierz. Zbrojownia mieÅ›ci siÄ™ na koÅ„cu korytarza, po lewej.}
+{108}{}{ChodzÄ…c bez munduru duÅ¼o ryzykujesz. Lepiej zgÅ‚oÅ› siÄ™ do zaopatrzenia.}
+{109}{}{Kim wy u licha jesteÅ›cie... Alarm! Intruzi!}
+{110}{}{ZostaliÅ›my zinfiltrowani! Alarm!}
+{111}{}{Liczni intruzi! OgÅ‚osiÄ‡ alarm!}
+{112}{}{Cholera. ZaÅ‚adowaÄ‡ kopiÄ™ rezerwowÄ….}
+{113}{}{ZamknÄ…Ä‡ wszystkie zastrzeÅ¼one procesy.}
+{114}{}{ZabezpieczyÄ‡ system i uaktywniÄ‡ wszystkie hasÅ‚a.}
+{115}{}{Jestem naukowcem, nie Å¼oÅ‚nierzem!}
+{116}{}{Ostry koniec z diodÄ… laserowÄ… skierowaÄ‡ na przeciwnika. NacisnÄ…Ä‡ przycisk.}
+{117}{}{Pomocy! Pomocy! ZagroÅ¼enie w pracowni komputerowej!}

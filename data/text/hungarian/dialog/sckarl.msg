@@ -1,56 +1,56 @@
 {100}{}{You see a young man wearing the badge of the NCR police.}
-{101}{}{? Karl, a városi megbízott.}
-{102}{}{Egy pelyhedz? állú srácot látsz. Alig várja, hogy segíthessen.}
-{103}{}{Üdvözlöm, idegen! Én Karl megbízott vagyok. Mit tehetek magáért?}
-{104}{}{Úgymint?}
-{105}{}{Öh... nögh..}
-{106}{}{Új vagyok itt az ÚKK-ban. Mit tud mondani a városáról?}
-{107}{}{A 13-as Menedéket keresem.}
-{108}{}{Tandi Elnök küldött, hogy beszéljek egy foglyukkal.}
+{101}{}{? Karl, a vÃ¡rosi megbÃ­zott.}
+{102}{}{Egy pelyhedz? Ã¡llÃº srÃ¡cot lÃ¡tsz. Alig vÃ¡rja, hogy segÃ­thessen.}
+{103}{}{ÃœdvÃ¶zlÃ¶m, idegen! Ã‰n Karl megbÃ­zott vagyok. Mit tehetek magÃ¡Ã©rt?}
+{104}{}{Ãšgymint?}
+{105}{}{Ã–h... nÃ¶gh..}
+{106}{}{Ãšj vagyok itt az ÃšKK-ban. Mit tud mondani a vÃ¡rosÃ¡rÃ³l?}
+{107}{}{A 13-as MenedÃ©ket keresem.}
+{108}{}{Tandi ElnÃ¶k kÃ¼ldÃ¶tt, hogy beszÃ©ljek egy foglyukkal.}
 {109}{}{A nevem}
-{110}{}{Egy Jack nev? ürgét keresek. Néhányan Gyakós Jacknek hívják. }
-{111}{}{Hol találom Roger Westint?}
-{112}{}{Nem mulattott maga egy kicsit sokat? Nézze csak, itt egy nyitott cella! Miért nem megy hátra és alussza ki magát?}
-{113}{}{Hallgasson rám! Kérje meg a barátait, hogy vigyék haza, ott majd kialussza magát. Itt b?nnek számít nyilvános helyen inni.}
+{110}{}{Egy Jack nev? Ã¼rgÃ©t keresek. NÃ©hÃ¡nyan GyakÃ³s Jacknek hÃ­vjÃ¡k. }
+{111}{}{Hol talÃ¡lom Roger Westint?}
+{112}{}{Nem mulattott maga egy kicsit sokat? NÃ©zze csak, itt egy nyitott cella! MiÃ©rt nem megy hÃ¡tra Ã©s alussza ki magÃ¡t?}
+{113}{}{Hallgasson rÃ¡m! KÃ©rje meg a barÃ¡tait, hogy vigyÃ©k haza, ott majd kialussza magÃ¡t. Itt b?nnek szÃ¡mÃ­t nyilvÃ¡nos helyen inni.}
 {114}{}{This is NCR, capitol of the New California Republic. Population 3000 and growing. No slavery, no gambling, no drugs. President is Mrs. Tandi, my boss is Sheriff Dumont. That answer your questions?}
-{115}{}{Hát, vannak még egyéb kérdéseim.}
+{115}{}{HÃ¡t, vannak mÃ©g egyÃ©b kÃ©rdÃ©seim.}
 {116}{}{Ja, ez minden.}
-{117}{}{Mikor kicsi gyerek voltam, én is azt kerestem. Szóljon, ha megtalálta!}
-{118}{}{Hát, vannak még egyéb kérdéseim.}
-{119}{}{Ja, köszi.}
-{120}{}{? Oswald. Ez minden, amit ki tudtunk szedni bel?le. A 15-ös Menedék lakójának kellene lennie, de én kételkedem benne. Nagyon kemény fickó. Sejti, mire gondolok?}
-{121}{}{Szóval kemény...??}
-{122}{}{Mit fog csinálni vele??}
-{123}{}{Mondja csak, nem hallottam én már magáról? Bizony, elég jó dolgokat... Nézze, ismerek itt bizonyos fickókat, akiknek hasznára volna egy magafajta ember. Csak menjen el az autósboltba, és kérdezzen rá Elise-nél! Mondja meg neki, hogy Karl üdvözli!}
+{117}{}{Mikor kicsi gyerek voltam, Ã©n is azt kerestem. SzÃ³ljon, ha megtalÃ¡lta!}
+{118}{}{HÃ¡t, vannak mÃ©g egyÃ©b kÃ©rdÃ©seim.}
+{119}{}{Ja, kÃ¶szi.}
+{120}{}{? Oswald. Ez minden, amit ki tudtunk szedni bel?le. A 15-Ã¶s MenedÃ©k lakÃ³jÃ¡nak kellene lennie, de Ã©n kÃ©telkedem benne. Nagyon kemÃ©ny fickÃ³. Sejti, mire gondolok?}
+{121}{}{SzÃ³val kemÃ©ny...??}
+{122}{}{Mit fog csinÃ¡lni vele??}
+{123}{}{Mondja csak, nem hallottam Ã©n mÃ¡r magÃ¡rÃ³l? Bizony, elÃ©g jÃ³ dolgokat... NÃ©zze, ismerek itt bizonyos fickÃ³kat, akiknek hasznÃ¡ra volna egy magafajta ember. Csak menjen el az autÃ³sboltba, Ã©s kÃ©rdezzen rÃ¡ Elise-nÃ©l! Mondja meg neki, hogy Karl Ã¼dvÃ¶zli!}
 {124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
-{125}{}{Hát, vannak még egyéb kérdéseim.}
-{126}{}{Elég lesz. Kösz.}
-{127}{}{Az Jack rend?rtiszt, idegen. Az egyik emberünk. Ugye még nem beszélt Mirával?}
+{125}{}{HÃ¡t, vannak mÃ©g egyÃ©b kÃ©rdÃ©seim.}
+{126}{}{ElÃ©g lesz. KÃ¶sz.}
+{127}{}{Az Jack rend?rtiszt, idegen. Az egyik emberÃ¼nk. Ugye mÃ©g nem beszÃ©lt MirÃ¡val?}
 {128}{}{Igen.}
 {129}{}{Ki az a Mira?}
 {130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
-{131}{}{Nem nagyon csípi, amint látom.}
-{132}{}{Hát, vannak még egyéb kérdéseim.}
-{133}{}{Köszi.}
-{134}{}{Ja. A rosszabbik fajtából való. Minden szó nélkül megölte két emberünket.}
-{135}{}{Hagyjon magunkra egy kicsit! Talán meg tudom gy?zni, hogy együttm?köd?bb legyen.}
-{136}{}{Most már láthatom?}
-{137}{}{Remélem, felakasztják a rohadékot. ? és a barátai megölték két jó emberünket. Nem okoz majd szívfájdalmat, ha meghal.}
-{138}{}{Most már láthatom?}
+{131}{}{Nem nagyon csÃ­pi, amint lÃ¡tom.}
+{132}{}{HÃ¡t, vannak mÃ©g egyÃ©b kÃ©rdÃ©seim.}
+{133}{}{KÃ¶szi.}
+{134}{}{Ja. A rosszabbik fajtÃ¡bÃ³l valÃ³. Minden szÃ³ nÃ©lkÃ¼l megÃ¶lte kÃ©t emberÃ¼nket.}
+{135}{}{Hagyjon magunkra egy kicsit! TalÃ¡n meg tudom gy?zni, hogy egyÃ¼ttm?kÃ¶d?bb legyen.}
+{136}{}{Most mÃ¡r lÃ¡thatom?}
+{137}{}{RemÃ©lem, felakasztjÃ¡k a rohadÃ©kot. ? Ã©s a barÃ¡tai megÃ¶ltÃ©k kÃ©t jÃ³ emberÃ¼nket. Nem okoz majd szÃ­vfÃ¡jdalmat, ha meghal.}
+{138}{}{Most mÃ¡r lÃ¡thatom?}
 {139}{}{She and Jack used to be married, you know. Had themselves a really messy divorce. I wouldn't believe spit from her, not about Jack. 
 Do yourself a favor, stay out of it. Jack's a good man, it's just this stuff's got him a little high-strung.}
-{140}{}{Oké, váltsunk témát!}
-{141}{}{Rendben, kösz a szíves felvilágositást, megbízott.}
+{140}{}{OkÃ©, vÃ¡ltsunk tÃ©mÃ¡t!}
+{141}{}{Rendben, kÃ¶sz a szÃ­ves felvilÃ¡gositÃ¡st, megbÃ­zott.}
 {142}{}{His ex, that's all. If he's not here, he might be over at the power plant. He's been moonlighting over there for Dorothy.}
-{143}{}{Hát, vannak még egyéb kérdéseim.}
-{144}{}{Köszi.}
-{145}{}{Amint láthatja, nem kertelek. Rengeteg ember felnéz rá, mert tanácstag, de én nem. Azt gondolja, hogy nagy ember és, hogy a törvény nem mindig vonatkozik rá. Én egy kicsit alacsonyabb lóra ültetném.}
-{146}{}{Furcsa dolgok történtek mostanában. Mit tud err?l mondani?}
-{147}{}{Mennem kell. Hogy is mondta? Éppen a város határában?}
-{148}{}{Semmi probléma. Öt percig talán nem történik semmi. Kövessen!}
-{149}{}{Persze, bármi jó is származzék magának ebb?l.}
-{150}{}{Hát, néhány éve szélütést kapott, viszont Jubillee doki szerzett neki valami gyógyszert. Egyébként is, miért érdekli?}
-{151}{}{Semmi, csak úgy kérdeztem! Nem vesztegetem tovább az idejét.}
-{152}{}{. Kéne valami tisztességes munka.}
+{143}{}{HÃ¡t, vannak mÃ©g egyÃ©b kÃ©rdÃ©seim.}
+{144}{}{KÃ¶szi.}
+{145}{}{Amint lÃ¡thatja, nem kertelek. Rengeteg ember felnÃ©z rÃ¡, mert tanÃ¡cstag, de Ã©n nem. Azt gondolja, hogy nagy ember Ã©s, hogy a tÃ¶rvÃ©ny nem mindig vonatkozik rÃ¡. Ã‰n egy kicsit alacsonyabb lÃ³ra Ã¼ltetnÃ©m.}
+{146}{}{Furcsa dolgok tÃ¶rtÃ©ntek mostanÃ¡ban. Mit tud err?l mondani?}
+{147}{}{Mennem kell. Hogy is mondta? Ã‰ppen a vÃ¡ros hatÃ¡rÃ¡ban?}
+{148}{}{Semmi problÃ©ma. Ã–t percig talÃ¡n nem tÃ¶rtÃ©nik semmi. KÃ¶vessen!}
+{149}{}{Persze, bÃ¡rmi jÃ³ is szÃ¡rmazzÃ©k magÃ¡nak ebb?l.}
+{150}{}{HÃ¡t, nÃ©hÃ¡ny Ã©ve szÃ©lÃ¼tÃ©st kapott, viszont Jubillee doki szerzett neki valami gyÃ³gyszert. EgyÃ©bkÃ©nt is, miÃ©rt Ã©rdekli?}
+{151}{}{Semmi, csak Ãºgy kÃ©rdeztem! Nem vesztegetem tovÃ¡bb az idejÃ©t.}
+{152}{}{. KÃ©ne valami tisztessÃ©ges munka.}
 {153}{}{Tandi say you got bad man here.}
 {154}{}{Me want to see bad man.}

@@ -1,8 +1,8 @@
-1:¿Elegido?
-2:¿Elegido?
-3:¿Me escuchas?
+1:Â¿Elegido?
+2:Â¿Elegido?
+3:Â¿Me escuchas?
 4:[La] aldea [muere].
-5:[Todo nuestro] futuro muere, también.
+5:[Todo nuestro] futuro muere, tambiÃ©n.
 6:Nos queda poco [tiempo y ] esencia.
-7:Rápido.
-8:Ráp-...
+7:RÃ¡pido.
+8:RÃ¡p-...

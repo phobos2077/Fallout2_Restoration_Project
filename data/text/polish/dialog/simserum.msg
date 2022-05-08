@@ -1,2 +1,2 @@
-{100}{}{Masz tego u¿yæ na supermutancie.}
-{101}{}{Zu¿ywasz Serum Mutagenne. }
+{100}{}{Masz tego uÅ¼yÄ‡ na supermutancie.}
+{101}{}{ZuÅ¼ywasz Serum Mutagenne. }

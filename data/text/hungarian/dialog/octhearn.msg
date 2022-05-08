@@ -1,44 +1,44 @@
-{100}{}{Ez a Halálkarom szokatlanul intelligens tekintettel néz rád.}
-{101}{}{Thearn, a Halálkarmok egyike.}
-{102}{}{Egy átlagos Halálkarom. Óriási teremtmény, er?s testtel, éles fogakkal és karmokkal felvértezve..}
-{103}{}{Bocsássad meg! Nem beszél én rendesen. Azér próbálom meg.}
+{100}{}{Ez a HalÃ¡lkarom szokatlanul intelligens tekintettel nÃ©z rÃ¡d.}
+{101}{}{Thearn, a HalÃ¡lkarmok egyike.}
+{102}{}{Egy Ã¡tlagos HalÃ¡lkarom. Ã“riÃ¡si teremtmÃ©ny, er?s testtel, Ã©les fogakkal Ã©s karmokkal felvÃ©rtezve..}
+{103}{}{BocsÃ¡ssad meg! Nem beszÃ©l Ã©n rendesen. AzÃ©r prÃ³bÃ¡lom meg.}
 {104}{}{Mit akarol?}
 {105}{}{Te ki?}
-{106}{}{Mit te csinál?}
+{106}{}{Mit te csinÃ¡l?}
 {107}{}{Mennyire vagyol okos?}
-{108}{}{Én menni mostan.}
+{108}{}{Ã‰n menni mostan.}
 {109}{}{Ki vagy te?}
-{110}{}{Mit csinálsz itt?}
-{111}{}{Ne vedd sértésnek, de mennyire vagy m?velt?}
-{112}{}{Csak múlatom az id?t...}
+{110}{}{Mit csinÃ¡lsz itt?}
+{111}{}{Ne vedd sÃ©rtÃ©snek, de mennyire vagy m?velt?}
+{112}{}{Csak mÃºlatom az id?t...}
 {113}{}{Thearn vagyok. Te ki?}
-{114}{}{Én}
+{114}{}{Ã‰n}
 {115}{}{Megyek.}
 {116}{}{Mennem kell.}
-{117}{}{Örülök, hogy találkoztunk, Thearn. Én}
-{118}{}{Értem.}
-{119}{}{Végiggondolván a dolgot, egy sugárzó patkánysegget sem érdekel, hogy ki vagy!}
-{120}{}{?rzöm hallt. Falka biztonsága cél.}
-{121}{}{Ó... Öö...}
-{122}{}{?rzöl? Mit?}
-{123}{}{Oké. Megyek.}
-{124}{}{Hát csak folytasd! Már itt sem vagyok.}
-{125}{}{Kiváló munkát végzel!}
+{117}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk, Thearn. Ã‰n}
+{118}{}{Ã‰rtem.}
+{119}{}{VÃ©giggondolvÃ¡n a dolgot, egy sugÃ¡rzÃ³ patkÃ¡nysegget sem Ã©rdekel, hogy ki vagy!}
+{120}{}{?rzÃ¶m hallt. Falka biztonsÃ¡ga cÃ©l.}
+{121}{}{Ã“... Ã–Ã¶...}
+{122}{}{?rzÃ¶l? Mit?}
+{123}{}{OkÃ©. Megyek.}
+{124}{}{HÃ¡t csak folytasd! MÃ¡r itt sem vagyok.}
+{125}{}{KivÃ¡lÃ³ munkÃ¡t vÃ©gzel!}
 {126}{}{?rnek nevezed magad? Haha!}
-{127}{}{És mi ellen véded a hallt?}
-{128}{}{Betolakodók. Ember, Halálkarom, bármi. Ha falka támadják meg, én küzd.}
+{127}{}{Ã‰s mi ellen vÃ©ded a hallt?}
+{128}{}{BetolakodÃ³k. Ember, HalÃ¡lkarom, bÃ¡rmi. Ha falka tÃ¡madjÃ¡k meg, Ã©n kÃ¼zd.}
 {129}{}{Ah.}
-{130}{}{Értem.}
-{131}{}{Meg lennék lepve, ha lenne annyi eszed, hogy megállapítsd barát, vagy ellenség jön-e.}
-{132}{}{Sajnálom azokat a betolakodókat, akik összeakadnak veled.}
-{133}{}{Nem gond. Még látjuk egymást.}
-{134}{}{Hogyan döntök? Nem tudni. Van, amit értek jól. Van, amit kicsit. Sokat egyáltalán nem.}
-{135}{}{Te, én, egyforma.}
-{136}{}{Ja, ez rám is illik.}
-{137}{}{Csak így tovább!}
-{138}{}{Más szavakkal: hülye segg vagy!}
-{139}{}{Te falka barát. Megmentetted falkát, megjavítottad gépet.}
-{140}{}{Helló! Még mindig ?rzök.}
+{130}{}{Ã‰rtem.}
+{131}{}{Meg lennÃ©k lepve, ha lenne annyi eszed, hogy megÃ¡llapÃ­tsd barÃ¡t, vagy ellensÃ©g jÃ¶n-e.}
+{132}{}{SajnÃ¡lom azokat a betolakodÃ³kat, akik Ã¶sszeakadnak veled.}
+{133}{}{Nem gond. MÃ©g lÃ¡tjuk egymÃ¡st.}
+{134}{}{Hogyan dÃ¶ntÃ¶k? Nem tudni. Van, amit Ã©rtek jÃ³l. Van, amit kicsit. Sokat egyÃ¡ltalÃ¡n nem.}
+{135}{}{Te, Ã©n, egyforma.}
+{136}{}{Ja, ez rÃ¡m is illik.}
+{137}{}{Csak Ã­gy tovÃ¡bb!}
+{138}{}{MÃ¡s szavakkal: hÃ¼lye segg vagy!}
+{139}{}{Te falka barÃ¡t. Megmentetted falkÃ¡t, megjavÃ­tottad gÃ©pet.}
+{140}{}{HellÃ³! MÃ©g mindig ?rzÃ¶k.}
 {141}{}{}
 {142}{}{Arrrrrrrrrgggh! Meghalsz!}
 {143}{}{ vagyok.}

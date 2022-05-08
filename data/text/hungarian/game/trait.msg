@@ -1,32 +1,32 @@
 {100}{}{Gyors anyagcsere}
-{101}{}{Brutál}
+{101}{}{BrutÃ¡l}
 {102}{}{Kis termet}
 {103}{}{Egykezes}
 {104}{}{Ravasz}
-{105}{}{Kamikáze}
-{106}{}{Kemény ökl?}
-{107}{}{Gyorstüzel?}
-{108}{}{Vérfürd?}
+{105}{}{KamikÃ¡ze}
+{106}{}{KemÃ©ny Ã¶kl?}
+{107}{}{GyorstÃ¼zel?}
+{108}{}{VÃ©rfÃ¼rd?}
 {109}{}{Balszerencse}
-{110}{}{Jó természet?}
+{110}{}{JÃ³ termÃ©szet?}
 {111}{}{Drug Reliant}
 {112}{}{Drug Resistant}
 {113}{}{Szexepil}
-{114}{}{Képzett}
-{115}{}{Tehetséges}
-{200}{}{Az anyagcseréd kétszer gyorsabb. Ez azt jelenti, hogy a méreggel és a sugárzással szemben kevésbé vagy ellenállóbb, viszont gyorsabban gyógyulsz.}
-{201}{}{Egy kicsit lassabb, viszont kicsit nagyobb vagy. Nem ütsz gyakran, de megérzik, ha betalálsz! Az akciópontjaid száma csökken, de az er?d megn?.}
-{202}{}{Nem vagy olyan nagy termet?, mint mások, de ez sohasem lassított le téged. Nem bírsz el annyi mindent, de sokkal gyorsabb vagy.}
-{203}{}{Az egyik kezed domináns. Egykezes fegyverekkel kiemelkedsz a többiek közül, de a kétkezes fegyverek használata gondot okoz.}
-{204}{}{Támadásaid igen ravaszak. Nem sebzel olyan sokat, de gyakrabban okozol kritikus sebzést.}
-{205}{}{Mivel nem tör?dsz semmilyen veszéllyel, sokkal hamarabb cselekszel. A Védelmi értékedet csak a viselt páncél határozza meg, viszont minden harci körben gyorsabban cselekedhetsz.}
-{206}{}{Nagyobbat ütsz, de nem jobbat. Támadásaid brutálisak, de nem elég ravaszak. Ritkán okozol kritikus sebzést, de közelharcban mindig többet sebzel.}
-{207}{}{Mivel gyorsabban támadsz másoknál, nincs id?d pontosan célozni. A l?fegyverek és dobófegyverek használata eggyel kevesebb AP-ba kerül.}
-{208}{}{Valamilyen különös oknál fogva az emberek er?szakos módon haláloznak el körülötted. Mindig a lehet? legcsúnyább módját látod mások halálának.}
-{209}{}{A jó hír az, hogy körülötted mindenki többször vét kritikus hibát csatában. A rossz hír viszont az, hogy te is!}
-{210}{}{Kevés id?t töltöttél harci jelleg? képzettségek elsajátításával, ezek tehát alacsonyabb százalékról indulnak. Az Els?segély, Orvos, Beszéd és Üzletelés képzettségeid viszont magasabbról.}
+{114}{}{KÃ©pzett}
+{115}{}{TehetsÃ©ges}
+{200}{}{Az anyagcserÃ©d kÃ©tszer gyorsabb. Ez azt jelenti, hogy a mÃ©reggel Ã©s a sugÃ¡rzÃ¡ssal szemben kevÃ©sbÃ© vagy ellenÃ¡llÃ³bb, viszont gyorsabban gyÃ³gyulsz.}
+{201}{}{Egy kicsit lassabb, viszont kicsit nagyobb vagy. Nem Ã¼tsz gyakran, de megÃ©rzik, ha betalÃ¡lsz! Az akciÃ³pontjaid szÃ¡ma csÃ¶kken, de az er?d megn?.}
+{202}{}{Nem vagy olyan nagy termet?, mint mÃ¡sok, de ez sohasem lassÃ­tott le tÃ©ged. Nem bÃ­rsz el annyi mindent, de sokkal gyorsabb vagy.}
+{203}{}{Az egyik kezed dominÃ¡ns. Egykezes fegyverekkel kiemelkedsz a tÃ¶bbiek kÃ¶zÃ¼l, de a kÃ©tkezes fegyverek hasznÃ¡lata gondot okoz.}
+{204}{}{TÃ¡madÃ¡said igen ravaszak. Nem sebzel olyan sokat, de gyakrabban okozol kritikus sebzÃ©st.}
+{205}{}{Mivel nem tÃ¶r?dsz semmilyen veszÃ©llyel, sokkal hamarabb cselekszel. A VÃ©delmi Ã©rtÃ©kedet csak a viselt pÃ¡ncÃ©l hatÃ¡rozza meg, viszont minden harci kÃ¶rben gyorsabban cselekedhetsz.}
+{206}{}{Nagyobbat Ã¼tsz, de nem jobbat. TÃ¡madÃ¡said brutÃ¡lisak, de nem elÃ©g ravaszak. RitkÃ¡n okozol kritikus sebzÃ©st, de kÃ¶zelharcban mindig tÃ¶bbet sebzel.}
+{207}{}{Mivel gyorsabban tÃ¡madsz mÃ¡soknÃ¡l, nincs id?d pontosan cÃ©lozni. A l?fegyverek Ã©s dobÃ³fegyverek hasznÃ¡lata eggyel kevesebb AP-ba kerÃ¼l.}
+{208}{}{Valamilyen kÃ¼lÃ¶nÃ¶s oknÃ¡l fogva az emberek er?szakos mÃ³don halÃ¡loznak el kÃ¶rÃ¼lÃ¶tted. Mindig a lehet? legcsÃºnyÃ¡bb mÃ³djÃ¡t lÃ¡tod mÃ¡sok halÃ¡lÃ¡nak.}
+{209}{}{A jÃ³ hÃ­r az, hogy kÃ¶rÃ¼lÃ¶tted mindenki tÃ¶bbszÃ¶r vÃ©t kritikus hibÃ¡t csatÃ¡ban. A rossz hÃ­r viszont az, hogy te is!}
+{210}{}{KevÃ©s id?t tÃ¶ltÃ¶ttÃ©l harci jelleg? kÃ©pzettsÃ©gek elsajÃ¡tÃ­tÃ¡sÃ¡val, ezek tehÃ¡t alacsonyabb szÃ¡zalÃ©krÃ³l indulnak. Az Els?segÃ©ly, Orvos, BeszÃ©d Ã©s ÃœzletelÃ©s kÃ©pzettsÃ©geid viszont magasabbrÃ³l.}
 {211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
 {212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
-{213}{}{Benned megvan "AZ" a valami. Az ellenkez? nem?ek er?sen vonzódnak hozzád, a veled egynem?ek viszont hajlamosak féltékenykedni.}
-{214}{}{Mivel több id?t töltöttél képzettségeid fejlesztésére, 5-tel több képzettség pontot kapsz szintenként. Cserébe viszont csak minden negyedik szinten kapsz új képességet.}
-{215}{}{Mivel ?stehetség vagy, nem fordítottál túl sok id?t a képzettségeidre. Els?dleges tulajdonsá-gaid 1 ponttal n?nek, de minden képzettsé-gedb?l 10%-ot vesz-tesz, és szintlépéskor 5-tel kevesebb képzettség pontot kapsz.}
+{213}{}{Benned megvan "AZ" a valami. Az ellenkez? nem?ek er?sen vonzÃ³dnak hozzÃ¡d, a veled egynem?ek viszont hajlamosak fÃ©ltÃ©kenykedni.}
+{214}{}{Mivel tÃ¶bb id?t tÃ¶ltÃ¶ttÃ©l kÃ©pzettsÃ©geid fejlesztÃ©sÃ©re, 5-tel tÃ¶bb kÃ©pzettsÃ©g pontot kapsz szintenkÃ©nt. CserÃ©be viszont csak minden negyedik szinten kapsz Ãºj kÃ©pessÃ©get.}
+{215}{}{Mivel ?stehetsÃ©g vagy, nem fordÃ­tottÃ¡l tÃºl sok id?t a kÃ©pzettsÃ©geidre. Els?dleges tulajdonsÃ¡-gaid 1 ponttal n?nek, de minden kÃ©pzettsÃ©-gedb?l 10%-ot vesz-tesz, Ã©s szintlÃ©pÃ©skor 5-tel kevesebb kÃ©pzettsÃ©g pontot kapsz.}

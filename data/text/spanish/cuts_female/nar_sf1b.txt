@@ -1,4 +1,4 @@
-1:La cepa de la planta que los científicos han hecho crecer muta, adquiriendo cierto grado de consciencia.
-2:Mata a los técnicos y asume el control del laboratorio en el cual fue concebida.
+1:La cepa de la planta que los cientÃ­ficos han hecho crecer muta, adquiriendo cierto grado de consciencia.
+2:Mata a los tÃ©cnicos y asume el control del laboratorio en el cual fue concebida.
 3:Requiere una masiva cantidad de recursos aplastar al ser, lo que deja a los Shi extremadamente empobrecidos.
 4:Desaparecen en el Yermo.

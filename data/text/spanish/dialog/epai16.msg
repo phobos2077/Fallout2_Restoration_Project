@@ -1,1 +1,1 @@
-{100}{}{Se utiliza toda la lata de pulverización de la planta.}
+{100}{}{Se utiliza toda la lata de pulverizaciÃ³n de la planta.}

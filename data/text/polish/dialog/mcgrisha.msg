@@ -1,153 +1,153 @@
 {100}{}{Widzisz bardzo aktywnego staruszka.}
 {101}{}{Widzisz Grishama.}
-{102}{}{Nie mo¿esz go sobie przypomnieæ, niemniej wygl¹da on dla ciebie znajomo.}
-{151}{}{Powiedzia³em ci, ¿e dostanie ci siê!}
+{102}{}{Nie moÅ¼esz go sobie przypomnieÄ‡, niemniej wyglÄ…da on dla ciebie znajomo.}
+{151}{}{PowiedziaÅ‚em ci, Å¼e dostanie ci siÄ™!}
 {152}{}{Buahahaha!}
-{153}{}{OdejdŸ!}
-{154}{}{Jestem zajêty!}
-{155}{}{Wiedzia³em, ¿e moja córka jest dziwna.}
-{156}{}{Ró¿ni ludzie, ró¿ne gusta - jak przypuszczam.}
-{157}{}{Chyba siê porzygam.}
-{158}{}{Wiedzia³em, ¿e mój syn jest dziwny.}
-{159}{}{Chyba teraz jesteœ w mojej rodzinie.}
-{160}{}{Opiekuj siê dobrze moj¹ córk¹.}
-{161}{}{Opiekuj siê dobrze moim synem.}
-{162}{}{Nazywam siê Grisham. Witaj w mojej rzeŸni. Zostawiasz coœ, czy raczej zabierasz?}
-{163}{}{Raczej zabieram? Chcê tu zrobiæ pewne zapasy na drogê.}
-{164}{}{Nie widzia³eœ przypadkiem, aby le¿a³ gdzieœ tutaj z³oty zegarek?}
-{165}{}{Co mogê dla ciebie zrobiæ?}
-{166}{}{Chcê kupiæ trochê twojej s³ynnej wêdzonki.}
-{168}{}{Czy mo¿esz mi powiedzieæ coœ o rzeŸni?}
-{169}{}{Widzê, ¿e susza jeszcze nie wp³ynê³a zbytnio na twój biznes?}
-{170}{}{Wiedzia³em, ¿e dasz sobie z tym radê. Wiêc jestem ci winien $1000 za ukoñczenie tej roboty. Niemniej, z powodu twojej nieostro¿noœci pog³owie bramin zmniejszy³o siê o }
-{171}{}{. Licz¹c po $100 za braminê, twoja nagroda wynosi }
-{172}{}{. Nie zadawaj sobie trudu, i nie zmyœlaj liczby bramin, które zosta³y zabite - jeden z moich ch³opaków poszed³ za tob¹ i obserwowa³ ciê z ukrycia.}
-{173}{}{Nie mówi³eœ nic o obci¹¿aniu mnie w przypadku œmierci jakiejkolwiek braminy!}
-{174}{}{Ty wredny, dwulicowy starcu! Argh! Uprzedzam ciê - to jest ostatni raz, gdy zachowujê siê tak grzecznie!}
-{175}{}{Dziêki, ojczulku, interesy z tob¹ to przyjemnoœæ.}
-{176}{}{Jak œmiesz pokazywaæ tutaj swoj¹ twarz! Przez twoje tchórzostwo straci³em dziesiêæ bramin! Jakkolwiek, jeœli chcesz mi to wynagrodziæ, to myœlê, ¿e $1500 pokry³oby wiêkszoœæ moich strat.}
-{177}{}{Te braminy nie by³y warte wiêcej ni¿ $1000.}
-{178}{}{Nie mam takich pieniêdzy, a nawet gdyby, to nie dam ich takiemu cwaniakowi, jak ty.}
-{179}{}{Pieni¹dze mam w swoim pokoju. Pójdê po nie i zaraz wrócê.}
-{180}{}{Ach! Oczywiœcie, oczywiœcie. Zobaczmy, na podró¿... Polecam znane na ca³ym œwiecie paski wêdzonki z bramin. Nie zepsuj¹ siê w podró¿y, a do tego s¹ smaczne. Tylko $10 za paczkê. Nadal zainteresowany?}
-{181}{}{Brzmi nieŸle. Daj mi jedn¹ paczkê.}
-{182}{}{Na razie dziêki, mo¿e póŸniej. Chcê jednak zadaæ ci kilka pytañ.}
-{183}{}{Mi³o siê z tob¹ handlowa³o. Czy jest coœ jeszcze, w czym móg³bym ci pomóc?}
-{185}{}{Czekaj! Nie wygl¹dasz mi na przeciêtnego podró¿nika. Nie chcesz zarobiæ paru groszy?}
-{186}{}{Nie interesuje ciê ma³y interes? Jestem dziwnie przekonany, i¿ nie stanowi³oby to dla ciebie wiêkszego problemu.}
-{187}{}{To zale¿y. Ile, co mam zrobiæ, no i przede wszystkim, ILE?}
-{188}{}{Ha! Przypominasz mi samego siebie, kiedy by³em jeszcze m³ody. To proste... parê dzikich psów zesz³o ostatnio za jedzeniem ze wzgórz. Myœlê, ¿e uzna³y braminy za ³atw¹ zdobycz i regularnie w nocy atakuj¹ moje stada. Zmieæ ich watahê z powierzchni ziemi, a zap³acê ci $1000.}
-{189}{}{Ukrywasz coœ przede mn¹, starcze. Gdzie jest haczyk?}
-{190}{}{Ha! Podobasz mi siê! Wiedzia³em, ¿e nie bêdê w stanie naci¹gn¹æ ciê na cokolwiek. Chodzi o to, ¿e jeœli pozwolisz, aby zginê³a jakakolwiek bramina, to bêdzie ciê to kosztowaæ $100 od sztuki. P³acê dobrze za dobr¹ robotê, ale tak¿e obci¹¿am za straty. To jest ryzyko, które podejmujesz, pracuj¹c dla mnie.}
-{191}{}{Œwietnie! IdŸ w nocy na pastwisko i zabij te dzikie psy, które atakuj¹ moje byd³o. Wróæ do mnie, kiedy skoñczysz robotê.}
-{192}{}{Do stu tysiêcy beczek z kiszon¹ kapust¹! Cornellius nadal szuka swojego zgubionego zegarka? Dlaczego nie mo¿e siê pogodziæ z tym, ¿e ju¿ go nie ma? Ten cholerny zegarek i tak nigdy nie dzia³a³, a ja jestem wujem braminy, jeœli by³ on naprawdê ze z³ota. Poddaj siê, i tak nigdy go nie znajdziesz.}
-{193}{}{Tak naprawdê, to Farrel mnie poprosi³. Dlatego go szukam.}
-{194}{}{Czy mogê ci zadaæ kilka pytañ?}
-{195}{}{Tak czy inaczej, dziêki, ale poszukam go jeszcze.}
-{196}{}{Nie powiedzia³em? Na pewno? Móg³bym przysi¹c, ¿e mówi³em ci o tym. Mo¿e nastêpnym razem, kiedy ktoœ ci zaproponuje pracê, dowiesz siê wszystkich szczegó³ów, zanim j¹ przyjmiesz.}
-{197}{}{Hahaha. Zale¿y. Planujesz zostaæ w mieœcie na d³u¿ej? Buahahahaha!}
-{198}{}{Widzê, ¿e mo¿na siê z tob¹ dogadaæ. OK - $1000 wobec tego i uznamy to za przyklepane. Podaj mi rêkê na zgodê.}
-{199}{}{[Podaj rekê Grishamowi]}
-{200}{}{Poczekaj chwilkê. Teraz, gdy o tym pomyœlê, to te braminy wygl¹da³y na nieco wychudzone. Co powiesz na $750, zamiast $1000?}
-{201}{}{Zmieniam zdanie: nie chcê ci za nic p³aciæ.}
-{202}{}{[Wyszczerza do ciebie zêby.] Dobrze wiedzieæ, ¿e jesteœ osob¹ z charakterem.}
-{203}{}{[Grisham robi siê czerwony jak burak i mówi do ciebie przez zaciœniête zêby.] OK, mo¿e byæ $750. Daj mi pieni¹dze!}
-{204}{}{Wiesz co, $750 dalej wydaje siê byæ znacznie zawy¿on¹ kwot¹. Te braminy i tak by zdech³y, nawet gdyby nie dopad³y ich te psy. Znaj jednak moja dobroæ. Dam ci $50.}
-{206}{}{DOBRA! DAWAJ MI PIENI¥DZE I WYNOŒ SIÊ ST¥D!}
-{207}{}{[WyjdŸ bez p³acenia]}
-{208}{}{Uwa¿aj na moje s³owa, i tak dostaniesz, co ci siê nale¿y. Jeœli nie ode mnie, to od kogoœ innego.}
-{209}{}{[Grisham uœmiecha siê do ciebie w taki sposób, ¿e podœwiadomie cofasz siê o krok] Dlaczego po prostu nie zatrzymasz pieniêdzy przy sobie? Mam przeczucie, ¿e mo¿esz ich potrzebowaæ nieco póŸniej.}
-{210}{}{Niewiele mam do opowiadania. Prowadzê rzeŸniê w Modoc. Jeœli chcesz coœ ubiæ, przyprowadzasz to do mnie. Zabijê to dla ciebie i zrobiê z tego doskona³¹, chrupi¹c¹ i aromatyczn¹ wêdzonkê.}
-{211}{}{A co ze skór¹ i innymi czêœciami zwierzêcia?}
-{213}{}{W sumie, to pomog³o mi to nieco w biznesie. Nikt nie jest w stanie wyhodowaæ wystarczaj¹cej iloœci zbo¿a na paszê dla swoich bramin, wiêc musz¹ oni znacznie pomniejszaæ swoje stada. Ale to tylko tymczasowe. Musisz na to spojrzeæ z szerszej perspektywy. Mój biznes mo¿e tylko ucierpieæ na spadku populacji bramin.}
-{215}{}{[Grisham obchodzi ciê dooko³a, szturcha kilka razy, otwiera ci usta i sprawdza zêby] Ach! Piêkny, zdrowy okaz. Nadajesz siê doskonale. Khm... z³e pieski, zabijaj¹ dobre braminy. IdŸ i zabij z³e pieski, dla twojego przyjaciela Grishama. Grisham da duuu¿¹ nagrodê. Zgoda?}
-{216}{}{Nie, moja lubiæ pieski. Tylko Ÿli ludzie nie lubiæ piesków. Moja iœæ daleko od z³ego pana.}
-{217}{}{Moja zrobiæ. Iœæ tam teraz!}
-{218}{}{Doskonale! Pamiêtaj, z³e rzeczy robi¹ "Hau! Hau!". Dobre rzeczy robi¹ "Muu". Staraj siê nie zabijaæ dobrych rzeczy.}
-{219}{}{Chyba nie masz chwilowo pieniêdzy. Nie sprzedajê na krechê, i nie wierzê w rozdawanie czegoœ za nic.}
-{221}{}{Oto co mam z zatrudniania neandertalczyka. IdŸ ju¿ sobie, sio!}
-{222}{}{Eh... chrum iik unga bunga. B¹dŸ dobry neandertalczyk, bierz swoj¹ kasê i wyjdŸ.}
-{223}{}{Szybko myœlisz, co? Dobra, jeœli ciê to interesuje, to mo¿esz zabraæ ka¿d¹ czêœæ zwierzêcia. Balthus jest przewa¿nie zainteresowany skór¹, a Rose kupi ka¿de skrawki, których nie chcesz. U¿ywa ich do gotowania zupy i karmienia swoich psów.}
-{225}{}{Chyba ¿artujesz. Wszyscy wiedz¹, ¿e to Farrel zabra³ zegarek. Dlaczego mia³by ciê prosiæ o znalezienie go... chyba, ¿e on go wcale nie ukrad³! A mo¿e to jest tylko taka sztuczka, która ma na celu przekonanie wszystkich, ¿e on go nie wzi¹³. Muszê to wszystko przemyœleæ.}
-{228}{}{Ch³opcze, nie próbuj nawet siê z tego t³umaczyæ. Nie chcê tego wszystkiego s³uchaæ. Wezwê naszego kaznodziejê, uprawomocnimy to wszystko, a ty opuœcisz nas i zabierzesz ze sob¹ mojego syna.}
-{229}{}{Nie mogê powiedzieæ, aby mnie to cieszy³o, niemniej po tym, co zobaczy³em, nie mogê jej pozwoliæ na dalsze mieszkanie w tym domu. Musicie siê pobraæ i wyjechaæ.}
-{230}{}{Czy ktoœ mo¿e mi objaœniæ, co tu siê dzia³o z moj¹ córk¹?}
-{231}{}{Czy ktoœ mo¿e mi objaœniæ, co tu siê dzia³o z moim synem?}
-{232}{}{Pozwól mi to wyt³umaczyæ, ojczulku. Wiesz, to jest tak, ¿e s¹ pszczó³ki i kwiatki... }
-{233}{}{Jestem lekarzem i w³aœnie j¹ dok³adnie bada³em.}
-{234}{}{Jestem lekarzem i w³aœnie go dok³adnie bada³em.}
-{235}{}{To nie jest to, na co wygl¹da.}
-{236}{}{Œwietnie. Bêdê mieæ m¹dralê za ziêcia. Có¿, chodŸmy... synu. Miejmy ju¿ to za sob¹.}
-{237}{}{Œwietnie. Bêdê mieæ m¹dralê za synow¹. Có¿, chodŸmy... córko. Miejmy to ju¿ za sob¹.}
-{238}{}{Hmmm. Wygl¹da³o to tak, jakby moja córka wraz z tob¹ udawa³a braminy podczas okresu rozrodczego.}
-{239}{}{Hmmm. Wygl¹da³o to tak, jakbyœcie, ty i mój syn, tañczyli poziome tango wœród przeœcierade³.}
-{240}{}{OK, mo¿e to faktycznie by³o to, na co wygl¹da³o. Ale to tylko seks, miedzy nami nie ma ¿adnych uczuæ, ani niczego takiego.}
+{153}{}{OdejdÅº!}
+{154}{}{Jestem zajÄ™ty!}
+{155}{}{WiedziaÅ‚em, Å¼e moja cÃ³rka jest dziwna.}
+{156}{}{RÃ³Å¼ni ludzie, rÃ³Å¼ne gusta - jak przypuszczam.}
+{157}{}{Chyba siÄ™ porzygam.}
+{158}{}{WiedziaÅ‚em, Å¼e mÃ³j syn jest dziwny.}
+{159}{}{Chyba teraz jesteÅ› w mojej rodzinie.}
+{160}{}{Opiekuj siÄ™ dobrze mojÄ… cÃ³rkÄ….}
+{161}{}{Opiekuj siÄ™ dobrze moim synem.}
+{162}{}{Nazywam siÄ™ Grisham. Witaj w mojej rzeÅºni. Zostawiasz coÅ›, czy raczej zabierasz?}
+{163}{}{Raczej zabieram? ChcÄ™ tu zrobiÄ‡ pewne zapasy na drogÄ™.}
+{164}{}{Nie widziaÅ‚eÅ› przypadkiem, aby leÅ¼aÅ‚ gdzieÅ› tutaj zÅ‚oty zegarek?}
+{165}{}{Co mogÄ™ dla ciebie zrobiÄ‡?}
+{166}{}{ChcÄ™ kupiÄ‡ trochÄ™ twojej sÅ‚ynnej wÄ™dzonki.}
+{168}{}{Czy moÅ¼esz mi powiedzieÄ‡ coÅ› o rzeÅºni?}
+{169}{}{WidzÄ™, Å¼e susza jeszcze nie wpÅ‚ynÄ™Å‚a zbytnio na twÃ³j biznes?}
+{170}{}{WiedziaÅ‚em, Å¼e dasz sobie z tym radÄ™. WiÄ™c jestem ci winien $1000 za ukoÅ„czenie tej roboty. Niemniej, z powodu twojej nieostroÅ¼noÅ›ci pogÅ‚owie bramin zmniejszyÅ‚o siÄ™ o }
+{171}{}{. LiczÄ…c po $100 za braminÄ™, twoja nagroda wynosi }
+{172}{}{. Nie zadawaj sobie trudu, i nie zmyÅ›laj liczby bramin, ktÃ³re zostaÅ‚y zabite - jeden z moich chÅ‚opakÃ³w poszedÅ‚ za tobÄ… i obserwowaÅ‚ ciÄ™ z ukrycia.}
+{173}{}{Nie mÃ³wiÅ‚eÅ› nic o obciÄ…Å¼aniu mnie w przypadku Å›mierci jakiejkolwiek braminy!}
+{174}{}{Ty wredny, dwulicowy starcu! Argh! Uprzedzam ciÄ™ - to jest ostatni raz, gdy zachowujÄ™ siÄ™ tak grzecznie!}
+{175}{}{DziÄ™ki, ojczulku, interesy z tobÄ… to przyjemnoÅ›Ä‡.}
+{176}{}{Jak Å›miesz pokazywaÄ‡ tutaj swojÄ… twarz! Przez twoje tchÃ³rzostwo straciÅ‚em dziesiÄ™Ä‡ bramin! Jakkolwiek, jeÅ›li chcesz mi to wynagrodziÄ‡, to myÅ›lÄ™, Å¼e $1500 pokryÅ‚oby wiÄ™kszoÅ›Ä‡ moich strat.}
+{177}{}{Te braminy nie byÅ‚y warte wiÄ™cej niÅ¼ $1000.}
+{178}{}{Nie mam takich pieniÄ™dzy, a nawet gdyby, to nie dam ich takiemu cwaniakowi, jak ty.}
+{179}{}{PieniÄ…dze mam w swoim pokoju. PÃ³jdÄ™ po nie i zaraz wrÃ³cÄ™.}
+{180}{}{Ach! OczywiÅ›cie, oczywiÅ›cie. Zobaczmy, na podrÃ³Å¼... Polecam znane na caÅ‚ym Å›wiecie paski wÄ™dzonki z bramin. Nie zepsujÄ… siÄ™ w podrÃ³Å¼y, a do tego sÄ… smaczne. Tylko $10 za paczkÄ™. Nadal zainteresowany?}
+{181}{}{Brzmi nieÅºle. Daj mi jednÄ… paczkÄ™.}
+{182}{}{Na razie dziÄ™ki, moÅ¼e pÃ³Åºniej. ChcÄ™ jednak zadaÄ‡ ci kilka pytaÅ„.}
+{183}{}{MiÅ‚o siÄ™ z tobÄ… handlowaÅ‚o. Czy jest coÅ› jeszcze, w czym mÃ³gÅ‚bym ci pomÃ³c?}
+{185}{}{Czekaj! Nie wyglÄ…dasz mi na przeciÄ™tnego podrÃ³Å¼nika. Nie chcesz zarobiÄ‡ paru groszy?}
+{186}{}{Nie interesuje ciÄ™ maÅ‚y interes? Jestem dziwnie przekonany, iÅ¼ nie stanowiÅ‚oby to dla ciebie wiÄ™kszego problemu.}
+{187}{}{To zaleÅ¼y. Ile, co mam zrobiÄ‡, no i przede wszystkim, ILE?}
+{188}{}{Ha! Przypominasz mi samego siebie, kiedy byÅ‚em jeszcze mÅ‚ody. To proste... parÄ™ dzikich psÃ³w zeszÅ‚o ostatnio za jedzeniem ze wzgÃ³rz. MyÅ›lÄ™, Å¼e uznaÅ‚y braminy za Å‚atwÄ… zdobycz i regularnie w nocy atakujÄ… moje stada. ZmieÄ‡ ich watahÄ™ z powierzchni ziemi, a zapÅ‚acÄ™ ci $1000.}
+{189}{}{Ukrywasz coÅ› przede mnÄ…, starcze. Gdzie jest haczyk?}
+{190}{}{Ha! Podobasz mi siÄ™! WiedziaÅ‚em, Å¼e nie bÄ™dÄ™ w stanie naciÄ…gnÄ…Ä‡ ciÄ™ na cokolwiek. Chodzi o to, Å¼e jeÅ›li pozwolisz, aby zginÄ™Å‚a jakakolwiek bramina, to bÄ™dzie ciÄ™ to kosztowaÄ‡ $100 od sztuki. PÅ‚acÄ™ dobrze za dobrÄ… robotÄ™, ale takÅ¼e obciÄ…Å¼am za straty. To jest ryzyko, ktÃ³re podejmujesz, pracujÄ…c dla mnie.}
+{191}{}{Åšwietnie! IdÅº w nocy na pastwisko i zabij te dzikie psy, ktÃ³re atakujÄ… moje bydÅ‚o. WrÃ³Ä‡ do mnie, kiedy skoÅ„czysz robotÄ™.}
+{192}{}{Do stu tysiÄ™cy beczek z kiszonÄ… kapustÄ…! Cornellius nadal szuka swojego zgubionego zegarka? Dlaczego nie moÅ¼e siÄ™ pogodziÄ‡ z tym, Å¼e juÅ¼ go nie ma? Ten cholerny zegarek i tak nigdy nie dziaÅ‚aÅ‚, a ja jestem wujem braminy, jeÅ›li byÅ‚ on naprawdÄ™ ze zÅ‚ota. Poddaj siÄ™, i tak nigdy go nie znajdziesz.}
+{193}{}{Tak naprawdÄ™, to Farrel mnie poprosiÅ‚. Dlatego go szukam.}
+{194}{}{Czy mogÄ™ ci zadaÄ‡ kilka pytaÅ„?}
+{195}{}{Tak czy inaczej, dziÄ™ki, ale poszukam go jeszcze.}
+{196}{}{Nie powiedziaÅ‚em? Na pewno? MÃ³gÅ‚bym przysiÄ…c, Å¼e mÃ³wiÅ‚em ci o tym. MoÅ¼e nastÄ™pnym razem, kiedy ktoÅ› ci zaproponuje pracÄ™, dowiesz siÄ™ wszystkich szczegÃ³Å‚Ã³w, zanim jÄ… przyjmiesz.}
+{197}{}{Hahaha. ZaleÅ¼y. Planujesz zostaÄ‡ w mieÅ›cie na dÅ‚uÅ¼ej? Buahahahaha!}
+{198}{}{WidzÄ™, Å¼e moÅ¼na siÄ™ z tobÄ… dogadaÄ‡. OK - $1000 wobec tego i uznamy to za przyklepane. Podaj mi rÄ™kÄ™ na zgodÄ™.}
+{199}{}{[Podaj rekÄ™ Grishamowi]}
+{200}{}{Poczekaj chwilkÄ™. Teraz, gdy o tym pomyÅ›lÄ™, to te braminy wyglÄ…daÅ‚y na nieco wychudzone. Co powiesz na $750, zamiast $1000?}
+{201}{}{Zmieniam zdanie: nie chcÄ™ ci za nic pÅ‚aciÄ‡.}
+{202}{}{[Wyszczerza do ciebie zÄ™by.] Dobrze wiedzieÄ‡, Å¼e jesteÅ› osobÄ… z charakterem.}
+{203}{}{[Grisham robi siÄ™ czerwony jak burak i mÃ³wi do ciebie przez zaciÅ›niÄ™te zÄ™by.] OK, moÅ¼e byÄ‡ $750. Daj mi pieniÄ…dze!}
+{204}{}{Wiesz co, $750 dalej wydaje siÄ™ byÄ‡ znacznie zawyÅ¼onÄ… kwotÄ…. Te braminy i tak by zdechÅ‚y, nawet gdyby nie dopadÅ‚y ich te psy. Znaj jednak moja dobroÄ‡. Dam ci $50.}
+{206}{}{DOBRA! DAWAJ MI PIENIÄ„DZE I WYNOÅš SIÄ˜ STÄ„D!}
+{207}{}{[WyjdÅº bez pÅ‚acenia]}
+{208}{}{UwaÅ¼aj na moje sÅ‚owa, i tak dostaniesz, co ci siÄ™ naleÅ¼y. JeÅ›li nie ode mnie, to od kogoÅ› innego.}
+{209}{}{[Grisham uÅ›miecha siÄ™ do ciebie w taki sposÃ³b, Å¼e podÅ›wiadomie cofasz siÄ™ o krok] Dlaczego po prostu nie zatrzymasz pieniÄ™dzy przy sobie? Mam przeczucie, Å¼e moÅ¼esz ich potrzebowaÄ‡ nieco pÃ³Åºniej.}
+{210}{}{Niewiele mam do opowiadania. ProwadzÄ™ rzeÅºniÄ™ w Modoc. JeÅ›li chcesz coÅ› ubiÄ‡, przyprowadzasz to do mnie. ZabijÄ™ to dla ciebie i zrobiÄ™ z tego doskonaÅ‚Ä…, chrupiÄ…cÄ… i aromatycznÄ… wÄ™dzonkÄ™.}
+{211}{}{A co ze skÃ³rÄ… i innymi czÄ™Å›ciami zwierzÄ™cia?}
+{213}{}{W sumie, to pomogÅ‚o mi to nieco w biznesie. Nikt nie jest w stanie wyhodowaÄ‡ wystarczajÄ…cej iloÅ›ci zboÅ¼a na paszÄ™ dla swoich bramin, wiÄ™c muszÄ… oni znacznie pomniejszaÄ‡ swoje stada. Ale to tylko tymczasowe. Musisz na to spojrzeÄ‡ z szerszej perspektywy. MÃ³j biznes moÅ¼e tylko ucierpieÄ‡ na spadku populacji bramin.}
+{215}{}{[Grisham obchodzi ciÄ™ dookoÅ‚a, szturcha kilka razy, otwiera ci usta i sprawdza zÄ™by] Ach! PiÄ™kny, zdrowy okaz. Nadajesz siÄ™ doskonale. Khm... zÅ‚e pieski, zabijajÄ… dobre braminy. IdÅº i zabij zÅ‚e pieski, dla twojego przyjaciela Grishama. Grisham da duuuÅ¼Ä… nagrodÄ™. Zgoda?}
+{216}{}{Nie, moja lubiÄ‡ pieski. Tylko Åºli ludzie nie lubiÄ‡ pieskÃ³w. Moja iÅ›Ä‡ daleko od zÅ‚ego pana.}
+{217}{}{Moja zrobiÄ‡. IÅ›Ä‡ tam teraz!}
+{218}{}{Doskonale! PamiÄ™taj, zÅ‚e rzeczy robiÄ… "Hau! Hau!". Dobre rzeczy robiÄ… "Muu". Staraj siÄ™ nie zabijaÄ‡ dobrych rzeczy.}
+{219}{}{Chyba nie masz chwilowo pieniÄ™dzy. Nie sprzedajÄ™ na krechÄ™, i nie wierzÄ™ w rozdawanie czegoÅ› za nic.}
+{221}{}{Oto co mam z zatrudniania neandertalczyka. IdÅº juÅ¼ sobie, sio!}
+{222}{}{Eh... chrum iik unga bunga. BÄ…dÅº dobry neandertalczyk, bierz swojÄ… kasÄ™ i wyjdÅº.}
+{223}{}{Szybko myÅ›lisz, co? Dobra, jeÅ›li ciÄ™ to interesuje, to moÅ¼esz zabraÄ‡ kaÅ¼dÄ… czÄ™Å›Ä‡ zwierzÄ™cia. Balthus jest przewaÅ¼nie zainteresowany skÃ³rÄ…, a Rose kupi kaÅ¼de skrawki, ktÃ³rych nie chcesz. UÅ¼ywa ich do gotowania zupy i karmienia swoich psÃ³w.}
+{225}{}{Chyba Å¼artujesz. Wszyscy wiedzÄ…, Å¼e to Farrel zabraÅ‚ zegarek. Dlaczego miaÅ‚by ciÄ™ prosiÄ‡ o znalezienie go... chyba, Å¼e on go wcale nie ukradÅ‚! A moÅ¼e to jest tylko taka sztuczka, ktÃ³ra ma na celu przekonanie wszystkich, Å¼e on go nie wziÄ…Å‚. MuszÄ™ to wszystko przemyÅ›leÄ‡.}
+{228}{}{ChÅ‚opcze, nie prÃ³buj nawet siÄ™ z tego tÅ‚umaczyÄ‡. Nie chcÄ™ tego wszystkiego sÅ‚uchaÄ‡. WezwÄ™ naszego kaznodziejÄ™, uprawomocnimy to wszystko, a ty opuÅ›cisz nas i zabierzesz ze sobÄ… mojego syna.}
+{229}{}{Nie mogÄ™ powiedzieÄ‡, aby mnie to cieszyÅ‚o, niemniej po tym, co zobaczyÅ‚em, nie mogÄ™ jej pozwoliÄ‡ na dalsze mieszkanie w tym domu. Musicie siÄ™ pobraÄ‡ i wyjechaÄ‡.}
+{230}{}{Czy ktoÅ› moÅ¼e mi objaÅ›niÄ‡, co tu siÄ™ dziaÅ‚o z mojÄ… cÃ³rkÄ…?}
+{231}{}{Czy ktoÅ› moÅ¼e mi objaÅ›niÄ‡, co tu siÄ™ dziaÅ‚o z moim synem?}
+{232}{}{PozwÃ³l mi to wytÅ‚umaczyÄ‡, ojczulku. Wiesz, to jest tak, Å¼e sÄ… pszczÃ³Å‚ki i kwiatki... }
+{233}{}{Jestem lekarzem i wÅ‚aÅ›nie jÄ… dokÅ‚adnie badaÅ‚em.}
+{234}{}{Jestem lekarzem i wÅ‚aÅ›nie go dokÅ‚adnie badaÅ‚em.}
+{235}{}{To nie jest to, na co wyglÄ…da.}
+{236}{}{Åšwietnie. BÄ™dÄ™ mieÄ‡ mÄ…dralÄ™ za ziÄ™cia. CÃ³Å¼, chodÅºmy... synu. Miejmy juÅ¼ to za sobÄ….}
+{237}{}{Åšwietnie. BÄ™dÄ™ mieÄ‡ mÄ…dralÄ™ za synowÄ…. CÃ³Å¼, chodÅºmy... cÃ³rko. Miejmy to juÅ¼ za sobÄ….}
+{238}{}{Hmmm. WyglÄ…daÅ‚o to tak, jakby moja cÃ³rka wraz z tobÄ… udawaÅ‚a braminy podczas okresu rozrodczego.}
+{239}{}{Hmmm. WyglÄ…daÅ‚o to tak, jakbyÅ›cie, ty i mÃ³j syn, taÅ„czyli poziome tango wÅ›rÃ³d przeÅ›cieradeÅ‚.}
+{240}{}{OK, moÅ¼e to faktycznie byÅ‚o to, na co wyglÄ…daÅ‚o. Ale to tylko seks, miedzy nami nie ma Å¼adnych uczuÄ‡, ani niczego takiego.}
 {241}{}{Doskonale to rozumiem. Te hormony, no i ta specjalna pora roku.}
-{242}{}{Cieszê siê, ¿e to rozumiesz.}
-{243}{}{Rozumiem. Liczê na to, ¿e wy te¿ rozumiecie, i¿ musicie za siebie wyjœæ. Wiecie, nie mogê pozwoliæ, aby po mieœcie kr¹¿y³y jakieœ plotki. ChodŸmy do naszego duchownego. I nie prowokuj mnie, albo nafaszerujê ciê o³owiem.}
-{244}{}{Naprawdê? Wobec tego czemu i ty jesteœ bez ubrania?}
-{245}{}{Zarazki? Tak, ZARAZKI! Bardzo wa¿ne jest, aby byæ ca³kowicie czystym podczas tych badañ.}
-{246}{}{Có¿, skoro faktycznie jesteœ lekarzem, to wszystko jest w porz¹dku. Lepiej ju¿ siê ubierzcie - z takich nieporozumieñ rodz¹ siê póŸniej najgorsze plotki. Jeszcze jedno - odczuwam ostatnio jakieœ bóle w odbycie - póki tu jesteœ, czy mo¿esz zerkn¹æ na to okiem?}
-{247}{}{Emm... póŸniej to obejrzê. Czeka na mnie nastêpny pacjent. Do widzenia.}
-{248}{}{Tia. Dlaczego nie pójdziemy po prostu do ksiêdza? Nie próbuj mnie wykiwaæ, albo to ty bêdziesz potrzebowaæ lekarza.}
-{260}{}{Wiedzia³em, ¿e sobie z tym poradzisz. Hmm, wiêc jestem ci winien $1000 za ukoñczon¹ robotê. Proszê, oto one.}
-{300}{}{Co tu siê, do cholery, dzieje?}
-{301}{}{Uuch... Wiêc, proszê pana, ja w³aœnie...}
-{302}{}{Zabieraj od niej swoje cholerne ³apska...}
-{350}{}{[Patrz¹c na Bessy.] Zostawiam.}
-{360}{}{Chcê, abyœ przygotowa³ dla mnie trochê wêdzonki.}
-{400}{}{Co tu siê dzieje?}
-{402}{}{Cholera jasna! Wiedzia³em, ¿e }
-{403}{}{Jak mo¿na by³o tak zhañbiæ moje dziecko! }
-{404}{}{Ech, Jo, czy mo¿emy pomin¹æ te nudne kawa³ki?}
-{406}{}{Ch³opcze...}
+{242}{}{CieszÄ™ siÄ™, Å¼e to rozumiesz.}
+{243}{}{Rozumiem. LiczÄ™ na to, Å¼e wy teÅ¼ rozumiecie, iÅ¼ musicie za siebie wyjÅ›Ä‡. Wiecie, nie mogÄ™ pozwoliÄ‡, aby po mieÅ›cie krÄ…Å¼yÅ‚y jakieÅ› plotki. ChodÅºmy do naszego duchownego. I nie prowokuj mnie, albo nafaszerujÄ™ ciÄ™ oÅ‚owiem.}
+{244}{}{NaprawdÄ™? Wobec tego czemu i ty jesteÅ› bez ubrania?}
+{245}{}{Zarazki? Tak, ZARAZKI! Bardzo waÅ¼ne jest, aby byÄ‡ caÅ‚kowicie czystym podczas tych badaÅ„.}
+{246}{}{CÃ³Å¼, skoro faktycznie jesteÅ› lekarzem, to wszystko jest w porzÄ…dku. Lepiej juÅ¼ siÄ™ ubierzcie - z takich nieporozumieÅ„ rodzÄ… siÄ™ pÃ³Åºniej najgorsze plotki. Jeszcze jedno - odczuwam ostatnio jakieÅ› bÃ³le w odbycie - pÃ³ki tu jesteÅ›, czy moÅ¼esz zerknÄ…Ä‡ na to okiem?}
+{247}{}{Emm... pÃ³Åºniej to obejrzÄ™. Czeka na mnie nastÄ™pny pacjent. Do widzenia.}
+{248}{}{Tia. Dlaczego nie pÃ³jdziemy po prostu do ksiÄ™dza? Nie prÃ³buj mnie wykiwaÄ‡, albo to ty bÄ™dziesz potrzebowaÄ‡ lekarza.}
+{260}{}{WiedziaÅ‚em, Å¼e sobie z tym poradzisz. Hmm, wiÄ™c jestem ci winien $1000 za ukoÅ„czonÄ… robotÄ™. ProszÄ™, oto one.}
+{300}{}{Co tu siÄ™, do cholery, dzieje?}
+{301}{}{Uuch... WiÄ™c, proszÄ™ pana, ja wÅ‚aÅ›nie...}
+{302}{}{Zabieraj od niej swoje cholerne Å‚apska...}
+{350}{}{[PatrzÄ…c na Bessy.] Zostawiam.}
+{360}{}{ChcÄ™, abyÅ› przygotowaÅ‚ dla mnie trochÄ™ wÄ™dzonki.}
+{400}{}{Co tu siÄ™ dzieje?}
+{402}{}{Cholera jasna! WiedziaÅ‚em, Å¼e }
+{403}{}{Jak moÅ¼na byÅ‚o tak zhaÅ„biÄ‡ moje dziecko! }
+{404}{}{Ech, Jo, czy moÅ¼emy pominÄ…Ä‡ te nudne kawaÅ‚ki?}
+{406}{}{ChÅ‚opcze...}
 {407}{}{Panienko...}
 {410}{}{Nie zmuszaj mnie, aby }
 {412}{}{Miria}
 {413}{}{Davin}
-{414}{}{Yyy, Bo, mo¿emy pomin¹æ tê czêœæ o wi¹zaniu?}
-{420}{}{Nigdzie nie pójdziesz, ch³opcze!}
-{421}{}{Nigdzie nie pójdziesz, panienko!}
-{452}{}{ jest trochê nie tego, ale jest tylko jedna metoda, aby to wszystko wyprostowaæ!}
-{453}{}{! Wiesz, ¿e jest tylko jedna metoda, aby to naprawiæ!}
-{460}{}{ sta³a siê wdow¹.}
-{461}{}{ sta³ siê wdowcem.}
-{500}{}{O, ten okaz wygl¹da na ca³kiem dorodny. Powinno byæ z niego sporo dobrej wêdzonki. Wiesz co, powiedzmy, ¿e zatrzymam sobie czêœæ tego miêsa jako zap³atê. Co ty na to?}
-{501}{}{Nie ma mowy! Kocham Bess. Nikt nie bêdzie z niej robi³ ¿adnej wêdzonki.}
-{502}{}{Jak dla mnie, brzmi nieŸle. Kiedy mogê przyjœæ po moj¹ wêdzonkê?}
-{503}{}{Zapomnij o tym, dziadku. Spadam st¹d.}
-{510}{}{Ach... nale¿ysz do 'tych'. Nie chcia³bym zabieraæ ci twojej 'przyjació³ki'. Bez niej noce na pustkowiu by³yby zapewne bardzo... samotne. Nie mam na to czasu, mam du¿o roboty do zrobienia.}
-{515}{}{Œwietnie! PrzyjdŸ do mnie mniej wiêcej za tydzieñ. Bêdziesz móg³ odebraæ swoj¹ wêdzonkê w wêdzarni, która jest zaraz za rzeŸni¹. Zostawiê j¹ dla ciebie w sakwie. Mi³o by³o z tob¹ robiæ interesy.}
+{414}{}{Yyy, Bo, moÅ¼emy pominÄ…Ä‡ tÄ™ czÄ™Å›Ä‡ o wiÄ…zaniu?}
+{420}{}{Nigdzie nie pÃ³jdziesz, chÅ‚opcze!}
+{421}{}{Nigdzie nie pÃ³jdziesz, panienko!}
+{452}{}{ jest trochÄ™ nie tego, ale jest tylko jedna metoda, aby to wszystko wyprostowaÄ‡!}
+{453}{}{! Wiesz, Å¼e jest tylko jedna metoda, aby to naprawiÄ‡!}
+{460}{}{ staÅ‚a siÄ™ wdowÄ….}
+{461}{}{ staÅ‚ siÄ™ wdowcem.}
+{500}{}{O, ten okaz wyglÄ…da na caÅ‚kiem dorodny. Powinno byÄ‡ z niego sporo dobrej wÄ™dzonki. Wiesz co, powiedzmy, Å¼e zatrzymam sobie czÄ™Å›Ä‡ tego miÄ™sa jako zapÅ‚atÄ™. Co ty na to?}
+{501}{}{Nie ma mowy! Kocham Bess. Nikt nie bÄ™dzie z niej robiÅ‚ Å¼adnej wÄ™dzonki.}
+{502}{}{Jak dla mnie, brzmi nieÅºle. Kiedy mogÄ™ przyjÅ›Ä‡ po mojÄ… wÄ™dzonkÄ™?}
+{503}{}{Zapomnij o tym, dziadku. Spadam stÄ…d.}
+{510}{}{Ach... naleÅ¼ysz do 'tych'. Nie chciaÅ‚bym zabieraÄ‡ ci twojej 'przyjaciÃ³Å‚ki'. Bez niej noce na pustkowiu byÅ‚yby zapewne bardzo... samotne. Nie mam na to czasu, mam duÅ¼o roboty do zrobienia.}
+{515}{}{Åšwietnie! PrzyjdÅº do mnie mniej wiÄ™cej za tydzieÅ„. BÄ™dziesz mÃ³gÅ‚ odebraÄ‡ swojÄ… wÄ™dzonkÄ™ w wÄ™dzarni, ktÃ³ra jest zaraz za rzeÅºniÄ…. ZostawiÄ™ jÄ… dla ciebie w sakwie. MiÅ‚o byÅ‚o z tobÄ… robiÄ‡ interesy.}
 {600}{}{Witaj, }
-{601}{}{Hej, przecie¿ to }
-{602}{}{Eeeee, on nie ¿yje.}
-{603}{}{Eeeee, ona nie ¿yje.}
-{604}{}{Przed moim odejœciem Miria by³a jeszcze ¿ywa ale mam przeczucie, ¿e teraz jest ju¿ martwa.}
-{605}{}{Przed moim odejœciem Davin by³ jeszcze ¿ywy ale mam przeczucie, ¿e teraz jest ju¿ martwy.}
-{606}{}{Davin, eeee, nie móg³ udaæ siê w podró¿ ale kiedy siê tylko z nim zobaczê, to przeka¿ê mu twoje pozdrowienia.}
-{607}{}{Miria, eeee, nie mog³a udaæ siê w podró¿ ale kiedy siê tylko z ni¹ zobaczê, to uœciskam j¹ od ciebie.}
-{700}{}{Aaach... [Twarz Grishama wykrzywia siê w paroksyzmie bólu, po czym ³apie siê on za serce i pada na pod³ogê]}
-{750}{}{Có¿, muszê teraz wróciæ do pracy. Do zobaczenia.}
-{800}{}{Uda³o ci siê uratowaæ braminy Grishama.}
+{601}{}{Hej, przecieÅ¼ to }
+{602}{}{Eeeee, on nie Å¼yje.}
+{603}{}{Eeeee, ona nie Å¼yje.}
+{604}{}{Przed moim odejÅ›ciem Miria byÅ‚a jeszcze Å¼ywa ale mam przeczucie, Å¼e teraz jest juÅ¼ martwa.}
+{605}{}{Przed moim odejÅ›ciem Davin byÅ‚ jeszcze Å¼ywy ale mam przeczucie, Å¼e teraz jest juÅ¼ martwy.}
+{606}{}{Davin, eeee, nie mÃ³gÅ‚ udaÄ‡ siÄ™ w podrÃ³Å¼ ale kiedy siÄ™ tylko z nim zobaczÄ™, to przekaÅ¼Ä™ mu twoje pozdrowienia.}
+{607}{}{Miria, eeee, nie mogÅ‚a udaÄ‡ siÄ™ w podrÃ³Å¼ ale kiedy siÄ™ tylko z niÄ… zobaczÄ™, to uÅ›ciskam jÄ… od ciebie.}
+{700}{}{Aaach... [Twarz Grishama wykrzywia siÄ™ w paroksyzmie bÃ³lu, po czym Å‚apie siÄ™ on za serce i pada na podÅ‚ogÄ™]}
+{750}{}{CÃ³Å¼, muszÄ™ teraz wrÃ³ciÄ‡ do pracy. Do zobaczenia.}
+{800}{}{UdaÅ‚o ci siÄ™ uratowaÄ‡ braminy Grishama.}
 {1101}{}{Widzisz wuja Biffa.}
-{1155}{}{Wiedzia³em, ¿e moja bratanica by³a jakaœ dziwna.}
-{1156}{}{Ró¿ni ludzie, ró¿ne gusta - jak przypuszczam.}
-{1157}{}{Cieszê siê, ¿e Grisham tego nie do¿y³.}
-{1158}{}{Wiedzia³em, ¿e mój bratanek by³ jakiœ dziwny.}
-{1159}{}{Opiekuj siê dobrze moj¹ córk¹.}
-{1160}{}{Dobrze siê opiekuj moj¹ bratanic¹.}
-{1161}{}{Dobrze siê opiekuj moim bratankiem.}
-{1228}{}{Ch³opcze, nawet nie próbuj tego wyjaœniæ. Nie chcê tego s³yszeæ. Idê po kaznodziejê, za³atwimy to zgodnie z prawem, a potem wyjedziesz i zabierzesz ze sob¹ mojego bratanka.}
-{1229}{}{Nie mogê powiedzieæ, ¿e nie jestem tym wkurzony, ale muszê zrobiæ to co zrobi³by Grisham. Musicie siê hajtn¹æ i wyjechaæ.}
-{1230}{}{Mo¿esz mi wyjaœniæ, co robisz z moj¹ bratanic¹?}
-{1231}{}{Mo¿esz mi wyjaœniæ, co robisz z moim bratankiem?}
-{1232}{}{Pozwól wyjaœniæ mi to delikatnie, wuju Biffie. S¹ ptaszki i pszczó³ki i widzisz one }
-{1236}{}{Œwietnie. Bêdê mia³ teraz cwaniaczka w rodzinie. Có¿... chodŸ bratanku, za³atwmy to szybko.}
-{1237}{}{Œwietnie. Bêdê mia³ teraz cwaniaczkê w rodzinie. Có¿... chodŸ bratanico, za³atwmy to szybko.}
-{1238}{}{Popatrzmy. Wygl¹da mi na to, ¿e ty i moja bratanica naœladowaliœcie braminy w sezonie parzenia.}
-{1239}{}{Popatrzmy. Wygl¹da mi na tu, ¿e ty i mój bratanek odstawialiœcie poziome tango miêdzy przeœcierad³ami.}
-{1403}{}{Jak œmiesz plamiæ honor }
-{1412}{}{córki mojego brata.}
+{1155}{}{WiedziaÅ‚em, Å¼e moja bratanica byÅ‚a jakaÅ› dziwna.}
+{1156}{}{RÃ³Å¼ni ludzie, rÃ³Å¼ne gusta - jak przypuszczam.}
+{1157}{}{CieszÄ™ siÄ™, Å¼e Grisham tego nie doÅ¼yÅ‚.}
+{1158}{}{WiedziaÅ‚em, Å¼e mÃ³j bratanek byÅ‚ jakiÅ› dziwny.}
+{1159}{}{Opiekuj siÄ™ dobrze mojÄ… cÃ³rkÄ….}
+{1160}{}{Dobrze siÄ™ opiekuj mojÄ… bratanicÄ….}
+{1161}{}{Dobrze siÄ™ opiekuj moim bratankiem.}
+{1228}{}{ChÅ‚opcze, nawet nie prÃ³buj tego wyjaÅ›niÄ‡. Nie chcÄ™ tego sÅ‚yszeÄ‡. IdÄ™ po kaznodziejÄ™, zaÅ‚atwimy to zgodnie z prawem, a potem wyjedziesz i zabierzesz ze sobÄ… mojego bratanka.}
+{1229}{}{Nie mogÄ™ powiedzieÄ‡, Å¼e nie jestem tym wkurzony, ale muszÄ™ zrobiÄ‡ to co zrobiÅ‚by Grisham. Musicie siÄ™ hajtnÄ…Ä‡ i wyjechaÄ‡.}
+{1230}{}{MoÅ¼esz mi wyjaÅ›niÄ‡, co robisz z mojÄ… bratanicÄ…?}
+{1231}{}{MoÅ¼esz mi wyjaÅ›niÄ‡, co robisz z moim bratankiem?}
+{1232}{}{PozwÃ³l wyjaÅ›niÄ‡ mi to delikatnie, wuju Biffie. SÄ… ptaszki i pszczÃ³Å‚ki i widzisz one }
+{1236}{}{Åšwietnie. BÄ™dÄ™ miaÅ‚ teraz cwaniaczka w rodzinie. CÃ³Å¼... chodÅº bratanku, zaÅ‚atwmy to szybko.}
+{1237}{}{Åšwietnie. BÄ™dÄ™ miaÅ‚ teraz cwaniaczkÄ™ w rodzinie. CÃ³Å¼... chodÅº bratanico, zaÅ‚atwmy to szybko.}
+{1238}{}{Popatrzmy. WyglÄ…da mi na to, Å¼e ty i moja bratanica naÅ›ladowaliÅ›cie braminy w sezonie parzenia.}
+{1239}{}{Popatrzmy. WyglÄ…da mi na tu, Å¼e ty i mÃ³j bratanek odstawialiÅ›cie poziome tango miÄ™dzy przeÅ›cieradÅ‚ami.}
+{1403}{}{Jak Å›miesz plamiÄ‡ honor }
+{1412}{}{cÃ³rki mojego brata.}
 {1413}{}{syna mojego brata.}
-{1600}{}{. Mam nadziejê, ¿e dobrze opiekujesz siê moj¹ córk¹, Miri¹. Ona jest dla mnie œwiate³kiem rozjaœniaj¹cym moje ¿ycie. Pêk³o by mi serce, gdyby coœ mia³o siê jej staæ. Gdzie ona jest, tak przy okazji? Mia³em nadziejê, ¿e znowu siê z ni¹ zobaczê.}
-{1601}{}{. Jak tam ci siê ¿yje w ma³¿eñstwie? Widzê, ¿e mój syn, Davin, nie podró¿uje z tob¹. Bardzo mi go brak. Mo¿e kiedy tu wpadniesz nastêpnym razem, to i on móg³by tu przyjœæ razem z tob¹? Staruszek ucieszy³by siê, gdyby móg³ znowu zobaczyæ swojego syna.}
+{1600}{}{. Mam nadziejÄ™, Å¼e dobrze opiekujesz siÄ™ mojÄ… cÃ³rkÄ…, MiriÄ…. Ona jest dla mnie Å›wiateÅ‚kiem rozjaÅ›niajÄ…cym moje Å¼ycie. PÄ™kÅ‚o by mi serce, gdyby coÅ› miaÅ‚o siÄ™ jej staÄ‡. Gdzie ona jest, tak przy okazji? MiaÅ‚em nadziejÄ™, Å¼e znowu siÄ™ z niÄ… zobaczÄ™.}
+{1601}{}{. Jak tam ci siÄ™ Å¼yje w maÅ‚Å¼eÅ„stwie? WidzÄ™, Å¼e mÃ³j syn, Davin, nie podrÃ³Å¼uje z tobÄ…. Bardzo mi go brak. MoÅ¼e kiedy tu wpadniesz nastÄ™pnym razem, to i on mÃ³gÅ‚by tu przyjÅ›Ä‡ razem z tobÄ…? Staruszek ucieszyÅ‚by siÄ™, gdyby mÃ³gÅ‚ znowu zobaczyÄ‡ swojego syna.}

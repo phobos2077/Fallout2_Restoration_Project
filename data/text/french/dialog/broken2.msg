@@ -1,1 +1,1 @@
-{100}{}{Tu viens d'entrer dans les Collines Brisées par le côté Est.}
+{100}{}{Tu viens d'entrer dans les Collines BrisÃ©es par le cÃ´tÃ© Est.}

@@ -1,3 +1,3 @@
-{100}{}{Você encontrou uma reunião de indivíduos importantes. Você sente algo especial sobre eles.}
-{200}{}{Oh, não é outra referência de cultura pop!}
-{5000}{}{O combate não é permitido aqui.}
+{100}{}{VocÃª encontrou uma reuniÃ£o de indivÃ­duos importantes. VocÃª sente algo especial sobre eles.}
+{200}{}{Oh, nÃ£o Ã© outra referÃªncia de cultura pop!}
+{5000}{}{O combate nÃ£o Ã© permitido aqui.}

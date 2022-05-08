@@ -1,201 +1,201 @@
-{100}{}{A hölgy Angela Bishop.}
-{101}{}{Angela Bishop torkaszakadtából sikít.}
-{150}{}{A fiatal hölgy feszes b?rruhát visel.}
-{151}{}{? Angela Bishop. Amikor összetalálkozik a tekintetetek, lassan megnyalja az ajkát.}
+{100}{}{A hÃ¶lgy Angela Bishop.}
+{101}{}{Angela Bishop torkaszakadtÃ¡bÃ³l sikÃ­t.}
+{150}{}{A fiatal hÃ¶lgy feszes b?rruhÃ¡t visel.}
+{151}{}{? Angela Bishop. Amikor Ã¶sszetalÃ¡lkozik a tekintetetek, lassan megnyalja az ajkÃ¡t.}
 {152}{}{You see Angela Bishop. She scowls at you with disgust.}
-{175}{}{A fiatal n? feszes b?rruhát visel. Ahhoz, hogy kurva legyen, túlságosan elitnek néz ki.}
-{176}{}{? Angela Bishop. Fitymállóan néz rád.}
-{200}{}{Ha apám megtudja, hogy bántál velem, kicsinál.}
-{205}{}{TUDOM, hogy te voltál! Ne félj, megkapod majd méltó jutalmadat azért, amit az apámmal tettél.}
-{210}{}{Hmmmm. Csak nem egyenesen a H?sn?höz van szerencsénk?!}
-{215}{}{Csak reméld, hogy nem esel nagyon pofára, picinyem.}
+{175}{}{A fiatal n? feszes b?rruhÃ¡t visel. Ahhoz, hogy kurva legyen, tÃºlsÃ¡gosan elitnek nÃ©z ki.}
+{176}{}{? Angela Bishop. FitymÃ¡llÃ³an nÃ©z rÃ¡d.}
+{200}{}{Ha apÃ¡m megtudja, hogy bÃ¡ntÃ¡l velem, kicsinÃ¡l.}
+{205}{}{TUDOM, hogy te voltÃ¡l! Ne fÃ©lj, megkapod majd mÃ©ltÃ³ jutalmadat azÃ©rt, amit az apÃ¡mmal tettÃ©l.}
+{210}{}{Hmmmm. Csak nem egyenesen a H?sn?hÃ¶z van szerencsÃ©nk?!}
+{215}{}{Csak remÃ©ld, hogy nem esel nagyon pofÃ¡ra, picinyem.}
 {220}{}{UNATKOZOM.}
-{221}{}{Helló!}
-{222}{}{Most pedig beszélgetni fogunk!}
-{223}{}{Most pedig szépen közelebb jössz!}
+{221}{}{HellÃ³!}
+{222}{}{Most pedig beszÃ©lgetni fogunk!}
+{223}{}{Most pedig szÃ©pen kÃ¶zelebb jÃ¶ssz!}
 {224}{}{Fini.}
 {225}{}{Hmmmm.}
 {226}{}{Well, well...}
 {230}{}{UNATKOZOM.}
-{231}{}{Nocsak, apunak már megint új kurvája van...}
-{232}{}{Na, a fater megint beszerzett magának egy olcsó szukát...}
-{240}{}{Még nem láttalak errefelé. Hogy hívnak, idegen? (Önelégülten mosolyog.) Tulképpen tök mindegy, nem is akarom tudni. Én nagyon unatkozom! Te nem?}
-{241}{}{Hát te vagy az? Nem unatkozol?}
-{242}{}{Finni, finni... szeressük finni dolog...}
-{243}{}{Én vándorol Iam nev?vel. Folyton l?ni hátba nekem rövid sorozatokkal.}
-{244}{}{Én is nyulatkozni...}
-{245}{}{Neee mán... húzni innét elfele...}
+{231}{}{Nocsak, apunak mÃ¡r megint Ãºj kurvÃ¡ja van...}
+{232}{}{Na, a fater megint beszerzett magÃ¡nak egy olcsÃ³ szukÃ¡t...}
+{240}{}{MÃ©g nem lÃ¡ttalak errefelÃ©. Hogy hÃ­vnak, idegen? (Ã–nelÃ©gÃ¼lten mosolyog.) TulkÃ©ppen tÃ¶k mindegy, nem is akarom tudni. Ã‰n nagyon unatkozom! Te nem?}
+{241}{}{HÃ¡t te vagy az? Nem unatkozol?}
+{242}{}{Finni, finni... szeressÃ¼k finni dolog...}
+{243}{}{Ã‰n vÃ¡ndorol Iam nev?vel. Folyton l?ni hÃ¡tba nekem rÃ¶vid sorozatokkal.}
+{244}{}{Ã‰n is nyulatkozni...}
+{245}{}{Neee mÃ¡n... hÃºzni innÃ©t elfele...}
 {246}{}{Nem.}
 {247}{}{Igen.}
-{248}{}{Öö... miért nézel így rám?}
-{249}{}{Lehet így, lehet úgy. Csak nem valami változatosságra vágysz, hercegn?m?}
-{250}{}{Nem igazán. Most sürg?s mehetnékem van.}
-{260}{}{Na, ez aztán ÉRDEKESNEK ígérkezik. Gyere velem, megmutatom a bélyeggy?jteményem.}
-{261}{}{Oké, csinibéjbe.}
-{262}{}{Ööö... fogunk mi játszadoz?}
-{263}{}{Én nem menni...}
-{270}{}{Fején találtad a szöget. Na, gyere szépen!}
+{248}{}{Ã–Ã¶... miÃ©rt nÃ©zel Ã­gy rÃ¡m?}
+{249}{}{Lehet Ã­gy, lehet Ãºgy. Csak nem valami vÃ¡ltozatossÃ¡gra vÃ¡gysz, hercegn?m?}
+{250}{}{Nem igazÃ¡n. Most sÃ¼rg?s mehetnÃ©kem van.}
+{260}{}{Na, ez aztÃ¡n Ã‰RDEKESNEK Ã­gÃ©rkezik. Gyere velem, megmutatom a bÃ©lyeggy?jtemÃ©nyem.}
+{261}{}{OkÃ©, csinibÃ©jbe.}
+{262}{}{Ã–Ã¶Ã¶... fogunk mi jÃ¡tszadoz?}
+{263}{}{Ã‰n nem menni...}
+{270}{}{FejÃ©n talÃ¡ltad a szÃ¶get. Na, gyere szÃ©pen!}
 {271}{}{Menek}
-{272}{}{Én szeret játszani. Szoktam én magammal f?leg}
+{272}{}{Ã‰n szeret jÃ¡tszani. Szoktam Ã©n magammal f?leg}
 {280}{}{Exactly...}
 {281}{}{[Follow her.]}
-{290}{}{Jaj, ne már! Kérleeeeek! Tényleg megmutatnám a bélyeggy?jteményem. Semmi percig tart.}
-{291}{}{Nem megy! Én nem megy! Nem venni rá! Nem menni rossz hely! Nem!}
-{292}{}{Oké-zsoké. Én nem akar szomorún látni. Menek}
-{293}{}{ÉN MENEK KIFELE HAGGY BÉKIBE}
-{300}{}{Na, ebb?l elég, hülye retardált! T?nés innen kifelé! ::Idióta::}
-{310}{}{Most jöttél a falvéd?r?l? Én Angela BISHOP vagyok. Apám a Bishop család feje. }
+{290}{}{Jaj, ne mÃ¡r! KÃ©rleeeeek! TÃ©nyleg megmutatnÃ¡m a bÃ©lyeggy?jtemÃ©nyem. Semmi percig tart.}
+{291}{}{Nem megy! Ã‰n nem megy! Nem venni rÃ¡! Nem menni rossz hely! Nem!}
+{292}{}{OkÃ©-zsokÃ©. Ã‰n nem akar szomorÃºn lÃ¡tni. Menek}
+{293}{}{Ã‰N MENEK KIFELE HAGGY BÃ‰KIBE}
+{300}{}{Na, ebb?l elÃ©g, hÃ¼lye retardÃ¡lt! T?nÃ©s innen kifelÃ©! ::IdiÃ³ta::}
+{310}{}{Most jÃ¶ttÃ©l a falvÃ©d?r?l? Ã‰n Angela BISHOP vagyok. ApÃ¡m a Bishop csalÃ¡d feje. }
 {311}{}{Mivel neki dolgozol, nekem is dolgozol.}
-{312}{}{Jobb, ha azt teszed, amit mondok, és én most azt mondom, velem jössz! Ne várass!}
-{313}{}{Így van. Édesapád a Bishop család feje. Na, ezért nem megyek én sehova.}
-{314}{}{Hát ha mindenáron vissza akarsz élni a helyzeteddel... menjünk.}
-{315}{}{Igazán hízelg? az ajánlat, de...}
+{312}{}{Jobb, ha azt teszed, amit mondok, Ã©s Ã©n most azt mondom, velem jÃ¶ssz! Ne vÃ¡rass!}
+{313}{}{Ãgy van. Ã‰desapÃ¡d a Bishop csalÃ¡d feje. Na, ezÃ©rt nem megyek Ã©n sehova.}
+{314}{}{HÃ¡t ha mindenÃ¡ron vissza akarsz Ã©lni a helyzeteddel... menjÃ¼nk.}
+{315}{}{IgazÃ¡n hÃ­zelg? az ajÃ¡nlat, de...}
 {316}{}{Nem. Az els? alkalommal gondoltam.}
-{317}{}{Nem lehet, kedvesem. Futás, miel?tt kapsz egy fenekelést.}
-{318}{}{Egy dolgot jobb, ha letisztázunk, hercegn?m. Én adom a parancsokat, te pedig végrehajtod ?ket.}
-{320}{}{Ha unatkozol, hercegn?m... szedegess hangyát! Na, akkor léptem is.}
-{330}{}{Megbánod te még, hogy ezt tetted velem. Apu hamarosan egészen új információkkal fog gazdagodni rólad. Csak várd ki a végét!}
-{340}{}{Hogyhogy? Csak nem hatottam rád? (feléd lép, és elhal a hangja.) Nem okoztam egy kis... bajt odalenn?}
-{341}{}{Nem igazán.}
-{342}{}{Kislány, ez nem helyes. Hagyjuk ezt abba most azonnal!}
-{343}{}{Elnézést, de jobb lenne, ha megtartanánk a távolságot.}
-{344}{}{Igen, kisebb baj történt velem. Nem tudnál segíteni rajtam?}
-{345}{}{Nem, ráadásul épp mennem kell.}
-{350}{}{(Még egy lépést tesz feléd, és majdnem megérint közben.) Én nem úgy érzem. Mit terveztél vele?}
-{352}{}{Nem akarom! Tartsd magad távol t?lem, nincs kedvem hozzá!}
-{353}{}{Tartsd magad távol t?lem! NINCS kedvem hozzá, hogy eljátszd nekem itt a rosszlányt, hallod-e!}
-{354}{}{Mit készülsz vele csinálni? Sok beszédnek sok az alja, tudsz-e úgy, hogy más ne hallja?}
-{360}{}{Bezonyám.}
-{361}{}{Figyu, van egy kis Jet a szobámban... nem az a hulladék, amit az utcasarki lotyóknak meg a csöveseknek terítenek. Nincs kedved repülni?}
-{362}{}{Hogyne, kösd be magad, bébi!}
-{363}{}{Benne vagyok a balhéban.}
-{364}{}{Apád tudja, hogy azt a szart használod?}
-{365}{}{Meggondoltam magam. Inkább nem, kösz.}
-{366}{}{Nanana, csak látni akartam, akkora kurva vagy-e, mint amekkorának hittelek. Na, viszlát, hercegn?m.}
-{370}{}{Vigyázz a szádra, ha velem beszélsz! Angela Bishop vagyok. Apám a Bishop család feje. Ugyanazt a tiszteletet kell mutatnod irányomban, mint amit ?neki adsz meg, különben apró cafatkákban fognak leszedni a falról. MEGÉRTETTED?}
-{371}{}{Hogyne, felfogtam, hercegn?m, hogy kell valaki, aki a helyedre lép. Én megteszem ezt a kis szívességet.}
-{372}{}{Értem. Örülök, hogy ezt a családi hovatartozásos balhét tisztáztuk.}
-{373}{}{Nyugi-nyugi. Csak húztalak.}
+{317}{}{Nem lehet, kedvesem. FutÃ¡s, miel?tt kapsz egy fenekelÃ©st.}
+{318}{}{Egy dolgot jobb, ha letisztÃ¡zunk, hercegn?m. Ã‰n adom a parancsokat, te pedig vÃ©grehajtod ?ket.}
+{320}{}{Ha unatkozol, hercegn?m... szedegess hangyÃ¡t! Na, akkor lÃ©ptem is.}
+{330}{}{MegbÃ¡nod te mÃ©g, hogy ezt tetted velem. Apu hamarosan egÃ©szen Ãºj informÃ¡ciÃ³kkal fog gazdagodni rÃ³lad. Csak vÃ¡rd ki a vÃ©gÃ©t!}
+{340}{}{Hogyhogy? Csak nem hatottam rÃ¡d? (felÃ©d lÃ©p, Ã©s elhal a hangja.) Nem okoztam egy kis... bajt odalenn?}
+{341}{}{Nem igazÃ¡n.}
+{342}{}{KislÃ¡ny, ez nem helyes. Hagyjuk ezt abba most azonnal!}
+{343}{}{ElnÃ©zÃ©st, de jobb lenne, ha megtartanÃ¡nk a tÃ¡volsÃ¡got.}
+{344}{}{Igen, kisebb baj tÃ¶rtÃ©nt velem. Nem tudnÃ¡l segÃ­teni rajtam?}
+{345}{}{Nem, rÃ¡adÃ¡sul Ã©pp mennem kell.}
+{350}{}{(MÃ©g egy lÃ©pÃ©st tesz felÃ©d, Ã©s majdnem megÃ©rint kÃ¶zben.) Ã‰n nem Ãºgy Ã©rzem. Mit terveztÃ©l vele?}
+{352}{}{Nem akarom! Tartsd magad tÃ¡vol t?lem, nincs kedvem hozzÃ¡!}
+{353}{}{Tartsd magad tÃ¡vol t?lem! NINCS kedvem hozzÃ¡, hogy eljÃ¡tszd nekem itt a rosszlÃ¡nyt, hallod-e!}
+{354}{}{Mit kÃ©szÃ¼lsz vele csinÃ¡lni? Sok beszÃ©dnek sok az alja, tudsz-e Ãºgy, hogy mÃ¡s ne hallja?}
+{360}{}{BezonyÃ¡m.}
+{361}{}{Figyu, van egy kis Jet a szobÃ¡mban... nem az a hulladÃ©k, amit az utcasarki lotyÃ³knak meg a csÃ¶veseknek terÃ­tenek. Nincs kedved repÃ¼lni?}
+{362}{}{Hogyne, kÃ¶sd be magad, bÃ©bi!}
+{363}{}{Benne vagyok a balhÃ©ban.}
+{364}{}{ApÃ¡d tudja, hogy azt a szart hasznÃ¡lod?}
+{365}{}{Meggondoltam magam. InkÃ¡bb nem, kÃ¶sz.}
+{366}{}{Nanana, csak lÃ¡tni akartam, akkora kurva vagy-e, mint amekkorÃ¡nak hittelek. Na, viszlÃ¡t, hercegn?m.}
+{370}{}{VigyÃ¡zz a szÃ¡dra, ha velem beszÃ©lsz! Angela Bishop vagyok. ApÃ¡m a Bishop csalÃ¡d feje. Ugyanazt a tiszteletet kell mutatnod irÃ¡nyomban, mint amit ?neki adsz meg, kÃ¼lÃ¶nben aprÃ³ cafatkÃ¡kban fognak leszedni a falrÃ³l. MEGÃ‰RTETTED?}
+{371}{}{Hogyne, felfogtam, hercegn?m, hogy kell valaki, aki a helyedre lÃ©p. Ã‰n megteszem ezt a kis szÃ­vessÃ©get.}
+{372}{}{Ã‰rtem. Ã–rÃ¼lÃ¶k, hogy ezt a csalÃ¡di hovatartozÃ¡sos balhÃ©t tisztÃ¡ztuk.}
+{373}{}{Nyugi-nyugi. Csak hÃºztalak.}
 {374}{}{Felejtsd el!}
-{375}{}{Felejtsd el azt a szart! Most lépek...}
-{380}{}{Te arrogáns szemétl... --most rögtön el kéne mondanom apának, miket mondasz rólam.}
-{381}{}{Parancsolj. Nem állok az utadba, hercegn?m.}
-{382}{}{Nem hinném, hogy megteszed. Szerintem látni akarod, milyen férfi vagyok.}
-{383}{}{Most hagyjuk abba, mert valaki meg fog sérülni!}
-{384}{}{Hát persze, miért nem rohansz és mondod el neki? Van énnekem jobb dolgom is!}
-{385}{}{Felejtsd el ezt a kapitális baromságot! Most pedig leléptem...}
-{390}{}{Te... te nem érsz annyit, hogy öt percet rádpazaroljak az életemb?l!}
-{391}{}{Talán te érsz annyit, te kis mocskosszájú gyökér?!}
-{392}{}{Kedvesem, nemigen tudnád megfizetni az id?met.}
-{393}{}{Nem vagy egyedül vele.}
-{394}{}{Szerintem is. Na, üdv...}
-{400}{}{Csakugyan? Miféle férfi vagy te? Meg akarod tán mutatni?}
-{401}{}{Készséggel. Menjünk a szobádba, hercegn?m, és rögtön látni fogod, milyen egy igazi férfi!}
-{402}{}{Nem-nem, csak kiváncsi voltam, vajon tényleg akkora ribi vagy-e, mint amilyennek gondoltalak. Légy jó, bébi!}
-{410}{}{Igen-igen, legjobb, ha tudod, hogy állnak a dolgok errefelé. (Tet?t?l talpig végigmér.)}
-{411}{}{Öö...}
+{375}{}{Felejtsd el azt a szart! Most lÃ©pek...}
+{380}{}{Te arrogÃ¡ns szemÃ©tl... --most rÃ¶gtÃ¶n el kÃ©ne mondanom apÃ¡nak, miket mondasz rÃ³lam.}
+{381}{}{Parancsolj. Nem Ã¡llok az utadba, hercegn?m.}
+{382}{}{Nem hinnÃ©m, hogy megteszed. Szerintem lÃ¡tni akarod, milyen fÃ©rfi vagyok.}
+{383}{}{Most hagyjuk abba, mert valaki meg fog sÃ©rÃ¼lni!}
+{384}{}{HÃ¡t persze, miÃ©rt nem rohansz Ã©s mondod el neki? Van Ã©nnekem jobb dolgom is!}
+{385}{}{Felejtsd el ezt a kapitÃ¡lis baromsÃ¡got! Most pedig lelÃ©ptem...}
+{390}{}{Te... te nem Ã©rsz annyit, hogy Ã¶t percet rÃ¡dpazaroljak az Ã©letemb?l!}
+{391}{}{TalÃ¡n te Ã©rsz annyit, te kis mocskosszÃ¡jÃº gyÃ¶kÃ©r?!}
+{392}{}{Kedvesem, nemigen tudnÃ¡d megfizetni az id?met.}
+{393}{}{Nem vagy egyedÃ¼l vele.}
+{394}{}{Szerintem is. Na, Ã¼dv...}
+{400}{}{Csakugyan? MifÃ©le fÃ©rfi vagy te? Meg akarod tÃ¡n mutatni?}
+{401}{}{KÃ©szsÃ©ggel. MenjÃ¼nk a szobÃ¡dba, hercegn?m, Ã©s rÃ¶gtÃ¶n lÃ¡tni fogod, milyen egy igazi fÃ©rfi!}
+{402}{}{Nem-nem, csak kivÃ¡ncsi voltam, vajon tÃ©nyleg akkora ribi vagy-e, mint amilyennek gondoltalak. LÃ©gy jÃ³, bÃ©bi!}
+{410}{}{Igen-igen, legjobb, ha tudod, hogy Ã¡llnak a dolgok errefelÃ©. (Tet?t?l talpig vÃ©gigmÃ©r.)}
+{411}{}{Ã–Ã¶...}
 {413}{}{[Stand there uncomfortably while she checks you out.]}
-{420}{}{Rendben... (Tet?t?l talpig végigmér.)}
-{422}{}{Rendben, szóval...}
-{430}{}{(Vállat von.) Apát nem igazán érdekli. (Összehúzza a szemöldökét.) Szóval jössz repülni, vagy nem?!}
-{432}{}{Na, jó, menjünk a szobádba.}
-{433}{}{Nem lehetnénk csak simán barátok?}
+{420}{}{Rendben... (Tet?t?l talpig vÃ©gigmÃ©r.)}
+{422}{}{Rendben, szÃ³val...}
+{430}{}{(VÃ¡llat von.) ApÃ¡t nem igazÃ¡n Ã©rdekli. (Ã–sszehÃºzza a szemÃ¶ldÃ¶kÃ©t.) SzÃ³val jÃ¶ssz repÃ¼lni, vagy nem?!}
+{432}{}{Na, jÃ³, menjÃ¼nk a szobÃ¡dba.}
+{433}{}{Nem lehetnÃ©nk csak simÃ¡n barÃ¡tok?}
 {434}{}{Nem-nem, jobb, ha megyek.}
-{435}{}{Nem! Ha szukát akarok, fogok egy kutyát. Na, csá.}
-{440}{}{MIT MONDTÁL???}
-{441}{}{Semmit. Menjünk a szobádba!}
-{442}{}{Azt találtam mondani: "Nem lehetnénk csak simán barátok?"}
+{435}{}{Nem! Ha szukÃ¡t akarok, fogok egy kutyÃ¡t. Na, csÃ¡.}
+{440}{}{MIT MONDTÃL???}
+{441}{}{Semmit. MenjÃ¼nk a szobÃ¡dba!}
+{442}{}{Azt talÃ¡ltam mondani: "Nem lehetnÃ©nk csak simÃ¡n barÃ¡tok?"}
 {443}{}{Semmit. Figyelj csak, nekem most mennem kell.}
-{450}{}{Hé, hát te vagy az... olyan jól elvoltunk régen, miel?tt itthagytál és jól megmutattad az Enklávésoknak. Nem akarod feleveníteni azokat a pillanatokat?}
-{451}{}{Na, visszajöttél? Nincs kedved egy kis lazuláshoz?}
+{450}{}{HÃ©, hÃ¡t te vagy az... olyan jÃ³l elvoltunk rÃ©gen, miel?tt itthagytÃ¡l Ã©s jÃ³l megmutattad az EnklÃ¡vÃ©soknak. Nem akarod felevenÃ­teni azokat a pillanatokat?}
+{451}{}{Na, visszajÃ¶ttÃ©l? Nincs kedved egy kis lazulÃ¡shoz?}
 {452}{}{Jelen pillantban nem.}
-{453}{}{Na, jó, menjünk a szobádba.}
-{460}{}{Hallottam, mit m?veltél az Enklávésokkal.}
-{462}{}{Megjött a nagy }
-{463}{}{NAGYON impresszív! Szerintem nálad rátermettebb ember nem sok van, aki képes lenne az én... problémámra gyógyírt találni. Jó lenne, ha nem váratnál!}
-{464}{}{Nekem van probléma}
-{465}{}{Csak te tudol akadályozni erd?t?z}
+{453}{}{Na, jÃ³, menjÃ¼nk a szobÃ¡dba.}
+{460}{}{Hallottam, mit m?veltÃ©l az EnklÃ¡vÃ©sokkal.}
+{462}{}{MegjÃ¶tt a nagy }
+{463}{}{NAGYON impresszÃ­v! Szerintem nÃ¡lad rÃ¡termettebb ember nem sok van, aki kÃ©pes lenne az Ã©n... problÃ©mÃ¡mra gyÃ³gyÃ­rt talÃ¡lni. JÃ³ lenne, ha nem vÃ¡ratnÃ¡l!}
+{464}{}{Nekem van problÃ©ma}
+{465}{}{Csak te tudol akadÃ¡lyozni erd?t?z}
 {466}{}{[Elcsoszogsz]}
-{467}{}{Miféle problémáról van szó?}
-{468}{}{De váratlak. Ezenkívül mehetnékem is van...}
-{469}{}{Nincsen nekem id?m ilyesmire. Hív a kötelesség.}
-{480}{}{Figyu, els? osztályú Jet van a szobámban és egyedül nem tudom mindet elhasználni.}
-{481}{}{Tényleg?}
-{482}{}{És hát ez bizony probléma, mert...}
-{483}{}{Öö... nem hinném, hogy én vagyok a megfelel? szem...}
-{490}{}{Még nem láttalak eddig. Te vagy apám egyik újsütet? kurvája?}
-{491}{}{Hönh?}
-{493}{}{Nem. Hát te?}
-{494}{}{Nem, csak épp benéztem.}
-{495}{}{Bizonyára Bishop lánya vagy. Én az édesapádnak dolgozom, Miss Bishop.}
-{496}{}{Az a helyzet, hogy az édesapádnak dolgozom. Az egyik új családtag vagyok.}
+{467}{}{MifÃ©le problÃ©mÃ¡rÃ³l van szÃ³?}
+{468}{}{De vÃ¡ratlak. EzenkÃ­vÃ¼l mehetnÃ©kem is van...}
+{469}{}{Nincsen nekem id?m ilyesmire. HÃ­v a kÃ¶telessÃ©g.}
+{480}{}{Figyu, els? osztÃ¡lyÃº Jet van a szobÃ¡mban Ã©s egyedÃ¼l nem tudom mindet elhasznÃ¡lni.}
+{481}{}{TÃ©nyleg?}
+{482}{}{Ã‰s hÃ¡t ez bizony problÃ©ma, mert...}
+{483}{}{Ã–Ã¶... nem hinnÃ©m, hogy Ã©n vagyok a megfelel? szem...}
+{490}{}{MÃ©g nem lÃ¡ttalak eddig. Te vagy apÃ¡m egyik ÃºjsÃ¼tet? kurvÃ¡ja?}
+{491}{}{HÃ¶nh?}
+{493}{}{Nem. HÃ¡t te?}
+{494}{}{Nem, csak Ã©pp benÃ©ztem.}
+{495}{}{BizonyÃ¡ra Bishop lÃ¡nya vagy. Ã‰n az Ã©desapÃ¡dnak dolgozom, Miss Bishop.}
+{496}{}{Az a helyzet, hogy az Ã©desapÃ¡dnak dolgozom. Az egyik Ãºj csalÃ¡dtag vagyok.}
 {497}{}{Az a helyzet, hogy az egyik test?re vagyok.}
-{499}{}{Én nem vagyok kurva, de épp most hagytam abba egy ilyen lénnyel a beszélgetést.}
-{510}{}{Látom, apám alkalmazói szokásai fikarcnyit sem változtak. Figyelj a lábad elé, kedvesem, különben megütheted a bokád!}
-{511}{}{Okéjjjj! Köszi!}
-{520}{}{A szar is kitüremkedik néha a belekb?l, nem igaz? Ne rontsd túl soká itt a leveg?t, ribi, mert még bajod esik a végén!}
+{499}{}{Ã‰n nem vagyok kurva, de Ã©pp most hagytam abba egy ilyen lÃ©nnyel a beszÃ©lgetÃ©st.}
+{510}{}{LÃ¡tom, apÃ¡m alkalmazÃ³i szokÃ¡sai fikarcnyit sem vÃ¡ltoztak. Figyelj a lÃ¡bad elÃ©, kedvesem, kÃ¼lÃ¶nben megÃ¼theted a bokÃ¡d!}
+{511}{}{OkÃ©jjjj! KÃ¶szi!}
+{520}{}{A szar is kitÃ¼remkedik nÃ©ha a belekb?l, nem igaz? Ne rontsd tÃºl sokÃ¡ itt a leveg?t, ribi, mert mÃ©g bajod esik a vÃ©gÃ©n!}
 {521}{}{Ahogy gondolja.}
 {522}{}{Szajha...}
-{531}{}{Hogyne, felfogtam, hercegn?m, hogy kell valaki, aki a helyedre lép. Én megteszem ezt a kis szívességet.}
-{532}{}{Megértve, Miss Bishop.}
+{531}{}{Hogyne, felfogtam, hercegn?m, hogy kell valaki, aki a helyedre lÃ©p. Ã‰n megteszem ezt a kis szÃ­vessÃ©get.}
+{532}{}{MegÃ©rtve, Miss Bishop.}
 {534}{}{Jobb, ha megyek.}
-{535}{}{Na, én leléptem...}
-{540}{}{Kurvának neveztelek ugyebár. Nincs nagy különbség a munkánk között csak az egyik függ?leges, a másik vízszintes.}
-{541}{}{Test?r, kurva... mi a különbség?}
-{542}{}{Van némi különbség. Akarod, hogy megtanítsam, te kis riherongy?}
-{543}{}{Nincs nagy különbség, Miss Bishop.}
-{544}{}{Sajnálom, Miss Bishop. Most nincs id?m a beszélgetésre.}
-{550}{}{Ha egyet is mozdulsz, meghalsz, miel?tt befejeznéd a mozdulatot.}
-{551}{}{Akarsz rá fogadni? Szerintem vesztenél.}
-{552}{}{Majd meglátjuk. Most viszont mennem kell.}
-{560}{}{Csak... csak egy ujjal nyúlj hozzám, és apám mindent tudni fog.}
-{561}{}{Nem fogja érdekelni.}
+{535}{}{Na, Ã©n lelÃ©ptem...}
+{540}{}{KurvÃ¡nak neveztelek ugyebÃ¡r. Nincs nagy kÃ¼lÃ¶nbsÃ©g a munkÃ¡nk kÃ¶zÃ¶tt csak az egyik fÃ¼gg?leges, a mÃ¡sik vÃ­zszintes.}
+{541}{}{Test?r, kurva... mi a kÃ¼lÃ¶nbsÃ©g?}
+{542}{}{Van nÃ©mi kÃ¼lÃ¶nbsÃ©g. Akarod, hogy megtanÃ­tsam, te kis riherongy?}
+{543}{}{Nincs nagy kÃ¼lÃ¶nbsÃ©g, Miss Bishop.}
+{544}{}{SajnÃ¡lom, Miss Bishop. Most nincs id?m a beszÃ©lgetÃ©sre.}
+{550}{}{Ha egyet is mozdulsz, meghalsz, miel?tt befejeznÃ©d a mozdulatot.}
+{551}{}{Akarsz rÃ¡ fogadni? Szerintem vesztenÃ©l.}
+{552}{}{Majd meglÃ¡tjuk. Most viszont mennem kell.}
+{560}{}{Csak... csak egy ujjal nyÃºlj hozzÃ¡m, Ã©s apÃ¡m mindent tudni fog.}
+{561}{}{Nem fogja Ã©rdekelni.}
 {563}{}{Nyugalom, csak vicceltem...}
-{564}{}{Hogyne, majd meglássuk...}
-{570}{}{Apám majd... majd megmutatja. Csak várd ki a végét!}
-{571}{}{T?nés innen, te kis cafka!}
-{573}{}{Csigavér! Csak vicceltem.}
-{580}{}{(Lesújtó pillantást vet rád, aztán megfordul és magadra hagy.)}
+{564}{}{Hogyne, majd meglÃ¡ssuk...}
+{570}{}{ApÃ¡m majd... majd megmutatja. Csak vÃ¡rd ki a vÃ©gÃ©t!}
+{571}{}{T?nÃ©s innen, te kis cafka!}
+{573}{}{CsigavÃ©r! Csak vicceltem.}
+{580}{}{(LesÃºjtÃ³ pillantÃ¡st vet rÃ¡d, aztÃ¡n megfordul Ã©s magadra hagy.)}
 {581}{}{[Walk away.]}
-{590}{}{(Angela nem állja meg, hogy ne bámuljon utánad, de bizonytalannak t?nik. egy ideig az ajkát harapdálja, aztán sietve elsétál.)}
-{591}{}{Igen, ÉN IS így gondoltam.}
-{600}{}{(Ráköp a lábadra.) Igen-igen, én is az voltam. (Egy utolsó jelent?ségteljes pillantást követ?en otthagy.)}
-{610}{}{"Nincs nagy különbség, Miss Bishop." És én még azt hittem, csak anyám volt apám egyetlen rabszolgája. T?nés a szemem el?l!}
-{620}{}{"Megértve, Miss Bishop." És én még azt hittem, csak anyám volt apám egyetlen rabszolgája. T?nés a szemem el?l!}
-{630}{}{"Sajnálom, Miss Bishop. Most nincs id?m a beszélgetésre." És én még azt hittem, csak anyám volt apám egyetlen rabszolgája. T?nés a szemem el?l!}
-{640}{}{Menj csak! Apu hamarosan mindenr?l tudni fog. Majd meglátod!}
+{590}{}{(Angela nem Ã¡llja meg, hogy ne bÃ¡muljon utÃ¡nad, de bizonytalannak t?nik. egy ideig az ajkÃ¡t harapdÃ¡lja, aztÃ¡n sietve elsÃ©tÃ¡l.)}
+{591}{}{Igen, Ã‰N IS Ã­gy gondoltam.}
+{600}{}{(RÃ¡kÃ¶p a lÃ¡badra.) Igen-igen, Ã©n is az voltam. (Egy utolsÃ³ jelent?sÃ©gteljes pillantÃ¡st kÃ¶vet?en otthagy.)}
+{610}{}{"Nincs nagy kÃ¼lÃ¶nbsÃ©g, Miss Bishop." Ã‰s Ã©n mÃ©g azt hittem, csak anyÃ¡m volt apÃ¡m egyetlen rabszolgÃ¡ja. T?nÃ©s a szemem el?l!}
+{620}{}{"MegÃ©rtve, Miss Bishop." Ã‰s Ã©n mÃ©g azt hittem, csak anyÃ¡m volt apÃ¡m egyetlen rabszolgÃ¡ja. T?nÃ©s a szemem el?l!}
+{630}{}{"SajnÃ¡lom, Miss Bishop. Most nincs id?m a beszÃ©lgetÃ©sre." Ã‰s Ã©n mÃ©g azt hittem, csak anyÃ¡m volt apÃ¡m egyetlen rabszolgÃ¡ja. T?nÃ©s a szemem el?l!}
+{640}{}{Menj csak! Apu hamarosan mindenr?l tudni fog. Majd meglÃ¡tod!}
 {641}{}{(Elfordul.)}
-{642}{}{Csak egy szót szólj apunak, és New Reno legmagasabb épületér?l fogsz leröppenni. Ha megtalálják a kis cetlit rajtad, mindenki tudni fogja majd, hogy öngyilkosság volt. SZÖRNY? tragédia lesz. Mindenki telesírja majd a párnáját.}
-{643}{}{(Távozol.)}
-{650}{}{Szerintem ezt a fogadást te vesztenéd el, szajha. Próbáld csak meg!}
+{642}{}{Csak egy szÃ³t szÃ³lj apunak, Ã©s New Reno legmagasabb Ã©pÃ¼letÃ©r?l fogsz lerÃ¶ppenni. Ha megtalÃ¡ljÃ¡k a kis cetlit rajtad, mindenki tudni fogja majd, hogy Ã¶ngyilkossÃ¡g volt. SZÃ–RNY? tragÃ©dia lesz. Mindenki telesÃ­rja majd a pÃ¡rnÃ¡jÃ¡t.}
+{643}{}{(TÃ¡vozol.)}
+{650}{}{Szerintem ezt a fogadÃ¡st te vesztenÃ©d el, szajha. PrÃ³bÃ¡ld csak meg!}
 {651}{}{[Attack her.]}
 {652}{}{[Let it go.]}
-{660}{}{Tágulj, nincs számodra mondanivalóm!}
-{661}{}{Apám hamarosan mindenr?l tudni fog. Majd meglátod!}
-{670}{}{Nem csak az van. Ha beveszem a Jetet, teljesen bekattanok, és alig tudom magam kordában tartani. Szükségem van valakire, aki tudja mi a dörgés, és ügyel, nehogy valami ostobaságot csináljak... Kérlek, ne várass!}
-{671}{}{Én vagyok a legjobb ember a feladatra. Menjünk!}
-{672}{}{H?snek lenni néha annyit tesz, hogy szép n?ket mentünk meg saját maguktól, és nem nézzük, milyen áron. Menjünk!}
-{673}{}{Szerintem összetévesztesz valakivel, aki esetleg hozzádnyúlna.}
-{680}{}{Angela Bishop édesen alszik, közben halkan hortyog. A haja teljesen kócos, arcán pedig fényes mosoly ül.}
-{690}{}{A hölgy feszes b?rruhában van, és eszeveszetten sikít.}
-{700}{}{Zzxxssnnn... óh, }
+{660}{}{TÃ¡gulj, nincs szÃ¡modra mondanivalÃ³m!}
+{661}{}{ApÃ¡m hamarosan mindenr?l tudni fog. Majd meglÃ¡tod!}
+{670}{}{Nem csak az van. Ha beveszem a Jetet, teljesen bekattanok, Ã©s alig tudom magam kordÃ¡ban tartani. SzÃ¼ksÃ©gem van valakire, aki tudja mi a dÃ¶rgÃ©s, Ã©s Ã¼gyel, nehogy valami ostobasÃ¡got csinÃ¡ljak... KÃ©rlek, ne vÃ¡rass!}
+{671}{}{Ã‰n vagyok a legjobb ember a feladatra. MenjÃ¼nk!}
+{672}{}{H?snek lenni nÃ©ha annyit tesz, hogy szÃ©p n?ket mentÃ¼nk meg sajÃ¡t maguktÃ³l, Ã©s nem nÃ©zzÃ¼k, milyen Ã¡ron. MenjÃ¼nk!}
+{673}{}{Szerintem Ã¶sszetÃ©vesztesz valakivel, aki esetleg hozzÃ¡dnyÃºlna.}
+{680}{}{Angela Bishop Ã©desen alszik, kÃ¶zben halkan hortyog. A haja teljesen kÃ³cos, arcÃ¡n pedig fÃ©nyes mosoly Ã¼l.}
+{690}{}{A hÃ¶lgy feszes b?rruhÃ¡ban van, Ã©s eszeveszetten sikÃ­t.}
+{700}{}{Zzxxssnnn... Ã³h, }
 {701}{}{Zzzzz...}
-{800}{}{SZATÍR! Segítség!}
-{801}{}{Segítség, megtámadott! Segítség!}
-{802}{}{Szatír! Szatír!}
-{810}{}{(Angela felvezet a második emeleten lév? szobájába. Miután felértetek, kinyit egy faliszekrényt, el?vesz bel?le egy furcsa, m?anyag ampullát, és feléd nyújtja.) Itt annyi van, hogy mindkett?nknek elég a repüléshez. Nem kérsz egy kicsit, kedvesem?}
-{811}{}{(Angela felvezet a második emeleten lév? szobájába. Miután felértetek, kinyit egy faliszekrényt, el?vesz bel?le egy kis Jetet, és feléd nyújtja.) Itt annyi van, hogy mindkett?nknek elég a repüléshez. Nem kérsz egy kicsit, kedvesem?}
-{812}{}{[Bólogatsz]}
+{800}{}{SZATÃR! SegÃ­tsÃ©g!}
+{801}{}{SegÃ­tsÃ©g, megtÃ¡madott! SegÃ­tsÃ©g!}
+{802}{}{SzatÃ­r! SzatÃ­r!}
+{810}{}{(Angela felvezet a mÃ¡sodik emeleten lÃ©v? szobÃ¡jÃ¡ba. MiutÃ¡n felÃ©rtetek, kinyit egy faliszekrÃ©nyt, el?vesz bel?le egy furcsa, m?anyag ampullÃ¡t, Ã©s felÃ©d nyÃºjtja.) Itt annyi van, hogy mindkett?nknek elÃ©g a repÃ¼lÃ©shez. Nem kÃ©rsz egy kicsit, kedvesem?}
+{811}{}{(Angela felvezet a mÃ¡sodik emeleten lÃ©v? szobÃ¡jÃ¡ba. MiutÃ¡n felÃ©rtetek, kinyit egy faliszekrÃ©nyt, el?vesz bel?le egy kis Jetet, Ã©s felÃ©d nyÃºjtja.) Itt annyi van, hogy mindkett?nknek elÃ©g a repÃ¼lÃ©shez. Nem kÃ©rsz egy kicsit, kedvesem?}
+{812}{}{[BÃ³logatsz]}
 {813}{}{[Ingatod a fejed]}
-{820}{}{Mmmmmmmm... (Angela mélyet szív az ampullából) Mmmmmmm... Miért nem jössz közelebb? (Lefekszik az ágyra, és még egy löketet ad magának.) Ha sietsz, még a számból veheted át ezt a kis Jetet...}
-{821}{}{Hát, mivel ilyen csábosan kínálod... legyen.}
-{822}{}{Kösz nem. Ki fogok akadni, ha beszívom azt a szart... vagy ha egy percig is tovább maradok.}
-{830}{}{(Angela szeme lángolni kezd a düht?l. Kiugrik az ágyból és torkaszakadtából sikítani kezd!) Szatír! Szatír! Szatír!}
-{831}{}{Shhh! Ha nem csitulsz, George nem haggya, hogy jáccak a tengeri nyulakkal! Shhh!}
+{820}{}{Mmmmmmmm... (Angela mÃ©lyet szÃ­v az ampullÃ¡bÃ³l) Mmmmmmm... MiÃ©rt nem jÃ¶ssz kÃ¶zelebb? (Lefekszik az Ã¡gyra, Ã©s mÃ©g egy lÃ¶ketet ad magÃ¡nak.) Ha sietsz, mÃ©g a szÃ¡mbÃ³l veheted Ã¡t ezt a kis Jetet...}
+{821}{}{HÃ¡t, mivel ilyen csÃ¡bosan kÃ­nÃ¡lod... legyen.}
+{822}{}{KÃ¶sz nem. Ki fogok akadni, ha beszÃ­vom azt a szart... vagy ha egy percig is tovÃ¡bb maradok.}
+{830}{}{(Angela szeme lÃ¡ngolni kezd a dÃ¼ht?l. Kiugrik az Ã¡gybÃ³l Ã©s torkaszakadtÃ¡bÃ³l sikÃ­tani kezd!) SzatÃ­r! SzatÃ­r! SzatÃ­r!}
+{831}{}{Shhh! Ha nem csitulsz, George nem haggya, hogy jÃ¡ccak a tengeri nyulakkal! Shhh!}
 {832}{}{No scream! No scream!}
-{833}{}{Hirtelen nagggyon mehetnékem lett!}
+{833}{}{Hirtelen nagggyon mehetnÃ©kem lett!}
 {1460}{}{. }
-{1461}{}{. Láttam a legújabb filmedet.}
+{1461}{}{. LÃ¡ttam a legÃºjabb filmedet.}
 {1462}{}{! Hallottam, mire vitted a ringben. }
-{1700}{}{, óóóóóh... zzxnhzzz}
-{1701}{}{, még egyszer akarod? Óóóóh...}
+{1700}{}{, Ã³Ã³Ã³Ã³Ã³h... zzxnhzzz}
+{1701}{}{, mÃ©g egyszer akarod? Ã“Ã³Ã³Ã³h...}

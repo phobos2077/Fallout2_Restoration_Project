@@ -1,17 +1,17 @@
-{100}{}{Ves a una Garra mortal. Te observa con ojos extrañamente inteligentes.}
+{100}{}{Ves a una Garra mortal. Te observa con ojos extraÃ±amente inteligentes.}
 {101}{}{Ves a Dar, la Garra mortal.}
-{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
+{102}{}{Ves a la tÃ­pica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
  garras.}
 {103}{}{Hola, humana.}
-{104}{}{¿Qué quieres?}
-{105}{}{Hola. ¿Quién tú?}
-{106}{}{¿Por qué aquí?}
-{107}{}{¿Tú listo como los otros?}
+{104}{}{Â¿QuÃ© quieres?}
+{105}{}{Hola. Â¿QuiÃ©n tÃº?}
+{106}{}{Â¿Por quÃ© aquÃ­?}
+{107}{}{Â¿TÃº listo como los otros?}
 {108}{}{Me aburro, marcho.}
-{109}{}{Perdona por molestarte pero, ¿quién eres?}
-{110}{}{¿Cuál es tu trabajo en el Refugio?}
-{111}{}{Por favor, no te ofendas pero, ¿cómo te educaron?}
-{112}{}{Bueno, tan sólo pasando el tiempo.}
+{109}{}{Perdona por molestarte pero, Â¿quiÃ©n eres?}
+{110}{}{Â¿CuÃ¡l es tu trabajo en el Refugio?}
+{111}{}{Por favor, no te ofendas pero, Â¿cÃ³mo te educaron?}
+{112}{}{Bueno, tan sÃ³lo pasando el tiempo.}
 {113}{}{Yo Dar, guerrero.}
 {114}{}{Vale.}
 {115}{}{Todos vosotros iguales. Marcho yo.}
@@ -19,22 +19,22 @@
 {117}{}{Ya veo. Bien, ahora he de irme.}
 {118}{}{Soy }
 {119}{}{Entendido.}
-{120}{}{¡Guerrero! ¡Ja! Ese ha sido uno bueno. ¿Sabes alguno más?}
-{121}{}{Dar protege la entrada y mantiene la paz. Nada más.}
+{120}{}{Â¡Guerrero! Â¡Ja! Ese ha sido uno bueno. Â¿Sabes alguno mÃ¡s?}
+{121}{}{Dar protege la entrada y mantiene la paz. Nada mÃ¡s.}
 {122}{}{Escuchar antes.}
 {123}{}{Vale.}
-{124}{}{Bueno, lo estás haciendo bien, Dar. Tan solo sigue así.}
-{125}{}{Sí, ya me lo figuraba.}
-{126}{}{Nada nuevo aquí. Supongo que me iré.}
-{127}{}{Con una cara como la tuya, ¿cómo mantienes la paz?}
-{128}{}{Tú no agradable. Vete.}
-{129}{}{No mucho pero aprendo. Gruthar, el líder, nos dice todos aprendemos.}
+{124}{}{Bueno, lo estÃ¡s haciendo bien, Dar. Tan solo sigue asÃ­.}
+{125}{}{SÃ­, ya me lo figuraba.}
+{126}{}{Nada nuevo aquÃ­. Supongo que me irÃ©.}
+{127}{}{Con una cara como la tuya, Â¿cÃ³mo mantienes la paz?}
+{128}{}{TÃº no agradable. Vete.}
+{129}{}{No mucho pero aprendo. Gruthar, el lÃ­der, nos dice todos aprendemos.}
 {130}{}{La anciana en el poblado dice igual para yo.}
 {131}{}{Ah.}
-{132}{}{Gruthar tiene razón; todos tendríais que educaros.}
+{132}{}{Gruthar tiene razÃ³n; todos tendrÃ­ais que educaros.}
 {133}{}{Entendido.}
-{134}{}{Así que sois tan estúpidos que otro os tiene que obligar a educaros. Qué bien.}
-{135}{}{Hola. Tú amigo de manada.}
+{134}{}{AsÃ­ que sois tan estÃºpidos que otro os tiene que obligar a educaros. QuÃ© bien.}
+{135}{}{Hola. TÃº amigo de manada.}
 {136}{}{Grrrrrrrrr! Argggggghhhh.}
 {137}{}{.}
 {138}{}{, Dar.}

@@ -1,30 +1,30 @@
-{100}{}{Widzisz ¿o³nierza w mundurze s³u¿bowym.}
-{101}{}{Jakiœ technik Pfc, stopieñ X.}
-{102}{}{Jego ubiór to mundur wojskowy, ale nie ma w¹tpliwoœci, ¿e ten facen jest bardziej technikiem ni¿ ¿o³nierzem.}
-{103}{}{S³uchaj, ile razy mam ciê opierdalaæ? Nie w³aŸ mi w drogê!}
-{104}{}{Nie musisz przypadkiem pójœæ gdzieœ, ¿eby sobie postrzelaæ?}
-{105}{}{Witaj, ¿o³nierzu.}
-{106}{}{Kim jesteœ? Stra¿!}
-{107}{}{Co to jest u diab³a? Dywersja w bazie!}
-{108}{}{Kurwa, gdzie jest mój pistolet!}
-{109}{}{S³uchaj, oni ju¿ tu szukali i nic nie znaleŸli.}
-{110}{}{Raany, te fa³szywe alarmy masakruj¹ moje nerwy.}
-{111}{}{Wspaniale, jeszcze jeden fa³szywy alarm. Teraz znowu bêdziemy musieli wywaliæ ca³y system i stawiaæ go od nowa. }
-{112}{}{Cholera! ChodŸcie tutaj! Z³apcie szpiega!}
-{113}{}{Cholera, to atak! Gdzie moja broñ?}
-{114}{}{Strzelaæ? Nikt nie mówi³, ¿e bêdzie jakieœ strzelanie!}
-{115}{}{Kim ty kurwa jesteœ? Stra¿!}
-{116}{}{Nie jesteœ z Enklawy! Stra¿!}
-{117}{}{Dywersanci! Sabota¿yœci! S¹ tutaj!}
-{118}{}{Hej, nie psuj tych planów. Ja tu pracujê.}
-{119}{}{Gdzie u licha jest ten ¿yrowator?}
-{120}{}{Cholerne pilociki, ci¹gle psuj¹ moje maszyny.}
-{121}{}{Zrozumia³em, mam ciê w zasiêgu - nie zawracaj mi g³owy, pracujê.}
-{122}{}{¯adnych pogaduszek na s³u¿bie, ¿o³nierzu.}
-{123}{}{Przykro mi, nie mogê ci teraz pomóc.}
-{124}{}{Masz tu jakiœ interes? Jeœli nie to zejdŸ mi z drogi.}
-{125}{}{¯o³nierzu, ten obszar jest zastrze¿ony.}
-{126}{}{ZejdŸ mi z drogi, ¿o³nierzu.}
-{127}{}{Co jest? Co siê tam, kurwa, na górze dzieje?}
-{128}{}{Cholera! W³amali siê!}
-{129}{}{Pajace! To pewnie znowu fa³szywy alarm.}
+{100}{}{Widzisz Å¼oÅ‚nierza w mundurze sÅ‚uÅ¼bowym.}
+{101}{}{JakiÅ› technik Pfc, stopieÅ„ X.}
+{102}{}{Jego ubiÃ³r to mundur wojskowy, ale nie ma wÄ…tpliwoÅ›ci, Å¼e ten facen jest bardziej technikiem niÅ¼ Å¼oÅ‚nierzem.}
+{103}{}{SÅ‚uchaj, ile razy mam ciÄ™ opierdalaÄ‡? Nie wÅ‚aÅº mi w drogÄ™!}
+{104}{}{Nie musisz przypadkiem pÃ³jÅ›Ä‡ gdzieÅ›, Å¼eby sobie postrzelaÄ‡?}
+{105}{}{Witaj, Å¼oÅ‚nierzu.}
+{106}{}{Kim jesteÅ›? StraÅ¼!}
+{107}{}{Co to jest u diabÅ‚a? Dywersja w bazie!}
+{108}{}{Kurwa, gdzie jest mÃ³j pistolet!}
+{109}{}{SÅ‚uchaj, oni juÅ¼ tu szukali i nic nie znaleÅºli.}
+{110}{}{Raany, te faÅ‚szywe alarmy masakrujÄ… moje nerwy.}
+{111}{}{Wspaniale, jeszcze jeden faÅ‚szywy alarm. Teraz znowu bÄ™dziemy musieli wywaliÄ‡ caÅ‚y system i stawiaÄ‡ go od nowa. }
+{112}{}{Cholera! ChodÅºcie tutaj! ZÅ‚apcie szpiega!}
+{113}{}{Cholera, to atak! Gdzie moja broÅ„?}
+{114}{}{StrzelaÄ‡? Nikt nie mÃ³wiÅ‚, Å¼e bÄ™dzie jakieÅ› strzelanie!}
+{115}{}{Kim ty kurwa jesteÅ›? StraÅ¼!}
+{116}{}{Nie jesteÅ› z Enklawy! StraÅ¼!}
+{117}{}{Dywersanci! SabotaÅ¼yÅ›ci! SÄ… tutaj!}
+{118}{}{Hej, nie psuj tych planÃ³w. Ja tu pracujÄ™.}
+{119}{}{Gdzie u licha jest ten Å¼yrowator?}
+{120}{}{Cholerne pilociki, ciÄ…gle psujÄ… moje maszyny.}
+{121}{}{ZrozumiaÅ‚em, mam ciÄ™ w zasiÄ™gu - nie zawracaj mi gÅ‚owy, pracujÄ™.}
+{122}{}{Å»adnych pogaduszek na sÅ‚uÅ¼bie, Å¼oÅ‚nierzu.}
+{123}{}{Przykro mi, nie mogÄ™ ci teraz pomÃ³c.}
+{124}{}{Masz tu jakiÅ› interes? JeÅ›li nie to zejdÅº mi z drogi.}
+{125}{}{Å»oÅ‚nierzu, ten obszar jest zastrzeÅ¼ony.}
+{126}{}{ZejdÅº mi z drogi, Å¼oÅ‚nierzu.}
+{127}{}{Co jest? Co siÄ™ tam, kurwa, na gÃ³rze dzieje?}
+{128}{}{Cholera! WÅ‚amali siÄ™!}
+{129}{}{Pajace! To pewnie znowu faÅ‚szywy alarm.}

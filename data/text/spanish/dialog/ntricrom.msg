@@ -1,2 +1,2 @@
-{100}{}{Esta era la antigua habitación de Richard.}
-{200}{}{Quizá debería echar un vistazo.}
+{100}{}{Esta era la antigua habitaciÃ³n de Richard.}
+{200}{}{QuizÃ¡ deberÃ­a echar un vistazo.}

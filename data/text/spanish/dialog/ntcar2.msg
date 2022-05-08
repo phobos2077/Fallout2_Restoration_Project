@@ -1,10 +1,10 @@
-{100}{}{¡Aparqué mi coche justo aquí!}
-{101}{}{¡Juro que aparqué justo aquí!}
-{150}{}{Al pasar cerca del lugar en el que estaba aparcado el coche, notas unas débiles marcas de arrastre
+{100}{}{Â¡AparquÃ© mi coche justo aquÃ­!}
+{101}{}{Â¡Juro que aparquÃ© justo aquÃ­!}
+{150}{}{Al pasar cerca del lugar en el que estaba aparcado el coche, notas unas dÃ©biles marcas de arrastre
  que se dirijen hacia el norte.}
-{151}{}{Ves marcas de neumáticos que llevan hacia el norte.}
-{152}{}{¡Ves marcas de neumáticos!}
-{153}{}{(¡Sigo marcas!)}
+{151}{}{Ves marcas de neumÃ¡ticos que llevan hacia el norte.}
+{152}{}{Â¡Ves marcas de neumÃ¡ticos!}
+{153}{}{(Â¡Sigo marcas!)}
 {154}{}{(No sigo marcas).}
-{155}{}{(Sigues las marcas de neumáticos).}
+{155}{}{(Sigues las marcas de neumÃ¡ticos).}
 {156}{}{(Las ignoras).}

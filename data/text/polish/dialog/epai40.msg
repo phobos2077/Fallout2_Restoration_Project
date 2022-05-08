@@ -1,3 +1,3 @@
 {100}{}{Widzisz schody.}
 {101}{}{Widzisz schody ewakuacyjne.}
-{200}{}{Wygl¹da, ¿e schody poni¿ej siê zawali³y. Musisz znaleŸæ inn¹ drogê.}
+{200}{}{WyglÄ…da, Å¼e schody poniÅ¼ej siÄ™ zawaliÅ‚y. Musisz znaleÅºÄ‡ innÄ… drogÄ™.}

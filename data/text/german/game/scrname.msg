@@ -8,9 +8,9 @@
 {108}{}{Arroyo-Krieger}
 {109}{}{Arroyo-Bewohner}
 {110}{}{Mynoc}
-{111}{}{Arroyo-Älteste}
+{111}{}{Arroyo-Ã„lteste}
 {112}{}{Hakunin}
-{113}{}{Tür}
+{113}{}{TÃ¼r}
 {114}{}{Allgemein}
 {115}{}{Truhe}
 {116}{}{Kassette}
@@ -22,29 +22,29 @@
 {122}{}{Kleine Deathclaw}
 {123}{}{Vase}
 {124}{}{Truhe}
-{125}{}{Arroyo-Höhlen}
-{126}{}{Holztür}
+{125}{}{Arroyo-HÃ¶hlen}
+{126}{}{HolztÃ¼r}
 {127}{}{Arroyo-Dorf}
-{128}{}{Arroyo-Brücke}
-{129}{}{Alte Tür}
+{128}{}{Arroyo-BrÃ¼cke}
+{129}{}{Alte TÃ¼r}
 {130}{}{Bodenplatte}
 {131}{}{Bodenplatte}
 {132}{}{Bodenplatte}
 {133}{}{Bodenplatte}
 {134}{}{Bodenplatte}
-{135}{}{Tür}
-{136}{}{Abhängiger}
-{137}{}{Wächter}
+{135}{}{TÃ¼r}
+{136}{}{AbhÃ¤ngiger}
+{137}{}{WÃ¤chter}
 {138}{}{Stadtbewohner}
 {139}{}{Thug}
 {140}{}{Waisenkind}
 {141}{}{Joey}
 {142}{}{Flick}
-{143}{}{Wächter}
+{143}{}{WÃ¤chter}
 {144}{}{Petey}
 {145}{}{Smitty}
 {146}{}{Metzger}
-{147}{}{Sklavenhändler}
+{147}{}{SklavenhÃ¤ndler}
 {148}{}{Tubby}
 {149}{}{Anna}
 {150}{}{Vic}
@@ -56,8 +56,8 @@
 {156}{}{Dorfbewohner}
 {157}{}{Sklavenjagd}
 {158}{}{Sklavenkarren}
-{159}{}{Geschäftsbereich von Den}
-{160}{}{Geschäftsbereich von Den}
+{159}{}{GeschÃ¤ftsbereich von Den}
+{160}{}{GeschÃ¤ftsbereich von Den}
 {161}{}{Wohnbereich von Den}
 {162}{}{Gruft}
 {163}{}{Gruft}
@@ -70,13 +70,13 @@
 {170}{}{Black Jack}
 {171}{}{Sklave}
 {172}{}{Black Jack}
-{173}{}{Tür}
+{173}{}{TÃ¼r}
 {174}{}{Whiskey-Bob}
-{175}{}{Würfel}
+{175}{}{WÃ¼rfel}
 {176}{}{Aldo}
 {177}{}{Ardin}
 {178}{}{Kind}
-{179}{}{Bürger}
+{179}{}{BÃ¼rger}
 {180}{}{Maida}
 {181}{}{Sajag}
 {182}{}{Sally}
@@ -85,7 +85,7 @@
 {185}{}{Slim}
 {186}{}{Torr}
 {187}{}{Dunton}
-{188}{}{Bürger}
+{188}{}{BÃ¼rger}
 {189}{}{Reisender}
 {190}{}{Wache der Vault City}
 {191}{}{Wache der Vault City}
@@ -115,7 +115,7 @@
 {215}{}{Mr. Smith}
 {216}{}{Skeeve}
 {217}{}{Pro-Konsul Gregory}
-{218}{}{Assistenzärztin Phyllis}
+{218}{}{AssistenzÃ¤rztin Phyllis}
 {219}{}{Randal}
 {220}{}{Glibber}
 {221}{}{Barkus}
@@ -142,7 +142,7 @@
 {242}{}{Verstrahlter Arbeiter}
 {243}{}{Ghulwache}
 {244}{}{Roboter}
-{245}{}{Ghulbürger}
+{245}{}{GhulbÃ¼rger}
 {246}{}{Map Script}
 {247}{}{Map Script}
 {248}{}{Map Script}
@@ -186,17 +186,17 @@
 {286}{}{Speerfalle}
 {287}{}{Speerfalle}
 {288}{}{Speerfalle}
-{289}{}{Geisterhöhle Eins}
-{290}{}{Geisterhöhle Zwei}
+{289}{}{GeisterhÃ¶hle Eins}
+{290}{}{GeisterhÃ¶hle Zwei}
 {291}{}{Geister Farm}
 {292}{}{Brahminweide in Modoc}
 {293}{}{Garten in Modoc}
 {294}{}{Wirtshaus in Modoc}
 {295}{}{Hauptplatz von Modoc}
-{296}{}{Modoc-Scheiß}
+{296}{}{Modoc-ScheiÃŸ}
 {297}{}{Modoc-Brunnen}
 {298}{}{NCR-Bereich 2}
-{299}{}{Arroyo-Gärten}
+{299}{}{Arroyo-GÃ¤rten}
 {300}{}{Gecko}
 {301}{}{Broc-Blume}
 {302}{}{Xander-Wurzel}
@@ -207,7 +207,7 @@
 {307}{}{Felsen}
 {308}{}{Felsen}
 {309}{}{Wandsafe}
-{310}{}{Münzbeutel}
+{310}{}{MÃ¼nzbeutel}
 {311}{}{Toilette}
 {312}{}{Kiste}
 {313}{}{Jordan}
@@ -255,8 +255,8 @@
 {355}{}{Regal}
 {356}{}{Gangster}
 {357}{}{Bauer}
-{358}{}{Händler}
-{359}{}{Wächter}
+{358}{}{HÃ¤ndler}
+{359}{}{WÃ¤chter}
 {360}{}{Wirt des Rawhide-Saloons}
 {361}{}{Boden}
 {362}{}{Plasmafalle}
@@ -265,8 +265,8 @@
 {365}{}{Schwarzes Brett}
 {366}{}{Tor}
 {367}{}{Glibber}
-{368}{}{Tür}
-{369}{}{Tür}
+{368}{}{TÃ¼r}
+{369}{}{TÃ¼r}
 {370}{}{}
 {371}{}{}
 {372}{}{Map Script}
@@ -297,7 +297,7 @@
 {397}{}{Barbesucher}
 {398}{}{Barbesucher}
 {399}{}{Vortis}
-{400}{}{Bademädchen}
+{400}{}{BademÃ¤dchen}
 {401}{}{Sklaven}
 {402}{}{Skorpion}
 {403}{}{Brahmin}
@@ -309,7 +309,7 @@
 {409}{}{Map Script}
 {410}{}{Corvega}
 {411}{}{Map Script}
-{412}{}{Metalltür}
+{412}{}{MetalltÃ¼r}
 {413}{}{Map Script}
 {414}{}{Map Script}
 {415}{}{Map Script}
@@ -320,15 +320,15 @@
 {420}{}{Boxer}
 {421}{}{Pete McKneely}
 {422}{}{Evan Hollyfeld}
-{423}{}{Beißer}
+{423}{}{BeiÃŸer}
 {424}{}{Wissenschaftler}
 {425}{}{Merk}
 {426}{}{Ventilator}
 {427}{}{Drogen Dealer}
 {428}{}{Kasinowirt}
-{429}{}{Zuhälter}
+{429}{}{ZuhÃ¤lter}
 {430}{}{Junkie}
-{431}{}{Möbel}
+{431}{}{MÃ¶bel}
 {432}{}{Boden}
 {433}{}{Boden}
 {434}{}{Holo-Disk}
@@ -342,19 +342,19 @@
 {442}{}{Map Script}
 {443}{}{Wolf}
 {444}{}{Generator}
-{445}{}{Tür}
+{445}{}{TÃ¼r}
 {446}{}{Supermutant}
 {447}{}{Salvatores Mann}
 {448}{}{Bishops Mann}
 {449}{}{Mordinos Mann}
 {450}{}{Wrights Kind}
-{451}{}{Rausschmeißer des Kasino}
+{451}{}{RausschmeiÃŸer des Kasino}
 {452}{}{Mira}
 {453}{}{New Reno: Virgin Street}
 {454}{}{New Reno: 2nd Street}
 {455}{}{New Reno: Commercial Row}
 {456}{}{New Reno: East Side}
-{457}{}{New Reno Ställe}
+{457}{}{New Reno StÃ¤lle}
 {458}{}{New Reno: Chop Shop}
 {459}{}{New Reno: Golgotha}
 {460}{}{New Reno Bishop-Keller}
@@ -363,31 +363,31 @@
 {463}{}{Holo-Disk}
 {464}{}{Holo-Disk}
 {465}{}{Holo-Disk}
-{466}{}{Wächter}
+{466}{}{WÃ¤chter}
 {467}{}{Lore}
 {468}{}{Melchior}
 {469}{}{Mutiertes Biest}
 {470}{}{FEV-Glibber}
 {471}{}{Hauptmann der Wache}
-{472}{}{Aufseher über Sklaven}
+{472}{}{Aufseher Ã¼ber Sklaven}
 {473}{}{Melchiors Haustier}
 {474}{}{Sklavenwache}
-{475}{}{Tür}
+{475}{}{TÃ¼r}
 {476}{}{Terminal}
 {477}{}{Spielautomat}
 {478}{}{Kind}
 {479}{}{Sheb}
-{480}{}{Wächter}
+{480}{}{WÃ¤chter}
 {481}{}{Emitter}
 {482}{}{Kraftfeld}
 {483}{}{Sulik}
 {484}{}{Dr. Henry}
-{485}{}{Wächter}
+{485}{}{WÃ¤chter}
 {486}{}{Angriff von Carlsons Wachen}
 {487}{}{Carlsons Torwachen}
 {488}{}{Gefangener}
 {489}{}{Gefangener}
-{490}{}{Bürger}
+{490}{}{BÃ¼rger}
 {491}{}{Annehmlichkeitenhilfe}
 {492}{}{Wachposten}
 {493}{}{Ghularbeiter}
@@ -407,8 +407,8 @@
 {507}{}{Duppo}
 {508}{}{Kram}
 {509}{}{Bob}
-{510}{}{Mädchen vom Kasino}
-{511}{}{Mädchen vom Kasino}
+{510}{}{MÃ¤dchen vom Kasino}
+{511}{}{MÃ¤dchen vom Kasino}
 {512}{}{Magische Acht}
 {513}{}{Brahmin}
 {514}{}{Spielautomat}
@@ -418,11 +418,11 @@
 {518}{}{Bill}
 {519}{}{Bishop's Bodyguard}
 {520}{}{John Bishop}
-{521}{}{Glücksspielautomat}
+{521}{}{GlÃ¼cksspielautomat}
 {522}{}{Chop Shop Boy}
 {523}{}{Chris Wright}
 {524}{}{Cody}
-{525}{}{Korsische Brüder}
+{525}{}{Korsische BrÃ¼der}
 {526}{}{Eldridge}
 {527}{}{Ethyl Wright}
 {528}{}{Vater Tully}
@@ -431,9 +431,9 @@
 {531}{}{Jagged Jimmy J}
 {532}{}{Keith Wright}
 {533}{}{Lee Anne Bishop}
-{534}{}{Schönling Lloyd}
+{534}{}{SchÃ¶nling Lloyd}
 {535}{}{Mason}
-{536}{}{Wächter}
+{536}{}{WÃ¤chter}
 {537}{}{Myron}
 {538}{}{Nikki}
 {539}{}{Orville Wright}
@@ -452,7 +452,7 @@
 {552}{}{Miss Kitty}
 {553}{}{Barkeeper}
 {554}{}{Hilfssheriff Karl}
-{555}{}{Zellentür}
+{555}{}{ZellentÃ¼r}
 {556}{}{Big Jesus Mordino}
 {557}{}{Hoss}
 {558}{}{Mutationsserum}
@@ -461,8 +461,8 @@
 {561}{}{Kiste}
 {562}{}{Kiste}
 {563}{}{Doctor Jubilee}
-{564}{}{Tür}
-{565}{}{Tür}
+{564}{}{TÃ¼r}
+{565}{}{TÃ¼r}
 {566}{}{Regal}
 {567}{}{Sheriff Dumont}
 {568}{}{Elise}
@@ -480,11 +480,11 @@
 {580}{}{Karawanenwache}
 {581}{}{Gangster}
 {582}{}{Gangster}
-{583}{}{Jäger}
-{584}{}{Jäger}
+{583}{}{JÃ¤ger}
+{584}{}{JÃ¤ger}
 {585}{}{Ranger}
-{586}{}{Söldner}
-{587}{}{Söldner}
+{586}{}{SÃ¶ldner}
+{587}{}{SÃ¶ldner}
 {588}{}{Gangster}
 {589}{}{Karawanentreiber}
 {590}{}{Karawanenwache}
@@ -505,14 +505,14 @@
 {605}{}{Schmuggler}
 {606}{}{Supermutant}
 {607}{}{Fischer}
-{608}{}{Sklavenhändler}
+{608}{}{SklavenhÃ¤ndler}
 {609}{}{Fallensteller}
 {610}{}{Carlsons Kind}
 {611}{}{Carlson}
 {612}{}{}
 {613}{}{Offizier Jack}
 {614}{}{Der Erleuchtete}
-{615}{}{Tür}
+{615}{}{TÃ¼r}
 {616}{}{Computer}
 {617}{}{Brahmin}
 {618}{}{Deathclaw}
@@ -526,14 +526,14 @@
 {626}{}{Dar}
 {627}{}{Dave}
 {628}{}{Gordon}
-{629}{}{Zeichen "Geschäftsaufgabe"}
+{629}{}{Zeichen "GeschÃ¤ftsaufgabe"}
 {630}{}{Maschinen zur Reaktorsteuerung}
 {631}{}{Jimmy}
 {632}{}{Joseph}
 {633}{}{Matt}
 {634}{}{}
 {635}{}{Map Script}
-{636}{}{Map-Skript für B13}
+{636}{}{Map-Skript fÃ¼r B13}
 {637}{}{Sandy}
 {638}{}{Kiste}
 {639}{}{Thearn}
@@ -547,24 +547,24 @@
 {647}{}{Goris}
 {648}{}{Kiste}
 {649}{}{Metall Spind}
-{650}{}{Betrüger}
-{651}{}{Map-Skript für B15}
+{650}{}{BetrÃ¼ger}
+{651}{}{Map-Skript fÃ¼r B15}
 {652}{}{Phil}
 {653}{}{Bill}
-{654}{}{Schlächter}
+{654}{}{SchlÃ¤chter}
 {655}{}{Dalia}
 {656}{}{John}
 {657}{}{Jones}
 {658}{}{Karla}
-{659}{}{Geheime Eingangskarte für B15}
+{659}{}{Geheime Eingangskarte fÃ¼r B15}
 {660}{}{Rebecca}
-{661}{}{Tür}
+{661}{}{TÃ¼r}
 {662}{}{Deathclaw}
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
 {666}{}{Brahmin}
-{667}{}{Holztür}
+{667}{}{HolztÃ¼r}
 {668}{}{Chrissy}
 {669}{}{Darion}
 {670}{}{Darions Wache}
@@ -572,24 +572,24 @@
 {672}{}{Cassidy}
 {673}{}{Brunnen}
 {674}{}{Maulwurfsratte}
-{675}{}{Brahmin-Stück}
+{675}{}{Brahmin-StÃ¼ck}
 {676}{}{Brahmin}
-{677}{}{Aufzugstür}
+{677}{}{AufzugstÃ¼r}
 {678}{}{Hund}
 {679}{}{Ratte}
 {680}{}{Sonnenfleck}
 {681}{}{Bess}
 {682}{}{Kiste}
-{683}{}{Würfelspiel-Croupier}
+{683}{}{WÃ¼rfelspiel-Croupier}
 {684}{}{Vault 15-Wache}
 {685}{}{Olm}
 {686}{}{Teppich}
 {687}{}{Kind}
 {688}{}{Helene}
-{689}{}{Wächter}
+{689}{}{WÃ¤chter}
 {690}{}{Doc Holiday}
-{691}{}{Häscher}
-{692}{}{Häscher}
+{691}{}{HÃ¤scher}
+{692}{}{HÃ¤scher}
 {693}{}{Frau}
 {694}{}{Francis}
 {695}{}{Frank}
@@ -608,7 +608,7 @@
 {708}{}{Jacob}
 {709}{}{Chemie-Set}
 {710}{}{Prop}
-{711}{}{Tür}
+{711}{}{TÃ¼r}
 {712}{}{Computer}
 {713}{}{Chad}
 {714}{}{Sporenpflanze}
@@ -617,14 +617,14 @@
 {717}{}{}
 {718}{}{Krieger}
 {719}{}{Kannibale}
-{720}{}{Ausgestoßener}
+{720}{}{AusgestoÃŸener}
 {721}{}{Heilige Person}
 {722}{}{Nomade}
 {723}{}{Obdachloser}
 {724}{}{Bandit}
-{725}{}{Räuber}
-{726}{}{Straßenräuber}
-{727}{}{Sklavenhändler}
+{725}{}{RÃ¤uber}
+{726}{}{StraÃŸenrÃ¤uber}
+{727}{}{SklavenhÃ¤ndler}
 {728}{}{Sklave}
 {729}{}{Party-Animal}
 {730}{}{Gottesanbeterin}
@@ -638,8 +638,8 @@
 {738}{}{Kraftfeld}
 {739}{}{Bauer}
 {740}{}{Emitter}
-{741}{}{Vaulttür}
-{742}{}{Sicherheitstür}
+{741}{}{VaulttÃ¼r}
+{742}{}{SicherheitstÃ¼r}
 {743}{}{Begegnung mit Bess}
 {744}{}{Bess}
 {745}{}{Brahmin}
@@ -654,27 +654,27 @@
 {754}{}{Gruft}
 {755}{}{Destillator}
 {756}{}{Ramirez}
-{757}{}{Zufallsbegegnungskarte Höhle 1}
+{757}{}{Zufallsbegegnungskarte HÃ¶hle 1}
 {758}{}{Kiste}
-{759}{}{Tür}
-{760}{}{Zufallsbegegnungskarte Höhle 2}
-{761}{}{Zufallsbegegnungskarte Höhle 3}
-{762}{}{Zufallsbegegnungskarte Höhle 4}
-{763}{}{Zufallsbegegnungskarte Höhle 2}
-{764}{}{Tür}
+{759}{}{TÃ¼r}
+{760}{}{Zufallsbegegnungskarte HÃ¶hle 2}
+{761}{}{Zufallsbegegnungskarte HÃ¶hle 3}
+{762}{}{Zufallsbegegnungskarte HÃ¶hle 4}
+{763}{}{Zufallsbegegnungskarte HÃ¶hle 2}
+{764}{}{TÃ¼r}
 {765}{}{Map Script}
-{766}{}{Falltür}
+{766}{}{FalltÃ¼r}
 {767}{}{Kassette}
 {768}{}{Zimmer}
 {769}{}{Thomas Moore}
-{770}{}{Tür}
+{770}{}{TÃ¼r}
 {771}{}{Spind}
 {772}{}{Schacht}
 {773}{}{Gruft}
 {774}{}{Versorgungswache}
 {775}{}{Map Script}
 {776}{}{Map Script}
-{777}{}{Tollwütiges Brahmin}
+{777}{}{TollwÃ¼tiges Brahmin}
 {778}{}{Hakeswill}
 {779}{}{Stadtmitte Redding}
 {780}{}{Map Script}
@@ -701,14 +701,14 @@
 {801}{}{John}
 {802}{}{Joshua}
 {803}{}{Leiter}
-{804}{}{Großkopf}
+{804}{}{GroÃŸkopf}
 {805}{}{Schwarzer Held}
 {806}{}{Rote Heldin}
 {807}{}{Set}
 {808}{}{Tandi}
-{809}{}{Weißer Held}
-{810}{}{Weißer Held}
-{811}{}{Weiße Heldin}
+{809}{}{WeiÃŸer Held}
+{810}{}{WeiÃŸer Held}
+{811}{}{WeiÃŸe Heldin}
 {812}{}{Kiste}
 {813}{}{Kiste}
 {814}{}{Kiste}
@@ -716,21 +716,21 @@
 {816}{}{Vorpal-Ratte}
 {817}{}{Hund}
 {818}{}{Ausbildungsfeldwebel}
-{819}{}{Wächter}
+{819}{}{WÃ¤chter}
 {820}{}{Facharbeiter}
 {821}{}{Kommandant}
 {822}{}{Chris}
 {823}{}{Quartiermeister}
-{824}{}{Wächter}
+{824}{}{WÃ¤chter}
 {825}{}{Gruft}
 {826}{}{Auto}
 {827}{}{Auto}
 {828}{}{Gruft}
 {829}{}{Gestalt in Robe}
-{830}{}{Viehkäufer}
+{830}{}{ViehkÃ¤ufer}
 {831}{}{Map Script}
-{832}{}{Mysteriöser Fremder}
-{833}{}{Tollwütiges Brahmin}
+{832}{}{MysteriÃ¶ser Fremder}
+{833}{}{TollwÃ¼tiges Brahmin}
 {834}{}{Yakuza-Mitglied}
 {835}{}{Verirrter}
 {836}{}{Hund}
@@ -738,16 +738,16 @@
 {838}{}{Patrouillenmitglied}
 {839}{}{Reisender}
 {840}{}{Rauch}
-{841}{}{Händler}
+{841}{}{HÃ¤ndler}
 {842}{}{Leichenfledderer}
-{843}{}{Händler}
+{843}{}{HÃ¤ndler}
 {844}{}{Bauer}
 {845}{}{Arroyo-Tempel}
 {846}{}{Dockarbeiter}
 {847}{}{Bauer}
 {848}{}{Shi-Wache}
 {849}{}{Krieger}
-{850}{}{Tür}
+{850}{}{TÃ¼r}
 {851}{}{Klint}
 {852}{}{Ernte}
 {853}{}{Shi-Laborassistent}
@@ -762,13 +762,13 @@
 {862}{}{}
 {863}{}{Goldsucher}
 {864}{}{Gangmitglied}
-{865}{}{Nomadenhäuptling}
+{865}{}{NomadenhÃ¤uptling}
 {866}{}{Hubologe}
 {867}{}{Irrer}
 {868}{}{Landbesetzer}
 {869}{}{Kannibale}
 {870}{}{Nomaden-Schamane}
-{871}{}{Plünderer}
+{871}{}{PlÃ¼nderer}
 {872}{}{Schurke}
 {873}{}{Einsiedler}
 {874}{}{}
@@ -792,28 +792,28 @@
 {892}{}{}
 {893}{}{}
 {894}{}{Enklaven-Patrouille}
-{895}{}{Hauptmann der Söldner}
-{896}{}{Söldnergangster}
+{895}{}{Hauptmann der SÃ¶ldner}
+{896}{}{SÃ¶ldnergangster}
 {897}{}{"Laufender Schatten"}
 {898}{}{Safe}
 {899}{}{}
 {900}{}{}
 {901}{}{}
 {902}{}{Kiste}
-{903}{}{Präsident Richardson}
+{903}{}{PrÃ¤sident Richardson}
 {904}{}{Haubitze}
-{905}{}{Tür}
+{905}{}{TÃ¼r}
 {906}{}{Deathclawsbaby}
-{907}{}{Der Gefährliche Dan}
+{907}{}{Der GefÃ¤hrliche Dan}
 {908}{}{Doktor Johnson}
 {909}{}{Sheriff Marion}
-{910}{}{Bürgermeister Ascorti}
+{910}{}{BÃ¼rgermeister Ascorti}
 {911}{}{Nording}
 {912}{}{Velani}
 {913}{}{Ferndown}
 {914}{}{Der Drache}
 {915}{}{Stalljunge}
-{916}{}{Händler}
+{916}{}{HÃ¤ndler}
 {917}{}{Stadtbewohner}
 {918}{}{Olm}
 {919}{}{Olm}
@@ -823,8 +823,8 @@
 {923}{}{Caminetto}
 {924}{}{Bette}
 {925}{}{Mai Da Chiang}
-{926}{}{Tür}
-{927}{}{Tür}
+{926}{}{TÃ¼r}
+{927}{}{TÃ¼r}
 {928}{}{Emitter}
 {929}{}{Rattengott}
 {930}{}{}
@@ -833,42 +833,42 @@
 {933}{}{Kaga}
 {934}{}{Kaga}
 {935}{}{Kaga}
-{936}{}{Kopfgeldjäger}
+{936}{}{KopfgeldjÃ¤ger}
 {937}{}{Computer}
 {938}{}{Computer}
 {939}{}{Computer}
 {940}{}{Darrow}
 {941}{}{Farrell}
 {942}{}{Kneipengast}
-{943}{}{Bürger von Vault City}
+{943}{}{BÃ¼rger von Vault City}
 {944}{}{Diener von Vault City}
 {945}{}{Ventilationsschacht}
 {946}{}{Charlie}
-{947}{}{Konsole für Kühlflüssigkeit}
+{947}{}{Konsole fÃ¼r KÃ¼hlflÃ¼ssigkeit}
 {948}{}{Poo}
 {949}{}{Grant}
 {950}{}{Emitter}
 {951}{}{Emitter}
 {952}{}{Computerterminal}
 {953}{}{Kaisercomputer Version 8.8}
-{954}{}{Vizepräsident Bird}
+{954}{}{VizeprÃ¤sident Bird}
 {955}{}{Martin}
 {956}{}{Ken Lee}
 {957}{}{Sgt. Granite}
 {958}{}{Frank Horrigan}
 {959}{}{Map Script}
 {960}{}{Map Script}
-{961}{}{Tür}
-{962}{}{Tür}
-{963}{}{Tür}
+{961}{}{TÃ¼r}
+{962}{}{TÃ¼r}
+{963}{}{TÃ¼r}
 {964}{}{Seil}
 {965}{}{Emitter}
 {966}{}{Dr. Curling}
 {967}{}{Schwarzes Brett}
 {968}{}{Maulwurfsratte}
-{969}{}{Sekretärin des Präsidenten}
+{969}{}{SekretÃ¤rin des PrÃ¤sidenten}
 {970}{}{Tom Murray}
-{971}{}{Robuste  Tür}
+{971}{}{Robuste  TÃ¼r}
 {972}{}{Stadtbewohner}
 {973}{}{Gemeindebereich von Vault City}
 {974}{}{Luftreiniger}
@@ -877,24 +877,24 @@
 {977}{}{Raum-Skript}
 {978}{}{SCCheat}
 {979}{}{Gefangener}
-{980}{}{Bürger}
-{981}{}{Wächter}
+{980}{}{BÃ¼rger}
+{981}{}{WÃ¤chter}
 {982}{}{Wissenschaftler}
 {983}{}{Terminal}
 {984}{}{}
 {985}{}{}
 {986}{}{Emitter}
-{987}{}{Gesprengte Tür}
-{988}{}{Gesprengte Tür}
+{987}{}{Gesprengte TÃ¼r}
+{988}{}{Gesprengte TÃ¼r}
 {989}{}{Darrows Herde}
-{990}{}{Tür}
+{990}{}{TÃ¼r}
 {991}{}{Superduper-Mutant}
 {992}{}{Dr. Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Melchior Junior}
 {995}{}{Netzhautscanner}
-{996}{}{Aufzugstür}
-{997}{}{Kybernetischer Behälter}
+{996}{}{AufzugstÃ¼r}
+{997}{}{Kybernetischer BehÃ¤lter}
 {998}{}{Wand}
 {999}{}{Map Script}
 {1000}{}{Farrells Herde}
@@ -905,20 +905,20 @@
 {1005}{}{Tubbys Freund}
 {1006}{}{Spieler}
 {1007}{}{Sklave}
-{1008}{}{Wächter}
-{1009}{}{Sklavenhändler}
+{1008}{}{WÃ¤chter}
+{1009}{}{SklavenhÃ¤ndler}
 {1010}{}{Lara}
 {1011}{}{Tyler}
 {1012}{}{Marc}
 {1013}{}{Schwarzes Brett}
-{1014}{}{Sklavenhändler}
-{1015}{}{Sklavenhändler}
+{1014}{}{SklavenhÃ¤ndler}
+{1015}{}{SklavenhÃ¤ndler}
 {1016}{}{Fred}
 {1017}{}{Kiste}
 {1018}{}{Kiste}
 {1019}{}{Kiste}
 {1020}{}{Kofferraum}
-{1021}{}{Sicherheitstür}
+{1021}{}{SicherheitstÃ¼r}
 {1022}{}{Computerterminal}
 {1023}{}{Computerterminal}
 {1024}{}{Computerterminal}
@@ -931,7 +931,7 @@
 {1031}{}{Kiste}
 {1032}{}{Sklave}
 {1033}{}{Sklave}
-{1034}{}{Sklavenhändler}
+{1034}{}{SklavenhÃ¤ndler}
 {1035}{}{Chip}
 {1036}{}{Reaktor}
 {1037}{}{Reaktorcomputer}
@@ -940,18 +940,18 @@
 {1040}{}{Wanamingo}
 {1041}{}{Kneipengast}
 {1042}{}{Kneipengast}
-{1043}{}{Gefängnistür}
+{1043}{}{GefÃ¤ngnistÃ¼r}
 {1044}{}{Susi}
 {1045}{}{Hauptmann Ron Meyers}
-{1046}{}{Pferchtür}
+{1046}{}{PferchtÃ¼r}
 {1047}{}{Wanamingo-Mine}
 {1048}{}{Eingang zur Wanamingo-Mine}
-{1049}{}{Nachtwächter Morton}
+{1049}{}{NachtwÃ¤chter Morton}
 {1050}{}{Dave H.}
-{1051}{}{Tür}
-{1052}{}{Tür}
+{1051}{}{TÃ¼r}
+{1052}{}{TÃ¼r}
 {1053}{}{Kotz-Charlie}
-{1054}{}{Gemälde}
+{1054}{}{GemÃ¤lde}
 {1055}{}{Map Script}
 {1056}{}{Barkeeper}
 {1057}{}{Kiste}
@@ -977,16 +977,16 @@
 {1077}{}{Marc}
 {1078}{}{Computer}
 {1079}{}{AHS-9}
-{1080}{}{Wächter}
+{1080}{}{WÃ¤chter}
 {1081}{}{Steinhaufen}
-{1082}{}{Tür}
-{1083}{}{Wächter}
-{1084}{}{Wächter}
-{1085}{}{Tür}
+{1082}{}{TÃ¼r}
+{1083}{}{WÃ¤chter}
+{1084}{}{WÃ¤chter}
+{1085}{}{TÃ¼r}
 {1086}{}{Steckbrief}
 {1087}{}{Dr. Wong}
 {1088}{}{Tisch}
-{1089}{}{Tür}
+{1089}{}{TÃ¼r}
 {1090}{}{Penner}
 {1091}{}{Penner}
 {1092}{}{Ryan}
@@ -996,7 +996,7 @@
 {1096}{}{Map Script}
 {1097}{}{Leiter}
 {1098}{}{Sandsack}
-{1099}{}{Tür}
+{1099}{}{TÃ¼r}
 {1100}{}{Alarm}
 {1101}{}{Bodenplatte}
 {1102}{}{Bodenplatte}
@@ -1020,7 +1020,7 @@
 {1120}{}{Kraftfeld}
 {1121}{}{Hubologe}
 {1122}{}{Computer}
-{1123}{}{Vaulttür}
+{1123}{}{VaulttÃ¼r}
 {1124}{}{Tor}
 {1125}{}{Kiste}
 {1126}{}{Morton-Bruder}
@@ -1039,36 +1039,36 @@
 {1139}{}{Mr. Handy}
 {1140}{}{Salvatore-Wache}
 {1141}{}{Weltraum-Skript}
-{1142}{}{Tür}
-{1143}{}{Tür}
-{1144}{}{Tür}
+{1142}{}{TÃ¼r}
+{1143}{}{TÃ¼r}
+{1144}{}{TÃ¼r}
 {1145}{}{}
 {1146}{}{Map Script}
 {1147}{}{Sklave}
-{1148}{}{Bürger von Vault City}
-{1149}{}{Tür}
+{1148}{}{BÃ¼rger von Vault City}
+{1149}{}{TÃ¼r}
 {1150}{}{Boxer}
-{1151}{}{Vaulttür}
+{1151}{}{VaulttÃ¼r}
 {1152}{}{Xarn}
 {1153}{}{Raul}
 {1154}{}{Quincy}
 {1155}{}{Quartiermeister}
-{1156}{}{Wächter}
+{1156}{}{WÃ¤chter}
 {1157}{}{K-9}
 {1158}{}{Doctor Schreber}
 {1159}{}{Facharbeiter}
 {1160}{}{Facharbeiter}
-{1161}{}{Wächter}
-{1162}{}{Wächter}
-{1163}{}{Wächter}
-{1164}{}{Wächter}
+{1161}{}{WÃ¤chter}
+{1162}{}{WÃ¤chter}
+{1163}{}{WÃ¤chter}
+{1164}{}{WÃ¤chter}
 {1165}{}{Facharbeiter}
 {1166}{}{Facharbeiter}
 {1167}{}{Facharbeiter}
 {1168}{}{Facharbeiter}
 {1169}{}{Einsturz}
 {1170}{}{Enklaven-Patrouille}
-{1171}{}{Gesprengte Tür}
+{1171}{}{Gesprengte TÃ¼r}
 {1172}{}{Map Script}
 {1173}{}{Map Script}
 {1174}{}{Map Script}
@@ -1076,17 +1076,17 @@
 {1176}{}{Map Script}
 {1177}{}{Map Script}
 {1178}{}{Sicherheitsroboter}
-{1179}{}{Sammelbüchse}
+{1179}{}{SammelbÃ¼chse}
 {1180}{}{Leiche}
 {1181}{}{Kiste}
 {1182}{}{Kiste}
 {1183}{}{Kiste}
 {1184}{}{Karawanenwache}
 {1185}{}{Karawanentreiber}
-{1186}{}{Ring-Ankündiger}
+{1186}{}{Ring-AnkÃ¼ndiger}
 {1187}{}{Ring-Pausengirl}
 {1188}{}{Boxer}
-{1189}{}{Tür}
+{1189}{}{TÃ¼r}
 {1190}{}{Mogelfigur}
 {1191}{}{Holo-Disk}
 {1192}{}{Holo-Disk}
@@ -1108,22 +1108,22 @@
 {1208}{}{Emitter}
 {1209}{}{Emitter}
 {1210}{}{Emitter}
-{1211}{}{Fallout 2 Lösungsbuch}
+{1211}{}{Fallout 2 LÃ¶sungsbuch}
 {1212}{}{}
 {1213}{}{}
-{1214}{}{Wächter}
+{1214}{}{WÃ¤chter}
 {1215}{}{Goldsucher}
 {1216}{}{Schmuggler}
 {1217}{}{}
 {1218}{}{Dan}
-{1219}{}{Schlechter Komödiant}
-{1220}{}{Superschlechter Sänger}
+{1219}{}{Schlechter KomÃ¶diant}
+{1220}{}{Superschlechter SÃ¤nger}
 {1221}{}{Map Script}
 {1222}{}{}
 {1223}{}{Gruft}
 {1224}{}{Sarg-Willie}
-{1225}{}{Schlüsselloses Terminal}
-{1226}{}{Schlüssellose Eingangstür}
+{1225}{}{SchlÃ¼sselloses Terminal}
+{1226}{}{SchlÃ¼ssellose EingangstÃ¼r}
 {1227}{}{Computer}
 {1228}{}{Kohl}
 {1229}{}{Kind}
@@ -1134,7 +1134,7 @@
 {1234}{}{Konsole}
 {1235}{}{Riesenameise}
 {1236}{}{Riesenameise}
-{1237}{}{Tür}
+{1237}{}{TÃ¼r}
 {1238}{}{}
 {1239}{}{Kiste}
 {1240}{}{Eric}
@@ -1145,31 +1145,31 @@
 {1245}{}{}
 {1246}{}{Map Script}
 {1247}{}{Dermaler PIPBoy}
-{1248}{}{Köter}
+{1248}{}{KÃ¶ter}
 {1249}{}{Rattenplatte}
 {1250}{}{Ehepartner}
 {1251}{}{LoPan-Wache}
 {1252}{}{Map Script}
-{1253}{}{Tür}
+{1253}{}{TÃ¼r}
 {1254}{}{Kybernetischer Hund}
 {1255}{}{Luke}
 {1256}{}{Joshua}
 {1257}{}{Tor}
 {1258}{}{Matt}
-{1259}{}{Tür}
-{1260}{}{Wächter}
-{1261}{}{Tür}
+{1259}{}{TÃ¼r}
+{1260}{}{WÃ¤chter}
+{1261}{}{TÃ¼r}
 {1262}{}{Computer}
 {1263}{}{Terminal}
 {1264}{}{Turm}
 {1265}{}{Chuck Stodgers}
 {1266}{}{}
 {1267}{}{Terminal}
-{1268}{}{Gang-Schläger}
-{1269}{}{Betrüger}
+{1268}{}{Gang-SchlÃ¤ger}
+{1269}{}{BetrÃ¼ger}
 {1270}{}{}
 {1271}{}{Bauer}
-{1272}{}{Die Lavendelblüte}
+{1272}{}{Die LavendelblÃ¼te}
 {1273}{}{Radskorpion}
 {1274}{}{Professor}
 {1275}{}{Kiste}
@@ -1180,7 +1180,7 @@
 {1280}{}{}
 {1281}{}{}
 {1282}{}{}
-{1283}{}{Wächter}
+{1283}{}{WÃ¤chter}
 {1284}{}{}
 {1285}{}{}
 {1286}{}{Typhon}
@@ -1191,7 +1191,7 @@
 {1291}{}{Micky}
 {1292}{}{Turm}
 {1293}{}{Alter Ghul}
-{1294}{}{Häscher}
+{1294}{}{HÃ¤scher}
 {1295}{}{Elmo}
 {1296}{}{Toilette}
 {1297}{}{Kreuz}
@@ -1199,8 +1199,8 @@
 {1299}{}{Pflug}
 {1300}{}{Skorpion}
 {1301}{}{Generator}
-{1302}{}{Tür}
-{1303}{}{Tür}
+{1302}{}{TÃ¼r}
+{1303}{}{TÃ¼r}
 {1304}{}{Medizinischer PIPBoy}
 {1305}{}{Spind}
 {1306}{}{Spind}
@@ -1260,8 +1260,8 @@
 {1360}{}{Percy Crump}
 {1361}{}{Kiste}
 {1362}{}{Kiste}
-{1363}{}{Tür}
-{1364}{}{Der Große Ananias}
+{1363}{}{TÃ¼r}
+{1364}{}{Der GroÃŸe Ananias}
 {1365}{}{Map Script}
 {1366}{}{Ungewaschener Dorfbewohner}
 {1367}{}{Spammer}
@@ -1272,12 +1272,12 @@
 {1372}{}{Map Script}
 {1373}{}{Nuka-Cola-Automat}
 {1374}{}{Hafen}
-{1375}{}{Tür}
+{1375}{}{TÃ¼r}
 {1376}{}{Landmine}
 {1377}{}{Landmine}
 {1378}{}{Deine Ex}
 {1379}{}{Mel}
-{1380}{}{Lüftungsgitter}
+{1380}{}{LÃ¼ftungsgitter}
 {1381}{}{Kevin}
 {1382}{}{Alarm}
 {1383}{}{Spind}
@@ -1299,7 +1299,7 @@
 {1399}{}{}
 {1400}{}{Mine}
 {1401}{}{Spind}
-{1402}{}{Tür}
+{1402}{}{TÃ¼r}
 {1403}{}{}
 {1404}{}{}
 {1405}{}{}
@@ -1318,30 +1318,30 @@
 {1418}{}{Abbeys Doktor}
 {1419}{}{Bruder John}
 {1420}{}{Bruder Max}
-{1421}{}{Händler}
-{1422}{}{Händler}
-{1423}{}{Händler-Wache}
+{1421}{}{HÃ¤ndler}
+{1422}{}{HÃ¤ndler}
+{1423}{}{HÃ¤ndler-Wache}
 {1424}{}{Mrs. Peterson}
-{1425}{}{Bürger von Abbey}
+{1425}{}{BÃ¼rger von Abbey}
 {1426}{}{Mr. Peterson}
 {1427}{}{Wasserpumpe}
 {1428}{}{Bruder Samuel}
-{1429}{}{Bürger von Abbey}
+{1429}{}{BÃ¼rger von Abbey}
 {1430}{}{Bruder Thomas}
 {1431}{}{Tom}
 {1432}{}{Abbeys Computer}
 {1433}{}{Abbeys Abt}
-{1434}{}{Mönch aus Abbey}
-{1435}{}{Mönch aus Abbey}
-{1436}{}{Mönch aus Abbey}
-{1437}{}{Mönch aus Abbey}
+{1434}{}{MÃ¶nch aus Abbey}
+{1435}{}{MÃ¶nch aus Abbey}
+{1436}{}{MÃ¶nch aus Abbey}
+{1437}{}{MÃ¶nch aus Abbey}
 {1438}{}{Bruder Paul}
 {1439}{}{Wilder}
 {1440}{}{Bruder Matthew}
 {1441}{}{Map}
 {1442}{}{Maulwurfsratte}
 {1443}{}{Ann}
-{1444}{}{Anführer der Krieger}
+{1444}{}{AnfÃ¼hrer der Krieger}
 {1445}{}{Marli}
 {1446}{}{Dorfbewohner}
 {1447}{}{Schamane}
@@ -1356,18 +1356,18 @@
 {1456}{}{2. Karte vom Stamm - Gebiet 1}
 {1457}{}{2. Karte vom Stamm - Gebiet 2}
 {1458}{}{Gecko}
-{1459}{}{Höhlenwache}
-{1460}{}{toter Körper}
+{1459}{}{HÃ¶hlenwache}
+{1460}{}{toter KÃ¶rper}
 {1461}{}{Waldgebiet}
 {1462}{}{Don}
-{1463}{}{Sklavenhändler}
+{1463}{}{SklavenhÃ¤ndler}
 {1464}{}{map script}
 {1465}{}{Hund}
-{1466}{}{Sklavenhändler}
+{1466}{}{SklavenhÃ¤ndler}
 {1467}{}{Sklave}
-{1468}{}{Tür der Sklavenunterkunf}
+{1468}{}{TÃ¼r der Sklavenunterkunf}
 {1469}{}{Regal}
-{1470}{}{Tür}
+{1470}{}{TÃ¼r}
 {1471}{}{Little Bobby}
 {1472}{}{Little Bobbys Vater}
 {1473}{}{Hausbesetzer}
@@ -1383,13 +1383,13 @@
 {1483}{}{Hubologe}
 {1484}{}{Hubologen-Wache}
 {1485}{}{Hubologen-Wache}
-{1486}{}{Metalltür}
+{1486}{}{MetalltÃ¼r}
 {1487}{}{map script}
 {1488}{}{container script}
 {1489}{}{Brahmin}
-{1490}{}{Tür}
-{1491}{}{Brücke}
-{1492}{}{Stammeshäuptling}
+{1490}{}{TÃ¼r}
+{1491}{}{BrÃ¼cke}
+{1492}{}{StammeshÃ¤uptling}
 {1493}{}{Bellender Mann}
 {1494}{}{epax map script}
 {1495}{}{Hauptplatz der EPA}
@@ -1419,28 +1419,28 @@
 {1519}{}{Sprach-Computer}
 {1520}{}{Forschungs-Computer}
 {1521}{}{Elektrischer Stuhl-Computer}
-{1522}{}{Elektronische Tür}
+{1522}{}{Elektronische TÃ¼r}
 {1523}{}{Hologrammgenerator}
-{1524}{}{Sicherheitstür}
-{1525}{}{Aufzugstür}
-{1526}{}{Tür}
+{1524}{}{SicherheitstÃ¼r}
+{1525}{}{AufzugstÃ¼r}
+{1526}{}{TÃ¼r}
 {1527}{}{Verschiedene Chemikalien}
-{1528}{}{Dünge Erde}
-{1529}{}{Dünge Erde}
-{1530}{}{Kälteschlaf-Computer}
+{1528}{}{DÃ¼nge Erde}
+{1529}{}{DÃ¼nge Erde}
+{1530}{}{KÃ¤lteschlaf-Computer}
 {1531}{}{Beleuchtunggenerator}
 {1532}{}{Kraftfeld}
 {1533}{}{Pflanzenspray}
 {1534}{}{Magnetspulen-Computer}
 {1535}{}{Kraftfeld}
 {1536}{}{Projektionsmaschine}
-{1537}{}{Tür}
+{1537}{}{TÃ¼r}
 {1538}{}{Computer}
-{1539}{}{Tür}
+{1539}{}{TÃ¼r}
 {1540}{}{Computer}
 {1541}{}{Kraftfeld}
 {1542}{}{Dynamit}
-{1543}{}{Dynamit Auslöser}
+{1543}{}{Dynamit AuslÃ¶ser}
 {1544}{}{Krempel auf dem Tisch}
 {1545}{}{Spind}
 {1546}{}{Raum-Skript}
@@ -1451,7 +1451,7 @@
 {1551}{}{Raum-Skript}
 {1552}{}{Raum-Skript}
 {1553}{}{Raum-Skript}
-{1554}{}{Lüftungsgitter}
+{1554}{}{LÃ¼ftungsgitter}
 {1555}{}{Ventilator}
 {1556}{}{Ventilator}
 {1557}{}{Raum-Skript}
@@ -1478,7 +1478,7 @@
 {1578}{}{Object Name}
 {1579}{}{Karte}
 {1580}{}{NCR-Ranger}
-{1581}{}{Sklavenhändler}
+{1581}{}{SklavenhÃ¤ndler}
 {1582}{}{}
 {1583}{}{}
 {1584}{}{}
@@ -1486,7 +1486,7 @@
 {1586}{}{}
 {1587}{}{}
 {1588}{}{}
-{1589}{}{Tür}
+{1589}{}{TÃ¼r}
 {1590}{}{}
 {1591}{}{Thug}
 {1592}{}{Stolperdraht}
@@ -1503,25 +1503,25 @@
 {1603}{}{pinkeln}
 {1604}{}{Map Script}
 {1605}{}{Map Script}
-{1606}{}{Händler}
-{1607}{}{Händler-Wache}
-{1608}{}{Händler-Wache}
-{1609}{}{Händler Map}
+{1606}{}{HÃ¤ndler}
+{1607}{}{HÃ¤ndler-Wache}
+{1608}{}{HÃ¤ndler-Wache}
+{1609}{}{HÃ¤ndler Map}
 {1610}{}{Computer}
 {1611}{}{Computer}
 {1612}{}{Auto-Doc}
 {1613}{}{Bruder Jason}
 {1614}{}{Todd}
 {1615}{}{Robert Baron}
-{1616}{}{Wächter}
+{1616}{}{WÃ¤chter}
 {1617}{}{Kiste}
 {1618}{}{Ausgehungerter Mensch}
 {1619}{}{Map}
 {1620}{}{Kraftfeld-Panel}
 {1621}{}{Ventilator}
-{1622}{}{Wächter}
+{1622}{}{WÃ¤chter}
 {1623}{}{Motorboot}
-{1624}{}{Wächter}
+{1624}{}{WÃ¤chter}
 {1625}{}{Schrott}
 {1626}{}{Treppe}
 {1627}{}{Fahrstuhlschacht}
@@ -1535,14 +1535,14 @@
 {1635}{}{Raum}
 {1636}{}{Dockarbeiter}
 {1637}{}{map script}
-{1638}{}{Tür}
+{1638}{}{TÃ¼r}
 {1639}{}{Raum}
 {1640}{}{Energie-Konsole}
 {1641}{}{Torpedo-Konsole}
 {1642}{}{Zielsuch-Konsole}
 {1643}{}{Torpedobucht}
 {1644}{}{U-Boot-Luke}
-{1645}{}{Wächter}
+{1645}{}{WÃ¤chter}
 {1646}{}{Vertibird}
 {1647}{}{Raum}
 {1648}{}{Serum}
@@ -1550,9 +1550,9 @@
 {1650}{}{Dr. Sheng}
 {1651}{}{Pflanzenkreatur}
 {1652}{}{Dr. Shengs Versteck}
-{1653}{}{Tür}
-{1654}{}{Tür}
+{1653}{}{TÃ¼r}
+{1654}{}{TÃ¼r}
 {1655}{}{Raum}
 {1656}{}{Reparaturroboter}
 {1657}{}{Sicherheitsroboter}
-{1658}{}{Tür}
+{1658}{}{TÃ¼r}

@@ -1,15 +1,15 @@
-{100}{}{Du siehst eine schmuddelige, ungekämmte Person.}
+{100}{}{Du siehst eine schmuddelige, ungekÃ¤mmte Person.}
 {101}{}{Du siehst einen illegalen Siedler.}
-{102}{}{Du siehst eine schmuddelige, ungekämmte Person.}
+{102}{}{Du siehst eine schmuddelige, ungekÃ¤mmte Person.}
 {103}{}{Das ist einer der besten Wohnungen, die wir seit Jahren gehabt haben!}
 {104}{}{Hmm... Meeresluft!}
 {105}{}{Das ist ein Leben, was? Keine Chefs, keine Regierung, nur die frische Meeresluft.}
 {106}{}{Da hinten schwimmt ein Auto im Wasser. Zu schade, dass es verrostet ist.}
 {107}{}{Ich wette, die Kinder werden diesen Ort lieben.}
-{108}{}{Jeden Abend frische Meeresfrüchte! Sehr lecker, auch wenn sie zwei Köpfe haben.}
+{108}{}{Jeden Abend frische MeeresfrÃ¼chte! Sehr lecker, auch wenn sie zwei KÃ¶pfe haben.}
 {109}{}{Unsere Nachbarn sind definitiv "interessant."}
 {110}{}{Wir werden ganz bestimmt irgendwann weiterziehen.}
-{111}{}{Gefällt Dir unser Zuhause?}
+{111}{}{GefÃ¤llt Dir unser Zuhause?}
 {112}{}{Ich liebe das Leben am Strand.}
 {113}{}{Tu mir bitte nicht weh!}
 {114}{}{Nein! Tu mir nicht weh!}
@@ -17,6 +17,6 @@
 {116}{}{Stop! Tu uns nicht weh!}
 {117}{}{Ich tue alles!}
 {118}{}{Hilfe!}
-{119}{}{Oh Nein! Ein Unterdrücker!}
-{120}{}{Ach, wenn wir doch nur Wachen hätten!}
+{119}{}{Oh Nein! Ein UnterdrÃ¼cker!}
+{120}{}{Ach, wenn wir doch nur Wachen hÃ¤tten!}
 {121}{}{Ich bereue es nun, die Sicherheit der Zivilisation aufgegeben zu haben...}

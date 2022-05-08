@@ -1,40 +1,40 @@
-{100}{}{Pelo visto é um cão da raça collie.}
+{100}{}{Pelo visto Ã© um cÃ£o da raÃ§a collie.}
 {101}{}{Laddie.}
-{102}{}{Este cão realmente parece ser alerta e inteligente.}
-{103}{}{Você não tem dúvidas que este cão é mais inteligente que você.}
+{102}{}{Este cÃ£o realmente parece ser alerta e inteligente.}
+{103}{}{VocÃª nÃ£o tem dÃºvidas que este cÃ£o Ã© mais inteligente que vocÃª.}
 {150}{}{Woof!}
 {151}{}{Woof! Woof!}
 {152}{}{Au! Au! Au!}
-{153}{}{[Este cão parece estar muito agitado.]}
-{154}{}{Belo cãozinho.}
-{155}{}{Sabe onde Jonny está, menina?}
+{153}{}{[Este cÃ£o parece estar muito agitado.]}
+{154}{}{Belo cÃ£ozinho.}
+{155}{}{Sabe onde Jonny estÃ¡, menina?}
 {156}{}{Fique aqui, rapaz.}
 {157}{}{Vamos procurar Jonny.}
-{158}{}{Jonny caiu no poço, Laddie?}
-{159}{}{Qual é o problema? Está tentando me dizer alguma coisa?}
-{160}{}{Grrrr! [Laddie crava os dentes em você.]}
-{161}{}{[Hmm... Por alguma razão ela não gosta de você.]}
-{162}{}{Au! Au! Au! [Laddie pula em cima de você e começa a lamber seu rosto.]}
-{163}{}{[Que lindo cãozinho.]}
-{164}{}{Au? [Você quase consegue escutar o cão rindo de você.]}
-{165}{}{[Ninguém gosta de metidos a intelectual..]}
-{167}{}{Jonny está em algum lugar perto de Modoc?}
+{158}{}{Jonny caiu no poÃ§o, Laddie?}
+{159}{}{Qual Ã© o problema? EstÃ¡ tentando me dizer alguma coisa?}
+{160}{}{Grrrr! [Laddie crava os dentes em vocÃª.]}
+{161}{}{[Hmm... Por alguma razÃ£o ela nÃ£o gosta de vocÃª.]}
+{162}{}{Au! Au! Au! [Laddie pula em cima de vocÃª e comeÃ§a a lamber seu rosto.]}
+{163}{}{[Que lindo cÃ£ozinho.]}
+{164}{}{Au? [VocÃª quase consegue escutar o cÃ£o rindo de vocÃª.]}
+{165}{}{[NinguÃ©m gosta de metidos a intelectual..]}
+{167}{}{Jonny estÃ¡ em algum lugar perto de Modoc?}
 {168}{}{Jonny saiu de Modoc?}
-{169}{}{Jonny foi levado por alienígenas?}
-{170}{}{Não tenho tempo pra brincadeiras, Laddie; temos que achar Jonny. Vamos.}
+{169}{}{Jonny foi levado por alienÃ­genas?}
+{170}{}{NÃ£o tenho tempo pra brincadeiras, Laddie; temos que achar Jonny. Vamos.}
 {171}{}{Perto do matadouro?}
-{172}{}{Próximo ao curtume?}
+{172}{}{PrÃ³ximo ao curtume?}
 {173}{}{Perto do posto comercial?}
-{174}{}{Perto do poço?}
-{175}{}{Talvez em outro canto, então?}
-{177}{}{Perto da Pensão da Rose?}
+{174}{}{Perto do poÃ§o?}
+{175}{}{Talvez em outro canto, entÃ£o?}
+{177}{}{Perto da PensÃ£o da Rose?}
 {180}{}{Ele foi para o norte?}
 {181}{}{Para o sul?}
 {182}{}{Leste?}
 {183}{}{Oeste?}
 {186}{}{Au?}
-{187}{}{Está bem. Talvez em outro canto, então?}
-{190}{}{Ele estava brincando de caubói e índio quando sem querer caiu dentro do poço e você quer que eu pegue uma corda e desça pra buscar o Jonny. Tudo bem, vamos, Laddie. [Impressionante!]}
-{191}{}{Ele estava brincando de caubói e índio quando sem querer caiu dentro do poço e você quer que eu use minha corda e desça pra buscar o Jonny. Tudo bem, vamos, Laddie. [Impressionante!]}
-{195}{}{Está bem, vou pegar uma corda e descer o poço atrás do Jonny.}
-{196}{}{Está bem, posso usar minha corda e descer o poço atrás do Jonny.}
+{187}{}{EstÃ¡ bem. Talvez em outro canto, entÃ£o?}
+{190}{}{Ele estava brincando de caubÃ³i e Ã­ndio quando sem querer caiu dentro do poÃ§o e vocÃª quer que eu pegue uma corda e desÃ§a pra buscar o Jonny. Tudo bem, vamos, Laddie. [Impressionante!]}
+{191}{}{Ele estava brincando de caubÃ³i e Ã­ndio quando sem querer caiu dentro do poÃ§o e vocÃª quer que eu use minha corda e desÃ§a pra buscar o Jonny. Tudo bem, vamos, Laddie. [Impressionante!]}
+{195}{}{EstÃ¡ bem, vou pegar uma corda e descer o poÃ§o atrÃ¡s do Jonny.}
+{196}{}{EstÃ¡ bem, posso usar minha corda e descer o poÃ§o atrÃ¡s do Jonny.}

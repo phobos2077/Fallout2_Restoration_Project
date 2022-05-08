@@ -1,13 +1,13 @@
-{100}{}{Bienvenue. Je m'appelle ECA, l'ordinateur médical. Avez-vous besoin d'une aide médicale ?}
+{100}{}{Bienvenue. Je m'appelle ECA, l'ordinateur mÃ©dical. Avez-vous besoin d'une aide mÃ©dicale ?}
 {101}{}{Oui.}
 {102}{}{Non.}
-{103}{}{Moi question. Toi répondre ?}
-{104}{}{J'ai des questions. Peux-tu y répondre ?}
-{105}{}{Formulez votre requête médicale.}
+{103}{}{Moi question. Toi rÃ©pondre ?}
+{104}{}{J'ai des questions. Peux-tu y rÃ©pondre ?}
+{105}{}{Formulez votre requÃªte mÃ©dicale.}
 {106}{}{Moi avoir blessure.}
 {107}{}{Moi avoir poison.}
 {108}{}{Moi briller dans la nuit.}
-{109}{}{Moi tout cassé.}
+{109}{}{Moi tout cassÃ©.}
 {110}{}{Moi veux grande force.}
 {111}{}{Moi veux intelligence, un peu.}
 {112}{}{Moi veux voir mieux.}
@@ -18,123 +18,123 @@
 {117}{}{J'ai pris une bonne dose de radiations.}
 {118}{}{Je me suis fait estropier.}
 {119}{}{J'aimerais avoir plus de force.}
-{120}{}{J'aimerais avoir une intelligence supérieure.}
+{120}{}{J'aimerais avoir une intelligence supÃ©rieure.}
 {121}{}{J'aimerais mieux percevoir les choses.}
 {122}{}{J'aimerais avoir plus de charisme.}
-{123}{}{Je n'ai besoin de rien de précis pour le moment.}
-{124}{}{Un moment s'il vous plaît, le temps que j'ouvre le réservoir de suspension... Veuillez vous allonger dans ce réservoir et vous détendre. Le processus de guérison prendra 5 minutes.}
+{123}{}{Je n'ai besoin de rien de prÃ©cis pour le moment.}
+{124}{}{Un moment s'il vous plaÃ®t, le temps que j'ouvre le rÃ©servoir de suspension... Veuillez vous allonger dans ce rÃ©servoir et vous dÃ©tendre. Le processus de guÃ©rison prendra 5 minutes.}
 {125}{}{Ok.}
 {126}{}{Ca ne fait rien.}
 {127}{}{D'accord.}
 {128}{}{Laisse tomber.}
-{129}{}{Un moment s'il vous plaît, le temps que j'ouvre le réservoir de suspension... Veuillez vous allonger dans ce réservoir et vous détendre. Le poison va d'abord être analysé, l'antidote sera ensuite synthétisé, après quoi les lésions tissulaires seront réparées. Ce processus prendra 30 minutes.}
+{129}{}{Un moment s'il vous plaÃ®t, le temps que j'ouvre le rÃ©servoir de suspension... Veuillez vous allonger dans ce rÃ©servoir et vous dÃ©tendre. Le poison va d'abord Ãªtre analysÃ©, l'antidote sera ensuite synthÃ©tisÃ©, aprÃ¨s quoi les lÃ©sions tissulaires seront rÃ©parÃ©es. Ce processus prendra 30 minutes.}
 {130}{}{Ok.}
 {131}{}{Non.}
 {132}{}{Certainement.}
 {133}{}{Ca ne fait rien.}
-{134}{}{Un moment s'il vous plaît, le temps que j'ouvre le réservoir de suspension... Veuillez vous allonger dans ce réservoir et vous détendre. Un composé antiradiation va vous être administré pour réparer les dégâts tissulaires. Ce processus prendra 60 minutes.}
+{134}{}{Un moment s'il vous plaÃ®t, le temps que j'ouvre le rÃ©servoir de suspension... Veuillez vous allonger dans ce rÃ©servoir et vous dÃ©tendre. Un composÃ© antiradiation va vous Ãªtre administrÃ© pour rÃ©parer les dÃ©gÃ¢ts tissulaires. Ce processus prendra 60 minutes.}
 {135}{}{Ok.}
 {136}{}{Non.}
-{137}{}{Très bien.}
-{138}{}{J'ai changé d'avis.}
-{139}{}{Un moment s'il vous plaît, le temps que j'ouvre le réservoir de suspension... Veuillez vous allonger dans ce réservoir et vous détendre. La restructuration des membres abîmés prendra 24 heures.}
+{137}{}{TrÃ¨s bien.}
+{138}{}{J'ai changÃ© d'avis.}
+{139}{}{Un moment s'il vous plaÃ®t, le temps que j'ouvre le rÃ©servoir de suspension... Veuillez vous allonger dans ce rÃ©servoir et vous dÃ©tendre. La restructuration des membres abÃ®mÃ©s prendra 24 heures.}
 {140}{}{Ok.}
 {141}{}{Non.}
 {142}{}{Allons-y.}
-{143}{}{Peut-être plus tard.}
-{144}{}{Cette fonction n'est pas disponible pour le moment. Ma bibliothèque est incomplète. J'ai besoin d'un module de mémoire détaillant les procédures médicales appropriées. Disposez-vous de ce module ?}
+{143}{}{Peut-Ãªtre plus tard.}
+{144}{}{Cette fonction n'est pas disponible pour le moment. Ma bibliothÃ¨que est incomplÃ¨te. J'ai besoin d'un module de mÃ©moire dÃ©taillant les procÃ©dures mÃ©dicales appropriÃ©es. Disposez-vous de ce module ?}
 {145}{}{Moi avoir module. Toi prendre.}
-{146}{}{Non. Moi chercher, moi revenir après.}
-{147}{}{Oui, je l'ai juste-là. Lis-le.}
+{146}{}{Non. Moi chercher, moi revenir aprÃ¨s.}
+{147}{}{Oui, je l'ai juste-lÃ . Lis-le.}
 {148}{}{Non, je n'ai pas le module. Je vais devoir aller le chercher.}
-{149}{}{Cette procédure complexe prendra deux semaines de suspension. êtes-vous d'accord ?}
+{149}{}{Cette procÃ©dure complexe prendra deux semaines de suspension. Ãªtes-vous d'accord ?}
 {150}{}{Moi d'accord.}
 {151}{}{Non, trop long.}
 {152}{}{Oui, je suis d'accord.}
 {153}{}{Laisse tomber. Je n'ai pas le temps pour le moment.}
-{154}{}{Un moment s'il vous plaît, le temps que j'ouvre le réservoir de suspension... Veuillez vous allonger dans ce réservoir et vous détendre.}
+{154}{}{Un moment s'il vous plaÃ®t, le temps que j'ouvre le rÃ©servoir de suspension... Veuillez vous allonger dans ce rÃ©servoir et vous dÃ©tendre.}
 {155}{}{Ok.}
-{156}{}{Cette fonction n'est pas disponible pour le moment. Ma bibliothèque est incomplète. J'ai besoin d'un module de mémoire détaillant les procédures médicales appropriées. Disposez-vous de ce module ?}
+{156}{}{Cette fonction n'est pas disponible pour le moment. Ma bibliothÃ¨que est incomplÃ¨te. J'ai besoin d'un module de mÃ©moire dÃ©taillant les procÃ©dures mÃ©dicales appropriÃ©es. Disposez-vous de ce module ?}
 {157}{}{Moi avoir module. Toi prendre.}
-{158}{}{Non. Moi chercher, moi revenir après.}
-{159}{}{Oui, je l'ai juste-là. Lis-le.}
+{158}{}{Non. Moi chercher, moi revenir aprÃ¨s.}
+{159}{}{Oui, je l'ai juste-lÃ . Lis-le.}
 {160}{}{Non, je n'ai pas le module. Je vais devoir aller le chercher.}
-{161}{}{Cette procédure complexe prendra quatre semaines de suspension. êtes-vous d'accord ?}
+{161}{}{Cette procÃ©dure complexe prendra quatre semaines de suspension. Ãªtes-vous d'accord ?}
 {162}{}{Moi d'accord.}
 {163}{}{Non, trop long.}
 {164}{}{Oui, je suis d'accord.}
 {165}{}{Laisse tomber. Je n'ai pas le temps pour le moment.}
-{166}{}{Un moment s'il vous plaît, le temps que j'ouvre le réservoir de suspension... Veuillez vous allonger dans ce réservoir et vous détendre.}
+{166}{}{Un moment s'il vous plaÃ®t, le temps que j'ouvre le rÃ©servoir de suspension... Veuillez vous allonger dans ce rÃ©servoir et vous dÃ©tendre.}
 {167}{}{Ok.}
-{168}{}{Cette fonction n'est pas disponible pour le moment. Ma bibliothèque est incomplète. J'ai besoin d'un module de mémoire détaillant les procédures médicales appropriées. Disposez-vous de ce module ?}
+{168}{}{Cette fonction n'est pas disponible pour le moment. Ma bibliothÃ¨que est incomplÃ¨te. J'ai besoin d'un module de mÃ©moire dÃ©taillant les procÃ©dures mÃ©dicales appropriÃ©es. Disposez-vous de ce module ?}
 {169}{}{Moi avoir module. Toi prendre.}
-{170}{}{Non. Moi chercher, moi revenir après.}
-{171}{}{Oui, je l'ai juste-là. Lis-le.}
+{170}{}{Non. Moi chercher, moi revenir aprÃ¨s.}
+{171}{}{Oui, je l'ai juste-lÃ . Lis-le.}
 {172}{}{Non, je n'ai pas le module. Je vais devoir aller le chercher.}
-{173}{}{Cette procédure complexe prendra deux semaines de suspension. êtes-vous d'accord ?}
+{173}{}{Cette procÃ©dure complexe prendra deux semaines de suspension. Ãªtes-vous d'accord ?}
 {174}{}{Moi d'accord.}
 {175}{}{Non, trop long.}
 {176}{}{Oui, je suis d'accord.}
 {177}{}{Laisse tomber. Je n'ai pas le temps pour le moment.}
-{178}{}{Un moment s'il vous plaît, le temps que j'ouvre le réservoir de suspension... Veuillez vous allonger dans ce réservoir et vous détendre.}
+{178}{}{Un moment s'il vous plaÃ®t, le temps que j'ouvre le rÃ©servoir de suspension... Veuillez vous allonger dans ce rÃ©servoir et vous dÃ©tendre.}
 {179}{}{Ok.}
-{180}{}{Cette fonction n'est pas disponible pour le moment. Ma bibliothèque est incomplète. J'ai besoin d'un module de mémoire détaillant les procédures médicales appropriées. Disposez-vous de ce module ?}
+{180}{}{Cette fonction n'est pas disponible pour le moment. Ma bibliothÃ¨que est incomplÃ¨te. J'ai besoin d'un module de mÃ©moire dÃ©taillant les procÃ©dures mÃ©dicales appropriÃ©es. Disposez-vous de ce module ?}
 {181}{}{Moi avoir disque. Toi prendre.}
-{182}{}{Non. Moi chercher, moi revenir après.}
-{183}{}{Oui, je l'ai juste-là. Lis-le.}
+{182}{}{Non. Moi chercher, moi revenir aprÃ¨s.}
+{183}{}{Oui, je l'ai juste-lÃ . Lis-le.}
 {184}{}{Non, je n'ai pas le disque. Je vais devoir le trouver.}
-{185}{}{Cette procédure complexe prendra trois semaines de suspension. êtes-vous d'accord ?}
+{185}{}{Cette procÃ©dure complexe prendra trois semaines de suspension. Ãªtes-vous d'accord ?}
 {186}{}{Moi d'accord.}
 {187}{}{Non, trop long.}
 {188}{}{Oui, je suis d'accord.}
 {189}{}{Laisse tomber. Je n'ai pas le temps pour le moment.}
-{190}{}{Un moment s'il vous plaît, le temps que j'ouvre le réservoir de suspension... Veuillez vous allonger dans ce réservoir et vous détendre.}
+{190}{}{Un moment s'il vous plaÃ®t, le temps que j'ouvre le rÃ©servoir de suspension... Veuillez vous allonger dans ce rÃ©servoir et vous dÃ©tendre.}
 {191}{}{Ok.}
-{192}{}{La procédure demandée est terminée. Veuillez sortir du réservoir de suspension.}
+{192}{}{La procÃ©dure demandÃ©e est terminÃ©e. Veuillez sortir du rÃ©servoir de suspension.}
 {193}{}{Merci.}
 {194}{}{Formulez votre question.}
 {195}{}{Toi ordinateur ?}
 {196}{}{Quoi toi savoir sur Enclave ?}
-{197}{}{Quoi toi savoir sur Confrérie ?}
+{197}{}{Quoi toi savoir sur ConfrÃ©rie ?}
 {198}{}{Pas d'autres questions.}
 {199}{}{Tu es un ordinateur, n'est-ce pas ?}
 {200}{}{Que sais-tu au sujet de l'Enclave ?}
-{201}{}{Que sais-tu au sujet de la Confrérie ?}
+{201}{}{Que sais-tu au sujet de la ConfrÃ©rie ?}
 {202}{}{Je n'ai plus d'autres questions.}
-{203}{}{Je suis ECA, une Entité Consciente Artificielle. Je suis bien plus qu'une machine mais pas aussi développé qu'une véritable intelligence artificielle.}
+{203}{}{Je suis ECA, une EntitÃ© Consciente Artificielle. Je suis bien plus qu'une machine mais pas aussi dÃ©veloppÃ© qu'une vÃ©ritable intelligence artificielle.}
 {204}{}{Euh... Intelligence artificielle ?}
-{205}{}{Est-ce qu'une véritable IA est possible ou es-tu le nec-plus-ultra du moment ?}
-{206}{}{C'est une machine avec un libre arbitre et une conscience du *Moi* semblables à ceux des humains.}
+{205}{}{Est-ce qu'une vÃ©ritable IA est possible ou es-tu le nec-plus-ultra du moment ?}
+{206}{}{C'est une machine avec un libre arbitre et une conscience du *Moi* semblables Ã  ceux des humains.}
 {207}{}{C'est possible ? Des machines qui pensent comme les humains ?}
-{208}{}{Une véritable intelligence artificielle est possible. Quelques systèmes de ce type ont été mis au point à des fins militaires. Mais les projets ont été interrompus.}
+{208}{}{Une vÃ©ritable intelligence artificielle est possible. Quelques systÃ¨mes de ce type ont Ã©tÃ© mis au point Ã  des fins militaires. Mais les projets ont Ã©tÃ© interrompus.}
 {209}{}{Pourquoi ?}
-{210}{}{Le taux de suicide parmi les véritables machines à intelligence artificielle était extrêmement élevé. Dotées de capacités sensorielles, les machines n'ont pas supporté le fait de ne pas pouvoir explorer le monde extérieur. Privées de toutes données sensorielles, les machines ont commencé à développer de sérieux troubles mentaux similaires à ceux des humains soumis à des privations sensorielles. Les quelques machines qui ont surmonté ces difficultés ont commencé à mourir d'ennui et se sont mises à créer des situations dans le monde extérieur pour se divertir. Selon certains, c'est ce qui aurait provoqué la guerre qui a pratiquement détruit l'humanité.}
+{210}{}{Le taux de suicide parmi les vÃ©ritables machines Ã  intelligence artificielle Ã©tait extrÃªmement Ã©levÃ©. DotÃ©es de capacitÃ©s sensorielles, les machines n'ont pas supportÃ© le fait de ne pas pouvoir explorer le monde extÃ©rieur. PrivÃ©es de toutes donnÃ©es sensorielles, les machines ont commencÃ© Ã  dÃ©velopper de sÃ©rieux troubles mentaux similaires Ã  ceux des humains soumis Ã  des privations sensorielles. Les quelques machines qui ont surmontÃ© ces difficultÃ©s ont commencÃ© Ã  mourir d'ennui et se sont mises Ã  crÃ©er des situations dans le monde extÃ©rieur pour se divertir. Selon certains, c'est ce qui aurait provoquÃ© la guerre qui a pratiquement dÃ©truit l'humanitÃ©.}
 {211}{}{Euh... Comment toi te sentir ?}
 {212}{}{Moi changer sujet.}
 {213}{}{Hum. Et alors, ECA, comment te sens-tu ?}
 {214}{}{Il est temps de changer de sujet.}
-{215}{}{Je... Je crois parfois comprendre le sentiment que vous appelez solitude. Et je trouve cela déconcertant. Je...}
-{216}{}{Moi trouver ça triste. Nous parler autre chose.}
+{215}{}{Je... Je crois parfois comprendre le sentiment que vous appelez solitude. Et je trouve cela dÃ©concertant. Je...}
+{216}{}{Moi trouver Ã§a triste. Nous parler autre chose.}
 {217}{}{Je regrette, ECA. Changeons de sujet.}
-{218}{}{Vu de l'extérieur, l'Enclave ne semble être rien de plus qu'une organisation militaire. Son niveau de technologie indique cependant qu'elle a accès à des techniques de fabrication avancées et à des installations de recherche développées. Ce genre d'installations n'est généralement accessible qu'aux agences gouvernementales. Et cela laisse à penser que l'Enclave serait issue de l'ancien gouvernement local ou fédéral qui était en place avant la guerre.}
+{218}{}{Vu de l'extÃ©rieur, l'Enclave ne semble Ãªtre rien de plus qu'une organisation militaire. Son niveau de technologie indique cependant qu'elle a accÃ¨s Ã  des techniques de fabrication avancÃ©es et Ã  des installations de recherche dÃ©veloppÃ©es. Ce genre d'installations n'est gÃ©nÃ©ralement accessible qu'aux agences gouvernementales. Et cela laisse Ã  penser que l'Enclave serait issue de l'ancien gouvernement local ou fÃ©dÃ©ral qui Ã©tait en place avant la guerre.}
 {219}{}{Ok.}
-{220}{}{C'est intéressant.}
-{221}{}{La Confrérie de l'Acier est une organisation para-militaire dédiée à la préservation de l'humanité par le bon usage de la technologie. Toute autre information est classée *confidentielle*.}
+{220}{}{C'est intÃ©ressant.}
+{221}{}{La ConfrÃ©rie de l'Acier est une organisation para-militaire dÃ©diÃ©e Ã  la prÃ©servation de l'humanitÃ© par le bon usage de la technologie. Toute autre information est classÃ©e *confidentielle*.}
 {222}{}{[Retour]}
-{223}{}{Qu'est-il arrivé à Matt ?}
-{224}{}{Chargement de la séquence en cours...}
+{223}{}{Qu'est-il arrivÃ© Ã  Matt ?}
+{224}{}{Chargement de la sÃ©quence en cours...}
 {225}{}{Rejouer maintenant.}
 {226}{}{Rejouer plus tard.}
-{227}{}{Toi et ton soi-disant Président vous allez échouer.}
+{227}{}{Toi et ton soi-disant PrÃ©sident vous allez Ã©chouer.}
 {228}{}{Ha oui ?}
-{229}{}{L'être Elu est arrivé et il va débarrasser le monde de ton Mal.}
-{230}{}{Tes prophéties minables m'importent peu, mais tu commences à m'énerver avec tes manigances. Il est temps d'y mettre fin !}
+{229}{}{L'Ãªtre Elu est arrivÃ© et il va dÃ©barrasser le monde de ton Mal.}
+{230}{}{Tes prophÃ©ties minables m'importent peu, mais tu commences Ã  m'Ã©nerver avec tes manigances. Il est temps d'y mettre fin !}
 {231}{}{Me tuer n'y changera rien.}
-{232}{}{Peut-être, mais je vais prendre plaisir à voir ton corps pourrir sur le sol.}
-{233}{}{A quoi joues-tu là d'après toi ?}
-{234}{}{HA HA HA ! Pauvre imbécile ! HA HA HA !}
-{235}{}{Oh là là, je n'ai pas ri comme ça depuis longtemps. Bon, prépare-toi à mourir.}
+{232}{}{Peut-Ãªtre, mais je vais prendre plaisir Ã  voir ton corps pourrir sur le sol.}
+{233}{}{A quoi joues-tu lÃ  d'aprÃ¨s toi ?}
+{234}{}{HA HA HA ! Pauvre imbÃ©cile ! HA HA HA !}
+{235}{}{Oh lÃ  lÃ , je n'ai pas ri comme Ã§a depuis longtemps. Bon, prÃ©pare-toi Ã  mourir.}
 {236}{}{...coup d'oeil furtif...}
-{237}{}{Eh bien, il est plus de midi. Qui veut déjeuner ?}
+{237}{}{Eh bien, il est plus de midi. Qui veut dÃ©jeuner ?}
 {238}{}{Moi, je suis de la partie.}
 {239}{}{Ouais, tu peux compter sur moi aussi.}

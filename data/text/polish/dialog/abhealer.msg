@@ -1,39 +1,39 @@
 {100}{}{Widzisz Jacka, medyka w Opactwie.}
-{101}{}{Ma czerwony krzy¿ na ramieniu.}
-{200}{}{Jeœli coœ ci dolega, porozmawiaj ze mn¹.}
-{300}{}{Jak mogê ci pomóc?}
-{301}{}{Coœ mnie boli, mo¿esz mi pomóc?}
-{302}{}{[Œlinisz siê.]}
-{303}{}{Wiêc, czym ty siê zajmujesz w Opactwie?}
+{101}{}{Ma czerwony krzyÅ¼ na ramieniu.}
+{200}{}{JeÅ›li coÅ› ci dolega, porozmawiaj ze mnÄ….}
+{300}{}{Jak mogÄ™ ci pomÃ³c?}
+{301}{}{CoÅ› mnie boli, moÅ¼esz mi pomÃ³c?}
+{302}{}{[Åšlinisz siÄ™.]}
+{303}{}{WiÄ™c, czym ty siÄ™ zajmujesz w Opactwie?}
 {304}{}{Bywaj.}
 {400}{}{Zrobione!}
-{401}{}{Dziêkujê.}
-{402}{}{Przestañ!}
+{401}{}{DziÄ™kujÄ™.}
+{402}{}{PrzestaÅ„!}
 {403}{}{[DALEJ]}
-{404}{}{[WYJD]}
-{405}{}{PRZESTAÑ! PRZESTAÑ! PRZESTAÑ!}
+{404}{}{[WYJDÅ¹]}
+{405}{}{PRZESTAÅƒ! PRZESTAÅƒ! PRZESTAÅƒ!}
 {406}{}{[DALEJ]}
-{407}{}{[PRZESTAÑ]}
-{408}{}{(Nagle, Jack zaczyna siê topiæ.) ROZTAPIAM SIÊ, ROZTAPIAM SIÊ, O OKRUTNY ŒWIECIE...}
+{407}{}{[PRZESTAÅƒ]}
+{408}{}{(Nagle, Jack zaczyna siÄ™ topiÄ‡.) ROZTAPIAM SIÄ˜, ROZTAPIAM SIÄ˜, O OKRUTNY ÅšWIECIE...}
 {409}{}{Co, do chol...}
-{500}{}{Hej, nie kradnij moich medycznych zapasów!}
-{501}{}{Dostajesz 200 punktów doœwiadczenia za sprawienie, ¿e Jack siê roztopi³. I coœ ty zrobi³? Jesteœ zadowolony, draniu!?}
-{600}{}{Jestem tutejszym doktorem. Jestem tu ju¿ od 15 lat.}
-{601}{}{Rozumiem. Mia³eœ wiele lat na studiowanie medycznych ksi¹¿ek w bibliotece Opactwa. Musisz byæ niez³ym lekarzem.}
-{602}{}{Sk¹d masz sprzêt medyczny?}
-{603}{}{Interesuj¹ce. Myœlê, ¿e muszê ju¿ iœæ.}
-{604}{}{[Zadr¿a³.] Tak, uwa¿am siê za niez³ego lekarza, ale nie zawdziêczam tego ksi¹¿kom do których nawet nie mam dostêpu... z reszt¹ niewa¿ne, nie chce mi siê o tym gadaæ. Mój ojciec by³ lekarzem i przekaza³ mi swoj¹ wiedzê.}
+{500}{}{Hej, nie kradnij moich medycznych zapasÃ³w!}
+{501}{}{Dostajesz 200 punktÃ³w doÅ›wiadczenia za sprawienie, Å¼e Jack siÄ™ roztopiÅ‚. I coÅ› ty zrobiÅ‚? JesteÅ› zadowolony, draniu!?}
+{600}{}{Jestem tutejszym doktorem. Jestem tu juÅ¼ od 15 lat.}
+{601}{}{Rozumiem. MiaÅ‚eÅ› wiele lat na studiowanie medycznych ksiÄ…Å¼ek w bibliotece Opactwa. Musisz byÄ‡ niezÅ‚ym lekarzem.}
+{602}{}{SkÄ…d masz sprzÄ™t medyczny?}
+{603}{}{InteresujÄ…ce. MyÅ›lÄ™, Å¼e muszÄ™ juÅ¼ iÅ›Ä‡.}
+{604}{}{[ZadrÅ¼aÅ‚.] Tak, uwaÅ¼am siÄ™ za niezÅ‚ego lekarza, ale nie zawdziÄ™czam tego ksiÄ…Å¼kom do ktÃ³rych nawet nie mam dostÄ™pu... z resztÄ… niewaÅ¼ne, nie chce mi siÄ™ o tym gadaÄ‡. MÃ³j ojciec byÅ‚ lekarzem i przekazaÅ‚ mi swojÄ… wiedzÄ™.}
 {605}{}{Aha, rozumiem.}
-{700}{}{Czêœæ dosta³em od mojego ojca. Reszta ju¿ by³a w Opactwie.}
-{701}{}{Interesuj¹ce, czeœæ.}
-{702}{}{Móg³byœ daæ mi czêœæ swoich medykamentów. Wygl¹da, ¿e masz ich spory zapas.}
-{703}{}{Mam ci je tak po prostu *daæ*? Dlaczego niby zas³ugujesz na nie bardziej ni¿ ludzie z Opactwa?}
-{704}{}{Bo na Pustkowiu czêsto do mnie strzelaj¹.}
-{705}{}{Jestem w trakcie mojej œwiêtej misji odnalezienia Generatora Cudownej Krainy. Widzisz moja wioska zginie, je¿eli nie znajdê go na czas. Z kolei ludzie z Opactwa wydaj¹ siê wieœæ tutaj spokojne ¿ycie i nie potrzebuj¹ tak wiele medycznej pomocy. Nie proszê o du¿o, nawet niewielka iloœæ by³aby dla mnie nieocenion¹ pomoc¹.}
-{706}{}{[Zastanawia siê chwile nad twoimi s³owami. Kiwa g³ow¹.] Masz racjê. Dam Ci czêœæ naszych medycznych zapasów. Wygl¹da na to, ¿e Ci siê przydadz¹. Proszê. [Podaje ci.] Powodzenia, wêdrowcze.}
-{707}{}{Dziêkujê, Jack. Jesteœ prawdziwym zbawc¹ pustkowi. Bywaj.}
-{708}{}{Wiêc musisz siê nauczyæ unikaæ k³opotów. Przepraszam, ale nie zamierzam tak po prostu rozdawaæ medycznych zapasów Opactwa.}
-{709}{}{Dobra. ¯EGNAM.}
-{800}{}{Nie mogê teraz rozmawiaæ.}
-{801}{}{Przepraszam, jestem teraz czymœ zajêty. OdwiedŸ mnie kiedy indziej.}
+{700}{}{CzÄ™Å›Ä‡ dostaÅ‚em od mojego ojca. Reszta juÅ¼ byÅ‚a w Opactwie.}
+{701}{}{InteresujÄ…ce, czeÅ›Ä‡.}
+{702}{}{MÃ³gÅ‚byÅ› daÄ‡ mi czÄ™Å›Ä‡ swoich medykamentÃ³w. WyglÄ…da, Å¼e masz ich spory zapas.}
+{703}{}{Mam ci je tak po prostu *daÄ‡*? Dlaczego niby zasÅ‚ugujesz na nie bardziej niÅ¼ ludzie z Opactwa?}
+{704}{}{Bo na Pustkowiu czÄ™sto do mnie strzelajÄ….}
+{705}{}{Jestem w trakcie mojej Å›wiÄ™tej misji odnalezienia Generatora Cudownej Krainy. Widzisz moja wioska zginie, jeÅ¼eli nie znajdÄ™ go na czas. Z kolei ludzie z Opactwa wydajÄ… siÄ™ wieÅ›Ä‡ tutaj spokojne Å¼ycie i nie potrzebujÄ… tak wiele medycznej pomocy. Nie proszÄ™ o duÅ¼o, nawet niewielka iloÅ›Ä‡ byÅ‚aby dla mnie nieocenionÄ… pomocÄ….}
+{706}{}{[Zastanawia siÄ™ chwile nad twoimi sÅ‚owami. Kiwa gÅ‚owÄ….] Masz racjÄ™. Dam Ci czÄ™Å›Ä‡ naszych medycznych zapasÃ³w. WyglÄ…da na to, Å¼e Ci siÄ™ przydadzÄ…. ProszÄ™. [Podaje ci.] Powodzenia, wÄ™drowcze.}
+{707}{}{DziÄ™kujÄ™, Jack. JesteÅ› prawdziwym zbawcÄ… pustkowi. Bywaj.}
+{708}{}{WiÄ™c musisz siÄ™ nauczyÄ‡ unikaÄ‡ kÅ‚opotÃ³w. Przepraszam, ale nie zamierzam tak po prostu rozdawaÄ‡ medycznych zapasÃ³w Opactwa.}
+{709}{}{Dobra. Å»EGNAM.}
+{800}{}{Nie mogÄ™ teraz rozmawiaÄ‡.}
+{801}{}{Przepraszam, jestem teraz czymÅ› zajÄ™ty. OdwiedÅº mnie kiedy indziej.}
 {802}{}{Witaj ponownie.}

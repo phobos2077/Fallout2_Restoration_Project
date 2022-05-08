@@ -1,71 +1,71 @@
-{100}{}{A falu egyik férfi lakóját látod.}
-{101}{}{A falu egyik n?i lakóját látod.}
+{100}{}{A falu egyik fÃ©rfi lakÃ³jÃ¡t lÃ¡tod.}
+{101}{}{A falu egyik n?i lakÃ³jÃ¡t lÃ¡tod.}
 {150}{}{A falu egyik tagja.}
-{151}{}{[Beszélgetés]}
-{152}{}{Üdvözöllek! Hallottam, te vagy a Kiválasztott. Így talán megmenekülhet a falu.}
-{153}{}{Meg tudnád mondani, hol találhatok még gyógyító port?}
-{154}{}{Mit tudnál mondani a velünk üzletel? keresked?kr?l?}
-{155}{}{Örülök, hogy láthatlak, de most mennem kell.}
-{156}{}{Talán az istenek majd megvédenek az utadon.}
-{157}{}{Lenne hozzád egy kérdésem.}
-{158}{}{Viszlát, barátom!}
+{151}{}{[BeszÃ©lgetÃ©s]}
+{152}{}{ÃœdvÃ¶zÃ¶llek! Hallottam, te vagy a KivÃ¡lasztott. Ãgy talÃ¡n megmenekÃ¼lhet a falu.}
+{153}{}{Meg tudnÃ¡d mondani, hol talÃ¡lhatok mÃ©g gyÃ³gyÃ­tÃ³ port?}
+{154}{}{Mit tudnÃ¡l mondani a velÃ¼nk Ã¼zletel? keresked?kr?l?}
+{155}{}{Ã–rÃ¼lÃ¶k, hogy lÃ¡thatlak, de most mennem kell.}
+{156}{}{TalÃ¡n az istenek majd megvÃ©denek az utadon.}
+{157}{}{Lenne hozzÃ¡d egy kÃ©rdÃ©sem.}
+{158}{}{ViszlÃ¡t, barÃ¡tom!}
 {159}{}{Go see Hakunin in the northern corner of the village. He can help you.}
-{160}{}{Köszönöm. Minden jót!}
-{161}{}{Ó, én nem szoktam találkozni velük. Beszélj Mynockal, a Nagy Híd ?rz?jével! ? tartja a kapcsolatot az összes keresked?vel.}
-{162}{}{Köszönöm. Minden jót!}
-{163}{}{Meg tudnád mondani, merre találom a Nagy Hidat?}
-{164}{}{Még egy kérdést, ha lehetne.}
-{165}{}{Jó vicc, Kiválasztott! Tudod te, hol van... Arra... déli irányban.}
-{166}{}{Köszönöm. Minden jót!}
-{167}{}{Még egy kérdést, ha lehetne.}
+{160}{}{KÃ¶szÃ¶nÃ¶m. Minden jÃ³t!}
+{161}{}{Ã“, Ã©n nem szoktam talÃ¡lkozni velÃ¼k. BeszÃ©lj Mynockal, a Nagy HÃ­d ?rz?jÃ©vel! ? tartja a kapcsolatot az Ã¶sszes keresked?vel.}
+{162}{}{KÃ¶szÃ¶nÃ¶m. Minden jÃ³t!}
+{163}{}{Meg tudnÃ¡d mondani, merre talÃ¡lom a Nagy Hidat?}
+{164}{}{MÃ©g egy kÃ©rdÃ©st, ha lehetne.}
+{165}{}{JÃ³ vicc, KivÃ¡lasztott! Tudod te, hol van... Arra... dÃ©li irÃ¡nyban.}
+{166}{}{KÃ¶szÃ¶nÃ¶m. Minden jÃ³t!}
+{167}{}{MÃ©g egy kÃ©rdÃ©st, ha lehetne.}
 {168}{}{Mi lenne az?}
-{169}{}{Meg tudnád mondani, merre találhatok gyógynövényeket?}
-{170}{}{Mit tudnál mondani a velünk üzletel? keresked?kr?l?}
-{171}{}{Értem.}
-{172}{}{Ó, Istenek! ...talán az Alkotó szelleme majd vezetni fog. Ha te vagy a Kiválasztott, szükségünk lesz rá.}
+{169}{}{Meg tudnÃ¡d mondani, merre talÃ¡lhatok gyÃ³gynÃ¶vÃ©nyeket?}
+{170}{}{Mit tudnÃ¡l mondani a velÃ¼nk Ã¼zletel? keresked?kr?l?}
+{171}{}{Ã‰rtem.}
+{172}{}{Ã“, Istenek! ...talÃ¡n az AlkotÃ³ szelleme majd vezetni fog. Ha te vagy a KivÃ¡lasztott, szÃ¼ksÃ©gÃ¼nk lesz rÃ¡.}
 {173}{}{Ja.}
-{174}{}{Legyen biztonságos az utad.}
+{174}{}{Legyen biztonsÃ¡gos az utad.}
 {175}{}{????}
-{176}{}{Halálra vagyunk ítélve! Elbuktad a küldetésed!}
-{177}{}{Így nem folytathatod!}
-{180}{}{Elárulod a saját embereidet.}
-{181}{}{Miért teszed ezt?}
-{182}{}{Gonosz vagy. A Kiválasztott gonosz!!!}
-{183}{}{Keletr?l jönnek a falunkba, de az árujuk igen szegényes.}
-{184}{}{Meg tudnád mondani, merre találhatok gyógynövényeket?}
-{185}{}{Köszönöm. Minden jót!}
-{186}{}{Még egy kérdést, ha lehetne.}
-{300}{}{Üdv, Kiválasztott. Jó, hogy újra láthatlak. Imádkoztam, hogy a küldetésed jól sikerüljön. Segíthetnék valamiben?}
-{301}{}{Kiválasztott, az emberek haldokolnak. Sietned kell az ÉLET-tel! Mit tehetnék küldetésed sikerének érdekében?}
+{176}{}{HalÃ¡lra vagyunk Ã­tÃ©lve! Elbuktad a kÃ¼ldetÃ©sed!}
+{177}{}{Ãgy nem folytathatod!}
+{180}{}{ElÃ¡rulod a sajÃ¡t embereidet.}
+{181}{}{MiÃ©rt teszed ezt?}
+{182}{}{Gonosz vagy. A KivÃ¡lasztott gonosz!!!}
+{183}{}{Keletr?l jÃ¶nnek a falunkba, de az Ã¡rujuk igen szegÃ©nyes.}
+{184}{}{Meg tudnÃ¡d mondani, merre talÃ¡lhatok gyÃ³gynÃ¶vÃ©nyeket?}
+{185}{}{KÃ¶szÃ¶nÃ¶m. Minden jÃ³t!}
+{186}{}{MÃ©g egy kÃ©rdÃ©st, ha lehetne.}
+{300}{}{Ãœdv, KivÃ¡lasztott. JÃ³, hogy Ãºjra lÃ¡thatlak. ImÃ¡dkoztam, hogy a kÃ¼ldetÃ©sed jÃ³l sikerÃ¼ljÃ¶n. SegÃ­thetnÃ©k valamiben?}
+{301}{}{KivÃ¡lasztott, az emberek haldokolnak. Sietned kell az Ã‰LET-tel! Mit tehetnÃ©k kÃ¼ldetÃ©sed sikerÃ©nek Ã©rdekÃ©ben?}
 {302}{}{We are running out of time, Chosen One. Please, finish your holy quest soon. We cannot afford to wait much longer. If there's anything I can do to help you to save us, let me know.}
-{303}{}{Kiválasztott, a falu csaknem elpusztult... te vagy az egyetlen reménységünk. Van valami, amiben segíthetnék nehéz küldetésedben?}
+{303}{}{KivÃ¡lasztott, a falu csaknem elpusztult... te vagy az egyetlen remÃ©nysÃ©gÃ¼nk. Van valami, amiben segÃ­thetnÃ©k nehÃ©z kÃ¼ldetÃ©sedben?}
 {400}{}{Is there anything you could tell me about Kaga?}
 {401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
 {402}{}{Alright, I guess not.}
-{1000}{}{Törzsf?}
-{1001}{}{Alapító}
-{1002}{}{Menedéklakó}
+{1000}{}{TÃ¶rzsf?}
+{1001}{}{AlapÃ­tÃ³}
+{1002}{}{MenedÃ©klakÃ³}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Menedék}
-{1006}{}{Kiválasztott}
-{1007}{}{Sámán}
+{1005}{}{MenedÃ©k}
+{1006}{}{KivÃ¡lasztott}
+{1007}{}{SÃ¡mÃ¡n}
 {1008}{}{Hakunin}
-{1009}{}{Gyógyító por}
-{1010}{}{Híd}
+{1009}{}{GyÃ³gyÃ­tÃ³ por}
+{1010}{}{HÃ­d}
 {1011}{}{Mynoc}
-{1100}{}{A törzsf? a te édesanyád és a vezet?nk.}
-{1101}{}{? a mi nagyszer? ?sünk, neki köszönhetjük a tudást.}
-{1102}{}{? volt az, aki el?ször küzdött meg sikeresen a káosszal.}
-{1103}{}{Ez a mi szépséges falunk.}
-{1104}{}{Kereskedelmi csomópont néhány napi járóföldre keleti irányban.}
-{1105}{}{A Menedék maga a mennyország.}
-{1106}{}{TE vagy a Kiválasztott.}
+{1100}{}{A tÃ¶rzsf? a te Ã©desanyÃ¡d Ã©s a vezet?nk.}
+{1101}{}{? a mi nagyszer? ?sÃ¼nk, neki kÃ¶szÃ¶nhetjÃ¼k a tudÃ¡st.}
+{1102}{}{? volt az, aki el?szÃ¶r kÃ¼zdÃ¶tt meg sikeresen a kÃ¡osszal.}
+{1103}{}{Ez a mi szÃ©psÃ©ges falunk.}
+{1104}{}{Kereskedelmi csomÃ³pont nÃ©hÃ¡ny napi jÃ¡rÃ³fÃ¶ldre keleti irÃ¡nyban.}
+{1105}{}{A MenedÃ©k maga a mennyorszÃ¡g.}
+{1106}{}{TE vagy a KivÃ¡lasztott.}
 {1107}{}{He heals us with his herbs and magic. He is in the northern part
  of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the northern part
  of our village.}
 {1109}{}{It is a magic powder which will heal you, but will make you
  sleepy.}
-{1110}{}{A Nagy Híd dél felé van a falunktól.}
+{1110}{}{A Nagy HÃ­d dÃ©l felÃ© van a falunktÃ³l.}
 {1111}{}{He guards the bridge leading into our village.}

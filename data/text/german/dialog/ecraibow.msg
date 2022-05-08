@@ -1,11 +1,11 @@
 {100}{}{Wir sind stolz, Homos zu sein!}
 {101}{}{Nieder mit den Heteros!}
-{102}{}{Außenweltler sind nicht willkommen!}
+{102}{}{AuÃŸenweltler sind nicht willkommen!}
 {103}{}{Ich bin stolz, eine Lesbe zu sein!}
 {104}{}{Frauenpower!}
-{105}{}{Wer braucht schon Männer?!}
+{105}{}{Wer braucht schon MÃ¤nner?!}
 {106}{}{Der Regenbogen-Bund wird weiterbestehen.}
-{107}{}{Rückzug ins Liebesnest.}
+{107}{}{RÃ¼ckzug ins Liebesnest.}
 {108}{}{Wir werden siegen!}
 {109}{}{Willkommen beim Regenbogen-Bund.}
 {110}{}{Solche wie du sind hier willkommen.}

@@ -6,16 +6,16 @@
 {104}{}{Hey, Kleine, komm mal her! Ich knutsch dich, dass es nur so knallt!}
 {105}{}{<Furz!>}
 {106}{}{Am Ar....}
-{107}{}{Ich will keinen Streß.}
-{108}{}{Da hältst dich wohl für 'ne ganz tolle Nummer. Pass mal auf, ich feg hier mit deinem
- Hintern den Boden. Hoch die Fäuste, jetzt und auf der Stelle.}
-{109}{}{"Ich will keinen Streß!" Genau den kriegst du gleich und zwar mit mir. Entweder du
- kämpfst, oder ich sag allen Leuten, was für ein feiges, mickriges Mimöschen du bist. Mit
- blanken Fäusten, jetzt und sofort.}
+{107}{}{Ich will keinen StreÃŸ.}
+{108}{}{Da hÃ¤ltst dich wohl fÃ¼r 'ne ganz tolle Nummer. Pass mal auf, ich feg hier mit deinem
+ Hintern den Boden. Hoch die FÃ¤uste, jetzt und auf der Stelle.}
+{109}{}{"Ich will keinen StreÃŸ!" Genau den kriegst du gleich und zwar mit mir. Entweder du
+ kÃ¤mpfst, oder ich sag allen Leuten, was fÃ¼r ein feiges, mickriges MimÃ¶schen du bist. Mit
+ blanken FÃ¤usten, jetzt und sofort.}
 {110}{}{Na dann, lass uns tanzen.}
 {111}{}{Nein, wirklich, das geht doch nicht.}
 {112}{}{Ich lach mich tot. Schwirr ab, du Qualle.}
-{113}{}{Aua! Du hast mir die Nase gebrochen! Ich geb auf! Hör auf, mich zu schlagen!}
-{114}{}{Schon gut, tut mir leid. War nur ein kleiner Scherz. Ich mach dir keinen Streß mehr.
+{113}{}{Aua! Du hast mir die Nase gebrochen! Ich geb auf! HÃ¶r auf, mich zu schlagen!}
+{114}{}{Schon gut, tut mir leid. War nur ein kleiner Scherz. Ich mach dir keinen StreÃŸ mehr.
  Bitte...bring mich nicht um!}
-{115}{}{Aufhören, aufhören, ich geb auf. Nicht mehr schlagen, ja?}
+{115}{}{AufhÃ¶ren, aufhÃ¶ren, ich geb auf. Nicht mehr schlagen, ja?}

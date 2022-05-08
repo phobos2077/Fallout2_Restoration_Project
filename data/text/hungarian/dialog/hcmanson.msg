@@ -1,81 +1,81 @@
-{100}{}{Egy rongyos ruhába bújt, ápolatlan embert látsz.}
-{101}{}{Manson, az egyik helyi lázadó.}
-{102}{}{Egy fiatalembert látsz, szakálla ritkás, ruhája rongyos. Szemében az ?rület fénye csillog, de mintha még lenne remény.}
+{100}{}{Egy rongyos ruhÃ¡ba bÃºjt, Ã¡polatlan embert lÃ¡tsz.}
+{101}{}{Manson, az egyik helyi lÃ¡zadÃ³.}
+{102}{}{Egy fiatalembert lÃ¡tsz, szakÃ¡lla ritkÃ¡s, ruhÃ¡ja rongyos. SzemÃ©ben az ?rÃ¼let fÃ©nye csillog, de mintha mÃ©g lenne remÃ©ny.}
 {103}{}{Mi van?!}
-{104}{}{Öhh... gabba gabba hé?}
-{105}{}{Tudolál rács?}
+{104}{}{Ã–hh... gabba gabba hÃ©?}
+{105}{}{TudolÃ¡l rÃ¡cs?}
 {106}{}{Ki vagy te?}
-{107}{}{Miért vagy bekasztnizva?}
-{108}{}{Mesélj nekem Broken Hillsr?l.}
+{107}{}{MiÃ©rt vagy bekasztnizva?}
+{108}{}{MesÃ©lj nekem Broken Hillsr?l.}
 {109}{}{Semmi. Hagyjuk!}
 {110}{}{Don't understand that freaky stupid-person talk. You just get on outta here 'fore ya make me
  stupid too.}
-{111}{}{Óh!}
-{112}{}{Manson. A társadalom ellen lázadó.}
-{113}{}{Mi ellen lázadsz pontosan?}
-{114}{}{Úgy van! Harcoljunk a hatalom ellen!}
-{115}{}{Inkább a társadalom vesztese.}
+{111}{}{Ã“h!}
+{112}{}{Manson. A tÃ¡rsadalom ellen lÃ¡zadÃ³.}
+{113}{}{Mi ellen lÃ¡zadsz pontosan?}
+{114}{}{Ãšgy van! Harcoljunk a hatalom ellen!}
+{115}{}{InkÃ¡bb a tÃ¡rsadalom vesztese.}
 {116}{}{Manson?}
-{117}{}{Ööö ... értem. Viszlát!}
-{118}{}{Azért vagyok itt, mert én és Franc együtt tüntettünk az ellen társadalom ellen, melyben azt akarják, hogy higyjünk.}
-{119}{}{Mégpedig...}
-{120}{}{Úgy van! Harcoljunk a hatalom ellen!}
-{121}{}{Broken Hills? Egész életemben itt éltem. Ezért minden rossz dolgot ismerek, ami itt folyik. Ezért tudom, hogy milyen gonoszak a mutánsok. Még szerencse, hogy páran közülünk látják az igazságot.}
+{117}{}{Ã–Ã¶Ã¶ ... Ã©rtem. ViszlÃ¡t!}
+{118}{}{AzÃ©rt vagyok itt, mert Ã©n Ã©s Franc egyÃ¼tt tÃ¼ntettÃ¼nk az ellen tÃ¡rsadalom ellen, melyben azt akarjÃ¡k, hogy higyjÃ¼nk.}
+{119}{}{MÃ©gpedig...}
+{120}{}{Ãšgy van! Harcoljunk a hatalom ellen!}
+{121}{}{Broken Hills? EgÃ©sz Ã©letemben itt Ã©ltem. EzÃ©rt minden rossz dolgot ismerek, ami itt folyik. EzÃ©rt tudom, hogy milyen gonoszak a mutÃ¡nsok. MÃ©g szerencse, hogy pÃ¡ran kÃ¶zÃ¼lÃ¼nk lÃ¡tjÃ¡k az igazsÃ¡got.}
 {122}{}{Igen, szerintem is. El?re a hatalom ellen, ugye?}
-{123}{}{A gy?lölet beszél bel?led, így nem látod az igazságot.}
-{124}{}{Talán nem ártana elgondolkodnod azon, hogy csak olyan szemellenz?d lehet, amit magadra engedsz rakni, és azon is, hogy a gy?lölet politikájának hirdetése csak még nevetségesebbé tesz téged.}
-{125}{}{Aha. Viszlát!}
-{126}{}{A társadalom el szeretné fogadtatni velünk azt a nézetet, hogy az emberek és a mutánsok képesek békében együtt élni. De a mutánsok ki akarnak nyírni minket! Legalábbis Franc ezt mondja.}
-{127}{}{Bírod ezt a Francet, mi?}
-{128}{}{Ez a legnagyobb hülyeség, amit eddig hallottam.}
-{129}{}{Aha. Na, viszlát!}
-{130}{}{Így van! Ööö... magunkra kell gondolnunk! Ezt mondja Franc és Jacob is mindig!}
-{131}{}{H?, ti aztán jól egy húron pendültök. Miért nem gondolkozol inkább magadtól, ahelyett hogy azt szajkózod, amit mások mondanak?}
-{132}{}{Bírod ezt a Francet, mi?}
-{133}{}{Viszlát!}
-{134}{}{Mit tudsz te err?l, seggfej? T?nj innen a fenébe, miel?tt valami bajod esik!}
-{135}{}{A régi id?kben volt itt egy ember, aki elmondta, hogy mindenkinek magával kellene tör?dnie. Anyám és apám szerint hasonlítok rá. Börtönben halt meg, de nagy hatással volt rám. Az emberek szerint nagyon okos volt. Azt hiszem, volt benne igazság. Úgy értem, nézz csak meg engem!}
-{136}{}{Ööö... persze.}
+{123}{}{A gy?lÃ¶let beszÃ©l bel?led, Ã­gy nem lÃ¡tod az igazsÃ¡got.}
+{124}{}{TalÃ¡n nem Ã¡rtana elgondolkodnod azon, hogy csak olyan szemellenz?d lehet, amit magadra engedsz rakni, Ã©s azon is, hogy a gy?lÃ¶let politikÃ¡jÃ¡nak hirdetÃ©se csak mÃ©g nevetsÃ©gesebbÃ© tesz tÃ©ged.}
+{125}{}{Aha. ViszlÃ¡t!}
+{126}{}{A tÃ¡rsadalom el szeretnÃ© fogadtatni velÃ¼nk azt a nÃ©zetet, hogy az emberek Ã©s a mutÃ¡nsok kÃ©pesek bÃ©kÃ©ben egyÃ¼tt Ã©lni. De a mutÃ¡nsok ki akarnak nyÃ­rni minket! LegalÃ¡bbis Franc ezt mondja.}
+{127}{}{BÃ­rod ezt a Francet, mi?}
+{128}{}{Ez a legnagyobb hÃ¼lyesÃ©g, amit eddig hallottam.}
+{129}{}{Aha. Na, viszlÃ¡t!}
+{130}{}{Ãgy van! Ã–Ã¶Ã¶... magunkra kell gondolnunk! Ezt mondja Franc Ã©s Jacob is mindig!}
+{131}{}{H?, ti aztÃ¡n jÃ³l egy hÃºron pendÃ¼ltÃ¶k. MiÃ©rt nem gondolkozol inkÃ¡bb magadtÃ³l, ahelyett hogy azt szajkÃ³zod, amit mÃ¡sok mondanak?}
+{132}{}{BÃ­rod ezt a Francet, mi?}
+{133}{}{ViszlÃ¡t!}
+{134}{}{Mit tudsz te err?l, seggfej? T?nj innen a fenÃ©be, miel?tt valami bajod esik!}
+{135}{}{A rÃ©gi id?kben volt itt egy ember, aki elmondta, hogy mindenkinek magÃ¡val kellene tÃ¶r?dnie. AnyÃ¡m Ã©s apÃ¡m szerint hasonlÃ­tok rÃ¡. BÃ¶rtÃ¶nben halt meg, de nagy hatÃ¡ssal volt rÃ¡m. Az emberek szerint nagyon okos volt. Azt hiszem, volt benne igazsÃ¡g. Ãšgy Ã©rtem, nÃ©zz csak meg engem!}
+{136}{}{Ã–Ã¶Ã¶... persze.}
 {137}{}{Te? Okos? Ha!}
-{138}{}{Oké. Viszlát!}
+{138}{}{OkÃ©. ViszlÃ¡t!}
 {139}{}{Wha'?}
 {140}{}{Semmi.}
-{141}{}{Aha, asszem ? az egyik legbölcsebb ember, akit ismerek. Jacob okos, de nem olyan egyenes, mint Franc.}
-{142}{}{Franc simán csak egy gennyláda. A társaságával nem jutsz semmire.}
-{143}{}{Ja, beszéltem vele. Franc jófiú.}
-{144}{}{Nem találkoztam még vele. Nincs róla véleményem.}
-{145}{}{Kösz. Viszlát!}
-{146}{}{Mit akarsz még tudni?}
+{141}{}{Aha, asszem ? az egyik legbÃ¶lcsebb ember, akit ismerek. Jacob okos, de nem olyan egyenes, mint Franc.}
+{142}{}{Franc simÃ¡n csak egy gennylÃ¡da. A tÃ¡rsasÃ¡gÃ¡val nem jutsz semmire.}
+{143}{}{Ja, beszÃ©ltem vele. Franc jÃ³fiÃº.}
+{144}{}{Nem talÃ¡lkoztam mÃ©g vele. Nincs rÃ³la vÃ©lemÃ©nyem.}
+{145}{}{KÃ¶sz. ViszlÃ¡t!}
+{146}{}{Mit akarsz mÃ©g tudni?}
 {147}{}{Ki vagy te?}
-{148}{}{Miért vagy bekasztnizva?}
-{149}{}{Mesélj nekem Broken Hillsr?l.}
-{150}{}{Bírod Francet?}
-{151}{}{Miért hívnak téged Mansonnak?}
-{152}{}{Miért vagy ilyen hülye?}
+{148}{}{MiÃ©rt vagy bekasztnizva?}
+{149}{}{MesÃ©lj nekem Broken Hillsr?l.}
+{150}{}{BÃ­rod Francet?}
+{151}{}{MiÃ©rt hÃ­vnak tÃ©ged Mansonnak?}
+{152}{}{MiÃ©rt vagy ilyen hÃ¼lye?}
 {153}{}{Semmi. Hagyjuk!}
-{154}{}{Te is velünk vagy? Akkor szabadíts ki minket!}
-{155}{}{Dolgozom rajta. Viszlát!}
-{156}{}{Kösz a segítséget! Tudtam, hogy számíthatunk egy igazi embertársra!}
-{157}{}{Hát igen, ez lennék én.}
-{158}{}{Mit tehetek még érted?}
-{159}{}{Kiváncsi vagyok, mik a terveitek.}
-{160}{}{Miért Manson a neved?}
-{161}{}{Semmit nem akarok. Csak úgy körülnéztem.}
-{162}{}{Felrobbantjuk a bányát, amikor a mutánsok bent vannak. Azt a párat, aki kint marad, másképp intézzük el.}
-{163}{}{Segíteni szeretnék.}
+{154}{}{Te is velÃ¼nk vagy? Akkor szabadÃ­ts ki minket!}
+{155}{}{Dolgozom rajta. ViszlÃ¡t!}
+{156}{}{KÃ¶sz a segÃ­tsÃ©get! Tudtam, hogy szÃ¡mÃ­thatunk egy igazi embertÃ¡rsra!}
+{157}{}{HÃ¡t igen, ez lennÃ©k Ã©n.}
+{158}{}{Mit tehetek mÃ©g Ã©rted?}
+{159}{}{KivÃ¡ncsi vagyok, mik a terveitek.}
+{160}{}{MiÃ©rt Manson a neved?}
+{161}{}{Semmit nem akarok. Csak Ãºgy kÃ¶rÃ¼lnÃ©ztem.}
+{162}{}{Felrobbantjuk a bÃ¡nyÃ¡t, amikor a mutÃ¡nsok bent vannak. Azt a pÃ¡rat, aki kint marad, mÃ¡skÃ©pp intÃ©zzÃ¼k el.}
+{163}{}{SegÃ­teni szeretnÃ©k.}
 {164}{}{Benne vagyok!}
-{165}{}{Frankó! Sok sikert!}
-{166}{}{Hát, Manson állítólag b?nöz? volt, vagy valami ilyesmi. Az a Manson azonban, akir?l én kaptam a nevemet, egy vallást alapított. Ezért ölték meg. Mártír volt. Talán én is az leszek.}
-{167}{}{Hát... ez nagyon érdekes. Amúgy...}
-{168}{}{Beszélj Jacobbal! Az alapján, amit a dutyiban csináltál, biztosan szeretné, ha segítenél.}
-{169}{}{Jó. Viszlát!}
-{170}{}{Pedig veled szerettem volna dolgozni. Mindegy. Viszlát!}
-{171}{}{Te segg! Bíztunk benne, hogy segíteni fogsz!}
-{172}{}{Azta... igazi gyilkológép vagy. És a város végre megszabadult a mutánsoktól. Csodáááááás!}
-{173}{}{Lelépünk innen. Szerintem neked is jobb lenne... a mutik b?nbakot fognak keresni.}
-{174}{}{Követünk téged!}
-{175}{}{Sikerült meggy?znöd Mansont, hogy gondolkozzon szabadon.}
+{165}{}{FrankÃ³! Sok sikert!}
+{166}{}{HÃ¡t, Manson Ã¡llÃ­tÃ³lag b?nÃ¶z? volt, vagy valami ilyesmi. Az a Manson azonban, akir?l Ã©n kaptam a nevemet, egy vallÃ¡st alapÃ­tott. EzÃ©rt Ã¶ltÃ©k meg. MÃ¡rtÃ­r volt. TalÃ¡n Ã©n is az leszek.}
+{167}{}{HÃ¡t... ez nagyon Ã©rdekes. AmÃºgy...}
+{168}{}{BeszÃ©lj Jacobbal! Az alapjÃ¡n, amit a dutyiban csinÃ¡ltÃ¡l, biztosan szeretnÃ©, ha segÃ­tenÃ©l.}
+{169}{}{JÃ³. ViszlÃ¡t!}
+{170}{}{Pedig veled szerettem volna dolgozni. Mindegy. ViszlÃ¡t!}
+{171}{}{Te segg! BÃ­ztunk benne, hogy segÃ­teni fogsz!}
+{172}{}{Azta... igazi gyilkolÃ³gÃ©p vagy. Ã‰s a vÃ¡ros vÃ©gre megszabadult a mutÃ¡nsoktÃ³l. CsodÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡s!}
+{173}{}{LelÃ©pÃ¼nk innen. Szerintem neked is jobb lenne... a mutik b?nbakot fognak keresni.}
+{174}{}{KÃ¶vetÃ¼nk tÃ©ged!}
+{175}{}{SikerÃ¼lt meggy?znÃ¶d Mansont, hogy gondolkozzon szabadon.}
 {176}{}{Feldobtak minket! Feldobtak minket!}
-{177}{}{Kösz a segítséget, haver! Menjünk Jacobhoz és Aileenhez!}
-{178}{}{Sikeres szöktetést hajtottál végre a börtönb?l.}
-{179}{}{Sok sikert a bányához, testvér!}
+{177}{}{KÃ¶sz a segÃ­tsÃ©get, haver! MenjÃ¼nk Jacobhoz Ã©s Aileenhez!}
+{178}{}{Sikeres szÃ¶ktetÃ©st hajtottÃ¡l vÃ©gre a bÃ¶rtÃ¶nb?l.}
+{179}{}{Sok sikert a bÃ¡nyÃ¡hoz, testvÃ©r!}

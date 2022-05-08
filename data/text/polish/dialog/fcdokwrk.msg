@@ -1,29 +1,29 @@
-{100}{}{Widzisz ch³opa Shi.}
+{100}{}{Widzisz chÅ‚opa Shi.}
 {101}{}{Widzisz dokera.}
-{102}{}{Widzisz ch³opa Shi, którego ubranie pokryte jest rybimi ³uskami, smo³¹ i sol¹.}
-{103}{}{To dobry dzieñ na spêdzenie go na oceanie.}
-{104}{}{Zawsze lubi³em fale.}
+{102}{}{Widzisz chÅ‚opa Shi, ktÃ³rego ubranie pokryte jest rybimi Å‚uskami, smoÅ‚Ä… i solÄ….}
+{103}{}{To dobry dzieÅ„ na spÄ™dzenie go na oceanie.}
+{104}{}{Zawsze lubiÅ‚em fale.}
 {105}{}{Lubisz tran?}
-{106}{}{S³oñce, œwie¿e powietrze i owoce morza. Czego jeszcze mo¿na by chcieæ poza k¹piel¹?}
-{107}{}{Mam ju¿ doœæ ryb.}
-{108}{}{Boli mnie w krzy¿u.}
-{109}{}{O, patrzcie... Nastêpny turysta.}
-{112}{}{Uwa¿aj na potwory na tankowcu. Och, czekaj... Chyba, ju¿ masz to za sob¹.}
-{113}{}{A wiêc uda³o ci siê przejœæ przez tankowiec?}
-{114}{}{Ten tankowiec to ciê¿kie miejsce. Tak przynajmniej mówi¹ punki.}
-{115}{}{Zmierzasz z tym do do czegoœ?}
-{116}{}{To dobry dzieñ na spêdzenie go na oceanie.}
-{117}{}{Zawsze lubi³em fale.}
+{106}{}{SÅ‚oÅ„ce, Å›wieÅ¼e powietrze i owoce morza. Czego jeszcze moÅ¼na by chcieÄ‡ poza kÄ…pielÄ…?}
+{107}{}{Mam juÅ¼ doÅ›Ä‡ ryb.}
+{108}{}{Boli mnie w krzyÅ¼u.}
+{109}{}{O, patrzcie... NastÄ™pny turysta.}
+{112}{}{UwaÅ¼aj na potwory na tankowcu. Och, czekaj... Chyba, juÅ¼ masz to za sobÄ….}
+{113}{}{A wiÄ™c udaÅ‚o ci siÄ™ przejÅ›Ä‡ przez tankowiec?}
+{114}{}{Ten tankowiec to ciÄ™Å¼kie miejsce. Tak przynajmniej mÃ³wiÄ… punki.}
+{115}{}{Zmierzasz z tym do do czegoÅ›?}
+{116}{}{To dobry dzieÅ„ na spÄ™dzenie go na oceanie.}
+{117}{}{Zawsze lubiÅ‚em fale.}
 {118}{}{Lubisz tran?}
-{119}{}{S³oñce, œwie¿e powietrze i owoce morza. Czego jeszcze mo¿na by chcieæ poza k¹piel¹?}
-{120}{}{Mam ju¿ doœæ ryb.}
-{121}{}{Boli mnie w krzy¿u.}
-{122}{}{O, patrzcie... Nastêpny turysta.}
+{119}{}{SÅ‚oÅ„ce, Å›wieÅ¼e powietrze i owoce morza. Czego jeszcze moÅ¼na by chcieÄ‡ poza kÄ…pielÄ…?}
+{120}{}{Mam juÅ¼ doÅ›Ä‡ ryb.}
+{121}{}{Boli mnie w krzyÅ¼u.}
+{122}{}{O, patrzcie... NastÄ™pny turysta.}
 {125}{}{}
 {126}{}{}
 {127}{}{}
 {128}{}{}
-{150}{}{Czas na œmieræ, turysto.}
-{151}{}{S¹dzisz, ¿e dasz radê bójce w dokach?}
-{152}{}{Nie wygl¹dasz na twardziela.}
-{153}{}{Zobaczymy, jak ci siê wolna amerykanka z dokerem Shi!}
+{150}{}{Czas na Å›mierÄ‡, turysto.}
+{151}{}{SÄ…dzisz, Å¼e dasz radÄ™ bÃ³jce w dokach?}
+{152}{}{Nie wyglÄ…dasz na twardziela.}
+{153}{}{Zobaczymy, jak ci siÄ™ wolna amerykanka z dokerem Shi!}

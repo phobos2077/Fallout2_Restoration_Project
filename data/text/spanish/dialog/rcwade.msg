@@ -1,69 +1,69 @@
 {100}{}{Ves a un hombre vestido con un traje de paracaidista. }
 {101}{}{Ves a Ben Wade, el organizador de caravanas para la ruta Redding - Ciudad Refugio.}
 {102}{}{Ves a un hombre vestido con un traje de un Refugio.}
-{103}{}{Tienes valor al volver aquí a por un trabajo. Nunca volverás a trabajar para mí.}
+{103}{}{Tienes valor al volver aquÃ­ a por un trabajo. Nunca volverÃ¡s a trabajar para mÃ­.}
 {104}{}{Fuera de mi vista.}
-{105}{}{Vamos a ponerlos en marcha. ¡ARRE!}
-{106}{}{Bien, vámonos.}
+{105}{}{Vamos a ponerlos en marcha. Â¡ARRE!}
+{106}{}{Bien, vÃ¡monos.}
 {107}{}{Hola. Mi nombre es Ben. Ben Wade. Estoy a cargo de la ruta de caravanas entre Redding y Ciudad Refugio.
  Siempre puedo necesitar guardias extras, y estamos listos para irnos ahora mismo.}
 {108}{}{Hola. Mi nombre es Ben. Ben Wade. Estoy a cargo de la ruta de caravanas entre Redding y Ciudad Refugio.
- Siempre puedo necesitar uno o dos guardias extras. Partimos de la ciudad el día 1 de cada mes. Si quieres apuntarte, asegúrate de estar aquí ese día.}
-{109}{}{¿Qué quieres ahora?}
-{110}{}{¿Muu-muus?}
-{111}{}{Necesitas un guardia, ¿eh?}
-{112}{}{¿Qué transporta esta caravana?}
-{113}{}{¿Por qué esperáis hasta el día 1?}
-{114}{}{No creo que esto sea para mí. Adiós.}
-{115}{}{Parece que cada viaje se vuelve más difícil. }
-{116}{}{¡JA! Deberían habérselo pensado dos veces antes de intentar atacar mi caravana.}
-{117}{}{Está bien eso de que vengas con nosotros.}
-{118}{}{Menuda molestia. Las cosas no son lo que solían ser por estos lares.}
-{119}{}{Estas llanuras ya no son lo seguras que solían ser.}
-{120}{}{No eres un guardia: eres un gallina. Fuera de aquí, cobarde.}
-{121}{}{Abandonaste la caravana. Ahora vete de aquí.}
-{122}{}{No eres más que un ladrón. Probablemente ya hayas cobrado tu parte: ahora vete de aquí.}
-{123}{}{¿Un ladrón? ¿Eso te parezco? Maldito ingrato. Me voy. Adiós.}
-{124}{}{Un día de estos te arrepentirás de haberte cruzado conmigo. Adiós.}
-{125}{}{Si hubieses hecho tu trabajo y protegido mi caravana, entonces hubiese tenido suficiente dinero para pagarte. Así es cómo está la 
+ Siempre puedo necesitar uno o dos guardias extras. Partimos de la ciudad el dÃ­a 1 de cada mes. Si quieres apuntarte, asegÃºrate de estar aquÃ­ ese dÃ­a.}
+{109}{}{Â¿QuÃ© quieres ahora?}
+{110}{}{Â¿Muu-muus?}
+{111}{}{Necesitas un guardia, Â¿eh?}
+{112}{}{Â¿QuÃ© transporta esta caravana?}
+{113}{}{Â¿Por quÃ© esperÃ¡is hasta el dÃ­a 1?}
+{114}{}{No creo que esto sea para mÃ­. AdiÃ³s.}
+{115}{}{Parece que cada viaje se vuelve mÃ¡s difÃ­cil. }
+{116}{}{Â¡JA! DeberÃ­an habÃ©rselo pensado dos veces antes de intentar atacar mi caravana.}
+{117}{}{EstÃ¡ bien eso de que vengas con nosotros.}
+{118}{}{Menuda molestia. Las cosas no son lo que solÃ­an ser por estos lares.}
+{119}{}{Estas llanuras ya no son lo seguras que solÃ­an ser.}
+{120}{}{No eres un guardia: eres un gallina. Fuera de aquÃ­, cobarde.}
+{121}{}{Abandonaste la caravana. Ahora vete de aquÃ­.}
+{122}{}{No eres mÃ¡s que un ladrÃ³n. Probablemente ya hayas cobrado tu parte: ahora vete de aquÃ­.}
+{123}{}{Â¿Un ladrÃ³n? Â¿Eso te parezco? Maldito ingrato. Me voy. AdiÃ³s.}
+{124}{}{Un dÃ­a de estos te arrepentirÃ¡s de haberte cruzado conmigo. AdiÃ³s.}
+{125}{}{Si hubieses hecho tu trabajo y protegido mi caravana, entonces hubiese tenido suficiente dinero para pagarte. AsÃ­ es cÃ³mo estÃ¡ la 
 cosa... Bien, recoges lo que siembras. No te llevas nada.}
-{126}{}{¡Bastardo asqueroso! Pagarás caro el haberme timado. Adiós.}
-{127}{}{Bien, algunas veces se tiene más suerte que otras. Esta ha sido una de esas malas veces. Adiós.}
-{128}{}{Fue un mal viaje. Solo puedo darte 500 dólares... y hasta eso me va dejar sin blanca. Lo siento.}
-{129}{}{Bien, creo que poco es mejor que nada. Adiós.}
-{130}{}{¡Bastardo asqueroso! Nadie podría haber hecho un trabajo mejor. Pagarás caro el haberme timado. Adiós.}
-{131}{}{La caravana fue un éxito. Aquí están tus 1.000 dólares. Un placer trabajar contigo. Espero volver a verte otra 
+{126}{}{Â¡Bastardo asqueroso! PagarÃ¡s caro el haberme timado. AdiÃ³s.}
+{127}{}{Bien, algunas veces se tiene mÃ¡s suerte que otras. Esta ha sido una de esas malas veces. AdiÃ³s.}
+{128}{}{Fue un mal viaje. Solo puedo darte 500 dÃ³lares... y hasta eso me va dejar sin blanca. Lo siento.}
+{129}{}{Bien, creo que poco es mejor que nada. AdiÃ³s.}
+{130}{}{Â¡Bastardo asqueroso! Nadie podrÃ­a haber hecho un trabajo mejor. PagarÃ¡s caro el haberme timado. AdiÃ³s.}
+{131}{}{La caravana fue un Ã©xito. AquÃ­ estÃ¡n tus 1.000 dÃ³lares. Un placer trabajar contigo. Espero volver a verte otra 
 vez.}
-{132}{}{No creo querer volver a pasar tanto tiempo mirando el culo de un brahmin. Adiós.}
-{133}{}{No estuvo mal del todo. Hasta otra. Adiós.}
-{134}{}{Yii-jaaa! Esa fue una carrera fantástica. 1.000 dólares para ti, y otros 200 extra. Debes de ser algún tipo
-de talismán de la suerte. Vuelve a venir con nosotros si vamos al mismo sitio.}
-{135}{}{Es agradable encontrar a alguien que aprecia la calidad cuando la ve. Nos veremos en otra ocasión, quizás. Adiós.}
-{136}{}{Siempre contento de ganar un dinerillo extra. Gracias, y adiós.}
-{137}{}{Difícil de decir, en verdad. Creo que depende del tiempo que se necesita para reunir el mineral suficiente. No
- soy minero, pero no creo que tarde más de un par de semanas.}
-{138}{}{Bien, porque no estoy exactamente seguro cuanto se tardará en reunir todos los medicamentos.
- Probablemente no más
- de un par de semanas. Entonces podremos irnos. Simplemente sigue pidiéndome noticias.}
-{139}{}{¿Qué transportáis normalmente?}
-{140}{}{Déjame hacerte otra pregunta.}
-{141}{}{Gracias, lo haré. Adiós.}
-{142}{}{Normalmente buscamos guardias de caravanas, pero a esta caravana todavía le queda mucho para estar lista. Siéntete libre de volver a preguntarme.}
-{143}{}{¿Cuando del día 1?}
-{144}{}{¿Qué transporta esta caravana?}
-{145}{}{Bien, gracias. Adiós.}
+{132}{}{No creo querer volver a pasar tanto tiempo mirando el culo de un brahmin. AdiÃ³s.}
+{133}{}{No estuvo mal del todo. Hasta otra. AdiÃ³s.}
+{134}{}{Yii-jaaa! Esa fue una carrera fantÃ¡stica. 1.000 dÃ³lares para ti, y otros 200 extra. Debes de ser algÃºn tipo
+de talismÃ¡n de la suerte. Vuelve a venir con nosotros si vamos al mismo sitio.}
+{135}{}{Es agradable encontrar a alguien que aprecia la calidad cuando la ve. Nos veremos en otra ocasiÃ³n, quizÃ¡s. AdiÃ³s.}
+{136}{}{Siempre contento de ganar un dinerillo extra. Gracias, y adiÃ³s.}
+{137}{}{DifÃ­cil de decir, en verdad. Creo que depende del tiempo que se necesita para reunir el mineral suficiente. No
+ soy minero, pero no creo que tarde mÃ¡s de un par de semanas.}
+{138}{}{Bien, porque no estoy exactamente seguro cuanto se tardarÃ¡ en reunir todos los medicamentos.
+ Probablemente no mÃ¡s
+ de un par de semanas. Entonces podremos irnos. Simplemente sigue pidiÃ©ndome noticias.}
+{139}{}{Â¿QuÃ© transportÃ¡is normalmente?}
+{140}{}{DÃ©jame hacerte otra pregunta.}
+{141}{}{Gracias, lo harÃ©. AdiÃ³s.}
+{142}{}{Normalmente buscamos guardias de caravanas, pero a esta caravana todavÃ­a le queda mucho para estar lista. SiÃ©ntete libre de volver a preguntarme.}
+{143}{}{Â¿Cuando del dÃ­a 1?}
+{144}{}{Â¿QuÃ© transporta esta caravana?}
+{145}{}{Bien, gracias. AdiÃ³s.}
 {146}{}{Lo siento, amigo, ya hemos tenido suficientes malas experiencias trabajando en esta caravana.}
 {147}{}{Oh, vale.}
 {148}{}{Bien, mayormente recogemos medicamentos en Ciudad Refugio, y lo vendemos a Redding a cambio 
 de oro.}
-{149}{}{Eso es interesante. ¿Dices que estás buscando guardias?}
-{150}{}{Déjame hacerte otra pregunta.}
-{151}{}{Oh, vale. Adiós.}
-{152}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga es de 1.000 dólares, pero te estoy pagando
- por esto sólo porque necesito un guardia más. ¿Listo para unirte a nosotros?}
-{153}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga es 1.000 dólares. ¿Listo para unirte a nosotros?}
-{154}{}{Suena fantástico. Estoy listo. Vámonos.}
-{155}{}{No creo que quiera ser un guardián de caravanas. Nos veremos por ahí. Adiós.}
-{156}{}{Tienes transporte seguro y tres comidas calientes al día. Ahora lárgate, tarado.}
-{157}{}{¿Parado? Adiós.}
-{158}{}{¡Arrrrrrgg! ¡Yo mato!}
+{149}{}{Eso es interesante. Â¿Dices que estÃ¡s buscando guardias?}
+{150}{}{DÃ©jame hacerte otra pregunta.}
+{151}{}{Oh, vale. AdiÃ³s.}
+{152}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga es de 1.000 dÃ³lares, pero te estoy pagando
+ por esto sÃ³lo porque necesito un guardia mÃ¡s. Â¿Listo para unirte a nosotros?}
+{153}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga es 1.000 dÃ³lares. Â¿Listo para unirte a nosotros?}
+{154}{}{Suena fantÃ¡stico. Estoy listo. VÃ¡monos.}
+{155}{}{No creo que quiera ser un guardiÃ¡n de caravanas. Nos veremos por ahÃ­. AdiÃ³s.}
+{156}{}{Tienes transporte seguro y tres comidas calientes al dÃ­a. Ahora lÃ¡rgate, tarado.}
+{157}{}{Â¿Parado? AdiÃ³s.}
+{158}{}{Â¡Arrrrrrgg! Â¡Yo mato!}

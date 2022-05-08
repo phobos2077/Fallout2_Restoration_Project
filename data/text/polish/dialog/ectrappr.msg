@@ -1,43 +1,43 @@
-{100}{}{Widzisz brudnego, nieogolonego mê¿czyznê.}
+{100}{}{Widzisz brudnego, nieogolonego mÄ™Å¼czyznÄ™.}
 {101}{}{Traper.}
-{102}{}{Lepiej siê do niego nie zbli¿aæ. Insekty buszuj¹ce w jego ubraniu mog¹ zechcieæ przenieœæ siê do czystszego mieszkania.}
-{103}{}{Witaj. Nieczêsto spotykam ludzi na tym pustkowiu. Czego chcesz?}
-{104}{}{Masz jakieœ skórki na sprzeda¿?}
+{102}{}{Lepiej siÄ™ do niego nie zbliÅ¼aÄ‡. Insekty buszujÄ…ce w jego ubraniu mogÄ… zechcieÄ‡ przenieÅ›Ä‡ siÄ™ do czystszego mieszkania.}
+{103}{}{Witaj. NieczÄ™sto spotykam ludzi na tym pustkowiu. Czego chcesz?}
+{104}{}{Masz jakieÅ› skÃ³rki na sprzedaÅ¼?}
 {105}{}{Niczego.}
 {106}{}{Ug.}
-{107}{}{Có¿, chyba mogê odsprzedaæ ci kilka skórek. I tak nie mam ochoty wybieraæ siê chwilowo do miasta.}
+{107}{}{CÃ³Å¼, chyba mogÄ™ odsprzedaÄ‡ ci kilka skÃ³rek. I tak nie mam ochoty wybieraÄ‡ siÄ™ chwilowo do miasta.}
 {108}{}{Co tam masz?}
-{109}{}{Niewa¿ne.}
+{109}{}{NiewaÅ¼ne.}
 {110}{}{Ug.}
 {111}{}{Oto co mam: }
-{112}{}{x skóra zwyk³ego gekona.}
-{113}{}{x skóra z³ocistego gekona.}
-{114}{}{Wezmê wszystko.}
-{115}{}{Mo¿e innym razem. Pa.}
-{116}{}{Mi³o robiæ z tob¹ interesów. Trzymaj siê.}
+{112}{}{x skÃ³ra zwykÅ‚ego gekona.}
+{113}{}{x skÃ³ra zÅ‚ocistego gekona.}
+{114}{}{WezmÄ™ wszystko.}
+{115}{}{MoÅ¼e innym razem. Pa.}
+{116}{}{MiÅ‚o robiÄ‡ z tobÄ… interesÃ³w. Trzymaj siÄ™.}
 {117}{}{Bywaj.}
-{118}{}{Chyba brakuje ci pieniêdzy. Mo¿e w zamian pozwolisz mi spêdziæ piêæ minut z twoj¹ kobit¹. Op³aci ci siê.}
-{119}{}{Chyba brakuje ci pieniêdzy. Mo¿e w zamian pozwolisz mi spêdziæ piêæ minut z twoim ch³opem. Dam ci w zamian skórki.}
-{120}{}{Chyba brakuje ci pieniêdzy. Wiesz co, wygl¹dasz ca³kiem apetycznie, he, he. To jak? Op³aci ci siê!}
+{118}{}{Chyba brakuje ci pieniÄ™dzy. MoÅ¼e w zamian pozwolisz mi spÄ™dziÄ‡ piÄ™Ä‡ minut z twojÄ… kobitÄ…. OpÅ‚aci ci siÄ™.}
+{119}{}{Chyba brakuje ci pieniÄ™dzy. MoÅ¼e w zamian pozwolisz mi spÄ™dziÄ‡ piÄ™Ä‡ minut z twoim chÅ‚opem. Dam ci w zamian skÃ³rki.}
+{120}{}{Chyba brakuje ci pieniÄ™dzy. Wiesz co, wyglÄ…dasz caÅ‚kiem apetycznie, he, he. To jak? OpÅ‚aci ci siÄ™!}
 {121}{}{Jasne.}
 {122}{}{Nie ma szans. Bywaj.}
-{123}{}{[Miria na pewno kiedyœ ci wybaczy. Z weselszych informacji: zyskujesz kilka piêknych skórek.]}
-{124}{}{[Davin chyba nie mia³ nic przeciwko.]}
-{125}{}{[Potrzebujesz k¹pieli, d³uuuugiej k¹pieli z du¿¹ iloœci¹ myd³a - ale zyskujesz kilka piêknych skórek.]}
+{123}{}{[Miria na pewno kiedyÅ› ci wybaczy. Z weselszych informacji: zyskujesz kilka piÄ™knych skÃ³rek.]}
+{124}{}{[Davin chyba nie miaÅ‚ nic przeciwko.]}
+{125}{}{[Potrzebujesz kÄ…pieli, dÅ‚uuuugiej kÄ…pieli z duÅ¼Ä… iloÅ›ciÄ… mydÅ‚a - ale zyskujesz kilka piÄ™knych skÃ³rek.]}
 {126}{}{Bywaj.}
-{127}{}{[Podnosi praw¹ d³oñ i mówi] Howgh. Ja œwietna traper. Poluje du¿e gekon. Moja nie chcieæ wejœæ na twoje ziemie. Odejœæ w pokoju. [Daje ci w prezencie skórkê gekona.]}
+{127}{}{[Podnosi prawÄ… dÅ‚oÅ„ i mÃ³wi] Howgh. Ja Å›wietna traper. Poluje duÅ¼e gekon. Moja nie chcieÄ‡ wejÅ›Ä‡ na twoje ziemie. OdejÅ›Ä‡ w pokoju. [Daje ci w prezencie skÃ³rkÄ™ gekona.]}
 {128}{}{[KONIEC]}
-{129}{}{Nie mamy ju¿ o czym rozmawiaæ.}
-{130}{}{Tchórz!}
-{131}{}{To moje tereny ³owieckie. OdejdŸ!}
-{132}{}{Obedrê ciê ze skóry!}
-{133}{}{Zrobiê sobie naszyjnik z twoich zêbów.}
-{134}{}{Jedna zwyk³a skórka gekona: $}
-{135}{}{Jedna skórka gekona z³ocistego: $}
-{136}{}{Dobra. Twoje gór¹.}
-{137}{}{Masz szczêœcie, muszê siê zaj¹æ moimi sid³ami.}
-{138}{}{Chyba mama mnie wo³a.}
-{140}{}{Wygl¹da na to, ¿e nie mam ¿adnych skór zwyk³ych gekonów, ale mam }
-{141}{}{Wygl¹da na to, ¿e nie mam ¿adnych skór z³otych gekonów, ale mam }
-{142}{}{Wybacz, wygl¹da na to, ¿e nie mam ju¿ niczego na stanie.}
-{200}{}{Widzisz brudn¹, zaniedban¹ kobietê.}
+{129}{}{Nie mamy juÅ¼ o czym rozmawiaÄ‡.}
+{130}{}{TchÃ³rz!}
+{131}{}{To moje tereny Å‚owieckie. OdejdÅº!}
+{132}{}{ObedrÄ™ ciÄ™ ze skÃ³ry!}
+{133}{}{ZrobiÄ™ sobie naszyjnik z twoich zÄ™bÃ³w.}
+{134}{}{Jedna zwykÅ‚a skÃ³rka gekona: $}
+{135}{}{Jedna skÃ³rka gekona zÅ‚ocistego: $}
+{136}{}{Dobra. Twoje gÃ³rÄ….}
+{137}{}{Masz szczÄ™Å›cie, muszÄ™ siÄ™ zajÄ…Ä‡ moimi sidÅ‚ami.}
+{138}{}{Chyba mama mnie woÅ‚a.}
+{140}{}{WyglÄ…da na to, Å¼e nie mam Å¼adnych skÃ³r zwykÅ‚ych gekonÃ³w, ale mam }
+{141}{}{WyglÄ…da na to, Å¼e nie mam Å¼adnych skÃ³r zÅ‚otych gekonÃ³w, ale mam }
+{142}{}{Wybacz, wyglÄ…da na to, Å¼e nie mam juÅ¼ niczego na stanie.}
+{200}{}{Widzisz brudnÄ…, zaniedbanÄ… kobietÄ™.}

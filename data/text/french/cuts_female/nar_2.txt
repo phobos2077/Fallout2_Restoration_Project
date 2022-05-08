@@ -1,2 +1,2 @@
-1:Tu retrouvas lentement une vie normale à l'intérieur de l'Abri.
-2:Mais un mois plus tard, un nouveau désastre s'abattit sur toi.
+1:Tu retrouvas lentement une vie normale Ã  l'intÃ©rieur de l'Abri.
+2:Mais un mois plus tard, un nouveau dÃ©sastre s'abattit sur toi.

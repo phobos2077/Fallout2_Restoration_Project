@@ -1,11 +1,11 @@
-{100}{}{Você vê um viajante com cicatrizes.}
-{101}{}{Você vê o guarda do comerciante.}
+{100}{}{VocÃª vÃª um viajante com cicatrizes.}
+{101}{}{VocÃª vÃª o guarda do comerciante.}
 {200}{}{Sem armas expostas perto do chefe.}
-{201}{}{Ninguém vem ao chefe armado.}
-{202}{}{Coloque sua arma longe antes de atirar em você.}
+{201}{}{NinguÃ©m vem ao chefe armado.}
+{202}{}{Coloque sua arma longe antes de atirar em vocÃª.}
 {203}{}{Coloque-as longe ou afaste-se.}
-{250}{}{Você foi avisado-agora você vai pagar.}
-{300}{}{Fale com o chefe, 'e vou configurá-lo bem.}
-{301}{}{Eu levo meu trabalho a sério. Mexer com o chefe, e você morre.}
-{302}{}{O chefe é um bom cara para a maior parte.}
+{250}{}{VocÃª foi avisado-agora vocÃª vai pagar.}
+{300}{}{Fale com o chefe, 'e vou configurÃ¡-lo bem.}
+{301}{}{Eu levo meu trabalho a sÃ©rio. Mexer com o chefe, e vocÃª morre.}
+{302}{}{O chefe Ã© um bom cara para a maior parte.}
 {303}{}{Nem pensar em roubar do chefe.}

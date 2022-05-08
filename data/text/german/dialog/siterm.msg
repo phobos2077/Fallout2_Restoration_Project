@@ -1,8 +1,8 @@
 {100}{}{Du siehst ein Terminal.}
-{101}{}{Das ist ein Terminal. Solche Terminals dienen häufig zum Steuern anderer Objekte.}
-{200}{}{Mit diesem Terminal werden anscheinend die Türen dieses Zellenblocks gesteuert.}
-{201}{}{Ungültiger Code.}
-{202}{}{Die Türen sind nun offen.}
-{203}{}{Die Türen sind nun geschlossen.}
+{101}{}{Das ist ein Terminal. Solche Terminals dienen hÃ¤ufig zum Steuern anderer Objekte.}
+{200}{}{Mit diesem Terminal werden anscheinend die TÃ¼ren dieses Zellenblocks gesteuert.}
+{201}{}{UngÃ¼ltiger Code.}
+{202}{}{Die TÃ¼ren sind nun offen.}
+{203}{}{Die TÃ¼ren sind nun geschlossen.}
 {204}{}{Interessante Idee. Hat aber nicht funktioniert.}
-{205}{}{Hmmm, diese Computer sind ganz schön komplizierte Dinger.}
+{205}{}{Hmmm, diese Computer sind ganz schÃ¶n komplizierte Dinger.}

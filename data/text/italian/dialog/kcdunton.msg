@@ -13,7 +13,7 @@
 {123}{}{Almeno non vedro' piu' le vostre orribili facce da culo.}
 {130}{}{Cosa vuoi sapere da noi?}
 {131}{}{Non credo che abbiamo qualcosa da dirti. Cosa diavolo vuoi?}
-{132}{}{Vabbe'... cosa può mai volere da noi una mammoletta come te?}
+{132}{}{Vabbe'... cosa puÃ² mai volere da noi una mammoletta come te?}
 {133}{}{Uno di voi due ha mai sentito parlare di una cosa chiamata Kit di Creazione del Giardino dell'Eden?}
 {134}{}{Vorrei barattare.}
 {135}{}{Ci sono lavori da fare da queste parti?}

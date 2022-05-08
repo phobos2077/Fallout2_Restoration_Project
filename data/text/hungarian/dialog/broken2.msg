@@ -1,1 +1,1 @@
-{100}{}{Beléptél Broken Hills keleti részébe.}
+{100}{}{BelÃ©ptÃ©l Broken Hills keleti rÃ©szÃ©be.}

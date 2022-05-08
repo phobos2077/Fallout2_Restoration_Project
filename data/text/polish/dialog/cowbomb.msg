@@ -1,1 +1,1 @@
-{100}{}{Coœ w tym miejscu nie daje ci spokoju. Dusz¹cy zapach krowiego ³ajna i gnij¹cego miêsa czuæ na kilka metrów st¹d.}
+{100}{}{CoÅ› w tym miejscu nie daje ci spokoju. DuszÄ…cy zapach krowiego Å‚ajna i gnijÄ…cego miÄ™sa czuÄ‡ na kilka metrÃ³w stÄ…d.}

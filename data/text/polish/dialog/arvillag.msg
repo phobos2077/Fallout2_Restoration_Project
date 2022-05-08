@@ -1,1 +1,1 @@
-{100}{}{Jesteú ponownie w swej rodzinnej wiosce, Arroyo.}
+{100}{}{Jeste≈õ ponownie w swej rodzinnej wiosce, Arroyo.}

@@ -1,1 +1,1 @@
-{100}{}{Ta szafka jest zamkniêta elektronicznie. Nie ma mo¿liwoœci ¿eby j¹ st¹d otworzyæ.}
+{100}{}{Ta szafka jest zamkniÄ™ta elektronicznie. Nie ma moÅ¼liwoÅ›ci Å¼eby jÄ… stÄ…d otworzyÄ‡.}

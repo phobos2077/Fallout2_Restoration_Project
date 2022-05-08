@@ -1,52 +1,52 @@
-{100}{}{Widzisz stra¿nika Centrologów.}
-{101}{}{Jest zbudowany jak g³az i nieŸle uzbrojony.}
-{200}{}{Staæ! To jest prywatna w³asnoœæ Koœcio³a Centrologów. Jaki masz tutaj interes?}
-{201}{}{Jestem tu ¿eby ³upiæ. Podobno jest tu du¿o pieniêdzy i broni do zabrania.}
-{202}{}{Nie ma co siê niepokoiæ. Jestem swój. Ja te¿ nale¿ê do Koœcio³a Centrologów.}
-{203}{}{Tak? W takim razie, ciê przepytam ¿eby siê upewniæ, ¿e tak jest.}
-{204}{}{W takim razie twoja podró¿ koñczy siê tutaj.}
-{205}{}{Pytaj. s³ucham.}
-{206}{}{W³aœciwie, myœlê, ¿e ciê zabijê.}
-{220}{}{Kto by³ za³o¿ycielem Koœcio³a?}
-{221}{}{Koœció³ wierzy, ¿e ¿ycie, wszechœwiat, i wszystko inne mo¿e byæ sybolizowane przez... no w³aœnie co?}
-{222}{}{W rozumieniu koœcio³a, co oznacza "Oœwiecenie"?}
+{100}{}{Widzisz straÅ¼nika CentrologÃ³w.}
+{101}{}{Jest zbudowany jak gÅ‚az i nieÅºle uzbrojony.}
+{200}{}{StaÄ‡! To jest prywatna wÅ‚asnoÅ›Ä‡ KoÅ›cioÅ‚a CentrologÃ³w. Jaki masz tutaj interes?}
+{201}{}{Jestem tu Å¼eby Å‚upiÄ‡. Podobno jest tu duÅ¼o pieniÄ™dzy i broni do zabrania.}
+{202}{}{Nie ma co siÄ™ niepokoiÄ‡. Jestem swÃ³j. Ja teÅ¼ naleÅ¼Ä™ do KoÅ›cioÅ‚a CentrologÃ³w.}
+{203}{}{Tak? W takim razie, ciÄ™ przepytam Å¼eby siÄ™ upewniÄ‡, Å¼e tak jest.}
+{204}{}{W takim razie twoja podrÃ³Å¼ koÅ„czy siÄ™ tutaj.}
+{205}{}{Pytaj. sÅ‚ucham.}
+{206}{}{WÅ‚aÅ›ciwie, myÅ›lÄ™, Å¼e ciÄ™ zabijÄ™.}
+{220}{}{Kto byÅ‚ zaÅ‚oÅ¼ycielem KoÅ›cioÅ‚a?}
+{221}{}{KoÅ›ciÃ³Å‚ wierzy, Å¼e Å¼ycie, wszechÅ›wiat, i wszystko inne moÅ¼e byÄ‡ sybolizowane przez... no wÅ‚aÅ›nie co?}
+{222}{}{W rozumieniu koÅ›cioÅ‚a, co oznacza "OÅ›wiecenie"?}
 {230}{}{Herbert Jentz}
 {231}{}{Dick Hubbel}
 {232}{}{Tim Cruz}
 {233}{}{AHS-9}
 {234}{}{Hugo Richardson}
-{240}{}{Kr¹g.}
-{241}{}{Pieni¹dze.}
-{242}{}{Obracaj¹ce siê ko³o.}
-{243}{}{Róg Odyna.}
+{240}{}{KrÄ…g.}
+{241}{}{PieniÄ…dze.}
+{242}{}{ObracajÄ…ce siÄ™ koÅ‚o.}
+{243}{}{RÃ³g Odyna.}
 {244}{}{Ryba.}
-{250}{}{Uzupe³nianie esencji cia³a.}
-{251}{}{Stan ca³kowitej euforii.}
-{252}{}{Wprowadzenie siê w stan, w którym szukaj¹cy osi¹ga ca³kowite zrozumienia rzeczy.}
-{253}{}{Wprowadzenie siê w stan, w którym szukaj¹cy osi¹ga tak wielka wiedzê, ¿e staje siê integraln¹ czêœci¹ wszechœwiata i opuszcza swoje ziemskie jestestwo.}
-{254}{}{Stan ca³kowitego oddania œcie¿ce duchowej, kiedy ograniczone pojêcie "JA" przeradza siê w "MY".}
-{260}{}{Poprawna odpowiedŸ. Witaj. Mogê wiedzieæ czemu tu przybywasz? Tylko nieliczni z nas wiedz¹ o tym miejscu}
-{261}{}{Z³a odpowiedŸ. Nie jesteœ cz³onkiem Koœcio³a. Czas usun¹æ ciê z powierzchni ziemi.}
-{270}{}{Przysy³a mnie AHS-9 ¿eby sprawdziæ wszystkie datki. Chce siê upewniæ, ¿e wszystko jest na miejscu.}
-{271}{}{Jestem tu ¿eby z³o¿yæ datek.}
-{280}{}{Oh, nie wiedzia³em, ¿e wykonujesz b³ogos³awione rozkazy AHS-9. W takim razie, mo¿esz wejœæ. Pozwól, ¿e otworzê Ci drzwi.}
-{281}{}{Nikt mi nie mówi³, ¿e bêd¹ jakieœ inspekcje. Nie jestem pewien twoich zamiarów.}
-{282}{}{Dziêkujê, do zobaczenia.}
-{283}{}{S³uchaj, AHS-9 osobiœcie kaza³ mi to sprawdziæ. Kaza³ przynieœæ pewien cenny przedmiot, który zosta³ niedawno podarowany. Jest potrzebny ¿eby dotrzeæ do naszego Gwiezdnego Ojca.}
-{284}{}{Mam doœæ twoich k³amstw. Wygl¹da, ¿e czas usun¹æ kolejnego chwasta.}
-{290}{}{Ale to nie tutaj sk³ada siê datki. ¯eby to zrobiæ musisz iœæ do jednego z naszych koœcio³ów.}
-{291}{}{Wiem o ty, ale AHS-9 powiedzia³, ¿e nowi mog¹ wszystko sprawdziæ zanim z³o¿¹ stosowne datki.}
-{292}{}{Nikt mi nie mówi³, ¿e bêd¹ jakieœ inspekcje. Nie jestem pewien twoich zamiarów.}
-{293}{}{Rozumiem. To jest do przyjêcia. Mo¿esz wejœæ. Ale nie siedŸ tam za d³ugo.}
-{294}{}{S³uchaj, mam zamiar podarowaæ Koœcio³owi spor¹ sumkê. Chcê mieæ pewnoœæ, ¿e moje pieni¹dze bêd¹ bezpieczne i w³aœciwie u¿yte.}
+{250}{}{UzupeÅ‚nianie esencji ciaÅ‚a.}
+{251}{}{Stan caÅ‚kowitej euforii.}
+{252}{}{Wprowadzenie siÄ™ w stan, w ktÃ³rym szukajÄ…cy osiÄ…ga caÅ‚kowite zrozumienia rzeczy.}
+{253}{}{Wprowadzenie siÄ™ w stan, w ktÃ³rym szukajÄ…cy osiÄ…ga tak wielka wiedzÄ™, Å¼e staje siÄ™ integralnÄ… czÄ™Å›ciÄ… wszechÅ›wiata i opuszcza swoje ziemskie jestestwo.}
+{254}{}{Stan caÅ‚kowitego oddania Å›cieÅ¼ce duchowej, kiedy ograniczone pojÄ™cie "JA" przeradza siÄ™ w "MY".}
+{260}{}{Poprawna odpowiedÅº. Witaj. MogÄ™ wiedzieÄ‡ czemu tu przybywasz? Tylko nieliczni z nas wiedzÄ… o tym miejscu}
+{261}{}{ZÅ‚a odpowiedÅº. Nie jesteÅ› czÅ‚onkiem KoÅ›cioÅ‚a. Czas usunÄ…Ä‡ ciÄ™ z powierzchni ziemi.}
+{270}{}{PrzysyÅ‚a mnie AHS-9 Å¼eby sprawdziÄ‡ wszystkie datki. Chce siÄ™ upewniÄ‡, Å¼e wszystko jest na miejscu.}
+{271}{}{Jestem tu Å¼eby zÅ‚oÅ¼yÄ‡ datek.}
+{280}{}{Oh, nie wiedziaÅ‚em, Å¼e wykonujesz bÅ‚ogosÅ‚awione rozkazy AHS-9. W takim razie, moÅ¼esz wejÅ›Ä‡. PozwÃ³l, Å¼e otworzÄ™ Ci drzwi.}
+{281}{}{Nikt mi nie mÃ³wiÅ‚, Å¼e bÄ™dÄ… jakieÅ› inspekcje. Nie jestem pewien twoich zamiarÃ³w.}
+{282}{}{DziÄ™kujÄ™, do zobaczenia.}
+{283}{}{SÅ‚uchaj, AHS-9 osobiÅ›cie kazaÅ‚ mi to sprawdziÄ‡. KazaÅ‚ przynieÅ›Ä‡ pewien cenny przedmiot, ktÃ³ry zostaÅ‚ niedawno podarowany. Jest potrzebny Å¼eby dotrzeÄ‡ do naszego Gwiezdnego Ojca.}
+{284}{}{Mam doÅ›Ä‡ twoich kÅ‚amstw. WyglÄ…da, Å¼e czas usunÄ…Ä‡ kolejnego chwasta.}
+{290}{}{Ale to nie tutaj skÅ‚ada siÄ™ datki. Å»eby to zrobiÄ‡ musisz iÅ›Ä‡ do jednego z naszych koÅ›cioÅ‚Ã³w.}
+{291}{}{Wiem o ty, ale AHS-9 powiedziaÅ‚, Å¼e nowi mogÄ… wszystko sprawdziÄ‡ zanim zÅ‚oÅ¼Ä… stosowne datki.}
+{292}{}{Nikt mi nie mÃ³wiÅ‚, Å¼e bÄ™dÄ… jakieÅ› inspekcje. Nie jestem pewien twoich zamiarÃ³w.}
+{293}{}{Rozumiem. To jest do przyjÄ™cia. MoÅ¼esz wejÅ›Ä‡. Ale nie siedÅº tam za dÅ‚ugo.}
+{294}{}{SÅ‚uchaj, mam zamiar podarowaÄ‡ KoÅ›cioÅ‚owi sporÄ… sumkÄ™. ChcÄ™ mieÄ‡ pewnoÅ›Ä‡, Å¼e moje pieniÄ…dze bÄ™dÄ… bezpieczne i wÅ‚aÅ›ciwie uÅ¼yte.}
 {300}{}{Witaj ponownie.}
-{301}{}{Mam nadziejê, ¿e wszystko w porz¹dku.}
-{400}{}{Ja chcieæ wejœæ.}
-{410}{}{[Dziwnie siê na ciebie patrzy.] To musisz podaæ has³o.}
-{411}{}{Ja podaæ gazy, nie has³o.}
-{412}{}{Ja chcieæ wejœæ!}
-{420}{}{S³uchaj, nie mam na to czasu. To oczywiste, ¿e nie powinno ciê tu byæ, wiêc wynoœ siê, albo po¿a³ujesz.}
+{301}{}{Mam nadziejÄ™, Å¼e wszystko w porzÄ…dku.}
+{400}{}{Ja chcieÄ‡ wejÅ›Ä‡.}
+{410}{}{[Dziwnie siÄ™ na ciebie patrzy.] To musisz podaÄ‡ hasÅ‚o.}
+{411}{}{Ja podaÄ‡ gazy, nie hasÅ‚o.}
+{412}{}{Ja chcieÄ‡ wejÅ›Ä‡!}
+{420}{}{SÅ‚uchaj, nie mam na to czasu. To oczywiste, Å¼e nie powinno ciÄ™ tu byÄ‡, wiÄ™c wynoÅ› siÄ™, albo poÅ¼aÅ‚ujesz.}
 {421}{}{Ugch pa!}
-{422}{}{Ja chcieæ œwiecide³ka w œrodku. Tu teraz umrzeæ.}
-{430}{}{To twoja ostatnia szansa. OdejdŸ albo giñ.}
-{431}{}{Ostrzega³em ciê!}
+{422}{}{Ja chcieÄ‡ Å›wiecideÅ‚ka w Å›rodku. Tu teraz umrzeÄ‡.}
+{430}{}{To twoja ostatnia szansa. OdejdÅº albo giÅ„.}
+{431}{}{OstrzegaÅ‚em ciÄ™!}

@@ -1,74 +1,74 @@
 {0}{}{Tem certeza de que deseja sair?}
-{1}{}{Versão demo}
-{2}{}{O Personagem padrão será usado.}
+{1}{}{VersÃ£o demo}
+{2}{}{O Personagem padrÃ£o serÃ¡ usado.}
 {3}{}{Captura de tela salva.}
-{4}{}{Jogo de carga rápida carregado com êxito.}
-{5}{}{Jogo salvo rápido, salvos com sucesso.}
-{6}{}{Limite de tempo de demonstração ultrapassado.}
-{7}{}{Pipboy não disponível em combate!}
+{4}{}{Jogo de carga rÃ¡pida carregado com Ãªxito.}
+{5}{}{Jogo salvo rÃ¡pido, salvos com sucesso.}
+{6}{}{Limite de tempo de demonstraÃ§Ã£o ultrapassado.}
+{7}{}{Pipboy nÃ£o disponÃ­vel em combate!}
 {8}{}{Erro ao salvar imagem.}
 {9}{}{INTRO}
 {10}{}{NOVO JOGO}
 {11}{}{CARREGAR}
-{12}{}{OPÇÕES}
+{12}{}{OPÃ‡Ã•ES}
 {13}{}{CREDITOS}
 {14}{}{SAIR}
-{15}{}{Pts. de Ação}
+{15}{}{Pts. de AÃ§Ã£o}
 {16}{}{P. de vida}
-{17}{}{A opção de sensor de movimento não está instalada.}
-{18}{}{O sensor de movimento não tem carga sobrando.}
+{17}{}{A opÃ§Ã£o de sensor de movimento nÃ£o estÃ¡ instalada.}
+{18}{}{O sensor de movimento nÃ£o tem carga sobrando.}
 {20}{}{Copyright (c) 1998 Interplay Productions. Todos os direitos reservados.}
-{30}{}{Você deseja continuar jogando?}
+{30}{}{VocÃª deseja continuar jogando?}
 {50}{}{Fallout 2 requer o CD!}
-{100}{}{Erro ao salvar o arquivo de configuração!}
-{101}{}{Configurações de jogo não foram salvas.}
-{1000}{}{Você se sente muito enjoado.}
-{1001}{}{Você se sente muito enjoado e vômita um pouco, se sente um pouco cansado.}
-{1002}{}{Você está muito cansado, o vômito não parar e seu tempo de recuperação é prejudicado.}
-{1003}{}{Você está sangrando violentamente. Você está muito doente, e seu cabelo está caindo.}
-{1004}{}{Você está sangrando violentamente sem parar. O vômito é manchado de sangue. Sua pele está se despregando de seus ossos.}
-{1005}{}{Sangramento no seu intestino e diarreia grave. Você se sente inchado e com intensa agonia.}
-{1006}{}{Você morreu de doenças provocadas pela radiação.}
-{1007}{}{Você recebeu uma grande quantidade de radiação.}
-{1008}{}{O contador Geiger está tocando.}
+{100}{}{Erro ao salvar o arquivo de configuraÃ§Ã£o!}
+{101}{}{ConfiguraÃ§Ãµes de jogo nÃ£o foram salvas.}
+{1000}{}{VocÃª se sente muito enjoado.}
+{1001}{}{VocÃª se sente muito enjoado e vÃ´mita um pouco, se sente um pouco cansado.}
+{1002}{}{VocÃª estÃ¡ muito cansado, o vÃ´mito nÃ£o parar e seu tempo de recuperaÃ§Ã£o Ã© prejudicado.}
+{1003}{}{VocÃª estÃ¡ sangrando violentamente. VocÃª estÃ¡ muito doente, e seu cabelo estÃ¡ caindo.}
+{1004}{}{VocÃª estÃ¡ sangrando violentamente sem parar. O vÃ´mito Ã© manchado de sangue. Sua pele estÃ¡ se despregando de seus ossos.}
+{1005}{}{Sangramento no seu intestino e diarreia grave. VocÃª se sente inchado e com intensa agonia.}
+{1006}{}{VocÃª morreu de doenÃ§as provocadas pela radiaÃ§Ã£o.}
+{1007}{}{VocÃª recebeu uma grande quantidade de radiaÃ§Ã£o.}
+{1008}{}{O contador Geiger estÃ¡ tocando.}
 {1009}{}{O contador Geiger toca freneticamente.}
-{2000}{}{Você não pode chegar lá.}
-{2001}{}{A porta está presa.}
-{3000}{}{Você foi envenenado!}
-{3001}{}{Você recebe dano de veneno.}
-{3002}{}{Você se sente um pouco melhor.}
-{3003}{}{Você se sente melhor.}
+{2000}{}{VocÃª nÃ£o pode chegar lÃ¡.}
+{2001}{}{A porta estÃ¡ presa.}
+{3000}{}{VocÃª foi envenenado!}
+{3001}{}{VocÃª recebe dano de veneno.}
+{3002}{}{VocÃª se sente um pouco melhor.}
+{3003}{}{VocÃª se sente melhor.}
 {4000}{}{Devido ao seu manuseio inepto, o explosivo detona prematuramente.}
 {5000}{}{usa}
-{5001}{}{está sem munição para a}
+{5001}{}{estÃ¡ sem muniÃ§Ã£o para a}
 {5002}{}{recarregar}
 {6000}{}{Sobre o que quer perguntar?}
-{7000}{}{Você não está usando o Pip-Boy!}
-{8000}{}{Você está sobrecarregado.}
-{8001}{}{%s está sobrecarregado..}
-{8500}{}{Você ganha %d pontos de experiência pelo uso bem sucedido de sua habilidade.}
+{7000}{}{VocÃª nÃ£o estÃ¡ usando o Pip-Boy!}
+{8000}{}{VocÃª estÃ¡ sobrecarregado.}
+{8001}{}{%s estÃ¡ sobrecarregado..}
+{8500}{}{VocÃª ganha %d pontos de experiÃªncia pelo uso bem sucedido de sua habilidade.}
 {9000}{}{%s ganhou novas habilidades.}
-{9010}{}{Uau. De repente, senti uma rajada de experiência.}
-{9011}{}{Sube de nível, baby! Sobe!}
-{9012}{}{Sinto um grande distúrbio na força. Como se todas as minhas habilidades ganhassem pontos percentuais.}
+{9010}{}{Uau. De repente, senti uma rajada de experiÃªncia.}
+{9011}{}{Sube de nÃ­vel, baby! Sobe!}
+{9012}{}{Sinto um grande distÃºrbio na forÃ§a. Como se todas as minhas habilidades ganhassem pontos percentuais.}
 {9013}{}{Me sinto mais forte, mais inteligente.}
-{9020}{}{Caramba! Sinto que eu poderia ter passado um obstáculo então teria obtido experiência e mais poder!}
-{9021}{}{Aaagggh! Meus músculos incham ..... meus atributos ... crescem .... Alto nível de experiência...}
-{9022}{}{Me dê um diploma, porque eu acabado me formar!}
-{9023}{}{Ei, eu me sinto mais poderoso! Isso significa que eu conseguir um aumento de salário?}
+{9020}{}{Caramba! Sinto que eu poderia ter passado um obstÃ¡culo entÃ£o teria obtido experiÃªncia e mais poder!}
+{9021}{}{Aaagggh! Meus mÃºsculos incham ..... meus atributos ... crescem .... Alto nÃ­vel de experiÃªncia...}
+{9022}{}{Me dÃª um diploma, porque eu acabado me formar!}
+{9023}{}{Ei, eu me sinto mais poderoso! Isso significa que eu conseguir um aumento de salÃ¡rio?}
 {9030}{}{Agora eu lembro de tudo...}
-{9031}{}{Heh. Acho que você pode me ensinar novos truques.}
+{9031}{}{Heh. Acho que vocÃª pode me ensinar novos truques.}
 {9032}{}{Parece que toda essa viagem valeu a pena.}
 {9033}{}{Eu aprendi alguns truques novos.}
-{9040}{}{O avô ensina. Nós aprendemos.}
-{9041}{}{Aprendemos mais com os espíritos, Jovem.}
+{9040}{}{O avÃ´ ensina. NÃ³s aprendemos.}
+{9041}{}{Aprendemos mais com os espÃ­ritos, Jovem.}
 {9042}{}{Aprendemos agora.}
-{9043}{}{Um grande espírito entra em Sulik agora.}
-{9044}{}{Agora somos como um avô do ocidente, o jovem.}
-{9045}{}{Nós ser o avô agora.}
+{9043}{}{Um grande espÃ­rito entra em Sulik agora.}
+{9044}{}{Agora somos como um avÃ´ do ocidente, o jovem.}
+{9045}{}{NÃ³s ser o avÃ´ agora.}
 {9050}{}{Oh, sim... Eu realmente aprendi alguma coisa com isso.}
 {9051}{}{A culpa por tudo isso vai me matar.}
-{9052}{}{Eu não posso acreditar que eu sobrevivi até aqui.}
+{9052}{}{Eu nÃ£o posso acreditar que eu sobrevivi atÃ© aqui.}
 {9060}{}{Woof!}
 {9061}{}{Woof!}
 {9062}{}{Woof!}
@@ -77,26 +77,26 @@
 {9070}{}{Eu aprendi algumas coisas novas!}
 {9071}{}{Eu aprendi algumas coisas novas!}
 {9080}{}{Eu acredito que ganhei um pouco mais de conhecimento!}
-{9081}{}{A clareza de conhecimento é um dom.}
+{9081}{}{A clareza de conhecimento Ã© um dom.}
 {9082}{}{Parece que estou amadurecendo bem.}
-{9083}{}{Estou superando até mesmo Gruthar no conhecimento.}
-{9084}{}{Eu sou o mais forte de minha raça.}
-{9085}{}{Agora eu sou o mais poderoso entre minha raça.}
+{9083}{}{Estou superando atÃ© mesmo Gruthar no conhecimento.}
+{9084}{}{Eu sou o mais forte de minha raÃ§a.}
+{9085}{}{Agora eu sou o mais poderoso entre minha raÃ§a.}
 {9090}{}{Eu aprendi algumas coisas novas!}
 {9091}{}{Eu aprendi algumas coisas novas!}
 {9100}{}{Eu aprendi algumas coisas novas!}
 {9101}{}{Eu aprendi algumas coisas novas!}
 {9110}{}{Eu aprendi algumas coisas novas!}
 {9111}{}{Eu aprendi algumas coisas novas!}
-{9120}{}{ANÁLISE DE DADOS COMPLETA. ATUALIZANDO TODOS OS SISTEMAS.}
-{9121}{}{NOVOS DADOS COLETADOS. MELHORAR OS SISTEMAS DE SEGMENTAÇÃO.}
-{9122}{}{SISTEMA DE MODIFICAÇÃO CONCLUÍDO.}
-{9123}{}{SISTEMA DE MIRA RECALIBRADO. 20% DE AUMENTO NA PRECISÃO.}
-{9124}{}{DESEMPENHO IDEAL ALCANÇADO.}
+{9120}{}{ANÃLISE DE DADOS COMPLETA. ATUALIZANDO TODOS OS SISTEMAS.}
+{9121}{}{NOVOS DADOS COLETADOS. MELHORAR OS SISTEMAS DE SEGMENTAÃ‡ÃƒO.}
+{9122}{}{SISTEMA DE MODIFICAÃ‡ÃƒO CONCLUÃDO.}
+{9123}{}{SISTEMA DE MIRA RECALIBRADO. 20% DE AUMENTO NA PRECISÃƒO.}
+{9124}{}{DESEMPENHO IDEAL ALCANÃ‡ADO.}
 {9130}{}{Chefe! Acho que finalmente estou pegando o jeito disso.}
-{9131}{}{Na verdade, estou ficando cada vez melhor! Eu disse que não iria te decepcionar, chefe.}
-{9132}{}{Ei ... espere ... agora eu entendo. Eu não acho que eu estou apontando com precisão.}
-{9133}{}{Veja, chefe! Você pode ensinar a um cachorro velho novos truques!}
+{9131}{}{Na verdade, estou ficando cada vez melhor! Eu disse que nÃ£o iria te decepcionar, chefe.}
+{9132}{}{Ei ... espere ... agora eu entendo. Eu nÃ£o acho que eu estou apontando com precisÃ£o.}
+{9133}{}{Veja, chefe! VocÃª pode ensinar a um cachorro velho novos truques!}
 {9134}{}{Quer saber, chefe? Eu acho que eu realmente estou aprendendo uma coisa ou duas.}
 {9135}{}{Estou ficando muito bom nisso. Veja, chefe. Todas as coisas boas ficar melhor com o tempo.}
 {9140}{}{Eu aprendi algumas coisas novas!}
@@ -119,23 +119,23 @@
 {9210}{}{}
 {9220}{}{}
 {9230}{}{}
-{9240}{}{Iniciando a atualização do programa, Mestre ... Atualização completa.}
-{9241}{}{Instalação e atualização de software, Mestre ... Versão 2.0 instalado.}
-{9242}{}{Realizando modificações de hardware, Mestre ... Sistemas nominal.}
-{9243}{}{Realizando modificações de hardware, Mestre ... Sistemas ótimo!!}
+{9240}{}{Iniciando a atualizaÃ§Ã£o do programa, Mestre ... AtualizaÃ§Ã£o completa.}
+{9241}{}{InstalaÃ§Ã£o e atualizaÃ§Ã£o de software, Mestre ... VersÃ£o 2.0 instalado.}
+{9242}{}{Realizando modificaÃ§Ãµes de hardware, Mestre ... Sistemas nominal.}
+{9243}{}{Realizando modificaÃ§Ãµes de hardware, Mestre ... Sistemas Ã³timo!!}
 {9250}{}{}
-{9260}{}{Há mais do que uma maneira de esfolar um gato.}
+{9260}{}{HÃ¡ mais do que uma maneira de esfolar um gato.}
 {9261}{}{Quanto maior a altura, maior o tombo.}
 {9262}{}{Viver. Aprender. Evoluir.}
-{9263}{}{Eu ouço e esqueço; Eu vejo e me lembro; Eu faço e entendo.}
+{9263}{}{Eu ouÃ§o e esqueÃ§o; Eu vejo e me lembro; Eu faÃ§o e entendo.}
 {9264}{}{Eu * sou * o Nove.}
-{9270}{}{Você sabe, acho que estou começando a me recuperar de que toda essa coisa congelada.}
+{9270}{}{VocÃª sabe, acho que estou comeÃ§ando a me recuperar de que toda essa coisa congelada.}
 {9271}{}{Ahh ... sim. Eu posso sentir a velha magia voltando para mim agora.}
-{9272}{}{Eu não quero estragar a sua mente, mas ficou ainda melhor.}
+{9272}{}{Eu nÃ£o quero estragar a sua mente, mas ficou ainda melhor.}
 {9273}{}{Yuhuuu, acabei de me tornar perfeito. Agora vamos encontrar algumas prostitutas para que possamos comemorar.}
-{9274}{}{Parece que eu já ultrapassei a perfeição. Se alguém era capaz disso, esse alguem sou eu.}
-{9280}{}{O gato está de volta!}
-{9281}{}{Os meus olhos estão me pregando peças ou a minha bunda parece melhor do que nunca?}
-{9282}{}{Meus sentidos do gato estão formigando!}
-{9283}{}{Se ao menos eu tivesse um pouco de peixe para sentir esta experiência.}
-{9284}{}{Este gato não pode ser detido!}
+{9274}{}{Parece que eu jÃ¡ ultrapassei a perfeiÃ§Ã£o. Se alguÃ©m era capaz disso, esse alguem sou eu.}
+{9280}{}{O gato estÃ¡ de volta!}
+{9281}{}{Os meus olhos estÃ£o me pregando peÃ§as ou a minha bunda parece melhor do que nunca?}
+{9282}{}{Meus sentidos do gato estÃ£o formigando!}
+{9283}{}{Se ao menos eu tivesse um pouco de peixe para sentir esta experiÃªncia.}
+{9284}{}{Este gato nÃ£o pode ser detido!}

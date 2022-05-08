@@ -1,11 +1,11 @@
-{100}{}{Stwory przysz³y z pó³nocnego wschodu. Na pewno mo¿na pójœæ ich œladem do gniazda. (Udaj siê w kierunku pó³nocno-wschodnim.)}
-{101}{}{Jaj, ale to nudne. Mam nadziejê, ¿e coœ siê wreszcie wydarzy.}
-{102}{}{Robi siê póŸno...}
+{100}{}{Stwory przyszÅ‚y z pÃ³Å‚nocnego wschodu. Na pewno moÅ¼na pÃ³jÅ›Ä‡ ich Å›ladem do gniazda. (Udaj siÄ™ w kierunku pÃ³Å‚nocno-wschodnim.)}
+{101}{}{Jaj, ale to nudne. Mam nadziejÄ™, Å¼e coÅ› siÄ™ wreszcie wydarzy.}
+{102}{}{Robi siÄ™ pÃ³Åºno...}
 {103}{}{Hmmm, to nudne.}
 {104}{}{Chrrr... Chrr... He? Coo...?}
-{105}{}{Patrz - cz³owiek pilnuje bramin.}
-{106}{}{Gruthar mówi my iœæ. My nie krzywdziæ cz³owiek.}
+{105}{}{Patrz - czÅ‚owiek pilnuje bramin.}
+{106}{}{Gruthar mÃ³wi my iÅ›Ä‡. My nie krzywdziÄ‡ czÅ‚owiek.}
 {107}{}{Patrz. To}
-{108}{}{. My iœæ.}
-{109}{}{To dziwne. Z³e gadaj¹?}
-{110}{}{Gadaj¹ce szpony œmierci? Bardzo dziwne...}
+{108}{}{. My iÅ›Ä‡.}
+{109}{}{To dziwne. ZÅ‚e gadajÄ…?}
+{110}{}{GadajÄ…ce szpony Å›mierci? Bardzo dziwne...}

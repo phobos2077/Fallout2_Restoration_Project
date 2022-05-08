@@ -1,67 +1,67 @@
-{100}{}{Egy rongyos öltözet?, de becsületes kép? farmert látsz.}
+{100}{}{Egy rongyos Ã¶ltÃ¶zet?, de becsÃ¼letes kÃ©p? farmert lÃ¡tsz.}
 {101}{}{? Smith.}
-{102}{}{Asszem, magát még nöm láttam mifelénk. Smith vagyok. Segíccsek?}
-{103}{}{Segíccsek?}
-{104}{}{Tudna mesélni Menedékvárosról?}
-{105}{}{Mit csinál itt, jóember?}
-{106}{}{A Menedéket keresem.}
-{107}{}{Szeretnék segíteni magukon.}
-{108}{}{A felesége mesélte, hogy nehezen boldogulnak.}
-{109}{}{Nem, köszönöm, csak átutazóban vagyok. Viszlát!}
-{110}{}{Öh... Néza Nu-kik?}
-{111}{}{Amit ittön lát, az még nöm a Menedíkváros ... ez ittön még csak az El?város.}
-{112}{}{Miért nem élnek a városban?}
-{113}{}{Mi a munkád?}
-{114}{}{Kérdezhetek valami mást?}
-{115}{}{Kösz. Viszlát!}
-{116}{}{Az asszonnya' túrjuk a f?'det. Megélünk bel?le, de nem tudni möddig.}
-{117}{}{Mi a probléma?}
-{118}{}{Miért nem élnek a városban?}
-{119}{}{Kérdezhetek valami mást?}
-{120}{}{Hát igen, nehéz id?k járnak. Viszlát!}
-{121}{}{Lássa, így van öz. Mosmá' mönnöm köll.}
-{122}{}{A városi Menedíket monggya? Csak ecc? láttam ... a kapun tú' van a sziklába vájva. De csak Pó'gárok möhetnek oda.}
-{123}{}{Kérdezhetek valami mást?}
-{124}{}{Köszönöm a segítséget, bátyám. Viszlát!}
-{125}{}{Mink nöm mehetünk bé oda, így csak itten kint é'degélünk a véde'mük alatt.}
-{126}{}{Miért nem mehetnek a városba?}
-{127}{}{Védelem? Miféle védelem?}
-{128}{}{Kérdezhetek valami mást?}
-{129}{}{Értem. Köszönöm a segítséget. Viszlát!}
-{130}{}{Hááát... egy ekére vágyunk, ha mán így kérdözte. Láthassa, kemény a f?'d az ásónak.}
-{131}{}{Miben segíthetek?}
-{132}{}{Kérdezhetek valami mást?}
-{133}{}{Sajnálattal hallom. Viszlát!}
+{102}{}{Asszem, magÃ¡t mÃ©g nÃ¶m lÃ¡ttam mifelÃ©nk. Smith vagyok. SegÃ­ccsek?}
+{103}{}{SegÃ­ccsek?}
+{104}{}{Tudna mesÃ©lni MenedÃ©kvÃ¡rosrÃ³l?}
+{105}{}{Mit csinÃ¡l itt, jÃ³ember?}
+{106}{}{A MenedÃ©ket keresem.}
+{107}{}{SzeretnÃ©k segÃ­teni magukon.}
+{108}{}{A felesÃ©ge mesÃ©lte, hogy nehezen boldogulnak.}
+{109}{}{Nem, kÃ¶szÃ¶nÃ¶m, csak Ã¡tutazÃ³ban vagyok. ViszlÃ¡t!}
+{110}{}{Ã–h... NÃ©za Nu-kik?}
+{111}{}{Amit ittÃ¶n lÃ¡t, az mÃ©g nÃ¶m a MenedÃ­kvÃ¡ros ... ez ittÃ¶n mÃ©g csak az El?vÃ¡ros.}
+{112}{}{MiÃ©rt nem Ã©lnek a vÃ¡rosban?}
+{113}{}{Mi a munkÃ¡d?}
+{114}{}{KÃ©rdezhetek valami mÃ¡st?}
+{115}{}{KÃ¶sz. ViszlÃ¡t!}
+{116}{}{Az asszonnya' tÃºrjuk a f?'det. MegÃ©lÃ¼nk bel?le, de nem tudni mÃ¶ddig.}
+{117}{}{Mi a problÃ©ma?}
+{118}{}{MiÃ©rt nem Ã©lnek a vÃ¡rosban?}
+{119}{}{KÃ©rdezhetek valami mÃ¡st?}
+{120}{}{HÃ¡t igen, nehÃ©z id?k jÃ¡rnak. ViszlÃ¡t!}
+{121}{}{LÃ¡ssa, Ã­gy van Ã¶z. MosmÃ¡' mÃ¶nnÃ¶m kÃ¶ll.}
+{122}{}{A vÃ¡rosi MenedÃ­ket monggya? Csak ecc? lÃ¡ttam ... a kapun tÃº' van a sziklÃ¡ba vÃ¡jva. De csak PÃ³'gÃ¡rok mÃ¶hetnek oda.}
+{123}{}{KÃ©rdezhetek valami mÃ¡st?}
+{124}{}{KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get, bÃ¡tyÃ¡m. ViszlÃ¡t!}
+{125}{}{Mink nÃ¶m mehetÃ¼nk bÃ© oda, Ã­gy csak itten kint Ã©'degÃ©lÃ¼nk a vÃ©de'mÃ¼k alatt.}
+{126}{}{MiÃ©rt nem mehetnek a vÃ¡rosba?}
+{127}{}{VÃ©delem? MifÃ©le vÃ©delem?}
+{128}{}{KÃ©rdezhetek valami mÃ¡st?}
+{129}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get. ViszlÃ¡t!}
+{130}{}{HÃ¡Ã¡Ã¡t... egy ekÃ©re vÃ¡gyunk, ha mÃ¡n Ã­gy kÃ©rdÃ¶zte. LÃ¡thassa, kemÃ©ny a f?'d az Ã¡sÃ³nak.}
+{131}{}{Miben segÃ­thetek?}
+{132}{}{KÃ©rdezhetek valami mÃ¡st?}
+{133}{}{SajnÃ¡lattal hallom. ViszlÃ¡t!}
 {134}{}{Hogyne.}
-{135}{}{Mink is a pusztábó' gyüttünk, aká' csak maga. A magunkfajtának nöm jár más csak védölöm.}
-{136}{}{Védelem? Mit?l?}
-{137}{}{Kérdezhetek valami mást?}
-{138}{}{Kösz. Viszlát!}
-{139}{}{Mögvédenek minköt a haramiáktó', de azé mög fizetni köll. Eke né'k?' nöhéz összehozni a napi falás kenyöröt.}
-{140}{}{És ha szereznék maguknak egy ekét?}
-{141}{}{Kérdezhetek valami mást?}
-{142}{}{Sajnálattal hallom. Viszlát!}
-{143}{}{Én meg az asszony nem álhassuk a magadfajtákat.}
-{144}{}{Mary, maradj távol ett?' az embert?'!}
-{145}{}{Aszt ill? mód mögköszönnénk, de pízt nem adhatunk. Tudja, minékünk sincsön.}
-{146}{}{Ácsi! Ha nincs pénz, nincs segítség!}
-{147}{}{Nem gond, szívesen segítek.}
-{148}{}{Kérdezhetek valami mást?}
-{149}{}{Ezt még át kell gondolnom. Viszlát!}
-{150}{}{Van egy kis pízünk, de nöm sok. Aszongya... [markába rakosgatja az érméket]... ötszáz ezör... nöm, ez csak egy ötös... száz... nöm... tíz... [5 perccel kés?bb] ...Na, lássa, csak százötven, ha jól olvasom. }
-{151}{}{Rendben van, azt akár ide is adhatja!}
-{152}{}{Ne aggódjon a pénz miatt. Mindenképp segítek.}
-{153}{}{Sajnálom, meggondoltam magam. Viszlát!}
-{154}{}{Aszondom... á'dja mög magát a Jóistön.}
-{155}{}{Hol találok egy ekét?}
-{156}{}{Bó'dog Harry bó'tjába mögnézte mán?}
-{157}{}{Még nem, de már megyek is.}
-{158}{}{Mögszerezte?}
-{159}{}{Sajnálom, még nem.}
+{135}{}{Mink is a pusztÃ¡bÃ³' gyÃ¼ttÃ¼nk, akÃ¡' csak maga. A magunkfajtÃ¡nak nÃ¶m jÃ¡r mÃ¡s csak vÃ©dÃ¶lÃ¶m.}
+{136}{}{VÃ©delem? Mit?l?}
+{137}{}{KÃ©rdezhetek valami mÃ¡st?}
+{138}{}{KÃ¶sz. ViszlÃ¡t!}
+{139}{}{MÃ¶gvÃ©denek minkÃ¶t a haramiÃ¡ktÃ³', de azÃ© mÃ¶g fizetni kÃ¶ll. Eke nÃ©'k?' nÃ¶hÃ©z Ã¶sszehozni a napi falÃ¡s kenyÃ¶rÃ¶t.}
+{140}{}{Ã‰s ha szereznÃ©k maguknak egy ekÃ©t?}
+{141}{}{KÃ©rdezhetek valami mÃ¡st?}
+{142}{}{SajnÃ¡lattal hallom. ViszlÃ¡t!}
+{143}{}{Ã‰n meg az asszony nem Ã¡lhassuk a magadfajtÃ¡kat.}
+{144}{}{Mary, maradj tÃ¡vol ett?' az embert?'!}
+{145}{}{Aszt ill? mÃ³d mÃ¶gkÃ¶szÃ¶nnÃ©nk, de pÃ­zt nem adhatunk. Tudja, minÃ©kÃ¼nk sincsÃ¶n.}
+{146}{}{Ãcsi! Ha nincs pÃ©nz, nincs segÃ­tsÃ©g!}
+{147}{}{Nem gond, szÃ­vesen segÃ­tek.}
+{148}{}{KÃ©rdezhetek valami mÃ¡st?}
+{149}{}{Ezt mÃ©g Ã¡t kell gondolnom. ViszlÃ¡t!}
+{150}{}{Van egy kis pÃ­zÃ¼nk, de nÃ¶m sok. Aszongya... [markÃ¡ba rakosgatja az Ã©rmÃ©ket]... Ã¶tszÃ¡z ezÃ¶r... nÃ¶m, ez csak egy Ã¶tÃ¶s... szÃ¡z... nÃ¶m... tÃ­z... [5 perccel kÃ©s?bb] ...Na, lÃ¡ssa, csak szÃ¡zÃ¶tven, ha jÃ³l olvasom. }
+{151}{}{Rendben van, azt akÃ¡r ide is adhatja!}
+{152}{}{Ne aggÃ³djon a pÃ©nz miatt. MindenkÃ©pp segÃ­tek.}
+{153}{}{SajnÃ¡lom, meggondoltam magam. ViszlÃ¡t!}
+{154}{}{Aszondom... Ã¡'dja mÃ¶g magÃ¡t a JÃ³istÃ¶n.}
+{155}{}{Hol talÃ¡lok egy ekÃ©t?}
+{156}{}{BÃ³'dog Harry bÃ³'tjÃ¡ba mÃ¶gnÃ©zte mÃ¡n?}
+{157}{}{MÃ©g nem, de mÃ¡r megyek is.}
+{158}{}{MÃ¶gszerezte?}
+{159}{}{SajnÃ¡lom, mÃ©g nem.}
 {160}{}{Nem hiszem, hogy menni fog a dolog.}
-{161}{}{Mögpróbáljuk kihúzni né'küle még egy kicsit, de mán fogytán a könyér.}
-{162}{}{Apám aszt mondta néköm, vigyázzak a magafajtákkal. Mennyen innön! Haggyon békibe!}
-{163}{}{A Jóisten segíccse magát! Itten van ez a... flinta, még az apám adta néköm, nyugoggyon békibe... talán maga még hasznát lássa.}
-{164}{}{Köszönöm szépen. Biztos jól jön majd. Vigyázok rá.}
-{165}{}{Köszönjük magának, és á'dja meg az Istön!}
-{166}{}{Szereztél egy ekét a Smith családnak.}
+{161}{}{MÃ¶gprÃ³bÃ¡ljuk kihÃºzni nÃ©'kÃ¼le mÃ©g egy kicsit, de mÃ¡n fogytÃ¡n a kÃ¶nyÃ©r.}
+{162}{}{ApÃ¡m aszt mondta nÃ©kÃ¶m, vigyÃ¡zzak a magafajtÃ¡kkal. Mennyen innÃ¶n! Haggyon bÃ©kibe!}
+{163}{}{A JÃ³isten segÃ­ccse magÃ¡t! Itten van ez a... flinta, mÃ©g az apÃ¡m adta nÃ©kÃ¶m, nyugoggyon bÃ©kibe... talÃ¡n maga mÃ©g hasznÃ¡t lÃ¡ssa.}
+{164}{}{KÃ¶szÃ¶nÃ¶m szÃ©pen. Biztos jÃ³l jÃ¶n majd. VigyÃ¡zok rÃ¡.}
+{165}{}{KÃ¶szÃ¶njÃ¼k magÃ¡nak, Ã©s Ã¡'dja meg az IstÃ¶n!}
+{166}{}{SzereztÃ©l egy ekÃ©t a Smith csalÃ¡dnak.}

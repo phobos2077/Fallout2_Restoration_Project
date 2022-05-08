@@ -1,84 +1,84 @@
 {100}{}{Ves a un cocinero.}
 {101}{}{Ves a Cookie, el cocinero.}
 {102}{}{Ves a un hombre que lleva armadura, un gorro de chef y un delantal.}
-{103}{}{Eh, soldado. ¿Estás buscando algo de papeo o sólo quieres charlar?}
-{104}{}{¡Cooooomer!}
+{103}{}{Eh, soldado. Â¿EstÃ¡s buscando algo de papeo o sÃ³lo quieres charlar?}
+{104}{}{Â¡Cooooomer!}
 {105}{}{Yo hablo.}
-{106}{}{Podría comer algo.}
+{106}{}{PodrÃ­a comer algo.}
 {107}{}{Vamos a charlar un rato.}
-{108}{}{Bien, vamos allá. Tengo algo de la clásica bazofia, 'mierda sobre tablilla'. La nieve y la mierda de mosca se han acabado. ¿Algo más?}
-{109}{}{¿Qué quieres que como?}
-{110}{}{¿Mierda de mosca? ¿Qué coño de comida es esta?}
-{111}{}{Lo siento, debes ser nueva en el ejército. No te ofendas, sólo es la forma en la que lo llamamos aquí. La 'mierda sobre tablilla' es ternera ahumada con pan tostado. La nieve y la mierda de mosca son sal y pimienta.}
-{112}{}{Oh... eso sabe más mejor que mierda. Hablamos mientras comer.}
+{108}{}{Bien, vamos allÃ¡. Tengo algo de la clÃ¡sica bazofia, 'mierda sobre tablilla'. La nieve y la mierda de mosca se han acabado. Â¿Algo mÃ¡s?}
+{109}{}{Â¿QuÃ© quieres que como?}
+{110}{}{Â¿Mierda de mosca? Â¿QuÃ© coÃ±o de comida es esta?}
+{111}{}{Lo siento, debes ser nueva en el ejÃ©rcito. No te ofendas, sÃ³lo es la forma en la que lo llamamos aquÃ­. La 'mierda sobre tablilla' es ternera ahumada con pan tostado. La nieve y la mierda de mosca son sal y pimienta.}
+{112}{}{Oh... eso sabe mÃ¡s mejor que mierda. Hablamos mientras comer.}
 {113}{}{Ah, vale, lo siento. Charlemos un poco mientras como.}
-{114}{}{¿De qué quieres hablar?}
-{115}{}{¿Qué hay aquí?}
-{116}{}{¿Dónde planos vertibird?}
-{118}{}{¿Dónde es base de Enclave?}
+{114}{}{Â¿De quÃ© quieres hablar?}
+{115}{}{Â¿QuÃ© hay aquÃ­?}
+{116}{}{Â¿DÃ³nde planos vertibird?}
+{118}{}{Â¿DÃ³nde es base de Enclave?}
 {119}{}{Gracias. Vuelvo a puesto de yo.}
-{120}{}{¿Qué está pasando aquí?}
-{121}{}{Me interesan los vertibird. Si quisiera echar un vistazo a los planos, ¿dónde podría encontrarlos?}
-{123}{}{¿Dónde está la base principal del Enclave?}
+{120}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{121}{}{Me interesan los vertibird. Si quisiera echar un vistazo a los planos, Â¿dÃ³nde podrÃ­a encontrarlos?}
+{123}{}{Â¿DÃ³nde estÃ¡ la base principal del Enclave?}
 {124}{}{Gracias. Tengo que volver a mi puesto.}
-{125}{}{¿Buscas algo de cotilleo, ¿eh? Te puedo hablar de lo último que hay por mantenimiento, en el laboratorio médico o entre los reclutas.}
-{126}{}{¿Qué quieres oír?}
-{127}{}{¿Mantenimiento?}
-{128}{}{¿Laboratorio?}
-{129}{}{¿Reclutas?}
-{130}{}{¿Algo más?}
+{125}{}{Â¿Buscas algo de cotilleo, Â¿eh? Te puedo hablar de lo Ãºltimo que hay por mantenimiento, en el laboratorio mÃ©dico o entre los reclutas.}
+{126}{}{Â¿QuÃ© quieres oÃ­r?}
+{127}{}{Â¿Mantenimiento?}
+{128}{}{Â¿Laboratorio?}
+{129}{}{Â¿Reclutas?}
+{130}{}{Â¿Algo mÃ¡s?}
 {131}{}{Suficiente.}
-{132}{}{¿Qué ocurre en mantenimiento?}
-{133}{}{¿Qué me puedes contar del laboratorio médico?}
-{134}{}{¿Que pasa con los reclutas?}
-{135}{}{¿Ocurre algo más?}
-{136}{}{Ya he oído suficiente, creo.}
-{137}{}{A Raúl, el mecánico de los vertibird, no le gusta Quincy, el jefe de mantenimiento. Esos dos siempre están de bronca y no creo que sea un caso de rivalidad profesional. De todos modos, Raúl es un idiota arrogante pero Quincy es un tío majo. Espero que gane él al final.}
+{132}{}{Â¿QuÃ© ocurre en mantenimiento?}
+{133}{}{Â¿QuÃ© me puedes contar del laboratorio mÃ©dico?}
+{134}{}{Â¿Que pasa con los reclutas?}
+{135}{}{Â¿Ocurre algo mÃ¡s?}
+{136}{}{Ya he oÃ­do suficiente, creo.}
+{137}{}{A RaÃºl, el mecÃ¡nico de los vertibird, no le gusta Quincy, el jefe de mantenimiento. Esos dos siempre estÃ¡n de bronca y no creo que sea un caso de rivalidad profesional. De todos modos, RaÃºl es un idiota arrogante pero Quincy es un tÃ­o majo. Espero que gane Ã©l al final.}
 {138}{}{Vale.}
-{139}{}{Sí, te escucho.}
-{140}{}{El laboratorio médico ha sido ocupado por un cerebrín del Enclave llamado Schreber. Maldito hijo de puta; no le importa nada ni nadie. Ha estado haciendo alguna clase de experimentos con Garras mortales ahí abajo, pero no sé exactamente el qué. Eso sí, estaba haciendo toda clase de ruidos hasta que el comandante ordenó que insonorizaran la habitación.}
+{139}{}{SÃ­, te escucho.}
+{140}{}{El laboratorio mÃ©dico ha sido ocupado por un cerebrÃ­n del Enclave llamado Schreber. Maldito hijo de puta; no le importa nada ni nadie. Ha estado haciendo alguna clase de experimentos con Garras mortales ahÃ­ abajo, pero no sÃ© exactamente el quÃ©. Eso sÃ­, estaba haciendo toda clase de ruidos hasta que el comandante ordenÃ³ que insonorizaran la habitaciÃ³n.}
 {141}{}{Entendido.}
 {142}{}{Interesante.}
-{143}{}{¡Ja! Hablamos de amor, amiga. Parece que uno de los frikis de los ordenadores está coladito por una de las reclutas, la guardia del laboratorio médico. Incluso tiene uno de esos nombres cursis para ella. La llama su "Caramelito".}
-{144}{}{Qué cursi.}
-{145}{}{No, eso es todo. Si oigo algo ya te lo contaré. ¡Me gusta tanto hablar de ello como que me lo cuenten!}
+{143}{}{Â¡Ja! Hablamos de amor, amiga. Parece que uno de los frikis de los ordenadores estÃ¡ coladito por una de las reclutas, la guardia del laboratorio mÃ©dico. Incluso tiene uno de esos nombres cursis para ella. La llama su "Caramelito".}
+{144}{}{QuÃ© cursi.}
+{145}{}{No, eso es todo. Si oigo algo ya te lo contarÃ©. Â¡Me gusta tanto hablar de ello como que me lo cuenten!}
 {146}{}{Gracias.}
-{147}{}{¿Por qué estás interesado en eso? Oh bueno, no importa, Quincy los guarda en mantenimiento, creo.}
+{147}{}{Â¿Por quÃ© estÃ¡s interesado en eso? Oh bueno, no importa, Quincy los guarda en mantenimiento, creo.}
 {148}{}{Vale.}
-{149}{}{¿Dónde?}
+{149}{}{Â¿DÃ³nde?}
 {150}{}{Ya veo.}
-{151}{}{¿Dónde?}
-{152}{}{En la esquina nordeste de la base, amiga. No tiene pérdida.}
+{151}{}{Â¿DÃ³nde?}
+{152}{}{En la esquina nordeste de la base, amiga. No tiene pÃ©rdida.}
 {153}{}{De acuerdo. Gracias.}
-{156}{}{Me sorprende que no lo sepas, debes de ser una local, supongo. De todas formas, la base principal está en mitad del maldito océano. Bueno, no justo en el medio, pero podría estarlo. La única manera de llegar allí es con barco o un vertibird, y el maldito barco está a medio arreglar. Y necesitas un FOB para operar ese maldito cacharro.}
-{157}{}{¿FOB?}
-{158}{}{Sí, es una tarjeta de acceso. El comandante la guarda en su oficina. Sin ella no se puede acceder a algunas zonas del barco e impide que los locales de San Fran nos hagan alguna visita inesperada.}
+{156}{}{Me sorprende que no lo sepas, debes de ser una local, supongo. De todas formas, la base principal estÃ¡ en mitad del maldito ocÃ©ano. Bueno, no justo en el medio, pero podrÃ­a estarlo. La Ãºnica manera de llegar allÃ­ es con barco o un vertibird, y el maldito barco estÃ¡ a medio arreglar. Y necesitas un FOB para operar ese maldito cacharro.}
+{157}{}{Â¿FOB?}
+{158}{}{SÃ­, es una tarjeta de acceso. El comandante la guarda en su oficina. Sin ella no se puede acceder a algunas zonas del barco e impide que los locales de San Fran nos hagan alguna visita inesperada.}
 {159}{}{Buena idea.}
-{160}{}{¿Dónde es oficina de comandante?}
+{160}{}{Â¿DÃ³nde es oficina de comandante?}
 {161}{}{Es una idea muy buena.}
-{162}{}{Así que, ¿dónde está la oficina del comandante?}
-{163}{}{Toma el ascensor de la siguiente habitación, sigue el pasillo hasta el cruce principal y ve recto.}
+{162}{}{AsÃ­ que, Â¿dÃ³nde estÃ¡ la oficina del comandante?}
+{163}{}{Toma el ascensor de la siguiente habitaciÃ³n, sigue el pasillo hasta el cruce principal y ve recto.}
 {164}{}{Gracias.}
-{165}{}{Eh, soldado. Me alegro de volver a verte. ¿Papeo o charla?}
+{165}{}{Eh, soldado. Me alegro de volver a verte. Â¿Papeo o charla?}
 {166}{}{Comida.}
 {167}{}{Charla.}
 {168}{}{Solo digo hola.}
-{169}{}{Ninguna, sólo venía a saludar.}
-{170}{}{Aquí está. Está muerto, está cocido, está irreconocible. Disfruta.}
+{169}{}{Ninguna, sÃ³lo venÃ­a a saludar.}
+{170}{}{AquÃ­ estÃ¡. EstÃ¡ muerto, estÃ¡ cocido, estÃ¡ irreconocible. Disfruta.}
 {171}{}{Eh... Gracias.}
-{172}{}{Hija, puedo decirte por el olor que no estás llevando una de esas servoarmaduras. Como el Sargento te pille estás jodido. Y no hablo de la jodienda que da gustito. Ve cagando leches a intendencia y vístete.}
-{173}{}{Señorita, puedo decirte por el olor que no llevas una de esas servoarmaduras. Si el Sargento te pilla estás jodida. Y no hablo de ese tipo de jodienda. Ve cagando leches a intendencia y vístete.}
-{174}{}{¿Dónde?}
+{172}{}{Hija, puedo decirte por el olor que no estÃ¡s llevando una de esas servoarmaduras. Como el Sargento te pille estÃ¡s jodido. Y no hablo de la jodienda que da gustito. Ve cagando leches a intendencia y vÃ­stete.}
+{173}{}{SeÃ±orita, puedo decirte por el olor que no llevas una de esas servoarmaduras. Si el Sargento te pilla estÃ¡s jodida. Y no hablo de ese tipo de jodienda. Ve cagando leches a intendencia y vÃ­stete.}
+{174}{}{Â¿DÃ³nde?}
 {175}{}{Vale.}
-{176}{}{¿Dónde?}
-{177}{}{Me ocuparé de ello.}
-{178}{}{Toma el ascensor de la siguiente habitación, sigue el pasillo hasta el cruce principal, gira a la izquierda, y es la primera puerta a la izquierda. Ahí está.}
+{176}{}{Â¿DÃ³nde?}
+{177}{}{Me ocuparÃ© de ello.}
+{178}{}{Toma el ascensor de la siguiente habitaciÃ³n, sigue el pasillo hasta el cruce principal, gira a la izquierda, y es la primera puerta a la izquierda. AhÃ­ estÃ¡.}
 {179}{}{Gracias.}
-{180}{}{¡Mierda! Sólo soy un cocinero... y uno ciego. No he visto a ningún intruso venir por aquí.}
+{180}{}{Â¡Mierda! SÃ³lo soy un cocinero... y uno ciego. No he visto a ningÃºn intruso venir por aquÃ­.}
 {181}{}{Gracias.}
 {182}{}{Malditas alarmas. Siempre hay jaleo cuando se apagan.}
-{183}{}{¿Qué demonios ocurre esta vez?}
-{184}{}{Ojalá usáramos unas putas alarmas silenciosas, esas malditas cosas me dan dolor de cabeza.}
-{185}{}{Te voy a freír el culo y servirlo en un plato.}
-{186}{}{Estás metido en un buen lío. ¡Ja!}
+{183}{}{Â¿QuÃ© demonios ocurre esta vez?}
+{184}{}{OjalÃ¡ usÃ¡ramos unas putas alarmas silenciosas, esas malditas cosas me dan dolor de cabeza.}
+{185}{}{Te voy a freÃ­r el culo y servirlo en un plato.}
+{186}{}{EstÃ¡s metido en un buen lÃ­o. Â¡Ja!}
 {187}{}{De las brasas directo al fuego.}

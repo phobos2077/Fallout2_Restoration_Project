@@ -1,252 +1,252 @@
 {100}{}{Widzisz bardzo niskiego, starego ghula.}
 {101}{}{Widzisz Lenny'ego, asystenta Harolda.}
-{102}{}{Widzisz niskiego, starszego ghula. Zdaje siê byæ bardzo zajêty.}
-{110}{}{Witaj, nazywam siê Lenny. W czym m-mogê ci p-pomóc?}
-{111}{}{Witaj z-znowu. W czym m-mogê ci pomóc?}
-{112}{}{Podobno jesteœ p-potomkiem Przybysza z Krypty. Wiesz, kiedyœ o-osobiœcie spotka³em Przybysza z Krypty.}
-{113}{}{Witaj. A¿ t-trudno uwie¿yæ, j-jak bardzo przypominasz P-przybysza z Krypty. C-co mogê d-dla ciebie zrobiæ?}
+{102}{}{Widzisz niskiego, starszego ghula. Zdaje siÄ™ byÄ‡ bardzo zajÄ™ty.}
+{110}{}{Witaj, nazywam siÄ™ Lenny. W czym m-mogÄ™ ci p-pomÃ³c?}
+{111}{}{Witaj z-znowu. W czym m-mogÄ™ ci pomÃ³c?}
+{112}{}{Podobno jesteÅ› p-potomkiem Przybysza z Krypty. Wiesz, kiedyÅ› o-osobiÅ›cie spotkaÅ‚em Przybysza z Krypty.}
+{113}{}{Witaj. AÅ¼ t-trudno uwieÅ¼yÄ‡, j-jak bardzo przypominasz P-przybysza z Krypty. C-co mogÄ™ d-dla ciebie zrobiÄ‡?}
 {114}{}{Lemmy? Halo.}
-{115}{}{Czym siê tutaj zajmujesz?}
-{116}{}{Jestem ranny. Mo¿esz mi pomóc?}
-{117}{}{Jeden z moich przyjació³ jest ranny. Mo¿esz nam pomóc?}
-{118}{}{Moi przyjaciele s¹ ranni. Mo¿esz im pomóc?}
-{119}{}{Lenny, s³ysza³eœ mo¿e o urz¹dzeniu zwanym Generatorem Ekosystemu Cudownej Krainy?}
-{120}{}{Spotka³eœ mojego przodka?}
-{121}{}{Tylko siê rozgl¹dam. Do widzenia.}
-{122}{}{Znasz siê na leczeniu?}
+{115}{}{Czym siÄ™ tutaj zajmujesz?}
+{116}{}{Jestem ranny. MoÅ¼esz mi pomÃ³c?}
+{117}{}{Jeden z moich przyjaciÃ³Å‚ jest ranny. MoÅ¼esz nam pomÃ³c?}
+{118}{}{Moi przyjaciele sÄ… ranni. MoÅ¼esz im pomÃ³c?}
+{119}{}{Lenny, sÅ‚yszaÅ‚eÅ› moÅ¼e o urzÄ…dzeniu zwanym Generatorem Ekosystemu Cudownej Krainy?}
+{120}{}{SpotkaÅ‚eÅ› mojego przodka?}
+{121}{}{Tylko siÄ™ rozglÄ…dam. Do widzenia.}
+{122}{}{Znasz siÄ™ na leczeniu?}
 {125}{}{Tak. Czego potrzebujesz?}
-{126}{}{Chwilowo chyba niczego nie potrzebujê.}
+{126}{}{Chwilowo chyba niczego nie potrzebujÄ™.}
 {130}{}{W-wracaj l-lepiej do swojej w-wioski.}
 {131}{}{Domciu? Pa.}
 {140}{}{W-wracaj lepiej d-do domu.}
 {141}{}{N-nie mam teraz d-dla ciebie czasu.}
-{142}{}{Œ-sio. IdŸ sobie!}
-{150}{}{G-generator Ekos-systemu C-cudownej Krainy? Podobno w Kryptopolis mieli kiedyœ takie urz¹dzenie. O innym niestety nie s³ysza³em.}
-{151}{}{Jestem ranny. Mo¿esz mi pomóc?}
-{152}{}{Jeden z moich przyjació³ jest ranny. Mo¿esz nam pomóc?}
-{153}{}{Có¿, mój przodek - Przybysz z Krypty, powiedzia³, ¿e nale¿y siê nam jeden z Krypty 13. W³aœnie próbujê j¹ znaleŸæ.}
-{154}{}{To ju¿ chyba wszystko, co chcê wiedzieæ. ¯egnaj.}
-{160}{}{C-có¿, zwykle pomagam H-haroldowi. Jeœli k-komuœ stanie siê krzywda, p-pomagam mu dojœæ do siebie.}
+{142}{}{Åš-sio. IdÅº sobie!}
+{150}{}{G-generator Ekos-systemu C-cudownej Krainy? Podobno w Kryptopolis mieli kiedyÅ› takie urzÄ…dzenie. O innym niestety nie sÅ‚yszaÅ‚em.}
+{151}{}{Jestem ranny. MoÅ¼esz mi pomÃ³c?}
+{152}{}{Jeden z moich przyjaciÃ³Å‚ jest ranny. MoÅ¼esz nam pomÃ³c?}
+{153}{}{CÃ³Å¼, mÃ³j przodek - Przybysz z Krypty, powiedziaÅ‚, Å¼e naleÅ¼y siÄ™ nam jeden z Krypty 13. WÅ‚aÅ›nie prÃ³bujÄ™ jÄ… znaleÅºÄ‡.}
+{154}{}{To juÅ¼ chyba wszystko, co chcÄ™ wiedzieÄ‡. Å»egnaj.}
+{160}{}{C-cÃ³Å¼, zwykle pomagam H-haroldowi. JeÅ›li k-komuÅ› stanie siÄ™ krzywda, p-pomagam mu dojÅ›Ä‡ do siebie.}
 {161}{}{W czym pomagasz Haroldowi?}
-{162}{}{Pozwól, ¿e zapytam o coœ innego.}
-{163}{}{Jesteœ lekarzem?}
-{164}{}{Jestem ranny. Mo¿esz mi pomóc?}
-{165}{}{Jeden z moich przyjació³ jest ranny. Mo¿esz nam pomóc?}
-{166}{}{Postaram siê o tym pamiêtaæ. Dziêki. Do widzenia.}
-{170}{}{Pozwól, ¿e rzucê okiem. Chyba m-mogê ci pomóc.}
-{171}{}{Ile mnie to bêdzie kosztowa³o?}
-{172}{}{Dziêki, Lenny. Mogê ciê jeszcze o coœ zapytaæ?}
-{173}{}{Dziêki, Lenny. Do widzenia.}
-{174}{}{P-pomogê ci, ale bêdzie ciê to kosztowa³o $30. T-to za lekarstwa.}
-{175}{}{Chyba chwilowo nie potrzebujê pomocy. Do widzenia.}
-{180}{}{Có¿, twojemu przyjacielowi p-przyda siê fachowa opieka. M-mogê pomóc.}
-{181}{}{Widzê, ¿e mieliœcie nie lada k-k³opoty, ale mogê wam p-pomóc.}
-{182}{}{Ile mnie to bêdzie kosztowa³o?}
-{183}{}{Dziêki, Lenny. Chcê ciê o coœ zapytaæ.}
-{184}{}{Dziêki, Lenny. Do widzenia.}
-{185}{}{Leczenie ko-osztuje $30. Potrzebujê pieniêdzy n-na lekarstwa.}
-{186}{}{W co wyœcie siê wp-pakowali? Wygl¹da na to, ¿e bez p-pomocy lekarza siê nie obêdzie. Leczenie wszystkich bêdzie was k-kosztowa³o $60.}
-{187}{}{Jak na mój gust, to nic mu nie jest.}
-{190}{}{Nie spotka³em Przybysza z Krypty o-osobiœcie, ale g-go w-widzia³em.}
-{191}{}{Widzia³eœ Przybysza z Krypty? Gdzie?}
-{192}{}{Och, rozumiem. Có¿, muszê ruszaæ w dalsz¹ drogê. Do widzenia.}
-{200}{}{Có¿, p-przed Wojn¹ rzeczywiœcie by³em lekarzem.}
-{201}{}{Przed wojn¹? Ale to by³o jakieœ 160 lat temu!}
-{202}{}{No tak, to wszystko jasne. Dziêki. Trzymaj siê.}
-{210}{}{To p-prawda. Ale dziêki n-napromieniowaniu ghule zdaj¹ siê ¿yæ trochê d³u¿ej od ludzi. Oczywiœcie t-trochê te¿ straciliœmy, he, he...}
-{211}{}{Straciliœcie?}
-{212}{}{Na tym œwiecie nie ma nic za darmo. Do widzenia.}
-{220}{}{No t-tak! Wygl¹damy jak jakieœ okropne p-potwory. Nie mamy nawet skrawka s-skóry, na litoœæ bo-bosk¹!}
-{221}{}{Có¿, pewnie nie jest wam lekko.}
-{222}{}{To fakt. O zwyciêstwie w konkursie Mister Universum mo¿esz raczej zapomnieæ. Do widzenia.}
-{230}{}{Mo¿na tak p-powiedzieæ. Odda³bym wszystkie te lata, ¿eby tylko by-byæ znowu... cz³o-owiekiem.}
-{231}{}{Na to chyba raczej nie mo¿esz liczyæ.}
-{232}{}{Nie w¹tpiê. Do widzenia.}
-{240}{}{Gdyby ci g³upcy z Kh-kryptopolis udostêpnili nam swoje wypo-osa¿enie medyczne, na pewno da³o by siê chocia¿ czêœciowo odwróciæ p-proces.}
-{241}{}{Kryptopolis nie chce wam pomóc?}
+{162}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{163}{}{JesteÅ› lekarzem?}
+{164}{}{Jestem ranny. MoÅ¼esz mi pomÃ³c?}
+{165}{}{Jeden z moich przyjaciÃ³Å‚ jest ranny. MoÅ¼esz nam pomÃ³c?}
+{166}{}{Postaram siÄ™ o tym pamiÄ™taÄ‡. DziÄ™ki. Do widzenia.}
+{170}{}{PozwÃ³l, Å¼e rzucÄ™ okiem. Chyba m-mogÄ™ ci pomÃ³c.}
+{171}{}{Ile mnie to bÄ™dzie kosztowaÅ‚o?}
+{172}{}{DziÄ™ki, Lenny. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{173}{}{DziÄ™ki, Lenny. Do widzenia.}
+{174}{}{P-pomogÄ™ ci, ale bÄ™dzie ciÄ™ to kosztowaÅ‚o $30. T-to za lekarstwa.}
+{175}{}{Chyba chwilowo nie potrzebujÄ™ pomocy. Do widzenia.}
+{180}{}{CÃ³Å¼, twojemu przyjacielowi p-przyda siÄ™ fachowa opieka. M-mogÄ™ pomÃ³c.}
+{181}{}{WidzÄ™, Å¼e mieliÅ›cie nie lada k-kÅ‚opoty, ale mogÄ™ wam p-pomÃ³c.}
+{182}{}{Ile mnie to bÄ™dzie kosztowaÅ‚o?}
+{183}{}{DziÄ™ki, Lenny. ChcÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{184}{}{DziÄ™ki, Lenny. Do widzenia.}
+{185}{}{Leczenie ko-osztuje $30. PotrzebujÄ™ pieniÄ™dzy n-na lekarstwa.}
+{186}{}{W co wyÅ›cie siÄ™ wp-pakowali? WyglÄ…da na to, Å¼e bez p-pomocy lekarza siÄ™ nie obÄ™dzie. Leczenie wszystkich bÄ™dzie was k-kosztowaÅ‚o $60.}
+{187}{}{Jak na mÃ³j gust, to nic mu nie jest.}
+{190}{}{Nie spotkaÅ‚em Przybysza z Krypty o-osobiÅ›cie, ale g-go w-widziaÅ‚em.}
+{191}{}{WidziaÅ‚eÅ› Przybysza z Krypty? Gdzie?}
+{192}{}{Och, rozumiem. CÃ³Å¼, muszÄ™ ruszaÄ‡ w dalszÄ… drogÄ™. Do widzenia.}
+{200}{}{CÃ³Å¼, p-przed WojnÄ… rzeczywiÅ›cie byÅ‚em lekarzem.}
+{201}{}{Przed wojnÄ…? Ale to byÅ‚o jakieÅ› 160 lat temu!}
+{202}{}{No tak, to wszystko jasne. DziÄ™ki. Trzymaj siÄ™.}
+{210}{}{To p-prawda. Ale dziÄ™ki n-napromieniowaniu ghule zdajÄ… siÄ™ Å¼yÄ‡ trochÄ™ dÅ‚uÅ¼ej od ludzi. OczywiÅ›cie t-trochÄ™ teÅ¼ straciliÅ›my, he, he...}
+{211}{}{StraciliÅ›cie?}
+{212}{}{Na tym Å›wiecie nie ma nic za darmo. Do widzenia.}
+{220}{}{No t-tak! WyglÄ…damy jak jakieÅ› okropne p-potwory. Nie mamy nawet skrawka s-skÃ³ry, na litoÅ›Ä‡ bo-boskÄ…!}
+{221}{}{CÃ³Å¼, pewnie nie jest wam lekko.}
+{222}{}{To fakt. O zwyciÄ™stwie w konkursie Mister Universum moÅ¼esz raczej zapomnieÄ‡. Do widzenia.}
+{230}{}{MoÅ¼na tak p-powiedzieÄ‡. OddaÅ‚bym wszystkie te lata, Å¼eby tylko by-byÄ‡ znowu... czÅ‚o-owiekiem.}
+{231}{}{Na to chyba raczej nie moÅ¼esz liczyÄ‡.}
+{232}{}{Nie wÄ…tpiÄ™. Do widzenia.}
+{240}{}{Gdyby ci gÅ‚upcy z Kh-kryptopolis udostÄ™pnili nam swoje wypo-osaÅ¼enie medyczne, na pewno daÅ‚o by siÄ™ chociaÅ¼ czÄ™Å›ciowo odwrÃ³ciÄ‡ p-proces.}
+{241}{}{Kryptopolis nie chce wam pomÃ³c?}
 {242}{}{Przykro mi, nie tym razem. Do zobaczenia.}
-{250}{}{¯artujesz sobie z-ze mnie? W³odarze Kh-kryptopolis nie raczylib-by na nas splun¹æ, a co dopiero nam p-pomóc.}
-{251}{}{Przykro to s³yszeæ, choæ masz oczywiœcie racjê. Mogê ciê jeszcze o coœ zapytaæ?}
-{252}{}{Przykro mi to s³yszeæ. Do widzenia.}
-{260}{}{Nie, ¿ycie jest zbyt k-krótkie - he, he - có¿, dla w-wiêkszoœci ludzi, ¿eby zawracaæ sobie g³owê d-drobiazgami. A wiesz co - to jest w³aœnie t-taki drobiazg. Nie musisz mi p³aciæ. }
-{261}{}{Dziêki Lenny.}
-{270}{}{To by³o bardzo dawno temu, w miejscu z-zwanym Nekropolis. Mieszka³o t-tam wiele ghuli. Pewnego dnia zobaczy³em cz³owieka biegn¹cego przez miasto.}
-{271}{}{Biegn¹cego?}
-{272}{}{Mo¿e starczy ju¿ tych zamierzch³ych wspomnieñ. Do widzenia.}
-{280}{}{Tak, b-biegn¹cego. Widzisz, my ghule nie p-potrafimy ju¿ biegaæ, wiêc wiedzia³em, ¿e to ktoœ o-obcy. By³ tak b-blisko, ¿e prawie mog³em go do-otkn¹æ. ¯a³ujê, ¿e nie do³¹czy³em wtedy do P-przybysza z Krypty....}
-{281}{}{Chcia³eœ do³¹czyæ do mojego przodka?}
-{282}{}{Jaaasne... Myœlisz, ¿e mój przodek chcia³by siê wszêdzie pokazywaæ z pozbawionym skóry wybrykiem natury? Chyba œnisz! Do widzenia.}
-{283}{}{Ech... chêtnie wys³ucham tej pasjonuj¹cej opowieœci do koñca... ale mo¿e innym razem. ¯egnaj.}
-{290}{}{Tak. M-mia³em szansê na najwiêksz¹ przygodê mojego ¿ycia, i wszystko s-skno-oci³em.}
+{250}{}{Å»artujesz sobie z-ze mnie? WÅ‚odarze Kh-kryptopolis nie raczylib-by na nas splunÄ…Ä‡, a co dopiero nam p-pomÃ³c.}
+{251}{}{Przykro to sÅ‚yszeÄ‡, choÄ‡ masz oczywiÅ›cie racjÄ™. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{252}{}{Przykro mi to sÅ‚yszeÄ‡. Do widzenia.}
+{260}{}{Nie, Å¼ycie jest zbyt k-krÃ³tkie - he, he - cÃ³Å¼, dla w-wiÄ™kszoÅ›ci ludzi, Å¼eby zawracaÄ‡ sobie gÅ‚owÄ™ d-drobiazgami. A wiesz co - to jest wÅ‚aÅ›nie t-taki drobiazg. Nie musisz mi pÅ‚aciÄ‡. }
+{261}{}{DziÄ™ki Lenny.}
+{270}{}{To byÅ‚o bardzo dawno temu, w miejscu z-zwanym Nekropolis. MieszkaÅ‚o t-tam wiele ghuli. Pewnego dnia zobaczyÅ‚em czÅ‚owieka biegnÄ…cego przez miasto.}
+{271}{}{BiegnÄ…cego?}
+{272}{}{MoÅ¼e starczy juÅ¼ tych zamierzchÅ‚ych wspomnieÅ„. Do widzenia.}
+{280}{}{Tak, b-biegnÄ…cego. Widzisz, my ghule nie p-potrafimy juÅ¼ biegaÄ‡, wiÄ™c wiedziaÅ‚em, Å¼e to ktoÅ› o-obcy. ByÅ‚ tak b-blisko, Å¼e prawie mogÅ‚em go do-otknÄ…Ä‡. Å»aÅ‚ujÄ™, Å¼e nie doÅ‚Ä…czyÅ‚em wtedy do P-przybysza z Krypty....}
+{281}{}{ChciaÅ‚eÅ› doÅ‚Ä…czyÄ‡ do mojego przodka?}
+{282}{}{Jaaasne... MyÅ›lisz, Å¼e mÃ³j przodek chciaÅ‚by siÄ™ wszÄ™dzie pokazywaÄ‡ z pozbawionym skÃ³ry wybrykiem natury? Chyba Å›nisz! Do widzenia.}
+{283}{}{Ech... chÄ™tnie wysÅ‚ucham tej pasjonujÄ…cej opowieÅ›ci do koÅ„ca... ale moÅ¼e innym razem. Å»egnaj.}
+{290}{}{Tak. M-miaÅ‚em szansÄ™ na najwiÄ™kszÄ… przygodÄ™ mojego Å¼ycia, i wszystko s-skno-ociÅ‚em.}
 {291}{}{Co to znaczy?}
-{292}{}{Tak to ju¿ bywa. Do widzenia.}
-{300}{}{PóŸniej d-dowiedzia³em siê, ¿e P-przybysz z Krypty naprawi³ nasz system zaopatrzenia w wo-odê. Ocali³ n-nam ¿ycie. Rozumiesz? Nie interesowa³o go, ¿e jesteœmy g-ghulami. Dla niego byliœmy po prostu istotami, którym trzeba by³o p-pomóc. Którym WARTO by³o p-pomóc.}
-{301}{}{Moja wioska zosta³a za³o¿ona przez Przybysza z Krypty, on sam zaœ jest bohaterem mojego ludu.}
-{302}{}{Có¿, mnie interesuje jedynie dobro mojego plemienia. Reszta œwiata musi chwilowo radziæ sobie sama. Do widzenia.}
-{310}{}{Dowiedzia³em siê, ¿e p-póŸniej Przybysz z Krypty rozbi³ armiê mutantów. Ocali³ nas wszystkich - ludzi, g-ghule... Mog³em w tym uczestniczyæ, ale zabrak³o mi o-odwagi. Nigdy sobie t-tego nie wybaczy³em.}
-{311}{}{Chcê iœæ w œlady mojego wielkiego przodka. Mo¿e zechcesz spróbowaæ szczêœcia ze mn¹? Przy³¹cz siê do mnie.}
-{312}{}{Nie mo¿esz niedoceniaæ swojej pracy tutaj. Na pewno odda³eœ spo³eczeñstwu Gecko nieocenione us³ugi. Mi³o by³o us³yszeæ ciep³e s³owa o moim przodku. Chcê ciê jeszcze o coœ zapytaæ.}
-{313}{}{Wielu ludzi w g³êbi serca jest tchórzami. Nie ma siê zbytnio czego wstydziæ. Nie ka¿dy nadaje siê na bohatera. Do widzenia.}
-{314}{}{Czasem trudno od razu podj¹æ w³aœciw¹ decyzjê. Ka¿dy ma jak¹œ misjê, jakiœ cel do spe³nienia na tym œwiecie. Dziêkujê za opowieœæ o moim przodku. ¯egnaj.}
-{320}{}{Jestem b-bardziej szczêœliwy ni¿ byk braminy na pastwisku pe³nym krów! Chêtnie do ciebie do-o³¹czê. Mo¿e nie jestem ju¿ najm³odszy i nie poruszam siê zbyt szybko, ale za to potrafiê po³ataæ ciê, jeœli zajdzie taka potrzeba.}
-{321}{}{Cieszê siê, ¿e bêdê ciê mieæ przy sobie. Twoje zdolnoœci medyczne na pewno nie raz oka¿¹ siê przydatne.}
-{322}{}{Hmm, nie wiem, czy to wyprawa odpowiednia dla kogoœ w twoim wieku. Mo¿e bêdzie lepiej, jeœli tu zostaniesz. Przykro mi. ¯egnaj.}
-{330}{}{Mam tu wiele p-pracy. Nie mogê do ciebie do³¹czyæ.}
-{331}{}{Wcale nie p-przypominasz swojego przodka. Prawdê mówi¹c, przynosisz ujmê jego imieniu.}
-{332}{}{Musisz siê jeszcze wiele n-nauczyæ o ¿yciu. Nie p-podoba mi siê to, w jaki sposób zachowujesz siê wobec innych.}
-{333}{}{Przykro mi, ¿e nie chcesz ze mn¹ wêdrowaæ.}
-{334}{}{Jezu, mo¿na by pomyœleæ, ¿e taki gnij¹cy kawa³ miêcha jak ty chêtnie skorzysta z okazji, ¿eby wyrwaæ siê z tej brudnej wiochy. Rób jak chcesz. ¯egnam.}
-{340}{}{Pomagam Haroldowi zarz¹dzaæ m-miastem. Zawsze znajdzie siê dla mnie jakaœ pa-apierkowa robota.}
-{341}{}{Mówi³eœ, ¿e czym jeszcze siê zajmujesz?}
-{342}{}{To ju¿ chyba wszystko co chcê wiedzieæ. ¯egnaj.}
-{350}{}{Nie masz doœæ p-pieniêdzy... ale i tak ci pomog³em. Nie potrafiê przejœæ obojêtnie obok ludzkiego cie-erpienia.}
-{351}{}{Nie wiem, jak ci dziêkowaæ, Lenny. Mogê ciê jeszcze o coœ zapytaæ?}
-{352}{}{Dziêki, Lenny. Masz u mnie d³ug wdziêcznoœci. Do widzenia.}
-{360}{}{Jest tu tak wielu ludzi. Nie potrzebujesz ju¿ m-mojej po-omocy. Powodzenia.}
-{370}{}{Nie myœla³em, ¿e do¿yjê kiedyœ dnia, w którym p-powstydzê siê mojego udzia³u w tym, co robisz. Przynosisz ujmê dobremu imieniu Przybysza z Krypty. ¯egnaj.}
-{371}{}{Wiesz co, myœla³em, ¿e fajnie bêdzie p-podró¿owaæ z tob¹ po œwiecie, ale zachowujesz siê jak wœciek³a b-bramina z kaktusem w ty³ku. I pachniesz n-niewiele lepiej. ¯egnaj.}
-{372}{}{Przykro mi, ¿e odchodzisz, Lenny.}
-{373}{}{Masz ju¿ doœæ, co? No to zabieraj st¹d swoje nadgni³e zw³oki, zanim dojdê do wniosku, ¿e nie szkoda na ciebie kuli.}
-{374}{}{*Bekniêcie* Tak, jasne. Za³o¿ê siê, ¿e masz wiele ciekawszych rzeczy do zrobienia... na przyk³ad: przypominanie sobie jak to jest mieæ skórê i nie œwieciæ w ciemnoœci. Wynoœ siê st¹d, pieprzone dziwad³o.}
-{375}{}{W porz¹dku.}
-{380}{}{Co m-mam zrobiæ?}
-{381}{}{Lenny, wiem, ¿e bardzo siê starasz, ale zejdŸ mi z drogi.}
-{382}{}{Lenny, musisz zmieniæ swój styl walki.}
-{383}{}{Chcê, ¿ebyœ tu na mnie zaczeka³.}
-{384}{}{Lekarzu, uzdrów siê.}
-{385}{}{Chcê, ¿ebyœ mnie wyleczy³.}
-{386}{}{Chcê, ¿ebyœ wyleczy³ kogoœ z naszej dru¿yny.}
-{387}{}{Musisz nas wyleczyæ.}
+{292}{}{Tak to juÅ¼ bywa. Do widzenia.}
+{300}{}{PÃ³Åºniej d-dowiedziaÅ‚em siÄ™, Å¼e P-przybysz z Krypty naprawiÅ‚ nasz system zaopatrzenia w wo-odÄ™. OcaliÅ‚ n-nam Å¼ycie. Rozumiesz? Nie interesowaÅ‚o go, Å¼e jesteÅ›my g-ghulami. Dla niego byliÅ›my po prostu istotami, ktÃ³rym trzeba byÅ‚o p-pomÃ³c. KtÃ³rym WARTO byÅ‚o p-pomÃ³c.}
+{301}{}{Moja wioska zostaÅ‚a zaÅ‚oÅ¼ona przez Przybysza z Krypty, on sam zaÅ› jest bohaterem mojego ludu.}
+{302}{}{CÃ³Å¼, mnie interesuje jedynie dobro mojego plemienia. Reszta Å›wiata musi chwilowo radziÄ‡ sobie sama. Do widzenia.}
+{310}{}{DowiedziaÅ‚em siÄ™, Å¼e p-pÃ³Åºniej Przybysz z Krypty rozbiÅ‚ armiÄ™ mutantÃ³w. OcaliÅ‚ nas wszystkich - ludzi, g-ghule... MogÅ‚em w tym uczestniczyÄ‡, ale zabrakÅ‚o mi o-odwagi. Nigdy sobie t-tego nie wybaczyÅ‚em.}
+{311}{}{ChcÄ™ iÅ›Ä‡ w Å›lady mojego wielkiego przodka. MoÅ¼e zechcesz sprÃ³bowaÄ‡ szczÄ™Å›cia ze mnÄ…? PrzyÅ‚Ä…cz siÄ™ do mnie.}
+{312}{}{Nie moÅ¼esz niedoceniaÄ‡ swojej pracy tutaj. Na pewno oddaÅ‚eÅ› spoÅ‚eczeÅ„stwu Gecko nieocenione usÅ‚ugi. MiÅ‚o byÅ‚o usÅ‚yszeÄ‡ ciepÅ‚e sÅ‚owa o moim przodku. ChcÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{313}{}{Wielu ludzi w gÅ‚Ä™bi serca jest tchÃ³rzami. Nie ma siÄ™ zbytnio czego wstydziÄ‡. Nie kaÅ¼dy nadaje siÄ™ na bohatera. Do widzenia.}
+{314}{}{Czasem trudno od razu podjÄ…Ä‡ wÅ‚aÅ›ciwÄ… decyzjÄ™. KaÅ¼dy ma jakÄ…Å› misjÄ™, jakiÅ› cel do speÅ‚nienia na tym Å›wiecie. DziÄ™kujÄ™ za opowieÅ›Ä‡ o moim przodku. Å»egnaj.}
+{320}{}{Jestem b-bardziej szczÄ™Å›liwy niÅ¼ byk braminy na pastwisku peÅ‚nym krÃ³w! ChÄ™tnie do ciebie do-oÅ‚Ä…czÄ™. MoÅ¼e nie jestem juÅ¼ najmÅ‚odszy i nie poruszam siÄ™ zbyt szybko, ale za to potrafiÄ™ poÅ‚ataÄ‡ ciÄ™, jeÅ›li zajdzie taka potrzeba.}
+{321}{}{CieszÄ™ siÄ™, Å¼e bÄ™dÄ™ ciÄ™ mieÄ‡ przy sobie. Twoje zdolnoÅ›ci medyczne na pewno nie raz okaÅ¼Ä… siÄ™ przydatne.}
+{322}{}{Hmm, nie wiem, czy to wyprawa odpowiednia dla kogoÅ› w twoim wieku. MoÅ¼e bÄ™dzie lepiej, jeÅ›li tu zostaniesz. Przykro mi. Å»egnaj.}
+{330}{}{Mam tu wiele p-pracy. Nie mogÄ™ do ciebie doÅ‚Ä…czyÄ‡.}
+{331}{}{Wcale nie p-przypominasz swojego przodka. PrawdÄ™ mÃ³wiÄ…c, przynosisz ujmÄ™ jego imieniu.}
+{332}{}{Musisz siÄ™ jeszcze wiele n-nauczyÄ‡ o Å¼yciu. Nie p-podoba mi siÄ™ to, w jaki sposÃ³b zachowujesz siÄ™ wobec innych.}
+{333}{}{Przykro mi, Å¼e nie chcesz ze mnÄ… wÄ™drowaÄ‡.}
+{334}{}{Jezu, moÅ¼na by pomyÅ›leÄ‡, Å¼e taki gnijÄ…cy kawaÅ‚ miÄ™cha jak ty chÄ™tnie skorzysta z okazji, Å¼eby wyrwaÄ‡ siÄ™ z tej brudnej wiochy. RÃ³b jak chcesz. Å»egnam.}
+{340}{}{Pomagam Haroldowi zarzÄ…dzaÄ‡ m-miastem. Zawsze znajdzie siÄ™ dla mnie jakaÅ› pa-apierkowa robota.}
+{341}{}{MÃ³wiÅ‚eÅ›, Å¼e czym jeszcze siÄ™ zajmujesz?}
+{342}{}{To juÅ¼ chyba wszystko co chcÄ™ wiedzieÄ‡. Å»egnaj.}
+{350}{}{Nie masz doÅ›Ä‡ p-pieniÄ™dzy... ale i tak ci pomogÅ‚em. Nie potrafiÄ™ przejÅ›Ä‡ obojÄ™tnie obok ludzkiego cie-erpienia.}
+{351}{}{Nie wiem, jak ci dziÄ™kowaÄ‡, Lenny. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{352}{}{DziÄ™ki, Lenny. Masz u mnie dÅ‚ug wdziÄ™cznoÅ›ci. Do widzenia.}
+{360}{}{Jest tu tak wielu ludzi. Nie potrzebujesz juÅ¼ m-mojej po-omocy. Powodzenia.}
+{370}{}{Nie myÅ›laÅ‚em, Å¼e doÅ¼yjÄ™ kiedyÅ› dnia, w ktÃ³rym p-powstydzÄ™ siÄ™ mojego udziaÅ‚u w tym, co robisz. Przynosisz ujmÄ™ dobremu imieniu Przybysza z Krypty. Å»egnaj.}
+{371}{}{Wiesz co, myÅ›laÅ‚em, Å¼e fajnie bÄ™dzie p-podrÃ³Å¼owaÄ‡ z tobÄ… po Å›wiecie, ale zachowujesz siÄ™ jak wÅ›ciekÅ‚a b-bramina z kaktusem w tyÅ‚ku. I pachniesz n-niewiele lepiej. Å»egnaj.}
+{372}{}{Przykro mi, Å¼e odchodzisz, Lenny.}
+{373}{}{Masz juÅ¼ doÅ›Ä‡, co? No to zabieraj stÄ…d swoje nadgniÅ‚e zwÅ‚oki, zanim dojdÄ™ do wniosku, Å¼e nie szkoda na ciebie kuli.}
+{374}{}{*BekniÄ™cie* Tak, jasne. ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e masz wiele ciekawszych rzeczy do zrobienia... na przykÅ‚ad: przypominanie sobie jak to jest mieÄ‡ skÃ³rÄ™ i nie Å›wieciÄ‡ w ciemnoÅ›ci. WynoÅ› siÄ™ stÄ…d, pieprzone dziwadÅ‚o.}
+{375}{}{W porzÄ…dku.}
+{380}{}{Co m-mam zrobiÄ‡?}
+{381}{}{Lenny, wiem, Å¼e bardzo siÄ™ starasz, ale zejdÅº mi z drogi.}
+{382}{}{Lenny, musisz zmieniÄ‡ swÃ³j styl walki.}
+{383}{}{ChcÄ™, Å¼ebyÅ› tu na mnie zaczekaÅ‚.}
+{384}{}{Lekarzu, uzdrÃ³w siÄ™.}
+{385}{}{ChcÄ™, Å¼ebyÅ› mnie wyleczyÅ‚.}
+{386}{}{ChcÄ™, Å¼ebyÅ› wyleczyÅ‚ kogoÅ› z naszej druÅ¼yny.}
+{387}{}{Musisz nas wyleczyÄ‡.}
 {388}{}{Jak leci, staruszku?}
-{389}{}{Chwilowo niczego nie potrzebujê, Lenny.}
-{400}{}{Chcesz, ¿ebym walczy³ in-naczej?}
-{401}{}{Chcê, ¿ebyœ zmieni³ odleg³oœæ ode mnie.}
-{402}{}{Chcê, ¿ebyœ u¿ywa³ najlepszej broni.}
-{403}{}{Chcê, ¿ebyœ za³o¿y³ najlepsz¹ zbrojê}
-{404}{}{Chcê, ¿ebyœ zmieni³ swój styl walki.}
-{405}{}{Niewa¿ne.}
-{410}{}{Jak daleko m-mam siê trzymaæ? P-pamiêtaj, ¿e nie ³atwo mi za tob¹ nad¹¿yæ.}
-{411}{}{Trzymaj siê blisko mnie.}
-{412}{}{Trzymaj siê niezbyt daleko ode mnie.}
-{413}{}{Trzymaj siê z dala ode mnie.}
-{414}{}{Chcê, ¿ebyœ stanowi³ przedni zwiad.}
-{415}{}{Niewa¿ne.}
-{420}{}{Co m-mam zrobiæ?}
-{421}{}{Chcê, ¿ebyœ od tej pory zachowywa³ siê bardziej defensywnie.}
-{422}{}{Chcê, ¿ebyœ walczy³ normalnie.}
-{423}{}{Chcê, ¿ebyœ by³ bardziej agresywny.}
-{424}{}{Niewa¿ne.}
-{430}{}{No dobrze. Zawsze chêtnie spróbujê czegoœ n-nowego.}
-{431}{}{Po prostu jakoœ mi to nie wychodzi.}
-{432}{}{W porz¹dku.}
-{440}{}{Och, w porz¹dku. Zaczekam tu a¿ do twojego powrotu. Na reszcie sobie troszkê odpocznê, po ca³ym tym ³a¿eniu.}
-{441}{}{O to w³aœnie chodzi, Lenny. Trzymaj siê.}
-{442}{}{Masz tu na mnie czekaæ. I jeszcze coœ...}
-{443}{}{Niewa¿ne.}
-{450}{}{Powinienem mieæ wiêksz¹ spluwê.}
-{451}{}{U¿yj swojej najlepszej broni, Lenny.}
-{461}{}{Za³ó¿ swoj¹ najlepsz¹ zbrojê, Lenny.}
-{462}{}{Lenny, jak ju¿ za³o¿ysz swoj¹ najlepsz¹ zbrojê, chcê, ¿ebyœ zrobi³ coœ jeszcze.}
-{463}{}{Niewa¿ne.}
-{470}{}{To œwietny pomys³. Zastanawia³em siê w³aœnie k-kiedy zrobimy sobie postój. Wszystko mnie ju¿ b-boli.}
-{471}{}{Pozwól mi rzuciæ okiem na twoje rany.}
-{472}{}{Chyba ktoœ tu potrzebuje opieki lekarza.}
-{473}{}{Œmia³o, podlecz siê trochê.}
-{474}{}{Podlecz siê, a jak ju¿ skoñczysz, chcê, ¿ebyœ coœ dla mnie zrobi³.}
-{475}{}{Œmia³o, mo¿esz mnie leczyæ.}
-{476}{}{Jak ju¿ skoñczysz mnie leczyæ, chcê, ¿ebyœ zrobi³ coœ jeszcze.}
-{477}{}{Jasne, wszystkim nam przyda siê opieka lekarska.}
-{478}{}{Jak ju¿ skoñczysz nas leczyæ, chcê, ¿ebyœ zrobi³ coœ jeszcze.}
-{479}{}{Niewa¿ne.}
-{480}{}{Nie mogê tego zrobiæ. ¯aden ze m-mnie zwiadowca.}
-{481}{}{Ach, w porz¹dku. Niewa¿ne.}
-{490}{}{Bêdê siê trzyma³ blisko ciebie.}
-{491}{}{B¹dŸ w pobli¿u, Lenny.}
-{492}{}{Trzymaj siê blisko. Jest jeszcze coœ, co powinieneœ zrobiæ.}
-{493}{}{Niewa¿ne.}
-{500}{}{Nie chcemy chyba, ¿eby strzelali do nas jak do ka-aczek, nie?}
-{501}{}{Nie podchodŸ zbyt blisko, Lenny. Nie chcê, ¿eby nieprzyjaciel mia³ ³atwy cel.}
-{502}{}{Nie zbli¿aj siê zbytnio. Poza tym, chcê ciê prosiæ o coœ jeszcze.}
-{503}{}{Niewa¿ne.}
-{510}{}{Dobra, bêdê siê trzyma³ trochê d-dalej. Wrogowie i t-tak najczêœciej celuj¹ w ciebie.}
-{511}{}{Dla w³asnego bezpieczeñstwa musisz siê trzymaæ z dala ode mnie. To nie ma nic wspólnego z twoim zapachem.}
-{512}{}{Zanim siê rozdzielimy, chcê, ¿ebyœ coœ dla mnie zrobi³.}
-{513}{}{Niewa¿ne.}
-{520}{}{Przez te wszystkie lata nauczy³em siê ca³kiem nieŸle dbaæ o swoj¹ skórê... ¿e tak p-powiem.}
-{521}{}{Chcê tylko, ¿ebyœ uwa¿a³ na siebie w trakcie walki.}
-{522}{}{Po prostu nie chcê, ¿eby coœ ci siê sta³o. Jesteœ w koñcu zabytkiem pierwszej klasy! Ale jest jeszcze coœ...}
-{523}{}{Niewa¿ne.}
-{530}{}{To najlepszy spo-osób.}
-{531}{}{Walcz tak jak zwykle, a wszystko powinno byæ w porz¹dku.}
-{532}{}{RozluŸnij siê i walcz normalnie. Aha, i jeszcze coœ...}
-{533}{}{Niewa¿ne.}
-{540}{}{Nie mogê tego zrobiæ. Ju¿ normalna p-potyczka to niema³e obci¹¿enie dla moich starych koœci. A t-ty chcesz, ¿ebym jeszcze fika³ kozio³ki, skaka³ i b-bóg wie co...}
+{389}{}{Chwilowo niczego nie potrzebujÄ™, Lenny.}
+{400}{}{Chcesz, Å¼ebym walczyÅ‚ in-naczej?}
+{401}{}{ChcÄ™, Å¼ebyÅ› zmieniÅ‚ odlegÅ‚oÅ›Ä‡ ode mnie.}
+{402}{}{ChcÄ™, Å¼ebyÅ› uÅ¼ywaÅ‚ najlepszej broni.}
+{403}{}{ChcÄ™, Å¼ebyÅ› zaÅ‚oÅ¼yÅ‚ najlepszÄ… zbrojÄ™}
+{404}{}{ChcÄ™, Å¼ebyÅ› zmieniÅ‚ swÃ³j styl walki.}
+{405}{}{NiewaÅ¼ne.}
+{410}{}{Jak daleko m-mam siÄ™ trzymaÄ‡? P-pamiÄ™taj, Å¼e nie Å‚atwo mi za tobÄ… nadÄ…Å¼yÄ‡.}
+{411}{}{Trzymaj siÄ™ blisko mnie.}
+{412}{}{Trzymaj siÄ™ niezbyt daleko ode mnie.}
+{413}{}{Trzymaj siÄ™ z dala ode mnie.}
+{414}{}{ChcÄ™, Å¼ebyÅ› stanowiÅ‚ przedni zwiad.}
+{415}{}{NiewaÅ¼ne.}
+{420}{}{Co m-mam zrobiÄ‡?}
+{421}{}{ChcÄ™, Å¼ebyÅ› od tej pory zachowywaÅ‚ siÄ™ bardziej defensywnie.}
+{422}{}{ChcÄ™, Å¼ebyÅ› walczyÅ‚ normalnie.}
+{423}{}{ChcÄ™, Å¼ebyÅ› byÅ‚ bardziej agresywny.}
+{424}{}{NiewaÅ¼ne.}
+{430}{}{No dobrze. Zawsze chÄ™tnie sprÃ³bujÄ™ czegoÅ› n-nowego.}
+{431}{}{Po prostu jakoÅ› mi to nie wychodzi.}
+{432}{}{W porzÄ…dku.}
+{440}{}{Och, w porzÄ…dku. Zaczekam tu aÅ¼ do twojego powrotu. Na reszcie sobie troszkÄ™ odpocznÄ™, po caÅ‚ym tym Å‚aÅ¼eniu.}
+{441}{}{O to wÅ‚aÅ›nie chodzi, Lenny. Trzymaj siÄ™.}
+{442}{}{Masz tu na mnie czekaÄ‡. I jeszcze coÅ›...}
+{443}{}{NiewaÅ¼ne.}
+{450}{}{Powinienem mieÄ‡ wiÄ™kszÄ… spluwÄ™.}
+{451}{}{UÅ¼yj swojej najlepszej broni, Lenny.}
+{461}{}{ZaÅ‚Ã³Å¼ swojÄ… najlepszÄ… zbrojÄ™, Lenny.}
+{462}{}{Lenny, jak juÅ¼ zaÅ‚oÅ¼ysz swojÄ… najlepszÄ… zbrojÄ™, chcÄ™, Å¼ebyÅ› zrobiÅ‚ coÅ› jeszcze.}
+{463}{}{NiewaÅ¼ne.}
+{470}{}{To Å›wietny pomysÅ‚. ZastanawiaÅ‚em siÄ™ wÅ‚aÅ›nie k-kiedy zrobimy sobie postÃ³j. Wszystko mnie juÅ¼ b-boli.}
+{471}{}{PozwÃ³l mi rzuciÄ‡ okiem na twoje rany.}
+{472}{}{Chyba ktoÅ› tu potrzebuje opieki lekarza.}
+{473}{}{ÅšmiaÅ‚o, podlecz siÄ™ trochÄ™.}
+{474}{}{Podlecz siÄ™, a jak juÅ¼ skoÅ„czysz, chcÄ™, Å¼ebyÅ› coÅ› dla mnie zrobiÅ‚.}
+{475}{}{ÅšmiaÅ‚o, moÅ¼esz mnie leczyÄ‡.}
+{476}{}{Jak juÅ¼ skoÅ„czysz mnie leczyÄ‡, chcÄ™, Å¼ebyÅ› zrobiÅ‚ coÅ› jeszcze.}
+{477}{}{Jasne, wszystkim nam przyda siÄ™ opieka lekarska.}
+{478}{}{Jak juÅ¼ skoÅ„czysz nas leczyÄ‡, chcÄ™, Å¼ebyÅ› zrobiÅ‚ coÅ› jeszcze.}
+{479}{}{NiewaÅ¼ne.}
+{480}{}{Nie mogÄ™ tego zrobiÄ‡. Å»aden ze m-mnie zwiadowca.}
+{481}{}{Ach, w porzÄ…dku. NiewaÅ¼ne.}
+{490}{}{BÄ™dÄ™ siÄ™ trzymaÅ‚ blisko ciebie.}
+{491}{}{BÄ…dÅº w pobliÅ¼u, Lenny.}
+{492}{}{Trzymaj siÄ™ blisko. Jest jeszcze coÅ›, co powinieneÅ› zrobiÄ‡.}
+{493}{}{NiewaÅ¼ne.}
+{500}{}{Nie chcemy chyba, Å¼eby strzelali do nas jak do ka-aczek, nie?}
+{501}{}{Nie podchodÅº zbyt blisko, Lenny. Nie chcÄ™, Å¼eby nieprzyjaciel miaÅ‚ Å‚atwy cel.}
+{502}{}{Nie zbliÅ¼aj siÄ™ zbytnio. Poza tym, chcÄ™ ciÄ™ prosiÄ‡ o coÅ› jeszcze.}
+{503}{}{NiewaÅ¼ne.}
+{510}{}{Dobra, bÄ™dÄ™ siÄ™ trzymaÅ‚ trochÄ™ d-dalej. Wrogowie i t-tak najczÄ™Å›ciej celujÄ… w ciebie.}
+{511}{}{Dla wÅ‚asnego bezpieczeÅ„stwa musisz siÄ™ trzymaÄ‡ z dala ode mnie. To nie ma nic wspÃ³lnego z twoim zapachem.}
+{512}{}{Zanim siÄ™ rozdzielimy, chcÄ™, Å¼ebyÅ› coÅ› dla mnie zrobiÅ‚.}
+{513}{}{NiewaÅ¼ne.}
+{520}{}{Przez te wszystkie lata nauczyÅ‚em siÄ™ caÅ‚kiem nieÅºle dbaÄ‡ o swojÄ… skÃ³rÄ™... Å¼e tak p-powiem.}
+{521}{}{ChcÄ™ tylko, Å¼ebyÅ› uwaÅ¼aÅ‚ na siebie w trakcie walki.}
+{522}{}{Po prostu nie chcÄ™, Å¼eby coÅ› ci siÄ™ staÅ‚o. JesteÅ› w koÅ„cu zabytkiem pierwszej klasy! Ale jest jeszcze coÅ›...}
+{523}{}{NiewaÅ¼ne.}
+{530}{}{To najlepszy spo-osÃ³b.}
+{531}{}{Walcz tak jak zwykle, a wszystko powinno byÄ‡ w porzÄ…dku.}
+{532}{}{RozluÅºnij siÄ™ i walcz normalnie. Aha, i jeszcze coÅ›...}
+{533}{}{NiewaÅ¼ne.}
+{540}{}{Nie mogÄ™ tego zrobiÄ‡. JuÅ¼ normalna p-potyczka to niemaÅ‚e obciÄ…Å¼enie dla moich starych koÅ›ci. A t-ty chcesz, Å¼ebym jeszcze fikaÅ‚ kozioÅ‚ki, skakaÅ‚ i b-bÃ³g wie co...}
 {541}{}{Dobra. Zapomnijmy o tym.}
-{1000}{}{Co m-mam zrobiæ?}
+{1000}{}{Co m-mam zrobiÄ‡?}
 {1100}{}{Nic mi nie jest.}
-{1200}{}{Mam parê zadrapañ, ale to nic p-powa¿nego.}
-{1300}{}{To œwietny pomys³. Zastanawia³em siê w³aœnie k-kiedy zrobimy sobie postój. Wszystko mnie ju¿ b-boli.}
-{1400}{}{Potrzebujê leczenia, albo bêdzie p-po mnie.}
-{1500}{}{W porz¹dku. Zaczekam t-tu na twój powrót. Nareszcie trochê odpocznê po t-tym ca³ym ³a¿eniu.}
-{1600}{}{W porz¹dku.}
-{1700}{}{Bêdê siê trzyma³ blisko ciebie.}
-{1800}{}{Nie chcemy chyba, ¿eby strzelali do nas jak do ka-aczek, nie?}
-{1900}{}{Dobra, bêdê siê trzyma³ trochê d-dalej. Wrogowie i t-tak najczêœciej celuj¹ w ciebie.}
-{2000}{}{Jest tu tak wielu ludzi. Nie potrzebujesz ju¿ m-mojej pomocy. P-powodzenia.}
-{2100}{}{Nie myœla³em, ¿e do¿yjê kiedyœ dnia, w którym p-powstydzê siê mojego udzia³u w tym, co robisz. Przynosisz ujmê dobremu imieniu Przybysza z Krypty. ¯egnaj.}
-{2200}{}{Ju¿ siê b-ba³em, ¿e nigdy nie wrócisz.}
-{2300}{}{Sk¹d ten wieczny poœpiech?}
-{2301}{}{Oj, p-przepraszam. Postaram siê nie w³aziæ ci w drogê.}
-{2302}{}{Szybciej, szybciej, szybciej. Sp-pokojnie, przecie¿ ju¿ idê. Nie chcia³em wejœæ ci w d-drogê.}
-{2303}{}{Przepraszam, ale szybciej ju¿ nie mogê. Lepiej zejdê ci z drogi.}
-{2304}{}{Uch, w p-porz¹dku, ju¿ ci schodzê z drogi.}
-{2305}{}{No to stanê sobie t-tutaj, w porz¹dku?}
-{2306}{}{Nie chcia³em byæ przeszkod¹...}
+{1200}{}{Mam parÄ™ zadrapaÅ„, ale to nic p-powaÅ¼nego.}
+{1300}{}{To Å›wietny pomysÅ‚. ZastanawiaÅ‚em siÄ™ wÅ‚aÅ›nie k-kiedy zrobimy sobie postÃ³j. Wszystko mnie juÅ¼ b-boli.}
+{1400}{}{PotrzebujÄ™ leczenia, albo bÄ™dzie p-po mnie.}
+{1500}{}{W porzÄ…dku. Zaczekam t-tu na twÃ³j powrÃ³t. Nareszcie trochÄ™ odpocznÄ™ po t-tym caÅ‚ym Å‚aÅ¼eniu.}
+{1600}{}{W porzÄ…dku.}
+{1700}{}{BÄ™dÄ™ siÄ™ trzymaÅ‚ blisko ciebie.}
+{1800}{}{Nie chcemy chyba, Å¼eby strzelali do nas jak do ka-aczek, nie?}
+{1900}{}{Dobra, bÄ™dÄ™ siÄ™ trzymaÅ‚ trochÄ™ d-dalej. Wrogowie i t-tak najczÄ™Å›ciej celujÄ… w ciebie.}
+{2000}{}{Jest tu tak wielu ludzi. Nie potrzebujesz juÅ¼ m-mojej pomocy. P-powodzenia.}
+{2100}{}{Nie myÅ›laÅ‚em, Å¼e doÅ¼yjÄ™ kiedyÅ› dnia, w ktÃ³rym p-powstydzÄ™ siÄ™ mojego udziaÅ‚u w tym, co robisz. Przynosisz ujmÄ™ dobremu imieniu Przybysza z Krypty. Å»egnaj.}
+{2200}{}{JuÅ¼ siÄ™ b-baÅ‚em, Å¼e nigdy nie wrÃ³cisz.}
+{2300}{}{SkÄ…d ten wieczny poÅ›piech?}
+{2301}{}{Oj, p-przepraszam. Postaram siÄ™ nie wÅ‚aziÄ‡ ci w drogÄ™.}
+{2302}{}{Szybciej, szybciej, szybciej. Sp-pokojnie, przecieÅ¼ juÅ¼ idÄ™. Nie chciaÅ‚em wejÅ›Ä‡ ci w d-drogÄ™.}
+{2303}{}{Przepraszam, ale szybciej juÅ¼ nie mogÄ™. Lepiej zejdÄ™ ci z drogi.}
+{2304}{}{Uch, w p-porzÄ…dku, juÅ¼ ci schodzÄ™ z drogi.}
+{2305}{}{No to stanÄ™ sobie t-tutaj, w porzÄ…dku?}
+{2306}{}{Nie chciaÅ‚em byÄ‡ przeszkodÄ…...}
 {2307}{}{Oj, p-przepraszam.}
-{3000}{}{Za du¿o z³ych rzeczy dzieje siê wokó³ ciebie. Odchodzê, zanim coœ m-mi siê stanie.}
-{3001}{}{Nie bêdê p-pomaga³ dzieciobójcy. D-do widzenia.}
-{3002}{}{Twoja ¿¹dza krwi mnie odra¿a. Nie b-bêdê ci dalej towarzyszy³.}
-{3003}{}{Nie chcê mieæ nic wspólnego z ³owc¹ n-niewolników. ¯egnaj.}
-{3004}{}{Jesteœ zdrajc¹! N-nasza elektrownia zosta³a zniszczona. Nigdy ci t-tego nie wybaczê.}
-{3005}{}{Nie chcê mieæ z tob¹ nic wspólnego.}
-{4000}{}{W porz¹dku, ale nie p-podoba mi siê myœl o sterczeniu tu samotnie.}
-{4001}{}{W porz¹dku, jeœli myœlisz, ¿e tak b-bêdzie lepiej.}
-{4002}{}{Có¿, nie lubiê u¿ywaæ broni, ale chyba poradzê sobie z no¿em. Umiem u¿ywaæ pistoletu, przynajmniej kiedyœ umia³em. W czarnej godzinie móg³bym równie¿ strzelaæ z pistoletu maszynowego. Nie cierpiê huku. Jestem lekarzem, a nie ¿o³nierzem.}
-{4003}{}{O rany! Mam nadziejê, ¿e nie bêdê zmuszony tego u¿yæ.}
-{4004}{}{Có¿, nie lubiê u¿ywaæ broni, ale chyba poradzê sobie z no¿em. Umiem u¿ywaæ w³óczni, przynajmniej kiedyœ umia³em. W czarnej godzinie móg³bym równie¿ strzelaæ z karabinu. Nie cierpiê huku. Jestem lekarzem, a nie ¿o³nierzem.}
-{5000}{}{Myœlê, ¿e m-mogê mieæ z-z³aman¹ koñczynê.}
-{5001}{}{Myœlê, ¿e m-mogê byæ nap-napromieniowany.}
-{5002}{}{Myœlê, ¿e m-mogê byæ o-otruty.}
-{5100}{}{Cz-czujê t-trochê ciep³a.}
+{3000}{}{Za duÅ¼o zÅ‚ych rzeczy dzieje siÄ™ wokÃ³Å‚ ciebie. OdchodzÄ™, zanim coÅ› m-mi siÄ™ stanie.}
+{3001}{}{Nie bÄ™dÄ™ p-pomagaÅ‚ dzieciobÃ³jcy. D-do widzenia.}
+{3002}{}{Twoja Å¼Ä…dza krwi mnie odraÅ¼a. Nie b-bÄ™dÄ™ ci dalej towarzyszyÅ‚.}
+{3003}{}{Nie chcÄ™ mieÄ‡ nic wspÃ³lnego z Å‚owcÄ… n-niewolnikÃ³w. Å»egnaj.}
+{3004}{}{JesteÅ› zdrajcÄ…! N-nasza elektrownia zostaÅ‚a zniszczona. Nigdy ci t-tego nie wybaczÄ™.}
+{3005}{}{Nie chcÄ™ mieÄ‡ z tobÄ… nic wspÃ³lnego.}
+{4000}{}{W porzÄ…dku, ale nie p-podoba mi siÄ™ myÅ›l o sterczeniu tu samotnie.}
+{4001}{}{W porzÄ…dku, jeÅ›li myÅ›lisz, Å¼e tak b-bÄ™dzie lepiej.}
+{4002}{}{CÃ³Å¼, nie lubiÄ™ uÅ¼ywaÄ‡ broni, ale chyba poradzÄ™ sobie z noÅ¼em. Umiem uÅ¼ywaÄ‡ pistoletu, przynajmniej kiedyÅ› umiaÅ‚em. W czarnej godzinie mÃ³gÅ‚bym rÃ³wnieÅ¼ strzelaÄ‡ z pistoletu maszynowego. Nie cierpiÄ™ huku. Jestem lekarzem, a nie Å¼oÅ‚nierzem.}
+{4003}{}{O rany! Mam nadziejÄ™, Å¼e nie bÄ™dÄ™ zmuszony tego uÅ¼yÄ‡.}
+{4004}{}{CÃ³Å¼, nie lubiÄ™ uÅ¼ywaÄ‡ broni, ale chyba poradzÄ™ sobie z noÅ¼em. Umiem uÅ¼ywaÄ‡ wÅ‚Ã³czni, przynajmniej kiedyÅ› umiaÅ‚em. W czarnej godzinie mÃ³gÅ‚bym rÃ³wnieÅ¼ strzelaÄ‡ z karabinu. Nie cierpiÄ™ huku. Jestem lekarzem, a nie Å¼oÅ‚nierzem.}
+{5000}{}{MyÅ›lÄ™, Å¼e m-mogÄ™ mieÄ‡ z-zÅ‚amanÄ… koÅ„czynÄ™.}
+{5001}{}{MyÅ›lÄ™, Å¼e m-mogÄ™ byÄ‡ nap-napromieniowany.}
+{5002}{}{MyÅ›lÄ™, Å¼e m-mogÄ™ byÄ‡ o-otruty.}
+{5100}{}{Cz-czujÄ™ t-trochÄ™ ciepÅ‚a.}
 {5101}{}{Tak l-lepiej.}
-{6000}{}{Potrzebujê fachowej opinii, Lenny. Co wiesz o problemach z sercem?}
-{6001}{}{Czy mo¿esz mi coœ powiedzieæ na temat tych tabletek, Doktorze?}
-{6010}{}{W czym problem? Nie masz chyba problemów ze swoim sercem, prawda?}
-{6011}{}{Nie, ja naprawdê zastanawia³em siê, czy jest coœ, co mo¿emy zrobiæ dla Cassidy'ego.}
-{6012}{}{Nie, mam zamiar zamordowaæ niedo³ê¿nego staruszka i stara³em siê wymyœliæ coœ bardziej kreatywnego ni¿ skradanie siê i uduszenie papierow¹ torb¹.}
-{6013}{}{Pytam z ciekawoœci, tak s¹dzê.}
-{6020}{}{Heh. Nie muisz byæ uszczypliwy.}
-{6021}{}{Có¿, p'przede wszystkim, nale¿y zachowaæ rozs¹dek. D'dobre od¿ywianie siê, sterylna czystoœæ silnych m'medykamentów, tego typu rzeczy. O'ograniczenie stresu do minimum. Zasadniczo, ¿ycie b'bardziej jak starszej pani, a nie jak... có¿, nasze. Heh. Oczywiœcie, najlepsz¹ rzecz¹ jak¹ mo¿na zrobiæ, by³oby prawdopodobnie za³atwiæ parê regulatorów sercowych, mo¿e jakieœ leki rozszerzaj¹ce naczynia.}
+{6000}{}{PotrzebujÄ™ fachowej opinii, Lenny. Co wiesz o problemach z sercem?}
+{6001}{}{Czy moÅ¼esz mi coÅ› powiedzieÄ‡ na temat tych tabletek, Doktorze?}
+{6010}{}{W czym problem? Nie masz chyba problemÃ³w ze swoim sercem, prawda?}
+{6011}{}{Nie, ja naprawdÄ™ zastanawiaÅ‚em siÄ™, czy jest coÅ›, co moÅ¼emy zrobiÄ‡ dla Cassidy'ego.}
+{6012}{}{Nie, mam zamiar zamordowaÄ‡ niedoÅ‚Ä™Å¼nego staruszka i staraÅ‚em siÄ™ wymyÅ›liÄ‡ coÅ› bardziej kreatywnego niÅ¼ skradanie siÄ™ i uduszenie papierowÄ… torbÄ….}
+{6013}{}{Pytam z ciekawoÅ›ci, tak sÄ…dzÄ™.}
+{6020}{}{Heh. Nie muisz byÄ‡ uszczypliwy.}
+{6021}{}{CÃ³Å¼, p'przede wszystkim, naleÅ¼y zachowaÄ‡ rozsÄ…dek. D'dobre odÅ¼ywianie siÄ™, sterylna czystoÅ›Ä‡ silnych m'medykamentÃ³w, tego typu rzeczy. O'ograniczenie stresu do minimum. Zasadniczo, Å¼ycie b'bardziej jak starszej pani, a nie jak... cÃ³Å¼, nasze. Heh. OczywiÅ›cie, najlepszÄ… rzeczÄ… jakÄ… moÅ¼na zrobiÄ‡, byÅ‚oby prawdopodobnie zaÅ‚atwiÄ‡ parÄ™ regulatorÃ³w sercowych, moÅ¼e jakieÅ› leki rozszerzajÄ…ce naczynia.}
 {6022}{}{Zaburzenia serca co teraz?}
-{6023}{}{Hmm. Pigu³ki na serce.}
+{6023}{}{Hmm. PiguÅ‚ki na serce.}
 {6030}{}{Zobaczmy, co my tu mamy... (Lenny mruczy do siebie, kiedy czyta etykiete.)}
-{6040}{}{Pigu³ki na serce. Myœlê, ¿e to co dostaniesz w Kryptopolis i RNK nie ró¿ni siê zbytnio od tego, czego u¿ywaliœmy przed wojn¹. Silne leki. ZnajdŸ faceta na takie rzeczy, musia³by mieæ serce zmutowanego maratoñczyka. Jeœli ktoœ nie ma nic przeciwko i bêdzie bra³ je regularnie, móg³by pewnie ¿yæ nie martwi¹c siê o swoje serce.}
-{6041}{}{Uh, tak. Dziêki, Lenny. Pozwól, ¿e zapytam ciê o coœ innego.}
-{6042}{}{S¹ one w ogóle niebezpieczne? Wszelkie skutki uboczne, na które nale¿y zwróciæ uwagê?}
-{6043}{}{Uwa¿asz, ¿e mog¹ one pomóc Cassidy'emu?}
-{6050}{}{Mog¹ wyst¹piæ róŸne skutki uboczne, dobrze, ¿e teraz o tym wspomnia³eœ. W rzeczywistoœci, myœlê, ¿e bêd¹. Nale¿y zachowaæ ostro¿noœæ.}
-{6051}{}{Na przyk³ad?}
-{6052}{}{Wiedzia³em, ¿e bêdzie haczyk.}
-{6060}{}{Nic takiego, prawdopodobieñstwo wyst¹pienia jest doœæ czêste. Pigu³ki powoduj¹ zawroty g³owy i pod ¿adnym pozorem nie nale¿y ich mieszaæ z sokiem grejpfrutowym, choæ nie s¹dzê, ¿e by³by to wielki problem w tych czasach. Hmmm... (Lenny k³adzie rêkê na brodzie i patrzy w przestrzeñ)}
+{6040}{}{PiguÅ‚ki na serce. MyÅ›lÄ™, Å¼e to co dostaniesz w Kryptopolis i RNK nie rÃ³Å¼ni siÄ™ zbytnio od tego, czego uÅ¼ywaliÅ›my przed wojnÄ…. Silne leki. ZnajdÅº faceta na takie rzeczy, musiaÅ‚by mieÄ‡ serce zmutowanego maratoÅ„czyka. JeÅ›li ktoÅ› nie ma nic przeciwko i bÄ™dzie braÅ‚ je regularnie, mÃ³gÅ‚by pewnie Å¼yÄ‡ nie martwiÄ…c siÄ™ o swoje serce.}
+{6041}{}{Uh, tak. DziÄ™ki, Lenny. PozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{6042}{}{SÄ… one w ogÃ³le niebezpieczne? Wszelkie skutki uboczne, na ktÃ³re naleÅ¼y zwrÃ³ciÄ‡ uwagÄ™?}
+{6043}{}{UwaÅ¼asz, Å¼e mogÄ… one pomÃ³c Cassidy'emu?}
+{6050}{}{MogÄ… wystÄ…piÄ‡ rÃ³Åºne skutki uboczne, dobrze, Å¼e teraz o tym wspomniaÅ‚eÅ›. W rzeczywistoÅ›ci, myÅ›lÄ™, Å¼e bÄ™dÄ…. NaleÅ¼y zachowaÄ‡ ostroÅ¼noÅ›Ä‡.}
+{6051}{}{Na przykÅ‚ad?}
+{6052}{}{WiedziaÅ‚em, Å¼e bÄ™dzie haczyk.}
+{6060}{}{Nic takiego, prawdopodobieÅ„stwo wystÄ…pienia jest doÅ›Ä‡ czÄ™ste. PiguÅ‚ki powodujÄ… zawroty gÅ‚owy i pod Å¼adnym pozorem nie naleÅ¼y ich mieszaÄ‡ z sokiem grejpfrutowym, choÄ‡ nie sÄ…dzÄ™, Å¼e byÅ‚by to wielki problem w tych czasach. Hmmm... (Lenny kÅ‚adzie rÄ™kÄ™ na brodzie i patrzy w przestrzeÅ„)}
 {6061}{}{Lenny?}
-{6070}{}{P'przepraszam. Oh! I najwa¿niejsze, jeœli nie chcesz by s'spotka³o ciê niezbyt g'godne zakoñczenie, to N'NIE chcesz równie¿ mieszaæ t'tego gówna z Nowego Reno z innymi p'pigu³kami.}
+{6070}{}{P'przepraszam. Oh! I najwaÅ¼niejsze, jeÅ›li nie chcesz by s'spotkaÅ‚o ciÄ™ niezbyt g'godne zakoÅ„czenie, to N'NIE chcesz rÃ³wnieÅ¼ mieszaÄ‡ t'tego gÃ³wna z Nowego Reno z innymi p'piguÅ‚kami.}
 {6071}{}{Tabletkami... Jakimi tabletkami?}
-{6072}{}{Z³a reakcja, a potem?}
-{6080}{}{Eeee. No b'bo wiesz, gdy twój m'ma³y ¿o³nierz nie bêdzie s'staæ na b'bacznoœæ... Techniczna nazwa tego t'to chyba "Inhibitor PDE-5", ale czasy s's¹ jakie s¹, i Nowe Reno jest jakie j'jest... O czym to j'ja mówi³em?}
-{6081}{}{Eeee. No b'bo wiesz, gdy m'ma³y mêski ¿o³nierz nie bêdzie s'staæ na b'bacznoœæ... Techniczna nazwa tego t'to chyba "Inhibitor PDE-5", ale czasy s's¹ jakie s¹, i Nowe Reno jest jakie j'jest... O czym to j'ja mówi³em?}
-{6082}{}{Oh, tak. Masz tu mieszanine d'dwóch œrodków i BUM! Twoje s'serce eksploduje jak k'kaszanka. P'pamiêtam badania sekcyjnye, na w'wiêcej ni¿ jednym z³ym l'leniu, który by³ zbyt zajêty ¿'¿eby przeczytaæ ulotkê.}
+{6072}{}{ZÅ‚a reakcja, a potem?}
+{6080}{}{Eeee. No b'bo wiesz, gdy twÃ³j m'maÅ‚y Å¼oÅ‚nierz nie bÄ™dzie s'staÄ‡ na b'bacznoÅ›Ä‡... Techniczna nazwa tego t'to chyba "Inhibitor PDE-5", ale czasy s'sÄ… jakie sÄ…, i Nowe Reno jest jakie j'jest... O czym to j'ja mÃ³wiÅ‚em?}
+{6081}{}{Eeee. No b'bo wiesz, gdy m'maÅ‚y mÄ™ski Å¼oÅ‚nierz nie bÄ™dzie s'staÄ‡ na b'bacznoÅ›Ä‡... Techniczna nazwa tego t'to chyba "Inhibitor PDE-5", ale czasy s'sÄ… jakie sÄ…, i Nowe Reno jest jakie j'jest... O czym to j'ja mÃ³wiÅ‚em?}
+{6082}{}{Oh, tak. Masz tu mieszanine d'dwÃ³ch Å›rodkÃ³w i BUM! Twoje s'serce eksploduje jak k'kaszanka. P'pamiÄ™tam badania sekcyjnye, na w'wiÄ™cej niÅ¼ jednym zÅ‚ym l'leniu, ktÃ³ry byÅ‚ zbyt zajÄ™ty Å¼'Å¼eby przeczytaÄ‡ ulotkÄ™.}
 {6083}{}{Kaszanka?}
-{6084}{}{Huh. Dobrze wiedzieæ. Wielkie dziêki, Lenny.}
-{6090}{}{Oh. Hehe. Nieco przed czasem. Przepraszam. Coœ jeszcze mogê dla ciebie zrobiæ?}
-{6091}{}{No có¿, skoro pytasz...}
-{6092}{}{Nie, to wystarczy. Dziêki, Lenny.}
+{6084}{}{Huh. Dobrze wiedzieÄ‡. Wielkie dziÄ™ki, Lenny.}
+{6090}{}{Oh. Hehe. Nieco przed czasem. Przepraszam. CoÅ› jeszcze mogÄ™ dla ciebie zrobiÄ‡?}
+{6091}{}{No cÃ³Å¼, skoro pytasz...}
+{6092}{}{Nie, to wystarczy. DziÄ™ki, Lenny.}

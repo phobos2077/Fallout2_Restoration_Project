@@ -1,8 +1,8 @@
-{100}{}{Widzisz myœliwego.}
-{101}{}{Witam ciê, Dziecko Przeznaczenia.}
-{102}{}{Masz ju¿ œwiêty GECK?}
-{103}{}{Zdob¹dŸ GECK jak najszybciej.}
-{104}{}{Niech twoje podró¿e bêd¹ bezpieczne.}
-{105}{}{Wróæ do nas z tym, co siê nam nale¿y.}
-{106}{}{Musisz siê poœpieszyæ, Dziecko Przeznaczenia.}
-{107}{}{Nasze modlitwy s¹ z tob¹, Dziecko Przeznaczenia.}
+{100}{}{Widzisz myÅ›liwego.}
+{101}{}{Witam ciÄ™, Dziecko Przeznaczenia.}
+{102}{}{Masz juÅ¼ Å›wiÄ™ty GECK?}
+{103}{}{ZdobÄ…dÅº GECK jak najszybciej.}
+{104}{}{Niech twoje podrÃ³Å¼e bÄ™dÄ… bezpieczne.}
+{105}{}{WrÃ³Ä‡ do nas z tym, co siÄ™ nam naleÅ¼y.}
+{106}{}{Musisz siÄ™ poÅ›pieszyÄ‡, Dziecko Przeznaczenia.}
+{107}{}{Nasze modlitwy sÄ… z tobÄ…, Dziecko Przeznaczenia.}

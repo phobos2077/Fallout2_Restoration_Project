@@ -1,45 +1,45 @@
-{100}{}{Você vê um ghoul. Neste momento ele está debaixo do para-choque dianteiro.}
-{101}{}{Você vê Lumpy. Você espera que ele esteja bem.}
-{102}{}{Você vê um ghoul que parece estar com uma bela dor. Talvez se você não fosse um barbeiro
+{100}{}{VocÃª vÃª um ghoul. Neste momento ele estÃ¡ debaixo do para-choque dianteiro.}
+{101}{}{VocÃª vÃª Lumpy. VocÃª espera que ele esteja bem.}
+{102}{}{VocÃª vÃª um ghoul que parece estar com uma bela dor. Talvez se vocÃª nÃ£o fosse um barbeiro
  poderia ter evitado isso.}
 {103}{}{Oooooh! Tudo pisca!}
-{104}{}{Ai! Minha sacroilíaca!}
-{105}{}{Alguém viu minha vesícula biliar?}
+{104}{}{Ai! Minha sacroilÃ­aca!}
+{105}{}{AlguÃ©m viu minha vesÃ­cula biliar?}
 {106}{}{Minha coluna! Minha coluna!}
-{107}{}{Estou indo até você, Elizabeth!}
-{108}{}{Médico...}
-{109}{}{Alguém poderia me ajudar? Não consigo ler o número da placa.}
+{107}{}{Estou indo atÃ© vocÃª, Elizabeth!}
+{108}{}{MÃ©dico...}
+{109}{}{AlguÃ©m poderia me ajudar? NÃ£o consigo ler o nÃºmero da placa.}
 {110}{}{Ei, amigo!}
-{111}{}{Ei, moça!}
-{112}{}{O nome é Lumpy. Você poderia me ajudar aqui um momento?}
+{111}{}{Ei, moÃ§a!}
+{112}{}{O nome Ã© Lumpy. VocÃª poderia me ajudar aqui um momento?}
 {113}{}{Ouchie. Tudo bem, Lumpy?}
-{114}{}{Meu Deus! Está tudo bem, Lumpy?}
+{114}{}{Meu Deus! EstÃ¡ tudo bem, Lumpy?}
 {115}{}{Ops...}
-{116}{}{Ah, tudo é rosa. Se eu não tiver várias fraturas expostas e um enfeite de capuz alojado vários centímetros na minha bunda, está tudo bem.}
+{116}{}{Ah, tudo Ã© rosa. Se eu nÃ£o tiver vÃ¡rias fraturas expostas e um enfeite de capuz alojado vÃ¡rios centÃ­metros na minha bunda, estÃ¡ tudo bem.}
 {117}{}{Ahhh. Precisa de ajuda?}
 {118}{}{Bom. Tchau.}
-{119}{}{Tudo bem, relaxa. Você precisa de mim para alguma coisa?}
-{120}{}{Graças a Deus. Eu pensei que você poderia estar em perigo. Bem, vejo você mais tarde.}
+{119}{}{Tudo bem, relaxa. VocÃª precisa de mim para alguma coisa?}
+{120}{}{GraÃ§as a Deus. Eu pensei que vocÃª poderia estar em perigo. Bem, vejo vocÃª mais tarde.}
 {121}{}{[Lumpy te olha nos olhos silenciosamente. Ele pisca... Duas vezes.]}
 {122}{}{Ahhh... pergunta idiota. Sim?}
 {123}{}{Vou tomar isso como um sim.}
-{124}{}{Você tem razão, sim! Eu mal consigo me mexer! Agora preste atenção, eu não estou choramingando.
- Já tive machucados piores. Isso não é nada comparado com aquela confusão de anos atrás com aquele
- caminhão de Cola do sul. Você deveria ter visto, garoto! Tampinhas por todo lugar!}
+{124}{}{VocÃª tem razÃ£o, sim! Eu mal consigo me mexer! Agora preste atenÃ§Ã£o, eu nÃ£o estou choramingando.
+ JÃ¡ tive machucados piores. Isso nÃ£o Ã© nada comparado com aquela confusÃ£o de anos atrÃ¡s com aquele
+ caminhÃ£o de Cola do sul. VocÃª deveria ter visto, garoto! Tampinhas por todo lugar!}
 {125}{}{Aaahhh. Divertiiido!}
-{126}{}{Caramba! Imagine alguém correndo com isso no deserto! Ele teria ficado rico!}
-{127}{}{Pode apostar. Arrgh! Ow! Eu odeio estragar nossa conversa fantástica, mas se você puder me ajudar a sair de baixo desse para-choque, eu agradeceria.}
+{126}{}{Caramba! Imagine alguÃ©m correndo com isso no deserto! Ele teria ficado rico!}
+{127}{}{Pode apostar. Arrgh! Ow! Eu odeio estragar nossa conversa fantÃ¡stica, mas se vocÃª puder me ajudar a sair de baixo desse para-choque, eu agradeceria.}
 {128}{}{Tem certeza?}
-{129}{}{Tem certeza? Acho que você não deveria se mover.}
-{130}{}{Ah, não se preocupe com isso. Uma hora tudo volta ao lugar.}
-{131}{}{OK. Prepare você!}
+{129}{}{Tem certeza? Acho que vocÃª nÃ£o deveria se mover.}
+{130}{}{Ah, nÃ£o se preocupe com isso. Uma hora tudo volta ao lugar.}
+{131}{}{OK. Prepare vocÃª!}
 {132}{}{Tudo bem. Prepare-se!}
-{133}{}{Sim, ops! Onde que você aprendeu a dirigir?}
+{133}{}{Sim, ops! Onde que vocÃª aprendeu a dirigir?}
 {134}{}{Sozinho.}
 {135}{}{Na verdade eu sou autodidata.}
-{136}{}{Ah, tá explicado.}
+{136}{}{Ah, tÃ¡ explicado.}
 {137}{}{Oh. Tudo bem?}
-{138}{}{Oh... bem, eu... hmmmm. Você... você está bem?}
-{139}{}{Eu falei. 'Precisamos de sinais de trânsito', foi o que eu disse. Mas eles ouviram? Nããão... deixa o velho Lumpy pra lá!}
+{138}{}{Oh... bem, eu... hmmmm. VocÃª... vocÃª estÃ¡ bem?}
+{139}{}{Eu falei. 'Precisamos de sinais de trÃ¢nsito', foi o que eu disse. Mas eles ouviram? NÃ£Ã£Ã£o... deixa o velho Lumpy pra lÃ¡!}
 {200}{}{Oh, merda!}
 {201}{}{Ei. Eu bati no homem fedido.}

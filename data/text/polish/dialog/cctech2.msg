@@ -1,52 +1,52 @@
 {100}{}{Widzisz technika.}
 {101}{}{Widzisz technika z Enklawy.}
-{102}{}{Widzisz kogoœ ubranego w faruch laboratoryjny, kto wygl¹da na pewnego siebie i znaj¹cego swoj¹ wartoœæ.}
-{103}{}{S³ucham?}
-{104}{}{Ja tu niedawna. Musi pytaæ.}
-{105}{}{Ja tylko witaæ. Ja ju¿ iœæ.}
-{106}{}{Jestem tu od niedawna i próbujê zapoznaæ siê z baz¹. Mogê zadaæ ci kilka pytañ?}
-{107}{}{Chcê siê tylko przywitaæ. Na razie.}
-{108}{}{Oczywiœcie, ¿o³nierzu.}
-{109}{}{W czym mogê ci pomóc?}
+{102}{}{Widzisz kogoÅ› ubranego w faruch laboratoryjny, kto wyglÄ…da na pewnego siebie i znajÄ…cego swojÄ… wartoÅ›Ä‡.}
+{103}{}{SÅ‚ucham?}
+{104}{}{Ja tu niedawna. Musi pytaÄ‡.}
+{105}{}{Ja tylko witaÄ‡. Ja juÅ¼ iÅ›Ä‡.}
+{106}{}{Jestem tu od niedawna i prÃ³bujÄ™ zapoznaÄ‡ siÄ™ z bazÄ…. MogÄ™ zadaÄ‡ ci kilka pytaÅ„?}
+{107}{}{ChcÄ™ siÄ™ tylko przywitaÄ‡. Na razie.}
+{108}{}{OczywiÅ›cie, Å¼oÅ‚nierzu.}
+{109}{}{W czym mogÄ™ ci pomÃ³c?}
 {110}{}{To miejsce co?}
 {111}{}{Co ty robi?}
-{112}{}{Gdzie g³ówna baza Enklawa?}
-{113}{}{Ja szuka plany latacz. Gdzie znaleŸæ?}
-{117}{}{Ja ju¿ sobie iœæ.}
+{112}{}{Gdzie gÅ‚Ã³wna baza Enklawa?}
+{113}{}{Ja szuka plany latacz. Gdzie znaleÅºÄ‡?}
+{117}{}{Ja juÅ¼ sobie iÅ›Ä‡.}
 {118}{}{Co to za miejsce?}
-{119}{}{Na czym polega twoje zajêcie?}
-{120}{}{Gdzie mieœci siê g³ówna baza Enklawy?}
-{121}{}{Muszê spojrzeæ na plany latacza. Gdzie siê je przechowuje?}
-{125}{}{Niewa¿ne. Muszê ju¿ iœæ.}
-{126}{}{To jest centrum komunikacyjne. St¹d utrzymujemy ³¹cznoœæ z g³ówn¹ baz¹ oraz innymi posterunkami na l¹dzie.}
-{127}{}{Ja rozumi. Jeszcze kilka pytaæ.}
-{128}{}{Rozumiem. Mam jeszcze kilka pytañ.}
-{129}{}{Jestem technikiem komunikacyjnym pierwszej kategorii. Wykonujê obowi¹zki nadzorcze. G³ównie dbam o to, ¿eby inni technicy czegoœ nie spieprzyli.}
+{119}{}{Na czym polega twoje zajÄ™cie?}
+{120}{}{Gdzie mieÅ›ci siÄ™ gÅ‚Ã³wna baza Enklawy?}
+{121}{}{MuszÄ™ spojrzeÄ‡ na plany latacza. Gdzie siÄ™ je przechowuje?}
+{125}{}{NiewaÅ¼ne. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{126}{}{To jest centrum komunikacyjne. StÄ…d utrzymujemy Å‚Ä…cznoÅ›Ä‡ z gÅ‚Ã³wnÄ… bazÄ… oraz innymi posterunkami na lÄ…dzie.}
+{127}{}{Ja rozumi. Jeszcze kilka pytaÄ‡.}
+{128}{}{Rozumiem. Mam jeszcze kilka pytaÅ„.}
+{129}{}{Jestem technikiem komunikacyjnym pierwszej kategorii. WykonujÄ™ obowiÄ…zki nadzorcze. GÅ‚Ã³wnie dbam o to, Å¼eby inni technicy czegoÅ› nie spieprzyli.}
 {130}{}{Uch... jasne.}
-{131}{}{Œwietnie. Tak trzymaæ.}
-{132}{}{¯o³nierzu, to informacja typu "musisz wiedzieæ". Jeœli zadajesz to pytanie, to znaczy, ¿e nie musisz tego wiedzieæ.}
-{133}{}{W porz¹dku.}
-{134}{}{No co ty, przecie¿ nie jestem jakimœ cholernym dzikusem czy czymœ w tym rodzaju. Widzisz te znaczki na zbroi? Jesteœmy z tej samej dru¿yny.}
+{131}{}{Åšwietnie. Tak trzymaÄ‡.}
+{132}{}{Å»oÅ‚nierzu, to informacja typu "musisz wiedzieÄ‡". JeÅ›li zadajesz to pytanie, to znaczy, Å¼e nie musisz tego wiedzieÄ‡.}
+{133}{}{W porzÄ…dku.}
+{134}{}{No co ty, przecieÅ¼ nie jestem jakimÅ› cholernym dzikusem czy czymÅ› w tym rodzaju. Widzisz te znaczki na zbroi? JesteÅ›my z tej samej druÅ¼yny.}
 {135}{}{Rozumiem.}
-{136}{}{Tak jest. G³ówna baza mieœci siê na Oceanie Spokojnym w pobli¿u miasta San Francisco. Czy mogê dowiedzieæ siê, sk¹d takie pytanie?}
-{137}{}{Ju¿ ci powiedzia³em, ¿o³nierzu, ¿e ta informacja jest typu "musisz wiedzieæ".}
-{138}{}{Dla celów bezpieczeñstwa sprawdzam stopieñ œwiadomoœci informacyjnej personelu tej bazy. A teraz podaj mi wszystkie znane ci sposoby na dostanie siê do Enklawy.}
+{136}{}{Tak jest. GÅ‚Ã³wna baza mieÅ›ci siÄ™ na Oceanie Spokojnym w pobliÅ¼u miasta San Francisco. Czy mogÄ™ dowiedzieÄ‡ siÄ™, skÄ…d takie pytanie?}
+{137}{}{JuÅ¼ ci powiedziaÅ‚em, Å¼oÅ‚nierzu, Å¼e ta informacja jest typu "musisz wiedzieÄ‡".}
+{138}{}{Dla celÃ³w bezpieczeÅ„stwa sprawdzam stopieÅ„ Å›wiadomoÅ›ci informacyjnej personelu tej bazy. A teraz podaj mi wszystkie znane ci sposoby na dostanie siÄ™ do Enklawy.}
 {139}{}{Rozumiem.}
-{140}{}{Tak jest. Po pierwsze, g³ówn¹ metod¹ u¿ywan¹ w celu dotarcia do bazy s¹ latacze. W zwi¹zku ze stopniem komplikacji ich obs³ugi jest w¹tpliwe, czy wywrotowcy mogliby nimi sterowaæ. Po drugie, w porcie San Francisco stoi sprawny tankowiec. Jednak¿e statek ten zosta³ unieczynniony, i aby go ponownie uruchomiæ, wymagany jest specjalny klucz. Dowódca bazy posiada taki klucz. Po trzecie, z odpowiednim sprzêtem da³oby siê byæ mo¿e dotrzeæ do g³ównej bazy wp³aw, ale szanse prze¿ycia by³by niemal¿e ¿adne.}
-{141}{}{Dziêkujê.}
-{142}{}{Dziêkujê.}
-{143}{}{Znajduj¹ siê w budynku obs³ugi, zaraz obok budynku kontroli ruchu powietrznego. }
-{144}{}{W porz¹dku.}
-{145}{}{Kapujê.}
-{155}{}{Odni³o ci, ¿eby ³aziæ tu bez munduru? IdŸ siê ubraæ!}
-{156}{}{Jak sier¿ant ciê z³apie bez munduru, to urwie ci ³eb.}
+{140}{}{Tak jest. Po pierwsze, gÅ‚Ã³wnÄ… metodÄ… uÅ¼ywanÄ… w celu dotarcia do bazy sÄ… latacze. W zwiÄ…zku ze stopniem komplikacji ich obsÅ‚ugi jest wÄ…tpliwe, czy wywrotowcy mogliby nimi sterowaÄ‡. Po drugie, w porcie San Francisco stoi sprawny tankowiec. JednakÅ¼e statek ten zostaÅ‚ unieczynniony, i aby go ponownie uruchomiÄ‡, wymagany jest specjalny klucz. DowÃ³dca bazy posiada taki klucz. Po trzecie, z odpowiednim sprzÄ™tem daÅ‚oby siÄ™ byÄ‡ moÅ¼e dotrzeÄ‡ do gÅ‚Ã³wnej bazy wpÅ‚aw, ale szanse przeÅ¼ycia byÅ‚by niemalÅ¼e Å¼adne.}
+{141}{}{DziÄ™kujÄ™.}
+{142}{}{DziÄ™kujÄ™.}
+{143}{}{ZnajdujÄ… siÄ™ w budynku obsÅ‚ugi, zaraz obok budynku kontroli ruchu powietrznego. }
+{144}{}{W porzÄ…dku.}
+{145}{}{KapujÄ™.}
+{155}{}{OdniÅ‚o ci, Å¼eby Å‚aziÄ‡ tu bez munduru? IdÅº siÄ™ ubraÄ‡!}
+{156}{}{Jak sierÅ¼ant ciÄ™ zÅ‚apie bez munduru, to urwie ci Å‚eb.}
 {157}{}{Czemu nie masz munduru?}
-{158}{}{Kurwa! Zostaliœmy zaatakowani! Alarm!}
-{159}{}{Stra¿! Intruzi!}
-{160}{}{Wezwaæ stra¿e! Intruzi w centrum komunikacyjnym!}
+{158}{}{Kurwa! ZostaliÅ›my zaatakowani! Alarm!}
+{159}{}{StraÅ¼! Intruzi!}
+{160}{}{WezwaÄ‡ straÅ¼e! Intruzi w centrum komunikacyjnym!}
 {161}{}{Co jest? Zaatakowano nas?}
-{162}{}{Po co ten alarm? Co siê dzieje?}
-{163}{}{Co siê do jasnej cholery dzieje?}
+{162}{}{Po co ten alarm? Co siÄ™ dzieje?}
+{163}{}{Co siÄ™ do jasnej cholery dzieje?}
 {164}{}{Jestem tylko technikiem, nie strzelaj!}
 {165}{}{Nie jestem tu dla walki, tylko na szkoleniu technicznym!}
-{166}{}{To jest fartuch laboratoryjny, a nie pancerz! Zmiatam st¹d!}
+{166}{}{To jest fartuch laboratoryjny, a nie pancerz! Zmiatam stÄ…d!}

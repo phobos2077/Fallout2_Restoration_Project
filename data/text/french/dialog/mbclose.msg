@@ -1,1 +1,1 @@
-{100}{}{Tu arrives en un lieu où se trouvent de nombreuses tentes abandonnées. Des hurlements couvrent le bruit du vent.}
+{100}{}{Tu arrives en un lieu oÃ¹ se trouvent de nombreuses tentes abandonnÃ©es. Des hurlements couvrent le bruit du vent.}

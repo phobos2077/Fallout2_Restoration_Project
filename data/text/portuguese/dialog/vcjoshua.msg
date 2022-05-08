@@ -1,3 +1,3 @@
-{100}{}{Você vê Joshua.}
-{101}{}{Você vê um jovem de cabelo despenteado com um sorriso tímido}
-{102}{}{Obrigado por conseguir a minha fiança. Eu sou grato por isso. Eu e minha esposa mudaremos daqui em breve.}
+{100}{}{VocÃª vÃª Joshua.}
+{101}{}{VocÃª vÃª um jovem de cabelo despenteado com um sorriso tÃ­mido}
+{102}{}{Obrigado por conseguir a minha fianÃ§a. Eu sou grato por isso. Eu e minha esposa mudaremos daqui em breve.}

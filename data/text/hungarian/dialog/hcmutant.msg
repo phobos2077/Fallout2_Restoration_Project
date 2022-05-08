@@ -1,56 +1,56 @@
-{100}{}{Egy öreg mutánst látsz.}
-{101}{}{Egy öreg mutánst látsz, Broken Hills lakóját.}
-{102}{}{Közelebbr?l szemügyre véve, egy öreged? mutánst látsz. Az izmaiban dagadó er? még mindig jelent?s, ahogyan az arcáról leolvasható defenzív büszkeség is.}
-{103}{}{Azt hiszem... hogy... a radon gáz ?rzi meg a bányászok fiatalságát.}
-{104}{}{Kezdek szenilis lenni... várj... kezdenek visszajönni az emlékek...}
-{105}{}{Hallottad, hogy az emberek a meggyilkolásunkat tervezik?}
-{106}{}{Bárcsak jobban elfogadnának az emberek minket. Mi is emberek vagyunk a magunk módján.}
-{107}{}{Mi újság odakint a világban? Nem hallani sok hírt manapság.}
-{108}{}{Valaki azt mondta, hogy az F.E.V., ami létrehozott minket, szenilissé tesz.}
-{109}{}{Kezdek öregedni. Régen gyors voltam és er?s... most úgy t?nik, alig vagyok jobb egy embernél.}
-{110}{}{Mit számít az élet, ha úgyis véget ér egyszer?}
-{132}{}{Ki engedte ki azt a két tet?t? Összetöröm ?ket!}
-{133}{}{Franc és Manson jobban teszik, ha elbújdosnak... Ha elkapom ?ket, a puszta kezemmel fogom összezúzni a koponyájukat.}
-{134}{}{Franc. Manson. A föld mocskai.}
-{135}{}{A kis gennyládák újra szabadok, hogy gyilkolhassanak, he?}
-{136}{}{Csapatot szervezünk a megkeresésükre.}
-{137}{}{Nem fogok addig nyugodtan aludni, amíg azok a mocskok élnek.}
-{138}{}{A biztonságunknak annyi.}
-{139}{}{Ööö... ummm... ki is vagy te?}
-{140}{}{Franc és Manson viselkedni fognak? Ha ez teljesül, keresztbe lenyelem a lábamat.}
-{141}{}{Nem fogjuk megköszönni neked, ha az a két faszfej újabb z?rt csinál, t'od.}
-{142}{}{Rendben... Adok egy lehet?séget annak a két balféknek...}
+{100}{}{Egy Ã¶reg mutÃ¡nst lÃ¡tsz.}
+{101}{}{Egy Ã¶reg mutÃ¡nst lÃ¡tsz, Broken Hills lakÃ³jÃ¡t.}
+{102}{}{KÃ¶zelebbr?l szemÃ¼gyre vÃ©ve, egy Ã¶reged? mutÃ¡nst lÃ¡tsz. Az izmaiban dagadÃ³ er? mÃ©g mindig jelent?s, ahogyan az arcÃ¡rÃ³l leolvashatÃ³ defenzÃ­v bÃ¼szkesÃ©g is.}
+{103}{}{Azt hiszem... hogy... a radon gÃ¡z ?rzi meg a bÃ¡nyÃ¡szok fiatalsÃ¡gÃ¡t.}
+{104}{}{Kezdek szenilis lenni... vÃ¡rj... kezdenek visszajÃ¶nni az emlÃ©kek...}
+{105}{}{Hallottad, hogy az emberek a meggyilkolÃ¡sunkat tervezik?}
+{106}{}{BÃ¡rcsak jobban elfogadnÃ¡nak az emberek minket. Mi is emberek vagyunk a magunk mÃ³djÃ¡n.}
+{107}{}{Mi ÃºjsÃ¡g odakint a vilÃ¡gban? Nem hallani sok hÃ­rt manapsÃ¡g.}
+{108}{}{Valaki azt mondta, hogy az F.E.V., ami lÃ©trehozott minket, szenilissÃ© tesz.}
+{109}{}{Kezdek Ã¶regedni. RÃ©gen gyors voltam Ã©s er?s... most Ãºgy t?nik, alig vagyok jobb egy embernÃ©l.}
+{110}{}{Mit szÃ¡mÃ­t az Ã©let, ha Ãºgyis vÃ©get Ã©r egyszer?}
+{132}{}{Ki engedte ki azt a kÃ©t tet?t? Ã–sszetÃ¶rÃ¶m ?ket!}
+{133}{}{Franc Ã©s Manson jobban teszik, ha elbÃºjdosnak... Ha elkapom ?ket, a puszta kezemmel fogom Ã¶sszezÃºzni a koponyÃ¡jukat.}
+{134}{}{Franc. Manson. A fÃ¶ld mocskai.}
+{135}{}{A kis gennylÃ¡dÃ¡k Ãºjra szabadok, hogy gyilkolhassanak, he?}
+{136}{}{Csapatot szervezÃ¼nk a megkeresÃ©sÃ¼kre.}
+{137}{}{Nem fogok addig nyugodtan aludni, amÃ­g azok a mocskok Ã©lnek.}
+{138}{}{A biztonsÃ¡gunknak annyi.}
+{139}{}{Ã–Ã¶Ã¶... ummm... ki is vagy te?}
+{140}{}{Franc Ã©s Manson viselkedni fognak? Ha ez teljesÃ¼l, keresztbe lenyelem a lÃ¡bamat.}
+{141}{}{Nem fogjuk megkÃ¶szÃ¶nni neked, ha az a kÃ©t faszfej Ãºjabb z?rt csinÃ¡l, t'od.}
+{142}{}{Rendben... Adok egy lehet?sÃ©get annak a kÃ©t balfÃ©knek...}
 {143}{}{Hogyan jutok haza?}
-{144}{}{Nem épp az el?bb beszéltem veled?}
-{145}{}{Nem fogok addig nyugodtan aludni, amíg azok a mocskok élnek.}
-{146}{}{A biztonságunknak annyi.}
-{147}{}{Ööö... ummm... ki is vagy te?}
-{148}{}{Tudtam, hogy azok a szarcsimbókok ellenünk áskálódnak!}
-{149}{}{Sosem bíztam abban a rohadék Jacobban.}
-{150}{}{Szóval... az emberek megpróbálnak kinyírni minket. Talán ha mi nyírnánk ki ?ket helyette.}
-{151}{}{Nem minden ember csinálja ezt, ugyi?}
-{152}{}{Nos, nos, nos... újabb átverés az emberekt?l?}
-{153}{}{Nap mint nap egyre többet vesztek... az emlékezetemet és az emberekbe vetett hitemet épp tegnap.}
-{154}{}{Te jófiú vagy. Az bizony.}
-{162}{}{Francis meg van lepve. Én nem kevésbé.}
-{163}{}{Hogyan tud lenyomni egy ember egy mutánst szkanderben? Csaltál?}
-{164}{}{Szóval, mire fogod használni a díjadat?}
+{144}{}{Nem Ã©pp az el?bb beszÃ©ltem veled?}
+{145}{}{Nem fogok addig nyugodtan aludni, amÃ­g azok a mocskok Ã©lnek.}
+{146}{}{A biztonsÃ¡gunknak annyi.}
+{147}{}{Ã–Ã¶Ã¶... ummm... ki is vagy te?}
+{148}{}{Tudtam, hogy azok a szarcsimbÃ³kok ellenÃ¼nk Ã¡skÃ¡lÃ³dnak!}
+{149}{}{Sosem bÃ­ztam abban a rohadÃ©k Jacobban.}
+{150}{}{SzÃ³val... az emberek megprÃ³bÃ¡lnak kinyÃ­rni minket. TalÃ¡n ha mi nyÃ­rnÃ¡nk ki ?ket helyette.}
+{151}{}{Nem minden ember csinÃ¡lja ezt, ugyi?}
+{152}{}{Nos, nos, nos... Ãºjabb Ã¡tverÃ©s az emberekt?l?}
+{153}{}{Nap mint nap egyre tÃ¶bbet vesztek... az emlÃ©kezetemet Ã©s az emberekbe vetett hitemet Ã©pp tegnap.}
+{154}{}{Te jÃ³fiÃº vagy. Az bizony.}
+{162}{}{Francis meg van lepve. Ã‰n nem kevÃ©sbÃ©.}
+{163}{}{Hogyan tud lenyomni egy ember egy mutÃ¡nst szkanderben? CsaltÃ¡l?}
+{164}{}{SzÃ³val, mire fogod hasznÃ¡lni a dÃ­jadat?}
 {165}{}{Er?s. Nagyon er?s.}
-{166}{}{Ha egyszer voltál egy mutival, nincs visszaút.}
-{167}{}{Úgy hallottam, jó voltál és... bejöttél Francisnek.}
-{168}{}{Csodálom, hogy tudsz járni.}
-{169}{}{Heh... Francis talán öreg, de azért még tud!}
-{170}{}{Szegény emberek.}
-{171}{}{Bebörtönözve a föld alatt...}
-{172}{}{Akkor azt mondtam: "Jacob és Aileen bajt fog okozni. Ahogyan Franc és Manson is." Hallgatott rám bárki is? Hát nem...}
-{173}{}{Alagutak, mi? Mindig is tudtam, hogy azok a rohadékok patkányok.}
-{174}{}{Szóval azok a testek okozták a b?zt, mi?}
-{175}{}{Miért bántasz minket?}
-{176}{}{Az emberek sosem bíztak bennem.}
-{177}{}{Haggyá' békén!}
-{178}{}{Miért nem döglesz meg inkább?}
-{179}{}{Miért pusztítják el az emberek azt, amit?l félnek?}
-{180}{}{Te gané!}
-{181}{}{Értéktelen az életed.}
-{182}{}{Emlékszem egy hozzád hasonló emberre...}
-{183}{}{Én már ahhoz is túl öreg vagyok, hogy utáljalak.}
+{166}{}{Ha egyszer voltÃ¡l egy mutival, nincs visszaÃºt.}
+{167}{}{Ãšgy hallottam, jÃ³ voltÃ¡l Ã©s... bejÃ¶ttÃ©l Francisnek.}
+{168}{}{CsodÃ¡lom, hogy tudsz jÃ¡rni.}
+{169}{}{Heh... Francis talÃ¡n Ã¶reg, de azÃ©rt mÃ©g tud!}
+{170}{}{SzegÃ©ny emberek.}
+{171}{}{BebÃ¶rtÃ¶nÃ¶zve a fÃ¶ld alatt...}
+{172}{}{Akkor azt mondtam: "Jacob Ã©s Aileen bajt fog okozni. Ahogyan Franc Ã©s Manson is." Hallgatott rÃ¡m bÃ¡rki is? HÃ¡t nem...}
+{173}{}{Alagutak, mi? Mindig is tudtam, hogy azok a rohadÃ©kok patkÃ¡nyok.}
+{174}{}{SzÃ³val azok a testek okoztÃ¡k a b?zt, mi?}
+{175}{}{MiÃ©rt bÃ¡ntasz minket?}
+{176}{}{Az emberek sosem bÃ­ztak bennem.}
+{177}{}{HaggyÃ¡' bÃ©kÃ©n!}
+{178}{}{MiÃ©rt nem dÃ¶glesz meg inkÃ¡bb?}
+{179}{}{MiÃ©rt pusztÃ­tjÃ¡k el az emberek azt, amit?l fÃ©lnek?}
+{180}{}{Te ganÃ©!}
+{181}{}{Ã‰rtÃ©ktelen az Ã©leted.}
+{182}{}{EmlÃ©kszem egy hozzÃ¡d hasonlÃ³ emberre...}
+{183}{}{Ã‰n mÃ¡r ahhoz is tÃºl Ã¶reg vagyok, hogy utÃ¡ljalak.}

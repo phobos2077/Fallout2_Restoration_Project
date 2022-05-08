@@ -1,2 +1,2 @@
 {100}{}{Tu vois un radscorpion.}
-{500}{}{Tu as tué tous les radscorpions qui menaçaient les Brahmines.}
+{500}{}{Tu as tuÃ© tous les radscorpions qui menaÃ§aient les Brahmines.}

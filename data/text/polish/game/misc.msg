@@ -1,114 +1,114 @@
-{0}{}{Czy na pewno chcesz zrezygnowaæ?}
+{0}{}{Czy na pewno chcesz zrezygnowaÄ‡?}
 {1}{}{Wersja demo.}
-{2}{}{U¿yta zostanie postaæ domyœlna.}
+{2}{}{UÅ¼yta zostanie postaÄ‡ domyÅ›lna.}
 {3}{}{Zapisano zrzut ekranu.}
-{4}{}{Gra do szybkiego odczytu za³adowana.}
+{4}{}{Gra do szybkiego odczytu zaÅ‚adowana.}
 {5}{}{Gra do szybkiego zapisu zapisana.}
 {6}{}{Koniec limitu czasowego wersji demo.}
-{7}{}{Pip-Boy nie jest dostêpny podczas walki!}
-{8}{}{B³¹d w trakcie zapisywania zrzutu ekranu.}
-{9}{}{WSTÊP}
+{7}{}{Pip-Boy nie jest dostÄ™pny podczas walki!}
+{8}{}{BÅ‚Ä…d w trakcie zapisywania zrzutu ekranu.}
+{9}{}{WSTÄ˜P}
 {10}{}{NOWA GRA}
 {11}{}{WCZYTAJ}
 {12}{}{OPCJE}
-{13}{}{TWÓRCY}
-{14}{}{WYJŒCIE}
+{13}{}{TWÃ“RCY}
+{14}{}{WYJÅšCIE}
 {15}{}{Punkty akcji}
 {16}{}{Punkty wytrzym.}
-{17}{}{Detektor ruchu nie zosta³ zainstalowany.}
-{18}{}{Detektor ruchu jest roz³adowany.}
+{17}{}{Detektor ruchu nie zostaÅ‚ zainstalowany.}
+{18}{}{Detektor ruchu jest rozÅ‚adowany.}
 {20}{}{Copyright(c) 1998 Interplay Productions.  All rights reserved.}
-{30}{}{Czy chcesz kontynuowaæ grê?}
-{50}{}{Do uruchomienia gry Fallout 2 potrzebna jest p³yta CD!}
-{100}{}{B³¹d w trakcie zapisu konfiguracji!}
-{101}{}{Ustawienia gry nie zosta³y zapisane.}
-{1000}{}{Odczuwasz silne md³oœci.}
-{1001}{}{Odczuwasz silne md³oœci, a po lekkich wymiotach tak¿e niewielkie zmêczenie.}
-{1002}{}{Odczuwasz silne zmêczenie, wymiotom nie ma koñca, a tempo twojego zdrowienia uleg³o pogorszeniu.}
-{1003}{}{Obficie krwawisz, jest ci bardzo niedobrze, a ponadto wypadaj¹ ci w³osy.}
-{1004}{}{Obficie i bezustannie krwawisz. Nawet twoje wymiociny zabarwione s¹ krwi¹. Skóra odpada z ciebie p³atami.}
-{1005}{}{Pojawi³ siê silny krwotok wewnêtrzny po³¹czony z ciê¿k¹ biegunk¹. Masz wra¿enie, ¿e spuch³o ci ca³e cia³o, pogr¹¿asz siê w bolesnej agonii.}
-{1006}{}{Umierasz na chorobê popromienn¹.}
-{1007}{}{Otrzymujesz du¿¹ dawkê promieniowania.}
+{30}{}{Czy chcesz kontynuowaÄ‡ grÄ™?}
+{50}{}{Do uruchomienia gry Fallout 2 potrzebna jest pÅ‚yta CD!}
+{100}{}{BÅ‚Ä…d w trakcie zapisu konfiguracji!}
+{101}{}{Ustawienia gry nie zostaÅ‚y zapisane.}
+{1000}{}{Odczuwasz silne mdÅ‚oÅ›ci.}
+{1001}{}{Odczuwasz silne mdÅ‚oÅ›ci, a po lekkich wymiotach takÅ¼e niewielkie zmÄ™czenie.}
+{1002}{}{Odczuwasz silne zmÄ™czenie, wymiotom nie ma koÅ„ca, a tempo twojego zdrowienia ulegÅ‚o pogorszeniu.}
+{1003}{}{Obficie krwawisz, jest ci bardzo niedobrze, a ponadto wypadajÄ… ci wÅ‚osy.}
+{1004}{}{Obficie i bezustannie krwawisz. Nawet twoje wymiociny zabarwione sÄ… krwiÄ…. SkÃ³ra odpada z ciebie pÅ‚atami.}
+{1005}{}{PojawiÅ‚ siÄ™ silny krwotok wewnÄ™trzny poÅ‚Ä…czony z ciÄ™Å¼kÄ… biegunkÄ…. Masz wraÅ¼enie, Å¼e spuchÅ‚o ci caÅ‚e ciaÅ‚o, pogrÄ…Å¼asz siÄ™ w bolesnej agonii.}
+{1006}{}{Umierasz na chorobÄ™ popromiennÄ….}
+{1007}{}{Otrzymujesz duÅ¼Ä… dawkÄ™ promieniowania.}
 {1008}{}{Licznik Geigera trzeszczy.}
-{1009}{}{Licznik Geigera szaleñczo trzeszczy.}
-{2000}{}{W tym momencie nie potrafisz siê tam dostaæ.}
+{1009}{}{Licznik Geigera szaleÅ„czo trzeszczy.}
+{2000}{}{W tym momencie nie potrafisz siÄ™ tam dostaÄ‡.}
 {2001}{}{Zamek jest zaklinowany.}
 {3000}{}{Ulegasz zatruciu!}
-{3001}{}{Ponosisz obra¿enia wskutek zatrucia.}
-{3002}{}{Czujesz siê nieco lepiej.}
-{3003}{}{Czujesz siê znacznie lepiej.}
-{4000}{}{Z powodu twojej nieudolnoœci ³adunek detonuje przedwczeœnie.}
-{5000}{}{u¿ywa }
-{5001}{}{nie ma amunicji do prze³adowania broni:}
-{5002}{}{prze³adowuje }
-{6000}{}{¯e co?}
+{3001}{}{Ponosisz obraÅ¼enia wskutek zatrucia.}
+{3002}{}{Czujesz siÄ™ nieco lepiej.}
+{3003}{}{Czujesz siÄ™ znacznie lepiej.}
+{4000}{}{Z powodu twojej nieudolnoÅ›ci Å‚adunek detonuje przedwczeÅ›nie.}
+{5000}{}{uÅ¼ywa }
+{5001}{}{nie ma amunicji do przeÅ‚adowania broni:}
+{5002}{}{przeÅ‚adowuje }
+{6000}{}{Å»e co?}
 {7000}{}{Nie masz przy sobie Pip-Boya!}
-{8000}{}{DŸwigasz stanowczo za du¿o.}
-{8001}{}{%s dŸwiga za du¿o rzeczy.}
-{8500}{}{Dziêki umiejêtnemu wykorzystaniu swoich traperskich zdolnoœci, zyskujesz %d PD.}
-{9000}{}{%s nabiera doœwiadczenia.}
-{9010}{}{Oooch.... Czujê nag³y przyp³yw geniuszu.}
-{9011}{}{Przyjedzie walec i wyrówna.}
-{9012}{}{Czujê ogromne zaburzenia Mocy. Tak wielkie, ¿e a¿ zyska³y na tym moje umiejêtnoœci.}
-{9013}{}{Czujê Moc! Si³ê, M¹droœæ!}
-{9020}{}{Rany! Czujê siê tak, jakby skoñczy³ siê jakiœ trudny egzamin, zaliczenie którego dodaje cz³owiekowi skrzyde³!}
-{9021}{}{Aaachhh! Miêœnie... nabrzmiewaj¹... Statystyki... wzrastaj¹.... Zdobywam kolejny poziom...}
-{9022}{}{Dajcie mi dyplom i profesorsk¹ togê, chyba w³aœnie zm¹drza³em!}
-{9023}{}{Hej, mój poziom krzepy znacznie wzrós³! Czy to oznacza, ¿e wzrosn¹ równie¿ moje pobory?}
-{9030}{}{Przypominam sobie jak przez mg³ê... to jak z jazd¹ na rowerze, raz siê nauczysz, zawsze bêdziesz umia³...}
-{9031}{}{Hehe. Zdaje siê, ¿e nawet taki stary wyga jak ja mo¿e siê czegoœ nowego nauczyæ.}
-{9032}{}{Wygl¹da na to, ¿e ca³e to podró¿owanie w koñcu siê op³aci³o.}
-{9033}{}{Nauczy³em siê paru nowych chwytów!}
-{9040}{}{Przodkowie uczyæ. My s³uchaæ.}
-{9041}{}{Ze œwiata duchów p³yn¹æ wielka m¹droœæ.}
-{9042}{}{Teraz byæ czas nauki.}
-{9043}{}{Sulik czuæ, wielka moc przep³ywaæ przez Sulik!}
-{9044}{}{My byæ teraz jednoœæ z Wielka Koœæ Przodków.}
-{9045}{}{My teraz rozmawiaæ z Przodki równy z równym.}
-{9050}{}{O rany... Faktycznie czegoœ siê nauczy³em.}
-{9051}{}{To poczucie winy mnie wykoñczy.}
-{9052}{}{Nie do wiary, ¿e uda³o mi siê tak d³ugo prze¿yæ.}
+{8000}{}{DÅºwigasz stanowczo za duÅ¼o.}
+{8001}{}{%s dÅºwiga za duÅ¼o rzeczy.}
+{8500}{}{DziÄ™ki umiejÄ™tnemu wykorzystaniu swoich traperskich zdolnoÅ›ci, zyskujesz %d PD.}
+{9000}{}{%s nabiera doÅ›wiadczenia.}
+{9010}{}{Oooch.... CzujÄ™ nagÅ‚y przypÅ‚yw geniuszu.}
+{9011}{}{Przyjedzie walec i wyrÃ³wna.}
+{9012}{}{CzujÄ™ ogromne zaburzenia Mocy. Tak wielkie, Å¼e aÅ¼ zyskaÅ‚y na tym moje umiejÄ™tnoÅ›ci.}
+{9013}{}{CzujÄ™ Moc! SiÅ‚Ä™, MÄ…droÅ›Ä‡!}
+{9020}{}{Rany! CzujÄ™ siÄ™ tak, jakby skoÅ„czyÅ‚ siÄ™ jakiÅ› trudny egzamin, zaliczenie ktÃ³rego dodaje czÅ‚owiekowi skrzydeÅ‚!}
+{9021}{}{Aaachhh! MiÄ™Å›nie... nabrzmiewajÄ…... Statystyki... wzrastajÄ….... Zdobywam kolejny poziom...}
+{9022}{}{Dajcie mi dyplom i profesorskÄ… togÄ™, chyba wÅ‚aÅ›nie zmÄ…drzaÅ‚em!}
+{9023}{}{Hej, mÃ³j poziom krzepy znacznie wzrÃ³sÅ‚! Czy to oznacza, Å¼e wzrosnÄ… rÃ³wnieÅ¼ moje pobory?}
+{9030}{}{Przypominam sobie jak przez mgÅ‚Ä™... to jak z jazdÄ… na rowerze, raz siÄ™ nauczysz, zawsze bÄ™dziesz umiaÅ‚...}
+{9031}{}{Hehe. Zdaje siÄ™, Å¼e nawet taki stary wyga jak ja moÅ¼e siÄ™ czegoÅ› nowego nauczyÄ‡.}
+{9032}{}{WyglÄ…da na to, Å¼e caÅ‚e to podrÃ³Å¼owanie w koÅ„cu siÄ™ opÅ‚aciÅ‚o.}
+{9033}{}{NauczyÅ‚em siÄ™ paru nowych chwytÃ³w!}
+{9040}{}{Przodkowie uczyÄ‡. My sÅ‚uchaÄ‡.}
+{9041}{}{Ze Å›wiata duchÃ³w pÅ‚ynÄ…Ä‡ wielka mÄ…droÅ›Ä‡.}
+{9042}{}{Teraz byÄ‡ czas nauki.}
+{9043}{}{Sulik czuÄ‡, wielka moc przepÅ‚ywaÄ‡ przez Sulik!}
+{9044}{}{My byÄ‡ teraz jednoÅ›Ä‡ z Wielka KoÅ›Ä‡ PrzodkÃ³w.}
+{9045}{}{My teraz rozmawiaÄ‡ z Przodki rÃ³wny z rÃ³wnym.}
+{9050}{}{O rany... Faktycznie czegoÅ› siÄ™ nauczyÅ‚em.}
+{9051}{}{To poczucie winy mnie wykoÅ„czy.}
+{9052}{}{Nie do wiary, Å¼e udaÅ‚o mi siÄ™ tak dÅ‚ugo przeÅ¼yÄ‡.}
 {9060}{}{Hau!}
 {9061}{}{Hau!}
 {9062}{}{Hau!}
 {9063}{}{Hau!}
 {9064}{}{Hau! Hau!}
-{9070}{}{Umiem parê nowych rzeczy!}
-{9071}{}{Umiem parê nowych rzeczy!}
-{9080}{}{Pewnym jest, i¿ dozna³em poszerzenia swych horyzontów myœlowych!}
-{9081}{}{Nauka to potêgi klucz!.}
-{9082}{}{Moje postêpy przebiegaj¹ zgodnie z planem.}
-{9083}{}{W wiedzy mej przeœcign¹³em samego Gruthara!}
-{9084}{}{Pomiêdzy innemi prym w sile wiodê.}
-{9085}{}{Najsilniejszym bêd¹c poœród s³abych, przewodziæ im i chroniæ ich winienem.}
-{9090}{}{Umiem parê nowych rzeczy!}
-{9091}{}{Umiem parê nowych rzeczy!}
-{9100}{}{Umiem parê nowych rzeczy!}
-{9101}{}{Umiem parê nowych rzeczy!}
-{9110}{}{Umiem parê nowych rzeczy!}
-{9111}{}{Umiem parê nowych rzeczy!}
-{9120}{}{ANALIZA DANYCH ZAKOÑCZONA. UAKTUALNIAM OPROGRAMOWANIE.}
-{9121}{}{NOWE DANE ZEBRANE. PRZEKALIBROWUJÊ SYSTEMY CELOWNICZE.}
-{9122}{}{WYMIANA KOMPONENTÓW SYSTEMOWYCH ZAKOÑCZONA.}
-{9123}{}{SYSTEMY CELOWNICZE PRZEKALIBROWANE. WZROST WYDAJNOŒCI 20%.}
-{9124}{}{OPTYMALNA WYDAJNOŒÆ OSI¥GNIÊTA.}
-{9130}{}{Szefie! Chyba wreszcie zaczynam coœ z tego kumaæ.}
-{9131}{}{Coraz lepiej mi idzie! A nie mówi³em, ¿e szefa nie zawiodê?}
-{9132}{}{Hej... czekaj... teeeraz rozumiem. Chyba Ÿle sk³ada³em siê do celowania.}
-{9133}{}{Widzisz szefie? Mo¿na takiego zardzewia³ego goœcia jak ja czegoœ nauczyæ!}
-{9134}{}{Wiesz co, szefie? Chyba faktycznie dam radê nauczyæ siê tego lub owego.}
-{9135}{}{Jestem w tym coraz lepszy, co nie, szefie? Wszystko co dobre, z czasem stanie siê jeszcze lepsze.}
-{9140}{}{Umiem parê nowych rzeczy!}
-{9141}{}{Umiem parê nowych rzeczy!}
-{9150}{}{Umiem parê nowych rzeczy!}
-{9151}{}{Umiem parê nowych rzeczy!}
-{9160}{}{Umiem parê nowych rzeczy!}
-{9161}{}{Umiem parê nowych rzeczy!}
-{9170}{}{Umiem parê nowych rzeczy!}
-{9171}{}{Umiem parê nowych rzeczy!}
-{9180}{}{Umiem parê nowych rzeczy!}
-{9181}{}{Umiem parê nowych rzeczy!}
+{9070}{}{Umiem parÄ™ nowych rzeczy!}
+{9071}{}{Umiem parÄ™ nowych rzeczy!}
+{9080}{}{Pewnym jest, iÅ¼ doznaÅ‚em poszerzenia swych horyzontÃ³w myÅ›lowych!}
+{9081}{}{Nauka to potÄ™gi klucz!.}
+{9082}{}{Moje postÄ™py przebiegajÄ… zgodnie z planem.}
+{9083}{}{W wiedzy mej przeÅ›cignÄ…Å‚em samego Gruthara!}
+{9084}{}{PomiÄ™dzy innemi prym w sile wiodÄ™.}
+{9085}{}{Najsilniejszym bÄ™dÄ…c poÅ›rÃ³d sÅ‚abych, przewodziÄ‡ im i chroniÄ‡ ich winienem.}
+{9090}{}{Umiem parÄ™ nowych rzeczy!}
+{9091}{}{Umiem parÄ™ nowych rzeczy!}
+{9100}{}{Umiem parÄ™ nowych rzeczy!}
+{9101}{}{Umiem parÄ™ nowych rzeczy!}
+{9110}{}{Umiem parÄ™ nowych rzeczy!}
+{9111}{}{Umiem parÄ™ nowych rzeczy!}
+{9120}{}{ANALIZA DANYCH ZAKOÅƒCZONA. UAKTUALNIAM OPROGRAMOWANIE.}
+{9121}{}{NOWE DANE ZEBRANE. PRZEKALIBROWUJÄ˜ SYSTEMY CELOWNICZE.}
+{9122}{}{WYMIANA KOMPONENTÃ“W SYSTEMOWYCH ZAKOÅƒCZONA.}
+{9123}{}{SYSTEMY CELOWNICZE PRZEKALIBROWANE. WZROST WYDAJNOÅšCI 20%.}
+{9124}{}{OPTYMALNA WYDAJNOÅšÄ† OSIÄ„GNIÄ˜TA.}
+{9130}{}{Szefie! Chyba wreszcie zaczynam coÅ› z tego kumaÄ‡.}
+{9131}{}{Coraz lepiej mi idzie! A nie mÃ³wiÅ‚em, Å¼e szefa nie zawiodÄ™?}
+{9132}{}{Hej... czekaj... teeeraz rozumiem. Chyba Åºle skÅ‚adaÅ‚em siÄ™ do celowania.}
+{9133}{}{Widzisz szefie? MoÅ¼na takiego zardzewiaÅ‚ego goÅ›cia jak ja czegoÅ› nauczyÄ‡!}
+{9134}{}{Wiesz co, szefie? Chyba faktycznie dam radÄ™ nauczyÄ‡ siÄ™ tego lub owego.}
+{9135}{}{Jestem w tym coraz lepszy, co nie, szefie? Wszystko co dobre, z czasem stanie siÄ™ jeszcze lepsze.}
+{9140}{}{Umiem parÄ™ nowych rzeczy!}
+{9141}{}{Umiem parÄ™ nowych rzeczy!}
+{9150}{}{Umiem parÄ™ nowych rzeczy!}
+{9151}{}{Umiem parÄ™ nowych rzeczy!}
+{9160}{}{Umiem parÄ™ nowych rzeczy!}
+{9161}{}{Umiem parÄ™ nowych rzeczy!}
+{9170}{}{Umiem parÄ™ nowych rzeczy!}
+{9171}{}{Umiem parÄ™ nowych rzeczy!}
+{9180}{}{Umiem parÄ™ nowych rzeczy!}
+{9181}{}{Umiem parÄ™ nowych rzeczy!}
 {9190}{}{Hau HAU!}
 {9191}{}{Hau HAU HAUUU!}
 {9192}{}{Hau HAU HAUUU!}
@@ -119,23 +119,23 @@
 {9210}{}{}
 {9220}{}{}
 {9230}{}{}
-{9240}{}{Inicjalizujê aktualizacjê oprogramowania, Panie... Aktualizacja zakoñczona.}
-{9241}{}{Instalujê nowe oprogramowanie, Panie... Wersja 2.0 zainstalowana.}
-{9242}{}{Wykonujê modyfikacjê sprzêtow¹, Panie... Wydajnoœæ systemu standardowa.}
-{9243}{}{Wykonujê modyfikacjê sprzêtow¹, Panie... Wydajnoœæ systemu optymalna!}
+{9240}{}{InicjalizujÄ™ aktualizacjÄ™ oprogramowania, Panie... Aktualizacja zakoÅ„czona.}
+{9241}{}{InstalujÄ™ nowe oprogramowanie, Panie... Wersja 2.0 zainstalowana.}
+{9242}{}{WykonujÄ™ modyfikacjÄ™ sprzÄ™towÄ…, Panie... WydajnoÅ›Ä‡ systemu standardowa.}
+{9243}{}{WykonujÄ™ modyfikacjÄ™ sprzÄ™towÄ…, Panie... WydajnoÅ›Ä‡ systemu optymalna!}
 {9250}{}{}
-{9260}{}{Jest wiêcej ni¿ jeden sposób na wyprawienie kota.}
-{9261}{}{Im ni¿ej upadnê, tym wy¿ej siê wzniosê.}
-{9262}{}{¯yj. Ucz siê. Rozwijaj.}
-{9263}{}{S³yszê i zapominam; widzê i pamiêtam; robiê i rozumiem.}
+{9260}{}{Jest wiÄ™cej niÅ¼ jeden sposÃ³b na wyprawienie kota.}
+{9261}{}{Im niÅ¼ej upadnÄ™, tym wyÅ¼ej siÄ™ wzniosÄ™.}
+{9262}{}{Å»yj. Ucz siÄ™. Rozwijaj.}
+{9263}{}{SÅ‚yszÄ™ i zapominam; widzÄ™ i pamiÄ™tam; robiÄ™ i rozumiem.}
 {9264}{}{Ja *jestem* 8.}
-{9270}{}{Wiesz co, chyba zaczynam dochodziæ po tej ca³ej hibernacji.}
-{9271}{}{Aaa... tak. Czujê jak wraca do mnie dawna magia.}
-{9272}{}{Nie chcê ci rozwalaæ g³owy, ale w³aœnie mi siê poprawi³o.}
-{9273}{}{G³owa do góry w³aœnie sta³em sie perfekcj¹. A teraz znajdŸmy parê dziwek i œwiêtujmy.}
-{9274}{}{Wygl¹da ¿e jestem doskonalszy ni¿ doskona³y. Przypuszczam, ¿e tylko ja jestem do tego zdolny.}
-{9280}{}{Kot powróci³!}
-{9281}{}{Oczy mnie myl¹ czy mój ty³ek wygl¹da lepiej ni¿ kiedykolwiek?}
-{9282}{}{moje kocie zmys³y mnie ostrzegaj¹!}
-{9283}{}{Gdybym tylko mia³ rybê ¿eby móc œwiêtowaæ.}
+{9270}{}{Wiesz co, chyba zaczynam dochodziÄ‡ po tej caÅ‚ej hibernacji.}
+{9271}{}{Aaa... tak. CzujÄ™ jak wraca do mnie dawna magia.}
+{9272}{}{Nie chcÄ™ ci rozwalaÄ‡ gÅ‚owy, ale wÅ‚aÅ›nie mi siÄ™ poprawiÅ‚o.}
+{9273}{}{GÅ‚owa do gÃ³ry wÅ‚aÅ›nie staÅ‚em sie perfekcjÄ…. A teraz znajdÅºmy parÄ™ dziwek i Å›wiÄ™tujmy.}
+{9274}{}{WyglÄ…da Å¼e jestem doskonalszy niÅ¼ doskonaÅ‚y. Przypuszczam, Å¼e tylko ja jestem do tego zdolny.}
+{9280}{}{Kot powrÃ³ciÅ‚!}
+{9281}{}{Oczy mnie mylÄ… czy mÃ³j tyÅ‚ek wyglÄ…da lepiej niÅ¼ kiedykolwiek?}
+{9282}{}{moje kocie zmysÅ‚y mnie ostrzegajÄ…!}
+{9283}{}{Gdybym tylko miaÅ‚ rybÄ™ Å¼eby mÃ³c Å›wiÄ™towaÄ‡.}
 {9284}{}{Ten Kot jest niepowstrzymany!}

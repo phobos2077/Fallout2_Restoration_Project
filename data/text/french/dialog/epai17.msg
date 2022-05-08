@@ -1,11 +1,11 @@
-{100}{}{Stockage et maintenance des données. Choisissez une action.}
-{101}{}{Exécution du test de diagnostic.}
-{102}{}{[Terminé]}
-{103}{}{Exécution Test... Initialisation... Compilation... Merci de patienter... Terminé. Le stockage de données fonctionne à 84% de son efficacité. A cause d'une erreur de connexion sur le serveur principal les bobines magnétiques fonctionnent avec une puissance trop élevée. Cette erreur peut causer d’avantages de problèmes si elle n'est pas corrigée. Fin de la vérification.}
-{104}{}{[Terminé]}
+{100}{}{Stockage et maintenance des donnÃ©es. Choisissez une action.}
+{101}{}{ExÃ©cution du test de diagnostic.}
+{102}{}{[TerminÃ©]}
+{103}{}{ExÃ©cution Test... Initialisation... Compilation... Merci de patienter... TerminÃ©. Le stockage de donnÃ©es fonctionne Ã  84% de son efficacitÃ©. A cause d'une erreur de connexion sur le serveur principal les bobines magnÃ©tiques fonctionnent avec une puissance trop Ã©levÃ©e. Cette erreur peut causer dâ€™avantages de problÃ¨mes si elle n'est pas corrigÃ©e. Fin de la vÃ©rification.}
+{104}{}{[TerminÃ©]}
 {105}{}{Tu vois un ordinateur.}
-{106}{}{Tu vois l'ordinateur de stockage de données de l'EPA.}
-{107}{}{Tu vois un ordinateur qui vérifie l'intégrité et la sécurité des données de l'EPA.}
+{106}{}{Tu vois l'ordinateur de stockage de donnÃ©es de l'EPA.}
+{107}{}{Tu vois un ordinateur qui vÃ©rifie l'intÃ©gritÃ© et la sÃ©curitÃ© des donnÃ©es de l'EPA.}
 {108}{}{C'est bon !}
-{109}{}{Tu as résolu le problème des bobines magnétiques.}
-{1030}{}{Exécution Test... Initialisation... Compilation... Merci de patienter... Terminé. Le stockage de données fonctionne à 100% de son efficacité. Merci et passez une bonne journée. Fin de la vérification.}
+{109}{}{Tu as rÃ©solu le problÃ¨me des bobines magnÃ©tiques.}
+{1030}{}{ExÃ©cution Test... Initialisation... Compilation... Merci de patienter... TerminÃ©. Le stockage de donnÃ©es fonctionne Ã  100% de son efficacitÃ©. Merci et passez une bonne journÃ©e. Fin de la vÃ©rification.}

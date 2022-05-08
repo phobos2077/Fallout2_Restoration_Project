@@ -1,57 +1,57 @@
-{100}{}{Widzisz kogoœ w pancerzu wspomaganym. }
-{101}{}{Widzisz dowódcê bazy Navarro.}
-{102}{}{Widzisz kogoœ w nietypowym pancerzu wspomaganym. Na napierœniku widnieje nieznany ci symbol.}
-{103}{}{Kim wy u diab³a jesteœcie... Alarm! Intruzi w bazie!}
-{104}{}{Nie mam czasu na pogaduszki z szeregowcami. Odmaszerowaæ.}
-{105}{}{Czas na œmieræ.}
-{106}{}{W porz¹dku.}
-{107}{}{Mówi³am, ¿e nie mam czasu na rozmowê z tob¹. Opuœæ to pomieszczenie i nie wracaj, jeœli po ciebie nie poœlê. Odmaszerowaæ!}
-{108}{}{Odmowa wykonania bezpoœredniego rozkazu starszego oficera jest zdrad¹. Nie mam teraz czasu, ¿eby zwo³ywaæ trybuna³, wiêc zajmê siê tym sama. Stra¿! Zabiæ tego kretyna!}
-{109}{}{W porz¹dku.}
-{110}{}{Pierdol siê!}
-{111}{}{KD znajduje siê w tej szafce. Powiedz oficerowi dy¿urnemu, ¿eby skontaktowa³ siê ze mn¹, gdy tylko zostanie zabezpieczona. Odmaszerowaæ!}
+{100}{}{Widzisz kogoÅ› w pancerzu wspomaganym. }
+{101}{}{Widzisz dowÃ³dcÄ™ bazy Navarro.}
+{102}{}{Widzisz kogoÅ› w nietypowym pancerzu wspomaganym. Na napierÅ›niku widnieje nieznany ci symbol.}
+{103}{}{Kim wy u diabÅ‚a jesteÅ›cie... Alarm! Intruzi w bazie!}
+{104}{}{Nie mam czasu na pogaduszki z szeregowcami. OdmaszerowaÄ‡.}
+{105}{}{Czas na Å›mierÄ‡.}
+{106}{}{W porzÄ…dku.}
+{107}{}{MÃ³wiÅ‚am, Å¼e nie mam czasu na rozmowÄ™ z tobÄ…. OpuÅ›Ä‡ to pomieszczenie i nie wracaj, jeÅ›li po ciebie nie poÅ›lÄ™. OdmaszerowaÄ‡!}
+{108}{}{Odmowa wykonania bezpoÅ›redniego rozkazu starszego oficera jest zdradÄ…. Nie mam teraz czasu, Å¼eby zwoÅ‚ywaÄ‡ trybunaÅ‚, wiÄ™c zajmÄ™ siÄ™ tym sama. StraÅ¼! ZabiÄ‡ tego kretyna!}
+{109}{}{W porzÄ…dku.}
+{110}{}{Pierdol siÄ™!}
+{111}{}{KD znajduje siÄ™ w tej szafce. Powiedz oficerowi dyÅ¼urnemu, Å¼eby skontaktowaÅ‚ siÄ™ ze mnÄ…, gdy tylko zostanie zabezpieczona. OdmaszerowaÄ‡!}
 {112}{}{Tak jest!}
-{113}{}{Poœpiesz siê, ¿o³nierzu, nie mam ca³ego dnia, ¿eby tak tu staæ.}
+{113}{}{PoÅ›piesz siÄ™, Å¼oÅ‚nierzu, nie mam caÅ‚ego dnia, Å¼eby tak tu staÄ‡.}
 {114}{}{Tak jest!}
-{115}{}{Zostaw moj¹ szafkê w spokoju, albo ukarzê ciê porz¹dn¹ dawk¹ bólu.}
+{115}{}{Zostaw mojÄ… szafkÄ™ w spokoju, albo ukarzÄ™ ciÄ™ porzÄ…dnÄ… dawkÄ… bÃ³lu.}
 {116}{}{Tak jest!}
-{117}{}{W tej bazie og³oszono alarm, a ja ciê nie poznajê. Poka¿ mi swoje papiery, ¿o³nierzu.}
+{117}{}{W tej bazie ogÅ‚oszono alarm, a ja ciÄ™ nie poznajÄ™. PokaÅ¼ mi swoje papiery, Å¼oÅ‚nierzu.}
 {118}{}{Jakie papiery?}
-{119}{}{Mo¿esz mi naskoczyæ!}
-{120}{}{Obawiam siê, ¿e nie mam ich przy sobie...}
-{121}{}{Papiery? Zaraz ci poka¿e papiery!}
-{122}{}{Z³a odpowiedŸ, robaku. Masz obowi¹zek nosiæ swoje papiery przy sobie przez ca³y czas. ¯o³nierz powinien to wiedzieæ.}
-{123}{}{IdŸ siê jebaæ.}
-{124}{}{Zostaw moj¹ szafkê w spokoju, albo ukarzê ciê porz¹dn¹ dawk¹ bólu.}
-{125}{}{Czas na œmieræ.}
-{200}{}{Dobra, za³atwmy to szybko nie chcê ¿eby mi biuro zaœmierd³o mutkami, a mam od cholery roboty. Pracujesz dla Salvatore? }
-{201}{}{Nie twój interes, dupku.}
-{202}{}{Dla nikogo nie pracujê.}
-{203}{}{A co jeœli tak?}
-{204}{}{Ta, pracujê Salvatore.}
+{119}{}{MoÅ¼esz mi naskoczyÄ‡!}
+{120}{}{Obawiam siÄ™, Å¼e nie mam ich przy sobie...}
+{121}{}{Papiery? Zaraz ci pokaÅ¼e papiery!}
+{122}{}{ZÅ‚a odpowiedÅº, robaku. Masz obowiÄ…zek nosiÄ‡ swoje papiery przy sobie przez caÅ‚y czas. Å»oÅ‚nierz powinien to wiedzieÄ‡.}
+{123}{}{IdÅº siÄ™ jebaÄ‡.}
+{124}{}{Zostaw mojÄ… szafkÄ™ w spokoju, albo ukarzÄ™ ciÄ™ porzÄ…dnÄ… dawkÄ… bÃ³lu.}
+{125}{}{Czas na Å›mierÄ‡.}
+{200}{}{Dobra, zaÅ‚atwmy to szybko nie chcÄ™ Å¼eby mi biuro zaÅ›mierdÅ‚o mutkami, a mam od cholery roboty. Pracujesz dla Salvatore? }
+{201}{}{Nie twÃ³j interes, dupku.}
+{202}{}{Dla nikogo nie pracujÄ™.}
+{203}{}{A co jeÅ›li tak?}
+{204}{}{Ta, pracujÄ™ Salvatore.}
 {205}{}{Zanim odpowiem na jakiekolwiek pytania, mam kilka swoich.}
-{210}{}{Nie mam czasu na te bzdury. Stra¿! Zabiæ tego mutka!}
-{220}{}{Wiêc mówisz, ¿e jesteœ zwyk³ym szczurem z pustkowia, który przypadkiem zawêdrowa³ do jednego z naszych lataczy?}
-{221}{}{Yyy, tak, w³aœciwie tak... poza t¹ czêœci¹ o byciu szczurem.}
-{222}{}{Dok³adnie.}
-{223}{}{Nie, mówiê, ¿e to wszystko to tylko wielkie nieporozumienie. Nie wiem kim jesteœcie i nie obchodzi mnie to. Wiêc jeœli nie macie nic przeciwko, to ja ju¿ sobie pójdê.}
-{230}{}{Dobrze, skoro dzia³asz na w³asna rêkê, to nie muszê ju¿ marnowaæ nawet sekundy swojego czasu. Stra¿! Zabiæ tego mutka!}
-{240}{}{Nie wyjdziesz st¹d ¿ywy, mutancie. Przeciez nie mogê ryzykowaæ, ¿e wypaplasz po³o¿enie tej bazy wszystkim swoim kumplom z pustkowia, prawda? Stra¿! Zabiæ tego mutka!}
-{250}{}{Powiedz co chcê wiedzieæ, a postaram siê ¿eby twoja œmieræ by³a szybka i... wzglêdnie bezbolesna. Czy przys³a³ ciê Salvatore?}
-{251}{}{Eee... nie? Czekaj, tak. Mo¿e.}
-{252}{}{Nie. Zabawa w chowanego w twojej lataj¹cej maszynie by³a moim pomys³em. Genialne, wiem.}
-{253}{}{Tak, chcia³ os³odziæ handel wysy³aj¹c mnie tutaj. Jaka okazja, co?}
+{210}{}{Nie mam czasu na te bzdury. StraÅ¼! ZabiÄ‡ tego mutka!}
+{220}{}{WiÄ™c mÃ³wisz, Å¼e jesteÅ› zwykÅ‚ym szczurem z pustkowia, ktÃ³ry przypadkiem zawÄ™drowaÅ‚ do jednego z naszych lataczy?}
+{221}{}{Yyy, tak, wÅ‚aÅ›ciwie tak... poza tÄ… czÄ™Å›ciÄ… o byciu szczurem.}
+{222}{}{DokÅ‚adnie.}
+{223}{}{Nie, mÃ³wiÄ™, Å¼e to wszystko to tylko wielkie nieporozumienie. Nie wiem kim jesteÅ›cie i nie obchodzi mnie to. WiÄ™c jeÅ›li nie macie nic przeciwko, to ja juÅ¼ sobie pÃ³jdÄ™.}
+{230}{}{Dobrze, skoro dziaÅ‚asz na wÅ‚asna rÄ™kÄ™, to nie muszÄ™ juÅ¼ marnowaÄ‡ nawet sekundy swojego czasu. StraÅ¼! ZabiÄ‡ tego mutka!}
+{240}{}{Nie wyjdziesz stÄ…d Å¼ywy, mutancie. Przeciez nie mogÄ™ ryzykowaÄ‡, Å¼e wypaplasz poÅ‚oÅ¼enie tej bazy wszystkim swoim kumplom z pustkowia, prawda? StraÅ¼! ZabiÄ‡ tego mutka!}
+{250}{}{Powiedz co chcÄ™ wiedzieÄ‡, a postaram siÄ™ Å¼eby twoja Å›mierÄ‡ byÅ‚a szybka i... wzglÄ™dnie bezbolesna. Czy przysÅ‚aÅ‚ ciÄ™ Salvatore?}
+{251}{}{Eee... nie? Czekaj, tak. MoÅ¼e.}
+{252}{}{Nie. Zabawa w chowanego w twojej latajÄ…cej maszynie byÅ‚a moim pomysÅ‚em. Genialne, wiem.}
+{253}{}{Tak, chciaÅ‚ osÅ‚odziÄ‡ handel wysyÅ‚ajÄ…c mnie tutaj. Jaka okazja, co?}
 {254}{}{Zanim odpowiem na jakiekolwiek pytania, mam kilka swoich.}
-{260}{}{Nie mam czasu na te bzdury. Stra¿! Zabiæ tego mutka!}
-{270}{}{To mia³o byæ zabawne, mutancie? Wiesz co, myœlê, ¿e bardziej ubawi¹ mnie twoje krwawi¹ce zw³oki. Stra¿! Zabiæ tego mutka!}
-{280}{}{O, naprawdê? [Œmieje siê krótko.] A co? I tak zginiesz. Co chcesz wiedzieæ, mutancie?}
-{281}{}{Dlaczego wci¹¿ nazywasz mnie mutantem?}
-{282}{}{Kim wy do cholery jesteœcie?}
+{260}{}{Nie mam czasu na te bzdury. StraÅ¼! ZabiÄ‡ tego mutka!}
+{270}{}{To miaÅ‚o byÄ‡ zabawne, mutancie? Wiesz co, myÅ›lÄ™, Å¼e bardziej ubawiÄ… mnie twoje krwawiÄ…ce zwÅ‚oki. StraÅ¼! ZabiÄ‡ tego mutka!}
+{280}{}{O, naprawdÄ™? [Åšmieje siÄ™ krÃ³tko.] A co? I tak zginiesz. Co chcesz wiedzieÄ‡, mutancie?}
+{281}{}{Dlaczego wciÄ…Å¼ nazywasz mnie mutantem?}
+{282}{}{Kim wy do cholery jesteÅ›cie?}
 {283}{}{Gdzie ja jestem? }
-{284}{}{Gdzie mogê dostaæ taka fajn¹ zbrojê?}
-{285}{}{Wystarczy mi tego s³uchania.}
-{290}{}{Bo nim jesteœ. Jasne, mo¿e wygl¹dasz jak cz³owiek, ale niech ciê to nie zmyli. Mimo to jesteœ mutantem. Ty i wszyscy inni na kontynencie. Wszyscy ska¿eni. Nastêpne pytanie.}
-{300}{}{My jesteœmy Enklawa - ostatni bastion prawdziwych ludzi na tej przeklêtej planecie. Jesteœmy jedynymi ci¹gle honoruj¹cymi dawn¹ czerwieñ, biel i b³êkit. Dok³adnie tak, jesteœmy prawdziwymi patriotami. Wpieprzamy amerykañskie or³y bieliki, sramy gwiazdami i paskami. Jesteœmy wszystkim co zosta³o z wielkich Stanów Zjednoczonych Ameryki. Ale jest nas wystarczaj¹co. O, tak, wystarczaj¹co, ¿eby wszystko wróci³o do w³aœciwego porz¹dku. Mo¿esz na to liczyæ, mutku. Jeszcze jakieœ pytania?}
-{310}{}{Jesteœmy w Navarro, naszej tajnej bazie wojskowej. A dok³adnie, na kalifornijskim wybrze¿u Pacyfiku. Nastêpne pytanie.}
-{320}{}{Zdzieraj¹c z mojego martwego cia³a. Powodzenia z tym, mutku. Jeszcze jakieœ pytania?}
-{330}{}{Dobrze, bo zmêczy³o mnie ju¿ marnowanie oddechu na mutanta. W³aœciwie, to wszystko by³o strat¹ mojego czasu, bo gówno mnie obchodzi co masz do powiedzenia. Stra¿! Zabiæ tego mutka!}
+{284}{}{Gdzie mogÄ™ dostaÄ‡ taka fajnÄ… zbrojÄ™?}
+{285}{}{Wystarczy mi tego sÅ‚uchania.}
+{290}{}{Bo nim jesteÅ›. Jasne, moÅ¼e wyglÄ…dasz jak czÅ‚owiek, ale niech ciÄ™ to nie zmyli. Mimo to jesteÅ› mutantem. Ty i wszyscy inni na kontynencie. Wszyscy skaÅ¼eni. NastÄ™pne pytanie.}
+{300}{}{My jesteÅ›my Enklawa - ostatni bastion prawdziwych ludzi na tej przeklÄ™tej planecie. JesteÅ›my jedynymi ciÄ…gle honorujÄ…cymi dawnÄ… czerwieÅ„, biel i bÅ‚Ä™kit. DokÅ‚adnie tak, jesteÅ›my prawdziwymi patriotami. Wpieprzamy amerykaÅ„skie orÅ‚y bieliki, sramy gwiazdami i paskami. JesteÅ›my wszystkim co zostaÅ‚o z wielkich StanÃ³w Zjednoczonych Ameryki. Ale jest nas wystarczajÄ…co. O, tak, wystarczajÄ…co, Å¼eby wszystko wrÃ³ciÅ‚o do wÅ‚aÅ›ciwego porzÄ…dku. MoÅ¼esz na to liczyÄ‡, mutku. Jeszcze jakieÅ› pytania?}
+{310}{}{JesteÅ›my w Navarro, naszej tajnej bazie wojskowej. A dokÅ‚adnie, na kalifornijskim wybrzeÅ¼u Pacyfiku. NastÄ™pne pytanie.}
+{320}{}{ZdzierajÄ…c z mojego martwego ciaÅ‚a. Powodzenia z tym, mutku. Jeszcze jakieÅ› pytania?}
+{330}{}{Dobrze, bo zmÄ™czyÅ‚o mnie juÅ¼ marnowanie oddechu na mutanta. WÅ‚aÅ›ciwie, to wszystko byÅ‚o stratÄ… mojego czasu, bo gÃ³wno mnie obchodzi co masz do powiedzenia. StraÅ¼! ZabiÄ‡ tego mutka!}

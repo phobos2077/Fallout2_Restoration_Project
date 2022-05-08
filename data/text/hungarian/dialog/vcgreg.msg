@@ -1,127 +1,127 @@
 {100}{}{Gregory F?biztos.}
-{101}{}{Egy komor tekintet? bürokratát látsz. Keskeny arc, vastag szemöldök.}
+{101}{}{Egy komor tekintet? bÃ¼rokratÃ¡t lÃ¡tsz. Keskeny arc, vastag szemÃ¶ldÃ¶k.}
 {102}{}{Gregory F?biztos.}
-{103}{}{Egy komor tekintet? bürokratát látsz. Keskeny arc, vastag szemöldök.}
-{104}{}{Bátor tetteidért Menedékváros minden rendszeréhez teljes hozzáférést kaptál. Ó... és az Els? Polgár azt üzente, látni kíván.}
-{105}{}{Behatoló! ?rség! ?rség!!!}
-{106}{}{Egy mutáns! ?rség! ?rség!!!}
-{107}{}{Egy ghoul! ?rség! ?rség!!!}
-{108}{}{Jó napot, Kapitány.}
-{109}{}{Menedékváros mindenek felett, Kapitány.}
-{110}{}{Jó napot, Polgártárs!}
-{111}{}{Menedékváros mindenek felett, Polgártárs.}
-{112}{}{Listák, listák, listák! Csodálatos! Imádom a listákat.}
-{113}{}{Ma még csinálnom kell az 534-esb?l egy 412-est.}
-{114}{}{Egy összegz? listára van szükségem a 43A-tól 121B-ig terjed? anyagokból.}
-{115}{}{Csodálatos nap elé nézünk. Sok lista vár még ránk.}
-{116}{}{Miel?tt lefekszem, leellen?rzöm ezeket a tesztlapokat.}
-{117}{}{Jöjjön vissza holnap, ma már nem lesz id?m magával foglalkozni!}
-{118}{}{Mocskos mutáns!}
-{119}{}{Nem tudom, hogy lett magából Polgár. Számomra nem más, csak egy felfuvalkodott mutáns.}
-{120}{}{Nem tudom, hogy lett magából Kapitány. Számomra nem más, csak egy arrogáns betolakodó.}
-{121}{}{Mit óhajt? Fogja rövidre, rendkívül elfoglalt vagyok!}
+{103}{}{Egy komor tekintet? bÃ¼rokratÃ¡t lÃ¡tsz. Keskeny arc, vastag szemÃ¶ldÃ¶k.}
+{104}{}{BÃ¡tor tetteidÃ©rt MenedÃ©kvÃ¡ros minden rendszerÃ©hez teljes hozzÃ¡fÃ©rÃ©st kaptÃ¡l. Ã“... Ã©s az Els? PolgÃ¡r azt Ã¼zente, lÃ¡tni kÃ­vÃ¡n.}
+{105}{}{BehatolÃ³! ?rsÃ©g! ?rsÃ©g!!!}
+{106}{}{Egy mutÃ¡ns! ?rsÃ©g! ?rsÃ©g!!!}
+{107}{}{Egy ghoul! ?rsÃ©g! ?rsÃ©g!!!}
+{108}{}{JÃ³ napot, KapitÃ¡ny.}
+{109}{}{MenedÃ©kvÃ¡ros mindenek felett, KapitÃ¡ny.}
+{110}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{111}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs.}
+{112}{}{ListÃ¡k, listÃ¡k, listÃ¡k! CsodÃ¡latos! ImÃ¡dom a listÃ¡kat.}
+{113}{}{Ma mÃ©g csinÃ¡lnom kell az 534-esb?l egy 412-est.}
+{114}{}{Egy Ã¶sszegz? listÃ¡ra van szÃ¼ksÃ©gem a 43A-tÃ³l 121B-ig terjed? anyagokbÃ³l.}
+{115}{}{CsodÃ¡latos nap elÃ© nÃ©zÃ¼nk. Sok lista vÃ¡r mÃ©g rÃ¡nk.}
+{116}{}{Miel?tt lefekszem, leellen?rzÃ¶m ezeket a tesztlapokat.}
+{117}{}{JÃ¶jjÃ¶n vissza holnap, ma mÃ¡r nem lesz id?m magÃ¡val foglalkozni!}
+{118}{}{Mocskos mutÃ¡ns!}
+{119}{}{Nem tudom, hogy lett magÃ¡bÃ³l PolgÃ¡r. SzÃ¡momra nem mÃ¡s, csak egy felfuvalkodott mutÃ¡ns.}
+{120}{}{Nem tudom, hogy lett magÃ¡bÃ³l KapitÃ¡ny. SzÃ¡momra nem mÃ¡s, csak egy arrogÃ¡ns betolakodÃ³.}
+{121}{}{Mit Ã³hajt? Fogja rÃ¶vidre, rendkÃ­vÃ¼l elfoglalt vagyok!}
 {122}{}{Segitni nekem!}
 {123}{}{[Elcsoszogsz]}
 {124}{}{Ki vagy te?}
-{125}{}{Nem. Viszlát!}
-{126}{}{Már MEGINT egy szolga, aki csak úgy elkószált a helyér?l?! Jelenteni fogom Barkus hanyagságát. Hé te... t?nés innen! Hess, iszkiri, iszkiri!}
-{127}{}{Én lel? téged! Te kinyúvadol.}
+{125}{}{Nem. ViszlÃ¡t!}
+{126}{}{MÃ¡r MEGINT egy szolga, aki csak Ãºgy elkÃ³szÃ¡lt a helyÃ©r?l?! Jelenteni fogom Barkus hanyagsÃ¡gÃ¡t. HÃ© te... t?nÃ©s innen! Hess, iszkiri, iszkiri!}
+{127}{}{Ã‰n lel? tÃ©ged! Te kinyÃºvadol.}
 {128}{}{[Elcsoszogsz]}
-{129}{}{Elképeszt?! Ezek a szolgák percr?l-percre hülyébbek.}
+{129}{}{ElkÃ©peszt?! Ezek a szolgÃ¡k percr?l-percre hÃ¼lyÃ©bbek.}
 {130}{}{I am Proconsul Gregory. Is this the office you were looking for, or...?}
 {131}{}{F?biztos?! Mi a fene az a F?biztos?}
-{132}{}{Mi a munkád?}
-{133}{}{Nem. Viszlát!}
-{134}{}{Az Els? Polgár ASSZISZTENSE vagyok. Beosztom az idejét, vizsgáztatom a Polgárságra áhítozó jelölteket, frissítem a listákat. Biztosíthatom, nem kis feladat.}
-{135}{}{Mi ez a polgársági teszt?}
-{136}{}{Most, hogy szóba hozta, újra megpróbálnám a Polgársági tesztet.}
-{137}{}{Feltehetek néhány kérdést?}
-{138}{}{Értem. Most mennem kell.}
-{139}{}{Ha helyesen kitölti a tesztlapot, Polgár státuszt kap.}
-{140}{}{Az én tisztem, hogy a Polgársági teszt segítségével megbizonyosodjak róla, megfelel-e az illet? a magas szint? követelményeknek.}
-{141}{}{Tulajdonképpen mib?l áll egy ilyen teszt?}
-{142}{}{Szeretnék újra próbálkozni.}
+{132}{}{Mi a munkÃ¡d?}
+{133}{}{Nem. ViszlÃ¡t!}
+{134}{}{Az Els? PolgÃ¡r ASSZISZTENSE vagyok. Beosztom az idejÃ©t, vizsgÃ¡ztatom a PolgÃ¡rsÃ¡gra Ã¡hÃ­tozÃ³ jelÃ¶lteket, frissÃ­tem a listÃ¡kat. BiztosÃ­thatom, nem kis feladat.}
+{135}{}{Mi ez a polgÃ¡rsÃ¡gi teszt?}
+{136}{}{Most, hogy szÃ³ba hozta, Ãºjra megprÃ³bÃ¡lnÃ¡m a PolgÃ¡rsÃ¡gi tesztet.}
+{137}{}{Feltehetek nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{138}{}{Ã‰rtem. Most mennem kell.}
+{139}{}{Ha helyesen kitÃ¶lti a tesztlapot, PolgÃ¡r stÃ¡tuszt kap.}
+{140}{}{Az Ã©n tisztem, hogy a PolgÃ¡rsÃ¡gi teszt segÃ­tsÃ©gÃ©vel megbizonyosodjak rÃ³la, megfelel-e az illet? a magas szint? kÃ¶vetelmÃ©nyeknek.}
+{141}{}{TulajdonkÃ©ppen mib?l Ã¡ll egy ilyen teszt?}
+{142}{}{SzeretnÃ©k Ãºjra prÃ³bÃ¡lkozni.}
 {143}{}{What are the benefits of being a Citizen?}
-{144}{}{Kérdezhetek valami mást?}
-{145}{}{Értem. Most mennem kell.}
-{146}{}{El?nyökkel?! Hát csak nézzen körül! Menedékváros a legbiztonságosabb és leggazdagabb város az egész pusztaságban. A Polgárok ingyenes orvosi ellátásban részesülnek, vízb?l és élelemb?l b?ség van. Nincs b?nözés, nincsenek járványok.}
-{147}{}{Mib?l áll egy ilyen teszt?}
-{148}{}{Jól hangzik. Megpróbálkozhatok vele?}
-{149}{}{Kérdezhetek valami mást?}
-{150}{}{Értem. Most mennem kell.}
-{151}{}{Ez egy átfogó vizsga néhány alrészre bontva. Magas szint? matematika, térbeli kapcsolatok, levezetéses okfejtés, nyelvtan... ó... és van orvosi felülvizsgálat is.}
-{152}{}{Hogy mondta? Magas szint? mate-ma-miii? Nincs egy berendezés, amit meg kell szerezni, vagy egy személy, akit lehengerelhetnék a t?zer?mmel?}
-{153}{}{Nem állítom, hogy a felét is értettem annak, amit itt vakerol. Azért én csak megpróbálnék egy ilyen tesztet.}
-{154}{}{Nehéznek t?nik. Azért megpróbálnék egy tesztet, ha lehetséges.}
-{155}{}{Semmiség. Megpróbálnám, ha nincs ellene kifogása.}
-{156}{}{Az alany vizuális, vagy logikai képességeit nem tesztelik? Nem? Nos, talán betehetnék a kés?bbi tesztekbe... persze csak miután én már levizsgáztam.}
-{157}{}{Feltehetnék néhány kérdést?}
-{158}{}{Köszönöm, hogy rabolhattam az idejét. Viszlát!}
-{159}{}{Ha végrehajtja a küldetést, amivel az Els? Polgár megbízta, megkapja a Polgári státuszt. Na, nem mintha megérdemelné.}
-{160}{}{Ha Polgár szeretne lenni, sikeres vizsgát kell tennie. Nincs más mód.}
-{161}{}{Kifogásolja, hogy Polgárságot ajánl nekem?}
-{162}{}{Megpróbálnám a tesztet.}
-{163}{}{Szeretnék újra próbálkozni a teszttel.}
-{164}{}{Kérdeznék még valamit.}
-{165}{}{Köszönöm a segítséget. Viszlát!}
-{166}{}{Tehát megpróbálja? Nagyszer?! Semmi sem tesz boldogabbá, mint elbírálni a potenciális jelentkez?k alkalmasságát... de figyelmeztetnem kell. A teszt nagyon nehéz és akár órákig is eltarthat.}
-{167}{}{Nos, rendben. Bárki próbát tehet, bár úgy érzem az ön esetében ez pusztán id?pocsékolás. Valaki az ön... hmm... adottságaival egyszer?en nem Polgárnak való.}
+{144}{}{KÃ©rdezhetek valami mÃ¡st?}
+{145}{}{Ã‰rtem. Most mennem kell.}
+{146}{}{El?nyÃ¶kkel?! HÃ¡t csak nÃ©zzen kÃ¶rÃ¼l! MenedÃ©kvÃ¡ros a legbiztonsÃ¡gosabb Ã©s leggazdagabb vÃ¡ros az egÃ©sz pusztasÃ¡gban. A PolgÃ¡rok ingyenes orvosi ellÃ¡tÃ¡sban rÃ©szesÃ¼lnek, vÃ­zb?l Ã©s Ã©lelemb?l b?sÃ©g van. Nincs b?nÃ¶zÃ©s, nincsenek jÃ¡rvÃ¡nyok.}
+{147}{}{Mib?l Ã¡ll egy ilyen teszt?}
+{148}{}{JÃ³l hangzik. MegprÃ³bÃ¡lkozhatok vele?}
+{149}{}{KÃ©rdezhetek valami mÃ¡st?}
+{150}{}{Ã‰rtem. Most mennem kell.}
+{151}{}{Ez egy Ã¡tfogÃ³ vizsga nÃ©hÃ¡ny alrÃ©szre bontva. Magas szint? matematika, tÃ©rbeli kapcsolatok, levezetÃ©ses okfejtÃ©s, nyelvtan... Ã³... Ã©s van orvosi felÃ¼lvizsgÃ¡lat is.}
+{152}{}{Hogy mondta? Magas szint? mate-ma-miii? Nincs egy berendezÃ©s, amit meg kell szerezni, vagy egy szemÃ©ly, akit lehengerelhetnÃ©k a t?zer?mmel?}
+{153}{}{Nem Ã¡llÃ­tom, hogy a felÃ©t is Ã©rtettem annak, amit itt vakerol. AzÃ©rt Ã©n csak megprÃ³bÃ¡lnÃ©k egy ilyen tesztet.}
+{154}{}{NehÃ©znek t?nik. AzÃ©rt megprÃ³bÃ¡lnÃ©k egy tesztet, ha lehetsÃ©ges.}
+{155}{}{SemmisÃ©g. MegprÃ³bÃ¡lnÃ¡m, ha nincs ellene kifogÃ¡sa.}
+{156}{}{Az alany vizuÃ¡lis, vagy logikai kÃ©pessÃ©geit nem tesztelik? Nem? Nos, talÃ¡n betehetnÃ©k a kÃ©s?bbi tesztekbe... persze csak miutÃ¡n Ã©n mÃ¡r levizsgÃ¡ztam.}
+{157}{}{FeltehetnÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{158}{}{KÃ¶szÃ¶nÃ¶m, hogy rabolhattam az idejÃ©t. ViszlÃ¡t!}
+{159}{}{Ha vÃ©grehajtja a kÃ¼ldetÃ©st, amivel az Els? PolgÃ¡r megbÃ­zta, megkapja a PolgÃ¡ri stÃ¡tuszt. Na, nem mintha megÃ©rdemelnÃ©.}
+{160}{}{Ha PolgÃ¡r szeretne lenni, sikeres vizsgÃ¡t kell tennie. Nincs mÃ¡s mÃ³d.}
+{161}{}{KifogÃ¡solja, hogy PolgÃ¡rsÃ¡got ajÃ¡nl nekem?}
+{162}{}{MegprÃ³bÃ¡lnÃ¡m a tesztet.}
+{163}{}{SzeretnÃ©k Ãºjra prÃ³bÃ¡lkozni a teszttel.}
+{164}{}{KÃ©rdeznÃ©k mÃ©g valamit.}
+{165}{}{KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get. ViszlÃ¡t!}
+{166}{}{TehÃ¡t megprÃ³bÃ¡lja? Nagyszer?! Semmi sem tesz boldogabbÃ¡, mint elbÃ­rÃ¡lni a potenciÃ¡lis jelentkez?k alkalmassÃ¡gÃ¡t... de figyelmeztetnem kell. A teszt nagyon nehÃ©z Ã©s akÃ¡r Ã³rÃ¡kig is eltarthat.}
+{167}{}{Nos, rendben. BÃ¡rki prÃ³bÃ¡t tehet, bÃ¡r Ãºgy Ã©rzem az Ã¶n esetÃ©ben ez pusztÃ¡n id?pocsÃ©kolÃ¡s. Valaki az Ã¶n... hmm... adottsÃ¡gaival egyszer?en nem PolgÃ¡rnak valÃ³.}
 {168}{}{Hogyne.}
-{169}{}{Inkább feltennék néhány kérdést.}
-{170}{}{Mennem kell, viszlát!}
-{171}{}{Én azért szeretném megpróbálni.}
-{172}{}{Adja már ide azt az átkozott tesztlapot!}
-{173}{}{Értem. Akkor inkább kérdeznék valamit.}
-{174}{}{Legyen úgy, ahogy mondod. Én már itt sem vagyok.}
+{169}{}{InkÃ¡bb feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{170}{}{Mennem kell, viszlÃ¡t!}
+{171}{}{Ã‰n azÃ©rt szeretnÃ©m megprÃ³bÃ¡lni.}
+{172}{}{Adja mÃ¡r ide azt az Ã¡tkozott tesztlapot!}
+{173}{}{Ã‰rtem. Akkor inkÃ¡bb kÃ©rdeznÃ©k valamit.}
+{174}{}{Legyen Ãºgy, ahogy mondod. Ã‰n mÃ¡r itt sem vagyok.}
 {175}{}{Rendben.}
-{176}{}{Nos, próbálkozni lehet, bár kétlem, hogy sikerülni fog.}
-{177}{}{Itt van az 5028-as és 6112-es vizsgaanyag, valamint a PipBoy ellen?rz? konzol. Felhívom a figyelmét, hogy minden kérdésre válaszolnia kell! Talán akkor foglaljon is helyet, és lásson hozzá!}
+{176}{}{Nos, prÃ³bÃ¡lkozni lehet, bÃ¡r kÃ©tlem, hogy sikerÃ¼lni fog.}
+{177}{}{Itt van az 5028-as Ã©s 6112-es vizsgaanyag, valamint a PipBoy ellen?rz? konzol. FelhÃ­vom a figyelmÃ©t, hogy minden kÃ©rdÃ©sre vÃ¡laszolnia kell! TalÃ¡n akkor foglaljon is helyet, Ã©s lÃ¡sson hozzÃ¡!}
 {178}{}{Rendben.}
-{179}{}{Már kész is van? Biztos benne, hogy nem akarja még egyszer ellen?rizni a tesztlapját?}
-{180}{}{Rendben, lejárt az id?. Odaadná a tesztlapját, kérem!}
-{181}{}{Már megtettem. Tessék.}
-{182}{}{Várjon még, nem vagyok kész! Hé... ne rángassa már azt a kurva papírt! A francba, tessék...}
-{183}{}{Lássuk csak... hmm... nem... ez rossz... ez is... itt meg nullával osztott... hmm... itt nem vitte át a kett?t... ó egek... a szókincse is elég szegényes.}
-{184}{}{Lássuk csak... nem deriválta a bels? egyenletet... aztán... nem értette meg a hetedik bekezdés lényegét... hmm a piramis diagram pedig nem három, hanem hét helyen járható át.}
-{185}{}{Nos, a válaszai helyesnek t?nnek, de... kifutott az id?b?l és azok a szembeötl? helyesírási hibák.}
-{186}{}{Szóval?}
-{187}{}{Szóval... megbukott! Sajnálattal közlöm, de ez alkalommal nem tudok Polgári státuszt adni önnek.}
-{188}{}{?szintén szólva úgy t?nik, nem rendelkezik a magasabb szint? matematika elsajátításához szükséges intelligenciával.}
-{189}{}{Ha fogalmazhatok így... önnél a térbeli kapcsolatok felismerésének képessége alig észlelhet?.}
-{190}{}{Ha szabad megjegyeznem, a jelenlegi tudása nem elég a teszt sikeres kitöltéséhez. Próbálja meg kés?bb, talán szerencsésebb lesz!}
-{191}{}{Rendben, kés?bb majd újra megpróbálom.}
-{192}{}{Lássuk csak... hmm... ez jó, látom ezt érti, de mi van a... nocsak... átvitte a kett?t, okos... okos... de miért tette ezt az... ó... a deriválást hatványozva alkalmazta... briliáns!}
-{193}{}{Naná, hogy briliáns!}
-{194}{}{Átment a vizsgán... ez... ez ELKÉPESZT?!}
-{195}{}{Remek. Szóval most már Polgár vagyok?}
-{196}{}{Egy pillanat, az orvosi felülvizsgálat még hátra van. Szerencsére itt van nálam minden szükséges eszköz. Akkor most vegye le a... cip?jét!}
-{197}{}{Oké.}
-{198}{}{Ne gyerekeskedjen már, mutassa a lábát!... De hisz maga... magának van egy hatodik lábujja! Maga mutáns!!! Hogy képzelte, hogy MERÉSZELTE egyáltalán megpróbálni a tesztet... maga... maga FÖRTELEM! Kifelé! Takarodjon!!! És be ne merje ide tenni még egyszer a MOCSKOS LÁBÁT!}
-{199}{}{Na, jó, betelt a pohár! Tele a tököm ezzel a várossal!!! Minden piperk?c Polgárt kinyúvasztok és VELED FOGOM KEZDENI!!!}
-{200}{}{Jól van, nyugalom! Megyek már.}
-{201}{}{A vérnyomása rendben, és nem találtam fert?z? betegségre utaló nyomokat. Gratulálok, Polgártárs! Isten hozott Menedékvárosban!}
-{202}{}{Kösz, Polgártárs! Jó ide tartozni.}
-{203}{}{Már megint maga az?! Mit akar? Sok a dolgom.}
-{204}{}{Rendben, de fogalmazzon tömören, kevés az id?m!}
-{205}{}{Tulajdonképpen kihez van szerencsém?}
-{206}{}{Megpróbálnék egy Polgársági tesztet.}
-{207}{}{Szeretnék újra próbálkozni.}
-{208}{}{Mit tud Gekkóról?}
-{209}{}{Akkor nem is zavarom. Viszlát!}
-{210}{}{Ha végrehajtja a küldetést, amivel az Els? Polgár megbízta, megkapja a Polgári státuszt. Na, nem mintha megérdemelné.}
-{211}{}{Van más módja annak, hogy Polgár váljon bel?lem?}
-{212}{}{Kifogásolja, hogy Polgárságot ajánl nekem?}
-{213}{}{Kérdezhetek valami mást?}
-{214}{}{Viszlát!}
-{215}{}{Nem szokásom megkérd?jelezni az Els? Polgár döntéseit.}
-{216}{}{Van más módja annak, hogy Polgár váljon bel?lem?}
-{217}{}{Kérdezhetek valami mást?}
-{218}{}{Rendben. Lehet, hogy tényleg csak félreértésr?l van szó.}
-{219}{}{Gekkó? Az egy koszos putri fent északon. Ott élnek a "ghoul" nev?... teremtmények, ?k mérgezik a talajvizünket. Ez nem más, mint egy ellenünk irányuló terrorista akció, és ennek megfelel?en bánunk majd velük.}
-{220}{}{Mérgezik a vizet?}
-{221}{}{Kérdeznék még valamit.}
-{222}{}{Köszönöm, viszlát!}
-{223}{}{A koszfészküket egy régi atomer?m? köré építették, amit valahogy sikerült újraindítaniuk. Ebb?l a berendezésb?l radioaktív hulladék szivárog, ez mérgezi a vizünket. Azokat a... létformákat el kell zavarni, a reaktort pedig mihamarabb le kell állítani!}
-{224}{}{Kérdeznék még valamit.}
-{225}{}{Kösz az információt. Viszlát!}
-{226}{}{Átmentél a vizsgán és most már Menedékváros teljes jogú polgára vagy.}
+{179}{}{MÃ¡r kÃ©sz is van? Biztos benne, hogy nem akarja mÃ©g egyszer ellen?rizni a tesztlapjÃ¡t?}
+{180}{}{Rendben, lejÃ¡rt az id?. OdaadnÃ¡ a tesztlapjÃ¡t, kÃ©rem!}
+{181}{}{MÃ¡r megtettem. TessÃ©k.}
+{182}{}{VÃ¡rjon mÃ©g, nem vagyok kÃ©sz! HÃ©... ne rÃ¡ngassa mÃ¡r azt a kurva papÃ­rt! A francba, tessÃ©k...}
+{183}{}{LÃ¡ssuk csak... hmm... nem... ez rossz... ez is... itt meg nullÃ¡val osztott... hmm... itt nem vitte Ã¡t a kett?t... Ã³ egek... a szÃ³kincse is elÃ©g szegÃ©nyes.}
+{184}{}{LÃ¡ssuk csak... nem derivÃ¡lta a bels? egyenletet... aztÃ¡n... nem Ã©rtette meg a hetedik bekezdÃ©s lÃ©nyegÃ©t... hmm a piramis diagram pedig nem hÃ¡rom, hanem hÃ©t helyen jÃ¡rhatÃ³ Ã¡t.}
+{185}{}{Nos, a vÃ¡laszai helyesnek t?nnek, de... kifutott az id?b?l Ã©s azok a szembeÃ¶tl? helyesÃ­rÃ¡si hibÃ¡k.}
+{186}{}{SzÃ³val?}
+{187}{}{SzÃ³val... megbukott! SajnÃ¡lattal kÃ¶zlÃ¶m, de ez alkalommal nem tudok PolgÃ¡ri stÃ¡tuszt adni Ã¶nnek.}
+{188}{}{?szintÃ©n szÃ³lva Ãºgy t?nik, nem rendelkezik a magasabb szint? matematika elsajÃ¡tÃ­tÃ¡sÃ¡hoz szÃ¼ksÃ©ges intelligenciÃ¡val.}
+{189}{}{Ha fogalmazhatok Ã­gy... Ã¶nnÃ©l a tÃ©rbeli kapcsolatok felismerÃ©sÃ©nek kÃ©pessÃ©ge alig Ã©szlelhet?.}
+{190}{}{Ha szabad megjegyeznem, a jelenlegi tudÃ¡sa nem elÃ©g a teszt sikeres kitÃ¶ltÃ©sÃ©hez. PrÃ³bÃ¡lja meg kÃ©s?bb, talÃ¡n szerencsÃ©sebb lesz!}
+{191}{}{Rendben, kÃ©s?bb majd Ãºjra megprÃ³bÃ¡lom.}
+{192}{}{LÃ¡ssuk csak... hmm... ez jÃ³, lÃ¡tom ezt Ã©rti, de mi van a... nocsak... Ã¡tvitte a kett?t, okos... okos... de miÃ©rt tette ezt az... Ã³... a derivÃ¡lÃ¡st hatvÃ¡nyozva alkalmazta... briliÃ¡ns!}
+{193}{}{NanÃ¡, hogy briliÃ¡ns!}
+{194}{}{Ãtment a vizsgÃ¡n... ez... ez ELKÃ‰PESZT?!}
+{195}{}{Remek. SzÃ³val most mÃ¡r PolgÃ¡r vagyok?}
+{196}{}{Egy pillanat, az orvosi felÃ¼lvizsgÃ¡lat mÃ©g hÃ¡tra van. SzerencsÃ©re itt van nÃ¡lam minden szÃ¼ksÃ©ges eszkÃ¶z. Akkor most vegye le a... cip?jÃ©t!}
+{197}{}{OkÃ©.}
+{198}{}{Ne gyerekeskedjen mÃ¡r, mutassa a lÃ¡bÃ¡t!... De hisz maga... magÃ¡nak van egy hatodik lÃ¡bujja! Maga mutÃ¡ns!!! Hogy kÃ©pzelte, hogy MERÃ‰SZELTE egyÃ¡ltalÃ¡n megprÃ³bÃ¡lni a tesztet... maga... maga FÃ–RTELEM! KifelÃ©! Takarodjon!!! Ã‰s be ne merje ide tenni mÃ©g egyszer a MOCSKOS LÃBÃT!}
+{199}{}{Na, jÃ³, betelt a pohÃ¡r! Tele a tÃ¶kÃ¶m ezzel a vÃ¡rossal!!! Minden piperk?c PolgÃ¡rt kinyÃºvasztok Ã©s VELED FOGOM KEZDENI!!!}
+{200}{}{JÃ³l van, nyugalom! Megyek mÃ¡r.}
+{201}{}{A vÃ©rnyomÃ¡sa rendben, Ã©s nem talÃ¡ltam fert?z? betegsÃ©gre utalÃ³ nyomokat. GratulÃ¡lok, PolgÃ¡rtÃ¡rs! Isten hozott MenedÃ©kvÃ¡rosban!}
+{202}{}{KÃ¶sz, PolgÃ¡rtÃ¡rs! JÃ³ ide tartozni.}
+{203}{}{MÃ¡r megint maga az?! Mit akar? Sok a dolgom.}
+{204}{}{Rendben, de fogalmazzon tÃ¶mÃ¶ren, kevÃ©s az id?m!}
+{205}{}{TulajdonkÃ©ppen kihez van szerencsÃ©m?}
+{206}{}{MegprÃ³bÃ¡lnÃ©k egy PolgÃ¡rsÃ¡gi tesztet.}
+{207}{}{SzeretnÃ©k Ãºjra prÃ³bÃ¡lkozni.}
+{208}{}{Mit tud GekkÃ³rÃ³l?}
+{209}{}{Akkor nem is zavarom. ViszlÃ¡t!}
+{210}{}{Ha vÃ©grehajtja a kÃ¼ldetÃ©st, amivel az Els? PolgÃ¡r megbÃ­zta, megkapja a PolgÃ¡ri stÃ¡tuszt. Na, nem mintha megÃ©rdemelnÃ©.}
+{211}{}{Van mÃ¡s mÃ³dja annak, hogy PolgÃ¡r vÃ¡ljon bel?lem?}
+{212}{}{KifogÃ¡solja, hogy PolgÃ¡rsÃ¡got ajÃ¡nl nekem?}
+{213}{}{KÃ©rdezhetek valami mÃ¡st?}
+{214}{}{ViszlÃ¡t!}
+{215}{}{Nem szokÃ¡som megkÃ©rd?jelezni az Els? PolgÃ¡r dÃ¶ntÃ©seit.}
+{216}{}{Van mÃ¡s mÃ³dja annak, hogy PolgÃ¡r vÃ¡ljon bel?lem?}
+{217}{}{KÃ©rdezhetek valami mÃ¡st?}
+{218}{}{Rendben. Lehet, hogy tÃ©nyleg csak fÃ©lreÃ©rtÃ©sr?l van szÃ³.}
+{219}{}{GekkÃ³? Az egy koszos putri fent Ã©szakon. Ott Ã©lnek a "ghoul" nev?... teremtmÃ©nyek, ?k mÃ©rgezik a talajvizÃ¼nket. Ez nem mÃ¡s, mint egy ellenÃ¼nk irÃ¡nyulÃ³ terrorista akciÃ³, Ã©s ennek megfelel?en bÃ¡nunk majd velÃ¼k.}
+{220}{}{MÃ©rgezik a vizet?}
+{221}{}{KÃ©rdeznÃ©k mÃ©g valamit.}
+{222}{}{KÃ¶szÃ¶nÃ¶m, viszlÃ¡t!}
+{223}{}{A koszfÃ©szkÃ¼ket egy rÃ©gi atomer?m? kÃ¶rÃ© Ã©pÃ­tettÃ©k, amit valahogy sikerÃ¼lt ÃºjraindÃ­taniuk. Ebb?l a berendezÃ©sb?l radioaktÃ­v hulladÃ©k szivÃ¡rog, ez mÃ©rgezi a vizÃ¼nket. Azokat a... lÃ©tformÃ¡kat el kell zavarni, a reaktort pedig mihamarabb le kell Ã¡llÃ­tani!}
+{224}{}{KÃ©rdeznÃ©k mÃ©g valamit.}
+{225}{}{KÃ¶sz az informÃ¡ciÃ³t. ViszlÃ¡t!}
+{226}{}{ÃtmentÃ©l a vizsgÃ¡n Ã©s most mÃ¡r MenedÃ©kvÃ¡ros teljes jogÃº polgÃ¡ra vagy.}

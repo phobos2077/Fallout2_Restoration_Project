@@ -1,239 +1,239 @@
-{100}{}{Egy öltönyös embert látsz. A távolba bámul. Mintha rád nézne, de közben nem fókuszál a tekintete.}
-{101}{}{A szabad világ "feje", az Egyesült Államok elnöke.}
-{102}{}{Egy vékony, ideges, öreged? embert látsz, aki fáradtabb és kopottabb a saját öltönyénél.}
-{103}{prs1a}{Hé maga! Mit csinál a helyreállítóközponton kívül?}
-{104}{prs1b}{Ismerem magát? Milyen projekten dolgozik?}
-{105}{prs1c}{Kinek képzeli magát, hogy csak úgy betör ide az irodámba?}
-{106}{}{Öh?}
+{100}{}{Egy Ã¶ltÃ¶nyÃ¶s embert lÃ¡tsz. A tÃ¡volba bÃ¡mul. Mintha rÃ¡d nÃ©zne, de kÃ¶zben nem fÃ³kuszÃ¡l a tekintete.}
+{101}{}{A szabad vilÃ¡g "feje", az EgyesÃ¼lt Ãllamok elnÃ¶ke.}
+{102}{}{Egy vÃ©kony, ideges, Ã¶reged? embert lÃ¡tsz, aki fÃ¡radtabb Ã©s kopottabb a sajÃ¡t Ã¶ltÃ¶nyÃ©nÃ©l.}
+{103}{prs1a}{HÃ© maga! Mit csinÃ¡l a helyreÃ¡llÃ­tÃ³kÃ¶zponton kÃ­vÃ¼l?}
+{104}{prs1b}{Ismerem magÃ¡t? Milyen projekten dolgozik?}
+{105}{prs1c}{Kinek kÃ©pzeli magÃ¡t, hogy csak Ãºgy betÃ¶r ide az irodÃ¡mba?}
+{106}{}{Ã–h?}
 {107}{}{Nehm.}
-{108}{}{Viszlát!}
-{109}{prs2a}{Igen, már értem. A tesztszérum hatása allatt áll. Hadd segítsek! ?rség!}
-{110}{prs2b}{Doktor úr, szerintem ön F.E.V. vírustámadásnak volt kitéve. Szegény pára, majd én segítek! ?rség!}
+{108}{}{ViszlÃ¡t!}
+{109}{prs2a}{Igen, mÃ¡r Ã©rtem. A tesztszÃ©rum hatÃ¡sa allatt Ã¡ll. Hadd segÃ­tsek! ?rsÃ©g!}
+{110}{prs2b}{Doktor Ãºr, szerintem Ã¶n F.E.V. vÃ­rustÃ¡madÃ¡snak volt kitÃ©ve. SzegÃ©ny pÃ¡ra, majd Ã©n segÃ­tek! ?rsÃ©g!}
 {111}{prs2c}{Now be a good mutant and stay put. Guards!}
-{112}{}{OKÉ.}
-{113}{}{Ah - ha. Visz - lát!}
+{112}{}{OKÃ‰.}
+{113}{}{Ah - ha. Visz - lÃ¡t!}
 {114}{}{Egy pillanat!}
-{115}{}{Higgadjon le! Valaki mindjárt ideér.}
+{115}{}{Higgadjon le! Valaki mindjÃ¡rt ideÃ©r.}
 {116}{}{Minden rendben.}
-{117}{}{Francba! Jön már végre valaki hogy elfogja ezt a... személyt?}
-{118}{}{?rség! Egy idióta van az irodámban ... Nem, nem az alelnök.}
+{117}{}{Francba! JÃ¶n mÃ¡r vÃ©gre valaki hogy elfogja ezt a... szemÃ©lyt?}
+{118}{}{?rsÃ©g! Egy idiÃ³ta van az irodÃ¡mban ... Nem, nem az alelnÃ¶k.}
 {119}{prs4}{Hello, there. I'm President Richardson and I'm damn proud to meet you. Ah, Vault 13. You've been doing your country an invaluable service.}
-{120}{}{Elnök? Amúgy ki maga?}
-{121}{}{Szolgálatot tettem volna az országomnak? Mi folyik itt egyáltalán?}
-{122}{}{Azt hiszem, útban a labor felé rossz irányt választottam. Elnézést, uram. Viszlát!}
-{123}{prs5a}{Helló, doktor. Jelentés? Remélem, jó hírei vannak. Üdvözülésünk a maga csoportja kezében van.}
-{124}{prs5b}{Hé, magának nem a Projekten kellene dolgoznia? Az üdvözülésünk magától függ.}
+{120}{}{ElnÃ¶k? AmÃºgy ki maga?}
+{121}{}{SzolgÃ¡latot tettem volna az orszÃ¡gomnak? Mi folyik itt egyÃ¡ltalÃ¡n?}
+{122}{}{Azt hiszem, Ãºtban a labor felÃ© rossz irÃ¡nyt vÃ¡lasztottam. ElnÃ©zÃ©st, uram. ViszlÃ¡t!}
+{123}{prs5a}{HellÃ³, doktor. JelentÃ©s? RemÃ©lem, jÃ³ hÃ­rei vannak. ÃœdvÃ¶zÃ¼lÃ©sÃ¼nk a maga csoportja kezÃ©ben van.}
+{124}{prs5b}{HÃ©, magÃ¡nak nem a Projekten kellene dolgoznia? Az Ã¼dvÃ¶zÃ¼lÃ©sÃ¼nk magÃ¡tÃ³l fÃ¼gg.}
 {125}{}{Ki maga?}
-{126}{}{Üdvözülés? Mi a franc folyik itt?}
-{127}{}{Elnézést, uram, azt hiszem, visszaútban a labor felé rossz irányt választottam. Viszlát!}
-{128}{prs6}{Ó, ez teljesen rendben van. Az a sok oltás bárkit megzavarhat.}
-{129}{}{Oltás? Mit akar ez jelenteni?}
-{130}{}{Azt hiszem, kissé elbizonytalanodtam, de a tudat, hogy segítek az országomnak, minden fáradtságot megér.}
+{126}{}{ÃœdvÃ¶zÃ¼lÃ©s? Mi a franc folyik itt?}
+{127}{}{ElnÃ©zÃ©st, uram, azt hiszem, visszaÃºtban a labor felÃ© rossz irÃ¡nyt vÃ¡lasztottam. ViszlÃ¡t!}
+{128}{prs6}{Ã“, ez teljesen rendben van. Az a sok oltÃ¡s bÃ¡rkit megzavarhat.}
+{129}{}{OltÃ¡s? Mit akar ez jelenteni?}
+{130}{}{Azt hiszem, kissÃ© elbizonytalanodtam, de a tudat, hogy segÃ­tek az orszÃ¡gomnak, minden fÃ¡radtsÃ¡got megÃ©r.}
 {131}{}{Mondhat, amit akar! Azt hiszem, jobb lesz, ha elmegyek.}
-{132}{prs7}{Hívok egy Titkosszolgálatost, majd az visszakíséri magát.}
-{133}{}{Ez kedves, de azt hiszem, egyedül is sikerülni fog. Viszlát!}
-{134}{}{Ez kedves magától. Köszönöm.}
-{135}{prs8}{Semmiség az egész... (a kommunikátorba)... némi segítségre lenne szükségem.}
-{136}{}{Ah. Amindenit, kösz, uram!}
-{137}{}{Ha élve akarja elhagyni ezt a szobát, jobban teszi, ha nem hívja az ?reit!}
-{138}{prs9}{Ahh... naszóval... biztos vagyok benne, hogy közösen meg tudjuk ezt oldani. Mi jár a fejében?}
+{132}{prs7}{HÃ­vok egy TitkosszolgÃ¡latost, majd az visszakÃ­sÃ©ri magÃ¡t.}
+{133}{}{Ez kedves, de azt hiszem, egyedÃ¼l is sikerÃ¼lni fog. ViszlÃ¡t!}
+{134}{}{Ez kedves magÃ¡tÃ³l. KÃ¶szÃ¶nÃ¶m.}
+{135}{prs8}{SemmisÃ©g az egÃ©sz... (a kommunikÃ¡torba)... nÃ©mi segÃ­tsÃ©gre lenne szÃ¼ksÃ©gem.}
+{136}{}{Ah. Amindenit, kÃ¶sz, uram!}
+{137}{}{Ha Ã©lve akarja elhagyni ezt a szobÃ¡t, jobban teszi, ha nem hÃ­vja az ?reit!}
+{138}{prs9}{Ahh... naszÃ³val... biztos vagyok benne, hogy kÃ¶zÃ¶sen meg tudjuk ezt oldani. Mi jÃ¡r a fejÃ©ben?}
 {139}{}{Tudni akarom, mi folyik itt!}
 {140}{}{I just want to leave quietly. Keep your hand off the alarm until I'm out of here. Or else....}
-{141}{}{Elt?nök és magammal viszem túsznak, hogy az embereim biztosan kijussanak.}
-{142}{prs10}{Komolyan gondolja, hogy megfélemlítheti az Egyesült Államok Elnökét?}
-{143}{}{Kételyek nélkül.}
-{144}{}{Talán nem, de azt ajánlom, ne álljon az utamba!}
-{145}{prs11a_a}{Csak hogy tudja, az ?röknek parancsuk van, hogy ilyen szituációban l?jenek. Semmi és senki nem veszélyeztetheti a Projektet. Nem venné hasznomat túszként.}
-{146}{prs11b}{Ha megpróbálja, az ?reim azonnal lelövik a parancsuk szerint. Semmi és senki nem veszélyeztetheti a Projektet. Én maradok. Nos, akkor lel? vagy sem?}
-{147}{}{Talán nem, de én most elt?nök. Ne nyúljon a riasztóhoz!}
-{148}{}{A Projektet? Miféle Projektet?}
-{149}{}{Naná, hogy lelövöm! Élvezet lesz.}
-{150}{prs12}{Na, naa, naaa. Szóval, akkor... akkor... öö, mi-mi-mit is akar egyáltalán?}
+{141}{}{Elt?nÃ¶k Ã©s magammal viszem tÃºsznak, hogy az embereim biztosan kijussanak.}
+{142}{prs10}{Komolyan gondolja, hogy megfÃ©lemlÃ­theti az EgyesÃ¼lt Ãllamok ElnÃ¶kÃ©t?}
+{143}{}{KÃ©telyek nÃ©lkÃ¼l.}
+{144}{}{TalÃ¡n nem, de azt ajÃ¡nlom, ne Ã¡lljon az utamba!}
+{145}{prs11a_a}{Csak hogy tudja, az ?rÃ¶knek parancsuk van, hogy ilyen szituÃ¡ciÃ³ban l?jenek. Semmi Ã©s senki nem veszÃ©lyeztetheti a Projektet. Nem vennÃ© hasznomat tÃºszkÃ©nt.}
+{146}{prs11b}{Ha megprÃ³bÃ¡lja, az ?reim azonnal lelÃ¶vik a parancsuk szerint. Semmi Ã©s senki nem veszÃ©lyeztetheti a Projektet. Ã‰n maradok. Nos, akkor lel? vagy sem?}
+{147}{}{TalÃ¡n nem, de Ã©n most elt?nÃ¶k. Ne nyÃºljon a riasztÃ³hoz!}
+{148}{}{A Projektet? MifÃ©le Projektet?}
+{149}{}{NanÃ¡, hogy lelÃ¶vÃ¶m! Ã‰lvezet lesz.}
+{150}{prs12}{Na, naa, naaa. SzÃ³val, akkor... akkor... Ã¶Ã¶, mi-mi-mit is akar egyÃ¡ltalÃ¡n?}
 {151}{}{Tudni akarom, mi folyik itt!}
 {152}{}{Csak tudni akarom, ki a franc maga!}
-{153}{}{Hullának akarom látni.}
-{154}{prs13}{Oké, oké, nem vitatkozom. Csak itt ülök, nyugisan. Ööö, öh, öröm volt találkozni magával. Viszlát!}
-{155}{}{Ez így túl könny?. Miel?tt elmegyek, tudni akarom, mit csinálnak itt.}
-{156}{}{Vigyázz magadra!}
-{157}{}{Örülök, hogy megismerhettem, Elnök úr. Viszlát!}
-{158}{prs14}{Ahh. Ööö... ?rség? ?rség!}
-{159}{}{Elnök úr, jó éjszakát!}
-{160}{prs15}{Én vagyok az Egyesült Államok Elnöke. Az alelnök a kinti irodában tartózkodik. Ha ide tartozna, tudná ezt. Szóval kicsoda maga, és mit keres itt?}
-{161}{}{Milyen Egyesült Államok elnöke maga?}
+{153}{}{HullÃ¡nak akarom lÃ¡tni.}
+{154}{prs13}{OkÃ©, okÃ©, nem vitatkozom. Csak itt Ã¼lÃ¶k, nyugisan. Ã–Ã¶Ã¶, Ã¶h, Ã¶rÃ¶m volt talÃ¡lkozni magÃ¡val. ViszlÃ¡t!}
+{155}{}{Ez Ã­gy tÃºl kÃ¶nny?. Miel?tt elmegyek, tudni akarom, mit csinÃ¡lnak itt.}
+{156}{}{VigyÃ¡zz magadra!}
+{157}{}{Ã–rÃ¼lÃ¶k, hogy megismerhettem, ElnÃ¶k Ãºr. ViszlÃ¡t!}
+{158}{prs14}{Ahh. Ã–Ã¶Ã¶... ?rsÃ©g? ?rsÃ©g!}
+{159}{}{ElnÃ¶k Ãºr, jÃ³ Ã©jszakÃ¡t!}
+{160}{prs15}{Ã‰n vagyok az EgyesÃ¼lt Ãllamok ElnÃ¶ke. Az alelnÃ¶k a kinti irodÃ¡ban tartÃ³zkodik. Ha ide tartozna, tudnÃ¡ ezt. SzÃ³val kicsoda maga, Ã©s mit keres itt?}
+{161}{}{Milyen EgyesÃ¼lt Ãllamok elnÃ¶ke maga?}
 {162}{}{Maga megbolondult!}
-{163}{}{Alelnök? Az a nyálas idióta odakinn?}
+{163}{}{AlelnÃ¶k? Az a nyÃ¡las idiÃ³ta odakinn?}
 {164}{}{What a coincidence, I'm Emperor of the planet Quetzel, here for the surrender of Earth.}
-{165}{}{Csak folytassa a munkáját, ööö... Elnök úr. Viszlát!}
-{166}{prs16}{Ah-ha. Természetesen, eminenciád. Miért is nem kéretek... frissít?t? Beszélgethetnénk, és együtt megoldhatnánk mindent. Nem boldogulnánk jobban, ha összefognánk?}
+{165}{}{Csak folytassa a munkÃ¡jÃ¡t, Ã¶Ã¶Ã¶... ElnÃ¶k Ãºr. ViszlÃ¡t!}
+{166}{prs16}{Ah-ha. TermÃ©szetesen, eminenciÃ¡d. MiÃ©rt is nem kÃ©retek... frissÃ­t?t? BeszÃ©lgethetnÃ©nk, Ã©s egyÃ¼tt megoldhatnÃ¡nk mindent. Nem boldogulnÃ¡nk jobban, ha Ã¶sszefognÃ¡nk?}
 {167}{}{Ez nagyszer?en hangzik!}
-{168}{}{Szép próbálkozás, Elnök úr.}
-{169}{prs17}{Ahh, nos, egy pillanat. (a kommunikátorba) Kérek frissít?t magamnak és a "váratlan vendégemnek". Egy nagyon fontos - váratlan - vendégnek. Most azonnal!}
-{170}{}{Kösz. Szerintem maga nem is olyan rossz fickó.}
-{171}{}{Ez hülyeség volt. Most valaki meg fog sérülni.}
+{168}{}{SzÃ©p prÃ³bÃ¡lkozÃ¡s, ElnÃ¶k Ãºr.}
+{169}{prs17}{Ahh, nos, egy pillanat. (a kommunikÃ¡torba) KÃ©rek frissÃ­t?t magamnak Ã©s a "vÃ¡ratlan vendÃ©gemnek". Egy nagyon fontos - vÃ¡ratlan - vendÃ©gnek. Most azonnal!}
+{170}{}{KÃ¶sz. Szerintem maga nem is olyan rossz fickÃ³.}
+{171}{}{Ez hÃ¼lyesÃ©g volt. Most valaki meg fog sÃ©rÃ¼lni.}
 {172}{prs18}{Somebody's loony here, all right. Oh yeah. Oooooh yeah.}
-{173}{}{Ne nézzen így rám! Nem én állítom magamról, hogy annak az Egyesült Államoknak vagyok az elnöke, amelyik mindkett?nk születése el?tt romba d?lt.}
-{174}{prs19}{Én az emberek választott képvisel?je vagyok. Az Egyesült Államok még létezik. Isten áldjon mindannyiunkat! Csak alkalmazkodnunk kellett, hogy túléljünk a háború után.}
-{175}{}{Nem értem. Mit ért ez alatt?}
-{176}{prs20a}{Tényleg nem tudja, ugye? Akkor hadd meséljek az emberiség üdvözülésér?l! El?ször egy kis történelem...}
+{173}{}{Ne nÃ©zzen Ã­gy rÃ¡m! Nem Ã©n Ã¡llÃ­tom magamrÃ³l, hogy annak az EgyesÃ¼lt Ãllamoknak vagyok az elnÃ¶ke, amelyik mindkett?nk szÃ¼letÃ©se el?tt romba d?lt.}
+{174}{prs19}{Ã‰n az emberek vÃ¡lasztott kÃ©pvisel?je vagyok. Az EgyesÃ¼lt Ãllamok mÃ©g lÃ©tezik. Isten Ã¡ldjon mindannyiunkat! Csak alkalmazkodnunk kellett, hogy tÃºlÃ©ljÃ¼nk a hÃ¡borÃº utÃ¡n.}
+{175}{}{Nem Ã©rtem. Mit Ã©rt ez alatt?}
+{176}{prs20a}{TÃ©nyleg nem tudja, ugye? Akkor hadd mesÃ©ljek az emberisÃ©g Ã¼dvÃ¶zÃ¼lÃ©sÃ©r?l! El?szÃ¶r egy kis tÃ¶rtÃ©nelem...}
 {177}{prs20b}{A, hmm, a little history....}
 {178}{}{Go on, Mr. President....}
-{179}{}{El?ször is: miért van bázisuk Navarróban?}
-{180}{}{Miel?tt belemélyedne... Láttam az egyik gépmadarukat üzletelni New Renóban. Az mi volt?}
-{181}{}{Most nincs id?m erre az ?rültségre. Viszlát!}
-{182}{prs21a}{Üdvözlöm! Örömmel állok h?sies katonánk rendelkezésére. Ugyanakkor eléggé elfoglalt vagyok. Szóval mit tehet az Egyesült Államok Elnöke magáért?}
-{183}{prs21b}{Visszatért? Mit akar?}
-{184}{}{Elmondhatná, mi folyik itt.}
-{185}{}{Én... öö... én csak ellen?rzöm ezt a területet, uram. Biztonsági ellen?rzés. Ja. Minden rendben, úgy látom. Ööö... viszlát!}
-{186}{prs22a}{Üdvözlöm! Én az Amerikai Egyesült Államok Elnöke vagyok, és maga... ?}
-{187}{prs22b}{Üdvözlöm! Az Amerikai Egyesült Államok Elnöke vagyok, és azt kell mondanom, ritkán látok errefelé idegen, vagy ami még rosszabb, asszociális egyének küldöttségét. Szóval ki maga, hogy így betolakodik hozzám?}
-{188}{}{Rohadtul kiváncsi vagyok, mi a franc folyik itt.}
-{189}{}{Én vagyok a maga hóhéra!}
-{190}{}{Az Elnök? Mir?l beszél?}
-{191}{}{Eltévedtem. Látom, maga elfoglalt ember, Elnök úr. Most távozom. Viszlát!}
-{192}{prs23}{Ez szégyen. Egy hamisítatlan mutánssal beszélgessek? Persze így jó képet alkothatnék arról, milyen az élet odakint abban a szárazföldi, radioaktív pokolban.}
-{193}{}{Mutáns? Miért hív engem mutánsnak?}
-{194}{}{Radioaktív pokol? Nem s?r?n mozdul ki innen, ugye?}
-{195}{}{Ennyi! Elég a beszédb?l! Eljött a halál ideje!}
-{196}{}{Ja, nos, mindannyiunknak együtt kell élni a csalódással. Viszlát!}
-{197}{prs24}{Nagy háború dúlt még jóval azel?tt, hogy megszülettünk volna. H?s katonáink a Yukon-tól a Yangtze-ig harcoltak.}
-{198}{}{Ja, ismerem ezt a részt. Folytassa!}
-{199}{prs26}{Bird alelnök talán egy nyálas idiótának t?nik, de jobb ha tudja, hogy az az ember egy nemzeti h?s.}
-{200}{}{Magának talán.}
-{201}{prs27}{? az egyik legbátrabb ember, akit ismerek. Önként vállalkozott, hogy kipróbálja az F.E.V. ellenszerének egy korai változatát. (sóhajt) Sajnos nem pontosan úgy m?ködött, ahogy azt reméltük.}
-{202}{}{Úgy érti, nem az történt, amiben reménykedett?}
-{203}{prs28}{A maguk pici, gúnyolódó agyacskája bizonyítja az emberek fels?bbrend?ségét a mutánsok felett.}
-{204}{}{? még mindig csak egy össze-vissza beszél? idióta.}
-{205}{}{Miért hív mutánsnak?}
-{206}{prs29}{Még lehet bel?le valami. Valójában még származhat néhány el?re nem látható el?ny is ebb?l. A beszédkézsége egész felfejl?dött.}
-{207}{}{Örülök a találkozásnak, de miért hív mutánsnak?}
-{208}{prs30}{Mert maga egy mutáns. A törzse DNS-e megváltozott, mióta az ?se elhagyta a Menedékét. Ez elkerülhetetlen. Mindaz a háttérsugárzás, aminek ki lett téve, ezt m?velte magával.}
-{209}{}{Oké, akkor mutáns vagyok. Na, okostojás, most közel áll ahhoz, hogy egy tökéletesen tiszta halott legyen magából.}
+{179}{}{El?szÃ¶r is: miÃ©rt van bÃ¡zisuk NavarrÃ³ban?}
+{180}{}{Miel?tt belemÃ©lyedne... LÃ¡ttam az egyik gÃ©pmadarukat Ã¼zletelni New RenÃ³ban. Az mi volt?}
+{181}{}{Most nincs id?m erre az ?rÃ¼ltsÃ©gre. ViszlÃ¡t!}
+{182}{prs21a}{ÃœdvÃ¶zlÃ¶m! Ã–rÃ¶mmel Ã¡llok h?sies katonÃ¡nk rendelkezÃ©sÃ©re. Ugyanakkor elÃ©ggÃ© elfoglalt vagyok. SzÃ³val mit tehet az EgyesÃ¼lt Ãllamok ElnÃ¶ke magÃ¡Ã©rt?}
+{183}{prs21b}{VisszatÃ©rt? Mit akar?}
+{184}{}{ElmondhatnÃ¡, mi folyik itt.}
+{185}{}{Ã‰n... Ã¶Ã¶... Ã©n csak ellen?rzÃ¶m ezt a terÃ¼letet, uram. BiztonsÃ¡gi ellen?rzÃ©s. Ja. Minden rendben, Ãºgy lÃ¡tom. Ã–Ã¶Ã¶... viszlÃ¡t!}
+{186}{prs22a}{ÃœdvÃ¶zlÃ¶m! Ã‰n az Amerikai EgyesÃ¼lt Ãllamok ElnÃ¶ke vagyok, Ã©s maga... ?}
+{187}{prs22b}{ÃœdvÃ¶zlÃ¶m! Az Amerikai EgyesÃ¼lt Ãllamok ElnÃ¶ke vagyok, Ã©s azt kell mondanom, ritkÃ¡n lÃ¡tok errefelÃ© idegen, vagy ami mÃ©g rosszabb, asszociÃ¡lis egyÃ©nek kÃ¼ldÃ¶ttsÃ©gÃ©t. SzÃ³val ki maga, hogy Ã­gy betolakodik hozzÃ¡m?}
+{188}{}{Rohadtul kivÃ¡ncsi vagyok, mi a franc folyik itt.}
+{189}{}{Ã‰n vagyok a maga hÃ³hÃ©ra!}
+{190}{}{Az ElnÃ¶k? Mir?l beszÃ©l?}
+{191}{}{EltÃ©vedtem. LÃ¡tom, maga elfoglalt ember, ElnÃ¶k Ãºr. Most tÃ¡vozom. ViszlÃ¡t!}
+{192}{prs23}{Ez szÃ©gyen. Egy hamisÃ­tatlan mutÃ¡nssal beszÃ©lgessek? Persze Ã­gy jÃ³ kÃ©pet alkothatnÃ©k arrÃ³l, milyen az Ã©let odakint abban a szÃ¡razfÃ¶ldi, radioaktÃ­v pokolban.}
+{193}{}{MutÃ¡ns? MiÃ©rt hÃ­v engem mutÃ¡nsnak?}
+{194}{}{RadioaktÃ­v pokol? Nem s?r?n mozdul ki innen, ugye?}
+{195}{}{Ennyi! ElÃ©g a beszÃ©db?l! EljÃ¶tt a halÃ¡l ideje!}
+{196}{}{Ja, nos, mindannyiunknak egyÃ¼tt kell Ã©lni a csalÃ³dÃ¡ssal. ViszlÃ¡t!}
+{197}{prs24}{Nagy hÃ¡borÃº dÃºlt mÃ©g jÃ³val azel?tt, hogy megszÃ¼lettÃ¼nk volna. H?s katonÃ¡ink a Yukon-tÃ³l a Yangtze-ig harcoltak.}
+{198}{}{Ja, ismerem ezt a rÃ©szt. Folytassa!}
+{199}{prs26}{Bird alelnÃ¶k talÃ¡n egy nyÃ¡las idiÃ³tÃ¡nak t?nik, de jobb ha tudja, hogy az az ember egy nemzeti h?s.}
+{200}{}{MagÃ¡nak talÃ¡n.}
+{201}{prs27}{? az egyik legbÃ¡trabb ember, akit ismerek. Ã–nkÃ©nt vÃ¡llalkozott, hogy kiprÃ³bÃ¡lja az F.E.V. ellenszerÃ©nek egy korai vÃ¡ltozatÃ¡t. (sÃ³hajt) Sajnos nem pontosan Ãºgy m?kÃ¶dÃ¶tt, ahogy azt remÃ©ltÃ¼k.}
+{202}{}{Ãšgy Ã©rti, nem az tÃ¶rtÃ©nt, amiben remÃ©nykedett?}
+{203}{prs28}{A maguk pici, gÃºnyolÃ³dÃ³ agyacskÃ¡ja bizonyÃ­tja az emberek fels?bbrend?sÃ©gÃ©t a mutÃ¡nsok felett.}
+{204}{}{? mÃ©g mindig csak egy Ã¶ssze-vissza beszÃ©l? idiÃ³ta.}
+{205}{}{MiÃ©rt hÃ­v mutÃ¡nsnak?}
+{206}{prs29}{MÃ©g lehet bel?le valami. ValÃ³jÃ¡ban mÃ©g szÃ¡rmazhat nÃ©hÃ¡ny el?re nem lÃ¡thatÃ³ el?ny is ebb?l. A beszÃ©dkÃ©zsÃ©ge egÃ©sz felfejl?dÃ¶tt.}
+{207}{}{Ã–rÃ¼lÃ¶k a talÃ¡lkozÃ¡snak, de miÃ©rt hÃ­v mutÃ¡nsnak?}
+{208}{prs30}{Mert maga egy mutÃ¡ns. A tÃ¶rzse DNS-e megvÃ¡ltozott, miÃ³ta az ?se elhagyta a MenedÃ©kÃ©t. Ez elkerÃ¼lhetetlen. Mindaz a hÃ¡ttÃ©rsugÃ¡rzÃ¡s, aminek ki lett tÃ©ve, ezt m?velte magÃ¡val.}
+{209}{}{OkÃ©, akkor mutÃ¡ns vagyok. Na, okostojÃ¡s, most kÃ¶zel Ã¡ll ahhoz, hogy egy tÃ¶kÃ©letesen tiszta halott legyen magÃ¡bÃ³l.}
 {210}{}{So we're mutants. So what?}
-{211}{}{Minden lény folyamatosan változik. Evolúciónak hívják. E változás nélkül mi még mindig protoplazmikus masszák lennénk.}
-{212}{prs31}{Mi próbáljuk biztonságban tartani magunkat a sugárzástól. Ez választja el az embereket - mint jómagam - a mutánsoktól, mint maga.}
-{213}{}{Miért szólít még mindig mutánsnak?}
-{214}{}{Elég a beszédb?l! Itt az ideje, hogy szembekerüljön a hatalmas elnökválasztó testülettel az égben.}
-{215}{}{Kevesebbért is öltem már, de ma sietek. Viszlát!}
+{211}{}{Minden lÃ©ny folyamatosan vÃ¡ltozik. EvolÃºciÃ³nak hÃ­vjÃ¡k. E vÃ¡ltozÃ¡s nÃ©lkÃ¼l mi mÃ©g mindig protoplazmikus masszÃ¡k lennÃ©nk.}
+{212}{prs31}{Mi prÃ³bÃ¡ljuk biztonsÃ¡gban tartani magunkat a sugÃ¡rzÃ¡stÃ³l. Ez vÃ¡lasztja el az embereket - mint jÃ³magam - a mutÃ¡nsoktÃ³l, mint maga.}
+{213}{}{MiÃ©rt szÃ³lÃ­t mÃ©g mindig mutÃ¡nsnak?}
+{214}{}{ElÃ©g a beszÃ©db?l! Itt az ideje, hogy szembekerÃ¼ljÃ¶n a hatalmas elnÃ¶kvÃ¡lasztÃ³ testÃ¼lettel az Ã©gben.}
+{215}{}{KevesebbÃ©rt is Ã¶ltem mÃ¡r, de ma sietek. ViszlÃ¡t!}
 {216}{prs32}{We were winning, too. And then those damn Reds launched. We barely got our birds up.}
-{217}{}{Nem úgy néz ki, mintha sokat segített volna...}
+{217}{}{Nem Ãºgy nÃ©z ki, mintha sokat segÃ­tett volna...}
 {218}{prs33}{Well, no it didn't. But at least it knocked the damn Red menace back into the stone age. (chuckles)}
-{219}{}{Beleértve magunkat is.}
-{220}{prs34}{Hát, nem. Nem... nem teljesen. Láthatja, el?re terveztünk. Mi készen álltunk. }
-{221}{}{Ezt most hogy kell értenem?}
+{219}{}{BeleÃ©rtve magunkat is.}
+{220}{prs34}{HÃ¡t, nem. Nem... nem teljesen. LÃ¡thatja, el?re terveztÃ¼nk. Mi kÃ©szen Ã¡lltunk. }
+{221}{}{Ezt most hogy kell Ã©rtenem?}
 {222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. This facility - the vaults - were part of the great plan.}
-{223}{}{Azok a rohadt Menedékek nem úgy m?ködtek, ahogy kellett volna! Sok ember meghalt bennük.}
+{223}{}{Azok a rohadt MenedÃ©kek nem Ãºgy m?kÃ¶dtek, ahogy kellett volna! Sok ember meghalt bennÃ¼k.}
 {224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale.}
-{225}{}{Kísérletnek?}
-{226}{prs36a}{A Menedékek az emberiséget tesztelték. Volt, amelyikben nem volt elég ételel?állító, volt olyan, amelyben csak férfiak voltak, míg némelyikben csak 6 hónapig voltak elzárva. Mindegyikben egyéni körülményeket teremtettünk, hogy leteszteljük a lakókat.}
+{225}{}{KÃ­sÃ©rletnek?}
+{226}{prs36a}{A MenedÃ©kek az emberisÃ©get teszteltÃ©k. Volt, amelyikben nem volt elÃ©g Ã©telel?Ã¡llÃ­tÃ³, volt olyan, amelyben csak fÃ©rfiak voltak, mÃ­g nÃ©melyikben csak 6 hÃ³napig voltak elzÃ¡rva. Mindegyikben egyÃ©ni kÃ¶rÃ¼lmÃ©nyeket teremtettÃ¼nk, hogy leteszteljÃ¼k a lakÃ³kat.}
 {227}{}{What about Vault 13? What was its purpose?}
 {228}{prs37}{Ahh. Vault 13 is a special case. It was supposed to remain closed until the subjects were needed. Vault 13 was, in scientific parlance, a control group.}
-{229}{}{De mindenki meghalt volna, ha az ?söm nem visz nekik tartalék víztisztító csipet. Amit mond, nem úgy t?nik, mintha a terv része lett volna.}
+{229}{}{De mindenki meghalt volna, ha az ?sÃ¶m nem visz nekik tartalÃ©k vÃ­ztisztÃ­tÃ³ csipet. Amit mond, nem Ãºgy t?nik, mintha a terv rÃ©sze lett volna.}
 {230}{prs38}{An unfortunate, and unforeseen accident. However, as it turns out a rather fortuitous one.}
-{231}{}{Ezt most hogy kell értenem?}
-{232}{prs39}{Nekünk szennyezetlen, háború el?tti emberi tesztalanyok kellettek - a maga ?sei a 13-as Menedékb?l - valamint frissen mutálódott alanyok - az arroyói falusiak...}
-{233}{}{Miért?}
-{234}{prs39a}{A Projekt számára. Már csaknem befejeztük. Az emberiség megváltása szinte az Egyesült államok kezében van, s így mi leszünk az újjászületés hírnökei.}
-{235}{}{Milyen újjászületésr?l beszél?}
-{236}{prs40a}{Az egyetlen mód a valódi emberek és a demokrácia felemelkedésére, hogy a bolygót megtisztítjuk a mutánsoktól. Mi emberek visszavesszük, ami jogosan minket illet.}
-{237}{prs40b}{A Projekt megtisztítja szeretett hazánkat, és a bolygó többi részét is a mutánsoktól. Újra Amerika lesz a világ csend?re!}
-{238}{}{Én magam is valódi ember vagyok.}
-{239}{}{Megtisztítani a mutánsoktól? Ez egy kissé drasztikusnak hangzik. Hogy akarják ezt véghezvinni?}
-{240}{prs41}{Körülbelül 70 éve találtunk egy m?köd? kutatóközpontot. Egy korábbi katonai bázisról van szó, amelyet egy speciális vírus kifejlesztésére használtak.}
-{241}{}{Vírust mondott?}
-{242}{prs42}{Igen. A F.E.V. vírusról van szó. Eredetileg azért fejlesztették ki, hogy katonákat szuper-harcosokká változtasson, de a kísérlet elbukott. A harcosok kemények és er?sek lettek, de nagyon buták. Szerencsére, a mi briliáns vegyi osztagunk megváltoztatta.}
-{243}{}{Megváltoztatta a vírust? Miért?}
+{231}{}{Ezt most hogy kell Ã©rtenem?}
+{232}{prs39}{NekÃ¼nk szennyezetlen, hÃ¡borÃº el?tti emberi tesztalanyok kellettek - a maga ?sei a 13-as MenedÃ©kb?l - valamint frissen mutÃ¡lÃ³dott alanyok - az arroyÃ³i falusiak...}
+{233}{}{MiÃ©rt?}
+{234}{prs39a}{A Projekt szÃ¡mÃ¡ra. MÃ¡r csaknem befejeztÃ¼k. Az emberisÃ©g megvÃ¡ltÃ¡sa szinte az EgyesÃ¼lt Ã¡llamok kezÃ©ben van, s Ã­gy mi leszÃ¼nk az ÃºjjÃ¡szÃ¼letÃ©s hÃ­rnÃ¶kei.}
+{235}{}{Milyen ÃºjjÃ¡szÃ¼letÃ©sr?l beszÃ©l?}
+{236}{prs40a}{Az egyetlen mÃ³d a valÃ³di emberek Ã©s a demokrÃ¡cia felemelkedÃ©sÃ©re, hogy a bolygÃ³t megtisztÃ­tjuk a mutÃ¡nsoktÃ³l. Mi emberek visszavesszÃ¼k, ami jogosan minket illet.}
+{237}{prs40b}{A Projekt megtisztÃ­tja szeretett hazÃ¡nkat, Ã©s a bolygÃ³ tÃ¶bbi rÃ©szÃ©t is a mutÃ¡nsoktÃ³l. Ãšjra Amerika lesz a vilÃ¡g csend?re!}
+{238}{}{Ã‰n magam is valÃ³di ember vagyok.}
+{239}{}{MegtisztÃ­tani a mutÃ¡nsoktÃ³l? Ez egy kissÃ© drasztikusnak hangzik. Hogy akarjÃ¡k ezt vÃ©ghezvinni?}
+{240}{prs41}{KÃ¶rÃ¼lbelÃ¼l 70 Ã©ve talÃ¡ltunk egy m?kÃ¶d? kutatÃ³kÃ¶zpontot. Egy korÃ¡bbi katonai bÃ¡zisrÃ³l van szÃ³, amelyet egy speciÃ¡lis vÃ­rus kifejlesztÃ©sÃ©re hasznÃ¡ltak.}
+{241}{}{VÃ­rust mondott?}
+{242}{prs42}{Igen. A F.E.V. vÃ­rusrÃ³l van szÃ³. Eredetileg azÃ©rt fejlesztettÃ©k ki, hogy katonÃ¡kat szuper-harcosokkÃ¡ vÃ¡ltoztasson, de a kÃ­sÃ©rlet elbukott. A harcosok kemÃ©nyek Ã©s er?sek lettek, de nagyon butÃ¡k. SzerencsÃ©re, a mi briliÃ¡ns vegyi osztagunk megvÃ¡ltoztatta.}
+{243}{}{MegvÃ¡ltoztatta a vÃ­rust? MiÃ©rt?}
 {244}{prs43}{To turn it into a staggeringly effective killer. Any humanoid that isn't inoculated against its effects before its release will die. That is the Project.}
-{245}{}{Ez ?rület!}
-{246}{prs43a}{Nem, nem... Ez az emberiség utolsó, egyetlen reménye. Ez az, amiért már oly sok éve dolgozunk.}
-{247}{}{Nagyszer?, szóval van rengeteg mérgük, és nem tudják elterjeszteni.}
+{245}{}{Ez ?rÃ¼let!}
+{246}{prs43a}{Nem, nem... Ez az emberisÃ©g utolsÃ³, egyetlen remÃ©nye. Ez az, amiÃ©rt mÃ¡r oly sok Ã©ve dolgozunk.}
+{247}{}{Nagyszer?, szÃ³val van rengeteg mÃ©rgÃ¼k, Ã©s nem tudjÃ¡k elterjeszteni.}
 {248}{prs44}{We've run short of certain critical chemicals. We can get them from the drug labs of New Reno. If the mutant-mobsters use our guns to kill each other, (snorts) just saves us the trouble.}
-{249}{}{Minden a maguk szája íze szerint m?ködik, mi? Halljuk a történet végét!}
-{250}{prs45}{Egyszer?. Navarro egy izolált bázis. A gépmadarainknak limitált a távolságuk. Ott tankolnak újra.}
-{251}{}{Értelemszer?.}
+{249}{}{Minden a maguk szÃ¡ja Ã­ze szerint m?kÃ¶dik, mi? Halljuk a tÃ¶rtÃ©net vÃ©gÃ©t!}
+{250}{prs45}{Egyszer?. Navarro egy izolÃ¡lt bÃ¡zis. A gÃ©pmadarainknak limitÃ¡lt a tÃ¡volsÃ¡guk. Ott tankolnak Ãºjra.}
+{251}{}{Ã‰rtelemszer?.}
 {252}{prs46a}{I'm sure you think so. But tests performed on your tribesmen have all shown that you are guilty of mutation. And it's a damn good thing the Project is ready.}
-{253}{}{Miért?}
+{253}{}{MiÃ©rt?}
 {254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But (sighs) that's not to be.}
-{255}{}{Miért nem lesz így?}
+{255}{}{MiÃ©rt nem lesz Ã­gy?}
 {256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
-{257}{}{Oké. Akkor miért kellett elrabolni a törzsemet és a 13-as Menedékbeli embereket?}
-{258}{prs48}{?k a tesztalanyok. A falubelijei mind Menedéklakók leszármazottai, s biztosnak kellett lennünk, hogy a F.E.V. vírus még mindig hat. A 13-as Menedék lakóin teszteljük a F.E.V.-et és a létrehozandó ellenanyagot.}
-{259}{}{Csak nem az én embereimen tesztelik az oltóanyagot?}
-{260}{prs48a}{Nem szükséges. Biztos vagyok benne, hogy megtehetnénk, s m?ködne a dolog, de nincs rá okunk, hogy megtegyük.}
-{261}{}{El?fordult már magával, hogy nem cselekedett helyesen?}
-{262}{prs49}{Soha. Az elnök munkája, hogy meghozza a nehéz döntéseket. Sok-sok majdnem-ember áldozza fel az életét az emberiség visszatértéért. Az emberiség mindenek felett!}
-{263}{}{Nincs az az Isten, hogy én ezt engedem megtenni!}
-{264}{}{Csak mert odakint nem mindenkinek tökéletesen azonos a DNS-e a magukéval, nem jogosítja fel magukat a meggyilkolásukra.}
-{265}{prs50}{Nem tudja megakadályozni. A teszteket befejeztük és az anyag készen áll a kibocsátásra. Órákon belül elszabadul, s a maga falujának lakói lesznek az els?k, akik megtehetik ezt a hatalmas áldozatot. A többi mutáns követni fogja ?ket. Sajnálatos lábjegyzet ez az emberiség történelmében.}
-{266}{}{És miért ne kezdjük azt a lábjegyzetet a maga sírfeliratával, Elnök Úr?}
-{267}{prs51}{Ó, én nem élvezem ezt a döntést. Bárcsak lenne más mód, de nincs. Semmilyen ár nem lehet magas az emberiség túléléséért. Ha maga is ember lenne, ugyanezt érezné.}
-{268}{}{Maga tényleg hisz ebben, ugye?}
-{269}{prs53}{Igen. Még a halálom sem segít magán. Nincs semmi, amivel megállíthatja a méreg elterjedését.}
-{270}{}{Talán kitalálok valami módot, hogy megízlelhessék a saját "gyógyszerüket".}
-{271}{}{Majd meglátjuk. Most dolgom van. Viszlát, Richardson elnök!}
-{272}{}{Nem értek egyet, elnök úr! Szerintem a megölése segít. Legalábbis én sokkal jobban fogom magam érezni utána.}
-{273}{prs54}{Próbálkozhat, de Navarro és az Enklávé lakossága rövidesen be lesz oltva.}
-{274}{}{Még nincsenek?}
-{275}{prs55}{Még szét kell osztanunk a készleteinket. Órák kérdése. Emellett az Enklávé egy elszigetelt egység. Semmilyen szennyez? anyag nem kerülhet be ide vagy ki innen.}
-{276}{}{Majd meglátjuk. Ezalatt szépen kivonom a forgalomból...}
-{277}{prs56}{Lehet, hogy keményebb lesz, mint gondolja. Ha viszont megteszi, én, mint hazafi és az emberiség szolgája elnyerem jutalmam.}
-{278}{}{Itt az ideje, hogy átvegye a jutalmát...}
-{279}{}{Most hagyom gondolkozni a közelg? haláláról. Ne nyúljon a riasztóhoz! Viszlát!}
+{257}{}{OkÃ©. Akkor miÃ©rt kellett elrabolni a tÃ¶rzsemet Ã©s a 13-as MenedÃ©kbeli embereket?}
+{258}{prs48}{?k a tesztalanyok. A falubelijei mind MenedÃ©klakÃ³k leszÃ¡rmazottai, s biztosnak kellett lennÃ¼nk, hogy a F.E.V. vÃ­rus mÃ©g mindig hat. A 13-as MenedÃ©k lakÃ³in teszteljÃ¼k a F.E.V.-et Ã©s a lÃ©trehozandÃ³ ellenanyagot.}
+{259}{}{Csak nem az Ã©n embereimen tesztelik az oltÃ³anyagot?}
+{260}{prs48a}{Nem szÃ¼ksÃ©ges. Biztos vagyok benne, hogy megtehetnÃ©nk, s m?kÃ¶dne a dolog, de nincs rÃ¡ okunk, hogy megtegyÃ¼k.}
+{261}{}{El?fordult mÃ¡r magÃ¡val, hogy nem cselekedett helyesen?}
+{262}{prs49}{Soha. Az elnÃ¶k munkÃ¡ja, hogy meghozza a nehÃ©z dÃ¶ntÃ©seket. Sok-sok majdnem-ember Ã¡ldozza fel az Ã©letÃ©t az emberisÃ©g visszatÃ©rtÃ©Ã©rt. Az emberisÃ©g mindenek felett!}
+{263}{}{Nincs az az Isten, hogy Ã©n ezt engedem megtenni!}
+{264}{}{Csak mert odakint nem mindenkinek tÃ¶kÃ©letesen azonos a DNS-e a magukÃ©val, nem jogosÃ­tja fel magukat a meggyilkolÃ¡sukra.}
+{265}{prs50}{Nem tudja megakadÃ¡lyozni. A teszteket befejeztÃ¼k Ã©s az anyag kÃ©szen Ã¡ll a kibocsÃ¡tÃ¡sra. Ã“rÃ¡kon belÃ¼l elszabadul, s a maga falujÃ¡nak lakÃ³i lesznek az els?k, akik megtehetik ezt a hatalmas Ã¡ldozatot. A tÃ¶bbi mutÃ¡ns kÃ¶vetni fogja ?ket. SajnÃ¡latos lÃ¡bjegyzet ez az emberisÃ©g tÃ¶rtÃ©nelmÃ©ben.}
+{266}{}{Ã‰s miÃ©rt ne kezdjÃ¼k azt a lÃ¡bjegyzetet a maga sÃ­rfeliratÃ¡val, ElnÃ¶k Ãšr?}
+{267}{prs51}{Ã“, Ã©n nem Ã©lvezem ezt a dÃ¶ntÃ©st. BÃ¡rcsak lenne mÃ¡s mÃ³d, de nincs. Semmilyen Ã¡r nem lehet magas az emberisÃ©g tÃºlÃ©lÃ©sÃ©Ã©rt. Ha maga is ember lenne, ugyanezt Ã©reznÃ©.}
+{268}{}{Maga tÃ©nyleg hisz ebben, ugye?}
+{269}{prs53}{Igen. MÃ©g a halÃ¡lom sem segÃ­t magÃ¡n. Nincs semmi, amivel megÃ¡llÃ­thatja a mÃ©reg elterjedÃ©sÃ©t.}
+{270}{}{TalÃ¡n kitalÃ¡lok valami mÃ³dot, hogy megÃ­zlelhessÃ©k a sajÃ¡t "gyÃ³gyszerÃ¼ket".}
+{271}{}{Majd meglÃ¡tjuk. Most dolgom van. ViszlÃ¡t, Richardson elnÃ¶k!}
+{272}{}{Nem Ã©rtek egyet, elnÃ¶k Ãºr! Szerintem a megÃ¶lÃ©se segÃ­t. LegalÃ¡bbis Ã©n sokkal jobban fogom magam Ã©rezni utÃ¡na.}
+{273}{prs54}{PrÃ³bÃ¡lkozhat, de Navarro Ã©s az EnklÃ¡vÃ© lakossÃ¡ga rÃ¶videsen be lesz oltva.}
+{274}{}{MÃ©g nincsenek?}
+{275}{prs55}{MÃ©g szÃ©t kell osztanunk a kÃ©szleteinket. Ã“rÃ¡k kÃ©rdÃ©se. Emellett az EnklÃ¡vÃ© egy elszigetelt egysÃ©g. Semmilyen szennyez? anyag nem kerÃ¼lhet be ide vagy ki innen.}
+{276}{}{Majd meglÃ¡tjuk. Ezalatt szÃ©pen kivonom a forgalombÃ³l...}
+{277}{prs56}{Lehet, hogy kemÃ©nyebb lesz, mint gondolja. Ha viszont megteszi, Ã©n, mint hazafi Ã©s az emberisÃ©g szolgÃ¡ja elnyerem jutalmam.}
+{278}{}{Itt az ideje, hogy Ã¡tvegye a jutalmÃ¡t...}
+{279}{}{Most hagyom gondolkozni a kÃ¶zelg? halÃ¡lÃ¡rÃ³l. Ne nyÃºljon a riasztÃ³hoz! ViszlÃ¡t!}
 {280}{prs57}{Very moving. But the radical changes your villagers and other mutants show is a far cry from the gradual changes of natural evolution.}
-{281}{}{Lehetséges, hogy mi egy jobb emberi fajjá változunk. Gondolt erre valaha?}
-{282}{prs58}{Tényleg, ez nagyon valószín?. Ezesetben a mi küldetésünk még életbevágóbb az emberi faj túlélése érdekében.}
+{281}{}{LehetsÃ©ges, hogy mi egy jobb emberi fajjÃ¡ vÃ¡ltozunk. Gondolt erre valaha?}
+{282}{prs58}{TÃ©nyleg, ez nagyon valÃ³szÃ­n?. Ezesetben a mi kÃ¼ldetÃ©sÃ¼nk mÃ©g Ã©letbevÃ¡gÃ³bb az emberi faj tÃºlÃ©lÃ©se Ã©rdekÃ©ben.}
 {283}{}{Ha? Mit akar ez jelenteni?}
-{284}{prs59}{Ez a Szellemiség. Isten áldja Amerikát. Most már akár vissza is mehetne az elkülönít? cellájába!}
-{285}{}{Öö, igen, uram. Amit csak mond, uram.}
-{286}{}{Ó, visszatalálok én magamtól is, uram. Viszlát!}
-{287}{prs60}{Miért? A F.E.V. miatt, természetesen. Rohadt bátor önfeláldozás, amit maga és a 13-as Menedék lakói tesznek. Az Egyesült Államok kormánya és az egész emberiség nevében köszönöm. Most jobb ha visszavezetik az elkülönít? cellájába.}
-{288}{}{F.E.V.? Mi a fenér?l beszél? Mi folyik itt?}
-{289}{}{Óh, igen uram. Amit csak mond, uram.}
-{290}{}{Ó, visszatalálok én magamtól is, uram. Viszlát!}
-{291}{prs61}{És akkor? Ha engednénk a fajtáját virágzani, az az ismert emberiség végét jelentené. Nem engedhetjük meg, hogy maguk, radioaktív szörnyszülöttek, kihalásba taszítsák az emberiséget.}
-{292}{}{Szerintem maga egy kissé túllihegi a dolgokat.}
-{293}{prs62}{Egyáltalán nem. Gondolkodjon el?re. A mutánsok és az emberek biztos együtt tudnának élni egy ideig, de el?bb-utóbb rádöbbenne, micsoda gondot okoz a maga fajtájának túlnépesedése. Nem engedhetjük ezt meg, meg kell húzni a határt.}
-{294}{}{Mit tervez tenni ezzel a fenyegetéssel szemben?}
-{295}{}{Nincs arra id?m, hogy a maga vakbuzgó, ?rült ömlengéseit hallgassam.}
-{296}{prs63}{Az Egyesült Államok kormánya már jó ideje dolgozik a megoldáson.}
-{297}{}{Hogyan? Mit csinálnak maguk itt?}
-{298}{prs64}{Biztosíthatom, hogy eszemnél vagyok, mint bárki, aki a Projekten dolgozik. Mi az emberiség üdvözülésének ajánlottuk magunkat. Hívhatja ?szinte felajánlásnak vagy megszállottságnak egy ?rült ügyért, de akkor ez az "?rület" csak az el?relátók óvatossága.}
-{299}{}{Mir?l beszél? Mit csinálnak maguk itt?}
-{300}{}{S mit szól az én ?szinte felajánlásomhoz: ?szintén felajánlom, hogy most megölöm?}
-{301}{}{Maga ?rült! Nincs id?m az agymenését hallgatni. Viszlát!}
+{284}{prs59}{Ez a SzellemisÃ©g. Isten Ã¡ldja AmerikÃ¡t. Most mÃ¡r akÃ¡r vissza is mehetne az elkÃ¼lÃ¶nÃ­t? cellÃ¡jÃ¡ba!}
+{285}{}{Ã–Ã¶, igen, uram. Amit csak mond, uram.}
+{286}{}{Ã“, visszatalÃ¡lok Ã©n magamtÃ³l is, uram. ViszlÃ¡t!}
+{287}{prs60}{MiÃ©rt? A F.E.V. miatt, termÃ©szetesen. Rohadt bÃ¡tor Ã¶nfelÃ¡ldozÃ¡s, amit maga Ã©s a 13-as MenedÃ©k lakÃ³i tesznek. Az EgyesÃ¼lt Ãllamok kormÃ¡nya Ã©s az egÃ©sz emberisÃ©g nevÃ©ben kÃ¶szÃ¶nÃ¶m. Most jobb ha visszavezetik az elkÃ¼lÃ¶nÃ­t? cellÃ¡jÃ¡ba.}
+{288}{}{F.E.V.? Mi a fenÃ©r?l beszÃ©l? Mi folyik itt?}
+{289}{}{Ã“h, igen uram. Amit csak mond, uram.}
+{290}{}{Ã“, visszatalÃ¡lok Ã©n magamtÃ³l is, uram. ViszlÃ¡t!}
+{291}{prs61}{Ã‰s akkor? Ha engednÃ©nk a fajtÃ¡jÃ¡t virÃ¡gzani, az az ismert emberisÃ©g vÃ©gÃ©t jelentenÃ©. Nem engedhetjÃ¼k meg, hogy maguk, radioaktÃ­v szÃ¶rnyszÃ¼lÃ¶ttek, kihalÃ¡sba taszÃ­tsÃ¡k az emberisÃ©get.}
+{292}{}{Szerintem maga egy kissÃ© tÃºllihegi a dolgokat.}
+{293}{prs62}{EgyÃ¡ltalÃ¡n nem. Gondolkodjon el?re. A mutÃ¡nsok Ã©s az emberek biztos egyÃ¼tt tudnÃ¡nak Ã©lni egy ideig, de el?bb-utÃ³bb rÃ¡dÃ¶bbenne, micsoda gondot okoz a maga fajtÃ¡jÃ¡nak tÃºlnÃ©pesedÃ©se. Nem engedhetjÃ¼k ezt meg, meg kell hÃºzni a hatÃ¡rt.}
+{294}{}{Mit tervez tenni ezzel a fenyegetÃ©ssel szemben?}
+{295}{}{Nincs arra id?m, hogy a maga vakbuzgÃ³, ?rÃ¼lt Ã¶mlengÃ©seit hallgassam.}
+{296}{prs63}{Az EgyesÃ¼lt Ãllamok kormÃ¡nya mÃ¡r jÃ³ ideje dolgozik a megoldÃ¡son.}
+{297}{}{Hogyan? Mit csinÃ¡lnak maguk itt?}
+{298}{prs64}{BiztosÃ­thatom, hogy eszemnÃ©l vagyok, mint bÃ¡rki, aki a Projekten dolgozik. Mi az emberisÃ©g Ã¼dvÃ¶zÃ¼lÃ©sÃ©nek ajÃ¡nlottuk magunkat. HÃ­vhatja ?szinte felajÃ¡nlÃ¡snak vagy megszÃ¡llottsÃ¡gnak egy ?rÃ¼lt Ã¼gyÃ©rt, de akkor ez az "?rÃ¼let" csak az el?relÃ¡tÃ³k Ã³vatossÃ¡ga.}
+{299}{}{Mir?l beszÃ©l? Mit csinÃ¡lnak maguk itt?}
+{300}{}{S mit szÃ³l az Ã©n ?szinte felajÃ¡nlÃ¡somhoz: ?szintÃ©n felajÃ¡nlom, hogy most megÃ¶lÃ¶m?}
+{301}{}{Maga ?rÃ¼lt! Nincs id?m az agymenÃ©sÃ©t hallgatni. ViszlÃ¡t!}
 {302}{prs65}{I don't think this tired old Planet's big enough for two top dogs. If it's us or you.... Well, I'm going to choose us.}
-{303}{}{Nem hiszem, hogy ilyen választás elé fog kerülni.}
-{304}{prs66}{Mint a végrehajtó hatalom megtestesít?je, én viselem az Egyesült Államok és az emberiség túlélésének terhét. Ha ez azt jelenti, hogy a Föld újra a gyerekeinké és az ? gyerekeiké lesz, akkor boldogan vállalom ezt a nehéz terhet.}
-{305}{}{Hogy akarja ezt megtenni? Mit csinál itt?}
-{306}{}{Hadd vegyem le a válláról a terhet! Véglegesen...}
-{307}{}{Szép lehet a maga dimenziójában. Viszlát, Agyament úr!}
-{308}{}{Északra}
-{309}{}{Észak-nyugatra}
+{303}{}{Nem hiszem, hogy ilyen vÃ¡lasztÃ¡s elÃ© fog kerÃ¼lni.}
+{304}{prs66}{Mint a vÃ©grehajtÃ³ hatalom megtestesÃ­t?je, Ã©n viselem az EgyesÃ¼lt Ãllamok Ã©s az emberisÃ©g tÃºlÃ©lÃ©sÃ©nek terhÃ©t. Ha ez azt jelenti, hogy a FÃ¶ld Ãºjra a gyerekeinkÃ© Ã©s az ? gyerekeikÃ© lesz, akkor boldogan vÃ¡llalom ezt a nehÃ©z terhet.}
+{305}{}{Hogy akarja ezt megtenni? Mit csinÃ¡l itt?}
+{306}{}{Hadd vegyem le a vÃ¡llÃ¡rÃ³l a terhet! VÃ©glegesen...}
+{307}{}{SzÃ©p lehet a maga dimenziÃ³jÃ¡ban. ViszlÃ¡t, Agyament Ãºr!}
+{308}{}{Ã‰szakra}
+{309}{}{Ã‰szak-nyugatra}
 {310}{}{Nyugatra}
-{311}{}{Dél-nyugatra}
-{312}{}{Délre}
-{313}{}{Dél-keletre}
+{311}{}{DÃ©l-nyugatra}
+{312}{}{DÃ©lre}
+{313}{}{DÃ©l-keletre}
 {314}{}{Innen keletre}
-{315}{}{Észak-keletre.}
+{315}{}{Ã‰szak-keletre.}
 {316}{}{Igen}
 {317}{}{Nem.}
-{318}{}{Áhh}
-{319}{}{(sír a fájdalomtól)}
-{320}{}{Miért beszélsz így velem?}
-{321}{}{Arról semmit se tudok.}
+{318}{}{Ãhh}
+{319}{}{(sÃ­r a fÃ¡jdalomtÃ³l)}
+{320}{}{MiÃ©rt beszÃ©lsz Ã­gy velem?}
+{321}{}{ArrÃ³l semmit se tudok.}
 {322}{}{Nem vagy valami kedves.}
-{323}{}{Köszönöm.}
-{324}{}{Ez bizony jó.}
-{325}{}{Ez nem jó.}
-{326}{}{Jó érzésem van ezzel kapcsolatban.}
-{327}{}{Rossz érzésem van ezzel kapcsolatban.}
-{328}{}{Ti emberek ?rültek vagytok.}
-{329}{}{Mir?l beszélsz?}
-{330}{}{Itt mindenki megkergült?}
-{331}{}{Kell lennie valami más módnak.}
+{323}{}{KÃ¶szÃ¶nÃ¶m.}
+{324}{}{Ez bizony jÃ³.}
+{325}{}{Ez nem jÃ³.}
+{326}{}{JÃ³ Ã©rzÃ©sem van ezzel kapcsolatban.}
+{327}{}{Rossz Ã©rzÃ©sem van ezzel kapcsolatban.}
+{328}{}{Ti emberek ?rÃ¼ltek vagytok.}
+{329}{}{Mir?l beszÃ©lsz?}
+{330}{}{Itt mindenki megkergÃ¼lt?}
+{331}{}{Kell lennie valami mÃ¡s mÃ³dnak.}
 {332}{}{Gyere ide!}
-{333}{}{Nem értem.}
+{333}{}{Nem Ã©rtem.}
 {334}{}{Nem tudom.}
-{335}{}{Ez fáj.}
-{336}{}{Ez nagyon fáj.}
-{337}{}{Ez biztos fájt.}
+{335}{}{Ez fÃ¡j.}
+{336}{}{Ez nagyon fÃ¡j.}
+{337}{}{Ez biztos fÃ¡jt.}
 {338}{}{Actually, Mr. President, I'm back.}

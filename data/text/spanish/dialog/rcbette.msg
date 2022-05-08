@@ -1,95 +1,95 @@
 {100}{}{Ves a una minera corpulenta.}
 {101}{}{Ves a Blasfemias Bette, minera de la mina Morningstar.}
-{102}{}{Ves a una musculosa mujer que parece llena de confianza en sí misma.}
+{102}{}{Ves a una musculosa mujer que parece llena de confianza en sÃ­ misma.}
 {103}{}{Caminetto, tus mineros de la Kokoweef son pura apariencia.}
-{104}{}{Te diré dónde puedes irte, Blasfemias Bette.}
-{105}{}{No podrías decírmelo ni con un mapa de carreteras.}
-{106}{}{Sólo porque no podría ni acercarme a ti.}
+{104}{}{Te dirÃ© dÃ³nde puedes irte, Blasfemias Bette.}
+{105}{}{No podrÃ­as decÃ­rmelo ni con un mapa de carreteras.}
+{106}{}{SÃ³lo porque no podrÃ­a ni acercarme a ti.}
 {107}{}{No presumas, enano capullo.}
-{108}{}{Tendrías suerte si tuvieras un capullo en lugar de la máquina de taladrar que usas normalmente.}
-{109}{}{Bueno, por lo menos mi taladro dura más de treinta segundos.}
-{110}{}{Ahora sé porqué la maquinaria de la Morningstar siempre está rompiéndose.}
-{111}{}{Te enseñare cómo te rompes, ¡con mis puños!}
-{112}{}{¿Tus puños? Con tu mal aliento ya es suficiente.}
-{113}{}{No sé cómo puedes olerlo con ese hedor tuyo de tres semanas.}
-{114}{}{¿Hedor? Coño, mirarte ya me causa bastante dolor.}
-{115}{}{No sabes nada sobre el dolor, pero yo te enseñaré algo.}
-{116}{}{¿Me enseñarás?}
-{117}{}{Sí, eso es. Porque seguro que tu madre no lo hizo.}
-{118}{}{¿Ahora hablas de mi madre? Eso no es creativo.}
-{119}{}{Haré mejor trabajo creándote una cara nueva. La vieja no tiene mucho para mirar.}
-{120}{}{¿Tú y qué ejército?}
+{108}{}{TendrÃ­as suerte si tuvieras un capullo en lugar de la mÃ¡quina de taladrar que usas normalmente.}
+{109}{}{Bueno, por lo menos mi taladro dura mÃ¡s de treinta segundos.}
+{110}{}{Ahora sÃ© porquÃ© la maquinaria de la Morningstar siempre estÃ¡ rompiÃ©ndose.}
+{111}{}{Te enseÃ±are cÃ³mo te rompes, Â¡con mis puÃ±os!}
+{112}{}{Â¿Tus puÃ±os? Con tu mal aliento ya es suficiente.}
+{113}{}{No sÃ© cÃ³mo puedes olerlo con ese hedor tuyo de tres semanas.}
+{114}{}{Â¿Hedor? CoÃ±o, mirarte ya me causa bastante dolor.}
+{115}{}{No sabes nada sobre el dolor, pero yo te enseÃ±arÃ© algo.}
+{116}{}{Â¿Me enseÃ±arÃ¡s?}
+{117}{}{SÃ­, eso es. Porque seguro que tu madre no lo hizo.}
+{118}{}{Â¿Ahora hablas de mi madre? Eso no es creativo.}
+{119}{}{HarÃ© mejor trabajo creÃ¡ndote una cara nueva. La vieja no tiene mucho para mirar.}
+{120}{}{Â¿TÃº y quÃ© ejÃ©rcito?}
 {121}{}{Yo sola. Es todo lo que hace falta. Pero apuesto a que mis chicos pueden ocuparse de tus enclenques amigos
  en cualquier momento.}
-{122}{}{No lo creo. Kokoweef dirige aquí el cotarro. Voy a tener que enseñártelo.}
-{123}{}{Te será difícil hacerlo cuando te deje tumbado.}
-{124}{}{No tendrás esa suerte.}
+{122}{}{No lo creo. Kokoweef dirige aquÃ­ el cotarro. Voy a tener que enseÃ±Ã¡rtelo.}
+{123}{}{Te serÃ¡ difÃ­cil hacerlo cuando te deje tumbado.}
+{124}{}{No tendrÃ¡s esa suerte.}
 {125}{}{No necesito suerte para dejarte como una esterilla.}
-{126}{}{¿Es que vas a aplastarme con tu peso? Oh oh, ahora *estoy* asustado.}
-{127}{}{Pelea o cállate, renacuajo.}
+{126}{}{Â¿Es que vas a aplastarme con tu peso? Oh oh, ahora *estoy* asustado.}
+{127}{}{Pelea o cÃ¡llate, renacuajo.}
 {128}{}{Ven a recibir lo tuyo, bruja.}
-{129}{}{¿Quién es el que espera tener suerte ahora?}
-{130}{}{Ya está, voy a ocuparme de ti por esto.}
-{131}{}{¿Quién coño es ese que nos está mirando?}
-{132}{}{Alguien nuevo. ¡Eh, ésta es una cuestión privada! ¡Vamos a por él!}
-{133}{}{Por una vez estoy de acuerdo. ¡Vamos!}
-{134}{}{Quién va a sacar el oro ahora, ¿eh, capullo?}
-{135}{}{Me vendrían bien unas jodidas vacaciones.}
-{136}{}{¿Tengo que compartir la celda con este memo?}
-{137}{}{Caminetto, tus puñeteros días están contados.}
-{138}{}{Dile adiós a tu culo por esto.}
-{139}{}{¡Sácame de este jodido infierno!}
-{140}{}{¡Eh, anormal, déjame salir!}
-{141}{}{Eh, sheriff; le pagaré si me deja salir.}
-{142}{}{La próxima vez te sacaré tus jodidas tripas.}
-{143}{}{¿Qué coño estás mirando?}
-{144}{}{¿Qué quieres, mierdecilla?}
-{145}{}{No voy a permitir que peleéis.}
-{146}{}{Quiero saber qué está pasando aquí.}
-{147}{}{Hay un montón de mierda en este bar y yo y mis mineros de la Morningstar vamos a sacarla
- a la calle. La mierda más grande incluso tiene nombre: Caminetto.}
-{148}{}{¿Por qué? ¿Cómo empezó?}
-{149}{}{Ya veo. Bien, no lo permitiré. Tenéis que separaros ya.}
-{150}{}{Mira a esos penosos pichaflojas. ¿Quién no querría machacarlos?}
+{129}{}{Â¿QuiÃ©n es el que espera tener suerte ahora?}
+{130}{}{Ya estÃ¡, voy a ocuparme de ti por esto.}
+{131}{}{Â¿QuiÃ©n coÃ±o es ese que nos estÃ¡ mirando?}
+{132}{}{Alguien nuevo. Â¡Eh, Ã©sta es una cuestiÃ³n privada! Â¡Vamos a por Ã©l!}
+{133}{}{Por una vez estoy de acuerdo. Â¡Vamos!}
+{134}{}{QuiÃ©n va a sacar el oro ahora, Â¿eh, capullo?}
+{135}{}{Me vendrÃ­an bien unas jodidas vacaciones.}
+{136}{}{Â¿Tengo que compartir la celda con este memo?}
+{137}{}{Caminetto, tus puÃ±eteros dÃ­as estÃ¡n contados.}
+{138}{}{Dile adiÃ³s a tu culo por esto.}
+{139}{}{Â¡SÃ¡came de este jodido infierno!}
+{140}{}{Â¡Eh, anormal, dÃ©jame salir!}
+{141}{}{Eh, sheriff; le pagarÃ© si me deja salir.}
+{142}{}{La prÃ³xima vez te sacarÃ© tus jodidas tripas.}
+{143}{}{Â¿QuÃ© coÃ±o estÃ¡s mirando?}
+{144}{}{Â¿QuÃ© quieres, mierdecilla?}
+{145}{}{No voy a permitir que peleÃ©is.}
+{146}{}{Quiero saber quÃ© estÃ¡ pasando aquÃ­.}
+{147}{}{Hay un montÃ³n de mierda en este bar y yo y mis mineros de la Morningstar vamos a sacarla
+ a la calle. La mierda mÃ¡s grande incluso tiene nombre: Caminetto.}
+{148}{}{Â¿Por quÃ©? Â¿CÃ³mo empezÃ³?}
+{149}{}{Ya veo. Bien, no lo permitirÃ©. TenÃ©is que separaros ya.}
+{150}{}{Mira a esos penosos pichaflojas. Â¿QuiÃ©n no querrÃ­a machacarlos?}
 {151}{}{Eso no basta. No puedo permitiros pelear.}
 {152}{}{Bueno, parece un problema, de acuerdo. No te culpo. Buena suerte.}
-{153}{}{¿Y qué coño piensas hacer, maldito imbécil?}
-{154}{}{Mataré al primero que levante un puño.}
-{155}{}{Os lo voy a pedir muy amablemente. Después, cargaré mis armas y esperaré una oportunidad
- de practicar puntería.}
-{156}{}{El sheriff me pidió que lo ayudara mientras se le cura la pierna. Y yo mantengo mi
+{153}{}{Â¿Y quÃ© coÃ±o piensas hacer, maldito imbÃ©cil?}
+{154}{}{MatarÃ© al primero que levante un puÃ±o.}
+{155}{}{Os lo voy a pedir muy amablemente. DespuÃ©s, cargarÃ© mis armas y esperarÃ© una oportunidad
+ de practicar punterÃ­a.}
+{156}{}{El sheriff me pidiÃ³ que lo ayudara mientras se le cura la pierna. Y yo mantengo mi
  palabra.}
-{157}{}{¿Sí? Ese Marion es un buen tipo. De acuerdo, por él les daré a esos maricones de la Kokoweef un aplazamiento
+{157}{}{Â¿SÃ­? Ese Marion es un buen tipo. De acuerdo, por Ã©l les darÃ© a esos maricones de la Kokoweef un aplazamiento
  para su paliza.}
-{158}{}{Gracias. Esperaba que vieras así las cosas. Adiós.}
-{159}{}{No te pienses que eres algún tipo de maldito vaquero del asfalto. Creo que no me gusta tu jodida
+{158}{}{Gracias. Esperaba que vieras asÃ­ las cosas. AdiÃ³s.}
+{159}{}{No te pienses que eres algÃºn tipo de maldito vaquero del asfalto. Creo que no me gusta tu jodida
  actitud.}
-{160}{}{No te tiene que gustar. Vas a venir conmigo a la cárcel o voy a arrastrar tu
- cadáver hasta allí. Tú eliges.}
-{161}{}{Oh, lo siento. No quise ser grosero. Ya me voy. Adiós.}
-{162}{}{¿Sí? Bien, te diré algo. Iré si encarcelas a ese comemierda de Caminetto también.}
-{163}{}{No estás en posición de hacer tratos.}
-{164}{}{No es mala idea. Poniendo algunos barrotes entre vosotros puede que las cosas se enfríen un poco.
+{160}{}{No te tiene que gustar. Vas a venir conmigo a la cÃ¡rcel o voy a arrastrar tu
+ cadÃ¡ver hasta allÃ­. TÃº eliges.}
+{161}{}{Oh, lo siento. No quise ser grosero. Ya me voy. AdiÃ³s.}
+{162}{}{Â¿SÃ­? Bien, te dirÃ© algo. IrÃ© si encarcelas a ese comemierda de Caminetto tambiÃ©n.}
+{163}{}{No estÃ¡s en posiciÃ³n de hacer tratos.}
+{164}{}{No es mala idea. Poniendo algunos barrotes entre vosotros puede que las cosas se enfrÃ­en un poco.
  Venga, los dos.}
-{165}{}{¿Estás sufriendo algún tipo de inversión craneo-rectal? Si intentas hacer algo todos saltaríamos encima de ti
- como calentamiento. Después correría la sangre. ¿Crees que al sheriff le gustaría cómo haces tu trabajo?}
+{165}{}{Â¿EstÃ¡s sufriendo algÃºn tipo de inversiÃ³n craneo-rectal? Si intentas hacer algo todos saltarÃ­amos encima de ti
+ como calentamiento. DespuÃ©s correrÃ­a la sangre. Â¿Crees que al sheriff le gustarÃ­a cÃ³mo haces tu trabajo?}
 {166}{}{No, no lo creo.}
-{167}{}{No me importa. No será *mi* sangre la que corra.}
-{168}{}{Bien, no me vendría mal un jodido descanso. Últimamente me he estado partiendo el maldito culo trabajando. (A los
- otros). Nos abrimos, chicos. Volveré al trabajo mañana.}
-{169}{}{Buena elección.}
-{170}{}{No te preocupes; te traeré a Caminetto para que te haga compañía. ¿Verdad, Caminetto?}
-{171}{}{Joder, no intentarás hacerlo ¿Verdad? Intenta zurrarte con nosotros y ambos, yo y esa
+{167}{}{No me importa. No serÃ¡ *mi* sangre la que corra.}
+{168}{}{Bien, no me vendrÃ­a mal un jodido descanso. Ãšltimamente me he estado partiendo el maldito culo trabajando. (A los
+ otros). Nos abrimos, chicos. VolverÃ© al trabajo maÃ±ana.}
+{169}{}{Buena elecciÃ³n.}
+{170}{}{No te preocupes; te traerÃ© a Caminetto para que te haga compaÃ±Ã­a. Â¿Verdad, Caminetto?}
+{171}{}{Joder, no intentarÃ¡s hacerlo Â¿Verdad? Intenta zurrarte con nosotros y ambos, yo y esa
  comadreja rastrera de Caminetto, te vamos a dejar fuera de combate.}
-{172}{}{Entonces tendré que encarcelaros a los dos.}
-{173}{}{Entonces tendré que mataros a los dos.}
-{174}{}{Hmm, creo que me necesitan en otro sitio, y rápido. Adiós.}
-{175}{}{Creo que eres más inteligente de lo que pareces. Debes serlo; estás de pie. Corre a
- casa de mamaíta y dile que no había nada que tuvieras las pelotas de hacer.}
-{176}{}{Ya está. Ya has dicho bastante. Última oportunidad: Vete sin hacer ruido o te haré trizas.}
-{177}{}{Quizá lo haga. No quiero hacerle daño a nadie. Adiós.}
-{178}{}{Veo cómo va esto, pequeño pedazo de mierda. OK, puede que me tome, y Caminetto demasiado.
- (a Caminetto) a la Derecha, mi pequeño fuckface?}
-{179}{}{Ésto me gusta más.}
+{172}{}{Entonces tendrÃ© que encarcelaros a los dos.}
+{173}{}{Entonces tendrÃ© que mataros a los dos.}
+{174}{}{Hmm, creo que me necesitan en otro sitio, y rÃ¡pido. AdiÃ³s.}
+{175}{}{Creo que eres mÃ¡s inteligente de lo que pareces. Debes serlo; estÃ¡s de pie. Corre a
+ casa de mamaÃ­ta y dile que no habÃ­a nada que tuvieras las pelotas de hacer.}
+{176}{}{Ya estÃ¡. Ya has dicho bastante. Ãšltima oportunidad: Vete sin hacer ruido o te harÃ© trizas.}
+{177}{}{QuizÃ¡ lo haga. No quiero hacerle daÃ±o a nadie. AdiÃ³s.}
+{178}{}{Veo cÃ³mo va esto, pequeÃ±o pedazo de mierda. OK, puede que me tome, y Caminetto demasiado.
+ (a Caminetto) a la Derecha, mi pequeÃ±o fuckface?}
+{179}{}{Ã‰sto me gusta mÃ¡s.}
 {180}{}{No. Ahora es demasiado tarde. Voy a tener que dejaros como un colador a los dos.}
-{181}{}{Supongo que voy a patear culo de Caminetto otro día.}
+{181}{}{Supongo que voy a patear culo de Caminetto otro dÃ­a.}

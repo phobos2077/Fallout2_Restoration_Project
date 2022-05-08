@@ -1,9 +1,9 @@
 {100}{}{Ves a un prisionero.}
 {101}{}{Ves a un prisionero del exterior.}
-{102}{}{Bien, esta es la ˙ltima vez que me salto el toque de queda.}
-{103}{}{Otra semana y ser· hora de volver al Centro de AsignaciÛn...}
-{104}{}{Ser· mejor que sigas andando, amigo. Si nos ven hablando, ambos nos
+{102}{}{Bien, esta es la √∫ltima vez que me salto el toque de queda.}
+{103}{}{Otra semana y ser√° hora de volver al Centro de Asignaci√≥n...}
+{104}{}{Ser√° mejor que sigas andando, amigo. Si nos ven hablando, ambos nos
  meteremos en problemas.}
-{105}{}{Maldito Barkus, metiÈndome aquÌ. Cuando le ponga las manos encima...}
-{106}{}{Ojal· nunca hubiera venido a Ciudad Refugio. Ciudad "libre"... menuda broma.}
+{105}{}{Maldito Barkus, meti√©ndome aqu√≠. Cuando le ponga las manos encima...}
+{106}{}{Ojal√° nunca hubiera venido a Ciudad Refugio. Ciudad "libre"... menuda broma.}
 {107}{}{Al menos la comida no es mala.}

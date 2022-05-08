@@ -1,94 +1,94 @@
 {100}{}{Egy punk csaj.}
 {101}{}{Egy punk csaj.}
-{102}{}{Egy elég csinos, de meglehet?sen cinikus arcifejezés? n?t látsz. }
-{103}{}{Fogadjunk, hogy a barátom felajánlott már engem.}
-{104}{}{Néha teljesen kivagyok a vándorlástól.}
-{105}{}{Nem volna rossz itt élni.}
-{106}{}{Szerintem rohadt jó kis helyet tudnánk ebb?l csinálni.}
-{107}{}{Voltál már nyugat felé a tengeren?}
-{108}{}{Akár flörtölhetnénk is, de nem keltetted fel az érdekl?désemet.}
-{109}{}{::gúnyosan:: Jó sok er?s n? van itt, mi?}
-{110}{}{Azt várod, hogy hozzáddörgöl?zzem? Legyen eszed!}
-{111}{}{Nem vagyok hétköznapi! Akárcsak a többiek!}
-{112}{}{A mindent tagadó cinizmus néha nagyon untat.}
-{113}{}{Legközelebb egy grufti törzset akarok találni magamnak.}
-{114}{}{Úgy hallottam, a Shi Uralkodó minden emberi képzeletet felülmúló intelligenciával rendelkezik.}
-{115}{}{Ezek a Shi emberek elég mulatságos népség.}
-{116}{}{Nyitott a gondolkodásom, mi?}
-{117}{}{Nézd ezeket az új punkokat. Pózerek egyt?l-egyig.}
-{118}{}{BHK-9 átvert minket, és téged is át fog, ha hagyod magad.}
-{119}{}{A következ? gyökér, aki szajhának nevez rövid úton megy a levesbe.}
-{120}{}{Na, milyen volt egy mutánssal balhézni?}
-{121}{}{Bántott téged Francis, az a nagy, brutál muti?}
-{122}{}{Nem semmi, hogy azután, amit Francis tett, még tudsz járni.}
-{123}{}{Azt hittem, még mindig vérzel a Francis-szel történt affér után.}
-{124}{}{Nem hiszem el, hogy nem segítesz Chipnek.}
-{125}{}{Önz? barom! Fogadjunk, hogy Chip segített volna rajtad.}
-{126}{}{Mindenki szerette Chipet. Most senki sem szeret téged.}
-{127}{}{Jó nagy farok vagy!}
-{128}{}{Tör?dtél már magadon kívül másokkal is az életben?}
-{129}{}{Nézzétek már, itt jön a kis "h?s"!}
-{130}{}{Hé, emberek! Ez az ember egy önz? seggfej!}
-{131}{}{Már megint te vagy? Most már nem nagyon akar veled beszélni senki.}
-{132}{}{Chip-gy?löl?!}
-{133}{}{Nagy gond az a lép.}
-{134}{}{Fogadjunk, valaki megette Chip máját.}
-{135}{}{Kiváncsi vagyok, Chip valaha felépül-e.}
-{136}{}{Szerintem Chip a legkirályabb!}
-{137}{}{Chipet még lép nélkül is semmi perc alatt bevállalnám!}
-{138}{}{Köszi, hogy megpróbálod visszaszerezni Chip lépét.}
-{139}{}{Minden t?led telhet?t megtettél Chipért.}
-{140}{}{Tessék, még egy közhely Chippel kapcsolatban.}
-{141}{}{Kiváncsi vagyok, jó íze volt-e a lépnek...}
-{142}{}{Hé! Most már enyém lehet Chip a lépével együtt!}
-{143}{}{Már megyek is Chiphez!}
+{102}{}{Egy elÃ©g csinos, de meglehet?sen cinikus arcifejezÃ©s? n?t lÃ¡tsz. }
+{103}{}{Fogadjunk, hogy a barÃ¡tom felajÃ¡nlott mÃ¡r engem.}
+{104}{}{NÃ©ha teljesen kivagyok a vÃ¡ndorlÃ¡stÃ³l.}
+{105}{}{Nem volna rossz itt Ã©lni.}
+{106}{}{Szerintem rohadt jÃ³ kis helyet tudnÃ¡nk ebb?l csinÃ¡lni.}
+{107}{}{VoltÃ¡l mÃ¡r nyugat felÃ© a tengeren?}
+{108}{}{AkÃ¡r flÃ¶rtÃ¶lhetnÃ©nk is, de nem keltetted fel az Ã©rdekl?dÃ©semet.}
+{109}{}{::gÃºnyosan:: JÃ³ sok er?s n? van itt, mi?}
+{110}{}{Azt vÃ¡rod, hogy hozzÃ¡ddÃ¶rgÃ¶l?zzem? Legyen eszed!}
+{111}{}{Nem vagyok hÃ©tkÃ¶znapi! AkÃ¡rcsak a tÃ¶bbiek!}
+{112}{}{A mindent tagadÃ³ cinizmus nÃ©ha nagyon untat.}
+{113}{}{LegkÃ¶zelebb egy grufti tÃ¶rzset akarok talÃ¡lni magamnak.}
+{114}{}{Ãšgy hallottam, a Shi UralkodÃ³ minden emberi kÃ©pzeletet felÃ¼lmÃºlÃ³ intelligenciÃ¡val rendelkezik.}
+{115}{}{Ezek a Shi emberek elÃ©g mulatsÃ¡gos nÃ©psÃ©g.}
+{116}{}{Nyitott a gondolkodÃ¡som, mi?}
+{117}{}{NÃ©zd ezeket az Ãºj punkokat. PÃ³zerek egyt?l-egyig.}
+{118}{}{BHK-9 Ã¡tvert minket, Ã©s tÃ©ged is Ã¡t fog, ha hagyod magad.}
+{119}{}{A kÃ¶vetkez? gyÃ¶kÃ©r, aki szajhÃ¡nak nevez rÃ¶vid Ãºton megy a levesbe.}
+{120}{}{Na, milyen volt egy mutÃ¡nssal balhÃ©zni?}
+{121}{}{BÃ¡ntott tÃ©ged Francis, az a nagy, brutÃ¡l muti?}
+{122}{}{Nem semmi, hogy azutÃ¡n, amit Francis tett, mÃ©g tudsz jÃ¡rni.}
+{123}{}{Azt hittem, mÃ©g mindig vÃ©rzel a Francis-szel tÃ¶rtÃ©nt affÃ©r utÃ¡n.}
+{124}{}{Nem hiszem el, hogy nem segÃ­tesz Chipnek.}
+{125}{}{Ã–nz? barom! Fogadjunk, hogy Chip segÃ­tett volna rajtad.}
+{126}{}{Mindenki szerette Chipet. Most senki sem szeret tÃ©ged.}
+{127}{}{JÃ³ nagy farok vagy!}
+{128}{}{TÃ¶r?dtÃ©l mÃ¡r magadon kÃ­vÃ¼l mÃ¡sokkal is az Ã©letben?}
+{129}{}{NÃ©zzÃ©tek mÃ¡r, itt jÃ¶n a kis "h?s"!}
+{130}{}{HÃ©, emberek! Ez az ember egy Ã¶nz? seggfej!}
+{131}{}{MÃ¡r megint te vagy? Most mÃ¡r nem nagyon akar veled beszÃ©lni senki.}
+{132}{}{Chip-gy?lÃ¶l?!}
+{133}{}{Nagy gond az a lÃ©p.}
+{134}{}{Fogadjunk, valaki megette Chip mÃ¡jÃ¡t.}
+{135}{}{KivÃ¡ncsi vagyok, Chip valaha felÃ©pÃ¼l-e.}
+{136}{}{Szerintem Chip a legkirÃ¡lyabb!}
+{137}{}{Chipet mÃ©g lÃ©p nÃ©lkÃ¼l is semmi perc alatt bevÃ¡llalnÃ¡m!}
+{138}{}{KÃ¶szi, hogy megprÃ³bÃ¡lod visszaszerezni Chip lÃ©pÃ©t.}
+{139}{}{Minden t?led telhet?t megtettÃ©l ChipÃ©rt.}
+{140}{}{TessÃ©k, mÃ©g egy kÃ¶zhely Chippel kapcsolatban.}
+{141}{}{KivÃ¡ncsi vagyok, jÃ³ Ã­ze volt-e a lÃ©pnek...}
+{142}{}{HÃ©! Most mÃ¡r enyÃ©m lehet Chip a lÃ©pÃ©vel egyÃ¼tt!}
+{143}{}{MÃ¡r megyek is Chiphez!}
 {144}{}{Chip a legjobb!}
-{145}{}{Tetszel nekem. Jó ember vagy.}
+{145}{}{Tetszel nekem. JÃ³ ember vagy.}
 {146}{}{Boldog vagyok Chip miatt.}
-{147}{}{Chip végre megint teljes érték? férfi.}
-{148}{}{Nem akarsz eltölteni egy kellemes estét Chippel meg velem?}
-{149}{}{Jó, hogy Chip lépével minden rendben van.}
-{150}{}{Milyen önzetlen ember vagy!}
-{151}{}{Suze visszajött! Király!}
-{152}{}{Suze visszajött... a francba!}
-{153}{}{Suze mindig is bejött nekem.}
+{147}{}{Chip vÃ©gre megint teljes Ã©rtÃ©k? fÃ©rfi.}
+{148}{}{Nem akarsz eltÃ¶lteni egy kellemes estÃ©t Chippel meg velem?}
+{149}{}{JÃ³, hogy Chip lÃ©pÃ©vel minden rendben van.}
+{150}{}{Milyen Ã¶nzetlen ember vagy!}
+{151}{}{Suze visszajÃ¶tt! KirÃ¡ly!}
+{152}{}{Suze visszajÃ¶tt... a francba!}
+{153}{}{Suze mindig is bejÃ¶tt nekem.}
 {154}{}{Szeretem Suze-t.}
-{155}{}{Köszönöm, hogy megmentetted a lányt.}
-{156}{}{Egyes embereknek tanulnia kéne, nem világot járnia.}
+{155}{}{KÃ¶szÃ¶nÃ¶m, hogy megmentetted a lÃ¡nyt.}
+{156}{}{Egyes embereknek tanulnia kÃ©ne, nem vilÃ¡got jÃ¡rnia.}
 {157}{}{Ki tudja?}
-{158}{}{Szegény Borz. Lehet, hogy most elkelne neki egy kis vigasz.}
+{158}{}{SzegÃ©ny Borz. Lehet, hogy most elkelne neki egy kis vigasz.}
 {159}{}{Biztosnak kell lennem, hogy Borzzal minden rendben van.}
-{160}{}{Borz csini srác, de nem a herceg fehér lovon.}
-{161}{}{Nem értem, hogy a Borz, miért fingik meg büfög olyan sokat.}
-{162}{}{A Borz biztos a szomorúságtól fingik olyan sokat.}
-{163}{}{Szegény Borz.}
-{164}{}{Kemény egy világ jutott nekünk.}
-{165}{}{Suze-nak jobban kellett volna vigyáznia.}
-{166}{}{Ha elviszed a hajót, nekünk el kéne hagynunk el?tte.}
-{167}{}{Sajnálom, hogy ilyen állapotban van ez a hajó.}
-{168}{}{Szóval fogod a hajót, és mész?}
-{169}{}{A POT Valdez jó kis hajó... jó benne lakni.}
+{160}{}{Borz csini srÃ¡c, de nem a herceg fehÃ©r lovon.}
+{161}{}{Nem Ã©rtem, hogy a Borz, miÃ©rt fingik meg bÃ¼fÃ¶g olyan sokat.}
+{162}{}{A Borz biztos a szomorÃºsÃ¡gtÃ³l fingik olyan sokat.}
+{163}{}{SzegÃ©ny Borz.}
+{164}{}{KemÃ©ny egy vilÃ¡g jutott nekÃ¼nk.}
+{165}{}{Suze-nak jobban kellett volna vigyÃ¡znia.}
+{166}{}{Ha elviszed a hajÃ³t, nekÃ¼nk el kÃ©ne hagynunk el?tte.}
+{167}{}{SajnÃ¡lom, hogy ilyen Ã¡llapotban van ez a hajÃ³.}
+{168}{}{SzÃ³val fogod a hajÃ³t, Ã©s mÃ©sz?}
+{169}{}{A POT Valdez jÃ³ kis hajÃ³... jÃ³ benne lakni.}
 {170}{}{Asszem, jobb, ha csomagolok.}
-{171}{}{Remélem, örömöd leled majd a hajóban.}
-{172}{}{Legyen szerencséd, hogy megtaláld a néped!}
+{171}{}{RemÃ©lem, Ã¶rÃ¶mÃ¶d leled majd a hajÃ³ban.}
+{172}{}{Legyen szerencsÃ©d, hogy megtalÃ¡ld a nÃ©ped!}
 {173}{}{Asszem, most megyek.}
-{174}{}{Remélem, találunk egy másik lakóhelyet.}
-{175}{}{Szegény Borz. Egész csini volt.}
-{176}{}{Ki akarná megölni a Borzot?}
-{177}{}{A Borznak furi szaga volt, de azért kedveltem.}
-{178}{}{Azt hallottam, a Borz meleg volt, erre kiderül, hogy volt barátn?je.}
-{179}{}{Mindig úgy gondoltam, hogy a Borz eléggé er?szakos pasas, persze a maga elfogadható módján.}
+{174}{}{RemÃ©lem, talÃ¡lunk egy mÃ¡sik lakÃ³helyet.}
+{175}{}{SzegÃ©ny Borz. EgÃ©sz csini volt.}
+{176}{}{Ki akarnÃ¡ megÃ¶lni a Borzot?}
+{177}{}{A Borznak furi szaga volt, de azÃ©rt kedveltem.}
+{178}{}{Azt hallottam, a Borz meleg volt, erre kiderÃ¼l, hogy volt barÃ¡tn?je.}
+{179}{}{Mindig Ãºgy gondoltam, hogy a Borz elÃ©ggÃ© er?szakos pasas, persze a maga elfogadhatÃ³ mÃ³djÃ¡n.}
 {180}{}{Fogadjunk, hogy a Borz most mindenkinek eldicsekszik ezzel.}
 {181}{}{Borz... ::szipog::}
-{182}{}{A Borz olyan volt, mint egy herceg fehér lovon.}
-{183}{}{Te seggfej. Miért ölted meg ?t?}
-{184}{}{Szerinted most csatlakozni fogunk a Hubologistákhoz?}
-{185}{}{Te egy hülye, nagyon-nagyon hülye marionett bábu vagy.}
-{186}{}{A Hubologisták téged is át fognak verni.}
-{187}{}{Menj a picsába! Menj a picsába, és dögölj meg ott ahol vagy!}
-{188}{}{Gy?löllek!}
-{189}{}{Pöcs!}
+{182}{}{A Borz olyan volt, mint egy herceg fehÃ©r lovon.}
+{183}{}{Te seggfej. MiÃ©rt Ã¶lted meg ?t?}
+{184}{}{Szerinted most csatlakozni fogunk a HubologistÃ¡khoz?}
+{185}{}{Te egy hÃ¼lye, nagyon-nagyon hÃ¼lye marionett bÃ¡bu vagy.}
+{186}{}{A HubologistÃ¡k tÃ©ged is Ã¡t fognak verni.}
+{187}{}{Menj a picsÃ¡ba! Menj a picsÃ¡ba, Ã©s dÃ¶gÃ¶lj meg ott ahol vagy!}
+{188}{}{Gy?lÃ¶llek!}
+{189}{}{PÃ¶cs!}
 {190}{}{Birka vagy, beee!}
-{191}{}{Idióta szektás!}
-{192}{}{Asszem, vannak emberek, akik egyszer?en hülyének születnek.}
-{193}{}{Hé! Itt van az a hülyegyerek, aki nem tud magától gondolkozni!}
+{191}{}{IdiÃ³ta szektÃ¡s!}
+{192}{}{Asszem, vannak emberek, akik egyszer?en hÃ¼lyÃ©nek szÃ¼letnek.}
+{193}{}{HÃ©! Itt van az a hÃ¼lyegyerek, aki nem tud magÃ¡tÃ³l gondolkozni!}

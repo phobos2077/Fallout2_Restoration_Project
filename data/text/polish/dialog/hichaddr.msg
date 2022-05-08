@@ -1,7 +1,7 @@
 {100}{}{Widzisz drewniane drzwi.}
-{101}{}{Te drzwi zrobione s¹ z solidnego drewna. Wygl¹da, ¿e maj¹ nowy system zamykania.}
-{102}{}{Te drzwi s¹ trwale zamkniête.}
-{103}{}{U¿ywaj¹c metody poznanej od Maxa, ostro¿nie blokujesz mechanizm zatrzasku, a potem zrêcznie otwierasz zamek.}
-{104}{}{Coœ jest nie tak z tym zamkiem. Lepiej go zostawiæ w spokoju.}
-{105}{}{W³aœnie zabierasz siê za otwieranie tego zamka kiedy zauwa¿asz ma³y mechanizm blokady zamka. Je¿eli go uruchomisz nigdy nie otworzysz tego zamka. Zrêcznie usuwasz blokadê, a nastêpnie w kilka zaledwie sekund otwierasz drzwi.}
-{106}{}{Drzwi nie zosta³y nawet zarysowane.}
+{101}{}{Te drzwi zrobione sÄ… z solidnego drewna. WyglÄ…da, Å¼e majÄ… nowy system zamykania.}
+{102}{}{Te drzwi sÄ… trwale zamkniÄ™te.}
+{103}{}{UÅ¼ywajÄ…c metody poznanej od Maxa, ostroÅ¼nie blokujesz mechanizm zatrzasku, a potem zrÄ™cznie otwierasz zamek.}
+{104}{}{CoÅ› jest nie tak z tym zamkiem. Lepiej go zostawiÄ‡ w spokoju.}
+{105}{}{WÅ‚aÅ›nie zabierasz siÄ™ za otwieranie tego zamka kiedy zauwaÅ¼asz maÅ‚y mechanizm blokady zamka. JeÅ¼eli go uruchomisz nigdy nie otworzysz tego zamka. ZrÄ™cznie usuwasz blokadÄ™, a nastÄ™pnie w kilka zaledwie sekund otwierasz drzwi.}
+{106}{}{Drzwi nie zostaÅ‚y nawet zarysowane.}

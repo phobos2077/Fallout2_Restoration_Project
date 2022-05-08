@@ -1,9 +1,9 @@
-{100}{}{Tu vois un système à ouverture sans clé. Il y a écrit : "Utiliser le passe électronique du pétrolier ici".}
-{101}{}{Tu vois un système à ouverture sans clé. Il y a écrit : "Utiliser le passe électronique du pétrolier ici".}
-{102}{}{Cette console est dotée d'une plaque noire surplombée d'une lumière rouge. Sur un panneau, il y a écrit : "Utiliser le passe électronique du pétrolier ici".}
-{103}{}{Cette console est dotée d'une plaque noire surplombée d'une lumière verte. Sur un panneau, il y a écrit : "Utiliser le passe électronique du pétrolier ici".}
-{104}{}{<Clic> La lumière du panneau noir devient verte.}
-{105}{}{<Clic> La lumière du panneau noir devient rouge.}
+{100}{}{Tu vois un systÃ¨me Ã  ouverture sans clÃ©. Il y a Ã©crit : "Utiliser le passe Ã©lectronique du pÃ©trolier ici".}
+{101}{}{Tu vois un systÃ¨me Ã  ouverture sans clÃ©. Il y a Ã©crit : "Utiliser le passe Ã©lectronique du pÃ©trolier ici".}
+{102}{}{Cette console est dotÃ©e d'une plaque noire surplombÃ©e d'une lumiÃ¨re rouge. Sur un panneau, il y a Ã©crit : "Utiliser le passe Ã©lectronique du pÃ©trolier ici".}
+{103}{}{Cette console est dotÃ©e d'une plaque noire surplombÃ©e d'une lumiÃ¨re verte. Sur un panneau, il y a Ã©crit : "Utiliser le passe Ã©lectronique du pÃ©trolier ici".}
+{104}{}{<Clic> La lumiÃ¨re du panneau noir devient verte.}
+{105}{}{<Clic> La lumiÃ¨re du panneau noir devient rouge.}
 {106}{}{Il ne se passe rien.}
 {107}{}{Ca ne fonctionne pas.}
-{108}{}{Il s'agit d'un système de porte sans clé télécommandée. Ce genre de système nécessite généralement une espèce de clé magnétique.}
+{108}{}{Il s'agit d'un systÃ¨me de porte sans clÃ© tÃ©lÃ©commandÃ©e. Ce genre de systÃ¨me nÃ©cessite gÃ©nÃ©ralement une espÃ¨ce de clÃ© magnÃ©tique.}

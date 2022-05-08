@@ -1,7 +1,7 @@
 {100}{}{You see a man dressed in standard military combat armor.}
 {101}{}{He looks healthy, but seems quite disoriented.}
 {102}{}{Oh, my head.}
-{103}{}{Quem é você?}
+{103}{}{Quem Ã© vocÃª?}
 {104}{}{Ug!}
 {105}{}{I-I'm Dobbs... Private, First Class.}
 {106}{}{Can you tell me how you got here?}

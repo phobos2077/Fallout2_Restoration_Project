@@ -1,27 +1,27 @@
-{100}{}{Chet-et, a Csalás Hivatal vezet?jét látod.}
-{101}{}{Egy cinikus mosolyú férfit látsz a 13-as Menedék egyenruhájában.}
-{102}{}{Chet-et, a Csalás Hivatal vezet?jét látod.}
-{103}{}{Egy cinikus mosolyú férfit látsz a 13-as Menedék egyenruhájában.}
-{104}{}{Hé, haver ... ! Én vagyok a Csalás Hivatal vezet?je ... de hívj csak Chet-nek!  Kell valami?}
-{105}{}{Még valamit?}
-{106}{}{Tedd ki a game over-t, Chet! Én már végeztem.}
-{107}{}{Nevezz ki az ?rség Kapitányává!}
-{108}{}{Csinálj bel?lem igazi Polgárt!}
-{109}{}{Adj nekem hamis Polgári papírokat!}
-{110}{}{Csinálj bel?lem kirúgott Polgárt!}
-{111}{}{Változtass a hírnevemen!}
-{112}{}{Nem megy. Szükségem van egy segít?re.}
-{113}{}{Semmi, nem érdekes.}
+{100}{}{Chet-et, a CsalÃ¡s Hivatal vezet?jÃ©t lÃ¡tod.}
+{101}{}{Egy cinikus mosolyÃº fÃ©rfit lÃ¡tsz a 13-as MenedÃ©k egyenruhÃ¡jÃ¡ban.}
+{102}{}{Chet-et, a CsalÃ¡s Hivatal vezet?jÃ©t lÃ¡tod.}
+{103}{}{Egy cinikus mosolyÃº fÃ©rfit lÃ¡tsz a 13-as MenedÃ©k egyenruhÃ¡jÃ¡ban.}
+{104}{}{HÃ©, haver ... ! Ã‰n vagyok a CsalÃ¡s Hivatal vezet?je ... de hÃ­vj csak Chet-nek!  Kell valami?}
+{105}{}{MÃ©g valamit?}
+{106}{}{Tedd ki a game over-t, Chet! Ã‰n mÃ¡r vÃ©geztem.}
+{107}{}{Nevezz ki az ?rsÃ©g KapitÃ¡nyÃ¡vÃ¡!}
+{108}{}{CsinÃ¡lj bel?lem igazi PolgÃ¡rt!}
+{109}{}{Adj nekem hamis PolgÃ¡ri papÃ­rokat!}
+{110}{}{CsinÃ¡lj bel?lem kirÃºgott PolgÃ¡rt!}
+{111}{}{VÃ¡ltoztass a hÃ­rnevemen!}
+{112}{}{Nem megy. SzÃ¼ksÃ©gem van egy segÃ­t?re.}
+{113}{}{Semmi, nem Ã©rdekes.}
 {114}{}{Minek?}
-{115}{}{Tegyél szolgává!}
-{116}{}{Tegyél gyerekgyilkossá.}
-{117}{}{Semmit ... csak vedd vissza a karmámat egy 100-assal.}
-{118}{}{Inkább kérdeznék valamit.}
-{119}{}{Semmi, nem érdekes.}
+{115}{}{TegyÃ©l szolgÃ¡vÃ¡!}
+{116}{}{TegyÃ©l gyerekgyilkossÃ¡.}
+{117}{}{Semmit ... csak vedd vissza a karmÃ¡mat egy 100-assal.}
+{118}{}{InkÃ¡bb kÃ©rdeznÃ©k valamit.}
+{119}{}{Semmi, nem Ã©rdekes.}
 {120}{}{Ki?}
 {121}{}{Marcust.}
 {122}{}{Lennyt.}
 {123}{}{Vicet.}
 {124}{}{Myront.}
-{125}{}{Senki. Másra van szükségem.}
-{126}{}{Felejtsük el! Viszlát.}
+{125}{}{Senki. MÃ¡sra van szÃ¼ksÃ©gem.}
+{126}{}{FelejtsÃ¼k el! ViszlÃ¡t.}

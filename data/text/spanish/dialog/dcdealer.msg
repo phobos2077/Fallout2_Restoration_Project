@@ -2,9 +2,9 @@
 {101}{}{Ves a un traficante de drogas.}
 {102}{}{Si buscas negociar, tengo las cosas.}
 {103}{}{Claro, muestrame.}
-{104}{}{Quizá en algún otro momento.}
-{105}{}{¿Encontraste lo qué necesitas?}
-{106}{}{Gracias. Adiós.}
-{200}{}{Ves a un matón.}
-{201}{}{Ves a un matón.}
-{202}{}{Estoy aquí por protección. Habla con el distribuidor si quieres comprar.}
+{104}{}{QuizÃ¡ en algÃºn otro momento.}
+{105}{}{Â¿Encontraste lo quÃ© necesitas?}
+{106}{}{Gracias. AdiÃ³s.}
+{200}{}{Ves a un matÃ³n.}
+{201}{}{Ves a un matÃ³n.}
+{202}{}{Estoy aquÃ­ por protecciÃ³n. Habla con el distribuidor si quieres comprar.}

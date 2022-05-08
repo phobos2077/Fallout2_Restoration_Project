@@ -1,72 +1,72 @@
-{100}{}{Widzisz osowia³¹ osobê w kombinezonie Krypty.}
-{101}{}{Widzisz wiêznia z Krypty 13.}
-{102}{}{Widzisz bardzo blad¹ osobê nasz¹c¹ kombinezon Krypty.}
-{103}{}{Widzisz cz³onka twojego plemienia.}
-{104}{}{Widzisz wspó³plemieñca.}
-{105}{}{Widzisz cz³onka twojego plemienia, który nie wygl¹da zbyt dobrze.}
-{106}{}{To miejsce jest zbyt zardzewia³e, aby byæ Krypt¹.}
-{107}{}{Chyba s³yszê ocean. }
-{108}{}{Czy Martin Frobisher rozmawia³ z tob¹?}
+{100}{}{Widzisz osowiaÅ‚Ä… osobÄ™ w kombinezonie Krypty.}
+{101}{}{Widzisz wiÄ™znia z Krypty 13.}
+{102}{}{Widzisz bardzo bladÄ… osobÄ™ naszÄ…cÄ… kombinezon Krypty.}
+{103}{}{Widzisz czÅ‚onka twojego plemienia.}
+{104}{}{Widzisz wspÃ³Å‚plemieÅ„ca.}
+{105}{}{Widzisz czÅ‚onka twojego plemienia, ktÃ³ry nie wyglÄ…da zbyt dobrze.}
+{106}{}{To miejsce jest zbyt zardzewiaÅ‚e, aby byÄ‡ KryptÄ….}
+{107}{}{Chyba sÅ‚yszÄ™ ocean. }
+{108}{}{Czy Martin Frobisher rozmawiaÅ‚ z tobÄ…?}
 {109}{}{Porozmawiaj lepiej z Martinem.}
 {110}{}{Martin to nasz przedstawiciel, porozmawiaj z nim.}
 {111}{}{Pan Frobisher jest w pierwszej celi.}
-{112}{}{Nie maj¹ tu nawet ¿adnych taœm rozrywkowych.}
-{113}{}{¯¹dam mo¿liwoœci porozmawiania z kimœ o jakoœci po¿ywienia.}
-{114}{}{Œwietnie, teraz strasz¹ nas jakimiœ dziwnymi dzikusami.}
-{115}{}{Uda³o ci siê uciec?}
-{116}{}{Jak ci siê uda³o wydostaæ?}
+{112}{}{Nie majÄ… tu nawet Å¼adnych taÅ›m rozrywkowych.}
+{113}{}{Å»Ä…dam moÅ¼liwoÅ›ci porozmawiania z kimÅ› o jakoÅ›ci poÅ¼ywienia.}
+{114}{}{Åšwietnie, teraz straszÄ… nas jakimiÅ› dziwnymi dzikusami.}
+{115}{}{UdaÅ‚o ci siÄ™ uciec?}
+{116}{}{Jak ci siÄ™ udaÅ‚o wydostaÄ‡?}
 {117}{}{Brzmisz jak Dziecko Przeznaczenia.}
-{118}{}{Czy jesteœ... czy jesteœ Dzieckiem Przeznaczenia?}
-{119}{}{Porozmawiaj lepiej ze Starsz¹.}
-{120}{}{Starsza powiedzia³a, ¿e nas uratujesz!}
-{121}{}{Czy Starsza rozmawia³a ju¿ z tob¹?}
-{122}{}{Starsza jest w pierwszej celi. Porozmawiaj z ni¹.}
-{123}{}{Porozmawiaj ze Starsz¹.}
+{118}{}{Czy jesteÅ›... czy jesteÅ› Dzieckiem Przeznaczenia?}
+{119}{}{Porozmawiaj lepiej ze StarszÄ….}
+{120}{}{Starsza powiedziaÅ‚a, Å¼e nas uratujesz!}
+{121}{}{Czy Starsza rozmawiaÅ‚a juÅ¼ z tobÄ…?}
+{122}{}{Starsza jest w pierwszej celi. Porozmawiaj z niÄ….}
+{123}{}{Porozmawiaj ze StarszÄ….}
 {124}{}{Uwolnij nas!}
-{125}{}{Wydostañ nas st¹d.}
-{126}{}{Nie mogê ju¿ wytrzymaæ tych œcian dooko³a.}
-{127}{}{Po prostu wyjê, aby poczuæ znowu wiatr na twarzy.}
+{125}{}{WydostaÅ„ nas stÄ…d.}
+{126}{}{Nie mogÄ™ juÅ¼ wytrzymaÄ‡ tych Å›cian dookoÅ‚a.}
+{127}{}{Po prostu wyjÄ™, aby poczuÄ‡ znowu wiatr na twarzy.}
 {128}{}{Uwolnij nas, Dziecko Przeznaczenia!}
 {129}{}{Dziecko Przeznaczenia jest tutaj!}
 {130}{}{Uwolnij nas!}
-{131}{}{Zrób to, co poleci³a ci Starsza.}
-{132}{}{Wydostañ nas st¹d, zanim z³e duchy znowu powróc¹!}
-{133}{}{Proszê, pomó¿ nam, Dziecko Przeznaczenia.}
-{134}{}{Dziêki bogom, Dziecko Przeznaczenia nareszcie przyby³o.}
-{135}{}{Pomó¿ nam, }
+{131}{}{ZrÃ³b to, co poleciÅ‚a ci Starsza.}
+{132}{}{WydostaÅ„ nas stÄ…d, zanim zÅ‚e duchy znowu powrÃ³cÄ…!}
+{133}{}{ProszÄ™, pomÃ³Å¼ nam, Dziecko Przeznaczenia.}
+{134}{}{DziÄ™ki bogom, Dziecko Przeznaczenia nareszcie przybyÅ‚o.}
+{135}{}{PomÃ³Å¼ nam, }
 {136}{}{Uwolnij nas, }
-{137}{}{Jesteœ tu, }
-{138}{}{Wiesz co robiæ, wiêc zrób to!}
-{139}{}{IdŸ ju¿!}
-{140}{}{Wydostañ nas st¹d.}
+{137}{}{JesteÅ› tu, }
+{138}{}{Wiesz co robiÄ‡, wiÄ™c zrÃ³b to!}
+{139}{}{IdÅº juÅ¼!}
+{140}{}{WydostaÅ„ nas stÄ…d.}
 {141}{}{Odetnij zasilanie!}
 {142}{}{Uwolnij nas.}
-{143}{}{IdŸ, zabierz nas st¹d!}
-{144}{}{Proszê pomó¿ nam!}
-{145}{}{Jesteœ nasz¹ jedyn¹ nadziej¹!}
-{146}{}{Proszê, ju¿ d³u¿ej tego nie wytrzymam.}
-{147}{}{Nie chcê ju¿ wiêcej leków. Nie, nie. Nieeeeeeee!}
-{148}{}{Niech nas duchy broni¹!}
-{149}{}{Gdzie¿ s¹ duchy, gdy ich potrzebujesz?}
-{150}{}{Pomó¿ nam!}
+{143}{}{IdÅº, zabierz nas stÄ…d!}
+{144}{}{ProszÄ™ pomÃ³Å¼ nam!}
+{145}{}{JesteÅ› naszÄ… jedynÄ… nadziejÄ…!}
+{146}{}{ProszÄ™, juÅ¼ dÅ‚uÅ¼ej tego nie wytrzymam.}
+{147}{}{Nie chcÄ™ juÅ¼ wiÄ™cej lekÃ³w. Nie, nie. Nieeeeeeee!}
+{148}{}{Niech nas duchy broniÄ…!}
+{149}{}{GdzieÅ¼ sÄ… duchy, gdy ich potrzebujesz?}
+{150}{}{PomÃ³Å¼ nam!}
 {151}{}{Uwolnij nas!}
-{152}{}{Chcê do domu.}
+{152}{}{ChcÄ™ do domu.}
 {153}{}{Najpierw susza, a teraz to.}
-{154}{}{Tylko nie ig³y, nie ig³y!}
-{155}{}{Nie mogê ju¿! Œciany chc¹ mnie zgnieœæ!}
+{154}{}{Tylko nie igÅ‚y, nie igÅ‚y!}
+{155}{}{Nie mogÄ™ juÅ¼! Åšciany chcÄ… mnie zgnieÅ›Ä‡!}
 {156}{}{(Szlocha)}
-{157}{}{Wypuœæ moich ludzi!}
-{158}{}{Starsza, prowadŸ nas.}
-{159}{}{Jak obraziliœmy te z³e duchy?}
+{157}{}{WypuÅ›Ä‡ moich ludzi!}
+{158}{}{Starsza, prowadÅº nas.}
+{159}{}{Jak obraziliÅ›my te zÅ‚e duchy?}
 {160}{}{Nie dbam o to bardzo.}
 {161}{}{Gdzie jest Martin?}
 {162}{}{To mimo wszystko nie jest Krypta.}
-{163}{}{Zabierz nas st¹d!}
+{163}{}{Zabierz nas stÄ…d!}
 {164}{}{Halo? Halo!}
 {165}{}{Nalegam na moje uwolnienie.}
-{166}{}{Jestem obywatelem Stanów Zjednoczonych i ¿¹dam widzenia siê z tym, kto tu dowodzi.}
-{167}{}{Wypuœcie mnie.}
+{166}{}{Jestem obywatelem StanÃ³w Zjednoczonych i Å¼Ä…dam widzenia siÄ™ z tym, kto tu dowodzi.}
+{167}{}{WypuÅ›cie mnie.}
 {168}{}{To takie nudne.}
-{169}{}{¯adnych leków. Ju¿ nie wytrzymam.}
-{170}{}{Nie mog¹ nas tu trzymaæ wiecznie.}
-{171}{}{Czy wojna siê nie skoñczy³a?}
+{169}{}{Å»adnych lekÃ³w. JuÅ¼ nie wytrzymam.}
+{170}{}{Nie mogÄ… nas tu trzymaÄ‡ wiecznie.}
+{171}{}{Czy wojna siÄ™ nie skoÅ„czyÅ‚a?}

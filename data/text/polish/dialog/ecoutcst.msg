@@ -1,7 +1,7 @@
 {100}{}{Nie uciekaj.}
-{101}{}{Jesteœmy przyjació³mi.}
+{101}{}{JesteÅ›my przyjaciÃ³Å‚mi.}
 {102}{}{Nie atakuj.}
-{103}{}{Naiwnoœæ.}
+{103}{}{NaiwnoÅ›Ä‡.}
 {104}{}{Zostaw nas!}
 {105}{}{Nieczysty!}
-{106}{}{OdejdŸ!}
+{106}{}{OdejdÅº!}

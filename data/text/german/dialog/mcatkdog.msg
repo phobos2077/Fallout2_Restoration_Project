@@ -7,8 +7,8 @@
 {202}{}{:: WUFF ::}
 {205}{}{Wau}
 {206}{}{WAU WAU}
-{210}{}{Die Hunde scheinen darauf abgerichtet zu sein, den Inhalt der Hütte zu schützen.}
+{210}{}{Die Hunde scheinen darauf abgerichtet zu sein, den Inhalt der HÃ¼tte zu schÃ¼tzen.}
 {211}{}{Hundchen mag mich nicht.}
 {212}{}{Guter Hund!}
-{250}{}{Dieser Hund sieht so aus, als könnte er dich wirklich in Stücke reißen, wenn er wollte.}
-{300}{}{Du tötest alle Hunde, die die Brahmin angegriffen haben.}
+{250}{}{Dieser Hund sieht so aus, als kÃ¶nnte er dich wirklich in StÃ¼cke reiÃŸen, wenn er wollte.}
+{300}{}{Du tÃ¶test alle Hunde, die die Brahmin angegriffen haben.}

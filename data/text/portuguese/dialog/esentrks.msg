@@ -1,2 +1,2 @@
-{100}{}{A colocação do explosivo não era alta o suficiente para afundar o desmoronamento. Possivelmente
-  Há um caminho melhor.}
+{100}{}{A colocaÃ§Ã£o do explosivo nÃ£o era alta o suficiente para afundar o desmoronamento. Possivelmente
+Â  HÃ¡ um caminho melhor.}

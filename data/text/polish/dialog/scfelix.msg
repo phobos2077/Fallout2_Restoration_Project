@@ -1,49 +1,49 @@
-{100}{}{Widzisz mê¿czyznê ubranego w skórê i z du¿¹ spluw¹ w garœci.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ ubranego w skÃ³rÄ™ i z duÅ¼Ä… spluwÄ… w garÅ›ci.}
 {101}{}{To Felix, kierownik farmy.}
-{102}{}{Wygl¹da na twardszego, zimniejszego goœcia ni¿ ca³a reszta w okolicy.}
-{103}{}{Co mogê dla ciebie zrobiæ, wêdrowcze?}
+{102}{}{WyglÄ…da na twardszego, zimniejszego goÅ›cia niÅ¼ caÅ‚a reszta w okolicy.}
+{103}{}{Co mogÄ™ dla ciebie zrobiÄ‡, wÄ™drowcze?}
 {104}{}{Znowu ty?}
 {105}{}{Ny.}
-{106}{}{Szeryf powiedzia³, ¿eby siê tu zg³osiæ - powiedzia³, ¿e pan Westin mo¿e mieæ dla mnie pracê.}
-{107}{}{Jestem tu, ¿eby zobaczyæ siê z szefem.}
+{106}{}{Szeryf powiedziaÅ‚, Å¼eby siÄ™ tu zgÅ‚osiÄ‡ - powiedziaÅ‚, Å¼e pan Westin moÅ¼e mieÄ‡ dla mnie pracÄ™.}
+{107}{}{Jestem tu, Å¼eby zobaczyÄ‡ siÄ™ z szefem.}
 {108}{}{Szukam pracy.}
 {109}{}{Szukam Krypty 13.}
-{110}{}{Tak siê tylko rozgl¹dam.}
-{111}{}{Super, nastêpny debil. Pewnie chcesz gadaæ z szefem?}
+{110}{}{Tak siÄ™ tylko rozglÄ…dam.}
+{111}{}{Super, nastÄ™pny debil. Pewnie chcesz gadaÄ‡ z szefem?}
 {112}{}{Yhy.}
 {113}{}{Neee.}
-{114}{}{Dobra. WchodŸ}
-{115}{}{Jest ju¿ póŸno. PrzyjdŸ rano.}
-{116}{}{No to wynocha st¹d.}
-{117}{}{Dumont, co? To mi wystarczy. Pan Westin jest w œrodku.}
-{118}{}{Fajnie, ale pan Westin nie przyjmuje tak sobie ka¿dego. Masz jakiœ powód?}
+{114}{}{Dobra. WchodÅº}
+{115}{}{Jest juÅ¼ pÃ³Åºno. PrzyjdÅº rano.}
+{116}{}{No to wynocha stÄ…d.}
+{117}{}{Dumont, co? To mi wystarczy. Pan Westin jest w Å›rodku.}
+{118}{}{Fajnie, ale pan Westin nie przyjmuje tak sobie kaÅ¼dego. Masz jakiÅ› powÃ³d?}
 {119}{}{Szukam Krypty 13.}
-{120}{}{A co byœ powiedzia³ na to, ¿e Bishop z Nowego Reno przys³a³ mnie, ¿eby go zabiæ?}
+{120}{}{A co byÅ› powiedziaÅ‚ na to, Å¼e Bishop z Nowego Reno przysÅ‚aÅ‚ mnie, Å¼eby go zabiÄ‡?}
 {121}{}{Ee, nie.}
-{122}{}{Ha! Kolejny pomyleniec. IdŸ pogadaæ z Peklowanym Bobem. Z pewnoœci¹ doskonale siê zrozumiecie.}
+{122}{}{Ha! Kolejny pomyleniec. IdÅº pogadaÄ‡ z Peklowanym Bobem. Z pewnoÅ›ciÄ… doskonale siÄ™ zrozumiecie.}
 {123}{}{Kim?}
-{124}{}{Idê st¹d.}
-{125}{}{Peklowany Bob - tam, w stajniach. Pan Westin pozwala mu tam byæ. A teraz przestañ traciæ mój czas.}
-{126}{}{Och, dziêki.}
-{127}{}{Wiêc chyba musimy ciê zabiæ.}
-{128}{}{Ju¿ po spotkaniu?}
+{124}{}{IdÄ™ stÄ…d.}
+{125}{}{Peklowany Bob - tam, w stajniach. Pan Westin pozwala mu tam byÄ‡. A teraz przestaÅ„ traciÄ‡ mÃ³j czas.}
+{126}{}{Och, dziÄ™ki.}
+{127}{}{WiÄ™c chyba musimy ciÄ™ zabiÄ‡.}
+{128}{}{JuÅ¼ po spotkaniu?}
 {129}{}{Westin. Praca. Moja}
-{130}{}{Ja iœæ.}
-{131}{}{Dobra, chcê daæ ci pracê. Mam dla ciebie robotê. Ktoœ, lub coœ, zabijaæ mu-mu. Ty iœæ z moja. Ty pilnowaæ. Pilnowaæ mu-mu bezpieczne. Zadowoliæ szefa. Ok?}
-{132}{}{W porz¹dku.}
-{133}{}{Nie. Moja nie zabijaæ.}
-{134}{}{Ju¿ jesteœ? Robota zrobiona?}
+{130}{}{Ja iÅ›Ä‡.}
+{131}{}{Dobra, chcÄ™ daÄ‡ ci pracÄ™. Mam dla ciebie robotÄ™. KtoÅ›, lub coÅ›, zabijaÄ‡ mu-mu. Ty iÅ›Ä‡ z moja. Ty pilnowaÄ‡. PilnowaÄ‡ mu-mu bezpieczne. ZadowoliÄ‡ szefa. Ok?}
+{132}{}{W porzÄ…dku.}
+{133}{}{Nie. Moja nie zabijaÄ‡.}
+{134}{}{JuÅ¼ jesteÅ›? Robota zrobiona?}
 {135}{}{Tak.}
 {136}{}{Nie.}
-{137}{}{Tak, zostawi³ rozkazy. Oczekiwa³ ciebie.}
-{138}{}{EJ TY! OdejdŸ stamt¹d!}
-{139}{}{W porz¹dku.}
-{140}{}{Pierdol siê!}
-{141}{}{Tak. Powiedzia³, ¿eby zaj¹æ siê jakimœ problemem z braminami.}
-{142}{}{Tak. Idê st¹d.}
-{143}{}{Tak. Ktoœ, lub coœ, zabija braminy na zachodnim pastwisku. Zaprowadzê ciê tam, i zajmiesz siê tym. Idziemy.}
+{137}{}{Tak, zostawiÅ‚ rozkazy. OczekiwaÅ‚ ciebie.}
+{138}{}{EJ TY! OdejdÅº stamtÄ…d!}
+{139}{}{W porzÄ…dku.}
+{140}{}{Pierdol siÄ™!}
+{141}{}{Tak. PowiedziaÅ‚, Å¼eby zajÄ…Ä‡ siÄ™ jakimÅ› problemem z braminami.}
+{142}{}{Tak. IdÄ™ stÄ…d.}
+{143}{}{Tak. KtoÅ›, lub coÅ›, zabija braminy na zachodnim pastwisku. ZaprowadzÄ™ ciÄ™ tam, i zajmiesz siÄ™ tym. Idziemy.}
 {144}{}{Zapomnij o tym!}
-{145}{}{Pan Westin ciê oczekuje.}
-{146}{}{Có¿, mieliœmy problem ze szkodnikami, ale ju¿ przesta³y nam przeszkadzaæ. Jeœli chcesz, mo¿esz siê zobaczyæ z Westinem.}
+{145}{}{Pan Westin ciÄ™ oczekuje.}
+{146}{}{CÃ³Å¼, mieliÅ›my problem ze szkodnikami, ale juÅ¼ przestaÅ‚y nam przeszkadzaÄ‡. JeÅ›li chcesz, moÅ¼esz siÄ™ zobaczyÄ‡ z Westinem.}
 {147}{}{Mam interes z Kryptopolis.}
-{500}{}{Jeszcze raz dotkniesz tych drzwi, ale s³ono za to zap³acisz. Ka-pe-wu?}
+{500}{}{Jeszcze raz dotkniesz tych drzwi, ale sÅ‚ono za to zapÅ‚acisz. Ka-pe-wu?}

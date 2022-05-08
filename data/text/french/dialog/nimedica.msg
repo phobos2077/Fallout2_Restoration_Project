@@ -1,2 +1,2 @@
-{100}{}{Tu as utilisé l'amplificateur médical du Pip-Boy. Ton cerveau est submergé de connaissances médicales.}
-{200}{}{Holà. Le docteur est là-dedans.}
+{100}{}{Tu as utilisÃ© l'amplificateur mÃ©dical du Pip-Boy. Ton cerveau est submergÃ© de connaissances mÃ©dicales.}
+{200}{}{HolÃ . Le docteur est lÃ -dedans.}

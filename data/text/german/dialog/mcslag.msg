@@ -1,22 +1,22 @@
 {100}{}{Lauf!}
 {101}{}{Hilfe!}
-{102}{}{Wir werden von den Oberflächlern angegriffen.}
+{102}{}{Wir werden von den OberflÃ¤chlern angegriffen.}
 {103}{}{Lass uns zufrieden.}
-{104}{}{Können wir nicht alle einfach miteinander auskommen?}
+{104}{}{KÃ¶nnen wir nicht alle einfach miteinander auskommen?}
 {150}{}{Verschwindet dahin, wo ihr hergekommen seid.}
-{151}{}{Du bist hier unerwünscht.}
-{152}{}{Ihr Oberflächler seid doch alle gleich.}
+{151}{}{Du bist hier unerwÃ¼nscht.}
+{152}{}{Ihr OberflÃ¤chler seid doch alle gleich.}
 {153}{}{Es gibt kein Entkommen.}
-{200}{}{Stöhn!}
+{200}{}{StÃ¶hn!}
 {201}{}{Buh!}
-{202}{}{Stöööhhnnn.}
+{202}{}{StÃ¶Ã¶Ã¶hhnnn.}
 {203}{}{*Klonk*}
 {204}{}{*Klimper*}
-{250}{}{Früher einmal lebten wir über der Erde.}
-{251}{}{Wie sieht es über der Erde aus?}
+{250}{}{FrÃ¼her einmal lebten wir Ã¼ber der Erde.}
+{251}{}{Wie sieht es Ã¼ber der Erde aus?}
 {252}{}{Es ist alles so GROSS da oben.}
 {253}{}{Wie sieht die Sonne aus?}
-{254}{}{Hallo, Oberflächler.}
+{254}{}{Hallo, OberflÃ¤chler.}
 {300}{}{Ich wusste das wir dir vertrauen konnten.}
 {301}{}{Danke, das du uns geholfen hast.}
-{302}{}{Schön dich wiederzusehen.}
+{302}{}{SchÃ¶n dich wiederzusehen.}

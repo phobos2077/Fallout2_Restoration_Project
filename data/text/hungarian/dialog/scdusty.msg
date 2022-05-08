@@ -1,32 +1,32 @@
-{100}{}{Egy kopasz, köpcös figurát látsz. Épp egy poharat törölget.}
+{100}{}{Egy kopasz, kÃ¶pcÃ¶s figurÃ¡t lÃ¡tsz. Ã‰pp egy poharat tÃ¶rÃ¶lget.}
 {101}{}{Ez egy csapos.}
-{102}{}{A csapos elég morcosnak néz ki, görbe orral, és karfiol-fülekkel. Egészében olyan benyomást kelt, mintha évekkel ezel?tt boxoló lett volna.}
+{102}{}{A csapos elÃ©g morcosnak nÃ©z ki, gÃ¶rbe orral, Ã©s karfiol-fÃ¼lekkel. EgÃ©szÃ©ben olyan benyomÃ¡st kelt, mintha Ã©vekkel ezel?tt boxolÃ³ lett volna.}
 {103}{}{Mit adhatok?}
-{104}{}{Mondd csak, te voltál az, aki rávette Jacket, hogy adja fel, ugye? Szép munka volt. Nos, mit szeretnél?}
+{104}{}{Mondd csak, te voltÃ¡l az, aki rÃ¡vette Jacket, hogy adja fel, ugye? SzÃ©p munka volt. Nos, mit szeretnÃ©l?}
 {105}{}{Hogyne.}
 {106}{}{Ital!}
-{107}{}{Ki az a nagydarab fickó ott?}
-{108}{}{Mit lehet ebben a városban csinálni?}
-{109}{}{Viszlát!}
-{110}{}{Az Hoss, Tandi Elnökn? fia. Ha iszik, valóságos fenegyerekké válik, ezért én a helyedben inkább elkerülném.}
+{107}{}{Ki az a nagydarab fickÃ³ ott?}
+{108}{}{Mit lehet ebben a vÃ¡rosban csinÃ¡lni?}
+{109}{}{ViszlÃ¡t!}
+{110}{}{Az Hoss, Tandi ElnÃ¶kn? fia. Ha iszik, valÃ³sÃ¡gos fenegyerekkÃ© vÃ¡lik, ezÃ©rt Ã©n a helyedben inkÃ¡bb elkerÃ¼lnÃ©m.}
 {111}{}{That was Hoss, President's Tandi's son. Boy, you sure whooped his ass good!}
-{112}{}{Mondanál valamit Tandi Elnökn?r?l?}
-{113}{}{Szóval kemény fiú, mi? Kösz.}
-{114}{}{Nem sok mindent. Ha a bajt keresed, akkor menj máshova inni, például a Rawhide-ba! Ha melót keresel, akkor ott van Westin farmja, a város nyugati részén. Amúgy hallottam valamit, hogy Tandi Elnökn? egy specialistát keres.}
-{115}{}{Specialistát?}
-{116}{}{Mondanál valamit Tandi Elnökn?r?l?}
-{117}{}{Köszi.}
-{118}{}{Aradesh Elnök lánya, azé a fickóé, aki az ÚKK-t alapította. Már évek óta ? itt az elnök. És jó munkát is végez.}
-{119}{}{Szóval ? keres egy specialistát? Mifélét?}
-{120}{}{Ki az a nagydarab fickó?}
-{121}{}{Köszi.}
-{122}{}{Nem tudok részleteket. Günther, a tanácsadója valószín?leg tud segíteni. A Kongresszusi Épületben megtalálod ?t.}
-{123}{}{Ki az a nagydarab fickó?}
-{124}{}{Köszi.}
-{125}{}{Szeretnél valamit inni?}
+{112}{}{MondanÃ¡l valamit Tandi ElnÃ¶kn?r?l?}
+{113}{}{SzÃ³val kemÃ©ny fiÃº, mi? KÃ¶sz.}
+{114}{}{Nem sok mindent. Ha a bajt keresed, akkor menj mÃ¡shova inni, pÃ©ldÃ¡ul a Rawhide-ba! Ha melÃ³t keresel, akkor ott van Westin farmja, a vÃ¡ros nyugati rÃ©szÃ©n. AmÃºgy hallottam valamit, hogy Tandi ElnÃ¶kn? egy specialistÃ¡t keres.}
+{115}{}{SpecialistÃ¡t?}
+{116}{}{MondanÃ¡l valamit Tandi ElnÃ¶kn?r?l?}
+{117}{}{KÃ¶szi.}
+{118}{}{Aradesh ElnÃ¶k lÃ¡nya, azÃ© a fickÃ³Ã©, aki az ÃšKK-t alapÃ­totta. MÃ¡r Ã©vek Ã³ta ? itt az elnÃ¶k. Ã‰s jÃ³ munkÃ¡t is vÃ©gez.}
+{119}{}{SzÃ³val ? keres egy specialistÃ¡t? MifÃ©lÃ©t?}
+{120}{}{Ki az a nagydarab fickÃ³?}
+{121}{}{KÃ¶szi.}
+{122}{}{Nem tudok rÃ©szleteket. GÃ¼nther, a tanÃ¡csadÃ³ja valÃ³szÃ­n?leg tud segÃ­teni. A Kongresszusi Ã‰pÃ¼letben megtalÃ¡lod ?t.}
+{123}{}{Ki az a nagydarab fickÃ³?}
+{124}{}{KÃ¶szi.}
+{125}{}{SzeretnÃ©l valamit inni?}
 {126}{}{Hogyne.}
 {127}{}{Nem.}
-{128}{}{Hadd hívjalak meg egy italra! Már évek óta pofán akartam verni!}
-{129}{}{Van néhány kérdésem.}
-{130}{}{Jó! Üdv!}
+{128}{}{Hadd hÃ­vjalak meg egy italra! MÃ¡r Ã©vek Ã³ta pofÃ¡n akartam verni!}
+{129}{}{Van nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{130}{}{JÃ³! Ãœdv!}
 {131}{}{Boy, you sure whooped Hoss's ass good! What can I get you?}

@@ -1,5 +1,5 @@
 {100}{}{FURTIV.}
-{101}{}{NÕVEL}
+{101}{}{N√çVEL}
 {102}{}{VICIADO}
 {103}{}{ENVENENADO}
 {104}{}{IRRADIADO}

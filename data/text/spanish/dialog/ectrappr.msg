@@ -1,43 +1,43 @@
 {100}{}{Ves a un hombre sucio y sin afeitar.}
 {101}{}{Un trampero.}
-{102}{}{Mejor no acercarse mucho. Algunos de los bichitos de su ropa podrían estar buscando un hogar más limpio.}
-{103}{}{Hola. No viene por aquí mucha gente en el territorio de los tramperos. ¿Qué quieres?}
-{104}{}{¿Tienes alguna piel de gecko para vender?}
-{105}{}{Sólo pasaba por aquí.}
+{102}{}{Mejor no acercarse mucho. Algunos de los bichitos de su ropa podrÃ­an estar buscando un hogar mÃ¡s limpio.}
+{103}{}{Hola. No viene por aquÃ­ mucha gente en el territorio de los tramperos. Â¿QuÃ© quieres?}
+{104}{}{Â¿Tienes alguna piel de gecko para vender?}
+{105}{}{SÃ³lo pasaba por aquÃ­.}
 {106}{}{Uhg.}
-{107}{}{Bien, estoy pensando si debería venderte mis pieles. Me ahorraría el problema de entrar en el pueblo.}
-{108}{}{¿Qué tienes?}
+{107}{}{Bien, estoy pensando si deberÃ­a venderte mis pieles. Me ahorrarÃ­a el problema de entrar en el pueblo.}
+{108}{}{Â¿QuÃ© tienes?}
 {109}{}{No importa.}
 {110}{}{Uhg.}
 {111}{}{Esto es lo que tengo: }
 {112}{}{ pieles de gecko normal.}
 {113}{}{ pieles de gecko dorado.}
-{114}{}{Me quedaré con todo lo que tienes.}
-{115}{}{Quizás la próxima vez. Adiós.}
+{114}{}{Me quedarÃ© con todo lo que tienes.}
+{115}{}{QuizÃ¡s la prÃ³xima vez. AdiÃ³s.}
 {116}{}{Has hecho un buen negocio. Nos vemos.}
-{117}{}{Adiós.}
-{118}{}{Parece que no tienes dinero. ¿Qué tal si me dejas cinco minutos con tu mujer? Haré que merezca la pena.}
-{119}{}{Parece que no tienes dinero. ¿Qué tal si me dejas cinco minutos con tu hombre? Ya sabes lo que quiero decir. Te puedo dar pieles a cambio.}
-{120}{}{Parece que no tienes dinero. Te diré qué. He estado en estos bosques MUCHO tiempo, ¿me entiendes? Haré que merezca la pena.}
+{117}{}{AdiÃ³s.}
+{118}{}{Parece que no tienes dinero. Â¿QuÃ© tal si me dejas cinco minutos con tu mujer? HarÃ© que merezca la pena.}
+{119}{}{Parece que no tienes dinero. Â¿QuÃ© tal si me dejas cinco minutos con tu hombre? Ya sabes lo que quiero decir. Te puedo dar pieles a cambio.}
+{120}{}{Parece que no tienes dinero. Te dirÃ© quÃ©. He estado en estos bosques MUCHO tiempo, Â¿me entiendes? HarÃ© que merezca la pena.}
 {121}{}{Claro.}
-{122}{}{Ni de broma. Adiós.}
-{123}{}{[Seguro que Miria te lo perdonará... algún día. Pero mira el lado bueno, el trampero te ha dado algunas pieles].}
+{122}{}{Ni de broma. AdiÃ³s.}
+{123}{}{[Seguro que Miria te lo perdonarÃ¡... algÃºn dÃ­a. Pero mira el lado bueno, el trampero te ha dado algunas pieles].}
 {124}{}{[Davin no parece estar muy afectado por la experiencia].}
-{125}{}{[Te sientes sucio en toda la extensión de la palabra. Pero ahora tienes algunas pieles].}
-{126}{}{Adiós.}
-{127}{}{[Alza la mano derecha y dice] How. Yo gran trampero. Cazar grandes geckos. Yo no querer invadir tus tierras. Marchar pacíficamente. [Te entrega una piel de gecko como regalo].}
+{125}{}{[Te sientes sucio en toda la extensiÃ³n de la palabra. Pero ahora tienes algunas pieles].}
+{126}{}{AdiÃ³s.}
+{127}{}{[Alza la mano derecha y dice] How. Yo gran trampero. Cazar grandes geckos. Yo no querer invadir tus tierras. Marchar pacÃ­ficamente. [Te entrega una piel de gecko como regalo].}
 {128}{}{[FIN]}
-{129}{}{No tengo más negocios contigo.}
-{130}{}{¡Pájaros carpinteros!}
-{131}{}{Este es mi territorio de caza. ¡Fuera!}
-{132}{}{¡Te despellejaré vivo!}
+{129}{}{No tengo mÃ¡s negocios contigo.}
+{130}{}{Â¡PÃ¡jaros carpinteros!}
+{131}{}{Este es mi territorio de caza. Â¡Fuera!}
+{132}{}{Â¡Te despellejarÃ© vivo!}
 {133}{}{Voy a usar tu cabeza como trofeo.}
 {134}{}{Una piel de gecko normal: }
 {135}{}{Una piel de gecko dorado: }
-{136}{}{Vale, guarda. Tú ganas.}
+{136}{}{Vale, guarda. TÃº ganas.}
 {137}{}{Tienes suerte de que tenga que ir a revisar mis trampas.}
-{138}{}{Creo que he oído a Mamá llamarme.}
-{140}{}{Parece que no tengo pieles de gecko normal, pero sí tengo}
-{141}{}{Parece que no tengo pieles de gecko dorado, pero sí tengo}
+{138}{}{Creo que he oÃ­do a MamÃ¡ llamarme.}
+{140}{}{Parece que no tengo pieles de gecko normal, pero sÃ­ tengo}
+{141}{}{Parece que no tengo pieles de gecko dorado, pero sÃ­ tengo}
 {142}{}{Lo siento, parece que no tengo nada.}
 {200}{}{Ves a una mujer demacrada y sucia.}

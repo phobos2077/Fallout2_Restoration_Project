@@ -1,1 +1,1 @@
-{101}{}{"Mme Tamara Winslow" est gravé sur la pierre tombale.}
+{101}{}{"Mme Tamara Winslow" est gravÃ© sur la pierre tombale.}

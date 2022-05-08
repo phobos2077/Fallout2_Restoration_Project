@@ -1,15 +1,15 @@
 {100}{}{Widzisz terminal komputerowy.}
 {101}{}{Widzisz terminal centrum kontroli.}
-{102}{}{Widzisz standardowy terminal komputerowy. Wygl¹da na to, ¿e jest w pe³ni sprawny i oczekuje na komendy.}
-{103}{}{Ze wskazañ terminalu wynika, ¿e pole si³owe zabezpieczaj¹ce wejœcie do krypty zosta³o uaktywnione wraz z przywróceniem zasilania.}
-{104}{}{Ze wskazañ terminalu wynika, ¿e wszystkie systemy bezpieczeñstwa s¹ wy³¹czone z powodu awarii zasilania.}
-{105}{}{Wy³¹cz pole si³owe.}
-{106}{}{W³¹cz pole si³owe.}
+{102}{}{Widzisz standardowy terminal komputerowy. WyglÄ…da na to, Å¼e jest w peÅ‚ni sprawny i oczekuje na komendy.}
+{103}{}{Ze wskazaÅ„ terminalu wynika, Å¼e pole siÅ‚owe zabezpieczajÄ…ce wejÅ›cie do krypty zostaÅ‚o uaktywnione wraz z przywrÃ³ceniem zasilania.}
+{104}{}{Ze wskazaÅ„ terminalu wynika, Å¼e wszystkie systemy bezpieczeÅ„stwa sÄ… wyÅ‚Ä…czone z powodu awarii zasilania.}
+{105}{}{WyÅ‚Ä…cz pole siÅ‚owe.}
+{106}{}{WÅ‚Ä…cz pole siÅ‚owe.}
 {107}{}{Zrobione.}
-{108}{}{Wydajesz komendê wy³¹czenia pola si³owego.}
+{108}{}{Wydajesz komendÄ™ wyÅ‚Ä…czenia pola siÅ‚owego.}
 {109}{}{Zrobione.}
-{110}{}{Wydajesz komendê w³¹czenia pola si³owego.}
+{110}{}{Wydajesz komendÄ™ wÅ‚Ä…czenia pola siÅ‚owego.}
 {111}{}{Zrobione.}
-{112}{}{Ze wskazañ terminala wynika, ¿e pole zosta³o rêcznie wy³¹czone.}
-{113}{}{Ze wskazañ terminala wynika, ¿e system wytwarzaj¹cy pole zosta³ naruszony przez si³y obce.}
-{114}{}{Ze wskazañ terminala wynika, ¿e system wytwarzaj¹cy pole jest wy³¹czony.}
+{112}{}{Ze wskazaÅ„ terminala wynika, Å¼e pole zostaÅ‚o rÄ™cznie wyÅ‚Ä…czone.}
+{113}{}{Ze wskazaÅ„ terminala wynika, Å¼e system wytwarzajÄ…cy pole zostaÅ‚ naruszony przez siÅ‚y obce.}
+{114}{}{Ze wskazaÅ„ terminala wynika, Å¼e system wytwarzajÄ…cy pole jest wyÅ‚Ä…czony.}

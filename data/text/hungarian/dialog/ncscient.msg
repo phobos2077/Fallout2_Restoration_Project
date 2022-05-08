@@ -1,50 +1,50 @@
-{100}{}{Tudós.}
-{150}{}{A szigorú tekintet? férfi egy jegyzettömböt és egy fecskend?t tart a kezében. Rád sem hederít.}
-{151}{}{Nagyon fáradtnak és ingerültnek látszik.}
-{152}{}{A n? igen fáradt. A jegyzettömbjét nézegeti és úgy néz körbe-körbe, mintha elfeledkezett volna valamir?l.}
-{153}{}{A n? egy fecskend?t tölt meg éppen, közben magában zsörtöl?dik.}
-{154}{}{Üdv Myron úr.}
+{100}{}{TudÃ³s.}
+{150}{}{A szigorÃº tekintet? fÃ©rfi egy jegyzettÃ¶mbÃ¶t Ã©s egy fecskend?t tart a kezÃ©ben. RÃ¡d sem hederÃ­t.}
+{151}{}{Nagyon fÃ¡radtnak Ã©s ingerÃ¼ltnek lÃ¡tszik.}
+{152}{}{A n? igen fÃ¡radt. A jegyzettÃ¶mbjÃ©t nÃ©zegeti Ã©s Ãºgy nÃ©z kÃ¶rbe-kÃ¶rbe, mintha elfeledkezett volna valamir?l.}
+{153}{}{A n? egy fecskend?t tÃ¶lt meg Ã©ppen, kÃ¶zben magÃ¡ban zsÃ¶rtÃ¶l?dik.}
+{154}{}{Ãœdv Myron Ãºr.}
 {155}{}{Myron... uram, van egy perce...?}
-{156}{}{Van valami hír, mikor szállítanak be új rabszolgákat, Myron úr?}
-{157}{}{Myron úr... az új eredmények nagyon ígéretesek...}
-{158}{}{Myron? Egy percét, ha elrabolhatom, uram...}
-{159}{}{Hol a fenében van Myron?...}
-{160}{}{Hozzátok ide Myront! Ezt neki is látnia kell.}
-{161}{}{A rabszolgák igazán befoghatnák már a szájukat...}
+{156}{}{Van valami hÃ­r, mikor szÃ¡llÃ­tanak be Ãºj rabszolgÃ¡kat, Myron Ãºr?}
+{157}{}{Myron Ãºr... az Ãºj eredmÃ©nyek nagyon Ã­gÃ©retesek...}
+{158}{}{Myron? Egy percÃ©t, ha elrabolhatom, uram...}
+{159}{}{Hol a fenÃ©ben van Myron?...}
+{160}{}{HozzÃ¡tok ide Myront! Ezt neki is lÃ¡tnia kell.}
+{161}{}{A rabszolgÃ¡k igazÃ¡n befoghatnÃ¡k mÃ¡r a szÃ¡jukat...}
 {162}{}{Hol hagytam azt a fecskend?t?...}
-{163}{}{Látta valaki a 31-es Alanyt? Egy perccel ezel?tt még itt állt.}
-{164}{}{A rabszolgák hozzanak még több Béta Jetet!}
-{165}{}{A Béta Jet teszteredményei nagyon bíztatóak, de...}
-{166}{}{Ha megnézzük az egy dózis/óra periódust... a "belöv?dés" 15 perct?l egy óráig is eltarthat... hmmmmmm.}
-{167}{}{A 12-es Alany tüdeje egyfolytában vérzik.}
-{168}{}{Ez már az ötödik alkalom, hogy a 12-es Alanynak rohamai vannak... adjuk be a dózist, és nézzük meg, mi történik...}
-{169}{}{Szóval miféle hallucinációi voltak a fickónak?}
-{170}{}{Nézzük meg a szívritmusát! Ha a t?réshatáron belül van, adjuk be a dózist!}
-{171}{}{Miért lett öngyilkos az a n? a kontroll-csoportból? Még rá sem került a sor!}
+{163}{}{LÃ¡tta valaki a 31-es Alanyt? Egy perccel ezel?tt mÃ©g itt Ã¡llt.}
+{164}{}{A rabszolgÃ¡k hozzanak mÃ©g tÃ¶bb BÃ©ta Jetet!}
+{165}{}{A BÃ©ta Jet teszteredmÃ©nyei nagyon bÃ­ztatÃ³ak, de...}
+{166}{}{Ha megnÃ©zzÃ¼k az egy dÃ³zis/Ã³ra periÃ³dust... a "belÃ¶v?dÃ©s" 15 perct?l egy Ã³rÃ¡ig is eltarthat... hmmmmmm.}
+{167}{}{A 12-es Alany tÃ¼deje egyfolytÃ¡ban vÃ©rzik.}
+{168}{}{Ez mÃ¡r az Ã¶tÃ¶dik alkalom, hogy a 12-es Alanynak rohamai vannak... adjuk be a dÃ³zist, Ã©s nÃ©zzÃ¼k meg, mi tÃ¶rtÃ©nik...}
+{169}{}{SzÃ³val mifÃ©le hallucinÃ¡ciÃ³i voltak a fickÃ³nak?}
+{170}{}{NÃ©zzÃ¼k meg a szÃ­vritmusÃ¡t! Ha a t?rÃ©shatÃ¡ron belÃ¼l van, adjuk be a dÃ³zist!}
+{171}{}{MiÃ©rt lett Ã¶ngyilkos az a n? a kontroll-csoportbÃ³l? MÃ©g rÃ¡ sem kerÃ¼lt a sor!}
 {200}{}{A tesztek a tervek szerint haladnak, Myron.}
 {201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
  willing to kill each other for it.}
-{202}{}{Az új Jet annyira üt?s, hogy a rabszolgák még étel helyett is azt akarnak bevenni.}
-{203}{}{Kik ezek az emberek magával, Myron? Új tesztalanyok?}
-{204}{}{Az összes közül a harmadik tesztcsoport ígérkezik a legjobbnak, Myron úr.}
-{205}{}{Myron úr, szerintem a következ? tesztcsoportba kéne legalább három gyerek.}
-{206}{}{Myron úr, a 46-os Alany szívrohamot kapott. Mostantól naponta csak hat dózist engedélyezünk.}
-{207}{}{Myron? Rövidesen új fecsekend?szállítmányra lesz szükség Menedékvárosból. Örökké nem használhatjuk ezeket.}
-{208}{}{Myron, na végre! Mikor szállítanak be új rabszolgákat, uram?}
-{209}{}{Myron úr, három rabszolgát a kontroll-csoportból áttettünk a tesztcsoportba, mert légzési zavaraik voltak a múlt héten.}
-{210}{}{Myron úr... le kellett l?nünk egy menekül? rabszolgát. Nagy pazarlás ez...}
+{202}{}{Az Ãºj Jet annyira Ã¼t?s, hogy a rabszolgÃ¡k mÃ©g Ã©tel helyett is azt akarnak bevenni.}
+{203}{}{Kik ezek az emberek magÃ¡val, Myron? Ãšj tesztalanyok?}
+{204}{}{Az Ã¶sszes kÃ¶zÃ¼l a harmadik tesztcsoport Ã­gÃ©rkezik a legjobbnak, Myron Ãºr.}
+{205}{}{Myron Ãºr, szerintem a kÃ¶vetkez? tesztcsoportba kÃ©ne legalÃ¡bb hÃ¡rom gyerek.}
+{206}{}{Myron Ãºr, a 46-os Alany szÃ­vrohamot kapott. MostantÃ³l naponta csak hat dÃ³zist engedÃ©lyezÃ¼nk.}
+{207}{}{Myron? RÃ¶videsen Ãºj fecsekend?szÃ¡llÃ­tmÃ¡nyra lesz szÃ¼ksÃ©g MenedÃ©kvÃ¡rosbÃ³l. Ã–rÃ¶kkÃ© nem hasznÃ¡lhatjuk ezeket.}
+{208}{}{Myron, na vÃ©gre! Mikor szÃ¡llÃ­tanak be Ãºj rabszolgÃ¡kat, uram?}
+{209}{}{Myron Ãºr, hÃ¡rom rabszolgÃ¡t a kontroll-csoportbÃ³l Ã¡ttettÃ¼nk a tesztcsoportba, mert lÃ©gzÃ©si zavaraik voltak a mÃºlt hÃ©ten.}
+{210}{}{Myron Ãºr... le kellett l?nÃ¼nk egy menekÃ¼l? rabszolgÃ¡t. Nagy pazarlÃ¡s ez...}
 {211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
-{212}{}{Ha bármilyen javaslata van, kérem írja le egy darab papírra, és helyezze az ott látható szemeteskosárba.}
+{212}{}{Ha bÃ¡rmilyen javaslata van, kÃ©rem Ã­rja le egy darab papÃ­rra, Ã©s helyezze az ott lÃ¡thatÃ³ szemeteskosÃ¡rba.}
 {213}{}{Igen, igen, mi a helyzet?}
-{214}{}{Sosem lesz eredmény, ha folyton megzavar bennünket!}
-{215}{}{Mostanában már mindenkit beengednek ide a pereputtyával együtt...}
+{214}{}{Sosem lesz eredmÃ©ny, ha folyton megzavar bennÃ¼nket!}
+{215}{}{MostanÃ¡ban mÃ¡r mindenkit beengednek ide a pereputtyÃ¡val egyÃ¼tt...}
 {216}{}{Mit akarsz?}
-{217}{}{Bocsásson meg, dolgoznom kell.}
-{218}{}{Ha kérdez?sködni akar, beszéljen az ?rökkel, ne velem!}
-{219}{}{Igen, biztos vagyok benne, hogy bármit is akar, *nagyon* fontos lehet, viszont nekem is megvan a magam feladata.}
-{220}{}{Maga jogszer?en tartózkodik itt?}
-{221}{}{Ki engedte magát ide?}
-{222}{}{Ha Myron megtudja, hogy idegenek jöttek a laborba...}
-{223}{}{Megvannak a teszteredmények, amiket kértem?... ó, bocsánat... azt hittem, maga asszisztens.}
-{224}{}{Elnézést, most túl sok dolgom van.}
-{225}{}{Hamarosan új adag rabszolgára lesz szükségünk... a mostaniak lassan beadják a kulcsot.}
+{217}{}{BocsÃ¡sson meg, dolgoznom kell.}
+{218}{}{Ha kÃ©rdez?skÃ¶dni akar, beszÃ©ljen az ?rÃ¶kkel, ne velem!}
+{219}{}{Igen, biztos vagyok benne, hogy bÃ¡rmit is akar, *nagyon* fontos lehet, viszont nekem is megvan a magam feladata.}
+{220}{}{Maga jogszer?en tartÃ³zkodik itt?}
+{221}{}{Ki engedte magÃ¡t ide?}
+{222}{}{Ha Myron megtudja, hogy idegenek jÃ¶ttek a laborba...}
+{223}{}{Megvannak a teszteredmÃ©nyek, amiket kÃ©rtem?... Ã³, bocsÃ¡nat... azt hittem, maga asszisztens.}
+{224}{}{ElnÃ©zÃ©st, most tÃºl sok dolgom van.}
+{225}{}{Hamarosan Ãºj adag rabszolgÃ¡ra lesz szÃ¼ksÃ©gÃ¼nk... a mostaniak lassan beadjÃ¡k a kulcsot.}

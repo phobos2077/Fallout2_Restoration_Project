@@ -5,5 +5,5 @@
 {202}{}{*knurr*}
 {203}{}{Grrr!}
 {204}{}{Brauche freesen!}
-{205}{}{Töten! Esseeen!}
+{205}{}{TÃ¶ten! Esseeen!}
 {206}{}{*sabber*}

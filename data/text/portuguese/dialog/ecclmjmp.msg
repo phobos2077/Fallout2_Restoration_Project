@@ -1,6 +1,6 @@
-{100}{}{Você vê um chamado salteador.}
-{101}{}{Nós estávamos aqui primeiro.}
-{102}{}{Vá encontrar sua própria reivindicação de salto.}
+{100}{}{VocÃª vÃª um chamado salteador.}
+{101}{}{NÃ³s estÃ¡vamos aqui primeiro.}
+{102}{}{VÃ¡ encontrar sua prÃ³pria reivindicaÃ§Ã£o de salto.}
 {103}{}{Apenas um outro entalhe na minha pistola.}
-{104}{}{Não posso deixar você ir agora.}
-{105}{}{Você já viu muito.}
+{104}{}{NÃ£o posso deixar vocÃª ir agora.}
+{105}{}{VocÃª jÃ¡ viu muito.}

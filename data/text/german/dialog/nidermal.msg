@@ -1,2 +1,2 @@
-{100}{}{Du hast die Powerfunktion "Sprache" für den PIPBoy verwendet. Eine linguistische Lawine überflutet dein Gehirn.}
-{200}{}{Wahrlich. Ein veritables Füllhorn linguistischen Wissens hat mein Cranium infiltriert.}
+{100}{}{Du hast die Powerfunktion "Sprache" fÃ¼r den PIPBoy verwendet. Eine linguistische Lawine Ã¼berflutet dein Gehirn.}
+{200}{}{Wahrlich. Ein veritables FÃ¼llhorn linguistischen Wissens hat mein Cranium infiltriert.}

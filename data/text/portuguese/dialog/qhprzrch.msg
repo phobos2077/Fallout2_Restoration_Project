@@ -23,7 +23,7 @@
 {122}{}{Uh, I guess I took a wrong turn on my way to the lab. Sorry, sir. Goodbye.}
 {123}{prs5a}{Hello, doctor. Do you have a report? Good news, I hope. Our salvation is in your team's hands.}
 {124}{prs5b}{You there, shouldn't you be working on the Project? Mankind's salvation depends on you.}
-{125}{}{Quem é você?}
+{125}{}{Quem Ã© vocÃª?}
 {126}{}{Salvation? Just what's going on here?}
 {127}{}{Sorry, sir. Wrong turn on my way back to the lab. Goodbye.}
 {128}{prs6}{Oh, that's quite all right. All those inoculation shots would disorient anyone.}
@@ -111,7 +111,7 @@
 {210}{}{So we're mutants. So what?}
 {211}{}{Creatures change all the time. It's called evolution. Without that change you and I would still be two bits of protoplasmic goo.}
 {212}{prs31}{We try to keep ourselves safe and secure from radiation. That's what separates humans - like me - from mutants like you.}
-{213}{}{Por que você continua me chamando de mutante?}
+{213}{}{Por que vocÃª continua me chamando de mutante?}
 {214}{}{Enough talk. Time for you to face that great electoral college in the sky.}
 {215}{}{I've killed men for less than that. But I'm in a hurry today. Goodbye.}
 {216}{prs32}{We were winning, too. And then those damn Reds launched. We barely got our birds up.}
@@ -119,7 +119,7 @@
 {218}{prs33}{Well, no it didn't. But at least it knocked the damn Red menace back into the stone age. (chuckles)}
 {219}{}{And us with it.}
 {220}{prs34}{Well, no. No... not quite. You see, we had planned ahead. We were ready. }
-{221}{}{O que você quer dizer?}
+{221}{}{O que vocÃª quer dizer?}
 {222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. This facility - the vaults - were part of the great plan.}
 {223}{}{Those damn vaults didn't work the way they were supposed to. A lot of people in them died.}
 {224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale.}
@@ -129,9 +129,9 @@
 {228}{prs37}{Ahh. Vault 13 is a special case. It was supposed to remain closed until the subjects were needed. Vault 13 was, in scientific parlance, a control group.}
 {229}{}{But they would all have died if my ancestor didn't get them a replacement water chip. That doesn't seem to fit in with your plan.}
 {230}{prs38}{An unfortunate, and unforeseen accident. However, as it turns out a rather fortuitous one.}
-{231}{}{O que você quer dizer?}
+{231}{}{O que vocÃª quer dizer?}
 {232}{prs39}{As it turns out we needed test subjects from untainted, pre-war, human stock - your ancestors in Vault 13 - and some freshly mutated stock - the villagers from Arroyo.}
-{233}{}{Por quê?}
+{233}{}{Por quÃª?}
 {234}{prs39a}{For the Project. It's almost ready. Humanity's salvation is almost at hand and the United States of America will be the progenitor of that rebirth.}
 {235}{}{Rebirth? What do you mean?}
 {236}{prs40a}{The only way for true humans, and democracy, to be safe is to cleanse the mutants from the globe. We humans will take back that which is rightfully ours.}
@@ -151,7 +151,7 @@
 {250}{prs45}{Simple. Navarro is an isolated base. Our vertibirds have a limited range. They refuel there.}
 {251}{}{Makes sense.}
 {252}{prs46a}{I'm sure you think so. But tests performed on your tribesmen have all shown that you are guilty of mutation. And it's a damn good thing the Project is ready.}
-{253}{}{Por quê?}
+{253}{}{Por quÃª?}
 {254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But (sighs) that's not to be.}
 {255}{}{Not to be? Why not?}
 {256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
@@ -215,25 +215,25 @@
 {314}{}{To the East of here}
 {315}{}{To the Northeast}
 {316}{}{Sim}
-{317}{}{Não}
+{317}{}{NÃ£o}
 {318}{}{Ouch}
 {319}{}{(cry of pain)}
 {320}{}{Why are you talking to me like that?}
-{321}{}{Eu não sei nada sobre isso.}
+{321}{}{Eu nÃ£o sei nada sobre isso.}
 {322}{}{You're not very nice.}
 {323}{}{Thank-you. }
 {324}{}{Isso ser bom.}
-{325}{}{Isso não ser bom.}
+{325}{}{Isso nÃ£o ser bom.}
 {326}{}{Tenho um bom pressentimento sobre isso.}
 {327}{}{Tenho um mau pressentimento sobre isso.}
 {328}{}{You people are crazy.}
-{329}{}{Do que você está falando?}
-{330}{}{Todo mundo é louco aqui?}
+{329}{}{Do que vocÃª estÃ¡ falando?}
+{330}{}{Todo mundo Ã© louco aqui?}
 {331}{}{Deve ter outro caminho.}
 {332}{}{Venha aqui.}
-{333}{}{Não entendo.}
-{334}{}{Eu não sei.}
-{335}{}{Isso dói.}
-{336}{}{Isso realmente dói.}
+{333}{}{NÃ£o entendo.}
+{334}{}{Eu nÃ£o sei.}
+{335}{}{Isso dÃ³i.}
+{336}{}{Isso realmente dÃ³i.}
 {337}{}{Isso deve doer.}
 {338}{}{Actually, Mr. President, I'm back.}

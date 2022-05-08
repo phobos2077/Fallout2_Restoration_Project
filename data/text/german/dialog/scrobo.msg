@@ -1,7 +1,7 @@
-{100}{}{Du siehst eine merkwürdige Mischung, zur Hälfte Hund, zur anderen Hälfte aus Metall.
+{100}{}{Du siehst eine merkwÃ¼rdige Mischung, zur HÃ¤lfte Hund, zur anderen HÃ¤lfte aus Metall.
  Das Ding scheint aktiviert zu sein.}
 {101}{}{Es ist ein Robodog! Das allseits beliebte mechanische Haustier!}
-{102}{}{Entweder ist dieses Ding eine furchtbar schlampig zusammengestöpselte Kombination aus
+{102}{}{Entweder ist dieses Ding eine furchtbar schlampig zusammengestÃ¶pselte Kombination aus
  Hund und Maschine, oder es ist durch und durch Maschine, der man geschickterweise das Aussehen
  eines Hundes verliehen hat. Schwer zu sagen.}
 {103}{}{Arf! <klick> Wuff!}
@@ -28,14 +28,14 @@
 {123}{}{Rawuff? <boing> Raggy?}
 {124}{}{Wie geht's?}
 {125}{}{Du musst hier warten, bis ich wieder da bin.}
-{126}{}{Das wär's dann vorerst mal.}
+{126}{}{Das wÃ¤r's dann vorerst mal.}
 {127}{}{<klick> winsel}
 {128}{}{Macht nichts.}
 {129}{}{OK}
 {130}{}{TP:}
 {131}{}{Cyberhund kann diesmal nicht mehr repariert werden.}
 {132}{}{Cyberhund wurde teilweise repariert.}
-{133}{}{Cyberhund ist wieder vollkommen funktionstüchtig.}
+{133}{}{Cyberhund ist wieder vollkommen funktionstÃ¼chtig.}
 {1000}{}{Wuff! Wu-wu-wu-<klick>wuff?}
 {1100}{}{Arf! <klick> Wuff!}
 {1200}{}{Rawuff? <boing> Raggy?}
@@ -49,4 +49,4 @@
 {2000}{}{.schwirrrrr... Ich bin kein Daggit.}
 {2100}{}{GRRR-RAWUFF!}
 {2200}{}{Wuff! Wu-wu-wu-<klick>wuff?}
-{2204}{}{Okay, du ziehst dich jetzt erst mal ein bisschen zurück.}
+{2204}{}{Okay, du ziehst dich jetzt erst mal ein bisschen zurÃ¼ck.}

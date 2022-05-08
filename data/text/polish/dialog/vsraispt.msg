@@ -1,3 +1,3 @@
-{100}{}{Opuszczaj¹c granice miasta umiejêtnie zauwa¿asz grupê uzbrojonych ludzi, ukradkiem prowadzonych za krzakami, przez wygl¹daj¹cego na silnego, dzikusa. Dzikus spogl¹da w twoim kierunku i zauwa¿a, ¿e ty patrzysz na niego. Daje sygna³ i grupa ludzi, któr¹ prowadzi pada na ziemiê i znika z pola widzenia.}
-{101}{}{[ŒledŸ ich z bezpiecznej odleg³oœci.]}
-{102}{}{[Zignoruj ich i idŸ dalej.]}
+{100}{}{OpuszczajÄ…c granice miasta umiejÄ™tnie zauwaÅ¼asz grupÄ™ uzbrojonych ludzi, ukradkiem prowadzonych za krzakami, przez wyglÄ…dajÄ…cego na silnego, dzikusa. Dzikus spoglÄ…da w twoim kierunku i zauwaÅ¼a, Å¼e ty patrzysz na niego. Daje sygnaÅ‚ i grupa ludzi, ktÃ³rÄ… prowadzi pada na ziemiÄ™ i znika z pola widzenia.}
+{101}{}{[ÅšledÅº ich z bezpiecznej odlegÅ‚oÅ›ci.]}
+{102}{}{[Zignoruj ich i idÅº dalej.]}

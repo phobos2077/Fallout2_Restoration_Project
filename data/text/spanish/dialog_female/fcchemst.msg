@@ -1,75 +1,75 @@
-{100}{}{Ves a un Shi con el ceño fruncido.}
+{100}{}{Ves a un Shi con el ceÃ±o fruncido.}
 {101}{}{Ves al doctor Jing Tie Gahng.}
 {102}{}{Ves a un Shi con bata de laboratorio.}
-{103}{}{¿Quién eres? ¿Qué quieres?}
-{104}{}{¿Qué?}
-{105}{}{¿Quién eres TÚ?}
+{103}{}{Â¿QuiÃ©n eres? Â¿QuÃ© quieres?}
+{104}{}{Â¿QuÃ©?}
+{105}{}{Â¿QuiÃ©n eres TÃš?}
 {106}{}{Soy }
 {107}{}{No es asunto tuyo.}
 {108}{}{Nada. Ya me voy.}
-{109}{}{No puedes estar aquí si eres una imbécil. Márchate corriendo, antes de que llame a los guardias.}
-{110}{}{Realmente no me entiendes, ¿verdad? Tal vez entenderás a la guardia. ¡Guardias! ¡Un intruso!}
+{109}{}{No puedes estar aquÃ­ si eres una imbÃ©cil. MÃ¡rchate corriendo, antes de que llame a los guardias.}
+{110}{}{Realmente no me entiendes, Â¿verdad? Tal vez entenderÃ¡s a la guardia. Â¡Guardias! Â¡Un intruso!}
 {111}{}{[HECHO]}
-{112}{}{Soy Jing Tie Gahng. Estoy a cargo del laboratorio químico del Palacio de Acero... y tú estás interrumpiendo un trabajo importante. Por favor, márchate. AHORA... antes de que llame a los guardias.}
-{113}{}{Pues llámalos, anciano.}
-{114}{}{Está bien, está bien. Me marcho.}
+{112}{}{Soy Jing Tie Gahng. Estoy a cargo del laboratorio quÃ­mico del Palacio de Acero... y tÃº estÃ¡s interrumpiendo un trabajo importante. Por favor, mÃ¡rchate. AHORA... antes de que llame a los guardias.}
+{113}{}{Pues llÃ¡malos, anciano.}
+{114}{}{EstÃ¡ bien, estÃ¡ bien. Me marcho.}
 {115}{}{Bien,}
-{116}{}{Sí. Estoy aquí para conseguir combustible para el petrolero Poseidon.}
-{117}{}{Me gustaría saber qué haces aquí.}
-{118}{}{Estoy aquí para conseguir combustible para los Hubologistas.}
+{116}{}{SÃ­. Estoy aquÃ­ para conseguir combustible para el petrolero Poseidon.}
+{117}{}{Me gustarÃ­a saber quÃ© haces aquÃ­.}
+{118}{}{Estoy aquÃ­ para conseguir combustible para los Hubologistas.}
 {119}{}{No. Ya me marchaba.}
-{120}{}{Ahh, pero verás, eso son mis asuntos. Este es mi laboratorio. Ahora, dime qué te trae aquí.}
-{121}{}{Estoy aquí para conseguir combustible para el petrolero Poseidon.}
-{122}{}{Me gustaría saber qué haces aquí.}
-{123}{}{Estoy aquí para conseguir combustible para los Hubologistas.}
+{120}{}{Ahh, pero verÃ¡s, eso son mis asuntos. Este es mi laboratorio. Ahora, dime quÃ© te trae aquÃ­.}
+{121}{}{Estoy aquÃ­ para conseguir combustible para el petrolero Poseidon.}
+{122}{}{Me gustarÃ­a saber quÃ© haces aquÃ­.}
+{123}{}{Estoy aquÃ­ para conseguir combustible para los Hubologistas.}
 {124}{}{No. Ya me marchaba.}
-{125}{}{¿Quieres combustible para el petrolero? Yo quiero una servoarmadura mejorada. Parece ser que un Hubologista, uno llamado Crockett, tiene un proceso con el cual se puede mejorar una servoarmadura. Consígueme una armadura así y yo desviaré el combustible para ti.}
-{126}{}{Lo haré.}
+{125}{}{Â¿Quieres combustible para el petrolero? Yo quiero una servoarmadura mejorada. Parece ser que un Hubologista, uno llamado Crockett, tiene un proceso con el cual se puede mejorar una servoarmadura. ConsÃ­gueme una armadura asÃ­ y yo desviarÃ© el combustible para ti.}
+{126}{}{Lo harÃ©.}
 {127}{}{No puedo prometerte nada.}
-{128}{}{Tengo una aquí mismo.}
-{129}{}{Creo compuestos y dispositivos para el Emperador y para su consejero, Ken Lee. Actualmente, estoy trabajando en derivados de combustible y polímeros que resistan ataques masivos. Por supuesto, nada de esto tiene interés para ti, ya que en su mayor parte es pura teoría.}
-{130}{}{En realidad, sí tiene interés para mí. Me gustaría conseguir combustible para el petrolero Poseidon.}
-{131}{}{Apuesto a que sería de interés para los Hubologistas. Ellos quieren combustible.}
-{132}{}{Aún no. Pero volveré.}
-{133}{}{Quieren combustible, ¿no? Bueno, como irritantes como son, ellos tienen sus usos. Yo he oído que han desarrollado un proceso en el que hacen un traje de armadura de poder aún más invencible. Si van a actualizar, como un traje de armadura para mí, voy a pasar el combustible a lo largo de la tubería. Supongo que es por su juguete nave espacial. Es el llamado Crockett que usted desea hablar con el.}
-{134}{}{Lo haré.}
+{128}{}{Tengo una aquÃ­ mismo.}
+{129}{}{Creo compuestos y dispositivos para el Emperador y para su consejero, Ken Lee. Actualmente, estoy trabajando en derivados de combustible y polÃ­meros que resistan ataques masivos. Por supuesto, nada de esto tiene interÃ©s para ti, ya que en su mayor parte es pura teorÃ­a.}
+{130}{}{En realidad, sÃ­ tiene interÃ©s para mÃ­. Me gustarÃ­a conseguir combustible para el petrolero Poseidon.}
+{131}{}{Apuesto a que serÃ­a de interÃ©s para los Hubologistas. Ellos quieren combustible.}
+{132}{}{AÃºn no. Pero volverÃ©.}
+{133}{}{Quieren combustible, Â¿no? Bueno, como irritantes como son, ellos tienen sus usos. Yo he oÃ­do que han desarrollado un proceso en el que hacen un traje de armadura de poder aÃºn mÃ¡s invencible. Si van a actualizar, como un traje de armadura para mÃ­, voy a pasar el combustible a lo largo de la tuberÃ­a. Supongo que es por su juguete nave espacial. Es el llamado Crockett que usted desea hablar con el.}
+{134}{}{Lo harÃ©.}
 {135}{}{No puedo prometerte nada.}
-{136}{}{Tengo una aquí mismo.}
-{137}{}{Aunque quisiera ayudarte, no podría. Nuestras reservas de combustible se han agotado. Tal vez sería mejor pedir ayuda a los Hubologistas. Adiós.}
+{136}{}{Tengo una aquÃ­ mismo.}
+{137}{}{Aunque quisiera ayudarte, no podrÃ­a. Nuestras reservas de combustible se han agotado. Tal vez serÃ­a mejor pedir ayuda a los Hubologistas. AdiÃ³s.}
 {138}{}{Oh. Vaya, entonces eso es todo.}
-{139}{}{Eso será imposible. Nuestro suministro de combustible ya se ha desvanecido. Incluso si quisiera ayudar a los Hubologistas, que no quiero, no lo haría. Buenos días.}
-{140}{}{Vale. Adiós.}
+{139}{}{Eso serÃ¡ imposible. Nuestro suministro de combustible ya se ha desvanecido. Incluso si quisiera ayudar a los Hubologistas, que no quiero, no lo harÃ­a. Buenos dÃ­as.}
+{140}{}{Vale. AdiÃ³s.}
 {141}{}{Bien. Entonces deja que vuelva a lo que estoy haciendo.}
 {142}{}{[HECHO]}
-{143}{}{¿No puedes hacerlo? Entonces no puedo venderte el combustible. Y ahora lárgate. Estoy ocupado.}
+{143}{}{Â¿No puedes hacerlo? Entonces no puedo venderte el combustible. Y ahora lÃ¡rgate. Estoy ocupado.}
 {144}{}{[HECHO]}
-{145}{}{¿Has mejorado la servoarmadura? ¡Excelente! ¿Cómo quieres que te pague?}
+{145}{}{Â¿Has mejorado la servoarmadura? Â¡Excelente! Â¿CÃ³mo quieres que te pague?}
 {146}{}{Canaliza combustible a los Hubologistas a cambio de esto.}
 {147}{}{Canaliza combustible al petrolero Poseidon.}
-{148}{}{¿Qué tal unos dólares? Como por ejemplo }
-{149}{}{He decidido que prefiero quedármela.}
-{150}{}{Considéralo hecho. Pronto haré los ajustes. Ahora, si me perdonas, debo volver al trabajo.}
-{151}{}{Gracias. Adiós.}
-{152}{}{¿Tanto? ¡Ah! Aunque, por esa poderosa armadura para estudiarla... muy bien. Aquí tienes tu dinero.}
+{148}{}{Â¿QuÃ© tal unos dÃ³lares? Como por ejemplo }
+{149}{}{He decidido que prefiero quedÃ¡rmela.}
+{150}{}{ConsidÃ©ralo hecho. Pronto harÃ© los ajustes. Ahora, si me perdonas, debo volver al trabajo.}
+{151}{}{Gracias. AdiÃ³s.}
+{152}{}{Â¿Tanto? Â¡Ah! Aunque, por esa poderosa armadura para estudiarla... muy bien. AquÃ­ tienes tu dinero.}
 {153}{}{Gracias. Hasta luego.}
-{154}{}{¿Te la quieres quedar? Muy bien. Si cambias de opinión, házmelo saber.}
-{155}{}{Lo haré. Adiós.}
-{156}{}{Es poco probable. Adiós.}
-{157}{}{¡Guardias! ¡Guardias! ¡La forastera ha vuelto! ¡Matadla! }
-{158}{}{¿Has hablado con ese Hubologista que se llama a sí mismo Crockett, y conseguido la armadura?}
-{159}{}{No, aún no.}
-{160}{}{¿Entonces por qué vuelves aquí a molestarme?}
+{154}{}{Â¿Te la quieres quedar? Muy bien. Si cambias de opiniÃ³n, hÃ¡zmelo saber.}
+{155}{}{Lo harÃ©. AdiÃ³s.}
+{156}{}{Es poco probable. AdiÃ³s.}
+{157}{}{Â¡Guardias! Â¡Guardias! Â¡La forastera ha vuelto! Â¡Matadla! }
+{158}{}{Â¿Has hablado con ese Hubologista que se llama a sÃ­ mismo Crockett, y conseguido la armadura?}
+{159}{}{No, aÃºn no.}
+{160}{}{Â¿Entonces por quÃ© vuelves aquÃ­ a molestarme?}
 {161}{}{Porque tengo algunas preguntas.}
-{162}{}{No tengo ni idea. Adiós.}
+{162}{}{No tengo ni idea. AdiÃ³s.}
 {163}{}{No colmes mi paciencia.}
-{164}{}{¿Qué quieres?}
-{165}{}{¿Qué haces aquí?}
-{166}{}{Estoy aquí para conseguir combustible para el petrolero Poseidon.}
-{167}{}{Estoy aquí para conseguir combustible para los Hubologistas.}
+{164}{}{Â¿QuÃ© quieres?}
+{165}{}{Â¿QuÃ© haces aquÃ­?}
+{166}{}{Estoy aquÃ­ para conseguir combustible para el petrolero Poseidon.}
+{167}{}{Estoy aquÃ­ para conseguir combustible para los Hubologistas.}
 {168}{}{Nada. Lo siento.}
-{169}{}{Ahora estamos sin combustible. No puedo ayudarte con nada más. Estoy demasiado ocupado con esta armadura. Buenos días.}
-{170}{}{Adiós.}
-{171}{}{. Sólo estoy echando un vistazo.}
-{172}{}{, ¿realmente tienes algo que hacer aquí?}
-{173}{}{ estaría bien.}
+{169}{}{Ahora estamos sin combustible. No puedo ayudarte con nada mÃ¡s. Estoy demasiado ocupado con esta armadura. Buenos dÃ­as.}
+{170}{}{AdiÃ³s.}
+{171}{}{. SÃ³lo estoy echando un vistazo.}
+{172}{}{, Â¿realmente tienes algo que hacer aquÃ­?}
+{173}{}{ estarÃ­a bien.}
 {174}{}{Tengo todo lo que necesito. Habla con Wong si es necesario.}

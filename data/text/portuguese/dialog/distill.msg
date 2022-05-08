@@ -1,4 +1,4 @@
-{100}{}{Você vê um alambique.}
-{101}{}{Ahhh, então Becky tem um alambique. É melhor que eu obtenha essa informação para Frankie.}
-{102}{}{Você vê um alambique demolido.}
-{103}{}{O alambique foi destruído.}
+{100}{}{VocÃª vÃª um alambique.}
+{101}{}{Ahhh, entÃ£o Becky tem um alambique. Ã‰ melhor que eu obtenha essa informaÃ§Ã£o para Frankie.}
+{102}{}{VocÃª vÃª um alambique demolido.}
+{103}{}{O alambique foi destruÃ­do.}

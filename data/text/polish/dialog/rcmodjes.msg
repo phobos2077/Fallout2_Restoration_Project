@@ -1,141 +1,141 @@
-{100}{}{Widzisz Madame Modrzejewsk¹.}
-{101}{}{Widzisz Madame Modrzejewsk¹.}
-{102}{}{Chcê zostaæ sama.}
-{103}{}{Proszê, po prostu odejdŸ.}
-{104}{}{Nie drêcz mnie.}
+{100}{}{Widzisz Madame ModrzejewskÄ….}
+{101}{}{Widzisz Madame ModrzejewskÄ….}
+{102}{}{ChcÄ™ zostaÄ‡ sama.}
+{103}{}{ProszÄ™, po prostu odejdÅº.}
+{104}{}{Nie drÄ™cz mnie.}
 {105}{}{Zostaw mnie w spokoju.}
-{106}{}{Nie tolerujê prostaków.}
-{107}{}{Wiêkszoœæ plebsu pracuje, ¿eby zdobyæ wystarczaj¹co Jetu. Potrzebuj¹ czegoœ, aby oderwaæ siê myœlami od tego miejsca.}
-{108}{}{Pozwól, ¿e zapytam o coœ innego.}
+{106}{}{Nie tolerujÄ™ prostakÃ³w.}
+{107}{}{WiÄ™kszoÅ›Ä‡ plebsu pracuje, Å¼eby zdobyÄ‡ wystarczajÄ…co Jetu. PotrzebujÄ… czegoÅ›, aby oderwaÄ‡ siÄ™ myÅ›lami od tego miejsca.}
+{108}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
 {109}{}{Jet? Co to jest Jet?}
 {110}{}{Rozumiem. Do widzenia.}
-{111}{}{Jet ma swoje zastosowania. Oddala on nieco cz³owieka od otaczaj¹cego go brudu.}
-{112}{}{Pozwól, ¿e zapytam o coœ innego.}
+{111}{}{Jet ma swoje zastosowania. Oddala on nieco czÅ‚owieka od otaczajÄ…cego go brudu.}
+{112}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
 {113}{}{Jet? Co to jest Jet?}
 {114}{}{Rozumiem. Do widzenia.}
-{115}{}{Ostatnio Jet sta³ siê bardzo drogi. To po prostu zbrodnia. A propos... S³ysza³am, ¿e nasz wspania³y burmistrz Ascorti pracuje nad tym, aby zdobyæ dla nas wiêcej Jetu. Ten cz³owiek zawsze jest bohaterem dla mas..}
-{116}{}{Pozwól, ¿e zapytam o coœ innego.}
-{117}{}{Burmistrz Ascorti? Kto to dok³adnie jest?}
+{115}{}{Ostatnio Jet staÅ‚ siÄ™ bardzo drogi. To po prostu zbrodnia. A propos... SÅ‚yszaÅ‚am, Å¼e nasz wspaniaÅ‚y burmistrz Ascorti pracuje nad tym, aby zdobyÄ‡ dla nas wiÄ™cej Jetu. Ten czÅ‚owiek zawsze jest bohaterem dla mas..}
+{116}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{117}{}{Burmistrz Ascorti? Kto to dokÅ‚adnie jest?}
 {118}{}{Jet? Co to jest Jet?}
 {119}{}{Rozumiem. Do widzenia.}
-{120}{}{Wygl¹da na to, ¿e wszyscy s¹ chorzy. Ostatnia partia Jetu spowodowa³a, ¿e wszyscy patrz¹ na ten towar z obrzydzeniem. Wed³ug mnie wróc¹ do niego jednak wystarczaj¹co szybko.}
-{121}{}{Pozwól, ¿e zapytam o coœ innego.}
+{120}{}{WyglÄ…da na to, Å¼e wszyscy sÄ… chorzy. Ostatnia partia Jetu spowodowaÅ‚a, Å¼e wszyscy patrzÄ… na ten towar z obrzydzeniem. WedÅ‚ug mnie wrÃ³cÄ… do niego jednak wystarczajÄ…co szybko.}
+{121}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
 {122}{}{Jet? Co to jest Jet?}
 {123}{}{Rozumiem. Do widzenia.}
-{124}{}{Wygl¹da na to, ¿e jednak omyli³am siê. Wiêkszoœæ ludzi, którzy kiedyœ naprawdê lecieli na Jecie, teraz przeklina jego istnienie. Po tej ostatniej trefnej partii wiêkszoœæ z nas dostaje torsji nawet po samym pow¹chaniu tego towaru.}
-{125}{}{Pozwól, ¿e zapytam o coœ innego.}
+{124}{}{WyglÄ…da na to, Å¼e jednak omyliÅ‚am siÄ™. WiÄ™kszoÅ›Ä‡ ludzi, ktÃ³rzy kiedyÅ› naprawdÄ™ lecieli na Jecie, teraz przeklina jego istnienie. Po tej ostatniej trefnej partii wiÄ™kszoÅ›Ä‡ z nas dostaje torsji nawet po samym powÄ…chaniu tego towaru.}
+{125}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
 {126}{}{Jet? Co to jest Jet?}
 {127}{}{Rozumiem. Do widzenia.}
-{128}{}{Jestem... Madame Modrzejewska. Czego sobie ode mnie ¿yczysz?}
-{129}{}{W czym mogê ci pomóc?}
-{130}{}{Nie mogê trwoniæ czasu. Czego chcesz od Madame Modrzejewskiej?}
-{131}{}{Lepiej mi nie zawracaæ teraz g³owy. Czego chcesz?}
-{132}{}{Madame Modjeska ma dziœ lekk¹ niedyspozycjê. Czego sobie od niej ¿yczysz?}
-{133}{}{Chyba mi zaraz pêknie g³owa. Czego sobie ode mnie ¿yczysz?}
-{134}{}{Jestem Madame Modrzejewska. Kiedyœ, miêdzy innymi, za¿ywa³am Jetu. Teraz zajmujê siê innymi sprawami. Zda³am sobie sprawê, ¿e Ja i Jet nie pasujemy do siebie..}
-{135}{}{Co Madame mo¿e zrobiæ dla ciebie?}
-{136}{}{Czym siê tu zajmujesz, Madame Modrzejewska?}
-{137}{}{Wygl¹da na to, ¿e du¿o ludzi tutaj jest amatorami narkotyków. Co ostatnio dzieje siê w mieœcie?}
-{138}{}{Czy s³ysza³aœ jakieœ ciekawe plotki?}
-{139}{}{Dlaczego mówi¹ na ciebie Madame Modrzejewska?}
-{140}{}{Co z tob¹?}
-{141}{}{Co ci siê sta³o?}
-{142}{}{Ostatnio w ogóle nie robiê du¿o. Kiedyœ prowadzi³am czêœæ interesu Lou w Saloonie Malamute - ale dosz³o miêdzy nami do niesnasek, wiêc odesz³am.}
-{143}{}{A wiêc pozwól, ¿e zapytam ciê o coœ innego.}
-{144}{}{Rozumiem. Có¿, to wszystko, co muszê wiedzieæ. Do widzenia.}
-{145}{}{Wszystko, o czym s³yszê, dotyczy polityki. To zawsze jakoœ wychodzi w rozmowie.}
-{146}{}{Polityka? Co masz na myœli?}
-{147}{}{Oczywiœcie. A wiêc pozwól, ¿e zapytam ciê o coœ innego.}
-{148}{}{Có¿, to wszystko, co muszê wiedzieæ. Do widzenia.}
-{149}{}{Kiedyœ pracowa³am w Saloonie Malamute. Jako czêœæ tej roboty ludzie nazywali mnie Madame. Imiê pozosta³o, pomimo ¿e ju¿ tam nie pracujê.}
+{128}{}{Jestem... Madame Modrzejewska. Czego sobie ode mnie Å¼yczysz?}
+{129}{}{W czym mogÄ™ ci pomÃ³c?}
+{130}{}{Nie mogÄ™ trwoniÄ‡ czasu. Czego chcesz od Madame Modrzejewskiej?}
+{131}{}{Lepiej mi nie zawracaÄ‡ teraz gÅ‚owy. Czego chcesz?}
+{132}{}{Madame Modjeska ma dziÅ› lekkÄ… niedyspozycjÄ™. Czego sobie od niej Å¼yczysz?}
+{133}{}{Chyba mi zaraz pÄ™knie gÅ‚owa. Czego sobie ode mnie Å¼yczysz?}
+{134}{}{Jestem Madame Modrzejewska. KiedyÅ›, miÄ™dzy innymi, zaÅ¼ywaÅ‚am Jetu. Teraz zajmujÄ™ siÄ™ innymi sprawami. ZdaÅ‚am sobie sprawÄ™, Å¼e Ja i Jet nie pasujemy do siebie..}
+{135}{}{Co Madame moÅ¼e zrobiÄ‡ dla ciebie?}
+{136}{}{Czym siÄ™ tu zajmujesz, Madame Modrzejewska?}
+{137}{}{WyglÄ…da na to, Å¼e duÅ¼o ludzi tutaj jest amatorami narkotykÃ³w. Co ostatnio dzieje siÄ™ w mieÅ›cie?}
+{138}{}{Czy sÅ‚yszaÅ‚aÅ› jakieÅ› ciekawe plotki?}
+{139}{}{Dlaczego mÃ³wiÄ… na ciebie Madame Modrzejewska?}
+{140}{}{Co z tobÄ…?}
+{141}{}{Co ci siÄ™ staÅ‚o?}
+{142}{}{Ostatnio w ogÃ³le nie robiÄ™ duÅ¼o. KiedyÅ› prowadziÅ‚am czÄ™Å›Ä‡ interesu Lou w Saloonie Malamute - ale doszÅ‚o miÄ™dzy nami do niesnasek, wiÄ™c odeszÅ‚am.}
+{143}{}{A wiÄ™c pozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{144}{}{Rozumiem. CÃ³Å¼, to wszystko, co muszÄ™ wiedzieÄ‡. Do widzenia.}
+{145}{}{Wszystko, o czym sÅ‚yszÄ™, dotyczy polityki. To zawsze jakoÅ› wychodzi w rozmowie.}
+{146}{}{Polityka? Co masz na myÅ›li?}
+{147}{}{OczywiÅ›cie. A wiÄ™c pozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{148}{}{CÃ³Å¼, to wszystko, co muszÄ™ wiedzieÄ‡. Do widzenia.}
+{149}{}{KiedyÅ› pracowaÅ‚am w Saloonie Malamute. Jako czÄ™Å›Ä‡ tej roboty ludzie nazywali mnie Madame. ImiÄ™ pozostaÅ‚o, pomimo Å¼e juÅ¼ tam nie pracujÄ™.}
 {150}{}{A gdzie teraz pracujesz?}
-{151}{}{Pozwól, ¿e zapytam o coœ innego.}
-{152}{}{To chyba ju¿ wszystko, co muszê wiedzieæ. Do widzenia.}
-{153}{}{Troszkê odlecia³am na Jecie kilka dni temu i to spowodowa³o, ¿e nie czujê siê zbyt dobrze. Musia³a byæ jakaœ felerna partia. Niezbyt mnie nêci, aby spróbowaæ tego jeszcze raz. Có¿, chyba czeka mnie powrót do butelki.}
-{154}{}{le to brzmi. Zapytam ciê wiêc o coœ innego.}
-{155}{}{Rozumiem. Có¿, to wszystko, co muszê wiedzieæ. Do widzenia.}
-{156}{}{Czujê siê lepiej, ni¿ wygl¹dam. Niedu¿o, ale wystarczaj¹co.}
-{157}{}{Co masz na myœli? Co siê sta³o?}
-{158}{}{Czy dane ci by³o ju¿ zobaczyæ zawody w ³apaniu œliskiej braminy?}
-{159}{}{Jasne. Ee, wiele razy. Zapytam ciê jednak o coœ innego.}
+{151}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{152}{}{To chyba juÅ¼ wszystko, co muszÄ™ wiedzieÄ‡. Do widzenia.}
+{153}{}{TroszkÄ™ odleciaÅ‚am na Jecie kilka dni temu i to spowodowaÅ‚o, Å¼e nie czujÄ™ siÄ™ zbyt dobrze. MusiaÅ‚a byÄ‡ jakaÅ› felerna partia. Niezbyt mnie nÄ™ci, aby sprÃ³bowaÄ‡ tego jeszcze raz. CÃ³Å¼, chyba czeka mnie powrÃ³t do butelki.}
+{154}{}{Å¹le to brzmi. Zapytam ciÄ™ wiÄ™c o coÅ› innego.}
+{155}{}{Rozumiem. CÃ³Å¼, to wszystko, co muszÄ™ wiedzieÄ‡. Do widzenia.}
+{156}{}{CzujÄ™ siÄ™ lepiej, niÅ¼ wyglÄ…dam. NieduÅ¼o, ale wystarczajÄ…co.}
+{157}{}{Co masz na myÅ›li? Co siÄ™ staÅ‚o?}
+{158}{}{Czy dane ci byÅ‚o juÅ¼ zobaczyÄ‡ zawody w Å‚apaniu Å›liskiej braminy?}
+{159}{}{Jasne. Ee, wiele razy. Zapytam ciÄ™ jednak o coÅ› innego.}
 {160}{}{Nie, nie znam niczego takiego. Opowiedz mi o tym.}
-{161}{}{Nie wiem, co to mo¿e mieæ wspólnego z polityk¹ lokaln¹, i chyba nie chcê wiedzieæ. Do widzenia.}
-{162}{}{Po tej ostatniej felernej partii Jetu, rzuci³am branie. Mo¿e gdy poczujê siê lepiej, zamiast tego po prostu siê upijê (œmieje siê)}
-{163}{}{Có¿, to chyba dobrze dla ciebie. Spytam ciê o coœ innego.}
-{164}{}{Interesuj¹ce. Có¿, pozostawiam ciê twojemu powrotowi do zdrowia. Do widzenia.}
-{165}{}{To co robi¹, to smaruj¹ cielaka braminy, a potem wszyscy w t³umie próbuj¹ go z³apaæ. Je¿eli samemu nie mo¿esz go z³apaæ, to przynajmniej upewniasz siê, ¿e nikt inny nie bêdzie móg³ tego zrobiæ.}
-{166}{}{Nie rozumiem, co to wspólnego z polityk¹.}
-{167}{}{Tak, oczywiœcie. Wiem ju¿ wszystko, Madame Modrzejewska. Do widzenia.}
-{168}{}{W tej grze Redding jest t¹ nasmarowan¹ bramin¹ - na dodatek z³ot¹. Nowe Reno, Republika Nowej Kalifornii i Kryptopolis staraj¹ siê j¹ z³apaæ... a przynajmniej utrzymaæ innych od dostania jej.}
+{161}{}{Nie wiem, co to moÅ¼e mieÄ‡ wspÃ³lnego z politykÄ… lokalnÄ…, i chyba nie chcÄ™ wiedzieÄ‡. Do widzenia.}
+{162}{}{Po tej ostatniej felernej partii Jetu, rzuciÅ‚am branie. MoÅ¼e gdy poczujÄ™ siÄ™ lepiej, zamiast tego po prostu siÄ™ upijÄ™ (Å›mieje siÄ™)}
+{163}{}{CÃ³Å¼, to chyba dobrze dla ciebie. Spytam ciÄ™ o coÅ› innego.}
+{164}{}{InteresujÄ…ce. CÃ³Å¼, pozostawiam ciÄ™ twojemu powrotowi do zdrowia. Do widzenia.}
+{165}{}{To co robiÄ…, to smarujÄ… cielaka braminy, a potem wszyscy w tÅ‚umie prÃ³bujÄ… go zÅ‚apaÄ‡. JeÅ¼eli samemu nie moÅ¼esz go zÅ‚apaÄ‡, to przynajmniej upewniasz siÄ™, Å¼e nikt inny nie bÄ™dzie mÃ³gÅ‚ tego zrobiÄ‡.}
+{166}{}{Nie rozumiem, co to wspÃ³lnego z politykÄ….}
+{167}{}{Tak, oczywiÅ›cie. Wiem juÅ¼ wszystko, Madame Modrzejewska. Do widzenia.}
+{168}{}{W tej grze Redding jest tÄ… nasmarowanÄ… braminÄ… - na dodatek zÅ‚otÄ…. Nowe Reno, Republika Nowej Kalifornii i Kryptopolis starajÄ… siÄ™ jÄ… zÅ‚apaÄ‡... a przynajmniej utrzymaÄ‡ innych od dostania jej.}
 {169}{}{Co to znaczy?}
-{170}{}{To mi³o. Có¿, lepiej ju¿ sobiê pójdê, Madame. Dziêki za rozjaœnienie sytuacji. Do widzenia.}
-{171}{}{Tutaj, w Redding, wydobywamy z³oto. Potem transportujemy je do Nowego Reno, RNK i Kryptopolis w zamian za inne towary. Ka¿de z tych miejsc chcia³oby mieæ z³oto - i handel - tylko dla siebie.}
-{172}{}{Dlaczego po prostu was nie zaatakuj¹ i nie wezm¹ tego, czego chc¹?}
-{173}{}{Kto by nie chcia³? Chyba spróbujê samodzielnie znaleŸæ trochê tego z³ota. Dziêkujê i do widzenia.}
-{174}{}{Jesteœmy wystarczaj¹co silni i zbyt oddaleni, aby takie przejêcie by³o bezpieczne i op³acalne. O wiele wydajniej by³oby, gdybyœmy przy³¹czyli siê z w³asnej woli.}
+{170}{}{To miÅ‚o. CÃ³Å¼, lepiej juÅ¼ sobiÄ™ pÃ³jdÄ™, Madame. DziÄ™ki za rozjaÅ›nienie sytuacji. Do widzenia.}
+{171}{}{Tutaj, w Redding, wydobywamy zÅ‚oto. Potem transportujemy je do Nowego Reno, RNK i Kryptopolis w zamian za inne towary. KaÅ¼de z tych miejsc chciaÅ‚oby mieÄ‡ zÅ‚oto - i handel - tylko dla siebie.}
+{172}{}{Dlaczego po prostu was nie zaatakujÄ… i nie wezmÄ… tego, czego chcÄ…?}
+{173}{}{Kto by nie chciaÅ‚? Chyba sprÃ³bujÄ™ samodzielnie znaleÅºÄ‡ trochÄ™ tego zÅ‚ota. DziÄ™kujÄ™ i do widzenia.}
+{174}{}{JesteÅ›my wystarczajÄ…co silni i zbyt oddaleni, aby takie przejÄ™cie byÅ‚o bezpieczne i opÅ‚acalne. O wiele wydajniej byÅ‚oby, gdybyÅ›my przyÅ‚Ä…czyli siÄ™ z wÅ‚asnej woli.}
 {175}{}{Co to znaczy?}
-{176}{}{To ma sens. Dziêki za wyjaœnienie mi tego. Do widzenia.}
-{177}{}{Trzy si³y próbuj¹ nak³oniæ Redding, aby wybra³o, z kim chce siê zjednoczyæ. Wszystkie one maj¹ potê¿nych sojuszników w mieœcie i wygl¹da na to, ¿e ca³a sprawa nied³ugo bêdzie siê mia³a ku koñcowi. Redding bêdzie wkrótce musia³o podj¹æ decyzjê.}
-{178}{}{Decyzjê?}
+{176}{}{To ma sens. DziÄ™ki za wyjaÅ›nienie mi tego. Do widzenia.}
+{177}{}{Trzy siÅ‚y prÃ³bujÄ… nakÅ‚oniÄ‡ Redding, aby wybraÅ‚o, z kim chce siÄ™ zjednoczyÄ‡. Wszystkie one majÄ… potÄ™Å¼nych sojusznikÃ³w w mieÅ›cie i wyglÄ…da na to, Å¼e caÅ‚a sprawa niedÅ‚ugo bÄ™dzie siÄ™ miaÅ‚a ku koÅ„cowi. Redding bÄ™dzie wkrÃ³tce musiaÅ‚o podjÄ…Ä‡ decyzjÄ™.}
+{178}{}{DecyzjÄ™?}
 {179}{}{Kto pracuje dla kogo?}
-{180}{}{Pieni¹dze. Hmm. Có¿, muszê ju¿ iœæ. Do widzenia.}
-{181}{}{Warstwa t³uszczu na braminie staje siê coraz chudsza. Nied³ugo jedna z tych si³ bêdzie musia³a wykonaæ powa¿ny ruch, aby przej¹æ Redding zanim reszta to zrobi. Gdy to siê stanie, ludziom stanie siê krzywda. Wielu ludziom.}
+{180}{}{PieniÄ…dze. Hmm. CÃ³Å¼, muszÄ™ juÅ¼ iÅ›Ä‡. Do widzenia.}
+{181}{}{Warstwa tÅ‚uszczu na braminie staje siÄ™ coraz chudsza. NiedÅ‚ugo jedna z tych siÅ‚ bÄ™dzie musiaÅ‚a wykonaÄ‡ powaÅ¼ny ruch, aby przejÄ…Ä‡ Redding zanim reszta to zrobi. Gdy to siÄ™ stanie, ludziom stanie siÄ™ krzywda. Wielu ludziom.}
 {182}{}{Kto pracuje dla kogo?}
-{183}{}{Dlaczego ludziom ma siê staæ krzywda?}
-{184}{}{Dziêki za informacje. Do widzenia.}
-{185}{}{Nie jestem wszystkiego pewna, ale myœlê, ¿e role wygl¹daj¹ tak: Dan McGrew jest za Nowym Reno, Marge LeBarge za RNK, doktor Johnson za Kryptopolis, jednak nie wiem jeszcze, za kim jest burmistrz Ascorti.}
-{186}{}{Jak ci ludzie mog¹ pomóc w przejêciu w³adzy?}
+{183}{}{Dlaczego ludziom ma siÄ™ staÄ‡ krzywda?}
+{184}{}{DziÄ™ki za informacje. Do widzenia.}
+{185}{}{Nie jestem wszystkiego pewna, ale myÅ›lÄ™, Å¼e role wyglÄ…dajÄ… tak: Dan McGrew jest za Nowym Reno, Marge LeBarge za RNK, doktor Johnson za Kryptopolis, jednak nie wiem jeszcze, za kim jest burmistrz Ascorti.}
+{186}{}{Jak ci ludzie mogÄ… pomÃ³c w przejÄ™ciu wÅ‚adzy?}
 {187}{}{Kim jest Marge LeBarge?}
 {188}{}{Kim jest Dan McGrew?}
 {189}{}{Kim jest doktor Johnson?}
 {190}{}{Kim jest burmistrz Ascorti?}
-{191}{}{Dziêki za informacje. Do widzenia.}
-{192}{}{Ludziom stanie siê krzywda, poniewa¿ taka zmiana nie przychodzi z ³atwoœci¹. Ci, którzy uwa¿aj¹, ¿e nie uda im siê zdobyæ nagrody maj¹ w g³owie tylko jedn¹ myœl - aby nikt inny jej równie¿ nie dosta³. Jedyn¹ szans¹, aby temu zapobiec, jest zdecydowaæ siê, czy zawieramy z kimœ sojusz i zawrzeæ szybki sojusz, zanim pozostali siê po³api¹.}
-{193}{}{S¹dzisz, ¿e co siê stanie?}
-{194}{}{Rozumiem. Dziêki, do widzenia.}
-{195}{}{Myœlê, ¿e ludzie pójd¹ za przywództwem burmistrza Ascortiego. To drañ, ale ludzie mu ufaj¹. Pójdzie za tym, kto bêdzie najsilnieszy. Widzisz, cokolwiek jest dobre dla Ascortiego, bêdzie tak¿e dobre dla Redding. S¹dzê, ¿e on jeszcze nie zdecydowa³, kto jest najbli¿szy szczytu. Ale bêdzie musia³ szybko zdecydowaæ.}
-{196}{}{Mogê ciê zapytaæ o coœ jeszcze?}
-{197}{}{Dziêki za wyjaœnienie mi, co tutaj siê dzieje. Do widzenia.}
-{198}{}{Marge LeBarge jest w³aœcicielk¹ kopalni Kokoweef. Ona i kopalnia Morningstar s¹ jedynymi dwoma pozosta³ymi kopalniami w Redding. Myœlê, ¿e Marge najbardziej pasuje do RNK. Nie s¹dzê, aby podoba³a jej siê ich pruderyjnoœæ, ale potrafi oceniæ si³ê, któr¹ widzi przed sob¹.}
+{191}{}{DziÄ™ki za informacje. Do widzenia.}
+{192}{}{Ludziom stanie siÄ™ krzywda, poniewaÅ¼ taka zmiana nie przychodzi z Å‚atwoÅ›ciÄ…. Ci, ktÃ³rzy uwaÅ¼ajÄ…, Å¼e nie uda im siÄ™ zdobyÄ‡ nagrody majÄ… w gÅ‚owie tylko jednÄ… myÅ›l - aby nikt inny jej rÃ³wnieÅ¼ nie dostaÅ‚. JedynÄ… szansÄ…, aby temu zapobiec, jest zdecydowaÄ‡ siÄ™, czy zawieramy z kimÅ› sojusz i zawrzeÄ‡ szybki sojusz, zanim pozostali siÄ™ poÅ‚apiÄ….}
+{193}{}{SÄ…dzisz, Å¼e co siÄ™ stanie?}
+{194}{}{Rozumiem. DziÄ™ki, do widzenia.}
+{195}{}{MyÅ›lÄ™, Å¼e ludzie pÃ³jdÄ… za przywÃ³dztwem burmistrza Ascortiego. To draÅ„, ale ludzie mu ufajÄ…. PÃ³jdzie za tym, kto bÄ™dzie najsilnieszy. Widzisz, cokolwiek jest dobre dla Ascortiego, bÄ™dzie takÅ¼e dobre dla Redding. SÄ…dzÄ™, Å¼e on jeszcze nie zdecydowaÅ‚, kto jest najbliÅ¼szy szczytu. Ale bÄ™dzie musiaÅ‚ szybko zdecydowaÄ‡.}
+{196}{}{MogÄ™ ciÄ™ zapytaÄ‡ o coÅ› jeszcze?}
+{197}{}{DziÄ™ki za wyjaÅ›nienie mi, co tutaj siÄ™ dzieje. Do widzenia.}
+{198}{}{Marge LeBarge jest wÅ‚aÅ›cicielkÄ… kopalni Kokoweef. Ona i kopalnia Morningstar sÄ… jedynymi dwoma pozostaÅ‚ymi kopalniami w Redding. MyÅ›lÄ™, Å¼e Marge najbardziej pasuje do RNK. Nie sÄ…dzÄ™, aby podobaÅ‚a jej siÄ™ ich pruderyjnoÅ›Ä‡, ale potrafi oceniÄ‡ siÅ‚Ä™, ktÃ³rÄ… widzi przed sobÄ….}
 {199}{}{Kim jest Dan McGrew?}
 {200}{}{Kim jest doktor Johnson?}
 {201}{}{Kim jest burmistrz Ascorti?}
-{202}{}{Jak ci ludzie mog¹ pomóc w przejêciu w³adzy?}
-{203}{}{Dziêki za informacje. Do widzenia.}
-{204}{}{"Niebezpieczny" Dan McGrew, a, tak. Jest w³aœcicielem kopalni Morningstar. Ona i kopalnia Kokoweef s¹ jedynymi dwoma pozosta³ymi pracuj¹cymi kopalniami w Redding. S¹dzê, ¿e Dan przechyla siê na stronê Nowego Reno, gdybym mia³a zgadywaæ. Lubi, gdy jego górnicy s¹ szczêœliwi i na haju.}
+{202}{}{Jak ci ludzie mogÄ… pomÃ³c w przejÄ™ciu wÅ‚adzy?}
+{203}{}{DziÄ™ki za informacje. Do widzenia.}
+{204}{}{"Niebezpieczny" Dan McGrew, a, tak. Jest wÅ‚aÅ›cicielem kopalni Morningstar. Ona i kopalnia Kokoweef sÄ… jedynymi dwoma pozostaÅ‚ymi pracujÄ…cymi kopalniami w Redding. SÄ…dzÄ™, Å¼e Dan przechyla siÄ™ na stronÄ™ Nowego Reno, gdybym miaÅ‚a zgadywaÄ‡. Lubi, gdy jego gÃ³rnicy sÄ… szczÄ™Å›liwi i na haju.}
 {205}{}{Kim jest Marge LeBarge?}
 {206}{}{Kim jest doktor Johnson?}
 {207}{}{Kim jest burmistrz Ascorti?}
-{208}{}{Jak ci ludzie mog¹ pomóc w przejêciu w³adzy?}
-{209}{}{Dziêki za informacje. Do widzenia.}
-{210}{}{Ascorti jest merem. Prowadzi Asa Ascortiego w centrum. Zajmuje siê kupnem i sprzeda¿¹ mnóstwa rzeczy. Jest zawsze w centrum wszystkich spraw.}
-{211}{}{Ascorti jest merem Redding. Ale nie wiem dok³adnie, gdzie jest teraz. Nie widzia³am go ju¿ od pewnego czasu.}
-{212}{}{Mogê ciê zapytaæ o coœ jeszcze?}
-{213}{}{Chyba ju¿ wystarczaj¹co d³ugo ciê s³ucham. Do widzenia.}
-{214}{}{Kochanie, Jet jest wspania³ym narkotykiem, który pomaga mi odejœæ nieco od tej marnej egzystencji.}
-{215}{}{Pozwól, ¿e zapytam o coœ innego.}
-{216}{}{Interesuj¹ce. Dziêki i do widzenia.}
-{217}{}{Jet jest narkotykiem, który pozwala mi poczuæ, ¿e naprawdê ¿yjê. Z Jetem jestem prawdziwym ptakiem przestworzy.}
-{218}{}{Pozwól, ¿e zapytam o coœ innego.}
-{219}{}{Interesuj¹ce. Dziêki i do widzenia.}
-{220}{}{Mmmm, powiem ci, co to jest Jet. To jest pyszne, o to co to jest. Jet ma coœ dla ka¿dego.}
-{221}{}{Pozwól, ¿e zapytam o coœ innego.}
-{222}{}{Interesuj¹ce. Dziêki i do widzenia.}
-{223}{}{Jet to by³o coœ. Teraz wywraca mi flaki jak zu¿yta pralka. Nie polecam ¿adnej dawki z obecnej partii. Kochanie, lot na tym Jecie mo¿e siê skoñczyæ tylko katastrof¹.}
-{224}{}{Jasne, przepraszam. Pozwól, ¿e zapytam ciê o coœ innego.}
-{225}{}{Interesuj¹ce. Dziêki i do widzenia.}
-{226}{}{Coœ by³o strasznie nie w porz¹dku z ostatni¹ parti¹ Jetu, która przysz³a do miasta. Lot po nim koñczy³ siê tragicznie. Chyba skoñczy³am z lotami. Teraz pijê - zawsze jest coœ, na czym mo¿esz polegaæ.}
-{227}{}{Pozwól, ¿e zapytam o coœ innego.}
-{228}{}{Interesuj¹ce. Dziêki i do widzenia.}
-{229}{}{"Bezbolesny" doktor Johnson jest trochê zagadkowym cz³owiekiem. Nie wiem, sk¹d przyby³, ale jest prawdziwym doktorem. Jedyne miejsce, gdzie móg³ zdobyæ takie przeszkolenie, to Kryptopolis. Za³o¿ê siê, ¿e zainstalowali go tutaj, aby rozwija³ ich interesy. Chyba jednak musia³ kogoœ tam wkurzyæ, ¿e dosta³ takie zadanie. Ci Krypciarze nie lubi¹ zbytnio zewnêtrza.}
+{208}{}{Jak ci ludzie mogÄ… pomÃ³c w przejÄ™ciu wÅ‚adzy?}
+{209}{}{DziÄ™ki za informacje. Do widzenia.}
+{210}{}{Ascorti jest merem. Prowadzi Asa Ascortiego w centrum. Zajmuje siÄ™ kupnem i sprzedaÅ¼Ä… mnÃ³stwa rzeczy. Jest zawsze w centrum wszystkich spraw.}
+{211}{}{Ascorti jest merem Redding. Ale nie wiem dokÅ‚adnie, gdzie jest teraz. Nie widziaÅ‚am go juÅ¼ od pewnego czasu.}
+{212}{}{MogÄ™ ciÄ™ zapytaÄ‡ o coÅ› jeszcze?}
+{213}{}{Chyba juÅ¼ wystarczajÄ…co dÅ‚ugo ciÄ™ sÅ‚ucham. Do widzenia.}
+{214}{}{Kochanie, Jet jest wspaniaÅ‚ym narkotykiem, ktÃ³ry pomaga mi odejÅ›Ä‡ nieco od tej marnej egzystencji.}
+{215}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{216}{}{InteresujÄ…ce. DziÄ™ki i do widzenia.}
+{217}{}{Jet jest narkotykiem, ktÃ³ry pozwala mi poczuÄ‡, Å¼e naprawdÄ™ Å¼yjÄ™. Z Jetem jestem prawdziwym ptakiem przestworzy.}
+{218}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{219}{}{InteresujÄ…ce. DziÄ™ki i do widzenia.}
+{220}{}{Mmmm, powiem ci, co to jest Jet. To jest pyszne, o to co to jest. Jet ma coÅ› dla kaÅ¼dego.}
+{221}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{222}{}{InteresujÄ…ce. DziÄ™ki i do widzenia.}
+{223}{}{Jet to byÅ‚o coÅ›. Teraz wywraca mi flaki jak zuÅ¼yta pralka. Nie polecam Å¼adnej dawki z obecnej partii. Kochanie, lot na tym Jecie moÅ¼e siÄ™ skoÅ„czyÄ‡ tylko katastrofÄ….}
+{224}{}{Jasne, przepraszam. PozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{225}{}{InteresujÄ…ce. DziÄ™ki i do widzenia.}
+{226}{}{CoÅ› byÅ‚o strasznie nie w porzÄ…dku z ostatniÄ… partiÄ… Jetu, ktÃ³ra przyszÅ‚a do miasta. Lot po nim koÅ„czyÅ‚ siÄ™ tragicznie. Chyba skoÅ„czyÅ‚am z lotami. Teraz pijÄ™ - zawsze jest coÅ›, na czym moÅ¼esz polegaÄ‡.}
+{227}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{228}{}{InteresujÄ…ce. DziÄ™ki i do widzenia.}
+{229}{}{"Bezbolesny" doktor Johnson jest trochÄ™ zagadkowym czÅ‚owiekiem. Nie wiem, skÄ…d przybyÅ‚, ale jest prawdziwym doktorem. Jedyne miejsce, gdzie mÃ³gÅ‚ zdobyÄ‡ takie przeszkolenie, to Kryptopolis. ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e zainstalowali go tutaj, aby rozwijaÅ‚ ich interesy. Chyba jednak musiaÅ‚ kogoÅ› tam wkurzyÄ‡, Å¼e dostaÅ‚ takie zadanie. Ci Krypciarze nie lubiÄ… zbytnio zewnÄ™trza.}
 {230}{}{Kim jest Marge LeBarge?}
 {231}{}{Kim jest Dan McGrew?}
 {232}{}{Kim jest burmistrz Ascorti?}
-{233}{}{Jak ci ludzie mog¹ pomóc w przejêciu w³adzy?}
-{234}{}{Dziêki za informacje. Do widzenia.}
-{235}{}{Mer to cz³owiek, który wie, jak graæ po obu stronach i jeszcze capn¹æ œrodek. Ma bardzo ma³o skrupu³ów, ale najczêœciej bêdzie robi³ to, co dobre dla Redding, aby i jego interesy pozosta³y bezpieczne.}
+{233}{}{Jak ci ludzie mogÄ… pomÃ³c w przejÄ™ciu wÅ‚adzy?}
+{234}{}{DziÄ™ki za informacje. Do widzenia.}
+{235}{}{Mer to czÅ‚owiek, ktÃ³ry wie, jak graÄ‡ po obu stronach i jeszcze capnÄ…Ä‡ Å›rodek. Ma bardzo maÅ‚o skrupuÅ‚Ã³w, ale najczÄ™Å›ciej bÄ™dzie robiÅ‚ to, co dobre dla Redding, aby i jego interesy pozostaÅ‚y bezpieczne.}
 {236}{}{Kim jest Marge LeBarge?}
 {237}{}{Kim jest Dan McGrew?}
 {238}{}{Kim jest doktor Johnson?}
-{239}{}{Jak ci ludzie mog¹ pomóc w przejêciu w³adzy?}
-{240}{}{Dziêki za informacje. Do widzenia.}
+{239}{}{Jak ci ludzie mogÄ… pomÃ³c w przejÄ™ciu wÅ‚adzy?}
+{240}{}{DziÄ™ki za informacje. Do widzenia.}

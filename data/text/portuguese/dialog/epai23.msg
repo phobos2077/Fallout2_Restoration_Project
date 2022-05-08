@@ -1,7 +1,7 @@
-{100}{}{Você vê um terminal.}
-{101}{}{Você vê uma unidade de controle do campo de força.}
-{200}{}{Terminal de controle de Campo de força. Digite o comando:}
-{201}{}{Desativar o campo de força.}
+{100}{}{VocÃª vÃª um terminal.}
+{101}{}{VocÃª vÃª uma unidade de controle do campo de forÃ§a.}
+{200}{}{Terminal de controle de Campo de forÃ§a. Digite o comando:}
+{201}{}{Desativar o campo de forÃ§a.}
 {202}{}{Sair.}
-{203}{}{Você violou a interface sem sucesso. Você tem certeza de que poderia quebrá-lo com habilidades mais elevadas.}
-{204}{}{[Depois de vários minutos de retoque, uma contagem decrescente de 5 segundos é exibida junto com uma mensagem.] Liberando espécimes ...}
+{203}{}{VocÃª violou a interface sem sucesso. VocÃª tem certeza de que poderia quebrÃ¡-lo com habilidades mais elevadas.}
+{204}{}{[Depois de vÃ¡rios minutos de retoque, uma contagem decrescente de 5 segundos Ã© exibida junto com uma mensagem.] Liberando espÃ©cimes ...}

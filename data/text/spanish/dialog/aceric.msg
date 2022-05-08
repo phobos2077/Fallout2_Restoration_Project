@@ -1,8 +1,8 @@
-{100}{}{Ves a tu sobrino, Feargus, llorando por algún motivo.}
-{101}{}{¡Buah! Arregla el pozo por favor.}
-{102}{}{¡Buaah! ¡Tengo mucha sed, pero el pozo está roto!}
-{103}{}{¡Buaaah! Hay que arreglar el pozo.}
-{104}{}{¡Oye, gracias por arreglar el pozo!}
+{100}{}{Ves a tu sobrino, Feargus, llorando por algÃºn motivo.}
+{101}{}{Â¡Buah! Arregla el pozo por favor.}
+{102}{}{Â¡Buaah! Â¡Tengo mucha sed, pero el pozo estÃ¡ roto!}
+{103}{}{Â¡Buaaah! Hay que arreglar el pozo.}
+{104}{}{Â¡Oye, gracias por arreglar el pozo!}
 {105}{}{Ten cuidado.}
-{106}{}{El pozo está arreglado. ¡Lo lograste!}
+{106}{}{El pozo estÃ¡ arreglado. Â¡Lo lograste!}
 {200}{}{Ves a tu sobrino, Feargus.}

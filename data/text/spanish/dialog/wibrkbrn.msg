@@ -1,6 +1,6 @@
-{100}{}{Esto es un recipiente cibernÈtico. Parece que puede ser reparado
+{100}{}{Esto es un recipiente cibern√©tico. Parece que puede ser reparado
  con las piezas necesarias.}
 {101}{}{Reemplazas la unidad motriz rota.}
 {102}{}{Conectas el cerebro a la interfaz neuronal del recipiente.}
-{103}{}{La reserva de gel biomÈdico ahora est· llena.}
+{103}{}{La reserva de gel biom√©dico ahora est√° llena.}
 {104}{}{Aspecto del todo listo para ser activado.}

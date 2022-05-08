@@ -1,128 +1,128 @@
-{0}{}{Biztosan ki akarsz lépni?}
-{1}{}{Demó verzió}
-{2}{}{Alap Karakter használata.}
-{3}{}{Kép elmentve.}
-{4}{}{Gyorstöltés sikerült.}
-{5}{}{Gyorsmentés sikerült.}
+{0}{}{Biztosan ki akarsz lÃ©pni?}
+{1}{}{DemÃ³ verziÃ³}
+{2}{}{Alap Karakter hasznÃ¡lata.}
+{3}{}{KÃ©p elmentve.}
+{4}{}{GyorstÃ¶ltÃ©s sikerÃ¼lt.}
+{5}{}{GyorsmentÃ©s sikerÃ¼lt.}
 {6}{}{Demo time limit exceeded.}
 {7}{}{Pip-Boy not available in combat!}
-{8}{}{Hiba a kép mentése során.}
+{8}{}{Hiba a kÃ©p mentÃ©se sorÃ¡n.}
 {9}{}{INTRO}
 {10}{}{NEW GAME}
-{11}{}{BETÖLTÉS}
-{12}{}{OPCIÓK}
+{11}{}{BETÃ–LTÃ‰S}
+{12}{}{OPCIÃ“K}
 {13}{}{CREDITS}
 {14}{}{EXIT}
-{15}{}{Akció Pontok}
-{16}{}{Életpont}
-{17}{}{A mozgásérzékel? nincs installálva.}
-{18}{}{A mozgásérzékel? lemerült.}
+{15}{}{AkciÃ³ Pontok}
+{16}{}{Ã‰letpont}
+{17}{}{A mozgÃ¡sÃ©rzÃ©kel? nincs installÃ¡lva.}
+{18}{}{A mozgÃ¡sÃ©rzÃ©kel? lemerÃ¼lt.}
 {20}{}{Copyright(c) 1998 Interplay Productions.  All rights reserved.}
-{30}{}{Folytatod a játékot?}
-{50}{}{A Fallout 2 indításához szükség van a CD-re!}
-{100}{}{Hiba a beállítások mentésében!}
-{101}{}{A játék beállításait nem sikerült elmenteni!}
-{1000}{}{Rosszul érzed magad.}
-{1001}{}{Nagyon rosszul vagy, és er?teljes hányást követ?en még fáradt is.}
-{1002}{}{Nagyon kimerültél, és nem bírod abbahagyni a hányást. Ez er?sen kihat a felépülési id?dre.}
-{1003}{}{Iszonyúan vérzel. Hányingered van, és hullik a hajad.}
-{1004}{}{Iszonyúan és egyfolytában vérzel. Vért hánysz, a b?röd pedig lemállik a csontjaidról.}
-{1005}{}{Bels? vérzésed és hasmenésed van. Fel vagy fújódva és agonizálsz.}
-{1006}{}{Meghaltál a sugárfert?zést?l.}
-{1007}{}{Nagy mennyiség? sugárzást kaptál.}
-{1008}{}{A Geiger-számláló kattog.}
-{1009}{}{A Geiger-számláló vadul kattog.}
+{30}{}{Folytatod a jÃ¡tÃ©kot?}
+{50}{}{A Fallout 2 indÃ­tÃ¡sÃ¡hoz szÃ¼ksÃ©g van a CD-re!}
+{100}{}{Hiba a beÃ¡llÃ­tÃ¡sok mentÃ©sÃ©ben!}
+{101}{}{A jÃ¡tÃ©k beÃ¡llÃ­tÃ¡sait nem sikerÃ¼lt elmenteni!}
+{1000}{}{Rosszul Ã©rzed magad.}
+{1001}{}{Nagyon rosszul vagy, Ã©s er?teljes hÃ¡nyÃ¡st kÃ¶vet?en mÃ©g fÃ¡radt is.}
+{1002}{}{Nagyon kimerÃ¼ltÃ©l, Ã©s nem bÃ­rod abbahagyni a hÃ¡nyÃ¡st. Ez er?sen kihat a felÃ©pÃ¼lÃ©si id?dre.}
+{1003}{}{IszonyÃºan vÃ©rzel. HÃ¡nyingered van, Ã©s hullik a hajad.}
+{1004}{}{IszonyÃºan Ã©s egyfolytÃ¡ban vÃ©rzel. VÃ©rt hÃ¡nysz, a b?rÃ¶d pedig lemÃ¡llik a csontjaidrÃ³l.}
+{1005}{}{Bels? vÃ©rzÃ©sed Ã©s hasmenÃ©sed van. Fel vagy fÃºjÃ³dva Ã©s agonizÃ¡lsz.}
+{1006}{}{MeghaltÃ¡l a sugÃ¡rfert?zÃ©st?l.}
+{1007}{}{Nagy mennyisÃ©g? sugÃ¡rzÃ¡st kaptÃ¡l.}
+{1008}{}{A Geiger-szÃ¡mlÃ¡lÃ³ kattog.}
+{1009}{}{A Geiger-szÃ¡mlÃ¡lÃ³ vadul kattog.}
 {2000}{}{Nem tudsz oda menni.}
-{2001}{}{A zár beragadt.}
-{3000}{}{Megmérgeztek!}
-{3001}{}{A méregt?l sebzést szenvedsz.}
+{2001}{}{A zÃ¡r beragadt.}
+{3000}{}{MegmÃ©rgeztek!}
+{3001}{}{A mÃ©regt?l sebzÃ©st szenvedsz.}
 {3002}{}{Kicsivel jobban vagy.}
-{3003}{}{Jobban érzed magad.}
-{4000}{}{Hozzá-nemértésed miatt a kelleténél korábban detonált a robbanószer.}
-{5000}{}{tárgyat használ:}
-{5001}{}{kifogyott a l?szerb?l. Így most használhatatlan az üres}
-{5002}{}{l?szert készít el?, és máris harcra kész a megtöltött}
-{6000}{}{Mir?l kérdezel?}
+{3003}{}{Jobban Ã©rzed magad.}
+{4000}{}{HozzÃ¡-nemÃ©rtÃ©sed miatt a kelletÃ©nÃ©l korÃ¡bban detonÃ¡lt a robbanÃ³szer.}
+{5000}{}{tÃ¡rgyat hasznÃ¡l:}
+{5001}{}{kifogyott a l?szerb?l. Ãgy most hasznÃ¡lhatatlan az Ã¼res}
+{5002}{}{l?szert kÃ©szÃ­t el?, Ã©s mÃ¡ris harcra kÃ©sz a megtÃ¶ltÃ¶tt}
+{6000}{}{Mir?l kÃ©rdezel?}
 {7000}{}{You aren't wearing the Pip-Boy!}
-{8000}{}{Túl vagy terhelve.}
-{8001}{}{%s túl van terhelve.}
-{8500}{}{A túlélési képzettséged sikeres használatáért %d tapasztalati pontot kapsz.}
-{9000}{}{%s újabb képességekre tett szert.}
-{9010}{}{Azta! Hirtelen megszállt a tapasztalat!}
-{9011}{}{Szintlépés, bébi! Szintlépés!}
+{8000}{}{TÃºl vagy terhelve.}
+{8001}{}{%s tÃºl van terhelve.}
+{8500}{}{A tÃºlÃ©lÃ©si kÃ©pzettsÃ©ged sikeres hasznÃ¡latÃ¡Ã©rt %d tapasztalati pontot kapsz.}
+{9000}{}{%s Ãºjabb kÃ©pessÃ©gekre tett szert.}
+{9010}{}{Azta! Hirtelen megszÃ¡llt a tapasztalat!}
+{9011}{}{SzintlÃ©pÃ©s, bÃ©bi! SzintlÃ©pÃ©s!}
 {9012}{}{I feel a great disturbance in the force. As if all my skills have gained percentage points.}
-{9013}{}{Szívósabb lettem! Er?sebb! Okosabb!}
-{9020}{}{H???! Úgy érzem, korlátlan tapasztalathoz jutottam és er?sebb lettem!}
-{9021}{}{Aaagggh! Izmok... duzzadnak... Képzettségek... n?nek... Szintlépés...}
-{9022}{}{Adjatok egy diplomát, meg egy olyan hülye rojtos sipkát, mert épp most végeztem!}
-{9023}{}{Hé, er?sebb lettem! Ezért kapok fizetésemelést?}
-{9030}{}{A türelem rózsát terem...}
-{9031}{}{Heh. Ezek szerint még ez az öreg róka is tud tanulni új trükköket.}
-{9032}{}{Úgy látszik, megért ennyit utazgatni.}
-{9033}{}{Tanultam néhány új trükköt.}
-{9040}{}{Vén-csont tanít. Mi tanulunk.}
+{9013}{}{SzÃ­vÃ³sabb lettem! Er?sebb! Okosabb!}
+{9020}{}{H???! Ãšgy Ã©rzem, korlÃ¡tlan tapasztalathoz jutottam Ã©s er?sebb lettem!}
+{9021}{}{Aaagggh! Izmok... duzzadnak... KÃ©pzettsÃ©gek... n?nek... SzintlÃ©pÃ©s...}
+{9022}{}{Adjatok egy diplomÃ¡t, meg egy olyan hÃ¼lye rojtos sipkÃ¡t, mert Ã©pp most vÃ©geztem!}
+{9023}{}{HÃ©, er?sebb lettem! EzÃ©rt kapok fizetÃ©semelÃ©st?}
+{9030}{}{A tÃ¼relem rÃ³zsÃ¡t terem...}
+{9031}{}{Heh. Ezek szerint mÃ©g ez az Ã¶reg rÃ³ka is tud tanulni Ãºj trÃ¼kkÃ¶ket.}
+{9032}{}{Ãšgy lÃ¡tszik, megÃ©rt ennyit utazgatni.}
+{9033}{}{Tanultam nÃ©hÃ¡ny Ãºj trÃ¼kkÃ¶t.}
+{9040}{}{VÃ©n-csont tanÃ­t. Mi tanulunk.}
 {9041}{}{Tanulunk a Szellemekt?l, ember.}
 {9042}{}{Tanulunk.}
-{9043}{}{A Nagy Szellem beleszállt Sulikba.}
-{9044}{}{Mi most már okosabb lettünk.}
-{9045}{}{Mi tanulunk Vén-csonttóll.}
-{9050}{}{H??... ett?l éppenséggel okosabb lettem.}
-{9051}{}{Ennek a b?ne fog megölni.}
-{9052}{}{El sem hiszem, hogy eddig túléltem.}
-{9060}{}{Vaúú!}
-{9061}{}{Vaúú!}
-{9062}{}{Vaúú!}
-{9063}{}{Vaúú!}
-{9064}{}{Vaú! Vaú!}
-{9070}{}{Tanultam néhány új dolgot!}
-{9071}{}{Tanultam néhány új dolgot!}
-{9080}{}{Szerintem most újabb tudásra tettem szert!}
-{9081}{}{A tudás világossága ajándék.}
-{9082}{}{Szerintem szépen fejl?dök.}
+{9043}{}{A Nagy Szellem beleszÃ¡llt Sulikba.}
+{9044}{}{Mi most mÃ¡r okosabb lettÃ¼nk.}
+{9045}{}{Mi tanulunk VÃ©n-csonttÃ³ll.}
+{9050}{}{H??... ett?l Ã©ppensÃ©ggel okosabb lettem.}
+{9051}{}{Ennek a b?ne fog megÃ¶lni.}
+{9052}{}{El sem hiszem, hogy eddig tÃºlÃ©ltem.}
+{9060}{}{VaÃºÃº!}
+{9061}{}{VaÃºÃº!}
+{9062}{}{VaÃºÃº!}
+{9063}{}{VaÃºÃº!}
+{9064}{}{VaÃº! VaÃº!}
+{9070}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9071}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9080}{}{Szerintem most Ãºjabb tudÃ¡sra tettem szert!}
+{9081}{}{A tudÃ¡s vilÃ¡gossÃ¡ga ajÃ¡ndÃ©k.}
+{9082}{}{Szerintem szÃ©pen fejl?dÃ¶k.}
 {9083}{}{I am surpassing even Gruthar in knowledge.}
-{9084}{}{Még a falka tagjainál is er?sebb vagyok.}
-{9085}{}{Most már én vagyok falka leghatalmasabbika.}
-{9090}{}{Tanultam néhány új dolgot!}
-{9091}{}{Tanultam néhány új dolgot!}
-{9100}{}{Tanultam néhány új dolgot!}
-{9101}{}{Tanultam néhány új dolgot!}
-{9110}{}{Tanultam néhány új dolgot!}
-{9111}{}{Tanultam néhány új dolgot!}
-{9120}{}{INFORMÁCIÓ ELEMZÉSE KÉSZ. RENDSZER FEJLESZTÉSE.}
-{9121}{}{ÚJ INFORMÁCIÓT SZEREZTEM. TÁMADÓ RENDSZER FEJLESZTÉSE.}
-{9122}{}{RENDSZER B?VÍTÉSE KÉSZ.}
-{9123}{}{CÉLZÓ RENDSZER BEÁLLÍTVA. 20%-KAL N?TT A PONTOSSÁG.}
-{9124}{}{ELÉRTEM AZ OPTIMÁLIS TELJESÍTMÉNYT.}
-{9130}{}{F?nök! Asszem, ráéreztem erre a dologra.}
-{9131}{}{Egyre jobb vagyok! Mondtam, hogy nem okozok csalódást, f?nök.}
-{9132}{}{Hé... várj... most már megvan. Szerintem tudnék még fejl?dni.}
-{9133}{}{Látod, f?nök?! Még egy ilyen vén róka is tud tanulni!}
-{9134}{}{Tudod mit, f?nök? Asszem, tanultam egy-két új dolgot.}
-{9135}{}{Egyre jobb vagyok ebben. Látod, F?nök? Id?vel minden jó dolog még jobb lesz.}
-{9140}{}{Tanultam néhány új dolgot!}
-{9141}{}{Tanultam néhány új dolgot!}
-{9150}{}{Tanultam néhány új dolgot!}
-{9151}{}{Tanultam néhány új dolgot!}
-{9160}{}{Tanultam néhány új dolgot!}
-{9161}{}{Tanultam néhány új dolgot!}
-{9170}{}{Tanultam néhány új dolgot!}
-{9171}{}{Tanultam néhány új dolgot!}
-{9180}{}{Tanultam néhány új dolgot!}
-{9181}{}{Tanultam néhány új dolgot!}
-{9190}{}{Vaú, VAÚ!}
-{9191}{}{Vaú, VAÚ, VAÚÚÚÚ!}
-{9192}{}{Vaú, VAÚ, VAÚÚÚÚ!}
-{9193}{}{Vaú, VAÚ, VAÚÚÚÚ!}
-{9194}{}{Vaú, VAÚ, VAÚÚÚÚ!}
-{9195}{}{Va-VAÚÚÚÚ!}
+{9084}{}{MÃ©g a falka tagjainÃ¡l is er?sebb vagyok.}
+{9085}{}{Most mÃ¡r Ã©n vagyok falka leghatalmasabbika.}
+{9090}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9091}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9100}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9101}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9110}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9111}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9120}{}{INFORMÃCIÃ“ ELEMZÃ‰SE KÃ‰SZ. RENDSZER FEJLESZTÃ‰SE.}
+{9121}{}{ÃšJ INFORMÃCIÃ“T SZEREZTEM. TÃMADÃ“ RENDSZER FEJLESZTÃ‰SE.}
+{9122}{}{RENDSZER B?VÃTÃ‰SE KÃ‰SZ.}
+{9123}{}{CÃ‰LZÃ“ RENDSZER BEÃLLÃTVA. 20%-KAL N?TT A PONTOSSÃG.}
+{9124}{}{ELÃ‰RTEM AZ OPTIMÃLIS TELJESÃTMÃ‰NYT.}
+{9130}{}{F?nÃ¶k! Asszem, rÃ¡Ã©reztem erre a dologra.}
+{9131}{}{Egyre jobb vagyok! Mondtam, hogy nem okozok csalÃ³dÃ¡st, f?nÃ¶k.}
+{9132}{}{HÃ©... vÃ¡rj... most mÃ¡r megvan. Szerintem tudnÃ©k mÃ©g fejl?dni.}
+{9133}{}{LÃ¡tod, f?nÃ¶k?! MÃ©g egy ilyen vÃ©n rÃ³ka is tud tanulni!}
+{9134}{}{Tudod mit, f?nÃ¶k? Asszem, tanultam egy-kÃ©t Ãºj dolgot.}
+{9135}{}{Egyre jobb vagyok ebben. LÃ¡tod, F?nÃ¶k? Id?vel minden jÃ³ dolog mÃ©g jobb lesz.}
+{9140}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9141}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9150}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9151}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9160}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9161}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9170}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9171}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9180}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9181}{}{Tanultam nÃ©hÃ¡ny Ãºj dolgot!}
+{9190}{}{VaÃº, VAÃš!}
+{9191}{}{VaÃº, VAÃš, VAÃšÃšÃšÃš!}
+{9192}{}{VaÃº, VAÃš, VAÃšÃšÃšÃš!}
+{9193}{}{VaÃº, VAÃš, VAÃšÃšÃšÃš!}
+{9194}{}{VaÃº, VAÃš, VAÃšÃšÃšÃš!}
+{9195}{}{Va-VAÃšÃšÃšÃš!}
 {9200}{}{}
 {9210}{}{}
 {9220}{}{}
 {9230}{}{}
-{9240}{}{Program fejlesztése folyamatban, Mester... Fejlesztés kész.}
-{9241}{}{Szoftver telepítése, Mester... 2.0 Verzió telepítve.}
-{9242}{}{Hardver fejlesztése, Mester... Rendszer átlagos.}
-{9243}{}{Hardver fejlesztése, Mester... Rendszer optimális!}
+{9240}{}{Program fejlesztÃ©se folyamatban, Mester... FejlesztÃ©s kÃ©sz.}
+{9241}{}{Szoftver telepÃ­tÃ©se, Mester... 2.0 VerziÃ³ telepÃ­tve.}
+{9242}{}{Hardver fejlesztÃ©se, Mester... Rendszer Ã¡tlagos.}
+{9243}{}{Hardver fejlesztÃ©se, Mester... Rendszer optimÃ¡lis!}
 {9250}{}{}
 {9260}{}{There's more than one way to skin a cat.}
 {9261}{}{The lower I fall, the higher I fly.}

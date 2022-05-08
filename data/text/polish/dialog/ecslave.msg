@@ -1,5 +1,5 @@
-{100}{}{Nie rób mi krzywdy!}
-{101}{}{Nale¿ê teraz do ciebie?}
-{102}{}{B³agam, puœæ mnie wolno.}
-{103}{}{Marzê o wolnoœci.}
+{100}{}{Nie rÃ³b mi krzywdy!}
+{101}{}{NaleÅ¼Ä™ teraz do ciebie?}
+{102}{}{BÅ‚agam, puÅ›Ä‡ mnie wolno.}
+{103}{}{MarzÄ™ o wolnoÅ›ci.}
 {104}{}{W nogi!!}

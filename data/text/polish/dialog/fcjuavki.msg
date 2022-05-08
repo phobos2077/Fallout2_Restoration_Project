@@ -1,132 +1,132 @@
-{100}{}{Widzisz parê w zadziwiaj¹co dobrej kondycji.}
-{101}{}{Widzisz Juana Cruza i Vikki Goldman, parê bardzo podrzêdnych gwiazdek filmowych z Nowego Reno.}
-{102}{}{Widzisz ciemnow³osego mê¿czyznê i kobietê o blond w³osach, obydwoje bardzo atrakcyjni. Bije od nich ¿¹dza zaznania dzikiej rozkoszy.}
-{103}{}{ON: Witam! Jestem Juan Cruz! Ona: A ja nazywam siê Vikki Goldman! Oboje: Jesteœmy s³awami! I popieramy Centrologiê! Oboje: Proszê wzi¹æ pod uwagê, ¿e wszelkie podobieñstwo pomiêdzy nami, a ludŸmi lub instytucjami, ¿ywymi lub martwymi, jest ca³kowicie przypadkowe.}
+{100}{}{Widzisz parÄ™ w zadziwiajÄ…co dobrej kondycji.}
+{101}{}{Widzisz Juana Cruza i Vikki Goldman, parÄ™ bardzo podrzÄ™dnych gwiazdek filmowych z Nowego Reno.}
+{102}{}{Widzisz ciemnowÅ‚osego mÄ™Å¼czyznÄ™ i kobietÄ™ o blond wÅ‚osach, obydwoje bardzo atrakcyjni. Bije od nich Å¼Ä…dza zaznania dzikiej rozkoszy.}
+{103}{}{ON: Witam! Jestem Juan Cruz! Ona: A ja nazywam siÄ™ Vikki Goldman! Oboje: JesteÅ›my sÅ‚awami! I popieramy CentrologiÄ™! Oboje: ProszÄ™ wziÄ…Ä‡ pod uwagÄ™, Å¼e wszelkie podobieÅ„stwo pomiÄ™dzy nami, a ludÅºmi lub instytucjami, Å¼ywymi lub martwymi, jest caÅ‚kowicie przypadkowe.}
 {104}{}{A? Cluz? Doldnin?}
-{105}{}{S³awy? Co czyni was s³awnymi?}
-{106}{}{Podobieñstwa? Co macie na myœli?}
-{107}{}{Chcê zostaæ Centrologiem. W jaki sposób mogê siê przy³¹czyæ?}
-{108}{}{Hej, Vikki, David H. kocha siê w tobie.}
-{109}{}{Œwietnie. Muszê ju¿ iœæ.}
-{110}{}{On: Biedne dziecko pustkowia. Ona: Mo¿e oœwiecenie tu pomo¿e? On: Tak. Ty. Czy chcesz doznaæ oœwiecenia?}
+{105}{}{SÅ‚awy? Co czyni was sÅ‚awnymi?}
+{106}{}{PodobieÅ„stwa? Co macie na myÅ›li?}
+{107}{}{ChcÄ™ zostaÄ‡ Centrologiem. W jaki sposÃ³b mogÄ™ siÄ™ przyÅ‚Ä…czyÄ‡?}
+{108}{}{Hej, Vikki, David H. kocha siÄ™ w tobie.}
+{109}{}{Åšwietnie. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{110}{}{On: Biedne dziecko pustkowia. Ona: MoÅ¼e oÅ›wiecenie tu pomoÅ¼e? On: Tak. Ty. Czy chcesz doznaÄ‡ oÅ›wiecenia?}
 {111}{}{'ak!}
 {112}{}{Nie!}
-{113}{}{Ona: Mam wielk¹ nadziejê, ¿e to pomog³o. Wiele szczêœcia w twojej podró¿y!}
+{113}{}{Ona: Mam wielkÄ… nadziejÄ™, Å¼e to pomogÅ‚o. Wiele szczÄ™Å›cia w twojej podrÃ³Å¼y!}
 {114}{}{Do dzenia!}
 {115}{}{Na pewno!}
-{116}{}{On: Je¿eli nie chcesz przyj¹æ naszej pomocy... Ona: ...to nie mo¿emy ci pomóc. ¯egnaj.}
+{116}{}{On: JeÅ¼eli nie chcesz przyjÄ…Ä‡ naszej pomocy... Ona: ...to nie moÅ¼emy ci pomÃ³c. Å»egnaj.}
 {117}{}{Na razie!}
-{118}{}{On: Widzisz? Nauki Centrum znowu pokaza³y swoj¹ wartoœæ!}
-{119}{}{Mam kilka pytañ.}
-{120}{}{Dziêki! Na razie!}
-{121}{}{Ona: Ale¿ dzia³amy w biznesie filmowym w Nowym Reno. Nakrêciliœmy setki filmów, wiele z nich jest ju¿ klasykami, jak "Top gan", "Ryœka biznes", czy "Mission possible 2". Oto, co czyni z nas gwiazdy.}
-{122}{}{On: Ale, jako osoba zwi¹zana z tym Przemys³em, ju¿ o tym dawno wiesz.}
-{123}{}{Mi³o jest w koñcu skojarzyæ twarze z nazwiskami.}
-{124}{}{Co z tego, ¿e WY popieracie Centrologiê? Przecie¿ decyzja o tym, czy bêdê j¹ popieraæ, nale¿y do mnie!}
-{125}{}{Rozumiem. Có¿, mam kilka innych pytañ.}
-{126}{}{Dziêkujê. Do zobaczenia.}
-{127}{}{Ona: O tak, z pewnoœci¹ musisz samodzielnie podejmowaæ decyzje. On: A dziêki ostatniej ksi¹¿ce Hubberta Centrobela mo¿esz nauczyæ siê, jak dokonaæ W£AŒCIWEGO wyboru!}
-{128}{}{Dziêki jego ostatniej ksi¹¿ce? Czy on nie jest przypadkiem martwy?}
-{129}{}{"W³aœciwego" wyboru. Jasne. A co z woln¹ wol¹?}
-{130}{}{Brzmi wspaniale. Jak mogê siê przy³¹czyæ?}
-{131}{}{Jasne. Mam wiêcej pytañ.}
+{118}{}{On: Widzisz? Nauki Centrum znowu pokazaÅ‚y swojÄ… wartoÅ›Ä‡!}
+{119}{}{Mam kilka pytaÅ„.}
+{120}{}{DziÄ™ki! Na razie!}
+{121}{}{Ona: AleÅ¼ dziaÅ‚amy w biznesie filmowym w Nowym Reno. NakrÄ™ciliÅ›my setki filmÃ³w, wiele z nich jest juÅ¼ klasykami, jak "Top gan", "RyÅ›ka biznes", czy "Mission possible 2". Oto, co czyni z nas gwiazdy.}
+{122}{}{On: Ale, jako osoba zwiÄ…zana z tym PrzemysÅ‚em, juÅ¼ o tym dawno wiesz.}
+{123}{}{MiÅ‚o jest w koÅ„cu skojarzyÄ‡ twarze z nazwiskami.}
+{124}{}{Co z tego, Å¼e WY popieracie CentrologiÄ™? PrzecieÅ¼ decyzja o tym, czy bÄ™dÄ™ jÄ… popieraÄ‡, naleÅ¼y do mnie!}
+{125}{}{Rozumiem. CÃ³Å¼, mam kilka innych pytaÅ„.}
+{126}{}{DziÄ™kujÄ™. Do zobaczenia.}
+{127}{}{Ona: O tak, z pewnoÅ›ciÄ… musisz samodzielnie podejmowaÄ‡ decyzje. On: A dziÄ™ki ostatniej ksiÄ…Å¼ce Hubberta Centrobela moÅ¼esz nauczyÄ‡ siÄ™, jak dokonaÄ‡ WÅAÅšCIWEGO wyboru!}
+{128}{}{DziÄ™ki jego ostatniej ksiÄ…Å¼ce? Czy on nie jest przypadkiem martwy?}
+{129}{}{"WÅ‚aÅ›ciwego" wyboru. Jasne. A co z wolnÄ… wolÄ…?}
+{130}{}{Brzmi wspaniale. Jak mogÄ™ siÄ™ przyÅ‚Ä…czyÄ‡?}
+{131}{}{Jasne. Mam wiÄ™cej pytaÅ„.}
 {132}{}{Ta. Na razie.}
-{133}{}{On: Wiêcej pytañ? Wiêc mamy na nie odpowiedzi! Oczywiœcie dziêki ³asce Wielkiego Ko³a.}
-{134}{}{Jak mogê siê przy³¹czyæ?}
-{135}{}{Co czyni was s³awnymi?}
-{136}{}{Czy decyzje nie powinny byæ podejmowane przeze mnie, a nie podszeptywanie przez gwiazdy?}
-{137}{}{Jak mogê siê przy³¹czyæ?}
-{138}{}{Hej, Vikki, David H. kocha siê w tobie.}
-{139}{}{Nie, ¿adnych wiêcej pytañ.}
-{140}{}{Ona: [Puste, lodowate spojrzenie] On: Dziêkujê ci.}
-{141}{}{Ee... Mam kilka pytañ.}
-{142}{}{To ju¿ wszystko! Do zobaczenia!}
-{143}{}{On: Martwy? Cha, cha! Byæ mo¿e. Uwa¿amy raczej, ¿e uszeregowa³ ju¿ wszystkie swoje neurodyny i do³¹czy³ do Gwiezdnego Ojca. Ona: Robimy du¿y u¿ytek z jego rozrzuconych notatek i na wpó³ ukoñczonych rêkopisów, aby nieœæ s³owo Centrum. On: Na przyk³ad, znaleŸliœmy œwistek, na którym napisano "2 tuziny jajek/mleko/srajtaœma". Z oczywistych wzglêdów jest to wa¿ne. Ludzie musz¹ o tym us³yszeæ.}
-{144}{}{Ee... taaa. Mam jeszcze kilka pytañ.}
-{145}{}{Co? Tylko dlatego, ¿e jakiœ wariat coæ nabazgra³, wy musicie to WSZYSTKO publikowaæ?}
-{146}{}{Tak! Wielbiæ Centrum! Widzê œwiat³oœæ! Jak mogê siê przy³¹czyæ?}
+{133}{}{On: WiÄ™cej pytaÅ„? WiÄ™c mamy na nie odpowiedzi! OczywiÅ›cie dziÄ™ki Å‚asce Wielkiego KoÅ‚a.}
+{134}{}{Jak mogÄ™ siÄ™ przyÅ‚Ä…czyÄ‡?}
+{135}{}{Co czyni was sÅ‚awnymi?}
+{136}{}{Czy decyzje nie powinny byÄ‡ podejmowane przeze mnie, a nie podszeptywanie przez gwiazdy?}
+{137}{}{Jak mogÄ™ siÄ™ przyÅ‚Ä…czyÄ‡?}
+{138}{}{Hej, Vikki, David H. kocha siÄ™ w tobie.}
+{139}{}{Nie, Å¼adnych wiÄ™cej pytaÅ„.}
+{140}{}{Ona: [Puste, lodowate spojrzenie] On: DziÄ™kujÄ™ ci.}
+{141}{}{Ee... Mam kilka pytaÅ„.}
+{142}{}{To juÅ¼ wszystko! Do zobaczenia!}
+{143}{}{On: Martwy? Cha, cha! ByÄ‡ moÅ¼e. UwaÅ¼amy raczej, Å¼e uszeregowaÅ‚ juÅ¼ wszystkie swoje neurodyny i doÅ‚Ä…czyÅ‚ do Gwiezdnego Ojca. Ona: Robimy duÅ¼y uÅ¼ytek z jego rozrzuconych notatek i na wpÃ³Å‚ ukoÅ„czonych rÄ™kopisÃ³w, aby nieÅ›Ä‡ sÅ‚owo Centrum. On: Na przykÅ‚ad, znaleÅºliÅ›my Å›wistek, na ktÃ³rym napisano "2 tuziny jajek/mleko/srajtaÅ›ma". Z oczywistych wzglÄ™dÃ³w jest to waÅ¼ne. Ludzie muszÄ… o tym usÅ‚yszeÄ‡.}
+{144}{}{Ee... taaa. Mam jeszcze kilka pytaÅ„.}
+{145}{}{Co? Tylko dlatego, Å¼e jakiÅ› wariat coÄ‡ nabazgraÅ‚, wy musicie to WSZYSTKO publikowaÄ‡?}
+{146}{}{Tak! WielbiÄ‡ Centrum! WidzÄ™ Å›wiatÅ‚oÅ›Ä‡! Jak mogÄ™ siÄ™ przyÅ‚Ä…czyÄ‡?}
 {147}{}{Ta. Na razie.}
-{148}{}{On: Tak. Niektórzy ludzie mogliby s¹dziæ, ¿e przedstawiamy prawdziwych ludzi. Ona: Ale prawda jest taka, ¿e jest to ca³kowity przypadek.}
-{149}{}{Uff, kamieñ spad³ mi z serca. Hmm, mam jeszcze inne pytania.}
+{148}{}{On: Tak. NiektÃ³rzy ludzie mogliby sÄ…dziÄ‡, Å¼e przedstawiamy prawdziwych ludzi. Ona: Ale prawda jest taka, Å¼e jest to caÅ‚kowity przypadek.}
+{149}{}{Uff, kamieÅ„ spadÅ‚ mi z serca. Hmm, mam jeszcze inne pytania.}
 {150}{}{Rozumiem. Do widzenia.}
-{151}{}{Ona: Oczywiœcie, ¿e masz swoj¹ w³asna, woln¹ wolê. Mo¿esz wybraæ nape³nienie swoich neurodyn brudem tego œwiata. On: Mo¿esz wybraæ brak radoœci, bezsensown¹ egzystencjê wœród rasy szczurów. Obydwoje: Albo mo¿esz dost¹piæ wiêkszego zrozumienia ¿ycia poprzez Wielkie Kolo.}
+{151}{}{Ona: OczywiÅ›cie, Å¼e masz swojÄ… wÅ‚asna, wolnÄ… wolÄ™. MoÅ¼esz wybraÄ‡ napeÅ‚nienie swoich neurodyn brudem tego Å›wiata. On: MoÅ¼esz wybraÄ‡ brak radoÅ›ci, bezsensownÄ… egzystencjÄ™ wÅ›rÃ³d rasy szczurÃ³w. Obydwoje: Albo moÅ¼esz dostÄ…piÄ‡ wiÄ™kszego zrozumienia Å¼ycia poprzez Wielkie Kolo.}
 {152}{}{Neurodyny? Co to takiego?}
-{153}{}{Brzmi wspaniale. Jak mogê siê przy³¹czyæ?}
-{154}{}{Hmm. Chyba jednak pozostanê przy rasie szczurów.}
-{155}{}{Jaasne. Có¿, muszê lecieæ.}
-{156}{}{Ona: Oœmielasz siê nazywaæ Centrum (niech jego imiê bêdzie œwiête) wariatem? W fortecy poœwieconej jego badaniom? On: Wynoœ siê st¹d. Je¿eli bêdziesz próbowaæ z kimœ porozmawiaæ, zginiesz na miejscu. Istoto Niewierna. Oboje: W koñcu przestaniesz tu psuæ powietrze.}
-{157}{}{Mo¿e lepiej, je¿eli ja wykonam pierwszy krok. I tak nie znoszê waszych filmów. Obejrzyjmy sobie scenê œmierci.}
-{158}{}{Wasze filmy s¹ do dupy. Spadajcie.}
+{153}{}{Brzmi wspaniale. Jak mogÄ™ siÄ™ przyÅ‚Ä…czyÄ‡?}
+{154}{}{Hmm. Chyba jednak pozostanÄ™ przy rasie szczurÃ³w.}
+{155}{}{Jaasne. CÃ³Å¼, muszÄ™ lecieÄ‡.}
+{156}{}{Ona: OÅ›mielasz siÄ™ nazywaÄ‡ Centrum (niech jego imiÄ™ bÄ™dzie Å›wiÄ™te) wariatem? W fortecy poÅ›wieconej jego badaniom? On: WynoÅ› siÄ™ stÄ…d. JeÅ¼eli bÄ™dziesz prÃ³bowaÄ‡ z kimÅ› porozmawiaÄ‡, zginiesz na miejscu. Istoto Niewierna. Oboje: W koÅ„cu przestaniesz tu psuÄ‡ powietrze.}
+{157}{}{MoÅ¼e lepiej, jeÅ¼eli ja wykonam pierwszy krok. I tak nie znoszÄ™ waszych filmÃ³w. Obejrzyjmy sobie scenÄ™ Å›mierci.}
+{158}{}{Wasze filmy sÄ… do dupy. Spadajcie.}
 {159}{}{Bywaj.}
-{160}{}{Ona: Neurodyny s¹ esencj¹ dusz zniszczonych w czasie Wielkiej Wojny, zatruwaj¹ twoj¹ esencje duchow¹ i prowadz¹ ciê na manowce. On: Je¿eli chcesz dowiedzieæ siê wiêcej o naszych naukach, musisz do³¹czyæ do naszego koœcio³a.}
-{161}{}{Tak, to brzmi fascynuj¹co.}
-{162}{}{By³o mi wiadome, ¿e to science fiction, ale nie ¿e a¿ tak. Centrum musia³ byæ ca³kiem niez³ym wariatem.}
-{163}{}{Có¿, zdecydowanie ciekawi mnie, co tutaj macie. Macie o jednego cz³onka wiêcej.}
-{164}{}{Hmm. Nie, nie teraz. Pomimo to mam trochê wiêcej pytañ.}
-{165}{}{Hmm... muszê lecieæ. Czeœæ.}
-{166}{}{On: Myœlisz bardzo przysz³oœciowo. Ona: Bardzo oœwieceniowo. On: Przekazujemy ludziom nasze opinie - a je¿eli nasza gwiazda mo¿e przyci¹gn¹æ wiêcej wiernych, to oczywiœcie z tego korzystamy.}
+{160}{}{Ona: Neurodyny sÄ… esencjÄ… dusz zniszczonych w czasie Wielkiej Wojny, zatruwajÄ… twojÄ… esencje duchowÄ… i prowadzÄ… ciÄ™ na manowce. On: JeÅ¼eli chcesz dowiedzieÄ‡ siÄ™ wiÄ™cej o naszych naukach, musisz doÅ‚Ä…czyÄ‡ do naszego koÅ›cioÅ‚a.}
+{161}{}{Tak, to brzmi fascynujÄ…co.}
+{162}{}{ByÅ‚o mi wiadome, Å¼e to science fiction, ale nie Å¼e aÅ¼ tak. Centrum musiaÅ‚ byÄ‡ caÅ‚kiem niezÅ‚ym wariatem.}
+{163}{}{CÃ³Å¼, zdecydowanie ciekawi mnie, co tutaj macie. Macie o jednego czÅ‚onka wiÄ™cej.}
+{164}{}{Hmm. Nie, nie teraz. Pomimo to mam trochÄ™ wiÄ™cej pytaÅ„.}
+{165}{}{Hmm... muszÄ™ lecieÄ‡. CzeÅ›Ä‡.}
+{166}{}{On: MyÅ›lisz bardzo przyszÅ‚oÅ›ciowo. Ona: Bardzo oÅ›wieceniowo. On: Przekazujemy ludziom nasze opinie - a jeÅ¼eli nasza gwiazda moÅ¼e przyciÄ…gnÄ…Ä‡ wiÄ™cej wiernych, to oczywiÅ›cie z tego korzystamy.}
 {167}{}{Mam inne pytania.}
-{168}{}{Interesuje mnie przyst¹pienie.}
-{169}{}{Rozumiem. Có¿, do zobaczenia.}
-{170}{}{On: Có¿, to bardzo proste. Damy ci ten dysk informacyjny. Ona: ...obejrzysz krótki film... On: ...a póŸniej porozmawiaj z UKC-7! Ona: Proste, nieprawda¿?}
-{171}{}{Zróbmy to.}
+{168}{}{Interesuje mnie przystÄ…pienie.}
+{169}{}{Rozumiem. CÃ³Å¼, do zobaczenia.}
+{170}{}{On: CÃ³Å¼, to bardzo proste. Damy ci ten dysk informacyjny. Ona: ...obejrzysz krÃ³tki film... On: ...a pÃ³Åºniej porozmawiaj z UKC-7! Ona: Proste, nieprawdaÅ¼?}
+{171}{}{ZrÃ³bmy to.}
 {172}{}{Chyba jeszcze nie moja kolej.}
-{173}{}{Ona: To twoje prawo. On: I mam nadziejê, ¿e rozumiesz, i¿ nie mo¿emy pozwoliæ ci na b³¹kanie siê po naszej bazie. Ona: Wiêc lepiej odejdŸ - stra¿nicy zapewne zaczn¹ do ciebie strzelaæ, je¿eli bêdziesz marudziæ.}
-{174}{}{Och, dziêkujê. Najpierw mnie werbujecie, a jak nie chcê siê przy³¹czyæ, to chcecie mnie zastrzeliæ. £adny numer.}
-{175}{}{Mo¿e to ja najpierw was zastrzelê.}
-{176}{}{Idê st¹d.}
-{177}{}{On: To twoja ostatnia szansa na zmianê zdania. Ona: By³oby nam bardzo przykro, gdyby musia³o ci siê staæ coœ z³ego.}
-{178}{}{Chrzañ siê.}
-{179}{}{Dobrze. Jak mogê siê przy³¹czyæ?}
-{180}{}{Coœ z³ego zaraz przytrafi siê WAM.}
-{181}{}{Nie. Zaryzykujê. ¯egnajcie.}
-{182}{}{On: Zrobiliœmy wszystko, co mogliœmy dla ciebie uczyniæ. Ona: Powodzenia w twojej podró¿y.}
+{173}{}{Ona: To twoje prawo. On: I mam nadziejÄ™, Å¼e rozumiesz, iÅ¼ nie moÅ¼emy pozwoliÄ‡ ci na bÅ‚Ä…kanie siÄ™ po naszej bazie. Ona: WiÄ™c lepiej odejdÅº - straÅ¼nicy zapewne zacznÄ… do ciebie strzelaÄ‡, jeÅ¼eli bÄ™dziesz marudziÄ‡.}
+{174}{}{Och, dziÄ™kujÄ™. Najpierw mnie werbujecie, a jak nie chcÄ™ siÄ™ przyÅ‚Ä…czyÄ‡, to chcecie mnie zastrzeliÄ‡. Åadny numer.}
+{175}{}{MoÅ¼e to ja najpierw was zastrzelÄ™.}
+{176}{}{IdÄ™ stÄ…d.}
+{177}{}{On: To twoja ostatnia szansa na zmianÄ™ zdania. Ona: ByÅ‚oby nam bardzo przykro, gdyby musiaÅ‚o ci siÄ™ staÄ‡ coÅ› zÅ‚ego.}
+{178}{}{ChrzaÅ„ siÄ™.}
+{179}{}{Dobrze. Jak mogÄ™ siÄ™ przyÅ‚Ä…czyÄ‡?}
+{180}{}{CoÅ› zÅ‚ego zaraz przytrafi siÄ™ WAM.}
+{181}{}{Nie. ZaryzykujÄ™. Å»egnajcie.}
+{182}{}{On: ZrobiliÅ›my wszystko, co mogliÅ›my dla ciebie uczyniÄ‡. Ona: Powodzenia w twojej podrÃ³Å¼y.}
 {183}{}{Na razie!}
-{184}{}{Ona: Dave? Ten od komputerów? On: Ha ha! Co za frajer! Vikki jest moja i tylko moja! On nigdy... Przepraszam. Zdajê siê, ¿e a¿ promieniujê negatywn¹ energi¹. Chyba splami³em swoje neurodyny. Ona: [szepcze do ciebie] Dave jest ca³kiem milutki, ale tak d³ugo jak Juan jest w pobli¿u, do niczego nie dojdzie. On: Ufff. Neurodyny s¹ znów czyste.}
-{185}{}{Có¿, mam jeszcze kilka pytañ.}
+{184}{}{Ona: Dave? Ten od komputerÃ³w? On: Ha ha! Co za frajer! Vikki jest moja i tylko moja! On nigdy... Przepraszam. ZdajÄ™ siÄ™, Å¼e aÅ¼ promieniujÄ™ negatywnÄ… energiÄ…. Chyba splamiÅ‚em swoje neurodyny. Ona: [szepcze do ciebie] Dave jest caÅ‚kiem milutki, ale tak dÅ‚ugo jak Juan jest w pobliÅ¼u, do niczego nie dojdzie. On: Ufff. Neurodyny sÄ… znÃ³w czyste.}
+{185}{}{CÃ³Å¼, mam jeszcze kilka pytaÅ„.}
 {186}{}{To wszystko. Na razie.}
-{187}{}{Ona: Nie by³o tak Ÿle, prawda? On: Teraz po prostu idŸ porozmawiaæ z UKC-7, a staniemy siê towarzyszami w Centrologii! Ona: Jestem taka podniecona! On: Zawsze ciê po¿¹dam po wci¹gniêciu nowych cz³onków. Ona: Och, kochanie... On: Och, z³otko...}
-{188}{}{...Wrócê póŸniej.}
-{189}{}{On: Wielka szkoda. Ona: Od teraz masz skazê na duszy.}
+{187}{}{Ona: Nie byÅ‚o tak Åºle, prawda? On: Teraz po prostu idÅº porozmawiaÄ‡ z UKC-7, a staniemy siÄ™ towarzyszami w Centrologii! Ona: Jestem taka podniecona! On: Zawsze ciÄ™ poÅ¼Ä…dam po wciÄ…gniÄ™ciu nowych czÅ‚onkÃ³w. Ona: Och, kochanie... On: Och, zÅ‚otko...}
+{188}{}{...WrÃ³cÄ™ pÃ³Åºniej.}
+{189}{}{On: Wielka szkoda. Ona: Od teraz masz skazÄ™ na duszy.}
 {190}{}{[GOTOWE]}
-{191}{}{On: Ta decyzja zmieni twoje ¿ycie. Ona: I, niestety, jest to z³a decyzja. Oboje: Stra¿e! Stra¿e!}
+{191}{}{On: Ta decyzja zmieni twoje Å¼ycie. Ona: I, niestety, jest to zÅ‚a decyzja. Oboje: StraÅ¼e! StraÅ¼e!}
 {192}{}{Cholera.}
 {193}{}{On: Witaj,}
-{194}{}{A wiêc co mam robiæ teraz, gdy ju¿ nale¿ê do Centrologów?}
-{195}{}{Umówilibyœcie siê ze mn¹?}
+{194}{}{A wiÄ™c co mam robiÄ‡ teraz, gdy juÅ¼ naleÅ¼Ä™ do CentrologÃ³w?}
+{195}{}{UmÃ³wilibyÅ›cie siÄ™ ze mnÄ…?}
 {196}{}{To mi wystarczy. Na razie!}
 {197}{}{}
 {198}{}{}
-{199}{}{On: Mo¿esz porozmawiaæ z Harrym Rocketem na powierzchni. Mo¿e przyda mu siê twoja pomoc. Ona: Lub porozmawiaj z UKC-7 lub UKC-9. Zazwyczaj maj¹ jakieœ pomys³y. On: Lub mo¿esz obejrzeæ kana³ PomódlmySiê. Ona: Albo wywo³aæ zamieszanie wœród wrogów Ko³a.}
-{200}{}{Dziêki. Umówilibyœcie siê ze mn¹?}
+{199}{}{On: MoÅ¼esz porozmawiaÄ‡ z Harrym Rocketem na powierzchni. MoÅ¼e przyda mu siÄ™ twoja pomoc. Ona: Lub porozmawiaj z UKC-7 lub UKC-9. Zazwyczaj majÄ… jakieÅ› pomysÅ‚y. On: Lub moÅ¼esz obejrzeÄ‡ kanaÅ‚ PomÃ³dlmySiÄ™. Ona: Albo wywoÅ‚aÄ‡ zamieszanie wÅ›rÃ³d wrogÃ³w KoÅ‚a.}
+{200}{}{DziÄ™ki. UmÃ³wilibyÅ›cie siÄ™ ze mnÄ…?}
 {201}{}{To mi wystarczy.}
-{202}{}{Ona: Jakie¿ to smutne, bo Gwiezdny Ojciec wie o twojej s³odyczy, my chyba nie powinniœmy. On: Ale obydwoje jesteœmy zaszczyceni! Ona: Mo¿e któregoœ dnia moglibyœmy wszyscy razem pojechaæ do Nowego Reno i nakrêciæ razem film.}
-{203}{}{Och, w porz¹dku. Co jeszcze mo¿na robiæ bêd¹c cz³onkiem Centrologów?}
-{204}{}{Och, w porz¹dku. Do zobaczenia.}
-{205}{}{Ona: K³amstwo szkodzi neurodynom. On: Dok³adnie. Ona: Dlatego te¿ chcê byæ z tob¹ szczera i muszê powiedzieæ, ¿e brak ci seksapilu. On: Ale nadal kochamy ciê jako znajomego wyznawcê Centrum!}
-{206}{}{Ach, dziêkujê. Wiêc co jeszcze mo¿na robiæ bêd¹c cz³onkiem Centrologów?}
-{207}{}{Niewa¿ne. [Mamroczesz] Palanty.}
+{202}{}{Ona: JakieÅ¼ to smutne, bo Gwiezdny Ojciec wie o twojej sÅ‚odyczy, my chyba nie powinniÅ›my. On: Ale obydwoje jesteÅ›my zaszczyceni! Ona: MoÅ¼e ktÃ³regoÅ› dnia moglibyÅ›my wszyscy razem pojechaÄ‡ do Nowego Reno i nakrÄ™ciÄ‡ razem film.}
+{203}{}{Och, w porzÄ…dku. Co jeszcze moÅ¼na robiÄ‡ bÄ™dÄ…c czÅ‚onkiem CentrologÃ³w?}
+{204}{}{Och, w porzÄ…dku. Do zobaczenia.}
+{205}{}{Ona: KÅ‚amstwo szkodzi neurodynom. On: DokÅ‚adnie. Ona: Dlatego teÅ¼ chcÄ™ byÄ‡ z tobÄ… szczera i muszÄ™ powiedzieÄ‡, Å¼e brak ci seksapilu. On: Ale nadal kochamy ciÄ™ jako znajomego wyznawcÄ™ Centrum!}
+{206}{}{Ach, dziÄ™kujÄ™. WiÄ™c co jeszcze moÅ¼na robiÄ‡ bÄ™dÄ…c czÅ‚onkiem CentrologÃ³w?}
+{207}{}{NiewaÅ¼ne. [Mamroczesz] Palanty.}
 {208}{}{Witajcie nowi rekruci!}
 {209}{}{Jestem Vikki Goldman!}
 {210}{}{A ja Juan Cruz!}
-{211}{}{Jak ju¿ wiecie, jesteœmy gwiazdami.}
-{212}{}{Wed³ug nas Centrologia jest sposobem na ¿ycie.}
-{213}{}{WIEMY, ¿e Centrologia jest sposobem na ¿ycie.}
-{214}{}{Moj¹ si³¹ umys³u mogê usma¿yæ robaki!}
+{211}{}{Jak juÅ¼ wiecie, jesteÅ›my gwiazdami.}
+{212}{}{WedÅ‚ug nas Centrologia jest sposobem na Å¼ycie.}
+{213}{}{WIEMY, Å¼e Centrologia jest sposobem na Å¼ycie.}
+{214}{}{MojÄ… siÅ‚Ä… umysÅ‚u mogÄ™ usmaÅ¼yÄ‡ robaki!}
 {215}{}{Do twarzy mi w kapeluszach z cynfolii!}
-{216}{}{Byæ mo¿e je¿eli bêdziecie ciê¿ko nad sob¹ pracowaæ, bêdziecie mogli siê do nas zbli¿yæ.}
-{217}{}{Nam z pewnoœci¹ na tym zale¿y.}
-{218}{}{Tak. Zawsze szukamy nowych przyjació³...}
-{219}{}{...tak d³ugo, jak chc¹ nad sob¹ pracowaæ.}
-{220}{}{I maj¹ tak wysok¹ rangê jak my.}
-{221}{}{Jesteœmy UKC-5.}
-{222}{}{Wy te¿ mo¿ecie któregoœ dnia zostaæ UKC-5.}
-{223}{}{Je¿eli ofiarujecie du¿o pieniêdzy, mo¿ecie zostaæ UKC-5 nawet szybciej.}
-{224}{}{Ale nie myœlcie, ¿e potrzebujemy tylko waszych pieniêdzy.}
-{225}{}{Nie, chcemy wam POMÓC.}
-{226}{}{I na tym w³aœnie polega Centrologia.}
+{216}{}{ByÄ‡ moÅ¼e jeÅ¼eli bÄ™dziecie ciÄ™Å¼ko nad sobÄ… pracowaÄ‡, bÄ™dziecie mogli siÄ™ do nas zbliÅ¼yÄ‡.}
+{217}{}{Nam z pewnoÅ›ciÄ… na tym zaleÅ¼y.}
+{218}{}{Tak. Zawsze szukamy nowych przyjaciÃ³Å‚...}
+{219}{}{...tak dÅ‚ugo, jak chcÄ… nad sobÄ… pracowaÄ‡.}
+{220}{}{I majÄ… tak wysokÄ… rangÄ™ jak my.}
+{221}{}{JesteÅ›my UKC-5.}
+{222}{}{Wy teÅ¼ moÅ¼ecie ktÃ³regoÅ› dnia zostaÄ‡ UKC-5.}
+{223}{}{JeÅ¼eli ofiarujecie duÅ¼o pieniÄ™dzy, moÅ¼ecie zostaÄ‡ UKC-5 nawet szybciej.}
+{224}{}{Ale nie myÅ›lcie, Å¼e potrzebujemy tylko waszych pieniÄ™dzy.}
+{225}{}{Nie, chcemy wam POMÃ“C.}
+{226}{}{I na tym wÅ‚aÅ›nie polega Centrologia.}
 {227}{}{[Oklaski.]}
-{228}{}{. Mam nadziejê, ¿e twoje oœwiecanie odbywa siê pomyœlnie. Ona: Mamy takie... du¿e... nadzieje zwi¹zane z tob¹.}
-{229}{}{Lekcja 1: Tutaj jest wiecznoœæ, Wielkie Ko³o. [wskazuje na coœ] A tutaj jesteœmy my. [wskazuje na coœ innego] Teraz wszystko co musimy zrobiæ, to przejœæ naprawdê daleko i spotkaæ tam naszych gwiezdnych braci.}
-{230}{}{O rany, bêdziemy potrzebowali du¿o butów.}
-{231}{}{On: Teraz po prostu idŸ porozmawiaæ z UKC-7, a staniemy siê towarzyszami w Centrologii! Ona: Jestem taka podniecona! On: Zawsze ciê po¿¹dam po wci¹gniêciu nowych cz³onków. Ona: Och, kochanie... On: Och, z³otko...}
+{228}{}{. Mam nadziejÄ™, Å¼e twoje oÅ›wiecanie odbywa siÄ™ pomyÅ›lnie. Ona: Mamy takie... duÅ¼e... nadzieje zwiÄ…zane z tobÄ….}
+{229}{}{Lekcja 1: Tutaj jest wiecznoÅ›Ä‡, Wielkie KoÅ‚o. [wskazuje na coÅ›] A tutaj jesteÅ›my my. [wskazuje na coÅ› innego] Teraz wszystko co musimy zrobiÄ‡, to przejÅ›Ä‡ naprawdÄ™ daleko i spotkaÄ‡ tam naszych gwiezdnych braci.}
+{230}{}{O rany, bÄ™dziemy potrzebowali duÅ¼o butÃ³w.}
+{231}{}{On: Teraz po prostu idÅº porozmawiaÄ‡ z UKC-7, a staniemy siÄ™ towarzyszami w Centrologii! Ona: Jestem taka podniecona! On: Zawsze ciÄ™ poÅ¼Ä…dam po wciÄ…gniÄ™ciu nowych czÅ‚onkÃ³w. Ona: Och, kochanie... On: Och, zÅ‚otko...}

@@ -19,23 +19,23 @@
 {175}{}{NO DICE!!!}
 {176}{}{TOO MANY DICE!!!}
 {177}{}{The odds seem right ever since you switched the dice.}
-{178}{}{As chances n„o s„o boas.}
-{179}{}{VocÍ n„o consegue calcular suas chances com certeza.}
+{178}{}{As chances n√£o s√£o boas.}
+{179}{}{Voc√™ n√£o consegue calcular suas chances com certeza.}
 {185}{}{The odds seem about right.}
-{186}{}{VocÍ n„o consegue calcular suas chances com certeza.}
-{187}{}{As chances n„o s„o boas.}
+{186}{}{Voc√™ n√£o consegue calcular suas chances com certeza.}
+{187}{}{As chances n√£o s√£o boas.}
 {200}{}{::Assobios::}
 {201}{}{::Palmas::}
 {202}{}{::Assobios::}
 {203}{}{}
 {204}{}{Thought you'd forgotten about us while you were off saving the world.}
-{215}{}{Ol·, }
+{215}{}{Ol√°, }
 {216}{}{Se precisar de companhia mais tarde...}
 {217}{}{Hey, you...[winks]...you looking to gamble?}
 {218}{}{He looks so...[shivers]...dangerous.}
 {219}{}{Welcome to the casino, }
 {220}{}{Fale bem de mim pro chefe, beleza?}
-{221}{}{Ol·, madame. Se eu puder ajudar em algo È sÛ me dizer.}
+{221}{}{Ol√°, madame. Se eu puder ajudar em algo √© s√≥ me dizer.}
 {222}{}{Looking to gamble, ma'am?}
 {223}{}{She looks so...[shivers]...dangerous.}
 {235}{}{Looks like this one's already gambling with his life.}
@@ -56,7 +56,7 @@
 {258}{}{Step right up, }
 {259}{}{Need another drink?}
 {260}{}{Welcome to the casino, }
-{261}{}{Ol·, }
+{261}{}{Ol√°, }
 {262}{}{Looking to gamble, }
 {263}{}{Welcome to the casino, }
 {270}{}{Hey there, movie man. You looking to spend some chips?}
@@ -117,7 +117,7 @@
 {431}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
 {440}{}{Liga-o por um dia.}
-{441}{}{Isso que È noite.}
+{441}{}{Isso que √© noite.}
 {450}{}{Sorry, this table has been closed. Someone has been tampering with the dice.}
 {451}{}{Sorry sir, this table has been closed. Someone has been tampering with the dice.}
 {452}{}{Sorry ma'am, this table has been closed. Someone has been tampering with the dice.}
@@ -132,7 +132,7 @@
 {2261}{}{. Let me know if I can help you with anything.}
 {2262}{}{?}
 {2263}{}{.}
-{2321}{}{. faÁa suas apostas...}
+{2321}{}{. fa√ßa suas apostas...}
 {2327}{}{.] }
 {2328}{}{.}
 {2344}{}{ could always use new inventory item [Leave.]}

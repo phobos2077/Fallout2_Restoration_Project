@@ -1,174 +1,174 @@
 {100}{}{Ves a... otro... oficial de Ciudad Refugio.}
 {101}{}{Ves a Barkus, el Coordinador de Siervos de Ciudad Refugio.}
-{102}{}{Pero, ¿q--?! ¡Un mutante! ¡En Ciudad Refugio! ¡Guardias! ¡Guardias!}
-{103}{}{Pero, ¿q--?! ¡Un necrófago! ¡En Ciudad Refugio! ¡Guardias! ¡Guardias!!}
-{104}{}{Umm... ¿hurnhh?}
+{102}{}{Pero, Â¿q--?! Â¡Un mutante! Â¡En Ciudad Refugio! Â¡Guardias! Â¡Guardias!}
+{103}{}{Pero, Â¿q--?! Â¡Un necrÃ³fago! Â¡En Ciudad Refugio! Â¡Guardias! Â¡Guardias!!}
+{104}{}{Umm... Â¿hurnhh?}
 {105}{}{Si lo que quieres es pelear...}
-{106}{}{El Centro de Asignación de Siervos está cerrado. Por favor, vuelve por la mañana.}
-{107}{}{¿Sí, capitán?}
-{108}{}{¿Sí, Ciudadana?}
-{109}{}{Sí, ¿Qué pasa? Estoy atrasado con mis tareas.}
-{110}{}{Umm... ¡Yo busco Refugio!}
+{106}{}{El Centro de AsignaciÃ³n de Siervos estÃ¡ cerrado. Por favor, vuelve por la maÃ±ana.}
+{107}{}{Â¿SÃ­, capitÃ¡n?}
+{108}{}{Â¿SÃ­, Ciudadana?}
+{109}{}{SÃ­, Â¿QuÃ© pasa? Estoy atrasado con mis tareas.}
+{110}{}{Umm... Â¡Yo busco Refugio!}
 {111}{}{Dejas de balbucear}
-{112}{}{¿Qué es este edificio?}
+{112}{}{Â¿QuÃ© es este edificio?}
 {113}{}{Estoy buscando el Refugio.}
-{114}{}{Estoy buscando a un siervo en particular... Joshua, creo. ¿Está aquí?}
-{115}{}{¿Quieres comprar algún esclav... er, siervo?}
+{114}{}{Estoy buscando a un siervo en particular... Joshua, creo. Â¿EstÃ¡ aquÃ­?}
+{115}{}{Â¿Quieres comprar algÃºn esclav... er, siervo?}
 {116}{}{Hoy nada, gracias.}
-{117}{}{¿Esto? Esto es el Centro de Asignación de Siervos. ¿Necesitabas un siervo?}
-{118}{}{Este el el Centro de Asignación de Siervos.}
-{119}{}{¿Centro de Asignación de Siervos? ¿Qué es eso?}
-{120}{}{Estoy buscando a un siervo en particular... Joshua, creo. ¿Está aquí?}
-{121}{}{Asignación de Siervos, ¿eh? ¿Vendes esclav... er, siervos aquí?}
-{122}{}{No, es sólo curiosidad. Gracias.}
-{123}{}{Sólo es curiosidad. Gracias.}
-{124}{}{¿El Refugio? Es ese gran agujero en la montaña de la parte este de la ciudad. Dirígete a la puerta principal, gira a la izquierda y camina en línea recta. No tiene pérdida.}
-{125}{}{¿Qué es este edificio?}
-{126}{}{¿Alguien puede entrar allí?}
-{127}{}{Tenía otra pregunta que hacerte.}
-{128}{}{Gracias por las indicaciones. Adiós.}
-{129}{}{¿Pero qu-? ¿Eres una de los nuevos siervos?}
-{130}{}{Sí}
+{117}{}{Â¿Esto? Esto es el Centro de AsignaciÃ³n de Siervos. Â¿Necesitabas un siervo?}
+{118}{}{Este el el Centro de AsignaciÃ³n de Siervos.}
+{119}{}{Â¿Centro de AsignaciÃ³n de Siervos? Â¿QuÃ© es eso?}
+{120}{}{Estoy buscando a un siervo en particular... Joshua, creo. Â¿EstÃ¡ aquÃ­?}
+{121}{}{AsignaciÃ³n de Siervos, Â¿eh? Â¿Vendes esclav... er, siervos aquÃ­?}
+{122}{}{No, es sÃ³lo curiosidad. Gracias.}
+{123}{}{SÃ³lo es curiosidad. Gracias.}
+{124}{}{Â¿El Refugio? Es ese gran agujero en la montaÃ±a de la parte este de la ciudad. DirÃ­gete a la puerta principal, gira a la izquierda y camina en lÃ­nea recta. No tiene pÃ©rdida.}
+{125}{}{Â¿QuÃ© es este edificio?}
+{126}{}{Â¿Alguien puede entrar allÃ­?}
+{127}{}{TenÃ­a otra pregunta que hacerte.}
+{128}{}{Gracias por las indicaciones. AdiÃ³s.}
+{129}{}{Â¿Pero qu-? Â¿Eres una de los nuevos siervos?}
+{130}{}{SÃ­}
 {131}{}{Uh-uh voy ahora yo}
-{132}{}{Debes ser nuevo por aquí. Te lo explicaré... lentamente.}
-{133}{}{Los Ciudadanos que necesitan ayuda con tareas menores vienen aquí para que se les asigne un siervo para ellos durante todo el día.}
+{132}{}{Debes ser nuevo por aquÃ­. Te lo explicarÃ©... lentamente.}
+{133}{}{Los Ciudadanos que necesitan ayuda con tareas menores vienen aquÃ­ para que se les asigne un siervo para ellos durante todo el dÃ­a.}
 {134}{}{Eso suena bastante a esclavitud.}
-{135}{}{Oh, ¿así que es aquí donde almacenan a los esclavos? ¿Por qué no lo dijiste antes?}
-{136}{}{¿De dónde sacas a todos estos siervos?}
-{137}{}{Estoy buscando a un siervo en particular... Joshua, creo. ¿Está aquí?}
-{138}{}{Estás buscando esclav... er, siervos, ¿cierto?}
-{139}{}{De acuerdo, sólo era curiosidad, gracias. Que te vaya bien.}
-{140}{}{Estoy cansado de siervos que son asignados sin autorización... *suspira*... veamos, ¿dijiste que estabas buscando el Refugio?
- Esa debe ser tu asignación del día. Muy bien. Haré que alguien te acompañe allí.}
-{141}{}{¡Refujo! ¡Refujo!}
-{142}{}{Yo vigilaría lo que digo, si fuera tú. Esto NO es esclavitud. Cuidamos a estos refugiados,
- y ellos tienen una buena vida... mejor que la que podrían tener en el Yermo.}
-{143}{}{¿De dónde los has sacado?}
-{144}{}{Oh, tenía otras preguntas...}
+{135}{}{Oh, Â¿asÃ­ que es aquÃ­ donde almacenan a los esclavos? Â¿Por quÃ© no lo dijiste antes?}
+{136}{}{Â¿De dÃ³nde sacas a todos estos siervos?}
+{137}{}{Estoy buscando a un siervo en particular... Joshua, creo. Â¿EstÃ¡ aquÃ­?}
+{138}{}{EstÃ¡s buscando esclav... er, siervos, Â¿cierto?}
+{139}{}{De acuerdo, sÃ³lo era curiosidad, gracias. Que te vaya bien.}
+{140}{}{Estoy cansado de siervos que son asignados sin autorizaciÃ³n... *suspira*... veamos, Â¿dijiste que estabas buscando el Refugio?
+ Esa debe ser tu asignaciÃ³n del dÃ­a. Muy bien. HarÃ© que alguien te acompaÃ±e allÃ­.}
+{141}{}{Â¡Refujo! Â¡Refujo!}
+{142}{}{Yo vigilarÃ­a lo que digo, si fuera tÃº. Esto NO es esclavitud. Cuidamos a estos refugiados,
+ y ellos tienen una buena vida... mejor que la que podrÃ­an tener en el Yermo.}
+{143}{}{Â¿De dÃ³nde los has sacado?}
+{144}{}{Oh, tenÃ­a otras preguntas...}
 {145}{}{Entonces eso es todo lo que necesitaba saber, gracias. Que te vaya bien.}
-{146}{}{No, tú necesitas ser un Ciudadano para que se te permita ir al Refugio. Ahora, mira, resulta que estoy muy ocupado en este momento, así que si por favor me disculpas...}
-{147}{}{Sólo una pregunta más...}
-{148}{}{De acuerdo. Adiós.}
+{146}{}{No, tÃº necesitas ser un Ciudadano para que se te permita ir al Refugio. Ahora, mira, resulta que estoy muy ocupado en este momento, asÃ­ que si por favor me disculpas...}
+{147}{}{SÃ³lo una pregunta mÃ¡s...}
+{148}{}{De acuerdo. AdiÃ³s.}
 {149}{}{Nuestros siervos por lo general son refugiados de ataques de saqueadores o prisioneros contractuales que desean cumplir su sentencia de una forma productiva.}
-{150}{}{Oh, ¿quieres decir guionistas? Conocí a un tipo llamado Dan una vez, que...}
-{151}{}{A cambio de su libertad, ¿eh?}
-{152}{}{¿Tienes a un prisionero contractual llamado Joshua bajo custodia?}
-{153}{}{¿Quieres comprar algún esclav... er, siervo... justo ahora?}
-{154}{}{Hmmm. Tenía otra pregunta...}
-{155}{}{Ya veo. Gracias por la información.}
+{150}{}{Oh, Â¿quieres decir guionistas? ConocÃ­ a un tipo llamado Dan una vez, que...}
+{151}{}{A cambio de su libertad, Â¿eh?}
+{152}{}{Â¿Tienes a un prisionero contractual llamado Joshua bajo custodia?}
+{153}{}{Â¿Quieres comprar algÃºn esclav... er, siervo... justo ahora?}
+{154}{}{Hmmm. TenÃ­a otra pregunta...}
+{155}{}{Ya veo. Gracias por la informaciÃ³n.}
 {156}{}{No, guionistas no, tarado.}
-{157}{}{¿Tarado? Tuve que trabajar duro para conseguir el mínimo de 9 en Inteligencia y Percepción y acceder a esta opción de diálogo. De todos modos, ¿qué decías?}
-{158}{}{Eres muy bueno para hacer juicios morales, esclavista. Fuera de aquí.}
-{159}{}{Te pareces mucho a ese idiota de Moore... justo lo que necesita Ciudad Refugio. Mira, quienquiera que seas, tengo trabajo que hacer, así que si fueras tan amable de desaparecer...}
+{157}{}{Â¿Tarado? Tuve que trabajar duro para conseguir el mÃ­nimo de 9 en Inteligencia y PercepciÃ³n y acceder a esta opciÃ³n de diÃ¡logo. De todos modos, Â¿quÃ© decÃ­as?}
+{158}{}{Eres muy bueno para hacer juicios morales, esclavista. Fuera de aquÃ­.}
+{159}{}{Te pareces mucho a ese idiota de Moore... justo lo que necesita Ciudad Refugio. Mira, quienquiera que seas, tengo trabajo que hacer, asÃ­ que si fueras tan amable de desaparecer...}
 {160}{}{Vale, vale...}
-{161}{}{¿Por qué no me dejas?}
-{162}{}{¿Joshua? Sí, tenemos a un siervo con ese nombre, pero no querrías que te lo asignásemos.
+{161}{}{Â¿Por quÃ© no me dejas?}
+{162}{}{Â¿Joshua? SÃ­, tenemos a un siervo con ese nombre, pero no querrÃ­as que te lo asignÃ¡semos.
  Intentar entrenarlo ha sido... complicado. No estoy seguro de que pueda serlo.}
-{163}{}{¿Joshua? Creo que hubo una vez un siervo con ese nombre, pero ya no.}
+{163}{}{Â¿Joshua? Creo que hubo una vez un siervo con ese nombre, pero ya no.}
 {164}{}{Necesito preguntarle algo sobre la seguridad de Ciudad Refugio. De repente le han enviado al Patio.}
-{165}{}{Me gustaría que me lo asignaran, de todos modos.}
-{166}{}{¿Complicado?}
+{165}{}{Me gustarÃ­a que me lo asignaran, de todos modos.}
+{166}{}{Â¿Complicado?}
 {167}{}{Oh, no quiero que me lo asignen. Ni mucho menos. Me preocupa que pudiera estar infectado.}
 {168}{}{Hmmm. Otra pregunta entonces...}
-{169}{}{De acuerdo. Adiós.}
-{170}{}{No creo que sea una buena idea. Espera hasta que haya recibido algo más de entrenamiento, entonces lo tendré en cuenta.}
-{171}{}{¿Has dicho que ha sido complicado?}
-{172}{}{Sólo una pregunta más...}
-{173}{}{De acuerdo. Adiós.}
-{174}{}{Sí, es más tenaz que cualquier otro siervo que hayamos tenido por aquí. Si no le conociera mejor, diría que su padre fue un brahmin.}
-{175}{}{Ya sabes, esa clase de actitud podría ser un problema. ¿Qué pasaría si el resto de siervos siguiera su ejemplo?}
-{176}{}{Podría comprarlo y quitártelo de las manos. ¿El centro acepta... "donaciones"?}
-{177}{}{Sólo una pregunta más...}
-{178}{}{De acuerdo. Adiós.}
+{169}{}{De acuerdo. AdiÃ³s.}
+{170}{}{No creo que sea una buena idea. Espera hasta que haya recibido algo mÃ¡s de entrenamiento, entonces lo tendrÃ© en cuenta.}
+{171}{}{Â¿Has dicho que ha sido complicado?}
+{172}{}{SÃ³lo una pregunta mÃ¡s...}
+{173}{}{De acuerdo. AdiÃ³s.}
+{174}{}{SÃ­, es mÃ¡s tenaz que cualquier otro siervo que hayamos tenido por aquÃ­. Si no le conociera mejor, dirÃ­a que su padre fue un brahmin.}
+{175}{}{Ya sabes, esa clase de actitud podrÃ­a ser un problema. Â¿QuÃ© pasarÃ­a si el resto de siervos siguiera su ejemplo?}
+{176}{}{PodrÃ­a comprarlo y quitÃ¡rtelo de las manos. Â¿El centro acepta... "donaciones"?}
+{177}{}{SÃ³lo una pregunta mÃ¡s...}
+{178}{}{De acuerdo. AdiÃ³s.}
 {179}{}{Eso es verdad. He tenido que separarlo de algunos de los otros... y justo ayer uno de los siervos tuvo la audacia de cuestionar una de mis peticiones.}
-{180}{}{Deberías liberarlo ahora, antes de que vaya a peor.}
-{181}{}{¿Joshua? Sí, tenemos a un Siervo con ese nombre. Fue transferido recientemente al Centro Correccional. ¿Tu interés en él se debe a...?}
-{182}{}{Me gustaría negociar su liberación.}
-{183}{}{Sospecho que tiene una enfermedad contagiosa. Deberías liberarlo antes de que infecte a otros siervos.}
-{184}{}{No tengo una razón. Tenía otras preguntas...}
-{185}{}{De acuerdo. Adiós.}
-{186}{}{¿Ah, sí? ¿Y qué te hace pensar que lo liberaría?}
-{187}{}{¿Una donación importante para el fondo de operaciones del Centro de Asignación de Siervos, tal vez?}
-{188}{}{Sospecho que tiene una enfermedad contagiosa. Deberías liberarlo antes de que infecte a otros siervos.}
-{189}{}{No tengo una razón. Tenía otras preguntas...}
-{190}{}{De acuerdo. Adiós.}
-{191}{}{No, estaba pensando en una donación más importante.}
-{192}{}{Hmmn. Las donaciones son sin duda bienvenidas para asegurar el buen funcionamiento del Centro, pero haría falta una donación importante antes de poder poner a Joshua a tu cargo.}
-{193}{}{¿Que tal 1.000 dólares?}
-{194}{}{¿Que tal 750 dólares?}
-{195}{}{¿Que tal 500 dólares?}
-{196}{}{¿Que tal 250 dólares?}
-{197}{}{Pensaré en ello. Tenía otras preguntas...}
-{198}{}{Ya veo. Puede que regrese más tarde.}
-{199}{}{Ya veo. Puede que regrese más tarde, cuando tenga fondos suficientes para una donación.}
-{200}{}{Bueno... no es tanto como uno esperaría de una donación, pero servirá. El tal Joshua que estás buscando ha sido enviado al Patio para su procesamiento. Déjame que haga las gestiones oportunas.}
+{180}{}{DeberÃ­as liberarlo ahora, antes de que vaya a peor.}
+{181}{}{Â¿Joshua? SÃ­, tenemos a un Siervo con ese nombre. Fue transferido recientemente al Centro Correccional. Â¿Tu interÃ©s en Ã©l se debe a...?}
+{182}{}{Me gustarÃ­a negociar su liberaciÃ³n.}
+{183}{}{Sospecho que tiene una enfermedad contagiosa. DeberÃ­as liberarlo antes de que infecte a otros siervos.}
+{184}{}{No tengo una razÃ³n. TenÃ­a otras preguntas...}
+{185}{}{De acuerdo. AdiÃ³s.}
+{186}{}{Â¿Ah, sÃ­? Â¿Y quÃ© te hace pensar que lo liberarÃ­a?}
+{187}{}{Â¿Una donaciÃ³n importante para el fondo de operaciones del Centro de AsignaciÃ³n de Siervos, tal vez?}
+{188}{}{Sospecho que tiene una enfermedad contagiosa. DeberÃ­as liberarlo antes de que infecte a otros siervos.}
+{189}{}{No tengo una razÃ³n. TenÃ­a otras preguntas...}
+{190}{}{De acuerdo. AdiÃ³s.}
+{191}{}{No, estaba pensando en una donaciÃ³n mÃ¡s importante.}
+{192}{}{Hmmn. Las donaciones son sin duda bienvenidas para asegurar el buen funcionamiento del Centro, pero harÃ­a falta una donaciÃ³n importante antes de poder poner a Joshua a tu cargo.}
+{193}{}{Â¿Que tal 1.000 dÃ³lares?}
+{194}{}{Â¿Que tal 750 dÃ³lares?}
+{195}{}{Â¿Que tal 500 dÃ³lares?}
+{196}{}{Â¿Que tal 250 dÃ³lares?}
+{197}{}{PensarÃ© en ello. TenÃ­a otras preguntas...}
+{198}{}{Ya veo. Puede que regrese mÃ¡s tarde.}
+{199}{}{Ya veo. Puede que regrese mÃ¡s tarde, cuando tenga fondos suficientes para una donaciÃ³n.}
+{200}{}{Bueno... no es tanto como uno esperarÃ­a de una donaciÃ³n, pero servirÃ¡. El tal Joshua que estÃ¡s buscando ha sido enviado al Patio para su procesamiento. DÃ©jame que haga las gestiones oportunas.}
 {201}{}{Vale.}
-{202}{}{Está hecho. Joshua ya no es siervo de Ciudad Refugio, y ha sido trasladado al Patio junto con el resto de Errantes.}
-{203}{}{Gracias. Tenía algunas preguntas más...}
-{204}{}{Muy bien. Iré a buscarlo allí, entonces.}
-{205}{}{Me parece bien. Con suerte, no volverá a esta ciudad.}
-{206}{}{¿Es cierto eso? ¿Eres consciente de que cada siervo es registrado a conciencia antes de ser admitido en el Centro de Asignación?}
-{207}{}{Quizá me equivoque. De cualquier manera me gustaría negociar su liberación.}
-{208}{}{¿Eres consciente del síndrome de }
-{209}{}{? Pasa inadvertido en la mayoría de pruebas médicas, y sus síntomas pueden permanecer ocultos durante semanas.}
-{210}{}{En el Yermo, hay una enfermedad llamada síndrome de }
-{211}{}{. ¿No te has dado cuenta del bajo nivel de energía de los siervos últimamente? ¿De su malestar general?}
-{212}{}{Eso es una soberana tontería. Y ahora, si has acabado de malgastar mi tiempo con tus mentiras...}
-{213}{}{Vale, olvida el "síndrome de }
-{214}{}{". Todavía me gustaría negociar la liberación de Joshua.}
+{202}{}{EstÃ¡ hecho. Joshua ya no es siervo de Ciudad Refugio, y ha sido trasladado al Patio junto con el resto de Errantes.}
+{203}{}{Gracias. TenÃ­a algunas preguntas mÃ¡s...}
+{204}{}{Muy bien. IrÃ© a buscarlo allÃ­, entonces.}
+{205}{}{Me parece bien. Con suerte, no volverÃ¡ a esta ciudad.}
+{206}{}{Â¿Es cierto eso? Â¿Eres consciente de que cada siervo es registrado a conciencia antes de ser admitido en el Centro de AsignaciÃ³n?}
+{207}{}{QuizÃ¡ me equivoque. De cualquier manera me gustarÃ­a negociar su liberaciÃ³n.}
+{208}{}{Â¿Eres consciente del sÃ­ndrome de }
+{209}{}{? Pasa inadvertido en la mayorÃ­a de pruebas mÃ©dicas, y sus sÃ­ntomas pueden permanecer ocultos durante semanas.}
+{210}{}{En el Yermo, hay una enfermedad llamada sÃ­ndrome de }
+{211}{}{. Â¿No te has dado cuenta del bajo nivel de energÃ­a de los siervos Ãºltimamente? Â¿De su malestar general?}
+{212}{}{Eso es una soberana tonterÃ­a. Y ahora, si has acabado de malgastar mi tiempo con tus mentiras...}
+{213}{}{Vale, olvida el "sÃ­ndrome de }
+{214}{}{". TodavÃ­a me gustarÃ­a negociar la liberaciÃ³n de Joshua.}
 {215}{}{No importa. Tengo otras preguntas...}
-{216}{}{Me voy entonces. Adiós.}
-{217}{}{¿Infectado? ¿Infectado con qué?}
-{218}{}{¿Síntomas? ¿Qué clase de síntomas?}
-{219}{}{¿Quizá has notado recientemente la poca energía de tus siervos? ¿Su escasa capacidad de atención? ¿Su incapacidad para entender las órdenes y seguirlas correctamente? Eso es sólo la primera etapa.}
+{216}{}{Me voy entonces. AdiÃ³s.}
+{217}{}{Â¿Infectado? Â¿Infectado con quÃ©?}
+{218}{}{Â¿SÃ­ntomas? Â¿QuÃ© clase de sÃ­ntomas?}
+{219}{}{Â¿QuizÃ¡ has notado recientemente la poca energÃ­a de tus siervos? Â¿Su escasa capacidad de atenciÃ³n? Â¿Su incapacidad para entender las Ã³rdenes y seguirlas correctamente? Eso es sÃ³lo la primera etapa.}
 {220}{}{Eh...}
-{221}{}{. Gran cantidad de Errantes lo tienen. Sus síntomas son, eh, hablar sin que se les hable. Y emplear un lenguaje inapropiado.}
-{222}{}{Hmmmm. No sería así si los Ciudadanos comenzaran a informar de problemas con los siervos... muy bien, liberaré a Joshua ahora mismo. Si me permites un momento para las gestiones oportunas...}
-{223}{}{Sí... he observado esos síntomas en los siervos últimamente. Contagioso, ¿no? Hmmm. Bueno, si este Joshua es un portador de enfermedades, lo liberaré de inmediato. Dame un momento para realizar las gestiones oportunas...}
-{224}{}{Sin problema. Joshua estaría mejor con los Errantes, de todos modos.}
-{225}{}{Por supuesto, Capitán. Me encargaré de él ahora mismo.}
+{221}{}{. Gran cantidad de Errantes lo tienen. Sus sÃ­ntomas son, eh, hablar sin que se les hable. Y emplear un lenguaje inapropiado.}
+{222}{}{Hmmmm. No serÃ­a asÃ­ si los Ciudadanos comenzaran a informar de problemas con los siervos... muy bien, liberarÃ© a Joshua ahora mismo. Si me permites un momento para las gestiones oportunas...}
+{223}{}{SÃ­... he observado esos sÃ­ntomas en los siervos Ãºltimamente. Contagioso, Â¿no? Hmmm. Bueno, si este Joshua es un portador de enfermedades, lo liberarÃ© de inmediato. Dame un momento para realizar las gestiones oportunas...}
+{224}{}{Sin problema. Joshua estarÃ­a mejor con los Errantes, de todos modos.}
+{225}{}{Por supuesto, CapitÃ¡n. Me encargarÃ© de Ã©l ahora mismo.}
 {226}{}{Excelente. Gracias, Ciudadana.}
-{227}{}{Tal vez. ¿Tienes algo que quieras vender?}
-{228}{}{Sí, tengo algo aquí mismo conmigo. Echa un vistazo y hazme una oferta.}
-{229}{}{Sí, tengo algo aquí mismo conmigo. Echa un vistazo y haz una oferta.}
-{230}{}{No. En realidad tenía algunas preguntas para ti...}
-{231}{}{No, hoy no. Adiós.}
-{232}{}{Hmmm. Esa mujer de ahí, Miria, ¿no? Tiene unos brazos robustos... y buenas caderas. Te la compro por 250 dólares.}
-{233}{}{Hmmm. Ese chico de allí, Davin, ¿no? No parece tan contaminado como el resto de Errantes. Te lo compraré por 200 dólares.}
-{234}{}{Hmmm. Ese tribal que tienes. Huele... demasiado. Pero parece fuerte. Me lo llevo por 100 dólares.}
-{235}{}{Hmmm. Ese tipo de ahí... Vic, ¿verdad? Aunque es viejo, parece un manitas. 100 dólares.}
-{236}{}{Quizá debas volver cuando tengas un siervo valioso que enseñarme. Tu catálogo actual... no impresiona a nadie.}
-{237}{}{Venga ya, este esclavo vale más que eso.}
+{227}{}{Tal vez. Â¿Tienes algo que quieras vender?}
+{228}{}{SÃ­, tengo algo aquÃ­ mismo conmigo. Echa un vistazo y hazme una oferta.}
+{229}{}{SÃ­, tengo algo aquÃ­ mismo conmigo. Echa un vistazo y haz una oferta.}
+{230}{}{No. En realidad tenÃ­a algunas preguntas para ti...}
+{231}{}{No, hoy no. AdiÃ³s.}
+{232}{}{Hmmm. Esa mujer de ahÃ­, Miria, Â¿no? Tiene unos brazos robustos... y buenas caderas. Te la compro por 250 dÃ³lares.}
+{233}{}{Hmmm. Ese chico de allÃ­, Davin, Â¿no? No parece tan contaminado como el resto de Errantes. Te lo comprarÃ© por 200 dÃ³lares.}
+{234}{}{Hmmm. Ese tribal que tienes. Huele... demasiado. Pero parece fuerte. Me lo llevo por 100 dÃ³lares.}
+{235}{}{Hmmm. Ese tipo de ahÃ­... Vic, Â¿verdad? Aunque es viejo, parece un manitas. 100 dÃ³lares.}
+{236}{}{QuizÃ¡ debas volver cuando tengas un siervo valioso que enseÃ±arme. Tu catÃ¡logo actual... no impresiona a nadie.}
+{237}{}{Venga ya, este esclavo vale mÃ¡s que eso.}
 {238}{}{Un precio justo. Es todo tuyo.}
-{239}{}{En realidad no voy a venderlo todavía. Tengo algunas preguntas que hacerte...}
-{240}{}{En realidad no voy a vender a ese esclavo. Quizás en otro momento.}
+{239}{}{En realidad no voy a venderlo todavÃ­a. Tengo algunas preguntas que hacerte...}
+{240}{}{En realidad no voy a vender a ese esclavo. QuizÃ¡s en otro momento.}
 {241}{}{Muy bien. Tengo algunas preguntas que hacerte.}
-{242}{}{De acuerdo. Quizás cuando tenga algo más que ofrecerte.}
+{242}{}{De acuerdo. QuizÃ¡s cuando tenga algo mÃ¡s que ofrecerte.}
 {243}{}{No, creo que no... 250 o nada.}
-{244}{}{No, el chico parece difícil de adiestrar... 200 o nada.}
-{245}{}{Mira. Me llevará una semana quitarle este olor al tribal. 100 o nada.}
-{246}{}{Ni siquiera me puedes asegurar de que no tendrá un ataque al corazón en cuanto me lo vendas. Está viejo. 100 o nada.}
+{244}{}{No, el chico parece difÃ­cil de adiestrar... 200 o nada.}
+{245}{}{Mira. Me llevarÃ¡ una semana quitarle este olor al tribal. 100 o nada.}
+{246}{}{Ni siquiera me puedes asegurar de que no tendrÃ¡ un ataque al corazÃ³n en cuanto me lo vendas. EstÃ¡ viejo. 100 o nada.}
 {247}{}{De acuerdo, es justo. El siervo es tuyo.}
-{248}{}{Olvídalo. Tenía unas preguntas que hacerte...}
-{249}{}{Entonces nada. No puedo permitirme dejar marchar a mi siervo por ese precio. Quizás en otro momento.}
-{250}{}{Hmmmm... Parece un espécimen saludable... quizás la pueda poner a trabajar por aquí. 500 dólares. Y es mi última palabra.}
-{251}{}{Hmmmm. Es un espécimen saludable. Te doy 400 dólares por él.}
-{252}{}{Hmmmm. De acuerdo. Te doy 200 dólares. Y vale ya de regatear.}
-{253}{}{Hmmmmmmm. 200. Ni un dólar más.}
+{248}{}{OlvÃ­dalo. TenÃ­a unas preguntas que hacerte...}
+{249}{}{Entonces nada. No puedo permitirme dejar marchar a mi siervo por ese precio. QuizÃ¡s en otro momento.}
+{250}{}{Hmmmm... Parece un espÃ©cimen saludable... quizÃ¡s la pueda poner a trabajar por aquÃ­. 500 dÃ³lares. Y es mi Ãºltima palabra.}
+{251}{}{Hmmmm. Es un espÃ©cimen saludable. Te doy 400 dÃ³lares por Ã©l.}
+{252}{}{Hmmmm. De acuerdo. Te doy 200 dÃ³lares. Y vale ya de regatear.}
+{253}{}{Hmmmmmmm. 200. Ni un dÃ³lar mÃ¡s.}
 {254}{}{Es justo. El siervo es tuyo.}
-{255}{}{En realidad no voy a venderlo todavía. Tengo algunas preguntas que hacerte...}
-{256}{}{En realidad no voy a vender a ese esclavo. Quizás en otro momento.}
-{257}{}{Excelente. Aquí está tu dinero. La enviaré a la revisión médica.}
-{258}{}{Excelente. Aquí está tu dinero. Le enviaré a la revisión médica.}
-{259}{}{Excelente. Aquí está tu dinero. Enviaré al tribal a la revisión médica.}
-{260}{}{Excelente. Aquí está tu dinero. Enviaré al viejo a la revisión médica.}
+{255}{}{En realidad no voy a venderlo todavÃ­a. Tengo algunas preguntas que hacerte...}
+{256}{}{En realidad no voy a vender a ese esclavo. QuizÃ¡s en otro momento.}
+{257}{}{Excelente. AquÃ­ estÃ¡ tu dinero. La enviarÃ© a la revisiÃ³n mÃ©dica.}
+{258}{}{Excelente. AquÃ­ estÃ¡ tu dinero. Le enviarÃ© a la revisiÃ³n mÃ©dica.}
+{259}{}{Excelente. AquÃ­ estÃ¡ tu dinero. EnviarÃ© al tribal a la revisiÃ³n mÃ©dica.}
+{260}{}{Excelente. AquÃ­ estÃ¡ tu dinero. EnviarÃ© al viejo a la revisiÃ³n mÃ©dica.}
 {261}{}{Dame un momento para hacer unas gestiones...}
-{262}{}{Claro. Esperaré aquí.}
-{263}{}{Muy bien. Tu siervo ha sido trasladado a revisión médica y reacondicionamiento. Es curioso... el siervo parecía bastante sorprendido por todo el asunto. Se le ha administrado un tranquilizante para agilizar los trámites. Pondré los efectos personales del siervo en una caja de mi oficina.}
-{264}{}{Bueno, los siervos siempre serán siervos. Tenía otras preguntas que hacerte...}
-{265}{}{¿En serio? Vaya, estaba seguro de que serían más dóciles cuanto más tiempo pasara. ¿Estás interesado en algún otro compañero?}
-{266}{}{Sí, puede ser un poco difícil al principio; pero se acostumbran. Que te vaya bien.}
-{267}{}{¿Qué estás haciendo otra vez aquí? ¡Te envié al Refugio! Por todos los... muy bien, haré que te escolten hasta allí de nuevo.}
+{262}{}{Claro. EsperarÃ© aquÃ­.}
+{263}{}{Muy bien. Tu siervo ha sido trasladado a revisiÃ³n mÃ©dica y reacondicionamiento. Es curioso... el siervo parecÃ­a bastante sorprendido por todo el asunto. Se le ha administrado un tranquilizante para agilizar los trÃ¡mites. PondrÃ© los efectos personales del siervo en una caja de mi oficina.}
+{264}{}{Bueno, los siervos siempre serÃ¡n siervos. TenÃ­a otras preguntas que hacerte...}
+{265}{}{Â¿En serio? Vaya, estaba seguro de que serÃ­an mÃ¡s dÃ³ciles cuanto mÃ¡s tiempo pasara. Â¿EstÃ¡s interesado en algÃºn otro compaÃ±ero?}
+{266}{}{SÃ­, puede ser un poco difÃ­cil al principio; pero se acostumbran. Que te vaya bien.}
+{267}{}{Â¿QuÃ© estÃ¡s haciendo otra vez aquÃ­? Â¡Te enviÃ© al Refugio! Por todos los... muy bien, harÃ© que te escolten hasta allÃ­ de nuevo.}
 {268}{}{Valeeeee}
 {269}{}{Has convencido a Barkus para liberar a Joshua.}
-{300}{}{He oído que estás bastante el héroe. Buen trabajo.}
+{300}{}{He oÃ­do que estÃ¡s bastante el hÃ©roe. Buen trabajo.}

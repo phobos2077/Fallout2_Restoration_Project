@@ -1,6 +1,6 @@
-{100}{}{Próba nieautoryzowanego otwarcia. Blokujê drzwi.}
+{100}{}{PrÃ³ba nieautoryzowanego otwarcia. BlokujÄ™ drzwi.}
 {101}{}{Autoryzacja potwierdzona. Otwieram drzwi.}
-{102}{}{Drzwi s¹ ju¿ otwarte.}
-{103}{}{Widzisz drzwi do skrzyd³a ochrony.}
-{104}{}{Widzisz wzmocnione drzwi do skrzyd³a ochrony.}
+{102}{}{Drzwi sÄ… juÅ¼ otwarte.}
+{103}{}{Widzisz drzwi do skrzydÅ‚a ochrony.}
+{104}{}{Widzisz wzmocnione drzwi do skrzydÅ‚a ochrony.}
 {200}{}{Brak zamka do otwarcia.}

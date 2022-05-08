@@ -1,57 +1,57 @@
-{100}{}{Ma³y ch³opiec}
+{100}{}{MaÅ‚y chÅ‚opiec}
 {101}{}{Jonny}
-{102}{}{Blond w³osy, niebieskie oczy... Klasyczny przyk³ad amerykañskiego dzieciaka.}
-{150}{}{£aaaaa!}
-{151}{}{Chcê z powrotem mojego psa!}
+{102}{}{Blond wÅ‚osy, niebieskie oczy... Klasyczny przykÅ‚ad amerykaÅ„skiego dzieciaka.}
+{150}{}{Åaaaaa!}
+{151}{}{ChcÄ™ z powrotem mojego psa!}
 {152}{}{Skomlenie...}
 {153}{}{Obcy!}
-{154}{}{Nareszcie jesteœ, œlicznotko! Têskni³em za tob¹, ma³a. Dziêki za odzyskanie mojego psiaka.}
-{155}{}{Hej, nie widzia³em ciê tu wczeœniej.}
-{156}{}{Masz na imiê Jonny?}
-{157}{}{Jak siê nazywasz, ma³y?}
-{158}{}{Mów, jak siê nazywasz, ty ma³y potworze.}
-{159}{}{Chcia³byŸ cukierka, dzieciaku?}
+{154}{}{Nareszcie jesteÅ›, Å›licznotko! TÄ™skniÅ‚em za tobÄ…, maÅ‚a. DziÄ™ki za odzyskanie mojego psiaka.}
+{155}{}{Hej, nie widziaÅ‚em ciÄ™ tu wczeÅ›niej.}
+{156}{}{Masz na imiÄ™ Jonny?}
+{157}{}{Jak siÄ™ nazywasz, maÅ‚y?}
+{158}{}{MÃ³w, jak siÄ™ nazywasz, ty maÅ‚y potworze.}
+{159}{}{ChciaÅ‚byÅº cukierka, dzieciaku?}
 {160}{}{Witaj ponownie.}
-{161}{}{Masz na imiê Jonny?}
-{162}{}{Jak siê nazywasz, ma³y?}
-{163}{}{Mów, jak siê nazywasz, ty ma³y potworze.}
-{164}{}{Chcia³byŸ cukierka, dzieciaku?}
+{161}{}{Masz na imiÄ™ Jonny?}
+{162}{}{Jak siÄ™ nazywasz, maÅ‚y?}
+{163}{}{MÃ³w, jak siÄ™ nazywasz, ty maÅ‚y potworze.}
+{164}{}{ChciaÅ‚byÅº cukierka, dzieciaku?}
 {165}{}{Witaj ponownie.}
-{166}{}{Twoi rodzice wys³ali mnie za tob¹ na poszukiwania.}
-{167}{}{Chcia³byŸ cukierka, dzieciaku?}
-{168}{}{Czy Vegeir ju¿ wie o tym, ¿e mam wróciæ?}
-{169}{}{Tak. Powiedzia³, ¿e chce, aby twoi rodzice przyszli tu po ciebie.}
+{166}{}{Twoi rodzice wysÅ‚ali mnie za tobÄ… na poszukiwania.}
+{167}{}{ChciaÅ‚byÅº cukierka, dzieciaku?}
+{168}{}{Czy Vegeir juÅ¼ wie o tym, Å¼e mam wrÃ³ciÄ‡?}
+{169}{}{Tak. PowiedziaÅ‚, Å¼e chce, aby twoi rodzice przyszli tu po ciebie.}
 {170}{}{Nie, jeszcze nie.}
-{171}{}{Tatuœ mówi³, ¿e Œlicznotka posz³a z tob¹, aby mnie szukaæ. Gdzie teraz jest? Têskniê za ni¹.}
-{172}{}{Przykro mi, Jonny. Laddie zgin¹³, kiedy szukaliœmy ciebie.}
-{173}{}{Rose obieca³a poszukaæ twojego psa.}
-{174}{}{Mam na imiê Jonny. A ty?}
-{175}{}{Nazywam siê }
+{171}{}{TatuÅ› mÃ³wiÅ‚, Å¼e Åšlicznotka poszÅ‚a z tobÄ…, aby mnie szukaÄ‡. Gdzie teraz jest? TÄ™skniÄ™ za niÄ….}
+{172}{}{Przykro mi, Jonny. Laddie zginÄ…Å‚, kiedy szukaliÅ›my ciebie.}
+{173}{}{Rose obiecaÅ‚a poszukaÄ‡ twojego psa.}
+{174}{}{Mam na imiÄ™ Jonny. A ty?}
+{175}{}{Nazywam siÄ™ }
 {176}{}{.}
-{177}{}{To nie jest wa¿ne.}
-{178}{}{Mam na imiê Jonny, a ty mi siê nie podobasz.}
-{179}{}{[Wskazuje na ciebie palcem i zaczyna krzyczeæ.] Obcy! Obcy! Obcy!}
-{180}{}{Mi³o mi ciê poznaæ.}
-{181}{}{Twoi rodzice wys³ali mnie za tob¹ na poszukiwania.}
+{177}{}{To nie jest waÅ¼ne.}
+{178}{}{Mam na imiÄ™ Jonny, a ty mi siÄ™ nie podobasz.}
+{179}{}{[Wskazuje na ciebie palcem i zaczyna krzyczeÄ‡.] Obcy! Obcy! Obcy!}
+{180}{}{MiÅ‚o mi ciÄ™ poznaÄ‡.}
+{181}{}{Twoi rodzice wysÅ‚ali mnie za tobÄ… na poszukiwania.}
 {182}{}{To na razie, dzieciaku.}
-{183}{}{To super! Chcia³em iœæ do domu, ale Vegeir mówi, ¿e jego ludzie nie mog¹ zapuszczaæ siê tak daleko i nie bêd¹ mogli mnie wzi¹æ ze sob¹... Wiesz, nie ¿ebym ci nie wierzy³, ale powiedz mi, jak ma na imiê mój ojciec?}
+{183}{}{To super! ChciaÅ‚em iÅ›Ä‡ do domu, ale Vegeir mÃ³wi, Å¼e jego ludzie nie mogÄ… zapuszczaÄ‡ siÄ™ tak daleko i nie bÄ™dÄ… mogli mnie wziÄ…Ä‡ ze sobÄ…... Wiesz, nie Å¼ebym ci nie wierzyÅ‚, ale powiedz mi, jak ma na imiÄ™ mÃ³j ojciec?}
 {184}{}{Farrel}
 {185}{}{Cornelius}
 {186}{}{Balthas}
 {187}{}{Davin}
 {188}{}{Joshua}
 {189}{}{No co ty, nie wierzysz mi Jonny?}
-{190}{}{Hmm... nie. Dziêki za odnalezienie psa, ale na mnie ju¿ czas. Czeœæ.}
-{191}{}{Naprawdê fajnie by³o ciê poznaæ, ale muszê ju¿ iœæ. Czeœæ.}
-{192}{}{Zgadza siê! Hurrra! Wracam do domu! Zapytaj Vegeira, czy mogê z tob¹ iœæ. Po tym wszystkim, co dla mnie zrobi³, nie chcê odchodziæ bez jego zgody. Proszê poœpiesz siê, têskniê za domem.}
-{193}{}{Dobrze, wierzê panu. Proszê zapytaæ Vegeira czy mogê iœæ. Po tym wszystkim, co dla mnie zrobi³, nie chcê odchodziæ bez jego zgody.}
-{194}{}{Dobrze, wierzê pani. Proszê zapytaæ Vegeira czy mogê iœæ. Po tym wszystkim, co dla mnie zrobi³, nie chcê odchodziæ bez jego zgody.}
-{195}{}{Nie. Idê teraz pobawiæ siê z moimi kolegami. Czeœæ.}
-{196}{}{Nie powinienem rozmawiaæ z nieznajomymi. Do widzenia.}
-{197}{}{Tak! Sk¹d wiesz? Pewnie Laddie ci powiedzia³. To taki m¹dry piesek.}
-{198}{}{Twoi rodzice wys³ali mnie za tob¹ na poszukiwania.}
-{199}{}{Pójdziesz ze mn¹ ma³y. Chcê zebraæ nagrodê za przyprowadzenie ciê do domu.}
-{200}{}{Tak, myœlê, ¿e tak bêdzie najlepiej. Wierzê ci, ale s¹dzê, ¿e Vegeir po prostu chce siê upewniæ, ¿e trafiê bezpiecznie do domu. Dziêki za pomoc.}
-{201}{}{Poœpiesz siê, proszê. Chcê do domu.}
-{202}{}{Nie! K³amiesz! Chcê mojego psa! [£aaaaa!]}
-{203}{}{O nie! Nie wiesz, ¿e Rose robi z psów jedzenie! Laddie jest ju¿ pewnie burgerem.}
+{190}{}{Hmm... nie. DziÄ™ki za odnalezienie psa, ale na mnie juÅ¼ czas. CzeÅ›Ä‡.}
+{191}{}{NaprawdÄ™ fajnie byÅ‚o ciÄ™ poznaÄ‡, ale muszÄ™ juÅ¼ iÅ›Ä‡. CzeÅ›Ä‡.}
+{192}{}{Zgadza siÄ™! Hurrra! Wracam do domu! Zapytaj Vegeira, czy mogÄ™ z tobÄ… iÅ›Ä‡. Po tym wszystkim, co dla mnie zrobiÅ‚, nie chcÄ™ odchodziÄ‡ bez jego zgody. ProszÄ™ poÅ›piesz siÄ™, tÄ™skniÄ™ za domem.}
+{193}{}{Dobrze, wierzÄ™ panu. ProszÄ™ zapytaÄ‡ Vegeira czy mogÄ™ iÅ›Ä‡. Po tym wszystkim, co dla mnie zrobiÅ‚, nie chcÄ™ odchodziÄ‡ bez jego zgody.}
+{194}{}{Dobrze, wierzÄ™ pani. ProszÄ™ zapytaÄ‡ Vegeira czy mogÄ™ iÅ›Ä‡. Po tym wszystkim, co dla mnie zrobiÅ‚, nie chcÄ™ odchodziÄ‡ bez jego zgody.}
+{195}{}{Nie. IdÄ™ teraz pobawiÄ‡ siÄ™ z moimi kolegami. CzeÅ›Ä‡.}
+{196}{}{Nie powinienem rozmawiaÄ‡ z nieznajomymi. Do widzenia.}
+{197}{}{Tak! SkÄ…d wiesz? Pewnie Laddie ci powiedziaÅ‚. To taki mÄ…dry piesek.}
+{198}{}{Twoi rodzice wysÅ‚ali mnie za tobÄ… na poszukiwania.}
+{199}{}{PÃ³jdziesz ze mnÄ… maÅ‚y. ChcÄ™ zebraÄ‡ nagrodÄ™ za przyprowadzenie ciÄ™ do domu.}
+{200}{}{Tak, myÅ›lÄ™, Å¼e tak bÄ™dzie najlepiej. WierzÄ™ ci, ale sÄ…dzÄ™, Å¼e Vegeir po prostu chce siÄ™ upewniÄ‡, Å¼e trafiÄ™ bezpiecznie do domu. DziÄ™ki za pomoc.}
+{201}{}{PoÅ›piesz siÄ™, proszÄ™. ChcÄ™ do domu.}
+{202}{}{Nie! KÅ‚amiesz! ChcÄ™ mojego psa! [Åaaaaa!]}
+{203}{}{O nie! Nie wiesz, Å¼e Rose robi z psÃ³w jedzenie! Laddie jest juÅ¼ pewnie burgerem.}

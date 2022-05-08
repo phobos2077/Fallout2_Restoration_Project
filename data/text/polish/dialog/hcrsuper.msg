@@ -1,54 +1,54 @@
-{100}{}{Widzisz dziwn¹, zmutowan¹ istotê o plamistej skórze i odra¿aj¹cym uœmiechu.}
+{100}{}{Widzisz dziwnÄ…, zmutowanÄ… istotÄ™ o plamistej skÃ³rze i odraÅ¼ajÄ…cym uÅ›miechu.}
 {101}{}{Widzisz kierownika rafinerii.}
-{102}{}{Widzisz ghula. Jego skóra wygl¹da jakby za chwilê mia³a zacz¹æ odpadaæ p³atami. NajwyraŸniej nie przeszkadza to innym mieszkañcom miasta.}
-{103}{}{Nie masz prawa tu przebywaæ! }
+{102}{}{Widzisz ghula. Jego skÃ³ra wyglÄ…da jakby za chwilÄ™ miaÅ‚a zaczÄ…Ä‡ odpadaÄ‡ pÅ‚atami. NajwyraÅºniej nie przeszkadza to innym mieszkaÅ„com miasta.}
+{103}{}{Nie masz prawa tu przebywaÄ‡! }
 {104}{}{Czego chcesz?}
 {105}{}{Da jaga! Upeuu op!}
 {106}{}{Nie wie.}
-{107}{}{Mam tu trochê rudy do oczyszczenia.}
-{108}{}{Kim jesteœ?}
+{107}{}{Mam tu trochÄ™ rudy do oczyszczenia.}
+{108}{}{Kim jesteÅ›?}
 {109}{}{Co to za miejsce?}
-{110}{}{Potrzebujê trochê uranu.}
+{110}{}{PotrzebujÄ™ trochÄ™ uranu.}
 {111}{}{Nic nic.}
 {112}{}{Zapomnij, na razie.}
-{113}{}{S³uchaj, przykro mi, ¿e nie masz pi¹tej klepki, ale nie wolno ci tu przebywaæ. No ju¿, uciekaj.}
+{113}{}{SÅ‚uchaj, przykro mi, Å¼e nie masz piÄ…tej klepki, ale nie wolno ci tu przebywaÄ‡. No juÅ¼, uciekaj.}
 {114}{}{[dalej]}
-{115}{}{Nie mo¿esz tu przebywaæ. To zbyt niebezpieczne. No ju¿, zmykaj.}
+{115}{}{Nie moÅ¼esz tu przebywaÄ‡. To zbyt niebezpieczne. No juÅ¼, zmykaj.}
 {116}{}{[dalej]}
-{117}{}{Jasne. To bêdzie równe $1000, ¿adne targowania. Mo¿e wydaje ci siê, ¿e to drogo, ale uwzglêdniaj¹c to, ¿e dostajesz do rêki gotowy produkt, to prawie jak za darmo.}
+{117}{}{Jasne. To bÄ™dzie rÃ³wne $1000, Å¼adne targowania. MoÅ¼e wydaje ci siÄ™, Å¼e to drogo, ale uwzglÄ™dniajÄ…c to, Å¼e dostajesz do rÄ™ki gotowy produkt, to prawie jak za darmo.}
 {118}{}{Umowa stoi.}
-{119}{}{$1000? To jakieœ ¿arty!}
+{119}{}{$1000? To jakieÅ› Å¼arty!}
 {120}{}{Jestem kierownikiem tej rafinerii. Czego chcesz?}
 {121}{}{Co to za miejsce?}
-{122}{}{Mam tu trochê rudy wymagaj¹cej oczyszczenia.}
-{123}{}{Potrzebujê trochê uranu.}
+{122}{}{Mam tu trochÄ™ rudy wymagajÄ…cej oczyszczenia.}
+{123}{}{PotrzebujÄ™ trochÄ™ uranu.}
 {124}{}{Nic nic.}
-{125}{}{Jesteœ w rafinerii Broken Hills. Tutaj oczyszczamy rudê wydobywan¹ w kopalni. Czego tu szukasz?}
+{125}{}{JesteÅ› w rafinerii Broken Hills. Tutaj oczyszczamy rudÄ™ wydobywanÄ… w kopalni. Czego tu szukasz?}
 {126}{}{Co to za miejsce?}
-{127}{}{Mam tu trochê rudy wymagaj¹cej oczyszczenia.}
-{128}{}{Potrzebujê trochê uranu.}
+{127}{}{Mam tu trochÄ™ rudy wymagajÄ…cej oczyszczenia.}
+{128}{}{PotrzebujÄ™ trochÄ™ uranu.}
 {129}{}{Nic nic.}
-{130}{}{Masz za ma³o pieniêdzy. Porozmawiamy innym razem.}
+{130}{}{Masz za maÅ‚o pieniÄ™dzy. Porozmawiamy innym razem.}
 {131}{}{[dalej]}
-{132}{}{W porz¹dku. Wróæ jutro po odbiór towaru.}
+{132}{}{W porzÄ…dku. WrÃ³Ä‡ jutro po odbiÃ³r towaru.}
 {133}{}{Wspaniale. Na razie.}
-{134}{}{¯yczê szczêœcia w poszukiwaniu innej rafinerii, he he! Oczyszczanie rudy to niebezpieczny proces -- zadanie dla profesjonalistów. Kupujesz czy nie?}
+{134}{}{Å»yczÄ™ szczÄ™Å›cia w poszukiwaniu innej rafinerii, he he! Oczyszczanie rudy to niebezpieczny proces -- zadanie dla profesjonalistÃ³w. Kupujesz czy nie?}
 {135}{}{Tak.}
 {136}{}{Nie.}
-{137}{}{Dobra. Nie masz tu czego szukaæ. WyjdŸ st¹d, ¿ebyœmy mogli wróciæ do pracy.}
+{137}{}{Dobra. Nie masz tu czego szukaÄ‡. WyjdÅº stÄ…d, Å¼ebyÅ›my mogli wrÃ³ciÄ‡ do pracy.}
 {138}{}{Bywaj.}
-{139}{}{To chyba ¿art. Od nas go nie dostaniesz.}
-{140}{}{Wiêc giñ.}
-{141}{}{W porz¹dku. Na razie.}
-{142}{}{Hej! Wynoœ siê st¹d, albo bêd¹ k³opoty!}
-{143}{}{Wynoœ siê z mojej rafinerii. Ale ju¿!}
-{144}{}{Jeszcze nad tym pracujemy. Daj nam trochê czasu. To d³ugi proces.}
-{145}{}{Chcê ciê o coœ zapytaæ.}
-{146}{}{W porz¹dku. Na razie.}
-{147}{}{Zrobione, ale zanim dostaniesz towar, pos³uchaj: Naszemu miastu bardzo przyda siê ta ruda. Jeœli zechcesz j¹ nam podarowaæ, zwrócimy ci koszty. Co ty na to?}
+{139}{}{To chyba Å¼art. Od nas go nie dostaniesz.}
+{140}{}{WiÄ™c giÅ„.}
+{141}{}{W porzÄ…dku. Na razie.}
+{142}{}{Hej! WynoÅ› siÄ™ stÄ…d, albo bÄ™dÄ… kÅ‚opoty!}
+{143}{}{WynoÅ› siÄ™ z mojej rafinerii. Ale juÅ¼!}
+{144}{}{Jeszcze nad tym pracujemy. Daj nam trochÄ™ czasu. To dÅ‚ugi proces.}
+{145}{}{ChcÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{146}{}{W porzÄ…dku. Na razie.}
+{147}{}{Zrobione, ale zanim dostaniesz towar, posÅ‚uchaj: Naszemu miastu bardzo przyda siÄ™ ta ruda. JeÅ›li zechcesz jÄ… nam podarowaÄ‡, zwrÃ³cimy ci koszty. Co ty na to?}
 {148}{}{Nie ma mowy.}
 {149}{}{Jasne.}
-{150}{}{Dobrze, niech i tak bêdzie. Oto twój uran. A teraz wynoœ siê z mojej rafinerii.}
+{150}{}{Dobrze, niech i tak bÄ™dzie. Oto twÃ³j uran. A teraz wynoÅ› siÄ™ z mojej rafinerii.}
 {151}{}{Bywaj.}
-{152}{}{Dziêkujê! Oto twoje pieni¹dze.}
+{152}{}{DziÄ™kujÄ™! Oto twoje pieniÄ…dze.}
 {153}{}{Nie ma sprawy.}

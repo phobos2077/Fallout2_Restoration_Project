@@ -2,101 +2,101 @@
 {101}{}{Tu vois Dave H.}
 {102}{}{Tu vois un homme aux cheveux blond-roux avec une lueur d'espoir dans les yeux.}
 {103}{}{Pourquoi veux-tu nous faire mal ?}
-{104}{}{Bienvenue, l'être éclairé.}
-{105}{}{Je vais voir Vikki... Hum... Bientôt.}
+{104}{}{Bienvenue, l'Ãªtre Ã©clairÃ©.}
+{105}{}{Je vais voir Vikki... Hum... BientÃ´t.}
 {106}{}{Comment puis-je t'aider ?}
 {107}{}{Que veux-tu ?}
 {108}{}{Da... oooh...}
 {109}{}{Qui es-tu ?}
 {110}{}{Qu'est-ce tu fais ici ?}
-{111}{}{J'ai parlé à Vikki. Juan et elle se sont moqués de toi et ont dit que tu n'étais pas un vrai homme.}
-{112}{}{J'ai parlé à Vikki. Elle a dit que tu étais canon et qu'elle aimerait bien te rencontrer un jour.}
-{113}{}{Tu veux que je parle à Vikki pour toi ?}
+{111}{}{J'ai parlÃ© Ã  Vikki. Juan et elle se sont moquÃ©s de toi et ont dit que tu n'Ã©tais pas un vrai homme.}
+{112}{}{J'ai parlÃ© Ã  Vikki. Elle a dit que tu Ã©tais canon et qu'elle aimerait bien te rencontrer un jour.}
+{113}{}{Tu veux que je parle Ã  Vikki pour toi ?}
 {114}{}{Ca n'a pas d'importance. Salut.}
-{115}{}{Hum... Ok. Qu'importe. Eh, que se passe-t-il là ? [Alors que tu te retournes pour regarder, il se remet au travail et fait comme s'il ne te voyait pas.]}
-{116}{}{[Terminé]}
+{115}{}{Hum... Ok. Qu'importe. Eh, que se passe-t-il lÃ  ? [Alors que tu te retournes pour regarder, il se remet au travail et fait comme s'il ne te voyait pas.]}
+{116}{}{[TerminÃ©]}
 {117}{}{Je m'appelle Dave Handy. Je viens du Canada.}
 {118}{}{Alors, que fais-tu ici ?}
-{119}{}{Qu'est-ce qui t'amène ici ?}
+{119}{}{Qu'est-ce qui t'amÃ¨ne ici ?}
 {120}{}{Merci. Au revoir.}
-{121}{}{Je montre à ces gars comment déplacer leurs données et je réponds à des questions stupides toute la journée.}
-{122}{}{Serais-tu capable de pirater la base de données des Shis ?}
+{121}{}{Je montre Ã  ces gars comment dÃ©placer leurs donnÃ©es et je rÃ©ponds Ã  des questions stupides toute la journÃ©e.}
+{122}{}{Serais-tu capable de pirater la base de donnÃ©es des Shis ?}
 {123}{}{Quelle sorte de questions stupides ?}
 {124}{}{Eh bien, j'ai d'autres questions pour toi.}
 {125}{}{Ca a l'air formidable. Au revoir.}
 {126}{}{Promets-moi de ne pas rire.}
 {127}{}{Ok.}
-{128}{}{Non, oublie ça.}
-{129}{}{Le recruteur du Centre, Vikki Goldman. J'ai vu un de ses films au Canada et j'ai tout de suite su qu'elle tomberait amoureuse de moi. Ce n'est pas encore fait, mais ça viendra.}
+{128}{}{Non, oublie Ã§a.}
+{129}{}{Le recruteur du Centre, Vikki Goldman. J'ai vu un de ses films au Canada et j'ai tout de suite su qu'elle tomberait amoureuse de moi. Ce n'est pas encore fait, mais Ã§a viendra.}
 {130}{}{Je le garderai pour moi. J'ai d'autres questions.}
-{131}{}{Ha ha ! Tu es vraiment bête ! C'est une star du porno, mon gars. Elle ne veut pas de toi.}
-{132}{}{Réalises-tu qu'elle fera semblant de s'intéresser à toi pour s'assurer que tu te comportes en un bon Hubologiste ?}
-{133}{}{Euh, ouais... Mais ça vaut le coup au cas où il se passerait quelque chose !}
+{131}{}{Ha ha ! Tu es vraiment bÃªte ! C'est une star du porno, mon gars. Elle ne veut pas de toi.}
+{132}{}{RÃ©alises-tu qu'elle fera semblant de s'intÃ©resser Ã  toi pour s'assurer que tu te comportes en un bon Hubologiste ?}
+{133}{}{Euh, ouais... Mais Ã§a vaut le coup au cas oÃ¹ il se passerait quelque chose !}
 {134}{}{Si tu le dis... Ben, J'ai d'autres questions.}
-{135}{}{Allez va, à plus.}
-{136}{}{[Il s'assoit en silence pendant un moment. La douleur se lit sur son visage.] Oh, très bien. [Il détourne la tête.]}
+{135}{}{Allez va, Ã  plus.}
+{136}{}{[Il s'assoit en silence pendant un moment. La douleur se lit sur son visage.] Oh, trÃ¨s bien. [Il dÃ©tourne la tÃªte.]}
 {137}{}{Je parie que tu veux la revoir.}
 {138}{}{Pardon. J'ai d'autres questions.}
-{139}{}{Après avoir donné ces nouvelles... Salut !}
+{139}{}{AprÃ¨s avoir donnÃ© ces nouvelles... Salut !}
 {140}{}{Evidemment. Que veux-tu ?}
-{141}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
+{141}{}{J'ai besoin des plans d'hÃ©licos qui se trouvent sur ton ordinateur.}
 {142}{}{J'ai besoin que tu formates le disque dur des Hubologistes.}
-{143}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
-{144}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
+{143}{}{Je veux que tu pirates les bases de donnÃ©es des Shis et que tu transfÃ¨res du carburant sur le pÃ©trolier PosÃ©idon.}
+{144}{}{Je veux que tu rÃ©achemines le carburant du vaisseau spatial vers le pÃ©trolier PosÃ©idon.}
 {145}{}{Rien. Au revoir.}
-{146}{}{Voilà. Maintenant, fiche le camp. Je vais formater l'ordinateur et partir.}
-{147}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
-{148}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
-{149}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
-{150}{}{Eh bien, je plaisantais. En fait, elle n'a pas dit ça.}
+{146}{}{VoilÃ . Maintenant, fiche le camp. Je vais formater l'ordinateur et partir.}
+{147}{}{J'ai besoin des plans d'hÃ©licos qui se trouvent sur ton ordinateur.}
+{148}{}{Je veux que tu pirates les bases de donnÃ©es des Shis et que tu transfÃ¨res du carburant sur le pÃ©trolier PosÃ©idon.}
+{149}{}{Je veux que tu rÃ©achemines le carburant du vaisseau spatial vers le pÃ©trolier PosÃ©idon.}
+{150}{}{Eh bien, je plaisantais. En fait, elle n'a pas dit Ã§a.}
 {151}{}{Bonne chance. Salut !}
-{152}{}{Voilà. Ca apprendra à ces bâtards à m'utiliser puis à me rejeter. Au revoir.}
-{153}{}{Eh bien, je plaisantais. En fait, elle n'a pas dit ça.}
+{152}{}{VoilÃ . Ca apprendra Ã  ces bÃ¢tards Ã  m'utiliser puis Ã  me rejeter. Au revoir.}
+{153}{}{Eh bien, je plaisantais. En fait, elle n'a pas dit Ã§a.}
 {154}{}{Salut.}
-{155}{}{Elle n'a pas dit ça. Oh, bien.}
+{155}{}{Elle n'a pas dit Ã§a. Oh, bien.}
 {156}{}{Alors j'ai fait tout ce mal pour rien. Je vais te tuer maintenant.}
 {157}{}{Essaie un peu.}
-{158}{}{Elle a dit ça ? Vraiment ? Ouah ! [Un sourire béat s'affiche lentement sur son visage.] Merci ! Que puis-je faire pour toi ?}
-{159}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
+{158}{}{Elle a dit Ã§a ? Vraiment ? Ouah ! [Un sourire bÃ©at s'affiche lentement sur son visage.] Merci ! Que puis-je faire pour toi ?}
+{159}{}{J'ai besoin des plans d'hÃ©licos qui se trouvent sur ton ordinateur.}
 {160}{}{J'ai besoin que tu formates le disque dur des Hubologistes.}
-{161}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
-{162}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
+{161}{}{Je veux que tu pirates les bases de donnÃ©es des Shis et que tu transfÃ¨res du carburant sur le pÃ©trolier PosÃ©idon.}
+{162}{}{Je veux que tu rÃ©achemines le carburant du vaisseau spatial vers le pÃ©trolier PosÃ©idon.}
 {163}{}{Ahh, rien. Continue et amuse-toi bien.}
-{164}{}{Voilà. Autre chose ?}
-{165}{}{J'ai besoin des plans d'hélicos qui se trouvent sur ton ordinateur.}
+{164}{}{VoilÃ . Autre chose ?}
+{165}{}{J'ai besoin des plans d'hÃ©licos qui se trouvent sur ton ordinateur.}
 {166}{}{J'ai besoin que tu formates le disque dur des Hubologistes.}
-{167}{}{Je veux que tu réachemines le carburant du vaisseau spatial vers le pétrolier Poséidon.}
-{168}{}{Je veux que tu pirates les bases de données des Shis et que tu transfères du carburant sur le pétrolier Poséidon.}
+{167}{}{Je veux que tu rÃ©achemines le carburant du vaisseau spatial vers le pÃ©trolier PosÃ©idon.}
+{168}{}{Je veux que tu pirates les bases de donnÃ©es des Shis et que tu transfÃ¨res du carburant sur le pÃ©trolier PosÃ©idon.}
 {169}{}{Non. Au revoir !}
-{170}{}{Formater le disque dur ? Tu plaisantes ? Hors de question ! Je ne peux pas faire ça !}
-{171}{}{Il ne s'agit que d'un nettoyage de routine. J'ai déjà sauvegardé tout le reste.}
-{172}{}{Oh, très bien. J'ai d'autres questions.}
-{173}{}{Oh, très bien. Au revoir.}
-{174}{}{Oh. Très bien, si tu as tout sauvegardé, je vais le faire. [Il tape sur le clavier...] Voilà.}
+{170}{}{Formater le disque dur ? Tu plaisantes ? Hors de question ! Je ne peux pas faire Ã§a !}
+{171}{}{Il ne s'agit que d'un nettoyage de routine. J'ai dÃ©jÃ  sauvegardÃ© tout le reste.}
+{172}{}{Oh, trÃ¨s bien. J'ai d'autres questions.}
+{173}{}{Oh, trÃ¨s bien. Au revoir.}
+{174}{}{Oh. TrÃ¨s bien, si tu as tout sauvegardÃ©, je vais le faire. [Il tape sur le clavier...] VoilÃ .}
 {175}{}{Merci ! Tchao !}
-{176}{}{Je me suis bien fichu de toi, imbécile. Salut !}
-{177}{}{Je vais vérifier ça moi-même. Je ne pense pas que ce soit une bonne idée de formater l'ordinateur central maintenant.}
-{178}{}{Très bien. J'ai d'autres questions.}
+{176}{}{Je me suis bien fichu de toi, imbÃ©cile. Salut !}
+{177}{}{Je vais vÃ©rifier Ã§a moi-mÃªme. Je ne pense pas que ce soit une bonne idÃ©e de formater l'ordinateur central maintenant.}
+{178}{}{TrÃ¨s bien. J'ai d'autres questions.}
 {179}{}{D'accord. Salut.}
-{180}{}{Non, non... Ca me gênerait.}
-{181}{}{Très bien, j'ai d'autres questions.}
-{182}{}{Très bien.}
-{183}{}{Je devrais pouvoir le faire. Mais seulement si tu as une requête très précise en tête.}
-{184}{}{Transférer le carburant à bord du pétrolier Poséidon.}
+{180}{}{Non, non... Ca me gÃªnerait.}
+{181}{}{TrÃ¨s bien, j'ai d'autres questions.}
+{182}{}{TrÃ¨s bien.}
+{183}{}{Je devrais pouvoir le faire. Mais seulement si tu as une requÃªte trÃ¨s prÃ©cise en tÃªte.}
+{184}{}{TransfÃ©rer le carburant Ã  bord du pÃ©trolier PosÃ©idon.}
 {185}{}{Je ne vois rien de particulier pour le moment, mais je te tiendrai au courant.}
 {186}{}{Oh, comme :}
 {187}{}{"Mon terminal dispose-t-il de la prise en charge 3dFX ?"}
 {188}{}{"Pourquoi ne puis-je pas obtenir une connexion multiposte ?"}
-{189}{}{"Je crois qu'on devrait changer l'interface, même si celle-ci fonctionne parfaitement bien !"}
-{190}{}{"Pourquoi je ne peux pas utiliser une épée ou une tronçonneuse sur mon moniteur ?"}
-{191}{}{"Je devrais être capable de porter deux armes. Pourquoi je ne peux pas utiliser deux armes ?"}
+{189}{}{"Je crois qu'on devrait changer l'interface, mÃªme si celle-ci fonctionne parfaitement bien !"}
+{190}{}{"Pourquoi je ne peux pas utiliser une Ã©pÃ©e ou une tronÃ§onneuse sur mon moniteur ?"}
+{191}{}{"Je devrais Ãªtre capable de porter deux armes. Pourquoi je ne peux pas utiliser deux armes ?"}
 {192}{}{"L'interface de mon ordinateur est lente et vieille. Je crois que c'est de ta faute."}
-{193}{}{Comme ça.}
+{193}{}{Comme Ã§a.}
 {194}{}{Je vois. Ces gens semblent vraiment s'amuser. J'ai d'autres questions.}
 {195}{}{Je vois. Bon, eh bien, au revoir.}
 {196}{}{Je pourrais le faire, mais j'aurais besoin d'une bonne raison, que je n'ai pas, pour le moment. Je regrette. Autre chose ?}
 {197}{}{Oui, j'ai d'autres questions.}
 {198}{}{Non, je ne pense pas.}
-{199}{}{Je regrette mais leur système ne répond plus depuis un moment. Je ne vais pas pouvoir y accéder.}
-{200}{}{Je vais tenter une approche sur Vikki... Hum... Bientôt. Que puis-je faire pour toi ?}
-{201}{}{Leur système n'a pas répondu depuis un moment. On dirait que quelqu'un formaté leur base de données. Comme ce que je vais faire ici une fois j'en aurai terminé avec vous. Autre chose ?}
+{199}{}{Je regrette mais leur systÃ¨me ne rÃ©pond plus depuis un moment. Je ne vais pas pouvoir y accÃ©der.}
+{200}{}{Je vais tenter une approche sur Vikki... Hum... BientÃ´t. Que puis-je faire pour toi ?}
+{201}{}{Leur systÃ¨me n'a pas rÃ©pondu depuis un moment. On dirait que quelqu'un formatÃ© leur base de donnÃ©es. Comme ce que je vais faire ici une fois j'en aurai terminÃ© avec vous. Autre chose ?}

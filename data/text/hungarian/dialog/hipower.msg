@@ -1,2 +1,2 @@
-{100}{}{Ez Broken Hills áramgenerátora.}
-{101}{}{A generátor urántöltetekkel üzemel, és úgy t?nik, elég hatékonyan.}
+{100}{}{Ez Broken Hills Ã¡ramgenerÃ¡tora.}
+{101}{}{A generÃ¡tor urÃ¡ntÃ¶ltetekkel Ã¼zemel, Ã©s Ãºgy t?nik, elÃ©g hatÃ©konyan.}

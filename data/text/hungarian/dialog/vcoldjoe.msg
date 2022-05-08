@@ -1,38 +1,38 @@
-{100}{}{Egy vénembert látsz, szemében ?rült ragyogás.}
-{101}{}{Old Joe-t látod, a helyi nagyokost.}
-{102}{}{Heló! Már jó ideje nem láttalak.}
-{103}{}{Ismerjük egymást?}
-{104}{}{Ó igen, bár elég rég volt már. Mit csináltál mostanában?}
-{105}{}{Hát, elég régen volt. Mi jót csináltál mostanság?}
+{100}{}{Egy vÃ©nembert lÃ¡tsz, szemÃ©ben ?rÃ¼lt ragyogÃ¡s.}
+{101}{}{Old Joe-t lÃ¡tod, a helyi nagyokost.}
+{102}{}{HelÃ³! MÃ¡r jÃ³ ideje nem lÃ¡ttalak.}
+{103}{}{IsmerjÃ¼k egymÃ¡st?}
+{104}{}{Ã“ igen, bÃ¡r elÃ©g rÃ©g volt mÃ¡r. Mit csinÃ¡ltÃ¡l mostanÃ¡ban?}
+{105}{}{HÃ¡t, elÃ©g rÃ©gen volt. Mi jÃ³t csinÃ¡ltÃ¡l mostansÃ¡g?}
 {106}{}{Ezt is, azt is. Honnan ismersz?}
-{107}{}{Nézd papa, én nem tudom, ki a franc vagy te.}
-{108}{}{Persze. Nos, körülnéztem a pusztában és végül itt kötöttem ki, ezen az istenhátamögötti helyen. Nem olyan, mint a régi szép id?kben. Nem bizony.}
-{109}{}{Ja, a régi szép id?k. Emlékszem akkoriban mi...}
-{110}{}{Minden megváltozott, ez biztos. De... mit is csináltunk mi együtt?}
-{111}{}{Nem emlékszel rám, ugye? Nos, kicsit fiatalnak t?nsz.}
+{107}{}{NÃ©zd papa, Ã©n nem tudom, ki a franc vagy te.}
+{108}{}{Persze. Nos, kÃ¶rÃ¼lnÃ©ztem a pusztÃ¡ban Ã©s vÃ©gÃ¼l itt kÃ¶tÃ¶ttem ki, ezen az istenhÃ¡tamÃ¶gÃ¶tti helyen. Nem olyan, mint a rÃ©gi szÃ©p id?kben. Nem bizony.}
+{109}{}{Ja, a rÃ©gi szÃ©p id?k. EmlÃ©kszem akkoriban mi...}
+{110}{}{Minden megvÃ¡ltozott, ez biztos. De... mit is csinÃ¡ltunk mi egyÃ¼tt?}
+{111}{}{Nem emlÃ©kszel rÃ¡m, ugye? Nos, kicsit fiatalnak t?nsz.}
 {112}{}{Mit akarsz ezzel mondani?}
-{113}{}{Pedig nagyon hasonlítasz. Eh, biztos megcsaltak a vén szemeim... Hát ... akkor viszlát.}
-{114}{}{Hmm... ok ... viszlát.}
-{115}{}{Ja, átküldtük a Mestert a túlvilágra, igaz? Csak szaros sziklák maradtak utána, úgy emlékszem. Aztán körüljártam a világot, nevet változtattam. És veled mi van?}
-{116}{}{Én egy kis faluban éldegéltem.}
-{117}{}{Vigyázz a környéken, már nem olyan mint rég. Nem árt néha hátranézni...}
-{118}{}{Oké, kösz.}
-{119}{}{Egy ideig a menedéketeket kutattam, de soha nem találtam meg. Nincs valami jó sztorid a barátodról, az öreg Ian-ról?}
+{113}{}{Pedig nagyon hasonlÃ­tasz. Eh, biztos megcsaltak a vÃ©n szemeim... HÃ¡t ... akkor viszlÃ¡t.}
+{114}{}{Hmm... ok ... viszlÃ¡t.}
+{115}{}{Ja, Ã¡tkÃ¼ldtÃ¼k a Mestert a tÃºlvilÃ¡gra, igaz? Csak szaros sziklÃ¡k maradtak utÃ¡na, Ãºgy emlÃ©kszem. AztÃ¡n kÃ¶rÃ¼ljÃ¡rtam a vilÃ¡got, nevet vÃ¡ltoztattam. Ã‰s veled mi van?}
+{116}{}{Ã‰n egy kis faluban Ã©ldegÃ©ltem.}
+{117}{}{VigyÃ¡zz a kÃ¶rnyÃ©ken, mÃ¡r nem olyan mint rÃ©g. Nem Ã¡rt nÃ©ha hÃ¡tranÃ©zni...}
+{118}{}{OkÃ©, kÃ¶sz.}
+{119}{}{Egy ideig a menedÃ©keteket kutattam, de soha nem talÃ¡ltam meg. Nincs valami jÃ³ sztorid a barÃ¡todrÃ³l, az Ã¶reg Ian-rÃ³l?}
 {120}{}{Ian?}
-{121}{}{Aha, Ian. Nem emlékszel rám? Jópár éve már annak. Azt hinné az ember, hogy soha nem felejtik el a legjobb haverok. Nos ... úgy látom, tévedtem. Bocs mégegyszer.}
-{122}{}{Elnézést, de szerintem te azt hiszed, hogy én vagyok a Menedéklakó. ? alapította a falunkat.}
-{123}{}{Nos, így kicsit másképp fest a dolgot. Jó hallani, hogy a barátom jól élt. Fogadj el egy jótanácsot az öreg Ian-tól! Légy óvatos odakinn! Már nem olyan békés a hely, mint amilyennek t?nik!}
+{121}{}{Aha, Ian. Nem emlÃ©kszel rÃ¡m? JÃ³pÃ¡r Ã©ve mÃ¡r annak. Azt hinnÃ© az ember, hogy soha nem felejtik el a legjobb haverok. Nos ... Ãºgy lÃ¡tom, tÃ©vedtem. Bocs mÃ©gegyszer.}
+{122}{}{ElnÃ©zÃ©st, de szerintem te azt hiszed, hogy Ã©n vagyok a MenedÃ©klakÃ³. ? alapÃ­totta a falunkat.}
+{123}{}{Nos, Ã­gy kicsit mÃ¡skÃ©pp fest a dolgot. JÃ³ hallani, hogy a barÃ¡tom jÃ³l Ã©lt. Fogadj el egy jÃ³tanÃ¡csot az Ã¶reg Ian-tÃ³l! LÃ©gy Ã³vatos odakinn! MÃ¡r nem olyan bÃ©kÃ©s a hely, mint amilyennek t?nik!}
 {124}{}{Mi folyik itt?}
 {125}{}{Well, the Vault Citizens think very highly of their bloodline and don't care much for
  people like me and you. You take this. It'll protect you if things get a little out of control.
  You probably shouldn't be seen talking with this crazy old man. Best get on your way.}
 {126}{}{Thanks for your help. Bye.}
-{127}{}{Hagyd a vénembert pihenni.}
-{128}{}{Annyira hasonlít...}
-{129}{}{Hagyj most kérlek!}
-{130}{}{Jobb ha mész.}
-{131}{}{Gyanút fognak, ha tovább beszélgetünk.}
-{132}{}{Gyerünk, menj! Had legyen büszke az én vén barátom.}
+{127}{}{Hagyd a vÃ©nembert pihenni.}
+{128}{}{Annyira hasonlÃ­t...}
+{129}{}{Hagyj most kÃ©rlek!}
+{130}{}{Jobb ha mÃ©sz.}
+{131}{}{GyanÃºt fognak, ha tovÃ¡bb beszÃ©lgetÃ¼nk.}
+{132}{}{GyerÃ¼nk, menj! Had legyen bÃ¼szke az Ã©n vÃ©n barÃ¡tom.}
 {133}{}{Thanks. One more thing though. I'm trying to help this little village that's north-east of here. A guy there named Connar told me to seek you out and speak with you.}
 {134}{}{Connar, huh? He's a good guy. I've been keeping my eye on things for him. So what exactly does Connar want, now?}
 {135}{}{He's trying to get his hands on some weapons. He thinks if they had some firepower, they'd be able to keep the Vault City patrols at bay.}
@@ -42,7 +42,7 @@
 {139}{}{Connar and his people have that strong fighting spirit, but it won't be enough in this case. Vault City have nearly unlimited resources, and eventually, they'll win out. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller. Senior Council Member McClure has shown to be a reasonable man. Perhaps some agreement can be made with him?}
 {140}{}{Hmm... I may have to consider this. Thanks for everything, bye.}
 {141}{}{Perhaps I'll go speak with him then. However, I was curious about the mole rats that are guarding the village.}
-{142}{}{Mi van velük?}
+{142}{}{Mi van velÃ¼k?}
 {143}{}{Any idea where they're from or who's controlling them?}
 {144}{}{That, I'm not sure about. A bunch of ghouls came by with them. They were carrying strange amulets and talking about some "Renewal". That's pretty much all I know. You might wanna check out Gecko though. That place is bustling with ghouls. Speaking of big rats, did I ever tell you about the time the Vault Dweller and I went to Vault 15?}
 {145}{}{No, but I'm well versed in the tale, as it's become a sacred legend in my tribe. Anyway, maybe I'll go see what I can find in Gecko. Take care, Ian.}

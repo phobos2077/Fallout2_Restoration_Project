@@ -1,1 +1,1 @@
-{100}{}{Beurk, ce truc est dégueulasse !}
+{100}{}{Beurk, ce truc est dÃ©gueulasse !}

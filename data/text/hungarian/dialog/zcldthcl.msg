@@ -1,1 +1,1 @@
-{100}{}{Egy Hal·lkarmot l·tsz.}
+{100}{}{Egy Hal√°lkarmot l√°tsz.}

@@ -1,1 +1,1 @@
-{100}{}{Parece que você descartou todas as plantas de esporos.}
+{100}{}{Parece que vocÃª descartou todas as plantas de esporos.}

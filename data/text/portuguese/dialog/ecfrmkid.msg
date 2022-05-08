@@ -1,11 +1,11 @@
-{100}{}{Plbbt. Não pode me pegar.}
-{101}{}{O meu pai vai chicoteá-lo.}
+{100}{}{Plbbt. NÃ£o pode me pegar.}
+{101}{}{O meu pai vai chicoteÃ¡-lo.}
 {102}{}{Tome isso.}
-{103}{}{Vá embora!}
+{103}{}{VÃ¡ embora!}
 {104}{}{Pblbbt!}
 {105}{}{Whaaa!}
-{106}{}{Mamãe!}
+{106}{}{MamÃ£e!}
 {107}{}{Papai!}
-{200}{}{Você vê uma criança.}
-{201}{}{É um menino.}
-{202}{}{É uma menina.}
+{200}{}{VocÃª vÃª uma crianÃ§a.}
+{201}{}{Ã‰ um menino.}
+{202}{}{Ã‰ uma menina.}

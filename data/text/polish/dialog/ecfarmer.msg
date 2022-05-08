@@ -1,40 +1,40 @@
-{100}{}{Widzisz szczup³ego, spalonego s³oñcem mê¿czyznê.}
+{100}{}{Widzisz szczupÅ‚ego, spalonego sÅ‚oÅ„cem mÄ™Å¼czyznÄ™.}
 {101}{}{Widzisz farmera.}
-{102}{}{Widzisz spalonego s³oñcem farmera.}
-{103}{}{Przybywasz w sam¹ porê. Gdyby ciê tu nie by³o... Có¿, ca³e szczêœcie, ¿e jednak tu jesteœ. Nie mamy wiele, ale chcê ci to daæ, jako nagrodê za twoj¹ pomoc. (Podaje ci coœ.)}
-{104}{}{Dziêkujê.}
+{102}{}{Widzisz spalonego sÅ‚oÅ„cem farmera.}
+{103}{}{Przybywasz w samÄ… porÄ™. Gdyby ciÄ™ tu nie byÅ‚o... CÃ³Å¼, caÅ‚e szczÄ™Å›cie, Å¼e jednak tu jesteÅ›. Nie mamy wiele, ale chcÄ™ ci to daÄ‡, jako nagrodÄ™ za twojÄ… pomoc. (Podaje ci coÅ›.)}
+{104}{}{DziÄ™kujÄ™.}
 {105}{}{Ug}
-{106}{}{Jeszcze raz - dziêki za pomoc.}
+{106}{}{Jeszcze raz - dziÄ™ki za pomoc.}
 {107}{}{}
 {108}{}{}
-{109}{}{Trzymaj rêce tak, ¿ebym je widzia³. Prze¿ywamy tu ostatnio najazd bandytów ró¿nej maœci. Sk¹d mogê wiedzieæ, ¿e nie jesteœ jednym z nich. Czego chcesz?}
-{110}{}{Chcê tylko kupiæ od was trochê zapasów.}
-{111}{}{Niczego od was nie chcê. Lepiej bêdzie, jeœli ruszê ju¿ w drogê.}
+{109}{}{Trzymaj rÄ™ce tak, Å¼ebym je widziaÅ‚. PrzeÅ¼ywamy tu ostatnio najazd bandytÃ³w rÃ³Å¼nej maÅ›ci. SkÄ…d mogÄ™ wiedzieÄ‡, Å¼e nie jesteÅ› jednym z nich. Czego chcesz?}
+{110}{}{ChcÄ™ tylko kupiÄ‡ od was trochÄ™ zapasÃ³w.}
+{111}{}{Niczego od was nie chcÄ™. Lepiej bÄ™dzie, jeÅ›li ruszÄ™ juÅ¼ w drogÄ™.}
 {112}{}{Ug.}
-{113}{}{Có¿, nie widzê w tym nic z³ego. Oto co mam na wymianê.}
+{113}{}{CÃ³Å¼, nie widzÄ™ w tym nic zÅ‚ego. Oto co mam na wymianÄ™.}
 {114}{}{[Handluj]}
 {115}{}{Dobra, a teraz uciekaj!}
 {116}{}{[Handluj]}
-{117}{}{Kaza³em ci uciekaæ!}
+{117}{}{KazaÅ‚em ci uciekaÄ‡!}
 {118}{}{}
-{119}{}{(Trochê siê odprê¿a) Jak na bandytê, to masz za ma³o oleju w g³owie. Szukasz zapasów?}
+{119}{}{(TrochÄ™ siÄ™ odprÄ™Å¼a) Jak na bandytÄ™, to masz za maÅ‚o oleju w gÅ‚owie. Szukasz zapasÃ³w?}
 {120}{}{Uhum.}
 {121}{}{E-e.}
-{122}{}{No to nie mamy o czym mówiæ. Lepiej idŸ ju¿ sobie.}
+{122}{}{No to nie mamy o czym mÃ³wiÄ‡. Lepiej idÅº juÅ¼ sobie.}
 {123}{}{[KONIEC]}
-{124}{}{Wynoœ siê z mojej farmy!}
-{125}{}{Nie pozwolê siê wypêdziæ z w³asnego domu.}
-{126}{}{Przeklêci bandyci.}
-{127}{}{Wynoœ siê z mojej ziemi.}
-{128}{}{Nikomu ju¿ nie mo¿na ufaæ.}
+{124}{}{WynoÅ› siÄ™ z mojej farmy!}
+{125}{}{Nie pozwolÄ™ siÄ™ wypÄ™dziÄ‡ z wÅ‚asnego domu.}
+{126}{}{PrzeklÄ™ci bandyci.}
+{127}{}{WynoÅ› siÄ™ z mojej ziemi.}
+{128}{}{Nikomu juÅ¼ nie moÅ¼na ufaÄ‡.}
 {129}{}{Cholerni bandyci.}
-{130}{}{Zbyt ciê¿ko na to pracowa³em, ¿eby teraz siê poddaæ.}
-{131}{}{Mo¿e zacznê wszystko od nowa.}
+{130}{}{Zbyt ciÄ™Å¼ko na to pracowaÅ‚em, Å¼eby teraz siÄ™ poddaÄ‡.}
+{131}{}{MoÅ¼e zacznÄ™ wszystko od nowa.}
 {132}{}{Jestem tylko biednym farmerem.}
-{133}{}{B³agam, oszczêdŸ moj¹ farmê.}
-{134}{}{I tak nie lubiê ¿ycia na farmie.}
-{135}{}{Wrócê do ciebie.}
-{136}{}{B³agam - weŸ moj¹ ¿onê...}
-{200}{}{Widzisz szczup³¹, spalon¹ s³oñcem kobietê.}
+{133}{}{BÅ‚agam, oszczÄ™dÅº mojÄ… farmÄ™.}
+{134}{}{I tak nie lubiÄ™ Å¼ycia na farmie.}
+{135}{}{WrÃ³cÄ™ do ciebie.}
+{136}{}{BÅ‚agam - weÅº mojÄ… Å¼onÄ™...}
+{200}{}{Widzisz szczupÅ‚Ä…, spalonÄ… sÅ‚oÅ„cem kobietÄ™.}
 {201}{}{Widzisz farmera.}
-{202}{}{Widzisz spalon¹ s³oñcem ¿onê farmera.}
+{202}{}{Widzisz spalonÄ… sÅ‚oÅ„cem Å¼onÄ™ farmera.}

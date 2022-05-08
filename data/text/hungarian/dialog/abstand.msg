@@ -5,7 +5,7 @@
 {200}{}{Welcome stranger.}
 {201}{}{Peace to you.}
 {202}{}{This place is so nice!}
-{203}{}{Helló!}
+{203}{}{HellÃ³!}
 {204}{}{Nice weather.}
 {205}{}{You be careful out there in the wastes.}
 {500}{}{TAFFER!}

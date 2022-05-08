@@ -1,6 +1,6 @@
-{100}{}{Você vê um canibal.}
+{100}{}{VocÃª vÃª um canibal.}
 {101}{}{Comida!}
-{102}{}{É hora de comer!}
+{102}{}{Ã‰ hora de comer!}
 {103}{}{Hmmm...carne branca.}
 {104}{}{Yum!}
 {105}{}{Gostoso!}

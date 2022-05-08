@@ -1,125 +1,125 @@
-{100}{}{Du siehst eine müde Frau, die in ihren jungen Jahren einmal sehr attraktiv gewesen sein
+{100}{}{Du siehst eine mÃ¼de Frau, die in ihren jungen Jahren einmal sehr attraktiv gewesen sein
  mag.}
 {101}{}{Du siehst Lou, die Besitzerin des Malamute-Saloons.}
-{102}{}{Du siehst eine ältere Frau mit ziemlich viel Rouge im Gesicht.}
-{103}{}{Ich wollte dich nur wissen lassen, das ich dir dankbar dafür bin, was du getan hast. Wie
+{102}{}{Du siehst eine Ã¤ltere Frau mit ziemlich viel Rouge im Gesicht.}
+{103}{}{Ich wollte dich nur wissen lassen, das ich dir dankbar dafÃ¼r bin, was du getan hast. Wie
  kann ich dir helfen?}
-{104}{}{Das Gefängnis ist noch zu gut für dieses Schwein.}
-{105}{}{Ich kann einfach nicht glauben, dass du das Schwein, das mein Mädchen entstellt hat,
- laufen gelassen hast. Du hast Nerven, hierher zurückzukommen. Was zum Teufel willst du denn?}
-{106}{}{Du bist immer noch ein Idiot. Aber für uns andere geht das Leben weiter. Und was zum
+{104}{}{Das GefÃ¤ngnis ist noch zu gut fÃ¼r dieses Schwein.}
+{105}{}{Ich kann einfach nicht glauben, dass du das Schwein, das mein MÃ¤dchen entstellt hat,
+ laufen gelassen hast. Du hast Nerven, hierher zurÃ¼ckzukommen. Was zum Teufel willst du denn?}
+{106}{}{Du bist immer noch ein Idiot. Aber fÃ¼r uns andere geht das Leben weiter. Und was zum
  Teufel willst du jetzt?}
-{107}{}{Denk daran, was ich dir gesagt habe. Zuviel Geld ist nicht gut für das Mädchen. Und was
+{107}{}{Denk daran, was ich dir gesagt habe. Zuviel Geld ist nicht gut fÃ¼r das MÃ¤dchen. Und was
  brauchst du jetzt noch?}
-{108}{}{Hallo, ich bin Lou. Besitzerin des Malamute-Saloons, des feinsten Hauses nördlich von
+{108}{}{Hallo, ich bin Lou. Besitzerin des Malamute-Saloons, des feinsten Hauses nÃ¶rdlich von
  Frisco.}
 {109}{}{Was denn jetzt noch?}
 {110}{}{Uuh?}
-{111}{}{Hallo, Lou. Ich möchte was haben.}
-{112}{}{Hast du schon mal was von einem Garden-Eden-Creation-Kit gehört?}
+{111}{}{Hallo, Lou. Ich mÃ¶chte was haben.}
+{112}{}{Hast du schon mal was von einem Garden-Eden-Creation-Kit gehÃ¶rt?}
 {113}{}{Hallo, Lou. Was ist denn in dieser Stadt so los?}
 {114}{}{Was ist ein Malamute?}
 {115}{}{Wo ist denn Frisco von hier aus gesehen?}
-{116}{}{Ich helfe dem Sheriff ein wenig. Er sagte mir, dass eins deiner Mädels mit einem Messer angegriffen wurde?}
-{117}{}{Tut mir leid, für Dumme habe ich wenig Zeit und Geduld. Was willst du?}
+{116}{}{Ich helfe dem Sheriff ein wenig. Er sagte mir, dass eins deiner MÃ¤dels mit einem Messer angegriffen wurde?}
+{117}{}{Tut mir leid, fÃ¼r Dumme habe ich wenig Zeit und Geduld. Was willst du?}
 {118}{}{Grink?}
 {119}{}{Zimmer?}
 {120}{}{Wiedersehn.}
-{121}{}{Einen Drink, was? Das macht dann $25 für eine Flasche schönes, kühles Bier. Und ich
- mache dir sogar einen besonders günstigen Preis, ich habe nämlich ein Herz für Dumme.}
-{122}{}{Grink? [Du hältst ihr deine Brieftasche hin.]}
+{121}{}{Einen Drink, was? Das macht dann $25 fÃ¼r eine Flasche schÃ¶nes, kÃ¼hles Bier. Und ich
+ mache dir sogar einen besonders gÃ¼nstigen Preis, ich habe nÃ¤mlich ein Herz fÃ¼r Dumme.}
+{122}{}{Grink? [Du hÃ¤ltst ihr deine Brieftasche hin.]}
 {123}{}{Zimmer?}
-{124}{}{Nix grink. Tschüss.}
-{125}{}{Du willst ein Zimmer, was? Tja, mal sehen, möglich, dass ich irgendwo ein Zimmer für dich
- hab. Das macht dann $50 für ein kuscheliges Plätzchen.}
-{126}{}{Zimmer. [Du hältst ihr deine Brieftasche hin.]}
+{124}{}{Nix grink. TschÃ¼ss.}
+{125}{}{Du willst ein Zimmer, was? Tja, mal sehen, mÃ¶glich, dass ich irgendwo ein Zimmer fÃ¼r dich
+ hab. Das macht dann $50 fÃ¼r ein kuscheliges PlÃ¤tzchen.}
+{126}{}{Zimmer. [Du hÃ¤ltst ihr deine Brieftasche hin.]}
 {127}{}{Grink?}
-{128}{}{Nix Zimmer. Tschüss.}
-{129}{}{Du kannst reinkommen, aber deine reisende Monstrositätenshow bleibt draußen.}
-{130}{}{Hast du mich nicht gehört? Keine Monster in meinem Saloon.}
-{131}{}{Diese *Dinger* kommen mir nicht in meinen Saloon. Lass sie draußen.}
-{132}{}{Ich kann nicht behaupten, dass ich von sowas schon mal gehört habe. Was ist denn das?}
-{133}{}{Tja, das ist so ein Gerät zum... äh, hmm. Na, jedenfalls suche ich danach. Sag mir noch
+{128}{}{Nix Zimmer. TschÃ¼ss.}
+{129}{}{Du kannst reinkommen, aber deine reisende MonstrositÃ¤tenshow bleibt drauÃŸen.}
+{130}{}{Hast du mich nicht gehÃ¶rt? Keine Monster in meinem Saloon.}
+{131}{}{Diese *Dinger* kommen mir nicht in meinen Saloon. Lass sie drauÃŸen.}
+{132}{}{Ich kann nicht behaupten, dass ich von sowas schon mal gehÃ¶rt habe. Was ist denn das?}
+{133}{}{Tja, das ist so ein GerÃ¤t zum... Ã¤h, hmm. Na, jedenfalls suche ich danach. Sag mir noch
  etwas anderes.}
 {134}{}{Nichts Wichtiges. Tja, ich muss dann mal los.}
-{135}{}{Tja, hauptsächlich bauen wir hier Golderz ab und handeln dann mit anderen Gebieten.}
+{135}{}{Tja, hauptsÃ¤chlich bauen wir hier Golderz ab und handeln dann mit anderen Gebieten.}
 {136}{}{Ihr baut hier Golderz ab?}
 {137}{}{Wo handelt ihr mit dem Erz?}
-{138}{}{Das ist interessant. Aber erzähl mir noch etwas.}
-{139}{}{Ja. Am nördlichen Stadtrand gibt es zwei Goldminen, die noch in Betrieb sind.}
+{138}{}{Das ist interessant. Aber erzÃ¤hl mir noch etwas.}
+{139}{}{Ja. Am nÃ¶rdlichen Stadtrand gibt es zwei Goldminen, die noch in Betrieb sind.}
 {140}{}{Du sagst, dass ihr mit dem Erz handelt?}
 {141}{}{Interessant. Aber lass mich dich noch etwas fragen.}
 {142}{}{Naja, wir tauschen Golderz gegen Medikamente in Vault City. In der New California Republic
  tauschen wir es gegen frische Brahmin und andere Lebensmittel und in New Reno tauschen wir es gegen Jet und Alkohol.}
 {143}{}{Ihr baut hier Gold ab?}
 {144}{}{Interessant. Aber lass mich dich noch etwas fragen.}
-{145}{}{Einfach nur ein großer Hund.}
+{145}{}{Einfach nur ein groÃŸer Hund.}
 {146}{}{Ach so. Hmm, lass mich dich noch was fragen.}
-{147}{}{Natürlich. Das ist eigentlich alles, was ich wissen wollte. Danke. Wiedersehn.}
-{148}{}{San Francisco ist ein ganz schönes Stück südlich von hier. Du bist ziemlich weit weg von
- da. Nach Süden und einen kleinen Tick nach Westen. Genau am Ozean, weiß du. Keine Ahnung, was
+{147}{}{NatÃ¼rlich. Das ist eigentlich alles, was ich wissen wollte. Danke. Wiedersehn.}
+{148}{}{San Francisco ist ein ganz schÃ¶nes StÃ¼ck sÃ¼dlich von hier. Du bist ziemlich weit weg von
+ da. Nach SÃ¼den und einen kleinen Tick nach Westen. Genau am Ozean, weiÃŸ du. Keine Ahnung, was
  ein normal denkender Mensch da soll.}
-{149}{}{Warum? Ist es gefährlich?}
+{149}{}{Warum? Ist es gefÃ¤hrlich?}
 {150}{}{Interessant. Aber lass mich dich noch etwas fragen.}
-{151}{}{Danke für die Auskunft. Wiedersehn.}
-{152}{}{Naja, man hört so jede Menge Geschichten darüber, dass die ganze Stadt voller verrückter
- Anhänger irgendeiner komischen Religion sei.}
-{153}{}{Verrückte Anhänger?}
-{154}{}{Manche Dinge verändern sich nicht so stark wie andere. Danke. Wiedersehn.}
-{155}{}{Ja, allerdings. Ich hab gehört, die bauen da so ein großes Gerät, mit dem sie Kontakt
- zu ihren Göttern aufnehmen können. Oder irgendsowas. Weiß nicht so genau. Ist ja weit weg.}
-{156}{}{Mir scheint, Monumente für Götter sind immer mit irgendeiner Art Ärger verbunden. Erzähl
+{151}{}{Danke fÃ¼r die Auskunft. Wiedersehn.}
+{152}{}{Naja, man hÃ¶rt so jede Menge Geschichten darÃ¼ber, dass die ganze Stadt voller verrÃ¼ckter
+ AnhÃ¤nger irgendeiner komischen Religion sei.}
+{153}{}{VerrÃ¼ckte AnhÃ¤nger?}
+{154}{}{Manche Dinge verÃ¤ndern sich nicht so stark wie andere. Danke. Wiedersehn.}
+{155}{}{Ja, allerdings. Ich hab gehÃ¶rt, die bauen da so ein groÃŸes GerÃ¤t, mit dem sie Kontakt
+ zu ihren GÃ¶ttern aufnehmen kÃ¶nnen. Oder irgendsowas. WeiÃŸ nicht so genau. Ist ja weit weg.}
+{156}{}{Mir scheint, Monumente fÃ¼r GÃ¶tter sind immer mit irgendeiner Art Ã„rger verbunden. ErzÃ¤hl
  mir noch was.}
 {157}{}{Das ist alles, was ich im Moment wissen wollte. Danke. Wiedersehn.}
-{158}{}{Das stimmt. Es geht ihr echt mies. Und sie war so ein hübsches Ding. Ich hoffe wirklich,
- dass du diese Sache schnell in Ordnung bringst. Es ist schlecht fürs Geschäft, wenn diese
- Bergarbeiter glauben, sie könnten mit so etwas davonkommen.}
-{159}{}{Kann ich das Mädchen sehen?}
-{160}{}{Weißt du, wer das getan hat?}
-{161}{}{Weißt du, was passiert ist?}
-{162}{}{Hört sich wirklich nach einem Problem an. Aber lass mich dich noch etwas fragen.}
-{163}{}{Ich hab sie weggeschickt. In diesem Geschäft hätt sie sowieso nichts mehr genützt. Mit
- der hätte niemand mehr etwas anfangen wollen, nachdem dieses Schwein mit ihr fertig war. Hab ihr
+{158}{}{Das stimmt. Es geht ihr echt mies. Und sie war so ein hÃ¼bsches Ding. Ich hoffe wirklich,
+ dass du diese Sache schnell in Ordnung bringst. Es ist schlecht fÃ¼rs GeschÃ¤ft, wenn diese
+ Bergarbeiter glauben, sie kÃ¶nnten mit so etwas davonkommen.}
+{159}{}{Kann ich das MÃ¤dchen sehen?}
+{160}{}{WeiÃŸt du, wer das getan hat?}
+{161}{}{WeiÃŸt du, was passiert ist?}
+{162}{}{HÃ¶rt sich wirklich nach einem Problem an. Aber lass mich dich noch etwas fragen.}
+{163}{}{Ich hab sie weggeschickt. In diesem GeschÃ¤ft hÃ¤tt sie sowieso nichts mehr genÃ¼tzt. Mit
+ der hÃ¤tte niemand mehr etwas anfangen wollen, nachdem dieses Schwein mit ihr fertig war. Hab ihr
  etwas Geld gegeben und sie gehen lassen.}
-{164}{}{Weißt du, wer das getan hat?}
-{165}{}{Weißt du, was passiert ist?}
-{166}{}{Ich möchte dich noch was anderes fragen.}
-{167}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
+{164}{}{WeiÃŸt du, wer das getan hat?}
+{165}{}{WeiÃŸt du, was passiert ist?}
+{166}{}{Ich mÃ¶chte dich noch was anderes fragen.}
+{167}{}{Ich regle das schon fÃ¼r dich. Du kannst auf mich zÃ¤hlen. Wiedersehn.}
 {168}{}{Bin mir nicht ganz sicher, wer das war, aber sie hielt 'n Morningstar-Schuldschein in der
  Hand, als wir sie fanden, und der letzte, der bei ihr war, war 'n Bergarbeiter.}
-{169}{}{Kann ich das Mädchen sehen?}
-{170}{}{Weißt du, was passiert ist?}
+{169}{}{Kann ich das MÃ¤dchen sehen?}
+{170}{}{WeiÃŸt du, was passiert ist?}
 {171}{}{Ein Morningstar-Schuldschein? Was ist das?}
-{172}{}{Ich möchte dich noch was anderes fragen.}
-{173}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
+{172}{}{Ich mÃ¶chte dich noch was anderes fragen.}
+{173}{}{Ich regle das schon fÃ¼r dich. Du kannst auf mich zÃ¤hlen. Wiedersehn.}
 {174}{}{Also, es gab Geschrei und Getrampel und da bin ich in ihr Zimmer. Als ich ankam, war das
- Schwein schon weg und meinem Mädchen ging es ziemlich dreckig. Also hab ich den Doc gerufen und
+ Schwein schon weg und meinem MÃ¤dchen ging es ziemlich dreckig. Also hab ich den Doc gerufen und
  dann den Sheriff. Den Rest kennst du.}
-{175}{}{Weißt du, wer das getan hat?}
-{176}{}{Kann ich das Mädchen sehen?}
-{177}{}{Ich möchte dich noch was anderes fragen.}
-{178}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
+{175}{}{WeiÃŸt du, wer das getan hat?}
+{176}{}{Kann ich das MÃ¤dchen sehen?}
+{177}{}{Ich mÃ¶chte dich noch was anderes fragen.}
+{178}{}{Ich regle das schon fÃ¼r dich. Du kannst auf mich zÃ¤hlen. Wiedersehn.}
 {179}{}{Im Norden der Stadt betreibt Dan McGrew die Morningstar-Mine. In der Regel kriegen die
- Bergarbeiter Schuldscheine von ihrer jeweiligen Mine... du weißt schon, Zettel. Also, mein
- Mädchen hatte so ein Stück Papier in der Hand, als sie gefunden wurde. Hier ist es, sieh selbst.
+ Bergarbeiter Schuldscheine von ihrer jeweiligen Mine... du weiÃŸt schon, Zettel. Also, mein
+ MÃ¤dchen hatte so ein StÃ¼ck Papier in der Hand, als sie gefunden wurde. Hier ist es, sieh selbst.
  [Sie gibt dir den Zettel.]}
-{180}{}{Ach so. Kann ich das Mädchen sehen?}
-{181}{}{Ach so. Weißt du, was passiert ist?}
-{182}{}{Ich möchte dich noch was anderes fragen.}
-{183}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
+{180}{}{Ach so. Kann ich das MÃ¤dchen sehen?}
+{181}{}{Ach so. WeiÃŸt du, was passiert ist?}
+{182}{}{Ich mÃ¶chte dich noch was anderes fragen.}
+{183}{}{Ich regle das schon fÃ¼r dich. Du kannst auf mich zÃ¤hlen. Wiedersehn.}
 {184}{}{Tja, ich bin wirklich froh, dass sich jemand der Sache annimmt. Solche Sachen sind einfach
- mies. Ich hoffe wirklich, dass du das Schwein dafür zahlen lässt, was er meinem Mädchen angetan
- hat. Sieh bloß zu, dass er so was nie wieder jemandem antun kann.}
+ mies. Ich hoffe wirklich, dass du das Schwein dafÃ¼r zahlen lÃ¤sst, was er meinem MÃ¤dchen angetan
+ hat. Sieh bloÃŸ zu, dass er so was nie wieder jemandem antun kann.}
 {185}{}{Na gut, ich tue, was ich kann. Aber lass mich dich noch etwas fragen.}
 {186}{}{Ich werd sehen, was ich tun kann. Wiedersehn.}
-{187}{}{Was kann ich für dich tun? Willst du 'n leeres Bett oder eins mit was drin? Vielleicht
+{187}{}{Was kann ich fÃ¼r dich tun? Willst du 'n leeres Bett oder eins mit was drin? Vielleicht
  etwas Alkohol, oder sonst irgend etwas?}
-{188}{}{Ich hätt gern ein Zimmer mit einem leeren Bett, Lou.}
-{189}{}{Mit was drin? Das hört sich gut an. Erzähl mir mehr darüber.}
-{190}{}{Alk und sonst noch was. Ja, das klingt gut. Ich glaube, wir können ins Geschäft kommen.}
-{191}{}{Hmm. Ich hätte da noch 'ne Frage.}
+{188}{}{Ich hÃ¤tt gern ein Zimmer mit einem leeren Bett, Lou.}
+{189}{}{Mit was drin? Das hÃ¶rt sich gut an. ErzÃ¤hl mir mehr darÃ¼ber.}
+{190}{}{Alk und sonst noch was. Ja, das klingt gut. Ich glaube, wir kÃ¶nnen ins GeschÃ¤ft kommen.}
+{191}{}{Hmm. Ich hÃ¤tte da noch 'ne Frage.}
 {192}{}{Ist das alles, oder wolltest du noch irgend etwas kaufen?}
-{193}{}{Du scheinst dich ja nur schwer entscheiden zu können. Ist das alles, oder willst du noch
+{193}{}{Du scheinst dich ja nur schwer entscheiden zu kÃ¶nnen. Ist das alles, oder willst du noch
  mal schauen?}
 {194}{}{Nein. Ich hab im Moment alles, was ich brauche. Danke. Aber sag mir noch etwas anderes.}
 {195}{}{Hmm, lass mich noch einen Blick auf dein Angebot werfen.}
@@ -127,69 +127,69 @@
 {197}{}{Du willst 'n bisschen an der Matratze horchen, was? Naja, das kostet dich dann $40.
  Frisches und vorwiegend sauberes Bettzeug inklusive. Hast du immer noch Interesse?}
 {198}{}{Ich nehme es, Lou.}
-{199}{}{Hmm, ich bin wohl doch nicht so müde. Lass mich dich noch etwas fragen.}
-{200}{}{Dafür hab ich im Moment nicht genug Geld. Aber lass mich dich noch was fragen.}
+{199}{}{Hmm, ich bin wohl doch nicht so mÃ¼de. Lass mich dich noch etwas fragen.}
+{200}{}{DafÃ¼r hab ich im Moment nicht genug Geld. Aber lass mich dich noch was fragen.}
 {201}{}{Du bist doch einer von Fannies Stammkunden, nicht wahr? Warum gehst du nicht einfach zu
  ihr und redest mit ihr. Sie ist irgendwo hinten.}
-{202}{}{Hör zu. Du hast uns hier nur Unglück gebracht. Nach dem, was mit Fannie Mae passiert ist,
- will kein anderes Mädchen mehr was mit dir zu tun haben... und das nehme ich ihnen wirklich nicht
- übel.}
-{203}{}{Du suchst wohl jemanden, der dich in dem großen, einsamen Bett warmhält, was? Lass mich
+{202}{}{HÃ¶r zu. Du hast uns hier nur UnglÃ¼ck gebracht. Nach dem, was mit Fannie Mae passiert ist,
+ will kein anderes MÃ¤dchen mehr was mit dir zu tun haben... und das nehme ich ihnen wirklich nicht
+ Ã¼bel.}
+{203}{}{Du suchst wohl jemanden, der dich in dem groÃŸen, einsamen Bett warmhÃ¤lt, was? Lass mich
  mal sehen, wer gerade frei ist. Hmm, warum probiert du's nicht mit Fannie Mae? Sie ist irgendwo
- hinten. Du kannst das Geschäftliche direkt mit ihr regeln.}
-{204}{}{Hört sich gut an. Das werde ich tun. Wiedersehn.}
-{205}{}{Aber ich hab doch nicht... OK. Tschüss.}
+ hinten. Du kannst das GeschÃ¤ftliche direkt mit ihr regeln.}
+{204}{}{HÃ¶rt sich gut an. Das werde ich tun. Wiedersehn.}
+{205}{}{Aber ich hab doch nicht... OK. TschÃ¼ss.}
 {206}{}{Du und Fannie habt euch doch schon geeinigt. Warum gehst du nicht zu ihr. Sie ist
  irgendwo hinten.}
-{207}{}{Hör zu. Du hast uns hier nur Unglück gebracht. Nach dem, was mit Fannie Mae passiert ist,
- will kein anderes Mädchen mehr was mit dir zu tun haben... und das nehme ich ihnen wirklich nicht
- übel.}
-{208}{}{Hier arbeiten nur Mädchen, Schätzchen. Wenn du damit klarkommst, Kohle ist Kohle. Du kannst
- es ja mal mit Fannie Mae probieren. Sie ist irgendwo hinten. Das Geschäftliche kannst du mit ihr
+{207}{}{HÃ¶r zu. Du hast uns hier nur UnglÃ¼ck gebracht. Nach dem, was mit Fannie Mae passiert ist,
+ will kein anderes MÃ¤dchen mehr was mit dir zu tun haben... und das nehme ich ihnen wirklich nicht
+ Ã¼bel.}
+{208}{}{Hier arbeiten nur MÃ¤dchen, SchÃ¤tzchen. Wenn du damit klarkommst, Kohle ist Kohle. Du kannst
+ es ja mal mit Fannie Mae probieren. Sie ist irgendwo hinten. Das GeschÃ¤ftliche kannst du mit ihr
  regeln.}
-{209}{}{Hört sich gut an. Das werde ich tun. Wiedersehn.}
-{210}{}{Aber ich hab doch nicht... OK. Tschüss.}
-{211}{}{Ich kann ja nicht glauben, dass du Fannie genug Geld auf einmal für 'ne Überdosis gegeben
+{209}{}{HÃ¶rt sich gut an. Das werde ich tun. Wiedersehn.}
+{210}{}{Aber ich hab doch nicht... OK. TschÃ¼ss.}
+{211}{}{Ich kann ja nicht glauben, dass du Fannie genug Geld auf einmal fÃ¼r 'ne Ãœberdosis gegeben
  hast. Du bist wirklich ein Idiot, was?}
 {212}{}{Das wusst ich nicht. Ehrlich. Komm schon, Lou... Ich muss dich noch etwas fragen.}
 {213}{}{Was sie mit ihrem Leben angestellt hat, ist ihre Sache. Wiedersehn.}
-{214}{}{Ich habe ihr die einzige Erleichterung für diese elende Existenz gegeben, die ihr
+{214}{}{Ich habe ihr die einzige Erleichterung fÃ¼r diese elende Existenz gegeben, die ihr
  offenstand. Du bist selbst keine Heilige, Lou. Wiedersehn.}
 {215}{}{Du bist also der Spinner, der meiner Fannie all das Geld gibt. Das solltest du nicht tun.
  Du hilfst ihr damit nicht so, wie du glaubst.}
 {216}{}{Was meinst du damit?}
 {217}{}{Ich helfe ihr, ein neues Leben zu beginnen.}
-{218}{}{Ja, klar. Lass uns über etwas anderes reden.}
-{219}{}{Ich wollte sagen, dass Fannie ein Problem hat und Geld ist dafür keine Lösung. Ich hasse
+{218}{}{Ja, klar. Lass uns Ã¼ber etwas anderes reden.}
+{219}{}{Ich wollte sagen, dass Fannie ein Problem hat und Geld ist dafÃ¼r keine LÃ¶sung. Ich hasse
  es, dir das Herz zu brechen, aber Fannie spielt nur mit dir. Sie will nur das Geld, damit sie
  Jet kaufen kann. Zuviel elendes Jet.}
 {220}{}{Ich glaube, du machst dir nur Sorgen, dass du eines deiner besten Pferde im Stall
- verlierst. Du willst deine Mädchen einfach nur an der kurzen Leine halten.}
-{221}{}{Ja, klar. Ich hab genug gehört. Wiedersehn.}
-{222}{}{Du hilfst ihr ins nächste Leben mit deinem Geld, das tust du. Mit dem Geld kauft sie
- einfach nur zuviel Jet. Eines schönen Tages nimmt sie 'ne Überdosis, wenn du ihr weiter
+ verlierst. Du willst deine MÃ¤dchen einfach nur an der kurzen Leine halten.}
+{221}{}{Ja, klar. Ich hab genug gehÃ¶rt. Wiedersehn.}
+{222}{}{Du hilfst ihr ins nÃ¤chste Leben mit deinem Geld, das tust du. Mit dem Geld kauft sie
+ einfach nur zuviel Jet. Eines schÃ¶nen Tages nimmt sie 'ne Ãœberdosis, wenn du ihr weiter
  Geld gibst.}
-{223}{}{Hmm, darüber muss ich nachdenken.}
-{224}{}{Ich denk darüber nach. Wiedersehn.}
-{225}{}{Du kannst denken, was du willst. Ich dachte nur, ich erzähl dir besser, wie der Hase
- wirklich läuft. Du musst wissen, ob du zuhören willst oder nicht.}
-{226}{}{Das habe ich alles schon mal gehört. Kommen wir zum Geschäft.}
-{227}{}{Danke, ich denke über das, was du mir gesagt hast, nach. Aber lass mich dich noch etwas
+{223}{}{Hmm, darÃ¼ber muss ich nachdenken.}
+{224}{}{Ich denk darÃ¼ber nach. Wiedersehn.}
+{225}{}{Du kannst denken, was du willst. Ich dachte nur, ich erzÃ¤hl dir besser, wie der Hase
+ wirklich lÃ¤uft. Du musst wissen, ob du zuhÃ¶ren willst oder nicht.}
+{226}{}{Das habe ich alles schon mal gehÃ¶rt. Kommen wir zum GeschÃ¤ft.}
+{227}{}{Danke, ich denke Ã¼ber das, was du mir gesagt hast, nach. Aber lass mich dich noch etwas
  fragen.}
-{228}{}{Darüber muss ich nachdenken. Wiedersehn.}
-{229}{}{Hmmm... Vielleicht habe ich eine Lösung. [Du gibst Lou das Jet-Gegenmittel.]}
-{230}{}{Was ist das denn für ein Zeug?}
-{231}{}{Das lässt die Entzugserscheinungen verschwinden. Wenn sie das nächste mal was trinkt, musst du ihr das in den Drink schütten.}
+{228}{}{DarÃ¼ber muss ich nachdenken. Wiedersehn.}
+{229}{}{Hmmm... Vielleicht habe ich eine LÃ¶sung. [Du gibst Lou das Jet-Gegenmittel.]}
+{230}{}{Was ist das denn fÃ¼r ein Zeug?}
+{231}{}{Das lÃ¤sst die Entzugserscheinungen verschwinden. Wenn sie das nÃ¤chste mal was trinkt, musst du ihr das in den Drink schÃ¼tten.}
 {232}{}{Nun... Ok. Gibt es sonst noch etwas?}
 {233}{}{Ich bin auf der Suche nach etwas.}
 {234}{}{Was ist hier so los in der Stadt?}
-{300}{}{Du hast geholfen Fannies Sucht zu überwinden.}
+{300}{}{Du hast geholfen Fannies Sucht zu Ã¼berwinden.}
 {301}{}{Wiedersehn.}
 {310}{}{Eventuell habe ich da etwas das Fannie hilft. [Du gibst Lou das Jet-Gegenmittel.]}
-{1103}{}{Hallo, ich bin Lou. Besitzerin des Malamute-Saloons, des feinsten Hauses nördlich von Frisco.
- Ich möchte nur, dass du weißt, dass ich dankbar bin für das, was du getan hast. Womit kann ich dir behilflich sein?}
-{1104}{}{Hallo, ich bin Lou. Besitzerin des Malamute-Saloons, des feinsten Hauses nördlich von Frisco.
- Das Gefängnis ist zu gut für das, was dieser Bastard getan hat.}
-{1105}{}{Hallo, ich bin Lou. Besitzerin des Malamute-Saloons, des feinsten Hauses nördlich von Frisco. Ich kann nicht richtig glauben, dass Sie den Bastard, der mein Mädchen aufgeschlitzt hat, laufen gelassen haben. Sie haben ganz schön Nerven hier wieder aufzutauchen. Was zur Hölle wollen Sie?}
-{1106}{}{Du bist immer noch ein Idiot. Aber für uns andere geht das Leben weiter. Ich bin Lou, Besitzerin des Malamute-Saloons, des feinsten Hauses nördlich von Frisco. Also was zum Teufel willst du jetzt?}
-{1107}{}{Ich bin Lou, Besitzerin des Malamute-Sallons, des feinsten Hauses nördlich von Frisco. Denk dran, zu viel Geld ist nicht gut für dieses Mädchen. Also was brauchst du?}
+{1103}{}{Hallo, ich bin Lou. Besitzerin des Malamute-Saloons, des feinsten Hauses nÃ¶rdlich von Frisco.
+ Ich mÃ¶chte nur, dass du weiÃŸt, dass ich dankbar bin fÃ¼r das, was du getan hast. Womit kann ich dir behilflich sein?}
+{1104}{}{Hallo, ich bin Lou. Besitzerin des Malamute-Saloons, des feinsten Hauses nÃ¶rdlich von Frisco.
+ Das GefÃ¤ngnis ist zu gut fÃ¼r das, was dieser Bastard getan hat.}
+{1105}{}{Hallo, ich bin Lou. Besitzerin des Malamute-Saloons, des feinsten Hauses nÃ¶rdlich von Frisco. Ich kann nicht richtig glauben, dass Sie den Bastard, der mein MÃ¤dchen aufgeschlitzt hat, laufen gelassen haben. Sie haben ganz schÃ¶n Nerven hier wieder aufzutauchen. Was zur HÃ¶lle wollen Sie?}
+{1106}{}{Du bist immer noch ein Idiot. Aber fÃ¼r uns andere geht das Leben weiter. Ich bin Lou, Besitzerin des Malamute-Saloons, des feinsten Hauses nÃ¶rdlich von Frisco. Also was zum Teufel willst du jetzt?}
+{1107}{}{Ich bin Lou, Besitzerin des Malamute-Sallons, des feinsten Hauses nÃ¶rdlich von Frisco. Denk dran, zu viel Geld ist nicht gut fÃ¼r dieses MÃ¤dchen. Also was brauchst du?}

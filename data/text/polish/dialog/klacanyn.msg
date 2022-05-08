@@ -1,1 +1,1 @@
-{100}{}{Jesteú w kanionie w pobliøu Klamath.}
+{100}{}{Jeste≈õ w kanionie w pobli≈ºu Klamath.}

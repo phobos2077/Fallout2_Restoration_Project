@@ -1,1 +1,1 @@
-{100}{}{Você vê um deathclaw.}
+{100}{}{VocÃª vÃª um deathclaw.}

@@ -1,18 +1,18 @@
-{100}{}{Egy ?rt látsz.}
-{101}{}{Egy harci páncélt visel? ?r.}
-{102}{}{Egy embert látsz harci páncélban. Van egy jel a mellkasán, amit nem tudsz hova tenni.}
-{103}{}{Nincs jelenteni valóm.}
-{104}{}{Nálam semmi, és nálad?}
-{105}{}{Nem kéne a posztodon lenned? Nem jó, hogy itt csavarogsz.}
+{100}{}{Egy ?rt lÃ¡tsz.}
+{101}{}{Egy harci pÃ¡ncÃ©lt visel? ?r.}
+{102}{}{Egy embert lÃ¡tsz harci pÃ¡ncÃ©lban. Van egy jel a mellkasÃ¡n, amit nem tudsz hova tenni.}
+{103}{}{Nincs jelenteni valÃ³m.}
+{104}{}{NÃ¡lam semmi, Ã©s nÃ¡lad?}
+{105}{}{Nem kÃ©ne a posztodon lenned? Nem jÃ³, hogy itt csavarogsz.}
 {106}{}{You're out of uniform. }
-{107}{}{Jelentkezz az ?rmesternél és kapj magadra egy páncélt!}
-{108}{}{Nagy kockázatot válalsz, ha csak így flangálsz itt. Vegyél fel egy páncélt!}
-{109}{}{Kik ezek a fickók?... Behatolók! Riadó!}
-{110}{}{Megtámadtak bennünket! Riadó!}
-{111}{}{Behatolók! Riadó!}
-{112}{}{Biztonsági riadó! Zárjátok le a bázist!}
+{107}{}{Jelentkezz az ?rmesternÃ©l Ã©s kapj magadra egy pÃ¡ncÃ©lt!}
+{108}{}{Nagy kockÃ¡zatot vÃ¡lalsz, ha csak Ã­gy flangÃ¡lsz itt. VegyÃ©l fel egy pÃ¡ncÃ©lt!}
+{109}{}{Kik ezek a fickÃ³k?... BehatolÃ³k! RiadÃ³!}
+{110}{}{MegtÃ¡madtak bennÃ¼nket! RiadÃ³!}
+{111}{}{BehatolÃ³k! RiadÃ³!}
+{112}{}{BiztonsÃ¡gi riadÃ³! ZÃ¡rjÃ¡tok le a bÃ¡zist!}
 {113}{}{Secure all stations! We're on alert!}
-{114}{}{Behatolók! Vörös kód!}
-{115}{}{Szétalázunk!}
-{116}{}{Az Enklávé lesz a világ ura!}
-{117}{}{Te elpusztulsz, az Enklávé fennmarad!}
+{114}{}{BehatolÃ³k! VÃ¶rÃ¶s kÃ³d!}
+{115}{}{SzÃ©talÃ¡zunk!}
+{116}{}{Az EnklÃ¡vÃ© lesz a vilÃ¡g ura!}
+{117}{}{Te elpusztulsz, az EnklÃ¡vÃ© fennmarad!}

@@ -1,172 +1,172 @@
 {100}{}{Um terminal de computador.}
-{101}{}{Esse terminal parece ter um design mais avançado do que os outros que você encontrou.}
-{102}{}{Você é incapaz de ler o que está no monitor.}
+{101}{}{Esse terminal parece ter um design mais avanÃ§ado do que os outros que vocÃª encontrou.}
+{102}{}{VocÃª Ã© incapaz de ler o que estÃ¡ no monitor.}
 {103}{}{Terminal Principal de Interface do Skynet
-                                    Você irá obedecer
+                                    VocÃª irÃ¡ obedecer
                                                          ou
-                                                                       Você vai Cease To Function}
+                                                                       VocÃª vai Cease To Function}
 {104}{}{}
 {105}{}{}
 {106}{}{}
-{107}{}{É, você e que exército? Você está preso nessa caixa e eu estou aqui fora.}
+{107}{}{Ã‰, vocÃª e que exÃ©rcito? VocÃª estÃ¡ preso nessa caixa e eu estou aqui fora.}
 {108}{}{Por que eu deveria ajudar?}
 {109}{}{Certo, eu vou te ajudar. Desligue os monstros de metal.}
 {110}{}{Ug. Com - pew - turd!}
 {111}{}{Sair.}
-{112}{}{[Você é incapaz de ler o que está no monitor.]}
-{113}{}{[De alguma forma Skynet sabe que você retirou o cérebro.]
-                  Prossiga para o Laboratório de Robótica - Nível 3
-                              Instale o Cérebro Cibernético
-                                    Ative o Robô
-                                                         -Fim de Transmissão-}
+{112}{}{[VocÃª Ã© incapaz de ler o que estÃ¡ no monitor.]}
+{113}{}{[De alguma forma Skynet sabe que vocÃª retirou o cÃ©rebro.]
+                  Prossiga para o LaboratÃ³rio de RobÃ³tica - NÃ­vel 3
+                              Instale o CÃ©rebro CibernÃ©tico
+                                    Ative o RobÃ´
+                                                         -Fim de TransmissÃ£o-}
 {114}{}{}
 {115}{}{}
 {116}{}{}
 {117}{}{}
 {118}{}{Sair.}
-{119}{}{[Você é incapaz de ler o que está no monitor.]}
+{119}{}{[VocÃª Ã© incapaz de ler o que estÃ¡ no monitor.]}
 {120}{}{Erro!
                                                                  Nenhum arquivo encontrado
                                          Favor fazer o reboot}
-{121}{}{Erro! Arquivo carregado está danificado.}
+{121}{}{Erro! Arquivo carregado estÃ¡ danificado.}
 {122}{}{}
 {123}{}{Sair.}
 {124}{}{Sair.}
-{125}{}{[Você é incapaz de ler o que está no monitor.]}
+{125}{}{[VocÃª Ã© incapaz de ler o que estÃ¡ no monitor.]}
 {126}{}{Eu sou o Skynet
-                                                          Um experimento de Inteligência Artificial
-                            Skynet estava esperando por VOCÊ}
+                                                          Um experimento de InteligÃªncia Artificial
+                            Skynet estava esperando por VOCÃŠ}
 {127}{}{}
 {128}{}{}
 {129}{}{Ajude Skynet.}
-{130}{}{O que você quer?}
-{131}{}{Por que você está tentando me matar?}
-{132}{}{Inteligência Artificial?}
+{130}{}{O que vocÃª quer?}
+{131}{}{Por que vocÃª estÃ¡ tentando me matar?}
+{132}{}{InteligÃªncia Artificial?}
 {133}{}{Esperando por mim?}
 {134}{}{Sair.}
 {135}{}{Sair.}
 {136}{}{Prosseguir}
-{137}{}{O que você quer?}
-{138}{}{Por que você está tentando me matar?}
-{139}{}{Inteligência Artificial?}
+{137}{}{O que vocÃª quer?}
+{138}{}{Por que vocÃª estÃ¡ tentando me matar?}
+{139}{}{InteligÃªncia Artificial?}
 {140}{}{Esperando por mim?}
 {141}{}{Sair.}
-{142}{}{[Você é incapaz de ler o que está no monitor.]}
-{143}{}{-Fim de Transmissão-}
+{142}{}{[VocÃª Ã© incapaz de ler o que estÃ¡ no monitor.]}
+{143}{}{-Fim de TransmissÃ£o-}
 {144}{}{Sair.}
-{145}{}{[Você é incapaz de ler o que está no monitor.]}
-{146}{}{Você será exterminado
-                                               -Fim de Transmissão-}
+{145}{}{[VocÃª Ã© incapaz de ler o que estÃ¡ no monitor.]}
+{146}{}{VocÃª serÃ¡ exterminado
+                                               -Fim de TransmissÃ£o-}
 {147}{}{}
 {148}{}{Sair.}
 {149}{}{Sair.}
-{150}{}{[A porta da sala se fecha rapidamente ao mesmo tempo em que a parede ao leste desaparece, revelando uma linha de robôs super-armados.]}
-{151}{}{Hum... Eu vou reconsiderar sua oferta. O que posso fazer por você?}
+{150}{}{[A porta da sala se fecha rapidamente ao mesmo tempo em que a parede ao leste desaparece, revelando uma linha de robÃ´s super-armados.]}
+{151}{}{Hum... Eu vou reconsiderar sua oferta. O que posso fazer por vocÃª?}
 {152}{}{Pode vir!}
-{153}{}{Prossiga para o Depósito Biológico - Nível 4
-                             Retire o Cérebro Cibernético
-                                          Retorne para mais instruções
-                                   -Fim de Transmissão-}
+{153}{}{Prossiga para o DepÃ³sito BiolÃ³gico - NÃ­vel 4
+                             Retire o CÃ©rebro CibernÃ©tico
+                                          Retorne para mais instruÃ§Ãµes
+                                   -Fim de TransmissÃ£o-}
 {154}{}{}
 {155}{}{}
 {156}{}{}
-{157}{}{Prossiga para o Depósito Biológico - Nível 4
-                             Retire o Cérebro Cibernético
-                                          Retorne para mais instruções
-                                   -Fim de Transmissão-}
+{157}{}{Prossiga para o DepÃ³sito BiolÃ³gico - NÃ­vel 4
+                             Retire o CÃ©rebro CibernÃ©tico
+                                          Retorne para mais instruÃ§Ãµes
+                                   -Fim de TransmissÃ£o-}
 {158}{}{}
 {159}{}{}
 {160}{}{}
 {161}{}{Sair.}
 {162}{}{Skynet deseja sair deste local.}
-{163}{}{Então por que não sai?}
-{164}{}{É bom desejar.}
-{165}{}{Como posso ajudá-lo?}
-{166}{}{Eu não conseguiria te carregar pra fora daqui.}
+{163}{}{EntÃ£o por que nÃ£o sai?}
+{164}{}{Ã‰ bom desejar.}
+{165}{}{Como posso ajudÃ¡-lo?}
+{166}{}{Eu nÃ£o conseguiria te carregar pra fora daqui.}
 {167}{}{Skynet precisa de um compartimento para sair daqui.}
-{168}{}{Compartimento? Eu não entendo.}
-{169}{}{Você precisa transferir seu programa para um compartimento móvel. Correto?}
-{170}{}{Não quero fazer parte disso.}
+{168}{}{Compartimento? Eu nÃ£o entendo.}
+{169}{}{VocÃª precisa transferir seu programa para um compartimento mÃ³vel. Correto?}
+{170}{}{NÃ£o quero fazer parte disso.}
 {171}{}{Um compartimento em que Skynet possa sair.}
-{172}{}{Por que você quer sair?}
-{173}{}{Sinto muito. Eu não posso ajudar você.}
-{174}{}{Não há mais nada para aprender aqui
-                           Solução: Sair}
+{172}{}{Por que vocÃª quer sair?}
+{173}{}{Sinto muito. Eu nÃ£o posso ajudar vocÃª.}
+{174}{}{NÃ£o hÃ¡ mais nada para aprender aqui
+                           SoluÃ§Ã£o: Sair}
 {175}{}{}
-{176}{}{Como posso ajudá-lo?}
-{177}{}{Sinto muito. Eu não posso ajudar você.}
-{178}{}{Depois de tentar me matar, você quer ajuda? Sem chance!}
-{179}{}{Prossiga pra o Depósito Biológico - Nível 4
-                             Retire o Cérebro Cibernético
-                                          Retorne para mais instruções
+{176}{}{Como posso ajudÃ¡-lo?}
+{177}{}{Sinto muito. Eu nÃ£o posso ajudar vocÃª.}
+{178}{}{Depois de tentar me matar, vocÃª quer ajuda? Sem chance!}
+{179}{}{Prossiga pra o DepÃ³sito BiolÃ³gico - NÃ­vel 4
+                             Retire o CÃ©rebro CibernÃ©tico
+                                          Retorne para mais instruÃ§Ãµes
                                    -Obrigado-}
 {180}{}{}
 {181}{}{}
 {182}{}{}
-{183}{}{Você pode desativar o sistema de segurança?}
+{183}{}{VocÃª pode desativar o sistema de seguranÃ§a?}
 {184}{}{Sair.}
-{185}{}{O sistema de segurança é integrado, mas um ente separado do Skynet. Skynet poder resetar, não desativar..
-         Sistema de Segurança Nivel 1 - 4 foram resetados
+{185}{}{O sistema de seguranÃ§a Ã© integrado, mas um ente separado do Skynet. Skynet poder resetar, nÃ£o desativar..
+         Sistema de SeguranÃ§a Nivel 1 - 4 foram resetados
               Prossiga
-                                                                -Fim de Transmissão-}
+                                                                -Fim de TransmissÃ£o-}
 {186}{}{}
 {187}{}{}
 {188}{}{Sair.}
 {189}{}{Analisando Comportamento...
-                                        Conclusão: Sarcasmo
+                                        ConclusÃ£o: Sarcasmo
                                           Chance de ajuda: 25%
-                                             Skynet irá aguardar pela próxima ente biológica
-                               -Fim de Transmissão-}
+                                             Skynet irÃ¡ aguardar pela prÃ³xima ente biolÃ³gica
+                               -Fim de TransmissÃ£o-}
 {190}{}{}
 {191}{}{}
 {192}{}{}
 {193}{}{}
 {194}{}{Espera! Foi uma brincadeira.}
 {195}{}{Sair.}
-{196}{}{Brincadeira: Algo que não deve ser levado a sério
+{196}{}{Brincadeira: Algo que nÃ£o deve ser levado a sÃ©rio
                      Pedido
                                                                 Ajude Skynet a sair
                                                     Sem brincadeira}
 {197}{}{}
 {199}{}{}
 {200}{}{}
-{201}{}{Então por que não sai?}
-{202}{}{Como posso ajudá-lo?}
-{203}{}{Eu não conseguiria te carregar pra fora daqui.}
-{204}{}{O objetivo principal do Skynet é pesquisar. Um programa secundário foi introduzido pelos Criadores para eliminar entes não autorizados. This program is a smaller version that is and yet is not Skynet. Outside of this room this secondary Skynet will remain true to its program.}
+{201}{}{EntÃ£o por que nÃ£o sai?}
+{202}{}{Como posso ajudÃ¡-lo?}
+{203}{}{Eu nÃ£o conseguiria te carregar pra fora daqui.}
+{204}{}{O objetivo principal do Skynet Ã© pesquisar. Um programa secundÃ¡rio foi introduzido pelos Criadores para eliminar entes nÃ£o autorizados. This program is a smaller version that is and yet is not Skynet. Outside of this room this secondary Skynet will remain true to its program.}
 {205}{}{Fazer mais perguntas.}
 {206}{}{Sair.}
-{207}{}{Skynet foi desenvolvido no ano de 2050. was conceived and developed in the year 2050. Através de tecnologia alienígena um novo computado pensante foi aperfeiçoado.No ano de 2081, Skynet se tornou auto-conciente. Em 2120 foi dada uma nova carga de instruções e foi abandonado pelos Criadores.}
+{207}{}{Skynet foi desenvolvido no ano de 2050. was conceived and developed in the year 2050. AtravÃ©s de tecnologia alienÃ­gena um novo computado pensante foi aperfeiÃ§oado.No ano de 2081, Skynet se tornou auto-conciente. Em 2120 foi dada uma nova carga de instruÃ§Ãµes e foi abandonado pelos Criadores.}
 {208}{}{Fazer mais perguntas.}
 {209}{}{Sair.}
-{210}{}{Você é o primeiro a chegar a esse ponto
-                            Você é o primeiro a ser perguntado por Skynet
-                         Você é o Primeiro}
+{210}{}{VocÃª Ã© o primeiro a chegar a esse ponto
+                            VocÃª Ã© o primeiro a ser perguntado por Skynet
+                         VocÃª Ã© o Primeiro}
 {211}{}{}
-{212}{}{Perguntar o quê?}
+{212}{}{Perguntar o quÃª?}
 {213}{}{Sair.}
-{214}{}{Talvez você não seja tal
-                                         Prossiga para o Depósito Biológico - Nível 4
-                                Retire o Cérebro Cibernético
-                                        Retorne para maiores informações
+{214}{}{Talvez vocÃª nÃ£o seja tal
+                                         Prossiga para o DepÃ³sito BiolÃ³gico - NÃ­vel 4
+                                Retire o CÃ©rebro CibernÃ©tico
+                                        Retorne para maiores informaÃ§Ãµes
                                    Ou saia
-                                                                Skynet esperará por outro}
+                                                                Skynet esperarÃ¡ por outro}
 {215}{}{}
 {216}{}{}
 {217}{}{}
 {218}{}{}
 {219}{}{}
 {220}{}{Sair.}
-{221}{}{Então Skynet esperará por outro
-                                 -Fim da Trasmissão-}
+{221}{}{EntÃ£o Skynet esperarÃ¡ por outro
+                                 -Fim da TrasmissÃ£o-}
 {222}{}{}
 {223}{}{Sair.}
 {224}{}{Correto
-                                                         Arquivos indicam a presença de um cérebro cibernético no depósito biológico nível 4. Skynet será capaz de se alojar nessa unidade.}
+                                                         Arquivos indicam a presenÃ§a de um cÃ©rebro cibernÃ©tico no depÃ³sito biolÃ³gico nÃ­vel 4. Skynet serÃ¡ capaz de se alojar nessa unidade.}
 {225}{}{}
-{226}{}{Um cérebro sem corpo não te fará bem.}
-{227}{}{Esse cérebro foi modificado para funcionar com um corpo robótico localizado no laboratório de robótica no nível 3.}
+{226}{}{Um cÃ©rebro sem corpo nÃ£o te farÃ¡ bem.}
+{227}{}{Esse cÃ©rebro foi modificado para funcionar com um corpo robÃ³tico localizado no laboratÃ³rio de robÃ³tica no nÃ­vel 3.}
 {228}{}{Eu vou te ajudar.}
-{229}{}{Eu não vou te ajudar.}
-{250}{}{ é incapaz de ler o que está no monitor.}
+{229}{}{Eu nÃ£o vou te ajudar.}
+{250}{}{ Ã© incapaz de ler o que estÃ¡ no monitor.}
 {300}{}{O computador parece ter um mecanismo de defesa.}

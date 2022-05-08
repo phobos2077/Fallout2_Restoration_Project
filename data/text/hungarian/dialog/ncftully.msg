@@ -1,273 +1,273 @@
 {100}{}{? Tully atya.}
-{150}{}{Egy id?sebb emberhez van szerencséd. Barna csuhát visel, az arcán kisebb-nagyobb whiskey foltok. Egy egész picinykét bizonytalannak t?nik az állása.}
-{151}{}{? Tully Atya. Már túl van egy-két adag italon.}
-{200}{}{Jómegvagyokáldva.}
-{201}{}{A n?i személyek pedig szentséges csókkal köszöntsenek engemet.}
-{202}{}{Ha kell kiiszom magamból az ördögöt.}
-{203}{}{Egy igazi prédikációhoz nem kellenek szavak...}
-{204}{}{Magamban érzem a Magasságost.}
-{205}{}{A jó fenébe. Kezdek kijózanodni. Innom kell...}
-{206}{}{Miért hullámzik összevissza a talaj?...}
-{207}{}{Egy palack itókától megered a nyelvem.}
-{208}{}{Még öt palack és az ördög elpusztul itt a fejemben.}
-{209}{}{Óhhhh. Már egy órája is megvan, hogy nem nyakaltam...}
-{210}{}{Itt az id?, hogy mélyen beleigyunk a szentlélekbe.}
-{211}{}{Minden szentség nevében iszom.}
-{220}{}{Akarod tudni egyházunk álláspontját a fellációról?}
-{221}{}{B?n! Fert?! Eh... mit csinálsz ma este?}
-{222}{}{Riherongy! Szajha! Cafka! Eh... mit csinálsz ma este?}
-{225}{}{Hogyanvagyol? Ismerlek én téged?}
-{226}{}{Üdvözlek tég... mit tehet Tully Atya ér... etted?...}
-{227}{}{Te-vagy... kilenyomta a Enklávét... mint az isten... illetve... mit tesz isten? H?s vagy.}
-{228}{}{Én hall-ó h?s}
-{229}{}{Én köszönje}
-{230}{}{Igen, összeakaszkodtunk az Enklávéval. ?k kezdték, én csak befejeztem, de Atyám, félre ne értsen! Én csak egy közönséges ember vagyok, próbálok boldogulni ebben a könyörtelen világban... távol áll t?lem, hogy h?s legyek.}
-{231}{}{Igen, összeakaszkodtunk az Enklávéval. ?k kezdték, én csak befejeztem, de Atyám, félre ne értsen! Én csak egy közönséges ember vagyok, próbálok boldogulni ebben a könyörtelen világban... távol áll t?lem, hogy h?s legyek.}
-{232}{}{Jobb, ha megyek, Atyám. Jó kis szaga volt a... ööö, jó, hogy beszélgettünk.}
-{235}{}{H?S vagy. Vaniten valammim a számod... ra. Nemtom, mi vót az els?re, de biztosss jóljön neked.}
-{236}{}{Én eltesz}
-{237}{}{Hozzám nem kell az... akarni menni kifele}
-{238}{}{Hogyne, elfogadok bármit, amit ad, Atyám. Öö, persze a jóizlés határán belül.}
-{239}{}{Ööö... köszönöm, de nem kérem, Atyám. Most igazán mennem kell.}
-{240}{}{(Tully odamegy az egyik padhoz, letépi az ülést és el?húz egy koszos, puhafedel? könyvet.) Tess... ék. Kicccsit piszkosss, de... (Átnyújtja.)}
-{241}{}{Kössssz}
-{242}{}{Köszönet, Atyám. Nyilván.}
-{245}{}{H?s vagggy. Meeggérdemmled. Nem sokk játééékos szokja BEFEJEZNI a játékokat mosstannábannn, de te asztán jóóó messsszire jutottá'. Büszke vagyokk rájad. Egésszen az összes NEW RENO büssszke rájad.}
-{246}{}{Kössz, Attya. Viszlátja}
-{247}{}{Köszönöm, Atyám. Vigyázzon magára, hallja-e!}
-{250}{}{Üdvözöllünk, fijjam. Mittehet Tully Atya érrted ezzen a csoddás, csoddás, renói éjszakában?}
-{251}{}{Üdvözöllünk, fijjam. Mittehet Tully Atya érrted ezzen a csoddás, csoddás, renói nappon?}
-{252}{}{Hii-hii. B?zlöl mint szeszkazán. B?zlöl mint pisi}
-{253}{}{Én szeresse miszter napsugártot}
-{254}{}{Jóccakát.}
-{255}{}{Öö, az a helyzet, hogy most nappal van, Atyám.}
-{256}{}{Öö, az a helyzet, hogy most éjszaka van, Atyám.}
+{150}{}{Egy id?sebb emberhez van szerencsÃ©d. Barna csuhÃ¡t visel, az arcÃ¡n kisebb-nagyobb whiskey foltok. Egy egÃ©sz picinykÃ©t bizonytalannak t?nik az Ã¡llÃ¡sa.}
+{151}{}{? Tully Atya. MÃ¡r tÃºl van egy-kÃ©t adag italon.}
+{200}{}{JÃ³megvagyokÃ¡ldva.}
+{201}{}{A n?i szemÃ©lyek pedig szentsÃ©ges csÃ³kkal kÃ¶szÃ¶ntsenek engemet.}
+{202}{}{Ha kell kiiszom magambÃ³l az Ã¶rdÃ¶gÃ¶t.}
+{203}{}{Egy igazi prÃ©dikÃ¡ciÃ³hoz nem kellenek szavak...}
+{204}{}{Magamban Ã©rzem a MagassÃ¡gost.}
+{205}{}{A jÃ³ fenÃ©be. Kezdek kijÃ³zanodni. Innom kell...}
+{206}{}{MiÃ©rt hullÃ¡mzik Ã¶sszevissza a talaj?...}
+{207}{}{Egy palack itÃ³kÃ¡tÃ³l megered a nyelvem.}
+{208}{}{MÃ©g Ã¶t palack Ã©s az Ã¶rdÃ¶g elpusztul itt a fejemben.}
+{209}{}{Ã“hhhh. MÃ¡r egy Ã³rÃ¡ja is megvan, hogy nem nyakaltam...}
+{210}{}{Itt az id?, hogy mÃ©lyen beleigyunk a szentlÃ©lekbe.}
+{211}{}{Minden szentsÃ©g nevÃ©ben iszom.}
+{220}{}{Akarod tudni egyhÃ¡zunk Ã¡llÃ¡spontjÃ¡t a fellÃ¡ciÃ³rÃ³l?}
+{221}{}{B?n! Fert?! Eh... mit csinÃ¡lsz ma este?}
+{222}{}{Riherongy! Szajha! Cafka! Eh... mit csinÃ¡lsz ma este?}
+{225}{}{Hogyanvagyol? Ismerlek Ã©n tÃ©ged?}
+{226}{}{ÃœdvÃ¶zlek tÃ©g... mit tehet Tully Atya Ã©r... etted?...}
+{227}{}{Te-vagy... kilenyomta a EnklÃ¡vÃ©t... mint az isten... illetve... mit tesz isten? H?s vagy.}
+{228}{}{Ã‰n hall-Ã³ h?s}
+{229}{}{Ã‰n kÃ¶szÃ¶nje}
+{230}{}{Igen, Ã¶sszeakaszkodtunk az EnklÃ¡vÃ©val. ?k kezdtÃ©k, Ã©n csak befejeztem, de AtyÃ¡m, fÃ©lre ne Ã©rtsen! Ã‰n csak egy kÃ¶zÃ¶nsÃ©ges ember vagyok, prÃ³bÃ¡lok boldogulni ebben a kÃ¶nyÃ¶rtelen vilÃ¡gban... tÃ¡vol Ã¡ll t?lem, hogy h?s legyek.}
+{231}{}{Igen, Ã¶sszeakaszkodtunk az EnklÃ¡vÃ©val. ?k kezdtÃ©k, Ã©n csak befejeztem, de AtyÃ¡m, fÃ©lre ne Ã©rtsen! Ã‰n csak egy kÃ¶zÃ¶nsÃ©ges ember vagyok, prÃ³bÃ¡lok boldogulni ebben a kÃ¶nyÃ¶rtelen vilÃ¡gban... tÃ¡vol Ã¡ll t?lem, hogy h?s legyek.}
+{232}{}{Jobb, ha megyek, AtyÃ¡m. JÃ³ kis szaga volt a... Ã¶Ã¶Ã¶, jÃ³, hogy beszÃ©lgettÃ¼nk.}
+{235}{}{H?S vagy. Vaniten valammim a szÃ¡mod... ra. Nemtom, mi vÃ³t az els?re, de biztosss jÃ³ljÃ¶n neked.}
+{236}{}{Ã‰n eltesz}
+{237}{}{HozzÃ¡m nem kell az... akarni menni kifele}
+{238}{}{Hogyne, elfogadok bÃ¡rmit, amit ad, AtyÃ¡m. Ã–Ã¶, persze a jÃ³izlÃ©s hatÃ¡rÃ¡n belÃ¼l.}
+{239}{}{Ã–Ã¶Ã¶... kÃ¶szÃ¶nÃ¶m, de nem kÃ©rem, AtyÃ¡m. Most igazÃ¡n mennem kell.}
+{240}{}{(Tully odamegy az egyik padhoz, letÃ©pi az Ã¼lÃ©st Ã©s el?hÃºz egy koszos, puhafedel? kÃ¶nyvet.) Tess... Ã©k. Kicccsit piszkosss, de... (ÃtnyÃºjtja.)}
+{241}{}{KÃ¶ssssz}
+{242}{}{KÃ¶szÃ¶net, AtyÃ¡m. NyilvÃ¡n.}
+{245}{}{H?s vagggy. MeeggÃ©rdemmled. Nem sokk jÃ¡tÃ©Ã©Ã©kos szokja BEFEJEZNI a jÃ¡tÃ©kokat mosstannÃ¡bannn, de te asztÃ¡n jÃ³Ã³Ã³ messsszire jutottÃ¡'. BÃ¼szke vagyokk rÃ¡jad. EgÃ©sszen az Ã¶sszes NEW RENO bÃ¼ssszke rÃ¡jad.}
+{246}{}{KÃ¶ssz, Attya. ViszlÃ¡tja}
+{247}{}{KÃ¶szÃ¶nÃ¶m, AtyÃ¡m. VigyÃ¡zzon magÃ¡ra, hallja-e!}
+{250}{}{ÃœdvÃ¶zÃ¶llÃ¼nk, fijjam. Mittehet Tully Atya Ã©rrted ezzen a csoddÃ¡s, csoddÃ¡s, renÃ³i Ã©jszakÃ¡ban?}
+{251}{}{ÃœdvÃ¶zÃ¶llÃ¼nk, fijjam. Mittehet Tully Atya Ã©rrted ezzen a csoddÃ¡s, csoddÃ¡s, renÃ³i nappon?}
+{252}{}{Hii-hii. B?zlÃ¶l mint szeszkazÃ¡n. B?zlÃ¶l mint pisi}
+{253}{}{Ã‰n szeresse miszter napsugÃ¡rtot}
+{254}{}{JÃ³ccakÃ¡t.}
+{255}{}{Ã–Ã¶, az a helyzet, hogy most nappal van, AtyÃ¡m.}
+{256}{}{Ã–Ã¶, az a helyzet, hogy most Ã©jszaka van, AtyÃ¡m.}
 {257}{}{Ki vagy te?}
-{258}{}{Maga részeg?}
-{259}{}{Szóval Tully "Atya"...? Válni lehet magánál?}
-{261}{}{Hoztam egy kis piát, Atyám. Tudnánk beszélgetni egy picit?}
-{262}{}{Semmit. Már itt sem vagyok.}
-{270}{}{(Megszagolja a hónalját, aztán a csuháját.) Amindenit, b?zlök, mi? A fészkes fenébe, olyan a szagom, mint a szeszf?zdének! Jobb leszen megfürödnöm, miel?tt Wright asszonyság elkapja a grabancom...}
-{271}{}{Pá pá pisis}
-{275}{}{Francba, túlságosan sokat aludtam... különben észrevettem volna... mi a francot is mondtam?}
-{290}{}{Tully Atya vagyok, a szolgálatodra. Én vagyok a spirituális tanácsadója a jó e... szóval a New Reno-i lakosoknak.}
-{291}{}{Ezt csak részegen tudja elképzelni?}
-{292}{}{Volna néhány kérdésem New Renóval kapcsolatban...}
-{295}{}{Értem... hát köszönöm, hogy beszélgetett velem.}
-{300}{}{Termesztettesen nem! Régen úgy ismertek, mint aki alkal'madtán ránézzeget a pohárnak fenekére, de az Önmegtartóztatók Szövetsége segített megszabadulni attó' a mocskos szokástól.}
-{301}{}{Az Önmegt...?}
-{302}{}{Ó, én nem akart...}
+{258}{}{Maga rÃ©szeg?}
+{259}{}{SzÃ³val Tully "Atya"...? VÃ¡lni lehet magÃ¡nÃ¡l?}
+{261}{}{Hoztam egy kis piÃ¡t, AtyÃ¡m. TudnÃ¡nk beszÃ©lgetni egy picit?}
+{262}{}{Semmit. MÃ¡r itt sem vagyok.}
+{270}{}{(Megszagolja a hÃ³naljÃ¡t, aztÃ¡n a csuhÃ¡jÃ¡t.) Amindenit, b?zlÃ¶k, mi? A fÃ©szkes fenÃ©be, olyan a szagom, mint a szeszf?zdÃ©nek! Jobb leszen megfÃ¼rÃ¶dnÃ¶m, miel?tt Wright asszonysÃ¡g elkapja a grabancom...}
+{271}{}{PÃ¡ pÃ¡ pisis}
+{275}{}{Francba, tÃºlsÃ¡gosan sokat aludtam... kÃ¼lÃ¶nben Ã©szrevettem volna... mi a francot is mondtam?}
+{290}{}{Tully Atya vagyok, a szolgÃ¡latodra. Ã‰n vagyok a spirituÃ¡lis tanÃ¡csadÃ³ja a jÃ³ e... szÃ³val a New Reno-i lakosoknak.}
+{291}{}{Ezt csak rÃ©szegen tudja elkÃ©pzelni?}
+{292}{}{Volna nÃ©hÃ¡ny kÃ©rdÃ©sem New RenÃ³val kapcsolatban...}
+{295}{}{Ã‰rtem... hÃ¡t kÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgetett velem.}
+{300}{}{Termesztettesen nem! RÃ©gen Ãºgy ismertek, mint aki alkal'madtÃ¡n rÃ¡nÃ©zzeget a pohÃ¡rnak fenekÃ©re, de az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge segÃ­tett megszabadulni attÃ³' a mocskos szokÃ¡stÃ³l.}
+{301}{}{Az Ã–nmegt...?}
+{302}{}{Ã“, Ã©n nem akart...}
 {303}{}{Megszabadu...?}
-{305}{}{Az Önmegtartóztatók Szövetsége és Wright asszonyság... egy és ugyanaz. A cél New Reeeno megtisztítása. Egész jó munkát végzett rajtam. }
-{306}{}{Szemlátomást. Volna még egynehány kérdésem...}
-{315}{}{Kéhdezni akahrsz? Nem mondhatnám, hogy túúúúl sokat tudok mondani. De azér kéhdezzé' csak...}
-{316}{}{Hallott már a 13-as Menedékr?l?}
-{317}{}{Azért vagyok itt, mert a falumbeliek után kutatok. Elrabolták ?ket otthonról.}
-{318}{}{Ugye nem tudja, hogy kell rendbe hozni egy tankhajót?}
-{319}{}{Hallott már valamit egy bizonyos Édenkert Létrehozást El?segít? Táskáról?}
-{320}{}{Tudna valami közelebbit mondani New Renóról?}
-{323}{}{Kés?bb talán visszajövök, ha valamelyest kijózanodott.}
-{325}{}{Hát... Reno... az... hát az... hát... ööö, szóval...}
-{326}{}{Egy Édenkert Léprehozást El?seggít? Táskát mondtál? Neem. Nem mondhatnám, hogy valaha is hallottam ilyesmir?l. Nem biz a...}
-{327}{}{Tizenháromos Menedék? Nincsen ötlet... izé, van valami Menedékváros nev? hely észak-kelet felé. Talán azt keresed. Hmmm... ja, lehet...}
-{328}{}{Talán hajcsárok? Úgy hallom, eccsomó rabszolgát onnan szereztek... ööö... jaja...}
-{329}{}{Tanker? Azon vannak lánctalpak meg cs?? Nem nagyon értek hozzájuk... ööö... nem ám...}
+{305}{}{Az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge Ã©s Wright asszonysÃ¡g... egy Ã©s ugyanaz. A cÃ©l New Reeeno megtisztÃ­tÃ¡sa. EgÃ©sz jÃ³ munkÃ¡t vÃ©gzett rajtam. }
+{306}{}{SzemlÃ¡tomÃ¡st. Volna mÃ©g egynehÃ¡ny kÃ©rdÃ©sem...}
+{315}{}{KÃ©hdezni akahrsz? Nem mondhatnÃ¡m, hogy tÃºÃºÃºÃºl sokat tudok mondani. De azÃ©r kÃ©hdezzÃ©' csak...}
+{316}{}{Hallott mÃ¡r a 13-as MenedÃ©kr?l?}
+{317}{}{AzÃ©rt vagyok itt, mert a falumbeliek utÃ¡n kutatok. ElraboltÃ¡k ?ket otthonrÃ³l.}
+{318}{}{Ugye nem tudja, hogy kell rendbe hozni egy tankhajÃ³t?}
+{319}{}{Hallott mÃ¡r valamit egy bizonyos Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡rÃ³l?}
+{320}{}{Tudna valami kÃ¶zelebbit mondani New RenÃ³rÃ³l?}
+{323}{}{KÃ©s?bb talÃ¡n visszajÃ¶vÃ¶k, ha valamelyest kijÃ³zanodott.}
+{325}{}{HÃ¡t... Reno... az... hÃ¡t az... hÃ¡t... Ã¶Ã¶Ã¶, szÃ³val...}
+{326}{}{Egy Ã‰denkert LÃ©prehozÃ¡st El?seggÃ­t? TÃ¡skÃ¡t mondtÃ¡l? Neem. Nem mondhatnÃ¡m, hogy valaha is hallottam ilyesmir?l. Nem biz a...}
+{327}{}{TizenhÃ¡romos MenedÃ©k? Nincsen Ã¶tlet... izÃ©, van valami MenedÃ©kvÃ¡ros nev? hely Ã©szak-kelet felÃ©. TalÃ¡n azt keresed. Hmmm... ja, lehet...}
+{328}{}{TalÃ¡n hajcsÃ¡rok? Ãšgy hallom, eccsomÃ³ rabszolgÃ¡t onnan szereztek... Ã¶Ã¶Ã¶... jaja...}
+{329}{}{Tanker? Azon vannak lÃ¡nctalpak meg cs?? Nem nagyon Ã©rtek hozzÃ¡juk... Ã¶Ã¶Ã¶... nem Ã¡m...}
 {330}{}{Igen...?}
-{335}{}{Bocs', hogy érdekl?dök, de nincsen egy kis pia nálad? Kellene a prédikációhoz... a torkom meg kiszáradt.}
-{336}{}{Semmi gond. Tessék itt van egy.}
-{337}{}{Attól tartok, nincs nálam semmi.}
-{338}{}{Ha akarja, hozhatok magának.}
-{440}{}{Most mán egyenesbe' vagyok, Wright asszonyságnak hála... a neve legyen áldott neki. Mosmá' vagy egy... hónapja tiszta vagyok. Vagy egy hete? Francse tuggya.}
-{441}{}{A hét hihet?bbnek t?nik. Na, kérdeznék még egy s mást...}
-{442}{}{Porzik a veséje? Na, mennyit mutatok az ujjammal?}
-{443}{}{Mi ez az Önmegtartóztatók Szövetsége?}
-{444}{}{Wright asszonyság kicsoda?}
-{445}{}{Talán kés?bb, ha egy kicsit kijózanodott, visszajövök.}
-{450}{}{(Tully odabotladozik a szószék melletti perselyhez, és beleturkál.) }
-{451}{}{Ööö... Hmmm. (Nem húz el? semmit.) Asszem, elfogyott az összes péézem.}
-{452}{}{Hmmm. Tessék... (A markodba nyom egy kis aprót.) Áldassanak a szegények és szenteltessék meg e pénz, amikor elköltöd.}
-{453}{}{Amúgy köszönöm, Atyám. Megnézzük, össze tudunk-e guberálni egy kis itókát.}
-{454}{}{Köszönöm, Atyám. Hamarosan visszajövök az innivalóval.}
-{460}{}{Nehogyan az idd?d vesztegessed a feleségére vagy a lányára... nem csoda, hogy mindkett?b?l riherooongy lett. Hehe... a gyónásná' minden kiderül ám...}
-{461}{}{Ah, és Mr. Bishop mit szokott mondani gyónás közben?}
-{462}{}{Ah, és Mrs. Bishop mit szokott mondani gyónás közben?}
-{463}{}{És Mrs. Bishop mit szokott mondani gyónás közben? Remélem, engem nem említett... Úgy értem, bármit is mondana, hazugság lenne.}
-{464}{}{Ah, és Bishop lánya mit szokott mondani gyónás közben?}
-{465}{}{Ööö, és Bishop lánya mit szokott mondani gyónás közben? Rólam gondolom semmit... ööö, semmi rosszat, remélhet?leg.}
-{466}{}{Képzelem. Feltehetnék még egy-két kérdést, Atyám?}
-{470}{}{Neeem, Menedékváros aszonta nekik, hogy dugja fel a kakalukába. Szóval... röviddel ezután Menedékvárost elkezdték kifosztani. Gyorsan. Kíméletlenül. És végig ottanvan a háttérbe' Bischop, és egyre hajtogattya: "Én segítek, ha csatlakoztok New Renóhoz."}
-{471}{}{Hmmm. Mit tudna még elmondani a Bishop családról?}
-{472}{}{Szóval Bishop eszköze a zsarolás? Néhány rajtaütés, egy-két halál, és Menedékváros dalolva csatlakozik hozzá. Nem túl pazar megoldás, de megteszi. Mi egyebet tudna elmondani a Bishopokról?}
-{473}{}{Ez furcsa taktikának t?nik... úgy értem, hihet?bb lenne, hogy Menedékváros, miel?tt beadja a derekát Bishop nyomásának, megpróbálna valaki mástól segítséget kérni. Van még valami, amit érdemes tudni a Bishopokról?}
-{474}{}{Ez furcsa taktikának t?nik... úgy értem, hihet?bb lenne, hogy Menedékváros, miel?tt beadja a derekát Bishop nyomásának, megpróbálna valaki mástól, például az ÚKK-tól, segítséget kérni. Van még valami, amit érdemes tudni a Bishopokról?}
-{475}{}{Kérdezhetek még, Atyám?}
-{476}{}{Nagyon érdekes ez, Atyám. Köszönöm, hogy beszélgetett velem.}
-{480}{}{(A kezedet bámulja) Az ott hat? Vagy három?...}
-{481}{}{Nagyon jó. Mindkett? igaz. Na, akkor most kérdezni fogok...}
-{482}{}{Szokott válást is levezetni?}
-{484}{}{Talán kés?bb visszajövök, ha már kijózanodott egy kicsit.}
-{490}{}{Az ördögbe, hát hogyne tudnék! A nagy ? el?tt Reno volt a válások f?városa. }
-{491}{}{Ez az a fruska, akit?l el akarsz válni? }
-{492}{}{Ez az a cs?dör, akit?l el akarsz válni? }
-{493}{}{(Ahogy kett?töket bámul, zavartnak t?nik egy pillanatra, de aztán vállatvon és iszik egyet.)}
-{494}{}{Eltalálta. Kezdhetjük?}
-{495}{}{Meglehet... még átgondolom. Kés?bb találkozunk.}
-{500}{}{Úgy t?nik, az össsszesh hivatali cuccossal együtt lába kélt a szentbessszédes khönyvemnek.}
-{501}{}{Ott egye a fene a könyvet! Itt van egy kis pia, rögtönözzön valamit!}
-{502}{}{Itt van egy kis pia, rögtönözzön valamit!}
-{503}{}{Ott egye a fene a könyvet! Ha hozok egy kis piát, rögtönöz valamit?}
-{504}{}{Ha hozok egy kis piát, rögtönöz valamit?}
-{505}{}{Ó, talán még a könyv is el?kerül.}
-{510}{}{Hát az nem volna szép dolog... kivéve, ha valami nagggyon jó piááááról van szó.}
-{511}{}{Ne aggódjon. Hamarosan visszajövök.}
-{512}{}{Hát hozhatok valamennyit. Viszont kéne egy kis pénz rá.}
-{520}{}{Hogyne! Várj csak, letisztítom oszt gyorsan öntünk is a t?zre... (Rémiszt? sebességgel gurítja le a palack tartalmát.) ...na jóvan, ti ketten mennyetek a szószékhez..}
-{521}{}{Lépjetek közelebb...}
-{530}{}{Aha, rendben van. Nincs semmi baj, ha kérdezel... szóval... öö... bocsánat, de ki is vagy te?}
-{531}{}{Ha akarja, tudok szerezni egy kis piát.}
-{540}{}{Na, van egy jó ötletem! Háromszoros áldás szájjon rájad! Öö... véletlenül tudok egy HELYET a keleti negyedben, a régi vasútállomásnál, ahol lehet kapni a számomra is megfelel? szentelt vizet.}
-{541}{}{Oké. Hozok bel?le. Hamarosan visszajövök.}
-{542}{}{Oké. Hozok bel?le, de kéne egy kis pénz, hogy meg tudjam venni.}
-{550}{}{Pe'sze, pe'sze... pééz, pééz... hol is tartom én a péézt... (A szeme megakad a szószék melletti perselyen.) Ah! Nem tudom, miért nem jutott korábban eszembe... Vá'já' egy picinyt...}
-{551}{}{Türelmesen várod, hogy abbahagyja a perselyben való turkálást.}
-{552}{}{Öö, hagyja csak, Atyám! Most látom, hogy van nálam.}
-{560}{}{(Tully atya rábámul a kezében lév? immár üres palackra.) Hát nem akarlak nagyon kihasználni, barátom, de nincs nálad véletlenül egy másik üveg ebb?l a remek itókából? A sok beszédt?l teljesen kiszárad a torkom.}
-{570}{}{Szívb?l köszönöm! (Átveszi az üveget, és meghúzza.) Ahhh... elnézést... mi a francról is beszéltünk?}
-{571}{}{Eh... hát, tudnánk biza! (Elveszi az üveget.) Általában nem élek vele... (Jól meghúzza.) ...ahhhh... öö, elnézést, mir?l is beszé'tem?}
-{572}{}{Eh... ez marha rendes volt t?led! (Átveszi az üveget.) Általában nem iszom ilyen sokat... (Jól meghúzza.) Ahhh... elnézést... mir?l is beszéltünk?}
-{573}{}{A Bishop családról beszélt.}
-{574}{}{A Wright családról beszélt.}
-{575}{}{A Mordino családról beszélt.}
-{576}{}{A Salvatore családról beszélt.}
-{578}{}{Richard Wright haláláról beszélt.}
-{579}{}{Kés?bb, ha már kijózanodott, visszajövök.}
-{590}{}{Aha... Szóval a Bishopokról... hatalommániás a legtöbbje, a vérükbe' van. John Bishop annyira el van foglalva a világ felfalásával, hogy az otthoni ügyekre már nem marad ideje...}
-{591}{}{Miféle otthoni ügyekre?}
-{600}{}{Hát nem sokat, de a gyónás során hallok ám ezt-azt a vén Bishopró'. Ördöng?s alak. Olyan thökös muksó, hogy diót tunna törni a golyóival. Sze'tem ? áll a Menedékváros elleni fosssztogató akciók mögött... hallottá' róluk?}
+{335}{}{Bocs', hogy Ã©rdekl?dÃ¶k, de nincsen egy kis pia nÃ¡lad? Kellene a prÃ©dikÃ¡ciÃ³hoz... a torkom meg kiszÃ¡radt.}
+{336}{}{Semmi gond. TessÃ©k itt van egy.}
+{337}{}{AttÃ³l tartok, nincs nÃ¡lam semmi.}
+{338}{}{Ha akarja, hozhatok magÃ¡nak.}
+{440}{}{Most mÃ¡n egyenesbe' vagyok, Wright asszonysÃ¡gnak hÃ¡la... a neve legyen Ã¡ldott neki. MosmÃ¡' vagy egy... hÃ³napja tiszta vagyok. Vagy egy hete? Francse tuggya.}
+{441}{}{A hÃ©t hihet?bbnek t?nik. Na, kÃ©rdeznÃ©k mÃ©g egy s mÃ¡st...}
+{442}{}{Porzik a vesÃ©je? Na, mennyit mutatok az ujjammal?}
+{443}{}{Mi ez az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge?}
+{444}{}{Wright asszonysÃ¡g kicsoda?}
+{445}{}{TalÃ¡n kÃ©s?bb, ha egy kicsit kijÃ³zanodott, visszajÃ¶vÃ¶k.}
+{450}{}{(Tully odabotladozik a szÃ³szÃ©k melletti perselyhez, Ã©s beleturkÃ¡l.) }
+{451}{}{Ã–Ã¶Ã¶... Hmmm. (Nem hÃºz el? semmit.) Asszem, elfogyott az Ã¶sszes pÃ©Ã©zem.}
+{452}{}{Hmmm. TessÃ©k... (A markodba nyom egy kis aprÃ³t.) Ãldassanak a szegÃ©nyek Ã©s szenteltessÃ©k meg e pÃ©nz, amikor elkÃ¶ltÃ¶d.}
+{453}{}{AmÃºgy kÃ¶szÃ¶nÃ¶m, AtyÃ¡m. MegnÃ©zzÃ¼k, Ã¶ssze tudunk-e guberÃ¡lni egy kis itÃ³kÃ¡t.}
+{454}{}{KÃ¶szÃ¶nÃ¶m, AtyÃ¡m. Hamarosan visszajÃ¶vÃ¶k az innivalÃ³val.}
+{460}{}{Nehogyan az idd?d vesztegessed a felesÃ©gÃ©re vagy a lÃ¡nyÃ¡ra... nem csoda, hogy mindkett?b?l riherooongy lett. Hehe... a gyÃ³nÃ¡snÃ¡' minden kiderÃ¼l Ã¡m...}
+{461}{}{Ah, Ã©s Mr. Bishop mit szokott mondani gyÃ³nÃ¡s kÃ¶zben?}
+{462}{}{Ah, Ã©s Mrs. Bishop mit szokott mondani gyÃ³nÃ¡s kÃ¶zben?}
+{463}{}{Ã‰s Mrs. Bishop mit szokott mondani gyÃ³nÃ¡s kÃ¶zben? RemÃ©lem, engem nem emlÃ­tett... Ãšgy Ã©rtem, bÃ¡rmit is mondana, hazugsÃ¡g lenne.}
+{464}{}{Ah, Ã©s Bishop lÃ¡nya mit szokott mondani gyÃ³nÃ¡s kÃ¶zben?}
+{465}{}{Ã–Ã¶Ã¶, Ã©s Bishop lÃ¡nya mit szokott mondani gyÃ³nÃ¡s kÃ¶zben? RÃ³lam gondolom semmit... Ã¶Ã¶Ã¶, semmi rosszat, remÃ©lhet?leg.}
+{466}{}{KÃ©pzelem. FeltehetnÃ©k mÃ©g egy-kÃ©t kÃ©rdÃ©st, AtyÃ¡m?}
+{470}{}{Neeem, MenedÃ©kvÃ¡ros aszonta nekik, hogy dugja fel a kakalukÃ¡ba. SzÃ³val... rÃ¶viddel ezutÃ¡n MenedÃ©kvÃ¡rost elkezdtÃ©k kifosztani. Gyorsan. KÃ­mÃ©letlenÃ¼l. Ã‰s vÃ©gig ottanvan a hÃ¡ttÃ©rbe' Bischop, Ã©s egyre hajtogattya: "Ã‰n segÃ­tek, ha csatlakoztok New RenÃ³hoz."}
+{471}{}{Hmmm. Mit tudna mÃ©g elmondani a Bishop csalÃ¡drÃ³l?}
+{472}{}{SzÃ³val Bishop eszkÃ¶ze a zsarolÃ¡s? NÃ©hÃ¡ny rajtaÃ¼tÃ©s, egy-kÃ©t halÃ¡l, Ã©s MenedÃ©kvÃ¡ros dalolva csatlakozik hozzÃ¡. Nem tÃºl pazar megoldÃ¡s, de megteszi. Mi egyebet tudna elmondani a BishopokrÃ³l?}
+{473}{}{Ez furcsa taktikÃ¡nak t?nik... Ãºgy Ã©rtem, hihet?bb lenne, hogy MenedÃ©kvÃ¡ros, miel?tt beadja a derekÃ¡t Bishop nyomÃ¡sÃ¡nak, megprÃ³bÃ¡lna valaki mÃ¡stÃ³l segÃ­tsÃ©get kÃ©rni. Van mÃ©g valami, amit Ã©rdemes tudni a BishopokrÃ³l?}
+{474}{}{Ez furcsa taktikÃ¡nak t?nik... Ãºgy Ã©rtem, hihet?bb lenne, hogy MenedÃ©kvÃ¡ros, miel?tt beadja a derekÃ¡t Bishop nyomÃ¡sÃ¡nak, megprÃ³bÃ¡lna valaki mÃ¡stÃ³l, pÃ©ldÃ¡ul az ÃšKK-tÃ³l, segÃ­tsÃ©get kÃ©rni. Van mÃ©g valami, amit Ã©rdemes tudni a BishopokrÃ³l?}
+{475}{}{KÃ©rdezhetek mÃ©g, AtyÃ¡m?}
+{476}{}{Nagyon Ã©rdekes ez, AtyÃ¡m. KÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgetett velem.}
+{480}{}{(A kezedet bÃ¡mulja) Az ott hat? Vagy hÃ¡rom?...}
+{481}{}{Nagyon jÃ³. Mindkett? igaz. Na, akkor most kÃ©rdezni fogok...}
+{482}{}{Szokott vÃ¡lÃ¡st is levezetni?}
+{484}{}{TalÃ¡n kÃ©s?bb visszajÃ¶vÃ¶k, ha mÃ¡r kijÃ³zanodott egy kicsit.}
+{490}{}{Az Ã¶rdÃ¶gbe, hÃ¡t hogyne tudnÃ©k! A nagy ? el?tt Reno volt a vÃ¡lÃ¡sok f?vÃ¡rosa. }
+{491}{}{Ez az a fruska, akit?l el akarsz vÃ¡lni? }
+{492}{}{Ez az a cs?dÃ¶r, akit?l el akarsz vÃ¡lni? }
+{493}{}{(Ahogy kett?tÃ¶ket bÃ¡mul, zavartnak t?nik egy pillanatra, de aztÃ¡n vÃ¡llatvon Ã©s iszik egyet.)}
+{494}{}{EltalÃ¡lta. KezdhetjÃ¼k?}
+{495}{}{Meglehet... mÃ©g Ã¡tgondolom. KÃ©s?bb talÃ¡lkozunk.}
+{500}{}{Ãšgy t?nik, az Ã¶sssszesh hivatali cuccossal egyÃ¼tt lÃ¡ba kÃ©lt a szentbessszÃ©des khÃ¶nyvemnek.}
+{501}{}{Ott egye a fene a kÃ¶nyvet! Itt van egy kis pia, rÃ¶gtÃ¶nÃ¶zzÃ¶n valamit!}
+{502}{}{Itt van egy kis pia, rÃ¶gtÃ¶nÃ¶zzÃ¶n valamit!}
+{503}{}{Ott egye a fene a kÃ¶nyvet! Ha hozok egy kis piÃ¡t, rÃ¶gtÃ¶nÃ¶z valamit?}
+{504}{}{Ha hozok egy kis piÃ¡t, rÃ¶gtÃ¶nÃ¶z valamit?}
+{505}{}{Ã“, talÃ¡n mÃ©g a kÃ¶nyv is el?kerÃ¼l.}
+{510}{}{HÃ¡t az nem volna szÃ©p dolog... kivÃ©ve, ha valami nagggyon jÃ³ piÃ¡Ã¡Ã¡Ã¡rÃ³l van szÃ³.}
+{511}{}{Ne aggÃ³djon. Hamarosan visszajÃ¶vÃ¶k.}
+{512}{}{HÃ¡t hozhatok valamennyit. Viszont kÃ©ne egy kis pÃ©nz rÃ¡.}
+{520}{}{Hogyne! VÃ¡rj csak, letisztÃ­tom oszt gyorsan Ã¶ntÃ¼nk is a t?zre... (RÃ©miszt? sebessÃ©ggel gurÃ­tja le a palack tartalmÃ¡t.) ...na jÃ³van, ti ketten mennyetek a szÃ³szÃ©khez..}
+{521}{}{LÃ©pjetek kÃ¶zelebb...}
+{530}{}{Aha, rendben van. Nincs semmi baj, ha kÃ©rdezel... szÃ³val... Ã¶Ã¶... bocsÃ¡nat, de ki is vagy te?}
+{531}{}{Ha akarja, tudok szerezni egy kis piÃ¡t.}
+{540}{}{Na, van egy jÃ³ Ã¶tletem! HÃ¡romszoros Ã¡ldÃ¡s szÃ¡jjon rÃ¡jad! Ã–Ã¶... vÃ©letlenÃ¼l tudok egy HELYET a keleti negyedben, a rÃ©gi vasÃºtÃ¡llomÃ¡snÃ¡l, ahol lehet kapni a szÃ¡momra is megfelel? szentelt vizet.}
+{541}{}{OkÃ©. Hozok bel?le. Hamarosan visszajÃ¶vÃ¶k.}
+{542}{}{OkÃ©. Hozok bel?le, de kÃ©ne egy kis pÃ©nz, hogy meg tudjam venni.}
+{550}{}{Pe'sze, pe'sze... pÃ©Ã©z, pÃ©Ã©z... hol is tartom Ã©n a pÃ©Ã©zt... (A szeme megakad a szÃ³szÃ©k melletti perselyen.) Ah! Nem tudom, miÃ©rt nem jutott korÃ¡bban eszembe... VÃ¡'jÃ¡' egy picinyt...}
+{551}{}{TÃ¼relmesen vÃ¡rod, hogy abbahagyja a perselyben valÃ³ turkÃ¡lÃ¡st.}
+{552}{}{Ã–Ã¶, hagyja csak, AtyÃ¡m! Most lÃ¡tom, hogy van nÃ¡lam.}
+{560}{}{(Tully atya rÃ¡bÃ¡mul a kezÃ©ben lÃ©v? immÃ¡r Ã¼res palackra.) HÃ¡t nem akarlak nagyon kihasznÃ¡lni, barÃ¡tom, de nincs nÃ¡lad vÃ©letlenÃ¼l egy mÃ¡sik Ã¼veg ebb?l a remek itÃ³kÃ¡bÃ³l? A sok beszÃ©dt?l teljesen kiszÃ¡rad a torkom.}
+{570}{}{SzÃ­vb?l kÃ¶szÃ¶nÃ¶m! (Ãtveszi az Ã¼veget, Ã©s meghÃºzza.) Ahhh... elnÃ©zÃ©st... mi a francrÃ³l is beszÃ©ltÃ¼nk?}
+{571}{}{Eh... hÃ¡t, tudnÃ¡nk biza! (Elveszi az Ã¼veget.) ÃltalÃ¡ban nem Ã©lek vele... (JÃ³l meghÃºzza.) ...ahhhh... Ã¶Ã¶, elnÃ©zÃ©st, mir?l is beszÃ©'tem?}
+{572}{}{Eh... ez marha rendes volt t?led! (Ãtveszi az Ã¼veget.) ÃltalÃ¡ban nem iszom ilyen sokat... (JÃ³l meghÃºzza.) Ahhh... elnÃ©zÃ©st... mir?l is beszÃ©ltÃ¼nk?}
+{573}{}{A Bishop csalÃ¡drÃ³l beszÃ©lt.}
+{574}{}{A Wright csalÃ¡drÃ³l beszÃ©lt.}
+{575}{}{A Mordino csalÃ¡drÃ³l beszÃ©lt.}
+{576}{}{A Salvatore csalÃ¡drÃ³l beszÃ©lt.}
+{578}{}{Richard Wright halÃ¡lÃ¡rÃ³l beszÃ©lt.}
+{579}{}{KÃ©s?bb, ha mÃ¡r kijÃ³zanodott, visszajÃ¶vÃ¶k.}
+{590}{}{Aha... SzÃ³val a BishopokrÃ³l... hatalommÃ¡niÃ¡s a legtÃ¶bbje, a vÃ©rÃ¼kbe' van. John Bishop annyira el van foglalva a vilÃ¡g felfalÃ¡sÃ¡val, hogy az otthoni Ã¼gyekre mÃ¡r nem marad ideje...}
+{591}{}{MifÃ©le otthoni Ã¼gyekre?}
+{600}{}{HÃ¡t nem sokat, de a gyÃ³nÃ¡s sorÃ¡n hallok Ã¡m ezt-azt a vÃ©n BishoprÃ³'. Ã–rdÃ¶ng?s alak. Olyan thÃ¶kÃ¶s muksÃ³, hogy diÃ³t tunna tÃ¶rni a golyÃ³ival. Sze'tem ? Ã¡ll a MenedÃ©kvÃ¡ros elleni fosssztogatÃ³ akciÃ³k mÃ¶gÃ¶tt... hallottÃ¡' rÃ³luk?}
 {601}{}{Nem.}
 {602}{}{Igen.}
-{603}{}{Atyám, vissza kéne fognia magát. Ez a fajta beszéd akár a vesztét is okozhatja ebben a városban...}
-{604}{}{Nézze, lehet, hogy kés?bb visszajövök, ha már kijózanodott.}
+{603}{}{AtyÃ¡m, vissza kÃ©ne fognia magÃ¡t. Ez a fajta beszÃ©d akÃ¡r a vesztÃ©t is okozhatja ebben a vÃ¡rosban...}
+{604}{}{NÃ©zze, lehet, hogy kÃ©s?bb visszajÃ¶vÃ¶k, ha mÃ¡r kijÃ³zanodott.}
 {610}{}{(Ignores you.) See, a few months back, oul' Bishop sends a caravan to Vault City, SUGGESTING a marriage o' convenience 'tween
  Vault City n' New Reno.}
-{611}{}{Sikerült megegyezniük?}
-{612}{}{Remélem, nem egyeztek meg.}
-{620}{}{Többnyire ami elvárható egy elhanyagolt feleséght?l, akinek ollyan, de ollyan teste van, hogy még a vakságot is elmúlaszttya. Kész házasságtörés. Úgy értem, láttad már a didkóit? Atyám!}
-{621}{}{Öö... mi egyebet tudna elmondani a Bishop családról, Atyám?}
-{622}{}{Igen, szép didkói vannak. Úgy értem... ilyeneket mondanak az emberek. Öö, mi egyebet tudna mondani a Bishopokról, Atyám?}
-{623}{}{Öö... ugye nem mondta el, hogy kivel disznólkodott, Atyám?}
-{625}{}{Egyetértek. Amúgy köszönöm, hogy beszélgetett velem.}
-{630}{}{Ó, az édes kicsi Angela... A kis boszorka! A kislányba' rendesen munká'kodik az ??rdög. Folyton csak hetyegggh, apukájához rohangál segítségért és telenyomassa magát Jettel...}
-{631}{}{Öö, az apukájához rohangál segítségért? Nem említette, ki miatt?}
+{611}{}{SikerÃ¼lt megegyezniÃ¼k?}
+{612}{}{RemÃ©lem, nem egyeztek meg.}
+{620}{}{TÃ¶bbnyire ami elvÃ¡rhatÃ³ egy elhanyagolt felesÃ©ght?l, akinek ollyan, de ollyan teste van, hogy mÃ©g a vaksÃ¡got is elmÃºlaszttya. KÃ©sz hÃ¡zassÃ¡gtÃ¶rÃ©s. Ãšgy Ã©rtem, lÃ¡ttad mÃ¡r a didkÃ³it? AtyÃ¡m!}
+{621}{}{Ã–Ã¶... mi egyebet tudna elmondani a Bishop csalÃ¡drÃ³l, AtyÃ¡m?}
+{622}{}{Igen, szÃ©p didkÃ³i vannak. Ãšgy Ã©rtem... ilyeneket mondanak az emberek. Ã–Ã¶, mi egyebet tudna mondani a BishopokrÃ³l, AtyÃ¡m?}
+{623}{}{Ã–Ã¶... ugye nem mondta el, hogy kivel disznÃ³lkodott, AtyÃ¡m?}
+{625}{}{EgyetÃ©rtek. AmÃºgy kÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgetett velem.}
+{630}{}{Ã“, az Ã©des kicsi Angela... A kis boszorka! A kislÃ¡nyba' rendesen munkÃ¡'kodik az ??rdÃ¶g. Folyton csak hetyegggh, apukÃ¡jÃ¡hoz rohangÃ¡l segÃ­tsÃ©gÃ©rt Ã©s telenyomassa magÃ¡t Jettel...}
+{631}{}{Ã–Ã¶, az apukÃ¡jÃ¡hoz rohangÃ¡l segÃ­tsÃ©gÃ©rt? Nem emlÃ­tette, ki miatt?}
 {632}{}{Mi van ezzel a Jettel?}
-{633}{}{Jó kis család ez, mondhatom. Mi egyebet tudna mondani róluk?}
-{634}{}{Hadd kérdezzek valami mást, Atyám...}
-{635}{}{Hát a gyerekek már csak gyerekek maradnak. Azért köszönöm, hogy beszélgethettünk.}
-{640}{}{Dehogynem említette, de kisebb lenne az a lista, amely azokat sorolná fel, akikkel nem hált együtt. Mindenkinek elmondja, henceg vele. Öö.. hogy is hívnak téged?}
-{641}{}{Öö, sehogy... mi egyebet tudna mondani a Bishop családról, Atyám?}
-{642}{}{Engem? A hozzám hasonló, n?tlenségi fogadalmat tett szerzeteseknek nincs nevük. Inkább kérdeznék valami egyebet, Atyám...}
-{643}{}{Engem? A hozzám hasonló sz?zességi fogadalmat tett apácáknak nincs nevük. Inkább kérdeznék valami egyebet, Atyám...}
-{644}{}{Kés?bb még beszélünk, Atyám.}
-{650}{}{Az ördög vére! Fert?! A gonoszság legmélyebb bugyraiból felbuggyanó gusztustalan váladék!}
-{651}{}{Ezek szerint... ön nem szereti a Jetet?}
-{652}{}{Öö, igen-igen. A gonoszság bugyrai... ja... Kérdezhetnék esetleg valami mást, Atyám?}
-{653}{}{Na, jól van, kés?bb még beszélünk, Atyám.}
-{660}{}{Azz a drog a hallálunkat foggja okozni. Más drogró' nem tok... (Iszik és büfög.) ...ami naggyobb kárat okozz, mint a Jett... Megöli a zelmét mega testetis. Franc vigye a Mordinókat...}
-{661}{}{Mi ez itt a Mordinókkal?}
-{663}{}{Öö, én legközelebb egy kicsit tovább dédelgetném azt a palackot, Atyám. Kés?bb még látjuk egymást.}
-{670}{}{Hehe! A Wright család érdekel, mi? (Mosolyog és a szemöldökét ugráltatja.) Haddmon gyak elmán valamit a WRIGHT családró'... azok biza egy jónagy rakatt kanos részeg megg egy naccsomó bigott puritán keveréke.}
-{671}{}{Ó, csakugyan?}
-{672}{}{Azt hiszem, eleget hallottam, Atyám. Köszönöm, hogy beszélgetett velem.}
-{680}{}{A Wrighték csak úgy termelik kifele a gyerekeket... a vén Orville Wright tán azon töri a fejét, hogy új-ra népe-síti a világot. Remélem, Wright asszonyság bírja a strapát. Hehe. Na, és amiket gyónáskor mondanak!...}
-{681}{}{Nocsak? Mit szokott mondani Wright asszonyság a gyónáskor?}
-{682}{}{Nocsak? Ugyan mit szokott mondani ORVILLE Wright a gyónáskor?}
-{683}{}{Mit tart az ellen?rzése alatt a Wright család New Renóban?}
-{684}{}{Hát elhiszem, hogy szerfelett zaftos anyag. Valamikor kés?bb talán beszélhetünk róla.}
-{690}{}{ETIL Wright? Áldott az az asszony! Távol tart engem az ivástó', és jó irányba tere'get. (Meghúzza az üveget.) Úgy kihajtja bel?led a b?nöket, hoccsak na... öö, viszont... mi a francró' is beszéltem?}
-{691}{}{Wright asszonyságról, meg a gyónásról...}
-{692}{}{A Wright családról...}
-{693}{}{Felejtsd el! Kérdeznék inkább valami mást.}
-{694}{}{Szerintem nem kell szaporítani a szót. Köszönöm, hogy beszélgetett velem.}
-{700}{}{Ó, igen, igen. Hát, öö, ami a gyónást illeti, ? nem sokmindent mondott. B?nösnek érezte magát, hogy bogarakat taposott el... vagy túl sokat szexelt a férjecskéjével. Hehe. (Meghúzza az üveget.) Imáááádom a b?nöket.}
-{701}{}{Ha nem bánja, még kérdeznék a Wright családról...}
-{702}{}{Értem. Hadd kérdezzek valami mást...}
-{703}{}{Látszik. Köszönöm, hogy beszélgetett velem.}
-{710}{}{A vén Orville-t kérded? Hát ? aztán nincs híján a b?nöknek. Például megígérte az asszonyának, hogy felhagy az alkohol üzlettel, de mégis van egy titkos szeszf?zdéje a házuk mögötti vasútállomás alatt. Ha Mrs. Wright megtalálja, még a mostaninál is rondábbra fogja püfölni a férjét...}
-{711}{}{Hehe, mondok egy vicces dolgot... a vén Wright megígérte az asszonyának, hogy felhagy az alkohol üzlettel, de mégis van egy titkos szeszf?zdéje a házuk mögötti vasútállomás alatt. Nevetnem kell! Ha Mrs. Wright megtalálja, még a mostaninál is rondábbra fogja püfölni a férjét...}
-{712}{}{Mesélne Mrs. Wrightról?...}
-{713}{}{Mesélne a Wright családról?...}
-{715}{}{Titkos szeszf?zdéjük van a házuk mögötti vasútállomás alatt? Nagyon érdekes, Atyám. Kösz az infót.}
-{720}{}{Semmitse! (Jó nagyot iszik a butykosból.) ?k a leggyengébb család, mivel csak alke-holgyártással fogla'koznak. Alig é'nek meg bel?le. A többi család szinte csak szánalombó' vásárol t?lük alke-holt.}
-{721}{}{Honnan származik ez a szesz?}
-{722}{}{Érdekes dolog ez. Mondjon még valamit a Wright családról...}
-{724}{}{Nagyon érdekes ez, Atyám. Köszönöm az infót...}
-{730}{}{A Mordinók? (Feltartja három ujját.) Ketten vannak. (Magasra emeli az egyik kezét.) Nagy Jeeezus... (Leviszi a kezét.) ...meg a Kis Jeeezus. Apa meg fia. ?k tarcsák kézbe' a drog- meg n?kereskedelmet Renóba'.}
-{731}{}{Meséljen nekem Nagy Jesusról!}
-{732}{}{Meséljen nekem Kis Jesusról!}
-{733}{}{Szóval az ? kezükben fut össze a drog és a kurvák elosztása New Renóban?}
-{740}{}{Jesus? Az egy jó nagy májer... (Meghúzza a nála lév? palackot és meglötyköli a szájában.) Rabszógákkal, Jettel meg kurvákkal foglalkozik. Csak egy rosszabb ember létezik nála, a mocsadék fia.}
+{633}{}{JÃ³ kis csalÃ¡d ez, mondhatom. Mi egyebet tudna mondani rÃ³luk?}
+{634}{}{Hadd kÃ©rdezzek valami mÃ¡st, AtyÃ¡m...}
+{635}{}{HÃ¡t a gyerekek mÃ¡r csak gyerekek maradnak. AzÃ©rt kÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgethettÃ¼nk.}
+{640}{}{Dehogynem emlÃ­tette, de kisebb lenne az a lista, amely azokat sorolnÃ¡ fel, akikkel nem hÃ¡lt egyÃ¼tt. Mindenkinek elmondja, henceg vele. Ã–Ã¶.. hogy is hÃ­vnak tÃ©ged?}
+{641}{}{Ã–Ã¶, sehogy... mi egyebet tudna mondani a Bishop csalÃ¡drÃ³l, AtyÃ¡m?}
+{642}{}{Engem? A hozzÃ¡m hasonlÃ³, n?tlensÃ©gi fogadalmat tett szerzeteseknek nincs nevÃ¼k. InkÃ¡bb kÃ©rdeznÃ©k valami egyebet, AtyÃ¡m...}
+{643}{}{Engem? A hozzÃ¡m hasonlÃ³ sz?zessÃ©gi fogadalmat tett apÃ¡cÃ¡knak nincs nevÃ¼k. InkÃ¡bb kÃ©rdeznÃ©k valami egyebet, AtyÃ¡m...}
+{644}{}{KÃ©s?bb mÃ©g beszÃ©lÃ¼nk, AtyÃ¡m.}
+{650}{}{Az Ã¶rdÃ¶g vÃ©re! Fert?! A gonoszsÃ¡g legmÃ©lyebb bugyraibÃ³l felbuggyanÃ³ gusztustalan vÃ¡ladÃ©k!}
+{651}{}{Ezek szerint... Ã¶n nem szereti a Jetet?}
+{652}{}{Ã–Ã¶, igen-igen. A gonoszsÃ¡g bugyrai... ja... KÃ©rdezhetnÃ©k esetleg valami mÃ¡st, AtyÃ¡m?}
+{653}{}{Na, jÃ³l van, kÃ©s?bb mÃ©g beszÃ©lÃ¼nk, AtyÃ¡m.}
+{660}{}{Azz a drog a hallÃ¡lunkat foggja okozni. MÃ¡s drogrÃ³' nem tok... (Iszik Ã©s bÃ¼fÃ¶g.) ...ami naggyobb kÃ¡rat okozz, mint a Jett... MegÃ¶li a zelmÃ©t mega testetis. Franc vigye a MordinÃ³kat...}
+{661}{}{Mi ez itt a MordinÃ³kkal?}
+{663}{}{Ã–Ã¶, Ã©n legkÃ¶zelebb egy kicsit tovÃ¡bb dÃ©delgetnÃ©m azt a palackot, AtyÃ¡m. KÃ©s?bb mÃ©g lÃ¡tjuk egymÃ¡st.}
+{670}{}{Hehe! A Wright csalÃ¡d Ã©rdekel, mi? (Mosolyog Ã©s a szemÃ¶ldÃ¶kÃ©t ugrÃ¡ltatja.) Haddmon gyak elmÃ¡n valamit a WRIGHT csalÃ¡drÃ³'... azok biza egy jÃ³nagy rakatt kanos rÃ©szeg megg egy naccsomÃ³ bigott puritÃ¡n keverÃ©ke.}
+{671}{}{Ã“, csakugyan?}
+{672}{}{Azt hiszem, eleget hallottam, AtyÃ¡m. KÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgetett velem.}
+{680}{}{A WrightÃ©k csak Ãºgy termelik kifele a gyerekeket... a vÃ©n Orville Wright tÃ¡n azon tÃ¶ri a fejÃ©t, hogy Ãºj-ra nÃ©pe-sÃ­ti a vilÃ¡got. RemÃ©lem, Wright asszonysÃ¡g bÃ­rja a strapÃ¡t. Hehe. Na, Ã©s amiket gyÃ³nÃ¡skor mondanak!...}
+{681}{}{Nocsak? Mit szokott mondani Wright asszonysÃ¡g a gyÃ³nÃ¡skor?}
+{682}{}{Nocsak? Ugyan mit szokott mondani ORVILLE Wright a gyÃ³nÃ¡skor?}
+{683}{}{Mit tart az ellen?rzÃ©se alatt a Wright csalÃ¡d New RenÃ³ban?}
+{684}{}{HÃ¡t elhiszem, hogy szerfelett zaftos anyag. Valamikor kÃ©s?bb talÃ¡n beszÃ©lhetÃ¼nk rÃ³la.}
+{690}{}{ETIL Wright? Ãldott az az asszony! TÃ¡vol tart engem az ivÃ¡stÃ³', Ã©s jÃ³ irÃ¡nyba tere'get. (MeghÃºzza az Ã¼veget.) Ãšgy kihajtja bel?led a b?nÃ¶ket, hoccsak na... Ã¶Ã¶, viszont... mi a francrÃ³' is beszÃ©ltem?}
+{691}{}{Wright asszonysÃ¡grÃ³l, meg a gyÃ³nÃ¡srÃ³l...}
+{692}{}{A Wright csalÃ¡drÃ³l...}
+{693}{}{Felejtsd el! KÃ©rdeznÃ©k inkÃ¡bb valami mÃ¡st.}
+{694}{}{Szerintem nem kell szaporÃ­tani a szÃ³t. KÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgetett velem.}
+{700}{}{Ã“, igen, igen. HÃ¡t, Ã¶Ã¶, ami a gyÃ³nÃ¡st illeti, ? nem sokmindent mondott. B?nÃ¶snek Ã©rezte magÃ¡t, hogy bogarakat taposott el... vagy tÃºl sokat szexelt a fÃ©rjecskÃ©jÃ©vel. Hehe. (MeghÃºzza az Ã¼veget.) ImÃ¡Ã¡Ã¡Ã¡dom a b?nÃ¶ket.}
+{701}{}{Ha nem bÃ¡nja, mÃ©g kÃ©rdeznÃ©k a Wright csalÃ¡drÃ³l...}
+{702}{}{Ã‰rtem. Hadd kÃ©rdezzek valami mÃ¡st...}
+{703}{}{LÃ¡tszik. KÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgetett velem.}
+{710}{}{A vÃ©n Orville-t kÃ©rded? HÃ¡t ? aztÃ¡n nincs hÃ­jÃ¡n a b?nÃ¶knek. PÃ©ldÃ¡ul megÃ­gÃ©rte az asszonyÃ¡nak, hogy felhagy az alkohol Ã¼zlettel, de mÃ©gis van egy titkos szeszf?zdÃ©je a hÃ¡zuk mÃ¶gÃ¶tti vasÃºtÃ¡llomÃ¡s alatt. Ha Mrs. Wright megtalÃ¡lja, mÃ©g a mostaninÃ¡l is rondÃ¡bbra fogja pÃ¼fÃ¶lni a fÃ©rjÃ©t...}
+{711}{}{Hehe, mondok egy vicces dolgot... a vÃ©n Wright megÃ­gÃ©rte az asszonyÃ¡nak, hogy felhagy az alkohol Ã¼zlettel, de mÃ©gis van egy titkos szeszf?zdÃ©je a hÃ¡zuk mÃ¶gÃ¶tti vasÃºtÃ¡llomÃ¡s alatt. Nevetnem kell! Ha Mrs. Wright megtalÃ¡lja, mÃ©g a mostaninÃ¡l is rondÃ¡bbra fogja pÃ¼fÃ¶lni a fÃ©rjÃ©t...}
+{712}{}{MesÃ©lne Mrs. WrightrÃ³l?...}
+{713}{}{MesÃ©lne a Wright csalÃ¡drÃ³l?...}
+{715}{}{Titkos szeszf?zdÃ©jÃ¼k van a hÃ¡zuk mÃ¶gÃ¶tti vasÃºtÃ¡llomÃ¡s alatt? Nagyon Ã©rdekes, AtyÃ¡m. KÃ¶sz az infÃ³t.}
+{720}{}{Semmitse! (JÃ³ nagyot iszik a butykosbÃ³l.) ?k a leggyengÃ©bb csalÃ¡d, mivel csak alke-holgyÃ¡rtÃ¡ssal fogla'koznak. Alig Ã©'nek meg bel?le. A tÃ¶bbi csalÃ¡d szinte csak szÃ¡nalombÃ³' vÃ¡sÃ¡rol t?lÃ¼k alke-holt.}
+{721}{}{Honnan szÃ¡rmazik ez a szesz?}
+{722}{}{Ã‰rdekes dolog ez. Mondjon mÃ©g valamit a Wright csalÃ¡drÃ³l...}
+{724}{}{Nagyon Ã©rdekes ez, AtyÃ¡m. KÃ¶szÃ¶nÃ¶m az infÃ³t...}
+{730}{}{A MordinÃ³k? (Feltartja hÃ¡rom ujjÃ¡t.) Ketten vannak. (Magasra emeli az egyik kezÃ©t.) Nagy Jeeezus... (Leviszi a kezÃ©t.) ...meg a Kis Jeeezus. Apa meg fia. ?k tarcsÃ¡k kÃ©zbe' a drog- meg n?kereskedelmet RenÃ³ba'.}
+{731}{}{MesÃ©ljen nekem Nagy JesusrÃ³l!}
+{732}{}{MesÃ©ljen nekem Kis JesusrÃ³l!}
+{733}{}{SzÃ³val az ? kezÃ¼kben fut Ã¶ssze a drog Ã©s a kurvÃ¡k elosztÃ¡sa New RenÃ³ban?}
+{740}{}{Jesus? Az egy jÃ³ nagy mÃ¡jer... (MeghÃºzza a nÃ¡la lÃ©v? palackot Ã©s meglÃ¶tykÃ¶li a szÃ¡jÃ¡ban.) RabszÃ³gÃ¡kkal, Jettel meg kurvÃ¡kkal foglalkozik. Csak egy rosszabb ember lÃ©tezik nÃ¡la, a mocsadÃ©k fia.}
 {741}{}{A fia?}
-{742}{}{Szóval az ifjabb Jesus Mordino kezében fut össze a drog és a kurvák elosztása New Renóban?}
-{743}{}{Nagyszer? család. Hadd kérdezzek még egy-két dolgot, Atyám!}
-{744}{}{Apja, fia. Hát köszönöm, hogy beszélgethettünk, Atyám.}
-{750}{}{A kis Jesus egy féreg! Olyan, mint a kullancs, az apja üzletéb?' szíjja a vért. Ha ? lenne a nagykutya, Renóba' nagy bajok lennének ám. Nem tudná egyben tartani. A drog meg a kurvák meg minden... menne a padlóra.}
-{752}{}{Tehát a Mordinók kezében fut össze a drog és a kurvák elosztása New Renóban?}
-{754}{}{Mint ahogy maga is néhány percen belül. Na, azért örülök, hogy beszélgethettünk.}
-{760}{}{(Tully rádbámul.) }
-{761}{}{Igggeeen... (Mosolyog és megnyalja az ajkát.) ...kurrrvák... (Elkezdi simogatni a palack nyakát.)}
-{762}{}{Öö, Atyám? Talán ha a drogokról...}
-{763}{}{Szerintem jobb lesz, ha most megyek. Köszönöm, hogy beszélgetett velem, Atyám.}
-{770}{}{Mi? Drog... iggen, a drog. Jet. Mocskos Jet. Szörny? dógokat m?vel az, szörny? dógokat... Redding... az Istálló. (Meghúzza a palackot.) Mindezt az aranyé'.}
+{742}{}{SzÃ³val az ifjabb Jesus Mordino kezÃ©ben fut Ã¶ssze a drog Ã©s a kurvÃ¡k elosztÃ¡sa New RenÃ³ban?}
+{743}{}{Nagyszer? csalÃ¡d. Hadd kÃ©rdezzek mÃ©g egy-kÃ©t dolgot, AtyÃ¡m!}
+{744}{}{Apja, fia. HÃ¡t kÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgethettÃ¼nk, AtyÃ¡m.}
+{750}{}{A kis Jesus egy fÃ©reg! Olyan, mint a kullancs, az apja Ã¼zletÃ©b?' szÃ­jja a vÃ©rt. Ha ? lenne a nagykutya, RenÃ³ba' nagy bajok lennÃ©nek Ã¡m. Nem tudnÃ¡ egyben tartani. A drog meg a kurvÃ¡k meg minden... menne a padlÃ³ra.}
+{752}{}{TehÃ¡t a MordinÃ³k kezÃ©ben fut Ã¶ssze a drog Ã©s a kurvÃ¡k elosztÃ¡sa New RenÃ³ban?}
+{754}{}{Mint ahogy maga is nÃ©hÃ¡ny percen belÃ¼l. Na, azÃ©rt Ã¶rÃ¼lÃ¶k, hogy beszÃ©lgethettÃ¼nk.}
+{760}{}{(Tully rÃ¡dbÃ¡mul.) }
+{761}{}{Igggeeen... (Mosolyog Ã©s megnyalja az ajkÃ¡t.) ...kurrrvÃ¡k... (Elkezdi simogatni a palack nyakÃ¡t.)}
+{762}{}{Ã–Ã¶, AtyÃ¡m? TalÃ¡n ha a drogokrÃ³l...}
+{763}{}{Szerintem jobb lesz, ha most megyek. KÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgetett velem, AtyÃ¡m.}
+{770}{}{Mi? Drog... iggen, a drog. Jet. Mocskos Jet. SzÃ¶rny? dÃ³gokat m?vel az, szÃ¶rny? dÃ³gokat... Redding... az IstÃ¡llÃ³. (MeghÃºzza a palackot.) Mindezt az aranyÃ©'.}
 {772}{}{Mi van Reddinggel?}
-{773}{}{Mi van az Istállóval?}
-{775}{}{Érdekes. Köszönöm, hogy beszélgetett velem, Atyám.}
-{780}{}{(Két ujjával imitálja a sétálást.) A Jet kimegyen a városból, egyenesen Reddingbe. Az arany kimegyen Reddingb?l, egyenesen a Mordinókhó'. (Meghúzza az italát.) A bányászok kimúlnak, a Mordinók hazudnak.}
-{782}{}{Mit is mondott az Istállóról?}
-{784}{}{Szóval a Mordinók Jetet árulnak Reddingnek? Érdekes. Köszönöm, Atyám.}
-{790}{}{A Mordino családnak... van egy... farmja... a város határába'. Ott tartják a rabszolgáikat, meg ott tesztelik... rajtuk ...a Jetet. Tucatjával halnak. (Vállat von.) Csak a Mordinók tudják, hol van az az Istálló.}
+{773}{}{Mi van az IstÃ¡llÃ³val?}
+{775}{}{Ã‰rdekes. KÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgetett velem, AtyÃ¡m.}
+{780}{}{(KÃ©t ujjÃ¡val imitÃ¡lja a sÃ©tÃ¡lÃ¡st.) A Jet kimegyen a vÃ¡rosbÃ³l, egyenesen Reddingbe. Az arany kimegyen Reddingb?l, egyenesen a MordinÃ³khÃ³'. (MeghÃºzza az italÃ¡t.) A bÃ¡nyÃ¡szok kimÃºlnak, a MordinÃ³k hazudnak.}
+{782}{}{Mit is mondott az IstÃ¡llÃ³rÃ³l?}
+{784}{}{SzÃ³val a MordinÃ³k Jetet Ã¡rulnak Reddingnek? Ã‰rdekes. KÃ¶szÃ¶nÃ¶m, AtyÃ¡m.}
+{790}{}{A Mordino csalÃ¡dnak... van egy... farmja... a vÃ¡ros hatÃ¡rÃ¡ba'. Ott tartjÃ¡k a rabszolgÃ¡ikat, meg ott tesztelik... rajtuk ...a Jetet. TucatjÃ¡val halnak. (VÃ¡llat von.) Csak a MordinÃ³k tudjÃ¡k, hol van az az IstÃ¡llÃ³.}
 {792}{}{Mit is mondott Reddingr?l?}
-{794}{}{A Mordinók rabszolgákon tesztelik a Jetet? Hát ez érdekes. Köszönöm, Atyám.}
-{800}{}{A Salvatorékról beszéltem volna? (Pislog, vállat von, aztán újra csak iszik.) El nem tudom képzelni, mit mondhattam. Az a család olyan hallgatag, mint a sír. Nem hinném, hogy keresztbe akarná' te nekik tenni... hallottad, mért?}
-{803}{}{Jelen pillanatban nem akarom tudni, hogy miért, Atyám. Kérdezhetek esetleg más témát érint? kérdéseket?}
-{804}{}{Nézze, lehet, hogy kés?bb visszajövök, ha már kijózanodott.}
-{810}{}{(Tántorog.) Mer' ojjan fegyvereik vannak, mint a mennydörg? ménk?. Olyanokat még sosenem láttanak New Renóba', s?t máshol se. Fénypászmát l?döz, kettévág egy embert, a darabjai meg ott rángatóznak a porba'.}
-{811}{}{Fénypászmákat l??}
-{812}{}{Fénypászmákat l?? Lézerfegyverekre gondol?}
-{814}{}{Ez igen... talán meg kéne próbálnom szerezni egyet. Nagyon köszönöm, hogy beszélgetett velem.}
-{820}{}{Nekem így mondták... léj-zer. Szerintem azok a fegyverek egyenesen az ördögt?l valók, ocsmány fényhozók, csakis a puszta gyilkolászás céljábó' gyártott eszközök!}
-{821}{}{Hát persze, Atyám. Az ördög eszköze, meg minden. A többi családnak mi a véleménye azokról a "fényhozókról"?}
-{823}{}{Az ördög eszköze? Lehet, hogy meg kéne próbálnom szerezni egyet. Azért kösz, hogy beszélgethettünk.}
-{830}{}{Egy olyan fényhozó akár egy tucat embert is megölhet... a többi család mán mind harcót a Salvatorékka', de mostanra már mindenki beszüntette a csatározást. Afféle békekötés... addig jójjaz, míg kitart.}
-{831}{}{Ki a Salvatorék feje, Atyám?}
-{833}{}{Gondolom. Hát kösz, hogy beszélhettünk, Atyám.}
+{794}{}{A MordinÃ³k rabszolgÃ¡kon tesztelik a Jetet? HÃ¡t ez Ã©rdekes. KÃ¶szÃ¶nÃ¶m, AtyÃ¡m.}
+{800}{}{A SalvatorÃ©krÃ³l beszÃ©ltem volna? (Pislog, vÃ¡llat von, aztÃ¡n Ãºjra csak iszik.) El nem tudom kÃ©pzelni, mit mondhattam. Az a csalÃ¡d olyan hallgatag, mint a sÃ­r. Nem hinnÃ©m, hogy keresztbe akarnÃ¡' te nekik tenni... hallottad, mÃ©rt?}
+{803}{}{Jelen pillanatban nem akarom tudni, hogy miÃ©rt, AtyÃ¡m. KÃ©rdezhetek esetleg mÃ¡s tÃ©mÃ¡t Ã©rint? kÃ©rdÃ©seket?}
+{804}{}{NÃ©zze, lehet, hogy kÃ©s?bb visszajÃ¶vÃ¶k, ha mÃ¡r kijÃ³zanodott.}
+{810}{}{(TÃ¡ntorog.) Mer' ojjan fegyvereik vannak, mint a mennydÃ¶rg? mÃ©nk?. Olyanokat mÃ©g sosenem lÃ¡ttanak New RenÃ³ba', s?t mÃ¡shol se. FÃ©nypÃ¡szmÃ¡t l?dÃ¶z, kettÃ©vÃ¡g egy embert, a darabjai meg ott rÃ¡ngatÃ³znak a porba'.}
+{811}{}{FÃ©nypÃ¡szmÃ¡kat l??}
+{812}{}{FÃ©nypÃ¡szmÃ¡kat l?? LÃ©zerfegyverekre gondol?}
+{814}{}{Ez igen... talÃ¡n meg kÃ©ne prÃ³bÃ¡lnom szerezni egyet. Nagyon kÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgetett velem.}
+{820}{}{Nekem Ã­gy mondtÃ¡k... lÃ©j-zer. Szerintem azok a fegyverek egyenesen az Ã¶rdÃ¶gt?l valÃ³k, ocsmÃ¡ny fÃ©nyhozÃ³k, csakis a puszta gyilkolÃ¡szÃ¡s cÃ©ljÃ¡bÃ³' gyÃ¡rtott eszkÃ¶zÃ¶k!}
+{821}{}{HÃ¡t persze, AtyÃ¡m. Az Ã¶rdÃ¶g eszkÃ¶ze, meg minden. A tÃ¶bbi csalÃ¡dnak mi a vÃ©lemÃ©nye azokrÃ³l a "fÃ©nyhozÃ³krÃ³l"?}
+{823}{}{Az Ã¶rdÃ¶g eszkÃ¶ze? Lehet, hogy meg kÃ©ne prÃ³bÃ¡lnom szerezni egyet. AzÃ©rt kÃ¶sz, hogy beszÃ©lgethettÃ¼nk.}
+{830}{}{Egy olyan fÃ©nyhozÃ³ akÃ¡r egy tucat embert is megÃ¶lhet... a tÃ¶bbi csalÃ¡d mÃ¡n mind harcÃ³t a SalvatorÃ©kka', de mostanra mÃ¡r mindenki beszÃ¼ntette a csatÃ¡rozÃ¡st. AffÃ©le bÃ©kekÃ¶tÃ©s... addig jÃ³jjaz, mÃ­g kitart.}
+{831}{}{Ki a SalvatorÃ©k feje, AtyÃ¡m?}
+{833}{}{Gondolom. HÃ¡t kÃ¶sz, hogy beszÃ©lhettÃ¼nk, AtyÃ¡m.}
 {840}{}{Louie... LOUIS... Salvatore runz th' show. (Drains bottle, coughs slightly.) Cripple. Needz an oxygen tank ta keep breathin'... his
  lungs are messed up. Stays in th' top floor of his establishment, never comes out.}
-{841}{}{Érdekes. Kérdezhetek még egy-két dolgot, Atyám?}
-{842}{}{Hmmmm. Oxigénpalackot hord? Érdekes. Hát köszönöm, hogy beszélgettünk, Atyám.}
-{850}{}{Szegény gyerek... A Jet elragadta a családjától, bizony ám. Átkozott anyag! A legrosszabb agypusztító, amit valaha kitaláltak...}
-{852}{}{Tudja, hogy Richard honnan szerezte a végzetes Jetet?}
-{853}{}{Lenne pár kérdésem.}
-{854}{}{Értem. Hát köszönöm, hogy beszélgetett velem, Atyám.}
-{860}{}{Akár egész New Renóba' hozzájuthatott! Átellenbe' van egy komédiába ill? gyógyszerészet, amit egy drogdíler vezet, de ha nem ? lenne, mennyé oda az els? emberh? az utcán, és máris belefucc egy újabb drogdílerbe. A francos Jet az oka neki!}
-{862}{}{Menjek be az utca másik oldalán lév? gyógyszerészhez? Rendben, úgy lesz. Köszönöm, hogy beszélgethettünk, Atyám.}
+{841}{}{Ã‰rdekes. KÃ©rdezhetek mÃ©g egy-kÃ©t dolgot, AtyÃ¡m?}
+{842}{}{Hmmmm. OxigÃ©npalackot hord? Ã‰rdekes. HÃ¡t kÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgettÃ¼nk, AtyÃ¡m.}
+{850}{}{SzegÃ©ny gyerek... A Jet elragadta a csalÃ¡djÃ¡tÃ³l, bizony Ã¡m. Ãtkozott anyag! A legrosszabb agypusztÃ­tÃ³, amit valaha kitalÃ¡ltak...}
+{852}{}{Tudja, hogy Richard honnan szerezte a vÃ©gzetes Jetet?}
+{853}{}{Lenne pÃ¡r kÃ©rdÃ©sem.}
+{854}{}{Ã‰rtem. HÃ¡t kÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgetett velem, AtyÃ¡m.}
+{860}{}{AkÃ¡r egÃ©sz New RenÃ³ba' hozzÃ¡juthatott! Ãtellenbe' van egy komÃ©diÃ¡ba ill? gyÃ³gyszerÃ©szet, amit egy drogdÃ­ler vezet, de ha nem ? lenne, mennyÃ© oda az els? emberh? az utcÃ¡n, Ã©s mÃ¡ris belefucc egy Ãºjabb drogdÃ­lerbe. A francos Jet az oka neki!}
+{862}{}{Menjek be az utca mÃ¡sik oldalÃ¡n lÃ©v? gyÃ³gyszerÃ©szhez? Rendben, Ãºgy lesz. KÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgethettÃ¼nk, AtyÃ¡m.}
 {957}{}{Rendbe', iddefigyejj...}
 {958}{}{::Iszik egyet::}
-{959}{}{::Egyfolytában csak iszik, és kiüríti a palackot::}
-{960}{}{...a reámruházott hatalomnál fogva, ezennel elváltnak nyilvánítlak benneteket.}
-{961}{}{Most már kirúghatod a menyasszonyt. V?legényt. Tök mindegy.}
-{962}{}{::Csinál egy söpr? mozdulatot::}
-{963}{}{Ööghhh}
+{959}{}{::EgyfolytÃ¡ban csak iszik, Ã©s kiÃ¼rÃ­ti a palackot::}
+{960}{}{...a reÃ¡mruhÃ¡zott hatalomnÃ¡l fogva, ezennel elvÃ¡ltnak nyilvÃ¡nÃ­tlak benneteket.}
+{961}{}{Most mÃ¡r kirÃºghatod a menyasszonyt. V?legÃ©nyt. TÃ¶k mindegy.}
+{962}{}{::CsinÃ¡l egy sÃ¶pr? mozdulatot::}
+{963}{}{Ã–Ã¶ghhh}
 {964}{}{Zzzzhorkantzzzzz}
 {967}{}{Zzzzhorkantzzzzz}
-{968}{}{Ó, álljon meg Wright asszonyság, álljon meg... sznnzzzz}
-{969}{}{Zzzállj, Wright asszonyság, éhn papi szhemélyh vhagyok}
-{970}{}{Ferrrt?... zzz... b?n... zzzz... thök jó}
-{971}{}{Há' persze, hogy jhózan vhagyokk}
-{1000}{}{Ó, áldassék a neved... *BÖFF*}
-{1001}{}{Túl sokat ittam Jézus véréb?l... Ó, KRISZTUSOM, *BROÁÁÁÁF*}
-{1002}{}{Ó, Istenem... *ÖFF*}
-{1003}{}{Jézusmária, Szentjózsef! Többet nem iszok olyan sokat!}
-{1004}{}{Korán kén' felkelni mer' gyóntatnom kell.}
+{968}{}{Ã“, Ã¡lljon meg Wright asszonysÃ¡g, Ã¡lljon meg... sznnzzzz}
+{969}{}{ZzzÃ¡llj, Wright asszonysÃ¡g, Ã©hn papi szhemÃ©lyh vhagyok}
+{970}{}{Ferrrt?... zzz... b?n... zzzz... thÃ¶k jÃ³}
+{971}{}{HÃ¡' persze, hogy jhÃ³zan vhagyokk}
+{1000}{}{Ã“, Ã¡ldassÃ©k a neved... *BÃ–FF*}
+{1001}{}{TÃºl sokat ittam JÃ©zus vÃ©rÃ©b?l... Ã“, KRISZTUSOM, *BROÃÃÃÃF*}
+{1002}{}{Ã“, Istenem... *Ã–FF*}
+{1003}{}{JÃ©zusmÃ¡ria, SzentjÃ³zsef! TÃ¶bbet nem iszok olyan sokat!}
+{1004}{}{KorÃ¡n kÃ©n' felkelni mer' gyÃ³ntatnom kell.}
 {1005}{}{Asszem, most heverek egy darabig.}
 {2000}{}{I gotta say, Father, New Reno isn't exactly the first place I'd expect to find a preaching man.}
 {2001}{}{Whatza better place than here? B'sidez, they sure as hell didn't want to keep me at their damned Abbey.
@@ -306,7 +306,7 @@
  hands together and rubs them eagerly.) So, mebbe you pick up summa the Abbey's famous hooch while yer there?}
 {2024}{}{Yeah, I got some right here.}
 {2025}{}{I did, but I drank it. Wow is it powerful stuff.}
-{2026}{}{Nem, még nem.}
+{2026}{}{Nem, mÃ©g nem.}
 {2027}{}{No need ta rub it in my face. Itz been so long since I've had some... I could really go for a bottle or two. Any chance you'll stop by the Abbey again?}
 {2028}{}{Thatz too bad. Itz been so long since I've had some. I could really go for a bottle or two. Any chance you
  will be stopping by the Abbey again?}

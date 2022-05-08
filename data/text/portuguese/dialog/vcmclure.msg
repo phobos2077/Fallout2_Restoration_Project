@@ -16,7 +16,7 @@
 {115}{}{San-tah Klass?}
 {116}{}{Desliga}
 {117}{}{Can I ask you some questions?}
-{118}{}{Quem é você?}
+{118}{}{Quem Ã© vocÃª?}
 {119}{}{Just looking around, thanks. Good day.}
 {120}{}{How did you get into our City? Guards! We have an Outworlder that needs to be escorted to the gate!}
 {121}{}{I go no I GO NO}
@@ -25,10 +25,10 @@
 {124}{}{Of course, Citizen.}
 {125}{}{What is it you would like to know?}
 {126}{}{What's your job here?}
-{127}{}{Estou procurando um Kit de Criação do Jardim do Éden.}
+{127}{}{Estou procurando um Kit de CriaÃ§Ã£o do Jardim do Ã‰den.}
 {128}{}{What can you tell me about the First Citizen?}
 {129}{}{I'd like to ask you some questions about Gecko.}
-{130}{}{O que você pode me dizer sobre Redding?}
+{130}{}{O que vocÃª pode me dizer sobre Redding?}
 {131}{}{I need to speak to you about Redding.}
 {132}{}{How does one become a Citizen?}
 {133}{}{I think you might have a part that could fix Gecko's power plant.}
@@ -38,7 +38,7 @@
 {137}{}{Here's the Gecko reactor disk. Can you optimize it?}
 {138}{}{Nada por hoje, valeu.}
 {139}{}{I am Senior Councilor McClure. And you are...?}
-{140}{}{Não é da sua conta.}
+{140}{}{NÃ£o Ã© da sua conta.}
 {141}{}{. Pleased to meet you.}
 {142}{}{I really have to run. Maybe we can do introductions some other time.}
 {143}{}{I expect that kind of rudeness from an Outworlder, not a Citizen. I am a member of the Vault City Council, and you will show me the proper respect, or I will have your Citizenship revoked. Do you understand me?}
@@ -61,10 +61,10 @@
 {160}{}{Your powers are weak, old man. You are no match for me.}
 {161}{}{That's it! Citizen or not, you're out of here. Guards, show this degenerate to the gates!}
 {162}{}{I'm going. This place sucked anyway.}
-{163}{}{Eu não estou indo a lugar algum.}
-{164}{}{O que posso fazer por você?}
+{163}{}{Eu nÃ£o estou indo a lugar algum.}
+{164}{}{O que posso fazer por vocÃª?}
 {165}{}{I don't know, old man. What CAN you do for me?}
-{166}{}{Estou procurando um Kit de Criação do Jardim do Éden.}
+{166}{}{Estou procurando um Kit de CriaÃ§Ã£o do Jardim do Ã‰den.}
 {167}{}{Can I ask you some questions?}
 {168}{}{Nothing today. I was just taking a tour of the council building.}
 {169}{}{A GECK? As I understand it, we only had one. I read that it lasted a long time but it broke down a number of years before I was even born. We were supposed to have two...}
@@ -73,7 +73,7 @@
 {172}{}{What was in the shipment that was meant for Vault 13?}
 {173}{}{What happened to the GECK that broke down?}
 {174}{}{Posso te fazer outra pergunta?}
-{175}{}{Entendo. Obrigado pela informação.}
+{175}{}{Entendo. Obrigado pela informaÃ§Ã£o.}
 {176}{}{Water Chips, a hundred or so. I don't know why they sent so many... we have never needed to replace ours. We have had the same water chip since the day our people lived underground in the Vault.}
 {177}{}{What happened to the GECK that broke down?}
 {178}{}{Posso te fazer outra pergunta?}
@@ -106,7 +106,7 @@
 {205}{}{Aw, c'mon... just tell me what I need to do to become a Citizen.}
 {206}{}{I'd still like to become a Citizen anyway.}
 {207}{}{Posso te fazer outra pergunta?}
-{208}{}{Deixe pra lá então.}
+{208}{}{Deixe pra lÃ¡ entÃ£o.}
 {209}{}{You wish to become a Citizen? Well, we would be pleased to have you. All you need to do is talk to Proconsul Gregory and he will give you the Citizenship test.}
 {210}{}{Where can I find Proconsul Gregory?}
 {211}{}{Posso te fazer outra pergunta?}
@@ -142,9 +142,9 @@
 {241}{}{No problem. I'll check it out and return when I find out what's wrong.}
 {242}{}{Redding is a week or so west of here. I've never been there. Never been outside Vault City, for that matter. As I understand it, Redding is supposed to be one of the more pleasant settlements in the wastes.}
 {243}{}{Do you have any idea what's causing the shipments to drop off?}
-{244}{}{Entendo. Obrigado pela informação.}
+{244}{}{Entendo. Obrigado pela informaÃ§Ã£o.}
 {245}{}{What is it? Anything you could tell me would be a great help.}
-{246}{}{O que você pode me dizer sobre Redding?}
+{246}{}{O que vocÃª pode me dizer sobre Redding?}
 {247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
 {248}{}{Dr. Troy has created an antidote for Jet.}
 {249}{}{I delivered the antidote to Redding.}
@@ -167,7 +167,7 @@
 {266}{}{If it is money you want, money you will receive. Here's $500 for your troubles. Now good day.}
 {267}{}{THANK you.}
 {268}{}{Five hun --? You better cough up some more and fast, or your life won't be worth $2.}
-{269}{}{O que você quer dizer?}
+{269}{}{O que vocÃª quer dizer?}
 {270}{}{If I had a hydroelectric magnetosphere regulator, I could make their plant run clean.}
 {271}{}{Oh, nothing. Sorry to trouble you.}
 {272}{}{That's an acceptable solution. Stopping the radiation poisoning is all I care about.}
@@ -194,8 +194,8 @@
 {293}{}{I'm sorry... an economic data disk? What do you mean?}
 {294}{}{Here, take a look.}
 {295}{}{It's an economic data disk that shows the amount of energy that Gecko's atomic power plant produced before the war... and could produce again.}
-{296}{}{Deixe pra lá. Eu tenho outras perguntas.}
-{297}{}{Nada. Me desculpe por perturbar você.}
+{296}{}{Deixe pra lÃ¡. Eu tenho outras perguntas.}
+{297}{}{Nada. Me desculpe por perturbar vocÃª.}
 {298}{}{Very well. Give me a moment...}
 {299}{}{Tudo certo.}
 {300}{}{Hmmm. How did you come by this disk?}
@@ -225,12 +225,12 @@
 {324}{}{I appreciate it. Thanks.}
 {325}{}{Hmmm. Well, I cannot allow you access to the Vault, but I could optimize the reactor disk for you.}
 {326}{}{All right. But I don't have the reactor disk on me. I'll be back with it.}
-{327}{}{Isso seria ótimo.}
+{327}{}{Isso seria Ã³timo.}
 {328}{}{Excellent!}
 {329}{}{Tudo certo.}
 {330}{}{Let me take the reactor disk, and I'll have the Vault central computer optimize it.}
 {331}{}{Obrigado, adeus.}
-{332}{}{O que é?}
+{332}{}{O que Ã©?}
 {333}{}{I have a reactor data disk here from Gecko. According to... the... uh, technician at the power plant, the Vault City computer can optimize the reactor disk and make the plant run more smoothly.}
 {334}{}{Guards! Guards!}
 {335}{}{}

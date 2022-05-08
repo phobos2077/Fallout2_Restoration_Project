@@ -1,36 +1,36 @@
-{100}{}{Você vê um ghoul velho e enrugado.}
-{101}{}{Você vê um dos vários ghouls antigos que fazem desta casa sua residência.}
-{102}{}{Estou tão cansado.}
-{103}{}{Tão cansado, cansado de esperar, cansado de esperar por voo-cêêê...}
-{104}{}{Quando é hora de dormir?}
-{105}{}{O que é esse cheiro horrível? Ah, sou eu.}
-{106}{}{Já são 4 horas? Eu quero comer!}
-{107}{}{Uau, eu não quebrei meu quadril em quase uma hora!}
-{108}{}{Alguém viu meus dentes?}
-{109}{}{Cadê minha comida?}
-{110}{}{Morte! Sou eu quem você quer! Por aqui!}
-{111}{}{Olá, Bili! Estou tão feliz que você voltou para me ver.}
-{112}{}{Envelhecer não é para maricas.}
+{100}{}{VocÃª vÃª um ghoul velho e enrugado.}
+{101}{}{VocÃª vÃª um dos vÃ¡rios ghouls antigos que fazem desta casa sua residÃªncia.}
+{102}{}{Estou tÃ£o cansado.}
+{103}{}{TÃ£o cansado, cansado de esperar, cansado de esperar por voo-cÃªÃªÃª...}
+{104}{}{Quando Ã© hora de dormir?}
+{105}{}{O que Ã© esse cheiro horrÃ­vel? Ah, sou eu.}
+{106}{}{JÃ¡ sÃ£o 4 horas? Eu quero comer!}
+{107}{}{Uau, eu nÃ£o quebrei meu quadril em quase uma hora!}
+{108}{}{AlguÃ©m viu meus dentes?}
+{109}{}{CadÃª minha comida?}
+{110}{}{Morte! Sou eu quem vocÃª quer! Por aqui!}
+{111}{}{OlÃ¡, Bili! Estou tÃ£o feliz que vocÃª voltou para me ver.}
+{112}{}{Envelhecer nÃ£o Ã© para maricas.}
 {113}{}{Ops! Minhas entranhas!}
-{114}{}{Alguém tem fralda?}
+{114}{}{AlguÃ©m tem fralda?}
 {115}{}{Tenho sabedoria para compartilhar, mas estou sem vontade.}
 {116}{}{Esses ghouls de hoje em dia... bah!}
-{117}{}{Sem respeito... ninguém tem mais respeito.}
+{117}{}{Sem respeito... ninguÃ©m tem mais respeito.}
 {118}{}{Lembro-me daquele velho Set...}
-{119}{}{Me pergunto como o velho Jed está em Gecko.}
-{120}{}{Você gosta de mutantes? Eu gosto deles.}
+{119}{}{Me pergunto como o velho Jed estÃ¡ em Gecko.}
+{120}{}{VocÃª gosta de mutantes? Eu gosto deles.}
 {121}{}{Eu gosto de batatas! Eu gosto delas amassadas! Eu gosto delas fritas!}
 {122}{}{Estou com fome!}
-{123}{}{Gostaria que tivéssemos algumas plantas por aqui.}
-{124}{}{Eu não gosto de estar fora.}
-{125}{}{Aquela velha mina de urânio vai acabar logo.}
-{126}{}{Você não é de Vault City, é?}
-{127}{}{Me lembro de lutar contra os resplandecentes lá em Necropolis... sinto falta daqueles dias...}
+{123}{}{Gostaria que tivÃ©ssemos algumas plantas por aqui.}
+{124}{}{Eu nÃ£o gosto de estar fora.}
+{125}{}{Aquela velha mina de urÃ¢nio vai acabar logo.}
+{126}{}{VocÃª nÃ£o Ã© de Vault City, Ã©?}
+{127}{}{Me lembro de lutar contra os resplandecentes lÃ¡ em Necropolis... sinto falta daqueles dias...}
 {128}{}{Deixe-me contar sobre quando abrimos a Vault...}
 {129}{}{...o que eu estava dizendo?}
 {130}{}{::bocejo::}
 {131}{}{::pffffft::}
-{132}{}{Não tenho nada a dizer a ninguém!}
+{132}{}{NÃ£o tenho nada a dizer a ninguÃ©m!}
 {133}{}{Eu preciso de um soninho.}
-{134}{}{Está frio e tem uns lobos atrás de mim.}
+{134}{}{EstÃ¡ frio e tem uns lobos atrÃ¡s de mim.}
 {135}{}{Cachorros ficam abanando o rabo por HORAS depois de morrerem!}

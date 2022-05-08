@@ -1,1 +1,1 @@
-{100}{}{Jesteœ w górach. Kryjówka Stra¿ników jest gdzieœ w pobli¿u.}
+{100}{}{JesteÅ› w gÃ³rach. KryjÃ³wka StraÅ¼nikÃ³w jest gdzieÅ› w pobliÅ¼u.}

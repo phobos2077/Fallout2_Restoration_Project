@@ -1,9 +1,9 @@
-{100}{}{Erre, egérke, gyere csak!}
+{100}{}{Erre, egÃ©rke, gyere csak!}
 {101}{}{Grundelnek kellesz raguhoz.}
-{102}{}{Gyere csak, pici egérke!}
-{103}{}{Kedves Grundel nem bántani téged!}
-{104}{}{Ízletes apróságok.}
-{105}{}{Gyere, egérke! Én lenni éhes.}
-{106}{}{Szkvííí, szkvííí, SZKVÍÍÍÍÍÍÍÍÍÍÍ!}
-{107}{}{Oké, oké, én hazudni, én megenni tégedet.}
-{110}{}{Óh! Te lenni nagy egérke. Lenni bel?led jó vacsora Grundelnek.}
+{102}{}{Gyere csak, pici egÃ©rke!}
+{103}{}{Kedves Grundel nem bÃ¡ntani tÃ©ged!}
+{104}{}{Ãzletes aprÃ³sÃ¡gok.}
+{105}{}{Gyere, egÃ©rke! Ã‰n lenni Ã©hes.}
+{106}{}{SzkvÃ­Ã­Ã­, szkvÃ­Ã­Ã­, SZKVÃÃÃÃÃÃÃÃÃÃÃ!}
+{107}{}{OkÃ©, okÃ©, Ã©n hazudni, Ã©n megenni tÃ©gedet.}
+{110}{}{Ã“h! Te lenni nagy egÃ©rke. Lenni bel?led jÃ³ vacsora Grundelnek.}

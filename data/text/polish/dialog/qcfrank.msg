@@ -1,31 +1,31 @@
-{100}{}{Widzisz ogromn¹ humanoidaln¹ postaæ w zbroi.}
+{100}{}{Widzisz ogromnÄ… humanoidalnÄ… postaÄ‡ w zbroi.}
 {101}{}{Widzisz agenta Secret Service, Franka Horrigana.}
-{102}{}{Widzisz ogromnego, przypominaj¹cego cz³owieka stwora, który patrzy na ciebie wzrokiem pe³nym nienawiœci.}
-{103}{}{Nie ujdziesz st¹d ¿ywcem, mutancie.}
-{104}{}{Ty przeklêty mutancie.}
+{102}{}{Widzisz ogromnego, przypominajÄ…cego czÅ‚owieka stwora, ktÃ³ry patrzy na ciebie wzrokiem peÅ‚nym nienawiÅ›ci.}
+{103}{}{Nie ujdziesz stÄ…d Å¼ywcem, mutancie.}
+{104}{}{Ty przeklÄ™ty mutancie.}
 {105}{}{Czerwony mutant!}
 {106}{}{Zniszczono nas i to ty za to odpowiadasz.}
-{107}{}{Zap³acisz mi za swoje czyny.}
-{108}{ssa2}{Ty (kaszel), ty nie nale¿ysz do zwyciêzców. Ty i twoi zmutowani kumple do³¹czycie do mnie w wielkim grzybie atomowym. W³aœnie uruchomi³em samozniszczenie. (Hehe, kaszel...) Dzie³o zostanie dokoñczone. Niczego nie uda³o ci siê tu dokonaæ, oprócz podpisania w³asnego wyroku œmierci. Powinnoœæ, (kaszel) honor... odwaga... Semper Fiiiii...}
-{109}{ssa2}{Ty (kaszel), ty nie nale¿ysz do zwyciêzców. Ty i twoi zmutowani kumple do³¹czycie do mnie w wielkim grzybie atomowym. W³aœnie uruchomi³em samozniszczenie. (Hehe, kaszel...) Dzie³o zostanie dokoñczone. Niczego nie uda³o ci siê tu dokonaæ, oprócz podpisania w³asnego wyroku œmierci. Powinnoœæ, (kaszel) honor... odwaga... Semper Fiiiii...}
-{110}{}{Uch-oh. Niedobre tu bêdzie. Ja szybko dobiec statek.}
-{111}{}{Lepiej wrócê na statek i wyniosê siê st¹d w cholerê.}
-{112}{ssa3alt}{Uda³o ci siê dotrzeæ du¿o dalej, ni¿ powinno, ale te¿ dot¹d nie stan¹³ na twej drodze Frank Horrigan. Koniec jazdy, mutancie. Czas umrzeæ.}
-{113}{}{Przejdê po tobie bez wzglêdu na to, czy ci siê to podoba, czy nie.}
-{114}{}{Nie mo¿emy tego obgadaæ?}
-{115}{ssa4a}{W³adowanie toksyny F.E.V do naszego powietrza nie robi z ciebie bohatera. Jesteœ po prostu jeszcze jednym mutantem, którego trzeba uœpiæ.}
-{116}{ssa4b}{Roztopienie naszego reaktora oznacza, ¿e nied³ugo zrobi siê tu gor¹co. Szkoda, ¿e nie prze¿yjesz wystarczaj¹co d³ugo, by to zobaczyæ. Nie jesteœ bohaterem, jesteœ chodz¹cym trupem.}
-{117}{}{Gadasz jak trzeba, ale czy zrobisz, co trzeba? Nie s¹dzê.}
-{118}{}{Zaczekaj chwilê! Wstrzymaj siê! Nie mo¿emy tego obgadaæ?}
-{119}{ssa5}{W³aœnie to zrobiliœmy. Czas na pogaduszki siê skoñczy³.}
-{120}{}{Niech tak bêdzie.}
+{107}{}{ZapÅ‚acisz mi za swoje czyny.}
+{108}{ssa2}{Ty (kaszel), ty nie naleÅ¼ysz do zwyciÄ™zcÃ³w. Ty i twoi zmutowani kumple doÅ‚Ä…czycie do mnie w wielkim grzybie atomowym. WÅ‚aÅ›nie uruchomiÅ‚em samozniszczenie. (Hehe, kaszel...) DzieÅ‚o zostanie dokoÅ„czone. Niczego nie udaÅ‚o ci siÄ™ tu dokonaÄ‡, oprÃ³cz podpisania wÅ‚asnego wyroku Å›mierci. PowinnoÅ›Ä‡, (kaszel) honor... odwaga... Semper Fiiiii...}
+{109}{ssa2}{Ty (kaszel), ty nie naleÅ¼ysz do zwyciÄ™zcÃ³w. Ty i twoi zmutowani kumple doÅ‚Ä…czycie do mnie w wielkim grzybie atomowym. WÅ‚aÅ›nie uruchomiÅ‚em samozniszczenie. (Hehe, kaszel...) DzieÅ‚o zostanie dokoÅ„czone. Niczego nie udaÅ‚o ci siÄ™ tu dokonaÄ‡, oprÃ³cz podpisania wÅ‚asnego wyroku Å›mierci. PowinnoÅ›Ä‡, (kaszel) honor... odwaga... Semper Fiiiii...}
+{110}{}{Uch-oh. Niedobre tu bÄ™dzie. Ja szybko dobiec statek.}
+{111}{}{Lepiej wrÃ³cÄ™ na statek i wyniosÄ™ siÄ™ stÄ…d w cholerÄ™.}
+{112}{ssa3alt}{UdaÅ‚o ci siÄ™ dotrzeÄ‡ duÅ¼o dalej, niÅ¼ powinno, ale teÅ¼ dotÄ…d nie stanÄ…Å‚ na twej drodze Frank Horrigan. Koniec jazdy, mutancie. Czas umrzeÄ‡.}
+{113}{}{PrzejdÄ™ po tobie bez wzglÄ™du na to, czy ci siÄ™ to podoba, czy nie.}
+{114}{}{Nie moÅ¼emy tego obgadaÄ‡?}
+{115}{ssa4a}{WÅ‚adowanie toksyny F.E.V do naszego powietrza nie robi z ciebie bohatera. JesteÅ› po prostu jeszcze jednym mutantem, ktÃ³rego trzeba uÅ›piÄ‡.}
+{116}{ssa4b}{Roztopienie naszego reaktora oznacza, Å¼e niedÅ‚ugo zrobi siÄ™ tu gorÄ…co. Szkoda, Å¼e nie przeÅ¼yjesz wystarczajÄ…co dÅ‚ugo, by to zobaczyÄ‡. Nie jesteÅ› bohaterem, jesteÅ› chodzÄ…cym trupem.}
+{117}{}{Gadasz jak trzeba, ale czy zrobisz, co trzeba? Nie sÄ…dzÄ™.}
+{118}{}{Zaczekaj chwilÄ™! Wstrzymaj siÄ™! Nie moÅ¼emy tego obgadaÄ‡?}
+{119}{ssa5}{WÅ‚aÅ›nie to zrobiliÅ›my. Czas na pogaduszki siÄ™ skoÅ„czyÅ‚.}
+{120}{}{Niech tak bÄ™dzie.}
 {121}{}{Zaczekaj!}
-{130}{ssa7}{Ja, Frank Horrigan, oto kto. Secret Service Stanów Zjednoczonych. Nigdzie st¹d nie pójdziesz.}
-{131}{}{Przejdê po tobie bez wzglêdu na to, czy ci siê to podoba, czy nie.}
-{132}{}{Wstrzymaj siê, obgadajmy to.}
-{133}{}{Nigdzie nie pójdê, zanim nie wytrzepiê ¿ycia z tej twojej paskudnej mordy.}
-{134}{}{Hê? Frank kto?}
-{135}{}{Jest tutaj tylko jeden mutant, a jesteœ nim ty. Czas umrzeæ, pajacu.}
-{140}{ssa6}{Mutanckie œcierwo! To w twoim typie próbowaæ takich sztuczek. Ale to ci ju¿ nie pomo¿e. Nic ci nie pomo¿e.}
-{141}{}{Przejdê po tobie i nic na to nie poradzisz.}
+{130}{ssa7}{Ja, Frank Horrigan, oto kto. Secret Service StanÃ³w Zjednoczonych. Nigdzie stÄ…d nie pÃ³jdziesz.}
+{131}{}{PrzejdÄ™ po tobie bez wzglÄ™du na to, czy ci siÄ™ to podoba, czy nie.}
+{132}{}{Wstrzymaj siÄ™, obgadajmy to.}
+{133}{}{Nigdzie nie pÃ³jdÄ™, zanim nie wytrzepiÄ™ Å¼ycia z tej twojej paskudnej mordy.}
+{134}{}{HÄ™? Frank kto?}
+{135}{}{Jest tutaj tylko jeden mutant, a jesteÅ› nim ty. Czas umrzeÄ‡, pajacu.}
+{140}{ssa6}{Mutanckie Å›cierwo! To w twoim typie prÃ³bowaÄ‡ takich sztuczek. Ale to ci juÅ¼ nie pomoÅ¼e. Nic ci nie pomoÅ¼e.}
+{141}{}{PrzejdÄ™ po tobie i nic na to nie poradzisz.}
 {142}{}{Zaczekaj, obgadajmy to.}

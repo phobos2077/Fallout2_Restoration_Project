@@ -50,7 +50,7 @@
 {317}{}{?}
 {318}{}{Tiragli un calcio con lo stivale sul quale ha sputato.}
 {320}{}{Ignoralo. Per questa volta. }
-{325}{}{Beh, io… cioe', la famiglia Wright… la mia famiglia… potrebbe avere qualcosa da farti fare. Non ti prometto nulla, ma va' nella grande casa che c'e' subito a sud di qui, trova mio fratello Keith e digli che ti mando io. Mi chiamo Chris. Chris Wright.}
+{325}{}{Beh, ioâ€¦ cioe', la famiglia Wrightâ€¦ la mia famigliaâ€¦ potrebbe avere qualcosa da farti fare. Non ti prometto nulla, ma va' nella grande casa che c'e' subito a sud di qui, trova mio fratello Keith e digli che ti mando io. Mi chiamo Chris. Chris Wright.}
 {326}{}{Uh, la famiglia Wright? E chi sarebbero?}
 {327}{}{Wright, eh? Ho conosciuto tua madre.}
 {329}{}{Grazie.}
@@ -63,7 +63,7 @@
 {348}{}{Veramente no. Scusa, adesso devo proprio andare. }
 {355}{}{Cos'e', uno scherzo? Se e' cosi', ti sei dimenticato di aggiungere la parte divertente. Stai cercando di avere dei casini con la Famiglia Wright?}
 {356}{}{Se sto cercando dei casini? No, sto solo cercando di farvi TUTTI SECCHI.}
-{357}{}{Si', mi dispiace. Non intendevo dire nulla di male. Senti, avrei delle altre domande…}
+{357}{}{Si', mi dispiace. Non intendevo dire nulla di male. Senti, avrei delle altre domandeâ€¦}
 {358}{}{Si', alla perfezione. Credo sia meglio che me ne vada.}
 {365}{}{(Alza le spalle.) Semplicemente non presta attenzione a quello che succede intorno a lei. Le voglio bene, certo, ma a volte e' piu' testarda di un mulo e piu' cieca di una talpa.}
 {366}{}{Beh, non molto tempo fa, ha fatto dei casini con il nostro distillatore e ha mandato in malora l'intera distilleria, distruggendo la nostra fonte di reddito! Le voglio bene, certo, ma a volte e' piu' cieca di una talpa.}
@@ -77,7 +77,7 @@
 {383}{}{Interessante. Beh, adesso devo andar. }
 {390}{}{Distilla alcol, si occupa degli affari sporchi, elimina le persone che cercano di fregarlo... le solite cose da famiglia, insomma. La mamma andrebbe fuori di testa se lo sapesse. E soprattutto se scoprisse questa distilleria.}
 {391}{}{E quanto potrebbe arrabbiarsi?}
-{400}{}{Probabilmente abbastanza da spaccare questo posto… come minimo. Poi darebbe a tutti noi una bella strigliata e ci obbligherebbe a lunghe giornate di preghiera. Eh. }
+{400}{}{Probabilmente abbastanza da spaccare questo postoâ€¦ come minimo. Poi darebbe a tutti noi una bella strigliata e ci obbligherebbe a lunghe giornate di preghiera. Eh. }
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Grazie. }
 {410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
@@ -86,22 +86,22 @@
 {412}{}{Chi pensate possa averlo fatto?}
 {413}{}{Mi dispiace. Avrei delle altre domande...}
 {414}{}{Terribile. Senti, adesso devo andare. }
-{420}{}{Perche' era una ragazzo pulito… La mamma l'aveva cresciuto BENE. E se non sei d'accordo, tu ed io possiamo risolvere subito la questione, che ne dici?!}
+{420}{}{Perche' era una ragazzo pulitoâ€¦ La mamma l'aveva cresciuto BENE. E se non sei d'accordo, tu ed io possiamo risolvere subito la questione, che ne dici?!}
 {421}{}{Non volevo insinuare nulla. Scusa se te ne ho parlato.}
 {422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {423}{}{Ascolta, *ragazzo*, se ci tieni alla pelle, smettila di prendertela a male ogni volta che una piccola verita' viene a galla e ti fa male.}
 {425}{}{Non voglio guai. Me ne vado. }
 {435}{}{Okay... beh, vedi di stare in guardia. Discorsi del genere farebbero arrabbiare qualsiasi Wright, percio' non andare in giro a dire certe fesserie, okay?}
 {437}{}{Senti, RAGAZZO, vedi di non metterti contro uno come me. Se ci tieni alla pelle, smettila di prendertela a male ogni volta che una piccola verita' viene a galla e ti fa male.}
-{438}{}{Scusa, non intendevo offendervi. Ascolta, avrei qualche altra domanda…}
+{438}{}{Scusa, non intendevo offendervi. Ascolta, avrei qualche altra domandaâ€¦}
 {439}{}{Ho capito. Sara' meglio che vada. }
 {445}{}{Sparisci. Non ho nient'altro da dirti.}
-{446}{}{Aspetta, ho solo un'altra domanda da farti…}
+{446}{}{Aspetta, ho solo un'altra domanda da fartiâ€¦}
 {447}{}{Me ne vado, me ne vado. }
 {455}{}{(Chris ti fissa per un attimo, poi si getta contro di te!)}
 {456}{}{Allora e' COSI' che vogliamo METTERLA, eh? D'ACCORDO, DIAMOCI DENTRO, BRUTTO STR -- }
 {465}{}{Io credo siano stati i Mordino; probabilmente uno dei loro spacciatori, se non addirittura un membro della famiglia. Quei bastardi producono tonnellate di Jet.}
-{466}{}{Ho capito. Senti, avrei delle altre domande…}
+{466}{}{Ho capito. Senti, avrei delle altre domandeâ€¦}
 {467}{}{Quale spacciatore pensi possa aver venduto il Jet a Richard?}
 {468}{}{Capisco. Sara' meglio che vada. }
 {475}{}{Potrebbe essere stato chiunque: Jimmy J, quel fottuto sfregiato all'angolo di Virgin Street, oppure Renesco "the Rocketman", quel vecchio e viscido merdoso che vende il Jet accanto all'armeria nel West Side.}
@@ -111,7 +111,7 @@
 {487}{}{Hai scoperto chi ha ucciso mio fratello, e tutta la Famiglia Wright ti ringraziera', stanne certo. E non sara' un ringraziamento da poco, credimi.}
 {488}{}{Ho capito. Ci becchiamo dopo, Chris. }
 {495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
-{497}{}{Jagged Jimmy J, Renesco the Rocketman, Jules e Little Jesus… Andro' a parlare con loro. Grazie delle informazioni, Chris. }
+{497}{}{Jagged Jimmy J, Renesco the Rocketman, Jules e Little Jesusâ€¦ Andro' a parlare con loro. Grazie delle informazioni, Chris. }
 {1200}{}{! Sei stato grande a spazzare via l'Enclave!}
 {1201}{}{! Sei forte!}
 {1202}{}{!}

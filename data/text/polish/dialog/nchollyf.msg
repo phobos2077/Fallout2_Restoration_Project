@@ -1,32 +1,32 @@
 {100}{}{Widzisz boksera.}
 {101}{}{Widzisz Evana Hollyfelda.}
-{150}{}{Widzisz przysadzistego, czarnego mê¿czyznê z kwadratow¹ szczêk¹. Jego uszy wygl¹daj¹ jakby zosta³y brutalnie zaatakowane.}
-{151}{}{Jego uszy wygl¹daj¹ jakby zosta³y brutalnie zaatakowane.}
-{152}{}{Jego uszy wygl¹daj¹ jakby zosta³y brutalnie zaatakowane.}
+{150}{}{Widzisz przysadzistego, czarnego mÄ™Å¼czyznÄ™ z kwadratowÄ… szczÄ™kÄ…. Jego uszy wyglÄ…dajÄ… jakby zostaÅ‚y brutalnie zaatakowane.}
+{151}{}{Jego uszy wyglÄ…dajÄ… jakby zostaÅ‚y brutalnie zaatakowane.}
+{152}{}{Jego uszy wyglÄ…dajÄ… jakby zostaÅ‚y brutalnie zaatakowane.}
 {200}{}{Hnffff}
 {201}{}{Hnrrgggg}
-{202}{}{::Jêczy, dotyka uszu::}
-{203}{}{::Napina miêœnie::}
-{300}{}{::Trzymaj¹c d³onie przy uszach gapi siê na ciebie::}
-{301}{}{Ja lubi g³ówka w g³ówkê.}
-{302}{}{Ja i Mike g³ówkowaæ.}
-{303}{}{Ja g³ówkowaæ Mike, ale on gryŸæ moja uszy.}
-{304}{}{Mike gryŸæ moja uszy, bo g³odny.}
-{305}{}{Ja nie s³yszy dobrze.}
+{202}{}{::JÄ™czy, dotyka uszu::}
+{203}{}{::Napina miÄ™Å›nie::}
+{300}{}{::TrzymajÄ…c dÅ‚onie przy uszach gapi siÄ™ na ciebie::}
+{301}{}{Ja lubi gÅ‚Ã³wka w gÅ‚Ã³wkÄ™.}
+{302}{}{Ja i Mike gÅ‚Ã³wkowaÄ‡.}
+{303}{}{Ja gÅ‚Ã³wkowaÄ‡ Mike, ale on gryÅºÄ‡ moja uszy.}
+{304}{}{Mike gryÅºÄ‡ moja uszy, bo gÅ‚odny.}
+{305}{}{Ja nie sÅ‚yszy dobrze.}
 {306}{}{::Drapie resztki uszu::}
-{307}{}{Hê?}
-{308}{}{Co? Ja nie s³yszeæ.}
-{309}{}{Nie ma tego ucha, co by na obiad nie posz³o.}
-{310}{}{Ty gryŸæ?}
-{311}{}{Cze-eœæ ³adnie pachnie.}
-{312}{}{Cze-eœæ dziewczyna.}
-{313}{}{Chcesz pog³ówkowaæ?}
-{314}{}{Ja lubi g³ówka w g³ówkê.}
-{315}{}{Ja i Mike g³ówkowaæ.}
-{316}{}{Ja g³ówkowaæ Mike, ale on gryŸæ moja uszy.}
-{317}{}{Mike gryŸæ moja uszy, bo g³odny.}
-{318}{}{Ja nie s³yszy dobrze.}
+{307}{}{HÄ™?}
+{308}{}{Co? Ja nie sÅ‚yszeÄ‡.}
+{309}{}{Nie ma tego ucha, co by na obiad nie poszÅ‚o.}
+{310}{}{Ty gryÅºÄ‡?}
+{311}{}{Cze-eÅ›Ä‡ Å‚adnie pachnie.}
+{312}{}{Cze-eÅ›Ä‡ dziewczyna.}
+{313}{}{Chcesz pogÅ‚Ã³wkowaÄ‡?}
+{314}{}{Ja lubi gÅ‚Ã³wka w gÅ‚Ã³wkÄ™.}
+{315}{}{Ja i Mike gÅ‚Ã³wkowaÄ‡.}
+{316}{}{Ja gÅ‚Ã³wkowaÄ‡ Mike, ale on gryÅºÄ‡ moja uszy.}
+{317}{}{Mike gryÅºÄ‡ moja uszy, bo gÅ‚odny.}
+{318}{}{Ja nie sÅ‚yszy dobrze.}
 {319}{}{::Drapie resztki uszu::}
-{320}{}{Hê?}
-{321}{}{Co? Ja nie s³yszeæ.}
-{322}{}{Nie ma tego ucha, co by na obiad nie posz³o.}
+{320}{}{HÄ™?}
+{321}{}{Co? Ja nie sÅ‚yszeÄ‡.}
+{322}{}{Nie ma tego ucha, co by na obiad nie poszÅ‚o.}

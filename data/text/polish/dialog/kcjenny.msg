@@ -1,70 +1,70 @@
-{100}{}{Widzisz atrakcyjn¹, ale zmêczon¹, m³od¹ kobietê.}
-{101}{}{Widzisz Jenny, ³aziebn¹.}
-{200}{}{Jej, ch³optasiu, to by³o chyba zbyt szybkie. Musisz byæ ca³kiem zielony w tego typu sprawach. Zrelaksuj siê tylko trochê a bêdzie ci siê o wiele bardziej podoba³o.}
-{201}{}{Dziêki, Jenny. Myœlê, ¿e potrzebujê jeszcze trochê praktyki.}
-{210}{}{To by³o mi³e. Wygl¹dasz na kogoœ, kto potrafi obchodziæ siê z kobiet¹ lepiej ni¿ wiêkszoœæ mê¿czyzn w twoim wieku.}
-{211}{}{Cieszê siê, ¿e bawi³aœ siê tak dobrze, jak ja.}
-{220}{}{Jesteœ naprawdê wytrzyma³y. To jest fajne w m³odych mê¿czyznach. Chcia³abym, ¿eby by³o wiêcej takich jak ty w mieœcie.}
-{221}{}{Podoba³a mi siê k¹piel, Jenny. Móg³bym spróbowaæ trochê wiêcej je¿eli tylko nie mia³bym innych rzeczy do zrobienia.}
-{230}{}{Có¿, to by³o inne. Mam nadziejê, ¿e przyjdziesz ponownie. Myœlê, ¿e nastêpnym razem chcia³abym poeksperymentowaæ wed³ug moich pomys³ów.}
-{231}{}{Mi³o jest dla odmiany byæ z kimœ kto rozumie czego potrzebujê.}
-{240}{}{To naprawdê by³o przyjemne. Mog³abyœ byæ prawdziwym wampem, gdybyœmy tylko odci¹gnêli ciê od tych plemiennych wa³achów. Nie mia³abym nic przeciwko, gdybyœ tu zosta³a przez pewien czas, siostrzyczko. Myœla³aœ kiedyœ o zmianie kariery?}
-{241}{}{Mi te¿ siê podoba³o. Mam wiele rzeczy do zrobienia, zanim mog³abym zdecydowaæ siê na osiedlenie siê. Ale dziêkujê za propozycjê.}
-{250}{}{Jesteœ z nieco innego sortu ni¿ ci tutejsi.}
-{251}{}{Powiedz mi co siê tutaj dzieje.}
-{252}{}{Myœlê, ¿e nie chcê wiedzieæ, co siê tutaj dzieje.}
-{260}{}{Có¿ mi³o siê z tob¹ gada³o. Jednak lepiej, ¿ebym siê ju¿ przygotowa³a na nastêpnego klienta. ¯egnaj.}
-{270}{}{Masz trochê niewyraŸn¹ minê. Na imiê mi Jenny. Czy mogê ci pomóc?}
-{271}{}{Enny? Doble he he he. [szczerzysz siê]}
-{272}{}{[kiwasz g³ow¹] Pomóc.}
+{100}{}{Widzisz atrakcyjnÄ…, ale zmÄ™czonÄ…, mÅ‚odÄ… kobietÄ™.}
+{101}{}{Widzisz Jenny, Å‚aziebnÄ….}
+{200}{}{Jej, chÅ‚optasiu, to byÅ‚o chyba zbyt szybkie. Musisz byÄ‡ caÅ‚kiem zielony w tego typu sprawach. Zrelaksuj siÄ™ tylko trochÄ™ a bÄ™dzie ci siÄ™ o wiele bardziej podobaÅ‚o.}
+{201}{}{DziÄ™ki, Jenny. MyÅ›lÄ™, Å¼e potrzebujÄ™ jeszcze trochÄ™ praktyki.}
+{210}{}{To byÅ‚o miÅ‚e. WyglÄ…dasz na kogoÅ›, kto potrafi obchodziÄ‡ siÄ™ z kobietÄ… lepiej niÅ¼ wiÄ™kszoÅ›Ä‡ mÄ™Å¼czyzn w twoim wieku.}
+{211}{}{CieszÄ™ siÄ™, Å¼e bawiÅ‚aÅ› siÄ™ tak dobrze, jak ja.}
+{220}{}{JesteÅ› naprawdÄ™ wytrzymaÅ‚y. To jest fajne w mÅ‚odych mÄ™Å¼czyznach. ChciaÅ‚abym, Å¼eby byÅ‚o wiÄ™cej takich jak ty w mieÅ›cie.}
+{221}{}{PodobaÅ‚a mi siÄ™ kÄ…piel, Jenny. MÃ³gÅ‚bym sprÃ³bowaÄ‡ trochÄ™ wiÄ™cej jeÅ¼eli tylko nie miaÅ‚bym innych rzeczy do zrobienia.}
+{230}{}{CÃ³Å¼, to byÅ‚o inne. Mam nadziejÄ™, Å¼e przyjdziesz ponownie. MyÅ›lÄ™, Å¼e nastÄ™pnym razem chciaÅ‚abym poeksperymentowaÄ‡ wedÅ‚ug moich pomysÅ‚Ã³w.}
+{231}{}{MiÅ‚o jest dla odmiany byÄ‡ z kimÅ› kto rozumie czego potrzebujÄ™.}
+{240}{}{To naprawdÄ™ byÅ‚o przyjemne. MogÅ‚abyÅ› byÄ‡ prawdziwym wampem, gdybyÅ›my tylko odciÄ…gnÄ™li ciÄ™ od tych plemiennych waÅ‚achÃ³w. Nie miaÅ‚abym nic przeciwko, gdybyÅ› tu zostaÅ‚a przez pewien czas, siostrzyczko. MyÅ›laÅ‚aÅ› kiedyÅ› o zmianie kariery?}
+{241}{}{Mi teÅ¼ siÄ™ podobaÅ‚o. Mam wiele rzeczy do zrobienia, zanim mogÅ‚abym zdecydowaÄ‡ siÄ™ na osiedlenie siÄ™. Ale dziÄ™kujÄ™ za propozycjÄ™.}
+{250}{}{JesteÅ› z nieco innego sortu niÅ¼ ci tutejsi.}
+{251}{}{Powiedz mi co siÄ™ tutaj dzieje.}
+{252}{}{MyÅ›lÄ™, Å¼e nie chcÄ™ wiedzieÄ‡, co siÄ™ tutaj dzieje.}
+{260}{}{CÃ³Å¼ miÅ‚o siÄ™ z tobÄ… gadaÅ‚o. Jednak lepiej, Å¼ebym siÄ™ juÅ¼ przygotowaÅ‚a na nastÄ™pnego klienta. Å»egnaj.}
+{270}{}{Masz trochÄ™ niewyraÅºnÄ… minÄ™. Na imiÄ™ mi Jenny. Czy mogÄ™ ci pomÃ³c?}
+{271}{}{Enny? Doble he he he. [szczerzysz siÄ™]}
+{272}{}{[kiwasz gÅ‚owÄ…] PomÃ³c.}
 {273}{}{ perdy Enny}
 {274}{}{Mama?}
-{280}{}{Hmm, chyba lepiej, jeœli ulotnisz siê st¹d, zanim Wielkonosa Sally ciê znajdzie. Ona nie znosi idiotów u siebie.}
-{290}{}{Co chcesz wiedzieæ?}
+{280}{}{Hmm, chyba lepiej, jeÅ›li ulotnisz siÄ™ stÄ…d, zanim Wielkonosa Sally ciÄ™ znajdzie. Ona nie znosi idiotÃ³w u siebie.}
+{290}{}{Co chcesz wiedzieÄ‡?}
 {291}{}{Opowiedz mi o traperach.}
-{292}{}{Szukam kupca. Znasz kogoœ z nich kto handluje antykami, takimi jak z przed wojny?}
-{293}{}{Czy wiesz mo¿e jak siê st¹d dostaæ do Nory?}
+{292}{}{Szukam kupca. Znasz kogoÅ› z nich kto handluje antykami, takimi jak z przed wojny?}
+{293}{}{Czy wiesz moÅ¼e jak siÄ™ stÄ…d dostaÄ‡ do Nory?}
 {294}{}{Bywaj.}
-{295}{}{Jenny, czy s³ysza³aœ kiedykolwiek o czymœ zwanym GECK?}
-{300}{}{Có¿, tak naprawdê to nie za du¿o jest do powiedzenia o traperach. Zdobywaj¹ kilka skór gekonów... albo poszczêœci im siê z kilkoma z³otymi gekonami... i przychodz¹, ¿eby spuœciæ trochê pary. Szybko i niezbyt wymagaj¹co - w³aœnie tak, jak lubiê.}
-{301}{}{Chyba to wszystko, co chcê w tej chwili wiedzieæ.}
-{302}{}{Interesuj¹ce. Pozwól, ¿e zapytam o coœ innego.}
-{310}{}{Interesuj¹ ciê kupcy, co? Có¿, pracowa³am g³ównie dla jednego. Nazywa³ siê Vic. Zawsze mia³ zbêdn¹ kasê do wydym... wydania, przynajmniej kiedy pracowa³. Widzisz, specjalizowa³ siê w naprawdê starych gratach. No wiesz, takie techniczne bajery.}
-{311}{}{Có¿, dziêki za informacjê. Ju¿ sobie pójdê.}
-{312}{}{Powiedz mi wiêcej o Vicu.}
-{313}{}{Mogê ciê zapytaæ o coœ jeszcze?}
-{320}{}{Vic by³ naprawdê kochany. Potrafi³ wyruszaæ na ca³e tygodnie i potem wracaæ z wszelkiego rodzaju rzeczami sprzed wojny. Ale czêsto musia³ podró¿owaæ do Nory, aby je sprzedaæ. Nie ma tutaj du¿ego zapotrzebowania na tego typu bajery.}
+{295}{}{Jenny, czy sÅ‚yszaÅ‚aÅ› kiedykolwiek o czymÅ› zwanym GECK?}
+{300}{}{CÃ³Å¼, tak naprawdÄ™ to nie za duÅ¼o jest do powiedzenia o traperach. ZdobywajÄ… kilka skÃ³r gekonÃ³w... albo poszczÄ™Å›ci im siÄ™ z kilkoma zÅ‚otymi gekonami... i przychodzÄ…, Å¼eby spuÅ›ciÄ‡ trochÄ™ pary. Szybko i niezbyt wymagajÄ…co - wÅ‚aÅ›nie tak, jak lubiÄ™.}
+{301}{}{Chyba to wszystko, co chcÄ™ w tej chwili wiedzieÄ‡.}
+{302}{}{InteresujÄ…ce. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{310}{}{InteresujÄ… ciÄ™ kupcy, co? CÃ³Å¼, pracowaÅ‚am gÅ‚Ã³wnie dla jednego. NazywaÅ‚ siÄ™ Vic. Zawsze miaÅ‚ zbÄ™dnÄ… kasÄ™ do wydym... wydania, przynajmniej kiedy pracowaÅ‚. Widzisz, specjalizowaÅ‚ siÄ™ w naprawdÄ™ starych gratach. No wiesz, takie techniczne bajery.}
+{311}{}{CÃ³Å¼, dziÄ™ki za informacjÄ™. JuÅ¼ sobie pÃ³jdÄ™.}
+{312}{}{Powiedz mi wiÄ™cej o Vicu.}
+{313}{}{MogÄ™ ciÄ™ zapytaÄ‡ o coÅ› jeszcze?}
+{320}{}{Vic byÅ‚ naprawdÄ™ kochany. PotrafiÅ‚ wyruszaÄ‡ na caÅ‚e tygodnie i potem wracaÄ‡ z wszelkiego rodzaju rzeczami sprzed wojny. Ale czÄ™sto musiaÅ‚ podrÃ³Å¼owaÄ‡ do Nory, aby je sprzedaÄ‡. Nie ma tutaj duÅ¼ego zapotrzebowania na tego typu bajery.}
 {321}{}{Gdzie jest teraz Vic?}
 {322}{}{Gdzie jest Nora?}
-{323}{}{Czy Vic mia³ kiedykolwiek coœ, co mia³o oznakowanie 'KrypTech'?}
-{324}{}{Powiedz mi coœ innego.}
-{325}{}{Chyba to wszystko, co chcê wiedzieæ.}
-{330}{}{Nora jest zbiorowiskiem szumowin i z³oczyñców na po³udniowy wschód st¹d. Z tydzieñ drogi lub coœ oko³o. Nie pamiêtam zbyt dok³adnie. W ka¿dym b¹dŸ razie to ekscytuj¹ce miejsce. Niebezpieczne, ale ekscytuj¹ce. Szkoda stamt¹d odchodziæ, w pewnym sensie.}
-{331}{}{Pozwól, ¿e zapytam o coœ innego.}
-{332}{}{Myœlê, ¿e ju¿ sobie pójdê, dziêki.}
-{340}{}{Nie wiem dok³adnie, gdzie móg³by byæ. Wiem, ¿e ma dom ulicê dalej od nas, na wschód. Z tego, co wiem, to ca³kiem mo¿liwe, ¿e handluje z tubylcami, lub nawet w Norze. Mam nadziejê, ¿e ma siê dobrze. Zaczyna³ siê dla mnie stawaæ kimœ wiêcej ni¿ tylko sta³ym klientem.}
-{341}{}{Ze wzglêdu na ciebie mam nadziejê, ¿e nic mu nie jest. Pozwól, ¿e zadam ci inne pytanie.}
-{342}{}{Mam nadziejê, ¿e do ciebie wróci. Pójdê ju¿. ¯egnaj.}
-{350}{}{Witaj, marynarzu. Nazywam siê Jenny. Masz ochotê na ma³e szorowanko...?}
-{351}{}{Ee, nie dziêki. Tylko siê rozgl¹da³em.}
-{352}{}{W³aœciwie to móg³bym u¿yæ trochê... szorowania [puszczasz do niej perskie oko]}
-{353}{}{Có¿, w³aœciwie to mia³bym kilka pytañ, które chcia³bym ci zadaæ, je¿eli nie masz nic przeciwko.}
-{354}{}{Potrzebujê informacji o handlarzu rzeczami sprzed wojny.}
-{360}{}{Hej tam, panienko. Nazywam siê Jenny. Czy mogê w czymœ pomóc?}
-{361}{}{Ee, nie. Chcia³am zobaczyæ, co tu jest. Ale myœlê, ¿e lepiej ju¿ pójdê.}
-{362}{}{W³aœciwie mog³abym skorzystaæ z kilku podpowiedzi na temat intymnej piêknoœci od takiej œlicznotki, jak ty.}
-{363}{}{Mam kilka pytañ, o które chcia³abym ciê zapytaæ.}
+{323}{}{Czy Vic miaÅ‚ kiedykolwiek coÅ›, co miaÅ‚o oznakowanie 'KrypTech'?}
+{324}{}{Powiedz mi coÅ› innego.}
+{325}{}{Chyba to wszystko, co chcÄ™ wiedzieÄ‡.}
+{330}{}{Nora jest zbiorowiskiem szumowin i zÅ‚oczyÅ„cÃ³w na poÅ‚udniowy wschÃ³d stÄ…d. Z tydzieÅ„ drogi lub coÅ› okoÅ‚o. Nie pamiÄ™tam zbyt dokÅ‚adnie. W kaÅ¼dym bÄ…dÅº razie to ekscytujÄ…ce miejsce. Niebezpieczne, ale ekscytujÄ…ce. Szkoda stamtÄ…d odchodziÄ‡, w pewnym sensie.}
+{331}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{332}{}{MyÅ›lÄ™, Å¼e juÅ¼ sobie pÃ³jdÄ™, dziÄ™ki.}
+{340}{}{Nie wiem dokÅ‚adnie, gdzie mÃ³gÅ‚by byÄ‡. Wiem, Å¼e ma dom ulicÄ™ dalej od nas, na wschÃ³d. Z tego, co wiem, to caÅ‚kiem moÅ¼liwe, Å¼e handluje z tubylcami, lub nawet w Norze. Mam nadziejÄ™, Å¼e ma siÄ™ dobrze. ZaczynaÅ‚ siÄ™ dla mnie stawaÄ‡ kimÅ› wiÄ™cej niÅ¼ tylko staÅ‚ym klientem.}
+{341}{}{Ze wzglÄ™du na ciebie mam nadziejÄ™, Å¼e nic mu nie jest. PozwÃ³l, Å¼e zadam ci inne pytanie.}
+{342}{}{Mam nadziejÄ™, Å¼e do ciebie wrÃ³ci. PÃ³jdÄ™ juÅ¼. Å»egnaj.}
+{350}{}{Witaj, marynarzu. Nazywam siÄ™ Jenny. Masz ochotÄ™ na maÅ‚e szorowanko...?}
+{351}{}{Ee, nie dziÄ™ki. Tylko siÄ™ rozglÄ…daÅ‚em.}
+{352}{}{WÅ‚aÅ›ciwie to mÃ³gÅ‚bym uÅ¼yÄ‡ trochÄ™... szorowania [puszczasz do niej perskie oko]}
+{353}{}{CÃ³Å¼, wÅ‚aÅ›ciwie to miaÅ‚bym kilka pytaÅ„, ktÃ³re chciaÅ‚bym ci zadaÄ‡, jeÅ¼eli nie masz nic przeciwko.}
+{354}{}{PotrzebujÄ™ informacji o handlarzu rzeczami sprzed wojny.}
+{360}{}{Hej tam, panienko. Nazywam siÄ™ Jenny. Czy mogÄ™ w czymÅ› pomÃ³c?}
+{361}{}{Ee, nie. ChciaÅ‚am zobaczyÄ‡, co tu jest. Ale myÅ›lÄ™, Å¼e lepiej juÅ¼ pÃ³jdÄ™.}
+{362}{}{WÅ‚aÅ›ciwie mogÅ‚abym skorzystaÄ‡ z kilku podpowiedzi na temat intymnej piÄ™knoÅ›ci od takiej Å›licznotki, jak ty.}
+{363}{}{Mam kilka pytaÅ„, o ktÃ³re chciaÅ‚abym ciÄ™ zapytaÄ‡.}
 {364}{}{Szukam informacji o pewnym handlarzu rzeczami sprzed wojny.}
-{370}{}{ Wiêc lepiej porozmawiaj z Wielkonos¹ Sally. Ona organizuje wszystkie spotkania dla nas i nie tolerujê robótek na boku.}
-{380}{}{Czeœæ, mysiu-pysiu. Nazywam siê Jenny. Szukasz tutaj pracy? Je¿eli ruszasz siê tak dobrze, jak wygl¹dasz, to mog³abyœ tu porz¹dnie zarobiæ.}
-{381}{}{Nie jestem zainteresowana prac¹ tutaj.}
-{382}{}{Mmm, chcia³abym pokazaæ ci osobiœcie, jak dobrze potrafiê siê poruszaæ.}
-{383}{}{Dziêki, ale potrzebujê tylko zadaæ ci kilka pytañ. }
+{370}{}{ WiÄ™c lepiej porozmawiaj z WielkonosÄ… Sally. Ona organizuje wszystkie spotkania dla nas i nie tolerujÄ™ robÃ³tek na boku.}
+{380}{}{CzeÅ›Ä‡, mysiu-pysiu. Nazywam siÄ™ Jenny. Szukasz tutaj pracy? JeÅ¼eli ruszasz siÄ™ tak dobrze, jak wyglÄ…dasz, to mogÅ‚abyÅ› tu porzÄ…dnie zarobiÄ‡.}
+{381}{}{Nie jestem zainteresowana pracÄ… tutaj.}
+{382}{}{Mmm, chciaÅ‚abym pokazaÄ‡ ci osobiÅ›cie, jak dobrze potrafiÄ™ siÄ™ poruszaÄ‡.}
+{383}{}{DziÄ™ki, ale potrzebujÄ™ tylko zadaÄ‡ ci kilka pytaÅ„. }
 {384}{}{Szukam informacji o handlarzu. Pracuje w towarze sprzed wojny.}
-{390}{}{KrypTech? Móg³ coœ takiego mieæ. Nie jestem pewna. Wiem, ¿e mia³ wiele naprawdê starych gratów.}
-{391}{}{Dziêki, Jenny. Pozwól, ¿e zapytam ciê o coœ innego.}
-{392}{}{Có¿, to chyba wszystko, co w tej chwili potrzebujê.}
-{400}{}{Geck? Co to jest? Zgadywa³abym, ¿e jakiœ rodzaj ma³ego gekona. Przykro mi, nie mam pojêcia, co by to jeszcze mog³o byæ.}
-{401}{}{Dziêki, Jenny. Pozwól, ¿e zapytam ciê o coœ innego.}
+{390}{}{KrypTech? MÃ³gÅ‚ coÅ› takiego mieÄ‡. Nie jestem pewna. Wiem, Å¼e miaÅ‚ wiele naprawdÄ™ starych gratÃ³w.}
+{391}{}{DziÄ™ki, Jenny. PozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{392}{}{CÃ³Å¼, to chyba wszystko, co w tej chwili potrzebujÄ™.}
+{400}{}{Geck? Co to jest? ZgadywaÅ‚abym, Å¼e jakiÅ› rodzaj maÅ‚ego gekona. Przykro mi, nie mam pojÄ™cia, co by to jeszcze mogÅ‚o byÄ‡.}
+{401}{}{DziÄ™ki, Jenny. PozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
 {402}{}{Na razie to chyba wszystko.}
-{500}{}{[Jenny policzkuje ciê] Proszê nie obmacuj mnie tak!}
+{500}{}{[Jenny policzkuje ciÄ™] ProszÄ™ nie obmacuj mnie tak!}

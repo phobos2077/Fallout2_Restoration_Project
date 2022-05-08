@@ -1,10 +1,10 @@
 {100}{}{Um velho, e quebrado Highwayman.}
-{110}{}{Essa máquina está em um estado pior do que parece -- nada vai fazer isso funcionar de novo. Parece, entretanto, que tem uma caixa com peças de motores no banco de trás que ainda está em bom estado.}
-{111}{}{Essa máquina está em mau estado. Entretanto, tem um pacote no banco de trás.}
-{112}{}{Essa máquina parece igual as outras da frente. Parece que tem um pacote no banco de trás.}
-{113}{}{Essa máquina velha está em um estado ótimo! Aposto que poderia consertá-la de algum jeito. Se eu pelo menos tivesse as peças...}
-{120}{}{Esse motor parece muito enferrujado para ser consertado. Enquanto você está olhando no carro, você encontra uma garrafa de combustível aditivo que parece queimar muito bem.}
-{121}{}{O motor não é nada mais do que um monte de ferrugem que desmorona assim que você abre o capô.}
-{122}{}{Isso é realmente algo divertido de consertar. Eu acho que não tenho a habilidade ou as peças para arrumar isso ainda.}
-{123}{}{Embora pareça que esse bebê está quase pronto para rodar. Só mais algumas voltas nesse parafuso... (Você pula para trás surpreso quando o motor cai do carro, desmoronando em uma pilha de ferrugem e peças.)}
-{130}{}{Você encontra um sistema de injeção de combustível no banco traseiro.}
+{110}{}{Essa mÃ¡quina estÃ¡ em um estado pior do que parece -- nada vai fazer isso funcionar de novo. Parece, entretanto, que tem uma caixa com peÃ§as de motores no banco de trÃ¡s que ainda estÃ¡ em bom estado.}
+{111}{}{Essa mÃ¡quina estÃ¡ em mau estado. Entretanto, tem um pacote no banco de trÃ¡s.}
+{112}{}{Essa mÃ¡quina parece igual as outras da frente. Parece que tem um pacote no banco de trÃ¡s.}
+{113}{}{Essa mÃ¡quina velha estÃ¡ em um estado Ã³timo! Aposto que poderia consertÃ¡-la de algum jeito. Se eu pelo menos tivesse as peÃ§as...}
+{120}{}{Esse motor parece muito enferrujado para ser consertado. Enquanto vocÃª estÃ¡ olhando no carro, vocÃª encontra uma garrafa de combustÃ­vel aditivo que parece queimar muito bem.}
+{121}{}{O motor nÃ£o Ã© nada mais do que um monte de ferrugem que desmorona assim que vocÃª abre o capÃ´.}
+{122}{}{Isso Ã© realmente algo divertido de consertar. Eu acho que nÃ£o tenho a habilidade ou as peÃ§as para arrumar isso ainda.}
+{123}{}{Embora pareÃ§a que esse bebÃª estÃ¡ quase pronto para rodar. SÃ³ mais algumas voltas nesse parafuso... (VocÃª pula para trÃ¡s surpreso quando o motor cai do carro, desmoronando em uma pilha de ferrugem e peÃ§as.)}
+{130}{}{VocÃª encontra um sistema de injeÃ§Ã£o de combustÃ­vel no banco traseiro.}

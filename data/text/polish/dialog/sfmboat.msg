@@ -1,6 +1,6 @@
-{100}{}{Widzisz motorówkê.}
-{200}{}{Zakradasz siê na motorówkê korzystaj¹c z tego, ¿e stra¿nik nie patrzy i ukrywasz siê na niej. Oko³o pó³nocy s³yszysz w pobli¿u g³osy i czujesz, ¿e motorówka rusza.}
-{201}{}{Mówisz cz³onkom swojej dru¿yny ¿eby tu zostali, poczym zakradasz siê na motorówkê korzystaj¹c z tego, ¿e stra¿nik nie patrzy i ukrywasz siê na niej. Oko³o pó³nocy s³yszysz w pobli¿u g³osy i czujesz, ¿e motorówka rusza.}
-{210}{}{Mo¿e trzeba by to rozbroiæ, zanim pójdê.}
-{220}{}{Zbyt ryzykownie by³oby znowu z niej korzystaæ.}
-{221}{}{Nie wiem dok¹d p³yn¹æ.}
+{100}{}{Widzisz motorÃ³wkÄ™.}
+{200}{}{Zakradasz siÄ™ na motorÃ³wkÄ™ korzystajÄ…c z tego, Å¼e straÅ¼nik nie patrzy i ukrywasz siÄ™ na niej. OkoÅ‚o pÃ³Å‚nocy sÅ‚yszysz w pobliÅ¼u gÅ‚osy i czujesz, Å¼e motorÃ³wka rusza.}
+{201}{}{MÃ³wisz czÅ‚onkom swojej druÅ¼yny Å¼eby tu zostali, poczym zakradasz siÄ™ na motorÃ³wkÄ™ korzystajÄ…c z tego, Å¼e straÅ¼nik nie patrzy i ukrywasz siÄ™ na niej. OkoÅ‚o pÃ³Å‚nocy sÅ‚yszysz w pobliÅ¼u gÅ‚osy i czujesz, Å¼e motorÃ³wka rusza.}
+{210}{}{MoÅ¼e trzeba by to rozbroiÄ‡, zanim pÃ³jdÄ™.}
+{220}{}{Zbyt ryzykownie byÅ‚oby znowu z niej korzystaÄ‡.}
+{221}{}{Nie wiem dokÄ…d pÅ‚ynÄ…Ä‡.}

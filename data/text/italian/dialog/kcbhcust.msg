@@ -12,7 +12,7 @@
 {121}{}{Non abbiamo bisogno di piantagrane, qui.}
 {122}{}{Chi dice selvaggio dice danno.}
 {123}{}{Fino a quando non avrai bevuto troppa acqua-di-fuoco...}
-{124}{}{(mumble, mumble)…brutto muso fuori dal paese...}
+{124}{}{(mumble, mumble)â€¦brutto muso fuori dal paese...}
 {125}{}{Ecco un altro della banda dei Dunton.}
 {126}{}{Cos'hai da guardare?}
 {127}{}{Gira al largo.}
@@ -65,7 +65,7 @@
 {209}{}{Grazie, amico.}
 {210}{}{Ne avevo proprio bisogno. Grazie.}
 {211}{}{Grazie un milione!}
-{212}{}{Preferirei avere una bottiglia davanti a me…}
+{212}{}{Preferirei avere una bottiglia davanti a meâ€¦}
 {213}{}{Molto obbligato, amico.}
 {214}{}{Cosi'!}
 {215}{}{Si'! Non aspettavo altro.}

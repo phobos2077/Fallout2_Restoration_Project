@@ -1,1 +1,1 @@
-{100}{}{Przed tob¹ ma³a osada - Gecko.}
+{100}{}{Przed tobÄ… maÅ‚a osada - Gecko.}

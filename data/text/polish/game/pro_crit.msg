@@ -1,31 +1,31 @@
-{100}{}{BG mÍøczyzna}
+{100}{}{BG mƒô≈ºczyzna}
 {101}{}{}
 {200}{}{BG kobieta}
 {201}{}{}
 {300}{}{Mieszkaniec wioski}
 {400}{}{Mieszkaniec wioski}
 {500}{}{Radskorpion}
-{501}{}{Ma≥y, zmutowany radskorpion.}
+{501}{}{Ma≈Çy, zmutowany radskorpion.}
 {600}{}{Radskorpion}
 {601}{}{Zmutowany radskorpion.}
-{700}{}{Szpon úmierci }
-{701}{}{M≥odociany szpon úmierci.}
-{800}{}{Szpon úmierci }
-{801}{}{M≥odociany szpon úmierci.}
+{700}{}{Szpon ≈õmierci }
+{701}{}{M≈Çodociany szpon ≈õmierci.}
+{800}{}{Szpon ≈õmierci }
+{801}{}{M≈Çodociany szpon ≈õmierci.}
 {900}{}{Pies}
 {901}{}{Prawdopodobnie skundlony przedstawiciel rodziny psowatych.}
 {1000}{}{Braminy}
-{1001}{}{Dwug≥owa, zmutowana krowa.}
+{1001}{}{Dwug≈Çowa, zmutowana krowa.}
 {1100}{}{Szczur}
-{1101}{}{Typowy, duøy szczur.}
+{1101}{}{Typowy, du≈ºy szczur.}
 {1200}{}{Modliszka}
 {1201}{}{Zmutowana modliszka.}
 {1300}{}{Starsza}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
-{1600}{}{Drapieøna roúlina}
-{1601}{}{MiÍsoøerna roúlina.}
-{1700}{}{PiÍkna niewolnica}
+{1600}{}{Drapie≈ºna ro≈õlina}
+{1601}{}{Miƒôso≈ºerna ro≈õlina.}
+{1700}{}{Piƒôkna niewolnica}
 {1800}{}{Przystojny niewolnik}
 {1900}{}{Zdrowa niewolnica}
 {2000}{}{Zdrowa niewolnica}
@@ -40,100 +40,100 @@
 {2900}{}{Anna}
 {3000}{}{Twardy bandzior}
 {3100}{}{Twardy bandzior}
-{3200}{}{Bandzior walczπcy wrÍcz}
-{3300}{}{Bandzior walczπcy wrÍcz}
-{3400}{}{ZrÍczny bandzior}
-{3500}{}{ZrÍczny bandzior}
-{3600}{}{Bandzior ze spluwπ}
-{3700}{}{Bandzior ze spluwπ}
-{3800}{}{Bandzior z wielkπ spluwπ}
-{3900}{}{Bandzior z wielkπ spluwπ}
-{4000}{}{Twardy straønik}
-{4100}{}{Twardy straønik}
-{4200}{}{Straønik walczπcy wrÍcz}
-{4300}{}{Straønik walczπcy wrÍcz}
-{4400}{}{ZrÍczny straønik}
-{4500}{}{ZrÍczny straønik}
-{4600}{}{Straønik ze spluwπ}
-{4700}{}{Straønik ze spluwπ}
-{4800}{}{Straønik z wielkπ spluwπ}
-{4900}{}{Straønik z wielkπ spluwπ}
-{5000}{}{Ch≥opczyk-sierota}
+{3200}{}{Bandzior walczƒÖcy wrƒôcz}
+{3300}{}{Bandzior walczƒÖcy wrƒôcz}
+{3400}{}{Zrƒôczny bandzior}
+{3500}{}{Zrƒôczny bandzior}
+{3600}{}{Bandzior ze spluwƒÖ}
+{3700}{}{Bandzior ze spluwƒÖ}
+{3800}{}{Bandzior z wielkƒÖ spluwƒÖ}
+{3900}{}{Bandzior z wielkƒÖ spluwƒÖ}
+{4000}{}{Twardy stra≈ºnik}
+{4100}{}{Twardy stra≈ºnik}
+{4200}{}{Stra≈ºnik walczƒÖcy wrƒôcz}
+{4300}{}{Stra≈ºnik walczƒÖcy wrƒôcz}
+{4400}{}{Zrƒôczny stra≈ºnik}
+{4500}{}{Zrƒôczny stra≈ºnik}
+{4600}{}{Stra≈ºnik ze spluwƒÖ}
+{4700}{}{Stra≈ºnik ze spluwƒÖ}
+{4800}{}{Stra≈ºnik z wielkƒÖ spluwƒÖ}
+{4900}{}{Stra≈ºnik z wielkƒÖ spluwƒÖ}
+{5000}{}{Ch≈Çopczyk-sierota}
 {5100}{}{Dziewczynka-sierota}
-{5200}{}{Ch≥opiec}
+{5200}{}{Ch≈Çopiec}
 {5300}{}{Dziewczynka}
 {5400}{}{Przegrany}
 {5500}{}{Przegrany}
-{5600}{}{Z≥y handlarz}
-{5700}{}{Z≥y handlarz}
-{5800}{}{åredni handlarz}
-{5900}{}{åredni handlarz}
+{5600}{}{Z≈Çy handlarz}
+{5700}{}{Z≈Çy handlarz}
+{5800}{}{≈öredni handlarz}
+{5900}{}{≈öredni handlarz}
 {6000}{}{Mistrz kupiecki}
 {6100}{}{Mistrz kupiecki}
 {6200}{}{Vic}
-{6300}{}{S≥aby wieúniak}
-{6400}{}{S≥aby wieúniak}
-{6500}{}{åredni wieúniak}
-{6600}{}{åredni wieúniak}
-{6700}{}{Silny wieúniak}
-{6800}{}{Silny wieúniak}
-{6900}{}{S≥aby straønik walczπcy wrÍcz}
-{7000}{}{S≥aby straønik walczπcy wrÍcz}
-{7100}{}{S≥aby straønik ze spluwπ}
-{7200}{}{S≥aby straønik ze spluwπ}
+{6300}{}{S≈Çaby wie≈õniak}
+{6400}{}{S≈Çaby wie≈õniak}
+{6500}{}{≈öredni wie≈õniak}
+{6600}{}{≈öredni wie≈õniak}
+{6700}{}{Silny wie≈õniak}
+{6800}{}{Silny wie≈õniak}
+{6900}{}{S≈Çaby stra≈ºnik walczƒÖcy wrƒôcz}
+{7000}{}{S≈Çaby stra≈ºnik walczƒÖcy wrƒôcz}
+{7100}{}{S≈Çaby stra≈ºnik ze spluwƒÖ}
+{7200}{}{S≈Çaby stra≈ºnik ze spluwƒÖ}
 {7300}{}{Robot naprawczy}
 {7400}{}{Ulepszony robot naprawczy}
-{7500}{}{RobomÛzg}
-{7600}{}{Lewitujπce Oko}
-{7700}{}{Robot straøniczy}
-{7800}{}{Ulepszony robot straøniczy}
-{7900}{}{RobomÛzg}
-{8000}{}{Ma≥y gekon}
-{8100}{}{Twardy ma≥y gekon}
+{7500}{}{Robom√≥zg}
+{7600}{}{LewitujƒÖce Oko}
+{7700}{}{Robot stra≈ºniczy}
+{7800}{}{Ulepszony robot stra≈ºniczy}
+{7900}{}{Robom√≥zg}
+{8000}{}{Ma≈Çy gekon}
+{8100}{}{Twardy ma≈Çy gekon}
 {8200}{}{Dziki pies}
-{8201}{}{Przynoszπcy pecha kundel.}
-{8300}{}{Z≥oty gekon}
-{8400}{}{Szpon úmierci }
-{8500}{}{Pomiot szpona úmierci}
-{8600}{}{Twardy z≥oty gekon}
+{8201}{}{PrzynoszƒÖcy pecha kundel.}
+{8300}{}{Z≈Çoty gekon}
+{8400}{}{Szpon ≈õmierci }
+{8500}{}{Pomiot szpona ≈õmierci}
+{8600}{}{Twardy z≈Çoty gekon}
 {8700}{}{Lynette}
 {8800}{}{Dr Troy}
 {8900}{}{John Cassidy}
 {9000}{}{Gregory}
 {9100}{}{Obywatelka}
 {9200}{}{Obywatel}
-{9300}{}{Obywatelka klasy wyøszej}
-{9400}{}{Obywatel klasy wyøszej}
+{9300}{}{Obywatelka klasy wy≈ºszej}
+{9400}{}{Obywatel klasy wy≈ºszej}
 {9500}{}{Traper}
 {9600}{}{Traper}
 {9700}{}{Sulik}
 {9800}{}{Maida Buckner}
 {9900}{}{Torr}
 {10000}{}{Paker}
-{10100}{}{åwiecπcy z reaktora}
+{10100}{}{≈öwiecƒÖcy z reaktora}
 {10200}{}{Ghul z reaktora}
-{10300}{}{Straønik reaktora}
+{10300}{}{Stra≈ºnik reaktora}
 {10400}{}{Zomak}
 {10500}{}{Skeeter}
-{10600}{}{MÛzg}
+{10600}{}{M√≥zg}
 {10700}{}{Lenny}
 {10800}{}{Wooz}
 {10900}{}{Harold}
 {11000}{}{Kretoszczur}
-{11100}{}{WiÍkszy kretoszczur}
-{11200}{}{åwinioszczur}
-{11300}{}{Twardy úwinioszczur}
-{11400}{}{Os≥abiona bramina}
-{11401}{}{Dwug≥owa, zmutowana krowa.}
+{11100}{}{Wiƒôkszy kretoszczur}
+{11200}{}{≈öwinioszczur}
+{11300}{}{Twardy ≈õwinioszczur}
+{11400}{}{Os≈Çabiona bramina}
+{11401}{}{Dwug≈Çowa, zmutowana krowa.}
 {11500}{}{A.Pwr.Armor (don't use)}
 {11600}{}{Zmutowany szczur}
 {11601}{}{Twardy, zmutowany szczur.}
 {11700}{}{Zmutowany kretoszczur}
 {11701}{}{Twardy, zmutowany kretoszczur.}
-{11800}{}{Zmutowany úwinioszczur}
-{11801}{}{Twardy, zmutowany úwinioszczur.}
+{11800}{}{Zmutowany ≈õwinioszczur}
+{11801}{}{Twardy, zmutowany ≈õwinioszczur.}
 {11900}{}{Supermutant}
-{12000}{}{PotÍøny mutant}
+{12000}{}{Potƒô≈ºny mutant}
 {12100}{}{Melchior}
 {12200}{}{Hero Andro (don't use)}
 {12300}{}{Hero Andro (don't use)}
@@ -147,14 +147,14 @@
 {13100}{}{Hero Female (don't use)}
 {13200}{}{Hero Male (don't use)}
 {13300}{}{Hero Female (don't use)}
-{13400}{}{Straønik miejski}
-{13500}{}{Straønik miejski}
+{13400}{}{Stra≈ºnik miejski}
+{13500}{}{Stra≈ºnik miejski}
 {13600}{}{Cyberpies}
-{13700}{}{Straønik RNK}
-{13800}{}{Straønik RNK}
-{13900}{}{Walczπcy wrÍcz straønik RNK}
-{14000}{}{Nadzorca niewolnikÛw}
-{14100}{}{Nadzorca niewolnikÛw}
+{13700}{}{Stra≈ºnik RNK}
+{13800}{}{Stra≈ºnik RNK}
+{13900}{}{WalczƒÖcy wrƒôcz stra≈ºnik RNK}
+{14000}{}{Nadzorca niewolnik√≥w}
+{14100}{}{Nadzorca niewolnik√≥w}
 {14200}{}{Mistrz handlu}
 {14300}{}{Mistrz handlu}
 {14400}{}{Tandi}
@@ -163,7 +163,7 @@
 {14700}{}{Doofus}
 {14800}{}{Mikey}
 {14900}{}{Barmanka RNK}
-{15000}{}{W≥aúciciel sklepu}
+{15000}{}{W≈Ça≈õciciel sklepu}
 {15100}{}{Gruthar}
 {15200}{}{Goris}
 {15300}{}{Kretoszczur-wojownik}
@@ -185,8 +185,8 @@
 {16900}{}{Kowboj}
 {17000}{}{Bramkarz}
 {17100}{}{Bramkarz}
-{17200}{}{S≥aby Pan Z≥ota Rπczka}
-{17300}{}{åwiecπcy}
+{17200}{}{S≈Çaby Pan Z≈Çota RƒÖczka}
+{17300}{}{≈öwiecƒÖcy}
 {17400}{}{Dar}
 {17500}{}{Dalia}
 {17600}{}{Gordon}
@@ -194,116 +194,116 @@
 {17800}{}{Ghul z reaktora}
 {17900}{}{Ghul}
 {18000}{}{Matt}
-{18100}{}{Szef ≥owcÛw nagrÛd (1-6)}
-{18200}{}{£owca nagrÛd (1-6)}
-{18300}{}{Szefowa ≥owcÛw nagrÛd (7-12)}
-{18400}{}{£owca nagrÛd (7-12)}
-{18500}{}{£owca nagrÛd (7-12)}
-{18600}{}{Szefowa ≥owcÛw nagrÛd (13-18)}
-{18700}{}{£owca nagrÛd (13-18)}
-{18800}{}{£owca nagrÛd (13-18)}
-{18900}{}{Szef ≥owcÛw nagrÛd (19-?)}
-{19000}{}{£owca nagrÛd (19-?)}
+{18100}{}{Szef ≈Çowc√≥w nagr√≥d (1-6)}
+{18200}{}{≈Åowca nagr√≥d (1-6)}
+{18300}{}{Szefowa ≈Çowc√≥w nagr√≥d (7-12)}
+{18400}{}{≈Åowca nagr√≥d (7-12)}
+{18500}{}{≈Åowca nagr√≥d (7-12)}
+{18600}{}{Szefowa ≈Çowc√≥w nagr√≥d (13-18)}
+{18700}{}{≈Åowca nagr√≥d (13-18)}
+{18800}{}{≈Åowca nagr√≥d (13-18)}
+{18900}{}{Szef ≈Çowc√≥w nagr√≥d (19-?)}
+{19000}{}{≈Åowca nagr√≥d (19-?)}
 {19100}{}{Bess}
-{19101}{}{Dwug≥owa, zmutowana krowa.}
+{19101}{}{Dwug≈Çowa, zmutowana krowa.}
 {19200}{}{Balthas}
 {19300}{}{Grisham}
 {19400}{}{Phil}
-{19500}{}{TchÛrz}
+{19500}{}{Tch√≥rz}
 {19600}{}{Karl}
 {19700}{}{Jonny}
 {19800}{}{Jo}
 {19900}{}{Zeke}
-{20000}{}{Rzeünik}
+{20000}{}{Rze≈∫nik}
 {20100}{}{Petey}
-{20200}{}{Prymitywny ≥owca}
-{20300}{}{Prymitywny ≥owca}
+{20200}{}{Prymitywny ≈Çowca}
+{20300}{}{Prymitywny ≈Çowca}
 {20400}{}{Kanibal}
 {20500}{}{Kanibal}
-{20600}{}{åwiÍty Cz≥owiek}
-{20700}{}{åwiÍta Kobieta}
-{20800}{}{Koczownik - s≥.}
-{20900}{}{Koczownik - úr.}
-{21000}{}{Koczownik - s≥.}
-{21100}{}{Koczownik - úr.}
+{20600}{}{≈öwiƒôty Cz≈Çowiek}
+{20700}{}{≈öwiƒôta Kobieta}
+{20800}{}{Koczownik - s≈Ç.}
+{20900}{}{Koczownik - ≈õr.}
+{21000}{}{Koczownik - s≈Ç.}
+{21100}{}{Koczownik - ≈õr.}
 {21200}{}{Bandyta}
 {21300}{}{Bandyta}
 {21400}{}{Farmer}
 {21500}{}{Farmer}
 {21600}{}{Modliszka}
-{21700}{}{£owca niewolnikÛw}
-{21800}{}{£owca niewolnikÛw}
+{21700}{}{≈Åowca niewolnik√≥w}
+{21800}{}{≈Åowca niewolnik√≥w}
 {21900}{}{Dzika bramina}
 {22000}{}{Posiadacz ziemski}
 {22100}{}{Posiadacz ziemski}
-{22200}{}{Cz≥onek patrolu Kryptopolis}
-{22300}{}{Cz≥onek patrolu Kryptopolis}
-{22400}{}{Silny ≥owca niewolnikÛw}
-{22500}{}{Silny ≥owca niewolnikÛw}
-{22600}{}{åwiry}
-{22700}{}{åcierwojady}
-{22800}{}{åwiry z Blasku}
-{22900}{}{åcierwojady z Blasku}
+{22200}{}{Cz≈Çonek patrolu Kryptopolis}
+{22300}{}{Cz≈Çonek patrolu Kryptopolis}
+{22400}{}{Silny ≈Çowca niewolnik√≥w}
+{22500}{}{Silny ≈Çowca niewolnik√≥w}
+{22600}{}{≈öwiry}
+{22700}{}{≈öcierwojady}
+{22800}{}{≈öwiry z Blasku}
+{22900}{}{≈öcierwojady z Blasku}
 {23000}{}{Rybak}
 {23100}{}{Rybaczka}
 {23200}{}{Dzikus}
 {23300}{}{Dzikus}
 {23400}{}{Trep}
 {23500}{}{Trep}
-{23600}{}{Poszukiwacz z≥ota}
-{23700}{}{Poszukiwacz z≥ota}
-{23800}{}{Najeüdüca}
-{23900}{}{Najeüdüca}
+{23600}{}{Poszukiwacz z≈Çota}
+{23700}{}{Poszukiwacz z≈Çota}
+{23800}{}{Naje≈∫d≈∫ca}
+{23900}{}{Naje≈∫d≈∫ca}
 {24000}{}{Ognisty gekon}
 {24100}{}{Twardy ognisty gekon}
 {24200}{}{Obcy}
 {24300}{}{Twardy obcy}
-{24400}{}{Twardy szpon úmierci}
-{24500}{}{Twardy szpon úmierci}
+{24400}{}{Twardy szpon ≈õmierci}
+{24500}{}{Twardy szpon ≈õmierci}
 {24600}{}{Wisielec}
 {24700}{}{Wredny wisielec}
 {24800}{}{Centaur}
 {24900}{}{Wredny centaur}
-{25000}{}{Cz≥onek patrolu Enklawy}
-{25100}{}{Cz≥onek patrolu Enklawy}
-{25200}{}{Cz≥onek gangu}
-{25300}{}{Cz≥onek gangu}
+{25000}{}{Cz≈Çonek patrolu Enklawy}
+{25100}{}{Cz≈Çonek patrolu Enklawy}
+{25200}{}{Cz≈Çonek gangu}
+{25300}{}{Cz≈Çonek gangu}
 {25400}{}{Najemnik}
 {25500}{}{Najemnik}
 {25600}{}{Pomiot Nocy}
 {25700}{}{Twardy Pomiot Nocy}
 {25800}{}{Twardy ghul}
-{25900}{}{Cz≥onek gangu}
+{25900}{}{Cz≈Çonek gangu}
 {26000}{}{Yakuza}
-{26100}{}{Straønik RNK}
-{26200}{}{Straønik RNK}
+{26100}{}{Stra≈ºnik RNK}
+{26200}{}{Stra≈ºnik RNK}
 {26300}{}{Maruder}
 {26400}{}{Maruder}
-{26500}{}{åliczny Ch≥opiec Lloyd}
+{26500}{}{≈öliczny Ch≈Çopiec Lloyd}
 {26600}{}{Widmowy Szczur}
-{26700}{}{MÍøczyzna z Krypty 13}
+{26700}{}{Mƒô≈ºczyzna z Krypty 13}
 {26800}{}{Kobieta z Krypty 13}
-{26900}{}{Straønik mostu}
-{27000}{}{Tajemniczy WÍdrowiec}
-{27100}{}{Tajemniczy WÍdrowiec}
+{26900}{}{Stra≈ºnik mostu}
+{27000}{}{Tajemniczy Wƒôdrowiec}
+{27100}{}{Tajemniczy Wƒôdrowiec}
 {27200}{}{Hakeswill}
-{27300}{}{Duøy Jesus Mordino}
+{27300}{}{Du≈ºy Jesus Mordino}
 {27400}{}{Dumar}
-{27500}{}{Matka szponÛw úmierci}
+{27500}{}{Matka szpon√≥w ≈õmierci}
 {27600}{}{Smok}
 {27700}{}{Lo Pan}
 {27800}{}{Centrolog}
 {27900}{}{Centrolog}
-{28000}{}{Tajemniczy WÍdrowiec}
-{28100}{}{Tajemniczy WÍdrowiec}
-{28200}{}{Tajemniczy WÍdrowiec}
-{28300}{}{Tajemniczy WÍdrowiec}
-{28400}{}{Tajemniczy WÍdrowiec}
-{28500}{}{Tajemniczy WÍdrowiec}
-{28600}{}{Tajemniczy WÍdrowiec}
-{28700}{}{Tajemniczy WÍdrowiec}
+{28000}{}{Tajemniczy Wƒôdrowiec}
+{28100}{}{Tajemniczy Wƒôdrowiec}
+{28200}{}{Tajemniczy Wƒôdrowiec}
+{28300}{}{Tajemniczy Wƒôdrowiec}
+{28400}{}{Tajemniczy Wƒôdrowiec}
+{28500}{}{Tajemniczy Wƒôdrowiec}
+{28600}{}{Tajemniczy Wƒôdrowiec}
+{28700}{}{Tajemniczy Wƒôdrowiec}
 {28800}{}{Ochroniarz prezydenta}
-{28900}{}{Jajo szponÛw úmierci}
+{28900}{}{Jajo szpon√≥w ≈õmierci}
 {29000}{}{Metzger}
 {29100}{}{Osoba}
 {29200}{}{Osoba w dziwnym pancerzu}
@@ -315,12 +315,12 @@
 {29800}{}{Dziecko}
 {29900}{}{Dziecko}
 {30000}{}{Sprzedawca broni}
-{30100}{}{Technik laboratoriÛw Shi}
-{30200}{}{Straønik Shi}
-{30300}{}{Wieúniak Shi}
-{30400}{}{Wieúniak Shi}
-{30500}{}{Wieúniak Lo Pana}
-{30600}{}{Wieúniak Lo Pana}
+{30100}{}{Technik laboratori√≥w Shi}
+{30200}{}{Stra≈ºnik Shi}
+{30300}{}{Wie≈õniak Shi}
+{30400}{}{Wie≈õniak Shi}
+{30500}{}{Wie≈õniak Lo Pana}
+{30600}{}{Wie≈õniak Lo Pana}
 {30700}{}{Pracownik portu}
 {30800}{}{Handlarz Shi}
 {30900}{}{Kruul Szczu'ur}
@@ -363,19 +363,19 @@
 {34600}{}{Dogmeat - poziom 4}
 {34700}{}{Dogmeat - poziom 5}
 {34800}{}{Dogmeat - poziom 6}
-{34900}{}{RobomÛzg - poziom 1}
-{35000}{}{RobomÛzg - poziom 2}
-{35100}{}{RobomÛzg - poziom 3}
-{35200}{}{RobomÛzg - poziom 4}
-{35300}{}{RobomÛzg - poziom 5}
-{35400}{}{KrÛlowa obcych}
+{34900}{}{Robom√≥zg - poziom 1}
+{35000}{}{Robom√≥zg - poziom 2}
+{35100}{}{Robom√≥zg - poziom 3}
+{35200}{}{Robom√≥zg - poziom 4}
+{35300}{}{Robom√≥zg - poziom 5}
+{35400}{}{Kr√≥lowa obcych}
 {35500}{}{Czarny radskorpion}
 {35600}{}{Czarny radskorpion}
 {35700}{}{Spud}
-{35800}{}{Kapitan najemnikÛw}
+{35800}{}{Kapitan najemnik√≥w}
 {35900}{}{Najemnik}
 {36000}{}{Najemnik}
-{36100}{}{CieÒ-KtÛry-Chodzi}
+{36100}{}{Cie≈Ñ-Kt√≥ry-Chodzi}
 {36200}{}{Punk}
 {36300}{}{Punk}
 {36400}{}{Mark}
@@ -383,8 +383,8 @@
 {36600}{}{Kpt. A. Ron Meyers}
 {36700}{}{Chip}
 {36800}{}{AHS-9}
-{36900}{}{Straønik CentrologÛw}
-{37000}{}{Straønik CentrologÛw}
+{36900}{}{Stra≈ºnik Centrolog√≥w}
+{37000}{}{Stra≈ºnik Centrolog√≥w}
 {37100}{}{Juan}
 {37200}{}{Vikki}
 {37300}{}{Vic - poziom 1}
@@ -393,12 +393,12 @@
 {37600}{}{Vic - poziom 4}
 {37700}{}{Vic - poziom 5}
 {37800}{}{Vic - poziom 6}
-{37900}{}{RobomÛzg - szympans}
-{38000}{}{RobomÛzg - nienormalny}
-{38100}{}{RobomÛzg - cz≥owiek}
-{38200}{}{Wielka mrÛwka}
-{38300}{}{Twarda olbrzymia mrÛwka}
-{38400}{}{Pies z kulawπ nogπ}
+{37900}{}{Robom√≥zg - szympans}
+{38000}{}{Robom√≥zg - nienormalny}
+{38100}{}{Robom√≥zg - cz≈Çowiek}
+{38200}{}{Wielka mr√≥wka}
+{38300}{}{Twarda olbrzymia mr√≥wka}
+{38400}{}{Pies z kulawƒÖ nogƒÖ}
 {38500}{}{Zurak}
 {38600}{}{Imbot}
 {38700}{}{Jimmy}
@@ -414,26 +414,26 @@
 {39700}{}{John Bishop}
 {39800}{}{Angela Bishop}
 {39900}{}{Pani Bishop}
-{40000}{}{Straønik BishopÛw 1}
-{40100}{}{Straønik BishopÛw 2}
-{40200}{}{Zbir BishopÛw 1}
-{40300}{}{Zbir BishopÛw 2}
-{40400}{}{wúciek≥a bramina}
-{40500}{}{Ma≥y Jesus}
-{40600}{}{Duøy Jesus}
-{40700}{}{Cz≥owiek rodziny Mordino 1}
-{40800}{}{Cz≥owiek rodziny Mordino 2}
-{40900}{}{Cz≥owiek rodziny Mordino 3}
-{41000}{}{Straønik Myrona 1}
-{41100}{}{Straønik Myrona 2}
+{40000}{}{Stra≈ºnik Bishop√≥w 1}
+{40100}{}{Stra≈ºnik Bishop√≥w 2}
+{40200}{}{Zbir Bishop√≥w 1}
+{40300}{}{Zbir Bishop√≥w 2}
+{40400}{}{w≈õciek≈Ça bramina}
+{40500}{}{Ma≈Çy Jesus}
+{40600}{}{Du≈ºy Jesus}
+{40700}{}{Cz≈Çowiek rodziny Mordino 1}
+{40800}{}{Cz≈Çowiek rodziny Mordino 2}
+{40900}{}{Cz≈Çowiek rodziny Mordino 3}
+{41000}{}{Stra≈ºnik Myrona 1}
+{41100}{}{Stra≈ºnik Myrona 2}
 {41200}{}{Pan Wright}
 {41300}{}{Pani Wright}
 {41400}{}{Chris Wright}
 {41500}{}{Keith Wright}
-{41600}{}{Syn WrightÛw 1}
-{41700}{}{Syn WrightÛw 2}
-{41800}{}{CÛrka WrightÛw 1}
-{41900}{}{CÛrka WrightÛw 2}
+{41600}{}{Syn Wright√≥w 1}
+{41700}{}{Syn Wright√≥w 2}
+{41800}{}{C√≥rka Wright√≥w 1}
+{41900}{}{C√≥rka Wright√≥w 2}
 {42000}{}{Pan Salvatore}
 {42100}{}{Mason}
 {42200}{}{Zbir rodziny Salvatore 1}
@@ -445,12 +445,12 @@
 {42800}{}{Bokser 2}
 {42900}{}{Bokser 3}
 {43000}{}{Bokser 4}
-{43100}{}{Mike Przeøuwacz}
+{43100}{}{Mike Prze≈ºuwacz}
 {43200}{}{Holyfeld}
 {43300}{}{McKneely}
 {43400}{}{Stuart Malutki}
-{43500}{}{KorsykaÒscy bracia}
-{43600}{}{KorsykaÒskie dziwki}
+{43500}{}{Korsyka≈Ñscy bracia}
+{43600}{}{Korsyka≈Ñskie dziwki}
 {43700}{}{Ojciec Tully}
 {43800}{}{Bramkarz kasyna 1}
 {43900}{}{Bramkarz kasyna 2}
@@ -473,19 +473,19 @@
 {45600}{}{Biurokratka 2}
 {45700}{}{Kupiec 1}
 {45800}{}{Kupiec 2}
-{45900}{}{Straønik 1}
-{46000}{}{Straønik 2}
-{46100}{}{Straøniczka 3}
-{46200}{}{Straøniczka 4}
-{46300}{}{Øo≥nierz 1}
-{46400}{}{Øo≥nierz 2}
-{46500}{}{Øo≥nierz 3}
-{46600}{}{Øo≥nierz 4}
-{46700}{}{Sierø. Stark}
+{45900}{}{Stra≈ºnik 1}
+{46000}{}{Stra≈ºnik 2}
+{46100}{}{Stra≈ºniczka 3}
+{46200}{}{Stra≈ºniczka 4}
+{46300}{}{≈ªo≈Çnierz 1}
+{46400}{}{≈ªo≈Çnierz 2}
+{46500}{}{≈ªo≈Çnierz 3}
+{46600}{}{≈ªo≈Çnierz 4}
+{46700}{}{Sier≈º. Stark}
 {46800}{}{"Doc" Andrew}
 {46900}{}{Barman}
-{47000}{}{Wieøyczka strzelnicza}
-{47001}{}{Automatyczna wieøyczka strzelnicza wyposaøona w podwÛjne dzia≥ko plazmowe.}
+{47000}{}{Wie≈ºyczka strzelnicza}
+{47001}{}{Automatyczna wie≈ºyczka strzelnicza wyposa≈ºona w podw√≥jne dzia≈Çko plazmowe.}
 {47100}{}{K-9 (podstawa)}
 {47200}{}{K-9 (poziom 1)}
 {47300}{}{K-9 (poziom 2)}
@@ -493,11 +493,11 @@
 {47500}{}{K-9 (poziom 4)}
 {47600}{}{Cybierpies}
 {47700}{}{Jajo Wanamingo}
-{47800}{}{Straønik Lo Pana}
+{47800}{}{Stra≈ºnik Lo Pana}
 {47900}{}{Marjorie}
-{48000}{}{Dzia≥ko Automatyczne}
-{48100}{}{Wyjπtkowa istota z Gecko}
-{48200}{}{åmierÊ}
+{48000}{}{Dzia≈Çko Automatyczne}
+{48100}{}{WyjƒÖtkowa istota z Gecko}
+{48200}{}{≈ömierƒá}
 {48300}{}{Frank Horrigan}
 {48301}{}{Ochroniarz prezydenta}
 {48400}{}{Nessa}
@@ -506,7 +506,7 @@
 {48501}{}{Szaman Plemienia}
 {48600}{}{Wojownik 	   }
 {48601}{}{wojownik Plemienia}
-{48700}{}{Straønik}
+{48700}{}{Stra≈ºnik}
 {48800}{}{siostra Sulika}
 {48900}{}{Kaga}
 {49000}{}{Kaga}
@@ -520,22 +520,22 @@
 {49600}{}{Hologram 12001}
 {49601}{}{Hologram Dyrektora Operacyjnego}
 {49700}{}{Hologram 10031}
-{49701}{}{Hologram Dyrektora Os≥Ûgi GruntÛw}
+{49701}{}{Hologram Dyrektora Os≈Ç√≥gi Grunt√≥w}
 {49800}{}{Hologram 40011}
 {49801}{}{Hologram Dyrektorki do spraw Public Relations]}
-{49900}{}{robot Pan Z≥ota Rπczka}
-{49901}{}{Robot Pan Z≥ota Rπczka z powaønπ depresjπ.}
+{49900}{}{robot Pan Z≈Çota RƒÖczka}
+{49901}{}{Robot Pan Z≈Çota RƒÖczka z powa≈ºnƒÖ depresjƒÖ.}
 {50000}{}{Doktor}
-{50001}{}{Wiodπcy i jednoczeúnie jedyny øyjπcy doktor w AOå}
-{50100}{}{Drapieøna Roúlina AOå}
-{50101}{}{Obrzydliwie zmutowana drapieøna roúlina}
+{50001}{}{WiodƒÖcy i jednocze≈õnie jedyny ≈ºyjƒÖcy doktor w AO≈ö}
+{50100}{}{Drapie≈ºna Ro≈õlina AO≈ö}
+{50101}{}{Obrzydliwie zmutowana drapie≈ºna ro≈õlina}
 {50200}{}{Kitsune}
 {50300}{}{Dex}
 {50400}{}{Kot Jules}
 {50500}{}{Wojownik Doktora}
 {50501}{}{Wojownik dla doktora}
-{50600}{}{muszka owocÛwka}
-{50601}{}{Zmutowana muszka owocÛwka.}
+{50600}{}{muszka owoc√≥wka}
+{50601}{}{Zmutowana muszka owoc√≥wka.}
 {50700}{}{Hologram}
 {50701}{}{Hologram.}
 {50800}{}{Kitsune - poziom 1}
@@ -573,12 +573,12 @@
 {54000}{}{Minigun Jim}
 {54100}{}{Bofast}
 {54200}{}{Krom}
-{54300}{}{Matka Drapieønych Roúlin}
+{54300}{}{Matka Drapie≈ºnych Ro≈õlin}
 {54400}{}{Matka Obcych}
-{54500}{}{Drapieøna Roúlina AOå}
-{54501}{}{Obrzydliwie zmutowana drapieøna roúlina}
+{54500}{}{Drapie≈ºna Ro≈õlina AO≈ö}
+{54501}{}{Obrzydliwie zmutowana drapie≈ºna ro≈õlina}
 {54600}{}{Dziki pies}
-{54601}{}{Przynoszπcy pecha kundel.}
-{54700}{}{Ulepszony robot straøniczy}
+{54601}{}{PrzynoszƒÖcy pecha kundel.}
+{54700}{}{Ulepszony robot stra≈ºniczy}
 {54800}{}{Stary Joe}
-{54900}{}{Roúlina Monstrum}
+{54900}{}{Ro≈õlina Monstrum}

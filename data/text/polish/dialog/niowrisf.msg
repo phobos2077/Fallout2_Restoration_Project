@@ -1,27 +1,27 @@
-{100}{}{Widzisz sejf na kombinacjê wmurowany w œcianê. Jest zamkniêty.}
-{101}{}{Widzisz sejf na kombinacjê wmurowany w œcianê. Jest otwarty.}
-{120}{}{Ju¿ chcesz otwieraæ sejf, gdy nagle zauwa¿asz lont biegn¹cy w œcianê tu¿ pod drzwiami. Wygl¹da na to, ¿e ten sejf ma za³o¿on¹ pu³apkê.}
-{121}{}{Wci¹¿ widzisz za³o¿on¹ w sejfie pu³apkê.}
-{150}{}{S³ychaæ KER-KLANK, gdy sejf siê otwiera.}
-{160}{}{Obracasz pokrêt³em w przypadkowy sposób, gdy nagle trafia ono na kombinacjê... s³ychaæ KER-KLANK, i mechanizm sejfu jest otwarty.}
-{170}{}{Obracasz powoli pokrêt³o przez kilka minut, ale nic z tego nie wychodzi.}
-{171}{}{Obracasz pokrêt³o przez kilka minut, ale nic siê nie dzieje.}
-{180}{}{Znajdujesz pu³apkê za³o¿on¹ w sejfie i skutecznie j¹ rozbrajasz.}
-{181}{}{Udaje ci siê skutecznie rozbroiæ pu³apkê przy sejfie.}
-{190}{}{Znajdujesz pu³apkê przy sejfie, ale nie udaje ci siê jej rozbroiæ.}
-{200}{}{Nie wygl¹da na to, aby by³a tam jakaœ pu³apka.}
-{201}{}{Nie udaje ci siê rozbroiæ pu³apki.}
-{220}{}{Chyba najlepiej by³oby najpierw z powrotem uzbroiæ sejf plastikiem lub dynamitem.}
-{230}{}{Uda³o ci siê zmieniæ kombinacjê sejfu... che che che...}
-{231}{}{Uda³o ci siê zmieniæ kombinacjê sejfu... po raz kolejny.}
-{240}{}{Nie masz wystarczaj¹co umiejêtnoœci, aby zmieniæ kombinacjê.}
-{241}{}{ nie ma wystarczaj¹co umiejêtnoœci, aby zmieniæ kombinacjê.}
-{250}{}{Sejf musi byæ zamkniêty.}
-{260}{}{Wygl¹da na to, ¿e w sejfie ju¿ jest pu³apka.}
-{270}{}{Nie udaje ci siê za³o¿yæ pu³apki w sejfie.}
-{271}{}{ zawodzi przy zak³adaniu pu³apki w sejfie.}
-{280}{}{Pu³apka w sejfie znowu jest aktywna.}
-{290}{}{Podczas poszukiwañ w sejfie pu³apki wywo³ujesz eksplozjê.}
-{291}{}{Podczas rozbrajania pu³apki poci¹gasz za nieodpowiedni kabel.}
-{300}{}{S³yszysz z góry st³umiony wybuch.}
-{400}{}{Podwa¿asz ma³y panel na dnie sejfu. S¹dzisz, ¿e nie znalaz³byœ go, gdyby pani Bishop Ci o nim nie powiedzia³a. W œrodku znajduje siê dziwnie wygl¹daj¹ca przystawka do Pip-Boya.}
+{100}{}{Widzisz sejf na kombinacjÄ™ wmurowany w Å›cianÄ™. Jest zamkniÄ™ty.}
+{101}{}{Widzisz sejf na kombinacjÄ™ wmurowany w Å›cianÄ™. Jest otwarty.}
+{120}{}{JuÅ¼ chcesz otwieraÄ‡ sejf, gdy nagle zauwaÅ¼asz lont biegnÄ…cy w Å›cianÄ™ tuÅ¼ pod drzwiami. WyglÄ…da na to, Å¼e ten sejf ma zaÅ‚oÅ¼onÄ… puÅ‚apkÄ™.}
+{121}{}{WciÄ…Å¼ widzisz zaÅ‚oÅ¼onÄ… w sejfie puÅ‚apkÄ™.}
+{150}{}{SÅ‚ychaÄ‡ KER-KLANK, gdy sejf siÄ™ otwiera.}
+{160}{}{Obracasz pokrÄ™tÅ‚em w przypadkowy sposÃ³b, gdy nagle trafia ono na kombinacjÄ™... sÅ‚ychaÄ‡ KER-KLANK, i mechanizm sejfu jest otwarty.}
+{170}{}{Obracasz powoli pokrÄ™tÅ‚o przez kilka minut, ale nic z tego nie wychodzi.}
+{171}{}{Obracasz pokrÄ™tÅ‚o przez kilka minut, ale nic siÄ™ nie dzieje.}
+{180}{}{Znajdujesz puÅ‚apkÄ™ zaÅ‚oÅ¼onÄ… w sejfie i skutecznie jÄ… rozbrajasz.}
+{181}{}{Udaje ci siÄ™ skutecznie rozbroiÄ‡ puÅ‚apkÄ™ przy sejfie.}
+{190}{}{Znajdujesz puÅ‚apkÄ™ przy sejfie, ale nie udaje ci siÄ™ jej rozbroiÄ‡.}
+{200}{}{Nie wyglÄ…da na to, aby byÅ‚a tam jakaÅ› puÅ‚apka.}
+{201}{}{Nie udaje ci siÄ™ rozbroiÄ‡ puÅ‚apki.}
+{220}{}{Chyba najlepiej byÅ‚oby najpierw z powrotem uzbroiÄ‡ sejf plastikiem lub dynamitem.}
+{230}{}{UdaÅ‚o ci siÄ™ zmieniÄ‡ kombinacjÄ™ sejfu... che che che...}
+{231}{}{UdaÅ‚o ci siÄ™ zmieniÄ‡ kombinacjÄ™ sejfu... po raz kolejny.}
+{240}{}{Nie masz wystarczajÄ…co umiejÄ™tnoÅ›ci, aby zmieniÄ‡ kombinacjÄ™.}
+{241}{}{ nie ma wystarczajÄ…co umiejÄ™tnoÅ›ci, aby zmieniÄ‡ kombinacjÄ™.}
+{250}{}{Sejf musi byÄ‡ zamkniÄ™ty.}
+{260}{}{WyglÄ…da na to, Å¼e w sejfie juÅ¼ jest puÅ‚apka.}
+{270}{}{Nie udaje ci siÄ™ zaÅ‚oÅ¼yÄ‡ puÅ‚apki w sejfie.}
+{271}{}{ zawodzi przy zakÅ‚adaniu puÅ‚apki w sejfie.}
+{280}{}{PuÅ‚apka w sejfie znowu jest aktywna.}
+{290}{}{Podczas poszukiwaÅ„ w sejfie puÅ‚apki wywoÅ‚ujesz eksplozjÄ™.}
+{291}{}{Podczas rozbrajania puÅ‚apki pociÄ…gasz za nieodpowiedni kabel.}
+{300}{}{SÅ‚yszysz z gÃ³ry stÅ‚umiony wybuch.}
+{400}{}{PodwaÅ¼asz maÅ‚y panel na dnie sejfu. SÄ…dzisz, Å¼e nie znalazÅ‚byÅ› go, gdyby pani Bishop Ci o nim nie powiedziaÅ‚a. W Å›rodku znajduje siÄ™ dziwnie wyglÄ…dajÄ…ca przystawka do Pip-Boya.}

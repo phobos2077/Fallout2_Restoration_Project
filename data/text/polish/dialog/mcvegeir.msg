@@ -1,68 +1,68 @@
-{100}{}{Widzisz przywódcê ¯u¿lowców.}
+{100}{}{Widzisz przywÃ³dcÄ™ Å»uÅ¼lowcÃ³w.}
 {101}{}{Widzisz Vegeira.}
-{102}{}{Wysoki, postawny mê¿czyzna. Jego ruchy przypominaj¹ ci przyczajonego tygrysa.}
-{150}{}{Mo¿esz wyjœæ st¹d przez w³az znajduj¹cy siê na ty³ach budynku.}
-{151}{}{Przeka¿ proszê wiadomoœæ do Modoc.}
-{152}{}{Modoc jest na po³udnie.}
-{153}{}{Na po³udnie.}
-{154}{}{Nie, to drugie po³udnie.}
-{155}{}{Goœæ - znakomicie siê sk³ada. Zastanawia³em siê, jak nawi¹zaæ kontakt z powierzchniowcami, ale widzê, ¿e nie muszê siê o to ju¿ martwiæ - dziêki twojemu przybyciu. Witaj w siedzibie ¯u¿lowców.}
-{156}{}{Œwietnie, ¿e jesteœ z powrotem. Rozumiem przez to, ¿e wiadomoœæ zosta³a dostarczona do Modoc. Jak zosta³a przyjêta?}
-{157}{}{Potrzebuj¹ trochê czasu, ¿eby to przemyœleæ.}
-{158}{}{Maj¹ pewne zastrze¿enia.}
-{159}{}{Chcê zabraæ Jonny'ego do domu do rodziców.}
-{160}{}{Czy¿by zmiana decyzji o pomocy nam?}
-{161}{}{Najpierw muszê zadaæ parê pytañ.}
-{162}{}{Odpowiedz wci¹¿ brzmi "nie".}
-{163}{}{Dobrze, pomogê wam.}
-{165}{}{Dziêkujemy serdecznie za pomoc. Zawsze bêdzie nam mi³o ciê tutaj widzieæ. W podziêkowaniu za pomoc, chcia³bym podarowaæ ci to. [Vegeir wrêcza ci karabin]}
-{166}{}{Dziêkujemy za pomoc. Zawsze bêdzie nam mi³o ciê tu widzieæ.}
-{167}{}{Czy mogê teraz zabraæ Jonny'ego do jego rodziców?}
-{168}{}{Proszê, wybacz te nieprzyjemne okolicznoœci, w jakich siê poznajemy. Normalnie Obroñcy próbowaliby ciê wystraszyæ. Zwykle grzechot ³añcuchów i trochê przenikliwego zawodzenia wystarcz¹ do wystraszenia ka¿dego, ale ostatnio dostali polecenie, aby ka¿dego powierzchniowca, którego spotkaj¹, przyprowadziæ do mnie.}
-{169}{}{Nie ma sprawy. Czas ju¿ na mnie.}
+{102}{}{Wysoki, postawny mÄ™Å¼czyzna. Jego ruchy przypominajÄ… ci przyczajonego tygrysa.}
+{150}{}{MoÅ¼esz wyjÅ›Ä‡ stÄ…d przez wÅ‚az znajdujÄ…cy siÄ™ na tyÅ‚ach budynku.}
+{151}{}{PrzekaÅ¼ proszÄ™ wiadomoÅ›Ä‡ do Modoc.}
+{152}{}{Modoc jest na poÅ‚udnie.}
+{153}{}{Na poÅ‚udnie.}
+{154}{}{Nie, to drugie poÅ‚udnie.}
+{155}{}{GoÅ›Ä‡ - znakomicie siÄ™ skÅ‚ada. ZastanawiaÅ‚em siÄ™, jak nawiÄ…zaÄ‡ kontakt z powierzchniowcami, ale widzÄ™, Å¼e nie muszÄ™ siÄ™ o to juÅ¼ martwiÄ‡ - dziÄ™ki twojemu przybyciu. Witaj w siedzibie Å»uÅ¼lowcÃ³w.}
+{156}{}{Åšwietnie, Å¼e jesteÅ› z powrotem. Rozumiem przez to, Å¼e wiadomoÅ›Ä‡ zostaÅ‚a dostarczona do Modoc. Jak zostaÅ‚a przyjÄ™ta?}
+{157}{}{PotrzebujÄ… trochÄ™ czasu, Å¼eby to przemyÅ›leÄ‡.}
+{158}{}{MajÄ… pewne zastrzeÅ¼enia.}
+{159}{}{ChcÄ™ zabraÄ‡ Jonny'ego do domu do rodzicÃ³w.}
+{160}{}{CzyÅ¼by zmiana decyzji o pomocy nam?}
+{161}{}{Najpierw muszÄ™ zadaÄ‡ parÄ™ pytaÅ„.}
+{162}{}{Odpowiedz wciÄ…Å¼ brzmi "nie".}
+{163}{}{Dobrze, pomogÄ™ wam.}
+{165}{}{DziÄ™kujemy serdecznie za pomoc. Zawsze bÄ™dzie nam miÅ‚o ciÄ™ tutaj widzieÄ‡. W podziÄ™kowaniu za pomoc, chciaÅ‚bym podarowaÄ‡ ci to. [Vegeir wrÄ™cza ci karabin]}
+{166}{}{DziÄ™kujemy za pomoc. Zawsze bÄ™dzie nam miÅ‚o ciÄ™ tu widzieÄ‡.}
+{167}{}{Czy mogÄ™ teraz zabraÄ‡ Jonny'ego do jego rodzicÃ³w?}
+{168}{}{ProszÄ™, wybacz te nieprzyjemne okolicznoÅ›ci, w jakich siÄ™ poznajemy. Normalnie ObroÅ„cy prÃ³bowaliby ciÄ™ wystraszyÄ‡. Zwykle grzechot Å‚aÅ„cuchÃ³w i trochÄ™ przenikliwego zawodzenia wystarczÄ… do wystraszenia kaÅ¼dego, ale ostatnio dostali polecenie, aby kaÅ¼dego powierzchniowca, ktÃ³rego spotkajÄ…, przyprowadziÄ‡ do mnie.}
+{169}{}{Nie ma sprawy. Czas juÅ¼ na mnie.}
 {170}{}{Czego ode mnie chcesz?}
 {171}{}{Duchy?}
-{172}{}{Pójdziesz JEŒLI i KIEDY ja zadecydujê, ¿e mo¿esz iœæ. Nie wczeœniej.}
-{173}{}{Prosta proœba. Musimy nawi¹zaæ kontakt z miastem na po³udniowym zachodzie. Jak siê orientujê, nazywa siê "Modoc". Zrobisz to dla nas?}
-{174}{}{Co bêdê z tego mieæ?}
-{175}{}{Mam wiele pytañ przed podjêciem siê tej misji.}
-{176}{}{W porz¹dku. Nie oczekiwa³bym, aby ktokolwiek w ciemno podejmowa³ siê wykonania zadania dla obcej osoby bez wczeœniejszego wywiedzenia siê nieco o niej samej. Zadawaj pytania, a odpowiem na nie najlepiej, jak potrafiê.}
-{177}{}{Dlaczego nie wyœlesz z t¹ wiadomoœci¹ kogoœ z twoich w³asnych ludzi?}
+{172}{}{PÃ³jdziesz JEÅšLI i KIEDY ja zadecydujÄ™, Å¼e moÅ¼esz iÅ›Ä‡. Nie wczeÅ›niej.}
+{173}{}{Prosta proÅ›ba. Musimy nawiÄ…zaÄ‡ kontakt z miastem na poÅ‚udniowym zachodzie. Jak siÄ™ orientujÄ™, nazywa siÄ™ "Modoc". Zrobisz to dla nas?}
+{174}{}{Co bÄ™dÄ™ z tego mieÄ‡?}
+{175}{}{Mam wiele pytaÅ„ przed podjÄ™ciem siÄ™ tej misji.}
+{176}{}{W porzÄ…dku. Nie oczekiwaÅ‚bym, aby ktokolwiek w ciemno podejmowaÅ‚ siÄ™ wykonania zadania dla obcej osoby bez wczeÅ›niejszego wywiedzenia siÄ™ nieco o niej samej. Zadawaj pytania, a odpowiem na nie najlepiej, jak potrafiÄ™.}
+{177}{}{Dlaczego nie wyÅ›lesz z tÄ… wiadomoÅ›ciÄ… kogoÅ› z twoich wÅ‚asnych ludzi?}
 {178}{}{Opowiedz mi o twoich ludziach.}
 {179}{}{Jaki macie system obronny?}
-{180}{}{To mi wystarczy. Czas podj¹æ decyzjê.}
-{181}{}{Pytaj œmia³o.}
-{190}{}{Dlaczego powróciliœcie na powierzchniê?}
-{191}{}{Po co ten ca³y teatr z duchami?}
-{192}{}{Co chcesz osi¹gn¹æ poprzez tê wiadomoœæ?}
-{194}{}{Od czasów Zapieczêtowania, my, jako ludzie, zmieniliœmy siê. Tylko nieliczni wytrzymuj¹ na powierzchni, poniewa¿ nie s¹ przyzwyczajeni do czarnej pustki nad g³ow¹. Strach przed odpadniêciem do góry od Ziemi jest po wyjœciu tak du¿y, ¿e padaj¹ i le¿¹ jak pora¿eni, trzymaj¹c siê kurczowo ziemi. Ale to nie jest g³ówna przyczyna. ¯aden z nas nie wytrzymuje tego jasnego œwiat³a tam na górze, na które mówicie S³oñce. ¯ycie w podziemiach przez tak d³ugi czas sprawi³o, ¿e nasze oczy s¹ zbyt wra¿liwe na œwiat³o. Nie mo¿emy przemieszczaæ siê zbyt daleko od naszych domów tu, pod ziemi¹.}
-{195}{}{Mogê zadaæ jeszcze kilka pytañ?}
-{197}{}{Kiedyœ, dawno temu byliœmy tacy jak powierzchniowcy. My te¿ przemierzaliœmy Ziemiê, do momentu gdy ca³y œwiat stan¹³ w ogniu. Nasi przodkowie - bêd¹cy czêœci¹ tajnej milicji - dla bezpieczeñstwa zapieczêtowali siebie i swoje rodziny tutaj na dole. Przez pokolenia, pozostawaliœmy tu bezpiecznie schowani wewn¹trz ³ona naszej Matki Ziemi.}
-{200}{}{Liczba ludnoœci ros³a tu ci¹gle od Zapieczêtowania. Wkrótce sta³o siê jasne, ¿e nie poradzimy sobie pod ziemi¹ bez dodatkowych zapasów ¿ywnoœci. Tak wiêc Pieczêæ zosta³a z³amana, a my ponownie spróbowaliœmy poszukaæ ratunku na powierzchni.}
-{203}{}{Parê lat temu ktoœ próbowa³ zagarn¹æ nasz¹ farmê, kradn¹c nasze uprawy i zwierzêta, nie maj¹c do tego ¿adnego prawa. Z natury jesteœmy pokojowo nastawieni do innych, ale coœ trzeba by³o zrobiæ. Nasz los zale¿a³ w tym czasie od tych upraw. Wtedy narodzi³ siê ten pomys³ z duchami. Wysmarowani fosforyzuj¹cymi grzybami, daliœmy radê wystraszyæ na dobre z³odzieja i innych ciekawskich. Niestety, chyba za dobrze nam posz³o. PóŸniej, szukaj¹c kontaktu z powierzchniowcami okaza³o siê, ¿e nikt nawet siê nie zbli¿a do farmy w obawie przed upiorami. Gdyby nie twoja wizyta...}
-{206}{}{Wystarczy! Koniec pytañ. Podejmuj decyzjê - natychmiast!}
-{207}{}{Przykro mi, nie mogê wam pomóc.}
-{208}{}{Tak, z chêci¹ zaniosê wiadomoœæ do Modoc.}
-{209}{}{Przykro mi to s³yszeæ. Czuj siê wiêc naszym goœciem. Gdy w koñcu uda nam siê nawi¹zaæ kontakt z powierzchniowcami, mo¿esz odejœæ. Do tego czasu, nie próbuj na w³asn¹ rêkê opuszczaæ jaskiñ - konsekwencje takiego czynu mog¹ byæ bardzo nieprzyjemne...}
-{210}{}{Po ukoñczeniu nowego systemu nawadniania, produkcja ¿ywnoœci przerasta nasze potrzeby. Chcemy nawi¹zaæ kontakty handlowe z powierzchniowcami i wymieniæ nadwy¿kê po¿ywienia na tak potrzebne nam lekarstwa.}
-{213}{}{Proszê, oœwieæ nas sw¹ wiedz¹.}
-{216}{}{Wiedzia³em, ¿e nas zrozumiesz. Oto wiadomoœæ z nasz¹ propozycj¹. Zabierz j¹ do Modoc i przeka¿ odpowiedniej osobie. Powróæ do nas, gdy wykonasz zadanie. Powiem Obroñcom, aby ciê oczekiwali. Chcielibyœmy ci jeszcze raz podziêkowaæ za pomoc.}
-{217}{}{Jakie¿ to typowe dla powierzchniowców. Nigdy nie rób niczego dla innych, tak d³ugo jak nie masz w tym w³asnego interesu. Oczywiœcie, ¿e nie mo¿emy zaufaæ takiej osobie jak ty. Znajdziemy kogo innego do przekazania wiadomoœci. Chocia¿ nie lubimy przemocy, nie radzimy wychodziæ z podziemi - w przeciwnym razie po¿a³ujesz tego.}
-{218}{}{Hmm... Rozumiem. Nie jest to prosta decyzja. Proszê, informuj mnie na bie¿¹co, jak siê rozwijaj¹ sprawy.}
-{219}{}{W takim razie daj mi spokój.}
+{180}{}{To mi wystarczy. Czas podjÄ…Ä‡ decyzjÄ™.}
+{181}{}{Pytaj Å›miaÅ‚o.}
+{190}{}{Dlaczego powrÃ³ciliÅ›cie na powierzchniÄ™?}
+{191}{}{Po co ten caÅ‚y teatr z duchami?}
+{192}{}{Co chcesz osiÄ…gnÄ…Ä‡ poprzez tÄ™ wiadomoÅ›Ä‡?}
+{194}{}{Od czasÃ³w ZapieczÄ™towania, my, jako ludzie, zmieniliÅ›my siÄ™. Tylko nieliczni wytrzymujÄ… na powierzchni, poniewaÅ¼ nie sÄ… przyzwyczajeni do czarnej pustki nad gÅ‚owÄ…. Strach przed odpadniÄ™ciem do gÃ³ry od Ziemi jest po wyjÅ›ciu tak duÅ¼y, Å¼e padajÄ… i leÅ¼Ä… jak poraÅ¼eni, trzymajÄ…c siÄ™ kurczowo ziemi. Ale to nie jest gÅ‚Ã³wna przyczyna. Å»aden z nas nie wytrzymuje tego jasnego Å›wiatÅ‚a tam na gÃ³rze, na ktÃ³re mÃ³wicie SÅ‚oÅ„ce. Å»ycie w podziemiach przez tak dÅ‚ugi czas sprawiÅ‚o, Å¼e nasze oczy sÄ… zbyt wraÅ¼liwe na Å›wiatÅ‚o. Nie moÅ¼emy przemieszczaÄ‡ siÄ™ zbyt daleko od naszych domÃ³w tu, pod ziemiÄ….}
+{195}{}{MogÄ™ zadaÄ‡ jeszcze kilka pytaÅ„?}
+{197}{}{KiedyÅ›, dawno temu byliÅ›my tacy jak powierzchniowcy. My teÅ¼ przemierzaliÅ›my ZiemiÄ™, do momentu gdy caÅ‚y Å›wiat stanÄ…Å‚ w ogniu. Nasi przodkowie - bÄ™dÄ…cy czÄ™Å›ciÄ… tajnej milicji - dla bezpieczeÅ„stwa zapieczÄ™towali siebie i swoje rodziny tutaj na dole. Przez pokolenia, pozostawaliÅ›my tu bezpiecznie schowani wewnÄ…trz Å‚ona naszej Matki Ziemi.}
+{200}{}{Liczba ludnoÅ›ci rosÅ‚a tu ciÄ…gle od ZapieczÄ™towania. WkrÃ³tce staÅ‚o siÄ™ jasne, Å¼e nie poradzimy sobie pod ziemiÄ… bez dodatkowych zapasÃ³w Å¼ywnoÅ›ci. Tak wiÄ™c PieczÄ™Ä‡ zostaÅ‚a zÅ‚amana, a my ponownie sprÃ³bowaliÅ›my poszukaÄ‡ ratunku na powierzchni.}
+{203}{}{ParÄ™ lat temu ktoÅ› prÃ³bowaÅ‚ zagarnÄ…Ä‡ naszÄ… farmÄ™, kradnÄ…c nasze uprawy i zwierzÄ™ta, nie majÄ…c do tego Å¼adnego prawa. Z natury jesteÅ›my pokojowo nastawieni do innych, ale coÅ› trzeba byÅ‚o zrobiÄ‡. Nasz los zaleÅ¼aÅ‚ w tym czasie od tych upraw. Wtedy narodziÅ‚ siÄ™ ten pomysÅ‚ z duchami. Wysmarowani fosforyzujÄ…cymi grzybami, daliÅ›my radÄ™ wystraszyÄ‡ na dobre zÅ‚odzieja i innych ciekawskich. Niestety, chyba za dobrze nam poszÅ‚o. PÃ³Åºniej, szukajÄ…c kontaktu z powierzchniowcami okazaÅ‚o siÄ™, Å¼e nikt nawet siÄ™ nie zbliÅ¼a do farmy w obawie przed upiorami. Gdyby nie twoja wizyta...}
+{206}{}{Wystarczy! Koniec pytaÅ„. Podejmuj decyzjÄ™ - natychmiast!}
+{207}{}{Przykro mi, nie mogÄ™ wam pomÃ³c.}
+{208}{}{Tak, z chÄ™ciÄ… zaniosÄ™ wiadomoÅ›Ä‡ do Modoc.}
+{209}{}{Przykro mi to sÅ‚yszeÄ‡. Czuj siÄ™ wiÄ™c naszym goÅ›ciem. Gdy w koÅ„cu uda nam siÄ™ nawiÄ…zaÄ‡ kontakt z powierzchniowcami, moÅ¼esz odejÅ›Ä‡. Do tego czasu, nie prÃ³buj na wÅ‚asnÄ… rÄ™kÄ™ opuszczaÄ‡ jaskiÅ„ - konsekwencje takiego czynu mogÄ… byÄ‡ bardzo nieprzyjemne...}
+{210}{}{Po ukoÅ„czeniu nowego systemu nawadniania, produkcja Å¼ywnoÅ›ci przerasta nasze potrzeby. Chcemy nawiÄ…zaÄ‡ kontakty handlowe z powierzchniowcami i wymieniÄ‡ nadwyÅ¼kÄ™ poÅ¼ywienia na tak potrzebne nam lekarstwa.}
+{213}{}{ProszÄ™, oÅ›wieÄ‡ nas swÄ… wiedzÄ….}
+{216}{}{WiedziaÅ‚em, Å¼e nas zrozumiesz. Oto wiadomoÅ›Ä‡ z naszÄ… propozycjÄ…. Zabierz jÄ… do Modoc i przekaÅ¼ odpowiedniej osobie. PowrÃ³Ä‡ do nas, gdy wykonasz zadanie. Powiem ObroÅ„com, aby ciÄ™ oczekiwali. ChcielibyÅ›my ci jeszcze raz podziÄ™kowaÄ‡ za pomoc.}
+{217}{}{JakieÅ¼ to typowe dla powierzchniowcÃ³w. Nigdy nie rÃ³b niczego dla innych, tak dÅ‚ugo jak nie masz w tym wÅ‚asnego interesu. OczywiÅ›cie, Å¼e nie moÅ¼emy zaufaÄ‡ takiej osobie jak ty. Znajdziemy kogo innego do przekazania wiadomoÅ›ci. ChociaÅ¼ nie lubimy przemocy, nie radzimy wychodziÄ‡ z podziemi - w przeciwnym razie poÅ¼aÅ‚ujesz tego.}
+{218}{}{Hmm... Rozumiem. Nie jest to prosta decyzja. ProszÄ™, informuj mnie na bieÅ¼Ä…co, jak siÄ™ rozwijajÄ… sprawy.}
+{219}{}{W takim razie daj mi spokÃ³j.}
 {220}{}{O co?}
-{221}{}{Nie ufaj¹ wam. Jak by na to nie patrzeæ, zabiliœcie niewinnych podró¿nych i powtykaliœcie ich martwe zw³oki na pale przed farm¹.}
-{222}{}{Chc¹ wiedzieæ, co siê sta³o z farmerem, który tu mieszka³.}
-{223}{}{¯yjemy w pokoju i nie zabiliœmy nikogo. Te cia³a to kuk³y, które sami zrobiliœmy, aby odstraszyæ tych, którzy nas okradali. Jeœli im siê przyjrzysz, przekonasz siê, ¿e to jedynie manekiny obwieszone braminimi wnêtrznoœciami.}
-{224}{}{W takim razie co siê sta³o z Karlem, wiesz, tym farmerem, który tu mieszka³?}
-{225}{}{Tak mia³ na imiê - Karl? Wystraszyliœmy go i uciek³ z farmy - to wszystko. Myœlê, ¿e wróci³ do domu, kiedy odkry³, ¿e farma jest nawiedzona. Obroñcy widzieli, jak odchodzi na zachód. Spróbuj poszukaæ go w tamt¹ stronê.}
-{226}{}{Bêdê ciê informowaæ jak sprawy stoj¹.}
-{227}{}{Wystraszyliœmy go i uciek³ z farmy - to wszystko. Myœlê, ¿e wróci³ do domu, kiedy odkry³, ¿e farma jest nawiedzona. Obroñcy widzieli, jak odchodzi na zachód. Spróbuj poszukaæ go w tamt¹ stronê.}
-{231}{}{Widzê, ¿e spotka³eœ ju¿ Jonnego. ZnaleŸliœmy go b³¹kaj¹cego siê w ciemnoœciach w jednym z najg³êbszych korytarzy. Powiedzia³, ¿e wpad³ do wyschniêtej studni ko³o jego domu i pob³¹dzi³ w podziemnych korytarzach. Traktujemy go jak jednego z nas i wszyscy bardzo go polubili - dlatego rozumiesz, ¿e mam w¹tpliwoœci, czy mogê oddaæ go w rêce obcego, który dopiero musi udowodniæ, ¿e jest godny zaufania. Oddam Jonny'ego, kiedy bêdê pewny, ¿e bezpiecznie wróci do domu.}
-{232}{}{Jesteœ osob¹ godn¹ zaufania, nie mam co do tego w¹tpliwoœci. Mimo tego, ¿e bêdzie nam brakowaæ ma³ego Jonny'ego, zorganizowaliœmy dla was eskortê, abyœcie bezpiecznie powrócili do Modoc.}
-{233}{}{Jeeezu! Nie dziwota, ¿e nie boisz siê naszych ma³ych sztuczek. Twoja g³upota przerasta twój strach. Skrêca mnie, jak pomyœlê, ¿e muszê polegaæ na pó³g³ówku, ale nie mamy innego wyjœcia. Zanieœ tê wiadomoœæ do Modoc. Daj j¹ przywódcy Modoc i postaraj siê nie zgubiæ po drodze.}
-{300}{}{Chyba ju¿ pójdê.}
+{221}{}{Nie ufajÄ… wam. Jak by na to nie patrzeÄ‡, zabiliÅ›cie niewinnych podrÃ³Å¼nych i powtykaliÅ›cie ich martwe zwÅ‚oki na pale przed farmÄ….}
+{222}{}{ChcÄ… wiedzieÄ‡, co siÄ™ staÅ‚o z farmerem, ktÃ³ry tu mieszkaÅ‚.}
+{223}{}{Å»yjemy w pokoju i nie zabiliÅ›my nikogo. Te ciaÅ‚a to kukÅ‚y, ktÃ³re sami zrobiliÅ›my, aby odstraszyÄ‡ tych, ktÃ³rzy nas okradali. JeÅ›li im siÄ™ przyjrzysz, przekonasz siÄ™, Å¼e to jedynie manekiny obwieszone braminimi wnÄ™trznoÅ›ciami.}
+{224}{}{W takim razie co siÄ™ staÅ‚o z Karlem, wiesz, tym farmerem, ktÃ³ry tu mieszkaÅ‚?}
+{225}{}{Tak miaÅ‚ na imiÄ™ - Karl? WystraszyliÅ›my go i uciekÅ‚ z farmy - to wszystko. MyÅ›lÄ™, Å¼e wrÃ³ciÅ‚ do domu, kiedy odkryÅ‚, Å¼e farma jest nawiedzona. ObroÅ„cy widzieli, jak odchodzi na zachÃ³d. SprÃ³buj poszukaÄ‡ go w tamtÄ… stronÄ™.}
+{226}{}{BÄ™dÄ™ ciÄ™ informowaÄ‡ jak sprawy stojÄ….}
+{227}{}{WystraszyliÅ›my go i uciekÅ‚ z farmy - to wszystko. MyÅ›lÄ™, Å¼e wrÃ³ciÅ‚ do domu, kiedy odkryÅ‚, Å¼e farma jest nawiedzona. ObroÅ„cy widzieli, jak odchodzi na zachÃ³d. SprÃ³buj poszukaÄ‡ go w tamtÄ… stronÄ™.}
+{231}{}{WidzÄ™, Å¼e spotkaÅ‚eÅ› juÅ¼ Jonnego. ZnaleÅºliÅ›my go bÅ‚Ä…kajÄ…cego siÄ™ w ciemnoÅ›ciach w jednym z najgÅ‚Ä™bszych korytarzy. PowiedziaÅ‚, Å¼e wpadÅ‚ do wyschniÄ™tej studni koÅ‚o jego domu i pobÅ‚Ä…dziÅ‚ w podziemnych korytarzach. Traktujemy go jak jednego z nas i wszyscy bardzo go polubili - dlatego rozumiesz, Å¼e mam wÄ…tpliwoÅ›ci, czy mogÄ™ oddaÄ‡ go w rÄ™ce obcego, ktÃ³ry dopiero musi udowodniÄ‡, Å¼e jest godny zaufania. Oddam Jonny'ego, kiedy bÄ™dÄ™ pewny, Å¼e bezpiecznie wrÃ³ci do domu.}
+{232}{}{JesteÅ› osobÄ… godnÄ… zaufania, nie mam co do tego wÄ…tpliwoÅ›ci. Mimo tego, Å¼e bÄ™dzie nam brakowaÄ‡ maÅ‚ego Jonny'ego, zorganizowaliÅ›my dla was eskortÄ™, abyÅ›cie bezpiecznie powrÃ³cili do Modoc.}
+{233}{}{Jeeezu! Nie dziwota, Å¼e nie boisz siÄ™ naszych maÅ‚ych sztuczek. Twoja gÅ‚upota przerasta twÃ³j strach. SkrÄ™ca mnie, jak pomyÅ›lÄ™, Å¼e muszÄ™ polegaÄ‡ na pÃ³Å‚gÅ‚Ã³wku, ale nie mamy innego wyjÅ›cia. ZanieÅ› tÄ™ wiadomoÅ›Ä‡ do Modoc. Daj jÄ… przywÃ³dcy Modoc i postaraj siÄ™ nie zgubiÄ‡ po drodze.}
+{300}{}{Chyba juÅ¼ pÃ³jdÄ™.}
 {301}{}{Czego ode mnie chcesz?}
 {302}{}{Bywaj.}
 {303}{}{Duchy?}
-{400}{}{Wiadomoœæ zosta³a dobrze zaakceptowana. Mieszkañcy Modoc chcieliby zacz¹æ z wami handlowaæ.}
+{400}{}{WiadomoÅ›Ä‡ zostaÅ‚a dobrze zaakceptowana. MieszkaÅ„cy Modoc chcieliby zaczÄ…Ä‡ z wami handlowaÄ‡.}

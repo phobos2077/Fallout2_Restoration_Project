@@ -1,1 +1,1 @@
-{100}{}{Tu es entré dans le quartier résidentiel de La Fosse.}
+{100}{}{Tu es entrÃ© dans le quartier rÃ©sidentiel de La Fosse.}

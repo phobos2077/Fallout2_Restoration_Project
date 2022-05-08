@@ -1,119 +1,119 @@
 {100}{}{Egy bandatag.}
 {101}{}{Joey.}
-{150}{}{Ez a figura nem valami barátságos.}
-{151}{}{[Beszélgetés]}
-{152}{}{Szanaszétváglak, balfasz!}
-{153}{}{Igen? Gyere, és próbáld meg!}
-{154}{}{Hé, várj csak egy percet!}
-{155}{}{A helyedben kétszer is meggondolnám.}
-{156}{}{Mit akarsz? Azután, amit tettél, meg kéne, hogy öljelek, nem itt hallgatom a süket dumádat!}
-{157}{}{Az éjszaka errefelé kísért? szellemr?l akarok beszélni veled.}
-{158}{}{Kivittél egy medált a kísértetjárta házból?}
-{159}{}{Hagyjuk ezt! Inkább ellátom a bajod!}
-{160}{}{Semmit nem akarok. Csak erre jártam.}
-{161}{}{Mi a fenér?l beszélsz?}
-{162}{}{Elloptál egy medált a kísértetjárta házból?}
-{163}{}{Semmi-semmi... Nem érdekes.}
-{164}{}{Ejtsük a témát! Inkább megöllek most, a részeket meg majd kés?bb átvizsgálom.}
+{150}{}{Ez a figura nem valami barÃ¡tsÃ¡gos.}
+{151}{}{[BeszÃ©lgetÃ©s]}
+{152}{}{SzanaszÃ©tvÃ¡glak, balfasz!}
+{153}{}{Igen? Gyere, Ã©s prÃ³bÃ¡ld meg!}
+{154}{}{HÃ©, vÃ¡rj csak egy percet!}
+{155}{}{A helyedben kÃ©tszer is meggondolnÃ¡m.}
+{156}{}{Mit akarsz? AzutÃ¡n, amit tettÃ©l, meg kÃ©ne, hogy Ã¶ljelek, nem itt hallgatom a sÃ¼ket dumÃ¡dat!}
+{157}{}{Az Ã©jszaka errefelÃ© kÃ­sÃ©rt? szellemr?l akarok beszÃ©lni veled.}
+{158}{}{KivittÃ©l egy medÃ¡lt a kÃ­sÃ©rtetjÃ¡rta hÃ¡zbÃ³l?}
+{159}{}{Hagyjuk ezt! InkÃ¡bb ellÃ¡tom a bajod!}
+{160}{}{Semmit nem akarok. Csak erre jÃ¡rtam.}
+{161}{}{Mi a fenÃ©r?l beszÃ©lsz?}
+{162}{}{ElloptÃ¡l egy medÃ¡lt a kÃ­sÃ©rtetjÃ¡rta hÃ¡zbÃ³l?}
+{163}{}{Semmi-semmi... Nem Ã©rdekes.}
+{164}{}{EjtsÃ¼k a tÃ©mÃ¡t! InkÃ¡bb megÃ¶llek most, a rÃ©szeket meg majd kÃ©s?bb Ã¡tvizsgÃ¡lom.}
 {165}{}{I-I don't know what you're talking about.}
-{166}{}{Szerintem te voltál! Elloptad egy halott lány medálját, ezért nem tud nyugodni a szelleme.}
+{166}{}{Szerintem te voltÃ¡l! Elloptad egy halott lÃ¡ny medÃ¡ljÃ¡t, ezÃ©rt nem tud nyugodni a szelleme.}
 {167}{}{Akkor elveszem er?vel!}
-{168}{}{E-Ez k-kurva nagy hülyeség! N-Neked t-tényleg megártott a Tubby-féle szar anyag. Én még s-soha nem l-láttam szellemeket ott. CS-Csak egy kellemetlen képfoszlány volt, kurvára nem igazi.}
-{169}{}{Mit szólnál, ha megvenném t?led?}
+{168}{}{E-Ez k-kurva nagy hÃ¼lyesÃ©g! N-Neked t-tÃ©nyleg megÃ¡rtott a Tubby-fÃ©le szar anyag. Ã‰n mÃ©g s-soha nem l-lÃ¡ttam szellemeket ott. CS-Csak egy kellemetlen kÃ©pfoszlÃ¡ny volt, kurvÃ¡ra nem igazi.}
+{169}{}{Mit szÃ³lnÃ¡l, ha megvennÃ©m t?led?}
 {170}{}{Add ide, vagy csatlakozhatsz a szellemhez!}
-{171}{}{Ha nem adod vissza most, állandóan üldözni fog! És ?t bizony nem lehet megállítani!}
-{172}{}{Hogy? Jaja... Igen... A-az már tuti biztos. Nyomass egy kis zsét, biztos, ami biztos! Ingyen nem kapod meg! 50 dolcsi, vagy lehet lekopni!}
-{173}{}{Oké, itt a pénz.}
-{174}{}{Nesze 20 dollár, és légy boldog, hogy nem vettem el csak úgy t?led!}
-{175}{}{Nem-nem, meggondoltam magam. Viszlát!}
-{176}{}{Add ide, vagy megöllek!}
-{177}{}{Tessék. És most hagyj magamra!}
-{178}{}{Örömmel.}
-{179}{}{Nehogy még egyszer elkapjalak ilyesmivel!}
-{180}{}{H-Hé! Nincs nálad a pénz! T?nj innen a pokolba!}
-{181}{}{Upsz. Visszajövök.}
-{182}{}{Akkor, azt hiszem, meg kell, hogy öljelek.}
+{171}{}{Ha nem adod vissza most, Ã¡llandÃ³an Ã¼ldÃ¶zni fog! Ã‰s ?t bizony nem lehet megÃ¡llÃ­tani!}
+{172}{}{Hogy? Jaja... Igen... A-az mÃ¡r tuti biztos. Nyomass egy kis zsÃ©t, biztos, ami biztos! Ingyen nem kapod meg! 50 dolcsi, vagy lehet lekopni!}
+{173}{}{OkÃ©, itt a pÃ©nz.}
+{174}{}{Nesze 20 dollÃ¡r, Ã©s lÃ©gy boldog, hogy nem vettem el csak Ãºgy t?led!}
+{175}{}{Nem-nem, meggondoltam magam. ViszlÃ¡t!}
+{176}{}{Add ide, vagy megÃ¶llek!}
+{177}{}{TessÃ©k. Ã‰s most hagyj magamra!}
+{178}{}{Ã–rÃ¶mmel.}
+{179}{}{Nehogy mÃ©g egyszer elkapjalak ilyesmivel!}
+{180}{}{H-HÃ©! Nincs nÃ¡lad a pÃ©nz! T?nj innen a pokolba!}
+{181}{}{Upsz. VisszajÃ¶vÃ¶k.}
+{182}{}{Akkor, azt hiszem, meg kell, hogy Ã¶ljelek.}
 {183}{}{Mi a helyzet?}
-{184}{}{Okés, és veled mi van?}
-{185}{}{Nem túl jól.}
-{186}{}{Kivittél egy medált a kísértetjárta házból?}
-{187}{}{Mit tudsz az éjszakánként erre kísért? szellemr?l?}
-{188}{}{Hé, öregem! Joey vagyok. Mit csinálsz te a vadászterületemen?}
-{189}{}{A te vadászterületed? Nem hinném.}
-{190}{}{Talán épp téged kereslek.}
-{191}{}{Csupán lelépek. Üdv!}
-{192}{}{Némi infót szeretnék.}
-{193}{}{Hé, cukorfalat. Joeyt keresed? Itt vagyok.}
-{194}{}{Nem. Lelépek!}
-{195}{}{Talán. Mit tudsz ajánlani?}
-{196}{}{Információt szeretnék.}
-{197}{}{Sajnálom, nem. Mennem kell.}
-{198}{}{Hé, van nálam egy kis Jet. Vadi új és baromi jó anyag Renóból. Kérsz?}
+{184}{}{OkÃ©s, Ã©s veled mi van?}
+{185}{}{Nem tÃºl jÃ³l.}
+{186}{}{KivittÃ©l egy medÃ¡lt a kÃ­sÃ©rtetjÃ¡rta hÃ¡zbÃ³l?}
+{187}{}{Mit tudsz az Ã©jszakÃ¡nkÃ©nt erre kÃ­sÃ©rt? szellemr?l?}
+{188}{}{HÃ©, Ã¶regem! Joey vagyok. Mit csinÃ¡lsz te a vadÃ¡szterÃ¼letemen?}
+{189}{}{A te vadÃ¡szterÃ¼leted? Nem hinnÃ©m.}
+{190}{}{TalÃ¡n Ã©pp tÃ©ged kereslek.}
+{191}{}{CsupÃ¡n lelÃ©pek. Ãœdv!}
+{192}{}{NÃ©mi infÃ³t szeretnÃ©k.}
+{193}{}{HÃ©, cukorfalat. Joeyt keresed? Itt vagyok.}
+{194}{}{Nem. LelÃ©pek!}
+{195}{}{TalÃ¡n. Mit tudsz ajÃ¡nlani?}
+{196}{}{InformÃ¡ciÃ³t szeretnÃ©k.}
+{197}{}{SajnÃ¡lom, nem. Mennem kell.}
+{198}{}{HÃ©, van nÃ¡lam egy kis Jet. Vadi Ãºj Ã©s baromi jÃ³ anyag RenÃ³bÃ³l. KÃ©rsz?}
 {199}{}{Dehogyis!}
 {200}{}{Mennyi?}
-{201}{}{Nem, nekem információra van szükségem.}
-{202}{}{Mennem kell. Viszlát!}
-{203}{}{Mit szólnál, ha te és én összejönnénk kicsit?}
-{204}{}{Oké.}
-{205}{}{Még akkor sem, ha te lennél az utolsó nem-mutáns a földön.}
-{206}{}{Öö, nem... Nem hiszem. Másra van szükségem.}
-{207}{}{Visszajösz te még...}
-{208}{}{Talán.}
-{209}{}{Ne számíts rá!}
-{210}{}{Várj, kérdezhetek valamit?}
-{211}{}{Senki nem beszélhet így velem!}
-{212}{}{Én igen. Tudsz mást is a beszéden kívül?}
-{213}{}{Mindegy. Árulsz is valamit, vagy csak a szádat jártatod?}
-{214}{}{Elnézésedet kérem. Csak nézel?dök, nem ismerem még a környéket.}
+{201}{}{Nem, nekem informÃ¡ciÃ³ra van szÃ¼ksÃ©gem.}
+{202}{}{Mennem kell. ViszlÃ¡t!}
+{203}{}{Mit szÃ³lnÃ¡l, ha te Ã©s Ã©n Ã¶sszejÃ¶nnÃ©nk kicsit?}
+{204}{}{OkÃ©.}
+{205}{}{MÃ©g akkor sem, ha te lennÃ©l az utolsÃ³ nem-mutÃ¡ns a fÃ¶ldÃ¶n.}
+{206}{}{Ã–Ã¶, nem... Nem hiszem. MÃ¡sra van szÃ¼ksÃ©gem.}
+{207}{}{VisszajÃ¶sz te mÃ©g...}
+{208}{}{TalÃ¡n.}
+{209}{}{Ne szÃ¡mÃ­ts rÃ¡!}
+{210}{}{VÃ¡rj, kÃ©rdezhetek valamit?}
+{211}{}{Senki nem beszÃ©lhet Ã­gy velem!}
+{212}{}{Ã‰n igen. Tudsz mÃ¡st is a beszÃ©den kÃ­vÃ¼l?}
+{213}{}{Mindegy. Ãrulsz is valamit, vagy csak a szÃ¡dat jÃ¡rtatod?}
+{214}{}{ElnÃ©zÃ©sedet kÃ©rem. Csak nÃ©zel?dÃ¶k, nem ismerem mÃ©g a kÃ¶rnyÃ©ket.}
 {215}{}{Mit akarsz?}
-{216}{}{Egy medált keresek.}
-{217}{}{A kísértetházról szeretnék többet tudni.}
-{218}{}{Mi a helyzet az öreg templommal és az ottani ?rökkel?}
+{216}{}{Egy medÃ¡lt keresek.}
+{217}{}{A kÃ­sÃ©rtethÃ¡zrÃ³l szeretnÃ©k tÃ¶bbet tudni.}
+{218}{}{Mi a helyzet az Ã¶reg templommal Ã©s az ottani ?rÃ¶kkel?}
 {219}{}{Semmi hasznodat sem lehet venni.}
-{220}{}{Hallott már a 13-as Menedékr?l?}
-{221}{}{Öm, nem érdekes. Még találkozunk.}
-{222}{}{Ja, Tylerre és a bandájára gondolsz? Menedékvárosból jött valami szar, azt ?rzik. Kibaszott nagy ládák. Néhanapján láthatod, ahogy a karavánok viszik New Renóba.}
-{223}{}{Kérdezhetek még róluk?}
-{224}{}{Kérdezhetek valami mást?}
-{225}{}{Oké, köszi. Léptem!}
-{226}{}{Mit akarsz még tudni?}
+{220}{}{Hallott mÃ¡r a 13-as MenedÃ©kr?l?}
+{221}{}{Ã–m, nem Ã©rdekes. MÃ©g talÃ¡lkozunk.}
+{222}{}{Ja, Tylerre Ã©s a bandÃ¡jÃ¡ra gondolsz? MenedÃ©kvÃ¡rosbÃ³l jÃ¶tt valami szar, azt ?rzik. Kibaszott nagy lÃ¡dÃ¡k. NÃ©hanapjÃ¡n lÃ¡thatod, ahogy a karavÃ¡nok viszik New RenÃ³ba.}
+{223}{}{KÃ©rdezhetek mÃ©g rÃ³luk?}
+{224}{}{KÃ©rdezhetek valami mÃ¡st?}
+{225}{}{OkÃ©, kÃ¶szi. LÃ©ptem!}
+{226}{}{Mit akarsz mÃ©g tudni?}
 {227}{}{Ki az a Tyler?}
 {228}{}{New Reno merre van?}
-{229}{}{Hm, és mit ?riznek?}
-{230}{}{Szeretnék valami mást is kérdezni.}
+{229}{}{Hm, Ã©s mit ?riznek?}
+{230}{}{SzeretnÃ©k valami mÃ¡st is kÃ©rdezni.}
 {231}{}{Ennyi lenne. Cs?!}
-{232}{}{Tyler egy sunyi alak, aki mindannyiunkat átbaszott. Az egész bagázst kihagyta a Metzgerrel kötött nagy üzletb?l, de a faszomat se érdekli. Kurvára nem érdekel. Mondjuk kibaszottul picsán kéne rúgni ezért. ? és Lara még mindig haragszanak egymásra a Tyler és Lara testvére közötti balhé miatt.}
-{233}{}{Ez még jól jöhet. Kérdezhetek még róluk?}
-{234}{}{Kérdezhetek valami mást?}
-{235}{}{Oké, köszi. Léptem!}
-{236}{}{New Reno messze délen van és egy kicsit kelet felé. Elég sok mindent lehet ott csinálni, de kibaszott veszélyes. Talán egyszer még visszamegyek oda. Ha gondolod, megmutathatom azon a csini kis képerny?dön.}
-{237}{}{Azt hiszem, most már magam is megtalálom. Kérdezhetek még róluk?}
-{238}{}{Kérdezhetek valami mást?}
-{239}{}{Oké, köszi. Léptem!}
+{232}{}{Tyler egy sunyi alak, aki mindannyiunkat Ã¡tbaszott. Az egÃ©sz bagÃ¡zst kihagyta a Metzgerrel kÃ¶tÃ¶tt nagy Ã¼zletb?l, de a faszomat se Ã©rdekli. KurvÃ¡ra nem Ã©rdekel. Mondjuk kibaszottul picsÃ¡n kÃ©ne rÃºgni ezÃ©rt. ? Ã©s Lara mÃ©g mindig haragszanak egymÃ¡sra a Tyler Ã©s Lara testvÃ©re kÃ¶zÃ¶tti balhÃ© miatt.}
+{233}{}{Ez mÃ©g jÃ³l jÃ¶het. KÃ©rdezhetek mÃ©g rÃ³luk?}
+{234}{}{KÃ©rdezhetek valami mÃ¡st?}
+{235}{}{OkÃ©, kÃ¶szi. LÃ©ptem!}
+{236}{}{New Reno messze dÃ©len van Ã©s egy kicsit kelet felÃ©. ElÃ©g sok mindent lehet ott csinÃ¡lni, de kibaszott veszÃ©lyes. TalÃ¡n egyszer mÃ©g visszamegyek oda. Ha gondolod, megmutathatom azon a csini kis kÃ©perny?dÃ¶n.}
+{237}{}{Azt hiszem, most mÃ¡r magam is megtalÃ¡lom. KÃ©rdezhetek mÃ©g rÃ³luk?}
+{238}{}{KÃ©rdezhetek valami mÃ¡st?}
+{239}{}{OkÃ©, kÃ¶szi. LÃ©ptem!}
 {240}{}{Tudja a fene.}
-{241}{}{Érdekes. Kérdezhetek még róluk?}
-{242}{}{Kérdezhetek valami mást?}
-{243}{}{Oké, köszi. Léptem!}
-{244}{}{Csak neked, 500 dollárért megszámítom...}
-{245}{}{Nem, kösz. Viszlát!}
-{246}{}{Nem, köszi, de azért szeretnék még kérdezni t?led egy s mást.}
-{247}{}{Túl sok!}
-{248}{}{Oké, megveszem.}
-{249}{}{Ha nincs elég pénzed, gyere vissza kés?bb, amikor megengedheted magadnak! Nehogy meglássalak, hogy mástól vásárolsz, különben seggbe rúglak! Egyedül nálam kaphatod meg az igazi, tiszta anyagot, egyenesen New Renóból.}
-{250}{}{Várj csak, megveszem!}
-{251}{}{Kérdezhetek inkább valamit?}
-{252}{}{Viszlát!}
-{253}{}{Oké, leengedem az árat 350 dollárra, de nem tovább! Ez az utolsó ajánlatom. A csúcs anyagnak ára van. Ne vegyél Tubbytól vagy a többi pancsert?l semmit! Dúsítják az anyagukat. Messzi mérföldekre én vagyok az egyetlen, aki csak tuti anyagot árul.}
-{254}{}{Felejtsük el! Kérdezhetek valamit?}
-{255}{}{Oké, megveszem.}
-{256}{}{Ne is tör?dj vele! Viszlát!}
+{241}{}{Ã‰rdekes. KÃ©rdezhetek mÃ©g rÃ³luk?}
+{242}{}{KÃ©rdezhetek valami mÃ¡st?}
+{243}{}{OkÃ©, kÃ¶szi. LÃ©ptem!}
+{244}{}{Csak neked, 500 dollÃ¡rÃ©rt megszÃ¡mÃ­tom...}
+{245}{}{Nem, kÃ¶sz. ViszlÃ¡t!}
+{246}{}{Nem, kÃ¶szi, de azÃ©rt szeretnÃ©k mÃ©g kÃ©rdezni t?led egy s mÃ¡st.}
+{247}{}{TÃºl sok!}
+{248}{}{OkÃ©, megveszem.}
+{249}{}{Ha nincs elÃ©g pÃ©nzed, gyere vissza kÃ©s?bb, amikor megengedheted magadnak! Nehogy meglÃ¡ssalak, hogy mÃ¡stÃ³l vÃ¡sÃ¡rolsz, kÃ¼lÃ¶nben seggbe rÃºglak! EgyedÃ¼l nÃ¡lam kaphatod meg az igazi, tiszta anyagot, egyenesen New RenÃ³bÃ³l.}
+{250}{}{VÃ¡rj csak, megveszem!}
+{251}{}{KÃ©rdezhetek inkÃ¡bb valamit?}
+{252}{}{ViszlÃ¡t!}
+{253}{}{OkÃ©, leengedem az Ã¡rat 350 dollÃ¡rra, de nem tovÃ¡bb! Ez az utolsÃ³ ajÃ¡nlatom. A csÃºcs anyagnak Ã¡ra van. Ne vegyÃ©l TubbytÃ³l vagy a tÃ¶bbi pancsert?l semmit! DÃºsÃ­tjÃ¡k az anyagukat. Messzi mÃ©rfÃ¶ldekre Ã©n vagyok az egyetlen, aki csak tuti anyagot Ã¡rul.}
+{254}{}{FelejtsÃ¼k el! KÃ©rdezhetek valamit?}
+{255}{}{OkÃ©, megveszem.}
+{256}{}{Ne is tÃ¶r?dj vele! ViszlÃ¡t!}
 {257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
  with another new drug! Nothing can beat Jet!}
-{258}{}{Nem, te hülye.}
-{259}{}{Nem, ez egy lakóhely. Kérdezhetek valami mást?}
+{258}{}{Nem, te hÃ¼lye.}
+{259}{}{Nem, ez egy lakÃ³hely. KÃ©rdezhetek valami mÃ¡st?}
 {260}{}{Yes, a wonderful drug.}
-{261}{}{Nem, viszlát!}
-{262}{}{Joey nem egy kimondottan társalgós típus.}
-{300}{}{Valószín?leg nem. Viszlát!}
-{350}{}{Átaludtad az elmúlt heteket, vagy mi? Kiderült végül, hogy Lara egy mocskos kis szemétláda. Lel?tte Tylert. Úgy hallottam, hogy Metzger is benne volt a buliban. Hát, jobb, ha most visszamegyek... dolgozni.}
-{351}{}{Átaludtad az elmúlt heteket, vagy mi? Kiderült végül, hogy Lara egy mocskos kis szemétláda... kár, hogy meghalt. Tyler emberei intézték el. Utoljára azt hallottam, hogy a volt bandája ott ?zi most az ipart.}
+{261}{}{Nem, viszlÃ¡t!}
+{262}{}{Joey nem egy kimondottan tÃ¡rsalgÃ³s tÃ­pus.}
+{300}{}{ValÃ³szÃ­n?leg nem. ViszlÃ¡t!}
+{350}{}{Ãtaludtad az elmÃºlt heteket, vagy mi? KiderÃ¼lt vÃ©gÃ¼l, hogy Lara egy mocskos kis szemÃ©tlÃ¡da. Lel?tte Tylert. Ãšgy hallottam, hogy Metzger is benne volt a buliban. HÃ¡t, jobb, ha most visszamegyek... dolgozni.}
+{351}{}{Ãtaludtad az elmÃºlt heteket, vagy mi? KiderÃ¼lt vÃ©gÃ¼l, hogy Lara egy mocskos kis szemÃ©tlÃ¡da... kÃ¡r, hogy meghalt. Tyler emberei intÃ©ztÃ©k el. UtoljÃ¡ra azt hallottam, hogy a volt bandÃ¡ja ott ?zi most az ipart.}

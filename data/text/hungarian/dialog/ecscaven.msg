@@ -1,9 +1,9 @@
-{100}{}{Ez a mi területünk.}
-{101}{}{Nem kívánatos személy vagy itt!}
-{102}{}{Azt hiszem, útdíjat kell fizetned!}
-{103}{}{Általában nem kopasztjuk meg az él?ket.}
-{104}{}{Jól néz ki az a cucc rajtad.}
-{105}{}{Ezért fizetni fogsz!}
-{106}{}{Legközelebb.}
-{107}{}{Fut a gyáva!}
+{100}{}{Ez a mi terÃ¼letÃ¼nk.}
+{101}{}{Nem kÃ­vÃ¡natos szemÃ©ly vagy itt!}
+{102}{}{Azt hiszem, ÃºtdÃ­jat kell fizetned!}
+{103}{}{ÃltalÃ¡ban nem kopasztjuk meg az Ã©l?ket.}
+{104}{}{JÃ³l nÃ©z ki az a cucc rajtad.}
+{105}{}{EzÃ©rt fizetni fogsz!}
+{106}{}{LegkÃ¶zelebb.}
+{107}{}{Fut a gyÃ¡va!}
 {108}{}{Megtarthatod a cuccodat... most az egyszer...}

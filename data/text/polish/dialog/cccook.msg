@@ -1,84 +1,84 @@
 {100}{}{Widzisz kucharza.}
 {101}{}{Widzisz Ciacho, miejscowego kucharza.}
-{102}{}{Widzisz mê¿czyznê w zbroi, nosz¹cego kucharsk¹ czapkê i fartuszek.}
-{103}{}{Hej, ¿o³nierzu.}
-{104}{}{Ja chcieæ papu.}
-{105}{}{Moja chcieæ rozmawiaæ.}
-{106}{}{Przyda³oby siê coœ przek¹siæ.}
-{107}{}{Pogadajmy trochê.}
-{108}{}{Proszê ciê bardzo. WeŸ sobie trochê gówna na patyku. Œnieg i muszê gówno stoj¹ tam. Coœ jeszcze?}
-{109}{}{Co ty chce jeœæ ja?}
-{110}{}{Gówno? Œnieg? Co to za ¿arcie do jasnej cholery?}
-{111}{}{Przepraszam, jesteœ pewnie od niedawna w armii. Nie chcia³em ciê uraziæ, po prostu tak tutaj mówimy na ¿arcie. Gówno na patyku to sma¿ona wo³owina. Œnieg i muszê gówno to nasze nazwy dla soli i pieprzu.}
-{112}{}{Och... dziêki. My rozmawia przy ¿arciu.}
-{113}{}{Rozumiem, przepraszam. Korzystaj¹c z okazji porozmawiajmy chwilê.}
-{114}{}{O czym chcesz gadaæ?}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ w zbroi, noszÄ…cego kucharskÄ… czapkÄ™ i fartuszek.}
+{103}{}{Hej, Å¼oÅ‚nierzu.}
+{104}{}{Ja chcieÄ‡ papu.}
+{105}{}{Moja chcieÄ‡ rozmawiaÄ‡.}
+{106}{}{PrzydaÅ‚oby siÄ™ coÅ› przekÄ…siÄ‡.}
+{107}{}{Pogadajmy trochÄ™.}
+{108}{}{ProszÄ™ ciÄ™ bardzo. WeÅº sobie trochÄ™ gÃ³wna na patyku. Åšnieg i muszÄ™ gÃ³wno stojÄ… tam. CoÅ› jeszcze?}
+{109}{}{Co ty chce jeÅ›Ä‡ ja?}
+{110}{}{GÃ³wno? Åšnieg? Co to za Å¼arcie do jasnej cholery?}
+{111}{}{Przepraszam, jesteÅ› pewnie od niedawna w armii. Nie chciaÅ‚em ciÄ™ uraziÄ‡, po prostu tak tutaj mÃ³wimy na Å¼arcie. GÃ³wno na patyku to smaÅ¼ona woÅ‚owina. Åšnieg i muszÄ™ gÃ³wno to nasze nazwy dla soli i pieprzu.}
+{112}{}{Och... dziÄ™ki. My rozmawia przy Å¼arciu.}
+{113}{}{Rozumiem, przepraszam. KorzystajÄ…c z okazji porozmawiajmy chwilÄ™.}
+{114}{}{O czym chcesz gadaÄ‡?}
 {115}{}{Co tu dzieje?}
 {116}{}{Gdzie plany latacza?}
-{118}{}{Gdzie g³ówna baza?}
-{119}{}{Ja musi wraca do s³u¿ba. Dziêki.}
-{120}{}{Dzieje siê tu coœ ciekawego?}
-{121}{}{Interesuj¹ mnie latacze. Gdzie mo¿na by znaleŸæ ich plany, gdyby zachcia³o mi siê je obejrzeæ?}
-{123}{}{Gdzie mieœci siê g³ówna baza Enklawy?}
-{124}{}{Dziêki. Muszê ju¿ iœæ na swoje miejsce.}
-{125}{}{Szukasz plotek? Mogê podaæ ci najnowsze wieœci o tym, co dzieje siê w obs³udze naziemnej, w laboratorium medycznym, albo wœród ¿o³nierzy.}
-{126}{}{Co chcesz us³yszeæ?}
-{127}{}{Co z obs³uga?}
+{118}{}{Gdzie gÅ‚Ã³wna baza?}
+{119}{}{Ja musi wraca do sÅ‚uÅ¼ba. DziÄ™ki.}
+{120}{}{Dzieje siÄ™ tu coÅ› ciekawego?}
+{121}{}{InteresujÄ… mnie latacze. Gdzie moÅ¼na by znaleÅºÄ‡ ich plany, gdyby zachciaÅ‚o mi siÄ™ je obejrzeÄ‡?}
+{123}{}{Gdzie mieÅ›ci siÄ™ gÅ‚Ã³wna baza Enklawy?}
+{124}{}{DziÄ™ki. MuszÄ™ juÅ¼ iÅ›Ä‡ na swoje miejsce.}
+{125}{}{Szukasz plotek? MogÄ™ podaÄ‡ ci najnowsze wieÅ›ci o tym, co dzieje siÄ™ w obsÅ‚udze naziemnej, w laboratorium medycznym, albo wÅ›rÃ³d Å¼oÅ‚nierzy.}
+{126}{}{Co chcesz usÅ‚yszeÄ‡?}
+{127}{}{Co z obsÅ‚uga?}
 {128}{}{Co z laboratorium?}
-{129}{}{Co z ¿o³nierze?}
-{130}{}{Coœ jeszcze?}
-{131}{}{Ja wiedzieæ dosyæ.}
-{132}{}{Co siê dzieje w obs³udze naziemnej?}
-{133}{}{Co mo¿esz mi powiedzieæ o laboratorium medycznym?}
-{134}{}{Co siê dzieje u ¿o³nierzy?}
-{135}{}{Czy coœ jeszcze siê dzieje?}
-{136}{}{Myœlê, ¿e ju¿ mi wystarczy.}
-{137}{}{Raul, mechanik od lataczy, nie lubi Quincy'ego, szefa obs³ugi naziemnej. Oni dwaj ci¹gle siê w coœ mieszaj¹, ale nie s¹dzê, ¿eby chodzi³o o rywalizacjê zawodow¹. W ka¿dym razie Raul to arogancki dupek, za to Quincy jest ca³kiem w porz¹dku. Mam nadziejê, ¿e to on w koñcu wygra.}
-{138}{}{W porz¹dku.}
+{129}{}{Co z Å¼oÅ‚nierze?}
+{130}{}{CoÅ› jeszcze?}
+{131}{}{Ja wiedzieÄ‡ dosyÄ‡.}
+{132}{}{Co siÄ™ dzieje w obsÅ‚udze naziemnej?}
+{133}{}{Co moÅ¼esz mi powiedzieÄ‡ o laboratorium medycznym?}
+{134}{}{Co siÄ™ dzieje u Å¼oÅ‚nierzy?}
+{135}{}{Czy coÅ› jeszcze siÄ™ dzieje?}
+{136}{}{MyÅ›lÄ™, Å¼e juÅ¼ mi wystarczy.}
+{137}{}{Raul, mechanik od lataczy, nie lubi Quincy'ego, szefa obsÅ‚ugi naziemnej. Oni dwaj ciÄ…gle siÄ™ w coÅ› mieszajÄ…, ale nie sÄ…dzÄ™, Å¼eby chodziÅ‚o o rywalizacjÄ™ zawodowÄ…. W kaÅ¼dym razie Raul to arogancki dupek, za to Quincy jest caÅ‚kiem w porzÄ…dku. Mam nadziejÄ™, Å¼e to on w koÅ„cu wygra.}
+{138}{}{W porzÄ…dku.}
 {139}{}{Aha, rozumiem.}
-{140}{}{Laboratorium medyczne zosta³o przejête przez jajog³owego z Enklawy o nazwisku Schreber. Wstrêtny skurwiel nie liczy siê z nikim, ani z niczym. Robi³ tam na dole jakieœ eksperymenty na szponach œmierci, ale nie wiem dok³adnie, na czym one polega³y. W ka¿dym razie ci¹gle ha³asowa³ na najprzeró¿niejsze sposoby, a¿ w koñcu dowódca kaza³ mu za³o¿yæ instalacjê dŸwiêkoszczeln¹.}
-{141}{}{Kapujê.}
+{140}{}{Laboratorium medyczne zostaÅ‚o przejÄ™te przez jajogÅ‚owego z Enklawy o nazwisku Schreber. WstrÄ™tny skurwiel nie liczy siÄ™ z nikim, ani z niczym. RobiÅ‚ tam na dole jakieÅ› eksperymenty na szponach Å›mierci, ale nie wiem dokÅ‚adnie, na czym one polegaÅ‚y. W kaÅ¼dym razie ciÄ…gle haÅ‚asowaÅ‚ na najprzerÃ³Å¼niejsze sposoby, aÅ¼ w koÅ„cu dowÃ³dca kazaÅ‚ mu zaÅ‚oÅ¼yÄ‡ instalacjÄ™ dÅºwiÄ™koszczelnÄ….}
+{141}{}{KapujÄ™.}
 {142}{}{Ciekawe. }
-{143}{}{Ha! Mamy tu prawdziwy romans. Wygl¹da na to, ¿e jeden z tych maniaków komputerowych zadurzy³ siê w babce, która pilnuje laboratorium. Wymyœli³ nawet dla niej jedno z tych rozkosznych imion. Nazywa j¹ "Snookie".}
-{144}{}{S³odkie.}
-{145}{}{Niee, to ju¿ wszystko, jeœli chodzi o to miejsce. Jak us³yszê coœ jeszcze, to dam ci znaæ. Uwielbiam opowiadaæ te wszystkie rzeczy tak samo, jak s³uchaæ o nich!}
-{146}{}{Dziêkujê.}
-{147}{}{Czemu ciê to interesuje? A zreszt¹, niewa¿ne. Podejrzewam, ¿e Quincy trzyma je w budynku obs³ugi naziemnej.}
-{148}{}{W porz¹dku.}
+{143}{}{Ha! Mamy tu prawdziwy romans. WyglÄ…da na to, Å¼e jeden z tych maniakÃ³w komputerowych zadurzyÅ‚ siÄ™ w babce, ktÃ³ra pilnuje laboratorium. WymyÅ›liÅ‚ nawet dla niej jedno z tych rozkosznych imion. Nazywa jÄ… "Snookie".}
+{144}{}{SÅ‚odkie.}
+{145}{}{Niee, to juÅ¼ wszystko, jeÅ›li chodzi o to miejsce. Jak usÅ‚yszÄ™ coÅ› jeszcze, to dam ci znaÄ‡. Uwielbiam opowiadaÄ‡ te wszystkie rzeczy tak samo, jak sÅ‚uchaÄ‡ o nich!}
+{146}{}{DziÄ™kujÄ™.}
+{147}{}{Czemu ciÄ™ to interesuje? A zresztÄ…, niewaÅ¼ne. Podejrzewam, Å¼e Quincy trzyma je w budynku obsÅ‚ugi naziemnej.}
+{148}{}{W porzÄ…dku.}
 {149}{}{Gdzie?}
 {150}{}{Rozumiem.}
 {151}{}{Gdzie to jest?}
-{152}{}{Pó³nocno-wschodnia czêœæ bazy. Nie mo¿na przegapiæ.}
-{153}{}{Dobra, dziêki.}
-{156}{}{Jestem zaskoczony, ¿e tego nie wiesz, pewnie jesteœ jednym z miejscowych rekrutów. W ka¿dym razie g³ówna baza le¿y na œrodku przeklêtego oceanu. No, mo¿e nie dok³adnie na œrodku, ale równie dobrze mog³aby byæ i tam. Mo¿na siê tam dostaæ tylko za pomoc¹ statku lub latacza, a przy tym cholernym tankowcu tak pomajstrowali, ¿e do p³ywania tym cholernym ¿elastwem potrzebny jest klucz.}
+{152}{}{PÃ³Å‚nocno-wschodnia czÄ™Å›Ä‡ bazy. Nie moÅ¼na przegapiÄ‡.}
+{153}{}{Dobra, dziÄ™ki.}
+{156}{}{Jestem zaskoczony, Å¼e tego nie wiesz, pewnie jesteÅ› jednym z miejscowych rekrutÃ³w. W kaÅ¼dym razie gÅ‚Ã³wna baza leÅ¼y na Å›rodku przeklÄ™tego oceanu. No, moÅ¼e nie dokÅ‚adnie na Å›rodku, ale rÃ³wnie dobrze mogÅ‚aby byÄ‡ i tam. MoÅ¼na siÄ™ tam dostaÄ‡ tylko za pomocÄ… statku lub latacza, a przy tym cholernym tankowcu tak pomajstrowali, Å¼e do pÅ‚ywania tym cholernym Å¼elastwem potrzebny jest klucz.}
 {157}{}{Klucz?}
-{158}{}{Tak, przepustka. Dowódca trzyma j¹ w swoim biurze. Nie mo¿na dostaæ siê bez niej do niektórych obszarów na statku, co zapobiega z³o¿eniu nam przez tubylców z San Francisco niechcianej wizyty.}
-{159}{}{Dobra pomys³.}
-{160}{}{Gdzie biuro dowódca?}
-{161}{}{To dobry pomys³.}
-{162}{}{A gdzie mieœci siê biuro dowódcy?}
-{163}{}{IdŸ do s¹siedniego pomieszczenia, zjedŸ wind¹, potem idŸ korytarzem do g³ównego wêz³a i dalej prosto.}
-{164}{}{Dziêkujê.}
-{165}{}{Hej, ¿o³nierzu. Mi³o ciê znowu s³uchaæ. Tym razem ¿remy, czy gadamy?}
-{166}{}{¯remy.}
+{158}{}{Tak, przepustka. DowÃ³dca trzyma jÄ… w swoim biurze. Nie moÅ¼na dostaÄ‡ siÄ™ bez niej do niektÃ³rych obszarÃ³w na statku, co zapobiega zÅ‚oÅ¼eniu nam przez tubylcÃ³w z San Francisco niechcianej wizyty.}
+{159}{}{Dobra pomysÅ‚.}
+{160}{}{Gdzie biuro dowÃ³dca?}
+{161}{}{To dobry pomysÅ‚.}
+{162}{}{A gdzie mieÅ›ci siÄ™ biuro dowÃ³dcy?}
+{163}{}{IdÅº do sÄ…siedniego pomieszczenia, zjedÅº windÄ…, potem idÅº korytarzem do gÅ‚Ã³wnego wÄ™zÅ‚a i dalej prosto.}
+{164}{}{DziÄ™kujÄ™.}
+{165}{}{Hej, Å¼oÅ‚nierzu. MiÅ‚o ciÄ™ znowu sÅ‚uchaÄ‡. Tym razem Å¼remy, czy gadamy?}
+{166}{}{Å»remy.}
 {167}{}{Gadamy.}
-{168}{}{Ja tylko czeœæ.}
-{169}{}{Ani jedno, ani drugie, chcê siê tylko przywitaæ.}
-{170}{}{Proszê bardzo. Ten obiad jest martwy, gotowany i nieidentyfikowalny. Smacznego.}
-{171}{}{Uch... dziêki.}
-{172}{}{Synu, poznajê po zapachu, ¿e nie masz na sobie jednego z tych wspomaganych pancerzy. Jeœli sier¿ant zobaczy ciê bez munduru, to bêdziesz mia³ przejebane. I nie mam na myœli tego przyjemnego rodzaju jebania. A teraz zabierz swoj¹ dupê do zaopatrzenia i siê ubierz.}
-{173}{}{M³oda damo, poznajê po zapachu, ¿e nie masz na sobie jednej z tych wspomaganych zbroi. Jeœli sier¿ant zobaczy ciê bez munduru, to bêdziesz mia³a przejebane. I nie mam na myœli tego przyjemnego rodzaju jebania. A teraz zabierz swoj¹ dupê do zaopatrzenia i siê ubierz.}
+{168}{}{Ja tylko czeÅ›Ä‡.}
+{169}{}{Ani jedno, ani drugie, chcÄ™ siÄ™ tylko przywitaÄ‡.}
+{170}{}{ProszÄ™ bardzo. Ten obiad jest martwy, gotowany i nieidentyfikowalny. Smacznego.}
+{171}{}{Uch... dziÄ™ki.}
+{172}{}{Synu, poznajÄ™ po zapachu, Å¼e nie masz na sobie jednego z tych wspomaganych pancerzy. JeÅ›li sierÅ¼ant zobaczy ciÄ™ bez munduru, to bÄ™dziesz miaÅ‚ przejebane. I nie mam na myÅ›li tego przyjemnego rodzaju jebania. A teraz zabierz swojÄ… dupÄ™ do zaopatrzenia i siÄ™ ubierz.}
+{173}{}{MÅ‚oda damo, poznajÄ™ po zapachu, Å¼e nie masz na sobie jednej z tych wspomaganych zbroi. JeÅ›li sierÅ¼ant zobaczy ciÄ™ bez munduru, to bÄ™dziesz miaÅ‚a przejebane. I nie mam na myÅ›li tego przyjemnego rodzaju jebania. A teraz zabierz swojÄ… dupÄ™ do zaopatrzenia i siÄ™ ubierz.}
 {174}{}{Gdzie?}
-{175}{}{W porz¹dku.}
+{175}{}{W porzÄ…dku.}
 {176}{}{Gdzie to jest?}
-{177}{}{Zajmê siê tym.}
-{178}{}{IdŸ do s¹siedniego pomieszczenia, zjedŸ wind¹, potem idŸ korytarzem a¿ do g³ównego wêz³a, skrêæ w lewo i wejdŸ w pierwsze drzwi po lewej. A teraz zmiataj.}
-{179}{}{Dziêkujê.}
-{180}{}{O kurwa! Jestem tylko kucharzem... i to w dodatku œlepym. Nie widzia³em tu ¿adnych intruzów.}
-{181}{}{Dziêkujê.}
-{182}{}{Cholerne alarmy. Zawsze siej¹ taki zamêt.}
-{183}{}{Do diab³a, po co tym razem siê ta cholerna szczekaczka wydziera?}
-{184}{}{Chcia³bym, ¿ebyœmy stosowali ciche alarmy, od tej pieprzonej syreny boli mnie g³owa.}
-{185}{}{Usma¿ê twoj¹ dupê i podam na pó³misku.}
-{186}{}{Jesteœ ugotowany. Ha! Powiedzia³em dowcip.}
+{177}{}{ZajmÄ™ siÄ™ tym.}
+{178}{}{IdÅº do sÄ…siedniego pomieszczenia, zjedÅº windÄ…, potem idÅº korytarzem aÅ¼ do gÅ‚Ã³wnego wÄ™zÅ‚a, skrÄ™Ä‡ w lewo i wejdÅº w pierwsze drzwi po lewej. A teraz zmiataj.}
+{179}{}{DziÄ™kujÄ™.}
+{180}{}{O kurwa! Jestem tylko kucharzem... i to w dodatku Å›lepym. Nie widziaÅ‚em tu Å¼adnych intruzÃ³w.}
+{181}{}{DziÄ™kujÄ™.}
+{182}{}{Cholerne alarmy. Zawsze siejÄ… taki zamÄ™t.}
+{183}{}{Do diabÅ‚a, po co tym razem siÄ™ ta cholerna szczekaczka wydziera?}
+{184}{}{ChciaÅ‚bym, Å¼ebyÅ›my stosowali ciche alarmy, od tej pieprzonej syreny boli mnie gÅ‚owa.}
+{185}{}{UsmaÅ¼Ä™ twojÄ… dupÄ™ i podam na pÃ³Å‚misku.}
+{186}{}{JesteÅ› ugotowany. Ha! PowiedziaÅ‚em dowcip.}
 {187}{}{Z rusztu prosto do ognia.}

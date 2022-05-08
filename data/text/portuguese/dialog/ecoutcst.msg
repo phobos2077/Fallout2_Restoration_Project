@@ -1,7 +1,7 @@
-{100}{}{Não executar.}
-{101}{}{Nós somos seus amigos.}
-{102}{}{Não ataque.}
+{100}{}{NÃ£o executar.}
+{101}{}{NÃ³s somos seus amigos.}
+{102}{}{NÃ£o ataque.}
 {103}{}{Idiota.}
 {104}{}{Deixe-nos!}
 {105}{}{Imundo!}
-{106}{}{Vá embora!}
+{106}{}{VÃ¡ embora!}

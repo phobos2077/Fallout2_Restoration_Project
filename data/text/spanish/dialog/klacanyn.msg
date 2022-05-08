@@ -1,1 +1,1 @@
-{100}{}{Has llegado a un cañón cerca de Klamath.}
+{100}{}{Has llegado a un caÃ±Ã³n cerca de Klamath.}

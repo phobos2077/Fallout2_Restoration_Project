@@ -1,50 +1,50 @@
-{100}{}{Widzisz Obywatela w jasnoniebieskim kombinezonie. Wygl¹da jak zwyk³y ubiór mieszkañca Krypty, ale na plecach brakuje numeru.}
-{101}{}{Widzisz oficer Darrow z Sekcji Udogodnieñ}
-{102}{}{Widzisz Obywatela w jasnoniebieskim kombinezonie. Wygl¹da jak zwyk³y ubiór mieszkañca Krypty, ale na plecach brakuje numeru.}
+{100}{}{Widzisz Obywatela w jasnoniebieskim kombinezonie. WyglÄ…da jak zwykÅ‚y ubiÃ³r mieszkaÅ„ca Krypty, ale na plecach brakuje numeru.}
+{101}{}{Widzisz oficer Darrow z Sekcji UdogodnieÅ„}
+{102}{}{Widzisz Obywatela w jasnoniebieskim kombinezonie. WyglÄ…da jak zwykÅ‚y ubiÃ³r mieszkaÅ„ca Krypty, ale na plecach brakuje numeru.}
 {103}{}{::klaszcze::}
 {104}{}{To nasz wybawca! Patrzcie!}
 {105}{}{A niech mnie! Legenda Pustkowi tutaj, w Kryptopolis!}
-{106}{}{Dzieñ dobry, Kapitanie.}
+{106}{}{DzieÅ„ dobry, Kapitanie.}
 {107}{}{Kryptopolis na wieki, Kapitanie.}
-{108}{}{Dzieñ dobry, Obywatelu.}
+{108}{}{DzieÅ„ dobry, Obywatelu.}
 {109}{}{Kryptopolis ponad wszystkim, Obywatelu.}
-{110}{}{Mutant! Stra¿! Stra¿!}
-{111}{}{Ghul! Stra¿! Stra¿!}
-{112}{}{Muszê siê zaj¹æ zamówieniem wiêkszej liczby narzêdzi z Redding.}
-{113}{}{Ma³y dzisiaj ruch.}
-{114}{}{Ciekawe, czy Randal skoñczy³ ju¿ tê listê zakupów.}
-{115}{}{Wydaje siê, ¿e dopiero co da³am Randalowi tê listê towarów.}
-{116}{}{Przynajmniej ta robota przebija pracê w Biurze List.}
-{117}{}{S³u¿¹cy wci¹¿ zu¿ywaj¹ wiêkszoœæ narzêdzi. Jak bym chcia³a, ¿eby bardziej o nie dbali...}
-{118}{}{Przyda³yby mi siê wakacje.}
-{119}{}{Biuro Sekcji Udogodnieñ jest w nocy zamkniête... wróæ tu rano. }
-{120}{}{W tej chwili przyjmuje towar. Wróæ, gdy otworzymy rankiem.}
-{121}{}{Zamkniête. Mo¿esz spróbowaæ w sklepie wielobran¿owym na zewn¹trz, je¿eli ju¿ czegoœ naprawdê potrzebujesz.}
-{122}{}{Mogê ci w czymœ pomóc, Kapitanie?}
-{123}{}{Mogê ci w czymœ pomóc, Obywatelu?}
-{124}{}{Przepraszam, mogê w czymœ pomóc?}
+{110}{}{Mutant! StraÅ¼! StraÅ¼!}
+{111}{}{Ghul! StraÅ¼! StraÅ¼!}
+{112}{}{MuszÄ™ siÄ™ zajÄ…Ä‡ zamÃ³wieniem wiÄ™kszej liczby narzÄ™dzi z Redding.}
+{113}{}{MaÅ‚y dzisiaj ruch.}
+{114}{}{Ciekawe, czy Randal skoÅ„czyÅ‚ juÅ¼ tÄ™ listÄ™ zakupÃ³w.}
+{115}{}{Wydaje siÄ™, Å¼e dopiero co daÅ‚am Randalowi tÄ™ listÄ™ towarÃ³w.}
+{116}{}{Przynajmniej ta robota przebija pracÄ™ w Biurze List.}
+{117}{}{SÅ‚uÅ¼Ä…cy wciÄ…Å¼ zuÅ¼ywajÄ… wiÄ™kszoÅ›Ä‡ narzÄ™dzi. Jak bym chciaÅ‚a, Å¼eby bardziej o nie dbali...}
+{118}{}{PrzydaÅ‚yby mi siÄ™ wakacje.}
+{119}{}{Biuro Sekcji UdogodnieÅ„ jest w nocy zamkniÄ™te... wrÃ³Ä‡ tu rano. }
+{120}{}{W tej chwili przyjmuje towar. WrÃ³Ä‡, gdy otworzymy rankiem.}
+{121}{}{ZamkniÄ™te. MoÅ¼esz sprÃ³bowaÄ‡ w sklepie wielobranÅ¼owym na zewnÄ…trz, jeÅ¼eli juÅ¼ czegoÅ› naprawdÄ™ potrzebujesz.}
+{122}{}{MogÄ™ ci w czymÅ› pomÃ³c, Kapitanie?}
+{123}{}{MogÄ™ ci w czymÅ› pomÃ³c, Obywatelu?}
+{124}{}{Przepraszam, mogÄ™ w czymÅ› pomÃ³c?}
 {125}{}{Czym? Dudle-dudle duuuuuuuu}
-{126}{}{OdejdŸ bez s³owa.}
+{126}{}{OdejdÅº bez sÅ‚owa.}
 {127}{}{Co to za miejsce?}
-{128}{}{Mogê zobaczyæ, co masz na sk³adzie?}
-{129}{}{Dziêki, ale dziœ nie skorzystam.}
-{130}{}{Poczekaj tu chwilê, dobra? Przyprowadzê tu kogoœ, ¿eby ci pokazaæ.}
-{131}{}{NIE JA NIE IŒÆ}
+{128}{}{MogÄ™ zobaczyÄ‡, co masz na skÅ‚adzie?}
+{129}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{130}{}{Poczekaj tu chwilÄ™, dobra? PrzyprowadzÄ™ tu kogoÅ›, Å¼eby ci pokazaÄ‡.}
+{131}{}{NIE JA NIE IÅšÄ†}
 {132}{}{Okiiii-dokiiii }
-{133}{}{S³uchaj, mo¿e ci siê to przydaæ, na Podmurzu jest taki sklep wielobran¿owy, mo¿esz tam spróbowaæ coœ kupiæ... s³ysza³am, ¿e facet ma wybór prawie tak dobry, jak nasz.}
-{134}{}{Ee, dziêki.}
-{135}{}{Bêdê kupowaæ, gdzie mi siê bêdzie chcia³o, kapujesz?}
-{136}{}{Dziêki za odwiedziny. Kryptopolis ponad wszystkim, Obywatelu.}
-{137}{}{Dziêki za odwiedziny. Kryptopolis ponad wszystkim, Kapitanie}
+{133}{}{SÅ‚uchaj, moÅ¼e ci siÄ™ to przydaÄ‡, na Podmurzu jest taki sklep wielobranÅ¼owy, moÅ¼esz tam sprÃ³bowaÄ‡ coÅ› kupiÄ‡... sÅ‚yszaÅ‚am, Å¼e facet ma wybÃ³r prawie tak dobry, jak nasz.}
+{134}{}{Ee, dziÄ™ki.}
+{135}{}{BÄ™dÄ™ kupowaÄ‡, gdzie mi siÄ™ bÄ™dzie chciaÅ‚o, kapujesz?}
+{136}{}{DziÄ™ki za odwiedziny. Kryptopolis ponad wszystkim, Obywatelu.}
+{137}{}{DziÄ™ki za odwiedziny. Kryptopolis ponad wszystkim, Kapitanie}
 {138}{}{Kryptopolis ponad wszystkim, Obywatelu.}
-{139}{}{Dzieñ dobry, Obywatelu.}
-{140}{}{Biuro A Sekcji Udogodnieñ. Jestem odpowiedzialna za zapotrzebowania na sprzêt ogólny, jak narzêdzia i sprzêt do napraw. Nazywam siê Darrow... Oficer Sekcji Udogodnieñ Darrow. Widzisz coœ, co by ci by³o potrzebne?}
-{141}{}{To Biuro A Sekcji Udogodnieñ... Zajmujemy siê dostarczaniem narzêdzi i sprzêtu naprawczego dla miasta. Na pewno to jest miejsce, którego szukasz?}
-{142}{}{Mogê zobaczyæ, co masz na sk³adzie?}
-{143}{}{Tak, to to miejsce. Czy mogê zobaczyæ, co masz na stanie?}
-{144}{}{Dziêki, ale dziœ nie skorzystam.}
-{145}{}{Nie s¹dzê. Do widzenia.}
-{146}{}{Ej! OdejdŸ stamt¹d!}
-{147}{}{Doœæ tego! Wynocha st¹d!}
-{148}{}{Dziêkujê.}
+{139}{}{DzieÅ„ dobry, Obywatelu.}
+{140}{}{Biuro A Sekcji UdogodnieÅ„. Jestem odpowiedzialna za zapotrzebowania na sprzÄ™t ogÃ³lny, jak narzÄ™dzia i sprzÄ™t do napraw. Nazywam siÄ™ Darrow... Oficer Sekcji UdogodnieÅ„ Darrow. Widzisz coÅ›, co by ci byÅ‚o potrzebne?}
+{141}{}{To Biuro A Sekcji UdogodnieÅ„... Zajmujemy siÄ™ dostarczaniem narzÄ™dzi i sprzÄ™tu naprawczego dla miasta. Na pewno to jest miejsce, ktÃ³rego szukasz?}
+{142}{}{MogÄ™ zobaczyÄ‡, co masz na skÅ‚adzie?}
+{143}{}{Tak, to to miejsce. Czy mogÄ™ zobaczyÄ‡, co masz na stanie?}
+{144}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{145}{}{Nie sÄ…dzÄ™. Do widzenia.}
+{146}{}{Ej! OdejdÅº stamtÄ…d!}
+{147}{}{DoÅ›Ä‡ tego! Wynocha stÄ…d!}
+{148}{}{DziÄ™kujÄ™.}
 {149}{}{[Dalej.]}

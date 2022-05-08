@@ -1,6 +1,6 @@
-{100}{}{Widzisz zwyczajn¹, udomowion¹ braminê.}
-{101}{}{Krowa + promieniowanie = dwug³owy mutant. Reszta jest milczeniem.}
-{102}{}{Nie zauwa¿y³eœ nic niezwyk³ego w brahminie.}
-{103}{}{Braminy s¹ znane z ma³omównoœci...}
-{104}{}{Czy naprawdê nie masz nic lepszego do roboty, ni¿ gadanie z dwug³ow¹ krow¹?}
-{105}{}{Oto bramin. Zwyk³y, dwug³owy bramin.}
+{100}{}{Widzisz zwyczajnÄ…, udomowionÄ… braminÄ™.}
+{101}{}{Krowa + promieniowanie = dwugÅ‚owy mutant. Reszta jest milczeniem.}
+{102}{}{Nie zauwaÅ¼yÅ‚eÅ› nic niezwykÅ‚ego w brahminie.}
+{103}{}{Braminy sÄ… znane z maÅ‚omÃ³wnoÅ›ci...}
+{104}{}{Czy naprawdÄ™ nie masz nic lepszego do roboty, niÅ¼ gadanie z dwugÅ‚owÄ… krowÄ…?}
+{105}{}{Oto bramin. ZwykÅ‚y, dwugÅ‚owy bramin.}

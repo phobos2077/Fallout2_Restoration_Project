@@ -1,79 +1,79 @@
-{100}{}{Widzisz pulchn¹, starsz¹ kobietê o bardzo du¿ym nosie.}
-{101}{}{Widzisz Wielkonos¹ Sally, w³aœcicielkê £aŸni.}
-{200}{}{Witaj, nazywam siê Sally Dunton. Hmm, rozumiesz co mówiê?}
+{100}{}{Widzisz pulchnÄ…, starszÄ… kobietÄ™ o bardzo duÅ¼ym nosie.}
+{101}{}{Widzisz WielkonosÄ… Sally, wÅ‚aÅ›cicielkÄ™ ÅaÅºni.}
+{200}{}{Witaj, nazywam siÄ™ Sally Dunton. Hmm, rozumiesz co mÃ³wiÄ™?}
 {201}{}{Ally Dumdum? Tup?}
-{202}{}{Chcê siusiu.}
-{203}{}{Uug. (krêc¹c g³ow¹)}
-{204}{}{Jak na przyg³upa ca³kiem nieŸle, ale nie chcê, ¿eby po £aŸni krêcili siê tacy jak ty. Zmykaj st¹d. Sio! }
-{205}{}{Wiem, ¿e jesteœ dzikusem i w ogóle, ale to jest £aŸnia, a nie wychodek. Zmykaj st¹d, zanim ka¿ê ciê st¹d wyrzuciæ!}
-{206}{}{Wiem, ¿e moi ch³opcy zadaj¹ siê z nieciekawym elementem, ale jeszcze nigdy nie by³o tak Ÿle. Jak mo¿na by³o tak ich zawieœæ? Nie chcê ciê widzieæ w mojej £aŸni. Wynoœ siê.}
-{210}{}{Nazywam siê Sally Dunton, ale ludzie mówi¹ na mnie Wielkonosa Sally. Jestem w³aœcicielk¹ tej £aŸni. Mamy tu szeroki asortyment wszelakiej maœci k¹pieli specjalnych.}
-{211}{}{Jakie wszelakiej maœci k¹piele specjalne oferujecie?}
-{212}{}{Ojej, panno Sally, ja szukam takiej zwyk³ej k¹pieli... No, w ostatecznoœci mo¿e byæ z b¹belkami.}
-{213}{}{Chyba na razie zrezygnujê. Mo¿e innym razem...}
-{220}{}{Nazywam siê 'Wielkonosa' Sally Dunton i jestem w³aœcicielk¹ tej £aŸni. Niestety, wszystkie nasze k¹pielowe s¹ kobietami. No chyba, ¿e ci to nie przeszkadza?}
-{221}{}{Chcê siê po prostu wyk¹paæ.}
+{202}{}{ChcÄ™ siusiu.}
+{203}{}{Uug. (krÄ™cÄ…c gÅ‚owÄ…)}
+{204}{}{Jak na przygÅ‚upa caÅ‚kiem nieÅºle, ale nie chcÄ™, Å¼eby po ÅaÅºni krÄ™cili siÄ™ tacy jak ty. Zmykaj stÄ…d. Sio! }
+{205}{}{Wiem, Å¼e jesteÅ› dzikusem i w ogÃ³le, ale to jest ÅaÅºnia, a nie wychodek. Zmykaj stÄ…d, zanim kaÅ¼Ä™ ciÄ™ stÄ…d wyrzuciÄ‡!}
+{206}{}{Wiem, Å¼e moi chÅ‚opcy zadajÄ… siÄ™ z nieciekawym elementem, ale jeszcze nigdy nie byÅ‚o tak Åºle. Jak moÅ¼na byÅ‚o tak ich zawieÅ›Ä‡? Nie chcÄ™ ciÄ™ widzieÄ‡ w mojej ÅaÅºni. WynoÅ› siÄ™.}
+{210}{}{Nazywam siÄ™ Sally Dunton, ale ludzie mÃ³wiÄ… na mnie Wielkonosa Sally. Jestem wÅ‚aÅ›cicielkÄ… tej ÅaÅºni. Mamy tu szeroki asortyment wszelakiej maÅ›ci kÄ…pieli specjalnych.}
+{211}{}{Jakie wszelakiej maÅ›ci kÄ…piele specjalne oferujecie?}
+{212}{}{Ojej, panno Sally, ja szukam takiej zwykÅ‚ej kÄ…pieli... No, w ostatecznoÅ›ci moÅ¼e byÄ‡ z bÄ…belkami.}
+{213}{}{Chyba na razie zrezygnujÄ™. MoÅ¼e innym razem...}
+{220}{}{Nazywam siÄ™ 'Wielkonosa' Sally Dunton i jestem wÅ‚aÅ›cicielkÄ… tej ÅaÅºni. Niestety, wszystkie nasze kÄ…pielowe sÄ… kobietami. No chyba, Å¼e ci to nie przeszkadza?}
+{221}{}{ChcÄ™ siÄ™ po prostu wykÄ…paÄ‡.}
 {222}{}{Nie mam nic przeciwko kobietom.}
-{223}{}{Ojej, mia³am nadziejê na pomoc jakiegoœ mê¿czyzny...}
+{223}{}{Ojej, miaÅ‚am nadziejÄ™ na pomoc jakiegoÅ› mÄ™Å¼czyzny...}
 {224}{}{Chyba jednak nie tego szukam.}
-{225}{}{Przykro mi, ¿e nie mo¿emy ci pomóc. Zajrzyj do nas innym razem.}
-{230}{}{Jeœli chcesz siê wyk¹paæ bez asysty k¹pielowych, zajrzyj do Z³ocistego Gekona lub do Bucknerów. Nie obiecuj sobie jednak zbyt wiele.}
-{231}{}{Dziêkujê, panno Wielkonosa. Tak zrobiê. Do widzenia.}
-{232}{}{To by³ tylko ¿art. Chêtnie wezmê 'specjaln¹' k¹piel.}
-{240}{}{Nasze specjalne k¹piele ró¿ni¹ siê cenami, w zale¿noœci od czasu, jaki spêdzi z tob¹ k¹pielowa i specjalnych us³ug, które ma ci œwiadczyæ.}
-{241}{}{To znaczy, ¿e bêdzie tam ze mn¹ prawdziwa, ¿ywa dziewczyna? Biorê!}
-{242}{}{Mo¿e innym razem. Muszê ju¿ iœæ.}
-{243}{}{Jak na mój gust, to wygl¹d k¹pielowej te¿ nie powinien byæ bez znaczenia.}
-{250}{}{Oferujemy nastêpuj¹ce rodzaje k¹pieli specjalnych: Rêczne Namydlanie, Szybki Prysznic, i - na koniec - D³uga Wszechstronna Królewska K¹piel z Natryskiem, dogl¹dana przez nasz¹ œliczn¹ i utalentowan¹ Jenny, œwie¿o po szkoleniu w jednym z najlepszych domów w Norze.}
-{251}{}{Chyba wystarczy mi Rêczne Namydlanie. Ile to kosztuje?}
-{252}{}{Podoba mi siê ten Szybki Prysznic. Ile mnie to bêdzie kosztowa³o?}
-{253}{}{Œliczna i utalentowana? Opowiedz mi coœ jeszcze o tej D³ugiej Wszechstronnej Królewskiej K¹pieli z Natryskiem.}
-{254}{}{Jakoœ nie mogê siê oswoiæ z myœl¹ o k¹pieli przy obcej osobie. Lepiej ju¿ sobie pójdê.}
-{255}{}{Czy rodzaje k¹pieli mo¿na ze sob¹ ³¹czyæ?}
-{256}{}{Oferujecie jakieœ zni¿ki?}
-{260}{}{Nie, mo¿esz wybraæ tylko jedn¹ k¹piel na raz, choæ oczywiœcie nikt nie broni ci wróciæ póŸniej i wypróbowaæ inne.}
-{261}{}{Opowiedz mi jeszcze raz o ró¿nych rodzajach k¹pieli specjalnych.}
-{262}{}{Jeœli nie mogê za¿yczyæ sobie ¿adnych kombinacji, to chyba jednak zrezygnujê. Do widzenia.}
-{270}{}{Có¿, dla tak atrakcyjnej osoby jak ty cena wynosi jedyne $25.}
-{271}{}{25$? Umowa stoi. Biorê.}
-{272}{}{Hmm, Opowiedz mi jeszcze raz o ró¿nych rodzajach k¹pieli specjalnych.}
-{273}{}{Tym razem jednak zrezygnujê. Do widzenia.}
-{280}{}{Hmm, wygl¹dasz na kogoœ, kto rzeczywiœcie bardzo potrzebuje k¹pieli. Cena wynosi $35.}
-{281}{}{35$? Trochê drogo - ale rzeczywiœcie przyda mi siê k¹piel. Niech bêdzie.}
-{282}{}{Mog³abyœ jeszcze raz przedstawiæ mi ca³¹ ofertê?}
-{283}{}{Dziêki, ale chyba poszukam gdzie indziej.}
-{284}{}{35$ to trochê drogo... mo¿e macie tu jakieœ ³adne braminy?}
-{290}{}{Myœlê, ¿e ka¿da z naszych dziewcz¹t chêtnie wziê³a by z tob¹ prysznic. Tylko postaraj siê, ¿eby rzeczywiœcie by³ szybki (chichocze). Szybki Prysznic kosztuje $55.}
-{291}{}{Brzmi zachêcaj¹co. Oto $55.}
+{225}{}{Przykro mi, Å¼e nie moÅ¼emy ci pomÃ³c. Zajrzyj do nas innym razem.}
+{230}{}{JeÅ›li chcesz siÄ™ wykÄ…paÄ‡ bez asysty kÄ…pielowych, zajrzyj do ZÅ‚ocistego Gekona lub do BucknerÃ³w. Nie obiecuj sobie jednak zbyt wiele.}
+{231}{}{DziÄ™kujÄ™, panno Wielkonosa. Tak zrobiÄ™. Do widzenia.}
+{232}{}{To byÅ‚ tylko Å¼art. ChÄ™tnie wezmÄ™ 'specjalnÄ…' kÄ…piel.}
+{240}{}{Nasze specjalne kÄ…piele rÃ³Å¼niÄ… siÄ™ cenami, w zaleÅ¼noÅ›ci od czasu, jaki spÄ™dzi z tobÄ… kÄ…pielowa i specjalnych usÅ‚ug, ktÃ³re ma ci Å›wiadczyÄ‡.}
+{241}{}{To znaczy, Å¼e bÄ™dzie tam ze mnÄ… prawdziwa, Å¼ywa dziewczyna? BiorÄ™!}
+{242}{}{MoÅ¼e innym razem. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{243}{}{Jak na mÃ³j gust, to wyglÄ…d kÄ…pielowej teÅ¼ nie powinien byÄ‡ bez znaczenia.}
+{250}{}{Oferujemy nastÄ™pujÄ…ce rodzaje kÄ…pieli specjalnych: RÄ™czne Namydlanie, Szybki Prysznic, i - na koniec - DÅ‚uga Wszechstronna KrÃ³lewska KÄ…piel z Natryskiem, doglÄ…dana przez naszÄ… Å›licznÄ… i utalentowanÄ… Jenny, Å›wieÅ¼o po szkoleniu w jednym z najlepszych domÃ³w w Norze.}
+{251}{}{Chyba wystarczy mi RÄ™czne Namydlanie. Ile to kosztuje?}
+{252}{}{Podoba mi siÄ™ ten Szybki Prysznic. Ile mnie to bÄ™dzie kosztowaÅ‚o?}
+{253}{}{Åšliczna i utalentowana? Opowiedz mi coÅ› jeszcze o tej DÅ‚ugiej Wszechstronnej KrÃ³lewskiej KÄ…pieli z Natryskiem.}
+{254}{}{JakoÅ› nie mogÄ™ siÄ™ oswoiÄ‡ z myÅ›lÄ… o kÄ…pieli przy obcej osobie. Lepiej juÅ¼ sobie pÃ³jdÄ™.}
+{255}{}{Czy rodzaje kÄ…pieli moÅ¼na ze sobÄ… Å‚Ä…czyÄ‡?}
+{256}{}{Oferujecie jakieÅ› zniÅ¼ki?}
+{260}{}{Nie, moÅ¼esz wybraÄ‡ tylko jednÄ… kÄ…piel na raz, choÄ‡ oczywiÅ›cie nikt nie broni ci wrÃ³ciÄ‡ pÃ³Åºniej i wyprÃ³bowaÄ‡ inne.}
+{261}{}{Opowiedz mi jeszcze raz o rÃ³Å¼nych rodzajach kÄ…pieli specjalnych.}
+{262}{}{JeÅ›li nie mogÄ™ zaÅ¼yczyÄ‡ sobie Å¼adnych kombinacji, to chyba jednak zrezygnujÄ™. Do widzenia.}
+{270}{}{CÃ³Å¼, dla tak atrakcyjnej osoby jak ty cena wynosi jedyne $25.}
+{271}{}{25$? Umowa stoi. BiorÄ™.}
+{272}{}{Hmm, Opowiedz mi jeszcze raz o rÃ³Å¼nych rodzajach kÄ…pieli specjalnych.}
+{273}{}{Tym razem jednak zrezygnujÄ™. Do widzenia.}
+{280}{}{Hmm, wyglÄ…dasz na kogoÅ›, kto rzeczywiÅ›cie bardzo potrzebuje kÄ…pieli. Cena wynosi $35.}
+{281}{}{35$? TrochÄ™ drogo - ale rzeczywiÅ›cie przyda mi siÄ™ kÄ…piel. Niech bÄ™dzie.}
+{282}{}{MogÅ‚abyÅ› jeszcze raz przedstawiÄ‡ mi caÅ‚Ä… ofertÄ™?}
+{283}{}{DziÄ™ki, ale chyba poszukam gdzie indziej.}
+{284}{}{35$ to trochÄ™ drogo... moÅ¼e macie tu jakieÅ› Å‚adne braminy?}
+{290}{}{MyÅ›lÄ™, Å¼e kaÅ¼da z naszych dziewczÄ…t chÄ™tnie wziÄ™Å‚a by z tobÄ… prysznic. Tylko postaraj siÄ™, Å¼eby rzeczywiÅ›cie byÅ‚ szybki (chichocze). Szybki Prysznic kosztuje $55.}
+{291}{}{Brzmi zachÄ™cajÄ…co. Oto $55.}
 {292}{}{Hmm, a co jeszcze oferujecie?}
-{293}{}{Dziêki, ale te pieni¹dze mog¹ mi siê jeszcze przydaæ.}
-{300}{}{Tobie przyda siê raczej niez³e szorowanie. Czy wy - dzikusy - nie u¿ywacie myd³a? A zreszt¹ - jak dla ciebie, Szybki Prysznic kosztuje $70, ale satysfakcja gwarantowana.}
-{301}{}{Jej, $70! To raczej du¿o. Mimo to - chyba bêdzie warto. Spróbujê!}
-{302}{}{Mo¿esz mi przypomnieæ pozosta³e opcje?}
-{303}{}{Chyba jednak nie staæ mnie na wydawanie pieniêdzy na k¹piel.}
-{310}{}{Gwarantujê ci, ¿e nasza D³uga Wszechstronna Królewska K¹piel z Natryskiem w towarzystwie œlicznej Jenny przypadnie ci do gustu. I to za jedyne $125.}
-{311}{}{Nie mogê siê ju¿ doczekaæ na popis umiejêtnoœci Jenny. Oto $125.}
-{312}{}{Mo¿e jednak zdecydujê siê na inn¹ k¹piel. Mo¿esz mi przypomnieæ wasz¹ ofertê.}
-{313}{}{$125 za k¹piel to jak dla mnie stanowczo za du¿o. Nie mogê sobie pozwoliæ na takie wydatki. Do widzenia.}
-{320}{}{Hmm, nie wiem, czy Jenny bêdzie chcia³a obs³u¿yæ klienta w takim stanie. Najpierw przyda ci siê porz¹dne szorowanie. (Do siebie: Mo¿e Gerda zechce siê tym zaj¹æ?) £¹cznie z wstêpnym szorowaniem, D³uga Wszechstronna Królewska K¹piel z Natryskiem bêdzie ciê kosztowa³a $185.}
-{321}{}{Dostanê zarówno Gerdê jak i Jenny? Ale okazja! Oto $185.}
-{322}{}{Czy Gerda to ta... du¿a kobieta z w¹sami? Chyba jednak wybiorê coœ innego.}
-{323}{}{Chyba w tej chwili nie mogê sobie pozwoliæ na taki wydatek. Do widzenia, panny Sally.}
-{324}{}{Gerda nie jest tak naprawdê kobiet¹, prawda? Nie chcê, ¿eby szorowa³ mnie jakiœ zboczony transwestyta. Lepiej ju¿ sobie pójdê.}
-{330}{}{To œwietny wybór, zw³aszcza za takie pieni¹dze.}
-{340}{}{Na pewno ci siê spodoba.}
-{350}{}{Zapewniam ciê, ¿e bêdziesz pod wra¿eniem umiejêtnoœci naszej Jenny. To bêdzie najwspanialsza k¹piel twojego ¿ycia.}
-{360}{}{Tym siê tutaj nie zajmujemy. Porozmawiaj z moimi synami, Chuckiem i Buckiem Duntonami. Zdajê siê, ¿e ich braminy s¹ bardzo popularne w pewnych krêgach.}
-{361}{}{Nie masz tyle pieniêdzy. Wróæ, kiedy bêdzie ciê na to staæ.}
-{362}{}{Widzê, ¿e rozmiar twojego portfela nie dorównuje rozmiarowi... twoich zachcianek. Mo¿e zdecydujesz siê na coœ tañszego?}
-{363}{}{Jestem pewna, ¿e któryœ z moich synów chêtnie ci pomo¿e, ale sugerujê, ¿ebyœ zajrza³a do mnie póŸniej. Wiêkszoœæ dziewcz¹t, które zadaj¹ siê z moimi ch³opcami potrzebuje potem porz¹dnej k¹pieli.}
-{370}{}{Znowu tutaj? Niektórzy nigdy nie maj¹ doœæ k¹pieli.}
-{371}{}{Tym razem tylko siê rozgl¹dam. Nie potrzebujê k¹pieli.}
+{293}{}{DziÄ™ki, ale te pieniÄ…dze mogÄ… mi siÄ™ jeszcze przydaÄ‡.}
+{300}{}{Tobie przyda siÄ™ raczej niezÅ‚e szorowanie. Czy wy - dzikusy - nie uÅ¼ywacie mydÅ‚a? A zresztÄ… - jak dla ciebie, Szybki Prysznic kosztuje $70, ale satysfakcja gwarantowana.}
+{301}{}{Jej, $70! To raczej duÅ¼o. Mimo to - chyba bÄ™dzie warto. SprÃ³bujÄ™!}
+{302}{}{MoÅ¼esz mi przypomnieÄ‡ pozostaÅ‚e opcje?}
+{303}{}{Chyba jednak nie staÄ‡ mnie na wydawanie pieniÄ™dzy na kÄ…piel.}
+{310}{}{GwarantujÄ™ ci, Å¼e nasza DÅ‚uga Wszechstronna KrÃ³lewska KÄ…piel z Natryskiem w towarzystwie Å›licznej Jenny przypadnie ci do gustu. I to za jedyne $125.}
+{311}{}{Nie mogÄ™ siÄ™ juÅ¼ doczekaÄ‡ na popis umiejÄ™tnoÅ›ci Jenny. Oto $125.}
+{312}{}{MoÅ¼e jednak zdecydujÄ™ siÄ™ na innÄ… kÄ…piel. MoÅ¼esz mi przypomnieÄ‡ waszÄ… ofertÄ™.}
+{313}{}{$125 za kÄ…piel to jak dla mnie stanowczo za duÅ¼o. Nie mogÄ™ sobie pozwoliÄ‡ na takie wydatki. Do widzenia.}
+{320}{}{Hmm, nie wiem, czy Jenny bÄ™dzie chciaÅ‚a obsÅ‚uÅ¼yÄ‡ klienta w takim stanie. Najpierw przyda ci siÄ™ porzÄ…dne szorowanie. (Do siebie: MoÅ¼e Gerda zechce siÄ™ tym zajÄ…Ä‡?) ÅÄ…cznie z wstÄ™pnym szorowaniem, DÅ‚uga Wszechstronna KrÃ³lewska KÄ…piel z Natryskiem bÄ™dzie ciÄ™ kosztowaÅ‚a $185.}
+{321}{}{DostanÄ™ zarÃ³wno GerdÄ™ jak i Jenny? Ale okazja! Oto $185.}
+{322}{}{Czy Gerda to ta... duÅ¼a kobieta z wÄ…sami? Chyba jednak wybiorÄ™ coÅ› innego.}
+{323}{}{Chyba w tej chwili nie mogÄ™ sobie pozwoliÄ‡ na taki wydatek. Do widzenia, panny Sally.}
+{324}{}{Gerda nie jest tak naprawdÄ™ kobietÄ…, prawda? Nie chcÄ™, Å¼eby szorowaÅ‚ mnie jakiÅ› zboczony transwestyta. Lepiej juÅ¼ sobie pÃ³jdÄ™.}
+{330}{}{To Å›wietny wybÃ³r, zwÅ‚aszcza za takie pieniÄ…dze.}
+{340}{}{Na pewno ci siÄ™ spodoba.}
+{350}{}{Zapewniam ciÄ™, Å¼e bÄ™dziesz pod wraÅ¼eniem umiejÄ™tnoÅ›ci naszej Jenny. To bÄ™dzie najwspanialsza kÄ…piel twojego Å¼ycia.}
+{360}{}{Tym siÄ™ tutaj nie zajmujemy. Porozmawiaj z moimi synami, Chuckiem i Buckiem Duntonami. ZdajÄ™ siÄ™, Å¼e ich braminy sÄ… bardzo popularne w pewnych krÄ™gach.}
+{361}{}{Nie masz tyle pieniÄ™dzy. WrÃ³Ä‡, kiedy bÄ™dzie ciÄ™ na to staÄ‡.}
+{362}{}{WidzÄ™, Å¼e rozmiar twojego portfela nie dorÃ³wnuje rozmiarowi... twoich zachcianek. MoÅ¼e zdecydujesz siÄ™ na coÅ› taÅ„szego?}
+{363}{}{Jestem pewna, Å¼e ktÃ³ryÅ› z moich synÃ³w chÄ™tnie ci pomoÅ¼e, ale sugerujÄ™, Å¼ebyÅ› zajrzaÅ‚a do mnie pÃ³Åºniej. WiÄ™kszoÅ›Ä‡ dziewczÄ…t, ktÃ³re zadajÄ… siÄ™ z moimi chÅ‚opcami potrzebuje potem porzÄ…dnej kÄ…pieli.}
+{370}{}{Znowu tutaj? NiektÃ³rzy nigdy nie majÄ… doÅ›Ä‡ kÄ…pieli.}
+{371}{}{Tym razem tylko siÄ™ rozglÄ…dam. Nie potrzebujÄ™ kÄ…pieli.}
 {372}{}{Opowiedz mi jeszcze raz o waszej ofercie.}
-{373}{}{Dostanê zni¿kê dla sta³ych klientów?}
-{380}{}{Obawiam siê, ¿e nie. Nasze ceny i tak nie s¹ wygórowane, jeœli weŸmiesz pod uwagê umiejêtnoœci naszych dziewcz¹t.}
-{381}{}{Có¿, jeœli nie oferujecie zni¿ek, to chyba jednak zrezygnujê.}
-{382}{}{To chyba uczciwe. Jakie rodzaje k¹pieli oferujecie?}
-{390}{}{Zanim zawrzemy umowê, muszê ciê uprzedziæ, ¿e k¹piele oferujemy wy³¹cznie klientom indywidualnym. Twoi przyjaciele niestety musz¹ pozostaæ na zewn¹trz.}
-{391}{}{W porz¹dku.}
+{373}{}{DostanÄ™ zniÅ¼kÄ™ dla staÅ‚ych klientÃ³w?}
+{380}{}{Obawiam siÄ™, Å¼e nie. Nasze ceny i tak nie sÄ… wygÃ³rowane, jeÅ›li weÅºmiesz pod uwagÄ™ umiejÄ™tnoÅ›ci naszych dziewczÄ…t.}
+{381}{}{CÃ³Å¼, jeÅ›li nie oferujecie zniÅ¼ek, to chyba jednak zrezygnujÄ™.}
+{382}{}{To chyba uczciwe. Jakie rodzaje kÄ…pieli oferujecie?}
+{390}{}{Zanim zawrzemy umowÄ™, muszÄ™ ciÄ™ uprzedziÄ‡, Å¼e kÄ…piele oferujemy wyÅ‚Ä…cznie klientom indywidualnym. Twoi przyjaciele niestety muszÄ… pozostaÄ‡ na zewnÄ…trz.}
+{391}{}{W porzÄ…dku.}
 {400}{}{Nie chcemy w tej okolicy nikogo takiego, jak ty.}

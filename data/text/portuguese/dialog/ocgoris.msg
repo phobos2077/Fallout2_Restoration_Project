@@ -22,18 +22,18 @@
 {116}{}{Sorry, but I think I'll be leaving.}
 {117}{}{Yes, I've had some adventures. Say, if you wouldn't mind answering some questions for me, I
  could tell you some of my adventures in return.}
-{118}{}{Não é da sua conta.}
+{118}{}{NÃ£o Ã© da sua conta.}
 {119}{}{Mind if I ask you some questions?}
 {120}{}{It's a deal! I would love to hear anything you can tell me.}
 {121}{}{Besides, I couldn't refuse a friend of Gruthar.}
-{122}{}{O que você gostaria de saber?}
+{122}{}{O que vocÃª gostaria de saber?}
 {123}{}{O que faz aqui?}
 {124}{}{Are you a prisoner here?}
 {125}{}{How long have you been here?}
-{126}{}{O que você pode me dizer sobre os deathclaws que estão por aqui?}
+{126}{}{O que vocÃª pode me dizer sobre os deathclaws que estÃ£o por aqui?}
 {127}{}{Do you know what happened to the people who used to live here in the vault?}
 {128}{}{What can you tell me about Gruthar?}
-{129}{}{Você acha que os deathclaws são uma ameaça aos humanos?}
+{129}{}{VocÃª acha que os deathclaws sÃ£o uma ameaÃ§a aos humanos?}
 {130}{}{Do you have any information on this Enclave you spoke of?}
 {131}{}{What do you know about this virus?}
 {132}{}{You mentioned you wanted to do some traveling. How about joining me?}
@@ -75,7 +75,7 @@
  weighed heavily on Gruthar's mind. He's never really forgiven himself for his complicity in the
  affair. The humans were taken alive, but who knows what has happened to them since.}
 {153}{}{Hmm... I need to ask some more questions.}
-{154}{}{Eu sabia que essas pragas de deathclaws tinha alguma coisa a ver. Eu preciso de mais informação.}
+{154}{}{Eu sabia que essas pragas de deathclaws tinha alguma coisa a ver. Eu preciso de mais informaÃ§Ã£o.}
 {155}{}{Sometimes we're forced into doing distasteful things by situations outside of our control.
  Gruthar should learn to forgive himself.}
 {156}{}{Gruthar is not the monster that he appears to be. He genuinely cares about all of us here, and
@@ -168,33 +168,33 @@
 {219}{}{I suddenly sense that my pack is in trouble. I am sorry to leave you, but I must check on my brothers.}
 {220}{}{Tudo bem.}
 {221}{}{The security cameras recorded what has happened. You should go check it.}
-{222}{}{Você vê um deathclaw cinza. É Goris.}
+{222}{}{VocÃª vÃª um deathclaw cinza. Ã‰ Goris.}
 {223}{}{You see a humanoid figure wearing a long sleeved, hooded robe. It's Goris.}
 {1000}{}{Yes,}
-{1001}{}{Você se cura.}
-{1002}{}{Você espera aqui. Eu voltarei logo.}
+{1001}{}{VocÃª se cura.}
+{1002}{}{VocÃª espera aqui. Eu voltarei logo.}
 {1003}{}{Uh... no weapon now. Okay?}
 {1008}{}{You D'claw? Why you no tell?}
 {1009}{}{Eu terminei.}
-{1010}{}{Você deve curar-se agora.}
-{1011}{}{Eu preciso que você espere aqui até eu voltar.}
+{1010}{}{VocÃª deve curar-se agora.}
+{1011}{}{Eu preciso que vocÃª espere aqui atÃ© eu voltar.}
 {1012}{}{Make sure you don't have a weapon ready, Okay?}
-{1016}{}{Vamos lá.}
+{1016}{}{Vamos lÃ¡.}
 {1017}{}{You're a deathclaw? Is there a reason you didn't mention this to me before?}
-{1018}{}{É isso por agora.}
+{1018}{}{Ã‰ isso por agora.}
 {1019}{}{I'm healed and ready to go,}
 {1020}{}{I'm almost completely healed,}
 {1021}{}{I'm mostly healed, but I could use some assistance when we get the chance,}
 {1022}{}{I've healed myself as much as I can, but I'm still pretty badly hurt,}
 {1041}{}{I'll be waiting here for you when you get back,}
 {1060}{}{I do my best to look inconspicuous,}
-{1064}{}{Você ficar perto.}
-{1065}{}{Você não se afasta.}
-{1066}{}{Você muito perto. Espalhe.}
+{1064}{}{VocÃª ficar perto.}
+{1065}{}{VocÃª nÃ£o se afasta.}
+{1066}{}{VocÃª muito perto. Espalhe.}
 {1073}{}{Ficar perto de mim.}
-{1074}{}{Não fique muito longe.}
+{1074}{}{NÃ£o fique muito longe.}
 {1075}{}{Devemos espalhar um pouco.}
-{1078}{}{É isso por agora.}
+{1078}{}{Ã‰ isso por agora.}
 {1079}{}{I'll stay as close as I can,}
 {1098}{}{I'll move out a bit and give you room to breathe,}
 {1117}{}{I'll hang back and give you some room,}

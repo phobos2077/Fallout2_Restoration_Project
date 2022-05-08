@@ -23,7 +23,7 @@
 {122}{}{Por que isso?}
 {123}{}{I've got work to do. Goodbye.}
 {124}{}{Carry on, trooper. The future will be better tomorrow.}
-{125}{}{O que você quer dizer com isso?}
+{125}{}{O que vocÃª quer dizer com isso?}
 {126}{}{Not for you it won't. I'm exterminating all pompous slugs in the Enclave and you're next.}
 {127}{}{Uh, sim. Tanto faz. Adeus.}
 {128}{}{We have to work together because if we don't succeed, we run the risk of failure.}

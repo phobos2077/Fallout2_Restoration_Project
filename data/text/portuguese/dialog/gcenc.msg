@@ -1,1 +1,1 @@
-{100}{}{Você não obtém resposta do guarda.}
+{100}{}{VocÃª nÃ£o obtÃ©m resposta do guarda.}

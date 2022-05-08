@@ -1,11 +1,11 @@
-{100}{}{Egy ?rt látsz.}
-{101}{}{Ez az ember a karaván mellé beosztott ?rök egyike. Mindannyiótokat közös érdek vezérel.}
-{200}{}{Karavánsegít?.}
-{201}{}{Ez az ember a karaván mellé beosztott segít?k egyike. Mindannyiótokat közös érdek vezérel.}
-{300}{}{Remélem, nem lesz sokkal több esemény a hátralév? út során.}
-{301}{}{Jó lesz felvenni a fizetséget az út végén.}
-{302}{}{Remélem, mikor megérkezünk, nyitva lesz valami bár.}
-{303}{}{Jó lesz végre valami igazi kaját is enni.}
-{304}{}{Mindig is szerettem az utazást. Szerintem ez áll hozzá a legközelebb.}
-{305}{}{A lábam már alig bírja. Bárcsak jobban sietnének ezek a hülye brahminok.}
-{306}{}{Úgy hallottam, ebb?l az utazásból már nem sok jó néz ki.}
+{100}{}{Egy ?rt lÃ¡tsz.}
+{101}{}{Ez az ember a karavÃ¡n mellÃ© beosztott ?rÃ¶k egyike. MindannyiÃ³tokat kÃ¶zÃ¶s Ã©rdek vezÃ©rel.}
+{200}{}{KaravÃ¡nsegÃ­t?.}
+{201}{}{Ez az ember a karavÃ¡n mellÃ© beosztott segÃ­t?k egyike. MindannyiÃ³tokat kÃ¶zÃ¶s Ã©rdek vezÃ©rel.}
+{300}{}{RemÃ©lem, nem lesz sokkal tÃ¶bb esemÃ©ny a hÃ¡tralÃ©v? Ãºt sorÃ¡n.}
+{301}{}{JÃ³ lesz felvenni a fizetsÃ©get az Ãºt vÃ©gÃ©n.}
+{302}{}{RemÃ©lem, mikor megÃ©rkezÃ¼nk, nyitva lesz valami bÃ¡r.}
+{303}{}{JÃ³ lesz vÃ©gre valami igazi kajÃ¡t is enni.}
+{304}{}{Mindig is szerettem az utazÃ¡st. Szerintem ez Ã¡ll hozzÃ¡ a legkÃ¶zelebb.}
+{305}{}{A lÃ¡bam mÃ¡r alig bÃ­rja. BÃ¡rcsak jobban sietnÃ©nek ezek a hÃ¼lye brahminok.}
+{306}{}{Ãšgy hallottam, ebb?l az utazÃ¡sbÃ³l mÃ¡r nem sok jÃ³ nÃ©z ki.}

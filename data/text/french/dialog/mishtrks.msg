@@ -1,2 +1,2 @@
-{100}{}{Des explosifs pourraient aisément dégager ce passage.}
-{200}{}{tu réussis à faire exploser les rochers.}
+{100}{}{Des explosifs pourraient aisÃ©ment dÃ©gager ce passage.}
+{200}{}{tu rÃ©ussis Ã  faire exploser les rochers.}

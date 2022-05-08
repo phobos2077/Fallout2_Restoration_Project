@@ -1,2 +1,2 @@
 {100}{}{Widzisz kurczaka Rose.}
-{110}{}{Z odg³osów dochodz¹cych ze œrodka mo¿na wnioskowaæ, ¿e siedzi tam coœ naprawdê du¿ego.}
+{110}{}{Z odgÅ‚osÃ³w dochodzÄ…cych ze Å›rodka moÅ¼na wnioskowaÄ‡, Å¼e siedzi tam coÅ› naprawdÄ™ duÅ¼ego.}

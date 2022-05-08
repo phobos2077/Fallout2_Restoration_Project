@@ -1,20 +1,20 @@
-{100}{}{Bokszoló.}
+{100}{}{BokszolÃ³.}
 {101}{}{? Evan Hollyfeld.}
-{150}{}{Ez itt egy zömök fickó, masszív, szögletes állkapoccsal. A fülei alaposan meg vannak tépázva.}
-{151}{}{A fülei alaposan meg vannak tépázva.}
-{152}{}{A fülei alaposan meg vannak tépázva.}
+{150}{}{Ez itt egy zÃ¶mÃ¶k fickÃ³, masszÃ­v, szÃ¶gletes Ã¡llkapoccsal. A fÃ¼lei alaposan meg vannak tÃ©pÃ¡zva.}
+{151}{}{A fÃ¼lei alaposan meg vannak tÃ©pÃ¡zva.}
+{152}{}{A fÃ¼lei alaposan meg vannak tÃ©pÃ¡zva.}
 {200}{}{Hnffff}
 {201}{}{Hnrrgggg}
-{202}{}{::Nyöszörögve tapogatja a fülét::}
-{203}{}{::Befeszít::}
-{300}{}{::A füleihez nyúlkál és közben egyre csak bámul::}
+{202}{}{::NyÃ¶szÃ¶rÃ¶gve tapogatja a fÃ¼lÃ©t::}
+{203}{}{::BefeszÃ­t::}
+{300}{}{::A fÃ¼leihez nyÃºlkÃ¡l Ã©s kÃ¶zben egyre csak bÃ¡mul::}
 {301}{}{Me like head-butt.}
 {302}{}{Me and Mike butt heads.}
 {303}{}{I butt Mike but he bite my ears.}
 {304}{}{Mike bite my ears cause he hungry.}
 {305}{}{Me no hear good.}
-{306}{}{::Megvakarja a füle helyét::}
-{307}{}{Nahát...}
+{306}{}{::Megvakarja a fÃ¼le helyÃ©t::}
+{307}{}{NahÃ¡t...}
 {308}{}{Mi? Nem hallak.}
 {309}{}{Ear today gone tomorrow.}
 {310}{}{Harapol?}
@@ -26,7 +26,7 @@
 {316}{}{I butt Mike but he bite my ears.}
 {317}{}{Mike bite my ears cause he hungry.}
 {318}{}{Me no hear good.}
-{319}{}{::Megvakarja a füle helyét::}
-{320}{}{Nahát...}
+{319}{}{::Megvakarja a fÃ¼le helyÃ©t::}
+{320}{}{NahÃ¡t...}
 {321}{}{Mi? Nem hallak.}
 {322}{}{Ear today gone tomorrow.}

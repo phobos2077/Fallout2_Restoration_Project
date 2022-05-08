@@ -1,38 +1,38 @@
 {100}{}{Ves a un joven de aspecto fuerte.}
-{101}{}{Ves al señor Peterson.}
-{200}{}{Hola, amigo. No te he visto por aquí antes. ¿Primera vez a la Abadía?}
-{201}{}{¡Es bueno que hayas vuelto! ¿Qué puedo hacer por ti?}
-{202}{}{Sí. ¿Qué puedes contarme sobre este lugar?}
-{203}{}{Estoy en una misión para el sagrado GECK. ¿Sabes algo de esto?}
-{204}{}{El hermano Samuel dijo que podrías saber algo sobre quién está perturbando las tumbas. Él dijo que escuchaste algunos ruidos provenientes de los cultivos.}
-{205}{}{Olvídelo, debo irme.}
-{300}{}{La esposa y yo vinimos hace unos años en una caravana. Nos gustó tanto que decidimos quedarnos y comenzar nuestra propia pequeña granja. Déjame decirte, la Abadía podría no ser tan llamativa como Nuevo Reno, o tan avanzada como Ciudad Refugio, pero en lo que a mí respecta, este lugar es tan bueno como el Yermo. La gente aquí es decente, y las personas se cuidan mutuamente. Claro, algunos lugares pueden ofrecer más seguridad, pero a costa de la libertad personal. No gracias.}
-{301}{}{¿Viniste en una caravana? ¿Vienen aquí a menudo?}
-{302}{}{Realmente no. La Abadía es demasiado pequeña y está aislada para que las caravanas nos presten mucha atención. Sin embargo no importa, somos una comunidad bastante auto suficiente - cultivamos nuestra propia comida, elaboramos nuestra propio licor - por lo que nos las arreglamos bien. De todos modos, Bill es el hombre para hablar sobre caravanas, dirige la tienda general justo al suroeste de aquí.}
-{303}{}{Eso sueña genial, pero realmente debo marcharme.}
-{304}{}{Interesante. Tenía curiosidad por algo más.}
-{305}{}{Olvídelo, debo irme.}
-{400}{}{¿Qué más querías saber?}
-{401}{}{¿Qué puedes contarme acerca de la Abadía?}
-{402}{}{¿Sabes algo sobre el Kit de Creación del Jardín del Edén?}
-{500}{}{Lo siento amigo, nunca he oído hablar de eso. Pero si tiene que ver con los tiempos de la pre-guerra, entonces apuesto a que hay algo al respecto en las computadoras del monasterio. Desafortunadamente para ti, esos monjes son realmente protectores de su información, temerosos de que conduzca a otra guerra o algo así si las personas aprenden demasiado. Aún así, podría valer la pena preguntar por allí.}
-{501}{}{Gracias, lo haré. Sin embargo, tengo algunas preguntas más.}
+{101}{}{Ves al seÃ±or Peterson.}
+{200}{}{Hola, amigo. No te he visto por aquÃ­ antes. Â¿Primera vez a la AbadÃ­a?}
+{201}{}{Â¡Es bueno que hayas vuelto! Â¿QuÃ© puedo hacer por ti?}
+{202}{}{SÃ­. Â¿QuÃ© puedes contarme sobre este lugar?}
+{203}{}{Estoy en una misiÃ³n para el sagrado GECK. Â¿Sabes algo de esto?}
+{204}{}{El hermano Samuel dijo que podrÃ­as saber algo sobre quiÃ©n estÃ¡ perturbando las tumbas. Ã‰l dijo que escuchaste algunos ruidos provenientes de los cultivos.}
+{205}{}{OlvÃ­delo, debo irme.}
+{300}{}{La esposa y yo vinimos hace unos aÃ±os en una caravana. Nos gustÃ³ tanto que decidimos quedarnos y comenzar nuestra propia pequeÃ±a granja. DÃ©jame decirte, la AbadÃ­a podrÃ­a no ser tan llamativa como Nuevo Reno, o tan avanzada como Ciudad Refugio, pero en lo que a mÃ­ respecta, este lugar es tan bueno como el Yermo. La gente aquÃ­ es decente, y las personas se cuidan mutuamente. Claro, algunos lugares pueden ofrecer mÃ¡s seguridad, pero a costa de la libertad personal. No gracias.}
+{301}{}{Â¿Viniste en una caravana? Â¿Vienen aquÃ­ a menudo?}
+{302}{}{Realmente no. La AbadÃ­a es demasiado pequeÃ±a y estÃ¡ aislada para que las caravanas nos presten mucha atenciÃ³n. Sin embargo no importa, somos una comunidad bastante auto suficiente - cultivamos nuestra propia comida, elaboramos nuestra propio licor - por lo que nos las arreglamos bien. De todos modos, Bill es el hombre para hablar sobre caravanas, dirige la tienda general justo al suroeste de aquÃ­.}
+{303}{}{Eso sueÃ±a genial, pero realmente debo marcharme.}
+{304}{}{Interesante. TenÃ­a curiosidad por algo mÃ¡s.}
+{305}{}{OlvÃ­delo, debo irme.}
+{400}{}{Â¿QuÃ© mÃ¡s querÃ­as saber?}
+{401}{}{Â¿QuÃ© puedes contarme acerca de la AbadÃ­a?}
+{402}{}{Â¿Sabes algo sobre el Kit de CreaciÃ³n del JardÃ­n del EdÃ©n?}
+{500}{}{Lo siento amigo, nunca he oÃ­do hablar de eso. Pero si tiene que ver con los tiempos de la pre-guerra, entonces apuesto a que hay algo al respecto en las computadoras del monasterio. Desafortunadamente para ti, esos monjes son realmente protectores de su informaciÃ³n, temerosos de que conduzca a otra guerra o algo asÃ­ si las personas aprenden demasiado. AÃºn asÃ­, podrÃ­a valer la pena preguntar por allÃ­.}
+{501}{}{Gracias, lo harÃ©. Sin embargo, tengo algunas preguntas mÃ¡s.}
 {502}{}{Gracias por el consejo. Voy a comprobar eso ahora.}
-{600}{}{¿El hermano Samuel te envió aquí? ¿Qué es de ese borracho hasta ahora?}
+{600}{}{Â¿El hermano Samuel te enviÃ³ aquÃ­? Â¿QuÃ© es de ese borracho hasta ahora?}
 {601}{}{Cuidando de las tumbas como de costumbre supongo. Entonces, sobre lo que escuchaste ...}
-{602}{}{[John se sienta en su silla y se sirve una trago de whisky.] Todo comenzó hace un par de días. Mi esposa y
- yo estábamos preparándonos para irnos a la cama cuando escuchamos un crujido en el campo. Agarré mi linterna y corrí afuera para ver si podia encontrar la fuente del ruido. Tan pronto como llegué a los campos, los ruidos se habían detenido.}
-{603}{}{Continúa.}
+{602}{}{[John se sienta en su silla y se sirve una trago de whisky.] Todo comenzÃ³ hace un par de dÃ­as. Mi esposa y
+ yo estÃ¡bamos preparÃ¡ndonos para irnos a la cama cuando escuchamos un crujido en el campo. AgarrÃ© mi linterna y corrÃ­ afuera para ver si podia encontrar la fuente del ruido. Tan pronto como lleguÃ© a los campos, los ruidos se habÃ­an detenido.}
+{603}{}{ContinÃºa.}
 {604}{}{Mira, realmente debo irme.}
-{605}{}{Bueno, la noche siguiente no escuchamos nada. Pero la noche después de eso, escuchamos crujidos provenientes del campo de nuevo. Esta vez me arrastré hasta la ventana y miré en vez de salir corriendo. Mirando en la oscuridad, vi una luz tenue, como de una linterna vieja o algo así, moviéndose entre los cultivos. Después de un par de minutos, la luz se movió hacia el cementerio.}
-{606}{}{Yo quería salir y enfrentarme a quien sea o lo que fuera, pero mi esposa me convenció para que permaneciera adentro y revisara las cosas en la mañana. Así que a la mañana siguiente, veo que se han comido algunos de mis cultivos y huellas frescas alrededor. Ahora, no me importa alimentar a los pobres, pero no me agradan los ladrones.}
-{607}{}{Trataré de atrapar a este individuo. Quizás espere alrededor de la medianoche y veré si puedo encontrar algo. Bueno, gracias por la información. Cuídese.}
-{608}{}{Veré lo que puedo hacer. Tengo algunas preguntas más antes de irme...}
-{609}{}{Esta historia se está haciendo un poco demasiado largo. Adiós.}
-{610}{}{Déjeme entenderlo. Estarías feliz de ayudar a alguien que acecha en su casa por la noche, roba sus cultivos, y trata de robar a sus muertos? He conocido a muchos locos en mi época, pero es posible que te lleves el pastel. Es una maravilla que hallas sobrevivido tanto tiempo.}
-{611}{}{[Él entorna los ojos, pero se las arregla para mantener la compostura.] Así es como hacemos las cosas aquí en la Abadía. Si amabilidad es tan ofensivo para ti, entonces te sugiero que te vayas de mi casa. No voy a sentarme aquí y dejar a una tribal errante me insulte frente a mi esposa.}
+{605}{}{Bueno, la noche siguiente no escuchamos nada. Pero la noche despuÃ©s de eso, escuchamos crujidos provenientes del campo de nuevo. Esta vez me arrastrÃ© hasta la ventana y mirÃ© en vez de salir corriendo. Mirando en la oscuridad, vi una luz tenue, como de una linterna vieja o algo asÃ­, moviÃ©ndose entre los cultivos. DespuÃ©s de un par de minutos, la luz se moviÃ³ hacia el cementerio.}
+{606}{}{Yo querÃ­a salir y enfrentarme a quien sea o lo que fuera, pero mi esposa me convenciÃ³ para que permaneciera adentro y revisara las cosas en la maÃ±ana. AsÃ­ que a la maÃ±ana siguiente, veo que se han comido algunos de mis cultivos y huellas frescas alrededor. Ahora, no me importa alimentar a los pobres, pero no me agradan los ladrones.}
+{607}{}{TratarÃ© de atrapar a este individuo. QuizÃ¡s espere alrededor de la medianoche y verÃ© si puedo encontrar algo. Bueno, gracias por la informaciÃ³n. CuÃ­dese.}
+{608}{}{VerÃ© lo que puedo hacer. Tengo algunas preguntas mÃ¡s antes de irme...}
+{609}{}{Esta historia se estÃ¡ haciendo un poco demasiado largo. AdiÃ³s.}
+{610}{}{DÃ©jeme entenderlo. EstarÃ­as feliz de ayudar a alguien que acecha en su casa por la noche, roba sus cultivos, y trata de robar a sus muertos? He conocido a muchos locos en mi Ã©poca, pero es posible que te lleves el pastel. Es una maravilla que hallas sobrevivido tanto tiempo.}
+{611}{}{[Ã‰l entorna los ojos, pero se las arregla para mantener la compostura.] AsÃ­ es como hacemos las cosas aquÃ­ en la AbadÃ­a. Si amabilidad es tan ofensivo para ti, entonces te sugiero que te vayas de mi casa. No voy a sentarme aquÃ­ y dejar a una tribal errante me insulte frente a mi esposa.}
 {612}{}{Vale, vale, ya me voy.}
-{613}{}{OK tipo duro, ahora esta "tribal errante" te va a matar frente a tu esposa. Entonces tal vez la mate también. Demonios, tal vez mate a todos en este patético maldito lugar. ¿Pensabas que podías esconderte del horror del Yermo? Bueno, ¿sabes qué, mi ingenuo amigo? Horror te ha encontrado, y su nombre es }
-{700}{}{Lárgate de hache ya.}
-{710}{}{Qué bueno verte de nuevo. Tom ha sido de gran ayuda por aquí. Gracias de nuevo por ordenar todo eso. Ahora, ¿qué puedo hacer por ti?}
-{6061}{}{Después de eso, le pregunté al Hermano Samuel si algo había sucedido en el cementerio. Fue entonces cuando me dijo que alguien había comenzado a desenterrar algunas de las tumbas. Aparentemente, quien sea que haga esto no es lo suficientemente fuerte como para cavar en una noche. Supongo que es un viejo mendigo que espera desenterrar un tesoro. Si alguna vez descubres quién está haciendo esto, diles que se detengan. No hay necesidad de robar aquí en la Abadía y estaría feliz de ayudar a esta persona de cualquier manera que pueda.}
+{613}{}{OK tipo duro, ahora esta "tribal errante" te va a matar frente a tu esposa. Entonces tal vez la mate tambiÃ©n. Demonios, tal vez mate a todos en este patÃ©tico maldito lugar. Â¿Pensabas que podÃ­as esconderte del horror del Yermo? Bueno, Â¿sabes quÃ©, mi ingenuo amigo? Horror te ha encontrado, y su nombre es }
+{700}{}{LÃ¡rgate de hache ya.}
+{710}{}{QuÃ© bueno verte de nuevo. Tom ha sido de gran ayuda por aquÃ­. Gracias de nuevo por ordenar todo eso. Ahora, Â¿quÃ© puedo hacer por ti?}
+{6061}{}{DespuÃ©s de eso, le preguntÃ© al Hermano Samuel si algo habÃ­a sucedido en el cementerio. Fue entonces cuando me dijo que alguien habÃ­a comenzado a desenterrar algunas de las tumbas. Aparentemente, quien sea que haga esto no es lo suficientemente fuerte como para cavar en una noche. Supongo que es un viejo mendigo que espera desenterrar un tesoro. Si alguna vez descubres quiÃ©n estÃ¡ haciendo esto, diles que se detengan. No hay necesidad de robar aquÃ­ en la AbadÃ­a y estarÃ­a feliz de ayudar a esta persona de cualquier manera que pueda.}

@@ -1,40 +1,40 @@
 {100}{}{To jest chyba border collie.}
 {101}{}{Widzisz Laddie.}
-{102}{}{Ten pies wygl¹da na bardzo inteligentn¹ i czujn¹ bestiê.}
-{103}{}{Nie masz w¹tpliwoœci, ¿e ten pies jest prawdopodobnie bystrzejszy od ciebie.}
+{102}{}{Ten pies wyglÄ…da na bardzo inteligentnÄ… i czujnÄ… bestiÄ™.}
+{103}{}{Nie masz wÄ…tpliwoÅ›ci, Å¼e ten pies jest prawdopodobnie bystrzejszy od ciebie.}
 {150}{}{Hau!}
 {151}{}{Hau! Hau!}
 {152}{}{Hau! Hau! Hau!}
-{153}{}{[Ten pies jest czymœ bardzo zdenerwowany.]}
+{153}{}{[Ten pies jest czymÅ› bardzo zdenerwowany.]}
 {154}{}{Dobry piesek.}
 {155}{}{Piesku, czy wiesz, gdzie jest Jonny?}
-{156}{}{Zostañ tu, Laddie.}
-{157}{}{ChodŸmy poszukaæ Jonny'ego.}
-{158}{}{Laddie, czy Jonny wpad³ do studni?}
-{159}{}{Co jest piesku, chcesz mi coœ powiedzieæ?}
-{160}{}{Grrrr! [Z dzikoœci¹ w oku Laddie gryzie ciê w ty³ek]}
-{161}{}{[Hmm... z jakiegoœ powodu nie lubi ciê.]}
-{162}{}{Hau! Hau! Hau! [Laddie skacze na ciebie i li¿e ciê po twarzy]}
-{163}{}{[Jaki mi³y piesek]}
-{164}{}{Hau? [Niemal s³yszysz, jak pies siê z ciebie œmieje]}
-{165}{}{[Nikt nie lubi m¹drali]}
-{167}{}{Czy Jonny jest gdzieœ tutaj, w Modoc?}
-{168}{}{Czy Jonny opuœci³ Modoc?}
-{169}{}{Czy Jonny zosta³ porwany przez obcych?}
-{170}{}{Nie mam czasu na zabawy, Laddie. Musimy znaleŸæ Jonny'ego. Ruszajmy.}
-{171}{}{Niedaleko rzeŸni?}
+{156}{}{ZostaÅ„ tu, Laddie.}
+{157}{}{ChodÅºmy poszukaÄ‡ Jonny'ego.}
+{158}{}{Laddie, czy Jonny wpadÅ‚ do studni?}
+{159}{}{Co jest piesku, chcesz mi coÅ› powiedzieÄ‡?}
+{160}{}{Grrrr! [Z dzikoÅ›ciÄ… w oku Laddie gryzie ciÄ™ w tyÅ‚ek]}
+{161}{}{[Hmm... z jakiegoÅ› powodu nie lubi ciÄ™.]}
+{162}{}{Hau! Hau! Hau! [Laddie skacze na ciebie i liÅ¼e ciÄ™ po twarzy]}
+{163}{}{[Jaki miÅ‚y piesek]}
+{164}{}{Hau? [Niemal sÅ‚yszysz, jak pies siÄ™ z ciebie Å›mieje]}
+{165}{}{[Nikt nie lubi mÄ…drali]}
+{167}{}{Czy Jonny jest gdzieÅ› tutaj, w Modoc?}
+{168}{}{Czy Jonny opuÅ›ciÅ‚ Modoc?}
+{169}{}{Czy Jonny zostaÅ‚ porwany przez obcych?}
+{170}{}{Nie mam czasu na zabawy, Laddie. Musimy znaleÅºÄ‡ Jonny'ego. Ruszajmy.}
+{171}{}{Niedaleko rzeÅºni?}
 {172}{}{Niedaleko garbarni?}
-{173}{}{Niedaleko placówki handlowej?}
+{173}{}{Niedaleko placÃ³wki handlowej?}
 {174}{}{Niedaleko studni?}
-{175}{}{Wiêc mo¿e gdzieœ indziej?}
+{175}{}{WiÄ™c moÅ¼e gdzieÅ› indziej?}
 {177}{}{Niedaleko Pensjonatu Rose?}
-{180}{}{Poszed³ na pó³noc?}
-{181}{}{Poszed³ na po³udnie?}
-{182}{}{Poszed³ na wschód?}
-{183}{}{Poszed³ na zachód?}
+{180}{}{PoszedÅ‚ na pÃ³Å‚noc?}
+{181}{}{PoszedÅ‚ na poÅ‚udnie?}
+{182}{}{PoszedÅ‚ na wschÃ³d?}
+{183}{}{PoszedÅ‚ na zachÃ³d?}
 {186}{}{Hau?}
-{187}{}{W porz¹dku, wiêc mo¿e gdzie indziej?}
-{190}{}{Bawi³ siê w policjantów i z³odziei i przypadkowo wpad³ do studni, a ty chcesz, ¿eby zdobyæ linê i zejœæ na dó³, by go uratowaæ. Dobrze wiêc, chodŸmy, Laddie. [Zdumiewaj¹ce!]}
-{191}{}{Bawi³ siê w policjantów i z³odziei i przypadkowo wpad³ do studni, a ty chcesz, ¿eby u¿yæ mojej liny i zejœæ na dó³, by go uratowaæ. Dobrze wiêc, chodŸmy, Laddie. [Zdumiewaj¹ce!]}
-{195}{}{W porz¹dku, zdobêdê linê i zejdê po niej w g³¹b studni po Jonnego.}
-{196}{}{W porz¹dku, u¿yjê mojej liny i zejdê po niej w g³¹b studni po Jonnego.}
+{187}{}{W porzÄ…dku, wiÄ™c moÅ¼e gdzie indziej?}
+{190}{}{BawiÅ‚ siÄ™ w policjantÃ³w i zÅ‚odziei i przypadkowo wpadÅ‚ do studni, a ty chcesz, Å¼eby zdobyÄ‡ linÄ™ i zejÅ›Ä‡ na dÃ³Å‚, by go uratowaÄ‡. Dobrze wiÄ™c, chodÅºmy, Laddie. [ZdumiewajÄ…ce!]}
+{191}{}{BawiÅ‚ siÄ™ w policjantÃ³w i zÅ‚odziei i przypadkowo wpadÅ‚ do studni, a ty chcesz, Å¼eby uÅ¼yÄ‡ mojej liny i zejÅ›Ä‡ na dÃ³Å‚, by go uratowaÄ‡. Dobrze wiÄ™c, chodÅºmy, Laddie. [ZdumiewajÄ…ce!]}
+{195}{}{W porzÄ…dku, zdobÄ™dÄ™ linÄ™ i zejdÄ™ po niej w gÅ‚Ä…b studni po Jonnego.}
+{196}{}{W porzÄ…dku, uÅ¼yjÄ™ mojej liny i zejdÄ™ po niej w gÅ‚Ä…b studni po Jonnego.}

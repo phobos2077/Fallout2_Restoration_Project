@@ -1,35 +1,35 @@
 {100}{}{Ves a un Shi con ropa blanca.}
-{101}{}{Ves a un técnico de laboratorio Shi.}
-{102}{}{Ves a un Shi con ropa blanca en un laboratorio científico.}
-{103}{}{Amigo... Wong es un negrero, vaya que sí.}
-{104}{}{Trabajo, trabajo, trabajo. Eso es para lo único que valemos.}
-{105}{}{¡Cambiaremos el Yermo con este experimento!}
-{106}{}{¡Cuidado, Yermo! ¡Tenemos algo para ti!}
+{101}{}{Ves a un tÃ©cnico de laboratorio Shi.}
+{102}{}{Ves a un Shi con ropa blanca en un laboratorio cientÃ­fico.}
+{103}{}{Amigo... Wong es un negrero, vaya que sÃ­.}
+{104}{}{Trabajo, trabajo, trabajo. Eso es para lo Ãºnico que valemos.}
+{105}{}{Â¡Cambiaremos el Yermo con este experimento!}
+{106}{}{Â¡Cuidado, Yermo! Â¡Tenemos algo para ti!}
 {107}{}{Quiero ver el sol otra vez.}
 {108}{}{Mezcla esto. Mezcla aquello. A veces me aburro mucho.}
-{109}{}{¡¿Has visto los últimos resultados del gran experimento?! ¡De los más satisfactorios!}
+{109}{}{Â¡Â¿Has visto los Ãºltimos resultados del gran experimento?! Â¡De los mÃ¡s satisfactorios!}
 {110}{}{Perdona.}
-{116}{}{¡Ja! ¡Eso les enseñará a esos espías a colarse aquí!}
-{117}{}{Los piratas no volverán a intentar ESO otra vez.}
+{116}{}{Â¡Ja! Â¡Eso les enseÃ±arÃ¡ a esos espÃ­as a colarse aquÃ­!}
+{117}{}{Los piratas no volverÃ¡n a intentar ESO otra vez.}
 {118}{}{Si no podemos derrotarlos con la ciencia, lo haremos con nuestros guerreros.}
-{119}{}{Lo Pan y el Dragón juntos. Eso es un pensamiento espeluznante.}
-{120}{}{Ese pirata no duró mucho.}
-{121}{}{Trabajo, trabajo, trabajo. Eso es para lo único que valemos.}
-{122}{}{¡Cambiaremos el Yermo!}
-{123}{}{¡Cuidado, Yermo!}
+{119}{}{Lo Pan y el DragÃ³n juntos. Eso es un pensamiento espeluznante.}
+{120}{}{Ese pirata no durÃ³ mucho.}
+{121}{}{Trabajo, trabajo, trabajo. Eso es para lo Ãºnico que valemos.}
+{122}{}{Â¡Cambiaremos el Yermo!}
+{123}{}{Â¡Cuidado, Yermo!}
 {124}{}{Quiero ver el sol otra vez.}
 {127}{}{Sheng Ming es un vil gusano.}
-{128}{}{Un día de estos, habremos terminado.}
+{128}{}{Un dÃ­a de estos, habremos terminado.}
 {129}{}{Por la gloria del Emperador. Correcto.}
-{130}{}{¿Lo has oído? ¡Alguien pirateó nuestras computadoras!}
-{131}{}{Apostaría a que lo hicieron los Hubologistas.}
-{132}{}{Deberíamos soltar un virus sobre los Hubologistas.}
-{133}{}{¡Quiero vengarme de los piratas!}
-{134}{}{Algún día encontraremos a quien nos pirateó.}
-{135}{}{Trabajo, trabajo, trabajo. Eso es para lo único que valemos.}
-{144}{}{¡Aquí estamos haciendo un buen trabajo! ¡No lo estropees!}
-{145}{}{¡Estamos intentando salvar al Yermo, idiota!}
-{146}{}{¡No! ¡Nuestros científicos no!}
-{147}{}{¡Ayuda! ¡Guardias!}
-{148}{}{¡Por favor! ¡Tú no lo entiendes!}
-{149}{}{¡No! ¡Nuestros experimentos!}
+{130}{}{Â¿Lo has oÃ­do? Â¡Alguien pirateÃ³ nuestras computadoras!}
+{131}{}{ApostarÃ­a a que lo hicieron los Hubologistas.}
+{132}{}{DeberÃ­amos soltar un virus sobre los Hubologistas.}
+{133}{}{Â¡Quiero vengarme de los piratas!}
+{134}{}{AlgÃºn dÃ­a encontraremos a quien nos pirateÃ³.}
+{135}{}{Trabajo, trabajo, trabajo. Eso es para lo Ãºnico que valemos.}
+{144}{}{Â¡AquÃ­ estamos haciendo un buen trabajo! Â¡No lo estropees!}
+{145}{}{Â¡Estamos intentando salvar al Yermo, idiota!}
+{146}{}{Â¡No! Â¡Nuestros cientÃ­ficos no!}
+{147}{}{Â¡Ayuda! Â¡Guardias!}
+{148}{}{Â¡Por favor! Â¡TÃº no lo entiendes!}
+{149}{}{Â¡No! Â¡Nuestros experimentos!}

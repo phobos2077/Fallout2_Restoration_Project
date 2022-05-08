@@ -1,9 +1,9 @@
-{100}{}{W otwartej szafce znajduj¹ siê rzêdy segregatorów oraz zeszytów.}
-{101}{}{Przeszukujesz szafkê.}
-{102}{}{OdejdŸ.}
-{103}{}{Podczas, gdy przeszukujesz przeró¿ne zapisy w dokumentach, zauwa¿asz jak¹œ cienk¹ skórzan¹ teczkê g³êboko wepchniêt¹ miêdzy segregatory.}
-{104}{}{Wyci¹gnij teczkê.}
-{105}{}{Zignoruj i kontynuuj przegl¹danie.}
-{106}{}{Minê³o ponad pó³ godziny i nie znajdujesz niczego godnego uwagi. Jedyn¹ rzecz¹, jak¹ udaje ci siê ustaliæ, jest to, ¿e Chad zapisa³ w tych dokumentach ka¿d¹ chwilê swojego ¿ycia. Dochodzisz do wniosku, ¿e w³aœciwie to jest on nudnym facetem. 
-W tym momencie, kiedy ju¿ masz zamkn¹æ szufladê s³yszysz, jak ktoœ zakaszla³ a drzwi wejœciowe zaczynaj¹ siê otwieraæ...}
-{107}{}{Wyci¹gnij teczkê.}
+{100}{}{W otwartej szafce znajdujÄ… siÄ™ rzÄ™dy segregatorÃ³w oraz zeszytÃ³w.}
+{101}{}{Przeszukujesz szafkÄ™.}
+{102}{}{OdejdÅº.}
+{103}{}{Podczas, gdy przeszukujesz przerÃ³Å¼ne zapisy w dokumentach, zauwaÅ¼asz jakÄ…Å› cienkÄ… skÃ³rzanÄ… teczkÄ™ gÅ‚Ä™boko wepchniÄ™tÄ… miÄ™dzy segregatory.}
+{104}{}{WyciÄ…gnij teczkÄ™.}
+{105}{}{Zignoruj i kontynuuj przeglÄ…danie.}
+{106}{}{MinÄ™Å‚o ponad pÃ³Å‚ godziny i nie znajdujesz niczego godnego uwagi. JedynÄ… rzeczÄ…, jakÄ… udaje ci siÄ™ ustaliÄ‡, jest to, Å¼e Chad zapisaÅ‚ w tych dokumentach kaÅ¼dÄ… chwilÄ™ swojego Å¼ycia. Dochodzisz do wniosku, Å¼e wÅ‚aÅ›ciwie to jest on nudnym facetem. 
+W tym momencie, kiedy juÅ¼ masz zamknÄ…Ä‡ szufladÄ™ sÅ‚yszysz, jak ktoÅ› zakaszlaÅ‚ a drzwi wejÅ›ciowe zaczynajÄ… siÄ™ otwieraÄ‡...}
+{107}{}{WyciÄ…gnij teczkÄ™.}

@@ -1,14 +1,14 @@
-{100}{}{¡Orgullo gay!}
-{101}{}{¡Abajo los heteros!}
-{102}{}{¡Los forasteros no son bienvenidos!}
-{103}{}{¡Orgullosa de ser lesbiana!}
-{104}{}{¡Chicas al poder!}
-{105}{}{¡No necesitamos a los hombres!}
-{106}{}{La Confederación Arcoiris perdurará.}
-{107}{}{Retiráos a la Choza del Amor.}
-{108}{}{¡Venceremos!}
-{109}{}{Bienvenido a la Confederación Arcoiris.}
-{110}{}{Los de tu clase son bienvenidos aquí.}
+{100}{}{Â¡Orgullo gay!}
+{101}{}{Â¡Abajo los heteros!}
+{102}{}{Â¡Los forasteros no son bienvenidos!}
+{103}{}{Â¡Orgullosa de ser lesbiana!}
+{104}{}{Â¡Chicas al poder!}
+{105}{}{Â¡No necesitamos a los hombres!}
+{106}{}{La ConfederaciÃ³n Arcoiris perdurarÃ¡.}
+{107}{}{RetirÃ¡os a la Choza del Amor.}
+{108}{}{Â¡Venceremos!}
+{109}{}{Bienvenido a la ConfederaciÃ³n Arcoiris.}
+{110}{}{Los de tu clase son bienvenidos aquÃ­.}
 {111}{}{Eres uno de nosotros.}
 {112}{}{Colonizadores.}
 {113}{}{Herm-ano.}

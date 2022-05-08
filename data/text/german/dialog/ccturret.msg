@@ -1,4 +1,4 @@
-{100}{}{Ein Plasmageschützturm.}
-{101}{}{Ein Plasmageschützturm vom Typ Mk II.}
-{102}{}{Ein Schild am Geschützturm warnt davor, dass unsachgemäße Handhabung fast sicher zum Tod
- führt.}
+{100}{}{Ein PlasmageschÃ¼tzturm.}
+{101}{}{Ein PlasmageschÃ¼tzturm vom Typ Mk II.}
+{102}{}{Ein Schild am GeschÃ¼tzturm warnt davor, dass unsachgemÃ¤ÃŸe Handhabung fast sicher zum Tod
+ fÃ¼hrt.}

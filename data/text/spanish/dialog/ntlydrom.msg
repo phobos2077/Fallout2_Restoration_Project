@@ -1,3 +1,3 @@
-{100}{}{Esta es la vieja habitación de Lloyd. Alguien ha seguido el hollín en la alfombra... parece como si el hollín
+{100}{}{Esta es la vieja habitaciÃ³n de Lloyd. Alguien ha seguido el hollÃ­n en la alfombra... parece como si el hollÃ­n
  viniera de la zona de la parrilla.}
-{200}{}{204: Esta es la habitación en la que se alojaba Lloyd.}
+{200}{}{204: Esta es la habitaciÃ³n en la que se alojaba Lloyd.}

@@ -1,9 +1,9 @@
-{100}{}{Widzisz stra¿nika Centrologów.}
-{101}{}{Widzisz dobrze uzbrojon¹ osobê o okrutnym spojrzeniu.}
+{100}{}{Widzisz straÅ¼nika CentrologÃ³w.}
+{101}{}{Widzisz dobrze uzbrojonÄ… osobÄ™ o okrutnym spojrzeniu.}
 {110}{}{Widzisz Centrologa.}
-{111}{}{Patrzy na ró¿norodny sprzêt komputerowy przed nim.}
-{200}{}{Jesteœmy lojalni wobec AHS-9.}
+{111}{}{Patrzy na rÃ³Å¼norodny sprzÄ™t komputerowy przed nim.}
+{200}{}{JesteÅ›my lojalni wobec AHS-9.}
 {201}{}{Gwiezdny Ojciec dba o nas wszystkich.}
-{202}{}{Nudno tu, ale to nasza praca pilnowaæ sk³adania datków.}
+{202}{}{Nudno tu, ale to nasza praca pilnowaÄ‡ skÅ‚adania datkÃ³w.}
 {203}{}{Pozdrawiamy.}
-{300}{}{Nie rób problemów, dobra.}
+{300}{}{Nie rÃ³b problemÃ³w, dobra.}

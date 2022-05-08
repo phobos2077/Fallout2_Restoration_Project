@@ -1,47 +1,47 @@
 {100}{}{Du siehst eine attraktive junge Frau.}
-{101}{}{Du siehst ein Bademädchen.}
-{102}{}{Du siehst eines der Mädchen der dicken Nase Sally.}
+{101}{}{Du siehst ein BademÃ¤dchen.}
+{102}{}{Du siehst eines der MÃ¤dchen der dicken Nase Sally.}
 {103}{}{Du siehst eine gelangweilte Frau.}
 {104}{}{Du siehst eine Frau, die dich eingehend mustert.}
 {105}{}{Diese Frau zieht dich mit den Augen aus.}
 {106}{}{Du siehst eine junge Frau.}
 {110}{}{Das ging schnell.}
-{111}{}{Lange her, was, Süßer?}
-{112}{}{Vielleicht dauert's beim nächsten Mal länger.}
-{113}{}{Weißt du, das ist kein Wettrennen.}
+{111}{}{Lange her, was, SÃ¼ÃŸer?}
+{112}{}{Vielleicht dauert's beim nÃ¤chsten Mal lÃ¤nger.}
+{113}{}{WeiÃŸt du, das ist kein Wettrennen.}
 {114}{}{Nennen deine Freunde dich 'Speedy'?}
-{115}{}{Wenn alle meine Kunden so schnell wären, könnte ich früh nach Hause gehen.}
-{116}{}{Es macht mehr Spaß, wenn du wartest, bis ich dir helfe.}
-{117}{}{Es würde dir sicher besser gefallen, wenn du warten würdest, bis ich mich ausgezogen habe.}
+{115}{}{Wenn alle meine Kunden so schnell wÃ¤ren, kÃ¶nnte ich frÃ¼h nach Hause gehen.}
+{116}{}{Es macht mehr SpaÃŸ, wenn du wartest, bis ich dir helfe.}
+{117}{}{Es wÃ¼rde dir sicher besser gefallen, wenn du warten wÃ¼rdest, bis ich mich ausgezogen habe.}
 {120}{}{Das war richtig gut. Du bist wirklich ein echter Mann.}
-{121}{}{Das war wirklich was Besonderes. Du bist wunderbar. Der Nächste!}
-{122}{}{Oh yeah, Baby, so hatt ich's noch nie. (Gähn)}
+{121}{}{Das war wirklich was Besonderes. Du bist wunderbar. Der NÃ¤chste!}
+{122}{}{Oh yeah, Baby, so hatt ich's noch nie. (GÃ¤hn)}
 {123}{}{Du bist der Beste. Komm bald wieder.}
-{124}{}{Du wirst ein kleines Wilden-Mädchen mal sehr glücklich machen.}
-{125}{}{Nein, Süßer, die Größe spielt überhaupt keine Rolle. Das war schön.}
-{126}{}{Was bist du doch für ein Mann!}
-{127}{}{Was für einen süßen kleinen Kerl du da hast.}
-{130}{}{Die Größe ist alles! Süßes Geheimnis des Lebens.... }
-{131}{}{Wenn du das nächste Mal vorbeischaust, mach ich freiwillig Überstunden.}
-{132}{}{Du kriegst wirklich was für dein Geld.}
+{124}{}{Du wirst ein kleines Wilden-MÃ¤dchen mal sehr glÃ¼cklich machen.}
+{125}{}{Nein, SÃ¼ÃŸer, die GrÃ¶ÃŸe spielt Ã¼berhaupt keine Rolle. Das war schÃ¶n.}
+{126}{}{Was bist du doch fÃ¼r ein Mann!}
+{127}{}{Was fÃ¼r einen sÃ¼ÃŸen kleinen Kerl du da hast.}
+{130}{}{Die GrÃ¶ÃŸe ist alles! SÃ¼ÃŸes Geheimnis des Lebens.... }
+{131}{}{Wenn du das nÃ¤chste Mal vorbeischaust, mach ich freiwillig Ãœberstunden.}
+{132}{}{Du kriegst wirklich was fÃ¼r dein Geld.}
 {133}{}{Ich nehm den Rest des Tages frei.}
-{134}{}{Wow! War es für dich auch so unglaublich einmalig?}
-{135}{}{Jetzt weiß ich, wie Katharina die Große sich gefühlt hat.}
-{140}{}{Tja, manche Dinge ändern sich nie.}
-{141}{}{Äh, das war irgendwie anders.}
-{142}{}{Das war wirklich was Besonderes. Der Nächste!}
-{143}{}{Nein, du darfst mein Parfüm nicht benutzen.}
+{134}{}{Wow! War es fÃ¼r dich auch so unglaublich einmalig?}
+{135}{}{Jetzt weiÃŸ ich, wie Katharina die GroÃŸe sich gefÃ¼hlt hat.}
+{140}{}{Tja, manche Dinge Ã¤ndern sich nie.}
+{141}{}{Ã„h, das war irgendwie anders.}
+{142}{}{Das war wirklich was Besonderes. Der NÃ¤chste!}
+{143}{}{Nein, du darfst mein ParfÃ¼m nicht benutzen.}
 {144}{}{Naja, wenigstens ist dein Bart kleiner als bei meinen meisten Kunden.}
-{145}{}{Du bist sicher, dass du ein Mädchen bist?}
+{145}{}{Du bist sicher, dass du ein MÃ¤dchen bist?}
 {150}{}{Das war irgendwie ganz gut.}
 {151}{}{Das war anders, aber nicht schlecht anders.}
-{152}{}{Ich glaub, das möchte ich irgendwann noch mal probieren.}
-{153}{}{Wir sollten das bei Gelegenheit mal außerhalb der Arbeitszeit machen.}
-{154}{}{Das war süß, Liebling.}
-{155}{}{Wow! Mein Leben wird sich von jetzt an ziemlich ändern.}
+{152}{}{Ich glaub, das mÃ¶chte ich irgendwann noch mal probieren.}
+{153}{}{Wir sollten das bei Gelegenheit mal auÃŸerhalb der Arbeitszeit machen.}
+{154}{}{Das war sÃ¼ÃŸ, Liebling.}
+{155}{}{Wow! Mein Leben wird sich von jetzt an ziemlich Ã¤ndern.}
 {156}{}{Ich wusste nicht, dass es so sein kann.}
 {160}{}{Du solltest mit der dicken Nase Sally reden.}
-{161}{}{Ach, was bist du süß.}
+{161}{}{Ach, was bist du sÃ¼ÃŸ.}
 {162}{}{Ich werd dich so schnell nicht vergessen!}
 {163}{}{Schau bei Gelegenheit mal wieder bei mir vorbei.}
 {164}{}{Du kannst doch pfeifen, oder?}
@@ -51,9 +51,9 @@
 {168}{}{Hey Baaaaaby...}
 {169}{}{Geh zu Sally, wenn du was erleben willst.}
 {170}{}{Schrubbe-di-schrub...}
-{171}{}{Sieht aus, als ob du eine Reinigung gebrauchen könntest.}
+{171}{}{Sieht aus, als ob du eine Reinigung gebrauchen kÃ¶nntest.}
 {172}{}{Oh, ein Wilder, ich liebe Exoten.}
 {173}{}{Normalerweise nehm ich keine Wilden.}
-{174}{}{Gefällt dir, was du siehst, Baby?}
+{174}{}{GefÃ¤llt dir, was du siehst, Baby?}
 {175}{}{Willst du mich?}
 {176}{}{Wenn du spielen willst, musst du zahlen.}

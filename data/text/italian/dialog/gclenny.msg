@@ -68,7 +68,7 @@
 {250}{}{S'sei stato a Vault City, no? E allora d'dimmi quali chance tu pensi che p'possiamo avere di o'ottenere dell'a'aiuto da q'quei bigotti. S'sarebbe piu' facile vedere un c'cane di carta che i'insegue un g'gatto d'asbesto in mezzo all'inferno.}
 {251}{}{Mi dispiace, ma credo tu abbia ragione. Vorrei chiederti qualcos'altro.}
 {252}{}{Mi dispiace. Ci vediamo.}
-{260}{}{N’no. La v'vita e' troppo breve -- eh eh... beh, per la m'maggior parte delle persone, almeno -- per p'preoccuparsi delle piccole cose. E sai una cosa? Sono tutte piccole cose. Non mi devi nulla.}
+{260}{}{Nâ€™no. La v'vita e' troppo breve -- eh eh... beh, per la m'maggior parte delle persone, almeno -- per p'preoccuparsi delle piccole cose. E sai una cosa? Sono tutte piccole cose. Non mi devi nulla.}
 {261}{}{Grazie Lenny.}
 {270}{}{E' s'stato molto t'tempo f'fa. In un posto c'chiamato N'necropolis. Molti di noi g'ghoul vivevano li'. Un giorno vidi qualcuno che c'correva attraverso la citta'.}
 {271}{}{Che correva?}
@@ -103,8 +103,8 @@
 {351}{}{Non so come ringraziarti, Lenny. Adesso, pero', mi servirebbero delle altre informazioni.}
 {352}{}{Grazie, Lenny. Ti devo proprio un favore. Ci vediamo.}
 {360}{}{Ci s'sono gia' cosi' tante p'persone con te. N'non hai bisogno del mio a'aiuto. B'buona fortuna.}
-{370}{}{Non avrei mai p'pensato di vivere abbastanza da vedere il g'giorno in cui mi sarei vergognato di partecipare alle tue a'azioni. Tu d'disonori la m'memoria dell'Abitante del Vault. B’dee-ya, b’dee-ya, addio.}
-{371}{}{Sai, c'credevo che s'sarebbe stato bello v'viaggiare con t'te. Ma s'sei cocciuto e irascibile come un b'brahmin maschio con un c'cactus su per il culo. E non hai n'neppure un odore migliore. B’dee-ya, b’dee-ya, addio.}
+{370}{}{Non avrei mai p'pensato di vivere abbastanza da vedere il g'giorno in cui mi sarei vergognato di partecipare alle tue a'azioni. Tu d'disonori la m'memoria dell'Abitante del Vault. Bâ€™dee-ya, bâ€™dee-ya, addio.}
+{371}{}{Sai, c'credevo che s'sarebbe stato bello v'viaggiare con t'te. Ma s'sei cocciuto e irascibile come un b'brahmin maschio con un c'cactus su per il culo. E non hai n'neppure un odore migliore. Bâ€™dee-ya, bâ€™dee-ya, addio.}
 {372}{}{Mi dispiace vederti andare via, Lenny.}
 {373}{}{Non riesci a sopportarlo, eh? Beh, farai meglio a trascinare via la tua carcassa mezza marcia prima che io decida se l'ucciderti valga o meno una cartuccia.}
 {374}{}{*Burp* Si', come no? Immagino che tu abbia altre cose da fare; ad esempio, passare tutto il tuo tempo libero a ricordare com'era bello avere una pelle che non assomiglia al cadavere vecchio di tre settimane di un animale schiacciato da un automobile in pieno luglio. Sparisci, fottuto sgorbio.}
@@ -193,7 +193,7 @@
 {1800}{}{Immagino che tu non voglia f'farci d'diventare un bersaglio t'troppo facile, eh?}
 {1900}{}{Okay, me ne s'staro' un p'pochino in disparte. S'sembra che i nemici cerchino di uccidere t'te, p'principalmente.}
 {2000}{}{Ci s'sono gia' cosi' tante p'persone con te. N'non hai bisogno del mio a'aiuto. B'buona fortuna.}
-{2100}{}{Non avrei mai p'pensato di vivere abbastanza da vedere il g'giorno in cui mi sarei vergognato di partecipare alle tue a'azioni. Tu d'disonori la m'memoria dell'Abitante del Vault. B’dee-ya, b’dee-ya, addio.}
+{2100}{}{Non avrei mai p'pensato di vivere abbastanza da vedere il g'giorno in cui mi sarei vergognato di partecipare alle tue a'azioni. Tu d'disonori la m'memoria dell'Abitante del Vault. Bâ€™dee-ya, bâ€™dee-ya, addio.}
 {2200}{}{Non ero s'sicuro che saresti t'tornato.}
 {2300}{}{P'perche' hai sempre c'cosi' fretta?}
 {2301}{}{Oh, scusa. Mi tolgo di mezzo.}

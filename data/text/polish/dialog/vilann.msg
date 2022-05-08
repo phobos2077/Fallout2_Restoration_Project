@@ -1,46 +1,46 @@
-{100}{}{Widzisz m³od¹ kobietê.}
-{101}{}{Widzisz Ann, ¿onê Connara.}
-{102}{}{Ona wydaje siê zawziêcie gotowaæ.}
-{200}{}{Witaj, jestem ¿on¹ Connara, Ann. S³ysza³am o tobie, tak wiele Ci zawdziêczmy. Nie potrafiê wyraziæ s³owami jak bardzo jesteœmy wdziêczni za twoj¹ pomoc. Nie mogê uwierzyæ, ¿e jesteœmy wreszcie wolni od strachu przed tymi oprychami z Kryptopolis, którzy chcieli nas zabraæ z naszych domów.}
-{201}{}{Zawsze mi³o jest pomagaæ innym. Wygl¹dasz na bardzo zajêt¹. Mogê ci jakoœ pomóc?}
-{202}{}{¯aden problem. Do zobaczenia.}
-{300}{}{W³aœciwie, to *mo¿esz* mi pomóc. Teraz kiedy stajemy siê bardziej zorganizowani, zaczynamy zauwa¿aæ wzrost naszej populacji. Problem w tym, ¿e nie jestem pewna czy mamy doœæ ¿ywnoœci. Mój m¹¿ próbowa³ œci¹gn¹æ tu karawany, ale nie uwa¿aj¹, ¿e jesteœmy warci ich czasu. Mo¿e tobie uda³oby siê ich przekonaæ do zmiany zdania?}
-{301}{}{Przykro mi, ale ja ju¿ nie zamierzam dla was niczego robiæ. Teraz, muszê ruszaæ dalej. Czeœæ.}
-{302}{}{Czy wy nie potraficie sami sobie radziæ ze swoimi pieprzonymi problemami? Czeœæ.}
-{303}{}{Jasne. Zobaczê co da siê zrobiæ. Z kim muszê pogadaæ?}
-{310}{}{Jeden z nadzorców karawany, Pan Baron, bêdzie wkrótce têdy przeje¿d¿a³. Szlak tej karawany przechodzi niedaleko wioski. Wszyscy bylibyœmy bardzo wdziêczni, jeœli tam pójdziesz i siê z nim spotkasz.}
-{311}{}{Dobra, spróbuje. Poka¿ mi gdzie on jest.}
-{312}{}{W porz¹dku, ale najpierw muszê siê przygotowaæ. Odezwê siê.}
-{313}{}{Po namyœle, bêdziecie siê musieli sami tym zaj¹æ. Przepraszam.}
-{320}{}{Czy teraz, mo¿esz siê spotkaæ z nadzorc¹ karawany?}
-{321}{}{Jeszcze nie. Czeœæ.}
-{322}{}{Dobra. Zobaczmy co wskóram.}
-{330}{}{Och, to ty! Dziêkujê za za³atwienie sprawy z Panem Baronem. Dopiero co tu by³, zawrzeæ umowê handlow¹ z moim mê¿em. Tyle ci zawdziêczamy, na zawsze pozostaniemy twoimi d³u¿nikami!}
-{331}{}{Przynajmniej tyle mogê zrobiæ. Trzymaj siê.}
-{332}{}{Chyba nie myœlisz, ¿e robiê to wszystko za darmo? Porozmawiajmy o zap³acie.}
-{340}{}{[Ann wygl¹da na nieco speszon¹.] Ale, tak... oczywiœcie, w porz¹dku. Mam coœ od³o¿one na czarna godzinê, ale myœlê, ¿e mo¿esz to wzi¹æ. I pomyœleæ, ¿e uwa¿a³am ciê za takiego dobrego cz³owieka.}
-{341}{}{Spójrz w oczy prawdzie, paniusiu. Mi³ego dnia.}
-{342}{}{Przepraszam, ale to pieni¹dze wprawiaj¹ ten œwiat w ruch. Czeœæ.}
-{350}{}{Och, to ty! S³ysza³am co zrobi³eœ Panu Baronowi. Nigdy go nie lubi³am, ale nie trzeba go by³o zabijaæ. Brak mo¿liwoœci handlu zdusi nas jako spo³ecznoœæ.}
-{351}{}{Przepraszam, ka¿dy czasem pope³nia b³êdy. Czeœæ.}
-{352}{}{Nie mój problem. Czeœæ.}
-{353}{}{Nie musisz siê martwiæ o ¿adnych przeklêtych handlarzy. Bo zamierzam zabiæ was wszystkich.}
-{400}{}{Czy Kryptopolis ciê przys³a³o?}
-{401}{}{Mamy prawo tu ¿yæ, wiesz.}
+{100}{}{Widzisz mÅ‚odÄ… kobietÄ™.}
+{101}{}{Widzisz Ann, Å¼onÄ™ Connara.}
+{102}{}{Ona wydaje siÄ™ zawziÄ™cie gotowaÄ‡.}
+{200}{}{Witaj, jestem Å¼onÄ… Connara, Ann. SÅ‚yszaÅ‚am o tobie, tak wiele Ci zawdziÄ™czmy. Nie potrafiÄ™ wyraziÄ‡ sÅ‚owami jak bardzo jesteÅ›my wdziÄ™czni za twojÄ… pomoc. Nie mogÄ™ uwierzyÄ‡, Å¼e jesteÅ›my wreszcie wolni od strachu przed tymi oprychami z Kryptopolis, ktÃ³rzy chcieli nas zabraÄ‡ z naszych domÃ³w.}
+{201}{}{Zawsze miÅ‚o jest pomagaÄ‡ innym. WyglÄ…dasz na bardzo zajÄ™tÄ…. MogÄ™ ci jakoÅ› pomÃ³c?}
+{202}{}{Å»aden problem. Do zobaczenia.}
+{300}{}{WÅ‚aÅ›ciwie, to *moÅ¼esz* mi pomÃ³c. Teraz kiedy stajemy siÄ™ bardziej zorganizowani, zaczynamy zauwaÅ¼aÄ‡ wzrost naszej populacji. Problem w tym, Å¼e nie jestem pewna czy mamy doÅ›Ä‡ Å¼ywnoÅ›ci. MÃ³j mÄ…Å¼ prÃ³bowaÅ‚ Å›ciÄ…gnÄ…Ä‡ tu karawany, ale nie uwaÅ¼ajÄ…, Å¼e jesteÅ›my warci ich czasu. MoÅ¼e tobie udaÅ‚oby siÄ™ ich przekonaÄ‡ do zmiany zdania?}
+{301}{}{Przykro mi, ale ja juÅ¼ nie zamierzam dla was niczego robiÄ‡. Teraz, muszÄ™ ruszaÄ‡ dalej. CzeÅ›Ä‡.}
+{302}{}{Czy wy nie potraficie sami sobie radziÄ‡ ze swoimi pieprzonymi problemami? CzeÅ›Ä‡.}
+{303}{}{Jasne. ZobaczÄ™ co da siÄ™ zrobiÄ‡. Z kim muszÄ™ pogadaÄ‡?}
+{310}{}{Jeden z nadzorcÃ³w karawany, Pan Baron, bÄ™dzie wkrÃ³tce tÄ™dy przejeÅ¼dÅ¼aÅ‚. Szlak tej karawany przechodzi niedaleko wioski. Wszyscy bylibyÅ›my bardzo wdziÄ™czni, jeÅ›li tam pÃ³jdziesz i siÄ™ z nim spotkasz.}
+{311}{}{Dobra, sprÃ³buje. PokaÅ¼ mi gdzie on jest.}
+{312}{}{W porzÄ…dku, ale najpierw muszÄ™ siÄ™ przygotowaÄ‡. OdezwÄ™ siÄ™.}
+{313}{}{Po namyÅ›le, bÄ™dziecie siÄ™ musieli sami tym zajÄ…Ä‡. Przepraszam.}
+{320}{}{Czy teraz, moÅ¼esz siÄ™ spotkaÄ‡ z nadzorcÄ… karawany?}
+{321}{}{Jeszcze nie. CzeÅ›Ä‡.}
+{322}{}{Dobra. Zobaczmy co wskÃ³ram.}
+{330}{}{Och, to ty! DziÄ™kujÄ™ za zaÅ‚atwienie sprawy z Panem Baronem. Dopiero co tu byÅ‚, zawrzeÄ‡ umowÄ™ handlowÄ… z moim mÄ™Å¼em. Tyle ci zawdziÄ™czamy, na zawsze pozostaniemy twoimi dÅ‚uÅ¼nikami!}
+{331}{}{Przynajmniej tyle mogÄ™ zrobiÄ‡. Trzymaj siÄ™.}
+{332}{}{Chyba nie myÅ›lisz, Å¼e robiÄ™ to wszystko za darmo? Porozmawiajmy o zapÅ‚acie.}
+{340}{}{[Ann wyglÄ…da na nieco speszonÄ….] Ale, tak... oczywiÅ›cie, w porzÄ…dku. Mam coÅ› odÅ‚oÅ¼one na czarna godzinÄ™, ale myÅ›lÄ™, Å¼e moÅ¼esz to wziÄ…Ä‡. I pomyÅ›leÄ‡, Å¼e uwaÅ¼aÅ‚am ciÄ™ za takiego dobrego czÅ‚owieka.}
+{341}{}{SpÃ³jrz w oczy prawdzie, paniusiu. MiÅ‚ego dnia.}
+{342}{}{Przepraszam, ale to pieniÄ…dze wprawiajÄ… ten Å›wiat w ruch. CzeÅ›Ä‡.}
+{350}{}{Och, to ty! SÅ‚yszaÅ‚am co zrobiÅ‚eÅ› Panu Baronowi. Nigdy go nie lubiÅ‚am, ale nie trzeba go byÅ‚o zabijaÄ‡. Brak moÅ¼liwoÅ›ci handlu zdusi nas jako spoÅ‚ecznoÅ›Ä‡.}
+{351}{}{Przepraszam, kaÅ¼dy czasem popeÅ‚nia bÅ‚Ä™dy. CzeÅ›Ä‡.}
+{352}{}{Nie mÃ³j problem. CzeÅ›Ä‡.}
+{353}{}{Nie musisz siÄ™ martwiÄ‡ o Å¼adnych przeklÄ™tych handlarzy. Bo zamierzam zabiÄ‡ was wszystkich.}
+{400}{}{Czy Kryptopolis ciÄ™ przysÅ‚aÅ‚o?}
+{401}{}{Mamy prawo tu Å¼yÄ‡, wiesz.}
 {402}{}{Nie mam ci nic do powiedzenia.}
-{403}{}{Jeszcze raz dziêkuje za wszystko!}
-{404}{}{Dziêkujê!}
-{405}{}{Nareszcie jesteœmy bezpieczni.}
-{406}{}{Dziêkujê za wszystko! Zagl¹dnij jeszcze do nas, kiedy ju¿ siê rozbudujemy. Bêdê wreszcie mia³a dzia³aj¹c¹ kuchniê.}
+{403}{}{Jeszcze raz dziÄ™kuje za wszystko!}
+{404}{}{DziÄ™kujÄ™!}
+{405}{}{Nareszcie jesteÅ›my bezpieczni.}
+{406}{}{DziÄ™kujÄ™ za wszystko! ZaglÄ…dnij jeszcze do nas, kiedy juÅ¼ siÄ™ rozbudujemy. BÄ™dÄ™ wreszcie miaÅ‚a dziaÅ‚ajÄ…cÄ… kuchniÄ™.}
 {410}{}{Witaj ponownie.}
-{411}{}{Wygl¹dasz na zajêt¹. Potrzebujesz mojej pomocy?}
-{412}{}{Niewa¿ne. Czeœæ.}
-{420}{}{I jak posz³o?}
-{421}{}{Jak posz³o? A, z handlarzem. Prawdê mówi¹c, znudzi³ mnie i odechcia³o mi siê z nim gadaæ.}
-{430}{}{Co!? Zdajesz sobie sprawê, ¿e to by³a nasza ostatnia szansa ¿eby zawrzeæ z nim umowê. Wystawiaj¹c go wyszliœmy na g³upców. Przez ciebie jesteœmy zgubieni.}
-{431}{}{Przepraszam, ka¿dy czasem pope³nia b³êdy. Czeœæ.}
-{432}{}{Nie mój problem. Czeœæ.}
-{433}{}{Nie musisz siê martwiæ o ¿adnych przeklêtych handlarzy. Bo zamierzam zabiæ was wszystkich.}
-{500}{}{Uda³o ci siê przekonaæ handlarza, ¿eby do³¹czy³ wioskê do swojej kupieckiej trasy.}
-{510}{}{Zabijasz nadzorcê karawany, pozbawiaj¹c jednoczeœnie wioskê jedynej mo¿liwoœci handlu.}
-{511}{}{Nie uda³o ci siê przekonaæ handlarza, ¿eby do³¹czy³ wioskê, do swojej kupieckiej trasy.}
+{411}{}{WyglÄ…dasz na zajÄ™tÄ…. Potrzebujesz mojej pomocy?}
+{412}{}{NiewaÅ¼ne. CzeÅ›Ä‡.}
+{420}{}{I jak poszÅ‚o?}
+{421}{}{Jak poszÅ‚o? A, z handlarzem. PrawdÄ™ mÃ³wiÄ…c, znudziÅ‚ mnie i odechciaÅ‚o mi siÄ™ z nim gadaÄ‡.}
+{430}{}{Co!? Zdajesz sobie sprawÄ™, Å¼e to byÅ‚a nasza ostatnia szansa Å¼eby zawrzeÄ‡ z nim umowÄ™. WystawiajÄ…c go wyszliÅ›my na gÅ‚upcÃ³w. Przez ciebie jesteÅ›my zgubieni.}
+{431}{}{Przepraszam, kaÅ¼dy czasem popeÅ‚nia bÅ‚Ä™dy. CzeÅ›Ä‡.}
+{432}{}{Nie mÃ³j problem. CzeÅ›Ä‡.}
+{433}{}{Nie musisz siÄ™ martwiÄ‡ o Å¼adnych przeklÄ™tych handlarzy. Bo zamierzam zabiÄ‡ was wszystkich.}
+{500}{}{UdaÅ‚o ci siÄ™ przekonaÄ‡ handlarza, Å¼eby doÅ‚Ä…czyÅ‚ wioskÄ™ do swojej kupieckiej trasy.}
+{510}{}{Zabijasz nadzorcÄ™ karawany, pozbawiajÄ…c jednoczeÅ›nie wioskÄ™ jedynej moÅ¼liwoÅ›ci handlu.}
+{511}{}{Nie udaÅ‚o ci siÄ™ przekonaÄ‡ handlarza, Å¼eby doÅ‚Ä…czyÅ‚ wioskÄ™, do swojej kupieckiej trasy.}

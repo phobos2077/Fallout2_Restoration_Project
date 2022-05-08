@@ -1,84 +1,84 @@
 {100}{}{Ves a un hombre grande de aspecto primitivo.}
 {101}{}{Este hombre parece bastante despierto y relativamente fuerte.}
 {110}{}{Ves a una esbelta mujer primitiva.}
-{111}{}{Parece fuerte a pesar de su tamaño.}
-{120}{}{Ves a un hombre de aspecto extraño.}
+{111}{}{Parece fuerte a pesar de su tamaÃ±o.}
+{120}{}{Ves a un hombre de aspecto extraÃ±o.}
 {121}{}{Parece estar horriblemente delgado.}
 {130}{}{Ves a un hombre de aspecto harapiento.}
 {131}{}{Este parece relativamente fuerte.}
-{140}{}{Ves a un hombre con las ropas roídas.}
-{141}{}{Se mueve muy rápidamente.}
+{140}{}{Ves a un hombre con las ropas roÃ­das.}
+{141}{}{Se mueve muy rÃ¡pidamente.}
 {150}{}{Ves a una mujer muy sucia.}
-{151}{}{Parece que nunca se haya bañado.}
+{151}{}{Parece que nunca se haya baÃ±ado.}
 {160}{}{Ves a una mujer bastante grande.}
 {161}{}{Parece una fuerte luchadora.}
-{170}{}{Ves a una mujer de aspecto escuálido.}
+{170}{}{Ves a una mujer de aspecto escuÃ¡lido.}
 {171}{}{No parece que te vaya a dar muchos problemas.}
-{200}{}{¡Muere!}
-{201}{}{¿Dónde estar tú?}
-{202}{}{Yo hacerte daño.}
-{210}{}{¡Voy a matarte por esto!}
-{211}{}{¡Malditos esclavistas!}
-{212}{}{¡Me las pagarás!}
-{220}{}{¡Dejar tranquilo!}
-{221}{}{¡No hacer daño a mí!}
-{222}{}{¡Yo no hacer daño!}
-{223}{}{¡No querer pelea!}
-{230}{}{¡Reconozco ese tatuaje!}
-{231}{}{¡No, por favor!}
-{232}{}{¡Por favor, no me mates!}
-{233}{}{¡No quiero pelea, no me mates!}
-{234}{}{¡Por favor, no quiero morir!}
-{235}{}{Vosotros sois esclavistas, ¿no? Oh, Dios.}
-{245}{}{¡Callar! Tan cerca.}
+{200}{}{Â¡Muere!}
+{201}{}{Â¿DÃ³nde estar tÃº?}
+{202}{}{Yo hacerte daÃ±o.}
+{210}{}{Â¡Voy a matarte por esto!}
+{211}{}{Â¡Malditos esclavistas!}
+{212}{}{Â¡Me las pagarÃ¡s!}
+{220}{}{Â¡Dejar tranquilo!}
+{221}{}{Â¡No hacer daÃ±o a mÃ­!}
+{222}{}{Â¡Yo no hacer daÃ±o!}
+{223}{}{Â¡No querer pelea!}
+{230}{}{Â¡Reconozco ese tatuaje!}
+{231}{}{Â¡No, por favor!}
+{232}{}{Â¡Por favor, no me mates!}
+{233}{}{Â¡No quiero pelea, no me mates!}
+{234}{}{Â¡Por favor, no quiero morir!}
+{235}{}{Vosotros sois esclavistas, Â¿no? Oh, Dios.}
+{245}{}{Â¡Callar! Tan cerca.}
 {246}{}{Matar hombres malos.}
 {247}{}{Tu no llevar a mi familia.}
 {248}{}{Yo proteger familia.}
 {249}{}{No deber encontrarnos.}
 {250}{}{Ser malos.}
 {260}{}{Los esclavistas han llegado. Silencio todo el mundo.}
-{261}{}{Preparaos; creo que están cerca.}
+{261}{}{Preparaos; creo que estÃ¡n cerca.}
 {262}{}{No voy a rendirme sin luchar.}
-{263}{}{Nunca nos esclavizarán.}
+{263}{}{Nunca nos esclavizarÃ¡n.}
 {264}{}{Estos esclavistas van a pagar por esto.}
-{265}{}{Ningún esclavista va a llevarse a mi familia.}
-{270}{}{Ellos no encontrar mí.}
+{265}{}{NingÃºn esclavista va a llevarse a mi familia.}
+{270}{}{Ellos no encontrar mÃ­.}
 {271}{}{Deber huir. Deber huir.}
-{272}{}{Por qué ellos hacer daño.}
+{272}{}{Por quÃ© ellos hacer daÃ±o.}
 {273}{}{Yo asustado.}
 {274}{}{Yo no luchar.}
 {275}{}{Yo querer vivir.}
-{276}{}{No hacer daño familia.}
-{280}{}{¡Oh, mierda!}
-{281}{}{¿Por qué están haciendo esto?}
-{282}{}{¿Qué pasa con mi familia?}
+{276}{}{No hacer daÃ±o familia.}
+{280}{}{Â¡Oh, mierda!}
+{281}{}{Â¿Por quÃ© estÃ¡n haciendo esto?}
+{282}{}{Â¿QuÃ© pasa con mi familia?}
 {283}{}{No quiero morir.}
 {284}{}{No quiero ser un esclavo.}
 {285}{}{Merezco algo mejor.}
-{290}{}{¡Tú morir ya!}
-{291}{}{¡Yo matar!}
-{292}{}{¡Tu no daño familia!}
-{293}{}{¡Tu no llevarte familia!}
-{294}{}{¡Yo proteger!}
-{295}{}{¡Yo hacer daño tu!}
-{296}{}{¡Tu pagar!}
-{300}{}{No vas a arrebatarme a mi familia, ¡negrera!}
-{301}{}{¡Muere, escoria esclavista!}
-{302}{}{¡Me las pagarás, zorra!}
-{303}{}{¡Lucharé a muerte por mi familia!}
-{304}{}{¡No te vas a salir con la tuya!}
-{305}{}{¡No te vas a ir de aquí con mis amigos!}
+{290}{}{Â¡TÃº morir ya!}
+{291}{}{Â¡Yo matar!}
+{292}{}{Â¡Tu no daÃ±o familia!}
+{293}{}{Â¡Tu no llevarte familia!}
+{294}{}{Â¡Yo proteger!}
+{295}{}{Â¡Yo hacer daÃ±o tu!}
+{296}{}{Â¡Tu pagar!}
+{300}{}{No vas a arrebatarme a mi familia, Â¡negrera!}
+{301}{}{Â¡Muere, escoria esclavista!}
+{302}{}{Â¡Me las pagarÃ¡s, zorra!}
+{303}{}{Â¡LucharÃ© a muerte por mi familia!}
+{304}{}{Â¡No te vas a salir con la tuya!}
+{305}{}{Â¡No te vas a ir de aquÃ­ con mis amigos!}
 {310}{}{Ahhh!}
-{311}{}{¡No matar! ¡No matar!}
-{312}{}{¡Para!}
-{313}{}{¡Ayudaaaa!}
-{314}{}{¡Corred!}
-{315}{}{¡No hacer eso!}
-{320}{}{¡Sálvese quien pueda!}
-{321}{}{¡No dejéis que os atrapen!}
-{322}{}{¡Esclavistas! ¡Huid!}
-{323}{}{¡Que alguien me ayude! ¡Por favor!}
-{324}{}{¡Huye, Marty!}
+{311}{}{Â¡No matar! Â¡No matar!}
+{312}{}{Â¡Para!}
+{313}{}{Â¡Ayudaaaa!}
+{314}{}{Â¡Corred!}
+{315}{}{Â¡No hacer eso!}
+{320}{}{Â¡SÃ¡lvese quien pueda!}
+{321}{}{Â¡No dejÃ©is que os atrapen!}
+{322}{}{Â¡Esclavistas! Â¡Huid!}
+{323}{}{Â¡Que alguien me ayude! Â¡Por favor!}
+{324}{}{Â¡Huye, Marty!}
 {325}{}{Ahhh!}
-{326}{}{¡Detén esta locura!}
-{327}{}{¡No hemos hecho nada! ¡Déjanos en paz!}
+{326}{}{Â¡DetÃ©n esta locura!}
+{327}{}{Â¡No hemos hecho nada! Â¡DÃ©janos en paz!}

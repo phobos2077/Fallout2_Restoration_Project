@@ -1,127 +1,127 @@
 {100}{}{Widzisz zgarbionego starca w lekarskim kitlu.}
 {101}{}{Widzisz doktora Hollidaya.}
-{102}{}{Widzisz zgarbionego starca w poplamionym krwi¹ lekarskim kitlu. Ten cz³owiek emanuje wiedz¹. Wygl¹da na wyraŸnie schorowanego.}
-{103}{}{[gwizd] Witam. Jestem doktor Holliday. Jak mogê ci pomóc?}
+{102}{}{Widzisz zgarbionego starca w poplamionym krwiÄ… lekarskim kitlu. Ten czÅ‚owiek emanuje wiedzÄ…. WyglÄ…da na wyraÅºnie schorowanego.}
+{103}{}{[gwizd] Witam. Jestem doktor Holliday. Jak mogÄ™ ci pomÃ³c?}
 {104}{}{Czego chcesz?}
-{105}{}{A³!}
-{106}{}{Jestem ranny i potrzebujê twojej pomocy.}
-{107}{}{Jeden z moich przyjació³ jest chory i potrzebuje pomocy.}
-{108}{}{Czym siê tutaj zajmujesz?}
-{109}{}{Opowiedz mi o tym mieœcie.}
-{110}{}{Jakieœ plotki?}
-{111}{}{Po prostu sprzedaj mi kilka stimpaków.}
+{105}{}{AÅ‚!}
+{106}{}{Jestem ranny i potrzebujÄ™ twojej pomocy.}
+{107}{}{Jeden z moich przyjaciÃ³Å‚ jest chory i potrzebuje pomocy.}
+{108}{}{Czym siÄ™ tutaj zajmujesz?}
+{109}{}{Opowiedz mi o tym mieÅ›cie.}
+{110}{}{JakieÅ› plotki?}
+{111}{}{Po prostu sprzedaj mi kilka stimpakÃ³w.}
 {112}{}{Nic z tego. Przykro mi.}
-{113}{}{Pozwól, ¿e rzucê na to okiem. Mogê ciê wyleczyæ, ale to bêdzie kosztowa³o.}
+{113}{}{PozwÃ³l, Å¼e rzucÄ™ na to okiem. MogÄ™ ciÄ™ wyleczyÄ‡, ale to bÄ™dzie kosztowaÅ‚o.}
 {114}{}{Ile?}
 {115}{}{Zapomnij o tym.}
-{116}{}{Tak, mogê to wyleczyæ... [gwizd] za pewn¹ cenê.}
+{116}{}{Tak, mogÄ™ to wyleczyÄ‡... [gwizd] za pewnÄ… cenÄ™.}
 {117}{}{Ile?}
 {118}{}{Zapomnij o tym.}
-{119}{}{Co ja tu robiê? Jesteœ w szpitalu. Ja jestem w stroju lekarza. Ca³y jestem we krwi, a dooko³a wala siê pe³no ostrych narzêdzi. Albo jestem wyj¹tkowo aktywnym morderc¹, albo pieprzonym lekarzem. Jak myœlisz?}
-{120}{}{Zgadujê, ¿e jesteœ lekarzem.}
-{121}{}{Myœlisz, ¿e jesteœ dowcipny, dziadku?}
-{122}{}{Dobry lekarz nie by³by chyba ca³y we krwi.}
-{123}{}{Pomyœlmy. Urodzi³em siê tu wiele lat temu. Miasteczko dopiero siê rozkrêca³o. Tutaj siê wychowa³em i pozna³em kobietê mojego ¿ycia. Zakocha³em siê z wzajemnoœci¹. Ona zmar³a na nieznan¹ chorobê. Wtedy w³aœnie zdecydowa³em, ¿e zostanê lekarzem.}
-{124}{}{Tak? Proszê, kontynuuj.}
-{125}{}{Pyta³em o historiê Broken Hills, nie twoj¹.}
-{126}{}{Zdziwi³oby ciê, co ludzie potrafi¹ wyjawiæ w cierpieniu.}
-{127}{}{Tak? Na przyk³ad co?}
-{128}{}{Zmieniam zdanie. Poproszê o inny zestaw pytañ.}
-{129}{}{To ciê wyniesie $50.}
-{130}{}{Zap³acê.}
+{119}{}{Co ja tu robiÄ™? JesteÅ› w szpitalu. Ja jestem w stroju lekarza. CaÅ‚y jestem we krwi, a dookoÅ‚a wala siÄ™ peÅ‚no ostrych narzÄ™dzi. Albo jestem wyjÄ…tkowo aktywnym mordercÄ…, albo pieprzonym lekarzem. Jak myÅ›lisz?}
+{120}{}{ZgadujÄ™, Å¼e jesteÅ› lekarzem.}
+{121}{}{MyÅ›lisz, Å¼e jesteÅ› dowcipny, dziadku?}
+{122}{}{Dobry lekarz nie byÅ‚by chyba caÅ‚y we krwi.}
+{123}{}{PomyÅ›lmy. UrodziÅ‚em siÄ™ tu wiele lat temu. Miasteczko dopiero siÄ™ rozkrÄ™caÅ‚o. Tutaj siÄ™ wychowaÅ‚em i poznaÅ‚em kobietÄ™ mojego Å¼ycia. ZakochaÅ‚em siÄ™ z wzajemnoÅ›ciÄ…. Ona zmarÅ‚a na nieznanÄ… chorobÄ™. Wtedy wÅ‚aÅ›nie zdecydowaÅ‚em, Å¼e zostanÄ™ lekarzem.}
+{124}{}{Tak? ProszÄ™, kontynuuj.}
+{125}{}{PytaÅ‚em o historiÄ™ Broken Hills, nie twojÄ….}
+{126}{}{ZdziwiÅ‚oby ciÄ™, co ludzie potrafiÄ… wyjawiÄ‡ w cierpieniu.}
+{127}{}{Tak? Na przykÅ‚ad co?}
+{128}{}{Zmieniam zdanie. PoproszÄ™ o inny zestaw pytaÅ„.}
+{129}{}{To ciÄ™ wyniesie $50.}
+{130}{}{ZapÅ‚acÄ™.}
 {131}{}{Zapomnij o tym.}
-{132}{}{Za leczenie takich ran policzê ci $100.}
-{133}{}{Zap³acê.}
+{132}{}{Za leczenie takich ran policzÄ™ ci $100.}
+{133}{}{ZapÅ‚acÄ™.}
 {134}{}{Zapomnij o tym.}
-{135}{}{To naprawdê musi boleæ. Twojego portfela te¿ bêdzie boleæ... $150.}
-{136}{}{Zap³acê.}
+{135}{}{To naprawdÄ™ musi boleÄ‡. Twojego portfela teÅ¼ bÄ™dzie boleÄ‡... $150.}
+{136}{}{ZapÅ‚acÄ™.}
 {137}{}{Zapomnij o tym.}
-{138}{}{O rany! Bêdzie ciê trzeba nieŸle podleczyæ. $200.}
-{139}{}{Zap³acê.}
+{138}{}{O rany! BÄ™dzie ciÄ™ trzeba nieÅºle podleczyÄ‡. $200.}
+{139}{}{ZapÅ‚acÄ™.}
 {140}{}{Zapomnij o tym.}
-{141}{}{No, no przyjacielu, to ciê bêdzie boleæ. $300 i jesteœ jak nowy.}
-{142}{}{Zap³acê.}
+{141}{}{No, no przyjacielu, to ciÄ™ bÄ™dzie boleÄ‡. $300 i jesteÅ› jak nowy.}
+{142}{}{ZapÅ‚acÄ™.}
 {143}{}{Zapomnij o tym.}
-{144}{}{Bêdzie w porz¹dku, z odrobin¹ pomocy z mojej strony... [gwizd] i z $50 z twojej.}
-{145}{}{Zap³acê.}
+{144}{}{BÄ™dzie w porzÄ…dku, z odrobinÄ… pomocy z mojej strony... [gwizd] i z $50 z twojej.}
+{145}{}{ZapÅ‚acÄ™.}
 {146}{}{Zapomnij o tym.}
-{147}{}{Czêsto bierzecie udzia³ w strzelaninach? Pamiêtam czasy, w których sam te¿ chodzi³em nieŸle podziurawiony. Ta przygoda bêdzie ciê kosztowaæ $100.}
-{148}{}{Zap³acê.}
+{147}{}{CzÄ™sto bierzecie udziaÅ‚ w strzelaninach? PamiÄ™tam czasy, w ktÃ³rych sam teÅ¼ chodziÅ‚em nieÅºle podziurawiony. Ta przygoda bÄ™dzie ciÄ™ kosztowaÄ‡ $100.}
+{148}{}{ZapÅ‚acÄ™.}
 {149}{}{Zapomnij o tym.}
-{150}{}{Dziecko, musisz bardziej dbaæ o swoich przyjació³. [kaszle] Jeœli ten tutaj ma chodziæ, musisz zap³aciæ $150.}
-{151}{}{Zap³acê.}
+{150}{}{Dziecko, musisz bardziej dbaÄ‡ o swoich przyjaciÃ³Å‚. [kaszle] JeÅ›li ten tutaj ma chodziÄ‡, musisz zapÅ‚aciÄ‡ $150.}
+{151}{}{ZapÅ‚acÄ™.}
 {152}{}{Zapomnij o tym.}
-{153}{}{Musisz byæ cholernie dobry, ¿eby cieszyæ siê tak¹ lojalnoœci¹ tych goœci. Mam nadziejê, ¿e jesteœ dobry... bo to bêdzie ciê kosztowa³o ::kaszlniêcie:: $200.}
-{154}{}{Zap³acê.}
+{153}{}{Musisz byÄ‡ cholernie dobry, Å¼eby cieszyÄ‡ siÄ™ takÄ… lojalnoÅ›ciÄ… tych goÅ›ci. Mam nadziejÄ™, Å¼e jesteÅ› dobry... bo to bÄ™dzie ciÄ™ kosztowaÅ‚o ::kaszlniÄ™cie:: $200.}
+{154}{}{ZapÅ‚acÄ™.}
 {155}{}{Zapomnij o tym.}
-{156}{}{A³! Bêdê tu musia³ za³o¿yæ opatrunek. A ty bêdziesz siê musia³ rozstaæ z $300.}
-{157}{}{Zap³acê.}
+{156}{}{AÅ‚! BÄ™dÄ™ tu musiaÅ‚ zaÅ‚oÅ¼yÄ‡ opatrunek. A ty bÄ™dziesz siÄ™ musiaÅ‚ rozstaÄ‡ z $300.}
+{157}{}{ZapÅ‚acÄ™.}
 {158}{}{Zapomnij o tym.}
-{159}{}{Przyjacielu, nie masz takich pieniêdzy. Mogê ci sprzedaæ trochê stimpaków, ale potrzebujesz czegoœ o wiele mocniejszego.}
-{160}{}{Zarzuæ stimpakami.}
-{161}{}{Nie, dziêkujê.}
-{162}{}{To dla mnie przyjemnoœæ.}
-{163}{}{Dziêkujê.}
+{159}{}{Przyjacielu, nie masz takich pieniÄ™dzy. MogÄ™ ci sprzedaÄ‡ trochÄ™ stimpakÃ³w, ale potrzebujesz czegoÅ› o wiele mocniejszego.}
+{160}{}{ZarzuÄ‡ stimpakami.}
+{161}{}{Nie, dziÄ™kujÄ™.}
+{162}{}{To dla mnie przyjemnoÅ›Ä‡.}
+{163}{}{DziÄ™kujÄ™.}
 {164}{}{Nic z tego.}
 {165}{}{A ta?}
-{166}{}{To wszystko co mam do zaoferowania. ¯egnam.}
-{167}{}{[gwizd] Jesteœ ranny? Pozwól, ¿e rzucê na to okiem. Masz pieni¹dze?}
+{166}{}{To wszystko co mam do zaoferowania. Å»egnam.}
+{167}{}{[gwizd] JesteÅ› ranny? PozwÃ³l, Å¼e rzucÄ™ na to okiem. Masz pieniÄ…dze?}
 {168}{}{Pie-niun-de?}
 {169}{}{'ak!}
-{170}{}{Pozwól, ¿e zajrzê do twojej torby. (przegl¹da zawartoœæ twojej torby i coœ stamt¹d wyci¹ga) W porz¹dku, to mo¿e odrobinkê zaboleæ...}
+{170}{}{PozwÃ³l, Å¼e zajrzÄ™ do twojej torby. (przeglÄ…da zawartoÅ›Ä‡ twojej torby i coÅ› stamtÄ…d wyciÄ…ga) W porzÄ…dku, to moÅ¼e odrobinkÄ™ zaboleÄ‡...}
 {171}{}{Bolec?}
-{172}{}{Tak. No - skoñczone! Powodzenia i nie daj siê wiêcej zraniæ!}
-{173}{}{Dziêkuju!}
-{174}{}{Tak, jestem lekarzem. Mi³o spotkaæ kogoœ inteligentnego w tym post-nuklearnym œwiecie.}
-{175}{}{Ha! NieŸle, jak na goœcia z siedmioma krzy¿ykami na karku!}
-{176}{}{Nie mam zamiaru braæ nic z twoich ³ap, staruchu.}
+{172}{}{Tak. No - skoÅ„czone! Powodzenia i nie daj siÄ™ wiÄ™cej zraniÄ‡!}
+{173}{}{DziÄ™kuju!}
+{174}{}{Tak, jestem lekarzem. MiÅ‚o spotkaÄ‡ kogoÅ› inteligentnego w tym post-nuklearnym Å›wiecie.}
+{175}{}{Ha! NieÅºle, jak na goÅ›cia z siedmioma krzyÅ¼ykami na karku!}
+{176}{}{Nie mam zamiaru braÄ‡ nic z twoich Å‚ap, staruchu.}
 {177}{}{Ummm... Tak. Mam inne pytania.}
 {178}{}{Bywaj.}
-{179}{}{Grozisz jedynemu lekarzowi w mieœcie. Kurde, ale z ciebie m¹drala. [kaszle] Przyjacielu, jeœli coœ chcesz ode mnie - poproœ. W przeciwnym razie spadaj z mojego szpitala.}
-{180}{}{Poca³uj mnie gdzieœ, staruchu. Szykuj siê na œmieræ.}
+{179}{}{Grozisz jedynemu lekarzowi w mieÅ›cie. Kurde, ale z ciebie mÄ…drala. [kaszle] Przyjacielu, jeÅ›li coÅ› chcesz ode mnie - poproÅ›. W przeciwnym razie spadaj z mojego szpitala.}
+{180}{}{PocaÅ‚uj mnie gdzieÅ›, staruchu. Szykuj siÄ™ na Å›mierÄ‡.}
 {181}{}{Taa. Jasne.}
-{182}{}{Sory. Mam dzisiaj wyj¹tkowo z³y dzieñ.}
-{183}{}{Przepraszam, tylko ¿artowa³em.}
-{184}{}{Dziecko, musisz siê nauczyæ szacunku dla starszych.}
-{185}{}{Dziecko, musisz siê jeszcze wiele nauczyæ o ¿artach.}
-{186}{}{Taa, w porz¹dalu.}
-{187}{}{No dobra, teraz mnie wkurzy³eœ. Bêdziesz musia³ SIEBIE wyleczyæ z bardzo powa¿nych ran.}
-{188}{}{(Zauwa¿asz b³ysk uœmiechu w jego oczach za okularami) W dzisiejszych czasach nie widuje siê tego w wielu miejscach. Na przyk³ad u m³odych tego œwiata...}
+{182}{}{Sory. Mam dzisiaj wyjÄ…tkowo zÅ‚y dzieÅ„.}
+{183}{}{Przepraszam, tylko Å¼artowaÅ‚em.}
+{184}{}{Dziecko, musisz siÄ™ nauczyÄ‡ szacunku dla starszych.}
+{185}{}{Dziecko, musisz siÄ™ jeszcze wiele nauczyÄ‡ o Å¼artach.}
+{186}{}{Taa, w porzÄ…dalu.}
+{187}{}{No dobra, teraz mnie wkurzyÅ‚eÅ›. BÄ™dziesz musiaÅ‚ SIEBIE wyleczyÄ‡ z bardzo powaÅ¼nych ran.}
+{188}{}{(ZauwaÅ¼asz bÅ‚ysk uÅ›miechu w jego oczach za okularami) W dzisiejszych czasach nie widuje siÄ™ tego w wielu miejscach. Na przykÅ‚ad u mÅ‚odych tego Å›wiata...}
 {189}{}{Hej!}
 {190}{}{Nie przeginaj, starcze.}
-{191}{}{...mo¿na znaleŸæ skarbnicê tego, co starsi wiedzieli kiedyœ...}
-{192}{}{Tak, tak, tak... ale ja muszê ju¿ iœæ.}
-{193}{}{Uspokój siê dziecko, tylko ¿artowa³em.}
-{194}{}{Tak, wiem. Wiêc... ummm... }
-{195}{}{...i czym odmawiamy siê z wami podzieliæ, mali dranie! (wybucha œmiechem) Dziecko, kiedy nastêpnym razem bêdzie ci potrzebna darmowa pomoc medyczna - wal œmia³o.}
+{191}{}{...moÅ¼na znaleÅºÄ‡ skarbnicÄ™ tego, co starsi wiedzieli kiedyÅ›...}
+{192}{}{Tak, tak, tak... ale ja muszÄ™ juÅ¼ iÅ›Ä‡.}
+{193}{}{UspokÃ³j siÄ™ dziecko, tylko Å¼artowaÅ‚em.}
+{194}{}{Tak, wiem. WiÄ™c... ummm... }
+{195}{}{...i czym odmawiamy siÄ™ z wami podzieliÄ‡, mali dranie! (wybucha Å›miechem) Dziecko, kiedy nastÄ™pnym razem bÄ™dzie ci potrzebna darmowa pomoc medyczna - wal Å›miaÅ‚o.}
 {196}{}{Mam jeszcze inne pytania.}
-{197}{}{Dziêki. Do zobaczenia wkrótce.}
-{198}{}{Jakieœ rany? Pozwól, ¿e ciê obejrzê.}
+{197}{}{DziÄ™ki. Do zobaczenia wkrÃ³tce.}
+{198}{}{JakieÅ› rany? PozwÃ³l, Å¼e ciÄ™ obejrzÄ™.}
 {199}{}{Umm...}
-{200}{}{Dziêki. Do zobaczenia!}
-{201}{}{Który jest ranny? O, niewa¿ne, ustawcie siê w szeregu, to opatrzê wszystkich.}
+{200}{}{DziÄ™ki. Do zobaczenia!}
+{201}{}{KtÃ³ry jest ranny? O, niewaÅ¼ne, ustawcie siÄ™ w szeregu, to opatrzÄ™ wszystkich.}
 {202}{}{Jeszcze jedno...}
-{203}{}{Dziêki! Na razie!}
-{204}{}{Zadziwiaj¹co niewiele. Przykro mi, ale koncentrujê siê na operacji i nie mam zbyt wiele czasu na przes³uchiwanie pacjenta.}
-{205}{}{Och. Mo¿esz mi odpowiedzieæ na inne pytania?}
-{206}{}{Wiêc poszed³em do San Francisco i studiowa³em pod kierownictwem pewnego Chiñczyka... starszego d¿entelmena - pana Funga, który nauczy³ mnie wszystkiego, co wiem o medycynie. Nauczy³ mnie te¿ rozs¹dku.}
-{207}{}{Wiêc co siê sta³o?}
-{208}{}{A jaki to ma zwi¹zek z Broken Hills ?}
-{209}{}{W³aœnie do tego zd¹¿am! Ta dzisiejsza m³odzie¿... jesteœcie tacy niecierpliwi.}
+{203}{}{DziÄ™ki! Na razie!}
+{204}{}{ZadziwiajÄ…co niewiele. Przykro mi, ale koncentrujÄ™ siÄ™ na operacji i nie mam zbyt wiele czasu na przesÅ‚uchiwanie pacjenta.}
+{205}{}{Och. MoÅ¼esz mi odpowiedzieÄ‡ na inne pytania?}
+{206}{}{WiÄ™c poszedÅ‚em do San Francisco i studiowaÅ‚em pod kierownictwem pewnego ChiÅ„czyka... starszego dÅ¼entelmena - pana Funga, ktÃ³ry nauczyÅ‚ mnie wszystkiego, co wiem o medycynie. NauczyÅ‚ mnie teÅ¼ rozsÄ…dku.}
+{207}{}{WiÄ™c co siÄ™ staÅ‚o?}
+{208}{}{A jaki to ma zwiÄ…zek z Broken Hills ?}
+{209}{}{WÅ‚aÅ›nie do tego zdÄ…Å¼am! Ta dzisiejsza mÅ‚odzieÅ¼... jesteÅ›cie tacy niecierpliwi.}
 {210}{}{Przepraszam. Kontynuuj.}
-{211}{}{Mam doœæ. Spadam st¹d.}
-{212}{}{Wtedy wróci³em tu i obserwowa³em, jak Marcus budowa³ miasto z sza³asów i namiotów, oraz jak przerodzi³o siê ono w tê "metropoliê", któr¹ teraz ogl¹dasz. Widzia³em przybywaj¹cych tu ludzi zachêconych obietnicami bogactwa. Widzia³em, jak dorastali i jak umierali. Innymi s³owy widzia³em ca³kiem niez³y kawa³ek historii.}
+{211}{}{Mam doÅ›Ä‡. Spadam stÄ…d.}
+{212}{}{Wtedy wrÃ³ciÅ‚em tu i obserwowaÅ‚em, jak Marcus budowaÅ‚ miasto z szaÅ‚asÃ³w i namiotÃ³w, oraz jak przerodziÅ‚o siÄ™ ono w tÄ™ "metropoliÄ™", ktÃ³rÄ… teraz oglÄ…dasz. WidziaÅ‚em przybywajÄ…cych tu ludzi zachÄ™conych obietnicami bogactwa. WidziaÅ‚em, jak dorastali i jak umierali. Innymi sÅ‚owy widziaÅ‚em caÅ‚kiem niezÅ‚y kawaÅ‚ek historii.}
 {213}{}{A to oznacza...}
-{214}{}{To oznacza, ¿e nie mam zbyt wielu znajomych wœród ¿ywych.}
-{215}{}{Och. Có¿, dziêki za opowieœæ.}
-{216}{}{Ty palancie! Tyle czasu straconego na bezsensown¹ opowieœæ!}
-{217}{}{Nie, dziêkujê ci bardzo za cierpliwoœæ. Kiedy nastêpnym razem bêdzie ci potrzebna darmowa pomoc medyczna - wal œmia³o.}
-{218}{}{Dziêki! Wiêc...}
-{219}{}{Dziêki. Do zobaczenia!}
-{220}{}{Tak. Mam nadziejê, ¿e by³o warto! [œmieje siê]}
-{221}{}{Nie. Nie ca³kiem. Opowiedz mi o czymœ innym.}
-{222}{}{Nie. Ty szurniêty stary palancie. Spadaj.}
-{300}{}{Kogo mam uleczyæ?}
+{214}{}{To oznacza, Å¼e nie mam zbyt wielu znajomych wÅ›rÃ³d Å¼ywych.}
+{215}{}{Och. CÃ³Å¼, dziÄ™ki za opowieÅ›Ä‡.}
+{216}{}{Ty palancie! Tyle czasu straconego na bezsensownÄ… opowieÅ›Ä‡!}
+{217}{}{Nie, dziÄ™kujÄ™ ci bardzo za cierpliwoÅ›Ä‡. Kiedy nastÄ™pnym razem bÄ™dzie ci potrzebna darmowa pomoc medyczna - wal Å›miaÅ‚o.}
+{218}{}{DziÄ™ki! WiÄ™c...}
+{219}{}{DziÄ™ki. Do zobaczenia!}
+{220}{}{Tak. Mam nadziejÄ™, Å¼e byÅ‚o warto! [Å›mieje siÄ™]}
+{221}{}{Nie. Nie caÅ‚kiem. Opowiedz mi o czymÅ› innym.}
+{222}{}{Nie. Ty szurniÄ™ty stary palancie. Spadaj.}
+{300}{}{Kogo mam uleczyÄ‡?}
 {301}{}{Vica.}
 {302}{}{Myrona.}
 {303}{}{Marcusa.}
@@ -132,11 +132,11 @@
 {308}{}{Doktorka.}
 {309}{}{Gorisa.}
 {310}{}{Davin}
-{311}{}{Miriê.}
-{312}{}{Robomózga.}
-{313}{}{Niewa¿ne.}
-{314}{}{Rany? Pozwól, ¿e ci pomogê. Twoimi towarzyszami te¿ siê zajmê.}
-{315}{}{Proszê bardzo. Jesteœcie zdrowi.}
+{311}{}{MiriÄ™.}
+{312}{}{RobomÃ³zga.}
+{313}{}{NiewaÅ¼ne.}
+{314}{}{Rany? PozwÃ³l, Å¼e ci pomogÄ™. Twoimi towarzyszami teÅ¼ siÄ™ zajmÄ™.}
+{315}{}{ProszÄ™ bardzo. JesteÅ›cie zdrowi.}
 {316}{}{[Dalej.]}
 {400}{}{Dogmeata.}
 {401}{}{K9.}

@@ -1,125 +1,125 @@
-{100}{}{Ez itt egy nagy szakállú, lompos kinézet? alak.}
+{100}{}{Ez itt egy nagy szakÃ¡llÃº, lompos kinÃ©zet? alak.}
 {101}{}{? Athabaska Dick.}
-{102}{}{Ez az ember olyan bányásznak látszik, aki tudja mi a dörgés.}
-{103}{}{Te túl ostoba vagy a bányászmelóhoz.}
-{104}{}{Üdvözlünk a Nagyvárosban!}
-{105}{}{Van valami beütésed, mi?}
-{106}{}{Annyi eszed van mint egy marék lepkének.}
-{107}{}{Volt olyan lapátom, aminek több esze volt, mint neked.}
-{108}{}{Többnyire csak a szokásos. Mi bányászok csak annyit dolgozunk, amennyi a következ? Jetetúrához elég.}
-{109}{}{Feltennék még kérdéseket.}
+{102}{}{Ez az ember olyan bÃ¡nyÃ¡sznak lÃ¡tszik, aki tudja mi a dÃ¶rgÃ©s.}
+{103}{}{Te tÃºl ostoba vagy a bÃ¡nyÃ¡szmelÃ³hoz.}
+{104}{}{ÃœdvÃ¶zlÃ¼nk a NagyvÃ¡rosban!}
+{105}{}{Van valami beÃ¼tÃ©sed, mi?}
+{106}{}{Annyi eszed van mint egy marÃ©k lepkÃ©nek.}
+{107}{}{Volt olyan lapÃ¡tom, aminek tÃ¶bb esze volt, mint neked.}
+{108}{}{TÃ¶bbnyire csak a szokÃ¡sos. Mi bÃ¡nyÃ¡szok csak annyit dolgozunk, amennyi a kÃ¶vetkez? JetetÃºrÃ¡hoz elÃ©g.}
+{109}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {110}{}{Jet? Az meg micsoda?}
-{111}{}{Értem. Viszlát!}
-{112}{}{Nos, a legtöbbünk belegebed, hogy elég Jethez jusson. A rohadt árak meg állandóan csak mennek felfelé. Gy?lölöm azt az érzést, mikor nem repülhetek.}
-{113}{}{Feltennék még kérdéseket.}
+{111}{}{Ã‰rtem. ViszlÃ¡t!}
+{112}{}{Nos, a legtÃ¶bbÃ¼nk belegebed, hogy elÃ©g Jethez jusson. A rohadt Ã¡rak meg Ã¡llandÃ³an csak mennek felfelÃ©. Gy?lÃ¶lÃ¶m azt az Ã©rzÃ©st, mikor nem repÃ¼lhetek.}
+{113}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {114}{}{Jet? Az meg micsoda?}
-{115}{}{Értem. Viszlát!}
-{116}{}{Nem tudok én annyit dógozni, amennyi Jet kéne nekem ahhoz, hogy jól érezzem magam. Tán ki tudnánk ókumulálni valamit New Renóval, má' direktbe értem. Hallottam, hogy Ascorti mán ügyködik ezen.}
-{117}{}{Feltennék még kérdéseket.}
+{115}{}{Ã‰rtem. ViszlÃ¡t!}
+{116}{}{Nem tudok Ã©n annyit dÃ³gozni, amennyi Jet kÃ©ne nekem ahhoz, hogy jÃ³l Ã©rezzem magam. TÃ¡n ki tudnÃ¡nk Ã³kumulÃ¡lni valamit New RenÃ³val, mÃ¡' direktbe Ã©rtem. Hallottam, hogy Ascorti mÃ¡n Ã¼gykÃ¶dik ezen.}
+{117}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {118}{}{Ascorti? Az ki?}
 {119}{}{Jet? Az meg micsoda?}
-{120}{}{Értem. Viszlát!}
-{121}{}{Nem érzem magam valami jól mostanában, és úgy néz ki, ezzel nem vagyok egyedül. Próbáltam még több Jetet benyomni, de szart se segít. Inkább csak rosszabbul érzem magam t?le. A béka segge alatt vagyok, akárcsak a többi bányász.}
-{122}{}{Feltennék még kérdéseket.}
+{120}{}{Ã‰rtem. ViszlÃ¡t!}
+{121}{}{Nem Ã©rzem magam valami jÃ³l mostanÃ¡ban, Ã©s Ãºgy nÃ©z ki, ezzel nem vagyok egyedÃ¼l. PrÃ³bÃ¡ltam mÃ©g tÃ¶bb Jetet benyomni, de szart se segÃ­t. InkÃ¡bb csak rosszabbul Ã©rzem magam t?le. A bÃ©ka segge alatt vagyok, akÃ¡rcsak a tÃ¶bbi bÃ¡nyÃ¡sz.}
+{122}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {123}{}{Jet? Az meg micsoda?}
-{124}{}{Értem. Viszlát!}
-{125}{}{Nem tudom, mi történt, de a legutóbbi szállítmány után majdnem mindenki leállt a Jettel. Úgy éreztem, hogy mindannyian a nagy égi reptéren fogunk kikötni. Mostanság már senki nem akar többet Jetezni. Már a gondolatától is irtózunk.}
-{126}{}{Feltennék még kérdéseket.}
+{124}{}{Ã‰rtem. ViszlÃ¡t!}
+{125}{}{Nem tudom, mi tÃ¶rtÃ©nt, de a legutÃ³bbi szÃ¡llÃ­tmÃ¡ny utÃ¡n majdnem mindenki leÃ¡llt a Jettel. Ãšgy Ã©reztem, hogy mindannyian a nagy Ã©gi reptÃ©ren fogunk kikÃ¶tni. MostansÃ¡g mÃ¡r senki nem akar tÃ¶bbet Jetezni. MÃ¡r a gondolatÃ¡tÃ³l is irtÃ³zunk.}
+{126}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {127}{}{Jet? Az meg micsoda?}
-{128}{}{Értem. Viszlát!}
-{129}{}{Adjisten, Athabaska Dick vagyok. Az emberek általában csak Dick-nek szólítanak. Persze van olyan, aki Athabaskának hív, de leginkább mégiscsak Dick-nek.}
-{130}{}{Üdvözlet! Mit tehet érted a jó öreg Athabaska Dick?}
-{131}{}{Sietek. Gyorsabban, gyorsabban! Na? Mire vársz? Ha Athabaska Dickkel akarsz beszélni, akkor gyorsabban kell járjon a szád!}
-{132}{}{Mi... mit akarsz? Nem látod, hogy dógom van? (morog magában) Muszáj mindig dógozni ... dógozni ... dógozni...}
-{133}{}{(nyög egyet) Mit akarsz az öreg Athabaska Dickt?l? (magának) Úgy érzem, mintha fejbe rúgott volna egy öszvér.}
-{134}{}{Baromi szarul érzem magam. Mivel akarod a jó öreg Dick-et zargatni?}
-{135}{}{Üdv, Athabaska Dick vagyok. Valaha egyfolytában Jet-mámorban éltem, de többé hozzá nem nyúlok ahhoz a szarhoz!}
-{136}{}{Születésem óta nem éreztem magam ilyen mosogatórongynak.}
-{137}{}{Dick, mit csinálsz te itt?}
-{138}{}{Hé, Dick, mi újság a városban?}
-{139}{}{Hallott valami érdekes szóbeszédet?}
+{128}{}{Ã‰rtem. ViszlÃ¡t!}
+{129}{}{Adjisten, Athabaska Dick vagyok. Az emberek Ã¡ltalÃ¡ban csak Dick-nek szÃ³lÃ­tanak. Persze van olyan, aki AthabaskÃ¡nak hÃ­v, de leginkÃ¡bb mÃ©giscsak Dick-nek.}
+{130}{}{ÃœdvÃ¶zlet! Mit tehet Ã©rted a jÃ³ Ã¶reg Athabaska Dick?}
+{131}{}{Sietek. Gyorsabban, gyorsabban! Na? Mire vÃ¡rsz? Ha Athabaska Dickkel akarsz beszÃ©lni, akkor gyorsabban kell jÃ¡rjon a szÃ¡d!}
+{132}{}{Mi... mit akarsz? Nem lÃ¡tod, hogy dÃ³gom van? (morog magÃ¡ban) MuszÃ¡j mindig dÃ³gozni ... dÃ³gozni ... dÃ³gozni...}
+{133}{}{(nyÃ¶g egyet) Mit akarsz az Ã¶reg Athabaska Dickt?l? (magÃ¡nak) Ãšgy Ã©rzem, mintha fejbe rÃºgott volna egy Ã¶szvÃ©r.}
+{134}{}{Baromi szarul Ã©rzem magam. Mivel akarod a jÃ³ Ã¶reg Dick-et zargatni?}
+{135}{}{Ãœdv, Athabaska Dick vagyok. Valaha egyfolytÃ¡ban Jet-mÃ¡morban Ã©ltem, de tÃ¶bbÃ© hozzÃ¡ nem nyÃºlok ahhoz a szarhoz!}
+{136}{}{SzÃ¼letÃ©sem Ã³ta nem Ã©reztem magam ilyen mosogatÃ³rongynak.}
+{137}{}{Dick, mit csinÃ¡lsz te itt?}
+{138}{}{HÃ©, Dick, mi ÃºjsÃ¡g a vÃ¡rosban?}
+{139}{}{Hallott valami Ã©rdekes szÃ³beszÃ©det?}
 {140}{}{Mit jelent ez az Ad-ta-baszta?}
 {141}{}{Mi a baja?}
-{142}{}{Mi történt önnel?}
+{142}{}{Mi tÃ¶rtÃ©nt Ã¶nnel?}
 {143}{}{I work a spell now and then here at the Morningstar. They can always use experienced help.}
-{144}{}{Hadd kérdezzek valami mást akkor.}
-{145}{}{Értem. Csak ennyi érdekelt volna. Viszlát!}
-{146}{}{Hát mostanában nem sokat, kivéve azokat a dög Wanamingókat.}
+{144}{}{Hadd kÃ©rdezzek valami mÃ¡st akkor.}
+{145}{}{Ã‰rtem. Csak ennyi Ã©rdekelt volna. ViszlÃ¡t!}
+{146}{}{HÃ¡t mostanÃ¡ban nem sokat, kivÃ©ve azokat a dÃ¶g WanamingÃ³kat.}
 {147}{}{Milyen mongolokat? Mi a franc az?}
-{148}{}{Hát persze. Kérdezhetnék valami mást?}
-{149}{}{Nos, ez minden, amit tudni akartam. Viszlát!}
-{150}{}{Atha-baska, Athabaska. Nem olyan átkozottul nehéz azt kimondani! Kriminális. Ez a gúnynevem. Akarod tudni, hogy ragadt rám?}
-{151}{}{Hát, nem igazán. Hadd kérdezzek valami mást.}
-{152}{}{Azt hiszem, ez minden, amit tudni akartam. Viszlát!}
-{153}{}{Jójézus! Betegebb vagyok, mint egy kutya és már napok óta csak üvöltök a fájdalomtól... mióta azt az utolsó adag Jetet bevettem. Valamit elszúrhattak azzal a szállítmánnyal. Ha túlélem, én ugyan nem nyúlok többet a Jethez!}
-{154}{}{Nem hangzik túl jól. De hadd kérdezzek valami mást.}
-{155}{}{Értem. Csak ennyi érdekelt volna. Viszlát!}
-{156}{}{Megtettem. Egyel?re nem érzem magam túl jól, de tudom, hogy jobb lesz nélküle.}
-{157}{}{Miért? Mi történt?}
-{158}{}{Azt mondod, még sosem hallottál a Wanamingókról?}
-{159}{}{Öö, nos, izé. Persze, hogy hallottam a Wanamingókról. Kérdeznék valami mást, ha nem gond.}
-{160}{}{Nem, még sosem hallottam ilyesmir?l. Mesélne róla?}
-{161}{}{Soha nem hallottam ilyen Wanya-minya-monyókról és nincs id?m arra, hogy a meséidet hallgassam. Viszlát!}
-{162}{}{Egyszer?en abbahagytam - ennyi történt. Soha többé nem nyúlok a Jethez. Az az utolsó adag majdnem megölt. Utána már nem is kívántam annyira, és érdekes módon azóta sem.}
-{163}{}{Hát, sok sikert. Hadd kérdezzek valamit!}
-{164}{}{Ez érdekes. Mindenesetre jobbulást kívánok. Viszlát!}
-{165}{}{Egyesek szerint már az atom-, hidrogén- és az összes többi franc-tudja-milyen bomba el?tt itt voltak. Vannak, akik szerint gén-eti-kailag tenyésztették ki ?ket, fegyvernek. Oszt vannak, akik szerint egy tök más bolygóról valók.}
-{166}{}{Mik "ezek" a lények? Nem érdekel, honnan jöttek, csak az, hogy micsodák!}
-{167}{}{Ja, persze. Na, eleget hallottam, öregfiú. Viszlát!}
-{168}{}{Hát, azt pontosan nem tudom, hogy micsodák, de azt tudom, hogy pár éve miattuk zárták be a várostól nyugatra lév? Wanamingo Bányát.}
-{169}{}{Miattuk zárták be a Wanamingo Bányát?}
-{170}{}{Ez tetszik. Na, jobb, ha megyek, öregfiú. Kösz a történetet! Viszlát!}
-{171}{}{Bezony. És a Nagy Wanamingo volt a leggazdagabb telér ezen a részen, az ám! Most viszont mindenki messze elkerüli. Idehallgass, akár meg is vehetnéd Ascortitól, ha akarnád! Persze senki nem akarja.}
-{172}{}{Ahogy mondtam. A Nagy Wanamingo volt a leggazdagabb bánya a környéken, most meg akár bagóért is megveheted.}
-{173}{}{Szóval megvehetném... Ér egyáltalán valamit?}
+{148}{}{HÃ¡t persze. KÃ©rdezhetnÃ©k valami mÃ¡st?}
+{149}{}{Nos, ez minden, amit tudni akartam. ViszlÃ¡t!}
+{150}{}{Atha-baska, Athabaska. Nem olyan Ã¡tkozottul nehÃ©z azt kimondani! KriminÃ¡lis. Ez a gÃºnynevem. Akarod tudni, hogy ragadt rÃ¡m?}
+{151}{}{HÃ¡t, nem igazÃ¡n. Hadd kÃ©rdezzek valami mÃ¡st.}
+{152}{}{Azt hiszem, ez minden, amit tudni akartam. ViszlÃ¡t!}
+{153}{}{JÃ³jÃ©zus! Betegebb vagyok, mint egy kutya Ã©s mÃ¡r napok Ã³ta csak Ã¼vÃ¶ltÃ¶k a fÃ¡jdalomtÃ³l... miÃ³ta azt az utolsÃ³ adag Jetet bevettem. Valamit elszÃºrhattak azzal a szÃ¡llÃ­tmÃ¡nnyal. Ha tÃºlÃ©lem, Ã©n ugyan nem nyÃºlok tÃ¶bbet a Jethez!}
+{154}{}{Nem hangzik tÃºl jÃ³l. De hadd kÃ©rdezzek valami mÃ¡st.}
+{155}{}{Ã‰rtem. Csak ennyi Ã©rdekelt volna. ViszlÃ¡t!}
+{156}{}{Megtettem. Egyel?re nem Ã©rzem magam tÃºl jÃ³l, de tudom, hogy jobb lesz nÃ©lkÃ¼le.}
+{157}{}{MiÃ©rt? Mi tÃ¶rtÃ©nt?}
+{158}{}{Azt mondod, mÃ©g sosem hallottÃ¡l a WanamingÃ³krÃ³l?}
+{159}{}{Ã–Ã¶, nos, izÃ©. Persze, hogy hallottam a WanamingÃ³krÃ³l. KÃ©rdeznÃ©k valami mÃ¡st, ha nem gond.}
+{160}{}{Nem, mÃ©g sosem hallottam ilyesmir?l. MesÃ©lne rÃ³la?}
+{161}{}{Soha nem hallottam ilyen Wanya-minya-monyÃ³krÃ³l Ã©s nincs id?m arra, hogy a mesÃ©idet hallgassam. ViszlÃ¡t!}
+{162}{}{Egyszer?en abbahagytam - ennyi tÃ¶rtÃ©nt. Soha tÃ¶bbÃ© nem nyÃºlok a Jethez. Az az utolsÃ³ adag majdnem megÃ¶lt. UtÃ¡na mÃ¡r nem is kÃ­vÃ¡ntam annyira, Ã©s Ã©rdekes mÃ³don azÃ³ta sem.}
+{163}{}{HÃ¡t, sok sikert. Hadd kÃ©rdezzek valamit!}
+{164}{}{Ez Ã©rdekes. Mindenesetre jobbulÃ¡st kÃ­vÃ¡nok. ViszlÃ¡t!}
+{165}{}{Egyesek szerint mÃ¡r az atom-, hidrogÃ©n- Ã©s az Ã¶sszes tÃ¶bbi franc-tudja-milyen bomba el?tt itt voltak. Vannak, akik szerint gÃ©n-eti-kailag tenyÃ©sztettÃ©k ki ?ket, fegyvernek. Oszt vannak, akik szerint egy tÃ¶k mÃ¡s bolygÃ³rÃ³l valÃ³k.}
+{166}{}{Mik "ezek" a lÃ©nyek? Nem Ã©rdekel, honnan jÃ¶ttek, csak az, hogy micsodÃ¡k!}
+{167}{}{Ja, persze. Na, eleget hallottam, Ã¶regfiÃº. ViszlÃ¡t!}
+{168}{}{HÃ¡t, azt pontosan nem tudom, hogy micsodÃ¡k, de azt tudom, hogy pÃ¡r Ã©ve miattuk zÃ¡rtÃ¡k be a vÃ¡rostÃ³l nyugatra lÃ©v? Wanamingo BÃ¡nyÃ¡t.}
+{169}{}{Miattuk zÃ¡rtÃ¡k be a Wanamingo BÃ¡nyÃ¡t?}
+{170}{}{Ez tetszik. Na, jobb, ha megyek, Ã¶regfiÃº. KÃ¶sz a tÃ¶rtÃ©netet! ViszlÃ¡t!}
+{171}{}{Bezony. Ã‰s a Nagy Wanamingo volt a leggazdagabb telÃ©r ezen a rÃ©szen, az Ã¡m! Most viszont mindenki messze elkerÃ¼li. Idehallgass, akÃ¡r meg is vehetnÃ©d AscortitÃ³l, ha akarnÃ¡d! Persze senki nem akarja.}
+{172}{}{Ahogy mondtam. A Nagy Wanamingo volt a leggazdagabb bÃ¡nya a kÃ¶rnyÃ©ken, most meg akÃ¡r bagÃ³Ã©rt is megveheted.}
+{173}{}{SzÃ³val megvehetnÃ©m... Ã‰r egyÃ¡ltalÃ¡n valamit?}
 {174}{}{Ki az az Ascorti?}
-{175}{}{Számomra ez túl veszélyesnek hangzik. Viszlát!}
-{176}{}{Hát most nem igazán. Te nem figyelsz oda, amit mondok? Tele van azokkal a rohadt Wanamingókkal. Persze mindjárt más lenne a leányzó fekvése, ha valaki kipucolná a helyet. Tán nem is kéne mindet kinyírni!}
-{177}{}{Ezt most hogy kell értenem?}
-{178}{}{Milyen leányzóról beszélsz? N?hiányod van, vagy mi? Na, hagylak álmodozni! Viszlát!}
-{179}{}{Van ott lenn néhány cucc, amiért a Morningstar és a Kokoweef bányák tulajdonosai élb?l szép kis summát fizetnének.}
-{180}{}{Miféle cuccról van szó?}
-{181}{}{Pénz. Hmm. Na, most mennem kell. Viszlát!}
-{182}{}{Hát, tudod a bányákat valaha nagy gépekkel vájták ki. A francba, azokat az örökkévalóságnak építették! Mindkét bányának vannak nagy ásógépei. De - és itt jön be a pénz a képbe - a rohadt kis vezérl?chipek nem bizonyultak túl tartósnak. Egyik bányának sincs bel?le m?köd?képes példánya. Hehe.}
-{183}{}{Nem vagyok biztos benne, hogy értem az okfejtésed.}
-{184}{}{Minél több alkatrész van valamiben, annál nagyobb az esély, hogy el is romlanak. Kösz az infót. Viszlát!}
+{175}{}{SzÃ¡momra ez tÃºl veszÃ©lyesnek hangzik. ViszlÃ¡t!}
+{176}{}{HÃ¡t most nem igazÃ¡n. Te nem figyelsz oda, amit mondok? Tele van azokkal a rohadt WanamingÃ³kkal. Persze mindjÃ¡rt mÃ¡s lenne a leÃ¡nyzÃ³ fekvÃ©se, ha valaki kipucolnÃ¡ a helyet. TÃ¡n nem is kÃ©ne mindet kinyÃ­rni!}
+{177}{}{Ezt most hogy kell Ã©rtenem?}
+{178}{}{Milyen leÃ¡nyzÃ³rÃ³l beszÃ©lsz? N?hiÃ¡nyod van, vagy mi? Na, hagylak Ã¡lmodozni! ViszlÃ¡t!}
+{179}{}{Van ott lenn nÃ©hÃ¡ny cucc, amiÃ©rt a Morningstar Ã©s a Kokoweef bÃ¡nyÃ¡k tulajdonosai Ã©lb?l szÃ©p kis summÃ¡t fizetnÃ©nek.}
+{180}{}{MifÃ©le cuccrÃ³l van szÃ³?}
+{181}{}{PÃ©nz. Hmm. Na, most mennem kell. ViszlÃ¡t!}
+{182}{}{HÃ¡t, tudod a bÃ¡nyÃ¡kat valaha nagy gÃ©pekkel vÃ¡jtÃ¡k ki. A francba, azokat az Ã¶rÃ¶kkÃ©valÃ³sÃ¡gnak Ã©pÃ­tettÃ©k! MindkÃ©t bÃ¡nyÃ¡nak vannak nagy Ã¡sÃ³gÃ©pei. De - Ã©s itt jÃ¶n be a pÃ©nz a kÃ©pbe - a rohadt kis vezÃ©rl?chipek nem bizonyultak tÃºl tartÃ³snak. Egyik bÃ¡nyÃ¡nak sincs bel?le m?kÃ¶d?kÃ©pes pÃ©ldÃ¡nya. Hehe.}
+{183}{}{Nem vagyok biztos benne, hogy Ã©rtem az okfejtÃ©sed.}
+{184}{}{MinÃ©l tÃ¶bb alkatrÃ©sz van valamiben, annÃ¡l nagyobb az esÃ©ly, hogy el is romlanak. KÃ¶sz az infÃ³t. ViszlÃ¡t!}
 {185}{}{Well, what I'm saying is that either mine owner would pay for one of these digger-control-chips.
  Heck, if they had a workin' machine and the other mine doesn't, they'd shut the other mine down - or
  buy 'em out - in no time.}
-{186}{}{Bizony nagy kár, hogy senki sem tudja, honnan lehetne ilyen csipet szerezni.}
-{187}{}{Utána kell nézzek, mennyit fizetnének egy ilyen chipért. Kösz, viszlát!}
-{188}{}{Mosd már ki a rohadt füledet! Megmondtam, hol keresd azt az átkozott chipet! Egy árva szóra sem figyeltél abból, amit mondtam? A Wanamingo bányának voltak gépei és a bánya bezárásáig m?ködtek is. Valszeg a csipek még mindig odalenn vannak. Csak arra várnak, hogy valaki lemenjen értük és felhozza ?ket.}
-{189}{}{Hm, hát lehet. Kérdeznék még valamit.}
-{190}{}{Na, akkor mesélj nekem azokról a Wanto-mongolokról!}
-{191}{}{Kösz, ennek utána kell néznem. Viszlát!}
-{192}{}{Naszóval - Isten a megmondhatója, hogy igazat beszélek - ismerek valakit, aki látott egyet egész közelr?l... (rövid id? elteltével)... Hatalmas szemfogai voltak, amiket arra használt... (sokkal több id? elteltével)...}
-{193}{}{Volt egy haverom, akivel együtt dolgoztam és egy napon... (kis id?vel kés?bb) ...akkora volt, mint egy brahmin, csak jóval büdösebb... (sok id?vel kés?bb)...}
-{194}{}{Csinálhatsz te bármit, akkor is elalszol, de sebaj. Szóval kés? éjjel volt, amikor... (kis id? elteltével) ...a nyomok mintha egy radskorpió és egy gekkó keverékét?l származtak volna... (valamivel kés?bb) ...Na, látod, mondtam én, hogy elalszol!}
-{195}{}{He, mi!? (Felkapod a fejed. Kissé elszenderedtél.)}
-{196}{}{Jobb, ha keresek valamit, ami segít ébren maradni. Viszlát!}
-{197}{}{...Na, most már tudod. A bányában egykor dolgozó rabszolgák inkább felrobbantották a dinamitraktárat és elmenekültek, minthogy szembeszálljanak azokkal a Wanamingókkal. A bányát ezután rögtön bezárták és azóta sem ment oda vissza senki.}
-{198}{}{Mit is mondtál, hol van ez a Nagy Wanamingo Bánya?}
-{199}{}{Érdekesnek t?nik. Na, egyel?re viszlát!}
-{200}{}{Ippeg nyugatra a várostól. De úgy hallottam, hogy kés? éjjel néhány Wanamingo be szokott tévedni a városba. Sz'al, lehet, hogy nem is kell odamenned, hogy találkozz velük. Hehe.}
-{201}{}{Azt hiszem, már mindent hallottam a Wanamingókról. Kérdeznék valami mást.}
-{202}{}{Majd óvatos leszek egy ilyen Wanda Mentollal. Viszlát!}
-{203}{}{Ascorti a polgármester. Övé az Ascorti Ásza a belvárosban. Mindenféle cuccokat ad és vesz. Körülötte forog minden.}
-{204}{}{Ascorti Redding polgármestere. De nem tudom, most merre lehet. Nem láttam már egy ideje.}
-{205}{}{Hadd kérdezzek valami mást.}
-{206}{}{Ó, rendben. Halljuk a történet folytatását!}
-{207}{}{Azt hiszem, épp eleget hallgattam magát. Viszlát!}
-{208}{}{A Jet egy kis New Reno-i meglepi. Épp csak annyit szedek be, hogy kisimítsa az idegeimet.}
-{209}{}{Feltennék még kérdéseket.}
-{210}{}{Érdekfeszít?. Köszönöm, és viszontlátásra!}
-{211}{}{A Jet maga az élet, haver. Ha nem repülhetnék, nem is érezném magam jól többé. Neked is szerezned kellene egy keveset.}
-{212}{}{Feltennék még kérdéseket.}
-{213}{}{Érdekfeszít?. Köszönöm, és viszontlátásra!}
-{214}{}{Jet nélkül nem tudnék ellenni. Mostanában mindenki repül. Ki kell próbálnod, csak hogy érezd! A francba, nem érzem magam olyan jól vele, mint amennyire szarul érzem magam nélküle.}
-{215}{}{Feltennék még kérdéseket.}
-{216}{}{Érdekfeszít?. Köszönöm, és viszontlátásra!}
-{217}{}{Barátom, a Jet félresikerült dolog. Akik használják, olyan betegek lesznek, mint akik menten meghalnak. Azt hiszem, én már jobban... (összegörnyed és szárazon öklendezik egy kicsit) ...elnézést. Mondd csak, nem beszélhetnénk valami másról?}
-{218}{}{Valóban? Nos, kérdezhetnék még valamit?}
-{219}{}{Érdekfeszít?. Köszönöm, és viszontlátásra!}
-{220}{}{Soha többé nem akarok hallani arról az átkozott Jetr?l! Az az anyag megöl téged! Itt dögöljek meg, ha nem rosszabb, mint a radskorpió-méreg. Nem is értem, hogy lehettem oda azért az anyagért. Legutoljára... azt hittem, végem.}
-{221}{}{Feltennék még kérdéseket.}
-{222}{}{Érdekfeszít?. Köszönöm, és viszontlátásra!}
+{186}{}{Bizony nagy kÃ¡r, hogy senki sem tudja, honnan lehetne ilyen csipet szerezni.}
+{187}{}{UtÃ¡na kell nÃ©zzek, mennyit fizetnÃ©nek egy ilyen chipÃ©rt. KÃ¶sz, viszlÃ¡t!}
+{188}{}{Mosd mÃ¡r ki a rohadt fÃ¼ledet! Megmondtam, hol keresd azt az Ã¡tkozott chipet! Egy Ã¡rva szÃ³ra sem figyeltÃ©l abbÃ³l, amit mondtam? A Wanamingo bÃ¡nyÃ¡nak voltak gÃ©pei Ã©s a bÃ¡nya bezÃ¡rÃ¡sÃ¡ig m?kÃ¶dtek is. Valszeg a csipek mÃ©g mindig odalenn vannak. Csak arra vÃ¡rnak, hogy valaki lemenjen Ã©rtÃ¼k Ã©s felhozza ?ket.}
+{189}{}{Hm, hÃ¡t lehet. KÃ©rdeznÃ©k mÃ©g valamit.}
+{190}{}{Na, akkor mesÃ©lj nekem azokrÃ³l a Wanto-mongolokrÃ³l!}
+{191}{}{KÃ¶sz, ennek utÃ¡na kell nÃ©znem. ViszlÃ¡t!}
+{192}{}{NaszÃ³val - Isten a megmondhatÃ³ja, hogy igazat beszÃ©lek - ismerek valakit, aki lÃ¡tott egyet egÃ©sz kÃ¶zelr?l... (rÃ¶vid id? elteltÃ©vel)... Hatalmas szemfogai voltak, amiket arra hasznÃ¡lt... (sokkal tÃ¶bb id? elteltÃ©vel)...}
+{193}{}{Volt egy haverom, akivel egyÃ¼tt dolgoztam Ã©s egy napon... (kis id?vel kÃ©s?bb) ...akkora volt, mint egy brahmin, csak jÃ³val bÃ¼dÃ¶sebb... (sok id?vel kÃ©s?bb)...}
+{194}{}{CsinÃ¡lhatsz te bÃ¡rmit, akkor is elalszol, de sebaj. SzÃ³val kÃ©s? Ã©jjel volt, amikor... (kis id? elteltÃ©vel) ...a nyomok mintha egy radskorpiÃ³ Ã©s egy gekkÃ³ keverÃ©kÃ©t?l szÃ¡rmaztak volna... (valamivel kÃ©s?bb) ...Na, lÃ¡tod, mondtam Ã©n, hogy elalszol!}
+{195}{}{He, mi!? (Felkapod a fejed. KissÃ© elszenderedtÃ©l.)}
+{196}{}{Jobb, ha keresek valamit, ami segÃ­t Ã©bren maradni. ViszlÃ¡t!}
+{197}{}{...Na, most mÃ¡r tudod. A bÃ¡nyÃ¡ban egykor dolgozÃ³ rabszolgÃ¡k inkÃ¡bb felrobbantottÃ¡k a dinamitraktÃ¡rat Ã©s elmenekÃ¼ltek, minthogy szembeszÃ¡lljanak azokkal a WanamingÃ³kkal. A bÃ¡nyÃ¡t ezutÃ¡n rÃ¶gtÃ¶n bezÃ¡rtÃ¡k Ã©s azÃ³ta sem ment oda vissza senki.}
+{198}{}{Mit is mondtÃ¡l, hol van ez a Nagy Wanamingo BÃ¡nya?}
+{199}{}{Ã‰rdekesnek t?nik. Na, egyel?re viszlÃ¡t!}
+{200}{}{Ippeg nyugatra a vÃ¡rostÃ³l. De Ãºgy hallottam, hogy kÃ©s? Ã©jjel nÃ©hÃ¡ny Wanamingo be szokott tÃ©vedni a vÃ¡rosba. Sz'al, lehet, hogy nem is kell odamenned, hogy talÃ¡lkozz velÃ¼k. Hehe.}
+{201}{}{Azt hiszem, mÃ¡r mindent hallottam a WanamingÃ³krÃ³l. KÃ©rdeznÃ©k valami mÃ¡st.}
+{202}{}{Majd Ã³vatos leszek egy ilyen Wanda Mentollal. ViszlÃ¡t!}
+{203}{}{Ascorti a polgÃ¡rmester. Ã–vÃ© az Ascorti Ãsza a belvÃ¡rosban. MindenfÃ©le cuccokat ad Ã©s vesz. KÃ¶rÃ¼lÃ¶tte forog minden.}
+{204}{}{Ascorti Redding polgÃ¡rmestere. De nem tudom, most merre lehet. Nem lÃ¡ttam mÃ¡r egy ideje.}
+{205}{}{Hadd kÃ©rdezzek valami mÃ¡st.}
+{206}{}{Ã“, rendben. Halljuk a tÃ¶rtÃ©net folytatÃ¡sÃ¡t!}
+{207}{}{Azt hiszem, Ã©pp eleget hallgattam magÃ¡t. ViszlÃ¡t!}
+{208}{}{A Jet egy kis New Reno-i meglepi. Ã‰pp csak annyit szedek be, hogy kisimÃ­tsa az idegeimet.}
+{209}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{210}{}{Ã‰rdekfeszÃ­t?. KÃ¶szÃ¶nÃ¶m, Ã©s viszontlÃ¡tÃ¡sra!}
+{211}{}{A Jet maga az Ã©let, haver. Ha nem repÃ¼lhetnÃ©k, nem is Ã©reznÃ©m magam jÃ³l tÃ¶bbÃ©. Neked is szerezned kellene egy keveset.}
+{212}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{213}{}{Ã‰rdekfeszÃ­t?. KÃ¶szÃ¶nÃ¶m, Ã©s viszontlÃ¡tÃ¡sra!}
+{214}{}{Jet nÃ©lkÃ¼l nem tudnÃ©k ellenni. MostanÃ¡ban mindenki repÃ¼l. Ki kell prÃ³bÃ¡lnod, csak hogy Ã©rezd! A francba, nem Ã©rzem magam olyan jÃ³l vele, mint amennyire szarul Ã©rzem magam nÃ©lkÃ¼le.}
+{215}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{216}{}{Ã‰rdekfeszÃ­t?. KÃ¶szÃ¶nÃ¶m, Ã©s viszontlÃ¡tÃ¡sra!}
+{217}{}{BarÃ¡tom, a Jet fÃ©lresikerÃ¼lt dolog. Akik hasznÃ¡ljÃ¡k, olyan betegek lesznek, mint akik menten meghalnak. Azt hiszem, Ã©n mÃ¡r jobban... (Ã¶sszegÃ¶rnyed Ã©s szÃ¡razon Ã¶klendezik egy kicsit) ...elnÃ©zÃ©st. Mondd csak, nem beszÃ©lhetnÃ©nk valami mÃ¡srÃ³l?}
+{218}{}{ValÃ³ban? Nos, kÃ©rdezhetnÃ©k mÃ©g valamit?}
+{219}{}{Ã‰rdekfeszÃ­t?. KÃ¶szÃ¶nÃ¶m, Ã©s viszontlÃ¡tÃ¡sra!}
+{220}{}{Soha tÃ¶bbÃ© nem akarok hallani arrÃ³l az Ã¡tkozott Jetr?l! Az az anyag megÃ¶l tÃ©ged! Itt dÃ¶gÃ¶ljek meg, ha nem rosszabb, mint a radskorpiÃ³-mÃ©reg. Nem is Ã©rtem, hogy lehettem oda azÃ©rt az anyagÃ©rt. LegutoljÃ¡ra... azt hittem, vÃ©gem.}
+{221}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{222}{}{Ã‰rdekfeszÃ­t?. KÃ¶szÃ¶nÃ¶m, Ã©s viszontlÃ¡tÃ¡sra!}

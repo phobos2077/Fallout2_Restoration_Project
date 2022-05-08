@@ -1,1 +1,1 @@
-{100}{}{Un morceau de papier plié sur lequel est inscrit le mot TCHAIKOVSKY.}
+{100}{}{Un morceau de papier pliÃ© sur lequel est inscrit le mot TCHAIKOVSKY.}

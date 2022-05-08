@@ -1,120 +1,120 @@
 {100}{}{Ves a un hombre muy grande, cubierto de polvo, con la mirada perdida y una sonrisilla.}
 {101}{}{Ves a Torr Buckner, el tonto del pueblo.}
 {102}{}{Ves a un hombre grande y musculoso vestido con ropa sucia, cubierta de polvo y barro, y que tiene una sonrisa beatifica en su rostro.}
-{110}{}{Malo. Hace pupa Torr. ¡Vete!}
-{111}{}{¡Eres malo! No pupa Torr.}
-{112}{}{¡Owwww! ¡Vete!}
-{113}{}{No más pupa Torr.}
-{114}{}{Torr bueno. Torr no daño.}
-{115}{}{Torr tiene pupa. ¡Malos! ¡Malos iros!}
-{120}{}{¡Ayuda Torr! (Por favor ayúdame. Hay una especie de criatura que me impide escapar de este lugar.)}
-{121}{}{¡Ayuda Torr!}
-{122}{}{ ayuda Torr. (Ya llego, Torr. ¡Tan sólo aguanta un poco más!)}
+{110}{}{Malo. Hace pupa Torr. Â¡Vete!}
+{111}{}{Â¡Eres malo! No pupa Torr.}
+{112}{}{Â¡Owwww! Â¡Vete!}
+{113}{}{No mÃ¡s pupa Torr.}
+{114}{}{Torr bueno. Torr no daÃ±o.}
+{115}{}{Torr tiene pupa. Â¡Malos! Â¡Malos iros!}
+{120}{}{Â¡Ayuda Torr! (Por favor ayÃºdame. Hay una especie de criatura que me impide escapar de este lugar.)}
+{121}{}{Â¡Ayuda Torr!}
+{122}{}{ ayuda Torr. (Ya llego, Torr. Â¡Tan sÃ³lo aguanta un poco mÃ¡s!)}
 {123}{}{Voy en tu ayuda, Torr.}
-{130}{}{¡Squea Squea malo! ¡Ayuda Torr! (¡Cuidado con el Espíritu Que Camina! Ya hablaremos cuando me saques de aquí.)}
-{131}{}{¡Squea Squea! ¡Ack! ¡Espíritu malo! ¡Ayuda Torr! ¡Torr se va!}
-{132}{}{Vale Torr. (Suena sensato, Torr. Salgamos de aquí.)}
-{133}{}{Podemos hablar luego. Salgamos de aquí.}
-{140}{}{Yo Torr. (Soy Torr. ¿Puedo ayudarte?)}
+{130}{}{Â¡Squea Squea malo! Â¡Ayuda Torr! (Â¡Cuidado con el EspÃ­ritu Que Camina! Ya hablaremos cuando me saques de aquÃ­.)}
+{131}{}{Â¡Squea Squea! Â¡Ack! Â¡EspÃ­ritu malo! Â¡Ayuda Torr! Â¡Torr se va!}
+{132}{}{Vale Torr. (Suena sensato, Torr. Salgamos de aquÃ­.)}
+{133}{}{Podemos hablar luego. Salgamos de aquÃ­.}
+{140}{}{Yo Torr. (Soy Torr. Â¿Puedo ayudarte?)}
 {141}{}{Yo Torr.}
-{142}{}{Tú Torr. (Hola, Torr. Tengo un par de preguntas que hacerte.)}
-{143}{}{Encantado de conocerte, Torr. ¿Últimamente ha ocurrido algo interesante por aquí?}
-{144}{}{Estoy aquí por los brah... err, los mu-mus.}
-{150}{}{Yo protejo mu-mus de hombres bicho. (Protejo a los brahmines de nuestra familia de los feroces ataques nocturnos de criaturas bípedas con caparazón a las que yo llamo hombres bicho.)}
+{142}{}{TÃº Torr. (Hola, Torr. Tengo un par de preguntas que hacerte.)}
+{143}{}{Encantado de conocerte, Torr. Â¿Ãšltimamente ha ocurrido algo interesante por aquÃ­?}
+{144}{}{Estoy aquÃ­ por los brah... err, los mu-mus.}
+{150}{}{Yo protejo mu-mus de hombres bicho. (Protejo a los brahmines de nuestra familia de los feroces ataques nocturnos de criaturas bÃ­pedas con caparazÃ³n a las que yo llamo hombres bicho.)}
 {151}{}{Yo protejo mu-mus de hombres bicho.}
-{152}{}{¿Home-micho? (¿Hombres bicho? Si, parece un apelativo correcto para tu descripción. Háblame de ellos.)}
-{153}{}{¿Hombres bicho?}
-{160}{}{Hombres bicho roban mu-mus por la noche. ¡Torr asustado! ¿Ayuda Torr? (Bien, como he dicho, sus hábitos de alimentación son nocturnos. No me vendría mal ayuda para guardar las reses. ¿Podrías matar a cualquier hombre bicho que veas cerca de los brahmines?)}
-{161}{}{Hombres bicho roban mu-mus por la noche. ¡Torr asustado! ¿Ayuda Torr?}
-{162}{}{Yo ayuda Torr ayudar mu-mus (Si, por supuesto que te ayudaré a impedir el ataque depredador de estos nefastos hombres bicho a los brahmines de tu familia.)}
-{163}{}{Hombres bicho malos. Yo no ayuda Torr. (Hmm, no creo que pueda ayudarte con los hombres bicho ahora mismo, Torr. Pero te deseo toda la suerte del mundo. Adiós.)}
+{152}{}{Â¿Home-micho? (Â¿Hombres bicho? Si, parece un apelativo correcto para tu descripciÃ³n. HÃ¡blame de ellos.)}
+{153}{}{Â¿Hombres bicho?}
+{160}{}{Hombres bicho roban mu-mus por la noche. Â¡Torr asustado! Â¿Ayuda Torr? (Bien, como he dicho, sus hÃ¡bitos de alimentaciÃ³n son nocturnos. No me vendrÃ­a mal ayuda para guardar las reses. Â¿PodrÃ­as matar a cualquier hombre bicho que veas cerca de los brahmines?)}
+{161}{}{Hombres bicho roban mu-mus por la noche. Â¡Torr asustado! Â¿Ayuda Torr?}
+{162}{}{Yo ayuda Torr ayudar mu-mus (Si, por supuesto que te ayudarÃ© a impedir el ataque depredador de estos nefastos hombres bicho a los brahmines de tu familia.)}
+{163}{}{Hombres bicho malos. Yo no ayuda Torr. (Hmm, no creo que pueda ayudarte con los hombres bicho ahora mismo, Torr. Pero te deseo toda la suerte del mundo. AdiÃ³s.)}
 {164}{}{Uh... claro, Torr. Puedo ayudarte a vigilar los brahmines.}
-{165}{}{No puedo (negando con la cabeza) ayudarte. Adiós.}
-{166}{}{¿Home vende eing? (Antes de meternos en ese tema, Torr, ¿conoces a algun comerciante que viva en el pueblo?)}
-{170}{}{Tú ayuda Torr. Muu-muus allí (señala al este de aquí) ¿Noche si? (sonríe) (Gracias por tu ayuda. Me vendrá muy bien tu ayuda esta noche.)}
-{171}{}{Tú ayuda Torr. Muu-muus allí (señala al este de aquí) ¿Noche si? (sonríe). }
+{165}{}{No puedo (negando con la cabeza) ayudarte. AdiÃ³s.}
+{166}{}{Â¿Home vende eing? (Antes de meternos en ese tema, Torr, Â¿conoces a algun comerciante que viva en el pueblo?)}
+{170}{}{TÃº ayuda Torr. Muu-muus allÃ­ (seÃ±ala al este de aquÃ­) Â¿Noche si? (sonrÃ­e) (Gracias por tu ayuda. Me vendrÃ¡ muy bien tu ayuda esta noche.)}
+{171}{}{TÃº ayuda Torr. Muu-muus allÃ­ (seÃ±ala al este de aquÃ­) Â¿Noche si? (sonrÃ­e). }
 {172}{}{ ayuda Torr. (Te veo en los pastos al este del pueblo, al atardecer.)}
-{173}{}{¿Torr? (Te ayudaré a vigilar los brahmines pero tengo otras preguntas que hacerte, si no te importa.)}
-{174}{}{Te ayudaré a vigilar los brahmines esta noche, Torr. Te veo en los pastos al este del pueblo, al atardecer.}
-{175}{}{Esta noche no puedo ayudarte a vigilar a los brahmines, Torr. Adiós.}
-{180}{}{¿Torr decir? (¿Qué es lo que quieres saber, amigo?)}
-{181}{}{ aquí! (Dime qué está pasando aquí.)}
-{182}{}{ Zzzzzzz. ¿Vale? (Necesito un sitio donde dormir, por favor.)}
-{183}{}{¡Quiere! (señalas cosas)(¿Dónde puedo comprar y vender?)}
-{184}{}{¿Ki-cre Eden? (¿Has oído hablar alguna vez del Kit de Creación del Jardín del Edén?)}
-{185}{}{Adiós Torr. (Es todo lo que quería saber. Adiós, Torr.)}
-{190}{}{¡Oog! Homebicho, Ulik ribal, Smiley no ta. (Bueno, está mi problema con los hombres bicho. Después lo de Sulik, el tribal, al que mi madre está haciendo trabajar para que pague la deuda que tiene con ella... creo que mi hermana está enamorada de él. Y finalmente, lo del novio de Mamá, un hombre llamado Smiley, que ha desaparecido en algún lugar al oeste de aquí. Mucho jaleo, últimamente.)}
-{191}{}{¿Torr? (Veo que están pasando muchas cosas últimamente. Si pudiera preguntarte otra cosa.)}
-{192}{}{¡Ooh! (Es suficiente información por el momento. Adiós.)}
-{200}{}{¿Zzzzz? Torr Zzzzz. (Bueno, estás invitado a dormir en mi habitación... sin coste alguno.)}
-{201}{}{¿Torr Zzzzzz? (¿Me dejarías que me quede contigo? Es muy generoso de tu parte; te tomaré la palabra. Es todo. Gracias.)}
-{202}{}{¿Zzzzz? (No creo que necesite dormir ahora mismo. Quizás más tarde. Tengo otra cuestión.)}
+{173}{}{Â¿Torr? (Te ayudarÃ© a vigilar los brahmines pero tengo otras preguntas que hacerte, si no te importa.)}
+{174}{}{Te ayudarÃ© a vigilar los brahmines esta noche, Torr. Te veo en los pastos al este del pueblo, al atardecer.}
+{175}{}{Esta noche no puedo ayudarte a vigilar a los brahmines, Torr. AdiÃ³s.}
+{180}{}{Â¿Torr decir? (Â¿QuÃ© es lo que quieres saber, amigo?)}
+{181}{}{ aquÃ­! (Dime quÃ© estÃ¡ pasando aquÃ­.)}
+{182}{}{ Zzzzzzz. Â¿Vale? (Necesito un sitio donde dormir, por favor.)}
+{183}{}{Â¡Quiere! (seÃ±alas cosas)(Â¿DÃ³nde puedo comprar y vender?)}
+{184}{}{Â¿Ki-cre Eden? (Â¿Has oÃ­do hablar alguna vez del Kit de CreaciÃ³n del JardÃ­n del EdÃ©n?)}
+{185}{}{AdiÃ³s Torr. (Es todo lo que querÃ­a saber. AdiÃ³s, Torr.)}
+{190}{}{Â¡Oog! Homebicho, Ulik ribal, Smiley no ta. (Bueno, estÃ¡ mi problema con los hombres bicho. DespuÃ©s lo de Sulik, el tribal, al que mi madre estÃ¡ haciendo trabajar para que pague la deuda que tiene con ella... creo que mi hermana estÃ¡ enamorada de Ã©l. Y finalmente, lo del novio de MamÃ¡, un hombre llamado Smiley, que ha desaparecido en algÃºn lugar al oeste de aquÃ­. Mucho jaleo, Ãºltimamente.)}
+{191}{}{Â¿Torr? (Veo que estÃ¡n pasando muchas cosas Ãºltimamente. Si pudiera preguntarte otra cosa.)}
+{192}{}{Â¡Ooh! (Es suficiente informaciÃ³n por el momento. AdiÃ³s.)}
+{200}{}{Â¿Zzzzz? Torr Zzzzz. (Bueno, estÃ¡s invitado a dormir en mi habitaciÃ³n... sin coste alguno.)}
+{201}{}{Â¿Torr Zzzzzz? (Â¿Me dejarÃ­as que me quede contigo? Es muy generoso de tu parte; te tomarÃ© la palabra. Es todo. Gracias.)}
+{202}{}{Â¿Zzzzz? (No creo que necesite dormir ahora mismo. QuizÃ¡s mÃ¡s tarde. Tengo otra cuestiÃ³n.)}
 {203}{}{Zzzzz no Torr. (No creo que necesite dormir ahora mismo. Pero gracias por tu generosa oferta. Hasta otra, amigo.)}
-{210}{}{¡Uckner! Compra. (Tendrás los mejores precios aquí mismo, en el negocio de mi familia. En El Gecko Dorado sólo conseguirás que se rían de ti.)}
-{211}{}{¡Uckner! ¿Compra? (Gracias. Haré mis compras aquí. Déjame hacerte otra pregunta.)}
-{212}{}{Compra no. (Buen consejo, aunque ahora mismo no creo que necesite comprar nada. Adiós.)}
-{220}{}{¿Jennie? Gick Vic. (Así que quieres un GECK, ¿eh? ¿No eran parte originalmente de los Refugios? No sé donde podrías encontrar uno, pero si alguien lo sabe ese debe ser Vic, el comerciante. Se especializa en objetos de antes de la guerra. Vive en la parte noreste de Klamath.)}
-{221}{}{¿Siiii, ¿Gick Vic? (Gracias por decírmelo. Creo que tendré que ir a buscar a Vic. Pero antes, déjame hacerte otra pregunta.)}
-{222}{}{¿Si? Gick Vic, ¡adiós! (Gracias; creo que iré a buscarle ahora mismo. Adiós.)}
+{210}{}{Â¡Uckner! Compra. (TendrÃ¡s los mejores precios aquÃ­ mismo, en el negocio de mi familia. En El Gecko Dorado sÃ³lo conseguirÃ¡s que se rÃ­an de ti.)}
+{211}{}{Â¡Uckner! Â¿Compra? (Gracias. HarÃ© mis compras aquÃ­. DÃ©jame hacerte otra pregunta.)}
+{212}{}{Compra no. (Buen consejo, aunque ahora mismo no creo que necesite comprar nada. AdiÃ³s.)}
+{220}{}{Â¿Jennie? Gick Vic. (AsÃ­ que quieres un GECK, Â¿eh? Â¿No eran parte originalmente de los Refugios? No sÃ© donde podrÃ­as encontrar uno, pero si alguien lo sabe ese debe ser Vic, el comerciante. Se especializa en objetos de antes de la guerra. Vive en la parte noreste de Klamath.)}
+{221}{}{Â¿Siiii, Â¿Gick Vic? (Gracias por decÃ­rmelo. Creo que tendrÃ© que ir a buscar a Vic. Pero antes, dÃ©jame hacerte otra pregunta.)}
+{222}{}{Â¿Si? Gick Vic, Â¡adiÃ³s! (Gracias; creo que irÃ© a buscarle ahora mismo. AdiÃ³s.)}
 {229}{}{Torr gusta }
-{230}{}{. Torr gracias. Hombre bicho malo, ¡no dejar hombre bicho come mu-mus! (Muchas gracias por ayudarme. Esos hombres bicho me ponen los pelos de punta. Espero que podamos evitar perder más brahmines.)}
-{231}{}{. Torr gracias. Hombre bicho malo, ¡no dejar hombre bicho come mu-mus!}
-{232}{}{Torr. (Estoy seguro de que no se llevarán a tus brahmines si los dos estamos juntos.)}
+{230}{}{. Torr gracias. Hombre bicho malo, Â¡no dejar hombre bicho come mu-mus! (Muchas gracias por ayudarme. Esos hombres bicho me ponen los pelos de punta. Espero que podamos evitar perder mÃ¡s brahmines.)}
+{231}{}{. Torr gracias. Hombre bicho malo, Â¡no dejar hombre bicho come mu-mus!}
+{232}{}{Torr. (Estoy seguro de que no se llevarÃ¡n a tus brahmines si los dos estamos juntos.)}
 {233}{}{Espero que podamos parar esos ataques a tus mu-mus. Uh, brahmines. No creo que nada se atreva a atacarlos si estamos los dos juntos.}
-{234}{}{He venido a avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amigo, me quedaré aquí vigilando tus mu-mus mientras tú vas a buscar ayuda.}
-{240}{}{¿Si? ¿Ayuda mu-mus ayuda Torr? ¡No hombre bicho! ¡Hombre bicho malo! (¿Estás aquí para ayudarme a vigilar a los brahmines del ataque de los hombres bicho?)}
-{241}{}{¿Si? ¿Ayuda mu-mus ayuda Torr? ¡No hombre bicho! ¡Hombre bicho malo!}
-{242}{}{ ayuda mu-mus ayuda Torr (Si, he venido para ayudarte a proteger a los brahmines de los hombres bicho. Estoy seguro de que no se llevarán a tus brahmines si los dos estamos juntos.)}
-{243}{}{No ayuda. (Lo siento, sólo pasaba por aquí. No he venido a ayudarte. Adiós.)}
+{234}{}{He venido a avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amigo, me quedarÃ© aquÃ­ vigilando tus mu-mus mientras tÃº vas a buscar ayuda.}
+{240}{}{Â¿Si? Â¿Ayuda mu-mus ayuda Torr? Â¡No hombre bicho! Â¡Hombre bicho malo! (Â¿EstÃ¡s aquÃ­ para ayudarme a vigilar a los brahmines del ataque de los hombres bicho?)}
+{241}{}{Â¿Si? Â¿Ayuda mu-mus ayuda Torr? Â¡No hombre bicho! Â¡Hombre bicho malo!}
+{242}{}{ ayuda mu-mus ayuda Torr (Si, he venido para ayudarte a proteger a los brahmines de los hombres bicho. Estoy seguro de que no se llevarÃ¡n a tus brahmines si los dos estamos juntos.)}
+{243}{}{No ayuda. (Lo siento, sÃ³lo pasaba por aquÃ­. No he venido a ayudarte. AdiÃ³s.)}
 {244}{}{Uh, si; he venido para ayudarte a proteger a los brahmines -es decir, los mu-mus- de los hombres bicho.}
-{245}{}{Pues he venido para avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amigo, me quedaré aquí vigilando tus mu-mus mientras tú vas a buscar ayuda.}
-{246}{}{Lo siento, Torr. Estoy muy ocupado para quedarme aquí con un montón de brahmines, tengan dos o cuatro patas.}
+{245}{}{Pues he venido para avisarte. He visto algunos hombres bicho al otro lado de esas rocas. Como amigo, me quedarÃ© aquÃ­ vigilando tus mu-mus mientras tÃº vas a buscar ayuda.}
+{246}{}{Lo siento, Torr. Estoy muy ocupado para quedarme aquÃ­ con un montÃ³n de brahmines, tengan dos o cuatro patas.}
 {249}{}{Torr quiere }
-{250}{}{. Torr quiere mamá. Torr quiere papá. (Me alegro tanto de que me hayas encontrado. Pensaba que esta vez no lo contaba.)}
-{251}{}{. Torr quiere mamá. Torr quiere papá.}
-{252}{}{Torr bien. (No ha sido nada, la verdad. Estoy seguro de que tú hubieras hecho lo mismo por mí. Déjame hacerte una pregunta.)}
-{253}{}{Torr je, je, je. (Vaya, tienes una pinta muy graciosa, atrapado por ese autómata. Ten más cuidado la próxima vez. Adiós.)}
-{254}{}{Torr, tendrás más cuidado, ¿de acuerdo? Venga, vale. Adiós, Torr.}
-{255}{}{No tienes ni idea de lo que estoy diciéndote, ¿verdad? Maldito imbécil. Casi haces que me maten. Adiós, y hasta nunca.}
+{250}{}{. Torr quiere mamÃ¡. Torr quiere papÃ¡. (Me alegro tanto de que me hayas encontrado. Pensaba que esta vez no lo contaba.)}
+{251}{}{. Torr quiere mamÃ¡. Torr quiere papÃ¡.}
+{252}{}{Torr bien. (No ha sido nada, la verdad. Estoy seguro de que tÃº hubieras hecho lo mismo por mÃ­. DÃ©jame hacerte una pregunta.)}
+{253}{}{Torr je, je, je. (Vaya, tienes una pinta muy graciosa, atrapado por ese autÃ³mata. Ten mÃ¡s cuidado la prÃ³xima vez. AdiÃ³s.)}
+{254}{}{Torr, tendrÃ¡s mÃ¡s cuidado, Â¿de acuerdo? Venga, vale. AdiÃ³s, Torr.}
+{255}{}{No tienes ni idea de lo que estoy diciÃ©ndote, Â¿verdad? Maldito imbÃ©cil. Casi haces que me maten. AdiÃ³s, y hasta nunca.}
 {260}{}{Hombres bicho malos. Torr asustado.}
-{261}{}{Torr ve hombres bicho hacen daño a mu-mus.}
-{262}{}{¡Mu-mus daño!}
-{263}{}{Hombres bicho viene cañón.}
+{261}{}{Torr ve hombres bicho hacen daÃ±o a mu-mus.}
+{262}{}{Â¡Mu-mus daÃ±o!}
+{263}{}{Hombres bicho viene caÃ±Ã³n.}
 {264}{}{Torr ve hombres bicho muere.}
 {265}{}{Je, Je, Je.}
-{266}{}{¿Leonard?}
+{266}{}{Â¿Leonard?}
 {267}{}{Duntons maloooss.}
 {268}{}{Cecina bueeena.}
 {269}{}{Torr fuerteee.}
-{270}{}{¿Vaaaaaaaaale?}
+{270}{}{Â¿Vaaaaaaaaale?}
 {271}{}{Hehehe.}
-{272}{}{¿eing?}
-{273}{}{¿Eng?}
+{272}{}{Â¿eing?}
+{273}{}{Â¿Eng?}
 {274}{}{Me meo.}
 {275}{}{Hola.}
 {276}{}{Hola.}
-{277}{}{¡Torr!}
-{279}{}{¡Torr saluda }
-{280}{}{! (Hola de nuevo, amigo. ¿Puedo serte de ayuda?)}
+{277}{}{Â¡Torr!}
+{279}{}{Â¡Torr saluda }
+{280}{}{! (Hola de nuevo, amigo. Â¿Puedo serte de ayuda?)}
 {281}{}{ saluda Torr. (Si, lo cierto es que tengo alguna pregunta que hacerte.)}
-{282}{}{Torr, adiós. (Me alegro de volverte a ver, Torr. Tan sólo pasaba por ahí. Hasta otro rato.)}
-{300}{}{¡Torr ir por ayuda! (Torr sale corriendo hacia la oscuridad, dejándote sólo con los mu-mus, eh, brahmines.)}
+{282}{}{Torr, adiÃ³s. (Me alegro de volverte a ver, Torr. Tan sÃ³lo pasaba por ahÃ­. Hasta otro rato.)}
+{300}{}{Â¡Torr ir por ayuda! (Torr sale corriendo hacia la oscuridad, dejÃ¡ndote sÃ³lo con los mu-mus, eh, brahmines.)}
 {301}{}{Bichos muertos. Mu-mus a salvo. Torr da gracias.}
-{400}{}{Tú ayuda Torr. Muu-muus allí (señala al este de aquí) ¿Ahora si? (sonríe) (Gracias por ofrecerte. Me será de gran ayuda.)}
-{401}{}{Tú ayuda Torr. Muu-muus allí (señala al este de aquí) ¿Ahora si? (sonríe)}
-{402}{}{ ayuda Torr. (Si, iré contigo a los pastos al este del centro del pueblo.)}
-{404}{}{Te ayudaré a vigilar a los brahmines, Torr.}
+{400}{}{TÃº ayuda Torr. Muu-muus allÃ­ (seÃ±ala al este de aquÃ­) Â¿Ahora si? (sonrÃ­e) (Gracias por ofrecerte. Me serÃ¡ de gran ayuda.)}
+{401}{}{TÃº ayuda Torr. Muu-muus allÃ­ (seÃ±ala al este de aquÃ­) Â¿Ahora si? (sonrÃ­e)}
+{402}{}{ ayuda Torr. (Si, irÃ© contigo a los pastos al este del centro del pueblo.)}
+{404}{}{Te ayudarÃ© a vigilar a los brahmines, Torr.}
 {405}{}{No puedo ayudarte a vigilar a los brahmines, Torr.}
 {500}{}{No pupa mu-mus.}
 {501}{}{Torr ayuda mu-mus.}
-{502}{}{¡Mujer mala, mala! ¡No pupa mu-mus!}
+{502}{}{Â¡Mujer mala, mala! Â¡No pupa mu-mus!}
 {503}{}{Vete, malo.}
-{504}{}{¡Mujer mala, mala! ¡Vete!}
-{505}{}{¡Hombres malos, malos! ¡No pupa mu-mus!}
-{506}{}{¡No pupa mu-mus de Torr!}
-{507}{}{¡Torr salvar mu-mus!}
+{504}{}{Â¡Mujer mala, mala! Â¡Vete!}
+{505}{}{Â¡Hombres malos, malos! Â¡No pupa mu-mus!}
+{506}{}{Â¡No pupa mu-mus de Torr!}
+{507}{}{Â¡Torr salvar mu-mus!}
 {600}{}{Torr, gracias. Torr ta bien. Poder irte.}
-{700}{}{¿Vende? ¿Ug Kramat? Ta en Guarida. (¿Un comerciante en Klamath? Ah, si, Vic vende antigüedades principalmente. Pero ahora mismo no se encuentra en la ciudad. Creo que podría estar comerciando en La Guarida. Está al sur de aquí.)}
-{701}{}{¡Hiii! (Muchas gracias, Torr. ¿Qué estabas diciendo acerca de esos predadores?)}
-{702}{}{¡Acias! ¡Torr! (Muchas gracias, Torr. Eres un príncipe entre los hombres. Debo marcharme pero te deseo toda la suerte del mundo con tu explotación de ganado. Adiós, amigo Torr.)}
+{700}{}{Â¿Vende? Â¿Ug Kramat? Ta en Guarida. (Â¿Un comerciante en Klamath? Ah, si, Vic vende antigÃ¼edades principalmente. Pero ahora mismo no se encuentra en la ciudad. Creo que podrÃ­a estar comerciando en La Guarida. EstÃ¡ al sur de aquÃ­.)}
+{701}{}{Â¡Hiii! (Muchas gracias, Torr. Â¿QuÃ© estabas diciendo acerca de esos predadores?)}
+{702}{}{Â¡Acias! Â¡Torr! (Muchas gracias, Torr. Eres un prÃ­ncipe entre los hombres. Debo marcharme pero te deseo toda la suerte del mundo con tu explotaciÃ³n de ganado. AdiÃ³s, amigo Torr.)}
 {800}{}{Has rescatado a Torr.}

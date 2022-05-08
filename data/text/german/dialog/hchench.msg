@@ -1,53 +1,53 @@
-{100}{}{Du siehst eine Person die eine mächtige Waffe führt.}
-{101}{}{Du siehst ein Mitglied des Broken Hills Handels– und Sicherheitskorps.}
-{102}{}{Du siehst eine Person die eine mächtige Waffe führt und vom Schmutz der Reise bedeckt ist.}
-{103}{}{Ich sags dir, noch ne Gruppe Wegelagerer und ich nehm für die nächste Reise Dynamit mit.}
-{104}{}{'türlich können wir bei den Karawanen etwas mehr Hilfe gebrauchen.}
+{100}{}{Du siehst eine Person die eine mÃ¤chtige Waffe fÃ¼hrt.}
+{101}{}{Du siehst ein Mitglied des Broken Hills Handelsâ€“ und Sicherheitskorps.}
+{102}{}{Du siehst eine Person die eine mÃ¤chtige Waffe fÃ¼hrt und vom Schmutz der Reise bedeckt ist.}
+{103}{}{Ich sags dir, noch ne Gruppe Wegelagerer und ich nehm fÃ¼r die nÃ¤chste Reise Dynamit mit.}
+{104}{}{'tÃ¼rlich kÃ¶nnen wir bei den Karawanen etwas mehr Hilfe gebrauchen.}
 {105}{}{Mann... die Arbeit bei der Einheits-Patrouille macht einen echt alt.}
-{106}{}{Dann sah ich diesen Sippling kommen und... Öh, vergesst es.}
+{106}{}{Dann sah ich diesen Sippling kommen und... Ã–h, vergesst es.}
 {107}{}{Noch mal so ne "Regenbogenpatrouille" und ich knall einen ab.}
-{108}{}{Ich schwör dir, wenn diese Banditen noch etwas schlimmer werden, werden wir alle im nächsten Jahr sterben.}
+{108}{}{Ich schwÃ¶r dir, wenn diese Banditen noch etwas schlimmer werden, werden wir alle im nÃ¤chsten Jahr sterben.}
 {109}{}{Aus welchem Rattennest kommst du her?}
 {110}{}{Willste nem arbeitendem Menschen nen Drink ausgeben?}
-{111}{}{Ich bin von der Karawane zu müde um mit dir zu Reden.}
-{112}{}{Wenn du was brauchst, rede mit Bill, dem Händler.}
-{113}{}{Man sollte nach all dieser Zeit, in der versucht wurde das Ödland zu zivilisieren, meinen, wir wären einen Schritt weiter.}
+{111}{}{Ich bin von der Karawane zu mÃ¼de um mit dir zu Reden.}
+{112}{}{Wenn du was brauchst, rede mit Bill, dem HÃ¤ndler.}
+{113}{}{Man sollte nach all dieser Zeit, in der versucht wurde das Ã–dland zu zivilisieren, meinen, wir wÃ¤ren einen Schritt weiter.}
 {114}{}{Ich bin diese Mensch/Mutanten-Streitereien satt. Sollen wir nicht ein Vorbild darstellen?}
 {115}{}{Was willste? Siehst du nicht dass ich mich ausruhe??}
-{116}{}{Wann fährt die nächste Karawane los?}
+{116}{}{Wann fÃ¤hrt die nÃ¤chste Karawane los?}
 {117}{}{Patrouille, Patrouille, Patrouille... Was anderes mach ich hier nicht.}
 {118}{}{Ich glaub ich brauch ne Pause.}
-{119}{}{Ich verdiene eine Gehaltserhöhung. Der Job ist gefährlich.}
+{119}{}{Ich verdiene eine GehaltserhÃ¶hung. Der Job ist gefÃ¤hrlich.}
 {200}{}{Dir helfen?}
 {201}{}{Ja, ich will zum Karawanenmeister.}
-{202}{}{Kann ich Dir vielleicht ein paar Fragen über Chad stellen?}
+{202}{}{Kann ich Dir vielleicht ein paar Fragen Ã¼ber Chad stellen?}
 {203}{}{Wer bist du?}
 {204}{}{Nein, danke.}
-{205}{}{In diesem Fall möchtest du wohl mit Bill, dem Händler aus Broken Hills reden. Er ist in dem Gebäude da drüben.}
+{205}{}{In diesem Fall mÃ¶chtest du wohl mit Bill, dem HÃ¤ndler aus Broken Hills reden. Er ist in dem GebÃ¤ude da drÃ¼ben.}
 {206}{}{Ich hab noch einige Fragen.}
-{207}{}{Danke. Tschüss.}
+{207}{}{Danke. TschÃ¼ss.}
 {208}{}{Du hast Fragen, und ich hab vielleicht Antworten dazu. Was willste wissen?}
 {209}{}{Wie ist er so?}
 {210}{}{Kann man ihm trauen?}
 {211}{}{Wo hat er sein Geld her?}
 {212}{}{Kennst du seine Vergangenheit?}
-{213}{}{Vergiss es. Bis später.}
+{213}{}{Vergiss es. Bis spÃ¤ter.}
 {214}{}{Ich? Ich bin }
-{215}{}{. Ich bin Wächter bei Bills Karawanen. Sonst noch was?}
+{215}{}{. Ich bin WÃ¤chter bei Bills Karawanen. Sonst noch was?}
 {216}{}{Wie er ist? Tja, freundlich eigentlich, aber ein bisschen barsch. Er ist ein guter Chef
  und im allgemeinen sehr fair zu uns. Er behandelt uns nicht schlecht, falls du das meinst. Noch
  Fragen?}
-{217}{}{Hmm, er ist natürlich ein bisschen undurchsichtig...aber das sind ja viele Leute
+{217}{}{Hmm, er ist natÃ¼rlich ein bisschen undurchsichtig...aber das sind ja viele Leute
  heutzutage. Noch Fragen?}
-{218}{}{Ich dachte immer, dass er das mitgebracht hat. Er hat ganz schön viel davon. Sowas fragt
+{218}{}{Ich dachte immer, dass er das mitgebracht hat. Er hat ganz schÃ¶n viel davon. Sowas fragt
  man jemanden ja eigentlich nicht, oder? Noch Fragen?}
-{219}{}{Seine Vergangenheit kenne ich nicht. Fast alle bei den Karawanenwächtern sind nicht
- seßhaft und einfach wegen des Jobs hier. Ich kann mir denken, dass er woanders schnell abhauen
+{219}{}{Seine Vergangenheit kenne ich nicht. Fast alle bei den KarawanenwÃ¤chtern sind nicht
+ seÃŸhaft und einfach wegen des Jobs hier. Ich kann mir denken, dass er woanders schnell abhauen
  musste. Noch Fragen?}
 {220}{}{Ja.}
 {221}{}{Nein.}
 {222}{}{Alles klar. Bis dann also.}
-{223}{}{Tschüss.}
+{223}{}{TschÃ¼ss.}
 {300}{}{Hatch}
 {301}{}{Stark}
 {302}{}{Darin}
@@ -77,5 +77,5 @@
 {412}{}{Julie}
 {413}{}{Marina}
 {450}{}{Du siehst }
-{451}{}{, der Karawanenwächter.}
-{2050}{}{In diesem Fall möchtest du wohl mit Bill, dem Händler aus Broken Hills reden. Er ist derjenige der einen Hut auf hat, gleich dort drüben.}
+{451}{}{, der KarawanenwÃ¤chter.}
+{2050}{}{In diesem Fall mÃ¶chtest du wohl mit Bill, dem HÃ¤ndler aus Broken Hills reden. Er ist derjenige der einen Hut auf hat, gleich dort drÃ¼ben.}

@@ -1,7 +1,7 @@
 {100}{}{Ich hab mein Auto genau hier abgestellt!}
-{101}{}{Ich schwöre, ich habe genau hier geparkt!}
-{150}{}{Als du näher an die Stelle herankommst, bemerkst du schwache Schleifspuren, die Richtung Norden führen.}
-{151}{}{Du siehst Schleifspuren, die Richtung Norden führen.}
+{101}{}{Ich schwÃ¶re, ich habe genau hier geparkt!}
+{150}{}{Als du nÃ¤her an die Stelle herankommst, bemerkst du schwache Schleifspuren, die Richtung Norden fÃ¼hren.}
+{151}{}{Du siehst Schleifspuren, die Richtung Norden fÃ¼hren.}
 {152}{}{Du siehst Autospuren!}
 {153}{}{(Folg den Spuren!)}
 {154}{}{(Folg den Spuren nicht.)}

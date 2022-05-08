@@ -1,13 +1,13 @@
-{100}{}{Ein hübsches kleines Farmerdorf, umgeben von riesigen Feldern, auf denen die Ernte verrottet.}
-{500}{}{Sieht so aus, als hätt ich sie alle erwischt.}
+{100}{}{Ein hÃ¼bsches kleines Farmerdorf, umgeben von riesigen Feldern, auf denen die Ernte verrottet.}
+{500}{}{Sieht so aus, als hÃ¤tt ich sie alle erwischt.}
 {501}{}{Alle Fieslinge sind tot.}
-{502}{}{Du hast Farrels Garten geräumt.}
+{502}{}{Du hast Farrels Garten gerÃ¤umt.}
 {600}{}{Du siehst einen Geldbeutel.}
-{601}{}{Du siehst einen Geldbeutel. Wahrscheinlich hat ihn jemand in den Brunnen geworfen und sich dabei etwas gewünscht.}
-{610}{}{Das ist MEIN Traum und MEIN Wunsch, und ich nehm sie zurück. Ich nehm alles zurück.}
+{601}{}{Du siehst einen Geldbeutel. Wahrscheinlich hat ihn jemand in den Brunnen geworfen und sich dabei etwas gewÃ¼nscht.}
+{610}{}{Das ist MEIN Traum und MEIN Wunsch, und ich nehm sie zurÃ¼ck. Ich nehm alles zurÃ¼ck.}
 {1000}{}{Mach sie alle hin!}
 {1001}{}{Tod den Schlacken!}
-{1002}{}{Ich will sie winseln hören!}
+{1002}{}{Ich will sie winseln hÃ¶ren!}
 {1003}{}{Los, schnappen wir sie uns!}
-{1100}{}{Du fällst ca. 5 Meter tief in eine schwach beleuchtete Höhle. Verschiedene landwirtschaftliche Gegenstände sind ordentlich gegen die hintere Wand gelehnt.}
+{1100}{}{Du fÃ¤llst ca. 5 Meter tief in eine schwach beleuchtete HÃ¶hle. Verschiedene landwirtschaftliche GegenstÃ¤nde sind ordentlich gegen die hintere Wand gelehnt.}
 {1200}{}{Du schaffst es gerade noch, aus dem Loch herauszukommen, bevor hinter dir die Explosion losgeht und dich in die Luft schleudert.}

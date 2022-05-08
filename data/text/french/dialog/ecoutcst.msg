@@ -3,5 +3,5 @@
 {102}{}{N'attaque pas !}
 {103}{}{Saloperie !}
 {104}{}{Laisse-nous tranquilles !}
-{105}{}{Dégueulasse !}
+{105}{}{DÃ©gueulasse !}
 {106}{}{Allez-vous-en !}

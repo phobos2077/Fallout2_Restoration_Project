@@ -1,32 +1,32 @@
-{100}{}{Widzisz krêpego, ³ysego mê¿czyznê, wycieraj¹cego szklankê.}
+{100}{}{Widzisz krÄ™pego, Å‚ysego mÄ™Å¼czyznÄ™, wycierajÄ…cego szklankÄ™.}
 {101}{}{To barman.}
-{102}{}{Mê¿czyzna wygl¹da na niez³ego osi³ka. Jego nos ma œlady z³amañ a uszy s¹ postrzêpione. Mo¿e by³ kiedyœ bokserem?}
-{103}{}{Czy mogê s³u¿yæ?}
-{104}{}{Hej, to dziêki tobie Jack siê podda³, prawda? Kawa³ dobrej roboty. Czym mogê s³u¿yæ?}
+{102}{}{MÄ™Å¼czyzna wyglÄ…da na niezÅ‚ego osiÅ‚ka. Jego nos ma Å›lady zÅ‚amaÅ„ a uszy sÄ… postrzÄ™pione. MoÅ¼e byÅ‚ kiedyÅ› bokserem?}
+{103}{}{Czy mogÄ™ sÅ‚uÅ¼yÄ‡?}
+{104}{}{Hej, to dziÄ™ki tobie Jack siÄ™ poddaÅ‚, prawda? KawaÅ‚ dobrej roboty. Czym mogÄ™ sÅ‚uÅ¼yÄ‡?}
 {105}{}{Jasne.}
-{106}{}{Poproszê coœ do picia.}
-{107}{}{Kim jest tamten wielki goœæ?}
-{108}{}{Co s³ychaæ w mieœcie?}
-{109}{}{¯egnaj.}
-{110}{}{To Hoss, syn Prezydent Tandi. Po paru g³êbszych robi siê nie do wytrzymania, wiêc lepiej siê do niego nie zbli¿aæ.}
-{111}{}{To by³ Hoss, syn Prezydent Tandi. Nareszcie ktoœ mu porz¹dnie zm³óci³ ty³ek!}
+{106}{}{PoproszÄ™ coÅ› do picia.}
+{107}{}{Kim jest tamten wielki goÅ›Ä‡?}
+{108}{}{Co sÅ‚ychaÄ‡ w mieÅ›cie?}
+{109}{}{Å»egnaj.}
+{110}{}{To Hoss, syn Prezydent Tandi. Po paru gÅ‚Ä™bszych robi siÄ™ nie do wytrzymania, wiÄ™c lepiej siÄ™ do niego nie zbliÅ¼aÄ‡.}
+{111}{}{To byÅ‚ Hoss, syn Prezydent Tandi. Nareszcie ktoÅ› mu porzÄ…dnie zmÅ‚Ã³ciÅ‚ tyÅ‚ek!}
 {112}{}{Prezydent Tandi?}
-{113}{}{Twardziel, co? Dziêki.}
-{114}{}{Niewiele. Jeœli szukasz k³opotów, to lepiej od razu zmieñ lokal. Po pracê mo¿esz siê zg³osiæ u Westina, w zachodniej czêœci miasta. Podobno Prezydent Tandi te¿ szuka jakiegoœ specjalisty.}
+{113}{}{Twardziel, co? DziÄ™ki.}
+{114}{}{Niewiele. JeÅ›li szukasz kÅ‚opotÃ³w, to lepiej od razu zmieÅ„ lokal. Po pracÄ™ moÅ¼esz siÄ™ zgÅ‚osiÄ‡ u Westina, w zachodniej czÄ™Å›ci miasta. Podobno Prezydent Tandi teÅ¼ szuka jakiegoÅ› specjalisty.}
 {115}{}{Specjalisty?}
 {116}{}{Prezydent Tandi?}
-{117}{}{Dziêkujê.}
-{118}{}{Córka prezydenta Aradesha, za³o¿yciela RNK. Rz¹dzi tutaj od paru ³adnych lat, i - trzeba przyznaæ - ca³kiem nieŸle sobie radzi.}
+{117}{}{DziÄ™kujÄ™.}
+{118}{}{CÃ³rka prezydenta Aradesha, zaÅ‚oÅ¼yciela RNK. RzÄ…dzi tutaj od paru Å‚adnych lat, i - trzeba przyznaÄ‡ - caÅ‚kiem nieÅºle sobie radzi.}
 {119}{}{I szuka specjalisty? Jakiego rodzaju?}
 {120}{}{Co to za olbrzym, o tam?}
-{121}{}{Dziêkujê.}
-{122}{}{Nie wiem. Gunther, jej asystent, pewnie wie wiêcej. Powinien siê gdzieœ krêciæ w gmachu Kongresu.}
+{121}{}{DziÄ™kujÄ™.}
+{122}{}{Nie wiem. Gunther, jej asystent, pewnie wie wiÄ™cej. Powinien siÄ™ gdzieÅ› krÄ™ciÄ‡ w gmachu Kongresu.}
 {123}{}{Co to za olbrzym, o tam?}
-{124}{}{Dziêkujê.}
-{125}{}{Napijesz siê czegoœ?}
+{124}{}{DziÄ™kujÄ™.}
+{125}{}{Napijesz siÄ™ czegoÅ›?}
 {126}{}{Jasne.}
 {127}{}{Nie.}
-{128}{}{Mogê ci postawiæ drinka?! Od dawna mia³em ochotê mu tak przy³o¿yæ!}
-{129}{}{Mam kilka pytañ.}
-{130}{}{Dobrze! Czeœæ.}
-{131}{}{Ch³opie, aleœ skopa³ ty³ek Hossowi! Co mogê dla ciebie zrobiæ?}
+{128}{}{MogÄ™ ci postawiÄ‡ drinka?! Od dawna miaÅ‚em ochotÄ™ mu tak przyÅ‚oÅ¼yÄ‡!}
+{129}{}{Mam kilka pytaÅ„.}
+{130}{}{Dobrze! CzeÅ›Ä‡.}
+{131}{}{ChÅ‚opie, aleÅ› skopaÅ‚ tyÅ‚ek Hossowi! Co mogÄ™ dla ciebie zrobiÄ‡?}

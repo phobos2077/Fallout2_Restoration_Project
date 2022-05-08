@@ -1,103 +1,103 @@
-{100}{}{Widzisz krzepk¹, pokryt¹ py³em, kobietê w œrednim wieku.}
-{101}{}{Widzisz Marge LeBarge, w³aœcicielkê kopalni Kokoweef.}
-{102}{}{Widzisz siln¹ kobietê, od której a¿ emanuje w³adza.}
-{103}{}{Przykro mi, ale nie mam czasu na pierdo³y.}
-{104}{}{Wróæ, gdy wyleczysz sobie tê ranê we ³bie.}
-{105}{}{To zdumiewaj¹ce, ¿e potrafisz jednoczeœnie chodziæ i gadaæ.}
-{106}{}{Wygl¹da na to, ¿e twoja górnicza maszyna nie dzia³a prawid³owo.}
-{107}{}{Jesteœcie tylko paroma klaunami bez cyrku, prawda?}
-{108}{}{W³aœciwie w chwili obecnej nie za bardzo ciê lubiê.}
-{109}{}{Hej, dziêki za modu³ do koparki. Z t¹ chwil¹ nasta³y w³aœnie lepsze dni dla kopalni Kokoweef.}
-{110}{}{Dam ci $1000 za modu³ do koparki.}
-{111}{}{Czy mo¿e uda³o ci siê zdobyæ modu³ do koparki?}
-{112}{}{W³aœnie, có¿, przepraszam. Lecz nie mo¿esz prosiæ wszystkich o to samo jednoczeœnie.}
-{113}{}{Zawsze fajnie dostaæ dobrze p³atn¹ robotê. Pozwól, ¿e spytam o coœ jeszcze.}
-{114}{}{Sk¹d wiesz, ¿e akurat mam modu³ do koparki?}
+{100}{}{Widzisz krzepkÄ…, pokrytÄ… pyÅ‚em, kobietÄ™ w Å›rednim wieku.}
+{101}{}{Widzisz Marge LeBarge, wÅ‚aÅ›cicielkÄ™ kopalni Kokoweef.}
+{102}{}{Widzisz silnÄ… kobietÄ™, od ktÃ³rej aÅ¼ emanuje wÅ‚adza.}
+{103}{}{Przykro mi, ale nie mam czasu na pierdoÅ‚y.}
+{104}{}{WrÃ³Ä‡, gdy wyleczysz sobie tÄ™ ranÄ™ we Å‚bie.}
+{105}{}{To zdumiewajÄ…ce, Å¼e potrafisz jednoczeÅ›nie chodziÄ‡ i gadaÄ‡.}
+{106}{}{WyglÄ…da na to, Å¼e twoja gÃ³rnicza maszyna nie dziaÅ‚a prawidÅ‚owo.}
+{107}{}{JesteÅ›cie tylko paroma klaunami bez cyrku, prawda?}
+{108}{}{WÅ‚aÅ›ciwie w chwili obecnej nie za bardzo ciÄ™ lubiÄ™.}
+{109}{}{Hej, dziÄ™ki za moduÅ‚ do koparki. Z tÄ… chwilÄ… nastaÅ‚y wÅ‚aÅ›nie lepsze dni dla kopalni Kokoweef.}
+{110}{}{Dam ci $1000 za moduÅ‚ do koparki.}
+{111}{}{Czy moÅ¼e udaÅ‚o ci siÄ™ zdobyÄ‡ moduÅ‚ do koparki?}
+{112}{}{WÅ‚aÅ›nie, cÃ³Å¼, przepraszam. Lecz nie moÅ¼esz prosiÄ‡ wszystkich o to samo jednoczeÅ›nie.}
+{113}{}{Zawsze fajnie dostaÄ‡ dobrze pÅ‚atnÄ… robotÄ™. PozwÃ³l, Å¼e spytam o coÅ› jeszcze.}
+{114}{}{SkÄ…d wiesz, Å¼e akurat mam moduÅ‚ do koparki?}
 {115}{}{Ile jest on dla ciebie wart?}
-{116}{}{Jeœli zdobêdê, bêdziesz pierwsz¹ osob¹, która siê o tym dowie.}
-{117}{}{Myœlê, ¿e ju¿ bêdê siê zrywaæ. Na razie.}
-{118}{}{Hej, dziêki za urwanie tej zadymy. Czasami moi górnicy trochê przegn¹, ale tak w³aœciwie to s¹ w porz¹dku, dopóki nie przedobrz¹ z Jetem.}
-{119}{}{Dziêki za wsadzenie tych zadymiarzy z Morningstar za kratki. Oto gdzie jest ich miejsce. W czym mogê ci pomóc?}
-{120}{}{Nie mogê uwierzyæ, ¿e mo¿esz wsadziæ któregoœ z moich górników. Jestem pewna, ¿e to któryœ z tych dupków z Morningstar zacz¹³ bójkê. A teraz, czego jeszcze chcesz?}
-{121}{}{Wierzê, ¿e nie wsadzisz moich górników ot tak. Jedynie udupienie tych chuliganów z Morningstar mo¿e zaprowadziæ pokój w osadzie. Czego jeszcze chcesz?}
-{122}{}{Na pewno wiesz jak rozpieprzyæ dziecko toporem, prawda? Nikt nie chce umieraæ w zwyk³ej rozróbie w knajpie. Czego ty kurwa w³aœciwie ode mnie chcesz?}
-{123}{}{Kim jesteœ?}
-{124}{}{Chcê ciebie o coœ zapytaæ.}
-{125}{}{Przechodzi³em tylko w pobli¿u. I myœlê, ¿e pójdê dalej. Bywaj.}
-{126}{}{Hejka. Jestem Marge LeBarge. Prowadzê tê kopalniê.}
-{127}{}{Co Marge mo¿e dla ciebie zrobiæ?}
+{116}{}{JeÅ›li zdobÄ™dÄ™, bÄ™dziesz pierwszÄ… osobÄ…, ktÃ³ra siÄ™ o tym dowie.}
+{117}{}{MyÅ›lÄ™, Å¼e juÅ¼ bÄ™dÄ™ siÄ™ zrywaÄ‡. Na razie.}
+{118}{}{Hej, dziÄ™ki za urwanie tej zadymy. Czasami moi gÃ³rnicy trochÄ™ przegnÄ…, ale tak wÅ‚aÅ›ciwie to sÄ… w porzÄ…dku, dopÃ³ki nie przedobrzÄ… z Jetem.}
+{119}{}{DziÄ™ki za wsadzenie tych zadymiarzy z Morningstar za kratki. Oto gdzie jest ich miejsce. W czym mogÄ™ ci pomÃ³c?}
+{120}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e moÅ¼esz wsadziÄ‡ ktÃ³regoÅ› z moich gÃ³rnikÃ³w. Jestem pewna, Å¼e to ktÃ³ryÅ› z tych dupkÃ³w z Morningstar zaczÄ…Å‚ bÃ³jkÄ™. A teraz, czego jeszcze chcesz?}
+{121}{}{WierzÄ™, Å¼e nie wsadzisz moich gÃ³rnikÃ³w ot tak. Jedynie udupienie tych chuliganÃ³w z Morningstar moÅ¼e zaprowadziÄ‡ pokÃ³j w osadzie. Czego jeszcze chcesz?}
+{122}{}{Na pewno wiesz jak rozpieprzyÄ‡ dziecko toporem, prawda? Nikt nie chce umieraÄ‡ w zwykÅ‚ej rozrÃ³bie w knajpie. Czego ty kurwa wÅ‚aÅ›ciwie ode mnie chcesz?}
+{123}{}{Kim jesteÅ›?}
+{124}{}{ChcÄ™ ciebie o coÅ› zapytaÄ‡.}
+{125}{}{PrzechodziÅ‚em tylko w pobliÅ¼u. I myÅ›lÄ™, Å¼e pÃ³jdÄ™ dalej. Bywaj.}
+{126}{}{Hejka. Jestem Marge LeBarge. ProwadzÄ™ tÄ™ kopalniÄ™.}
+{127}{}{Co Marge moÅ¼e dla ciebie zrobiÄ‡?}
 {128}{}{Co tu wydobywacie?}
-{129}{}{Czy s³ysza³eœ kiedyœ o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
-{130}{}{Czy jesteœ rdzenn¹ mieszkank¹ Redding?}
-{131}{}{Czy wiesz coœ mo¿e o jakiejœ robocie albo czymkolwiek, co siê tutaj dzieje?}
-{132}{}{Ja tylko rozgl¹dam siê odrobinkê. Na razie.}
-{133}{}{Oczywiœcie z³oto. Wydobywamy je tu, w kopalni Kokoweef, i wysy³amy do Kryptopolis, Nowego Reno, oraz do Republiki Nowej Kalifornii.}
-{134}{}{Wysy³acie je do wszystkich tych miejsc?}
-{135}{}{Dlaczego nazwa³aœ swoj¹ kopalniê Kokoweef?}
-{136}{}{Pozwól, ¿e zapytam o coœ innego.}
-{137}{}{Aha. Dziêki. To wszystko, czego potrzebujê. Na razie.}
-{138}{}{Oczywiœcie. Ka¿dy lubi z³oto. Spróbuj zagadaæ do prowadz¹cego karawany, niejakiego Jamesa Hoffy, jeœli naprawdê zale¿y ci na tym.}
-{139}{}{Pozwól, ¿e zapytam o coœ innego.}
-{140}{}{Dziêki, tak zrobiê. Na razie.}
-{141}{}{Eee... Generator Ekosystemu Cudownej Krainy? Brzmi bardzo imponuj¹co. Jeœli mia³abym coœ takiego, na pewno nie grzeba³abym teraz w ziemi a¿ do usranej œmierci. A teraz, czy mo¿esz ...?}
-{142}{}{Myœlê, ¿e nie. Pozwól, ¿e spytam o coœ innego.}
-{143}{}{Ja tak tylko z ciekawoœci pytam. Na razie.}
-{144}{}{W ¿adnym razie. Jestem z pó³nocy. Tu¿ przy krawêdzi jeziora LeBarge.}
-{145}{}{Nic mi o tym nie wiadomo. Pozwól, ¿e spytam o coœ innego.}
-{146}{}{Brzmi nieŸle. Mo¿e pójdê tam trochê "zapolowaæ". A jak na razie, bywaj.}
-{147}{}{Jedynie parê plotek.}
-{148}{}{Có¿, zawsze s¹ jakieœ plotki... ale, jest coœ co mog³oby byæ zrobione.}
-{149}{}{Wrócimy jeszcze do tego. Ale pozwól, ¿e zapytam jeszcze o coœ innego.}
-{150}{}{ZdradŸ mi parê plotek.}
+{129}{}{Czy sÅ‚yszaÅ‚eÅ› kiedyÅ› o czymÅ›, co nazywa siÄ™ Generator Ekosystemu Cudownej Krainy?}
+{130}{}{Czy jesteÅ› rdzennÄ… mieszkankÄ… Redding?}
+{131}{}{Czy wiesz coÅ› moÅ¼e o jakiejÅ› robocie albo czymkolwiek, co siÄ™ tutaj dzieje?}
+{132}{}{Ja tylko rozglÄ…dam siÄ™ odrobinkÄ™. Na razie.}
+{133}{}{OczywiÅ›cie zÅ‚oto. Wydobywamy je tu, w kopalni Kokoweef, i wysyÅ‚amy do Kryptopolis, Nowego Reno, oraz do Republiki Nowej Kalifornii.}
+{134}{}{WysyÅ‚acie je do wszystkich tych miejsc?}
+{135}{}{Dlaczego nazwaÅ‚aÅ› swojÄ… kopalniÄ™ Kokoweef?}
+{136}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{137}{}{Aha. DziÄ™ki. To wszystko, czego potrzebujÄ™. Na razie.}
+{138}{}{OczywiÅ›cie. KaÅ¼dy lubi zÅ‚oto. SprÃ³buj zagadaÄ‡ do prowadzÄ…cego karawany, niejakiego Jamesa Hoffy, jeÅ›li naprawdÄ™ zaleÅ¼y ci na tym.}
+{139}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{140}{}{DziÄ™ki, tak zrobiÄ™. Na razie.}
+{141}{}{Eee... Generator Ekosystemu Cudownej Krainy? Brzmi bardzo imponujÄ…co. JeÅ›li miaÅ‚abym coÅ› takiego, na pewno nie grzebaÅ‚abym teraz w ziemi aÅ¼ do usranej Å›mierci. A teraz, czy moÅ¼esz ...?}
+{142}{}{MyÅ›lÄ™, Å¼e nie. PozwÃ³l, Å¼e spytam o coÅ› innego.}
+{143}{}{Ja tak tylko z ciekawoÅ›ci pytam. Na razie.}
+{144}{}{W Å¼adnym razie. Jestem z pÃ³Å‚nocy. TuÅ¼ przy krawÄ™dzi jeziora LeBarge.}
+{145}{}{Nic mi o tym nie wiadomo. PozwÃ³l, Å¼e spytam o coÅ› innego.}
+{146}{}{Brzmi nieÅºle. MoÅ¼e pÃ³jdÄ™ tam trochÄ™ "zapolowaÄ‡". A jak na razie, bywaj.}
+{147}{}{Jedynie parÄ™ plotek.}
+{148}{}{CÃ³Å¼, zawsze sÄ… jakieÅ› plotki... ale, jest coÅ› co mogÅ‚oby byÄ‡ zrobione.}
+{149}{}{WrÃ³cimy jeszcze do tego. Ale pozwÃ³l, Å¼e zapytam jeszcze o coÅ› innego.}
+{150}{}{ZdradÅº mi parÄ™ plotek.}
 {151}{}{Co to takiego?}
-{152}{}{Za³o¿ê siê, ¿e tak. Przykro mi, ale nie mam ju¿ wiêcej czasu dla ciebie. Do widzenia.}
-{153}{}{Mam wspania³¹ star¹ koparkê w mojej kopalni na dole. Problem le¿y w tym, ¿e modu³ kontrolny do niej jest uszkodzony. Potrzebujê nowego, by kontynuowaæ pracê.}
-{154}{}{To interesuj¹ce, ale co mi do tego?}
-{155}{}{W Wielkiej Kopalni Wanamingo tu¿ na wschód od osady powinna znajdowaæ siê jedna z tych maszyn wiertniczych. Pewnie ju¿ o niej zapomnieli, a ja podejrzewam, ¿e bêdzie tam sprawny procesor kontrolny.}
-{156}{}{Brzmi ca³kiem ³atwo. Dlaczego nikt do tej pory tego nie zrobi³?}
-{157}{}{To nie jest znowu takie proste. Widzisz, Wielka Kopalnia Wanamingo jest nawiedzona. Ludzie stamt¹d nie wracaj¹. To by³o najwa¿niejszym powodem jej zamkniêcia. Kiedyœ by³a najwiêksz¹ kopalni¹ w mieœcie. Teraz ju¿ nie, w ka¿dym razie.}
-{158}{}{Chcesz wiêc, ¿eby wydobyæ ten procesor z koparki. Jak wiele to dla ciebie znaczy?}
-{159}{}{Dam ci $1000 za modu³. McGrew z kopalni Morningstar prawdopodobnie da ci tyle samo, ale on pracuje dla tych przeklêtych dupków z Nowego Reno. Nie mogê znieœæ tych okrutnych drani, wiêc pozwól, ¿e ja ci zap³acê, dobra?}
-{160}{}{Zobaczymy. Jeszcze jedno, tak sobie myœlê... to niez³y kawa³ szmalu. Ta kopalnia musi byæ naprawdê niebezpieczna.}
-{161}{}{Có¿, nie jest to bu³ka z mas³em. Ale wygl¹dasz mi na kogoœ, kto móg³by siê tym zaj¹æ. Podsumowuj¹c, ty przynosisz mi modu³, a ja dajê ci kasê. Mo¿e byæ?}
-{162}{}{Ta. Mo¿e byæ. Piszê siê na to.}
-{163}{}{Có¿, zobaczymy. Na razie spadam.}
-{164}{}{Œwietnie. Im szybciej przyniesiesz modu³ do koparki, tym lepiej.}
-{165}{}{Zobacze, co da siê zrobiæ. Najpierw jednak pozwól, ¿e spytam o coœ innego.}
-{166}{}{Dobra. Zobaczymy siê póŸniej. Na razie.}
-{167}{}{Có¿, zawsze s¹ jakieœ plotki na temat Redding, albo o Wanamingos wychodz¹cych z cmentarza noc¹. Ktoœ nawet wspomina³ coœ o jakiejœ lataj¹cej maszynie, przelatuj¹cej têdy parê miesiêcy temu.}
-{168}{}{Co ciê jeszcze intreresuje?}
+{152}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e tak. Przykro mi, ale nie mam juÅ¼ wiÄ™cej czasu dla ciebie. Do widzenia.}
+{153}{}{Mam wspaniaÅ‚Ä… starÄ… koparkÄ™ w mojej kopalni na dole. Problem leÅ¼y w tym, Å¼e moduÅ‚ kontrolny do niej jest uszkodzony. PotrzebujÄ™ nowego, by kontynuowaÄ‡ pracÄ™.}
+{154}{}{To interesujÄ…ce, ale co mi do tego?}
+{155}{}{W Wielkiej Kopalni Wanamingo tuÅ¼ na wschÃ³d od osady powinna znajdowaÄ‡ siÄ™ jedna z tych maszyn wiertniczych. Pewnie juÅ¼ o niej zapomnieli, a ja podejrzewam, Å¼e bÄ™dzie tam sprawny procesor kontrolny.}
+{156}{}{Brzmi caÅ‚kiem Å‚atwo. Dlaczego nikt do tej pory tego nie zrobiÅ‚?}
+{157}{}{To nie jest znowu takie proste. Widzisz, Wielka Kopalnia Wanamingo jest nawiedzona. Ludzie stamtÄ…d nie wracajÄ…. To byÅ‚o najwaÅ¼niejszym powodem jej zamkniÄ™cia. KiedyÅ› byÅ‚a najwiÄ™kszÄ… kopalniÄ… w mieÅ›cie. Teraz juÅ¼ nie, w kaÅ¼dym razie.}
+{158}{}{Chcesz wiÄ™c, Å¼eby wydobyÄ‡ ten procesor z koparki. Jak wiele to dla ciebie znaczy?}
+{159}{}{Dam ci $1000 za moduÅ‚. McGrew z kopalni Morningstar prawdopodobnie da ci tyle samo, ale on pracuje dla tych przeklÄ™tych dupkÃ³w z Nowego Reno. Nie mogÄ™ znieÅ›Ä‡ tych okrutnych drani, wiÄ™c pozwÃ³l, Å¼e ja ci zapÅ‚acÄ™, dobra?}
+{160}{}{Zobaczymy. Jeszcze jedno, tak sobie myÅ›lÄ™... to niezÅ‚y kawaÅ‚ szmalu. Ta kopalnia musi byÄ‡ naprawdÄ™ niebezpieczna.}
+{161}{}{CÃ³Å¼, nie jest to buÅ‚ka z masÅ‚em. Ale wyglÄ…dasz mi na kogoÅ›, kto mÃ³gÅ‚by siÄ™ tym zajÄ…Ä‡. PodsumowujÄ…c, ty przynosisz mi moduÅ‚, a ja dajÄ™ ci kasÄ™. MoÅ¼e byÄ‡?}
+{162}{}{Ta. MoÅ¼e byÄ‡. PiszÄ™ siÄ™ na to.}
+{163}{}{CÃ³Å¼, zobaczymy. Na razie spadam.}
+{164}{}{Åšwietnie. Im szybciej przyniesiesz moduÅ‚ do koparki, tym lepiej.}
+{165}{}{Zobacze, co da siÄ™ zrobiÄ‡. Najpierw jednak pozwÃ³l, Å¼e spytam o coÅ› innego.}
+{166}{}{Dobra. Zobaczymy siÄ™ pÃ³Åºniej. Na razie.}
+{167}{}{CÃ³Å¼, zawsze sÄ… jakieÅ› plotki na temat Redding, albo o Wanamingos wychodzÄ…cych z cmentarza nocÄ…. KtoÅ› nawet wspominaÅ‚ coÅ› o jakiejÅ› latajÄ…cej maszynie, przelatujÄ…cej tÄ™dy parÄ™ miesiÄ™cy temu.}
+{168}{}{Co ciÄ™ jeszcze intreresuje?}
 {169}{}{Co to za plotki?}
 {170}{}{Co to takiego Wanamingo?}
-{171}{}{Lataj¹ca maszyna?}
-{172}{}{Myœlê, ¿e ludzie gadaj¹ o niektórych sprawach wszêdzie to samo. Powiedz mi coœ innego.}
-{173}{}{Mi³o siê s³ucha ale, muszê lecieæ. Na razie.}
-{174}{}{Có¿, ludzie zazwyczaj mówi¹ ¿e, Kryptopolis próbuje nas wycyckaæ ze z³ota. Albo o którejœ z rodzin z Nowego Reno, która próbuje si³¹ przej¹æ w³adzê tylko dla siebie. A nawet o RNK chc¹cej nas wzi¹æ pod swoje skrzyd³a. Mówiê ci, RNK jest dla nas najlepszym wyjœciem, ale wszyscy chc¹ naszego z³ota. Redding wci¹¿ jednak pozostaje niepodleg³e.}
+{171}{}{LatajÄ…ca maszyna?}
+{172}{}{MyÅ›lÄ™, Å¼e ludzie gadajÄ… o niektÃ³rych sprawach wszÄ™dzie to samo. Powiedz mi coÅ› innego.}
+{173}{}{MiÅ‚o siÄ™ sÅ‚ucha ale, muszÄ™ lecieÄ‡. Na razie.}
+{174}{}{CÃ³Å¼, ludzie zazwyczaj mÃ³wiÄ… Å¼e, Kryptopolis prÃ³buje nas wycyckaÄ‡ ze zÅ‚ota. Albo o ktÃ³rejÅ› z rodzin z Nowego Reno, ktÃ³ra prÃ³buje siÅ‚Ä… przejÄ…Ä‡ wÅ‚adzÄ™ tylko dla siebie. A nawet o RNK chcÄ…cej nas wziÄ…Ä‡ pod swoje skrzydÅ‚a. MÃ³wiÄ™ ci, RNK jest dla nas najlepszym wyjÅ›ciem, ale wszyscy chcÄ… naszego zÅ‚ota. Redding wciÄ…Å¼ jednak pozostaje niepodlegÅ‚e.}
 {175}{}{A co z innymi plotkami?}
-{176}{}{To ju¿ chyba wszystko co chcê wiedzieæ. ¯egnaj.}
-{177}{}{Wanamingo to tak bardzo zakrêcony stwór. Wysokie jak dwóch ch³opa, silniejsze od byka braminy i z d³ugimi mackami zamiast ramion. Praktycznie odporne na broñ paln¹. Mówi¹, ¿e to zemsta za to, co bia³y cz³owiek uczyni³ ze œwiatem poprzez wojnê. Ale w to, akurat, nie za bardzo wierzê.}
+{176}{}{To juÅ¼ chyba wszystko co chcÄ™ wiedzieÄ‡. Å»egnaj.}
+{177}{}{Wanamingo to tak bardzo zakrÄ™cony stwÃ³r. Wysokie jak dwÃ³ch chÅ‚opa, silniejsze od byka braminy i z dÅ‚ugimi mackami zamiast ramion. Praktycznie odporne na broÅ„ palnÄ…. MÃ³wiÄ…, Å¼e to zemsta za to, co biaÅ‚y czÅ‚owiek uczyniÅ‚ ze Å›wiatem poprzez wojnÄ™. Ale w to, akurat, nie za bardzo wierzÄ™.}
 {178}{}{A co z innymi plotkami?}
-{179}{}{To ju¿ chyba wszystko co chcê wiedzieæ. ¯egnaj.}
-{180}{}{Ach tak. Có¿, paru moich górników trochê polata³o na Jecie, jeœli rozumiesz, co mam na myœli. Ale wszyscy kln¹ siê na wszystko, na czym œwiat stoi, ¿e widzieli przelatuj¹cy statek, zmierzaj¹cy na po³udniowy zachód.}
+{179}{}{To juÅ¼ chyba wszystko co chcÄ™ wiedzieÄ‡. Å»egnaj.}
+{180}{}{Ach tak. CÃ³Å¼, paru moich gÃ³rnikÃ³w trochÄ™ polataÅ‚o na Jecie, jeÅ›li rozumiesz, co mam na myÅ›li. Ale wszyscy klnÄ… siÄ™ na wszystko, na czym Å›wiat stoi, Å¼e widzieli przelatujÄ…cy statek, zmierzajÄ…cy na poÅ‚udniowy zachÃ³d.}
 {181}{}{A co z innymi plotkami?}
-{182}{}{To ju¿ chyba wszystko co chcê wiedzieæ. ¯egnaj.}
-{183}{}{Có¿, Dan i górnicy z Morningstar wol¹ tych pieprzonych gnoi z Reno. Myœlê, ¿e Redding stanie siê za nied³ugo koloni¹ Nowego Reno.}
-{184}{}{Nie moja sprawa. Opowiedz mi o czymœ innym.}
-{185}{}{Có¿... Na razie.}
-{186}{}{W tak ma³ej osadzie wszyscy wiedz¹ wiêcej o ka¿dym, ni¿ ten by sobie tego móg³ ¿yczyæ. Wiêc jak bêdzie?}
+{182}{}{To juÅ¼ chyba wszystko co chcÄ™ wiedzieÄ‡. Å»egnaj.}
+{183}{}{CÃ³Å¼, Dan i gÃ³rnicy z Morningstar wolÄ… tych pieprzonych gnoi z Reno. MyÅ›lÄ™, Å¼e Redding stanie siÄ™ za niedÅ‚ugo koloniÄ… Nowego Reno.}
+{184}{}{Nie moja sprawa. Opowiedz mi o czymÅ› innym.}
+{185}{}{CÃ³Å¼... Na razie.}
+{186}{}{W tak maÅ‚ej osadzie wszyscy wiedzÄ… wiÄ™cej o kaÅ¼dym, niÅ¼ ten by sobie tego mÃ³gÅ‚ Å¼yczyÄ‡. WiÄ™c jak bÄ™dzie?}
 {187}{}{Ile dasz mi za procesor?}
 {188}{}{$1000. Tu i teraz. Kupujesz czy nie?}
-{189}{}{Dobra, biorê. Oto modu³.}
-{190}{}{Myœlê, ¿e na razie nie chcê tego sprzedawaæ.}
-{191}{}{Myœlisz, ¿e dostaniesz lepsz¹ ofertê? Myœlê, ¿e nie znajdziesz lepszej ceny. Ale to twój czas.}
-{192}{}{Dobra, sprzedam ci go. Proszê, oto procesor.}
-{193}{}{Myœlê, ¿e jednak porozgl¹dam siê trochê tu i tam. Na razie.}
-{194}{}{Dobry wybór. Dziêki. Zaraz zainstalujê go w maszynie, by mog³a znów pracowaæ.}
-{195}{}{Œwietnie. Hej, pozwól, ¿e najpierw o coœ spytam.}
-{196}{}{Dziêki za szmal. Na razie.}
-{197}{}{Naprawdê? Rany, dziêki. Czujê, jak rozchodzi siê po mnie mi³e ciepe³ko. Czego chcesz?}
-{198}{}{Chcê ciê o coœ spytaæ}
-{199}{}{Nic takiego. Tylko siê rozgl¹dam. Na razie.}
-{200}{}{Czemu nie? W³aœciwie, nie mam pojêcia sk¹d wziê³a siê ta nazwa. Myœlê, ¿e zawsze to siê tak nazywa³o. Nawet wczeœniej ni¿ ja tu jestem. Jest w tym coœ romantycznego, nie s¹dzisz? Ko-ko-weef. Tak, wci¹¿ podoba mi siê sposób w jaki to brzmi.}
-{201}{}{Eee.., ta. Dobra. Ta, mówisz, ¿e co tu wydobywacie?}
-{202}{}{Eee... Có¿, spadam st¹d. Na razie.}
+{189}{}{Dobra, biorÄ™. Oto moduÅ‚.}
+{190}{}{MyÅ›lÄ™, Å¼e na razie nie chcÄ™ tego sprzedawaÄ‡.}
+{191}{}{MyÅ›lisz, Å¼e dostaniesz lepszÄ… ofertÄ™? MyÅ›lÄ™, Å¼e nie znajdziesz lepszej ceny. Ale to twÃ³j czas.}
+{192}{}{Dobra, sprzedam ci go. ProszÄ™, oto procesor.}
+{193}{}{MyÅ›lÄ™, Å¼e jednak porozglÄ…dam siÄ™ trochÄ™ tu i tam. Na razie.}
+{194}{}{Dobry wybÃ³r. DziÄ™ki. Zaraz zainstalujÄ™ go w maszynie, by mogÅ‚a znÃ³w pracowaÄ‡.}
+{195}{}{Åšwietnie. Hej, pozwÃ³l, Å¼e najpierw o coÅ› spytam.}
+{196}{}{DziÄ™ki za szmal. Na razie.}
+{197}{}{NaprawdÄ™? Rany, dziÄ™ki. CzujÄ™, jak rozchodzi siÄ™ po mnie miÅ‚e ciepeÅ‚ko. Czego chcesz?}
+{198}{}{ChcÄ™ ciÄ™ o coÅ› spytaÄ‡}
+{199}{}{Nic takiego. Tylko siÄ™ rozglÄ…dam. Na razie.}
+{200}{}{Czemu nie? WÅ‚aÅ›ciwie, nie mam pojÄ™cia skÄ…d wziÄ™Å‚a siÄ™ ta nazwa. MyÅ›lÄ™, Å¼e zawsze to siÄ™ tak nazywaÅ‚o. Nawet wczeÅ›niej niÅ¼ ja tu jestem. Jest w tym coÅ› romantycznego, nie sÄ…dzisz? Ko-ko-weef. Tak, wciÄ…Å¼ podoba mi siÄ™ sposÃ³b w jaki to brzmi.}
+{201}{}{Eee.., ta. Dobra. Ta, mÃ³wisz, Å¼e co tu wydobywacie?}
+{202}{}{Eee... CÃ³Å¼, spadam stÄ…d. Na razie.}

@@ -1,175 +1,175 @@
-{100}{}{Widzisz dobrze ubranego, umiêœnionego faceta, umyœlnie poruszaj¹cego siê powoli.}
-{101}{}{To Merk - ludzie z okolicy mówi¹ mu "szefie".}
-{102}{}{Tego goœcia otacza aura ch³odu i obojêtnoœci. Wydaje siê poœwiêcaæ ci tyle samo uwagi co muszê, któr¹ zgniata siê miedzy palcami.}
-{103}{}{Hej, widzia³em ciê w filmach! Jesteœ tu by pokazaæ siê w akcji, co?}
-{104}{}{Co ty sobie wyobra¿asz? Wchodzisz tu bez pytania i przeszkadzasz mi. Zmiataj st¹d.}
+{100}{}{Widzisz dobrze ubranego, umiÄ™Å›nionego faceta, umyÅ›lnie poruszajÄ…cego siÄ™ powoli.}
+{101}{}{To Merk - ludzie z okolicy mÃ³wiÄ… mu "szefie".}
+{102}{}{Tego goÅ›cia otacza aura chÅ‚odu i obojÄ™tnoÅ›ci. Wydaje siÄ™ poÅ›wiÄ™caÄ‡ ci tyle samo uwagi co muszÄ™, ktÃ³rÄ… zgniata siÄ™ miedzy palcami.}
+{103}{}{Hej, widziaÅ‚em ciÄ™ w filmach! JesteÅ› tu by pokazaÄ‡ siÄ™ w akcji, co?}
+{104}{}{Co ty sobie wyobraÅ¼asz? Wchodzisz tu bez pytania i przeszkadzasz mi. Zmiataj stÄ…d.}
 {105}{}{Przepraszam, ale mam tu interes do przeprowadzenia.}
-{106}{}{Jeœli chcesz ze mn¹ porozmawiaæ o interesach, spotkaj siê ze mn¹ w Rawhide. Jeœli nie - spadaj st¹d.}
-{107}{}{Widzia³em ciê na srebrnym ekranie, nie mylê siê? Masz du¿e, ee, predyspozycje i te... no... niebieskie oczy.}
-{108}{}{Masz to coœ w oczach. Zatrzymaj siê przy Rawhide - zawsze przyda siê ktoœ taki, jak ty.}
-{109}{}{Kurwa, co to za odór. Coœ w³aœnie wesz³o do pokoju.}
-{110}{}{IdŸ przynieœ mi nastêpn¹ whisky - biegiem!}
+{106}{}{JeÅ›li chcesz ze mnÄ… porozmawiaÄ‡ o interesach, spotkaj siÄ™ ze mnÄ… w Rawhide. JeÅ›li nie - spadaj stÄ…d.}
+{107}{}{WidziaÅ‚em ciÄ™ na srebrnym ekranie, nie mylÄ™ siÄ™? Masz duÅ¼e, ee, predyspozycje i te... no... niebieskie oczy.}
+{108}{}{Masz to coÅ› w oczach. Zatrzymaj siÄ™ przy Rawhide - zawsze przyda siÄ™ ktoÅ› taki, jak ty.}
+{109}{}{Kurwa, co to za odÃ³r. CoÅ› wÅ‚aÅ›nie weszÅ‚o do pokoju.}
+{110}{}{IdÅº przynieÅ› mi nastÄ™pnÄ… whisky - biegiem!}
 {111}{}{Nie mam teraz czasu.}
-{112}{}{Jestem tutaj goœciem. Przestañ mnie zaczepiaæ.}
-{113}{}{Hej s³oneczko, masz ³adne nó¿ki. Carlson ma coraz lepszy gust.}
-{114}{}{Tutaj nie prowadzê interesów.}
-{115}{}{Nie znam ciê. Jestem szanowanym biznesmenem.}
+{112}{}{Jestem tutaj goÅ›ciem. PrzestaÅ„ mnie zaczepiaÄ‡.}
+{113}{}{Hej sÅ‚oneczko, masz Å‚adne nÃ³Å¼ki. Carlson ma coraz lepszy gust.}
+{114}{}{Tutaj nie prowadzÄ™ interesÃ³w.}
+{115}{}{Nie znam ciÄ™. Jestem szanowanym biznesmenem.}
 {116}{}{A, co za lebioda. Spadaj i zostaw mnie w spokoju.}
-{117}{}{A wiêc jednak postanowi³aœ do mnie przyjœæ, kociaczku?}
+{117}{}{A wiÄ™c jednak postanowiÅ‚aÅ› do mnie przyjÅ›Ä‡, kociaczku?}
 {118}{}{Nie wiem nic o niczym. Zrozumiano?}
-{119}{}{Wiceprezydentowi nie spodoba siê to, ¿e zaczepiasz jego goœci.}
+{119}{}{Wiceprezydentowi nie spodoba siÄ™ to, Å¼e zaczepiasz jego goÅ›ci.}
 {120}{}{Facet serwuje tu cholernie dobry browar.}
-{121}{}{ZejdŸ mi z drogi!}
-{122}{}{Jeœli chcesz koniecznie z kimœ pogadaæ - kup sobie przyjaciela.}
-{123}{}{Nie pokazuje drogi i nie daje ¿ebrakom kasy. Odwal siê.}
+{121}{}{ZejdÅº mi z drogi!}
+{122}{}{JeÅ›li chcesz koniecznie z kimÅ› pogadaÄ‡ - kup sobie przyjaciela.}
+{123}{}{Nie pokazuje drogi i nie daje Å¼ebrakom kasy. Odwal siÄ™.}
 {124}{}{Co to kurde - godzina socjalna?}
 {125}{}{Jestem Merk. Czego chcesz?}
 {126}{}{Znowu ty?}
-{127}{}{B¹dŸ grzeczny gnoju, bo mo¿e byæ niemi³o.}
+{127}{}{BÄ…dÅº grzeczny gnoju, bo moÅ¼e byÄ‡ niemiÅ‚o.}
 {128}{}{Oort.}
 {129}{}{Szukam pracy.}
-{130}{}{Z pewnego Ÿród³a wiem, ¿e jesteœ w³aœciwa osob¹ do robienia interesów, jeœli wiesz o czym mówiê.}
-{131}{}{Powiadaj¹, ¿e to ty zapierdzieli³eœ mi wóz.}
+{130}{}{Z pewnego ÅºrÃ³dÅ‚a wiem, Å¼e jesteÅ› wÅ‚aÅ›ciwa osobÄ… do robienia interesÃ³w, jeÅ›li wiesz o czym mÃ³wiÄ™.}
+{131}{}{PowiadajÄ…, Å¼e to ty zapierdzieliÅ‚eÅ› mi wÃ³z.}
 {132}{}{Szukam informacji.}
-{133}{}{Podobno mo¿esz mi udzieliæ informacji, na przyk³ad o rzeczach, które zniknê³y z samochodu.}
-{134}{}{Znowu ty? Wykona³eœ robotê?}
-{135}{}{Hê?}
+{133}{}{Podobno moÅ¼esz mi udzieliÄ‡ informacji, na przykÅ‚ad o rzeczach, ktÃ³re zniknÄ™Å‚y z samochodu.}
+{134}{}{Znowu ty? WykonaÅ‚eÅ› robotÄ™?}
+{135}{}{HÄ™?}
 {136}{}{Nie.}
-{137}{}{Mam kilka pytañ.}
-{138}{}{Hmm... Silny. G³upi... Jeœli chcesz robotê gadaj z Mir¹. Zrozumiano? Mi-ra. Tam.}
-{139}{}{Lubisz narobiæ trochê szumu? Czy ktoœ zabierze st¹d to gówno?}
-{140}{}{Jesteœ a¿ takim g³upcem? Myœlisz, ¿e zatrudniê byle kogo? Jeœli chcesz dla mnie pracowaæ, musisz udowodniæ, ¿e do czegoœ nadajesz.}
-{141}{}{Mo¿e po prostu zastrzelê Lennego. Poka¿e ci co potrafiê, on na to zas³uguje.}
-{142}{}{Jak udowodniæ?}
-{143}{}{Znasz mo¿e kogoœ, kto potrzebuje Jetu?}
-{144}{}{S³uchaj, jestem}
-{145}{}{Jasne. Bo muszê komuœ coœ udowadniaæ. Zapomnij o tym, palancie.}
-{146}{}{To by³ ten pieprzony Doofus, prawda? Ten ma³y æpun za du¿o gada. Coœ ci powiem - skoœ go dla mnie, nazwijmy to przys³ug¹, wtedy pogadamy.}
+{137}{}{Mam kilka pytaÅ„.}
+{138}{}{Hmm... Silny. GÅ‚upi... JeÅ›li chcesz robotÄ™ gadaj z MirÄ…. Zrozumiano? Mi-ra. Tam.}
+{139}{}{Lubisz narobiÄ‡ trochÄ™ szumu? Czy ktoÅ› zabierze stÄ…d to gÃ³wno?}
+{140}{}{JesteÅ› aÅ¼ takim gÅ‚upcem? MyÅ›lisz, Å¼e zatrudniÄ™ byle kogo? JeÅ›li chcesz dla mnie pracowaÄ‡, musisz udowodniÄ‡, Å¼e do czegoÅ› nadajesz.}
+{141}{}{MoÅ¼e po prostu zastrzelÄ™ Lennego. PokaÅ¼e ci co potrafiÄ™, on na to zasÅ‚uguje.}
+{142}{}{Jak udowodniÄ‡?}
+{143}{}{Znasz moÅ¼e kogoÅ›, kto potrzebuje Jetu?}
+{144}{}{SÅ‚uchaj, jestem}
+{145}{}{Jasne. Bo muszÄ™ komuÅ› coÅ› udowadniaÄ‡. Zapomnij o tym, palancie.}
+{146}{}{To byÅ‚ ten pieprzony Doofus, prawda? Ten maÅ‚y Ä‡pun za duÅ¼o gada. CoÅ› ci powiem - skoÅ› go dla mnie, nazwijmy to przysÅ‚ugÄ…, wtedy pogadamy.}
 {147}{}{Zgoda.}
-{148}{}{Hej - nie jestem morderc¹!}
-{149}{}{Zaraz bêdziesz trupem. Ch³opcy-}
-{150}{}{Interesuj¹ce. Któ¿ to taki rozpowiada takie rzeczy?}
-{151}{}{Nie chrzan, grubasie. Jeœli nie odzyskam tego, co do mnie nale¿y, skoñczysz sobie w przytulnej trumience.}
-{152}{}{S³odkie. Odpowiesz na moje pytanie, czy nie?}
-{153}{}{Och, to tylko coœ co mo¿na us³yszeæ na ulicy. Interesowa³o mnie, co masz na ten temat do powiedzenia.}
-{154}{}{Nawet jeœli coœ wiem - co z tego?}
-{155}{}{Jeœli ktoœ nie mo¿e znaleŸæ kilku w³asnych rzeczy, to chyba mo¿e je u ciebie kupiæ, co?}
-{156}{}{Chcê swój towar, ty pierdolony grubasie!}
-{157}{}{A jeœli pogadam o tobie z przedstawicielami prawa?}
-{158}{}{Meczysz mnie ju¿. Ch³opcy - zajmijcie siê naszym goœciem.}
-{159}{}{Lenny'emu by to siê chyba nie podoba³o.}
-{160}{}{Byæ mo¿e, nie pyta³em go.}
-{161}{}{Rób jak uwa¿asz.}
-{162}{}{To prawda. Ostatnio bardzo tu nudno. Czas na jakieœ urozmaicenie. ChodŸ Lenny, chce zobaczyæ jak 'to' mia¿d¿ysz.}
-{163}{}{Jak gdybym mia³ jakieœ problemy.}
-{164}{}{Tak, na przyk³ad?}
-{165}{}{Jet? Proponujesz mi coœ...?}
-{166}{}{Mój przyjaciel wie, jak to robiæ. Zainteresowany?}
-{167}{}{Coœ nielegalnego? Nie, nie chce siê w to pakowaæ.}
-{168}{}{Interesuj¹ce. Dam ci 1000$ w zamian za jego us³ugi.}
+{148}{}{Hej - nie jestem mordercÄ…!}
+{149}{}{Zaraz bÄ™dziesz trupem. ChÅ‚opcy-}
+{150}{}{InteresujÄ…ce. KtÃ³Å¼ to taki rozpowiada takie rzeczy?}
+{151}{}{Nie chrzan, grubasie. JeÅ›li nie odzyskam tego, co do mnie naleÅ¼y, skoÅ„czysz sobie w przytulnej trumience.}
+{152}{}{SÅ‚odkie. Odpowiesz na moje pytanie, czy nie?}
+{153}{}{Och, to tylko coÅ› co moÅ¼na usÅ‚yszeÄ‡ na ulicy. InteresowaÅ‚o mnie, co masz na ten temat do powiedzenia.}
+{154}{}{Nawet jeÅ›li coÅ› wiem - co z tego?}
+{155}{}{JeÅ›li ktoÅ› nie moÅ¼e znaleÅºÄ‡ kilku wÅ‚asnych rzeczy, to chyba moÅ¼e je u ciebie kupiÄ‡, co?}
+{156}{}{ChcÄ™ swÃ³j towar, ty pierdolony grubasie!}
+{157}{}{A jeÅ›li pogadam o tobie z przedstawicielami prawa?}
+{158}{}{Meczysz mnie juÅ¼. ChÅ‚opcy - zajmijcie siÄ™ naszym goÅ›ciem.}
+{159}{}{Lenny'emu by to siÄ™ chyba nie podobaÅ‚o.}
+{160}{}{ByÄ‡ moÅ¼e, nie pytaÅ‚em go.}
+{161}{}{RÃ³b jak uwaÅ¼asz.}
+{162}{}{To prawda. Ostatnio bardzo tu nudno. Czas na jakieÅ› urozmaicenie. ChodÅº Lenny, chce zobaczyÄ‡ jak 'to' miaÅ¼dÅ¼ysz.}
+{163}{}{Jak gdybym miaÅ‚ jakieÅ› problemy.}
+{164}{}{Tak, na przykÅ‚ad?}
+{165}{}{Jet? Proponujesz mi coÅ›...?}
+{166}{}{MÃ³j przyjaciel wie, jak to robiÄ‡. Zainteresowany?}
+{167}{}{CoÅ› nielegalnego? Nie, nie chce siÄ™ w to pakowaÄ‡.}
+{168}{}{InteresujÄ…ce. Dam ci 1000$ w zamian za jego usÅ‚ugi.}
 {169}{}{Zgoda.}
-{170}{}{Nie, nie mogê tego zrobiæ przyjacielowi.}
-{171}{}{Wygl¹da na to, ¿e mo¿emy ubiæ interes. W mieœcie mieszka szurniêty naukowiec - doktor Henry. Ma w posiadaniu papiery, których potrzebujê. Zap³acê ci za nie 1000$, ale nie mo¿esz skrzywdziæ doktorka. ¯ywy ma dla mnie wiêksz¹ wartoœæ. Wchodzisz w to? }
+{170}{}{Nie, nie mogÄ™ tego zrobiÄ‡ przyjacielowi.}
+{171}{}{WyglÄ…da na to, Å¼e moÅ¼emy ubiÄ‡ interes. W mieÅ›cie mieszka szurniÄ™ty naukowiec - doktor Henry. Ma w posiadaniu papiery, ktÃ³rych potrzebujÄ™. ZapÅ‚acÄ™ ci za nie 1000$, ale nie moÅ¼esz skrzywdziÄ‡ doktorka. Å»ywy ma dla mnie wiÄ™kszÄ… wartoÅ›Ä‡. Wchodzisz w to? }
 {172}{}{Jasne.}
 {173}{}{Niee, to nie w moim stylu.}
-{174}{}{Wiedza bêdzie ciê kosztowaæ. Wyra¿am siê jasno?}
-{175}{}{"Cena m¹droœci przekracza wszystkie inne."}
+{174}{}{Wiedza bÄ™dzie ciÄ™ kosztowaÄ‡. WyraÅ¼am siÄ™ jasno?}
+{175}{}{"Cena mÄ…droÅ›ci przekracza wszystkie inne."}
 {176}{}{Masz tu 50$.}
 {177}{}{Zapomnij o tym.}
-{178}{}{O, to ty jesteœ t¹ osob¹.}
+{178}{}{O, to ty jesteÅ› tÄ… osobÄ….}
 {179}{}{Kontynuuj.}
-{180}{}{No có¿, z tego, co zauwa¿y³em, jesteœ tyle warty, co kupa gnoju.}
-{181}{}{Domyœli³em siê, ¿eœ g³upia cipa.}
-{182}{}{W porz¹dku. Nie ma sprawy. Nie szukam k³opotów. Powiem ci coœ - namówiê mojego szefa, ¿eby odda³ ci twoje rzeczy.}
-{183}{}{Lepiej, ¿eby tak by³o. Inaczej tu wrócê.}
+{180}{}{No cÃ³Å¼, z tego, co zauwaÅ¼yÅ‚em, jesteÅ› tyle warty, co kupa gnoju.}
+{181}{}{DomyÅ›liÅ‚em siÄ™, Å¼eÅ› gÅ‚upia cipa.}
+{182}{}{W porzÄ…dku. Nie ma sprawy. Nie szukam kÅ‚opotÃ³w. Powiem ci coÅ› - namÃ³wiÄ™ mojego szefa, Å¼eby oddaÅ‚ ci twoje rzeczy.}
+{183}{}{Lepiej, Å¼eby tak byÅ‚o. Inaczej tu wrÃ³cÄ™.}
 {184}{}{Nie pierdol mi tu bzdur!}
-{185}{}{Taka osoba mog³aby byæ do tego zdolna.}
-{186}{}{A teraz, sugeruje, abyœ wyszed³.}
-{187}{}{Ale¿ oczywiœcie, zawo³aj oficerów. Oczywiœcie masz wszystkie niezbêdne dowody. Prawda?}
+{185}{}{Taka osoba mogÅ‚aby byÄ‡ do tego zdolna.}
+{186}{}{A teraz, sugeruje, abyÅ› wyszedÅ‚.}
+{187}{}{AleÅ¼ oczywiÅ›cie, zawoÅ‚aj oficerÃ³w. OczywiÅ›cie masz wszystkie niezbÄ™dne dowody. Prawda?}
 {188}{}{Jasne.}
-{189}{}{Niewa¿ne.}
-{190}{}{W mieœcie jest ten przeklêty Centrolog. Strasznie mnie irytuje. Gdy ju¿ wyrwiesz tego chwasta, wróæ, to pogadamy.}
-{191}{}{Masz to jak w banku. Tylko siê odpowiednio przygotuje i... Chwileczkê, kto to jest ten Centrolog i gdzie go znajdê?}
-{192}{}{Jak œmiesz sprzeciwiaæ siê prawdziwej wierze!}
-{193}{}{Przykro mi, nie wdaje siê w ¿adne wojny religijne, ani inne takie...}
-{194}{}{Jestem wykszta³conym cz³owiekiem. Co chcesz wiedzieæ?}
+{189}{}{NiewaÅ¼ne.}
+{190}{}{W mieÅ›cie jest ten przeklÄ™ty Centrolog. Strasznie mnie irytuje. Gdy juÅ¼ wyrwiesz tego chwasta, wrÃ³Ä‡, to pogadamy.}
+{191}{}{Masz to jak w banku. Tylko siÄ™ odpowiednio przygotuje i... ChwileczkÄ™, kto to jest ten Centrolog i gdzie go znajdÄ™?}
+{192}{}{Jak Å›miesz sprzeciwiaÄ‡ siÄ™ prawdziwej wierze!}
+{193}{}{Przykro mi, nie wdaje siÄ™ w Å¼adne wojny religijne, ani inne takie...}
+{194}{}{Jestem wyksztaÅ‚conym czÅ‚owiekiem. Co chcesz wiedzieÄ‡?}
 {195}{}{Pytaj.}
 {196}{}{Szukam Krypty 13.}
-{197}{}{S³ysza³eœ kiedyœ o GECKu?}
-{198}{}{Co wiesz na temat o Stra¿ników?}
-{199}{}{Co mo¿esz mi powiedzieæ o Westinie?}
-{200}{}{Potrzebujê informacji o wiceprezydencie Carlsonie.}
+{197}{}{SÅ‚yszaÅ‚eÅ› kiedyÅ› o GECKu?}
+{198}{}{Co wiesz na temat o StraÅ¼nikÃ³w?}
+{199}{}{Co moÅ¼esz mi powiedzieÄ‡ o Westinie?}
+{200}{}{PotrzebujÄ™ informacji o wiceprezydencie Carlsonie.}
 {201}{}{To wszystko.}
-{202}{}{Twoja zap³ata obejmuje jeszcze jedno pytanie. Za nastêpne zap³acisz kolejne 50 dolców.}
+{202}{}{Twoja zapÅ‚ata obejmuje jeszcze jedno pytanie. Za nastÄ™pne zapÅ‚acisz kolejne 50 dolcÃ³w.}
 {203}{}{Dobra, masz.}
-{204}{}{Wiem ju¿ wszystko, co by³o mi potrzebne.}
-{205}{}{Tak siê sk³ada, ¿e mam mapê do Krypty 13. Chcesz kupiæ? Tylko 1000 dolców.}
-{206}{}{Jasne. Zajmê siê tym.}
-{207}{}{Pewnie masz jeszcze jakiœ most na sprzeda¿, co?}
-{208}{}{Mo¿e póŸniej.}
-{209}{}{To jakiœ narkotyk z Nowego Reno? Nigdy o nim nie s³ysza³em.}
+{204}{}{Wiem juÅ¼ wszystko, co byÅ‚o mi potrzebne.}
+{205}{}{Tak siÄ™ skÅ‚ada, Å¼e mam mapÄ™ do Krypty 13. Chcesz kupiÄ‡? Tylko 1000 dolcÃ³w.}
+{206}{}{Jasne. ZajmÄ™ siÄ™ tym.}
+{207}{}{Pewnie masz jeszcze jakiÅ› most na sprzedaÅ¼, co?}
+{208}{}{MoÅ¼e pÃ³Åºniej.}
+{209}{}{To jakiÅ› narkotyk z Nowego Reno? Nigdy o nim nie sÅ‚yszaÅ‚em.}
 {210}{}{Nie, ale mam inne pytania.}
-{211}{}{To wszystko, czego potrzebujê.}
-{212}{}{Te dranie? Najlepiej niech siê trzymaj¹ z daleka ode mnie, albo ich podziurawiê.}
-{213}{}{Có¿, to wiele wyjaœni³o. Mam inne pytanie.}
-{214}{}{To wszystko, czego potrzebujê.}
-{215}{}{Ten ranczer, co? Raz tu przyszed³ - na wpó³ martwy. Doktorek musia³ nafaszerowaæ go jakimiœ pigu³ami - okaza³o siê, ¿e Westin ma powa¿ne problemy z sercem.}
-{216}{}{Dziêki za informacje. Mam jeszcze kilka pytañ.}
-{217}{}{To wszystko, czego potrzebujê.}
-{218}{}{Jako dobry obywatel, popieram Carlsona w ka¿dym dzia³aniu przeciwko poszerzaniu tutaj wp³ywów Nowego Reno. Teraz, kiedy Westin nie ¿yje, pomagam w zorganizowaniu ochrony dla wiceprezydenta.}
-{219}{}{Có¿, myœlê, ¿e nigdy nie bêdê mia³ szansy siê z nim zobaczyæ. Ja te¿ wiele o nim wiem.}
-{220}{}{To wszystko, czego potrzebujê.}
+{211}{}{To wszystko, czego potrzebujÄ™.}
+{212}{}{Te dranie? Najlepiej niech siÄ™ trzymajÄ… z daleka ode mnie, albo ich podziurawiÄ™.}
+{213}{}{CÃ³Å¼, to wiele wyjaÅ›niÅ‚o. Mam inne pytanie.}
+{214}{}{To wszystko, czego potrzebujÄ™.}
+{215}{}{Ten ranczer, co? Raz tu przyszedÅ‚ - na wpÃ³Å‚ martwy. Doktorek musiaÅ‚ nafaszerowaÄ‡ go jakimiÅ› piguÅ‚ami - okazaÅ‚o siÄ™, Å¼e Westin ma powaÅ¼ne problemy z sercem.}
+{216}{}{DziÄ™ki za informacje. Mam jeszcze kilka pytaÅ„.}
+{217}{}{To wszystko, czego potrzebujÄ™.}
+{218}{}{Jako dobry obywatel, popieram Carlsona w kaÅ¼dym dziaÅ‚aniu przeciwko poszerzaniu tutaj wpÅ‚ywÃ³w Nowego Reno. Teraz, kiedy Westin nie Å¼yje, pomagam w zorganizowaniu ochrony dla wiceprezydenta.}
+{219}{}{CÃ³Å¼, myÅ›lÄ™, Å¼e nigdy nie bÄ™dÄ™ miaÅ‚ szansy siÄ™ z nim zobaczyÄ‡. Ja teÅ¼ wiele o nim wiem.}
+{220}{}{To wszystko, czego potrzebujÄ™.}
 {221}{}{To wszystko?}
-{222}{}{Nie, mam jeszcze kilka pytañ.}
-{223}{}{Tak, to ju¿ wszystko na dzisiaj.}
-{224}{}{Hej, cz³owiek musi siê staraæ. Krypta 13 to praktycznie miejsce kultu w tej okolicy. Zbudowali nawet pomnik jakiemuœ goœciowi, który stamt¹d pochodzi³. To wszystko, co wiem.}
-{225}{}{Da³em ci za to mapê, spróbuj z niej skorzystaæ.}
-{226}{}{Mapa siê nie sprawdzi³a? Przykro mi, tamten goœæ przysiêga³, ¿e to orygina³. Sk¹d mia³em wiedzieæ? Nie mam pojêcia o lokalizacji Krypty 13.}
-{227}{}{Mam jeszcze kilka pytañ.}
-{228}{}{To wszystko, co potrzebujê wiedzieæ.}
-{229}{}{Powiem ci coœ. Jestem zadowolony z twojej pracy, a Carlsonowi przyda³by siê kolejny stra¿nik. Daj mi trochê czasu, a bêdê mia³ dla ciebie œwietn¹ posadkê.}
-{230}{}{Wchodzê w to, Merk.}
-{231}{}{Nie potrzebujê roboty. Mimo wszystko dziêki.}
-{232}{}{Wspaniale. Wróæ, kiedy skoñczysz.}
-{233}{}{To bardzo k³opotliwe. Ch³opcy, zabijcie go i odzyskajcie dowód.}
-{234}{}{Twoje ¿a³osne próby zastraszenia niemal mnie bawi¹. Ale teraz sugeruje, wyjœæ, zanim te twoje gierki mnie znudz¹.}
-{235}{}{S³ysza³em ju¿, co siê sta³o. Ci¹gle interesuje ciê praca?}
-{236}{}{Tak, zmêczy³a mnie darmocha. Przyda³aby mi siê robota.}
+{222}{}{Nie, mam jeszcze kilka pytaÅ„.}
+{223}{}{Tak, to juÅ¼ wszystko na dzisiaj.}
+{224}{}{Hej, czÅ‚owiek musi siÄ™ staraÄ‡. Krypta 13 to praktycznie miejsce kultu w tej okolicy. Zbudowali nawet pomnik jakiemuÅ› goÅ›ciowi, ktÃ³ry stamtÄ…d pochodziÅ‚. To wszystko, co wiem.}
+{225}{}{DaÅ‚em ci za to mapÄ™, sprÃ³buj z niej skorzystaÄ‡.}
+{226}{}{Mapa siÄ™ nie sprawdziÅ‚a? Przykro mi, tamten goÅ›Ä‡ przysiÄ™gaÅ‚, Å¼e to oryginaÅ‚. SkÄ…d miaÅ‚em wiedzieÄ‡? Nie mam pojÄ™cia o lokalizacji Krypty 13.}
+{227}{}{Mam jeszcze kilka pytaÅ„.}
+{228}{}{To wszystko, co potrzebujÄ™ wiedzieÄ‡.}
+{229}{}{Powiem ci coÅ›. Jestem zadowolony z twojej pracy, a Carlsonowi przydaÅ‚by siÄ™ kolejny straÅ¼nik. Daj mi trochÄ™ czasu, a bÄ™dÄ™ miaÅ‚ dla ciebie Å›wietnÄ… posadkÄ™.}
+{230}{}{WchodzÄ™ w to, Merk.}
+{231}{}{Nie potrzebujÄ™ roboty. Mimo wszystko dziÄ™ki.}
+{232}{}{Wspaniale. WrÃ³Ä‡, kiedy skoÅ„czysz.}
+{233}{}{To bardzo kÅ‚opotliwe. ChÅ‚opcy, zabijcie go i odzyskajcie dowÃ³d.}
+{234}{}{Twoje Å¼aÅ‚osne prÃ³by zastraszenia niemal mnie bawiÄ…. Ale teraz sugeruje, wyjÅ›Ä‡, zanim te twoje gierki mnie znudzÄ….}
+{235}{}{SÅ‚yszaÅ‚em juÅ¼, co siÄ™ staÅ‚o. CiÄ…gle interesuje ciÄ™ praca?}
+{236}{}{Tak, zmÄ™czyÅ‚a mnie darmocha. PrzydaÅ‚aby mi siÄ™ robota.}
 {237}{}{Nie.}
 {238}{}{Co ty do cholery tutaj robisz?}
-{239}{}{Trochê mi siê pomiesza³o. Ju¿ wiêcej tego nie zrobiê. Chcê tylko trochê twojego czasu.}
-{240}{}{Zrobiê, co bêdê chcia³, palancie.}
-{241}{}{Spadaj st¹d, warchole!}
-{242}{}{No to co ty tu, kurwa, jeszcze robisz, pacanie? Chcesz mi zaimponowaæ, to za³atw robotê!}
-{243}{}{Nie bêdê z tob¹ rozmawia³, dopóki nie skoñczysz roboty!}
-{244}{}{Zawiod³em siê na tobie. W normalnych okolicznoœciach usuwam rzeczy, które mnie zawodz¹. Jednak¿e w twoim przypadku zrobiê wyj¹tek. Po prostu wyjdŸ i nigdy tu nie wracaj, a zapomnê o wszystkim.}
-{245}{}{No, nasz drobny interesik z doktorem Henrym jest ju¿ skoñczony?}
-{246}{}{Taa, mam papiery, których potrzebowa³eœ.}
+{239}{}{TrochÄ™ mi siÄ™ pomieszaÅ‚o. JuÅ¼ wiÄ™cej tego nie zrobiÄ™. ChcÄ™ tylko trochÄ™ twojego czasu.}
+{240}{}{ZrobiÄ™, co bÄ™dÄ™ chciaÅ‚, palancie.}
+{241}{}{Spadaj stÄ…d, warchole!}
+{242}{}{No to co ty tu, kurwa, jeszcze robisz, pacanie? Chcesz mi zaimponowaÄ‡, to zaÅ‚atw robotÄ™!}
+{243}{}{Nie bÄ™dÄ™ z tobÄ… rozmawiaÅ‚, dopÃ³ki nie skoÅ„czysz roboty!}
+{244}{}{ZawiodÅ‚em siÄ™ na tobie. W normalnych okolicznoÅ›ciach usuwam rzeczy, ktÃ³re mnie zawodzÄ…. JednakÅ¼e w twoim przypadku zrobiÄ™ wyjÄ…tek. Po prostu wyjdÅº i nigdy tu nie wracaj, a zapomnÄ™ o wszystkim.}
+{245}{}{No, nasz drobny interesik z doktorem Henrym jest juÅ¼ skoÅ„czony?}
+{246}{}{Taa, mam papiery, ktÃ³rych potrzebowaÅ‚eÅ›.}
 {247}{}{Nie.}
-{248}{}{Dni takie jak ten bardzo mnie ciesz¹. Có¿, podsumujemy nasz interesik.}
-{249}{}{Dosz³y do mnie s³uchy, ¿e nasz genialny doktor opuœci³ ten padó³ podczas twojej wizyty. To by³o wbrew rozkazom. Oczekujê, ¿e wrêczysz mi odszkodowanie, które pozwoli zniwelowaæ przysz³e straty.}
-{250}{}{S³uchaj, dam ci 500 dolców i po prostu zapomnimy o ca³ej sprawie.}
-{251}{}{Chrzañ siê.}
-{252}{}{Có¿, ¿yczê powodzenia. I pamiêtaj - nie widzê ¿adnego powodu, dla którego mielibyœmy znów siê spotykaæ.}
+{248}{}{Dni takie jak ten bardzo mnie cieszÄ…. CÃ³Å¼, podsumujemy nasz interesik.}
+{249}{}{DoszÅ‚y do mnie sÅ‚uchy, Å¼e nasz genialny doktor opuÅ›ciÅ‚ ten padÃ³Å‚ podczas twojej wizyty. To byÅ‚o wbrew rozkazom. OczekujÄ™, Å¼e wrÄ™czysz mi odszkodowanie, ktÃ³re pozwoli zniwelowaÄ‡ przyszÅ‚e straty.}
+{250}{}{SÅ‚uchaj, dam ci 500 dolcÃ³w i po prostu zapomnimy o caÅ‚ej sprawie.}
+{251}{}{ChrzaÅ„ siÄ™.}
+{252}{}{CÃ³Å¼, Å¼yczÄ™ powodzenia. I pamiÄ™taj - nie widzÄ™ Å¼adnego powodu, dla ktÃ³rego mielibyÅ›my znÃ³w siÄ™ spotykaÄ‡.}
 {253}{}{Dla mnie bomba.}
-{254}{}{Umowa stoi - ale tylko dlatego, ¿e ciê lubiê. Proponuje, ¿eby ciê tu w najbli¿szym czasie nie by³o.}
-{255}{}{Myœlê, ¿e po prostu ciê zabijê, odbiorê swoj¹ forsê, i zaliczê nagrodê za twoj¹ g³owê. W koñcu tak powinien siê zachowywaæ przyk³adny mieszkaniec.}
-{256}{}{To znowu ty? GIÑ!}
-{257}{}{Wydawa³o mi siê, ¿e kaza³em ci nigdy wiêcej mi nie przeszkadzaæ.}
-{258}{}{, a moje umiêjêtnoœci s¹ doskona³e. Zapytaj kogokolwiek.}
+{254}{}{Umowa stoi - ale tylko dlatego, Å¼e ciÄ™ lubiÄ™. Proponuje, Å¼eby ciÄ™ tu w najbliÅ¼szym czasie nie byÅ‚o.}
+{255}{}{MyÅ›lÄ™, Å¼e po prostu ciÄ™ zabijÄ™, odbiorÄ™ swojÄ… forsÄ™, i zaliczÄ™ nagrodÄ™ za twojÄ… gÅ‚owÄ™. W koÅ„cu tak powinien siÄ™ zachowywaÄ‡ przykÅ‚adny mieszkaniec.}
+{256}{}{To znowu ty? GIÅƒ!}
+{257}{}{WydawaÅ‚o mi siÄ™, Å¼e kazaÅ‚em ci nigdy wiÄ™cej mi nie przeszkadzaÄ‡.}
+{258}{}{, a moje umiÄ™jÄ™tnoÅ›ci sÄ… doskonaÅ‚e. Zapytaj kogokolwiek.}
 {259}{}{ facet.}
 {260}{}{ laska.}
-{261}{}{Ten Centrolog to szurniêty fanatyk religijny. Mo¿esz go znaleŸæ w koœciele.}
-{262}{}{Ju¿ idê.}
-{263}{}{Nie gadam z tob¹, dopóki nie wykonasz zadania! Potrzebujê tych papierów na wczoraj.}
-{264}{}{Nie, ale potrzebujê informacji.}
-{265}{}{Wiem, ¿e œmieræ Lennego to nie wypadek, ty draniu.}
-{266}{}{Hej, ta mapa by³a fa³szywa.}
-{267}{}{A co z pieniêdzmi, które dosta³eœ ode mnie?}
-{268}{}{Jak powiedzia³em, przykro mi, ¿e nie posz³o po twojej myœli.}
-{269}{}{Dopiero zrobi ci siê przykro, jak wpakujê w ciebie kulkê.}
+{261}{}{Ten Centrolog to szurniÄ™ty fanatyk religijny. MoÅ¼esz go znaleÅºÄ‡ w koÅ›ciele.}
+{262}{}{JuÅ¼ idÄ™.}
+{263}{}{Nie gadam z tobÄ…, dopÃ³ki nie wykonasz zadania! PotrzebujÄ™ tych papierÃ³w na wczoraj.}
+{264}{}{Nie, ale potrzebujÄ™ informacji.}
+{265}{}{Wiem, Å¼e Å›mierÄ‡ Lennego to nie wypadek, ty draniu.}
+{266}{}{Hej, ta mapa byÅ‚a faÅ‚szywa.}
+{267}{}{A co z pieniÄ™dzmi, ktÃ³re dostaÅ‚eÅ› ode mnie?}
+{268}{}{Jak powiedziaÅ‚em, przykro mi, Å¼e nie poszÅ‚o po twojej myÅ›li.}
+{269}{}{Dopiero zrobi ci siÄ™ przykro, jak wpakujÄ™ w ciebie kulkÄ™.}
 {270}{}{Hmmpf.}
-{271}{}{Uda³o ci siê "rozwi¹zaæ problem" z Centrologami dla Merka.}
-{272}{}{Uda³o ci siê zdobyæ papiery dr Henry'ego.}
-{300}{}{Gdzie do cholery wydaje ci siê, ¿e idziesz?! Zrób to jeszcze raz, a skopie ci dupê.}
-{301}{}{Ostrzega³em ciê!}
+{271}{}{UdaÅ‚o ci siÄ™ "rozwiÄ…zaÄ‡ problem" z Centrologami dla Merka.}
+{272}{}{UdaÅ‚o ci siÄ™ zdobyÄ‡ papiery dr Henry'ego.}
+{300}{}{Gdzie do cholery wydaje ci siÄ™, Å¼e idziesz?! ZrÃ³b to jeszcze raz, a skopie ci dupÄ™.}
+{301}{}{OstrzegaÅ‚em ciÄ™!}

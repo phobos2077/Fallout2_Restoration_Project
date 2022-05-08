@@ -1,2 +1,2 @@
-{100}{}{A PipBoy Medikus Képzését használtad. Hatalmas mennyiség? orvosi információ áramlott az agyadba.}
+{100}{}{A PipBoy Medikus KÃ©pzÃ©sÃ©t hasznÃ¡ltad. Hatalmas mennyisÃ©g? orvosi informÃ¡ciÃ³ Ã¡ramlott az agyadba.}
 {200}{}{Ez igen! A doktor intelligens.}

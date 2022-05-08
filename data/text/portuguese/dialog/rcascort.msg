@@ -1,4 +1,4 @@
-{100}{}{Você vê um homem baixo com cabelo preto e um belo sorriso.}
+{100}{}{VocÃª vÃª um homem baixo com cabelo preto e um belo sorriso.}
 {101}{}{You see Ascorti, Redding's Mayor.}
 {102}{}{You see a well-dressed man with a greasy look to him.}
 {103}{}{Keep on movin', pal.}
@@ -14,7 +14,7 @@
 {112}{}{Is there any work here in Redding?}
 {113}{}{What's going on here in town lately?}
 {114}{}{Have you heard of anything called a Garden of Eden Creation Kit?}
-{115}{}{O que você faz aqui?}
+{115}{}{O que vocÃª faz aqui?}
 {116}{}{I was just looking around, Mayor. See you later. Goodbye.}
 {117}{}{I run this here casino, and I help to run things in town, too. I keep track of things like deeds
  and such.}
@@ -33,7 +33,7 @@
 {128}{}{Of course I do. Uh, let me ask you about something else, Mayor.}
 {129}{}{Yes, of course. I was just checking. Goodbye, Mayor Ascorti.}
 {130}{}{All kinds of private property. Why, right now, I have a Jim-dandy of a deed for sale.}
-{131}{}{O que é isso?}
+{131}{}{O que Ã© isso?}
 {132}{}{I bet you do, but let me ask you about something else first, Mayor.}
 {133}{}{Hmm, I think I'll look around town first, Mayor. Goodbye.}
 {134}{}{It's the deed to the Great Wanamingo Mine just outside of town. I can sell it to you for only

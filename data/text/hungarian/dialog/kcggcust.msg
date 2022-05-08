@@ -1,74 +1,74 @@
-{100}{}{Ez a vendég téged bámul.}
-{101}{}{Egy vendég épp szárított húst csócsál.}
-{102}{}{Ez a vendég egy korsó sörrel küzd.}
-{103}{}{Vendég.}
-{104}{}{Ez a vendég elég ápolatlan, bizonyára prémvadász.}
-{105}{}{Ez a vendég elég keménykötés?, biztosan prémvadász.}
-{106}{}{Egy megviselt vendég, talán prémvadász, vagy farmer.}
-{107}{}{Ez a kocsmatöltelék jó er?ben van. Talán brahmin-tenyészt? vagy farmer.}
-{110}{}{Közéjük illesz.}
-{111}{}{Mi lenne, ha mindekit meghívnál egy körre?}
-{112}{}{Szkanderezel Duntonékkal?}
-{113}{}{Pont úgy nézel ki, mintha Rejtekt?l északra jöttél volna. }
-{114}{}{Mit nézel?}
-{115}{}{Neked aztán sötét a b?röd, édesem. Heh, heh, heh.}
-{116}{}{Hükk, jól jönne egy újabb korsó gekkópisa.}
-{117}{}{Ha pénz kell, akkor fordulj a Duntonokhoz.}
-{118}{}{Nem is vagy olyan rossz, ahhoz képest, hogy törzsbéli vagy.}
-{119}{}{Lökd ide a sört...}
-{120}{}{Elmegyek délre, Rejtekbe, ott sok meló akad.}
-{121}{}{Salvadore, lökj ide még egy gekkópisát!}
-{122}{}{A vadászat nem megy olyan jól mostanában, biztos van könnyebb pénzszerzési lehet?ség is.}
-{123}{}{Nem vagyok annyira bepiálva, mint gondolod.}
-{124}{}{Hé, haver, szerinted ezek cinkelt kockák? (csörög, csörög)}
-{125}{}{Beszélj a Duntonokkal vagy a csapossal, ha munka kell!}
-{126}{}{Jó helyre jöttél piálni, haver!}
-{127}{}{Hé, Bishop, mutasd meg, mit tudsz azzal a késsel!}
-{128}{}{Akar valaki kockázni?}
-{129}{}{Lagalább Aldo nem szennyezi itt a leveg?t.}
-{130}{}{Loptál már brahmint?}
-{131}{}{Légy óvatos a Járkáló Szellemmel!}
+{100}{}{Ez a vendÃ©g tÃ©ged bÃ¡mul.}
+{101}{}{Egy vendÃ©g Ã©pp szÃ¡rÃ­tott hÃºst csÃ³csÃ¡l.}
+{102}{}{Ez a vendÃ©g egy korsÃ³ sÃ¶rrel kÃ¼zd.}
+{103}{}{VendÃ©g.}
+{104}{}{Ez a vendÃ©g elÃ©g Ã¡polatlan, bizonyÃ¡ra prÃ©mvadÃ¡sz.}
+{105}{}{Ez a vendÃ©g elÃ©g kemÃ©nykÃ¶tÃ©s?, biztosan prÃ©mvadÃ¡sz.}
+{106}{}{Egy megviselt vendÃ©g, talÃ¡n prÃ©mvadÃ¡sz, vagy farmer.}
+{107}{}{Ez a kocsmatÃ¶ltelÃ©k jÃ³ er?ben van. TalÃ¡n brahmin-tenyÃ©szt? vagy farmer.}
+{110}{}{KÃ¶zÃ©jÃ¼k illesz.}
+{111}{}{Mi lenne, ha mindekit meghÃ­vnÃ¡l egy kÃ¶rre?}
+{112}{}{Szkanderezel DuntonÃ©kkal?}
+{113}{}{Pont Ãºgy nÃ©zel ki, mintha Rejtekt?l Ã©szakra jÃ¶ttÃ©l volna. }
+{114}{}{Mit nÃ©zel?}
+{115}{}{Neked aztÃ¡n sÃ¶tÃ©t a b?rÃ¶d, Ã©desem. Heh, heh, heh.}
+{116}{}{HÃ¼kk, jÃ³l jÃ¶nne egy Ãºjabb korsÃ³ gekkÃ³pisa.}
+{117}{}{Ha pÃ©nz kell, akkor fordulj a Duntonokhoz.}
+{118}{}{Nem is vagy olyan rossz, ahhoz kÃ©pest, hogy tÃ¶rzsbÃ©li vagy.}
+{119}{}{LÃ¶kd ide a sÃ¶rt...}
+{120}{}{Elmegyek dÃ©lre, Rejtekbe, ott sok melÃ³ akad.}
+{121}{}{Salvadore, lÃ¶kj ide mÃ©g egy gekkÃ³pisÃ¡t!}
+{122}{}{A vadÃ¡szat nem megy olyan jÃ³l mostanÃ¡ban, biztos van kÃ¶nnyebb pÃ©nzszerzÃ©si lehet?sÃ©g is.}
+{123}{}{Nem vagyok annyira bepiÃ¡lva, mint gondolod.}
+{124}{}{HÃ©, haver, szerinted ezek cinkelt kockÃ¡k? (csÃ¶rÃ¶g, csÃ¶rÃ¶g)}
+{125}{}{BeszÃ©lj a Duntonokkal vagy a csapossal, ha munka kell!}
+{126}{}{JÃ³ helyre jÃ¶ttÃ©l piÃ¡lni, haver!}
+{127}{}{HÃ©, Bishop, mutasd meg, mit tudsz azzal a kÃ©ssel!}
+{128}{}{Akar valaki kockÃ¡zni?}
+{129}{}{LagalÃ¡bb Aldo nem szennyezi itt a leveg?t.}
+{130}{}{LoptÃ¡l mÃ¡r brahmint?}
+{131}{}{LÃ©gy Ã³vatos a JÃ¡rkÃ¡lÃ³ Szellemmel!}
 {132}{}{Van egy szellem a kanyonban innen keletre.}
-{133}{}{A vadászat veszélyes. Pár héttel ezel?tt elt?nt az egyik legjobb prémvadászunk.}
-{134}{}{Imádom Torrt ugratni.}
+{133}{}{A vadÃ¡szat veszÃ©lyes. PÃ¡r hÃ©ttel ezel?tt elt?nt az egyik legjobb prÃ©mvadÃ¡szunk.}
+{134}{}{ImÃ¡dom Torrt ugratni.}
 {140}{}{Nicsak, ki van itt!}
-{141}{}{(motyog magában) ...belevaló ember ez... (motyog)}
+{141}{}{(motyog magÃ¡ban) ...belevalÃ³ ember ez... (motyog)}
 {142}{}{Nem gondolod, hogy rossz helyen vagy?}
-{143}{}{Nem kell ide a te fajtád, vadember!}
-{144}{}{Fizess egy kört, akkor talán megengedjük, hogy itt maradj!}
+{143}{}{Nem kell ide a te fajtÃ¡d, vadember!}
+{144}{}{Fizess egy kÃ¶rt, akkor talÃ¡n megengedjÃ¼k, hogy itt maradj!}
 {145}{}{Takarodj, vadember!}
-{146}{}{Mit bámulsz?}
+{146}{}{Mit bÃ¡mulsz?}
 {147}{}{A Duntonok majd helyreraknak!}
-{148}{}{Te aztán a legrosszabb helyet választottad a piálásra!}
-{149}{}{Mama nincs itt, kölyök, nézd meg a Fürd?ben!}
-{150}{}{Miért nem játszol máshol?}
-{151}{}{Nézd meg a kanyot, csak keletre kell menni!}
+{148}{}{Te aztÃ¡n a legrosszabb helyet vÃ¡lasztottad a piÃ¡lÃ¡sra!}
+{149}{}{Mama nincs itt, kÃ¶lyÃ¶k, nÃ©zd meg a FÃ¼rd?ben!}
+{150}{}{MiÃ©rt nem jÃ¡tszol mÃ¡shol?}
+{151}{}{NÃ©zd meg a kanyot, csak keletre kell menni!}
 {152}{}{Mit akarsz?}
-{153}{}{Jobb lesz, ha csak a saját dolgoddal tör?dsz!}
-{154}{}{Torrnak hívnak? (he-he-he)}
-{155}{}{Menj, igyál Aldóval.}
-{156}{}{Ez a hely nem neked való, punk!}
-{157}{}{Nem vagy az ivópajtásom!}
-{158}{}{Hmmm. (a padlóra köp)}
-{159}{}{Te aztán nem vagy egy hej de nagy látványosság...}
-{160}{}{Na, kellemetlenül érzed már magad?}
-{162}{}{Épp id?ben!}
-{163}{}{Köszi.}
+{153}{}{Jobb lesz, ha csak a sajÃ¡t dolgoddal tÃ¶r?dsz!}
+{154}{}{Torrnak hÃ­vnak? (he-he-he)}
+{155}{}{Menj, igyÃ¡l AldÃ³val.}
+{156}{}{Ez a hely nem neked valÃ³, punk!}
+{157}{}{Nem vagy az ivÃ³pajtÃ¡som!}
+{158}{}{Hmmm. (a padlÃ³ra kÃ¶p)}
+{159}{}{Te aztÃ¡n nem vagy egy hej de nagy lÃ¡tvÃ¡nyossÃ¡g...}
+{160}{}{Na, kellemetlenÃ¼l Ã©rzed mÃ¡r magad?}
+{162}{}{Ã‰pp id?ben!}
+{163}{}{KÃ¶szi.}
 {164}{}{Ni!}
 {165}{}{Eki-eki, eki-eki, potang!}
 {166}{}{Kezdek ideges lenni!}
-{167}{}{Nincs is jobb ennél a gekkóhúgynál!}
-{168}{}{Kösz a piát!}
+{167}{}{Nincs is jobb ennÃ©l a gekkÃ³hÃºgynÃ¡l!}
+{168}{}{KÃ¶sz a piÃ¡t!}
 {169}{}{Hinnye!}
-{170}{}{Ti aztán tudjátok, mi az élet.}
-{171}{}{Köszönöm!}
-{172}{}{Piát mindenkinek!}
-{173}{}{Ez már nagyon rámfért, kösz!}
-{174}{}{Ezer köszönet!}
-{175}{}{Inkább egy homloklebenym?tét...}
-{176}{}{Ez aztán a pia!}
+{170}{}{Ti aztÃ¡n tudjÃ¡tok, mi az Ã©let.}
+{171}{}{KÃ¶szÃ¶nÃ¶m!}
+{172}{}{PiÃ¡t mindenkinek!}
+{173}{}{Ez mÃ¡r nagyon rÃ¡mfÃ©rt, kÃ¶sz!}
+{174}{}{Ezer kÃ¶szÃ¶net!}
+{175}{}{InkÃ¡bb egy homloklebenym?tÃ©t...}
+{176}{}{Ez aztÃ¡n a pia!}
 {177}{}{Ez az!}
-{178}{}{Imádom ezt a piát.}
-{179}{}{Te jó ember vagy.}
-{180}{}{Szép lépés.}
+{178}{}{ImÃ¡dom ezt a piÃ¡t.}
+{179}{}{Te jÃ³ ember vagy.}
+{180}{}{SzÃ©p lÃ©pÃ©s.}
 {181}{}{Igen!}

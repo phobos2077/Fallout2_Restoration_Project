@@ -1,1 +1,1 @@
-{100}{}{Tu utilises la totalité du planticide.}
+{100}{}{Tu utilises la totalitÃ© du planticide.}

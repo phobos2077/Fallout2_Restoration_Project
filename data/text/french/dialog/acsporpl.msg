@@ -1,5 +1,5 @@
-{100}{}{Tu vois des plantes aux âmes rongées.}
-{101}{}{Ces plantes ne sont pas uniquement néfastes pour le jardin. Elles s'attaquent aussi aux humains et aux autres créatures.}
-{102}{}{Ces plantes aux âmes rongées viennent d'une étrange mutation. Il est peu probable que leurs transformations soient naturelles.}
+{100}{}{Tu vois des plantes aux Ã¢mes rongÃ©es.}
+{101}{}{Ces plantes ne sont pas uniquement nÃ©fastes pour le jardin. Elles s'attaquent aussi aux humains et aux autres crÃ©atures.}
+{102}{}{Ces plantes aux Ã¢mes rongÃ©es viennent d'une Ã©trange mutation. Il est peu probable que leurs transformations soient naturelles.}
 {103}{}{Tu ne remarques rien de plus au sujet de ces plantes, hormis le fait qu'elles attaquent les humains.}
-{150}{}{Tu as débarrassé le jardin de toutes les plantes aux âmes rongées.}
+{150}{}{Tu as dÃ©barrassÃ© le jardin de toutes les plantes aux Ã¢mes rongÃ©es.}

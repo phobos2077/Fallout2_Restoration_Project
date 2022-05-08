@@ -1,89 +1,89 @@
 {100}{}{Ves una planta espora.}
 {101}{}{Ves a Seymour, la planta espora.}
 {102}{}{Ves una planta espora que de alguna manera irradia un aura de inteligencia.}
-{103}{}{¡Hola! Hace un buen día, ¿eh?}
-{104}{}{¿Hablas tú?}
-{105}{}{¿Rrr?}
-{106}{}{Perdón, pero ¿es ésta la planta que está hablando?}
-{107}{}{¿Estás relacionada con ese científico de alguna forma?}
-{108}{}{Adiós.}
-{109}{}{Sí, hablo. Mejor que la mayoría de la gente, por lo que parece. Te ofrecería una sonrisa ahora mismo, pero resulta que no tengo boca. [ríe] Oye, ¿puedes hacerme un gran favor?}
+{103}{}{Â¡Hola! Hace un buen dÃ­a, Â¿eh?}
+{104}{}{Â¿Hablas tÃº?}
+{105}{}{Â¿Rrr?}
+{106}{}{PerdÃ³n, pero Â¿es Ã©sta la planta que estÃ¡ hablando?}
+{107}{}{Â¿EstÃ¡s relacionada con ese cientÃ­fico de alguna forma?}
+{108}{}{AdiÃ³s.}
+{109}{}{SÃ­, hablo. Mejor que la mayorÃ­a de la gente, por lo que parece. Te ofrecerÃ­a una sonrisa ahora mismo, pero resulta que no tengo boca. [rÃ­e] Oye, Â¿puedes hacerme un gran favor?}
 {110}{}{S-si.}
 {111}{}{No.}
-{112}{}{Estoy en busca de un mejor lugar para estar. Aquí es lindo y todo, pero, francamente, estas plantas no son mucho para la conversación. Yo estaba pensando más allá, por el edificio con todos los ghouls en ella... ¿te replantar mí?}
-{113}{}{¡S-sí!}
-{114}{}{¡No!}
+{112}{}{Estoy en busca de un mejor lugar para estar. AquÃ­ es lindo y todo, pero, francamente, estas plantas no son mucho para la conversaciÃ³n. Yo estaba pensando mÃ¡s allÃ¡, por el edificio con todos los ghouls en ella... Â¿te replantar mÃ­?}
+{113}{}{Â¡S-sÃ­!}
+{114}{}{Â¡No!}
 {115}{}{Claro.}
 {116}{}{Creo que no.}
-{117}{}{¡Genial! Todo lo que tienes que hacer es encontrar una pala, desenraizarme, y plantarme por allí. Cuando lo hagas, te contaré un secreto.}
-{118}{}{¡De acuerdo!}
+{117}{}{Â¡Genial! Todo lo que tienes que hacer es encontrar una pala, desenraizarme, y plantarme por allÃ­. Cuando lo hagas, te contarÃ© un secreto.}
+{118}{}{Â¡De acuerdo!}
 {119}{}{Noh oh.}
-{120}{}{De acuerdo. Bien, um... te estaré esperando aquí. Tampoco es que tenga elección, claro. ¡Hasta luego!}
-{121}{}{¡Adioooos!}
-{122}{}{Si por un casual cambias de opinión, ya sabes dónde encontrarme. He echado raíces aquí. ¡Ja ja ja! Sólo es un poco de humor de planta. Oh, no te retengo más. ¡Hasta luego!}
-{123}{}{Adiós.}
-{124}{}{¡Bien dicho, bien dicho! Qué agradable es ver a un homo sapiens usar su cerebro en toda su extensión. Mi querido amigo, ¿estarías dispuesto a hacerme un favor?}
+{120}{}{De acuerdo. Bien, um... te estarÃ© esperando aquÃ­. Tampoco es que tenga elecciÃ³n, claro. Â¡Hasta luego!}
+{121}{}{Â¡Adioooos!}
+{122}{}{Si por un casual cambias de opiniÃ³n, ya sabes dÃ³nde encontrarme. He echado raÃ­ces aquÃ­. Â¡Ja ja ja! SÃ³lo es un poco de humor de planta. Oh, no te retengo mÃ¡s. Â¡Hasta luego!}
+{123}{}{AdiÃ³s.}
+{124}{}{Â¡Bien dicho, bien dicho! QuÃ© agradable es ver a un homo sapiens usar su cerebro en toda su extensiÃ³n. Mi querido amigo, Â¿estarÃ­as dispuesto a hacerme un favor?}
 {125}{}{S-si.}
-{126}{}{¡No!}
-{127}{}{¡Pero claro! ¡Sí, así es! Muy astuto, amigo, muy astuto. ¡Ya veo que no has germinado ayer! Mi bien plantado compañero, ¿estarías dispuesto a hacerme un favor?}
+{126}{}{Â¡No!}
+{127}{}{Â¡Pero claro! Â¡SÃ­, asÃ­ es! Muy astuto, amigo, muy astuto. Â¡Ya veo que no has germinado ayer! Mi bien plantado compaÃ±ero, Â¿estarÃ­as dispuesto a hacerme un favor?}
 {128}{}{Claro.}
 {129}{}{Creo que no.}
-{130}{}{¡Eeen-cantador! Estoy muy, muy contento. Sólo tienes que encontrar una pala y regresar. Cuando lo hayas hecho, quizá te pueda contar un secreto. Amigo mío, espero que sigas floreciendo.}
+{130}{}{Â¡Eeen-cantador! Estoy muy, muy contento. SÃ³lo tienes que encontrar una pala y regresar. Cuando lo hayas hecho, quizÃ¡ te pueda contar un secreto. Amigo mÃ­o, espero que sigas floreciendo.}
 {131}{}{Um, de acuerdo. Hasta luego.}
-{132}{}{He cambiado de opinión.}
-{133}{}{Ah, sí, el Profesor. Él creció para mí a partir de una pequeña espora y se nutre de mí... pero me di cuenta de que desde una edad temprana que si yo fuera a actuar tan inteligente como yo realmente
- soy, él me había cortado en pedazos para examinar mí. Por lo tanto, tocaba tonto y tengo plantado aquí. Es bueno... pero me gustaría ampliar un poco.
- Sabes, tal vez obtener plantado en algún otro lugar...}
+{132}{}{He cambiado de opiniÃ³n.}
+{133}{}{Ah, sÃ­, el Profesor. Ã‰l creciÃ³ para mÃ­ a partir de una pequeÃ±a espora y se nutre de mÃ­... pero me di cuenta de que desde una edad temprana que si yo fuera a actuar tan inteligente como yo realmente
+ soy, Ã©l me habÃ­a cortado en pedazos para examinar mÃ­. Por lo tanto, tocaba tonto y tengo plantado aquÃ­. Es bueno... pero me gustarÃ­a ampliar un poco.
+ Sabes, tal vez obtener plantado en algÃºn otro lugar...}
 {134}{}{"Extenderte". Desde luego.}
-{135}{}{De acuerdo. ¿Qué quieres?}
-{136}{}{Uh... huh. He de irme. Adiós.}
-{137}{}{¿Así que aún tiene el escorpión? Esa cosa es un apreciable jugador de ajedrez... tiene mucha corteza y le encanta morder,
- si sabes a qué me refiero... pero sé cómo ganarle. Si me haces un favor, te diré cómo.}
-{138}{}{¿En serio? ¿Cómo?}
-{139}{}{Eso es fascinante. Una planta jugadora de ajedrez. Qué prosaico. Adiós.}
-{140}{}{Mi buen amigo, si me replantases cerca de ese hogar de los necrófagos de ahí, me encantaría ofrecerte mi profundamente enraizado conocimiento del ajedrez.}
+{135}{}{De acuerdo. Â¿QuÃ© quieres?}
+{136}{}{Uh... huh. He de irme. AdiÃ³s.}
+{137}{}{Â¿AsÃ­ que aÃºn tiene el escorpiÃ³n? Esa cosa es un apreciable jugador de ajedrez... tiene mucha corteza y le encanta morder,
+ si sabes a quÃ© me refiero... pero sÃ© cÃ³mo ganarle. Si me haces un favor, te dirÃ© cÃ³mo.}
+{138}{}{Â¿En serio? Â¿CÃ³mo?}
+{139}{}{Eso es fascinante. Una planta jugadora de ajedrez. QuÃ© prosaico. AdiÃ³s.}
+{140}{}{Mi buen amigo, si me replantases cerca de ese hogar de los necrÃ³fagos de ahÃ­, me encantarÃ­a ofrecerte mi profundamente enraizado conocimiento del ajedrez.}
 {141}{}{Es un trato.}
-{142}{}{No, gracias. Me ocuparé de ese escorpión por mí mismo.}
-{143}{}{Ahh, amigo mío, has vuelto. Este es un lugar realmente espléndido. La sombra es perfecta, y la compañía simplemente deslumbrante. ¡Ese Typhon, menudo bromista! ¡Hace que mi savia intelectual realmente fluya!}
-{144}{}{¿Aje-drez?}
-{145}{}{¿Qué era eso que mencionaste sobre el ajedrez?}
-{146}{}{Adiós.}
-{147}{}{Bueno, era sobre cómo vencer al ajedrez al escorpión del Profesor. Amigo mío, es la simplicidad en sí misma.
- La apertura Fegatello es como una trampa para moscas para ese bicho: camina recto hacia ella y no puede librarse. Te garantizo el éxito.}
-{148}{}{¡G-gracias! ¡Adiós!}
-{149}{}{¡Agradezco la información! ¡Adiós!}
-{150}{}{¡Amigo mío! ¿Brilla el sol sobre ti? ¿Cómo florece tu día? ¿Listo para moverte? ¡Yo desde luego lo estoy!}
-{151}{}{¡S-sí!}
-{152}{}{¡N-no! ¡No mueves!}
+{142}{}{No, gracias. Me ocuparÃ© de ese escorpiÃ³n por mÃ­ mismo.}
+{143}{}{Ahh, amigo mÃ­o, has vuelto. Este es un lugar realmente esplÃ©ndido. La sombra es perfecta, y la compaÃ±Ã­a simplemente deslumbrante. Â¡Ese Typhon, menudo bromista! Â¡Hace que mi savia intelectual realmente fluya!}
+{144}{}{Â¿Aje-drez?}
+{145}{}{Â¿QuÃ© era eso que mencionaste sobre el ajedrez?}
+{146}{}{AdiÃ³s.}
+{147}{}{Bueno, era sobre cÃ³mo vencer al ajedrez al escorpiÃ³n del Profesor. Amigo mÃ­o, es la simplicidad en sÃ­ misma.
+ La apertura Fegatello es como una trampa para moscas para ese bicho: camina recto hacia ella y no puede librarse. Te garantizo el Ã©xito.}
+{148}{}{Â¡G-gracias! Â¡AdiÃ³s!}
+{149}{}{Â¡Agradezco la informaciÃ³n! Â¡AdiÃ³s!}
+{150}{}{Â¡Amigo mÃ­o! Â¿Brilla el sol sobre ti? Â¿CÃ³mo florece tu dÃ­a? Â¿Listo para moverte? Â¡Yo desde luego lo estoy!}
+{151}{}{Â¡S-sÃ­!}
+{152}{}{Â¡N-no! Â¡No mueves!}
 {153}{}{Vamos.}
-{154}{}{He cambiado de opinión. No quiero ayudarte.}
-{155}{}{¡Estoy tan excitado que podría liberar una nube de esporas sobre mí mismo! ¡Adelante!}
+{154}{}{He cambiado de opiniÃ³n. No quiero ayudarte.}
+{155}{}{Â¡Estoy tan excitado que podrÃ­a liberar una nube de esporas sobre mÃ­ mismo! Â¡Adelante!}
 {156}{}{-hecho-}
-{157}{}{Eso es una lástima, una auténtica lástima. Espero que en algún momento cambies de opinión. Quizá el polen de tu
- indecisión volará hacia mí de nuevo. Buenos días.}
+{157}{}{Eso es una lÃ¡stima, una autÃ©ntica lÃ¡stima. Espero que en algÃºn momento cambies de opiniÃ³n. QuizÃ¡ el polen de tu
+ indecisiÃ³n volarÃ¡ hacia mÃ­ de nuevo. Buenos dÃ­as.}
 {158}{}{Uh.}
-{159}{}{Buenos días, por cierto.}
-{160}{}{Oooh... el suelo aquí es tan... diferente. Más limpio, de algún modo. Probablemente porque no tengo que compartirlo con
- aquellas otras plantas. Ahhh. ¡Oh! ¡Sí! Si alguna vez te encuentras con el Profesor y su escorpión, recuerda esta maniobra
- de ajedrez: se llama apertura Fegatello, y el escorpión no puede romperla.}
-{161}{}{¡G-gracias!}
-{162}{}{Gracias. Lo probaré. ¡Adiós!}
-{163}{}{También me gustaría decirte que resulta que me he enterado de que el necrófago Typhon, que está dentro de este edificio, conoce el paradero
- de un tesoro oculto. Tal vez pueda serte útil algún día.}
-{164}{}{¡G-racias! ¡Adioos!}
-{165}{}{¿Has tenido tiempo de reconsiderarlo? ¿Te gustaría ayudarme?}
-{166}{}{¡S-sí!}
-{167}{}{¡No!}
+{159}{}{Buenos dÃ­as, por cierto.}
+{160}{}{Oooh... el suelo aquÃ­ es tan... diferente. MÃ¡s limpio, de algÃºn modo. Probablemente porque no tengo que compartirlo con
+ aquellas otras plantas. Ahhh. Â¡Oh! Â¡SÃ­! Si alguna vez te encuentras con el Profesor y su escorpiÃ³n, recuerda esta maniobra
+ de ajedrez: se llama apertura Fegatello, y el escorpiÃ³n no puede romperla.}
+{161}{}{Â¡G-gracias!}
+{162}{}{Gracias. Lo probarÃ©. Â¡AdiÃ³s!}
+{163}{}{TambiÃ©n me gustarÃ­a decirte que resulta que me he enterado de que el necrÃ³fago Typhon, que estÃ¡ dentro de este edificio, conoce el paradero
+ de un tesoro oculto. Tal vez pueda serte Ãºtil algÃºn dÃ­a.}
+{164}{}{Â¡G-racias! Â¡Adioos!}
+{165}{}{Â¿Has tenido tiempo de reconsiderarlo? Â¿Te gustarÃ­a ayudarme?}
+{166}{}{Â¡S-sÃ­!}
+{167}{}{Â¡No!}
 {168}{}{Claro.}
 {169}{}{Creo que no.}
 {170}{}{Por desgracia, no parece que tengas una pala. Hasta que puedas encontrar una, no puedo irme. Espero tu regreso con el pistilo en vilo.}
-{171}{}{Adiós.}
-{172}{}{¡Psst! ¡Oye! ¡Oye, colega! ¡Por aquí!}
-{173}{}{¡Venga! Te prometo que no te haré daño.}
-{174}{}{Vamos. ¿Te asusta una planta?}
-{175}{}{¡Por aquí! ¡Al grano!}
-{176}{}{Sí, soy una planta parlante. Ven aquí y hablar conmigo.}
+{171}{}{AdiÃ³s.}
+{172}{}{Â¡Psst! Â¡Oye! Â¡Oye, colega! Â¡Por aquÃ­!}
+{173}{}{Â¡Venga! Te prometo que no te harÃ© daÃ±o.}
+{174}{}{Vamos. Â¿Te asusta una planta?}
+{175}{}{Â¡Por aquÃ­! Â¡Al grano!}
+{176}{}{SÃ­, soy una planta parlante. Ven aquÃ­ y hablar conmigo.}
 {177}{}{Caramba, amigo. No empieces a cavar ya. Primero tenemos que preparar la estrategia del movimiento. Vamos a hablarlo.}
-{178}{}{Has replantado a Seymour en el hogar de los necrófagos.}
-{179}{}{¡Esto es pala! ¡Ahora planto!}
-{180}{}{Resulta que tengo una pala justo aquí. Vamos.}
+{178}{}{Has replantado a Seymour en el hogar de los necrÃ³fagos.}
+{179}{}{Â¡Esto es pala! Â¡Ahora planto!}
+{180}{}{Resulta que tengo una pala justo aquÃ­. Vamos.}

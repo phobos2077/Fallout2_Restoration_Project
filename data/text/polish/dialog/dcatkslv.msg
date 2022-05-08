@@ -1,38 +1,38 @@
-{100}{}{Mê¿czyzna czujnie rozgl¹da siê po okolicy.}
-{101}{}{Mimo swoich rozmiarów zdaje siê byæ niebezpieczna.}
-{200}{}{Chyba jest wœciek³y.}
-{201}{}{Wygl¹da na niez³ego osi³ka.}
-{202}{}{Porusza siê szybko i zwinnie.}
-{210}{}{Chyba nigdy w ¿yciu siê nie my³a.}
-{211}{}{Wygl¹da na groŸnego przeciwnika.}
-{212}{}{Ta nie powinna sprawiaæ k³opotów.}
+{100}{}{MÄ™Å¼czyzna czujnie rozglÄ…da siÄ™ po okolicy.}
+{101}{}{Mimo swoich rozmiarÃ³w zdaje siÄ™ byÄ‡ niebezpieczna.}
+{200}{}{Chyba jest wÅ›ciekÅ‚y.}
+{201}{}{WyglÄ…da na niezÅ‚ego osiÅ‚ka.}
+{202}{}{Porusza siÄ™ szybko i zwinnie.}
+{210}{}{Chyba nigdy w Å¼yciu siÄ™ nie myÅ‚a.}
+{211}{}{WyglÄ…da na groÅºnego przeciwnika.}
+{212}{}{Ta nie powinna sprawiaÄ‡ kÅ‚opotÃ³w.}
 {245}{}{Cicho! Oni blisko.}
-{246}{}{Zabiæ bandziora!}
+{246}{}{ZabiÄ‡ bandziora!}
 {247}{}{Nie oddam rodziny.}
-{248}{}{Broniæ rodziny.}
-{249}{}{Nie mog¹ nas znaleŸæ.}
-{250}{}{Oni Ÿli ludzie.}
-{260}{}{£owcy niewolników! B¹dŸcie cicho.}
-{261}{}{Przygotujcie siê. S¹ ju¿ blisko.}
-{262}{}{Nie poddam siê bez walki.}
-{263}{}{Nie wezm¹ nas ¿ywych.}
-{264}{}{Po¿a³uj¹, ¿e tu przyszli.}
-{265}{}{Nie pozwolê skrzywdziæ mojej rodziny.}
-{300}{}{Giñ!}
-{301}{}{Zabijê!}
-{302}{}{Nie krzywdziæ rodziny!}
-{303}{}{Nie z³apaæ rodziny!}
-{304}{}{Broniæ!}
-{305}{}{Biæ!}
-{306}{}{Zap³acisz!}
-{307}{}{Giñ!}
-{308}{}{Zat³ukê ciê.}
-{350}{}{Nie pozwolê ci skrzywdziæ mojej rodziny!}
-{351}{}{Giñ przeklêty £owco!}
-{352}{}{Zap³acisz mi za to!}
-{353}{}{Prêdzej zdechnê, ni¿ pozwolê ci skrzywdziæ moich bliskich!}
+{248}{}{BroniÄ‡ rodziny.}
+{249}{}{Nie mogÄ… nas znaleÅºÄ‡.}
+{250}{}{Oni Åºli ludzie.}
+{260}{}{Åowcy niewolnikÃ³w! BÄ…dÅºcie cicho.}
+{261}{}{Przygotujcie siÄ™. SÄ… juÅ¼ blisko.}
+{262}{}{Nie poddam siÄ™ bez walki.}
+{263}{}{Nie wezmÄ… nas Å¼ywych.}
+{264}{}{PoÅ¼aÅ‚ujÄ…, Å¼e tu przyszli.}
+{265}{}{Nie pozwolÄ™ skrzywdziÄ‡ mojej rodziny.}
+{300}{}{GiÅ„!}
+{301}{}{ZabijÄ™!}
+{302}{}{Nie krzywdziÄ‡ rodziny!}
+{303}{}{Nie zÅ‚apaÄ‡ rodziny!}
+{304}{}{BroniÄ‡!}
+{305}{}{BiÄ‡!}
+{306}{}{ZapÅ‚acisz!}
+{307}{}{GiÅ„!}
+{308}{}{ZatÅ‚ukÄ™ ciÄ™.}
+{350}{}{Nie pozwolÄ™ ci skrzywdziÄ‡ mojej rodziny!}
+{351}{}{GiÅ„ przeklÄ™ty Åowco!}
+{352}{}{ZapÅ‚acisz mi za to!}
+{353}{}{PrÄ™dzej zdechnÄ™, niÅ¼ pozwolÄ™ ci skrzywdziÄ‡ moich bliskich!}
 {354}{}{Nie ujdzie ci to na sucho!}
-{355}{}{Nie pozwolê krzywdziæ moich przyjació³!}
-{356}{}{Jeszcze mi za to zap³acisz!}
-{357}{}{Niech szlag wszystkich £owców!}
-{358}{}{Nie darujê ci tego!}
+{355}{}{Nie pozwolÄ™ krzywdziÄ‡ moich przyjaciÃ³Å‚!}
+{356}{}{Jeszcze mi za to zapÅ‚acisz!}
+{357}{}{Niech szlag wszystkich ÅowcÃ³w!}
+{358}{}{Nie darujÄ™ ci tego!}

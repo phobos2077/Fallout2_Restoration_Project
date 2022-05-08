@@ -1,2 +1,2 @@
-{100}{}{Nast¹pi³o t¹pniêcie.}
-{101}{}{Eksplozja systemu uzdatniania powietrza spowodowa³a zawalenie siê ca³ej kopalni.}
+{100}{}{NastÄ…piÅ‚o tÄ…pniÄ™cie.}
+{101}{}{Eksplozja systemu uzdatniania powietrza spowodowaÅ‚a zawalenie siÄ™ caÅ‚ej kopalni.}

@@ -5,7 +5,7 @@
 {104}{}{TERMINER}
 {105}{}{ANNULER}
 {106}{}{Erreur au chargement de la liste des sauvegardes !}
-{107}{}{Répertoire des sauvegardes : }
+{107}{}{RÃ©pertoire des sauvegardes : }
 {108}{}{Inexistant ou corrompu}
 {109}{}{SAUVEGARDER}
 {110}{}{CHARGER JEU}
@@ -29,14 +29,14 @@
 {128}{}{DEC}
 {129}{}{Niveau}
 {130}{}{DESCRIPTION}
-{131}{}{Ecraser la sauvegarde précédente ?}
-{132}{}{Erreur à la sauvegarde du jeu !}
+{131}{}{Ecraser la sauvegarde prÃ©cÃ©dente ?}
+{132}{}{Erreur Ã  la sauvegarde du jeu !}
 {133}{}{Impossible de sauvegarder le jeu.}
 {134}{}{Erreur au chargement du jeu !}
 {135}{}{Impossible de charger le jeu.}
 {136}{}{La sauvegarde est une version plus ancienne.}
 {137}{}{Carte}
-{140}{}{Jeu sauvegardé}
-{141}{}{Jeu chargé}
+{140}{}{Jeu sauvegardÃ©}
+{141}{}{Jeu chargÃ©}
 {200}{}{L'enregistrement et le chargement sont }
-{201}{}{impossibles dans la version de démo.}
+{201}{}{impossibles dans la version de dÃ©mo.}

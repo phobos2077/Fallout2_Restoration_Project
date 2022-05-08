@@ -1,68 +1,68 @@
-{100}{}{Tu vois une crapule à l'air sympa.}
+{100}{}{Tu vois une crapule Ã  l'air sympa.}
 {101}{}{Tu vois Marc.}
-{102}{}{Tu vois une crapule à l'air sympa.}
-{103}{}{Enfant de salaud ! Comment as-tu pu nous faire ça ?}
+{102}{}{Tu vois une crapule Ã  l'air sympa.}
+{103}{}{Enfant de salaud ! Comment as-tu pu nous faire Ã§a ?}
 {104}{}{Salut !}
 {105}{}{Que puis-je faire pour toi ?}
 {106}{}{Oh ! Ah ! Oh !}
 {107}{}{Qui es-tu ?}
-{108}{}{Où suis-je ici ?}
+{108}{}{OÃ¹ suis-je ici ?}
 {109}{}{Qui est le responsable ici ?}
 {110}{}{Rien. Salut.}
-{111}{}{Hum. Je regrette, j'peux rien faire pour toi. Tu devrais peut-être demander à quelqu'un d'autre.}
+{111}{}{Hum. Je regrette, j'peux rien faire pour toi. Tu devrais peut-Ãªtre demander Ã  quelqu'un d'autre.}
 {112}{}{Anks ?}
-{113}{}{Je m'appelle Marc. Je suis très intelligent et je connais tout. [Il sourit.]}
+{113}{}{Je m'appelle Marc. Je suis trÃ¨s intelligent et je connais tout. [Il sourit.]}
 {114}{}{Oh ! J'ai d'autres questions.}
 {115}{}{Salut.}
-{116}{}{Tu es sur le Vaisseau de Marine Poséidon Valdez, aussi appelé PMV Valdez. Si tu veux d'autres informations sur le Valdez, le Capitaine est le mieux placé pour te répondre.}
-{117}{}{Le Capitaine ? Qui c'est ça ?}
+{116}{}{Tu es sur le Vaisseau de Marine PosÃ©idon Valdez, aussi appelÃ© PMV Valdez. Si tu veux d'autres informations sur le Valdez, le Capitaine est le mieux placÃ© pour te rÃ©pondre.}
+{117}{}{Le Capitaine ? Qui c'est Ã§a ?}
 {118}{}{J'ai d'autres questions.}
 {119}{}{Salut.}
 {120}{}{Responsable ? Personne n'est responsable de nous.}
-{121}{}{D'où venez-vous tous ?}
-{122}{}{J'ai d'autres questions à te poser, alors.}
+{121}{}{D'oÃ¹ venez-vous tous ?}
+{122}{}{J'ai d'autres questions Ã  te poser, alors.}
 {123}{}{Salut.}
-{124}{}{Le Capitaine est un ancien militaire. Il est là-haut d'où il surveille tout. Il en connaît un rayon sur ce navire.}
+{124}{}{Le Capitaine est un ancien militaire. Il est lÃ -haut d'oÃ¹ il surveille tout. Il en connaÃ®t un rayon sur ce navire.}
 {125}{}{Merci. J'ai d'autres questions.}
 {126}{}{Merci. Au revoir.}
-{127}{}{Oh, d'un peu partout. On a entendu parler de San Francisco, par nos ancêtres. Parmi nous, certains ont des ancêtres qui vivaient ici avant la grande guerre. Tu veux en savoir plus ?}
+{127}{}{Oh, d'un peu partout. On a entendu parler de San Francisco, par nos ancÃªtres. Parmi nous, certains ont des ancÃªtres qui vivaient ici avant la grande guerre. Tu veux en savoir plus ?}
 {128}{}{Oui.}
 {129}{}{Non, mais je voulais te demander autre chose.}
 {130}{}{Non, c'est bon.}
-{131}{}{On est musiciens, techniciens, crétins et artistes. On a voulu revenir dans un endroit célèbre pour sa liberté artistique et personnelle. Je suis venu ici pour ma progéniture. Tu veux en savoir plus ?}
+{131}{}{On est musiciens, techniciens, crÃ©tins et artistes. On a voulu revenir dans un endroit cÃ©lÃ¨bre pour sa libertÃ© artistique et personnelle. Je suis venu ici pour ma progÃ©niture. Tu veux en savoir plus ?}
 {132}{}{Oui.}
 {133}{}{Non, mais je voulais te demander autre chose.}
 {134}{}{Non, c'est bon.}
-{135}{}{Eh bien, lorsque nous sommes arrivés ici, nous nous sommes installés dans ce pétrolier en attendant qu'on arrive à le remettre en marche ou que nous trouvions une meilleure idée.}
-{136}{}{Avez-vous trouvé comment il faut faire pour faire marcher le pétrolier ?}
+{135}{}{Eh bien, lorsque nous sommes arrivÃ©s ici, nous nous sommes installÃ©s dans ce pÃ©trolier en attendant qu'on arrive Ã  le remettre en marche ou que nous trouvions une meilleure idÃ©e.}
+{136}{}{Avez-vous trouvÃ© comment il faut faire pour faire marcher le pÃ©trolier ?}
 {137}{}{Parle-moi des Hubologistes.}
 {138}{}{Parle-moi des Shis.}
 {139}{}{J'ai d'autres questions.}
 {140}{}{Merci. Au revoir.}
-{141}{}{A mon avis le Capitaine sait comment faire, mais on a d'abord besoin de certains trucs. A vrai dire, on a abandonné l'idée de nous l'octroyer, on a d'autres projets.}
+{141}{}{A mon avis le Capitaine sait comment faire, mais on a d'abord besoin de certains trucs. A vrai dire, on a abandonnÃ© l'idÃ©e de nous l'octroyer, on a d'autres projets.}
 {142}{}{Quels sont-ils ?}
-{143}{}{Où puis-je trouver le Capitaine ?}
+{143}{}{OÃ¹ puis-je trouver le Capitaine ?}
 {144}{}{Je voulais te demander autre chose.}
 {145}{}{Salut.}
-{146}{}{Ils sont fous. Ne leur fais pas confiance, sauf si tu es mentalement faible ou que tu aimes te faire arnaquer. Ils ne s'intéressent qu'à ton argent et à ton âme, qu'ils n'hésitent d'ailleurs pas à détruire pour arriver à leurs fins. Je l'ai trop souvent constaté.}
-{147}{}{Pouvez-vous le déplacer ce pétrolier ?}
+{146}{}{Ils sont fous. Ne leur fais pas confiance, sauf si tu es mentalement faible ou que tu aimes te faire arnaquer. Ils ne s'intÃ©ressent qu'Ã  ton argent et Ã  ton Ã¢me, qu'ils n'hÃ©sitent d'ailleurs pas Ã  dÃ©truire pour arriver Ã  leurs fins. Je l'ai trop souvent constatÃ©.}
+{147}{}{Pouvez-vous le dÃ©placer ce pÃ©trolier ?}
 {148}{}{Parle-moi des Shis.}
 {149}{}{J'ai d'autres questions.}
 {150}{}{Salut.}
-{151}{}{Ils ne sont pas désagréables. Ils se méfient un peu des étrangers, mais ce n'est peut-être pas un tort à notre époque. Ils ont d'étranges coutumes et ils parlent bizarrement, mais à part ça, ça va.}
-{152}{}{Pouvez-vous le déplacer ce pétrolier ?}
+{151}{}{Ils ne sont pas dÃ©sagrÃ©ables. Ils se mÃ©fient un peu des Ã©trangers, mais ce n'est peut-Ãªtre pas un tort Ã  notre Ã©poque. Ils ont d'Ã©tranges coutumes et ils parlent bizarrement, mais Ã  part Ã§a, Ã§a va.}
+{152}{}{Pouvez-vous le dÃ©placer ce pÃ©trolier ?}
 {153}{}{Parle-moi des Hubologistes.}
 {154}{}{J'ai d'autres questions.}
 {155}{}{Salut.}
-{156}{}{Tu veux en savoir plus sur nos projets ? Eh bien, on va continuer à se déplacer jusqu'à ce qu'on trouve un endroit qui n'ait pas été touché par l'avidité humaine et on essaiera d'y fonder une société meilleure.}
+{156}{}{Tu veux en savoir plus sur nos projets ? Eh bien, on va continuer Ã  se dÃ©placer jusqu'Ã  ce qu'on trouve un endroit qui n'ait pas Ã©tÃ© touchÃ© par l'aviditÃ© humaine et on essaiera d'y fonder une sociÃ©tÃ© meilleure.}
 {157}{}{Et comment allez-vous vous y prendre ?}
 {158}{}{J'ai d'autres questions.}
 {159}{}{Merci. Au revoir.}
-{160}{}{On espère qu'en évitant les erreurs de la société, les choses ne pourront pas être pires.}
-{161}{}{Pouvez-vous le déplacer ce pétrolier ?}
+{160}{}{On espÃ¨re qu'en Ã©vitant les erreurs de la sociÃ©tÃ©, les choses ne pourront pas Ãªtre pires.}
+{161}{}{Pouvez-vous le dÃ©placer ce pÃ©trolier ?}
 {162}{}{Parle-moi des Hubologistes.}
 {163}{}{Parle-moi des Shis.}
 {164}{}{J'ai d'autres questions.}
 {165}{}{Merci. Au revoir.}
 {166}{}{T'aurais pas vu la copine de Badger dans le coin ?}
-{167}{}{Je crois l'avoir vue descendre là-dessous. Il y a un trou dans la partie Nord de ce pont.}
+{167}{}{Je crois l'avoir vue descendre lÃ -dessous. Il y a un trou dans la partie Nord de ce pont.}

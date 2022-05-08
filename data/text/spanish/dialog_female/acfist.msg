@@ -1,34 +1,34 @@
 {100}{}{Ves a Lucas.}
 {101}{}{Lucas es el jefe de los guerreros de tu tribu.}
-{102}{}{Así que estás aquí, Elegida. ¡Hmmmph! ¿Cómo va la búsqueda?}
+{102}{}{AsÃ­ que estÃ¡s aquÃ­, Elegida. Â¡Hmmmph! Â¿CÃ³mo va la bÃºsqueda?}
 {103}{}{Bastante bien.}
 {104}{}{No muy bien.}
-{105}{}{¡¿Ugh?!}
+{105}{}{Â¡Â¿Ugh?!}
 {106}{}{Debo volver a ella.}
-{107}{}{Quizá necesites la ayuda de un guerrero.}
-{108}{}{De acuerdo. ¿En qué puedes ayudarme?}
-{109}{}{No. Me está yendo bien.}
-{110}{}{Buena respuesta, idiota. Ahora cállate mientras practico.}
+{107}{}{QuizÃ¡ necesites la ayuda de un guerrero.}
+{108}{}{De acuerdo. Â¿En quÃ© puedes ayudarme?}
+{109}{}{No. Me estÃ¡ yendo bien.}
+{110}{}{Buena respuesta, idiota. Ahora cÃ¡llate mientras practico.}
 {111}{}{Va-le.}
-{112}{}{Sé cómo luchar sin usar armas. ¿Crees que podrías aprender a hacerlo?}
-{113}{}{¿Qué puedes enseñarme?}
+{112}{}{SÃ© cÃ³mo luchar sin usar armas. Â¿Crees que podrÃ­as aprender a hacerlo?}
+{113}{}{Â¿QuÃ© puedes enseÃ±arme?}
 {114}{}{Que los vientos te sean favorables, Elegida.}
-{115}{}{Adiós.}
-{116}{}{Hmmm... pasemos un día practicando juntos y te enseñaré cómo pegar más fuerte.}
+{115}{}{AdiÃ³s.}
+{116}{}{Hmmm... pasemos un dÃ­a practicando juntos y te enseÃ±arÃ© cÃ³mo pegar mÃ¡s fuerte.}
 {117}{}{De acuerdo, vamos a hacerlo.}
 {118}{}{Lo siento, ahora mismo no tengo tiempo.}
-{119}{}{Te he enseñado todo lo que sé, Elegida. Buena suerte en tu búsqueda.}
+{119}{}{Te he enseÃ±ado todo lo que sÃ©, Elegida. Buena suerte en tu bÃºsqueda.}
 {120}{}{Oh, vale.}
-{121}{}{¡Ja! Elegida, no eres lo suficientemente hábil como para que pueda enseñarte nada.}
+{121}{}{Â¡Ja! Elegida, no eres lo suficientemente hÃ¡bil como para que pueda enseÃ±arte nada.}
 {122}{}{Oh, vale.}
-{123}{}{No eres lo suficientemente ágil en combate como para que mi entrenamiento te sirva de algo, Elegida.}
+{123}{}{No eres lo suficientemente Ã¡gil en combate como para que mi entrenamiento te sirva de algo, Elegida.}
 {124}{}{Oh, vale.}
-{125}{}{Necesitas aprender más cosas sobre combatir antes de que pueda ayudarte, hermanita.}
+{125}{}{Necesitas aprender mÃ¡s cosas sobre combatir antes de que pueda ayudarte, hermanita.}
 {126}{}{Oh, vale.}
-{127}{}{Puedo enseñarte cómo dar patadas más fuertes, pero nos llevará todo un día.}
+{127}{}{Puedo enseÃ±arte cÃ³mo dar patadas mÃ¡s fuertes, pero nos llevarÃ¡ todo un dÃ­a.}
 {128}{}{Vale.}
-{129}{}{Puedo enseñarte a pelear mejor, pero nos llevará todo un día.}
+{129}{}{Puedo enseÃ±arte a pelear mejor, pero nos llevarÃ¡ todo un dÃ­a.}
 {130}{}{Vale.}
 {131}{}{Has aprendido bien, Elegida. Que los vientos te sean favorables.}
 {132}{}{Gracias por tu ayuda.}
-{133}{}{Te he enseñado todo lo que sé, Elegida. Buena suerte en tu búsqueda.}
+{133}{}{Te he enseÃ±ado todo lo que sÃ©, Elegida. Buena suerte en tu bÃºsqueda.}

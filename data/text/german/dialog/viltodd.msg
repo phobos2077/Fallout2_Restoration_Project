@@ -2,17 +2,17 @@
 {101}{}{Du siehst Little Todd.}
 {200}{}{BOOM!!! Ich liebe Explosionen!}
 {201}{}{Bam-bam! Ich jage Mutanten!}
-{202}{}{Ich wünsche, ich könnte mehr Explosionen sehen!}
+{202}{}{Ich wÃ¼nsche, ich kÃ¶nnte mehr Explosionen sehen!}
 {203}{}{Alles sollte explodieren!}
-{300}{}{Können sie etwas in die Luft jagen, mein Herr?}
-{301}{}{Wenn ich groß bin, werde ich die Welt beherrschen!}
-{302}{}{Ich bin nicht gerne hier. Ich will an die Ostküste ziehen!}
+{300}{}{KÃ¶nnen sie etwas in die Luft jagen, mein Herr?}
+{301}{}{Wenn ich groÃŸ bin, werde ich die Welt beherrschen!}
+{302}{}{Ich bin nicht gerne hier. Ich will an die OstkÃ¼ste ziehen!}
 {303}{}{Meine Klamotten sind magisch!}
 {304}{}{Erwachsene reden sooo viel!}
-{305}{}{Die Brotherhood of Steel sind die Ritter des Ödlands!}
-{306}{}{Alle Mutanten sind böse!}
-{307}{}{Ich wette, mein Teddybär könnte dich töten!}
+{305}{}{Die Brotherhood of Steel sind die Ritter des Ã–dlands!}
+{306}{}{Alle Mutanten sind bÃ¶se!}
+{307}{}{Ich wette, mein TeddybÃ¤r kÃ¶nnte dich tÃ¶ten!}
 {308}{}{Mein Vater ist noch immer verschollen!}
 {309}{}{Manchmal trinke ich aus der Toilette!}
-{310}{}{Was meinst du mit Kont-iii-nuäli-tät?}
-{311}{}{Können sie etwas in die Luft jagen, Fräulein?}
+{310}{}{Was meinst du mit Kont-iii-nuÃ¤li-tÃ¤t?}
+{311}{}{KÃ¶nnen sie etwas in die Luft jagen, FrÃ¤ulein?}

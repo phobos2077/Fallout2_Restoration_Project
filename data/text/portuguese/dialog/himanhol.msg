@@ -1,1 +1,1 @@
-{100}{}{Você entrou com sucesso no armazém de armas escondidas de Liz.}
+{100}{}{VocÃª entrou com sucesso no armazÃ©m de armas escondidas de Liz.}

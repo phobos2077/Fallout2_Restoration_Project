@@ -1,1 +1,1 @@
-{100}{}{Egy szép dózis sugárzás járja át a tested.}
+{100}{}{Egy szÃ©p dÃ³zis sugÃ¡rzÃ¡s jÃ¡rja Ã¡t a tested.}

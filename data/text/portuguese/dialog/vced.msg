@@ -12,11 +12,11 @@
 {111}{}{Any luck remembering where you got the water flask from?}
 {112}{}{Estou a procura da Vault.}
 {113}{}{Can you tell me about Vault City?}
-{114}{}{O que você faz por aqui?}
+{114}{}{O que vocÃª faz por aqui?}
 {115}{}{Adeus.}
 {116}{}{Vic?}
 {117}{}{He sold a water flask to you? One with "13" on it?}
-{118}{}{Deixa pra lá. Eu tenho que ir.}
+{118}{}{Deixa pra lÃ¡. Eu tenho que ir.}
 {119}{}{You got it? Maybe that could spark my memory.}
 {120}{}{Nevermind then. I had some other questions for you...}
 {121}{}{I'll see if I can go dig it up. I'll be back.}
@@ -30,20 +30,20 @@
 {129}{}{Oh. Well, thanks anyway, then.}
 {130}{}{When I was a lot younger, I used to drive brahmin through the 'Big Circle'... Broken Hills, New Reno, Redding, the Den, Modoc, then back here. It just got too dangerous after a while, so I settled here.}
 {131}{}{Where are these places?}
-{132}{}{Entendo. Bem, agradeço pela informação.}
+{132}{}{Entendo. Bem, agradeÃ§o pela informaÃ§Ã£o.}
 {133}{}{Let me mark it on your map. See, Broken Hills is south... bear west on the trail from there, and you'll hit Reno.
  Northwest o' Reno is Redding, then it's north to the Den, east to Modoc, then east to here, Vault City.}
 {134}{}{Any idea which of those places you got the flask from?}
-{135}{}{Obrigado pela informação.}
+{135}{}{Obrigado pela informaÃ§Ã£o.}
 {136}{}{Sorry, can't remember exactly. It was a long time ago. Why do you want to know?}
 {137}{}{I'm looking for the Vault the flask came from.}
-{138}{}{Obrigado pela informação.}
+{138}{}{Obrigado pela informaÃ§Ã£o.}
 {139}{}{Well, hell, if it's a Vault you're looking for, then there's one inside the walls of Vault City.}
 {140}{}{Vault 13 is inside the city?}
-{141}{}{Obrigado pela informação.}
+{141}{}{Obrigado pela informaÃ§Ã£o.}
 {142}{}{Well, now, don't know if it's "13" exactly, but there's a Vault. If that ain't the one you're looking for, the vault's central computer might know where the others are. They've damn near listed everything in it.}
 {143}{}{Eu tenho mais algumas perguntas...}
-{144}{}{Obrigado pela informação.}
+{144}{}{Obrigado pela informaÃ§Ã£o.}
 {145}{}{Shoot. What did you want to know?}
 {146}{}{Do you know a trader named Vic? He said he bought this Vault water flask from you.}
 {147}{}{Do you know a trader named Vic?}
@@ -51,7 +51,7 @@
 {149}{}{Any luck remembering where you got the water flask from?}
 {150}{}{Estou a procura da Vault.}
 {151}{}{Can you tell me about Vault City?}
-{152}{}{O que você faz por aqui?}
+{152}{}{O que vocÃª faz por aqui?}
 {153}{}{Adeus.}
 {154}{}{Well... there's that Vault inside the main part of the city. You checked it out yet? Could be the one you're looking for.}
 {155}{}{Well... there's a Vault inside the main part of the city. That what you're looking for?}

@@ -1,56 +1,56 @@
 {100}{}{Du siehst einen Khan-Gangster.}
-{101}{}{Du siehst Phil, einen Khan-Wächter.}
-{102}{}{Du siehst einen rauhbeinigen, jungen Mann in einer Metallrüstung. Er ist schwer bewaffnet.}
-{103}{}{Ich sollte dich erschießen, aber ich bin neugierig, was du mir zu sagen hast.}
+{101}{}{Du siehst Phil, einen Khan-WÃ¤chter.}
+{102}{}{Du siehst einen rauhbeinigen, jungen Mann in einer MetallrÃ¼stung. Er ist schwer bewaffnet.}
+{103}{}{Ich sollte dich erschieÃŸen, aber ich bin neugierig, was du mir zu sagen hast.}
 {104}{}{Ich suchen Spion. Da lang.}
-{105}{}{Ich suchen verschwunden Mädchen. Wo kann finden?}
+{105}{}{Ich suchen verschwunden MÃ¤dchen. Wo kann finden?}
 {106}{}{Ich aus Versehn hier. Ich gehn.}
-{107}{}{Böse. Ich schießen tot.}
+{107}{}{BÃ¶se. Ich schieÃŸen tot.}
 {108}{}{Oh, wir diskutiern?}
 {109}{}{Ich suche einen Lauscher, der in diese Richtung gerannt ist.}
-{110}{}{Ich suche ein verschwundenes Mädchen. Hast du sie gesehn?}
+{110}{}{Ich suche ein verschwundenes MÃ¤dchen. Hast du sie gesehn?}
 {111}{}{Tschuldigung, hab versehentlich den falschen Weg erwischt. Muss weiter.}
-{112}{}{Du kannst mich mal. Gleich kriegst du ein Kugelfrühstück, Arschloch.}
-{113}{}{Ich würde sagen, wir können darüber wie zivilisierte Menschen reden.}
-{114}{}{Ah, das bin ich. Du hast mich gefunden, was kommt als nächstes?}
+{112}{}{Du kannst mich mal. Gleich kriegst du ein KugelfrÃ¼hstÃ¼ck, Arschloch.}
+{113}{}{Ich wÃ¼rde sagen, wir kÃ¶nnen darÃ¼ber wie zivilisierte Menschen reden.}
+{114}{}{Ah, das bin ich. Du hast mich gefunden, was kommt als nÃ¤chstes?}
 {115}{}{Warum folgen Rebecca?}
-{116}{}{Jetzt wissen, dass nicht falsche Person erschießen. Danke!}
+{116}{}{Jetzt wissen, dass nicht falsche Person erschieÃŸen. Danke!}
 {117}{}{Nichts. Ich jetzt gehn.}
 {118}{}{Warum spionierst du Rebecca hinterher?}
-{119}{}{Ich wollte nur sichergehen, dass ich die richtige Person erschieße. Danke, schönen Tag noch!}
+{119}{}{Ich wollte nur sichergehen, dass ich die richtige Person erschieÃŸe. Danke, schÃ¶nen Tag noch!}
 {120}{}{Hmm. Nichts. Ich werd jetzt gehen.}
-{121}{}{Meinst du, du kannst hier einfach so reinschneien und bekommst alle Antworten auf deine Fragen? Na, was soll's. Du wirst sowieso sterben und ich fühle mich großmütig. Wir haben das Kind hier im Hinterzimmer eingesperrt und etwas Spaß mit ihr gehabt. Rebecca, die alte Kuh, hat versucht, sie zu finden, also haben wir sie im Auge behalten, um zu verhindern, dass sie uns zu sehr auf die Pelle rückt.}
+{121}{}{Meinst du, du kannst hier einfach so reinschneien und bekommst alle Antworten auf deine Fragen? Na, was soll's. Du wirst sowieso sterben und ich fÃ¼hle mich groÃŸmÃ¼tig. Wir haben das Kind hier im Hinterzimmer eingesperrt und etwas SpaÃŸ mit ihr gehabt. Rebecca, die alte Kuh, hat versucht, sie zu finden, also haben wir sie im Auge behalten, um zu verhindern, dass sie uns zu sehr auf die Pelle rÃ¼ckt.}
 {122}{}{Du krank in Kopf. Ich helfen - nehmen Kopf weg.}
-{123}{}{Was meinen, Spaß haben mit Mädchen?}
+{123}{}{Was meinen, SpaÃŸ haben mit MÃ¤dchen?}
 {124}{}{Oh, dann klar. Ich gehn.}
-{125}{}{Du bist ganz schön krank, ich werd dich schlafen legen.}
-{126}{}{Schön, habt ein bisschen Spaß. Ich geh jetzt.}
-{127}{}{Gib das Mädchen raus und wir können diesen Ort alle lebend verlassen.}
-{128}{}{Denk darüber nach, wenn du tot bist, Idiot.}
+{125}{}{Du bist ganz schÃ¶n krank, ich werd dich schlafen legen.}
+{126}{}{SchÃ¶n, habt ein bisschen SpaÃŸ. Ich geh jetzt.}
+{127}{}{Gib das MÃ¤dchen raus und wir kÃ¶nnen diesen Ort alle lebend verlassen.}
+{128}{}{Denk darÃ¼ber nach, wenn du tot bist, Idiot.}
 {129}{}{}
 {130}{}{}
-{131}{}{Warum zur Hölle sollte ich das tun?}
-{132}{}{Es ist gut für deine unsterbliche Seele.}
+{131}{}{Warum zur HÃ¶lle sollte ich das tun?}
+{132}{}{Es ist gut fÃ¼r deine unsterbliche Seele.}
 {133}{}{Weil ich das Schlimmste bin, das dir passieren kann. Gib sie raus, oder du wirst es bereuen.}
-{134}{}{Wenn wir kämpfen, wird einer sterben. Ich möchte das genauso wenig wie du, also lass es uns friedlich zu Ende bringen, OK?}
-{135}{}{Hör auf damit.}
+{134}{}{Wenn wir kÃ¤mpfen, wird einer sterben. Ich mÃ¶chte das genauso wenig wie du, also lass es uns friedlich zu Ende bringen, OK?}
+{135}{}{HÃ¶r auf damit.}
 {136}{}{}
 {137}{}{}
-{138}{}{Das hört sich wie eine Herausforderung an. Ich nehm sie an.}
+{138}{}{Das hÃ¶rt sich wie eine Herausforderung an. Ich nehm sie an.}
 {139}{}{}
 {140}{}{}
-{141}{}{Hmm... Ich... Ja, OK. Hier ist der Schlüssel zu ihrer Zelle. Sie ist im hinteren Raum der Hütte. Nimm sie und verschwinde und komm nie wieder. Wenn ich dich noch einmal hier sehe, verlässt nur einer lebend das Feld.}
-{142}{}{Wir werden ja sehen, wer das hier überlebt.}
+{141}{}{Hmm... Ich... Ja, OK. Hier ist der SchlÃ¼ssel zu ihrer Zelle. Sie ist im hinteren Raum der HÃ¼tte. Nimm sie und verschwinde und komm nie wieder. Wenn ich dich noch einmal hier sehe, verlÃ¤sst nur einer lebend das Feld.}
+{142}{}{Wir werden ja sehen, wer das hier Ã¼berlebt.}
 {143}{}{Danke, das war eine weise Entscheidung.}
-{144}{}{Du wirst diesen Ort mit den Füßen zuerst in einem Kasten verlassen.}
+{144}{}{Du wirst diesen Ort mit den FÃ¼ÃŸen zuerst in einem Kasten verlassen.}
 {145}{}{}
 {146}{}{}
-{147}{}{Du meinst das Mädel, das hinten eingesperrt ist, mit der wir ein bisschen Spaß gehabt haben? Nein, ich hab sie nicht gesehen.}
+{147}{}{Du meinst das MÃ¤del, das hinten eingesperrt ist, mit der wir ein bisschen SpaÃŸ gehabt haben? Nein, ich hab sie nicht gesehen.}
 {148}{}{Du krank in Kopf. Ich helfen - nehmen Kopf weg.}
-{149}{}{Was meinen, Spaß haben mit Mädchen?}
+{149}{}{Was meinen, SpaÃŸ haben mit MÃ¤dchen?}
 {150}{}{Oh. Ich gehn dann.}
-{151}{}{Du bist ganz schön krank, ich werd dich schlafen legen.}
-{152}{}{Schön, habt ein bisschen Spaß. Ich geh jetzt.}
-{153}{}{Gib das Mädchen raus und wir können diesen Ort alle lebend verlassen.}
-{154}{}{Du bist also zurückgekommen. Wir werden ja sehn, wer den kürzeren zieht.}
-{155}{}{Wir haben diese Schlampe Chrissy getötet und jetzt bist du an der Reihe zu sterben!}
+{151}{}{Du bist ganz schÃ¶n krank, ich werd dich schlafen legen.}
+{152}{}{SchÃ¶n, habt ein bisschen SpaÃŸ. Ich geh jetzt.}
+{153}{}{Gib das MÃ¤dchen raus und wir kÃ¶nnen diesen Ort alle lebend verlassen.}
+{154}{}{Du bist also zurÃ¼ckgekommen. Wir werden ja sehn, wer den kÃ¼rzeren zieht.}
+{155}{}{Wir haben diese Schlampe Chrissy getÃ¶tet und jetzt bist du an der Reihe zu sterben!}

@@ -1,15 +1,15 @@
-{100}{}{Számítógép-terminál.}
-{101}{}{Úgy t?nik, ez egy biztonsági terminál.}
-{102}{}{Képtelen vagy elolvasni, mi van a képerny?re írva.}
-{103}{}{Skynet Biztonsági Rendszer
-                                          Hozzáférés: Elutasítva}
+{100}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l.}
+{101}{}{Ãšgy t?nik, ez egy biztonsÃ¡gi terminÃ¡l.}
+{102}{}{KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.}
+{103}{}{Skynet BiztonsÃ¡gi Rendszer
+                                          HozzÃ¡fÃ©rÃ©s: ElutasÃ­tva}
 {104}{}{}
-{105}{}{Kilépés}
+{105}{}{KilÃ©pÃ©s}
 {106}{}{Hiba!
-                                                                 A Rendszerfájlok nincsenek jelen
-                                      Kérem, indítsa újra a számítógépet!}
+                                                                 A RendszerfÃ¡jlok nincsenek jelen
+                                      KÃ©rem, indÃ­tsa Ãºjra a szÃ¡mÃ­tÃ³gÃ©pet!}
 {107}{}{}
 {108}{}{}
-{109}{}{Kilépés}
-{200}{}{ képtelen elolvasni, mi van a képerny?re írva.}
-{300}{}{Úgy látszik, a számítógép védelmi berendezéssel van ellátva.}
+{109}{}{KilÃ©pÃ©s}
+{200}{}{ kÃ©ptelen elolvasni, mi van a kÃ©perny?re Ã­rva.}
+{300}{}{Ãšgy lÃ¡tszik, a szÃ¡mÃ­tÃ³gÃ©p vÃ©delmi berendezÃ©ssel van ellÃ¡tva.}

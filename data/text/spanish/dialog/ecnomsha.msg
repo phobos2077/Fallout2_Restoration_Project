@@ -1,38 +1,38 @@
-{100}{}{Ves a un cháman nómada.}
-{101}{}{Parece ser un cháman nómada.}
-{102}{}{Sus ropas estás impregnadas del fuerte olor de las hierbas.}
-{103}{}{Hola, forastero. Soy el cháman de la tribu. Estoy versado en el arte de la curación.}
+{100}{}{Ves a un chÃ¡man nÃ³mada.}
+{101}{}{Parece ser un chÃ¡man nÃ³mada.}
+{102}{}{Sus ropas estÃ¡s impregnadas del fuerte olor de las hierbas.}
+{103}{}{Hola, forastero. Soy el chÃ¡man de la tribu. Estoy versado en el arte de la curaciÃ³n.}
 {104}{}{Hola de nuevo.}
 {105}{}{Necesito que me cures.}
-{106}{}{¿Puedes combinar la raíz de Xandria con la flor de Broquia?}
-{107}{}{Adiós.}
+{106}{}{Â¿Puedes combinar la raÃ­z de Xandria con la flor de Broquia?}
+{107}{}{AdiÃ³s.}
 {108}{}{Ooga.}
-{109}{}{Quédate quieto y te examinaré.}
+{109}{}{QuÃ©date quieto y te examinarÃ©.}
 {110}{}{[Continuar]}
 {111}{}{He descubierto que padeces estas afecciones.}
-{112}{}{¿Puedes ayudarme?}
+{112}{}{Â¿Puedes ayudarme?}
 {113}{}{Puedo hacer lo siguiente por un precio:}
 {114}{}{Por favor, extrae el veneno de mi cuerpo.}
-{115}{}{Por favor, cúrame.}
+{115}{}{Por favor, cÃºrame.}
 {116}{}{Mira a ver que puedes hacer con mi miembro roto.}
-{117}{}{Adiós.}
+{117}{}{AdiÃ³s.}
 {118}{}{Te he curado.}
 {119}{}{Te he curado.}
 {120}{}{Te he curado.}
 {121}{}{Necesito usar tus habilidades.}
-{122}{}{Gracias; Me siento mucho mejor. Adiós.}
-{123}{}{Mis habilidades son limitadas, y no puedo hacer más en esta zona.}
+{122}{}{Gracias; Me siento mucho mejor. AdiÃ³s.}
+{123}{}{Mis habilidades son limitadas, y no puedo hacer mÃ¡s en esta zona.}
 {124}{}{[Continuar]}
-{125}{}{No necesitas ese tipo de curación.}
+{125}{}{No necesitas ese tipo de curaciÃ³n.}
 {126}{}{[Continuar]}
-{127}{}{Ahh... Estás familiarizado con las propiedades curativas de estas dos plantas. Sólo te costará}
-{128}{}{Por favor, combínalas.}
-{129}{}{Quizás más tarde, adiós.}
-{130}{}{[Miras mientras machaca y combina cuidadosamente ambas plantas, y entonces te extiende una dosis del polvo medida con precisión].}
-{131}{}{Adiós.}
-{132}{}{Parece que estás corto de efectivo. Vuelve cuando tengas la cartera llena.}
+{127}{}{Ahh... EstÃ¡s familiarizado con las propiedades curativas de estas dos plantas. SÃ³lo te costarÃ¡}
+{128}{}{Por favor, combÃ­nalas.}
+{129}{}{QuizÃ¡s mÃ¡s tarde, adiÃ³s.}
+{130}{}{[Miras mientras machaca y combina cuidadosamente ambas plantas, y entonces te extiende una dosis del polvo medida con precisiÃ³n].}
+{131}{}{AdiÃ³s.}
+{132}{}{Parece que estÃ¡s corto de efectivo. Vuelve cuando tengas la cartera llena.}
 {133}{}{[FIN]}
-{134}{}{No tengo tiempo para tonterías. ¡Vete!}
+{134}{}{No tengo tiempo para tonterÃ­as. Â¡Vete!}
 {135}{}{[FIN]}
 {136}{}{[Envenenado]}
 {137}{}{[Herido]}
@@ -41,11 +41,11 @@
 {140}{}{Curar el envenenamiento,}
 {141}{}{Arreglar un miembro roto,}
 {142}{}{Curar}
-{143}{}{¡Infiel!}
-{144}{}{¿Por qué nos atacas?}
-{145}{}{¡Defenderé a la tribu con mi vida!}
-{146}{}{Cómo te atreves a violar nuestra hospitalidad.}
-{147}{}{¡Márchate!}
-{148}{}{Déjanos.}
-{149}{}{Somos una tribu pacífica.}
-{150}{}{y combinaré ambas para ti.}
+{143}{}{Â¡Infiel!}
+{144}{}{Â¿Por quÃ© nos atacas?}
+{145}{}{Â¡DefenderÃ© a la tribu con mi vida!}
+{146}{}{CÃ³mo te atreves a violar nuestra hospitalidad.}
+{147}{}{Â¡MÃ¡rchate!}
+{148}{}{DÃ©janos.}
+{149}{}{Somos una tribu pacÃ­fica.}
+{150}{}{y combinarÃ© ambas para ti.}

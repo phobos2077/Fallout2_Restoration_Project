@@ -1,20 +1,20 @@
 {100}{}{Ves a un brillante y resplandeciente hombre de hojalata.}
 {101}{}{Un soldado con servoarmadura.}
 {102}{}{Un soldado con un nuevo tipo de servoarmadura, supones.}
-{103}{}{¿Te lo puedes creer? ¡Otra vez me ha tocado limpiar las cocinas!}
-{104}{}{¡Se dice que el viejo se marcha a San Fran!}
+{103}{}{Â¿Te lo puedes creer? Â¡Otra vez me ha tocado limpiar las cocinas!}
+{104}{}{Â¡Se dice que el viejo se marcha a San Fran!}
 {105}{}{Al infierno con la espera. Yo digo que aplastemos a estos salvajes y acabemos de una vez.}
-{106}{}{¿Tienes una linterna? Oh, espera, olvídalo. Tengo una.}
-{107}{}{Habrá timba de dados tras el hangar esta noche. Que no se entere el comandante.}
-{108}{}{¿Pero quién--? <zzzt> ¡Tenemos una intrusa aquí!}
-{109}{}{¡Oye tú! ¡Alto!}
-{110}{}{¡Intrusa en la base!}
-{111}{}{Espera, tú... oh, no importa. }
-{112}{}{Mira, mejor será que consigas tu identificación. Estas falsas alarmas ponen de los nervios a todo el mundo.}
-{113}{}{No deberías estar aquí, ¿no? Maldición, ¡esas falsas alarmas me ponen de los nervios!}
-{114}{}{¡Intrusos por aquí! ¡Atrapadlos!}
-{115}{}{¡Ahí esta el intruso!}
-{116}{}{¡Por aquí! ¡No les dejéis escapar!}
-{117}{}{Nos atacan por el frente. ¡Enviad refuerzos!}
-{118}{}{¡No dejéis al intruso llegar a la puerta!}
-{119}{}{¡Muere, salvaje!}
+{106}{}{Â¿Tienes una linterna? Oh, espera, olvÃ­dalo. Tengo una.}
+{107}{}{HabrÃ¡ timba de dados tras el hangar esta noche. Que no se entere el comandante.}
+{108}{}{Â¿Pero quiÃ©n--? <zzzt> Â¡Tenemos una intrusa aquÃ­!}
+{109}{}{Â¡Oye tÃº! Â¡Alto!}
+{110}{}{Â¡Intrusa en la base!}
+{111}{}{Espera, tÃº... oh, no importa. }
+{112}{}{Mira, mejor serÃ¡ que consigas tu identificaciÃ³n. Estas falsas alarmas ponen de los nervios a todo el mundo.}
+{113}{}{No deberÃ­as estar aquÃ­, Â¿no? MaldiciÃ³n, Â¡esas falsas alarmas me ponen de los nervios!}
+{114}{}{Â¡Intrusos por aquÃ­! Â¡Atrapadlos!}
+{115}{}{Â¡AhÃ­ esta el intruso!}
+{116}{}{Â¡Por aquÃ­! Â¡No les dejÃ©is escapar!}
+{117}{}{Nos atacan por el frente. Â¡Enviad refuerzos!}
+{118}{}{Â¡No dejÃ©is al intruso llegar a la puerta!}
+{119}{}{Â¡Muere, salvaje!}

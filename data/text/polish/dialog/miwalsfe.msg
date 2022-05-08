@@ -1,6 +1,6 @@
-{100}{}{Widzisz sejf œcienny.}
-{110}{}{Sejf jest zamkniêty.}
-{200}{}{Udaje ci siê otworzyæ sejf.}
-{201}{}{Udaje ci siê zamkn¹æ sejf.}
-{210}{}{Nie dajesz rady zamkn¹æ sejfu.}
-{211}{}{Nie dajesz rady otworzyæ sejfu.}
+{100}{}{Widzisz sejf Å›cienny.}
+{110}{}{Sejf jest zamkniÄ™ty.}
+{200}{}{Udaje ci siÄ™ otworzyÄ‡ sejf.}
+{201}{}{Udaje ci siÄ™ zamknÄ…Ä‡ sejf.}
+{210}{}{Nie dajesz rady zamknÄ…Ä‡ sejfu.}
+{211}{}{Nie dajesz rady otworzyÄ‡ sejfu.}

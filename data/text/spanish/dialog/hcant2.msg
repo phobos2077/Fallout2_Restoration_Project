@@ -1,2 +1,2 @@
 {100}{}{Ves a una enorme hormiga.}
-{101}{}{Caray. Eso sí que es una hormiga grande de cojones.}
+{101}{}{Caray. Eso sÃ­ que es una hormiga grande de cojones.}

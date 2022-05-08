@@ -1,3 +1,3 @@
-1:La fusion du coeur du réacteur de Gecko eut des retombées dramatiques sur la région.
-2:La radioactivité et la chaleur émanant du réacteur tuèrent toute être vivant dans un rayon de dix kilomètres et empoisonnèrent toute la région.
-3:La menace ressentie par la Cité de l'Abri vis à vis des goules pacifiques de Gecko avait disparu.
+1:La fusion du coeur du rÃ©acteur de Gecko eut des retombÃ©es dramatiques sur la rÃ©gion.
+2:La radioactivitÃ© et la chaleur Ã©manant du rÃ©acteur tuÃ¨rent toute Ãªtre vivant dans un rayon de dix kilomÃ¨tres et empoisonnÃ¨rent toute la rÃ©gion.
+3:La menace ressentie par la CitÃ© de l'Abri vis Ã  vis des goules pacifiques de Gecko avait disparu.

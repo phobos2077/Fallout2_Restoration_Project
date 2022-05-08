@@ -1,59 +1,59 @@
-{100}{}{Widzisz cz³owieka w pancerzu. Patrzy na ciebie w zamyœleniu.}
+{100}{}{Widzisz czÅ‚owieka w pancerzu. Patrzy na ciebie w zamyÅ›leniu.}
 {101}{}{Widzisz Stanwella, mistrza karawany Redding - RNK.}
-{102}{}{Widzisz wysokiego, muskularnego mê¿czyznê w pancerzu. Jego sprzêt wygl¹da na u¿ywany, ale dobrze utrzymany.}
-{103}{}{RNK niezbyt przychylnie patrzy na tchórzy. Wynocha st¹d.}
-{104}{}{Wiesz, co myœlê o takich, jak ty. Wynocha sprzed moich oczu.}
+{102}{}{Widzisz wysokiego, muskularnego mÄ™Å¼czyznÄ™ w pancerzu. Jego sprzÄ™t wyglÄ…da na uÅ¼ywany, ale dobrze utrzymany.}
+{103}{}{RNK niezbyt przychylnie patrzy na tchÃ³rzy. Wynocha stÄ…d.}
+{104}{}{Wiesz, co myÅ›lÄ™ o takich, jak ty. Wynocha sprzed moich oczu.}
 {105}{}{I-haa! Jedziemy.}
 {106}{}{Dobra, ruszamy.}
-{107}{}{Jestem Stanwell. Prowadzê karawanê pomiêdzy Redding i Republik¹ Nowej Kalifornii. Braminy za z³oto. Przyda³by nam siê dodatkowy stra¿nik, i jesteœmy w³aœnie gotowi do drogi. }
-{108}{}{Ludzie mówi¹ na mnie Stanwell. Prowadzê karawanê pomiêdzy Redding i Republik¹ Nowej Kalifornii. Braminy za z³oto. Zazwyczaj przyda siê kilka dodatkowych r¹k do pracy. Opuszczamy miasto jedenastego ka¿dego miesi¹ca. Je¿eli piszesz siê na to, to nie zapomnij wtedy siê pokazaæ.}
-{109}{}{Czy jeszcze coœ?}
+{107}{}{Jestem Stanwell. ProwadzÄ™ karawanÄ™ pomiÄ™dzy Redding i RepublikÄ… Nowej Kalifornii. Braminy za zÅ‚oto. PrzydaÅ‚by nam siÄ™ dodatkowy straÅ¼nik, i jesteÅ›my wÅ‚aÅ›nie gotowi do drogi. }
+{108}{}{Ludzie mÃ³wiÄ… na mnie Stanwell. ProwadzÄ™ karawanÄ™ pomiÄ™dzy Redding i RepublikÄ… Nowej Kalifornii. Braminy za zÅ‚oto. Zazwyczaj przyda siÄ™ kilka dodatkowych rÄ…k do pracy. Opuszczamy miasto jedenastego kaÅ¼dego miesiÄ…ca. JeÅ¼eli piszesz siÄ™ na to, to nie zapomnij wtedy siÄ™ pokazaÄ‡.}
+{109}{}{Czy jeszcze coÅ›?}
 {110}{}{Mu-mu?}
-{111}{}{Potrzebujesz stra¿nika, co?}
+{111}{}{Potrzebujesz straÅ¼nika, co?}
 {112}{}{Co transportuje ta karawana?}
 {113}{}{Dlaczego czekacie do jedenastego?}
 {114}{}{To chyba nie dla mnie. Na razie.}
-{115}{}{Cholera. Nie cierpiê, kiedy to siê dzieje.}
-{116}{}{Ta sama robota. Inny dzieñ.}
+{115}{}{Cholera. Nie cierpiÄ™, kiedy to siÄ™ dzieje.}
+{116}{}{Ta sama robota. Inny dzieÅ„.}
 {117}{}{Nic nigdy nie jest proste.}
-{118}{}{Gdzie jest Stra¿nik, kiedy go potrzebujesz?}
-{119}{}{W tych czasach to ju¿ za ka¿dym razem.}
-{120}{}{Jeszcze tak z³ej i ¿a³osnej podróby stra¿nika nie widzia³em. Nawet gdyby zale¿a³o od tego twoje ¿ycie, to i tak nie potrafisz dotrzymaæ s³owa.}
-{121}{}{ZejdŸ mi z oczu, do diaska. I dobrze wiesz dlaczego.}
-{122}{}{Naprawdê myœlisz, ¿e wynagrodzê z³odzieja? Masz szczêœcie, ¿e nie zlinczowa³em ciê na szlaku. Oczywiœcie, ¿e nic ci nie p³acê. A teraz won.}
-{123}{}{Z³odziejem? Zapamiêtam to sobie, ty pod³y niewdziêczniku. Odchodzê, ¿egnam.}
-{124}{}{Któregoœ dnia, nied³ugo, po¿a³ujesz tego. ¯egnam.}
-{125}{}{Zostaliœmy tak oskubani, ¿e nie mam wystarczaj¹co pieniêdzy, aby ci zap³aciæ. Oczywiœcie, gdyby twoja robota by³a lepsza, to sprawy sta³yby inaczej.}
-{126}{}{Ty draniu! Zap³acisz mi za to oszustwo. ¯egnam.}
-{127}{}{Có¿, czasami ma siê wiêksze szczêœcie od innych. Tym razem by³o odwrotnie. ¯egnaj.}
-{128}{}{Na szczêœcie nie straciliœmy wszystkiego... ale straciliœmy wiêcej, ni¿ mo¿emy sobie pozwoliæ. Gdyby twoja praca by³a lepsza, to i p³aca przekracza³aby te $500.}
-{129}{}{Có¿, coœ to chyba i tak lepiej ni¿ nic. Na razie.}
-{130}{}{Ty draniu! Nikt nie móg³by zrobiæ lepszej roboty. Po¿a³ujesz tego oszustwa. ¯egnam.}
-{131}{}{Wcale nie by³o tak Ÿle. Tu s¹ twoje $2000. Wróæ, je¿eli kiedyœ znowu bêdziesz potrzebowaæ roboty.}
-{132}{}{Nie chcê ju¿ chyba nigdy wiêcej spêdziæ tyle czasu gapi¹c siê w dupê braminy. Do widzenia.}
-{133}{}{Nie by³o tak Ÿle. Dziêki. Na razie.}
-{134}{}{To by³ dobry kurs. Nie uda³oby siê a¿ tak dobrze, gdyby ciê tam z nami nie by³o. Tu s¹ twoje $2000, a dodatkowo $500 premii za wspania³¹ robotê. Jeszcze raz dziêki.}
-{135}{}{Mi³o znaleŸæ kogoœ, kto docenia widoczn¹ jakoœæ. Mo¿e jeszcze siê zobaczymy. Na razie.}
-{136}{}{Zawsze mi³o jest zarobiæ dodatkowe pieni¹dze. Dziêki, i na razie.}
-{137}{}{Nie mogê odejœæ, dopóki nie bêdê mia³ pe³nego transportu rudy. To wszystko bêdzie gotowe jedenastego. Najlepiej wczeœnie rano. PrzyjdŸ wtedy, jeœli bêdzie ciê to interesowaæ.}
-{138}{}{Musimy zebraæ braminy z porozrzucanych farm zanim mo¿emy wyruszyæ. Bêdziemy gotowi do wczesnego wyjœcia jedenastego. Zajrzyj do mnie wtedy, jeœli bêdziesz szukaæ pracy.}
+{118}{}{Gdzie jest StraÅ¼nik, kiedy go potrzebujesz?}
+{119}{}{W tych czasach to juÅ¼ za kaÅ¼dym razem.}
+{120}{}{Jeszcze tak zÅ‚ej i Å¼aÅ‚osnej podrÃ³by straÅ¼nika nie widziaÅ‚em. Nawet gdyby zaleÅ¼aÅ‚o od tego twoje Å¼ycie, to i tak nie potrafisz dotrzymaÄ‡ sÅ‚owa.}
+{121}{}{ZejdÅº mi z oczu, do diaska. I dobrze wiesz dlaczego.}
+{122}{}{NaprawdÄ™ myÅ›lisz, Å¼e wynagrodzÄ™ zÅ‚odzieja? Masz szczÄ™Å›cie, Å¼e nie zlinczowaÅ‚em ciÄ™ na szlaku. OczywiÅ›cie, Å¼e nic ci nie pÅ‚acÄ™. A teraz won.}
+{123}{}{ZÅ‚odziejem? ZapamiÄ™tam to sobie, ty podÅ‚y niewdziÄ™czniku. OdchodzÄ™, Å¼egnam.}
+{124}{}{KtÃ³regoÅ› dnia, niedÅ‚ugo, poÅ¼aÅ‚ujesz tego. Å»egnam.}
+{125}{}{ZostaliÅ›my tak oskubani, Å¼e nie mam wystarczajÄ…co pieniÄ™dzy, aby ci zapÅ‚aciÄ‡. OczywiÅ›cie, gdyby twoja robota byÅ‚a lepsza, to sprawy staÅ‚yby inaczej.}
+{126}{}{Ty draniu! ZapÅ‚acisz mi za to oszustwo. Å»egnam.}
+{127}{}{CÃ³Å¼, czasami ma siÄ™ wiÄ™ksze szczÄ™Å›cie od innych. Tym razem byÅ‚o odwrotnie. Å»egnaj.}
+{128}{}{Na szczÄ™Å›cie nie straciliÅ›my wszystkiego... ale straciliÅ›my wiÄ™cej, niÅ¼ moÅ¼emy sobie pozwoliÄ‡. Gdyby twoja praca byÅ‚a lepsza, to i pÅ‚aca przekraczaÅ‚aby te $500.}
+{129}{}{CÃ³Å¼, coÅ› to chyba i tak lepiej niÅ¼ nic. Na razie.}
+{130}{}{Ty draniu! Nikt nie mÃ³gÅ‚by zrobiÄ‡ lepszej roboty. PoÅ¼aÅ‚ujesz tego oszustwa. Å»egnam.}
+{131}{}{Wcale nie byÅ‚o tak Åºle. Tu sÄ… twoje $2000. WrÃ³Ä‡, jeÅ¼eli kiedyÅ› znowu bÄ™dziesz potrzebowaÄ‡ roboty.}
+{132}{}{Nie chcÄ™ juÅ¼ chyba nigdy wiÄ™cej spÄ™dziÄ‡ tyle czasu gapiÄ…c siÄ™ w dupÄ™ braminy. Do widzenia.}
+{133}{}{Nie byÅ‚o tak Åºle. DziÄ™ki. Na razie.}
+{134}{}{To byÅ‚ dobry kurs. Nie udaÅ‚oby siÄ™ aÅ¼ tak dobrze, gdyby ciÄ™ tam z nami nie byÅ‚o. Tu sÄ… twoje $2000, a dodatkowo $500 premii za wspaniaÅ‚Ä… robotÄ™. Jeszcze raz dziÄ™ki.}
+{135}{}{MiÅ‚o znaleÅºÄ‡ kogoÅ›, kto docenia widocznÄ… jakoÅ›Ä‡. MoÅ¼e jeszcze siÄ™ zobaczymy. Na razie.}
+{136}{}{Zawsze miÅ‚o jest zarobiÄ‡ dodatkowe pieniÄ…dze. DziÄ™ki, i na razie.}
+{137}{}{Nie mogÄ™ odejÅ›Ä‡, dopÃ³ki nie bÄ™dÄ™ miaÅ‚ peÅ‚nego transportu rudy. To wszystko bÄ™dzie gotowe jedenastego. Najlepiej wczeÅ›nie rano. PrzyjdÅº wtedy, jeÅ›li bÄ™dzie ciÄ™ to interesowaÄ‡.}
+{138}{}{Musimy zebraÄ‡ braminy z porozrzucanych farm zanim moÅ¼emy wyruszyÄ‡. BÄ™dziemy gotowi do wczesnego wyjÅ›cia jedenastego. Zajrzyj do mnie wtedy, jeÅ›li bÄ™dziesz szukaÄ‡ pracy.}
 {139}{}{Co zazwyczaj transportujecie?}
-{140}{}{Pozwól, ¿e zapytam o coœ innego.}
-{141}{}{Dziêki, tak zrobiê. Na razie.}
-{142}{}{Zazwyczaj szukamy kogoœ do ochrony karawan, ale, tak jak ju¿ mówi³em, nie bêdziemy gotowi do drogi a¿ do jedenastego ka¿dego miesi¹ca. Je¿eli nadal bêdzie ciê to interesowaæ, to zajrzyj do mnie wtedy.}
+{140}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{141}{}{DziÄ™ki, tak zrobiÄ™. Na razie.}
+{142}{}{Zazwyczaj szukamy kogoÅ› do ochrony karawan, ale, tak jak juÅ¼ mÃ³wiÅ‚em, nie bÄ™dziemy gotowi do drogi aÅ¼ do jedenastego kaÅ¼dego miesiÄ…ca. JeÅ¼eli nadal bÄ™dzie ciÄ™ to interesowaÄ‡, to zajrzyj do mnie wtedy.}
 {143}{}{Kiedy jedenastego?}
 {144}{}{Co transportuje ta karawana?}
-{145}{}{Okej, dziêki. Na razie.}
-{146}{}{Przykro mi, ale mamy ju¿ wystarczaj¹co ludzi do pracy przy tej karawanie.}
-{147}{}{Och, w porz¹dku.}
-{148}{}{Handlujemy najlepszymi braminami z RNK za rudê z³ota z Redding. Jasno i prosto - tak jak lubiê.}
-{149}{}{Rozumiem. Mówi³eœ, ¿e potrzebujesz stra¿ników?}
-{150}{}{Pozwól, ¿e zapytam o coœ innego.}
-{151}{}{A, w porz¹dku. Na razie.}
-{152}{}{Dobrze, ¿e jesteœ. Jesteœmy gotowi do wyruszenia. P³acê $2000, ale tylko dlatego, ¿e potrzebujê jeszcze jednego stra¿nika. Przy³¹czasz siê?}
-{153}{}{Dobrze, ¿e jesteœ. Jesteœmy gotowi do wyruszenia. P³acê $2000. Przy³¹czasz siê?}
-{154}{}{Brzmi wspaniale. Mo¿emy wyruszaæ.}
-{155}{}{Mogê wymyœleæ lepsze sposoby na spêdzenie czasu, ni¿ ¿arcie non-stop braminiego py³u. Na razie.}
-{156}{}{Có¿, by³o darmowe jedzenie i bezpieczna podró¿ tutaj. A teraz zje¿d¿aj, przyg³upie.}
+{145}{}{Okej, dziÄ™ki. Na razie.}
+{146}{}{Przykro mi, ale mamy juÅ¼ wystarczajÄ…co ludzi do pracy przy tej karawanie.}
+{147}{}{Och, w porzÄ…dku.}
+{148}{}{Handlujemy najlepszymi braminami z RNK za rudÄ™ zÅ‚ota z Redding. Jasno i prosto - tak jak lubiÄ™.}
+{149}{}{Rozumiem. MÃ³wiÅ‚eÅ›, Å¼e potrzebujesz straÅ¼nikÃ³w?}
+{150}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{151}{}{A, w porzÄ…dku. Na razie.}
+{152}{}{Dobrze, Å¼e jesteÅ›. JesteÅ›my gotowi do wyruszenia. PÅ‚acÄ™ $2000, ale tylko dlatego, Å¼e potrzebujÄ™ jeszcze jednego straÅ¼nika. PrzyÅ‚Ä…czasz siÄ™?}
+{153}{}{Dobrze, Å¼e jesteÅ›. JesteÅ›my gotowi do wyruszenia. PÅ‚acÄ™ $2000. PrzyÅ‚Ä…czasz siÄ™?}
+{154}{}{Brzmi wspaniale. MoÅ¼emy wyruszaÄ‡.}
+{155}{}{MogÄ™ wymyÅ›leÄ‡ lepsze sposoby na spÄ™dzenie czasu, niÅ¼ Å¼arcie non-stop braminiego pyÅ‚u. Na razie.}
+{156}{}{CÃ³Å¼, byÅ‚o darmowe jedzenie i bezpieczna podrÃ³Å¼ tutaj. A teraz zjeÅ¼dÅ¼aj, przygÅ‚upie.}
 {157}{}{Upie? Pa pa.}
-{158}{}{Grrrr! Moja chcieæ krwi!}
+{158}{}{Grrrr! Moja chcieÄ‡ krwi!}

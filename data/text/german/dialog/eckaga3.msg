@@ -1,22 +1,22 @@
-{100}{}{Du siehst einen Mann der eine Metallrüstung trägt.}
+{100}{}{Du siehst einen Mann der eine MetallrÃ¼stung trÃ¤gt.}
 {101}{}{Du siehst Kaga.}
-{102}{}{Jepp, es ist Kaga "Der nicht so Große". Er besitzt nun eine Metallrüstung und will dich töten.}
+{102}{}{Jepp, es ist Kaga "Der nicht so GroÃŸe". Er besitzt nun eine MetallrÃ¼stung und will dich tÃ¶ten.}
 {103}{}{Du schon wieder!}
-{104}{}{Ich habe unsere ermüdenden treffen langsam satt.}
-{105}{}{Das "Auserwählte Wesen" - Pah!}
+{104}{}{Ich habe unsere ermÃ¼denden treffen langsam satt.}
+{105}{}{Das "AuserwÃ¤hlte Wesen" - Pah!}
 {106}{}{Bringen wir es endlich hinter uns.}
-{107}{}{Du wirst es bereuen, jemals den Namen Kaga gehört zu haben!}
-{108}{}{Meine Fähigkeiten haben sich seit unserem letzten zusammentreffen verbessert.}
+{107}{}{Du wirst es bereuen, jemals den Namen Kaga gehÃ¶rt zu haben!}
+{108}{}{Meine FÃ¤higkeiten haben sich seit unserem letzten zusammentreffen verbessert.}
 {109}{}{Das scheint wohl eine schlechte Angewohnheit von dir zu werden.}
 {110}{}{Kaga muss noch ein bisschen trainieren.}
 {111}{}{Kaga wird wiederkommen.}
 {120}{}{Also treffen wir uns wieder, Kaga.}
-{150}{}{[Ein großer, kräftig gebauter Krieger steht vor dir, seine Augen glänzen hasserfüllt als er dich ansieht.] So, sie vertreiben Kaga und jetzt sollst du das "Auserwählte Wesen" sein? Ha! Du glaubst du bist was besonderes weil du das Enkelkind des Vaultbewohners bist. Du glaubst du bist besser als ich, Kaga der Große?!}
-{151}{}{Nun, Ich BIN das "Auserwählte Wesen", oder?}
+{150}{}{[Ein groÃŸer, krÃ¤ftig gebauter Krieger steht vor dir, seine Augen glÃ¤nzen hasserfÃ¼llt als er dich ansieht.] So, sie vertreiben Kaga und jetzt sollst du das "AuserwÃ¤hlte Wesen" sein? Ha! Du glaubst du bist was besonderes weil du das Enkelkind des Vaultbewohners bist. Du glaubst du bist besser als ich, Kaga der GroÃŸe?!}
+{151}{}{Nun, Ich BIN das "AuserwÃ¤hlte Wesen", oder?}
 {152}{}{Hey wart mal ne Sekunde. Ich hab nie gesagt dass ich etwas besseres als du bin.}
-{160}{}{Dieser Titel bedeutet nichts, wenn Kaga dir den Kopf von den Schultern reißt!}
+{160}{}{Dieser Titel bedeutet nichts, wenn Kaga dir den Kopf von den Schultern reiÃŸt!}
 {161}{}{Deine Worte sind umsonst. Mit deinem Tod wird meine Ehre wiederhergestellt. Kaga bekommt jetzt seine Rache!}
 {200}{}{Ggrrr?}
-{201}{}{Was!? Du bist das neue "Auserwählte Wesen"? Oh man Sie müssen echt verzweifelt sein.}
-{202}{}{Mich nicht mögen. Du sehen aus Schlecht.}
-{203}{}{Ich werde mich hier nicht mit einer großen Rede herumschlagen. Bereite dich darauf vor durch die Hand von Kaga zu Sterben!}
+{201}{}{Was!? Du bist das neue "AuserwÃ¤hlte Wesen"? Oh man Sie mÃ¼ssen echt verzweifelt sein.}
+{202}{}{Mich nicht mÃ¶gen. Du sehen aus Schlecht.}
+{203}{}{Ich werde mich hier nicht mit einer groÃŸen Rede herumschlagen. Bereite dich darauf vor durch die Hand von Kaga zu Sterben!}

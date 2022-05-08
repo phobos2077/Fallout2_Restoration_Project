@@ -1,127 +1,127 @@
-{100}{}{Ves al procónsul Gregory.}
-{101}{}{Ves a un burócrata de aspecto adusto, con rostro delgado y gruesas cejas.}
-{102}{}{Ves al procónsul Gregory.}
-{103}{}{Ves a un burócrata de aspecto adusto, con rostro delgado y gruesas cejas.}
-{104}{}{Por tu acto de valentía, se te ha permitido acceso completo a Ciudad Refugio. Oh... la Primer Ciudadano dijo que quería verte.}
-{105}{}{¡Un intruso! ¡Guardias! ¡Guardias!}
-{106}{}{¡¿Qu-?! ¡Un mutante! ¡GUARDIAS! ¡GUARDIAS!}
-{107}{}{¡¿Qu-? ¡Un espectro! ¡GUARDIAS! ¡GUARDIAS!}
-{108}{}{Que le vaya bien, capitán.}
-{109}{}{Ciudad Refugio prevalece, capitán.}
+{100}{}{Ves al procÃ³nsul Gregory.}
+{101}{}{Ves a un burÃ³crata de aspecto adusto, con rostro delgado y gruesas cejas.}
+{102}{}{Ves al procÃ³nsul Gregory.}
+{103}{}{Ves a un burÃ³crata de aspecto adusto, con rostro delgado y gruesas cejas.}
+{104}{}{Por tu acto de valentÃ­a, se te ha permitido acceso completo a Ciudad Refugio. Oh... la Primer Ciudadano dijo que querÃ­a verte.}
+{105}{}{Â¡Un intruso! Â¡Guardias! Â¡Guardias!}
+{106}{}{Â¡Â¿Qu-?! Â¡Un mutante! Â¡GUARDIAS! Â¡GUARDIAS!}
+{107}{}{Â¡Â¿Qu-? Â¡Un espectro! Â¡GUARDIAS! Â¡GUARDIAS!}
+{108}{}{Que le vaya bien, capitÃ¡n.}
+{109}{}{Ciudad Refugio prevalece, capitÃ¡n.}
 {110}{}{Que te vaya bien, Ciudadano.}
 {111}{}{Ciudad Refugio prevalece, Ciudadano.}
-{112}{}{Listas, listas, listas... ¡adoro las listas!}
+{112}{}{Listas, listas, listas... Â¡adoro las listas!}
 {113}{}{Compila el formulario 5632 en el servidor de listas...}
-{114}{}{Haz una lista de las listas 43A hasta 121B... e introdúcelas en el Archivo de Listas...}
-{115}{}{Hace un precioso día para compilar listas.}
-{116}{}{Aún tengo que terminar estas listas antes de irme a dormir...}
-{117}{}{Vuelve por la mañana. Ya debería haber terminado para entonces.}
+{114}{}{Haz una lista de las listas 43A hasta 121B... e introdÃºcelas en el Archivo de Listas...}
+{115}{}{Hace un precioso dÃ­a para compilar listas.}
+{116}{}{AÃºn tengo que terminar estas listas antes de irme a dormir...}
+{117}{}{Vuelve por la maÃ±ana. Ya deberÃ­a haber terminado para entonces.}
 {118}{}{Asqueroso mutante...}
-{119}{}{No sé cómo lograste hacerte Ciudadano. Para mí no eres más que un mutante. Si tan solo alguien me creyera...}
-{120}{}{No sé cómo lograste hacerte capitán. Para mí no eres más que un mutante. Si tan solo alguien me creyera...}
-{121}{}{Perdona... ¿puedo ayudarte?}
+{119}{}{No sÃ© cÃ³mo lograste hacerte Ciudadano. Para mÃ­ no eres mÃ¡s que un mutante. Si tan solo alguien me creyera...}
+{120}{}{No sÃ© cÃ³mo lograste hacerte capitÃ¡n. Para mÃ­ no eres mÃ¡s que un mutante. Si tan solo alguien me creyera...}
+{121}{}{Perdona... Â¿puedo ayudarte?}
 {122}{}{Ayudar-te.}
 {123}{}{Dejas de balbucear}
-{124}{}{¿Quién eres?}
+{124}{}{Â¿QuiÃ©n eres?}
 {125}{}{Solo estaba echando un vistazo, gracias.}
-{126}{}{¡¿OTRO siervo que se ha desviado de su recorrido?! Informaré sobre Barkus si sigue dejando que vagabundeen por ahí... en cuanto a ti... ¡Fuera! ¡Sal disparado!}
-{127}{}{¿DISPARADO a ti? Va-le.}
+{126}{}{Â¡Â¿OTRO siervo que se ha desviado de su recorrido?! InformarÃ© sobre Barkus si sigue dejando que vagabundeen por ahÃ­... en cuanto a ti... Â¡Fuera! Â¡Sal disparado!}
+{127}{}{Â¿DISPARADO a ti? Va-le.}
 {128}{}{Dejas de balbucear}
-{129}{}{*Tchh* Estos siervos parecen volverse más estúpidos cada día.}
-{130}{}{Soy el procónsul Gregory. ¿Está buscando la oficina, o...?}
-{131}{}{¿"Procónsul"? ¿Qué demonios es un "Procónsul"?}
-{132}{}{¿Qué haces aquí?}
+{129}{}{*Tchh* Estos siervos parecen volverse mÃ¡s estÃºpidos cada dÃ­a.}
+{130}{}{Soy el procÃ³nsul Gregory. Â¿EstÃ¡ buscando la oficina, o...?}
+{131}{}{Â¿"ProcÃ³nsul"? Â¿QuÃ© demonios es un "ProcÃ³nsul"?}
+{132}{}{Â¿QuÃ© haces aquÃ­?}
 {133}{}{Solo estaba echando un vistazo, gracias.}
-{134}{}{Soy el ASISTENTE de la Primer Ciudadano. Yo programo sus visitas, administro el test de Ciudadanía a candidatos potenciales, y actualizo todas las listas en el servidor de Ciudad Refugio. No es poco trabajo, te lo aseguro.}
-{135}{}{¿El test de Ciudadanía?}
-{136}{}{Hablando del test de Ciudadanía, quiero hacerlo otra vez.}
-{137}{}{¿Puedo hacerte unas preguntas?}
+{134}{}{Soy el ASISTENTE de la Primer Ciudadano. Yo programo sus visitas, administro el test de CiudadanÃ­a a candidatos potenciales, y actualizo todas las listas en el servidor de Ciudad Refugio. No es poco trabajo, te lo aseguro.}
+{135}{}{Â¿El test de CiudadanÃ­a?}
+{136}{}{Hablando del test de CiudadanÃ­a, quiero hacerlo otra vez.}
+{137}{}{Â¿Puedo hacerte unas preguntas?}
 {138}{}{Ya veo. Bueno, tengo que irme.}
-{139}{}{Sí, esa es la manera CORRECTA... puedes convertirte en Ciudadano haciendo el test de Ciudadanía.}
-{140}{}{Sí, soy el responsable de administrar el test de Ciudadanía a todo aquel que desee convertirse en Ciudadano de Ciudad Refugio.}
-{141}{}{¿Qué es el test, exactamente?}
+{139}{}{SÃ­, esa es la manera CORRECTA... puedes convertirte en Ciudadano haciendo el test de CiudadanÃ­a.}
+{140}{}{SÃ­, soy el responsable de administrar el test de CiudadanÃ­a a todo aquel que desee convertirse en Ciudadano de Ciudad Refugio.}
+{141}{}{Â¿QuÃ© es el test, exactamente?}
 {142}{}{Quiero hacer el test de nuevo.}
-{143}{}{¿Cuáles son los beneficios de ser Ciudadano?}
-{144}{}{¿Puedo hacerte alguna otra pregunta?}
-{145}{}{Ya veo. Quizás hablemos de nuevo más tarde.}
-{146}{}{¿Beneficios? Mira a tu alrededor... Ciudad Refugio es la ciudad más segura y rica del Yermo. Los Ciudadanos reciben tratamiento médico gratuito, hay comida y agua de sobra, y no hay crímenes o enfermedades.}
-{147}{}{¿Qué es el test, exactamente?}
+{143}{}{Â¿CuÃ¡les son los beneficios de ser Ciudadano?}
+{144}{}{Â¿Puedo hacerte alguna otra pregunta?}
+{145}{}{Ya veo. QuizÃ¡s hablemos de nuevo mÃ¡s tarde.}
+{146}{}{Â¿Beneficios? Mira a tu alrededor... Ciudad Refugio es la ciudad mÃ¡s segura y rica del Yermo. Los Ciudadanos reciben tratamiento mÃ©dico gratuito, hay comida y agua de sobra, y no hay crÃ­menes o enfermedades.}
+{147}{}{Â¿QuÃ© es el test, exactamente?}
 {148}{}{Suena bien. Quiero hacer el test de nuevo.}
-{149}{}{¿Puedo hacerte alguna otra pregunta?}
-{150}{}{Ya veo. Quizás hablemos de nuevo más tarde.}
-{151}{}{Es un examen de comprensión, dividido en varias partes... matemáticas avanzadas, relaciones espaciales, razonamiento deductivo, comprensión lingüística... oh, y también hay que pasar un examen físico.}
-{152}{}{¿Qu... matemáticas avanzadas? Eh, ¿no hay ningún objeto que pueda conseguir o alguien con quien pueda pelear para adquirir la Ciudadanía?}
-{153}{}{Parece... complicado. Eh, ¿puedo hacer el test?}
-{154}{}{Parece difícil. Me gustaría hacer el test, si es que puedo.}
-{155}{}{Parece elemental. Me gustaría hacer ese test de Ciudadanía.}
-{156}{}{¿No pruebas la agudeza visual o las habilidades lógicas de la persona? Hmmm. Bueno, tal vez deberías considerar el revisar el test en el futuro... después de que yo lo haga.}
-{157}{}{Ya veo. ¿Puedo hacerte algunas otras preguntas?}
+{149}{}{Â¿Puedo hacerte alguna otra pregunta?}
+{150}{}{Ya veo. QuizÃ¡s hablemos de nuevo mÃ¡s tarde.}
+{151}{}{Es un examen de comprensiÃ³n, dividido en varias partes... matemÃ¡ticas avanzadas, relaciones espaciales, razonamiento deductivo, comprensiÃ³n lingÃ¼Ã­stica... oh, y tambiÃ©n hay que pasar un examen fÃ­sico.}
+{152}{}{Â¿Qu... matemÃ¡ticas avanzadas? Eh, Â¿no hay ningÃºn objeto que pueda conseguir o alguien con quien pueda pelear para adquirir la CiudadanÃ­a?}
+{153}{}{Parece... complicado. Eh, Â¿puedo hacer el test?}
+{154}{}{Parece difÃ­cil. Me gustarÃ­a hacer el test, si es que puedo.}
+{155}{}{Parece elemental. Me gustarÃ­a hacer ese test de CiudadanÃ­a.}
+{156}{}{Â¿No pruebas la agudeza visual o las habilidades lÃ³gicas de la persona? Hmmm. Bueno, tal vez deberÃ­as considerar el revisar el test en el futuro... despuÃ©s de que yo lo haga.}
+{157}{}{Ya veo. Â¿Puedo hacerte algunas otras preguntas?}
 {158}{}{Interesante. Gracias por tu tiempo.}
-{159}{}{Bueno, si finalizas esa tarea para la Primer Ciudadano, ella te dará la Ciudadanía, aunque no la merezcas. Supongo que tendrá sus motivos.}
+{159}{}{Bueno, si finalizas esa tarea para la Primer Ciudadano, ella te darÃ¡ la CiudadanÃ­a, aunque no la merezcas. Supongo que tendrÃ¡ sus motivos.}
 {160}{}{No. Si quieres convertirte en Ciudadano, debes hacer el test.}
-{161}{}{¿No apruebas que me otorgue la Ciudadanía por eso?}
-{162}{}{Entonces me arriesgaré con el test.}
-{163}{}{Entonces, haré el test de nuevo.}
-{164}{}{Hmmm. ¿Te puedo hacer algunas otras preguntas?}
-{165}{}{Gracias por tu tiempo. Adiós.}
-{166}{}{¿Deseas hacer el test? ¡Excelente, excelente! Nada me gusta más que hacer tests a candidatos potenciales... pero he de advertirte que esta prueba dura unas cuantas horas. ¿Deseas hacerla ahora?}
-{167}{}{Bueno, cualquiera puede hacer el test. Creo que en tu caso, sin embargo, sería una pérdida de tiempo... para ambos. Alguien de tu calibre simplemente no es material para Ciudadano.}
+{161}{}{Â¿No apruebas que me otorgue la CiudadanÃ­a por eso?}
+{162}{}{Entonces me arriesgarÃ© con el test.}
+{163}{}{Entonces, harÃ© el test de nuevo.}
+{164}{}{Hmmm. Â¿Te puedo hacer algunas otras preguntas?}
+{165}{}{Gracias por tu tiempo. AdiÃ³s.}
+{166}{}{Â¿Deseas hacer el test? Â¡Excelente, excelente! Nada me gusta mÃ¡s que hacer tests a candidatos potenciales... pero he de advertirte que esta prueba dura unas cuantas horas. Â¿Deseas hacerla ahora?}
+{167}{}{Bueno, cualquiera puede hacer el test. Creo que en tu caso, sin embargo, serÃ­a una pÃ©rdida de tiempo... para ambos. Alguien de tu calibre simplemente no es material para Ciudadano.}
 {168}{}{Claro.}
-{169}{}{Ahora no. ¿Te puedo hacer alguna pregunta más?}
-{170}{}{Quizá en algún otro momento.}
-{171}{}{Me gustaría hacer el test de todos modos.}
-{172}{}{Sólo dame el maldito test.}
-{173}{}{Entonces olvídalo. ¿Te puedo hacer alguna pregunta más?}
-{174}{}{Da igual. Me largo de aquí.}
+{169}{}{Ahora no. Â¿Te puedo hacer alguna pregunta mÃ¡s?}
+{170}{}{QuizÃ¡ en algÃºn otro momento.}
+{171}{}{Me gustarÃ­a hacer el test de todos modos.}
+{172}{}{SÃ³lo dame el maldito test.}
+{173}{}{Entonces olvÃ­dalo. Â¿Te puedo hacer alguna pregunta mÃ¡s?}
+{174}{}{Da igual. Me largo de aquÃ­.}
 {175}{}{Muy bien.}
-{176}{}{Hmmm. Bueno, estás en tu derecho, aunque dudo que eso importe.}
-{177}{}{Aquí están los formularios 5028, 6112, y la consola de respuestas PipBoy. Por favor, asegúrate de rellenar cada círculo POR COMPLETO. Ahora, si me haces el favor de sentarte aquí...}
+{176}{}{Hmmm. Bueno, estÃ¡s en tu derecho, aunque dudo que eso importe.}
+{177}{}{AquÃ­ estÃ¡n los formularios 5028, 6112, y la consola de respuestas PipBoy. Por favor, asegÃºrate de rellenar cada cÃ­rculo POR COMPLETO. Ahora, si me haces el favor de sentarte aquÃ­...}
 {178}{}{De acuerdo.}
-{179}{}{¿Ya has terminado? ¿Seguro que no quieres revisar tus respuestas?}
-{180}{}{De acuerdo, se acabó el tiempo. Veamos tus formularios.}
-{181}{}{Ya está. Aquí tienes.}
-{182}{}{¡Espera! Solo un minuto más... oh, olvídalo. Aquí tienes.}
-{183}{}{Hmmm... no, no... esto está mal... esto tampoco está bien... un error de división por cero... hmmm... tendrías que haber llevado dos... oh Dios, tu vocabulario también es tristemente escaso, por lo que veo.}
-{184}{}{Veamos... veo que olvidaste señalar la ecuación sub-derivativa... y no reparaste en el significado esencial del párrafo siete, ambas partes... y la pirámide del diagrama puede cruzarse ocho veces, no tres.}
+{179}{}{Â¿Ya has terminado? Â¿Seguro que no quieres revisar tus respuestas?}
+{180}{}{De acuerdo, se acabÃ³ el tiempo. Veamos tus formularios.}
+{181}{}{Ya estÃ¡. AquÃ­ tienes.}
+{182}{}{Â¡Espera! Solo un minuto mÃ¡s... oh, olvÃ­dalo. AquÃ­ tienes.}
+{183}{}{Hmmm... no, no... esto estÃ¡ mal... esto tampoco estÃ¡ bien... un error de divisiÃ³n por cero... hmmm... tendrÃ­as que haber llevado dos... oh Dios, tu vocabulario tambiÃ©n es tristemente escaso, por lo que veo.}
+{184}{}{Veamos... veo que olvidaste seÃ±alar la ecuaciÃ³n sub-derivativa... y no reparaste en el significado esencial del pÃ¡rrafo siete, ambas partes... y la pirÃ¡mide del diagrama puede cruzarse ocho veces, no tres.}
 {185}{}{Bueno, las respuestas que LOGRASTE escribir parecen estar bien... entregaste el test puntualmente... hay flagrantes errores gramaticales y...}
-{186}{}{¿Y...?}
-{187}{}{Bueno, lamento informarte de que no puedo otorgarte la Ciudadanía en esta ocasión.}
-{188}{}{Francamente, no parece que tengas la inteligencia necesaria para comprender las matemáticas de alto nivel.}
-{189}{}{Por decirlo así, tu comprensión de las relaciones espaciales raya lo imperceptible.}
-{190}{}{Por decirlo de algún modo, no parece que hayas hecho muy bien el test. Quizá tengas más suerte la próxima vez.}
-{191}{}{Quizá en otra ocasión entonces.}
-{192}{}{Bien, echemos un vistazo... primero, veamos si... oh, muy bien, veo que lo pillaste, a ver... pues sí, llevaste las dos, muy listo, muy listo... pero cómo... oh, aplicaste la derivativa en la #5... ¡brillante!}
+{186}{}{Â¿Y...?}
+{187}{}{Bueno, lamento informarte de que no puedo otorgarte la CiudadanÃ­a en esta ocasiÃ³n.}
+{188}{}{Francamente, no parece que tengas la inteligencia necesaria para comprender las matemÃ¡ticas de alto nivel.}
+{189}{}{Por decirlo asÃ­, tu comprensiÃ³n de las relaciones espaciales raya lo imperceptible.}
+{190}{}{Por decirlo de algÃºn modo, no parece que hayas hecho muy bien el test. QuizÃ¡ tengas mÃ¡s suerte la prÃ³xima vez.}
+{191}{}{QuizÃ¡ en otra ocasiÃ³n entonces.}
+{192}{}{Bien, echemos un vistazo... primero, veamos si... oh, muy bien, veo que lo pillaste, a ver... pues sÃ­, llevaste las dos, muy listo, muy listo... pero cÃ³mo... oh, aplicaste la derivativa en la #5... Â¡brillante!}
 {193}{}{Por SUPUESTO que fue brillante}
-{194}{}{Pues... ¡has aprobado! Enhorabuena.}
-{195}{}{Genial. ¿Así que soy Ciudadano?}
-{196}{}{Bueno, aun tenemos que hacer la prueba física. Afortunadamente, tengo el equipamiento aquí mismo. Tal vez quieras quitarte las botas.}
+{194}{}{Pues... Â¡has aprobado! Enhorabuena.}
+{195}{}{Genial. Â¿AsÃ­ que soy Ciudadano?}
+{196}{}{Bueno, aun tenemos que hacer la prueba fÃ­sica. Afortunadamente, tengo el equipamiento aquÃ­ mismo. Tal vez quieras quitarte las botas.}
 {197}{}{Vale.}
-{198}{}{Tú... ¡tienes un sexto dedo! ¡Eres un mutante! ¡Como te atreviste siquiera a INTENTAR ser uno de los nuestros... tú... tú, abominación! ¡Largo! ¡Fuera! ¡Y no vuelvas más!}
+{198}{}{TÃº... Â¡tienes un sexto dedo! Â¡Eres un mutante! Â¡Como te atreviste siquiera a INTENTAR ser uno de los nuestros... tÃº... tÃº, abominaciÃ³n! Â¡Largo! Â¡Fuera! Â¡Y no vuelvas mÃ¡s!}
 {199}{}{Esta es la parte en la que me cabreo y mato a todos los Ciudadanos de Ciudad Refugio solo para divertirme. Empezando por ti.}
-{200}{}{¡Me voy, me voy!}
-{201}{}{Tu presión sanguínea parece buena, no he detectado enfermedades contagiosas... felicidades, Ciudadano. Bienvenido a Ciudad Refugio.}
-{202}{}{Gracias. Es bueno estar aquí.}
-{203}{}{Tú otra vez. ¿Puedo ayudarte?}
-{204}{}{Supongo... ¿qué te gustaría saber?}
-{205}{}{¿Puedes repetirme qué haces aquí?}
-{206}{}{¿Puedo hacer el test de Ciudadanía?}
-{207}{}{¿Puedo hacer el test de Ciudadanía otra vez?}
-{208}{}{¿Qué me puedes contar de Gecko?}
-{209}{}{Ya veo. Quizá hablemos de nuevo más tarde.}
-{210}{}{Bueno, si finalizas esa tarea para la Primer Ciudadano, ella te dará la Ciudadanía, aunque no la merezcas. Supongo que tendrá sus motivos.}
-{211}{}{¿Hay alguna otra manera de hacerse Ciudadano?}
-{212}{}{¿No apruebas que me otorgue la Ciudadanía por eso?}
-{213}{}{¿Puedo hacerte alguna otra pregunta?}
-{214}{}{Hmm. Adiós.}
-{215}{}{No estoy en posición de cuestionar las acciones de la Primer Ciudadano}
-{216}{}{¿Hay alguna otra manera de hacerse Ciudadano?}
-{217}{}{¿Puedo hacerte alguna otra pregunta?}
+{200}{}{Â¡Me voy, me voy!}
+{201}{}{Tu presiÃ³n sanguÃ­nea parece buena, no he detectado enfermedades contagiosas... felicidades, Ciudadano. Bienvenido a Ciudad Refugio.}
+{202}{}{Gracias. Es bueno estar aquÃ­.}
+{203}{}{TÃº otra vez. Â¿Puedo ayudarte?}
+{204}{}{Supongo... Â¿quÃ© te gustarÃ­a saber?}
+{205}{}{Â¿Puedes repetirme quÃ© haces aquÃ­?}
+{206}{}{Â¿Puedo hacer el test de CiudadanÃ­a?}
+{207}{}{Â¿Puedo hacer el test de CiudadanÃ­a otra vez?}
+{208}{}{Â¿QuÃ© me puedes contar de Gecko?}
+{209}{}{Ya veo. QuizÃ¡ hablemos de nuevo mÃ¡s tarde.}
+{210}{}{Bueno, si finalizas esa tarea para la Primer Ciudadano, ella te darÃ¡ la CiudadanÃ­a, aunque no la merezcas. Supongo que tendrÃ¡ sus motivos.}
+{211}{}{Â¿Hay alguna otra manera de hacerse Ciudadano?}
+{212}{}{Â¿No apruebas que me otorgue la CiudadanÃ­a por eso?}
+{213}{}{Â¿Puedo hacerte alguna otra pregunta?}
+{214}{}{Hmm. AdiÃ³s.}
+{215}{}{No estoy en posiciÃ³n de cuestionar las acciones de la Primer Ciudadano}
+{216}{}{Â¿Hay alguna otra manera de hacerse Ciudadano?}
+{217}{}{Â¿Puedo hacerte alguna otra pregunta?}
 {218}{}{No importa, entonces.}
-{219}{}{¿Gecko? Es una asquerosa ciudad ruinosa al norte, habitada por esas criaturas, esos... "necrófagos". ¡Son los responsables de envenenar el agua del subsuelo, ya sabes! ¡Es un obvio acto de terrorismo contra Ciudad Refugio!}
-{220}{}{¿Quienes están envenenando el agua?}
-{221}{}{Hmmm. ¿Te puedo hacer algunas otras preguntas?}
-{222}{}{Gracias, adiós.}
-{223}{}{Su asquerosa ciudad está construida en torno a una antigua central nuclear... ¡una central que, DE ALGÚN MODO, volvieron a encender y ahora está filtrando radiación! ¡Esas criaturas tienen que ser sacadas de ahí y esa central debe apagarse!}
-{224}{}{Hmmm. ¿Te puedo hacer algunas otras preguntas?}
-{225}{}{Gracias por la información. Adiós.}
-{226}{}{Has aprobado el test de Ciudadanía y te has convertido en un Ciudadano de Ciudad Refugio.}
+{219}{}{Â¿Gecko? Es una asquerosa ciudad ruinosa al norte, habitada por esas criaturas, esos... "necrÃ³fagos". Â¡Son los responsables de envenenar el agua del subsuelo, ya sabes! Â¡Es un obvio acto de terrorismo contra Ciudad Refugio!}
+{220}{}{Â¿Quienes estÃ¡n envenenando el agua?}
+{221}{}{Hmmm. Â¿Te puedo hacer algunas otras preguntas?}
+{222}{}{Gracias, adiÃ³s.}
+{223}{}{Su asquerosa ciudad estÃ¡ construida en torno a una antigua central nuclear... Â¡una central que, DE ALGÃšN MODO, volvieron a encender y ahora estÃ¡ filtrando radiaciÃ³n! Â¡Esas criaturas tienen que ser sacadas de ahÃ­ y esa central debe apagarse!}
+{224}{}{Hmmm. Â¿Te puedo hacer algunas otras preguntas?}
+{225}{}{Gracias por la informaciÃ³n. AdiÃ³s.}
+{226}{}{Has aprobado el test de CiudadanÃ­a y te has convertido en un Ciudadano de Ciudad Refugio.}

@@ -1,50 +1,50 @@
-{100}{}{Você vê uma pessoa carregando uma arma poderosa.}
-{101}{}{Você vê um membro do corpo de comércio e proteção de Broken Hills.}
-{102}{}{Você vê uma pessoa carregando uma arma poderosa e coberta pela poeira da trilha.}
-{103}{}{Te juro, mais um grupo de salteadores e eu vou carregando dinamite na próxima viagem.}
-{104}{}{Um pouco mais de ajuda com as caravanas não faria mal.}
-{105}{}{Amigo... a coisa da patrulha da Unidade já está cansando.}
-{106}{}{Então eu vi aquele tribal aparecer e... não importa.}
-{107}{}{Mais um piada sobre "patrulha arco-íris" e eu mato um.}
-{108}{}{Sério, se os bandidos piorarem vamos todos morrer no próximo ano.}
-{109}{}{De que desgraça de aldeia você veio?}
+{100}{}{VocÃª vÃª uma pessoa carregando uma arma poderosa.}
+{101}{}{VocÃª vÃª um membro do corpo de comÃ©rcio e proteÃ§Ã£o de Broken Hills.}
+{102}{}{VocÃª vÃª uma pessoa carregando uma arma poderosa e coberta pela poeira da trilha.}
+{103}{}{Te juro, mais um grupo de salteadores e eu vou carregando dinamite na prÃ³xima viagem.}
+{104}{}{Um pouco mais de ajuda com as caravanas nÃ£o faria mal.}
+{105}{}{Amigo... a coisa da patrulha da Unidade jÃ¡ estÃ¡ cansando.}
+{106}{}{EntÃ£o eu vi aquele tribal aparecer e... nÃ£o importa.}
+{107}{}{Mais um piada sobre "patrulha arco-Ã­ris" e eu mato um.}
+{108}{}{SÃ©rio, se os bandidos piorarem vamos todos morrer no prÃ³ximo ano.}
+{109}{}{De que desgraÃ§a de aldeia vocÃª veio?}
 {110}{}{Comprar uma bebida para um trabalhador?}
 {111}{}{Esse trabalho de caravana me deixa muito cansado para ter vontade de falar.}
-{112}{}{Você precisa de algo, fale com Bill, o Fornecedor.}
-{113}{}{Qualquer um pensaria que depois de todo esse tempo tentando civilizar o deserto estaríamos um pouco mais perto de nosso objetivo.}
-{114}{}{Já cansei dessas disputas entre humanos e mutantes. Não deveríamos ser um exemplo?}
-{115}{}{Que foi? Não vê que estou descansando?}
-{116}{}{Quando a próxima caravana sai?}
-{117}{}{Patrulhar, patrulhar, patrulhar... é tudo o que faço por aqui.}
+{112}{}{VocÃª precisa de algo, fale com Bill, o Fornecedor.}
+{113}{}{Qualquer um pensaria que depois de todo esse tempo tentando civilizar o deserto estarÃ­amos um pouco mais perto de nosso objetivo.}
+{114}{}{JÃ¡ cansei dessas disputas entre humanos e mutantes. NÃ£o deverÃ­amos ser um exemplo?}
+{115}{}{Que foi? NÃ£o vÃª que estou descansando?}
+{116}{}{Quando a prÃ³xima caravana sai?}
+{117}{}{Patrulhar, patrulhar, patrulhar... Ã© tudo o que faÃ§o por aqui.}
 {118}{}{Acho que preciso de um cochilo.}
-{119}{}{Eu mereço um aumento, esse é um trabalho perigoso.}
-{200}{}{Ajudar você?}
+{119}{}{Eu mereÃ§o um aumento, esse Ã© um trabalho perigoso.}
+{200}{}{Ajudar vocÃª?}
 {201}{}{Sim, estou procurando o mestre da caravana.}
 {202}{}{Gostaria de saber se posso fazer umas perguntas sobre Chad.}
-{203}{}{Quem é você?}
-{204}{}{Não, obrigado.}
-{205}{}{Nesse caso, você precisa falar com Bill, o Fornecedor de Broken Hills. Ele está dentro daquele prédio ali.}
+{203}{}{Quem Ã© vocÃª?}
+{204}{}{NÃ£o, obrigado.}
+{205}{}{Nesse caso, vocÃª precisa falar com Bill, o Fornecedor de Broken Hills. Ele estÃ¡ dentro daquele prÃ©dio ali.}
 {206}{}{Tenho mais umas perguntas.}
 {207}{}{Obrigado. Tchau.}
-{208}{}{Você tem perguntas, talvez eu tenha respostas. O que você quer saber?}
-{209}{}{Como ele é?}
-{210}{}{Ele é confiável?}
+{208}{}{VocÃª tem perguntas, talvez eu tenha respostas. O que vocÃª quer saber?}
+{209}{}{Como ele Ã©?}
+{210}{}{Ele Ã© confiÃ¡vel?}
 {211}{}{Onde ele consegue seu dinheiro?}
-{212}{}{Qual é a história dele?}
-{213}{}{Esqueça. Até logo.}
+{212}{}{Qual Ã© a histÃ³ria dele?}
+{213}{}{EsqueÃ§a. AtÃ© logo.}
 {214}{}{Eu? Sou }
 {215}{}{. Sou um guarda das caravanas de Bill. Algo mais?}
-{216}{}{Como ele é? Bem, ele é amigável, mas meio brusco. Ele é um bom chefe e geralmente justo nós.
- Ele não nos trata mal nem nada, se é o que quer dizer. Mais alguma pergunta?}
-{217}{}{Bem, tem um ar meio obscuro, eu acho... então, a maioria das pessoas também é hoje em dia. Alguma outra pergunta?}
-{218}{}{Sempre achei que ele seria confiável - e muito, na verdade. Não é o tipo de coisa que você 
- deveria perguntar por aí. Mais alguma pergunta?}
-{219}{}{Não tenho ideia de qual é sua história. Quero dizer, quase todos nós, guardas de caravana, somos vagabundos
- que vieram para o trabalho. Imagino que ele é outra pessoa que teve que sair correndo de algum lugar. 
+{216}{}{Como ele Ã©? Bem, ele Ã© amigÃ¡vel, mas meio brusco. Ele Ã© um bom chefe e geralmente justo nÃ³s.
+ Ele nÃ£o nos trata mal nem nada, se Ã© o que quer dizer. Mais alguma pergunta?}
+{217}{}{Bem, tem um ar meio obscuro, eu acho... entÃ£o, a maioria das pessoas tambÃ©m Ã© hoje em dia. Alguma outra pergunta?}
+{218}{}{Sempre achei que ele seria confiÃ¡vel - e muito, na verdade. NÃ£o Ã© o tipo de coisa que vocÃª 
+ deveria perguntar por aÃ­. Mais alguma pergunta?}
+{219}{}{NÃ£o tenho ideia de qual Ã© sua histÃ³ria. Quero dizer, quase todos nÃ³s, guardas de caravana, somos vagabundos
+ que vieram para o trabalho. Imagino que ele Ã© outra pessoa que teve que sair correndo de algum lugar. 
  Alguma outra pergunta?}
 {220}{}{Sim.}
-{221}{}{Não.}
-{222}{}{Tudo bem, até logo então.}
+{221}{}{NÃ£o.}
+{222}{}{Tudo bem, atÃ© logo entÃ£o.}
 {223}{}{Adeus.}
 {300}{}{Hatch}
 {301}{}{Stark}
@@ -74,6 +74,6 @@
 {411}{}{Mary}
 {412}{}{Julie}
 {413}{}{Sarah}
-{450}{}{Você vê }
+{450}{}{VocÃª vÃª }
 {451}{}{, guarda da caravana.}
-{2050}{}{Nesse caso, você precisa falar com Bill, o Fornecedor de Broken Hills. Ele é o cara de chapéu, bem ali.}
+{2050}{}{Nesse caso, vocÃª precisa falar com Bill, o Fornecedor de Broken Hills. Ele Ã© o cara de chapÃ©u, bem ali.}

@@ -2,13 +2,13 @@
 {101}{}{It's Felix, the ranch foreman.}
 {102}{}{He looks like a cooler, tougher customer than the rest of the lot hanging around here.}
 {103}{}{What can I do for you, stranger?}
-{104}{}{Você novamente?}
+{104}{}{VocÃª novamente?}
 {105}{}{Nyeh.}
 {106}{}{The sheriff told me to come by - said Mr. Westin might have a job for me.}
 {107}{}{I'm here to see the boss.}
 {108}{}{Estou procurando trabalho.}
 {109}{}{I'm looking for Vault 13.}
-{110}{}{Apenas olhando por aí.}
+{110}{}{Apenas olhando por aÃ­.}
 {111}{}{Great, another idiot. I suppose you want to see the boss?}
 {112}{}{Uh-huh.}
 {113}{}{Nooo.}
@@ -19,7 +19,7 @@
 {118}{}{That's nice. Mr. Westin don't just see anybody. You got any cause?}
 {119}{}{I'm looking for Vault 13.}
 {120}{}{What if I said Bishop in New Reno sent me to kill him?}
-{121}{}{Uh, não.}
+{121}{}{Uh, nÃ£o.}
 {122}{}{Hah! Another crackpot. You ought to go talk to Saltbeef. You and he'd get along fine.}
 {123}{}{Quem?}
 {124}{}{To caindo fora daqui.}
@@ -34,7 +34,7 @@
 {133}{}{No. Me no kill.}
 {134}{}{Back again, are you? Job done?}
 {135}{}{Sim.}
-{136}{}{Não.}
+{136}{}{NÃ£o.}
 {137}{}{Yeah, he left orders. He's been expecting you.}
 {138}{}{HEY YOU! Get away from there!}
 {139}{}{Tudo bem.}

@@ -1,18 +1,18 @@
-{100}{}{Widzisz stra¿nika w luŸnym ubraniu, wygl¹da na znu¿onego czuwaniem.}
-{101}{}{Widzisz Stra¿nika Pa³acowego.}
-{102}{}{Widzisz Stra¿nika Pa³acowego.}
-{103}{}{Po prostu idŸ dalej, a nie bêdzie problemu.}
-{104}{}{Masz tu jakiœ interes?}
+{100}{}{Widzisz straÅ¼nika w luÅºnym ubraniu, wyglÄ…da na znuÅ¼onego czuwaniem.}
+{101}{}{Widzisz StraÅ¼nika PaÅ‚acowego.}
+{102}{}{Widzisz StraÅ¼nika PaÅ‚acowego.}
+{103}{}{Po prostu idÅº dalej, a nie bÄ™dzie problemu.}
+{104}{}{Masz tu jakiÅ› interes?}
 {105}{}{Mamy na ciebie oko.}
-{106}{}{Nie próbuj nic dziwnego.}
+{106}{}{Nie prÃ³buj nic dziwnego.}
 {107}{}{Traktuj naszych ludzi z szacunkiem.}
-{108}{}{Nie dotykaj tego - to ostatnie ostrze¿enie.}
-{109}{}{Trzymaj siê od tego z daleka.}
-{110}{}{Odsuñ siê, lao wai, albo naszpikujê ciê tak¹ iloœci¹ metalu, ¿e bêdziesz brzdêkaæ w czasie chodzenia.}
-{111}{}{Powoli odsuñ siê od tego. Jeden fa³szywy ruch i nie ¿yjesz.}
-{112}{}{Nawet o tym nie myœl.}
-{113}{}{Przestañ. JU¯.}
-{114}{}{Giñ, wrogu mego ludu!}
-{115}{}{Wysy³am ciê do piek³a rozpalonego metalu!}
-{116}{}{Niech Budda ma litoœæ nad twoim duchem!}
+{108}{}{Nie dotykaj tego - to ostatnie ostrzeÅ¼enie.}
+{109}{}{Trzymaj siÄ™ od tego z daleka.}
+{110}{}{OdsuÅ„ siÄ™, lao wai, albo naszpikujÄ™ ciÄ™ takÄ… iloÅ›ciÄ… metalu, Å¼e bÄ™dziesz brzdÄ™kaÄ‡ w czasie chodzenia.}
+{111}{}{Powoli odsuÅ„ siÄ™ od tego. Jeden faÅ‚szywy ruch i nie Å¼yjesz.}
+{112}{}{Nawet o tym nie myÅ›l.}
+{113}{}{PrzestaÅ„. JUÅ».}
+{114}{}{GiÅ„, wrogu mego ludu!}
+{115}{}{WysyÅ‚am ciÄ™ do piekÅ‚a rozpalonego metalu!}
+{116}{}{Niech Budda ma litoÅ›Ä‡ nad twoim duchem!}
 {117}{}{Cierp, wrogu!}

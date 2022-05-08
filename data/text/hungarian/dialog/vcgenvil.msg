@@ -1,9 +1,9 @@
 {100}{}{You see a peasant.}
 {101}{}{You see a peasant.}
-{102}{}{Helló!}
-{103}{}{Jó napot.}
+{102}{}{HellÃ³!}
+{103}{}{JÃ³ napot.}
 {104}{}{Welcome to our village.}
-{105}{}{Szörnyek oltalmaznak minket.}
+{105}{}{SzÃ¶rnyek oltalmaznak minket.}
 {106}{}{Welcome.}
 {107}{}{We will need those rifles soon.}
 {108}{}{Please hurry and bring us those weapons.}

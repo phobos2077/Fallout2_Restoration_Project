@@ -1,2 +1,2 @@
-1:Die Ghuls von Necropolis erfahren am eigenen Leib, was Austrocknen bedeutet, da ihre Stadt der Wüste zum Opfer fällt und das Wasser ausgeht.
-2:Ohne den Steuerchip zur Wasserreinigung können sie nicht überleben.
+1:Die Ghuls von Necropolis erfahren am eigenen Leib, was Austrocknen bedeutet, da ihre Stadt der WÃ¼ste zum Opfer fÃ¤llt und das Wasser ausgeht.
+2:Ohne den Steuerchip zur Wasserreinigung kÃ¶nnen sie nicht Ã¼berleben.

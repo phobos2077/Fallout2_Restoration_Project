@@ -1,16 +1,16 @@
-{100}{}{Widzisz stra¿nika ¯u¿lowców.}
-{150}{}{Poddaj siê albo giñ!}
-{151}{}{Poddajê siê.}
-{152}{}{Giñ!}
+{100}{}{Widzisz straÅ¼nika Å»uÅ¼lowcÃ³w.}
+{150}{}{Poddaj siÄ™ albo giÅ„!}
+{151}{}{PoddajÄ™ siÄ™.}
+{152}{}{GiÅ„!}
 {153}{}{Uga!}
-{154}{}{Jeœli chcesz siê widzieæ z Vegeirem, to mo¿emy ciê do niego odprowadziæ.}
-{155}{}{Nie teraz. Zobaczê siê z nim póŸniej.}
-{156}{}{Tak, muszê natychmiast widzieæ siê z Vegeirem.}
-{160}{}{Inteligencj¹ to ty nie grzeszysz, co!? Jeœli chcesz widzieæ siê z Vegeirem, idŸ i znajdŸ go sobie.}
+{154}{}{JeÅ›li chcesz siÄ™ widzieÄ‡ z Vegeirem, to moÅ¼emy ciÄ™ do niego odprowadziÄ‡.}
+{155}{}{Nie teraz. ZobaczÄ™ siÄ™ z nim pÃ³Åºniej.}
+{156}{}{Tak, muszÄ™ natychmiast widzieÄ‡ siÄ™ z Vegeirem.}
+{160}{}{InteligencjÄ… to ty nie grzeszysz, co!? JeÅ›li chcesz widzieÄ‡ siÄ™ z Vegeirem, idÅº i znajdÅº go sobie.}
 {200}{}{Nie ufam "powierzchniowcom".}
-{201}{}{Vegeir kaza³ nie krzywdziæ ciebie... NA RAZIE!}
-{202}{}{Naszym obowi¹zkiem jest ochrona naszych ludzi.}
-{203}{}{Obserwujê ciê.}
-{220}{}{Chyba jesteœ w porz¹dku... jak na "powierzchniowca".}
-{221}{}{Chyba mo¿emy ¿yæ w zgodzie z "powierzchniowcami".}
-{222}{}{Cieszê siê, ¿e moje obawy wobec ciebie by³y p³onne.}
+{201}{}{Vegeir kazaÅ‚ nie krzywdziÄ‡ ciebie... NA RAZIE!}
+{202}{}{Naszym obowiÄ…zkiem jest ochrona naszych ludzi.}
+{203}{}{ObserwujÄ™ ciÄ™.}
+{220}{}{Chyba jesteÅ› w porzÄ…dku... jak na "powierzchniowca".}
+{221}{}{Chyba moÅ¼emy Å¼yÄ‡ w zgodzie z "powierzchniowcami".}
+{222}{}{CieszÄ™ siÄ™, Å¼e moje obawy wobec ciebie byÅ‚y pÅ‚onne.}

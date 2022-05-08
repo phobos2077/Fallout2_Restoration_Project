@@ -1,34 +1,34 @@
 {100}{}{Widzisz Charliego.}
-{101}{}{Widzisz wychudzonego mê¿czyznê. Str¹ki jego brudnych w³osów zdaj¹ siê byæ przyklejone do g³owy.}
+{101}{}{Widzisz wychudzonego mÄ™Å¼czyznÄ™. StrÄ…ki jego brudnych wÅ‚osÃ³w zdajÄ… siÄ™ byÄ‡ przyklejone do gÅ‚owy.}
 {102}{}{Widzisz Charliego.}
-{103}{}{Widzisz wychudzonego mê¿czyznê. Str¹ki jego brudnych w³osów zdaj¹ siê byæ przyklejone do g³owy.}
-{104}{}{Widzisz wychudzonego mê¿czyznê... Ma wyraŸne symptomy choroby popromiennej.}
+{103}{}{Widzisz wychudzonego mÄ™Å¼czyznÄ™. StrÄ…ki jego brudnych wÅ‚osÃ³w zdajÄ… siÄ™ byÄ‡ przyklejone do gÅ‚owy.}
+{104}{}{Widzisz wychudzonego mÄ™Å¼czyznÄ™... Ma wyraÅºne symptomy choroby popromiennej.}
 {105}{}{Widzisz Charliego.}
-{106}{}{Widzisz wychudzonego mê¿czyznê... Ma wyraŸne symptomy choroby popromiennej.}
-{107}{}{Widzisz Charliego... chyba trochê przyty³ i oddycha normalnie.}
+{106}{}{Widzisz wychudzonego mÄ™Å¼czyznÄ™... Ma wyraÅºne symptomy choroby popromiennej.}
+{107}{}{Widzisz Charliego... chyba trochÄ™ przytyÅ‚ i oddycha normalnie.}
 {108}{}{Widzisz Charliego.}
-{109}{}{Widzisz Charliego... chyba trochê przyty³ i oddycha normalnie.}
-{110}{}{Ten cz³owiek cierpi na chorobê popromienn¹. Twoje umiejêtnoœci nie wystarcz¹, ¿eby mu pomóc. On potrzebuje pomocy medycznej.}
-{111}{}{Ten cz³owiek wygl¹da na bardzo schorowanego. Nie wiesz co mu dolega.}
-{112}{}{Dziêki, ale nic mi nie jest. Ten AntyRad bardzo mi pomóg³.}
-{113}{}{Znajdujesz ¿y³ê i wstrzykujesz Charliemu AntyRad.}
+{109}{}{Widzisz Charliego... chyba trochÄ™ przytyÅ‚ i oddycha normalnie.}
+{110}{}{Ten czÅ‚owiek cierpi na chorobÄ™ popromiennÄ…. Twoje umiejÄ™tnoÅ›ci nie wystarczÄ…, Å¼eby mu pomÃ³c. On potrzebuje pomocy medycznej.}
+{111}{}{Ten czÅ‚owiek wyglÄ…da na bardzo schorowanego. Nie wiesz co mu dolega.}
+{112}{}{DziÄ™ki, ale nic mi nie jest. Ten AntyRad bardzo mi pomÃ³gÅ‚.}
+{113}{}{Znajdujesz Å¼yÅ‚Ä™ i wstrzykujesz Charliemu AntyRad.}
 {114}{}{*Uhkkkk*...}
 {115}{}{3 sekundy}
 {116}{}{Uuunh...*kaszle*...}
 {117}{}{3 sekundy}
 {118}{}{Hrnnh... ech... aaaach}
 {119}{}{3 sekundy}
-{120}{}{Co siê sta³o? Czujê siê znacznie lepiej.}
-{121}{}{Charlie zosta³ wyleczony.}
+{120}{}{Co siÄ™ staÅ‚o? CzujÄ™ siÄ™ znacznie lepiej.}
+{121}{}{Charlie zostaÅ‚ wyleczony.}
 {122}{}{*Eaaach*}
-{123}{}{*Jêk*}
+{123}{}{*JÄ™k*}
 {124}{}{*Kaszel*}
 {125}{}{*Urhkkkk*}
-{126}{}{Ju¿ nigdy nie napijê siê wody w tym cholernym mieœcie, s³owo honoru.}
-{127}{}{Dziwne, ¿e nie zacz¹³em œwieciæ...}
-{128}{}{Od AntyRadu dostajê cholernej biegunki...}
-{129}{}{Dziêki. Jestem ci bardzo wdziêczny... Nie staæ mnie na pomoc medyczn¹.}
-{130}{}{Chcia³bym ci siê jakoœ odp³aciæ, ale nie mam przy sobie z³amanego grosza.}
-{131}{}{Ju¿ nigdy nie napijê siê wody w tym cholernym mieœcie, s³owo honoru.}
-{132}{}{Dziwne, ¿e nie zacz¹³em œwieciæ...}
-{133}{}{Od AntyRadu dostajê cholernej biegunki...}
+{126}{}{JuÅ¼ nigdy nie napijÄ™ siÄ™ wody w tym cholernym mieÅ›cie, sÅ‚owo honoru.}
+{127}{}{Dziwne, Å¼e nie zaczÄ…Å‚em Å›wieciÄ‡...}
+{128}{}{Od AntyRadu dostajÄ™ cholernej biegunki...}
+{129}{}{DziÄ™ki. Jestem ci bardzo wdziÄ™czny... Nie staÄ‡ mnie na pomoc medycznÄ….}
+{130}{}{ChciaÅ‚bym ci siÄ™ jakoÅ› odpÅ‚aciÄ‡, ale nie mam przy sobie zÅ‚amanego grosza.}
+{131}{}{JuÅ¼ nigdy nie napijÄ™ siÄ™ wody w tym cholernym mieÅ›cie, sÅ‚owo honoru.}
+{132}{}{Dziwne, Å¼e nie zaczÄ…Å‚em Å›wieciÄ‡...}
+{133}{}{Od AntyRadu dostajÄ™ cholernej biegunki...}

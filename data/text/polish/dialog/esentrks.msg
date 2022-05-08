@@ -1,1 +1,1 @@
-{100}{}{£adunek znajdowa³ siê zbyt nisko, ¿eby oczyœciæ drogê. Mo¿e istnieje lepszy sposób.}
+{100}{}{Åadunek znajdowaÅ‚ siÄ™ zbyt nisko, Å¼eby oczyÅ›ciÄ‡ drogÄ™. MoÅ¼e istnieje lepszy sposÃ³b.}

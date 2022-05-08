@@ -1,97 +1,97 @@
-{100}{}{Widzisz niskiego, znerwicowanego cz³owieka.}
+{100}{}{Widzisz niskiego, znerwicowanego czÅ‚owieka.}
 {101}{}{Widzisz wiceprezydenta Birda.}
-{102}{}{Widzisz niskiego, znerwicowanego cz³owieka, ubranego w poplamiony jedzeniem garnitur.}
-{103}{}{Oto jeden z naszych wspania³ych ¿o³nierzy. Co robisz w gabinecie wiceprezydenta?}
-{104}{}{Witaj, ¿o³nierzu. Co robisz w gabinecie wiceprezydenta?}
-{105}{}{Wygl¹dasz znajomo. Czy ja ciê ju¿ wczeœniej spotka³em? Có¿, niewa¿ne. Powiedz mi tylko, co w³aœciwie robisz w gabinecie wiceprezydenta?}
+{102}{}{Widzisz niskiego, znerwicowanego czÅ‚owieka, ubranego w poplamiony jedzeniem garnitur.}
+{103}{}{Oto jeden z naszych wspaniaÅ‚ych Å¼oÅ‚nierzy. Co robisz w gabinecie wiceprezydenta?}
+{104}{}{Witaj, Å¼oÅ‚nierzu. Co robisz w gabinecie wiceprezydenta?}
+{105}{}{WyglÄ…dasz znajomo. Czy ja ciÄ™ juÅ¼ wczeÅ›niej spotkaÅ‚em? CÃ³Å¼, niewaÅ¼ne. Powiedz mi tylko, co wÅ‚aÅ›ciwie robisz w gabinecie wiceprezydenta?}
 {106}{}{Gdzie?}
 {107}{}{Ee, jestem na rutynowym patrolu, ee, Sir.}
-{108}{}{Szukam intruzów.}
-{109}{}{Jestem tu, ¿eby jeszcze raz sprawdziæ nasze tajne plany.}
-{110}{}{Jestem tu by ciê zabiæ.}
-{111}{}{Kontynuujcie, ¿o³nierzu. Wy ch³opaki wykonujecie fantastyczna robotê. Dziêki wam jesteœmy gotowi na ka¿da ewentualnoœæ.}
-{112}{}{Hê?}
-{113}{}{Ee, tak. Có¿, chyba lepiej dokoñczê mój patrol. Do widzenia.}
-{114}{}{Hmm, powiedz mi, jak siê pisze skuwka? Przez 'U', czy nie?}
-{115}{}{Hmm, powiedz mi, jak siê pisze rze¿¹czka? Przez '¯', czy nie?}
-{116}{}{Hmm, powiedz mi, jak siê pisze chrz¹szcz? Przez 'rz', czy nie?}
-{117}{}{Hmm, powiedz mi, jak siê pisze tchórz? Przez 'Ó', czy nie?}
-{118}{}{Hmm, powiedz mi, jak siê pisze psychol? Przez 'ch', czy nie?}
+{108}{}{Szukam intruzÃ³w.}
+{109}{}{Jestem tu, Å¼eby jeszcze raz sprawdziÄ‡ nasze tajne plany.}
+{110}{}{Jestem tu by ciÄ™ zabiÄ‡.}
+{111}{}{Kontynuujcie, Å¼oÅ‚nierzu. Wy chÅ‚opaki wykonujecie fantastyczna robotÄ™. DziÄ™ki wam jesteÅ›my gotowi na kaÅ¼da ewentualnoÅ›Ä‡.}
+{112}{}{HÄ™?}
+{113}{}{Ee, tak. CÃ³Å¼, chyba lepiej dokoÅ„czÄ™ mÃ³j patrol. Do widzenia.}
+{114}{}{Hmm, powiedz mi, jak siÄ™ pisze skuwka? Przez 'U', czy nie?}
+{115}{}{Hmm, powiedz mi, jak siÄ™ pisze rzeÅ¼Ä…czka? Przez 'Å»', czy nie?}
+{116}{}{Hmm, powiedz mi, jak siÄ™ pisze chrzÄ…szcz? Przez 'rz', czy nie?}
+{117}{}{Hmm, powiedz mi, jak siÄ™ pisze tchÃ³rz? Przez 'Ã“', czy nie?}
+{118}{}{Hmm, powiedz mi, jak siÄ™ pisze psychol? Przez 'ch', czy nie?}
 {119}{}{Ee, przez.}
-{120}{}{Oczywiœcie, ¿e nie.}
-{121}{}{Oczywiœcie, ¿e tak, oczywiœcie. Ka¿dy lojalny obywatel Stanów Zjednoczonych tak by zrobi³.}
+{120}{}{OczywiÅ›cie, Å¼e nie.}
+{121}{}{OczywiÅ›cie, Å¼e tak, oczywiÅ›cie. KaÅ¼dy lojalny obywatel StanÃ³w Zjednoczonych tak by zrobiÅ‚.}
 {122}{}{Dlaczego?}
-{123}{}{Mam robotê do wykonania. Do widzenia.}
-{124}{}{Kontynuujcie, ¿o³nierzu. Nasza przysz³oœæ to lepsze jutro.}
-{125}{}{Co chcesz przez to powiedzieæ?}
-{126}{}{Nie dla ciebie. W³aœnie eksterminujê wszystkie gnidy z Enklawy - ty jesteœ nastêpny na liœcie.}
+{123}{}{Mam robotÄ™ do wykonania. Do widzenia.}
+{124}{}{Kontynuujcie, Å¼oÅ‚nierzu. Nasza przyszÅ‚oÅ›Ä‡ to lepsze jutro.}
+{125}{}{Co chcesz przez to powiedzieÄ‡?}
+{126}{}{Nie dla ciebie. WÅ‚aÅ›nie eksterminujÄ™ wszystkie gnidy z Enklawy - ty jesteÅ› nastÄ™pny na liÅ›cie.}
 {127}{}{Uch, pewnie. Jak chcesz. Na razie.}
-{128}{}{Musimy wspó³pracowaæ, poniewa¿ jeœli nam siê nie powiedzie, nara¿amy siê na niepowodzenie.}
-{129}{}{Mo¿e wasza pora¿ka nie by³aby tak straszna.}
-{130}{}{Có¿, lepiej pójdê.}
+{128}{}{Musimy wspÃ³Å‚pracowaÄ‡, poniewaÅ¼ jeÅ›li nam siÄ™ nie powiedzie, naraÅ¼amy siÄ™ na niepowodzenie.}
+{129}{}{MoÅ¼e wasza poraÅ¼ka nie byÅ‚aby tak straszna.}
+{130}{}{CÃ³Å¼, lepiej pÃ³jdÄ™.}
 {131}{}{Nie ujdzie ci to na sucho.}
 {132}{}{Zobaczymy.}
 {133}{}{Dlaczego nie?}
-{134}{}{Jedno s³owo podsumowuje odpowiedzialnoœæ spoczywaj¹c¹ na ka¿dym wiceprezydencie - to s³owo to 'byæ zawsze przygotowanym'.}
-{135}{}{Na co musi pan byæ przygotowany?}
-{136}{}{Czy to aby nie trzy s³owa? 'Przygotowanie' to jedno s³owo. O to chodzi³o, tak?}
-{137}{}{Mo¿e to jest najlepsze. Staraæ siê byæ zwiêz³ym. Bo przecie¿ rozwlek³oœæ prowadzi do niejasnych, niewymawialnych rzeczy.}
-{138}{}{Wyobra¿am sobie.}
-{139}{}{Muszê ju¿ iœæ. Do widzenia.}
-{140}{}{Chodzi³o mi o to, ¿e nie chcemy siê cofaæ. My chcemy iœæ naprzód.}
+{134}{}{Jedno sÅ‚owo podsumowuje odpowiedzialnoÅ›Ä‡ spoczywajÄ…cÄ… na kaÅ¼dym wiceprezydencie - to sÅ‚owo to 'byÄ‡ zawsze przygotowanym'.}
+{135}{}{Na co musi pan byÄ‡ przygotowany?}
+{136}{}{Czy to aby nie trzy sÅ‚owa? 'Przygotowanie' to jedno sÅ‚owo. O to chodziÅ‚o, tak?}
+{137}{}{MoÅ¼e to jest najlepsze. StaraÄ‡ siÄ™ byÄ‡ zwiÄ™zÅ‚ym. Bo przecieÅ¼ rozwlekÅ‚oÅ›Ä‡ prowadzi do niejasnych, niewymawialnych rzeczy.}
+{138}{}{WyobraÅ¼am sobie.}
+{139}{}{MuszÄ™ juÅ¼ iÅ›Ä‡. Do widzenia.}
+{140}{}{ChodziÅ‚o mi o to, Å¼e nie chcemy siÄ™ cofaÄ‡. My chcemy iÅ›Ä‡ naprzÃ³d.}
 {141}{}{A czy to nie jest przypadkiem jedyna droga?}
-{142}{}{No có¿, nigdy nie mo¿na byæ nazbyt ostro¿nym, w koñcu nigdy nie wiadomo jak bardzo nieodpowiedzialny cz³owiek na wysokim stanowisku mo¿e zmieniæ bieg historii.}
-{143}{}{Tak, w³aœnie widzê.}
-{144}{}{A jaki wp³yw na historiê chce mieæ pan?}
-{145}{}{Tak, lubiê ten kierunek. W przesz³oœci dokonywa³em dobrych wyborów. W przysz³oœci równie¿. A wiêc, jak wszystko na to wskazuje, idŸmy w tym kierunku.}
+{142}{}{No cÃ³Å¼, nigdy nie moÅ¼na byÄ‡ nazbyt ostroÅ¼nym, w koÅ„cu nigdy nie wiadomo jak bardzo nieodpowiedzialny czÅ‚owiek na wysokim stanowisku moÅ¼e zmieniÄ‡ bieg historii.}
+{143}{}{Tak, wÅ‚aÅ›nie widzÄ™.}
+{144}{}{A jaki wpÅ‚yw na historiÄ™ chce mieÄ‡ pan?}
+{145}{}{Tak, lubiÄ™ ten kierunek. W przeszÅ‚oÅ›ci dokonywaÅ‚em dobrych wyborÃ³w. W przyszÅ‚oÅ›ci rÃ³wnieÅ¼. A wiÄ™c, jak wszystko na to wskazuje, idÅºmy w tym kierunku.}
 {146}{}{Tak.}
-{147}{}{Wierzê, ¿e jesteœmy na bezpowrotnej drodze do wolnoœci i demokracji - ale to mo¿e siê zmieniæ.}
-{148}{}{Zanieczyszczonemu œrodowisku Pustkowi przyda³aby siê dla odmiany odrobina wolnoœci.}
-{149}{}{Nie wytrzymam tego d³u¿ej - pan po prostu musi zostaæ zlikwidowany.}
-{150}{}{Niech pan nie bêdzie g³upi. To nie zanieczyszczenia krzywdz¹ œrodowisko naturalne. To nieczystoœci w powietrzu i w wodzie, które to powoduj¹.}
-{151}{}{Naprawdê muszê ju¿ iœæ.}
-{152}{}{Nie ferowa³byœ tak wyrokami, gdybyœ sam by³ na kontynencie.}
-{153}{}{W³aœnie o to chodzi. Enklawa to sztuczna wyspa, otoczona wod¹.}
-{154}{}{Myœli pan, ¿e to, co siê stanie, pana nie dotyczy? ¯yje pan na tej samej planecie, co my wszyscy.}
-{155}{}{Czy czegoœ nie brakuje w twojej wypowiedzi? Jak na przyk³ad wniosku.}
-{156}{}{Jestem wiceprezydent Daniel Bird. Cholernie mi³o mi ciê poznaæ.}
-{157}{}{Jesteœ tylko kolejn¹ czêœci¹ wielkiego problemu, jaki stanowi ta wyspa.}
-{158}{}{Jesteœ szurniêty.}
-{159}{}{Nie jestem czêœci¹ problemu, jestem republikaninem.}
-{160}{}{Czyli jak ju¿ mówi³em - problem.}
-{161}{}{Ach, rozumiem. No có¿, jak prawdopodobnie wiesz, ju¿ od d³u¿szego czasu myœlimy, ¿e czas najwy¿szy, aby rodzaj ludzki wkroczy³ w uk³ad s³oneczny.}
-{162}{}{A czy my przypadkiem ju¿ nie... Ee, *gdzie* wkroczyæ?}
-{163}{}{A jak niby mielibyœmy tego dokonaæ?}
-{164}{}{Myœlê, ¿e Mars by³by ca³kiem niez³y, poniewa¿ ma zbli¿ona orbitê... Mars znajduje siê w mniej wiêcej tej samej odleg³oœci od S³oñca, co jest dla nas bardzo wa¿ne. Widzieliœmy zdjêcia, na których uwieczniono kana³y i, jak s¹dzimy, wodê. Jeœli jest tam woda - to jest te¿ tlen. Jeœli zaœ jest tlen - to mo¿emy tam oddychaæ.}
-{165}{}{No to mnie zaskoczy³eœ a¿ tak *pe³n¹* odpowiedzi¹.}
-{166}{}{Postrada³ pan zmys³y.}
-{167}{}{Utrata zmys³ów to marnotrastwo. Ale niektórzy nie maj¹ ich od urodzenia.}
-{168}{}{*Zazwyczaj* to marnotrastwo. Ale twój przypadek to wyj¹tek.}
-{169}{}{Co przed chwil¹ powiedzia³eœ?}
-{170}{}{Doœæ - marnujê na ciebie ju¿ wystarczaj¹co du¿o czasu. ¯egnam.}
-{171}{}{Dla NASA podbój kosmosu ci¹gle pozostaje priorytetem.}
-{172}{}{Rozumiem. A w któr¹ stronê poszlibyœmy dalej?}
-{173}{}{To nieprawda, republikanie rozumiej¹ wagê przywi¹zania pomiêdzy matk¹ i dzieckiem. To jest klucz do rozwi¹zania wszystkich naszych problemów - musimy powróciæ do wartoœci rodzinnych.}
-{174}{}{To co zamierzasz - ty i Enklawa - nie ma nic wspólnego z wartoœciami rodzinnymi.}
-{175}{}{Obstajê przy wszystkich z³ych wypowiedziach, które poczyni³em.}
-{176}{}{Nie rozumiesz, ¿e chcecie doprowadziæ do kolejnej Zag³ady?}
-{177}{}{Jesteœ szalony. Zdajesz sobie z tego sprawê, nieprawda¿?}
-{178}{}{Zag³ada jest wstrêtnym odcinkiem historii naszego narodu. To znaczy w historii tego wieku. Ale my wszyscy ¿yliœmy w tym wieku. Ja nie ¿y³em w tym wieku.}
-{179}{}{Jesteœ szurniêtym popaprañcem.}
-{180}{}{Ktoœ musi ciê usun¹æ sprzed moich oczu. Zaczynaj siê modliæ, Bird.}
-{181}{}{Muszê siê st¹d wyrwaæ.}
+{147}{}{WierzÄ™, Å¼e jesteÅ›my na bezpowrotnej drodze do wolnoÅ›ci i demokracji - ale to moÅ¼e siÄ™ zmieniÄ‡.}
+{148}{}{Zanieczyszczonemu Å›rodowisku Pustkowi przydaÅ‚aby siÄ™ dla odmiany odrobina wolnoÅ›ci.}
+{149}{}{Nie wytrzymam tego dÅ‚uÅ¼ej - pan po prostu musi zostaÄ‡ zlikwidowany.}
+{150}{}{Niech pan nie bÄ™dzie gÅ‚upi. To nie zanieczyszczenia krzywdzÄ… Å›rodowisko naturalne. To nieczystoÅ›ci w powietrzu i w wodzie, ktÃ³re to powodujÄ….}
+{151}{}{NaprawdÄ™ muszÄ™ juÅ¼ iÅ›Ä‡.}
+{152}{}{Nie ferowaÅ‚byÅ› tak wyrokami, gdybyÅ› sam byÅ‚ na kontynencie.}
+{153}{}{WÅ‚aÅ›nie o to chodzi. Enklawa to sztuczna wyspa, otoczona wodÄ….}
+{154}{}{MyÅ›li pan, Å¼e to, co siÄ™ stanie, pana nie dotyczy? Å»yje pan na tej samej planecie, co my wszyscy.}
+{155}{}{Czy czegoÅ› nie brakuje w twojej wypowiedzi? Jak na przykÅ‚ad wniosku.}
+{156}{}{Jestem wiceprezydent Daniel Bird. Cholernie miÅ‚o mi ciÄ™ poznaÄ‡.}
+{157}{}{JesteÅ› tylko kolejnÄ… czÄ™Å›ciÄ… wielkiego problemu, jaki stanowi ta wyspa.}
+{158}{}{JesteÅ› szurniÄ™ty.}
+{159}{}{Nie jestem czÄ™Å›ciÄ… problemu, jestem republikaninem.}
+{160}{}{Czyli jak juÅ¼ mÃ³wiÅ‚em - problem.}
+{161}{}{Ach, rozumiem. No cÃ³Å¼, jak prawdopodobnie wiesz, juÅ¼ od dÅ‚uÅ¼szego czasu myÅ›limy, Å¼e czas najwyÅ¼szy, aby rodzaj ludzki wkroczyÅ‚ w ukÅ‚ad sÅ‚oneczny.}
+{162}{}{A czy my przypadkiem juÅ¼ nie... Ee, *gdzie* wkroczyÄ‡?}
+{163}{}{A jak niby mielibyÅ›my tego dokonaÄ‡?}
+{164}{}{MyÅ›lÄ™, Å¼e Mars byÅ‚by caÅ‚kiem niezÅ‚y, poniewaÅ¼ ma zbliÅ¼ona orbitÄ™... Mars znajduje siÄ™ w mniej wiÄ™cej tej samej odlegÅ‚oÅ›ci od SÅ‚oÅ„ca, co jest dla nas bardzo waÅ¼ne. WidzieliÅ›my zdjÄ™cia, na ktÃ³rych uwieczniono kanaÅ‚y i, jak sÄ…dzimy, wodÄ™. JeÅ›li jest tam woda - to jest teÅ¼ tlen. JeÅ›li zaÅ› jest tlen - to moÅ¼emy tam oddychaÄ‡.}
+{165}{}{No to mnie zaskoczyÅ‚eÅ› aÅ¼ tak *peÅ‚nÄ…* odpowiedziÄ….}
+{166}{}{PostradaÅ‚ pan zmysÅ‚y.}
+{167}{}{Utrata zmysÅ‚Ã³w to marnotrastwo. Ale niektÃ³rzy nie majÄ… ich od urodzenia.}
+{168}{}{*Zazwyczaj* to marnotrastwo. Ale twÃ³j przypadek to wyjÄ…tek.}
+{169}{}{Co przed chwilÄ… powiedziaÅ‚eÅ›?}
+{170}{}{DoÅ›Ä‡ - marnujÄ™ na ciebie juÅ¼ wystarczajÄ…co duÅ¼o czasu. Å»egnam.}
+{171}{}{Dla NASA podbÃ³j kosmosu ciÄ…gle pozostaje priorytetem.}
+{172}{}{Rozumiem. A w ktÃ³rÄ… stronÄ™ poszlibyÅ›my dalej?}
+{173}{}{To nieprawda, republikanie rozumiejÄ… wagÄ™ przywiÄ…zania pomiÄ™dzy matkÄ… i dzieckiem. To jest klucz do rozwiÄ…zania wszystkich naszych problemÃ³w - musimy powrÃ³ciÄ‡ do wartoÅ›ci rodzinnych.}
+{174}{}{To co zamierzasz - ty i Enklawa - nie ma nic wspÃ³lnego z wartoÅ›ciami rodzinnymi.}
+{175}{}{ObstajÄ™ przy wszystkich zÅ‚ych wypowiedziach, ktÃ³re poczyniÅ‚em.}
+{176}{}{Nie rozumiesz, Å¼e chcecie doprowadziÄ‡ do kolejnej ZagÅ‚ady?}
+{177}{}{JesteÅ› szalony. Zdajesz sobie z tego sprawÄ™, nieprawdaÅ¼?}
+{178}{}{ZagÅ‚ada jest wstrÄ™tnym odcinkiem historii naszego narodu. To znaczy w historii tego wieku. Ale my wszyscy Å¼yliÅ›my w tym wieku. Ja nie Å¼yÅ‚em w tym wieku.}
+{179}{}{JesteÅ› szurniÄ™tym popapraÅ„cem.}
+{180}{}{KtoÅ› musi ciÄ™ usunÄ…Ä‡ sprzed moich oczu. Zaczynaj siÄ™ modliÄ‡, Bird.}
+{181}{}{MuszÄ™ siÄ™ stÄ…d wyrwaÄ‡.}
 {182}{}{Z-I-E-M-I-A-K}
 {183}{}{Z-I-E-M-N-I-A-K}
 {184}{}{P-O-M-I-D-U-R}
 {185}{}{P-O-M-I-D-O-R}
-{186}{}{Gdzie siê podzia³y moje dwa galony lodów truskawkowych?}
-{187}{}{Caine, to mój statek. Mój, s³yszysz?}
-{188}{}{Wszyscy jesteœcie przeciwko mnie, prawda? Prawda?}
-{189}{}{Tak szybki, jak tylko mo¿na, nie z³api¹ mnie.}
-{190}{}{Œliczne, œliczne.}
+{186}{}{Gdzie siÄ™ podziaÅ‚y moje dwa galony lodÃ³w truskawkowych?}
+{187}{}{Caine, to mÃ³j statek. MÃ³j, sÅ‚yszysz?}
+{188}{}{Wszyscy jesteÅ›cie przeciwko mnie, prawda? Prawda?}
+{189}{}{Tak szybki, jak tylko moÅ¼na, nie zÅ‚apiÄ… mnie.}
+{190}{}{Åšliczne, Å›liczne.}
 {191}{}{Uuu!!! Sreberko!}
-{192}{}{Nie mamusiu, ja tego nie zrobi³em. Nie bij mnie!}
-{193}{}{Mamusiu! Gdzie jesteœ?}
-{194}{}{Nie chcê byæ pacjentem.}
-{195}{}{Nie, tylko nie ig³y, wszystko tylko nie ig³y.}
+{192}{}{Nie mamusiu, ja tego nie zrobiÅ‚em. Nie bij mnie!}
+{193}{}{Mamusiu! Gdzie jesteÅ›?}
+{194}{}{Nie chcÄ™ byÄ‡ pacjentem.}
+{195}{}{Nie, tylko nie igÅ‚y, wszystko tylko nie igÅ‚y.}
 {196}{}{Nie, nie, ych-ych, nie. Nieeeeeee!}

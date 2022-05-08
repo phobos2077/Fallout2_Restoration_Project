@@ -1,7 +1,7 @@
-{100}{}{Egy Khan rablót látsz.}
+{100}{}{Egy Khan rablÃ³t lÃ¡tsz.}
 {101}{}{Karla, az egyik bandatag.}
-{102}{}{Egy keménykötés? n?t látsz, fémpáncélban. Akár csinosnak is lehetne mondani, ha nem lennének durva sebhelyek az arcán.}
-{103}{}{Phillel beszélj, seggfej!}
-{104}{}{Phillel beszélj, kurva!}
-{105}{}{Oké.}
+{102}{}{Egy kemÃ©nykÃ¶tÃ©s? n?t lÃ¡tsz, fÃ©mpÃ¡ncÃ©lban. AkÃ¡r csinosnak is lehetne mondani, ha nem lennÃ©nek durva sebhelyek az arcÃ¡n.}
+{103}{}{Phillel beszÃ©lj, seggfej!}
+{104}{}{Phillel beszÃ©lj, kurva!}
+{105}{}{OkÃ©.}
 {106}{}{Az a kis kurva meghalt.}

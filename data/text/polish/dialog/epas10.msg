@@ -1,1 +1,1 @@
-{100}{}{Docierasz na poziom Powietrza, Wody i Zasilania Oœrodka AOŒ.}
+{100}{}{Docierasz na poziom Powietrza, Wody i Zasilania OÅ›rodka AOÅš.}

@@ -1,18 +1,18 @@
-{100}{}{Você vê um homem sorridente vestindo uma armadura de couro.}
-{101}{}{Você vê Steve, o recepcionista de Broken Hills.}
-{102}{}{Você vê um homem amigável vestindo uma armadura de couro. Parece que ele fica parado
- ali o dia todo esperando alguém pra conversar.}
-{103}{}{Olá! Eu sou Steve. Eu sou o cara que sabe te dizer onde é onde e o que é o quê nesta bela
- cidade. Posso de dar algumas direções ou ajudar em alguma coisa?}
-{104}{}{Dã…}
+{100}{}{VocÃª vÃª um homem sorridente vestindo uma armadura de couro.}
+{101}{}{VocÃª vÃª Steve, o recepcionista de Broken Hills.}
+{102}{}{VocÃª vÃª um homem amigÃ¡vel vestindo uma armadura de couro. Parece que ele fica parado
+ ali o dia todo esperando alguÃ©m pra conversar.}
+{103}{}{OlÃ¡! Eu sou Steve. Eu sou o cara que sabe te dizer onde Ã© onde e o que Ã© o quÃª nesta bela
+ cidade. Posso de dar algumas direÃ§Ãµes ou ajudar em alguma coisa?}
+{104}{}{DÃ£â€¦}
 {105}{}{Noken Heel?}
 {106}{}{Me conte sobre esse lugar.}
 {107}{}{Quem vive aqui?}
-{108}{}{Quem está no comando?}
+{108}{}{Quem estÃ¡ no comando?}
 {109}{}{Quais as novidades por aqui?}
-{110}{}{Que tipo de serviços vocês têm aqui?}
-{111}{}{Não. Desculpe.}
-{112}{}{Ai ai... outra pobre criança das wastes. Bem, venha. Você vai perceber que nós somos tão hospitaleiros
+{110}{}{Que tipo de serviÃ§os vocÃªs tÃªm aqui?}
+{111}{}{NÃ£o. Desculpe.}
+{112}{}{Ai ai... outra pobre crianÃ§a das wastes. Bem, venha. VocÃª vai perceber que nÃ³s somos tÃ£o hospitaleiros
  como qualquer outra cidade na wasteland.}
 {113}{}{Caraaaaaaa!}
 {114}{}{Isso. Boa sorte, andarilho. E adeus.}
@@ -20,115 +20,115 @@
 {116}{}{Broken Hills. Somos uma cidade mineira. Cavamos as coisas e as vendemos.}
 {117}{}{Cabamos?}
 {118}{}{Ver demos!}
-{119}{}{Isso mesmo. Tiramos do chão. Nós temos uma mina. Mas eu não acho que eles tenham um trabalho pra você lá.
+{119}{}{Isso mesmo. Tiramos do chÃ£o. NÃ³s temos uma mina. Mas eu nÃ£o acho que eles tenham um trabalho pra vocÃª lÃ¡.
  Se quiser um, fale com o Chefe da mina.}
 {120}{}{Tu-do bem.}
 {121}{}{Vender coisas?}
-{122}{}{Nós vendemos o que escavamos para as outras cidades por aqui. Elas as acham úteis. Se você quiser vender alguma coisa,
- você pode falar com os mercadores daqui. De qualquer forma, eu tenho que voltar ao trabalho. Seja bom e tenha cuidado por aqui,
+{122}{}{NÃ³s vendemos o que escavamos para as outras cidades por aqui. Elas as acham Ãºteis. Se vocÃª quiser vender alguma coisa,
+ vocÃª pode falar com os mercadores daqui. De qualquer forma, eu tenho que voltar ao trabalho. Seja bom e tenha cuidado por aqui,
  tudo bem?}
 {123}{}{Tu-do bem! Tchauuuu!}
 {124}{}{Eu tenho que voltar ao trabalho. Seja bom e tenha cuidado, tudo bem?}
-{125}{}{Você de novo? Bem, você sabe o que tem que fazer -– ser bom e tomar cuidado. Se cuida!}
+{125}{}{VocÃª de novo? Bem, vocÃª sabe o que tem que fazer -â€“ ser bom e tomar cuidado. Se cuida!}
 {126}{}{Tu-do bem! Tchauuuuu!}
-{127}{}{Guarde suas armas, chapa. Você não vai conseguir nenhuma resposta de mim enquanto estiver balançando
+{127}{}{Guarde suas armas, chapa. VocÃª nÃ£o vai conseguir nenhuma resposta de mim enquanto estiver balanÃ§ando
  elas desse jeito.}
-{128}{}{Nós somos uma pequena comunidade mineira. Fomos fundados há muitas décadas atrás pelo nosso xerife, Marcus, e
- um homem chamado Jacob. Os dois escolheram esse local porque fica perto de alguns depósitos de urânio. Você gostaria
+{128}{}{NÃ³s somos uma pequena comunidade mineira. Fomos fundados hÃ¡ muitas dÃ©cadas atrÃ¡s pelo nosso xerife, Marcus, e
+ um homem chamado Jacob. Os dois escolheram esse local porque fica perto de alguns depÃ³sitos de urÃ¢nio. VocÃª gostaria
  de ouvir mais?}
 {129}{}{Sim.}
-{130}{}{Não.}
-{131}{}{Nós somos um grupo de humanos, mutantes e ghouls. Nós não temos conflitos racistas como aquela
- praga da Vault City; para os nossos olhos, todos são iguais.}
-{132}{}{Você vive perto de mutantes? Você não sabe que eles são maus?}
+{130}{}{NÃ£o.}
+{131}{}{NÃ³s somos um grupo de humanos, mutantes e ghouls. NÃ³s nÃ£o temos conflitos racistas como aquela
+ praga da Vault City; para os nossos olhos, todos sÃ£o iguais.}
+{132}{}{VocÃª vive perto de mutantes? VocÃª nÃ£o sabe que eles sÃ£o maus?}
 {133}{}{Iguais?}
 {134}{}{Obrigado. Tchau.}
-{135}{}{Oficialmente, o Xerife Marcus está no comando da cidade. Ele ajudou a achá-la e nos ajuda em
- nossas crises. Mas na verdade, todos têm uma voz na cidade.}
-{136}{}{Isso parece não funcionar.}
+{135}{}{Oficialmente, o Xerife Marcus estÃ¡ no comando da cidade. Ele ajudou a achÃ¡-la e nos ajuda em
+ nossas crises. Mas na verdade, todos tÃªm uma voz na cidade.}
+{136}{}{Isso parece nÃ£o funcionar.}
 {137}{}{Parece um bom meio de fazer as coisas funcionarem.}
 {138}{}{Continue.}
-{139}{}{O cara que ajudou a criar a cidade ainda está no comando? Isso deve fazer dele um cara muito, muito velho.}
+{139}{}{O cara que ajudou a criar a cidade ainda estÃ¡ no comando? Isso deve fazer dele um cara muito, muito velho.}
 {140}{}{Obrigado. Tchau.}
-{141}{}{Tirando o fato de todos os mutantes estarem MORTOS e esta cidade estar ACABADA…}
-{142}{}{Tirando o fato dos mutantes estarem mortos e nossa única fonte de convivência ter sido destuída…}
-{143}{}{Tirando o fato de você ser um herói por ter nos revelado a corrupção…}
-{144}{}{Tirando o fato de estarmos com um câncer em nosso meio depois da fuga do Franc e do Manson…}
-{145}{}{Tirando o fato da traição do Chad e da sua justiça -– a que todos são agradecidos -– }
-{146}{}{Não muitas.}
+{141}{}{Tirando o fato de todos os mutantes estarem MORTOS e esta cidade estar ACABADAâ€¦}
+{142}{}{Tirando o fato dos mutantes estarem mortos e nossa Ãºnica fonte de convivÃªncia ter sido destuÃ­daâ€¦}
+{143}{}{Tirando o fato de vocÃª ser um herÃ³i por ter nos revelado a corrupÃ§Ã£oâ€¦}
+{144}{}{Tirando o fato de estarmos com um cÃ¢ncer em nosso meio depois da fuga do Franc e do Mansonâ€¦}
+{145}{}{Tirando o fato da traiÃ§Ã£o do Chad e da sua justiÃ§a -â€“ a que todos sÃ£o agradecidos -â€“ }
+{146}{}{NÃ£o muitas.}
 {147}{}{Eu tenho mais perguntas.}
 {148}{}{Adeus.}
-{149}{}{Ah. Você de novo.}
+{149}{}{Ah. VocÃª de novo.}
 {150}{}{Oi novamente.}
 {151}{}{Bem vindo de volta.}
 {152}{}{Quer saber de mais alguma coisa?}
 {153}{}{Quais as novidades por aqui?}
-{154}{}{Quem está no comando?}
+{154}{}{Quem estÃ¡ no comando?}
 {155}{}{Me conte sobre esse lugar.}
 {156}{}{Quem vive aqui?}
-{157}{}{Que tipo de serviços vocês têm aqui?}
-{158}{}{Não, obrigado.}
-{159}{}{Nós ganhamos a vida refinando o minério que cavamos das colinas e vendemos para as comunidades
- próximas, como Vault City, Gecko e New Californian Republic. Nós usamos um pouco para nossa própria
+{157}{}{Que tipo de serviÃ§os vocÃªs tÃªm aqui?}
+{158}{}{NÃ£o, obrigado.}
+{159}{}{NÃ³s ganhamos a vida refinando o minÃ©rio que cavamos das colinas e vendemos para as comunidades
+ prÃ³ximas, como Vault City, Gecko e New Californian Republic. NÃ³s usamos um pouco para nossa prÃ³pria
  energia. Mais?}
 {160}{}{Sim.}
-{161}{}{Não.}
-{162}{}{Todos são iguais. Todos viemos dos humanos; todos somos iguais interiormente.
- Dizer que eles são maus só por causa da aparência deles só indica ignorância.}
-{163}{}{Você está me chamando de ignorante?}
-{164}{}{É verdade.}
-{165}{}{Não necessariamente. Quem sabe o que o vírus que os mutaram pode ter feito com a mente deles?}
+{161}{}{NÃ£o.}
+{162}{}{Todos sÃ£o iguais. Todos viemos dos humanos; todos somos iguais interiormente.
+ Dizer que eles sÃ£o maus sÃ³ por causa da aparÃªncia deles sÃ³ indica ignorÃ¢ncia.}
+{163}{}{VocÃª estÃ¡ me chamando de ignorante?}
+{164}{}{Ã‰ verdade.}
+{165}{}{NÃ£o necessariamente. Quem sabe o que o vÃ­rus que os mutaram pode ter feito com a mente deles?}
 {166}{}{Seja o que for. Tchau.}
-{167}{}{Nós achamos que funciona bem para os nossos propósitos. Além do mais, Marcus é eminentemente justo.}
+{167}{}{NÃ³s achamos que funciona bem para os nossos propÃ³sitos. AlÃ©m do mais, Marcus Ã© eminentemente justo.}
 {168}{}{Onde eu posso achar esse Marcus?}
 {169}{}{Adeus.}
-{170}{}{Ele está velho. Mas está agüentando bem. Ele é um mutante. Aparentemente eles vivem mais que
+{170}{}{Ele estÃ¡ velho. Mas estÃ¡ agÃ¼entando bem. Ele Ã© um mutante. Aparentemente eles vivem mais que
  a maioria dos outros caras.}
-{171}{}{Vocês deixam um MUTANTE comandar esse local? Vocês são loucos?}
-{172}{}{Sério? Pensei que eles já estivessem morrendo.}
-{173}{}{Um xerife mutante, hein? Aposto que a maioria do pessoal aqui repeita bem a lei, então. Isso deve funcionar
+{171}{}{VocÃªs deixam um MUTANTE comandar esse local? VocÃªs sÃ£o loucos?}
+{172}{}{SÃ©rio? Pensei que eles jÃ¡ estivessem morrendo.}
+{173}{}{Um xerife mutante, hein? Aposto que a maioria do pessoal aqui repeita bem a lei, entÃ£o. Isso deve funcionar
  bem.}
 {174}{}{Adeus.}
-{175}{}{Fazemos a nossa vida, criando a nossa própria versão de civilização e dando o melhor de nós para
- não nos cedermos a Vault City ou NCR -– não precisamos do estilo de governo deles. Isso é tudo.}
+{175}{}{Fazemos a nossa vida, criando a nossa prÃ³pria versÃ£o de civilizaÃ§Ã£o e dando o melhor de nÃ³s para
+ nÃ£o nos cedermos a Vault City ou NCR -â€“ nÃ£o precisamos do estilo de governo deles. Isso Ã© tudo.}
 {176}{}{Grande. Eu tenho mais perguntas.}
 {177}{}{Obrigado. Tchau.}
-{178}{}{Se você persistir em acreditar que pode julgar o caráter de alguém pelo que vê
- externamente, sim. Você inegavelmente é ignorante.}
-{179}{}{Vai pro inferno, cara. VOCÊ é que é ignorante.}
-{180}{}{Ah, certo. Você me pegou.}
-{181}{}{Enfim, isso é tudo o que eu queria dizer. Saudações de Broken Hills.}
+{178}{}{Se vocÃª persistir em acreditar que pode julgar o carÃ¡ter de alguÃ©m pelo que vÃª
+ externamente, sim. VocÃª inegavelmente Ã© ignorante.}
+{179}{}{Vai pro inferno, cara. VOCÃŠ Ã© que Ã© ignorante.}
+{180}{}{Ah, certo. VocÃª me pegou.}
+{181}{}{Enfim, isso Ã© tudo o que eu queria dizer. SaudaÃ§Ãµes de Broken Hills.}
 {182}{}{Esperar.}
 {183}{}{Adeus.}
-{184}{}{Se um dia os mutantaes pretendiam nos machucar, hoje eles estão do nosso lado. Eles não vão durar pra
- sempre -– de fato, a maioria deles está enfraquecendo. Construir uma comunidade não os ajuda
- a alcançar o objetivos que eles tinham antes.}
-{185}{}{Você tem razão.}
-{186}{}{Eles ainda são maus.}
+{184}{}{Se um dia os mutantaes pretendiam nos machucar, hoje eles estÃ£o do nosso lado. Eles nÃ£o vÃ£o durar pra
+ sempre -â€“ de fato, a maioria deles estÃ¡ enfraquecendo. Construir uma comunidade nÃ£o os ajuda
+ a alcanÃ§ar o objetivos que eles tinham antes.}
+{185}{}{VocÃª tem razÃ£o.}
+{186}{}{Eles ainda sÃ£o maus.}
 {187}{}{Adeus.}
-{188}{}{Sabe, quanto mais eu falo com você mais burro eu me sinto. Com uma atitude dessas você
- não será bem recebido em Broken Hills. Com licença. Eu tenho trabalho a fazer.}
-{189}{}{Seu merdão.}
-{190}{}{Hora de morrer, merdão.}
-{191}{}{Nós temos uma mina, uma refinaria, uma taverna, um hotel -– que aliás, perdeu o seu dono, então nós
- deixamos as pessoas ficarem por lá de graça -– um hospital, um loja de artigos gerais e um químico. Nós produzimos nossa própria comida.}
+{188}{}{Sabe, quanto mais eu falo com vocÃª mais burro eu me sinto. Com uma atitude dessas vocÃª
+ nÃ£o serÃ¡ bem recebido em Broken Hills. Com licenÃ§a. Eu tenho trabalho a fazer.}
+{189}{}{Seu merdÃ£o.}
+{190}{}{Hora de morrer, merdÃ£o.}
+{191}{}{NÃ³s temos uma mina, uma refinaria, uma taverna, um hotel -â€“ que aliÃ¡s, perdeu o seu dono, entÃ£o nÃ³s
+ deixamos as pessoas ficarem por lÃ¡ de graÃ§a -â€“ um hospital, um loja de artigos gerais e um quÃ­mico. NÃ³s produzimos nossa prÃ³pria comida.}
 {192}{}{Tudo bem. Eu tenho mais perguntas.}
 {193}{}{Adeus.}
-{194}{}{Bem, a mairia deles está. Já que os mutantes são estéreis... pelo menos é o que sou levado a acreditar... eles estão morrendo.
- Os que ainda restam estão ficando fracos. Exceto o Marcus, ele continua firme como
+{194}{}{Bem, a mairia deles estÃ¡. JÃ¡ que os mutantes sÃ£o estÃ©reis... pelo menos Ã© o que sou levado a acreditar... eles estÃ£o morrendo.
+ Os que ainda restam estÃ£o ficando fracos. Exceto o Marcus, ele continua firme como
  sempre.}
 {195}{}{Onde eu posso achar o Marcus?}
 {196}{}{Eu tenho mais perguntas.}
 {197}{}{Adeus.}
-{198}{}{Marcus, are you sure you don’t want to stick around and lead us for a while?}
-{199}{}{Marcus: Ain’t no future in it. You’ll do fine without me.}
+{198}{}{Marcus, are you sure you donâ€™t want to stick around and lead us for a while?}
+{199}{}{Marcus: Ainâ€™t no future in it. Youâ€™ll do fine without me.}
 {200}{}{[MAIS]}
-{201}{}{Chapa, ninguém te quer por aqui. Você já causou danos demais.}
+{201}{}{Chapa, ninguÃ©m te quer por aqui. VocÃª jÃ¡ causou danos demais.}
 {202}{}{[FEITO]}
-{300}{}{Geralmente você pode achá-lo perto do Banco – que também serve como uma prisão – ou na
- prisão. Às vezes ele fica na taverna ou em casa, mas quase sempre está trabalhando.}
+{300}{}{Geralmente vocÃª pode achÃ¡-lo perto do Banco â€“ que tambÃ©m serve como uma prisÃ£o â€“ ou na
+ prisÃ£o. Ã€s vezes ele fica na taverna ou em casa, mas quase sempre estÃ¡ trabalhando.}
 {301}{}{Sem vergonha!}
 {302}{}{Porra!}
 {303}{}{Hooray!}
 {304}{}{Patifes!}
-{305}{}{Aquele rato desgraçado!}
+{305}{}{Aquele rato desgraÃ§ado!}

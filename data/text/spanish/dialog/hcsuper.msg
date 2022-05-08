@@ -1,64 +1,64 @@
 {100}{}{Ves una rara cosa mutante con la piel manchada y una sonrisa espantosa.}
-{101}{}{Ves al supervisor de la refinería.}
-{102}{}{Ves a un necrófago. Su piel parece a punto de desprenderse del cuerpo de la criatura. También parece ser bien aceptado por los demás habitantes.}
-{103}{}{¡Se supone que no puedes estar aquí!}
-{104}{}{¿Qué quieres?}
-{105}{}{¡Da yagga! ¡Eep oop op!}
-{106}{}{No sé.}
+{101}{}{Ves al supervisor de la refinerÃ­a.}
+{102}{}{Ves a un necrÃ³fago. Su piel parece a punto de desprenderse del cuerpo de la criatura. TambiÃ©n parece ser bien aceptado por los demÃ¡s habitantes.}
+{103}{}{Â¡Se supone que no puedes estar aquÃ­!}
+{104}{}{Â¿QuÃ© quieres?}
+{105}{}{Â¡Da yagga! Â¡Eep oop op!}
+{106}{}{No sÃ©.}
 {107}{}{Tengo un poco de mineral para refinar.}
-{108}{}{¿Quién eres?}
-{109}{}{¿Qué lugar es éste?}
+{108}{}{Â¿QuiÃ©n eres?}
+{109}{}{Â¿QuÃ© lugar es Ã©ste?}
 {110}{}{Quiero algo de uranio.}
 {111}{}{Nada.}
-{112}{}{Olvídalo. Adiós.}
-{113}{}{Verás, hijo, siento que no tengas cerebro. Pero no puedes estar aquí. Vete ya.}
+{112}{}{OlvÃ­dalo. AdiÃ³s.}
+{113}{}{VerÃ¡s, hijo, siento que no tengas cerebro. Pero no puedes estar aquÃ­. Vete ya.}
 {114}{}{[HECHO]}
-{115}{}{No puedes estar aquí. Es peligroso. Vete ya.}
+{115}{}{No puedes estar aquÃ­. Es peligroso. Vete ya.}
 {116}{}{[HECHO]}
-{117}{}{Genial. Serán 1.000 dólares, y sin regatear. Te puede parecer caro, pero es una ganga considerando lo que obtendrás por el producto final de cualquier comprador interesado.}
+{117}{}{Genial. SerÃ¡n 1.000 dÃ³lares, y sin regatear. Te puede parecer caro, pero es una ganga considerando lo que obtendrÃ¡s por el producto final de cualquier comprador interesado.}
 {118}{}{Es un trato.}
-{119}{}{1.000 dólares? Eso es ridículo. Olvídalo.}
-{120}{}{Soy el supervisor de esta refinería. ¿Qué quieres?}
-{121}{}{¿Qué lugar es éste?}
+{119}{}{1.000 dÃ³lares? Eso es ridÃ­culo. OlvÃ­dalo.}
+{120}{}{Soy el supervisor de esta refinerÃ­a. Â¿QuÃ© quieres?}
+{121}{}{Â¿QuÃ© lugar es Ã©ste?}
 {122}{}{Quiero un poco de mineral refinado.}
 {123}{}{Quiero algo de uranio.}
 {124}{}{Nada.}
-{125}{}{Esta es la refinería de Broken Hills. Aquí es donde purificamos el mineral en bruto de la mina. ¿Qué
+{125}{}{Esta es la refinerÃ­a de Broken Hills. AquÃ­ es donde purificamos el mineral en bruto de la mina. Â¿QuÃ©
  quieres?}
-{126}{}{¿Qué lugar es éste?}
+{126}{}{Â¿QuÃ© lugar es Ã©ste?}
 {127}{}{Quiero un poco de mineral refinado.}
 {128}{}{Quiero algo de uranio.}
 {129}{}{Nada.}
 {130}{}{No tienes bastante dinero. Vuelve cuando lo tengas.}
 {131}{}{[HECHO]}
-{132}{}{De acuerdo. Danos un día y lo tendremos listo para ti.}
-{133}{}{Genial. Adiós.}
-{134}{}{Pues que tengas suerte encontrando otro sitio para refinarlo. El proceso es peligroso: sólo un profesional
- debería hacerlo. ¿Lo quieres o no?}
-{135}{}{Sí.}
+{132}{}{De acuerdo. Danos un dÃ­a y lo tendremos listo para ti.}
+{133}{}{Genial. AdiÃ³s.}
+{134}{}{Pues que tengas suerte encontrando otro sitio para refinarlo. El proceso es peligroso: sÃ³lo un profesional
+ deberÃ­a hacerlo. Â¿Lo quieres o no?}
+{135}{}{SÃ­.}
 {136}{}{No.}
-{137}{}{Bien. No tienes nada que hacer aquí. Por favor, vete para que podamos seguir con nuestro trabajo.}
-{138}{}{Adiós.}
-{139}{}{Eso es ridículo. No te daremos nada.}
+{137}{}{Bien. No tienes nada que hacer aquÃ­. Por favor, vete para que podamos seguir con nuestro trabajo.}
+{138}{}{AdiÃ³s.}
+{139}{}{Eso es ridÃ­culo. No te daremos nada.}
 {140}{}{Entonces muere.}
-{141}{}{Bien. Adiós.}
-{142}{}{¡Oye! ¡Sal de aquí o sufrirás las consecuencias!}
-{143}{}{¡Lárgate de mi refinería! ¡Ahora!}
-{144}{}{Seguimos trabajando para refinar tu mineral. Danos tiempo. Esto no es algo instantáneo.}
+{141}{}{Bien. AdiÃ³s.}
+{142}{}{Â¡Oye! Â¡Sal de aquÃ­ o sufrirÃ¡s las consecuencias!}
+{143}{}{Â¡LÃ¡rgate de mi refinerÃ­a! Â¡Ahora!}
+{144}{}{Seguimos trabajando para refinar tu mineral. Danos tiempo. Esto no es algo instantÃ¡neo.}
 {145}{}{Quiero preguntarte algo.}
-{146}{}{Bien. Adiós.}
-{147}{}{Tu mineral está listo. Antes de que te lo lleves, escucha: nuestra ciudad realmente necesita este mineral. Si se lo donas a la ciudad, te devolveré tu dinero. Diablos, si quieres más dinero por él, incluso te puedo dar 500 dólares extra para que te haya merecido la pena. Por favor. Con el fiasco de la mina, Broken Hills lo necesita para mantenerse a flote. ¿Qué me dices?}
+{146}{}{Bien. AdiÃ³s.}
+{147}{}{Tu mineral estÃ¡ listo. Antes de que te lo lleves, escucha: nuestra ciudad realmente necesita este mineral. Si se lo donas a la ciudad, te devolverÃ© tu dinero. Diablos, si quieres mÃ¡s dinero por Ã©l, incluso te puedo dar 500 dÃ³lares extra para que te haya merecido la pena. Por favor. Con el fiasco de la mina, Broken Hills lo necesita para mantenerse a flote. Â¿QuÃ© me dices?}
 {148}{}{Ni hablar.}
-{149}{}{Por supuesto. No te preocupes por los 500 dólares extra. Seguramente los necesitarás más que yo.}
-{150}{}{Bien. Que así sea. Aquí está tu mineral. Ahora, sal de mi refinería.}
-{151}{}{Adiós.}
-{152}{}{¡Gracias! Te devuelvo tu dinero. Broken Hills no olvidará esto.}
+{149}{}{Por supuesto. No te preocupes por los 500 dÃ³lares extra. Seguramente los necesitarÃ¡s mÃ¡s que yo.}
+{150}{}{Bien. Que asÃ­ sea. AquÃ­ estÃ¡ tu mineral. Ahora, sal de mi refinerÃ­a.}
+{151}{}{AdiÃ³s.}
+{152}{}{Â¡Gracias! Te devuelvo tu dinero. Broken Hills no olvidarÃ¡ esto.}
 {153}{}{No hay problema.}
-{154}{}{¡Te dije que te largaras de aquí!}
-{155}{}{...el pequeño bastardo entra aquí y <refunfuñando> <despotricando>...}
-{156}{}{¿500 dólares extra? Por supuesto, me los quedaré.}
-{157}{}{¡Gracias! Aquí está tu dinero y el extra de 500 dólares.}
+{154}{}{Â¡Te dije que te largaras de aquÃ­!}
+{155}{}{...el pequeÃ±o bastardo entra aquÃ­ y <refunfuÃ±ando> <despotricando>...}
+{156}{}{Â¿500 dÃ³lares extra? Por supuesto, me los quedarÃ©.}
+{157}{}{Â¡Gracias! AquÃ­ estÃ¡ tu dinero y el extra de 500 dÃ³lares.}
 {158}{}{Genial. Gracias.}
-{159}{}{Has descubierto cómo conseguir mineral refinado de uranio en Broken Hills.}
+{159}{}{Has descubierto cÃ³mo conseguir mineral refinado de uranio en Broken Hills.}
 {160}{}{Has devuelto el mineral refinado a Broken Hills.}
 {161}{}{Has vendido el mineral refinado a Broken Hills.}

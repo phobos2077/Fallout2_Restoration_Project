@@ -1,5 +1,5 @@
-{100}{}{To korpus cybernetyczny. Wygl¹da, ¿e maj¹c odpowiednie czêœci mo¿na by go naprawiæ.}
+{100}{}{To korpus cybernetyczny. WyglÄ…da, Å¼e majÄ…c odpowiednie czÄ™Å›ci moÅ¼na by go naprawiÄ‡.}
 {101}{}{Wymieniasz zepsuty motywator.}
-{102}{}{Pod³¹czasz mózg do interfejsu nerwowego korpusu.}
-{103}{}{Zbiorniki ¯elu Biomedycznego s¹ teraz pe³ne.}
-{104}{}{Wygl¹da, ¿e wszystko jest gotowe do uruchomienia.}
+{102}{}{PodÅ‚Ä…czasz mÃ³zg do interfejsu nerwowego korpusu.}
+{103}{}{Zbiorniki Å»elu Biomedycznego sÄ… teraz peÅ‚ne.}
+{104}{}{WyglÄ…da, Å¼e wszystko jest gotowe do uruchomienia.}

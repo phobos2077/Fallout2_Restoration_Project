@@ -1,13 +1,13 @@
-{100}{}{Diese Luke sieht merkwürdig aus, im Gegensatz zum Rest des Schiffs, ist sie relativ frei von Rost und hat ein aufwändiges, kompliziertes Schloss.}
-{200}{}{Du mühst dich mit der Luke ab, und schließlich schaffst du es, sie aufzureißen. Teile des zerbrochenen Schlosses übersäen den Turm und knirschen unter deinen Stiefeln.}
+{100}{}{Diese Luke sieht merkwÃ¼rdig aus, im Gegensatz zum Rest des Schiffs, ist sie relativ frei von Rost und hat ein aufwÃ¤ndiges, kompliziertes Schloss.}
+{200}{}{Du mÃ¼hst dich mit der Luke ab, und schlieÃŸlich schaffst du es, sie aufzureiÃŸen. Teile des zerbrochenen Schlosses Ã¼bersÃ¤en den Turm und knirschen unter deinen Stiefeln.}
 {201}{}{Du versuchst dein Bestes, aber die Luke bewegt sich einfach nicht. Vielleicht helfen Sprengstoffe.}
-{202}{}{Sieht so aus, als könnte man, wenn man genügend Kraft aufwendet, die Luke aufreißen. Marcus könnten dabei behilflich sein.}
-{210}{}{He Marcus, kannst du mir dabei helfen, diese Luke zu öffnen?}
+{202}{}{Sieht so aus, als kÃ¶nnte man, wenn man genÃ¼gend Kraft aufwendet, die Luke aufreiÃŸen. Marcus kÃ¶nnten dabei behilflich sein.}
+{210}{}{He Marcus, kannst du mir dabei helfen, diese Luke zu Ã¶ffnen?}
 {211}{}{Klar, mach mir nur etwas Platz.}
 {212}{}{*hrrrgnnnr*}
-{213}{}{Der Supermutant strengt sich an, die Luke aufzureißen. Für einen Moment schaut es, als ob er sich überanstrengt, aber dann stemmt er Sie auf, und übersät den Turm mit Teilen des zerbrochenen Schlosses.}
-{220}{}{Du fummelst eine Weile an dem Schloss herum und öffnest es. Schlösser knacken ist eindeutig mehr als nur ein Hobby für Dich.}
-{221}{}{Du fummelst eine Weile an dem Schloss herum, gibst aber letztendlich auf. Es muss eine anderen Weg geben, dieses Schloss zu öffnen.}
-{230}{}{Die Explosion reißt die Lucke mitsamt dem Schloss auf, davon abgesehen betäubt sie dich.}
-{240}{}{Du fummelst eine Weile an dem Schloss herum und verschließt es. Schlösser knacken ist eindeutig mehr als nur ein Hobby für Dich.}
-{241}{}{Du fummelst eine Weile an dem Schloss herum, gibst aber letztendlich auf. Es muss eine anderen Weg geben, um es abzuschließen.}
+{213}{}{Der Supermutant strengt sich an, die Luke aufzureiÃŸen. FÃ¼r einen Moment schaut es, als ob er sich Ã¼beranstrengt, aber dann stemmt er Sie auf, und Ã¼bersÃ¤t den Turm mit Teilen des zerbrochenen Schlosses.}
+{220}{}{Du fummelst eine Weile an dem Schloss herum und Ã¶ffnest es. SchlÃ¶sser knacken ist eindeutig mehr als nur ein Hobby fÃ¼r Dich.}
+{221}{}{Du fummelst eine Weile an dem Schloss herum, gibst aber letztendlich auf. Es muss eine anderen Weg geben, dieses Schloss zu Ã¶ffnen.}
+{230}{}{Die Explosion reiÃŸt die Lucke mitsamt dem Schloss auf, davon abgesehen betÃ¤ubt sie dich.}
+{240}{}{Du fummelst eine Weile an dem Schloss herum und verschlieÃŸt es. SchlÃ¶sser knacken ist eindeutig mehr als nur ein Hobby fÃ¼r Dich.}
+{241}{}{Du fummelst eine Weile an dem Schloss herum, gibst aber letztendlich auf. Es muss eine anderen Weg geben, um es abzuschlieÃŸen.}

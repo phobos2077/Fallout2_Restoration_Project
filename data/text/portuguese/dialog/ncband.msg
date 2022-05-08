@@ -1,23 +1,23 @@
-{100}{}{Você vê Frenchy.}
-{101}{}{Você vê Paine.}
-{102}{}{Você vê Sims.}
-{150}{}{Você vê um homem de aparência esfarrapada. Ele está encolhido ao lado do fogo, cantando. A voz dele é muito boa.}
-{151}{}{Você vê um cantor. Ele está encolhido ao lado do fogo, cantando.}
+{100}{}{VocÃª vÃª Frenchy.}
+{101}{}{VocÃª vÃª Paine.}
+{102}{}{VocÃª vÃª Sims.}
+{150}{}{VocÃª vÃª um homem de aparÃªncia esfarrapada. Ele estÃ¡ encolhido ao lado do fogo, cantando. A voz dele Ã© muito boa.}
+{151}{}{VocÃª vÃª um cantor. Ele estÃ¡ encolhido ao lado do fogo, cantando.}
 {200}{}{Hey... }
 {203}{}{Podemos te ajudar com alguma coisa, filho?}
-{204}{}{::Ele toca um chapéu imaginário.:: Podemos te ajudar com alguma coisa, senhora?}
-{205}{}{Você conhece 'Remar o barco rio abaixo?'}
-{206}{}{Você poderia... você poderia cantar 'Noventa e nove garrafas de cerveja na parede'?}
-{207}{}{Nãooo eu vou agora}
-{208}{}{Eu ficaria honrado se você fizesse. Obrigado, caras.}
-{209}{}{Aqui estão alguns dólares. Você pode cantar outra coisa?}
-{210}{}{Não, só ouvindo, obrigado.}
-{300}{}{Tudo bem então... vocês ouviram o homem, rapazes. Vamos tentar outra coisa.}
-{301}{}{Tudo bem então... vocês ouviram a dama, rapazes. Vamos tentar outra coisa.}
+{204}{}{::Ele toca um chapÃ©u imaginÃ¡rio.:: Podemos te ajudar com alguma coisa, senhora?}
+{205}{}{VocÃª conhece 'Remar o barco rio abaixo?'}
+{206}{}{VocÃª poderia... vocÃª poderia cantar 'Noventa e nove garrafas de cerveja na parede'?}
+{207}{}{NÃ£ooo eu vou agora}
+{208}{}{Eu ficaria honrado se vocÃª fizesse. Obrigado, caras.}
+{209}{}{Aqui estÃ£o alguns dÃ³lares. VocÃª pode cantar outra coisa?}
+{210}{}{NÃ£o, sÃ³ ouvindo, obrigado.}
+{300}{}{Tudo bem entÃ£o... vocÃªs ouviram o homem, rapazes. Vamos tentar outra coisa.}
+{301}{}{Tudo bem entÃ£o... vocÃªs ouviram a dama, rapazes. Vamos tentar outra coisa.}
 {302}{}{Valeuuuu}
 {303}{}{Obrigado, rapazes.}
 {400}{}{Oooooh}
-{402}{}{Minha linda não voltou para casa...}
+{402}{}{Minha linda nÃ£o voltou para casa...}
 {405}{}{Meu amor me fez maaaaal...}
 {408}{}{Meu amor se foi e me deixou sozinho...}
 {409}{}{}
@@ -34,37 +34,37 @@
 {701}{}{Seu Barco}
 {702}{}{Suavemente abaixo da corrente}
 {703}{}{Lindamente}
-{706}{}{A vida é apenas um sonho...}
+{706}{}{A vida Ã© apenas um sonho...}
 {707}{}{}
-{800}{}{Nós não precisamos de outro herói...}
-{801}{}{Nós não precisamos saber o caminho de casa...}
-{802}{}{Tudo que precisamos é o que está além...}
+{800}{}{NÃ³s nÃ£o precisamos de outro herÃ³i...}
+{801}{}{NÃ³s nÃ£o precisamos saber o caminho de casa...}
+{802}{}{Tudo que precisamos Ã© o que estÃ¡ alÃ©m...}
 {803}{}{Metadona}
 {804}{}{}
-{900}{}{Me dê}
+{900}{}{Me dÃª}
 {901}{}{Um beijo para construir um sonho}
-{902}{}{E minha imaginação}
-{903}{}{Crescerá por causa desse beijo}
+{902}{}{E minha imaginaÃ§Ã£o}
+{903}{}{CrescerÃ¡ por causa desse beijo}
 {904}{}{Mmmmm}
-{905}{}{Doce coração,}
-{906}{}{Não peço mais do que isto:}
+{905}{}{Doce coraÃ§Ã£o,}
+{906}{}{NÃ£o peÃ§o mais do que isto:}
 {910}{}{Um beijo antes de me deixar}
-{912}{}{Vai alimentar meu pobre coração}
-{913}{}{Me deixe algo antes de você partir...}
+{912}{}{Vai alimentar meu pobre coraÃ§Ã£o}
+{913}{}{Me deixe algo antes de vocÃª partir...}
 {915}{}{Quando estou sozinho}
 {916}{}{Com minhas fantasias}
 {917}{}{Estareeei contiiiigo}
 {918}{}{Tecendo romances}
-{919}{}{Fazendo acreditar que eles são verdadeiros}
-{920}{}{Oh, me dê seus lábios por apenas um momento}
-{921}{}{E minha imaginação fará esse momento viver...}
-{923}{}{Me dê o que somente tu pode dar}
+{919}{}{Fazendo acreditar que eles sÃ£o verdadeiros}
+{920}{}{Oh, me dÃª seus lÃ¡bios por apenas um momento}
+{921}{}{E minha imaginaÃ§Ã£o farÃ¡ esse momento viver...}
+{923}{}{Me dÃª o que somente tu pode dar}
 {925}{}{::Instrumental de trompete::}
-{930}{}{Eu vou... estar com você}
+{930}{}{Eu vou... estar com vocÃª}
 {933}{}{Ohhhh}
-{935}{}{lábios por um momento}
-{937}{}{Fará esse momento viver}
+{935}{}{lÃ¡bios por um momento}
+{937}{}{FarÃ¡ esse momento viver}
 {941}{}{}
-{1200}{}{! Olha o grande herói! Como podemos te ajudar? Talvez cantar algo especial para você, hein?}
+{1200}{}{! Olha o grande herÃ³i! Como podemos te ajudar? Talvez cantar algo especial para vocÃª, hein?}
 {1201}{}{. Podemos te ajudar?}
-{1202}{}{. Posso te ajudar com alguma coisa, campeão?}
+{1202}{}{. Posso te ajudar com alguma coisa, campeÃ£o?}

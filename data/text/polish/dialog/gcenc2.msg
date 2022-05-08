@@ -1,20 +1,20 @@
-{100}{}{Stój, mutancie pustkowia! Szukamy wrogów Enclawy. Zidentyfikuj siê.}
-{101}{}{Kogo nazywasz mutantem, dupku? Chcesz wroga? To go masz, tu stojê!}
-{102}{}{S³uchaj, jestem tylko prostym cz³owiekiem. Nie znam ¿adnej Enclawy. Ta osoba której szukacie musi byæ naprawdê niebezpieczna, s¹dz¹c po waszym wygl¹dzie.}
-{103}{}{To mi wystarczy. Zabiæ to.}
-{104}{}{Och, to bêdzie ciekawe!}
-{105}{}{O tak, s¹ niebezpieczni i podejrzewamy, ¿e uciekaj¹ z Gecko. Wed³ug mnie, to ciebie szukamy.}
-{106}{}{Có¿, naprawdê cieszê siê, ¿e to nie mnie szukacie, bo nie wygl¹dacie na kogoœ z kim chcê zadzieraæ. Ale s³uchajcie, skoro jest tu w pobli¿u ktoœ niebezpieczny, muszê jak najszybciej wracaæ do mojej rodziny ¿eby ich ostrzec.}
-{107}{}{Dobra, poddaje siê. Zatañczmy!}
-{108}{}{Nigdzie jeszcze nie pójdziesz. Czy zdarzy³o ci siê kiedykolwiek byæ w Gecko?}
-{109}{}{Tak, oczywiœcie. Cudowne miejsce. To znaczy, tubylcy s¹ szpetni i trochê œmierdzi i ta ca³a radiacja i inne takie tam, ale jest kupê zabawy z ich komputerami. Ha! Powinniœcie tam byæ jak zadar³ ze mn¹ taki dupek—no wiecie, taki podobny do was.}
-{110}{}{Gecko? Nigdy w ¿yciu, nie zamierzam siê tam zbli¿aæ bardziej ni¿ teraz. Wiecie, ¿e to miejsce jest pe³ne tych obrzydliwych ghuli? Czemu pytasz?}
-{111}{}{Dobra, wierze ci. Ch³opaki, rozproszyæ siê. Przeszukaæ teren. Musimy znaleŸæ nasz cel.}
-{112}{}{Nie. Nie wie¿ê ci. Ch³opaki, to jego szukamy!}
-{113}{}{Nie. Nie wie¿ê ci. Ch³opaki, to jej szukamy!}
-{114}{}{Hej! Hej! Czekajcie. Dlaczego mi nie wierzycie? Co mam jeszcze zrobiæ?}
-{115}{}{Ktoœ w³ama³ siê do sieci komputerowej Enklawy z Reaktora Platformy Posejdon. Próbujemy go wytropiæ.}
-{116}{}{W³ama³ siê!? Có¿, to nie mogê byæ ja. Pochodzê z plemienia. Nawet nie wiem jak siê u¿ywa tego - jak to nazywacie? - Kum-pu-tora.}
-{200}{}{Geko? O nie, w ¿yciu siê tam nie zbli¿ê bardziej ni¿ teraz. Nie wiesz, ¿e to miejsce jest pe³ne obrzydliwych ghuli? Wystarczy, ¿e muszê zajmowaæ siê moim wujkiem Lennym, tym tutaj. Czemu pytasz?}
+{100}{}{StÃ³j, mutancie pustkowia! Szukamy wrogÃ³w Enclawy. Zidentyfikuj siÄ™.}
+{101}{}{Kogo nazywasz mutantem, dupku? Chcesz wroga? To go masz, tu stojÄ™!}
+{102}{}{SÅ‚uchaj, jestem tylko prostym czÅ‚owiekiem. Nie znam Å¼adnej Enclawy. Ta osoba ktÃ³rej szukacie musi byÄ‡ naprawdÄ™ niebezpieczna, sÄ…dzÄ…c po waszym wyglÄ…dzie.}
+{103}{}{To mi wystarczy. ZabiÄ‡ to.}
+{104}{}{Och, to bÄ™dzie ciekawe!}
+{105}{}{O tak, sÄ… niebezpieczni i podejrzewamy, Å¼e uciekajÄ… z Gecko. WedÅ‚ug mnie, to ciebie szukamy.}
+{106}{}{CÃ³Å¼, naprawdÄ™ cieszÄ™ siÄ™, Å¼e to nie mnie szukacie, bo nie wyglÄ…dacie na kogoÅ› z kim chcÄ™ zadzieraÄ‡. Ale sÅ‚uchajcie, skoro jest tu w pobliÅ¼u ktoÅ› niebezpieczny, muszÄ™ jak najszybciej wracaÄ‡ do mojej rodziny Å¼eby ich ostrzec.}
+{107}{}{Dobra, poddaje siÄ™. ZataÅ„czmy!}
+{108}{}{Nigdzie jeszcze nie pÃ³jdziesz. Czy zdarzyÅ‚o ci siÄ™ kiedykolwiek byÄ‡ w Gecko?}
+{109}{}{Tak, oczywiÅ›cie. Cudowne miejsce. To znaczy, tubylcy sÄ… szpetni i trochÄ™ Å›mierdzi i ta caÅ‚a radiacja i inne takie tam, ale jest kupÄ™ zabawy z ich komputerami. Ha! PowinniÅ›cie tam byÄ‡ jak zadarÅ‚ ze mnÄ… taki dupekâ€”no wiecie, taki podobny do was.}
+{110}{}{Gecko? Nigdy w Å¼yciu, nie zamierzam siÄ™ tam zbliÅ¼aÄ‡ bardziej niÅ¼ teraz. Wiecie, Å¼e to miejsce jest peÅ‚ne tych obrzydliwych ghuli? Czemu pytasz?}
+{111}{}{Dobra, wierze ci. ChÅ‚opaki, rozproszyÄ‡ siÄ™. PrzeszukaÄ‡ teren. Musimy znaleÅºÄ‡ nasz cel.}
+{112}{}{Nie. Nie wieÅ¼Ä™ ci. ChÅ‚opaki, to jego szukamy!}
+{113}{}{Nie. Nie wieÅ¼Ä™ ci. ChÅ‚opaki, to jej szukamy!}
+{114}{}{Hej! Hej! Czekajcie. Dlaczego mi nie wierzycie? Co mam jeszcze zrobiÄ‡?}
+{115}{}{KtoÅ› wÅ‚amaÅ‚ siÄ™ do sieci komputerowej Enklawy z Reaktora Platformy Posejdon. PrÃ³bujemy go wytropiÄ‡.}
+{116}{}{WÅ‚amaÅ‚ siÄ™!? CÃ³Å¼, to nie mogÄ™ byÄ‡ ja. PochodzÄ™ z plemienia. Nawet nie wiem jak siÄ™ uÅ¼ywa tego - jak to nazywacie? - Kum-pu-tora.}
+{200}{}{Geko? O nie, w Å¼yciu siÄ™ tam nie zbliÅ¼Ä™ bardziej niÅ¼ teraz. Nie wiesz, Å¼e to miejsce jest peÅ‚ne obrzydliwych ghuli? Wystarczy, Å¼e muszÄ™ zajmowaÄ‡ siÄ™ moim wujkiem Lennym, tym tutaj. Czemu pytasz?}
 {201}{}{Uga?}
-{202}{}{Ja zabijaæ niedobruchów!}
+{202}{}{Ja zabijaÄ‡ niedobruchÃ³w!}

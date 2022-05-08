@@ -1,6 +1,6 @@
-{100}{}{Tu vois un homme au regard perÁant et ‡ l'allure d'homme d'affaires.}
+{100}{}{Tu vois un homme au regard per√ßant et √† l'allure d'homme d'affaires.}
 {101}{}{Tu vois un croupier de Craps.}
-{102}{}{Il tient un b‚ton et a beaucoup de jetons. Tu pourrais tenter ta chance avec lui.}
+{102}{}{Il tient un b√¢ton et a beaucoup de jetons. Tu pourrais tenter ta chance avec lui.}
 {103}{}{Faites vos jeux ! Nous avons un autre lanceur.}
 {104}{}{Combien vas-tu miser sur PASS LINE ?}
 {105}{}{Combien vas-tu miser sur DON'T PASS LINE ?}
@@ -15,11 +15,11 @@
 {114}{}{Mises de proposition...}
 {115}{}{Placer les mises...}
 {116}{}{Miser sur Field.}
-{118}{}{Lancer les dÈs !}
-{119}{}{Mise Pass line fixÈe ‡ : }
-{120}{}{Mise Don't Pass line fixÈe ‡ : }
-{121}{}{Mise Come line fixÈe ‡ : }
-{122}{}{Mise Don't Come line fixÈe ‡ : }
+{118}{}{Lancer les d√©s !}
+{119}{}{Mise Pass line fix√©e √† : }
+{120}{}{Mise Don't Pass line fix√©e √† : }
+{121}{}{Mise Come line fix√©e √† : }
+{122}{}{Mise Don't Come line fix√©e √† : }
 {123}{}{7 : }
 {124}{}{Double 3 : }
 {125}{}{Double 4 : }
@@ -30,7 +30,7 @@
 {130}{}{1 & 1 : }
 {131}{}{6 & 6 : }
 {132}{}{Craps : }
-{133}{}{Mise placÈe sur 4 : }
+{133}{}{Mise plac√©e sur 4 : }
 {134}{}{sur 5 : }
 {135}{}{sur 6 : }
 {136}{}{sur 8 : }
@@ -48,14 +48,14 @@
 {148}{}{Cote sur 8 : }
 {149}{}{Cote sur 9 : }
 {150}{}{Cote sur 10 : }
-{151}{}{Mise sur Field fixÈe ‡ : }
+{151}{}{Mise sur Field fix√©e √† : }
 {152}{}{Quelle est votre mise de proposition ?}
 {153}{}{Combien ?}
-{154}{}{Mises sur un seul lancÈ...}
-{155}{}{Mises Hardway (double numÈro)...}
+{154}{}{Mises sur un seul lanc√©...}
+{155}{}{Mises Hardway (double num√©ro)...}
 {156}{}{Quel type de mise ?}
 {157}{}{Combien vas-tu miser ?}
-{200}{}{LancÈ de 7 (5 fois la mise) }
+{200}{}{Lanc√© de 7 (5 fois la mise) }
 {201}{}{Double 3 (10 fois la mise) }
 {202}{}{Double 4 (10 fois la mise) }
 {203}{}{Double 5 (8 fois la mise) }
@@ -97,12 +97,12 @@
 {629}{}{Mise de proposition sur Craps, 2, 3 et 12}
 {630}{}{perd !}
 {631}{}{gagne !}
-{650}{}{Mise placÈe sur 4}
-{651}{}{Mise placÈe sur 5}
-{652}{}{Mise placÈe sur 6}
-{653}{}{Mise placÈe sur 8}
-{654}{}{Mise placÈe sur 9}
-{655}{}{Mise placÈe sur 10}
+{650}{}{Mise plac√©e sur 4}
+{651}{}{Mise plac√©e sur 5}
+{652}{}{Mise plac√©e sur 6}
+{653}{}{Mise plac√©e sur 8}
+{654}{}{Mise plac√©e sur 9}
+{655}{}{Mise plac√©e sur 10}
 {660}{}{La mise Field sur 2 gagne le double. }
 {661}{}{La mise Field sur 3 gagne. }
 {662}{}{La mise Field sur 4 gagne. }
@@ -123,24 +123,24 @@
 {683}{}{Cote sur 8}
 {684}{}{Cote sur 9}
 {685}{}{Cote sur 10}
-{700}{}{Aucune cote de point gagnÈe.}
-{701}{}{JouÈ }
-{702}{}{Pas jouÈ }
-{710}{}{DÈ 1 :}
-{711}{}{; DÈ 2 :}
+{700}{}{Aucune cote de point gagn√©e.}
+{701}{}{Jou√© }
+{702}{}{Pas jou√© }
+{710}{}{D√© 1 :}
+{711}{}{; D√© 2 :}
 {712}{}{Je regrette mais je dois partir.}
 {713}{}{Je regrette, je ne veux pas faire cette mise.}
 {714}{}{Le point est "off".}
-{800}{}{Choisir des cotes sur les numÈros jouÈs.}
+{800}{}{Choisir des cotes sur les num√©ros jou√©s.}
 {801}{}{Choisir le multiplicateur de cote. Cote sur : }
 {802}{}{x mise}
-{803}{}{, actuellement ‡ : }
+{803}{}{, actuellement √† : }
 {804}{}{Cote sur 4.}
 {805}{}{Cote sur 5.}
 {806}{}{Cote sur 6.}
 {807}{}{Cote sur 8.}
 {808}{}{Cote sur 9.}
 {809}{}{Cote sur 10.}
-{810}{}{Sur quel numÈro miser ?}
-{1100}{}{Tu vois une femme au regard perÁant et ‡ l'allure de femme d'affaires.}
-{1102}{}{Elle tient un b‚ton et a beaucoup de jetons. Tu pourrais tenter ta chance avec elle.}
+{810}{}{Sur quel num√©ro miser ?}
+{1100}{}{Tu vois une femme au regard per√ßant et √† l'allure de femme d'affaires.}
+{1102}{}{Elle tient un b√¢ton et a beaucoup de jetons. Tu pourrais tenter ta chance avec elle.}

@@ -1,1 +1,1 @@
-{100}{}{Mégis mit m?veltél, hogy ebbe kerültél?}
+{100}{}{MÃ©gis mit m?veltÃ©l, hogy ebbe kerÃ¼ltÃ©l?}

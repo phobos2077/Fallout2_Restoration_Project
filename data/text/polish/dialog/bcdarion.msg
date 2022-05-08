@@ -1,5 +1,5 @@
-{100}{}{Widzisz starszego mê¿czyznê.}
-{101}{}{Widzisz Dariona, przywódcê Nowych Chanów.}
-{102}{}{Widzisz starszego mê¿czyznê o rzadkich, siwych w³osach. Mimo wieku zdaje siê byæ w niez³ej formie.}
-{103}{}{Nareszcie siê spotykamy. Zbawienie uciœnionych, ramiê sprawiedliwoœci, nadzieja ludzkoœci. Co za pieprzenie! Có¿, zanim zaczniesz jakieœ nudne przemówienie, chcê tylko zaznaczyæ, ¿e GÓWNO MNIE TO OBCHODZI. Darujmy wiêc sobie grê wstêpn¹ i przejdŸmy od razu do zabawy. Baddog, zabij!}
+{100}{}{Widzisz starszego mÄ™Å¼czyznÄ™.}
+{101}{}{Widzisz Dariona, przywÃ³dcÄ™ Nowych ChanÃ³w.}
+{102}{}{Widzisz starszego mÄ™Å¼czyznÄ™ o rzadkich, siwych wÅ‚osach. Mimo wieku zdaje siÄ™ byÄ‡ w niezÅ‚ej formie.}
+{103}{}{Nareszcie siÄ™ spotykamy. Zbawienie uciÅ›nionych, ramiÄ™ sprawiedliwoÅ›ci, nadzieja ludzkoÅ›ci. Co za pieprzenie! CÃ³Å¼, zanim zaczniesz jakieÅ› nudne przemÃ³wienie, chcÄ™ tylko zaznaczyÄ‡, Å¼e GÃ“WNO MNIE TO OBCHODZI. Darujmy wiÄ™c sobie grÄ™ wstÄ™pnÄ… i przejdÅºmy od razu do zabawy. Baddog, zabij!}
 {104}{}{Zrobione.}

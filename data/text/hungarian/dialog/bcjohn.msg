@@ -1,15 +1,15 @@
-{100}{}{Egy földfoglalót látsz.}
-{101}{}{? John, a földfoglalók egyike.}
-{102}{}{Egy középkorú, kopottas ruhát visel? férfit látsz.}
-{103}{}{Sajnálom, idegen, nincs id?m veled csevegni.}
-{104}{}{Miért nem beszélsz?}
-{105}{}{Oké.}
-{106}{}{Rendben, viszlát!}
-{107}{}{Várj egy percet! Miért nem akarsz beszélni velem?}
-{108}{}{Mi zárt közösségben élünk, és nem igényeljük mások társaságát. Kérlek, hagyj minket békén!}
-{109}{}{Oké.}
-{110}{}{Helló... és viszlát!}
-{111}{}{Köszönet mindenért, amit tettél. És elnézésedet kérem a rideg fogadtatásért.}
+{100}{}{Egy fÃ¶ldfoglalÃ³t lÃ¡tsz.}
+{101}{}{? John, a fÃ¶ldfoglalÃ³k egyike.}
+{102}{}{Egy kÃ¶zÃ©pkorÃº, kopottas ruhÃ¡t visel? fÃ©rfit lÃ¡tsz.}
+{103}{}{SajnÃ¡lom, idegen, nincs id?m veled csevegni.}
+{104}{}{MiÃ©rt nem beszÃ©lsz?}
+{105}{}{OkÃ©.}
+{106}{}{Rendben, viszlÃ¡t!}
+{107}{}{VÃ¡rj egy percet! MiÃ©rt nem akarsz beszÃ©lni velem?}
+{108}{}{Mi zÃ¡rt kÃ¶zÃ¶ssÃ©gben Ã©lÃ¼nk, Ã©s nem igÃ©nyeljÃ¼k mÃ¡sok tÃ¡rsasÃ¡gÃ¡t. KÃ©rlek, hagyj minket bÃ©kÃ©n!}
+{109}{}{OkÃ©.}
+{110}{}{HellÃ³... Ã©s viszlÃ¡t!}
+{111}{}{KÃ¶szÃ¶net mindenÃ©rt, amit tettÃ©l. Ã‰s elnÃ©zÃ©sedet kÃ©rem a rideg fogadtatÃ¡sÃ©rt.}
 {112}{}{Baszd meg, seggfej!}
-{113}{}{A francba, gy?lölöm, amikor ilyesmi történik.}
-{114}{}{Ezt kapd ki! Igen, ez majd észre térít!}
+{113}{}{A francba, gy?lÃ¶lÃ¶m, amikor ilyesmi tÃ¶rtÃ©nik.}
+{114}{}{Ezt kapd ki! Igen, ez majd Ã©szre tÃ©rÃ­t!}

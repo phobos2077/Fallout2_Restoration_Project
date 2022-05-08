@@ -6,7 +6,7 @@
 {105}{}{You got questions? Look up Sheriff Dumont. He'll fill you in.}
 {106}{}{Laws are on the bulletin board outside - no weapons, no drunks, no trouble.}
 {107}{}{What can I do for you, stranger?}
-{108}{}{Você novamente?}
+{108}{}{VocÃª novamente?}
 {109}{}{Me go in.}
 {110}{}{I'd like to get into NCR.}
 {111}{}{Nada.}

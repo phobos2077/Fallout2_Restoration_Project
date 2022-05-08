@@ -1,132 +1,132 @@
 {100}{}{Ves a una pareja inquietantemente saludable.}
-{101}{}{Ves a Juan Cruz y a Vikki Goldman, dos de las más famosas estrellas de cine de Nuevo Reno.}
+{101}{}{Ves a Juan Cruz y a Vikki Goldman, dos de las mÃ¡s famosas estrellas de cine de Nuevo Reno.}
 {102}{}{Ves a un hombre de pelo oscuro y a una mujer rubia, ambos extremadamente atractivos. Exudan una excitante sensualidad por todos sus poros.}
-{103}{}{Él: ¡Hola! ¡Soy Juan Cruz! Ella: ¡Y yo soy Vikki Goldman! Ambos: ¡Somos famosos! ¡Y aprobamos la Hubología! Ambos: Por favor, ten en cuenta que cualquier similitud entre nosotros y cualquier persona o institución, viva o muerta, es pura coincidencia.}
-{104}{}{¿Ah? ¿Cluz? ¿Doldnin?}
-{105}{}{¿Famosos? ¿Qué os hace famosos?}
-{106}{}{¿Similitudes? ¿Qué queréis decir?}
-{107}{}{Quiero ser un una Hubologista. ¿Cómo me puedo unir?}
-{108}{}{Oye, Vikki, Dave H. está enamorado de ti.}
+{103}{}{Ã‰l: Â¡Hola! Â¡Soy Juan Cruz! Ella: Â¡Y yo soy Vikki Goldman! Ambos: Â¡Somos famosos! Â¡Y aprobamos la HubologÃ­a! Ambos: Por favor, ten en cuenta que cualquier similitud entre nosotros y cualquier persona o instituciÃ³n, viva o muerta, es pura coincidencia.}
+{104}{}{Â¿Ah? Â¿Cluz? Â¿Doldnin?}
+{105}{}{Â¿Famosos? Â¿QuÃ© os hace famosos?}
+{106}{}{Â¿Similitudes? Â¿QuÃ© querÃ©is decir?}
+{107}{}{Quiero ser un una Hubologista. Â¿CÃ³mo me puedo unir?}
+{108}{}{Oye, Vikki, Dave H. estÃ¡ enamorado de ti.}
 {109}{}{Genial. He de irme.}
-{110}{}{Él: Un pobre chico del Yermo. Ella: ¿Quizá un alineamiento ayudaría? Él: Sí. Oye, tú, ¿te gustaría un alineamiento?}
-{111}{}{¡S-sí!}
-{112}{}{¡No!}
-{113}{}{Ella: Espero que eso haya ayudado. ¡Buena suerte en tus viajes!}
-{114}{}{¡A-dios!}
-{115}{}{¡Desde luego que lo ha hecho!}
-{116}{}{Él: Si no aceptas nuestra ayuda... Ella: ... no podremos ayudarte. Adiós.}
-{117}{}{¡Adiós!}
-{118}{}{Él: Ah, ¿ves? ¡Las enseñanzas de la Hubología han demostrado su valía de nuevo!}
+{110}{}{Ã‰l: Un pobre chico del Yermo. Ella: Â¿QuizÃ¡ un alineamiento ayudarÃ­a? Ã‰l: SÃ­. Oye, tÃº, Â¿te gustarÃ­a un alineamiento?}
+{111}{}{Â¡S-sÃ­!}
+{112}{}{Â¡No!}
+{113}{}{Ella: Espero que eso haya ayudado. Â¡Buena suerte en tus viajes!}
+{114}{}{Â¡A-dios!}
+{115}{}{Â¡Desde luego que lo ha hecho!}
+{116}{}{Ã‰l: Si no aceptas nuestra ayuda... Ella: ... no podremos ayudarte. AdiÃ³s.}
+{117}{}{Â¡AdiÃ³s!}
+{118}{}{Ã‰l: Ah, Â¿ves? Â¡Las enseÃ±anzas de la HubologÃ­a han demostrado su valÃ­a de nuevo!}
 {119}{}{Tengo algunas preguntas.}
-{120}{}{¡Gracias! ¡Adiós!}
-{121}{}{Ella: ¿por Qué, estábamos en el negocio del cine en New Reno. Hemos hecho cientos de películas, muchos de ellos clásicos, como "Top Bun," "Juguetón Bizness", y "Días de Goma". Eso es lo que nos hace famosos.}
-{122}{}{Él: Pero, desde luego, como miembro de la industria, ya lo sabías.}
+{120}{}{Â¡Gracias! Â¡AdiÃ³s!}
+{121}{}{Ella: Â¿por QuÃ©, estÃ¡bamos en el negocio del cine en New Reno. Hemos hecho cientos de pelÃ­culas, muchos de ellos clÃ¡sicos, como "Top Bun," "JuguetÃ³n Bizness", y "DÃ­as de Goma". Eso es lo que nos hace famosos.}
+{122}{}{Ã‰l: Pero, desde luego, como miembro de la industria, ya lo sabÃ­as.}
 {123}{}{Me alegra poner por fin rostros a los nombres.}
-{124}{}{¿A quién le importa lo que VOSOTROS aprobáis? ¿No debería hacer mis propias elecciones?}
-{125}{}{Ya veo. Bien, tengo más preguntas para vosotros.}
-{126}{}{Gracias, adiós.}
-{127}{}{Ella: Oh, sí, desde luego que deberías hacer tus propias elecciones. Él: ¡Y con el más reciente libro de Hub, puedes aprender a hacer la elección CORRECTA!}
-{128}{}{¿Su más reciente libro? ¿No está muerto?}
-{129}{}{La elección "correcta". Ya, claro. ¿Qué pasa con la libre voluntad?}
-{130}{}{Suena genial. ¿Cómo me uno?}
-{131}{}{Por supuesto. Tengo más preguntas.}
-{132}{}{Cierto. Adiós.}
-{133}{}{Él: ¿Más preguntas? ¡Entonces tenemos las respuestas! Por la gracia de la Gran Rueda, por supuesto.}
-{134}{}{¿Cómo me uno?}
-{135}{}{¿Qué os hace famosos?}
-{136}{}{¿No debería hacer mis propias elecciones, en lugar de dejar que los famosos me guíen?}
-{137}{}{¿Cómo me uno?}
-{138}{}{Oye, Vikki, Dave H. está enamorado de ti.}
-{139}{}{No, no más preguntas.}
-{140}{}{Ella: [te lanza una mirada glacial]. Él: Gracias.}
-{141}{}{Err... tengo más preguntas.}
-{142}{}{¡Eso es todo para mí! ¡Hasta luego!}
-{143}{}{Él: ¿Muerto? ¡Ja ja! Quizás. Nos gusta pensar que alineó todas sus neurodinas y fue a unirse con el Padre Estelar. Ella: Usamos ampliamente sus apuntes y manuscritos apenas comenzados para difundir la palabra de la Hubología. Él: Por ejemplo, encontramos un trozo que dice: "2 doc. huevos/Leche/PH". Obviamente, esto es significativo. Ha de ser escuchado.}
-{144}{}{Err... desde luego. Tengo más preguntas.}
-{145}{}{¡Así que porque un chiflado escribió algo sentís la necesidad de publicarlo TODO?}
-{146}{}{¡Sí! ¡Alabado sea Hub! ¡Veo la luz! ¿Cómo me uno?}
-{147}{}{Cierto. Adiós.}
-{148}{}{Él: Sí. Algunos podrían creer que nos parecemos a ciertas personas. Ella: Pero lo cierto es que es pura coincidencia.}
-{149}{}{Buf. Bueno, eso me quita un peso de encima. Oid, tengo más preguntas.}
+{124}{}{Â¿A quiÃ©n le importa lo que VOSOTROS aprobÃ¡is? Â¿No deberÃ­a hacer mis propias elecciones?}
+{125}{}{Ya veo. Bien, tengo mÃ¡s preguntas para vosotros.}
+{126}{}{Gracias, adiÃ³s.}
+{127}{}{Ella: Oh, sÃ­, desde luego que deberÃ­as hacer tus propias elecciones. Ã‰l: Â¡Y con el mÃ¡s reciente libro de Hub, puedes aprender a hacer la elecciÃ³n CORRECTA!}
+{128}{}{Â¿Su mÃ¡s reciente libro? Â¿No estÃ¡ muerto?}
+{129}{}{La elecciÃ³n "correcta". Ya, claro. Â¿QuÃ© pasa con la libre voluntad?}
+{130}{}{Suena genial. Â¿CÃ³mo me uno?}
+{131}{}{Por supuesto. Tengo mÃ¡s preguntas.}
+{132}{}{Cierto. AdiÃ³s.}
+{133}{}{Ã‰l: Â¿MÃ¡s preguntas? Â¡Entonces tenemos las respuestas! Por la gracia de la Gran Rueda, por supuesto.}
+{134}{}{Â¿CÃ³mo me uno?}
+{135}{}{Â¿QuÃ© os hace famosos?}
+{136}{}{Â¿No deberÃ­a hacer mis propias elecciones, en lugar de dejar que los famosos me guÃ­en?}
+{137}{}{Â¿CÃ³mo me uno?}
+{138}{}{Oye, Vikki, Dave H. estÃ¡ enamorado de ti.}
+{139}{}{No, no mÃ¡s preguntas.}
+{140}{}{Ella: [te lanza una mirada glacial]. Ã‰l: Gracias.}
+{141}{}{Err... tengo mÃ¡s preguntas.}
+{142}{}{Â¡Eso es todo para mÃ­! Â¡Hasta luego!}
+{143}{}{Ã‰l: Â¿Muerto? Â¡Ja ja! QuizÃ¡s. Nos gusta pensar que alineÃ³ todas sus neurodinas y fue a unirse con el Padre Estelar. Ella: Usamos ampliamente sus apuntes y manuscritos apenas comenzados para difundir la palabra de la HubologÃ­a. Ã‰l: Por ejemplo, encontramos un trozo que dice: "2 doc. huevos/Leche/PH". Obviamente, esto es significativo. Ha de ser escuchado.}
+{144}{}{Err... desde luego. Tengo mÃ¡s preguntas.}
+{145}{}{Â¡AsÃ­ que porque un chiflado escribiÃ³ algo sentÃ­s la necesidad de publicarlo TODO?}
+{146}{}{Â¡SÃ­! Â¡Alabado sea Hub! Â¡Veo la luz! Â¿CÃ³mo me uno?}
+{147}{}{Cierto. AdiÃ³s.}
+{148}{}{Ã‰l: SÃ­. Algunos podrÃ­an creer que nos parecemos a ciertas personas. Ella: Pero lo cierto es que es pura coincidencia.}
+{149}{}{Buf. Bueno, eso me quita un peso de encima. Oid, tengo mÃ¡s preguntas.}
 {150}{}{Lo tengo. Hasta luego.}
-{151}{}{Ella: Por supuesto que tienes libre voluntad. Tienes la elección de permitir que tus neurodinas se llenen con la maldad del mundo. Él: Tienes la elección de vivir una existencia triste y sin sentido de la vida que hay ahí fuera. Ambos: O puedes obtener un mayor entendimiento de la vida a través de la Gran Rueda.}
-{152}{}{¿Neurodinas? ¿Qué son?}
-{153}{}{Suena genial. ¿Cómo me uno?}
-{154}{}{Hmm. Creo que me quedaré con la vida de ahí fuera.}
+{151}{}{Ella: Por supuesto que tienes libre voluntad. Tienes la elecciÃ³n de permitir que tus neurodinas se llenen con la maldad del mundo. Ã‰l: Tienes la elecciÃ³n de vivir una existencia triste y sin sentido de la vida que hay ahÃ­ fuera. Ambos: O puedes obtener un mayor entendimiento de la vida a travÃ©s de la Gran Rueda.}
+{152}{}{Â¿Neurodinas? Â¿QuÃ© son?}
+{153}{}{Suena genial. Â¿CÃ³mo me uno?}
+{154}{}{Hmm. Creo que me quedarÃ© con la vida de ahÃ­ fuera.}
 {155}{}{Pues muy bien. Esto, tengo que irme ya.}
-{156}{}{Ella: ¿Te atreves a llamar a Hub (alabada sea Su visión) un chiflado? ¿Aquí? ¿En una fortaleza dedicada a su estudio? Él: Sal de aquí. Si hablas con alguien mientras te vas, serás atacada. Infiel. Ambos: Adiós y hasta nunca.}
-{157}{}{Quizá debería acabar con vosotros. De todas formas siempre he odiado vuestras películas. Veamos cómo hacéis una escena de muerte.}
-{158}{}{Vuestras películas apestan. Adiós.}
-{159}{}{Adiós.}
-{160}{}{Ella: Las neurodinas son la esencia de las almas destruidas en la Gran Guerra, contaminando nuestra esencia espiritual y guiándonos por el mal camino. Él: Si quieres saber más sobre nuestras enseñanzas, tendrás que unirte a nuestra iglesia.}
-{161}{}{Sí, todo esto suena fascinante.}
-{162}{}{Había escuchado que esto era ciencia ficción, pero no imaginaba hasta cuánto. Hub debe de haber sido un auténtico chiflado.}
+{156}{}{Ella: Â¿Te atreves a llamar a Hub (alabada sea Su visiÃ³n) un chiflado? Â¿AquÃ­? Â¿En una fortaleza dedicada a su estudio? Ã‰l: Sal de aquÃ­. Si hablas con alguien mientras te vas, serÃ¡s atacada. Infiel. Ambos: AdiÃ³s y hasta nunca.}
+{157}{}{QuizÃ¡ deberÃ­a acabar con vosotros. De todas formas siempre he odiado vuestras pelÃ­culas. Veamos cÃ³mo hacÃ©is una escena de muerte.}
+{158}{}{Vuestras pelÃ­culas apestan. AdiÃ³s.}
+{159}{}{AdiÃ³s.}
+{160}{}{Ella: Las neurodinas son la esencia de las almas destruidas en la Gran Guerra, contaminando nuestra esencia espiritual y guiÃ¡ndonos por el mal camino. Ã‰l: Si quieres saber mÃ¡s sobre nuestras enseÃ±anzas, tendrÃ¡s que unirte a nuestra iglesia.}
+{161}{}{SÃ­, todo esto suena fascinante.}
+{162}{}{HabÃ­a escuchado que esto era ciencia ficciÃ³n, pero no imaginaba hasta cuÃ¡nto. Hub debe de haber sido un autÃ©ntico chiflado.}
 {163}{}{Bueno, definitivamente tengo curiosidad por todo esto. Contad conmigo.}
-{164}{}{Hmm. Nah, no ahora mismo. Aunque tengo más preguntas.}
-{165}{}{Umm... tengo que irme. Adiós.}
-{166}{}{Él: Eso es muy progresista por tu parte. Ella: Muy iluminado. Él: Ofrecemos nuestras opiniones a la gente... y si nuestra celebridad puede atraer creyentes, estamos ansiosos por usarla.}
+{164}{}{Hmm. Nah, no ahora mismo. Aunque tengo mÃ¡s preguntas.}
+{165}{}{Umm... tengo que irme. AdiÃ³s.}
+{166}{}{Ã‰l: Eso es muy progresista por tu parte. Ella: Muy iluminado. Ã‰l: Ofrecemos nuestras opiniones a la gente... y si nuestra celebridad puede atraer creyentes, estamos ansiosos por usarla.}
 {167}{}{Tengo otras preguntas.}
 {168}{}{Estoy interesado en unirme.}
 {169}{}{Ya veo. Bueno, hasta luego.}
-{170}{}{Él: Bien, es muy sencillo. Deja que simplemente te demos este holodisco informativo. Ella: ... ves una película corta... Él:... ¡y después vas a hablar con AHS-7! Ella: Fácil, ¿verdad?}
-{171}{}{Hagámoslo.}
-{172}{}{No creo que esté listo para esto.}
-{173}{}{Ella: Esa es tu prerrogativa. Él: Y espero que entiendas que no se te puede permitir vagabundear por nuestra base. Ella: Así que sería mejor que te fueras: los guardias probablemente te dispararán si andas por aquí.}
-{174}{}{Vaya, pues gracias. Me invitáis a reclutarme y a dispararme si no firmo? Buen trabajo.}
-{175}{}{Quizá sea mejor que yo os dispare primero.}
-{176}{}{Me voy de aquí.}
-{177}{}{Él: Esta es tu última oportunidad de cambiar tu mente. Ella: Odiaríamos ver que te sucediera algo malo.}
-{178}{}{Jódete.}
-{179}{}{Muy bien. ¿Cómo me uno?}
+{170}{}{Ã‰l: Bien, es muy sencillo. Deja que simplemente te demos este holodisco informativo. Ella: ... ves una pelÃ­cula corta... Ã‰l:... Â¡y despuÃ©s vas a hablar con AHS-7! Ella: FÃ¡cil, Â¿verdad?}
+{171}{}{HagÃ¡moslo.}
+{172}{}{No creo que estÃ© listo para esto.}
+{173}{}{Ella: Esa es tu prerrogativa. Ã‰l: Y espero que entiendas que no se te puede permitir vagabundear por nuestra base. Ella: AsÃ­ que serÃ­a mejor que te fueras: los guardias probablemente te dispararÃ¡n si andas por aquÃ­.}
+{174}{}{Vaya, pues gracias. Me invitÃ¡is a reclutarme y a dispararme si no firmo? Buen trabajo.}
+{175}{}{QuizÃ¡ sea mejor que yo os dispare primero.}
+{176}{}{Me voy de aquÃ­.}
+{177}{}{Ã‰l: Esta es tu Ãºltima oportunidad de cambiar tu mente. Ella: OdiarÃ­amos ver que te sucediera algo malo.}
+{178}{}{JÃ³dete.}
+{179}{}{Muy bien. Â¿CÃ³mo me uno?}
 {180}{}{Algo malo os va a suceder ahora mismo a VOSOTROS.}
-{181}{}{No. Tomaré mis propias decisiones. Hasta luego.}
-{182}{}{Él: Hemos hecho todo lo posible por ti. Ella: Buena suerte en tus viajes.}
-{183}{}{¡Adiós!}
-{184}{}{Ella: ¿Dave? ¿El chico de la computadora? Él: ¡Ja ja! ¡Menudo perdedor! Vikki es mía, toda mía: ni de coña él va a... perdona, estoy canalizando energía negativa. Debo haber ensuciado mis neurodinas. Ella: [susurrándote] Creo que Dave es mono, pero no puede pasar nada mientras Juan esté cerca. Él: Menos mal. Neurodinas despejadas de nuevo.}
-{185}{}{En fin, tengo más preguntas.}
-{186}{}{Eso es todo. Adiós.}
-{187}{}{Ella: No ha sido tan malo, ¿verdad? Él: ¡Ahora sólo tienes que ir a hablar con AHS-7 y seremos compañeros en la Hubología! Ella: ¡Estoy tan excitada! Él: Conseguir nuevos reclutas me pone cachondo. Ella: Oh, cariño... Él: Oh, muñeca...}
-{188}{}{Creo que volveré más tarde.}
-{189}{}{Él: Qué pena. Ella: Ahora estás comprometida.}
+{181}{}{No. TomarÃ© mis propias decisiones. Hasta luego.}
+{182}{}{Ã‰l: Hemos hecho todo lo posible por ti. Ella: Buena suerte en tus viajes.}
+{183}{}{Â¡AdiÃ³s!}
+{184}{}{Ella: Â¿Dave? Â¿El chico de la computadora? Ã‰l: Â¡Ja ja! Â¡Menudo perdedor! Vikki es mÃ­a, toda mÃ­a: ni de coÃ±a Ã©l va a... perdona, estoy canalizando energÃ­a negativa. Debo haber ensuciado mis neurodinas. Ella: [susurrÃ¡ndote] Creo que Dave es mono, pero no puede pasar nada mientras Juan estÃ© cerca. Ã‰l: Menos mal. Neurodinas despejadas de nuevo.}
+{185}{}{En fin, tengo mÃ¡s preguntas.}
+{186}{}{Eso es todo. AdiÃ³s.}
+{187}{}{Ella: No ha sido tan malo, Â¿verdad? Ã‰l: Â¡Ahora sÃ³lo tienes que ir a hablar con AHS-7 y seremos compaÃ±eros en la HubologÃ­a! Ella: Â¡Estoy tan excitada! Ã‰l: Conseguir nuevos reclutas me pone cachondo. Ella: Oh, cariÃ±o... Ã‰l: Oh, muÃ±eca...}
+{188}{}{Creo que volverÃ© mÃ¡s tarde.}
+{189}{}{Ã‰l: QuÃ© pena. Ella: Ahora estÃ¡s comprometida.}
 {190}{}{-HECHO-}
-{191}{}{Él: Has tomado una decisión de las que cambian toda una vida. Ella: Y por desgracia, ha sido una equivocada. Ambos: ¡Guardias! ¡Guardias!}
-{192}{}{Maldición.}
-{193}{}{Él: Saludos, }
-{194}{}{Entonces, ¿qué voy a hacer ahora que soy una Hubologista?}
-{195}{}{¿Cómo puedo acostarme con vosotros?}
-{196}{}{Eso es todo lo que quería. Hasta luego!}
+{191}{}{Ã‰l: Has tomado una decisiÃ³n de las que cambian toda una vida. Ella: Y por desgracia, ha sido una equivocada. Ambos: Â¡Guardias! Â¡Guardias!}
+{192}{}{MaldiciÃ³n.}
+{193}{}{Ã‰l: Saludos, }
+{194}{}{Entonces, Â¿quÃ© voy a hacer ahora que soy una Hubologista?}
+{195}{}{Â¿CÃ³mo puedo acostarme con vosotros?}
+{196}{}{Eso es todo lo que querÃ­a. Hasta luego!}
 {197}{}{}
 {198}{}{}
-{199}{}{Él: Podrías hablar con Harry Cohete en la superficie. Tal vez necesite ayuda. Ella: O podrías hablar con AHS-7 o AHS-9. Normalmente tienen ideas. Él: O podrías contemplar la Pantalla Oradora. Ella: O podrías causar daño entre los enemigos de la Rueda.}
-{200}{}{Gracias. ¿Cómo puedo acostarme con vosotros?}
-{201}{}{Gracias. Eso es todo lo que quería saber.}
-{202}{}{Ella: Es triste, porque el Padre Estelar sabe que tienes mucho atractivo, pero probablemente no deberíamos. Él: ¡Pero ambos estamos halagados! Ella: Quizá en algún momento podamos ir todos a Nuevo Reno y hacer una película juntos.}
-{203}{}{Oh, está bien. ¿Qué más hay que hacer como Hubologista?}
-{204}{}{Oh, está bien. Hasta luego.}
-{205}{}{Ella: Mentir es malo para tus neurodinas. Él: Esto es cierto. Ella: Es por eso que tengo que ser honesta y decirte que no te encuentro ningún atractivo. Él: ¡Pero aún así te amo como compañera seguidora de Hub!}
-{206}{}{Que sí, gracias. ¿Qué más hay que hacer como Hubologista?}
+{199}{}{Ã‰l: PodrÃ­as hablar con Harry Cohete en la superficie. Tal vez necesite ayuda. Ella: O podrÃ­as hablar con AHS-7 o AHS-9. Normalmente tienen ideas. Ã‰l: O podrÃ­as contemplar la Pantalla Oradora. Ella: O podrÃ­as causar daÃ±o entre los enemigos de la Rueda.}
+{200}{}{Gracias. Â¿CÃ³mo puedo acostarme con vosotros?}
+{201}{}{Gracias. Eso es todo lo que querÃ­a saber.}
+{202}{}{Ella: Es triste, porque el Padre Estelar sabe que tienes mucho atractivo, pero probablemente no deberÃ­amos. Ã‰l: Â¡Pero ambos estamos halagados! Ella: QuizÃ¡ en algÃºn momento podamos ir todos a Nuevo Reno y hacer una pelÃ­cula juntos.}
+{203}{}{Oh, estÃ¡ bien. Â¿QuÃ© mÃ¡s hay que hacer como Hubologista?}
+{204}{}{Oh, estÃ¡ bien. Hasta luego.}
+{205}{}{Ella: Mentir es malo para tus neurodinas. Ã‰l: Esto es cierto. Ella: Es por eso que tengo que ser honesta y decirte que no te encuentro ningÃºn atractivo. Ã‰l: Â¡Pero aÃºn asÃ­ te amo como compaÃ±era seguidora de Hub!}
+{206}{}{Que sÃ­, gracias. Â¿QuÃ© mÃ¡s hay que hacer como Hubologista?}
 {207}{}{Lo que sea. [murmurando] Idiotas.}
-{208}{}{¡Saludos, nuevos reclutas!}
-{209}{}{¡Soy Vikki Goldman!}
-{210}{}{¡Y yo soy Juan Cruz!}
+{208}{}{Â¡Saludos, nuevos reclutas!}
+{209}{}{Â¡Soy Vikki Goldman!}
+{210}{}{Â¡Y yo soy Juan Cruz!}
 {211}{}{Somos famosos, como ya sabes.}
-{212}{}{Creemos que la Hubología es el camino a seguir.}
-{213}{}{SABEMOS Que la Hubología es el camino a seguir.}
-{214}{}{¡Puedo freír bichos con mi poder cerebral!}
-{215}{}{¡Me quedan bien los gorros de aluminio!}
-{216}{}{Quizá si trabajas duro para optimizarte, puedas asociarte con nosotros.}
-{217}{}{Sin ninguna duda que me gustaría.}
-{218}{}{Sí. Siempre estamos buscando amigos...}
-{219}{}{... siempre y cuando estén dispuestos a optimizarse.}
+{212}{}{Creemos que la HubologÃ­a es el camino a seguir.}
+{213}{}{SABEMOS Que la HubologÃ­a es el camino a seguir.}
+{214}{}{Â¡Puedo freÃ­r bichos con mi poder cerebral!}
+{215}{}{Â¡Me quedan bien los gorros de aluminio!}
+{216}{}{QuizÃ¡ si trabajas duro para optimizarte, puedas asociarte con nosotros.}
+{217}{}{Sin ninguna duda que me gustarÃ­a.}
+{218}{}{SÃ­. Siempre estamos buscando amigos...}
+{219}{}{... siempre y cuando estÃ©n dispuestos a optimizarse.}
 {220}{}{Y llegar a un alto rango, como el nuestro.}
 {221}{}{Somos AHS-5.}
-{222}{}{Algún día podrás ser un AHS-5.}
-{223}{}{Si donas montones de dinero, podrás ser un AHS-5 incluso más rápido.}
-{224}{}{Pero no creas que sólo te queremos por el dinero.}
+{222}{}{AlgÃºn dÃ­a podrÃ¡s ser un AHS-5.}
+{223}{}{Si donas montones de dinero, podrÃ¡s ser un AHS-5 incluso mÃ¡s rÃ¡pido.}
+{224}{}{Pero no creas que sÃ³lo te queremos por el dinero.}
 {225}{}{No, queremos AYUDARTE.}
-{226}{}{Y eso es de lo que se trata la Hubología.}
+{226}{}{Y eso es de lo que se trata la HubologÃ­a.}
 {227}{}{[aplauso]}
-{228}{}{. Espero que tu iluminación vaya bien. Ella: Tenemos... grandes... esperanzas contigo.}
-{229}{}{Lección 1: Aquí está la eternidad, la Gran Rueda. [señala algo] Y aquí es donde estamos. [señala algo] Ahora, todo lo que tenemos que hacer es caminar muy lejos y reunirnos con nuestros hermanos estelares allí.}
-{230}{}{Pues vamos a necesitar un montón de zapatos.}
-{231}{}{l: ¡Ahora sólo tienes que ir a hablar con AHS-7 u seremos compañeros en la Hubología! Ella: ¡Estoy tan excitada! Él: Conseguir nuevos reclutas me pone cachondo. Ella: Oh, cariño... Él: Oh, muñeca...}
+{228}{}{. Espero que tu iluminaciÃ³n vaya bien. Ella: Tenemos... grandes... esperanzas contigo.}
+{229}{}{LecciÃ³n 1: AquÃ­ estÃ¡ la eternidad, la Gran Rueda. [seÃ±ala algo] Y aquÃ­ es donde estamos. [seÃ±ala algo] Ahora, todo lo que tenemos que hacer es caminar muy lejos y reunirnos con nuestros hermanos estelares allÃ­.}
+{230}{}{Pues vamos a necesitar un montÃ³n de zapatos.}
+{231}{}{l: Â¡Ahora sÃ³lo tienes que ir a hablar con AHS-7 u seremos compaÃ±eros en la HubologÃ­a! Ella: Â¡Estoy tan excitada! Ã‰l: Conseguir nuevos reclutas me pone cachondo. Ella: Oh, cariÃ±o... Ã‰l: Oh, muÃ±eca...}

@@ -1,118 +1,118 @@
-{100}{}{Arrogáns Shi gengszter.}
-{101}{}{? Lo Pan, egy dölyfös, kíméletlen férfi.}
-{102}{}{Egy selyemruhába öltözött Shi gengszterhez van szerencséd. A keze alaposan fel van keményítve. Veszélyes és idegesít? embernek t?nik.}
+{100}{}{ArrogÃ¡ns Shi gengszter.}
+{101}{}{? Lo Pan, egy dÃ¶lyfÃ¶s, kÃ­mÃ©letlen fÃ©rfi.}
+{102}{}{Egy selyemruhÃ¡ba Ã¶ltÃ¶zÃ¶tt Shi gengszterhez van szerencsÃ©d. A keze alaposan fel van kemÃ©nyÃ­tve. VeszÃ©lyes Ã©s idegesÃ­t? embernek t?nik.}
 {103}{}{Mit akarsz?}
 {104}{}{Daggle aggle aggle!}
 {105}{}{Te ki?}
-{106}{}{Kivel verekedtél?}
+{106}{}{Kivel verekedtÃ©l?}
 {107}{}{Ki vagy te?}
-{108}{}{Szeretnék úgy verekedni, ahogy te. Taníts, kérlek!}
-{109}{}{Szeretnélek kihívni.}
-{110}{}{Felejtsük el!}
-{111}{}{T?nés innen, idióta! Nincs mit mondanom a számodra!}
+{108}{}{SzeretnÃ©k Ãºgy verekedni, ahogy te. TanÃ­ts, kÃ©rlek!}
+{109}{}{SzeretnÃ©lek kihÃ­vni.}
+{110}{}{FelejtsÃ¼k el!}
+{111}{}{T?nÃ©s innen, idiÃ³ta! Nincs mit mondanom a szÃ¡modra!}
 {112}{}{GRR!}
-{113}{}{Lo Pan vagyok. A Sárkányt leszámítva én vagyok a város legjobb harcosa. Egy nap persze meg fog halni. Ha ez megtörténik, elkezdem tanítani a stílusomat.}
-{114}{}{Taníts!}
-{115}{}{Köfönöm.}
-{116}{}{Tanulni akarsz? Megvan, ami kell hozzá? Na, lássuk csak...}
+{113}{}{Lo Pan vagyok. A SÃ¡rkÃ¡nyt leszÃ¡mÃ­tva Ã©n vagyok a vÃ¡ros legjobb harcosa. Egy nap persze meg fog halni. Ha ez megtÃ¶rtÃ©nik, elkezdem tanÃ­tani a stÃ­lusomat.}
+{114}{}{TanÃ­ts!}
+{115}{}{KÃ¶fÃ¶nÃ¶m.}
+{116}{}{Tanulni akarsz? Megvan, ami kell hozzÃ¡? Na, lÃ¡ssuk csak...}
 {117}{}{[DONE]}
-{118}{}{Miért is kéne téged tanítanom? Túlságosan öntörvény? embernek látszol. T?nj innen!}
+{118}{}{MiÃ©rt is kÃ©ne tÃ©ged tanÃ­tanom? TÃºlsÃ¡gosan Ã¶ntÃ¶rvÃ©ny? embernek lÃ¡tszol. T?nj innen!}
 {119}{}{Mi a... ?}
-{120}{}{Ó, te szerencsétlen... nem akarok beszélni veled. Eridj innen!}
+{120}{}{Ã“, te szerencsÃ©tlen... nem akarok beszÃ©lni veled. Eridj innen!}
 {121}{}{Duhhh...}
-{122}{}{A Sárkánnyal. Nyápic egy alak, aki a gyengeséget pártfogolja.}
-{123}{}{A nép olyan, mint egy birkanyáj. Légy a magad ura!}
+{122}{}{A SÃ¡rkÃ¡nnyal. NyÃ¡pic egy alak, aki a gyengesÃ©get pÃ¡rtfogolja.}
+{123}{}{A nÃ©p olyan, mint egy birkanyÃ¡j. LÃ©gy a magad ura!}
 {124}{}{Micsoda? Te gonosz ember vagy akkor?}
-{125}{}{Értem. Volna még néhány kérdésem.}
-{126}{}{Gonosz? Aligha. Csak ravasz. Ha problémád van azzal, ha ennyire aggaszt a nép sorsa, eridj, beszélj a Sárkánnyal! ? szereti a hozzád hasonló szenvelg? puhányokat.}
+{125}{}{Ã‰rtem. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{126}{}{Gonosz? Aligha. Csak ravasz. Ha problÃ©mÃ¡d van azzal, ha ennyire aggaszt a nÃ©p sorsa, eridj, beszÃ©lj a SÃ¡rkÃ¡nnyal! ? szereti a hozzÃ¡d hasonlÃ³ szenvelg? puhÃ¡nyokat.}
 {127}{}{[DONE]}
-{128}{}{Igen, azt kéne. S?t azt is teszem. Sajnos a Sárkány az utamban áll. Túlságosan kiegyenlítettek a harci képességeink. Szükségem van egy képzett emberre, aki segítene nekem.}
-{129}{}{Én jó leszek?}
-{130}{}{Értem. Nos, még kérdeznék, ha nem gond.}
-{131}{}{Értem. Hát akkor isten veled.}
-{132}{}{Akár... képes vagy puszta kézzel és lábbal verekedni, véd?felszerelések és fegyverek nélkül?}
-{133}{}{Képes, de miért is kéne ilyesmit tennem?}
-{134}{}{Elég méltányos. Hogy m?ködik a teszt?}
-{135}{}{Ó, hát ebben az esetben mennem kell.}
-{136}{}{Mivel a közemberek el fognak engem átkozni és sokkal nehezebb lesz ?ket betörni, amikor legy?ztem a Sárkányt.}
-{137}{}{Fogom. Kezdjük a tesztet!}
-{138}{}{Fogom. Hadd kérdezzek még valamit!}
-{139}{}{Hát persze. Viszlát!}
-{140}{}{Életre halálra akarsz harcolni, vagy csak leellen?rizni, melyikünk a jobb?}
-{141}{}{A végs?kig. Én képes vagyok legy?zni téged.}
-{142}{}{Csak teszteljük a képességeinket. Nem akarlak megölni.}
-{143}{}{Én sem. Felejtsd el!}
-{144}{}{Nagyszer?! Remélem, már megvan a sírhelyed. A Sárkány küldött téged?}
-{145}{}{Igen. A Shik nevében jöttem.}
-{146}{}{Nem. Azért csinálom, mert utálom a hozzád hasonló söpredéket.}
-{147}{}{Szívós vagy, mi? El?ször az embereimmel fogsz harcolni, aztán majd meglátjuk, érdemes vagy-e arra, hogy kiálljak veled.}
+{128}{}{Igen, azt kÃ©ne. S?t azt is teszem. Sajnos a SÃ¡rkÃ¡ny az utamban Ã¡ll. TÃºlsÃ¡gosan kiegyenlÃ­tettek a harci kÃ©pessÃ©geink. SzÃ¼ksÃ©gem van egy kÃ©pzett emberre, aki segÃ­tene nekem.}
+{129}{}{Ã‰n jÃ³ leszek?}
+{130}{}{Ã‰rtem. Nos, mÃ©g kÃ©rdeznÃ©k, ha nem gond.}
+{131}{}{Ã‰rtem. HÃ¡t akkor isten veled.}
+{132}{}{AkÃ¡r... kÃ©pes vagy puszta kÃ©zzel Ã©s lÃ¡bbal verekedni, vÃ©d?felszerelÃ©sek Ã©s fegyverek nÃ©lkÃ¼l?}
+{133}{}{KÃ©pes, de miÃ©rt is kÃ©ne ilyesmit tennem?}
+{134}{}{ElÃ©g mÃ©ltÃ¡nyos. Hogy m?kÃ¶dik a teszt?}
+{135}{}{Ã“, hÃ¡t ebben az esetben mennem kell.}
+{136}{}{Mivel a kÃ¶zemberek el fognak engem Ã¡tkozni Ã©s sokkal nehezebb lesz ?ket betÃ¶rni, amikor legy?ztem a SÃ¡rkÃ¡nyt.}
+{137}{}{Fogom. KezdjÃ¼k a tesztet!}
+{138}{}{Fogom. Hadd kÃ©rdezzek mÃ©g valamit!}
+{139}{}{HÃ¡t persze. ViszlÃ¡t!}
+{140}{}{Ã‰letre halÃ¡lra akarsz harcolni, vagy csak leellen?rizni, melyikÃ¼nk a jobb?}
+{141}{}{A vÃ©gs?kig. Ã‰n kÃ©pes vagyok legy?zni tÃ©ged.}
+{142}{}{Csak teszteljÃ¼k a kÃ©pessÃ©geinket. Nem akarlak megÃ¶lni.}
+{143}{}{Ã‰n sem. Felejtsd el!}
+{144}{}{Nagyszer?! RemÃ©lem, mÃ¡r megvan a sÃ­rhelyed. A SÃ¡rkÃ¡ny kÃ¼ldÃ¶tt tÃ©ged?}
+{145}{}{Igen. A Shik nevÃ©ben jÃ¶ttem.}
+{146}{}{Nem. AzÃ©rt csinÃ¡lom, mert utÃ¡lom a hozzÃ¡d hasonlÃ³ sÃ¶predÃ©ket.}
+{147}{}{SzÃ­vÃ³s vagy, mi? El?szÃ¶r az embereimmel fogsz harcolni, aztÃ¡n majd meglÃ¡tjuk, Ã©rdemes vagy-e arra, hogy kiÃ¡lljak veled.}
 {148}{}{[BEGIN]}
-{149}{}{Lo Pan vagyok. A Sárkány "esküdt" ellensége. Hogy miért kell neki esküdt ellenség, fogalmam sincs. Ugyanúgy harcolok, mint ?, de szerintem ? nem elég elszánt és hagy másokat is érvényesülni. Azért vagyunk ellenségek, mert ugyanazt a stílust ?zzük, és bármelyikünk is nyer, ? viszi tovább a hagyományt.}
-{150}{}{Elég jó vagyok a pusztakezes harcban. Akarsz egy próbát?}
-{151}{}{Ez érdekes. Bizonyára gyümölcsöz?. Hadd kérdezzek még valamit!}
-{152}{}{Kösz. Viszlát!}
-{153}{}{Lehet, hogy egy söpredék vagyok, de azt sosem fogják rámfogni, hogy nem állok ki a népemért. Miel?tt meghalnál, fájdalmat fogok okozni neked.}
+{149}{}{Lo Pan vagyok. A SÃ¡rkÃ¡ny "eskÃ¼dt" ellensÃ©ge. Hogy miÃ©rt kell neki eskÃ¼dt ellensÃ©g, fogalmam sincs. UgyanÃºgy harcolok, mint ?, de szerintem ? nem elÃ©g elszÃ¡nt Ã©s hagy mÃ¡sokat is Ã©rvÃ©nyesÃ¼lni. AzÃ©rt vagyunk ellensÃ©gek, mert ugyanazt a stÃ­lust ?zzÃ¼k, Ã©s bÃ¡rmelyikÃ¼nk is nyer, ? viszi tovÃ¡bb a hagyomÃ¡nyt.}
+{150}{}{ElÃ©g jÃ³ vagyok a pusztakezes harcban. Akarsz egy prÃ³bÃ¡t?}
+{151}{}{Ez Ã©rdekes. BizonyÃ¡ra gyÃ¼mÃ¶lcsÃ¶z?. Hadd kÃ©rdezzek mÃ©g valamit!}
+{152}{}{KÃ¶sz. ViszlÃ¡t!}
+{153}{}{Lehet, hogy egy sÃ¶predÃ©k vagyok, de azt sosem fogjÃ¡k rÃ¡mfogni, hogy nem Ã¡llok ki a nÃ©pemÃ©rt. Miel?tt meghalnÃ¡l, fÃ¡jdalmat fogok okozni neked.}
 {154}{}{[DONE]}
-{155}{}{Akkor viszont eszetlen bolond vagy, hogy mások ugráltatnak. Nevetni fogok, amikor meghalsz.}
+{155}{}{Akkor viszont eszetlen bolond vagy, hogy mÃ¡sok ugrÃ¡ltatnak. Nevetni fogok, amikor meghalsz.}
 {156}{}{[Attack now, with armor and weapons.]}
 {157}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
-{158}{}{Jó. Legalább a magad ura vagy. Elég szívósnak érzed magad, hogy véd?öltözék és fegyverek nélkül küzdj?}
+{158}{}{JÃ³. LegalÃ¡bb a magad ura vagy. ElÃ©g szÃ­vÃ³snak Ã©rzed magad, hogy vÃ©d?Ã¶ltÃ¶zÃ©k Ã©s fegyverek nÃ©lkÃ¼l kÃ¼zdj?}
 {159}{}{[Attack now, with armor and weapons.]}
 {160}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
-{161}{}{Beee, birka, beee! Menj vissza a palástba burkolt barátaidhoz! Nincs mit mondanom számodra.}
+{161}{}{Beee, birka, beee! Menj vissza a palÃ¡stba burkolt barÃ¡taidhoz! Nincs mit mondanom szÃ¡modra.}
 {162}{}{[DONE]}
-{163}{}{Nem mondtam volna, hogy a morális aggályaiddal a Sárkányt boldogítsd? ? majd fogja a kezed. Én nem. Most pedig távozz!}
+{163}{}{Nem mondtam volna, hogy a morÃ¡lis aggÃ¡lyaiddal a SÃ¡rkÃ¡nyt boldogÃ­tsd? ? majd fogja a kezed. Ã‰n nem. Most pedig tÃ¡vozz!}
 {164}{}{[DONE]}
 {165}{}{You are, I must admit, even a better fighter than I am. You wanna try for the Dragon?}
-{166}{}{De. Akár most azonnal.}
-{167}{}{Ez nem igazán az én harcom.}
-{168}{}{Dehogynem, viszont szeretnék még kérdezni ezt-azt.}
-{169}{}{Nem, nem így van. Viszont a Sárkány még mindig legy?z engem. Ha van benned gerinc, kiiktatod ?t. Mellesleg sosem gondoltam volna, hogy egy lao wai-t ekkora büszkeség feszítsen.}
-{170}{}{Jól van. Volna néhány kérdésem.}
-{171}{}{Igen, hát persze. Üdv!}
-{172}{}{Épp most jöttem vissza, megöltem egy lao wai-t, aki megpróbálta ellopni a titkainkat. A Sárkánnyal karöltve csináltuk és el kell ismernem, egész jól dolgoztunk együtt.}
-{173}{}{Nagyszer?! Kérdeznék.}
-{174}{}{Nagyszer?! Viszlát!}
-{175}{}{A Sárkány meghalt... Alig hiszem el. Mostantól legalább nem kell, hogy folyton a bosszantó hagyományok határozzák meg minden egyes lépésünket. Köszönet illet.}
-{176}{}{Nagyszer?! Kérdeznék.}
-{177}{}{Nagyszer?! Viszlát!}
+{166}{}{De. AkÃ¡r most azonnal.}
+{167}{}{Ez nem igazÃ¡n az Ã©n harcom.}
+{168}{}{Dehogynem, viszont szeretnÃ©k mÃ©g kÃ©rdezni ezt-azt.}
+{169}{}{Nem, nem Ã­gy van. Viszont a SÃ¡rkÃ¡ny mÃ©g mindig legy?z engem. Ha van benned gerinc, kiiktatod ?t. Mellesleg sosem gondoltam volna, hogy egy lao wai-t ekkora bÃ¼szkesÃ©g feszÃ­tsen.}
+{170}{}{JÃ³l van. Volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{171}{}{Igen, hÃ¡t persze. Ãœdv!}
+{172}{}{Ã‰pp most jÃ¶ttem vissza, megÃ¶ltem egy lao wai-t, aki megprÃ³bÃ¡lta ellopni a titkainkat. A SÃ¡rkÃ¡nnyal karÃ¶ltve csinÃ¡ltuk Ã©s el kell ismernem, egÃ©sz jÃ³l dolgoztunk egyÃ¼tt.}
+{173}{}{Nagyszer?! KÃ©rdeznÃ©k.}
+{174}{}{Nagyszer?! ViszlÃ¡t!}
+{175}{}{A SÃ¡rkÃ¡ny meghalt... Alig hiszem el. MostantÃ³l legalÃ¡bb nem kell, hogy folyton a bosszantÃ³ hagyomÃ¡nyok hatÃ¡rozzÃ¡k meg minden egyes lÃ©pÃ©sÃ¼nket. KÃ¶szÃ¶net illet.}
+{176}{}{Nagyszer?! KÃ©rdeznÃ©k.}
+{177}{}{Nagyszer?! ViszlÃ¡t!}
 {178}{}{Fine. I'll do it right now.}
 {200}{}{Lo Pan detects your advance and you slip by him.}
-{201}{}{Nézd, nem szeretem, ha valaki ellopja a dolgaimat. Menj máshova tolvajkodni! Távozz innen!}
-{202}{}{Azt mondtam, hogy távozz, nem azt, hogy halj meg! Anyám.}
-{203}{}{Nagyon úgy t?nik, hogy t?lem te már nem tudsz semmit tanulni.}
+{201}{}{NÃ©zd, nem szeretem, ha valaki ellopja a dolgaimat. Menj mÃ¡shova tolvajkodni! TÃ¡vozz innen!}
+{202}{}{Azt mondtam, hogy tÃ¡vozz, nem azt, hogy halj meg! AnyÃ¡m.}
+{203}{}{Nagyon Ãºgy t?nik, hogy t?lem te mÃ¡r nem tudsz semmit tanulni.}
 {204}{}{I am done training today. Return tomorrow.}
-{205}{}{Khung mester vagyok, az utolsó ellenfeled.}
-{206}{}{Imbot vagyok. Készülj!}
-{207}{}{Wejungh a nevem. Légy készen!}
-{208}{}{Loopal vagyok. Innen nem mész tovább!}
+{205}{}{Khung mester vagyok, az utolsÃ³ ellenfeled.}
+{206}{}{Imbot vagyok. KÃ©szÃ¼lj!}
+{207}{}{Wejungh a nevem. LÃ©gy kÃ©szen!}
+{208}{}{Loopal vagyok. Innen nem mÃ©sz tovÃ¡bb!}
 {209}{}{Smitty vagyok. Itt az id?, hogy elverjen valaki!}
-{210}{}{Krall mester vagyok. Most véged!}
+{210}{}{Krall mester vagyok. Most vÃ©ged!}
 {211}{}{HARC!}
-{212}{}{Többet kell edzened!}
-{213}{}{Készülj!}
-{214}{}{Igazi halálig tartó küzdelemben gy?zted le Lo Pant. Valami oknál fogva mintha fényesebben sütne ma a nap.}
-{215}{}{Már legy?zted az embereimet. Átmentél a teszten. Készen állsz, hogy megküzdj a Sárkánnyal.}
-{216}{}{Már éppen elég jó vagy. Menj, tanulj l?ni, vagy akármi...}
-{217}{}{Kezdjük! Jer utánam!}
-{218}{}{Mára elég volt a tréningb?l.}
-{219}{}{Jól tanultál.}
-{220}{}{Már legy?zted az embereimet. Senki nem akar kiállni veled.}
-{221}{}{Segítettél nekem, és még csak nem is tudtál róla. A Sárkány halálával többé nem kell követnem az idejétmúlt hagyományokat.}
-{222}{}{Örömömre szolgált. Üdv!}
-{223}{}{Nem tesz semmit. Viszlát!}
-{224}{}{Nem tesz semmit. Kérdezhetek valamit?}
-{225}{}{Üdv! Én kérdezhetni?}
-{226}{}{NYERTÉL!}
-{227}{}{VESZTETTÉL!}
-{228}{}{Következ? ellenfél!}
-{229}{}{Hé, nézzétek már, mit találtam!}
-{230}{}{El?ször is be kell bizonyítanod, hogy képes vagy megcsinálni. Ki kell állnod öt emberemmel, persze egyszerre csak egyikükkel. Ha mindegyiket legy?zöd, jöhet a végs? próbatétel.}
+{212}{}{TÃ¶bbet kell edzened!}
+{213}{}{KÃ©szÃ¼lj!}
+{214}{}{Igazi halÃ¡lig tartÃ³ kÃ¼zdelemben gy?zted le Lo Pant. Valami oknÃ¡l fogva mintha fÃ©nyesebben sÃ¼tne ma a nap.}
+{215}{}{MÃ¡r legy?zted az embereimet. ÃtmentÃ©l a teszten. KÃ©szen Ã¡llsz, hogy megkÃ¼zdj a SÃ¡rkÃ¡nnyal.}
+{216}{}{MÃ¡r Ã©ppen elÃ©g jÃ³ vagy. Menj, tanulj l?ni, vagy akÃ¡rmi...}
+{217}{}{KezdjÃ¼k! Jer utÃ¡nam!}
+{218}{}{MÃ¡ra elÃ©g volt a trÃ©ningb?l.}
+{219}{}{JÃ³l tanultÃ¡l.}
+{220}{}{MÃ¡r legy?zted az embereimet. Senki nem akar kiÃ¡llni veled.}
+{221}{}{SegÃ­tettÃ©l nekem, Ã©s mÃ©g csak nem is tudtÃ¡l rÃ³la. A SÃ¡rkÃ¡ny halÃ¡lÃ¡val tÃ¶bbÃ© nem kell kÃ¶vetnem az idejÃ©tmÃºlt hagyomÃ¡nyokat.}
+{222}{}{Ã–rÃ¶mÃ¶mre szolgÃ¡lt. Ãœdv!}
+{223}{}{Nem tesz semmit. ViszlÃ¡t!}
+{224}{}{Nem tesz semmit. KÃ©rdezhetek valamit?}
+{225}{}{Ãœdv! Ã‰n kÃ©rdezhetni?}
+{226}{}{NYERTÃ‰L!}
+{227}{}{VESZTETTÃ‰L!}
+{228}{}{KÃ¶vetkez? ellenfÃ©l!}
+{229}{}{HÃ©, nÃ©zzÃ©tek mÃ¡r, mit talÃ¡ltam!}
+{230}{}{El?szÃ¶r is be kell bizonyÃ­tanod, hogy kÃ©pes vagy megcsinÃ¡lni. Ki kell Ã¡llnod Ã¶t emberemmel, persze egyszerre csak egyikÃ¼kkel. Ha mindegyiket legy?zÃ¶d, jÃ¶het a vÃ©gs? prÃ³batÃ©tel.}
 {231}{}{Az meg mi?}
-{232}{}{T?l nagy gondnak hangzik. Kés?bb találkozunk!}
+{232}{}{T?l nagy gondnak hangzik. KÃ©s?bb talÃ¡lkozunk!}
 {233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
 {234}{}{Fogjunk bele!}
-{235}{}{A Sárkánnyal magadnak kell elbánni!}
-{236}{}{[Lo Pan végigmér, majd egy gyors ütéssel úgy orrba vág, hogy még reagálni sem tudsz.] Nem vagy elég jó.}
-{237}{}{Oké, de kérdezhetek valami mást?}
-{238}{}{Remek. Üdv!}
+{235}{}{A SÃ¡rkÃ¡nnyal magadnak kell elbÃ¡nni!}
+{236}{}{[Lo Pan vÃ©gigmÃ©r, majd egy gyors Ã¼tÃ©ssel Ãºgy orrba vÃ¡g, hogy mÃ©g reagÃ¡lni sem tudsz.] Nem vagy elÃ©g jÃ³.}
+{237}{}{OkÃ©, de kÃ©rdezhetek valami mÃ¡st?}
+{238}{}{Remek. Ãœdv!}

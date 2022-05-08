@@ -4,7 +4,7 @@
 {110}{}{Vedi un Luminoso con un qualche tipo di medaglione intorno al collo.}
 {111}{}{Vedi un membro del Culto del Rinnovamento.}
 {112}{}{Vedi un Luminoso dall'aspetto soddisfatto.}
-{120}{}{Uno di noi, uno di noi…}
+{120}{}{Uno di noi, uno di noiâ€¦}
 {121}{}{Rinnova, compagno! Rinnova!}
 {122}{}{Il tempo dell'ultimo giorno e' vicino.}
 {123}{}{Presto saremo tutti pelle-liscia come te, compagno.}
@@ -15,7 +15,7 @@
 {128}{}{Abbasso il radicalismo libero, compagno.}
 {129}{}{Tutti insieme noi Rinnoveremo.}
 {130}{}{Salve, amico. Il Prof sa tutto.}
-{131}{}{Sei stato scelto dal Prof -— presto sarai uno di noi.}
+{131}{}{Sei stato scelto dal Prof -â€” presto sarai uno di noi.}
 {132}{}{Cerchi il verbo del Rinnovamento, amico?}
 {133}{}{Siediti ai suoi piedi rosa e ascolta il verbo del Rinnovamento.}
 {134}{}{Il saggio ricerca la sua saggezza.}

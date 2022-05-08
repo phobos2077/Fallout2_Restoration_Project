@@ -1,13 +1,13 @@
-{100}{}{Kicsiny, takaros termel? közösség. A környék telis-tele van pusztuló vagy már elhalt gabonamez?kkel.}
+{100}{}{Kicsiny, takaros termel? kÃ¶zÃ¶ssÃ©g. A kÃ¶rnyÃ©k telis-tele van pusztulÃ³ vagy mÃ¡r elhalt gabonamez?kkel.}
 {500}{}{Asszem, mind kinyiffant.}
 {501}{}{All meanie biters dead.}
 {502}{}{You cleared out Farrel's garden.}
-{600}{}{Pénzeszacskó.}
-{601}{}{Ez itt egy pénzeszacskó. Valaki kívánni akart valamit, és behajította a kútba.}
-{610}{}{Ez az ÁLMOM, a MINDENEM, és most visszaveszem. Mindet visszaveszem.}
-{1000}{}{Megölni mindet!}
-{1001}{}{Halál az Aljanépre!}
-{1002}{}{Azt akarom, hogy visítsanak, mint a disznó!}
-{1003}{}{Gyerünk, kapjuk el ?ket!}
-{1100}{}{Nagyjából 3 métert zuhansz egy félhomályos barlangba. A szemközti falnál mez?gazdasági eszközök sorakoznak.}
-{1200}{}{Épp sikerült kijutni a napvilágra, amikor a robbanás a leveg?be repített...}
+{600}{}{PÃ©nzeszacskÃ³.}
+{601}{}{Ez itt egy pÃ©nzeszacskÃ³. Valaki kÃ­vÃ¡nni akart valamit, Ã©s behajÃ­totta a kÃºtba.}
+{610}{}{Ez az ÃLMOM, a MINDENEM, Ã©s most visszaveszem. Mindet visszaveszem.}
+{1000}{}{MegÃ¶lni mindet!}
+{1001}{}{HalÃ¡l az AljanÃ©pre!}
+{1002}{}{Azt akarom, hogy visÃ­tsanak, mint a disznÃ³!}
+{1003}{}{GyerÃ¼nk, kapjuk el ?ket!}
+{1100}{}{NagyjÃ¡bÃ³l 3 mÃ©tert zuhansz egy fÃ©lhomÃ¡lyos barlangba. A szemkÃ¶zti falnÃ¡l mez?gazdasÃ¡gi eszkÃ¶zÃ¶k sorakoznak.}
+{1200}{}{Ã‰pp sikerÃ¼lt kijutni a napvilÃ¡gra, amikor a robbanÃ¡s a leveg?be repÃ­tett...}

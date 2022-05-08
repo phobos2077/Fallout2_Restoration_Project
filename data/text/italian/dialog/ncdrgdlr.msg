@@ -24,7 +24,7 @@
 {220}{}{-Allontanati-}
 {221}{}{Che cos'hai?}
 {222}{}{Non voglio niente, grazie.}
-{230}{}{Ehi, ehi… Sono in presenza di un grande personaggio. Per TE, amico, c'e' lo sconto su tutta la mia merce. Parla di me con i tuoi amici, okay?}
+{230}{}{Ehi, ehiâ€¦ Sono in presenza di un grande personaggio. Per TE, amico, c'e' lo sconto su tutta la mia merce. Parla di me con i tuoi amici, okay?}
 {231}{}{E cosi' ti vuoi divertire con un po' di Jet, amico? Sei venuto nel posto giusto. Per te, OGNI COSA e' ad un prezzo speciale.}
 {232}{}{Ho abbastanza Jet da mandarti in orbita, caro amico mio. E solo per te: uno sconto. Che ne dici di discutere del prezzo?}
 {233}{}{I got shit that'll help you kiss the sky, friend. And for you: a discount. That sound all right?}
@@ -32,7 +32,7 @@
 {235}{}{Tu hai classe, lo sai? Classe. E quando qualcuno della tua classe fa affari con me, io gli faccio sempre un bello sconto, lo sapevi?}
 {236}{}{Fammi sapere come posso aiutarti, amico. Dimmi cosa ti serve e io ti faro' i migliori prezzi della citta'.}
 {237}{}{Non c'e' niente di meglio che una bella dose di Jet dopo aver corso per tutto il giorno, eh? Ho ragione? Per TE, la mia merce ha un prezzo speciale.}
-{238}{}{Ehi, ehi… sono al cospetto di una vera meraviglia. Per TE, miss, la mia marce ha un prezzo speciale. Parla di me con tutte le tue amiche, okay?}
+{238}{}{Ehi, ehiâ€¦ sono al cospetto di una vera meraviglia. Per TE, miss, la mia marce ha un prezzo speciale. Parla di me con tutte le tue amiche, okay?}
 {239}{}{Vuoi festeggiare con un po' di Jet, miss? Sei venuta nel posto giusto. Per te, TUTTO ha un prezzo speciale.}
 {240}{}{Ho abbastanza Jet da mandarti in orbita, mia cara signora. E per te: uno sconto. Possiamo discutere il prezzo?}
 {241}{}{Ho della roba che ti aiutera' a baciare il cielo, signorina. E per te: un bello sconto. Che te ne pare?}

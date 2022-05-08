@@ -55,7 +55,7 @@
 {154}{}{Il Presidente degli Stati Uniti?}
 {155}{}{Non ho votato per lui. Pensavo fosse troppo interessato al sesso. Preferisco un candidato che e' troppo vecchio per rizzarlo... riesce a concentrarsi di piu' sul lavoro.}
 {156}{}{Forse e' cosi. Senti, sara' meglio che io torni al lavoro. Chiudo.}
-{157}{powr11}{Oh, molto divertente. Ma almeno ti ritroversti in un ottimo posto dove poterti riposare — cosi' mi hanno detto.}
+{157}{powr11}{Oh, molto divertente. Ma almeno ti ritroversti in un ottimo posto dove poterti riposare â€” cosi' mi hanno detto.}
 {158}{}{Quindi non ti trovi a New Reno?}
 {159}{}{Beh, sara' meglio che torni al lavoro. Devo riparare questo comunicatore. Chiudo.}
 {160}{powr12}{Il Presidente dei Fottuti Stati Uniti d'America. Di chi credi che stessi parlando? Chi caz... Chi... Cosa... dovrei spaccarti il tuo fottuto muso. Chi sei?}

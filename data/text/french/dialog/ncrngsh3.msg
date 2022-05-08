@@ -1,1 +1,1 @@
-{100}{}{Tu entres dans une région montagneuse. Un avant-poste des Rangers s'étend à proximité.}
+{100}{}{Tu entres dans une rÃ©gion montagneuse. Un avant-poste des Rangers s'Ã©tend Ã  proximitÃ©.}

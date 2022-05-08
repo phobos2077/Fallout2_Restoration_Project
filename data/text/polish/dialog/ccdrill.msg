@@ -1,73 +1,73 @@
-{100}{}{Widzisz Sier¿anta. }
-{101}{}{Widzisz Sier¿anta Dornana.}
-{102}{}{Widzisz ¿o³nierza w pancerzu wspomaganym o niezwyk³ym wygl¹dzie. Na jego napierœniku widniej¹ oznaczenia, które nic ci nie mówi¹.}
-{103}{sgnt1a}{Witamy w Obozie Navarro... cywil! Jak do diab³a cywil dosta³ siê do tej bazy! Widzê, ¿e bêdê mia³ dziœ na obiad czyj¹œ dupê! Zabierzcie tego cywila z rz¹dowej w³asnoœci.}
-{104}{sgnt1b}{Witamy w Obozie Navarro... cywile! Jak to siê do diab³a sta³o, ¿e siê cywile dostali do tej bazy! Widzê, ¿e bêde mia³ dziœ na obiad czyjœ ty³ek! Zabierzcie tych cywili z rz¹dowej w³asnoœci.}
+{100}{}{Widzisz SierÅ¼anta. }
+{101}{}{Widzisz SierÅ¼anta Dornana.}
+{102}{}{Widzisz Å¼oÅ‚nierza w pancerzu wspomaganym o niezwykÅ‚ym wyglÄ…dzie. Na jego napierÅ›niku widniejÄ… oznaczenia, ktÃ³re nic ci nie mÃ³wiÄ….}
+{103}{sgnt1a}{Witamy w Obozie Navarro... cywil! Jak do diabÅ‚a cywil dostaÅ‚ siÄ™ do tej bazy! WidzÄ™, Å¼e bÄ™dÄ™ miaÅ‚ dziÅ› na obiad czyjÄ…Å› dupÄ™! Zabierzcie tego cywila z rzÄ…dowej wÅ‚asnoÅ›ci.}
+{104}{sgnt1b}{Witamy w Obozie Navarro... cywile! Jak to siÄ™ do diabÅ‚a staÅ‚o, Å¼e siÄ™ cywile dostali do tej bazy! WidzÄ™, Å¼e bÄ™de miaÅ‚ dziÅ› na obiad czyjÅ› tyÅ‚ek! Zabierzcie tych cywili z rzÄ…dowej wÅ‚asnoÅ›ci.}
 {105}{}{Zaczekaj. Ja...}
-{106}{sgnt2a}{Niech mnie kule bij¹. Kaza³em ciê odeskortowaæ, a ty znowu tu jesteœ. Ty chyba nie jesteœ wcale cywilem, ale raczej szpiegiem! Og³osiæ alarm i wykonaæ egzekucjê!}
-{107}{sgnt2b}{Niech mnie kule bij¹. Kaza³em was odeskortowaæ, a wy znowu tu jesteœcie. Wy chyba nie jesteœcie wcale cywilami, ale raczej szpiegami! Og³osiæ alarm i wykonaæ egzekucjê!}
-{108}{sgnt3}{Witamy w Obozie Navarro. A wiêc jesteœcie uzupe³nieniem. Jak macie na imiê, ¿o³nierzu?}
+{106}{sgnt2a}{Niech mnie kule bijÄ…. KazaÅ‚em ciÄ™ odeskortowaÄ‡, a ty znowu tu jesteÅ›. Ty chyba nie jesteÅ› wcale cywilem, ale raczej szpiegiem! OgÅ‚osiÄ‡ alarm i wykonaÄ‡ egzekucjÄ™!}
+{107}{sgnt2b}{Niech mnie kule bijÄ…. KazaÅ‚em was odeskortowaÄ‡, a wy znowu tu jesteÅ›cie. Wy chyba nie jesteÅ›cie wcale cywilami, ale raczej szpiegami! OgÅ‚osiÄ‡ alarm i wykonaÄ‡ egzekucjÄ™!}
+{108}{sgnt3}{Witamy w Obozie Navarro. A wiÄ™c jesteÅ›cie uzupeÅ‚nieniem. Jak macie na imiÄ™, Å¼oÅ‚nierzu?}
 {109}{}{Uch... ja }
 {110}{}{Jestem }
-{111}{sgnt4}{Och, jak mi³o. Przys³ali mi dur-nia. S³uchajcie uwa¿nie. Bêdziecie staæ na stra¿y przy hangarze. To wasz posterunek. Pójdziecie tam i bêdziecie pe³niæ stra¿, a¿ dostaniecie inny rozkaz. Ruszaæ siê, ¿o³nierzu!}
-{112}{}{Ja iœæ.}
-{113}{sgnt5}{Co takiego? Czy¿byœmy o czymœ zapomnieli, pacanie?}
-{114}{}{Nazywam siê }
-{115}{sgnt6}{Nie jestem sir. Pracujê na ¿ycie, durniu. Bêdziecie nazywaæ mnie sier¿antem, albo sier¿antem Dornanem. Czy to jasne?!}
-{116}{}{Tak, sier¿ancie!}
+{111}{sgnt4}{Och, jak miÅ‚o. PrzysÅ‚ali mi dur-nia. SÅ‚uchajcie uwaÅ¼nie. BÄ™dziecie staÄ‡ na straÅ¼y przy hangarze. To wasz posterunek. PÃ³jdziecie tam i bÄ™dziecie peÅ‚niÄ‡ straÅ¼, aÅ¼ dostaniecie inny rozkaz. RuszaÄ‡ siÄ™, Å¼oÅ‚nierzu!}
+{112}{}{Ja iÅ›Ä‡.}
+{113}{sgnt5}{Co takiego? CzyÅ¼byÅ›my o czymÅ› zapomnieli, pacanie?}
+{114}{}{Nazywam siÄ™ }
+{115}{sgnt6}{Nie jestem sir. PracujÄ™ na Å¼ycie, durniu. BÄ™dziecie nazywaÄ‡ mnie sierÅ¼antem, albo sierÅ¼antem Dornanem. Czy to jasne?!}
+{116}{}{Tak, sierÅ¼ancie!}
 {117}{}{Pewnie, szefie. Jak chcesz.}
-{118}{sgnt7}{Doskonale. Ruszycie teraz biegiem do hangaru, gdzie bêdziecie staæ na stra¿y. Bêdziecie wykonywaæ dobr¹ robotê. Zrozumiano?}
-{119}{}{Sier¿ancie, czego tam bêdê pilnowaæ?}
-{120}{}{Tak, sier¿ancie!}
-{121}{sgnt8}{Ty pó³g³ówku, nie bêdziecie mi tu kwestionowaæ rozkazów! Kiedy ka¿ê wam skakaæ, bêdziecie skakaæ! Kiedy ka¿ê wam walczyæ, bêdziecie walczyæ! Kiedy ka¿ê wam umrzeæ za ojczyznê, to z pewnoœci¹ umrzecie! Czy wyra¿am siê jasno?}
-{122}{}{Tak, sier¿ancie!}
-{123}{sgnt9}{Witamy w Obozie Navarro. A wiêc jesteœcie posi³kami... ¿o³nierzu, jesteœcie bez munduru! Gdzie jest wasz pancerz wspomagany?}
-{124}{}{Uch... ja nie mieæ.}
-{125}{}{Nie przydzielono mi ¿adnej w bazie. Powiedziano mi, ¿e dostanê j¹ tutaj.}
-{126}{}{Uch... nie przydzielono mi ¿adnej zbroi.}
-{127}{}{Tak siê sk³ada, ¿e masz j¹ na sobie... zabiorê j¹ sobie z twojego trupa!}
-{128}{sgnt10}{Nie macie pancerza? I myœlicie, ¿e w to uwierzê, durniu? Prawda jest taka, ¿e zgubiliœcie kosztown¹ czêœæ swojego wyposa¿enia. Koszt pancerza zostanie potr¹cony z waszego ¿o³du i zostaniecie w tej armii, a¿ bêdziecie mieæ sto i piêc lat, co stanowi liczbê lat, jak¹ zabierze wam sp³acenie Wspomaganego Pancerza Bojowego Typ II, który zgubiliœcie! ¯o³nierzu, zg³osicie siê teraz do zbrojowni, gdzie dostaniecie nowy pancerz, a potem zg³osicie siê z powrotem u mnie! Odejœæ!}
-{129}{}{Dobra. Ja iœæ po pancerz.}
-{130}{}{Tak, sier¿ancie!}
-{131}{sgnt11}{Banda pogr¹¿onych w papierach dupków! Jak do diab³a im siê wydaje, ¿e mam prowadziæ ten oddzia³, jeœli dalej nie bêd¹ mi dostarczaæ wyposa¿enia! Pobiegniecie teraz do zbrojowni, gdzie dostaniecie swój pancerz, a potem zg³osicie siê do mnie. Odejœæ!}
-{132}{}{W porz¹dku.}
-{133}{}{Tak, sier¿ancie!}
-{134}{sgnt12}{Gdybym was lubi³, to pozwoli³bym wam nazywaæ mnie szefem. Ale wiecie co? Nie lubiê was! Czy rozumiecie co do was mówiê?}
-{135}{}{Tak, sier¿ancie!}
-{136}{sgnt13}{Wspaniale! Teraz jesteœcie w mundurze, wiêc dam wam rzadk¹ okazjê. Zaczniemy wszystko od nowa tak, jakbym nigdy wczeœniej nie widzia³ waszego zawszonego ty³ka. Co wy na to, ¿o³nierzu?}
-{137}{}{Tak jest, uch... sier¿ancie!}
-{138}{}{Nie! Ja mieæ to gdzieœ. Ja skopie ty dupa.}
-{139}{}{Tak, sier¿ancie!}
-{140}{}{Teraz, kiedy mam ju¿ na sobie tê œliczn¹ zbrojê, niezbyt mnie to obchodzi. Zaraz skopiê ci ty³ek.}
-{141}{sgnt14a}{¯o³nierzu, wci¹¿ jesteœcie bez munduru. Wyda³em wam bezpoœredni rozkaz, abyœcie zg³osili siê do zaopatrzenia po swój przydzia³. A teraz zje¿d¿ajcie mi z oczu i nie pokazujcie siê, a¿ bêdziecie wygl¹daæ jak prawdziwy ¿o³nierz!}
-{142}{sgnt14b}{¯o³nierzu, ju¿ drugi raz przychodzicie do mnie bez munduru. Trzeciego razu nie bêdzie!}
+{118}{sgnt7}{Doskonale. Ruszycie teraz biegiem do hangaru, gdzie bÄ™dziecie staÄ‡ na straÅ¼y. BÄ™dziecie wykonywaÄ‡ dobrÄ… robotÄ™. Zrozumiano?}
+{119}{}{SierÅ¼ancie, czego tam bÄ™dÄ™ pilnowaÄ‡?}
+{120}{}{Tak, sierÅ¼ancie!}
+{121}{sgnt8}{Ty pÃ³Å‚gÅ‚Ã³wku, nie bÄ™dziecie mi tu kwestionowaÄ‡ rozkazÃ³w! Kiedy kaÅ¼Ä™ wam skakaÄ‡, bÄ™dziecie skakaÄ‡! Kiedy kaÅ¼Ä™ wam walczyÄ‡, bÄ™dziecie walczyÄ‡! Kiedy kaÅ¼Ä™ wam umrzeÄ‡ za ojczyznÄ™, to z pewnoÅ›ciÄ… umrzecie! Czy wyraÅ¼am siÄ™ jasno?}
+{122}{}{Tak, sierÅ¼ancie!}
+{123}{sgnt9}{Witamy w Obozie Navarro. A wiÄ™c jesteÅ›cie posiÅ‚kami... Å¼oÅ‚nierzu, jesteÅ›cie bez munduru! Gdzie jest wasz pancerz wspomagany?}
+{124}{}{Uch... ja nie mieÄ‡.}
+{125}{}{Nie przydzielono mi Å¼adnej w bazie. Powiedziano mi, Å¼e dostanÄ™ jÄ… tutaj.}
+{126}{}{Uch... nie przydzielono mi Å¼adnej zbroi.}
+{127}{}{Tak siÄ™ skÅ‚ada, Å¼e masz jÄ… na sobie... zabiorÄ™ jÄ… sobie z twojego trupa!}
+{128}{sgnt10}{Nie macie pancerza? I myÅ›licie, Å¼e w to uwierzÄ™, durniu? Prawda jest taka, Å¼e zgubiliÅ›cie kosztownÄ… czÄ™Å›Ä‡ swojego wyposaÅ¼enia. Koszt pancerza zostanie potrÄ…cony z waszego Å¼oÅ‚du i zostaniecie w tej armii, aÅ¼ bÄ™dziecie mieÄ‡ sto i piÄ™c lat, co stanowi liczbÄ™ lat, jakÄ… zabierze wam spÅ‚acenie Wspomaganego Pancerza Bojowego Typ II, ktÃ³ry zgubiliÅ›cie! Å»oÅ‚nierzu, zgÅ‚osicie siÄ™ teraz do zbrojowni, gdzie dostaniecie nowy pancerz, a potem zgÅ‚osicie siÄ™ z powrotem u mnie! OdejÅ›Ä‡!}
+{129}{}{Dobra. Ja iÅ›Ä‡ po pancerz.}
+{130}{}{Tak, sierÅ¼ancie!}
+{131}{sgnt11}{Banda pogrÄ…Å¼onych w papierach dupkÃ³w! Jak do diabÅ‚a im siÄ™ wydaje, Å¼e mam prowadziÄ‡ ten oddziaÅ‚, jeÅ›li dalej nie bÄ™dÄ… mi dostarczaÄ‡ wyposaÅ¼enia! Pobiegniecie teraz do zbrojowni, gdzie dostaniecie swÃ³j pancerz, a potem zgÅ‚osicie siÄ™ do mnie. OdejÅ›Ä‡!}
+{132}{}{W porzÄ…dku.}
+{133}{}{Tak, sierÅ¼ancie!}
+{134}{sgnt12}{Gdybym was lubiÅ‚, to pozwoliÅ‚bym wam nazywaÄ‡ mnie szefem. Ale wiecie co? Nie lubiÄ™ was! Czy rozumiecie co do was mÃ³wiÄ™?}
+{135}{}{Tak, sierÅ¼ancie!}
+{136}{sgnt13}{Wspaniale! Teraz jesteÅ›cie w mundurze, wiÄ™c dam wam rzadkÄ… okazjÄ™. Zaczniemy wszystko od nowa tak, jakbym nigdy wczeÅ›niej nie widziaÅ‚ waszego zawszonego tyÅ‚ka. Co wy na to, Å¼oÅ‚nierzu?}
+{137}{}{Tak jest, uch... sierÅ¼ancie!}
+{138}{}{Nie! Ja mieÄ‡ to gdzieÅ›. Ja skopie ty dupa.}
+{139}{}{Tak, sierÅ¼ancie!}
+{140}{}{Teraz, kiedy mam juÅ¼ na sobie tÄ™ Å›licznÄ… zbrojÄ™, niezbyt mnie to obchodzi. Zaraz skopiÄ™ ci tyÅ‚ek.}
+{141}{sgnt14a}{Å»oÅ‚nierzu, wciÄ…Å¼ jesteÅ›cie bez munduru. WydaÅ‚em wam bezpoÅ›redni rozkaz, abyÅ›cie zgÅ‚osili siÄ™ do zaopatrzenia po swÃ³j przydziaÅ‚. A teraz zjeÅ¼dÅ¼ajcie mi z oczu i nie pokazujcie siÄ™, aÅ¼ bÄ™dziecie wyglÄ…daÄ‡ jak prawdziwy Å¼oÅ‚nierz!}
+{142}{sgnt14b}{Å»oÅ‚nierzu, juÅ¼ drugi raz przychodzicie do mnie bez munduru. Trzeciego razu nie bÄ™dzie!}
 {143}{}{Dobra! Dobra! Ja idzie.}
-{144}{}{Kit to. Ja zmêczyæ siê to.}
-{145}{}{Tak jest, sier¿ancie! Wyruszam natychmiast.}
-{146}{}{Pierdol siê. Nie bêdê sobie tym zawracaæ g³owy.}
-{147}{sgnt15a}{¯o³nierzu, co tutaj robicie? Wracajcie na swój posterunek!}
-{148}{sgnt15b}{Du-reñ. Jeœli jeszcze raz zobaczê was nie na swoim posterunku, bêdzie to najgorszy dzieñ w waszym krótkim ¿yciu!}
-{149}{sgnt15c}{Jesteœcie zagro¿eniem dla nas wszystkich. Teraz to siê skoñczy.}
-{150}{sgnt16}{W tej bazie og³oszono alarm, a ja was nie poznajê. ¯o³nierzu, poka¿cie mi swoje dokumenty.}
+{144}{}{Kit to. Ja zmÄ™czyÄ‡ siÄ™ to.}
+{145}{}{Tak jest, sierÅ¼ancie! Wyruszam natychmiast.}
+{146}{}{Pierdol siÄ™. Nie bÄ™dÄ™ sobie tym zawracaÄ‡ gÅ‚owy.}
+{147}{sgnt15a}{Å»oÅ‚nierzu, co tutaj robicie? Wracajcie na swÃ³j posterunek!}
+{148}{sgnt15b}{Du-reÅ„. JeÅ›li jeszcze raz zobaczÄ™ was nie na swoim posterunku, bÄ™dzie to najgorszy dzieÅ„ w waszym krÃ³tkim Å¼yciu!}
+{149}{sgnt15c}{JesteÅ›cie zagroÅ¼eniem dla nas wszystkich. Teraz to siÄ™ skoÅ„czy.}
+{150}{sgnt16}{W tej bazie ogÅ‚oszono alarm, a ja was nie poznajÄ™. Å»oÅ‚nierzu, pokaÅ¼cie mi swoje dokumenty.}
 {151}{}{Ja nie ma dokumenty u ja.}
 {152}{}{Ja nie musi dokumenty!}
-{153}{}{Nie mam przy sobie swoich dokumentów. Zosta³y w mojej szafce.}
-{154}{}{Papiery? Zaraz ci poka¿e papiery!}
-{155}{sgnt17}{Z³a odpowiedŸ pacanie. Macie nosiæ ze sob¹ swoje dokumenty przez ca³y czas i powinniœcie to wiedzieæ!}
+{153}{}{Nie mam przy sobie swoich dokumentÃ³w. ZostaÅ‚y w mojej szafce.}
+{154}{}{Papiery? Zaraz ci pokaÅ¼e papiery!}
+{155}{sgnt17}{ZÅ‚a odpowiedÅº pacanie. Macie nosiÄ‡ ze sobÄ… swoje dokumenty przez caÅ‚y czas i powinniÅ›cie to wiedzieÄ‡!}
 {156}{}{Ups.}
-{157}{}{B¹dŸcie czujni, ¿o³nierzu!}
-{158}{}{Dobrze. Stoicie na stra¿y. Kontynuowaæ!}
-{159}{}{Widzê, ¿e nie macie nic do zg³oszenia. Zostañcie na posterunku.}
-{160}{}{Jeœli przy³apiê któr¹œ z was na spaniu, to uœpiê was na zawsze!}
-{161}{}{Dobrze! Widzê, ¿e znaleŸliœcie swój posterunek!}
-{162}{}{¯o³nierzu, pozostaniecie na swoim posterunku, a¿ przyjdzie ktoœ i was zwolni!}
+{157}{}{BÄ…dÅºcie czujni, Å¼oÅ‚nierzu!}
+{158}{}{Dobrze. Stoicie na straÅ¼y. KontynuowaÄ‡!}
+{159}{}{WidzÄ™, Å¼e nie macie nic do zgÅ‚oszenia. ZostaÅ„cie na posterunku.}
+{160}{}{JeÅ›li przyÅ‚apiÄ™ ktÃ³rÄ…Å› z was na spaniu, to uÅ›piÄ™ was na zawsze!}
+{161}{}{Dobrze! WidzÄ™, Å¼e znaleÅºliÅ›cie swÃ³j posterunek!}
+{162}{}{Å»oÅ‚nierzu, pozostaniecie na swoim posterunku, aÅ¼ przyjdzie ktoÅ› i was zwolni!}
 {163}{}{Na posterunku i na nogach. Doskonale!}
-{164}{}{B¹dŸcie trzeŸwi, b¹dŸcie czujni, b¹dŸcie ¿ywi!}
+{164}{}{BÄ…dÅºcie trzeÅºwi, bÄ…dÅºcie czujni, bÄ…dÅºcie Å¼ywi!}
 {165}{}{Alarm! Intruzi w bazie!}
-{166}{}{Stra¿! Intruzi!}
-{167}{}{Kto u diab³a wpuœci³ tu tych skurwieli? Stra¿!}
+{166}{}{StraÅ¼! Intruzi!}
+{167}{}{Kto u diabÅ‚a wpuÅ›ciÅ‚ tu tych skurwieli? StraÅ¼!}
 {168}{}{Alarm! Szpiedzy w zabudowaniach!}
-{169}{}{Gdzie u diab³a jest ten pierdolony szeregowiec?!}
+{169}{}{Gdzie u diabÅ‚a jest ten pierdolony szeregowiec?!}
 {200}{}{.}
 {201}{}{, Sir!}
-{300}{}{Mówi³em, ¿e macie nie przychodziæ tu bez munduru!}
+{300}{}{MÃ³wiÅ‚em, Å¼e macie nie przychodziÄ‡ tu bez munduru!}

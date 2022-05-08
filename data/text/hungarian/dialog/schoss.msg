@@ -1,16 +1,16 @@
-{100}{}{Egy termetes, ostoba kinézet?, izomagyú pancser.}
+{100}{}{Egy termetes, ostoba kinÃ©zet?, izomagyÃº pancser.}
 {101}{}{It's Hoss.}
-{102}{}{Nem úgy t?nik, mint aki fel van fegyverezve... sem fegyverrel, sem ésszel.}
-{103}{}{Hé, te szarházi! Nem tetszel nekem! Azt hiszem, meg kellene hívnod egy italra!}
-{104}{}{Hé, bébi, gyere ide, kapsz t?lem egy jó nagy nedveset!}
+{102}{}{Nem Ãºgy t?nik, mint aki fel van fegyverezve... sem fegyverrel, sem Ã©sszel.}
+{103}{}{HÃ©, te szarhÃ¡zi! Nem tetszel nekem! Azt hiszem, meg kellene hÃ­vnod egy italra!}
+{104}{}{HÃ©, bÃ©bi, gyere ide, kapsz t?lem egy jÃ³ nagy nedveset!}
 {105}{}{<Fingasz!>}
-{106}{}{Egyé' szart!}
-{107}{}{Nem akarok semmilyen balhét.}
-{108}{}{Szóval keménynek érzed magad, mi? Feltörlöm a padlót a seggeddel! Puszta kézzel, itt és most!}
-{109}{}{"Nem akarok semmilyen balhét!" Hát, most már nem úszod meg szárazon! Vagy kiállsz ellenem, vagy elmondom mindenkinek, milyen gerinctelen kis csecsem? vagy. Puszta kézzel, itt, és most.}
-{110}{}{Rendben, induljon a tánc!}
-{111}{}{Nem, tényleg, nem tehetem.}
-{112}{}{Hah! Micsoda szánalmas alak! Na, t?nj innen, te rakás szerencsétlenség!}
-{113}{}{Au! Eltörted az orrom! Feladom! Ne üss meg többet!}
-{114}{}{Oké, elnézést! Csak vicceltem. Nem balhézok többet veled... Kérlek, ne ölj meg!}
-{115}{}{Hé, feladom! Oké? Ugye nem ütsz meg?}
+{106}{}{EgyÃ©' szart!}
+{107}{}{Nem akarok semmilyen balhÃ©t.}
+{108}{}{SzÃ³val kemÃ©nynek Ã©rzed magad, mi? FeltÃ¶rlÃ¶m a padlÃ³t a seggeddel! Puszta kÃ©zzel, itt Ã©s most!}
+{109}{}{"Nem akarok semmilyen balhÃ©t!" HÃ¡t, most mÃ¡r nem Ãºszod meg szÃ¡razon! Vagy kiÃ¡llsz ellenem, vagy elmondom mindenkinek, milyen gerinctelen kis csecsem? vagy. Puszta kÃ©zzel, itt, Ã©s most.}
+{110}{}{Rendben, induljon a tÃ¡nc!}
+{111}{}{Nem, tÃ©nyleg, nem tehetem.}
+{112}{}{Hah! Micsoda szÃ¡nalmas alak! Na, t?nj innen, te rakÃ¡s szerencsÃ©tlensÃ©g!}
+{113}{}{Au! EltÃ¶rted az orrom! Feladom! Ne Ã¼ss meg tÃ¶bbet!}
+{114}{}{OkÃ©, elnÃ©zÃ©st! Csak vicceltem. Nem balhÃ©zok tÃ¶bbet veled... KÃ©rlek, ne Ã¶lj meg!}
+{115}{}{HÃ©, feladom! OkÃ©? Ugye nem Ã¼tsz meg?}

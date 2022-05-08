@@ -1,230 +1,230 @@
 {100}{}{Tu vois un homme mince qui a l'air nerveux.}
-{101}{}{Tu vois Doc Johnson, le médecin en poste à Redding.}
-{102}{}{Tu vois un type émacié, nerveux avec des yeux protubérants.}
-{103}{}{Ta tête est plus large que je le pensais.}
-{104}{}{Tes sourcils menaçants confirment mes soupçons.}
-{105}{}{Ta crête sagittale est très développée.}
-{106}{}{C'est peut-être une longue exposition aux radiations qui a réduit de la sorte ta capacité crânienne.}
+{101}{}{Tu vois Doc Johnson, le mÃ©decin en poste Ã  Redding.}
+{102}{}{Tu vois un type Ã©maciÃ©, nerveux avec des yeux protubÃ©rants.}
+{103}{}{Ta tÃªte est plus large que je le pensais.}
+{104}{}{Tes sourcils menaÃ§ants confirment mes soupÃ§ons.}
+{105}{}{Ta crÃªte sagittale est trÃ¨s dÃ©veloppÃ©e.}
+{106}{}{C'est peut-Ãªtre une longue exposition aux radiations qui a rÃ©duit de la sorte ta capacitÃ© crÃ¢nienne.}
 {107}{}{On ne mange pas ici. Tire-toi !}
 {108}{}{Ch, ch !}
-{109}{}{Retourne dans ta brousse, espèce de sauvage !}
-{110}{}{Si les tribals étaient aussi passifs que les Brahmines, au moins ils nous serviraient à quelque chose.}
-{111}{}{On dirait que tu as frappé à la bonne porte. Je suis Doc Johnson et je peux te retaper.}
-{112}{}{Bonjour, alors, tu m'as amené ton camarade pour que j'en prenne soin ? Doc Johnson L'Indolore, pour vous servir.}
+{109}{}{Retourne dans ta brousse, espÃ¨ce de sauvage !}
+{110}{}{Si les tribals Ã©taient aussi passifs que les Brahmines, au moins ils nous serviraient Ã  quelque chose.}
+{111}{}{On dirait que tu as frappÃ© Ã  la bonne porte. Je suis Doc Johnson et je peux te retaper.}
+{112}{}{Bonjour, alors, tu m'as amenÃ© ton camarade pour que j'en prenne soin ? Doc Johnson L'Indolore, pour vous servir.}
 {113}{}{On dirait que ton camarade a pas eu de chance. Je suis Doc Johnson et je peux te retaper si tu veux.}
-{114}{}{Bonjour, je suis Doc Johnson. Si tu veux un avis professionnel, tu as l'air mal en point. Veux-tu que j'arrange ça ?}
-{115}{}{Bonjour, je suis Doc Johnson. Je dois examiner de plus près ton camarade si tu veux que je le retape. Ca n'a pas l'air d'aller trop bien.}
-{116}{}{A toute situation, il y a un remède. Doc Johnson, c'est moi.}
-{117}{}{En piteux état, hein ? Doc Johnson va regarder ça. T'inquiète pas, c'est mon boulot.}
-{118}{}{Où êtes-vous allés vous fourrer ? Ce vieux Doc Johnson va regarder ça de plus près.}
+{114}{}{Bonjour, je suis Doc Johnson. Si tu veux un avis professionnel, tu as l'air mal en point. Veux-tu que j'arrange Ã§a ?}
+{115}{}{Bonjour, je suis Doc Johnson. Je dois examiner de plus prÃ¨s ton camarade si tu veux que je le retape. Ca n'a pas l'air d'aller trop bien.}
+{116}{}{A toute situation, il y a un remÃ¨de. Doc Johnson, c'est moi.}
+{117}{}{En piteux Ã©tat, hein ? Doc Johnson va regarder Ã§a. T'inquiÃ¨te pas, c'est mon boulot.}
+{118}{}{OÃ¹ Ãªtes-vous allÃ©s vous fourrer ? Ce vieux Doc Johnson va regarder Ã§a de plus prÃ¨s.}
 {119}{}{Merci, Doc. Ca fera combien ?}
-{120}{}{Je voulais simplement essayer d'acheter un peu de matériel.}
-{121}{}{Ce n'est pas tant de soins dont j'ai besoin pour l'instant. Plutôt des réponses à certaines questions.}
-{122}{}{C'est un plaisir de faire ta connaissance mais des soins ne sont pas nécessaires. Merci quand même, Doc. Au revoir.}
-{123}{}{Ca te coûtera $50 pour un rafistolage complet.}
-{124}{}{Ca te coûtera $50 si tu veux que je retape ton camarade. Comme un vrai sou neuf. Garanti.}
-{125}{}{Voilà ton argent, Doc.}
-{126}{}{Je n'ai pas assez d'argent pour l'instant. Je regrette, Doc, une autre fois peut-être.}
-{127}{}{$50, hein ? On verra ça plus tard. Au revoir, Doc.}
-{128}{}{Ecoute, je vais te faire un prix de groupe puisque je vois que vous êtes tous bien amochés. $100 pour le lot.}
-{129}{}{Voilà ton argent, Doc. Arrange-nous comme il faut.}
-{130}{}{On peut pas se payer ça maintenant. Je regrette Doc, plus tard peut-être.}
-{131}{}{$100, hein ? On verra ça plus tard. Au revoir, Doc.}
-{132}{}{J'ai l'impression que c'est pas vraiment la forme. Je peux te guérir pour $100. Veux-tu que j'essaie ?}
+{120}{}{Je voulais simplement essayer d'acheter un peu de matÃ©riel.}
+{121}{}{Ce n'est pas tant de soins dont j'ai besoin pour l'instant. PlutÃ´t des rÃ©ponses Ã  certaines questions.}
+{122}{}{C'est un plaisir de faire ta connaissance mais des soins ne sont pas nÃ©cessaires. Merci quand mÃªme, Doc. Au revoir.}
+{123}{}{Ca te coÃ»tera $50 pour un rafistolage complet.}
+{124}{}{Ca te coÃ»tera $50 si tu veux que je retape ton camarade. Comme un vrai sou neuf. Garanti.}
+{125}{}{VoilÃ  ton argent, Doc.}
+{126}{}{Je n'ai pas assez d'argent pour l'instant. Je regrette, Doc, une autre fois peut-Ãªtre.}
+{127}{}{$50, hein ? On verra Ã§a plus tard. Au revoir, Doc.}
+{128}{}{Ecoute, je vais te faire un prix de groupe puisque je vois que vous Ãªtes tous bien amochÃ©s. $100 pour le lot.}
+{129}{}{VoilÃ  ton argent, Doc. Arrange-nous comme il faut.}
+{130}{}{On peut pas se payer Ã§a maintenant. Je regrette Doc, plus tard peut-Ãªtre.}
+{131}{}{$100, hein ? On verra Ã§a plus tard. Au revoir, Doc.}
+{132}{}{J'ai l'impression que c'est pas vraiment la forme. Je peux te guÃ©rir pour $100. Veux-tu que j'essaie ?}
 {133}{}{Ton camarade ne va pas fort. Je peux le retaper pour $100. Veux-tu que j'essaie ?}
-{134}{}{J'espère que tu feras mieux qu'essayer, Doc. Voilà ton argent.}
-{135}{}{Je n'ai pas assez d'argent pour l'instant. Je regrette, Doc, une autre fois peut-être.}
-{136}{}{$100, hein ? On verra ça plus tard. Au revoir, Doc.}
-{137}{}{Quelle bande de blancs-becs, plus malades les uns que les autres. Bon, je peux essayer de vous retaper, mais ça vous coûtera $150. Vous voulez que j'essaie ?}
-{138}{}{Oui, s'il te plaît. Voici ton argent, Doc.}
-{139}{}{On a pas les moyens actuellement. Je regrette, Doc, une autre fois peut-être.}
-{140}{}{$150 ? Heu... On verra ça plus tard. Au revoir, Doc.}
-{141}{}{J'aimerais vous aider mais vous avez pas assez d'argent pour la facture. Le matériel médical, c'est cher.}
-{142}{}{Allez, s'te plaît, Doc. On a besoin de ton aide.}
+{134}{}{J'espÃ¨re que tu feras mieux qu'essayer, Doc. VoilÃ  ton argent.}
+{135}{}{Je n'ai pas assez d'argent pour l'instant. Je regrette, Doc, une autre fois peut-Ãªtre.}
+{136}{}{$100, hein ? On verra Ã§a plus tard. Au revoir, Doc.}
+{137}{}{Quelle bande de blancs-becs, plus malades les uns que les autres. Bon, je peux essayer de vous retaper, mais Ã§a vous coÃ»tera $150. Vous voulez que j'essaie ?}
+{138}{}{Oui, s'il te plaÃ®t. Voici ton argent, Doc.}
+{139}{}{On a pas les moyens actuellement. Je regrette, Doc, une autre fois peut-Ãªtre.}
+{140}{}{$150 ? Heu... On verra Ã§a plus tard. Au revoir, Doc.}
+{141}{}{J'aimerais vous aider mais vous avez pas assez d'argent pour la facture. Le matÃ©riel mÃ©dical, c'est cher.}
+{142}{}{Allez, s'te plaÃ®t, Doc. On a besoin de ton aide.}
 {143}{}{Je reviendrai quand j'aurai plus d'argent. Au revoir.}
 {144}{}{Bon, c'est d'accord pour cette fois-ci, mais il faudra pas revenir sans argent la prochaine fois.}
-{145}{}{Deux fois... c'est trop. Je te l'avais dit. Cette fois il me faut de l'argent. Tu ne voudrais quand même pas tout avoir gratis, y compris mes services.}
+{145}{}{Deux fois... c'est trop. Je te l'avais dit. Cette fois il me faut de l'argent. Tu ne voudrais quand mÃªme pas tout avoir gratis, y compris mes services.}
 {146}{}{Merci, Doc. C'est vraiment sympa de ta part. La prochaine fois, j'aurai de quoi payer. Promis.}
 {147}{}{Je me sens coupable de m'imposer ainsi. Je reviendrai quand j'aurai de quoi payer.}
 {148}{}{Bon, mais avant de partir, laisse-moi te poser une autre question.}
 {149}{}{D'accord, c'est bon. Je m'en vais. Au revoir, Doc.}
-{150}{}{Pas d'argent, pas de service. Désolé. Je peux pas distribuer des médicaments à tout le monde. Je serais sur la paille en un rien de temps ! Reviens quand tu auras de quoi payer mes honoraires.}
-{151}{}{Je n'ai pas d'argent mais j'ai des choses à troquer. Veux-tu quelque chose en échange de tes services ?}
+{150}{}{Pas d'argent, pas de service. DÃ©solÃ©. Je peux pas distribuer des mÃ©dicaments Ã  tout le monde. Je serais sur la paille en un rien de temps ! Reviens quand tu auras de quoi payer mes honoraires.}
+{151}{}{Je n'ai pas d'argent mais j'ai des choses Ã  troquer. Veux-tu quelque chose en Ã©change de tes services ?}
 {152}{}{Avant de partir, laisse-moi te demander quelque chose.}
 {153}{}{D'accord, j'essaierai de rassembler un peu d'argent. Au revoir.}
 {154}{}{Que veux-tu savoir ?}
 {155}{}{Quoi encore ?}
-{156}{}{J'ai peut-être une solution pour ce problème de Jet que vous avez dans le coin.}
-{157}{}{J'ai entendu dire que ces derniers temps les exportations ne marchaient pas très fort à Redding.}
+{156}{}{J'ai peut-Ãªtre une solution pour ce problÃ¨me de Jet que vous avez dans le coin.}
+{157}{}{J'ai entendu dire que ces derniers temps les exportations ne marchaient pas trÃ¨s fort Ã  Redding.}
 {158}{}{J'aurais bien besoin de me faire soigner.}
 {159}{}{Je me demande juste ce qui se passe en ville.}
 {160}{}{Pourquoi t'appelle-t-on Doc Johnson L'Indolore ?}
-{161}{}{Tu aurais des fournitures médicales à échanger ?}
+{161}{}{Tu aurais des fournitures mÃ©dicales Ã  Ã©changer ?}
 {162}{}{Simple visite. Au revoir, Doc.}
-{163}{}{Qu'est-ce que c'est à ton avis cet endroit ? Un grand magasin ? Non, pas de troc pour mes services. Je veux être payé en argent sonnant et trébuchant, merci beaucoup. Reviens quand tu en auras.}
+{163}{}{Qu'est-ce que c'est Ã  ton avis cet endroit ? Un grand magasin ? Non, pas de troc pour mes services. Je veux Ãªtre payÃ© en argent sonnant et trÃ©buchant, merci beaucoup. Reviens quand tu en auras.}
 {164}{}{Ok Ok, j'comprends. Au revoir.}
-{165}{}{Je pourrais te fournir quelques médicaments. Montre-moi ce que tu as en échange.}
+{165}{}{Je pourrais te fournir quelques mÃ©dicaments. Montre-moi ce que tu as en Ã©change.}
 {166}{}{D'accord, Doc.}
-{167}{}{Ce n'est pas urgent. Je me demandais juste si tu voulais faire du troc. Mais, j'ai quelques questions à te poser.}
+{167}{}{Ce n'est pas urgent. Je me demandais juste si tu voulais faire du troc. Mais, j'ai quelques questions Ã  te poser.}
 {168}{}{Oh, je n'ai besoin de rien pour l'instant. A plus tard, Doc.}
 {169}{}{As-tu eu tout ce que tu voulais ?}
-{170}{}{Très bien ? Ca t'irait ça ?}
-{171}{}{Tout compte fait, je vais regarder à nouveau ta marchandise.}
+{170}{}{TrÃ¨s bien ? Ca t'irait Ã§a ?}
+{171}{}{Tout compte fait, je vais regarder Ã  nouveau ta marchandise.}
 {172}{}{Merci, Doc. Puis-je te demander autre chose.}
-{173}{}{Bien sûr, Doc. Merci. A plus tard.}
-{174}{}{C'est ça. C'est beaucoup mieux. Ca ira pour toi ?}
-{175}{}{En fait, j'avais quelques questions à te poser.}
+{173}{}{Bien sÃ»r, Doc. Merci. A plus tard.}
+{174}{}{C'est Ã§a. C'est beaucoup mieux. Ca ira pour toi ?}
+{175}{}{En fait, j'avais quelques questions Ã  te poser.}
 {176}{}{Ca ira. Merci, Doc.}
-{177}{}{A ta place, je ne tarderais pas trop. Certaines plaies s'enveniment et le pus commence à suinter. Ensuite, c'est la gangrène qui s'installe. Ces derniers temps, j'ai pas trop eu l'occasion d'utiliser mes bistouris. Ils commencent à rouiller. Ecoute-moi, t'as qu'à laisser courir ça aussi longtemps que tu veux. J'aurai peut-être l'occasion de m'exercer plus tard.}
+{177}{}{A ta place, je ne tarderais pas trop. Certaines plaies s'enveniment et le pus commence Ã  suinter. Ensuite, c'est la gangrÃ¨ne qui s'installe. Ces derniers temps, j'ai pas trop eu l'occasion d'utiliser mes bistouris. Ils commencent Ã  rouiller. Ecoute-moi, t'as qu'Ã  laisser courir Ã§a aussi longtemps que tu veux. J'aurai peut-Ãªtre l'occasion de m'exercer plus tard.}
 {178}{}{Je vois. Pendant que j'y suis, je vais te demander autre chose.}
-{179}{}{Euh, oui, j'y réfléchirai. Au revoir, Doc.}
-{180}{}{Ces temps-ci, on dirait que les mineurs passent plus de temps à planer au Jet qu'à bosser à la mine. Si ça continue, la production d'or à Redding va s'arrêter. New Reno n'a pas l'air de s'en faire, en tout cas.}
-{181}{}{Tous les mineurs du coin travaillent juste assez pour pouvoir se procurer leur Jet. La production a vraiment ralenti. Si ça continue, New Reno va s'emparer de Redding.}
-{182}{}{Ces derniers temps, les mineurs du coin planent en permanence. Plus personne ou presque n'exploite l'or. Je crains que New Reno ne s'approprie cette ville. J'aimerais trouver un moyen d'arrêter ce besoin constant de planer au Jet.}
+{179}{}{Euh, oui, j'y rÃ©flÃ©chirai. Au revoir, Doc.}
+{180}{}{Ces temps-ci, on dirait que les mineurs passent plus de temps Ã  planer au Jet qu'Ã  bosser Ã  la mine. Si Ã§a continue, la production d'or Ã  Redding va s'arrÃªter. New Reno n'a pas l'air de s'en faire, en tout cas.}
+{181}{}{Tous les mineurs du coin travaillent juste assez pour pouvoir se procurer leur Jet. La production a vraiment ralenti. Si Ã§a continue, New Reno va s'emparer de Redding.}
+{182}{}{Ces derniers temps, les mineurs du coin planent en permanence. Plus personne ou presque n'exploite l'or. Je crains que New Reno ne s'approprie cette ville. J'aimerais trouver un moyen d'arrÃªter ce besoin constant de planer au Jet.}
 {183}{}{Quel est le rapport avec New Reno ?}
-{184}{}{D'où vient le Jet ?}
+{184}{}{D'oÃ¹ vient le Jet ?}
 {185}{}{Je vois. Puis-je te poser une autre question ?}
 {186}{}{Merci du renseignement. A plus tard, Doc. Au revoir.}
 {187}{}{Bonjour. Je suis Doc Johnson l'Indolore. Que puis-je faire pour toi ?}
 {188}{}{Qu'est-ce que le vieux Doc Johnson peut faire pour toi cette fois-ci ?}
-{189}{}{Salut, Doc. J'ai simplement quelques questions à te poser.}
-{190}{}{Je me demandais si tu pouvais me fournir des médicaments en échange d'autre chose.}
+{189}{}{Salut, Doc. J'ai simplement quelques questions Ã  te poser.}
+{190}{}{Je me demandais si tu pouvais me fournir des mÃ©dicaments en Ã©change d'autre chose.}
 {191}{}{Doc, j'ai entendu parler d'implants d'armure d'un genre particulier. Tu es au courant ?}
 {192}{}{Je ne faisais que passer, Doc. A la prochaine. Au revoir.}
-{193}{}{Grâce à toi, j'inverse la vapeur. Cet antidote que tu m'as donné et que j'ai distillé dans la réserve de Jet fait un super boulot en clouant au sol tous les consommateurs de Jet.}
-{194}{}{Si ça marche, tant mieux. Une question encore.}
-{195}{}{Quand ils tombent malades après t'avoir acheté du Jet, les gens ne se méfient pas de toi ?}
-{196}{}{Si ça marche, tant mieux, Doc. Je m'en vais à présent. Salut.}
-{197}{}{Merci pour l'antidote que tu m'as apporté, les problèmes de Jet à Redding sont terminés. New Reno devra trouver un autre moyen pour essayer de s'emparer de nous.}
-{198}{}{Tant mieux si j'ai pu être utile. J'ai encore une question.}
-{199}{}{Quand ils tombent malades après t'avoir acheté du Jet, les gens ne se méfient pas de toi ?}
+{193}{}{GrÃ¢ce Ã  toi, j'inverse la vapeur. Cet antidote que tu m'as donnÃ© et que j'ai distillÃ© dans la rÃ©serve de Jet fait un super boulot en clouant au sol tous les consommateurs de Jet.}
+{194}{}{Si Ã§a marche, tant mieux. Une question encore.}
+{195}{}{Quand ils tombent malades aprÃ¨s t'avoir achetÃ© du Jet, les gens ne se mÃ©fient pas de toi ?}
+{196}{}{Si Ã§a marche, tant mieux, Doc. Je m'en vais Ã  prÃ©sent. Salut.}
+{197}{}{Merci pour l'antidote que tu m'as apportÃ©, les problÃ¨mes de Jet Ã  Redding sont terminÃ©s. New Reno devra trouver un autre moyen pour essayer de s'emparer de nous.}
+{198}{}{Tant mieux si j'ai pu Ãªtre utile. J'ai encore une question.}
+{199}{}{Quand ils tombent malades aprÃ¨s t'avoir achetÃ© du Jet, les gens ne se mÃ©fient pas de toi ?}
 {200}{}{Quel est le rapport avec New Reno ?}
-{201}{}{Si ça marche, tant mieux, Doc. A plus tard.}
+{201}{}{Si Ã§a marche, tant mieux, Doc. A plus tard.}
 {202}{}{Une solution ? Que veux-tu dire ?}
-{203}{}{Je veux dire que j'ai un antidote contre le Jet. C'est le Dr Troy de la Cité de l'Abri qui l'a élaboré et il devrait résoudre votre problème de besoin constant qu'est le Jet.}
+{203}{}{Je veux dire que j'ai un antidote contre le Jet. C'est le Dr Troy de la CitÃ© de l'Abri qui l'a Ã©laborÃ© et il devrait rÃ©soudre votre problÃ¨me de besoin constant qu'est le Jet.}
 {204}{}{Oh, rien. Puis-je te demander autre chose, Doc ?}
-{205}{}{Ca c'est sûr : trop de Jet, pas assez de travail... mais où as-tu entendu parler de ça ?}
-{206}{}{Je tiens ça de McClure à la Cité de l'Abri.}
+{205}{}{Ca c'est sÃ»r : trop de Jet, pas assez de travail... mais oÃ¹ as-tu entendu parler de Ã§a ?}
+{206}{}{Je tiens Ã§a de McClure Ã  la CitÃ© de l'Abri.}
 {207}{}{Une simple rumeur, c'est tout.}
 {208}{}{Ce n'est pas vraiment important. Je peux te demander autre chose ?}
-{209}{}{New Reno vend du Jet assez bon marché. Le Jet entraîne un besoin constant, rien de comparable à ce que tu as déjà pu voir. Ils pensent que si un nombre suffisant de personnes l'utilisent dans un endroit donné, elles feront n'importe quoi pour en avoir plus. Ils auraient ainsi de facto le contrôle d'une zone, Redding par exemple.}
+{209}{}{New Reno vend du Jet assez bon marchÃ©. Le Jet entraÃ®ne un besoin constant, rien de comparable Ã  ce que tu as dÃ©jÃ  pu voir. Ils pensent que si un nombre suffisant de personnes l'utilisent dans un endroit donnÃ©, elles feront n'importe quoi pour en avoir plus. Ils auraient ainsi de facto le contrÃ´le d'une zone, Redding par exemple.}
 {210}{}{Je vois. Puis-je te demander autre chose, Doc ?}
-{211}{}{Donc si tu ne veux pas que New Reno contrôle Redding, qui devrait faire la loi ici ?}
+{211}{}{Donc si tu ne veux pas que New Reno contrÃ´le Redding, qui devrait faire la loi ici ?}
 {212}{}{Merci pour ces explications, Doc. Au revoir.}
-{213}{}{Tout le Jet qui arrive en ville provient de la famille Mordino de New Reno. Il arrive essentiellement en vrac et je le conditionne en ampoules destinées à l'usage individuel... C'est donc moi le vendeur exclusif.}
-{214}{}{Tu dois te faire un bon petit profit avec ça !}
-{215}{}{Tu dois être en très bons termes avec New Reno.}
+{213}{}{Tout le Jet qui arrive en ville provient de la famille Mordino de New Reno. Il arrive essentiellement en vrac et je le conditionne en ampoules destinÃ©es Ã  l'usage individuel... C'est donc moi le vendeur exclusif.}
+{214}{}{Tu dois te faire un bon petit profit avec Ã§a !}
+{215}{}{Tu dois Ãªtre en trÃ¨s bons termes avec New Reno.}
 {216}{}{Je vois. Puis-je te poser une autre question ?}
 {217}{}{Tu aurais du Jet que je pourrais prendre alors ?}
-{218}{}{Pas vraiment. Ils sont tellement habitués à ce que je conditionne le Jet en ampoules qu'ils n'y ont pas réfléchi à deux fois. Ca fait un bon bout de temps que je le fais et ça fait longtemps que j'exerce ma profession de médecin ici.}
+{218}{}{Pas vraiment. Ils sont tellement habituÃ©s Ã  ce que je conditionne le Jet en ampoules qu'ils n'y ont pas rÃ©flÃ©chi Ã  deux fois. Ca fait un bon bout de temps que je le fais et Ã§a fait longtemps que j'exerce ma profession de mÃ©decin ici.}
 {219}{}{C'est tant mieux si tu n'as pas d'ennui. Puis-je te demander autre chose, Doc ?}
 {220}{}{Bien, je parie que les choses tourneraient mal s'ils s'en doutaient. Bon, au revoir Doc.}
-{221}{}{Eh bien, comme tout le monde veut une partie de l'or de Redding, nous finirons bien par être contrôlés par quelqu'un, un jour ou l'autre. Je voudrais simplement que nous ayons le maître qui fera ce qu'il y a de mieux pour Redding.}
-{222}{}{Et à qui penses-tu ?}
-{223}{}{A mon avis, la meilleure chance de Redding, c'est que la Cité de l'Abri prenne les choses en main. Je suis peut-être pas objectif parce que c'est de là que je viens, mais je crois sincèrement que la Cité de l'Abri peut aider les citoyens de Redding.}
-{224}{}{Pourquoi ça ?}
-{225}{}{Parce qu'ils gèrent la Cité de l'Abri de façon juste et humaine. Je suis sûr qu'ils feraient la même chose pour Redding.}
-{226}{}{La Cité de l'Abri prend soin de ses citoyens mais elle traite les autres comme de la merde.}
+{221}{}{Eh bien, comme tout le monde veut une partie de l'or de Redding, nous finirons bien par Ãªtre contrÃ´lÃ©s par quelqu'un, un jour ou l'autre. Je voudrais simplement que nous ayons le maÃ®tre qui fera ce qu'il y a de mieux pour Redding.}
+{222}{}{Et Ã  qui penses-tu ?}
+{223}{}{A mon avis, la meilleure chance de Redding, c'est que la CitÃ© de l'Abri prenne les choses en main. Je suis peut-Ãªtre pas objectif parce que c'est de lÃ  que je viens, mais je crois sincÃ¨rement que la CitÃ© de l'Abri peut aider les citoyens de Redding.}
+{224}{}{Pourquoi Ã§a ?}
+{225}{}{Parce qu'ils gÃ¨rent la CitÃ© de l'Abri de faÃ§on juste et humaine. Je suis sÃ»r qu'ils feraient la mÃªme chose pour Redding.}
+{226}{}{La CitÃ© de l'Abri prend soin de ses citoyens mais elle traite les autres comme de la merde.}
 {227}{}{Je vois, Docteur. C'est pas idiot comme raisonnement.}
-{228}{}{Ils en comprendront assez vite les avantages. Je suis certain qu'ils accueilleront l'administration de la Cité de l'Abri à bras ouverts, enfin, à la longue.}
-{229}{}{Je vois. Laissons la politique et passons à autre chose.}
+{228}{}{Ils en comprendront assez vite les avantages. Je suis certain qu'ils accueilleront l'administration de la CitÃ© de l'Abri Ã  bras ouverts, enfin, Ã  la longue.}
+{229}{}{Je vois. Laissons la politique et passons Ã  autre chose.}
 {230}{}{Hum, j'en sais rien. Au revoir.}
-{231}{}{C'est n'importe quoi. La Cité de l'Abri accorde des privilèges spéciaux à ses citoyens, mais uniquement parce qu'ils sont plus aptes à profiter de ces choses que ces rustres de non-citoyens. En outre, n'importe qui peut demander la citoyenneté de la Cité de l'Abri à condition de réussir les tests.}
-{232}{}{Je ne sais pas comment les gens de Redding réagiraient à la domination de la Cité de l'Abri.}
+{231}{}{C'est n'importe quoi. La CitÃ© de l'Abri accorde des privilÃ¨ges spÃ©ciaux Ã  ses citoyens, mais uniquement parce qu'ils sont plus aptes Ã  profiter de ces choses que ces rustres de non-citoyens. En outre, n'importe qui peut demander la citoyennetÃ© de la CitÃ© de l'Abri Ã  condition de rÃ©ussir les tests.}
+{232}{}{Je ne sais pas comment les gens de Redding rÃ©agiraient Ã  la domination de la CitÃ© de l'Abri.}
 {233}{}{Ouais, sans doute. Salut, Doc.}
-{234}{}{Je remplis les ampoules avec du Jet et je les distribue uniquement pour rendre service aux habitants de Redding. J'en tire aucun bénéfice. Si je ne le faisais pas, un charlatan préparerait ça avec du matériel rouillé, plein de germes. Et après ça, je ne pourrais plus les soigner.}
+{234}{}{Je remplis les ampoules avec du Jet et je les distribue uniquement pour rendre service aux habitants de Redding. J'en tire aucun bÃ©nÃ©fice. Si je ne le faisais pas, un charlatan prÃ©parerait Ã§a avec du matÃ©riel rouillÃ©, plein de germes. Et aprÃ¨s Ã§a, je ne pourrais plus les soigner.}
 {235}{}{T'es vraiment un chic type, Doc. C'est chouette. Puis-je te demander autre chose ?}
-{236}{}{Très *noble* de ta part, Docteur.}
-{237}{}{C'est intéressant. A plus tard, Doc. Au revoir.}
-{238}{}{Ca serait sympa de ne pas pousser sur les sarcasmes quand tu dis ça. Appelle ça de la noblesse si tu veux mais je préfère parler de sens pratique. Les patrons de la mine me paient pour que je garde les mineurs en bonne santé et aptes au travail. Si je laisse quelqu'un d'autre s'occuper du Jet, je ne pourrais jamais faire le boulot pour lequel je suis payé.}
+{236}{}{TrÃ¨s *noble* de ta part, Docteur.}
+{237}{}{C'est intÃ©ressant. A plus tard, Doc. Au revoir.}
+{238}{}{Ca serait sympa de ne pas pousser sur les sarcasmes quand tu dis Ã§a. Appelle Ã§a de la noblesse si tu veux mais je prÃ©fÃ¨re parler de sens pratique. Les patrons de la mine me paient pour que je garde les mineurs en bonne santÃ© et aptes au travail. Si je laisse quelqu'un d'autre s'occuper du Jet, je ne pourrais jamais faire le boulot pour lequel je suis payÃ©.}
 {239}{}{Je vois. Bon, une autre question, alors.}
-{240}{}{Hum, merci de m'avoir dit ça. Au revoir, Doc.}
-{241}{}{Le Dr Troy ? Je le connais. Un médecin très talentueux. Nous avons travaillé ensemble quand je vivais à la Cité de l'Abri. Parle-moi de cet antidote.}
-{242}{}{Tu as travaillé à la Cité de l'Abri ?}
+{240}{}{Hum, merci de m'avoir dit Ã§a. Au revoir, Doc.}
+{241}{}{Le Dr Troy ? Je le connais. Un mÃ©decin trÃ¨s talentueux. Nous avons travaillÃ© ensemble quand je vivais Ã  la CitÃ© de l'Abri. Parle-moi de cet antidote.}
+{242}{}{Tu as travaillÃ© Ã  la CitÃ© de l'Abri ?}
 {243}{}{Le Dr Troy m'a dit que je devais t'amener l'antidote et que tu saurais quoi en faire.}
-{244}{}{Oui, c'est là que j'ai reçu ma formation médicale. Je suis un citoyen de la Cité de l'Abri mais j'ai pensé qu'il y avait beaucoup d'endroits au monde qui avaient davantage besoin de mon savoir médical que la Cité de l'Abri alors je suis venu ici. Bon, alors, cet antidote...}
+{244}{}{Oui, c'est lÃ  que j'ai reÃ§u ma formation mÃ©dicale. Je suis un citoyen de la CitÃ© de l'Abri mais j'ai pensÃ© qu'il y avait beaucoup d'endroits au monde qui avaient davantage besoin de mon savoir mÃ©dical que la CitÃ© de l'Abri alors je suis venu ici. Bon, alors, cet antidote...}
 {245}{}{Le Dr Troy m'a dit que je devais t'amener l'antidote et que tu saurais quoi en faire.}
-{246}{}{Bien sûr. Donne-le-moi, alors.}
+{246}{}{Bien sÃ»r. Donne-le-moi, alors.}
 {247}{}{Le voici, Doc.}
 {248}{}{Pas si vite Doc. Combien m'en offres-tu ?}
 {249}{}{Je n'ai pas vraiment envie de te le donner tout de suite. A plus tard, Doc. Salut.}
-{250}{}{Combien je t'en offre ? Dis-donc, espèce de fouine, je devrais...}
+{250}{}{Combien je t'en offre ? Dis-donc, espÃ¨ce de fouine, je devrais...}
 {251}{}{Eh, doucement, Doc, ce genre de discours me fout les jetons et ensuite je tremble. Je pourrais faire tomber des choses par terre... cette bouteille d'antidote par exemple.}
-{252}{}{Bon, d'accord. Simple plaisanterie. Voilà.}
-{253}{}{Merci. Je veillerai à ce que les mineurs aient un petit *extra* avec le prochain arrivage de Jet qu'ils vont venir chercher.}
-{254}{}{Ne vont-ils pas te soupçonner, Doc ?}
+{252}{}{Bon, d'accord. Simple plaisanterie. VoilÃ .}
+{253}{}{Merci. Je veillerai Ã  ce que les mineurs aient un petit *extra* avec le prochain arrivage de Jet qu'ils vont venir chercher.}
+{254}{}{Ne vont-ils pas te soupÃ§onner, Doc ?}
 {255}{}{Si j'ai pu t'aider, tant mieux. Je voudrais savoir autre chose, Doc.}
-{256}{}{Bon sang, j'ai horreur de voir tous ces accros au Jet planer sans arrêt. Au revoir doc, et bonne chance.}
+{256}{}{Bon sang, j'ai horreur de voir tous ces accros au Jet planer sans arrÃªt. Au revoir doc, et bonne chance.}
 {257}{}{Ok, tu me tiens. Je t'en donnerai $2 000. C'est tout ce que j'ai.}
-{258}{}{On fera avec. D'accord, voilà, Doc.}
-{259}{}{Je vais peut-être encore le garder un petit peu. Au revoir, Doc.}
-{260}{}{Libre à toi mais je ne t'en offrirai pas davantage. C'est vraiment tout ce que j'ai.}
-{261}{}{Bon, d'accord, je prends les $2 000. Voilà l'antidote, Doc.}
+{258}{}{On fera avec. D'accord, voilÃ , Doc.}
+{259}{}{Je vais peut-Ãªtre encore le garder un petit peu. Au revoir, Doc.}
+{260}{}{Libre Ã  toi mais je ne t'en offrirai pas davantage. C'est vraiment tout ce que j'ai.}
+{261}{}{Bon, d'accord, je prends les $2 000. VoilÃ  l'antidote, Doc.}
 {262}{}{On verra. Au revoir, Doc.}
-{263}{}{Je connais McClure. Il est au conseil de la Cité de l'Abri. Que t'a-t-il dit ?}
+{263}{}{Je connais McClure. Il est au conseil de la CitÃ© de l'Abri. Que t'a-t-il dit ?}
 {264}{}{La production de cette mine est au plus bas et les prix de l'or ne cessent de grimper.}
 {265}{}{Je ne sais pas si je devrais te le dire.}
 {266}{}{Oh ! Et que disait cette rumeur ?}
 {267}{}{La production de cette mine est au plus bas et les prix de l'or ne cessent de grimper.}
-{268}{}{Bof, les bêtises habituelles, ni plus ni moins. Eh, je voudrais te demander autre chose, Doc.}
+{268}{}{Bof, les bÃªtises habituelles, ni plus ni moins. Eh, je voudrais te demander autre chose, Doc.}
 {269}{}{C'est vrai. Les mineurs planent tous au Jet au lieu de travailler. Les exportations chutent et les prix grimpent. Cette situation ne peut plus durer.}
 {270}{}{Ce n'est pas bon. Hum, encore autre chose.}
-{271}{}{Ca ne me paraît pas très bon tout ça, Doc. Au revoir.}
-{272}{}{En fait, c'est parce que mes patients meurent en général avant d'avoir trop hurlé. Simple plaisanterie.}
-{273}{}{Je vois. Bon, c'est euh, réconfortant tout ça. Encore autre chose.}
-{274}{}{Je dois y aller. Je viens de me rappeler un rendez-vous important à, euh... quelque part. Euh, au revoir, Doc.}
-{275}{}{Tu peux me le dire. Je suis médecin.}
-{276}{}{Ah, ouais. Bon, Ok. Il m'a dit que la production d'or à Redding chute alors que les prix grimpent.}
-{277}{}{J'ai lu quelque chose là-dessus. Ce n'est pas trop dur si tu as la formation adéquate. Et le matériel.}
-{278}{}{As-tu ce qu'il faut pour effectuer les opérations ?}
-{279}{}{En gros oui. J'ai les compétences et la formation, mais je n'ai pas le matériel nécessaire pour réaliser les implants.}
-{280}{}{Qu'est-ce que ça veut dire ?}
-{281}{}{Simplement, que nous devrons improviser. Je pense pouvoir trouver ce qu'il me faut sur une Armure de combat standard. Je peux récupérer les plaques de protection latérales ainsi que les cellules thermiques de l'armure.}
+{271}{}{Ca ne me paraÃ®t pas trÃ¨s bon tout Ã§a, Doc. Au revoir.}
+{272}{}{En fait, c'est parce que mes patients meurent en gÃ©nÃ©ral avant d'avoir trop hurlÃ©. Simple plaisanterie.}
+{273}{}{Je vois. Bon, c'est euh, rÃ©confortant tout Ã§a. Encore autre chose.}
+{274}{}{Je dois y aller. Je viens de me rappeler un rendez-vous important Ã , euh... quelque part. Euh, au revoir, Doc.}
+{275}{}{Tu peux me le dire. Je suis mÃ©decin.}
+{276}{}{Ah, ouais. Bon, Ok. Il m'a dit que la production d'or Ã  Redding chute alors que les prix grimpent.}
+{277}{}{J'ai lu quelque chose lÃ -dessus. Ce n'est pas trop dur si tu as la formation adÃ©quate. Et le matÃ©riel.}
+{278}{}{As-tu ce qu'il faut pour effectuer les opÃ©rations ?}
+{279}{}{En gros oui. J'ai les compÃ©tences et la formation, mais je n'ai pas le matÃ©riel nÃ©cessaire pour rÃ©aliser les implants.}
+{280}{}{Qu'est-ce que Ã§a veut dire ?}
+{281}{}{Simplement, que nous devrons improviser. Je pense pouvoir trouver ce qu'il me faut sur une Armure de combat standard. Je peux rÃ©cupÃ©rer les plaques de protection latÃ©rales ainsi que les cellules thermiques de l'armure.}
 {282}{}{C'est super. Tu peux le faire alors ?}
-{283}{}{Oui, mais si je lui cale trop de plaques d'armure à l'intérieur, le patient ne gagnera sûrement pas de concours de beauté après ça.}
+{283}{}{Oui, mais si je lui cale trop de plaques d'armure Ã  l'intÃ©rieur, le patient ne gagnera sÃ»rement pas de concours de beautÃ© aprÃ¨s Ã§a.}
 {284}{}{Ca, je m'en fiche, je veux uniquement avoir une meilleure protection. Que peux-tu faire exactement ?}
-{285}{}{Quatre opérations différentes sont possibles. L'armure dermique anti-impact qui protège contre les coups, les implants de l'armure Phoenix qui protègent contre la chaleur. Il y a en plus une extension attaque pour chacune. Mais tu dois déjà avoir l'armure de base avant d'obtenir l'extension attaque.}
-{286}{}{Quelle est l'opération qui t'intéresse ?}
+{285}{}{Quatre opÃ©rations diffÃ©rentes sont possibles. L'armure dermique anti-impact qui protÃ¨ge contre les coups, les implants de l'armure Phoenix qui protÃ¨gent contre la chaleur. Il y a en plus une extension attaque pour chacune. Mais tu dois dÃ©jÃ  avoir l'armure de base avant d'obtenir l'extension attaque.}
+{286}{}{Quelle est l'opÃ©ration qui t'intÃ©resse ?}
 {287}{}{Je n'ai pas envie de faire ce genre de truc. Puis-je te demander autre chose ?}
-{288}{}{Je voudrais en savoir plus sur les implants, j'envisage de me faire opérer.}
-{289}{}{Je crois que j'en sais assez. Je vais y réfléchir. Au revoir.}
-{290}{}{Quelle est l'opération qui t'intéresse ?}
+{288}{}{Je voudrais en savoir plus sur les implants, j'envisage de me faire opÃ©rer.}
+{289}{}{Je crois que j'en sais assez. Je vais y rÃ©flÃ©chir. Au revoir.}
+{290}{}{Quelle est l'opÃ©ration qui t'intÃ©resse ?}
 {291}{}{L'armure dermique anti-impact.}
 {292}{}{Les implants de l'armure Phoenix.}
 {293}{}{L'extension Attaque pour l'armure dermique anti-impact.}
 {294}{}{L'extension Attaque pour les implants de l'armure Phoenix.}
 {295}{}{Doc, je crois que je vais changer de sujet pour quelque chose de moins... euh, intrusif.}
-{296}{}{J'ai pas envie d'entendre parler d'opération pour l'instant. Au revoir.}
-{297}{}{Selon ce que j'ai pu lire, l'armure dermique anti-impact t'offre une résistance aux dégâts ordinaires ou aux explosions 5% supérieure à toute autre armure. L'opération prend deux jours environ, il faut une combinaison d'Armure de combat (pour les pièces) et ça te coûtera $5 000. Cette procédure devrait être assez simple... Je pense. Hum, peut-être même que tu n'auras pas trop de balafres.}
-{298}{}{Génial, Doc. Ca marche. J'en ai marre qu'on me tire dessus, qu'on me poignarde et qu'on me fasse sauter tout le temps.}
-{299}{}{J'ai une question sur une des autres opérations, Doc.}
+{296}{}{J'ai pas envie d'entendre parler d'opÃ©ration pour l'instant. Au revoir.}
+{297}{}{Selon ce que j'ai pu lire, l'armure dermique anti-impact t'offre une rÃ©sistance aux dÃ©gÃ¢ts ordinaires ou aux explosions 5% supÃ©rieure Ã  toute autre armure. L'opÃ©ration prend deux jours environ, il faut une combinaison d'Armure de combat (pour les piÃ¨ces) et Ã§a te coÃ»tera $5 000. Cette procÃ©dure devrait Ãªtre assez simple... Je pense. Hum, peut-Ãªtre mÃªme que tu n'auras pas trop de balafres.}
+{298}{}{GÃ©nial, Doc. Ca marche. J'en ai marre qu'on me tire dessus, qu'on me poignarde et qu'on me fasse sauter tout le temps.}
+{299}{}{J'ai une question sur une des autres opÃ©rations, Doc.}
 {300}{}{Je reviendrai lorsque j'aurai plus d'argent, Doc. Au revoir.}
-{301}{}{Je reviendrai lorsque j'aurai trouvé un jeu d'Armure de combat, Doc. Au revoir.}
-{302}{}{J'ai pas vraiment envie de faire ça tout de suite, en fait. Au revoir, Doc.}
-{303}{}{Il faut que tu aies déjà l'armure dermique anti-impact pour que je t'installe l'extension Attaque. Mais je vais t'indiquer ses performances. L'extension Attaque t'offre une résistance aux dégâts ordinaires et aux explosions, 10% supérieure à n'importe quelle autre armure. L'opération prend quelques jours et coûte $30 000. En outre, ton charisme aura pris un sacré coup lorsque j'en aurai terminé. Avec toutes ces plaques d'implants fourrées sous ta peau, tu auras pas mal d'angles mais un beau carénage. Mais, qui n'aime pas regarder une voiture neuve après tout ? J'essaierai quand même de ne pas te faire d'ailerons...}
-{304}{}{L'extension Attaque de l'armure dermique anti-impact t'offre une résistance totale aux dégâts ordinaires et aux explosions de 10% supérieure à n'importe quelle autre armure. L'opération prend quelques jours et coûte $30 000. En outre, ton charisme aura pris un sacré coup lorsque j'en aurai terminé. Avec toutes ces plaques d'implants fourrées sous ta peau, tu auras pas mal d'angles mais un beau carénage. Mais, qui n'aime pas regarder une voiture neuve après tout ? J'essaierai quand même de ne pas te faire d'ailerons. L'expérience te tente ?}
-{305}{}{Ca a l'air génial, Doc. Tope-là. De toute façon, les combats, ça me connaît et je me fiche de l'air que j'aurai !}
-{306}{}{J'ai une question sur une des autres opérations, Doc.}
+{301}{}{Je reviendrai lorsque j'aurai trouvÃ© un jeu d'Armure de combat, Doc. Au revoir.}
+{302}{}{J'ai pas vraiment envie de faire Ã§a tout de suite, en fait. Au revoir, Doc.}
+{303}{}{Il faut que tu aies dÃ©jÃ  l'armure dermique anti-impact pour que je t'installe l'extension Attaque. Mais je vais t'indiquer ses performances. L'extension Attaque t'offre une rÃ©sistance aux dÃ©gÃ¢ts ordinaires et aux explosions, 10% supÃ©rieure Ã  n'importe quelle autre armure. L'opÃ©ration prend quelques jours et coÃ»te $30 000. En outre, ton charisme aura pris un sacrÃ© coup lorsque j'en aurai terminÃ©. Avec toutes ces plaques d'implants fourrÃ©es sous ta peau, tu auras pas mal d'angles mais un beau carÃ©nage. Mais, qui n'aime pas regarder une voiture neuve aprÃ¨s tout ? J'essaierai quand mÃªme de ne pas te faire d'ailerons...}
+{304}{}{L'extension Attaque de l'armure dermique anti-impact t'offre une rÃ©sistance totale aux dÃ©gÃ¢ts ordinaires et aux explosions de 10% supÃ©rieure Ã  n'importe quelle autre armure. L'opÃ©ration prend quelques jours et coÃ»te $30 000. En outre, ton charisme aura pris un sacrÃ© coup lorsque j'en aurai terminÃ©. Avec toutes ces plaques d'implants fourrÃ©es sous ta peau, tu auras pas mal d'angles mais un beau carÃ©nage. Mais, qui n'aime pas regarder une voiture neuve aprÃ¨s tout ? J'essaierai quand mÃªme de ne pas te faire d'ailerons. L'expÃ©rience te tente ?}
+{305}{}{Ca a l'air gÃ©nial, Doc. Tope-lÃ . De toute faÃ§on, les combats, Ã§a me connaÃ®t et je me fiche de l'air que j'aurai !}
+{306}{}{J'ai une question sur une des autres opÃ©rations, Doc.}
 {307}{}{Je reviendrai lorsque j'aurai plus d'argent, Doc. Au revoir.}
-{308}{}{Je reviendrai lorsque j'aurai trouvé un jeu d'Armure de combat, Doc. Au revoir.}
-{309}{}{J'ai pas vraiment envie de faire ça tout de suite, en fait. Au revoir, Doc.}
-{310}{}{Selon les rapports, les implants de l'armure Phoenix te donnent une résistance aux dégâts thermiques (feu, laser et plasma), 5% supérieure à toute autre armure. L'opération prend quelques jours et il te faut une combinaison d'Armure de combat (pour les membranes de dissipation thermique) et $8 000. Ne t'inquiète pas, cette opération ne *devrait* entraîner que des balafres minimes. C'est du moins ce que j'ai lu.}
-{311}{}{Ca a l'air génial, Doc. Plus besoin de crème solaire après ça !}
-{312}{}{J'ai une question sur une des autres opérations, Doc.}
+{308}{}{Je reviendrai lorsque j'aurai trouvÃ© un jeu d'Armure de combat, Doc. Au revoir.}
+{309}{}{J'ai pas vraiment envie de faire Ã§a tout de suite, en fait. Au revoir, Doc.}
+{310}{}{Selon les rapports, les implants de l'armure Phoenix te donnent une rÃ©sistance aux dÃ©gÃ¢ts thermiques (feu, laser et plasma), 5% supÃ©rieure Ã  toute autre armure. L'opÃ©ration prend quelques jours et il te faut une combinaison d'Armure de combat (pour les membranes de dissipation thermique) et $8 000. Ne t'inquiÃ¨te pas, cette opÃ©ration ne *devrait* entraÃ®ner que des balafres minimes. C'est du moins ce que j'ai lu.}
+{311}{}{Ca a l'air gÃ©nial, Doc. Plus besoin de crÃ¨me solaire aprÃ¨s Ã§a !}
+{312}{}{J'ai une question sur une des autres opÃ©rations, Doc.}
 {313}{}{Je reviendrai lorsque j'aurai plus d'argent, Doc. Au revoir.}
-{314}{}{Je reviendrai lorsque j'aurai trouvé un jeu d'Armure de combat, Doc. Au revoir.}
-{315}{}{J'ai pas vraiment envie de faire ça tout de suite, en fait. Au revoir, Doc.}
-{316}{}{Il te faut les implants de l'armure Phoenix avant d'avoir l'extension Attaque. Mais je peux t'indiquer ses performances. L'extension Attaque t'offre une résistance aux dégâts thermiques (feu, laser et plasma), supérieure de 10% à toute autre armure. L'opération prend quelques jours et coûte $48 000. Et puis ton charisme va en prendre un coup quand j'en aurai fini. Avec tous ces dissipateurs thermiques sous ta peau, tu auras quelques protubérances, un peu comme un mulet trop chargé.}
-{317}{}{L'extension Attaque des implants de l'amure Phoenix t'offre une résistance aux dégâts thermiques (feu, laser et plasma), 10% supérieure à toute autre armure. L'opération prend quelques jours et coûte $48 000. Et puis ton charisme risque d'en prendre un coup lorsque j'en aurai terminé. Avec toutes ces plaques d'implants sous ta peau, tu auras quelques protubérances, un peu comme un mulet trop chargé. L'expérience te tente toujours ?}
-{318}{}{Ca a l'air génial, Doc. Allons-y.}
-{319}{}{J'ai une question sur une des autres opérations, Doc.}
+{314}{}{Je reviendrai lorsque j'aurai trouvÃ© un jeu d'Armure de combat, Doc. Au revoir.}
+{315}{}{J'ai pas vraiment envie de faire Ã§a tout de suite, en fait. Au revoir, Doc.}
+{316}{}{Il te faut les implants de l'armure Phoenix avant d'avoir l'extension Attaque. Mais je peux t'indiquer ses performances. L'extension Attaque t'offre une rÃ©sistance aux dÃ©gÃ¢ts thermiques (feu, laser et plasma), supÃ©rieure de 10% Ã  toute autre armure. L'opÃ©ration prend quelques jours et coÃ»te $48 000. Et puis ton charisme va en prendre un coup quand j'en aurai fini. Avec tous ces dissipateurs thermiques sous ta peau, tu auras quelques protubÃ©rances, un peu comme un mulet trop chargÃ©.}
+{317}{}{L'extension Attaque des implants de l'amure Phoenix t'offre une rÃ©sistance aux dÃ©gÃ¢ts thermiques (feu, laser et plasma), 10% supÃ©rieure Ã  toute autre armure. L'opÃ©ration prend quelques jours et coÃ»te $48 000. Et puis ton charisme risque d'en prendre un coup lorsque j'en aurai terminÃ©. Avec toutes ces plaques d'implants sous ta peau, tu auras quelques protubÃ©rances, un peu comme un mulet trop chargÃ©. L'expÃ©rience te tente toujours ?}
+{318}{}{Ca a l'air gÃ©nial, Doc. Allons-y.}
+{319}{}{J'ai une question sur une des autres opÃ©rations, Doc.}
 {320}{}{Je reviendrai lorsque j'aurai plus d'argent, Doc. Au revoir.}
-{321}{}{Je reviendrai lorsque j'aurai trouvé un jeu d'Armure de combat, Doc. Au revoir.}
-{322}{}{J'ai pas vraiment envie de faire ça tout de suite, en fait. Au revoir, Doc.}
-{323}{}{Voilà, ça devrait aller. L'opération a réussi sur toute la ligne. Tu ne dois pas t'inquiéter des coups et des bleus. Ce gonflement et cette sensibilité disparaîtront en quelques jours.}
-{324}{}{Je ne pensais pas que ta peau pourrait loger tant de ces plaques d'impacts, mais tes ennemis n'ont qu'a bien se tenir maintenant. Non seulement tu ressembles à Frankenstein, mais tu devrais avoir autant de force que lui. Euh, essaie d'éviter le soleil tant que tes croûtes ne seront pas tombées.}
-{325}{}{Ca s'est assez bien passé, de mon point de vue. L'armure Phoenix s'est implantée beaucoup plus facilement que je l'avais prévu. Cette sensation de brûlure et de démangeaison disparaîtra probablement dans quelques semaines... Lorsque tes entrailles se seront habituées aux fibres.}
-{326}{}{On reprend connaissance, allez... Tu regorges de radiateurs thermiques et de membranes de dissipation. Ces protubérances auront disparu dans quelques semaines, mais ne compte pas non plus gagner un concours de beauté. Essaie de ne pas trop toucher les croûtes de pus près des incisions tant qu'elles n'ont pas cessé de suppurer.}
+{321}{}{Je reviendrai lorsque j'aurai trouvÃ© un jeu d'Armure de combat, Doc. Au revoir.}
+{322}{}{J'ai pas vraiment envie de faire Ã§a tout de suite, en fait. Au revoir, Doc.}
+{323}{}{VoilÃ , Ã§a devrait aller. L'opÃ©ration a rÃ©ussi sur toute la ligne. Tu ne dois pas t'inquiÃ©ter des coups et des bleus. Ce gonflement et cette sensibilitÃ© disparaÃ®tront en quelques jours.}
+{324}{}{Je ne pensais pas que ta peau pourrait loger tant de ces plaques d'impacts, mais tes ennemis n'ont qu'a bien se tenir maintenant. Non seulement tu ressembles Ã  Frankenstein, mais tu devrais avoir autant de force que lui. Euh, essaie d'Ã©viter le soleil tant que tes croÃ»tes ne seront pas tombÃ©es.}
+{325}{}{Ca s'est assez bien passÃ©, de mon point de vue. L'armure Phoenix s'est implantÃ©e beaucoup plus facilement que je l'avais prÃ©vu. Cette sensation de brÃ»lure et de dÃ©mangeaison disparaÃ®tra probablement dans quelques semaines... Lorsque tes entrailles se seront habituÃ©es aux fibres.}
+{326}{}{On reprend connaissance, allez... Tu regorges de radiateurs thermiques et de membranes de dissipation. Ces protubÃ©rances auront disparu dans quelques semaines, mais ne compte pas non plus gagner un concours de beautÃ©. Essaie de ne pas trop toucher les croÃ»tes de pus prÃ¨s des incisions tant qu'elles n'ont pas cessÃ© de suppurer.}
 {327}{}{Merci du conseil, Doc. C'est super. Eh, est-ce que je peux te demander autre chose ?}
 {328}{}{Merci pour ce travail de pro, Doc. Mieux vaut que je file. Au revoir !}
-{329}{}{Tu as délivré l'antidote au Jet au Doc Johnson.}
+{329}{}{Tu as dÃ©livrÃ© l'antidote au Jet au Doc Johnson.}

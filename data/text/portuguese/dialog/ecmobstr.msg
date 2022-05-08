@@ -1,15 +1,15 @@
-{100}{}{Você vê um mafioso.}
+{100}{}{VocÃª vÃª um mafioso.}
 {101}{}{Bem, bem o que temos aqui?}
-{102}{}{Simples viajantes, hein? Não há tal coisa. Você precisa de ajuda com algum de seus objetos de valor? }
-{103}{}{- Olhe por onde você está andando em torno de Reno, ou você vai se machucar. Ficar fora do caminho.}
-{104}{}{Olá, }
+{102}{}{Simples viajantes, hein? NÃ£o hÃ¡ tal coisa. VocÃª precisa de ajuda com algum de seus objetos de valor? }
+{103}{}{- Olhe por onde vocÃª estÃ¡ andando em torno de Reno, ou vocÃª vai se machucar. Ficar fora do caminho.}
+{104}{}{OlÃ¡, }
 {105}{}{.}
-{106}{}{O que você está fazendo aqui, }
+{106}{}{O que vocÃª estÃ¡ fazendo aqui, }
 {107}{}{?}
-{108}{}{Nós estávamos apenas saindo para verificar você,}
+{108}{}{NÃ³s estÃ¡vamos apenas saindo para verificar vocÃª,}
 {109}{}{. Bom dia de hoje, hein, }
 {110}{}{?}
-{111}{}{Você veio aqui para ficar longe de tudo, }
+{111}{}{VocÃª veio aqui para ficar longe de tudo, }
 {112}{}{? }
-{113}{}{ queria saber o que você estava aprontando, }
+{113}{}{ queria saber o que vocÃª estava aprontando, }
 {114}{}{.}

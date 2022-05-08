@@ -1,235 +1,235 @@
-{100}{}{Widzisz Du¿ego Jesusa Mordino.}
-{150}{}{Widzisz t³ustego mê¿czyznê z zapadniêtymi, czarnymi oczami. Ciê¿ko oddycha i jest ca³y spocony.}
-{151}{}{Widzisz Du¿ego Jesusa Mordino. Ciê¿ko oddycha i ca³y siê poci.}
-{200}{}{Zabieraj siê od tego.}
-{201}{}{To nie... nale¿y do ciebie.}
-{202}{}{Dotknij tego jeszcze raz, a... wyl¹dujesz na Golgocie.}
+{100}{}{Widzisz DuÅ¼ego Jesusa Mordino.}
+{150}{}{Widzisz tÅ‚ustego mÄ™Å¼czyznÄ™ z zapadniÄ™tymi, czarnymi oczami. CiÄ™Å¼ko oddycha i jest caÅ‚y spocony.}
+{151}{}{Widzisz DuÅ¼ego Jesusa Mordino. CiÄ™Å¼ko oddycha i caÅ‚y siÄ™ poci.}
+{200}{}{Zabieraj siÄ™ od tego.}
+{201}{}{To nie... naleÅ¼y do ciebie.}
+{202}{}{Dotknij tego jeszcze raz, a... wylÄ…dujesz na Golgocie.}
 {210}{}{::Fiuu::}
 {211}{}{*Kaszle* *Kaszle*}
-{212}{}{::Ociera pot z czo³a.::}
-{220}{}{Jesteœ... *kaszel*... moim najbardziej wartoœciowym cz³owiekiem.}
-{221}{}{Czy ludnoœæ Reno okazuje ci... *kaszel*... w³aœciwy szacunek?}
+{212}{}{::Ociera pot z czoÅ‚a.::}
+{220}{}{JesteÅ›... *kaszel*... moim najbardziej wartoÅ›ciowym czÅ‚owiekiem.}
+{221}{}{Czy ludnoÅ›Ä‡ Reno okazuje ci... *kaszel*... wÅ‚aÅ›ciwy szacunek?}
 {230}{}{Urgggg...}
 {231}{}{...Dios mio...}
 {232}{}{...moje serce...}
 {233}{}{Harrkkkk}
-{240}{}{(Mê¿czyzna odwraca siê w twoj¹ stronê. Wygl¹da jakby chorowa³ na febrê: pot p³ynie stru¿kami po jego twarzy i plami jego ubranie. }
-{241}{}{Ignoruje ciê i gapi siê na Myrona. Wygl¹da na to, ¿e czeka, a¿ Myron coœ powie.)}
-{242}{}{Gapi siê na ciebie. Wygl¹da na to, ¿e czeka, a¿ coœ powiesz.)}
-{243}{}{[Odwzajemnij mu siê swoim najstraszniejszym spojrzeniem.]}
-{244}{}{[Odwzajemnij mu siê doœæ obojêtnym spojrzeniem.]}
-{245}{}{[Odwzajemnij mu siê szyderczym wœlipianiem.]}
-{246}{}{[Odwzajemnij mu siê spojrzeniem wyra¿aj¹cym udawany brak zainteresowania.]}
-{247}{}{[OdejdŸ]}
-{248}{}{Kim jesteœ?}
-{249}{}{To ty jesteœ Jesus Mordino?}
-{250}{}{Przepraszam. To chyba nie ten pokój.}
-{260}{}{Ty. (Mordino spogl¹da na Myrona, gdy ten wchodzi, a z oczu ciska czarne b³yskawice.) Opuœci³eœ... swój posterunek. Twoja PRZYDATNOŒÆ dla mnie jest... ¿adna. (Wykonuje gest, na który jego ochroniarze siêgaj¹ po broñ.)}
-{261}{}{(Oczy mê¿czyzny ciemniej¹. Wykonuje gest, na który jego ochroniarze siêgaj¹ po broñ.)}
-{262}{}{(Oczy Du¿ego Jesusa czerniej¹. Wykonuje gest, na który jego ochroniarze siêgaj¹ po broñ.)}
+{240}{}{(MÄ™Å¼czyzna odwraca siÄ™ w twojÄ… stronÄ™. WyglÄ…da jakby chorowaÅ‚ na febrÄ™: pot pÅ‚ynie struÅ¼kami po jego twarzy i plami jego ubranie. }
+{241}{}{Ignoruje ciÄ™ i gapi siÄ™ na Myrona. WyglÄ…da na to, Å¼e czeka, aÅ¼ Myron coÅ› powie.)}
+{242}{}{Gapi siÄ™ na ciebie. WyglÄ…da na to, Å¼e czeka, aÅ¼ coÅ› powiesz.)}
+{243}{}{[Odwzajemnij mu siÄ™ swoim najstraszniejszym spojrzeniem.]}
+{244}{}{[Odwzajemnij mu siÄ™ doÅ›Ä‡ obojÄ™tnym spojrzeniem.]}
+{245}{}{[Odwzajemnij mu siÄ™ szyderczym wÅ›lipianiem.]}
+{246}{}{[Odwzajemnij mu siÄ™ spojrzeniem wyraÅ¼ajÄ…cym udawany brak zainteresowania.]}
+{247}{}{[OdejdÅº]}
+{248}{}{Kim jesteÅ›?}
+{249}{}{To ty jesteÅ› Jesus Mordino?}
+{250}{}{Przepraszam. To chyba nie ten pokÃ³j.}
+{260}{}{Ty. (Mordino spoglÄ…da na Myrona, gdy ten wchodzi, a z oczu ciska czarne bÅ‚yskawice.) OpuÅ›ciÅ‚eÅ›... swÃ³j posterunek. Twoja PRZYDATNOÅšÄ† dla mnie jest... Å¼adna. (Wykonuje gest, na ktÃ³ry jego ochroniarze siÄ™gajÄ… po broÅ„.)}
+{261}{}{(Oczy mÄ™Å¼czyzny ciemniejÄ…. Wykonuje gest, na ktÃ³ry jego ochroniarze siÄ™gajÄ… po broÅ„.)}
+{262}{}{(Oczy DuÅ¼ego Jesusa czerniejÄ…. Wykonuje gest, na ktÃ³ry jego ochroniarze siÄ™gajÄ… po broÅ„.)}
 {263}{}{Eijaaaaaa!}
-{264}{}{Do³¹cz do zabawy!}
-{265}{}{Uciekaæ!}
+{264}{}{DoÅ‚Ä…cz do zabawy!}
+{265}{}{UciekaÄ‡!}
 {266}{}{Hola! Hola...!}
-{267}{}{Hej! Poczekaj chwilê...!}
-{268}{}{Chcesz TROCHÊ, *Grubasie*?! No, CHCESZ TROCHÊ, }
-{275}{}{(Mê¿czyzna mówi chrapliwym g³osem) Jes... tem Jesus Mordino. A ty... bêdziesz zwracaæ siê do mnie SENOR Mordino. (Stru¿ka potu sp³ywa po jego czole) Z jak¹... sprawa do mnie przychodzisz?}
-{276}{}{Jesteœ... z powrotem. (Stru¿k¹ potu sp³ywa po jego czole) Z jak¹... spraw¹ do mnie przychodzisz?}
+{267}{}{Hej! Poczekaj chwilÄ™...!}
+{268}{}{Chcesz TROCHÄ˜, *Grubasie*?! No, CHCESZ TROCHÄ˜, }
+{275}{}{(MÄ™Å¼czyzna mÃ³wi chrapliwym gÅ‚osem) Jes... tem Jesus Mordino. A ty... bÄ™dziesz zwracaÄ‡ siÄ™ do mnie SENOR Mordino. (StruÅ¼ka potu spÅ‚ywa po jego czole) Z jakÄ…... sprawa do mnie przychodzisz?}
+{276}{}{JesteÅ›... z powrotem. (StruÅ¼kÄ… potu spÅ‚ywa po jego czole) Z jakÄ…... sprawÄ… do mnie przychodzisz?}
 {277}{}{Szukam pracy.}
-{278}{}{Pañski syn rozmawia³ ze mn¹ Senor Mordino. Szukam pracy.}
-{279}{}{Pañski syn rozmawia³ ze mn¹ Senor Mordino. Zajmuje siê handlem niewolnikami i szukam kogoœ, kto chcia³by ich kupiæ.}
-{280}{}{Wiesz coœ o œmierci syna Wrightów?}
-{281}{}{Czy zaduch ci przeszkadza? Wygl¹dasz jakbyœ... Ÿle siê czu³.}
-{282}{}{Dziœ nie mam ¿adnych spraw. Muszê ju¿ iœæ.}
-{290}{}{(Przygl¹da ci siê d³u¿szy czas, po czym potrz¹sa g³ow¹) Ty... nie wygl¹dasz na dostatecznie SILNEGO cz³owieka. Nie mam dla ciebie pracy.}
-{291}{}{(Przygl¹da ci siê d³u¿szy czas, po czym potrz¹sa g³ow¹) Ty... jesteœ KOBIET¥. To nie jest praca dla kobiety.}
-{292}{}{Daj mi szansê. Daj mi pracê - jak¹kolwiek pracê - poradzê sobie.}
-{293}{}{Proszê daæ mi szansê, Senor Mordino. Proszê daæ mi pracê, jak¹kolwiek pracê, a poradzê sobie.}
-{294}{}{Pozwól mi dowieœæ swojej wartoœci. Dam sobie radê.}
-{295}{}{Proszê pozwoliæ mi dowieœæ swojej wartoœci Senor Mordino. Dam sobie radê.}
-{296}{}{Dobrze wiêc. Zobaczymy siê póŸniej.}
-{305}{}{(Pot sp³ywa po twarzy Mordino. Jej wyraz staje siê groŸny) Prze... mówi³em. Nie mam dla ciebie ¯ADNEJ pracy. OdejdŸ... i NIE wracaj.}
-{306}{}{Daj spokój Du¿y Jesusie... tylko jedn¹ szansê...}
-{307}{}{No dobrze. ¯egnam.}
-{315}{}{(Mordino milczy przez chwilê, po czym przemawia) Jestem Jesus Mordino. G³owa rodziny Mordino. Przychodzisz do... mojego kasyna. Do mojego domu. Nie okazujesz mi... ¿adnego szacunku. Czas na NAUCZKE.}
-{316}{}{Myœlê, ¿e to TY dostaniesz zaraz nauczkê...}
-{317}{}{Hola! Zaczekaj... pogadajmy o tym! No, nie b¹dŸmy tacy...}
-{318}{}{Biegnij w stronê drzwi.}
-{319}{}{::Zanurkuj w stronê najbli¿szej zas³ony, wyci¹gnij bronie w zwolnionym tempie, w czasie gdy zbiry wyskakuj¹ zza przepierzenia.::}
-{325}{}{(Mordino czeka. Gdy tak na niego patrzysz, kolejna stru¿ka potu sp³ywa po jego twarzy.)}
-{326}{}{Chcê sprzedaæ kilku niewolników...}
-{327}{}{Co wiesz o œmierci Richarda Wrighta?}
-{329}{}{Niewa¿ne.}
-{335}{}{(Przygl¹da ci siê) Nie... znam ciê, ale ciê... wys³ucham. (Ociera pot z czo³a) }
-{336}{}{Masz niewolników na sprzeda¿?}
-{337}{}{Tak, mam ich przy sobie. Przyjrzyj siê i podaj ofertê.}
-{338}{}{Nie, nie mam. W³aœciwie zasz³a pomy³ka. Szukam pracy, a nie kupca.}
-{339}{}{Nie... w³aœciwie to chcê zadaæ ci kilka pytañ.}
-{340}{}{Nie, przepraszam. W³aœnie przypomnia³o mi siê, ¿e muszê pójœæ... gdzieœ... po coœ do czegoœ.}
-{345}{}{(Mordino przygl¹da siê twojemu towarzystwu. Spogl¹da na Miriê i oblizuje wargi) Twoja kicia wygl¹da œwie¿o... dam ci za ni¹ 250 dolców.}
-{346}{}{(Mordino przygl¹da siê twojemu towarzystwu. Spogl¹da na Davina) Wezmê tego ch³opca, choæ wygl¹da na s³abego. 200 Dolców to chyba dobra cena za niego.}
-{347}{}{(Mordino przygl¹da siê twojemu towarzystwu. Spogl¹da na Sulika... i marszczy nos) Dzikus... œmierdzi, ale wygl¹da na silnego. Wezmê go za 100 dolców.}
-{348}{}{(Mordino przygl¹da siê twojemu towarzystwu. Spogl¹da na Vica) Wezmê tego starego cz³owieka... wygl¹da, jakby mi¹³ za sob¹ kilka lat pracy. Wezmê go za 100 dolców.}
-{349}{}{(Mordino przygl¹da siê twojemu towarzystwu. Spogl¹da na Cassidy'ego) Wezmê tego starego cz³owieka... wygl¹da, jakby mia³ za sob¹ kilka lat pracy. Wezmê go za 100 dolców.}
-{350}{}{(Wzrok Mordina momentalnie zatrzymuje siê na Robomózgu) Ta maszyna. Dam ci za ni¹ 500 dolców.}
-{351}{}{(Wzrok Mordina momentalnie zatrzymuje siê na cyberpsie) Kupiê od ciebie tego... mechanicznego psa. Dam ci za niego 500 dolców.}
-{352}{}{(Mordino przygl¹da siê twojemu towarzystwu, po czym potrz¹sa g³ow¹) Nie masz nic, czego bym chcia³.}
-{353}{}{Senor Mordino, proszê... ten towar jest wart DU¯O wiêcej, ni¿ pan oferuje. Ma przed sob¹ jeszcze wiele lat wiernej s³u¿by.}
-{354}{}{To dobra cena. Towar jest twój.}
-{355}{}{W³aœciwie to nie chcê jeszcze tego sprzedawaæ. Mam za to kilka pytañ.}
-{356}{}{W³aœciwie to nie chcê jeszcze tego sprzedawaæ. Mo¿e dogadamy siê innym razem.}
-{357}{}{Dobrze. Mam jednak kilka pytañ...}
-{358}{}{Dobrze. Mo¿e wiêc kiedy indziej, gdy zdobêdê lepsze towary.}
-{370}{}{Nie. Ma za sob¹ ciê¿ka i d³ug¹ podró¿, wygl¹da na zmêczon¹... 250 dolców za ni¹, albo nic.}
-{371}{}{Ch³opiec wygl¹da na s³abego i miêkkiego. Nie dam za niego wiêcej ni¿ 200 dolców.}
-{372}{}{Nie. Dzikus œmierdzi i wygl¹da na... trudnego. Ciê¿ko bêdzie go z³amaæ. 100 dolców.}
-{373}{}{Ten cz³owiek jest stary. Wezmê go za 100 dolców.}
-{375}{}{Nie. 500 dolców.}
-{377}{}{Senor Mordino, proszê... to dla mnie prawie obraza. To jest towar najlepszej jakoœci, wart du¿o wiêcej ni¿ tyle.}
-{390}{}{(Mordino obchodzi Mirie dooko³a, uwa¿nie przygl¹da siê jej twarzy, potem klepie ja po ty³ku.) Hmmmm. A wiêc 500 dolców.}
-{391}{}{(Mordino obchodzi Danina dooko³a, podwija rêkaw jego koszuli i sprawdza miêsnie, potem zag³ada w oczy, by sprawdziæ, czy ch³opak za¿ywa³ narkotyki.) Hmmmm. Wygl¹da na wystarczaj¹co silnego. A wiêc - 400 dolców.}
-{392}{}{(Mordino marszcz¹c siê obchodzi Sulika dooko³a) Hmmmm. Wygl¹da na silnego... i wytrzyma³ego na ból, s¹dz¹c po tej koœci w jego nosie. 200 dolców za niego.}
-{393}{}{(Mordino marszcz¹c siê odchodzi Vica dooko³a) Hmmmm. Wezmê go za 200 dolców. Nie wiêcej.}
-{394}{}{(Mordino marszcz¹c siê odchodzi Cassidy'ego dooko³a) Hmmmm. Wezmê go za 200 dolców. Nie wiêcej.}
-{395}{}{(Mordino ogl¹da Robomózg przez kilka minut) Niech bêdzie tysi¹c dolców.}
-{396}{}{(Mordino ogl¹da cyberpsa przez kilka minut) Niech bêdzie tysi¹c dolców.}
-{410}{}{(Miria zostaje wyprowadzona z pokoju, w czasie gdy Mordino liczy pieni¹dze.) Proszê.}
-{411}{}{(Davin zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieni¹dze.) Proszê.}
-{412}{}{(Sulik zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieni¹dze.) Proszê.}
-{413}{}{(Vic zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieni¹dze.) Proszê.}
-{414}{}{(Cassidy zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieni¹dze.) Proszê.}
-{415}{}{(Robomózg zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieni¹dze.) Proszê.}
-{416}{}{(Cyberpies zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieni¹dze.) Proszê.}
-{417}{}{Czy chcia³byœ zobaczyæ, co jeszcze mam na sk³adzie?}
-{418}{}{Dziêkujê Senor Mordino. Przy okazji, jest kilka rzeczy, o które chcê zapytaæ...}
-{419}{}{Dziêkujê Senor Mordino. Mam nadziejê, ¿e towar bêdzie dobrze s³u¿yæ. Do widzenia.}
-{430}{}{(Pot œcieka po twarzy Mordina. Jej wyraz staje siê groŸny) Jesteœ kundlem i SYNEM kundla. Nie kupiê nic od kogoœ takiego jak ty. OdejdŸ... i nie wracaj.}
-{431}{}{Senor Mordino, proszê... proszê to jeszcze raz przemyœleæ...}
-{432}{}{(OdejdŸ w ciszy.)}
-{440}{}{(Mordino przygl¹da ci siê) Dobrze. Mam... dla ciebie zadanie. WeŸ... (ciê¿ko sapi¹c bierze g³êboki wdech i wyciera pot z czo³a) ...t¹ paczkê... do *Stajni* na pó³noc od Reno. Daj to cz³owiekowi... o imieniu Ramirez i wróæ tutaj.}
-{441}{}{Dobra. To wygl¹da na proste zadanie.}
-{442}{}{Idê tam w tej chwili, Senor Mordino.}
+{278}{}{PaÅ„ski syn rozmawiaÅ‚ ze mnÄ… Senor Mordino. Szukam pracy.}
+{279}{}{PaÅ„ski syn rozmawiaÅ‚ ze mnÄ… Senor Mordino. Zajmuje siÄ™ handlem niewolnikami i szukam kogoÅ›, kto chciaÅ‚by ich kupiÄ‡.}
+{280}{}{Wiesz coÅ› o Å›mierci syna WrightÃ³w?}
+{281}{}{Czy zaduch ci przeszkadza? WyglÄ…dasz jakbyÅ›... Åºle siÄ™ czuÅ‚.}
+{282}{}{DziÅ› nie mam Å¼adnych spraw. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{290}{}{(PrzyglÄ…da ci siÄ™ dÅ‚uÅ¼szy czas, po czym potrzÄ…sa gÅ‚owÄ…) Ty... nie wyglÄ…dasz na dostatecznie SILNEGO czÅ‚owieka. Nie mam dla ciebie pracy.}
+{291}{}{(PrzyglÄ…da ci siÄ™ dÅ‚uÅ¼szy czas, po czym potrzÄ…sa gÅ‚owÄ…) Ty... jesteÅ› KOBIETÄ„. To nie jest praca dla kobiety.}
+{292}{}{Daj mi szansÄ™. Daj mi pracÄ™ - jakÄ…kolwiek pracÄ™ - poradzÄ™ sobie.}
+{293}{}{ProszÄ™ daÄ‡ mi szansÄ™, Senor Mordino. ProszÄ™ daÄ‡ mi pracÄ™, jakÄ…kolwiek pracÄ™, a poradzÄ™ sobie.}
+{294}{}{PozwÃ³l mi dowieÅ›Ä‡ swojej wartoÅ›ci. Dam sobie radÄ™.}
+{295}{}{ProszÄ™ pozwoliÄ‡ mi dowieÅ›Ä‡ swojej wartoÅ›ci Senor Mordino. Dam sobie radÄ™.}
+{296}{}{Dobrze wiÄ™c. Zobaczymy siÄ™ pÃ³Åºniej.}
+{305}{}{(Pot spÅ‚ywa po twarzy Mordino. Jej wyraz staje siÄ™ groÅºny) Prze... mÃ³wiÅ‚em. Nie mam dla ciebie Å»ADNEJ pracy. OdejdÅº... i NIE wracaj.}
+{306}{}{Daj spokÃ³j DuÅ¼y Jesusie... tylko jednÄ… szansÄ™...}
+{307}{}{No dobrze. Å»egnam.}
+{315}{}{(Mordino milczy przez chwilÄ™, po czym przemawia) Jestem Jesus Mordino. GÅ‚owa rodziny Mordino. Przychodzisz do... mojego kasyna. Do mojego domu. Nie okazujesz mi... Å¼adnego szacunku. Czas na NAUCZKE.}
+{316}{}{MyÅ›lÄ™, Å¼e to TY dostaniesz zaraz nauczkÄ™...}
+{317}{}{Hola! Zaczekaj... pogadajmy o tym! No, nie bÄ…dÅºmy tacy...}
+{318}{}{Biegnij w stronÄ™ drzwi.}
+{319}{}{::Zanurkuj w stronÄ™ najbliÅ¼szej zasÅ‚ony, wyciÄ…gnij bronie w zwolnionym tempie, w czasie gdy zbiry wyskakujÄ… zza przepierzenia.::}
+{325}{}{(Mordino czeka. Gdy tak na niego patrzysz, kolejna struÅ¼ka potu spÅ‚ywa po jego twarzy.)}
+{326}{}{ChcÄ™ sprzedaÄ‡ kilku niewolnikÃ³w...}
+{327}{}{Co wiesz o Å›mierci Richarda Wrighta?}
+{329}{}{NiewaÅ¼ne.}
+{335}{}{(PrzyglÄ…da ci siÄ™) Nie... znam ciÄ™, ale ciÄ™... wysÅ‚ucham. (Ociera pot z czoÅ‚a) }
+{336}{}{Masz niewolnikÃ³w na sprzedaÅ¼?}
+{337}{}{Tak, mam ich przy sobie. Przyjrzyj siÄ™ i podaj ofertÄ™.}
+{338}{}{Nie, nie mam. WÅ‚aÅ›ciwie zaszÅ‚a pomyÅ‚ka. Szukam pracy, a nie kupca.}
+{339}{}{Nie... wÅ‚aÅ›ciwie to chcÄ™ zadaÄ‡ ci kilka pytaÅ„.}
+{340}{}{Nie, przepraszam. WÅ‚aÅ›nie przypomniaÅ‚o mi siÄ™, Å¼e muszÄ™ pÃ³jÅ›Ä‡... gdzieÅ›... po coÅ› do czegoÅ›.}
+{345}{}{(Mordino przyglÄ…da siÄ™ twojemu towarzystwu. SpoglÄ…da na MiriÄ™ i oblizuje wargi) Twoja kicia wyglÄ…da Å›wieÅ¼o... dam ci za niÄ… 250 dolcÃ³w.}
+{346}{}{(Mordino przyglÄ…da siÄ™ twojemu towarzystwu. SpoglÄ…da na Davina) WezmÄ™ tego chÅ‚opca, choÄ‡ wyglÄ…da na sÅ‚abego. 200 DolcÃ³w to chyba dobra cena za niego.}
+{347}{}{(Mordino przyglÄ…da siÄ™ twojemu towarzystwu. SpoglÄ…da na Sulika... i marszczy nos) Dzikus... Å›mierdzi, ale wyglÄ…da na silnego. WezmÄ™ go za 100 dolcÃ³w.}
+{348}{}{(Mordino przyglÄ…da siÄ™ twojemu towarzystwu. SpoglÄ…da na Vica) WezmÄ™ tego starego czÅ‚owieka... wyglÄ…da, jakby miÄ…Å‚ za sobÄ… kilka lat pracy. WezmÄ™ go za 100 dolcÃ³w.}
+{349}{}{(Mordino przyglÄ…da siÄ™ twojemu towarzystwu. SpoglÄ…da na Cassidy'ego) WezmÄ™ tego starego czÅ‚owieka... wyglÄ…da, jakby miaÅ‚ za sobÄ… kilka lat pracy. WezmÄ™ go za 100 dolcÃ³w.}
+{350}{}{(Wzrok Mordina momentalnie zatrzymuje siÄ™ na RobomÃ³zgu) Ta maszyna. Dam ci za niÄ… 500 dolcÃ³w.}
+{351}{}{(Wzrok Mordina momentalnie zatrzymuje siÄ™ na cyberpsie) KupiÄ™ od ciebie tego... mechanicznego psa. Dam ci za niego 500 dolcÃ³w.}
+{352}{}{(Mordino przyglÄ…da siÄ™ twojemu towarzystwu, po czym potrzÄ…sa gÅ‚owÄ…) Nie masz nic, czego bym chciaÅ‚.}
+{353}{}{Senor Mordino, proszÄ™... ten towar jest wart DUÅ»O wiÄ™cej, niÅ¼ pan oferuje. Ma przed sobÄ… jeszcze wiele lat wiernej sÅ‚uÅ¼by.}
+{354}{}{To dobra cena. Towar jest twÃ³j.}
+{355}{}{WÅ‚aÅ›ciwie to nie chcÄ™ jeszcze tego sprzedawaÄ‡. Mam za to kilka pytaÅ„.}
+{356}{}{WÅ‚aÅ›ciwie to nie chcÄ™ jeszcze tego sprzedawaÄ‡. MoÅ¼e dogadamy siÄ™ innym razem.}
+{357}{}{Dobrze. Mam jednak kilka pytaÅ„...}
+{358}{}{Dobrze. MoÅ¼e wiÄ™c kiedy indziej, gdy zdobÄ™dÄ™ lepsze towary.}
+{370}{}{Nie. Ma za sobÄ… ciÄ™Å¼ka i dÅ‚ugÄ… podrÃ³Å¼, wyglÄ…da na zmÄ™czonÄ…... 250 dolcÃ³w za niÄ…, albo nic.}
+{371}{}{ChÅ‚opiec wyglÄ…da na sÅ‚abego i miÄ™kkiego. Nie dam za niego wiÄ™cej niÅ¼ 200 dolcÃ³w.}
+{372}{}{Nie. Dzikus Å›mierdzi i wyglÄ…da na... trudnego. CiÄ™Å¼ko bÄ™dzie go zÅ‚amaÄ‡. 100 dolcÃ³w.}
+{373}{}{Ten czÅ‚owiek jest stary. WezmÄ™ go za 100 dolcÃ³w.}
+{375}{}{Nie. 500 dolcÃ³w.}
+{377}{}{Senor Mordino, proszÄ™... to dla mnie prawie obraza. To jest towar najlepszej jakoÅ›ci, wart duÅ¼o wiÄ™cej niÅ¼ tyle.}
+{390}{}{(Mordino obchodzi Mirie dookoÅ‚a, uwaÅ¼nie przyglÄ…da siÄ™ jej twarzy, potem klepie ja po tyÅ‚ku.) Hmmmm. A wiÄ™c 500 dolcÃ³w.}
+{391}{}{(Mordino obchodzi Danina dookoÅ‚a, podwija rÄ™kaw jego koszuli i sprawdza miÄ™snie, potem zagÅ‚ada w oczy, by sprawdziÄ‡, czy chÅ‚opak zaÅ¼ywaÅ‚ narkotyki.) Hmmmm. WyglÄ…da na wystarczajÄ…co silnego. A wiÄ™c - 400 dolcÃ³w.}
+{392}{}{(Mordino marszczÄ…c siÄ™ obchodzi Sulika dookoÅ‚a) Hmmmm. WyglÄ…da na silnego... i wytrzymaÅ‚ego na bÃ³l, sÄ…dzÄ…c po tej koÅ›ci w jego nosie. 200 dolcÃ³w za niego.}
+{393}{}{(Mordino marszczÄ…c siÄ™ odchodzi Vica dookoÅ‚a) Hmmmm. WezmÄ™ go za 200 dolcÃ³w. Nie wiÄ™cej.}
+{394}{}{(Mordino marszczÄ…c siÄ™ odchodzi Cassidy'ego dookoÅ‚a) Hmmmm. WezmÄ™ go za 200 dolcÃ³w. Nie wiÄ™cej.}
+{395}{}{(Mordino oglÄ…da RobomÃ³zg przez kilka minut) Niech bÄ™dzie tysiÄ…c dolcÃ³w.}
+{396}{}{(Mordino oglÄ…da cyberpsa przez kilka minut) Niech bÄ™dzie tysiÄ…c dolcÃ³w.}
+{410}{}{(Miria zostaje wyprowadzona z pokoju, w czasie gdy Mordino liczy pieniÄ…dze.) ProszÄ™.}
+{411}{}{(Davin zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieniÄ…dze.) ProszÄ™.}
+{412}{}{(Sulik zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieniÄ…dze.) ProszÄ™.}
+{413}{}{(Vic zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieniÄ…dze.) ProszÄ™.}
+{414}{}{(Cassidy zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieniÄ…dze.) ProszÄ™.}
+{415}{}{(RobomÃ³zg zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieniÄ…dze.) ProszÄ™.}
+{416}{}{(Cyberpies zostaje wyprowadzony z pokoju, w czasie gdy Mordino liczy pieniÄ…dze.) ProszÄ™.}
+{417}{}{Czy chciaÅ‚byÅ› zobaczyÄ‡, co jeszcze mam na skÅ‚adzie?}
+{418}{}{DziÄ™kujÄ™ Senor Mordino. Przy okazji, jest kilka rzeczy, o ktÃ³re chcÄ™ zapytaÄ‡...}
+{419}{}{DziÄ™kujÄ™ Senor Mordino. Mam nadziejÄ™, Å¼e towar bÄ™dzie dobrze sÅ‚uÅ¼yÄ‡. Do widzenia.}
+{430}{}{(Pot Å›cieka po twarzy Mordina. Jej wyraz staje siÄ™ groÅºny) JesteÅ› kundlem i SYNEM kundla. Nie kupiÄ™ nic od kogoÅ› takiego jak ty. OdejdÅº... i nie wracaj.}
+{431}{}{Senor Mordino, proszÄ™... proszÄ™ to jeszcze raz przemyÅ›leÄ‡...}
+{432}{}{(OdejdÅº w ciszy.)}
+{440}{}{(Mordino przyglÄ…da ci siÄ™) Dobrze. Mam... dla ciebie zadanie. WeÅº... (ciÄ™Å¼ko sapiÄ…c bierze gÅ‚Ä™boki wdech i wyciera pot z czoÅ‚a) ...tÄ… paczkÄ™... do *Stajni* na pÃ³Å‚noc od Reno. Daj to czÅ‚owiekowi... o imieniu Ramirez i wrÃ³Ä‡ tutaj.}
+{441}{}{Dobra. To wyglÄ…da na proste zadanie.}
+{442}{}{IdÄ™ tam w tej chwili, Senor Mordino.}
 {443}{}{Co jest w paczce?}
-{444}{}{Uch, chyba zmieniê zdanie. Myœlê, ¿e dam sobie z tym spokój.}
-{450}{}{Nie... p³acê ci... za zadawanie pytañ.}
-{451}{}{No, wolê wiedzieæ, co niosê, zanim to dostarczê. Czy to jest niebezpieczne?}
-{452}{}{A wiêc niewa¿ne. Zmykam.}
-{460}{}{Skieruj siê na pó³noc wzd³u¿ Alei Dziewic, omiñ kasyna... idŸ wzd³u¿ szlaku, który wychodzi z miasta. Doj... dziesz do Stajni. A teraz ruszaj.}
-{461}{}{(IdŸ wed³ug jego wskazówek...)}
-{470}{}{Czyli... sprawa jest za³atwiona?}
+{444}{}{Uch, chyba zmieniÄ™ zdanie. MyÅ›lÄ™, Å¼e dam sobie z tym spokÃ³j.}
+{450}{}{Nie... pÅ‚acÄ™ ci... za zadawanie pytaÅ„.}
+{451}{}{No, wolÄ™ wiedzieÄ‡, co niosÄ™, zanim to dostarczÄ™. Czy to jest niebezpieczne?}
+{452}{}{A wiÄ™c niewaÅ¼ne. Zmykam.}
+{460}{}{Skieruj siÄ™ na pÃ³Å‚noc wzdÅ‚uÅ¼ Alei Dziewic, omiÅ„ kasyna... idÅº wzdÅ‚uÅ¼ szlaku, ktÃ³ry wychodzi z miasta. Doj... dziesz do Stajni. A teraz ruszaj.}
+{461}{}{(IdÅº wedÅ‚ug jego wskazÃ³wek...)}
+{470}{}{Czyli... sprawa jest zaÅ‚atwiona?}
 {471}{}{Nie, paczka jeszcze nie jest dostarczona.}
-{472}{}{Tak, paczka zosta³a dostarczona do Ramireza, tak jak prosi³eœ.}
-{473}{}{Tak, paczka jest ju¿ w Stajniach... czy wiesz, co oni tam ROBI¥ z ludŸmi? Torturuj¹ niewolników narkotykami.}
-{474}{}{Tak, ten stra¿nik, Ramirez, dosta³ paczkê... wiesz, ¿e ten facet to stary jetowiec? A¿ siê z niego DYMI od Jetu.}
-{480}{}{Wiêc... czemu tu jesteœ? (Du¿y Jesus przeciera czo³o i bierze g³êboki wdech) DLACZEGO przesy³ka nie zosta³a dostarczona?}
-{481}{}{Mam jeszcze kilka pytañ...}
-{482}{}{Wyruszam z ni¹ w tej chwili.}
-{483}{}{Uch, wiesz co? Myœlê, ¿e lepiej zajmê siê ni¹ od razu...}
-{490}{}{(Kiwa g³ow¹) Bardzo dobrze. Oto... twoja zap³ata. Sto... dolców. To... wiêcej, ni¿ siê nale¿y... za proste dostarczenie przesy³ki.}
-{491}{}{Lepiej ni¿ nic, jak s¹dzê.}
-{492}{}{Dziêkujê, Senor Mordino.}
-{500}{}{(Zerka na ciebie ze z³oœci¹. Stru¿ka potu sp³ywa z jego skroni.) To... byd³o. Nic wiêcej.}
-{501}{}{Ty potworze... w³aœnie podpisa³eœ swój wyrok œmierci.}
-{502}{}{Uch... tak tylko pytam. W kwestii zap³aty...}
-{510}{}{Nie mam dla ciebie... wiêcej pracy. (G³ow¹ wskazuje w stronê drzwi) Chce byæ sam. Teraz odejdŸ... i NIE wracaj.}
-{511}{}{Oj, wyluzuj. Na pewno jest JESZCZE jakaœ robota, któr¹ mogê dla ciebie zrobiæ...}
-{512}{}{W porz¹dku.}
-{520}{}{Mam... dla ciebie kolejne zadanie. Potrzebujê kogoœ... (ciê¿ko sapi¹c bierze g³êboki wdech, po czym wyciera pot z czo³a) ...kto odebra³by mój udzia³ od... Braci Corsican. SPÓNIAJ¥ siê ze swoimi nale¿noœciami.}
-{523}{}{Chyba dam sobie spokój. I tak dziêki.}
-{530}{}{Skieruj siê na pó³noc, wzd³u¿ Alei Dziewic. Siedz¹ naprzeciwko hali sportowej... jeœli bêd¹ ci sprawiaæ k³opoty... jeœli bêd¹ siê wykrêcaæ... SKRZYWD ich.}
-{531}{}{Dobra, wchodzê w to.}
-{532}{}{Oczywiœcie, Senor Mordino.}
-{540}{}{Pozwoli³em ci... SKRZYWDZIÆ Braci Corsican. Nie da³em ci zezwolenia... na ZABICIE ich.}
-{541}{}{Hej, pos³uchaj... zaczêli siê rzucaæ, trzeba by³o siê jakoœ broniæ...}
-{542}{}{Mówili brzydkie rzeczy o twojej matce, Du¿y Jesusie. TRZEBA by³o ich zabiæ.}
-{543}{}{Och. Moja pomy³ka.}
-{551}{}{Uch... tak, ale nie mam przy sobie pieniêdzy. Daj mi tylko trochê czasu, a zwrócê ci je.}
-{552}{}{Proszê, oto pieni¹dze.}
+{472}{}{Tak, paczka zostaÅ‚a dostarczona do Ramireza, tak jak prosiÅ‚eÅ›.}
+{473}{}{Tak, paczka jest juÅ¼ w Stajniach... czy wiesz, co oni tam ROBIÄ„ z ludÅºmi? TorturujÄ… niewolnikÃ³w narkotykami.}
+{474}{}{Tak, ten straÅ¼nik, Ramirez, dostaÅ‚ paczkÄ™... wiesz, Å¼e ten facet to stary jetowiec? AÅ¼ siÄ™ z niego DYMI od Jetu.}
+{480}{}{WiÄ™c... czemu tu jesteÅ›? (DuÅ¼y Jesus przeciera czoÅ‚o i bierze gÅ‚Ä™boki wdech) DLACZEGO przesyÅ‚ka nie zostaÅ‚a dostarczona?}
+{481}{}{Mam jeszcze kilka pytaÅ„...}
+{482}{}{Wyruszam z niÄ… w tej chwili.}
+{483}{}{Uch, wiesz co? MyÅ›lÄ™, Å¼e lepiej zajmÄ™ siÄ™ niÄ… od razu...}
+{490}{}{(Kiwa gÅ‚owÄ…) Bardzo dobrze. Oto... twoja zapÅ‚ata. Sto... dolcÃ³w. To... wiÄ™cej, niÅ¼ siÄ™ naleÅ¼y... za proste dostarczenie przesyÅ‚ki.}
+{491}{}{Lepiej niÅ¼ nic, jak sÄ…dzÄ™.}
+{492}{}{DziÄ™kujÄ™, Senor Mordino.}
+{500}{}{(Zerka na ciebie ze zÅ‚oÅ›ciÄ…. StruÅ¼ka potu spÅ‚ywa z jego skroni.) To... bydÅ‚o. Nic wiÄ™cej.}
+{501}{}{Ty potworze... wÅ‚aÅ›nie podpisaÅ‚eÅ› swÃ³j wyrok Å›mierci.}
+{502}{}{Uch... tak tylko pytam. W kwestii zapÅ‚aty...}
+{510}{}{Nie mam dla ciebie... wiÄ™cej pracy. (GÅ‚owÄ… wskazuje w stronÄ™ drzwi) Chce byÄ‡ sam. Teraz odejdÅº... i NIE wracaj.}
+{511}{}{Oj, wyluzuj. Na pewno jest JESZCZE jakaÅ› robota, ktÃ³rÄ… mogÄ™ dla ciebie zrobiÄ‡...}
+{512}{}{W porzÄ…dku.}
+{520}{}{Mam... dla ciebie kolejne zadanie. PotrzebujÄ™ kogoÅ›... (ciÄ™Å¼ko sapiÄ…c bierze gÅ‚Ä™boki wdech, po czym wyciera pot z czoÅ‚a) ...kto odebraÅ‚by mÃ³j udziaÅ‚ od... Braci Corsican. SPÃ“Å¹NIAJÄ„ siÄ™ ze swoimi naleÅ¼noÅ›ciami.}
+{523}{}{Chyba dam sobie spokÃ³j. I tak dziÄ™ki.}
+{530}{}{Skieruj siÄ™ na pÃ³Å‚noc, wzdÅ‚uÅ¼ Alei Dziewic. SiedzÄ… naprzeciwko hali sportowej... jeÅ›li bÄ™dÄ… ci sprawiaÄ‡ kÅ‚opoty... jeÅ›li bÄ™dÄ… siÄ™ wykrÄ™caÄ‡... SKRZYWDÅ¹ ich.}
+{531}{}{Dobra, wchodzÄ™ w to.}
+{532}{}{OczywiÅ›cie, Senor Mordino.}
+{540}{}{PozwoliÅ‚em ci... SKRZYWDZIÄ† Braci Corsican. Nie daÅ‚em ci zezwolenia... na ZABICIE ich.}
+{541}{}{Hej, posÅ‚uchaj... zaczÄ™li siÄ™ rzucaÄ‡, trzeba byÅ‚o siÄ™ jakoÅ› broniÄ‡...}
+{542}{}{MÃ³wili brzydkie rzeczy o twojej matce, DuÅ¼y Jesusie. TRZEBA byÅ‚o ich zabiÄ‡.}
+{543}{}{Och. Moja pomyÅ‚ka.}
+{551}{}{Uch... tak, ale nie mam przy sobie pieniÄ™dzy. Daj mi tylko trochÄ™ czasu, a zwrÃ³cÄ™ ci je.}
+{552}{}{ProszÄ™, oto pieniÄ…dze.}
 {553}{}{Nie, jeszcze nie.}
-{554}{}{Nie, uch, wezmê siê za to w tej chwili.}
-{560}{}{A wiêc... czemu tu jesteœ? (Przeciera czo³o i bierze g³êboki wdech) Dlaczego nie masz pieniêdzy?}
-{561}{}{No bo, widzisz, mam najpierw kilka pytañ...}
-{562}{}{Dobre pytanie. Zabieram siê za to w tej chwili.}
-{570}{}{(Kiwa g³ow¹, gdy dajesz mu pieni¹dze) Proszê. Po³owa... jest twoja. Heh. Ju¿ mi p³acili w tym miesi¹cu, ale lubiê utrzymywaæ ich... w czujnoœci.}
-{571}{}{Och, dziêki, Du¿y Jesusie.}
-{580}{}{(Senor Mordino d³ugo na ciebie patrzy, a potem nieznacznie kiwa g³ow¹) Mam dla ciebie ostatnie zadanie. Pewien (Sapi¹c bierze g³êboki wdech i wyciera pot z czo³a) ...MÊ¯CZYZNA musi umrzeæ.}
-{581}{}{Ju¿ jest martwy. Jak ma na imiê ten trup?}
-{582}{}{Kim jest ten cz³owiek?}
-{583}{}{Kim jest cz³owiek, któremu ¿yczysz œmierci, Senor Mordino?}
-{584}{}{Heej, nikt nie mówi³ nic o zabijaniu. Zapooomnij.}
-{585}{}{Nie mogê podj¹æ siê tego zadania Senor Mordino. Przykro mi. ¯egnam.}
-{595}{}{Przychodzisz do mnie po pracê. Dajê ci... pracê, a ty marudzisz jak BACHOR. (Bierze g³êboki, chrapliwy wdech, po czym kaszle) Nie... nie chcemy ciê ju¿ tutaj... w moim kasynie. OdejdŸ.}
-{596}{}{Przychodzisz do mnie po pracê. Odrzucasz moj¹... ofertê. (Bierze g³êboki, chrapliwy wdech, po czym kaszle) Nie... nie chcemy ciê ju¿ tutaj... w moim kasynie. OdejdŸ.}
-{597}{}{Zanim pójdê, muszê zadaæ ci kilka pytañ...}
-{598}{}{Jeszcze mam ci coœ do POWIEDZENIA, "Du¿y Jesusie".}
-{599}{}{Przepraszam najmocniej, Senor Mordino. Odejdê w tej chwili.}
-{600}{}{Czemu nie ZMUSISZ mnie do odejœcia?}
-{610}{}{Ten cz³owiek, Louis Salvatore... zabi³ wielu moich ludzi... wielu DUMNYCH cz³onków rodziny Mordino. On... zar¿n¹³ ich na ulicy jak... psy. (zaciska d³oñ w pieœæ) Moj¹ wol¹ jest, aby umar³.}
-{611}{}{Jeœli masz pieni¹dze, to ju¿ jest martwy.}
-{612}{}{Jeden moment. Louis Salvatore, który rz¹dzi rodzin¹ Salvatore? T¹, która ma miotacze œwiat³a, które potrafi¹ przeci¹æ cz³owieka na pó³?}
-{613}{}{Postaram siê pomœciæ rodzinê Mordino, Senor. Wrócê, gdy wykonam zadanie.}
-{614}{}{Nie mogê podj¹æ siê tego zadania. Odchodzê.}
-{615}{}{No dobrze. Zrobiê to.}
-{620}{}{Zap³acê ci... gdy Salvatore przestanie oddychaæ.}
-{621}{}{Jeden moment. Louis Salvatore, który rz¹dzi rodzin¹ Salvatore? T¹, która ma miotacze œwiat³a, które potrafi¹ przeci¹æ cz³owieka na pó³?}
-{623}{}{Nie bêdê nadstawiaæ karku za darmo. Zmiatam st¹d.}
-{630}{}{(Mordino kiwa g³ow¹, badaj¹c twój wyraz twarzy) Czy to ciê... przera¿a? Jeœli tak, odejdŸ (Wskazuje drzwi) Rodzina Mordino nie ma po¿ytku... z tchórzy.}
-{631}{}{Nie, zrobiê to.}
-{633}{}{Powiedzmy, ¿e jestem tchórzem, ale lubiê oddychaæ. Dam sobie spokój z t¹ robot¹.}
-{640}{}{(Kiwa g³ow¹) To dobrze. Ten mê¿czyzna to stary... wrak... kryje siê w swoim barze, "U Salvatore'a", niedaleko Kasyna Bishopa. On jest... tchórzem i nigdy nie opuszcza swojego pokoju na piêtrze. Wróæ tu, kiedy... on umrze.}
+{554}{}{Nie, uch, wezmÄ™ siÄ™ za to w tej chwili.}
+{560}{}{A wiÄ™c... czemu tu jesteÅ›? (Przeciera czoÅ‚o i bierze gÅ‚Ä™boki wdech) Dlaczego nie masz pieniÄ™dzy?}
+{561}{}{No bo, widzisz, mam najpierw kilka pytaÅ„...}
+{562}{}{Dobre pytanie. Zabieram siÄ™ za to w tej chwili.}
+{570}{}{(Kiwa gÅ‚owÄ…, gdy dajesz mu pieniÄ…dze) ProszÄ™. PoÅ‚owa... jest twoja. Heh. JuÅ¼ mi pÅ‚acili w tym miesiÄ…cu, ale lubiÄ™ utrzymywaÄ‡ ich... w czujnoÅ›ci.}
+{571}{}{Och, dziÄ™ki, DuÅ¼y Jesusie.}
+{580}{}{(Senor Mordino dÅ‚ugo na ciebie patrzy, a potem nieznacznie kiwa gÅ‚owÄ…) Mam dla ciebie ostatnie zadanie. Pewien (SapiÄ…c bierze gÅ‚Ä™boki wdech i wyciera pot z czoÅ‚a) ...MÄ˜Å»CZYZNA musi umrzeÄ‡.}
+{581}{}{JuÅ¼ jest martwy. Jak ma na imiÄ™ ten trup?}
+{582}{}{Kim jest ten czÅ‚owiek?}
+{583}{}{Kim jest czÅ‚owiek, ktÃ³remu Å¼yczysz Å›mierci, Senor Mordino?}
+{584}{}{Heej, nikt nie mÃ³wiÅ‚ nic o zabijaniu. Zapooomnij.}
+{585}{}{Nie mogÄ™ podjÄ…Ä‡ siÄ™ tego zadania Senor Mordino. Przykro mi. Å»egnam.}
+{595}{}{Przychodzisz do mnie po pracÄ™. DajÄ™ ci... pracÄ™, a ty marudzisz jak BACHOR. (Bierze gÅ‚Ä™boki, chrapliwy wdech, po czym kaszle) Nie... nie chcemy ciÄ™ juÅ¼ tutaj... w moim kasynie. OdejdÅº.}
+{596}{}{Przychodzisz do mnie po pracÄ™. Odrzucasz mojÄ…... ofertÄ™. (Bierze gÅ‚Ä™boki, chrapliwy wdech, po czym kaszle) Nie... nie chcemy ciÄ™ juÅ¼ tutaj... w moim kasynie. OdejdÅº.}
+{597}{}{Zanim pÃ³jdÄ™, muszÄ™ zadaÄ‡ ci kilka pytaÅ„...}
+{598}{}{Jeszcze mam ci coÅ› do POWIEDZENIA, "DuÅ¼y Jesusie".}
+{599}{}{Przepraszam najmocniej, Senor Mordino. OdejdÄ™ w tej chwili.}
+{600}{}{Czemu nie ZMUSISZ mnie do odejÅ›cia?}
+{610}{}{Ten czÅ‚owiek, Louis Salvatore... zabiÅ‚ wielu moich ludzi... wielu DUMNYCH czÅ‚onkÃ³w rodziny Mordino. On... zarÅ¼nÄ…Å‚ ich na ulicy jak... psy. (zaciska dÅ‚oÅ„ w pieÅ›Ä‡) MojÄ… wolÄ… jest, aby umarÅ‚.}
+{611}{}{JeÅ›li masz pieniÄ…dze, to juÅ¼ jest martwy.}
+{612}{}{Jeden moment. Louis Salvatore, ktÃ³ry rzÄ…dzi rodzinÄ… Salvatore? TÄ…, ktÃ³ra ma miotacze Å›wiatÅ‚a, ktÃ³re potrafiÄ… przeciÄ…Ä‡ czÅ‚owieka na pÃ³Å‚?}
+{613}{}{Postaram siÄ™ pomÅ›ciÄ‡ rodzinÄ™ Mordino, Senor. WrÃ³cÄ™, gdy wykonam zadanie.}
+{614}{}{Nie mogÄ™ podjÄ…Ä‡ siÄ™ tego zadania. OdchodzÄ™.}
+{615}{}{No dobrze. ZrobiÄ™ to.}
+{620}{}{ZapÅ‚acÄ™ ci... gdy Salvatore przestanie oddychaÄ‡.}
+{621}{}{Jeden moment. Louis Salvatore, ktÃ³ry rzÄ…dzi rodzinÄ… Salvatore? TÄ…, ktÃ³ra ma miotacze Å›wiatÅ‚a, ktÃ³re potrafiÄ… przeciÄ…Ä‡ czÅ‚owieka na pÃ³Å‚?}
+{623}{}{Nie bÄ™dÄ™ nadstawiaÄ‡ karku za darmo. Zmiatam stÄ…d.}
+{630}{}{(Mordino kiwa gÅ‚owÄ…, badajÄ…c twÃ³j wyraz twarzy) Czy to ciÄ™... przeraÅ¼a? JeÅ›li tak, odejdÅº (Wskazuje drzwi) Rodzina Mordino nie ma poÅ¼ytku... z tchÃ³rzy.}
+{631}{}{Nie, zrobiÄ™ to.}
+{633}{}{Powiedzmy, Å¼e jestem tchÃ³rzem, ale lubiÄ™ oddychaÄ‡. Dam sobie spokÃ³j z tÄ… robotÄ….}
+{640}{}{(Kiwa gÅ‚owÄ…) To dobrze. Ten mÄ™Å¼czyzna to stary... wrak... kryje siÄ™ w swoim barze, "U Salvatore'a", niedaleko Kasyna Bishopa. On jest... tchÃ³rzem i nigdy nie opuszcza swojego pokoju na piÄ™trze. WrÃ³Ä‡ tu, kiedy... on umrze.}
 {641}{}{Wrak?}
 {642}{}{Dobrze.}
-{650}{}{(Kiwa g³ow¹) Nogi tego rzeŸnika... s¹ s³abe. (Jesus wyciera czo³o i bierze kolejny, s³aby wdech) Ma tak¿e... trudnoœci... z oddychaniem. Bierze powietrze przez... maskê tlenow¹.}
-{651}{}{Maskê tlenow¹, tak? Hmmmm. Dobrze.}
-{652}{}{Wrócê, gdy umrze, Senor Mordino.}
-{660}{}{Louis Salvatore ¿yje. Czemu jesteœ z powrotem?}
-{661}{}{(Stru¿ka potu œcieka po twarzy Mordina) Czy zrobiono, o co prosi³em? Louis Salvatore jest martwy?}
-{662}{}{Jest martwy. Twoja rodzina zosta³a pomszczona, Senor Mordino.}
-{663}{}{Nie, wrócê, gdy go zabijê.}
-{664}{}{Salvatore jest zbyt dobrze chroniony. Muszê niestety zrezygnowaæ z tej pracy.}
-{670}{}{Jeœli... uciekniesz od tej pracy, ka¿ê ciê... ZABIÆ.}
-{671}{}{Skoro tak stawiasz sprawê, wrócê, gdy tylko umrze.}
-{672}{}{Spróbuj czegokolwiek, a do³¹czysz do tych Mordino, których zar¿nêli Salvatore.}
-{680}{}{Tak s³ysza³em. (Kiwa g³ow¹ z uznaniem) Uda³o... ci siê. Nie pomyli³em siê ufaj¹c ci. Oto... twoja zap³ata. Piêæset... dolców. }
-{681}{}{Dziêkujê.}
+{650}{}{(Kiwa gÅ‚owÄ…) Nogi tego rzeÅºnika... sÄ… sÅ‚abe. (Jesus wyciera czoÅ‚o i bierze kolejny, sÅ‚aby wdech) Ma takÅ¼e... trudnoÅ›ci... z oddychaniem. Bierze powietrze przez... maskÄ™ tlenowÄ….}
+{651}{}{MaskÄ™ tlenowÄ…, tak? Hmmmm. Dobrze.}
+{652}{}{WrÃ³cÄ™, gdy umrze, Senor Mordino.}
+{660}{}{Louis Salvatore Å¼yje. Czemu jesteÅ› z powrotem?}
+{661}{}{(StruÅ¼ka potu Å›cieka po twarzy Mordina) Czy zrobiono, o co prosiÅ‚em? Louis Salvatore jest martwy?}
+{662}{}{Jest martwy. Twoja rodzina zostaÅ‚a pomszczona, Senor Mordino.}
+{663}{}{Nie, wrÃ³cÄ™, gdy go zabijÄ™.}
+{664}{}{Salvatore jest zbyt dobrze chroniony. MuszÄ™ niestety zrezygnowaÄ‡ z tej pracy.}
+{670}{}{JeÅ›li... uciekniesz od tej pracy, kaÅ¼Ä™ ciÄ™... ZABIÄ†.}
+{671}{}{Skoro tak stawiasz sprawÄ™, wrÃ³cÄ™, gdy tylko umrze.}
+{672}{}{SprÃ³buj czegokolwiek, a doÅ‚Ä…czysz do tych Mordino, ktÃ³rych zarÅ¼nÄ™li Salvatore.}
+{680}{}{Tak sÅ‚yszaÅ‚em. (Kiwa gÅ‚owÄ… z uznaniem) UdaÅ‚o... ci siÄ™. Nie pomyliÅ‚em siÄ™ ufajÄ…c ci. Oto... twoja zapÅ‚ata. PiÄ™Ä‡set... dolcÃ³w. }
+{681}{}{DziÄ™kujÄ™.}
 {682}{}{To wystarczy... na razie.}
-{683}{}{I... zbrojê oraz broñ, która ci siê... przyda.}
-{690}{}{(Kiwa g³ow¹) Twój sukces... mnie cieszy. Mile widzia³bym ciê w Rodzinie Mordino. (Klepie ciê w ramiê) Czy przy³¹czysz siê do rodziny? Twoja si³a bêdzie... nasz¹ si³¹.}
-{691}{}{Z przyjemnoœci¹ zostanê Mordino.}
-{692}{}{Nie mogê do³¹czyæ do Mordino. Ale nie zrozum mnie Ÿle Du¿y Jesusie: to by³a przyjemnoœæ pracowaæ z tob¹.}
-{693}{}{Dziêki, ale nie chcê siê przy³¹czaæ. Muszê najpierw uratowaæ wioskê.}
-{700}{}{(Kiwa g³ow¹) Przykro mi, ¿e taki jest twój wybór. Jak mówi³em, twój sukces mnie cieszy... By³oby Ÿle, gdyby twoje umiejêtnoœci zosta³y u¿yte przez któregoœ z moich... konkurentów. (Kieruje siê w stronê stra¿ników, którzy siêgaj¹ po broñ)}
-{710}{}{To dobrze. Czy masz... imiê, którym chcesz, by ciê nazywano? Wszyscy Mordino... i ca³e Reno... bêdzie znaæ to imiê.}
+{683}{}{I... zbrojÄ™ oraz broÅ„, ktÃ³ra ci siÄ™... przyda.}
+{690}{}{(Kiwa gÅ‚owÄ…) TwÃ³j sukces... mnie cieszy. Mile widziaÅ‚bym ciÄ™ w Rodzinie Mordino. (Klepie ciÄ™ w ramiÄ™) Czy przyÅ‚Ä…czysz siÄ™ do rodziny? Twoja siÅ‚a bÄ™dzie... naszÄ… siÅ‚Ä….}
+{691}{}{Z przyjemnoÅ›ciÄ… zostanÄ™ Mordino.}
+{692}{}{Nie mogÄ™ doÅ‚Ä…czyÄ‡ do Mordino. Ale nie zrozum mnie Åºle DuÅ¼y Jesusie: to byÅ‚a przyjemnoÅ›Ä‡ pracowaÄ‡ z tobÄ….}
+{693}{}{DziÄ™ki, ale nie chcÄ™ siÄ™ przyÅ‚Ä…czaÄ‡. MuszÄ™ najpierw uratowaÄ‡ wioskÄ™.}
+{700}{}{(Kiwa gÅ‚owÄ…) Przykro mi, Å¼e taki jest twÃ³j wybÃ³r. Jak mÃ³wiÅ‚em, twÃ³j sukces mnie cieszy... ByÅ‚oby Åºle, gdyby twoje umiejÄ™tnoÅ›ci zostaÅ‚y uÅ¼yte przez ktÃ³regoÅ› z moich... konkurentÃ³w. (Kieruje siÄ™ w stronÄ™ straÅ¼nikÃ³w, ktÃ³rzy siÄ™gajÄ… po broÅ„)}
+{710}{}{To dobrze. Czy masz... imiÄ™, ktÃ³rym chcesz, by ciÄ™ nazywano? Wszyscy Mordino... i caÅ‚e Reno... bÄ™dzie znaÄ‡ to imiÄ™.}
 {711}{}{Taak, co powiesz na...}
-{720}{}{... to dobre imiê. (Kiwa g³ow¹) Imiê Mordino du¿o... znaczy w Nowym Reno. OdwiedŸ... Koci¹ £apkê... Bronie z Nowego Reno... i powiedz im, ¿e jesteœ w mojej rodzinie... potraktuj¹ ciê odpowiednio.}
-{730}{}{(Gapi siê na ciebie przez d³u¿szy czas, na koniec spogl¹da z za¿enowaniem) Czemu... pytasz mnie o to? S£YSZA£EM... co siê sta³o. (Wyciera czo³o) Ch³opak wzi¹³ za du¿o Jetu i umar³.}
-{731}{}{W tym rzecz. Mordino to najwiêksi dostawcy Jetu w Nowym Reno. Z tego powodu to wy zostaniecie obwinieni o wszystko.}
-{732}{}{Czy wiesz, sk¹d wzi¹³ Jet?}
-{733}{}{No dobrze. Tak tylko pytam. Mam kilka innych pytañ...}
-{734}{}{Rozumiem. Lepiej ju¿ pójdê.}
-{740}{}{(Sapi¹c wyciera ze swojego czo³a jeszcze wiêcej potu) Gdyby Wrightowie mieli... ROZUM, z którym siê urodzili, to by... wiedzieli, ¿e nie jesteœmy jedyn¹ rodzina od Jetu w Nowym Reno. My... NIE zabijamy dzieci.}
-{741}{}{Tylko doros³ych, co? To znaczy, Jet potrzebuje trochê czasu, ¿eby kogoœ zabiæ, ale dzia³a, prawda?}
-{742}{}{Ktoœ inny móg³ to zrobiæ, aby oczerniæ nazwisko Mordino. Czy wiesz, kto móg³by sprzedaæ Richardowi Jet, który go zabi³?}
-{743}{}{Rozumiem. S³uchaj, mam kilka innych pytañ...}
-{744}{}{Dziêki za informacje, Senor Mordino. Muszê ju¿ iœæ.}
-{750}{}{(Potrz¹sa g³ow¹) Ma³o... wiem o ¿yciu sprzedawców z Reno. (Chrapliwie wci¹ga powietrze, pokas³uj¹c) Mo¿e... spytaj mojego syna... w kasynie na dole.}
-{751}{}{Zrobiê to. Mam jeszcze kilka pytañ...}
-{752}{}{Zrobiê to. Dziêki Senor Mordino.}
-{760}{}{Wysoka temperatura i ja... nie ¿yjemy w zgodzie. Czasem mam trudnoœci... z oddychaniem. Gdy jestem zestresowany lub wykonujê jakieœ fizyczne czynnoœci, szybko siê mêczê. Czasem mam bóle w klatce.}
-{761}{}{Naprawdê? Có¿, w takim razie dobrze, ¿e nie bierzesz ¿adnych metaamfetamin albo stymulantów. Mam kilka innych pytañ...}
-{762}{}{Rozumiem. Lepiej ju¿ pójdê.}
-{770}{}{Nie znam ciê... przychodzisz do mnie... bez niczyjego s³owa, które nada³oby twojej ofercie... wagê. (Wyciera czo³o, po czym rzê¿¹c bierze g³êboki wdech) Nie mam dla ciebie ¯ADNEJ pracy.}
-{771}{}{Wyluzuj, daj mi szansê. Daj mi robotê, jakakolwiek robotê... poradzê sobie.}
-{780}{}{Nie ka¿dy w Stajniach... WIE, ¿e jest poddawany testom.}
-{781}{}{Uch... ¿e co proszê?}
-{782}{}{Och. Uch, a w kwestii mojej zap³aty...}
-{790}{}{Ramirez pozwoli³... w zesz³ym miesi¹cu uciec czterem niewolnikom. (Nieznacznie potrz¹sa g³ow¹) To niedobrze. W ci¹gu godziny Jet, który Ramirez dosta³ od ciebie, zatrzyma jego... serce. To KARA.}
-{792}{}{U¿y³eœ mnie, by ZABIÆ tego faceta? Mam doœæ Jesus, wynoszê siê st¹d.}
-{850}{}{Haracz dla Du¿ego Jesusa zosta³ odebrany.}
-{875}{}{Du¿y Jesus zosta³ zamordowany.}
-{900}{}{Odt¹d nale¿ysz do rodziny Mordino.}
-{925}{}{Kontrakt dla Du¿ego Jesusa zosta³ wype³niony.}
-{1278}{}{Pañski syn rozmawia³ ze mn¹ Senor Mordino. Zwykle ³owiê niewolników, a teraz szukam pracy.}
-{1291}{}{Bardzo dobrze. Interesuje ciê kupno niewolników?}
-{1621}{}{A wiêc... dobrze. Zrobiê to.}
-{5268}{}{?!! No TO CHOD, SPRÓBUJ SZCZÊŒCIA, T£USTY SKURWYSY...}
+{720}{}{... to dobre imiÄ™. (Kiwa gÅ‚owÄ…) ImiÄ™ Mordino duÅ¼o... znaczy w Nowym Reno. OdwiedÅº... KociÄ… ÅapkÄ™... Bronie z Nowego Reno... i powiedz im, Å¼e jesteÅ› w mojej rodzinie... potraktujÄ… ciÄ™ odpowiednio.}
+{730}{}{(Gapi siÄ™ na ciebie przez dÅ‚uÅ¼szy czas, na koniec spoglÄ…da z zaÅ¼enowaniem) Czemu... pytasz mnie o to? SÅYSZAÅEM... co siÄ™ staÅ‚o. (Wyciera czoÅ‚o) ChÅ‚opak wziÄ…Å‚ za duÅ¼o Jetu i umarÅ‚.}
+{731}{}{W tym rzecz. Mordino to najwiÄ™ksi dostawcy Jetu w Nowym Reno. Z tego powodu to wy zostaniecie obwinieni o wszystko.}
+{732}{}{Czy wiesz, skÄ…d wziÄ…Å‚ Jet?}
+{733}{}{No dobrze. Tak tylko pytam. Mam kilka innych pytaÅ„...}
+{734}{}{Rozumiem. Lepiej juÅ¼ pÃ³jdÄ™.}
+{740}{}{(SapiÄ…c wyciera ze swojego czoÅ‚a jeszcze wiÄ™cej potu) Gdyby Wrightowie mieli... ROZUM, z ktÃ³rym siÄ™ urodzili, to by... wiedzieli, Å¼e nie jesteÅ›my jedynÄ… rodzina od Jetu w Nowym Reno. My... NIE zabijamy dzieci.}
+{741}{}{Tylko dorosÅ‚ych, co? To znaczy, Jet potrzebuje trochÄ™ czasu, Å¼eby kogoÅ› zabiÄ‡, ale dziaÅ‚a, prawda?}
+{742}{}{KtoÅ› inny mÃ³gÅ‚ to zrobiÄ‡, aby oczerniÄ‡ nazwisko Mordino. Czy wiesz, kto mÃ³gÅ‚by sprzedaÄ‡ Richardowi Jet, ktÃ³ry go zabiÅ‚?}
+{743}{}{Rozumiem. SÅ‚uchaj, mam kilka innych pytaÅ„...}
+{744}{}{DziÄ™ki za informacje, Senor Mordino. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{750}{}{(PotrzÄ…sa gÅ‚owÄ…) MaÅ‚o... wiem o Å¼yciu sprzedawcÃ³w z Reno. (Chrapliwie wciÄ…ga powietrze, pokasÅ‚ujÄ…c) MoÅ¼e... spytaj mojego syna... w kasynie na dole.}
+{751}{}{ZrobiÄ™ to. Mam jeszcze kilka pytaÅ„...}
+{752}{}{ZrobiÄ™ to. DziÄ™ki Senor Mordino.}
+{760}{}{Wysoka temperatura i ja... nie Å¼yjemy w zgodzie. Czasem mam trudnoÅ›ci... z oddychaniem. Gdy jestem zestresowany lub wykonujÄ™ jakieÅ› fizyczne czynnoÅ›ci, szybko siÄ™ mÄ™czÄ™. Czasem mam bÃ³le w klatce.}
+{761}{}{NaprawdÄ™? CÃ³Å¼, w takim razie dobrze, Å¼e nie bierzesz Å¼adnych metaamfetamin albo stymulantÃ³w. Mam kilka innych pytaÅ„...}
+{762}{}{Rozumiem. Lepiej juÅ¼ pÃ³jdÄ™.}
+{770}{}{Nie znam ciÄ™... przychodzisz do mnie... bez niczyjego sÅ‚owa, ktÃ³re nadaÅ‚oby twojej ofercie... wagÄ™. (Wyciera czoÅ‚o, po czym rzÄ™Å¼Ä…c bierze gÅ‚Ä™boki wdech) Nie mam dla ciebie Å»ADNEJ pracy.}
+{771}{}{Wyluzuj, daj mi szansÄ™. Daj mi robotÄ™, jakakolwiek robotÄ™... poradzÄ™ sobie.}
+{780}{}{Nie kaÅ¼dy w Stajniach... WIE, Å¼e jest poddawany testom.}
+{781}{}{Uch... Å¼e co proszÄ™?}
+{782}{}{Och. Uch, a w kwestii mojej zapÅ‚aty...}
+{790}{}{Ramirez pozwoliÅ‚... w zeszÅ‚ym miesiÄ…cu uciec czterem niewolnikom. (Nieznacznie potrzÄ…sa gÅ‚owÄ…) To niedobrze. W ciÄ…gu godziny Jet, ktÃ³ry Ramirez dostaÅ‚ od ciebie, zatrzyma jego... serce. To KARA.}
+{792}{}{UÅ¼yÅ‚eÅ› mnie, by ZABIÄ† tego faceta? Mam doÅ›Ä‡ Jesus, wynoszÄ™ siÄ™ stÄ…d.}
+{850}{}{Haracz dla DuÅ¼ego Jesusa zostaÅ‚ odebrany.}
+{875}{}{DuÅ¼y Jesus zostaÅ‚ zamordowany.}
+{900}{}{OdtÄ…d naleÅ¼ysz do rodziny Mordino.}
+{925}{}{Kontrakt dla DuÅ¼ego Jesusa zostaÅ‚ wypeÅ‚niony.}
+{1278}{}{PaÅ„ski syn rozmawiaÅ‚ ze mnÄ… Senor Mordino. Zwykle Å‚owiÄ™ niewolnikÃ³w, a teraz szukam pracy.}
+{1291}{}{Bardzo dobrze. Interesuje ciÄ™ kupno niewolnikÃ³w?}
+{1621}{}{A wiÄ™c... dobrze. ZrobiÄ™ to.}
+{5268}{}{?!! No TO CHODÅ¹, SPRÃ“BUJ SZCZÄ˜ÅšCIA, TÅUSTY SKURWYSY...}

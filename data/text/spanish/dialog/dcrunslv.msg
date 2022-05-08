@@ -1,44 +1,44 @@
 {100}{}{Ves a un hombre grande de aspecto primitivo.}
 {101}{}{Ves a una esbelta mujer primitiva.}
-{200}{}{Ves a un hombre de aspecto extraño.}
+{200}{}{Ves a un hombre de aspecto extraÃ±o.}
 {201}{}{Ves a un hombre de aspecto harapiento.}
-{202}{}{Ves a un hombre con las ropas roídas.}
+{202}{}{Ves a un hombre con las ropas roÃ­das.}
 {210}{}{Ves a una mujer muy sucia.}
 {211}{}{Ves a una mujer bastante sucia.}
-{212}{}{Ves a una mujer de aspecto escuálido.}
-{270}{}{Ellos no encontrar mí.}
+{212}{}{Ves a una mujer de aspecto escuÃ¡lido.}
+{270}{}{Ellos no encontrar mÃ­.}
 {271}{}{Deber huir. Deber huir.}
-{272}{}{¿Por qué ellos hacer daño?}
+{272}{}{Â¿Por quÃ© ellos hacer daÃ±o?}
 {273}{}{Yo asustado.}
 {274}{}{Yo no luchar.}
 {275}{}{Yo querer vivir.}
-{276}{}{No hacer daño familia.}
-{280}{}{¡Oh, mierda!}
-{281}{}{¿Por qué están haciendo esto?}
-{282}{}{¿Qué pasa con mi familia?}
+{276}{}{No hacer daÃ±o familia.}
+{280}{}{Â¡Oh, mierda!}
+{281}{}{Â¿Por quÃ© estÃ¡n haciendo esto?}
+{282}{}{Â¿QuÃ© pasa con mi familia?}
 {283}{}{No quiero morir.}
 {284}{}{No quiero ser un esclavo.}
 {285}{}{Merezco algo mejor.}
 {300}{}{Ahhh!}
-{301}{}{¡No matar! ¡No matar!}
-{302}{}{¡Para!}
-{303}{}{¡Ayudaaaa!}
-{304}{}{¡Corred!}
-{305}{}{¡Dejar tranquilo!}
-{306}{}{¡No hacer daño a mí!}
-{307}{}{¡Yo no hacer daño!}
-{308}{}{¡No querer pelea!}
-{350}{}{¡Sálvese quien pueda!}
-{351}{}{¡No dejéis que os atrapen!}
-{352}{}{¡Esclavistas! ¡Huid!}
-{353}{}{¡Que alguien me ayude! ¡Por favor!}
-{354}{}{¡Huye, Marty!}
+{301}{}{Â¡No matar! Â¡No matar!}
+{302}{}{Â¡Para!}
+{303}{}{Â¡Ayudaaaa!}
+{304}{}{Â¡Corred!}
+{305}{}{Â¡Dejar tranquilo!}
+{306}{}{Â¡No hacer daÃ±o a mÃ­!}
+{307}{}{Â¡Yo no hacer daÃ±o!}
+{308}{}{Â¡No querer pelea!}
+{350}{}{Â¡SÃ¡lvese quien pueda!}
+{351}{}{Â¡No dejÃ©is que os atrapen!}
+{352}{}{Â¡Esclavistas! Â¡Huid!}
+{353}{}{Â¡Que alguien me ayude! Â¡Por favor!}
+{354}{}{Â¡Huye, Marty!}
 {355}{}{Ahhh!}
-{356}{}{¡Detén esta locura!}
-{357}{}{¡No hemos hecho nada! ¡Déjanos en paz!}
-{358}{}{¡Reconozco ese tatuaje!}
-{359}{}{¡No, por favor!}
-{360}{}{¡Por favor, no me mates!}
-{361}{}{¡No quiero pelea, no me mates!}
-{362}{}{¡Por favor, no quiero morir!}
-{363}{}{Vosotros sois esclavistas, ¿no? Oh, Dios.}
+{356}{}{Â¡DetÃ©n esta locura!}
+{357}{}{Â¡No hemos hecho nada! Â¡DÃ©janos en paz!}
+{358}{}{Â¡Reconozco ese tatuaje!}
+{359}{}{Â¡No, por favor!}
+{360}{}{Â¡Por favor, no me mates!}
+{361}{}{Â¡No quiero pelea, no me mates!}
+{362}{}{Â¡Por favor, no quiero morir!}
+{363}{}{Vosotros sois esclavistas, Â¿no? Oh, Dios.}

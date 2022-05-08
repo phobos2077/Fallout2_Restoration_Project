@@ -1,11 +1,11 @@
-{100}{}{Widzisz mê¿czyznê.}
-{101}{}{Widzisz kobietê.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™.}
+{101}{}{Widzisz kobietÄ™.}
 {102}{}{On jest obywatelem Opactwa.}
-{103}{}{Ona jest obywatelk¹ Opactwa.}
+{103}{}{Ona jest obywatelkÄ… Opactwa.}
 {200}{}{Witaj nieznajomy.}
-{201}{}{Pokój, tobie.}
-{202}{}{To miejsce jest takie mi³e!}
-{203}{}{Czeœæ.}
-{204}{}{£adna pogoda.}
-{205}{}{Uwa¿aj na siebie, tam na pustkowiu.}
-{500}{}{B£AZEN!}
+{201}{}{PokÃ³j, tobie.}
+{202}{}{To miejsce jest takie miÅ‚e!}
+{203}{}{CzeÅ›Ä‡.}
+{204}{}{Åadna pogoda.}
+{205}{}{UwaÅ¼aj na siebie, tam na pustkowiu.}
+{500}{}{BÅAZEN!}

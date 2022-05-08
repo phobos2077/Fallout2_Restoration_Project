@@ -1,92 +1,92 @@
-{100}{}{Widzisz wysokiego, chudego mê¿czyznê patrz¹cego na ciebie taksuj¹cym wzrokiem.}
-{101}{}{Widzisz Josha Laurance'a, w³aœciciela Saloonu Ostatnie Tchnienie.}
-{102}{}{Widzisz mê¿czyznê mierz¹cego ciê wzrokiem tak, jakby zdejmowa³ twoje wymiary.}
-{103}{}{Wykolegowuj siê st¹d.}
+{100}{}{Widzisz wysokiego, chudego mÄ™Å¼czyznÄ™ patrzÄ…cego na ciebie taksujÄ…cym wzrokiem.}
+{101}{}{Widzisz Josha Laurance'a, wÅ‚aÅ›ciciela Saloonu Ostatnie Tchnienie.}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ mierzÄ…cego ciÄ™ wzrokiem tak, jakby zdejmowaÅ‚ twoje wymiary.}
+{103}{}{Wykolegowuj siÄ™ stÄ…d.}
 {104}{}{Co ty tu u licha robisz, idioto?}
 {105}{}{To nie jest miejsce dla ciebie.}
-{106}{}{No ju¿. Zmiataj, idioto!}
-{107}{}{Wynoœ siê, zanim zabrudzisz mi pod³ogê.}
-{108}{}{Dzieñ dobry. Josh Laurance. Jestem w³aœcicielem tego miejsca.}
-{109}{}{Co mogê dla ciebie zrobiæ?}
-{110}{}{Co to dok³adnie za miejsce?}
-{111}{}{Poproszê drinka.}
-{112}{}{Poproszê kolejkê dla wszystkich.}
-{113}{}{Poproszê kolejkê dla moich przyjació³.}
-{114}{}{Co siê ostatnio dzieje w mieœcie?}
-{115}{}{Na razie nic. Tylko têdy przechodzê. Do widzenia.}
-{116}{}{Nie bêdê nic podawaæ temu czemuœ.}
-{117}{}{Zabieraj st¹d swojego *przyjaciela*.}
-{118}{}{To nie jest ¿aden cholerny gabinet dziwol¹gów. Wynoœ siê st¹d.}
+{106}{}{No juÅ¼. Zmiataj, idioto!}
+{107}{}{WynoÅ› siÄ™, zanim zabrudzisz mi podÅ‚ogÄ™.}
+{108}{}{DzieÅ„ dobry. Josh Laurance. Jestem wÅ‚aÅ›cicielem tego miejsca.}
+{109}{}{Co mogÄ™ dla ciebie zrobiÄ‡?}
+{110}{}{Co to dokÅ‚adnie za miejsce?}
+{111}{}{PoproszÄ™ drinka.}
+{112}{}{PoproszÄ™ kolejkÄ™ dla wszystkich.}
+{113}{}{PoproszÄ™ kolejkÄ™ dla moich przyjaciÃ³Å‚.}
+{114}{}{Co siÄ™ ostatnio dzieje w mieÅ›cie?}
+{115}{}{Na razie nic. Tylko tÄ™dy przechodzÄ™. Do widzenia.}
+{116}{}{Nie bÄ™dÄ™ nic podawaÄ‡ temu czemuÅ›.}
+{117}{}{Zabieraj stÄ…d swojego *przyjaciela*.}
+{118}{}{To nie jest Å¼aden cholerny gabinet dziwolÄ…gÃ³w. WynoÅ› siÄ™ stÄ…d.}
 {119}{}{To nie wejdzie do mojego lokalu.}
 {120}{}{Nie podajemy nic osobom tego rodzaju. Wynocha.}
-{121}{}{To jest Saloon i Zak³ad Pogrzebowy "Ostatnie Tchnienie". Pe³na obs³uga. Z Butelk¹ do Grobu, oto nasze motto.}
-{122}{}{To nieco dziwaczne po³¹czenie, Josh.}
-{123}{}{Lukrecja Borgia by³aby z ciebie dumna Josh.}
-{124}{}{Co muszê zrobiæ, aby nabyæ trumnê?}
-{125}{}{Jak mogê zamówiæ us³ugi pogrzebowe?}
-{126}{}{Z pewnoœci¹ bêdê siê trzymaæ z dala od twojego ginu.}
-{127}{}{Oczywiœcie. Nale¿y siê $5.}
-{128}{}{Oto pieni¹dze.}
-{129}{}{Chyba jednak na razie nie chcê piwa. Pozwól jednak, ¿e zadam ci kilka pytañ.}
-{130}{}{Jakie to hojne z twojej strony. $50 do kasy przybywa, by ka¿dy móg³ napiæ siê piwa. Hej, nie wiedzia³em, ¿e jestem poet¹.}
-{131}{}{Auæ. Uwa¿aj Josh, kalambury zabijaj¹. To przyjacielska rada, a tu s¹ pieni¹dze.}
-{132}{}{Hmmm, twój kalambur odebra³ temu pomys³owi ca³y smak. Pozwó³, ¿e zamiast tego o coœ ciê zapytam.}
-{133}{}{Czy¿ nie jesteœ tym typem przyjaciela, którego ka¿dy potrzebuje? To bêdzie }
-{134}{}{Uczciwa cena. Proszê.}
-{135}{}{Mo¿e jednak lepiej bêdê ich trzymaæ w trzeŸwoœci. Pozwól, ¿e zamiast tego o coœ ciê zapytam.}
-{136}{}{Wszystko wygl¹da dobrze, gdy trzymasz interes w garœci. Tak trzymaæ. W ka¿dym razie pozwól mi zaj¹æ siê czymœ innym.}
-{137}{}{Wiesz, to nie jest ¿adne du¿e halo. Zwykle mój interes krêci siê dosyæ wolno. Mo¿na by rzec, ¿e jest cichy jak grób. Chocia¿ ostatnio to nie znaczy ju¿ tyle, co kiedyœ.}
-{138}{}{Hê? Co masz na myœli?}
-{139}{}{Dok³adnie. Ale nie móg³bym zwi¹zaæ koñca z koñcem, gdybym ogranicza³ siê do grzebania ludzi - mo¿na by rzec, ¿e interes zdech³. Mo¿na mu by³o postawiæ nagrobek.}
-{140}{}{Ach tak. Prawie bojê siê zadaæ nastêpne pytanie. Ale jednak spróbujê.}
-{141}{}{Uch, czy widok tych wszystkich sztywniaków nie obrzydza ludziom jedzenia?}
-{142}{}{Chyba nie wytrzymam nastêpnej gry s³ów. ¯egnam.}
-{143}{}{Obrzydza³by, gdyby to by³y prawdziwe trupy. Ale nie s¹. W ka¿dym razie ¿aden z tych. Poza tym górnicy chyba to lubi¹. Dziêki temu dostrzegaj¹, jak wiele maj¹ szczêœcia, ¿e ¿yj¹.}
-{144}{}{Myœlê, ¿e to jest przera¿aj¹ce. Jesteœ bardzo pokrêconym indywiduum.}
-{145}{}{Rozumiem. No wiêc, tego, mam inne pytanie.}
-{146}{}{Domyœlam siê, ¿e niektórzy mog¹ tak to odbieraæ. Ale nie ja. Po prostu mam od tego md³oœci. Do widzenia.}
-{147}{}{Mówisz, ¿e *ja* jestem przera¿aj¹cy? Przecie¿ podobno wasze plemiona jedz¹ swoich w³asnych zmar³ych.}
-{148}{}{Jak¿e inaczej moglibyœmy wch³on¹æ ich dusze?}
-{149}{}{Odczep siê. Zawsze ich przedtem gotujemy. Przecie¿ nie jesteœmy dzikusami.}
-{150}{}{To œmieszne. Kto ci to powiedzia³?}
-{151}{}{Nie wiem dok³adnie. Ale to przecie¿ oczywiste. Po có¿ innego mielibyœcie opi³owywaæ swoje zêby, by je naostrzyæ, hê? No powiedz!}
-{152}{}{Nie pi³ujê moich zêbów, ¿eby je... och, niewa¿ne. Pozwól, ¿e zapytam o coœ innego.}
-{153}{}{Dziêkujê uprzejmie. Coœ jeszcze?}
-{154}{}{W³aœciwie to tak.}
-{155}{}{Nie, na razie wystarczy. Dziêki Josh.}
+{121}{}{To jest Saloon i ZakÅ‚ad Pogrzebowy "Ostatnie Tchnienie". PeÅ‚na obsÅ‚uga. Z ButelkÄ… do Grobu, oto nasze motto.}
+{122}{}{To nieco dziwaczne poÅ‚Ä…czenie, Josh.}
+{123}{}{Lukrecja Borgia byÅ‚aby z ciebie dumna Josh.}
+{124}{}{Co muszÄ™ zrobiÄ‡, aby nabyÄ‡ trumnÄ™?}
+{125}{}{Jak mogÄ™ zamÃ³wiÄ‡ usÅ‚ugi pogrzebowe?}
+{126}{}{Z pewnoÅ›ciÄ… bÄ™dÄ™ siÄ™ trzymaÄ‡ z dala od twojego ginu.}
+{127}{}{OczywiÅ›cie. NaleÅ¼y siÄ™ $5.}
+{128}{}{Oto pieniÄ…dze.}
+{129}{}{Chyba jednak na razie nie chcÄ™ piwa. PozwÃ³l jednak, Å¼e zadam ci kilka pytaÅ„.}
+{130}{}{Jakie to hojne z twojej strony. $50 do kasy przybywa, by kaÅ¼dy mÃ³gÅ‚ napiÄ‡ siÄ™ piwa. Hej, nie wiedziaÅ‚em, Å¼e jestem poetÄ….}
+{131}{}{AuÄ‡. UwaÅ¼aj Josh, kalambury zabijajÄ…. To przyjacielska rada, a tu sÄ… pieniÄ…dze.}
+{132}{}{Hmmm, twÃ³j kalambur odebraÅ‚ temu pomysÅ‚owi caÅ‚y smak. PozwÃ³Å‚, Å¼e zamiast tego o coÅ› ciÄ™ zapytam.}
+{133}{}{CzyÅ¼ nie jesteÅ› tym typem przyjaciela, ktÃ³rego kaÅ¼dy potrzebuje? To bÄ™dzie }
+{134}{}{Uczciwa cena. ProszÄ™.}
+{135}{}{MoÅ¼e jednak lepiej bÄ™dÄ™ ich trzymaÄ‡ w trzeÅºwoÅ›ci. PozwÃ³l, Å¼e zamiast tego o coÅ› ciÄ™ zapytam.}
+{136}{}{Wszystko wyglÄ…da dobrze, gdy trzymasz interes w garÅ›ci. Tak trzymaÄ‡. W kaÅ¼dym razie pozwÃ³l mi zajÄ…Ä‡ siÄ™ czymÅ› innym.}
+{137}{}{Wiesz, to nie jest Å¼adne duÅ¼e halo. Zwykle mÃ³j interes krÄ™ci siÄ™ dosyÄ‡ wolno. MoÅ¼na by rzec, Å¼e jest cichy jak grÃ³b. ChociaÅ¼ ostatnio to nie znaczy juÅ¼ tyle, co kiedyÅ›.}
+{138}{}{HÄ™? Co masz na myÅ›li?}
+{139}{}{DokÅ‚adnie. Ale nie mÃ³gÅ‚bym zwiÄ…zaÄ‡ koÅ„ca z koÅ„cem, gdybym ograniczaÅ‚ siÄ™ do grzebania ludzi - moÅ¼na by rzec, Å¼e interes zdechÅ‚. MoÅ¼na mu byÅ‚o postawiÄ‡ nagrobek.}
+{140}{}{Ach tak. Prawie bojÄ™ siÄ™ zadaÄ‡ nastÄ™pne pytanie. Ale jednak sprÃ³bujÄ™.}
+{141}{}{Uch, czy widok tych wszystkich sztywniakÃ³w nie obrzydza ludziom jedzenia?}
+{142}{}{Chyba nie wytrzymam nastÄ™pnej gry sÅ‚Ã³w. Å»egnam.}
+{143}{}{ObrzydzaÅ‚by, gdyby to byÅ‚y prawdziwe trupy. Ale nie sÄ…. W kaÅ¼dym razie Å¼aden z tych. Poza tym gÃ³rnicy chyba to lubiÄ…. DziÄ™ki temu dostrzegajÄ…, jak wiele majÄ… szczÄ™Å›cia, Å¼e Å¼yjÄ….}
+{144}{}{MyÅ›lÄ™, Å¼e to jest przeraÅ¼ajÄ…ce. JesteÅ› bardzo pokrÄ™conym indywiduum.}
+{145}{}{Rozumiem. No wiÄ™c, tego, mam inne pytanie.}
+{146}{}{DomyÅ›lam siÄ™, Å¼e niektÃ³rzy mogÄ… tak to odbieraÄ‡. Ale nie ja. Po prostu mam od tego mdÅ‚oÅ›ci. Do widzenia.}
+{147}{}{MÃ³wisz, Å¼e *ja* jestem przeraÅ¼ajÄ…cy? PrzecieÅ¼ podobno wasze plemiona jedzÄ… swoich wÅ‚asnych zmarÅ‚ych.}
+{148}{}{JakÅ¼e inaczej moglibyÅ›my wchÅ‚onÄ…Ä‡ ich dusze?}
+{149}{}{Odczep siÄ™. Zawsze ich przedtem gotujemy. PrzecieÅ¼ nie jesteÅ›my dzikusami.}
+{150}{}{To Å›mieszne. Kto ci to powiedziaÅ‚?}
+{151}{}{Nie wiem dokÅ‚adnie. Ale to przecieÅ¼ oczywiste. Po cÃ³Å¼ innego mielibyÅ›cie opiÅ‚owywaÄ‡ swoje zÄ™by, by je naostrzyÄ‡, hÄ™? No powiedz!}
+{152}{}{Nie piÅ‚ujÄ™ moich zÄ™bÃ³w, Å¼eby je... och, niewaÅ¼ne. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{153}{}{DziÄ™kujÄ™ uprzejmie. CoÅ› jeszcze?}
+{154}{}{WÅ‚aÅ›ciwie to tak.}
+{155}{}{Nie, na razie wystarczy. DziÄ™ki Josh.}
 {156}{}{Co przez to rozumiesz?}
-{157}{}{Chcê tylko powiedzieæ, ¿e to raczej, no, *niezwyk³a* kombinacja.}
-{158}{}{Nic, nic, zupe³nie nic. Pozwól Josh, ¿e zapytam o coœ jeszcze.}
-{159}{}{Chcê tylko powiedzieæ, ¿e wolê piæ w miejscach, które s¹ nieco mniej sztywne. To znaczy, bardziej na luzie, oczywiœcie. Do widzenia.}
-{160}{}{Spêdzi³em sporo czasu na ponownym zakopywaniu ludzi le¿¹cych na cmentarzu obok. Ktoœ - albo coœ - ci¹gle ich wykopuje. Nie wiem czemu. To znaczy, oni nie maj¹ na sobie nic cennego.}
-{161}{}{Ktoœ otwiera groby?}
-{162}{}{Sk¹d wiesz, ¿e nie maj¹ na sobie nic cennego?}
-{163}{}{To pewnie tylko szczury. Pozwól, ¿e zapytam o coœ innego.}
-{164}{}{No, nie wiem na pewno, ale... ekhm, khm. Tylko zgadujê. Tak, w³aœnie. Wiesz co, napij siê piwa na koszt firmy.}
-{165}{}{Nie wiem, co mi imputujesz, ale nie podoba mi siê to.}
-{166}{}{Dziêki za piwo. Co masz na myœli mówi¹c, ¿e coœ ich wykopuje?}
-{167}{}{A wiêc powiedz mi, co masz na myœli mówi¹c, ¿e coœ ich wykopuje.}
-{168}{}{No, nigdy nic nie widzia³em, ale tak mniej wiêcej raz na tydzieñ jeden z grobów zostaje rozgrzebany i na wpó³ rozkopany. Nie wiem, co te¿ mo¿e to robiæ.}
+{157}{}{ChcÄ™ tylko powiedzieÄ‡, Å¼e to raczej, no, *niezwykÅ‚a* kombinacja.}
+{158}{}{Nic, nic, zupeÅ‚nie nic. PozwÃ³l Josh, Å¼e zapytam o coÅ› jeszcze.}
+{159}{}{ChcÄ™ tylko powiedzieÄ‡, Å¼e wolÄ™ piÄ‡ w miejscach, ktÃ³re sÄ… nieco mniej sztywne. To znaczy, bardziej na luzie, oczywiÅ›cie. Do widzenia.}
+{160}{}{SpÄ™dziÅ‚em sporo czasu na ponownym zakopywaniu ludzi leÅ¼Ä…cych na cmentarzu obok. KtoÅ› - albo coÅ› - ciÄ…gle ich wykopuje. Nie wiem czemu. To znaczy, oni nie majÄ… na sobie nic cennego.}
+{161}{}{KtoÅ› otwiera groby?}
+{162}{}{SkÄ…d wiesz, Å¼e nie majÄ… na sobie nic cennego?}
+{163}{}{To pewnie tylko szczury. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{164}{}{No, nie wiem na pewno, ale... ekhm, khm. Tylko zgadujÄ™. Tak, wÅ‚aÅ›nie. Wiesz co, napij siÄ™ piwa na koszt firmy.}
+{165}{}{Nie wiem, co mi imputujesz, ale nie podoba mi siÄ™ to.}
+{166}{}{DziÄ™ki za piwo. Co masz na myÅ›li mÃ³wiÄ…c, Å¼e coÅ› ich wykopuje?}
+{167}{}{A wiÄ™c powiedz mi, co masz na myÅ›li mÃ³wiÄ…c, Å¼e coÅ› ich wykopuje.}
+{168}{}{No, nigdy nic nie widziaÅ‚em, ale tak mniej wiÄ™cej raz na tydzieÅ„ jeden z grobÃ³w zostaje rozgrzebany i na wpÃ³Å‚ rozkopany. Nie wiem, co teÅ¼ moÅ¼e to robiÄ‡.}
 {169}{}{Dziwne.}
-{170}{}{Irytuj¹ce raczej. Teraz górnicy mówi¹ mi, ¿e raczej ju¿ woleliby spêdziæ swe ostatnie chwile tutaj, ni¿ zostaæ zakopanym tylko po to, ¿eby ich ktoœ potem wyci¹ga³ jak przejrza³¹ cebulê. Kurcze, tych milszych móg³bym trzymaæ tutaj, ale nie ca³¹ resztê. Zupe³nie nie wiem, co z tym zrobiæ.}
-{171}{}{Jaka mi³a historia. Na pewno obudzê siê z krzykiem, gdy mi siê kiedyœ przyœni. Pozwól, ¿e zapytam o coœ innego.}
-{172}{}{W rzeczy samej, to tajemnicza sprawa. No, jeszcze siê zobaczymy. Na razie.}
-{173}{}{No, skoro ich najpierw gotuje... zaczekaj chwilê. Przecie¿ to wci¹¿ kanibalizm! Jesteœ ma³ym, wrednym popaprañcem, nawet jak na dzikusa.}
-{174}{}{Spokojnie Josh. Tylko ¿artujê. He he. Wiesz, gotujemy tylko niektóre czêœci.}
-{175}{}{Czêœci, co? A które konkretnie?}
-{176}{}{Kogo to obchodzi? (Wzruszenie ramion) Czêœci to czêœci.}
-{177}{}{¯artujê przecie¿. Gdzie siê podzia³y twoje jaja Josh? Pozwól, ¿e zapytam o coœ innego.}
-{178}{}{Taa, to wszystko trzyma siê kupy.}
-{179}{}{Pewnie. Pozwól, ¿e zaptam o coœ innego.}
-{180}{}{Skoro ju¿ o tym mowa, zaczynam odczuwaæ g³ód. Na razie Josh. Do widzenia.}
-{181}{}{Przeklêci Marsjanie. A ja myœla³em, ¿e pochodzisz z dzikich plemion. Kurczê, g³upio siê czujê. Wiesz, w mojej ksi¹¿ce kanibale to kanibale i ju¿.}
-{182}{}{Hej, zawsze najpierw gotujemy przed zjedzeniem. W koñcu przecie¿ nie jesteœmy dzikusami.}
-{183}{}{Odczep siê od moich jaj, kanibalu! Bêd¹ mi jeszcze przez jakiœ czas potrzebne. ZnajdŸ sobie inn¹ przek¹skê.}
-{184}{}{Spokojnie, i tak wygl¹dasz na twardego i ¿ylastego. He he. Tylko ¿artujê... w zasadzie. Pozwól Josh, ¿e zapytam o coœ innego.}
-{185}{}{Rozejrzê siê po okolicy. Ale jeœli nie znajdê nic lepszego, wrócê. ¯egnaj... na razie.}
-{186}{}{Najpierw trzeba kupiæ farmê. Planujesz w najbli¿szym czasie kupno jakiegoœ porz¹dnego domu?}
-{187}{}{Uch, w ka¿dym razie nie kupujê farmy. Pozwól, ¿e zapytam o coœ innego.}
-{188}{}{To mog³oby pomóc temu lub tamtemu, gdyby kupiæ farmê w tej okolicy. Na razie Josh.}
-{189}{}{Domyœlam siê, ¿e w tym celu najpierw kogoœ ukatrupisz. Ale odradzam. Szeryf Marion raczej nie lubi tego rodzaju zachowania.}
-{190}{}{Postaram siê zachowywaæ odpowiednio. Pozwól Josh, ¿e zapytam ciê o coœ innego.}
-{191}{}{Rozumiem... no, przynajmniej wiem ju¿, z kim rozmawiaæ, gdy zdarzy siê jakiœ nieszczêœliwy *wypadek*. Do widzenia Josh.}
+{170}{}{IrytujÄ…ce raczej. Teraz gÃ³rnicy mÃ³wiÄ… mi, Å¼e raczej juÅ¼ woleliby spÄ™dziÄ‡ swe ostatnie chwile tutaj, niÅ¼ zostaÄ‡ zakopanym tylko po to, Å¼eby ich ktoÅ› potem wyciÄ…gaÅ‚ jak przejrzaÅ‚Ä… cebulÄ™. Kurcze, tych milszych mÃ³gÅ‚bym trzymaÄ‡ tutaj, ale nie caÅ‚Ä… resztÄ™. ZupeÅ‚nie nie wiem, co z tym zrobiÄ‡.}
+{171}{}{Jaka miÅ‚a historia. Na pewno obudzÄ™ siÄ™ z krzykiem, gdy mi siÄ™ kiedyÅ› przyÅ›ni. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{172}{}{W rzeczy samej, to tajemnicza sprawa. No, jeszcze siÄ™ zobaczymy. Na razie.}
+{173}{}{No, skoro ich najpierw gotuje... zaczekaj chwilÄ™. PrzecieÅ¼ to wciÄ…Å¼ kanibalizm! JesteÅ› maÅ‚ym, wrednym popapraÅ„cem, nawet jak na dzikusa.}
+{174}{}{Spokojnie Josh. Tylko Å¼artujÄ™. He he. Wiesz, gotujemy tylko niektÃ³re czÄ™Å›ci.}
+{175}{}{CzÄ™Å›ci, co? A ktÃ³re konkretnie?}
+{176}{}{Kogo to obchodzi? (Wzruszenie ramion) CzÄ™Å›ci to czÄ™Å›ci.}
+{177}{}{Å»artujÄ™ przecieÅ¼. Gdzie siÄ™ podziaÅ‚y twoje jaja Josh? PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{178}{}{Taa, to wszystko trzyma siÄ™ kupy.}
+{179}{}{Pewnie. PozwÃ³l, Å¼e zaptam o coÅ› innego.}
+{180}{}{Skoro juÅ¼ o tym mowa, zaczynam odczuwaÄ‡ gÅ‚Ã³d. Na razie Josh. Do widzenia.}
+{181}{}{PrzeklÄ™ci Marsjanie. A ja myÅ›laÅ‚em, Å¼e pochodzisz z dzikich plemion. KurczÄ™, gÅ‚upio siÄ™ czujÄ™. Wiesz, w mojej ksiÄ…Å¼ce kanibale to kanibale i juÅ¼.}
+{182}{}{Hej, zawsze najpierw gotujemy przed zjedzeniem. W koÅ„cu przecieÅ¼ nie jesteÅ›my dzikusami.}
+{183}{}{Odczep siÄ™ od moich jaj, kanibalu! BÄ™dÄ… mi jeszcze przez jakiÅ› czas potrzebne. ZnajdÅº sobie innÄ… przekÄ…skÄ™.}
+{184}{}{Spokojnie, i tak wyglÄ…dasz na twardego i Å¼ylastego. He he. Tylko Å¼artujÄ™... w zasadzie. PozwÃ³l Josh, Å¼e zapytam o coÅ› innego.}
+{185}{}{RozejrzÄ™ siÄ™ po okolicy. Ale jeÅ›li nie znajdÄ™ nic lepszego, wrÃ³cÄ™. Å»egnaj... na razie.}
+{186}{}{Najpierw trzeba kupiÄ‡ farmÄ™. Planujesz w najbliÅ¼szym czasie kupno jakiegoÅ› porzÄ…dnego domu?}
+{187}{}{Uch, w kaÅ¼dym razie nie kupujÄ™ farmy. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{188}{}{To mogÅ‚oby pomÃ³c temu lub tamtemu, gdyby kupiÄ‡ farmÄ™ w tej okolicy. Na razie Josh.}
+{189}{}{DomyÅ›lam siÄ™, Å¼e w tym celu najpierw kogoÅ› ukatrupisz. Ale odradzam. Szeryf Marion raczej nie lubi tego rodzaju zachowania.}
+{190}{}{Postaram siÄ™ zachowywaÄ‡ odpowiednio. PozwÃ³l Josh, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{191}{}{Rozumiem... no, przynajmniej wiem juÅ¼, z kim rozmawiaÄ‡, gdy zdarzy siÄ™ jakiÅ› nieszczÄ™Å›liwy *wypadek*. Do widzenia Josh.}

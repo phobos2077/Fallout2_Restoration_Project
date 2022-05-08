@@ -1,6 +1,6 @@
 {100}{}{Du siehst ein Terminal.}
 {101}{}{Du siehst die Physikerstation.}
-{102}{}{Du siehst ein funktionsfähiges Computerterminal.}
+{102}{}{Du siehst ein funktionsfÃ¤higes Computerterminal.}
 {103}{}{Willkommen. Bitte identifizieren.}
 {104}{}{[Oooh! Sieh doch nur die blinkenden Lichter!]}
 {105}{}{::errate das Kennwort::}
@@ -16,18 +16,18 @@
 {115}{}{::verlassen::}
 {116}{}{Eindringling in System. Alarm. Sitzung wird beendet. Auf Wiedersehen.}
 {117}{}{[Fertig]}
-{118}{}{"Durch die vor kurzem erworbenen Vertibird-Pläne sind wir der Möglichkeit, eine in der Praxis anwendbare Flugmaschine zu bauen, einen Quantensprung näher gekommen. Wir hoffen, bis zum Jahresende einen flugfähigen Prototypen fertigzustellen und innerhalb der nächsten zwei Jahre mit der Massenproduktion starten zu können." - Dr. Wong}
-{119}{}{::kopiere Pläne::}
-{120}{}{Zurück.}
-{121}{}{"Wir arbeiten noch an einem funktionsfähigen Modell einer Flugmaschine. Keiner der bisherigen Entwürfe konnte in Bezug auf Sicherheit oder Aerodynamik überzeugen. Mit den Plänen der Alten Welt könnte es uns gelingen..." - Dr. Wong}
-{122}{}{Zurück.}
-{123}{}{(Nachdem du dich durch die Einleitung und die mathematischen Berechnungen gequält hast, entdeckst du, dass die Shi wieder lernen, Atomenergie zu entwickeln, indem sie die Raumflugtheorien der Alten Welt rekonstruieren - wobei sie die Hubologen belächeln. Neben Sonnenenergie nutzen sie auch Wind- und Wasserkraft, zumindest steht es so in den Aufzeichnungen.)}
-{124}{}{Zurück.}
+{118}{}{"Durch die vor kurzem erworbenen Vertibird-PlÃ¤ne sind wir der MÃ¶glichkeit, eine in der Praxis anwendbare Flugmaschine zu bauen, einen Quantensprung nÃ¤her gekommen. Wir hoffen, bis zum Jahresende einen flugfÃ¤higen Prototypen fertigzustellen und innerhalb der nÃ¤chsten zwei Jahre mit der Massenproduktion starten zu kÃ¶nnen." - Dr. Wong}
+{119}{}{::kopiere PlÃ¤ne::}
+{120}{}{ZurÃ¼ck.}
+{121}{}{"Wir arbeiten noch an einem funktionsfÃ¤higen Modell einer Flugmaschine. Keiner der bisherigen EntwÃ¼rfe konnte in Bezug auf Sicherheit oder Aerodynamik Ã¼berzeugen. Mit den PlÃ¤nen der Alten Welt kÃ¶nnte es uns gelingen..." - Dr. Wong}
+{122}{}{ZurÃ¼ck.}
+{123}{}{(Nachdem du dich durch die Einleitung und die mathematischen Berechnungen gequÃ¤lt hast, entdeckst du, dass die Shi wieder lernen, Atomenergie zu entwickeln, indem sie die Raumflugtheorien der Alten Welt rekonstruieren - wobei sie die Hubologen belÃ¤cheln. Neben Sonnenenergie nutzen sie auch Wind- und Wasserkraft, zumindest steht es so in den Aufzeichnungen.)}
+{124}{}{ZurÃ¼ck.}
 {125}{}{Station deaktiviert.}
 {126}{}{Aktiviere Station.}
 {127}{}{[Geh]}
-{128}{}{Du gibst wahllos eine Reihe von Buchstaben ein und erhältst tatsächlich Zugang! Mehr Glück als Verstand!}
+{128}{}{Du gibst wahllos eine Reihe von Buchstaben ein und erhÃ¤ltst tatsÃ¤chlich Zugang! Mehr GlÃ¼ck als Verstand!}
 {129}{}{[Weiter]}
 {130}{}{Der Computer reagiert nicht auf Eingabe.}
 {131}{}{Das scheint nirgendwo hinzupassen.}
-{132}{}{Pläne werden kopiert..... Kopiervorgang beendet... Gehe zurück zu... E/A-Fehler... GPF... Terminal wird deaktiviert.}
+{132}{}{PlÃ¤ne werden kopiert..... Kopiervorgang beendet... Gehe zurÃ¼ck zu... E/A-Fehler... GPF... Terminal wird deaktiviert.}

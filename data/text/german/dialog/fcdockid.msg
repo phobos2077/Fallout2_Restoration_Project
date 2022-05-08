@@ -2,9 +2,9 @@
 {101}{}{Du siehst ein Hafenkind.}
 {102}{}{Du siehst ein Kind.}
 {103}{}{Ich mag diesen Ort nicht.}
-{104}{}{Am Strand liegt ein groﬂer, stinkender Fisch.}
+{104}{}{Am Strand liegt ein gro√üer, stinkender Fisch.}
 {105}{}{Igitt! Was ist das?}
-{106}{}{Die Luft riecht seltsam hier drauﬂen.}
+{106}{}{Die Luft riecht seltsam hier drau√üen.}
 {107}{}{Willst Du schwimmen gehen?}
 {108}{}{Ich gehe spielen.}
 {109}{}{Wo ist meine Mama?}

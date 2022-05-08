@@ -1,3 +1,3 @@
-{100}{}{Você vê um homem de preto.}
-{101}{}{Você vê um homem de preto.}
-{102}{}{Ele é um homem de preto. E ele não parece muito feliz.}
+{100}{}{VocÃª vÃª um homem de preto.}
+{101}{}{VocÃª vÃª um homem de preto.}
+{102}{}{Ele Ã© um homem de preto. E ele nÃ£o parece muito feliz.}

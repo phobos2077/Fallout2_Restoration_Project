@@ -1,98 +1,98 @@
-{100}{}{Ez az ember nagyon komor arcot vág.}
-{101}{}{? Púpos. Skeeter barátja és segédje.}
-{102}{}{Ez az alak nagyon vékony, beesett szem? és mindemellett igen elkeseredett képet vág.}
-{110}{}{Te még nálam is rosszabb állapotban vagy. Szegény balfék.}
-{111}{}{Nincs id?m, hogy balfékekkel beszélgessek.}
-{112}{}{Nem t?nsz eszesebbnek, mint a rámbízott brahminok.}
-{113}{}{Ugye nincs nálad egy teljes pakli?}
-{114}{}{Istenemre mondom, zazább vagy, mint amennyire kinézel.}
-{120}{}{Üdv, engem Púposnak hívnak.}
-{121}{}{Hát ez elég szokatlan név. Mire fel kaptad?}
-{122}{}{Mi a munkád?}
-{123}{}{Ez igen, Púpos! Hát most inkább mennék.}
+{100}{}{Ez az ember nagyon komor arcot vÃ¡g.}
+{101}{}{? PÃºpos. Skeeter barÃ¡tja Ã©s segÃ©dje.}
+{102}{}{Ez az alak nagyon vÃ©kony, beesett szem? Ã©s mindemellett igen elkeseredett kÃ©pet vÃ¡g.}
+{110}{}{Te mÃ©g nÃ¡lam is rosszabb Ã¡llapotban vagy. SzegÃ©ny balfÃ©k.}
+{111}{}{Nincs id?m, hogy balfÃ©kekkel beszÃ©lgessek.}
+{112}{}{Nem t?nsz eszesebbnek, mint a rÃ¡mbÃ­zott brahminok.}
+{113}{}{Ugye nincs nÃ¡lad egy teljes pakli?}
+{114}{}{Istenemre mondom, zazÃ¡bb vagy, mint amennyire kinÃ©zel.}
+{120}{}{Ãœdv, engem PÃºposnak hÃ­vnak.}
+{121}{}{HÃ¡t ez elÃ©g szokatlan nÃ©v. Mire fel kaptad?}
+{122}{}{Mi a munkÃ¡d?}
+{123}{}{Ez igen, PÃºpos! HÃ¡t most inkÃ¡bb mennÃ©k.}
 {130}{}{Well, my real name's John -- but everyone here just calls me Lumpy.}
-{131}{}{Miért pont Púposnak?}
-{132}{}{Hát nem lehet ?ket okolni. Viszlát!}
-{140}{}{Üdv! Észrevetted már valaha is, hogy minden egyes brahminnak megvan a saját személyisége? Ha olyan sokáig nézed ?ket, mint én, biztos, hogy észreveszed.}
-{141}{}{Bizony. Határozottan elb?völ?ek. Tényleg azok.}
-{142}{}{Múmúk.}
-{143}{}{Mi a munkád?}
-{144}{}{Ez igazán érdekes. Ki vagy egyébként?}
-{145}{}{Érdekelne néhány dolog.}
+{131}{}{MiÃ©rt pont PÃºposnak?}
+{132}{}{HÃ¡t nem lehet ?ket okolni. ViszlÃ¡t!}
+{140}{}{Ãœdv! Ã‰szrevetted mÃ¡r valaha is, hogy minden egyes brahminnak megvan a sajÃ¡t szemÃ©lyisÃ©ge? Ha olyan sokÃ¡ig nÃ©zed ?ket, mint Ã©n, biztos, hogy Ã©szreveszed.}
+{141}{}{Bizony. HatÃ¡rozottan elb?vÃ¶l?ek. TÃ©nyleg azok.}
+{142}{}{MÃºmÃºk.}
+{143}{}{Mi a munkÃ¡d?}
+{144}{}{Ez igazÃ¡n Ã©rdekes. Ki vagy egyÃ©bkÃ©nt?}
+{145}{}{Ã‰rdekelne nÃ©hÃ¡ny dolog.}
 {146}{}{Nice to meet you. Goodbye.}
-{150}{}{Üdvözlet! Gondolom Skeeterhez jöttél. A m?szaki dolgok engem eléggé hidegen hagynak, én csak egyszer?en segítek itt.}
-{151}{}{Béna egy név. Hehehe.}
+{150}{}{ÃœdvÃ¶zlet! Gondolom Skeeterhez jÃ¶ttÃ©l. A m?szaki dolgok engem elÃ©ggÃ© hidegen hagynak, Ã©n csak egyszer?en segÃ­tek itt.}
+{151}{}{BÃ©na egy nÃ©v. Hehehe.}
 {152}{}{Ki maga?}
-{153}{}{Mi a munkád?}
-{154}{}{Feltennék néhány kérdést.}
-{155}{}{Ó, értem. Akkor beszélek Skeeterrel. Kösz.}
-{160}{}{Üdv! Mivel már amúgy is meghívtad magad hozzám... mit tehetek érted?}
-{161}{}{Éhes lenni.}
-{162}{}{Csak az érdekelt volna, hol találom Skeetert.}
-{163}{}{Feltennék néhány kérdést.}
-{164}{}{Ó, elnézést. Nem akartam csak úgy berontani. Viszlát!}
-{170}{}{A brahminokat ?rzöm vagy segítek Skeeternek a m?helyében.}
+{153}{}{Mi a munkÃ¡d?}
+{154}{}{FeltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{155}{}{Ã“, Ã©rtem. Akkor beszÃ©lek Skeeterrel. KÃ¶sz.}
+{160}{}{Ãœdv! Mivel mÃ¡r amÃºgy is meghÃ­vtad magad hozzÃ¡m... mit tehetek Ã©rted?}
+{161}{}{Ã‰hes lenni.}
+{162}{}{Csak az Ã©rdekelt volna, hol talÃ¡lom Skeetert.}
+{163}{}{FeltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{164}{}{Ã“, elnÃ©zÃ©st. Nem akartam csak Ãºgy berontani. ViszlÃ¡t!}
+{170}{}{A brahminokat ?rzÃ¶m vagy segÃ­tek Skeeternek a m?helyÃ©ben.}
 {171}{}{Ki az a Skeeter?}
-{172}{}{Feltennék még kérdéseket.}
-{173}{}{Szerintem ennél többet most nem akarok tudni. Viszlát, Púpos!}
-{180}{}{Hát ez egyfajta poén. Általában mindenkit simab?r?nek hívunk, de a menedékvárosi Simab?r?ek olyan rosszul bántak velem, hogy átkereszeltek púposra.}
-{181}{}{Miért bántak veled rosszul Menedékvárosban?}
-{182}{}{Hát ez sokmindent megmagyaráz. Viszlát!}
-{190}{}{Skeeter afféle m?szerész. Bármit viszel neki, rögtön darabokra kapja. Persze el?bb vagy utóbb össze is rakja ?ket. A megjavított eszközök néha jobban m?ködnek, mint korábban.}
-{191}{}{Hol találom Skeetert?}
-{192}{}{Érdekes! Még kérdezek valami mást is.}
-{193}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
-{200}{}{Azt mondták, hogy én nem vagyok elég emberi számukra. Mondjuk jól bírom a sugárzást... itt ez remek képesség. ?k viszont nem voltak oda érte. Úgy bántak velem, mint egy kutyával.}
-{201}{}{Igazán?}
-{210}{}{Aztán egy nap már nem bírtam tovább. Úgy gondoltam, hogy inkább meghalok a pusztában, mintsem, hogy azokkal a seggfejekkel éljek Menedékvárosban.}
-{211}{}{Végül is hogy kerültél ide?}
-{220}{}{Egy Broken Hills-i karaván rámtalált és elhozott erre a helyre. Azóta is itt élek. Az itteni ghoulokra jellemz?, hogy els?sorban a bels? értékeidre figyelnek. Olyanok vagyunk, mint egy nagy család.}
-{221}{}{Miféle hely az a Broken Hills?}
-{222}{}{Hát ez érdekes. Mit szólnál, ha még feltennék néhány kérdést?}
-{223}{}{Nagyszer?, hogy milyen boldog itt az élet. Viszlát!}
-{224}{}{Szörnyszülöttek kis családja? Na, jó, nem akarok t?led semmi egyebet hallani. Volt szerencsém...}
-{230}{}{Broken Hillsb?l hozatjuk az atomreaktorunkba való uránt, amit - amennyire én tudom - az ottani mutánsok bányásznak ki. A kereskedelmet emberek révén bonyolítják.}
-{231}{}{Miért éppen emberek bonyolítják a kereskedelmet?}
+{172}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{173}{}{Szerintem ennÃ©l tÃ¶bbet most nem akarok tudni. ViszlÃ¡t, PÃºpos!}
+{180}{}{HÃ¡t ez egyfajta poÃ©n. ÃltalÃ¡ban mindenkit simab?r?nek hÃ­vunk, de a menedÃ©kvÃ¡rosi Simab?r?ek olyan rosszul bÃ¡ntak velem, hogy Ã¡tkereszeltek pÃºposra.}
+{181}{}{MiÃ©rt bÃ¡ntak veled rosszul MenedÃ©kvÃ¡rosban?}
+{182}{}{HÃ¡t ez sokmindent megmagyarÃ¡z. ViszlÃ¡t!}
+{190}{}{Skeeter affÃ©le m?szerÃ©sz. BÃ¡rmit viszel neki, rÃ¶gtÃ¶n darabokra kapja. Persze el?bb vagy utÃ³bb Ã¶ssze is rakja ?ket. A megjavÃ­tott eszkÃ¶zÃ¶k nÃ©ha jobban m?kÃ¶dnek, mint korÃ¡bban.}
+{191}{}{Hol talÃ¡lom Skeetert?}
+{192}{}{Ã‰rdekes! MÃ©g kÃ©rdezek valami mÃ¡st is.}
+{193}{}{NagyjÃ¡bÃ³l ennyi informÃ¡ciÃ³ra lett volna szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{200}{}{Azt mondtÃ¡k, hogy Ã©n nem vagyok elÃ©g emberi szÃ¡mukra. Mondjuk jÃ³l bÃ­rom a sugÃ¡rzÃ¡st... itt ez remek kÃ©pessÃ©g. ?k viszont nem voltak oda Ã©rte. Ãšgy bÃ¡ntak velem, mint egy kutyÃ¡val.}
+{201}{}{IgazÃ¡n?}
+{210}{}{AztÃ¡n egy nap mÃ¡r nem bÃ­rtam tovÃ¡bb. Ãšgy gondoltam, hogy inkÃ¡bb meghalok a pusztÃ¡ban, mintsem, hogy azokkal a seggfejekkel Ã©ljek MenedÃ©kvÃ¡rosban.}
+{211}{}{VÃ©gÃ¼l is hogy kerÃ¼ltÃ©l ide?}
+{220}{}{Egy Broken Hills-i karavÃ¡n rÃ¡mtalÃ¡lt Ã©s elhozott erre a helyre. AzÃ³ta is itt Ã©lek. Az itteni ghoulokra jellemz?, hogy els?sorban a bels? Ã©rtÃ©keidre figyelnek. Olyanok vagyunk, mint egy nagy csalÃ¡d.}
+{221}{}{MifÃ©le hely az a Broken Hills?}
+{222}{}{HÃ¡t ez Ã©rdekes. Mit szÃ³lnÃ¡l, ha mÃ©g feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{223}{}{Nagyszer?, hogy milyen boldog itt az Ã©let. ViszlÃ¡t!}
+{224}{}{SzÃ¶rnyszÃ¼lÃ¶ttek kis csalÃ¡dja? Na, jÃ³, nem akarok t?led semmi egyebet hallani. Volt szerencsÃ©m...}
+{230}{}{Broken Hillsb?l hozatjuk az atomreaktorunkba valÃ³ urÃ¡nt, amit - amennyire Ã©n tudom - az ottani mutÃ¡nsok bÃ¡nyÃ¡sznak ki. A kereskedelmet emberek rÃ©vÃ©n bonyolÃ­tjÃ¡k.}
+{231}{}{MiÃ©rt Ã©ppen emberek bonyolÃ­tjÃ¡k a kereskedelmet?}
 {240}{}{Mit akarsz tudni?}
-{241}{}{Nem vagy te túl kiváncsi fajta? Na, jó, mit akarsz tudni?}
-{242}{}{Mit akarsz tehát tudni?}
-{243}{}{Mi ez a rengeteg hulladék a roncstelepen?}
-{244}{}{Mi a munkád?}
+{241}{}{Nem vagy te tÃºl kivÃ¡ncsi fajta? Na, jÃ³, mit akarsz tudni?}
+{242}{}{Mit akarsz tehÃ¡t tudni?}
+{243}{}{Mi ez a rengeteg hulladÃ©k a roncstelepen?}
+{244}{}{Mi a munkÃ¡d?}
 {245}{}{Ki az a Skeeter?}
-{246}{}{Szokott itt bármi szokatlan történni?}
-{250}{}{Mivel Menedékvárosnak is szállítanak uránt. A Menedékvárosiak bárkit, aki nem színtiszta ember, leprásnak min?sítenek. A Broken Hillsiek ezért béreltek fel embereket a feladatra. Valami Chad nevezet? fickót, ha jól emlékszem.}
-{251}{}{Chad? Majd megpróbálom nem elfelejteni. Ellenben volna még néhány kérdésem.}
-{252}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
-{260}{}{Az a helyzet, hogy a hulladék nagy része a reaktor építése után maradt meg... még a háború el?ttr?l. Hogy a többi honnan jön, fogalmam sincs. Skeeter gy?jtögeti az ilyesmit.}
+{246}{}{Szokott itt bÃ¡rmi szokatlan tÃ¶rtÃ©nni?}
+{250}{}{Mivel MenedÃ©kvÃ¡rosnak is szÃ¡llÃ­tanak urÃ¡nt. A MenedÃ©kvÃ¡rosiak bÃ¡rkit, aki nem szÃ­ntiszta ember, leprÃ¡snak min?sÃ­tenek. A Broken Hillsiek ezÃ©rt bÃ©reltek fel embereket a feladatra. Valami Chad nevezet? fickÃ³t, ha jÃ³l emlÃ©kszem.}
+{251}{}{Chad? Majd megprÃ³bÃ¡lom nem elfelejteni. Ellenben volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{252}{}{NagyjÃ¡bÃ³l ennyi informÃ¡ciÃ³ra lett volna szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{260}{}{Az a helyzet, hogy a hulladÃ©k nagy rÃ©sze a reaktor Ã©pÃ­tÃ©se utÃ¡n maradt meg... mÃ©g a hÃ¡borÃº el?ttr?l. Hogy a tÃ¶bbi honnan jÃ¶n, fogalmam sincs. Skeeter gy?jtÃ¶geti az ilyesmit.}
 {261}{}{Ki az a Skeeter?}
-{262}{}{Elgondolkodtató. Na, akkor még kérdeznék valamit.}
-{263}{}{Úgy vélem, most elég lesz ennyi tudnivaló is. Sok szerencsét!}
-{270}{}{Nem kell nagyon messzire menned. Csak járj nyitott szemmel... (magának) Hogy milyen emberek vannak...}
-{271}{}{Skeeter általában a m?helyében van a befejezetlen reaktortól délre. Nem s?r?n szokta kidugni onnan az orrát.}
-{272}{}{Köszönöm szépen. Viszlát!}
-{273}{}{Nem tudom, Skeeter hol van mostanában.}
-{280}{}{Többnyire elvagyok a munkámmal, de kés? éjszakánként szoktam fura hangokat hallani.}
-{281}{}{Fura hangokat? Úgymint?}
-{282}{}{Ugyan már! Nekem elmondhatod, miket hallasz. Nem mondom el senkinek.}
-{283}{}{Én is, de szerintem a hangok a fejemb?l jönnek.}
-{290}{}{Hát engedelmeddel nem vagyok benne biztos. Szerintem embereket hallottam, legalábbis nagyon úgy hangzott. Kés? éjszakánként jöttek-mentek a reaktorveremnél.}
-{291}{}{Emberek? Minden éjjel?}
-{292}{}{Érdekes! Még kérdezek valami mást is.}
-{300}{}{Nem tudom. Az emberek félnótásnak néznének. Meglehet, hogy csak a szél fúj keresztül a szeméthegyek közt.}
-{301}{}{Nem hallottam én semmit. Most pedig hagyj békén ezzel!}
-{302}{}{Rendben. Tereljük másra a szót!}
-{310}{}{(Mélyen a szemedbe néz) Hangokat hallasz a fejedben? Azt hallod, hogy mennyivel jobb vagy a többieknél? Az mondogatják, hogy egyszer az emberek majd leborulnak a nagyságod el?tt? (mosolyog és bólogat)}
-{311}{}{Hát nem igazán...}
-{312}{}{Igen-igen. Ilyesmiket. Mással nem ez történik?}
-{320}{}{Ez jó. Már kezdtem aggódni miattad.}
-{321}{}{Kösz, hogy aggódsz miattam. Hadd tegyek fel újabb kérdéseket!}
-{322}{}{Hát igen. Asszem, eljött az id?, hogy lelépjek. Viszlát!}
-{330}{}{Hát els? látásra ilyennek tartottalak, de akkor még nem voltam biztos benne! Na, t?nés, te elfuserált marharépa.}
-{331}{}{Öhm, igen. Mindenesetre, viszlát!}
-{332}{}{Hát igen, egyikünk egy jó nagy marharépa... Gondolom, jól megkavart, hogy vajon melyikünk lehet az.}
-{340}{}{Hát nem tudom, hogy emberek voltak-e vagy mi a szösz, de rendszerint minden éjjel hallom. A reaktorverem irányából folyton hallom a hangokat. Nem tudom, mi folyik ott, és nem is nagyon akarom tudni.}
-{341}{}{Nem hinném, hogy ez a te hibád lenne. Nem lehet megsaccolni, mi lehet odalenn.}
-{342}{}{Kösz az információt. Viszlát!}
-{343}{}{Az a reaktorverem nem túlzottan radioaktív, hogy bármi megéljen benne?}
-{350}{}{Nem, ezt a részt nem fejeztük be, amikor kitört a háború.}
-{351}{}{Világos. Hmm... tudnál még mondani valami érdekeset?}
+{262}{}{ElgondolkodtatÃ³. Na, akkor mÃ©g kÃ©rdeznÃ©k valamit.}
+{263}{}{Ãšgy vÃ©lem, most elÃ©g lesz ennyi tudnivalÃ³ is. Sok szerencsÃ©t!}
+{270}{}{Nem kell nagyon messzire menned. Csak jÃ¡rj nyitott szemmel... (magÃ¡nak) Hogy milyen emberek vannak...}
+{271}{}{Skeeter Ã¡ltalÃ¡ban a m?helyÃ©ben van a befejezetlen reaktortÃ³l dÃ©lre. Nem s?r?n szokta kidugni onnan az orrÃ¡t.}
+{272}{}{KÃ¶szÃ¶nÃ¶m szÃ©pen. ViszlÃ¡t!}
+{273}{}{Nem tudom, Skeeter hol van mostanÃ¡ban.}
+{280}{}{TÃ¶bbnyire elvagyok a munkÃ¡mmal, de kÃ©s? Ã©jszakÃ¡nkÃ©nt szoktam fura hangokat hallani.}
+{281}{}{Fura hangokat? Ãšgymint?}
+{282}{}{Ugyan mÃ¡r! Nekem elmondhatod, miket hallasz. Nem mondom el senkinek.}
+{283}{}{Ã‰n is, de szerintem a hangok a fejemb?l jÃ¶nnek.}
+{290}{}{HÃ¡t engedelmeddel nem vagyok benne biztos. Szerintem embereket hallottam, legalÃ¡bbis nagyon Ãºgy hangzott. KÃ©s? Ã©jszakÃ¡nkÃ©nt jÃ¶ttek-mentek a reaktorveremnÃ©l.}
+{291}{}{Emberek? Minden Ã©jjel?}
+{292}{}{Ã‰rdekes! MÃ©g kÃ©rdezek valami mÃ¡st is.}
+{300}{}{Nem tudom. Az emberek fÃ©lnÃ³tÃ¡snak nÃ©znÃ©nek. Meglehet, hogy csak a szÃ©l fÃºj keresztÃ¼l a szemÃ©thegyek kÃ¶zt.}
+{301}{}{Nem hallottam Ã©n semmit. Most pedig hagyj bÃ©kÃ©n ezzel!}
+{302}{}{Rendben. TereljÃ¼k mÃ¡sra a szÃ³t!}
+{310}{}{(MÃ©lyen a szemedbe nÃ©z) Hangokat hallasz a fejedben? Azt hallod, hogy mennyivel jobb vagy a tÃ¶bbieknÃ©l? Az mondogatjÃ¡k, hogy egyszer az emberek majd leborulnak a nagysÃ¡god el?tt? (mosolyog Ã©s bÃ³logat)}
+{311}{}{HÃ¡t nem igazÃ¡n...}
+{312}{}{Igen-igen. Ilyesmiket. MÃ¡ssal nem ez tÃ¶rtÃ©nik?}
+{320}{}{Ez jÃ³. MÃ¡r kezdtem aggÃ³dni miattad.}
+{321}{}{KÃ¶sz, hogy aggÃ³dsz miattam. Hadd tegyek fel Ãºjabb kÃ©rdÃ©seket!}
+{322}{}{HÃ¡t igen. Asszem, eljÃ¶tt az id?, hogy lelÃ©pjek. ViszlÃ¡t!}
+{330}{}{HÃ¡t els? lÃ¡tÃ¡sra ilyennek tartottalak, de akkor mÃ©g nem voltam biztos benne! Na, t?nÃ©s, te elfuserÃ¡lt marharÃ©pa.}
+{331}{}{Ã–hm, igen. Mindenesetre, viszlÃ¡t!}
+{332}{}{HÃ¡t igen, egyikÃ¼nk egy jÃ³ nagy marharÃ©pa... Gondolom, jÃ³l megkavart, hogy vajon melyikÃ¼nk lehet az.}
+{340}{}{HÃ¡t nem tudom, hogy emberek voltak-e vagy mi a szÃ¶sz, de rendszerint minden Ã©jjel hallom. A reaktorverem irÃ¡nyÃ¡bÃ³l folyton hallom a hangokat. Nem tudom, mi folyik ott, Ã©s nem is nagyon akarom tudni.}
+{341}{}{Nem hinnÃ©m, hogy ez a te hibÃ¡d lenne. Nem lehet megsaccolni, mi lehet odalenn.}
+{342}{}{KÃ¶sz az informÃ¡ciÃ³t. ViszlÃ¡t!}
+{343}{}{Az a reaktorverem nem tÃºlzottan radioaktÃ­v, hogy bÃ¡rmi megÃ©ljen benne?}
+{350}{}{Nem, ezt a rÃ©szt nem fejeztÃ¼k be, amikor kitÃ¶rt a hÃ¡borÃº.}
+{351}{}{VilÃ¡gos. Hmm... tudnÃ¡l mÃ©g mondani valami Ã©rdekeset?}

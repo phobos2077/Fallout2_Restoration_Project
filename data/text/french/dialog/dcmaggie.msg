@@ -3,14 +3,14 @@
 {150}{}{This looks like the owner.}
 {151}{}{This is Becky, owner of this place.}
 {152}{}{[PARLER]}
-{153}{}{Hello, stranger, and welcome to my saloon. I’m Becky.}
+{153}{}{Hello, stranger, and welcome to my saloon. Iâ€™m Becky.}
 {154}{}{Hello, I am }
-{155}{}{. Y'a des choses à faire par ici ?}
+{155}{}{. Y'a des choses Ã  faire par ici ?}
 {156}{}{Salut, je suis}
 {157}{}{. Can I ask some questions?}
 {158}{}{M'man ?}
 {159}{}{Mag gah.}
-{160}{}{Run along. I don’t need your kind here.}
+{160}{}{Run along. I donâ€™t need your kind here.}
 {161}{}{Mmmm...}
 {162}{}{Va t'faire !}
 {163}{}{J'y vais.}
@@ -18,13 +18,13 @@
 {165}{}{Drink of whiskey is $5 and the gambling tables are right over there. Have a good one.}
 {166}{}{Puis-je te poser une question ?}
 {167}{}{I want a drink!}
-{168}{}{Hmm, those are some cheap drinks. Let’s see one.}
+{168}{}{Hmm, those are some cheap drinks. Letâ€™s see one.}
 {169}{}{Merci. Au revoir.}
 {170}{}{Vault 13? Nope, never heard of it.}
 {171}{}{Hmm, can I ask something else?}
 {172}{}{Damn, I need to find it. Bye.}
 {173}{}{Que veux-tu savoir ?}
-{174}{}{Where’s a good place to eat?}
+{174}{}{Whereâ€™s a good place to eat?}
 {175}{}{Do you know where Vault 13 is?}
 {176}{}{Why are your drinks so cheap?}
 {177}{}{Rien. Salut.}
@@ -34,32 +34,32 @@
 {181}{}{Merci. Au revoir.}
 {182}{}{Va-t'en !}
 {183}{}{Gwah.}
-{184}{}{I’ll give you something to beat.}
+{184}{}{Iâ€™ll give you something to beat.}
 {185}{}{Quick question first?}
 {186}{}{Salut.}
 {187}{}{A shot of whiskey is $5. Pay first.}
 {188}{}{Heinh ?}
-{189}{}{Here’s the money.}
+{189}{}{Hereâ€™s the money.}
 {190}{}{Changed my mind.}
-{191}{}{I’m a little short of cash. Can I have a tab?}
+{191}{}{Iâ€™m a little short of cash. Can I have a tab?}
 {192}{}{Puis-je te poser une question ?}
 {193}{}{Gotta go.}
-{194}{}{Here’s the drink. Anything else?}
+{194}{}{Hereâ€™s the drink. Anything else?}
 {195}{}{Question?}
 {196}{}{Yeha, how about you and I...}
 {197}{}{Non.}
-{198}{}{Hey, you don’t enough cash for this drink. You’re poorer than even these sops!}
+{198}{}{Hey, you donâ€™t enough cash for this drink. Youâ€™re poorer than even these sops!}
 {199}{}{Pardon.}
-{200}{}{Hmm, I’ll come back.}
-{201}{}{Hmm. Let me get someone to watch the bar. You and I can go into the back room and play a little game I call "First Strike." If you’re good, well, there’s "Ground Zero."}
+{200}{}{Hmm, Iâ€™ll come back.}
+{201}{}{Hmm. Let me get someone to watch the bar. You and I can go into the back room and play a little game I call "First Strike." If youâ€™re good, well, thereâ€™s "Ground Zero."}
 {202}{}{D'accord !}
 {203}{}{Er...uh...I have to go.}
 {205}{}{You were Ok.}
-{206}{}{Next time, let’s play "Into the Glow." But for now...}
+{206}{}{Next time, letâ€™s play "Into the Glow." But for now...}
 {207}{}{Can you do something for me?}
-{208}{}{I have to go, but I’ll come back.}
+{208}{}{I have to go, but Iâ€™ll come back.}
 {209}{}{What can I do for you, sweet cheeks?}
-{210}{}{I need some more lovin’.}
+{210}{}{I need some more lovinâ€™.}
 {211}{}{I got some questions.}
 {212}{}{How can you sell your drinks so cheaply?}
 {213}{}{How about a drink?}
@@ -69,14 +69,14 @@
 {217}{}{Later then.}
 {218}{}{I have a still in the basement. I made it myself. Beats paying triple to those New Reno gangsters.}
 {219}{}{Smart girl! I like that!}
-{220}{}{Hmm, I have to go. I’ll see you later.}
+{220}{}{Hmm, I have to go. Iâ€™ll see you later.}
 {221}{}{Why? Why did you destroy my still? You bastard!}
 {222}{}{Nothing personal. I got paid to do it.}
 {223}{}{Quel dommage !}
 {224}{}{Salut.}
-{225}{}{I’ll just make another one, you know.}
+{225}{}{Iâ€™ll just make another one, you know.}
 {226}{}{I know.}
-{227}{}{Well, that’s good.}
+{227}{}{Well, thatâ€™s good.}
 {228}{}{Salut.}
 {232}{}{Why? Why did you destroy my still? You bitch!}
 {233}{}{Where are you, baby?}

@@ -11,7 +11,7 @@
 {1000}{}{Plasmaexplosion}
 {1100}{}{Explosion}
 {1200}{}{Scroll blocker}
-{1300}{}{Elektrizit‰tsstrahl}
+{1300}{}{Elektrizit√§tsstrahl}
 {1400}{}{Explosion}
 {1500}{}{Explosion}
 {1600}{}{Ausgang}

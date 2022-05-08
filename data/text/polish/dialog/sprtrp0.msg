@@ -1,7 +1,7 @@
-{100}{}{Widzisz uniesion¹ p³ytê. Wygl¹da na to, ¿e jest to czêœæ pu³apki.}
-{101}{}{ widzi uniesion¹ p³ytê. Wygl¹da na to, ¿e jest to czêœæ pu³apki.}
-{102}{}{Widzisz uniesion¹ p³ytê.}
-{103}{}{ widzi uniesion¹ p³ytê.}
-{104}{}{Uruchamiasz pu³apkê i o w³os unikasz pocisku wystrzelonego ze œciany.}
-{105}{}{ uruchamia pulapkê i o w³os unika pocisku wystrzelonego ze œciany.}
-{106}{}{Widzisz uniesion¹ p³ytê, która wygl¹da ca³kowicie niegroŸnie.}
+{100}{}{Widzisz uniesionÄ… pÅ‚ytÄ™. WyglÄ…da na to, Å¼e jest to czÄ™Å›Ä‡ puÅ‚apki.}
+{101}{}{ widzi uniesionÄ… pÅ‚ytÄ™. WyglÄ…da na to, Å¼e jest to czÄ™Å›Ä‡ puÅ‚apki.}
+{102}{}{Widzisz uniesionÄ… pÅ‚ytÄ™.}
+{103}{}{ widzi uniesionÄ… pÅ‚ytÄ™.}
+{104}{}{Uruchamiasz puÅ‚apkÄ™ i o wÅ‚os unikasz pocisku wystrzelonego ze Å›ciany.}
+{105}{}{ uruchamia pulapkÄ™ i o wÅ‚os unika pocisku wystrzelonego ze Å›ciany.}
+{106}{}{Widzisz uniesionÄ… pÅ‚ytÄ™, ktÃ³ra wyglÄ…da caÅ‚kowicie niegroÅºnie.}

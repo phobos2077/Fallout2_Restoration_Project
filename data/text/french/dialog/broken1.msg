@@ -1,1 +1,1 @@
-{100}{}{Tu arrives dans une petite ville appelée les Collines Brisées.}
+{100}{}{Tu arrives dans une petite ville appelÃ©e les Collines BrisÃ©es.}

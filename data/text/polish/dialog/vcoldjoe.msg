@@ -1,69 +1,69 @@
-{100}{}{Widzisz starego mê¿czyznê z dzikim b³yskiem w oku.}
-{101}{}{Widzisz Starego Joe, miejscowego uczonego idiotê.}
-{102}{}{Hej. Dawno ciê nie widzia³em.}
-{103}{}{Czy my siê znamy?}
-{104}{}{O tak. Kopê lat. Co przez ten czas robi³eœ?}
-{105}{}{Racja, tyle lat minê³o. Czym siê teraz zajmujesz?}
-{106}{}{Bywa³o siê tu i tam. Sk¹d mnie znasz?}
-{107}{}{S³uchaj staruchu, nie mam pojêcia kim jesteœ.}
-{108}{}{O tak. Wiesz, krêci³em siê po okolicy, a¿ w koñcu znalaz³em siê w tym przeklêtym miejscu. Nie jak za dawnych czasów, o nie.}
-{109}{}{Ech, stare dobre czasy. Pamiêtasz jak kiedyœ...}
-{110}{}{Nic teraz nie jest takie jak dawniej, o nie. A teraz powiedz mi... co takiego razem zrobiliœmy?}
-{111}{}{Nie pamiêtasz mnie, prawda? Rzeczywiœcie, wygl¹dasz za m³odo.}
-{112}{}{Co chcesz przez to powiedzieæ?}
-{113}{}{A jednak wygl¹dasz tak znajomo. Ach, to pewnie przez ten mój wzrok. Dobrego dnia ¿yczê.}
-{114}{}{Uch, pewnie... mi³ego dnia.}
-{115}{}{Pewnie, nieŸle dokopaliœmy Mistrzowi, prawda? Ale kiedy ciebie zabrak³o, wszystko siê posypa³o. Musia³em siê przeprowadziæ i zmieniæ imiê. A gdzie ciebie ponios³o?}
-{116}{}{Opiekowano siê mn¹ w ma³ej wiosce.}
-{117}{}{Wiesz, lepiej uwa¿aj tutaj na siebie. Nic nie jest takie ³atwe jak kiedyœ. Lepiej dobrze siê pilnuj.}
-{118}{}{Dobra, dziêki.}
-{119}{}{Szuka³em przez jakiœ czas twojej Krypty, ale nigdy jej nie znalaz³em. Masz mo¿e jakieœ ciekawe historie dla swojego starego przyjaciela Iana?}
+{100}{}{Widzisz starego mÄ™Å¼czyznÄ™ z dzikim bÅ‚yskiem w oku.}
+{101}{}{Widzisz Starego Joe, miejscowego uczonego idiotÄ™.}
+{102}{}{Hej. Dawno ciÄ™ nie widziaÅ‚em.}
+{103}{}{Czy my siÄ™ znamy?}
+{104}{}{O tak. KopÄ™ lat. Co przez ten czas robiÅ‚eÅ›?}
+{105}{}{Racja, tyle lat minÄ™Å‚o. Czym siÄ™ teraz zajmujesz?}
+{106}{}{BywaÅ‚o siÄ™ tu i tam. SkÄ…d mnie znasz?}
+{107}{}{SÅ‚uchaj staruchu, nie mam pojÄ™cia kim jesteÅ›.}
+{108}{}{O tak. Wiesz, krÄ™ciÅ‚em siÄ™ po okolicy, aÅ¼ w koÅ„cu znalazÅ‚em siÄ™ w tym przeklÄ™tym miejscu. Nie jak za dawnych czasÃ³w, o nie.}
+{109}{}{Ech, stare dobre czasy. PamiÄ™tasz jak kiedyÅ›...}
+{110}{}{Nic teraz nie jest takie jak dawniej, o nie. A teraz powiedz mi... co takiego razem zrobiliÅ›my?}
+{111}{}{Nie pamiÄ™tasz mnie, prawda? RzeczywiÅ›cie, wyglÄ…dasz za mÅ‚odo.}
+{112}{}{Co chcesz przez to powiedzieÄ‡?}
+{113}{}{A jednak wyglÄ…dasz tak znajomo. Ach, to pewnie przez ten mÃ³j wzrok. Dobrego dnia Å¼yczÄ™.}
+{114}{}{Uch, pewnie... miÅ‚ego dnia.}
+{115}{}{Pewnie, nieÅºle dokopaliÅ›my Mistrzowi, prawda? Ale kiedy ciebie zabrakÅ‚o, wszystko siÄ™ posypaÅ‚o. MusiaÅ‚em siÄ™ przeprowadziÄ‡ i zmieniÄ‡ imiÄ™. A gdzie ciebie poniosÅ‚o?}
+{116}{}{Opiekowano siÄ™ mnÄ… w maÅ‚ej wiosce.}
+{117}{}{Wiesz, lepiej uwaÅ¼aj tutaj na siebie. Nic nie jest takie Å‚atwe jak kiedyÅ›. Lepiej dobrze siÄ™ pilnuj.}
+{118}{}{Dobra, dziÄ™ki.}
+{119}{}{SzukaÅ‚em przez jakiÅ› czas twojej Krypty, ale nigdy jej nie znalazÅ‚em. Masz moÅ¼e jakieÅ› ciekawe historie dla swojego starego przyjaciela Iana?}
 {120}{}{Ian?}
-{121}{}{Ta, Ian. Nie pamiêtasz mnie? To ju¿ tyle lat. Myœla³by kto, ¿e nie zapomnisz swego najlepszego kumpla. No... mo¿e oprócz tego ca³ego strzelania w plecy. Jeszcze raz przepraszam.}
-{122}{}{Przykro mi, ale chyba wzi¹³eœ mnie za Przybysza z Krypty. Moja wioska zosta³a za³o¿ona przez osobê, która pochodzi³a z Krypty.}
-{123}{}{No, teraz to siê trochê lepiej trzyma kupy. Dobrze wiedzieæ, ¿e mój przyjaciel sobie poradzi³. Stary Ian ma dla ciebie radê. Uwa¿aj tu na siebie. To miejsce nie jest takie s³odkie, na jakie wygl¹da. }
-{124}{}{Co tu siê dzieje?}
-{125}{}{Widzisz, Obywatele Kryptopolis bardzo sobie ceni¹ swój rodowód i nie interesuj¹ siê zbytnio takimi jak ja czy ty. WeŸ to. Pomo¿e ci jeœli sprawy wymkn¹ siê spod kontroli. Chyba bêdzie lepiej, ¿eby nikt ciê nie widzia³ jak rozmawiasz ze starym wariatem. Lepiej ju¿ ruszaj.}
-{126}{}{Dziêki za pomoc.}
-{127}{}{Pozwól staruszkowi odpocz¹æ.}
-{128}{}{Takie podobieñstwo...}
+{121}{}{Ta, Ian. Nie pamiÄ™tasz mnie? To juÅ¼ tyle lat. MyÅ›laÅ‚by kto, Å¼e nie zapomnisz swego najlepszego kumpla. No... moÅ¼e oprÃ³cz tego caÅ‚ego strzelania w plecy. Jeszcze raz przepraszam.}
+{122}{}{Przykro mi, ale chyba wziÄ…Å‚eÅ› mnie za Przybysza z Krypty. Moja wioska zostaÅ‚a zaÅ‚oÅ¼ona przez osobÄ™, ktÃ³ra pochodziÅ‚a z Krypty.}
+{123}{}{No, teraz to siÄ™ trochÄ™ lepiej trzyma kupy. Dobrze wiedzieÄ‡, Å¼e mÃ³j przyjaciel sobie poradziÅ‚. Stary Ian ma dla ciebie radÄ™. UwaÅ¼aj tu na siebie. To miejsce nie jest takie sÅ‚odkie, na jakie wyglÄ…da. }
+{124}{}{Co tu siÄ™ dzieje?}
+{125}{}{Widzisz, Obywatele Kryptopolis bardzo sobie ceniÄ… swÃ³j rodowÃ³d i nie interesujÄ… siÄ™ zbytnio takimi jak ja czy ty. WeÅº to. PomoÅ¼e ci jeÅ›li sprawy wymknÄ… siÄ™ spod kontroli. Chyba bÄ™dzie lepiej, Å¼eby nikt ciÄ™ nie widziaÅ‚ jak rozmawiasz ze starym wariatem. Lepiej juÅ¼ ruszaj.}
+{126}{}{DziÄ™ki za pomoc.}
+{127}{}{PozwÃ³l staruszkowi odpoczÄ…Ä‡.}
+{128}{}{Takie podobieÅ„stwo...}
 {129}{}{Zostaw mnie teraz samego.}
-{130}{}{Lepiej ju¿ idŸ.}
-{131}{}{Jeœli bêdziemy d³u¿ej rozmawiaæ, ktoœ mo¿e nabraæ podejrzeñ.}
-{132}{}{No ju¿, idŸ. Uczyñ mojego przyjaciela dumnym.}
-{133}{}{Dziêkujê. Ale mam jeszcze jedn¹ sprawê. Próbuje pomóc tej ma³ej wiosce na pó³nocny wschód st¹d. Goœæ nazwiskiem Connar powiedzia³ ¿eby ciê znaleŸæ i z tob¹ porozmawiaæ.}
-{134}{}{Connar, co? Dobry z niego cz³owiek. To dla niego mam tu oko na wszystko. Wiêc czego dok³adnie Connar chce, tym razem?}
-{135}{}{Mówi³, ¿e je¿eli on i jego ludzie dostaliby broñ mogliby utrzymaæ na wodzy miejskie patrole.}
-{136}{}{Ach, wiêc to jest ten jego nowy plan, tak? Có¿, idŸ wiêc do sklepu Szczêœliwego Harryego. Powiedz Harremu, ¿e Connar ciê przysy³a i powinien byæ w stanie odpowiednio ciê wyposa¿yæ. S¹dzê, ¿e ma trochê broni od³o¿onej specjalnie na tak¹ okazjê. Ale wed³ug mnie, to chyba nie najlepszy sposób.}
-{137}{}{W takim razie idê porozmawiaæ z Harrym. Uwa¿aj na siebie stary przyjacielu.}
-{138}{}{Czemu, co masz na myœli?}
-{139}{}{Connar i jego ludzie maj¹ silnego ducha walki, ale w tym wypadku to nie wystarczy. Kryptopolis ma niemal niewyczerpane zasoby i prêdzej czy póŸniej, wygra. Czasami, lepiej jest obgadaæ sprawy i spróbowaæ przekonaæ ludzi. To lekcja któr¹ da³ mi, Przybysz z Krypty. Starszy Radny McClure wydaje siê byæ rozs¹dnym cz³owiekiem. Mo¿liwe, ¿e z nim uda siê zawrzeæ jakieœ porozumienie.}
-{140}{}{Hmm... rozwa¿ê to. Dziêki za wszystko, czeœæ.}
-{141}{}{Mo¿e w takim razie pójdê z nim porozmawiaæ. Ale interesuj¹ mnie jeszcze te kretoszczury strzeg¹ce wioski.}
+{130}{}{Lepiej juÅ¼ idÅº.}
+{131}{}{JeÅ›li bÄ™dziemy dÅ‚uÅ¼ej rozmawiaÄ‡, ktoÅ› moÅ¼e nabraÄ‡ podejrzeÅ„.}
+{132}{}{No juÅ¼, idÅº. UczyÅ„ mojego przyjaciela dumnym.}
+{133}{}{DziÄ™kujÄ™. Ale mam jeszcze jednÄ… sprawÄ™. PrÃ³buje pomÃ³c tej maÅ‚ej wiosce na pÃ³Å‚nocny wschÃ³d stÄ…d. GoÅ›Ä‡ nazwiskiem Connar powiedziaÅ‚ Å¼eby ciÄ™ znaleÅºÄ‡ i z tobÄ… porozmawiaÄ‡.}
+{134}{}{Connar, co? Dobry z niego czÅ‚owiek. To dla niego mam tu oko na wszystko. WiÄ™c czego dokÅ‚adnie Connar chce, tym razem?}
+{135}{}{MÃ³wiÅ‚, Å¼e jeÅ¼eli on i jego ludzie dostaliby broÅ„ mogliby utrzymaÄ‡ na wodzy miejskie patrole.}
+{136}{}{Ach, wiÄ™c to jest ten jego nowy plan, tak? CÃ³Å¼, idÅº wiÄ™c do sklepu SzczÄ™Å›liwego Harryego. Powiedz Harremu, Å¼e Connar ciÄ™ przysyÅ‚a i powinien byÄ‡ w stanie odpowiednio ciÄ™ wyposaÅ¼yÄ‡. SÄ…dzÄ™, Å¼e ma trochÄ™ broni odÅ‚oÅ¼onej specjalnie na takÄ… okazjÄ™. Ale wedÅ‚ug mnie, to chyba nie najlepszy sposÃ³b.}
+{137}{}{W takim razie idÄ™ porozmawiaÄ‡ z Harrym. UwaÅ¼aj na siebie stary przyjacielu.}
+{138}{}{Czemu, co masz na myÅ›li?}
+{139}{}{Connar i jego ludzie majÄ… silnego ducha walki, ale w tym wypadku to nie wystarczy. Kryptopolis ma niemal niewyczerpane zasoby i prÄ™dzej czy pÃ³Åºniej, wygra. Czasami, lepiej jest obgadaÄ‡ sprawy i sprÃ³bowaÄ‡ przekonaÄ‡ ludzi. To lekcja ktÃ³rÄ… daÅ‚ mi, Przybysz z Krypty. Starszy Radny McClure wydaje siÄ™ byÄ‡ rozsÄ…dnym czÅ‚owiekiem. MoÅ¼liwe, Å¼e z nim uda siÄ™ zawrzeÄ‡ jakieÅ› porozumienie.}
+{140}{}{Hmm... rozwaÅ¼Ä™ to. DziÄ™ki za wszystko, czeÅ›Ä‡.}
+{141}{}{MoÅ¼e w takim razie pÃ³jdÄ™ z nim porozmawiaÄ‡. Ale interesujÄ… mnie jeszcze te kretoszczury strzegÄ…ce wioski.}
 {142}{}{Tia, co masz do powiedzenia na ich temat?}
-{143}{}{Jakiœ pomys³ sk¹d mog³y siê wzi¹æ, albo kto je kontroluje?}
-{144}{}{Tego nie jestem pewien. Przysz³a z nimi grupa ghuli. Nosili dziwne amulety i mówili o coœ jakiejœ "Odnowie". To wszystko co o wiem. Ale mo¿e sprawdŸ w Gecko. To miejsce jest pe³ne ghuli. A skoro ju¿ jesteœmy przy przeroœniêtych szczurach, czy opowiada³em ci jak kiedyœ Przybysz z Krypty i ja wybraliœmy siê do Krypty 15?}
-{145}{}{Nie, ale dobrze znam tê opowieœæ jako, ¿e sta³a siê œwiêt¹ legend¹ mojego plemienia. W ka¿dym razie, mo¿e pójdê sprawdziæ czego uda mi siê dowiedzieæ w Gecko. Uwa¿aj na siebie, Ian.}
-{146}{}{Yyy. dziêki, za podpowiedŸ. Ale myœlê, ¿e to z tob¹ muszê pogadaæ. Connar mnie przys³a³ ¿eby zapytaæ o kilka rzeczy.}
-{147}{}{Zaraz, czekaj! Connar powiedzia³ mi, ¿e ty masz jakieœ informacje.}
-{148}{}{Nie, ale dobrze znam tê opowieœæ jako, ¿e sta³a siê œwiêt¹ legend¹ mojego plemienia. W ka¿dym razie, mo¿e pójdê sprawdziæ czego uda mi siê dowiedzieæ w Gecko. Uwa¿aj na siebie.}
-{150}{}{By³ zainteresowany kupnem broni, ¿eby móc walczyæ z patrolami Kryptopolis. Ale uda³o mi siê go przekonaæ, ¿e jest lepszy sposób.}
-{151}{}{ Ach, wiêc to jest ten jego nowy plan, co? Tak, Connar to dobry cz³owiek, ale nie zawsze wszystko przemyœli do koñca. Czasami, lepiej jest obgadaæ sprawy i spróbowaæ przekonaæ ludzi. To lekcja któr¹ da³ mi, Przybysz z Krypty. Myœlê, ¿e Starszy Radny McClure jest rozs¹dnym cz³owiekiem. Mo¿liwe, ¿e z nim uda siê zawrzeæ jakieœ porozumienie.}
-{152}{}{Dobrze, masz jakiœ pomys³ z kim w radzie mogê porozmawiaæ?}
-{153}{}{Sadzê, ¿e najlepiej bêdzie porozmawiaæ ze Starszym Radnym McClure. Co o tym myœlisz?}
-{154}{}{Starszy Radny Kryptopolis McClure jest rozs¹dnym cz³owiekiem. Mo¿liwe, ¿e z nim uda siê zawrzeæ jakieœ porozumienie.}
-{155}{}{Dobrze. Spróbujê z nim porozmawiaæ. Czeœæ.}
-{156}{}{Mo¿e w takim razie pójdê z nim porozmawiaæ. Ale interesuj¹ mnie jeszcze te kretoszczury strzeg¹ce wioski.}
-{157}{}{Najlepiej z nim. Jest jedynym w radzie, który ma jeszcze trochê rozs¹dku.}
-{158}{}{Dobrze. Spróbujê z nim porozmawiaæ. Czeœæ.}
-{159}{}{W takim razie pójdê z nim porozmawiaæ. Ale interesuj¹ mnie jeszcze te kretoszczury strzeg¹ce wioski?}
-{200}{}{Hej, je¿eli naprawdê jesteœ tym Ianem, który podró¿owa³ z moim przodkiem, to mam do ciebie pytanie.}
-{201}{}{W porz¹dku. Dawaj.}
-{202}{}{Jakim cudem ci¹gle ¿yjesz? Musisz mieæ ponad setkê. Nie mówi¹c ju¿ o wspomnieniach Przybysza z Krypty, które mówi¹, ¿e zosta³eœ spalony na œmieræ w Necropolis przez Super Mutanta z miotaczem p³omieni.}
-{203}{}{[Przez chwilê zanosi siê urywanym szorstkim œmiechem; w koñcu siê uspokaja, wyciera kilka ³ez z oczu.] No to piêknie. Spalony na œmieræ miotaczem p³omieni, ha! Widzisz, powiedzia³em Przybyszowi z Krypty ¿eby wymyœli³ jak¹œ historyjkê na temat mojej œmierci, bo nie chcia³em, ¿eby któryœ z naszych starych wrogów próbowa³ mnie znaleŸæ, dlatego zmieni³em imiê. Mówi³em mu, ¿e chcê zgin¹æ w blasku chwa³y i wygl¹da, ¿e wzi¹³ to dos³ownie. Ha, klasyk.}
-{204}{}{Heh, no to, to mamy wyjaœnione. Ale interesuj¹ mnie jeszcze te kretoszczury pilnuj¹ce wioski.}
-{205}{}{Ale to ci¹gle nie wyjaœnia jakim cudem, po tych wszystkich latach, jeszcze ¿yjesz i to ca³kiem nieŸle.}
-{206}{}{Hej, jestem równie zdziwiony jak ty. Kto wie? Mo¿e ma to coœ wspólnego z tym ca³ym promieniowaniem na, które by³em wystawiony w dawnych latach. Cholera, mo¿e to po wizycie w Blasku, pamiêtam, ¿e Przybysz z Krypty wpieprza³ Rad-Xy jak cukierki, ale czy poczêstowa³ starego Iana? Oczywiœcie, ¿e nie. Chyba siê ci¹gle boczy³ o ten ma³y wypadek z przypadkowym postrza³em. He he. [Westchn¹³.] To by³y dobre czasy.}
-{207}{}{Pewnie, ¿e by³y. Dziêki za opowieœæ Joe, yyy... Ian. Dbaj o siebie.}
-{208}{}{Pewnie, ¿e by³y. Dziêki za opowieœæ Joe, yyy... Ian. Ale interesuj¹ mnie jeszcze te kretoszczury pilnuj¹ce wioski.}
-{300}{}{Chwileczkê! Czy to te kontakty w Kryptopolis, o których mówi³ Connar?}
+{143}{}{JakiÅ› pomysÅ‚ skÄ…d mogÅ‚y siÄ™ wziÄ…Ä‡, albo kto je kontroluje?}
+{144}{}{Tego nie jestem pewien. PrzyszÅ‚a z nimi grupa ghuli. Nosili dziwne amulety i mÃ³wili o coÅ› jakiejÅ› "Odnowie". To wszystko co o wiem. Ale moÅ¼e sprawdÅº w Gecko. To miejsce jest peÅ‚ne ghuli. A skoro juÅ¼ jesteÅ›my przy przeroÅ›niÄ™tych szczurach, czy opowiadaÅ‚em ci jak kiedyÅ› Przybysz z Krypty i ja wybraliÅ›my siÄ™ do Krypty 15?}
+{145}{}{Nie, ale dobrze znam tÄ™ opowieÅ›Ä‡ jako, Å¼e staÅ‚a siÄ™ Å›wiÄ™tÄ… legendÄ… mojego plemienia. W kaÅ¼dym razie, moÅ¼e pÃ³jdÄ™ sprawdziÄ‡ czego uda mi siÄ™ dowiedzieÄ‡ w Gecko. UwaÅ¼aj na siebie, Ian.}
+{146}{}{Yyy. dziÄ™ki, za podpowiedÅº. Ale myÅ›lÄ™, Å¼e to z tobÄ… muszÄ™ pogadaÄ‡. Connar mnie przysÅ‚aÅ‚ Å¼eby zapytaÄ‡ o kilka rzeczy.}
+{147}{}{Zaraz, czekaj! Connar powiedziaÅ‚ mi, Å¼e ty masz jakieÅ› informacje.}
+{148}{}{Nie, ale dobrze znam tÄ™ opowieÅ›Ä‡ jako, Å¼e staÅ‚a siÄ™ Å›wiÄ™tÄ… legendÄ… mojego plemienia. W kaÅ¼dym razie, moÅ¼e pÃ³jdÄ™ sprawdziÄ‡ czego uda mi siÄ™ dowiedzieÄ‡ w Gecko. UwaÅ¼aj na siebie.}
+{150}{}{ByÅ‚ zainteresowany kupnem broni, Å¼eby mÃ³c walczyÄ‡ z patrolami Kryptopolis. Ale udaÅ‚o mi siÄ™ go przekonaÄ‡, Å¼e jest lepszy sposÃ³b.}
+{151}{}{ Ach, wiÄ™c to jest ten jego nowy plan, co? Tak, Connar to dobry czÅ‚owiek, ale nie zawsze wszystko przemyÅ›li do koÅ„ca. Czasami, lepiej jest obgadaÄ‡ sprawy i sprÃ³bowaÄ‡ przekonaÄ‡ ludzi. To lekcja ktÃ³rÄ… daÅ‚ mi, Przybysz z Krypty. MyÅ›lÄ™, Å¼e Starszy Radny McClure jest rozsÄ…dnym czÅ‚owiekiem. MoÅ¼liwe, Å¼e z nim uda siÄ™ zawrzeÄ‡ jakieÅ› porozumienie.}
+{152}{}{Dobrze, masz jakiÅ› pomysÅ‚ z kim w radzie mogÄ™ porozmawiaÄ‡?}
+{153}{}{SadzÄ™, Å¼e najlepiej bÄ™dzie porozmawiaÄ‡ ze Starszym Radnym McClure. Co o tym myÅ›lisz?}
+{154}{}{Starszy Radny Kryptopolis McClure jest rozsÄ…dnym czÅ‚owiekiem. MoÅ¼liwe, Å¼e z nim uda siÄ™ zawrzeÄ‡ jakieÅ› porozumienie.}
+{155}{}{Dobrze. SprÃ³bujÄ™ z nim porozmawiaÄ‡. CzeÅ›Ä‡.}
+{156}{}{MoÅ¼e w takim razie pÃ³jdÄ™ z nim porozmawiaÄ‡. Ale interesujÄ… mnie jeszcze te kretoszczury strzegÄ…ce wioski.}
+{157}{}{Najlepiej z nim. Jest jedynym w radzie, ktÃ³ry ma jeszcze trochÄ™ rozsÄ…dku.}
+{158}{}{Dobrze. SprÃ³bujÄ™ z nim porozmawiaÄ‡. CzeÅ›Ä‡.}
+{159}{}{W takim razie pÃ³jdÄ™ z nim porozmawiaÄ‡. Ale interesujÄ… mnie jeszcze te kretoszczury strzegÄ…ce wioski?}
+{200}{}{Hej, jeÅ¼eli naprawdÄ™ jesteÅ› tym Ianem, ktÃ³ry podrÃ³Å¼owaÅ‚ z moim przodkiem, to mam do ciebie pytanie.}
+{201}{}{W porzÄ…dku. Dawaj.}
+{202}{}{Jakim cudem ciÄ…gle Å¼yjesz? Musisz mieÄ‡ ponad setkÄ™. Nie mÃ³wiÄ…c juÅ¼ o wspomnieniach Przybysza z Krypty, ktÃ³re mÃ³wiÄ…, Å¼e zostaÅ‚eÅ› spalony na Å›mierÄ‡ w Necropolis przez Super Mutanta z miotaczem pÅ‚omieni.}
+{203}{}{[Przez chwilÄ™ zanosi siÄ™ urywanym szorstkim Å›miechem; w koÅ„cu siÄ™ uspokaja, wyciera kilka Å‚ez z oczu.] No to piÄ™knie. Spalony na Å›mierÄ‡ miotaczem pÅ‚omieni, ha! Widzisz, powiedziaÅ‚em Przybyszowi z Krypty Å¼eby wymyÅ›liÅ‚ jakÄ…Å› historyjkÄ™ na temat mojej Å›mierci, bo nie chciaÅ‚em, Å¼eby ktÃ³ryÅ› z naszych starych wrogÃ³w prÃ³bowaÅ‚ mnie znaleÅºÄ‡, dlatego zmieniÅ‚em imiÄ™. MÃ³wiÅ‚em mu, Å¼e chcÄ™ zginÄ…Ä‡ w blasku chwaÅ‚y i wyglÄ…da, Å¼e wziÄ…Å‚ to dosÅ‚ownie. Ha, klasyk.}
+{204}{}{Heh, no to, to mamy wyjaÅ›nione. Ale interesujÄ… mnie jeszcze te kretoszczury pilnujÄ…ce wioski.}
+{205}{}{Ale to ciÄ…gle nie wyjaÅ›nia jakim cudem, po tych wszystkich latach, jeszcze Å¼yjesz i to caÅ‚kiem nieÅºle.}
+{206}{}{Hej, jestem rÃ³wnie zdziwiony jak ty. Kto wie? MoÅ¼e ma to coÅ› wspÃ³lnego z tym caÅ‚ym promieniowaniem na, ktÃ³re byÅ‚em wystawiony w dawnych latach. Cholera, moÅ¼e to po wizycie w Blasku, pamiÄ™tam, Å¼e Przybysz z Krypty wpieprzaÅ‚ Rad-Xy jak cukierki, ale czy poczÄ™stowaÅ‚ starego Iana? OczywiÅ›cie, Å¼e nie. Chyba siÄ™ ciÄ…gle boczyÅ‚ o ten maÅ‚y wypadek z przypadkowym postrzaÅ‚em. He he. [WestchnÄ…Å‚.] To byÅ‚y dobre czasy.}
+{207}{}{Pewnie, Å¼e byÅ‚y. DziÄ™ki za opowieÅ›Ä‡ Joe, yyy... Ian. Dbaj o siebie.}
+{208}{}{Pewnie, Å¼e byÅ‚y. DziÄ™ki za opowieÅ›Ä‡ Joe, yyy... Ian. Ale interesujÄ… mnie jeszcze te kretoszczury pilnujÄ…ce wioski.}
+{300}{}{ChwileczkÄ™! Czy to te kontakty w Kryptopolis, o ktÃ³rych mÃ³wiÅ‚ Connar?}

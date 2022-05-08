@@ -1,83 +1,83 @@
-{100}{}{Du siehst einen Bürger aus Den.}
+{100}{}{Du siehst einen BÃ¼rger aus Den.}
 {101}{}{Du siehst Fred.}
-{102}{}{Du siehst Fred, der sehr feine Kleidung trägt.}
-{150}{}{Er scheint angestrengt über etwas nachzudenken.}
+{102}{}{Du siehst Fred, der sehr feine Kleidung trÃ¤gt.}
+{150}{}{Er scheint angestrengt Ã¼ber etwas nachzudenken.}
 {151}{}{Er sieht richtig zufrieden aus mit seinen neuen Klamotten.}
 {200}{}{Aus mir wird eines Tages noch was werden.}
-{201}{}{Och, lass mich zufrieden, ich bin beschäftigt.}
+{201}{}{Och, lass mich zufrieden, ich bin beschÃ¤ftigt.}
 {202}{}{Der Superplan...}
 {203}{}{Eines Tages werde ich es rauskriegen...}
 {204}{}{Warum muss ich immer verlieren...}
-{205}{}{Spieltische müssen manipuliert sein...}
+{205}{}{Spieltische mÃ¼ssen manipuliert sein...}
 {206}{}{Eines Tages werd ich meinen eigenen Laden haben...}
-{207}{}{Werd schöne Kleidung haben...}
-{220}{}{Hey Mann! Es ist spät! Lass mich zufrieden.}
+{207}{}{Werd schÃ¶ne Kleidung haben...}
+{220}{}{Hey Mann! Es ist spÃ¤t! Lass mich zufrieden.}
 {221}{}{Nein, ich brauch keine Gesellschaft.}
-{222}{}{Weißt du, wie spät es ist?}
+{222}{}{WeiÃŸt du, wie spÃ¤t es ist?}
 {223}{}{Ich hab nichts.}
-{224}{}{Nerv mich doch morgen, ich bin müde.}
+{224}{}{Nerv mich doch morgen, ich bin mÃ¼de.}
 {225}{}{Hau ab.}
 {226}{}{Keiner da.}
 {227}{}{Kann nicht sprechen. Ich gehe gerade ins Bett.}
-{228}{}{Hey, junge Dame! Es ist spät. Lass mich in Ruhe.}
+{228}{}{Hey, junge Dame! Es ist spÃ¤t. Lass mich in Ruhe.}
 {240}{}{Kein Geld mehr! Lass mich in Ruhe...}
 {241}{}{Es gibt keine Arbeit. Was soll ich nur tun.}
-{242}{}{Erzähl mir nicht, ich schulde noch jemandem was! Ach!}
+{242}{}{ErzÃ¤hl mir nicht, ich schulde noch jemandem was! Ach!}
 {243}{}{Jetzt werde ich es nie mehr schaffen...}
 {244}{}{Ich bin so pleite.}
 {245}{}{Oh Mann, ich brauche Geld...}
-{246}{}{So werde ich mir nie neue Klamotten kaufen können...}
+{246}{}{So werde ich mir nie neue Klamotten kaufen kÃ¶nnen...}
 {247}{}{Ich muss mir einen neuen Superplan einfallen lassen...}
-{260}{}{Danke, dass du für mich eingesprungen bist!}
+{260}{}{Danke, dass du fÃ¼r mich eingesprungen bist!}
 {261}{}{Du bist ein echter Lebensretter.}
-{262}{}{Bald werde ich das Geld für dich haben.}
-{263}{}{Ich werd schon ganz bald das große Geld machen!}
+{262}{}{Bald werde ich das Geld fÃ¼r dich haben.}
+{263}{}{Ich werd schon ganz bald das groÃŸe Geld machen!}
 {264}{}{Zu dir werd ich als erstes gehen, wenn ich gewonnen habe.}
-{275}{}{Der Superplan wird ausgeführt!}
-{276}{}{Danke für das Darlehen! Dein Geld ist in guten Händen.}
+{275}{}{Der Superplan wird ausgefÃ¼hrt!}
+{276}{}{Danke fÃ¼r das Darlehen! Dein Geld ist in guten HÃ¤nden.}
 {277}{}{An den Tischen geht es rauh zu, aber mach dir keine Sorgen.}
-{278}{}{Eines Tages mach ich den großen Gewinn, dank dir.}
-{279}{}{Es kann jeden Tag passieren, ich fühl es.}
-{280}{}{Ich zahle dir alles zurück, das schwöre ich!}
-{281}{}{Eines Tages mach ich den großen Gewinn. Ich kann es riechen.}
-{295}{}{Häh? Kenn ich dich? Was willst du?}
+{278}{}{Eines Tages mach ich den groÃŸen Gewinn, dank dir.}
+{279}{}{Es kann jeden Tag passieren, ich fÃ¼hl es.}
+{280}{}{Ich zahle dir alles zurÃ¼ck, das schwÃ¶re ich!}
+{281}{}{Eines Tages mach ich den groÃŸen Gewinn. Ich kann es riechen.}
+{295}{}{HÃ¤h? Kenn ich dich? Was willst du?}
 {296}{}{Warum nervst du mich? Ich kenn dich noch nicht einmal. Los, hau ab und nerv wen anders.}
 {297}{}{Ich bin hier, das Geld abzuholen, das du jemandem schuldest.}
 {298}{}{Macht nichts.}
 {299}{}{Uk!}
-{300}{}{Tschüss.}
-{310}{}{HEY! Hier bist du! Ich habe dich überall gesucht! Schau dir diese Klamotten an!}
+{300}{}{TschÃ¼ss.}
+{310}{}{HEY! Hier bist du! Ich habe dich Ã¼berall gesucht! Schau dir diese Klamotten an!}
 {311}{}{Noch mal danke.}
 {312}{}{Sieht sehr gut aus.}
-{313}{}{Du siehst aus wie Müll!}
-{314}{}{Wäh!}
+{313}{}{Du siehst aus wie MÃ¼ll!}
+{314}{}{WÃ¤h!}
 {315}{}{Agh.}
 {320}{}{Danke. Vielen Dank! Dank dir habe ich jetzt vier davon!}
-{321}{}{Hast du also den großen Gewinn gemacht?}
+{321}{}{Hast du also den groÃŸen Gewinn gemacht?}
 {322}{}{Und, wo ist mein Geld?}
 {330}{}{Magst du meine Klamotten nicht? Ich denke, du hast recht. Ich mag sie auch nicht. Zeit,
  mal andere zu kaufen, ich kann's mir leisten. }
-{331}{}{Hast du also den großen Gewinn gemacht?}
+{331}{}{Hast du also den groÃŸen Gewinn gemacht?}
 {332}{}{Wo ist mein Geld?}
 {333}{}{Hmpf.}
-{340}{}{Ja doch! Lässt mich meinen Erfolg noch nicht mal auskosten? Hab echt hart dafür
- gearbeitet, weißt du.}
-{341}{}{Ich weiß, entschuldige.}
-{342}{}{Iss mir total egal. Wo ist das Geld, das ich für dich vorgestreckt habe?}
+{340}{}{Ja doch! LÃ¤sst mich meinen Erfolg noch nicht mal auskosten? Hab echt hart dafÃ¼r
+ gearbeitet, weiÃŸt du.}
+{341}{}{Ich weiÃŸ, entschuldige.}
+{342}{}{Iss mir total egal. Wo ist das Geld, das ich fÃ¼r dich vorgestreckt habe?}
 {343}{}{Einen Dreck werd ich. Wo ist mein Geld?}
 {350}{}{Gut. Hier. [Fred gibt dir $500.] Ein bisschen mehr, weil du mir vertraut hast. So, wir
- sehen uns später. Danke noch mal.}
+ sehen uns spÃ¤ter. Danke noch mal.}
 {351}{}{Danke auch!}
 {352}{}{Jaja.}
-{360}{}{Danke, dass du mir ausgeholfen hast. Hat mir viel bedeutet, dass ein völlig Fremder mir
- vertraut hat. Ich möchte dir das hier geben...}
+{360}{}{Danke, dass du mir ausgeholfen hast. Hat mir viel bedeutet, dass ein vÃ¶llig Fremder mir
+ vertraut hat. Ich mÃ¶chte dir das hier geben...}
 {361}{}{OK.}
-{362}{}{Das wär doch nicht nötig gewesen.}
+{362}{}{Das wÃ¤r doch nicht nÃ¶tig gewesen.}
 {363}{}{Oh.}
-{370}{}{Ich schulde dir eine Menge. Du hast mir vertraut, obwohl mein Glück mich verlassen hatte.
- Als kleine Geste des Dankes habe ich etwas für dich.}
+{370}{}{Ich schulde dir eine Menge. Du hast mir vertraut, obwohl mein GlÃ¼ck mich verlassen hatte.
+ Als kleine Geste des Dankes habe ich etwas fÃ¼r dich.}
 {371}{}{OK.}
-{372}{}{Das wär doch nicht nötig gewesen.}
+{372}{}{Das wÃ¤r doch nicht nÃ¶tig gewesen.}
 {373}{}{Oh.}
 {380}{}{Hier. [Fred gibt dir $1000.] Ich hoffe, das hilft. Du findest sicher einen Ort, wo du es
  ausgeben kannst.}
@@ -93,24 +93,24 @@
 {394}{}{Jau.}
 {400}{}{Was? Gut, in Ordnung, wenn du darauf bestehst. Vielen, vielen Dank. Und pass gut auf dich
  auf.}
-{401}{}{Tschüss.}
+{401}{}{TschÃ¼ss.}
 {410}{}{Was? Du stellst irgendein Zeug her? Siehst gar nicht aus wie ein Jet-Typ. Verschwinde,
  Missgeburt.}
 {411}{}{Hau ab!}
 {412}{}{Agh.}
-{420}{}{Was erzählst du da? Ich schulde niemandem irgend etwas. Von wem zum Teufel redest du?}
-{421}{}{Ja, das hast du letztes Mal auch schon gesagt. Ich weiß nicht, wovon du redest. Wer soll
+{420}{}{Was erzÃ¤hlst du da? Ich schulde niemandem irgend etwas. Von wem zum Teufel redest du?}
+{421}{}{Ja, das hast du letztes Mal auch schon gesagt. Ich weiÃŸ nicht, wovon du redest. Wer soll
  diese Person deiner Einbildung noch einmal sein?}
 {422}{}{Becky sagt, du schuldest ihr $500.}
 {423}{}{Becky schickt mich.}
 {424}{}{Rebecca sagt, sie hat dir $200 geliehen.}
 {430}{}{Oh ja, richtig. Rebecca hat mir $200 geliehen... oh, warte. Vielleicht... hmmm...}
 {431}{}{Sie hat mir aufgetragen, dir den Hals zu brechen, wenn du nicht zahlst.}
-{432}{}{Rück's raus.}
+{432}{}{RÃ¼ck's raus.}
 {440}{}{Ja, richtig. Ich hab in meinem ganzen Leben noch nie so viel Geld gesehen. }
 {441}{}{Hmmm.}
 {442}{}{Oh.}
-{450}{}{Ja, klar! Soweit kommt's noch. Becky würde keiner Fliege was zuleide tun. Aber hübsch ist
+{450}{}{Ja, klar! Soweit kommt's noch. Becky wÃ¼rde keiner Fliege was zuleide tun. Aber hÃ¼bsch ist
  sie...}
 {451}{}{Da irrst du dich, Rindvieh.}
 {452}{}{Vielleicht war es jemand anderes.}
@@ -118,65 +118,65 @@
  nicht aufbringen! Ich muss dich jetzt platt machen.}
 {461}{}{Entschuldigung.}
 {462}{}{Pech gehabt.}
-{470}{}{Oh, verdammt... Ich kann kaum $100 aufbringen. Kannst du mir die Hälfte vorstrecken?
- Ich verspreche, ich zahl's zurück.}
+{470}{}{Oh, verdammt... Ich kann kaum $100 aufbringen. Kannst du mir die HÃ¤lfte vorstrecken?
+ Ich verspreche, ich zahl's zurÃ¼ck.}
 {471}{}{Nein, tut mir leid.}
 {472}{}{Los jetzt, zahl die ganze Summe!}
 {473}{}{OK, gut.}
-{480}{}{Verdammt. Du ruinierst mich. Also, hier. Jetzt bin ich völlig pleite.}
-{481}{}{Oh, gut. Ich werde für dich einstehen. }
-{482}{}{Danke. Teil dir dein Geld das nächste Mal besser ein.}
-{483}{}{Danke für das Geschäft.}
+{480}{}{Verdammt. Du ruinierst mich. Also, hier. Jetzt bin ich vÃ¶llig pleite.}
+{481}{}{Oh, gut. Ich werde fÃ¼r dich einstehen. }
+{482}{}{Danke. Teil dir dein Geld das nÃ¤chste Mal besser ein.}
+{483}{}{Danke fÃ¼r das GeschÃ¤ft.}
 {490}{}{Ich hab's dir doch gesagt! Ich kann nicht! Ich werd verhungern, wenn ich es tue. Mensch,
  kannst du mir nicht aushelfen?}
-{491}{}{In Ordnung. Ich komm für die Hälfte auf.}
+{491}{}{In Ordnung. Ich komm fÃ¼r die HÃ¤lfte auf.}
 {492}{}{Nein, tut mir leid. Ich hab auch kein Geld.}
 {493}{}{Ich komme wieder.}
 {500}{}{Was? Wirklich? Super! Vielen Dank, Mann! Hier sind $100. Die anderen $100 kriegst du so
- schnell wie möglich.}
+ schnell wie mÃ¶glich.}
 {501}{}{Was! Wirklich? Super! Vielen Dank, junge Frau! Hier sind $100. Die anderen $100 kriegst
- du so schnell wie möglich.}
+ du so schnell wie mÃ¶glich.}
 {502}{}{Kein Problem.}
-{503}{}{Du tust gut daran, es mir zurück zu zahlen. }
+{503}{}{Du tust gut daran, es mir zurÃ¼ck zu zahlen. }
 {510}{}{Oh, keine Sorge, das werde ich! Du hast mein Wort und dieses Mal werde ich es nicht
  vergessen.}
 {511}{}{OK.}
-{520}{}{Weißt du, was! Diese Hundert könnten mir äh... einige Sachen vermasseln. Glaubst du, ich
- könnte ein bisschen davon zurückleihen?}
+{520}{}{WeiÃŸt du, was! Diese Hundert kÃ¶nnten mir Ã¤h... einige Sachen vermasseln. Glaubst du, ich
+ kÃ¶nnte ein bisschen davon zurÃ¼ckleihen?}
 {521}{}{Wieviel?}
 {522}{}{Niemals.}
-{530}{}{Warte! Ich weiß was. Ich geb dir $100 und du legst die anderen $100 aus, die ich Becky
- schulde. Ich zahl es dir wirklich schnell zurück.}
+{530}{}{Warte! Ich weiÃŸ was. Ich geb dir $100 und du legst die anderen $100 aus, die ich Becky
+ schulde. Ich zahl es dir wirklich schnell zurÃ¼ck.}
 {531}{}{OK, gut.}
 {532}{}{Wir verzichten.}
 {540}{}{Nur $50. Bitte! Es ist alles Teil des Meisterplans.}
 {541}{}{Also gut.}
 {542}{}{Aber dann habe ich nur noch $50, um dir dein $200-Darlehen zu zahlen.}
 {543}{}{Nein.}
-{550}{}{Wa... Äh... verdammt! Du wirst es nicht bereuen! Vertrau mir!}
+{550}{}{Wa... Ã„h... verdammt! Du wirst es nicht bereuen! Vertrau mir!}
 {551}{}{Kein Problem.}
-{560}{}{Äh, ja. Ich seh schon, deine mathematischen Fähigkeiten... Ich meine, bitte! Für dich ist
- es sicher nicht viel, aber für mich ist es höllisch viel.}
+{560}{}{Ã„h, ja. Ich seh schon, deine mathematischen FÃ¤higkeiten... Ich meine, bitte! FÃ¼r dich ist
+ es sicher nicht viel, aber fÃ¼r mich ist es hÃ¶llisch viel.}
 {561}{}{OK.}
 {562}{}{Nein.}
-{570}{}{Ja, ganz bestimmt. Jeder weiß, dass sie diesen Namen hasst. Du kannst mich nicht verkohlen!}
+{570}{}{Ja, ganz bestimmt. Jeder weiÃŸ, dass sie diesen Namen hasst. Du kannst mich nicht verkohlen!}
 {571}{}{Ich schulde ihr gar nichts.}
 {572}{}{Sie hat gesagt, du seist vergesslich.}
-{573}{}{Pass auf, ich hab keine Zeit für sowas. Bezahl endlich!}
+{573}{}{Pass auf, ich hab keine Zeit fÃ¼r sowas. Bezahl endlich!}
 {574}{}{Rebecca sagte, dass sie es dir schon vor einiger Zeit geliehen hat. }
-{580}{}{Bin ich nicht! Ich... warte. Da war dies eine Mal. Hab ich es ihr nicht zurückgezahlt?
- Ich dachte, ich hätte...}
+{580}{}{Bin ich nicht! Ich... warte. Da war dies eine Mal. Hab ich es ihr nicht zurÃ¼ckgezahlt?
+ Ich dachte, ich hÃ¤tte...}
 {581}{}{Nein, hast du nicht. Deshalb hat sie mich ja geschickt.}
 {582}{}{Los zahl jetzt einfach, dass ich von hier verschwinden kann.}
-{590}{}{Ich kann mich gar nicht daran erinnern... aber Becky hat mir und meinen Freunden früher
+{590}{}{Ich kann mich gar nicht daran erinnern... aber Becky hat mir und meinen Freunden frÃ¼her
  immer ausgeholfen...}
 {591}{}{Gib mir die $200.}
 {592}{}{Gib mir jetzt einfach das Geld.}
 {600}{}{Lass mich in Ruhe.}
 {601}{}{Wie du willst.}
 {602}{}{OK.}
-{610}{}{Äh. Hallo. Also, äh, ich nehme an, du willst das Geld. Was meinst du, könntest du mir mit
- der Hälfte aushelfen?}
+{610}{}{Ã„h. Hallo. Also, Ã¤h, ich nehme an, du willst das Geld. Was meinst du, kÃ¶nntest du mir mit
+ der HÃ¤lfte aushelfen?}
 {611}{}{Leider nein.}
 {612}{}{Wenn sie dir $200 geliehen hat, zahlst du genau das.}
 {613}{}{OK, gut.}

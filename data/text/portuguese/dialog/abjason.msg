@@ -1,132 +1,132 @@
-{100}{}{Você vê um jovem monge com óculos.}
-{101}{}{Você vê o Irmão Jason.}
+{100}{}{VocÃª vÃª um jovem monge com Ã³culos.}
+{101}{}{VocÃª vÃª o IrmÃ£o Jason.}
 {102}{}{Este monge parece estar meditando.}
-{200}{}{[O jovem monge rapidamente coloca um baralho de cartas "Trágicas" à medida que você se aproxima.] O que você quer?}
-{201}{}{Nada de você. Tchau.}
-{202}{}{Eu quero saber por que você apenas escondeu um baralho de cartas de mim.}
-{210}{}{Eu não sei o que você está falando. Eu não tenho qualquer baralho de cartas.}
-{211}{}{Não minta para mim. Eu vi você colocar no seu bolso. Eu só queria saber por quê.}
-{212}{}{Tudo bem, o que você disser. Até mais.}
-{220}{}{Olhe, não conte a ninguém, está bem? Não devemos "usar" as relíquias anteriores à guerra, basta adorá-las. Mas estes cartôes trágicos são tão legais. [Ele parece se perder em outro mundo enquanto olha amorosamente para o baralho. Depois de um momento, ele olha para você.] Oh, desculpe. Eu sou o irmão Jason, a propósito. Eu, uh, não suponha que você jogasse Trágico?}
+{200}{}{[O jovem monge rapidamente coloca um baralho de cartas "TrÃ¡gicas" Ã  medida que vocÃª se aproxima.] O que vocÃª quer?}
+{201}{}{Nada de vocÃª. Tchau.}
+{202}{}{Eu quero saber por que vocÃª apenas escondeu um baralho de cartas de mim.}
+{210}{}{Eu nÃ£o sei o que vocÃª estÃ¡ falando. Eu nÃ£o tenho qualquer baralho de cartas.}
+{211}{}{NÃ£o minta para mim. Eu vi vocÃª colocar no seu bolso. Eu sÃ³ queria saber por quÃª.}
+{212}{}{Tudo bem, o que vocÃª disser. AtÃ© mais.}
+{220}{}{Olhe, nÃ£o conte a ninguÃ©m, estÃ¡ bem? NÃ£o devemos "usar" as relÃ­quias anteriores Ã  guerra, basta adorÃ¡-las. Mas estes cartÃ´es trÃ¡gicos sÃ£o tÃ£o legais. [Ele parece se perder em outro mundo enquanto olha amorosamente para o baralho. Depois de um momento, ele olha para vocÃª.] Oh, desculpe. Eu sou o irmÃ£o Jason, a propÃ³sito. Eu, uh, nÃ£o suponha que vocÃª jogasse TrÃ¡gico?}
 {221}{}{BRING FORTH THE GARNERING!!!}
 {222}{}{Inferno sim, eu amo o Tragic the Garnering.}
-{223}{}{Eu tentei, mas não é para mim.}
+{223}{}{Eu tentei, mas nÃ£o Ã© para mim.}
 {224}{}{Eu costumava ser viciado como o diabo nesse jogo. Eu tento ficar longe dele agora.}
-{225}{}{Não.}
-{226}{}{Claro que não. Eu pareço um perdedor patético para você?}
-{230}{}{Ei, foda-se você imbecil. Apenas me deixe sozinho.}
+{225}{}{NÃ£o.}
+{226}{}{Claro que nÃ£o. Eu pareÃ§o um perdedor patÃ©tico para vocÃª?}
+{230}{}{Ei, foda-se vocÃª imbecil. Apenas me deixe sozinho.}
 {231}{}{Ei, foda-se prostituta. Apenas me deixe sozinho.}
 {232}{}{Eu adoraria, mas estou segurando o desejo de te fazer grandes danos corporais.}
 {233}{}{Tudo bem, tudo bem. Tchau.}
-{234}{}{Olha, desculpe. Isso foi grosseiro de mim. Eu não sou fã de Tragic.}
-{240}{}{Ah, eu adoraria jogar contra você, mas é muito arriscado. Eu não quero isso tirado de mim. É o que eu odeio
-  sobre este lugar. Estamos sentados em uma maldita mina de ouro de coisas incríveis antes da guerra, mas estamos proibindo-nos
-  de entrar nele. Não faz sentido. É diabólico.}
-{241}{}{Ah, eu sei o que você quer dizer. Eu queria poder jogar mais eu mesmo, mas é muito arriscado. Eu não quero isso tirado de mim.
-  Isso é o que eu odeio sobre esse lugar. Estamos sentados em uma maldita mina de ouro de coisas incríveis antes da guerra, mas estamos
-  proibindo-nos de entrar nele. Não faz sentido. É diabólico.}
-{242}{}{[Ele ri.] Nós temos um viciado em nossas mãos aqui, eu vejo. Eu queria poder jogar mais eu mesmo, mas é muito arriscado.
-  Eu não quero isso tirado de mim. Isso é o que eu odeio sobre esse lugar. Estamos sentados em uma maldita mina de ouro de coisas incríveis
-  de antes da guerra, mas estamos proibindo-nos de entrar nela. Não faz sentido. É diabólico.}
-{243}{}{Não importa, não poderíamos jogar de qualquer maneira - é muito arriscado. Eu não quero isso tirado de mim. Isso é o que
-  Odeio sobre esse lugar. Estamos sentados em uma maldita mina de ouro de coisas incríveis antes da guerra, mas estamos proibindo-nos
-  de entrar nele. Não faz sentido. É diabólico.}
-{244}{}{Sim, isso soa estúpido.}
-{245}{}{Se você não concorda com os ideais do sua ordem, então, por que você é um monge?}
-{250}{}{Você acha que eu * escolhi * ser um monge? Nasci nesse estilo de vida de merda. Eu só queria que os outros acordassem e
-  Veja como é estúpido não tirar proveito de todas essas coisas doces que coletamos. Mas não, eles estão perfeitamente satisfeitos em
-  adorar e catalogar as relíquias, mas nunca fazem nada útil com elas. Como eu disse, é diabólico demais.}
-{251}{}{Você tem um ponto, isso soa muito estúpido.}
-{252}{}{Tão imbecil como eu sentado aqui ouvindo você vadia, sobre a sua vida. Tchau.}
-{253}{}{Se você acha que é tão estúpido, então por que você não faz alguma coisa para tentar mudar as coisas?}
-{260}{}{Finalmente, alguém que concorda comigo! Olha, eu tenho essa ideia, e talvez você possa me ajudar. Você vê, os monges
-  Aqui passamos * anos * transcrevendo informações pré-guerra em nosso banco de dados de computadores. Se alguém fosse "acidentalmente"
-  formatar o banco de dados, eles perderiam todo esse trabalho. Eu acho que algo assim pode surpreendê-los em seus sentidos e nós
-  poderiamos, finalmente, desistir desse jeito estúpido de vida. Então o que você diz?}
-{261}{}{Eu digo que é uma péssima ideia e que eu terminei de falar com você.}
-{262}{}{Apague os anos do trabalho árduo de outra pessoa? Parece divertido. Eu vou fazer isso.}
-{263}{}{Por que você não o formata você mesmo?}
-{264}{}{Se você odeia aqui, por que você não vai embora?}
-{270}{}{Na verdade, eu * tenho * uma idéia de como mudar as coisas. Talvez voce possa me ajudar. Você vê, os monges aqui têm
-  passado * anos * transcrevendo informações pré-guerra no nosso banco de dados de computadores. Se alguém forçasse "acidentalmente" a formatação do
-  banco de dados, eles perderiam todo o trabalho. Eu acho que algo assim pode chocar-los de volta aos seus sentidos e poderiamos finalmente
-  desistir deste modo estúpido de vida. Então o que você diz?}
-{271}{}{Eu digo que é uma péssima ideia e que eu terminei de falar com você.}
-{272}{}{Apagar centenas de anos do trabalho árduo de outra pessoa? Parece divertido. Eu vou fazer isso.}
-{273}{}{Por que você não o formata você mesmo?}
-{274}{}{Se você odeia aqui, por que você não vai embora?}
-{280}{}{Você está brincando comigo? Eles me crucificaram se eu fizesse isso. No entanto, você é um aventureiro experiente. Inferno, eu aposto
-  Você poderia massacrar todos aqui sem derramar uma gota de suor. Então você vai fazer isso, ou você tem medo de um monte de monges pacifistas?}
-{281}{}{Eu não tenho medo de ninguém. Eu vou fazer isso.}
+{234}{}{Olha, desculpe. Isso foi grosseiro de mim. Eu nÃ£o sou fÃ£ de Tragic.}
+{240}{}{Ah, eu adoraria jogar contra vocÃª, mas Ã© muito arriscado. Eu nÃ£o quero isso tirado de mim. Ã‰ o que eu odeio
+Â  sobre este lugar. Estamos sentados em uma maldita mina de ouro de coisas incrÃ­veis antes da guerra, mas estamos proibindo-nos
+Â  de entrar nele. NÃ£o faz sentido. Ã‰ diabÃ³lico.}
+{241}{}{Ah, eu sei o que vocÃª quer dizer. Eu queria poder jogar mais eu mesmo, mas Ã© muito arriscado. Eu nÃ£o quero isso tirado de mim.
+Â  Isso Ã© o que eu odeio sobre esse lugar. Estamos sentados em uma maldita mina de ouro de coisas incrÃ­veis antes da guerra, mas estamos
+Â  proibindo-nos de entrar nele. NÃ£o faz sentido. Ã‰ diabÃ³lico.}
+{242}{}{[Ele ri.] NÃ³s temos um viciado em nossas mÃ£os aqui, eu vejo. Eu queria poder jogar mais eu mesmo, mas Ã© muito arriscado.
+Â  Eu nÃ£o quero isso tirado de mim. Isso Ã© o que eu odeio sobre esse lugar. Estamos sentados em uma maldita mina de ouro de coisas incrÃ­veis
+Â  de antes da guerra, mas estamos proibindo-nos de entrar nela. NÃ£o faz sentido. Ã‰ diabÃ³lico.}
+{243}{}{NÃ£o importa, nÃ£o poderÃ­amos jogar de qualquer maneira - Ã© muito arriscado. Eu nÃ£o quero isso tirado de mim. Isso Ã© o que
+Â  Odeio sobre esse lugar. Estamos sentados em uma maldita mina de ouro de coisas incrÃ­veis antes da guerra, mas estamos proibindo-nos
+Â  de entrar nele. NÃ£o faz sentido. Ã‰ diabÃ³lico.}
+{244}{}{Sim, isso soa estÃºpido.}
+{245}{}{Se vocÃª nÃ£o concorda com os ideais do sua ordem, entÃ£o, por que vocÃª Ã© um monge?}
+{250}{}{VocÃª acha que eu * escolhi * ser um monge? Nasci nesse estilo de vida de merda. Eu sÃ³ queria que os outros acordassem e
+Â  Veja como Ã© estÃºpido nÃ£o tirar proveito de todas essas coisas doces que coletamos. Mas nÃ£o, eles estÃ£o perfeitamente satisfeitos em
+Â  adorar e catalogar as relÃ­quias, mas nunca fazem nada Ãºtil com elas. Como eu disse, Ã© diabÃ³lico demais.}
+{251}{}{VocÃª tem um ponto, isso soa muito estÃºpido.}
+{252}{}{TÃ£o imbecil como eu sentado aqui ouvindo vocÃª vadia, sobre a sua vida. Tchau.}
+{253}{}{Se vocÃª acha que Ã© tÃ£o estÃºpido, entÃ£o por que vocÃª nÃ£o faz alguma coisa para tentar mudar as coisas?}
+{260}{}{Finalmente, alguÃ©m que concorda comigo! Olha, eu tenho essa ideia, e talvez vocÃª possa me ajudar. VocÃª vÃª, os monges
+Â  Aqui passamos * anos * transcrevendo informaÃ§Ãµes prÃ©-guerra em nosso banco de dados de computadores. Se alguÃ©m fosse "acidentalmente"
+Â  formatar o banco de dados, eles perderiam todo esse trabalho. Eu acho que algo assim pode surpreendÃª-los em seus sentidos e nÃ³s
+Â  poderiamos, finalmente, desistir desse jeito estÃºpido de vida. EntÃ£o o que vocÃª diz?}
+{261}{}{Eu digo que Ã© uma pÃ©ssima ideia e que eu terminei de falar com vocÃª.}
+{262}{}{Apague os anos do trabalho Ã¡rduo de outra pessoa? Parece divertido. Eu vou fazer isso.}
+{263}{}{Por que vocÃª nÃ£o o formata vocÃª mesmo?}
+{264}{}{Se vocÃª odeia aqui, por que vocÃª nÃ£o vai embora?}
+{270}{}{Na verdade, eu * tenho * uma idÃ©ia de como mudar as coisas. Talvez voce possa me ajudar. VocÃª vÃª, os monges aqui tÃªm
+Â  passado * anos * transcrevendo informaÃ§Ãµes prÃ©-guerra no nosso banco de dados de computadores. Se alguÃ©m forÃ§asse "acidentalmente" a formataÃ§Ã£o do
+Â  banco de dados, eles perderiam todo o trabalho. Eu acho que algo assim pode chocar-los de volta aos seus sentidos e poderiamos finalmente
+Â  desistir deste modo estÃºpido de vida. EntÃ£o o que vocÃª diz?}
+{271}{}{Eu digo que Ã© uma pÃ©ssima ideia e que eu terminei de falar com vocÃª.}
+{272}{}{Apagar centenas de anos do trabalho Ã¡rduo de outra pessoa? Parece divertido. Eu vou fazer isso.}
+{273}{}{Por que vocÃª nÃ£o o formata vocÃª mesmo?}
+{274}{}{Se vocÃª odeia aqui, por que vocÃª nÃ£o vai embora?}
+{280}{}{VocÃª estÃ¡ brincando comigo? Eles me crucificaram se eu fizesse isso. No entanto, vocÃª Ã© um aventureiro experiente. Inferno, eu aposto
+Â  VocÃª poderia massacrar todos aqui sem derramar uma gota de suor. EntÃ£o vocÃª vai fazer isso, ou vocÃª tem medo de um monte de monges pacifistas?}
+{281}{}{Eu nÃ£o tenho medo de ninguÃ©m. Eu vou fazer isso.}
 {282}{}{Tudo bem. Eu vou fazer isso.}
-{283}{}{Nah, em vez disso, acho que vou testar sua teoria do massacre. Começando com você.}
-{284}{}{Eu vou passar. Esse não é o meu estilo. Tchau.}
-{285}{}{Não, não vou fazer isso. Se você odeia aqui, por que você não vai embora?}
-{286}{}{A menos que você tenha mudado de idéia sobre me ajudar, foda-se.}
+{283}{}{Nah, em vez disso, acho que vou testar sua teoria do massacre. ComeÃ§ando com vocÃª.}
+{284}{}{Eu vou passar. Esse nÃ£o Ã© o meu estilo. Tchau.}
+{285}{}{NÃ£o, nÃ£o vou fazer isso. Se vocÃª odeia aqui, por que vocÃª nÃ£o vai embora?}
+{286}{}{A menos que vocÃª tenha mudado de idÃ©ia sobre me ajudar, foda-se.}
 {287}{}{Tudo bem. Eu vou fazer isso.}
-{288}{}{Não, não vou fazer isso. Se você odeia aqui, por que você não vai embora?}
-{290}{}{Você irá? A sério? Oh cara, isso é incrível. Mas primeiro, você precisará acessar, porque eles são bastante protetores
-  do banco de dados. No entanto, não deve ser muito difícil, esses monges são bastante confiantes. Eles vão ficar chateados quando
-  você formatá-lo, mas eles são todos um grupo de bananas, então não se preocupe com isso. Apenas tente não matar ninguém - eu não quero as coisas
-  muito fora de controle, você sabe?}
+{288}{}{NÃ£o, nÃ£o vou fazer isso. Se vocÃª odeia aqui, por que vocÃª nÃ£o vai embora?}
+{290}{}{VocÃª irÃ¡? A sÃ©rio? Oh cara, isso Ã© incrÃ­vel. Mas primeiro, vocÃª precisarÃ¡ acessar, porque eles sÃ£o bastante protetores
+Â  do banco de dados. No entanto, nÃ£o deve ser muito difÃ­cil, esses monges sÃ£o bastante confiantes. Eles vÃ£o ficar chateados quando
+Â  vocÃª formatÃ¡-lo, mas eles sÃ£o todos um grupo de bananas, entÃ£o nÃ£o se preocupe com isso. Apenas tente nÃ£o matar ninguÃ©m - eu nÃ£o quero as coisas
+Â  muito fora de controle, vocÃª sabe?}
 {291}{}{Com certeza. Mais alguma coisa?}
-{292}{}{Não faço promessas. Mais alguma coisa?}
-{300}{}{Basta formatá-lo, depois decolar, porque eles não vão querer você por aqui. Nem se preocupe em vir me dizer que
-  você fez isso, porque eu vou ter que agir tão chateado como todos os outros ou eles suspeitarão de algo. Obrigado novamente por
-  Fazendo isso. É por seu próprio bem.}
-{301}{}{O que você diz. Tchau.}
-{310}{}{Está maluco? Eu nunca estive fora dos resíduos, mas eu tenho uma boa idéia do que é. Teria sorte de fazer cinquenta metros antes de um radscorpion empurrar um calcador de pé até minha bunda. Ou pior ainda, eu seria capturado
-  e torturado por uma gangue de invasores maníacos * ou * Eu seria comido vivo por tribos canibais. Tanto faz. Eu só sei que se
-  Eu sair daqui, eu ficaria fodido. Então não, estou preso aqui.}
-{311}{}{Ei, não é * que * seja mal lá ... Na verdade, você está certo. Você provavelmente não chegaria a Gecko.
-  Pelo menos, não sem ajuda. Mas e se eu dissesse que escolho-lo?}
-{312}{}{Chato ser você. Tchau.}
-{313}{}{Mantenha as suas esperanças. Tenho certeza que há uma cidade próxima que seria segura para viajar.}
-{315}{}{Sim, bem, se você encontrar um, me avise.}
+{292}{}{NÃ£o faÃ§o promessas. Mais alguma coisa?}
+{300}{}{Basta formatÃ¡-lo, depois decolar, porque eles nÃ£o vÃ£o querer vocÃª por aqui. Nem se preocupe em vir me dizer que
+Â  vocÃª fez isso, porque eu vou ter que agir tÃ£o chateado como todos os outros ou eles suspeitarÃ£o de algo. Obrigado novamente por
+Â  Fazendo isso. Ã‰ por seu prÃ³prio bem.}
+{301}{}{O que vocÃª diz. Tchau.}
+{310}{}{EstÃ¡ maluco? Eu nunca estive fora dos resÃ­duos, mas eu tenho uma boa idÃ©ia do que Ã©. Teria sorte de fazer cinquenta metros antes de um radscorpion empurrar um calcador de pÃ© atÃ© minha bunda. Ou pior ainda, eu seria capturado
+Â  e torturado por uma gangue de invasores manÃ­acos * ou * Eu seria comido vivo por tribos canibais. Tanto faz. Eu sÃ³ sei que se
+Â  Eu sair daqui, eu ficaria fodido. EntÃ£o nÃ£o, estou preso aqui.}
+{311}{}{Ei, nÃ£o Ã© * que * seja mal lÃ¡ ... Na verdade, vocÃª estÃ¡ certo. VocÃª provavelmente nÃ£o chegaria a Gecko.
+Â  Pelo menos, nÃ£o sem ajuda. Mas e se eu dissesse que escolho-lo?}
+{312}{}{Chato ser vocÃª. Tchau.}
+{313}{}{Mantenha as suas esperanÃ§as. Tenho certeza que hÃ¡ uma cidade prÃ³xima que seria segura para viajar.}
+{315}{}{Sim, bem, se vocÃª encontrar um, me avise.}
 {316}{}{Vai fazer. Tchau.}
-{320}{}{Para Gecko? Essa é a cidade dos ghoul, certo? Obrigado, mas não, obrigado.}
-{321}{}{Ei, os ghouls são realmente muito amigáveis. Além disso, conheço um em particular que ama um bom jogo de Tragic.}
-{322}{}{Ei, os ghouls são realmente muito amigáveis.}
-{323}{}{Ei, eu ouço os ghouls, na verdade, são realmente amigáveis.}
+{320}{}{Para Gecko? Essa Ã© a cidade dos ghoul, certo? Obrigado, mas nÃ£o, obrigado.}
+{321}{}{Ei, os ghouls sÃ£o realmente muito amigÃ¡veis. AlÃ©m disso, conheÃ§o um em particular que ama um bom jogo de Tragic.}
+{322}{}{Ei, os ghouls sÃ£o realmente muito amigÃ¡veis.}
+{323}{}{Ei, eu ouÃ§o os ghouls, na verdade, sÃ£o realmente amigÃ¡veis.}
 {324}{}{Bem. Cuide-se. Tchau.}
-{330}{}{Não merda, outro jogador de Trágic? Hmm, isso muda as coisas... Eu me pergunto se ele teria uma Dália Negra para
-  comércio. Bem. Eu irei se você me acompanhar.}
-{331}{}{Vamos lá.}
+{330}{}{NÃ£o merda, outro jogador de TrÃ¡gic? Hmm, isso muda as coisas... Eu me pergunto se ele teria uma DÃ¡lia Negra para
+Â  comÃ©rcio. Bem. Eu irei se vocÃª me acompanhar.}
+{331}{}{Vamos lÃ¡.}
 {332}{}{Tudo bem, mas eu preciso cuidar de algumas coisas primeiro. Eu vou avisar quando eu estiver pronto para ir.}
-{340}{}{Oh sim? Isso não muda o fato de que eles se parecem com merda de brahmin. Não, obrigado.}
+{340}{}{Oh sim? Isso nÃ£o muda o fato de que eles se parecem com merda de brahmin. NÃ£o, obrigado.}
 {341}{}{Bem. Cuide-se. Tchau.}
-{350}{}{O que você quer?}
-{351}{}{Eu só queria dizer oi. Até mais.}
-{352}{}{Eu mudei de ideia. Eu formato o computador para você.}
-{353}{}{Ei, você pode querer reconsiderar minha oferta para levá-lo ao Gecko, porque eu sei
-  Alguém lá que ama um bom jogo de Trágico.}
-{354}{}{Hey, eu conheço alguém no Gecko, que adora um bom jogo de Trágico. Eu poderia levá-lo lá.}
-{360}{}{Estamos prontos para ir ainda? Estou morrendo de vontade de saber que tipo de cartas trágicas esse cara tem.}
-{361}{}{Tudo bem, vamos lá.}
-{362}{}{Ainda não. Eu aviso você.}
-{370}{}{[Ao chegar em Gecko, você apresenta o jovem monge a Wooz. Eles rapidamente acertaram e começaram a comparar seus
-  baralhos de cartas trágicas. Você está prestes a sair quando o irmão Jason se afastar do Tragic o suficiente para ter uma palavra com você.]}
+{350}{}{O que vocÃª quer?}
+{351}{}{Eu sÃ³ queria dizer oi. AtÃ© mais.}
+{352}{}{Eu mudei de ideia. Eu formato o computador para vocÃª.}
+{353}{}{Ei, vocÃª pode querer reconsiderar minha oferta para levÃ¡-lo ao Gecko, porque eu sei
+Â  AlguÃ©m lÃ¡ que ama um bom jogo de TrÃ¡gico.}
+{354}{}{Hey, eu conheÃ§o alguÃ©m no Gecko, que adora um bom jogo de TrÃ¡gico. Eu poderia levÃ¡-lo lÃ¡.}
+{360}{}{Estamos prontos para ir ainda? Estou morrendo de vontade de saber que tipo de cartas trÃ¡gicas esse cara tem.}
+{361}{}{Tudo bem, vamos lÃ¡.}
+{362}{}{Ainda nÃ£o. Eu aviso vocÃª.}
+{370}{}{[Ao chegar em Gecko, vocÃª apresenta o jovem monge a Wooz. Eles rapidamente acertaram e comeÃ§aram a comparar seus
+Â  baralhos de cartas trÃ¡gicas. VocÃª estÃ¡ prestes a sair quando o irmÃ£o Jason se afastar do Tragic o suficiente para ter uma palavra com vocÃª.]}
 {371}{}{[MAIS]}
-{372}{}{Puta merda, Wooz * tem * a Black Dahlia! Isso sozinho fez com que essa viagem valesse a pena. Claro, os ghouls são feios
-  no inferno, mas achei que se eu tirasse meus óculos, então eles ficariam um pouco toleráveis. De qualquer forma, muito obrigado por me trazer. Aqui,
-  Eu, uh, "emprestei" isso dos Memoriais da Abadia, surpreendentemente, é uma das poucas relíquias tecnológicas que ainda funcionam.
-  [Ele lhe dá um Stealth Boy.] Veja você.}
+{372}{}{Puta merda, Wooz * tem * a Black Dahlia! Isso sozinho fez com que essa viagem valesse a pena. Claro, os ghouls sÃ£o feios
+Â  no inferno, mas achei que se eu tirasse meus Ã³culos, entÃ£o eles ficariam um pouco tolerÃ¡veis. De qualquer forma, muito obrigado por me trazer. Aqui,
+Â  Eu, uh, "emprestei" isso dos Memoriais da Abadia, surpreendentemente, Ã© uma das poucas relÃ­quias tecnolÃ³gicas que ainda funcionam.
+Â  [Ele lhe dÃ¡ um Stealth Boy.] Veja vocÃª.}
 {373}{}{Obrigado. Tchau.}
-{374}{}{Só estou feliz de não ter mais que ouvir sua baboseira. Tchau.}
-{380}{}{Holy shit, Wooz * tem * a Black Dahlia! Isso sozinho fez com que essa viagem valesse a pena. Claro, os ghouls são feios
-  no inferno, mas achei que se eu tirasse meus óculos, então eles seriam um pouco toleráveis. De qualquer forma, muito obrigado por me trazer aqui.
-  Aqui [Ele pega no bolso dele, depois franziu a testa.] Que diabos? Eu poderia jurar que eu tinha. Uh, desculpe, mas parece que eu fui descuidado com
-  Sua recompensa, então você terá que ficar com um simples agradecimento. Até mais.}
-{381}{}{Oh, uh, não se preocupe com isso. Estou feliz por poder ajudar. Tchau.}
-{382}{}{Só estou feliz de não ter mais que ouvir sua baboseira. Tchau.}
-{400}{}{Não consigo falar ... devo construir um deck mais poderoso ...}
+{374}{}{SÃ³ estou feliz de nÃ£o ter mais que ouvir sua baboseira. Tchau.}
+{380}{}{Holy shit, Wooz * tem * a Black Dahlia! Isso sozinho fez com que essa viagem valesse a pena. Claro, os ghouls sÃ£o feios
+Â  no inferno, mas achei que se eu tirasse meus Ã³culos, entÃ£o eles seriam um pouco tolerÃ¡veis. De qualquer forma, muito obrigado por me trazer aqui.
+Â  Aqui [Ele pega no bolso dele, depois franziu a testa.] Que diabos? Eu poderia jurar que eu tinha. Uh, desculpe, mas parece que eu fui descuidado com
+Â  Sua recompensa, entÃ£o vocÃª terÃ¡ que ficar com um simples agradecimento. AtÃ© mais.}
+{381}{}{Oh, uh, nÃ£o se preocupe com isso. Estou feliz por poder ajudar. Tchau.}
+{382}{}{SÃ³ estou feliz de nÃ£o ter mais que ouvir sua baboseira. Tchau.}
+{400}{}{NÃ£o consigo falar ... devo construir um deck mais poderoso ...}
 {500}{}{Deixe-me sozinho.}
-{501}{}{Vá embora.}
+{501}{}{VÃ¡ embora.}
 {502}{}{Foda-se.}
-{600}{}{Oh, ei, é você. Alguém explodiu o reator em Gecko e todos os ghouls o deixaram. Nenhuma razão para eu ficar lá,
-  então eu saí e voltei aqui. Por sorte, para mim, os monges aqui não questionaram minha ausência, então não tenho problemas para sair.
-  Isso é uma merda, eu pensei que ia ter uma vida nova fazendo o que eu amo. [Ele suspira profundamente]}
-{601}{}{Desculpe ouvir isso. Até a próxima.}
-{602}{}{Isso é vida. Um minuto você está no topo do mundo e no próximo instante você está de costas na lama. Viva e aprenda. Tchau.}
-{610}{}{Acho que só tenho que me acostumar com esse lugar.}
-{1000}{}{Você com segurança, escolta Irmão Jason para a sua nova casa.}
+{600}{}{Oh, ei, Ã© vocÃª. AlguÃ©m explodiu o reator em Gecko e todos os ghouls o deixaram. Nenhuma razÃ£o para eu ficar lÃ¡,
+Â  entÃ£o eu saÃ­ e voltei aqui. Por sorte, para mim, os monges aqui nÃ£o questionaram minha ausÃªncia, entÃ£o nÃ£o tenho problemas para sair.
+Â  Isso Ã© uma merda, eu pensei que ia ter uma vida nova fazendo o que eu amo. [Ele suspira profundamente]}
+{601}{}{Desculpe ouvir isso. AtÃ© a prÃ³xima.}
+{602}{}{Isso Ã© vida. Um minuto vocÃª estÃ¡ no topo do mundo e no prÃ³ximo instante vocÃª estÃ¡ de costas na lama. Viva e aprenda. Tchau.}
+{610}{}{Acho que sÃ³ tenho que me acostumar com esse lugar.}
+{1000}{}{VocÃª com seguranÃ§a, escolta IrmÃ£o Jason para a sua nova casa.}

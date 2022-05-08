@@ -1,16 +1,16 @@
 {100}{}{Widzisz... Seba.}
-{150}{}{Widzisz mizernego me¿czyznê w jasnoniebieskim ubraniu. Zupe³nie jakby jego ubrania nie robi³y wystarczaj¹co du¿o ha³asu, s³ychaæ te¿ ryk znad jego p³uc.}
+{150}{}{Widzisz mizernego meÅ¼czyznÄ™ w jasnoniebieskim ubraniu. ZupeÅ‚nie jakby jego ubrania nie robiÅ‚y wystarczajÄ…co duÅ¼o haÅ‚asu, sÅ‚ychaÄ‡ teÅ¼ ryk znad jego pÅ‚uc.}
 {200}{}{Towary, towary, tow-ary!}
-{201}{}{No chodŸcie tu mi³oœnicy towarów!}
-{202}{}{Tu w Kociej £apce rozcinamy ceny na pó³!}
-{203}{}{Zainteresuj siê nasz¹ pierwszorzêdn¹ kolekcj¹ towarów! Prawdziwa towarowa orgia!}
-{204}{}{Mamy bia³e towary, czarne towary, po³udniowe towary, pó³nocne towary...}
-{205}{}{Mamy gor¹ce towary, mamy zimne towary, mamy œwie¿e towary, mamy... (poci¹ga nosem) ...*œmierdz¹ce* towary...}
-{206}{}{Mamy towary z wiosek, mamy zmutowane towary, towary radskorpionów, towary szponów œmierci.}
-{207}{}{Mamy nawet towary braminów, towary ghuli, towary szponów œmierci.}
-{208}{}{ChodŸ tu, pragniesz towarów? ChodŸcie tutaj, mi³oœnicy towarów!}
-{209}{}{Jeœli tego nie mamy, ty tego nie chcesz! ChodŸcie tu, mi³oœnicy towarów!}
-{210}{}{Uwaga kupuj¹cy towary! Skorzystajcie z tej wyprzeda¿y towarów!}
-{211}{}{Kup jedn¹ sztukê towaru po zwyk³ej cenie, a dostaniesz kolejn¹ sztukê towaru tej samej lub mniejszej wartoœci tylko za jednego dolara!}
-{212}{}{Spróbuj zgarn¹æ towar za dolara!}
-{213}{}{Jeœli gdziekolwiek znajdziesz tañszy towar... PRZELEÆ GO!}
+{201}{}{No chodÅºcie tu miÅ‚oÅ›nicy towarÃ³w!}
+{202}{}{Tu w Kociej Åapce rozcinamy ceny na pÃ³Å‚!}
+{203}{}{Zainteresuj siÄ™ naszÄ… pierwszorzÄ™dnÄ… kolekcjÄ… towarÃ³w! Prawdziwa towarowa orgia!}
+{204}{}{Mamy biaÅ‚e towary, czarne towary, poÅ‚udniowe towary, pÃ³Å‚nocne towary...}
+{205}{}{Mamy gorÄ…ce towary, mamy zimne towary, mamy Å›wieÅ¼e towary, mamy... (pociÄ…ga nosem) ...*Å›mierdzÄ…ce* towary...}
+{206}{}{Mamy towary z wiosek, mamy zmutowane towary, towary radskorpionÃ³w, towary szponÃ³w Å›mierci.}
+{207}{}{Mamy nawet towary braminÃ³w, towary ghuli, towary szponÃ³w Å›mierci.}
+{208}{}{ChodÅº tu, pragniesz towarÃ³w? ChodÅºcie tutaj, miÅ‚oÅ›nicy towarÃ³w!}
+{209}{}{JeÅ›li tego nie mamy, ty tego nie chcesz! ChodÅºcie tu, miÅ‚oÅ›nicy towarÃ³w!}
+{210}{}{Uwaga kupujÄ…cy towary! Skorzystajcie z tej wyprzedaÅ¼y towarÃ³w!}
+{211}{}{Kup jednÄ… sztukÄ™ towaru po zwykÅ‚ej cenie, a dostaniesz kolejnÄ… sztukÄ™ towaru tej samej lub mniejszej wartoÅ›ci tylko za jednego dolara!}
+{212}{}{SprÃ³buj zgarnÄ…Ä‡ towar za dolara!}
+{213}{}{JeÅ›li gdziekolwiek znajdziesz taÅ„szy towar... PRZELEÄ† GO!}

@@ -2,66 +2,66 @@
 {101}{}{Ves a Sulik.}
 {102}{}{Ves a un tribal alto y musculoso. Lleva un hueso en la nariz, tatuajes en la cara, y tiene un porte confiado y sereno.}
 {103}{}{.}
-{104}{slk1}{Eh, miga. Nuestro nombre es Sulik. ¿Qué es lo que quieres?}
-{105}{}{¿Eh?}
-{107}{slk2a}{Oh, no. Tú no hablar con nosotros. Uno de los tuyos raptó nuestra hermana. Mal karma... para ti.}
+{104}{slk1}{Eh, miga. Nuestro nombre es Sulik. Â¿QuÃ© es lo que quieres?}
+{105}{}{Â¿Eh?}
+{107}{slk2a}{Oh, no. TÃº no hablar con nosotros. Uno de los tuyos raptÃ³ nuestra hermana. Mal karma... para ti.}
 {108}{slk2b}{Oh, no. Nosotros y yo no hablamos a esclavista.}
-{109}{slk3}{La mayoría de gente tiene espíritus malvados. ¿Tú? Tú tienes espíritus idiotas. Ve a ver a chamán, haz agujero en cabeza... Gran agujero... Muy grande... Enorme.}
-{110}{}{¿N-no?}
-{111}{}{¡Oh-oh!}
-{112}{}{¡Gug! (le miras preocupado)}
-{113}{slk4}{¿No quieres un agujero? Ve a ver Torr, él tu espíritu hermano. Él trabaja para Maida-sin-sonrisa. Como nosotros y yo.}
+{109}{slk3}{La mayorÃ­a de gente tiene espÃ­ritus malvados. Â¿TÃº? TÃº tienes espÃ­ritus idiotas. Ve a ver a chamÃ¡n, haz agujero en cabeza... Gran agujero... Muy grande... Enorme.}
+{110}{}{Â¿N-no?}
+{111}{}{Â¡Oh-oh!}
+{112}{}{Â¡Gug! (le miras preocupado)}
+{113}{slk4}{Â¿No quieres un agujero? Ve a ver Torr, Ã©l tu espÃ­ritu hermano. Ã‰l trabaja para Maida-sin-sonrisa. Como nosotros y yo.}
 {114}{}{Uh-huh.}
-{115}{}{¿Eh?}
-{116}{slk5a}{Ah, mierda, migo. Esclavistas se llevaron a hermana. Vinimos bebiendo, después rompiendo. Ahora pagando a Maida. Cuando eso hecho, nosotros buscar hermana.}
+{115}{}{Â¿Eh?}
+{116}{slk5a}{Ah, mierda, migo. Esclavistas se llevaron a hermana. Vinimos bebiendo, despuÃ©s rompiendo. Ahora pagando a Maida. Cuando eso hecho, nosotros buscar hermana.}
 {117}{slk5b}{Nosotros ahora listos para ir. Ir a buscar hermana. Ella secuestrada por esclavistas.}
-{118}{}{¿Eh?}
-{119}{}{Hmm, ¿cuánto tienes que pagar para poder irte libremente?}
+{118}{}{Â¿Eh?}
+{119}{}{Hmm, Â¿cuÃ¡nto tienes que pagar para poder irte libremente?}
 {120}{}{Uh-huh.}
-{121}{}{Estoy buscando una cosa. Quizás puedas unirte a mí.}
-{122}{slk6}{Nosotros le debemos Maida 350 de dinero. ¿Tú vas a sur? Nosotros caminar contigo y buscar a hermana. ¿Tú tienes 350 de dinero?}
+{121}{}{Estoy buscando una cosa. QuizÃ¡s puedas unirte a mÃ­.}
+{122}{slk6}{Nosotros le debemos Maida 350 de dinero. Â¿TÃº vas a sur? Nosotros caminar contigo y buscar a hermana. Â¿TÃº tienes 350 de dinero?}
 {123}{}{Nuh-uh.}
-{124}{}{¡Oh-oh!}
-{125}{}{Aquí están los 350 dólares.}
-{126}{}{¿Quienes son 'nosotros'?}
-{127}{}{Quizás, Sulik. Déjame hacerte una pregunta.}
-{128}{}{350 dólares es un montón de dinero. Vas a tener que quedarte aquí una temporada. Adiós.}
-{129}{}{Un maestro probablemente te impediría meterte en problemas. No creo que vayas a ir al sur por ahora. Adiós.}
-{140}{slk6a}{Los espíritus están conmigo, ¡miga! Ellos rodearme. A veces hablar.}
-{141}{}{Como los murciélagos en el campanario, ¿eh?}
-{142}{}{¿Qué espíritus?}
-{143}{}{Vale... ¿Puedo hacerte otra pregunta?}
+{124}{}{Â¡Oh-oh!}
+{125}{}{AquÃ­ estÃ¡n los 350 dÃ³lares.}
+{126}{}{Â¿Quienes son 'nosotros'?}
+{127}{}{QuizÃ¡s, Sulik. DÃ©jame hacerte una pregunta.}
+{128}{}{350 dÃ³lares es un montÃ³n de dinero. Vas a tener que quedarte aquÃ­ una temporada. AdiÃ³s.}
+{129}{}{Un maestro probablemente te impedirÃ­a meterte en problemas. No creo que vayas a ir al sur por ahora. AdiÃ³s.}
+{140}{slk6a}{Los espÃ­ritus estÃ¡n conmigo, Â¡miga! Ellos rodearme. A veces hablar.}
+{141}{}{Como los murciÃ©lagos en el campanario, Â¿eh?}
+{142}{}{Â¿QuÃ© espÃ­ritus?}
+{143}{}{Vale... Â¿Puedo hacerte otra pregunta?}
 {150}{slk6b}{Eso divertido, migo. Al menos, eso piensa Abuelo Hueso. Dice que tienes ingenio. Dice que vas a necesitarlo.}
-{151}{}{¿Por qué?}
-{152}{}{¿Quién es Abuelo Hueso?}
-{153}{}{¿Puedo preguntarte algo más?}
-{160}{slk6c}{Él tener sensación sobre ti. Abuelo Hueso un espíritu listo.}
-{162}{}{¿Qué sensación?}
-{170}{slk6d}{Espíritus por todas partes. Viajan con nosotros y conmigo. Abuelo Hueso hablar casi siempre.}
-{171}{}{Me gustaría hacerte otra pregunta.}
-{180}{slk6e}{Eso es todo lo que él dice. Espíritus ven y hablan diferente. No como gente normal.}
-{181}{}{¿Y tienes alguna idea de lo que es normal?}
-{182}{}{Háblame del Abuelo Hueso.}
-{190}{slk6f}{El espíritu fuerte. Mucho honor es llevarle.}
-{191}{}{Espera. ¿Estás hablando del hueso de tu nariz?}
-{200}{slk6g}{Tenerle cerca. Más fácil tocar su espíritu. Por eso él hablar el que más.}
-{201}{}{Eh, sólo puedo oírte a ti.}
+{151}{}{Â¿Por quÃ©?}
+{152}{}{Â¿QuiÃ©n es Abuelo Hueso?}
+{153}{}{Â¿Puedo preguntarte algo mÃ¡s?}
+{160}{slk6c}{Ã‰l tener sensaciÃ³n sobre ti. Abuelo Hueso un espÃ­ritu listo.}
+{162}{}{Â¿QuÃ© sensaciÃ³n?}
+{170}{slk6d}{EspÃ­ritus por todas partes. Viajan con nosotros y conmigo. Abuelo Hueso hablar casi siempre.}
+{171}{}{Me gustarÃ­a hacerte otra pregunta.}
+{180}{slk6e}{Eso es todo lo que Ã©l dice. EspÃ­ritus ven y hablan diferente. No como gente normal.}
+{181}{}{Â¿Y tienes alguna idea de lo que es normal?}
+{182}{}{HÃ¡blame del Abuelo Hueso.}
+{190}{slk6f}{El espÃ­ritu fuerte. Mucho honor es llevarle.}
+{191}{}{Espera. Â¿EstÃ¡s hablando del hueso de tu nariz?}
+{200}{slk6g}{Tenerle cerca. MÃ¡s fÃ¡cil tocar su espÃ­ritu. Por eso Ã©l hablar el que mÃ¡s.}
+{201}{}{Eh, sÃ³lo puedo oÃ­rte a ti.}
 {210}{slk6h}{Nosotros vamos a llevarnos bien.}
-{211}{}{Quizás podamos seguir hablando más adelante. Adiós.}
-{220}{slk7}{Vic el traidor, mejor. Viene a aldea, dice que él conoce a esclavistas, dice a nosotros que venir a verle. Nosotros vamos, él no estar.}
-{221}{}{¿Tu hermana fue raptada por esclavistas?}
-{222}{}{Déjame hacerte otra pregunta.}
-{223}{}{Supongo que eso es todo lo que necesito saber por ahora. Adiós.}
-{230}{slk8}{Nosotros y yo dar gracias. Nuestro nombre es Sulik. ¿Cómo podemos devolverte el favor?}
+{211}{}{QuizÃ¡s podamos seguir hablando mÃ¡s adelante. AdiÃ³s.}
+{220}{slk7}{Vic el traidor, mejor. Viene a aldea, dice que Ã©l conoce a esclavistas, dice a nosotros que venir a verle. Nosotros vamos, Ã©l no estar.}
+{221}{}{Â¿Tu hermana fue raptada por esclavistas?}
+{222}{}{DÃ©jame hacerte otra pregunta.}
+{223}{}{Supongo que eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{230}{slk8}{Nosotros y yo dar gracias. Nuestro nombre es Sulik. Â¿CÃ³mo podemos devolverte el favor?}
 {231}{}{Uh.}
-{232}{}{Adiós.}
-{233}{}{¿Quiénes son "nosotros"?}
-{234}{}{Me alegra haber sido de ayuda, Sulik. Háblame de ti.}
-{235}{}{¿Qué tal si me cuentas qué está pasando en el pueblo?}
-{236}{}{Es sólo que no quería verte atrapado aquí más tiempo. Adiós.}
-{237}{}{Háblame de ti.}
-{240}{slk9a}{Nosotros y yo así lo haremos.}
-{241}{slk9b}{Nosotros y yo somos el espíritu de la ira, miga.}
+{232}{}{AdiÃ³s.}
+{233}{}{Â¿QuiÃ©nes son "nosotros"?}
+{234}{}{Me alegra haber sido de ayuda, Sulik. HÃ¡blame de ti.}
+{235}{}{Â¿QuÃ© tal si me cuentas quÃ© estÃ¡ pasando en el pueblo?}
+{236}{}{Es sÃ³lo que no querÃ­a verte atrapado aquÃ­ mÃ¡s tiempo. AdiÃ³s.}
+{237}{}{HÃ¡blame de ti.}
+{240}{slk9a}{Nosotros y yo asÃ­ lo haremos.}
+{241}{slk9b}{Nosotros y yo somos el espÃ­ritu de la ira, miga.}
 {243}{slk10a}{Acertaste, miga.}
 {244}{slk10b}{Nosotros y yo listos para luchar.}
 {246}{slk11a}{Nosotros somos como una tortuga, miga.}
@@ -69,346 +69,346 @@
 {250}{slk12a}{Este es un mal viaje, miga.}
 {251}{slk12b}{Nosotros nos hemos sentido mejor.}
 {253}{slk13a}{Estamos tan mal, que todos sentimos dolor.}
-{254}{slk13b}{Espíritus piensan que nosotros y yo unirse a ellos muy pronto.}
-{257}{slk14a}{Los espíritus del veneno entrar en mí.}
-{258}{slk14b}{Los espíritus del veneno se mueven en mí, echando a los buenos espíritus.}
-{260}{slk15a}{Malvado espíritu nos posee, miga. ¡Mechones de pelo caerse!}
-{261}{slk15b}{¡Nosotros y yo resplandecemos! Muy mal espíritu este.}
+{254}{slk13b}{EspÃ­ritus piensan que nosotros y yo unirse a ellos muy pronto.}
+{257}{slk14a}{Los espÃ­ritus del veneno entrar en mÃ­.}
+{258}{slk14b}{Los espÃ­ritus del veneno se mueven en mÃ­, echando a los buenos espÃ­ritus.}
+{260}{slk15a}{Malvado espÃ­ritu nos posee, miga. Â¡Mechones de pelo caerse!}
+{261}{slk15b}{Â¡Nosotros y yo resplandecemos! Muy mal espÃ­ritu este.}
 {263}{slk16a}{Este buen sitio. Por una vez, nadie intenta matarnos.}
 {264}{slk16b}{Abuelo Hueso dice que este ser buen sitio.}
-{267}{slk17a}{Malos espíritus acechan aquí. Tenemos que marchar.}
-{268}{slk17b}{Abuelo Hueso dice que nosotros deberíamos salir de aquí.}
+{267}{slk17a}{Malos espÃ­ritus acechan aquÃ­. Tenemos que marchar.}
+{268}{slk17b}{Abuelo Hueso dice que nosotros deberÃ­amos salir de aquÃ­.}
 {270}{slk18a}{Nosotros y yo hemos estado en sitios malos antes. Este ser peor.}
-{271}{slk18b}{Abuelo Hueso dice que este ser mal sitio. Si él habla, tú, y nosotros debemos escuchar.}
-{280}{slk21}{Hermana fue a comerciar con otra aldea y nunca volvió. Nosotros y yo ir a buscarla.}
-{281}{}{¿Qué averiguaste?}
-{290}{slk22}{Nosotros y yo sabemos que hay esclavistas en La Guarida. Cuando nosotros libres, nosotros salir de aquí.}
+{271}{slk18b}{Abuelo Hueso dice que este ser mal sitio. Si Ã©l habla, tÃº, y nosotros debemos escuchar.}
+{280}{slk21}{Hermana fue a comerciar con otra aldea y nunca volviÃ³. Nosotros y yo ir a buscarla.}
+{281}{}{Â¿QuÃ© averiguaste?}
+{290}{slk22}{Nosotros y yo sabemos que hay esclavistas en La Guarida. Cuando nosotros libres, nosotros salir de aquÃ­.}
 {291}{}{Hablemos de otra cosa.}
-{292}{}{Creo que eso es todo lo que quería saber por ahora. Adiós.}
+{292}{}{Creo que eso es todo lo que querÃ­a saber por ahora. AdiÃ³s.}
 {300}{slk23a}{Nosotros decimos no.}
-{301}{}{Ya veo. Eso era todo lo que quería saber por ahora. Adiós.}
-{302}{slk23b}{Nosotros y yo sólo usamos hierba superior.}
+{301}{}{Ya veo. Eso era todo lo que querÃ­a saber por ahora. AdiÃ³s.}
+{302}{slk23b}{Nosotros y yo sÃ³lo usamos hierba superior.}
 {310}{slk25a}{Ella es la jefa. Nosotros pagamos y vamos a buscar hermana.}
-{311}{slk25b}{Maida solía dirigir nuestra vida. Nosotros pensamos que nosotros gustarle a ella. Ella no feliz nosotros libres.}
+{311}{slk25b}{Maida solÃ­a dirigir nuestra vida. Nosotros pensamos que nosotros gustarle a ella. Ella no feliz nosotros libres.}
 {312}{}{Hmm, hablamos de otra cosa.}
 {320}{slk26a}{Ellos no quieren hablar ahora.}
-{321}{slk26b}{Espíritus a veces ser difíciles de entender. Ellos ver cosas que tú y nosotros no vemos.}
-{322}{slk26c}{Espíritus quieren hablar. ¿Qué quieres?}
-{323}{}{¿Eh?}
+{321}{slk26b}{EspÃ­ritus a veces ser difÃ­ciles de entender. Ellos ver cosas que tÃº y nosotros no vemos.}
+{322}{slk26c}{EspÃ­ritus quieren hablar. Â¿QuÃ© quieres?}
+{323}{}{Â¿Eh?}
 {324}{}{No.}
 {325}{}{Nuh-uh.}
-{326}{}{¿Qué te dicen sobre este lugar?}
-{327}{}{¿Qué te dicen sobre nuestras posibilidades?}
-{328}{}{Preferiría que hablásemos sobre otra cosa.}
-{329}{}{No creo que quiera saber lo que los espíritus piensan.}
+{326}{}{Â¿QuÃ© te dicen sobre este lugar?}
+{327}{}{Â¿QuÃ© te dicen sobre nuestras posibilidades?}
+{328}{}{PreferirÃ­a que hablÃ¡semos sobre otra cosa.}
+{329}{}{No creo que quiera saber lo que los espÃ­ritus piensan.}
 {350}{slk27aa}{Ellos dicen que negras nubes unirse.}
 {351}{slk27ab}{Abuelo Hueso dice que todos irse.}
-{352}{slk27ac}{Espíritus dicen que más se unen a ellos. Muchos más.}
+{352}{slk27ac}{EspÃ­ritus dicen que mÃ¡s se unen a ellos. Muchos mÃ¡s.}
 {360}{slk27ba}{Abuelo Hueso dice que todos estar en la Gran Agua... Tampoco tener sentido para nosotros y yo.}
-{361}{slk27bb}{Espíritu no entiende razón por la que irse. Verlo, pero no entenderlo.}
-{362}{slk27bc}{Dicen que haber aquí un espíritu fuerte. Por esa razón todos ser capturados.}
-{370}{slk27ca}{Malos espíritus no están matando ganado.}
-{371}{slk27cb}{Mal espíritu bajo algo... de repente. No estar seguro de lo que significa.}
+{361}{slk27bb}{EspÃ­ritu no entiende razÃ³n por la que irse. Verlo, pero no entenderlo.}
+{362}{slk27bc}{Dicen que haber aquÃ­ un espÃ­ritu fuerte. Por esa razÃ³n todos ser capturados.}
+{370}{slk27ca}{Malos espÃ­ritus no estÃ¡n matando ganado.}
+{371}{slk27cb}{Mal espÃ­ritu bajo algo... de repente. No estar seguro de lo que significa.}
 {380}{slk27da}{Abuelo Hueso dice que este lugar estar lleno de mala gente.}
-{381}{slk27db}{Dicen que gente perderse aquí muy fácilmente. De muchas formas.}
-{382}{slk27dc}{¡Eh! Dicen que hay otro espíritu de hueso aquí. Necesita ayuda.}
-{390}{}{Ellos estar muy tristes. Dicen que pronto llegará el tiempo en que no habrá más espíritus de hueso.}
+{381}{slk27db}{Dicen que gente perderse aquÃ­ muy fÃ¡cilmente. De muchas formas.}
+{382}{slk27dc}{Â¡Eh! Dicen que hay otro espÃ­ritu de hueso aquÃ­. Necesita ayuda.}
+{390}{}{Ellos estar muy tristes. Dicen que pronto llegarÃ¡ el tiempo en que no habrÃ¡ mÃ¡s espÃ­ritus de hueso.}
 {391}{}{Este lugar no tener futuro. Nosotros y yo debemos hacer algo.}
-{400}{slk27fa}{Abuelo Hueso reírse, incluso aunque no ser gracioso. La lucha sobre algo perdido, no arrebatado.}
-{401}{slk27fb}{Espíritus no están contentos. Otros fingen ser espíritus, intentan asustarles como a niños.}
-{402}{slk27fc}{Él no estar con los espíritus... Eso dicen.}
+{400}{slk27fa}{Abuelo Hueso reÃ­rse, incluso aunque no ser gracioso. La lucha sobre algo perdido, no arrebatado.}
+{401}{slk27fb}{EspÃ­ritus no estÃ¡n contentos. Otros fingen ser espÃ­ritus, intentan asustarles como a niÃ±os.}
+{402}{slk27fc}{Ã‰l no estar con los espÃ­ritus... Eso dicen.}
 {403}{slk27fd}{Todo el mundo en el suelo no estar muerto.}
 {410}{slk27ga}{Abuelo Hueso dice que cosas pueden ser bien hechas, pero ayuda se necesita del exterior.}
 {411}{slk27gb}{Un lugar ayuda al otro y se ayuda a si mismo. Mal que no puedan verlo con los ojos abiertos.}
-{420}{slk27ha}{Nosotros deber ir donde los espíritus van, no ser lo que ellos son.}
-{421}{slk27hb}{Este no ser el único, pero ayuda ser el único... quizá espíritus sepan más, quizá no. Nosotros y yo pensamos que ellos gustar de hablar así.}
-{430}{slk27ia}{Espíritus dicen que estar tocados por sombra de ciudad de luces.}
-{431}{slk27ib}{La cabeza no está con el cuerpo.}
-{440}{slk27ja}{Espíritus ven dos caminos, uniéndose a otros. El mal camino lleva a malas sombras en zona brillante. El buen camino lleva a lugar brillante nacido de sombras.}
-{441}{slk27jb}{No les envíes a las luces.}
-{442}{slk27jc}{Convencerles de formar parte de algo más grande.}
-{450}{slk27ka}{Ningún espíritu guía esas manos.}
-{451}{slk27kb}{Una caña se retuerce, un roble es cortado.}
-{452}{slk27kc}{Puedes hacer un migo aquí.}
-{460}{slk27la}{¿Quién envenenó a los jóvenes?}
+{420}{slk27ha}{Nosotros deber ir donde los espÃ­ritus van, no ser lo que ellos son.}
+{421}{slk27hb}{Este no ser el Ãºnico, pero ayuda ser el Ãºnico... quizÃ¡ espÃ­ritus sepan mÃ¡s, quizÃ¡ no. Nosotros y yo pensamos que ellos gustar de hablar asÃ­.}
+{430}{slk27ia}{EspÃ­ritus dicen que estar tocados por sombra de ciudad de luces.}
+{431}{slk27ib}{La cabeza no estÃ¡ con el cuerpo.}
+{440}{slk27ja}{EspÃ­ritus ven dos caminos, uniÃ©ndose a otros. El mal camino lleva a malas sombras en zona brillante. El buen camino lleva a lugar brillante nacido de sombras.}
+{441}{slk27jb}{No les envÃ­es a las luces.}
+{442}{slk27jc}{Convencerles de formar parte de algo mÃ¡s grande.}
+{450}{slk27ka}{NingÃºn espÃ­ritu guÃ­a esas manos.}
+{451}{slk27kb}{Una caÃ±a se retuerce, un roble es cortado.}
+{452}{slk27kc}{Puedes hacer un migo aquÃ­.}
+{460}{slk27la}{Â¿QuiÃ©n envenenÃ³ a los jÃ³venes?}
 {461}{slk27lb}{La verdad es la verdad.}
-{462}{slk27lc}{Este lugar está lleno de veneno.}
-{470}{slk27ma}{Aquellos se plantan en frente apuñalan por la espalda.}
-{471}{slk27mb}{El suelo resplandece con una luz que no es la de los espíritus.}
+{462}{slk27lc}{Este lugar estÃ¡ lleno de veneno.}
+{470}{slk27ma}{Aquellos se plantan en frente apuÃ±alan por la espalda.}
+{471}{slk27mb}{El suelo resplandece con una luz que no es la de los espÃ­ritus.}
 {480}{slk27na}{Debes ser un puente entre los dos barrios.}
-{481}{slk27nb}{Silencia lo que esta bajo el agua o la salvación de tu tribu también acabará debajo.}
-{482}{slk27nc}{Aquel que empuja al gran árbol de hierro al cielo debe acunar a la tribu.}
-{483}{slk27nd}{Tu gente vale más que el oro negro. Trátalos con no menos cuidado.}
-{490}{}{Aquellos que parecen ser espíritus pero no lo son, cargan con muchos secretos.}
-{491}{}{Como una cebolla, hay muchas capas, la mayoría ocultas.}
-{492}{}{La máquina elevadora puede llevarte a lugares inesperados.}
-{500}{slk27pa}{Los espíritus ven la sombra que proyecta tu sombra desde delante.}
-{501}{slk27pb}{Aquí hay algunas peligrosas.}
-{502}{slk27pc}{Hay otras sombras además de la que proyecta tu sombra.}
+{481}{slk27nb}{Silencia lo que esta bajo el agua o la salvaciÃ³n de tu tribu tambiÃ©n acabarÃ¡ debajo.}
+{482}{slk27nc}{Aquel que empuja al gran Ã¡rbol de hierro al cielo debe acunar a la tribu.}
+{483}{slk27nd}{Tu gente vale mÃ¡s que el oro negro. TrÃ¡talos con no menos cuidado.}
+{490}{}{Aquellos que parecen ser espÃ­ritus pero no lo son, cargan con muchos secretos.}
+{491}{}{Como una cebolla, hay muchas capas, la mayorÃ­a ocultas.}
+{492}{}{La mÃ¡quina elevadora puede llevarte a lugares inesperados.}
+{500}{slk27pa}{Los espÃ­ritus ven la sombra que proyecta tu sombra desde delante.}
+{501}{slk27pb}{AquÃ­ hay algunas peligrosas.}
+{502}{slk27pc}{Hay otras sombras ademÃ¡s de la que proyecta tu sombra.}
 {510}{slk27qa}{Raptados. Todos raptados.}
-{511}{slk27qb}{Los espíritus ven la misma nube que engulle dirigiéndose hacia tu hogar.}
+{511}{slk27qb}{Los espÃ­ritus ven la misma nube que engulle dirigiÃ©ndose hacia tu hogar.}
 {512}{slk27qc}{Todos llevados al Gran Mar Salado.}
-{520}{slk27ra}{Lo que buscas no está aquí. El camino a ello si.}
+{520}{slk27ra}{Lo que buscas no estÃ¡ aquÃ­. El camino a ello si.}
 {521}{slk27rb}{Camina por el sendero tranquilo y aprende mucho.}
-{522}{slk27rc}{Una semilla fuerte ha sido plantada aquí. Una buena semilla.}
-{530}{slk27sa}{Una cáscara vacía descansa bajo todos esos restos.}
-{531}{slk27sb}{Las garras de la muerte están cerca.}
+{522}{slk27rc}{Una semilla fuerte ha sido plantada aquÃ­. Una buena semilla.}
+{530}{slk27sa}{Una cÃ¡scara vacÃ­a descansa bajo todos esos restos.}
+{531}{slk27sb}{Las garras de la muerte estÃ¡n cerca.}
 {532}{slk27sc}{La muerte te sigue.}
-{540}{slk27ta}{La voz es más alta que el sonido de ninguna arma.}
-{541}{slk27tb}{El mal salta aquí.}
-{542}{slk27tc}{La senda del mal yace clara aquí.}
-{550}{}{Hay un gran saber aquí.}
-{551}{}{Un camino fuerte al futuro comienza en lugares tan pequeños.}
+{540}{slk27ta}{La voz es mÃ¡s alta que el sonido de ninguna arma.}
+{541}{slk27tb}{El mal salta aquÃ­.}
+{542}{slk27tc}{La senda del mal yace clara aquÃ­.}
+{550}{}{Hay un gran saber aquÃ­.}
+{551}{}{Un camino fuerte al futuro comienza en lugares tan pequeÃ±os.}
 {560}{slk28a}{Necesitamos un poco de tiempo para nosotros solos.}
 {561}{slk28b}{Necesitamos irnos un tiempo. Un poco de fumar, un poco de pensar.}
 {600}{}{Vale. Gracias.}
 {704}{slk28a}{Necesitamos un poco de tiempo para nosotros solos.}
 {705}{slk28b}{Necesitamos irnos un tiempo. Un poco de fumar, un poco de pensar.}
-{706}{slk29a}{Déjanos enseñarte como se hace en nuestra tribu.}
-{707}{slk29b}{Conocemos la tierra y los vientos bien. Cuidamos de éste.}
-{708}{slk29c}{Los espíritus de hueso nos ayudarán en ésta.}
+{706}{slk29a}{DÃ©janos enseÃ±arte como se hace en nuestra tribu.}
+{707}{slk29b}{Conocemos la tierra y los vientos bien. Cuidamos de Ã©ste.}
+{708}{slk29c}{Los espÃ­ritus de hueso nos ayudarÃ¡n en Ã©sta.}
 {709}{slk30a}{Nosotros portar mal... contigo.}
-{710}{slk30b}{Sí, tú necesitas nosotros estar cerca. Mantenerte lejos de problemas.}
-{711}{slk30c}{Nosotros y yo estar cerca si prometes comprar jabón en el próximo pueblo.}
+{710}{slk30b}{SÃ­, tÃº necesitas nosotros estar cerca. Mantenerte lejos de problemas.}
+{711}{slk30c}{Nosotros y yo estar cerca si prometes comprar jabÃ³n en el prÃ³ximo pueblo.}
 {712}{slk31a}{Lo haremos.}
-{713}{slk31b}{Estaremos aquí si nos necesitas.}
-{714}{slk31c}{Seguramente sea bueno mantener pequeña distancia. La gente tratar de matarte todo el tiempo.}
+{713}{slk31b}{Estaremos aquÃ­ si nos necesitas.}
+{714}{slk31c}{Seguramente sea bueno mantener pequeÃ±a distancia. La gente tratar de matarte todo el tiempo.}
 {715}{slk32a}{Sin problemas.}
 {716}{slk32b}{Buena idea. Probablemente te disparen de todas formas.}
 {717}{slk32c}{Nosotros y mi nariz te lo agradecemos.}
-{718}{slk33a}{Hora de un poco de hierba superior. Más para nosotros.}
+{718}{slk33a}{Hora de un poco de hierba superior. MÃ¡s para nosotros.}
 {719}{slk33b}{Parece un buen plan. Las cosas malas que te ocurren no son asunto de nadie.}
-{720}{slk33c}{Buena suerte, miga. Nosotros pensamos que la necesitarás.}
-{721}{slk34a}{Estaremos aquí.}
-{722}{slk34b}{Vamos a echar pequeña siesta, hablar con Abuelo Hueso. No iremos a ninguna parte.}
+{720}{slk33c}{Buena suerte, miga. Nosotros pensamos que la necesitarÃ¡s.}
+{721}{slk34a}{Estaremos aquÃ­.}
+{722}{slk34b}{Vamos a echar pequeÃ±a siesta, hablar con Abuelo Hueso. No iremos a ninguna parte.}
 {723}{slk34c}{Este parece ser un buen sitio para sentarnos un rato.}
-{724}{slk35a}{Eh, miga, tan sólo dinos que nos apartemos de tu camino.}
+{724}{slk35a}{Eh, miga, tan sÃ³lo dinos que nos apartemos de tu camino.}
 {725}{slk35b}{Lo siento, miga.}
 {726}{slk35c}{Nos movemos por ti, sin problemas.}
 {727}{slk36a}{Lo haremos.}
 {728}{slk36b}{Abuelo Hueso nos dice lo mismo.}
 {729}{slk36c}{Mucha lucha. Necesitamos mejor arma.}
-{730}{slk37a}{Los espíritus ayudan, también. Eso y la armadura es casi suficiente a tu lado.}
-{731}{slk37b}{Buena idea. Tú atraes a la gente furiosa como a moscas el estiércol.}
+{730}{slk37a}{Los espÃ­ritus ayudan, tambiÃ©n. Eso y la armadura es casi suficiente a tu lado.}
+{731}{slk37b}{Buena idea. TÃº atraes a la gente furiosa como a moscas el estiÃ©rcol.}
 {732}{slk37c}{A tu lado, vamos a necesitar todas las que podamos conseguir.}
 {733}{slk37d}{Pesa demasiado, miga. Nos gusta poder bailar lejos de las cosas malas.}
 {734}{slk38a}{Si lo quieres, es tuyo.}
-{735}{slk38b}{Hagámoslo.}
-{736}{slk38c}{Comerciar no es problema, miga. Pero sólo tenemos un Abuelo Hueso. Lo sentimos.}
+{735}{slk38b}{HagÃ¡moslo.}
+{736}{slk38c}{Comerciar no es problema, miga. Pero sÃ³lo tenemos un Abuelo Hueso. Lo sentimos.}
 {737}{slk39a}{Eso ser una buena cosa, miga.}
 {738}{slk39b}{Lo haremos.}
-{739}{slk39c}{No queremos quejarnos como una niña por esto, pero...}
+{739}{slk39c}{No queremos quejarnos como una niÃ±a por esto, pero...}
 {740}{slk39d}{Sin problemas, miga. Somos fuertes.}
-{741}{slk39e}{Espíritus nos protegen. Estamos bien.}
+{741}{slk39e}{EspÃ­ritus nos protegen. Estamos bien.}
 {742}{slk40a}{Nosotros y yo echar un vistazo.}
 {743}{slk40b}{Abuelo Hueso dice que debemos tener cuidado.}
 {744}{slk40c}{Sin problemas. Nos aseguramos de que es seguro para nuestros migos.}
-{745}{slk41a}{De ahora en adelante tu dar dos por uno en tratos... Sólo bromeamos. Abuelo Hueso dice que tienes un aspecto cómico... como ese.}
+{745}{slk41a}{De ahora en adelante tu dar dos por uno en tratos... SÃ³lo bromeamos. Abuelo Hueso dice que tienes un aspecto cÃ³mico... como ese.}
 {746}{slk41b}{Suena bien.}
 {747}{slk41c}{Lo nuestro es tuyo, miga.}
-{750}{slk42}{Nosotros y yo te lo agradecemos. Intentas hacer un buen acto, pero es sólo que no tienes el dinero. ¿Quizás puedas conseguir más?}
+{750}{slk42}{Nosotros y yo te lo agradecemos. Intentas hacer un buen acto, pero es sÃ³lo que no tienes el dinero. Â¿QuizÃ¡s puedas conseguir mÃ¡s?}
 {751}{}{Uh.}
-{752}{}{Lo siento, debo haberlo contado mal. Adiós.}
-{753}{}{Pensaba que tenía suficiente. Lo siento. Deja que te pregunte una cosa.}
-{754}{slk43a}{Sí. Nosotros darle esto a Maida. Entonces ser libres. ¿Quieres que nosotros caminemos luego?}
-{755}{slk43b}{Sí. Puedes ser feo por fuera, pero eres bueno por dentro. Ahora ser libres para encontrar a hermana.}
-{756}{slk43c}{Oh, sí. Muy bueno. Iríamos contigo, pero ya tienes a mucha gente.}
+{752}{}{Lo siento, debo haberlo contado mal. AdiÃ³s.}
+{753}{}{Pensaba que tenÃ­a suficiente. Lo siento. Deja que te pregunte una cosa.}
+{754}{slk43a}{SÃ­. Nosotros darle esto a Maida. Entonces ser libres. Â¿Quieres que nosotros caminemos luego?}
+{755}{slk43b}{SÃ­. Puedes ser feo por fuera, pero eres bueno por dentro. Ahora ser libres para encontrar a hermana.}
+{756}{slk43c}{Oh, sÃ­. Muy bueno. IrÃ­amos contigo, pero ya tienes a mucha gente.}
 {757}{}{Nuh-uh.}
 {758}{}{Uh-huh.}
 {759}{}{Ahora mismo no, gracias.}
-{760}{}{Eso sería genial.}
+{760}{}{Eso serÃ­a genial.}
 {761}{slk44a}{Nosotros y yo sabemos muchas cosas. Viajamos del Gran Mar Salado al hogar de los lagartos que muerden.}
 {762}{slk44b}{Nosotros y yo encantados de responder.}
-{763}{}{Háblame del Gran Mar Salado.}
-{764}{}{¿Lagartos que muerden?}
-{766}{}{¿Por qué has viajado tanto?}
-{767}{}{¿Qué estás haciendo aquí?}
-{768}{}{Me interesa algo de información local.}
-{769}{}{¿Querrías venir conmigo? Podríamos encontrar a tu hermana en el curso de mis viajes.}
-{770}{}{No creo que ahora mismo necesite saber nada más.}
-{771}{slk45}{El hogar de la tribu está junto al Gran Mar Salado. A dos lunas de aquí, miga.}
-{772}{}{Déjame hacerte otra pregunta.}
-{773}{}{¿Dos lunas? Eso es un viaje muy largo. ¿Cómo has viajado tan tranquilo desde tan lejos?}
-{774}{}{Es todo lo que necesito por ahora. Adiós.}
-{775}{slk46}{Geckos. Los pequeños no muerden fuerte. Son los dorados. Esos te atraviesan la pierna como a un viejo tubo de pipa.}
-{776}{slk47}{El mercader llamado Vic se suponía que estaba aquí. Él decir que sabía de esclavistas. Nosotros ir a verle, no encontrarle, enfadarnos mucho.}
-{777}{}{Vic vive aquí pero no creo que sepa mucho sobre esclavos. Aparte de estar encarcelado como uno en La Guarida, claro. Hablemos de otra cosa.}
-{778}{}{Adiós.}
-{779}{slk48a}{Esclavistas capturaron a nuestra hermana. Pensamos que Vic tendría información. No lo encontramos, bebimos hasta caer borrachos, más que peces. Espíritus de odio y caos surgieron y ahora tenemos que pagar algunas monedas para reparar daño.}
-{780}{slk48b}{Intentamos saber que camino tomar para encontrar a los esclavistas que raptaron a hermana. Quizás al sur.}
-{781}{slk48c}{Iremos a buscar hermana. Creo que iremos al sur, pero todavía no estamos seguros. ¿Quieres compañía?}
-{782}{}{¿Buscabas a Vic el mercader?}
-{783}{}{¿Tienes que pagar por los daños?}
-{784}{}{¡Uh! ¡Uh, uh!}
-{785}{}{Me dirigiré hacia el sur. Eres bienvenido si quieres viajar conmigo.}
-{786}{}{¿Estás buscando a tu hermana?}
-{787}{slk50}{Miga, con todos los espíritus andando conmigo, no tenemos miedo de viajar a ningún lado.}
-{790}{slk52a}{Traes malas nuevas contigo. Abuelo Hueso dice que acumularíamos mal karma por estar a tu lado.}
-{791}{slk52b}{Aquí estamos. Abuelo Hueso dice que podremos encontrar a hermana contigo.}
+{763}{}{HÃ¡blame del Gran Mar Salado.}
+{764}{}{Â¿Lagartos que muerden?}
+{766}{}{Â¿Por quÃ© has viajado tanto?}
+{767}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{768}{}{Me interesa algo de informaciÃ³n local.}
+{769}{}{Â¿QuerrÃ­as venir conmigo? PodrÃ­amos encontrar a tu hermana en el curso de mis viajes.}
+{770}{}{No creo que ahora mismo necesite saber nada mÃ¡s.}
+{771}{slk45}{El hogar de la tribu estÃ¡ junto al Gran Mar Salado. A dos lunas de aquÃ­, miga.}
+{772}{}{DÃ©jame hacerte otra pregunta.}
+{773}{}{Â¿Dos lunas? Eso es un viaje muy largo. Â¿CÃ³mo has viajado tan tranquilo desde tan lejos?}
+{774}{}{Es todo lo que necesito por ahora. AdiÃ³s.}
+{775}{slk46}{Geckos. Los pequeÃ±os no muerden fuerte. Son los dorados. Esos te atraviesan la pierna como a un viejo tubo de pipa.}
+{776}{slk47}{El mercader llamado Vic se suponÃ­a que estaba aquÃ­. Ã‰l decir que sabÃ­a de esclavistas. Nosotros ir a verle, no encontrarle, enfadarnos mucho.}
+{777}{}{Vic vive aquÃ­ pero no creo que sepa mucho sobre esclavos. Aparte de estar encarcelado como uno en La Guarida, claro. Hablemos de otra cosa.}
+{778}{}{AdiÃ³s.}
+{779}{slk48a}{Esclavistas capturaron a nuestra hermana. Pensamos que Vic tendrÃ­a informaciÃ³n. No lo encontramos, bebimos hasta caer borrachos, mÃ¡s que peces. EspÃ­ritus de odio y caos surgieron y ahora tenemos que pagar algunas monedas para reparar daÃ±o.}
+{780}{slk48b}{Intentamos saber que camino tomar para encontrar a los esclavistas que raptaron a hermana. QuizÃ¡s al sur.}
+{781}{slk48c}{Iremos a buscar hermana. Creo que iremos al sur, pero todavÃ­a no estamos seguros. Â¿Quieres compaÃ±Ã­a?}
+{782}{}{Â¿Buscabas a Vic el mercader?}
+{783}{}{Â¿Tienes que pagar por los daÃ±os?}
+{784}{}{Â¡Uh! Â¡Uh, uh!}
+{785}{}{Me dirigirÃ© hacia el sur. Eres bienvenido si quieres viajar conmigo.}
+{786}{}{Â¿EstÃ¡s buscando a tu hermana?}
+{787}{slk50}{Miga, con todos los espÃ­ritus andando conmigo, no tenemos miedo de viajar a ningÃºn lado.}
+{790}{slk52a}{Traes malas nuevas contigo. Abuelo Hueso dice que acumularÃ­amos mal karma por estar a tu lado.}
+{791}{slk52b}{AquÃ­ estamos. Abuelo Hueso dice que podremos encontrar a hermana contigo.}
 {792}{}{Uh.}
-{793}{}{Así lo espero. En cualquier caso estaría bien viajar contigo y, uh, el hueso de tu abuelo.}
-{794}{slk53}{No sólo Abuelo Hueso, todos los espíritus de la tribu. Abuelo Hueso sólo es más sabio y fuerte que el resto. Vivimos tranquilos.}
-{795}{}{Eh, sí. De acuerdo, Sulik.}
-{796}{slk54}{¿Qué podemos nosotros y yo hacer por ti?}
+{793}{}{AsÃ­ lo espero. En cualquier caso estarÃ­a bien viajar contigo y, uh, el hueso de tu abuelo.}
+{794}{slk53}{No sÃ³lo Abuelo Hueso, todos los espÃ­ritus de la tribu. Abuelo Hueso sÃ³lo es mÃ¡s sabio y fuerte que el resto. Vivimos tranquilos.}
+{795}{}{Eh, sÃ­. De acuerdo, Sulik.}
+{796}{slk54}{Â¿QuÃ© podemos nosotros y yo hacer por ti?}
 {797}{}{Tengo algunas preguntas para ti.}
-{798}{}{¿Dónde puedo comprar cosas, encontrar un sanador o una habitación?}
-{799}{}{¿Alguna vez has oído hablar del Kit de Creación del Jardín del Edén?}
-{800}{}{¿Qué está ocurriendo en el pueblo?}
-{801}{}{¿Qué estás haciendo aquí?}
-{802}{}{Ahora que eres libre, ¿por qué no viajas conmigo?}
-{803}{}{Supongo que ahora mismo no necesito nada más. Adiós.}
-{804}{slk55}{Muchas preguntas. Maida cuida del comercio aquí y su madre, Ardin, cuida de las habitaciones. No hay chamán en el pueblo, pero podrías comprar medicinas.}
-{805}{}{Oh, gracias. Déjame hacerte otra pregunta.}
-{806}{}{Supongo que eso es todo lo que quería saber. Adiós.}
-{807}{slk56}{Nunca lo hemos oído. Pero Maida nos ha tenido ocupados.}
-{808}{}{¿Quién es Maida?}
-{809}{}{Oh, bueno, déjame hacerte otra pregunta.}
-{810}{}{Bueno, supongo que será mejor que te deje volver a tus asuntos. Adiós.}
-{811}{slk57a}{Lugar agitado. Hombres bicho robando ganado, espíritus que andan, Smiley desaparecido.}
-{812}{slk57b}{Lugar agitado. Hombres bicho robando ganado, espíritus que andan, Smiley desaparecido. Ahora Torr también desaparecido.}
-{813}{slk57c}{¿Tienes más preguntas para Sulik?}
-{814}{}{Háblame de los hombres bicho.}
-{815}{}{¿Espíritus que andan? Háblame de eso.}
-{816}{}{¿Smiley? ¿Quién es Smiley?}
-{817}{}{¿Torr ha desaparecido? ¿Dónde crees que puede haber ido?}
-{818}{}{Déjame preguntarte algo más.}
-{819}{}{No creo que ahora mismo necesite saber nada más. Adiós.}
-{820}{slk58alt}{Somos buenos con puños, lanzas, martillos grandes o ametralladoras. Nos manejamos.}
-{821}{slk59}{Torr nos contaba sobre bichos que andan sobre dos pies y roban brahmines. Él estar asustado.}
-{822}{}{Interesante. Déjame preguntarte algo más.}
-{823}{}{Supongo que eso es todo lo que quería saber. Adiós.}
-{824}{slk60}{El cañón al oeste del pueblo se supone que tiene un espíritu que anda y aúlla. Asusta a los locales. Aunque Abuelo Hueso no dice nada de esto.}
-{825}{slk61}{Smiley es un buen cazador. Dijo que él busca nido de Geckos dorados. No volvió.}
+{798}{}{Â¿DÃ³nde puedo comprar cosas, encontrar un sanador o una habitaciÃ³n?}
+{799}{}{Â¿Alguna vez has oÃ­do hablar del Kit de CreaciÃ³n del JardÃ­n del EdÃ©n?}
+{800}{}{Â¿QuÃ© estÃ¡ ocurriendo en el pueblo?}
+{801}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{802}{}{Ahora que eres libre, Â¿por quÃ© no viajas conmigo?}
+{803}{}{Supongo que ahora mismo no necesito nada mÃ¡s. AdiÃ³s.}
+{804}{slk55}{Muchas preguntas. Maida cuida del comercio aquÃ­ y su madre, Ardin, cuida de las habitaciones. No hay chamÃ¡n en el pueblo, pero podrÃ­as comprar medicinas.}
+{805}{}{Oh, gracias. DÃ©jame hacerte otra pregunta.}
+{806}{}{Supongo que eso es todo lo que querÃ­a saber. AdiÃ³s.}
+{807}{slk56}{Nunca lo hemos oÃ­do. Pero Maida nos ha tenido ocupados.}
+{808}{}{Â¿QuiÃ©n es Maida?}
+{809}{}{Oh, bueno, dÃ©jame hacerte otra pregunta.}
+{810}{}{Bueno, supongo que serÃ¡ mejor que te deje volver a tus asuntos. AdiÃ³s.}
+{811}{slk57a}{Lugar agitado. Hombres bicho robando ganado, espÃ­ritus que andan, Smiley desaparecido.}
+{812}{slk57b}{Lugar agitado. Hombres bicho robando ganado, espÃ­ritus que andan, Smiley desaparecido. Ahora Torr tambiÃ©n desaparecido.}
+{813}{slk57c}{Â¿Tienes mÃ¡s preguntas para Sulik?}
+{814}{}{HÃ¡blame de los hombres bicho.}
+{815}{}{Â¿EspÃ­ritus que andan? HÃ¡blame de eso.}
+{816}{}{Â¿Smiley? Â¿QuiÃ©n es Smiley?}
+{817}{}{Â¿Torr ha desaparecido? Â¿DÃ³nde crees que puede haber ido?}
+{818}{}{DÃ©jame preguntarte algo mÃ¡s.}
+{819}{}{No creo que ahora mismo necesite saber nada mÃ¡s. AdiÃ³s.}
+{820}{slk58alt}{Somos buenos con puÃ±os, lanzas, martillos grandes o ametralladoras. Nos manejamos.}
+{821}{slk59}{Torr nos contaba sobre bichos que andan sobre dos pies y roban brahmines. Ã‰l estar asustado.}
+{822}{}{Interesante. DÃ©jame preguntarte algo mÃ¡s.}
+{823}{}{Supongo que eso es todo lo que querÃ­a saber. AdiÃ³s.}
+{824}{slk60}{El caÃ±Ã³n al oeste del pueblo se supone que tiene un espÃ­ritu que anda y aÃºlla. Asusta a los locales. Aunque Abuelo Hueso no dice nada de esto.}
+{825}{slk61}{Smiley es un buen cazador. Dijo que Ã©l busca nido de Geckos dorados. No volviÃ³.}
 {830}{slk62a}{Donde la roca que tiembla habita, sigue el camino que no puedes ver.}
 {831}{slk62b}{El viento se mueve a lugares secretos.}
-{832}{slk62c}{Busca la visión que no pertenece.}
-{833}{slk62d}{Cuánto más alto el lugar, más larga la cara.}
+{832}{slk62c}{Busca la visiÃ³n que no pertenece.}
+{833}{slk62d}{CuÃ¡nto mÃ¡s alto el lugar, mÃ¡s larga la cara.}
 {834}{slk62e}{Las aguas quietas no corren.}
-{835}{slk62f}{Una flor abre sus pétalos al sol. Busca el que es como la flor.}
-{836}{slk62g}{Una puerta no tiene porque llevar siempre a algún sitio. Lo que no es una puerta lo hace.}
-{837}{slk62h}{Busca un reflejo de ti misma. La senda se abrirá ante ti.}
-{838}{slk62i}{La hierba es más verde a través de la valla, pero primero tienes que encontrar esa valla.}
-{839}{slk62j}{Levantar rocas hará hallar más que gusanos.}
-{840}{slk63a}{Una puerta es sólo un camino al otro lado.}
+{835}{slk62f}{Una flor abre sus pÃ©talos al sol. Busca el que es como la flor.}
+{836}{slk62g}{Una puerta no tiene porque llevar siempre a algÃºn sitio. Lo que no es una puerta lo hace.}
+{837}{slk62h}{Busca un reflejo de ti misma. La senda se abrirÃ¡ ante ti.}
+{838}{slk62i}{La hierba es mÃ¡s verde a travÃ©s de la valla, pero primero tienes que encontrar esa valla.}
+{839}{slk62j}{Levantar rocas harÃ¡ hallar mÃ¡s que gusanos.}
+{840}{slk63a}{Una puerta es sÃ³lo un camino al otro lado.}
 {841}{slk63b}{Hay momentos para hablar y momentos para escuchar.}
-{842}{slk63c}{La mejor respuesta no siempre es la que se dice más alta.}
-{843}{slk63d}{Incluso la mente más pequeña contiene algo de sabiduría.}
-{844}{slk63e}{Tras haber matado algo, no hablará contigo.}
-{845}{slk63f}{Si está roto, es que una vez funcionó.}
-{846}{slk63g}{Las herramientas vienen en formas extrañas.}
+{842}{slk63c}{La mejor respuesta no siempre es la que se dice mÃ¡s alta.}
+{843}{slk63d}{Incluso la mente mÃ¡s pequeÃ±a contiene algo de sabidurÃ­a.}
+{844}{slk63e}{Tras haber matado algo, no hablarÃ¡ contigo.}
+{845}{slk63f}{Si estÃ¡ roto, es que una vez funcionÃ³.}
+{846}{slk63g}{Las herramientas vienen en formas extraÃ±as.}
 {847}{slk63h}{No mandas a un herrero a hacer pan.}
-{848}{slk63i}{Nadie cuestiona lo que ve todos los días.}
-{849}{slk63j}{Si esperas lo suficiente, la mayoría de las adicciones se curan solas.}
-{850}{slk63k}{Matar a gente buena empaña tu alma... alguna gente puede sentirlo.}
+{848}{slk63i}{Nadie cuestiona lo que ve todos los dÃ­as.}
+{849}{slk63j}{Si esperas lo suficiente, la mayorÃ­a de las adicciones se curan solas.}
+{850}{slk63k}{Matar a gente buena empaÃ±a tu alma... alguna gente puede sentirlo.}
 {851}{slk63l}{Matar a gente mala es bueno para tu karma... alguna gente puede sentirlo.}
-{852}{slk63m}{Un acto de bondad difícilmente se olvida.}
-{860}{slk64a}{El verde será suerte para ti.}
-{861}{slk64b}{Un poco más blando ahora.}
+{852}{slk63m}{Un acto de bondad difÃ­cilmente se olvida.}
+{860}{slk64a}{El verde serÃ¡ suerte para ti.}
+{861}{slk64b}{Un poco mÃ¡s blando ahora.}
 {862}{slk64c}{Mira antes de que te caigas.}
-{863}{slk64d}{Un puerco espín no es una almohada.}
-{864}{slk64e}{¿A dónde va una sombra en la oscuridad?}
-{865}{slk64f}{Un poco más alto ahora.}
-{866}{slk64g}{Setas son mal acompañamiento de cena.}
-{867}{slk64h}{Es fácil convertirse en espíritu.}
-{868}{slk64i}{Dí lo que quieres.}
+{863}{slk64d}{Un puerco espÃ­n no es una almohada.}
+{864}{slk64e}{Â¿A dÃ³nde va una sombra en la oscuridad?}
+{865}{slk64f}{Un poco mÃ¡s alto ahora.}
+{866}{slk64g}{Setas son mal acompaÃ±amiento de cena.}
+{867}{slk64h}{Es fÃ¡cil convertirse en espÃ­ritu.}
+{868}{slk64i}{DÃ­ lo que quieres.}
 {869}{slk64j}{Lo bigotes crecen, el agua corre, pero las rocas se quedan quietas.}
-{870}{slk64k}{Cuando la luz del día acaba, ¿qué comienza?}
-{880}{slk65}{¿Qué necesitas?}
+{870}{slk64k}{Cuando la luz del dÃ­a acaba, Â¿quÃ© comienza?}
+{880}{slk65}{Â¿QuÃ© necesitas?}
 {881}{}{Necesito que te apartes de m camino.}
-{882}{}{Quiero cambiar tus tácticas de combate.}
-{883}{}{Quiero que esperes aquí.}
-{884}{}{Deberías curarte a ti mismo.}
-{885}{}{Dime cómo estás.}
+{882}{}{Quiero cambiar tus tÃ¡cticas de combate.}
+{883}{}{Quiero que esperes aquÃ­.}
+{884}{}{DeberÃ­as curarte a ti mismo.}
+{885}{}{Dime cÃ³mo estÃ¡s.}
 {886}{}{Eso es todo, Sulik.}
-{887}{}{Háblame sobre este lugar.}
-{890}{slk66}{¿Cuál ser nuestra estrategia de combate?}
+{887}{}{HÃ¡blame sobre este lugar.}
+{890}{slk66}{Â¿CuÃ¡l ser nuestra estrategia de combate?}
 {891}{}{Quiero que cambies tu distancia conmigo.}
 {892}{}{Quiero que uses tu mejor arma.}
 {893}{}{Quiero que uses tu mejor armadura.}
 {894}{}{Quiero que cambies tu actitud en combate.}
 {895}{}{No importa.}
-{900}{slk67}{¿A qué distancia nos quieres?}
-{901}{}{Quiero que estés pegado a mí.}
+{900}{slk67}{Â¿A quÃ© distancia nos quieres?}
+{901}{}{Quiero que estÃ©s pegado a mÃ­.}
 {902}{}{Te quiero a una distancia media.}
 {903}{}{Te quiero bien lejos.}
-{904}{}{Necesito que explores por delante mío.}
-{905}{slk68}{¿Cómo quieres que luchemos?}
+{904}{}{Necesito que explores por delante mÃ­o.}
+{905}{slk68}{Â¿CÃ³mo quieres que luchemos?}
 {906}{}{Quiero que por ahora luches defensivamente.}
 {907}{}{Quiero que luches de forma normal.}
 {908}{}{Quiero que luches con agresividad.}
-{910}{slk69}{Un superviviente. Tipo estar en mala condición. Dijo que guerreros malos venir con antorchas mágicas. Fuego lamer a guerreros de tribu y ellos irse con espíritus.}
-{911}{}{¿Y qué pasa con tu hermana?}
-{912}{slk69a}{Los guerreros malvados atar al resto y llevárselos. Hermana con ellos. Migo, tenemos que encontrarla o morir en el intento.}
-{913}{}{Me suena a esclavistas. ¿Has averiguado algo acerca de ellos?}
-{914}{}{Siento oír eso. Espero que puedas encontrarla. Déjame hacerte otra pregunta.}
-{915}{}{Creo que eso es todo lo que quería saber por ahora. Adiós.}
+{910}{slk69}{Un superviviente. Tipo estar en mala condiciÃ³n. Dijo que guerreros malos venir con antorchas mÃ¡gicas. Fuego lamer a guerreros de tribu y ellos irse con espÃ­ritus.}
+{911}{}{Â¿Y quÃ© pasa con tu hermana?}
+{912}{slk69a}{Los guerreros malvados atar al resto y llevÃ¡rselos. Hermana con ellos. Migo, tenemos que encontrarla o morir en el intento.}
+{913}{}{Me suena a esclavistas. Â¿Has averiguado algo acerca de ellos?}
+{914}{}{Siento oÃ­r eso. Espero que puedas encontrarla. DÃ©jame hacerte otra pregunta.}
+{915}{}{Creo que eso es todo lo que querÃ­a saber por ahora. AdiÃ³s.}
 {916}{slk70a}{Estar como en medio de un hormiguero. Demasiada gente para nosotros.}
-{917}{slk70b}{Nuestra tribu ser más pequeña que tu grupo. Demasiada gente para este viaje.}
-{918}{slk70c}{Tú tener un ejercito. No necesitar a nosotros y yo por ahora.}
-{919}{slk71}{Nosotros y yo tristes por ver como tienes la marca. Creer que tu alma estar oscureciéndose. Tenemos que irnos. Adiós.}
-{920}{slk72}{¿Tú pensar que vender gente estar bien? A un migo. Nosotros nos vamos.}
-{921}{slk73a}{Tú tener un montón de problemas con gente. Nosotros irnos hasta que tú cambiar de actitud.}
-{922}{slk73b}{Tú ser como mal sueño. Tener que irnos.}
-{923}{slk74}{Nosotros no ser amigo de mata-niños.}
-{924}{slk75}{Nosotros pensar que tú estar cometiendo un gran error, pero de acuerdo.}
-{925}{slk76}{Nosotros oír que tú ayudar a Torr. Perder más brahmines es gran problema para él.}
-{926}{}{¿Eh?}
-{927}{}{Eh. Adiós.}
+{917}{slk70b}{Nuestra tribu ser mÃ¡s pequeÃ±a que tu grupo. Demasiada gente para este viaje.}
+{918}{slk70c}{TÃº tener un ejercito. No necesitar a nosotros y yo por ahora.}
+{919}{slk71}{Nosotros y yo tristes por ver como tienes la marca. Creer que tu alma estar oscureciÃ©ndose. Tenemos que irnos. AdiÃ³s.}
+{920}{slk72}{Â¿TÃº pensar que vender gente estar bien? A un migo. Nosotros nos vamos.}
+{921}{slk73a}{TÃº tener un montÃ³n de problemas con gente. Nosotros irnos hasta que tÃº cambiar de actitud.}
+{922}{slk73b}{TÃº ser como mal sueÃ±o. Tener que irnos.}
+{923}{slk74}{Nosotros no ser amigo de mata-niÃ±os.}
+{924}{slk75}{Nosotros pensar que tÃº estar cometiendo un gran error, pero de acuerdo.}
+{925}{slk76}{Nosotros oÃ­r que tÃº ayudar a Torr. Perder mÃ¡s brahmines es gran problema para Ã©l.}
+{926}{}{Â¿Eh?}
+{927}{}{Eh. AdiÃ³s.}
 {928}{}{Bien, parece que necesitaba ayuda. Tengo algunas preguntas para ti.}
-{929}{}{Necesitaba ayuda. Necesito algo de información local.}
-{930}{}{Torr necesita ayuda. Será mejor que me ponga a ello. Adiós.}
-{931}{slk77}{Nosotros oír que tu no poder ayudar a Torr. Mala suerte, él necesitar mucha ayuda.}
-{932}{}{Bueno, suele pasar. Aunque necesito algo de información local.}
-{933}{}{De verdad que intente ayudarle. Siento que no fuera capaz. Adiós.}
-{934}{}{Bueno, era un idiota así que, a quién le importa lo que le pase. Adiós.}
+{929}{}{Necesitaba ayuda. Necesito algo de informaciÃ³n local.}
+{930}{}{Torr necesita ayuda. SerÃ¡ mejor que me ponga a ello. AdiÃ³s.}
+{931}{slk77}{Nosotros oÃ­r que tu no poder ayudar a Torr. Mala suerte, Ã©l necesitar mucha ayuda.}
+{932}{}{Bueno, suele pasar. Aunque necesito algo de informaciÃ³n local.}
+{933}{}{De verdad que intente ayudarle. Siento que no fuera capaz. AdiÃ³s.}
+{934}{}{Bueno, era un idiota asÃ­ que, a quiÃ©n le importa lo que le pase. AdiÃ³s.}
 {935}{slk78}{Esperamos que encuentres a Torr. Necesita ayuda.}
-{936}{}{¿A dónde ha ido Torr?}
+{936}{}{Â¿A dÃ³nde ha ido Torr?}
 {937}{}{Siento que Torr haya desaparecido, pero tengo alguna pregunta para ti.}
-{938}{}{Me gustaría ayudar a Torr pero ahora mismo no tengo tiempo. Adiós.}
-{939}{}{Torr no es nada más que un anormal. Ninguno de nosotros puede ayudarle con el. Adiós.}
-{940}{slk79}{Nosotros escucharle hablar de matar a espíritu que camina. Intentar ser valiente.}
-{941}{}{¿Espíritu que camina?}
-{942}{}{Caray. ¿Espíritus? Suena espeluznante. Adiós.}
-{943}{slk80}{Al este haber un cañón donde brahmines ir a pastar. Hace bastantes lunas nosotros oír truenos y rayos allí... sin nubes. Malvados espíritus vivir en esas tierras.}
-{944}{}{¿De verdad?}
-{945}{slk80a}{Los locales comienzan a oír extraños ruidos. espíritus en la tormenta, nosotros y yo decimos. Algunos pocos incluso ven algo. Criatura-espíritu que no tiene la forma de un hombre.}
+{938}{}{Me gustarÃ­a ayudar a Torr pero ahora mismo no tengo tiempo. AdiÃ³s.}
+{939}{}{Torr no es nada mÃ¡s que un anormal. Ninguno de nosotros puede ayudarle con el. AdiÃ³s.}
+{940}{slk79}{Nosotros escucharle hablar de matar a espÃ­ritu que camina. Intentar ser valiente.}
+{941}{}{Â¿EspÃ­ritu que camina?}
+{942}{}{Caray. Â¿EspÃ­ritus? Suena espeluznante. AdiÃ³s.}
+{943}{slk80}{Al este haber un caÃ±Ã³n donde brahmines ir a pastar. Hace bastantes lunas nosotros oÃ­r truenos y rayos allÃ­... sin nubes. Malvados espÃ­ritus vivir en esas tierras.}
+{944}{}{Â¿De verdad?}
+{945}{slk80a}{Los locales comienzan a oÃ­r extraÃ±os ruidos. espÃ­ritus en la tormenta, nosotros y yo decimos. Algunos pocos incluso ven algo. Criatura-espÃ­ritu que no tiene la forma de un hombre.}
 {946}{}{Huh.}
-{947}{}{Suena peligroso. ¿Qué iba a hacer Torr allí?}
-{948}{slk80b}{Torr ser objeto de muchas burlas. Así que él pensar que encontrar y matar a este mal espíritu convertirle en héroe. Nosotros pensamos que él en problemas. ¿Vas a ayudar a Torr?}
-{949}{}{¡Huh-uh!}
+{947}{}{Suena peligroso. Â¿QuÃ© iba a hacer Torr allÃ­?}
+{948}{slk80b}{Torr ser objeto de muchas burlas. AsÃ­ que Ã©l pensar que encontrar y matar a este mal espÃ­ritu convertirle en hÃ©roe. Nosotros pensamos que Ã©l en problemas. Â¿Vas a ayudar a Torr?}
+{949}{}{Â¡Huh-uh!}
 {950}{}{Uh-huh.}
-{951}{}{Iré a buscarle ahora mismo.}
-{952}{}{Por supuesto, le ayudaré. Pero primero necesito algo de información.}
-{953}{}{Deberíamos darle algo más de tiempo. No puede convertirse en un héroe si nos entrometemos. Me vendría bien algo de información local.}
-{954}{}{Uh, interesante historia pero no creo que pueda ayudar a Torr. Estoy bastante ocupada. Adiós.}
-{955}{slk81a}{Encontrar a hermana. Nosotros mandarla a casa. Ella es fuerte, puede lograrlo. Nosotros querer ir contigo. Abuelo Hueso dice que tú tienes un gran camino por andar.}
-{956}{slk81b}{¿Tú dejar nosotros ir contigo ahora?}
+{951}{}{IrÃ© a buscarle ahora mismo.}
+{952}{}{Por supuesto, le ayudarÃ©. Pero primero necesito algo de informaciÃ³n.}
+{953}{}{DeberÃ­amos darle algo mÃ¡s de tiempo. No puede convertirse en un hÃ©roe si nos entrometemos. Me vendrÃ­a bien algo de informaciÃ³n local.}
+{954}{}{Uh, interesante historia pero no creo que pueda ayudar a Torr. Estoy bastante ocupada. AdiÃ³s.}
+{955}{slk81a}{Encontrar a hermana. Nosotros mandarla a casa. Ella es fuerte, puede lograrlo. Nosotros querer ir contigo. Abuelo Hueso dice que tÃº tienes un gran camino por andar.}
+{956}{slk81b}{Â¿TÃº dejar nosotros ir contigo ahora?}
 {957}{}{Nuh-uh.}
 {958}{}{Uh-huh.}
-{959}{}{Deberías volver a tu aldea para asegurarte de que está a salvo. Te echaré de menos, Sulik.}
+{959}{}{DeberÃ­as volver a tu aldea para asegurarte de que estÃ¡ a salvo. Te echarÃ© de menos, Sulik.}
 {960}{}{Vamos, Sulik.}
-{961}{slk82a}{Cuando terminar con esto, no quedará una persona mala en el mundo.}
-{962}{slk82b}{Miga, ¿alguna vez te has preguntado si hay más gente mala que balas?}
-{963}{slk83a}{Te gusta ver el interior de los cuerpos, ¿no?}
-{964}{slk83b}{Abuelo Hueso dice que yo debo preocuparme si no haber nadie cerca que tú poder matar.}
-{965}{slk84a}{Nosotros y yo pensar que tu pequeña cabeza de abajo estar pensando por ti.}
-{966}{slk84b}{Nosotros pensar que tú deber esforzarte más.}
+{961}{slk82a}{Cuando terminar con esto, no quedarÃ¡ una persona mala en el mundo.}
+{962}{slk82b}{Miga, Â¿alguna vez te has preguntado si hay mÃ¡s gente mala que balas?}
+{963}{slk83a}{Te gusta ver el interior de los cuerpos, Â¿no?}
+{964}{slk83b}{Abuelo Hueso dice que yo debo preocuparme si no haber nadie cerca que tÃº poder matar.}
+{965}{slk84a}{Nosotros y yo pensar que tu pequeÃ±a cabeza de abajo estar pensando por ti.}
+{966}{slk84b}{Nosotros pensar que tÃº deber esforzarte mÃ¡s.}
 {1016}{}{Estar como en medio de un hormiguero. Demasiada gente para nosotros.}
-{1017}{}{Nuestra tribu ser más pequeña que tu grupo. Demasiada gente para este viaje.}
-{1018}{}{Tú tener un ejército. No necesitar a nosotros y yo por ahora.}
-{1020}{}{¿Tú pensar que vender gente estar bien? A un migo. Nosotros nos vamos.}
-{1021}{}{Tú tener un montón de problemas con gente. Nosotros irnos hasta que tú cambiar de actitud.}
-{1023}{}{Nosotros no migos de mata-niños.}
-{1025}{}{Tú causar problemas en Klamath. Nosotros irnos.}
-{1026}{}{Tú causar problemas en mi pueblo natal. Nosotros irnos.}
-{2300}{}{Los espíritus nos mueven.}
+{1017}{}{Nuestra tribu ser mÃ¡s pequeÃ±a que tu grupo. Demasiada gente para este viaje.}
+{1018}{}{TÃº tener un ejÃ©rcito. No necesitar a nosotros y yo por ahora.}
+{1020}{}{Â¿TÃº pensar que vender gente estar bien? A un migo. Nosotros nos vamos.}
+{1021}{}{TÃº tener un montÃ³n de problemas con gente. Nosotros irnos hasta que tÃº cambiar de actitud.}
+{1023}{}{Nosotros no migos de mata-niÃ±os.}
+{1025}{}{TÃº causar problemas en Klamath. Nosotros irnos.}
+{1026}{}{TÃº causar problemas en mi pueblo natal. Nosotros irnos.}
+{2300}{}{Los espÃ­ritus nos mueven.}
 {2301}{}{Nosotros y yo movernos.}
 {2302}{}{Vale, calmarte.}
 {2303}{}{No preocuparte, nosotros y yo movernos.}
-{2304}{}{Nosotros pensar que tu necesitas tiempo para oler las flores. Abuelo Hueso dice que tú ser demasiado agresiva. Tú deber tomarte la vida con más calma.}
+{2304}{}{Nosotros pensar que tu necesitas tiempo para oler las flores. Abuelo Hueso dice que tÃº ser demasiado agresiva. TÃº deber tomarte la vida con mÃ¡s calma.}
 {2305}{}{Nosotros movernos al ritmo.}
-{2306}{}{Nosotros movernos allí ahora.}
-{2307}{}{Relájate, sé feliz, nosotros movernos ya.}
+{2306}{}{Nosotros movernos allÃ­ ahora.}
+{2307}{}{RelÃ¡jate, sÃ© feliz, nosotros movernos ya.}
 {3000}{}{Al norte.}
 {3001}{}{Al noroeste.}
 {3002}{}{A la puesta de sol.}
@@ -418,74 +418,74 @@
 {3006}{}{Al amanecer.}
 {3007}{}{Al nordeste.}
 {3008}{}{No sabemos nada de eso.}
-{3009}{}{Sí.}
+{3009}{}{SÃ­.}
 {3010}{}{No.}
-{3011}{}{¿Qué esperas de nosotros?}
-{3012}{}{Eso no está bien.}
+{3011}{}{Â¿QuÃ© esperas de nosotros?}
+{3012}{}{Eso no estÃ¡ bien.}
 {3013}{}{Gracias.}
-{3014}{}{Está bien.}
-{3015}{}{No está bien.}
+{3014}{}{EstÃ¡ bien.}
+{3015}{}{No estÃ¡ bien.}
 {3016}{}{Tenemos un buen presentimiento acerca de esto.}
 {3017}{}{Nosotros tener un mal presentimiento acerca de esto.}
-{3018}{}{Esta gente está loca.}
+{3018}{}{Esta gente estÃ¡ loca.}
 {3020}{}{Debe haber otro camino.}
 {3021}{}{Seguirnos.}
 {3022}{}{Probar esto.}
 {3023}{}{Nosotros ir ahora.}
-{3024}{}{Fue por aquí.}
+{3024}{}{Fue por aquÃ­.}
 {3025}{}{Este es el camino.}
 {3026}{}{Este es el camino.}
 {3027}{}{Hemos encontrado la pista.}
-{3028}{}{Buena caza aquí.}
-{3029}{}{Mala caza aquí.}
-{3030}{}{Acampar seguro aquí.}
-{3031}{}{No seguro acampar aquí.}
-{3032}{}{Podemos descansar aquí.}
+{3028}{}{Buena caza aquÃ­.}
+{3029}{}{Mala caza aquÃ­.}
+{3030}{}{Acampar seguro aquÃ­.}
+{3031}{}{No seguro acampar aquÃ­.}
+{3032}{}{Podemos descansar aquÃ­.}
 {3033}{}{Nosotros tener suerte.}
-{3034}{}{Tú arregla esto.}
-{3035}{}{Tú tienes que encender esto.}
-{3036}{}{Tú tienes que abrir esto.}
-{3037}{}{Tú tienes que abrir esto.}
-{3038}{}{Quizás nosotros volver aquí otra vez.}
+{3034}{}{TÃº arregla esto.}
+{3035}{}{TÃº tienes que encender esto.}
+{3036}{}{TÃº tienes que abrir esto.}
+{3037}{}{TÃº tienes que abrir esto.}
+{3038}{}{QuizÃ¡s nosotros volver aquÃ­ otra vez.}
 {3039}{}{No comprendamos.}
 {3040}{}{No sabemos.}
-{3050}{slk86}{Estar en casa es bueno, pero el lugar parece un poco pequeño ahora. Nosotros echamos de menos la carretera y la compañía de un buen migo como tú. Nosotros queremos andar de aquí pa allá otra vez.}
-{3051}{}{Eso sería genial.}
+{3050}{slk86}{Estar en casa es bueno, pero el lugar parece un poco pequeÃ±o ahora. Nosotros echamos de menos la carretera y la compaÃ±Ã­a de un buen migo como tÃº. Nosotros queremos andar de aquÃ­ pa allÃ¡ otra vez.}
+{3051}{}{Eso serÃ­a genial.}
 {3052}{}{Lo siento, ahora no puedo.}
-{3053}{slk87}{Nosotros decir adiós y alcanzarte en la carretera.}
+{3053}{slk87}{Nosotros decir adiÃ³s y alcanzarte en la carretera.}
 {3054}{}{Vale.}
-{3055}{slk88}{Eso sería muy malo. Te diré qué, tú necesitas esto más que yo. Marcha tranquilo.}
-{3056}{}{Pensándolo mejor, quizás deberías venir conmigo. No quiera apartarte de tu hogar tan pronto.}
-{3057}{slk89}{Bueno ver hogar, pero no mientras hermana no está. Queremos seguir en tu equipo, ¿vale?}
-{3058}{}{Sí.}
-{3059}{}{No, creo que ya va siendo hora de que la busques tú solo.}
-{3060}{slk90}{Quizás. Nosotros y yo echamos de menos a ti. Buenos espíritus contigo, miga.}
-{3061}{}{Gracias, Sulik. Adiós. [Sulik te da su equipo].}
-{3062}{}{Bueno, quizás deberías seguir conmigo. Supongo que podríamos seguir buscando a tu hermana.}
-{3063}{slk91a}{¿Quieres buena compañía de nuevo?}
+{3055}{slk88}{Eso serÃ­a muy malo. Te dirÃ© quÃ©, tÃº necesitas esto mÃ¡s que yo. Marcha tranquilo.}
+{3056}{}{PensÃ¡ndolo mejor, quizÃ¡s deberÃ­as venir conmigo. No quiera apartarte de tu hogar tan pronto.}
+{3057}{slk89}{Bueno ver hogar, pero no mientras hermana no estÃ¡. Queremos seguir en tu equipo, Â¿vale?}
+{3058}{}{SÃ­.}
+{3059}{}{No, creo que ya va siendo hora de que la busques tÃº solo.}
+{3060}{slk90}{QuizÃ¡s. Nosotros y yo echamos de menos a ti. Buenos espÃ­ritus contigo, miga.}
+{3061}{}{Gracias, Sulik. AdiÃ³s. [Sulik te da su equipo].}
+{3062}{}{Bueno, quizÃ¡s deberÃ­as seguir conmigo. Supongo que podrÃ­amos seguir buscando a tu hermana.}
+{3063}{slk91a}{Â¿Quieres buena compaÃ±Ã­a de nuevo?}
 {3064}{slk91b}{Es bueno volver a casa de nuevo.}
 {3065}{slk91c}{Nosotros necesitar hablar con el hombre de las hierbas. Dejar que el mundo flotar.}
-{3066}{slk91d}{Cuantas jóvenes doncellas para contar nuestros viajes... y qué poco tiempo.}
+{3066}{slk91d}{Cuantas jÃ³venes doncellas para contar nuestros viajes... y quÃ© poco tiempo.}
 {3067}{slk91e}{Divertido. Nosotros felices de estar hogar, pero un poco inquietos por el camino.}
-{3068}{}{Sí, la conozco.}
+{3068}{}{SÃ­, la conozco.}
 {3069}{}{No, no lo tengo.}
-{3070}{}{Sulik, ¿puedes consultar a los espíritus acerca de mí?}
+{3070}{}{Sulik, Â¿puedes consultar a los espÃ­ritus acerca de mÃ­?}
 {3071}{}{Sulik, por favor, guarda tu arma.}
-{3080}{}{Tu no miga de mí. Abuelo Hueso dice yo no hablo contigo.}
-{3081}{}{No, yo creo que es tiempo de que parte de nuestra manera de ser. Quedarme aquí con usted hermana, ella te necesita.}
+{3080}{}{Tu no miga de mÃ­. Abuelo Hueso dice yo no hablo contigo.}
+{3081}{}{No, yo creo que es tiempo de que parte de nuestra manera de ser. Quedarme aquÃ­ con usted hermana, ella te necesita.}
 {3082}{}{Es bueno volver a casa de nuevo.}
-{3083}{}{Cuantas jóvenes doncellas para contar nuestros viajes... y qué poco tiempo.}
+{3083}{}{Cuantas jÃ³venes doncellas para contar nuestros viajes... y quÃ© poco tiempo.}
 {3084}{}{Nosotros necesitar hablar con el hombre de las hierbas. Dejar que el mundo flotar.}
-{3086}{}{Cuídate, 'migo.}
+{3086}{}{CuÃ­date, 'migo.}
 {3087}{}{Nosotros y te deseo la mejor de las suertes.}
 {3088}{}{Gracias de nuevo por todo, fren.}
-{3090}{}{Esta aquí en nuestro pueblo. Nosotros y yo vamos a hablar con nuestros amigos.}
+{3090}{}{Esta aquÃ­ en nuestro pueblo. Nosotros y yo vamos a hablar con nuestros amigos.}
 {3091}{}{Nosotros y yo vamos a hablar con nuestros amigos de nuevo antes de headin a cabo.}
-{3100}{}{[MÁS]}
+{3100}{}{[MÃS]}
 {3101}{}{Donde es exactamente su tribu, Sulik?}
-{3102}{}{Gracias. Deja que te pregunte algo más.}
-{3103}{}{Tu también, Sulik. Cuídate.}
-{3200}{}{Si, he hablado con la señora Buckner acerca de tu deuda. Ahora sólo necesito llegar a un acuerdo con Maida. Volveré a hablar contigo después de hacerlo con ella.}
-{3500}{}{Nosotros y yo pensamos algo marcha mal con nosotros. Tú mejor echar vistazo a este miembro nuestro.}
+{3102}{}{Gracias. Deja que te pregunte algo mÃ¡s.}
+{3103}{}{Tu tambiÃ©n, Sulik. CuÃ­date.}
+{3200}{}{Si, he hablado con la seÃ±ora Buckner acerca de tu deuda. Ahora sÃ³lo necesito llegar a un acuerdo con Maida. VolverÃ© a hablar contigo despuÃ©s de hacerlo con ella.}
+{3500}{}{Nosotros y yo pensamos algo marcha mal con nosotros. TÃº mejor echar vistazo a este miembro nuestro.}
 {3501}{}{Nosotros y yo pensamos algo marcha mal con nosotros. Nosotros resplandecer como sol.}
 {3502}{}{Nosotros y yo pensamos algo marcha mal con nosotros. Nosotros sentir envenenados.}

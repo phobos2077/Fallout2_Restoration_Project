@@ -5,7 +5,7 @@
 {201}{}{Beh, che mi venga un colpo se quello non e' Mr. Macinacaffe'.}
 {202}{}{C'e' nessuno in quel coso?}
 {203}{}{Possiamo portarle qualcosa? Una birra? Un po' d'acqua? Un dolcetto?}
-{204}{}{Spero vada tutto bene, uh, signore…o signora... Qualunque cosa ci sia la' dentro.}
+{204}{}{Spero vada tutto bene, uh, signoreâ€¦o signora... Qualunque cosa ci sia la' dentro.}
 {205}{}{Qualunque sia il problema, il responsabile e' T-Ray. Vada a parlare con lui.}
 {206}{}{E' per caso un nuovo tipo di automobile?}
 {207}{}{Non vogliamo guai.}
@@ -17,7 +17,7 @@
 {224}{}{Ti sarebbe troppo di disturbo darmi una controllatina sotto al cofano?}
 {225}{}{Aw, diavolo, ho un aspetto da schifo... proprio adesso. Non faccia caso al grasso, miss.}
 {226}{}{Sei in cerca di nuovi talenti? T-Ray e' nel retro, quindi non serve che vai la'.}
-{227}{}{Lo sapevo che oggi dovevo farmi un bagno…}
+{227}{}{Lo sapevo che oggi dovevo farmi un bagnoâ€¦}
 {228}{}{Vuole che le controlli l'olio? Eh-heh.}
 {229}{}{Vuoi vedere la mia chiave inglese?}
 {230}{}{::Fischia::}
@@ -50,7 +50,7 @@
 {302}{}{Si', la Highwayman non e' una brutta macchina, ma preferisco le Omni.}
 {303}{}{Vuole forse vendere la sua Highwayman?}
 {304}{}{Vai, fulmine lubrificato, vai.}
-{305}{}{Grasso e' la parola che mi piace sentire…dum dum dum dum…}
+{305}{}{Grasso e' la parola che mi piace sentireâ€¦dum dum dum dumâ€¦}
 {306}{}{La Highwayman e' una bella macchina; quelli della Chryslus sapevano davvero come farle.}
 {307}{}{T-Ray sta "lavorando" nella stanza sul retro. Pigro bastardo.}
 {308}{}{Sono stufo di fare anche il lavoro di T-Ray.}

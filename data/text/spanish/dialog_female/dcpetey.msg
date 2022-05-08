@@ -1,73 +1,73 @@
 {100}{}{Ves a un drogadicto.}
 {101}{}{Ves a Petey.}
-{150}{}{Este de aquí es un pobre drogadicto.}
+{150}{}{Este de aquÃ­ es un pobre drogadicto.}
 {151}{}{Parece que Petey necesita ayuda.}
 {152}{}{[hablar]}
-{155}{}{[cof, cof] ¿Tienes algo suelto que darme?}
-{156}{}{Claro, aquí tienes.}
-{157}{}{No, piérdete.}
-{158}{}{¿Peewee?}
-{159}{}{Estás peor que yo. [cof] De todas formas, gracias.}
-{160}{}{Lo siento, adiós.}
-{161}{}{Eh, de nada, uh-huh, sí.}
-{162}{}{Quizás la próxima vez. Gracias de todos modos. [cof]}
+{155}{}{[cof, cof] Â¿Tienes algo suelto que darme?}
+{156}{}{Claro, aquÃ­ tienes.}
+{157}{}{No, piÃ©rdete.}
+{158}{}{Â¿Peewee?}
+{159}{}{EstÃ¡s peor que yo. [cof] De todas formas, gracias.}
+{160}{}{Lo siento, adiÃ³s.}
+{161}{}{Eh, de nada, uh-huh, sÃ­.}
+{162}{}{QuizÃ¡s la prÃ³xima vez. Gracias de todos modos. [cof]}
 {163}{}{[hecho]}
 {164}{}{Muchas gracias. [cof] Mu-mu-muchas gracias.}
-{165}{}{No hay de qué.}
+{165}{}{No hay de quÃ©.}
 {166}{}{Ya, ya.}
-{167}{}{Señora, [cof] ¿puede ayudar a un pobre hombre con mala suerte?}
-{168}{}{Aquí tienes 5 dólares.}
+{167}{}{SeÃ±ora, [cof] Â¿puede ayudar a un pobre hombre con mala suerte?}
+{168}{}{AquÃ­ tienes 5 dÃ³lares.}
 {169}{}{Hoy no.}
-{170}{}{Búscate un trabajo.}
-{171}{}{Buena señora, por favor, ayude [cof] a un pobre hombre hambriento que está [cof] demasiado enfermo para trabajar.}
-{172}{}{Pobrecito, aquí tienes 5 dólares.}
-{173}{}{Me he prometido no dar dinero a los pedigüeños.}
+{170}{}{BÃºscate un trabajo.}
+{171}{}{Buena seÃ±ora, por favor, ayude [cof] a un pobre hombre hambriento que estÃ¡ [cof] demasiado enfermo para trabajar.}
+{172}{}{Pobrecito, aquÃ­ tienes 5 dÃ³lares.}
+{173}{}{Me he prometido no dar dinero a los pedigÃ¼eÃ±os.}
 {174}{}{No.}
 {175}{}{Lo siento, no tengo dinero ahora.}
-{200}{}{Eh, hombre; ¿tienes algo suelto?}
-{201}{}{¿Puede darme algo suelto, amable señor?}
-{202}{}{Eh, ¿podrías ayudarme con unos pocos dólares?}
-{203}{}{¿Cree que podría ayudarme dándome un par de dólares?}
-{204}{}{¿Crees que podrías prestarme unos pocos dólares?}
-{205}{}{¿Lleva algo suelto, amable señora?}
-{206}{}{Eh, señora; ¿lleva algo suelto?}
-{220}{}{Por favor, ayúdeme, señora.}
-{221}{}{Ahhh, qué mal.}
+{200}{}{Eh, hombre; Â¿tienes algo suelto?}
+{201}{}{Â¿Puede darme algo suelto, amable seÃ±or?}
+{202}{}{Eh, Â¿podrÃ­as ayudarme con unos pocos dÃ³lares?}
+{203}{}{Â¿Cree que podrÃ­a ayudarme dÃ¡ndome un par de dÃ³lares?}
+{204}{}{Â¿Crees que podrÃ­as prestarme unos pocos dÃ³lares?}
+{205}{}{Â¿Lleva algo suelto, amable seÃ±ora?}
+{206}{}{Eh, seÃ±ora; Â¿lleva algo suelto?}
+{220}{}{Por favor, ayÃºdeme, seÃ±ora.}
+{221}{}{Ahhh, quÃ© mal.}
 {222}{}{Necesito ayuda. Me encuentro mal.}
-{223}{}{Señora, ¿podría ayudarme?}
+{223}{}{SeÃ±ora, Â¿podrÃ­a ayudarme?}
 {225}{}{Te lo agradezco mucho.}
-{226}{}{Eh, ¿qué crees que estás haciendo?}
+{226}{}{Eh, Â¿quÃ© crees que estÃ¡s haciendo?}
 {230}{}{Que bueno.}
 {231}{}{Uhhh...}
-{232}{}{[se ríe]}
+{232}{}{[se rÃ­e]}
 {233}{}{Eh...}
 {234}{}{Maravilloso...}
-{235}{}{Oh, sí...}
+{235}{}{Oh, sÃ­...}
 {300}{}{No puedo creer que alguien ha matado al puto Tubby...}
-{301}{}{¿Qué coño le ha pasado a Tubby?}
-{302}{}{Ah, por qué Tubby tuve que morir.}
+{301}{}{Â¿QuÃ© coÃ±o le ha pasado a Tubby?}
+{302}{}{Ah, por quÃ© Tubby tuve que morir.}
 {303}{}{Ahhh...}
-{304}{}{De todas formas ese gilipollas no me caía bien.}
-{305}{}{Flick está muerto... Mierda.}
-{306}{}{¿Qué le ha pasado a Flick?}
-{307}{}{Extraño a Flick...}
+{304}{}{De todas formas ese gilipollas no me caÃ­a bien.}
+{305}{}{Flick estÃ¡ muerto... Mierda.}
+{306}{}{Â¿QuÃ© le ha pasado a Flick?}
+{307}{}{ExtraÃ±o a Flick...}
 {310}{}{Eh, Tubby, yo... uhhh, necesito ayuda.}
-{311}{}{¡EH, TUBBY!}
+{311}{}{Â¡EH, TUBBY!}
 {312}{}{Hola.}
-{313}{}{¡EH!}
+{313}{}{Â¡EH!}
 {314}{}{Eh, Flick, yo... uhhh, necesito ayuda.}
-{315}{}{¡EH, FLICK!}
-{320}{}{Eh, Tubby, ¿puedes darme algo? Tengo pasta.}
+{315}{}{Â¡EH, FLICK!}
+{320}{}{Eh, Tubby, Â¿puedes darme algo? Tengo pasta.}
 {321}{}{Ummm, Tubby, tengo algo de pasta.}
 {322}{}{Uhhh...}
 {323}{}{Necesito una dosis, amigo.}
-{324}{}{Eh, Flick; ¿puedes darme algo? Tengo pasta.}
+{324}{}{Eh, Flick; Â¿puedes darme algo? Tengo pasta.}
 {325}{}{Ummm, Flick, tengo algo de pasta.}
 {330}{}{Ehhh... Gracias de nuevo, Tubby.}
 {331}{}{Eres un amigo, Tubby.}
-{332}{}{Lo prometo. Mañana me lo voy a pasar de puta madre.}
+{332}{}{Lo prometo. MaÃ±ana me lo voy a pasar de puta madre.}
 {333}{}{Eres un amigo.}
 {334}{}{Ehhh... Gracias otra vez, Flick.}
 {335}{}{Eres un amigo, Flick.}
-{340}{}{Aquí tienes. Ahora lárgate, adicto.}
-{341}{}{Toma esto y lárgate de aquí.}
+{340}{}{AquÃ­ tienes. Ahora lÃ¡rgate, adicto.}
+{341}{}{Toma esto y lÃ¡rgate de aquÃ­.}

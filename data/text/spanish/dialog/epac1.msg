@@ -1,16 +1,16 @@
-{100}{}{Ves a un Sr. Mañoso robot.}
-{101}{}{Ves a un Sr. Mañoso robot muy deprimibido.}
-{102}{}{Este Sr. Handy Robot parece estar muy deprimido por alguna razón.}
-{200}{}{Oh, ¡estoy muy triste!}
+{100}{}{Ves a un Sr. MaÃ±oso robot.}
+{101}{}{Ves a un Sr. MaÃ±oso robot muy deprimibido.}
+{102}{}{Este Sr. Handy Robot parece estar muy deprimido por alguna razÃ³n.}
+{200}{}{Oh, Â¡estoy muy triste!}
 {201}{}{Harto...}
 {202}{}{Quiero morir ahora...}
-{203}{}{Alguien mátame por favor...}
+{203}{}{Alguien mÃ¡tame por favor...}
 {204}{}{Todo el mundo ha ido...}
-{205}{}{¿Por qué debería hacerlo?}
+{205}{}{Â¿Por quÃ© deberÃ­a hacerlo?}
 {206}{}{Aburrido...}
 {207}{}{...SOLLOZO...}
 {208}{}{Vida. No me hable de la vida.}
-{209}{}{Creo que deberías saber que me siento muy deprimido.}
-{210}{}{Perdóneme por respirar, lo que nunca hago de todos modos, así que no sé por qué me molesto en decirlo, oh Dios, estoy tan deprimido.}
-{500}{}{Sí, solo empújame sobre un acantilado}
-{501}{}{*** bzzt ¡Para eso! *** bzzt}
+{209}{}{Creo que deberÃ­as saber que me siento muy deprimido.}
+{210}{}{PerdÃ³neme por respirar, lo que nunca hago de todos modos, asÃ­ que no sÃ© por quÃ© me molesto en decirlo, oh Dios, estoy tan deprimido.}
+{500}{}{SÃ­, solo empÃºjame sobre un acantilado}
+{501}{}{*** bzzt Â¡Para eso! *** bzzt}

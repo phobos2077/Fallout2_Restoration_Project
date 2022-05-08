@@ -1,64 +1,64 @@
 {100}{}{Terminal komputerowy.}
-{101}{}{Ma ma³¹ naklejkê z napisem "I*tel inside".}
-{102}{}{[Nie mo¿esz odczytaæ tego, co wyœwietla monitor.]}
-{103}{}{Terminal Steruj¹cy                                                    
+{101}{}{Ma maÅ‚Ä… naklejkÄ™ z napisem "I*tel inside".}
+{102}{}{[Nie moÅ¼esz odczytaÄ‡ tego, co wyÅ›wietla monitor.]}
+{103}{}{Terminal SterujÄ…cy                                                    
  Projekt: Eksperymentalna Synteza Mechaniczno Organiczna}
 {104}{}{}
-{105}{}{SprawdŸ Systemy.}
+{105}{}{SprawdÅº Systemy.}
 {106}{}{Uruchom Robota.}
-{107}{}{WyjdŸ.}
+{107}{}{WyjdÅº.}
 {108}{}{Erg?}
-{109}{}{[Nie mo¿esz odczytaæ tego, co wyœwietla monitor.]}
-{110}{}{Zakoñcz Program.}
-{111}{}{WyjdŸ.}
+{109}{}{[Nie moÅ¼esz odczytaÄ‡ tego, co wyÅ›wietla monitor.]}
+{110}{}{ZakoÅ„cz Program.}
+{111}{}{WyjdÅº.}
 {112}{}{Ug}
-{113}{}{Proszê Czekaæ...                                                        
+{113}{}{ProszÄ™ CzekaÄ‡...                                                        
  Korpus Robota - Sprawny                                          
- Zbiorniki ¿elu Biomedycznego - Pe³ne                            
- Organiczne Urz¹dzenie Przechowawcze - Odpowiada           
+ Zbiorniki Å¼elu Biomedycznego - PeÅ‚ne                            
+ Organiczne UrzÄ…dzenie Przechowawcze - Odpowiada           
  Jednostka gotowa do Uruchomienia}
-{114}{}{Proszê Czekaæ...                                                        
+{114}{}{ProszÄ™ CzekaÄ‡...                                                        
  Korpus Robota - Sprawny                                          
- Zbiorniki ¿elu Biomedycznego - Pe³ne                            
- Organiczne Urz¹dzenie Przechowawcze - Brak                  
+ Zbiorniki Å¼elu Biomedycznego - PeÅ‚ne                            
+ Organiczne UrzÄ…dzenie Przechowawcze - Brak                  
  Uruchomienie niezalecane}
-{115}{}{Proszê Czekaæ...                                                        
- Korpus Robota - Wymieniæ Motywator                            
- Zbiorniki ¿elu Biomedycznego - Pe³ne                            
- Organiczne Urz¹dzenie Przechowawcze - Odpowiada           
+{115}{}{ProszÄ™ CzekaÄ‡...                                                        
+ Korpus Robota - WymieniÄ‡ Motywator                            
+ Zbiorniki Å¼elu Biomedycznego - PeÅ‚ne                            
+ Organiczne UrzÄ…dzenie Przechowawcze - Odpowiada           
  Uruchomienie niezalecane}
-{116}{}{Proszê Czekaæ...                                                        
- Korpus Robota - Wymieniæ Motywator                            
- Zbiorniki ¿elu Biomedycznego - Pe³ne                            
- Organiczne Urz¹dzenie Przechowawcze - Brak                  
+{116}{}{ProszÄ™ CzekaÄ‡...                                                        
+ Korpus Robota - WymieniÄ‡ Motywator                            
+ Zbiorniki Å¼elu Biomedycznego - PeÅ‚ne                            
+ Organiczne UrzÄ…dzenie Przechowawcze - Brak                  
  Uruchomienie niezalecane}
-{117}{}{Proszê Czekaæ...                                                        
+{117}{}{ProszÄ™ CzekaÄ‡...                                                        
  Korpus Robota - Sprawny                                          
- Zbiorniki ¿elu Biomedycznego - Nape³niæ                         
- Organiczne Urz¹dzenie Przechowawcze - Odpowiada           
+ Zbiorniki Å¼elu Biomedycznego - NapeÅ‚niÄ‡                         
+ Organiczne UrzÄ…dzenie Przechowawcze - Odpowiada           
  Uruchomienie niezalecane}
-{118}{}{Proszê Czekaæ...                                                        
+{118}{}{ProszÄ™ CzekaÄ‡...                                                        
  Korpus Robota - Sprawny                                          
- Zbiorniki ¿elu Biomedycznego - Nape³niæ                         
- Organiczne Urz¹dzenie Przechowawcze - Brak                  
+ Zbiorniki Å¼elu Biomedycznego - NapeÅ‚niÄ‡                         
+ Organiczne UrzÄ…dzenie Przechowawcze - Brak                  
  Uruchomienie niezalecane}
-{119}{}{Proszê Czekaæ...                                                        
- Korpus Robota - Wymieniæ Motywator                            
- Zbiorniki ¿elu Biomedycznego - Nape³niæ                         
- Organiczne Urz¹dzenie Przechowawcze - Odpowiada           
+{119}{}{ProszÄ™ CzekaÄ‡...                                                        
+ Korpus Robota - WymieniÄ‡ Motywator                            
+ Zbiorniki Å¼elu Biomedycznego - NapeÅ‚niÄ‡                         
+ Organiczne UrzÄ…dzenie Przechowawcze - Odpowiada           
  Uruchomienie niezalecane}
-{120}{}{Proszê Czekaæ...                                                        
- Korpus Robota - Wymieniæ Motywator                            
- Zbiorniki ¿elu Biomedycznego - Nape³niæ                         
- Organiczne Urz¹dzenie Przechowawcze - Brak                  
+{120}{}{ProszÄ™ CzekaÄ‡...                                                        
+ Korpus Robota - WymieniÄ‡ Motywator                            
+ Zbiorniki Å¼elu Biomedycznego - NapeÅ‚niÄ‡                         
+ Organiczne UrzÄ…dzenie Przechowawcze - Brak                  
  Uruchomienie niezalecane}
 {121}{}{}
 {122}{}{}
 {124}{}{}
-{153}{}{Rozpocznij Sekwencjê Startow¹}
-{154}{}{WyjdŸ.}
-{155}{}{Ostrze¿enie zignorowane                                             
- Jednostka zosta³a uruchomiona}
+{153}{}{Rozpocznij SekwencjÄ™ StartowÄ…}
+{154}{}{WyjdÅº.}
+{155}{}{OstrzeÅ¼enie zignorowane                                             
+ Jednostka zostaÅ‚a uruchomiona}
 {156}{}{}
 {157}{}{}
 {158}{}{}
@@ -69,17 +69,17 @@
 {163}{}{}
 {164}{}{Rozpoczynanie sekwencji startowej}
 {165}{}{                                 Poziomy Zasilania - w normie}
-{166}{}{                                        Wspó³czynnik Synchronizacji - 75%}
+{166}{}{                                        WspÃ³Å‚czynnik Synchronizacji - 75%}
 {167}{}{                                Jednostka jest sprawna}
-{170}{}{                                        Wspó³czynnik Synchronizacji - 50%}
-{174}{}{                                        Wspó³czynnik Synchronizacji - 10% }
-{176}{}{WyjdŸ.}
-{200}{}{ nie mo¿e odczytaæ tego, co wyœwietla monitor.}
-{300}{}{Komputer wydaje siê mieæ jakiœ rodzaj mechanizmu obronnego.}
+{170}{}{                                        WspÃ³Å‚czynnik Synchronizacji - 50%}
+{174}{}{                                        WspÃ³Å‚czynnik Synchronizacji - 10% }
+{176}{}{WyjdÅº.}
+{200}{}{ nie moÅ¼e odczytaÄ‡ tego, co wyÅ›wietla monitor.}
+{300}{}{Komputer wydaje siÄ™ mieÄ‡ jakiÅ› rodzaj mechanizmu obronnego.}
 {500}{}{Rozpoczynanie sekwencji startowej                                
  Poziomy Zasilania - w normie                                       
  Program Przerwany                                                  
  Pobieranie Danych...                                                  
  Kontynuacja Programu                                              
- Wspó³czynnik Synchronizacji - 100%                              
+ WspÃ³Å‚czynnik Synchronizacji - 100%                              
  Jednostka jest sprawna}

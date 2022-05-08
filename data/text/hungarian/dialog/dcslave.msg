@@ -1,101 +1,101 @@
-{100}{}{Egy nagy darab, primitív embert látsz.}
-{125}{}{Vágások és horzsolások borítják az egész testét.}
-{150}{}{Egy karcsú, de primitiv n?t látsz.}
-{175}{}{Úgy látszik, megverték.}
-{200}{}{Egy szakadt külsej? embert látsz.}
-{225}{}{Nem valami egészséges.}
+{100}{}{Egy nagy darab, primitÃ­v embert lÃ¡tsz.}
+{125}{}{VÃ¡gÃ¡sok Ã©s horzsolÃ¡sok borÃ­tjÃ¡k az egÃ©sz testÃ©t.}
+{150}{}{Egy karcsÃº, de primitiv n?t lÃ¡tsz.}
+{175}{}{Ãšgy lÃ¡tszik, megvertÃ©k.}
+{200}{}{Egy szakadt kÃ¼lsej? embert lÃ¡tsz.}
+{225}{}{Nem valami egÃ©szsÃ©ges.}
 {250}{}{Egy n?i fogoly.}
-{275}{}{Rongyos és alultáplált.}
-{300}{}{Nem bánts, kérlek!}
+{275}{}{Rongyos Ã©s alultÃ¡plÃ¡lt.}
+{300}{}{Nem bÃ¡nts, kÃ©rlek!}
 {301}{}{Szabadok vagyunk?}
-{302}{}{Nincs beszéd. Futás!}
-{303}{}{Kösz a segítséget.}
-{304}{}{Nagyon szépen köszönjük!}
+{302}{}{Nincs beszÃ©d. FutÃ¡s!}
+{303}{}{KÃ¶sz a segÃ­tsÃ©get.}
+{304}{}{Nagyon szÃ©pen kÃ¶szÃ¶njÃ¼k!}
 {305}{}{Te egy szent vagy!}
-{306}{}{Mit csinálsz? Mennünk kéne.}
-{307}{}{Segíts nekünk megszökni!}
+{306}{}{Mit csinÃ¡lsz? MennÃ¼nk kÃ©ne.}
+{307}{}{SegÃ­ts nekÃ¼nk megszÃ¶kni!}
 {320}{}{Rossz vagy!}
-{321}{}{Nem beszélünk veled.}
+{321}{}{Nem beszÃ©lÃ¼nk veled.}
 {322}{}{Ki fogunk szabadulni.}
 {323}{}{Nem tarthattok itt minket!}
-{324}{}{Te nyomorult hajcsár!}
-{325}{}{Ti hajcsárok, miért csináljátok ezt?}
+{324}{}{Te nyomorult hajcsÃ¡r!}
+{325}{}{Ti hajcsÃ¡rok, miÃ©rt csinÃ¡ljÃ¡tok ezt?}
 {326}{}{Hogy dolgozhatsz ezeknek az embereknek?}
-{327}{}{Nem vagyunk primitívek!}
-{328}{}{Nincs morális fenntartásod?}
-{329}{}{Mi történik velünk?}
-{330}{}{Mit csináltunk rosszul?}
-{331}{}{Hagyj minket békén, hajcsár!}
-{332}{}{Ne bánts!}
+{327}{}{Nem vagyunk primitÃ­vek!}
+{328}{}{Nincs morÃ¡lis fenntartÃ¡sod?}
+{329}{}{Mi tÃ¶rtÃ©nik velÃ¼nk?}
+{330}{}{Mit csinÃ¡ltunk rosszul?}
+{331}{}{Hagyj minket bÃ©kÃ©n, hajcsÃ¡r!}
+{332}{}{Ne bÃ¡nts!}
 {333}{}{Takarodj a szemem el?l!}
 {350}{}{Te ki?}
-{351}{}{Te nem vagy rabszolga-hajcsár.}
-{352}{}{Nem bántasz?}
-{353}{}{Barát vagy?}
-{354}{}{Segítesz?}
-{355}{}{Mi történik velünk?}
-{356}{}{Téged is elfogtak?}
-{357}{}{Nem vagyunk primitívek!}
-{358}{}{Mit képzelnek magukról?}
-{359}{}{Kérlek, segíts rajtunk!}
-{360}{}{Vigyél el innen!}
+{351}{}{Te nem vagy rabszolga-hajcsÃ¡r.}
+{352}{}{Nem bÃ¡ntasz?}
+{353}{}{BarÃ¡t vagy?}
+{354}{}{SegÃ­tesz?}
+{355}{}{Mi tÃ¶rtÃ©nik velÃ¼nk?}
+{356}{}{TÃ©ged is elfogtak?}
+{357}{}{Nem vagyunk primitÃ­vek!}
+{358}{}{Mit kÃ©pzelnek magukrÃ³l?}
+{359}{}{KÃ©rlek, segÃ­ts rajtunk!}
+{360}{}{VigyÃ©l el innen!}
 {380}{}{Nem tarthattok itt!}
-{381}{}{Nincs igazság!}
+{381}{}{Nincs igazsÃ¡g!}
 {382}{}{Nem vagyunk rosszak!}
-{383}{}{Segítesz?}
-{384}{}{Szabadíts ki minket!}
+{383}{}{SegÃ­tesz?}
+{384}{}{SzabadÃ­ts ki minket!}
 {385}{}{Nem tetszik ez nekem.}
 {386}{}{Rossz hely ez.}
-{387}{}{Miért csinálják ezt a rossz emberek?}
-{388}{}{Nem vagyunk rabszolgák!}
-{389}{}{Semmi rosszat nem csináltunk.}
-{390}{}{Menjünk!}
+{387}{}{MiÃ©rt csinÃ¡ljÃ¡k ezt a rossz emberek?}
+{388}{}{Nem vagyunk rabszolgÃ¡k!}
+{389}{}{Semmi rosszat nem csinÃ¡ltunk.}
+{390}{}{MenjÃ¼nk!}
 {391}{}{Mi folyik itt?}
 {392}{}{Mi ez a nagy zaj?}
 {393}{}{Ki harcol itt?}
-{394}{}{Mi történik?}
-{395}{}{Történik valami?}
-{396}{}{Valaki segít rajtunk! }
-{397}{}{Hé! Hall engem valaki?}
-{398}{}{Ez nem jó!}
-{399}{}{Nem csináltunk semmit!}
-{400}{}{Vigyél ki minket innen!}
+{394}{}{Mi tÃ¶rtÃ©nik?}
+{395}{}{TÃ¶rtÃ©nik valami?}
+{396}{}{Valaki segÃ­t rajtunk! }
+{397}{}{HÃ©! Hall engem valaki?}
+{398}{}{Ez nem jÃ³!}
+{399}{}{Nem csinÃ¡ltunk semmit!}
+{400}{}{VigyÃ©l ki minket innen!}
 {401}{}{Valaki kivisz innen minket!}
-{402}{}{Mit csináltunk?}
-{403}{}{Nem csináltunk mi semmit!}
-{404}{}{Nem ezt érdemeljük.}
-{405}{}{Azok a rohadékok!}
-{406}{}{Segíts rajtunk!}
+{402}{}{Mit csinÃ¡ltunk?}
+{403}{}{Nem csinÃ¡ltunk mi semmit!}
+{404}{}{Nem ezt Ã©rdemeljÃ¼k.}
+{405}{}{Azok a rohadÃ©kok!}
+{406}{}{SegÃ­ts rajtunk!}
 {407}{}{Engedjetek ki!}
-{408}{}{Nem vagyunk rabszolgák!}
-{409}{}{Nem vagyunk primitívek! Engedjetek ki innen minket!}
-{410}{}{Mi történik?}
-{411}{}{Valaki eljött, hogy megmentsen minket?}
+{408}{}{Nem vagyunk rabszolgÃ¡k!}
+{409}{}{Nem vagyunk primitÃ­vek! Engedjetek ki innen minket!}
+{410}{}{Mi tÃ¶rtÃ©nik?}
+{411}{}{Valaki eljÃ¶tt, hogy megmentsen minket?}
 {412}{}{Ide!}
-{413}{}{Segítség! Ne hagyj itt minket!}
-{414}{}{Mi volt az a kiabálás?}
+{413}{}{SegÃ­tsÃ©g! Ne hagyj itt minket!}
+{414}{}{Mi volt az a kiabÃ¡lÃ¡s?}
 {415}{}{Mi folyik itt?}
 {420}{}{Ahhh!}
 {421}{}{Ug!}
-{422}{}{Ne állj meg!}
+{422}{}{Ne Ã¡llj meg!}
 {423}{}{Igen!}
-{424}{}{Olyan meszire húzok innen, amennyire csak lehet.}
-{425}{}{Mozgás!}
-{426}{}{Szabadság! Végre itt a szabadság!}
+{424}{}{Olyan meszire hÃºzok innen, amennyire csak lehet.}
+{425}{}{MozgÃ¡s!}
+{426}{}{SzabadsÃ¡g! VÃ©gre itt a szabadsÃ¡g!}
 {440}{}{Mi volt ez a hangos fegyverzaj? Mit akarsz?}
-{441}{}{Hé! Mi volt ez a fegyverropogás? Meghaltak a hajcsárok?}
-{442}{}{Hé! Mi volt ez a fegyverropogás? Mi folyik itt?}
-{443}{}{Az volt Metzger lefekvés el?tti itókája.}
-{444}{}{Óh, semmi-semmi. Csak benéztem hozzátok. Minden jót!}
+{441}{}{HÃ©! Mi volt ez a fegyverropogÃ¡s? Meghaltak a hajcsÃ¡rok?}
+{442}{}{HÃ©! Mi volt ez a fegyverropogÃ¡s? Mi folyik itt?}
+{443}{}{Az volt Metzger lefekvÃ©s el?tti itÃ³kÃ¡ja.}
+{444}{}{Ã“h, semmi-semmi. Csak benÃ©ztem hozzÃ¡tok. Minden jÃ³t!}
 {445}{}{Szabadon elmehettek. Metzger halott.}
 {446}{}{Szabadok vagytok.}
-{447}{}{ barát. Megölte Mezgur-t Te most mész.}
-{448}{}{ barát. Megölte Mezgur-t Te most mész.}
-{460}{}{Halott? Köszönet érte! Elmenekülünk innen. Üdv, a barátunk vagy.}
-{461}{}{Mi? Metzger halott? Nagyon köszönöm! Jobb ha elmegyünk, miel?tt újak jönnek. Még egyszer köszi.}
+{447}{}{ barÃ¡t. MegÃ¶lte Mezgur-t Te most mÃ©sz.}
+{448}{}{ barÃ¡t. MegÃ¶lte Mezgur-t Te most mÃ©sz.}
+{460}{}{Halott? KÃ¶szÃ¶net Ã©rte! ElmenekÃ¼lÃ¼nk innen. Ãœdv, a barÃ¡tunk vagy.}
+{461}{}{Mi? Metzger halott? Nagyon kÃ¶szÃ¶nÃ¶m! Jobb ha elmegyÃ¼nk, miel?tt Ãºjak jÃ¶nnek. MÃ©g egyszer kÃ¶szi.}
 {462}{}{Nem tesz semmit. Na, induljatok!}
-{463}{}{Vigyázzatok magadokra!}
-{464}{}{Szóra sem érdemes.}
+{463}{}{VigyÃ¡zzatok magadokra!}
+{464}{}{SzÃ³ra sem Ã©rdemes.}
 {470}{}{Wait, one more thing. I'm looking for someone specific and I don't see her here. Do you know where other slaves might be held?}
 {471}{}{Big camp near here. (The tribal points south west) Two moons from here.}
 {472}{}{There's a camp about two days travel south west from here. That's where I was first at.}
@@ -106,36 +106,36 @@
 {480}{}{Mit akarsz?}
 {481}{}{Mit akarsz?}
 {482}{}{Semmit.}
-{500}{}{Nahát...}
-{501}{}{Rá se ránts! Szabadok vagytok! Metzger halott.}
-{510}{}{Micsoda? Szabadok? Vége a rossz embernek? Akkor gyorsan indulunk! Köszönjük. Barátunk vagy! Viszlát!}
-{511}{}{Szabadok? Mindannyian? Megölted ?ket? Nagyon köszönjük! Jobb, ha addig megyünk, ameddig tudunk. Még egyszer köszönjük, szent ember vagy!}
-{520}{}{Légy átkozott!}
+{500}{}{NahÃ¡t...}
+{501}{}{RÃ¡ se rÃ¡nts! Szabadok vagytok! Metzger halott.}
+{510}{}{Micsoda? Szabadok? VÃ©ge a rossz embernek? Akkor gyorsan indulunk! KÃ¶szÃ¶njÃ¼k. BarÃ¡tunk vagy! ViszlÃ¡t!}
+{511}{}{Szabadok? Mindannyian? MegÃ¶lted ?ket? Nagyon kÃ¶szÃ¶njÃ¼k! Jobb, ha addig megyÃ¼nk, ameddig tudunk. MÃ©g egyszer kÃ¶szÃ¶njÃ¼k, szent ember vagy!}
+{520}{}{LÃ©gy Ã¡tkozott!}
 {521}{}{Rohadj meg a pokolban!}
-{522}{}{Ezért fizetni fogsz!}
-{523}{}{Ne szólj hozzám!}
-{524}{}{Haggyá' békén!}
-{525}{}{Nem akarok veled szóba állni!}
-{526}{}{Hogy voltál képes?}
-{527}{}{Soha többé nem akarlak látni!}
-{528}{}{Ez semmit nem fog megváltoztatni.}
-{529}{}{Ha nem haragszol, a saját utamat járom.}
-{530}{}{Kérlek, engedj utamra!}
+{522}{}{EzÃ©rt fizetni fogsz!}
+{523}{}{Ne szÃ³lj hozzÃ¡m!}
+{524}{}{HaggyÃ¡' bÃ©kÃ©n!}
+{525}{}{Nem akarok veled szÃ³ba Ã¡llni!}
+{526}{}{Hogy voltÃ¡l kÃ©pes?}
+{527}{}{Soha tÃ¶bbÃ© nem akarlak lÃ¡tni!}
+{528}{}{Ez semmit nem fog megvÃ¡ltoztatni.}
+{529}{}{Ha nem haragszol, a sajÃ¡t utamat jÃ¡rom.}
+{530}{}{KÃ©rlek, engedj utamra!}
 {531}{}{Csak hadd menjek az utamon!}
-{532}{}{Nem óhajtok veled szóba állni!}
-{533}{}{Haggyá' békén!}
-{534}{}{Nincs esély...}
-{535}{}{Szerinted ez jobbá teszi a dolgokat?}
+{532}{}{Nem Ã³hajtok veled szÃ³ba Ã¡llni!}
+{533}{}{HaggyÃ¡' bÃ©kÃ©n!}
+{534}{}{Nincs esÃ©ly...}
+{535}{}{Szerinted ez jobbÃ¡ teszi a dolgokat?}
 {600}{}{Indulunk?}
-{601}{}{Nincs sebesült?}
-{602}{}{Menjünk!}
-{603}{}{Irány haza!}
+{601}{}{Nincs sebesÃ¼lt?}
+{602}{}{MenjÃ¼nk!}
+{603}{}{IrÃ¡ny haza!}
 {604}{}{Szabadok vagyunk?}
-{605}{}{Nahát...}
+{605}{}{NahÃ¡t...}
 {606}{}{Mi?}
 {607}{}{Azt mondtad, szabadok vagyunk?}
-{608}{}{Már itt se vagyok!}
-{609}{}{Gyerünk!}
+{608}{}{MÃ¡r itt se vagyok!}
+{609}{}{GyerÃ¼nk!}
 {610}{}{Mindenki! Szabadok vagyunk!}
-{611}{}{Juhééééjjjj!}
-{700}{}{Kiszabadítottad a rabszolgákat a ketreceikb?l.}
+{611}{}{JuhÃ©Ã©Ã©Ã©jjjj!}
+{700}{}{KiszabadÃ­tottad a rabszolgÃ¡kat a ketreceikb?l.}

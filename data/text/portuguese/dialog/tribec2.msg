@@ -1,5 +1,5 @@
 {100}{}{}
-{101}{}{Você vê um membro da tribo.}
+{101}{}{VocÃª vÃª um membro da tribo.}
 {102}{}{You see Marli.}
 {103}{}{You see a warrior with a scowl on his face.}
 {110}{}{Be gone. I'm seeking council with the spirits and they don't like you, outworlder. If you must speak to me, do it another time.}
@@ -7,7 +7,7 @@
 {112}{}{Hmph. I didn't ask for your help, outworlder. I could have taken care of the well myself.}
 {113}{}{Right. No thanks required.}
 {114}{}{Whatever. Way to be ungrateful.}
-{120}{}{O que você quer?}
+{120}{}{O que vocÃª quer?}
 {121}{}{I see you're having some trouble with that well. What's wrong, exactly?}
 {130}{}{What's wrong? I dropped the rope, that's what's wrong. [He shifts uncomfortably.] I was fastening a new rope to the well and then I looked up and saw this fine young maiden stretching in the sunlight. Spirits of lust distracted me and the rope slipped from my hands and... What's it to you anyway, outworlder? Unless you got a new rope for me, you be wasting my time.}
 {131}{}{I don't have a rope on me, but I'll see if I can come up with one. I'll get back to you.}
@@ -22,7 +22,7 @@
 {161}{}{Certo.}
 {162}{}{How 'bout *you* reattach the bucket, and I'll see if I can restrain myself from beating your ass.}
 {170}{}{Did you attach the bucket?}
-{171}{}{Não, ainda não.}
+{171}{}{NÃ£o, ainda nÃ£o.}
 {172}{}{Does it *look* like I attached the bucket?}
 {180}{}{So the well is fixed, yes? With the bucket attached and everything?}
 {181}{}{Yes, it's all done.}

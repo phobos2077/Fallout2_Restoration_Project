@@ -1,51 +1,51 @@
-{100}{}{Widzisz mieszkañca Arroyo.}
-{101}{}{Widzisz mieszkankê Arroyo.}
-{150}{}{Przed tob¹ stoi potê¿ny wojownik z twojej wioski, ubrany w spodnie uszyte ze zwierzêcej skóry.}
+{100}{}{Widzisz mieszkaÅ„ca Arroyo.}
+{101}{}{Widzisz mieszkankÄ™ Arroyo.}
+{150}{}{Przed tobÄ… stoi potÄ™Å¼ny wojownik z twojej wioski, ubrany w spodnie uszyte ze zwierzÄ™cej skÃ³ry.}
 {151}{}{[ROZMAWIAJ]}
-{152}{}{Witaj, Dziecko Przeznaczenia, jak mogê ci pomóc w twoim zadaniu?}
-{153}{}{Chcê jeszcze popatrzeæ na nasz¹ wioskê zanim wyruszê w drogê.}
-{154}{}{Co mo¿esz powiedzieæ o handlarzach, którzy nas odwiedzaj¹?}
-{155}{}{Czy mo¿esz mi powiedzieæ, gdzie znajdê wiêcej leczniczego proszku?}
-{156}{}{Niech bogowie obdarz¹ ciê ³askami, tak by nasza wioska szybko sta³a siê Cudown¹ Krain¹.}
-{157}{}{Mam do ciebie kilka pytañ.}
-{158}{}{¯egnaj.}
-{159}{}{Sprawdzasz mnie, Dziecko? Porozmawiaj z Hakuninem, w pó³nocnej czêœci wioski. On sporz¹dza wszystkie leki.}
-{160}{}{Dziêkujê. Do widzenia.}
-{161}{}{Có¿, zapytaj o to Mynoca, stra¿nika mostu. To on zwykle z nimi rozmawia.}
-{162}{}{Dziêkujê. Do widzenia.}
-{163}{}{Czy mo¿esz mi powiedzieæ, gdzie znajduje siê Wielki Most?}
-{164}{}{Mam kilka pytañ, je¿eli pozwolisz.}
-{165}{}{Dziecko, przecie¿ wiesz gdzie to jest, znasz to miejsce od dzieciñstwa! Wielki most le¿y w po³udniowej czêœci wioski.}
-{166}{}{Dziêkujê. Do widzenia.}
-{167}{}{Mam kilka pytañ, je¿eli pozwolisz.}
-{168}{}{Oczywiœcie, co chcesz wiedzieæ?}
-{169}{}{Czy mo¿esz mi powiedzieæ, gdzie znajdê trochê leczniczych zió³?}
-{170}{}{Co mo¿esz powiedzieæ o handlarzach, którzy nas odwiedzaj¹?}
-{171}{}{Niewa¿ne.}
-{172}{}{Ach, Dziecko G³upoty! Mówi¹, ¿e jesteœ Dzieckiem Przeznaczenia. Muszê przyznaæ, ¿e duch Za³o¿yciela pod¹¿a dziwnymi œcie¿kami.}
+{152}{}{Witaj, Dziecko Przeznaczenia, jak mogÄ™ ci pomÃ³c w twoim zadaniu?}
+{153}{}{ChcÄ™ jeszcze popatrzeÄ‡ na naszÄ… wioskÄ™ zanim wyruszÄ™ w drogÄ™.}
+{154}{}{Co moÅ¼esz powiedzieÄ‡ o handlarzach, ktÃ³rzy nas odwiedzajÄ…?}
+{155}{}{Czy moÅ¼esz mi powiedzieÄ‡, gdzie znajdÄ™ wiÄ™cej leczniczego proszku?}
+{156}{}{Niech bogowie obdarzÄ… ciÄ™ Å‚askami, tak by nasza wioska szybko staÅ‚a siÄ™ CudownÄ… KrainÄ….}
+{157}{}{Mam do ciebie kilka pytaÅ„.}
+{158}{}{Å»egnaj.}
+{159}{}{Sprawdzasz mnie, Dziecko? Porozmawiaj z Hakuninem, w pÃ³Å‚nocnej czÄ™Å›ci wioski. On sporzÄ…dza wszystkie leki.}
+{160}{}{DziÄ™kujÄ™. Do widzenia.}
+{161}{}{CÃ³Å¼, zapytaj o to Mynoca, straÅ¼nika mostu. To on zwykle z nimi rozmawia.}
+{162}{}{DziÄ™kujÄ™. Do widzenia.}
+{163}{}{Czy moÅ¼esz mi powiedzieÄ‡, gdzie znajduje siÄ™ Wielki Most?}
+{164}{}{Mam kilka pytaÅ„, jeÅ¼eli pozwolisz.}
+{165}{}{Dziecko, przecieÅ¼ wiesz gdzie to jest, znasz to miejsce od dzieciÅ„stwa! Wielki most leÅ¼y w poÅ‚udniowej czÄ™Å›ci wioski.}
+{166}{}{DziÄ™kujÄ™. Do widzenia.}
+{167}{}{Mam kilka pytaÅ„, jeÅ¼eli pozwolisz.}
+{168}{}{OczywiÅ›cie, co chcesz wiedzieÄ‡?}
+{169}{}{Czy moÅ¼esz mi powiedzieÄ‡, gdzie znajdÄ™ trochÄ™ leczniczych ziÃ³Å‚?}
+{170}{}{Co moÅ¼esz powiedzieÄ‡ o handlarzach, ktÃ³rzy nas odwiedzajÄ…?}
+{171}{}{NiewaÅ¼ne.}
+{172}{}{Ach, Dziecko GÅ‚upoty! MÃ³wiÄ…, Å¼e jesteÅ› Dzieckiem Przeznaczenia. MuszÄ™ przyznaÄ‡, Å¼e duch ZaÅ‚oÅ¼yciela podÄ…Å¼a dziwnymi Å›cieÅ¼kami.}
 {173}{}{Oon Ga.}
-{174}{}{ Bezpiecznej podró¿y, Dziecko Têpoty - dla naszego wspólnego dobra.}
+{174}{}{ Bezpiecznej podrÃ³Å¼y, Dziecko TÄ™poty - dla naszego wspÃ³lnego dobra.}
 {175}{}{????}
-{176}{}{Zdrada! Musisz umrzeæ.}
-{177}{}{Zdradzasz swój w³asny lud!}
+{176}{}{Zdrada! Musisz umrzeÄ‡.}
+{177}{}{Zdradzasz swÃ³j wÅ‚asny lud!}
 {178}{}{Dlaczego to robisz?}
-{179}{}{Œmieræ Dziecku Ciemnoœci!}
-{180}{}{Oni nic dla nas nie znacz¹! To sêpy, handluj¹ce tym, co znajd¹ przy martwych cia³ach na Pustkowiach}
-{181}{}{Czy mo¿esz mi powiedzieæ, gdzie znajdê trochê leczniczych zió³?}
-{182}{}{Dziêkujê. Do widzenia.}
-{183}{}{Mam kilka pytañ, je¿eli pozwolisz.}
-{300}{}{Witaj ponownie, Dziecko Przeznaczenia. Niech duchy wojowników chroni¹ ciê i wskazuj¹ ci drogê.}
-{301}{}{Czy masz jakieœ problemy? Nie mo¿esz nas zawieœæ - poœpiesz siê.}
-{302}{}{Dlaczego zwlekasz tak d³ugo? Musimy dostaæ GECK jak najszybciej. Nasza wioska umiera.}
-{303}{}{Dziecko, nasza wioska nied³ugo bêdzie martwa. Czemu GECK jeszcze nie znajduje siê w naszych rêkach?}
-{970}{}{To jest moje imiê.}
-{971}{}{Mówisz teraz do mnie.}
-{972}{}{Co za g³upie pytanie. Przecie¿ to ja.}
+{179}{}{ÅšmierÄ‡ Dziecku CiemnoÅ›ci!}
+{180}{}{Oni nic dla nas nie znaczÄ…! To sÄ™py, handlujÄ…ce tym, co znajdÄ… przy martwych ciaÅ‚ach na Pustkowiach}
+{181}{}{Czy moÅ¼esz mi powiedzieÄ‡, gdzie znajdÄ™ trochÄ™ leczniczych ziÃ³Å‚?}
+{182}{}{DziÄ™kujÄ™. Do widzenia.}
+{183}{}{Mam kilka pytaÅ„, jeÅ¼eli pozwolisz.}
+{300}{}{Witaj ponownie, Dziecko Przeznaczenia. Niech duchy wojownikÃ³w chroniÄ… ciÄ™ i wskazujÄ… ci drogÄ™.}
+{301}{}{Czy masz jakieÅ› problemy? Nie moÅ¼esz nas zawieÅ›Ä‡ - poÅ›piesz siÄ™.}
+{302}{}{Dlaczego zwlekasz tak dÅ‚ugo? Musimy dostaÄ‡ GECK jak najszybciej. Nasza wioska umiera.}
+{303}{}{Dziecko, nasza wioska niedÅ‚ugo bÄ™dzie martwa. Czemu GECK jeszcze nie znajduje siÄ™ w naszych rÄ™kach?}
+{970}{}{To jest moje imiÄ™.}
+{971}{}{MÃ³wisz teraz do mnie.}
+{972}{}{Co za gÅ‚upie pytanie. PrzecieÅ¼ to ja.}
 {980}{}{Nic o tym nie wiem.}
 {981}{}{Przykro mi. Nic nie wiem.}
-{982}{}{Nigdy o tym nie s³ysza³em.}
+{982}{}{Nigdy o tym nie sÅ‚yszaÅ‚em.}
 {1000}{}{Starsza}
-{1001}{}{Za³o¿yciel}
+{1001}{}{ZaÅ‚oÅ¼yciel}
 {1002}{}{Przybysz z Krypty}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
@@ -56,15 +56,15 @@
 {1009}{}{Proszek Leczniczy}
 {1010}{}{Most}
 {1011}{}{Mynoc}
-{1100}{}{Starsza jest nasz¹ matk¹ i przywódczyni¹.}
-{1101}{}{To nasz wielki przodek, który da³ nam wiedzê.}
-{1102}{}{Pierwszy, który walczy³ i zwyciê¿y³ chaos.}
-{1103}{}{To jest nasza piêkna wioska.}
-{1104}{}{To miasto handlowe le¿¹ce kilka dni na wschód st¹d.}
+{1100}{}{Starsza jest naszÄ… matkÄ… i przywÃ³dczyniÄ….}
+{1101}{}{To nasz wielki przodek, ktÃ³ry daÅ‚ nam wiedzÄ™.}
+{1102}{}{Pierwszy, ktÃ³ry walczyÅ‚ i zwyciÄ™Å¼yÅ‚ chaos.}
+{1103}{}{To jest nasza piÄ™kna wioska.}
+{1104}{}{To miasto handlowe leÅ¼Ä…ce kilka dni na wschÃ³d stÄ…d.}
 {1105}{}{Krypta jest rajem.}
-{1106}{}{Ty jesteœ Dzieckiem Przeznaczenia.}
-{1107}{}{On leczy nas swoimi zio³ami i magi¹. Mieszka w pó³nocnej czêœci wioski.}
-{1108}{}{On leczy nas swoimi zio³ami i magi¹. Mieszka w pó³nocnej czêœci wioski.}
-{1109}{}{Jest to magiczny proszek, który ciê uleczy, ale spowoduje sennoœæ.}
-{1110}{}{Wielki Most stanowi wyjœcie z naszej wioski od po³udnia.}
-{1111}{}{Mynoc strze¿e mostu prowadz¹cego do naszej wioski.}
+{1106}{}{Ty jesteÅ› Dzieckiem Przeznaczenia.}
+{1107}{}{On leczy nas swoimi zioÅ‚ami i magiÄ…. Mieszka w pÃ³Å‚nocnej czÄ™Å›ci wioski.}
+{1108}{}{On leczy nas swoimi zioÅ‚ami i magiÄ…. Mieszka w pÃ³Å‚nocnej czÄ™Å›ci wioski.}
+{1109}{}{Jest to magiczny proszek, ktÃ³ry ciÄ™ uleczy, ale spowoduje sennoÅ›Ä‡.}
+{1110}{}{Wielki Most stanowi wyjÅ›cie z naszej wioski od poÅ‚udnia.}
+{1111}{}{Mynoc strzeÅ¼e mostu prowadzÄ…cego do naszej wioski.}

@@ -1,3 +1,3 @@
-{100}{}{Ta osoba juø nie øyje.}
-{101}{}{Moøliwe, øe tych ludzi zamordowano.}
-{102}{}{Patrzπc na zw≥oki odczuwasz ogromny øal.}
+{100}{}{Ta osoba ju≈º nie ≈ºyje.}
+{101}{}{Mo≈ºliwe, ≈ºe tych ludzi zamordowano.}
+{102}{}{PatrzƒÖc na zw≈Çoki odczuwasz ogromny ≈ºal.}

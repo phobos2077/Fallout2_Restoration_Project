@@ -1,194 +1,194 @@
-{100}{}{Hakunin, a falu sámánja áll el?tted. ?rült szemekkel méreget.}
-{101}{}{Hakunin a földön fekszik. Súlyosan sérült.}
-{102}{}{Hakunint látod. Már nagyon közel van a halálhoz.}
-{103}{}{Hakunin súlyosan megégett. Úgy b?zlik, mint egy sült csirke, és úgy néz ki, mint az égett hús. El nem tudod képzelni, hogyan maradhatott életben ilyen hosszú ideig.}
-{104}{hak001}{Üdvözöllek, Kiválasztott! Miért melegszik a föld a lábam alatt a jelenlétedre?}
-{105}{}{Tessék? }
-{106}{}{Elköszönni jöttem. Indulok szent küldetésemre. }
-{107}{}{Éppen indulok. Azt reméltem, most az egyszer hétköznapi ember módjára fog beszélni. }
+{100}{}{Hakunin, a falu sÃ¡mÃ¡nja Ã¡ll el?tted. ?rÃ¼lt szemekkel mÃ©reget.}
+{101}{}{Hakunin a fÃ¶ldÃ¶n fekszik. SÃºlyosan sÃ©rÃ¼lt.}
+{102}{}{Hakunint lÃ¡tod. MÃ¡r nagyon kÃ¶zel van a halÃ¡lhoz.}
+{103}{}{Hakunin sÃºlyosan megÃ©gett. Ãšgy b?zlik, mint egy sÃ¼lt csirke, Ã©s Ãºgy nÃ©z ki, mint az Ã©gett hÃºs. El nem tudod kÃ©pzelni, hogyan maradhatott Ã©letben ilyen hosszÃº ideig.}
+{104}{hak001}{ÃœdvÃ¶zÃ¶llek, KivÃ¡lasztott! MiÃ©rt melegszik a fÃ¶ld a lÃ¡bam alatt a jelenlÃ©tedre?}
+{105}{}{TessÃ©k? }
+{106}{}{ElkÃ¶szÃ¶nni jÃ¶ttem. Indulok szent kÃ¼ldetÃ©semre. }
+{107}{}{Ã‰ppen indulok. Azt remÃ©ltem, most az egyszer hÃ©tkÃ¶znapi ember mÃ³djÃ¡ra fog beszÃ©lni. }
 {108}{}{You are doing just way too many drugs. I'm outta here. }
-{109}{}{Megsérültem. Meg tud gyógyítani?}
-{110}{}{Néhány rakoncátlan növény megfert?zte a kertjét, de elintéztem ?ket.}
-{111}{hak001a}{Kérlek, tárd fel érkezésed okát! Felh?s szemeim figyelnek...}
-{112}{}{Tessék? }
-{113}{}{Elköszönni jöttem. Indulok szent küldetésemre. }
-{114}{}{Éppen indulok. Azt reméltem, most az egyszer hétköznapi ember módjára fog beszélni. }
+{109}{}{MegsÃ©rÃ¼ltem. Meg tud gyÃ³gyÃ­tani?}
+{110}{}{NÃ©hÃ¡ny rakoncÃ¡tlan nÃ¶vÃ©ny megfert?zte a kertjÃ©t, de elintÃ©ztem ?ket.}
+{111}{hak001a}{KÃ©rlek, tÃ¡rd fel Ã©rkezÃ©sed okÃ¡t! Felh?s szemeim figyelnek...}
+{112}{}{TessÃ©k? }
+{113}{}{ElkÃ¶szÃ¶nni jÃ¶ttem. Indulok szent kÃ¼ldetÃ©semre. }
+{114}{}{Ã‰ppen indulok. Azt remÃ©ltem, most az egyszer hÃ©tkÃ¶znapi ember mÃ³djÃ¡ra fog beszÃ©lni. }
 {115}{}{You are doing just way too many drugs. I'm outta here. }
-{116}{}{Néhány rakoncátlan növény megfert?zte a kertjét, de elintéztem ?ket.}
-{117}{hak002}{A Föld egy hatalmas bajnok hírér?l énekel szerte a vidéken... Netán miel?tt elmennél, megajándékoznál a kedvességeddel?}
-{118}{}{Persze. Mire van szüksége?}
-{119}{}{Attól függ... mit ad érte?}
-{120}{hak002a}{Számos nézet létezik a világon - ezt hamarosan te is meg fogod tanulni... Miel?tt belevágnál az élet tapasztalataiba, megajándékoznál a kedvességeddel?}
-{121}{}{Arra kért, hogy tegyek meg magának egy szívességet? Ha így van, akkor persze, miért ne?}
-{122}{}{Megteszem, amit kér, de nem ingyen, mert nagyon nehéz megérteni, amit mond.}
-{123}{hak003}{Áldás szálljon reád, amiért a természet igaz gyermeke vagy! Használnád-e különleges adottságaidat és megszabadítanád-e kertemet a gonoszság növényeit?l?}
+{116}{}{NÃ©hÃ¡ny rakoncÃ¡tlan nÃ¶vÃ©ny megfert?zte a kertjÃ©t, de elintÃ©ztem ?ket.}
+{117}{hak002}{A FÃ¶ld egy hatalmas bajnok hÃ­rÃ©r?l Ã©nekel szerte a vidÃ©ken... NetÃ¡n miel?tt elmennÃ©l, megajÃ¡ndÃ©koznÃ¡l a kedvessÃ©geddel?}
+{118}{}{Persze. Mire van szÃ¼ksÃ©ge?}
+{119}{}{AttÃ³l fÃ¼gg... mit ad Ã©rte?}
+{120}{hak002a}{SzÃ¡mos nÃ©zet lÃ©tezik a vilÃ¡gon - ezt hamarosan te is meg fogod tanulni... Miel?tt belevÃ¡gnÃ¡l az Ã©let tapasztalataiba, megajÃ¡ndÃ©koznÃ¡l a kedvessÃ©geddel?}
+{121}{}{Arra kÃ©rt, hogy tegyek meg magÃ¡nak egy szÃ­vessÃ©get? Ha Ã­gy van, akkor persze, miÃ©rt ne?}
+{122}{}{Megteszem, amit kÃ©r, de nem ingyen, mert nagyon nehÃ©z megÃ©rteni, amit mond.}
+{123}{hak003}{ÃldÃ¡s szÃ¡lljon reÃ¡d, amiÃ©rt a termÃ©szet igaz gyermeke vagy! HasznÃ¡lnÃ¡d-e kÃ¼lÃ¶nleges adottsÃ¡gaidat Ã©s megszabadÃ­tanÃ¡d-e kertemet a gonoszsÃ¡g nÃ¶vÃ©nyeit?l?}
 {124}{}{Ah-ha.}
-{125}{}{Nhemm. Fááj fej miattaaad.}
-{126}{hak004}{Áldassék az aurád a jelenlétemben, amikor... Ó, mikor végeztél, jer az ajtómhoz, és kapsz t?lem valami hasznos dolgot.}
-{127}{}{Örgh.}
-{128}{hak005}{A sötétség növényei megint megfert?zték a kertemet. Sok évszak érintette már csontjaimat és már túl törékeny vagyok a természettel vívott örökkétartó harchoz. Arra kérlek, legyél te az én bajnokom!}
-{129}{}{Nem lehet! Neki kell látnom a küldetésemnek.}
-{130}{}{Tudom, hogy maga nem rossz ember, de már így is fáj a fejem. Inkább kihagynám.}
-{131}{}{Felejtse el! Én leszek e törzs vezére, a kertészkedés nem méltó hozzám.}
-{132}{}{Megtiszteltetés lenne, szent ember.}
-{133}{}{Arra kér, hogy gyomtalanítsam a kertjét? Ha ez a helyzet, akkor szívesen megcsinálom.}
-{134}{}{Cserébe valamiért...}
+{125}{}{Nhemm. FÃ¡Ã¡j fej miattaaad.}
+{126}{hak004}{ÃldassÃ©k az aurÃ¡d a jelenlÃ©temben, amikor... Ã“, mikor vÃ©geztÃ©l, jer az ajtÃ³mhoz, Ã©s kapsz t?lem valami hasznos dolgot.}
+{127}{}{Ã–rgh.}
+{128}{hak005}{A sÃ¶tÃ©tsÃ©g nÃ¶vÃ©nyei megint megfert?ztÃ©k a kertemet. Sok Ã©vszak Ã©rintette mÃ¡r csontjaimat Ã©s mÃ¡r tÃºl tÃ¶rÃ©keny vagyok a termÃ©szettel vÃ­vott Ã¶rÃ¶kkÃ©tartÃ³ harchoz. Arra kÃ©rlek, legyÃ©l te az Ã©n bajnokom!}
+{129}{}{Nem lehet! Neki kell lÃ¡tnom a kÃ¼ldetÃ©semnek.}
+{130}{}{Tudom, hogy maga nem rossz ember, de mÃ¡r Ã­gy is fÃ¡j a fejem. InkÃ¡bb kihagynÃ¡m.}
+{131}{}{Felejtse el! Ã‰n leszek e tÃ¶rzs vezÃ©re, a kertÃ©szkedÃ©s nem mÃ©ltÃ³ hozzÃ¡m.}
+{132}{}{MegtiszteltetÃ©s lenne, szent ember.}
+{133}{}{Arra kÃ©r, hogy gyomtalanÃ­tsam a kertjÃ©t? Ha ez a helyzet, akkor szÃ­vesen megcsinÃ¡lom.}
+{134}{}{CserÃ©be valamiÃ©rt...}
 {135}{hak006}{To ask payment for a gift will bring you less than the gift itself. I will give you such and add the lesson of your self-disappointment at the receiving.}
-{136}{}{Üsse k?. Hol az a kert?}
-{137}{}{Tudja, már az is éppen elég lenne, ha MAGYARUL BESZÉLNE!}
-{138}{}{Mi lenne, ha én adnék leckét csalódásból és elmennék? Minden jót!}
-{139}{}{Hát, ha így viselkedik, akkor nem érdekel. Viszlát!}
-{140}{hak006a}{Ha ugyanazokat a szavakat mondjuk, ugyanazt is értjük alattuk? A szavak mindig ugyanúgy érintik meg a lelket?}
-{141}{}{Na, ez az! Máris sokkal jobb. Ez a lecke azt tanítja, hogy fogjam be a szám, és csak azt kérdezzem, hol a kert.}
-{142}{}{Próbáljuk ki azt a szót, hogy "Viszlát". Azt jelenti, hogy elmegyek.}
-{143}{hak007}{Bolond, biztosan emlékszel, hogy észak-keletre van.}
-{144}{}{Kösz a segítséget.}
-{145}{}{Kösz. Ezt éppenséggel megértettem.}
-{146}{}{Bolondnak hívott? Úgy döntöttem, mégsem segítek magának.}
-{147}{}{Mindjárt visszajövök a fizetségemért.}
-{148}{hak008}{Az általad cipelt teher egyre csak nehezebb lesz.}
-{149}{hak009}{Az istenek áldják meg er?feszítéseidet, Kiválasztott. Áldassék az aurád a jelenlétemben, amikor a föld újra tisztán lélegzik majd.}
-{150}{}{Ezzel gondolom azt akarta mondani, hogy akkor jöjjek vissza, ha már kész vagyok a munkámmal... Nem tudom, miért kell itt köntörfalaznia.}
-{151}{}{Viszlát!}
-{152}{hak010}{Ha! Az alapító szelleme benned él. Koncentrálj a bens?d er?sítésére, hogy elérd a nagyságot és megérinthesd vele a világot! Persze a jutalom nem pusztán spirituális jutalom lesz.}
-{153}{}{Jól hangzik. Ha végeztem, visszajövök.}
-{154}{}{Szóval tárgyi jutalmat kapok... jól hangzik. Kés?bb találkozunk!}
-{155}{}{Szerintem túl sokat foglalkozott növényekkel. Hogy elkerüljem a maga sorsát, távol maradok a kertt?l.}
-{156}{hak011}{Az id?t nem lehet sem elvesztegetni, sem visszahozni - mindig a jelen számít. Életedet a cselekvéseid szövevénye határozza meg.}
-{157}{}{Ja, persze. Amint azt már említettem, nekem most mennem kell. Viszlát!}
-{158}{}{Tudja, amikor magával beszélek, mindig eszembe jut az id?pocsékolás kérdése. Na, én leléptem.}
-{159}{}{Bárcsak olyan bölcs lennék, mint maga. Bocsásson meg, persze, hogy elintézem magának.}
-{160}{hak012}{Viselheted ugyan a Kiválasztott palástját, de sötét lelkedet nem palástolhatod.}
-{161}{}{A bocsánatodért esedezem, szent ember. Hogyan tisztíthatnám meg lelkemet?}
-{162}{}{Így van, Hakunin, és igazán bölcs lennél, ha ezt észben is tartanád.}
-{163}{}{Már fáj a fejem a ett?l a sok szövegt?l. Elhúzok.}
-{164}{}{Búka!}
-{165}{hak013}{Tisztítsd meg lelked, mintha démonokat szám?znél a kertemb?l!}
-{166}{}{Úgy lesz, bölcs ember. Miután megtisztítottam a kertjét, eljövök a megbocsátásáért.}
-{167}{}{Azt próbálja közölni, hogy a kert kigyomlálása jó lesz nekem, igaz? Hát, rendben, megpróbálhatom.}
-{168}{}{Olyannak szeretem a lelkem, amilyen. Viszlát!}
-{169}{}{Nem vagyok rá méltó. Most viszont elmegyek.}
-{170}{hak014}{Kiválasztott, a lényed egészen olyan, mint az áldott föld.}
-{171}{}{Köszönöm!}
-{172}{}{Úgy érti, hogy jobbá váltam, ugye?}
-{173}{hak015}{A beteljesedés magával hozza a teljesség érzését, ezt te épp elég jól tudod, Kiválasztott.}
-{174}{}{Várjon, ne is folytassa! Én jobban vagyok, és magának jó volt segíteni, ugye? Kösz.}
-{175}{}{Maga bölcs és kedves, szent ember.}
-{176}{hak017}{Mily módon érinthetem meg a kiválasztott lelkét, Menedéklakó sarja?}
-{177}{}{Ömm, mit is mondott, hol van a kertje?}
-{178}{}{Megsérültem. Meg tud gyógyítani?}
-{179}{}{Ó, semmi-semmi. Viszlát!}
-{180}{hak018}{Áhhh. Visszaidézed az alapító szellemét e világba és mosolyt csalsz egy öregember arcára. Ezért cserébe gyógyítóporokat adok néked. Ne felejtsd! Megtisztítják ugyan a testet, de elhomályosítják az elmét.}
-{181}{}{Köszönöm!}
-{182}{hak018a}{Ezenkívül, ha hozol nekem egy broc-virágot, meg egy xander-gyökeret, összekeverem ?ket neked. Járd az igaz utat, h?en kövesse szíved!}
-{183}{}{Hol találok ilyesmit?}
-{184}{}{Köszönöm!}
-{185}{}{Kicsit sajnálom, hogy el kell mennem. Már kezdtem megérteni, amit mond. Viszlát!}
-{186}{hak019}{Áh, Kiválasztott, a kertem remekül van... hát a tied?}
-{187}{}{Jól vagyok.}
-{188}{}{Gyógyításra lenne szükségem.}
-{189}{}{Mit is mondott, hol vannak a növények?}
-{190}{}{Nincs kertem - mi a fenér?l beszél?}
-{191}{}{Megkérném, hogy csináljon nekem gyógyító port!}
-{192}{}{Áh, felejtse el! Mennem kell.}
-{193}{}{Ó?}
-{194}{}{Úúúg! Bak!}
-{195}{hak020}{Eltöltenek eme örömteli szavak. Sajnos azonban fülembe suttognak az istenek. Ég veled!}
-{196}{}{Viszlát!}
-{197}{}{Még mindig a gyógynövényeket kevergeti, mi? Na, majd kés?bb találkozunk!}
-{198}{hak021}{Mindannyiunknak van egy-egy kertje. Legyen utazásod e kertek gondozója! Most kapcsolatba kell lépnem az istenekkel.}
+{136}{}{Ãœsse k?. Hol az a kert?}
+{137}{}{Tudja, mÃ¡r az is Ã©ppen elÃ©g lenne, ha MAGYARUL BESZÃ‰LNE!}
+{138}{}{Mi lenne, ha Ã©n adnÃ©k leckÃ©t csalÃ³dÃ¡sbÃ³l Ã©s elmennÃ©k? Minden jÃ³t!}
+{139}{}{HÃ¡t, ha Ã­gy viselkedik, akkor nem Ã©rdekel. ViszlÃ¡t!}
+{140}{hak006a}{Ha ugyanazokat a szavakat mondjuk, ugyanazt is Ã©rtjÃ¼k alattuk? A szavak mindig ugyanÃºgy Ã©rintik meg a lelket?}
+{141}{}{Na, ez az! MÃ¡ris sokkal jobb. Ez a lecke azt tanÃ­tja, hogy fogjam be a szÃ¡m, Ã©s csak azt kÃ©rdezzem, hol a kert.}
+{142}{}{PrÃ³bÃ¡ljuk ki azt a szÃ³t, hogy "ViszlÃ¡t". Azt jelenti, hogy elmegyek.}
+{143}{hak007}{Bolond, biztosan emlÃ©kszel, hogy Ã©szak-keletre van.}
+{144}{}{KÃ¶sz a segÃ­tsÃ©get.}
+{145}{}{KÃ¶sz. Ezt Ã©ppensÃ©ggel megÃ©rtettem.}
+{146}{}{Bolondnak hÃ­vott? Ãšgy dÃ¶ntÃ¶ttem, mÃ©gsem segÃ­tek magÃ¡nak.}
+{147}{}{MindjÃ¡rt visszajÃ¶vÃ¶k a fizetsÃ©gemÃ©rt.}
+{148}{hak008}{Az Ã¡ltalad cipelt teher egyre csak nehezebb lesz.}
+{149}{hak009}{Az istenek Ã¡ldjÃ¡k meg er?feszÃ­tÃ©seidet, KivÃ¡lasztott. ÃldassÃ©k az aurÃ¡d a jelenlÃ©temben, amikor a fÃ¶ld Ãºjra tisztÃ¡n lÃ©legzik majd.}
+{150}{}{Ezzel gondolom azt akarta mondani, hogy akkor jÃ¶jjek vissza, ha mÃ¡r kÃ©sz vagyok a munkÃ¡mmal... Nem tudom, miÃ©rt kell itt kÃ¶ntÃ¶rfalaznia.}
+{151}{}{ViszlÃ¡t!}
+{152}{hak010}{Ha! Az alapÃ­tÃ³ szelleme benned Ã©l. KoncentrÃ¡lj a bens?d er?sÃ­tÃ©sÃ©re, hogy elÃ©rd a nagysÃ¡got Ã©s megÃ©rinthesd vele a vilÃ¡got! Persze a jutalom nem pusztÃ¡n spirituÃ¡lis jutalom lesz.}
+{153}{}{JÃ³l hangzik. Ha vÃ©geztem, visszajÃ¶vÃ¶k.}
+{154}{}{SzÃ³val tÃ¡rgyi jutalmat kapok... jÃ³l hangzik. KÃ©s?bb talÃ¡lkozunk!}
+{155}{}{Szerintem tÃºl sokat foglalkozott nÃ¶vÃ©nyekkel. Hogy elkerÃ¼ljem a maga sorsÃ¡t, tÃ¡vol maradok a kertt?l.}
+{156}{hak011}{Az id?t nem lehet sem elvesztegetni, sem visszahozni - mindig a jelen szÃ¡mÃ­t. Ã‰letedet a cselekvÃ©seid szÃ¶vevÃ©nye hatÃ¡rozza meg.}
+{157}{}{Ja, persze. Amint azt mÃ¡r emlÃ­tettem, nekem most mennem kell. ViszlÃ¡t!}
+{158}{}{Tudja, amikor magÃ¡val beszÃ©lek, mindig eszembe jut az id?pocsÃ©kolÃ¡s kÃ©rdÃ©se. Na, Ã©n lelÃ©ptem.}
+{159}{}{BÃ¡rcsak olyan bÃ¶lcs lennÃ©k, mint maga. BocsÃ¡sson meg, persze, hogy elintÃ©zem magÃ¡nak.}
+{160}{hak012}{Viselheted ugyan a KivÃ¡lasztott palÃ¡stjÃ¡t, de sÃ¶tÃ©t lelkedet nem palÃ¡stolhatod.}
+{161}{}{A bocsÃ¡natodÃ©rt esedezem, szent ember. Hogyan tisztÃ­thatnÃ¡m meg lelkemet?}
+{162}{}{Ãgy van, Hakunin, Ã©s igazÃ¡n bÃ¶lcs lennÃ©l, ha ezt Ã©szben is tartanÃ¡d.}
+{163}{}{MÃ¡r fÃ¡j a fejem a ett?l a sok szÃ¶vegt?l. ElhÃºzok.}
+{164}{}{BÃºka!}
+{165}{hak013}{TisztÃ­tsd meg lelked, mintha dÃ©monokat szÃ¡m?znÃ©l a kertemb?l!}
+{166}{}{Ãšgy lesz, bÃ¶lcs ember. MiutÃ¡n megtisztÃ­tottam a kertjÃ©t, eljÃ¶vÃ¶k a megbocsÃ¡tÃ¡sÃ¡Ã©rt.}
+{167}{}{Azt prÃ³bÃ¡lja kÃ¶zÃ¶lni, hogy a kert kigyomlÃ¡lÃ¡sa jÃ³ lesz nekem, igaz? HÃ¡t, rendben, megprÃ³bÃ¡lhatom.}
+{168}{}{Olyannak szeretem a lelkem, amilyen. ViszlÃ¡t!}
+{169}{}{Nem vagyok rÃ¡ mÃ©ltÃ³. Most viszont elmegyek.}
+{170}{hak014}{KivÃ¡lasztott, a lÃ©nyed egÃ©szen olyan, mint az Ã¡ldott fÃ¶ld.}
+{171}{}{KÃ¶szÃ¶nÃ¶m!}
+{172}{}{Ãšgy Ã©rti, hogy jobbÃ¡ vÃ¡ltam, ugye?}
+{173}{hak015}{A beteljesedÃ©s magÃ¡val hozza a teljessÃ©g Ã©rzÃ©sÃ©t, ezt te Ã©pp elÃ©g jÃ³l tudod, KivÃ¡lasztott.}
+{174}{}{VÃ¡rjon, ne is folytassa! Ã‰n jobban vagyok, Ã©s magÃ¡nak jÃ³ volt segÃ­teni, ugye? KÃ¶sz.}
+{175}{}{Maga bÃ¶lcs Ã©s kedves, szent ember.}
+{176}{hak017}{Mily mÃ³don Ã©rinthetem meg a kivÃ¡lasztott lelkÃ©t, MenedÃ©klakÃ³ sarja?}
+{177}{}{Ã–mm, mit is mondott, hol van a kertje?}
+{178}{}{MegsÃ©rÃ¼ltem. Meg tud gyÃ³gyÃ­tani?}
+{179}{}{Ã“, semmi-semmi. ViszlÃ¡t!}
+{180}{hak018}{Ãhhh. VisszaidÃ©zed az alapÃ­tÃ³ szellemÃ©t e vilÃ¡gba Ã©s mosolyt csalsz egy Ã¶regember arcÃ¡ra. EzÃ©rt cserÃ©be gyÃ³gyÃ­tÃ³porokat adok nÃ©ked. Ne felejtsd! MegtisztÃ­tjÃ¡k ugyan a testet, de elhomÃ¡lyosÃ­tjÃ¡k az elmÃ©t.}
+{181}{}{KÃ¶szÃ¶nÃ¶m!}
+{182}{hak018a}{EzenkÃ­vÃ¼l, ha hozol nekem egy broc-virÃ¡got, meg egy xander-gyÃ¶keret, Ã¶sszekeverem ?ket neked. JÃ¡rd az igaz utat, h?en kÃ¶vesse szÃ­ved!}
+{183}{}{Hol talÃ¡lok ilyesmit?}
+{184}{}{KÃ¶szÃ¶nÃ¶m!}
+{185}{}{Kicsit sajnÃ¡lom, hogy el kell mennem. MÃ¡r kezdtem megÃ©rteni, amit mond. ViszlÃ¡t!}
+{186}{hak019}{Ãh, KivÃ¡lasztott, a kertem remekÃ¼l van... hÃ¡t a tied?}
+{187}{}{JÃ³l vagyok.}
+{188}{}{GyÃ³gyÃ­tÃ¡sra lenne szÃ¼ksÃ©gem.}
+{189}{}{Mit is mondott, hol vannak a nÃ¶vÃ©nyek?}
+{190}{}{Nincs kertem - mi a fenÃ©r?l beszÃ©l?}
+{191}{}{MegkÃ©rnÃ©m, hogy csinÃ¡ljon nekem gyÃ³gyÃ­tÃ³ port!}
+{192}{}{Ãh, felejtse el! Mennem kell.}
+{193}{}{Ã“?}
+{194}{}{ÃšÃºÃºg! Bak!}
+{195}{hak020}{EltÃ¶ltenek eme Ã¶rÃ¶mteli szavak. Sajnos azonban fÃ¼lembe suttognak az istenek. Ã‰g veled!}
+{196}{}{ViszlÃ¡t!}
+{197}{}{MÃ©g mindig a gyÃ³gynÃ¶vÃ©nyeket kevergeti, mi? Na, majd kÃ©s?bb talÃ¡lkozunk!}
+{198}{hak021}{Mindannyiunknak van egy-egy kertje. Legyen utazÃ¡sod e kertek gondozÃ³ja! Most kapcsolatba kell lÃ©pnem az istenekkel.}
 {199}{}{Szeva.}
-{200}{}{Fogadok, hogy bárhová menjen, a hallgatóságát is mindig magával viszi. Ég magával!}
-{201}{hak022}{Vesd szemed észak felé, Kiválasztott, és megnyílik az út el?tted!}
-{202}{}{Oké. Kösz.}
-{203}{hak023}{Megtisztel?, hogy a Kiválasztottat szolgálhatom.}
-{204}{hak024}{Ilyen az élet. Kett? alkot egy harmadikat. A gyógyítópor elkészítéséhez a xander-gyökérre és a broc-virágra is szükségem van.}
-{205}{}{Ó, köszönöm.}
+{200}{}{Fogadok, hogy bÃ¡rhovÃ¡ menjen, a hallgatÃ³sÃ¡gÃ¡t is mindig magÃ¡val viszi. Ã‰g magÃ¡val!}
+{201}{hak022}{Vesd szemed Ã©szak felÃ©, KivÃ¡lasztott, Ã©s megnyÃ­lik az Ãºt el?tted!}
+{202}{}{OkÃ©. KÃ¶sz.}
+{203}{hak023}{Megtisztel?, hogy a KivÃ¡lasztottat szolgÃ¡lhatom.}
+{204}{hak024}{Ilyen az Ã©let. Kett? alkot egy harmadikat. A gyÃ³gyÃ­tÃ³por elkÃ©szÃ­tÃ©sÃ©hez a xander-gyÃ¶kÃ©rre Ã©s a broc-virÃ¡gra is szÃ¼ksÃ©gem van.}
+{205}{}{Ã“, kÃ¶szÃ¶nÃ¶m.}
 {206}{}{Puki.}
-{207}{hak025}{Bárcsak ne lenne rá szükséged.}
-{208}{}{Oké. Kösz.}
-{209}{}{Öh!}
-{210}{hak026}{Jól vagy.}
-{211}{}{Köszönöm!}
-{212}{}{Semmi lecke? Semmi érthetetlen szónoklat? Biztos, hogy jól érzi magát?}
-{213}{hak027}{Isten hozott, Kiválasztott! Áldj meg azzal a hírrel, hogy hamarosan megtalálod az ÉLET-et. A falu szenved, nagy a szükség, az id? pedig kevés.}
+{207}{hak025}{BÃ¡rcsak ne lenne rÃ¡ szÃ¼ksÃ©ged.}
+{208}{}{OkÃ©. KÃ¶sz.}
+{209}{}{Ã–h!}
+{210}{hak026}{JÃ³l vagy.}
+{211}{}{KÃ¶szÃ¶nÃ¶m!}
+{212}{}{Semmi lecke? Semmi Ã©rthetetlen szÃ³noklat? Biztos, hogy jÃ³l Ã©rzi magÃ¡t?}
+{213}{hak027}{Isten hozott, KivÃ¡lasztott! Ãldj meg azzal a hÃ­rrel, hogy hamarosan megtalÃ¡lod az Ã‰LET-et. A falu szenved, nagy a szÃ¼ksÃ©g, az id? pedig kevÃ©s.}
 {214}{}{Nehm.}
-{215}{}{Arra viszont cseppnyi esély sincs, hogy végre normálisan beszéljen. Egyfolytában próbálkozom.}
+{215}{}{Arra viszont cseppnyi esÃ©ly sincs, hogy vÃ©gre normÃ¡lisan beszÃ©ljen. EgyfolytÃ¡ban prÃ³bÃ¡lkozom.}
 {216}{}{Azon vagyok.}
-{217}{}{Szálljon le rólam, öreg! Mindent megteszek, amit csak tudok.}
-{218}{}{Még mindig keresem, szent ember. Remélem, hamarosan meglesz az ÉLET.}
-{219}{hak028a}{A Föld párnázza ki utadat!}
-{220}{hak028b}{A Vizek enyhítsék utadat!}
-{221}{hak028c}{A Szél irányítson célodhoz!}
-{222}{hak028d}{A T?z égesse hátsód, míg be nem fejezed a feladatod!}
-{223}{}{Köszi.}
-{224}{}{Tessék?!}
-{225}{}{Öö.}
-{226}{}{Hö?!}
-{227}{hak029}{Isten hozott, Kiválasztott! Az arcodon látom, hogy az ÉLET még nincs birtokodban. Légy fáradhatatlan, amíg csak halvány esély is létezik arra, hogy a készleteink kifogyása el?tt visszatérsz. Te vagy az utolsó esélyünk.}
+{217}{}{SzÃ¡lljon le rÃ³lam, Ã¶reg! Mindent megteszek, amit csak tudok.}
+{218}{}{MÃ©g mindig keresem, szent ember. RemÃ©lem, hamarosan meglesz az Ã‰LET.}
+{219}{hak028a}{A FÃ¶ld pÃ¡rnÃ¡zza ki utadat!}
+{220}{hak028b}{A Vizek enyhÃ­tsÃ©k utadat!}
+{221}{hak028c}{A SzÃ©l irÃ¡nyÃ­tson cÃ©lodhoz!}
+{222}{hak028d}{A T?z Ã©gesse hÃ¡tsÃ³d, mÃ­g be nem fejezed a feladatod!}
+{223}{}{KÃ¶szi.}
+{224}{}{TessÃ©k?!}
+{225}{}{Ã–Ã¶.}
+{226}{}{HÃ¶?!}
+{227}{hak029}{Isten hozott, KivÃ¡lasztott! Az arcodon lÃ¡tom, hogy az Ã‰LET mÃ©g nincs birtokodban. LÃ©gy fÃ¡radhatatlan, amÃ­g csak halvÃ¡ny esÃ©ly is lÃ©tezik arra, hogy a kÃ©szleteink kifogyÃ¡sa el?tt visszatÃ©rsz. Te vagy az utolsÃ³ esÃ©lyÃ¼nk.}
 {228}{}{Aha.}
-{229}{}{Próbálkozom. Szívesen megnézném egyébként, hogy maga milyen fáradhatatlan lenne ennyi kilométer megtétele után.}
-{230}{}{Mindent kihozok magamból.}
-{231}{}{Megkétszerezem az er?feszítéseimet, szent ember. Nem hagyom cserben.}
-{232}{}{Persze, persze. Ezt már hallottam.}
+{229}{}{PrÃ³bÃ¡lkozom. SzÃ­vesen megnÃ©znÃ©m egyÃ©bkÃ©nt, hogy maga milyen fÃ¡radhatatlan lenne ennyi kilomÃ©ter megtÃ©tele utÃ¡n.}
+{230}{}{Mindent kihozok magambÃ³l.}
+{231}{}{MegkÃ©tszerezem az er?feszÃ­tÃ©seimet, szent ember. Nem hagyom cserben.}
+{232}{}{Persze, persze. Ezt mÃ¡r hallottam.}
 {233}{hak030}{Chosen - the village cries in desperation. The children are weak with hunger. Please, we cannot hold out much longer.}
 {234}{}{Aha.}
-{235}{}{Próbálkozom. Próbálkozom! Hadd lazítsak már egy kicsit!}
-{236}{}{Megtalálom az ÉLET-et, szent ember. Megígérem!}
-{237}{}{Mindent megteszek, hogy megtaláljam az ÉLET-et.}
-{238}{hak031}{Kiválasztott, a homokórában már csak néhány porszem maradt. Kérlek! Hozdd el az ÉLET-et, és a falu újra felvirágozhat. Siess!}
+{235}{}{PrÃ³bÃ¡lkozom. PrÃ³bÃ¡lkozom! Hadd lazÃ­tsak mÃ¡r egy kicsit!}
+{236}{}{MegtalÃ¡lom az Ã‰LET-et, szent ember. MegÃ­gÃ©rem!}
+{237}{}{Mindent megteszek, hogy megtalÃ¡ljam az Ã‰LET-et.}
+{238}{hak031}{KivÃ¡lasztott, a homokÃ³rÃ¡ban mÃ¡r csak nÃ©hÃ¡ny porszem maradt. KÃ©rlek! Hozdd el az Ã‰LET-et, Ã©s a falu Ãºjra felvirÃ¡gozhat. Siess!}
 {239}{}{Aha.}
-{240}{}{Rendben, már indulok is.}
-{241}{}{Szóval felvirágozhat?}
-{242}{}{Megtalálom az ÉLET-et, szent ember. Nem hagyom cserben a törzsemet.}
-{243}{hak032}{Kiválasztott, ?seink szellemei segítenek az álmok világában. A falu szenved a szent ÉLET nélkül. Kezed úgy tartja életünket, mint apa a gyermekét.}
-{244}{hak033}{A szellemem újra elér hozzád, Kiválasztott. A termény halódik, a tartalékok fogynak. Hozd el nekünk az ÉLET-et! Kudarcod lesz a mi utoljára látott fényünk.}
-{245}{hak034}{Kiválasztott. A falu gyengül. Egyre nehezebb megérinteni az álmaidat. Siess, vagy mind...}
-{246}{hak035}{Kiválasztott? Kiválasztott? Hallasz? A falu haldoklik. Oda lesz a jöv?nk! Kevés id? maradt, leapadtak a tartalékaink... Siess! Siess...}
-{247}{hak101}{Kiválasztott... a sötétség er?i el?bb érkeztek.}
-{248}{}{Áúúúú!}
-{249}{}{Mi történt?}
-{250}{}{Rosszul néz ki. Hadd segítsek!}
-{251}{hak102}{Természet Gyermeke, hogy tehettünk ekkora terhet a válladra? (sóhaj) Az embereket elhurcolták.}
-{252}{}{Hö?}
-{253}{hak103}{Igen. Elmentek. Sok sötét lélek jött, vasmadarakon érkeztek, mint egy kitinpáncélos bogár-raj, a gonoszságot elrejtették fényes b?rük alatt.}
-{254}{}{Óóóó! Szép fén'es!}
-{255}{hak104}{Nem! Nem szép fényes! Elrabolták a falu népét és dél-nyugatra hurcolták ?ket.}
-{256}{}{Óó.}
-{257}{hak105}{Igen. Nagy szomorúság és fájdalom ez. Két világ határáról üzenek neked, Kiválasztott, mentsd meg a népedet!}
-{258}{}{Öh?}
-{259}{hak106}{Kiválasztott! Kérlek, érintsenek meg a szavaim! Indulj dél-nyugat felé! Délre és nyugatra. Mentsd meg az embereket! Mentsd meg a törzsünket!}
+{240}{}{Rendben, mÃ¡r indulok is.}
+{241}{}{SzÃ³val felvirÃ¡gozhat?}
+{242}{}{MegtalÃ¡lom az Ã‰LET-et, szent ember. Nem hagyom cserben a tÃ¶rzsemet.}
+{243}{hak032}{KivÃ¡lasztott, ?seink szellemei segÃ­tenek az Ã¡lmok vilÃ¡gÃ¡ban. A falu szenved a szent Ã‰LET nÃ©lkÃ¼l. Kezed Ãºgy tartja Ã©letÃ¼nket, mint apa a gyermekÃ©t.}
+{244}{hak033}{A szellemem Ãºjra elÃ©r hozzÃ¡d, KivÃ¡lasztott. A termÃ©ny halÃ³dik, a tartalÃ©kok fogynak. Hozd el nekÃ¼nk az Ã‰LET-et! Kudarcod lesz a mi utoljÃ¡ra lÃ¡tott fÃ©nyÃ¼nk.}
+{245}{hak034}{KivÃ¡lasztott. A falu gyengÃ¼l. Egyre nehezebb megÃ©rinteni az Ã¡lmaidat. Siess, vagy mind...}
+{246}{hak035}{KivÃ¡lasztott? KivÃ¡lasztott? Hallasz? A falu haldoklik. Oda lesz a jÃ¶v?nk! KevÃ©s id? maradt, leapadtak a tartalÃ©kaink... Siess! Siess...}
+{247}{hak101}{KivÃ¡lasztott... a sÃ¶tÃ©tsÃ©g er?i el?bb Ã©rkeztek.}
+{248}{}{ÃÃºÃºÃºÃº!}
+{249}{}{Mi tÃ¶rtÃ©nt?}
+{250}{}{Rosszul nÃ©z ki. Hadd segÃ­tsek!}
+{251}{hak102}{TermÃ©szet Gyermeke, hogy tehettÃ¼nk ekkora terhet a vÃ¡lladra? (sÃ³haj) Az embereket elhurcoltÃ¡k.}
+{252}{}{HÃ¶?}
+{253}{hak103}{Igen. Elmentek. Sok sÃ¶tÃ©t lÃ©lek jÃ¶tt, vasmadarakon Ã©rkeztek, mint egy kitinpÃ¡ncÃ©los bogÃ¡r-raj, a gonoszsÃ¡got elrejtettÃ©k fÃ©nyes b?rÃ¼k alatt.}
+{254}{}{Ã“Ã³Ã³Ã³! SzÃ©p fÃ©n'es!}
+{255}{hak104}{Nem! Nem szÃ©p fÃ©nyes! ElraboltÃ¡k a falu nÃ©pÃ©t Ã©s dÃ©l-nyugatra hurcoltÃ¡k ?ket.}
+{256}{}{Ã“Ã³.}
+{257}{hak105}{Igen. Nagy szomorÃºsÃ¡g Ã©s fÃ¡jdalom ez. KÃ©t vilÃ¡g hatÃ¡rÃ¡rÃ³l Ã¼zenek neked, KivÃ¡lasztott, mentsd meg a nÃ©pedet!}
+{258}{}{Ã–h?}
+{259}{hak106}{KivÃ¡lasztott! KÃ©rlek, Ã©rintsenek meg a szavaim! Indulj dÃ©l-nyugat felÃ©! DÃ©lre Ã©s nyugatra. Mentsd meg az embereket! Mentsd meg a tÃ¶rzsÃ¼nket!}
 {260}{}{Ah-ha...}
 {261}{hak107}{Thank the ancestors. Now my soul may join the eternal song. Safe journey, Chosen.}
 {262}{}{Menni?}
 {263}{hak108}{Indulj!...}
 {264}{}{Szia szia.}
-{265}{hak109}{Sötét lelkek érkeztek. Mindenkit elvittek.}
-{266}{}{Sötét lelkek? Mit ért ezalatt?}
-{267}{hak110}{Gyors szell? jött, azon pedig hatalmas t?zokádó szitaköt?k. Gonosz emberek másztak el? a szörnyek hasából és halált zúdítottak a harcosokra.}
-{268}{}{A harcosaink nem tudták megállítani ?ket?}
-{269}{hak112}{Lelkük er?s volt, de a dárdáik gyengék. A gonoszok a pokol tüzével égették el harcosainkat.}
-{270}{}{Mindenkit megöltek?}
-{271}{hak113}{Mindenkit megöltek vagy elhurcoltak. A szellemem visszatért e testbe, hogy elmondhassa az igazat a Kiválasztottnak.}
-{272}{}{Mi történt azokkal, akiket elvittek?}
-{273}{hak114}{A szörnyek mindenkit lenyeltek, és elrepültek a szelek szárnyán.}
-{274}{}{Ömm, merre is fújnak azok a szelek?}
-{275}{hak115}{Sosem figyeltél, amikor a szél-lelkek évente esedékes táncát tanítottam neked? Délre, természetesen.}
-{276}{}{A leírásai mindig olyan élénkek és meggy?z?ek voltak, nagy Hakunin, hogy a tanítások során gyakran öntudatlanságba zuhantam.}
-{277}{}{Óh, azok a szelek. Hát persze.}
-{278}{hak116}{Igen, dél felé távoztak. Kihallgattam a sötét lelkek beszédét. Azt tervezik, hogy miel?tt átkelnek Föld-Anyánk könnyeivel telt medencéjén, egy Navarro nev? helyen pihentetik meg szörnyeiket.}
+{265}{hak109}{SÃ¶tÃ©t lelkek Ã©rkeztek. Mindenkit elvittek.}
+{266}{}{SÃ¶tÃ©t lelkek? Mit Ã©rt ezalatt?}
+{267}{hak110}{Gyors szell? jÃ¶tt, azon pedig hatalmas t?zokÃ¡dÃ³ szitakÃ¶t?k. Gonosz emberek mÃ¡sztak el? a szÃ¶rnyek hasÃ¡bÃ³l Ã©s halÃ¡lt zÃºdÃ­tottak a harcosokra.}
+{268}{}{A harcosaink nem tudtÃ¡k megÃ¡llÃ­tani ?ket?}
+{269}{hak112}{LelkÃ¼k er?s volt, de a dÃ¡rdÃ¡ik gyengÃ©k. A gonoszok a pokol tÃ¼zÃ©vel Ã©gettÃ©k el harcosainkat.}
+{270}{}{Mindenkit megÃ¶ltek?}
+{271}{hak113}{Mindenkit megÃ¶ltek vagy elhurcoltak. A szellemem visszatÃ©rt e testbe, hogy elmondhassa az igazat a KivÃ¡lasztottnak.}
+{272}{}{Mi tÃ¶rtÃ©nt azokkal, akiket elvittek?}
+{273}{hak114}{A szÃ¶rnyek mindenkit lenyeltek, Ã©s elrepÃ¼ltek a szelek szÃ¡rnyÃ¡n.}
+{274}{}{Ã–mm, merre is fÃºjnak azok a szelek?}
+{275}{hak115}{Sosem figyeltÃ©l, amikor a szÃ©l-lelkek Ã©vente esedÃ©kes tÃ¡ncÃ¡t tanÃ­tottam neked? DÃ©lre, termÃ©szetesen.}
+{276}{}{A leÃ­rÃ¡sai mindig olyan Ã©lÃ©nkek Ã©s meggy?z?ek voltak, nagy Hakunin, hogy a tanÃ­tÃ¡sok sorÃ¡n gyakran Ã¶ntudatlansÃ¡gba zuhantam.}
+{277}{}{Ã“h, azok a szelek. HÃ¡t persze.}
+{278}{hak116}{Igen, dÃ©l felÃ© tÃ¡voztak. Kihallgattam a sÃ¶tÃ©t lelkek beszÃ©dÃ©t. Azt tervezik, hogy miel?tt Ã¡tkelnek FÃ¶ld-AnyÃ¡nk kÃ¶nnyeivel telt medencÃ©jÃ©n, egy Navarro nev? helyen pihentetik meg szÃ¶rnyeiket.}
 {279}{}{Mit kell tennem?}
-{280}{}{Könnyekkel teli medencét mondott?}
-{281}{hak117}{Értem már semmit... Kiválasztott, meg kell keresned a gonoszok karámját és meg kell mentened a törzset!}
-{282}{}{Megpróbálom.}
-{283}{hak118}{Te vagy a Kiválasztott. Meg kell tenned!}
+{280}{}{KÃ¶nnyekkel teli medencÃ©t mondott?}
+{281}{hak117}{Ã‰rtem mÃ¡r semmit... KivÃ¡lasztott, meg kell keresned a gonoszok karÃ¡mjÃ¡t Ã©s meg kell mentened a tÃ¶rzset!}
+{282}{}{MegprÃ³bÃ¡lom.}
+{283}{hak118}{Te vagy a KivÃ¡lasztott. Meg kell tenned!}
 {284}{}{Hakunin?}
-{285}{}{Az els? alkalom, hogy végre megértettem, amit mondott.}
-{286}{hak120}{Egy óceánnyi könny, melyet az anya hullatott a gyermekeiért.}
-{287}{}{Ó, az óceán... De mit is kell tennem?}
-{288}{hak121}{Egy különös köd elragadta az eszüket és elküldte ?ket az Álmok földjére. A gonoszok az alvók közt jártak, bár nem álmodtak.}
-{289}{}{És azután?}
-{290}{hak122}{Túl sok év és túl sok seb, Kiválasztott. Inkább figyelj!}
+{285}{}{Az els? alkalom, hogy vÃ©gre megÃ©rtettem, amit mondott.}
+{286}{hak120}{Egy Ã³ceÃ¡nnyi kÃ¶nny, melyet az anya hullatott a gyermekeiÃ©rt.}
+{287}{}{Ã“, az Ã³ceÃ¡n... De mit is kell tennem?}
+{288}{hak121}{Egy kÃ¼lÃ¶nÃ¶s kÃ¶d elragadta az eszÃ¼ket Ã©s elkÃ¼ldte ?ket az Ãlmok fÃ¶ldjÃ©re. A gonoszok az alvÃ³k kÃ¶zt jÃ¡rtak, bÃ¡r nem Ã¡lmodtak.}
+{289}{}{Ã‰s azutÃ¡n?}
+{290}{hak122}{TÃºl sok Ã©v Ã©s tÃºl sok seb, KivÃ¡lasztott. InkÃ¡bb figyelj!}
 {291}{}{Rendben.}
 {300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
 {301}{}{You must now pay for your sins, Chosen One.}

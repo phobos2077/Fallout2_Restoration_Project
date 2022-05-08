@@ -1,147 +1,147 @@
 {100}{}{Ves a uno de los hijos de Wright.}
 {101}{}{Ves a una de las hijas de Wright.}
-{150}{}{Ves a un joven con una expresión de enfado. Intenta parecer duro.}
-{151}{}{Ves a uno de los hijos de Wright. Parece que guarda algunas armas y tiene aspecto de ser demasiado joven para saber qué hacer con ellas.}
+{150}{}{Ves a un joven con una expresiÃ³n de enfado. Intenta parecer duro.}
+{151}{}{Ves a uno de los hijos de Wright. Parece que guarda algunas armas y tiene aspecto de ser demasiado joven para saber quÃ© hacer con ellas.}
 {152}{}{Ves a uno de los hijos de Wright. Te mira sin fijarse demasiado.}
-{153}{}{Ves a uno de los hijos de Wright. Tiene aspecto que querer estar haciendo algo… cualquier otra cosa.}
-{160}{}{Ves a una joven con una expresión severa. Intenta parecer dura.}
-{161}{}{Ves a una de las hijas de Wright. Parece que guarda algunas armas y tiene aspecto de ser demasiado joven para saber qué hacer con ellas.}
-{162}{}{Ves a una de las hijas de Wright. Te ignora, pero deja caer su mano a su pistolera con toda la intención.}
+{153}{}{Ves a uno de los hijos de Wright. Tiene aspecto que querer estar haciendo algoâ€¦ cualquier otra cosa.}
+{160}{}{Ves a una joven con una expresiÃ³n severa. Intenta parecer dura.}
+{161}{}{Ves a una de las hijas de Wright. Parece que guarda algunas armas y tiene aspecto de ser demasiado joven para saber quÃ© hacer con ellas.}
+{162}{}{Ves a una de las hijas de Wright. Te ignora, pero deja caer su mano a su pistolera con toda la intenciÃ³n.}
 {163}{}{Ves a una de las hijas de Wright. Parece malvada cual serpiente.}
-{164}{}{Ves a una de las hijas de Wright. Parece malvada cual serpiente. Por alguna razón, eso te excita.}
+{164}{}{Ves a una de las hijas de Wright. Parece malvada cual serpiente. Por alguna razÃ³n, eso te excita.}
 {200}{}{::Brindis::}
 {201}{}{::Aplausos::}
 {202}{}{::Silbidos::}
-{203}{}{(Canta.) "No necesitamos otro héroe, no necesitamos saber el camino a casa..."}
-{204}{}{¡Oye! }
-{205}{}{Qué manera de aplastar al Enclave, }
-{206}{}{Tienes que ser más dura que Tommy Pelotas para haberte cargado el Enclave como hiciste.}
-{207}{}{Esos tipos del Enclave parecían ser unos auténticos bastardos.}
-{208}{}{¿Iban a soltar algún nuevo VIRUS en el aire? Bastardos. Espero que le pegases un tiro de mi parte a alguno.}
-{209}{}{Pensé que el Presidente era un mito, un hombre del saco que se usaba para asustar a los niños.}
-{210}{}{Parece como si hubieras cruzado el infierno y logrado salir. Relájate un poco. Te lo mereces.}
-{211}{}{¿Vas a volver a jugar con un personaje distinto? Te recomiendo uno del tipo superviviente.}
-{212}{}{V.E.F.? ¿Qué es eso?}
-{213}{}{Nuevo Reno fue diseñado por Chris Avellone y programado por Tom French. Tom toca en una banda. Chris se toca a sí mismo.}
+{203}{}{(Canta.) "No necesitamos otro hÃ©roe, no necesitamos saber el camino a casa..."}
+{204}{}{Â¡Oye! }
+{205}{}{QuÃ© manera de aplastar al Enclave, }
+{206}{}{Tienes que ser mÃ¡s dura que Tommy Pelotas para haberte cargado el Enclave como hiciste.}
+{207}{}{Esos tipos del Enclave parecÃ­an ser unos autÃ©nticos bastardos.}
+{208}{}{Â¿Iban a soltar algÃºn nuevo VIRUS en el aire? Bastardos. Espero que le pegases un tiro de mi parte a alguno.}
+{209}{}{PensÃ© que el Presidente era un mito, un hombre del saco que se usaba para asustar a los niÃ±os.}
+{210}{}{Parece como si hubieras cruzado el infierno y logrado salir. RelÃ¡jate un poco. Te lo mereces.}
+{211}{}{Â¿Vas a volver a jugar con un personaje distinto? Te recomiendo uno del tipo superviviente.}
+{212}{}{V.E.F.? Â¿QuÃ© es eso?}
+{213}{}{Nuevo Reno fue diseÃ±ado por Chris Avellone y programado por Tom French. Tom toca en una banda. Chris se toca a sÃ­ mismo.}
 {214}{}{Espero convertirme en un personaje principal en Fallout 3, como Tandi o Ian. Ser un criminal es una mierda.}
-{215}{}{He oído que te cargaste a ese Enclave allá por el sur. Eres valiente.}
-{225}{}{¿Cómo haces para usar la letrina con eso puesto?}
-{230}{}{Mantén ese arma lejos de los chicos, ¿de acuerdo?}
-{231}{}{No menees ese arma cerca de los chicos, ¿de acuerdo?}
-{235}{}{¡Casi me matas de un susto, andando a hurtadillas así!}
-{236}{}{¿Por qué te estás moviendo de esa forma?}
-{237}{}{¡Oye! Deja de moverte como una sombra… ¡Cristo, casi te disparo! La virgen.}
+{215}{}{He oÃ­do que te cargaste a ese Enclave allÃ¡ por el sur. Eres valiente.}
+{225}{}{Â¿CÃ³mo haces para usar la letrina con eso puesto?}
+{230}{}{MantÃ©n ese arma lejos de los chicos, Â¿de acuerdo?}
+{231}{}{No menees ese arma cerca de los chicos, Â¿de acuerdo?}
+{235}{}{Â¡Casi me matas de un susto, andando a hurtadillas asÃ­!}
+{236}{}{Â¿Por quÃ© te estÃ¡s moviendo de esa forma?}
+{237}{}{Â¡Oye! Deja de moverte como una sombraâ€¦ Â¡Cristo, casi te disparo! La virgen.}
 {240}{}{Saludos, }
-{241}{}{Maldito calor, ¿verdad,}
+{241}{}{Maldito calor, Â¿verdad,}
 {242}{}{Saludos, }
-{245}{}{¡Es una de los hombres de }
-{250}{}{¡Es una de los hombres de }
-{255}{}{¡Es una de los hombres de }
-{260}{}{¡Lárgate, antes de que te llenemos de agujeros!}
-{261}{}{¡Lárgate! Tú y tu Familia no sois bien recibidos aquí!}
-{265}{}{¡Guarda el arma, esclavista, o dispararemos!}
-{270}{}{¿Por qué demonios estás andando a hurtadillas? ¿Quieres que te disparemos, esclavista?}
-{275}{}{¡Baja el arma! ¡Ya!}
+{245}{}{Â¡Es una de los hombres de }
+{250}{}{Â¡Es una de los hombres de }
+{255}{}{Â¡Es una de los hombres de }
+{260}{}{Â¡LÃ¡rgate, antes de que te llenemos de agujeros!}
+{261}{}{Â¡LÃ¡rgate! TÃº y tu Familia no sois bien recibidos aquÃ­!}
+{265}{}{Â¡Guarda el arma, esclavista, o dispararemos!}
+{270}{}{Â¿Por quÃ© demonios estÃ¡s andando a hurtadillas? Â¿Quieres que te disparemos, esclavista?}
+{275}{}{Â¡Baja el arma! Â¡Ya!}
 {276}{}{Suelta ese arma, o dispararemos!}
 {277}{}{Tira ese arma, o dispararemos!}
-{280}{}{¿Por qué estás andando a hurtadillas? Te van a pegar un tiro.}
-{281}{}{¿Qué coñ… er, demonios haces andando a hurtadillas? ¿Quieres que te disparen?}
-{285}{}{¿Eso que te sigue es alguna clase de máquina tragaperras?}
-{286}{}{¿Eso es una robo-máquina tragaperras?}
-{287}{}{¿Es un cerebro lo que hay dentro de ese robot? Aghhh.}
-{288}{}{¿Eso que te acompaña es alguna clase de cerebro andante en una urna?}
-{289}{}{Eso es un robot? Nunca antes había visto uno así.}
+{280}{}{Â¿Por quÃ© estÃ¡s andando a hurtadillas? Te van a pegar un tiro.}
+{281}{}{Â¿QuÃ© coÃ±â€¦ er, demonios haces andando a hurtadillas? Â¿Quieres que te disparen?}
+{285}{}{Â¿Eso que te sigue es alguna clase de mÃ¡quina tragaperras?}
+{286}{}{Â¿Eso es una robo-mÃ¡quina tragaperras?}
+{287}{}{Â¿Es un cerebro lo que hay dentro de ese robot? Aghhh.}
+{288}{}{Â¿Eso que te acompaÃ±a es alguna clase de cerebro andante en una urna?}
+{289}{}{Eso es un robot? Nunca antes habÃ­a visto uno asÃ­.}
 {295}{}{Dime que eso no es un mutante.}
 {296}{}{Eso es un mutante?}
-{297}{}{La madre que me... Mutantes en Nuevo Reno. Eso va a suponer problemas…}
+{297}{}{La madre que me... Mutantes en Nuevo Reno. Eso va a suponer problemasâ€¦}
 {298}{}{Ese mutante es un hijoputa de los grandes.}
-{299}{}{Ese mutante tuyo, que tenga cuidado por aquí, ¿me oyes?}
-{305}{}{¿Qué quieres?}
-{306}{}{¿Necesitas ayuda?}
+{299}{}{Ese mutante tuyo, que tenga cuidado por aquÃ­, Â¿me oyes?}
+{305}{}{Â¿QuÃ© quieres?}
+{306}{}{Â¿Necesitas ayuda?}
 {307}{}{Maldito calor...}
-{308}{}{Nuevo Reno se vuelve más fea a cada día que pasa…}
-{309}{}{¿Qué estás haciendo por aquí?}
-{310}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
-{311}{}{Vigila tus pasos por aquí, amiga. Este es territorio de la Familia Wright.}
-{320}{}{Deberías jugar con los chicos con esta armadura puesta. Les encantaría.}
-{321}{}{No pises a ninguno de los pequeños con esa armadura puesta, ¿me oyes?}
-{322}{}{¿No tienes calor ahí dentro?}
-{323}{}{Un refrigerador andante. Ahora sí que lo he visto todo.}
-{324}{}{¿Buscas un túnel de lavado?}
-{325}{}{Parece que perteneces a un juego de mechs de combate. Esto es Fallout 2. ¿No habrás abierto la
+{308}{}{Nuevo Reno se vuelve mÃ¡s fea a cada dÃ­a que pasaâ€¦}
+{309}{}{Â¿QuÃ© estÃ¡s haciendo por aquÃ­?}
+{310}{}{Si usted estÃ¡ buscando' por el alcohol, la estaciÃ³n de tren es el lugar para estar.}
+{311}{}{Vigila tus pasos por aquÃ­, amiga. Este es territorio de la Familia Wright.}
+{320}{}{DeberÃ­as jugar con los chicos con esta armadura puesta. Les encantarÃ­a.}
+{321}{}{No pises a ninguno de los pequeÃ±os con esa armadura puesta, Â¿me oyes?}
+{322}{}{Â¿No tienes calor ahÃ­ dentro?}
+{323}{}{Un refrigerador andante. Ahora sÃ­ que lo he visto todo.}
+{324}{}{Â¿Buscas un tÃºnel de lavado?}
+{325}{}{Parece que perteneces a un juego de mechs de combate. Esto es Fallout 2. Â¿No habrÃ¡s abierto la
  carpeta equivocada de tu disco duro?}
-{326}{}{¿Cómo haces para usar la letrina con eso puesto?}
-{335}{}{¿Cómo estás, }
-{336}{}{Es bueno tenerte en la Familia, eh, incluso aunque no eres de la familia, ¿entiendes? Eh… no importa.}
-{337}{}{He oído que Tommy Pelotas ha vuelto a la ciudad. Eso acojona.}
-{338}{}{Nosotros, los Wright, somos la Familia más fuerte porque nosotros SOMOS familia.}
-{339}{}{Una lástima lo de mi hermanito. Era un buen muchacho, pero el Jet está por toda esta ciudad, es difícil evitarlo…}
-{340}{}{Papá dijo que nos estrangulará si alguna vez nos oye hablar de tomar Jet.}
-{341}{}{Papá todavía está enfadado, así que cuidado cuando hables con él, ¿me oyes?}
-{342}{}{Chris será azotado como siga colándose en el burdel.}
+{326}{}{Â¿CÃ³mo haces para usar la letrina con eso puesto?}
+{335}{}{Â¿CÃ³mo estÃ¡s, }
+{336}{}{Es bueno tenerte en la Familia, eh, incluso aunque no eres de la familia, Â¿entiendes? Ehâ€¦ no importa.}
+{337}{}{He oÃ­do que Tommy Pelotas ha vuelto a la ciudad. Eso acojona.}
+{338}{}{Nosotros, los Wright, somos la Familia mÃ¡s fuerte porque nosotros SOMOS familia.}
+{339}{}{Una lÃ¡stima lo de mi hermanito. Era un buen muchacho, pero el Jet estÃ¡ por toda esta ciudad, es difÃ­cil evitarloâ€¦}
+{340}{}{PapÃ¡ dijo que nos estrangularÃ¡ si alguna vez nos oye hablar de tomar Jet.}
+{341}{}{PapÃ¡ todavÃ­a estÃ¡ enfadado, asÃ­ que cuidado cuando hables con Ã©l, Â¿me oyes?}
+{342}{}{Chris serÃ¡ azotado como siga colÃ¡ndose en el burdel.}
 {343}{}{Maldito calor...}
-{344}{}{Hace tiempo que no veo a mamá. Si la ves, no le menciones nada sobre la destiladora, ¿vale?}
-{345}{}{Keith desmontó el piano la semana pasada y lo volvió a montar. Chico listo.}
-{346}{}{Vamos a volver a cazar escorpiones rad dentro de unos días.}
-{347}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
-{348}{}{Cuidado con los chicos por aquí, siempre están bajo los pies de uno.}
-{349}{}{¿Y me puedes enseñar a luchar?}
-{350}{}{Tú eres esa luchadora, }
-{351}{}{Luchas bien. Deberías hablar con pap… er, con el jefe, acerca de algún trabajo.}
-{352}{}{Podríamos necesitar un brazo fuerte en la ciudad, si estás interesada.}
-{353}{}{¿Cuándo vas a volver a pelear?}
-{354}{}{Apostaría por ti, pero mamá se sube por las paredes cuando apostamos.}
+{344}{}{Hace tiempo que no veo a mamÃ¡. Si la ves, no le menciones nada sobre la destiladora, Â¿vale?}
+{345}{}{Keith desmontÃ³ el piano la semana pasada y lo volviÃ³ a montar. Chico listo.}
+{346}{}{Vamos a volver a cazar escorpiones rad dentro de unos dÃ­as.}
+{347}{}{Si usted estÃ¡ buscando' por el alcohol, la estaciÃ³n de tren es el lugar para estar.}
+{348}{}{Cuidado con los chicos por aquÃ­, siempre estÃ¡n bajo los pies de uno.}
+{349}{}{Â¿Y me puedes enseÃ±ar a luchar?}
+{350}{}{TÃº eres esa luchadora, }
+{351}{}{Luchas bien. DeberÃ­as hablar con papâ€¦ er, con el jefe, acerca de algÃºn trabajo.}
+{352}{}{PodrÃ­amos necesitar un brazo fuerte en la ciudad, si estÃ¡s interesada.}
+{353}{}{Â¿CuÃ¡ndo vas a volver a pelear?}
+{354}{}{ApostarÃ­a por ti, pero mamÃ¡ se sube por las paredes cuando apostamos.}
 {355}{}{Te hicieron dura, desde luego.}
-{356}{}{Cuidado con el Masticador, ¿me oyes? Es mezquino. Antes de mirarte ya te habrá mordido la oreja.}
-{360}{}{Mamá dice que eres un instrumento del demonio. O que tienes un instrumento del demonio. Algo así.}
-{361}{}{Mejor será que no te quedes por aquí… mamá podría verte y empezaría a sermonear.}
-{362}{}{¿Y entonces cómo es en las películas? Mamá no me deja verlas.}
-{363}{}{No le digas a los pequeños lo que haces.}
-{364}{}{A mamá le dará un ataque si te ve. Ella es así de histriónica.}
-{365}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
-{366}{}{Nosotros, los Wright, somos la Familia más fuerte porque nosotros SOMOS familia.}
-{367}{}{Una lástima lo de mi hermanito. Era un buen muchacho, pero el Jet está por toda esta ciudad, es difícil evitarlo…}
-{368}{}{Papá dijo que nos estrangulará si alguna vez nos oye hablar de tomar Jet.}
-{369}{}{Papá todavía está enfadado, así que cuidado cuando hables con él, ¿me oyes?}
-{370}{}{Chris será azotado como siga colándose en el burdel.}
+{356}{}{Cuidado con el Masticador, Â¿me oyes? Es mezquino. Antes de mirarte ya te habrÃ¡ mordido la oreja.}
+{360}{}{MamÃ¡ dice que eres un instrumento del demonio. O que tienes un instrumento del demonio. Algo asÃ­.}
+{361}{}{Mejor serÃ¡ que no te quedes por aquÃ­â€¦ mamÃ¡ podrÃ­a verte y empezarÃ­a a sermonear.}
+{362}{}{Â¿Y entonces cÃ³mo es en las pelÃ­culas? MamÃ¡ no me deja verlas.}
+{363}{}{No le digas a los pequeÃ±os lo que haces.}
+{364}{}{A mamÃ¡ le darÃ¡ un ataque si te ve. Ella es asÃ­ de histriÃ³nica.}
+{365}{}{Si usted estÃ¡ buscando' por el alcohol, la estaciÃ³n de tren es el lugar para estar.}
+{366}{}{Nosotros, los Wright, somos la Familia mÃ¡s fuerte porque nosotros SOMOS familia.}
+{367}{}{Una lÃ¡stima lo de mi hermanito. Era un buen muchacho, pero el Jet estÃ¡ por toda esta ciudad, es difÃ­cil evitarloâ€¦}
+{368}{}{PapÃ¡ dijo que nos estrangularÃ¡ si alguna vez nos oye hablar de tomar Jet.}
+{369}{}{PapÃ¡ todavÃ­a estÃ¡ enfadado, asÃ­ que cuidado cuando hables con Ã©l, Â¿me oyes?}
+{370}{}{Chris serÃ¡ azotado como siga colÃ¡ndose en el burdel.}
 {371}{}{Maldito calor...}
-{372}{}{Keith desmontó el piano la semana pasada y lo volvió a montar. Chico listo.}
-{373}{}{Vamos a volver a cazar escorpiones rad dentro de unos días.}
-{374}{}{¿De verdad hablas con Dios cuando practicas sexo en el plató?}
-{375}{}{Mamá dice que eres un instrumento del demonio.}
-{376}{}{Mamá dice que eres una ramera. Un putón desvergonzado. No tengo ni idea de lo que quiere decir.}
-{385}{}{Usted planificación a ver a Papá acerca de los negocios? Bien, buena suerte, no creo que la contratación de cualquiera de manos ahora.}
-{386}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar. }
-{387}{}{Vigila tus pasos por aquí, amiga. Este es territorio de la Familia Wright.}
-{390}{}{Mejor será que te vayas… no somos amables con los esclavistas.}
-{391}{}{No CREAS que vas a raptar a nadie por aquí. Si causas un solo problema te destriparemos.}
-{392}{}{Mantén las distancias, esclavista. Si tienes negocios con papá, hazlos.}
-{393}{}{Mejor será que no hayas traído drogas, o de lo contrario papá te matará. Luego, YO te mataré también.}
-{394}{}{Te estoy vigilando, esclavista, así que cuidado con lo que haces, ¿me oyes?}
-{395}{}{Si tocas a uno de los chicos, esclavista, te dispararé tantas veces que volarás fuera de tus botas.}
-{396}{}{Toca a cualquiera de esos chicos, esclavista, y te mataré.}
-{397}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
-{398}{}{i le haces daño a un Wright, esclavista, la Familia no descansará hasta que te estés pudriendo en el Gólgota.}
-{399}{}{¿Estás aquí para ver a papá por negocios? No creo que papá los haga con esclavista. Mejor vete.}
-{410}{}{Mejor será que te vayas… sin ánimo de ofender, pero a papá no le gustan demasiado los tribales.}
-{411}{}{No CREAS que vas a causar problemas. Los Wright te superamos en número por… eh, por muchos.}
-{412}{}{Mantén la distancia. Si tienes negocios que tratar, adelante.}
-{413}{}{Mejor será que no hayas traído drogas, o de lo contrario papá te matará. Luego, YO te mataré también.}
-{414}{}{Te estoy vigilando, así que cuidado con lo que haces, ¿me oyes?}
-{415}{}{¿De dónde eres? Hace tiempo que no veo a los de tu clase por aquí.}
-{416}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
-{417}{}{Si le haces daño a un Wright, la Familia no descansará hasta que te estés pudriendo en el Gólgota.}
-{418}{}{¿Estás aquí para ver a papá por negocios? Buena suerte, no creo que contrate a nadie ahora.}
-{425}{}{Ese necrófago no debería estar aquí. Mejor que lo envíes de vuelta a Gecko.}
-{426}{}{Mejor que no acerques ese necrófago a los chicos. Pueden envenenarse con la radiación.}
-{427}{}{Te sugiero que tú y tu amiguito necrófago os marchéis antes de que haya problemas.}
-{1204}{}{! ¡Qué forma de patear el trasero… er, el culo del Enclave!}
+{372}{}{Keith desmontÃ³ el piano la semana pasada y lo volviÃ³ a montar. Chico listo.}
+{373}{}{Vamos a volver a cazar escorpiones rad dentro de unos dÃ­as.}
+{374}{}{Â¿De verdad hablas con Dios cuando practicas sexo en el platÃ³?}
+{375}{}{MamÃ¡ dice que eres un instrumento del demonio.}
+{376}{}{MamÃ¡ dice que eres una ramera. Un putÃ³n desvergonzado. No tengo ni idea de lo que quiere decir.}
+{385}{}{Usted planificaciÃ³n a ver a PapÃ¡ acerca de los negocios? Bien, buena suerte, no creo que la contrataciÃ³n de cualquiera de manos ahora.}
+{386}{}{Si usted estÃ¡ buscando' por el alcohol, la estaciÃ³n de tren es el lugar para estar. }
+{387}{}{Vigila tus pasos por aquÃ­, amiga. Este es territorio de la Familia Wright.}
+{390}{}{Mejor serÃ¡ que te vayasâ€¦ no somos amables con los esclavistas.}
+{391}{}{No CREAS que vas a raptar a nadie por aquÃ­. Si causas un solo problema te destriparemos.}
+{392}{}{MantÃ©n las distancias, esclavista. Si tienes negocios con papÃ¡, hazlos.}
+{393}{}{Mejor serÃ¡ que no hayas traÃ­do drogas, o de lo contrario papÃ¡ te matarÃ¡. Luego, YO te matarÃ© tambiÃ©n.}
+{394}{}{Te estoy vigilando, esclavista, asÃ­ que cuidado con lo que haces, Â¿me oyes?}
+{395}{}{Si tocas a uno de los chicos, esclavista, te dispararÃ© tantas veces que volarÃ¡s fuera de tus botas.}
+{396}{}{Toca a cualquiera de esos chicos, esclavista, y te matarÃ©.}
+{397}{}{Si usted estÃ¡ buscando' por el alcohol, la estaciÃ³n de tren es el lugar para estar.}
+{398}{}{i le haces daÃ±o a un Wright, esclavista, la Familia no descansarÃ¡ hasta que te estÃ©s pudriendo en el GÃ³lgota.}
+{399}{}{Â¿EstÃ¡s aquÃ­ para ver a papÃ¡ por negocios? No creo que papÃ¡ los haga con esclavista. Mejor vete.}
+{410}{}{Mejor serÃ¡ que te vayasâ€¦ sin Ã¡nimo de ofender, pero a papÃ¡ no le gustan demasiado los tribales.}
+{411}{}{No CREAS que vas a causar problemas. Los Wright te superamos en nÃºmero porâ€¦ eh, por muchos.}
+{412}{}{MantÃ©n la distancia. Si tienes negocios que tratar, adelante.}
+{413}{}{Mejor serÃ¡ que no hayas traÃ­do drogas, o de lo contrario papÃ¡ te matarÃ¡. Luego, YO te matarÃ© tambiÃ©n.}
+{414}{}{Te estoy vigilando, asÃ­ que cuidado con lo que haces, Â¿me oyes?}
+{415}{}{Â¿De dÃ³nde eres? Hace tiempo que no veo a los de tu clase por aquÃ­.}
+{416}{}{Si usted estÃ¡ buscando' por el alcohol, la estaciÃ³n de tren es el lugar para estar.}
+{417}{}{Si le haces daÃ±o a un Wright, la Familia no descansarÃ¡ hasta que te estÃ©s pudriendo en el GÃ³lgota.}
+{418}{}{Â¿EstÃ¡s aquÃ­ para ver a papÃ¡ por negocios? Buena suerte, no creo que contrate a nadie ahora.}
+{425}{}{Ese necrÃ³fago no deberÃ­a estar aquÃ­. Mejor que lo envÃ­es de vuelta a Gecko.}
+{426}{}{Mejor que no acerques ese necrÃ³fago a los chicos. Pueden envenenarse con la radiaciÃ³n.}
+{427}{}{Te sugiero que tÃº y tu amiguito necrÃ³fago os marchÃ©is antes de que haya problemas.}
+{1204}{}{! Â¡QuÃ© forma de patear el traseroâ€¦ er, el culo del Enclave!}
 {1205}{}{. Para eso hace falta tenerlos bien puestos.}
-{1240}{}{. ¿De qué te has estado encargando?}
+{1240}{}{. Â¿De quÃ© te has estado encargando?}
 {1241}{}{?}
-{1242}{}{. ¿Cómo están las cosas?}
-{1245}{}{ ! ¡Y está armado! ¡Avisad a los demás!}
-{1250}{}{ ! ¡Y está armada! ¡Avisad a los demás!}
-{1255}{}{ , intentando ser sigiloso! ¡Avisad a los demás!}
-{1335}{}{¿Has tenido algún problema con alguien de la ciudad?}
-{1350}{}{, ¿verdad? Eres buena sobre el ring, la mejor que he visto por aquí.}
+{1242}{}{. Â¿CÃ³mo estÃ¡n las cosas?}
+{1245}{}{ ! Â¡Y estÃ¡ armado! Â¡Avisad a los demÃ¡s!}
+{1250}{}{ ! Â¡Y estÃ¡ armada! Â¡Avisad a los demÃ¡s!}
+{1255}{}{ , intentando ser sigiloso! Â¡Avisad a los demÃ¡s!}
+{1335}{}{Â¿Has tenido algÃºn problema con alguien de la ciudad?}
+{1350}{}{, Â¿verdad? Eres buena sobre el ring, la mejor que he visto por aquÃ­.}

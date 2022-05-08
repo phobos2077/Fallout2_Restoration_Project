@@ -1,1 +1,1 @@
-{100}{}{Zu¿ywasz ca³¹ puszkê spreju owadobójczego.}
+{100}{}{ZuÅ¼ywasz caÅ‚Ä… puszkÄ™ spreju owadobÃ³jczego.}

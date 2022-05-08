@@ -1,51 +1,51 @@
 {100}{}{Ves a un hombre viejo y sucio con el pelo canoso.}
 {101}{}{Es el tipo al que llaman Cecina Bob.}
-{102}{}{Sólo tiene 3 dientes y una cara por la que cruzan las pequeñas venas de un borracho. También huele mal.}
-{103}{}{¡Hola, extranjero!}
-{104}{}{¿Gruh?}
-{105}{}{¿Quién eres?}
-{106}{}{Mi nombre es Bob. Cecina Bob, sí. ¿Y el tuyo?}
-{107}{}{¿Cómo dijiste que era tu nombre, extranjero? Yo soy cecina Bob.}
+{102}{}{SÃ³lo tiene 3 dientes y una cara por la que cruzan las pequeÃ±as venas de un borracho. TambiÃ©n huele mal.}
+{103}{}{Â¡Hola, extranjero!}
+{104}{}{Â¿Gruh?}
+{105}{}{Â¿QuiÃ©n eres?}
+{106}{}{Mi nombre es Bob. Cecina Bob, sÃ­. Â¿Y el tuyo?}
+{107}{}{Â¿CÃ³mo dijiste que era tu nombre, extranjero? Yo soy cecina Bob.}
 {108}{}{[Player name]}
-{109}{}{¿Cecina? ¿Qué clase de nombre es ese?}
-{110}{}{¿Qué estás haciendo aquí?}
-{111}{}{Ese es un nombre muy bueno, sí. Esto, ¿no tendrás una bebida encima, compadre?}
-{112}{}{Sí.}
+{109}{}{Â¿Cecina? Â¿QuÃ© clase de nombre es ese?}
+{110}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{111}{}{Ese es un nombre muy bueno, sÃ­. Esto, Â¿no tendrÃ¡s una bebida encima, compadre?}
+{112}{}{SÃ­.}
 {113}{}{No.}
-{114}{}{¡Aléjate de mi, borracho apestoso!}
-{115}{}{Vale, no hace falta ponerse así. Solo quería un traguito, entiendes. Para calmarme los nervios...}
-{116}{}{¡Vaya, vaya, vaya! ¡Pero si tienes ahí un licor maravilloso! Oye, ¿por qué no compartes un poco? Sólo un traguito.}
-{117}{}{¡Bebida! ¡Bien!}
-{118}{}{¡Grrrg!}
-{119}{}{¡Calma, compadre! No puedes culpar a un hombre sólo por preguntar, ¿verdad? Te dejaré tranquilo entonces.}
-{120}{}{(Gulp, gulp, gulp) ¡Aaaahhhh! ¡Eso está muy bien por tu parte, forastero! Buena persona, sí señor. El tipo de hombre al que tener por compadre. (Gulp) ¿Te he hablado alguna vez de cuando di mi gran golpe?}
-{121}{}{¿No?}
-{122}{}{¡Oye, deja de beberte toda mi cerveza!}
-{123}{}{¡Rahhhg!}
-{124}{}{Fue allá por el 78, yo y Bessie -el mejor robot que haya tenido un hombre- buscábamos u-ra-nio al oeste de aquí. No habíamos conseguido ni una mala piedra radiactiva cuando de repente cinco -no, estoy seguro de que eran diez- Garras mortales nos saltaron encima.}
-{125}{}{Luchaban como demonios. Disparé tantas veces que el cañón de mi rifle se derritió, y ya iba a enfrentarme a ellas cuchillo contra garra cuando la vieja Bessie finalmente fundió su último circuito integrado. Bien, intenté salvarla, pero no hubo forma. Finalmente tuve que dejarlo y correr, manteniéndolas a raya a base de pedradas durante todo el camino.}
-{126}{}{Bien, las cosas pintaban mal cuando me metí dentro de aquella cueva. Estaba seguro de que me iba a convertir en fiambre. Supuse que era su madriguera, pero tomé una antorcha y entré. Buf, era una cueva profunda. Y entonces fue cuando la vi.}
-{127}{}{Era una puerta enorme, del tipo de las que se ven en las viejas cintas de vídeo. Grande y hecha de acero. ¡Y en ella estaba grabado un enorme 13!}
-{128}{}{Sabía que lo había encontrado, la veta madre, el Refugio 13. Me senté allí mismo y preparé un mapa. Casi la palmo cuando salí de allí, enfrentado a las Garras mortales y después al sol del desierto sin agua.}
-{129}{}{Con el tiempo llegué a Arenas Sombrías tambaleándome, casi muerto. Me llevaron al doctor y me parchearon, pero ese doctor me robó el mapa. Estoy seguro y eso es todo lo que tengo que decir.}
+{114}{}{Â¡AlÃ©jate de mi, borracho apestoso!}
+{115}{}{Vale, no hace falta ponerse asÃ­. Solo querÃ­a un traguito, entiendes. Para calmarme los nervios...}
+{116}{}{Â¡Vaya, vaya, vaya! Â¡Pero si tienes ahÃ­ un licor maravilloso! Oye, Â¿por quÃ© no compartes un poco? SÃ³lo un traguito.}
+{117}{}{Â¡Bebida! Â¡Bien!}
+{118}{}{Â¡Grrrg!}
+{119}{}{Â¡Calma, compadre! No puedes culpar a un hombre sÃ³lo por preguntar, Â¿verdad? Te dejarÃ© tranquilo entonces.}
+{120}{}{(Gulp, gulp, gulp) Â¡Aaaahhhh! Â¡Eso estÃ¡ muy bien por tu parte, forastero! Buena persona, sÃ­ seÃ±or. El tipo de hombre al que tener por compadre. (Gulp) Â¿Te he hablado alguna vez de cuando di mi gran golpe?}
+{121}{}{Â¿No?}
+{122}{}{Â¡Oye, deja de beberte toda mi cerveza!}
+{123}{}{Â¡Rahhhg!}
+{124}{}{Fue allÃ¡ por el 78, yo y Bessie -el mejor robot que haya tenido un hombre- buscÃ¡bamos u-ra-nio al oeste de aquÃ­. No habÃ­amos conseguido ni una mala piedra radiactiva cuando de repente cinco -no, estoy seguro de que eran diez- Garras mortales nos saltaron encima.}
+{125}{}{Luchaban como demonios. DisparÃ© tantas veces que el caÃ±Ã³n de mi rifle se derritiÃ³, y ya iba a enfrentarme a ellas cuchillo contra garra cuando la vieja Bessie finalmente fundiÃ³ su Ãºltimo circuito integrado. Bien, intentÃ© salvarla, pero no hubo forma. Finalmente tuve que dejarlo y correr, manteniÃ©ndolas a raya a base de pedradas durante todo el camino.}
+{126}{}{Bien, las cosas pintaban mal cuando me metÃ­ dentro de aquella cueva. Estaba seguro de que me iba a convertir en fiambre. Supuse que era su madriguera, pero tomÃ© una antorcha y entrÃ©. Buf, era una cueva profunda. Y entonces fue cuando la vi.}
+{127}{}{Era una puerta enorme, del tipo de las que se ven en las viejas cintas de vÃ­deo. Grande y hecha de acero. Â¡Y en ella estaba grabado un enorme 13!}
+{128}{}{SabÃ­a que lo habÃ­a encontrado, la veta madre, el Refugio 13. Me sentÃ© allÃ­ mismo y preparÃ© un mapa. Casi la palmo cuando salÃ­ de allÃ­, enfrentado a las Garras mortales y despuÃ©s al sol del desierto sin agua.}
+{129}{}{Con el tiempo lleguÃ© a Arenas SombrÃ­as tambaleÃ¡ndome, casi muerto. Me llevaron al doctor y me parchearon, pero ese doctor me robÃ³ el mapa. Estoy seguro y eso es todo lo que tengo que decir.}
 {130}{}{(Continuar)}
-{131}{}{¡Maldita sea, es un hombre bueno y honesto, eso es lo que es! Los chicos me dejan cocinar aquí y si no fueras un cabeza de chorlito lo sabrías y sabrías respetar a tus mayores.}
-{132}{}{Lo siento, viejo, no pretendía sacarte de quicio.}
-{133}{}{¡Que te den, viejo!}
-{134}{}{¿Enfadarme? ¡Enfadarme! ¡Todavía no me has visto enfadado! ¡Ahora sal de mi vista antes de que me cabree de verdad! ¡Largo! ¡Fuera!}
-{135}{}{¡Que te den a ti también! Ahora nos entendemos. ¡No aguantes chorradas de nadie, compadre! Oye, ¿no tendrás algo de licor? ¿Sólo un traguito?}
-{136}{}{Sí.}
+{131}{}{Â¡Maldita sea, es un hombre bueno y honesto, eso es lo que es! Los chicos me dejan cocinar aquÃ­ y si no fueras un cabeza de chorlito lo sabrÃ­as y sabrÃ­as respetar a tus mayores.}
+{132}{}{Lo siento, viejo, no pretendÃ­a sacarte de quicio.}
+{133}{}{Â¡Que te den, viejo!}
+{134}{}{Â¿Enfadarme? Â¡Enfadarme! Â¡TodavÃ­a no me has visto enfadado! Â¡Ahora sal de mi vista antes de que me cabree de verdad! Â¡Largo! Â¡Fuera!}
+{135}{}{Â¡Que te den a ti tambiÃ©n! Ahora nos entendemos. Â¡No aguantes chorradas de nadie, compadre! Oye, Â¿no tendrÃ¡s algo de licor? Â¿SÃ³lo un traguito?}
+{136}{}{SÃ­.}
 {137}{}{No.}
-{138}{}{¡Aléjate de mí, borracho apestoso!}
-{139}{}{¡Je, je, je! Es mía ahora, compadre. Te vas a tener que buscar otra!}
-{140}{}{El jefe me deja estar aquí. ¡Yo dirijo este establo! Limpio un poco, mantengo el lugar.}
-{141}{}{¿Cecina? ¿Qué clase de nombre es ese?}
+{138}{}{Â¡AlÃ©jate de mÃ­, borracho apestoso!}
+{139}{}{Â¡Je, je, je! Es mÃ­a ahora, compadre. Te vas a tener que buscar otra!}
+{140}{}{El jefe me deja estar aquÃ­. Â¡Yo dirijo este establo! Limpio un poco, mantengo el lugar.}
+{141}{}{Â¿Cecina? Â¿QuÃ© clase de nombre es ese?}
 {142}{}{Encantado de conocerte. Soy}
-{143}{}{Rayos y truenos, ¿otra vez tú? ¡Aparta tu flaco culo de mi vista!}
-{144}{}{¡Chúpamela!}
+{143}{}{Rayos y truenos, Â¿otra vez tÃº? Â¡Aparta tu flaco culo de mi vista!}
+{144}{}{Â¡ChÃºpamela!}
 {145}{}{Eres un tipo raro, viejo.}
-{146}{}{¡Joder, claro que lo soy! ¿No tendrás alguna bebida encima, verdad? Para un anciano.}
-{147}{}{Sí.}
+{146}{}{Â¡Joder, claro que lo soy! Â¿No tendrÃ¡s alguna bebida encima, verdad? Para un anciano.}
+{147}{}{SÃ­.}
 {148}{}{No.}
-{149}{}{Aléjate de mí, borracho apestoso!}
+{149}{}{AlÃ©jate de mÃ­, borracho apestoso!}
 {150}{}{.}

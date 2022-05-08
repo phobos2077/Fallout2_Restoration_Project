@@ -1,50 +1,50 @@
 {100}{}{Ves a tu joven primo, Nagor. No ves a su perro, Smoke, por ninguna parte.}
-{101}{}{Conoces a Nagor desde que era un bebé, y siempre le has ayudado cuando has podido.}
-{102}{}{Prima, ¡me alegro de verte! Necesito tu ayuda.}
+{101}{}{Conoces a Nagor desde que era un bebÃ©, y siempre le has ayudado cuando has podido.}
+{102}{}{Prima, Â¡me alegro de verte! Necesito tu ayuda.}
 {103}{}{Lo siento, pero ahora no tengo tiempo.}
-{104}{}{¿Con qué necesitas ayuda?}
-{105}{}{¡Entonces iré yo solo a los bosques!}
-{106}{}{Espera un momento... ¿con qué necesitabas ayuda?}
+{104}{}{Â¿Con quÃ© necesitas ayuda?}
+{105}{}{Â¡Entonces irÃ© yo solo a los bosques!}
+{106}{}{Espera un momento... Â¿con quÃ© necesitabas ayuda?}
 {107}{}{Bien, ve a buscarlo.}
-{108}{}{Smoke huyó hacia las tierras de caza y no ha vuelto y ahora Morlis no me deja ir a buscarlo. Dice que es demasiado peligroso y que es sólo un perro, pero yo iba a ir de todos modos. Pero ahora que estás aquí podrías ir tú y así no me metería en problemas.}
-{109}{}{Vale, pero ¿dónde están las tierras de caza?}
-{110}{}{Claro. Iré a buscarlo ahora mismo.}
-{111}{}{Olvídalo, ahora no tengo tiempo para esto.}
-{112}{}{¿Qué te pasa, te has golpeado en la cabeza con una piedra? Están al noroeste, más allá de la tienda de Hakunin.}
-{113}{}{Volveré con él pronto.}
-{114}{}{¿Todavía no has encontrado a Smoke?}
-{115}{}{No, todavía no. ¿Dónde dijiste que estaban las tierras de caza?}
-{116}{}{No, aún no.}
-{117}{}{¿Todavía no has encontrado a Smoke?}
-{118}{}{No, aún no. Volveré con él pronto, creo.}
-{119}{}{Lo siento, pero está muerto.}
+{108}{}{Smoke huyÃ³ hacia las tierras de caza y no ha vuelto y ahora Morlis no me deja ir a buscarlo. Dice que es demasiado peligroso y que es sÃ³lo un perro, pero yo iba a ir de todos modos. Pero ahora que estÃ¡s aquÃ­ podrÃ­as ir tÃº y asÃ­ no me meterÃ­a en problemas.}
+{109}{}{Vale, pero Â¿dÃ³nde estÃ¡n las tierras de caza?}
+{110}{}{Claro. IrÃ© a buscarlo ahora mismo.}
+{111}{}{OlvÃ­dalo, ahora no tengo tiempo para esto.}
+{112}{}{Â¿QuÃ© te pasa, te has golpeado en la cabeza con una piedra? EstÃ¡n al noroeste, mÃ¡s allÃ¡ de la tienda de Hakunin.}
+{113}{}{VolverÃ© con Ã©l pronto.}
+{114}{}{Â¿TodavÃ­a no has encontrado a Smoke?}
+{115}{}{No, todavÃ­a no. Â¿DÃ³nde dijiste que estaban las tierras de caza?}
+{116}{}{No, aÃºn no.}
+{117}{}{Â¿TodavÃ­a no has encontrado a Smoke?}
+{118}{}{No, aÃºn no. VolverÃ© con Ã©l pronto, creo.}
+{119}{}{Lo siento, pero estÃ¡ muerto.}
 {120}{}{Dices eso porque no quieres ir a buscarlo. No me importa lo que Morlis diga, voy a encontrarlo.}
-{121}{}{Nagor, ¿y qué ocurriría si te pasa algo a ti? Morlis se quedaría sola y eso la pondría realmente triste. Tú no quieres ponerla triste, ¿no?}
+{121}{}{Nagor, Â¿y quÃ© ocurrirÃ­a si te pasa algo a ti? Morlis se quedarÃ­a sola y eso la pondrÃ­a realmente triste. TÃº no quieres ponerla triste, Â¿no?}
 {122}{}{Bien, ve a buscarlo.}
-{123}{}{Bueno... no, no quiero hacerlo. Vale, no iré, ¡pero no es justo!}
-{124}{}{Smoke estará bien. Adiós.}
-{125}{}{¡Has encontrado a Smoke! ¡Gracias! Smoke, ¡perro malo!}
-{126}{}{De nada. Adiós.}
-{127}{}{Gracias de nuevo. ¡Espero que tu viaje sea verdaderamente divertido!}
-{128}{}{Hecho de menos a Smoke. ¿Por qué no pudiste salvarle? Eres la Elegida.}
+{123}{}{Bueno... no, no quiero hacerlo. Vale, no irÃ©, Â¡pero no es justo!}
+{124}{}{Smoke estarÃ¡ bien. AdiÃ³s.}
+{125}{}{Â¡Has encontrado a Smoke! Â¡Gracias! Smoke, Â¡perro malo!}
+{126}{}{De nada. AdiÃ³s.}
+{127}{}{Gracias de nuevo. Â¡Espero que tu viaje sea verdaderamente divertido!}
+{128}{}{Hecho de menos a Smoke. Â¿Por quÃ© no pudiste salvarle? Eres la Elegida.}
 {129}{}{Estoy ocupado, idiota. Ve a jugar a otro lado.}
 {130}{}{Yo marcho.}
 {131}{}{Voy a ir a por Smoke.}
-{200}{}{Hola prima... eh, quiero decir... Elegida. Espero que hayas encontrado el GECK. He oído hablar un montón de los malos tiempos que se avecinan.}
-{201}{}{Hola prima... eh, quiero decir... Elegida. Espero que hayas encontrado el GECK. He oído hablar un montón de los malos tiempos que se avecinan.}
-{202}{}{Aún yo busco, Nagor.}
-{203}{}{Todavía la estoy buscando, primo.}
-{204}{}{Bienvenido a casa, prima. Las cosas se están poniendo tensas por aquí. ¿Has encontrado el sagrado Trece y el GECK?}
-{205}{}{Bienvenido a casa, prima. Las cosas se están poniendo tensas por aquí. ¿Has encontrado el sagrado Trece y el GECK?}
+{200}{}{Hola prima... eh, quiero decir... Elegida. Espero que hayas encontrado el GECK. He oÃ­do hablar un montÃ³n de los malos tiempos que se avecinan.}
+{201}{}{Hola prima... eh, quiero decir... Elegida. Espero que hayas encontrado el GECK. He oÃ­do hablar un montÃ³n de los malos tiempos que se avecinan.}
+{202}{}{AÃºn yo busco, Nagor.}
+{203}{}{TodavÃ­a la estoy buscando, primo.}
+{204}{}{Bienvenido a casa, prima. Las cosas se estÃ¡n poniendo tensas por aquÃ­. Â¿Has encontrado el sagrado Trece y el GECK?}
+{205}{}{Bienvenido a casa, prima. Las cosas se estÃ¡n poniendo tensas por aquÃ­. Â¿Has encontrado el sagrado Trece y el GECK?}
 {206}{}{No encuentro yo. Siento.}
-{207}{}{Lo siento, Nagor. Todavía estoy buscándolo.}
-{208}{}{Hola de nuevo, prima. Seguro que te habrás dado cuenta de que aquí todo se está viniendo abajo. Por favor, encuentra el GECK. ¡Estamos desesperados!}
-{209}{}{Hola de nuevo, prima. Seguro que te habrás dado cuenta de que aquí todo se está viniendo abajo. Por favor, encuentra el GECK. ¡Estamos desesperados!}
+{207}{}{Lo siento, Nagor. TodavÃ­a estoy buscÃ¡ndolo.}
+{208}{}{Hola de nuevo, prima. Seguro que te habrÃ¡s dado cuenta de que aquÃ­ todo se estÃ¡ viniendo abajo. Por favor, encuentra el GECK. Â¡Estamos desesperados!}
+{209}{}{Hola de nuevo, prima. Seguro que te habrÃ¡s dado cuenta de que aquÃ­ todo se estÃ¡ viniendo abajo. Por favor, encuentra el GECK. Â¡Estamos desesperados!}
 {210}{}{Hola, prima.}
 {211}{}{Hola, prima.}
-{212}{}{No pareces tú misma.}
+{212}{}{No pareces tÃº misma.}
 {213}{}{No pareces la misma de siempre.}
-{214}{}{Lo siento, primo. Las cosas han ido poniéndose cada vez peor desde que te fuiste. La gente está enferma, los brahmines están muriendo y... yo... mi perro Smoke murió. Morlis lo mató para comérnoslo. Lo siento, pero no quiero seguir hablando...}
-{215}{}{Lo siento, prima. Las cosas han ido poniéndose cada vez peor desde que te fuiste. La gente está enferma, los brahmines están muriendo y... yo... mi perro Smoke murió. Morlis lo mató para comérnoslo. Lo siento, pero no quiero seguir hablando...}
+{214}{}{Lo siento, primo. Las cosas han ido poniÃ©ndose cada vez peor desde que te fuiste. La gente estÃ¡ enferma, los brahmines estÃ¡n muriendo y... yo... mi perro Smoke muriÃ³. Morlis lo matÃ³ para comÃ©rnoslo. Lo siento, pero no quiero seguir hablando...}
+{215}{}{Lo siento, prima. Las cosas han ido poniÃ©ndose cada vez peor desde que te fuiste. La gente estÃ¡ enferma, los brahmines estÃ¡n muriendo y... yo... mi perro Smoke muriÃ³. Morlis lo matÃ³ para comÃ©rnoslo. Lo siento, pero no quiero seguir hablando...}
 {300}{}{Ves a Nagor.}
-{302}{}{Prima, ¡me alegro de verte! Necesito tu ayuda.}
+{302}{}{Prima, Â¡me alegro de verte! Necesito tu ayuda.}

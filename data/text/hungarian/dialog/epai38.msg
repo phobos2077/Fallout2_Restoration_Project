@@ -7,4 +7,4 @@
 {211}{}{ fails to disable the force field.}
 {212}{}{ bekapcsolta az er?teret.}
 {213}{}{ fails to enable the force field.}
-{300}{}{Megsemmisítetted a számítógépet.}
+{300}{}{MegsemmisÃ­tetted a szÃ¡mÃ­tÃ³gÃ©pet.}

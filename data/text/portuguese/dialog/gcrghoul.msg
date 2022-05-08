@@ -1,52 +1,52 @@
-{100}{}{Você vê alguém cuja pele foi gravemente queimada.}
-{101}{}{Você vê um cidadão ghoul de Gecko.}
-{102}{}{Você vê alguém cuja pele parece ter sido queimada com radiação. Esse tanto de radiação devia
- devesse tê-lo matado, mas ele parece estar bem.}
-{110}{}{Olá. Precisa de mais suprimentos?}
-{111}{}{Se você quiser suprimentos, vai precisar de um formulário de requisição.}
-{112}{}{Se precisar de algo aqui, é melhor falar com Jeremy.}
+{100}{}{VocÃª vÃª alguÃ©m cuja pele foi gravemente queimada.}
+{101}{}{VocÃª vÃª um cidadÃ£o ghoul de Gecko.}
+{102}{}{VocÃª vÃª alguÃ©m cuja pele parece ter sido queimada com radiaÃ§Ã£o. Esse tanto de radiaÃ§Ã£o devia
+ devesse tÃª-lo matado, mas ele parece estar bem.}
+{110}{}{OlÃ¡. Precisa de mais suprimentos?}
+{111}{}{Se vocÃª quiser suprimentos, vai precisar de um formulÃ¡rio de requisiÃ§Ã£o.}
+{112}{}{Se precisar de algo aqui, Ã© melhor falar com Jeremy.}
 {113}{}{Jeremy cuida de todos os pedidos de suprimentos.}
-{114}{}{É melhor você falar com Jeremy. Ele odeia quando as pessoas pegam coisas sem ele saber.}
-{115}{}{Não posso ajudá-lo a menos que fale com Jeremy primeiro.}
-{116}{}{Fale com Jeremy. Você conhece as regras.}
-{120}{}{Acho que alguns desses medidores antigos estão quebrados.}
-{121}{}{Acabei de clicar no console para fazê-lo funcionar novamente.}
-{122}{}{Não acho que essa maquina ja funcionou bem algum dia.}
+{114}{}{Ã‰ melhor vocÃª falar com Jeremy. Ele odeia quando as pessoas pegam coisas sem ele saber.}
+{115}{}{NÃ£o posso ajudÃ¡-lo a menos que fale com Jeremy primeiro.}
+{116}{}{Fale com Jeremy. VocÃª conhece as regras.}
+{120}{}{Acho que alguns desses medidores antigos estÃ£o quebrados.}
+{121}{}{Acabei de clicar no console para fazÃª-lo funcionar novamente.}
+{122}{}{NÃ£o acho que essa maquina ja funcionou bem algum dia.}
 {123}{}{Tenho orgulho de estar trabalhando no reator.}
-{124}{}{Você se sente melhor aqui quando todos os indicadores estão vermelhos.}
-{125}{}{Espero que em breve chegue outro carregamento de urânio de Broken Hills.}
-{126}{}{Estamos começando a ficar sem urânio.}
-{127}{}{Estou controlando o poder do átomo. O que você está fazendo?}
-{128}{}{Está ficando bom e quentinho aqui.}
+{124}{}{VocÃª se sente melhor aqui quando todos os indicadores estÃ£o vermelhos.}
+{125}{}{Espero que em breve chegue outro carregamento de urÃ¢nio de Broken Hills.}
+{126}{}{Estamos comeÃ§ando a ficar sem urÃ¢nio.}
+{127}{}{Estou controlando o poder do Ã¡tomo. O que vocÃª estÃ¡ fazendo?}
+{128}{}{EstÃ¡ ficando bom e quentinho aqui.}
 {129}{}{Depois de um tempo, nem se precisa olhar para os indicadores.}
-{130}{}{Estou tão entediado - nenhum desses medidores funciona.}
+{130}{}{Estou tÃ£o entediado - nenhum desses medidores funciona.}
 {131}{}{Vazamento? Que vazamento?}
-{140}{}{Este é o melhor lugar para morar em toda Gecko.}
+{140}{}{Este Ã© o melhor lugar para morar em toda Gecko.}
 {141}{}{Nada aquece melhor esses ossos velhos do que uma boa dose de roentgens.}
-{142}{}{Mmm, é tão quentinho aqui o tempo todo. Eu amo isso.}
-{143}{}{Estou surpreso em ver você aqui, pele lisa.}
-{144}{}{A maioria dos pele lisa tem medo de um pouco de radiação.}
-{145}{}{Um dia sem vazamentos é como um dia sem sol.}
+{142}{}{Mmm, Ã© tÃ£o quentinho aqui o tempo todo. Eu amo isso.}
+{143}{}{Estou surpreso em ver vocÃª aqui, pele lisa.}
+{144}{}{A maioria dos pele lisa tem medo de um pouco de radiaÃ§Ã£o.}
+{145}{}{Um dia sem vazamentos Ã© como um dia sem sol.}
 {146}{}{Fico feliz por ter escolhido morar aqui.}
-{147}{}{Você se sente tão humilde...}
+{147}{}{VocÃª se sente tÃ£o humilde...}
 {148}{}{Sem este reator, todos aqui morreriam.}
-{149}{}{Espero que aqueles caras de Vault City não matem todos nós.}
+{149}{}{Espero que aqueles caras de Vault City nÃ£o matem todos nÃ³s.}
 {150}{}{Obrigado, obrigado, obrigado.}
 {151}{}{Obrigado por consertar nosso reator.}
-{152}{}{Nossa casa está segura agora, graças a você.}
-{153}{}{Nosso reator está ronronando como um gatinho. Obrigado.}
-{154}{}{O reator está funcionando muito melhor agora.}
-{160}{}{Não posso acreditar que Vault City nos ajudou.}
+{152}{}{Nossa casa estÃ¡ segura agora, graÃ§as a vocÃª.}
+{153}{}{Nosso reator estÃ¡ ronronando como um gatinho. Obrigado.}
+{154}{}{O reator estÃ¡ funcionando muito melhor agora.}
+{160}{}{NÃ£o posso acreditar que Vault City nos ajudou.}
 {161}{}{Obrigado por fazer nosso reator funcionar nos eixos.}
 {162}{}{Estou feliz que o reator esteja funcionando melhor.}
 {163}{}{Ultimamente tem feito bastante frio aqui.}
-{164}{}{Está mais frio aqui?}
-{170}{}{Por que diabos você está se esgueirando por aqui?}
-{171}{}{Uh, acho que você sabe que eu estou te vendo.}
-{172}{}{Você sempre anda meio estranho?}
-{173}{}{Eu pensei ter ouvido um elefante caminhando por aqui. Ah é você.}
+{164}{}{EstÃ¡ mais frio aqui?}
+{170}{}{Por que diabos vocÃª estÃ¡ se esgueirando por aqui?}
+{171}{}{Uh, acho que vocÃª sabe que eu estou te vendo.}
+{172}{}{VocÃª sempre anda meio estranho?}
+{173}{}{Eu pensei ter ouvido um elefante caminhando por aqui. Ah Ã© vocÃª.}
 {174}{}{Estamos te observando, pele lisa.}
-{175}{}{É melhor você não estar tramando algo.}
-{176}{}{Se algo der errado, sua bunda furtiva é a culpada.}
-{177}{}{Guardas! Há um pele lisa aqui tentando ser sorrateiro.}
-{178}{}{Você não deve estar tramando algo bom.}
+{175}{}{Ã‰ melhor vocÃª nÃ£o estar tramando algo.}
+{176}{}{Se algo der errado, sua bunda furtiva Ã© a culpada.}
+{177}{}{Guardas! HÃ¡ um pele lisa aqui tentando ser sorrateiro.}
+{178}{}{VocÃª nÃ£o deve estar tramando algo bom.}

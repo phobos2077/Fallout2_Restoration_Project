@@ -6,4 +6,4 @@
 {105}{}{You fail to unlock the door.}
 {106}{}{The lock is now jammed.}
 {107}{}{The door is now locked.}
-{108}{}{Nem siker¸lt bez·rnod a z·rat.}
+{108}{}{Nem siker√ºlt bez√°rnod a z√°rat.}

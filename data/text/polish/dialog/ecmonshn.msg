@@ -1,9 +1,9 @@
 {100}{}{Widzisz bimbrownika.}
-{101}{}{Sprzedajemy wy³¹cznie alkohol najwy¿szej klasy. Dasz siê skusiæ?}
-{102}{}{Tak. Poka¿ co tam masz.}
+{101}{}{Sprzedajemy wyÅ‚Ä…cznie alkohol najwyÅ¼szej klasy. Dasz siÄ™ skusiÄ‡?}
+{102}{}{Tak. PokaÅ¼ co tam masz.}
 {103}{}{Nie.}
 {104}{}{Ug.}
-{105}{}{To spadaj! Jesteœmy zajêci.}
-{106}{}{Dbamy o najlepsz¹ kombinacjê aromatów.}
+{105}{}{To spadaj! JesteÅ›my zajÄ™ci.}
+{106}{}{Dbamy o najlepszÄ… kombinacjÄ™ aromatÃ³w.}
 {107}{}{Baka. Baka BAKA!}
-{108}{}{Dziêki.}
+{108}{}{DziÄ™ki.}

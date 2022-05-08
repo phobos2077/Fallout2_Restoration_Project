@@ -1,190 +1,190 @@
-{100}{}{Ez egy pénzbedobós játékgép.}
-{101}{}{Ez egy csillogó pénzbedobós játékgép.}
-{150}{}{Ez egy pénzbedobós játékgép. Ahogy a szemed sarkából nézed, meg mernél rá esküdni, hogy téged bámul.}
-{151}{}{Ez egy pénzbedobós játékgép. Fényes doboza és aranyszín? karja csábítóan ragyog New Reno fényeiben.}
-{152}{}{Ez egy csillogó pénzbedobós játékgép. Költekez? világfiaknak szánták... a minimum tét }
-{153}{}{ dollárt kérek.}
-{154}{}{Ez egy csillogó pénzbedobós játékgép.}
-{160}{}{*Gyere, játsszunk egy kicsit, cowboy!*}
-{161}{}{*Helló, tengerész!*}
-{162}{}{*Dobj be egy érmét, és húzd meg a kart! Kedves leszek hozzád.*}
+{100}{}{Ez egy pÃ©nzbedobÃ³s jÃ¡tÃ©kgÃ©p.}
+{101}{}{Ez egy csillogÃ³ pÃ©nzbedobÃ³s jÃ¡tÃ©kgÃ©p.}
+{150}{}{Ez egy pÃ©nzbedobÃ³s jÃ¡tÃ©kgÃ©p. Ahogy a szemed sarkÃ¡bÃ³l nÃ©zed, meg mernÃ©l rÃ¡ eskÃ¼dni, hogy tÃ©ged bÃ¡mul.}
+{151}{}{Ez egy pÃ©nzbedobÃ³s jÃ¡tÃ©kgÃ©p. FÃ©nyes doboza Ã©s aranyszÃ­n? karja csÃ¡bÃ­tÃ³an ragyog New Reno fÃ©nyeiben.}
+{152}{}{Ez egy csillogÃ³ pÃ©nzbedobÃ³s jÃ¡tÃ©kgÃ©p. KÃ¶ltekez? vilÃ¡gfiaknak szÃ¡ntÃ¡k... a minimum tÃ©t }
+{153}{}{ dollÃ¡rt kÃ©rek.}
+{154}{}{Ez egy csillogÃ³ pÃ©nzbedobÃ³s jÃ¡tÃ©kgÃ©p.}
+{160}{}{*Gyere, jÃ¡tsszunk egy kicsit, cowboy!*}
+{161}{}{*HellÃ³, tengerÃ©sz!*}
+{162}{}{*Dobj be egy Ã©rmÃ©t, Ã©s hÃºzd meg a kart! Kedves leszek hozzÃ¡d.*}
 {163}{}{*Klikk... klikk... Kliiiikk...*}
-{164}{}{*Helló, szépségem. Játssz velem egy kicsit!*}
-{165}{}{*Helló, szépségem.*}
-{166}{}{*Hogy micsoda szépségek nem járnak erre! Miért nem játszol rajtam?*}
+{164}{}{*HellÃ³, szÃ©psÃ©gem. JÃ¡tssz velem egy kicsit!*}
+{165}{}{*HellÃ³, szÃ©psÃ©gem.*}
+{166}{}{*Hogy micsoda szÃ©psÃ©gek nem jÃ¡rnak erre! MiÃ©rt nem jÃ¡tszol rajtam?*}
 {175}{}{*Ding*}
 {176}{}{*Bing*}
-{177}{}{*Kattyogás*}
+{177}{}{*KattyogÃ¡s*}
 {178}{}{*Zzzzzzz*}
-{179}{}{*Csilingelés*}
+{179}{}{*CsilingelÃ©s*}
 {180}{}{*Csingi-lingi*}
-{185}{}{Egy három szemmel, egy karral megáldott, fura, aranyszín? fémdobozt látsz. Ez a legszebb valami, amit egész eddigi életedben láttál.}
-{186}{}{Én }
+{185}{}{Egy hÃ¡rom szemmel, egy karral megÃ¡ldott, fura, aranyszÃ­n? fÃ©mdobozt lÃ¡tsz. Ez a legszebb valami, amit egÃ©sz eddigi Ã©letedben lÃ¡ttÃ¡l.}
+{186}{}{Ã‰n }
 {187}{}{ ki vagyol}
-{188}{}{Mama hiányzik. }
-{189}{}{ akar ARR-YO. Én akar menni haza}
-{190}{}{(Kezet ráztok)}
-{191}{}{Te lenni fura mutáns}
-{192}{}{Dícsértesse Menelék! Dícsértesse Menelék!}
-{193}{}{Te lenni víztisztáló csip?}
-{194}{}{Továbbállsz, és más fényes dolgok után nézel.}
-{195}{}{Távozol.}
-{205}{}{A három szemmel, egy karral megáldott, fura, aranyszín? fémdoboz nem válaszol.}
-{206}{}{ÉN }
-{207}{}{ VÁLASZOJJ!}
-{208}{}{(Kezet ráztok)}
-{209}{}{Én lenni gyereke Menedéklakóé Te mostan beszélni FOGOL}
-{210}{}{Te lenni fura mutáns}
-{211}{}{Te lenni víztisztáló csip?}
-{212}{}{Továbbállsz, és más fényes dolgok után nézel.}
-{213}{}{Távozol.}
-{220}{}{Megragadod a karját, és melegen megrázod. Miközben ezt teszed, egy *bzzzzzzz* hallatszik és a doboz beszélni kezd! *Kérem... dobjon be egy érmét!"}
-{221}{}{Ajjjaaajjj! Robot! Robot! Futááláás!}
-{222}{}{Távozol.}
-{225}{}{Nincs elég pénzed, hogy játssz az automatával, és átkozni kezded a szegénységedet. Talán egy másik alkalommal...}
-{226}{}{Távozol.}
-{230}{}{Ez egy pénzbedobós játékgép. Fényes doboza és aranyszín? karja csábítóan ragyog New Reno fényeiben. A bedobónyílás hívogatóan kínálja fel magát, az arcod pedig a játék lázában ég.}
-{231}{}{(Miközben a pénzedért nyúlsz, megremeg a kezed. A gép egyre csak suttog.) *Gyerünk, édesem... ez az... ne habozz... ne incselkedj...*}
-{232}{}{(Miközben a pénzedért nyúlsz, megremeg a kezed. A gép egyre csak suttog.) *Gyerünk, kedvesem... ez az... ragadd meg a kart... jó er?sen... ne habozz...*}
-{233}{}{Összesen }
-{234}{}{ dolcsid van. Megkockáztatod mindet?}
-{235}{}{Összesen }
-{236}{}{ dollárod maradt. Bedobsz }
-{237}{}{ dollárt?}
+{188}{}{Mama hiÃ¡nyzik. }
+{189}{}{ akar ARR-YO. Ã‰n akar menni haza}
+{190}{}{(Kezet rÃ¡ztok)}
+{191}{}{Te lenni fura mutÃ¡ns}
+{192}{}{DÃ­csÃ©rtesse MenelÃ©k! DÃ­csÃ©rtesse MenelÃ©k!}
+{193}{}{Te lenni vÃ­ztisztÃ¡lÃ³ csip?}
+{194}{}{TovÃ¡bbÃ¡llsz, Ã©s mÃ¡s fÃ©nyes dolgok utÃ¡n nÃ©zel.}
+{195}{}{TÃ¡vozol.}
+{205}{}{A hÃ¡rom szemmel, egy karral megÃ¡ldott, fura, aranyszÃ­n? fÃ©mdoboz nem vÃ¡laszol.}
+{206}{}{Ã‰N }
+{207}{}{ VÃLASZOJJ!}
+{208}{}{(Kezet rÃ¡ztok)}
+{209}{}{Ã‰n lenni gyereke MenedÃ©klakÃ³Ã© Te mostan beszÃ©lni FOGOL}
+{210}{}{Te lenni fura mutÃ¡ns}
+{211}{}{Te lenni vÃ­ztisztÃ¡lÃ³ csip?}
+{212}{}{TovÃ¡bbÃ¡llsz, Ã©s mÃ¡s fÃ©nyes dolgok utÃ¡n nÃ©zel.}
+{213}{}{TÃ¡vozol.}
+{220}{}{Megragadod a karjÃ¡t, Ã©s melegen megrÃ¡zod. MikÃ¶zben ezt teszed, egy *bzzzzzzz* hallatszik Ã©s a doboz beszÃ©lni kezd! *KÃ©rem... dobjon be egy Ã©rmÃ©t!"}
+{221}{}{Ajjjaaajjj! Robot! Robot! FutÃ¡Ã¡lÃ¡Ã¡s!}
+{222}{}{TÃ¡vozol.}
+{225}{}{Nincs elÃ©g pÃ©nzed, hogy jÃ¡tssz az automatÃ¡val, Ã©s Ã¡tkozni kezded a szegÃ©nysÃ©gedet. TalÃ¡n egy mÃ¡sik alkalommal...}
+{226}{}{TÃ¡vozol.}
+{230}{}{Ez egy pÃ©nzbedobÃ³s jÃ¡tÃ©kgÃ©p. FÃ©nyes doboza Ã©s aranyszÃ­n? karja csÃ¡bÃ­tÃ³an ragyog New Reno fÃ©nyeiben. A bedobÃ³nyÃ­lÃ¡s hÃ­vogatÃ³an kÃ­nÃ¡lja fel magÃ¡t, az arcod pedig a jÃ¡tÃ©k lÃ¡zÃ¡ban Ã©g.}
+{231}{}{(MikÃ¶zben a pÃ©nzedÃ©rt nyÃºlsz, megremeg a kezed. A gÃ©p egyre csak suttog.) *GyerÃ¼nk, Ã©desem... ez az... ne habozz... ne incselkedj...*}
+{232}{}{(MikÃ¶zben a pÃ©nzedÃ©rt nyÃºlsz, megremeg a kezed. A gÃ©p egyre csak suttog.) *GyerÃ¼nk, kedvesem... ez az... ragadd meg a kart... jÃ³ er?sen... ne habozz...*}
+{233}{}{Ã–sszesen }
+{234}{}{ dolcsid van. MegkockÃ¡ztatod mindet?}
+{235}{}{Ã–sszesen }
+{236}{}{ dollÃ¡rod maradt. Bedobsz }
+{237}{}{ dollÃ¡rt?}
 {238}{}{Bedobsz }
-{239}{}{ dollárt?}
-{240}{}{Ma estére elég lesz ennyi.}
-{241}{}{Mára elég lesz.}
-{245}{}{A tárcsa elkezd pörögni, és... semmit sem nyertél.}
-{246}{}{SEMMI! SEMMI! Hallod a nevetését és elfog a düh... üvölteni kezdesz, és a kidobóknak kell lerángatni téged a gépr?l.}
-{247}{}{(A gép kuncog.) *Megkaptam, ami kijár nekem a kapcsolatunkból. Sajnálom, kedvesem. Vigyázz, nehogy fenéken billentsen a kaszinó ajtaja kifelé menet! Hahahahahahah*}
+{239}{}{ dollÃ¡rt?}
+{240}{}{Ma estÃ©re elÃ©g lesz ennyi.}
+{241}{}{MÃ¡ra elÃ©g lesz.}
+{245}{}{A tÃ¡rcsa elkezd pÃ¶rÃ¶gni, Ã©s... semmit sem nyertÃ©l.}
+{246}{}{SEMMI! SEMMI! Hallod a nevetÃ©sÃ©t Ã©s elfog a dÃ¼h... Ã¼vÃ¶lteni kezdesz, Ã©s a kidobÃ³knak kell lerÃ¡ngatni tÃ©ged a gÃ©pr?l.}
+{247}{}{(A gÃ©p kuncog.) *Megkaptam, ami kijÃ¡r nekem a kapcsolatunkbÃ³l. SajnÃ¡lom, kedvesem. VigyÃ¡zz, nehogy fenÃ©ken billentsen a kaszinÃ³ ajtaja kifelÃ© menet! Hahahahahahah*}
 {248}{}{You now have }
-{249}{}{ dolcsid maradt. Fütyülsz a veszteségre és folytatod a játékot?}
-{250}{}{Összesen }
-{251}{}{ dolcsid maradt. Mindet megkockáztatod?}
-{252}{}{Le vagy égve. Ma éjszakára kénytelen vagy abbahagyni.}
-{253}{}{Le vagy égve. Mára kénytelen vagy abbahagyni.}
-{254}{}{Ma estére elég lesz ennyi.}
-{255}{}{Mára elég lesz.}
-{260}{}{Három t?r! Visszanyerted a pénzed.}
-{261}{}{(A gép kitartóan suttog.) *Gyerünk, édesem... bárkivel megesik legalább egyszer... próbáld újra... légyszíves...*}
-{262}{}{(A gép kitartóan suttog.) *Gyerünk, kedvesem... próbáld újra... ragadd meg a kart... húzd meg... ne habozz...*}
-{263}{}{Még mindig van }
-{264}{}{ dollárod. Tovább játszol?}
-{265}{}{Még mindig van }
-{266}{}{ dollárod maradt. Folytatod a játékot?}
-{267}{}{Ma estére elég lesz ennyi.}
-{268}{}{Mára elég lesz.}
-{275}{}{Három Töltény! Megdupláztad a pénzedet!}
-{276}{}{(A gép elégedetten felsóhajt.) *Ez az, édesem... húzogasd csak a kart... gyorsabban, er?sebben, gyorsabban... ne tétovázz...*}
-{277}{}{(A gép elégedetten felnyög.) *Ez az, kedvesem... húzogasd csak a kart... gyorsabban, er?sebben, gyorsabban... ne tétovázz...*}
+{249}{}{ dolcsid maradt. FÃ¼tyÃ¼lsz a vesztesÃ©gre Ã©s folytatod a jÃ¡tÃ©kot?}
+{250}{}{Ã–sszesen }
+{251}{}{ dolcsid maradt. Mindet megkockÃ¡ztatod?}
+{252}{}{Le vagy Ã©gve. Ma Ã©jszakÃ¡ra kÃ©nytelen vagy abbahagyni.}
+{253}{}{Le vagy Ã©gve. MÃ¡ra kÃ©nytelen vagy abbahagyni.}
+{254}{}{Ma estÃ©re elÃ©g lesz ennyi.}
+{255}{}{MÃ¡ra elÃ©g lesz.}
+{260}{}{HÃ¡rom t?r! Visszanyerted a pÃ©nzed.}
+{261}{}{(A gÃ©p kitartÃ³an suttog.) *GyerÃ¼nk, Ã©desem... bÃ¡rkivel megesik legalÃ¡bb egyszer... prÃ³bÃ¡ld Ãºjra... lÃ©gyszÃ­ves...*}
+{262}{}{(A gÃ©p kitartÃ³an suttog.) *GyerÃ¼nk, kedvesem... prÃ³bÃ¡ld Ãºjra... ragadd meg a kart... hÃºzd meg... ne habozz...*}
+{263}{}{MÃ©g mindig van }
+{264}{}{ dollÃ¡rod. TovÃ¡bb jÃ¡tszol?}
+{265}{}{MÃ©g mindig van }
+{266}{}{ dollÃ¡rod maradt. Folytatod a jÃ¡tÃ©kot?}
+{267}{}{Ma estÃ©re elÃ©g lesz ennyi.}
+{268}{}{MÃ¡ra elÃ©g lesz.}
+{275}{}{HÃ¡rom TÃ¶ltÃ©ny! MegduplÃ¡ztad a pÃ©nzedet!}
+{276}{}{(A gÃ©p elÃ©gedetten felsÃ³hajt.) *Ez az, Ã©desem... hÃºzogasd csak a kart... gyorsabban, er?sebben, gyorsabban... ne tÃ©tovÃ¡zz...*}
+{277}{}{(A gÃ©p elÃ©gedetten felnyÃ¶g.) *Ez az, kedvesem... hÃºzogasd csak a kart... gyorsabban, er?sebben, gyorsabban... ne tÃ©tovÃ¡zz...*}
 {278}{}{You now have }
-{279}{}{ dollárod maradt! Tovább játszol?}
-{280}{}{Ma estére elég lesz ennyi.}
-{281}{}{Mára elég lesz.}
-{290}{}{Három Gránát! Szent Kleofás! Megtripláztad a pénzedet!}
-{291}{}{(Ahogy a pénzed megcsörren a tálcán, a gép felvisít a gyönyört?l.) *Aiiiijjjjjjjjjj! Ez az, édesem! Ó, istenem, igen! Igen! Igen, újra! Gyorsabban! Keményebben! Mire vársz?! Csináld újra!*}
-{292}{}{Ahogy a pénzed megcsörren a tálcán, a gép nyögdécsel a gyönyört?l.) *Ennnngghhhh! Ez az, kedvesem! Megfogtalak! Megfogtalak! Csináld még egyszer! Most ragadd meg keményebben! Keményebben!*}
-{293}{}{Gy?zelmi táncot lejtesz, karjaiddal a leveg?ben megrázod a csíp?det, aztán mély lélegzetet veszel és tovább játszol.}
-{294}{}{Pörögjetek gránátok! Új cip? kell a gyereknek! (Tovább játszol.)}
+{279}{}{ dollÃ¡rod maradt! TovÃ¡bb jÃ¡tszol?}
+{280}{}{Ma estÃ©re elÃ©g lesz ennyi.}
+{281}{}{MÃ¡ra elÃ©g lesz.}
+{290}{}{HÃ¡rom GrÃ¡nÃ¡t! Szent KleofÃ¡s! MegtriplÃ¡ztad a pÃ©nzedet!}
+{291}{}{(Ahogy a pÃ©nzed megcsÃ¶rren a tÃ¡lcÃ¡n, a gÃ©p felvisÃ­t a gyÃ¶nyÃ¶rt?l.) *Aiiiijjjjjjjjjj! Ez az, Ã©desem! Ã“, istenem, igen! Igen! Igen, Ãºjra! Gyorsabban! KemÃ©nyebben! Mire vÃ¡rsz?! CsinÃ¡ld Ãºjra!*}
+{292}{}{Ahogy a pÃ©nzed megcsÃ¶rren a tÃ¡lcÃ¡n, a gÃ©p nyÃ¶gdÃ©csel a gyÃ¶nyÃ¶rt?l.) *Ennnngghhhh! Ez az, kedvesem! Megfogtalak! Megfogtalak! CsinÃ¡ld mÃ©g egyszer! Most ragadd meg kemÃ©nyebben! KemÃ©nyebben!*}
+{293}{}{Gy?zelmi tÃ¡ncot lejtesz, karjaiddal a leveg?ben megrÃ¡zod a csÃ­p?det, aztÃ¡n mÃ©ly lÃ©legzetet veszel Ã©s tovÃ¡bb jÃ¡tszol.}
+{294}{}{PÃ¶rÃ¶gjetek grÃ¡nÃ¡tok! Ãšj cip? kell a gyereknek! (TovÃ¡bb jÃ¡tszol.)}
 {295}{}{You now have }
-{296}{}{ dollárod maradt. Folytatod a játékot?}
-{297}{}{Ma estére elég lesz ennyi.}
-{298}{}{Mára elég lesz.}
-{305}{}{(Ez egy pénzbedobós játékgép. Fényes doboza és aranyszín? karja csábítóan ragyog New Reno fényeiben. A bedobónyílás hívogatóan kínálja fel magát, az arcod pedig a játék lázában ég. Ahogy rábámulsz, a három ablak egyike rádkacsint. A pénzbedobó nyílásból egy fojtott hang szólal meg.) *Hallgass ide! Üdvözlünk, édesem! Nem akarsz egy lányt felvidítani?*}
-{306}{}{(Ez egy pénzbedobós játékgép. Er?s, masszív doboza és aranyszín? karja napistenként ragyog New Reno fényeiben. A bedobónyílás hívogatóan kínálja fel magát, a combod pedig egész beleremeg. Ahogy rábámulsz, a pénzbedobó nyílásból egy mély férfi hang suttog feléd.) *Még sosem láttam ilyen csinos n?t korábban. Szeretnél szerencsét próbálni?*}
-{307}{}{:: Magadba csípsz::}
+{296}{}{ dollÃ¡rod maradt. Folytatod a jÃ¡tÃ©kot?}
+{297}{}{Ma estÃ©re elÃ©g lesz ennyi.}
+{298}{}{MÃ¡ra elÃ©g lesz.}
+{305}{}{(Ez egy pÃ©nzbedobÃ³s jÃ¡tÃ©kgÃ©p. FÃ©nyes doboza Ã©s aranyszÃ­n? karja csÃ¡bÃ­tÃ³an ragyog New Reno fÃ©nyeiben. A bedobÃ³nyÃ­lÃ¡s hÃ­vogatÃ³an kÃ­nÃ¡lja fel magÃ¡t, az arcod pedig a jÃ¡tÃ©k lÃ¡zÃ¡ban Ã©g. Ahogy rÃ¡bÃ¡mulsz, a hÃ¡rom ablak egyike rÃ¡dkacsint. A pÃ©nzbedobÃ³ nyÃ­lÃ¡sbÃ³l egy fojtott hang szÃ³lal meg.) *Hallgass ide! ÃœdvÃ¶zlÃ¼nk, Ã©desem! Nem akarsz egy lÃ¡nyt felvidÃ­tani?*}
+{306}{}{(Ez egy pÃ©nzbedobÃ³s jÃ¡tÃ©kgÃ©p. Er?s, masszÃ­v doboza Ã©s aranyszÃ­n? karja napistenkÃ©nt ragyog New Reno fÃ©nyeiben. A bedobÃ³nyÃ­lÃ¡s hÃ­vogatÃ³an kÃ­nÃ¡lja fel magÃ¡t, a combod pedig egÃ©sz beleremeg. Ahogy rÃ¡bÃ¡mulsz, a pÃ©nzbedobÃ³ nyÃ­lÃ¡sbÃ³l egy mÃ©ly fÃ©rfi hang suttog felÃ©d.) *MÃ©g sosem lÃ¡ttam ilyen csinos n?t korÃ¡bban. SzeretnÃ©l szerencsÃ©t prÃ³bÃ¡lni?*}
+{307}{}{:: Magadba csÃ­psz::}
 {308}{}{Uh... hello?}
-{309}{}{::Mély lélegzetet veszel és otthagyod::}
-{315}{}{*Még mindig itt vagyok, csinibaba.* (A játékgép mélyebb hangon folytatja.) *Itt az id?, hogy belémdobj egy kis pénzt.*}
-{316}{}{*Még mindig itt vagyok, édesem.* (A játékgép mélyebb hangon folytatja.) *Szép darab egy ember vagy, hallod-e! Gyerünk! Itt az id?, hogy kis, öreg szerénységembe gyorsan belenyomass egy kis pénzt.*}
+{309}{}{::MÃ©ly lÃ©legzetet veszel Ã©s otthagyod::}
+{315}{}{*MÃ©g mindig itt vagyok, csinibaba.* (A jÃ¡tÃ©kgÃ©p mÃ©lyebb hangon folytatja.) *Itt az id?, hogy belÃ©mdobj egy kis pÃ©nzt.*}
+{316}{}{*MÃ©g mindig itt vagyok, Ã©desem.* (A jÃ¡tÃ©kgÃ©p mÃ©lyebb hangon folytatja.) *SzÃ©p darab egy ember vagy, hallod-e! GyerÃ¼nk! Itt az id?, hogy kis, Ã¶reg szerÃ©nysÃ©gembe gyorsan belenyomass egy kis pÃ©nzt.*}
 {317}{}{Kiiiiii VAGYOL?}
-{318}{}{Há' perrrsszee, hogy belléddobomm a pézt}
-{319}{}{Szerintem jobb lesz addig elmennem, amíg olyasmit nem nyomatok beléd, amit megbánnék.}
-{320}{}{::Mély lélegzetet veszel és otthagyod::}
-{325}{}{*Én vagyok az ideális férfi, akit mindig is kerestél.* (A játékgép rádkacsint.) *Adj nekem egy kis pénzt, és úgy elkényeztetlek, ahogy még férfi sosem.*}
-{326}{}{*Kedvesem, én vagyok az ideális n?, akit mindig is kerestél. Csak egy kicsit figyelj rám. Tudnál rajtam, szegény vénségemen segíteni? Rajta, csak néhány érmét dobj belém!*}
-{327}{}{Inkább csakhh bheszélgetni kén'}
-{328}{}{Há' perrrsszee, hogy belléddobomm a pézt}
-{329}{}{Szerintem jobb lesz addig elmennem, amíg olyasmit nem nyomatok beléd, amit megbánnék.}
-{330}{}{::Mély lélegzetet veszel és otthagyod::}
-{335}{}{*Hát persze, édesem, hát persze.* (A játékgép együttérz? hangon beszél hozzád.) *Mi bántja a kis buksidat?*}
-{336}{}{*Hát persze, kedvesem, hát persze.* (A játékgép együttérz? hangon beszél hozzád.) *Mi zavar téged, szépfiú?*}
-{337}{}{Mama hiányzik és ARROYO is hiányzik és én... nem találni ÉLET és... *szipogsz*}
-{338}{}{Mama hiányzik meg ARROYO veszélyben és én... nemtom merre vannak... és... *szipogsz*}
-{339}{}{Javítani kell nagy hajó.. és én nem tom hogy.. és az én, az én mamim elt?nt és... *szipogsz*}
-{340}{}{Abbahagyni játék... és mostan én csak mászkál és... aggódni, hogy vége, meg minden és... *szipogsz*}
-{341}{}{Hátcsakk azvan hogy Fallóút senem támogassa enyim 3D kártya és ojan sokk *pééézt* keelle rája k?teni *szipogsz*}
-{342}{}{Akartam én jó karakterrt de *rosszan* k?töttem pontokat elfele... és mostan fostos a karrakterem... és... *szipogsz*}
-{343}{}{beszé'getek én egy játhékgépel, rosszul áll széna}
-{344}{}{::Mély lélegzetet veszel és otthagyod::}
-{350}{}{*Ugyan, ugyan... ne fájjon ett?l a kis buksid... én majd mindent elboronálok. Gyere, hajtsd rám a fejed! Err?l van szó... Add ki magadból a feszültséget!*}
-{351}{}{*Ugyan, ugyan... ne keseredj el, édesem... én majd mindent elboronálok. Gyere, hajtsd rám azt a szép fejed! Err?l van szó... Add ki magadból a feszültséget!*}
-{352}{}{Köszi, játékgép *szipogsz* te vagyol legjobb}
-{353}{}{Teee vagyol egyedül JÓÓ szeméj akivel találkozódtam mindenki ojan ajjass és próbájja BÁNT engemet meg elveszi pénztet és... *szipogsz*}
-{354}{}{::Mély lélegzetet veszel és otthagyod::}
-{360}{}{(Megfáradt fejed a gépre hajtod.)}
-{361}{}{*Minden rendben lesz, kedvesem? Bánt, hogy ilyen állapotban kell elengednem téged.*}
-{362}{}{*Minden rendben lesz, édesem? Bánt, hogy ilyen állapotban kell elengednem téged.*}
-{363}{}{Megleszek... köszömön hogy beszété nekem, játéggép én szeret tégedet}
-{370}{}{(Mintha egy könnycsepp gördülne ki a gép egyik kis ablakán.)}
-{371}{}{*Te vagy az egyetlen h?sn?nk a gyökerek és rablók kétbites világában, }
-{372}{}{. Vigyázz magadra, kedvesem, hallod?* (Elfordul.) *Menj, miel?tt elsírom magam.*}
-{373}{}{*Te vagy az egyetlen h?sünk a gyökerek és rablók kétbites világában, }
-{374}{}{ . Édesem... édesem... vigyázz magadra, hallod?* (Elfordul.) *Menj, miel?tt elsírom magam.*}
-{375}{}{Csááááá}
-{380}{}{Ez itt egy extravagáns pénzbedobós játékgép. A minimum tét }
-{381}{}{ dollár. Fényes doboza és aranyszín? karja csábítóan ragyog New Reno fényeiben. A bedobónyílás hívogatóan kínálja fel magát, az arcod pedig a játék lázában ég.}
-{382}{}{(Miközben a pénzedért nyúlsz, megremeg a kezed. A gép egyre csak suttog.) *Gyerünk, édesem... ez az... ne habozz... ne incselkedj...*}
-{383}{}{(Miközben a pénzedért nyúlsz, megremeg a kezed. A gép egyre csak suttog.) *Gyerünk, kedvesem... ez az... ragadd meg a kart... jó er?sen... ne habozz...*}
-{384}{}{Összesen }
-{385}{}{ dollárod maradt. Mindet megkockáztatod?}
-{386}{}{Összesen }
-{387}{}{ dollárod maradt. Bedobsz }
-{388}{}{ dollárt?}
+{318}{}{HÃ¡' perrrsszee, hogy bellÃ©ddobomm a pÃ©zt}
+{319}{}{Szerintem jobb lesz addig elmennem, amÃ­g olyasmit nem nyomatok belÃ©d, amit megbÃ¡nnÃ©k.}
+{320}{}{::MÃ©ly lÃ©legzetet veszel Ã©s otthagyod::}
+{325}{}{*Ã‰n vagyok az ideÃ¡lis fÃ©rfi, akit mindig is kerestÃ©l.* (A jÃ¡tÃ©kgÃ©p rÃ¡dkacsint.) *Adj nekem egy kis pÃ©nzt, Ã©s Ãºgy elkÃ©nyeztetlek, ahogy mÃ©g fÃ©rfi sosem.*}
+{326}{}{*Kedvesem, Ã©n vagyok az ideÃ¡lis n?, akit mindig is kerestÃ©l. Csak egy kicsit figyelj rÃ¡m. TudnÃ¡l rajtam, szegÃ©ny vÃ©nsÃ©gemen segÃ­teni? Rajta, csak nÃ©hÃ¡ny Ã©rmÃ©t dobj belÃ©m!*}
+{327}{}{InkÃ¡bb csakhh bheszÃ©lgetni kÃ©n'}
+{328}{}{HÃ¡' perrrsszee, hogy bellÃ©ddobomm a pÃ©zt}
+{329}{}{Szerintem jobb lesz addig elmennem, amÃ­g olyasmit nem nyomatok belÃ©d, amit megbÃ¡nnÃ©k.}
+{330}{}{::MÃ©ly lÃ©legzetet veszel Ã©s otthagyod::}
+{335}{}{*HÃ¡t persze, Ã©desem, hÃ¡t persze.* (A jÃ¡tÃ©kgÃ©p egyÃ¼ttÃ©rz? hangon beszÃ©l hozzÃ¡d.) *Mi bÃ¡ntja a kis buksidat?*}
+{336}{}{*HÃ¡t persze, kedvesem, hÃ¡t persze.* (A jÃ¡tÃ©kgÃ©p egyÃ¼ttÃ©rz? hangon beszÃ©l hozzÃ¡d.) *Mi zavar tÃ©ged, szÃ©pfiÃº?*}
+{337}{}{Mama hiÃ¡nyzik Ã©s ARROYO is hiÃ¡nyzik Ã©s Ã©n... nem talÃ¡lni Ã‰LET Ã©s... *szipogsz*}
+{338}{}{Mama hiÃ¡nyzik meg ARROYO veszÃ©lyben Ã©s Ã©n... nemtom merre vannak... Ã©s... *szipogsz*}
+{339}{}{JavÃ­tani kell nagy hajÃ³.. Ã©s Ã©n nem tom hogy.. Ã©s az Ã©n, az Ã©n mamim elt?nt Ã©s... *szipogsz*}
+{340}{}{Abbahagyni jÃ¡tÃ©k... Ã©s mostan Ã©n csak mÃ¡szkÃ¡l Ã©s... aggÃ³dni, hogy vÃ©ge, meg minden Ã©s... *szipogsz*}
+{341}{}{HÃ¡tcsakk azvan hogy FallÃ³Ãºt senem tÃ¡mogassa enyim 3D kÃ¡rtya Ã©s ojan sokk *pÃ©Ã©Ã©zt* keelle rÃ¡ja k?teni *szipogsz*}
+{342}{}{Akartam Ã©n jÃ³ karakterrt de *rosszan* k?tÃ¶ttem pontokat elfele... Ã©s mostan fostos a karrakterem... Ã©s... *szipogsz*}
+{343}{}{beszÃ©'getek Ã©n egy jÃ¡thÃ©kgÃ©pel, rosszul Ã¡ll szÃ©na}
+{344}{}{::MÃ©ly lÃ©legzetet veszel Ã©s otthagyod::}
+{350}{}{*Ugyan, ugyan... ne fÃ¡jjon ett?l a kis buksid... Ã©n majd mindent elboronÃ¡lok. Gyere, hajtsd rÃ¡m a fejed! Err?l van szÃ³... Add ki magadbÃ³l a feszÃ¼ltsÃ©get!*}
+{351}{}{*Ugyan, ugyan... ne keseredj el, Ã©desem... Ã©n majd mindent elboronÃ¡lok. Gyere, hajtsd rÃ¡m azt a szÃ©p fejed! Err?l van szÃ³... Add ki magadbÃ³l a feszÃ¼ltsÃ©get!*}
+{352}{}{KÃ¶szi, jÃ¡tÃ©kgÃ©p *szipogsz* te vagyol legjobb}
+{353}{}{Teee vagyol egyedÃ¼l JÃ“Ã“ szemÃ©j akivel talÃ¡lkozÃ³dtam mindenki ojan ajjass Ã©s prÃ³bÃ¡jja BÃNT engemet meg elveszi pÃ©nztet Ã©s... *szipogsz*}
+{354}{}{::MÃ©ly lÃ©legzetet veszel Ã©s otthagyod::}
+{360}{}{(MegfÃ¡radt fejed a gÃ©pre hajtod.)}
+{361}{}{*Minden rendben lesz, kedvesem? BÃ¡nt, hogy ilyen Ã¡llapotban kell elengednem tÃ©ged.*}
+{362}{}{*Minden rendben lesz, Ã©desem? BÃ¡nt, hogy ilyen Ã¡llapotban kell elengednem tÃ©ged.*}
+{363}{}{Megleszek... kÃ¶szÃ¶mÃ¶n hogy beszÃ©tÃ© nekem, jÃ¡tÃ©ggÃ©p Ã©n szeret tÃ©gedet}
+{370}{}{(Mintha egy kÃ¶nnycsepp gÃ¶rdÃ¼lne ki a gÃ©p egyik kis ablakÃ¡n.)}
+{371}{}{*Te vagy az egyetlen h?sn?nk a gyÃ¶kerek Ã©s rablÃ³k kÃ©tbites vilÃ¡gÃ¡ban, }
+{372}{}{. VigyÃ¡zz magadra, kedvesem, hallod?* (Elfordul.) *Menj, miel?tt elsÃ­rom magam.*}
+{373}{}{*Te vagy az egyetlen h?sÃ¼nk a gyÃ¶kerek Ã©s rablÃ³k kÃ©tbites vilÃ¡gÃ¡ban, }
+{374}{}{ . Ã‰desem... Ã©desem... vigyÃ¡zz magadra, hallod?* (Elfordul.) *Menj, miel?tt elsÃ­rom magam.*}
+{375}{}{CsÃ¡Ã¡Ã¡Ã¡Ã¡}
+{380}{}{Ez itt egy extravagÃ¡ns pÃ©nzbedobÃ³s jÃ¡tÃ©kgÃ©p. A minimum tÃ©t }
+{381}{}{ dollÃ¡r. FÃ©nyes doboza Ã©s aranyszÃ­n? karja csÃ¡bÃ­tÃ³an ragyog New Reno fÃ©nyeiben. A bedobÃ³nyÃ­lÃ¡s hÃ­vogatÃ³an kÃ­nÃ¡lja fel magÃ¡t, az arcod pedig a jÃ¡tÃ©k lÃ¡zÃ¡ban Ã©g.}
+{382}{}{(MikÃ¶zben a pÃ©nzedÃ©rt nyÃºlsz, megremeg a kezed. A gÃ©p egyre csak suttog.) *GyerÃ¼nk, Ã©desem... ez az... ne habozz... ne incselkedj...*}
+{383}{}{(MikÃ¶zben a pÃ©nzedÃ©rt nyÃºlsz, megremeg a kezed. A gÃ©p egyre csak suttog.) *GyerÃ¼nk, kedvesem... ez az... ragadd meg a kart... jÃ³ er?sen... ne habozz...*}
+{384}{}{Ã–sszesen }
+{385}{}{ dollÃ¡rod maradt. Mindet megkockÃ¡ztatod?}
+{386}{}{Ã–sszesen }
+{387}{}{ dollÃ¡rod maradt. Bedobsz }
+{388}{}{ dollÃ¡rt?}
 {389}{}{Bedobsz }
-{390}{}{ dollárt?}
-{391}{}{Ma estére elég lesz ennyi.}
-{392}{}{Mára elég lesz.}
-{400}{}{A tárcsa elkezd pörögni, és... semmit sem nyertél.}
-{401}{}{SEMMI! SEMMI! Hallod a nevetését és elfog a düh... üvölteni kezdesz, és a kidobóknak kell lerángatni téged a gépr?l.}
-{402}{}{(A gép kuncog.) *Megkaptam, ami kijár nekem a kapcsolatunkból. Sajnálom, kedvesem. Vigyázz, nehogy fenéken billentsen a kaszinó ajtaja kifelé menet! Hahahahahahah*}
+{390}{}{ dollÃ¡rt?}
+{391}{}{Ma estÃ©re elÃ©g lesz ennyi.}
+{392}{}{MÃ¡ra elÃ©g lesz.}
+{400}{}{A tÃ¡rcsa elkezd pÃ¶rÃ¶gni, Ã©s... semmit sem nyertÃ©l.}
+{401}{}{SEMMI! SEMMI! Hallod a nevetÃ©sÃ©t Ã©s elfog a dÃ¼h... Ã¼vÃ¶lteni kezdesz, Ã©s a kidobÃ³knak kell lerÃ¡ngatni tÃ©ged a gÃ©pr?l.}
+{402}{}{(A gÃ©p kuncog.) *Megkaptam, ami kijÃ¡r nekem a kapcsolatunkbÃ³l. SajnÃ¡lom, kedvesem. VigyÃ¡zz, nehogy fenÃ©ken billentsen a kaszinÃ³ ajtaja kifelÃ© menet! Hahahahahahah*}
 {403}{}{You now have }
-{404}{}{ dolcsid maradt. Fütyülsz a veszteségre és folytatod a játékot?}
-{405}{}{Összesen }
-{406}{}{ dollárod maradt. Mindet megkockáztatod?}
-{407}{}{Kiürült a zsebed. Abba kell hagynod a játékot.}
-{408}{}{Kiürült a zsebed. Abba kell hagynod a játékot.}
-{409}{}{Ma estére elég lesz ennyi.}
-{410}{}{Mára elég lesz.}
-{415}{}{Három bomba. Visszanyerted a pénzed.}
-{416}{}{(A gép kitartóan suttog.) *Gyerünk, édesem... bárkivel megesik legalább egyszer... próbáld újra... légyszíves...*}
-{417}{}{(A gép kitartóan suttog.) *Gyerünk, kedvesem... próbáld újra... ragadd meg a kart... húzd meg... ne habozz...*}
-{418}{}{Még mindig van }
-{419}{}{ dollárod maradt. Folytatod a játékot?}
-{420}{}{Ma estére elég lesz ennyi.}
-{421}{}{Mára elég lesz.}
-{425}{}{Három Nukleáris bomba! Megdupláztad a pénzed!}
-{426}{}{(A gép elégedetten felsóhajt.) *Ez az, édesem... húzogasd csak a kart... gyorsabban, er?sebben, gyorsabban... ne tétovázz...*}
-{427}{}{(A gép elégedetten felnyög.) *Ez az, kedvesem... húzogasd csak a kart... gyorsabban, er?sebben, gyorsabban... ne tétovázz...*}
+{404}{}{ dolcsid maradt. FÃ¼tyÃ¼lsz a vesztesÃ©gre Ã©s folytatod a jÃ¡tÃ©kot?}
+{405}{}{Ã–sszesen }
+{406}{}{ dollÃ¡rod maradt. Mindet megkockÃ¡ztatod?}
+{407}{}{KiÃ¼rÃ¼lt a zsebed. Abba kell hagynod a jÃ¡tÃ©kot.}
+{408}{}{KiÃ¼rÃ¼lt a zsebed. Abba kell hagynod a jÃ¡tÃ©kot.}
+{409}{}{Ma estÃ©re elÃ©g lesz ennyi.}
+{410}{}{MÃ¡ra elÃ©g lesz.}
+{415}{}{HÃ¡rom bomba. Visszanyerted a pÃ©nzed.}
+{416}{}{(A gÃ©p kitartÃ³an suttog.) *GyerÃ¼nk, Ã©desem... bÃ¡rkivel megesik legalÃ¡bb egyszer... prÃ³bÃ¡ld Ãºjra... lÃ©gyszÃ­ves...*}
+{417}{}{(A gÃ©p kitartÃ³an suttog.) *GyerÃ¼nk, kedvesem... prÃ³bÃ¡ld Ãºjra... ragadd meg a kart... hÃºzd meg... ne habozz...*}
+{418}{}{MÃ©g mindig van }
+{419}{}{ dollÃ¡rod maradt. Folytatod a jÃ¡tÃ©kot?}
+{420}{}{Ma estÃ©re elÃ©g lesz ennyi.}
+{421}{}{MÃ¡ra elÃ©g lesz.}
+{425}{}{HÃ¡rom NukleÃ¡ris bomba! MegduplÃ¡ztad a pÃ©nzed!}
+{426}{}{(A gÃ©p elÃ©gedetten felsÃ³hajt.) *Ez az, Ã©desem... hÃºzogasd csak a kart... gyorsabban, er?sebben, gyorsabban... ne tÃ©tovÃ¡zz...*}
+{427}{}{(A gÃ©p elÃ©gedetten felnyÃ¶g.) *Ez az, kedvesem... hÃºzogasd csak a kart... gyorsabban, er?sebben, gyorsabban... ne tÃ©tovÃ¡zz...*}
 {428}{}{You now have }
-{429}{}{ dollárod maradt! Tovább játszol?}
-{430}{}{Ma estére elég lesz ennyi.}
-{431}{}{Mára elég lesz.}
-{435}{}{Három gombafelh?! Megtripláztad a pénzed!}
-{436}{}{(Ahogy a pénzed megcsörren a tálcán, a gép felvisít a gyönyört?l.) *Aiiiijjjjjjjjjj! Ez az, édesem! Ó, istenem, igen! Igen! Igen, újra! Gyorsabban! Keményebben! Mire vársz?! Csináld újra!*}
-{437}{}{Ahogy a pénzed megcsörren a tálcán, a gép nyögdécsel a gyönyört?l.) *Ennnngghhhh! Ez az, kedvesem! Megfogtalak! Megfogtalak! Csináld még egyszer! Most ragadd meg keményebben! Keményebben!*}
-{438}{}{Gy?zelmi táncot lejtesz, karjaiddal a leveg?ben megrázod a csíp?det, aztán mély lélegzetet veszel és tovább játszol.}
-{439}{}{Pörögjetek gombafelh?k! Új cip? kell a gyereknek! (Tovább játszol.)}
+{429}{}{ dollÃ¡rod maradt! TovÃ¡bb jÃ¡tszol?}
+{430}{}{Ma estÃ©re elÃ©g lesz ennyi.}
+{431}{}{MÃ¡ra elÃ©g lesz.}
+{435}{}{HÃ¡rom gombafelh?! MegtriplÃ¡ztad a pÃ©nzed!}
+{436}{}{(Ahogy a pÃ©nzed megcsÃ¶rren a tÃ¡lcÃ¡n, a gÃ©p felvisÃ­t a gyÃ¶nyÃ¶rt?l.) *Aiiiijjjjjjjjjj! Ez az, Ã©desem! Ã“, istenem, igen! Igen! Igen, Ãºjra! Gyorsabban! KemÃ©nyebben! Mire vÃ¡rsz?! CsinÃ¡ld Ãºjra!*}
+{437}{}{Ahogy a pÃ©nzed megcsÃ¶rren a tÃ¡lcÃ¡n, a gÃ©p nyÃ¶gdÃ©csel a gyÃ¶nyÃ¶rt?l.) *Ennnngghhhh! Ez az, kedvesem! Megfogtalak! Megfogtalak! CsinÃ¡ld mÃ©g egyszer! Most ragadd meg kemÃ©nyebben! KemÃ©nyebben!*}
+{438}{}{Gy?zelmi tÃ¡ncot lejtesz, karjaiddal a leveg?ben megrÃ¡zod a csÃ­p?det, aztÃ¡n mÃ©ly lÃ©legzetet veszel Ã©s tovÃ¡bb jÃ¡tszol.}
+{439}{}{PÃ¶rÃ¶gjetek gombafelh?k! Ãšj cip? kell a gyereknek! (TovÃ¡bb jÃ¡tszol.)}
 {440}{}{You now have }
-{441}{}{ dollárod maradt. Folytatod a játékot?}
-{442}{}{Ma estére elég lesz ennyi.}
-{443}{}{Mára elég lesz.}
-{1000}{}{Az esélyek nem túl rózsásak.}
-{1001}{}{Az esélyek kecsegtet?nek t?nnek.}
-{1005}{}{Nehéz lenne teljes bizonyossággal megjósolni az eredményt.}
-{1006}{}{Az esélyek hellyel-közel kecsegtet?ek.}
-{1010}{}{Az esélyek kecsegtet?nek t?nnek.}
-{1011}{}{Az esélyek nem t?nnek valami kecsegtet?nek.}
-{1015}{}{Az esélyek kecsegtet?nek t?nnek.}
-{1016}{}{Az esélyek nem t?nnek valami kecsegtet?nek.}
+{441}{}{ dollÃ¡rod maradt. Folytatod a jÃ¡tÃ©kot?}
+{442}{}{Ma estÃ©re elÃ©g lesz ennyi.}
+{443}{}{MÃ¡ra elÃ©g lesz.}
+{1000}{}{Az esÃ©lyek nem tÃºl rÃ³zsÃ¡sak.}
+{1001}{}{Az esÃ©lyek kecsegtet?nek t?nnek.}
+{1005}{}{NehÃ©z lenne teljes bizonyossÃ¡ggal megjÃ³solni az eredmÃ©nyt.}
+{1006}{}{Az esÃ©lyek hellyel-kÃ¶zel kecsegtet?ek.}
+{1010}{}{Az esÃ©lyek kecsegtet?nek t?nnek.}
+{1011}{}{Az esÃ©lyek nem t?nnek valami kecsegtet?nek.}
+{1015}{}{Az esÃ©lyek kecsegtet?nek t?nnek.}
+{1016}{}{Az esÃ©lyek nem t?nnek valami kecsegtet?nek.}

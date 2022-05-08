@@ -1,1 +1,1 @@
-{100}{}{Apuesto a que podría pasar a través de esta abertura. Se ve más gastado que los demás, y probablemente más fácil a la mermelada.}
+{100}{}{Apuesto a que podrÃ­a pasar a travÃ©s de esta abertura. Se ve mÃ¡s gastado que los demÃ¡s, y probablemente mÃ¡s fÃ¡cil a la mermelada.}

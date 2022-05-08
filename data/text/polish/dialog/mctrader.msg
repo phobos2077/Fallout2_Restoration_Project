@@ -1,28 +1,28 @@
 {100}{}{Rose robi najlepsze omlety.}
-{101}{}{Psst... Trzymaj siê z dala od braminich pulpetów.}
-{102}{}{Wpadam do Rose, kiedy tylko mam okazjê.}
-{103}{}{Jak ci smakuj¹ omlety Rose?}
-{110}{}{Czujesz coœ?}
-{111}{}{Dobry Bo¿e! Jakiego ty dezodorantu u¿ywasz?!}
-{112}{}{Stañ pod wiatr, co? Próbujê coœ zjeœæ.}
-{120}{}{Jeœli mo¿esz... Próbujê zasn¹æ.}
+{101}{}{Psst... Trzymaj siÄ™ z dala od braminich pulpetÃ³w.}
+{102}{}{Wpadam do Rose, kiedy tylko mam okazjÄ™.}
+{103}{}{Jak ci smakujÄ… omlety Rose?}
+{110}{}{Czujesz coÅ›?}
+{111}{}{Dobry BoÅ¼e! Jakiego ty dezodorantu uÅ¼ywasz?!}
+{112}{}{StaÅ„ pod wiatr, co? PrÃ³bujÄ™ coÅ› zjeÅ›Ä‡.}
+{120}{}{JeÅ›li moÅ¼esz... PrÃ³bujÄ™ zasnÄ…Ä‡.}
 {121}{}{Hej, a ty co robisz w moim pokoju ?!}
-{122}{}{Wynoœ siê!}
-{130}{}{Omlety siê skoñczy³y.}
-{131}{}{Zat³ukê tego, kto wypuœci³ jej kurczaka.}
-{132}{}{Jeœli nie ma omletów, to nie ma tu po co przychodziæ.}
-{140}{}{W ogóle nie wiem, po co sobie zawracam g³owê handlowaniem tutaj.}
+{122}{}{WynoÅ› siÄ™!}
+{130}{}{Omlety siÄ™ skoÅ„czyÅ‚y.}
+{131}{}{ZatÅ‚ukÄ™ tego, kto wypuÅ›ciÅ‚ jej kurczaka.}
+{132}{}{JeÅ›li nie ma omletÃ³w, to nie ma tu po co przychodziÄ‡.}
+{140}{}{W ogÃ³le nie wiem, po co sobie zawracam gÅ‚owÄ™ handlowaniem tutaj.}
 {141}{}{To miasto umiera.}
-{142}{}{Kiedyœ to by³a wspania³a rolnicza osada.}
-{150}{}{Dosz³y mnie s³uchy, ¿e Modoc 'zyska³o' piêkn¹ farmê na pó³nocny wschód st¹d.}
-{151}{}{Nie wiem, czy bêdê wymieniaæ siê za towar wyhodowany na Nawiedzonej Farmie.}
-{152}{}{Plony z Nawiedzonej Farmy s¹ prawdopodobnie przeklête.}
-{160}{}{Podobno wyciêli w pieñ bezbronne kobiety i dzieci.}
-{161}{}{Nie chcê handlowaæ z bezmyœlnymi mordercami.}
-{162}{}{Zbiera mi siê na hafta, jak pomyœlê o tym, co podobno tam zrobili.}
-{163}{}{Niezale¿nie od ich motywów, chyba nie bêdzie mnie ju¿ w Modoc z moim towarem.}
-{164}{}{Mieszkañcy Modoc to po prostu mordercy.}
-{170}{}{Wygl¹da na to, ¿e sprawy tutaj zaczynaj¹ w koñcu iœæ w dobr¹ stronê.}
-{171}{}{Chyba trzeba bêdzie zatrudniæ wiêksz¹ ekipê do transportu tutejszej ¿ywnoœci.}
-{172}{}{Wygl¹da na to, ¿e mimo wszystko Modoc wyjdzie na prost¹.}
+{142}{}{KiedyÅ› to byÅ‚a wspaniaÅ‚a rolnicza osada.}
+{150}{}{DoszÅ‚y mnie sÅ‚uchy, Å¼e Modoc 'zyskaÅ‚o' piÄ™knÄ… farmÄ™ na pÃ³Å‚nocny wschÃ³d stÄ…d.}
+{151}{}{Nie wiem, czy bÄ™dÄ™ wymieniaÄ‡ siÄ™ za towar wyhodowany na Nawiedzonej Farmie.}
+{152}{}{Plony z Nawiedzonej Farmy sÄ… prawdopodobnie przeklÄ™te.}
+{160}{}{Podobno wyciÄ™li w pieÅ„ bezbronne kobiety i dzieci.}
+{161}{}{Nie chcÄ™ handlowaÄ‡ z bezmyÅ›lnymi mordercami.}
+{162}{}{Zbiera mi siÄ™ na hafta, jak pomyÅ›lÄ™ o tym, co podobno tam zrobili.}
+{163}{}{NiezaleÅ¼nie od ich motywÃ³w, chyba nie bÄ™dzie mnie juÅ¼ w Modoc z moim towarem.}
+{164}{}{MieszkaÅ„cy Modoc to po prostu mordercy.}
+{170}{}{WyglÄ…da na to, Å¼e sprawy tutaj zaczynajÄ… w koÅ„cu iÅ›Ä‡ w dobrÄ… stronÄ™.}
+{171}{}{Chyba trzeba bÄ™dzie zatrudniÄ‡ wiÄ™kszÄ… ekipÄ™ do transportu tutejszej Å¼ywnoÅ›ci.}
+{172}{}{WyglÄ…da na to, Å¼e mimo wszystko Modoc wyjdzie na prostÄ….}
 {500}{}{Widzisz handlarza.}

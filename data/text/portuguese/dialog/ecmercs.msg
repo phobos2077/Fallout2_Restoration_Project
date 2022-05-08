@@ -1,6 +1,6 @@
-{100}{}{Você vê um mercenário.}
-{101}{}{Tempo de prática, meninos!}
-{102}{}{Alvo fácil.}
+{100}{}{VocÃª vÃª um mercenÃ¡rio.}
+{101}{}{Tempo de prÃ¡tica, meninos!}
+{102}{}{Alvo fÃ¡cil.}
 {103}{}{Corre...eu gosto de alvos em movimento.}
 {104}{}{Zona de morte!}
 {105}{}{Contacto hostil confirmado.}

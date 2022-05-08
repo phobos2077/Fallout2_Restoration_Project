@@ -1,1 +1,1 @@
-{100}{}{Uda³o ci siê zdobyæ motywator K-9.}
+{100}{}{UdaÅ‚o ci siÄ™ zdobyÄ‡ motywator K-9.}

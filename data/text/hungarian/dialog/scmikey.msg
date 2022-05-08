@@ -1,22 +1,22 @@
-{100}{}{Egy jól öltözött, gyík-kebabbal házaló fickót látsz.}
-{101}{}{Ez az ember nyársas-gyíkot árul.}
-{102}{}{Egy nyársas-gyík árushoz képest ennek a fickónak van stílusa. Ápolt, jól öltözött, és egy takaros, makulátlan tisztaságú árusító helyet tart fenn.}
-{103}{}{Éhes vagy, idegen? Nálam kapható a környék legjobb gyíkja. Kérdezz meg csak bárkit!}
+{100}{}{Egy jÃ³l Ã¶ltÃ¶zÃ¶tt, gyÃ­k-kebabbal hÃ¡zalÃ³ fickÃ³t lÃ¡tsz.}
+{101}{}{Ez az ember nyÃ¡rsas-gyÃ­kot Ã¡rul.}
+{102}{}{Egy nyÃ¡rsas-gyÃ­k Ã¡rushoz kÃ©pest ennek a fickÃ³nak van stÃ­lusa. Ãpolt, jÃ³l Ã¶ltÃ¶zÃ¶tt, Ã©s egy takaros, makulÃ¡tlan tisztasÃ¡gÃº Ã¡rusÃ­tÃ³ helyet tart fenn.}
+{103}{}{Ã‰hes vagy, idegen? NÃ¡lam kaphatÃ³ a kÃ¶rnyÃ©k legjobb gyÃ­kja. KÃ©rdezz meg csak bÃ¡rkit!}
 {104}{}{Mit adhatok?}
-{105}{}{Aggyá' hús!}
-{106}{}{Kérek egy gyíkot.}
-{107}{}{Mit tud mondani err?l a városról?}
-{108}{}{Viszlát!}
-{109}{}{Jó étvágyat, idegen!}
-{110}{}{Ott van mustár és hagyma.}
-{111}{}{Hé, haver!}
-{112}{}{Aha, üdv!}
-{113}{}{Következ?!}
+{105}{}{AggyÃ¡' hÃºs!}
+{106}{}{KÃ©rek egy gyÃ­kot.}
+{107}{}{Mit tud mondani err?l a vÃ¡rosrÃ³l?}
+{108}{}{ViszlÃ¡t!}
+{109}{}{JÃ³ Ã©tvÃ¡gyat, idegen!}
+{110}{}{Ott van mustÃ¡r Ã©s hagyma.}
+{111}{}{HÃ©, haver!}
+{112}{}{Aha, Ã¼dv!}
+{113}{}{KÃ¶vetkez?!}
 {114}{}{Look, I got a rule. I don't say nothing about nobody. It's a good rule, because if I keep my mouth shut, I keep out of trouble. Capiche?}
-{115}{}{Nem hallok semmit, nem látok semmit, de leginkább nem mondok semmit. Most pedig, ne nyaggass ezzel többet!}
-{116}{}{Rendben. Az a helyzet, hogy éhes vagyok.}
-{117}{}{Nincs egy ÉLETED?}
+{115}{}{Nem hallok semmit, nem lÃ¡tok semmit, de leginkÃ¡bb nem mondok semmit. Most pedig, ne nyaggass ezzel tÃ¶bbet!}
+{116}{}{Rendben. Az a helyzet, hogy Ã©hes vagyok.}
+{117}{}{Nincs egy Ã‰LETED?}
 {118}{}{Sorry for troubling you, Christ!}
-{119}{}{ÉLET? A pokolba is, ez egy nagyon régi történet. Nyilván a békebeli Édenkert Létrehozást El?segít? Táskára gondolsz. Volt egy - úgy értem, a nagyszüleinknek volt egy. Akkor használták, amikor kijöttek a 15-ös Menedékb?l. Azt mondják, ezt a helyet azzal hozták létre. Mostanra már hírmondója sincs.}
-{120}{}{Még mindig éhes vagyok.}
-{121}{}{Sokra ugyan nem mentem ezzel, de azért kösz...}
+{119}{}{Ã‰LET? A pokolba is, ez egy nagyon rÃ©gi tÃ¶rtÃ©net. NyilvÃ¡n a bÃ©kebeli Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡ra gondolsz. Volt egy - Ãºgy Ã©rtem, a nagyszÃ¼leinknek volt egy. Akkor hasznÃ¡ltÃ¡k, amikor kijÃ¶ttek a 15-Ã¶s MenedÃ©kb?l. Azt mondjÃ¡k, ezt a helyet azzal hoztÃ¡k lÃ©tre. Mostanra mÃ¡r hÃ­rmondÃ³ja sincs.}
+{120}{}{MÃ©g mindig Ã©hes vagyok.}
+{121}{}{Sokra ugyan nem mentem ezzel, de azÃ©rt kÃ¶sz...}

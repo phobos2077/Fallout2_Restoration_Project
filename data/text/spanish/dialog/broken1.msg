@@ -1,1 +1,1 @@
-{100}{}{Has llegado al pequeño pueblo de Broken Hills.}
+{100}{}{Has llegado al pequeÃ±o pueblo de Broken Hills.}

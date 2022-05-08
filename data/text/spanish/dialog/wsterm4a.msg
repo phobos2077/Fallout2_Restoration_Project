@@ -5,7 +5,7 @@
                                              Acceso Denegado}
 {104}{}{}
 {105}{}{Salir.}
-{106}{}{¡Error!  --  No hay ficheros  --  Por favor reinicie}
+{106}{}{Â¡Error!  --  No hay ficheros  --  Por favor reinicie}
 {107}{}{}
 {108}{}{}
 {109}{}{Salir.}

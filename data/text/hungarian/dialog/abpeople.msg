@@ -8,15 +8,15 @@
 {107}{}{You really showed those Enclave bastards!}
 {108}{}{You are truly a hero!}
 {109}{}{I've heard that you destroyed the Enclave, well done!}
-{110}{}{Helló!}
+{110}{}{HellÃ³!}
 {111}{}{I hope that it starts to rain soon, or my crops will not survive.}
 {112}{}{We don't get too many visitors here.}
-{113}{}{Üdvözöllek!}
+{113}{}{ÃœdvÃ¶zÃ¶llek!}
 {114}{}{Yeah, I know. It's pretty boring here, but at least we're safe from raiders and such...}
 {115}{}{Hi, tribal.}
 {116}{}{It sure is a hot day today!}
 {117}{}{Good farming grounds here...}
-{118}{}{Legyen jó napod!}
+{118}{}{Legyen jÃ³ napod!}
 {119}{}{Welcome to the Abbey, wanderer!}
 {120}{}{Impressive monastery we have here, eh?}
 {200}{}{Get your freaking hands off me!}

@@ -14,13 +14,13 @@
 {210}{}{(Suddenly you feel like shit, then your vision begins to blur. You fall on the ground...)}
 {211}{}{[DONE]}
 {212}{}{No, Sorry.}
-{213}{}{Helló!}
+{213}{}{HellÃ³!}
 {214}{}{Hi and bye.}
 {215}{}{This one won't be free. It'll cost you $20.}
 {216}{}{Sure. Here's the money.}
 {217}{}{Nah, I've had enough. Maybe next time.}
 {218}{}{(He pockets the money.) Alright then, here's the drink.}
-{219}{}{Ha meglesz a pénz, visszajövök.}
+{219}{}{Ha meglesz a pÃ©nz, visszajÃ¶vÃ¶k.}
 {220}{}{Any luck finding a lighter?}
 {250}{}{I would like to buy some of the alcohol you make here.}
 {251}{}{Just looking around. Take care.}

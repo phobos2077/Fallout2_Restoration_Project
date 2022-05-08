@@ -1,17 +1,17 @@
-{100}{}{Egy b?rp·ncÈlt visel? fÈrfit l·tsz.}
+{100}{}{Egy b?rp√°nc√©lt visel? f√©rfit l√°tsz.}
 {101}{}{Kaga.}
-{102}{}{B?rp·ncÈlt visel, Ès van egy nagyon idegesÌt? szok·sa: harmadik szemÈlyben beszÈl saj·t mag·rÛl.}
-{103}{}{Ez lesz az utolsÛ alkalom, hogy Kaga tal·lkozott veled.}
+{102}{}{B?rp√°nc√©lt visel, √©s van egy nagyon ideges√≠t? szok√°sa: harmadik szem√©lyben besz√©l saj√°t mag√°r√≥l.}
+{103}{}{Ez lesz az utols√≥ alkalom, hogy Kaga tal√°lkozott veled.}
 {104}{}{After Kaga kill you, he will burn Arroyo to the ground.}
-{105}{}{…rezd Kaga haragj·t!}
-{106}{}{…n vagyok a nagy Kaga!}
-{107}{}{Kag·t mindenki rettegi!}
-{108}{}{Kaga megtartja a fejedet trÛfeakÈnt.}
-{109}{}{Add meg magad, Ès a hal·lod gyors lesz.}
-{110}{}{Kaga visszatÈr!}
-{111}{}{Nem ˆlheted meg a nagy Kag·t!}
-{112}{}{SzerencsÈs vagy, hogy Kag·nak m·shol van dolga.}
-{113}{}{Kaga majd ˙jra tal·lkozni fog veled.}
+{105}{}{√ârezd Kaga haragj√°t!}
+{106}{}{√ân vagyok a nagy Kaga!}
+{107}{}{Kag√°t mindenki rettegi!}
+{108}{}{Kaga megtartja a fejedet tr√≥feak√©nt.}
+{109}{}{Add meg magad, √©s a hal√°lod gyors lesz.}
+{110}{}{Kaga visszat√©r!}
+{111}{}{Nem √∂lheted meg a nagy Kag√°t!}
+{112}{}{Szerencs√©s vagy, hogy Kag√°nak m√°shol van dolga.}
+{113}{}{Kaga majd √∫jra tal√°lkozni fog veled.}
 {120}{}{It's that Kaga guy again.}
 {150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One? Ha! You think being the grandchild of the Vault Dweller makes you special?! You think you are better than I, Kaga the Great?!}
 {151}{}{Well, I AM the Chosen One, aren't I?}

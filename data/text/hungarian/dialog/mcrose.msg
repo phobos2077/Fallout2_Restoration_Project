@@ -1,79 +1,79 @@
 {100}{}{You see a pleasantly plump woman.}
 {101}{}{You see Rose.}
-{102}{}{A haja laza kontyba van kötve és enyhén riszálja magát járás közben. Nem tehetsz róla, de nyugodtság száll meg a közelében.}
-{150}{}{Elnézést, zárva vagyunk. Haláleset történt a családban. [szipog]}
-{151}{}{Hé! Itt csakis én turkálhatok a talált tárgyak között.}
+{102}{}{A haja laza kontyba van kÃ¶tve Ã©s enyhÃ©n riszÃ¡lja magÃ¡t jÃ¡rÃ¡s kÃ¶zben. Nem tehetsz rÃ³la, de nyugodtsÃ¡g szÃ¡ll meg a kÃ¶zelÃ©ben.}
+{150}{}{ElnÃ©zÃ©st, zÃ¡rva vagyunk. HalÃ¡leset tÃ¶rtÃ©nt a csalÃ¡dban. [szipog]}
+{151}{}{HÃ©! Itt csakis Ã©n turkÃ¡lhatok a talÃ¡lt tÃ¡rgyak kÃ¶zÃ¶tt.}
 {152}{}{Kezdem azt hinni, hogy tolvajjal van dolgom!}
 {153}{}{Tolvaj! Tolvaj! Tolvaj!}
-{154}{}{Legyen üdvözölve Rose Panziójában. Csak nem maga az jó kötés? fiatalember? Mit tehet ma Rose magáért?}
-{155}{}{Legyen üdvözölve Rose Panziójában. Milyen csinos, fiatal hölgyhöz van szerencsém! Mit tehet ma Rose kegyedért?}
-{156}{}{Éhezem! Milyen ennivalója van?}
-{157}{}{Szeretnék szobát bérelni éjszakára.}
-{158}{}{Biztos a fülébe jut ez meg az errefelé. Nem bánná, ha feltennék néhány kérdést?}
-{159}{}{[Többször egymásután a szádra mutatsz.]}
-{160}{}{Örülök, hogy újra látom. Segíthetek valamiben?}
-{165}{}{[Ó, egek, hát maga az? Mindenki csak arról beszél, hogy az életét kockáztatta értünk, és megoldotta a Kísértetfarm rejtélyét. Tudja meg, hogy mindig örömmel látott vendég lesz nálunk, és minden kedvencét megf?zzük. A talált tárgyak között is nyugodtan turkálhat, ha talál valami jó dolgot, nyugodtan tegye el! Az a jutalma.}
-{166}{}{A modoci h?s! Üdvözlet nálunk!}
-{167}{}{Most igazán el tudnék képzelni egy omlettet, amit ön készít.}
-{168}{}{Zene füleimnek. Egy fejl?désben lév? fiatalembernek er?re van szüksége, és látom, hogy mostanában nem evett rendesen. Üljön csak le, és fussa át az étlapot.}
-{169}{}{Pedig kéne. Mikor evett utoljára egy rendeset, kisasszony? Olyan vékony, mint egy piszkafa. Nézze csak át az étlapot, és mondja el Rose-nak, mire fájna a foga.}
-{170}{}{Brahmin gombóc. [5$]}
+{154}{}{Legyen Ã¼dvÃ¶zÃ¶lve Rose PanziÃ³jÃ¡ban. Csak nem maga az jÃ³ kÃ¶tÃ©s? fiatalember? Mit tehet ma Rose magÃ¡Ã©rt?}
+{155}{}{Legyen Ã¼dvÃ¶zÃ¶lve Rose PanziÃ³jÃ¡ban. Milyen csinos, fiatal hÃ¶lgyhÃ¶z van szerencsÃ©m! Mit tehet ma Rose kegyedÃ©rt?}
+{156}{}{Ã‰hezem! Milyen ennivalÃ³ja van?}
+{157}{}{SzeretnÃ©k szobÃ¡t bÃ©relni Ã©jszakÃ¡ra.}
+{158}{}{Biztos a fÃ¼lÃ©be jut ez meg az errefelÃ©. Nem bÃ¡nnÃ¡, ha feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{159}{}{[TÃ¶bbszÃ¶r egymÃ¡sutÃ¡n a szÃ¡dra mutatsz.]}
+{160}{}{Ã–rÃ¼lÃ¶k, hogy Ãºjra lÃ¡tom. SegÃ­thetek valamiben?}
+{165}{}{[Ã“, egek, hÃ¡t maga az? Mindenki csak arrÃ³l beszÃ©l, hogy az Ã©letÃ©t kockÃ¡ztatta Ã©rtÃ¼nk, Ã©s megoldotta a KÃ­sÃ©rtetfarm rejtÃ©lyÃ©t. Tudja meg, hogy mindig Ã¶rÃ¶mmel lÃ¡tott vendÃ©g lesz nÃ¡lunk, Ã©s minden kedvencÃ©t megf?zzÃ¼k. A talÃ¡lt tÃ¡rgyak kÃ¶zÃ¶tt is nyugodtan turkÃ¡lhat, ha talÃ¡l valami jÃ³ dolgot, nyugodtan tegye el! Az a jutalma.}
+{166}{}{A modoci h?s! ÃœdvÃ¶zlet nÃ¡lunk!}
+{167}{}{Most igazÃ¡n el tudnÃ©k kÃ©pzelni egy omlettet, amit Ã¶n kÃ©szÃ­t.}
+{168}{}{Zene fÃ¼leimnek. Egy fejl?dÃ©sben lÃ©v? fiatalembernek er?re van szÃ¼ksÃ©ge, Ã©s lÃ¡tom, hogy mostanÃ¡ban nem evett rendesen. ÃœljÃ¶n csak le, Ã©s fussa Ã¡t az Ã©tlapot.}
+{169}{}{Pedig kÃ©ne. Mikor evett utoljÃ¡ra egy rendeset, kisasszony? Olyan vÃ©kony, mint egy piszkafa. NÃ©zze csak Ã¡t az Ã©tlapot, Ã©s mondja el Rose-nak, mire fÃ¡jna a foga.}
+{170}{}{Brahmin gombÃ³c. [5$]}
 {171}{}{Puszta omlett. [25$]}
-{172}{}{Víz. [1000$]}
+{172}{}{VÃ­z. [1000$]}
 {173}{}{Brahmin szendvics. [5$]}
 {174}{}{Canis burger [7$]}
-{175}{}{Birkapörkölt. [3$]}
-{176}{}{Köszönöm, most nem vagyok éhes.}
-{177}{}{Óh, igazán sajnálom, de nincs elég pénze. Miért nem jön vissza kés?bb?}
-{178}{}{Fenébe, éhezem! Talán valami olcsóbb is megteszi...}
-{179}{}{Várjon! Kérdezhetnék egyet s mást?}
-{180}{}{Látom akar még enni. Csak nem tényleg ízlik a f?ztöm? Ellenben, mivel maga tartja a rekordot, addig nem tarthatunk új versenyt, amíg valaki újra meg nem dönti.}
-{181}{}{Akkor legyen a Brahmin gombóc. Van nálunk egy verseny, ki eszi meg egyszerre a legtöbb brahmin gombócot. A jelenlegi rekord 36 darab. Ha megdönti a rekordot, nem kell kifizetnie. Úgy t?nik, simán meg tudná dönteni a rekordot. Egy próbát esetleg?}
-{182}{}{Rendben, hajlandó vagyok fizetni, hogy ehessek a remekbeszabott sült brahminheréjéb?l.}
-{183}{}{Olyan éhes vagyok, hogy valószín?leg megduplázom azt a számot. Na, hadd szóljon!}
-{184}{}{Kösz nem. Csak egy kört, ha lehet.}
-{185}{}{Ó, ez aztán valami. Minden kör tíz darabból áll. A pénzt el?re kérem. Ha megd?l a rekord, azonnal fizetek. Az els? menetre húsz dollárt kérek.}
-{186}{}{Nincs annyi nálam. Nem értem, miért nem próbálok máskor rekordot dönteni... Köszönöm, csak egy kör lesz.}
-{187}{}{Hogyne, visszahozom, amint megdöntöttem a rekordot.}
-{188}{}{[Rose elveszi a pénzt és egy nagy tál Brahmin gombóccal tér vissza. Nem egészen úgy néznek ki, mint azt vártad. Nagyjából golflabda méret?ek, kelttésztába vannak tekerve, és olajban mély, aranyszín?re sütve. Húzódozva bekapsz egyet bel?lük, és felragyog a szemed. Ez finom! Egyb?l nekifogsz az evésnek.] }
-{189}{}{[Nagyjából a 34. gombóc tájékán kezd tele lenni a hasad. Egész szép kis tömeg gy?lt össze közben, hogy szemtanúja legyen a történelmi eseménynek, amint a régi rekord épp megd?l. Azért, hogy ejt?zz kicsit, beszélgetésbe elegyedsz Rose-zal.]}
-{190}{}{[Szádba helyezel egyet.] 'Na'on ..jó mm'ze van...' Ne beszéljen teli szájjal, kedveském. [Nyelsz egyet.]}
-{191}{}{Ez hogy készül? Már ha nem titok vagy ilyesmi. Szerintem otthon jónéhányan odalennének érte.}
-{192}{}{Óh, ez egyáltalán nem titok. Csak kelttésztába kell tekerni, sót szórok rá, és zsírban ki kell sütni. [Egy újabb darabot veszel a szádba.]}
-{193}{}{Hogy készíti el? a brahmin húst? Olyan sajátos red?i vannak. [Megint a szádba teszel egy darabot. Nagyon finom!]}
-{194}{}{Megvan a harminchetedik! Megd?lt a rekord! [A tömeg üdvrivalgásban tör ki!]}
-{195}{}{[Úgy érzed, nem neked áll a zászló, ezért gyorsan bekapsz még egyet.]}
-{196}{}{[A tömeg kórusban kiáltja: "38"] Szóval az adja a különleges ízét, hogy az él? brahminról szedheti le. Csak megragadja a heréjét, és egy nyisszantással lejön négy. Vigyázni kell azért, a brahmin ilyenkor eléggé felb?szül.}
-{197}{}{[A 38. brahmin gombóc - mit tesz isten - nemigen akaródzik lemenni.]}
-{198}{}{Ezt az egyet nem tudjuk beleszámolni, de a 37-el így is megdöntötte a rekordot.}
-{199}{}{[Rosszullét kerülget.]}
-{200}{}{Ah, ez a specialitásom. Remélem, éhes. Garantálom, hogy ilyen omlettet sehol nem ehet. [Kimegy, majd visszajön a valaha látott legbrutálisabb omlettel.]}
-{201}{}{[A kiadós étel után mintha újjáéledtél volna.]}
-{202}{}{[A n? sietve elt?nik a pult mögött és hamarosan visszatér a rendeléssel.]}
-{203}{}{Feltehetnék egy-két futó kérdést?}
-{204}{}{Sajnálom, édes, nagyon elfoglal a vendégek kiszolgálása. Ha rendelne valamit, talán lenne id?m egy kis beszélgetésre is.}
-{205}{}{Ami azt illeti, valósággal éhezem. Milyen ennivalója van?}
-{206}{}{Persze, de gyorsan, kedves! Nem akarom megvárakoztatni a vendégeket.}
-{207}{}{Tudna valamit mondani Cornelius elt?nt órájáról?}
-{208}{}{Tud valamit egy bizonyos ÉLET-r?l?}
-{209}{}{Mit tud a Kísértetfarmról?}
-{210}{}{Még sosem láttam ekkora omlettet. Miféle állat rak ekkora tojást?}
+{175}{}{BirkapÃ¶rkÃ¶lt. [3$]}
+{176}{}{KÃ¶szÃ¶nÃ¶m, most nem vagyok Ã©hes.}
+{177}{}{Ã“h, igazÃ¡n sajnÃ¡lom, de nincs elÃ©g pÃ©nze. MiÃ©rt nem jÃ¶n vissza kÃ©s?bb?}
+{178}{}{FenÃ©be, Ã©hezem! TalÃ¡n valami olcsÃ³bb is megteszi...}
+{179}{}{VÃ¡rjon! KÃ©rdezhetnÃ©k egyet s mÃ¡st?}
+{180}{}{LÃ¡tom akar mÃ©g enni. Csak nem tÃ©nyleg Ã­zlik a f?ztÃ¶m? Ellenben, mivel maga tartja a rekordot, addig nem tarthatunk Ãºj versenyt, amÃ­g valaki Ãºjra meg nem dÃ¶nti.}
+{181}{}{Akkor legyen a Brahmin gombÃ³c. Van nÃ¡lunk egy verseny, ki eszi meg egyszerre a legtÃ¶bb brahmin gombÃ³cot. A jelenlegi rekord 36 darab. Ha megdÃ¶nti a rekordot, nem kell kifizetnie. Ãšgy t?nik, simÃ¡n meg tudnÃ¡ dÃ¶nteni a rekordot. Egy prÃ³bÃ¡t esetleg?}
+{182}{}{Rendben, hajlandÃ³ vagyok fizetni, hogy ehessek a remekbeszabott sÃ¼lt brahminherÃ©jÃ©b?l.}
+{183}{}{Olyan Ã©hes vagyok, hogy valÃ³szÃ­n?leg megduplÃ¡zom azt a szÃ¡mot. Na, hadd szÃ³ljon!}
+{184}{}{KÃ¶sz nem. Csak egy kÃ¶rt, ha lehet.}
+{185}{}{Ã“, ez aztÃ¡n valami. Minden kÃ¶r tÃ­z darabbÃ³l Ã¡ll. A pÃ©nzt el?re kÃ©rem. Ha megd?l a rekord, azonnal fizetek. Az els? menetre hÃºsz dollÃ¡rt kÃ©rek.}
+{186}{}{Nincs annyi nÃ¡lam. Nem Ã©rtem, miÃ©rt nem prÃ³bÃ¡lok mÃ¡skor rekordot dÃ¶nteni... KÃ¶szÃ¶nÃ¶m, csak egy kÃ¶r lesz.}
+{187}{}{Hogyne, visszahozom, amint megdÃ¶ntÃ¶ttem a rekordot.}
+{188}{}{[Rose elveszi a pÃ©nzt Ã©s egy nagy tÃ¡l Brahmin gombÃ³ccal tÃ©r vissza. Nem egÃ©szen Ãºgy nÃ©znek ki, mint azt vÃ¡rtad. NagyjÃ¡bÃ³l golflabda mÃ©ret?ek, kelttÃ©sztÃ¡ba vannak tekerve, Ã©s olajban mÃ©ly, aranyszÃ­n?re sÃ¼tve. HÃºzÃ³dozva bekapsz egyet bel?lÃ¼k, Ã©s felragyog a szemed. Ez finom! Egyb?l nekifogsz az evÃ©snek.] }
+{189}{}{[NagyjÃ¡bÃ³l a 34. gombÃ³c tÃ¡jÃ©kÃ¡n kezd tele lenni a hasad. EgÃ©sz szÃ©p kis tÃ¶meg gy?lt Ã¶ssze kÃ¶zben, hogy szemtanÃºja legyen a tÃ¶rtÃ©nelmi esemÃ©nynek, amint a rÃ©gi rekord Ã©pp megd?l. AzÃ©rt, hogy ejt?zz kicsit, beszÃ©lgetÃ©sbe elegyedsz Rose-zal.]}
+{190}{}{[SzÃ¡dba helyezel egyet.] 'Na'on ..jÃ³ mm'ze van...' Ne beszÃ©ljen teli szÃ¡jjal, kedveskÃ©m. [Nyelsz egyet.]}
+{191}{}{Ez hogy kÃ©szÃ¼l? MÃ¡r ha nem titok vagy ilyesmi. Szerintem otthon jÃ³nÃ©hÃ¡nyan odalennÃ©nek Ã©rte.}
+{192}{}{Ã“h, ez egyÃ¡ltalÃ¡n nem titok. Csak kelttÃ©sztÃ¡ba kell tekerni, sÃ³t szÃ³rok rÃ¡, Ã©s zsÃ­rban ki kell sÃ¼tni. [Egy Ãºjabb darabot veszel a szÃ¡dba.]}
+{193}{}{Hogy kÃ©szÃ­ti el? a brahmin hÃºst? Olyan sajÃ¡tos red?i vannak. [Megint a szÃ¡dba teszel egy darabot. Nagyon finom!]}
+{194}{}{Megvan a harminchetedik! Megd?lt a rekord! [A tÃ¶meg Ã¼dvrivalgÃ¡sban tÃ¶r ki!]}
+{195}{}{[Ãšgy Ã©rzed, nem neked Ã¡ll a zÃ¡szlÃ³, ezÃ©rt gyorsan bekapsz mÃ©g egyet.]}
+{196}{}{[A tÃ¶meg kÃ³rusban kiÃ¡ltja: "38"] SzÃ³val az adja a kÃ¼lÃ¶nleges Ã­zÃ©t, hogy az Ã©l? brahminrÃ³l szedheti le. Csak megragadja a herÃ©jÃ©t, Ã©s egy nyisszantÃ¡ssal lejÃ¶n nÃ©gy. VigyÃ¡zni kell azÃ©rt, a brahmin ilyenkor elÃ©ggÃ© felb?szÃ¼l.}
+{197}{}{[A 38. brahmin gombÃ³c - mit tesz isten - nemigen akarÃ³dzik lemenni.]}
+{198}{}{Ezt az egyet nem tudjuk beleszÃ¡molni, de a 37-el Ã­gy is megdÃ¶ntÃ¶tte a rekordot.}
+{199}{}{[RosszullÃ©t kerÃ¼lget.]}
+{200}{}{Ah, ez a specialitÃ¡som. RemÃ©lem, Ã©hes. GarantÃ¡lom, hogy ilyen omlettet sehol nem ehet. [Kimegy, majd visszajÃ¶n a valaha lÃ¡tott legbrutÃ¡lisabb omlettel.]}
+{201}{}{[A kiadÃ³s Ã©tel utÃ¡n mintha ÃºjjÃ¡Ã©ledtÃ©l volna.]}
+{202}{}{[A n? sietve elt?nik a pult mÃ¶gÃ¶tt Ã©s hamarosan visszatÃ©r a rendelÃ©ssel.]}
+{203}{}{FeltehetnÃ©k egy-kÃ©t futÃ³ kÃ©rdÃ©st?}
+{204}{}{SajnÃ¡lom, Ã©des, nagyon elfoglal a vendÃ©gek kiszolgÃ¡lÃ¡sa. Ha rendelne valamit, talÃ¡n lenne id?m egy kis beszÃ©lgetÃ©sre is.}
+{205}{}{Ami azt illeti, valÃ³sÃ¡ggal Ã©hezem. Milyen ennivalÃ³ja van?}
+{206}{}{Persze, de gyorsan, kedves! Nem akarom megvÃ¡rakoztatni a vendÃ©geket.}
+{207}{}{Tudna valamit mondani Cornelius elt?nt Ã³rÃ¡jÃ¡rÃ³l?}
+{208}{}{Tud valamit egy bizonyos Ã‰LET-r?l?}
+{209}{}{Mit tud a KÃ­sÃ©rtetfarmrÃ³l?}
+{210}{}{MÃ©g sosem lÃ¡ttam ekkora omlettet. MifÃ©le Ã¡llat rak ekkora tojÃ¡st?}
 {211}{}{Mib?l van ez a... canis burger?}
-{212}{}{Ó egek! Ezek szerint beszélt Corneliusszal, a férjemmel? Ez az egész órás ügy, annyira szörny?. Cornelius elhitette az egész várossal, hogy a legjobb barátja, Farrel, elemelte az óráját. Ha már beszélt vele észrevehette, hogy az agya már nem úgy forog, ahogy kéne. Meg vagyok gy?z?dve arról, hogy a szegény pára lerakta valahol az órát, és ottfelejtette.}
-{213}{}{Ha másra nincs szüksége, ki kell még szolgálnom másokat.}
-{214}{}{Feltehetek további kérdéseket?}
-{215}{}{Egy pillanat, még éhes maradtam.}
-{216}{}{ÉTEL-t mondott? Hát, nem is jöhetett volna jobb helyre, ha ételt akar.}
-{217}{}{[Önkéntelenül megremeg.] Tartsa magát távol attól a helyt?l! Utazók mesélték, hogy rothadó hullák vannak ott karókhoz kötözve, és éjszakánként izzó alakok járják a mez?t. Nem tudom, mennyi igaz ebb?l, de tudom, hogy Karl odament és nem láttuk azóta.}
-{218}{}{Ah, ez omlett volt sivatag módra. Finom, ugye? Egyesek szerint gyógyító hatása van. [Idegesen néz körbe.] Ó, néhány vendég érkezett. Mindjárt jövök. [Hmm... nem válaszolt a kérdésre.]}
-{220}{}{A hamburgereink a legremekebb, válogatott, els?osztályú kutyákból készülnek. A húst ledaráljuk és húszdekás fasírtokat gyúrunk bel?lük. A finom füstölt ízt attól kapja, hogy szárított brahmintrágya fölött lassú t?zön sütjük át.}
-{221}{}{Szegény ember. Majd éhen hal. Jöjjön, foglaljon helyet, és hadd hozzak valami ennivalót. [A n? elmegy és egy hatalmas omlettel tér vissza.] Addig nem mozdulhat el innen, amíg meg nem eszi az utolsó falatig.}
-{222}{}{Sajnálom, de teltház van. Egy jókora karaván az összes szobát kibérelte.}
-{225}{}{Valóban? Maga aztán szomjas lehet a javából. Megemeltem kissé az árat, nehogy túlzottan rákapjanak a kuncsaftok. Tudja, az es? nem esik, a kutak kiszáradtak és az ivóvíz aranyárban van. Hozzak bel?le?}
-{226}{}{Igen! Meghalok egy kis vízért.}
-{227}{}{Igazándiból inkább éhes vagyok.}
-{228}{}{Szörnyen sajnálom, de omlettel nem tudunk szolgálni. Valami elmebeteg betört a tyúkólunkba és kiirtotta a... csirkéinket.}
-{229}{}{Nagyon éhes vagyok, ezért érdekelne, mi egyebet tudna hozni.}
-{230}{}{Nagyon rákészültem a világhír? omlettjére. Gyanítom, hogy éhen maradok.}
+{212}{}{Ã“ egek! Ezek szerint beszÃ©lt Corneliusszal, a fÃ©rjemmel? Ez az egÃ©sz Ã³rÃ¡s Ã¼gy, annyira szÃ¶rny?. Cornelius elhitette az egÃ©sz vÃ¡rossal, hogy a legjobb barÃ¡tja, Farrel, elemelte az Ã³rÃ¡jÃ¡t. Ha mÃ¡r beszÃ©lt vele Ã©szrevehette, hogy az agya mÃ¡r nem Ãºgy forog, ahogy kÃ©ne. Meg vagyok gy?z?dve arrÃ³l, hogy a szegÃ©ny pÃ¡ra lerakta valahol az Ã³rÃ¡t, Ã©s ottfelejtette.}
+{213}{}{Ha mÃ¡sra nincs szÃ¼ksÃ©ge, ki kell mÃ©g szolgÃ¡lnom mÃ¡sokat.}
+{214}{}{Feltehetek tovÃ¡bbi kÃ©rdÃ©seket?}
+{215}{}{Egy pillanat, mÃ©g Ã©hes maradtam.}
+{216}{}{Ã‰TEL-t mondott? HÃ¡t, nem is jÃ¶hetett volna jobb helyre, ha Ã©telt akar.}
+{217}{}{[Ã–nkÃ©ntelenÃ¼l megremeg.] Tartsa magÃ¡t tÃ¡vol attÃ³l a helyt?l! UtazÃ³k mesÃ©ltÃ©k, hogy rothadÃ³ hullÃ¡k vannak ott karÃ³khoz kÃ¶tÃ¶zve, Ã©s Ã©jszakÃ¡nkÃ©nt izzÃ³ alakok jÃ¡rjÃ¡k a mez?t. Nem tudom, mennyi igaz ebb?l, de tudom, hogy Karl odament Ã©s nem lÃ¡ttuk azÃ³ta.}
+{218}{}{Ah, ez omlett volt sivatag mÃ³dra. Finom, ugye? Egyesek szerint gyÃ³gyÃ­tÃ³ hatÃ¡sa van. [Idegesen nÃ©z kÃ¶rbe.] Ã“, nÃ©hÃ¡ny vendÃ©g Ã©rkezett. MindjÃ¡rt jÃ¶vÃ¶k. [Hmm... nem vÃ¡laszolt a kÃ©rdÃ©sre.]}
+{220}{}{A hamburgereink a legremekebb, vÃ¡logatott, els?osztÃ¡lyÃº kutyÃ¡kbÃ³l kÃ©szÃ¼lnek. A hÃºst ledarÃ¡ljuk Ã©s hÃºszdekÃ¡s fasÃ­rtokat gyÃºrunk bel?lÃ¼k. A finom fÃ¼stÃ¶lt Ã­zt attÃ³l kapja, hogy szÃ¡rÃ­tott brahmintrÃ¡gya fÃ¶lÃ¶tt lassÃº t?zÃ¶n sÃ¼tjÃ¼k Ã¡t.}
+{221}{}{SzegÃ©ny ember. Majd Ã©hen hal. JÃ¶jjÃ¶n, foglaljon helyet, Ã©s hadd hozzak valami ennivalÃ³t. [A n? elmegy Ã©s egy hatalmas omlettel tÃ©r vissza.] Addig nem mozdulhat el innen, amÃ­g meg nem eszi az utolsÃ³ falatig.}
+{222}{}{SajnÃ¡lom, de telthÃ¡z van. Egy jÃ³kora karavÃ¡n az Ã¶sszes szobÃ¡t kibÃ©relte.}
+{225}{}{ValÃ³ban? Maga aztÃ¡n szomjas lehet a javÃ¡bÃ³l. Megemeltem kissÃ© az Ã¡rat, nehogy tÃºlzottan rÃ¡kapjanak a kuncsaftok. Tudja, az es? nem esik, a kutak kiszÃ¡radtak Ã©s az ivÃ³vÃ­z aranyÃ¡rban van. Hozzak bel?le?}
+{226}{}{Igen! Meghalok egy kis vÃ­zÃ©rt.}
+{227}{}{IgazÃ¡ndibÃ³l inkÃ¡bb Ã©hes vagyok.}
+{228}{}{SzÃ¶rnyen sajnÃ¡lom, de omlettel nem tudunk szolgÃ¡lni. Valami elmebeteg betÃ¶rt a tyÃºkÃ³lunkba Ã©s kiirtotta a... csirkÃ©inket.}
+{229}{}{Nagyon Ã©hes vagyok, ezÃ©rt Ã©rdekelne, mi egyebet tudna hozni.}
+{230}{}{Nagyon rÃ¡kÃ©szÃ¼ltem a vilÃ¡ghÃ­r? omlettjÃ©re. GyanÃ­tom, hogy Ã©hen maradok.}
 {231}{}{Ahh! Ugi!}
-{300}{}{[Hamar visszatér egy pohárral, amelyben valami barna folyékony anyag lötyög. Úgy t?nik, a pohárban több a dzsuva, mint a víz. Mindett?l eltekintve olyan végtelenül szomjas vagy, hogy megiszod.] Hoztam egy kis sütit is a víz mellé, kedveském.}
+{300}{}{[Hamar visszatÃ©r egy pohÃ¡rral, amelyben valami barna folyÃ©kony anyag lÃ¶tyÃ¶g. Ãšgy t?nik, a pohÃ¡rban tÃ¶bb a dzsuva, mint a vÃ­z. Mindett?l eltekintve olyan vÃ©gtelenÃ¼l szomjas vagy, hogy megiszod.] Hoztam egy kis sÃ¼tit is a vÃ­z mellÃ©, kedveskÃ©m.}

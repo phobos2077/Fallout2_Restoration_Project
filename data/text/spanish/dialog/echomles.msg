@@ -1,13 +1,13 @@
-{100}{}{¡Comida!}
-{101}{}{¡Danos comida!}
-{102}{}{¡Tenemos hambre!}
+{100}{}{Â¡Comida!}
+{101}{}{Â¡Danos comida!}
+{102}{}{Â¡Tenemos hambre!}
 {103}{}{Algo de dinero para los menos afortunados.}
-{104}{}{¡Ayúdanos!}
-{105}{}{¡Comida!}
+{104}{}{Â¡AyÃºdanos!}
+{105}{}{Â¡Comida!}
 {106}{}{Tengo tanta hambre.}
-{107}{}{Mis hijos están hambrientos.}
+{107}{}{Mis hijos estÃ¡n hambrientos.}
 {108}{}{No le importamos a nadie.}
-{109}{}{¡No me mates!}
-{110}{}{Sólo quiero un poco de comida.}
-{111}{}{Perdóname.}
-{112}{}{El pedigüeño recoge el objeto.}
+{109}{}{Â¡No me mates!}
+{110}{}{SÃ³lo quiero un poco de comida.}
+{111}{}{PerdÃ³name.}
+{112}{}{El pedigÃ¼eÃ±o recoge el objeto.}

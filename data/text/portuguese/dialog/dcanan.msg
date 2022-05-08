@@ -1,74 +1,74 @@
-{100}{}{Você vê um homem baixo, com um espesso bigode.}
-{101}{}{Você vê o Grande Ananias.}
-{102}{}{Você vê um homem curto, de bigode, com um olhar um pouco furtivo para ele.}
-{103}{}{Você! O que você quer fazer para o, anteriormente, Grande Ananias agora?}
+{100}{}{VocÃª vÃª um homem baixo, com um espesso bigode.}
+{101}{}{VocÃª vÃª o Grande Ananias.}
+{102}{}{VocÃª vÃª um homem curto, de bigode, com um olhar um pouco furtivo para ele.}
+{103}{}{VocÃª! O que vocÃª quer fazer para o, anteriormente, Grande Ananias agora?}
 {104}{}{Fique longe de mim!}
-{105}{}{Vai arruinar o negócio de outra pessoa.}
+{105}{}{Vai arruinar o negÃ³cio de outra pessoa.}
 {106}{}{Retire-o de outra pessoa.}
-{107}{}{Você já fez o seu pior para mim.}
-{108}{}{Apenas vá embora, você me causou bastante mal.}
+{107}{}{VocÃª jÃ¡ fez o seu pior para mim.}
+{108}{}{Apenas vÃ¡ embora, vocÃª me causou bastante mal.}
 {109}{}{Eu estou com tanta fome.}
-{110}{}{Como vou alimentar a minha família agora?}
-{111}{}{Você nasceu com um coração 12 de tamanhos muito pequenos.}
-{112}{}{Não, meu amigo, uma MÚMIA! Direto das areias do Egito antigo para as areias dos Resíduos! Exclusivamente para você ver!}
-{113}{}{OK, eu vou morder. Quanto ver o cadáver marcado?}
-{114}{}{(para você mesmo) Hmm, uma múmia descreveria a maneira como um ghoul parece. Ok, eu gostaria de dar uma olhada - quanto?}
-{115}{}{Já vi cadáveres suficientes. Adeus.}
-{116}{}{Olá, bem-vindo, saudações! Eu sou o Grande Ananias (ele oferece um leve arco, com um floreio). Eu trago mistérios de amigos próximos e distantes. Mistérios de um mundo além do nosso ... do Submundo.}
-{117}{}{Voltou para aprender sobre os mistérios do Grande Ananias do Submundo que você tem?}
-{118}{}{Que tipo de mistérios?}
-{119}{}{Uh, prazer em conhecê-lo, Mr. Grande Ânus...algo.}
-{120}{}{Hmm, mistérios me fazer dormir desconfortavelmente, é melhor eu ir. Adeus.}
-{121}{}{Passo até!}
-{127}{}{Hoje, na sala de dentro, eu tenho, para os seus olhos exclusivamente...Jan-u-vinho Múmia Egípcia!}
-{128}{}{Uma múmia?}
-{129}{}{Uma múmia? Hmm, eu me pergunto se poderia ser.... Não, ninguém poderia ser tão estúpido.}
-{130}{}{Não tenho interesse nesse tipo de coisa. Os cadáveres me assustam.}
-{131}{}{Fora do caminho, você está bloqueando os clientes pagantes.}
-{132}{}{Eu acho que isto não é para você.}
-{133}{}{Por que você não leva seu pequeno ser tribal em outro lugar.}
-{134}{}{Isto não é realmente para você.}
-{135}{}{Eu vejo, hmmm, que tal IR (ele aponta) de DISTÂNCIA!}
-{136}{}{Para uma pessoa da sua óbvia classe, ficaria feliz em mostrar este exemplar único e histórico para você por apenas US $ 25.}
-{137}{}{OK, eu vou tossir a massa. Agora...Me Mostrar A Múmia!}
-{138}{}{Eu não quero gastar muito. Eu acho que eu vou sobreviver sem ver a coisa. Adeus.}
-{139}{}{Basta abrir a tampa do sarcófago e a maravilhosa Múmia será revelada, em toda a sua antiga glória, para você. Mas por favor, sem tocar, e, uh, sem fotografia instantânea.}
+{110}{}{Como vou alimentar a minha famÃ­lia agora?}
+{111}{}{VocÃª nasceu com um coraÃ§Ã£o 12 de tamanhos muito pequenos.}
+{112}{}{NÃ£o, meu amigo, uma MÃšMIA! Direto das areias do Egito antigo para as areias dos ResÃ­duos! Exclusivamente para vocÃª ver!}
+{113}{}{OK, eu vou morder. Quanto ver o cadÃ¡ver marcado?}
+{114}{}{(para vocÃª mesmo) Hmm, uma mÃºmia descreveria a maneira como um ghoul parece. Ok, eu gostaria de dar uma olhada - quanto?}
+{115}{}{JÃ¡ vi cadÃ¡veres suficientes. Adeus.}
+{116}{}{OlÃ¡, bem-vindo, saudaÃ§Ãµes! Eu sou o Grande Ananias (ele oferece um leve arco, com um floreio). Eu trago mistÃ©rios de amigos prÃ³ximos e distantes. MistÃ©rios de um mundo alÃ©m do nosso ... do Submundo.}
+{117}{}{Voltou para aprender sobre os mistÃ©rios do Grande Ananias do Submundo que vocÃª tem?}
+{118}{}{Que tipo de mistÃ©rios?}
+{119}{}{Uh, prazer em conhecÃª-lo, Mr. Grande Ã‚nus...algo.}
+{120}{}{Hmm, mistÃ©rios me fazer dormir desconfortavelmente, Ã© melhor eu ir. Adeus.}
+{121}{}{Passo atÃ©!}
+{127}{}{Hoje, na sala de dentro, eu tenho, para os seus olhos exclusivamente...Jan-u-vinho MÃºmia EgÃ­pcia!}
+{128}{}{Uma mÃºmia?}
+{129}{}{Uma mÃºmia? Hmm, eu me pergunto se poderia ser.... NÃ£o, ninguÃ©m poderia ser tÃ£o estÃºpido.}
+{130}{}{NÃ£o tenho interesse nesse tipo de coisa. Os cadÃ¡veres me assustam.}
+{131}{}{Fora do caminho, vocÃª estÃ¡ bloqueando os clientes pagantes.}
+{132}{}{Eu acho que isto nÃ£o Ã© para vocÃª.}
+{133}{}{Por que vocÃª nÃ£o leva seu pequeno ser tribal em outro lugar.}
+{134}{}{Isto nÃ£o Ã© realmente para vocÃª.}
+{135}{}{Eu vejo, hmmm, que tal IR (ele aponta) de DISTÃ‚NCIA!}
+{136}{}{Para uma pessoa da sua Ã³bvia classe, ficaria feliz em mostrar este exemplar Ãºnico e histÃ³rico para vocÃª por apenas US $ 25.}
+{137}{}{OK, eu vou tossir a massa. Agora...Me Mostrar A MÃºmia!}
+{138}{}{Eu nÃ£o quero gastar muito. Eu acho que eu vou sobreviver sem ver a coisa. Adeus.}
+{139}{}{Basta abrir a tampa do sarcÃ³fago e a maravilhosa MÃºmia serÃ¡ revelada, em toda a sua antiga glÃ³ria, para vocÃª. Mas por favor, sem tocar, e, uh, sem fotografia instantÃ¢nea.}
 {140}{}{Grande.}
-{141}{}{Ai está! A MÚMIA! (A porta do sarcófago se abre para revelar um cadáver dessecado, que se parece muito com um ghoul comum, parado em um sarcófago de papel mal pintado, estilhaçado e quebrado).}
-{142}{}{Ai está! Apresentando, a MÚMIA! (uma porta de cripta se abre para revelar uma múmia egípcia de jan-u-wine em um sarcófago aberto que parece ter sido feita de ouro puro!)}
-{143}{}{Ei, espere um minuto. Isso não é uma Múmia. Isso é um ghoul. WOODY! Ei WOODY! Isso é você?}
+{141}{}{Ai estÃ¡! A MÃšMIA! (A porta do sarcÃ³fago se abre para revelar um cadÃ¡ver dessecado, que se parece muito com um ghoul comum, parado em um sarcÃ³fago de papel mal pintado, estilhaÃ§ado e quebrado).}
+{142}{}{Ai estÃ¡! Apresentando, a MÃšMIA! (uma porta de cripta se abre para revelar uma mÃºmia egÃ­pcia de jan-u-wine em um sarcÃ³fago aberto que parece ter sido feita de ouro puro!)}
+{143}{}{Ei, espere um minuto. Isso nÃ£o Ã© uma MÃºmia. Isso Ã© um ghoul. WOODY! Ei WOODY! Isso Ã© vocÃª?}
 {144}{}{Isso parece um ghoul para mim.}
-{145}{}{Essa é uma múmia? Eu não posso acreditar que eu acabei de pagar us $25 para ver seis-pés de pedaço de charque. Adeus.}
-{146}{}{Uau, que fantástico...eu acho. (você olhar para a Múmia muito atentamente por um tempo). Uh, obrigado, Adeus.}
-{147}{}{(A Múmia, bufa, se estende lânguida e depois olha para você com um piscar de sono aos olhos) Olá. (diz ele, com sono)}
-{148}{}{Puta merda! Isso * é * Woody! Corra Woody, corre daqui! Bem, uh, acabe com isso, então! Vai Woody vai!}
-{149}{}{Eu garanto a você que a Múmia é, na verdade, bastante jan-u-vinho.}
-{150}{}{Eu não acho que eu acredito em você. Deixe-me tentar algo. WOODY! Ei WOODY! É você?}
-{151}{}{Bem, se você diz. Mas eu acho que parece um ghoul normal. Adeus.}
-{152}{}{(Woody - pois é, de fato, Woody, não uma Múmia, que fica um pouco arrepiante antes de você - agarra os lados do
-  papel-
-mache sarcófago, solta um grito e corre para a porta, deixando uma trilha de papel higiênico "embrulhos de múmia"
-  e um acelerado "Obrigado gentil, estranho!" atrás dele.)}
-{153}{}{Hah! Eu sabia! Você terminou nesta cidade. Você não é o Grande Ananias mais, você é apenas mais uma bunda.}
+{145}{}{Essa Ã© uma mÃºmia? Eu nÃ£o posso acreditar que eu acabei de pagar us $25 para ver seis-pÃ©s de pedaÃ§o de charque. Adeus.}
+{146}{}{Uau, que fantÃ¡stico...eu acho. (vocÃª olhar para a MÃºmia muito atentamente por um tempo). Uh, obrigado, Adeus.}
+{147}{}{(A MÃºmia, bufa, se estende lÃ¢nguida e depois olha para vocÃª com um piscar de sono aos olhos) OlÃ¡. (diz ele, com sono)}
+{148}{}{Puta merda! Isso * Ã© * Woody! Corra Woody, corre daqui! Bem, uh, acabe com isso, entÃ£o! Vai Woody vai!}
+{149}{}{Eu garanto a vocÃª que a MÃºmia Ã©, na verdade, bastante jan-u-vinho.}
+{150}{}{Eu nÃ£o acho que eu acredito em vocÃª. Deixe-me tentar algo. WOODY! Ei WOODY! Ã‰ vocÃª?}
+{151}{}{Bem, se vocÃª diz. Mas eu acho que parece um ghoul normal. Adeus.}
+{152}{}{(Woody - pois Ã©, de fato, Woody, nÃ£o uma MÃºmia, que fica um pouco arrepiante antes de vocÃª - agarra os lados do
+Â  papel-
+mache sarcÃ³fago, solta um grito e corre para a porta, deixando uma trilha de papel higiÃªnico "embrulhos de mÃºmia"
+Â  e um acelerado "Obrigado gentil, estranho!" atrÃ¡s dele.)}
+{153}{}{Hah! Eu sabia! VocÃª terminou nesta cidade. VocÃª nÃ£o Ã© o Grande Ananias mais, vocÃª Ã© apenas mais uma bunda.}
 {154}{}{Ir Woody ir! Ahah! Eu sabia!}
-{155}{}{(O Grande Ananias encolhe os ombros) Eu sabia que deveria ter pegado aquele Brahmin de uma cabeça em vez disso. Ah, bem, de volta ao quadro de desenho.}
-{156}{}{Brahmin de uma cabeça? Claro, quem jamais acreditaria nisso! Adeus, seu Charlatão.}
-{157}{}{Você acordou Woody o ghoul e o libertou do contratado múmia-tude.}
-{158}{}{Eu acho que eu prefiro ouvir a história de fantasma.}
-{200}{}{Eu sei coisas que o mero homem mortal não deve ser conhecido. Aiiieeee! Nyarloth ... Oh, desculpe (heh, heh). Fiquei um pouco levado
-  por um momento. Tenho contos de um fantasma que assombra esses próprios edificios, bem como Jan-u-wine Egito-ee-uma Múmia que 
-você pode ver, aqui, nesta maravilhosa sarcófago.}
-{201}{}{Conte-me sobre a múmia. Eu estou morrendo de vontade de ouvir mais sobre isso.}
-{202}{}{Acabei de ouvir essa história de fantasmas. Uh, eu recebo uma boa xícara quente de cacau para ir com isso?}
-{203}{}{Eu não acho que tenho mais tempo para desperdiçar o que quer que seja que você está falando.}
-{300}{}{Bem, você vê, (ele movimenta você mais perto) havia uma vez uma ótima rainha que governou toda a cidade vizinha. Ela a manteve
-  trono em virtude de um amuleto especial que ela manteve ao redor de seu pescoço em todos os momentos. Grande coisa, hein?}
-{301}{}{Uh, sim. Pode apostar. Então, essa princesa teve um amuleto * mágico *. Oh, continue. Eu simplesmente não suporto esse nível de suspense
-  muito mais longo (bocejo).}
+{155}{}{(O Grande Ananias encolhe os ombros) Eu sabia que deveria ter pegado aquele Brahmin de uma cabeÃ§a em vez disso. Ah, bem, de volta ao quadro de desenho.}
+{156}{}{Brahmin de uma cabeÃ§a? Claro, quem jamais acreditaria nisso! Adeus, seu CharlatÃ£o.}
+{157}{}{VocÃª acordou Woody o ghoul e o libertou do contratado mÃºmia-tude.}
+{158}{}{Eu acho que eu prefiro ouvir a histÃ³ria de fantasma.}
+{200}{}{Eu sei coisas que o mero homem mortal nÃ£o deve ser conhecido. Aiiieeee! Nyarloth ... Oh, desculpe (heh, heh). Fiquei um pouco levado
+Â  por um momento. Tenho contos de um fantasma que assombra esses prÃ³prios edificios, bem como Jan-u-wine Egito-ee-uma MÃºmia que 
+vocÃª pode ver, aqui, nesta maravilhosa sarcÃ³fago.}
+{201}{}{Conte-me sobre a mÃºmia. Eu estou morrendo de vontade de ouvir mais sobre isso.}
+{202}{}{Acabei de ouvir essa histÃ³ria de fantasmas. Uh, eu recebo uma boa xÃ­cara quente de cacau para ir com isso?}
+{203}{}{Eu nÃ£o acho que tenho mais tempo para desperdiÃ§ar o que quer que seja que vocÃª estÃ¡ falando.}
+{300}{}{Bem, vocÃª vÃª, (ele movimenta vocÃª mais perto) havia uma vez uma Ã³tima rainha que governou toda a cidade vizinha. Ela a manteve
+Â  trono em virtude de um amuleto especial que ela manteve ao redor de seu pescoÃ§o em todos os momentos. Grande coisa, hein?}
+{301}{}{Uh, sim. Pode apostar. EntÃ£o, essa princesa teve um amuleto * mÃ¡gico *. Oh, continue. Eu simplesmente nÃ£o suporto esse nÃ­vel de suspense
+Â  muito mais longo (bocejo).}
 {302}{}{OK. Eu acho que eu ouvi apenas o suficiente. Adeus.}
-{400}{}{Bem, vou cortar a perseguição então. Então, o mago maligno envenenou a jovem princesa e pegou seu amuleto. Ela está vagando
-  Em torno da sala da vizinhança desde então. Bem, uh, isto é, apenas na hora das bruxas, mesmo assim. É por isso que mantenho a porta trancada.
-  Muito ruim assustador, hein?}
-{401}{}{O fantasma de uma princesa amuleto na sala destroçada ao lado? É isso aí? Não posso acreditar que você está pedindo * algo * como essa história.
-  Eu preferiria ouvir sobre essa múmia estúpida que você deveria ter aqui.}
+{400}{}{Bem, vou cortar a perseguiÃ§Ã£o entÃ£o. EntÃ£o, o mago maligno envenenou a jovem princesa e pegou seu amuleto. Ela estÃ¡ vagando
+Â  Em torno da sala da vizinhanÃ§a desde entÃ£o. Bem, uh, isto Ã©, apenas na hora das bruxas, mesmo assim. Ã‰ por isso que mantenho a porta trancada.
+Â  Muito ruim assustador, hein?}
+{401}{}{O fantasma de uma princesa amuleto na sala destroÃ§ada ao lado? Ã‰ isso aÃ­? NÃ£o posso acreditar que vocÃª estÃ¡ pedindo * algo * como essa histÃ³ria.
+Â  Eu preferiria ouvir sobre essa mÃºmia estÃºpida que vocÃª deveria ter aqui.}
 {402}{}{OK. Eu acho que eu ouvi apenas o suficiente. Adeus.}

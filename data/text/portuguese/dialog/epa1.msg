@@ -1,2 +1,2 @@
-{100}{}{Você descobre uma instalação murada que parece ter sido abandonada há muito tempo. Suas terras dilapidadas são agora
-  repletas de vegetação carnívora.}
+{100}{}{VocÃª descobre uma instalaÃ§Ã£o murada que parece ter sido abandonada hÃ¡ muito tempo. Suas terras dilapidadas sÃ£o agora
+Â  repletas de vegetaÃ§Ã£o carnÃ­vora.}

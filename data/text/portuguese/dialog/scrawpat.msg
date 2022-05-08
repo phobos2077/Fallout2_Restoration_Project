@@ -21,7 +21,7 @@
 {120}{}{So I says to him, "Look," I says...}
 {121}{}{Try the roasted mole-rat. It's the best around.}
 {122}{}{Hi. What's your sign?}
-{123}{}{Se est· procurando trabalho, estranho, v· atÈ o Stockman's.}
+{123}{}{Se est√° procurando trabalho, estranho, v√° at√© o Stockman's.}
 {124}{}{Shit! Did you see that?}
 {125}{}{Oh man, I'm going to be sick.}
 {126}{}{No more for me.}

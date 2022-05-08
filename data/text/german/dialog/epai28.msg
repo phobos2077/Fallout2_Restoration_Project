@@ -1,1 +1,1 @@
-{100}{}{Dieses Schließfach erfordert einen Schlüsselcode.}
+{100}{}{Dieses SchlieÃŸfach erfordert einen SchlÃ¼sselcode.}

@@ -1,221 +1,221 @@
 {100}{}{Ez az ember Orville Wright.}
-{150}{}{Az úriember igen jólöltözött, de állandó keser?ség torzítja el az arcát. Nagy valószín?séggel ennek köszönhet?, hogy a haja rendesen ?szülésnek indult.}
-{151}{}{Orville Wright magán kívül van. Ha így folytatja, az összes megmaradt haját kitépi.}
-{152}{}{Orville Wright magán kívül van. Nagyon letört és állandóan sóhajtozik.}
-{200}{}{T?nés!}
-{210}{}{Gyerekek, vigyázat! Itt egy bérgyilkos!}
-{211}{}{Meghalsz, te mocskos féreg!}
-{212}{}{Na, gyere csak a házamba...}
-{213}{}{Szóval téged küldtek, hogy elvégezd a piszkos munkát...}
-{214}{}{Te kétbites bérgyilkos, ez volt az utolsó megbízatásod...}
-{220}{}{A házasság nem egyetlen kimondott szó, hanem egy életre szóló mondat.}
-{221}{}{Szemétláda Salvatorék...}
-{222}{}{Hova lettek ezek az istenverte kölykök?...}
-{223}{}{Látta valaki Christopher-t? Mondjátok meg neki, hogy beszédem van vele! Eridjetek!}
-{224}{}{Kiváncsi lennék, vajon a házasságunk hivatalos-e...}
-{225}{}{Ebben a negyedévben zuhant a profit... kénytelenek leszünk vizezni a piát.}
-{226}{}{Még több etilalkohol kell... és kevesebb Etil Wright.}
-{227}{}{A Salvatore banda hallgat, mint a sír...}
+{150}{}{Az Ãºriember igen jÃ³lÃ¶ltÃ¶zÃ¶tt, de Ã¡llandÃ³ keser?sÃ©g torzÃ­tja el az arcÃ¡t. Nagy valÃ³szÃ­n?sÃ©ggel ennek kÃ¶szÃ¶nhet?, hogy a haja rendesen ?szÃ¼lÃ©snek indult.}
+{151}{}{Orville Wright magÃ¡n kÃ­vÃ¼l van. Ha Ã­gy folytatja, az Ã¶sszes megmaradt hajÃ¡t kitÃ©pi.}
+{152}{}{Orville Wright magÃ¡n kÃ­vÃ¼l van. Nagyon letÃ¶rt Ã©s Ã¡llandÃ³an sÃ³hajtozik.}
+{200}{}{T?nÃ©s!}
+{210}{}{Gyerekek, vigyÃ¡zat! Itt egy bÃ©rgyilkos!}
+{211}{}{Meghalsz, te mocskos fÃ©reg!}
+{212}{}{Na, gyere csak a hÃ¡zamba...}
+{213}{}{SzÃ³val tÃ©ged kÃ¼ldtek, hogy elvÃ©gezd a piszkos munkÃ¡t...}
+{214}{}{Te kÃ©tbites bÃ©rgyilkos, ez volt az utolsÃ³ megbÃ­zatÃ¡sod...}
+{220}{}{A hÃ¡zassÃ¡g nem egyetlen kimondott szÃ³, hanem egy Ã©letre szÃ³lÃ³ mondat.}
+{221}{}{SzemÃ©tlÃ¡da SalvatorÃ©k...}
+{222}{}{Hova lettek ezek az istenverte kÃ¶lykÃ¶k?...}
+{223}{}{LÃ¡tta valaki Christopher-t? MondjÃ¡tok meg neki, hogy beszÃ©dem van vele! Eridjetek!}
+{224}{}{KivÃ¡ncsi lennÃ©k, vajon a hÃ¡zassÃ¡gunk hivatalos-e...}
+{225}{}{Ebben a negyedÃ©vben zuhant a profit... kÃ©nytelenek leszÃ¼nk vizezni a piÃ¡t.}
+{226}{}{MÃ©g tÃ¶bb etilalkohol kell... Ã©s kevesebb Etil Wright.}
+{227}{}{A Salvatore banda hallgat, mint a sÃ­r...}
 {228}{}{Hova lett ez az asszony? Etil! Etil!}
-{229}{}{Nem kéne káromkodnom a gyerekek el?tt...}
-{230}{}{Ha rajta akarunk maradni Reno térképén, ki kell terjesztenünk a disztribúciót.}
-{231}{}{Ha Christopher még egyszer visszabeszél...}
-{232}{}{Hozzátok ide a bibliámat!}
-{233}{}{Szegény Richard...}
-{234}{}{Olyan nagy kérés, hogy egy kis békét és nyugalmat leljek?!! Fogjátok vissza magatokat!}
-{240}{}{(Az id?s ember arcát ráncok borítják... úgy t?nik, a zord arckifejezésen kívül minden egyéb érzelmet szám?zött az arcáról. Tömött ?sz hajában már csak néhány barna csík látszik.) }
-{241}{}{Beszélj, vadember! Ki vagy és mit akarsz?}
-{242}{}{Beszélj, hajcsár! Ki vagy és mit akarsz?}
-{243}{}{Én }
-{244}{}{Húhú húhú}
+{229}{}{Nem kÃ©ne kÃ¡romkodnom a gyerekek el?tt...}
+{230}{}{Ha rajta akarunk maradni Reno tÃ©rkÃ©pÃ©n, ki kell terjesztenÃ¼nk a disztribÃºciÃ³t.}
+{231}{}{Ha Christopher mÃ©g egyszer visszabeszÃ©l...}
+{232}{}{HozzÃ¡tok ide a bibliÃ¡mat!}
+{233}{}{SzegÃ©ny Richard...}
+{234}{}{Olyan nagy kÃ©rÃ©s, hogy egy kis bÃ©kÃ©t Ã©s nyugalmat leljek?!! FogjÃ¡tok vissza magatokat!}
+{240}{}{(Az id?s ember arcÃ¡t rÃ¡ncok borÃ­tjÃ¡k... Ãºgy t?nik, a zord arckifejezÃ©sen kÃ­vÃ¼l minden egyÃ©b Ã©rzelmet szÃ¡m?zÃ¶tt az arcÃ¡rÃ³l. TÃ¶mÃ¶tt ?sz hajÃ¡ban mÃ¡r csak nÃ©hÃ¡ny barna csÃ­k lÃ¡tszik.) }
+{241}{}{BeszÃ©lj, vadember! Ki vagy Ã©s mit akarsz?}
+{242}{}{BeszÃ©lj, hajcsÃ¡r! Ki vagy Ã©s mit akarsz?}
+{243}{}{Ã‰n }
+{244}{}{HÃºhÃº hÃºhÃº}
 {245}{}{Huju buju huj}
 {246}{}{Kuci kuci kuc}
 {247}{}{Ki fene vagyol?}
-{248}{}{Én egy hétköznapi utazó vagyok... megbízatást keresek.}
+{248}{}{Ã‰n egy hÃ©tkÃ¶znapi utazÃ³ vagyok... megbÃ­zatÃ¡st keresek.}
 {249}{}{A nevem }
-{250}{}{Nagyon úgy t?nik, hogy rossz helyre jöttem. Már itt sem vagyok!}
-{260}{}{(A szokásosnál is zordabb képet vág.) T?nj a szemem el?l! Ha még egyszer idejössz, agyonl?lek, megértetted?!}
+{250}{}{Nagyon Ãºgy t?nik, hogy rossz helyre jÃ¶ttem. MÃ¡r itt sem vagyok!}
+{260}{}{(A szokÃ¡sosnÃ¡l is zordabb kÃ©pet vÃ¡g.) T?nj a szemem el?l! Ha mÃ©g egyszer idejÃ¶ssz, agyonl?lek, megÃ©rtetted?!}
 {262}{}{[Ingatod a fejed.]}
-{263}{}{Anyudat ezzel szájaddal csókolod?}
-{264}{}{Te csak ne l?d?zzé'! Ha rám lövöl akkó én ideges lenni}
-{265}{}{Mennyé elfele oszt talájjá olyant ki nem ilyes galád}
-{275}{}{(Amint Mr. Wright észrevesz, eltorzul az arca és üvöltözni kezd.) }
-{276}{}{(Mr. Wright eltorzult arccal üvöltözni kezd.) }
-{277}{}{Fiúk! Itt egy látogató, aki helyet szeretne bérelni a Golgotán! Ide mindenki!}
-{278}{}{Gyertek, fijjúgh! Én akar játszódni}
-{279}{}{Azta, na várjatok csak...!}
-{280}{}{Na, ebb?l elég! Hányok a hülyeségét?l! Maga azel?tt halott lesz, hogy a kis fiacskái ideérnének!}
-{281}{}{Nem fognak id?ben ideérni, hogy megmentsék az életét...}
-{282}{}{Elnézést. Találkám van a kijárattal.}
-{290}{}{Hát igen, valszeg jobb lesz, ha távozol, amilyen gyorsan csak tudsz. Ha öt másodperc múlva még mindig itt vagy, le foglak lövetni, hallod-e!}
-{291}{}{Hát igen, nagyon úgy t?nik, hogy rászoktál a ki-be járkálásra. Talán le kéne szoktatunk err?l a bajodról.}
-{292}{}{Inkább megyek.}
+{263}{}{Anyudat ezzel szÃ¡jaddal csÃ³kolod?}
+{264}{}{Te csak ne l?d?zzÃ©'! Ha rÃ¡m lÃ¶vÃ¶l akkÃ³ Ã©n ideges lenni}
+{265}{}{MennyÃ© elfele oszt talÃ¡jjÃ¡ olyant ki nem ilyes galÃ¡d}
+{275}{}{(Amint Mr. Wright Ã©szrevesz, eltorzul az arca Ã©s Ã¼vÃ¶ltÃ¶zni kezd.) }
+{276}{}{(Mr. Wright eltorzult arccal Ã¼vÃ¶ltÃ¶zni kezd.) }
+{277}{}{FiÃºk! Itt egy lÃ¡togatÃ³, aki helyet szeretne bÃ©relni a GolgotÃ¡n! Ide mindenki!}
+{278}{}{Gyertek, fijjÃºgh! Ã‰n akar jÃ¡tszÃ³dni}
+{279}{}{Azta, na vÃ¡rjatok csak...!}
+{280}{}{Na, ebb?l elÃ©g! HÃ¡nyok a hÃ¼lyesÃ©gÃ©t?l! Maga azel?tt halott lesz, hogy a kis fiacskÃ¡i ideÃ©rnÃ©nek!}
+{281}{}{Nem fognak id?ben ideÃ©rni, hogy megmentsÃ©k az Ã©letÃ©t...}
+{282}{}{ElnÃ©zÃ©st. TalÃ¡lkÃ¡m van a kijÃ¡rattal.}
+{290}{}{HÃ¡t igen, valszeg jobb lesz, ha tÃ¡vozol, amilyen gyorsan csak tudsz. Ha Ã¶t mÃ¡sodperc mÃºlva mÃ©g mindig itt vagy, le foglak lÃ¶vetni, hallod-e!}
+{291}{}{HÃ¡t igen, nagyon Ãºgy t?nik, hogy rÃ¡szoktÃ¡l a ki-be jÃ¡rkÃ¡lÃ¡sra. TalÃ¡n le kÃ©ne szoktatunk err?l a bajodrÃ³l.}
+{292}{}{InkÃ¡bb megyek.}
 {293}{}{Mit akar m...?}
 {294}{}{Ugyanez jutott az eszembe. Itt az id?, hogy meghaljon!}
-{300}{}{Hogy oda ne rohanjak... (Fitymálló arcot vág.) Örülök, hogy benéztél hozzánk, te "hétköznapi utazó". Fenemód oda vagyok a találkozástól. (A fitymálló tekintet homlokráncolásba vált.) Szóval munkát akarsz a Wright családtól, mi?}
-{301}{}{Hogy oda ne rohanjak... (Fitymálló arcot vág.) Örülök, hogy benéztél hozzánk, HAJCSÁR. Fenemód oda vagyok a találkozástól. (A fitymálló tekintet homlokráncolásba vált.) Mi nem közösködünk a te fajtáddal, érted?! Most pedig kifelé!}
-{302}{}{Igen, én...}
-{303}{}{Úgy t?nik, tényleg rossz szobába jöttem. Ha megbocsát...}
-{304}{}{Egy pillanat, még nem fejeztem be a mondókámat! Én...}
-{305}{}{Rendben. Úgy t?nik, mennem kell.}
-{310}{}{Hogy oda ne rohanjak... (Fitymálló arcot vág.) Hát, örülök a találkozásnak, "}
-{311}{}{Igen, én...}
-{320}{}{A Wright család az Wright család! Nem víz folyik az ereinkben. (Fitymálló arccal néz rád.) }
-{321}{}{Szerinted mire fel akarnék egy pusztai hulladékot a családomba fogadni? Már tele vagyok bérencekkel!}
-{322}{}{Szerinted mire fel akarnék egy pusztából szalajtott picsát a családomba fogadni? Éppen elég kurvám van már, akik egész Észak Kaliforniát végigszopják, ha kell.}
-{323}{}{Tegyen egy próbát velem! Hadd bizonyítsam be, mit tudok!}
-{324}{}{Úgy t?nik, rossz helyre jöttem. Mennem kell.}
-{330}{}{(Egy pillanatra végigmér.) Rendben. Az, hogy nem vagy semmilyen családban, jó dolog lehet. (A fitymálló tekintet elt?nik.) Vannak gyerekeid?}
-{331}{}{Tudomásom szerint nincsenek.}
-{332}{}{Tudomásom szerint nincsenek. Azt hiszem, tudnék róla.}
+{300}{}{Hogy oda ne rohanjak... (FitymÃ¡llÃ³ arcot vÃ¡g.) Ã–rÃ¼lÃ¶k, hogy benÃ©ztÃ©l hozzÃ¡nk, te "hÃ©tkÃ¶znapi utazÃ³". FenemÃ³d oda vagyok a talÃ¡lkozÃ¡stÃ³l. (A fitymÃ¡llÃ³ tekintet homlokrÃ¡ncolÃ¡sba vÃ¡lt.) SzÃ³val munkÃ¡t akarsz a Wright csalÃ¡dtÃ³l, mi?}
+{301}{}{Hogy oda ne rohanjak... (FitymÃ¡llÃ³ arcot vÃ¡g.) Ã–rÃ¼lÃ¶k, hogy benÃ©ztÃ©l hozzÃ¡nk, HAJCSÃR. FenemÃ³d oda vagyok a talÃ¡lkozÃ¡stÃ³l. (A fitymÃ¡llÃ³ tekintet homlokrÃ¡ncolÃ¡sba vÃ¡lt.) Mi nem kÃ¶zÃ¶skÃ¶dÃ¼nk a te fajtÃ¡ddal, Ã©rted?! Most pedig kifelÃ©!}
+{302}{}{Igen, Ã©n...}
+{303}{}{Ãšgy t?nik, tÃ©nyleg rossz szobÃ¡ba jÃ¶ttem. Ha megbocsÃ¡t...}
+{304}{}{Egy pillanat, mÃ©g nem fejeztem be a mondÃ³kÃ¡mat! Ã‰n...}
+{305}{}{Rendben. Ãšgy t?nik, mennem kell.}
+{310}{}{Hogy oda ne rohanjak... (FitymÃ¡llÃ³ arcot vÃ¡g.) HÃ¡t, Ã¶rÃ¼lÃ¶k a talÃ¡lkozÃ¡snak, "}
+{311}{}{Igen, Ã©n...}
+{320}{}{A Wright csalÃ¡d az Wright csalÃ¡d! Nem vÃ­z folyik az ereinkben. (FitymÃ¡llÃ³ arccal nÃ©z rÃ¡d.) }
+{321}{}{Szerinted mire fel akarnÃ©k egy pusztai hulladÃ©kot a csalÃ¡domba fogadni? MÃ¡r tele vagyok bÃ©rencekkel!}
+{322}{}{Szerinted mire fel akarnÃ©k egy pusztÃ¡bÃ³l szalajtott picsÃ¡t a csalÃ¡domba fogadni? Ã‰ppen elÃ©g kurvÃ¡m van mÃ¡r, akik egÃ©sz Ã‰szak KaliforniÃ¡t vÃ©gigszopjÃ¡k, ha kell.}
+{323}{}{Tegyen egy prÃ³bÃ¡t velem! Hadd bizonyÃ­tsam be, mit tudok!}
+{324}{}{Ãšgy t?nik, rossz helyre jÃ¶ttem. Mennem kell.}
+{330}{}{(Egy pillanatra vÃ©gigmÃ©r.) Rendben. Az, hogy nem vagy semmilyen csalÃ¡dban, jÃ³ dolog lehet. (A fitymÃ¡llÃ³ tekintet elt?nik.) Vannak gyerekeid?}
+{331}{}{TudomÃ¡som szerint nincsenek.}
+{332}{}{TudomÃ¡som szerint nincsenek. Azt hiszem, tudnÃ©k rÃ³la.}
 {340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
-{341}{}{És én mégis hogy segíthetek ebben?}
-{342}{}{Ööö... Nem igazán látom, miben se...}
-{350}{}{Meg akarom tudni, melyik díler nyomta bele Richard-ba azt a SZART. Akármikor kiküldöm a srácaimat, hogy nézzenek utána, semmit nem tudnak felmutatni. Lehet, hogy egy nem Wright vérb?l való ember képes lenne valamit találni.}
-{351}{}{Ööö, "Belenyomta valaki?"}
-{352}{}{Elvállalom a munkát.}
-{353}{}{Nem, ez a munka nem fekszik nekem. Inkább megyek.}
-{360}{}{(Elvörösödik.) Az én fiaim tiszták, és tudják hogy távol kell tartaniuk maguktól azt a szart, különben megölném ?ket. Erre mi történik? Richie meghal túladagolásban... Valaki egy tonna Jetet tömött bele, olyan sokat, hogy Jet-g?z jött ki az orrán.}
+{341}{}{Ã‰s Ã©n mÃ©gis hogy segÃ­thetek ebben?}
+{342}{}{Ã–Ã¶Ã¶... Nem igazÃ¡n lÃ¡tom, miben se...}
+{350}{}{Meg akarom tudni, melyik dÃ­ler nyomta bele Richard-ba azt a SZART. AkÃ¡rmikor kikÃ¼ldÃ¶m a srÃ¡caimat, hogy nÃ©zzenek utÃ¡na, semmit nem tudnak felmutatni. Lehet, hogy egy nem Wright vÃ©rb?l valÃ³ ember kÃ©pes lenne valamit talÃ¡lni.}
+{351}{}{Ã–Ã¶Ã¶, "Belenyomta valaki?"}
+{352}{}{ElvÃ¡llalom a munkÃ¡t.}
+{353}{}{Nem, ez a munka nem fekszik nekem. InkÃ¡bb megyek.}
+{360}{}{(ElvÃ¶rÃ¶sÃ¶dik.) Az Ã©n fiaim tisztÃ¡k, Ã©s tudjÃ¡k hogy tÃ¡vol kell tartaniuk maguktÃ³l azt a szart, kÃ¼lÃ¶nben megÃ¶lnÃ©m ?ket. Erre mi tÃ¶rtÃ©nik? Richie meghal tÃºladagolÃ¡sban... Valaki egy tonna Jetet tÃ¶mÃ¶tt bele, olyan sokat, hogy Jet-g?z jÃ¶tt ki az orrÃ¡n.}
 {361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
-{362}{}{Hmmm. Elvállalom a munkát.}
-{370}{}{(Rábólint.) Rendben van. Hallgass ide: Meg kell találnod a fiam gyilkosát! Ne essen bántódása... csak gyere vissza és MONDD el a hullajelölt nevét. (Ádázul néz rád.) Onnantól majd mi intézzük a dolgokat.}
-{371}{}{Még nem beszéltünk az árról.}
-{372}{}{Van valami elképzelése, ki tehette?}
-{373}{}{Találjam meg azt az embert, akit?l Richard a Jetet kapta, ne bántsam, csak jöjjek vissza és közöljem a nevét. Megértettem.}
-{380}{}{Igazad van... mivel NAGY SZAVAKON kívül még semmit nem mutattál fel, nincs ideje az árról beszélnünk. Ellenben lehet?vé teszem számodra, hogy bebizonyítsd a rátermettségedet. Végezd el a munkát, a pénz pedig ne aggasszon! Wrightként a szavamat adom.}
-{383}{}{Akkor felejtse el. Csak a bolondok dolgoznak semmiért. Le is léptem...}
+{362}{}{Hmmm. ElvÃ¡llalom a munkÃ¡t.}
+{370}{}{(RÃ¡bÃ³lint.) Rendben van. Hallgass ide: Meg kell talÃ¡lnod a fiam gyilkosÃ¡t! Ne essen bÃ¡ntÃ³dÃ¡sa... csak gyere vissza Ã©s MONDD el a hullajelÃ¶lt nevÃ©t. (ÃdÃ¡zul nÃ©z rÃ¡d.) OnnantÃ³l majd mi intÃ©zzÃ¼k a dolgokat.}
+{371}{}{MÃ©g nem beszÃ©ltÃ¼nk az Ã¡rrÃ³l.}
+{372}{}{Van valami elkÃ©pzelÃ©se, ki tehette?}
+{373}{}{TalÃ¡ljam meg azt az embert, akit?l Richard a Jetet kapta, ne bÃ¡ntsam, csak jÃ¶jjek vissza Ã©s kÃ¶zÃ¶ljem a nevÃ©t. MegÃ©rtettem.}
+{380}{}{Igazad van... mivel NAGY SZAVAKON kÃ­vÃ¼l mÃ©g semmit nem mutattÃ¡l fel, nincs ideje az Ã¡rrÃ³l beszÃ©lnÃ¼nk. Ellenben lehet?vÃ© teszem szÃ¡modra, hogy bebizonyÃ­tsd a rÃ¡termettsÃ©gedet. VÃ©gezd el a munkÃ¡t, a pÃ©nz pedig ne aggasszon! WrightkÃ©nt a szavamat adom.}
+{383}{}{Akkor felejtse el. Csak a bolondok dolgoznak semmiÃ©rt. Le is lÃ©ptem...}
 {390}{}{(Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno
  drug pushers, see what they know. That Jet came from SOMEWHERE.}
-{391}{}{Gyanakszik valamelyik dílerre?}
-{393}{}{Nézze, ez a munka nagyon nem fekszik nekem. Inkább lelépek...}
-{400}{}{Már megint te vagy? Rájöttél, ki ölte meg a fiamat?}
-{401}{}{Még nem, de dolgozom az ügyön.}
-{402}{}{Igen, Jules volt, az el?városi díler.}
-{403}{}{Csipkés Jimmy J. volt, a 2. utcai díler.}
-{404}{}{Rakétás Renesco, a vén fószer tette.}
+{391}{}{Gyanakszik valamelyik dÃ­lerre?}
+{393}{}{NÃ©zze, ez a munka nagyon nem fekszik nekem. InkÃ¡bb lelÃ©pek...}
+{400}{}{MÃ¡r megint te vagy? RÃ¡jÃ¶ttÃ©l, ki Ã¶lte meg a fiamat?}
+{401}{}{MÃ©g nem, de dolgozom az Ã¼gyÃ¶n.}
+{402}{}{Igen, Jules volt, az el?vÃ¡rosi dÃ­ler.}
+{403}{}{CsipkÃ©s Jimmy J. volt, a 2. utcai dÃ­ler.}
+{404}{}{RakÃ©tÃ¡s Renesco, a vÃ©n fÃ³szer tette.}
 {405}{}{Kis Jesus Mordino a ludas.}
-{406}{}{A fia nem túladagolástól halt meg, hanem megmérgezték.}
-{415}{}{Valóban? Azt rebesgetik, az a gazfickó már meghalt, de azt hiszem, ez nem újdonság számodra. MONDTAM, hogy a haja szála se görbüljön, erre elcseszed! Most MEGHALSZ!}
-{416}{}{Várjon...}
-{417}{}{Ó, hát igen...}
-{425}{}{Annak a gazembernek ez volt az utolsó napja. Reggelre meghal. Persze sokat fog szenvedni...}
-{426}{}{Akkor ha rátérhetnénk a fizetségemre...}
-{427}{}{Azt kapja, amit megérdemel.}
-{428}{}{Ööö... viszont nem Renesco adta a Jetet Richard-nak... nem tudta, hogy mire kell... valójában a SALVATORE család mérgezte meg a fiát.}
-{435}{}{Leköteleztél... Leköteleztél! }
-{436}{}{Miel?tt belemennénk a részletekbe, intézzük el a mocskos anyagiakat... }
-{437}{}{Itt van számodra némi zsebpénz, l?szer meg egy kis pia a magánraktáramból... és ha érdekel, egy újabb munka.}
-{438}{}{Érdekel a dolog.}
-{439}{}{Nem, köszönöm. Szép napot magának.}
-{445}{}{Ha még egyszer úgy idejössz, vadember, hogy nem csináltad meg a feladatot, fellógatunk a Golgotán! SENKI nem fogja az én id?met pazarolni. Megértetted?}
-{446}{}{Ha azt hiszed, vadember, hogy úgy táncolok, ahogy fütyülsz, nagyon tévedsz. Elég volt a baromságaidból! (Kiabálni kezd.) Fiúk! Ide mindenki!}
-{447}{}{Megértettem.}
-{448}{}{Mr. Wright, nem én vagyok az, aki megfelel erre a feladatra. Találjon valaki mást helyettem!}
+{406}{}{A fia nem tÃºladagolÃ¡stÃ³l halt meg, hanem megmÃ©rgeztÃ©k.}
+{415}{}{ValÃ³ban? Azt rebesgetik, az a gazfickÃ³ mÃ¡r meghalt, de azt hiszem, ez nem ÃºjdonsÃ¡g szÃ¡modra. MONDTAM, hogy a haja szÃ¡la se gÃ¶rbÃ¼ljÃ¶n, erre elcseszed! Most MEGHALSZ!}
+{416}{}{VÃ¡rjon...}
+{417}{}{Ã“, hÃ¡t igen...}
+{425}{}{Annak a gazembernek ez volt az utolsÃ³ napja. Reggelre meghal. Persze sokat fog szenvedni...}
+{426}{}{Akkor ha rÃ¡tÃ©rhetnÃ©nk a fizetsÃ©gemre...}
+{427}{}{Azt kapja, amit megÃ©rdemel.}
+{428}{}{Ã–Ã¶Ã¶... viszont nem Renesco adta a Jetet Richard-nak... nem tudta, hogy mire kell... valÃ³jÃ¡ban a SALVATORE csalÃ¡d mÃ©rgezte meg a fiÃ¡t.}
+{435}{}{LekÃ¶teleztÃ©l... LekÃ¶teleztÃ©l! }
+{436}{}{Miel?tt belemennÃ©nk a rÃ©szletekbe, intÃ©zzÃ¼k el a mocskos anyagiakat... }
+{437}{}{Itt van szÃ¡modra nÃ©mi zsebpÃ©nz, l?szer meg egy kis pia a magÃ¡nraktÃ¡rambÃ³l... Ã©s ha Ã©rdekel, egy Ãºjabb munka.}
+{438}{}{Ã‰rdekel a dolog.}
+{439}{}{Nem, kÃ¶szÃ¶nÃ¶m. SzÃ©p napot magÃ¡nak.}
+{445}{}{Ha mÃ©g egyszer Ãºgy idejÃ¶ssz, vadember, hogy nem csinÃ¡ltad meg a feladatot, fellÃ³gatunk a GolgotÃ¡n! SENKI nem fogja az Ã©n id?met pazarolni. MegÃ©rtetted?}
+{446}{}{Ha azt hiszed, vadember, hogy Ãºgy tÃ¡ncolok, ahogy fÃ¼tyÃ¼lsz, nagyon tÃ©vedsz. ElÃ©g volt a baromsÃ¡gaidbÃ³l! (KiabÃ¡lni kezd.) FiÃºk! Ide mindenki!}
+{447}{}{MegÃ©rtettem.}
+{448}{}{Mr. Wright, nem Ã©n vagyok az, aki megfelel erre a feladatra. TalÃ¡ljon valaki mÃ¡st helyettem!}
 {449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
 {451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
 {453}{}{Takarodj ki innen!}
-{465}{}{Nem is olyan régen kezembe került egy közeli hegyekr?l készült térkép, amely egy katonai bázist jelöl. Találj rá módot, hogyan lehetne bejutni oda, aztán meglátom, hogy s mint legyen...}
+{465}{}{Nem is olyan rÃ©gen kezembe kerÃ¼lt egy kÃ¶zeli hegyekr?l kÃ©szÃ¼lt tÃ©rkÃ©p, amely egy katonai bÃ¡zist jelÃ¶l. TalÃ¡lj rÃ¡ mÃ³dot, hogyan lehetne bejutni oda, aztÃ¡n meglÃ¡tom, hogy s mint legyen...}
 {466}{}{Oki Doki Miszter Orderville}
 {467}{}{ indula. }
-{468}{}{Rendben. Megyek és utána nézek.}
-{469}{}{Miért én menjek? Nem küldött még el senkit?}
-{470}{}{Köszönöm, de ez engem nem érdekel. Viszlát!}
-{471}{}{Már sikerült bejutnom a bázisra. Egy csomó fegyver és katonai felszerelés van odabenn, mind csak arra vár, hogy elvigye valaki.}
-{472}{}{Már sikerült bejutnom a bázisba. A probléma az, hogy történet egy kis... baleset... az egész bázis szennyezetté vált.}
-{480}{}{(Mr. Wright arca megfeszül egy pillanatra, aztán horkant egyet.) Heh. Nem igazán. A fickók, akikt?l szereztem a térképet, halottak. Elég tökös gyerekek voltak, de amikor be akartak jutni a bázisba, kinyiffantak.}
-{481}{}{EGYÁLTALÁN be sem jutottak?}
-{485}{}{Miel?tt végleg kilehellte volna a lelkét... az egyetlen túlél? azt mondta... hogy valami szuper lövegtornyok védik a bejáratot. A legtöbb emberét megölték.}
-{486}{}{Mi történt a túlél?vel?}
-{487}{}{Hmmmm. Akkor jó lesz vigyáznom. Mellesleg elfogadom a megbízatást.}
-{488}{}{Felejtse el! Arról nem volt szó, hogy ez ennyire veszélyes.}
-{495}{}{Ó, a vén Sam Pritchard? Szomorú történet az övé. Egyik éjszaka leitta magát, és megemlítette Keith fiamnak, hogy megtalálták azt a bázist. Miután lerajzolta a térképet egész véletlenül MEGHALT. Most a Golgotán nyugszik.}
-{496}{}{Úgy látszik, Reno hemzseg a szomorú történetekt?l. Elfogadom a megbízatást.}
-{497}{}{Tudja, éppen az ilyen sztorik szoktak kijózanítani, hogy még véletlenül se fogadjam el az ehhez hasonló munkákat. Na, legyen jó, Wright.}
-{505}{}{(A fejét ingatja...) Nem örülök. Ha meggondolnád magad, látogass meg újra!}
-{506}{}{Úgy lesz.}
-{515}{}{(Wright, amikor meglát, elmosolyodik.) Meggondoltad magad az ajánlatomat illet?en?}
-{516}{}{Mi is volt az az ajánlat?}
-{517}{}{Nem, csak beugrottam. Már megyek is.}
-{525}{}{(Mosolyogva bólogat.) Rendben van. Ha sikerült bejutnod, látogass meg újra és megjutalmazlak. Ami pedig a bázis pontos helyét illeti... indulj észak felé, aztán... (Megadja a katonai bázis kordinátáit.)}
-{526}{}{Rendben. Megyek felderíteni a terepet. Ha bejutottam, újra felkeresem magát.}
-{535}{}{Ah, te vagy az? Hoztál valami jó hírt? Sikerült bejutnod abba a katonai bázisba?}
-{536}{}{Ha újra idejössz és még mindig nem jutottál be, nagyon megjárod.}
-{537}{}{Még nem.}
-{538}{}{Igen. Sikerült bejutnom és egy rakás régi fegyverre meg katonai felszerelésre bukkantam odabenn. Szabad préda. Most akár a fizetségr?l is beszélhetnénk...}
-{539}{}{Bejutottam a bázisra, de történt egy kis... baleset... a bázist súlyos szennyezés érte.}
-{540}{}{Sajnálom. Ha majd bejutok a katonai bázisba, újra visszajövök.}
-{541}{}{Csessze meg a megbízatását, meg magát is. Lépek ezerrel!}
-{550}{}{Ha még nem végeztél a rád bízott munkával, akkor mi a fészkes fenét keresel itt?! Az a dolgod, hogy betörj abba a bázisba! Amíg ez nem történt meg, ne gyere folyton-folyvást vissza!}
-{551}{}{Rendben, amint bejutottam a katonai bázisba, visszajövök.}
-{560}{}{Ha még egyszer visszajössz anélkül, hogy a rádbízott feladatot megcsináltad volna, a Golgotán fogod végezni. SENKI nem fecsérelheti a drága id?met! Megértetted?}
-{561}{}{Sajnálod? SAJNÁLOD? Ezúttal ez nem fog kirángatni a bajból, te el?ember! Ha azt hiszed, hogy büntetlenül fecsérelheted az id?met, nagyon tévedsz! Szerzek szépen valakit, aki mostantól betölti a helyedet! (Az ajtó felé kiált.) Fiúk! Gyertek ide gyorsan!}
-{562}{}{Megértettem. Ha kész vagyok, visszajövök.}
-{575}{}{. Tetszik, tetszik. Van stílusa. Mostantól, ha beugrasz a Cat's Paw-ba vagy a New Reno-i fegyerboltba, jó elbánásban lesz részed. Ha ingyen itóka kell, látogasd meg a vasútállomást is. Mindenben ellátlak.}
-{576}{}{Köszönöm. Úgy teszek.}
-{580}{}{(A szeme csak úgy ragyog.) Jól elvégezted a munkát, }
-{581}{}{"Baleset"? A picsába, nem akarok hallani ilyesmit! T?nés innen és soha többet ne is lássalak!}
-{582}{}{Köszönöm, Mr. Wright. Ha tényleg családtag leszek, akkor a nevem legyen... }
+{468}{}{Rendben. Megyek Ã©s utÃ¡na nÃ©zek.}
+{469}{}{MiÃ©rt Ã©n menjek? Nem kÃ¼ldÃ¶tt mÃ©g el senkit?}
+{470}{}{KÃ¶szÃ¶nÃ¶m, de ez engem nem Ã©rdekel. ViszlÃ¡t!}
+{471}{}{MÃ¡r sikerÃ¼lt bejutnom a bÃ¡zisra. Egy csomÃ³ fegyver Ã©s katonai felszerelÃ©s van odabenn, mind csak arra vÃ¡r, hogy elvigye valaki.}
+{472}{}{MÃ¡r sikerÃ¼lt bejutnom a bÃ¡zisba. A problÃ©ma az, hogy tÃ¶rtÃ©net egy kis... baleset... az egÃ©sz bÃ¡zis szennyezettÃ© vÃ¡lt.}
+{480}{}{(Mr. Wright arca megfeszÃ¼l egy pillanatra, aztÃ¡n horkant egyet.) Heh. Nem igazÃ¡n. A fickÃ³k, akikt?l szereztem a tÃ©rkÃ©pet, halottak. ElÃ©g tÃ¶kÃ¶s gyerekek voltak, de amikor be akartak jutni a bÃ¡zisba, kinyiffantak.}
+{481}{}{EGYÃLTALÃN be sem jutottak?}
+{485}{}{Miel?tt vÃ©gleg kilehellte volna a lelkÃ©t... az egyetlen tÃºlÃ©l? azt mondta... hogy valami szuper lÃ¶vegtornyok vÃ©dik a bejÃ¡ratot. A legtÃ¶bb emberÃ©t megÃ¶ltÃ©k.}
+{486}{}{Mi tÃ¶rtÃ©nt a tÃºlÃ©l?vel?}
+{487}{}{Hmmmm. Akkor jÃ³ lesz vigyÃ¡znom. Mellesleg elfogadom a megbÃ­zatÃ¡st.}
+{488}{}{Felejtse el! ArrÃ³l nem volt szÃ³, hogy ez ennyire veszÃ©lyes.}
+{495}{}{Ã“, a vÃ©n Sam Pritchard? SzomorÃº tÃ¶rtÃ©net az Ã¶vÃ©. Egyik Ã©jszaka leitta magÃ¡t, Ã©s megemlÃ­tette Keith fiamnak, hogy megtalÃ¡ltÃ¡k azt a bÃ¡zist. MiutÃ¡n lerajzolta a tÃ©rkÃ©pet egÃ©sz vÃ©letlenÃ¼l MEGHALT. Most a GolgotÃ¡n nyugszik.}
+{496}{}{Ãšgy lÃ¡tszik, Reno hemzseg a szomorÃº tÃ¶rtÃ©netekt?l. Elfogadom a megbÃ­zatÃ¡st.}
+{497}{}{Tudja, Ã©ppen az ilyen sztorik szoktak kijÃ³zanÃ­tani, hogy mÃ©g vÃ©letlenÃ¼l se fogadjam el az ehhez hasonlÃ³ munkÃ¡kat. Na, legyen jÃ³, Wright.}
+{505}{}{(A fejÃ©t ingatja...) Nem Ã¶rÃ¼lÃ¶k. Ha meggondolnÃ¡d magad, lÃ¡togass meg Ãºjra!}
+{506}{}{Ãšgy lesz.}
+{515}{}{(Wright, amikor meglÃ¡t, elmosolyodik.) Meggondoltad magad az ajÃ¡nlatomat illet?en?}
+{516}{}{Mi is volt az az ajÃ¡nlat?}
+{517}{}{Nem, csak beugrottam. MÃ¡r megyek is.}
+{525}{}{(Mosolyogva bÃ³logat.) Rendben van. Ha sikerÃ¼lt bejutnod, lÃ¡togass meg Ãºjra Ã©s megjutalmazlak. Ami pedig a bÃ¡zis pontos helyÃ©t illeti... indulj Ã©szak felÃ©, aztÃ¡n... (Megadja a katonai bÃ¡zis kordinÃ¡tÃ¡it.)}
+{526}{}{Rendben. Megyek felderÃ­teni a terepet. Ha bejutottam, Ãºjra felkeresem magÃ¡t.}
+{535}{}{Ah, te vagy az? HoztÃ¡l valami jÃ³ hÃ­rt? SikerÃ¼lt bejutnod abba a katonai bÃ¡zisba?}
+{536}{}{Ha Ãºjra idejÃ¶ssz Ã©s mÃ©g mindig nem jutottÃ¡l be, nagyon megjÃ¡rod.}
+{537}{}{MÃ©g nem.}
+{538}{}{Igen. SikerÃ¼lt bejutnom Ã©s egy rakÃ¡s rÃ©gi fegyverre meg katonai felszerelÃ©sre bukkantam odabenn. Szabad prÃ©da. Most akÃ¡r a fizetsÃ©gr?l is beszÃ©lhetnÃ©nk...}
+{539}{}{Bejutottam a bÃ¡zisra, de tÃ¶rtÃ©nt egy kis... baleset... a bÃ¡zist sÃºlyos szennyezÃ©s Ã©rte.}
+{540}{}{SajnÃ¡lom. Ha majd bejutok a katonai bÃ¡zisba, Ãºjra visszajÃ¶vÃ¶k.}
+{541}{}{Csessze meg a megbÃ­zatÃ¡sÃ¡t, meg magÃ¡t is. LÃ©pek ezerrel!}
+{550}{}{Ha mÃ©g nem vÃ©geztÃ©l a rÃ¡d bÃ­zott munkÃ¡val, akkor mi a fÃ©szkes fenÃ©t keresel itt?! Az a dolgod, hogy betÃ¶rj abba a bÃ¡zisba! AmÃ­g ez nem tÃ¶rtÃ©nt meg, ne gyere folyton-folyvÃ¡st vissza!}
+{551}{}{Rendben, amint bejutottam a katonai bÃ¡zisba, visszajÃ¶vÃ¶k.}
+{560}{}{Ha mÃ©g egyszer visszajÃ¶ssz anÃ©lkÃ¼l, hogy a rÃ¡dbÃ­zott feladatot megcsinÃ¡ltad volna, a GolgotÃ¡n fogod vÃ©gezni. SENKI nem fecsÃ©relheti a drÃ¡ga id?met! MegÃ©rtetted?}
+{561}{}{SajnÃ¡lod? SAJNÃLOD? EzÃºttal ez nem fog kirÃ¡ngatni a bajbÃ³l, te el?ember! Ha azt hiszed, hogy bÃ¼ntetlenÃ¼l fecsÃ©relheted az id?met, nagyon tÃ©vedsz! Szerzek szÃ©pen valakit, aki mostantÃ³l betÃ¶lti a helyedet! (Az ajtÃ³ felÃ© kiÃ¡lt.) FiÃºk! Gyertek ide gyorsan!}
+{562}{}{MegÃ©rtettem. Ha kÃ©sz vagyok, visszajÃ¶vÃ¶k.}
+{575}{}{. Tetszik, tetszik. Van stÃ­lusa. MostantÃ³l, ha beugrasz a Cat's Paw-ba vagy a New Reno-i fegyerboltba, jÃ³ elbÃ¡nÃ¡sban lesz rÃ©szed. Ha ingyen itÃ³ka kell, lÃ¡togasd meg a vasÃºtÃ¡llomÃ¡st is. Mindenben ellÃ¡tlak.}
+{576}{}{KÃ¶szÃ¶nÃ¶m. Ãšgy teszek.}
+{580}{}{(A szeme csak Ãºgy ragyog.) JÃ³l elvÃ©gezted a munkÃ¡t, }
+{581}{}{"Baleset"? A picsÃ¡ba, nem akarok hallani ilyesmit! T?nÃ©s innen Ã©s soha tÃ¶bbet ne is lÃ¡ssalak!}
+{582}{}{KÃ¶szÃ¶nÃ¶m, Mr. Wright. Ha tÃ©nyleg csalÃ¡dtag leszek, akkor a nevem legyen... }
 {583}{}{Akkor rendben vagyunk.}
-{584}{}{Szóval, hogy nevezzünk téged?}
-{590}{}{(Amikor észrevesz, mosolyogni kezd.) }
+{584}{}{SzÃ³val, hogy nevezzÃ¼nk tÃ©ged?}
+{590}{}{(Amikor Ã©szrevesz, mosolyogni kezd.) }
 {591}{}{Hogyne. Hogy mennek a dolgai, Mr. Wright?}
-{592}{}{Hogyne. Épp csak beugrottam, Mr. Wright. Vigyázzon magára, uram!}
-{600}{}{(Kuncog.) Nem rosszul, nem rosszul. A feleségem még mindig olyan, mint az istencsapása, de ez nem újdonság. Élvezem a házasságot.}
-{601}{}{Értem. Hát csak úgy beugrottam, Mr. Wright. Vigyázzon magára, uram!}
-{610}{}{Hogy mérges vagyok-e? Hogy a francba ne lennék! A feleségem berontott az egyik szeszf?zdémbe. Nem tudom, hogy a jó életbe talált rá, de...}
-{611}{}{Hogy mérges vagyok-e? Hogy a francba ne lennék! Valami istenverte barom berontott az egyik szeszf?zdémbe. Nem tudom, hogy a jó életbe rombolta szét, de...}
-{612}{}{Hogy mérges vagyok-e? Hogy a francba ne lennék! A kuncsaftjaim folyamatosan kihalnak... szó szerint. Valami nem stimmel az alkohollal, szerintem az öli a népet. Lehet, hogy az érlelési folyamat mérget termel...}
-{613}{}{Valószín?leg véletlenül bukkant rá. Kétségtelenül a vakszerencse vezette oda! Nem hiszem, hogy bárki is elmondta volna neki. Nagyon valószín?tlen.}
-{614}{}{Hát azok a régi gépek folyton lerobbannak! Nem hiszem, hogy valaki készakarva csinálta. Nagyon valószín?tlen.}
-{615}{}{Hát nem hiszem, hogy bármi köze lenne a tartályokban talált levágott radskorpió farokhoz. Er?sen kétlem.}
-{620}{}{Fura, hogy kérded. A fiam szerzett egy fegyvert valahonnan... szerintem valamelyik család m?ve ez, hogy esetleg véletlenül lel?je magát vagy engem. Ha elkapom azt a disznót, aki csinálta...}
-{621}{}{Öö, egy fegyvert? Tényleg? Igaza lehet, uram, valószín?leg a másik családból adhatta valaki a srácnak. Nehéz lesz amúgy kinyomozni. Én nem vacakolnék ezzel.}
-{625}{}{(Bólogat.) Valószín?leg nem ügy. Nos, hát...}
-{626}{}{Hogyne. Hát én csak úgy benéztem, Mr. Wright. Vigyázzon magára, uram!}
-{630}{}{(A homlokát ráncolja.) Amennyire én látom, valószín?leg egy Mordino díler volt... az az átkozott család bitorolja majdnem az egész renói Jet-piacot. Én benéznék a Desperadóba, és utánanéznék, miféle dílerek szoktak ott henyélni.}
-{640}{}{Mi...? "Megmérgezték?" Mi a fészkes nyavalyáról beszélsz te itten?}
-{641}{}{Megvizsgáltam a fia holttestét. Nem Jet ölte meg... a testén még mindig radskorpió-méreg nyomai voltak felfedezhet?k.}
-{642}{}{Megtaláltam azt a Jet-ampullát, amit Richard használt... ööö, amit Richard-on használtak. Radskorpió-méreg nyomait lehet rajta felfedezni.}
-{643}{}{Találtam egy Jet-ampullát, amit Richard használt... ööö, amit Richard-on használtak. Radskorpió-méreg nyomait lehet rajta felfedezni.}
-{644}{}{A srácot radskorpió méreggel ölték meg. A Jet túladagolás csak látszat.}
-{650}{}{Hogyhogy megvizsgáltad a fiam holttestét?}
-{651}{}{Hát igen, fel kellett tárnom a sírját, hogy megszemlélhessem.}
-{652}{}{Öö... ön ROSSZUL ÉRTETTE. Megbotlott a nyelvem. A fia holttestét helyett azt akartam mondani, hogy "egy maffiatag holttestét". Igen, ezt akartam mondani.}
-{653}{}{Ez nem biztos, hogy a legjobb alkalom az ilyesmi megbeszélésére. Kés?bb még beszélünk.}
-{660}{}{Te hullarabló féreg...}
-{661}{}{Te hullarabló ringyó...}
-{662}{}{ kiérdemeltél magadnak egy szép kis helyet a Golgotán. Mármint ha az összes darabkádat megtalálják. (Kiabálni kezd.) Fiúk! Gyorsan ide! Hozzátok a késeket!}
-{663}{}{Egy pillanat! Nem tudnánk ezt emberi módon megbeszélni?}
-{664}{}{Késsekkel nemigen fognak engem bántalmazni...}
-{665}{}{Elnézést kérek. Találkám van a kijárattal.}
-{670}{}{Tegyük fel, hogy elhiszem ezt... nem mintha úgy lenne... de akkor mégis ki MÉRGEZTE MEG a fiamat? És miért fárasztották magukat, hogy Jetet adjanak neki?}
-{671}{}{Azt mondják, hogy a Salvatorék voltak. Radskorpió méreggel dúsított Jetet adtak be neki, aztán otthagyták, hogy maga találjon rá.}
-{672}{}{Nem tudom, melyik Salvatore tette. Renesco összetákolt nekik egy kis Jetet, de nem tudta, hogy az ön fia megmérgezésére fogják használni.}
+{592}{}{Hogyne. Ã‰pp csak beugrottam, Mr. Wright. VigyÃ¡zzon magÃ¡ra, uram!}
+{600}{}{(Kuncog.) Nem rosszul, nem rosszul. A felesÃ©gem mÃ©g mindig olyan, mint az istencsapÃ¡sa, de ez nem ÃºjdonsÃ¡g. Ã‰lvezem a hÃ¡zassÃ¡got.}
+{601}{}{Ã‰rtem. HÃ¡t csak Ãºgy beugrottam, Mr. Wright. VigyÃ¡zzon magÃ¡ra, uram!}
+{610}{}{Hogy mÃ©rges vagyok-e? Hogy a francba ne lennÃ©k! A felesÃ©gem berontott az egyik szeszf?zdÃ©mbe. Nem tudom, hogy a jÃ³ Ã©letbe talÃ¡lt rÃ¡, de...}
+{611}{}{Hogy mÃ©rges vagyok-e? Hogy a francba ne lennÃ©k! Valami istenverte barom berontott az egyik szeszf?zdÃ©mbe. Nem tudom, hogy a jÃ³ Ã©letbe rombolta szÃ©t, de...}
+{612}{}{Hogy mÃ©rges vagyok-e? Hogy a francba ne lennÃ©k! A kuncsaftjaim folyamatosan kihalnak... szÃ³ szerint. Valami nem stimmel az alkohollal, szerintem az Ã¶li a nÃ©pet. Lehet, hogy az Ã©rlelÃ©si folyamat mÃ©rget termel...}
+{613}{}{ValÃ³szÃ­n?leg vÃ©letlenÃ¼l bukkant rÃ¡. KÃ©tsÃ©gtelenÃ¼l a vakszerencse vezette oda! Nem hiszem, hogy bÃ¡rki is elmondta volna neki. Nagyon valÃ³szÃ­n?tlen.}
+{614}{}{HÃ¡t azok a rÃ©gi gÃ©pek folyton lerobbannak! Nem hiszem, hogy valaki kÃ©szakarva csinÃ¡lta. Nagyon valÃ³szÃ­n?tlen.}
+{615}{}{HÃ¡t nem hiszem, hogy bÃ¡rmi kÃ¶ze lenne a tartÃ¡lyokban talÃ¡lt levÃ¡gott radskorpiÃ³ farokhoz. Er?sen kÃ©tlem.}
+{620}{}{Fura, hogy kÃ©rded. A fiam szerzett egy fegyvert valahonnan... szerintem valamelyik csalÃ¡d m?ve ez, hogy esetleg vÃ©letlenÃ¼l lel?je magÃ¡t vagy engem. Ha elkapom azt a disznÃ³t, aki csinÃ¡lta...}
+{621}{}{Ã–Ã¶, egy fegyvert? TÃ©nyleg? Igaza lehet, uram, valÃ³szÃ­n?leg a mÃ¡sik csalÃ¡dbÃ³l adhatta valaki a srÃ¡cnak. NehÃ©z lesz amÃºgy kinyomozni. Ã‰n nem vacakolnÃ©k ezzel.}
+{625}{}{(BÃ³logat.) ValÃ³szÃ­n?leg nem Ã¼gy. Nos, hÃ¡t...}
+{626}{}{Hogyne. HÃ¡t Ã©n csak Ãºgy benÃ©ztem, Mr. Wright. VigyÃ¡zzon magÃ¡ra, uram!}
+{630}{}{(A homlokÃ¡t rÃ¡ncolja.) Amennyire Ã©n lÃ¡tom, valÃ³szÃ­n?leg egy Mordino dÃ­ler volt... az az Ã¡tkozott csalÃ¡d bitorolja majdnem az egÃ©sz renÃ³i Jet-piacot. Ã‰n benÃ©znÃ©k a DesperadÃ³ba, Ã©s utÃ¡nanÃ©znÃ©k, mifÃ©le dÃ­lerek szoktak ott henyÃ©lni.}
+{640}{}{Mi...? "MegmÃ©rgeztÃ©k?" Mi a fÃ©szkes nyavalyÃ¡rÃ³l beszÃ©lsz te itten?}
+{641}{}{MegvizsgÃ¡ltam a fia holttestÃ©t. Nem Jet Ã¶lte meg... a testÃ©n mÃ©g mindig radskorpiÃ³-mÃ©reg nyomai voltak felfedezhet?k.}
+{642}{}{MegtalÃ¡ltam azt a Jet-ampullÃ¡t, amit Richard hasznÃ¡lt... Ã¶Ã¶Ã¶, amit Richard-on hasznÃ¡ltak. RadskorpiÃ³-mÃ©reg nyomait lehet rajta felfedezni.}
+{643}{}{TalÃ¡ltam egy Jet-ampullÃ¡t, amit Richard hasznÃ¡lt... Ã¶Ã¶Ã¶, amit Richard-on hasznÃ¡ltak. RadskorpiÃ³-mÃ©reg nyomait lehet rajta felfedezni.}
+{644}{}{A srÃ¡cot radskorpiÃ³ mÃ©reggel Ã¶ltÃ©k meg. A Jet tÃºladagolÃ¡s csak lÃ¡tszat.}
+{650}{}{Hogyhogy megvizsgÃ¡ltad a fiam holttestÃ©t?}
+{651}{}{HÃ¡t igen, fel kellett tÃ¡rnom a sÃ­rjÃ¡t, hogy megszemlÃ©lhessem.}
+{652}{}{Ã–Ã¶... Ã¶n ROSSZUL Ã‰RTETTE. Megbotlott a nyelvem. A fia holttestÃ©t helyett azt akartam mondani, hogy "egy maffiatag holttestÃ©t". Igen, ezt akartam mondani.}
+{653}{}{Ez nem biztos, hogy a legjobb alkalom az ilyesmi megbeszÃ©lÃ©sÃ©re. KÃ©s?bb mÃ©g beszÃ©lÃ¼nk.}
+{660}{}{Te hullarablÃ³ fÃ©reg...}
+{661}{}{Te hullarablÃ³ ringyÃ³...}
+{662}{}{ kiÃ©rdemeltÃ©l magadnak egy szÃ©p kis helyet a GolgotÃ¡n. MÃ¡rmint ha az Ã¶sszes darabkÃ¡dat megtalÃ¡ljÃ¡k. (KiabÃ¡lni kezd.) FiÃºk! Gyorsan ide! HozzÃ¡tok a kÃ©seket!}
+{663}{}{Egy pillanat! Nem tudnÃ¡nk ezt emberi mÃ³don megbeszÃ©lni?}
+{664}{}{KÃ©ssekkel nemigen fognak engem bÃ¡ntalmazni...}
+{665}{}{ElnÃ©zÃ©st kÃ©rek. TalÃ¡lkÃ¡m van a kijÃ¡rattal.}
+{670}{}{TegyÃ¼k fel, hogy elhiszem ezt... nem mintha Ãºgy lenne... de akkor mÃ©gis ki MÃ‰RGEZTE MEG a fiamat? Ã‰s miÃ©rt fÃ¡rasztottÃ¡k magukat, hogy Jetet adjanak neki?}
+{671}{}{Azt mondjÃ¡k, hogy a SalvatorÃ©k voltak. RadskorpiÃ³ mÃ©reggel dÃºsÃ­tott Jetet adtak be neki, aztÃ¡n otthagytÃ¡k, hogy maga talÃ¡ljon rÃ¡.}
+{672}{}{Nem tudom, melyik Salvatore tette. Renesco Ã¶sszetÃ¡kolt nekik egy kis Jetet, de nem tudta, hogy az Ã¶n fia megmÃ©rgezÃ©sÃ©re fogjÃ¡k hasznÃ¡lni.}
 {673}{}{Nem tudom.}
-{680}{}{De mégis mi a francért csinálnának ilyet?}
+{680}{}{De mÃ©gis mi a francÃ©rt csinÃ¡lnÃ¡nak ilyet?}
 {681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
  be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
  Salvatores... all they have to worry about then is the Bishops.}
-{682}{}{Hát nem tudom. Talán meg kéne ?ket kérdezni.}
-{690}{}{(Hosszú ideig bámul rád, aztán száraz nevetés hagyja el a száját.) Megadod a választ, és semmit sem tehetek a megoldás érdekében. A Salvatorék... hogy a franc esne beléjük! (Mély lélegzetet vesz.)}
+{682}{}{HÃ¡t nem tudom. TalÃ¡n meg kÃ©ne ?ket kÃ©rdezni.}
+{690}{}{(HosszÃº ideig bÃ¡mul rÃ¡d, aztÃ¡n szÃ¡raz nevetÃ©s hagyja el a szÃ¡jÃ¡t.) Megadod a vÃ¡laszt, Ã©s semmit sem tehetek a megoldÃ¡s Ã©rdekÃ©ben. A SalvatorÃ©k... hogy a franc esne belÃ©jÃ¼k! (MÃ©ly lÃ©legzetet vesz.)}
 {691}{}{Mi a gond?}
-{692}{}{Mi az hogy "semmit sem tehetek a megoldásért"? Mit ért ezalatt?}
-{700}{}{Tudod, hogy azok a Salvatore kutyák milyen fegyvereket hordanak, barátom? Azokat az istenverte fényhozókat. Egyetlenegy Salvatore, akinek a kezében egy olyan vacak van, szempillantás alatt ki tudja irtani az egész családomat. Ezt ellensúlyozandó, szükségem lenne egy...}
+{692}{}{Mi az hogy "semmit sem tehetek a megoldÃ¡sÃ©rt"? Mit Ã©rt ezalatt?}
+{700}{}{Tudod, hogy azok a Salvatore kutyÃ¡k milyen fegyvereket hordanak, barÃ¡tom? Azokat az istenverte fÃ©nyhozÃ³kat. Egyetlenegy Salvatore, akinek a kezÃ©ben egy olyan vacak van, szempillantÃ¡s alatt ki tudja irtani az egÃ©sz csalÃ¡domat. Ezt ellensÃºlyozandÃ³, szÃ¼ksÃ©gem lenne egy...}
 {701}{}{Mi?}
-{702}{}{Ne aggódjon emiatt, már rég lenyomtam az egész Salvatore klánt.}
-{710}{}{Hah! A Renóiakat talán, de sokat kell tanulnod még a családokról... Reno határain túl még számos Salvatore vegetál, és ha csak egy is életben marad, már bajt jelent. Ahhoz, hogy legy?zzük ?ket, szükségem van egy...}
-{720}{}{(A szemöldökét még jobban összehúzza.) Ennek nagyon olyan szaga van, mint egy nagy rakás brahminszarnak...}
-{721}{}{Nem hisz nekem? Nézze, én megvizsgáltam a fia holttestét és b?zlött a radskorpió méregt?l.}
-{722}{}{Bízzon bennem... a fiát MEGMÉRGEZTÉK. Nem tudom, kicsoda, de valaki nagy energiákat ölt abba, hogy Jet túladagolásnak látszódjon.}
-{750}{}{Megoldottad a gyilkosság rejtélyét.}
-{775}{}{Megneveztél egy gyanúsítottat Richard Wright halálának ügyében.}
-{800}{}{Helyesen megállapítottad, hogy ki ölte meg Richard Wrightot és mi volt az indítéka.}
-{825}{}{A Wright család befogadott a tagjai közé.}
+{702}{}{Ne aggÃ³djon emiatt, mÃ¡r rÃ©g lenyomtam az egÃ©sz Salvatore klÃ¡nt.}
+{710}{}{Hah! A RenÃ³iakat talÃ¡n, de sokat kell tanulnod mÃ©g a csalÃ¡dokrÃ³l... Reno hatÃ¡rain tÃºl mÃ©g szÃ¡mos Salvatore vegetÃ¡l, Ã©s ha csak egy is Ã©letben marad, mÃ¡r bajt jelent. Ahhoz, hogy legy?zzÃ¼k ?ket, szÃ¼ksÃ©gem van egy...}
+{720}{}{(A szemÃ¶ldÃ¶kÃ©t mÃ©g jobban Ã¶sszehÃºzza.) Ennek nagyon olyan szaga van, mint egy nagy rakÃ¡s brahminszarnak...}
+{721}{}{Nem hisz nekem? NÃ©zze, Ã©n megvizsgÃ¡ltam a fia holttestÃ©t Ã©s b?zlÃ¶tt a radskorpiÃ³ mÃ©regt?l.}
+{722}{}{BÃ­zzon bennem... a fiÃ¡t MEGMÃ‰RGEZTÃ‰K. Nem tudom, kicsoda, de valaki nagy energiÃ¡kat Ã¶lt abba, hogy Jet tÃºladagolÃ¡snak lÃ¡tszÃ³djon.}
+{750}{}{Megoldottad a gyilkossÃ¡g rejtÃ©lyÃ©t.}
+{775}{}{MegneveztÃ©l egy gyanÃºsÃ­tottat Richard Wright halÃ¡lÃ¡nak Ã¼gyÃ©ben.}
+{800}{}{Helyesen megÃ¡llapÃ­tottad, hogy ki Ã¶lte meg Richard Wrightot Ã©s mi volt az indÃ­tÃ©ka.}
+{825}{}{A Wright csalÃ¡d befogadott a tagjai kÃ¶zÃ©.}
 {5243}{}{!}
-{5249}{}{. Megbízatást szeretnék.}
+{5249}{}{. MegbÃ­zatÃ¡st szeretnÃ©k.}
 {5261}{}{!}
-{5310}{}{." Örülök, hogy beugrottál, fenemód oda vagyok a találkozástól. (A fitymálló tekintet homlokráncolásba vált.) Szóval munkát akarsz a Wright családtól, mi?}
-{5467}{}{ feltör bázis. }
-{5580}{}{. Menj el a Cat's Paw-ba és a New Reno-i fegyverboltba... mondd meg nekik, hogy én küldtelek, és majd ellátnak. Most már családtag vagy... a mi családunk tagja, és egész Reno tudni fogja ezt!}
-{5590}{}{...mindenki jól bánik veled? Nincs semmi probléma?}
-{6467}{}{ zúz!}
+{5310}{}{." Ã–rÃ¼lÃ¶k, hogy beugrottÃ¡l, fenemÃ³d oda vagyok a talÃ¡lkozÃ¡stÃ³l. (A fitymÃ¡llÃ³ tekintet homlokrÃ¡ncolÃ¡sba vÃ¡lt.) SzÃ³val munkÃ¡t akarsz a Wright csalÃ¡dtÃ³l, mi?}
+{5467}{}{ feltÃ¶r bÃ¡zis. }
+{5580}{}{. Menj el a Cat's Paw-ba Ã©s a New Reno-i fegyverboltba... mondd meg nekik, hogy Ã©n kÃ¼ldtelek, Ã©s majd ellÃ¡tnak. Most mÃ¡r csalÃ¡dtag vagy... a mi csalÃ¡dunk tagja, Ã©s egÃ©sz Reno tudni fogja ezt!}
+{5590}{}{...mindenki jÃ³l bÃ¡nik veled? Nincs semmi problÃ©ma?}
+{6467}{}{ zÃºz!}

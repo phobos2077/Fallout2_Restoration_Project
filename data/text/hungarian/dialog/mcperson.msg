@@ -1,41 +1,41 @@
-{100}{}{Egy helybéli.}
-{200}{}{Csak remélni tudom, hogy hamarosan esni fog.}
-{201}{}{A gabona ki fog pusztulni a vízhiány miatt.}
-{202}{}{Még a kutak is kiszáradtak.}
-{203}{}{Egy darab felh? sincs az égen.}
-{204}{}{Azon gondolkodom mostanában, hogy elköltözöm.}
-{205}{}{Régebben Modoc kis közössége virágzó gazdaságot tudott felmutatni.}
-{206}{}{Az élet lassú folyású Modoc városában. Én viszont épp így szeretem.}
-{220}{}{Úgy hallottam, az emberek izzó alakokat láttak éjszakánként a Kísértetfarmnál.}
-{221}{}{Maga is hallotta? Találtak valami idiótát, hogy nyomozzon a Kísértetfarmon.}
-{222}{}{Én már voltam a Kísértetfarmon. Félelmetes egy hely!}
-{223}{}{A Kísértetfarmra csak napközben érdemes menni.}
-{224}{}{Karl régebben a Kísértetfarmon élt. Most már csak kísért azon a helyen.}
-{225}{}{Az embereknek nem lenne szabad a természetfölötti dolgokba ütni az orrukat.}
-{226}{}{Miért termelnének a szellemek élelmet?}
-{240}{}{Kiderült, hogy a Kísértetfarmon él? emberek Aljanépnek nevezik magukat.}
-{241}{}{Miféle név az, hogy Aljanép?}
-{242}{}{Nem bízom az Aljanépben.}
-{243}{}{Talán bízhatnék az Aljanépben, ha biztosat tudnék Karlról.}
-{260}{}{Találkozunk a Kísértetfarmon.}
-{261}{}{Megyünk és elteszünk láb alól néhány gyilkolászós fickót az Aljanépb?l.}
-{262}{}{Remélem, hogy jót cselekszünk.}
-{263}{}{Napközben kéne támadnunk, miközben alszanak.}
-{280}{}{Az Aljanép ugyanolyan volt régen, mint mi vagyunk...}
-{281}{}{Az Aljanép gyerekeit és asszonyait is kinyírtuk.}
-{282}{}{Szemétnek érzem magam.}
-{283}{}{A kezemhez tapadt vért sosem lehet lemosni!}
-{284}{}{Remélem, soha senki nem jön rá, mit tettünk.}
-{285}{}{Súlyos hiba volt, amit az Aljanéppel tettünk.}
-{300}{}{Hallottad? Egy nagyhatalmú pap ki?zte a szellemeket a farmról.}
-{301}{}{A Kísértetfarm termése legalább egy évig életben tart majd bennünket.}
-{302}{}{A Kísértetfarmon egy csepp víz sincs.}
-{303}{}{Lehet, hogy a Kísértetfarm talaja varázser?vel bír, különben hogy n?hetne ott bármi is víz nélkül.}
-{304}{}{Meglehet, hogy a szellemek vérrel öntözik a földeket.}
-{305}{}{Szerintem a szellemek ellopták a vizünket.}
-{306}{}{Most, hogy a szellemek elmentek, úgy vélem, a dolgok újra rendes kerékvágásba váltanak.}
-{320}{}{Kereskedni fogunk az Aljanéppel.}
-{321}{}{Az aszály idejére az Aljanép folyamatos vízellátást ajánlott fel Modoc számára.}
-{322}{}{Ugye maga az, aki segített rajtunk?! Egy igazi h?s!}
-{323}{}{Megmentette Modoc városát.}
-{324}{}{Modocban mindig szívesen látott vendég lesz.}
+{100}{}{Egy helybÃ©li.}
+{200}{}{Csak remÃ©lni tudom, hogy hamarosan esni fog.}
+{201}{}{A gabona ki fog pusztulni a vÃ­zhiÃ¡ny miatt.}
+{202}{}{MÃ©g a kutak is kiszÃ¡radtak.}
+{203}{}{Egy darab felh? sincs az Ã©gen.}
+{204}{}{Azon gondolkodom mostanÃ¡ban, hogy elkÃ¶ltÃ¶zÃ¶m.}
+{205}{}{RÃ©gebben Modoc kis kÃ¶zÃ¶ssÃ©ge virÃ¡gzÃ³ gazdasÃ¡got tudott felmutatni.}
+{206}{}{Az Ã©let lassÃº folyÃ¡sÃº Modoc vÃ¡rosÃ¡ban. Ã‰n viszont Ã©pp Ã­gy szeretem.}
+{220}{}{Ãšgy hallottam, az emberek izzÃ³ alakokat lÃ¡ttak Ã©jszakÃ¡nkÃ©nt a KÃ­sÃ©rtetfarmnÃ¡l.}
+{221}{}{Maga is hallotta? TalÃ¡ltak valami idiÃ³tÃ¡t, hogy nyomozzon a KÃ­sÃ©rtetfarmon.}
+{222}{}{Ã‰n mÃ¡r voltam a KÃ­sÃ©rtetfarmon. FÃ©lelmetes egy hely!}
+{223}{}{A KÃ­sÃ©rtetfarmra csak napkÃ¶zben Ã©rdemes menni.}
+{224}{}{Karl rÃ©gebben a KÃ­sÃ©rtetfarmon Ã©lt. Most mÃ¡r csak kÃ­sÃ©rt azon a helyen.}
+{225}{}{Az embereknek nem lenne szabad a termÃ©szetfÃ¶lÃ¶tti dolgokba Ã¼tni az orrukat.}
+{226}{}{MiÃ©rt termelnÃ©nek a szellemek Ã©lelmet?}
+{240}{}{KiderÃ¼lt, hogy a KÃ­sÃ©rtetfarmon Ã©l? emberek AljanÃ©pnek nevezik magukat.}
+{241}{}{MifÃ©le nÃ©v az, hogy AljanÃ©p?}
+{242}{}{Nem bÃ­zom az AljanÃ©pben.}
+{243}{}{TalÃ¡n bÃ­zhatnÃ©k az AljanÃ©pben, ha biztosat tudnÃ©k KarlrÃ³l.}
+{260}{}{TalÃ¡lkozunk a KÃ­sÃ©rtetfarmon.}
+{261}{}{MegyÃ¼nk Ã©s elteszÃ¼nk lÃ¡b alÃ³l nÃ©hÃ¡ny gyilkolÃ¡szÃ³s fickÃ³t az AljanÃ©pb?l.}
+{262}{}{RemÃ©lem, hogy jÃ³t cselekszÃ¼nk.}
+{263}{}{NapkÃ¶zben kÃ©ne tÃ¡madnunk, mikÃ¶zben alszanak.}
+{280}{}{Az AljanÃ©p ugyanolyan volt rÃ©gen, mint mi vagyunk...}
+{281}{}{Az AljanÃ©p gyerekeit Ã©s asszonyait is kinyÃ­rtuk.}
+{282}{}{SzemÃ©tnek Ã©rzem magam.}
+{283}{}{A kezemhez tapadt vÃ©rt sosem lehet lemosni!}
+{284}{}{RemÃ©lem, soha senki nem jÃ¶n rÃ¡, mit tettÃ¼nk.}
+{285}{}{SÃºlyos hiba volt, amit az AljanÃ©ppel tettÃ¼nk.}
+{300}{}{Hallottad? Egy nagyhatalmÃº pap ki?zte a szellemeket a farmrÃ³l.}
+{301}{}{A KÃ­sÃ©rtetfarm termÃ©se legalÃ¡bb egy Ã©vig Ã©letben tart majd bennÃ¼nket.}
+{302}{}{A KÃ­sÃ©rtetfarmon egy csepp vÃ­z sincs.}
+{303}{}{Lehet, hogy a KÃ­sÃ©rtetfarm talaja varÃ¡zser?vel bÃ­r, kÃ¼lÃ¶nben hogy n?hetne ott bÃ¡rmi is vÃ­z nÃ©lkÃ¼l.}
+{304}{}{Meglehet, hogy a szellemek vÃ©rrel Ã¶ntÃ¶zik a fÃ¶ldeket.}
+{305}{}{Szerintem a szellemek elloptÃ¡k a vizÃ¼nket.}
+{306}{}{Most, hogy a szellemek elmentek, Ãºgy vÃ©lem, a dolgok Ãºjra rendes kerÃ©kvÃ¡gÃ¡sba vÃ¡ltanak.}
+{320}{}{Kereskedni fogunk az AljanÃ©ppel.}
+{321}{}{Az aszÃ¡ly idejÃ©re az AljanÃ©p folyamatos vÃ­zellÃ¡tÃ¡st ajÃ¡nlott fel Modoc szÃ¡mÃ¡ra.}
+{322}{}{Ugye maga az, aki segÃ­tett rajtunk?! Egy igazi h?s!}
+{323}{}{Megmentette Modoc vÃ¡rosÃ¡t.}
+{324}{}{Modocban mindig szÃ­vesen lÃ¡tott vendÃ©g lesz.}

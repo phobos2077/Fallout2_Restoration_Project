@@ -1,7 +1,7 @@
-{100}{}{Widzisz groŸnie wygl¹daj¹cego mê¿czyznê.}
+{100}{}{Widzisz groÅºnie wyglÄ…dajÄ…cego mÄ™Å¼czyznÄ™.}
 {101}{}{On jest przyjacielem Tylera.}
-{110}{}{Jesteœ to ¿eby zabalowaæ?}
-{111}{}{*hik* Browar na mój rachunek!}
-{112}{}{Dziwki s¹ z ty³u jeœli masz ochotê.}
-{120}{}{Nikt nie spieprzy imprezy dopóki ja jestem w pobli¿u.}
-{130}{}{Pokazaliœmy tym popieprzeñcom... Psuæ *hik* dobr¹ imprezê.}
+{110}{}{JesteÅ› to Å¼eby zabalowaÄ‡?}
+{111}{}{*hik* Browar na mÃ³j rachunek!}
+{112}{}{Dziwki sÄ… z tyÅ‚u jeÅ›li masz ochotÄ™.}
+{120}{}{Nikt nie spieprzy imprezy dopÃ³ki ja jestem w pobliÅ¼u.}
+{130}{}{PokazaliÅ›my tym popieprzeÅ„com... PsuÄ‡ *hik* dobrÄ… imprezÄ™.}

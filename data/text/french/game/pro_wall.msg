@@ -17,27 +17,27 @@
 {1700}{}{Mur en Acier}
 {1800}{}{Mur en Acier}
 {1801}{}{}
-{1900}{}{Angle du mur en tôle}
-{2000}{}{Angle du mur en tôle}
-{2100}{}{Angle du mur en tôle}
-{2200}{}{Angle du mur en tôle}
+{1900}{}{Angle du mur en tÃ´le}
+{2000}{}{Angle du mur en tÃ´le}
+{2100}{}{Angle du mur en tÃ´le}
+{2200}{}{Angle du mur en tÃ´le}
 {2300}{}{Mur en Acier}
 {2400}{}{Mur en Acier}
-{2500}{}{Angle du mur en tôle}
+{2500}{}{Angle du mur en tÃ´le}
 {2600}{}{Mur en Acier}
 {2700}{}{Mur en Acier}
-{2800}{}{Angle du mur en tôle}
+{2800}{}{Angle du mur en tÃ´le}
 {2900}{}{Mur en Acier}
 {3000}{}{Mur en Acier}
 {3001}{}{}
-{3100}{}{Mur en tôle}
-{3200}{}{Mur en tôle}
-{3300}{}{Mur en tôle}
-{3400}{}{Mur en tôle à 4 côtés}
-{3500}{}{Extrémité du mur en tôle}
-{3600}{}{Extrémité du mur en tôle}
-{3700}{}{Extrémité du mur en tôle}
-{3800}{}{Extrémité du mur en tôle}
+{3100}{}{Mur en tÃ´le}
+{3200}{}{Mur en tÃ´le}
+{3300}{}{Mur en tÃ´le}
+{3400}{}{Mur en tÃ´le Ã  4 cÃ´tÃ©s}
+{3500}{}{ExtrÃ©mitÃ© du mur en tÃ´le}
+{3600}{}{ExtrÃ©mitÃ© du mur en tÃ´le}
+{3700}{}{ExtrÃ©mitÃ© du mur en tÃ´le}
+{3800}{}{ExtrÃ©mitÃ© du mur en tÃ´le}
 {3900}{}{Embrasure de porte}
 {4000}{}{Embrasure de porte}
 {4100}{}{Embrasure de porte}
@@ -54,11 +54,11 @@
 {5200}{}{Mur}
 {5300}{}{Mur}
 {5400}{}{Mur}
-{5500}{}{Fenêtre en tôle}
+{5500}{}{FenÃªtre en tÃ´le}
 {5600}{}{Tuyau}
 {5700}{}{Tuyau}
 {5800}{}{Tuyau}
-{5900}{}{Matériel}
+{5900}{}{MatÃ©riel}
 {5901}{}{}
 {6000}{}{Tuyaux}
 {6100}{}{Tuyau}
@@ -75,10 +75,10 @@
 {7200}{}{Tuyau}
 {7300}{}{Tuyau}
 {7400}{}{Tuyau}
-{7500}{}{Matériel}
+{7500}{}{MatÃ©riel}
 {7501}{}{}
 {7600}{}{Tuyaux}
-{7700}{}{Matériel}
+{7700}{}{MatÃ©riel}
 {7701}{}{}
 {7800}{}{Tuyau}
 {7900}{}{Tuyaux}
@@ -88,33 +88,33 @@
 {8300}{}{Tuyau}
 {8400}{}{Tuyau}
 {8500}{}{Gizmo}
-{8600}{}{Barrière en bois}
-{8700}{}{Barrière en bois}
-{8800}{}{Barrière en bois}
-{8900}{}{Barrière en bois}
-{9000}{}{Barrière en bois}
-{9100}{}{Barrière en bois}
+{8600}{}{BarriÃ¨re en bois}
+{8700}{}{BarriÃ¨re en bois}
+{8800}{}{BarriÃ¨re en bois}
+{8900}{}{BarriÃ¨re en bois}
+{9000}{}{BarriÃ¨re en bois}
+{9100}{}{BarriÃ¨re en bois}
 {9200}{}{Mur}
 {9300}{}{Mur}
 {9400}{}{Mur}
 {9500}{}{Mur}
-{9600}{}{Paroi en tôle}
-{9700}{}{Paroi en tôle}
+{9600}{}{Paroi en tÃ´le}
+{9700}{}{Paroi en tÃ´le}
 {9800}{}{Mur en bois}
 {9900}{}{Mur en bois}
-{10000}{}{Paroi en tôle}
-{10100}{}{Paroi en tôle}
+{10000}{}{Paroi en tÃ´le}
+{10100}{}{Paroi en tÃ´le}
 {10200}{}{Mur en bois}
 {10300}{}{Mur en bois}
-{10400}{}{Embrasure de porte en tôle}
-{10500}{}{Embrasure de porte en tôle}
-{10600}{}{Embrasure de porte en tôle}
-{10700}{}{Embrasure de porte en tôle}
+{10400}{}{Embrasure de porte en tÃ´le}
+{10500}{}{Embrasure de porte en tÃ´le}
+{10600}{}{Embrasure de porte en tÃ´le}
+{10700}{}{Embrasure de porte en tÃ´le}
 {10800}{}{Mur en Acier}
 {10900}{}{Mur en Acier}
 {11000}{}{Mur en bois}
 {11100}{}{Mur en bois}
-{11200}{}{Paroi en tôle}
+{11200}{}{Paroi en tÃ´le}
 {11300}{}{Mur en bois}
 {11400}{}{Mur en bois}
 {11500}{}{Mur en bois}
@@ -125,7 +125,7 @@
 {12000}{}{Mur en bois}
 {12100}{}{Mur en bois}
 {12200}{}{Mur en bois}
-{12300}{}{Fenêtre}
+{12300}{}{FenÃªtre}
 {12400}{}{Mur en bois}
 {12500}{}{Mur en bois}
 {12600}{}{Mur en bois}
@@ -135,47 +135,47 @@
 {13000}{}{Mur en bois}
 {13100}{}{Embrasure de porte en bois}
 {13200}{}{Embrasure de porte en bois}
-{13300}{}{Paroi en tôle}
-{13400}{}{Paroi en tôle}
+{13300}{}{Paroi en tÃ´le}
+{13400}{}{Paroi en tÃ´le}
 {13500}{}{Mur}
-{13600}{}{Paroi en tôle}
-{13700}{}{Paroi en tôle}
-{13800}{}{Paroi en tôle}
-{13900}{}{Paroi en tôle}
-{14000}{}{Paroi en tôle}
-{14100}{}{Barrière en bois}
-{14200}{}{Barrière en bois}
-{14300}{}{Barrière en bois}
-{14400}{}{Barrière en bois}
-{14500}{}{Barrière en bois}
-{14600}{}{Barrière en bois}
-{14700}{}{Barrière en bois}
-{14800}{}{Barrière en bois}
-{14900}{}{Barrière en bois}
-{15000}{}{Barrière en bois}
-{15100}{}{Barrière en bois}
-{15200}{}{Barrière en bois}
-{15300}{}{Paroi en tôle}
-{15400}{}{Paroi en tôle}
+{13600}{}{Paroi en tÃ´le}
+{13700}{}{Paroi en tÃ´le}
+{13800}{}{Paroi en tÃ´le}
+{13900}{}{Paroi en tÃ´le}
+{14000}{}{Paroi en tÃ´le}
+{14100}{}{BarriÃ¨re en bois}
+{14200}{}{BarriÃ¨re en bois}
+{14300}{}{BarriÃ¨re en bois}
+{14400}{}{BarriÃ¨re en bois}
+{14500}{}{BarriÃ¨re en bois}
+{14600}{}{BarriÃ¨re en bois}
+{14700}{}{BarriÃ¨re en bois}
+{14800}{}{BarriÃ¨re en bois}
+{14900}{}{BarriÃ¨re en bois}
+{15000}{}{BarriÃ¨re en bois}
+{15100}{}{BarriÃ¨re en bois}
+{15200}{}{BarriÃ¨re en bois}
+{15300}{}{Paroi en tÃ´le}
+{15400}{}{Paroi en tÃ´le}
 {15500}{}{Mur de pierres}
 {15600}{}{Embrasure de porte en pierre}
 {15700}{}{Embrasure de porte en pierre}
 {15800}{}{Mur de pierres}
 {15900}{}{Mur de pierres}
 {16000}{}{Mur de pierres}
-{16100}{}{Grille métallique}
-{16200}{}{Grille métallique}
-{16300}{}{Grille métallique}
-{16400}{}{Grille métallique}
-{16500}{}{Grille métallique}
-{16600}{}{Grille métallique}
-{16700}{}{Grille métallique}
-{16800}{}{Grille métallique}
-{16900}{}{Grille métallique}
-{17000}{}{Grille métallique}
-{17100}{}{Grille métallique}
-{17200}{}{Grille métallique}
-{17300}{}{Grille métallique}
+{16100}{}{Grille mÃ©tallique}
+{16200}{}{Grille mÃ©tallique}
+{16300}{}{Grille mÃ©tallique}
+{16400}{}{Grille mÃ©tallique}
+{16500}{}{Grille mÃ©tallique}
+{16600}{}{Grille mÃ©tallique}
+{16700}{}{Grille mÃ©tallique}
+{16800}{}{Grille mÃ©tallique}
+{16900}{}{Grille mÃ©tallique}
+{17000}{}{Grille mÃ©tallique}
+{17100}{}{Grille mÃ©tallique}
+{17200}{}{Grille mÃ©tallique}
+{17300}{}{Grille mÃ©tallique}
 {17400}{}{Paroi de la grotte}
 {17500}{}{Paroi de la grotte}
 {17600}{}{Paroi de la grotte}
@@ -489,8 +489,8 @@
 {48400}{}{Bar}
 {48500}{}{Bar}
 {48600}{}{Bar}
-{48700}{}{Barrière en bois}
-{48800}{}{Barrière en bois}
+{48700}{}{BarriÃ¨re en bois}
+{48800}{}{BarriÃ¨re en bois}
 {48900}{}{Encadrement de porte}
 {49000}{}{Encadrement de porte}
 {49100}{}{Encadrement de porte}
@@ -566,7 +566,7 @@
 {56100}{}{Mur}
 {56200}{}{Embrasure de porte}
 {56300}{}{Embrasure de porte}
-{56400}{}{Fenêtre}
+{56400}{}{FenÃªtre}
 {56500}{}{Mur}
 {56600}{}{Mur}
 {56700}{}{Mur}
@@ -586,7 +586,7 @@
 {58100}{}{Mur}
 {58200}{}{Embrasure de porte}
 {58300}{}{Embrasure de porte}
-{58400}{}{Fenêtre}
+{58400}{}{FenÃªtre}
 {58500}{}{Mur}
 {58600}{}{Mur}
 {58700}{}{Mur}
@@ -640,14 +640,14 @@
 {63500}{}{Mur}
 {63600}{}{Mur}
 {63700}{}{Mur}
-{63800}{}{Fenêtre}
-{63900}{}{Fenêtre}
-{64000}{}{Fenêtre}
-{64100}{}{Fenêtre}
-{64200}{}{Fenêtre}
-{64300}{}{Fenêtre}
-{64400}{}{Fenêtre}
-{64500}{}{Fenêtre}
+{63800}{}{FenÃªtre}
+{63900}{}{FenÃªtre}
+{64000}{}{FenÃªtre}
+{64100}{}{FenÃªtre}
+{64200}{}{FenÃªtre}
+{64300}{}{FenÃªtre}
+{64400}{}{FenÃªtre}
+{64500}{}{FenÃªtre}
 {64600}{}{Mur}
 {64700}{}{Mur}
 {64800}{}{Mur}
@@ -666,8 +666,8 @@
 {66100}{}{Embrasure de porte}
 {66200}{}{Embrasure de porte}
 {66300}{}{Embrasure de porte}
-{66400}{}{Fenêtre}
-{66500}{}{Fenêtre}
+{66400}{}{FenÃªtre}
+{66500}{}{FenÃªtre}
 {66600}{}{Mur}
 {66700}{}{Mur}
 {66800}{}{Mur}
@@ -802,49 +802,49 @@
 {79700}{}{Embrasure de porte}
 {79800}{}{Embrasure de porte}
 {79900}{}{Embrasure de porte}
-{80000}{}{Barrière}
-{80100}{}{Barrière}
-{80200}{}{Barrière}
-{80300}{}{Barrière}
-{80400}{}{Barrière}
-{80500}{}{Barrière}
-{80600}{}{Barrière}
-{80700}{}{Barrière}
-{80800}{}{Barrière}
-{80900}{}{Barrière}
-{81000}{}{Barrière}
-{81100}{}{Barrière}
-{81200}{}{Barrière}
-{81300}{}{Barrière}
-{81400}{}{Barrière}
-{81500}{}{Barrière}
-{81600}{}{Barrière}
-{81700}{}{Barrière}
-{81800}{}{Barrière}
-{81900}{}{Barrière}
-{82000}{}{Barrière}
-{82100}{}{Barrière}
-{82200}{}{Barrière}
-{82300}{}{Barrière}
+{80000}{}{BarriÃ¨re}
+{80100}{}{BarriÃ¨re}
+{80200}{}{BarriÃ¨re}
+{80300}{}{BarriÃ¨re}
+{80400}{}{BarriÃ¨re}
+{80500}{}{BarriÃ¨re}
+{80600}{}{BarriÃ¨re}
+{80700}{}{BarriÃ¨re}
+{80800}{}{BarriÃ¨re}
+{80900}{}{BarriÃ¨re}
+{81000}{}{BarriÃ¨re}
+{81100}{}{BarriÃ¨re}
+{81200}{}{BarriÃ¨re}
+{81300}{}{BarriÃ¨re}
+{81400}{}{BarriÃ¨re}
+{81500}{}{BarriÃ¨re}
+{81600}{}{BarriÃ¨re}
+{81700}{}{BarriÃ¨re}
+{81800}{}{BarriÃ¨re}
+{81900}{}{BarriÃ¨re}
+{82000}{}{BarriÃ¨re}
+{82100}{}{BarriÃ¨re}
+{82200}{}{BarriÃ¨re}
+{82300}{}{BarriÃ¨re}
 {82400}{}{Mur}
 {82500}{}{Mur}
-{82600}{}{Voûte}
-{82700}{}{Voûte}
-{82800}{}{Voûte}
-{82900}{}{Voûte}
-{83000}{}{Voûte}
-{83100}{}{Voûte}
-{83200}{}{Voûte}
-{83300}{}{Voûte}
+{82600}{}{VoÃ»te}
+{82700}{}{VoÃ»te}
+{82800}{}{VoÃ»te}
+{82900}{}{VoÃ»te}
+{83000}{}{VoÃ»te}
+{83100}{}{VoÃ»te}
+{83200}{}{VoÃ»te}
+{83300}{}{VoÃ»te}
 {83400}{}{Mur}
 {83500}{}{Mur}
 {83600}{}{Mur}
 {83700}{}{Mur}
 {83800}{}{Mur}
-{83900}{}{Fenêtre}
-{84000}{}{Fenêtre}
-{84100}{}{Fenêtre}
-{84200}{}{Fenêtre}
+{83900}{}{FenÃªtre}
+{84000}{}{FenÃªtre}
+{84100}{}{FenÃªtre}
+{84200}{}{FenÃªtre}
 {84300}{}{Mur}
 {84400}{}{Pilier}
 {84500}{}{Embrasure de porte}
@@ -961,26 +961,26 @@
 {95400}{}{Mur}
 {95500}{}{Mur}
 {95600}{}{Mur}
-{95700}{}{Barrière}
-{95800}{}{Barrière}
-{95900}{}{Barrière}
-{96000}{}{Barrière}
-{96100}{}{Barrière}
-{96200}{}{Barrière}
-{96300}{}{Barrière}
-{96400}{}{Barrière}
-{96500}{}{Barrière}
-{96600}{}{Barrière}
-{96700}{}{Barrière}
-{96800}{}{Barrière}
-{96900}{}{Barrière}
-{97000}{}{Barrière}
-{97100}{}{Barrière}
-{97200}{}{Barrière}
-{97300}{}{Barrière}
-{97400}{}{Barrière}
-{97500}{}{Barrière}
-{97600}{}{Barrière}
+{95700}{}{BarriÃ¨re}
+{95800}{}{BarriÃ¨re}
+{95900}{}{BarriÃ¨re}
+{96000}{}{BarriÃ¨re}
+{96100}{}{BarriÃ¨re}
+{96200}{}{BarriÃ¨re}
+{96300}{}{BarriÃ¨re}
+{96400}{}{BarriÃ¨re}
+{96500}{}{BarriÃ¨re}
+{96600}{}{BarriÃ¨re}
+{96700}{}{BarriÃ¨re}
+{96800}{}{BarriÃ¨re}
+{96900}{}{BarriÃ¨re}
+{97000}{}{BarriÃ¨re}
+{97100}{}{BarriÃ¨re}
+{97200}{}{BarriÃ¨re}
+{97300}{}{BarriÃ¨re}
+{97400}{}{BarriÃ¨re}
+{97500}{}{BarriÃ¨re}
+{97600}{}{BarriÃ¨re}
 {97700}{}{Camion}
 {97800}{}{Camion}
 {97900}{}{Camion}
@@ -1166,8 +1166,8 @@
 {115200}{}{Citerne d'Eau}
 {115300}{}{Citerne d'Eau}
 {115400}{}{Mur}
-{115500}{}{Entrée détruite}
-{115600}{}{Entrée détruite}
+{115500}{}{EntrÃ©e dÃ©truite}
+{115600}{}{EntrÃ©e dÃ©truite}
 {115700}{}{Mur}
 {115800}{}{Mur}
 {115900}{}{Mur}
@@ -1281,19 +1281,19 @@
 {126700}{}{Mur}
 {126800}{}{Mur}
 {126900}{}{Mur}
-{127000}{}{Barrière en bois}
-{127100}{}{Barrière en bois}
-{127200}{}{Barrière en bois}
-{127300}{}{Barrière en bois}
-{127400}{}{Barrière en bois}
-{127500}{}{Barrière en bois}
-{127600}{}{Barrière en bois}
-{127700}{}{Barrière en bois}
-{127800}{}{Barrière en bois}
-{127900}{}{Barrière en bois}
-{128000}{}{Barrière en bois}
-{128100}{}{Barrière en bois}
-{128200}{}{Barrière}
+{127000}{}{BarriÃ¨re en bois}
+{127100}{}{BarriÃ¨re en bois}
+{127200}{}{BarriÃ¨re en bois}
+{127300}{}{BarriÃ¨re en bois}
+{127400}{}{BarriÃ¨re en bois}
+{127500}{}{BarriÃ¨re en bois}
+{127600}{}{BarriÃ¨re en bois}
+{127700}{}{BarriÃ¨re en bois}
+{127800}{}{BarriÃ¨re en bois}
+{127900}{}{BarriÃ¨re en bois}
+{128000}{}{BarriÃ¨re en bois}
+{128100}{}{BarriÃ¨re en bois}
+{128200}{}{BarriÃ¨re}
 {128300}{}{Portail}
 {128400}{}{Portail}
 {128500}{}{Portail}
@@ -1393,12 +1393,12 @@
 {137900}{}{Mur}
 {138000}{}{Mur}
 {138100}{}{Mur}
-{138200}{}{Barrière en bois}
-{138300}{}{Barrière en bois}
-{138400}{}{Barrière en bois}
-{138500}{}{Barrière en bois}
-{138600}{}{Barrière en bois}
-{138700}{}{Barrière en bois}
+{138200}{}{BarriÃ¨re en bois}
+{138300}{}{BarriÃ¨re en bois}
+{138400}{}{BarriÃ¨re en bois}
+{138500}{}{BarriÃ¨re en bois}
+{138600}{}{BarriÃ¨re en bois}
+{138700}{}{BarriÃ¨re en bois}
 {138800}{}{Mur}
 {138900}{}{Mur}
 {139000}{}{Mur}
@@ -1435,10 +1435,10 @@
 {142100}{}{Mur}
 {142200}{}{Mur}
 {142300}{}{Mur}
-{142400}{}{Voûte}
-{142500}{}{Voûte}
-{142600}{}{Voûte}
-{142700}{}{Voûte}
+{142400}{}{VoÃ»te}
+{142500}{}{VoÃ»te}
+{142600}{}{VoÃ»te}
+{142700}{}{VoÃ»te}
 {142800}{}{Mur}
 {142900}{}{Mur}
 {143000}{}{Mur}
@@ -1536,8 +1536,8 @@
 {152200}{}{Mur}
 {152300}{}{Mur}
 {152400}{}{Mur}
-{152500}{}{Entrée de la mine}
-{152600}{}{Entrée de la mine}
+{152500}{}{EntrÃ©e de la mine}
+{152600}{}{EntrÃ©e de la mine}
 {152700}{}{Embrasure de porte}
 {152800}{}{Embrasure de porte}
 {152900}{}{Embrasure de porte}
@@ -1730,19 +1730,19 @@
 {171800}{}{Embrasure de porte}
 {171900}{}{Embrasure de porte}
 {172000}{}{Mur}
-{172100}{}{Rail en Acier Rouillé}
-{172200}{}{Rail en Acier Rouillé}
-{172300}{}{Rail en Acier Rouillé}
-{172400}{}{Rail en Acier Rouillé}
-{172500}{}{Rail en Acier Rouillé}
-{172600}{}{Rail en Acier Rouillé}
-{172700}{}{Rail en Acier Rouillé}
-{172800}{}{Rail en Acier Rouillé}
-{172900}{}{Rail en Acier Rouillé}
-{173000}{}{Rail en Acier Rouillé}
-{173100}{}{Rail en Acier Rouillé}
-{173200}{}{Rail en Acier Rouillé}
-{173300}{}{Rail en Acier Rouillé}
+{172100}{}{Rail en Acier RouillÃ©}
+{172200}{}{Rail en Acier RouillÃ©}
+{172300}{}{Rail en Acier RouillÃ©}
+{172400}{}{Rail en Acier RouillÃ©}
+{172500}{}{Rail en Acier RouillÃ©}
+{172600}{}{Rail en Acier RouillÃ©}
+{172700}{}{Rail en Acier RouillÃ©}
+{172800}{}{Rail en Acier RouillÃ©}
+{172900}{}{Rail en Acier RouillÃ©}
+{173000}{}{Rail en Acier RouillÃ©}
+{173100}{}{Rail en Acier RouillÃ©}
+{173200}{}{Rail en Acier RouillÃ©}
+{173300}{}{Rail en Acier RouillÃ©}
 {173400}{}{Mur}
 {173500}{}{Mur}
 {173600}{}{Mur}
@@ -1796,7 +1796,7 @@
 {178400}{}{Mur}
 {178500}{}{Emetteur de champ de force}
 {178600}{}{Emetteur de champ de force}
-{178700}{}{Rail en Acier Rouillé}
+{178700}{}{Rail en Acier RouillÃ©}
 {178800}{}{Mur}
 {178900}{}{Mur}
 {179000}{}{Emetteur de champ de force}
@@ -1906,9 +1906,9 @@
 {189400}{}{Mur}
 {189500}{}{Mur}
 {189600}{}{Mur}
-{189700}{}{Fenêtre}
-{189800}{}{Fenêtre}
-{189900}{}{Fenêtre}
+{189700}{}{FenÃªtre}
+{189800}{}{FenÃªtre}
+{189900}{}{FenÃªtre}
 {190000}{}{Mur}
 {190100}{}{Mur}
 {190200}{}{Mur}
@@ -1917,9 +1917,9 @@
 {190500}{}{Mur}
 {190600}{}{Mur}
 {190700}{}{Mur}
-{190800}{}{Fenêtre}
-{190900}{}{Fenêtre}
-{191000}{}{Fenêtre}
+{190800}{}{FenÃªtre}
+{190900}{}{FenÃªtre}
+{191000}{}{FenÃªtre}
 {191100}{}{Mur}
 {191200}{}{Mur}
 {191300}{}{Mur}
@@ -1929,26 +1929,26 @@
 {191700}{}{Mur}
 {191800}{}{Mur}
 {191900}{}{Mur}
-{192000}{}{Fenêtre}
-{192100}{}{Fenêtre}
-{192200}{}{Fenêtre}
-{192300}{}{Fenêtre}
-{192400}{}{Fenêtre}
-{192500}{}{Fenêtre}
+{192000}{}{FenÃªtre}
+{192100}{}{FenÃªtre}
+{192200}{}{FenÃªtre}
+{192300}{}{FenÃªtre}
+{192400}{}{FenÃªtre}
+{192500}{}{FenÃªtre}
 {192600}{}{Mur}
 {192700}{}{Mur}
 {192800}{}{Mur}
 {192900}{}{Mur}
-{193000}{}{Fenêtre}
-{193100}{}{Fenêtre}
-{193200}{}{Fenêtre}
+{193000}{}{FenÃªtre}
+{193100}{}{FenÃªtre}
+{193200}{}{FenÃªtre}
 {193300}{}{Mur}
 {193400}{}{Mur}
 {193500}{}{Mur}
 {193600}{}{Mur}
-{193700}{}{Fenêtre}
-{193800}{}{Fenêtre}
-{193900}{}{Fenêtre}
+{193700}{}{FenÃªtre}
+{193800}{}{FenÃªtre}
+{193900}{}{FenÃªtre}
 {194000}{}{Embrasure de porte}
 {194100}{}{Embrasure de porte}
 {194200}{}{Embrasure de porte}

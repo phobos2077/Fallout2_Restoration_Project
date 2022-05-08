@@ -46,7 +46,7 @@
 {327}{}{"Tim Cain. Fondatore, Amante, Guerriero, Programmatore."}
 {328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray."}
 {329}{}{"Zeb -- Still Older Than Dirt."}
-{330}{}{"Dennis Presnell. Possiamo quasi sentire la sua voce... 'E quello lo chiamate un funerale?! Faceva schifo! Ragazzi, siete dei veri !@#£ioni! Non ho intenzione di morire un'altra volta! Blah blah blah...'" Un'incisione piu' in basso recita, "Dio dia riposo a 'Piagnone' D. Se solo si fosse concentrato di piu' sulla patch..."}
+{330}{}{"Dennis Presnell. Possiamo quasi sentire la sua voce... 'E quello lo chiamate un funerale?! Faceva schifo! Ragazzi, siete dei veri !@#Â£ioni! Non ho intenzione di morire un'altra volta! Blah blah blah...'" Un'incisione piu' in basso recita, "Dio dia riposo a 'Piagnone' D. Se solo si fosse concentrato di piu' sulla patch..."}
 {331}{}{"Rupert Diukos, died 9/24/96."}
 {332}{}{"Sal De Ban, died 9/24/96."}
 {333}{}{"Greg Zeschule, Fall '99."}

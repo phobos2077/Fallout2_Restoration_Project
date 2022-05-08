@@ -1,152 +1,152 @@
 {100}{}{Widzisz szalonego naukowca Shi.}
 {101}{}{Widzisz Dr. Sheng'a.}
-{200}{}{[Widzisz naukowca Shi z rzadk¹ brod¹. Jego ubrania i w³osy s¹ w nie³adzie, wydaje ci siê, ¿e nie spa³ ca³¹ noc.] Och! Tak! Spodziewa³em siê ciebie. Powiedzieli mi, ¿e przyjdziesz. [Mierzy ciê od do³u do góry] Tak, jesteœ doskona³ym okazem!}
-{201}{}{Nie mogê siê z tym spieraæ, ale co tu siê u diab³a dzieje?}
-{202}{}{Ty musisz byæ ten ca³y Dr. Sheng. Dr. Wong poda³ mi twoj¹ lokalizacjê. Shi twierdzi, ¿e mog³em ciê znaleŸæ martwego.}
+{200}{}{[Widzisz naukowca Shi z rzadkÄ… brodÄ…. Jego ubrania i wÅ‚osy sÄ… w nieÅ‚adzie, wydaje ci siÄ™, Å¼e nie spaÅ‚ caÅ‚Ä… noc.] Och! Tak! SpodziewaÅ‚em siÄ™ ciebie. Powiedzieli mi, Å¼e przyjdziesz. [Mierzy ciÄ™ od doÅ‚u do gÃ³ry] Tak, jesteÅ› doskonaÅ‚ym okazem!}
+{201}{}{Nie mogÄ™ siÄ™ z tym spieraÄ‡, ale co tu siÄ™ u diabÅ‚a dzieje?}
+{202}{}{Ty musisz byÄ‡ ten caÅ‚y Dr. Sheng. Dr. Wong podaÅ‚ mi twojÄ… lokalizacjÄ™. Shi twierdzi, Å¼e mogÅ‚em ciÄ™ znaleÅºÄ‡ martwego.}
 {203}{}{Po pierwsze, co to za diabelne stworzenia?}
-{204}{}{Doskona³ym okazem do czego dok³adnie?}
-{205}{}{Kto ci powiedzia³, ¿e przyjdê?}
-{210}{}{Nauka! Có¿by innego? Jestem Dr. Sheng, a te stworzenia to moje dzie³o. Piêkne, prawda?}
-{211}{}{Eeee, tak... Ale, czym one w³aœciwie s¹?}
-{212}{}{W rzeczywistoœci, uwa¿am je raczej za odra¿aj¹ce. Gdy na nie patrzê chce mi siê rzygaæ, a ten zapach trudno porównaæ z jakimkolwiek innym, zarówno s³odki jak i cuchn¹cy, œmierdzi jak syrop z przegni³ego miês¹. Czym s¹ te stwory?}
-{220}{}{Ha! Dr. Wong ¿yczy mi œmierci. O nie, nie! Uda³o mi siê osi¹gn¹æ wiêcej ni¿ kiedykolwiek wczeœniej, a bêdzie jeszcze lepiej, jeœli tylko znajdê kogoœ chêtnego do pomocy.}
+{204}{}{DoskonaÅ‚ym okazem do czego dokÅ‚adnie?}
+{205}{}{Kto ci powiedziaÅ‚, Å¼e przyjdÄ™?}
+{210}{}{Nauka! CÃ³Å¼by innego? Jestem Dr. Sheng, a te stworzenia to moje dzieÅ‚o. PiÄ™kne, prawda?}
+{211}{}{Eeee, tak... Ale, czym one wÅ‚aÅ›ciwie sÄ…?}
+{212}{}{W rzeczywistoÅ›ci, uwaÅ¼am je raczej za odraÅ¼ajÄ…ce. Gdy na nie patrzÄ™ chce mi siÄ™ rzygaÄ‡, a ten zapach trudno porÃ³wnaÄ‡ z jakimkolwiek innym, zarÃ³wno sÅ‚odki jak i cuchnÄ…cy, Å›mierdzi jak syrop z przegniÅ‚ego miÄ™sÄ…. Czym sÄ… te stwory?}
+{220}{}{Ha! Dr. Wong Å¼yczy mi Å›mierci. O nie, nie! UdaÅ‚o mi siÄ™ osiÄ…gnÄ…Ä‡ wiÄ™cej niÅ¼ kiedykolwiek wczeÅ›niej, a bÄ™dzie jeszcze lepiej, jeÅ›li tylko znajdÄ™ kogoÅ› chÄ™tnego do pomocy.}
 {221}{}{Pomocy w czym?}
-{222}{}{Wstrzymaj siê. Zanim ci w czymkolwiek pomogê, pragnê dowiedzieæ siê czym s¹ te stworzenia.}
-{230}{}{S¹ przysz³oœci¹! Now¹ ras¹, now¹ roœlinn¹ form¹ ¿ycia, moim wielkim dzie³em. W koñcu osi¹gn¹³em sukces! Synteza roœlin ze œwie¿ymi ludzkimi zw³okami! Jak widaæ, nada³em tym roœlinom cechy zmys³owe, ambulatoryjne oraz mo¿liwoœci wokalne, których tak bardzo im brakowa³o. Ponadto wygl¹dem przypominaj¹ cz³owieka, pozwoli im to na ³atwiejsze odnalezienie siê w naszej spo³ecznoœci.}
-{231}{}{Sk¹d bierzesz te "œwie¿e ludzkie zw³oki"? }
-{232}{}{Odnalezienie siê w naszej spo³ecznoœci? Ha! Powodzenia. O ghulach i mutantach mogê powiedzieæ, ¿e s¹... byli oni kiedyœ ludŸmi. Natomiast jeœli chodzi o te szkarady, nie mogê stwierdziæ tego samego. To nie przejdzie.}
-{233}{}{W³aœciwie, to nie spotka³em siê z roœlinami mog¹cymi rozmawiaæ bez u¿ycia ludzkiego cia³a.}
-{234}{}{To niewiarygodne! Jako student nauki, muszê dowiedzieæ siê, jak tego dokona³eœ.}
-{240}{}{Doskona³ym okazem do wykonania zadania. Widzisz, nie ka¿da z moich eksperymentalnych istot jest tak doskona³a, jak okazy, które mo¿esz zobaczyæ tutaj. Wiêkszoœæ koñczy jako bezmyœlne, brutalne bestie. Przechowywa³em te nieudane eksperymenty w specjalnych komorach w moim laboratorium, ale niedawno jeden z okazów zdo³a³ wydostaæ siê na zewn¹trz. Na szczêœcie uda³o mi siê uciec i zamkn¹æ drzwi za sob¹, zanim potwór zdo³a³ wyjœæ na wolnoœæ. Niestety teraz nie mogê przez to wróciæ do mojego laboratorium.}
-{241}{}{Wiêc co mam zrobiæ?}
-{250}{}{Moje maleñstwa, oczywiœcie. One bardzo uwa¿nie obserwuj¹ pustkowie. Kiedy opowiedzia³y mi o twoim przybyciu, poinstruowa³em je aby sprowadzi³y ciê do mnie, poniewa¿ wierzê, ¿e jesteœ mi w stanie pomóc.}
+{222}{}{Wstrzymaj siÄ™. Zanim ci w czymkolwiek pomogÄ™, pragnÄ™ dowiedzieÄ‡ siÄ™ czym sÄ… te stworzenia.}
+{230}{}{SÄ… przyszÅ‚oÅ›ciÄ…! NowÄ… rasÄ…, nowÄ… roÅ›linnÄ… formÄ… Å¼ycia, moim wielkim dzieÅ‚em. W koÅ„cu osiÄ…gnÄ…Å‚em sukces! Synteza roÅ›lin ze Å›wieÅ¼ymi ludzkimi zwÅ‚okami! Jak widaÄ‡, nadaÅ‚em tym roÅ›linom cechy zmysÅ‚owe, ambulatoryjne oraz moÅ¼liwoÅ›ci wokalne, ktÃ³rych tak bardzo im brakowaÅ‚o. Ponadto wyglÄ…dem przypominajÄ… czÅ‚owieka, pozwoli im to na Å‚atwiejsze odnalezienie siÄ™ w naszej spoÅ‚ecznoÅ›ci.}
+{231}{}{SkÄ…d bierzesz te "Å›wieÅ¼e ludzkie zwÅ‚oki"? }
+{232}{}{Odnalezienie siÄ™ w naszej spoÅ‚ecznoÅ›ci? Ha! Powodzenia. O ghulach i mutantach mogÄ™ powiedzieÄ‡, Å¼e sÄ…... byli oni kiedyÅ› ludÅºmi. Natomiast jeÅ›li chodzi o te szkarady, nie mogÄ™ stwierdziÄ‡ tego samego. To nie przejdzie.}
+{233}{}{WÅ‚aÅ›ciwie, to nie spotkaÅ‚em siÄ™ z roÅ›linami mogÄ…cymi rozmawiaÄ‡ bez uÅ¼ycia ludzkiego ciaÅ‚a.}
+{234}{}{To niewiarygodne! Jako student nauki, muszÄ™ dowiedzieÄ‡ siÄ™, jak tego dokonaÅ‚eÅ›.}
+{240}{}{DoskonaÅ‚ym okazem do wykonania zadania. Widzisz, nie kaÅ¼da z moich eksperymentalnych istot jest tak doskonaÅ‚a, jak okazy, ktÃ³re moÅ¼esz zobaczyÄ‡ tutaj. WiÄ™kszoÅ›Ä‡ koÅ„czy jako bezmyÅ›lne, brutalne bestie. PrzechowywaÅ‚em te nieudane eksperymenty w specjalnych komorach w moim laboratorium, ale niedawno jeden z okazÃ³w zdoÅ‚aÅ‚ wydostaÄ‡ siÄ™ na zewnÄ…trz. Na szczÄ™Å›cie udaÅ‚o mi siÄ™ uciec i zamknÄ…Ä‡ drzwi za sobÄ…, zanim potwÃ³r zdoÅ‚aÅ‚ wyjÅ›Ä‡ na wolnoÅ›Ä‡. Niestety teraz nie mogÄ™ przez to wrÃ³ciÄ‡ do mojego laboratorium.}
+{241}{}{WiÄ™c co mam zrobiÄ‡?}
+{250}{}{Moje maleÅ„stwa, oczywiÅ›cie. One bardzo uwaÅ¼nie obserwujÄ… pustkowie. Kiedy opowiedziaÅ‚y mi o twoim przybyciu, poinstruowaÅ‚em je aby sprowadziÅ‚y ciÄ™ do mnie, poniewaÅ¼ wierzÄ™, Å¼e jesteÅ› mi w stanie pomÃ³c.}
 {251}{}{Pomocy w czym?}
-{252}{}{Zanim ci w czymkolwiek pomogê, pragnê dowiedzieæ siê czym s¹ te stworzenia?}
-{260}{}{Och, te cia³a to g³ównie bandyci, którzy w swej bezmyœlnoœci decyduj¹ siê nas zaatakowaæ. Ale doœæ o tym, muszê wiedzieæ czy chcesz mi pomóc.}
+{252}{}{Zanim ci w czymkolwiek pomogÄ™, pragnÄ™ dowiedzieÄ‡ siÄ™ czym sÄ… te stworzenia?}
+{260}{}{Och, te ciaÅ‚a to gÅ‚Ã³wnie bandyci, ktÃ³rzy w swej bezmyÅ›lnoÅ›ci decydujÄ… siÄ™ nas zaatakowaÄ‡. Ale doÅ›Ä‡ o tym, muszÄ™ wiedzieÄ‡ czy chcesz mi pomÃ³c.}
 {261}{}{Pomocy w czym?}
-{270}{}{Widzisz, nie ka¿da z moich eksperymentalnych istot jest tak doskona³a, jak okazy, które mo¿esz zobaczyæ tutaj. Wiêkszoœæ koñczy jako bezmyœlne, brutalne bestie. Przechowywa³em te nieudane eksperymenty w specjalnych komorach w moim laboratorium, ale niedawno jeden z okazów zdo³a³ wydostaæ siê na zewn¹trz. Na szczêœcie uda³o mi siê uciec i zamkn¹æ drzwi za sob¹, zanim okaz zdo³a³ wyjœæ na wolnoœæ. Niestety teraz nie mogê przez to wróciæ do mojego laboratorium.}
-{271}{}{Wiêc co mam zrobiæ?}
-{280}{}{To co myœlisz o mojej pracy nie ma dla mnie znaczenia. Do rzeczy. Mam dla ciebie pewne zadanie, jeœli je wykonasz zostaniesz nagrodzony. Zainteresowany?}
-{281}{}{Zamieniam siê w s³uch.}
-{282}{}{Nie chce mieæ nic wspólnego z tob¹ i z tymi twoimi ochydnymi poczwarami.}
+{270}{}{Widzisz, nie kaÅ¼da z moich eksperymentalnych istot jest tak doskonaÅ‚a, jak okazy, ktÃ³re moÅ¼esz zobaczyÄ‡ tutaj. WiÄ™kszoÅ›Ä‡ koÅ„czy jako bezmyÅ›lne, brutalne bestie. PrzechowywaÅ‚em te nieudane eksperymenty w specjalnych komorach w moim laboratorium, ale niedawno jeden z okazÃ³w zdoÅ‚aÅ‚ wydostaÄ‡ siÄ™ na zewnÄ…trz. Na szczÄ™Å›cie udaÅ‚o mi siÄ™ uciec i zamknÄ…Ä‡ drzwi za sobÄ…, zanim okaz zdoÅ‚aÅ‚ wyjÅ›Ä‡ na wolnoÅ›Ä‡. Niestety teraz nie mogÄ™ przez to wrÃ³ciÄ‡ do mojego laboratorium.}
+{271}{}{WiÄ™c co mam zrobiÄ‡?}
+{280}{}{To co myÅ›lisz o mojej pracy nie ma dla mnie znaczenia. Do rzeczy. Mam dla ciebie pewne zadanie, jeÅ›li je wykonasz zostaniesz nagrodzony. Zainteresowany?}
+{281}{}{Zamieniam siÄ™ w sÅ‚uch.}
+{282}{}{Nie chce mieÄ‡ nic wspÃ³lnego z tobÄ… i z tymi twoimi ochydnymi poczwarami.}
 {290}{}{Doskonale! Daj mi je, a zostaniesz nagrodzony.}
-{291}{}{Oczywiœcie, to nie tak, ¿e nie ma z nich ¿adnego po¿ytku. Proszê bardzo.}
-{292}{}{Nie. Ju¿ zd¹¿y³em je polubiæ. Myœlê, ¿e bêdê czêœciej z nimi rozmawia³. Mo¿e nawet zajmê siê upraw¹ ogrodu, czy coœ w tym stylu.}
-{293}{}{Nie mam ich przy sobie, ale mo¿e uda mi siê je znaleŸæ.}
-{294}{}{Nie mam ich przy sobie, a nawet jeœli bym mia³, to nie chce mieæ nic wspólnego z tob¹ i z tymi twoimi ochydnymi zombi.}
-{300}{}{Obiekt znany jest z nazwy "Agencja Ochrony Œrodowiska", w skrócie "AOŒ". Zaznacze to miejsce na twojej mapie. Udaj siê tam i spróbuj znaleŸæ jakieœ nasiona, tylko nie przynoœ mi ¿adnych zwyk³ych nasion - te, których potrzebujê s¹ wyj¹tkowe.}
-{301}{}{Em, wydaje mi siê, ¿e znasz ju¿ lokalizacjê obiektu. Udaj siê tam i spróbuj znaleŸæ tam jakieœ nasiona, tylko nie przynoœ mi ¿adnych zwyk³ych nasion - te, których potrzebujê s¹ wyj¹tkowe.}
-{302}{}{Wrócê do ciebie.}
-{303}{}{Eh, po namyœle, dochodzê do wniosku, ¿e nie jestem zainteresowany prac¹ dla ciebie. Myœlê, ¿e ju¿ skoñczyliœmy.}
-{310}{}{[Jego oczy rozb³yskuj¹ z wœciek³oœci] Zabiæ go, moje dzieci! Jego cia³o pos³u¿y za ¿ywiciela dla nowego cz³onka naszej rodziny!}
-{311}{}{[Jego oczy rozb³yskuj¹ z wœciek³oœci] Zabiæ j¹, moje dzieci! Jej cia³o pos³u¿y za ¿ywiciela dla nowego cz³onka naszej rodziny!}
+{291}{}{OczywiÅ›cie, to nie tak, Å¼e nie ma z nich Å¼adnego poÅ¼ytku. ProszÄ™ bardzo.}
+{292}{}{Nie. JuÅ¼ zdÄ…Å¼yÅ‚em je polubiÄ‡. MyÅ›lÄ™, Å¼e bÄ™dÄ™ czÄ™Å›ciej z nimi rozmawiaÅ‚. MoÅ¼e nawet zajmÄ™ siÄ™ uprawÄ… ogrodu, czy coÅ› w tym stylu.}
+{293}{}{Nie mam ich przy sobie, ale moÅ¼e uda mi siÄ™ je znaleÅºÄ‡.}
+{294}{}{Nie mam ich przy sobie, a nawet jeÅ›li bym miaÅ‚, to nie chce mieÄ‡ nic wspÃ³lnego z tobÄ… i z tymi twoimi ochydnymi zombi.}
+{300}{}{Obiekt znany jest z nazwy "Agencja Ochrony Åšrodowiska", w skrÃ³cie "AOÅš". Zaznacze to miejsce na twojej mapie. Udaj siÄ™ tam i sprÃ³buj znaleÅºÄ‡ jakieÅ› nasiona, tylko nie przynoÅ› mi Å¼adnych zwykÅ‚ych nasion - te, ktÃ³rych potrzebujÄ™ sÄ… wyjÄ…tkowe.}
+{301}{}{Em, wydaje mi siÄ™, Å¼e znasz juÅ¼ lokalizacjÄ™ obiektu. Udaj siÄ™ tam i sprÃ³buj znaleÅºÄ‡ tam jakieÅ› nasiona, tylko nie przynoÅ› mi Å¼adnych zwykÅ‚ych nasion - te, ktÃ³rych potrzebujÄ™ sÄ… wyjÄ…tkowe.}
+{302}{}{WrÃ³cÄ™ do ciebie.}
+{303}{}{Eh, po namyÅ›le, dochodzÄ™ do wniosku, Å¼e nie jestem zainteresowany pracÄ… dla ciebie. MyÅ›lÄ™, Å¼e juÅ¼ skoÅ„czyliÅ›my.}
+{310}{}{[Jego oczy rozbÅ‚yskujÄ… z wÅ›ciekÅ‚oÅ›ci] ZabiÄ‡ go, moje dzieci! Jego ciaÅ‚o posÅ‚uÅ¼y za Å¼ywiciela dla nowego czÅ‚onka naszej rodziny!}
+{311}{}{[Jego oczy rozbÅ‚yskujÄ… z wÅ›ciekÅ‚oÅ›ci] ZabiÄ‡ jÄ…, moje dzieci! Jej ciaÅ‚o posÅ‚uÅ¼y za Å¼ywiciela dla nowego czÅ‚onka naszej rodziny!}
 {312}{}{[dalej]}
-{320}{}{Doskonale! Teraz muszê przygotowaæ dla ciebie nagrodê. Rozgoœæ siê, to mo¿e chwilê potrwaæ.}
+{320}{}{Doskonale! Teraz muszÄ™ przygotowaÄ‡ dla ciebie nagrodÄ™. RozgoÅ›Ä‡ siÄ™, to moÅ¼e chwilÄ™ potrwaÄ‡.}
 {321}{}{[KONTYNUUJ]}
-{322}{}{Zatrzymaj swoj¹ nagrodê dla siebie. Nie mam na to teraz czasu.}
-{330}{}{Tak, przynieœ nasiona do mnie, wtedy bêdziesz móg³ odebraæ swoj¹ nagrodê.}
-{331}{}{Wrócê do ciebie.}
-{340}{}{Lokalizacja obiektu jest nagrod¹ sam¹ w sobie, znajdziesz tam wiele przydatnych rzeczy. Mo¿e, jeœli dobrze poszukasz, natkniesz siê na coœ jeszcze. Mnie interesuj¹ tylko te unikalne próbki nasion. Kiedy ju¿ je do mnie przyniesiesz, otrzymasz specjaln¹ nagrodê.}
-{341}{}{Dobra, zrobiê to. Nied³ugo wrócê.}
-{342}{}{Nazywasz to nagrod¹? Mogê zbadaæ te ruiny kiedy tylko zechce. Nie jestem zainteresowany.}
-{350}{}{[Spogl¹da na ciebie wyczekuj¹co]}
-{351}{}{Oto nasiona, których potrzebowa³eœ.}
-{352}{}{Wrócê, gdy ju¿ zdobêde te nasiona.}
-{360}{}{Có¿, na nic mi siê ju¿ nie przydasz, sta³eœ siê bezu¿yteczny. [Jego oczy rozb³yskuj¹ z wœciek³oœci] Zabiæ go, moje dzieci! Jego cia³o pos³u¿y za ¿ywiciela dla nowego cz³onka naszej rodziny!}
-{361}{}{Có¿, na nic mi siê ju¿ nie przydasz, sta³aœ siê bezu¿yteczna. [Jego oczy rozb³yskuj¹ z wœciek³oœci] Zabiæ j¹, moje dzieci! Jej cia³o pos³u¿y za ¿ywiciela dla nowego cz³onka naszej rodziny!}
+{322}{}{Zatrzymaj swojÄ… nagrodÄ™ dla siebie. Nie mam na to teraz czasu.}
+{330}{}{Tak, przynieÅ› nasiona do mnie, wtedy bÄ™dziesz mÃ³gÅ‚ odebraÄ‡ swojÄ… nagrodÄ™.}
+{331}{}{WrÃ³cÄ™ do ciebie.}
+{340}{}{Lokalizacja obiektu jest nagrodÄ… samÄ… w sobie, znajdziesz tam wiele przydatnych rzeczy. MoÅ¼e, jeÅ›li dobrze poszukasz, natkniesz siÄ™ na coÅ› jeszcze. Mnie interesujÄ… tylko te unikalne prÃ³bki nasion. Kiedy juÅ¼ je do mnie przyniesiesz, otrzymasz specjalnÄ… nagrodÄ™.}
+{341}{}{Dobra, zrobiÄ™ to. NiedÅ‚ugo wrÃ³cÄ™.}
+{342}{}{Nazywasz to nagrodÄ…? MogÄ™ zbadaÄ‡ te ruiny kiedy tylko zechce. Nie jestem zainteresowany.}
+{350}{}{[SpoglÄ…da na ciebie wyczekujÄ…co]}
+{351}{}{Oto nasiona, ktÃ³rych potrzebowaÅ‚eÅ›.}
+{352}{}{WrÃ³cÄ™, gdy juÅ¼ zdobÄ™de te nasiona.}
+{360}{}{CÃ³Å¼, na nic mi siÄ™ juÅ¼ nie przydasz, staÅ‚eÅ› siÄ™ bezuÅ¼yteczny. [Jego oczy rozbÅ‚yskujÄ… z wÅ›ciekÅ‚oÅ›ci] ZabiÄ‡ go, moje dzieci! Jego ciaÅ‚o posÅ‚uÅ¼y za Å¼ywiciela dla nowego czÅ‚onka naszej rodziny!}
+{361}{}{CÃ³Å¼, na nic mi siÄ™ juÅ¼ nie przydasz, staÅ‚aÅ› siÄ™ bezuÅ¼yteczna. [Jego oczy rozbÅ‚yskujÄ… z wÅ›ciekÅ‚oÅ›ci] ZabiÄ‡ jÄ…, moje dzieci! Jej ciaÅ‚o posÅ‚uÅ¼y za Å¼ywiciela dla nowego czÅ‚onka naszej rodziny!}
 {362}{}{[dalej]}
-{370}{}{[Lekarz odchodzi. Wraca po oko³o godzinie i wrêcza ci pojedynczy materia³ siewny.] Próbka tej niezwyk³ej roœliny jest moim prezentem dla Shi. Dziêki temu wszystko siê zmieni. Dajê ci zaszczyt wrêczenia tej próbki doktorowi Wong'owi.}
-{371}{}{Co jest takiego niezwyk³ego w tej próbce?}
-{372}{}{To wszystko? Ryzykowa³em ¿yci szukaj¹c tych cholernych nasion i to w³aœnie otrzymujê w zamian? Kolejne pierdolone nasiona? Pieprzyæ ciebie i twoje ¿a³osne roœliny-zombi! Myœlê, ¿e wyœwiadcze œwiatu przys³ugê k³ad¹c kres temu choremu przedsiêwziêciu.}
-{380}{}{Shi stara³o siê stworzyæ roœlinê odporn¹ na promieniowanie. By³em szefem tego projektu, podczas badañ dokona³em pewnego odkrycia, które sprawi³o, ¿e moje badania ruszy³y w trochê innym kierunku. Stworzy³em serum samoœwiadomoœci roœlin, niestety po kilku... nieszczêœliwych wypadkach, Shi postanowi³o zamkn¹æ mój projekt. Nie chcia³em ¿eby ca³a moja praca posz³a na marne, wiêc postanowi³em kontynuowaæ moje dzie³o na w³asn¹ rêkê.}
-{381}{}{No dobrze, ale co ta próbka ma z tym wspólnego?}
-{382}{}{Mów dalej...}
-{390}{}{Jak na ironiê, kiedy skupi³em siê na tworzeniu moich rozumnych roœlin, zdarzy³o mi siê dokonaæ kolejnego wa¿nego odkrycia w dziedzinie badañ odpornoœci roœlin na promieniowanie. Trzyma³em to prze³omowe odkrycie w tajemnicy, poniewa¿ nie chcia³em ¿eby odwróci³o ono uwagê od mojego bardziej znacz¹cego odkrycia. Gdy inni nie dostrzegli geniuszu moich rozumnych roœlin, na z³oœæ postanowi³em zatrzymaæ sekret dla siebie. To znaczy, a¿ do teraz. Dziêki tej próbce, nawet tak ograniczony g³upiec jak dr Wong bêdzie móg³ stworzyæ roœlinê odporn¹ na promieniowanie.}
-{391}{}{Sk¹d wiêc ta zmiana nastawienia?}
-{392}{}{Dobrze. Zaniosê próbkê.}
-{393}{}{Zaniosê próbkê. Jednak jeœli dr Wong nie da mi za to odpowiedniej nagrody, zobaczymy siê ponownie.}
-{394}{}{Mo¿esz sobie wsadziæ te próbki. Jestem pewien, ¿e dr Wong i inni naukowcy Shi dojd¹ do tego bez twojej pomocy. Nasza wspó³praca dobieg³a koñca.}
-{400}{}{Nie zmieni³em nastawienia. Oprócz tego, ¿e próbka jest odporna na promieniowanie, zosta³a nasycona moim serum samoœwiadomoœci. Jak dumny ojciec, chcê po prostu pokazaæ œwiatu moje stworzenia. Dostarcz dla mnie te próbki, a zostaniesz sowicie nagrodzony.}
-{401}{}{Dobrze. Zaniosê próbkê.}
-{402}{}{Nie! WsadŸ sobie te próbki. Nasza wspó³praca dobieg³a koñca.}
-{403}{}{Dr. Wong wydaje siê byæ podejrzliwym facetem. Naprawdê myœlisz, ¿e uwierzy w to, ¿e próbki pochodz¹ od ciebie?}
-{410}{}{Dotar³a do mnie informacja, ¿e w pobli¿u jest stary obiekt rz¹dowy USA, w którym mo¿na znaleŸæ wyj¹tkowe nasiona roœlin nieskalane promieniowaniem. Obiekt znajduje siê daleko st¹d, zbyt daleko ¿ebym móg³ tam wyruszyæ w pojedynke, niestety nie jestem a¿ tak doœwiadczonym podró¿nikiem jak ty. Wierzê, ¿e dla ciebie by³aby to bu³ka z mas³em.}
-{411}{}{Och, mówisz o tych dziwnych nasionach z "AOŒ". By³em tam i znalaz³em je.}
-{412}{}{Zawsze chêtnie wyruszê po przedwojenne skarby. Podaj mi dok³adn¹ lokalizacjê obiektu, a ja sprawdzê, czy znajdê tam coœ wartoœciowego.}
-{413}{}{Co dostanê w zamian?}
-{420}{}{Tak, masz racjê, dr Wong mo¿e i jest nieco oporny, mimo to daj mu próbkê. Nawet jeœli ci nie uwierzy, ze¿re go ciekawoœæ, a wtedy przyjmiê podarunek. Kiedy próbka bêdzie ju¿ bezpieczna, znajdŸ sposób na wyeliminowanie dr Wong'a bez powiadamiania reszty Shi, a twoja nagroda wzroœnie trzykrotnie.}
-{421}{}{Zobaczê, co da siê zrobiæ.}
-{422}{}{Jeœli pragniesz widzieæ dr Wong'a martwego, muszê dostaæ zaliczkê zanim go zabijê.}
-{423}{}{Wiesz co? To wszystko sta³o siê nieco skomplikowane. Myœlê, ¿e po prostu ciê zabijê, a potem zabije ca³¹ reszte œwirów Shi.}
-{424}{}{Nie ma mowy, nie zabijê dla ciebie dr Wong'a. To koniec naszej wspó³pracy.}
-{430}{}{Bardzo dobrze. Ta trucizna mo¿e ci siê przydaæ. Pochodzi od jednego z moich stworzeñ. Jest niezwykle zabójcza. [Wrêcza ci strzykawkê]}
-{431}{}{Zobaczê, co da siê zrobiæ.}
-{440}{}{[Spogl¹da na ciebie wyczekuj¹co]}
-{441}{}{Ci¹gle nad tym pracujê. Nied³ugo wrócê.}
-{442}{}{Dostarczy³em próbkê.}
-{443}{}{Shi maj¹ próbkê, a dr Wong jest martwy.}
-{444}{}{Twoja wizja zemsty nie by³a wystarczaj¹co bezpoœrednia jak na mój gust, wiêc po prostu zabi³em dla ciebie wszystkich Shi.}
-{445}{}{Dr. Wong nie ¿yje.}
-{446}{}{Dostarczy³em próbkê, a kiedy zdradzi³em Shi twoje zamiary, dr Wong natychmiast zniszczy³ próbkê.}
-{450}{}{Niemo¿liwe! Roœliny nie potrafi¹ mówiæ, niezale¿nie od stopnia ich inteligencji, wiêc albo stroisz sobie ze mnie ¿arty albo by³eœ wtedy pod wp³ywem jakiegoœ œrodka halucygennego. Kiedy na ciebie patrzê, wydaje mi siê, ¿e nie ¿artujesz wiêc pozostaje mi wierzyæ w twoje halucynacje. Ale doœæ tych bzdur. Muszê wiedzieæ czy jesteœ gotów mi pomóc.}
-{451}{}{Tak, to zapewe g³upio brzmi. W ka¿dym razie, w czym dok³adnie mam panu pomóc?}
-{452}{}{Nie zmieniaj tematu, mówiê prawdê! Przysiêgam na Przybysza z krypty, nazywa siê Seymour i potrafi mówiæ. Chcia³ ¿ebym go przesadzi³ w inne, lepsze miejsce. Nie zmyœlam i nie mia³em ¿adnych halucynacji.}
-{460}{}{Doœæ! Nie mam czasu na te g³upoty. Pomo¿esz mi czy nie?}
+{370}{}{[Lekarz odchodzi. Wraca po okoÅ‚o godzinie i wrÄ™cza ci pojedynczy materiaÅ‚ siewny.] PrÃ³bka tej niezwykÅ‚ej roÅ›liny jest moim prezentem dla Shi. DziÄ™ki temu wszystko siÄ™ zmieni. DajÄ™ ci zaszczyt wrÄ™czenia tej prÃ³bki doktorowi Wong'owi.}
+{371}{}{Co jest takiego niezwykÅ‚ego w tej prÃ³bce?}
+{372}{}{To wszystko? RyzykowaÅ‚em Å¼yci szukajÄ…c tych cholernych nasion i to wÅ‚aÅ›nie otrzymujÄ™ w zamian? Kolejne pierdolone nasiona? PieprzyÄ‡ ciebie i twoje Å¼aÅ‚osne roÅ›liny-zombi! MyÅ›lÄ™, Å¼e wyÅ›wiadcze Å›wiatu przysÅ‚ugÄ™ kÅ‚adÄ…c kres temu choremu przedsiÄ™wziÄ™ciu.}
+{380}{}{Shi staraÅ‚o siÄ™ stworzyÄ‡ roÅ›linÄ™ odpornÄ… na promieniowanie. ByÅ‚em szefem tego projektu, podczas badaÅ„ dokonaÅ‚em pewnego odkrycia, ktÃ³re sprawiÅ‚o, Å¼e moje badania ruszyÅ‚y w trochÄ™ innym kierunku. StworzyÅ‚em serum samoÅ›wiadomoÅ›ci roÅ›lin, niestety po kilku... nieszczÄ™Å›liwych wypadkach, Shi postanowiÅ‚o zamknÄ…Ä‡ mÃ³j projekt. Nie chciaÅ‚em Å¼eby caÅ‚a moja praca poszÅ‚a na marne, wiÄ™c postanowiÅ‚em kontynuowaÄ‡ moje dzieÅ‚o na wÅ‚asnÄ… rÄ™kÄ™.}
+{381}{}{No dobrze, ale co ta prÃ³bka ma z tym wspÃ³lnego?}
+{382}{}{MÃ³w dalej...}
+{390}{}{Jak na ironiÄ™, kiedy skupiÅ‚em siÄ™ na tworzeniu moich rozumnych roÅ›lin, zdarzyÅ‚o mi siÄ™ dokonaÄ‡ kolejnego waÅ¼nego odkrycia w dziedzinie badaÅ„ odpornoÅ›ci roÅ›lin na promieniowanie. TrzymaÅ‚em to przeÅ‚omowe odkrycie w tajemnicy, poniewaÅ¼ nie chciaÅ‚em Å¼eby odwrÃ³ciÅ‚o ono uwagÄ™ od mojego bardziej znaczÄ…cego odkrycia. Gdy inni nie dostrzegli geniuszu moich rozumnych roÅ›lin, na zÅ‚oÅ›Ä‡ postanowiÅ‚em zatrzymaÄ‡ sekret dla siebie. To znaczy, aÅ¼ do teraz. DziÄ™ki tej prÃ³bce, nawet tak ograniczony gÅ‚upiec jak dr Wong bÄ™dzie mÃ³gÅ‚ stworzyÄ‡ roÅ›linÄ™ odpornÄ… na promieniowanie.}
+{391}{}{SkÄ…d wiÄ™c ta zmiana nastawienia?}
+{392}{}{Dobrze. ZaniosÄ™ prÃ³bkÄ™.}
+{393}{}{ZaniosÄ™ prÃ³bkÄ™. Jednak jeÅ›li dr Wong nie da mi za to odpowiedniej nagrody, zobaczymy siÄ™ ponownie.}
+{394}{}{MoÅ¼esz sobie wsadziÄ‡ te prÃ³bki. Jestem pewien, Å¼e dr Wong i inni naukowcy Shi dojdÄ… do tego bez twojej pomocy. Nasza wspÃ³Å‚praca dobiegÅ‚a koÅ„ca.}
+{400}{}{Nie zmieniÅ‚em nastawienia. OprÃ³cz tego, Å¼e prÃ³bka jest odporna na promieniowanie, zostaÅ‚a nasycona moim serum samoÅ›wiadomoÅ›ci. Jak dumny ojciec, chcÄ™ po prostu pokazaÄ‡ Å›wiatu moje stworzenia. Dostarcz dla mnie te prÃ³bki, a zostaniesz sowicie nagrodzony.}
+{401}{}{Dobrze. ZaniosÄ™ prÃ³bkÄ™.}
+{402}{}{Nie! WsadÅº sobie te prÃ³bki. Nasza wspÃ³Å‚praca dobiegÅ‚a koÅ„ca.}
+{403}{}{Dr. Wong wydaje siÄ™ byÄ‡ podejrzliwym facetem. NaprawdÄ™ myÅ›lisz, Å¼e uwierzy w to, Å¼e prÃ³bki pochodzÄ… od ciebie?}
+{410}{}{DotarÅ‚a do mnie informacja, Å¼e w pobliÅ¼u jest stary obiekt rzÄ…dowy USA, w ktÃ³rym moÅ¼na znaleÅºÄ‡ wyjÄ…tkowe nasiona roÅ›lin nieskalane promieniowaniem. Obiekt znajduje siÄ™ daleko stÄ…d, zbyt daleko Å¼ebym mÃ³gÅ‚ tam wyruszyÄ‡ w pojedynke, niestety nie jestem aÅ¼ tak doÅ›wiadczonym podrÃ³Å¼nikiem jak ty. WierzÄ™, Å¼e dla ciebie byÅ‚aby to buÅ‚ka z masÅ‚em.}
+{411}{}{Och, mÃ³wisz o tych dziwnych nasionach z "AOÅš". ByÅ‚em tam i znalazÅ‚em je.}
+{412}{}{Zawsze chÄ™tnie wyruszÄ™ po przedwojenne skarby. Podaj mi dokÅ‚adnÄ… lokalizacjÄ™ obiektu, a ja sprawdzÄ™, czy znajdÄ™ tam coÅ› wartoÅ›ciowego.}
+{413}{}{Co dostanÄ™ w zamian?}
+{420}{}{Tak, masz racjÄ™, dr Wong moÅ¼e i jest nieco oporny, mimo to daj mu prÃ³bkÄ™. Nawet jeÅ›li ci nie uwierzy, zeÅ¼re go ciekawoÅ›Ä‡, a wtedy przyjmiÄ™ podarunek. Kiedy prÃ³bka bÄ™dzie juÅ¼ bezpieczna, znajdÅº sposÃ³b na wyeliminowanie dr Wong'a bez powiadamiania reszty Shi, a twoja nagroda wzroÅ›nie trzykrotnie.}
+{421}{}{ZobaczÄ™, co da siÄ™ zrobiÄ‡.}
+{422}{}{JeÅ›li pragniesz widzieÄ‡ dr Wong'a martwego, muszÄ™ dostaÄ‡ zaliczkÄ™ zanim go zabijÄ™.}
+{423}{}{Wiesz co? To wszystko staÅ‚o siÄ™ nieco skomplikowane. MyÅ›lÄ™, Å¼e po prostu ciÄ™ zabijÄ™, a potem zabije caÅ‚Ä… reszte Å›wirÃ³w Shi.}
+{424}{}{Nie ma mowy, nie zabijÄ™ dla ciebie dr Wong'a. To koniec naszej wspÃ³Å‚pracy.}
+{430}{}{Bardzo dobrze. Ta trucizna moÅ¼e ci siÄ™ przydaÄ‡. Pochodzi od jednego z moich stworzeÅ„. Jest niezwykle zabÃ³jcza. [WrÄ™cza ci strzykawkÄ™]}
+{431}{}{ZobaczÄ™, co da siÄ™ zrobiÄ‡.}
+{440}{}{[SpoglÄ…da na ciebie wyczekujÄ…co]}
+{441}{}{CiÄ…gle nad tym pracujÄ™. NiedÅ‚ugo wrÃ³cÄ™.}
+{442}{}{DostarczyÅ‚em prÃ³bkÄ™.}
+{443}{}{Shi majÄ… prÃ³bkÄ™, a dr Wong jest martwy.}
+{444}{}{Twoja wizja zemsty nie byÅ‚a wystarczajÄ…co bezpoÅ›rednia jak na mÃ³j gust, wiÄ™c po prostu zabiÅ‚em dla ciebie wszystkich Shi.}
+{445}{}{Dr. Wong nie Å¼yje.}
+{446}{}{DostarczyÅ‚em prÃ³bkÄ™, a kiedy zdradziÅ‚em Shi twoje zamiary, dr Wong natychmiast zniszczyÅ‚ prÃ³bkÄ™.}
+{450}{}{NiemoÅ¼liwe! RoÅ›liny nie potrafiÄ… mÃ³wiÄ‡, niezaleÅ¼nie od stopnia ich inteligencji, wiÄ™c albo stroisz sobie ze mnie Å¼arty albo byÅ‚eÅ› wtedy pod wpÅ‚ywem jakiegoÅ› Å›rodka halucygennego. Kiedy na ciebie patrzÄ™, wydaje mi siÄ™, Å¼e nie Å¼artujesz wiÄ™c pozostaje mi wierzyÄ‡ w twoje halucynacje. Ale doÅ›Ä‡ tych bzdur. MuszÄ™ wiedzieÄ‡ czy jesteÅ› gotÃ³w mi pomÃ³c.}
+{451}{}{Tak, to zapewe gÅ‚upio brzmi. W kaÅ¼dym razie, w czym dokÅ‚adnie mam panu pomÃ³c?}
+{452}{}{Nie zmieniaj tematu, mÃ³wiÄ™ prawdÄ™! PrzysiÄ™gam na Przybysza z krypty, nazywa siÄ™ Seymour i potrafi mÃ³wiÄ‡. ChciaÅ‚ Å¼ebym go przesadziÅ‚ w inne, lepsze miejsce. Nie zmyÅ›lam i nie miaÅ‚em Å¼adnych halucynacji.}
+{460}{}{DoÅ›Ä‡! Nie mam czasu na te gÅ‚upoty. PomoÅ¼esz mi czy nie?}
 {461}{}{Pomocy w czym?}
-{462}{}{Nie! Nie zamierzam ci pomagaæ, dupku! Seymour jest prawdziwy! SEYMOUR JEST PRAWDZIWY!}
-{470}{}{[Uœmiecha siê, najwyraŸniej chc¹c siê popisaæ swoim geniuszem] Od zawsze fascynowa³em siê roœlinami. Tak bardzo ró¿ni¹ siê od zwierz¹t, a jednak s¹ zaskakuj¹co podobne. Jeœli spojrzeæ na zwierzê: Jest œwiadome swojego otoczenia, doœwiadcza bólu i strachu. Ma ku temu powody. Oczywiœcie zakres tych zdolnoœci ró¿ni siê, ale nie zmienia to faktu, ¿e zwierzêta zdolnoœci te posiadaj¹.}
-{471}{}{Mów dalej.}
-{480}{}{Jeœli natomiast spojrzysz na roœliny, widzisz ró¿nicê? Jeœli kopniesz roœlinê, to czy ona zacznie walczyæ? Czy ci odpowie? Czy s³owa wp³yn¹ jakoœ na jej rozwój? Niektóre kultury sprzed Wielkiej Wojny bada³y takie teorie. Pewni ludzie prowadzili eksperymenty, dziêki którym udowodnili, ¿e roœliny s¹ w stanie odczuwaæ emocje. Dowiedli, ¿e mo¿na doprowadziæ do zdrowego wzrostu poprzez rozmowê, uwagê i uczucia.}
-{481}{}{Ale przecie¿ roœliny nie posiadaj¹ uk³adu nerwowego, a bez niego to, co sugerujesz, jest po prostu niemo¿liwe.}
-{482}{}{Myœlê, ¿e ka¿da z form ¿ycia postrzega wszystko na swój w³asny, ró¿ny sposób.}
-{483}{}{Na swojej drodze napotka³em wiele roœlin, które po moim kopniaku rzuci³y siê do ataku. Wiêc muszê siê zgodziæ z tym, ¿e roœliny odczuwaj¹ ból.}
-{490}{}{I nie pozostajesz sam w tym przekonaniu. Na pocz¹tku ja równie¿ by³em doœæ sceptyczny. Ale widzisz, w XX wieku, rz¹d Stanów Zjednoczonych przeprowadzi³ podobne doœwiadczenia z naciskiem na komunikacjê roœlin. Naturalnie, wszystkie formy ¿ycia maj¹ œwiadomoœæ tego, ¿e ich cia³o zosta³o uszkodzone, ból, ale czy roœliny w jakiœ sposób przekazuj¹ informacjê o tym, ¿e doœwiadczy³y bólu? Do jakich wniosków doprowadzi³y zatem te eksperymenty? Ano do tego, ¿e roœliny s¹ rozumne.}
-{491}{}{Sugeruje pan, ¿e roœliny egzystuj¹ niemal jak ludzie?}
-{500}{}{I nie pozostajesz sam w tym przekonaniu. W XX wieku, rz¹d Stanów Zjednoczonych przeprowadzi³ podobne doœwiadczenia z naciskiem na komunikacjê roœlin. Naturalnie, wszystkie formy ¿ycia maj¹ œwiadomoœæ tego, ¿e ich cia³o zosta³o uszkodzone, ból, ale czy roœliny w jakiœ sposób przekazuj¹ informacjê o tym, ¿e doœwiadczy³y bólu? Do jakich wniosków doprowadzi³y zatem te eksperymenty? Ano do tego, ¿e roœliny s¹ rozumne.}
-{501}{}{Sugeruje pan, ¿e roœliny egzystuj¹ niemal jak ludzie?}
-{510}{}{Sugerujê, ¿e MOG£YBY egzystowaæ niemal jak ludzie. I jak widaæ, nie myli³em siê. One potrzebowa³y po prostu ma³ej pomocy.}
-{511}{}{Ma³ej pomocy?}
-{520}{}{Spl¹tanie genów! Dziêki magii nauki, by³em w stanie opracowaæ botaniczne serum samoœwiadomoœci. Niestety nadanie roœlinom ludzkiej inteligencji to tylko po³owa sukcesu. W celu pe³nego wykorzystania takiej inteligencji, musia³em obdarzyæ je równie¿ cia³em i zmys³ami cz³owieka.}
-{521}{}{Aha, czyli st¹d te "cia³a". Musisz mi powiedzieæ, w jaki sposób uda³o ci siê sprawiæ, ¿e roœliny wspó³pracuj¹ z cia³em cz³owieka? Jak uda³o im siê przej¹æ kontrolê nad systemem nerwowym cz³owieka? Na dodatek martwego cz³owieka. Wydajê mi siê to niemo¿liwe.}
-{530}{}{Dobrze, nie mogê obiecaæ, ¿e w pe³ni zrozumiesz wszystko, co mam ci do powiedzenia. Jednak do³o¿ê wszelkich starañ, aby tak siê sta³o. [Przez dwie godziny z ogromnym zapa³em dok³adnie objaœnia ci poszczególne procesy jego eksperymentów, najwyraŸniej jest bardzo dumny ze swoich osi¹gniêæ]}
+{462}{}{Nie! Nie zamierzam ci pomagaÄ‡, dupku! Seymour jest prawdziwy! SEYMOUR JEST PRAWDZIWY!}
+{470}{}{[UÅ›miecha siÄ™, najwyraÅºniej chcÄ…c siÄ™ popisaÄ‡ swoim geniuszem] Od zawsze fascynowaÅ‚em siÄ™ roÅ›linami. Tak bardzo rÃ³Å¼niÄ… siÄ™ od zwierzÄ…t, a jednak sÄ… zaskakujÄ…co podobne. JeÅ›li spojrzeÄ‡ na zwierzÄ™: Jest Å›wiadome swojego otoczenia, doÅ›wiadcza bÃ³lu i strachu. Ma ku temu powody. OczywiÅ›cie zakres tych zdolnoÅ›ci rÃ³Å¼ni siÄ™, ale nie zmienia to faktu, Å¼e zwierzÄ™ta zdolnoÅ›ci te posiadajÄ….}
+{471}{}{MÃ³w dalej.}
+{480}{}{JeÅ›li natomiast spojrzysz na roÅ›liny, widzisz rÃ³Å¼nicÄ™? JeÅ›li kopniesz roÅ›linÄ™, to czy ona zacznie walczyÄ‡? Czy ci odpowie? Czy sÅ‚owa wpÅ‚ynÄ… jakoÅ› na jej rozwÃ³j? NiektÃ³re kultury sprzed Wielkiej Wojny badaÅ‚y takie teorie. Pewni ludzie prowadzili eksperymenty, dziÄ™ki ktÃ³rym udowodnili, Å¼e roÅ›liny sÄ… w stanie odczuwaÄ‡ emocje. Dowiedli, Å¼e moÅ¼na doprowadziÄ‡ do zdrowego wzrostu poprzez rozmowÄ™, uwagÄ™ i uczucia.}
+{481}{}{Ale przecieÅ¼ roÅ›liny nie posiadajÄ… ukÅ‚adu nerwowego, a bez niego to, co sugerujesz, jest po prostu niemoÅ¼liwe.}
+{482}{}{MyÅ›lÄ™, Å¼e kaÅ¼da z form Å¼ycia postrzega wszystko na swÃ³j wÅ‚asny, rÃ³Å¼ny sposÃ³b.}
+{483}{}{Na swojej drodze napotkaÅ‚em wiele roÅ›lin, ktÃ³re po moim kopniaku rzuciÅ‚y siÄ™ do ataku. WiÄ™c muszÄ™ siÄ™ zgodziÄ‡ z tym, Å¼e roÅ›liny odczuwajÄ… bÃ³l.}
+{490}{}{I nie pozostajesz sam w tym przekonaniu. Na poczÄ…tku ja rÃ³wnieÅ¼ byÅ‚em doÅ›Ä‡ sceptyczny. Ale widzisz, w XX wieku, rzÄ…d StanÃ³w Zjednoczonych przeprowadziÅ‚ podobne doÅ›wiadczenia z naciskiem na komunikacjÄ™ roÅ›lin. Naturalnie, wszystkie formy Å¼ycia majÄ… Å›wiadomoÅ›Ä‡ tego, Å¼e ich ciaÅ‚o zostaÅ‚o uszkodzone, bÃ³l, ale czy roÅ›liny w jakiÅ› sposÃ³b przekazujÄ… informacjÄ™ o tym, Å¼e doÅ›wiadczyÅ‚y bÃ³lu? Do jakich wnioskÃ³w doprowadziÅ‚y zatem te eksperymenty? Ano do tego, Å¼e roÅ›liny sÄ… rozumne.}
+{491}{}{Sugeruje pan, Å¼e roÅ›liny egzystujÄ… niemal jak ludzie?}
+{500}{}{I nie pozostajesz sam w tym przekonaniu. W XX wieku, rzÄ…d StanÃ³w Zjednoczonych przeprowadziÅ‚ podobne doÅ›wiadczenia z naciskiem na komunikacjÄ™ roÅ›lin. Naturalnie, wszystkie formy Å¼ycia majÄ… Å›wiadomoÅ›Ä‡ tego, Å¼e ich ciaÅ‚o zostaÅ‚o uszkodzone, bÃ³l, ale czy roÅ›liny w jakiÅ› sposÃ³b przekazujÄ… informacjÄ™ o tym, Å¼e doÅ›wiadczyÅ‚y bÃ³lu? Do jakich wnioskÃ³w doprowadziÅ‚y zatem te eksperymenty? Ano do tego, Å¼e roÅ›liny sÄ… rozumne.}
+{501}{}{Sugeruje pan, Å¼e roÅ›liny egzystujÄ… niemal jak ludzie?}
+{510}{}{SugerujÄ™, Å¼e MOGÅYBY egzystowaÄ‡ niemal jak ludzie. I jak widaÄ‡, nie myliÅ‚em siÄ™. One potrzebowaÅ‚y po prostu maÅ‚ej pomocy.}
+{511}{}{MaÅ‚ej pomocy?}
+{520}{}{SplÄ…tanie genÃ³w! DziÄ™ki magii nauki, byÅ‚em w stanie opracowaÄ‡ botaniczne serum samoÅ›wiadomoÅ›ci. Niestety nadanie roÅ›linom ludzkiej inteligencji to tylko poÅ‚owa sukcesu. W celu peÅ‚nego wykorzystania takiej inteligencji, musiaÅ‚em obdarzyÄ‡ je rÃ³wnieÅ¼ ciaÅ‚em i zmysÅ‚ami czÅ‚owieka.}
+{521}{}{Aha, czyli stÄ…d te "ciaÅ‚a". Musisz mi powiedzieÄ‡, w jaki sposÃ³b udaÅ‚o ci siÄ™ sprawiÄ‡, Å¼e roÅ›liny wspÃ³Å‚pracujÄ… z ciaÅ‚em czÅ‚owieka? Jak udaÅ‚o im siÄ™ przejÄ…Ä‡ kontrolÄ™ nad systemem nerwowym czÅ‚owieka? Na dodatek martwego czÅ‚owieka. WydajÄ™ mi siÄ™ to niemoÅ¼liwe.}
+{530}{}{Dobrze, nie mogÄ™ obiecaÄ‡, Å¼e w peÅ‚ni zrozumiesz wszystko, co mam ci do powiedzenia. Jednak doÅ‚oÅ¼Ä™ wszelkich staraÅ„, aby tak siÄ™ staÅ‚o. [Przez dwie godziny z ogromnym zapaÅ‚em dokÅ‚adnie objaÅ›nia ci poszczegÃ³lne procesy jego eksperymentÃ³w, najwyraÅºniej jest bardzo dumny ze swoich osiÄ…gniÄ™Ä‡]}
 {531}{}{[KONTYNUUJ]}
-{540}{}{Mam nadziejê, ¿e teraz ju¿ wszystko rozumiesz?}
-{541}{}{Tak, rozumiem. Wydawa³o mi siê to ca³kowicie niemo¿liwe, ale po tej rozmowie to wszystko nabra³o wiêkszego sensu. A ta rzecz o g¹bkach, geniusz absolutny! Chory, ale zawsze geniusz. Jest jednak jeszcze jedna rzecz, której bardzo chêtnie bym siê dowiedzia³, a mianowicie: sk¹d bierzesz te "œwie¿e cia³a"?}
-{550}{}{Wstrzymaj siê minutê. Dr. Wong mo¿e i jest nieco oporny, mimo to daj mu próbkê. Nawet jeœli ci nie uwierzy, ze¿re go ciekawoœæ, a wtedy przyjmiê podarunek. Kiedy próbka bêdzie ju¿ bezpieczna, znajdŸ sposób na wyeliminowanie dr Wong'a bez powiadamiania reszty Shi, a twoja nagroda wzroœnie trzykrotnie.}
-{551}{}{Zobaczê, co da siê zrobiæ.}
-{552}{}{Jeœli pragniesz widzieæ dr Wong'a martwego, muszê dostaæ zaliczkê zanim go zabijê.}
-{553}{}{Wiesz co? To wszystko sta³o siê nieco skomplikowane. Myœlê, ¿e po prostu ciê zabijê, a potem zabije ca³¹ reszte œwirów Shi.}
-{554}{}{Nie ma mowy, nie zabijê dla ciebie dr Wong'a. To koniec naszej wspó³pracy.}
+{540}{}{Mam nadziejÄ™, Å¼e teraz juÅ¼ wszystko rozumiesz?}
+{541}{}{Tak, rozumiem. WydawaÅ‚o mi siÄ™ to caÅ‚kowicie niemoÅ¼liwe, ale po tej rozmowie to wszystko nabraÅ‚o wiÄ™kszego sensu. A ta rzecz o gÄ…bkach, geniusz absolutny! Chory, ale zawsze geniusz. Jest jednak jeszcze jedna rzecz, ktÃ³rej bardzo chÄ™tnie bym siÄ™ dowiedziaÅ‚, a mianowicie: skÄ…d bierzesz te "Å›wieÅ¼e ciaÅ‚a"?}
+{550}{}{Wstrzymaj siÄ™ minutÄ™. Dr. Wong moÅ¼e i jest nieco oporny, mimo to daj mu prÃ³bkÄ™. Nawet jeÅ›li ci nie uwierzy, zeÅ¼re go ciekawoÅ›Ä‡, a wtedy przyjmiÄ™ podarunek. Kiedy prÃ³bka bÄ™dzie juÅ¼ bezpieczna, znajdÅº sposÃ³b na wyeliminowanie dr Wong'a bez powiadamiania reszty Shi, a twoja nagroda wzroÅ›nie trzykrotnie.}
+{551}{}{ZobaczÄ™, co da siÄ™ zrobiÄ‡.}
+{552}{}{JeÅ›li pragniesz widzieÄ‡ dr Wong'a martwego, muszÄ™ dostaÄ‡ zaliczkÄ™ zanim go zabijÄ™.}
+{553}{}{Wiesz co? To wszystko staÅ‚o siÄ™ nieco skomplikowane. MyÅ›lÄ™, Å¼e po prostu ciÄ™ zabijÄ™, a potem zabije caÅ‚Ä… reszte Å›wirÃ³w Shi.}
+{554}{}{Nie ma mowy, nie zabijÄ™ dla ciebie dr Wong'a. To koniec naszej wspÃ³Å‚pracy.}
 {560}{}{Doskonale. A co z dr Wong'iem?}
-{561}{}{Wci¹¿ ¿yje. Wrócê gdy to siê zmieni.}
-{562}{}{Nie, nie zamierzam zabijaæ dla ciebie dr Wong'a. Dostarczy³em próbki. To koniec naszej wspó³pracy.}
-{570}{}{Potrzebuje im do³o¿yæ, a ty wygl¹dasz jakbyœ by³ stworzony do tego zadania.}
-{571}{}{Dlaczego nie mo¿esz wys³aæ tam, eee... tych bardziej doœwiadczonych?}
-{572}{}{Brzmi nieŸle. Zrobiê to.}
-{573}{}{Co bêdê z tego mieæ?}
-{574}{}{Nie, nie jestem zainteresowany sprz¹taniem dla ciebie tego syfu.}
-{580}{}{Same nie zaatakuj¹. Rozumiej¹ dlaczego musz¹ pozbyæ siê swoich braci, ale nie potrafi¹ wykonaæ tego zadania samodzielnie. To stawia mnie w doœæ k³opotliwej sytuacji. Dlatego te¿ by³bym ci niezmiernie wdziêczny gdybyœ poprowadzi³ moje dzieci do walki, mog³yby siê od ciebie wiele nauczyæ. Wiêc jak bêdzie? Pomo¿esz mi?}
-{581}{}{Dobra, zrobiê to.}
-{582}{}{Co bêdê z tego mieæ?}
-{583}{}{Nie, nie jestem zainteresowany sprz¹taniem dla ciebie tego syfu.}
-{590}{}{Laboratorium le¿y na pó³noc od wejœcia. Wartownik pozwoli ci przejœæ. B¹dŸ ostro¿ny. Te stworzenia s¹ bardzo silne, wiêc nie pozwól im siê do ciebie zbli¿yæ. Och, i uwa¿aj na ich truj¹ce zarodniki, którymi strzelaj¹. Ale nie martw siê, mam antidotum na wypadek gdybyœ zosta³ otruty.}
-{591}{}{Dobra. Nied³ugo wrócê.}
-{592}{}{Wiêc s¹ bardzo silne i maj¹ truj¹ce pociski? Po namyœle, dochodzê do wniosku, ¿e to za du¿o jak dla mnie.}
-{600}{}{Dam ci pieni¹dze, ponadto, mam informacje, które mog¹ okazaæ siê dla ciebie bardzo przydatne. Wiêc jak bêdzie? Pomo¿esz mi?}
-{601}{}{Dobra, zrobiê to.}
-{602}{}{Nie, nie jestem zainteresowany sprz¹taniem dla ciebie tego syfu.}
-{610}{}{[Spogl¹da na ciebie wyczekuj¹co]}
-{611}{}{Wrócê gdy ju¿ oczyszczê laboratorium.}
-{612}{}{Wszystkie stworzenia z laboratorium s¹ martwe.}
-{613}{}{Wszystkie stworzenia z laboratorium s¹ martwe, ale zosta³em otruty. Wczeœniej mówi³eœ coœ o jakimœ antidotum?}
-{620}{}{Tak, zaraz ciê wyleczymy. Proszê.}
+{561}{}{WciÄ…Å¼ Å¼yje. WrÃ³cÄ™ gdy to siÄ™ zmieni.}
+{562}{}{Nie, nie zamierzam zabijaÄ‡ dla ciebie dr Wong'a. DostarczyÅ‚em prÃ³bki. To koniec naszej wspÃ³Å‚pracy.}
+{570}{}{Potrzebuje im doÅ‚oÅ¼yÄ‡, a ty wyglÄ…dasz jakbyÅ› byÅ‚ stworzony do tego zadania.}
+{571}{}{Dlaczego nie moÅ¼esz wysÅ‚aÄ‡ tam, eee... tych bardziej doÅ›wiadczonych?}
+{572}{}{Brzmi nieÅºle. ZrobiÄ™ to.}
+{573}{}{Co bÄ™dÄ™ z tego mieÄ‡?}
+{574}{}{Nie, nie jestem zainteresowany sprzÄ…taniem dla ciebie tego syfu.}
+{580}{}{Same nie zaatakujÄ…. RozumiejÄ… dlaczego muszÄ… pozbyÄ‡ siÄ™ swoich braci, ale nie potrafiÄ… wykonaÄ‡ tego zadania samodzielnie. To stawia mnie w doÅ›Ä‡ kÅ‚opotliwej sytuacji. Dlatego teÅ¼ byÅ‚bym ci niezmiernie wdziÄ™czny gdybyÅ› poprowadziÅ‚ moje dzieci do walki, mogÅ‚yby siÄ™ od ciebie wiele nauczyÄ‡. WiÄ™c jak bÄ™dzie? PomoÅ¼esz mi?}
+{581}{}{Dobra, zrobiÄ™ to.}
+{582}{}{Co bÄ™dÄ™ z tego mieÄ‡?}
+{583}{}{Nie, nie jestem zainteresowany sprzÄ…taniem dla ciebie tego syfu.}
+{590}{}{Laboratorium leÅ¼y na pÃ³Å‚noc od wejÅ›cia. Wartownik pozwoli ci przejÅ›Ä‡. BÄ…dÅº ostroÅ¼ny. Te stworzenia sÄ… bardzo silne, wiÄ™c nie pozwÃ³l im siÄ™ do ciebie zbliÅ¼yÄ‡. Och, i uwaÅ¼aj na ich trujÄ…ce zarodniki, ktÃ³rymi strzelajÄ…. Ale nie martw siÄ™, mam antidotum na wypadek gdybyÅ› zostaÅ‚ otruty.}
+{591}{}{Dobra. NiedÅ‚ugo wrÃ³cÄ™.}
+{592}{}{WiÄ™c sÄ… bardzo silne i majÄ… trujÄ…ce pociski? Po namyÅ›le, dochodzÄ™ do wniosku, Å¼e to za duÅ¼o jak dla mnie.}
+{600}{}{Dam ci pieniÄ…dze, ponadto, mam informacje, ktÃ³re mogÄ… okazaÄ‡ siÄ™ dla ciebie bardzo przydatne. WiÄ™c jak bÄ™dzie? PomoÅ¼esz mi?}
+{601}{}{Dobra, zrobiÄ™ to.}
+{602}{}{Nie, nie jestem zainteresowany sprzÄ…taniem dla ciebie tego syfu.}
+{610}{}{[SpoglÄ…da na ciebie wyczekujÄ…co]}
+{611}{}{WrÃ³cÄ™ gdy juÅ¼ oczyszczÄ™ laboratorium.}
+{612}{}{Wszystkie stworzenia z laboratorium sÄ… martwe.}
+{613}{}{Wszystkie stworzenia z laboratorium sÄ… martwe, ale zostaÅ‚em otruty. WczeÅ›niej mÃ³wiÅ‚eÅ› coÅ› o jakimÅ› antidotum?}
+{620}{}{Tak, zaraz ciÄ™ wyleczymy. ProszÄ™.}
 {621}{}{Uf. Od razu lepiej.}
-{630}{}{Szkoda, ¿e musieliœmy zlikwidowaæ te okazy, niestety by³o to z³o konieczne, jedyna droga do odzyskania mojego laboratorium. Dobrze siê spisa³eœ. Oto pierwsza czêœæ twojej nagrody [Wrêcza ci 1000 dolarów], drug¹ jest informacja oraz kolejne zadanie.}
-{631}{}{Szkoda, ¿e musieliœmy zlikwidowaæ te okazy, niestety by³o to z³o konieczne, jedyna droga do odzyskania mojego laboratorium. Dobrze siê spisa³eœ. Twoj¹ nagrod¹ bêdzie informacja oraz kolejne zadanie.}
-{632}{}{Zamieniam siê w s³uch.}
-{633}{}{Zapomnij o tym. Zachowaj te informacje dla siebie. Ju¿ dla ciebie nie pracujê.}
-{640}{}{Doskonale. Shi otrzyma³o próbkê, któr¹ ode mnie dosta³eœ?}
-{641}{}{Och, eee... W³aœciwie to nie. Zapomnia³em, ¿e próbkê mam oddaæ w pierwszej kolejnoœci.}
-{700}{}{Oczyœci³eœ labolatorium Dr. Sheng's.}
-{710}{}{Dostarczy³eœ nasiona roœlin Dr. Sheng'owi.}
+{630}{}{Szkoda, Å¼e musieliÅ›my zlikwidowaÄ‡ te okazy, niestety byÅ‚o to zÅ‚o konieczne, jedyna droga do odzyskania mojego laboratorium. Dobrze siÄ™ spisaÅ‚eÅ›. Oto pierwsza czÄ™Å›Ä‡ twojej nagrody [WrÄ™cza ci 1000 dolarÃ³w], drugÄ… jest informacja oraz kolejne zadanie.}
+{631}{}{Szkoda, Å¼e musieliÅ›my zlikwidowaÄ‡ te okazy, niestety byÅ‚o to zÅ‚o konieczne, jedyna droga do odzyskania mojego laboratorium. Dobrze siÄ™ spisaÅ‚eÅ›. TwojÄ… nagrodÄ… bÄ™dzie informacja oraz kolejne zadanie.}
+{632}{}{Zamieniam siÄ™ w sÅ‚uch.}
+{633}{}{Zapomnij o tym. Zachowaj te informacje dla siebie. JuÅ¼ dla ciebie nie pracujÄ™.}
+{640}{}{Doskonale. Shi otrzymaÅ‚o prÃ³bkÄ™, ktÃ³rÄ… ode mnie dostaÅ‚eÅ›?}
+{641}{}{Och, eee... WÅ‚aÅ›ciwie to nie. ZapomniaÅ‚em, Å¼e prÃ³bkÄ™ mam oddaÄ‡ w pierwszej kolejnoÅ›ci.}
+{700}{}{OczyÅ›ciÅ‚eÅ› labolatorium Dr. Sheng's.}
+{710}{}{DostarczyÅ‚eÅ› nasiona roÅ›lin Dr. Sheng'owi.}
 {800}{}{*sapie* Aaaaaa...}

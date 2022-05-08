@@ -14,7 +14,7 @@
 {111}{}{Ah. Ok. Me ask questions?}
 {112}{}{Tudo bem. Tchau.}
 {113}{}{Certainly you may.}
-{114}{}{O que você gostaria de saber?}
+{114}{}{O que vocÃª gostaria de saber?}
 {115}{}{Who shrine for?}
 {116}{}{How long you here?}
 {117}{}{D'claws bad?}
@@ -22,7 +22,7 @@
 {119}{}{Eu vou agora.}
 {120}{}{Who is this shrine dedicated to?}
 {121}{}{How long have you been here?}
-{122}{}{O que você pode me contar sobre os deathclaws?}
+{122}{}{O que vocÃª pode me contar sobre os deathclaws?}
 {123}{}{Why do you stay here?}
 {124}{}{Thanks, Gordon. Good-bye.}
 {125}{}{This shrine is dedicated to an unnamed hero known only as the Vault Dweller. He, or she, was the
@@ -89,5 +89,5 @@
 {173}{}{Ask question?}
 {174}{}{Me been here before? Sorry. Got go.}
 {175}{}{I wanted to talk with you once again.}
-{176}{}{Apenas dizer "olá".}
+{176}{}{Apenas dizer "olÃ¡".}
 {177}{}{. Can I ask you some questions?}

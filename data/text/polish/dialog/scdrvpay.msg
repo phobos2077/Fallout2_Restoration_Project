@@ -1,15 +1,15 @@
-{100}{}{Widzisz mê¿czyznê w ubraniu roboczym.}
-{101}{}{To kupiec braminów. Spodziewa siê karawany Hala.}
-{102}{}{Œmierdzi od niego braminami.}
-{113}{}{Có¿, to dopiero by³a rzeŸnia! Bojê siê, ¿e w tym spêdzie nie ma kasy dla ¿adnego z nas. Ciesz siê, ¿e ¿yjesz.}
-{114}{}{Có¿, ranczerzy nie s¹ zbyt zadowoleni - za ten spêd tylko 1000$. Cholerne szczêœcie.}
-{115}{}{Có¿, mia³eœ troszkê pecha, ale uda³o ci siê. Oto 2000$, na które siê umówiliœmy.}
-{116}{}{Cholera, doskonale ci posz³o! Oto 1000$ premii dla ciebie. To i 2000$ razem daje twoj¹ zap³atê. Niech Redding lepiej dzisiaj w nocy uwa¿a!}
-{118}{}{Nigdy nie widzia³em gorszego konwojenta. Spadaj st¹d!}
-{119}{}{Co za szkoda ¿e Hal nie prze¿y³.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ w ubraniu roboczym.}
+{101}{}{To kupiec braminÃ³w. Spodziewa siÄ™ karawany Hala.}
+{102}{}{Åšmierdzi od niego braminami.}
+{113}{}{CÃ³Å¼, to dopiero byÅ‚a rzeÅºnia! BojÄ™ siÄ™, Å¼e w tym spÄ™dzie nie ma kasy dla Å¼adnego z nas. Ciesz siÄ™, Å¼e Å¼yjesz.}
+{114}{}{CÃ³Å¼, ranczerzy nie sÄ… zbyt zadowoleni - za ten spÄ™d tylko 1000$. Cholerne szczÄ™Å›cie.}
+{115}{}{CÃ³Å¼, miaÅ‚eÅ› troszkÄ™ pecha, ale udaÅ‚o ci siÄ™. Oto 2000$, na ktÃ³re siÄ™ umÃ³wiliÅ›my.}
+{116}{}{Cholera, doskonale ci poszÅ‚o! Oto 1000$ premii dla ciebie. To i 2000$ razem daje twojÄ… zapÅ‚atÄ™. Niech Redding lepiej dzisiaj w nocy uwaÅ¼a!}
+{118}{}{Nigdy nie widziaÅ‚em gorszego konwojenta. Spadaj stÄ…d!}
+{119}{}{Co za szkoda Å¼e Hal nie przeÅ¼yÅ‚.}
 {120}{}{Szkoda Hala...}
-{121}{}{Mi³o robiæ z tob¹ interesy.}
-{213}{}{Szlag, Hal nie ¿yje! Bramin te¿! Bojê siê, ¿e w tym spêdzie nie ma kasy dla ¿adnego z nas. Ciesz siê, ¿e ¿yjesz.}
-{214}{}{Szlag, Hal nie ¿yje! Có¿, ranczerzy nie s¹ zbyt zadowoleni - za ten spêd tylko 1000$. Trudno.}
-{215}{}{Szlag, Hal nie ¿yje! Przynajmniej braminom nic siê nie sta³o. Oto 2000$, na które siê umówiliœmy.}
-{216}{}{Cholera, Hal nie ¿yje! Mimo to, uda³o ci siê. Oto 1000$ premii dla ciebie. To i 2000$ razem daje twoj¹ zap³atê. Niech Redding lepiej dzisiaj w nocy uwa¿a!}
+{121}{}{MiÅ‚o robiÄ‡ z tobÄ… interesy.}
+{213}{}{Szlag, Hal nie Å¼yje! Bramin teÅ¼! BojÄ™ siÄ™, Å¼e w tym spÄ™dzie nie ma kasy dla Å¼adnego z nas. Ciesz siÄ™, Å¼e Å¼yjesz.}
+{214}{}{Szlag, Hal nie Å¼yje! CÃ³Å¼, ranczerzy nie sÄ… zbyt zadowoleni - za ten spÄ™d tylko 1000$. Trudno.}
+{215}{}{Szlag, Hal nie Å¼yje! Przynajmniej braminom nic siÄ™ nie staÅ‚o. Oto 2000$, na ktÃ³re siÄ™ umÃ³wiliÅ›my.}
+{216}{}{Cholera, Hal nie Å¼yje! Mimo to, udaÅ‚o ci siÄ™. Oto 1000$ premii dla ciebie. To i 2000$ razem daje twojÄ… zapÅ‚atÄ™. Niech Redding lepiej dzisiaj w nocy uwaÅ¼a!}

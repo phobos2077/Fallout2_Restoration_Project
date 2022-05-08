@@ -1,85 +1,85 @@
-{100}{}{Egy alacsony, karcsú n?t látsz kék szín? bársony napozóruhában.}
-{101}{}{Ariel, az özvegy.}
+{100}{}{Egy alacsony, karcsÃº n?t lÃ¡tsz kÃ©k szÃ­n? bÃ¡rsony napozÃ³ruhÃ¡ban.}
+{101}{}{Ariel, az Ã¶zvegy.}
 {102}{}{You see a short, slender woman wearing a blue velvet sun dress. She appears to be sad.}
-{103}{}{Jó napot, Ariel vagyok. Nem hinném, hogy már láttalak errefelé. Hogy hívnak?}
-{104}{}{Én}
-{105}{}{Szomorúnak t?nsz. Miért?}
-{106}{}{Én menni mostan.}
+{103}{}{JÃ³ napot, Ariel vagyok. Nem hinnÃ©m, hogy mÃ¡r lÃ¡ttalak errefelÃ©. Hogy hÃ­vnak?}
+{104}{}{Ã‰n}
+{105}{}{SzomorÃºnak t?nsz. MiÃ©rt?}
+{106}{}{Ã‰n menni mostan.}
 {107}{}{Hello, Ariel, my name is}
-{108}{}{Helló! Elég rosszul nézel ki. Hogy ityeg?}
-{109}{}{A nevem nem fontos, viszont nekem kéne egy-két dolog.}
+{108}{}{HellÃ³! ElÃ©g rosszul nÃ©zel ki. Hogy ityeg?}
+{109}{}{A nevem nem fontos, viszont nekem kÃ©ne egy-kÃ©t dolog.}
 {110}{}{Bocs. Nincs id?m erre.}
-{111}{}{Örülök, hogy találkoztunk. Miben segíthetek?}
-{112}{}{Válaszolsz kérdésekre?}
-{113}{}{Semmit. Viszlát!}
-{114}{}{Semmi hasznodat nem tudom venni. Viszlát!}
-{115}{}{Válaszolhatnál néhány kérdésemre...}
-{116}{}{Elnézést, hogy megzavarom a magányodat, de válaszolnál néhány kérdésre?}
-{117}{}{Csak egy kis személyes gond. Semmiség, igazán.}
-{118}{}{Te beszél, én hallgat. Ez segít.}
-{119}{}{Oké. Semmi baj. Válaszolnál pár kérdésre?}
-{120}{}{Jó hallgatóság vagyok, Ariel, nyugodtan beszélj nekem bármir?l, ami bánt, hátha segít!}
-{121}{}{Oké. Egyel?re hagyjuk a problémákat! Tudnál válaszolni néhány kérdésemre?}
-{122}{}{Mindenkinek vannak problémái. Oldd meg ?ket!}
-{123}{}{Bocsáss meg, de nincs id?m az ilyen modorú emberekre. Viszlát!}
+{111}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk. Miben segÃ­thetek?}
+{112}{}{VÃ¡laszolsz kÃ©rdÃ©sekre?}
+{113}{}{Semmit. ViszlÃ¡t!}
+{114}{}{Semmi hasznodat nem tudom venni. ViszlÃ¡t!}
+{115}{}{VÃ¡laszolhatnÃ¡l nÃ©hÃ¡ny kÃ©rdÃ©semre...}
+{116}{}{ElnÃ©zÃ©st, hogy megzavarom a magÃ¡nyodat, de vÃ¡laszolnÃ¡l nÃ©hÃ¡ny kÃ©rdÃ©sre?}
+{117}{}{Csak egy kis szemÃ©lyes gond. SemmisÃ©g, igazÃ¡n.}
+{118}{}{Te beszÃ©l, Ã©n hallgat. Ez segÃ­t.}
+{119}{}{OkÃ©. Semmi baj. VÃ¡laszolnÃ¡l pÃ¡r kÃ©rdÃ©sre?}
+{120}{}{JÃ³ hallgatÃ³sÃ¡g vagyok, Ariel, nyugodtan beszÃ©lj nekem bÃ¡rmir?l, ami bÃ¡nt, hÃ¡tha segÃ­t!}
+{121}{}{OkÃ©. Egyel?re hagyjuk a problÃ©mÃ¡kat! TudnÃ¡l vÃ¡laszolni nÃ©hÃ¡ny kÃ©rdÃ©semre?}
+{122}{}{Mindenkinek vannak problÃ©mÃ¡i. Oldd meg ?ket!}
+{123}{}{BocsÃ¡ss meg, de nincs id?m az ilyen modorÃº emberekre. ViszlÃ¡t!}
 {124}{}{}
 {125}{}{}
 {126}{}{Rendben.}
 {127}{}{Mit akarsz tudni?}
 {128}{}{Te lenni rab?}
-{129}{}{A karmok jól bánnak veled?}
+{129}{}{A karmok jÃ³l bÃ¡nnak veled?}
 {130}{}{Akarsz menni?}
-{131}{}{Akkor miért szomorú?}
-{132}{}{Hogy kerülsz ide?}
+{131}{}{Akkor miÃ©rt szomorÃº?}
+{132}{}{Hogy kerÃ¼lsz ide?}
 {133}{}{Menni kell.}
 {134}{}{Rab vagy?}
-{135}{}{A halálkarmok jól bánnak veled?}
-{136}{}{Szeretnéd elhagyni a menedéket?}
-{137}{}{Akkor mondd el, Ariel, miért vagy szomorú?}
-{138}{}{Hogy kerültél ide, a menedékbe?}
+{135}{}{A halÃ¡lkarmok jÃ³l bÃ¡nnak veled?}
+{136}{}{SzeretnÃ©d elhagyni a menedÃ©ket?}
+{137}{}{Akkor mondd el, Ariel, miÃ©rt vagy szomorÃº?}
+{138}{}{Hogy kerÃ¼ltÃ©l ide, a menedÃ©kbe?}
 {139}{}{Mennem kell.}
-{140}{}{Nem, bármikor elmehetek. A halálkarmok ezt értésemre adták. Senkit nem tartanak itt akarata ellenére. Legalábbis én nem tudok másról.}
-{141}{}{Ööö, oké.}
-{142}{}{Értem. Megyek.}
-{143}{}{Értem.}
+{140}{}{Nem, bÃ¡rmikor elmehetek. A halÃ¡lkarmok ezt Ã©rtÃ©semre adtÃ¡k. Senkit nem tartanak itt akarata ellenÃ©re. LegalÃ¡bbis Ã©n nem tudok mÃ¡srÃ³l.}
+{141}{}{Ã–Ã¶Ã¶, okÃ©.}
+{142}{}{Ã‰rtem. Megyek.}
+{143}{}{Ã‰rtem.}
 {144}{}{Hazudsz, kurva!}
-{145}{}{Értem. Ha nem gond, feltennék még néhány kérdést.}
-{146}{}{Igen. Ellátnak vízzel, élelemmel, fedéllel, és védelemmel. Biztonságban érzem magam, és ennél többet nem is kérhetnék.}
-{147}{}{Oké. Akkor megyek is.}
-{148}{}{Jó. Kérdezni még.}
-{149}{}{Rendben. Még feltennék néhány kérdést.}
+{145}{}{Ã‰rtem. Ha nem gond, feltennÃ©k mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{146}{}{Igen. EllÃ¡tnak vÃ­zzel, Ã©lelemmel, fedÃ©llel, Ã©s vÃ©delemmel. BiztonsÃ¡gban Ã©rzem magam, Ã©s ennÃ©l tÃ¶bbet nem is kÃ©rhetnÃ©k.}
+{147}{}{OkÃ©. Akkor megyek is.}
+{148}{}{JÃ³. KÃ©rdezni mÃ©g.}
+{149}{}{Rendben. MÃ©g feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
 {150}{}{Rendben. Nos, akkor err?l ennyit.}
-{151}{}{Nagyszer?! Egy hüll?barát.}
-{152}{}{Elhagynám, pedig nemet kéne mondanom. Nagyobb biztonságban érzem itt magam, mint bárhol máshol, ahol eddig éltem. Id?nként hiányzik más, hozzám hasonló emberek társasága, de remélem, a jöv?ben mások is eljönnek ide lakni.}
-{153}{}{Én megy. Pá-pá.}
-{154}{}{Mondj még.}
-{155}{}{Oké, rohadj meg itt, kit érdekel!}
+{151}{}{Nagyszer?! Egy hÃ¼ll?barÃ¡t.}
+{152}{}{ElhagynÃ¡m, pedig nemet kÃ©ne mondanom. Nagyobb biztonsÃ¡gban Ã©rzem itt magam, mint bÃ¡rhol mÃ¡shol, ahol eddig Ã©ltem. Id?nkÃ©nt hiÃ¡nyzik mÃ¡s, hozzÃ¡m hasonlÃ³ emberek tÃ¡rsasÃ¡ga, de remÃ©lem, a jÃ¶v?ben mÃ¡sok is eljÃ¶nnek ide lakni.}
+{153}{}{Ã‰n megy. PÃ¡-pÃ¡.}
+{154}{}{Mondj mÃ©g.}
+{155}{}{OkÃ©, rohadj meg itt, kit Ã©rdekel!}
 {156}{}{Rendben. Azt hiszem, mennem kell.}
-{157}{}{Sokat segítettél, de még egy kicsit zavarnom kéne téged.}
-{158}{}{A férjem mostanában halt meg. Hiányzik, és ez persze más problémákat is okoz. Ennyi az egész.}
-{159}{}{Sajnálom, hogy történt?}
-{160}{}{Oppá. Kell menni, törzsf? hív.}
-{161}{}{Sajnálattal hallom. Hogy történt?}
-{162}{}{Részvétem. Még találkozunk.}
-{163}{}{Az élet szar, az emberek meghalnak. F?leg ha a környéken vagyok.}
-{164}{}{Már meséltem a fosztogatásról. Akkor esett meg.}
+{157}{}{Sokat segÃ­tettÃ©l, de mÃ©g egy kicsit zavarnom kÃ©ne tÃ©ged.}
+{158}{}{A fÃ©rjem mostanÃ¡ban halt meg. HiÃ¡nyzik, Ã©s ez persze mÃ¡s problÃ©mÃ¡kat is okoz. Ennyi az egÃ©sz.}
+{159}{}{SajnÃ¡lom, hogy tÃ¶rtÃ©nt?}
+{160}{}{OppÃ¡. Kell menni, tÃ¶rzsf? hÃ­v.}
+{161}{}{SajnÃ¡lattal hallom. Hogy tÃ¶rtÃ©nt?}
+{162}{}{RÃ©szvÃ©tem. MÃ©g talÃ¡lkozunk.}
+{163}{}{Az Ã©let szar, az emberek meghalnak. F?leg ha a kÃ¶rnyÃ©ken vagyok.}
+{164}{}{MÃ¡r mesÃ©ltem a fosztogatÃ¡srÃ³l. Akkor esett meg.}
 {165}{}{My husband and I were traveling with a caravan on its way to the New California Republic. We
  wanted to start a new life for ourselves and our daughter, Sandy. Unfortunately, the caravan was
  attacked by raiders one night. They were incredibly brutal. They killed everyone: men, women, and
  children. Rand, my husband, died trying to defend Sandy and me. We were to die next when a miracle
  occurred. }
-{166}{}{Húú.. azta.}
-{167}{}{Örülök, hogy te meg kicsi lenni jól.}
-{168}{}{Én menni. Szia.}
-{169}{}{Ejha! Micsoda történet!}
-{170}{}{Ezt a fa... na, én mentem.}
-{171}{}{Hála az Égnek, hogy te és a kislányod biztonságban vagytok.}
-{172}{}{Jó napot! Hogy vagy?}
+{166}{}{HÃºÃº.. azta.}
+{167}{}{Ã–rÃ¼lÃ¶k, hogy te meg kicsi lenni jÃ³l.}
+{168}{}{Ã‰n menni. Szia.}
+{169}{}{Ejha! Micsoda tÃ¶rtÃ©net!}
+{170}{}{Ezt a fa... na, Ã©n mentem.}
+{171}{}{HÃ¡la az Ã‰gnek, hogy te Ã©s a kislÃ¡nyod biztonsÃ¡gban vagytok.}
+{172}{}{JÃ³ napot! Hogy vagy?}
 {173}{}{}
 {174}{}{}
-{175}{}{T?nj el, te szemét! Semmi dolgom nincs veled.}
-{176}{}{T?nés, kurva! Semmi dolgom nincs veled.}
-{177}{}{Viszlát!}
+{175}{}{T?nj el, te szemÃ©t! Semmi dolgom nincs veled.}
+{176}{}{T?nÃ©s, kurva! Semmi dolgom nincs veled.}
+{177}{}{ViszlÃ¡t!}
 {178}{}{ vagyok.}
-{179}{}{. Igen, új vagyok itt.}
-{180}{}{Sandyt magam mögé húztam, úgy próbáltam megvédeni attól a szörnyetegt?l, amelyik lel?tte Rand-et. A férjem holtteste mellett állt, és nevetett, ahogy a pisztolyt a fejemhez tartotta. Hirtelen egy hatalmas halálkarom jött el? a sötétb?l, hátulról megragadta, és... hát, jobb, hogy a kis Sandy nem látta, mit m?velt vele. Szóval, az itteni halálkarom-falka bánt el a fosztogatókkal. Az, amelyik személyesen mentett meg minket, odajött hozzánk és beszélni kezdett. Közölte, hogy most már mindben rendben van, és sajnálja, hogy nem érkeztek hamarabb. A halálkarmok ezután idehoztak minket.}
+{179}{}{. Igen, Ãºj vagyok itt.}
+{180}{}{Sandyt magam mÃ¶gÃ© hÃºztam, Ãºgy prÃ³bÃ¡ltam megvÃ©deni attÃ³l a szÃ¶rnyetegt?l, amelyik lel?tte Rand-et. A fÃ©rjem holtteste mellett Ã¡llt, Ã©s nevetett, ahogy a pisztolyt a fejemhez tartotta. Hirtelen egy hatalmas halÃ¡lkarom jÃ¶tt el? a sÃ¶tÃ©tb?l, hÃ¡tulrÃ³l megragadta, Ã©s... hÃ¡t, jobb, hogy a kis Sandy nem lÃ¡tta, mit m?velt vele. SzÃ³val, az itteni halÃ¡lkarom-falka bÃ¡nt el a fosztogatÃ³kkal. Az, amelyik szemÃ©lyesen mentett meg minket, odajÃ¶tt hozzÃ¡nk Ã©s beszÃ©lni kezdett. KÃ¶zÃ¶lte, hogy most mÃ¡r mindben rendben van, Ã©s sajnÃ¡lja, hogy nem Ã©rkeztek hamarabb. A halÃ¡lkarmok ezutÃ¡n idehoztak minket.}

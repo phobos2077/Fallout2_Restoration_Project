@@ -1,51 +1,51 @@
 {100}{}{You see a nomad shaman.}
 {101}{}{He appears to be a nomad shaman.}
-{102}{}{A gyógynövények er?s illata illik a fickó ruházatához.}
-{103}{}{Üdvözlégy, idegen! Én vagyok a törzs sámánja. Képzett vagyok a gyógyítás m?vészetében.}
-{104}{}{Helló...}
-{105}{}{Szükségem lenne némi gyógyításra.}
+{102}{}{A gyÃ³gynÃ¶vÃ©nyek er?s illata illik a fickÃ³ ruhÃ¡zatÃ¡hoz.}
+{103}{}{ÃœdvÃ¶zlÃ©gy, idegen! Ã‰n vagyok a tÃ¶rzs sÃ¡mÃ¡nja. KÃ©pzett vagyok a gyÃ³gyÃ­tÃ¡s m?vÃ©szetÃ©ben.}
+{104}{}{HellÃ³...}
+{105}{}{SzÃ¼ksÃ©gem lenne nÃ©mi gyÃ³gyÃ­tÃ¡sra.}
 {106}{}{Can you combine the Xander root and the Broc flower?}
-{107}{}{Viszlát!}
-{108}{}{Úga.}
-{109}{}{Maradj nyugodtan, hogy megvizsgálhassalak!}
-{110}{}{[Tovább]}
-{111}{}{Igen, van itt egy-két probléma.}
-{112}{}{Tudsz segíteni?}
-{113}{}{A megfelel? összegért a következ?kben tudok neked segíteni:}
-{114}{}{Távolítsd el a mérget a szervezetemb?l!}
-{115}{}{Kérlek, gyógyíts meg!}
-{116}{}{Lássuk, mit tudsz kezdeni azzal a bénult végtaggal!}
-{117}{}{Viszlát!}
-{118}{}{Meggyógyultál.}
-{119}{}{Meggyógyultál.}
-{120}{}{Meggyógyultál.}
-{121}{}{Szükségem lenne még a gyógyító tudásodra.}
-{122}{}{Köszönöm! Sokkal jobban érzem magam. Viszlát!}
-{123}{}{Az én tudásom is véges. Sajnos nem tudok rajtad többet segíteni.}
-{124}{}{[Tovább]}
-{125}{}{Nincs szükséged efféle gyógyításra!}
-{126}{}{[Tovább]}
-{127}{}{Áhh... Szóval ismered a két növény gyógyító erejét. Lássuk csak, az annyi lesz, mint}
-{128}{}{Kérlek, keverd össze a két növényt!}
-{129}{}{Talán majd kés?bb, viszlát!}
-{130}{}{[Figyeled, ahogyan óvatosan összemorzsolja és elkeveri a két növényt, majd átnyújtja neked a precízen kimért gyógyító por adagokat.]}
-{131}{}{Viszlát!}
-{132}{}{Úgy t?nik, kevés a pénzed. Akkor gyere vissza, ha kövérebb a pénztárcád!}
-{133}{}{[vége]}
-{134}{}{Nincs id?m ilyen lehetetlenségekre. Távozz!}
-{135}{}{[vége]}
-{136}{}{[Mérgezés]}
-{137}{}{[Sérülés]}
-{138}{}{[Sugárfert?zés]}
-{139}{}{[Törött végtag]}
-{140}{}{Méregtelenítés,}
-{141}{}{Törött testrész meggyógyítása,}
-{142}{}{A gyógyítás $}
+{107}{}{ViszlÃ¡t!}
+{108}{}{Ãšga.}
+{109}{}{Maradj nyugodtan, hogy megvizsgÃ¡lhassalak!}
+{110}{}{[TovÃ¡bb]}
+{111}{}{Igen, van itt egy-kÃ©t problÃ©ma.}
+{112}{}{Tudsz segÃ­teni?}
+{113}{}{A megfelel? Ã¶sszegÃ©rt a kÃ¶vetkez?kben tudok neked segÃ­teni:}
+{114}{}{TÃ¡volÃ­tsd el a mÃ©rget a szervezetemb?l!}
+{115}{}{KÃ©rlek, gyÃ³gyÃ­ts meg!}
+{116}{}{LÃ¡ssuk, mit tudsz kezdeni azzal a bÃ©nult vÃ©gtaggal!}
+{117}{}{ViszlÃ¡t!}
+{118}{}{MeggyÃ³gyultÃ¡l.}
+{119}{}{MeggyÃ³gyultÃ¡l.}
+{120}{}{MeggyÃ³gyultÃ¡l.}
+{121}{}{SzÃ¼ksÃ©gem lenne mÃ©g a gyÃ³gyÃ­tÃ³ tudÃ¡sodra.}
+{122}{}{KÃ¶szÃ¶nÃ¶m! Sokkal jobban Ã©rzem magam. ViszlÃ¡t!}
+{123}{}{Az Ã©n tudÃ¡som is vÃ©ges. Sajnos nem tudok rajtad tÃ¶bbet segÃ­teni.}
+{124}{}{[TovÃ¡bb]}
+{125}{}{Nincs szÃ¼ksÃ©ged effÃ©le gyÃ³gyÃ­tÃ¡sra!}
+{126}{}{[TovÃ¡bb]}
+{127}{}{Ãhh... SzÃ³val ismered a kÃ©t nÃ¶vÃ©ny gyÃ³gyÃ­tÃ³ erejÃ©t. LÃ¡ssuk csak, az annyi lesz, mint}
+{128}{}{KÃ©rlek, keverd Ã¶ssze a kÃ©t nÃ¶vÃ©nyt!}
+{129}{}{TalÃ¡n majd kÃ©s?bb, viszlÃ¡t!}
+{130}{}{[Figyeled, ahogyan Ã³vatosan Ã¶sszemorzsolja Ã©s elkeveri a kÃ©t nÃ¶vÃ©nyt, majd Ã¡tnyÃºjtja neked a precÃ­zen kimÃ©rt gyÃ³gyÃ­tÃ³ por adagokat.]}
+{131}{}{ViszlÃ¡t!}
+{132}{}{Ãšgy t?nik, kevÃ©s a pÃ©nzed. Akkor gyere vissza, ha kÃ¶vÃ©rebb a pÃ©nztÃ¡rcÃ¡d!}
+{133}{}{[vÃ©ge]}
+{134}{}{Nincs id?m ilyen lehetetlensÃ©gekre. TÃ¡vozz!}
+{135}{}{[vÃ©ge]}
+{136}{}{[MÃ©rgezÃ©s]}
+{137}{}{[SÃ©rÃ¼lÃ©s]}
+{138}{}{[SugÃ¡rfert?zÃ©s]}
+{139}{}{[TÃ¶rÃ¶tt vÃ©gtag]}
+{140}{}{MÃ©regtelenÃ­tÃ©s,}
+{141}{}{TÃ¶rÃ¶tt testrÃ©sz meggyÃ³gyÃ­tÃ¡sa,}
+{142}{}{A gyÃ³gyÃ­tÃ¡s $}
 {143}{}{Hitetlen!}
-{144}{}{Miért támadsz ránk?!}
-{145}{}{Az életem árán is megvédelmezem a törzset!}
-{146}{}{Hogy mered megsérteni a vendégszeretetünket?!}
+{144}{}{MiÃ©rt tÃ¡madsz rÃ¡nk?!}
+{145}{}{Az Ã©letem Ã¡rÃ¡n is megvÃ©delmezem a tÃ¶rzset!}
+{146}{}{Hogy mered megsÃ©rteni a vendÃ©gszeretetÃ¼nket?!}
 {147}{}{Hordd el magad!}
 {148}{}{Hagyj minket!}
-{149}{}{Mi békés törzs vagyunk.}
-{150}{}{ dollár, és összekombinálom neked ezt a kett?t.}
+{149}{}{Mi bÃ©kÃ©s tÃ¶rzs vagyunk.}
+{150}{}{ dollÃ¡r, Ã©s Ã¶sszekombinÃ¡lom neked ezt a kett?t.}

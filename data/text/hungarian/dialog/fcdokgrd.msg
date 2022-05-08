@@ -1,4 +1,4 @@
-{100}{}{Egy lazaöltözék? ?r. Unatkozik ugyan, de a figyelme nem lanyhul.}
+{100}{}{Egy lazaÃ¶ltÃ¶zÃ©k? ?r. Unatkozik ugyan, de a figyelme nem lanyhul.}
 {101}{}{You see a dock guard. He's unusually well armed.}
 {102}{}{You see the motorboat guard.}
 {150}{}{Hey! Step away from that!}
@@ -8,7 +8,7 @@
 {201}{}{It's you again. What is it that you want, lao wai?}
 {202}{}{What are you guarding?}
 {203}{}{I need to use the motorboat.}
-{204}{}{Semmit. Viszlát!}
+{204}{}{Semmit. ViszlÃ¡t!}
 {210}{}{Everything. Don't try anything funny.}
 {211}{}{Can't you be any more specific?}
 {220}{}{No. Now back away, outsider.}
@@ -31,11 +31,11 @@
 {261}{}{I don't really have anything better to do, so sure...}
 {262}{}{I'll come back later.}
 {270}{}{Just use the mooring post and slide down the rope to the boat. Don't take too long out there, though, I don't want to get into any trouble.}
-{271}{}{Fogom. Viszlát!}
+{271}{}{Fogom. ViszlÃ¡t!}
 {272}{}{Easy enough. Goodbye.}
 {280}{}{Ready to join the tech team?}
 {281}{}{Yes, I'm ready to go.}
-{282}{}{Nem, még nem.}
+{282}{}{Nem, mÃ©g nem.}
 {290}{}{Can't you see I'm busy here?}
 {300}{}{Me ride metal fishy-fish?}
 {310}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] You no ride

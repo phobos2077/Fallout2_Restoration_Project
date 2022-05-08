@@ -1,41 +1,41 @@
 {0}{}{Rafales}
 {1}{}{Fuite}
-{2}{}{Armes préf.}
+{2}{}{Armes prÃ©f.}
 {3}{}{Distance}
 {4}{}{Cible}
-{5}{}{Médicaments}
-{10}{}{Terminé}
+{5}{}{MÃ©dicaments}
+{10}{}{TerminÃ©}
 {11}{}{Annuler}
 {99}{}{Non applicable.}
 {100}{}{Toujours !}
 {101}{}{Peu importe si je me fais toucher.}
-{102}{}{Attention à ne pas me toucher.}
-{103}{}{Fais bien attention à ne pas me toucher.}
-{104}{}{Attention à ne surtout pas me toucher.}
-{200}{}{Si tu es un horrible lâche.}
+{102}{}{Attention Ã  ne pas me toucher.}
+{103}{}{Fais bien attention Ã  ne pas me toucher.}
+{104}{}{Attention Ã  ne surtout pas me toucher.}
+{200}{}{Si tu es un horrible lÃ¢che.}
 {201}{}{Si ton doigt te fait mal.}
 {202}{}{Si tu saignes un peu.}
 {203}{}{Si tu ne te sens pas bien.}
 {204}{}{Si tu as besoin d'un garrot.}
 {205}{}{Jamais !}
-{300}{}{Aucune préférence.}
+{300}{}{Aucune prÃ©fÃ©rence.}
 {301}{}{De Rixe.}
-{302}{}{De Rixe plutôt que longue portée.}
-{303}{}{Longue portée plutôt que de Rixe.}
-{304}{}{Longue portée.}
-{305}{}{Corps à corps.}
-{400}{}{Reste près de moi.}
+{302}{}{De Rixe plutÃ´t que longue portÃ©e.}
+{303}{}{Longue portÃ©e plutÃ´t que de Rixe.}
+{304}{}{Longue portÃ©e.}
+{305}{}{Corps Ã  corps.}
+{400}{}{Reste prÃ¨s de moi.}
 {401}{}{A l'attaque !}
-{402}{}{Canarde l'ennemi à distance.}
-{403}{}{Comme tu préfères.}
-{404}{}{Reste où tu es.}
+{402}{}{Canarde l'ennemi Ã  distance.}
+{403}{}{Comme tu prÃ©fÃ¨res.}
+{404}{}{Reste oÃ¹ tu es.}
 {500}{}{Mon attaquant.}
 {501}{}{Le plus fort.}
 {502}{}{Le plus faible.}
 {503}{}{Qui tu veux.}
 {504}{}{Le plus proche.}
 {600}{}{Je ne prends rien.}
-{601}{}{Utiliser un Stimpak dès que ça fait mal.}
-{602}{}{Utiliser un Stimpak quand ça fait très mal.}
+{601}{}{Utiliser un Stimpak dÃ¨s que Ã§a fait mal.}
+{602}{}{Utiliser un Stimpak quand Ã§a fait trÃ¨s mal.}
 {603}{}{Utiliser des stimulants de temps en temps.}
-{604}{}{Utiliser des stimulants régulièrement.}
+{604}{}{Utiliser des stimulants rÃ©guliÃ¨rement.}

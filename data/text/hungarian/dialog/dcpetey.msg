@@ -1,73 +1,73 @@
 {100}{}{You see a drug addict.}
 {101}{}{Petey.}
 {150}{}{This here is a poor drug addict.}
-{151}{}{Peteyre aztán ráférne egy kis segítség.}
-{152}{}{[beszéd]}
-{155}{}{[köhécsel] Nincs egy kis apród?}
-{156}{}{De van, tessék.}
-{157}{}{Ne lejmolj, hagyj békén!}
+{151}{}{Peteyre aztÃ¡n rÃ¡fÃ©rne egy kis segÃ­tsÃ©g.}
+{152}{}{[beszÃ©d]}
+{155}{}{[kÃ¶hÃ©csel] Nincs egy kis aprÃ³d?}
+{156}{}{De van, tessÃ©k.}
+{157}{}{Ne lejmolj, hagyj bÃ©kÃ©n!}
 {158}{}{Piti?}
-{159}{}{Rosszabb vagy, mint én. [köhög] Azért kösz.}
-{160}{}{Sajnálom, viszlát!}
-{161}{}{Szívesen, aha, persze.}
-{162}{}{Talán majd legközelebb... Kösz. [köhög]}
-{163}{}{[kész]}
-{164}{}{Köszönöm szépen. [köhög] Annyira, de annyira köszönöm!}
-{165}{}{Szóra sem érdemes.}
+{159}{}{Rosszabb vagy, mint Ã©n. [kÃ¶hÃ¶g] AzÃ©rt kÃ¶sz.}
+{160}{}{SajnÃ¡lom, viszlÃ¡t!}
+{161}{}{SzÃ­vesen, aha, persze.}
+{162}{}{TalÃ¡n majd legkÃ¶zelebb... KÃ¶sz. [kÃ¶hÃ¶g]}
+{163}{}{[kÃ©sz]}
+{164}{}{KÃ¶szÃ¶nÃ¶m szÃ©pen. [kÃ¶hÃ¶g] Annyira, de annyira kÃ¶szÃ¶nÃ¶m!}
+{165}{}{SzÃ³ra sem Ã©rdemes.}
 {166}{}{Persze, persze.}
-{167}{}{Uram, [köhög] segítene egy szegény, nyomorult emberen?}
+{167}{}{Uram, [kÃ¶hÃ¶g] segÃ­tene egy szegÃ©ny, nyomorult emberen?}
 {168}{}{Here's $5.}
 {169}{}{Ma nem.}
-{170}{}{Szerezz munkát magadnak!}
-{171}{}{Hölgyem, kérem segítsen [köhög] egy szegény, éhez? emberen, [köhög] aki túl beteg a munkavégzéshez.}
-{172}{}{Te szegény lélek, itt van 5 dollár.}
-{173}{}{Nem adok pénzt kunyerálóknak.}
+{170}{}{Szerezz munkÃ¡t magadnak!}
+{171}{}{HÃ¶lgyem, kÃ©rem segÃ­tsen [kÃ¶hÃ¶g] egy szegÃ©ny, Ã©hez? emberen, [kÃ¶hÃ¶g] aki tÃºl beteg a munkavÃ©gzÃ©shez.}
+{172}{}{Te szegÃ©ny lÃ©lek, itt van 5 dollÃ¡r.}
+{173}{}{Nem adok pÃ©nzt kunyerÃ¡lÃ³knak.}
 {174}{}{Nem.}
 {175}{}{Sorry, I don't have any money on me.}
-{200}{}{Hé, ember, adnál egy kis pénzt?}
-{201}{}{Némi aprót, uram?}
-{202}{}{Hé, ki tudnál segíteni néhány dolcsival?}
+{200}{}{HÃ©, ember, adnÃ¡l egy kis pÃ©nzt?}
+{201}{}{NÃ©mi aprÃ³t, uram?}
+{202}{}{HÃ©, ki tudnÃ¡l segÃ­teni nÃ©hÃ¡ny dolcsival?}
 {203}{}{Do you think you can help me out with coupla bucks?}
-{204}{}{Kölcsön tudnál adni némi pénzt?}
-{205}{}{Némi aprót, hölgyem?}
-{206}{}{Hölgyem, kisegítene egy kis pénzzel?}
-{220}{}{Kérem segítsen, uram!}
-{221}{}{Áá, ez fáj!}
-{222}{}{Segítség kell. Nagyon fáj!}
-{223}{}{Hölgyem, hívna segítséget?}
-{225}{}{Nagyon hálás vagyok.}
-{226}{}{Hé, mégis mit csinálsz?!}
-{230}{}{Olyan jól esik.}
+{204}{}{KÃ¶lcsÃ¶n tudnÃ¡l adni nÃ©mi pÃ©nzt?}
+{205}{}{NÃ©mi aprÃ³t, hÃ¶lgyem?}
+{206}{}{HÃ¶lgyem, kisegÃ­tene egy kis pÃ©nzzel?}
+{220}{}{KÃ©rem segÃ­tsen, uram!}
+{221}{}{ÃÃ¡, ez fÃ¡j!}
+{222}{}{SegÃ­tsÃ©g kell. Nagyon fÃ¡j!}
+{223}{}{HÃ¶lgyem, hÃ­vna segÃ­tsÃ©get?}
+{225}{}{Nagyon hÃ¡lÃ¡s vagyok.}
+{226}{}{HÃ©, mÃ©gis mit csinÃ¡lsz?!}
+{230}{}{Olyan jÃ³l esik.}
 {231}{}{Uhhh...}
-{232}{}{[kacarászik]}
-{233}{}{Hé...}
+{232}{}{[kacarÃ¡szik]}
+{233}{}{HÃ©...}
 {234}{}{Niiicceee...}
 {235}{}{Oh yeah...}
 {300}{}{I can't believe someone fucking killed Tubby...}
-{301}{}{Mi a fasz történt Tubbyval?}
+{301}{}{Mi a fasz tÃ¶rtÃ©nt Tubbyval?}
 {302}{}{Ah, why did Tubby have to die.}
-{303}{}{Áhhh...}
+{303}{}{Ãhhh...}
 {304}{}{Nem is kedveltem azt a seggfejet.}
 {305}{}{Flick's dead... Crap.}
-{306}{}{Mi történt Flick-kel?}
+{306}{}{Mi tÃ¶rtÃ©nt Flick-kel?}
 {307}{}{I miss Flick...}
 {310}{}{Hey Tubby, I..uhhh..need some help here.}
-{311}{}{HÉ, TUBBY!}
-{312}{}{Helló!}
-{313}{}{HÉ!}
+{311}{}{HÃ‰, TUBBY!}
+{312}{}{HellÃ³!}
+{313}{}{HÃ‰!}
 {314}{}{Hey Flick, I..uhhh..need some help here.}
-{315}{}{HÉ, FLICK!}
-{320}{}{Hé, Tubby, meg tudsz dobni egy kis cuccossal? Van pénzem.}
-{321}{}{Ööö, Tubby, van pénzem...}
+{315}{}{HÃ‰, FLICK!}
+{320}{}{HÃ©, Tubby, meg tudsz dobni egy kis cuccossal? Van pÃ©nzem.}
+{321}{}{Ã–Ã¶Ã¶, Tubby, van pÃ©nzem...}
 {322}{}{Uhhh...}
-{323}{}{Ember, kéne egy kis anyag...}
-{324}{}{Hé, Flick, tudsz adni nekem is? Van pénzem.}
-{325}{}{Ömm, Flick... Van némi pénz nálam.}
-{330}{}{Öhhh... Még egyszer kösz, Tubby.}
+{323}{}{Ember, kÃ©ne egy kis anyag...}
+{324}{}{HÃ©, Flick, tudsz adni nekem is? Van pÃ©nzem.}
+{325}{}{Ã–mm, Flick... Van nÃ©mi pÃ©nz nÃ¡lam.}
+{330}{}{Ã–hhh... MÃ©g egyszer kÃ¶sz, Tubby.}
 {331}{}{Haver vagy, Tubby.}
-{332}{}{Ígérem, hogy holnap véget vetek ennek.}
+{332}{}{ÃgÃ©rem, hogy holnap vÃ©get vetek ennek.}
 {333}{}{Haver vagy.}
-{334}{}{Uhhh... Még egyszer kösz, Flick.}
+{334}{}{Uhhh... MÃ©g egyszer kÃ¶sz, Flick.}
 {335}{}{Haver vagy, Flick.}
 {340}{}{Here. Now beat, you druggie.}
 {341}{}{Take it and get the hell out.}

@@ -1,16 +1,16 @@
-{100}{}{Widzisz drzwi zamkniête na siedem spustów.}
-{101}{}{Te drzwi s¹ zamkniête na elektromagnetyczny zamek. Mo¿e otwiera siê je gdzie indziej.}
-{105}{}{Udaje ci siê tymczasowo obejœæ pole elektryczne.}
+{100}{}{Widzisz drzwi zamkniÄ™te na siedem spustÃ³w.}
+{101}{}{Te drzwi sÄ… zamkniÄ™te na elektromagnetyczny zamek. MoÅ¼e otwiera siÄ™ je gdzie indziej.}
+{105}{}{Udaje ci siÄ™ tymczasowo obejÅ›Ä‡ pole elektryczne.}
 {106}{}{ obchodzi tymczasowo pole elektryczne.}
-{110}{}{Nie masz nawet co myœleæ o obejœciu pola elektrycznego.}
-{111}{}{ nie ma nawet co myœleæ o obejœciu pola elektrycznego.}
-{115}{}{Nie udaje ci siê obejœæ pola elektrycznego.}
-{116}{}{ nie jest w stanie obejœæ pola elektrycznego.}
+{110}{}{Nie masz nawet co myÅ›leÄ‡ o obejÅ›ciu pola elektrycznego.}
+{111}{}{ nie ma nawet co myÅ›leÄ‡ o obejÅ›ciu pola elektrycznego.}
+{115}{}{Nie udaje ci siÄ™ obejÅ›Ä‡ pola elektrycznego.}
+{116}{}{ nie jest w stanie obejÅ›Ä‡ pola elektrycznego.}
 {120}{}{Odkrywasz pole elektryczne.}
 {121}{}{ odkrywa pole elektryczne.}
-{125}{}{Nie jesteœ w stanie otworzyæ tych drzwi.}
-{126}{}{ nie jest w stanie otworzyæ tych drzwi.}
-{130}{}{Nie udaje ci siê otworzyæ tych drzwi.}
-{131}{}{ nie mo¿e otworzyæ tych drzwi.}
-{135}{}{Udaje ci siê otworzyæ drzwi.}
+{125}{}{Nie jesteÅ› w stanie otworzyÄ‡ tych drzwi.}
+{126}{}{ nie jest w stanie otworzyÄ‡ tych drzwi.}
+{130}{}{Nie udaje ci siÄ™ otworzyÄ‡ tych drzwi.}
+{131}{}{ nie moÅ¼e otworzyÄ‡ tych drzwi.}
+{135}{}{Udaje ci siÄ™ otworzyÄ‡ drzwi.}
 {136}{}{ otwiera drzwi.}

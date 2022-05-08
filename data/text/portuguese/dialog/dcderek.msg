@@ -1,63 +1,63 @@
-{100}{}{VocÍ vÍ um cidad„o do Den.}
-{101}{}{VocÍ vÍ Derek.}
-{150}{}{Ele parece bastante ·gil.}
-{200}{}{VencÍ-lo.}
+{100}{}{Voc√™ v√™ um cidad√£o do Den.}
+{101}{}{Voc√™ v√™ Derek.}
+{150}{}{Ele parece bastante √°gil.}
+{200}{}{Venc√™-lo.}
 {201}{}{Estou cansado demais para falar.}
 {202}{}{Sair do meu lugar.}
-{203}{}{Obtenha seu prÛprio lugar para dormir.}
+{203}{}{Obtenha seu pr√≥prio lugar para dormir.}
 {204}{}{Pare de me incomodar.}
 {205}{}{Estou cansado.}
 {206}{}{Doh!}
-{207}{}{Ei, o que vocÍ est· fazendo aqui?}
+{207}{}{Ei, o que voc√™ est√° fazendo aqui?}
 {220}{}{Fique longe de Metzger, tribal.}
-{221}{}{Por que sempre È t„o quente?}
+{221}{}{Por que sempre √© t√£o quente?}
 {222}{}{Porque vivemos no deserto?}
 {223}{}{Eu sou um bom cozinheiro.}
-{224}{}{Eu vou abrir meu prÛprio restaurante um dia.}
+{224}{}{Eu vou abrir meu pr√≥prio restaurante um dia.}
 {225}{}{Eu queria ter uma verdadeira cozinha.}
 {226}{}{Por que estou sempre tendo o fim da vida?}
-{227}{}{As pessoas est„o sempre gritando comigo.}
-{228}{}{Fred È um sonhador - plano mestre, meu cu.}
-{240}{}{Shhhh! Eles est„o em toda parte.}
-{241}{}{FaÁa-os parar!}
-{242}{}{Ent„o vocÍ achou esse maldito livro?}
-{243}{}{N„o sei por que Becky n„o vai me contratar.}
-{244}{}{Eu n„o vou enlouquecer!}
+{227}{}{As pessoas est√£o sempre gritando comigo.}
+{228}{}{Fred √© um sonhador - plano mestre, meu cu.}
+{240}{}{Shhhh! Eles est√£o em toda parte.}
+{241}{}{Fa√ßa-os parar!}
+{242}{}{Ent√£o voc√™ achou esse maldito livro?}
+{243}{}{N√£o sei por que Becky n√£o vai me contratar.}
+{244}{}{Eu n√£o vou enlouquecer!}
 {245}{}{Eu tenho meus aposentos!}
-{246}{}{Eles saem ‡ noite, principalmente.}
+{246}{}{Eles saem √† noite, principalmente.}
 {247}{}{Eu gosto de batatas!}
-{248}{}{N„o ande no material verde sem botas!}
-{249}{}{Basta ativ·-lo de dentro para fora.}
-{250}{}{Oh, minha cabeÁa dÛi muito ruim agora.}
+{248}{}{N√£o ande no material verde sem botas!}
+{249}{}{Basta ativ√°-lo de dentro para fora.}
+{250}{}{Oh, minha cabe√ßa d√≥i muito ruim agora.}
 {251}{}{Sou um grande cozinheiro chefe!}
 {252}{}{Eu nunca iria envenenar a comida de um novato.}
-{260}{}{Ei, vocÍ est· procurando um pouco de p„o recÈm-assado?}
+{260}{}{Ei, voc√™ est√° procurando um pouco de p√£o rec√©m-assado?}
 {261}{}{Sim.}
 {262}{}{Estou procurando o livro de Becky.}
-{263}{}{N„o, tchau.}
+{263}{}{N√£o, tchau.}
 {270}{}{Oh, oi novamente.}
-{271}{}{Ent„o, onde est· o livro de Becky?}
-{272}{}{Ei, que tal um pouco de p„o?}
+{271}{}{Ent√£o, onde est√° o livro de Becky?}
+{272}{}{Ei, que tal um pouco de p√£o?}
 {273}{}{Adeus.}
-{280}{}{Ha! Eu tambÈm. Eu j· lhe contei o que È uma Ûtima cozinheira que eu sou? Becky n„o vai me contratar por algum motivo. Ela diz que eu sou inst·vel.}
-{281}{}{Ela provavelmente est· certa.}
+{280}{}{Ha! Eu tamb√©m. Eu j√° lhe contei o que √© uma √≥tima cozinheira que eu sou? Becky n√£o vai me contratar por algum motivo. Ela diz que eu sou inst√°vel.}
+{281}{}{Ela provavelmente est√° certa.}
 {282}{}{Estou procurando o livro de Becky.}
-{283}{}{Isso È Ûtimo. Eu tenho hum... tenho que ir.}
-{290}{}{O que? VocÍ! Dane-se seu amigo! Eu n„o sou ... Ow! Porra.}
-{291}{}{O que? VocÍ! Que se dane senhora! Eu n„o sou... Ow! Foda-se.}
+{283}{}{Isso √© √≥timo. Eu tenho hum... tenho que ir.}
+{290}{}{O que? Voc√™! Dane-se seu amigo! Eu n√£o sou ... Ow! Porra.}
+{291}{}{O que? Voc√™! Que se dane senhora! Eu n√£o sou... Ow! Foda-se.}
 {292}{}{Porra.}
 {293}{}{Na Disse.}
-{300}{}{Oh sim. Eu n„o gostei disso. Muitos beijos. Eu joguei na esquina daquele edifÌcio ... n„o esse edifÌcio ... n„o ... era um prÈdio? Talvez eu tenha deixado isso em outro lugar ... ou eu joguei isso? Ow! Minha cabeÁa!}
-{301}{}{Livro? Ah, esse livro. Quem te enviou? N„o tenho certeza se esse È o lado apropriado. N„o esqueÁa o tecido.}
-{302}{}{Eu n„o posso! Eles s„o... oh merda... vocÍ tem o queijo? Esconder!}
-{303}{}{Hey! N„o È meu problema. O que eu deveria fazer? CombatÍ-los? Pequenos homens verdes, grandes dentes pontudos! Porra! Ouch! Pare com isso!}
-{304}{}{Minha cabeÁa dÛi! O que... quem disse isso?}
+{300}{}{Oh sim. Eu n√£o gostei disso. Muitos beijos. Eu joguei na esquina daquele edif√≠cio ... n√£o esse edif√≠cio ... n√£o ... era um pr√©dio? Talvez eu tenha deixado isso em outro lugar ... ou eu joguei isso? Ow! Minha cabe√ßa!}
+{301}{}{Livro? Ah, esse livro. Quem te enviou? N√£o tenho certeza se esse √© o lado apropriado. N√£o esque√ßa o tecido.}
+{302}{}{Eu n√£o posso! Eles s√£o... oh merda... voc√™ tem o queijo? Esconder!}
+{303}{}{Hey! N√£o √© meu problema. O que eu deveria fazer? Combat√™-los? Pequenos homens verdes, grandes dentes pontudos! Porra! Ouch! Pare com isso!}
+{304}{}{Minha cabe√ßa d√≥i! O que... quem disse isso?}
 {305}{}{Isso ajuda muito.}
 {306}{}{Uh.}
-{310}{}{O que? VocÍ est· zombando de mim! Que se dane! Eu n„o sou inst·vel! Eu posso cozinhar! Eu n„o tenho vozes na minha cabeÁa!}
+{310}{}{O que? Voc√™ est√° zombando de mim! Que se dane! Eu n√£o sou inst√°vel! Eu posso cozinhar! Eu n√£o tenho vozes na minha cabe√ßa!}
 {311}{}{Eu sou uma merda! Porra! Droga! Pare com isso. Fique quieto! O que? ... Ok.}
-{312}{}{Hey! Sto - n„o... foda-se.}
+{312}{}{Hey! Sto - n√£o... foda-se.}
 {313}{}{Adeus.}
 {314}{}{Nada.}
 {320}{}{Hey! Fique longe de mim!}
-{321}{}{N„o me toque!}
+{321}{}{N√£o me toque!}

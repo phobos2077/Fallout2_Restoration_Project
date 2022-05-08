@@ -1,36 +1,36 @@
-{100}{}{Ez a vakondpatkány szokatlanul nagyra n?tt.}
+{100}{}{Ez a vakondpatkÃ¡ny szokatlanul nagyra n?tt.}
 {101}{}{? az AGY.}
-{102}{}{Ez itt egy jókora, albínó vakondpatkány. Az agykoponyája rendesen megn?tt, és bizony szokatlanul intelligensnek látszik.}
-{110}{}{Sokan jönnek hozzám a fajtádból, de te mindegyiken túlteszel az ostobaságban. Most pedig meghalsz!}
-{120}{}{Nem tudom, hogy vet?dtél ide, de ugyanarra kéne távoznod is.}
-{121}{}{Nincs id?m az oktalanságaidra. Nagyratör? terveim vannak a világ elfoglalását illet?en. Ne is lássalak!}
-{122}{}{Ne zavarj! Nem akarom még egyszer mondani!}
-{123}{}{Na, jó! Zomak, öldd meg!}
+{102}{}{Ez itt egy jÃ³kora, albÃ­nÃ³ vakondpatkÃ¡ny. Az agykoponyÃ¡ja rendesen megn?tt, Ã©s bizony szokatlanul intelligensnek lÃ¡tszik.}
+{110}{}{Sokan jÃ¶nnek hozzÃ¡m a fajtÃ¡dbÃ³l, de te mindegyiken tÃºlteszel az ostobasÃ¡gban. Most pedig meghalsz!}
+{120}{}{Nem tudom, hogy vet?dtÃ©l ide, de ugyanarra kÃ©ne tÃ¡voznod is.}
+{121}{}{Nincs id?m az oktalansÃ¡gaidra. NagyratÃ¶r? terveim vannak a vilÃ¡g elfoglalÃ¡sÃ¡t illet?en. Ne is lÃ¡ssalak!}
+{122}{}{Ne zavarj! Nem akarom mÃ©g egyszer mondani!}
+{123}{}{Na, jÃ³! Zomak, Ã¶ldd meg!}
 {130}{}{Renewal is at hand. But it won't get any closer unless you get moving on repairing our Atomic
  Reactor. (to himself) Humans... they're so disappointing.}
-{131}{}{Javítsam meg az atomreaktort?}
-{132}{}{Ó, igen. Akkor már itt sem vagyok. Viszlát!}
-{140}{}{Kiszagoltam, hogy a talizmánjaink egyikét viseled, de nem emlékszem, hogy kaptál volna t?lünk egyet is.}
-{141}{}{Találtam.}
-{142}{}{Hát... valszeg kiesett a fejedb?l.}
-{143}{}{Ez csak az arcszeszem illata. Old Spájz -- jó illata van?}
-{144}{}{Megöltem az egyik talpnyalódat, és a még ki nem h?lt hullájáról egyszer?en magamhoz vettem.}
+{131}{}{JavÃ­tsam meg az atomreaktort?}
+{132}{}{Ã“, igen. Akkor mÃ¡r itt sem vagyok. ViszlÃ¡t!}
+{140}{}{Kiszagoltam, hogy a talizmÃ¡njaink egyikÃ©t viseled, de nem emlÃ©kszem, hogy kaptÃ¡l volna t?lÃ¼nk egyet is.}
+{141}{}{TalÃ¡ltam.}
+{142}{}{HÃ¡t... valszeg kiesett a fejedb?l.}
+{143}{}{Ez csak az arcszeszem illata. Old SpÃ¡jz -- jÃ³ illata van?}
+{144}{}{MegÃ¶ltem az egyik talpnyalÃ³dat, Ã©s a mÃ©g ki nem h?lt hullÃ¡jÃ¡rÃ³l egyszer?en magamhoz vettem.}
 {145}{}{I got it from a village near Vault City. The people there said your followers left these with them.}
-{150}{}{Készen állsz, hogy közénk tartozz?}
-{151}{}{Mi az hogy! Késznek születtem. Hol kell beiratkozni?}
-{152}{}{Úgy érted, hogy óriási patkány legyen bel?lem?}
-{153}{}{Nem akarok semmilyen formában olyan lenni, mint ti.}
-{154}{}{Most azt kérdezed magatól: kik is ezek valójában?}
+{150}{}{KÃ©szen Ã¡llsz, hogy kÃ¶zÃ©nk tartozz?}
+{151}{}{Mi az hogy! KÃ©sznek szÃ¼lettem. Hol kell beiratkozni?}
+{152}{}{Ãšgy Ã©rted, hogy Ã³riÃ¡si patkÃ¡ny legyen bel?lem?}
+{153}{}{Nem akarok semmilyen formÃ¡ban olyan lenni, mint ti.}
+{154}{}{Most azt kÃ©rdezed magatÃ³l: kik is ezek valÃ³jÃ¡ban?}
 {160}{}{In order to survive, both Gecko and Vault City will need to cooperate. Vault City needs the
  power from our Atomic Reactor in order to expand, and we need Vault City's medical technology. Unless
  we cooperate, both cities will stagnate. Vault City needs to help us to repair our power plant.}
-{161}{}{Mégis hogy akarjátok rávenni ?ket az együttm?ködésre?}
-{170}{}{A zsenialitásom elismeréseképp engem egyszer?en csak Agynak neveznek. Gekkóban nem sokminden kerüli el a figyelmemet.}
-{171}{}{De hát te csak egy jól megtermett patkány vagy!}
-{172}{}{Mintha mondtál volna valamit a hozzátok való csatlakozásról...}
-{180}{}{Nem érdekel, honnan szerezted. A fontos kérdés az, hogy akarsz-e közénk állni és szívvel-lélekkel viselni.}
-{181}{}{Közétek állni? Ezt hogy értsem?}
-{182}{}{Inkább a ketreceteket takarítanám mintsem, hogy közétek álljak.}
+{161}{}{MÃ©gis hogy akarjÃ¡tok rÃ¡venni ?ket az egyÃ¼ttm?kÃ¶dÃ©sre?}
+{170}{}{A zsenialitÃ¡som elismerÃ©sekÃ©pp engem egyszer?en csak Agynak neveznek. GekkÃ³ban nem sokminden kerÃ¼li el a figyelmemet.}
+{171}{}{De hÃ¡t te csak egy jÃ³l megtermett patkÃ¡ny vagy!}
+{172}{}{Mintha mondtÃ¡l volna valamit a hozzÃ¡tok valÃ³ csatlakozÃ¡srÃ³l...}
+{180}{}{Nem Ã©rdekel, honnan szerezted. A fontos kÃ©rdÃ©s az, hogy akarsz-e kÃ¶zÃ©nk Ã¡llni Ã©s szÃ­vvel-lÃ©lekkel viselni.}
+{181}{}{KÃ¶zÃ©tek Ã¡llni? Ezt hogy Ã©rtsem?}
+{182}{}{InkÃ¡bb a ketreceteket takarÃ­tanÃ¡m mintsem, hogy kÃ¶zÃ©tek Ã¡lljak.}
 {183}{}{That depends. Vault City's patrols keep getting attacked by molerats. I assume you're behind this?}
 {184}{}{Why of course I am. All part of my grand scheme to take over the world. I wouldn't expect your deficient human brain to understand. But alas, what concern is it of yours?}
 {185}{}{I just want your molerats to stop attacking Vault City's patrols.}
@@ -38,153 +38,153 @@
 {187}{}{Mit tegyek?}
 {188}{}{Look, we had a deal -- I repair the reactor, and you call off your creatures. I did my part of the bargain, now it's your turn.}
 {189}{}{The reactor is repaired, yes. But is it optimized? No, I'm afraid not. I said I'd call off my molerats when you *complete* the task. Getting it half-done isn't good enough.}
-{190}{}{Nos, világhódító terveim részeként szeretném ghoul barátaimat megjutalmazni. Vissza akarom nekik adni az emberi mivoltukat.}
-{191}{}{És ezt mégis hogy akarod véghezvinni?}
-{200}{}{Ha Gekkót és Menedékvárost a saját vezetésem alatt egyesítettem, kiadom majd parancsba a menedékvárosi kutatólaboratóriumoknak, hogy találják meg az embereimet ghoullá változtató sugárzás visszafordításának módját.}
-{201}{}{Ez ígéretesen hangzik.}
-{210}{}{Az Ankh az élet szimbóluma. Ha átadom neked e talizmánt, rögvest közénk tartozol. Bajtársaid sokkal szívesebben segítenek neked majd a Megújhodáshoz vezet? rögös úton. Vigyázz azonban, kinek mutatod meg.}
-{211}{}{Készen állsz, hogy elfogadd a Megújhodást és viseld az Ankh talizmánt?}
-{212}{}{Rendben, jöhet az a talizmán.}
-{213}{}{Eszembe nincs megújhodni. Úgy szeretem magam, ahogy vagyok. Tartsd meg a talizmánodat!}
-{214}{}{Megújhodás? Mit akar ez jelenteni?}
-{220}{}{A reaktorunk megsemmisítésével azok a Menedékvárosbeli barmok aláírták saját halálos ítéletüket.}
-{221}{}{Most kénytelen leszek más módot kieszelni, hogy átvegyem a világuralmat. Na, lódulj!}
-{222}{}{Elég volt az ügyetlenkedésedb?l! Zomak, nyírd ki ezt a tökkelütöttet!}
-{230}{}{A reaktor megjavítása jelent?s tett volt, de nem torpanhatunk meg ennél a pontnál. Gekkó és Menedékváros túlélése érdekében még egy lépésre van szükség.}
-{231}{}{Még egy lépés?}
-{232}{}{Hirtelenjében nem te lettél a mindenben illetékes polgár?}
+{190}{}{Nos, vilÃ¡ghÃ³dÃ­tÃ³ terveim rÃ©szekÃ©nt szeretnÃ©m ghoul barÃ¡taimat megjutalmazni. Vissza akarom nekik adni az emberi mivoltukat.}
+{191}{}{Ã‰s ezt mÃ©gis hogy akarod vÃ©ghezvinni?}
+{200}{}{Ha GekkÃ³t Ã©s MenedÃ©kvÃ¡rost a sajÃ¡t vezetÃ©sem alatt egyesÃ­tettem, kiadom majd parancsba a menedÃ©kvÃ¡rosi kutatÃ³laboratÃ³riumoknak, hogy talÃ¡ljÃ¡k meg az embereimet ghoullÃ¡ vÃ¡ltoztatÃ³ sugÃ¡rzÃ¡s visszafordÃ­tÃ¡sÃ¡nak mÃ³djÃ¡t.}
+{201}{}{Ez Ã­gÃ©retesen hangzik.}
+{210}{}{Az Ankh az Ã©let szimbÃ³luma. Ha Ã¡tadom neked e talizmÃ¡nt, rÃ¶gvest kÃ¶zÃ©nk tartozol. BajtÃ¡rsaid sokkal szÃ­vesebben segÃ­tenek neked majd a MegÃºjhodÃ¡shoz vezet? rÃ¶gÃ¶s Ãºton. VigyÃ¡zz azonban, kinek mutatod meg.}
+{211}{}{KÃ©szen Ã¡llsz, hogy elfogadd a MegÃºjhodÃ¡st Ã©s viseld az Ankh talizmÃ¡nt?}
+{212}{}{Rendben, jÃ¶het az a talizmÃ¡n.}
+{213}{}{Eszembe nincs megÃºjhodni. Ãšgy szeretem magam, ahogy vagyok. Tartsd meg a talizmÃ¡nodat!}
+{214}{}{MegÃºjhodÃ¡s? Mit akar ez jelenteni?}
+{220}{}{A reaktorunk megsemmisÃ­tÃ©sÃ©vel azok a MenedÃ©kvÃ¡rosbeli barmok alÃ¡Ã­rtÃ¡k sajÃ¡t halÃ¡los Ã­tÃ©letÃ¼ket.}
+{221}{}{Most kÃ©nytelen leszek mÃ¡s mÃ³dot kieszelni, hogy Ã¡tvegyem a vilÃ¡guralmat. Na, lÃ³dulj!}
+{222}{}{ElÃ©g volt az Ã¼gyetlenkedÃ©sedb?l! Zomak, nyÃ­rd ki ezt a tÃ¶kkelÃ¼tÃ¶ttet!}
+{230}{}{A reaktor megjavÃ­tÃ¡sa jelent?s tett volt, de nem torpanhatunk meg ennÃ©l a pontnÃ¡l. GekkÃ³ Ã©s MenedÃ©kvÃ¡ros tÃºlÃ©lÃ©se Ã©rdekÃ©ben mÃ©g egy lÃ©pÃ©sre van szÃ¼ksÃ©g.}
+{231}{}{MÃ©g egy lÃ©pÃ©s?}
+{232}{}{HirtelenjÃ©ben nem te lettÃ©l a mindenben illetÃ©kes polgÃ¡r?}
 {233}{}{I think I've heard more than enough. Goodbye.}
-{234}{}{Azt nem értem, hogy egy óriáspatkányt miért foglalkoztat ennyire ez a dolog?}
-{240}{}{Jó munkát végeztél. Menedékváros és Gekkó immár joggal örvendezhet. Most, hogy a reaktorunk teljes kapacitással m?ködik, a világuralmi terveim lassan beérnek. Most távozhatsz. Dolgom van.}
-{241}{}{Hát abban biztos lehetsz, hogy nem érted tettem. Volt szerencsém...}
-{242}{}{Nem kis tervek egy ilyen balettpatkánytól :). Na, légy jó.}
-{250}{}{Nos, a reaktor ugyan m?ködik, de korántsem teljes kapacitással. Be kéne vetnünk Menedékváros központi számítógépét, hogy diagnózist készítsünk a reaktorról.}
-{251}{}{Ah, szóval a központi számítógép... Biztos vagyok benne, hogy az ottaniakhoz hasonló nyílt gondolkodású emberek boldogan segítenének egy óriási, mutáns patkánynak és egy ghouloktól hemzseg? városnak.}
-{252}{}{Szerinted hogy lehetne ezt véghezvinni?}
-{260}{}{Illetékes polgár? Akár így is mondhatjuk. A világuralom megragadásához meg kell bizonyosodnom, hogy egyáltalán érdemes-e törnöm magam érte. Gekkó és Menedékváros segítségével er?s áramtermel? központot akarok létesíteni.}
-{261}{}{Egy patkány, mint a világ ura?}
-{270}{}{Nos, annak ellenére, hogy megvan a saját véleményed egy rágcsáló világuralmát illet?en, az általam kiötlött terv Gekkó és Menedékváros sokezer lakójának jelentene boldogulást. Lehet, hogy hidegen hagy a személyem és a törekvéseim, de az eredmény megéri a fáradságot.}
+{234}{}{Azt nem Ã©rtem, hogy egy Ã³riÃ¡spatkÃ¡nyt miÃ©rt foglalkoztat ennyire ez a dolog?}
+{240}{}{JÃ³ munkÃ¡t vÃ©geztÃ©l. MenedÃ©kvÃ¡ros Ã©s GekkÃ³ immÃ¡r joggal Ã¶rvendezhet. Most, hogy a reaktorunk teljes kapacitÃ¡ssal m?kÃ¶dik, a vilÃ¡guralmi terveim lassan beÃ©rnek. Most tÃ¡vozhatsz. Dolgom van.}
+{241}{}{HÃ¡t abban biztos lehetsz, hogy nem Ã©rted tettem. Volt szerencsÃ©m...}
+{242}{}{Nem kis tervek egy ilyen balettpatkÃ¡nytÃ³l :). Na, lÃ©gy jÃ³.}
+{250}{}{Nos, a reaktor ugyan m?kÃ¶dik, de korÃ¡ntsem teljes kapacitÃ¡ssal. Be kÃ©ne vetnÃ¼nk MenedÃ©kvÃ¡ros kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©pÃ©t, hogy diagnÃ³zist kÃ©szÃ­tsÃ¼nk a reaktorrÃ³l.}
+{251}{}{Ah, szÃ³val a kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©p... Biztos vagyok benne, hogy az ottaniakhoz hasonlÃ³ nyÃ­lt gondolkodÃ¡sÃº emberek boldogan segÃ­tenÃ©nek egy Ã³riÃ¡si, mutÃ¡ns patkÃ¡nynak Ã©s egy ghouloktÃ³l hemzseg? vÃ¡rosnak.}
+{252}{}{Szerinted hogy lehetne ezt vÃ©ghezvinni?}
+{260}{}{IlletÃ©kes polgÃ¡r? AkÃ¡r Ã­gy is mondhatjuk. A vilÃ¡guralom megragadÃ¡sÃ¡hoz meg kell bizonyosodnom, hogy egyÃ¡ltalÃ¡n Ã©rdemes-e tÃ¶rnÃ¶m magam Ã©rte. GekkÃ³ Ã©s MenedÃ©kvÃ¡ros segÃ­tsÃ©gÃ©vel er?s Ã¡ramtermel? kÃ¶zpontot akarok lÃ©tesÃ­teni.}
+{261}{}{Egy patkÃ¡ny, mint a vilÃ¡g ura?}
+{270}{}{Nos, annak ellenÃ©re, hogy megvan a sajÃ¡t vÃ©lemÃ©nyed egy rÃ¡gcsÃ¡lÃ³ vilÃ¡guralmÃ¡t illet?en, az Ã¡ltalam kiÃ¶tlÃ¶tt terv GekkÃ³ Ã©s MenedÃ©kvÃ¡ros sokezer lakÃ³jÃ¡nak jelentene boldogulÃ¡st. Lehet, hogy hidegen hagy a szemÃ©lyem Ã©s a tÃ¶rekvÃ©seim, de az eredmÃ©ny megÃ©ri a fÃ¡radsÃ¡got.}
 {271}{}{Why don't you tell me about this last step, and I'll think about helping.}
-{272}{}{A hideg kiráz a gondolatától, hogy bizonyos fokig már eddig is segítettem rajtad. Most jött el tehát az id?, hogy sürg?sen távozzak. Viszlát!}
+{272}{}{A hideg kirÃ¡z a gondolatÃ¡tÃ³l, hogy bizonyos fokig mÃ¡r eddig is segÃ­tettem rajtad. Most jÃ¶tt el tehÃ¡t az id?, hogy sÃ¼rg?sen tÃ¡vozzak. ViszlÃ¡t!}
 {280}{}{Well, they will let you if you can show them how much it benefits them. We have an economic
  report that proves that optimizing the Gecko atomic power plant will directly benefit Vault City. I'll
  let our comrades here in Gecko know of your mission.}
 {281}{}{They'll give you the Hydroelectric Magnetosphere Regulator if you can prove that doing so benefits Vault City. I have prepared
  an economic report that details just how much repairing our power plant benefits Vault City. I'll let
  our comrades here in Gecko know of your mission.}
-{282}{}{Ez remek, de ki az a személy Menedékvárosban, aki egyáltalán kezébe venné ezt a dokumentumot?}
+{282}{}{Ez remek, de ki az a szemÃ©ly MenedÃ©kvÃ¡rosban, aki egyÃ¡ltalÃ¡n kezÃ©be vennÃ© ezt a dokumentumot?}
 {283}{}{Why don't you talk to that old windbag, that stinking sack Festus, in the power plant and
  see if he can dredge some useful information out of his rotting skull. He may know of a means of optimzing the power plant.
  I'll let our comrades here in Gecko know of your mission.}
-{284}{}{Ez használható ötletnek t?nik. Kés?bb találkozunk.}
-{290}{}{Úgy vélem McClure az egyetlen menedékvárosi tanácstag, akinek elég esze van, hogy el?ítéletek nélkül dönthessen. ? biztosan segít majd megszerezni, amire szükséged van.}
-{291}{}{Nincs az az isten, hogy én a te futárod legyek!}
-{292}{}{Hát szerintem megér egy próbát. Hol juthatok a lemezhez?}
-{300}{}{Fel kell menned a felszínre egyenesen a roncstelepre. Keress egy Gordon nev? ghoult. Nála van az említett Gazdálkodási Adatlemez. A talizmán nálad lesz, tehát nem lehet kétsége afel?l, kinek adja.}
-{301}{}{Miféle talizmán?}
-{310}{}{Egészen biztos vagy benne, hogy a két város lakosságát lassú halálra akarod ítélni?}
-{311}{}{Lehet, hogy nem jó ötlet. Rendben, mondd meg, hogy jutok a lemezhez.}
-{312}{}{Inkább a lassú halál, minthogy egy patkány uralkodjon a világon. Na, én leléptem.}
-{320}{}{[szimatol] Hmmm, érzem rajtad a Sajtos Pufi összetéveszthetetlen illatát. Egészen véletlenül nincs nálad egy plusz adag? Sajnos a Sajtos Pufi a gyengém.}
-{321}{}{Hmm... nincs. Egy deka Sajtos Pufi sincs nálam.}
-{322}{}{Igazság szerint, akár adhatnék is egy kis Sajtos Pufit.}
-{330}{}{Most már közénk tartozol. Hamarosan átveszem a világuralmat és mindannyian beteljesültök a Megújhodásban.}
-{331}{}{Hogyne-hogyne. Nem kétlem.}
-{332}{}{Na, jó, ebb?l elég! Ezt nem bírom hallgatni. Valakinek nagyon a nyakadra kéne már lépni és ez a valaki... egész véletlenül én leszek.}
-{340}{}{Hát szerintem most jött el a pillanat, hogy nincs mit mondanunk egymásnak. Azt azonban tudnod kell, hogy hacsak nem állsz közénk, élve innen el nem mész.}
-{341}{}{Inkább meghalok, minthogy beálljak közétek.}
+{284}{}{Ez hasznÃ¡lhatÃ³ Ã¶tletnek t?nik. KÃ©s?bb talÃ¡lkozunk.}
+{290}{}{Ãšgy vÃ©lem McClure az egyetlen menedÃ©kvÃ¡rosi tanÃ¡cstag, akinek elÃ©g esze van, hogy el?Ã­tÃ©letek nÃ©lkÃ¼l dÃ¶nthessen. ? biztosan segÃ­t majd megszerezni, amire szÃ¼ksÃ©ged van.}
+{291}{}{Nincs az az isten, hogy Ã©n a te futÃ¡rod legyek!}
+{292}{}{HÃ¡t szerintem megÃ©r egy prÃ³bÃ¡t. Hol juthatok a lemezhez?}
+{300}{}{Fel kell menned a felszÃ­nre egyenesen a roncstelepre. Keress egy Gordon nev? ghoult. NÃ¡la van az emlÃ­tett GazdÃ¡lkodÃ¡si Adatlemez. A talizmÃ¡n nÃ¡lad lesz, tehÃ¡t nem lehet kÃ©tsÃ©ge afel?l, kinek adja.}
+{301}{}{MifÃ©le talizmÃ¡n?}
+{310}{}{EgÃ©szen biztos vagy benne, hogy a kÃ©t vÃ¡ros lakossÃ¡gÃ¡t lassÃº halÃ¡lra akarod Ã­tÃ©lni?}
+{311}{}{Lehet, hogy nem jÃ³ Ã¶tlet. Rendben, mondd meg, hogy jutok a lemezhez.}
+{312}{}{InkÃ¡bb a lassÃº halÃ¡l, minthogy egy patkÃ¡ny uralkodjon a vilÃ¡gon. Na, Ã©n lelÃ©ptem.}
+{320}{}{[szimatol] Hmmm, Ã©rzem rajtad a Sajtos Pufi Ã¶sszetÃ©veszthetetlen illatÃ¡t. EgÃ©szen vÃ©letlenÃ¼l nincs nÃ¡lad egy plusz adag? Sajnos a Sajtos Pufi a gyengÃ©m.}
+{321}{}{Hmm... nincs. Egy deka Sajtos Pufi sincs nÃ¡lam.}
+{322}{}{IgazsÃ¡g szerint, akÃ¡r adhatnÃ©k is egy kis Sajtos Pufit.}
+{330}{}{Most mÃ¡r kÃ¶zÃ©nk tartozol. Hamarosan Ã¡tveszem a vilÃ¡guralmat Ã©s mindannyian beteljesÃ¼ltÃ¶k a MegÃºjhodÃ¡sban.}
+{331}{}{Hogyne-hogyne. Nem kÃ©tlem.}
+{332}{}{Na, jÃ³, ebb?l elÃ©g! Ezt nem bÃ­rom hallgatni. Valakinek nagyon a nyakadra kÃ©ne mÃ¡r lÃ©pni Ã©s ez a valaki... egÃ©sz vÃ©letlenÃ¼l Ã©n leszek.}
+{340}{}{HÃ¡t szerintem most jÃ¶tt el a pillanat, hogy nincs mit mondanunk egymÃ¡snak. Azt azonban tudnod kell, hogy hacsak nem Ã¡llsz kÃ¶zÃ©nk, Ã©lve innen el nem mÃ©sz.}
+{341}{}{InkÃ¡bb meghalok, minthogy beÃ¡lljak kÃ¶zÃ©tek.}
 {342}{}{Hmm, maybe I've been hasty in my judgment.}
-{343}{}{Ne kíméld, Willard!}
-{350}{}{Idióta! Zomak, nyírd ki a behatolót!}
-{360}{}{Ti emberek hihetetlenül intoleránsak vagytok. Ha a fajtátok nem jeleskedett volna a világ elpusztításában, még ma is közönséges patkány lehetnék. Sugárzás híján most nem lennék ilyen.}
-{361}{}{Milyen? Meg lehet ezt pontosan határozni?}
-{370}{}{Most, hogy mindent elmagyaráztam, készen állsz, hogy közénk állj?}
-{371}{}{Nincs semmi kifogásom ellene.}
-{372}{}{Azt hiszem, meg vagyok gy?zve. Sikerült rábeszélned, hogy sürg?sen t?njek a fenébe ebb?l az ?rültekházából.}
+{343}{}{Ne kÃ­mÃ©ld, Willard!}
+{350}{}{IdiÃ³ta! Zomak, nyÃ­rd ki a behatolÃ³t!}
+{360}{}{Ti emberek hihetetlenÃ¼l intolerÃ¡nsak vagytok. Ha a fajtÃ¡tok nem jeleskedett volna a vilÃ¡g elpusztÃ­tÃ¡sÃ¡ban, mÃ©g ma is kÃ¶zÃ¶nsÃ©ges patkÃ¡ny lehetnÃ©k. SugÃ¡rzÃ¡s hÃ­jÃ¡n most nem lennÃ©k ilyen.}
+{361}{}{Milyen? Meg lehet ezt pontosan hatÃ¡rozni?}
+{370}{}{Most, hogy mindent elmagyarÃ¡ztam, kÃ©szen Ã¡llsz, hogy kÃ¶zÃ©nk Ã¡llj?}
+{371}{}{Nincs semmi kifogÃ¡som ellene.}
+{372}{}{Azt hiszem, meg vagyok gy?zve. SikerÃ¼lt rÃ¡beszÃ©lned, hogy sÃ¼rg?sen t?njek a fenÃ©be ebb?l az ?rÃ¼ltekhÃ¡zÃ¡bÃ³l.}
 {380}{}{I was just one of many normal rats in an advanced research lab. Then, one day, there were
  explosions. Our cages were broken open, and we were doused with some sort of fluid from a huge vat.}
-{381}{}{Utána?}
-{390}{}{Valahogy kijutottam. Miközben gyógyultam, észrevettem magamon a változást. Próbáltam kommunikálni az emberekkel, de azok egyt?l-egyig meg akartak ölni. Az emberek túlságosan er?szakosak ahhoz, hogy a saját vezetésük alatt túléljenek bármit... na de nem terelem másra a szót. Az els? lépés tehát, hogy meg kell javítani a reaktort.}
-{391}{}{Meg kell javítani a reaktort?}
+{381}{}{UtÃ¡na?}
+{390}{}{Valahogy kijutottam. MikÃ¶zben gyÃ³gyultam, Ã©szrevettem magamon a vÃ¡ltozÃ¡st. PrÃ³bÃ¡ltam kommunikÃ¡lni az emberekkel, de azok egyt?l-egyig meg akartak Ã¶lni. Az emberek tÃºlsÃ¡gosan er?szakosak ahhoz, hogy a sajÃ¡t vezetÃ©sÃ¼k alatt tÃºlÃ©ljenek bÃ¡rmit... na de nem terelem mÃ¡sra a szÃ³t. Az els? lÃ©pÃ©s tehÃ¡t, hogy meg kell javÃ­tani a reaktort.}
+{391}{}{Meg kell javÃ­tani a reaktort?}
 {400}{}{You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
  then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
  themselves in the long run, as well.}
-{401}{}{Mit kell azalatt érteni, hogy magukat is tönkreteszik?}
+{401}{}{Mit kell azalatt Ã©rteni, hogy magukat is tÃ¶nkreteszik?}
 {402}{}{Why would Vault City give me a part for the Gecko Atomic power plant?}
-{410}{}{Rá kell ébresztened ?ket, hogy ehhez bizony er?s érdekük f?z?dik. Az emberek könnyen manipulálhatók, ha a saját érdekükr?l van szó.}
-{411}{}{Nem hinném, hogy a menedékvárosi emberek csak úgy adnának nekem egy atomer?m?-tartozékot.}
-{420}{}{Ami viszont a jelent illeti, nincs egyéb dolgod?}
-{421}{}{Azt hiszem, jobb, ha most rögtön utánanézek ennek az er?m?-alkatrésznek. Kés?bb találkozunk.}
-{422}{}{Ebben nem lesz hiba. Egyik lábam itt, a másik ott.}
-{430}{}{Az orrom nem szokott megcsalni. Biztos vagyok benne, hogy van nálad Sajtos Pufi. Légyszíves adj bel?le. Kérlek.}
-{431}{}{Ha Sajtos Pufit szeretnél t?lem látni, kénytelen leszel a jéghideg, élettelen ujjaim közül kicsavarni.}
-{432}{}{Na, nézzenek oda! Csak nem Sajtos Pufit találtam a zsebemben?! Mitszó'sz?}
-{440}{}{[rágcsál, majszol] Mmmm, imádom a Sajtos Pufit, annyira... hogyismondjamcsak... sajtos... Ezért cserébe felajánlom, hogy különleges szektám tagja lehess, és ezzel együtt segíthetsz a világuralom megszerzésében.}
-{441}{}{[rágcsál, majszol egyfolytában] Mmmm, imádom a Sajtos Pufit, annyira... hogyismondjamcsak... sajtos... bölcs voltam, hogy hagytalak csatlakozni hozzánk. Most épp nincs semmi dolgod?}
-{442}{}{[rágcsál, majszol] Mmmm, imádom a Sajtos Pufit, annyira... hogyismondjamcsak... sajtos...}
-{443}{}{[rágcsál, majszol] Mmmm, imádom a Sajtos Pufit, annyira... hogyismondjamcsak... sajtos...}
-{444}{}{Öö...}
-{450}{}{Akkor legyen hát! Zomak! Öld meg ezt a szerencsétlent! Vigyázz, nehogy kárt tegyél a Sajtos Pufiban!}
-{460}{}{A Reaktor Adatlemezt be kéne helyezned a Menedékváros központi számítógépébe. Két megoldás létezik. Vagy beosonsz, és titkon tevékenykedsz, vagy felkeresed McClure-t a Gazdálkodási Adatlemezzel.}
-{461}{}{Gazdálkodási Adatlemezt említettél?}
+{410}{}{RÃ¡ kell Ã©bresztened ?ket, hogy ehhez bizony er?s Ã©rdekÃ¼k f?z?dik. Az emberek kÃ¶nnyen manipulÃ¡lhatÃ³k, ha a sajÃ¡t Ã©rdekÃ¼kr?l van szÃ³.}
+{411}{}{Nem hinnÃ©m, hogy a menedÃ©kvÃ¡rosi emberek csak Ãºgy adnÃ¡nak nekem egy atomer?m?-tartozÃ©kot.}
+{420}{}{Ami viszont a jelent illeti, nincs egyÃ©b dolgod?}
+{421}{}{Azt hiszem, jobb, ha most rÃ¶gtÃ¶n utÃ¡nanÃ©zek ennek az er?m?-alkatrÃ©sznek. KÃ©s?bb talÃ¡lkozunk.}
+{422}{}{Ebben nem lesz hiba. Egyik lÃ¡bam itt, a mÃ¡sik ott.}
+{430}{}{Az orrom nem szokott megcsalni. Biztos vagyok benne, hogy van nÃ¡lad Sajtos Pufi. LÃ©gyszÃ­ves adj bel?le. KÃ©rlek.}
+{431}{}{Ha Sajtos Pufit szeretnÃ©l t?lem lÃ¡tni, kÃ©nytelen leszel a jÃ©ghideg, Ã©lettelen ujjaim kÃ¶zÃ¼l kicsavarni.}
+{432}{}{Na, nÃ©zzenek oda! Csak nem Sajtos Pufit talÃ¡ltam a zsebemben?! MitszÃ³'sz?}
+{440}{}{[rÃ¡gcsÃ¡l, majszol] Mmmm, imÃ¡dom a Sajtos Pufit, annyira... hogyismondjamcsak... sajtos... EzÃ©rt cserÃ©be felajÃ¡nlom, hogy kÃ¼lÃ¶nleges szektÃ¡m tagja lehess, Ã©s ezzel egyÃ¼tt segÃ­thetsz a vilÃ¡guralom megszerzÃ©sÃ©ben.}
+{441}{}{[rÃ¡gcsÃ¡l, majszol egyfolytÃ¡ban] Mmmm, imÃ¡dom a Sajtos Pufit, annyira... hogyismondjamcsak... sajtos... bÃ¶lcs voltam, hogy hagytalak csatlakozni hozzÃ¡nk. Most Ã©pp nincs semmi dolgod?}
+{442}{}{[rÃ¡gcsÃ¡l, majszol] Mmmm, imÃ¡dom a Sajtos Pufit, annyira... hogyismondjamcsak... sajtos...}
+{443}{}{[rÃ¡gcsÃ¡l, majszol] Mmmm, imÃ¡dom a Sajtos Pufit, annyira... hogyismondjamcsak... sajtos...}
+{444}{}{Ã–Ã¶...}
+{450}{}{Akkor legyen hÃ¡t! Zomak! Ã–ld meg ezt a szerencsÃ©tlent! VigyÃ¡zz, nehogy kÃ¡rt tegyÃ©l a Sajtos Pufiban!}
+{460}{}{A Reaktor Adatlemezt be kÃ©ne helyezned a MenedÃ©kvÃ¡ros kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©pÃ©be. KÃ©t megoldÃ¡s lÃ©tezik. Vagy beosonsz, Ã©s titkon tevÃ©kenykedsz, vagy felkeresed McClure-t a GazdÃ¡lkodÃ¡si Adatlemezzel.}
+{461}{}{GazdÃ¡lkodÃ¡si Adatlemezt emlÃ­tettÃ©l?}
 {462}{}{Rendben.}
-{463}{}{Csak vidd el Festus számára az Analizált Reaktoradatokat, amit majd a reaktor hatékony m?ködése érdekében betáplál a számítógépbe.}
-{464}{}{Ha nálad van a hidroelektromos magnetoszféra szabályzó, hozd el nekünk a reaktorba. Ott megpróbálhatod meggy?zni azt a vén majom Festust, hogy cserélje ki az alkatrészt. A munkára a javítórobotot is használhatod, s?t sajátmagad is elvégezheted a m?veletet. A lényeg, hogy valaki megcsinálja, és akkor már egyenesben vagyunk.}
-{465}{}{Menedékvárosban hogy jutok hozzá az alkatrészhez?}
-{466}{}{Á, értem! Kösz az információért. Majd jövök...}
+{463}{}{Csak vidd el Festus szÃ¡mÃ¡ra az AnalizÃ¡lt Reaktoradatokat, amit majd a reaktor hatÃ©kony m?kÃ¶dÃ©se Ã©rdekÃ©ben betÃ¡plÃ¡l a szÃ¡mÃ­tÃ³gÃ©pbe.}
+{464}{}{Ha nÃ¡lad van a hidroelektromos magnetoszfÃ©ra szabÃ¡lyzÃ³, hozd el nekÃ¼nk a reaktorba. Ott megprÃ³bÃ¡lhatod meggy?zni azt a vÃ©n majom Festust, hogy cserÃ©lje ki az alkatrÃ©szt. A munkÃ¡ra a javÃ­tÃ³robotot is hasznÃ¡lhatod, s?t sajÃ¡tmagad is elvÃ©gezheted a m?veletet. A lÃ©nyeg, hogy valaki megcsinÃ¡lja, Ã©s akkor mÃ¡r egyenesben vagyunk.}
+{465}{}{MenedÃ©kvÃ¡rosban hogy jutok hozzÃ¡ az alkatrÃ©szhez?}
+{466}{}{Ã, Ã©rtem! KÃ¶sz az informÃ¡ciÃ³Ã©rt. Majd jÃ¶vÃ¶k...}
 {467}{}{Festus is the geezer that runs the atomic power plant. He's old, crotchety, and cantankerous, but
  he does actually know something about running the plant. His offices are over on the far southeast part
  the plant. Bring the data disk to him and he'll know how to use it.}
-{468}{}{Megértettem, rendben. Köszönöm és legyen jó napod.}
-{500}{}{[magában elmélkedik] Annyi mindent megértem már. Nem olyan id?k járnak, mint régen [sóhajt]. Sajnos az egész fajtám kipusztult már. Veszettül szívós fajta voltam, de bárcsak ne lettem volna. Reméltem, hogy még a szenilitásom ellenére is megtalálom a magam boldogságát [hozzád] Na, jó, elég a sajnálkozásból!}
-{501}{}{Ööö, oké.}
-{504}{}{A hidroelektromos magnetoszféra szabályzó az az alkatrész, amit meg kell szerezned Menedékvárosból. Ha megvan, hozd el nekünk és tedd lehet?vé, hogy a helyére kerüljön.}
-{505}{}{Tegyem lehet?vé, hogy a helyére kerüljön? De mégis hogy?}
-{506}{}{Rendben, kösz!}
-{510}{}{A reaktor optimalizációs adatai felkerültek a lemezre, amit a menedékvárosi központi számítógépnél szereztél. Most már nincs más dolgod, mint elvinni Festusnak, a vén ripacsnak. Ha valamely rejtélyes oknál fogva nem lennél képes Festusszal beszélni, akár magad is használhatnád a reaktor robotvezérl? terminálján.}
+{468}{}{MegÃ©rtettem, rendben. KÃ¶szÃ¶nÃ¶m Ã©s legyen jÃ³ napod.}
+{500}{}{[magÃ¡ban elmÃ©lkedik] Annyi mindent megÃ©rtem mÃ¡r. Nem olyan id?k jÃ¡rnak, mint rÃ©gen [sÃ³hajt]. Sajnos az egÃ©sz fajtÃ¡m kipusztult mÃ¡r. VeszettÃ¼l szÃ­vÃ³s fajta voltam, de bÃ¡rcsak ne lettem volna. RemÃ©ltem, hogy mÃ©g a szenilitÃ¡som ellenÃ©re is megtalÃ¡lom a magam boldogsÃ¡gÃ¡t [hozzÃ¡d] Na, jÃ³, elÃ©g a sajnÃ¡lkozÃ¡sbÃ³l!}
+{501}{}{Ã–Ã¶Ã¶, okÃ©.}
+{504}{}{A hidroelektromos magnetoszfÃ©ra szabÃ¡lyzÃ³ az az alkatrÃ©sz, amit meg kell szerezned MenedÃ©kvÃ¡rosbÃ³l. Ha megvan, hozd el nekÃ¼nk Ã©s tedd lehet?vÃ©, hogy a helyÃ©re kerÃ¼ljÃ¶n.}
+{505}{}{Tegyem lehet?vÃ©, hogy a helyÃ©re kerÃ¼ljÃ¶n? De mÃ©gis hogy?}
+{506}{}{Rendben, kÃ¶sz!}
+{510}{}{A reaktor optimalizÃ¡ciÃ³s adatai felkerÃ¼ltek a lemezre, amit a menedÃ©kvÃ¡rosi kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©pnÃ©l szereztÃ©l. Most mÃ¡r nincs mÃ¡s dolgod, mint elvinni Festusnak, a vÃ©n ripacsnak. Ha valamely rejtÃ©lyes oknÃ¡l fogva nem lennÃ©l kÃ©pes Festusszal beszÃ©lni, akÃ¡r magad is hasznÃ¡lhatnÃ¡d a reaktor robotvezÃ©rl? terminÃ¡ljÃ¡n.}
 {511}{}{Festus? ? kicsoda?}
-{512}{}{Ó, értem. Köszönöm. Viszlát!}
-{600}{}{A Megújhodás küszöbén állunk, de amíg nem sikerül megjavítanod az atomreaktort, csak egyhelyben toporgunk. [magának] Ezek az emberek... annyira kiábrándítóak...}
-{601}{}{A Megújhodás már kézzelfogható, de nem tudunk továbblépni, amíg a Reaktor Adatlemezt nem használod a Menedékváros központi számítógépén. Alapvet?en hajlamos lennék feltételezni, hogy ez nem haladja meg egy emberi lény felfogó képességét.}
-{602}{}{Nagyon közel jársz már ahhoz, hogy kezünkbe helyezd a Megújhodás kulcsát. El?rébb tartanánk, ha az analizált Reaktor Adatlemezt odaadnád Festusnak.}
-{603}{}{Nyilván emlékszel, hogy Menedékvárosból meg kell szerezned a hidroelektromos magnetoszféra szabályzót, hogy behelyezhessük az atomreaktorunk rendszerébe. Néha az az érzésem, a Megújhodás az életben el nem jön, amíg emberekt?l függünk.}
-{604}{}{Mi ez a reaktorjavítás? Fejtsd már ki b?vebben!}
-{605}{}{Mit csináljak ezzel a Reaktor Adatlemezzel? Elmondanád?}
+{512}{}{Ã“, Ã©rtem. KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{600}{}{A MegÃºjhodÃ¡s kÃ¼szÃ¶bÃ©n Ã¡llunk, de amÃ­g nem sikerÃ¼l megjavÃ­tanod az atomreaktort, csak egyhelyben toporgunk. [magÃ¡nak] Ezek az emberek... annyira kiÃ¡brÃ¡ndÃ­tÃ³ak...}
+{601}{}{A MegÃºjhodÃ¡s mÃ¡r kÃ©zzelfoghatÃ³, de nem tudunk tovÃ¡bblÃ©pni, amÃ­g a Reaktor Adatlemezt nem hasznÃ¡lod a MenedÃ©kvÃ¡ros kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©pÃ©n. Alapvet?en hajlamos lennÃ©k feltÃ©telezni, hogy ez nem haladja meg egy emberi lÃ©ny felfogÃ³ kÃ©pessÃ©gÃ©t.}
+{602}{}{Nagyon kÃ¶zel jÃ¡rsz mÃ¡r ahhoz, hogy kezÃ¼nkbe helyezd a MegÃºjhodÃ¡s kulcsÃ¡t. El?rÃ©bb tartanÃ¡nk, ha az analizÃ¡lt Reaktor Adatlemezt odaadnÃ¡d Festusnak.}
+{603}{}{NyilvÃ¡n emlÃ©kszel, hogy MenedÃ©kvÃ¡rosbÃ³l meg kell szerezned a hidroelektromos magnetoszfÃ©ra szabÃ¡lyzÃ³t, hogy behelyezhessÃ¼k az atomreaktorunk rendszerÃ©be. NÃ©ha az az Ã©rzÃ©sem, a MegÃºjhodÃ¡s az Ã©letben el nem jÃ¶n, amÃ­g emberekt?l fÃ¼ggÃ¼nk.}
+{604}{}{Mi ez a reaktorjavÃ­tÃ¡s? Fejtsd mÃ¡r ki b?vebben!}
+{605}{}{Mit csinÃ¡ljak ezzel a Reaktor Adatlemezzel? ElmondanÃ¡d?}
 {606}{}{Adjam oda Festusnak?}
 {607}{}{Egy hidro-miaszar???}
 {608}{}{Hogy is van ez a reaktor dolog?}
 {609}{}{Kinek kell odaadnom?}
-{610}{}{Ó, igen. Akkor már itt sem vagyok. Viszlát!}
+{610}{}{Ã“, igen. Akkor mÃ¡r itt sem vagyok. ViszlÃ¡t!}
 {611}{}{You need to get that Hydroelectric Magnetosphere Regulator installed before the plant is operational again.}
-{620}{}{A zsenialitásom elismeréseképp engem egyszer?en csak Agynak neveznek. Gekkóban nem sokminden kerüli el a figyelmemet.}
-{621}{}{De hát te csak egy jól megtermett patkány vagy!}
-{622}{}{Mintha mondtál volna valamit a hozzátok való csatlakozásról...}
-{630}{}{Az általam kiötlött terv Gekkó és Menedékváros sokezer lakójának jelentene boldogulást. Lehet, hogy hidegen hagy a személyem és a törekvéseim, de az eredmény megéri a fáradságot.}
-{631}{}{Most, hogy megvan a Reaktor Adatlemez, használnod kéne.}
-{632}{}{Birtokodban van az analizált Reaktor Adatlemez, most már csak használni kellene.}
-{633}{}{Az atomreaktorunkból hiányzik egy f?darab, nélküle nem tudjuk hatékonyan használni.}
-{634}{}{Megszerezted az adatokat, melyek alapján optimalizálhatjuk az atomreaktort. Most már nincs más dolgod, mint odaadni Festusnak.}
-{635}{}{Miért nem nyögöd ki, miben töröd a fejed?}
-{636}{}{Mit csináljak ezzel a Reaktor Adatlemezzel? Világosíts fel!}
-{637}{}{Nyilván, ezt én magam is kitaláltam, de mi kell ehhez?}
-{638}{}{Alkatrész? Miféle alkatrész?}
-{639}{}{Áruld el, mi a teend? az utolsó lépés érdekében, és megfontolom, mit tehetek.}
+{620}{}{A zsenialitÃ¡som elismerÃ©sekÃ©pp engem egyszer?en csak Agynak neveznek. GekkÃ³ban nem sokminden kerÃ¼li el a figyelmemet.}
+{621}{}{De hÃ¡t te csak egy jÃ³l megtermett patkÃ¡ny vagy!}
+{622}{}{Mintha mondtÃ¡l volna valamit a hozzÃ¡tok valÃ³ csatlakozÃ¡srÃ³l...}
+{630}{}{Az Ã¡ltalam kiÃ¶tlÃ¶tt terv GekkÃ³ Ã©s MenedÃ©kvÃ¡ros sokezer lakÃ³jÃ¡nak jelentene boldogulÃ¡st. Lehet, hogy hidegen hagy a szemÃ©lyem Ã©s a tÃ¶rekvÃ©seim, de az eredmÃ©ny megÃ©ri a fÃ¡radsÃ¡got.}
+{631}{}{Most, hogy megvan a Reaktor Adatlemez, hasznÃ¡lnod kÃ©ne.}
+{632}{}{Birtokodban van az analizÃ¡lt Reaktor Adatlemez, most mÃ¡r csak hasznÃ¡lni kellene.}
+{633}{}{Az atomreaktorunkbÃ³l hiÃ¡nyzik egy f?darab, nÃ©lkÃ¼le nem tudjuk hatÃ©konyan hasznÃ¡lni.}
+{634}{}{Megszerezted az adatokat, melyek alapjÃ¡n optimalizÃ¡lhatjuk az atomreaktort. Most mÃ¡r nincs mÃ¡s dolgod, mint odaadni Festusnak.}
+{635}{}{MiÃ©rt nem nyÃ¶gÃ¶d ki, miben tÃ¶rÃ¶d a fejed?}
+{636}{}{Mit csinÃ¡ljak ezzel a Reaktor Adatlemezzel? VilÃ¡gosÃ­ts fel!}
+{637}{}{NyilvÃ¡n, ezt Ã©n magam is kitalÃ¡ltam, de mi kell ehhez?}
+{638}{}{AlkatrÃ©sz? MifÃ©le alkatrÃ©sz?}
+{639}{}{Ãruld el, mi a teend? az utolsÃ³ lÃ©pÃ©s Ã©rdekÃ©ben, Ã©s megfontolom, mit tehetek.}
 {640}{}{Kinek kell odaadnom?}
-{641}{}{Még egy lépés?}
-{650}{}{Nos, annak ellenére, hogy megvan a saját véleményed egy rágcsáló világuralmát illet?en, az általam kiötlött terv Gekkó és Menedékváros sokezer lakójának jelentene boldogulást. Lehet, hogy hidegen hagy a személyem és a törekvéseim, de az eredmény páratlan módon megéri a fáradságot.}
-{651}{}{Most, hogy megvan a Reaktor Adatlemez, használnod kéne.}
-{652}{}{Birtokodban van az analizált Reaktor Adatlemez, most már csak használni kellene.}
-{653}{}{Az atomreaktorunkból hiányzik egy f?darab, nélküle nem tudjuk hatékonyan használni.}
-{654}{}{Miért nem mondod el, miben töröd az agyad?}
-{655}{}{Mit csináljak ezzel a Reaktor Adatlemezzel? Világosíts fel!}
-{656}{}{Nyilván, ezt én magam is kitaláltam, de mi kell ehhez?}
-{657}{}{Úgymint?}
-{658}{}{Alkatrész? Miféle alkatrész?}
-{659}{}{Áruld el, mi a teend? az utolsó lépés érdekében, és megfontolom, mit tehetek.}
-{670}{}{A reaktor még mindig a reaktor [sóhajt]. Gyere vissza, ha jutottál vele valamire.}
-{671}{}{Gyere vissza kés?bb, épp egy fels?bb hatalommal diskurálok a francba!}
+{641}{}{MÃ©g egy lÃ©pÃ©s?}
+{650}{}{Nos, annak ellenÃ©re, hogy megvan a sajÃ¡t vÃ©lemÃ©nyed egy rÃ¡gcsÃ¡lÃ³ vilÃ¡guralmÃ¡t illet?en, az Ã¡ltalam kiÃ¶tlÃ¶tt terv GekkÃ³ Ã©s MenedÃ©kvÃ¡ros sokezer lakÃ³jÃ¡nak jelentene boldogulÃ¡st. Lehet, hogy hidegen hagy a szemÃ©lyem Ã©s a tÃ¶rekvÃ©seim, de az eredmÃ©ny pÃ¡ratlan mÃ³don megÃ©ri a fÃ¡radsÃ¡got.}
+{651}{}{Most, hogy megvan a Reaktor Adatlemez, hasznÃ¡lnod kÃ©ne.}
+{652}{}{Birtokodban van az analizÃ¡lt Reaktor Adatlemez, most mÃ¡r csak hasznÃ¡lni kellene.}
+{653}{}{Az atomreaktorunkbÃ³l hiÃ¡nyzik egy f?darab, nÃ©lkÃ¼le nem tudjuk hatÃ©konyan hasznÃ¡lni.}
+{654}{}{MiÃ©rt nem mondod el, miben tÃ¶rÃ¶d az agyad?}
+{655}{}{Mit csinÃ¡ljak ezzel a Reaktor Adatlemezzel? VilÃ¡gosÃ­ts fel!}
+{656}{}{NyilvÃ¡n, ezt Ã©n magam is kitalÃ¡ltam, de mi kell ehhez?}
+{657}{}{Ãšgymint?}
+{658}{}{AlkatrÃ©sz? MifÃ©le alkatrÃ©sz?}
+{659}{}{Ãruld el, mi a teend? az utolsÃ³ lÃ©pÃ©s Ã©rdekÃ©ben, Ã©s megfontolom, mit tehetek.}
+{670}{}{A reaktor mÃ©g mindig a reaktor [sÃ³hajt]. Gyere vissza, ha jutottÃ¡l vele valamire.}
+{671}{}{Gyere vissza kÃ©s?bb, Ã©pp egy fels?bb hatalommal diskurÃ¡lok a francba!}
 {672}{}{Look, if you don't call off the attacks, the people in the village could end up enslaved by Vault City.}
-{700}{}{Nincs több mondanivalóm a számodra.}
+{700}{}{Nincs tÃ¶bb mondanivalÃ³m a szÃ¡modra.}
 {701}{}{Alright you ugly son-of-a-bitch, now I've got a new deal for you: Either you call off your rodents, or I swear to you I'll blow the damn reactor!}
 {702}{}{All right, all right... Consider it done. Just, don't touch the reactor. (mumbles) Damn psychotic humans...}
 {703}{}{Now that we're in agreement, what were you saying about the optimization?}
@@ -201,7 +201,7 @@
 {714}{}{Thank you! What were you saying about the optimization?}
 {715}{}{Thank you! Bye.}
 {716}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.}
-{717}{}{Elvállalom.}
+{717}{}{ElvÃ¡llalom.}
 {718}{}{Umm... yeah, maybe later.}
 {719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
 {720}{}{Very well, I shall help you.}

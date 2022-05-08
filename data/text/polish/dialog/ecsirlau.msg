@@ -1,10 +1,10 @@
-{100}{}{Mê¿czyzna w pancerzu wspomaganym.}
+{100}{}{MÄ™Å¼czyzna w pancerzu wspomaganym.}
 {101}{}{Sir Launcelot.}
-{102}{}{Czyœci broñ.}
-{103}{}{Sir Launcelot, do us³ug.}
-{104}{}{Odwal siê!}
+{102}{}{CzyÅ›ci broÅ„.}
+{103}{}{Sir Launcelot, do usÅ‚ug.}
+{104}{}{Odwal siÄ™!}
 {105}{}{Szukasz guza?}
-{106}{}{Auæ! Przestañ mnie sztuchaæ!}
-{200}{}{Hej! Masz lodowate rêce!}
-{201}{}{To nie nale¿y do ciebie.}
+{106}{}{AuÄ‡! PrzestaÅ„ mnie sztuchaÄ‡!}
+{200}{}{Hej! Masz lodowate rÄ™ce!}
+{201}{}{To nie naleÅ¼y do ciebie.}
 {202}{}{Hej, to moje rzeczy!}

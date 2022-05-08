@@ -1,60 +1,60 @@
 {100}{}{Ves a un hombre preocupado.}
 {101}{}{Ves a Dan, el marido preocupado.}
 {102}{}{Ves a un hombre bien vestido cuya cara parece estar al borde de la histeria.}
-{103}{}{¿Quién eres? ¿Qué estás haciendo en mi casa?}
-{104}{}{¿Ack? ¿Oop?}
+{103}{}{Â¿QuiÃ©n eres? Â¿QuÃ© estÃ¡s haciendo en mi casa?}
+{104}{}{Â¿Ack? Â¿Oop?}
 {105}{}{Soy }
 {106}{}{Nadie importante.}
-{107}{}{Estoy aquí para robarte.}
-{108}{}{Nada. Nadie. Adiós.}
-{109}{}{En mi casa no, por favor. Hay una calle afuera donde puedes dormir y hacer lo que sea que hace la gente "especial" como tú.}
-{110}{}{¡Thppt!}
-{111}{}{Genial, genial. Encantado de conocerte. [Parece distraído]. Hey, oye... eres un aventurero, ¿verdad?}
-{112}{}{Sí.}
-{113}{}{¿No reconoces a El Elegido?}
+{107}{}{Estoy aquÃ­ para robarte.}
+{108}{}{Nada. Nadie. AdiÃ³s.}
+{109}{}{En mi casa no, por favor. Hay una calle afuera donde puedes dormir y hacer lo que sea que hace la gente "especial" como tÃº.}
+{110}{}{Â¡Thppt!}
+{111}{}{Genial, genial. Encantado de conocerte. [Parece distraÃ­do]. Hey, oye... eres un aventurero, Â¿verdad?}
+{112}{}{SÃ­.}
+{113}{}{Â¿No reconoces a El Elegido?}
 {114}{}{No.}
-{115}{}{¿Qué te importa eso a ti?}
-{116}{}{La razón que pido, como ves, es porque mi esposa es la que falta. No sé de donde ella es. Ella se fue hace días. Le he pedido alrededor de la ciudad, y nadie la ha visto. Puede usted encontrar a ella para mí?}
-{117}{}{¿Qué hay para mí?}
-{118}{}{Miraré por ahí. ¿Qué aspecto tiene?}
+{115}{}{Â¿QuÃ© te importa eso a ti?}
+{116}{}{La razÃ³n que pido, como ves, es porque mi esposa es la que falta. No sÃ© de donde ella es. Ella se fue hace dÃ­as. Le he pedido alrededor de la ciudad, y nadie la ha visto. Puede usted encontrar a ella para mÃ­?}
+{117}{}{Â¿QuÃ© hay para mÃ­?}
+{118}{}{MirarÃ© por ahÃ­. Â¿QuÃ© aspecto tiene?}
 {119}{}{No. Estoy ocupado.}
-{120}{}{Puedo darte 500 dólares. Son los ahorros de mi vida.}
-{121}{}{Eso es suficiente. Lo haré.}
+{120}{}{Puedo darte 500 dÃ³lares. Son los ahorros de mi vida.}
+{121}{}{Eso es suficiente. Lo harÃ©.}
 {122}{}{No. No puedo hacerlo.}
-{123}{}{Por favor. Por favor. Mi mujer... lo es todo para mí. Por favor.}
-{124}{}{¡He dicho que no!}
+{123}{}{Por favor. Por favor. Mi mujer... lo es todo para mÃ­. Por favor.}
+{124}{}{Â¡He dicho que no!}
 {125}{}{Vale. Vale, pero deja de darme la lata.}
-{126}{}{Aquí está el dinero. Ahora, por favor, por favor, por favor... buscar a mi esposa, y dime de donde ella es. Quizás ha acostado con alguien más, tal vez ella me dejó... pero necesito saber.}
-{127}{}{Vale, amigo. ¿Qué aspecto tiene?}
-{128}{}{Por supuesto. Lo haré lo mejor que pueda.}
-{129}{}{::él gemía incontrolablemente por unos momentos:: Muy bien. Vaya. Y darse cuenta de que has roto mi corazón.}
+{126}{}{AquÃ­ estÃ¡ el dinero. Ahora, por favor, por favor, por favor... buscar a mi esposa, y dime de donde ella es. QuizÃ¡s ha acostado con alguien mÃ¡s, tal vez ella me dejÃ³... pero necesito saber.}
+{127}{}{Vale, amigo. Â¿QuÃ© aspecto tiene?}
+{128}{}{Por supuesto. Lo harÃ© lo mejor que pueda.}
+{129}{}{::Ã©l gemÃ­a incontrolablemente por unos momentos:: Muy bien. Vaya. Y darse cuenta de que has roto mi corazÃ³n.}
 {130}{}{Nos vemos, perdedor.}
-{131}{}{Es rubia, sexy, y tiene la mejor voz para cantar... La última vez que la vi estaba paseándose por esta zona. No le gustan los mutantes ni los necrófagos, por lo que no habrá estado cerca de uno de ellos. Nadie sabe a dónde fue. Ha desaparecido.}
-{132}{}{Eso debería ser suficiente.}
-{133}{}{¿Y bien? ¿La has encontrado? Me duele el corazón a cada momento.}
+{131}{}{Es rubia, sexy, y tiene la mejor voz para cantar... La Ãºltima vez que la vi estaba paseÃ¡ndose por esta zona. No le gustan los mutantes ni los necrÃ³fagos, por lo que no habrÃ¡ estado cerca de uno de ellos. Nadie sabe a dÃ³nde fue. Ha desaparecido.}
+{132}{}{Eso deberÃ­a ser suficiente.}
+{133}{}{Â¿Y bien? Â¿La has encontrado? Me duele el corazÃ³n a cada momento.}
 {134}{}{Lo siento, amigo, la sigo buscando.}
-{135}{}{Sí, la he encontrado.}
-{136}{}{No, todavía no. Seguiré buscando.}
-{137}{}{Oh, mi dolorido corazón. Por favor, cuando la encuentres házmelo saber.}
-{138}{}{Sí, por supuesto.}
-{139}{}{En realidad, no voy a seguir buscándola.}
-{140}{}{¿La has encontrado? ::sus ojos se iluminan:: ¿Dónde?}
-{141}{}{¿Era una cachonda sin piernas?}
-{142}{}{Encontré un grupo de personas muertas en los túneles bajo la ciudad. Ella estaba entre ellas. Lo siento.}
-{143}{}{¿Que? ¡No! ¡Tenía unas piernas estupendas!}
-{144}{}{Oh. A la derecha. Bueno, ella no tiene buenas piernas ahora. Ella realmente tiene agredida, y las piernas están FUERA. Ella estaba totalmente muerto, y ella sufrió antes de morir.}
-{145}{}{Vale. Bueno, creo que la encontré en los túneles bajo la ciudad. Está muerta. Lo siento mucho.}
-{146}{}{Gracias por decírmelo. Creo que voy a llorar.}
-{147}{}{Sí, ve a llorar, nenaza perdedora.}
+{135}{}{SÃ­, la he encontrado.}
+{136}{}{No, todavÃ­a no. SeguirÃ© buscando.}
+{137}{}{Oh, mi dolorido corazÃ³n. Por favor, cuando la encuentres hÃ¡zmelo saber.}
+{138}{}{SÃ­, por supuesto.}
+{139}{}{En realidad, no voy a seguir buscÃ¡ndola.}
+{140}{}{Â¿La has encontrado? ::sus ojos se iluminan:: Â¿DÃ³nde?}
+{141}{}{Â¿Era una cachonda sin piernas?}
+{142}{}{EncontrÃ© un grupo de personas muertas en los tÃºneles bajo la ciudad. Ella estaba entre ellas. Lo siento.}
+{143}{}{Â¿Que? Â¡No! Â¡TenÃ­a unas piernas estupendas!}
+{144}{}{Oh. A la derecha. Bueno, ella no tiene buenas piernas ahora. Ella realmente tiene agredida, y las piernas estÃ¡n FUERA. Ella estaba totalmente muerto, y ella sufriÃ³ antes de morir.}
+{145}{}{Vale. Bueno, creo que la encontrÃ© en los tÃºneles bajo la ciudad. EstÃ¡ muerta. Lo siento mucho.}
+{146}{}{Gracias por decÃ­rmelo. Creo que voy a llorar.}
+{147}{}{SÃ­, ve a llorar, nenaza perdedora.}
 {148}{}{Lo siento, colega.}
-{149}{}{¡Te odio! ¡Todos te odian! ¡Muere! ::sollozo::}
-{150}{}{Encontré una carta en el cadáver de tu mujer. Indica que podría haber formado parte de una conspiración para matar a los mutantes de Broken Hills.}
-{151}{}{¡Oh Dios mio! Yo... no puedo creerlo... No... [suspira profundamente]. Supongo que puede ser cierto. Parecía
- odiar a cada mutante y a cada necrófago con el que se cruzaba. Nunca supe por qué.}
-{152}{}{Sea como fuere, quizá consideres que los asesinatos no terminan sólo con tu mujer. Si ella estuvo implicada, tú también puedes estarlo.}
-{153}{}{¿No querrás decir que mi vida también está en peligro? Oh, vaya. Quizá tengas razón. He estado escuchando ruidos fuera
+{149}{}{Â¡Te odio! Â¡Todos te odian! Â¡Muere! ::sollozo::}
+{150}{}{EncontrÃ© una carta en el cadÃ¡ver de tu mujer. Indica que podrÃ­a haber formado parte de una conspiraciÃ³n para matar a los mutantes de Broken Hills.}
+{151}{}{Â¡Oh Dios mio! Yo... no puedo creerlo... No... [suspira profundamente]. Supongo que puede ser cierto. ParecÃ­a
+ odiar a cada mutante y a cada necrÃ³fago con el que se cruzaba. Nunca supe por quÃ©.}
+{152}{}{Sea como fuere, quizÃ¡ consideres que los asesinatos no terminan sÃ³lo con tu mujer. Si ella estuvo implicada, tÃº tambiÃ©n puedes estarlo.}
+{153}{}{Â¿No querrÃ¡s decir que mi vida tambiÃ©n estÃ¡ en peligro? Oh, vaya. QuizÃ¡ tengas razÃ³n. He estado escuchando ruidos fuera
  de la casa por la noche. Susurros y pasos.}
-{154}{}{Podría ser una buena idea abandonar este lugar. Vigila tus espaldas. Buena suerte.}
-{155}{}{Muchas gracias por tu ayuda. No seguiré aquí por más tiempo.}
+{154}{}{PodrÃ­a ser una buena idea abandonar este lugar. Vigila tus espaldas. Buena suerte.}
+{155}{}{Muchas gracias por tu ayuda. No seguirÃ© aquÃ­ por mÃ¡s tiempo.}
 {156}{}{Has informado a Dan del asesinato de su mujer.}
 {157}{}{.}

@@ -1,489 +1,489 @@
-{100}{}{Egy magas férfit látsz, arcát tetkók díszítik, az orrán pedig egy hatalmas csont megy keresztül.}
+{100}{}{Egy magas fÃ©rfit lÃ¡tsz, arcÃ¡t tetkÃ³k dÃ­szÃ­tik, az orrÃ¡n pedig egy hatalmas csont megy keresztÃ¼l.}
 {101}{}{? Sulik.}
-{102}{}{A törzs egyik hatalmas, izmos tagja. Egy csont döfi át az orrát, az arcán pedig a törzs tetoválásai láthatóak. Magabiztos és higgadt.}
+{102}{}{A tÃ¶rzs egyik hatalmas, izmos tagja. Egy csont dÃ¶fi Ã¡t az orrÃ¡t, az arcÃ¡n pedig a tÃ¶rzs tetovÃ¡lÃ¡sai lÃ¡thatÃ³ak. Magabiztos Ã©s higgadt.}
 {103}{}{ vagyok.}
-{104}{slk1}{Sz'asz, haver! A nevünk lenni Sulik. K?' valami?}
-{105}{}{Öh?}
-{107}{slk2a}{Nee, nem! Nem szólni hozzánk! Egyik emberetek elvinni húgunk. Ez nem jó sors... néked.}
-{108}{slk2b}{Nem! Mi és én nem beszél semmi rabszolga-tartóhoz!}
-{109}{slk3}{Sok ember lenni gonosz. Te? Te lenni hülye. Eriggy sámánhoz, és csinál lyukat fejbe... nagy lyuk... nagy nagy... nagy nagy nagy lyuk.}
-{110}{}{Öh?}
+{104}{slk1}{Sz'asz, haver! A nevÃ¼nk lenni Sulik. K?' valami?}
+{105}{}{Ã–h?}
+{107}{slk2a}{Nee, nem! Nem szÃ³lni hozzÃ¡nk! Egyik emberetek elvinni hÃºgunk. Ez nem jÃ³ sors... nÃ©ked.}
+{108}{slk2b}{Nem! Mi Ã©s Ã©n nem beszÃ©l semmi rabszolga-tartÃ³hoz!}
+{109}{slk3}{Sok ember lenni gonosz. Te? Te lenni hÃ¼lye. Eriggy sÃ¡mÃ¡nhoz, Ã©s csinÃ¡l lyukat fejbe... nagy lyuk... nagy nagy... nagy nagy nagy lyuk.}
+{110}{}{Ã–h?}
 {111}{}{Ah-hah!}
-{112}{}{*nyelsz* (furcsán bámulsz)}
-{113}{slk4}{Nem akarsz lyuk? Eriggy Torrhoz! ? is hülye, mint te. A Maida-fa-arcnak dolgozni. Mi és én is.}
+{112}{}{*nyelsz* (furcsÃ¡n bÃ¡mulsz)}
+{113}{slk4}{Nem akarsz lyuk? Eriggy Torrhoz! ? is hÃ¼lye, mint te. A Maida-fa-arcnak dolgozni. Mi Ã©s Ã©n is.}
 {114}{}{Aha.}
-{115}{}{Nahát...}
-{116}{slk5a}{Á, baszki, haver! Keresked?k elvitték húgunk. Elmentünk inni, asztán jó' behasítottunk. Mos' meg Maida kirúgott. Amint kifizetni tartozás, megyünk keresni húgocskát.}
-{117}{slk5b}{Mostan már kész lenni indulásra. Keressük húgicát! Elkapták a keresked?k.}
-{118}{}{Öh?}
-{119}{}{Hmmmm... Mennyivel is tudnálak felszabadítani?}
+{115}{}{NahÃ¡t...}
+{116}{slk5a}{Ã, baszki, haver! Keresked?k elvittÃ©k hÃºgunk. ElmentÃ¼nk inni, asztÃ¡n jÃ³' behasÃ­tottunk. Mos' meg Maida kirÃºgott. Amint kifizetni tartozÃ¡s, megyÃ¼nk keresni hÃºgocskÃ¡t.}
+{117}{slk5b}{Mostan mÃ¡r kÃ©sz lenni indulÃ¡sra. KeressÃ¼k hÃºgicÃ¡t! ElkaptÃ¡k a keresked?k.}
+{118}{}{Ã–h?}
+{119}{}{Hmmmm... Mennyivel is tudnÃ¡lak felszabadÃ­tani?}
 {120}{}{Aha.}
-{121}{}{Keresek valamit. Talán te tudnál segíteni nekem.}
-{122}{slk6}{Mi tartozni Maidának 350 dollár! Mész délnek? Mi is követ te és keres szegény húgocska! Van 350 dolcsi neked?}
-{123}{}{Nauh-úoh.}
+{121}{}{Keresek valamit. TalÃ¡n te tudnÃ¡l segÃ­teni nekem.}
+{122}{slk6}{Mi tartozni MaidÃ¡nak 350 dollÃ¡r! MÃ©sz dÃ©lnek? Mi is kÃ¶vet te Ã©s keres szegÃ©ny hÃºgocska! Van 350 dolcsi neked?}
+{123}{}{Nauh-Ãºoh.}
 {124}{}{Ah-hah!}
 {125}{}{Nesze, itt van a 350 dolcsid.}
 {126}{}{Ki az a "mi"?}
-{127}{}{Talán, Sulik, talán. Bár... kérdeznék t?led valamit.}
-{128}{}{350 dollár az kurva sok pénz! Még jó sokáig nem szabadulsz innen. Na, csá!}
-{129}{}{Valószín?leg egy jó szellem vigyáz rád, nehogy bajba keveredj. Nem hinném, hogy egyhamar el fogsz jutni délre. Viszlát!}
-{140}{slk6a}{Itt lenni szellemek! Mindenfele, barátom! Mindenhol! Néha szólnak Sulikhoz.}
-{141}{}{Kábé olyanok, mint a kóbor denevérek a harangtoronyban, mi?}
+{127}{}{TalÃ¡n, Sulik, talÃ¡n. BÃ¡r... kÃ©rdeznÃ©k t?led valamit.}
+{128}{}{350 dollÃ¡r az kurva sok pÃ©nz! MÃ©g jÃ³ sokÃ¡ig nem szabadulsz innen. Na, csÃ¡!}
+{129}{}{ValÃ³szÃ­n?leg egy jÃ³ szellem vigyÃ¡z rÃ¡d, nehogy bajba keveredj. Nem hinnÃ©m, hogy egyhamar el fogsz jutni dÃ©lre. ViszlÃ¡t!}
+{140}{slk6a}{Itt lenni szellemek! Mindenfele, barÃ¡tom! Mindenhol! NÃ©ha szÃ³lnak Sulikhoz.}
+{141}{}{KÃ¡bÃ© olyanok, mint a kÃ³bor denevÃ©rek a harangtoronyban, mi?}
 {142}{}{Milyen szellemek?}
-{143}{}{Rendben... Kérdezhetnék akkor esetleg valami mást?}
-{150}{slk6b}{Ez lenni vicces, barát. Vén-csont gondolni így. Assz'ondja, te lenni bölcs. Meg azt is monggya, köll is ám!}
-{151}{}{Miért?}
-{152}{}{Ki a fene az a "Vén-csont"?}
-{153}{}{Kérdezhetek valami mást?}
-{160}{slk6c}{Neki érzései lenni feléd. Vén-csont az kis szellem.}
-{162}{}{Milyen érzések?!}
-{170}{slk6d}{Szellemek lenni mindenhol. Véd mi és én. Vén-csont beszélni a legsokabbat.}
-{171}{}{Szeretnék valami teljesen mást kérdezni.}
-{180}{slk6e}{Most monggya, hogy elég ez. Szellemek látnak és beszélnek mindig máshogy. Nem mint többiek.}
-{181}{}{És van valami ötleted, hogy milyenek voltak a "többiek"?}
-{182}{}{Mesélj nekem Vén-csontról!}
+{143}{}{Rendben... KÃ©rdezhetnÃ©k akkor esetleg valami mÃ¡st?}
+{150}{slk6b}{Ez lenni vicces, barÃ¡t. VÃ©n-csont gondolni Ã­gy. Assz'ondja, te lenni bÃ¶lcs. Meg azt is monggya, kÃ¶ll is Ã¡m!}
+{151}{}{MiÃ©rt?}
+{152}{}{Ki a fene az a "VÃ©n-csont"?}
+{153}{}{KÃ©rdezhetek valami mÃ¡st?}
+{160}{slk6c}{Neki Ã©rzÃ©sei lenni felÃ©d. VÃ©n-csont az kis szellem.}
+{162}{}{Milyen Ã©rzÃ©sek?!}
+{170}{slk6d}{Szellemek lenni mindenhol. VÃ©d mi Ã©s Ã©n. VÃ©n-csont beszÃ©lni a legsokabbat.}
+{171}{}{SzeretnÃ©k valami teljesen mÃ¡st kÃ©rdezni.}
+{180}{slk6e}{Most monggya, hogy elÃ©g ez. Szellemek lÃ¡tnak Ã©s beszÃ©lnek mindig mÃ¡shogy. Nem mint tÃ¶bbiek.}
+{181}{}{Ã‰s van valami Ã¶tleted, hogy milyenek voltak a "tÃ¶bbiek"?}
+{182}{}{MesÃ©lj nekem VÃ©n-csontrÃ³l!}
 {190}{slk6f}{? lenni er?s. Nagy tisztelet hordozni.}
-{191}{}{Állj, állj! Úgy érted, az orrodban lev? csont az a csont?!}
-{200}{slk6g}{Közel kell engedni. Így könny? érezni szellemét. Ezért beszélni olyan sok.}
-{201}{}{Hékás! Én csak azt hallom, amit te mondasz!}
-{210}{slk6h}{Hahahahahaha... Mi lenni nagyon jól.}
-{211}{}{Kés?bb még beszélgethetünk. Szeva!}
-{220}{slk7}{Vic nagy áruló! Jönni faluba és mondani ? tudja, hol lenni rabszolga-keresked?k, mondani menni hozzá Sulik. Sulik megy, Vic nem lenni ott!}
-{221}{}{A húgodat a rabszolga-keresked?k vitték el?}
-{222}{}{Feltennék még kérdéseket.}
-{223}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
-{230}{slk8}{Mi és én megköszönni neked. Hívnak Sulik. Hogyan fizethetné vissza mi?}
-{231}{}{Öö.}
+{191}{}{Ãllj, Ã¡llj! Ãšgy Ã©rted, az orrodban lev? csont az a csont?!}
+{200}{slk6g}{KÃ¶zel kell engedni. Ãgy kÃ¶nny? Ã©rezni szellemÃ©t. EzÃ©rt beszÃ©lni olyan sok.}
+{201}{}{HÃ©kÃ¡s! Ã‰n csak azt hallom, amit te mondasz!}
+{210}{slk6h}{Hahahahahaha... Mi lenni nagyon jÃ³l.}
+{211}{}{KÃ©s?bb mÃ©g beszÃ©lgethetÃ¼nk. Szeva!}
+{220}{slk7}{Vic nagy Ã¡rulÃ³! JÃ¶nni faluba Ã©s mondani ? tudja, hol lenni rabszolga-keresked?k, mondani menni hozzÃ¡ Sulik. Sulik megy, Vic nem lenni ott!}
+{221}{}{A hÃºgodat a rabszolga-keresked?k vittÃ©k el?}
+{222}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{223}{}{NagyjÃ¡bÃ³l ennyi informÃ¡ciÃ³ra lett volna szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{230}{slk8}{Mi Ã©s Ã©n megkÃ¶szÃ¶nni neked. HÃ­vnak Sulik. Hogyan fizethetnÃ© vissza mi?}
+{231}{}{Ã–Ã¶.}
 {232}{}{Szia szia.}
 {233}{}{Ki az a "mi"?}
-{234}{}{Örülök, hogy segíthettem, Sulik. Mondj valamit magadról!}
-{235}{}{Mi lenne, ha elmondanád, mi történik a városban?}
-{236}{}{Egyszer?en nem bírtam látni, ahogy itt raboskodtál. Üdv!}
-{237}{}{Tudnál pár szót mondani magadról?}
+{234}{}{Ã–rÃ¼lÃ¶k, hogy segÃ­thettem, Sulik. Mondj valamit magadrÃ³l!}
+{235}{}{Mi lenne, ha elmondanÃ¡d, mi tÃ¶rtÃ©nik a vÃ¡rosban?}
+{236}{}{Egyszer?en nem bÃ­rtam lÃ¡tni, ahogy itt raboskodtÃ¡l. Ãœdv!}
+{237}{}{TudnÃ¡l pÃ¡r szÃ³t mondani magadrÃ³l?}
 {240}{slk9a}{Ahogy mondani!}
-{241}{slk9b}{Mi lenni a dühös szellem, barát!}
+{241}{slk9b}{Mi lenni a dÃ¼hÃ¶s szellem, barÃ¡t!}
 {243}{slk10a}{Rendicsek, haver!}
-{244}{slk10b}{Készek lenni a harcra!}
-{246}{slk11a}{Olyanok lenni, mint a tekn?s, barátom!}
+{244}{slk10b}{KÃ©szek lenni a harcra!}
+{246}{slk11a}{Olyanok lenni, mint a tekn?s, barÃ¡tom!}
 {247}{slk11b}{Meglesz!}
 {250}{slk12a}{Nagy hiba, haver!}
 {251}{slk12b}{Jobban lenni.}
-{253}{slk13a}{Ez lenni nagyooon rossz, fáj nekünk!}
-{254}{slk13b}{Szellemek gondolják hamarosan találkozni velük.}
-{257}{slk14a}{Méreg-szellem lenni itt bennem.}
-{258}{slk14b}{Méreg-szellem be, jó szellemek gyorsan ki!}
-{260}{slk15a}{Gonosz szellem uralni minket, barátom... Hajunk csomója fog kiesni!!}
+{253}{slk13a}{Ez lenni nagyooon rossz, fÃ¡j nekÃ¼nk!}
+{254}{slk13b}{Szellemek gondoljÃ¡k hamarosan talÃ¡lkozni velÃ¼k.}
+{257}{slk14a}{MÃ©reg-szellem lenni itt bennem.}
+{258}{slk14b}{MÃ©reg-szellem be, jÃ³ szellemek gyorsan ki!}
+{260}{slk15a}{Gonosz szellem uralni minket, barÃ¡tom... Hajunk csomÃ³ja fog kiesni!!}
 {261}{slk15b}{Ragyogunk! Nagyon rossz szellem lenni erre.}
-{263}{slk16a}{Ez jó hely. Nem öl meg senki minket fillérekér'}
-{264}{slk16b}{Csont-nagyapa mondani, ez lenni jó hely.}
-{267}{slk17a}{Rossz szellemek járkálni itten. Menni kell azonnal!}
-{268}{slk17b}{Vén-csont mondani, menni innen gyorsan elfele!}
-{270}{slk18a}{Mi lenni már rossz hely. Ez lenni rosszabb!}
-{271}{slk18b}{Vén-csont mondani ez rossz hely. Ha ? beszél, neked kell hallgatni rá!}
-{280}{slk21}{Húgika ment cserélgetni másik faluba és nem jönni vissza! Mi menni megkeres.}
-{281}{}{Mit találtál?}
-{290}{slk22}{Mi tudni keresked?k lenni a rejtekben. Amikó' lenni szabadok, t?nni el innét!}
-{291}{}{Mesélj nekem valami másról!}
-{292}{}{Nagyjából ennyi érdekelt volna most. Agy?!}
+{263}{slk16a}{Ez jÃ³ hely. Nem Ã¶l meg senki minket fillÃ©rekÃ©r'}
+{264}{slk16b}{Csont-nagyapa mondani, ez lenni jÃ³ hely.}
+{267}{slk17a}{Rossz szellemek jÃ¡rkÃ¡lni itten. Menni kell azonnal!}
+{268}{slk17b}{VÃ©n-csont mondani, menni innen gyorsan elfele!}
+{270}{slk18a}{Mi lenni mÃ¡r rossz hely. Ez lenni rosszabb!}
+{271}{slk18b}{VÃ©n-csont mondani ez rossz hely. Ha ? beszÃ©l, neked kell hallgatni rÃ¡!}
+{280}{slk21}{HÃºgika ment cserÃ©lgetni mÃ¡sik faluba Ã©s nem jÃ¶nni vissza! Mi menni megkeres.}
+{281}{}{Mit talÃ¡ltÃ¡l?}
+{290}{slk22}{Mi tudni keresked?k lenni a rejtekben. AmikÃ³' lenni szabadok, t?nni el innÃ©t!}
+{291}{}{MesÃ©lj nekem valami mÃ¡srÃ³l!}
+{292}{}{NagyjÃ¡bÃ³l ennyi Ã©rdekelt volna most. Agy?!}
 {300}{slk23a}{Mi mondani nem!}
-{301}{}{Értem. Ennyi most már elegend? lesz. Minden jót!}
-{302}{slk23b}{Mi használni csak gyógynövények!}
-{310}{slk25a}{? lenni f?nök. Mi kifizet ?t, aztán megy keresni húgica.}
+{301}{}{Ã‰rtem. Ennyi most mÃ¡r elegend? lesz. Minden jÃ³t!}
+{302}{slk23b}{Mi hasznÃ¡lni csak gyÃ³gynÃ¶vÃ©nyek!}
+{310}{slk25a}{? lenni f?nÃ¶k. Mi kifizet ?t, aztÃ¡n megy keresni hÃºgica.}
 {311}{slk25b}{Maida used to run our life. We think she like us - she's not happy we're free.}
-{312}{}{Hmmmm... beszélgessünk valami másról is!}
-{320}{slk26a}{Nem akarni most beszélni.}
-{321}{slk26b}{Szellemek néha nehéz megérteni. Látnak dolgok, amit te, vagy mi nem.}
-{322}{slk26c}{Szellemek akarnak beszélni. Mit akarol te?}
-{323}{}{Öh?}
+{312}{}{Hmmmm... beszÃ©lgessÃ¼nk valami mÃ¡srÃ³l is!}
+{320}{slk26a}{Nem akarni most beszÃ©lni.}
+{321}{slk26b}{Szellemek nÃ©ha nehÃ©z megÃ©rteni. LÃ¡tnak dolgok, amit te, vagy mi nem.}
+{322}{slk26c}{Szellemek akarnak beszÃ©lni. Mit akarol te?}
+{323}{}{Ã–h?}
 {324}{}{Nehm.}
-{325}{}{Nauh-úoh.}
+{325}{}{Nauh-Ãºoh.}
 {326}{}{Mit mondanak err?l a helyr?l?}
-{327}{}{Mi a véleményed a helyzetünkr?l?}
-{328}{}{Inkább beszélgessünk másról!}
-{329}{}{Nem hinném, hogy kiváncsi lennék arra, mit gondolnak a szellemek...}
-{350}{slk27aa}{?k mondani fekete felh?k gyülekezni.}
-{351}{slk27ab}{Vén-csont mondani, mind elment.}
-{352}{slk27ac}{Szellemek látni még több szellemek csatlakozni. Sok-sok.}
-{360}{slk27ba}{Vén-csont mondani, mind Nagy Vízen állni... Ezt mi nem érteni.}
-{361}{slk27bb}{Szellemek nem érteni, miért hagyni el. Látni, de nem érteni.}
-{362}{slk27bc}{?k mondani itt volt er?s szellem. Talán ezért t?nni el.}
-{370}{slk27ca}{Gonosz szellemek nem ölni marha.}
+{327}{}{Mi a vÃ©lemÃ©nyed a helyzetÃ¼nkr?l?}
+{328}{}{InkÃ¡bb beszÃ©lgessÃ¼nk mÃ¡srÃ³l!}
+{329}{}{Nem hinnÃ©m, hogy kivÃ¡ncsi lennÃ©k arra, mit gondolnak a szellemek...}
+{350}{slk27aa}{?k mondani fekete felh?k gyÃ¼lekezni.}
+{351}{slk27ab}{VÃ©n-csont mondani, mind elment.}
+{352}{slk27ac}{Szellemek lÃ¡tni mÃ©g tÃ¶bb szellemek csatlakozni. Sok-sok.}
+{360}{slk27ba}{VÃ©n-csont mondani, mind Nagy VÃ­zen Ã¡llni... Ezt mi nem Ã©rteni.}
+{361}{slk27bb}{Szellemek nem Ã©rteni, miÃ©rt hagyni el. LÃ¡tni, de nem Ã©rteni.}
+{362}{slk27bc}{?k mondani itt volt er?s szellem. TalÃ¡n ezÃ©rt t?nni el.}
+{370}{slk27ca}{Gonosz szellemek nem Ã¶lni marha.}
 {371}{slk27cb}{Rossz szellem lenni valami... bilincs alatt. Nem lenni biztos, mit jelenteni ez.}
-{380}{slk27da}{Vén-csont mondani ez hely lenni tele rossz emberekkel.}
-{381}{slk27db}{?k mondani embernek elveszni itt nagyon könny?. Sokféleképp.}
-{382}{slk27dc}{Hé! ?k mondani másik csontszellem lenni itt. Segítség kell!}
-{390}{}{Mindannyian nagyon szomorúak. Azt mondják, közeleg az id?, amikor senki más nem lesz itt a csontszellemeken kívül.}
-{391}{}{Ennek a helynek nincs jöv?je. Csinálnunk kell valamit!}
-{400}{slk27fa}{Vén-csont nevet, bár nem lenni vicces! A harcnak vége, de elveszteni valamit.}
-{401}{slk27fb}{Szellemek nem lenni boldog! Valakik úgy tenni, mint szellemek, megijeszteni ?ket, mint a gyerekeket.}
+{380}{slk27da}{VÃ©n-csont mondani ez hely lenni tele rossz emberekkel.}
+{381}{slk27db}{?k mondani embernek elveszni itt nagyon kÃ¶nny?. SokfÃ©lekÃ©pp.}
+{382}{slk27dc}{HÃ©! ?k mondani mÃ¡sik csontszellem lenni itt. SegÃ­tsÃ©g kell!}
+{390}{}{Mindannyian nagyon szomorÃºak. Azt mondjÃ¡k, kÃ¶zeleg az id?, amikor senki mÃ¡s nem lesz itt a csontszellemeken kÃ­vÃ¼l.}
+{391}{}{Ennek a helynek nincs jÃ¶v?je. CsinÃ¡lnunk kell valamit!}
+{400}{slk27fa}{VÃ©n-csont nevet, bÃ¡r nem lenni vicces! A harcnak vÃ©ge, de elveszteni valamit.}
+{401}{slk27fb}{Szellemek nem lenni boldog! Valakik Ãºgy tenni, mint szellemek, megijeszteni ?ket, mint a gyerekeket.}
 {402}{slk27fc}{? lenni az, akivel nem lenni szellemek... Ezt mondani ?k.}
-{403}{slk27fd}{Mindenki a földön nem lenni halott.}
-{410}{slk27ga}{Vén-csont mondani a dolgok lehetnek jók, de kell ehhez segítség kiv?lr?l is.}
-{411}{slk27gb}{Egyik hely segíti másikat, segíti magát. Túl rossz, ?k nem látni nyitott szemmel sem.}
-{420}{slk27ha}{Nekünk menni kell oda, hova szellemek is, csak nem úgy, mint ?k.}
-{421}{slk27hb}{Ez nem az, de segíteni, hogy az lenni... talán szellemek tudni többet, talán nem. Mi úgy gondolni, ?k így szeretni beszélni.}
-{430}{slk27ia}{Szellemek mondani ezeket város fényeinek árnyékai érinteni meg.}
+{403}{slk27fd}{Mindenki a fÃ¶ldÃ¶n nem lenni halott.}
+{410}{slk27ga}{VÃ©n-csont mondani a dolgok lehetnek jÃ³k, de kell ehhez segÃ­tsÃ©g kiv?lr?l is.}
+{411}{slk27gb}{Egyik hely segÃ­ti mÃ¡sikat, segÃ­ti magÃ¡t. TÃºl rossz, ?k nem lÃ¡tni nyitott szemmel sem.}
+{420}{slk27ha}{NekÃ¼nk menni kell oda, hova szellemek is, csak nem Ãºgy, mint ?k.}
+{421}{slk27hb}{Ez nem az, de segÃ­teni, hogy az lenni... talÃ¡n szellemek tudni tÃ¶bbet, talÃ¡n nem. Mi Ãºgy gondolni, ?k Ã­gy szeretni beszÃ©lni.}
+{430}{slk27ia}{Szellemek mondani ezeket vÃ¡ros fÃ©nyeinek Ã¡rnyÃ©kai Ã©rinteni meg.}
 {431}{slk27ib}{Fej nem lenni a testvel.}
-{440}{slk27ja}{Szellemek látni két ösvény, keresztezni egymást. Rossz ösvény menni sötét helyre a fényben. Jó ösvény menni fényes helyre, hol az árnyékok születni.}
-{441}{slk27jb}{Nem küldeni ?ket fényre!}
-{442}{slk27jc}{Gy?zni meg ?ket, hogy legyenek valami részei!}
+{440}{slk27ja}{Szellemek lÃ¡tni kÃ©t Ã¶svÃ©ny, keresztezni egymÃ¡st. Rossz Ã¶svÃ©ny menni sÃ¶tÃ©t helyre a fÃ©nyben. JÃ³ Ã¶svÃ©ny menni fÃ©nyes helyre, hol az Ã¡rnyÃ©kok szÃ¼letni.}
+{441}{slk27jb}{Nem kÃ¼ldeni ?ket fÃ©nyre!}
+{442}{slk27jc}{Gy?zni meg ?ket, hogy legyenek valami rÃ©szei!}
 {450}{slk27ka}{Szellem nem vezetni ezen kezeket.}
-{451}{slk27kb}{Az évgy?r? görbül, a fa n?.}
-{452}{slk27kc}{Itt te szerezhetni barát.}
-{460}{slk27la}{Ki mérgezni meg ifjúság?}
+{451}{slk27kb}{Az Ã©vgy?r? gÃ¶rbÃ¼l, a fa n?.}
+{452}{slk27kc}{Itt te szerezhetni barÃ¡t.}
+{460}{slk27la}{Ki mÃ©rgezni meg ifjÃºsÃ¡g?}
 {461}{slk27lb}{Jobb a jobb.}
-{462}{slk27lc}{Ez hely lenni tele méreg.}
-{470}{slk27ma}{Azok, aki a frontális orvtámadásban lenni.}
-{471}{slk27mb}{A föld nem a szellemek fényét?l világítani.}
-{480}{slk27na}{Neked kell lenni a híd az oldalak között.}
-{481}{slk27nb}{Csönd, ami víz alatt lenni vagy az egész törzs is el fog merülni.}
-{482}{slk27nc}{Az, ami benyomja nagy acélfát égbe, dajkálja kell törzset.}
-{483}{slk27nd}{Embereid többet érni, mint a fekete arany. Vigyázni rájuk nagyon!}
+{462}{slk27lc}{Ez hely lenni tele mÃ©reg.}
+{470}{slk27ma}{Azok, aki a frontÃ¡lis orvtÃ¡madÃ¡sban lenni.}
+{471}{slk27mb}{A fÃ¶ld nem a szellemek fÃ©nyÃ©t?l vilÃ¡gÃ­tani.}
+{480}{slk27na}{Neked kell lenni a hÃ­d az oldalak kÃ¶zÃ¶tt.}
+{481}{slk27nb}{CsÃ¶nd, ami vÃ­z alatt lenni vagy az egÃ©sz tÃ¶rzs is el fog merÃ¼lni.}
+{482}{slk27nc}{Az, ami benyomja nagy acÃ©lfÃ¡t Ã©gbe, dajkÃ¡lja kell tÃ¶rzset.}
+{483}{slk27nd}{Embereid tÃ¶bbet Ã©rni, mint a fekete arany. VigyÃ¡zni rÃ¡juk nagyon!}
 {490}{}{Akik szellemek t?nnek, nem mindig rejtenek magukban titkokat.}
-{491}{}{Mint a hagymán, itt is sok héj van, amik többsége kívülr?l nem látszik.}
-{492}{}{Az emel? gép váratlan helyekre is vihet téged.}
-{500}{slk27pa}{A szellemek látni azt az árnyék, mi korábban volt tied.}
-{501}{slk27pb}{Itten veszélyesek vannak.}
-{502}{slk27pc}{Lenni más árnyékok abból, ami te árnyékod volt itten.}
+{491}{}{Mint a hagymÃ¡n, itt is sok hÃ©j van, amik tÃ¶bbsÃ©ge kÃ­vÃ¼lr?l nem lÃ¡tszik.}
+{492}{}{Az emel? gÃ©p vÃ¡ratlan helyekre is vihet tÃ©ged.}
+{500}{slk27pa}{A szellemek lÃ¡tni azt az Ã¡rnyÃ©k, mi korÃ¡bban volt tied.}
+{501}{slk27pb}{Itten veszÃ©lyesek vannak.}
+{502}{slk27pc}{Lenni mÃ¡s Ã¡rnyÃ©kok abbÃ³l, ami te Ã¡rnyÃ©kod volt itten.}
 {510}{slk27qa}{Elt?nt. Mind elt?nt.}
-{511}{slk27qb}{Szellemek látni ugyanazt a benyel? felh?t, amint otthonod felé menni.}
-{512}{slk27qc}{Mind került bele Nagy Sós-tóba.}
-{520}{slk27ra}{Amit te keresni, az nem lenni itten. Odavezet? ösvény lenni az.}
-{521}{slk27rb}{Járni halk utat és tanulni sokat!}
-{522}{slk27rc}{Er?s mag lenni ide elvetve. Jó mag.}
-{530}{slk27sa}{Üres kagyló pihenni többi alatt.}
-{531}{slk27sb}{Halál karmai lenni közel!}
-{532}{slk27sc}{Gyenge halál fog követni tégedet.}
-{540}{slk27ta}{Hangja hangosabb, mint bármilyen más puskának.}
-{541}{slk27tb}{Gonosz ugrándozni itten!}
-{542}{slk27tc}{A gonosz útja itten tisztán látszik.}
-{550}{}{Itt nagy tudás van.}
+{511}{slk27qb}{Szellemek lÃ¡tni ugyanazt a benyel? felh?t, amint otthonod felÃ© menni.}
+{512}{slk27qc}{Mind kerÃ¼lt bele Nagy SÃ³s-tÃ³ba.}
+{520}{slk27ra}{Amit te keresni, az nem lenni itten. Odavezet? Ã¶svÃ©ny lenni az.}
+{521}{slk27rb}{JÃ¡rni halk utat Ã©s tanulni sokat!}
+{522}{slk27rc}{Er?s mag lenni ide elvetve. JÃ³ mag.}
+{530}{slk27sa}{Ãœres kagylÃ³ pihenni tÃ¶bbi alatt.}
+{531}{slk27sb}{HalÃ¡l karmai lenni kÃ¶zel!}
+{532}{slk27sc}{Gyenge halÃ¡l fog kÃ¶vetni tÃ©gedet.}
+{540}{slk27ta}{Hangja hangosabb, mint bÃ¡rmilyen mÃ¡s puskÃ¡nak.}
+{541}{slk27tb}{Gonosz ugrÃ¡ndozni itten!}
+{542}{slk27tc}{A gonosz Ãºtja itten tisztÃ¡n lÃ¡tszik.}
+{550}{}{Itt nagy tudÃ¡s van.}
 {551}{}{A stronger path through the future starts in such small places.}
-{560}{slk28a}{Kell nekünk kis id?, hogy végre magunk legyünk.}
-{561}{slk28b}{Kell szünet. Kis füst, kis gondolat.}
-{600}{}{Oké. Kösz!}
-{704}{slk28a}{Kell nekünk kis id?, hogy végre magunk legyünk.}
-{705}{slk28b}{Kell szünet. Kis füst, kis gondolat.}
-{706}{slk29a}{Hadd mutassuk meg neked, hogy is csinálni mi törzsünkben!}
-{707}{slk29b}{Mi ismerni föld és szelek jól. Mi ügyelni erre.}
-{708}{slk29c}{Csontszellemek segíteni ebben.}
-{709}{slk30a}{Mi haragudni... terád.}
-{710}{slk30b}{Ja, neked szükséged lenni közelségünk. Ez megvédeni bajoktól.}
-{711}{slk30c}{Mi közel maradni, ha te megígérni, hogy venni szappant következ? városban.}
+{560}{slk28a}{Kell nekÃ¼nk kis id?, hogy vÃ©gre magunk legyÃ¼nk.}
+{561}{slk28b}{Kell szÃ¼net. Kis fÃ¼st, kis gondolat.}
+{600}{}{OkÃ©. KÃ¶sz!}
+{704}{slk28a}{Kell nekÃ¼nk kis id?, hogy vÃ©gre magunk legyÃ¼nk.}
+{705}{slk28b}{Kell szÃ¼net. Kis fÃ¼st, kis gondolat.}
+{706}{slk29a}{Hadd mutassuk meg neked, hogy is csinÃ¡lni mi tÃ¶rzsÃ¼nkben!}
+{707}{slk29b}{Mi ismerni fÃ¶ld Ã©s szelek jÃ³l. Mi Ã¼gyelni erre.}
+{708}{slk29c}{Csontszellemek segÃ­teni ebben.}
+{709}{slk30a}{Mi haragudni... terÃ¡d.}
+{710}{slk30b}{Ja, neked szÃ¼ksÃ©ged lenni kÃ¶zelsÃ©gÃ¼nk. Ez megvÃ©deni bajoktÃ³l.}
+{711}{slk30c}{Mi kÃ¶zel maradni, ha te megÃ­gÃ©rni, hogy venni szappant kÃ¶vetkez? vÃ¡rosban.}
 {712}{slk31a}{Rendben lesz!}
-{713}{slk31b}{Mi lenni itt, ha neked szükség lenni ránk.}
-{714}{slk31c}{T?nik jó ötlet tartnani kis távolság. Emberek mindig tégedet akarnak ölni meg.}
+{713}{slk31b}{Mi lenni itt, ha neked szÃ¼ksÃ©g lenni rÃ¡nk.}
+{714}{slk31c}{T?nik jÃ³ Ã¶tlet tartnani kis tÃ¡volsÃ¡g. Emberek mindig tÃ©gedet akarnak Ã¶lni meg.}
 {715}{slk32a}{Nem okozhat gondot!}
-{716}{slk32b}{Jó ötlet! Azért kellene l?nöd rája.}
-{717}{slk32c}{Mi és az orrom köszöni neked.}
-{718}{slk33a}{Ideje lenni kis gyógyfüvezéshez. Még inkább nekünk.}
-{719}{slk33b}{Olyan, mint terv. Hihetetlen rossz dolgok követni tégedet.}
-{720}{slk33c}{Sok szerencsét, span! Mi gondolni neked szükség lenni rá.}
+{716}{slk32b}{JÃ³ Ã¶tlet! AzÃ©rt kellene l?nÃ¶d rÃ¡ja.}
+{717}{slk32c}{Mi Ã©s az orrom kÃ¶szÃ¶ni neked.}
+{718}{slk33a}{Ideje lenni kis gyÃ³gyfÃ¼vezÃ©shez. MÃ©g inkÃ¡bb nekÃ¼nk.}
+{719}{slk33b}{Olyan, mint terv. Hihetetlen rossz dolgok kÃ¶vetni tÃ©gedet.}
+{720}{slk33c}{Sok szerencsÃ©t, span! Mi gondolni neked szÃ¼ksÃ©g lenni rÃ¡.}
 {721}{slk34a}{Mi lenni itt.}
-{722}{slk34b}{Tartni fogunk kis szünetet, beszélni Vén-csonttal. Nem menni sehova!}
-{723}{slk34c}{Ez jó helynek t?nik kis pihenéshez.}
-{724}{slk35a}{Hé, haver! Csak mondani nekünk eriggyünk útból!}
-{725}{slk35b}{Sajnálom, barát.}
-{726}{slk35c}{Érted menni, nem gond.}
-{727}{slk36a}{Megcsinálni!}
-{728}{slk36b}{Vén-csont is mondani ugyaneztet.}
+{722}{slk34b}{Tartni fogunk kis szÃ¼netet, beszÃ©lni VÃ©n-csonttal. Nem menni sehova!}
+{723}{slk34c}{Ez jÃ³ helynek t?nik kis pihenÃ©shez.}
+{724}{slk35a}{HÃ©, haver! Csak mondani nekÃ¼nk eriggyÃ¼nk ÃºtbÃ³l!}
+{725}{slk35b}{SajnÃ¡lom, barÃ¡t.}
+{726}{slk35c}{Ã‰rted menni, nem gond.}
+{727}{slk36a}{MegcsinÃ¡lni!}
+{728}{slk36b}{VÃ©n-csont is mondani ugyaneztet.}
 {729}{slk36c}{Sok harc. Kell jobb fegyver!}
-{730}{slk37a}{Szellemek is segíteni. Az meg páncél körülötted majdnem elég.}
-{731}{slk37b}{Jó ötlet. Úgy elintézni dühös emberek, mint legyeket a légycsapó.}
+{730}{slk37a}{Szellemek is segÃ­teni. Az meg pÃ¡ncÃ©l kÃ¶rÃ¼lÃ¶tted majdnem elÃ©g.}
+{731}{slk37b}{JÃ³ Ã¶tlet. Ãšgy elintÃ©zni dÃ¼hÃ¶s emberek, mint legyeket a lÃ©gycsapÃ³.}
 {732}{slk37c}{Teveled minden kell, amit meg tudunk szerezni.}
-{733}{slk37d}{Túl nehéz lenni, haver! Mi szeretnénk maradni távol rossz dolgoktól.}
+{733}{slk37d}{TÃºl nehÃ©z lenni, haver! Mi szeretnÃ©nk maradni tÃ¡vol rossz dolgoktÃ³l.}
 {734}{slk38a}{Kellett, megkaptad.}
-{735}{slk38b}{Csináljuk!}
-{736}{slk38c}{Csere nem lenni gond, haver. De csak lenni egyetlen Vén-csont. Bocs.}
-{737}{slk39a}{Az jó dolog, barát.}
+{735}{slk38b}{CsinÃ¡ljuk!}
+{736}{slk38c}{Csere nem lenni gond, haver. De csak lenni egyetlen VÃ©n-csont. Bocs.}
+{737}{slk39a}{Az jÃ³ dolog, barÃ¡t.}
 {738}{slk39b}{Meglesz!}
-{739}{slk39c}{Mi nem akarni viselkedni, mint kislány, de...}
-{740}{slk39d}{Nincs probléma, haver! Mi lenni er?s!}
+{739}{slk39c}{Mi nem akarni viselkedni, mint kislÃ¡ny, de...}
+{740}{slk39d}{Nincs problÃ©ma, haver! Mi lenni er?s!}
 {741}{slk39e}{Szellemek ?rizni minket. Mi lenni rendben.}
-{742}{slk40a}{Mi körbenézni.}
-{743}{slk40b}{Vén-csont mondani, mi lenni óvatos!}
+{742}{slk40a}{Mi kÃ¶rbenÃ©zni.}
+{743}{slk40b}{VÃ©n-csont mondani, mi lenni Ã³vatos!}
 {744}{slk40c}{Nem lenni gond! Ebben lenni biztos, hogy nem gond.}
-{745}{slk41a}{Mostantól te adni kett? vagy egy cseretárgy... Csak vicc lenni! Vén-csont mondani te mókáson nézni ki... mint az.}
-{746}{slk41b}{Hangozni jól!}
-{747}{slk41c}{Ami lenni miénk, lenni tied is, barát.}
-{750}{slk42}{Mi köszönni neked. Te próbál csinálni jó dolog, csak nem lenni lóvé. Tudnál adni többet?}
-{751}{}{Öö.}
-{752}{}{Bocsi, bizonyára elszámoltam. Viszlát!}
-{753}{}{Azt hiszem, elég volt. Bocs. Hadd kérdezzek valamit!}
-{754}{slk43a}{Ja. Mi adni oda ezt Maidának. Akkor mi lenni szabadok. Te akarja, hogy menni veled?}
-{755}{slk43b}{Ja. Te lenni csúnya kívülr?l, de te lenni frankó belülr?l. Mi lenni szabadok, megkeresni húgicát mostan akkor.}
-{756}{slk43c}{Ó, ja. Marha jó! Mi mennénk veled, de neked már lenni egész csapat.}
-{757}{}{Nauh-úoh.}
+{745}{slk41a}{MostantÃ³l te adni kett? vagy egy cseretÃ¡rgy... Csak vicc lenni! VÃ©n-csont mondani te mÃ³kÃ¡son nÃ©zni ki... mint az.}
+{746}{slk41b}{Hangozni jÃ³l!}
+{747}{slk41c}{Ami lenni miÃ©nk, lenni tied is, barÃ¡t.}
+{750}{slk42}{Mi kÃ¶szÃ¶nni neked. Te prÃ³bÃ¡l csinÃ¡lni jÃ³ dolog, csak nem lenni lÃ³vÃ©. TudnÃ¡l adni tÃ¶bbet?}
+{751}{}{Ã–Ã¶.}
+{752}{}{Bocsi, bizonyÃ¡ra elszÃ¡moltam. ViszlÃ¡t!}
+{753}{}{Azt hiszem, elÃ©g volt. Bocs. Hadd kÃ©rdezzek valamit!}
+{754}{slk43a}{Ja. Mi adni oda ezt MaidÃ¡nak. Akkor mi lenni szabadok. Te akarja, hogy menni veled?}
+{755}{slk43b}{Ja. Te lenni csÃºnya kÃ­vÃ¼lr?l, de te lenni frankÃ³ belÃ¼lr?l. Mi lenni szabadok, megkeresni hÃºgicÃ¡t mostan akkor.}
+{756}{slk43c}{Ã“, ja. Marha jÃ³! Mi mennÃ©nk veled, de neked mÃ¡r lenni egÃ©sz csapat.}
+{757}{}{Nauh-Ãºoh.}
 {758}{}{Aha.}
-{759}{}{Kösz, most nem.}
+{759}{}{KÃ¶sz, most nem.}
 {760}{}{Az nagyszer? lenne.}
-{761}{slk44a}{Mi tudni sok-sok dolog. Utazás Nagy sóstótól harapós gyíkok földjére.}
-{762}{slk44b}{Mi örömmel válaszolni.}
-{763}{}{Mondj valamit a Nagy sóstóról!}
-{764}{}{Harapós gyíkok?}
-{766}{}{Miért utazgattál olyan sokat?}
-{767}{}{Mit csinálsz itt?}
-{768}{}{Néhány helyi információ érdekelne.}
-{769}{}{Szeretnél velem jönni? Lehet, hogy megleljük a testvéred is az utazásaim során.}
-{770}{}{Egyel?re másra nem vagyok kíváncsi, úgy érzem.}
-{771}{slk45}{Törzs lakni Nagy sóstó mellett. Két holdra innen, haver!}
-{772}{}{Feltennék még kérdéseket.}
+{761}{slk44a}{Mi tudni sok-sok dolog. UtazÃ¡s Nagy sÃ³stÃ³tÃ³l harapÃ³s gyÃ­kok fÃ¶ldjÃ©re.}
+{762}{slk44b}{Mi Ã¶rÃ¶mmel vÃ¡laszolni.}
+{763}{}{Mondj valamit a Nagy sÃ³stÃ³rÃ³l!}
+{764}{}{HarapÃ³s gyÃ­kok?}
+{766}{}{MiÃ©rt utazgattÃ¡l olyan sokat?}
+{767}{}{Mit csinÃ¡lsz itt?}
+{768}{}{NÃ©hÃ¡ny helyi informÃ¡ciÃ³ Ã©rdekelne.}
+{769}{}{SzeretnÃ©l velem jÃ¶nni? Lehet, hogy megleljÃ¼k a testvÃ©red is az utazÃ¡saim sorÃ¡n.}
+{770}{}{Egyel?re mÃ¡sra nem vagyok kÃ­vÃ¡ncsi, Ãºgy Ã©rzem.}
+{771}{slk45}{TÃ¶rzs lakni Nagy sÃ³stÃ³ mellett. KÃ©t holdra innen, haver!}
+{772}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {773}{}{Two moons? That's a long ways. How did you travel so far safely?}
-{774}{}{Most egyel?re ennyi. Ég veled!}
-{775}{slk46}{Gekkók. Kisebbek nem marni nagy. Azok aranygekkók. Úgy harapni át lábat, mintha lenni papírból!}
-{776}{slk47}{Keresked? Vicnek itt kellene lenni. ? mondani tudni rabszolga-keresked?kr?l. Mi jönni, de nem látni ?t sehol, nagyon mérges lenni.}
-{777}{}{Vic itt van, de nem hinnén, hogy sokat tudna a rabszolgákról. Mármint azokonn kívül, akiket Rejtekben tartanak fogva. Mondj valami mást!}
-{778}{}{Viszlát!}
-{779}{slk48a}{Keresked?k elkapni húgocska. Gondolni Vicnek lenni információ. Nem találni, aztán berúgni, mint állat. Düh és káosz szellemek felt?nni és most mi fizetni pénzt, hogy jóvátenni.}
-{780}{slk48b}{Mi próbálni tudni hova vinni húgit keresked?k. Talán dél.}
-{781}{slk48c}{Gyerünk keresni húgica! Gondolni menni délre, de nem lenni biztos még. Te akarni társaság?}
+{774}{}{Most egyel?re ennyi. Ã‰g veled!}
+{775}{slk46}{GekkÃ³k. Kisebbek nem marni nagy. Azok aranygekkÃ³k. Ãšgy harapni Ã¡t lÃ¡bat, mintha lenni papÃ­rbÃ³l!}
+{776}{slk47}{Keresked? Vicnek itt kellene lenni. ? mondani tudni rabszolga-keresked?kr?l. Mi jÃ¶nni, de nem lÃ¡tni ?t sehol, nagyon mÃ©rges lenni.}
+{777}{}{Vic itt van, de nem hinnÃ©n, hogy sokat tudna a rabszolgÃ¡krÃ³l. MÃ¡rmint azokonn kÃ­vÃ¼l, akiket Rejtekben tartanak fogva. Mondj valami mÃ¡st!}
+{778}{}{ViszlÃ¡t!}
+{779}{slk48a}{Keresked?k elkapni hÃºgocska. Gondolni Vicnek lenni informÃ¡ciÃ³. Nem talÃ¡lni, aztÃ¡n berÃºgni, mint Ã¡llat. DÃ¼h Ã©s kÃ¡osz szellemek felt?nni Ã©s most mi fizetni pÃ©nzt, hogy jÃ³vÃ¡tenni.}
+{780}{slk48b}{Mi prÃ³bÃ¡lni tudni hova vinni hÃºgit keresked?k. TalÃ¡n dÃ©l.}
+{781}{slk48c}{GyerÃ¼nk keresni hÃºgica! Gondolni menni dÃ©lre, de nem lenni biztos mÃ©g. Te akarni tÃ¡rsasÃ¡g?}
 {782}{}{Vicet, a keresked?t keresed?}
-{783}{}{Ki kell fizetned a kárt?}
-{784}{}{Ú! Ú, uh!}
-{785}{}{Dél felé tartok. Gyere velem, ha akarsz!}
-{786}{}{A húgodat keresed?}
-{787}{slk50}{Span, minden szellem járni velem, nem félni, menni akárhova!}
-{790}{slk52a}{Te járni rossz hírben. Vén-csont mondani sok rossz karma gy?lni össze nem messze t?led.}
-{791}{slk52b}{Mi lenni ott. Vén-csont mondani, mi talán megtalálni húgocska veled.}
-{792}{}{Öö.}
-{793}{}{Remélem. Ebben az esetben örülök, hogy együtt utazhatok veled és... a... a... nagyapád csontjával.}
-{794}{slk53}{Nem csak Vén-csont, minden törzsi szellemek. Vén-csont csak lenni bölcsebb és er?sebb, mint többiek. Csillapítani le!}
-{795}{}{Ööö, ja. Rendben, Sulik.}
-{796}{slk54}{Mi mit tenni érted?}
-{797}{}{Feltennék néhány kérdést.}
-{798}{}{Hol találok keresked?t, gyógyítót vagy egy kiadó szobát?}
-{799}{}{Hallottál már valaha az ÉLET-r?l?}
-{800}{}{Mi történik ebben a városban?}
-{801}{}{Mit csinálsz itt?}
-{802}{}{Most, hogy már szabad vagy, miért nem jössz velem?}
-{803}{}{Nincs már semmi másra szükségem ebben a pillanatban. A viszontlátásra!}
-{804}{slk55}{Mennyi kérdés! Maida foglalkozni kereskedelem itt és anyja, Ardin foglalkozni szoba. Nem lenni sámán városban, de talán lehet cserélni gyógyszer.}
-{805}{}{Óh, kösz! Akkor hadd kérdezzek valami mást!}
-{806}{}{Úgy vélem, most elég lesz ennyi tudnivaló is. Sok szerencsét!}
-{807}{slk56}{Soha nem hallani róla. De Maida tartani minket szorosan.}
+{783}{}{Ki kell fizetned a kÃ¡rt?}
+{784}{}{Ãš! Ãš, uh!}
+{785}{}{DÃ©l felÃ© tartok. Gyere velem, ha akarsz!}
+{786}{}{A hÃºgodat keresed?}
+{787}{slk50}{Span, minden szellem jÃ¡rni velem, nem fÃ©lni, menni akÃ¡rhova!}
+{790}{slk52a}{Te jÃ¡rni rossz hÃ­rben. VÃ©n-csont mondani sok rossz karma gy?lni Ã¶ssze nem messze t?led.}
+{791}{slk52b}{Mi lenni ott. VÃ©n-csont mondani, mi talÃ¡n megtalÃ¡lni hÃºgocska veled.}
+{792}{}{Ã–Ã¶.}
+{793}{}{RemÃ©lem. Ebben az esetben Ã¶rÃ¼lÃ¶k, hogy egyÃ¼tt utazhatok veled Ã©s... a... a... nagyapÃ¡d csontjÃ¡val.}
+{794}{slk53}{Nem csak VÃ©n-csont, minden tÃ¶rzsi szellemek. VÃ©n-csont csak lenni bÃ¶lcsebb Ã©s er?sebb, mint tÃ¶bbiek. CsillapÃ­tani le!}
+{795}{}{Ã–Ã¶Ã¶, ja. Rendben, Sulik.}
+{796}{slk54}{Mi mit tenni Ã©rted?}
+{797}{}{FeltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{798}{}{Hol talÃ¡lok keresked?t, gyÃ³gyÃ­tÃ³t vagy egy kiadÃ³ szobÃ¡t?}
+{799}{}{HallottÃ¡l mÃ¡r valaha az Ã‰LET-r?l?}
+{800}{}{Mi tÃ¶rtÃ©nik ebben a vÃ¡rosban?}
+{801}{}{Mit csinÃ¡lsz itt?}
+{802}{}{Most, hogy mÃ¡r szabad vagy, miÃ©rt nem jÃ¶ssz velem?}
+{803}{}{Nincs mÃ¡r semmi mÃ¡sra szÃ¼ksÃ©gem ebben a pillanatban. A viszontlÃ¡tÃ¡sra!}
+{804}{slk55}{Mennyi kÃ©rdÃ©s! Maida foglalkozni kereskedelem itt Ã©s anyja, Ardin foglalkozni szoba. Nem lenni sÃ¡mÃ¡n vÃ¡rosban, de talÃ¡n lehet cserÃ©lni gyÃ³gyszer.}
+{805}{}{Ã“h, kÃ¶sz! Akkor hadd kÃ©rdezzek valami mÃ¡st!}
+{806}{}{Ãšgy vÃ©lem, most elÃ©g lesz ennyi tudnivalÃ³ is. Sok szerencsÃ©t!}
+{807}{slk56}{Soha nem hallani rÃ³la. De Maida tartani minket szorosan.}
 {808}{}{Ki az a Maida?}
-{809}{}{Óh, hát engedd meg, hogy kérdezzek valami mást.}
-{810}{}{Nos, akkor talán nem is zavarnálak. Viszlát!}
-{811}{slk57a}{Rohanó hely! Marha állománya apad, a szellem halad, Smiley nincs.}
-{812}{slk57b}{?rült város! Marha állománya apad, a szellem halad, Smiley nincs. Most már Torr se lenni.}
-{813}{slk57c}{Neked lenni kérdésed Sulikhoz?}
-{814}{}{Miért "apad a marha"?}
+{809}{}{Ã“h, hÃ¡t engedd meg, hogy kÃ©rdezzek valami mÃ¡st.}
+{810}{}{Nos, akkor talÃ¡n nem is zavarnÃ¡lak. ViszlÃ¡t!}
+{811}{slk57a}{RohanÃ³ hely! Marha Ã¡llomÃ¡nya apad, a szellem halad, Smiley nincs.}
+{812}{slk57b}{?rÃ¼lt vÃ¡ros! Marha Ã¡llomÃ¡nya apad, a szellem halad, Smiley nincs. Most mÃ¡r Torr se lenni.}
+{813}{slk57c}{Neked lenni kÃ©rdÃ©sed Sulikhoz?}
+{814}{}{MiÃ©rt "apad a marha"?}
 {815}{}{"A szellem halad"? Hogy is van ez?}
 {816}{}{Smiley? Ki az a Smiley?}
 {817}{}{Torr elt?nt? Hova mehetett, mit gondolsz?}
-{818}{}{Hadd kérdezzek valami mást.}
-{819}{}{Most egyel?re másra nem is lennék kíváncsi. Légy jó!}
-{820}{slk58alt}{Mi lenni jók ököl, lándzsa, nagy kalapács és géppisztoly. Mi lenni ügyes!}
-{821}{slk59}{Torr mesélni nekünk tolvajokról, kik két lábon járni és brahmint lopni. Keresni meg!}
-{822}{}{Érdekes! Még kérdezek valami mást is.}
-{823}{}{Úgy vélem, most elég lesz ennyi tudnivaló is. Sok szerencsét!}
-{824}{slk60}{Keleti kanyon legel?jén állítólag lenni járkáló, üv?lt? szellem. Ijesztegetni a helyieket. Vén-csont se szólni szót se.}
-{825}{slk61}{Smiley lenni jó vadász. Mondani ? keresni aranygekkók fészke. Nem jönni vissza.}
-{830}{slk62a}{Ahol a kvarkogó kövek lakni, követni ösvényt, amit te nem látni.}
-{831}{slk62b}{Szél járni titkos helyekre.}
-{832}{slk62c}{Keresni látványt, ami nem tartozni oda!}
-{833}{slk62d}{Minél hosszabb lenni helye, annál hosszabb lenni eleje.}
-{834}{slk62e}{Állóvizek nem mindig állni.}
-{835}{slk62f}{Egy virág szirmait napra tárni ki. Keresni, ami olyan, mint virág!}
-{836}{slk62g}{Az az ajtó, mi nem mindig vezetni valahova. Ez az, mi egy ajtó nem csinálni!}
-{837}{slk62h}{Keresni a saját tükörkép! Ösvény ekkor megnyílni el?tted.}
-{838}{slk62i}{Szomszéd kertje lenni mindig zöldesebb, de el?bb kell megtalálni kert és kerítés.}
-{839}{slk62j}{Találni több k?, mint l?szer.}
-{840}{slk63a}{Ajtó lenni az egyetlen út a túloldalra.}
-{841}{slk63b}{Van, amikor kell beszélni és van, amikor kell hallgatni.}
-{842}{slk63c}{Nem mindig leghangosabb válasz lenni legjobb.}
-{843}{slk63d}{Még legkisebb agy is rendelkezni tudás.}
-{844}{slk63e}{Miután megölni valamit, az már többet nem beszélni.}
-{845}{slk63f}{Ha elromolni, akkor valaha m?ködni.}
-{846}{slk63g}{Segédeszközöknek lenni furcsa kinézete.}
-{847}{slk63h}{Nem kovács süti kenyért.}
-{848}{slk63i}{Nem kérdezni azt, akit mindennap látni.}
-{849}{slk63j}{Ha várni elég soká, legtöbb függ?ség gyógyulni magától.}
-{850}{slk63k}{Megölni jó embert mocskolni lelked,.. egyes emberek érezni ezt.}
-{851}{slk63l}{Megölni rossz embert jó lenni karmádnak... egyes emberek tudni ezt.}
-{852}{slk63m}{Jó tetteket ritkán felejteni el.}
-{860}{slk64a}{Zöld hozni szerencse.}
-{861}{slk64b}{Most egy kicsikét halkabban!}
-{862}{slk64c}{Nézni, miel?tt esni.}
-{863}{slk64d}{Egy tarajos sül nem lenni párna.}
-{864}{slk64e}{Hova t?nni árnyék a sötétben?}
+{818}{}{Hadd kÃ©rdezzek valami mÃ¡st.}
+{819}{}{Most egyel?re mÃ¡sra nem is lennÃ©k kÃ­vÃ¡ncsi. LÃ©gy jÃ³!}
+{820}{slk58alt}{Mi lenni jÃ³k Ã¶kÃ¶l, lÃ¡ndzsa, nagy kalapÃ¡cs Ã©s gÃ©ppisztoly. Mi lenni Ã¼gyes!}
+{821}{slk59}{Torr mesÃ©lni nekÃ¼nk tolvajokrÃ³l, kik kÃ©t lÃ¡bon jÃ¡rni Ã©s brahmint lopni. Keresni meg!}
+{822}{}{Ã‰rdekes! MÃ©g kÃ©rdezek valami mÃ¡st is.}
+{823}{}{Ãšgy vÃ©lem, most elÃ©g lesz ennyi tudnivalÃ³ is. Sok szerencsÃ©t!}
+{824}{slk60}{Keleti kanyon legel?jÃ©n Ã¡llÃ­tÃ³lag lenni jÃ¡rkÃ¡lÃ³, Ã¼v?lt? szellem. Ijesztegetni a helyieket. VÃ©n-csont se szÃ³lni szÃ³t se.}
+{825}{slk61}{Smiley lenni jÃ³ vadÃ¡sz. Mondani ? keresni aranygekkÃ³k fÃ©szke. Nem jÃ¶nni vissza.}
+{830}{slk62a}{Ahol a kvarkogÃ³ kÃ¶vek lakni, kÃ¶vetni Ã¶svÃ©nyt, amit te nem lÃ¡tni.}
+{831}{slk62b}{SzÃ©l jÃ¡rni titkos helyekre.}
+{832}{slk62c}{Keresni lÃ¡tvÃ¡nyt, ami nem tartozni oda!}
+{833}{slk62d}{MinÃ©l hosszabb lenni helye, annÃ¡l hosszabb lenni eleje.}
+{834}{slk62e}{ÃllÃ³vizek nem mindig Ã¡llni.}
+{835}{slk62f}{Egy virÃ¡g szirmait napra tÃ¡rni ki. Keresni, ami olyan, mint virÃ¡g!}
+{836}{slk62g}{Az az ajtÃ³, mi nem mindig vezetni valahova. Ez az, mi egy ajtÃ³ nem csinÃ¡lni!}
+{837}{slk62h}{Keresni a sajÃ¡t tÃ¼kÃ¶rkÃ©p! Ã–svÃ©ny ekkor megnyÃ­lni el?tted.}
+{838}{slk62i}{SzomszÃ©d kertje lenni mindig zÃ¶ldesebb, de el?bb kell megtalÃ¡lni kert Ã©s kerÃ­tÃ©s.}
+{839}{slk62j}{TalÃ¡lni tÃ¶bb k?, mint l?szer.}
+{840}{slk63a}{AjtÃ³ lenni az egyetlen Ãºt a tÃºloldalra.}
+{841}{slk63b}{Van, amikor kell beszÃ©lni Ã©s van, amikor kell hallgatni.}
+{842}{slk63c}{Nem mindig leghangosabb vÃ¡lasz lenni legjobb.}
+{843}{slk63d}{MÃ©g legkisebb agy is rendelkezni tudÃ¡s.}
+{844}{slk63e}{MiutÃ¡n megÃ¶lni valamit, az mÃ¡r tÃ¶bbet nem beszÃ©lni.}
+{845}{slk63f}{Ha elromolni, akkor valaha m?kÃ¶dni.}
+{846}{slk63g}{SegÃ©deszkÃ¶zÃ¶knek lenni furcsa kinÃ©zete.}
+{847}{slk63h}{Nem kovÃ¡cs sÃ¼ti kenyÃ©rt.}
+{848}{slk63i}{Nem kÃ©rdezni azt, akit mindennap lÃ¡tni.}
+{849}{slk63j}{Ha vÃ¡rni elÃ©g sokÃ¡, legtÃ¶bb fÃ¼gg?sÃ©g gyÃ³gyulni magÃ¡tÃ³l.}
+{850}{slk63k}{MegÃ¶lni jÃ³ embert mocskolni lelked,.. egyes emberek Ã©rezni ezt.}
+{851}{slk63l}{MegÃ¶lni rossz embert jÃ³ lenni karmÃ¡dnak... egyes emberek tudni ezt.}
+{852}{slk63m}{JÃ³ tetteket ritkÃ¡n felejteni el.}
+{860}{slk64a}{ZÃ¶ld hozni szerencse.}
+{861}{slk64b}{Most egy kicsikÃ©t halkabban!}
+{862}{slk64c}{NÃ©zni, miel?tt esni.}
+{863}{slk64d}{Egy tarajos sÃ¼l nem lenni pÃ¡rna.}
+{864}{slk64e}{Hova t?nni Ã¡rnyÃ©k a sÃ¶tÃ©tben?}
 {865}{slk64f}{Most egy kicsit hangosabban!}
-{866}{slk64g}{Gombák lenni rossz vacsora.}
-{867}{slk64h}{Könny? válni szellemé.}
-{868}{slk64i}{Kiáltani!}
-{869}{slk64j}{Hajszálak n?ni, víz folyni, de kövek csak maradni.}
-{870}{slk64k}{Amikor lemegy nap, akkor mi jön fel?}
+{866}{slk64g}{GombÃ¡k lenni rossz vacsora.}
+{867}{slk64h}{KÃ¶nny? vÃ¡lni szellemÃ©.}
+{868}{slk64i}{KiÃ¡ltani!}
+{869}{slk64j}{HajszÃ¡lak n?ni, vÃ­z folyni, de kÃ¶vek csak maradni.}
+{870}{slk64k}{Amikor lemegy nap, akkor mi jÃ¶n fel?}
 {880}{slk65}{Mi kellje neked?}
-{881}{}{Állj arrébb az útból!}
-{882}{}{Válts stratégiát!}
-{883}{}{Szeretném, ha itt várnál rám.}
-{884}{}{Meg kellene gyógyítanod magad!}
-{885}{}{Mondd el, hogy érzed magad!}
+{881}{}{Ãllj arrÃ©bb az ÃºtbÃ³l!}
+{882}{}{VÃ¡lts stratÃ©giÃ¡t!}
+{883}{}{SzeretnÃ©m, ha itt vÃ¡rnÃ¡l rÃ¡m.}
+{884}{}{Meg kellene gyÃ³gyÃ­tanod magad!}
+{885}{}{Mondd el, hogy Ã©rzed magad!}
 {886}{}{Egyel?re ennyi lenne, Sulik.}
 {887}{}{Mondj valamit err?l a helyr?l!}
-{890}{slk66}{Mi lenni harci stratégia?}
-{891}{}{Azt akarom, hogy változtassunk a távolságon.}
-{892}{}{Azt akarom, hogy a legjobb fegyveredet használd.}
-{893}{}{Használd a legjobb véd?öltözéked!}
-{894}{}{Harcolj másképp!}
-{895}{}{Értem.}
-{900}{slk67}{Milyen távolság kell teneked?}
-{901}{}{Maradj hozzám közel!}
-{902}{}{Menj t?lem közepes távolságra!}
-{903}{}{Állj a legmesszebbre t?lem!}
-{904}{}{Deríts fel el?ttem!}
-{905}{slk68}{Hogy akarni mi küzdjünk?}
-{906}{}{Most csak védd meg magad!}
-{907}{}{Küzdj úgy, ahogy szoktál!}
-{908}{}{Harcolj a legdurvábban!}
-{910}{slk69}{Egy túlél?. Fickó volt rossz formába'. Mondani gonosz harcosok jönni varázsfáklyákkal. T?z megperzselni törzsi harcosokat és azok válni szellemekké.}
-{911}{}{Mi történt a húgoddal?}
-{912}{slk69a}{Gonosz harcosok elintézni többieket és paff, elt?nni. Húgi lenni náluk. Haver, meg kell találni vagy Sulik menten beledögleni!}
-{913}{}{Nekem rabszolga-vadászoknak t?nnek. Sikerült kideríteni valamit róluk?}
-{914}{}{Szomorú vagyok, hogy ezt hallom. Remélem, mihamarabb megtalálod. Akkor inkább hadd kérdezzek valami mást!}
-{915}{}{Nagyjából ennyi érdekelt volna most. Agy?!}
-{916}{slk70a}{Mintha lenni hangyaboly. Túl sok mindenki lenni itt!}
-{917}{slk70b}{Mi törzsünk ennél lenni sokkal kisebb. Túl sok ember lenni erre az útra.}
-{918}{slk70c}{Neked megvan saját hadsereg. Nem kell neked a mi segítség.}
-{919}{slk71}{Mi gondolni te lenni gonosz. N?ni feketeség lelkedben. Menni kell. Viszlát!}
-{920}{slk72}{Gondolni birtokolni emberek? Barátom. Leléptünk!}
-{921}{slk73a}{Túl sok gond lenni neked emberekkel. Mi menni el, amíg megoldani eztet.}
-{922}{slk73b}{Te lenni, mint rossz álom. El kell menni!}
-{923}{slk74}{Nem lenni barátok gyerekgyilkosnak!}
-{924}{slk75}{Mi gondolni te csinálni nagy hiba, de rendbe'.}
-{925}{slk76}{Mi hallani te segíteni Torrnak. ? veszíteni megint brahmin lenni nagy goond.}
-{926}{}{Öh?}
-{927}{}{Úhh. Csá!}
-{928}{}{Nos, tényleg úgy t?nt, mint akinek segítségre lenne szüksége. Van egy-két kérdésem hozzád.}
-{929}{}{Igen, szüksége van segítségre. Kellene pár helyi jelleg? információ.}
-{930}{}{Torrnak kell némi segítség. Jobb lesz, ha megyek is. Szevasz!}
-{931}{slk77}{Mi hallani, te nem tudni segíteni Torrnak. Nem jó, neki kell komolyabb ember.}
-{932}{}{Nos, folyamatban van. Bár kellene még egy-két infó.}
-{933}{}{Én tényleg próbáltam segíteni neki. Nagyon sajnálom, de nem tudtam. Ég veled!}
-{934}{}{Hát, ? egy idióta, a francot sem érdekli, hogy mi lesz vele... Ágy?!}
-{935}{slk78}{Remélni megtalálni Torrt. Neki kelleni segítség.}
+{890}{slk66}{Mi lenni harci stratÃ©gia?}
+{891}{}{Azt akarom, hogy vÃ¡ltoztassunk a tÃ¡volsÃ¡gon.}
+{892}{}{Azt akarom, hogy a legjobb fegyveredet hasznÃ¡ld.}
+{893}{}{HasznÃ¡ld a legjobb vÃ©d?Ã¶ltÃ¶zÃ©ked!}
+{894}{}{Harcolj mÃ¡skÃ©pp!}
+{895}{}{Ã‰rtem.}
+{900}{slk67}{Milyen tÃ¡volsÃ¡g kell teneked?}
+{901}{}{Maradj hozzÃ¡m kÃ¶zel!}
+{902}{}{Menj t?lem kÃ¶zepes tÃ¡volsÃ¡gra!}
+{903}{}{Ãllj a legmesszebbre t?lem!}
+{904}{}{DerÃ­ts fel el?ttem!}
+{905}{slk68}{Hogy akarni mi kÃ¼zdjÃ¼nk?}
+{906}{}{Most csak vÃ©dd meg magad!}
+{907}{}{KÃ¼zdj Ãºgy, ahogy szoktÃ¡l!}
+{908}{}{Harcolj a legdurvÃ¡bban!}
+{910}{slk69}{Egy tÃºlÃ©l?. FickÃ³ volt rossz formÃ¡ba'. Mondani gonosz harcosok jÃ¶nni varÃ¡zsfÃ¡klyÃ¡kkal. T?z megperzselni tÃ¶rzsi harcosokat Ã©s azok vÃ¡lni szellemekkÃ©.}
+{911}{}{Mi tÃ¶rtÃ©nt a hÃºgoddal?}
+{912}{slk69a}{Gonosz harcosok elintÃ©zni tÃ¶bbieket Ã©s paff, elt?nni. HÃºgi lenni nÃ¡luk. Haver, meg kell talÃ¡lni vagy Sulik menten beledÃ¶gleni!}
+{913}{}{Nekem rabszolga-vadÃ¡szoknak t?nnek. SikerÃ¼lt kiderÃ­teni valamit rÃ³luk?}
+{914}{}{SzomorÃº vagyok, hogy ezt hallom. RemÃ©lem, mihamarabb megtalÃ¡lod. Akkor inkÃ¡bb hadd kÃ©rdezzek valami mÃ¡st!}
+{915}{}{NagyjÃ¡bÃ³l ennyi Ã©rdekelt volna most. Agy?!}
+{916}{slk70a}{Mintha lenni hangyaboly. TÃºl sok mindenki lenni itt!}
+{917}{slk70b}{Mi tÃ¶rzsÃ¼nk ennÃ©l lenni sokkal kisebb. TÃºl sok ember lenni erre az Ãºtra.}
+{918}{slk70c}{Neked megvan sajÃ¡t hadsereg. Nem kell neked a mi segÃ­tsÃ©g.}
+{919}{slk71}{Mi gondolni te lenni gonosz. N?ni feketesÃ©g lelkedben. Menni kell. ViszlÃ¡t!}
+{920}{slk72}{Gondolni birtokolni emberek? BarÃ¡tom. LelÃ©ptÃ¼nk!}
+{921}{slk73a}{TÃºl sok gond lenni neked emberekkel. Mi menni el, amÃ­g megoldani eztet.}
+{922}{slk73b}{Te lenni, mint rossz Ã¡lom. El kell menni!}
+{923}{slk74}{Nem lenni barÃ¡tok gyerekgyilkosnak!}
+{924}{slk75}{Mi gondolni te csinÃ¡lni nagy hiba, de rendbe'.}
+{925}{slk76}{Mi hallani te segÃ­teni Torrnak. ? veszÃ­teni megint brahmin lenni nagy goond.}
+{926}{}{Ã–h?}
+{927}{}{Ãšhh. CsÃ¡!}
+{928}{}{Nos, tÃ©nyleg Ãºgy t?nt, mint akinek segÃ­tsÃ©gre lenne szÃ¼ksÃ©ge. Van egy-kÃ©t kÃ©rdÃ©sem hozzÃ¡d.}
+{929}{}{Igen, szÃ¼ksÃ©ge van segÃ­tsÃ©gre. Kellene pÃ¡r helyi jelleg? informÃ¡ciÃ³.}
+{930}{}{Torrnak kell nÃ©mi segÃ­tsÃ©g. Jobb lesz, ha megyek is. Szevasz!}
+{931}{slk77}{Mi hallani, te nem tudni segÃ­teni Torrnak. Nem jÃ³, neki kell komolyabb ember.}
+{932}{}{Nos, folyamatban van. BÃ¡r kellene mÃ©g egy-kÃ©t infÃ³.}
+{933}{}{Ã‰n tÃ©nyleg prÃ³bÃ¡ltam segÃ­teni neki. Nagyon sajnÃ¡lom, de nem tudtam. Ã‰g veled!}
+{934}{}{HÃ¡t, ? egy idiÃ³ta, a francot sem Ã©rdekli, hogy mi lesz vele... Ãgy?!}
+{935}{slk78}{RemÃ©lni megtalÃ¡lni Torrt. Neki kelleni segÃ­tsÃ©g.}
 {936}{}{Hova ment Torr?}
-{937}{}{Sajnálom, de Torr elt?nt. De azért kérdeznék még t?led pár dolgot.}
-{938}{}{Szeretnék segíteni Torrnak, de most éppen nem érek rá. Tiszteletem!}
-{939}{}{Torr egy hülye balfasz! Senki sem tudna Torrnak segíteni! Elhúztam!}
-{940}{slk79}{Mi hallani ?t beszélni gyilkos kísértet szellemr?l. Próbálni meg bátornak lenni.}
-{941}{}{"Kísértet szellem"?}
-{942}{}{Nahát! Szellemek? Ez ijeszt?en hangzik. Leléptem!}
-{943}{slk80}{Keletre a brahminok legel?jét?l lenni kanyon. Mi hallani néhány holddal ezel?tt villámlás lenni és dörgés... felh?k nélkül! Gonosz szellemek érkezni él?k földjére.}
-{944}{}{Igazán?}
-{945}{slk80a}{Helyiek kezdeni hallani furcsa hangok. Nem szellemek tenni ezt, mondani mi. Néhányan mégis látni valamit ott. Szellemlény soha nem viselni emberi alak!}
-{946}{}{Húha.}
+{937}{}{SajnÃ¡lom, de Torr elt?nt. De azÃ©rt kÃ©rdeznÃ©k mÃ©g t?led pÃ¡r dolgot.}
+{938}{}{SzeretnÃ©k segÃ­teni Torrnak, de most Ã©ppen nem Ã©rek rÃ¡. Tiszteletem!}
+{939}{}{Torr egy hÃ¼lye balfasz! Senki sem tudna Torrnak segÃ­teni! ElhÃºztam!}
+{940}{slk79}{Mi hallani ?t beszÃ©lni gyilkos kÃ­sÃ©rtet szellemr?l. PrÃ³bÃ¡lni meg bÃ¡tornak lenni.}
+{941}{}{"KÃ­sÃ©rtet szellem"?}
+{942}{}{NahÃ¡t! Szellemek? Ez ijeszt?en hangzik. LelÃ©ptem!}
+{943}{slk80}{Keletre a brahminok legel?jÃ©t?l lenni kanyon. Mi hallani nÃ©hÃ¡ny holddal ezel?tt villÃ¡mlÃ¡s lenni Ã©s dÃ¶rgÃ©s... felh?k nÃ©lkÃ¼l! Gonosz szellemek Ã©rkezni Ã©l?k fÃ¶ldjÃ©re.}
+{944}{}{IgazÃ¡n?}
+{945}{slk80a}{Helyiek kezdeni hallani furcsa hangok. Nem szellemek tenni ezt, mondani mi. NÃ©hÃ¡nyan mÃ©gis lÃ¡tni valamit ott. SzellemlÃ©ny soha nem viselni emberi alak!}
+{946}{}{HÃºha.}
 {947}{}{Sounds dangerous. What's Torr got to do with it?}
-{948}{slk80b}{Torr lenni rengeteg vicc célpontya. Ezért ? akarja találni és ölni meg rossz szellem, így lenni h?s. Mi gondolni, ? lenni bajban! Te segíteni Torrnak?}
-{949}{}{Hhhúha!}
+{948}{slk80b}{Torr lenni rengeteg vicc cÃ©lpontya. EzÃ©rt ? akarja talÃ¡lni Ã©s Ã¶lni meg rossz szellem, Ã­gy lenni h?s. Mi gondolni, ? lenni bajban! Te segÃ­teni Torrnak?}
+{949}{}{HhhÃºha!}
 {950}{}{Aha.}
 {951}{}{Azonnal meg is keresem!}
-{952}{}{Természetesen, segíteni fogok neki! De el?ször kell még némi információ.}
-{953}{}{Adnunk kellene neki egy kicsivel több id?t. Úgy nem lehet h?s bel?le, ha most közbelépünk. Talán fel tudnék használni egy-két helyi adatot.}
-{954}{}{Óúh, érdekes kis történet, de nem hiszem, hogy tudnék Torrnak segíteni. Nagyon nem érek rá. Minden jót!}
-{955}{slk81a}{Húgocskát megtalálni! Mi küldeni ?t haza. ? lenni er?s, megcsinálni könnyen. Mi akarni menni vele. Vén-csont mondani neked lenni sok-sok tapasztalat utazásban.}
+{952}{}{TermÃ©szetesen, segÃ­teni fogok neki! De el?szÃ¶r kell mÃ©g nÃ©mi informÃ¡ciÃ³.}
+{953}{}{Adnunk kellene neki egy kicsivel tÃ¶bb id?t. Ãšgy nem lehet h?s bel?le, ha most kÃ¶zbelÃ©pÃ¼nk. TalÃ¡n fel tudnÃ©k hasznÃ¡lni egy-kÃ©t helyi adatot.}
+{954}{}{Ã“Ãºh, Ã©rdekes kis tÃ¶rtÃ©net, de nem hiszem, hogy tudnÃ©k Torrnak segÃ­teni. Nagyon nem Ã©rek rÃ¡. Minden jÃ³t!}
+{955}{slk81a}{HÃºgocskÃ¡t megtalÃ¡lni! Mi kÃ¼ldeni ?t haza. ? lenni er?s, megcsinÃ¡lni kÃ¶nnyen. Mi akarni menni vele. VÃ©n-csont mondani neked lenni sok-sok tapasztalat utazÃ¡sban.}
 {956}{slk81b}{Te akkor megengedeni tartani veled?}
-{957}{}{Nauh-úoh.}
+{957}{}{Nauh-Ãºoh.}
 {958}{}{Aha.}
-{959}{}{Vissza kellene térned a faludba a húgoddal és biztonságba helyezni ?t. Hiányozni fogsz, Sulik!}
-{960}{}{Gyerünk, Sulik!}
-{961}{slk82a}{Ahogy telni id?, te lenni egyre jobb ember világban.}
-{962}{slk82b}{Span, te gondolkozni valaha, hogy lenni több rossz ember, mint töltény?}
-{963}{slk83a}{Csak szeretni látni hullákat belülr?l, ugye?}
-{964}{slk83b}{Vén-csont mondani, hogy nekem kellen aggódni, hogy nem lenni számodra legyilkolandó ember közelben.}
-{965}{slk84a}{Mi gondolni a te kis fejed csinálni minden gondolkodást.}
-{966}{slk84b}{Te tölteni túl sok id?t azzal a munkával.}
-{1016}{}{Mintha hangyaboly közepén lenni itten. Ez lenni túl zsúfolt nekünk.}
-{1017}{}{Mi törzsünk lenni ennél kisebb sokkal. Túl sok ember lenni erre az útra.}
-{1018}{}{Neked megvan saját hadsereg. Nem kell neked a mi segítség.}
-{1020}{}{Gondolni birtokolni emberek? Barátom. Leléptünk!}
-{1021}{}{Túl sok problémád lenni emberekkel. Amíg ezt megoldani, mi elhagyni tégedet.}
-{1023}{}{Nem lenni barátjai gyerekgyilkosnak.}
-{1025}{}{Te okozni bajt Klamathban. Elmentünk!}
+{959}{}{Vissza kellene tÃ©rned a faludba a hÃºgoddal Ã©s biztonsÃ¡gba helyezni ?t. HiÃ¡nyozni fogsz, Sulik!}
+{960}{}{GyerÃ¼nk, Sulik!}
+{961}{slk82a}{Ahogy telni id?, te lenni egyre jobb ember vilÃ¡gban.}
+{962}{slk82b}{Span, te gondolkozni valaha, hogy lenni tÃ¶bb rossz ember, mint tÃ¶ltÃ©ny?}
+{963}{slk83a}{Csak szeretni lÃ¡tni hullÃ¡kat belÃ¼lr?l, ugye?}
+{964}{slk83b}{VÃ©n-csont mondani, hogy nekem kellen aggÃ³dni, hogy nem lenni szÃ¡modra legyilkolandÃ³ ember kÃ¶zelben.}
+{965}{slk84a}{Mi gondolni a te kis fejed csinÃ¡lni minden gondolkodÃ¡st.}
+{966}{slk84b}{Te tÃ¶lteni tÃºl sok id?t azzal a munkÃ¡val.}
+{1016}{}{Mintha hangyaboly kÃ¶zepÃ©n lenni itten. Ez lenni tÃºl zsÃºfolt nekÃ¼nk.}
+{1017}{}{Mi tÃ¶rzsÃ¼nk lenni ennÃ©l kisebb sokkal. TÃºl sok ember lenni erre az Ãºtra.}
+{1018}{}{Neked megvan sajÃ¡t hadsereg. Nem kell neked a mi segÃ­tsÃ©g.}
+{1020}{}{Gondolni birtokolni emberek? BarÃ¡tom. LelÃ©ptÃ¼nk!}
+{1021}{}{TÃºl sok problÃ©mÃ¡d lenni emberekkel. AmÃ­g ezt megoldani, mi elhagyni tÃ©gedet.}
+{1023}{}{Nem lenni barÃ¡tjai gyerekgyilkosnak.}
+{1025}{}{Te okozni bajt Klamathban. ElmentÃ¼nk!}
 {1026}{}{You be causing trouble in my home village. We're gone.}
 {2300}{}{De spirits be movin' us.}
 {2301}{}{We and I be movin'.}
 {2302}{}{Nyugi, nyugi...}
 {2303}{}{Don' worry, We an' I be movin'.}
-{2304}{}{Mi gondolni neked kell szagolni virágok. Vén-csont mondani, te lenni túlságos törtet?. Kisebb kanállal kellene mérni életet.}
+{2304}{}{Mi gondolni neked kell szagolni virÃ¡gok. VÃ©n-csont mondani, te lenni tÃºlsÃ¡gos tÃ¶rtet?. Kisebb kanÃ¡llal kellene mÃ©rni Ã©letet.}
 {2305}{}{We be movin' an' groovin'.}
-{2306}{}{Most mi menni át ide.}
+{2306}{}{Most mi menni Ã¡t ide.}
 {2307}{}{Nyugi, lenni boldog, mi menni mostan.}
-{3000}{}{Északra.}
-{3001}{}{Észak-nyugatra.}
-{3002}{}{Nyugvó nap fele.}
-{3003}{}{Dél-nyugatra.}
-{3004}{}{Délre.}
-{3005}{}{Dél-keletre.}
-{3006}{}{Felkel? nap felé.}
-{3007}{}{Észak-keletre.}
+{3000}{}{Ã‰szakra.}
+{3001}{}{Ã‰szak-nyugatra.}
+{3002}{}{NyugvÃ³ nap fele.}
+{3003}{}{DÃ©l-nyugatra.}
+{3004}{}{DÃ©lre.}
+{3005}{}{DÃ©l-keletre.}
+{3006}{}{Felkel? nap felÃ©.}
+{3007}{}{Ã‰szak-keletre.}
 {3008}{}{We don't know anything about that.}
 {3009}{}{Igen.}
 {3010}{}{Nem.}
-{3011}{}{Mit várni t?lünk?}
-{3012}{}{Az nem lenni szép.}
-{3013}{}{Köszönöm!}
-{3014}{}{Ez bizony jó.}
-{3015}{}{Ez nem jó.}
-{3016}{}{Nekünk lenni jó érzés róla.}
-{3017}{}{Nekünk lenni rossz érzés róla.}
-{3018}{}{Ezek az emberek megkergültek.}
-{3020}{}{Kell lennie valami más módnak.}
-{3021}{}{Követni minket!}
-{3022}{}{Próbáld ki ezt!}
+{3011}{}{Mit vÃ¡rni t?lÃ¼nk?}
+{3012}{}{Az nem lenni szÃ©p.}
+{3013}{}{KÃ¶szÃ¶nÃ¶m!}
+{3014}{}{Ez bizony jÃ³.}
+{3015}{}{Ez nem jÃ³.}
+{3016}{}{NekÃ¼nk lenni jÃ³ Ã©rzÃ©s rÃ³la.}
+{3017}{}{NekÃ¼nk lenni rossz Ã©rzÃ©s rÃ³la.}
+{3018}{}{Ezek az emberek megkergÃ¼ltek.}
+{3020}{}{Kell lennie valami mÃ¡s mÃ³dnak.}
+{3021}{}{KÃ¶vetni minket!}
+{3022}{}{PrÃ³bÃ¡ld ki ezt!}
 {3023}{}{Mi menni oda mostan.}
 {3024}{}{Az menni erre.}
 {3025}{}{?k menni erre.}
-{3026}{}{Ez lenni ösvény.}
-{3027}{}{Mi megtalálni nyom.}
-{3028}{}{Jó vadászat lenni itten.}
-{3029}{}{Rossz vadászat lenni itten.}
-{3030}{}{Biztonság lenni itten tábornak.}
-{3031}{}{Nem biztonság itten táborzani.}
+{3026}{}{Ez lenni Ã¶svÃ©ny.}
+{3027}{}{Mi megtalÃ¡lni nyom.}
+{3028}{}{JÃ³ vadÃ¡szat lenni itten.}
+{3029}{}{Rossz vadÃ¡szat lenni itten.}
+{3030}{}{BiztonsÃ¡g lenni itten tÃ¡bornak.}
+{3031}{}{Nem biztonsÃ¡g itten tÃ¡borzani.}
 {3032}{}{Itt tudni pihenni.}
-{3033}{}{Mi lenni szerencsés!}
-{3034}{}{Ezt össze kéne kalapálni.}
-{3035}{}{Ezt be kéne kapcsolnod.}
-{3036}{}{Ki kéne nyitnod a zárat.}
-{3037}{}{Ezt ki kéne nyitnod.}
-{3038}{}{Lehet, hogy kés?bb kéne visszajönnünk.}
+{3033}{}{Mi lenni szerencsÃ©s!}
+{3034}{}{Ezt Ã¶ssze kÃ©ne kalapÃ¡lni.}
+{3035}{}{Ezt be kÃ©ne kapcsolnod.}
+{3036}{}{Ki kÃ©ne nyitnod a zÃ¡rat.}
+{3037}{}{Ezt ki kÃ©ne nyitnod.}
+{3038}{}{Lehet, hogy kÃ©s?bb kÃ©ne visszajÃ¶nnÃ¼nk.}
 {3039}{}{We don't understand.}
 {3040}{}{We don't know.}
-{3050}{slk86}{Tökjó lenni otthon, de hely túl kicsi mostan már. Mi hiányolni utat és olyan jó barát, mint te. El?bb-utóbb újra akarunk gyalogolni.}
-{3051}{}{Az jó lenne.}
+{3050}{slk86}{TÃ¶kjÃ³ lenni otthon, de hely tÃºl kicsi mostan mÃ¡r. Mi hiÃ¡nyolni utat Ã©s olyan jÃ³ barÃ¡t, mint te. El?bb-utÃ³bb Ãºjra akarunk gyalogolni.}
+{3051}{}{Az jÃ³ lenne.}
 {3052}{}{Bocs, most ne!}
-{3053}{slk87}{Mi még elbúcsúzni, aztán talá'kozni veled útnál.}
-{3054}{}{OKÉ.}
-{3055}{slk88}{Az lenni túl rossz. Azt mondani én, teneked jobban szükség van erre. Jó sétát!}
-{3056}{}{Ha jobban meggondolom, talán mégis velem kellene jönnöd. Bocsánat, egyszer?en csak nem akartalak ilyen hamar kiszakítani a szül?helyedr?l.}
-{3057}{slk89}{Jó látni otthon, de addig nem kívánni, míg húgi haza nem kerülje. Akarunk maradni veled, okés?}
+{3053}{slk87}{Mi mÃ©g elbÃºcsÃºzni, aztÃ¡n talÃ¡'kozni veled ÃºtnÃ¡l.}
+{3054}{}{OKÃ‰.}
+{3055}{slk88}{Az lenni tÃºl rossz. Azt mondani Ã©n, teneked jobban szÃ¼ksÃ©g van erre. JÃ³ sÃ©tÃ¡t!}
+{3056}{}{Ha jobban meggondolom, talÃ¡n mÃ©gis velem kellene jÃ¶nnÃ¶d. BocsÃ¡nat, egyszer?en csak nem akartalak ilyen hamar kiszakÃ­tani a szÃ¼l?helyedr?l.}
+{3057}{slk89}{JÃ³ lÃ¡tni otthon, de addig nem kÃ­vÃ¡nni, mÃ­g hÃºgi haza nem kerÃ¼lje. Akarunk maradni veled, okÃ©s?}
 {3058}{}{Igen.}
-{3059}{}{Nem... szerintem itt az ideje, hogy egyedül keresd meg ?t.}
-{3060}{slk90}{Talán. Bár te fogol nekünk hiányozni. Jó szellemek lenni veled, haver!}
+{3059}{}{Nem... szerintem itt az ideje, hogy egyedÃ¼l keresd meg ?t.}
+{3060}{slk90}{TalÃ¡n. BÃ¡r te fogol nekÃ¼nk hiÃ¡nyozni. JÃ³ szellemek lenni veled, haver!}
 {3061}{}{Thanks, Sulik. Goodbye. [Sulik hands you his gear.]}
-{3062}{}{Hát... talán mégis folytatnunk kellene. Szerintem még mindig meg tudnánk találni a húgodat.}
-{3063}{slk91a}{Mégis szükség lenni jó társaságra?}
-{3064}{slk91b}{Újra lenni itthon jó.}
-{3065}{slk91c}{Nekünk beszélni gyógyfüves. Hagyni forogni világ...}
-{3066}{slk91d}{Annyi fiatal lányka lenni, akinek Sulik mesélhetne, de id? lenni rövid.}
-{3067}{slk91e}{Vicces. Mi örülni lenni otthon, de lenni kis nyugtalanság út miatt.}
+{3062}{}{HÃ¡t... talÃ¡n mÃ©gis folytatnunk kellene. Szerintem mÃ©g mindig meg tudnÃ¡nk talÃ¡lni a hÃºgodat.}
+{3063}{slk91a}{MÃ©gis szÃ¼ksÃ©g lenni jÃ³ tÃ¡rsasÃ¡gra?}
+{3064}{slk91b}{Ãšjra lenni itthon jÃ³.}
+{3065}{slk91c}{NekÃ¼nk beszÃ©lni gyÃ³gyfÃ¼ves. Hagyni forogni vilÃ¡g...}
+{3066}{slk91d}{Annyi fiatal lÃ¡nyka lenni, akinek Sulik mesÃ©lhetne, de id? lenni rÃ¶vid.}
+{3067}{slk91e}{Vicces. Mi Ã¶rÃ¼lni lenni otthon, de lenni kis nyugtalansÃ¡g Ãºt miatt.}
 {3068}{}{Igen.}
 {3069}{}{Sajnos nincs.}
-{3070}{}{Sulik, megkérdeznél nekem valamit a szellemekt?l?}
-{3071}{}{Kérlek, tedd el a fegyvered, Sulik!}
-{3080}{}{Te nem lenni Sulik barátja. Vén-csont mondani semmit teneked.}
+{3070}{}{Sulik, megkÃ©rdeznÃ©l nekem valamit a szellemekt?l?}
+{3071}{}{KÃ©rlek, tedd el a fegyvered, Sulik!}
+{3080}{}{Te nem lenni Sulik barÃ¡tja. VÃ©n-csont mondani semmit teneked.}
 {3081}{}{No, I think it is time we part our ways. Stay here with you sister, she needs you.}
-{3082}{}{Újra lenni itthon jó.}
-{3083}{}{Annyi fiatal lányka lenni, akinek Sulik mesélhetne, de id? lenni rövid.}
-{3084}{}{Nekünk beszélni gyógyfüves. Hagyni forogni világ...}
+{3082}{}{Ãšjra lenni itthon jÃ³.}
+{3083}{}{Annyi fiatal lÃ¡nyka lenni, akinek Sulik mesÃ©lhetne, de id? lenni rÃ¶vid.}
+{3084}{}{NekÃ¼nk beszÃ©lni gyÃ³gyfÃ¼ves. Hagyni forogni vilÃ¡g...}
 {3086}{}{Take care, fren.}
 {3087}{}{We and I wish you the best of luck.}
 {3088}{}{Thanks again for everything, fren.}
 {3090}{}{This here be our village. We and I go speak with our friends.}
 {3091}{}{We and I go speak with our friends again before headin out.}
-{3100}{}{[TOVÁBB]}
+{3100}{}{[TOVÃBB]}
 {3101}{}{Where exactly is your tribe, Sulik?}
-{3102}{}{Köszi. Kérdeznék még.}
+{3102}{}{KÃ¶szi. KÃ©rdeznÃ©k mÃ©g.}
 {3103}{}{You too, Sulik. Take care of yourself.}
 {3200}{}{Yes, I spoke with Mrs. Buckner regarding your debt. I just now need to make all the arrangements with Maida. I'll check with you again after I speak  with her.}
 {3500}{}{We and I think something be wrong with us. You better be having a look at this limb of ours.}

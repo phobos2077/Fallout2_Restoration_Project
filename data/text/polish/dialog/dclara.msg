@@ -1,164 +1,164 @@
-{100}{}{Widzisz Larê.}
+{100}{}{Widzisz LarÄ™.}
 {150}{}{Przewodzi temu gangowi.}
-{200}{}{Jestem Lara. Dowodzê t¹ band¹. Mam nadziejê, ¿e nie szukasz k³opotów, bo mo¿e ciê to drogo kosztowaæ.}
+{200}{}{Jestem Lara. DowodzÄ™ tÄ… bandÄ…. Mam nadziejÄ™, Å¼e nie szukasz kÅ‚opotÃ³w, bo moÅ¼e ciÄ™ to drogo kosztowaÄ‡.}
 {201}{}{Znowu ty? Czego potrzebujesz?}
 {202}{}{Szukam pracy.}
-{203}{}{Tak siê tylko rozgl¹dam.}
+{203}{}{Tak siÄ™ tylko rozglÄ…dam.}
 {204}{}{Szukam kupca, niejakiego Vica.}
 {205}{}{Arf.}
 {206}{}{Rara.}
-{220}{}{Przykro mi. W tym mieœcie nie ma ¿adnego lekarza.}
-{221}{}{Obawiam siê, ¿e nie rozumiem.}
+{220}{}{Przykro mi. W tym mieÅ›cie nie ma Å¼adnego lekarza.}
+{221}{}{Obawiam siÄ™, Å¼e nie rozumiem.}
 {222}{}{Ak.}
-{230}{}{Jakoœ nie obi³o mi siê o uszy, ale trudno sprawdziæ kto przewija siê przez to miasto. Pogadaj z Becky. Ka¿dy zagl¹da do niej przynajmniej raz. Mo¿e ona ci pomo¿e.}
+{230}{}{JakoÅ› nie obiÅ‚o mi siÄ™ o uszy, ale trudno sprawdziÄ‡ kto przewija siÄ™ przez to miasto. Pogadaj z Becky. KaÅ¼dy zaglÄ…da do niej przynajmniej raz. MoÅ¼e ona ci pomoÅ¼e.}
 {231}{}{Szukam pracy.}
-{232}{}{Dziêki. Na razie.}
-{240}{}{Jeœli nie masz w Norze konkretnego interesu do za³atwienia, to wynoœ siê st¹d jak najprêdzej. Tu nie jest zbyt bezpiecznie.}
-{241}{}{Och, w porz¹dku.}
+{232}{}{DziÄ™ki. Na razie.}
+{240}{}{JeÅ›li nie masz w Norze konkretnego interesu do zaÅ‚atwienia, to wynoÅ› siÄ™ stÄ…d jak najprÄ™dzej. Tu nie jest zbyt bezpiecznie.}
+{241}{}{Och, w porzÄ…dku.}
 {242}{}{Szukam pracy.}
-{243}{}{Dam sobie radê.}
-{244}{}{Dobra, dziêki.}
-{250}{}{Nie w¹tpiê. W przeciwnym razie ju¿ by by³o po tobie.}
-{251}{}{No pewnie. Niejeden tak mówi³ zanim...}
+{243}{}{Dam sobie radÄ™.}
+{244}{}{Dobra, dziÄ™ki.}
+{250}{}{Nie wÄ…tpiÄ™. W przeciwnym razie juÅ¼ by byÅ‚o po tobie.}
+{251}{}{No pewnie. Niejeden tak mÃ³wiÅ‚ zanim...}
 {252}{}{Szukam pracy.}
-{253}{}{Dobra, dziêki.}
-{260}{}{To zale¿y jak¹ pracê masz na myœli. Jest w tym mieœcie coœ, co mnie interesuje. Jeœli wywêszysz co i jak, mo¿esz zarobiæ trochê kasy.}
-{261}{}{Jak ju¿ mówi³am, potrzebujê informacji na pewien temat. Oczywiœcie zap³acê.}
+{253}{}{Dobra, dziÄ™ki.}
+{260}{}{To zaleÅ¼y jakÄ… pracÄ™ masz na myÅ›li. Jest w tym mieÅ›cie coÅ›, co mnie interesuje. JeÅ›li wywÄ™szysz co i jak, moÅ¼esz zarobiÄ‡ trochÄ™ kasy.}
+{261}{}{Jak juÅ¼ mÃ³wiÅ‚am, potrzebujÄ™ informacji na pewien temat. OczywiÅ›cie zapÅ‚acÄ™.}
 {262}{}{Nie ma sprawy. O co chodzi?}
-{263}{}{Mo¿e póŸniej.}
-{270}{}{Wróæ, jak zmienisz zdanie.}
+{263}{}{MoÅ¼e pÃ³Åºniej.}
+{270}{}{WrÃ³Ä‡, jak zmienisz zdanie.}
 {271}{}{Dobrze.}
-{280}{}{Na wschód st¹d jest taki koœció³. Metzger kaza³ pewnym ludziom pilnowaæ czegoœ, co znajduje siê w œrodku. Dowiedz siê co to jest, a zarobisz $200.}
-{281}{}{To ³atwizna. Ja ju¿ wiem.}
+{280}{}{Na wschÃ³d stÄ…d jest taki koÅ›ciÃ³Å‚. Metzger kazaÅ‚ pewnym ludziom pilnowaÄ‡ czegoÅ›, co znajduje siÄ™ w Å›rodku. Dowiedz siÄ™ co to jest, a zarobisz $200.}
+{281}{}{To Å‚atwizna. Ja juÅ¼ wiem.}
 {282}{}{Jasne.}
-{283}{}{Zobaczê, co da siê zrobiæ.}
-{290}{}{Dziêki. Tylko nie wdawaj siê w bójki... jeszcze nie. Mam pewien plan.}
+{283}{}{ZobaczÄ™, co da siÄ™ zrobiÄ‡.}
+{290}{}{DziÄ™ki. Tylko nie wdawaj siÄ™ w bÃ³jki... jeszcze nie. Mam pewien plan.}
 {291}{}{Nie ma sprawy.}
 {292}{}{Zaraz wracam.}
 {300}{}{Co to takiego?}
-{301}{}{Wielkie skrzynie wype³nione po brzegi chemicznymi pó³produktami.}
-{302}{}{Wielkie pojemniki pe³ne jakichœ chemikaliów.}
-{303}{}{Mo¿e sprawdzê jeszcze raz.}
-{310}{}{To by siê zgadza³o. Dziêki. Tu s¹ twoje pieni¹dze.}
+{301}{}{Wielkie skrzynie wypeÅ‚nione po brzegi chemicznymi pÃ³Å‚produktami.}
+{302}{}{Wielkie pojemniki peÅ‚ne jakichÅ› chemikaliÃ³w.}
+{303}{}{MoÅ¼e sprawdzÄ™ jeszcze raz.}
+{310}{}{To by siÄ™ zgadzaÅ‚o. DziÄ™ki. Tu sÄ… twoje pieniÄ…dze.}
 {311}{}{Dlaczego?}
-{312}{}{Nie ma sprawy. Czeœæ.}
-{320}{}{Widzia³am karawany przybywaj¹ce tu z Kryptopolis. Czêœæ towaru trafia potem do Nowego Reno.}
+{312}{}{Nie ma sprawy. CzeÅ›Ä‡.}
+{320}{}{WidziaÅ‚am karawany przybywajÄ…ce tu z Kryptopolis. CzÄ™Å›Ä‡ towaru trafia potem do Nowego Reno.}
 {321}{}{No i? Co w tym takiego?}
 {322}{}{Och.}
-{340}{}{Nowe Reno to lokalna fabryka prochów. Przecie¿ musz¹ sk¹dœ braæ pó³produkty, prawda? Wygl¹da na to, ¿e czêœæ lub ca³oœæ dostaj¹ z Kryptopolis.}
-{341}{}{Gdzie le¿y to Nowe Reno?}
-{342}{}{Dobra, dziêki.}
-{350}{}{Nie jestem pewna. Chyba gdzieœ na po³udnie. Nigdy tam nie by³am. Ich karawany zagl¹daj¹ do Nory tylko sporadycznie.}
-{351}{}{W porz¹dku. Dziêki.}
-{360}{}{Chcesz siê ³atwo wzbogaciæ? $50. Nic szczególnie trudnego.}
+{340}{}{Nowe Reno to lokalna fabryka prochÃ³w. PrzecieÅ¼ muszÄ… skÄ…dÅ› braÄ‡ pÃ³Å‚produkty, prawda? WyglÄ…da na to, Å¼e czÄ™Å›Ä‡ lub caÅ‚oÅ›Ä‡ dostajÄ… z Kryptopolis.}
+{341}{}{Gdzie leÅ¼y to Nowe Reno?}
+{342}{}{Dobra, dziÄ™ki.}
+{350}{}{Nie jestem pewna. Chyba gdzieÅ› na poÅ‚udnie. Nigdy tam nie byÅ‚am. Ich karawany zaglÄ…dajÄ… do Nory tylko sporadycznie.}
+{351}{}{W porzÄ…dku. DziÄ™ki.}
+{360}{}{Chcesz siÄ™ Å‚atwo wzbogaciÄ‡? $50. Nic szczegÃ³lnie trudnego.}
 {361}{}{Jasne.}
-{362}{}{Sprê¿aj siê.}
-{370}{}{Chcê wyrównaæ z Tylerem pewne stare porachunki. Potrzebujê kogoœ, kto poprosi Metzgera o pozwolenie. On bêdzie wiedzia³ o co chodzi.}
+{362}{}{SprÄ™Å¼aj siÄ™.}
+{370}{}{ChcÄ™ wyrÃ³wnaÄ‡ z Tylerem pewne stare porachunki. PotrzebujÄ™ kogoÅ›, kto poprosi Metzgera o pozwolenie. On bÄ™dzie wiedziaÅ‚ o co chodzi.}
 {371}{}{Dlaczego sama tego nie zrobisz?}
-{372}{}{Spróbujê}
-{373}{}{W porz¹dku.}
-{380}{}{Bo nie chcê, ¿eby Tyler albo ktoœ z jego ludzi zobaczy³ mnie jak wchodzê lub wychodzê z domu Metzgera. Wtedy wszystkiego siê domyœl¹.}
-{381}{}{Nie kapujesz? Jeœli Tyler dowie siê, ¿e rozmawia³am z Metzgerem, mo¿e nabraæ podejrzeñ.}
-{382}{}{Zobaczê, co siê da zrobiæ.}
-{383}{}{W porz¹dku.}
-{390}{}{No i? Wiesz ju¿ co jest w œrodku?}
-{391}{}{Wielkie skrzynie wype³nione po brzegi chemicznymi pó³produktami.}
-{392}{}{Wielkie pojemniki pe³ne jakichœ chemikaliów.}
+{372}{}{SprÃ³bujÄ™}
+{373}{}{W porzÄ…dku.}
+{380}{}{Bo nie chcÄ™, Å¼eby Tyler albo ktoÅ› z jego ludzi zobaczyÅ‚ mnie jak wchodzÄ™ lub wychodzÄ™ z domu Metzgera. Wtedy wszystkiego siÄ™ domyÅ›lÄ….}
+{381}{}{Nie kapujesz? JeÅ›li Tyler dowie siÄ™, Å¼e rozmawiaÅ‚am z Metzgerem, moÅ¼e nabraÄ‡ podejrzeÅ„.}
+{382}{}{ZobaczÄ™, co siÄ™ da zrobiÄ‡.}
+{383}{}{W porzÄ…dku.}
+{390}{}{No i? Wiesz juÅ¼ co jest w Å›rodku?}
+{391}{}{Wielkie skrzynie wypeÅ‚nione po brzegi chemicznymi pÃ³Å‚produktami.}
+{392}{}{Wielkie pojemniki peÅ‚ne jakichÅ› chemikaliÃ³w.}
 {393}{}{Jeszcze nie.}
-{400}{}{No i jak posz³o? Co powiedzia³?}
-{401}{}{Zgodzi³ siê. Jeœli wygrasz, dostaniesz znowu tê robotê.}
+{400}{}{No i jak poszÅ‚o? Co powiedziaÅ‚?}
+{401}{}{ZgodziÅ‚ siÄ™. JeÅ›li wygrasz, dostaniesz znowu tÄ™ robotÄ™.}
 {402}{}{Na.}
-{410}{}{Œwietnie. Mia³am przeczucie, ¿e siê zgodzi. Od jakiegoœ czasu strasznie na nich narzeka³. Oto twoje pieni¹dze.}
-{411}{}{Pewnie jest jeszcze coœ do zrobienia?}
-{412}{}{Dziêki. Na razie.}
-{420}{}{Mam dla ciebie jeszcze jedno zadanie. Nie wiem, jak masz to zrobiæ, ale skoro uda³o ci siê dostaæ do œrodka, poradzisz sobie i teraz.}
-{421}{}{Raczej wœlizn¹æ ni¿ dostaæ.}
+{410}{}{Åšwietnie. MiaÅ‚am przeczucie, Å¼e siÄ™ zgodzi. Od jakiegoÅ› czasu strasznie na nich narzekaÅ‚. Oto twoje pieniÄ…dze.}
+{411}{}{Pewnie jest jeszcze coÅ› do zrobienia?}
+{412}{}{DziÄ™ki. Na razie.}
+{420}{}{Mam dla ciebie jeszcze jedno zadanie. Nie wiem, jak masz to zrobiÄ‡, ale skoro udaÅ‚o ci siÄ™ dostaÄ‡ do Å›rodka, poradzisz sobie i teraz.}
+{421}{}{Raczej wÅ›liznÄ…Ä‡ niÅ¼ dostaÄ‡.}
 {422}{}{Co to jest?}
-{430}{}{Na pewno jakoœ sobie poradzisz.}
+{430}{}{Na pewno jakoÅ› sobie poradzisz.}
 {431}{}{Dobra, o co chodzi?}
-{440}{}{Oko w oko nie mamy z nimi szans. S¹ lepiej wyposa¿eni i przewa¿aj¹ nas liczebnie. Mo¿e uda ci siê znaleŸæ jakiœ s³aby punkt albo coœ, co moglibyœmy wykorzystaæ w walce...}
-{441}{}{Co? ZnaleŸæ s³aby punkt? Niby jak mam to zrobiæ?}
+{440}{}{Oko w oko nie mamy z nimi szans. SÄ… lepiej wyposaÅ¼eni i przewaÅ¼ajÄ… nas liczebnie. MoÅ¼e uda ci siÄ™ znaleÅºÄ‡ jakiÅ› sÅ‚aby punkt albo coÅ›, co moglibyÅ›my wykorzystaÄ‡ w walce...}
+{441}{}{Co? ZnaleÅºÄ‡ sÅ‚aby punkt? Niby jak mam to zrobiÄ‡?}
 {442}{}{Ile?}
 {443}{}{Nie ma sprawy.}
 {450}{}{Dostaniesz od nas $150. Bez ciebie sobie nie poradzimy.}
-{451}{}{Ze mn¹ te¿ niekoniecznie.}
-{452}{}{W porz¹dku.}
-{460}{}{Nie wiem. Dlatego proszê ciê o pomoc.}
-{461}{}{Spróbujê.}
+{451}{}{Ze mnÄ… teÅ¼ niekoniecznie.}
+{452}{}{W porzÄ…dku.}
+{460}{}{Nie wiem. Dlatego proszÄ™ ciÄ™ o pomoc.}
+{461}{}{SprÃ³bujÄ™.}
 {462}{}{To bezcelowe.}
-{470}{}{Wiesz ju¿ coœ?}
-{471}{}{Tak. Urz¹dzaj¹ dziœ w nocy imprezê.}
-{472}{}{Jeszcze nie. Odezwê siê.}
+{470}{}{Wiesz juÅ¼ coÅ›?}
+{471}{}{Tak. UrzÄ…dzajÄ… dziÅ› w nocy imprezÄ™.}
+{472}{}{Jeszcze nie. OdezwÄ™ siÄ™.}
 {473}{}{Gra.}
 {474}{}{Na.}
-{480}{}{Œwietnie! Zostawi¹ tylko nieliczn¹ stra¿. To powinno wyrównaæ szanse. Tymi na imprezie zajmiemy siê po zdobyciu koœcio³a.}
-{481}{}{A moje pieni¹dze?}
-{490}{}{Jeszcze nie teraz. Musisz pójœæ z nami, inaczej nie dostaniesz pieniêdzy. Nie musisz braæ udzia³u w walce, chcê mieæ tylko pewnoœæ, ¿e nie prowadzisz nas w pu³apkê. W sumie dostaniesz od nas $300.}
+{480}{}{Åšwietnie! ZostawiÄ… tylko nielicznÄ… straÅ¼. To powinno wyrÃ³wnaÄ‡ szanse. Tymi na imprezie zajmiemy siÄ™ po zdobyciu koÅ›cioÅ‚a.}
+{481}{}{A moje pieniÄ…dze?}
+{490}{}{Jeszcze nie teraz. Musisz pÃ³jÅ›Ä‡ z nami, inaczej nie dostaniesz pieniÄ™dzy. Nie musisz braÄ‡ udziaÅ‚u w walce, chcÄ™ mieÄ‡ tylko pewnoÅ›Ä‡, Å¼e nie prowadzisz nas w puÅ‚apkÄ™. W sumie dostaniesz od nas $300.}
 {491}{}{Zaczynamy?}
-{492}{}{Bierzmy siê do roboty.}
-{493}{}{Daj mi trochê czasu na przygotowanie.}
-{494}{}{W ¿yciu. Zatrzymaj sobie swoje pieni¹dze!}
-{500}{}{Dobra, ale musimy dzia³aæ szybko, albo stracimy nasz¹ szansê, wiêc œpiesz siê.}
-{501}{}{W porz¹dku.}
-{510}{}{Nie musisz nawet walczyæ. To ³atwizna.}
-{511}{}{No i jak? Mo¿e zmienisz zdanie?}
-{512}{}{Bierzmy siê do roboty.}
-{513}{}{W porz¹dku, zaraz wracam.}
+{492}{}{Bierzmy siÄ™ do roboty.}
+{493}{}{Daj mi trochÄ™ czasu na przygotowanie.}
+{494}{}{W Å¼yciu. Zatrzymaj sobie swoje pieniÄ…dze!}
+{500}{}{Dobra, ale musimy dziaÅ‚aÄ‡ szybko, albo stracimy naszÄ… szansÄ™, wiÄ™c Å›piesz siÄ™.}
+{501}{}{W porzÄ…dku.}
+{510}{}{Nie musisz nawet walczyÄ‡. To Å‚atwizna.}
+{511}{}{No i jak? MoÅ¼e zmienisz zdanie?}
+{512}{}{Bierzmy siÄ™ do roboty.}
+{513}{}{W porzÄ…dku, zaraz wracam.}
 {514}{}{Nie.}
 {515}{}{Uk.}
-{520}{}{Przez ciebie straciliœmy niepowtarzaln¹ okazjê.}
-{521}{}{Tchórz ciê oblecia³!}
+{520}{}{Przez ciebie straciliÅ›my niepowtarzalnÄ… okazjÄ™.}
+{521}{}{TchÃ³rz ciÄ™ obleciaÅ‚!}
 {522}{}{Nic od nas nie dostaniesz.}
-{523}{}{Za³o¿ê siê, ¿e to by³a pu³apka.}
-{524}{}{Przykro mi, nie mo¿na na tobie polegaæ.}
-{525}{}{Nie mo¿na ci ufaæ.}
-{530}{}{Uda³o siê!}
-{531}{}{Dziêki za pomoc.}
-{532}{}{Jesteœmy ci wdziêczni!}
-{533}{}{Wreszcie Tyler zap³aci³ mi za to co sta³o siê z moim bratem.}
-{534}{}{Jeszcze raz - wielkie dziêki.}
-{540}{}{Nie wiem co siê stanie po œmierci Metzgera.}
-{541}{}{Chyba powinniœmy siê st¹d wynieœæ.}
-{542}{}{Wiesz ju¿ o œmierci Metzgera? Nie wiem co teraz z nami bêdzie.}
-{543}{}{Co siê teraz stanie z Nor¹? Mo¿e zmieni siê na lepsze.}
+{523}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e to byÅ‚a puÅ‚apka.}
+{524}{}{Przykro mi, nie moÅ¼na na tobie polegaÄ‡.}
+{525}{}{Nie moÅ¼na ci ufaÄ‡.}
+{530}{}{UdaÅ‚o siÄ™!}
+{531}{}{DziÄ™ki za pomoc.}
+{532}{}{JesteÅ›my ci wdziÄ™czni!}
+{533}{}{Wreszcie Tyler zapÅ‚aciÅ‚ mi za to co staÅ‚o siÄ™ z moim bratem.}
+{534}{}{Jeszcze raz - wielkie dziÄ™ki.}
+{540}{}{Nie wiem co siÄ™ stanie po Å›mierci Metzgera.}
+{541}{}{Chyba powinniÅ›my siÄ™ stÄ…d wynieÅ›Ä‡.}
+{542}{}{Wiesz juÅ¼ o Å›mierci Metzgera? Nie wiem co teraz z nami bÄ™dzie.}
+{543}{}{Co siÄ™ teraz stanie z NorÄ…? MoÅ¼e zmieni siÄ™ na lepsze.}
 {544}{}{To chyba zmiana na lepsze.}
 {550}{}{Skurwiel!}
 {551}{}{Suka!}
-{560}{}{Dziêki. Oto twoje pieni¹dze, plus $100 ekstra.}
-{570}{}{Tyler i jego stra¿nicy nie ¿yj¹? I jak mamy teraz pokazaæ Metzgerowi co potrafimy? To by³a nasza jedyna szansa, ¿eby dostaæ tê robotê.}
-{571}{}{Jesteœmy bez pracy. Ktoœ za³atwi³ stra¿ników Metzgera, i teraz stary nie chce z nami rozmawiaæ. Pewnie myœli, ¿e to nasza robota.}
+{560}{}{DziÄ™ki. Oto twoje pieniÄ…dze, plus $100 ekstra.}
+{570}{}{Tyler i jego straÅ¼nicy nie Å¼yjÄ…? I jak mamy teraz pokazaÄ‡ Metzgerowi co potrafimy? To byÅ‚a nasza jedyna szansa, Å¼eby dostaÄ‡ tÄ™ robotÄ™.}
+{571}{}{JesteÅ›my bez pracy. KtoÅ› zaÅ‚atwiÅ‚ straÅ¼nikÃ³w Metzgera, i teraz stary nie chce z nami rozmawiaÄ‡. Pewnie myÅ›li, Å¼e to nasza robota.}
 {572}{}{Przykro mi.}
 {573}{}{Wielka szkoda.}
 {574}{}{To MOJA robota. Teraz kolej na WAS.}
 {575}{}{No tak. Do zobaczenia.}
 {576}{}{Uhr?}
 {577}{}{Ug.}
-{590}{}{Przecie¿ mówi³am, ¿e mieliœmy iœæ razem. Po œmierci stra¿ników ktoœ wyczyœci³ koœció³ z towaru. Metzger wœciek³ siê jak jasna cholera.}
-{591}{}{Prosi³am tylko o znalezienie ich s³abego punktu. Nie trzeba by³o ich od razu zabijaæ! Po œmierci stra¿ników ktoœ wyczyœci³ koœció³ z towaru. Metzger wœciek³ siê jak jasna cholera.}
-{592}{}{Cholera! Prosi³am ciê tylko o porozmawianie z Metzgerem! Po œmierci stra¿ników ktoœ wyczyœci³ koœció³ z towaru. Metzger wœciek³ siê jak jasna cholera.}
-{593}{}{Cholera! Przecie¿ zabroni³am ci ich atakowaæ! Po œmierci stra¿ników ktoœ wyczyœci³ koœció³ z towaru. Metzger wœciek³ siê jak jasna cholera.}
-{594}{}{Trudno. Muszê ju¿ iœæ.}
+{590}{}{PrzecieÅ¼ mÃ³wiÅ‚am, Å¼e mieliÅ›my iÅ›Ä‡ razem. Po Å›mierci straÅ¼nikÃ³w ktoÅ› wyczyÅ›ciÅ‚ koÅ›ciÃ³Å‚ z towaru. Metzger wÅ›ciekÅ‚ siÄ™ jak jasna cholera.}
+{591}{}{ProsiÅ‚am tylko o znalezienie ich sÅ‚abego punktu. Nie trzeba byÅ‚o ich od razu zabijaÄ‡! Po Å›mierci straÅ¼nikÃ³w ktoÅ› wyczyÅ›ciÅ‚ koÅ›ciÃ³Å‚ z towaru. Metzger wÅ›ciekÅ‚ siÄ™ jak jasna cholera.}
+{592}{}{Cholera! ProsiÅ‚am ciÄ™ tylko o porozmawianie z Metzgerem! Po Å›mierci straÅ¼nikÃ³w ktoÅ› wyczyÅ›ciÅ‚ koÅ›ciÃ³Å‚ z towaru. Metzger wÅ›ciekÅ‚ siÄ™ jak jasna cholera.}
+{593}{}{Cholera! PrzecieÅ¼ zabroniÅ‚am ci ich atakowaÄ‡! Po Å›mierci straÅ¼nikÃ³w ktoÅ› wyczyÅ›ciÅ‚ koÅ›ciÃ³Å‚ z towaru. Metzger wÅ›ciekÅ‚ siÄ™ jak jasna cholera.}
+{594}{}{Trudno. MuszÄ™ juÅ¼ iÅ›Ä‡.}
 {595}{}{Wielka szkoda.}
-{596}{}{Bêdziesz nastêpna, suko.}
+{596}{}{BÄ™dziesz nastÄ™pna, suko.}
 {597}{}{Hmph!}
 {598}{}{Tera ty.}
-{610}{}{Ty to naprawdê potrafisz coœ spieprzyæ, wiesz?}
-{611}{}{Nie potrzebujemy ju¿ twojej pomocy.}
-{612}{}{IdŸ przeszkadzaæ komuœ innemu.}
-{613}{}{Lepiej, ¿eby Metzger siê nas nie czepia³.}
-{614}{}{Przykro mi. Nie mogê ci pomóc.}
-{615}{}{Nie mam czasu na rozmowê. Zastanawiam siê co robiæ dalej.}
-{616}{}{Mam nadziejê, ¿e Metzger nie bêdzie nas wini³.}
+{610}{}{Ty to naprawdÄ™ potrafisz coÅ› spieprzyÄ‡, wiesz?}
+{611}{}{Nie potrzebujemy juÅ¼ twojej pomocy.}
+{612}{}{IdÅº przeszkadzaÄ‡ komuÅ› innemu.}
+{613}{}{Lepiej, Å¼eby Metzger siÄ™ nas nie czepiaÅ‚.}
+{614}{}{Przykro mi. Nie mogÄ™ ci pomÃ³c.}
+{615}{}{Nie mam czasu na rozmowÄ™. Zastanawiam siÄ™ co robiÄ‡ dalej.}
+{616}{}{Mam nadziejÄ™, Å¼e Metzger nie bÄ™dzie nas winiÅ‚.}
 {617}{}{Co my teraz zrobimy?}
-{618}{}{Lepiej siê st¹d wynoœmy. Metzger mo¿e pomyœleæ, ¿e to my wykoñczyliœmy jego stra¿ników.}
-{619}{}{Wiesz gdzie jest Nowe Reno? Mo¿e uciekniemy tam - albo na pó³noc.}
-{650}{}{Dobra! Do roboty! Wszyscy za mn¹!}
-{700}{}{Dobra, zajêliœmy siê szcz¹tkowa ekip¹ tutaj w koœciele, ale ci¹gle Tyler i jego kolesie s¹ w dzielnicy Mieszkalnej.
- Do tej pory pewnie s¹ ju¿ pijani, mo¿emy ich ³atwo zaskoczyæ. Czas to skoñczyæ, idziesz?}
-{701}{}{Pozwól mi siê najpierw podleczyæ.Powiem ci jak skoñczê siê przygotowywaæ.}
+{618}{}{Lepiej siÄ™ stÄ…d wynoÅ›my. Metzger moÅ¼e pomyÅ›leÄ‡, Å¼e to my wykoÅ„czyliÅ›my jego straÅ¼nikÃ³w.}
+{619}{}{Wiesz gdzie jest Nowe Reno? MoÅ¼e uciekniemy tam - albo na pÃ³Å‚noc.}
+{650}{}{Dobra! Do roboty! Wszyscy za mnÄ…!}
+{700}{}{Dobra, zajÄ™liÅ›my siÄ™ szczÄ…tkowa ekipÄ… tutaj w koÅ›ciele, ale ciÄ…gle Tyler i jego kolesie sÄ… w dzielnicy Mieszkalnej.
+ Do tej pory pewnie sÄ… juÅ¼ pijani, moÅ¼emy ich Å‚atwo zaskoczyÄ‡. Czas to skoÅ„czyÄ‡, idziesz?}
+{701}{}{PozwÃ³l mi siÄ™ najpierw podleczyÄ‡.Powiem ci jak skoÅ„czÄ™ siÄ™ przygotowywaÄ‡.}
 {702}{}{Ruszajmy.}
-{710}{}{Czas ¿eby zdj¹æ Tylera i jego kumpli.}
-{720}{}{Hej, nie odchodŸ za daleko. Musimy to skoñczyæ tej nocy lub zrobimy to bez ciebie.}
-{721}{}{Nied³ugo wrócê.}
+{710}{}{Czas Å¼eby zdjÄ…Ä‡ Tylera i jego kumpli.}
+{720}{}{Hej, nie odchodÅº za daleko. Musimy to skoÅ„czyÄ‡ tej nocy lub zrobimy to bez ciebie.}
+{721}{}{NiedÅ‚ugo wrÃ³cÄ™.}
 {722}{}{Ruszajmy.}
-{730}{}{Zrobiliœmy to. Nie mogê w to uwierzyæ! Wracamy do koœcio³a ¿eby go zaj¹æ. Spotkajmy siê tam to dostaniesz swoj¹ kasê.}
+{730}{}{ZrobiliÅ›my to. Nie mogÄ™ w to uwierzyÄ‡! Wracamy do koÅ›cioÅ‚a Å¼eby go zajÄ…Ä‡. Spotkajmy siÄ™ tam to dostaniesz swojÄ… kasÄ™.}

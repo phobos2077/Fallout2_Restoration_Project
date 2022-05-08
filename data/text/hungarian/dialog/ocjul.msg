@@ -1,48 +1,48 @@
-{100}{}{Ez a Halálkarom szokatlanul intelligens tekintettel néz rád.}
-{101}{}{Jul, a Halálkarmok egyike.}
-{102}{}{Egy átlagos Halálkarom. Óriási teremtmény, er?s testtel, éles fogakkal és karmokkal felvértezve..}
-{103}{}{Állsz! Nem mégy ide! Ez hely itten határ!}
-{104}{}{Okés. Elmegyek.}
+{100}{}{Ez a HalÃ¡lkarom szokatlanul intelligens tekintettel nÃ©z rÃ¡d.}
+{101}{}{Jul, a HalÃ¡lkarmok egyike.}
+{102}{}{Egy Ã¡tlagos HalÃ¡lkarom. Ã“riÃ¡si teremtmÃ©ny, er?s testtel, Ã©les fogakkal Ã©s karmokkal felvÃ©rtezve..}
+{103}{}{Ãllsz! Nem mÃ©gy ide! Ez hely itten hatÃ¡r!}
+{104}{}{OkÃ©s. Elmegyek.}
 {105}{}{Mi lenni ez hely?}
 {106}{}{Te ki?}
 {107}{}{Rendben, elmegyek.}
-{108}{}{Oda megyek, ahová akarok, gyík-ivadék!}
-{109}{}{Mi ez a hely tulajdonképpen?}
+{108}{}{Oda megyek, ahovÃ¡ akarok, gyÃ­k-ivadÃ©k!}
+{109}{}{Mi ez a hely tulajdonkÃ©ppen?}
 {110}{}{Ki vagy te?}
-{111}{}{Ez fészek. Falka anya bent. Tojások bent. ?rzök. Mindenkit.}
-{112}{}{Beszélni akarok az anyával.}
+{111}{}{Ez fÃ©szek. Falka anya bent. TojÃ¡sok bent. ?rzÃ¶k. Mindenkit.}
+{112}{}{BeszÃ©lni akarok az anyÃ¡val.}
 {113}{}{Te ki?}
-{114}{}{Én menni mostan.}
+{114}{}{Ã‰n menni mostan.}
 {115}{}{Akkor elmegyek.}
 {116}{}{Ki vagy te?}
-{117}{}{Szeretnék beszélni az anyával.}
-{118}{}{Én Jul. Falka harcos. ?rzök fészek. ?rzök anya.}
-{119}{}{Én}
-{120}{}{Én menni mostan.}
+{117}{}{SzeretnÃ©k beszÃ©lni az anyÃ¡val.}
+{118}{}{Ã‰n Jul. Falka harcos. ?rzÃ¶k fÃ©szek. ?rzÃ¶k anya.}
+{119}{}{Ã‰n}
+{120}{}{Ã‰n menni mostan.}
 {121}{}{?rizni anya, fontos. Te fontos.}
-{122}{}{Én}
-{123}{}{Az anya ?rzése nagy felel?sség. Te bizonyára fontos vagy a falkában.}
+{122}{}{Ã‰n}
+{123}{}{Az anya ?rzÃ©se nagy felel?ssÃ©g. Te bizonyÃ¡ra fontos vagy a falkÃ¡ban.}
 {124}{}{Azt hiszem, most elmegyek.}
-{125}{}{Várj! Megkérdezni anya.}
-{126}{}{Oké.}
-{127}{}{Anya beszél veled. Menny be! Nem csiná'sz bajt. Nem akarni bántást neked, de ha okozod bajt, nagy bántást kapol.}
-{128}{}{Anya beszél veled. Te bemész, egyedül. Társak marannak. Nem csiná'sz bajt! Nem akarni bántást neked, de ha okozod bajt, nagy bántást kapol.}
-{129}{}{Oké.}
-{130}{}{Úgy gondolod? Szerintem nem. Jójjaz nekem. Teccik. Kösz.}
-{131}{}{Köszönöm. Most menni elfele.}
-{132}{}{Beszélni akarok az anyával.}
-{133}{}{Köszönöm. Most már mennem kell.}
-{134}{}{Beszélhetnék az anyával?}
-{135}{}{Gyík ivadék... Ó, venni. Haha! Akkor kapjad ki eztet! Azér' ?rköd itt, mert én lenni legokosabb, leger?sebb, legkegyetlenebb vadállat itten a francos menedékben. Szívassál csak, a legjobbat szívatod. Takaroggyá, mer eltöröm kezed-lábad, aztán beleszúrom hátadba!}
+{125}{}{VÃ¡rj! MegkÃ©rdezni anya.}
+{126}{}{OkÃ©.}
+{127}{}{Anya beszÃ©l veled. Menny be! Nem csinÃ¡'sz bajt. Nem akarni bÃ¡ntÃ¡st neked, de ha okozod bajt, nagy bÃ¡ntÃ¡st kapol.}
+{128}{}{Anya beszÃ©l veled. Te bemÃ©sz, egyedÃ¼l. TÃ¡rsak marannak. Nem csinÃ¡'sz bajt! Nem akarni bÃ¡ntÃ¡st neked, de ha okozod bajt, nagy bÃ¡ntÃ¡st kapol.}
+{129}{}{OkÃ©.}
+{130}{}{Ãšgy gondolod? Szerintem nem. JÃ³jjaz nekem. Teccik. KÃ¶sz.}
+{131}{}{KÃ¶szÃ¶nÃ¶m. Most menni elfele.}
+{132}{}{BeszÃ©lni akarok az anyÃ¡val.}
+{133}{}{KÃ¶szÃ¶nÃ¶m. Most mÃ¡r mennem kell.}
+{134}{}{BeszÃ©lhetnÃ©k az anyÃ¡val?}
+{135}{}{GyÃ­k ivadÃ©k... Ã“, venni. Haha! Akkor kapjad ki eztet! AzÃ©r' ?rkÃ¶d itt, mert Ã©n lenni legokosabb, leger?sebb, legkegyetlenebb vadÃ¡llat itten a francos menedÃ©kben. SzÃ­vassÃ¡l csak, a legjobbat szÃ­vatod. TakaroggyÃ¡, mer eltÃ¶rÃ¶m kezed-lÃ¡bad, aztÃ¡n beleszÃºrom hÃ¡tadba!}
 {136}{}{Elmegyek akkor...}
-{137}{}{Valóban? Lássuk, milyen kemény vagy!}
+{137}{}{ValÃ³ban? LÃ¡ssuk, milyen kemÃ©ny vagy!}
 {138}{}{Te vagyol? Mit akarni?}
-{139}{}{Mondok helló. Elmegyek.}
+{139}{}{Mondok hellÃ³. Elmegyek.}
 {140}{}{Mit mondol, ki lenni?}
 {141}{}{Mi lenni ez hely?}
-{142}{}{Csak köszönni ugrottam be.}
-{143}{}{Mi ez a hely tulajdonképpen?}
+{142}{}{Csak kÃ¶szÃ¶nni ugrottam be.}
+{143}{}{Mi ez a hely tulajdonkÃ©ppen?}
 {144}{}{Ki is vagy te?}
-{145}{}{Már hulla vagy. Csak túl hülye vagy hozzá, hogy felfogd.}
-{146}{}{. Én akar beszélés anyával.}
-{147}{}{, Jul, és szeretnék beszélni az anyával, kérlek.}
+{145}{}{MÃ¡r hulla vagy. Csak tÃºl hÃ¼lye vagy hozzÃ¡, hogy felfogd.}
+{146}{}{. Ã‰n akar beszÃ©lÃ©s anyÃ¡val.}
+{147}{}{, Jul, Ã©s szeretnÃ©k beszÃ©lni az anyÃ¡val, kÃ©rlek.}

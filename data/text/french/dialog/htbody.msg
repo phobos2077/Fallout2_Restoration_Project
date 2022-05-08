@@ -1,3 +1,3 @@
 {100}{}{Cette personne semble morte.}
-{101}{}{On dirait bien que ces gens ont été assassinés.}
-{102}{}{Tu te sens très triste pour ces morts.}
+{101}{}{On dirait bien que ces gens ont Ã©tÃ© assassinÃ©s.}
+{102}{}{Tu te sens trÃ¨s triste pour ces morts.}

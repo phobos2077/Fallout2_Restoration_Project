@@ -1,1 +1,1 @@
-{100}{}{Has aprendido unas cuantas pistas acerca de cómo usar armas de energía.}
+{100}{}{Has aprendido unas cuantas pistas acerca de cÃ³mo usar armas de energÃ­a.}

@@ -1,4 +1,4 @@
-{100}{}{Widzisz stary, zardzewia³y wentylator.}
-{101}{}{Mo¿esz ³atwo zablokowaæ ten wentylator czymœ metalowym.}
-{102}{}{Metalowy prêt blokuje wentylator.}
-{200}{}{Blokujesz wentylator prêtem. S³yszysz metal tr¹cy o metal i wentylator siê zatrzymuje. Wentylator trzeszczy próbuj¹c ruszyæ zablokowane ostrza.}
+{100}{}{Widzisz stary, zardzewiaÅ‚y wentylator.}
+{101}{}{MoÅ¼esz Å‚atwo zablokowaÄ‡ ten wentylator czymÅ› metalowym.}
+{102}{}{Metalowy prÄ™t blokuje wentylator.}
+{200}{}{Blokujesz wentylator prÄ™tem. SÅ‚yszysz metal trÄ…cy o metal i wentylator siÄ™ zatrzymuje. Wentylator trzeszczy prÃ³bujÄ…c ruszyÄ‡ zablokowane ostrza.}

@@ -1,2 +1,2 @@
-1:La Confrérie de l'Acier repoussa la première vague d'invasion des mutants, mais un traître parmi eux provoqua la chute de la Citadelle.
-2:Heureusement, les mutants ne comprirent que très lentement la technologie de pointe et ils n'ont pu l'utiliser contre toi.
+1:La ConfrÃ©rie de l'Acier repoussa la premiÃ¨re vague d'invasion des mutants, mais un traÃ®tre parmi eux provoqua la chute de la Citadelle.
+2:Heureusement, les mutants ne comprirent que trÃ¨s lentement la technologie de pointe et ils n'ont pu l'utiliser contre toi.

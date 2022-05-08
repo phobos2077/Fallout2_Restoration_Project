@@ -1,131 +1,131 @@
-{100}{}{Ez egy zömök Shi férfi, aki szemlátomást elég okos ember.}
-{101}{}{? Ken Lee, az Uralkodó tanácsadója.}
+{100}{}{Ez egy zÃ¶mÃ¶k Shi fÃ©rfi, aki szemlÃ¡tomÃ¡st elÃ©g okos ember.}
+{101}{}{? Ken Lee, az UralkodÃ³ tanÃ¡csadÃ³ja.}
 {102}{}{You see a stocky Shi man wearing glasses and a half-smile.}
-{103}{}{Mit szeretne, barátom?}
+{103}{}{Mit szeretne, barÃ¡tom?}
 {104}{}{Mit akarsz?}
-{105}{}{Mit tehetek magáért?}
+{105}{}{Mit tehetek magÃ¡Ã©rt?}
 {106}{}{Te ki?}
 {107}{}{Ki vagy te?}
-{108}{}{Mi ez a hely tulajdonképpen?}
-{109}{}{Elt?nt falusiak után kutatok.}
-{110}{}{Üzemanyagra van szükségem.}
-{111}{}{Beszélni szeretnék az Uralkodóval.}
-{112}{}{A Hubologisták azzal bíztak meg, hogy öljem meg az Uralkodót.}
-{113}{}{Semmi-semmi... kösz, viszlát!}
-{114}{}{Ken Lee, az Uralkodó tanácsadója vagyok. Te pedig, barátom, elég egyszer? embernek látszol, szóval vésd az eszedbe: ha az Enklávét kutatod, a Poseidon Tankerrel kell odamenni hozzájuk. A hajóba üzemanyag kell. Fogadd áldásomat a feladathoz!}
-{115}{}{Köfi!}
-{116}{}{Ken Lee, az Uralkodó tanácsadója vagyok. Uralkodóm azt tanácsolja nekem, hogy ne beszélgessünk, ezért nem is fogok. Minden jót, bolond!}
+{108}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{109}{}{Elt?nt falusiak utÃ¡n kutatok.}
+{110}{}{Ãœzemanyagra van szÃ¼ksÃ©gem.}
+{111}{}{BeszÃ©lni szeretnÃ©k az UralkodÃ³val.}
+{112}{}{A HubologistÃ¡k azzal bÃ­ztak meg, hogy Ã¶ljem meg az UralkodÃ³t.}
+{113}{}{Semmi-semmi... kÃ¶sz, viszlÃ¡t!}
+{114}{}{Ken Lee, az UralkodÃ³ tanÃ¡csadÃ³ja vagyok. Te pedig, barÃ¡tom, elÃ©g egyszer? embernek lÃ¡tszol, szÃ³val vÃ©sd az eszedbe: ha az EnklÃ¡vÃ©t kutatod, a Poseidon Tankerrel kell odamenni hozzÃ¡juk. A hajÃ³ba Ã¼zemanyag kell. Fogadd Ã¡ldÃ¡somat a feladathoz!}
+{115}{}{KÃ¶fi!}
+{116}{}{Ken Lee, az UralkodÃ³ tanÃ¡csadÃ³ja vagyok. UralkodÃ³m azt tanÃ¡csolja nekem, hogy ne beszÃ©lgessÃ¼nk, ezÃ©rt nem is fogok. Minden jÃ³t, bolond!}
 {117}{}{Grrr!}
-{118}{}{Ahh, utazó, nem segíthetek magán. Esetleg valami más módon választ nyer majd a küldetése által felvetett kérdésekre. Minden jót!}
-{119}{}{Ló napot!}
-{120}{}{Ken Lee, a Shi Uralkodó tanácsadója, és bölcsességének letéteményese vagyok. És maga?}
-{121}{}{Szeretnék találkozni az Uralkodóval.}
+{118}{}{Ahh, utazÃ³, nem segÃ­thetek magÃ¡n. Esetleg valami mÃ¡s mÃ³don vÃ¡laszt nyer majd a kÃ¼ldetÃ©se Ã¡ltal felvetett kÃ©rdÃ©sekre. Minden jÃ³t!}
+{119}{}{LÃ³ napot!}
+{120}{}{Ken Lee, a Shi UralkodÃ³ tanÃ¡csadÃ³ja, Ã©s bÃ¶lcsessÃ©gÃ©nek letÃ©temÃ©nyese vagyok. Ã‰s maga?}
+{121}{}{SzeretnÃ©k talÃ¡lkozni az UralkodÃ³val.}
 {122}{}{A nevem}
-{123}{}{Maga olyan, mint az egyszeri csicskás, aki sokat képzel magáról!}
-{124}{}{Én nem vagyok fontos ember. Viszlát!}
-{125}{}{Ez az Uralkodó Acél Palotája. Maga most épp a Shi város szívében áll.}
-{126}{}{És hol találom az Uralkodót?}
-{127}{}{Milyen kísérleteket folytat itt?}
-{128}{}{Mesélne a palota történetér?l?}
-{129}{}{Értem. Nos, viszlát!}
-{130}{}{Ha látni akarja az Uralkodót, adja meg a saját nevét!}
-{131}{}{Ó, rendben van. A nevem}
+{123}{}{Maga olyan, mint az egyszeri csicskÃ¡s, aki sokat kÃ©pzel magÃ¡rÃ³l!}
+{124}{}{Ã‰n nem vagyok fontos ember. ViszlÃ¡t!}
+{125}{}{Ez az UralkodÃ³ AcÃ©l PalotÃ¡ja. Maga most Ã©pp a Shi vÃ¡ros szÃ­vÃ©ben Ã¡ll.}
+{126}{}{Ã‰s hol talÃ¡lom az UralkodÃ³t?}
+{127}{}{Milyen kÃ­sÃ©rleteket folytat itt?}
+{128}{}{MesÃ©lne a palota tÃ¶rtÃ©netÃ©r?l?}
+{129}{}{Ã‰rtem. Nos, viszlÃ¡t!}
+{130}{}{Ha lÃ¡tni akarja az UralkodÃ³t, adja meg a sajÃ¡t nevÃ©t!}
+{131}{}{Ã“, rendben van. A nevem}
 {132}{}{Hogyne! A nevem}
 {133}{}{Igen.}
-{134}{}{Felejtsük el!}
-{135}{}{Nem mindenki olyan szerencsés, hogy láthatja az Uralkodót. El?ször be kell bizonyítania, hogy érdemes rá. Hajlandó ilyesmire?}
+{134}{}{FelejtsÃ¼k el!}
+{135}{}{Nem mindenki olyan szerencsÃ©s, hogy lÃ¡thatja az UralkodÃ³t. El?szÃ¶r be kell bizonyÃ­tania, hogy Ã©rdemes rÃ¡. HajlandÃ³ ilyesmire?}
 {136}{}{Igen.}
-{137}{}{Nem. Az elmúlt hónapokban egy életre való teszten mentem keresztül.}
-{138}{}{Nem hinném, hogy az Uralkodó látni szeretné magát. Azt az utasítást kaptam, hogy tagadjam meg a belépést az illetlen és a gonosz lelkület? emberekt?l. Magára mindkett? ráillik, utazó. Minden jót!}
+{137}{}{Nem. Az elmÃºlt hÃ³napokban egy Ã©letre valÃ³ teszten mentem keresztÃ¼l.}
+{138}{}{Nem hinnÃ©m, hogy az UralkodÃ³ lÃ¡tni szeretnÃ© magÃ¡t. Azt az utasÃ­tÃ¡st kaptam, hogy tagadjam meg a belÃ©pÃ©st az illetlen Ã©s a gonosz lelkÃ¼let? emberekt?l. MagÃ¡ra mindkett? rÃ¡illik, utazÃ³. Minden jÃ³t!}
 {139}{}{[DONE]}
-{140}{}{Az inzultusok sehova sem vezetnek, utazó, legfeljebb rövid úton eltávolítjuk az Acél Palotából. Kérem, vigyázzon tehát a nyelvére!}
+{140}{}{Az inzultusok sehova sem vezetnek, utazÃ³, legfeljebb rÃ¶vid Ãºton eltÃ¡volÃ­tjuk az AcÃ©l PalotÃ¡bÃ³l. KÃ©rem, vigyÃ¡zzon tehÃ¡t a nyelvÃ©re!}
 {141}{}{Rajta csak!}
 {142}{}{Remek.}
-{143}{}{Az Uralkodó láthatatlan a kiváncsi szemek számára. Mivel a feladatom szerint én oltalmazom az Uralkodót, se most, se kés?bb nem mondhatom el, hol található.}
-{144}{}{Volna még néhány kérdésem.}
-{145}{}{Viszlát!}
-{146}{}{Olyan kutatásokat végzünk, amelyek megváltoztatják a világot. Ha további válaszokat szeretne, keresse fel Dr. Wong Yi Tze-t!}
-{147}{}{Felkeresem, viszont addig is hadd kérdezzek még egy s mást.}
-{148}{}{Felkeresem. Viszlát!}
-{149}{}{Egy tengeralattjáró roncsaiból kimenekült túlél?k vagyunk. Amikor partra vetett bennünket a víz, megfosztottuk a járm?vet a borításától, és abból hoztuk létre az Acél Palotát. Vannak, akik nemigen hiszik ezt el.}
-{150}{}{Hm. Úgy hangzik, mintha orrolna valakire.}
-{151}{}{Értem. Köszönöm, viszlát!}
-{152}{}{Ah, igen! Láttam néhány filmjét! Feltételezem viszont, hogy nem ez a rendes neve...}
+{143}{}{Az UralkodÃ³ lÃ¡thatatlan a kivÃ¡ncsi szemek szÃ¡mÃ¡ra. Mivel a feladatom szerint Ã©n oltalmazom az UralkodÃ³t, se most, se kÃ©s?bb nem mondhatom el, hol talÃ¡lhatÃ³.}
+{144}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{145}{}{ViszlÃ¡t!}
+{146}{}{Olyan kutatÃ¡sokat vÃ©gzÃ¼nk, amelyek megvÃ¡ltoztatjÃ¡k a vilÃ¡got. Ha tovÃ¡bbi vÃ¡laszokat szeretne, keresse fel Dr. Wong Yi Tze-t!}
+{147}{}{Felkeresem, viszont addig is hadd kÃ©rdezzek mÃ©g egy s mÃ¡st.}
+{148}{}{Felkeresem. ViszlÃ¡t!}
+{149}{}{Egy tengeralattjÃ¡rÃ³ roncsaibÃ³l kimenekÃ¼lt tÃºlÃ©l?k vagyunk. Amikor partra vetett bennÃ¼nket a vÃ­z, megfosztottuk a jÃ¡rm?vet a borÃ­tÃ¡sÃ¡tÃ³l, Ã©s abbÃ³l hoztuk lÃ©tre az AcÃ©l PalotÃ¡t. Vannak, akik nemigen hiszik ezt el.}
+{150}{}{Hm. Ãšgy hangzik, mintha orrolna valakire.}
+{151}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m, viszlÃ¡t!}
+{152}{}{Ah, igen! LÃ¡ttam nÃ©hÃ¡ny filmjÃ©t! FeltÃ©telezem viszont, hogy nem ez a rendes neve...}
 {153}{}{Pedig az.}
-{154}{}{Valóban nem. A rendes nevem }
-{155}{}{Ennél több névre nincs szüksége, vénember!}
-{156}{}{Ez lehetetlen. Minden jót!}
+{154}{}{ValÃ³ban nem. A rendes nevem }
+{155}{}{EnnÃ©l tÃ¶bb nÃ©vre nincs szÃ¼ksÃ©ge, vÃ©nember!}
+{156}{}{Ez lehetetlen. Minden jÃ³t!}
 {157}{}{[DONE]}
-{158}{}{Ennél azért többet is mondhatna. Tudom, hogy m?ködik az "üzlet". Voltam már New Renóban korábban.}
-{159}{}{Oké, a nevem }
-{160}{}{Ez az igazi nevem! Most pedig hadd beszéljek az Uralkodóval!}
-{161}{}{Kiváló! A következ?t kérném magától: északi irányban létezik egy apró katonai bázis, Navarro néven. Rengeteg gépmadár állomásozik ott. Ahhoz, hogy legyárthassuk a sajátunkat, szükségünk van a terveire. Ha megszerzi nekünk, az Uralkodó elé járulhat.}
+{158}{}{EnnÃ©l azÃ©rt tÃ¶bbet is mondhatna. Tudom, hogy m?kÃ¶dik az "Ã¼zlet". Voltam mÃ¡r New RenÃ³ban korÃ¡bban.}
+{159}{}{OkÃ©, a nevem }
+{160}{}{Ez az igazi nevem! Most pedig hadd beszÃ©ljek az UralkodÃ³val!}
+{161}{}{KivÃ¡lÃ³! A kÃ¶vetkez?t kÃ©rnÃ©m magÃ¡tÃ³l: Ã©szaki irÃ¡nyban lÃ©tezik egy aprÃ³ katonai bÃ¡zis, Navarro nÃ©ven. Rengeteg gÃ©pmadÃ¡r Ã¡llomÃ¡sozik ott. Ahhoz, hogy legyÃ¡rthassuk a sajÃ¡tunkat, szÃ¼ksÃ©gÃ¼nk van a terveire. Ha megszerzi nekÃ¼nk, az UralkodÃ³ elÃ© jÃ¡rulhat.}
 {162}{}{Legyen.}
-{163}{}{Felejtsük el!}
-{164}{}{Nem gondolta meg magát a tesztünket illet?en?}
+{163}{}{FelejtsÃ¼k el!}
+{164}{}{Nem gondolta meg magÃ¡t a tesztÃ¼nket illet?en?}
 {165}{}{Nem.}
-{166}{}{Ó, rendben. Úgy lesz.}
-{167}{}{Én nem hallottam semmiféle elt?nt falusiakról. Lehet, hogy az Uralkodó többet tudna róluk.}
-{168}{}{Volna még néhány kérdésem.}
-{169}{}{Kösz. Viszlát!}
-{170}{}{Volna itt egy második teszt: a Hubologisták az ellenségeink. A vezet?jük, BHK-9 rendszeresen elrabolja a gyermekeinket és agymosást végez rajtuk. Ölje meg nekünk a Shik nevében és lehet?vé teszem, hogy beszélhessen az Uralkodóval!}
-{171}{}{Már halottnak is veheti.}
-{172}{}{Nem, nem hinném}
-{173}{}{Nem? Szomorú vagyok, de egyúttal meg is értem. Legyen szerencséje az útja során! Ha meggondolná magát, bármikor elérhet itt.}
-{174}{}{Hogyne! Viszont volna még néhány kérdésem.}
-{175}{}{Igen. Viszlát!}
-{176}{}{Aggódva várom a próbálkozása eredményét. Minden jót!}
-{177}{}{Minden jót!}
+{166}{}{Ã“, rendben. Ãšgy lesz.}
+{167}{}{Ã‰n nem hallottam semmifÃ©le elt?nt falusiakrÃ³l. Lehet, hogy az UralkodÃ³ tÃ¶bbet tudna rÃ³luk.}
+{168}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{169}{}{KÃ¶sz. ViszlÃ¡t!}
+{170}{}{Volna itt egy mÃ¡sodik teszt: a HubologistÃ¡k az ellensÃ©geink. A vezet?jÃ¼k, BHK-9 rendszeresen elrabolja a gyermekeinket Ã©s agymosÃ¡st vÃ©gez rajtuk. Ã–lje meg nekÃ¼nk a Shik nevÃ©ben Ã©s lehet?vÃ© teszem, hogy beszÃ©lhessen az UralkodÃ³val!}
+{171}{}{MÃ¡r halottnak is veheti.}
+{172}{}{Nem, nem hinnÃ©m}
+{173}{}{Nem? SzomorÃº vagyok, de egyÃºttal meg is Ã©rtem. Legyen szerencsÃ©je az Ãºtja sorÃ¡n! Ha meggondolnÃ¡ magÃ¡t, bÃ¡rmikor elÃ©rhet itt.}
+{174}{}{Hogyne! Viszont volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{175}{}{Igen. ViszlÃ¡t!}
+{176}{}{AggÃ³dva vÃ¡rom a prÃ³bÃ¡lkozÃ¡sa eredmÃ©nyÃ©t. Minden jÃ³t!}
+{177}{}{Minden jÃ³t!}
 {178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say otherwise.}
-{179}{}{Ez nagyon józan gondolkodás magától.}
-{180}{}{Az. Pedig sajnos naponta kell ilyen emberekkel találkoznom!}
-{181}{}{Hát... akkor még kérdeznék ezt-azt.}
-{182}{}{Ó, szegény ember... Na, üdv!}
+{179}{}{Ez nagyon jÃ³zan gondolkodÃ¡s magÃ¡tÃ³l.}
+{180}{}{Az. Pedig sajnos naponta kell ilyen emberekkel talÃ¡lkoznom!}
+{181}{}{HÃ¡t... akkor mÃ©g kÃ©rdeznÃ©k ezt-azt.}
+{182}{}{Ã“, szegÃ©ny ember... Na, Ã¼dv!}
 {183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
-{184}{}{Köszi.}
-{185}{}{?rség! Ide jött az ellenség egyik embere! ?rség!}
-{186}{}{Valóban? Talán meg szeretné leckéztetni ?ket? Megígérhetem, hogy teljes támogatásunkról biztosítjuk magát, ha megöli BHK-9-et.}
-{187}{}{Már halottnak is veheti.}
+{184}{}{KÃ¶szi.}
+{185}{}{?rsÃ©g! Ide jÃ¶tt az ellensÃ©g egyik embere! ?rsÃ©g!}
+{186}{}{ValÃ³ban? TalÃ¡n meg szeretnÃ© leckÃ©ztetni ?ket? MegÃ­gÃ©rhetem, hogy teljes tÃ¡mogatÃ¡sunkrÃ³l biztosÃ­tjuk magÃ¡t, ha megÃ¶li BHK-9-et.}
+{187}{}{MÃ¡r halottnak is veheti.}
 {188}{}{Nem.}
-{189}{}{Kiváló. Remélem, hamarosan beszámolhat a sikerér?l.}
-{190}{}{Úgy lesz. Hadd kérdezzek még addig is!}
-{191}{}{Úgy lesz. Üdv!}
-{192}{}{Ebben az esetben maga csak ellenség lehet. Minden jót!}
-{193}{}{Minden jót!}
-{194}{}{A Nagy és Rettegett BHK-9 halálával a Hubologisták nem jelentenek többé igazi veszélyt se nekünk se a kutatóink számára. Gratulálok! Kivívta az elismerésünket. Szeretne beszélni az Uralkodónkkal?}
+{189}{}{KivÃ¡lÃ³. RemÃ©lem, hamarosan beszÃ¡molhat a sikerÃ©r?l.}
+{190}{}{Ãšgy lesz. Hadd kÃ©rdezzek mÃ©g addig is!}
+{191}{}{Ãšgy lesz. Ãœdv!}
+{192}{}{Ebben az esetben maga csak ellensÃ©g lehet. Minden jÃ³t!}
+{193}{}{Minden jÃ³t!}
+{194}{}{A Nagy Ã©s Rettegett BHK-9 halÃ¡lÃ¡val a HubologistÃ¡k nem jelentenek tÃ¶bbÃ© igazi veszÃ©lyt se nekÃ¼nk se a kutatÃ³ink szÃ¡mÃ¡ra. GratulÃ¡lok! KivÃ­vta az elismerÃ©sÃ¼nket. Szeretne beszÃ©lni az UralkodÃ³nkkal?}
 {195}{}{Igen.}
-{196}{}{Most nem. Ellenben volna néhány kérdésem.}
-{197}{}{Bebizonyította, hogy maga a Shik barátja. Mostantól magára bízhatom a titkainkat is. A hátsó fertályban észreveheti, hogy a nagy számítógépet véd? er?tér ki lett kapcsolva. Üsse be a "CSPDMSHR-Shih-huang-ti-X9372" jelszót és máris rácsatlakozott az Uralkodó-Számítógépre. Remélem, ez hasznosnak bizonyul majd.}
-{198}{}{Az Uralkodó egy SZÁMÍTÓGÉP?}
-{199}{}{Vettem. Kösz.}
-{200}{}{Igen. ? tárolja a történelmünket, a kutatási anyagainkat, és a jöv?beli projektjeink terveit. Sokkal jobb, mint egy gyarló ember! Mellesleg a javaslatait a saját emberi természetünknek megfelel? tudással elegyítjük.}
+{196}{}{Most nem. Ellenben volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{197}{}{BebizonyÃ­totta, hogy maga a Shik barÃ¡tja. MostantÃ³l magÃ¡ra bÃ­zhatom a titkainkat is. A hÃ¡tsÃ³ fertÃ¡lyban Ã©szreveheti, hogy a nagy szÃ¡mÃ­tÃ³gÃ©pet vÃ©d? er?tÃ©r ki lett kapcsolva. Ãœsse be a "CSPDMSHR-Shih-huang-ti-X9372" jelszÃ³t Ã©s mÃ¡ris rÃ¡csatlakozott az UralkodÃ³-SzÃ¡mÃ­tÃ³gÃ©pre. RemÃ©lem, ez hasznosnak bizonyul majd.}
+{198}{}{Az UralkodÃ³ egy SZÃMÃTÃ“GÃ‰P?}
+{199}{}{Vettem. KÃ¶sz.}
+{200}{}{Igen. ? tÃ¡rolja a tÃ¶rtÃ©nelmÃ¼nket, a kutatÃ¡si anyagainkat, Ã©s a jÃ¶v?beli projektjeink terveit. Sokkal jobb, mint egy gyarlÃ³ ember! Mellesleg a javaslatait a sajÃ¡t emberi termÃ©szetÃ¼nknek megfelel? tudÃ¡ssal elegyÃ­tjÃ¼k.}
 {201}{}{I ... see. Well, thanks for your time.}
-{202}{}{Kémeink azt jelezték, hogy maga átadta a gépmadár terveit a Hubologistáknak. Lopja el t?lük, és busásan megjutalmazzuk érte!}
-{203}{}{Mérget vehet rá. Ellenben még kérdeznék.}
-{204}{}{Szó sem lehet róla!}
-{205}{}{Köszönjük a gépmadár terveit, utazó. Mit tehetek immáron magáért?}
-{206}{}{Volna néhány kiváncsi kérdésem.}
-{207}{}{Öö... attól tartok, semmit.}
-{208}{}{Miután megszerezte a gépmadár terveit, adja oda ?ket Dr. Wong Yi Tze-nek! ? majd jó hasznát fogja venni.}
-{209}{}{Oké. Addig is feltennék néhány kérdést.}
-{210}{}{Oké. Viszlát!}
-{211}{}{. Szeretnék találkozni az Uralkodóval.}
+{202}{}{KÃ©meink azt jeleztÃ©k, hogy maga Ã¡tadta a gÃ©pmadÃ¡r terveit a HubologistÃ¡knak. Lopja el t?lÃ¼k, Ã©s busÃ¡san megjutalmazzuk Ã©rte!}
+{203}{}{MÃ©rget vehet rÃ¡. Ellenben mÃ©g kÃ©rdeznÃ©k.}
+{204}{}{SzÃ³ sem lehet rÃ³la!}
+{205}{}{KÃ¶szÃ¶njÃ¼k a gÃ©pmadÃ¡r terveit, utazÃ³. Mit tehetek immÃ¡ron magÃ¡Ã©rt?}
+{206}{}{Volna nÃ©hÃ¡ny kivÃ¡ncsi kÃ©rdÃ©sem.}
+{207}{}{Ã–Ã¶... attÃ³l tartok, semmit.}
+{208}{}{MiutÃ¡n megszerezte a gÃ©pmadÃ¡r terveit, adja oda ?ket Dr. Wong Yi Tze-nek! ? majd jÃ³ hasznÃ¡t fogja venni.}
+{209}{}{OkÃ©. Addig is feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{210}{}{OkÃ©. ViszlÃ¡t!}
+{211}{}{. SzeretnÃ©k talÃ¡lkozni az UralkodÃ³val.}
 {212}{}{ vagyok.}
-{213}{}{Emlékezzen rá, hogy Dr. Wong Yi Tze-nek kell odaadnia a terveket!}
-{214}{}{Remélem, nem azért jött, hogy inzultáljon...}
-{215}{}{Ahogy azt már mondtam, tudnunk kell, hogy hívják magát.}
+{213}{}{EmlÃ©kezzen rÃ¡, hogy Dr. Wong Yi Tze-nek kell odaadnia a terveket!}
+{214}{}{RemÃ©lem, nem azÃ©rt jÃ¶tt, hogy inzultÃ¡ljon...}
+{215}{}{Ahogy azt mÃ¡r mondtam, tudnunk kell, hogy hÃ­vjÃ¡k magÃ¡t.}
 {216}{}{All right, it's}
-{217}{}{Kopjon már le a nevemr?l, maga idióta!}
-{218}{}{Emlékezzen, az Uralkodó várja, hogy BHK-9 meghaljon...}
-{219}{}{Sajnálom, de az üzemanyagunkat nem tudom felajánlani. Talán azért jött, hogy beszéljen az Uralkodóval?}
-{220}{}{Ez miképp lehetséges?}
-{221}{}{Kérdezhetek valami mást?}
-{222}{}{Bárcsak felajánlhatnám az üzemanyagunkat, de sajnos a készleteink leapadtak. Valami módon átkerültek a Hubologistákhoz. Talán kéne találnia valakit, aki visszaszerzi nekünk.}
-{223}{}{Most akkor találkozhatok az Uralkodóval?}
+{217}{}{Kopjon mÃ¡r le a nevemr?l, maga idiÃ³ta!}
+{218}{}{EmlÃ©kezzen, az UralkodÃ³ vÃ¡rja, hogy BHK-9 meghaljon...}
+{219}{}{SajnÃ¡lom, de az Ã¼zemanyagunkat nem tudom felajÃ¡nlani. TalÃ¡n azÃ©rt jÃ¶tt, hogy beszÃ©ljen az UralkodÃ³val?}
+{220}{}{Ez mikÃ©pp lehetsÃ©ges?}
+{221}{}{KÃ©rdezhetek valami mÃ¡st?}
+{222}{}{BÃ¡rcsak felajÃ¡nlhatnÃ¡m az Ã¼zemanyagunkat, de sajnos a kÃ©szleteink leapadtak. Valami mÃ³don Ã¡tkerÃ¼ltek a HubologistÃ¡khoz. TalÃ¡n kÃ©ne talÃ¡lnia valakit, aki visszaszerzi nekÃ¼nk.}
+{223}{}{Most akkor talÃ¡lkozhatok az UralkodÃ³val?}
 {224}{}{I respectfully remind you that unless you have given the vertibird plans to Dr. Wong Yi Tze, I cannot grant you access to the Emperor. I hope you understand.}
-{500}{}{Azon nyomban távozzon, kérem, különben hívom az ?rséget!}
-{501}{}{Távozzon! Ez a második figyelmeztetés!}
-{502}{}{Ez az utolsó figyelmeztetés!}
-{503}{}{?rség!}
+{500}{}{Azon nyomban tÃ¡vozzon, kÃ©rem, kÃ¼lÃ¶nben hÃ­vom az ?rsÃ©get!}
+{501}{}{TÃ¡vozzon! Ez a mÃ¡sodik figyelmeztetÃ©s!}
+{502}{}{Ez az utolsÃ³ figyelmeztetÃ©s!}
+{503}{}{?rsÃ©g!}
 {1430}{}{The Emperor remains hidden from prying eyes. It is my job to act as the Emperor's screen. However, you have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
-{2001}{}{Öö... értem. Hát köszönöm, hogy rám pazarolta az idejét. Volna még egy falu, amit meg kell mentenem.}
+{2001}{}{Ã–Ã¶... Ã©rtem. HÃ¡t kÃ¶szÃ¶nÃ¶m, hogy rÃ¡m pazarolta az idejÃ©t. Volna mÃ©g egy falu, amit meg kell mentenem.}

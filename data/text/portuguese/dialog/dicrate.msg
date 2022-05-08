@@ -1,1 +1,1 @@
-{100}{}{Você vê caixotes preenchidos com vários produtos químicos que não servem de nada para você.}
+{100}{}{VocÃª vÃª caixotes preenchidos com vÃ¡rios produtos quÃ­micos que nÃ£o servem de nada para vocÃª.}

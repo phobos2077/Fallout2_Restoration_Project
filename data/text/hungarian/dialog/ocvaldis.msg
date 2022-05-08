@@ -1,55 +1,55 @@
-{100}{}{Ez a Halálkarom szokatlanul intelligens tekintettel néz rád.}
-{101}{}{Valdis, a Halálkarom.}
-{102}{}{Egy átlagos Halálkarom. Óriási teremtmény, er?s testtel, éles fogakkal és karmokkal felvértezve..}
-{103}{}{Üdvözöllek, ember!}
-{104}{}{Mivel szolgálhatok?}
+{100}{}{Ez a HalÃ¡lkarom szokatlanul intelligens tekintettel nÃ©z rÃ¡d.}
+{101}{}{Valdis, a HalÃ¡lkarom.}
+{102}{}{Egy Ã¡tlagos HalÃ¡lkarom. Ã“riÃ¡si teremtmÃ©ny, er?s testtel, Ã©les fogakkal Ã©s karmokkal felvÃ©rtezve..}
+{103}{}{ÃœdvÃ¶zÃ¶llek, ember!}
+{104}{}{Mivel szolgÃ¡lhatok?}
 {105}{}{Te lenni ki?}
-{106}{}{Mit te csinál?}
-{107}{}{Agy fáj. Én jönni vissza kés?bb.}
-{108}{}{Helló, ki vagy te?}
+{106}{}{Mit te csinÃ¡l?}
+{107}{}{Agy fÃ¡j. Ã‰n jÃ¶nni vissza kÃ©s?bb.}
+{108}{}{HellÃ³, ki vagy te?}
 {109}{}{Mi a feladatod?}
-{110}{}{Nem bántani akarom a többi Halálkarmot, de te sokkal... tanultabbnak t?nsz, mondhatjuk így?}
-{111}{}{Csak múlatom az id?t...}
-{112}{}{Valdisnak hívnak. És téged?}
-{113}{}{Én ember.}
-{114}{}{Óóóó! Valami csillog. Én menek máris.}
-{115}{}{Hé, itt én teszek fel kérdéseket!}
+{110}{}{Nem bÃ¡ntani akarom a tÃ¶bbi HalÃ¡lkarmot, de te sokkal... tanultabbnak t?nsz, mondhatjuk Ã­gy?}
+{111}{}{Csak mÃºlatom az id?t...}
+{112}{}{Valdisnak hÃ­vnak. Ã‰s tÃ©ged?}
+{113}{}{Ã‰n ember.}
+{114}{}{Ã“Ã³Ã³Ã³! Valami csillog. Ã‰n menek mÃ¡ris.}
+{115}{}{HÃ©, itt Ã©n teszek fel kÃ©rdÃ©seket!}
 {116}{}{Mennem kell.}
-{117}{}{Örülök, hogy találkoztunk, én}
-{118}{}{Értem.}
-{119}{}{Jelenleg a Menedék körülöttünk látható részét ?rzöm a fel nem hatalmazott személyekt?l.}
-{120}{}{Fhel nem hat alma zott szem éjek t??}
-{121}{}{Öö... biztos.}
-{122}{}{Te beszélni vicces. Én megy.}
+{117}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk, Ã©n}
+{118}{}{Ã‰rtem.}
+{119}{}{Jelenleg a MenedÃ©k kÃ¶rÃ¼lÃ¶ttÃ¼nk lÃ¡thatÃ³ rÃ©szÃ©t ?rzÃ¶m a fel nem hatalmazott szemÃ©lyekt?l.}
+{120}{}{Fhel nem hat alma zott szem Ã©jek t??}
+{121}{}{Ã–Ã¶... biztos.}
+{122}{}{Te beszÃ©lni vicces. Ã‰n megy.}
 {123}{}{Most megyek, Valdis.}
-{124}{}{Értem.}
-{125}{}{Hát, határozottan olyannak t?nsz, aki tudja, mit csinál.}
-{126}{}{Van egyáltalán valamiféle agyad ahhoz, hogy eldöntsd, ki a 'felhatalmazott' és ki nem?}
+{124}{}{Ã‰rtem.}
+{125}{}{HÃ¡t, hatÃ¡rozottan olyannak t?nsz, aki tudja, mit csinÃ¡l.}
+{126}{}{Van egyÃ¡ltalÃ¡n valamifÃ©le agyad ahhoz, hogy eldÃ¶ntsd, ki a 'felhatalmazott' Ã©s ki nem?}
 {127}{}{Why yes, I do. I also have enough brains to decide who is or is not an asshole -- and I have
  concluded that you excel in that category! Now, why don't you leave before I dance on your face for
  half an hour?}
 {128}{}{Rendben.}
-{129}{}{Rossz gyík. Most lel?lek!}
-{130}{}{Elnézést. Ezentúl vigyázok a nyelvemre.}
-{131}{}{Igen. Meglehet?sen különböz? szinteken járunk az oktatásunkban. Én személy szerint mindent megteszek ennek érdekében, és még a szabadid?mben is folytatom a tanulást.}
-{132}{}{Egy életcéllal rendelkez? iguana. Milyen fenemód aranyos!}
-{133}{}{Csak így tovább!}
-{134}{}{Ez kit?n? cél. Csak így tovább.}
-{135}{}{Hogy? Tudom én jól, hogy te ember vagy. A neved fel?l érdekl?dtem.}
-{136}{}{Nem kérdezni név, kérdezni 'te vagy'. Én vagy ember.}
-{137}{}{Én tudni. Én csak tesztel tégedet. Öö... menni te át...}
-{138}{}{Hallani valaki hívni. Én menek gyorsan.}
-{139}{}{Értem. Próbáljuk meg ezt még egyszer. Helló, Valdis vagyok. Téged hogy hívnak?}
-{140}{}{Én}
-{141}{}{Viszlát!}
-{142}{}{Nem felhatalmazott személy. Azt jelenti, hogy  'olyan ember, akinek nincs engedélye arra, hogy itt tartózkodjon.'}
-{143}{}{Ok. Én érteni els?re.}
-{144}{}{Már megint lenni fejfájás. Én mostan menek kifele.}
+{129}{}{Rossz gyÃ­k. Most lel?lek!}
+{130}{}{ElnÃ©zÃ©st. EzentÃºl vigyÃ¡zok a nyelvemre.}
+{131}{}{Igen. Meglehet?sen kÃ¼lÃ¶nbÃ¶z? szinteken jÃ¡runk az oktatÃ¡sunkban. Ã‰n szemÃ©ly szerint mindent megteszek ennek Ã©rdekÃ©ben, Ã©s mÃ©g a szabadid?mben is folytatom a tanulÃ¡st.}
+{132}{}{Egy Ã©letcÃ©llal rendelkez? iguana. Milyen fenemÃ³d aranyos!}
+{133}{}{Csak Ã­gy tovÃ¡bb!}
+{134}{}{Ez kit?n? cÃ©l. Csak Ã­gy tovÃ¡bb.}
+{135}{}{Hogy? Tudom Ã©n jÃ³l, hogy te ember vagy. A neved fel?l Ã©rdekl?dtem.}
+{136}{}{Nem kÃ©rdezni nÃ©v, kÃ©rdezni 'te vagy'. Ã‰n vagy ember.}
+{137}{}{Ã‰n tudni. Ã‰n csak tesztel tÃ©gedet. Ã–Ã¶... menni te Ã¡t...}
+{138}{}{Hallani valaki hÃ­vni. Ã‰n menek gyorsan.}
+{139}{}{Ã‰rtem. PrÃ³bÃ¡ljuk meg ezt mÃ©g egyszer. HellÃ³, Valdis vagyok. TÃ©ged hogy hÃ­vnak?}
+{140}{}{Ã‰n}
+{141}{}{ViszlÃ¡t!}
+{142}{}{Nem felhatalmazott szemÃ©ly. Azt jelenti, hogy  'olyan ember, akinek nincs engedÃ©lye arra, hogy itt tartÃ³zkodjon.'}
+{143}{}{Ok. Ã‰n Ã©rteni els?re.}
+{144}{}{MÃ¡r megint lenni fejfÃ¡jÃ¡s. Ã‰n mostan menek kifele.}
 {145}{}{My goal is to maintain as much patience as I can, in light of the fact that you are being rude.
  If you cannot deal with me civilly, then please leave.}
-{146}{}{Elnézést, megpróbálok udvariasabb lenni.}
+{146}{}{ElnÃ©zÃ©st, megprÃ³bÃ¡lok udvariasabb lenni.}
 {147}{}{Kend a hajadra!}
 {148}{}{Ja.}
-{149}{}{Jó napot.}
-{150}{}{Nagyon sajnálom, hogy meg kell öljelek.}
+{149}{}{JÃ³ napot.}
+{150}{}{Nagyon sajnÃ¡lom, hogy meg kell Ã¶ljelek.}
 {151}{}{ vagyok.}

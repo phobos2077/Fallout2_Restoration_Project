@@ -7,4 +7,4 @@
 {211}{}{ schafft es nicht das Kraftfeld abzuschalten.}
 {212}{}{ schaltet das Kraftfeld ein.}
 {213}{}{ schafft es nicht das Kraftfeld einzuschalten.}
-{300}{}{Du hast den Computer zerstört.}
+{300}{}{Du hast den Computer zerstÃ¶rt.}

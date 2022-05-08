@@ -1,146 +1,146 @@
-{100}{}{? a Wrighték egyik fia.}
-{101}{}{? a Wrighték egyik lánya.}
-{150}{}{A fiatalember arcán dühös kifejezés ül. Próbál nagyon kemény legénynek látszani.}
-{151}{}{? a Wrighték egyik fia. Szemlátomást felszerelte magát egy-két fegyverrel, de túl fiatal ahhoz, hogy értsen hozzájuk.}
-{152}{}{? a Wrighték egyik fia. Úgy néz ki, mint aki benéz.}
-{153}{}{? a Wrighték egyik fia. Nagyon úgy t?nik, hogy most szívesebben csinálna valami mást... bármi mást.}
-{160}{}{Egy fiatal n?t látsz, arcán zord arckifejezéssel. Próbál kemény csajnak mutatkozni.}
-{161}{}{? a Wrighték egyik lánya. Szemlátomást felszerelte magát egy-két fegyverrel, de túl fiatal ahhoz, hogy értsen hozzájuk.}
-{162}{}{? a Wrighték egyik lánya. Nem nagyon tör?dik veled, de azért jelent?ségteljesen ráteszi a kezét a fegyvertokjára.}
-{163}{}{? a Wrighték egyik lánya. Veszélyesebbnek t?nik, mint egy csörg?kígyó.}
-{164}{}{? a Wrighték egyik lánya. Veszélyesebbnek t?nik, mint egy csörg?kígyó. Valami rejtélyes oknál fogva ez izgalomba hoz téged.}
-{200}{}{::Éljenez::}
+{100}{}{? a WrightÃ©k egyik fia.}
+{101}{}{? a WrightÃ©k egyik lÃ¡nya.}
+{150}{}{A fiatalember arcÃ¡n dÃ¼hÃ¶s kifejezÃ©s Ã¼l. PrÃ³bÃ¡l nagyon kemÃ©ny legÃ©nynek lÃ¡tszani.}
+{151}{}{? a WrightÃ©k egyik fia. SzemlÃ¡tomÃ¡st felszerelte magÃ¡t egy-kÃ©t fegyverrel, de tÃºl fiatal ahhoz, hogy Ã©rtsen hozzÃ¡juk.}
+{152}{}{? a WrightÃ©k egyik fia. Ãšgy nÃ©z ki, mint aki benÃ©z.}
+{153}{}{? a WrightÃ©k egyik fia. Nagyon Ãºgy t?nik, hogy most szÃ­vesebben csinÃ¡lna valami mÃ¡st... bÃ¡rmi mÃ¡st.}
+{160}{}{Egy fiatal n?t lÃ¡tsz, arcÃ¡n zord arckifejezÃ©ssel. PrÃ³bÃ¡l kemÃ©ny csajnak mutatkozni.}
+{161}{}{? a WrightÃ©k egyik lÃ¡nya. SzemlÃ¡tomÃ¡st felszerelte magÃ¡t egy-kÃ©t fegyverrel, de tÃºl fiatal ahhoz, hogy Ã©rtsen hozzÃ¡juk.}
+{162}{}{? a WrightÃ©k egyik lÃ¡nya. Nem nagyon tÃ¶r?dik veled, de azÃ©rt jelent?sÃ©gteljesen rÃ¡teszi a kezÃ©t a fegyvertokjÃ¡ra.}
+{163}{}{? a WrightÃ©k egyik lÃ¡nya. VeszÃ©lyesebbnek t?nik, mint egy csÃ¶rg?kÃ­gyÃ³.}
+{164}{}{? a WrightÃ©k egyik lÃ¡nya. VeszÃ©lyesebbnek t?nik, mint egy csÃ¶rg?kÃ­gyÃ³. Valami rejtÃ©lyes oknÃ¡l fogva ez izgalomba hoz tÃ©ged.}
+{200}{}{::Ã‰ljenez::}
 {201}{}{::Tapsol::}
-{202}{}{::Fütyül::}
-{203}{}{[Énekel egy részt a Mad Max 3-ból.] "We don't need another hero, we don't need to know the way home..."}
-{204}{}{Hé! }
-{205}{}{Szuperül lezúztad az Enklávét, }
-{206}{}{Valószín?leg keményebb vagy, mint Tökös Tomi, hogy úgy letörted az Enklávé szarvát.}
-{207}{}{Azok az Enklávés fickók aztán jó nagy barmok lehettek.}
-{208}{}{Egy új VIRUST akartak a leveg?be nyomni? Rohadékok! Remélem, egy párat az én nevemben l?ttél le.}
-{209}{}{Azt hittem, az Elnök csak legenda, egy mumus, akivel a gyerekeket ijesztgetik.}
-{210}{}{Látszik, hogy megjártad a poklot. Pihenj egyet, megérdemled!}
-{211}{}{Nem akarod újra játszani a játékot egy másik karakterrel? Fektess minél nagyobb hangsúlyt a Túlélés képzettségre!}
-{212}{}{F.E.V.? Az meg mi a szösz?}
-{213}{}{New Renót Chris Avellone tervezte és Tom French szkriptelte. Tom egy zenekarban játszik, Chris meg magával játszik.}
-{214}{}{Remélem, hogy a Fallout 3-ban f?szerepl? leszek, mint például Tandi vagy Ian. B?nöz?ket játszani tök gyíkság.}
-{215}{}{Hallottam, hogy lenyomtad délen az Enklávét. Ez bizony elég bátor tett volt!}
-{225}{}{Hogy mész fürdeni, ha ez a fémvacak rajtad van?}
-{230}{}{Ne hadonássz azzal a fegyverrel a gyerekek el?tt, oké?}
-{231}{}{Ne villogj azzal a fegyverrel a gyerekek el?tt, oké?}
-{235}{}{A lopakodásoddal majd a frászt hoztad rám!}
+{202}{}{::FÃ¼tyÃ¼l::}
+{203}{}{[Ã‰nekel egy rÃ©szt a Mad Max 3-bÃ³l.] "We don't need another hero, we don't need to know the way home..."}
+{204}{}{HÃ©! }
+{205}{}{SzuperÃ¼l lezÃºztad az EnklÃ¡vÃ©t, }
+{206}{}{ValÃ³szÃ­n?leg kemÃ©nyebb vagy, mint TÃ¶kÃ¶s Tomi, hogy Ãºgy letÃ¶rted az EnklÃ¡vÃ© szarvÃ¡t.}
+{207}{}{Azok az EnklÃ¡vÃ©s fickÃ³k aztÃ¡n jÃ³ nagy barmok lehettek.}
+{208}{}{Egy Ãºj VIRUST akartak a leveg?be nyomni? RohadÃ©kok! RemÃ©lem, egy pÃ¡rat az Ã©n nevemben l?ttÃ©l le.}
+{209}{}{Azt hittem, az ElnÃ¶k csak legenda, egy mumus, akivel a gyerekeket ijesztgetik.}
+{210}{}{LÃ¡tszik, hogy megjÃ¡rtad a poklot. Pihenj egyet, megÃ©rdemled!}
+{211}{}{Nem akarod Ãºjra jÃ¡tszani a jÃ¡tÃ©kot egy mÃ¡sik karakterrel? Fektess minÃ©l nagyobb hangsÃºlyt a TÃºlÃ©lÃ©s kÃ©pzettsÃ©gre!}
+{212}{}{F.E.V.? Az meg mi a szÃ¶sz?}
+{213}{}{New RenÃ³t Chris Avellone tervezte Ã©s Tom French szkriptelte. Tom egy zenekarban jÃ¡tszik, Chris meg magÃ¡val jÃ¡tszik.}
+{214}{}{RemÃ©lem, hogy a Fallout 3-ban f?szerepl? leszek, mint pÃ©ldÃ¡ul Tandi vagy Ian. B?nÃ¶z?ket jÃ¡tszani tÃ¶k gyÃ­ksÃ¡g.}
+{215}{}{Hallottam, hogy lenyomtad dÃ©len az EnklÃ¡vÃ©t. Ez bizony elÃ©g bÃ¡tor tett volt!}
+{225}{}{Hogy mÃ©sz fÃ¼rdeni, ha ez a fÃ©mvacak rajtad van?}
+{230}{}{Ne hadonÃ¡ssz azzal a fegyverrel a gyerekek el?tt, okÃ©?}
+{231}{}{Ne villogj azzal a fegyverrel a gyerekek el?tt, okÃ©?}
+{235}{}{A lopakodÃ¡soddal majd a frÃ¡szt hoztad rÃ¡m!}
 {236}{}{Hova osongatsz ilyen b?szen?}
-{237}{}{Hé! Ne akarjál már köddé válni... majdnem lel?ttelek az isten szerelmére! A franc esne beléd!}
+{237}{}{HÃ©! Ne akarjÃ¡l mÃ¡r kÃ¶ddÃ© vÃ¡lni... majdnem lel?ttelek az isten szerelmÃ©re! A franc esne belÃ©d!}
 {240}{}{Na, mi van, }
 {241}{}{Fene meleg van, mi, }
 {242}{}{Na, mi van, }
 {245}{}{Itt egy }
 {250}{}{Itt egy }
 {255}{}{Itt egy }
-{260}{}{T?nés innen, miel?tt kilyuggatjuk az irhádat!}
-{261}{}{Húzz el innen! Neked meg a családodnak nem ajánlott ide jönni!}
-{265}{}{Dobd el a fegyvered, hajcsár, különben lelövünk!}
-{270}{}{Mi a jó büdös francnak lopakodsz? Golyót akarsz a fejedbe, hajcsár?}
-{275}{}{Földre a fegyverrel, most azonnal!}
-{276}{}{Dobd el a fegyveredet, különben golyót kapsz!}
-{277}{}{Rakd el a fegyveredet, különben golyót kapsz!}
-{280}{}{Minek lopakodsz te itt? Golyót akarsz a hátadba?}
-{281}{}{Mi a szarn... öö... fenének lopakodsz te itt? Azt akarod, hogy lel?jünk?}
-{285}{}{Az ott valami pénzbedobós automata a nyomodban?}
-{286}{}{Az ott nem egy robot pénznyel? automata?}
-{287}{}{Abban a robotban igazi agy van? Atyám!}
-{288}{}{Az ott valamiféle guruló agytárló ott melletted?}
-{289}{}{Az egy robot? Ilyet még sosem láttam korábban.}
-{295}{}{Jól látok? Az ott egy mutáns?}
-{296}{}{Az ott egy mutáns?}
-{297}{}{Szent brahminfos! Mutánsok New Renóban! Jót nem jelent, az biztos...}
-{298}{}{Az a mutáns egy jó nagy kib...}
-{299}{}{Remélem, a mutáns barátod visszafogja magát, hallod-e!}
+{260}{}{T?nÃ©s innen, miel?tt kilyuggatjuk az irhÃ¡dat!}
+{261}{}{HÃºzz el innen! Neked meg a csalÃ¡dodnak nem ajÃ¡nlott ide jÃ¶nni!}
+{265}{}{Dobd el a fegyvered, hajcsÃ¡r, kÃ¼lÃ¶nben lelÃ¶vÃ¼nk!}
+{270}{}{Mi a jÃ³ bÃ¼dÃ¶s francnak lopakodsz? GolyÃ³t akarsz a fejedbe, hajcsÃ¡r?}
+{275}{}{FÃ¶ldre a fegyverrel, most azonnal!}
+{276}{}{Dobd el a fegyveredet, kÃ¼lÃ¶nben golyÃ³t kapsz!}
+{277}{}{Rakd el a fegyveredet, kÃ¼lÃ¶nben golyÃ³t kapsz!}
+{280}{}{Minek lopakodsz te itt? GolyÃ³t akarsz a hÃ¡tadba?}
+{281}{}{Mi a szarn... Ã¶Ã¶... fenÃ©nek lopakodsz te itt? Azt akarod, hogy lel?jÃ¼nk?}
+{285}{}{Az ott valami pÃ©nzbedobÃ³s automata a nyomodban?}
+{286}{}{Az ott nem egy robot pÃ©nznyel? automata?}
+{287}{}{Abban a robotban igazi agy van? AtyÃ¡m!}
+{288}{}{Az ott valamifÃ©le gurulÃ³ agytÃ¡rlÃ³ ott melletted?}
+{289}{}{Az egy robot? Ilyet mÃ©g sosem lÃ¡ttam korÃ¡bban.}
+{295}{}{JÃ³l lÃ¡tok? Az ott egy mutÃ¡ns?}
+{296}{}{Az ott egy mutÃ¡ns?}
+{297}{}{Szent brahminfos! MutÃ¡nsok New RenÃ³ban! JÃ³t nem jelent, az biztos...}
+{298}{}{Az a mutÃ¡ns egy jÃ³ nagy kib...}
+{299}{}{RemÃ©lem, a mutÃ¡ns barÃ¡tod visszafogja magÃ¡t, hallod-e!}
 {305}{}{Mit akarsz?}
-{306}{}{Segítsek valamiben?}
+{306}{}{SegÃ­tsek valamiben?}
 {307}{}{Damn hot...}
-{308}{}{New Reno napról-napra szarabb hely...}
+{308}{}{New Reno naprÃ³l-napra szarabb hely...}
 {309}{}{Mi dolgod neked itt?}
 {310}{}{If you're lookin' for alcohol, the train station is the place to be.}
-{311}{}{Vigyázz, hogy mit csinálsz, barátom! Ez itt a Wright család vadászterülete.}
-{320}{}{Ebben a páncélban inkább a gyerekekkel kéne játszanod. Biztos odalennének t?le.}
-{321}{}{Nehogy véletlenül rálépj valamelyik pöttöm gyerekre ebben a páncélban, hallod-e!}
+{311}{}{VigyÃ¡zz, hogy mit csinÃ¡lsz, barÃ¡tom! Ez itt a Wright csalÃ¡d vadÃ¡szterÃ¼lete.}
+{320}{}{Ebben a pÃ¡ncÃ©lban inkÃ¡bb a gyerekekkel kÃ©ne jÃ¡tszanod. Biztos odalennÃ©nek t?le.}
+{321}{}{Nehogy vÃ©letlenÃ¼l rÃ¡lÃ©pj valamelyik pÃ¶ttÃ¶m gyerekre ebben a pÃ¡ncÃ©lban, hallod-e!}
 {322}{}{Nincs meleg odabenn?}
-{323}{}{Na, hiszen, egy sétáló h?t?gép. Mára megvolt a nap látványossága.}
-{324}{}{Autómosót keresel?}
-{325}{}{Úgy nézel ki, mintha egy csatarobotos játékból szalajtottak volna. Ez a Fallout 2. Nem lehet, hogy rossz könyvtárat nyitottál meg a vinyódon?}
-{326}{}{Hogy mész fürdeni, ha ez a fémvacak rajtad van?}
+{323}{}{Na, hiszen, egy sÃ©tÃ¡lÃ³ h?t?gÃ©p. MÃ¡ra megvolt a nap lÃ¡tvÃ¡nyossÃ¡ga.}
+{324}{}{AutÃ³mosÃ³t keresel?}
+{325}{}{Ãšgy nÃ©zel ki, mintha egy csatarobotos jÃ¡tÃ©kbÃ³l szalajtottak volna. Ez a Fallout 2. Nem lehet, hogy rossz kÃ¶nyvtÃ¡rat nyitottÃ¡l meg a vinyÃ³don?}
+{326}{}{Hogy mÃ©sz fÃ¼rdeni, ha ez a fÃ©mvacak rajtad van?}
 {335}{}{Hogy vagy, }
-{336}{}{Örülünk, hogy a család tagja lettél, ööö, annak ellenére, hogy nem vagy született családtag. Ööö... na hagyjuk...}
-{337}{}{Azt beszélik, Tökös Tomi visszajött a városba. Jobb lesz vigyázni!}
-{338}{}{Mi Wrightok vagyunk a leger?sebb család, ugyanis ez egy IGAZI család.}
-{339}{}{Szégyen, ami a kisöcsénkkel történt. Jó gyerek volt, de a várost elárasztotta a Jet és elég nehéz elmenni mellette...}
-{340}{}{Apu azt mondta, hogy a saját kezével fojt meg minket, ha megtudja, hogy Jetezünk.}
-{341}{}{Apu még mindig lelkibeteg, szóval vigyázz, hogy mit mondasz neki, hallod-e!}
-{342}{}{Chris jól megkapja majd a magáét, ha folyton kurvázni jár.}
+{336}{}{Ã–rÃ¼lÃ¼nk, hogy a csalÃ¡d tagja lettÃ©l, Ã¶Ã¶Ã¶, annak ellenÃ©re, hogy nem vagy szÃ¼letett csalÃ¡dtag. Ã–Ã¶Ã¶... na hagyjuk...}
+{337}{}{Azt beszÃ©lik, TÃ¶kÃ¶s Tomi visszajÃ¶tt a vÃ¡rosba. Jobb lesz vigyÃ¡zni!}
+{338}{}{Mi Wrightok vagyunk a leger?sebb csalÃ¡d, ugyanis ez egy IGAZI csalÃ¡d.}
+{339}{}{SzÃ©gyen, ami a kisÃ¶csÃ©nkkel tÃ¶rtÃ©nt. JÃ³ gyerek volt, de a vÃ¡rost elÃ¡rasztotta a Jet Ã©s elÃ©g nehÃ©z elmenni mellette...}
+{340}{}{Apu azt mondta, hogy a sajÃ¡t kezÃ©vel fojt meg minket, ha megtudja, hogy JetezÃ¼nk.}
+{341}{}{Apu mÃ©g mindig lelkibeteg, szÃ³val vigyÃ¡zz, hogy mit mondasz neki, hallod-e!}
+{342}{}{Chris jÃ³l megkapja majd a magÃ¡Ã©t, ha folyton kurvÃ¡zni jÃ¡r.}
 {343}{}{Damn hot...}
-{344}{}{Nem láttuk a mamit már egy ideje. Ha meglátod ?t, ne említsd neki a szeszf?zdét, oké?}
-{345}{}{Keith szétszedte a zongorát a múlt héten, aztán össze is rakta. Ügyes gyerek.}
+{344}{}{Nem lÃ¡ttuk a mamit mÃ¡r egy ideje. Ha meglÃ¡tod ?t, ne emlÃ­tsd neki a szeszf?zdÃ©t, okÃ©?}
+{345}{}{Keith szÃ©tszedte a zongorÃ¡t a mÃºlt hÃ©ten, aztÃ¡n Ã¶ssze is rakta. Ãœgyes gyerek.}
 {346}{}{We're going huntin' for radscorpions again in a few days.}
 {347}{}{If you're lookin' for alcohol, the train station is the place to be.}
-{348}{}{Vigyázz a gyerekekkel! Folyton itt lábatlankodnak.}
-{349}{}{Meg tudsz tanítani a bunyóra?}
-{350}{}{Te vagy az a bunyós, }
-{351}{}{Jól verekszel. Beszélned kéne apuval... öö, a f?nökkel, hátha tud munkát adni.}
-{352}{}{Elkelne nálunk egy tökös segítség. Talán érdekelhet téged a dolog...}
-{353}{}{Mikor lesz a következ? meccsed?}
-{354}{}{Szívesen fogadnék rád, de a mami mindig kijön a sodrából, ha nekiállunk hazárdjátékozni}
-{355}{}{Keménynek születtél, mint a vídia, nem vitás!}
-{356}{}{Vigyázz a Húsdarálóval! Nagyon aljas fickó. Hamarabb leharapja a füled, minthogy egyet pislantanál.}
-{360}{}{Mami azt mondja, hogy te a gonosz eszköze vagy. Illetve hogy olyan az eszközöd, mint az ördögé. Mittudomén.}
-{361}{}{Jobb, ha nem itt l?dörögsz... ha meglát a mami, kezdhetsz imádkozni.}
-{362}{}{Milyen a filmezés? A mami nem engedi, hogy megnézzük a filmjeidet.}
-{363}{}{Ne mesélj a kicsiknek a foglalkozásodról!}
-{364}{}{Mami ki fogja verni a balhét, ha meglát téged. Annyira álszent...}
+{348}{}{VigyÃ¡zz a gyerekekkel! Folyton itt lÃ¡batlankodnak.}
+{349}{}{Meg tudsz tanÃ­tani a bunyÃ³ra?}
+{350}{}{Te vagy az a bunyÃ³s, }
+{351}{}{JÃ³l verekszel. BeszÃ©lned kÃ©ne apuval... Ã¶Ã¶, a f?nÃ¶kkel, hÃ¡tha tud munkÃ¡t adni.}
+{352}{}{Elkelne nÃ¡lunk egy tÃ¶kÃ¶s segÃ­tsÃ©g. TalÃ¡n Ã©rdekelhet tÃ©ged a dolog...}
+{353}{}{Mikor lesz a kÃ¶vetkez? meccsed?}
+{354}{}{SzÃ­vesen fogadnÃ©k rÃ¡d, de a mami mindig kijÃ¶n a sodrÃ¡bÃ³l, ha nekiÃ¡llunk hazÃ¡rdjÃ¡tÃ©kozni}
+{355}{}{KemÃ©nynek szÃ¼lettÃ©l, mint a vÃ­dia, nem vitÃ¡s!}
+{356}{}{VigyÃ¡zz a HÃºsdarÃ¡lÃ³val! Nagyon aljas fickÃ³. Hamarabb leharapja a fÃ¼led, minthogy egyet pislantanÃ¡l.}
+{360}{}{Mami azt mondja, hogy te a gonosz eszkÃ¶ze vagy. Illetve hogy olyan az eszkÃ¶zÃ¶d, mint az Ã¶rdÃ¶gÃ©. MittudomÃ©n.}
+{361}{}{Jobb, ha nem itt l?dÃ¶rÃ¶gsz... ha meglÃ¡t a mami, kezdhetsz imÃ¡dkozni.}
+{362}{}{Milyen a filmezÃ©s? A mami nem engedi, hogy megnÃ©zzÃ¼k a filmjeidet.}
+{363}{}{Ne mesÃ©lj a kicsiknek a foglalkozÃ¡sodrÃ³l!}
+{364}{}{Mami ki fogja verni a balhÃ©t, ha meglÃ¡t tÃ©ged. Annyira Ã¡lszent...}
 {365}{}{If you're lookin' for alcohol, the train station is the place to be.}
-{366}{}{Mi Wrightok vagyunk a leger?sebb család, ugyanis ez egy IGAZI család.}
-{367}{}{Szégyen, ami a kisöcsénkkel történt. Jó gyerek volt, de a várost elárasztotta a Jet és elég nehéz elmenni mellette...}
-{368}{}{Apu azt mondta, hogy a saját kezével fojt meg minket, ha megtudja, hogy Jetezünk.}
-{369}{}{Apu még mindig lelkibeteg, szóval vigyázz, hogy mit mondasz neki, hallod-e!}
-{370}{}{Chris jól megkapja majd a magáét, ha folyton kurvázni jár.}
+{366}{}{Mi Wrightok vagyunk a leger?sebb csalÃ¡d, ugyanis ez egy IGAZI csalÃ¡d.}
+{367}{}{SzÃ©gyen, ami a kisÃ¶csÃ©nkkel tÃ¶rtÃ©nt. JÃ³ gyerek volt, de a vÃ¡rost elÃ¡rasztotta a Jet Ã©s elÃ©g nehÃ©z elmenni mellette...}
+{368}{}{Apu azt mondta, hogy a sajÃ¡t kezÃ©vel fojt meg minket, ha megtudja, hogy JetezÃ¼nk.}
+{369}{}{Apu mÃ©g mindig lelkibeteg, szÃ³val vigyÃ¡zz, hogy mit mondasz neki, hallod-e!}
+{370}{}{Chris jÃ³l megkapja majd a magÃ¡Ã©t, ha folyton kurvÃ¡zni jÃ¡r.}
 {371}{}{Damn hot...}
-{372}{}{Keith szétszedte a zongorát a múlt héten, aztán össze is rakta. Ügyes gyerek.}
+{372}{}{Keith szÃ©tszedte a zongorÃ¡t a mÃºlt hÃ©ten, aztÃ¡n Ã¶ssze is rakta. Ãœgyes gyerek.}
 {373}{}{We're going huntin' for radscorpions again in a few days.}
-{374}{}{Te TÉNYLEG Istennel beszélsz, amikor szexelsz a színpadon?}
-{375}{}{Mami azt mondja, hogy te az ördög eszköze vagy.}
-{376}{}{Mami szerint te egy ringyó vagy. Egy szemérmetlen cafka. Nem tudom, mit akar ezzel.}
+{374}{}{Te TÃ‰NYLEG Istennel beszÃ©lsz, amikor szexelsz a szÃ­npadon?}
+{375}{}{Mami azt mondja, hogy te az Ã¶rdÃ¶g eszkÃ¶ze vagy.}
+{376}{}{Mami szerint te egy ringyÃ³ vagy. Egy szemÃ©rmetlen cafka. Nem tudom, mit akar ezzel.}
 {385}{}{You planning to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
 {386}{}{If you're lookin' for alcohol, the train station is the place to be. }
-{387}{}{Vigyázz, hogy mit csinálsz, barátom! Ez itt a Wright család vadászterülete.}
-{390}{}{Jobb, ha továbbállsz... mi nem nagyon szíveljük a hajcsárokat.}
-{391}{}{Ne is reménykedj abban, hogy itt bárkit is be tudsz fogni! Ha balhézol, kinyúvasztunk!}
-{392}{}{Tartsuk meg a távolságot, hajcsár! Ha üzleti ügyed van apuval, eredj és intézd el vele!}
+{387}{}{VigyÃ¡zz, hogy mit csinÃ¡lsz, barÃ¡tom! Ez itt a Wright csalÃ¡d vadÃ¡szterÃ¼lete.}
+{390}{}{Jobb, ha tovÃ¡bbÃ¡llsz... mi nem nagyon szÃ­veljÃ¼k a hajcsÃ¡rokat.}
+{391}{}{Ne is remÃ©nykedj abban, hogy itt bÃ¡rkit is be tudsz fogni! Ha balhÃ©zol, kinyÃºvasztunk!}
+{392}{}{Tartsuk meg a tÃ¡volsÃ¡got, hajcsÃ¡r! Ha Ã¼zleti Ã¼gyed van apuval, eredj Ã©s intÃ©zd el vele!}
 {393}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
-{394}{}{Figyellek, hajcsár, szóval jól gondold meg, mit csinálsz, hallod-e!}
-{395}{}{Hajcsár, ha bármelyik gyerekhez csak egy ujjal hozzányúlsz, úgy belédlövök, hogy elszállsz a cip?db?l!}
-{396}{}{Hajcsár, ha bármelyik gyerekhez csak egy ujjal hozzányúlsz, megöllek!}
+{394}{}{Figyellek, hajcsÃ¡r, szÃ³val jÃ³l gondold meg, mit csinÃ¡lsz, hallod-e!}
+{395}{}{HajcsÃ¡r, ha bÃ¡rmelyik gyerekhez csak egy ujjal hozzÃ¡nyÃºlsz, Ãºgy belÃ©dlÃ¶vÃ¶k, hogy elszÃ¡llsz a cip?db?l!}
+{396}{}{HajcsÃ¡r, ha bÃ¡rmelyik gyerekhez csak egy ujjal hozzÃ¡nyÃºlsz, megÃ¶llek!}
 {397}{}{If you're lookin' for alcohol, the train station is the place to be.}
-{398}{}{Ha egyetlen Wrightnak is bántódása esik, hajcsár, a családomnak addig nem lesz nyugta, amíg meg nem rohadsz a Golgotán.}
-{399}{}{Üzleti ügyben jöttél apuhoz? Nem hinném, hogy apu hajcsárokkal üzletelne, szóval jobb, ha lelépsz!}
-{410}{}{Jobb, ha olajra lépsz... ne haragudj, de apu nem nagyon csípi a törzsbélieket.}
-{411}{}{Meg se forduljon a fejedben, hogy bajt keverj! A Wright család akkora túler?ben van, hogy... ööö... szóval sokszoros túler?ben van.}
-{412}{}{Tartsuk meg a távolságot! Ha üzletelni akarsz, tedd, aztán lépj le!}
+{398}{}{Ha egyetlen Wrightnak is bÃ¡ntÃ³dÃ¡sa esik, hajcsÃ¡r, a csalÃ¡domnak addig nem lesz nyugta, amÃ­g meg nem rohadsz a GolgotÃ¡n.}
+{399}{}{Ãœzleti Ã¼gyben jÃ¶ttÃ©l apuhoz? Nem hinnÃ©m, hogy apu hajcsÃ¡rokkal Ã¼zletelne, szÃ³val jobb, ha lelÃ©psz!}
+{410}{}{Jobb, ha olajra lÃ©psz... ne haragudj, de apu nem nagyon csÃ­pi a tÃ¶rzsbÃ©lieket.}
+{411}{}{Meg se forduljon a fejedben, hogy bajt keverj! A Wright csalÃ¡d akkora tÃºler?ben van, hogy... Ã¶Ã¶Ã¶... szÃ³val sokszoros tÃºler?ben van.}
+{412}{}{Tartsuk meg a tÃ¡volsÃ¡got! Ha Ã¼zletelni akarsz, tedd, aztÃ¡n lÃ©pj le!}
 {413}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
-{414}{}{Figyellek, szóval jól gondold meg, mit csinálsz, hallod-e!}
-{415}{}{Honnan jöttél? Ilyeneket, mint te, már régóta nem láttam minálunk.}
+{414}{}{Figyellek, szÃ³val jÃ³l gondold meg, mit csinÃ¡lsz, hallod-e!}
+{415}{}{Honnan jÃ¶ttÃ©l? Ilyeneket, mint te, mÃ¡r rÃ©gÃ³ta nem lÃ¡ttam minÃ¡lunk.}
 {416}{}{If you're lookin' for alcohol, the train station is the place to be.}
-{417}{}{Ha egyetlen Wrightnak is bántódása esik, a családomnak addig nem lesz nyugta, amíg meg nem rohadsz a Golgotán.}
-{418}{}{Üzleti ügyben keresed aput? Hát jó szerencsét! Nem hiszem, hogy bárkit is felvenne mostanság.}
-{425}{}{Annak a ghoulnak kívül tágasabb! Küldd vissza Gekkóba, ahova való!}
-{426}{}{Jobb lenne, ha távol tartanád azt a ghoult a gyerekekt?l! Még a végén sugárfert?zést kapnak.}
-{427}{}{Azt ajánlom, hogy a ghoul barátoddal együtt menjetek innen, miel?tt baj lesz!}
-{1204}{}{! Nem semmi, ahogy az Enklávét seggbe rúgtad... öö, fenékbe!}
-{1205}{}{. Ehhez aztán kellett bátorság.}
-{1240}{}{. Mi járatban?}
+{417}{}{Ha egyetlen Wrightnak is bÃ¡ntÃ³dÃ¡sa esik, a csalÃ¡domnak addig nem lesz nyugta, amÃ­g meg nem rohadsz a GolgotÃ¡n.}
+{418}{}{Ãœzleti Ã¼gyben keresed aput? HÃ¡t jÃ³ szerencsÃ©t! Nem hiszem, hogy bÃ¡rkit is felvenne mostansÃ¡g.}
+{425}{}{Annak a ghoulnak kÃ­vÃ¼l tÃ¡gasabb! KÃ¼ldd vissza GekkÃ³ba, ahova valÃ³!}
+{426}{}{Jobb lenne, ha tÃ¡vol tartanÃ¡d azt a ghoult a gyerekekt?l! MÃ©g a vÃ©gÃ©n sugÃ¡rfert?zÃ©st kapnak.}
+{427}{}{Azt ajÃ¡nlom, hogy a ghoul barÃ¡toddal egyÃ¼tt menjetek innen, miel?tt baj lesz!}
+{1204}{}{! Nem semmi, ahogy az EnklÃ¡vÃ©t seggbe rÃºgtad... Ã¶Ã¶, fenÃ©kbe!}
+{1205}{}{. Ehhez aztÃ¡n kellett bÃ¡torsÃ¡g.}
+{1240}{}{. Mi jÃ¡ratban?}
 {1241}{}{?}
-{1242}{}{. Hogy mennek a dolgok mostanában?}
-{1245}{}{! Fegyver van nála, vigyázzatok! Hívjátok a többieket!}
-{1250}{}{! Fegyver van nála, vigyázzatok! Hívjátok a többieket!}
-{1255}{}{! Ott lopakodik, vigyázzatok! Hívjátok a többieket!}
-{1335}{}{? Nem kötött beléd senki a városban?}
-{1350}{}{, ugye? Jó vagy a ringben! A legjobb, akit valaha láttam errefelé.}
+{1242}{}{. Hogy mennek a dolgok mostanÃ¡ban?}
+{1245}{}{! Fegyver van nÃ¡la, vigyÃ¡zzatok! HÃ­vjÃ¡tok a tÃ¶bbieket!}
+{1250}{}{! Fegyver van nÃ¡la, vigyÃ¡zzatok! HÃ­vjÃ¡tok a tÃ¶bbieket!}
+{1255}{}{! Ott lopakodik, vigyÃ¡zzatok! HÃ­vjÃ¡tok a tÃ¶bbieket!}
+{1335}{}{? Nem kÃ¶tÃ¶tt belÃ©d senki a vÃ¡rosban?}
+{1350}{}{, ugye? JÃ³ vagy a ringben! A legjobb, akit valaha lÃ¡ttam errefelÃ©.}

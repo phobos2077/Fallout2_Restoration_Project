@@ -1,50 +1,50 @@
-{100}{}{Você vê um monge de meia idade.}
-{101}{}{Você vê o Irmão Mateus.}
-{102}{}{Ele está de pé no pódio pregando para os cidadãos da Abadia.}
+{100}{}{VocÃª vÃª um monge de meia idade.}
+{101}{}{VocÃª vÃª o IrmÃ£o Mateus.}
+{102}{}{Ele estÃ¡ de pÃ© no pÃ³dio pregando para os cidadÃ£os da Abadia.}
 {200}{}{As boas pessoas da Abadia. Tome um momento para ouvir, porque eu tenho muito o que dizer.}
-{201}{}{Aqui recolhemos, as relíquias sagradas de uma época longa.}
-{202}{}{Queimada pela Chama do Dilúvio, no escuro, fomos lançados. }
+{201}{}{Aqui recolhemos, as relÃ­quias sagradas de uma Ã©poca longa.}
+{202}{}{Queimada pela Chama do DilÃºvio, no escuro, fomos lanÃ§ados. }
 {203}{}{Um Memorial que devemos fazer, para preservar a sabedoria dos antigos.}
 {204}{}{Devemos cuidar e cuidar disso, embora a chama tenha esfriado;}
 {205}{}{Poderia inflamar mais uma vez, se a sabedoria fosse utilizada.}
-{206}{}{Assim, ninguém deve aprender, por medo de outro Dilúvio de Chamas.}
-{207}{}{Mas um dia, os homens devem subir acima de seu desejo por destruição.}
-{208}{}{E a Recordação vai estar lá, à espera de re-introdução.}
-{209}{}{Então, nós tendemos a nossa santa tarefa, para que não seja perdida aquela sabedoria.}
+{206}{}{Assim, ninguÃ©m deve aprender, por medo de outro DilÃºvio de Chamas.}
+{207}{}{Mas um dia, os homens devem subir acima de seu desejo por destruiÃ§Ã£o.}
+{208}{}{E a RecordaÃ§Ã£o vai estar lÃ¡, Ã  espera de re-introduÃ§Ã£o.}
+{209}{}{EntÃ£o, nÃ³s tendemos a nossa santa tarefa, para que nÃ£o seja perdida aquela sabedoria.}
 {210}{}{Temos de preservar e proteger, mas nunca vamos usar.}
-{211}{}{Então, vão agora meus amigos, e deixem seus espíritos ser levantados;}
-{212}{}{Para os guardiões do conhecimento, cada um de nós já foi dotado.}
+{211}{}{EntÃ£o, vÃ£o agora meus amigos, e deixem seus espÃ­ritos ser levantados;}
+{212}{}{Para os guardiÃµes do conhecimento, cada um de nÃ³s jÃ¡ foi dotado.}
 {213}{}{Agora, por favor, tomem um momento para refletir sobre o que eu disse.}
 {224}{}{Agora, por favor, tomem um momento para refletir sobre o que eu disse.}
-{300}{}{Saudações amigo. Não creio ter visto você por aqui antes. Meu nome é Irmão Matthew e eu ajudo a
-  espalhar a palavra sobre a importância de preservar o conhecimento dos antigos.}
-{301}{}{É bom conhecer você, Matt. Meu nome é }
+{300}{}{SaudaÃ§Ãµes amigo. NÃ£o creio ter visto vocÃª por aqui antes. Meu nome Ã© IrmÃ£o Matthew e eu ajudo a
+Â  espalhar a palavra sobre a importÃ¢ncia de preservar o conhecimento dos antigos.}
+{301}{}{Ã‰ bom conhecer vocÃª, Matt. Meu nome Ã© }
 {302}{}{ e eu estou em uma busca pelo santo GECK.}
 {303}{}{Desculpe, devo estar indo.}
-{400}{}{Um GECK, hein? Acho que lembro de ler algo sobre isso durante uma das minhas sessões de transcrição. Então deve
-  estar em nosso banco de dados, mas receio que o acesso aos nossos computadores seja restrito. No entanto, se você conversar com o abade, é
-  É possível que ele lhe conceda acesso. Não custa tentar, de qualquer forma. Ah, e sinta-se à vontade para navegar em nossa coleção
-  de relíquias sagradas de antes da guerra. Gostaria de pedir-lhe para não danificar nada, mas receio que tudo já esteja inutilizado, se não reparado.}
+{400}{}{Um GECK, hein? Acho que lembro de ler algo sobre isso durante uma das minhas sessÃµes de transcriÃ§Ã£o. EntÃ£o deve
+Â  estar em nosso banco de dados, mas receio que o acesso aos nossos computadores seja restrito. No entanto, se vocÃª conversar com o abade, Ã©
+Â  Ã‰ possÃ­vel que ele lhe conceda acesso. NÃ£o custa tentar, de qualquer forma. Ah, e sinta-se Ã  vontade para navegar em nossa coleÃ§Ã£o
+Â  de relÃ­quias sagradas de antes da guerra. Gostaria de pedir-lhe para nÃ£o danificar nada, mas receio que tudo jÃ¡ esteja inutilizado, se nÃ£o reparado.}
 {401}{}{Eu acho que eu poderia. Eu tenho algumas perguntas embora.}
 {402}{}{Obrigado. Eu acho que vou fazer isso agora.}
-{500}{}{Eu estou ao seu serviço. O que você gostaria de saber?}
-{501}{}{O que você pode me dizer sobre este lugar?}
-{502}{}{Você parece ser muito poético em sua pregação. Alguma razão para isso?}
-{503}{}{Deixa pra lá. Cuide-se.}
-{600}{}{A Abadia é o lar de qualquer pessoa, desde que não causem problemas. Somos uma comunidade independente e raramente recebemos
-  visitantes, como você. A maioria daqueles que você vê aqui são descendentes dos fundadores originais que se estabeleceram
-  neste antigo mosteiro não muito tempo depois do grande dilúvio da Chama.}
+{500}{}{Eu estou ao seu serviÃ§o. O que vocÃª gostaria de saber?}
+{501}{}{O que vocÃª pode me dizer sobre este lugar?}
+{502}{}{VocÃª parece ser muito poÃ©tico em sua pregaÃ§Ã£o. Alguma razÃ£o para isso?}
+{503}{}{Deixa pra lÃ¡. Cuide-se.}
+{600}{}{A Abadia Ã© o lar de qualquer pessoa, desde que nÃ£o causem problemas. Somos uma comunidade independente e raramente recebemos
+Â  visitantes, como vocÃª. A maioria daqueles que vocÃª vÃª aqui sÃ£o descendentes dos fundadores originais que se estabeleceram
+Â  neste antigo mosteiro nÃ£o muito tempo depois do grande dilÃºvio da Chama.}
 {601}{}{Continue.}
-{602}{}{A qualidade tranquila e pacífica deste lugar tornou-a uma casa atraente para outros viajantes que vagaram
-  aqui ao longo dos anos, procurando escapar do caos sombrio dos resíduos. Claro, o verdadeiro valor desse lugar reside
-  em sua vasta biblioteca. Está cheio de tomos velhos, contendo a estranha sabedoria da idade perdida. Com o tempo, chegamos a
-  nos tornar os guardiões dessa sabedoria.}
+{602}{}{A qualidade tranquila e pacÃ­fica deste lugar tornou-a uma casa atraente para outros viajantes que vagaram
+Â  aqui ao longo dos anos, procurando escapar do caos sombrio dos resÃ­duos. Claro, o verdadeiro valor desse lugar reside
+Â  em sua vasta biblioteca. EstÃ¡ cheio de tomos velhos, contendo a estranha sabedoria da idade perdida. Com o tempo, chegamos a
+Â  nos tornar os guardiÃµes dessa sabedoria.}
 {603}{}{Muito interessante. Outra pergunta.}
 {604}{}{Interessantes. Bem, tenho que ir.}
-{700}{}{[O homem ri de sua pergunta] Não, nenhuma razão específica. Acabei de ler muita poesia durante toda a minha vida
-  e eu gosto de aplicá-la aos meus ensinamentos. Isso ajuda a deixar um maior impacto sobre aqueles que ouvem.}
+{700}{}{[O homem ri de sua pergunta] NÃ£o, nenhuma razÃ£o especÃ­fica. Acabei de ler muita poesia durante toda a minha vida
+Â  e eu gosto de aplicÃ¡-la aos meus ensinamentos. Isso ajuda a deixar um maior impacto sobre aqueles que ouvem.}
 {701}{}{Justo o suficiente. Outra pergunta.}
-{800}{}{É bom ver você de novo }
-{801}{}{. O que eu posso fazer por você?}
+{800}{}{Ã‰ bom ver vocÃª de novo }
+{801}{}{. O que eu posso fazer por vocÃª?}
 {802}{}{Eu tenho algumas perguntas.}
-{803}{}{Nada. Vejo você por aí.}
+{803}{}{Nada. Vejo vocÃª por aÃ­.}

@@ -1,3 +1,3 @@
-{100}{}{Du findest nichts Wertvolles im Gerümpel. Vielleicht wenn du wüsstest nach was du suchen könntest...}
+{100}{}{Du findest nichts Wertvolles im GerÃ¼mpel. Vielleicht wenn du wÃ¼sstest nach was du suchen kÃ¶nntest...}
 {101}{}{Auf der linken Seite ist nichts Wertvolles.}
-{102}{}{Du findest ein zerrissenes Stück Papier mit so einer Art Kennwort drauf.}
+{102}{}{Du findest ein zerrissenes StÃ¼ck Papier mit so einer Art Kennwort drauf.}

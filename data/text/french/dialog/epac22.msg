@@ -3,59 +3,59 @@
 {200}{}{<Zzzzzt> ...Bonjour... <zzZzzt> ...Peux... <zzzZzzZtt> ...entendre... ?}
 {201}{}{Pardon ?}
 {202}{}{Bien. Au revoir.}
-{203}{}{Mes... <zZzzzt> ...capteurs... <ZzzzzzZzt> [Grésille] ...réparer ?}
-{204}{}{Désolé, mais je n'arrive pas à te comprendre, il y a trop de bruit de fond. Je vais voir si je peux essayer d'arranger ça...}
-{205}{}{Je n'ai pas le temps pour ça. A plus.}
-{300}{}{Ah, merci beaucoup de m'avoir réparé !! Ca devenait terriblement ennuyeux de ne pas pouvoir communiquer avec les personnes que je rencontrais.}
-{301}{}{C'est agréable de pouvoir te comprendre. Quoi qu'il en soit, quel est cet endroit exactement ?}
-{302}{}{Ici, c'est "L'Agence de Protection Environnemental". Avant la guerre, c'était un complexe gouvernemental où l'on effectuait des recherches top secrètes. Ca a été très vite évacué après les premiers bombardements.}
-{303}{}{Intéressant. Et, quel est ton rôle ici ?}
-{304}{}{Eh bien, contrairement aux autres hologrammes que tu as pu rencontrer, on ne m'a pas affecté de tâche particulière. Je réponds simplement aux questions que l'on me pose et j'aide à résoudre des problèmes mathématiques que l'esprit humain ne peut pas.}
+{203}{}{Mes... <zZzzzt> ...capteurs... <ZzzzzzZzt> [GrÃ©sille] ...rÃ©parer ?}
+{204}{}{DÃ©solÃ©, mais je n'arrive pas Ã  te comprendre, il y a trop de bruit de fond. Je vais voir si je peux essayer d'arranger Ã§a...}
+{205}{}{Je n'ai pas le temps pour Ã§a. A plus.}
+{300}{}{Ah, merci beaucoup de m'avoir rÃ©parÃ© !! Ca devenait terriblement ennuyeux de ne pas pouvoir communiquer avec les personnes que je rencontrais.}
+{301}{}{C'est agrÃ©able de pouvoir te comprendre. Quoi qu'il en soit, quel est cet endroit exactement ?}
+{302}{}{Ici, c'est "L'Agence de Protection Environnemental". Avant la guerre, c'Ã©tait un complexe gouvernemental oÃ¹ l'on effectuait des recherches top secrÃ¨tes. Ca a Ã©tÃ© trÃ¨s vite Ã©vacuÃ© aprÃ¨s les premiers bombardements.}
+{303}{}{IntÃ©ressant. Et, quel est ton rÃ´le ici ?}
+{304}{}{Eh bien, contrairement aux autres hologrammes que tu as pu rencontrer, on ne m'a pas affectÃ© de tÃ¢che particuliÃ¨re. Je rÃ©ponds simplement aux questions que l'on me pose et j'aide Ã  rÃ©soudre des problÃ¨mes mathÃ©matiques que l'esprit humain ne peut pas.}
 {305}{}{Je vois. Bon, J'ai toujours des questions.}
-{310}{}{Tu as des questions ? Excellent. Pose les moi et j'y répondrai le mieux que mes capacités me le permettent.}
-{311}{}{Y a-t-il un autre moyen d'entrer dans ce complexe, en dehors du système de ventilation ?}
-{312}{}{Il existe un autre moyen d'entrer ici, mais il requiert un mot de passe. Cet ascenseur de service t'y amènera.}
-{313}{}{Peux-tu identifier certains objets que j'ai trouvés dans le coin ?}
+{310}{}{Tu as des questions ? Excellent. Pose les moi et j'y rÃ©pondrai le mieux que mes capacitÃ©s me le permettent.}
+{311}{}{Y a-t-il un autre moyen d'entrer dans ce complexe, en dehors du systÃ¨me de ventilation ?}
+{312}{}{Il existe un autre moyen d'entrer ici, mais il requiert un mot de passe. Cet ascenseur de service t'y amÃ¨nera.}
+{313}{}{Peux-tu identifier certains objets que j'ai trouvÃ©s dans le coin ?}
 {314}{}{Laisse-tomber. Je n'ai besoin de rien.}
-{320}{}{Bien sûr, l'ascenseur principal, à la surface, devrait te conduire où tu veux. Pourquoi être passé par le système de ventilation ?}
-{321}{}{Eh bien, cet ascenseur ne fonctionne plus et la ventilation est le seul moyen que j'ai trouvé.}
-{322}{}{Oh, je vois. Je comprends maintenant. Eh bien, il y a un autre chemin. Il y a un ascenseur de service qui s'arrête au niveau 2. Il devrait être accessible sous l'atelier du Docteur. On peut le trouver à l'extérieur, à l'Est de l'entrée principale de l'EPA. Ceci-dit, tu auras besoin d'un code d'accès pour l'utiliser. Mais comme je te suis reconnaissant de m'avoir réparé, je vais te dire le code. Le code est "POT DE FLEURS".}
+{320}{}{Bien sÃ»r, l'ascenseur principal, Ã  la surface, devrait te conduire oÃ¹ tu veux. Pourquoi Ãªtre passÃ© par le systÃ¨me de ventilation ?}
+{321}{}{Eh bien, cet ascenseur ne fonctionne plus et la ventilation est le seul moyen que j'ai trouvÃ©.}
+{322}{}{Oh, je vois. Je comprends maintenant. Eh bien, il y a un autre chemin. Il y a un ascenseur de service qui s'arrÃªte au niveau 2. Il devrait Ãªtre accessible sous l'atelier du Docteur. On peut le trouver Ã  l'extÃ©rieur, Ã  l'Est de l'entrÃ©e principale de l'EPA. Ceci-dit, tu auras besoin d'un code d'accÃ¨s pour l'utiliser. Mais comme je te suis reconnaissant de m'avoir rÃ©parÃ©, je vais te dire le code. Le code est "POT DE FLEURS".}
 {323}{}{Merci. Permets-moi de te demander autre chose.}
-{324}{}{Ah oui, je vois de quoi tu parles. Je ne devrais pas divulguer ce code, mais je te suis reconnaissant de m'avoir réparé, Je vais te le dire. Le code est "POT DE FLEUR".}
+{324}{}{Ah oui, je vois de quoi tu parles. Je ne devrais pas divulguer ce code, mais je te suis reconnaissant de m'avoir rÃ©parÃ©, Je vais te le dire. Le code est "POT DE FLEUR".}
 {330}{}{Je vais faire de mon mieux. Que veux-tu que j'identifie ?}
 {331}{}{A quoi sert cette nourriture pour chien ?}
-{332}{}{J'ai trouvé cette seringue, pleine d'une substance inconnue. C'est marqué que c'est d'avant-guerre. Sais-tu ce que c'est ?}
-{333}{}{J'ai trouvé ces tubes. Pourrais-je en faire quelque chose de spécial ?}
-{334}{}{Quels sont les effets de cette drogue que j'ai trouvée ?}
-{335}{}{J'ai conçu des produits inconnus avec la machine M. Chemmie ! Que font-ils ?}
-{336}{}{J'ai trouvé de la dynamite différente de celle que j'ai déjà vue. Comment on l'utilise ?}
+{332}{}{J'ai trouvÃ© cette seringue, pleine d'une substance inconnue. C'est marquÃ© que c'est d'avant-guerre. Sais-tu ce que c'est ?}
+{333}{}{J'ai trouvÃ© ces tubes. Pourrais-je en faire quelque chose de spÃ©cial ?}
+{334}{}{Quels sont les effets de cette drogue que j'ai trouvÃ©e ?}
+{335}{}{J'ai conÃ§u des produits inconnus avec la machine M. Chemmie ! Que font-ils ?}
+{336}{}{J'ai trouvÃ© de la dynamite diffÃ©rente de celle que j'ai dÃ©jÃ  vue. Comment on l'utilise ?}
 {337}{}{En fait, changeons de sujet.}
-{340}{}{Eh bien, les concepteurs originaux de cet endroit ont tujours aimé placer des références de films, livres, et autres dans le même genre. Ils trouvaient ça drôle et ils n'étaient pas les seuls. La nourriture pour chien est une référence à un film, mais je te laisse deviner lequel.}
-{341}{}{Très bien. Changeons de sujet.}
-{350}{}{Eh bien, ce sont les outils de base du chimiste. Je suppose que si tu veux créer quelque chose, tu en trouveras l'utilité.}
-{351}{}{Très bien. Changeons de sujet.}
-{360}{}{Je ne reconnais pas l'objet que tu tiens. S'il te plaît, place-le dans la machine à côté de moi pour l'analyser.}
-{361}{}{Très bien. [Tu places l'objet dans la machine et tu la refermes.]}
+{340}{}{Eh bien, les concepteurs originaux de cet endroit ont tujours aimÃ© placer des rÃ©fÃ©rences de films, livres, et autres dans le mÃªme genre. Ils trouvaient Ã§a drÃ´le et ils n'Ã©taient pas les seuls. La nourriture pour chien est une rÃ©fÃ©rence Ã  un film, mais je te laisse deviner lequel.}
+{341}{}{TrÃ¨s bien. Changeons de sujet.}
+{350}{}{Eh bien, ce sont les outils de base du chimiste. Je suppose que si tu veux crÃ©er quelque chose, tu en trouveras l'utilitÃ©.}
+{351}{}{TrÃ¨s bien. Changeons de sujet.}
+{360}{}{Je ne reconnais pas l'objet que tu tiens. S'il te plaÃ®t, place-le dans la machine Ã  cÃ´tÃ© de moi pour l'analyser.}
+{361}{}{TrÃ¨s bien. [Tu places l'objet dans la machine et tu la refermes.]}
 {362}{}{En fait je n'ai pas envie de savoir tout de suite. Changeons de sujet.}
-{363}{}{Analyse de la structure moléculaire du liquide de la seringue... Réussie. Analyse effectuée. On dirait que le liquide dans la seringue est une drogue expérimentale, utilisée par les soldats. Elle a la capacité d'accroître ta force pour une durée limitée. Finalement cet objet est assez similaire au Psycho.}
-{364}{}{Très bien. Changeons de sujet.}
-{370}{}{Je reconnais ce que tu tiens. Plusieurs techniciens, ici, en avaient pour se relaxer. Cette drogue embrume l'esprit causant une baisse du temps de réaction. Je n'y ai jamais vu d'utilité mais les autres avaient l'air de trouver ça agréable. Je te laisse décider.}
-{371}{}{Très bien. Changeons de sujet.}
-{380}{}{Je ne reconnais pas l'objet que tu tiens. S'il te plaît, place-le dans la machine à côté de moi pour l'analyser.}
-{381}{}{Très bien. [Tu places l'objet dans la machine et tu la refermes.]}
+{363}{}{Analyse de la structure molÃ©culaire du liquide de la seringue... RÃ©ussie. Analyse effectuÃ©e. On dirait que le liquide dans la seringue est une drogue expÃ©rimentale, utilisÃ©e par les soldats. Elle a la capacitÃ© d'accroÃ®tre ta force pour une durÃ©e limitÃ©e. Finalement cet objet est assez similaire au Psycho.}
+{364}{}{TrÃ¨s bien. Changeons de sujet.}
+{370}{}{Je reconnais ce que tu tiens. Plusieurs techniciens, ici, en avaient pour se relaxer. Cette drogue embrume l'esprit causant une baisse du temps de rÃ©action. Je n'y ai jamais vu d'utilitÃ© mais les autres avaient l'air de trouver Ã§a agrÃ©able. Je te laisse dÃ©cider.}
+{371}{}{TrÃ¨s bien. Changeons de sujet.}
+{380}{}{Je ne reconnais pas l'objet que tu tiens. S'il te plaÃ®t, place-le dans la machine Ã  cÃ´tÃ© de moi pour l'analyser.}
+{381}{}{TrÃ¨s bien. [Tu places l'objet dans la machine et tu la refermes.]}
 {382}{}{En fait je n'ai pas envie de savoir tout de suite. Changeons de sujet.}
-{383}{}{Je n'ai rien dans ma base de données qui décrit cette chose. Comme avec toute substance inconnue, je te conseille de faire très attention avant de l'utiliser. Je suis désolé, mais je ne peux pas déterminer ce que ça te ferait si tu la prenais.}
-{384}{}{Très bien. Changeons de sujet.}
-{390}{}{C'est un objet intéressant. Contrairement à la dynamite avec minuteur, celle-ci est contrôlée par fréquence radio. Dépose-la simplement où tu veux et presse le détonateur pour la faire exploser. Quel chouette objet, tu ne trouves pas ?}
+{383}{}{Je n'ai rien dans ma base de donnÃ©es qui dÃ©crit cette chose. Comme avec toute substance inconnue, je te conseille de faire trÃ¨s attention avant de l'utiliser. Je suis dÃ©solÃ©, mais je ne peux pas dÃ©terminer ce que Ã§a te ferait si tu la prenais.}
+{384}{}{TrÃ¨s bien. Changeons de sujet.}
+{390}{}{C'est un objet intÃ©ressant. Contrairement Ã  la dynamite avec minuteur, celle-ci est contrÃ´lÃ©e par frÃ©quence radio. DÃ©pose-la simplement oÃ¹ tu veux et presse le dÃ©tonateur pour la faire exploser. Quel chouette objet, tu ne trouves pas ?}
 {391}{}{Changeons de sujet.}
-{400}{}{Bonjour. Puis-je t'être utile ?}
+{400}{}{Bonjour. Puis-je t'Ãªtre utile ?}
 {401}{}{J'ai quelques questions.}
 {402}{}{Ca n'a pas d'importance. Salut.}
-{500}{}{Tu ouvres le panneau latéral de l'émetteur de l'hologramme pour regarder à l'intérieur. Tu y vois un foutoir de câbles et de circuits électroniques.}
+{500}{}{Tu ouvres le panneau latÃ©ral de l'Ã©metteur de l'hologramme pour regarder Ã  l'intÃ©rieur. Tu y vois un foutoir de cÃ¢bles et de circuits Ã©lectroniques.}
 {501}{}{Eh bien, c'est parti.}
-{502}{}{Après quelque temps, tu trouves le problème et le corriges. Tu refermes le panneau puis essuies la sueur coulant sur ton front.}
-{503}{}{Tu as réussi à réparer l'hologramme.}
-{504}{}{Après quelques tentatives tu ne parviens pas à trouver ce qui cloche avec cet hologramme.}
-{505}{}{Merde. C'est trop difficile pour moi. Les réparations, c’est pas mon truc.}
-{506}{}{La tentative de réparation de l'hologramme a échoué.}
-{507}{}{[Terminé]}
+{502}{}{AprÃ¨s quelque temps, tu trouves le problÃ¨me et le corriges. Tu refermes le panneau puis essuies la sueur coulant sur ton front.}
+{503}{}{Tu as rÃ©ussi Ã  rÃ©parer l'hologramme.}
+{504}{}{AprÃ¨s quelques tentatives tu ne parviens pas Ã  trouver ce qui cloche avec cet hologramme.}
+{505}{}{Merde. C'est trop difficile pour moi. Les rÃ©parations, câ€™est pas mon truc.}
+{506}{}{La tentative de rÃ©paration de l'hologramme a Ã©chouÃ©.}
+{507}{}{[TerminÃ©]}

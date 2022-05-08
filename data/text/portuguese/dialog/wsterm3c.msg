@@ -1,64 +1,64 @@
 {100}{}{Um terminal de computador}
 {101}{}{Ele tem um pequeno adesivo que diz I*tel inside.}
-{102}{}{[VocÍ È incapaz de ler o que est· no monitor.]}
+{102}{}{[Voc√™ √© incapaz de ler o que est√° no monitor.]}
 {103}{}{Controle do terminal
-                                                       Projeto: Experimento de SÌntese Org‚nica e RobÛtica}
+                                                       Projeto: Experimento de S√≠ntese Org√¢nica e Rob√≥tica}
 {104}{}{}
 {105}{}{Checagem de Sistemas.}
-{106}{}{Ativa RobÙ.}
+{106}{}{Ativa Rob√¥.}
 {107}{}{Sair}
 {108}{}{Erg?}
-{109}{}{[VocÍ È incapaz de ler o que est· no monitor.]}
+{109}{}{[Voc√™ √© incapaz de ler o que est√° no monitor.]}
 {110}{}{Finalizar Programa}
 {111}{}{Sair}
 {112}{}{Ug}
 {113}{}{Favor aguardar...
-                                                           Corpo RobÛtico - OK
+                                                           Corpo Rob√≥tico - OK
                                                      reservas de Biomed gel - Cheias
-                                         Compartimento de DepÛsito Org‚nico - Respondendo
+                                         Compartimento de Dep√≥sito Org√¢nico - Respondendo
                           Pronto para ativar}
 {114}{}{Favor aguardar...
-                                                            Corpo RobÛtico - OK
+                                                            Corpo Rob√≥tico - OK
                                                      reservas de Biomed gel - Vazias
-                                       Compartimento de DepÛsito Org‚nico - Ausente
-                  AtivaÁ„o n„o recomendada}
+                                       Compartimento de Dep√≥sito Org√¢nico - Ausente
+                  Ativa√ß√£o n√£o recomendada}
 {115}{}{Favor aguardar...
                                                            Robot Body - Replace Motivator
                                    reservas de Biomed gel - OK
-                                       Compartimento de DepÛsito Org‚nico - Respondendo
-                   AtivaÁ„o n„o recomendada}
+                                       Compartimento de Dep√≥sito Org√¢nico - Respondendo
+                   Ativa√ß√£o n√£o recomendada}
 {116}{}{Favor aguardar...
-                                                            Corpo RobÛtico - OK
+                                                            Corpo Rob√≥tico - OK
                                                    reservas de Biomed gel - Vazias
-                                      Compartimento de DepÛsito Org‚nico - Ausente
-                   AtivaÁ„o n„o recomendada}
+                                      Compartimento de Dep√≥sito Org√¢nico - Ausente
+                   Ativa√ß√£o n√£o recomendada}
 {117}{}{Favor aguardar...
-                                                            Corpo RobÛtico - OK
+                                                            Corpo Rob√≥tico - OK
                                                    reservas de Biomed gel - Vazias
-                                       Compartimento de DepÛsito Org‚nico - Respondendo
-                   AtivaÁ„o n„o recomendada}
+                                       Compartimento de Dep√≥sito Org√¢nico - Respondendo
+                   Ativa√ß√£o n√£o recomendada}
 {118}{}{Favor aguardar...
-                                                            Corpo RobÛtico - OK
+                                                            Corpo Rob√≥tico - OK
                                                    reservas de Biomed gel - Vazias
-                                      Compartimento de DepÛsito Org‚nico - Ausente
-                    AtivaÁ„o n„o recomendada}
+                                      Compartimento de Dep√≥sito Org√¢nico - Ausente
+                    Ativa√ß√£o n√£o recomendada}
 {119}{}{Favor aguardar...
-                                                            Corpo RobÛtico - Instalar Motivator
+                                                            Corpo Rob√≥tico - Instalar Motivator
                                   reservas de Biomed gel - Vazias
-                                       Compartimento de DepÛsito Org‚nico - Respondendo
-                    AtivaÁ„o n„o recomendada}
+                                       Compartimento de Dep√≥sito Org√¢nico - Respondendo
+                    Ativa√ß√£o n√£o recomendada}
 {120}{}{Favor aguardar...
-                                                            Corpo RobÛtico - Instalar Motivator
+                                                            Corpo Rob√≥tico - Instalar Motivator
                                   reservas de Biomed gel - Vazias
-                                       Compartimento de DepÛsito Org‚nico - Ausente
-                    AtivaÁ„o n„o recomendada}
+                                       Compartimento de Dep√≥sito Org√¢nico - Ausente
+                    Ativa√ß√£o n√£o recomendada}
 {121}{}{}
 {122}{}{}
 {124}{}{}
-{153}{}{ComeÁar SequÍncia de IniciaÁ„o}
+{153}{}{Come√ßar Sequ√™ncia de Inicia√ß√£o}
 {154}{}{Sair}
 {155}{}{Failsafe overridden
-                                                  A unidade est· em funcionamento}
+                                                  A unidade est√° em funcionamento}
 {156}{}{}
 {157}{}{}
 {158}{}{}
@@ -67,17 +67,17 @@
 {161}{}{}
 {162}{}{}
 {163}{}{}
-{164}{}{ComeÁando sequÍncia de iniciaÁ„o}
-{165}{}{                                   NÌveis de Energia - aceit·veis}
+{164}{}{Come√ßando sequ√™ncia de inicia√ß√£o}
+{165}{}{                                   N√≠veis de Energia - aceit√°veis}
 {166}{}{                                              Synch Ratio - 75%}
 {167}{}{                                               Unidade em funcionamento}
 {170}{}{                                              Synch Ratio - 50%}
 {174}{}{                                              Synch Ratio - 10%}
 {176}{}{Sair}
-{200}{}{ È incapaz de ler o que est· no monitor.}
+{200}{}{ √© incapaz de ler o que est√° no monitor.}
 {300}{}{O computador parece ter um mecanismo de defesa.}
-{500}{}{ComeÁando seq¸Íncia de iniciaÁ„o
-                                   NÌveis de Energia - aceit·veis
+{500}{}{Come√ßando seq√º√™ncia de inicia√ß√£o
+                                   N√≠veis de Energia - aceit√°veis
                                           Programa Interrompido
                                                Downloading...
                                                   Programa Continuado

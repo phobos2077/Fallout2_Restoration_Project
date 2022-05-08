@@ -1,2 +1,2 @@
-{100}{}{Egy hatalmas hangyát látsz.}
-{101}{}{Fúú, ez egy kibaszott nagy hangya!}
+{100}{}{Egy hatalmas hangyÃ¡t lÃ¡tsz.}
+{101}{}{FÃºÃº, ez egy kibaszott nagy hangya!}

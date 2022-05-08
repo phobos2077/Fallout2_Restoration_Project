@@ -1,131 +1,131 @@
-{100}{}{Du siehst eine hölzerne Tür.}
-{101}{}{Du siehst eine Metalltür.}
-{102}{}{Du siehst eine robuste Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Im Türstock siehst du eine hochexplosive Falle.
- Vielleicht schaffst du's, die Tür aufzukriegen.}
-{103}{}{Du siehst eine stabile Tür mit einem Schloss und einem hochexplosiven Sprengsatz im Türrahmen. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{104}{}{Du siehst eine stabile Tür, scheinbar ohne Schloss, mit einem hochexplosiven Sprengsatz im Türrahmen. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{105}{}{Du siehst eine stabile Tür mit einem alten, rostigen Schloss und einem hochexplosiven Sprengsatz im Türrahmen. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{106}{}{Du siehst eine robuste Tür, deren Schloss sich mit dem Dietrich knacken lässt. Im Türstock
- siehst du einen Sprengsatz. Vielleicht schaffst du's, die Tür aufzukriegen.}
-{107}{}{Du siehst eine stabile Tür mit einem Schloss und einer Falle im Türrahmen. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{108}{}{Du siehst eine stabile Tür, scheinbar ohne Schloss, mit einer Falle im Türrahmen. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{109}{}{Du siehst eine stabile Tür mit einem alten, rostigen Schloss und einer Falle im Türrahmen. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{110}{}{Du siehst eine robuste Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Im Türstock siehst du einen durchgetrennten Draht.
- Vielleicht schaffst du's, die Tür aufzukriegen.}
-{111}{}{Du siehst eine stabile Tür mit einem Schloss und einem durchtrennten Kabel im Türrahmen. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{112}{}{Du siehst eine stabile Tür, scheinbar ohne Schloss, mit einem durchtrennten Kabel im Türrahmen. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{113}{}{Du siehst eine stabile Tür mit einem alten, rostigen Schloss und einem durchgeschnittenen Kabel im Türrahmen. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{114}{}{Du siehst eine robuste Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Vielleicht schaffst du's, die Tür aufzukriegen.}
-{115}{}{Du siehst eine stabile Tür mit einem Schloss. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{116}{}{Du siehst eine stabile Tür, scheinbar ohne Schloss. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{117}{}{Du siehst eine stabile Tür mit einem alten, rostigen Schloss. Vielleicht schaffst du es, die Tür aufzukriegen.}
-{118}{}{Du siehst eine robuste Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Im Türstock siehst du eine hochexplosive Falle.}
-{119}{}{Du siehst eine stabile Tür mit einem Schloss und einer hochexplosiven Sprengladung im Türrahmen.}
-{120}{}{Du siehst eine stabile Tür, scheinbar ohne Schloss, mit einer hochexplosiven Sprengladung im Türrahmen.}
-{121}{}{Du siehst eine stabile Tür mit einem alten, rostigen Schloss und einer hochexplosiven Sprengladung im Türrahmen.}
-{122}{}{Du siehst eine robuste Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Im Türstock siehst du einen Sprengsatz.}
-{123}{}{Du siehst eine stabile Tür mit einem Schloss und einem Zünder im Türrahmen.}
-{124}{}{Du siehst eine stabile Tür, scheinbar ohne Schloss, mit einer Falle im Türrahmen.}
-{125}{}{Du siehst eine stabile Tür mit einem alten, rostigen Schloss und einer Falle im Türrahmen.}
-{126}{}{Du siehst eine robuste Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Im Türstock siehst du einen durchgetrennten Draht.}
-{127}{}{Du siehst eine stabile Tür mit einem Schloss und einem durchtrennten Kabel im Türrahmen.}
-{128}{}{Du siehst eine stabile Tür, scheinbar ohne Schloss, mit einem durchtrennten Kabel im Türrahmen.}
-{129}{}{Du siehst eine stabile Tür mit einem alten, rostigen Schloss und einem durchtrennten Kabel im Türrahmen.}
-{130}{}{Du siehst eine robuste Tür, deren Schloss
- sich mit dem Dietrich knacken lässt.}
-{131}{}{Du siehst eine stabile Tür mit einem Schloss.}
-{132}{}{Du siehst eine stabile Tür, scheinbar ohne Schloss.}
-{133}{}{Du siehst eine stabile Tür mit einem alten, rostigen Schloss.}
-{134}{}{Du siehst eine beschädigte Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Im Türstock siehst du eine hochexplosive Falle.}
-{135}{}{Du siehst eine beschädigte Tür mit einem Schloss und einer hochexplosiven Sprengladung im Türrahmen.}
-{136}{}{Du siehst eine beschädigte Tür, scheinbar ohne Schloss, mit einer hochexplosiven Sprengladung im Türrahmen.}
-{137}{}{Du siehst eine beschädigte Tür mit einem alten, rostigen Schloss und einer hochexplosiven Sprengladung im Türrahmen.}
-{138}{}{Du siehst eine beschädigte Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Im Türstock siehst du einen Sprengsatz.}
-{139}{}{Du siehst eine beschädigte Tür mit einem Schloss und einer Falle im Türrahmen.}
-{140}{}{Du siehst eine beschädigte Tür, scheinbar ohne Schloss und mit einer Falle im Türrahmen.}
-{141}{}{Du siehst eine beschädigte Tür mit einem alten, rostigen Schloss und einer Falle im Türrahmen.}
-{142}{}{Du siehst eine beschädigte Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Im Türstock siehst du einen durchgetrennten Draht.}
-{143}{}{Du siehst eine beschädigte Tür mit einem Schloss und einem durchtrennten Kabel im Türrahmen.}
-{144}{}{Du siehst eine beschädigte Tür, scheinbar ohne Schloss, mit einem durchtrennten Kabel im Türrahmen.}
-{145}{}{Du siehst eine beschädigte Tür mit einem alten, rostigen Schloss und einem durchgeschnittenen Kabel im Türrahmen.}
-{146}{}{Du siehst eine beschädigte Tür, deren Schloss
- sich mit dem Dietrich knacken lässt.}
-{147}{}{Du siehst eine beschädigte Tür mit einem Schloss.}
-{148}{}{Du siehst eine beschädigte Tür, scheinbar ohne Schloss.}
-{149}{}{Du siehst eine beschädigte Tür mit einem alten, rostigen Schloss.}
-{150}{}{Du siehst eine alte Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Im Türstock siehst du eine hochexplosive Falle.}
-{151}{}{Du siehst eine alte Tür mit einem Schloss und einer hochexplosiven Sprengladung im Türrahmen.}
-{152}{}{Du siehst eine alte Tür, scheinbar ohne Schloss, mit einer hochexplosiven Sprengladung im Türrahmen.}
-{153}{}{Du siehst eine alte Tür mit einem alten, rostigen Schloss und einer hochexplosiven Sprengladung im Türrahmen.}
-{154}{}{Du siehst eine alte Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Im Türstock siehst du einen Sprengsatz.}
-{155}{}{Du siehst eine alte Tür mit einem Schloss und einer Falle im Türrahmen.}
-{156}{}{Du siehst eine alte Tür, scheinbar ohne Schloss, mit einer Falle im Türrahmen.}
-{157}{}{Du siehst eine alte Tür mit einem alten, rostigen Schloss und einer Falle im Türrahmen.}
-{158}{}{Du siehst eine alte Tür, deren Schloss
- sich mit dem Dietrich knacken lässt. Im Türstock siehst du einen durchgetrennten Draht.}
-{159}{}{Du siehst eine alte Tür mit einem Schloss und einem durchtrennten Kabel im Türrahmen.}
-{160}{}{Du siehst eine alte Tür, scheinbar ohne Schloss, mit einem durchtrennten Kabel im Türrahmen.}
-{161}{}{Du siehst eine alte Tür mit einem alten, rostigen Schloss und einem durchtrennten Kabel im Türrahmen.}
-{162}{}{Du siehst eine alte Tür, deren Schloss
- sich mit dem Dietrich knacken lässt.}
-{163}{}{Du siehst eine alte Tür mit einem Schloss.}
-{164}{}{Du siehst eine alte Tür, scheinbar ohne Schloss.}
-{165}{}{Du siehst eine alte Tür mit einem alten, rostigen Schloss.}
-{166}{}{Du hast die Falle ausgelöst und verlierst }
+{100}{}{Du siehst eine hÃ¶lzerne TÃ¼r.}
+{101}{}{Du siehst eine MetalltÃ¼r.}
+{102}{}{Du siehst eine robuste TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock siehst du eine hochexplosive Falle.
+ Vielleicht schaffst du's, die TÃ¼r aufzukriegen.}
+{103}{}{Du siehst eine stabile TÃ¼r mit einem Schloss und einem hochexplosiven Sprengsatz im TÃ¼rrahmen. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{104}{}{Du siehst eine stabile TÃ¼r, scheinbar ohne Schloss, mit einem hochexplosiven Sprengsatz im TÃ¼rrahmen. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{105}{}{Du siehst eine stabile TÃ¼r mit einem alten, rostigen Schloss und einem hochexplosiven Sprengsatz im TÃ¼rrahmen. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{106}{}{Du siehst eine robuste TÃ¼r, deren Schloss sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock
+ siehst du einen Sprengsatz. Vielleicht schaffst du's, die TÃ¼r aufzukriegen.}
+{107}{}{Du siehst eine stabile TÃ¼r mit einem Schloss und einer Falle im TÃ¼rrahmen. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{108}{}{Du siehst eine stabile TÃ¼r, scheinbar ohne Schloss, mit einer Falle im TÃ¼rrahmen. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{109}{}{Du siehst eine stabile TÃ¼r mit einem alten, rostigen Schloss und einer Falle im TÃ¼rrahmen. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{110}{}{Du siehst eine robuste TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock siehst du einen durchgetrennten Draht.
+ Vielleicht schaffst du's, die TÃ¼r aufzukriegen.}
+{111}{}{Du siehst eine stabile TÃ¼r mit einem Schloss und einem durchtrennten Kabel im TÃ¼rrahmen. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{112}{}{Du siehst eine stabile TÃ¼r, scheinbar ohne Schloss, mit einem durchtrennten Kabel im TÃ¼rrahmen. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{113}{}{Du siehst eine stabile TÃ¼r mit einem alten, rostigen Schloss und einem durchgeschnittenen Kabel im TÃ¼rrahmen. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{114}{}{Du siehst eine robuste TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Vielleicht schaffst du's, die TÃ¼r aufzukriegen.}
+{115}{}{Du siehst eine stabile TÃ¼r mit einem Schloss. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{116}{}{Du siehst eine stabile TÃ¼r, scheinbar ohne Schloss. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{117}{}{Du siehst eine stabile TÃ¼r mit einem alten, rostigen Schloss. Vielleicht schaffst du es, die TÃ¼r aufzukriegen.}
+{118}{}{Du siehst eine robuste TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock siehst du eine hochexplosive Falle.}
+{119}{}{Du siehst eine stabile TÃ¼r mit einem Schloss und einer hochexplosiven Sprengladung im TÃ¼rrahmen.}
+{120}{}{Du siehst eine stabile TÃ¼r, scheinbar ohne Schloss, mit einer hochexplosiven Sprengladung im TÃ¼rrahmen.}
+{121}{}{Du siehst eine stabile TÃ¼r mit einem alten, rostigen Schloss und einer hochexplosiven Sprengladung im TÃ¼rrahmen.}
+{122}{}{Du siehst eine robuste TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock siehst du einen Sprengsatz.}
+{123}{}{Du siehst eine stabile TÃ¼r mit einem Schloss und einem ZÃ¼nder im TÃ¼rrahmen.}
+{124}{}{Du siehst eine stabile TÃ¼r, scheinbar ohne Schloss, mit einer Falle im TÃ¼rrahmen.}
+{125}{}{Du siehst eine stabile TÃ¼r mit einem alten, rostigen Schloss und einer Falle im TÃ¼rrahmen.}
+{126}{}{Du siehst eine robuste TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock siehst du einen durchgetrennten Draht.}
+{127}{}{Du siehst eine stabile TÃ¼r mit einem Schloss und einem durchtrennten Kabel im TÃ¼rrahmen.}
+{128}{}{Du siehst eine stabile TÃ¼r, scheinbar ohne Schloss, mit einem durchtrennten Kabel im TÃ¼rrahmen.}
+{129}{}{Du siehst eine stabile TÃ¼r mit einem alten, rostigen Schloss und einem durchtrennten Kabel im TÃ¼rrahmen.}
+{130}{}{Du siehst eine robuste TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst.}
+{131}{}{Du siehst eine stabile TÃ¼r mit einem Schloss.}
+{132}{}{Du siehst eine stabile TÃ¼r, scheinbar ohne Schloss.}
+{133}{}{Du siehst eine stabile TÃ¼r mit einem alten, rostigen Schloss.}
+{134}{}{Du siehst eine beschÃ¤digte TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock siehst du eine hochexplosive Falle.}
+{135}{}{Du siehst eine beschÃ¤digte TÃ¼r mit einem Schloss und einer hochexplosiven Sprengladung im TÃ¼rrahmen.}
+{136}{}{Du siehst eine beschÃ¤digte TÃ¼r, scheinbar ohne Schloss, mit einer hochexplosiven Sprengladung im TÃ¼rrahmen.}
+{137}{}{Du siehst eine beschÃ¤digte TÃ¼r mit einem alten, rostigen Schloss und einer hochexplosiven Sprengladung im TÃ¼rrahmen.}
+{138}{}{Du siehst eine beschÃ¤digte TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock siehst du einen Sprengsatz.}
+{139}{}{Du siehst eine beschÃ¤digte TÃ¼r mit einem Schloss und einer Falle im TÃ¼rrahmen.}
+{140}{}{Du siehst eine beschÃ¤digte TÃ¼r, scheinbar ohne Schloss und mit einer Falle im TÃ¼rrahmen.}
+{141}{}{Du siehst eine beschÃ¤digte TÃ¼r mit einem alten, rostigen Schloss und einer Falle im TÃ¼rrahmen.}
+{142}{}{Du siehst eine beschÃ¤digte TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock siehst du einen durchgetrennten Draht.}
+{143}{}{Du siehst eine beschÃ¤digte TÃ¼r mit einem Schloss und einem durchtrennten Kabel im TÃ¼rrahmen.}
+{144}{}{Du siehst eine beschÃ¤digte TÃ¼r, scheinbar ohne Schloss, mit einem durchtrennten Kabel im TÃ¼rrahmen.}
+{145}{}{Du siehst eine beschÃ¤digte TÃ¼r mit einem alten, rostigen Schloss und einem durchgeschnittenen Kabel im TÃ¼rrahmen.}
+{146}{}{Du siehst eine beschÃ¤digte TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst.}
+{147}{}{Du siehst eine beschÃ¤digte TÃ¼r mit einem Schloss.}
+{148}{}{Du siehst eine beschÃ¤digte TÃ¼r, scheinbar ohne Schloss.}
+{149}{}{Du siehst eine beschÃ¤digte TÃ¼r mit einem alten, rostigen Schloss.}
+{150}{}{Du siehst eine alte TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock siehst du eine hochexplosive Falle.}
+{151}{}{Du siehst eine alte TÃ¼r mit einem Schloss und einer hochexplosiven Sprengladung im TÃ¼rrahmen.}
+{152}{}{Du siehst eine alte TÃ¼r, scheinbar ohne Schloss, mit einer hochexplosiven Sprengladung im TÃ¼rrahmen.}
+{153}{}{Du siehst eine alte TÃ¼r mit einem alten, rostigen Schloss und einer hochexplosiven Sprengladung im TÃ¼rrahmen.}
+{154}{}{Du siehst eine alte TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock siehst du einen Sprengsatz.}
+{155}{}{Du siehst eine alte TÃ¼r mit einem Schloss und einer Falle im TÃ¼rrahmen.}
+{156}{}{Du siehst eine alte TÃ¼r, scheinbar ohne Schloss, mit einer Falle im TÃ¼rrahmen.}
+{157}{}{Du siehst eine alte TÃ¼r mit einem alten, rostigen Schloss und einer Falle im TÃ¼rrahmen.}
+{158}{}{Du siehst eine alte TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst. Im TÃ¼rstock siehst du einen durchgetrennten Draht.}
+{159}{}{Du siehst eine alte TÃ¼r mit einem Schloss und einem durchtrennten Kabel im TÃ¼rrahmen.}
+{160}{}{Du siehst eine alte TÃ¼r, scheinbar ohne Schloss, mit einem durchtrennten Kabel im TÃ¼rrahmen.}
+{161}{}{Du siehst eine alte TÃ¼r mit einem alten, rostigen Schloss und einem durchtrennten Kabel im TÃ¼rrahmen.}
+{162}{}{Du siehst eine alte TÃ¼r, deren Schloss
+ sich mit dem Dietrich knacken lÃ¤sst.}
+{163}{}{Du siehst eine alte TÃ¼r mit einem Schloss.}
+{164}{}{Du siehst eine alte TÃ¼r, scheinbar ohne Schloss.}
+{165}{}{Du siehst eine alte TÃ¼r mit einem alten, rostigen Schloss.}
+{166}{}{Du hast die Falle ausgelÃ¶st und verlierst }
 {167}{}{ Trefferpunkte.}
-{168}{}{ löst den Zünder aus und verliert }
+{168}{}{ lÃ¶st den ZÃ¼nder aus und verliert }
 {169}{}{ Trefferpunkte.}
-{170}{}{Geschickt öffnest du das Schloss an der Tür.}
-{171}{}{Du bist nicht besonders geschickt. Deshalb verklemmt sich das Schloss an der Tür.}
-{172}{}{Du schaffst es nicht, das Schloss dieser Tür zu öffnen.}
-{173}{}{ öffnet geschickt das Schloss an der Tür.}
-{174}{}{ist nicht besonders geschickt. Deshalb verklemmt sich das Schloss an der Tür.}
-{175}{}{ schafft es nicht, das Schloss an der Tür zu öffnen.}
-{176}{}{Du sprengst das Schloss von der Tür.}
-{177}{}{Beim Aufbrechen des Schlosses verrenkst du dir den Rücken und wirst mit einem Trefferpunkt bestraft.}
-{178}{}{Beim Aufbrechen des Schlosses verrenkst du dir den Rücken und erhältst }
+{170}{}{Geschickt Ã¶ffnest du das Schloss an der TÃ¼r.}
+{171}{}{Du bist nicht besonders geschickt. Deshalb verklemmt sich das Schloss an der TÃ¼r.}
+{172}{}{Du schaffst es nicht, das Schloss dieser TÃ¼r zu Ã¶ffnen.}
+{173}{}{ Ã¶ffnet geschickt das Schloss an der TÃ¼r.}
+{174}{}{ist nicht besonders geschickt. Deshalb verklemmt sich das Schloss an der TÃ¼r.}
+{175}{}{ schafft es nicht, das Schloss an der TÃ¼r zu Ã¶ffnen.}
+{176}{}{Du sprengst das Schloss von der TÃ¼r.}
+{177}{}{Beim Aufbrechen des Schlosses verrenkst du dir den RÃ¼cken und wirst mit einem Trefferpunkt bestraft.}
+{178}{}{Beim Aufbrechen des Schlosses verrenkst du dir den RÃ¼cken und erhÃ¤ltst }
 {179}{}{ Trefferpunkte.}
 {180}{}{Du bist zu schwach, das Schloss zu sprengen.}
-{181}{}{ sprengt das Schloss von der Tür.}
-{182}{}{ verrenkt sich den Rücken, während er versucht, das Schloss zu sprengen und wird mit einem Trefferpunkt bestraft.}
-{183}{}{ verrenkt sich den Rücken, während er versucht, das Schloss zu sprengen und erhält}
+{181}{}{ sprengt das Schloss von der TÃ¼r.}
+{182}{}{ verrenkt sich den RÃ¼cken, wÃ¤hrend er versucht, das Schloss zu sprengen und wird mit einem Trefferpunkt bestraft.}
+{183}{}{ verrenkt sich den RÃ¼cken, wÃ¤hrend er versucht, das Schloss zu sprengen und erhÃ¤lt}
 {184}{}{ Trefferpunkte.}
 {185}{}{ ist zu schwach, um das Schloss zu sprengen.}
-{186}{}{ verrenkt sich den Rücken, während sie versucht, das Schloss zu sprengen und wird mit einem Trefferpunkt bestraft.}
-{187}{}{ verrenkt sich den Rücken, während sie versucht, das Schloss zu sprengen und erhält}
+{186}{}{ verrenkt sich den RÃ¼cken, wÃ¤hrend sie versucht, das Schloss zu sprengen und wird mit einem Trefferpunkt bestraft.}
+{187}{}{ verrenkt sich den RÃ¼cken, wÃ¤hrend sie versucht, das Schloss zu sprengen und erhÃ¤lt}
 {188}{}{ Trefferpunkte.}
-{189}{}{Du sperrst die Tür geschickt ab.}
-{190}{}{Du konntest die Tür nicht abschließen.}
-{191}{}{ sperrt die Tür geschickt ab.}
-{192}{}{ hat es nicht geschafft, die Tür abzusperren.}
-{193}{}{Der Sprengsatz hinterlässt nicht mal einen Kratzer an der Tür.}
-{194}{}{Du findest eine Falle an der Tür.}
-{195}{}{Du findest keine Fallen an der Tür.}
-{196}{}{Geschickt schaffst du es, die Falle zu entschärfen.}
-{198}{}{Du schaffst es nicht, die Falle zu entschärfen.}
-{199}{}{ findet eine Falle an der Tür.}
-{200}{}{ findet keine Fallen an der Tür.}
-{201}{}{ entschärft die Falle geschickt.}
-{202}{}{ schafft es nicht, die Falle zu entschärfen.}
-{203}{}{Die Tür ist verschlossen.}
-{204}{}{Du bemerkst eine Falle am Türpfosten.}
-{205}{}{ bemerkt eine Falle am Türpfosten.}
-{206}{}{Du kannst an einer geöffneten Tür keine Falle anbringen.}
-{207}{}{ kann an einer geöffneten Tür keine Falle anbringen.}
-{208}{}{Du bringst geschickt eine Falle am Türrahmen an.}
-{209}{}{Du konntest die Falle leider nicht im Türrahmen anbringen.}
-{210}{}{ bringt geschickt eine Falle am Türrahmen an.}
-{211}{}{ konnte die Falle leider nicht im Türrahmen anbringen.}
-{212}{}{Diese Tür lässt sich hier nicht aufsperren.}
-{213}{}{Die Tür lässt sich nicht bewegen.}
+{189}{}{Du sperrst die TÃ¼r geschickt ab.}
+{190}{}{Du konntest die TÃ¼r nicht abschlieÃŸen.}
+{191}{}{ sperrt die TÃ¼r geschickt ab.}
+{192}{}{ hat es nicht geschafft, die TÃ¼r abzusperren.}
+{193}{}{Der Sprengsatz hinterlÃ¤sst nicht mal einen Kratzer an der TÃ¼r.}
+{194}{}{Du findest eine Falle an der TÃ¼r.}
+{195}{}{Du findest keine Fallen an der TÃ¼r.}
+{196}{}{Geschickt schaffst du es, die Falle zu entschÃ¤rfen.}
+{198}{}{Du schaffst es nicht, die Falle zu entschÃ¤rfen.}
+{199}{}{ findet eine Falle an der TÃ¼r.}
+{200}{}{ findet keine Fallen an der TÃ¼r.}
+{201}{}{ entschÃ¤rft die Falle geschickt.}
+{202}{}{ schafft es nicht, die Falle zu entschÃ¤rfen.}
+{203}{}{Die TÃ¼r ist verschlossen.}
+{204}{}{Du bemerkst eine Falle am TÃ¼rpfosten.}
+{205}{}{ bemerkt eine Falle am TÃ¼rpfosten.}
+{206}{}{Du kannst an einer geÃ¶ffneten TÃ¼r keine Falle anbringen.}
+{207}{}{ kann an einer geÃ¶ffneten TÃ¼r keine Falle anbringen.}
+{208}{}{Du bringst geschickt eine Falle am TÃ¼rrahmen an.}
+{209}{}{Du konntest die Falle leider nicht im TÃ¼rrahmen anbringen.}
+{210}{}{ bringt geschickt eine Falle am TÃ¼rrahmen an.}
+{211}{}{ konnte die Falle leider nicht im TÃ¼rrahmen anbringen.}
+{212}{}{Diese TÃ¼r lÃ¤sst sich hier nicht aufsperren.}
+{213}{}{Die TÃ¼r lÃ¤sst sich nicht bewegen.}

@@ -1,29 +1,29 @@
-{100}{}{Du siehst einen von Bishops Männern.}
-{150}{}{Du siehst einen rauhen Mann in Lederrüstung. Eine Menge Narben und Schusswunden bedecken seinen Körper.}
-{151}{}{Du siehst einen von Bishops Männern. Er beobachtet die Gegend und fingert an seiner Waffe herum.}
+{100}{}{Du siehst einen von Bishops MÃ¤nnern.}
+{150}{}{Du siehst einen rauhen Mann in LederrÃ¼stung. Eine Menge Narben und Schusswunden bedecken seinen KÃ¶rper.}
+{151}{}{Du siehst einen von Bishops MÃ¤nnern. Er beobachtet die Gegend und fingert an seiner Waffe herum.}
 {200}{}{Hey! }
 {201}{}{::Gut gemacht::}
 {202}{}{::Beifall::}
-{203}{}{::flüstert::}
+{203}{}{::flÃ¼stert::}
 {205}{}{Wie zum Teufel gehst du mit dem Ding aufs Klo?}
-{210}{}{Nettes Stück hast du da, }
-{215}{}{Äh, warum schleichst du denn hier rum, }
-{216}{}{Äh, hey, }
+{210}{}{Nettes StÃ¼ck hast du da, }
+{215}{}{Ã„h, warum schleichst du denn hier rum, }
+{216}{}{Ã„h, hey, }
 {220}{}{Jo, }
 {221}{}{Hey, }
 {222}{}{Hey, }
 {225}{}{Du bist gerade in den falschen Laden hineingeplatzt, Vollidiot.}
 {226}{}{Mann, der Hurensohn hier, muss Eier aus Stahl haben.  Verpiss dich Junge, bevor wir dich abknallen.}
-{227}{}{Der Kerl bettelt ja förmlich nach Ärger...}
-{228}{}{Ich hörte die }
+{227}{}{Der Kerl bettelt ja fÃ¶rmlich nach Ã„rger...}
+{228}{}{Ich hÃ¶rte die }
 {229}{}{Du solltest besser abhauen, }
 {230}{}{Na, ist das nicht }
 {231}{}{Glaube nicht das Mitglieder der Familie }
 {232}{}{Du bist gerade in de falschen Laden reingeplatzt, Schlampe.}
 {233}{}{Schaut mal wie die Schlampe hier rumstolziert...}
-{234}{}{Verschwinde Mädchen. Bevor wir dich über den Haufen schießen.}
-{235}{}{Diese Schlampe sucht nach Ärger...}
-{236}{}{Ich hörte die }
+{234}{}{Verschwinde MÃ¤dchen. Bevor wir dich Ã¼ber den Haufen schieÃŸen.}
+{235}{}{Diese Schlampe sucht nach Ã„rger...}
+{236}{}{Ich hÃ¶rte die }
 {250}{}{Hey, Champ. Keine Waffen hier drin, OK?}
 {251}{}{Hey, Champ! Pack die Waffe weg.}
 {252}{}{Hey, }
@@ -35,160 +35,160 @@
 {265}{}{Hey, Loverboy. Keine Waffen hier drin, OK?}
 {266}{}{Hey, }
 {267}{}{Jo, }
-{268}{}{Süße, du kannst hier keine Waffen mit rein nehmen. Heh-heh... außerdem bist du doch schon tödlich genug.}
+{268}{}{SÃ¼ÃŸe, du kannst hier keine Waffen mit rein nehmen. Heh-heh... auÃŸerdem bist du doch schon tÃ¶dlich genug.}
 {269}{}{Hey, }
-{275}{}{Schätzchen, mit so 'nem Körper kannst du dich nirgendwo vorbeischleichen.}
+{275}{}{SchÃ¤tzchen, mit so 'nem KÃ¶rper kannst du dich nirgendwo vorbeischleichen.}
 {280}{}{Ich liebe deine Filme, }
 {281}{}{Du warst echt Klasse in Great Balls for Hire.}
 {282}{}{Du warst spitze in Good Will Humping.}
-{283}{}{Ich bin ein großer Fan deiner Arbeit in Pokeahotass.}
+{283}{}{Ich bin ein groÃŸer Fan deiner Arbeit in Pokeahotass.}
 {284}{}{Ich liebte deine Arbeit in "Vault Sex-Teen". Es war inspirierend. Eine cineastische Tour de Force.}
 {285}{}{::Pfeift::}
-{295}{}{Willst du ein Grab in Golgatha, Sklavenhändler? Nimm die Waffe runter.}
-{296}{}{Nimm die Waffe runter, Sklavenhändler, oder ich benutzte dich als Zielübung.}
-{297}{}{Sklavenhändler, du solltest die Waffe lieber JETZT sichern.}
-{300}{}{Willst du nach Golgotha, Sklavenhändler? Hör auf hier rumzuschleichen.}
-{301}{}{Hör auf, hier rumzuschleichen, Sklavenhändler, oder ich benutz dich als Zielübung.}
-{302}{}{Vielleicht solltest du noch mal zurück auf die Ninja Schule, Sklavenhändler - höre jetzt sofort mit dem rumschleichen auf.}
-{303}{}{Sklavenhändler, du hörst jetzt besser SOFORT mit dem rumschleichen auf.}
+{295}{}{Willst du ein Grab in Golgatha, SklavenhÃ¤ndler? Nimm die Waffe runter.}
+{296}{}{Nimm die Waffe runter, SklavenhÃ¤ndler, oder ich benutzte dich als ZielÃ¼bung.}
+{297}{}{SklavenhÃ¤ndler, du solltest die Waffe lieber JETZT sichern.}
+{300}{}{Willst du nach Golgotha, SklavenhÃ¤ndler? HÃ¶r auf hier rumzuschleichen.}
+{301}{}{HÃ¶r auf, hier rumzuschleichen, SklavenhÃ¤ndler, oder ich benutz dich als ZielÃ¼bung.}
+{302}{}{Vielleicht solltest du noch mal zurÃ¼ck auf die Ninja Schule, SklavenhÃ¤ndler - hÃ¶re jetzt sofort mit dem rumschleichen auf.}
+{303}{}{SklavenhÃ¤ndler, du hÃ¶rst jetzt besser SOFORT mit dem rumschleichen auf.}
 {305}{}{Willst du nach Golgotha, Wilder? Pack das Ding weg.}
-{306}{}{Pack die Waffe weg, du Sippenkröte, oder ich benutz dich als Zielübung.}
+{306}{}{Pack die Waffe weg, du SippenkrÃ¶te, oder ich benutz dich als ZielÃ¼bung.}
 {307}{}{Hey, Sippentrottel, du solltest diese Waffe besser JETZT GLEICH wegstecken.}
-{310}{}{Willst du nach Golgotha, Wilder? Hör auf hier rumzuschleichen.}
-{311}{}{Hör auf, hier rumzuschleichen, du Sippenkröte, oder ich benutz dich als Zielübung.}
-{312}{}{Vielleicht solltest du noch mal zurück auf die Ninja Schule, Wilder - und hör jetzt auf hier rumzuschleichen.}
-{313}{}{Hey, Sippentrottel, du solltest besser JETZT GLEICH aufhören, hier rumzuschleichen.}
+{310}{}{Willst du nach Golgotha, Wilder? HÃ¶r auf hier rumzuschleichen.}
+{311}{}{HÃ¶r auf, hier rumzuschleichen, du SippenkrÃ¶te, oder ich benutz dich als ZielÃ¼bung.}
+{312}{}{Vielleicht solltest du noch mal zurÃ¼ck auf die Ninja Schule, Wilder - und hÃ¶r jetzt auf hier rumzuschleichen.}
+{313}{}{Hey, Sippentrottel, du solltest besser JETZT GLEICH aufhÃ¶ren, hier rumzuschleichen.}
 {315}{}{Bring diesen Roboter hier raus. Sofort.}
-{316}{}{Bring diesen Roboter hinaus, bevor wir ein Mülltonnenfeuer aus ihm machen.}
-{317}{}{Der Roboter könnte ein paar Teile verlieren, wen er hier bleibt.}
-{320}{}{Ich dachte schon, dass ich einen Mutanten gerochen hätte. Du bringst besser seinen gelben Arsch schnell hier raus.}
+{316}{}{Bring diesen Roboter hinaus, bevor wir ein MÃ¼lltonnenfeuer aus ihm machen.}
+{317}{}{Der Roboter kÃ¶nnte ein paar Teile verlieren, wen er hier bleibt.}
+{320}{}{Ich dachte schon, dass ich einen Mutanten gerochen hÃ¤tte. Du bringst besser seinen gelben Arsch schnell hier raus.}
 {321}{}{Willst du und dein Mutantenfreund hier, erschossen werden? Hau ab.}
-{322}{}{Dieser Mutant verschwindet hier besser, oder wir hängen seinen Kopf an der Wand auf.}
+{322}{}{Dieser Mutant verschwindet hier besser, oder wir hÃ¤ngen seinen Kopf an der Wand auf.}
 {325}{}{Den Kampf letzte Nacht mitgekriegt?}
 {326}{}{Du musst Reno lieben...}
-{330}{}{Ich dachte, der Präsident wär ein Mythos, so 'n Schreckmonster, mit dem man Kindern Angst macht.}
-{331}{}{Du siehst aus als wärst du einmal zur Hölle und zurück gereist. Entspann dich ein wenig. Du verdienst es.}
-{332}{}{Sie wollten irgend einen neuen Virus freisetzen? Bastarde. Ich hoffe du hast ein paar für mich abgeknallt.}
+{330}{}{Ich dachte, der PrÃ¤sident wÃ¤r ein Mythos, so 'n Schreckmonster, mit dem man Kindern Angst macht.}
+{331}{}{Du siehst aus als wÃ¤rst du einmal zur HÃ¶lle und zurÃ¼ck gereist. Entspann dich ein wenig. Du verdienst es.}
+{332}{}{Sie wollten irgend einen neuen Virus freisetzen? Bastarde. Ich hoffe du hast ein paar fÃ¼r mich abgeknallt.}
 {333}{}{Willst du das Spiel noch einmal mit einem anderen Charakter durchspielen?}
-{334}{}{Du hast ganz schön Nerven, der Enklave so einzuheizen.}
-{335}{}{Wanderst noch ein wenig umher, obwohl das Spiel fertig ist, willst wohl ein paar extra EXPs sammeln, was? Gut, aber bitte erschieß mich nicht, Ok?}
+{334}{}{Du hast ganz schÃ¶n Nerven, der Enklave so einzuheizen.}
+{335}{}{Wanderst noch ein wenig umher, obwohl das Spiel fertig ist, willst wohl ein paar extra EXPs sammeln, was? Gut, aber bitte erschieÃŸ mich nicht, Ok?}
 {336}{}{New Reno wurde von Chris Avellone entworfen und das Skript ist von Tom French. Man munkelt, dass die beiden bald heiraten wollen.}
 {337}{}{Ich hoffe ich werde mal ein wichtiger Charakter in Fallout 3, wie Tandi oder Ian. Ein Gangster zu sein stinkt mir.}
-{338}{}{Ich bin mal mit Tandi ausgegangen. Als sie noch jung war natürlich.}
-{339}{}{Lynette müsste man es mal wieder richtig besorgen, oder?}
-{340}{}{Hab gehört, dass du die Enklave im Süden unten hochgenommen hast. Ganz schön mutig.}
+{338}{}{Ich bin mal mit Tandi ausgegangen. Als sie noch jung war natÃ¼rlich.}
+{339}{}{Lynette mÃ¼sste man es mal wieder richtig besorgen, oder?}
+{340}{}{Hab gehÃ¶rt, dass du die Enklave im SÃ¼den unten hochgenommen hast. Ganz schÃ¶n mutig.}
 {350}{}{Hey, }
 {351}{}{Jo, }
 {352}{}{Hey, }
-{353}{}{Ich habe gehört, dass Tommy the Balls zurück in der Stadt ist, pass lieber auf ihn auf.}
+{353}{}{Ich habe gehÃ¶rt, dass Tommy the Balls zurÃ¼ck in der Stadt ist, pass lieber auf ihn auf.}
 {354}{}{Wenn du Tommy den Ball siehst, gehe im lieber aus dem Weg.}
-{355}{}{Legst du für mich ein gutes Wort bei Bishop ein?}
-{356}{}{Nicht schlecht. Ich wünschte, ich hätte auch einen Fuß in der Tür vom Boss.}
+{355}{}{Legst du fÃ¼r mich ein gutes Wort bei Bishop ein?}
+{356}{}{Nicht schlecht. Ich wÃ¼nschte, ich hÃ¤tte auch einen FuÃŸ in der TÃ¼r vom Boss.}
 {357}{}{Soll ich dir irgendwas holen, Boss?}
 {358}{}{Die Familie Bishop war immer gut zu mir.}
 {359}{}{John Bishop wird diese Stadt regieren.}
 {360}{}{Ist alles ziemlich ruhig heute.}
 {361}{}{Die Ruhe vor dem Sturm.}
 {362}{}{Der Gestank von Golgotha war furchtbar letzte Nacht.}
-{363}{}{Wann werden wir eine der anderen Familien auslöschen?}
+{363}{}{Wann werden wir eine der anderen Familien auslÃ¶schen?}
 {364}{}{Mit dir an unserer Seite haben die anderen Familien keine Chance, Boss.}
 {365}{}{Soll ich dir irgendwas holen, Boss?}
 {366}{}{Was ist mit den anderen Familien?}
-{367}{}{Äm, hast du Jet?}
-{368}{}{Ich könnte einen Drink vertragen..}
-{369}{}{Mrs. Bishop hat mich schon wieder angemacht. Das macht mich nervös.}
-{370}{}{Mrs. Bishop schaut mich immer wie ein Stück Fleisch an. Ich wünschte, sie würde von mir wegbleiben.}
-{371}{}{Die Tochter von Bishop hat schon nen schönen Arsch.}
-{372}{}{Die Tochter von Bishop bedeutet Ärger.}
-{373}{}{Ich habe gehört, dass einer der Jungs Bishops Tochter abgefüllt hatte, und Mr. Bishop hat ihm die Haut abgezogen.}
-{374}{}{Wenn du mit Bishop redest, bleib weg von seiner Frau und seiner Tochter, die bringen nur Ärger.}
-{380}{}{Hab gehört, dass Mrs. Bishop dich sucht. Pass auf, Freund.}
-{381}{}{Ich habe gehört Bishops Tochter hat Interesse an dir. Pass auf, die bringt nur Ärger.}
-{382}{}{Du siehst gar nicht so zäh aus, Mr. Preiskämpfer.}
-{383}{}{Du weißt, die Familie Bishop könnte jemanden wie dich gut gebrauchen. Zäh. Kompromisslos.}
-{384}{}{Du solltest mit Mr Bishop über einen Job reden.}
-{385}{}{Willst du dich vielleicht uns anschließen. Wir werden New Reno regieren.}
+{367}{}{Ã„m, hast du Jet?}
+{368}{}{Ich kÃ¶nnte einen Drink vertragen..}
+{369}{}{Mrs. Bishop hat mich schon wieder angemacht. Das macht mich nervÃ¶s.}
+{370}{}{Mrs. Bishop schaut mich immer wie ein StÃ¼ck Fleisch an. Ich wÃ¼nschte, sie wÃ¼rde von mir wegbleiben.}
+{371}{}{Die Tochter von Bishop hat schon nen schÃ¶nen Arsch.}
+{372}{}{Die Tochter von Bishop bedeutet Ã„rger.}
+{373}{}{Ich habe gehÃ¶rt, dass einer der Jungs Bishops Tochter abgefÃ¼llt hatte, und Mr. Bishop hat ihm die Haut abgezogen.}
+{374}{}{Wenn du mit Bishop redest, bleib weg von seiner Frau und seiner Tochter, die bringen nur Ã„rger.}
+{380}{}{Hab gehÃ¶rt, dass Mrs. Bishop dich sucht. Pass auf, Freund.}
+{381}{}{Ich habe gehÃ¶rt Bishops Tochter hat Interesse an dir. Pass auf, die bringt nur Ã„rger.}
+{382}{}{Du siehst gar nicht so zÃ¤h aus, Mr. PreiskÃ¤mpfer.}
+{383}{}{Du weiÃŸt, die Familie Bishop kÃ¶nnte jemanden wie dich gut gebrauchen. ZÃ¤h. Kompromisslos.}
+{384}{}{Du solltest mit Mr Bishop Ã¼ber einen Job reden.}
+{385}{}{Willst du dich vielleicht uns anschlieÃŸen. Wir werden New Reno regieren.}
 {386}{}{Ich hab $20 auf dich gesetzt!}
 {387}{}{Hey, Champ! Dein letzter Kampf war toll!}
 {388}{}{Ich hab dich im Ring gesehen. Du hast einen verdammt guten rechten Haken.}
 {389}{}{Schaffst du den Kampf? Ich habe $30 auf dich gesetzt.}
-{390}{}{Wie viel drückst du?}
+{390}{}{Wie viel drÃ¼ckst du?}
 {391}{}{Wo trainierst du?}
 {392}{}{Pass auf den Masticator auf. Er steht auf Ohren.}
-{393}{}{Ich würd dir nen Drink spendieren, wenn ich nicht mein ganzes Geld auf deinen Gegner gesetzt hätte.}
+{393}{}{Ich wÃ¼rd dir nen Drink spendieren, wenn ich nicht mein ganzes Geld auf deinen Gegner gesetzt hÃ¤tte.}
 {394}{}{Willste ringen?}
-{395}{}{Du siehst gar nicht so zäh aus, Meister des linken Haken.}
+{395}{}{Du siehst gar nicht so zÃ¤h aus, Meister des linken Haken.}
 {396}{}{Kann ich mal deine Bauchmuskel sehen?}
-{400}{}{Hab gehört, dass Mrs. Bishop dich sucht. Pass auf, Freund.}
-{401}{}{Kannste mir 'n Job besorgen, Freund? Komm schon. Ich bin der König der Hengste.}
+{400}{}{Hab gehÃ¶rt, dass Mrs. Bishop dich sucht. Pass auf, Freund.}
+{401}{}{Kannste mir 'n Job besorgen, Freund? Komm schon. Ich bin der KÃ¶nig der Hengste.}
 {402}{}{Ich liebe deine Filme, }
 {403}{}{Du warst echt Klasse in Great Balls for Hire.}
 {404}{}{Du warst spitze in Good Will Humping.}
-{405}{}{Ich bin ein großer Fan deiner Arbeit in Pokeahotass.}
+{405}{}{Ich bin ein groÃŸer Fan deiner Arbeit in Pokeahotass.}
 {406}{}{Ich liebte deine Arbeit in "Vault Sexzehn." Es war inspirierend. Eine cineastische Tour de Force.}
-{407}{}{Ich habe gehört Bishops Tochter hat Interesse an dir. Pass auf, die bringt nur Ärger.}
-{408}{}{Gibt es im Studio bestimmte Öffnungszeiten?}
+{407}{}{Ich habe gehÃ¶rt Bishops Tochter hat Interesse an dir. Pass auf, die bringt nur Ã„rger.}
+{408}{}{Gibt es im Studio bestimmte Ã–ffnungszeiten?}
 {409}{}{Ich liebte deine Arbeit in "Vault Sexzehn." Es war inspirierend. Eine cineastische Tour de Force.}
-{410}{}{Ich hörte, Tommy the Balls will ein privates Casting für dich veranstalten.}
-{411}{}{Ich liebe deinen letzten Film. Kann ich dir bei den Proben für den nächsten helfen?}
+{410}{}{Ich hÃ¶rte, Tommy the Balls will ein privates Casting fÃ¼r dich veranstalten.}
+{411}{}{Ich liebe deinen letzten Film. Kann ich dir bei den Proben fÃ¼r den nÃ¤chsten helfen?}
 {412}{}{Gib mir einen Job und ich zeig dir mal meine Moves.}
 {413}{}{Kannst du kurz bei mir zum Kaffee trinken vorbeischauen?}
 {414}{}{Hey, wirste heute Abend hier tanzen?}
-{415}{}{Du siehst umwerfend aus, Süße.}
-{416}{}{Wollen wir uns nicht ein bisschen in der Besenkammer vergnügen.}
-{420}{}{Wie läuft's denn so oben in Den?}
-{421}{}{Das Sklavenhändlerbrandmal tut weh, wenn es eingebrannt wird oder?}
-{422}{}{Ich hatte mir auch überlegt Sklavenhändler zu werden, aber ich verabscheue die ganze Rumreiserei.}
-{423}{}{Du suchst die Ställe? Da werden die meisten Sklaven gehalten.}
+{415}{}{Du siehst umwerfend aus, SÃ¼ÃŸe.}
+{416}{}{Wollen wir uns nicht ein bisschen in der Besenkammer vergnÃ¼gen.}
+{420}{}{Wie lÃ¤uft's denn so oben in Den?}
+{421}{}{Das SklavenhÃ¤ndlerbrandmal tut weh, wenn es eingebrannt wird oder?}
+{422}{}{Ich hatte mir auch Ã¼berlegt SklavenhÃ¤ndler zu werden, aber ich verabscheue die ganze Rumreiserei.}
+{423}{}{Du suchst die StÃ¤lle? Da werden die meisten Sklaven gehalten.}
 {424}{}{Ein Mitglied in Bishops Bande zu sein ist ein gute Sache.}
 {425}{}{Bringst du nen Haufen neuer Sklaven, oder holst du ein paar ab?}
-{426}{}{Ihr Jungs müsst mal neue Bezugsquellen finden... der letzte Haufen an Sklaven war zu blöd zum scheißen.}
+{426}{}{Ihr Jungs mÃ¼sst mal neue Bezugsquellen finden... der letzte Haufen an Sklaven war zu blÃ¶d zum scheiÃŸen.}
 {427}{}{Habt ihr Jungs wieder ein paar Wilde versklavt?}
-{428}{}{Was issn die Tage so der übliche Preis für Sklaven?}
+{428}{}{Was issn die Tage so der Ã¼bliche Preis fÃ¼r Sklaven?}
 {429}{}{Sklaven, Brahmin, ist doch alles das selbe.}
-{440}{}{Wenn du nach Arbeit suchst, wir könnten jemanden wie dich gut gebrauchen. Rede mit Mr. Bishop.}
-{441}{}{Du suchst Arbeit? Du könntest ja mal mit Mr. Bishop reden.}
+{440}{}{Wenn du nach Arbeit suchst, wir kÃ¶nnten jemanden wie dich gut gebrauchen. Rede mit Mr. Bishop.}
+{441}{}{Du suchst Arbeit? Du kÃ¶nntest ja mal mit Mr. Bishop reden.}
 {445}{}{Hau ab, Sippentrottel.}
-{446}{}{Ich habe keine Drogen für dich Sippentrottel.}
+{446}{}{Ich habe keine Drogen fÃ¼r dich Sippentrottel.}
 {447}{}{Geh und rauche deine Friedenspfeife Wilder.}
 {448}{}{Mir ist nicht nach Smalltalk. Verschwinde.}
 {449}{}{Hau ab, Sippentrottel.}
-{450}{}{Weißt du wer ich bin? Ich bin einer von Bishops Männern. Und nun verschwinde.}
-{451}{}{Willst du mich wütend machen? Du wirst mich nicht mögen, wenn ich wütend bin.}
-{452}{}{Verpiss dich, bevor ich dich für Zielübungen benutzte.}
-{453}{}{Suchst du Ärger? Rede ruhig mit mir weiter, und warte ab was passiert.}
-{460}{}{Ich such gerade keine Sippentrottel. Komm später noch mal wieder.}
-{461}{}{Ich habe jetzt gerade keine Zeit für dich Wilder. Warum kommst du nicht später wieder?}
-{462}{}{Nein ich weiß nicht wo das ist! ::Blöde wilde.::}
+{450}{}{WeiÃŸt du wer ich bin? Ich bin einer von Bishops MÃ¤nnern. Und nun verschwinde.}
+{451}{}{Willst du mich wÃ¼tend machen? Du wirst mich nicht mÃ¶gen, wenn ich wÃ¼tend bin.}
+{452}{}{Verpiss dich, bevor ich dich fÃ¼r ZielÃ¼bungen benutzte.}
+{453}{}{Suchst du Ã„rger? Rede ruhig mit mir weiter, und warte ab was passiert.}
+{460}{}{Ich such gerade keine Sippentrottel. Komm spÃ¤ter noch mal wieder.}
+{461}{}{Ich habe jetzt gerade keine Zeit fÃ¼r dich Wilder. Warum kommst du nicht spÃ¤ter wieder?}
+{462}{}{Nein ich weiÃŸ nicht wo das ist! ::BlÃ¶de wilde.::}
 {463}{}{Hau ab, Sippentrottel.}
-{464}{}{Bishop redet nicht mit solchem wilden Müll wie dir, wir haben besseres zu tun.}
-{465}{}{Ich habe keine Drogen für dich Sippentrottel.}
+{464}{}{Bishop redet nicht mit solchem wilden MÃ¼ll wie dir, wir haben besseres zu tun.}
+{465}{}{Ich habe keine Drogen fÃ¼r dich Sippentrottel.}
 {466}{}{Geh und rauche deine Friedenspfeife Wilder.}
 {467}{}{Mir ist nicht nach Smalltalk. Verschwinde.}
 {468}{}{Hau ab, Sippentrottel.}
-{469}{}{Weißt du wer ich bin? Ich bin einer von Bishops Männern. Und nun verschwinde.}
-{470}{}{Willst du mich wütend machen? Du wirst mich nicht mögen, wenn ich wütend bin.}
-{471}{}{Verpiss dich, bevor ich dich für Zielübungen benutzte.}
-{472}{}{Suchst du Ärger? Rede ruhig mit mir weiter, und warte ab was passiert.}
+{469}{}{WeiÃŸt du wer ich bin? Ich bin einer von Bishops MÃ¤nnern. Und nun verschwinde.}
+{470}{}{Willst du mich wÃ¼tend machen? Du wirst mich nicht mÃ¶gen, wenn ich wÃ¼tend bin.}
+{471}{}{Verpiss dich, bevor ich dich fÃ¼r ZielÃ¼bungen benutzte.}
+{472}{}{Suchst du Ã„rger? Rede ruhig mit mir weiter, und warte ab was passiert.}
 {473}{}{Ich bin noch nit betrunken genug. Geh weg.}
-{474}{}{Du bist der hässlichste Wilde den ich je gesehen hab.}
-{475}{}{Mach das du hier raus kommst oder ich mache dich noch hässlicher als du schon bist.}
+{474}{}{Du bist der hÃ¤sslichste Wilde den ich je gesehen hab.}
+{475}{}{Mach das du hier raus kommst oder ich mache dich noch hÃ¤sslicher als du schon bist.}
 {476}{}{Geh und mache jemanden an, der betrunkener ist als ich.}
 {490}{}{*Dachte* ich mir doch, dass es hier nach Moder riecht. Schaff diesen Ghul hier raus.}
 {491}{}{Bring sofort diesen stinkenden Ghul hier raus.}
-{492}{}{Wenn dieser Ghul hier nich' in 'ner Minute draußen is', isser noch toter als jetz' schon.}
-{1200}{}{! Was 'ne Art, der Enklave eins überzuziehen!}
+{492}{}{Wenn dieser Ghul hier nich' in 'ner Minute drauÃŸen is', isser noch toter als jetz' schon.}
+{1200}{}{! Was 'ne Art, der Enklave eins Ã¼berzuziehen!}
 {1210}{}{.}
 {1215}{}{?}
 {1216}{}{...warum die Geheimnistuerei?}
-{1220}{}{, wie läuft's?}
+{1220}{}{, wie lÃ¤uft's?}
 {1221}{}{, was haste denn so gemacht?}
-{1222}{}{! Haste dich aus Ärger rausgehalten?}
-{1228}{}{ -Familie ist 'n Haufen Schlaffis. Was hältst du davon?}
+{1222}{}{! Haste dich aus Ã„rger rausgehalten?}
+{1228}{}{ -Familie ist 'n Haufen Schlaffis. Was hÃ¤ltst du davon?}
 {1229}{}{. Sofort.}
 {1230}{}{. Wird deine Familie dich nicht vermissen?}
 {1231}{}{ hatten Zeit, noch viel mehr zu tun, als ihrem Boss in den Hintern zu kriechen.}
-{1236}{}{ -Familie is' 'n Haufen Schlaffis. Jetzt weiß ich, dass es wahr ist.}
+{1236}{}{ -Familie is' 'n Haufen Schlaffis. Jetzt weiÃŸ ich, dass es wahr ist.}
 {1252}{}{! Du kannst hier drin keine Waffen sehen lassen, OK?}
 {1260}{}{. Passt du auch gut auf dich auf?}
 {1261}{}{. Was issn los?}
@@ -197,6 +197,6 @@
 {1269}{}{! Du kannst hier drin deinen Vorbau zeigen, aber nich' deine Waffen, OK?}
 {1280}{}{!}
 {1350}{}{. Was issn los?}
-{1351}{}{. Wie läuft's?}
-{1352}{}{. Haste dich aus Ärger rausgehalten?}
+{1351}{}{. Wie lÃ¤uft's?}
+{1352}{}{. Haste dich aus Ã„rger rausgehalten?}
 {1402}{}{!}

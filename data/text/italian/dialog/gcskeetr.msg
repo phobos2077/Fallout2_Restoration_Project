@@ -1,7 +1,7 @@
 {100}{}{Vedi un ghoul che indossa dei vecchi vestiti sporchi di grasso.}
 {101}{}{Vedi Skeeter, il Ghoul Collezionista.}
 {102}{}{Vedi un ghoul sporco ma dall'aria sveglia, che indossa un grembiule macchiato di grasso con un micrometro che spunta da una delle tasche.}
-{110}{}{Vedi di non toccare nulla -— potresti farti male.}
+{110}{}{Vedi di non toccare nulla -â€” potresti farti male.}
 {111}{}{Credevo che i selvaggi fossero semplicemente rozzi.}
 {112}{}{Guarda pure. Potresti imparare qualcosa, ma ne dubito.}
 {113}{}{Beh, non si puo' negare che tu sia speciale, per certi versi.}

@@ -1,95 +1,95 @@
-{100}{}{Du siehst eine kräftige Bergarbeiterin.}
-{101}{}{Du siehst die lästernde Bette, eine Bergarbeiterin der Morningstar-Mine.}
-{102}{}{Du siehst eine muskulöse Frau, die vor Selbstsicherheit nur so knistert.}
+{100}{}{Du siehst eine krÃ¤ftige Bergarbeiterin.}
+{101}{}{Du siehst die lÃ¤sternde Bette, eine Bergarbeiterin der Morningstar-Mine.}
+{102}{}{Du siehst eine muskulÃ¶se Frau, die vor Selbstsicherheit nur so knistert.}
 {103}{}{Caminetto, deine Kokoweef-Arbeiter sind doch total hohl und haben keine Ahnung wo's langgeht.}
-{104}{}{Ich zeig dir schon, wo's langgeht, lästernde Bette.}
-{105}{}{Das könntest du ja nicht mal mit 'ner Straßenkarte.}
+{104}{}{Ich zeig dir schon, wo's langgeht, lÃ¤sternde Bette.}
+{105}{}{Das kÃ¶nntest du ja nicht mal mit 'ner StraÃŸenkarte.}
 {106}{}{Nur, weil ich dir nicht so nahe kommen will.}
-{107}{}{Mach dir bloß nichts vor, du kleiner Wicht, du.}
-{108}{}{Mit 'nem Wicht wärst du besser dran als mit der Bohrmaschine, die du sonst nehmen musst.}
-{109}{}{Na, mein Bohrer macht's wenigstens länger als dreißig Sekunden.}
-{110}{}{Kein Wunder, dass die Maschinen in der Morningstar ständig kaputt sind.}
-{111}{}{Ich zeig dir gleich, was kaputt ist und zwar mit meinen Fäusten!}
-{112}{}{Deine Fäuste? Dein Atem reicht mir schon massig.}
-{113}{}{Ich frag mich, wie du das über deinem eigenen drei Wochen alten Gestank riechen kannst.}
+{107}{}{Mach dir bloÃŸ nichts vor, du kleiner Wicht, du.}
+{108}{}{Mit 'nem Wicht wÃ¤rst du besser dran als mit der Bohrmaschine, die du sonst nehmen musst.}
+{109}{}{Na, mein Bohrer macht's wenigstens lÃ¤nger als dreiÃŸig Sekunden.}
+{110}{}{Kein Wunder, dass die Maschinen in der Morningstar stÃ¤ndig kaputt sind.}
+{111}{}{Ich zeig dir gleich, was kaputt ist und zwar mit meinen FÃ¤usten!}
+{112}{}{Deine FÃ¤uste? Dein Atem reicht mir schon massig.}
+{113}{}{Ich frag mich, wie du das Ã¼ber deinem eigenen drei Wochen alten Gestank riechen kannst.}
 {114}{}{Gestank? Himmel, wenn ich dich nur ansehe, krieg ich schon Schmerzen.}
 {115}{}{Du hast keine Ahnung, was Schmerzen sind, aber das bring ich dir schon noch bei.}
 {116}{}{Du bringst es mir bei?}
 {117}{}{Ja, genau. Weil, deine Ma hat's bestimmt nich' getan.}
-{118}{}{Sprichste jetzt über meine Ma? Ach, wie kreativ.}
+{118}{}{Sprichste jetzt Ã¼ber meine Ma? Ach, wie kreativ.}
 {119}{}{Ich werd noch viel kreativer, wenn ich dir erst 'n neues Gesicht modelliere. Das alte gibt ja wirklich nicht viel her.}
 {120}{}{Ja, klar. Wo ist denn deine Armee?}
-{121}{}{Nur ich, das reicht schon. Aber ich wette, wir von der Morningstar können euch feigen Kokoweefer
+{121}{}{Nur ich, das reicht schon. Aber ich wette, wir von der Morningstar kÃ¶nnen euch feigen Kokoweefer
  jederzeit auseinandernehmen.}
-{122}{}{Das glaub ich nicht. Kokoweef lässt hier die Hühner tanzen. Das bring ich dir schon noch bei.}
-{123}{}{Wird schwer für dich werden, wenn ich dich erst mal K.O. schlage.}
-{124}{}{Du glaubst wohl, das ist dein Glückstag, was?}
-{125}{}{Ich brauch keinen Glückstag, um dich flachzuklopfen.}
+{122}{}{Das glaub ich nicht. Kokoweef lÃ¤sst hier die HÃ¼hner tanzen. Das bring ich dir schon noch bei.}
+{123}{}{Wird schwer fÃ¼r dich werden, wenn ich dich erst mal K.O. schlage.}
+{124}{}{Du glaubst wohl, das ist dein GlÃ¼ckstag, was?}
+{125}{}{Ich brauch keinen GlÃ¼ckstag, um dich flachzuklopfen.}
 {126}{}{Was, willst du mich mit deinem Fett flachklopfen? Buuuh, Hilfe, jetzt *habe* ich aber Angst.}
-{127}{}{Hoch mit den Fäusten, oder halt die Klappe, du kleine Krabbe, du.}
+{127}{}{Hoch mit den FÃ¤usten, oder halt die Klappe, du kleine Krabbe, du.}
 {128}{}{Komm und hol's dir, du Hexe.}
-{129}{}{Und wer hofft jetzt auf seinen Glückstag?}
-{130}{}{Das war's, dafür nehm ich dich auseinander.}
+{129}{}{Und wer hofft jetzt auf seinen GlÃ¼ckstag?}
+{130}{}{Das war's, dafÃ¼r nehm ich dich auseinander.}
 {131}{}{Wer zum Teufel beobachtet uns da?}
-{132}{}{Neuling. Hey, das is' 'ne Privatsache! Los, hol'n wir uns das Würstchen!}
+{132}{}{Neuling. Hey, das is' 'ne Privatsache! Los, hol'n wir uns das WÃ¼rstchen!}
 {133}{}{Dies eine Mal stimme ich dir zu. Schnappen wir's uns!}
-{134}{}{Wer baut jetzt das Gold ab, häh, Klokopf?}
-{135}{}{Ich hätt wirklich nichts gegen einen Urlaub, Himmel noch mal.}
-{136}{}{Soll ich dieses dreckige Gefängnis etwa mit diesem Spinner teilen?}
-{137}{}{Caminetto, deine Tage sind gezählt.}
+{134}{}{Wer baut jetzt das Gold ab, hÃ¤h, Klokopf?}
+{135}{}{Ich hÃ¤tt wirklich nichts gegen einen Urlaub, Himmel noch mal.}
+{136}{}{Soll ich dieses dreckige GefÃ¤ngnis etwa mit diesem Spinner teilen?}
+{137}{}{Caminetto, deine Tage sind gezÃ¤hlt.}
 {138}{}{Nimm deinen Abschied von dieser Welt.}
 {139}{}{Hol mich hier raus, Teufel noch mal!}
 {140}{}{Hey, Strohkopf, lass mich hier raus!}
-{141}{}{Hey, Sheriff; ich bin besonders nett zu dir, wenn du mich rauslässt.}
-{142}{}{Das nächste Mal wasch ich dir deinen hohlen Kopf.}
+{141}{}{Hey, Sheriff; ich bin besonders nett zu dir, wenn du mich rauslÃ¤sst.}
+{142}{}{Das nÃ¤chste Mal wasch ich dir deinen hohlen Kopf.}
 {143}{}{Wo zum Teufel glotzt du denn hin?}
-{144}{}{Was willst du denn, Hosenscheißer?}
-{145}{}{Ich lass euch nicht miteinander kämpfen.}
+{144}{}{Was willst du denn, HosenscheiÃŸer?}
+{145}{}{Ich lass euch nicht miteinander kÃ¤mpfen.}
 {146}{}{Hab mich nur gefragt, was hier los ist.}
-{147}{}{In dieser Bar ist ein Haufen Dreck und ich und meine Freunde von der Morningstar werden ihn auf die Straße
- rausschaufeln. Und der größte Schandfleck hat sogar 'nen Namen - Caminetto.}
+{147}{}{In dieser Bar ist ein Haufen Dreck und ich und meine Freunde von der Morningstar werden ihn auf die StraÃŸe
+ rausschaufeln. Und der grÃ¶ÃŸte Schandfleck hat sogar 'nen Namen - Caminetto.}
 {148}{}{Warum? Wie hat das angefangen?}
-{149}{}{Ach so. Tja, das kann ich nicht zulassen. Ihr müsst jetzt aufhören damit.}
-{150}{}{Sieh ihn dir nur an, diesen traurigen, schlaffen Haufen. Wer würde die nicht einstampfen wollen?}
-{151}{}{Das reicht aber nicht. Ich kann euch nicht kämpfen lassen.}
-{152}{}{Na, das hört sich allerdings nach einem Problem an. Das kann ich dir nicht übelnehmen. Wiedersehn.}
-{153}{}{Was zum Teufel willst du schon dagegen tun, du blöder Klokopf?}
+{149}{}{Ach so. Tja, das kann ich nicht zulassen. Ihr mÃ¼sst jetzt aufhÃ¶ren damit.}
+{150}{}{Sieh ihn dir nur an, diesen traurigen, schlaffen Haufen. Wer wÃ¼rde die nicht einstampfen wollen?}
+{151}{}{Das reicht aber nicht. Ich kann euch nicht kÃ¤mpfen lassen.}
+{152}{}{Na, das hÃ¶rt sich allerdings nach einem Problem an. Das kann ich dir nicht Ã¼belnehmen. Wiedersehn.}
+{153}{}{Was zum Teufel willst du schon dagegen tun, du blÃ¶der Klokopf?}
 {154}{}{Ich bring den Ersten um, der die Faust schwingt.}
 {155}{}{Ich bitte euch ganz nett. Dann lade ich meine Waffe und warte auf eine Gelegenheit
- für Zielübungen.}
-{156}{}{Der Sheriff hat mich gebeten, ihm zu helfen, während er mit 'nem kaputten Bein im Bett liegt. Ich muss mein
+ fÃ¼r ZielÃ¼bungen.}
+{156}{}{Der Sheriff hat mich gebeten, ihm zu helfen, wÃ¤hrend er mit 'nem kaputten Bein im Bett liegt. Ich muss mein
  Versprechen halten.}
-{157}{}{Ach ja? Marion ist ja 'n ganz Süßer. OK, für ihn verschiebe ich es auf ein anderes Mal, diese Kokoweef-Schätzchen
- übers Knie zu legen.}
-{158}{}{Danke. Ich hatte gehofft, dass ihr es so sehen würdet. Wiedersehn.}
-{159}{}{Wenn du dich mal nicht für 'nen tollen Asphaltcowboy hältst. Ich mag, glaub ich, deine
+{157}{}{Ach ja? Marion ist ja 'n ganz SÃ¼ÃŸer. OK, fÃ¼r ihn verschiebe ich es auf ein anderes Mal, diese Kokoweef-SchÃ¤tzchen
+ Ã¼bers Knie zu legen.}
+{158}{}{Danke. Ich hatte gehofft, dass ihr es so sehen wÃ¼rdet. Wiedersehn.}
+{159}{}{Wenn du dich mal nicht fÃ¼r 'nen tollen Asphaltcowboy hÃ¤ltst. Ich mag, glaub ich, deine
  Einstellung nicht.}
-{160}{}{Den musst du auch nicht mögen. Ich nehm dich nämlich mit ins Gefängnis, tot oder lebendig;
+{160}{}{Den musst du auch nicht mÃ¶gen. Ich nehm dich nÃ¤mlich mit ins GefÃ¤ngnis, tot oder lebendig;
  du kannst es dir aussuchen.}
 {161}{}{Oh, tut mir leid. Ich hab's wirklich nicht so gemeint. Ich geh dann mal. Wiedersehn.}
-{162}{}{Ach ja? Na gut, ich erzähl dir was. Ich komm mit, wenn du diesen Armleuchter von Caminetto auch einlochst.}
+{162}{}{Ach ja? Na gut, ich erzÃ¤hl dir was. Ich komm mit, wenn du diesen Armleuchter von Caminetto auch einlochst.}
 {163}{}{Du bist jetzt nicht in der Lage zum Handeln.}
-{164}{}{Keine schlechte Idee. Ein paar Gitterstäbe zwischen euch sollten euch ein wenig abkühlen.
+{164}{}{Keine schlechte Idee. Ein paar GitterstÃ¤be zwischen euch sollten euch ein wenig abkÃ¼hlen.
  Kommt schon, ihr zwei.}
-{165}{}{Hamse bei dir den Hintern mit 'm Kopf vertauscht? Wenn du irgendwelche Dummheiten versuchst, machen wir uns alle über dich her, nur so zum
- Aufwärmen. Und dann wird Blut fließen. Glaubst du, dass dem Sheriff das gefallen wird?}
-{166}{}{Nein, würde er wahrscheinlich nicht.}
-{167}{}{Mir egal. *Mein* Blut wird hier sicher nicht fließen.}
+{165}{}{Hamse bei dir den Hintern mit 'm Kopf vertauscht? Wenn du irgendwelche Dummheiten versuchst, machen wir uns alle Ã¼ber dich her, nur so zum
+ AufwÃ¤rmen. Und dann wird Blut flieÃŸen. Glaubst du, dass dem Sheriff das gefallen wird?}
+{166}{}{Nein, wÃ¼rde er wahrscheinlich nicht.}
+{167}{}{Mir egal. *Mein* Blut wird hier sicher nicht flieÃŸen.}
 {168}{}{Naja, vielleicht kann ich mal 'ne Pause gebrauchen. Ich habe mir in letzter Zeit ja 'n Ast abgearbeitet. [zu den
  anderen] Lasst mal gut sein, Jungs. Ich bin morgen wieder bei der Arbeit.}
 {169}{}{Weise Entscheidung.}
 {170}{}{Keine Angst, ich nehm Caminetto auch mit, damit du Gesellschaft hast. Nicht wahr, Caminetto?}
-{171}{}{Du kapierst es einfach nicht, oder? Versuch dich bei uns einzumischen und wir beide, nämlich
+{171}{}{Du kapierst es einfach nicht, oder? Versuch dich bei uns einzumischen und wir beide, nÃ¤mlich
  dumme Nuss Caminetto und ich, werden dir ordentlich zusetzen.}
 {172}{}{Dann muss ich euch eben beide einlochen, dich und Caminetto.}
 {173}{}{Dann muss ich euch eben beide umlegen, dich und Caminetto.}
-{174}{}{Hmm, ich glaube, ich werd gerade in einem anderen Teil von Redding benötigt. Jetzt gleich. Wiedersehn.}
-{175}{}{Du bist wohl doch klüger, als du aussiehst. Musst du ja sein, schließlich gehst du aufrecht. Also lauf einfach
+{174}{}{Hmm, ich glaube, ich werd gerade in einem anderen Teil von Redding benÃ¶tigt. Jetzt gleich. Wiedersehn.}
+{175}{}{Du bist wohl doch klÃ¼ger, als du aussiehst. Musst du ja sein, schlieÃŸlich gehst du aufrecht. Also lauf einfach
  nach Hause zu Mami und sag ihr, du hattest nicht genug Mumm, um irgend etwas zu unternehmen.}
-{176}{}{Jetzt reicht's. Ich hab jetzt die Schnauze voll von deiner großen Klappe. Noch eine letzte Chance; hau jetzt friedlich ab, oder ich reiß dich in Stücke.}
+{176}{}{Jetzt reicht's. Ich hab jetzt die Schnauze voll von deiner groÃŸen Klappe. Noch eine letzte Chance; hau jetzt friedlich ab, oder ich reiÃŸ dich in StÃ¼cke.}
 {177}{}{Vielleicht werde ich das einfach tun. Ich will ja keinem wehtun. Wiedersehn.}
-{178}{}{Ich seh schon, wo der Hase im Pfeffer liegt, du kleines Stück Dreck. OK, du kannst mich mitnehmen und Caminetto auch.
+{178}{}{Ich seh schon, wo der Hase im Pfeffer liegt, du kleines StÃ¼ck Dreck. OK, du kannst mich mitnehmen und Caminetto auch.
  (zu Caminetto) Richtig, du kleiner Schwachkopf?}
-{179}{}{Das hört sich schon besser an.}
-{180}{}{Nee, jetzt isses zu spät. Auf euch beide pell ich mir 'ne Wurst.}
+{179}{}{Das hÃ¶rt sich schon besser an.}
+{180}{}{Nee, jetzt isses zu spÃ¤t. Auf euch beide pell ich mir 'ne Wurst.}
 {181}{}{Ich denke Caminetto hat noch ein paar Tage Schonfrist.}

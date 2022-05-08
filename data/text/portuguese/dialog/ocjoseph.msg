@@ -1,17 +1,17 @@
-{100}{}{Você vê um pequeno homem com um livro em suas mãos.}
+{100}{}{VocÃª vÃª um pequeno homem com um livro em suas mÃ£os.}
 {101}{}{You see Joseph, the herbalist.}
 {102}{}{You see a short man with a book called "Herbs and Their Medicinal Uses."}
 {103}{}{Hello, I'm Joseph the herbalist. What can I help you with?}
-{104}{}{Tenho owie. Você conserta?}
-{105}{}{Sinto icky. Você conserta?}
-{106}{}{Eu gimp, você conserta?}
-{107}{}{Tenho dúvidas. Tudo bem?}
+{104}{}{Tenho owie. VocÃª conserta?}
+{105}{}{Sinto icky. VocÃª conserta?}
+{106}{}{Eu gimp, vocÃª conserta?}
+{107}{}{Tenho dÃºvidas. Tudo bem?}
 {108}{}{Desculpe, eu vou.}
-{109}{}{Eu estou ferido. Você pode me ajudar?}
-{110}{}{Eu me sinto doente. Você pode me ajudar?}
-{111}{}{Eu estou aleijado. Você pode me ajudar?}
+{109}{}{Eu estou ferido. VocÃª pode me ajudar?}
+{110}{}{Eu me sinto doente. VocÃª pode me ajudar?}
+{111}{}{Eu estou aleijado. VocÃª pode me ajudar?}
 {112}{}{Eu queria pedir-lhe algumas perguntas.}
-{113}{}{Apenas dizer "olá".}
+{113}{}{Apenas dizer "olÃ¡".}
 {114}{}{Why, certainly. Hmmm. You'll need to take some of this. I'll apply this balm to the wound.
  Now just lie back and rest for a couple of hours.}
 {115}{}{Eu agradecer. Tchau.}
@@ -25,28 +25,28 @@
  go to one of the bigger cities and see a surgeon. Try the New California Republic. It's east of here.}
 {121}{}{Tudo bem. Tchau.}
 {122}{}{Tudo bem. Obrigado de qualquer forma.}
-{123}{}{O que você gostaria de saber?}
+{123}{}{O que vocÃª gostaria de saber?}
 {124}{}{You prisoner?}
-{125}{}{Você sai daqui quando quer?}
+{125}{}{VocÃª sai daqui quando quer?}
 {126}{}{What you know about D'claws?}
-{127}{}{Como você está aqui?}
+{127}{}{Como vocÃª estÃ¡ aqui?}
 {128}{}{Eu vou agora.}
 {129}{}{Are you a prisoner here?}
-{130}{}{Você pode sair daqui se você deseja?}
-{131}{}{O que você pode me contar sobre os deathclaws?}
-{132}{}{Como você chegou a estar aqui, em primeiro lugar?}
-{133}{}{Obrigado pela informação. Eu vou estar indo agora.}
+{130}{}{VocÃª pode sair daqui se vocÃª deseja?}
+{131}{}{O que vocÃª pode me contar sobre os deathclaws?}
+{132}{}{Como vocÃª chegou a estar aqui, em primeiro lugar?}
+{133}{}{Obrigado pela informaÃ§Ã£o. Eu vou estar indo agora.}
 {134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
  some of my patients are deathclaws.}
 {135}{}{Tudo bem. Precisa saber mais.}
 {136}{}{Obrigado. Tchau.}
-{137}{}{Isso é muito louvável.}
+{137}{}{Isso Ã© muito louvÃ¡vel.}
 {138}{}{Eu vejo.}
 {139}{}{That's a decision that I can't agree with, but it's your life.}
 {140}{}{Yes I can, and often do. I have to collect my herbs from time to time, and I've never been
  stopped. I used to wonder if the deathclaws were secretly following me and whether or not they would
  stop me if I tried to leave. So one day I put the theory to test.}
-{141}{}{Eu entendi. Vá agora.}
+{141}{}{Eu entendi. VÃ¡ agora.}
 {142}{}{Precisa pedir mais.}
 {143}{}{You took a foolish chance and you're lucky it paid off.}
 {144}{}{Tudo certo.}
@@ -56,7 +56,7 @@
  factor is quite high. This species is highly intelligent, about the equivalent of an eight-year-old,
  with some individuals reaching human normal level. Their learning capacity is very high and they are
  capable of abstract thought and reasoning.}
-{147}{}{Uh... o que você disse.}
+{147}{}{Uh... o que vocÃª disse.}
 {148}{}{Tenho que ir agora.}
 {149}{}{Uh-huh.}
 {150}{}{Wow, I'm impressed with your knowledge.}
@@ -69,7 +69,7 @@
 {155}{}{What a waste to be here when you could be helping others.}
 {156}{}{You are truly a dedicated man who deserves recognition.}
 {157}{}{Interessante.}
-{158}{}{Eu não vou ajudar alguém como você. Vá embora.}
+{158}{}{Eu nÃ£o vou ajudar alguÃ©m como vocÃª. VÃ¡ embora.}
 {159}{}{I traveled to another town and stayed there a week or so before returning. When I got back, I was
  warmly welcomed. Gruthar, the pack leader, came to me privately and personally thanked me for coming
  back. No, I am definitely here because I want to be.}

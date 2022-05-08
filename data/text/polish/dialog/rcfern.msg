@@ -1,24 +1,24 @@
-{100}{}{Widzisz zdenerwowanego goœcia w stroju spadochroniarza.}
+{100}{}{Widzisz zdenerwowanego goÅ›cia w stroju spadochroniarza.}
 {101}{}{Widzisz Ferndowna, handlarza z Kryptopolis.}
-{102}{}{Widzisz chuderlawego i poddenerwowanego goœcia w brudnym stroju z Krypty.}
-{103}{}{Obawiam siê, ¿e nie mo¿emy ci zap³aciæ za opuszczenie karawany. W koñcu przez to zgin¹³ Ben!}
-{104}{}{Naprawdê zdawa³o ci siê, ¿e nagrodzê z³odzieja?!? Masz szczêœcie, ¿e ciê nie zlinczowano. Nic nie dostaniesz! Wynocha!}
-{105}{}{Z³odzieja? Wypraszam sobie, cholerny niewdziêczniku! Wychodzê! Do widzenia!}
-{106}{}{Któregoœ dnia, nied³ugo, po¿a³ujesz tego. ¯egnam.}
-{107}{}{Twoja karawana ponios³a tak du¿e straty, ¿e zaczynam podejrzewaæ, i¿ twoje "starania" nie by³y wystarczaj¹ce. Nie nagrodzê takiej pora¿ki.}
-{108}{}{Ty draniu! Zap³acisz mi za to oszustwo. ¯egnam.}
-{109}{}{Có¿, czasami ma siê wiêksze szczêœcie od innych. Tym razem by³o odwrotnie. ¯egnaj.}
-{110}{}{Wprawdzie nie straciliœmy wszystkiego z tej karawany, ale straciliœmy zbyt wiele. Gdyby twoje zadanie zosta³o wykonane nale¿ycie dalibyœmy ci wiêcej ni¿ te marne 50$.}
-{111}{}{Có¿, coœ to chyba i tak lepiej ni¿ nic. Na razie.}
-{112}{}{Ty sukinsynu. Nikt nie wykona³by tego lepiej. Po¿a³ujesz tego! Spadam.}
-{113}{}{To by³a dobra robota. Masz tu 100$. Trochê potrwa zanim znajdziemy kolejnego dowodz¹cego karawan¹, wiêc nie bardzo wiem, kiedy znów wyruszymy na szlak.}
-{114}{}{Nie chcê ju¿ chyba nigdy wiêcej spêdziæ tyle czasu gapi¹c siê w dupê braminy. Do widzenia.}
-{115}{}{Nie by³o tak Ÿle. Dziêki. Na razie.}
-{116}{}{To by³a dobra podró¿. Nic by z niej nie by³o gdyby nie ty. Masz tu 100$ plus 50$ ekstra za œwietn¹ robotê! Dziêki. Szkoda, ¿e Ben nie mo¿e tego zobaczyæ...}
-{117}{}{Mi³o znaleŸæ kogoœ, kto docenia widoczn¹ jakoœæ. Mo¿e jeszcze siê zobaczymy. Na razie.}
-{118}{}{Zawsze mi³o jest zarobiæ dodatkowe pieni¹dze. Dziêki, i na razie.}
-{119}{}{Nie mogê uwierzyæ, ¿e Ben zabra³ takiego idiotê. To by³a jego ostatnia pomy³ka! Masz szczêœcie, ¿e jeszcze ¿yjesz! Do widzenia!}
+{102}{}{Widzisz chuderlawego i poddenerwowanego goÅ›cia w brudnym stroju z Krypty.}
+{103}{}{Obawiam siÄ™, Å¼e nie moÅ¼emy ci zapÅ‚aciÄ‡ za opuszczenie karawany. W koÅ„cu przez to zginÄ…Å‚ Ben!}
+{104}{}{NaprawdÄ™ zdawaÅ‚o ci siÄ™, Å¼e nagrodzÄ™ zÅ‚odzieja?!? Masz szczÄ™Å›cie, Å¼e ciÄ™ nie zlinczowano. Nic nie dostaniesz! Wynocha!}
+{105}{}{ZÅ‚odzieja? Wypraszam sobie, cholerny niewdziÄ™czniku! WychodzÄ™! Do widzenia!}
+{106}{}{KtÃ³regoÅ› dnia, niedÅ‚ugo, poÅ¼aÅ‚ujesz tego. Å»egnam.}
+{107}{}{Twoja karawana poniosÅ‚a tak duÅ¼e straty, Å¼e zaczynam podejrzewaÄ‡, iÅ¼ twoje "starania" nie byÅ‚y wystarczajÄ…ce. Nie nagrodzÄ™ takiej poraÅ¼ki.}
+{108}{}{Ty draniu! ZapÅ‚acisz mi za to oszustwo. Å»egnam.}
+{109}{}{CÃ³Å¼, czasami ma siÄ™ wiÄ™ksze szczÄ™Å›cie od innych. Tym razem byÅ‚o odwrotnie. Å»egnaj.}
+{110}{}{Wprawdzie nie straciliÅ›my wszystkiego z tej karawany, ale straciliÅ›my zbyt wiele. Gdyby twoje zadanie zostaÅ‚o wykonane naleÅ¼ycie dalibyÅ›my ci wiÄ™cej niÅ¼ te marne 50$.}
+{111}{}{CÃ³Å¼, coÅ› to chyba i tak lepiej niÅ¼ nic. Na razie.}
+{112}{}{Ty sukinsynu. Nikt nie wykonaÅ‚by tego lepiej. PoÅ¼aÅ‚ujesz tego! Spadam.}
+{113}{}{To byÅ‚a dobra robota. Masz tu 100$. TrochÄ™ potrwa zanim znajdziemy kolejnego dowodzÄ…cego karawanÄ…, wiÄ™c nie bardzo wiem, kiedy znÃ³w wyruszymy na szlak.}
+{114}{}{Nie chcÄ™ juÅ¼ chyba nigdy wiÄ™cej spÄ™dziÄ‡ tyle czasu gapiÄ…c siÄ™ w dupÄ™ braminy. Do widzenia.}
+{115}{}{Nie byÅ‚o tak Åºle. DziÄ™ki. Na razie.}
+{116}{}{To byÅ‚a dobra podrÃ³Å¼. Nic by z niej nie byÅ‚o gdyby nie ty. Masz tu 100$ plus 50$ ekstra za Å›wietnÄ… robotÄ™! DziÄ™ki. Szkoda, Å¼e Ben nie moÅ¼e tego zobaczyÄ‡...}
+{117}{}{MiÅ‚o znaleÅºÄ‡ kogoÅ›, kto docenia widocznÄ… jakoÅ›Ä‡. MoÅ¼e jeszcze siÄ™ zobaczymy. Na razie.}
+{118}{}{Zawsze miÅ‚o jest zarobiÄ‡ dodatkowe pieniÄ…dze. DziÄ™ki, i na razie.}
+{119}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e Ben zabraÅ‚ takiego idiotÄ™. To byÅ‚a jego ostatnia pomyÅ‚ka! Masz szczÄ™Å›cie, Å¼e jeszcze Å¼yjesz! Do widzenia!}
 {120}{}{Yyy?}
-{121}{}{Szkoda, ¿e Ben Wade zgin¹³. By³ dobrym cz³owiekiem i ciê¿ko bêdzie go zast¹piæ. Nazywam siê Ferndown i zajmê siê wszelkimi d³ugami wobec ciebie.}
-{122}{}{Ee, dziêki.}
-{123}{}{Szkoda Bena Wade, by³ dobrym cz³owiekiem.}
+{121}{}{Szkoda, Å¼e Ben Wade zginÄ…Å‚. ByÅ‚ dobrym czÅ‚owiekiem i ciÄ™Å¼ko bÄ™dzie go zastÄ…piÄ‡. Nazywam siÄ™ Ferndown i zajmÄ™ siÄ™ wszelkimi dÅ‚ugami wobec ciebie.}
+{122}{}{Ee, dziÄ™ki.}
+{123}{}{Szkoda Bena Wade, byÅ‚ dobrym czÅ‚owiekiem.}

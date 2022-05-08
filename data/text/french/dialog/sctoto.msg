@@ -1,6 +1,6 @@
 {100}{}{Voici un gros robot muni d'outils et d'autres objets.}
-{101}{}{Voici Toto, le robot de maintenance de Dorothée.}
-{102}{}{Voici un robot, un modèle de maintenance. }
+{101}{}{Voici Toto, le robot de maintenance de DorothÃ©e.}
+{102}{}{Voici un robot, un modÃ¨le de maintenance. }
 {103}{}{<Bzzz> <Ouaf ouaf> <Bzzt> <Clic> <Ouaf>}
 {104}{}{<Ouaouf Ouaouf>}
-{105}{}{::Halètements:: <Bzzt> <Ouaouf> <Grrrrrr>}
+{105}{}{::HalÃ¨tements:: <Bzzt> <Ouaouf> <Grrrrrr>}

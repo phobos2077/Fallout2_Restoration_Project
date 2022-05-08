@@ -1,55 +1,55 @@
-{100}{}{Widzisz stra¿nika.}
-{101}{}{Widzisz stra¿nika bramy.}
-{102}{}{Widzisz stra¿nika w nietypowym pancerzu wspomaganym. Na piersi ma dziwny, nieznany ci symbol.}
-{103}{gate1}{Stój! To w³asnoœæ rz¹dowa - bez upowa¿nienia wstêp wzbroniony.}
+{100}{}{Widzisz straÅ¼nika.}
+{101}{}{Widzisz straÅ¼nika bramy.}
+{102}{}{Widzisz straÅ¼nika w nietypowym pancerzu wspomaganym. Na piersi ma dziwny, nieznany ci symbol.}
+{103}{gate1}{StÃ³j! To wÅ‚asnoÅ›Ä‡ rzÄ…dowa - bez upowaÅ¼nienia wstÄ™p wzbroniony.}
 {104}{}{Eee... Rzom-do-wy?}
-{105}{}{Moja ma przepustka... gdzie moja schowaæ?}
-{106}{}{Moja nowa. Wasza oczekiwaæ.}
-{107}{}{Oj. Moja iœæ.}
-{108}{}{Mam przepustkê... gdzie ona jest...}
-{109}{}{Jestem nowym rekrutem. Powiedziano mi, ¿e mogê wejœæ.}
-{110}{}{Och, przepraszam. W takim razie lepiej bêdzie, jak sobie pójdê.}
-{111}{gate2}{Brakuje ci paru klepek, co? W ka¿dym razie, trzymaj siê z dala, a nic ci siê nie stanie. Rozumiesz?}
-{112}{}{Moja chce do œrodka.}
-{113}{}{Dobra. Ja iœæ.}
-{114}{gate3}{Bez upowa¿nienia... Cholera. (powoli) Twoja musi mieæ przepustka. Jak nie ma przepustka to idŸ w cholerê. Jak ty nie pójœæ, to dostaæ w czapê. Kapujesz?}
-{115}{}{Hmmpf. A mo¿e twoja dostaæ w czapê, co?}
-{116}{}{Dobra. Ja iœæ.}
-{117}{gate14}{(K³adzie d³oñ na broni) Nie ze mn¹ te numery! Dawaj przepustkê albo podaj has³o!}
-{118}{}{Nie wie, gdzie przepustka, nie pamiêta has³o!}
-{119}{}{Goniæ. Moja trupiæ.}
-{120}{}{Przykro mi, ale przepustka gdzieœ mi zginê³a, a o haœle nic mi nie wiadomo.}
-{121}{}{Wal siê ty i wszyscy, którzy ciê przypominaj¹!}
-{122}{gate5}{Lepiej bêdzie, jeœli natychmiast opuœcisz ten kompleks i wrócisz tu dopiero z upowa¿nieniem. Czy jasno siê wyra¿am?}
+{105}{}{Moja ma przepustka... gdzie moja schowaÄ‡?}
+{106}{}{Moja nowa. Wasza oczekiwaÄ‡.}
+{107}{}{Oj. Moja iÅ›Ä‡.}
+{108}{}{Mam przepustkÄ™... gdzie ona jest...}
+{109}{}{Jestem nowym rekrutem. Powiedziano mi, Å¼e mogÄ™ wejÅ›Ä‡.}
+{110}{}{Och, przepraszam. W takim razie lepiej bÄ™dzie, jak sobie pÃ³jdÄ™.}
+{111}{gate2}{Brakuje ci paru klepek, co? W kaÅ¼dym razie, trzymaj siÄ™ z dala, a nic ci siÄ™ nie stanie. Rozumiesz?}
+{112}{}{Moja chce do Å›rodka.}
+{113}{}{Dobra. Ja iÅ›Ä‡.}
+{114}{gate3}{Bez upowaÅ¼nienia... Cholera. (powoli) Twoja musi mieÄ‡ przepustka. Jak nie ma przepustka to idÅº w cholerÄ™. Jak ty nie pÃ³jÅ›Ä‡, to dostaÄ‡ w czapÄ™. Kapujesz?}
+{115}{}{Hmmpf. A moÅ¼e twoja dostaÄ‡ w czapÄ™, co?}
+{116}{}{Dobra. Ja iÅ›Ä‡.}
+{117}{gate14}{(KÅ‚adzie dÅ‚oÅ„ na broni) Nie ze mnÄ… te numery! Dawaj przepustkÄ™ albo podaj hasÅ‚o!}
+{118}{}{Nie wie, gdzie przepustka, nie pamiÄ™ta hasÅ‚o!}
+{119}{}{GoniÄ‡. Moja trupiÄ‡.}
+{120}{}{Przykro mi, ale przepustka gdzieÅ› mi zginÄ™Å‚a, a o haÅ›le nic mi nie wiadomo.}
+{121}{}{Wal siÄ™ ty i wszyscy, ktÃ³rzy ciÄ™ przypominajÄ…!}
+{122}{gate5}{Lepiej bÄ™dzie, jeÅ›li natychmiast opuÅ›cisz ten kompleks i wrÃ³cisz tu dopiero z upowaÅ¼nieniem. Czy jasno siÄ™ wyraÅ¼am?}
 {123}{}{Tak.}
-{124}{gate6a}{Rozumiem. Has³o, proszê?}
-{125}{gate6b}{Rozumiem. (k³adzie d³oñ na broni) Wszyscy rekruci zg³aszaj¹ siê do s³u¿by w pojedynkê. Lepiej bêdzie, jeœli opuœcisz ten kompleks i wrócisz bez... eskorty. Czy wyra¿am siê jasno?}
-{126}{}{Rudy okoñ.}
+{124}{gate6a}{Rozumiem. HasÅ‚o, proszÄ™?}
+{125}{gate6b}{Rozumiem. (kÅ‚adzie dÅ‚oÅ„ na broni) Wszyscy rekruci zgÅ‚aszajÄ… siÄ™ do sÅ‚uÅ¼by w pojedynkÄ™. Lepiej bÄ™dzie, jeÅ›li opuÅ›cisz ten kompleks i wrÃ³cisz bez... eskorty. Czy wyraÅ¼am siÄ™ jasno?}
+{126}{}{Rudy okoÅ„.}
 {127}{}{Tak.}
-{128}{gate7a}{Sekunda. (cisza) Dobra. Zg³oœ siê do sier¿anta. Przez tê bramê prosto, potem pierwsze drzwi po prawej.}
-{129}{gate7b}{(mamrocze) Cholerne koty, z ka¿dym rokiem g³upsze.}
-{130}{}{W porz¹dku.}
-{131}{gate8a}{Stój! - Och. Widzê, ¿e nie ma ju¿ z tob¹ rodziny. W porz¹dku, rekrucie, jak brzmi has³o?}
-{132}{gate8b}{Stój! - to znowu ty? Kiedy wreszcie pozbêdziesz siê tej eskorty? (k³adzie d³oñ na broni) Lepiej bêdzie, jeœli opuœcisz ten kompleks i nigdy ju¿ tu nie wrócisz. Czy wyra¿am siê jasno?}
-{133}{}{Rudy okoñ.}
+{128}{gate7a}{Sekunda. (cisza) Dobra. ZgÅ‚oÅ› siÄ™ do sierÅ¼anta. Przez tÄ™ bramÄ™ prosto, potem pierwsze drzwi po prawej.}
+{129}{gate7b}{(mamrocze) Cholerne koty, z kaÅ¼dym rokiem gÅ‚upsze.}
+{130}{}{W porzÄ…dku.}
+{131}{gate8a}{StÃ³j! - Och. WidzÄ™, Å¼e nie ma juÅ¼ z tobÄ… rodziny. W porzÄ…dku, rekrucie, jak brzmi hasÅ‚o?}
+{132}{gate8b}{StÃ³j! - to znowu ty? Kiedy wreszcie pozbÄ™dziesz siÄ™ tej eskorty? (kÅ‚adzie dÅ‚oÅ„ na broni) Lepiej bÄ™dzie, jeÅ›li opuÅ›cisz ten kompleks i nigdy juÅ¼ tu nie wrÃ³cisz. Czy wyraÅ¼am siÄ™ jasno?}
+{133}{}{Rudy okoÅ„.}
 {134}{}{Tak.}
-{135}{gate9}{Stój! - Znowu ty, co? Mam nadziejê, ¿e tym razem masz swoj¹ przepustkê, albo chocia¿ pamiêtasz has³o. No i, d³ugo mam czekaæ?}
-{136}{}{Uch... moja nie wie. Wróci póŸniej.}
-{137}{}{Goniæ. Moja przejœæ po twoim trupie.}
-{138}{}{S³uchaj, ta cholerna przepustka gdzieœ mi siê zapodzia³a...}
-{139}{}{Do diab³a z tym. Ju¿ po tobie, dupku!}
-{140}{gate10}{To ostatnie ostrze¿enie. Lepiej bêdzie, jeœli opuœcisz ten kompleks i nigdy ju¿ tu nie wrócisz. Czy wyra¿am siê jasno?}
-{141}{}{Dobra, moja znowu iœæ...}
-{142}{}{Jak mówili staro¿ytni... Pieprz siê!}
-{143}{}{No dobrze, ju¿ idê.}
-{144}{}{Jak mawiali staro¿ytni... Pieprz siê!}
-{145}{gate11a}{Stój! - Znowu ty?! Uprzedza³em ciê. Alarm! Intruz przy bramie!}
+{135}{gate9}{StÃ³j! - Znowu ty, co? Mam nadziejÄ™, Å¼e tym razem masz swojÄ… przepustkÄ™, albo chociaÅ¼ pamiÄ™tasz hasÅ‚o. No i, dÅ‚ugo mam czekaÄ‡?}
+{136}{}{Uch... moja nie wie. WrÃ³ci pÃ³Åºniej.}
+{137}{}{GoniÄ‡. Moja przejÅ›Ä‡ po twoim trupie.}
+{138}{}{SÅ‚uchaj, ta cholerna przepustka gdzieÅ› mi siÄ™ zapodziaÅ‚a...}
+{139}{}{Do diabÅ‚a z tym. JuÅ¼ po tobie, dupku!}
+{140}{gate10}{To ostatnie ostrzeÅ¼enie. Lepiej bÄ™dzie, jeÅ›li opuÅ›cisz ten kompleks i nigdy juÅ¼ tu nie wrÃ³cisz. Czy wyraÅ¼am siÄ™ jasno?}
+{141}{}{Dobra, moja znowu iÅ›Ä‡...}
+{142}{}{Jak mÃ³wili staroÅ¼ytni... Pieprz siÄ™!}
+{143}{}{No dobrze, juÅ¼ idÄ™.}
+{144}{}{Jak mawiali staroÅ¼ytni... Pieprz siÄ™!}
+{145}{gate11a}{StÃ³j! - Znowu ty?! UprzedzaÅ‚em ciÄ™. Alarm! Intruz przy bramie!}
 {146}{}{Cholera!}
 {147}{}{Intruz przy bramie!}
-{148}{}{Wróg atakuje g³ówn¹ bramê!}
+{148}{}{WrÃ³g atakuje gÅ‚Ã³wnÄ… bramÄ™!}
 {149}{}{Do bramy! Intruz przy bramie!}
 {200}{}{...dupek...}
-{201}{}{...lepiej st¹d spadaj...}
+{201}{}{...lepiej stÄ…d spadaj...}
 {202}{}{...co za trep...}
 {203}{}{...tak jest, sir!-kurwa-sir!...}
-{300}{}{Ruszaj dalej ¿o³nierzu.}
+{300}{}{Ruszaj dalej Å¼oÅ‚nierzu.}

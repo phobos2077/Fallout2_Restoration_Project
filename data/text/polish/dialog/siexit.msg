@@ -1,2 +1,2 @@
-{100}{}{Widzisz pole wyjúcia.}
-{101}{}{Zostawi≥y duøe úlady. Nie powinno sprawiÊ ci trudnoúci odnalezienie ich gniazda. (Pole Wyjúcia na pÛ≥nocny wschÛd)}
+{100}{}{Widzisz pole wyj≈õcia.}
+{101}{}{Zostawi≈Çy du≈ºe ≈õlady. Nie powinno sprawiƒá ci trudno≈õci odnalezienie ich gniazda. (Pole Wyj≈õcia na p√≥≈Çnocny wsch√≥d)}

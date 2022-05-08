@@ -1,1 +1,1 @@
-{100}{}{Die Mauern dieser Höhle bestehen aus einer Kombination aus natürlichen Felsgestein und von Menschen geschaffenen Mauern. Es sieht aus als hätte eine große Explosion, oder etwas ähnliches, die Anlage vor langer Zeit zerstört.}
+{100}{}{Die Mauern dieser HÃ¶hle bestehen aus einer Kombination aus natÃ¼rlichen Felsgestein und von Menschen geschaffenen Mauern. Es sieht aus als hÃ¤tte eine groÃŸe Explosion, oder etwas Ã¤hnliches, die Anlage vor langer Zeit zerstÃ¶rt.}

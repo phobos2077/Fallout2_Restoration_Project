@@ -1,42 +1,42 @@
-{100}{}{Widzisz mnicha w œrednim wieku.}
+{100}{}{Widzisz mnicha w Å›rednim wieku.}
 {101}{}{Widzisz Brata Matthew.}
-{102}{}{Stoi na podium i prawi kazanie ludnoœci Opactwa.}
-{200}{}{Dobry ludu Opactwa. Poœwiêæcie chwilê i pos³uchajcie, bo mam wiele do powiedzenia.}
-{201}{}{Zebraliœmy tutaj, œwiête relikwie wieków które dawno minê³y.}
-{202}{}{Spaleni Potopem Ognia , w ogniste czeluœci, zostaliœmy zrzuceni.}
-{203}{}{Ale by zachowaæ dawn¹ wiedzê, stworzymy Arke Pamiêci.}
-{204}{}{Musimy jej strzec i dbaæ o ni¹. Mimo, ¿e ogieñ zgas³;}
-{205}{}{Mo¿e zap³on¹æ ponownie, czy pozwolimy aby ta wiedza zosta³a zmarnowana.}
-{206}{}{By nikt nie pozna³ strachu przed nastêpnym, Potopem Ognia.}
-{207}{}{Pewnego dnia, ludzie wznios¹ siê ponad sw¹ chêæ zag³ady.}
-{208}{}{A wtedy Arka Pamiêci tam bêdzie, by przywróciæ to co utracone.}
-{209}{}{Wiêc kontujemy nasz¹ œwiêt¹ misjê, aby  utrwaliæ wiedzê, któr¹ straciliœmy.}
-{210}{}{Musimy przetrwaæ i j¹ chroniæ, ale nigdy z niej nie korzystaæ.}
-{211}{}{Wiêc idŸcie moi przyjaciele i nie wasze dusze bêd¹ pe³ne nadziei;}
-{212}{}{Gdy¿ jako stra¿nicy wiedzy, wszyscy zostaliœmy, nagrodzeni.}
-{213}{}{A teraz, proszê poœwiêæcie chwilê na przemyœlenie tego co tu us³yszeliœcie.}
-{224}{}{A teraz, proszê poœwiêæcie chwilê na przemyœlenie tego co tu us³yszeliœcie.}
-{300}{}{Witaj. Chyba siê jeszcze nie znamy. Jestem Brat Matthew, pomagam szerzyæ s³owo, o tym jak wa¿ne jest przetrwanie wiedzy staro¿ytnych.}
-{301}{}{Mi³o mi ciê poznaæ Matt. Nazywam siê }
-{302}{}{ i podró¿ujê z misj¹ odnalezienia œwiêtego GECKa.}
-{303}{}{Wybacz, muszê ju¿ iœæ.}
-{400}{}{GECK, co? Chyba przypomina sobie, ¿e czyta³em coœ na ten temat podczas jednej z moich sesji przetwarzania. Wiêc, musi byæ w naszej bazie danych, ale obawiam siê, ¿e dostêp do naszych komputerów jest zabroniony dla obcych. 
- Ale, je¿eli porozmawiasz z Opatem, myœlê ¿e uda ci siê uzyskaæ zgodê. W ka¿dym razie, nie zaszkodzi przynajmniej spróbowaæ. A tak, oczywiœcie mo¿esz te¿ przejrzeæ nasz¹ kolekcjê
- œwiêtych relikwii. Prosi³ bym ciê o ostro¿noœæ i nie zepsucie niczego, ale obawiam siê, ¿e i tak wszystko jest zepsute i nie nadaje siê do naprawy.}
-{401}{}{Myœlê, ¿e tak w³aœnie zrobiê. Ale mam jeszcze kilka pytañ.}
-{402}{}{Dziêki. Zrobiê tak, teraz.}
-{500}{}{Jestem do us³ug. Co pragniesz wiedzieæ?}
-{501}{}{Co mo¿esz mi powiedzieæ o tym miejscu?}
-{502}{}{Twoje kazania wydaj¹ siê byæ bardzo poetyckie. Jest ku temu jakiœ powód?}
-{503}{}{Niewa¿ne. Trzymaj siê.}
-{600}{}{Có¿, Opactwo jest domem dla ka¿dego, tak d³ugo jak nie sprawia problebmów. Jesteœmy niezale¿n¹ wspólnot¹ i rzadko miewamy goœci. Wiêkszoœæ z tych, których tu widzisz przysz³a tu dawno temu jako jedna grupa. Nale¿a³em do tej grupy, by³em jeszcze wtedy ma³ym ch³opcem. Trafiliœmy na ten stary klasztor w którym teraz stoimy i pomyœleliœmy, ¿e mo¿e to byæ nasz dom. Natrafiliœmy tutaj na mnóstwo porozrzucanych ksi¹¿ek, wtedy zdecydowaliœmy, ¿e nasz¹ misj¹ bêdzie ocalenie wiedzy w nich zawartej dla dobra przysz³ych pokoleñ.}
-{601}{}{Mów dalej.}
-{602}{}{W ci¹gu tych wszystkich lat jakie tu spêdziliœmy trafi³o do nas kilka nowych osób i postanowi³o siê osiedliæ. Jak dot¹d by³o tu doœæ spokojnie i mamy nadziejê, ¿e tak pozostanie.}
-{603}{}{Bardzo interesuj¹ce. Kolejne pytanie.}
-{604}{}{Interesuj¹ce. Ale có¿, muszê ju¿ iœæ.}
-{700}{}{[Twoje pytanie wyraŸnie go rozbawi³o.] Nie, nie ma ¿adnego szczególnego powodu. Po prostu czyta³em du¿o poezji w ci¹gu mojego ¿ycia i sprawia mi przyjemnoœæ wyg³aszanie moich nauk przy jej pomocy. Pomaga wywrzeæ wra¿enie na s³uchaj¹cych.}
-{701}{}{W porz¹dku. Kolejne pytanie.}
-{800}{}{Mi³o Ciê znowu widzieæ }
-{801}{}{. Jak mogê ci pomóc?}
-{802}{}{Mam kilka pytañ.}
-{803}{}{Niewa¿ne. Do zobaczenia.}
+{102}{}{Stoi na podium i prawi kazanie ludnoÅ›ci Opactwa.}
+{200}{}{Dobry ludu Opactwa. PoÅ›wiÄ™Ä‡cie chwilÄ™ i posÅ‚uchajcie, bo mam wiele do powiedzenia.}
+{201}{}{ZebraliÅ›my tutaj, Å›wiÄ™te relikwie wiekÃ³w ktÃ³re dawno minÄ™Å‚y.}
+{202}{}{Spaleni Potopem Ognia , w ogniste czeluÅ›ci, zostaliÅ›my zrzuceni.}
+{203}{}{Ale by zachowaÄ‡ dawnÄ… wiedzÄ™, stworzymy Arke PamiÄ™ci.}
+{204}{}{Musimy jej strzec i dbaÄ‡ o niÄ…. Mimo, Å¼e ogieÅ„ zgasÅ‚;}
+{205}{}{MoÅ¼e zapÅ‚onÄ…Ä‡ ponownie, czy pozwolimy aby ta wiedza zostaÅ‚a zmarnowana.}
+{206}{}{By nikt nie poznaÅ‚ strachu przed nastÄ™pnym, Potopem Ognia.}
+{207}{}{Pewnego dnia, ludzie wzniosÄ… siÄ™ ponad swÄ… chÄ™Ä‡ zagÅ‚ady.}
+{208}{}{A wtedy Arka PamiÄ™ci tam bÄ™dzie, by przywrÃ³ciÄ‡ to co utracone.}
+{209}{}{WiÄ™c kontujemy naszÄ… Å›wiÄ™tÄ… misjÄ™, aby  utrwaliÄ‡ wiedzÄ™, ktÃ³rÄ… straciliÅ›my.}
+{210}{}{Musimy przetrwaÄ‡ i jÄ… chroniÄ‡, ale nigdy z niej nie korzystaÄ‡.}
+{211}{}{WiÄ™c idÅºcie moi przyjaciele i nie wasze dusze bÄ™dÄ… peÅ‚ne nadziei;}
+{212}{}{GdyÅ¼ jako straÅ¼nicy wiedzy, wszyscy zostaliÅ›my, nagrodzeni.}
+{213}{}{A teraz, proszÄ™ poÅ›wiÄ™Ä‡cie chwilÄ™ na przemyÅ›lenie tego co tu usÅ‚yszeliÅ›cie.}
+{224}{}{A teraz, proszÄ™ poÅ›wiÄ™Ä‡cie chwilÄ™ na przemyÅ›lenie tego co tu usÅ‚yszeliÅ›cie.}
+{300}{}{Witaj. Chyba siÄ™ jeszcze nie znamy. Jestem Brat Matthew, pomagam szerzyÄ‡ sÅ‚owo, o tym jak waÅ¼ne jest przetrwanie wiedzy staroÅ¼ytnych.}
+{301}{}{MiÅ‚o mi ciÄ™ poznaÄ‡ Matt. Nazywam siÄ™ }
+{302}{}{ i podrÃ³Å¼ujÄ™ z misjÄ… odnalezienia Å›wiÄ™tego GECKa.}
+{303}{}{Wybacz, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{400}{}{GECK, co? Chyba przypomina sobie, Å¼e czytaÅ‚em coÅ› na ten temat podczas jednej z moich sesji przetwarzania. WiÄ™c, musi byÄ‡ w naszej bazie danych, ale obawiam siÄ™, Å¼e dostÄ™p do naszych komputerÃ³w jest zabroniony dla obcych. 
+ Ale, jeÅ¼eli porozmawiasz z Opatem, myÅ›lÄ™ Å¼e uda ci siÄ™ uzyskaÄ‡ zgodÄ™. W kaÅ¼dym razie, nie zaszkodzi przynajmniej sprÃ³bowaÄ‡. A tak, oczywiÅ›cie moÅ¼esz teÅ¼ przejrzeÄ‡ naszÄ… kolekcjÄ™
+ Å›wiÄ™tych relikwii. ProsiÅ‚ bym ciÄ™ o ostroÅ¼noÅ›Ä‡ i nie zepsucie niczego, ale obawiam siÄ™, Å¼e i tak wszystko jest zepsute i nie nadaje siÄ™ do naprawy.}
+{401}{}{MyÅ›lÄ™, Å¼e tak wÅ‚aÅ›nie zrobiÄ™. Ale mam jeszcze kilka pytaÅ„.}
+{402}{}{DziÄ™ki. ZrobiÄ™ tak, teraz.}
+{500}{}{Jestem do usÅ‚ug. Co pragniesz wiedzieÄ‡?}
+{501}{}{Co moÅ¼esz mi powiedzieÄ‡ o tym miejscu?}
+{502}{}{Twoje kazania wydajÄ… siÄ™ byÄ‡ bardzo poetyckie. Jest ku temu jakiÅ› powÃ³d?}
+{503}{}{NiewaÅ¼ne. Trzymaj siÄ™.}
+{600}{}{CÃ³Å¼, Opactwo jest domem dla kaÅ¼dego, tak dÅ‚ugo jak nie sprawia problebmÃ³w. JesteÅ›my niezaleÅ¼nÄ… wspÃ³lnotÄ… i rzadko miewamy goÅ›ci. WiÄ™kszoÅ›Ä‡ z tych, ktÃ³rych tu widzisz przyszÅ‚a tu dawno temu jako jedna grupa. NaleÅ¼aÅ‚em do tej grupy, byÅ‚em jeszcze wtedy maÅ‚ym chÅ‚opcem. TrafiliÅ›my na ten stary klasztor w ktÃ³rym teraz stoimy i pomyÅ›leliÅ›my, Å¼e moÅ¼e to byÄ‡ nasz dom. NatrafiliÅ›my tutaj na mnÃ³stwo porozrzucanych ksiÄ…Å¼ek, wtedy zdecydowaliÅ›my, Å¼e naszÄ… misjÄ… bÄ™dzie ocalenie wiedzy w nich zawartej dla dobra przyszÅ‚ych pokoleÅ„.}
+{601}{}{MÃ³w dalej.}
+{602}{}{W ciÄ…gu tych wszystkich lat jakie tu spÄ™dziliÅ›my trafiÅ‚o do nas kilka nowych osÃ³b i postanowiÅ‚o siÄ™ osiedliÄ‡. Jak dotÄ…d byÅ‚o tu doÅ›Ä‡ spokojnie i mamy nadziejÄ™, Å¼e tak pozostanie.}
+{603}{}{Bardzo interesujÄ…ce. Kolejne pytanie.}
+{604}{}{InteresujÄ…ce. Ale cÃ³Å¼, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{700}{}{[Twoje pytanie wyraÅºnie go rozbawiÅ‚o.] Nie, nie ma Å¼adnego szczegÃ³lnego powodu. Po prostu czytaÅ‚em duÅ¼o poezji w ciÄ…gu mojego Å¼ycia i sprawia mi przyjemnoÅ›Ä‡ wygÅ‚aszanie moich nauk przy jej pomocy. Pomaga wywrzeÄ‡ wraÅ¼enie na sÅ‚uchajÄ…cych.}
+{701}{}{W porzÄ…dku. Kolejne pytanie.}
+{800}{}{MiÅ‚o CiÄ™ znowu widzieÄ‡ }
+{801}{}{. Jak mogÄ™ ci pomÃ³c?}
+{802}{}{Mam kilka pytaÅ„.}
+{803}{}{NiewaÅ¼ne. Do zobaczenia.}

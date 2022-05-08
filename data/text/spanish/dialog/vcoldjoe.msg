@@ -1,76 +1,76 @@
 {100}{}{Ves a un viejo con un brillo de loco en sus ojos.}
 {101}{}{Ves al Viejo Joe, el genio idiota local.}
-{102}{}{Hola. No te había visto desde hace tiempo.}
-{103}{}{¿Te conozco?}
-{104}{}{Oh, sí. Fue hace tiempo. ¿Qué has estado haciendo?}
-{105}{}{Bueno, fue hace tiempo. ¿Qué has estado haciendo?}
-{106}{}{De esto y de aquello. ¿De qué me conoces?}
-{107}{}{Mira, anciano, yo no sé quién demonios eres tú.}
-{108}{}{Claro que no. Bueno, he estado por ahí; finalmente acabé aquí, en este lugar dejado de la mano de Dios. No como en
- los buenos viejos tiempos. No señor.}
-{109}{}{Sí, los buenos viejos tiempos. Recuerdo la ocasión en que...}
-{110}{}{No ha sido lo mismo últimamente, eso seguro. Y ahora... ¿qué hicimos juntos?}
-{111}{}{No me recuerdas, ¿verdad? Bueno, tú pareces un poco más joven.}
-{112}{}{¿Qué estas tratando de decirme?}
-{113}{}{Me resultas tan familiar, de hecho. Ah, deben ser mis viejos ojos. Bueno, que tengas un buen día.}
-{114}{}{Eh, sí... adiós.}
-{115}{}{Sí, le dimos lo suyo al maldito Maestro, ¿verdad? Pero la mierda comenzó a esparcirse cuando te fuiste. Tuve
- que marcharme y cambiarme de nombre. ¿Dónde terminaste tú?}
-{116}{}{He estado viviendo en un pequeño poblado.}
-{117}{}{Bueno, mejor que tengas cuidado por aquí. Las cosas no están tan claras como en el pasado. Mejor que vigiles
+{102}{}{Hola. No te habÃ­a visto desde hace tiempo.}
+{103}{}{Â¿Te conozco?}
+{104}{}{Oh, sÃ­. Fue hace tiempo. Â¿QuÃ© has estado haciendo?}
+{105}{}{Bueno, fue hace tiempo. Â¿QuÃ© has estado haciendo?}
+{106}{}{De esto y de aquello. Â¿De quÃ© me conoces?}
+{107}{}{Mira, anciano, yo no sÃ© quiÃ©n demonios eres tÃº.}
+{108}{}{Claro que no. Bueno, he estado por ahÃ­; finalmente acabÃ© aquÃ­, en este lugar dejado de la mano de Dios. No como en
+ los buenos viejos tiempos. No seÃ±or.}
+{109}{}{SÃ­, los buenos viejos tiempos. Recuerdo la ocasiÃ³n en que...}
+{110}{}{No ha sido lo mismo Ãºltimamente, eso seguro. Y ahora... Â¿quÃ© hicimos juntos?}
+{111}{}{No me recuerdas, Â¿verdad? Bueno, tÃº pareces un poco mÃ¡s joven.}
+{112}{}{Â¿QuÃ© estas tratando de decirme?}
+{113}{}{Me resultas tan familiar, de hecho. Ah, deben ser mis viejos ojos. Bueno, que tengas un buen dÃ­a.}
+{114}{}{Eh, sÃ­... adiÃ³s.}
+{115}{}{SÃ­, le dimos lo suyo al maldito Maestro, Â¿verdad? Pero la mierda comenzÃ³ a esparcirse cuando te fuiste. Tuve
+ que marcharme y cambiarme de nombre. Â¿DÃ³nde terminaste tÃº?}
+{116}{}{He estado viviendo en un pequeÃ±o poblado.}
+{117}{}{Bueno, mejor que tengas cuidado por aquÃ­. Las cosas no estÃ¡n tan claras como en el pasado. Mejor que vigiles
  tu espalda.}
 {118}{}{Vale, gracias.}
-{119}{}{Sí, busqué tu Refugio durante un tiempo, pero nunca lo encontré. ¿Así que tienes alguna buena historia para
+{119}{}{SÃ­, busquÃ© tu Refugio durante un tiempo, pero nunca lo encontrÃ©. Â¿AsÃ­ que tienes alguna buena historia para
  tu viejo amigo Ian?}
-{120}{}{¿Ian?}
-{121}{}{Sí, Ian. ¿No me recuerdas? Hace un montón de años. Uno pensaría que nadie olvidaría a
+{120}{}{Â¿Ian?}
+{121}{}{SÃ­, Ian. Â¿No me recuerdas? Hace un montÃ³n de aÃ±os. Uno pensarÃ­a que nadie olvidarÃ­a a
  su mejor colega. Bueno... excepto por los disparos en el trasero. Perdona de nuevo por eso.}
 {122}{}{Lo siento, pero debes pensar que yo soy el Morador del Refugio. Mi pueblo fue fundado por uno que
  vino del Refugio.}
-{123}{}{Bueno, eso tiene más sentido. Bien, me alegra oír que a mi amigo le fue bien. Venga, el viejo Ian
- tiene un consejo para ti. Ten cuidado ahí fuera. Este lugar no es tan apacible como parece. }
-{124}{}{¿Qué ocurre aquí?}
-{125}{}{Bueno, los Ciudadanos de Refugio tienen en alta estima su estirpe y no cuidan mucho de personas como tu y yo. Toma esto. Te protegerá si las cosas se descontrolan. Probablemente no deberías haber sido visto hablando con este anciano loco. Mejor que continúes tu camino.}
+{123}{}{Bueno, eso tiene mÃ¡s sentido. Bien, me alegra oÃ­r que a mi amigo le fue bien. Venga, el viejo Ian
+ tiene un consejo para ti. Ten cuidado ahÃ­ fuera. Este lugar no es tan apacible como parece. }
+{124}{}{Â¿QuÃ© ocurre aquÃ­?}
+{125}{}{Bueno, los Ciudadanos de Refugio tienen en alta estima su estirpe y no cuidan mucho de personas como tu y yo. Toma esto. Te protegerÃ¡ si las cosas se descontrolan. Probablemente no deberÃ­as haber sido visto hablando con este anciano loco. Mejor que continÃºes tu camino.}
 {126}{}{Gracias por tu ayuda. Bye.}
 {127}{}{Dejas descansar al anciano.}
 {128}{}{Tan parecido...}
-{129}{}{Ahora déjame.}
+{129}{}{Ahora dÃ©jame.}
 {130}{}{Mejor que te vayas.}
-{131}{}{Ellos sospecharán si seguimos hablando.}
+{131}{}{Ellos sospecharÃ¡n si seguimos hablando.}
 {132}{}{Venga, ponte a ello. Que mi viejo amigo se sintiera orgulloso.}
-{133}{}{Gracias. Una cosa más, aunque. Estoy tratando de ayudar a este pequeño pueblo del norte-este de aquí. Un chico llamado Connar me dijo que me buscan y hablar con usted.}
-{134}{}{Connar, ¿eh? Él es un buen hombre. He estado manteniendo mis ojos en las cosas para él. Entonces, ¿qué hace exactamente Connar quiera, ahora?}
-{135}{}{Está tratando de conseguir sus manos en algunas de las armas. Él piensa que si tenían algún poder de fuego, que sería capaz de mantener la Bóveda de la Ciudad de patrullas en la bahía.}
-{136}{}{Ah, así que es su nuevo plan, eh? Bueno, pásate Feliz Harry general de la tienda. Decirle a Harry Connar enviado, y él debe ser capaz de fijar-creo que él tiene algunas armas guardados para tal ocasión. Pero si usted me pregunta, yo no estoy seguro de que esta es la mejor manera de manejar las cosas.}
+{133}{}{Gracias. Una cosa mÃ¡s, aunque. Estoy tratando de ayudar a este pequeÃ±o pueblo del norte-este de aquÃ­. Un chico llamado Connar me dijo que me buscan y hablar con usted.}
+{134}{}{Connar, Â¿eh? Ã‰l es un buen hombre. He estado manteniendo mis ojos en las cosas para Ã©l. Entonces, Â¿quÃ© hace exactamente Connar quiera, ahora?}
+{135}{}{EstÃ¡ tratando de conseguir sus manos en algunas de las armas. Ã‰l piensa que si tenÃ­an algÃºn poder de fuego, que serÃ­a capaz de mantener la BÃ³veda de la Ciudad de patrullas en la bahÃ­a.}
+{136}{}{Ah, asÃ­ que es su nuevo plan, eh? Bueno, pÃ¡sate Feliz Harry general de la tienda. Decirle a Harry Connar enviado, y Ã©l debe ser capaz de fijar-creo que Ã©l tiene algunas armas guardados para tal ocasiÃ³n. Pero si usted me pregunta, yo no estoy seguro de que esta es la mejor manera de manejar las cosas.}
 {137}{}{Me voy a hablar con Harry, entonces. Cuidar ol' amigo.}
-{138}{}{¿Por qué? ¿Qué quieres decir?}
-{139}{}{Connar y su gente tiene que fuerte espíritu de lucha, pero no será suficiente en este caso. La bóveda de la Ciudad tiene casi ilimitado de recursos, y, finalmente, van a ganar. A veces, lo mejor es hablar las cosas y tratar de razonar con la gente. Esa es una lección que aprendí de mi viejo amigo, el Vault Dweller. Senior Miembro del Consejo de la McClure ha demostrado ser un hombre razonable. Tal vez algún acuerdo se puede hacer con él?}
-{140}{}{Hmm... yo podría tener esto en cuenta. Gracias por todo, adiós.}
-{141}{}{Tal vez voy a ir a hablar con él entonces. Sin embargo, tenía curiosidad sobre la mole de las ratas que están cuidando la aldea.}
-{142}{}{Sí, ¿qué pasa con ellos?}
-{143}{}{Alguna idea de dónde viene o quién los controla?}
-{144}{}{Que, no estoy seguro acerca de. Un grupo de ghouls vino con ellos. Llevaban extraños amuletos y hablando sobre "la Renovación". Eso es todo lo que sé. Puedes querer retirar Gecko, aunque. Ese lugar está plagado de demonios. Hablando de grandes ratas, se me ocurrió decir usted sobre el tiempo de la Vault Dweller y me fui a la Bóveda de 15?}
-{145}{}{No, pero estoy muy versado en la historia, como se ha convertido en una leyenda sagrada en mi tribu. De todos modos, tal vez voy a ver qué puedo encontrar en Gecko. Cuidar, Ian.}
-{146}{}{Uh, gracias por la sugerencia. Creo que eres el hombre que necesito a ver si. Connar me envía a pedir que para algunas cosas.}
-{147}{}{Espera un minuto! Connar me dijo usted tiene alguna información.}
-{148}{}{No, pero estoy muy versado en la historia, como se ha convertido en una leyenda sagrada en mi tribu. De todos modos, tal vez voy a ver qué puedo encontrar en Gecko. Cuidado de la toma.}
-{150}{}{Él estaba interesado en conseguir algunas armas para luchar contra la Bóveda de la Ciudad de las patrullas, pero estoy convencido de que hay una mejor solución.}
-{151}{}{Ah, así que es su nuevo plan, eh? Sí, Connar un buen hombre, pero no siempre piensa que las cosas todo el camino a través. A veces, lo mejor es hablar las cosas y tratar de razonar con la gente. Esa es una lección que aprendí de mi viejo amigo, el Vault Dweller.}
-{152}{}{Bien, alguna idea de que en el consejo que yo podría ser capaz de hablar?}
-{153}{}{Creo Senior Miembro del Consejo de la McClure podría ser el hombre a hablar. ¿Qué te parece?}
-{154}{}{Senior Miembro del Consejo de la McClure es un hombre inteligente, aquí en la Bóveda de la Ciudad. Tal vez algún acuerdo se puede hacer con él?}
-{155}{}{De acuerdo. Trataré de hablar con él.}
-{156}{}{Tal vez voy a ir a hablar con él entonces. Sin embargo, tenía curiosidad sobre la mole de las ratas que están cuidando la aldea.}
-{157}{}{Él iba a ser su mejor apuesta. Él es el único en el consejo el que tiene un alma razonable a la izquierda.}
-{158}{}{De acuerdo. Trataré de hablar con él.}
-{159}{}{Voy a ir a hablar con él entonces. Tenía curiosidad acerca de la molerats que están cuidando la aldea, aunque.}
+{138}{}{Â¿Por quÃ©? Â¿QuÃ© quieres decir?}
+{139}{}{Connar y su gente tiene que fuerte espÃ­ritu de lucha, pero no serÃ¡ suficiente en este caso. La bÃ³veda de la Ciudad tiene casi ilimitado de recursos, y, finalmente, van a ganar. A veces, lo mejor es hablar las cosas y tratar de razonar con la gente. Esa es una lecciÃ³n que aprendÃ­ de mi viejo amigo, el Vault Dweller. Senior Miembro del Consejo de la McClure ha demostrado ser un hombre razonable. Tal vez algÃºn acuerdo se puede hacer con Ã©l?}
+{140}{}{Hmm... yo podrÃ­a tener esto en cuenta. Gracias por todo, adiÃ³s.}
+{141}{}{Tal vez voy a ir a hablar con Ã©l entonces. Sin embargo, tenÃ­a curiosidad sobre la mole de las ratas que estÃ¡n cuidando la aldea.}
+{142}{}{SÃ­, Â¿quÃ© pasa con ellos?}
+{143}{}{Alguna idea de dÃ³nde viene o quiÃ©n los controla?}
+{144}{}{Que, no estoy seguro acerca de. Un grupo de ghouls vino con ellos. Llevaban extraÃ±os amuletos y hablando sobre "la RenovaciÃ³n". Eso es todo lo que sÃ©. Puedes querer retirar Gecko, aunque. Ese lugar estÃ¡ plagado de demonios. Hablando de grandes ratas, se me ocurriÃ³ decir usted sobre el tiempo de la Vault Dweller y me fui a la BÃ³veda de 15?}
+{145}{}{No, pero estoy muy versado en la historia, como se ha convertido en una leyenda sagrada en mi tribu. De todos modos, tal vez voy a ver quÃ© puedo encontrar en Gecko. Cuidar, Ian.}
+{146}{}{Uh, gracias por la sugerencia. Creo que eres el hombre que necesito a ver si. Connar me envÃ­a a pedir que para algunas cosas.}
+{147}{}{Espera un minuto! Connar me dijo usted tiene alguna informaciÃ³n.}
+{148}{}{No, pero estoy muy versado en la historia, como se ha convertido en una leyenda sagrada en mi tribu. De todos modos, tal vez voy a ver quÃ© puedo encontrar en Gecko. Cuidado de la toma.}
+{150}{}{Ã‰l estaba interesado en conseguir algunas armas para luchar contra la BÃ³veda de la Ciudad de las patrullas, pero estoy convencido de que hay una mejor soluciÃ³n.}
+{151}{}{Ah, asÃ­ que es su nuevo plan, eh? SÃ­, Connar un buen hombre, pero no siempre piensa que las cosas todo el camino a travÃ©s. A veces, lo mejor es hablar las cosas y tratar de razonar con la gente. Esa es una lecciÃ³n que aprendÃ­ de mi viejo amigo, el Vault Dweller.}
+{152}{}{Bien, alguna idea de que en el consejo que yo podrÃ­a ser capaz de hablar?}
+{153}{}{Creo Senior Miembro del Consejo de la McClure podrÃ­a ser el hombre a hablar. Â¿QuÃ© te parece?}
+{154}{}{Senior Miembro del Consejo de la McClure es un hombre inteligente, aquÃ­ en la BÃ³veda de la Ciudad. Tal vez algÃºn acuerdo se puede hacer con Ã©l?}
+{155}{}{De acuerdo. TratarÃ© de hablar con Ã©l.}
+{156}{}{Tal vez voy a ir a hablar con Ã©l entonces. Sin embargo, tenÃ­a curiosidad sobre la mole de las ratas que estÃ¡n cuidando la aldea.}
+{157}{}{Ã‰l iba a ser su mejor apuesta. Ã‰l es el Ãºnico en el consejo el que tiene un alma razonable a la izquierda.}
+{158}{}{De acuerdo. TratarÃ© de hablar con Ã©l.}
+{159}{}{Voy a ir a hablar con Ã©l entonces. TenÃ­a curiosidad acerca de la molerats que estÃ¡n cuidando la aldea, aunque.}
 {200}{}{Hey, si realmente son el mismo Ian que iban con mi antepasado, luego tengo una pregunta para usted.}
 {201}{}{Bien, vamos a escuchar.}
-{202}{}{¿Cómo diablos están todavía vivos? Usted debe tener más de cien años de antigüedad. Por no hablar de la Bóveda Habitante de memorias, que dicen que fueron quemados hasta la muerte en la Necrópolis por un super mutante con un lanzallamas.}
-{203}{}{[Él ladra brusco de la risa por un rato; por último, se establece y toallitas húmedas, un par de lágrimas de sus ojos.] Oh, que rico. Quemados a muerte por un lanzallamas, ja! Usted ve, yo le dije al Vault Dweller que hacer algo de historia sobre la forma en que murió, porque no quería que ninguno de nuestros viejos enemigos tratando de cazar a mí ... eso es lo que he cambiado mi nombre. Yo le dije que me iba abajo en una llamarada de gloria, y parece que se tomó literalmente. Ja, que clásico.}
-{204}{}{Je, supongo que los que resuelve. Tenía curiosidad acerca de la molerats que están cuidando la aldea, aunque.}
-{205}{}{Que todavía no se explica cómo usted todavía está vivo y bien, después de todos estos años.}
-{206}{}{Hey, estoy tan confundida como tú. Quién sabe? Tal vez tiene algo que ver con todo lo que la radiación a la que estaba expuesta en los viejos tiempos. El infierno, cuando fuimos a el Resplandor, recuerdo el Vault Dweller hacía estallar Rad-X como el caramelo, pero hizo oferta alguna a ol' Ian? Por supuesto que no. Yo creo que él todavía estaba molesto por encima de un pequeño fuego amigo percance. Je je. [Suspiro.] Esos fueron algunos de los buenos tiempos.}
+{202}{}{Â¿CÃ³mo diablos estÃ¡n todavÃ­a vivos? Usted debe tener mÃ¡s de cien aÃ±os de antigÃ¼edad. Por no hablar de la BÃ³veda Habitante de memorias, que dicen que fueron quemados hasta la muerte en la NecrÃ³polis por un super mutante con un lanzallamas.}
+{203}{}{[Ã‰l ladra brusco de la risa por un rato; por Ãºltimo, se establece y toallitas hÃºmedas, un par de lÃ¡grimas de sus ojos.] Oh, que rico. Quemados a muerte por un lanzallamas, ja! Usted ve, yo le dije al Vault Dweller que hacer algo de historia sobre la forma en que muriÃ³, porque no querÃ­a que ninguno de nuestros viejos enemigos tratando de cazar a mÃ­ ... eso es lo que he cambiado mi nombre. Yo le dije que me iba abajo en una llamarada de gloria, y parece que se tomÃ³ literalmente. Ja, que clÃ¡sico.}
+{204}{}{Je, supongo que los que resuelve. TenÃ­a curiosidad acerca de la molerats que estÃ¡n cuidando la aldea, aunque.}
+{205}{}{Que todavÃ­a no se explica cÃ³mo usted todavÃ­a estÃ¡ vivo y bien, despuÃ©s de todos estos aÃ±os.}
+{206}{}{Hey, estoy tan confundida como tÃº. QuiÃ©n sabe? Tal vez tiene algo que ver con todo lo que la radiaciÃ³n a la que estaba expuesta en los viejos tiempos. El infierno, cuando fuimos a el Resplandor, recuerdo el Vault Dweller hacÃ­a estallar Rad-X como el caramelo, pero hizo oferta alguna a ol' Ian? Por supuesto que no. Yo creo que Ã©l todavÃ­a estaba molesto por encima de un pequeÃ±o fuego amigo percance. Je je. [Suspiro.] Esos fueron algunos de los buenos tiempos.}
 {207}{}{Estoy seguro de que ellos eran. Gracias por la historia de Joe, er, Ian. Cuidado de la toma.}
-{208}{}{Estoy seguro de que ellos eran. Gracias por la historia de Joe, er, Ian. Tenía curiosidad acerca de la molerats que están cuidando la aldea, aunque.}
-{300}{}{Espera un minuto! Son el contacto en la Bóveda de la Ciudad que Connar estaba hablando?}
+{208}{}{Estoy seguro de que ellos eran. Gracias por la historia de Joe, er, Ian. TenÃ­a curiosidad acerca de la molerats que estÃ¡n cuidando la aldea, aunque.}
+{300}{}{Espera un minuto! Son el contacto en la BÃ³veda de la Ciudad que Connar estaba hablando?}

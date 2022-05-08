@@ -1,23 +1,23 @@
-{100}{}{Tu vois un garde à l'air scrupuleux. Il est équipé d'une armure métallique et porte un puissant fusil de chasse.}
-{101}{}{Tu vois un garde de la Cité de l'Abri.}
+{100}{}{Tu vois un garde Ã  l'air scrupuleux. Il est Ã©quipÃ© d'une armure mÃ©tallique et porte un puissant fusil de chasse.}
+{101}{}{Tu vois un garde de la CitÃ© de l'Abri.}
 {102}{}{Oui ? Qu'est-ce que c'est ?}
 {103}{}{Moi aller dans gros TROU dans la colline.}
 {104}{}{Je voudrais entrer dans l'Abri.}
-{105}{}{Rien, je voulais pas déranger.}
-{106}{}{Il est 18 heures passées. Il faut que tu partes.}
+{105}{}{Rien, je voulais pas dÃ©ranger.}
+{106}{}{Il est 18 heures passÃ©es. Il faut que tu partes.}
 {107}{}{Ok. Je m'en vais.}
 {108}{}{Ok. J'en ai juste pour une minute.}
-{109}{}{J'ai des trucs à faire. Je partirai quand je le déciderai.}
+{109}{}{J'ai des trucs Ã  faire. Je partirai quand je le dÃ©ciderai.}
 {110}{}{Umag Nak ?! Umag NAK !}
 {111}{}{Je vais appeler quelques gardes pour t'escorter.}
 {112}{}{Ok. On y va.}
 {113}{}{Brog Frup.}
-{114}{}{Te fatigue pas. Je peux me débrouiller pour trouver mon chemin.}
+{114}{}{Te fatigue pas. Je peux me dÃ©brouiller pour trouver mon chemin.}
 {115}{}{Je regrette, mais ce sont les ordres.}
-{116}{}{Très bien... mais, je ne suis pas du tout d'accord. Il se pourrait bien que je porte plain --}
+{116}{}{TrÃ¨s bien... mais, je ne suis pas du tout d'accord. Il se pourrait bien que je porte plain --}
 {117}{}{Bon, je reste.}
-{118}{}{J'ai pas envie d'user de la force, mais si c'est nécessaire, je n'hésiterai pas. Allez, ne complique pas encore les choses.}
-{119}{}{Ok, très bien, très bien... J'y vais.}
+{118}{}{J'ai pas envie d'user de la force, mais si c'est nÃ©cessaire, je n'hÃ©siterai pas. Allez, ne complique pas encore les choses.}
+{119}{}{Ok, trÃ¨s bien, trÃ¨s bien... J'y vais.}
 {120}{}{Essaie de me toucher, et je te colle la peau du cul en guise de chapeau !}
 {121}{}{Salut, je peux t'aider ?}
 {122}{}{Je voudrais entrer dans l'Abri.}
@@ -27,52 +27,52 @@
 {126}{}{Seuls les citoyens peuvent entrer. Maintenant, pars.}
 {127}{}{Ok.}
 {128}{}{Umgh.}
-{129}{}{Bien sûr. Je t'en prie, passe.}
+{129}{}{Bien sÃ»r. Je t'en prie, passe.}
 {130}{}{Merciiiii !}
 {131}{}{Merci.}
 {132}{}{Oui ? Je peux t'aider ?}
 {133}{}{Je voudrais entrer dans l'Abri.}
-{134}{}{Rien, je ne voulais pas déranger.}
+{134}{}{Rien, je ne voulais pas dÃ©ranger.}
 {135}{}{Je regrette, mais seuls les citoyens peuvent entrer dans l'Abri.}
 {136}{}{Je *suis* un citoyen.}
-{137}{}{Je regrette... Je te reconnais pas. Il y a des ordres : je ne dois laisser rentrer dans l'Abri que les citoyens que je connais. Peut-être que la Première citoyenne Lynette pourra t'aider. Bonne journée.}
+{137}{}{Je regrette... Je te reconnais pas. Il y a des ordres : je ne dois laisser rentrer dans l'Abri que les citoyens que je connais. Peut-Ãªtre que la PremiÃ¨re citoyenne Lynette pourra t'aider. Bonne journÃ©e.}
 {138}{}{Bonjour, Capitaine. Que puis-je pour toi ?}
 {139}{}{Oh, d'accord.}
-{140}{}{Oh, bien sûr. Je ne faisais que regarder.}
+{140}{}{Oh, bien sÃ»r. Je ne faisais que regarder.}
 {141}{}{Umgh.}
 {142}{}{Ouais, peu importe, Mungoth.}
-{143}{}{Eh ! Que fait cette Goule ici, à la Cité de l'Abri ?!}
-{144}{}{Eh ! Que fait ce mutant à la Cité de l'Abri ?!}
+{143}{}{Eh ! Que fait cette Goule ici, Ã  la CitÃ© de l'Abri ?!}
+{144}{}{Eh ! Que fait ce mutant Ã  la CitÃ© de l'Abri ?!}
 {145}{}{Breep-oop foop foop.}
-{146}{}{Une Goule ? Où ça ?}
-{147}{}{Un mutant ? Où ça ?}
+{146}{}{Une Goule ? OÃ¹ Ã§a ?}
+{147}{}{Un mutant ? OÃ¹ Ã§a ?}
 {148}{}{Il est avec moi.}
-{149}{}{Il est avec moi. Si ça pose un problème à l'un de vous, espèces de racistes, on peut peut-être régler ça tout de suite.}
-{150}{}{Si cette créature est avec toi, alors repartez tous les deux vers l'entrée, mais ne traînez pas dans les rues de la Cité de l'Abri.}
+{149}{}{Il est avec moi. Si Ã§a pose un problÃ¨me Ã  l'un de vous, espÃ¨ces de racistes, on peut peut-Ãªtre rÃ©gler Ã§a tout de suite.}
+{150}{}{Si cette crÃ©ature est avec toi, alors repartez tous les deux vers l'entrÃ©e, mais ne traÃ®nez pas dans les rues de la CitÃ© de l'Abri.}
 {151}{}{D'accord, on y va gentiment.}
-{152}{}{Pourquoi vous n'essayez pas de nous escorter jusqu'à l'extérieur ? Je vous assure que ce sera très instructif.}
-{153}{}{Mais d'abord, comment ces étrangers sont-ils entrés ici... ?}
-{154}{}{Cette créature-là.}
-{155}{}{Repartez tous les deux vers l'entrée, mais ne traînez pas dans les rues de la Cité de l'Abri.}
+{152}{}{Pourquoi vous n'essayez pas de nous escorter jusqu'Ã  l'extÃ©rieur ? Je vous assure que ce sera trÃ¨s instructif.}
+{153}{}{Mais d'abord, comment ces Ã©trangers sont-ils entrÃ©s ici... ?}
+{154}{}{Cette crÃ©ature-lÃ .}
+{155}{}{Repartez tous les deux vers l'entrÃ©e, mais ne traÃ®nez pas dans les rues de la CitÃ© de l'Abri.}
 {156}{}{MOI PAS AMI LUI ! TOI PAS AMI !}
 {157}{}{On y va, on y va, geeeentiment.}
 {158}{}{D'accord, on y va gentiment.}
-{159}{}{Il est avec moi. Si ça pose un problème à l'un de vous, espèces de racistes, on peut peut-être régler ça tout de suite.}
-{160}{}{Gardes ! Des intrus sont entrés dans la Cité !}
+{159}{}{Il est avec moi. Si Ã§a pose un problÃ¨me Ã  l'un de vous, espÃ¨ces de racistes, on peut peut-Ãªtre rÃ©gler Ã§a tout de suite.}
+{160}{}{Gardes ! Des intrus sont entrÃ©s dans la CitÃ© !}
 {161}{}{Hrnghhhhhhhh !}
 {162}{}{On aura ta peau avant que tes copains aient le temps de se pointer !}
-{163}{}{Hé ! C'est toi qui as vaincu l'Enclave !}
+{163}{}{HÃ© ! C'est toi qui as vaincu l'Enclave !}
 {164}{}{Ecoutez, c'est la personne qui a vaincu l'Enclave !}
-{165}{}{Bienvenue à la Cité de l'Abri.}
-{166}{}{Ta bataille contre l'Enclave en impose même à la Première citoyenne.}
-{167}{}{Il paraît que t'as été jusqu'à San Francisco. C'est vrai ?}
-{168}{}{C'est vrai que les Etats-Unis continuaient à se battre ?}
-{169}{}{Faudrait enregistrer tes voyages dans l'ordinateur de la Cité de l'Abri.}
-{170}{}{Bienvenue. Reste autant que tu veux à la Cité de l'Abri.}
+{165}{}{Bienvenue Ã  la CitÃ© de l'Abri.}
+{166}{}{Ta bataille contre l'Enclave en impose mÃªme Ã  la PremiÃ¨re citoyenne.}
+{167}{}{Il paraÃ®t que t'as Ã©tÃ© jusqu'Ã  San Francisco. C'est vrai ?}
+{168}{}{C'est vrai que les Etats-Unis continuaient Ã  se battre ?}
+{169}{}{Faudrait enregistrer tes voyages dans l'ordinateur de la CitÃ© de l'Abri.}
+{170}{}{Bienvenue. Reste autant que tu veux Ã  la CitÃ© de l'Abri.}
 {171}{}{Faudrait enregistrer tes exploits contre l'Enclave et les mettre sur le serveur des listes.}
 {172}{}{Capitaine.}
-{173}{}{La Cité de l'Abri avant tout, Capitaine !}
-{174}{}{Bonne journée, Capitaine.}
-{175}{}{La Cité de l'Abri avant tout, citoyen !}
+{173}{}{La CitÃ© de l'Abri avant tout, Capitaine !}
+{174}{}{Bonne journÃ©e, Capitaine.}
+{175}{}{La CitÃ© de l'Abri avant tout, citoyen !}
 {176}{}{citoyen.}
 {177}{}{Salut, citoyen.}

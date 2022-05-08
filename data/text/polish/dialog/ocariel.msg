@@ -1,81 +1,81 @@
-{100}{}{Widzisz nisk¹, szczup³¹ kobietê ubran¹ w niebiesk¹, aksamitn¹ sukienkê.}
-{101}{}{Widzisz wdowê Ariel.}
-{102}{}{Widzisz nisk¹, szczup³¹ kobietê ubran¹ w niebiesk¹, aksamitn¹ sukienkê letni¹. Wygl¹da na zasmucon¹.}
-{103}{}{Witaj, jestem Ariel. Chyba ciê tu wczeœniej nie widzia³am. Kim jesteœ?}
+{100}{}{Widzisz niskÄ…, szczupÅ‚Ä… kobietÄ™ ubranÄ… w niebieskÄ…, aksamitnÄ… sukienkÄ™.}
+{101}{}{Widzisz wdowÄ™ Ariel.}
+{102}{}{Widzisz niskÄ…, szczupÅ‚Ä… kobietÄ™ ubranÄ… w niebieskÄ…, aksamitnÄ… sukienkÄ™ letniÄ…. WyglÄ…da na zasmuconÄ….}
+{103}{}{Witaj, jestem Ariel. Chyba ciÄ™ tu wczeÅ›niej nie widziaÅ‚am. Kim jesteÅ›?}
 {104}{}{Ja}
 {105}{}{Uch... ty smutna. Czemu?}
-{106}{}{Moja iœæ ju¿}
-{107}{}{Witaj Ariel, nazywam siê}
-{108}{}{Czeœæ. Wygl¹dasz na przybit¹. Co siê sta³o?}
-{109}{}{Moje imiê nie jest ci do niczego potrzebne, ale mi przyda siê kilka informacji od ciebie.}
+{106}{}{Moja iÅ›Ä‡ juÅ¼}
+{107}{}{Witaj Ariel, nazywam siÄ™}
+{108}{}{CzeÅ›Ä‡. WyglÄ…dasz na przybitÄ…. Co siÄ™ staÅ‚o?}
+{109}{}{Moje imiÄ™ nie jest ci do niczego potrzebne, ale mi przyda siÄ™ kilka informacji od ciebie.}
 {110}{}{Wybacz. Nie mam na to czasu.}
-{111}{}{Mi³o mi ciê poznaæ. Jak mogê ci pomóc?}
+{111}{}{MiÅ‚o mi ciÄ™ poznaÄ‡. Jak mogÄ™ ci pomÃ³c?}
 {112}{}{Odpowie pytania?}
 {113}{}{Nic takiego. Na razie.}
-{114}{}{Raczej nie jesteœ w stanie mi pomóc. Na razie.}
-{115}{}{Chcê zadaæ ci kilka pytañ.}
-{116}{}{Przepraszam za zak³ócanie ci spokoju, ale czy mog³abyœ odpowiedzieæ mi na kilka pytañ?}
-{117}{}{Mam tylko trochê problemów osobistych. Naprawdê nic wielkiego.}
-{118}{}{Ty mówi, moja s³ucha. To pomaga.}
-{119}{}{Dobra. Nie mówi problem. Odpowie pytania?}
-{120}{}{Umiem s³uchaæ Ariel, a jeœli opowiesz mi o tym, co ciê gryzie, to mo¿e po prostu ci ul¿y.}
-{121}{}{Dobra. Na razie zapomnijmy o problemach. Czy odpowiesz mi na kilka pytañ?}
-{122}{}{Kobieto, ka¿dy ma problemy. Naucz siê radziæ sobie z nimi.}
-{123}{}{Wybacz, ale nie mam czasu dla kogoœ z twoim tupetem. Do widzenia.}
+{114}{}{Raczej nie jesteÅ› w stanie mi pomÃ³c. Na razie.}
+{115}{}{ChcÄ™ zadaÄ‡ ci kilka pytaÅ„.}
+{116}{}{Przepraszam za zakÅ‚Ã³canie ci spokoju, ale czy mogÅ‚abyÅ› odpowiedzieÄ‡ mi na kilka pytaÅ„?}
+{117}{}{Mam tylko trochÄ™ problemÃ³w osobistych. NaprawdÄ™ nic wielkiego.}
+{118}{}{Ty mÃ³wi, moja sÅ‚ucha. To pomaga.}
+{119}{}{Dobra. Nie mÃ³wi problem. Odpowie pytania?}
+{120}{}{Umiem sÅ‚uchaÄ‡ Ariel, a jeÅ›li opowiesz mi o tym, co ciÄ™ gryzie, to moÅ¼e po prostu ci ulÅ¼y.}
+{121}{}{Dobra. Na razie zapomnijmy o problemach. Czy odpowiesz mi na kilka pytaÅ„?}
+{122}{}{Kobieto, kaÅ¼dy ma problemy. Naucz siÄ™ radziÄ‡ sobie z nimi.}
+{123}{}{Wybacz, ale nie mam czasu dla kogoÅ› z twoim tupetem. Do widzenia.}
 {124}{}{}
 {125}{}{}
 {126}{}{Dobrze.}
-{127}{}{Co chcesz wiedzieæ?}
-{128}{}{Ty uwiêzieniec?}
+{127}{}{Co chcesz wiedzieÄ‡?}
+{128}{}{Ty uwiÄ™zieniec?}
 {129}{}{Sz'mierci dobre dla ty?}
-{130}{}{Chce wyjœæ?}
+{130}{}{Chce wyjÅ›Ä‡?}
 {131}{}{Czemu ty smutna?}
-{132}{}{Jak ty tu przyjœæ?}
-{133}{}{Musi ju¿ iœæ.}
-{134}{}{Jesteœ wiêŸniem?}
-{135}{}{Czy szpony œmierci dobrze ciê traktuj¹?}
-{136}{}{Czy chcesz opuœciæ to miejsce?}
-{137}{}{Powiedz mi Ariel - czemu jesteœ smutna?}
-{138}{}{Jak to siê sta³o, ¿e znalaz³aœ siê w tej Krypcie?}
-{139}{}{Muszê ju¿ iœæ.}
-{140}{}{Nie, mogê odejœæ, kiedy tylko zechcê. Szpony œmierci wyrazi³y siê w tej kwestii bardzo jasno. Z tego, co wiem, nie przebywam tu wbrew ich woli.}
-{141}{}{Uhm, w porz¹dku.}
-{142}{}{Kuma, Ja iœæ.}
+{132}{}{Jak ty tu przyjÅ›Ä‡?}
+{133}{}{Musi juÅ¼ iÅ›Ä‡.}
+{134}{}{JesteÅ› wiÄ™Åºniem?}
+{135}{}{Czy szpony Å›mierci dobrze ciÄ™ traktujÄ…?}
+{136}{}{Czy chcesz opuÅ›ciÄ‡ to miejsce?}
+{137}{}{Powiedz mi Ariel - czemu jesteÅ› smutna?}
+{138}{}{Jak to siÄ™ staÅ‚o, Å¼e znalazÅ‚aÅ› siÄ™ w tej Krypcie?}
+{139}{}{MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{140}{}{Nie, mogÄ™ odejÅ›Ä‡, kiedy tylko zechcÄ™. Szpony Å›mierci wyraziÅ‚y siÄ™ w tej kwestii bardzo jasno. Z tego, co wiem, nie przebywam tu wbrew ich woli.}
+{141}{}{Uhm, w porzÄ…dku.}
+{142}{}{Kuma, Ja iÅ›Ä‡.}
 {143}{}{Rozumiem.}
-{144}{}{Myœlê suko, ¿e k³amiesz.}
-{145}{}{Rozumiem. Jeœli nie masz nic przeciwko, pragnê zadaæ ci jeszcze kilka pytañ.}
-{146}{}{Tak. Dostarczaj¹ mi ¿ywnoœæ, wodê, schronienie i ochronê. Czujê siê tu bardzo bezpieczna, a to wiêcej, ni¿ mog³abym oczekiwaæ.}
-{147}{}{Dobra. Teraz musi iœæ.}
-{148}{}{Dobra. Pytaæ dalej.}
-{149}{}{Rozumiem. Chcê zapytaæ ciê o coœ jeszcze.}
-{150}{}{Rozumiem. ZejdŸmy wiêc na inny temat.}
-{151}{}{Bomba. Mi³oœniczka jaszczurek.}
-{152}{}{Myœla³am nad tym, ale muszê powiedzieæ, ¿e nie. Czujê siê tu bezpieczniej ni¿ w jakimkolwiek innym miejscu, w którym ¿y³am do tej pory. Brakuje mi towarzystwa innych ludzi podobnych do mnie, ale byæ mo¿e oni kiedyœ te¿ tu trafi¹ i w ten sposób zaspokoj¹ tê potrzebê.}
-{153}{}{Ja iœæ. Macha pa pa.}
-{154}{}{Powie wiêcej.}
-{155}{}{Œwietnie, mnie nie zale¿y, mo¿esz tu zgniæ.}
-{156}{}{Dobrze. Chyba ju¿ pójdê.}
-{157}{}{Bardzo mi pomog³aœ, ale muszê ciê jeszcze chwilê pomêczyæ.}
-{158}{}{Mój m¹¿ niedawno umar³. Brakuje mi go i nie umiem siê do tego przyzwyczaiæ. To wszystko.}
-{159}{}{Pszpszam, jak siê sta³o?}
-{160}{}{Uuuups. Musi iœæ, starsza wo³a.}
-{161}{}{Przykro mi to s³yszeæ. Jak do tego dosz³o?}
-{162}{}{Ciê¿ka sprawa. Do zobaczenia.}
-{163}{}{Nieszczêœcia chodz¹ po ludziach, ludzie umieraj¹. Zwykle wtedy, gdy jestem w pobli¿u.}
-{164}{}{Ju¿ ci opowiada³am o napadzie. To siê sta³o wtedy.}
-{165}{}{Podró¿owaliœmy z mê¿em w towarzystwie karawany w drodze do Republiki Nowej Kalifornii. Chcieliœmy razem z córk¹ Sandy rozpocz¹æ nowe ¿ycie. Niestety pewnej nocy karawana zosta³a zaatakowana przez bandytów. Byli strasznie brutalni. Zabili wszystkich: mê¿czyzn, kobiety i dzieci. Rand, mój m¹¿, zgin¹³, gdy próbowa³ broniæ mnie i Sandy. By³yœmy nastêpne w kolejce, gdy zdarzy³ siê cud.}
-{166}{}{Uch... ³a³.}
-{167}{}{Fajnie ty, ma³a, obie ma siê dobrze.}
-{168}{}{Ja zmykaæ. Pa.}
+{144}{}{MyÅ›lÄ™ suko, Å¼e kÅ‚amiesz.}
+{145}{}{Rozumiem. JeÅ›li nie masz nic przeciwko, pragnÄ™ zadaÄ‡ ci jeszcze kilka pytaÅ„.}
+{146}{}{Tak. DostarczajÄ… mi Å¼ywnoÅ›Ä‡, wodÄ™, schronienie i ochronÄ™. CzujÄ™ siÄ™ tu bardzo bezpieczna, a to wiÄ™cej, niÅ¼ mogÅ‚abym oczekiwaÄ‡.}
+{147}{}{Dobra. Teraz musi iÅ›Ä‡.}
+{148}{}{Dobra. PytaÄ‡ dalej.}
+{149}{}{Rozumiem. ChcÄ™ zapytaÄ‡ ciÄ™ o coÅ› jeszcze.}
+{150}{}{Rozumiem. ZejdÅºmy wiÄ™c na inny temat.}
+{151}{}{Bomba. MiÅ‚oÅ›niczka jaszczurek.}
+{152}{}{MyÅ›laÅ‚am nad tym, ale muszÄ™ powiedzieÄ‡, Å¼e nie. CzujÄ™ siÄ™ tu bezpieczniej niÅ¼ w jakimkolwiek innym miejscu, w ktÃ³rym Å¼yÅ‚am do tej pory. Brakuje mi towarzystwa innych ludzi podobnych do mnie, ale byÄ‡ moÅ¼e oni kiedyÅ› teÅ¼ tu trafiÄ… i w ten sposÃ³b zaspokojÄ… tÄ™ potrzebÄ™.}
+{153}{}{Ja iÅ›Ä‡. Macha pa pa.}
+{154}{}{Powie wiÄ™cej.}
+{155}{}{Åšwietnie, mnie nie zaleÅ¼y, moÅ¼esz tu zgniÄ‡.}
+{156}{}{Dobrze. Chyba juÅ¼ pÃ³jdÄ™.}
+{157}{}{Bardzo mi pomogÅ‚aÅ›, ale muszÄ™ ciÄ™ jeszcze chwilÄ™ pomÄ™czyÄ‡.}
+{158}{}{MÃ³j mÄ…Å¼ niedawno umarÅ‚. Brakuje mi go i nie umiem siÄ™ do tego przyzwyczaiÄ‡. To wszystko.}
+{159}{}{Pszpszam, jak siÄ™ staÅ‚o?}
+{160}{}{Uuuups. Musi iÅ›Ä‡, starsza woÅ‚a.}
+{161}{}{Przykro mi to sÅ‚yszeÄ‡. Jak do tego doszÅ‚o?}
+{162}{}{CiÄ™Å¼ka sprawa. Do zobaczenia.}
+{163}{}{NieszczÄ™Å›cia chodzÄ… po ludziach, ludzie umierajÄ…. Zwykle wtedy, gdy jestem w pobliÅ¼u.}
+{164}{}{JuÅ¼ ci opowiadaÅ‚am o napadzie. To siÄ™ staÅ‚o wtedy.}
+{165}{}{PodrÃ³Å¼owaliÅ›my z mÄ™Å¼em w towarzystwie karawany w drodze do Republiki Nowej Kalifornii. ChcieliÅ›my razem z cÃ³rkÄ… Sandy rozpoczÄ…Ä‡ nowe Å¼ycie. Niestety pewnej nocy karawana zostaÅ‚a zaatakowana przez bandytÃ³w. Byli strasznie brutalni. Zabili wszystkich: mÄ™Å¼czyzn, kobiety i dzieci. Rand, mÃ³j mÄ…Å¼, zginÄ…Å‚, gdy prÃ³bowaÅ‚ broniÄ‡ mnie i Sandy. ByÅ‚yÅ›my nastÄ™pne w kolejce, gdy zdarzyÅ‚ siÄ™ cud.}
+{166}{}{Uch... Å‚aÅ‚.}
+{167}{}{Fajnie ty, maÅ‚a, obie ma siÄ™ dobrze.}
+{168}{}{Ja zmykaÄ‡. Pa.}
 {169}{}{Och. Co za historia.}
-{170}{}{Co za kupa gów... spadam st¹d.}
-{171}{}{Dziêki Bogu obie z córk¹ jesteœcie zdrowe.}
-{172}{}{Witaj znowu. Jak siê masz?}
+{170}{}{Co za kupa gÃ³w... spadam stÄ…d.}
+{171}{}{DziÄ™ki Bogu obie z cÃ³rkÄ… jesteÅ›cie zdrowe.}
+{172}{}{Witaj znowu. Jak siÄ™ masz?}
 {173}{}{}
 {174}{}{}
-{175}{}{OdejdŸ st¹d, draniu! Nie mam ci nic do powiedzenia.}
-{176}{}{OdejdŸ st¹d, dziwko! Nie mam ci nic do powiedzenia.}
+{175}{}{OdejdÅº stÄ…d, draniu! Nie mam ci nic do powiedzenia.}
+{176}{}{OdejdÅº stÄ…d, dziwko! Nie mam ci nic do powiedzenia.}
 {177}{}{Bywaj.}
 {178}{}{.}
 {179}{}{. Tak, jestem tu od niedawna.}
-{180}{}{Trzyma³am Sandy za sob¹, usi³uj¹c chroniæ j¹ przed potworem, który zastrzeli³ Randa, a on sta³ tak nad cia³em mojego mê¿a i œmia³ siê, celuj¹c w moj¹ g³owê. Nagle wielka ³apa z pazurami wychynê³a z ciemnoœci, z³apa³a go od ty³u i... no, ca³e szczêœcie, ¿e Sandy nie widzia³a, co siê sta³o potem. W ka¿dym razie bandyci zostali wykoszeni przez tê grupê szponów œmierci. Ten, który uratowa³ Sandy i mnie, sta³ niedaleko i mówi³ do mnie. Ci¹gle zapewnia³ mnie, ¿e jestem bezpieczna, i ¿e przykro mu, i¿ nie mogli przybyæ wczeœniej, by nam pomóc. Potem szpony œmierci przyprowadzi³y nas tutaj.}
+{180}{}{TrzymaÅ‚am Sandy za sobÄ…, usiÅ‚ujÄ…c chroniÄ‡ jÄ… przed potworem, ktÃ³ry zastrzeliÅ‚ Randa, a on staÅ‚ tak nad ciaÅ‚em mojego mÄ™Å¼a i Å›miaÅ‚ siÄ™, celujÄ…c w mojÄ… gÅ‚owÄ™. Nagle wielka Å‚apa z pazurami wychynÄ™Å‚a z ciemnoÅ›ci, zÅ‚apaÅ‚a go od tyÅ‚u i... no, caÅ‚e szczÄ™Å›cie, Å¼e Sandy nie widziaÅ‚a, co siÄ™ staÅ‚o potem. W kaÅ¼dym razie bandyci zostali wykoszeni przez tÄ™ grupÄ™ szponÃ³w Å›mierci. Ten, ktÃ³ry uratowaÅ‚ Sandy i mnie, staÅ‚ niedaleko i mÃ³wiÅ‚ do mnie. CiÄ…gle zapewniaÅ‚ mnie, Å¼e jestem bezpieczna, i Å¼e przykro mu, iÅ¼ nie mogli przybyÄ‡ wczeÅ›niej, by nam pomÃ³c. Potem szpony Å›mierci przyprowadziÅ‚y nas tutaj.}

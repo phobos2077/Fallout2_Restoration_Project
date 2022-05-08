@@ -1,101 +1,101 @@
-{100}{}{Widzisz ³ysego punka.}
-{101}{}{Widzisz Chipa. Wygl¹da lepiej.}
-{102}{}{Widzisz ³ysego punka. Wygl¹da o wiele lepiej.}
-{103}{}{Ooch, moje flaki... o³, a³, o³.}
+{100}{}{Widzisz Å‚ysego punka.}
+{101}{}{Widzisz Chipa. WyglÄ…da lepiej.}
+{102}{}{Widzisz Å‚ysego punka. WyglÄ…da o wiele lepiej.}
+{103}{}{Ooch, moje flaki... oÅ‚, aÅ‚, oÅ‚.}
 {104}{}{Laki?}
 {105}{}{Oli?}
-{106}{}{Co z tob¹?}
-{107}{}{Boli ciê? Cha cha cha.}
-{108}{}{Kim jesteœ?}
-{109}{}{Czy masz dla mnie jakieœ informacje o moich ludziach?}
-{110}{}{Oooch, moje flaki. Boli mnie. Zostaw mnie w spokoju, proszê.}
+{106}{}{Co z tobÄ…?}
+{107}{}{Boli ciÄ™? Cha cha cha.}
+{108}{}{Kim jesteÅ›?}
+{109}{}{Czy masz dla mnie jakieÅ› informacje o moich ludziach?}
+{110}{}{Oooch, moje flaki. Boli mnie. Zostaw mnie w spokoju, proszÄ™.}
 {111}{}{Oki-doki.}
-{112}{}{Co ze mn¹? Powiem ci: w zesz³ym tygodniu zala³em siê, zacz¹³em graæ z Lao Chou i przegra³em. By³em tak nawalony, ¿e postawi³em moj¹ œledzionê. Teraz on j¹ ma, a ja potrzebujê jej z powrotem.}
-{113}{}{SPRZEDA£EŒ w³asn¹ œledzionê?}
+{112}{}{Co ze mnÄ…? Powiem ci: w zeszÅ‚ym tygodniu zalaÅ‚em siÄ™, zaczÄ…Å‚em graÄ‡ z Lao Chou i przegraÅ‚em. ByÅ‚em tak nawalony, Å¼e postawiÅ‚em mojÄ… Å›ledzionÄ™. Teraz on jÄ… ma, a ja potrzebujÄ™ jej z powrotem.}
+{113}{}{SPRZEDAÅEÅš wÅ‚asnÄ… Å›ledzionÄ™?}
 {114}{}{Jaka szkoda.}
-{115}{}{Ale z ciebie gamoñ.}
-{116}{}{Ta, dobra, zamiast twoich jêków potrzebujê trochê informacji.}
-{117}{}{[³apie z trudem powietrze] Pierdol siê.}
-{118}{}{[³apie z trudem powietrze] Spierdalaj.}
+{115}{}{Ale z ciebie gamoÅ„.}
+{116}{}{Ta, dobra, zamiast twoich jÄ™kÃ³w potrzebujÄ™ trochÄ™ informacji.}
+{117}{}{[Å‚apie z trudem powietrze] Pierdol siÄ™.}
+{118}{}{[Å‚apie z trudem powietrze] Spierdalaj.}
 {119}{}{Dobra, jak chcesz.}
-{120}{}{Ej, wiesz co? Chcê ci mimo wszystko pomóc.}
-{121}{}{Tak, sprzeda³em. By³em pijany! Poza tym wydaje mi siê, ¿e Lao Chou doprawi³ mi drinka Jetem. Potrzebujê z powrotem moj¹ œledzionê, bo teraz nabawiam siê wci¹¿ infekcji.}
-{122}{}{Có¿, to ty j¹ straci³eœ. Twój problem. Sam sobie poradŸ.}
-{123}{}{Do diab³a, rozejrzê siê za ni¹.}
-{124}{}{Niestety tak. Potrzebujê mojej œledziony, bo teraz ca³y czas nabawiam siê infekcji.}
-{125}{}{Có¿, to ty j¹ straci³eœ. Twój problem. Sam sobie poradŸ.}
-{126}{}{Do diab³a, rozejrzê siê za ni¹.}
-{127}{}{Naprawdê bêdê wdziêczny. Porozmawiaj ze sklepikarzem Lao Chou i powiedz mu, ¿e potrzebujê z powrotem mojej œledziony.}
-{128}{}{Wrócê do ciebie.}
-{129}{}{Jestem Chip. I bardzo cierpiê.}
-{130}{}{Co z tob¹?}
-{131}{}{Boli ciê? Cha cha cha.}
+{120}{}{Ej, wiesz co? ChcÄ™ ci mimo wszystko pomÃ³c.}
+{121}{}{Tak, sprzedaÅ‚em. ByÅ‚em pijany! Poza tym wydaje mi siÄ™, Å¼e Lao Chou doprawiÅ‚ mi drinka Jetem. PotrzebujÄ™ z powrotem mojÄ… Å›ledzionÄ™, bo teraz nabawiam siÄ™ wciÄ…Å¼ infekcji.}
+{122}{}{CÃ³Å¼, to ty jÄ… straciÅ‚eÅ›. TwÃ³j problem. Sam sobie poradÅº.}
+{123}{}{Do diabÅ‚a, rozejrzÄ™ siÄ™ za niÄ….}
+{124}{}{Niestety tak. PotrzebujÄ™ mojej Å›ledziony, bo teraz caÅ‚y czas nabawiam siÄ™ infekcji.}
+{125}{}{CÃ³Å¼, to ty jÄ… straciÅ‚eÅ›. TwÃ³j problem. Sam sobie poradÅº.}
+{126}{}{Do diabÅ‚a, rozejrzÄ™ siÄ™ za niÄ….}
+{127}{}{NaprawdÄ™ bÄ™dÄ™ wdziÄ™czny. Porozmawiaj ze sklepikarzem Lao Chou i powiedz mu, Å¼e potrzebujÄ™ z powrotem mojej Å›ledziony.}
+{128}{}{WrÃ³cÄ™ do ciebie.}
+{129}{}{Jestem Chip. I bardzo cierpiÄ™.}
+{130}{}{Co z tobÄ…?}
+{131}{}{Boli ciÄ™? Cha cha cha.}
 {132}{}{Jaka szkoda. Na razie.}
-{133}{}{Informacje? Ja tu cierpiê, a ty chcesz informacje?}
-{134}{}{Co z tob¹?}
-{135}{}{Boli ciê? Cha cha cha.}
+{133}{}{Informacje? Ja tu cierpiÄ™, a ty chcesz informacje?}
+{134}{}{Co z tobÄ…?}
+{135}{}{Boli ciÄ™? Cha cha cha.}
 {136}{}{Zapomnij o tym.}
-{137}{}{Czy wiesz ju¿, gdzie jest moja œledziona?}
-{138}{}{Tak. Ma j¹ dr Wong Yi Tze i zwróci ci j¹. IdŸ z nim o tym porozmawiaæ.}
-{139}{}{Tak. IdŸ poszukaæ przy trupie dra Wonga.}
-{140}{}{W pewnym sensie. Ma j¹ dr Wong Yi Tze, ale nie chce mi jej oddaæ.}
-{141}{}{Wiem, gdzie jest, ale chyba dr Wong j¹ zjad³.}
-{142}{}{Nie, jeszcze nie. Ale znajdê j¹.}
+{137}{}{Czy wiesz juÅ¼, gdzie jest moja Å›ledziona?}
+{138}{}{Tak. Ma jÄ… dr Wong Yi Tze i zwrÃ³ci ci jÄ…. IdÅº z nim o tym porozmawiaÄ‡.}
+{139}{}{Tak. IdÅº poszukaÄ‡ przy trupie dra Wonga.}
+{140}{}{W pewnym sensie. Ma jÄ… dr Wong Yi Tze, ale nie chce mi jej oddaÄ‡.}
+{141}{}{Wiem, gdzie jest, ale chyba dr Wong jÄ… zjadÅ‚.}
+{142}{}{Nie, jeszcze nie. Ale znajdÄ™ jÄ….}
 {143}{}{Nie. W sumie, to nawet jej nie szukam.}
-{144}{}{W porz¹dku [dyszy] Zanim jednak to zrobiê, mo¿e powinniœmy ustaliæ sposób, w jaki j¹ dostanê z powrotem. Porozmawiaj o tym z dr Fungiem, dobrze? Dziêki.}
+{144}{}{W porzÄ…dku [dyszy] Zanim jednak to zrobiÄ™, moÅ¼e powinniÅ›my ustaliÄ‡ sposÃ³b, w jaki jÄ… dostanÄ™ z powrotem. Porozmawiaj o tym z dr Fungiem, dobrze? DziÄ™ki.}
 {145}{}{Dobrze.}
 {146}{}{Nie.}
-{147}{}{Naprawdê doceniam to, co dla mnie robisz. Nie zapomnê ci tego.}
+{147}{}{NaprawdÄ™ doceniam to, co dla mnie robisz. Nie zapomnÄ™ ci tego.}
 {148}{}{Nie ma sprawy.}
-{149}{}{S³uchaj, naprawdê nie mogê siê przemieszczaæ bez ogromnego wysi³ku. Mam przesrane, je¿eli mi nie pomo¿esz.}
+{149}{}{SÅ‚uchaj, naprawdÄ™ nie mogÄ™ siÄ™ przemieszczaÄ‡ bez ogromnego wysiÅ‚ku. Mam przesrane, jeÅ¼eli mi nie pomoÅ¼esz.}
 {150}{}{Dobra. Pogadam z Fungiem.}
-{151}{}{No i co. I tak gówno mnie obchodzisz.}
-{152}{}{Je¿eli mo¿esz coœ z tym zrobiæ... zabiæ go, albo przemówiæ mu do rozs¹dku, albo coœ... bez niej umrê.}
-{153}{}{Zobaczê, co da siê zrobiæ.}
-{154}{}{Przykro mi, stare... Chyba jesteœ skoñczony. Nie mogê ci pomóc.}
-{155}{}{Bez œledziony umrê. Mimo wszystko dziêki za pomoc.}
-{156}{}{Wiem, gdzie jest. IdŸ do laboratorium dra Wonga.}
-{157}{}{Pokryjê koszty. IdŸ do Funga.}
+{151}{}{No i co. I tak gÃ³wno mnie obchodzisz.}
+{152}{}{JeÅ¼eli moÅ¼esz coÅ› z tym zrobiÄ‡... zabiÄ‡ go, albo przemÃ³wiÄ‡ mu do rozsÄ…dku, albo coÅ›... bez niej umrÄ™.}
+{153}{}{ZobaczÄ™, co da siÄ™ zrobiÄ‡.}
+{154}{}{Przykro mi, stare... Chyba jesteÅ› skoÅ„czony. Nie mogÄ™ ci pomÃ³c.}
+{155}{}{Bez Å›ledziony umrÄ™. Mimo wszystko dziÄ™ki za pomoc.}
+{156}{}{Wiem, gdzie jest. IdÅº do laboratorium dra Wonga.}
+{157}{}{PokryjÄ™ koszty. IdÅº do Funga.}
 {158}{}{Nie ma sprawy. Powodzenia.}
-{159}{}{Uda³o ci siê namówiæ Funga?}
-{160}{}{Ta, powiedzia³, ¿e wstawi ci j¹ za friko.}
-{161}{}{Ta, i wystawi³ mi rachunek na $1000.}
+{159}{}{UdaÅ‚o ci siÄ™ namÃ³wiÄ‡ Funga?}
+{160}{}{Ta, powiedziaÅ‚, Å¼e wstawi ci jÄ… za friko.}
+{161}{}{Ta, i wystawiÅ‚ mi rachunek na $1000.}
 {162}{}{}
-{163}{}{Rany. Masz niez³e powi¹zania. Wróæ jutro, a zobaczê, w czym bêdê ci móg³ pomóc.}
+{163}{}{Rany. Masz niezÅ‚e powiÄ…zania. WrÃ³Ä‡ jutro, a zobaczÄ™, w czym bÄ™dÄ™ ci mÃ³gÅ‚ pomÃ³c.}
 {164}{}{Jasne.}
-{165}{}{Masz za mnie zap³aciæ?}
+{165}{}{Masz za mnie zapÅ‚aciÄ‡?}
 {166}{}{Ta, chyba tak.}
 {167}{}{Nie.}
-{168}{}{Naprawdê doceniam to. Wróæ jutro, a zobaczê, w jaki sposób bêdê móg³ ci pomóc.}
-{169}{}{Lepiej, ¿eby tak by³o.}
-{170}{}{Mnie na to nie staæ. Chyba bêdê musia³ umrzeæ.}
-{171}{}{Och, no dobra, pokryjê koszty.}
-{172}{}{Ciê¿ka sprawa. Nie mam kasy.}
-{173}{}{Nawet sobie nie wyobra¿asz, jak o wiele lepiej siê czujê. A teraz, czego ode mnie potrzebujesz?}
-{174}{}{Jak uruchomiæ tê ³ajbê?}
-{175}{}{Wiesz mo¿e, gdzie s¹ moi ludzie?}
-{176}{}{Potrzebujê rêki informatyka.}
-{177}{}{Teraz niczego, dziêki i na razie.}
-{178}{}{Spytaj Kapitana. Mieszka w gabinecie kapitañskim na górze.}
-{179}{}{Dziêki. Kilka innych pytañ...}
-{180}{}{Dziêki. Na razie.}
-{181}{}{Mówi siê, ¿e zabrano ich na zachód, przez wodê. Najlepiej jeœli uda ci siê jakoœ uruchomiæ tê ³ajbê.}
-{182}{}{Dziêki. Kilka innych pytañ...}
-{183}{}{Dziêki. Na razie.}
-{184}{}{Rêki informatyka? Je¿eli nie mo¿esz za³atwiæ tego u Shi albo u Centrologów, to na pewno chcesz rozmawiaæ z Borsukiem. To geniusz komputerowy.}
-{185}{}{Dziêki. Kilka innych pytañ...}
-{186}{}{Dziêki. Na razie.}
-{187}{}{Cholera. Pogadaj z Centrologami, albo z Shi. Nie mam pojêcia, teraz gdy Borsuk nie ¿yje.}
-{188}{}{Dziêki. Kilka innych pytañ...}
-{189}{}{Dziêki. Na razie.}
-{190}{}{Kupa gówna.}
-{191}{}{Bêdziesz potrzebowaæ œrodków przeciwbólowych.}
-{192}{}{Œcierwo. Za³atwiê ciê.}
-{193}{}{Widzisz ³ysego punka.}
-{194}{}{Widzisz Chipa. Wygl¹da na to, ¿e cierpi.}
-{195}{}{Widzisz ³ysego punka. Trzyma siê za bok i sapie z bólu.}
-{196}{}{W porz¹dku. Porozmawiam z Fungiem.}
-{197}{}{Jak tam szczêœcie z moj¹ œledzion¹?}
-{198}{}{Ta, i za¿yczy³ sobie $1000 - ju¿ zap³acone.}
-{199}{}{Dziêkujê za twoj¹ pomoc, przyjacielu.}
-{200}{}{Hej, podobno uda³o ci siê odnaleŸæ moj¹ œledzionê. Czy dr Fung rozmawia³ ju¿ z tob¹ na temat wsadzenia jej we mnie z powrotem?}
+{168}{}{NaprawdÄ™ doceniam to. WrÃ³Ä‡ jutro, a zobaczÄ™, w jaki sposÃ³b bÄ™dÄ™ mÃ³gÅ‚ ci pomÃ³c.}
+{169}{}{Lepiej, Å¼eby tak byÅ‚o.}
+{170}{}{Mnie na to nie staÄ‡. Chyba bÄ™dÄ™ musiaÅ‚ umrzeÄ‡.}
+{171}{}{Och, no dobra, pokryjÄ™ koszty.}
+{172}{}{CiÄ™Å¼ka sprawa. Nie mam kasy.}
+{173}{}{Nawet sobie nie wyobraÅ¼asz, jak o wiele lepiej siÄ™ czujÄ™. A teraz, czego ode mnie potrzebujesz?}
+{174}{}{Jak uruchomiÄ‡ tÄ™ Å‚ajbÄ™?}
+{175}{}{Wiesz moÅ¼e, gdzie sÄ… moi ludzie?}
+{176}{}{PotrzebujÄ™ rÄ™ki informatyka.}
+{177}{}{Teraz niczego, dziÄ™ki i na razie.}
+{178}{}{Spytaj Kapitana. Mieszka w gabinecie kapitaÅ„skim na gÃ³rze.}
+{179}{}{DziÄ™ki. Kilka innych pytaÅ„...}
+{180}{}{DziÄ™ki. Na razie.}
+{181}{}{MÃ³wi siÄ™, Å¼e zabrano ich na zachÃ³d, przez wodÄ™. Najlepiej jeÅ›li uda ci siÄ™ jakoÅ› uruchomiÄ‡ tÄ™ Å‚ajbÄ™.}
+{182}{}{DziÄ™ki. Kilka innych pytaÅ„...}
+{183}{}{DziÄ™ki. Na razie.}
+{184}{}{RÄ™ki informatyka? JeÅ¼eli nie moÅ¼esz zaÅ‚atwiÄ‡ tego u Shi albo u CentrologÃ³w, to na pewno chcesz rozmawiaÄ‡ z Borsukiem. To geniusz komputerowy.}
+{185}{}{DziÄ™ki. Kilka innych pytaÅ„...}
+{186}{}{DziÄ™ki. Na razie.}
+{187}{}{Cholera. Pogadaj z Centrologami, albo z Shi. Nie mam pojÄ™cia, teraz gdy Borsuk nie Å¼yje.}
+{188}{}{DziÄ™ki. Kilka innych pytaÅ„...}
+{189}{}{DziÄ™ki. Na razie.}
+{190}{}{Kupa gÃ³wna.}
+{191}{}{BÄ™dziesz potrzebowaÄ‡ Å›rodkÃ³w przeciwbÃ³lowych.}
+{192}{}{Åšcierwo. ZaÅ‚atwiÄ™ ciÄ™.}
+{193}{}{Widzisz Å‚ysego punka.}
+{194}{}{Widzisz Chipa. WyglÄ…da na to, Å¼e cierpi.}
+{195}{}{Widzisz Å‚ysego punka. Trzyma siÄ™ za bok i sapie z bÃ³lu.}
+{196}{}{W porzÄ…dku. Porozmawiam z Fungiem.}
+{197}{}{Jak tam szczÄ™Å›cie z mojÄ… Å›ledzionÄ…?}
+{198}{}{Ta, i zaÅ¼yczyÅ‚ sobie $1000 - juÅ¼ zapÅ‚acone.}
+{199}{}{DziÄ™kujÄ™ za twojÄ… pomoc, przyjacielu.}
+{200}{}{Hej, podobno udaÅ‚o ci siÄ™ odnaleÅºÄ‡ mojÄ… Å›ledzionÄ™. Czy dr Fung rozmawiaÅ‚ juÅ¼ z tobÄ… na temat wsadzenia jej we mnie z powrotem?}

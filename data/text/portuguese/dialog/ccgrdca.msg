@@ -1,18 +1,18 @@
-{100}{}{Você vê um guarda.}
-{101}{}{Você verá um guarda em armadura de combate.}
-{102}{}{Você vê alguém vestindo armadura de combate. Há uma insígnia no peitoral que você não conhece.}
+{100}{}{VocÃª vÃª um guarda.}
+{101}{}{VocÃª verÃ¡ um guarda em armadura de combate.}
+{102}{}{VocÃª vÃª alguÃ©m vestindo armadura de combate. HÃ¡ uma insÃ­gnia no peitoral que vocÃª nÃ£o conhece.}
 {103}{}{Nada a assinalar.}
-{104}{}{Nada de errado comigo, que tal você?}
-{105}{}{Não deveria estar no seu posto, soldado? Não é bom para passear aqui.}
-{106}{}{Você está fora do uniforme. }
-{107}{}{É melhor informar o Sargento e se adequar.}
-{108}{}{Você está tendo uma grande chance de estar fora de uniforme. Melhor você informar ao fornecimento.}
-{109}{}{Quem diabos são vocês... Alerta! Intrusos!}
+{104}{}{Nada de errado comigo, que tal vocÃª?}
+{105}{}{NÃ£o deveria estar no seu posto, soldado? NÃ£o Ã© bom para passear aqui.}
+{106}{}{VocÃª estÃ¡ fora do uniforme. }
+{107}{}{Ã‰ melhor informar o Sargento e se adequar.}
+{108}{}{VocÃª estÃ¡ tendo uma grande chance de estar fora de uniforme. Melhor vocÃª informar ao fornecimento.}
+{109}{}{Quem diabos sÃ£o vocÃªs... Alerta! Intrusos!}
 {110}{}{Temos sido infiltrados! Alerta!}
-{111}{}{Vários intrusos! Soar o alarme!}
-{112}{}{Alerta de segurança! Selo de base!}
-{113}{}{Proteja todas as estações! Estamos em alerta!}
-{114}{}{Alerta de intrusão! Vá código vermelho!}
-{115}{}{Nós vamos colocá-lo abaixo!}
+{111}{}{VÃ¡rios intrusos! Soar o alarme!}
+{112}{}{Alerta de seguranÃ§a! Selo de base!}
+{113}{}{Proteja todas as estaÃ§Ãµes! Estamos em alerta!}
+{114}{}{Alerta de intrusÃ£o! VÃ¡ cÃ³digo vermelho!}
+{115}{}{NÃ³s vamos colocÃ¡-lo abaixo!}
 {116}{}{O Enclave vai dominar o mundo!}
-{117}{}{Você morre para que o Enclave sobreviva!}
+{117}{}{VocÃª morre para que o Enclave sobreviva!}

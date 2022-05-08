@@ -1,30 +1,30 @@
 {100}{}{Un soldado con uniforme de faena.}
-{101}{}{Un técnico en perfluorocarbono, de graduación X.}
-{102}{}{Lleva un uniforme militar, pero está claro que este tipo es un técnico, no un soldado.}
-{103}{}{Mira, ¿cuántas veces voy a tener que decírtelo, imbécil? ¡Quita de en medio!}
-{104}{}{¿Qué pasa, no tienes nada a lo que disparar?}
+{101}{}{Un tÃ©cnico en perfluorocarbono, de graduaciÃ³n X.}
+{102}{}{Lleva un uniforme militar, pero estÃ¡ claro que este tipo es un tÃ©cnico, no un soldado.}
+{103}{}{Mira, Â¿cuÃ¡ntas veces voy a tener que decÃ­rtelo, imbÃ©cil? Â¡Quita de en medio!}
+{104}{}{Â¿QuÃ© pasa, no tienes nada a lo que disparar?}
 {105}{}{Saludos, soldado.}
-{106}{}{¿Quién eres tú? ¡¡Guardias!}
-{107}{}{¿Qué demonios pasa aquí? ¡Intrusa en la base!}
-{108}{}{¡Mierda! ¡¿Dónde está mi arma?!}
-{109}{}{Mira, ya buscaron aquí y no encontraron nada.}
+{106}{}{Â¿QuiÃ©n eres tÃº? Â¡Â¡Guardias!}
+{107}{}{Â¿QuÃ© demonios pasa aquÃ­? Â¡Intrusa en la base!}
+{108}{}{Â¡Mierda! Â¡Â¿DÃ³nde estÃ¡ mi arma?!}
+{109}{}{Mira, ya buscaron aquÃ­ y no encontraron nada.}
 {110}{}{Joder, estas falsas alarmas me dan unos sustos de muerte.}
 {111}{}{Genial, otra falsa alarma. Ahora tendremos que arrancar todo el sistema y volverlo a restablecer.}
-{112}{}{¡Maldita sea! ¡Aquí, aquí! ¡Atrapad a la espía!}
-{113}{}{¡Mierda! ¡Nos atacan! ¿Dónde está mi parte?}
-{114}{}{¿Tiroteo? ¡Nadie dijo que habría ningún tiroteo!}
-{115}{}{¿Quién coño eres tú? ¡Guardias!}
-{116}{}{¡No eres del Enclave! ¡Guardias!}
-{117}{}{¡Intrusos!¡Saboteadores!¡Aquí!}
+{112}{}{Â¡Maldita sea! Â¡AquÃ­, aquÃ­! Â¡Atrapad a la espÃ­a!}
+{113}{}{Â¡Mierda! Â¡Nos atacan! Â¿DÃ³nde estÃ¡ mi parte?}
+{114}{}{Â¿Tiroteo? Â¡Nadie dijo que habrÃ­a ningÃºn tiroteo!}
+{115}{}{Â¿QuiÃ©n coÃ±o eres tÃº? Â¡Guardias!}
+{116}{}{Â¡No eres del Enclave! Â¡Guardias!}
+{117}{}{Â¡Intrusos!Â¡Saboteadores!Â¡AquÃ­!}
 {118}{}{Oye, no me revuelvas los planos. Estoy trabajando.}
-{119}{}{¿Dónde demonios estará esa parte de la desbrozadora?}
-{120}{}{Malditos pilotos, siempre jodiéndome las máquinas.}
+{119}{}{Â¿DÃ³nde demonios estarÃ¡ esa parte de la desbrozadora?}
+{120}{}{Malditos pilotos, siempre jodiÃ©ndome las mÃ¡quinas.}
 {121}{}{Recibido, te tengo en la mira... no me molestes, estoy trabajando.}
 {122}{}{Mira, no se permiten llamadas personales, soldado.}
 {123}{}{Lo siento, no puedo atenderte ahora.}
-{124}{}{¿Vienes por algún asunto importante? Si no es así, vete de aquí.}
-{125}{}{Esta es un área restringida, soldado.}
-{126}{}{Apártate de mi camino, soldado.}
-{127}{}{¿Qué demonios? ¿Qué está pasando aquí?}
-{128}{}{¡Mierda! ¡Ya están interrumpiendo!}
-{129}{}{¡Pero serán payasos! Seguro que se trata de otra falsa alarma.}
+{124}{}{Â¿Vienes por algÃºn asunto importante? Si no es asÃ­, vete de aquÃ­.}
+{125}{}{Esta es un Ã¡rea restringida, soldado.}
+{126}{}{ApÃ¡rtate de mi camino, soldado.}
+{127}{}{Â¿QuÃ© demonios? Â¿QuÃ© estÃ¡ pasando aquÃ­?}
+{128}{}{Â¡Mierda! Â¡Ya estÃ¡n interrumpiendo!}
+{129}{}{Â¡Pero serÃ¡n payasos! Seguro que se trata de otra falsa alarma.}

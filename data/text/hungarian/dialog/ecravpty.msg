@@ -1,68 +1,68 @@
-{100}{}{Mintha kissé inogna ez az ember.}
-{101}{}{A buli csaposát látod.}
-{102}{}{Úgy t?nik, hogy ? is végigkóstolta a saját áruját.}
+{100}{}{Mintha kissÃ© inogna ez az ember.}
+{101}{}{A buli csaposÃ¡t lÃ¡tod.}
+{102}{}{Ãšgy t?nik, hogy ? is vÃ©gigkÃ³stolta a sajÃ¡t Ã¡rujÃ¡t.}
 {103}{}{Mih... mija... mit adhatok? [Hukk.]}
-{104}{}{Nuka Colát [$6]}
-{105}{}{Sört [$15]}
-{106}{}{Piát [$30]}
-{107}{}{Semmit, kösz!}
+{104}{}{Nuka ColÃ¡t [$6]}
+{105}{}{SÃ¶rt [$15]}
+{106}{}{PiÃ¡t [$30]}
+{107}{}{Semmit, kÃ¶sz!}
 {108}{}{Ah...}
-{109}{}{Óhhhh... de hát pia nélkül mit ér a buli... [Átnyújt egy italt.]}
-{110}{}{[Vége]}
-{111}{}{Tessék. Kicsit meleg, me' nem volt ideje leh?lni. Gyo'sabban adom el a cuccot, mint ahogy csinálni tudom. [Az ital meleg, sárga és...]}
-{112}{}{[Vége]}
-{113}{}{[Úgy érzed, mintha elolvadna a gyomrod, és nyelsz egy nagyot.]}
-{114}{}{[Vége]}
-{115}{}{Azta... [hukk] Úgy nézem, te má' eleget ittá'.}
-{116}{}{[Vége]}
-{117}{}{Óhhh, haver! Nincsen 'lég pénzed! Gyere vissza ha lesz lóvéd!}
-{118}{}{[Vége]}
-{119}{}{Elég vad kinézete van.}
+{109}{}{Ã“hhhh... de hÃ¡t pia nÃ©lkÃ¼l mit Ã©r a buli... [ÃtnyÃºjt egy italt.]}
+{110}{}{[VÃ©ge]}
+{111}{}{TessÃ©k. Kicsit meleg, me' nem volt ideje leh?lni. Gyo'sabban adom el a cuccot, mint ahogy csinÃ¡lni tudom. [Az ital meleg, sÃ¡rga Ã©s...]}
+{112}{}{[VÃ©ge]}
+{113}{}{[Ãšgy Ã©rzed, mintha elolvadna a gyomrod, Ã©s nyelsz egy nagyot.]}
+{114}{}{[VÃ©ge]}
+{115}{}{Azta... [hukk] Ãšgy nÃ©zem, te mÃ¡' eleget ittÃ¡'.}
+{116}{}{[VÃ©ge]}
+{117}{}{Ã“hhh, haver! Nincsen 'lÃ©g pÃ©nzed! Gyere vissza ha lesz lÃ³vÃ©d!}
+{118}{}{[VÃ©ge]}
+{119}{}{ElÃ©g vad kinÃ©zete van.}
 {120}{}{You see an addict.}
 {121}{}{Kicsit idegesnek t?nik.}
 {122}{}{Mitakarsz? Vanmindenem!}
-{123}{}{Mentátot [$560]}
+{123}{}{MentÃ¡tot [$560]}
 {124}{}{Buffoutot [$400]}
-{125}{}{Pszichót [$800]}
-{126}{}{Semmit, kösz!}
+{125}{}{PszichÃ³t [$800]}
+{126}{}{Semmit, kÃ¶sz!}
 {127}{}{Ah...}
-{128}{}{Nagyszer?! Virítsdalóvétaztánhúzzinnen! Vezetnemkelazüzletet.}
-{129}{}{[Vége]}
-{130}{}{Ahogyamondástartja. Nincspénznincsméz. Oh. Aztaszexremondják. Akkorlegyennincskassaznincsmassza. Gyerevisszahavanpénzed!}
-{131}{}{[Vége]}
-{132}{}{Hehhehe! Asszemmentátravanszükséged. Aggyegyezrest!}
-{133}{}{[Adok neki 1000 dollárt]}
-{134}{}{Én menni elfele.}
-{135}{}{ÓIGEN! Ezmajdjólhelyretesz!}
-{136}{}{[vége]}
-{150}{}{Hé, milyen cuki vagy. Mi a neved?}
-{151}{}{Még egy kis löketet! Óh, igen!}
-{152}{}{Készen állsz... akarsz elsülni?}
+{128}{}{Nagyszer?! VirÃ­tsdalÃ³vÃ©taztÃ¡nhÃºzzinnen! VezetnemkelazÃ¼zletet.}
+{129}{}{[VÃ©ge]}
+{130}{}{AhogyamondÃ¡startja. NincspÃ©nznincsmÃ©z. Oh. AztaszexremondjÃ¡k. Akkorlegyennincskassaznincsmassza. GyerevisszahavanpÃ©nzed!}
+{131}{}{[VÃ©ge]}
+{132}{}{Hehhehe! AsszemmentÃ¡travanszÃ¼ksÃ©ged. Aggyegyezrest!}
+{133}{}{[Adok neki 1000 dollÃ¡rt]}
+{134}{}{Ã‰n menni elfele.}
+{135}{}{Ã“IGEN! EzmajdjÃ³lhelyretesz!}
+{136}{}{[vÃ©ge]}
+{150}{}{HÃ©, milyen cuki vagy. Mi a neved?}
+{151}{}{MÃ©g egy kis lÃ¶ketet! Ã“h, igen!}
+{152}{}{KÃ©szen Ã¡llsz... akarsz elsÃ¼lni?}
 {153}{}{Ne... ne... neh... neh-nah-ne.}
-{154}{}{Ezt nézd! Igen!}
+{154}{}{Ezt nÃ©zd! Igen!}
 {155}{}{Menj innen!}
-{156}{}{Most tök részeg leszek.}
-{157}{}{Menj elsülni ...máshova!}
-{158}{}{Mi lenne, ha te meg én sétálnánk egyet messze a többiekt?l?}
+{156}{}{Most tÃ¶k rÃ©szeg leszek.}
+{157}{}{Menj elsÃ¼lni ...mÃ¡shova!}
+{158}{}{Mi lenne, ha te meg Ã©n sÃ©tÃ¡lnÃ¡nk egyet messze a tÃ¶bbiekt?l?}
 {159}{}{Uhh, let's do it!}
-{160}{}{Nee, részeg vagyok!}
-{161}{}{[Büff!] ::mosolyog::}
-{170}{}{Hé, nem akarsz velem bejönni a bokor mögé?}
-{171}{}{Csináltad már ennyire felpörögve?}
-{172}{}{Megmutassam neked a csillagokat, bébi?}
-{173}{}{Egy kis szexre éhezem.}
-{174}{}{Reméltem, hogy belebotlok valakibe, aki készen áll bármire.}
-{175}{}{Ennyi elég volt.}
-{176}{}{Hé, van egy cigid?}
-{177}{}{Hé, ez csak egy kaland volt... szeretem a szabadságot.}
-{178}{}{Simulékony vagy, mint egy macska. Akarlak téged!}
-{179}{}{Készen állsz?}
-{180}{}{Ne most! Be kell l?nöm magam...}
-{181}{}{Légy résen! Bemegyünk.}
-{200}{}{Ne legyél má' hülye!}
-{201}{}{Menj, bulizz máshol!}
+{160}{}{Nee, rÃ©szeg vagyok!}
+{161}{}{[BÃ¼ff!] ::mosolyog::}
+{170}{}{HÃ©, nem akarsz velem bejÃ¶nni a bokor mÃ¶gÃ©?}
+{171}{}{CsinÃ¡ltad mÃ¡r ennyire felpÃ¶rÃ¶gve?}
+{172}{}{Megmutassam neked a csillagokat, bÃ©bi?}
+{173}{}{Egy kis szexre Ã©hezem.}
+{174}{}{RemÃ©ltem, hogy belebotlok valakibe, aki kÃ©szen Ã¡ll bÃ¡rmire.}
+{175}{}{Ennyi elÃ©g volt.}
+{176}{}{HÃ©, van egy cigid?}
+{177}{}{HÃ©, ez csak egy kaland volt... szeretem a szabadsÃ¡got.}
+{178}{}{SimulÃ©kony vagy, mint egy macska. Akarlak tÃ©ged!}
+{179}{}{KÃ©szen Ã¡llsz?}
+{180}{}{Ne most! Be kell l?nÃ¶m magam...}
+{181}{}{LÃ©gy rÃ©sen! BemegyÃ¼nk.}
+{200}{}{Ne legyÃ©l mÃ¡' hÃ¼lye!}
+{201}{}{Menj, bulizz mÃ¡shol!}
 {202}{}{Ki engedett be?}
-{203}{}{Ez nem frankó!}
+{203}{}{Ez nem frankÃ³!}
 {204}{}{Nyugi, haver!}
 {205}{}{Pihenj, ember!}
 {210}{}{It seems she's been sampling some of her own merchandise.}

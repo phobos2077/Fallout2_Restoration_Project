@@ -1,5 +1,5 @@
-{100}{}{Widzisz prostytutkê.}
-{101}{}{Wygl¹da na "spracowan¹".}
+{100}{}{Widzisz prostytutkÄ™.}
+{101}{}{WyglÄ…da na "spracowanÄ…".}
 {110}{}{Hej przystojniaku.}
-{111}{}{Czeœæ ma³a.}
-{112}{}{Te¿ jesteœ tu ¿eby zabalowaæ?}
+{111}{}{CzeÅ›Ä‡ maÅ‚a.}
+{112}{}{TeÅ¼ jesteÅ› tu Å¼eby zabalowaÄ‡?}

@@ -1,130 +1,130 @@
-{100}{}{Widzisz obna¿onego do pasa mê¿czyznê Shi.}
-{101}{}{Widzisz Smoka, który dla wielu ch³opów Shi jest bohaterem.}
-{102}{}{Widzisz obna¿onego do pasa, dobrze umiêœnionego mê¿czyznê, którego rêce wygl¹daj¹ na niebezpieczn¹ broñ.}
-{103}{}{W czym mogê ci pomóc?}
+{100}{}{Widzisz obnaÅ¼onego do pasa mÄ™Å¼czyznÄ™ Shi.}
+{101}{}{Widzisz Smoka, ktÃ³ry dla wielu chÅ‚opÃ³w Shi jest bohaterem.}
+{102}{}{Widzisz obnaÅ¼onego do pasa, dobrze umiÄ™Å›nionego mÄ™Å¼czyznÄ™, ktÃ³rego rÄ™ce wyglÄ…dajÄ… na niebezpiecznÄ… broÅ„.}
+{103}{}{W czym mogÄ™ ci pomÃ³c?}
 {104}{}{Dinkle hamper du!}
 {105}{}{Ty kto?}
-{106}{}{Kim by³ twój przeciwnik?}
-{107}{}{Kim jesteœ?}
-{108}{}{Naucz mnie walczyæ.}
-{109}{}{Chcê siê z tob¹ zmierzyæ.}
+{106}{}{Kim byÅ‚ twÃ³j przeciwnik?}
+{107}{}{Kim jesteÅ›?}
+{108}{}{Naucz mnie walczyÄ‡.}
+{109}{}{ChcÄ™ siÄ™ z tobÄ… zmierzyÄ‡.}
 {110}{}{Zapomnij o tym.}
-{111}{}{Obawiam siê, ¿e nie znam twojego jêzyka ::k³ania siê:: Do widzenia.}
-{112}{}{Czeeeeeeeœæ!}
-{113}{}{Jestem Smok. Walczê z uciskiem i z moim wrogiem, Lo Panem, który pragnie rz¹dziæ tym miastem. Walczê i uczê innych walczyæ.}
+{111}{}{Obawiam siÄ™, Å¼e nie znam twojego jÄ™zyka ::kÅ‚ania siÄ™:: Do widzenia.}
+{112}{}{CzeeeeeeeÅ›Ä‡!}
+{113}{}{Jestem Smok. WalczÄ™ z uciskiem i z moim wrogiem, Lo Panem, ktÃ³ry pragnie rzÄ…dziÄ‡ tym miastem. WalczÄ™ i uczÄ™ innych walczyÄ‡.}
 {114}{}{Naucz mnie!}
-{115}{}{Dziêkuju.}
-{116}{}{Zaczynajmy wiêc.}
+{115}{}{DziÄ™kuju.}
+{116}{}{Zaczynajmy wiÄ™c.}
 {117}{}{[dalej]}
-{118}{}{::patrzy na ciebie z uwag¹:: Nie s¹dzê, aby ta wiedza zosta³a wykorzystana w dobrej sprawie. ¯egnam.}
+{118}{}{::patrzy na ciebie z uwagÄ…:: Nie sÄ…dzÄ™, aby ta wiedza zostaÅ‚a wykorzystana w dobrej sprawie. Å»egnam.}
 {119}{}{Grrr!}
-{120}{}{Przepraszam za moje maniery, ale nie mogê w tej chwili z tob¹ rozmawiaæ.}
+{120}{}{Przepraszam za moje maniery, ale nie mogÄ™ w tej chwili z tobÄ… rozmawiaÄ‡.}
 {121}{}{Eee... OK!}
-{122}{}{To by³ Lo Pan. Mój zaciek³y wróg i rywal. Je¿eli mnie pokona, bojê siê o dobro moich ludzi.}
-{123}{}{Ludzie to owce. Nale¿y s³u¿yæ sobie.}
-{124}{}{Wiêc to ty musisz zwyciê¿yæ.}
+{122}{}{To byÅ‚ Lo Pan. MÃ³j zaciekÅ‚y wrÃ³g i rywal. JeÅ¼eli mnie pokona, bojÄ™ siÄ™ o dobro moich ludzi.}
+{123}{}{Ludzie to owce. NaleÅ¼y sÅ‚uÅ¼yÄ‡ sobie.}
+{124}{}{WiÄ™c to ty musisz zwyciÄ™Å¼yÄ‡.}
 {125}{}{Rozumiem. Mam inne pytania.}
-{126}{}{Naprawdê w to wierzysz? Wiêc byæ mo¿e zechcesz spotkaæ siê z Lo Panem. Dobrego dnia ¿yczê.}
+{126}{}{NaprawdÄ™ w to wierzysz? WiÄ™c byÄ‡ moÅ¼e zechcesz spotkaÄ‡ siÄ™ z Lo Panem. Dobrego dnia Å¼yczÄ™.}
 {127}{}{[dalej]}
-{128}{}{Tak, tak byæ musi. Jednak¿e bojê siê, ¿e nasze si³y s¹ bardzo wyrównane. Mamy nawet tak¹ sam¹ liczbê popleczników. Jedna osoba mo¿e przewa¿yæ na któr¹œ stronê.}
-{129}{}{Ja jestem tym cz³owiekiem.}
-{130}{}{Rozumiem. Mam tak¿e inne pytania.}
-{131}{}{Rozumiem. Có¿, do zobaczenia.}
-{132}{}{Naprawdê? Byæ mo¿e powinniœmy ciê wypróbowaæ. Jednak chcê, aby by³ pokonany w uczciwej walce.}
-{133}{}{Ej, no przecie¿ tak czy inaczej zginie. Jaka to ró¿nica?}
-{134}{}{Brzmi uczciwie. Jak wygl¹da próba?}
-{135}{}{Och. W takim razie muszê ju¿ iœæ.}
-{136}{}{Ci, którzy walcza bez honoru, nie s¹ lepsi od zwierz¹t!}
+{128}{}{Tak, tak byÄ‡ musi. JednakÅ¼e bojÄ™ siÄ™, Å¼e nasze siÅ‚y sÄ… bardzo wyrÃ³wnane. Mamy nawet takÄ… samÄ… liczbÄ™ poplecznikÃ³w. Jedna osoba moÅ¼e przewaÅ¼yÄ‡ na ktÃ³rÄ…Å› stronÄ™.}
+{129}{}{Ja jestem tym czÅ‚owiekiem.}
+{130}{}{Rozumiem. Mam takÅ¼e inne pytania.}
+{131}{}{Rozumiem. CÃ³Å¼, do zobaczenia.}
+{132}{}{NaprawdÄ™? ByÄ‡ moÅ¼e powinniÅ›my ciÄ™ wyprÃ³bowaÄ‡. Jednak chcÄ™, aby byÅ‚ pokonany w uczciwej walce.}
+{133}{}{Ej, no przecieÅ¼ tak czy inaczej zginie. Jaka to rÃ³Å¼nica?}
+{134}{}{Brzmi uczciwie. Jak wyglÄ…da prÃ³ba?}
+{135}{}{Och. W takim razie muszÄ™ juÅ¼ iÅ›Ä‡.}
+{136}{}{Ci, ktÃ³rzy walcza bez honoru, nie sÄ… lepsi od zwierzÄ…t!}
 {137}{}{OK, Matko Tereso. Wyluzuj.}
-{138}{}{Ja nazywam to roztropn¹ walk¹. "Honor" jest s³owem wymyœlonym po to, aby gloryfikowaæ morderców.}
-{139}{}{Rozumiem. Mam kilka pytañ.}
-{140}{}{Jaaasne. Czeœæ.}
-{141}{}{Najpierw musimy ustaliæ czy walczymy do koñca, czy te¿ próbujemy twoje zdolnoœci przeciwko moim.}
-{142}{}{Na œmieræ i ¿ycie. Potrafiê ciê wykoñczyæ.}
-{143}{}{Próba umiejêtnoœci. Nie chcê ciê zabijaæ.}
+{138}{}{Ja nazywam to roztropnÄ… walkÄ…. "Honor" jest sÅ‚owem wymyÅ›lonym po to, aby gloryfikowaÄ‡ mordercÃ³w.}
+{139}{}{Rozumiem. Mam kilka pytaÅ„.}
+{140}{}{Jaaasne. CzeÅ›Ä‡.}
+{141}{}{Najpierw musimy ustaliÄ‡ czy walczymy do koÅ„ca, czy teÅ¼ prÃ³bujemy twoje zdolnoÅ›ci przeciwko moim.}
+{142}{}{Na Å›mierÄ‡ i Å¼ycie. PotrafiÄ™ ciÄ™ wykoÅ„czyÄ‡.}
+{143}{}{PrÃ³ba umiejÄ™tnoÅ›ci. Nie chcÄ™ ciÄ™ zabijaÄ‡.}
 {144}{}{Ani to, ani to. Zapomnijmy o tym.}
-{145}{}{Nie jesteœ kimœ odpowiednim do wykonania tego obowi¹zku. Do widzenia.}
+{145}{}{Nie jesteÅ› kimÅ› odpowiednim do wykonania tego obowiÄ…zku. Do widzenia.}
 {146}{}{[dalej]}
-{147}{}{Tak myœlisz? Wojny i walki wydaj¹ siê nie do unikniecia. Lepiej abyœmy walczyli wed³ug zasad i kodeksów, ni¿ ¿ebyœmy oddali siê ¿¹dzy niszczenia.}
-{148}{}{Wygrywam w ka¿dy sposób, który znam.}
-{149}{}{Je¿eli musimy walczyæ, to przynajmniej powinnismy to robiæ, aby przetrwaæ. Je¿eli ktoœ próbuje mnie zabiæ, bêdê staraæ siê broniæ wszystkimi dostêpnymi œrodkami.}
-{150}{}{Hm. Masz chyba racjê. Có¿, mam kilka innych pytañ.}
+{147}{}{Tak myÅ›lisz? Wojny i walki wydajÄ… siÄ™ nie do unikniecia. Lepiej abyÅ›my walczyli wedÅ‚ug zasad i kodeksÃ³w, niÅ¼ Å¼ebyÅ›my oddali siÄ™ Å¼Ä…dzy niszczenia.}
+{148}{}{Wygrywam w kaÅ¼dy sposÃ³b, ktÃ³ry znam.}
+{149}{}{JeÅ¼eli musimy walczyÄ‡, to przynajmniej powinnismy to robiÄ‡, aby przetrwaÄ‡. JeÅ¼eli ktoÅ› prÃ³buje mnie zabiÄ‡, bÄ™dÄ™ staraÄ‡ siÄ™ broniÄ‡ wszystkimi dostÄ™pnymi Å›rodkami.}
+{150}{}{Hm. Masz chyba racjÄ™. CÃ³Å¼, mam kilka innych pytaÅ„.}
 {151}{}{Tak, dobra. Na razie.}
-{152}{}{Dobrze. WejdŸmy na ring i walczmy, dopóki ktoœ z nas nie bêdzie móg³ siê ruszaæ.}
-{153}{}{[Zaatakuj teraz, z broni¹ i zbroj¹.]}
-{154}{}{[WejdŸ na ring, zdejmij pancerz, od³ó¿ broñ i walcz go³ymi rêkami.]}
-{155}{}{Ach, wojowniczy umys³. Wystawiê ciê przeciwko moim ludziom, aby zobaczyæ czym dysponujesz. Zaczynamy.}
+{152}{}{Dobrze. WejdÅºmy na ring i walczmy, dopÃ³ki ktoÅ› z nas nie bÄ™dzie mÃ³gÅ‚ siÄ™ ruszaÄ‡.}
+{153}{}{[Zaatakuj teraz, z broniÄ… i zbrojÄ….]}
+{154}{}{[WejdÅº na ring, zdejmij pancerz, odÅ‚Ã³Å¼ broÅ„ i walcz goÅ‚ymi rÄ™kami.]}
+{155}{}{Ach, wojowniczy umysÅ‚. WystawiÄ™ ciÄ™ przeciwko moim ludziom, aby zobaczyÄ‡ czym dysponujesz. Zaczynamy.}
 {156}{}{[Dalej.]}
-{157}{}{Tak, lecz na formalnym polu walki nie mo¿esz twierdziæ, i¿ nie znajdujesz siê tam z w³asnej woli. Gdy ju¿ tam jesteœ, czy nie nale¿y podporz¹dkowaæ siê zasadom tam rz¹dzacym?}
-{158}{}{Tak, prawdopodobnie tak. Ale w sytuacji "¿ycie albo œmieræ" zrobisz wszystko by przetrwaæ.}
-{159}{}{Nie, nie s¹dzê.}
-{160}{}{Tu masz racjê. A wiêc. Je¿eli chcesz walczyæ z Lo Panem, czy zrobisz to bez broni i zbroi? Je¿eli mamy zwróciæ siê do ciebie o pomoc, prosimy o dostosowanie siê do naszych zasad.}
-{161}{}{Tak, zrobiê to tak jak sobie ¿yczysz.}
+{157}{}{Tak, lecz na formalnym polu walki nie moÅ¼esz twierdziÄ‡, iÅ¼ nie znajdujesz siÄ™ tam z wÅ‚asnej woli. Gdy juÅ¼ tam jesteÅ›, czy nie naleÅ¼y podporzÄ…dkowaÄ‡ siÄ™ zasadom tam rzÄ…dzacym?}
+{158}{}{Tak, prawdopodobnie tak. Ale w sytuacji "Å¼ycie albo Å›mierÄ‡" zrobisz wszystko by przetrwaÄ‡.}
+{159}{}{Nie, nie sÄ…dzÄ™.}
+{160}{}{Tu masz racjÄ™. A wiÄ™c. JeÅ¼eli chcesz walczyÄ‡ z Lo Panem, czy zrobisz to bez broni i zbroi? JeÅ¼eli mamy zwrÃ³ciÄ‡ siÄ™ do ciebie o pomoc, prosimy o dostosowanie siÄ™ do naszych zasad.}
+{161}{}{Tak, zrobiÄ™ to tak jak sobie Å¼yczysz.}
 {162}{}{Nie. Zapomnij o tym.}
-{163}{}{Doskonale. Zobaczmy wiêc czy twoje zdolnoœci s¹ wystarczaj¹co dobre, aby zmierzyæ siê z Lo Panem.}
+{163}{}{Doskonale. Zobaczmy wiÄ™c czy twoje zdolnoÅ›ci sÄ… wystarczajÄ…co dobre, aby zmierzyÄ‡ siÄ™ z Lo Panem.}
 {164}{}{Ruszajmy.}
-{165}{}{Nie teraz. Wrócê póŸniej.}
-{166}{}{Jestem Smok, obroñca ludzi i zaprzysiêg³y wróg Lo Pana. On i ja jesteœmy ostatnimi mistrzami naszego stylu walki.}
-{167}{}{Walka wrêcz nie jest mi obca. Czy chcesz siê ze mn¹ zmierzyæ?}
-{168}{}{Interesuj¹ce. Musi ci to du¿o dawaæ. Mam wiêcej pytañ.}
-{169}{}{Dziêki. Na razie.}
-{170}{}{Za próbê zhañbienia moich ludzi muszê ciê teraz zabiæ. Przykro mi, je¿eli cierpienie podczas œmierci bêdzie du¿e.}
+{165}{}{Nie teraz. WrÃ³cÄ™ pÃ³Åºniej.}
+{166}{}{Jestem Smok, obroÅ„ca ludzi i zaprzysiÄ™gÅ‚y wrÃ³g Lo Pana. On i ja jesteÅ›my ostatnimi mistrzami naszego stylu walki.}
+{167}{}{Walka wrÄ™cz nie jest mi obca. Czy chcesz siÄ™ ze mnÄ… zmierzyÄ‡?}
+{168}{}{InteresujÄ…ce. Musi ci to duÅ¼o dawaÄ‡. Mam wiÄ™cej pytaÅ„.}
+{169}{}{DziÄ™ki. Na razie.}
+{170}{}{Za prÃ³bÄ™ zhaÅ„bienia moich ludzi muszÄ™ ciÄ™ teraz zabiÄ‡. Przykro mi, jeÅ¼eli cierpienie podczas Å›mierci bÄ™dzie duÅ¼e.}
 {171}{}{[dalej]}
-{172}{}{Nie odzywaj siê do mnie, œlepa owco Centrologów. Nie mam po¿ytku z takich jak ty.}
+{172}{}{Nie odzywaj siÄ™ do mnie, Å›lepa owco CentrologÃ³w. Nie mam poÅ¼ytku z takich jak ty.}
 {173}{}{[dalej]}
-{174}{}{Masz honor œwini i moralnoœæ lisa. Nie chcê mieæ z tob¹ do czynienia.}
+{174}{}{Masz honor Å›wini i moralnoÅ›Ä‡ lisa. Nie chcÄ™ mieÄ‡ z tobÄ… do czynienia.}
 {175}{}{[dalej]}
-{176}{}{Twoja sztuka walki jest naprawdê wspania³a. Czy bêdziesz walczyæ z Lo Panem?}
-{177}{}{Tak. Zrobiê to od razu.}
+{176}{}{Twoja sztuka walki jest naprawdÄ™ wspaniaÅ‚a. Czy bÄ™dziesz walczyÄ‡ z Lo Panem?}
+{177}{}{Tak. ZrobiÄ™ to od razu.}
 {178}{}{To nie jest moja walka.}
 {179}{}{Jasne. Ale mam pytania.}
-{180}{}{Rozumiem. Je¿eli zmienisz zdanie, wiesz gdzie go znaleŸæ. Po prostu powiedz mu, ¿e przybywasz w imieniu Smoka.}
+{180}{}{Rozumiem. JeÅ¼eli zmienisz zdanie, wiesz gdzie go znaleÅºÄ‡. Po prostu powiedz mu, Å¼e przybywasz w imieniu Smoka.}
 {181}{}{Dobra. Mam pytania.}
 {182}{}{Ee... OK. Na razie.}
-{183}{}{Niedawno wróci³em z honorowej misji. Tej nocy byliœmy silni.}
-{184}{}{Wspaniale. Mam kilka pytañ.}
+{183}{}{Niedawno wrÃ³ciÅ‚em z honorowej misji. Tej nocy byliÅ›my silni.}
+{184}{}{Wspaniale. Mam kilka pytaÅ„.}
 {185}{}{Wspaniale. Na razie.}
-{186}{}{Lo Pan nie ¿yje! Muszê ci podziêkowaæ, bez dwoch zdan. Jestem teraz pewien, ¿e wprowadzisz nasz styl walki w przysz³oœæ.}
-{187}{}{Wspaniale. Mam kilka pytañ.}
+{186}{}{Lo Pan nie Å¼yje! MuszÄ™ ci podziÄ™kowaÄ‡, bez dwoch zdan. Jestem teraz pewien, Å¼e wprowadzisz nasz styl walki w przyszÅ‚oÅ›Ä‡.}
+{187}{}{Wspaniale. Mam kilka pytaÅ„.}
 {188}{}{Wspaniale. Na razie.}
 {189}{}{Twoje kung fu nic tutaj nie da.}
-{190}{}{Któregos dnia pokonam ciê Smoku.}
-{191}{}{Bedê na ciebie czeka³, Lo Panie.}
-{200}{}{Smok wyczuwa twój ruch i twoja rêka przeœlizguje siê obok niego.}
-{201}{}{Z³odziej nie ma honoru poœrod Shi. ¯egnaj.}
-{202}{}{Ostrzega³em ciê. Teraz zap³acisz za to.}
-{203}{}{Wygl¹da na to, ¿e nie potrzebujesz ju¿ wiêcej mojego treningu.}
-{204}{}{Lekcje to coœ wiêcej ni¿ tylko ruch miêœni, Pasikoniku. Przemyœl to i wróæ jutro.}
-{205}{}{Jestem Mistrz Ziggy, twój ostateczny sprawdzian.}
-{206}{}{Jestem Zurak. Przygotuj siê.}
-{207}{}{Jestem Jimmy. Gotuj siê.}
+{190}{}{KtÃ³regos dnia pokonam ciÄ™ Smoku.}
+{191}{}{BedÄ™ na ciebie czekaÅ‚, Lo Panie.}
+{200}{}{Smok wyczuwa twÃ³j ruch i twoja rÄ™ka przeÅ›lizguje siÄ™ obok niego.}
+{201}{}{ZÅ‚odziej nie ma honoru poÅ›rod Shi. Å»egnaj.}
+{202}{}{OstrzegaÅ‚em ciÄ™. Teraz zapÅ‚acisz za to.}
+{203}{}{WyglÄ…da na to, Å¼e nie potrzebujesz juÅ¼ wiÄ™cej mojego treningu.}
+{204}{}{Lekcje to coÅ› wiÄ™cej niÅ¼ tylko ruch miÄ™Å›ni, Pasikoniku. PrzemyÅ›l to i wrÃ³Ä‡ jutro.}
+{205}{}{Jestem Mistrz Ziggy, twÃ³j ostateczny sprawdzian.}
+{206}{}{Jestem Zurak. Przygotuj siÄ™.}
+{207}{}{Jestem Jimmy. Gotuj siÄ™.}
 {208}{}{Jestem Herb. Dalej nie przejdziesz.}
-{209}{}{Jestem Jobe. Czas ciê pokonaæ.}
-{210}{}{Jestem Mistrz Rube. Koniec z tob¹.}
-{211}{}{Walczyæ!}
-{212}{}{Wci¹¿ musisz trenowaæ.}
+{209}{}{Jestem Jobe. Czas ciÄ™ pokonaÄ‡.}
+{210}{}{Jestem Mistrz Rube. Koniec z tobÄ….}
+{211}{}{WalczyÄ‡!}
+{212}{}{WciÄ…Å¼ musisz trenowaÄ‡.}
 {213}{}{Poszli!}
-{214}{}{Smok zosta³ pokonany w walce na œmieræ i ¿ycie. Mimo ¿e by³a to uczciwa walka, jego strata bêdzie odczuwana przez wielu.}
-{215}{}{Moi ludzie zostali pokonani, test zosta³ zdany. Teraz mo¿esz walczyæ z Lo Panem.}
-{216}{}{Twoje zdolnoœci mog¹ byæ rozwijane ju¿ tylko poprzez ich u¿ywanie. Nie mogê ci ju¿ wiêcej pomóc w treningu.}
+{214}{}{Smok zostaÅ‚ pokonany w walce na Å›mierÄ‡ i Å¼ycie. Mimo Å¼e byÅ‚a to uczciwa walka, jego strata bÄ™dzie odczuwana przez wielu.}
+{215}{}{Moi ludzie zostali pokonani, test zostaÅ‚ zdany. Teraz moÅ¼esz walczyÄ‡ z Lo Panem.}
+{216}{}{Twoje zdolnoÅ›ci mogÄ… byÄ‡ rozwijane juÅ¼ tylko poprzez ich uÅ¼ywanie. Nie mogÄ™ ci juÅ¼ wiÄ™cej pomÃ³c w treningu.}
 {217}{}{Zaczynajmy. Powtarzaj moje ruchy.}
-{218}{}{Trening na dzisiaj zakoñczony.}
-{219}{}{Smok jest bardzo dobry, ale u ciebie nauka równie¿ nie posz³a w las.}
-{220}{}{Moi ludzie zostali ju¿ pokonani. Nikt wiêcej nie chce siê z tob¹ zmierzyæ.}
-{221}{}{Pomimo tego, ¿e niê by³o ci o tym wiadomo, nasza sprawa zosta³a umocniona poprzez usuniêcie Lo Pana. Masz nasze podziêkowania.}
-{222}{}{Ca³a przyjemnoœæ po mojej stronie. Do zobaczenia.}
+{218}{}{Trening na dzisiaj zakoÅ„czony.}
+{219}{}{Smok jest bardzo dobry, ale u ciebie nauka rÃ³wnieÅ¼ nie poszÅ‚a w las.}
+{220}{}{Moi ludzie zostali juÅ¼ pokonani. Nikt wiÄ™cej nie chce siÄ™ z tobÄ… zmierzyÄ‡.}
+{221}{}{Pomimo tego, Å¼e niÄ™ byÅ‚o ci o tym wiadomo, nasza sprawa zostaÅ‚a umocniona poprzez usuniÄ™cie Lo Pana. Masz nasze podziÄ™kowania.}
+{222}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie. Do zobaczenia.}
 {223}{}{Nie ma za co. Na razie.}
-{224}{}{Nie ma za co. Czy mogê zadaæ ci pytanie?}
-{225}{}{Za ma co nie. Moja pytaæ?}
+{224}{}{Nie ma za co. Czy mogÄ™ zadaÄ‡ ci pytanie?}
+{225}{}{Za ma co nie. Moja pytaÄ‡?}
 {226}{}{Wygrywasz!}
 {227}{}{Przegrywasz!}
-{228}{}{Nastêpny przeciwnik!}
-{230}{}{Najpierw musisz udowodniæ, ¿e mo¿esz to zrobiæ. Zmierzysz siê z moimi piêcioma ludŸmi - po jednym na raz. Je¿eli ich pokonasz, przyst¹pisz do ostatniej próby.}
+{228}{}{NastÄ™pny przeciwnik!}
+{230}{}{Najpierw musisz udowodniÄ‡, Å¼e moÅ¼esz to zrobiÄ‡. Zmierzysz siÄ™ z moimi piÄ™cioma ludÅºmi - po jednym na raz. JeÅ¼eli ich pokonasz, przystÄ…pisz do ostatniej prÃ³by.}
 {231}{}{To znaczy?}
-{232}{}{Za du¿o zachodu. ¯egnaj.}
-{233}{}{Skromnie mówi¹c, sam wyprobujê twoje mo¿liwoœci. Jednak¿e ¿adna z tych walk nie bêdzie na œmieræ i ¿ycie.}
-{234}{}{Dobrze, zróbmy tak.}
-{235}{}{Sam mo¿esz zaj¹æ siê Lo Panem.}
-{236}{}{(Smok ogl¹da ciê) Z przykroœci¹ to mówiê, ale nie mogê pozwoliæ, aby ktoœ na twoim poziomie umiejêtnoœci zrobi³ sobie krzywdê.}
-{237}{}{Dobra, ale czy mogê ciê spytaæ o coœ innego?}
-{238}{}{W porz¹dku. Na razie.}
+{232}{}{Za duÅ¼o zachodu. Å»egnaj.}
+{233}{}{Skromnie mÃ³wiÄ…c, sam wyprobujÄ™ twoje moÅ¼liwoÅ›ci. JednakÅ¼e Å¼adna z tych walk nie bÄ™dzie na Å›mierÄ‡ i Å¼ycie.}
+{234}{}{Dobrze, zrÃ³bmy tak.}
+{235}{}{Sam moÅ¼esz zajÄ…Ä‡ siÄ™ Lo Panem.}
+{236}{}{(Smok oglÄ…da ciÄ™) Z przykroÅ›ciÄ… to mÃ³wiÄ™, ale nie mogÄ™ pozwoliÄ‡, aby ktoÅ› na twoim poziomie umiejÄ™tnoÅ›ci zrobiÅ‚ sobie krzywdÄ™.}
+{237}{}{Dobra, ale czy mogÄ™ ciÄ™ spytaÄ‡ o coÅ› innego?}
+{238}{}{W porzÄ…dku. Na razie.}

@@ -1,72 +1,72 @@
-{100}{}{Widzisz pulchnego handlarza z opask¹ na oku.}
-{101}{}{Jedno-Oki Roy przygl¹da ci siê uwa¿nie swoim dobrym okiem ocieraj¹c pot z czo³a.}
-{200}{}{[Kiedy ty i Krom zbli¿acie siê do miejsca spotkania, wita was pulchny handlarz z opask¹ na oku i ma³¹ œwit¹ ochroniarzy. Handlarz mimo, ¿e poci siê obficie, wydaje siê naprawdê radosny.]}
+{100}{}{Widzisz pulchnego handlarza z opaskÄ… na oku.}
+{101}{}{Jedno-Oki Roy przyglÄ…da ci siÄ™ uwaÅ¼nie swoim dobrym okiem ocierajÄ…c pot z czoÅ‚a.}
+{200}{}{[Kiedy ty i Krom zbliÅ¼acie siÄ™ do miejsca spotkania, wita was pulchny handlarz z opaskÄ… na oku i maÅ‚Ä… Å›witÄ… ochroniarzy. Handlarz mimo, Å¼e poci siÄ™ obficie, wydaje siÄ™ naprawdÄ™ radosny.]}
 {201}{}{[KONTYNUUJ]}
-{202}{}{[Handlarz po entuzjastycznym powitaniu Kroma, odwraca siê do ciebie i zaczyna ci siê przygl¹daæ. Mimo, ¿e jego uœmiech nigdy nie znika, jego sonduj¹ce oko zdradza cieñ podejrzliwoœci.] Krom mówi, ¿e dzisiaj to z tob¹ bêdê robi³ interesy. [Wzrusza ramionami.] Ludziska nazywaj¹ mnie Jedno-Oki Roy, ale za cholerê nie wiem dlaczego. [Œmieje siê serdecznie ze swojego ¿artu.] Jakie jest twoje imiê, przyjacielu?}
+{202}{}{[Handlarz po entuzjastycznym powitaniu Kroma, odwraca siÄ™ do ciebie i zaczyna ci siÄ™ przyglÄ…daÄ‡. Mimo, Å¼e jego uÅ›miech nigdy nie znika, jego sondujÄ…ce oko zdradza cieÅ„ podejrzliwoÅ›ci.] Krom mÃ³wi, Å¼e dzisiaj to z tobÄ… bÄ™dÄ™ robiÅ‚ interesy. [Wzrusza ramionami.] Ludziska nazywajÄ… mnie Jedno-Oki Roy, ale za cholerÄ™ nie wiem dlaczego. [Åšmieje siÄ™ serdecznie ze swojego Å¼artu.] Jakie jest twoje imiÄ™, przyjacielu?}
 {203}{}{Jestem }
 {204}{}{ z Arroyo.}
-{205}{}{. A teraz, bierzmy siê do tego.}
-{210}{}{Na prawdê mi³o ciê poznaæ, }
-{211}{}{. Wybacz moj¹ œmia³oœæ, ale nieco dziwny z ciebie plemienny.}
-{212}{}{Nie jestem typowym plemiennym. Tak naprawdê, jestem Dzieckiem Przeznaczenia.}
-{213}{}{Nie wiem co masz na myœli. Jestem typowym Jasiem Plemiennym. Nie ma we mnie nic niezwyk³ego.}
-{214}{}{A, to przez to co noszê? Widzisz, Staram siê ustanowiæ nowy trend w modzie plemiennej. Mam doœæ wiecznie tych samych portek ze skóry braminy z paskiem przez klatkê. To wygl¹da *tak* 2240.}
-{215}{}{Kogo nazywasz “dziwnym”, ty t³usty jednooki matkojebco? [Atakujesz.]}
-{220}{}{[Jego uœmiech nieco blednie. Przytakuje.] Dobra, no to do interesów. Powiedzcie mi, przyjaciele, czy s³yszeliœcie  kiedykolwiek o ma³ym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadaj¹c ostatnie s³owo, wyci¹ga z kieszeni stimpak i trzyma go w górze jak cudowny artefakt.]}
-{230}{}{[Otwiera szeroko oczy i cicho gwi¿d¿e.] Dziecko Przeznaczenia, co? Có¿ wyobraŸ sobie, ¿e jestem pod wra¿eniem. A teraz zabierzmy siê do interesów. Powiedzcie mi, przyjaciele, czy s³yszeliœcie  kiedykolwiek o ma³ym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadaj¹c ostatnie s³owo, wyci¹ga z kieszeni stimpak i trzyma go w górze jak cudowny artefakt.]}
-{240}{}{Cokolwiek powiesz, przyjacielu. A teraz bierzmy siê do interesów, dobrze? Czy s³yszeliœcie  kiedykolwiek o ma³ym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadaj¹c ostatnie s³owo, wyci¹ga z kieszeni stimpak i trzyma go w górze jak cudowny artefakt.]}
-{241}{}{Yyy, tak. WyobraŸ sobie, s¹ doœæ pospolite.}
-{242}{}{Oczywiœcie. Wrêcz je zbieram. Cholera, dla mnie to praktycznie stimpakowe uzale¿nienie.}
-{243}{}{[Krêcisz g³ow¹ i patrzysz na stimpak w zadumie.] Co to... stim-pak?}
-{250}{}{[Œmieje siê nerwowo.] Nie powiedzia³bym, ¿e s¹ *pospolite*, ale na pewno s¹ po¿¹dane przez nas cywilizowanych ludzi. [Patrzy na Kroma.] I nie bez powodu. Widzisz, te maleñstwa zawieraj¹ magiczn¹ moc uzdrawiania która wprawi ciê w *zdumienie* i *os³upienie*. Oczywiœcie, s³owa to ¿aden dowód, wiêc pozwólcie, ¿e zaprezentujê wam cudowne dzia³anie stimpaka.}
-{251}{}{[Jego oko momentalnie sztywnieje, ale szybko odzyskuje spokój i patrzy na Kroma.] Widzisz, te maleñstwa zawieraj¹ magiczn¹ moc uzdrawiania która wprawi ciê w *zdumienie* i *os³upienie*. Oczywiœcie, s³owa to ¿aden dowód, wiêc pozwólcie, ¿e zaprezentujê wam cudowne dzia³anie stimpaka.}
-{252}{}{Doskona³e pytanie mój przyjacielu! Stimpaki s¹ jednym ze wspania³ych cudów pozostawionych nam przez Stary Œwiat. Widzisz, te maleñstwa zawieraj¹ magiczn¹ moc uzdrawiania która wprawi was w *zdumienie* i *os³upienie*. Oczywiœcie, s³owa to ¿aden dowód, wiêc pozwólcie, ¿e zaprezentujê wam cudowne dzia³anie stimpaka.}
-{253}{}{To powinno byæ ciekawe. Zobaczmy.}
-{254}{}{Ju¿ wiem jak dzia³aj¹, czêsto ich u¿ywam.}
-{260}{}{[Uœmiecha siê do ciebie i Kroma, potem odwraca siê do jednego ze swoich ochroniarzy.] Warren, daj mi swoj¹ rêkê. [Ochroniarz marszczy brwi, ale robi co mu kaza³. Roy szybko wyci¹ga nó¿ i tnie Warrena po wierzchu rêki. Warren krzywi siê z bólu, ale nie krzyczy. Roy uœmiecha siê do ciebie.] Jak widzicie, Warren ma tutaj paskudne rozciêcie.}
+{205}{}{. A teraz, bierzmy siÄ™ do tego.}
+{210}{}{Na prawdÄ™ miÅ‚o ciÄ™ poznaÄ‡, }
+{211}{}{. Wybacz mojÄ… Å›miaÅ‚oÅ›Ä‡, ale nieco dziwny z ciebie plemienny.}
+{212}{}{Nie jestem typowym plemiennym. Tak naprawdÄ™, jestem Dzieckiem Przeznaczenia.}
+{213}{}{Nie wiem co masz na myÅ›li. Jestem typowym Jasiem Plemiennym. Nie ma we mnie nic niezwykÅ‚ego.}
+{214}{}{A, to przez to co noszÄ™? Widzisz, Staram siÄ™ ustanowiÄ‡ nowy trend w modzie plemiennej. Mam doÅ›Ä‡ wiecznie tych samych portek ze skÃ³ry braminy z paskiem przez klatkÄ™. To wyglÄ…da *tak* 2240.}
+{215}{}{Kogo nazywasz â€œdziwnymâ€, ty tÅ‚usty jednooki matkojebco? [Atakujesz.]}
+{220}{}{[Jego uÅ›miech nieco blednie. Przytakuje.] Dobra, no to do interesÃ³w. Powiedzcie mi, przyjaciele, czy sÅ‚yszeliÅ›cie  kiedykolwiek o maÅ‚ym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadajÄ…c ostatnie sÅ‚owo, wyciÄ…ga z kieszeni stimpak i trzyma go w gÃ³rze jak cudowny artefakt.]}
+{230}{}{[Otwiera szeroko oczy i cicho gwiÅ¼dÅ¼e.] Dziecko Przeznaczenia, co? CÃ³Å¼ wyobraÅº sobie, Å¼e jestem pod wraÅ¼eniem. A teraz zabierzmy siÄ™ do interesÃ³w. Powiedzcie mi, przyjaciele, czy sÅ‚yszeliÅ›cie  kiedykolwiek o maÅ‚ym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadajÄ…c ostatnie sÅ‚owo, wyciÄ…ga z kieszeni stimpak i trzyma go w gÃ³rze jak cudowny artefakt.]}
+{240}{}{Cokolwiek powiesz, przyjacielu. A teraz bierzmy siÄ™ do interesÃ³w, dobrze? Czy sÅ‚yszeliÅ›cie  kiedykolwiek o maÅ‚ym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadajÄ…c ostatnie sÅ‚owo, wyciÄ…ga z kieszeni stimpak i trzyma go w gÃ³rze jak cudowny artefakt.]}
+{241}{}{Yyy, tak. WyobraÅº sobie, sÄ… doÅ›Ä‡ pospolite.}
+{242}{}{OczywiÅ›cie. WrÄ™cz je zbieram. Cholera, dla mnie to praktycznie stimpakowe uzaleÅ¼nienie.}
+{243}{}{[KrÄ™cisz gÅ‚owÄ… i patrzysz na stimpak w zadumie.] Co to... stim-pak?}
+{250}{}{[Åšmieje siÄ™ nerwowo.] Nie powiedziaÅ‚bym, Å¼e sÄ… *pospolite*, ale na pewno sÄ… poÅ¼Ä…dane przez nas cywilizowanych ludzi. [Patrzy na Kroma.] I nie bez powodu. Widzisz, te maleÅ„stwa zawierajÄ… magicznÄ… moc uzdrawiania ktÃ³ra wprawi ciÄ™ w *zdumienie* i *osÅ‚upienie*. OczywiÅ›cie, sÅ‚owa to Å¼aden dowÃ³d, wiÄ™c pozwÃ³lcie, Å¼e zaprezentujÄ™ wam cudowne dziaÅ‚anie stimpaka.}
+{251}{}{[Jego oko momentalnie sztywnieje, ale szybko odzyskuje spokÃ³j i patrzy na Kroma.] Widzisz, te maleÅ„stwa zawierajÄ… magicznÄ… moc uzdrawiania ktÃ³ra wprawi ciÄ™ w *zdumienie* i *osÅ‚upienie*. OczywiÅ›cie, sÅ‚owa to Å¼aden dowÃ³d, wiÄ™c pozwÃ³lcie, Å¼e zaprezentujÄ™ wam cudowne dziaÅ‚anie stimpaka.}
+{252}{}{DoskonaÅ‚e pytanie mÃ³j przyjacielu! Stimpaki sÄ… jednym ze wspaniaÅ‚ych cudÃ³w pozostawionych nam przez Stary Åšwiat. Widzisz, te maleÅ„stwa zawierajÄ… magicznÄ… moc uzdrawiania ktÃ³ra wprawi was w *zdumienie* i *osÅ‚upienie*. OczywiÅ›cie, sÅ‚owa to Å¼aden dowÃ³d, wiÄ™c pozwÃ³lcie, Å¼e zaprezentujÄ™ wam cudowne dziaÅ‚anie stimpaka.}
+{253}{}{To powinno byÄ‡ ciekawe. Zobaczmy.}
+{254}{}{JuÅ¼ wiem jak dziaÅ‚ajÄ…, czÄ™sto ich uÅ¼ywam.}
+{260}{}{[UÅ›miecha siÄ™ do ciebie i Kroma, potem odwraca siÄ™ do jednego ze swoich ochroniarzy.] Warren, daj mi swojÄ… rÄ™kÄ™. [Ochroniarz marszczy brwi, ale robi co mu kazaÅ‚. Roy szybko wyciÄ…ga nÃ³Å¼ i tnie Warrena po wierzchu rÄ™ki. Warren krzywi siÄ™ z bÃ³lu, ale nie krzyczy. Roy uÅ›miecha siÄ™ do ciebie.] Jak widzicie, Warren ma tutaj paskudne rozciÄ™cie.}
 {261}{}{[KONTYNUUJ]}
-{262}{}{Zapewniam was przyjaciele, rozciêcie i ból Warrena, s¹ bardzo prawdziwe. Widzicie to, nie jest ¿adne oszukane ostrze. [Podaje nó¿ Kromowi, który ledwie na niego zerka, przytakuje i mu go oddaje.] A teraz, patrzcie. [Wstrzykuje zawartoœæ stimpaka w ramie Warrena. Krwawienie ustêpuje, niemal natychmiast. Roy u¿ywa brudnej szmaty do starcia wiêkszoœci krwi, ods³aniaj¹c prawie ju¿ zagojone rozciêcie.]}
+{262}{}{Zapewniam was przyjaciele, rozciÄ™cie i bÃ³l Warrena, sÄ… bardzo prawdziwe. Widzicie to, nie jest Å¼adne oszukane ostrze. [Podaje nÃ³Å¼ Kromowi, ktÃ³ry ledwie na niego zerka, przytakuje i mu go oddaje.] A teraz, patrzcie. [Wstrzykuje zawartoÅ›Ä‡ stimpaka w ramie Warrena. Krwawienie ustÄ™puje, niemal natychmiast. Roy uÅ¼ywa brudnej szmaty do starcia wiÄ™kszoÅ›ci krwi, odsÅ‚aniajÄ…c prawie juÅ¼ zagojone rozciÄ™cie.]}
 {263}{}{[KONTYNUUJ]}
-{264}{}{A teraz wyobraŸcie sobie jak¹ przewagê nad wrogimi plemionami daje wam posiadanie stimpaków. I w przeciwieñstwie do leczniczego proszku który wy lubicie przyrz¹dzaæ, stimpaki *nie* powoduj¹ sennoœci. W³aœciwie, te ma³e cudeñka pozbawione s¹ *wszelkich* efektów ubocznych. Ale wiem co sobie myœlicie, musz¹ kosztowaæ fortunê, prawda? B³¹d. Poniewa¿ was *lubiê*, praktycznie oddaje je za nic.}
-{270}{}{[Ignoruje twój komentarz, uœmiecha siê do Kroma, a potem odwraca siê do jednego ze swoich ochroniarzy.] Warren, daj mi swoj¹ rêkê. [Ochroniarz marszczy brwi, ale robi co mu kaza³. Roy szybko wyci¹ga nó¿ i tnie Warrena po wierzchu rêki. Warren krzywi siê z bólu, ale nie krzyczy.] Jak widzicie, Warren ma tutaj paskudne rozciêcie.}
+{264}{}{A teraz wyobraÅºcie sobie jakÄ… przewagÄ™ nad wrogimi plemionami daje wam posiadanie stimpakÃ³w. I w przeciwieÅ„stwie do leczniczego proszku ktÃ³ry wy lubicie przyrzÄ…dzaÄ‡, stimpaki *nie* powodujÄ… sennoÅ›ci. WÅ‚aÅ›ciwie, te maÅ‚e cudeÅ„ka pozbawione sÄ… *wszelkich* efektÃ³w ubocznych. Ale wiem co sobie myÅ›licie, muszÄ… kosztowaÄ‡ fortunÄ™, prawda? BÅ‚Ä…d. PoniewaÅ¼ was *lubiÄ™*, praktycznie oddaje je za nic.}
+{270}{}{[Ignoruje twÃ³j komentarz, uÅ›miecha siÄ™ do Kroma, a potem odwraca siÄ™ do jednego ze swoich ochroniarzy.] Warren, daj mi swojÄ… rÄ™kÄ™. [Ochroniarz marszczy brwi, ale robi co mu kazaÅ‚. Roy szybko wyciÄ…ga nÃ³Å¼ i tnie Warrena po wierzchu rÄ™ki. Warren krzywi siÄ™ z bÃ³lu, ale nie krzyczy.] Jak widzicie, Warren ma tutaj paskudne rozciÄ™cie.}
 {275}{}{Ile?}
 {276}{}{Praktycznie je oddajesz? Pytam ile?}
-{280}{}{Dam ci ca³¹, pe³n¹ ich skrzynkê, czyli *piêædziesi¹t* stimpaków - a wszystko o co proszê w zamian to nêdznych *dwadzieœcia* skórek z³otych gekonów. Takiej oferty nie da siê przebiæ.}
-{281}{}{[Do Kroma.] Ma racjê, to dobry interes. W³aœciwie, to œwietny. [Do Roya.] Bierzemy.}
+{280}{}{Dam ci caÅ‚Ä…, peÅ‚nÄ… ich skrzynkÄ™, czyli *piÄ™Ä‡dziesiÄ…t* stimpakÃ³w - a wszystko o co proszÄ™ w zamian to nÄ™dznych *dwadzieÅ›cia* skÃ³rek zÅ‚otych gekonÃ³w. Takiej oferty nie da siÄ™ przebiÄ‡.}
+{281}{}{[Do Kroma.] Ma racjÄ™, to dobry interes. WÅ‚aÅ›ciwie, to Å›wietny. [Do Roya.] Bierzemy.}
 {282}{}{To dobra wymiana. Za dobra. W czym haczyk?}
-{283}{}{Oferujemy dziesiêæ skór z³otych gekonów. Nie wiêcej.}
-{284}{}{Pozwól mi to chwilê przemyœleæ.}
+{283}{}{Oferujemy dziesiÄ™Ä‡ skÃ³r zÅ‚otych gekonÃ³w. Nie wiÄ™cej.}
+{284}{}{PozwÃ³l mi to chwilÄ™ przemyÅ›leÄ‡.}
 {285}{}{Nie ma szans.}
-{290}{}{[Twarz Roya siê rozpromienia.] Doskona³y wybór! Umowa stoi. [Wymiana przedmiotów przebiega szybko, potem Roy œpieszy dalej do swojego nastêpnego postoju.]}
-{300}{}{[Roy rozeœmia³ siê i popatrzy³ na swoich ochroniarzy zanim zwróci³ swoje oczy z powrotem na ciebie.] S³uchaj, pojedynczy stimpak jest wart du¿o wiêcej ni¿ pojedyncza z³ota skórka. Wiêc rozumiesz, ju¿ teraz oferujê je po skandalicznie du¿ym upuœcie. Wymagaæ ode mnie wiêcej by³oby rozbojem. Dwadzieœcia skórek, albo ruszam dalej do rozs¹dniejszego plemienia.}
-{301}{}{W porz¹dku. Bierzemy.}
-{302}{}{No to lepiej ju¿ ruszaj. Nie bierzemy.}
-{303}{}{Pozwól mi to chwilê przemyœleæ.}
-{305}{}{[Roy marszczy brwi i drapie siê po brudnym karku. W koñcu, pozwala sobie na d³ugie westchnienie.] Dobijasz mnie, wiesz? Ale jako przys³ugê dla waszego plemienia, przyjmuje wasz¹ ofertê. [Wymiana przedmiotów przebiega szybko, potem Roy œpieszy dalej do swojego nastêpnego postoju.]}
-{310}{}{[Marszczy brwi.] Nie wiem jaki idiota odrzuca tak¹ ofertê. [Krêci g³ow¹ i odwraca siê do swoich ludzi.] Dobra, ruszajmy. [Spogl¹da znowu na ciebie.] I chuj ci w dupê za marnowanie mojego czasu.}
-{311}{}{[Pozwól im odejœæ.]}
+{290}{}{[Twarz Roya siÄ™ rozpromienia.] DoskonaÅ‚y wybÃ³r! Umowa stoi. [Wymiana przedmiotÃ³w przebiega szybko, potem Roy Å›pieszy dalej do swojego nastÄ™pnego postoju.]}
+{300}{}{[Roy rozeÅ›miaÅ‚ siÄ™ i popatrzyÅ‚ na swoich ochroniarzy zanim zwrÃ³ciÅ‚ swoje oczy z powrotem na ciebie.] SÅ‚uchaj, pojedynczy stimpak jest wart duÅ¼o wiÄ™cej niÅ¼ pojedyncza zÅ‚ota skÃ³rka. WiÄ™c rozumiesz, juÅ¼ teraz oferujÄ™ je po skandalicznie duÅ¼ym upuÅ›cie. WymagaÄ‡ ode mnie wiÄ™cej byÅ‚oby rozbojem. DwadzieÅ›cia skÃ³rek, albo ruszam dalej do rozsÄ…dniejszego plemienia.}
+{301}{}{W porzÄ…dku. Bierzemy.}
+{302}{}{No to lepiej juÅ¼ ruszaj. Nie bierzemy.}
+{303}{}{PozwÃ³l mi to chwilÄ™ przemyÅ›leÄ‡.}
+{305}{}{[Roy marszczy brwi i drapie siÄ™ po brudnym karku. W koÅ„cu, pozwala sobie na dÅ‚ugie westchnienie.] Dobijasz mnie, wiesz? Ale jako przysÅ‚ugÄ™ dla waszego plemienia, przyjmuje waszÄ… ofertÄ™. [Wymiana przedmiotÃ³w przebiega szybko, potem Roy Å›pieszy dalej do swojego nastÄ™pnego postoju.]}
+{310}{}{[Marszczy brwi.] Nie wiem jaki idiota odrzuca takÄ… ofertÄ™. [KrÄ™ci gÅ‚owÄ… i odwraca siÄ™ do swoich ludzi.] Dobra, ruszajmy. [SpoglÄ…da znowu na ciebie.] I chuj ci w dupÄ™ za marnowanie mojego czasu.}
+{311}{}{[PozwÃ³l im odejÅ›Ä‡.]}
 {312}{}{[Zaatakuj]}
-{320}{}{¯adnego haczyka, mój przyjacielu. Po prostu mam ju¿ wszystkie stimpaki jakie kiedykolwiek bêdê potrzebowa³, wiêc pozbywam siê nadmiaru mojego zapasu. Z³otych skórek, z drugiej strony... nigdy nie bêdê mia³ doœæ. Jasne, piêædziesi¹t stimpaków jest wartych du¿o wiêcej ni¿ marnych dwadzieœcia skórek z³otych gekonów, ale jestem realist¹. Nie mogê siê spodziewaæ, ¿e wasze plemiê - sk¹din¹d zdolnych myœliwych bêdzie mia³o sto skórek z³otych gekonów na zbyciu, wiêc z³o¿y³em rozs¹dniejsz¹ ofertê. I *dlatego* to taka dobra wymiana.}
-{321}{}{[Do Kroma.] Ma racjê, to dobry interes. W³aœciwie, to œwietny. [Do Roya.] Bierzemy.}
-{322}{}{Zanim na cokolwiek siê zgodzimy, chcê obejrzeæ resztê towaru.}
-{330}{}{[Jego oko nieco siê zwêzi³o, a potem uœmiechn¹³ siê.] Oczywiœcie. S¹ w tej skrzynce obok mnie.}
+{320}{}{Å»adnego haczyka, mÃ³j przyjacielu. Po prostu mam juÅ¼ wszystkie stimpaki jakie kiedykolwiek bÄ™dÄ™ potrzebowaÅ‚, wiÄ™c pozbywam siÄ™ nadmiaru mojego zapasu. ZÅ‚otych skÃ³rek, z drugiej strony... nigdy nie bÄ™dÄ™ miaÅ‚ doÅ›Ä‡. Jasne, piÄ™Ä‡dziesiÄ…t stimpakÃ³w jest wartych duÅ¼o wiÄ™cej niÅ¼ marnych dwadzieÅ›cia skÃ³rek zÅ‚otych gekonÃ³w, ale jestem realistÄ…. Nie mogÄ™ siÄ™ spodziewaÄ‡, Å¼e wasze plemiÄ™ - skÄ…dinÄ…d zdolnych myÅ›liwych bÄ™dzie miaÅ‚o sto skÃ³rek zÅ‚otych gekonÃ³w na zbyciu, wiÄ™c zÅ‚oÅ¼yÅ‚em rozsÄ…dniejszÄ… ofertÄ™. I *dlatego* to taka dobra wymiana.}
+{321}{}{[Do Kroma.] Ma racjÄ™, to dobry interes. WÅ‚aÅ›ciwie, to Å›wietny. [Do Roya.] Bierzemy.}
+{322}{}{Zanim na cokolwiek siÄ™ zgodzimy, chcÄ™ obejrzeÄ‡ resztÄ™ towaru.}
+{330}{}{[Jego oko nieco siÄ™ zwÄ™ziÅ‚o, a potem uÅ›miechnÄ…Å‚ siÄ™.] OczywiÅ›cie. SÄ… w tej skrzynce obok mnie.}
 {331}{}{[dalej]}
-{340}{}{Dobrze, ale niech ci to nie zajmie za d³ugo. Mamy jeszcze jeden przystanek do zrobienia przed zmierzchem.}
-{350}{}{Dobra, koñcz tê zabawê jeœli mo¿esz i bie¿my siê do roboty. Jestem zajêtym cz³owiekiem.}
-{351}{}{W porz¹dku. Przyjmujemy ofertê.}
+{340}{}{Dobrze, ale niech ci to nie zajmie za dÅ‚ugo. Mamy jeszcze jeden przystanek do zrobienia przed zmierzchem.}
+{350}{}{Dobra, koÅ„cz tÄ™ zabawÄ™ jeÅ›li moÅ¼esz i bieÅ¼my siÄ™ do roboty. Jestem zajÄ™tym czÅ‚owiekiem.}
+{351}{}{W porzÄ…dku. Przyjmujemy ofertÄ™.}
 {352}{}{Nie ma szans.}
-{353}{}{Muszê to jeszcze chwilê przemyœleæ.}
-{354}{}{Mam dla ciebie nowa ofertê: ty dasz nam stimpaki, a my pozwolimy ci zachowaæ ¿ycie.}
-{360}{}{Taki zajêty jesteœ, co? Jesteœ te¿ k³amc¹ i oszustem.}
-{361}{}{Te stimpaki to podróbka. To tylko strzykawki do iniekcji podskórnej wype³nione krwi¹ braminy. Próbowa³eœ oszukaæ to plemiê.}
-{362}{}{Muszê to jeszcze chwilê przemyœleæ.}
-{363}{}{W porz¹dku. Przyjmujemy ofertê.}
-{370}{}{[Krêc¹c siê niepewnie, zerkn¹³ nerwowo na Kroma.] O-o czym ty mówisz?}
-{371}{}{Te stimpaki to podróbka. To tylko strzykawki do iniekcji podskórnych wype³nione krwi¹ braminy. Próbowa³eœ oszukaæ to plemiê.}
-{372}{}{Co? to niemo¿liwe. Widzieliœcie demonstracjê. Dzia³aj¹ jak nale¿y. Nie bêdê tu tak sta³ i pozwala³ ci niszczyæ moje dobre imiê.}
-{373}{}{Oczywiœcie, stimpak którego u¿y³eœ do demonstracji by³ prawdziwy. Ale chce zobaczyæ jak próbujesz tego samego, u¿ywaj¹c stimpaka ze skrzynki.}
-{374}{}{Pieprzyæ twoje dobre imiê. Na nic ci siê nie przyda jak z tob¹ skoñczê. [Zaatakuj.]}
-{380}{}{[Z pogard¹.] Dobra! W porz¹dku! Skoro mówisz, ¿e s¹ fa³szywe, to mo¿e i s¹. Sk¹d mam wiedzieæ? Przecie¿ nie zrobi³em tych pieprzonych rzeczy, kupi³em je. Wiêc to *Ja* tutaj jestem oszukanym, a nie ty. A teraz, skoro nici z wymiany, to nie zamierzam tu d³u¿ej marnowaæ mojego czasu. Czeœæ.}
-{381}{}{[Pozwól im odejœæ.]}
+{353}{}{MuszÄ™ to jeszcze chwilÄ™ przemyÅ›leÄ‡.}
+{354}{}{Mam dla ciebie nowa ofertÄ™: ty dasz nam stimpaki, a my pozwolimy ci zachowaÄ‡ Å¼ycie.}
+{360}{}{Taki zajÄ™ty jesteÅ›, co? JesteÅ› teÅ¼ kÅ‚amcÄ… i oszustem.}
+{361}{}{Te stimpaki to podrÃ³bka. To tylko strzykawki do iniekcji podskÃ³rnej wypeÅ‚nione krwiÄ… braminy. PrÃ³bowaÅ‚eÅ› oszukaÄ‡ to plemiÄ™.}
+{362}{}{MuszÄ™ to jeszcze chwilÄ™ przemyÅ›leÄ‡.}
+{363}{}{W porzÄ…dku. Przyjmujemy ofertÄ™.}
+{370}{}{[KrÄ™cÄ…c siÄ™ niepewnie, zerknÄ…Å‚ nerwowo na Kroma.] O-o czym ty mÃ³wisz?}
+{371}{}{Te stimpaki to podrÃ³bka. To tylko strzykawki do iniekcji podskÃ³rnych wypeÅ‚nione krwiÄ… braminy. PrÃ³bowaÅ‚eÅ› oszukaÄ‡ to plemiÄ™.}
+{372}{}{Co? to niemoÅ¼liwe. WidzieliÅ›cie demonstracjÄ™. DziaÅ‚ajÄ… jak naleÅ¼y. Nie bÄ™dÄ™ tu tak staÅ‚ i pozwalaÅ‚ ci niszczyÄ‡ moje dobre imiÄ™.}
+{373}{}{OczywiÅ›cie, stimpak ktÃ³rego uÅ¼yÅ‚eÅ› do demonstracji byÅ‚ prawdziwy. Ale chce zobaczyÄ‡ jak prÃ³bujesz tego samego, uÅ¼ywajÄ…c stimpaka ze skrzynki.}
+{374}{}{PieprzyÄ‡ twoje dobre imiÄ™. Na nic ci siÄ™ nie przyda jak z tobÄ… skoÅ„czÄ™. [Zaatakuj.]}
+{380}{}{[Z pogardÄ….] Dobra! W porzÄ…dku! Skoro mÃ³wisz, Å¼e sÄ… faÅ‚szywe, to moÅ¼e i sÄ…. SkÄ…d mam wiedzieÄ‡? PrzecieÅ¼ nie zrobiÅ‚em tych pieprzonych rzeczy, kupiÅ‚em je. WiÄ™c to *Ja* tutaj jestem oszukanym, a nie ty. A teraz, skoro nici z wymiany, to nie zamierzam tu dÅ‚uÅ¼ej marnowaÄ‡ mojego czasu. CzeÅ›Ä‡.}
+{381}{}{[PozwÃ³l im odejÅ›Ä‡.]}
 {382}{}{[Zaatakuj]}
-{390}{}{Kim ty kurwa myœlisz, ¿e jesteœ? [Do swoich ochroniarzy.] Zabijcie tych przeklêtych dzikusów!}
+{390}{}{Kim ty kurwa myÅ›lisz, Å¼e jesteÅ›? [Do swoich ochroniarzy.] Zabijcie tych przeklÄ™tych dzikusÃ³w!}

@@ -1,9 +1,9 @@
 {100}{}{Das ist unser Gebiet.}
-{101}{}{Du bist hier unerwünscht.}
+{101}{}{Du bist hier unerwÃ¼nscht.}
 {102}{}{Ich glaub, du musst Zoll zahlen.}
 {103}{}{Normalerweise betreiben wir keine Leichenfledderei an Lebenden.}
-{104}{}{Das gefällt mir, was du da so alles hast.}
-{105}{}{Dafür sollst du büßen.}
-{106}{}{Nächstes Mal.}
+{104}{}{Das gefÃ¤llt mir, was du da so alles hast.}
+{105}{}{DafÃ¼r sollst du bÃ¼ÃŸen.}
+{106}{}{NÃ¤chstes Mal.}
 {107}{}{Rennen ist unfair!}
 {108}{}{Diesmal musste dein Zeug behalten.}

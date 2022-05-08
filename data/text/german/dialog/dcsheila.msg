@@ -1,40 +1,40 @@
 {100}{}{Du siehst eine Prostituierte.}
-{150}{}{Sie ist eine gewöhnliche Durchschnittsprostituierte.}
-{152}{}{[GESPRÄCH]}
-{153}{}{Hey, ich mach es nicht mit Mädchen!}
+{150}{}{Sie ist eine gewÃ¶hnliche Durchschnittsprostituierte.}
+{152}{}{[GESPRÃ„CH]}
+{153}{}{Hey, ich mach es nicht mit MÃ¤dchen!}
 {154}{}{Wie du willst.}
 {155}{}{Entschuldigung.}
 {156}{}{Mom?}
 {157}{}{Hey, mit Zuschauern wird's teurer.}
 {158}{}{Hey, jeder kommt wenn ich komm.}
-{159}{}{Ich möchte sie dabeihaben.}
+{159}{}{Ich mÃ¶chte sie dabeihaben.}
 {160}{}{Ich komme wieder.}
 {161}{}{Mom?}
 {162}{}{Oh, Baby, wo warst du mein ganzes Leben lang?}
 {163}{}{Ich war immer hier, Baby.}
 {164}{}{Wieviel, Schwester?}
-{165}{}{Äh, ich muss gehen. Tschüss.}
+{165}{}{Ã„h, ich muss gehen. TschÃ¼ss.}
 {166}{}{Whaa!}
-{167}{}{Ich mag sie groß und dumm.}
+{167}{}{Ich mag sie groÃŸ und dumm.}
 {168}{}{So wie ich!}
 {169}{}{Oh ja!}
-{170}{}{Oh. Nein. Tschüss.}
-{171}{}{Du bist aber ein großer Junge!}
+{170}{}{Oh. Nein. TschÃ¼ss.}
+{171}{}{Du bist aber ein groÃŸer Junge!}
 {172}{}{Ganz so, wie du es magst.}
 {173}{}{Ja, junge Dame.}
 {174}{}{Ich muss gehen.}
 {176}{}{Ok!}
-{177}{}{Nein. Tschüss.}
+{177}{}{Nein. TschÃ¼ss.}
 {178}{}{Du kommst sicher wieder.}
 {179}{}{Das werden wir noch sehen.}
-{180}{}{Äh, nein.}
+{180}{}{Ã„h, nein.}
 {181}{}{[Sabber]}
-{182}{}{Du hast nicht genug Kohle. Hau ab, Schätzchen.}
-{183}{}{Ich komm zurück.}
+{182}{}{Du hast nicht genug Kohle. Hau ab, SchÃ¤tzchen.}
+{183}{}{Ich komm zurÃ¼ck.}
 {184}{}{Das bist du nicht wert, Kleine.}
 {185}{}{Wah!}
 {186}{}{Du warst unglaublich!}
-{187}{}{Immer, Schätzchen.}
+{187}{}{Immer, SchÃ¤tzchen.}
 {188}{}{Wie du willst.}
 {189}{}{Du aber auch.}
 {190}{}{Ich laublich!}
@@ -43,36 +43,36 @@
 {193}{}{Hmm.}
 {194}{}{Ja.}
 {195}{}{Klasse!}
-{196}{}{OK, wir sind fertig. Tschüss.}
+{196}{}{OK, wir sind fertig. TschÃ¼ss.}
 {197}{}{Das ist alles?}
-{198}{}{OK. Tschüss}
+{198}{}{OK. TschÃ¼ss}
 {199}{}{Es war gut.}
 {200}{}{Wiedersehn.}
 {201}{}{Ich habe schon schlechte Nummern geschoben, aber ich finde fast, dass du mir nach der noch
  was schuldig bist.}
 {202}{}{Ich meine, du warst das Geld ohnehin nicht wert.}
 {203}{}{Ich werd dir fehlen.}
-{204}{}{Tschüss.}
+{204}{}{TschÃ¼ss.}
 {205}{}{Verirrt?}
 {206}{}{Komm wieder, wann du willst.}
-{207}{}{OK. Tschüss.}
+{207}{}{OK. TschÃ¼ss.}
 {208}{}{Ja, genau.}
 {209}{}{Wahnsinn!}
 {210}{}{Man sieht sich.}
-{211}{}{Tschüss.}
+{211}{}{TschÃ¼ss.}
 {212}{}{Wiedersehn.}
 {213}{}{Es kostet $}
-{214}{}{ für ein Mal. Bezahlt wird vorher.}
+{214}{}{ fÃ¼r ein Mal. Bezahlt wird vorher.}
 {215}{}{Komm mit.}
 {216}{}{Ich warte.}
 {217}{}{Ich hab nicht vor, den ganzen Tag in diesem kalten Zimmer zu warten.}
 {218}{}{Geht es nicht etwas schneller?}
 {219}{}{Die letzte Chance.}
-{220}{}{Na gut, ich warte jetzt nicht noch länger.}
+{220}{}{Na gut, ich warte jetzt nicht noch lÃ¤nger.}
 {221}{}{Also hab dich doch nicht so.}
 {222}{}{Bist du aufgeregt oder was?}
 {223}{}{Komm mit.}
-{224}{}{Hey Kumpel, Hände weg von der Ware.}
-{225}{}{Hör auf, ich lasse mich nicht wie ein Spielzeug benutzen.}
+{224}{}{Hey Kumpel, HÃ¤nde weg von der Ware.}
+{225}{}{HÃ¶r auf, ich lasse mich nicht wie ein Spielzeug benutzen.}
 {230}{}{Ich habe ja schon einige schlechte Nummern geschoben, aber das muss wohl die mieseste
  aller Zeiten gewesen sein.}

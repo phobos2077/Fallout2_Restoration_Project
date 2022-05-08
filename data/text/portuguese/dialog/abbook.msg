@@ -1,3 +1,3 @@
-{100}{}{Você vê uma estante comum.}
-{101}{}{Esta estante tem vários livros sobre isso.}
-{102}{}{Esta estante tem um monte de livros, desde o pré-guerra. Tanta informação, é uma pena que você não tem tempo para sentar e ler todos eles.}
+{100}{}{VocÃª vÃª uma estante comum.}
+{101}{}{Esta estante tem vÃ¡rios livros sobre isso.}
+{102}{}{Esta estante tem um monte de livros, desde o prÃ©-guerra. Tanta informaÃ§Ã£o, Ã© uma pena que vocÃª nÃ£o tem tempo para sentar e ler todos eles.}

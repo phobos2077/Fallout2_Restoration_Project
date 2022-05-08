@@ -1,2 +1,2 @@
-{100}{}{Ves un simple jarrón.}
-{101}{}{Ves un jarrón de barro cocido al sol.}
+{100}{}{Ves un simple jarrÃ³n.}
+{101}{}{Ves un jarrÃ³n de barro cocido al sol.}

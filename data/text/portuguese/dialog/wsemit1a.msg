@@ -8,7 +8,7 @@
 {110}{}{ fails to lower the force field.}
 {111}{}{You hear over the loud speaker: Warning! Intruder Alert! Enable Security Systems.}
 {112}{}{You disable the force field.}
-{113}{}{ desabilita o campo de força.}
+{113}{}{ desabilita o campo de forÃ§a.}
 {114}{}{You enable the force field.}
-{115}{}{ habilita o campo de força.}
+{115}{}{ habilita o campo de forÃ§a.}
 {116}{}{You destroy the force field emitter.}

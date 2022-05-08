@@ -1,1 +1,1 @@
-{100}{}{Megszerezted a gépmadár terveit.}
+{100}{}{Megszerezted a gÃ©pmadÃ¡r terveit.}

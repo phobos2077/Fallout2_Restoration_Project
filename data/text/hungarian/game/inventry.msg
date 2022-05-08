@@ -1,34 +1,34 @@
 {0}{}{ER}
-{1}{}{ÉR}
+{1}{}{Ã‰R}
 {2}{}{KI}
 {3}{}{KA}
 {4}{}{IN}
-{5}{}{ÜG}
+{5}{}{ÃœG}
 {6}{}{SZ}
-{7}{}{Életpont}
-{8}{}{Védelmi érték}
-{9}{}{ Normál}
-{10}{}{ Lézer}
+{7}{}{Ã‰letpont}
+{8}{}{VÃ©delmi Ã©rtÃ©k}
+{9}{}{ NormÃ¡l}
+{10}{}{ LÃ©zer}
 {11}{}{ T?z}
 {12}{}{ Plazma}
-{13}{}{ Robbanó}
-{14}{}{Üres}
+{13}{}{ RobbanÃ³}
+{14}{}{Ãœres}
 {15}{}{Sebz.:}
-{16}{}{Táv:}
+{16}{}{TÃ¡v:}
 {17}{}{L?szer:}
 {18}{}{(Nem viseled)}
-{19}{}{Nincs elég akciópontod, hogy pakolássz.}
-{20}{}{  Tömeg:}
-{21}{}{Tárgymozgatás}
+{19}{}{Nincs elÃ©g akciÃ³pontod, hogy pakolÃ¡ssz.}
+{20}{}{  TÃ¶meg:}
+{21}{}{TÃ¡rgymozgatÃ¡s}
 {22}{}{Mind}
-{23}{}{Id?zítés}
+{23}{}{Id?zÃ­tÃ©s}
 {24}{}{Pusztak. sebz.:}
-{25}{}{Nem veheted fel. Nem bírsz el több terhet.}
-{26}{}{Ennek a tárgynak már nincs hely.}
-{27}{}{Oké, ez jó üzletnek t?nik.}
-{28}{}{Nem, nem elég jó az ajánlatod.}
-{29}{}{A sikeres lopásért %d tapasztalati pontot kapsz.}
-{30}{}{Súly}
-{31}{}{Sajnos nem bírsz el ennyi mindent.}
-{32}{}{Sajnos ez túl sok ahhoz, hogy elvidd.}
-{50}{}{Nem találsz semmit, amit elvehetnél.}
+{25}{}{Nem veheted fel. Nem bÃ­rsz el tÃ¶bb terhet.}
+{26}{}{Ennek a tÃ¡rgynak mÃ¡r nincs hely.}
+{27}{}{OkÃ©, ez jÃ³ Ã¼zletnek t?nik.}
+{28}{}{Nem, nem elÃ©g jÃ³ az ajÃ¡nlatod.}
+{29}{}{A sikeres lopÃ¡sÃ©rt %d tapasztalati pontot kapsz.}
+{30}{}{SÃºly}
+{31}{}{Sajnos nem bÃ­rsz el ennyi mindent.}
+{32}{}{Sajnos ez tÃºl sok ahhoz, hogy elvidd.}
+{50}{}{Nem talÃ¡lsz semmit, amit elvehetnÃ©l.}

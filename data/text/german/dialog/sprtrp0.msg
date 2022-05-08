@@ -1,9 +1,9 @@
-{100}{}{Du siehst eine erhöhte Platte, die vermutlich zu einer Falle
- gehört.}
-{101}{}{ sieht eine erhöhte Platte, die vermutlich zu einer Falle
- gehört.}
-{102}{}{Du siehst einen erhöhte Platte.}
-{103}{}{ sieht eine erhöhte Platte.}
-{104}{}{Du löst die Falle aus und entgehst ganz knapp dem aus der Wand kommenden Geschoß.}
-{105}{}{ löst die Falle aus und entgeht ganz knapp dem aus der Wand kommenden Geschoß.}
-{106}{}{Du siehst eine erhöhte Platte, die nicht gefährlich aussieht.}
+{100}{}{Du siehst eine erhÃ¶hte Platte, die vermutlich zu einer Falle
+ gehÃ¶rt.}
+{101}{}{ sieht eine erhÃ¶hte Platte, die vermutlich zu einer Falle
+ gehÃ¶rt.}
+{102}{}{Du siehst einen erhÃ¶hte Platte.}
+{103}{}{ sieht eine erhÃ¶hte Platte.}
+{104}{}{Du lÃ¶st die Falle aus und entgehst ganz knapp dem aus der Wand kommenden GeschoÃŸ.}
+{105}{}{ lÃ¶st die Falle aus und entgeht ganz knapp dem aus der Wand kommenden GeschoÃŸ.}
+{106}{}{Du siehst eine erhÃ¶hte Platte, die nicht gefÃ¤hrlich aussieht.}

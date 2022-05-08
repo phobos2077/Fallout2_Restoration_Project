@@ -1,27 +1,27 @@
-{100}{}{Tu vois une crapule à la tête presque rasée à banc.}
+{100}{}{Tu vois une crapule Ã  la tÃªte presque rasÃ©e Ã  banc.}
 {101}{}{Tu vois Ryan, la Source de la Sagesse.}
-{102}{}{Tu vois une crapule qui a l'air sûr de lui et moqueur.}
+{102}{}{Tu vois une crapule qui a l'air sÃ»r de lui et moqueur.}
 {103}{}{Tu vas devoir te sortir de cette merde.}
-{104}{}{Cet endroit est un trou à rats.}
-{105}{}{Je vais te saigner jusqu'à ce que tu meures. Pardon, je parlais à voix haute ?}
+{104}{}{Cet endroit est un trou Ã  rats.}
+{105}{}{Je vais te saigner jusqu'Ã  ce que tu meures. Pardon, je parlais Ã  voix haute ?}
 {106}{}{A y carumba ! Nalgas con queso !}
 {107}{}{Wou hou hou hou hou !}
 {108}{}{Je m'en vais d'ici.}
-{109}{}{J'ai connu Big Jésus Mordino lorsqu'il était encore Bébé Jésus.}
-{110}{}{Jésus Marie Mère de Dieu !}
-{111}{}{J'suis producteur. J'crée des jeux. C'est amusant les jeux. Joue à mes jeux.}
+{109}{}{J'ai connu Big JÃ©sus Mordino lorsqu'il Ã©tait encore BÃ©bÃ© JÃ©sus.}
+{110}{}{JÃ©sus Marie MÃ¨re de Dieu !}
+{111}{}{J'suis producteur. J'crÃ©e des jeux. C'est amusant les jeux. Joue Ã  mes jeux.}
 {112}{}{By flambeurs for flambeurs.}
 {113}{}{Ils m'appellent... LE MARTEAU POLI.}
-{114}{}{J'suis venu à San Fran pour faire quelques jeux et assurer.}
+{114}{}{J'suis venu Ã  San Fran pour faire quelques jeux et assurer.}
 {115}{}{Amour de vacances...}
-{116}{}{Hola, señor ! Ou est-ce señorita ?}
-{117}{}{Hé hé !}
-{118}{}{Cet endroit c'est comme une promesse faite à Stockton : que du vent, pas d'action.}
-{119}{}{Mon pote Scott pensait que la capitale de l'Ancienne Californie était Stockton. Vraiment !}
-{120}{}{J'aimerais bien jeter de la substance collante et brûlante sur Chip.}
+{116}{}{Hola, seÃ±or ! Ou est-ce seÃ±orita ?}
+{117}{}{HÃ© hÃ© !}
+{118}{}{Cet endroit c'est comme une promesse faite Ã  Stockton : que du vent, pas d'action.}
+{119}{}{Mon pote Scott pensait que la capitale de l'Ancienne Californie Ã©tait Stockton. Vraiment !}
+{120}{}{J'aimerais bien jeter de la substance collante et brÃ»lante sur Chip.}
 {121}{}{Ha !}
 {122}{}{Hooooo, ALLEZ !}
-{123}{}{Ha là, c'est la totale !}
-{124}{}{M'oblige pas à devenir désagréable.}
+{123}{}{Ha lÃ , c'est la totale !}
+{124}{}{M'oblige pas Ã  devenir dÃ©sagrÃ©able.}
 {125}{}{Ouais, d'accord ?}
-{126}{}{Exactement. Hé, hé, hé !}
+{126}{}{Exactement. HÃ©, hÃ©, hÃ© !}

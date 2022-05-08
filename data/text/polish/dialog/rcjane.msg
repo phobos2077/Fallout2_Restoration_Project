@@ -1,143 +1,143 @@
-{100}{}{Widzisz niespokojn¹ kobietê z szerokim uœmiechem.}
-{101}{}{Widzisz Jackpot Jane, menad¿era walk bestii.}
-{102}{}{Widzisz praktyczn¹ kobietê o ch³odnym oku do detali. }
-{103}{}{Witaj, przyjacielu. Chcesz zobaczyæ pojedynki zwierz¹t?}
+{100}{}{Widzisz niespokojnÄ… kobietÄ™ z szerokim uÅ›miechem.}
+{101}{}{Widzisz Jackpot Jane, menadÅ¼era walk bestii.}
+{102}{}{Widzisz praktycznÄ… kobietÄ™ o chÅ‚odnym oku do detali. }
+{103}{}{Witaj, przyjacielu. Chcesz zobaczyÄ‡ pojedynki zwierzÄ…t?}
 {104}{}{Oooch. Futerko.}
-{105}{}{Futerko ³aaadne.}
-{106}{}{Ach, rozumiem. Jesteœ od niedawna w mieœcie. Wiesz, powiem ci coœ. Postawiê za ciebie specjalny zak³ad w czasie jutrzejszych walk. Czy chcesz, abym to zrobi³a?}
-{107}{}{(Kiwasz g³ow¹) Uuk, Uuk. (i dajesz swoj¹ sakiewkê).}
+{105}{}{Futerko Å‚aaadne.}
+{106}{}{Ach, rozumiem. JesteÅ› od niedawna w mieÅ›cie. Wiesz, powiem ci coÅ›. PostawiÄ™ za ciebie specjalny zakÅ‚ad w czasie jutrzejszych walk. Czy chcesz, abym to zrobiÅ‚a?}
+{107}{}{(Kiwasz gÅ‚owÄ…) Uuk, Uuk. (i dajesz swojÄ… sakiewkÄ™).}
 {108}{}{Muuk? Gaga. Pa pa, futerko.}
-{109}{}{Dobry pomys³. Wróæ tu jutro i jeœli twój zwierzak wygra walki, to dam ci twoje pieni¹dze. W porz¹dku?}
-{110}{}{Okej, dobre posuniêcie. Upewniê siê, ¿e otrzymasz naprawdê specjalny zak³ad. Na razie.}
-{111}{}{Wygraæ?}
+{109}{}{Dobry pomysÅ‚. WrÃ³Ä‡ tu jutro i jeÅ›li twÃ³j zwierzak wygra walki, to dam ci twoje pieniÄ…dze. W porzÄ…dku?}
+{110}{}{Okej, dobre posuniÄ™cie. UpewniÄ™ siÄ™, Å¼e otrzymasz naprawdÄ™ specjalny zakÅ‚ad. Na razie.}
+{111}{}{WygraÄ‡?}
 {112}{}{Okej... pa pa.}
-{113}{}{Nie, obawiam siê, ¿e nie. Ale mam naprawdê silne przeczucie co do nastêpnego razu. Chcesz postawiæ jeszcze jeden specjalny zak³ad?}
-{114}{}{Okej. Zdrastwujtie. (kiwasz g³ow¹ i wyci¹gasz sakiewkê)}
+{113}{}{Nie, obawiam siÄ™, Å¼e nie. Ale mam naprawdÄ™ silne przeczucie co do nastÄ™pnego razu. Chcesz postawiÄ‡ jeszcze jeden specjalny zakÅ‚ad?}
+{114}{}{Okej. Zdrastwujtie. (kiwasz gÅ‚owÄ… i wyciÄ…gasz sakiewkÄ™)}
 {115}{}{Buuuu? Pa.}
-{116}{}{Bardzo mi przykro, ale nie masz co postawiæ. Wróæ, gdy bêdziesz mieæ trochê szmalu.}
-{117}{}{Okej, piêêêêkna. Pa pa.}
-{118}{}{Poka¿ siê przy ringu oko³o po³udnia ka¿dego dnia.}
-{119}{}{W tej chwili nie ma walk, poka¿ siê przy ringu o dwunastej.}
-{120}{}{Nic siê tu teraz nie dzieje.}
-{121}{}{Poczekaj do po³udnia na walki, a w tej chwili daj mi spokój.}
-{122}{}{Hej tam! Do zobaczenia przy ringu, bo inaczej wynocha st¹d.}
-{123}{}{To wygl¹da obiecuj¹co, przyjaciele. W³aœnie nastêpuje próba si³.}
-{124}{}{Oto tam kilka dobrych posuniêæ, widaæ, ¿e te dwa zwierzaki ju¿ to przedtem robi³y!}
-{125}{}{Dobra runda, naprawdê dobra. Du¿o nienawiœci jest w tej zagrodzie.}
-{126}{}{Czy mo¿ecie uwierzyæ w wytrzyma³oœæ tych dwóch? Naprawdê potrafi¹ do³o¿yæ, jak i dostaæ.}
-{127}{}{Co za podciêcie, to musia³o boleæ!}
-{128}{}{O tak! Rozwa³ka! Rozwa³ka!}
-{129}{}{Nie s¹dzê, aby nawet zauwa¿y³ ten cios, szczêœliwy ruch.}
-{130}{}{Aj! To musia³o boleæ!}
+{116}{}{Bardzo mi przykro, ale nie masz co postawiÄ‡. WrÃ³Ä‡, gdy bÄ™dziesz mieÄ‡ trochÄ™ szmalu.}
+{117}{}{Okej, piÄ™Ä™Ä™Ä™kna. Pa pa.}
+{118}{}{PokaÅ¼ siÄ™ przy ringu okoÅ‚o poÅ‚udnia kaÅ¼dego dnia.}
+{119}{}{W tej chwili nie ma walk, pokaÅ¼ siÄ™ przy ringu o dwunastej.}
+{120}{}{Nic siÄ™ tu teraz nie dzieje.}
+{121}{}{Poczekaj do poÅ‚udnia na walki, a w tej chwili daj mi spokÃ³j.}
+{122}{}{Hej tam! Do zobaczenia przy ringu, bo inaczej wynocha stÄ…d.}
+{123}{}{To wyglÄ…da obiecujÄ…co, przyjaciele. WÅ‚aÅ›nie nastÄ™puje prÃ³ba siÅ‚.}
+{124}{}{Oto tam kilka dobrych posuniÄ™Ä‡, widaÄ‡, Å¼e te dwa zwierzaki juÅ¼ to przedtem robiÅ‚y!}
+{125}{}{Dobra runda, naprawdÄ™ dobra. DuÅ¼o nienawiÅ›ci jest w tej zagrodzie.}
+{126}{}{Czy moÅ¼ecie uwierzyÄ‡ w wytrzymaÅ‚oÅ›Ä‡ tych dwÃ³ch? NaprawdÄ™ potrafiÄ… doÅ‚oÅ¼yÄ‡, jak i dostaÄ‡.}
+{127}{}{Co za podciÄ™cie, to musiaÅ‚o boleÄ‡!}
+{128}{}{O tak! RozwaÅ‚ka! RozwaÅ‚ka!}
+{129}{}{Nie sÄ…dzÄ™, aby nawet zauwaÅ¼yÅ‚ ten cios, szczÄ™Å›liwy ruch.}
+{130}{}{Aj! To musiaÅ‚o boleÄ‡!}
 {131}{}{Oto nadchodzi prawdziwy miecz Azraela, przyjaciele.}
-{132}{}{£adny ruch, ³adna praca ³ap.}
-{133}{}{Praca cia³em. Dzisiaj widzimy ³adne ruchy!}
-{134}{}{£adna kombinacja! Oto tworzy siê naturalny champion!}
+{132}{}{Åadny ruch, Å‚adna praca Å‚ap.}
+{133}{}{Praca ciaÅ‚em. Dzisiaj widzimy Å‚adne ruchy!}
+{134}{}{Åadna kombinacja! Oto tworzy siÄ™ naturalny champion!}
 {135}{}{O tak, lewa, prawa, i przeciwnik na glebie!}
-{136}{}{Patrzcie, jak piana bije z pysków tych zabójców!}
-{137}{}{Spójrzcie na tê ca³¹ krew, a oni wci¹¿ s¹ na chodzie. Co za walka!}
-{138}{}{To w³aœnie ten rodzaj akcji, po któr¹ tu przyszliœcie, przyjaciele. Klasyczne ruchy, naprawdê kla-sy-czne.}
-{139}{}{O tak, prawie wyrwa³o mu szczêkê! To bêdzie te¿ ostro krwawiæ!}
-{140}{}{Widzieliœcie, jak daleko posz³a mu jucha?! Co za si³a!}
-{141}{}{Porusza siê jak strza³a! Spójrzcie na te kawa³ki wyrwanego miêsa lataj¹ce po ca³ej arenie!}
-{142}{}{Spójrzcie tylko na walaj¹ce siê wszêdzie kawa³ki miêsa! Te dwa maj¹ to, czego potrzeba!}
-{143}{}{Witam. Jestem Jackpot Jane i prowadzê walki dzikich zwierz¹t tu w mieœcie. Stawiasz zak³ad na wynik jednej z naszych walk pierwotnych instynktów? Bestia przeciwko bestii w swojej najdzikszej formie?}
-{144}{}{PodejdŸ, stawiaj. Co to bêdzie?}
-{145}{}{Ee, co tu siê dzieje?}
-{146}{}{Mogê stawiaæ zak³ad.}
-{147}{}{Myœlê, ¿e te walki to przekrêt.}
-{148}{}{Tylko siê rozgl¹dam. Do widzenia.}
-{149}{}{Coœ bardzo prostego: Dwie przera¿aj¹ce bestie, którym mo¿esz siê przyjrzeæ z bliska, bez ¿adnych sztuczek, mogê ciê zapewniæ, zostan¹ wpuszczone na ring. W kilka sekund póŸniej przed tob¹ rozegra siê pokaz dzikiej si³y Matki Natury.}
-{150}{}{A co ma z tym wspólnego Matka Natura?}
-{151}{}{I mogê na tym zrobiæ pieni¹dze?}
-{152}{}{ChodŸcie, chodŸcie wszyscy, aby zobaczyæ POJEDYNEK STULECIA!}
-{153}{}{Wyst¹pcie i stawiajcie pieni¹dze na ZWYCIÊZCÊ!}
+{136}{}{Patrzcie, jak piana bije z pyskÃ³w tych zabÃ³jcÃ³w!}
+{137}{}{SpÃ³jrzcie na tÄ™ caÅ‚Ä… krew, a oni wciÄ…Å¼ sÄ… na chodzie. Co za walka!}
+{138}{}{To wÅ‚aÅ›nie ten rodzaj akcji, po ktÃ³rÄ… tu przyszliÅ›cie, przyjaciele. Klasyczne ruchy, naprawdÄ™ kla-sy-czne.}
+{139}{}{O tak, prawie wyrwaÅ‚o mu szczÄ™kÄ™! To bÄ™dzie teÅ¼ ostro krwawiÄ‡!}
+{140}{}{WidzieliÅ›cie, jak daleko poszÅ‚a mu jucha?! Co za siÅ‚a!}
+{141}{}{Porusza siÄ™ jak strzaÅ‚a! SpÃ³jrzcie na te kawaÅ‚ki wyrwanego miÄ™sa latajÄ…ce po caÅ‚ej arenie!}
+{142}{}{SpÃ³jrzcie tylko na walajÄ…ce siÄ™ wszÄ™dzie kawaÅ‚ki miÄ™sa! Te dwa majÄ… to, czego potrzeba!}
+{143}{}{Witam. Jestem Jackpot Jane i prowadzÄ™ walki dzikich zwierzÄ…t tu w mieÅ›cie. Stawiasz zakÅ‚ad na wynik jednej z naszych walk pierwotnych instynktÃ³w? Bestia przeciwko bestii w swojej najdzikszej formie?}
+{144}{}{PodejdÅº, stawiaj. Co to bÄ™dzie?}
+{145}{}{Ee, co tu siÄ™ dzieje?}
+{146}{}{MogÄ™ stawiaÄ‡ zakÅ‚ad.}
+{147}{}{MyÅ›lÄ™, Å¼e te walki to przekrÄ™t.}
+{148}{}{Tylko siÄ™ rozglÄ…dam. Do widzenia.}
+{149}{}{CoÅ› bardzo prostego: Dwie przeraÅ¼ajÄ…ce bestie, ktÃ³rym moÅ¼esz siÄ™ przyjrzeÄ‡ z bliska, bez Å¼adnych sztuczek, mogÄ™ ciÄ™ zapewniÄ‡, zostanÄ… wpuszczone na ring. W kilka sekund pÃ³Åºniej przed tobÄ… rozegra siÄ™ pokaz dzikiej siÅ‚y Matki Natury.}
+{150}{}{A co ma z tym wspÃ³lnego Matka Natura?}
+{151}{}{I mogÄ™ na tym zrobiÄ‡ pieniÄ…dze?}
+{152}{}{ChodÅºcie, chodÅºcie wszyscy, aby zobaczyÄ‡ POJEDYNEK STULECIA!}
+{153}{}{WystÄ…pcie i stawiajcie pieniÄ…dze na ZWYCIÄ˜ZCÄ˜!}
 {154}{}{Zobaczcie tytaniczny pojedynek bestii!}
-{155}{}{Postawcie pieni¹dze, zanim zamkniemy zak³ady! Nie wahajcie siê, nie przegapcie szansy!}
-{156}{}{Proszê uwa¿aæ na pryskaj¹c¹ krew i trzewia. Firma nie odpowiada za plamy.}
-{157}{}{Tysi¹ce dolarów wygrywane codziennie!}
-{158}{}{Stwórz tutaj swoj¹ w³asn¹ kopalniê z³ota! W tej chwili!}
-{159}{}{ChodŸcie zobaczyæ pojedynek dnia!}
-{160}{}{Dzikie zwierzêta walcz¹, gdy ty wygrywasz pieni¹dze! POKOCHASZ TO!}
-{161}{}{Przynieœcie du¿e sakiewki i wiêksze oczekiwania! TÊDY PROSZÊ!}
-{162}{}{Wynoœ siê st¹d, do cholery.}
-{163}{}{Nie potrzebujê tutaj twojego interesu.}
-{164}{}{IdŸ z tym nigdzie indziej.}
-{165}{}{Trzymaj siê z dala od klatek.}
-{166}{}{Nie interesuj¹ mnie twoje pieni¹dze.}
-{167}{}{Có¿, tak jak powiedzia³am, dwie bestie bêd¹ zmagaæ siê ze sob¹ w eksplozji okrucieñstwa - takiego, jakiego nie by³o widaæ od czasu wielkich maszyn je¿d¿¹cych po Ziemi.}
+{155}{}{Postawcie pieniÄ…dze, zanim zamkniemy zakÅ‚ady! Nie wahajcie siÄ™, nie przegapcie szansy!}
+{156}{}{ProszÄ™ uwaÅ¼aÄ‡ na pryskajÄ…cÄ… krew i trzewia. Firma nie odpowiada za plamy.}
+{157}{}{TysiÄ…ce dolarÃ³w wygrywane codziennie!}
+{158}{}{StwÃ³rz tutaj swojÄ… wÅ‚asnÄ… kopalniÄ™ zÅ‚ota! W tej chwili!}
+{159}{}{ChodÅºcie zobaczyÄ‡ pojedynek dnia!}
+{160}{}{Dzikie zwierzÄ™ta walczÄ…, gdy ty wygrywasz pieniÄ…dze! POKOCHASZ TO!}
+{161}{}{PrzynieÅ›cie duÅ¼e sakiewki i wiÄ™ksze oczekiwania! TÄ˜DY PROSZÄ˜!}
+{162}{}{WynoÅ› siÄ™ stÄ…d, do cholery.}
+{163}{}{Nie potrzebujÄ™ tutaj twojego interesu.}
+{164}{}{IdÅº z tym nigdzie indziej.}
+{165}{}{Trzymaj siÄ™ z dala od klatek.}
+{166}{}{Nie interesujÄ… mnie twoje pieniÄ…dze.}
+{167}{}{CÃ³Å¼, tak jak powiedziaÅ‚am, dwie bestie bÄ™dÄ… zmagaÄ‡ siÄ™ ze sobÄ… w eksplozji okrucieÅ„stwa - takiego, jakiego nie byÅ‚o widaÄ‡ od czasu wielkich maszyn jeÅ¼dÅ¼Ä…cych po Ziemi.}
 {168}{}{Wielkich maszyn?}
 {169}{}{Ee, ta, a potem co?}
-{170}{}{OK, s³uchaj, przyjacielu, czy pomo¿e ci, je¿eli powiem - takich, których nie by³o widaæ od czasów, gdy wielkie jaszczury sypi¹ce piorunami zamieszkiwa³y Ziemiê. Czy to ci trochê rozjaœnia w g³owie? A wiêc wchodzisz w to, czy nie? (na boku) Jezu, teraz wszyscy podchodz¹ do wszystkiego krytycznie.}
-{171}{}{Ee, Wchodzê. Chyba.}
-{172}{}{Du¿e jaszczury mnie przera¿aj¹. Lepiej bêdê siê trzymaæ od tego z daleka. Dziêki za ostrze¿enie. Do zobaczenia. (myœlisz do siebie) *Uff, by³o blisko*}
-{173}{}{Czêœci¹ sportow¹ jest zak³ad dotycz¹cy wyniku walki. Oto, jak to dzia³a. Przychodzisz do mnie i mówisz, ¿e chcesz postawiæ zak³ad. Ja mówiê ci, które zwierzaki bêd¹ walczy³y nastêpne, a ty mi powiesz, na którego stawiasz.}
-{174}{}{Co siê dzieje potem?}
-{175}{}{TO proste, je¿eli twój zwierzak wygra, podwajasz stawkê. Stawka roœnie POTRÓJNIE, je¿eli przeciwnik padnie w pierwszej rundzie! Je¿eli twój zwierzak przegra, pieni¹dze nale¿¹ do mnie. Zazwyczaj ka¿dego dnia odbywa siê kilka walk. Dopóki zasób zwierz¹t siê nie zmniejszy, mo¿esz stawiaæ na nie wszystkie. Ale tylko jeden zak³ad na walkê. A, i ¿ebyœmy sobie wszystko wyjaœnili, to wszystkie zak³ady wynosz¹ $100.}
-{176}{}{OK. Rozumiem. Daj mi spróbowaæ.}
-{177}{}{Rozumiem. Hmm, chyba spróbujê tego kiedy indziej. Do zobaczenia.}
-{178}{}{To bêdzie festiwal mocy. }
+{170}{}{OK, sÅ‚uchaj, przyjacielu, czy pomoÅ¼e ci, jeÅ¼eli powiem - takich, ktÃ³rych nie byÅ‚o widaÄ‡ od czasÃ³w, gdy wielkie jaszczury sypiÄ…ce piorunami zamieszkiwaÅ‚y ZiemiÄ™. Czy to ci trochÄ™ rozjaÅ›nia w gÅ‚owie? A wiÄ™c wchodzisz w to, czy nie? (na boku) Jezu, teraz wszyscy podchodzÄ… do wszystkiego krytycznie.}
+{171}{}{Ee, WchodzÄ™. Chyba.}
+{172}{}{DuÅ¼e jaszczury mnie przeraÅ¼ajÄ…. Lepiej bÄ™dÄ™ siÄ™ trzymaÄ‡ od tego z daleka. DziÄ™ki za ostrzeÅ¼enie. Do zobaczenia. (myÅ›lisz do siebie) *Uff, byÅ‚o blisko*}
+{173}{}{CzÄ™Å›ciÄ… sportowÄ… jest zakÅ‚ad dotyczÄ…cy wyniku walki. Oto, jak to dziaÅ‚a. Przychodzisz do mnie i mÃ³wisz, Å¼e chcesz postawiÄ‡ zakÅ‚ad. Ja mÃ³wiÄ™ ci, ktÃ³re zwierzaki bÄ™dÄ… walczyÅ‚y nastÄ™pne, a ty mi powiesz, na ktÃ³rego stawiasz.}
+{174}{}{Co siÄ™ dzieje potem?}
+{175}{}{TO proste, jeÅ¼eli twÃ³j zwierzak wygra, podwajasz stawkÄ™. Stawka roÅ›nie POTRÃ“JNIE, jeÅ¼eli przeciwnik padnie w pierwszej rundzie! JeÅ¼eli twÃ³j zwierzak przegra, pieniÄ…dze naleÅ¼Ä… do mnie. Zazwyczaj kaÅ¼dego dnia odbywa siÄ™ kilka walk. DopÃ³ki zasÃ³b zwierzÄ…t siÄ™ nie zmniejszy, moÅ¼esz stawiaÄ‡ na nie wszystkie. Ale tylko jeden zakÅ‚ad na walkÄ™. A, i Å¼ebyÅ›my sobie wszystko wyjaÅ›nili, to wszystkie zakÅ‚ady wynoszÄ… $100.}
+{176}{}{OK. Rozumiem. Daj mi sprÃ³bowaÄ‡.}
+{177}{}{Rozumiem. Hmm, chyba sprÃ³bujÄ™ tego kiedy indziej. Do zobaczenia.}
+{178}{}{To bÄ™dzie festiwal mocy. }
 {179}{}{ versus }
-{180}{}{, a one strasznie siê nie cierpi¹. Który jest twoim wybrañcem?}
-{181}{}{To bêdzie prawdziwa jatka. Najlepszy z najlepszych, }
+{180}{}{, a one strasznie siÄ™ nie cierpiÄ…. KtÃ³ry jest twoim wybraÅ„cem?}
+{181}{}{To bÄ™dzie prawdziwa jatka. Najlepszy z najlepszych, }
 {182}{}{ versus }
-{183}{}{. Którego wybierasz?}
-{184}{}{Nigdy przedtem nie zestawi³am takiej walki. W tej rundzie }
+{183}{}{. KtÃ³rego wybierasz?}
+{184}{}{Nigdy przedtem nie zestawiÅ‚am takiej walki. W tej rundzie }
 {185}{}{ versus }
-{186}{}{. To bêdzie dobra walka. Twój wybór?}
+{186}{}{. To bÄ™dzie dobra walka. TwÃ³j wybÃ³r?}
 {187}{}{Champion }
 {188}{}{ versus }
-{189}{}{. Ciekawy mecz. Któremu chcesz zaufaæ?}
+{189}{}{. Ciekawy mecz. KtÃ³remu chcesz zaufaÄ‡?}
 {190}{}{Okej. Oto sytuacja: }
 {191}{}{ versus }
-{192}{}{. Nieprêdko zobaczysz tak¹ walkê. Twoje ¿yczenie?}
-{193}{}{Moje pieni¹dze z pewnoœci¹ pomno¿y }
+{192}{}{. NieprÄ™dko zobaczysz takÄ… walkÄ™. Twoje Å¼yczenie?}
+{193}{}{Moje pieniÄ…dze z pewnoÅ›ciÄ… pomnoÅ¼y }
 {194}{}{.}
-{195}{}{Moje pieni¹dze z pewnoœci¹ pomno¿y }
+{195}{}{Moje pieniÄ…dze z pewnoÅ›ciÄ… pomnoÅ¼y }
 {196}{}{.}
-{197}{}{Hmm, chyba jednak tym razem spasujê. }
-{198}{}{Chyba mam ju¿ na dzisiaj dosyæ. Zobaczymy siê innym razem. Do zobaczenia.}
-{199}{}{Proszê bardzo, mistrzu. Oto twoje wygrane. To dzisiaj ju¿ ostatnia walka. PrzyjdŸ jutro, je¿eli chcesz wiêcej akcji.}
-{200}{}{Nied³ugo wiêcej. Chcesz postawiæ w nastêpnej walce?}
+{197}{}{Hmm, chyba jednak tym razem spasujÄ™. }
+{198}{}{Chyba mam juÅ¼ na dzisiaj dosyÄ‡. Zobaczymy siÄ™ innym razem. Do zobaczenia.}
+{199}{}{ProszÄ™ bardzo, mistrzu. Oto twoje wygrane. To dzisiaj juÅ¼ ostatnia walka. PrzyjdÅº jutro, jeÅ¼eli chcesz wiÄ™cej akcji.}
+{200}{}{NiedÅ‚ugo wiÄ™cej. Chcesz postawiÄ‡ w nastÄ™pnej walce?}
 {201}{}{Jasne.}
-{202}{}{Chyba tym razem spasujê.}
-{203}{}{S³uchaj, nikt ciê nie zmusza do stawiania, nie? Nie podoba siê, to zmykaj, nikt nie bêdzie za tob¹ têskniæ. Rozumiemy siê?}
+{202}{}{Chyba tym razem spasujÄ™.}
+{203}{}{SÅ‚uchaj, nikt ciÄ™ nie zmusza do stawiania, nie? Nie podoba siÄ™, to zmykaj, nikt nie bÄ™dzie za tobÄ… tÄ™skniÄ‡. Rozumiemy siÄ™?}
 {204}{}{Rozumiem.}
-{205}{}{Có¿ za uderzenie! }
-{206}{}{ pokaza³ co umie, przez co }
-{207}{}{ pad³ na glebê ju¿ w pierwszej rundzie! Co za akcja!}
-{208}{}{Aj, by³o blisko, ale wygra³ }
-{209}{}{ w naszej ostatniej dzisiejszej walce. Wyp³acê wszystkim pieni¹dze, ale przyjdŸcie jutro po wiêcej wra¿eñ.}
-{210}{}{Co za rzeŸnia! Nigdy nie widzia³am takiej walki. Zwyciêzc¹ zosta³ }
-{211}{}{. Wyp³acê wszystkim wygrane i przejdŸmy do nastêpnej rundy.}
-{212}{}{ wygra³ tê rundê z palcem, ee, z pazurem w pupie. Wyp³acê wszystkim wygrane i zaczniemy nastêpn¹ rundê.}
-{213}{}{Zwyciêzc¹ zostaje... }
-{214}{}{. Wyp³acê wszystkim wygrane i przejdŸmy do nastêpnej rundy.}
-{215}{}{Chcê tylko powiedzieæ, ¿e Ascorti bêdzie mia³ dzisiaj w menu, ee, *steki*. Ju¿ za moment, gdy tylko œci¹gniemy przegranego z pola. }
-{216}{}{ wygra³ tê walkê! Wyp³acê wszystkim wygrane i przejdŸmy do nastêpnej rundy.}
-{217}{}{Wygl¹da na to, ¿e wygra³ }
-{218}{}{. Nigdy nie widzia³am takiego sprania komuœ ty³ka. Wyp³acê wszystkim wygrane i zacznijmy nastêpn¹ rundê.}
+{205}{}{CÃ³Å¼ za uderzenie! }
+{206}{}{ pokazaÅ‚ co umie, przez co }
+{207}{}{ padÅ‚ na glebÄ™ juÅ¼ w pierwszej rundzie! Co za akcja!}
+{208}{}{Aj, byÅ‚o blisko, ale wygraÅ‚ }
+{209}{}{ w naszej ostatniej dzisiejszej walce. WypÅ‚acÄ™ wszystkim pieniÄ…dze, ale przyjdÅºcie jutro po wiÄ™cej wraÅ¼eÅ„.}
+{210}{}{Co za rzeÅºnia! Nigdy nie widziaÅ‚am takiej walki. ZwyciÄ™zcÄ… zostaÅ‚ }
+{211}{}{. WypÅ‚acÄ™ wszystkim wygrane i przejdÅºmy do nastÄ™pnej rundy.}
+{212}{}{ wygraÅ‚ tÄ™ rundÄ™ z palcem, ee, z pazurem w pupie. WypÅ‚acÄ™ wszystkim wygrane i zaczniemy nastÄ™pnÄ… rundÄ™.}
+{213}{}{ZwyciÄ™zcÄ… zostaje... }
+{214}{}{. WypÅ‚acÄ™ wszystkim wygrane i przejdÅºmy do nastÄ™pnej rundy.}
+{215}{}{ChcÄ™ tylko powiedzieÄ‡, Å¼e Ascorti bÄ™dzie miaÅ‚ dzisiaj w menu, ee, *steki*. JuÅ¼ za moment, gdy tylko Å›ciÄ…gniemy przegranego z pola. }
+{216}{}{ wygraÅ‚ tÄ™ walkÄ™! WypÅ‚acÄ™ wszystkim wygrane i przejdÅºmy do nastÄ™pnej rundy.}
+{217}{}{WyglÄ…da na to, Å¼e wygraÅ‚ }
+{218}{}{. Nigdy nie widziaÅ‚am takiego sprania komuÅ› tyÅ‚ka. WypÅ‚acÄ™ wszystkim wygrane i zacznijmy nastÄ™pnÄ… rundÄ™.}
 {219}{}{Hurra! Wygrana.}
-{220}{}{Tak! O to chodzi³o!}
+{220}{}{Tak! O to chodziÅ‚o!}
 {221}{}{Mam do tego prawdziwy talent.}
-{222}{}{Widaæ, ¿e znam moje korzenie.}
+{222}{}{WidaÄ‡, Å¼e znam moje korzenie.}
 {223}{}{Cholera. Przegrana.}
-{224}{}{No tak, moje szczêœcie.}
-{225}{}{Mog³o byæ lepiej.}
-{226}{}{Mo¿e nastêpnym razem wybiorê lepiej.}
-{227}{}{Dobrze - nic nie stawiam, nic nie tracê.}
-{228}{}{Cieszê siê, ¿e pieni¹dze zosta³y w sakiewce.}
-{229}{}{To by mnie nieŸle kosztowa³o.}
-{230}{}{To by³a dobra walka. Ale dobrze, ¿e nieobstawiana.}
-{231}{}{W porz¹dku, dziêki.}
+{224}{}{No tak, moje szczÄ™Å›cie.}
+{225}{}{MogÅ‚o byÄ‡ lepiej.}
+{226}{}{MoÅ¼e nastÄ™pnym razem wybiorÄ™ lepiej.}
+{227}{}{Dobrze - nic nie stawiam, nic nie tracÄ™.}
+{228}{}{CieszÄ™ siÄ™, Å¼e pieniÄ…dze zostaÅ‚y w sakiewce.}
+{229}{}{To by mnie nieÅºle kosztowaÅ‚o.}
+{230}{}{To byÅ‚a dobra walka. Ale dobrze, Å¼e nieobstawiana.}
+{231}{}{W porzÄ…dku, dziÄ™ki.}
 {300}{}{Ostry Pisk}
 {301}{}{Vicky}
 {302}{}{Spike}
 {303}{}{Ciastek}
 {304}{}{Dimsdale}
 {305}{}{Marengo}
-{306}{}{Kud³aczek}
-{307}{}{£omot}
+{306}{}{KudÅ‚aczek}
+{307}{}{Åomot}
 {308}{}{Boss}
 {310}{}{Tankowiec}
 {311}{}{Muttley}
@@ -148,7 +148,7 @@
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
-{320}{}{Krêpy}
+{320}{}{KrÄ™py}
 {321}{}{Szatkownik}
 {322}{}{Rozpruwacz}
 {323}{}{Skree}
@@ -157,7 +157,7 @@
 {326}{}{Jednooki}
 {327}{}{Pryszcz}
 {328}{}{Lord Gibacz}
-{330}{}{Szczêœciarz}
+{330}{}{SzczÄ™Å›ciarz}
 {331}{}{Zaratustra Wielki}
 {332}{}{Shub}
 {333}{}{Usuthu}
@@ -165,8 +165,8 @@
 {335}{}{Puggsly}
 {336}{}{Sskarb}
 {337}{}{Fraggle}
-{338}{}{Kapitan ¯bik}
-{340}{}{M³ot}
+{338}{}{Kapitan Å»bik}
+{340}{}{MÅ‚ot}
 {341}{}{Sekretariat}
 {342}{}{Wojownik}
 {343}{}{Sancho Pansa}
@@ -175,7 +175,7 @@
 {346}{}{Grendel}
 {347}{}{Lady Penelopa}
 {348}{}{Pan Baggins}
-{350}{}{B³yskawica}
+{350}{}{BÅ‚yskawica}
 {351}{}{Percy}
 {352}{}{Kwiatuszek}
 {353}{}{Rumplestiltskin}

@@ -1,41 +1,41 @@
 {0}{}{Atak}
 {1}{}{Ucieczka}
-{2}{}{Broñ}
+{2}{}{BroÅ„}
 {3}{}{Dystans}
 {4}{}{Cel Ataku}
-{5}{}{U¿ywanie prochów}
+{5}{}{UÅ¼ywanie prochÃ³w}
 {10}{}{GOTOWE}
 {11}{}{Anuluj}
 {99}{}{Nie dotyczy}
 {100}{}{Zawsze!}
-{101}{}{Czasem nie martw siê, ¿e mnie zranisz}
-{102}{}{Miej pewnoœæ, ¿e mnie nie zranisz}
-{103}{}{Staraj siê mnie nie zraniæ}
-{104}{}{Miej absolutn¹ pewnoœæ, ¿e mnie nie zranisz}
-{200}{}{Nikczemny Tchórz}
-{201}{}{Boli ciê palec}
+{101}{}{Czasem nie martw siÄ™, Å¼e mnie zranisz}
+{102}{}{Miej pewnoÅ›Ä‡, Å¼e mnie nie zranisz}
+{103}{}{Staraj siÄ™ mnie nie zraniÄ‡}
+{104}{}{Miej absolutnÄ… pewnoÅ›Ä‡, Å¼e mnie nie zranisz}
+{200}{}{Nikczemny TchÃ³rz}
+{201}{}{Boli ciÄ™ palec}
 {202}{}{Lekko krwawisz}
-{203}{}{Nie czujesz siê za dobrze}
+{203}{}{Nie czujesz siÄ™ za dobrze}
 {204}{}{Potrzebujesz lekarza}
 {205}{}{Nigdy!}
 {300}{}{brak}
-{301}{}{Bia³a}
-{302}{}{Bia³a potem Dystansowa}
-{303}{}{Dystansowa potem Bia³a}
+{301}{}{BiaÅ‚a}
+{302}{}{BiaÅ‚a potem Dystansowa}
+{303}{}{Dystansowa potem BiaÅ‚a}
 {304}{}{Dystansowa}
 {305}{}{Bez broni}
-{400}{}{Trzymaj siê blisko mnie}
+{400}{}{Trzymaj siÄ™ blisko mnie}
 {401}{}{Atakuj!}
 {402}{}{Trzymaj dystans}
-{403}{}{Stój gdzie chcesz}
-{404}{}{Stój gdzie stoisz}
-{500}{}{Ka¿dego, kto mnie atakuje}
+{403}{}{StÃ³j gdzie chcesz}
+{404}{}{StÃ³j gdzie stoisz}
+{500}{}{KaÅ¼dego, kto mnie atakuje}
 {501}{}{Najsilniejszego}
-{502}{}{Najs³abszego}
+{502}{}{NajsÅ‚abszego}
 {503}{}{Kogokolwiek chcesz}
-{504}{}{Najbli¿szego}
+{504}{}{NajbliÅ¼szego}
 {600}{}{Jestem czysty}
-{601}{}{Stimpaki, gdy trochê boli}
+{601}{}{Stimpaki, gdy trochÄ™ boli}
 {602}{}{Stimpaki, gdy bardzo boli}
-{603}{}{Cokolwiek chcesz, raz na jakiœ czas}
-{604}{}{Cokolwiek chcesz, kiedy tylko mo¿esz}
+{603}{}{Cokolwiek chcesz, raz na jakiÅ› czas}
+{604}{}{Cokolwiek chcesz, kiedy tylko moÅ¼esz}

@@ -1,1 +1,1 @@
-{100}{}{Egy titkos teremre bukkant·l a barlangban.}
+{100}{}{Egy titkos teremre bukkant√°l a barlangban.}

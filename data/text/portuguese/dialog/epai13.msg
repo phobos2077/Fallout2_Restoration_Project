@@ -1,87 +1,87 @@
-{100}{}{Computador de controle da câmara de hibernação. Selecione uma opção.}
-{101}{}{Histórico do sujeito.}
+{100}{}{Computador de controle da cÃ¢mara de hibernaÃ§Ã£o. Selecione uma opÃ§Ã£o.}
+{101}{}{HistÃ³rico do sujeito.}
 {102}{}{Recuperar um sujeito de teste.}
 {103}{}{[FEITO]}
-{104}{}{Câmaras de hibernação. Três indivíduos foram selados dentro dessas câmaras antes da guerra, cada um para classificados específicas
-  razões. Os sujeitos permanecem selados e desconhecem seus arredores. As entradas do registro estão disponíveis para cada assunto.}
+{104}{}{CÃ¢maras de hibernaÃ§Ã£o. TrÃªs indivÃ­duos foram selados dentro dessas cÃ¢maras antes da guerra, cada um para classificados especÃ­ficas
+Â  razÃµes. Os sujeitos permanecem selados e desconhecem seus arredores. As entradas do registro estÃ£o disponÃ­veis para cada assunto.}
 {105}{}{Voltar para o Menu Principal.}
-{106}{}{AVISO: períodos prolongados de tempo em um ambiente de congelamento profundo alteram os processos químicos do corpo.
-  Sem a aplicação adequada de produtos químicos ao corpo do sujeito na saída das câmaras, eles podem sofrer de ERS
-  (Síndrome de rejeição ambiental). Para garantir a segurança do sujeito, é altamente recomendável que você coloque um ERSI
-  (Inibidor da Síndrome de Rejeição Ambiental) pode entrar no dispensador antes de continuar.}
+{106}{}{AVISO: perÃ­odos prolongados de tempo em um ambiente de congelamento profundo alteram os processos quÃ­micos do corpo.
+Â  Sem a aplicaÃ§Ã£o adequada de produtos quÃ­micos ao corpo do sujeito na saÃ­da das cÃ¢maras, eles podem sofrer de ERS
+Â  (SÃ­ndrome de rejeiÃ§Ã£o ambiental). Para garantir a seguranÃ§a do sujeito, Ã© altamente recomendÃ¡vel que vocÃª coloque um ERSI
+Â  (Inibidor da SÃ­ndrome de RejeiÃ§Ã£o Ambiental) pode entrar no dispensador antes de continuar.}
 {107}{}{Oh maravilhoso. Acabei de acordar uma pilha de ossos.}
-{108}{}{Não, voltar ao Menu Principal.}
+{108}{}{NÃ£o, voltar ao Menu Principal.}
 {109}{}{Recuperando o sujeito do teste.}
 {110}{}{Recuperando o sujeito do teste.}
 {111}{}{Recuperando o sujeito do teste.}
-{112}{}{Obrigado por usar o Computador de Controle de Hibernação.}
-{113}{}{Você vê um computador grande.}
-{114}{}{Você vê o computador de controle de hibernação.}
-{115}{}{Você vê um computador que é usado para regular qualquer coisa a ver com as Cubas de Hibernação.}
+{112}{}{Obrigado por usar o Computador de Controle de HibernaÃ§Ã£o.}
+{113}{}{VocÃª vÃª um computador grande.}
+{114}{}{VocÃª vÃª o computador de controle de hibernaÃ§Ã£o.}
+{115}{}{VocÃª vÃª um computador que Ã© usado para regular qualquer coisa a ver com as Cubas de HibernaÃ§Ã£o.}
 {116}{}{Coloque o recipiente ERSI no dispensador.}
 {117}{}{Proceda de qualquer maneira.}
-{118}{}{Os inibidores da síndrome de rejeição ambiental foram aplicados com sucesso na amostra. A frequência cardíaca do espécime parece normal. Por favor
-  avance para a câmara Cryo para recuperação.}
-{119}{}{ADVERTÊNCIA: Não foram aplicados inibidores da síndrome de rejeição ambiental à amostra. O estado do espécime é desconhecido. Por favor
-  avance para a câmara Cryo para recuperação.}
-{120}{}{Hmm, talvez eu devesse ir ver se eu posso encontrar uma dessas latas ERSI. Tem que haver algum lugar por aqui para obter esses produtos químicos ...}
+{118}{}{Os inibidores da sÃ­ndrome de rejeiÃ§Ã£o ambiental foram aplicados com sucesso na amostra. A frequÃªncia cardÃ­aca do espÃ©cime parece normal. Por favor
+Â  avance para a cÃ¢mara Cryo para recuperaÃ§Ã£o.}
+{119}{}{ADVERTÃŠNCIA: NÃ£o foram aplicados inibidores da sÃ­ndrome de rejeiÃ§Ã£o ambiental Ã  amostra. O estado do espÃ©cime Ã© desconhecido. Por favor
+Â  avance para a cÃ¢mara Cryo para recuperaÃ§Ã£o.}
+{120}{}{Hmm, talvez eu devesse ir ver se eu posso encontrar uma dessas latas ERSI. Tem que haver algum lugar por aqui para obter esses produtos quÃ­micos ...}
 {200}{}{Leia entradas de registo.}
 {210}{}{Por favor, escolha um assunto.}
 {211}{}{Sujeito A.}
 {212}{}{Sujeito B.}
 {213}{}{Sujeito C.}
 {214}{}{Voltar.}
-{220}{}{Entrada de Log #87983: o Que finalmente aconteceu. Eles já lançaram suas armas nucleares em nós, e nós lançamos o nosso a eles. Bronze não vou entrar em detalhes, mas é, provavelmente, já o Dia do Juízo, sim, por agora. Rádio comunicações foram interrompidas indefinidamente. Coisa boa habituei a este lugar. Eu não tenho ilusões sobre eu nunca mais ver de novo a superfície.}
+{220}{}{Entrada de Log #87983: o Que finalmente aconteceu. Eles jÃ¡ lanÃ§aram suas armas nucleares em nÃ³s, e nÃ³s lanÃ§amos o nosso a eles. Bronze nÃ£o vou entrar em detalhes, mas Ã©, provavelmente, jÃ¡ o Dia do JuÃ­zo, sim, por agora. RÃ¡dio comunicaÃ§Ãµes foram interrompidas indefinidamente. Coisa boa habituei a este lugar. Eu nÃ£o tenho ilusÃµes sobre eu nunca mais ver de novo a superfÃ­cie.}
 {221}{}{[MAIS]}
-{222}{}{Eles trouxeram uma mulher para ser criada. Não disse por quê? só que era um negócio secreto. Ela era bem conhecida.
-  Petite, de aparência chinesa, e havia algo sobre seus olhos. Ela tirou dois agentes de serviços secretos quando encontrou
-  O que nós tenhamos em mente. Pegou-os com a guarda baixa e abriu os dois com um dos bisturis de Delnay, Jesus Cristo. Aquilo foi
-  uma visão para os olhos cansados. O terceiro conseguiu subjugá-la. Não é como se ela não passasse o resto daquela
-  vida aqui fora, se ela tivesse conseguido matá-los todos, mesmo assim. Ela está inconsciente agora e eles estão preparando seu tanque.
-  É mesmo ao lado da psicopata Patrick's também. Que pena. Gostaria de ter conseguido conhecê-la melhor.
-  -Dr. David Kimble, 23/10/2077}
-{230}{}{Log Entry # 81977: Dexter "Dex" Patrick é um espécime bastante interessante. Ele é um narcisista, mulher odiando,
-  assassino sociopático, conhecido por ocasionalmente em necrofilia e canibalismo. Ele tem coração frio ao extremo,
-  sem remorso para as vítimas, que variaram de crianças inocentes a idosos e deficientes. Seus alvos preferidos
-  eram mulheres jovens e atraentes, que ele geralmente seduziria na relação sexual antes de enviá-las brutalmente.}
+{222}{}{Eles trouxeram uma mulher para ser criada. NÃ£o disse por quÃª? sÃ³ que era um negÃ³cio secreto. Ela era bem conhecida.
+Â  Petite, de aparÃªncia chinesa, e havia algo sobre seus olhos. Ela tirou dois agentes de serviÃ§os secretos quando encontrou
+Â  O que nÃ³s tenhamos em mente. Pegou-os com a guarda baixa e abriu os dois com um dos bisturis de Delnay, Jesus Cristo. Aquilo foi
+Â  uma visÃ£o para os olhos cansados. O terceiro conseguiu subjugÃ¡-la. NÃ£o Ã© como se ela nÃ£o passasse o resto daquela
+Â  vida aqui fora, se ela tivesse conseguido matÃ¡-los todos, mesmo assim. Ela estÃ¡ inconsciente agora e eles estÃ£o preparando seu tanque.
+Â  Ã‰ mesmo ao lado da psicopata Patrick's tambÃ©m. Que pena. Gostaria de ter conseguido conhecÃª-la melhor.
+Â  -Dr. David Kimble, 23/10/2077}
+{230}{}{Log Entry # 81977: Dexter "Dex" Patrick Ã© um espÃ©cime bastante interessante. Ele Ã© um narcisista, mulher odiando,
+Â  assassino sociopÃ¡tico, conhecido por ocasionalmente em necrofilia e canibalismo. Ele tem coraÃ§Ã£o frio ao extremo,
+Â  sem remorso para as vÃ­timas, que variaram de crianÃ§as inocentes a idosos e deficientes. Seus alvos preferidos
+Â  eram mulheres jovens e atraentes, que ele geralmente seduziria na relaÃ§Ã£o sexual antes de enviÃ¡-las brutalmente.}
 {231}{}{[MAIS]}
-{232}{}{Apesar de seu comportamento anti-social, ele permanece incrivelmente sociável, até mesmo encantador. Na verdade, várias mulheres
-  Os membros da equipe parecem ser levados com ele, apesar de conhecer as numerosas atrocidades que cometeu. Dex confirmou
-  Atualmente, as vítimas têm 68, embora tenha se vangloriado de que o número real esteja bem nos três dígitos.
-  Embora o Dex tenha provado ser um mentiroso compulsivo, ainda acho difícil duvidar da validade de sua reivindicação.}
+{232}{}{Apesar de seu comportamento anti-social, ele permanece incrivelmente sociÃ¡vel, atÃ© mesmo encantador. Na verdade, vÃ¡rias mulheres
+Â  Os membros da equipe parecem ser levados com ele, apesar de conhecer as numerosas atrocidades que cometeu. Dex confirmou
+Â  Atualmente, as vÃ­timas tÃªm 68, embora tenha se vangloriado de que o nÃºmero real esteja bem nos trÃªs dÃ­gitos.
+Â  Embora o Dex tenha provado ser um mentiroso compulsivo, ainda acho difÃ­cil duvidar da validade de sua reivindicaÃ§Ã£o.}
 {233}{}{[MAIS]}
-{234}{}{O único apego emocional que Dex parece ter é para um ídolo do rock and roll do meio do século 20, a quem ele admira
-  como um modelo a seguir e talvez até como uma figura paterna. Ele também mostrou um apego insalubre a uma orelha humana cortada,
-  que identificamos como pertencendo a Vicky Safron, o coração doce do ensino médio de Dex e uma de suas primeiras vítimas.
-  Ele afirma manter a orelha no bolso para que Vicky possa ouvir os gritos de todas as vítimas.}
+{234}{}{O Ãºnico apego emocional que Dex parece ter Ã© para um Ã­dolo do rock and roll do meio do sÃ©culo 20, a quem ele admira
+Â  como um modelo a seguir e talvez atÃ© como uma figura paterna. Ele tambÃ©m mostrou um apego insalubre a uma orelha humana cortada,
+Â  que identificamos como pertencendo a Vicky Safron, o coraÃ§Ã£o doce do ensino mÃ©dio de Dex e uma de suas primeiras vÃ­timas.
+Â  Ele afirma manter a orelha no bolso para que Vicky possa ouvir os gritos de todas as vÃ­timas.}
 {235}{}{[MAIS]}
-{236}{}{Decidi ter o Dexter congelado por enquanto, já que o governo reencaminhou fundos para longe de nossos
-  projeto para aumentar ainda mais o esforço de guerra, e minha equipe está sendo reatribuída a outros locais. Deixar notar
-  que eu considero este um péssimo passo, já que nossos estudos sobre a natureza do mal humano estão progredindo rapidamente e eu acredito
-  Estamos perto de um grande avanço que seria muito mais valioso para o nosso governo do que a produção de mais "fatos de lata".
-  Mas eu divago.}
+{236}{}{Decidi ter o Dexter congelado por enquanto, jÃ¡ que o governo reencaminhou fundos para longe de nossos
+Â  projeto para aumentar ainda mais o esforÃ§o de guerra, e minha equipe estÃ¡ sendo reatribuÃ­da a outros locais. Deixar notar
+Â  que eu considero este um pÃ©ssimo passo, jÃ¡ que nossos estudos sobre a natureza do mal humano estÃ£o progredindo rapidamente e eu acredito
+Â  Estamos perto de um grande avanÃ§o que seria muito mais valioso para o nosso governo do que a produÃ§Ã£o de mais "fatos de lata".
+Â  Mas eu divago.}
 {237}{}{[MAIS]}
-{238}{}{Dex deve permanecer congelado aqui até que os poderes - que - sejam os seus sentidos e ressuscitem esse muito importante
-  projeto. Eu só espero que eu ainda esteja por perto para retomar o meu trabalho quando esse dia chegar.
-  -Dr. Dustin C. Delnay, 13/04/2075}
-{240}{}{Entrada de registro # 80052: O sargento Christopher "Cat" Jules foi designado para detalhes de segurança militar da EPA em 17/02/2074.
-  Antes disso, ele estava ligado a uma unidade de reconhecimento do 205th Airborne. O sargento tem um impressionante recorde de combate,
-  e é um dos braços de energia de maior classificação e especialistas de combate desarmados em sua unidade. No entanto, essas realizações são
-  marcado por uma história igualmente longa de acusações de roubo muito insignificante, repetidas razões de estar fora de uniforme e uma atitude
-  de extrema arrogância para oficiais superiores.}
+{238}{}{Dex deve permanecer congelado aqui atÃ© que os poderes - que - sejam os seus sentidos e ressuscitem esse muito importante
+Â  projeto. Eu sÃ³ espero que eu ainda esteja por perto para retomar o meu trabalho quando esse dia chegar.
+Â  -Dr. Dustin C. Delnay, 13/04/2075}
+{240}{}{Entrada de registro # 80052: O sargento Christopher "Cat" Jules foi designado para detalhes de seguranÃ§a militar da EPA em 17/02/2074.
+Â  Antes disso, ele estava ligado a uma unidade de reconhecimento do 205th Airborne. O sargento tem um impressionante recorde de combate,
+Â  e Ã© um dos braÃ§os de energia de maior classificaÃ§Ã£o e especialistas de combate desarmados em sua unidade. No entanto, essas realizaÃ§Ãµes sÃ£o
+Â  marcado por uma histÃ³ria igualmente longa de acusaÃ§Ãµes de roubo muito insignificante, repetidas razÃµes de estar fora de uniforme e uma atitude
+Â  de extrema arrogÃ¢ncia para oficiais superiores.}
 {241}{}{[MAIS]}
-{242}{}{Sargento. Jules foi recrutado como sujeito de teste para o Projeto de Reflexão Humana em 10/05/2075 em troca da remoção de
-  Alguns desses relatórios de seu arquivo. Complicações surgiram do julgamento inicial e do Sgt. Jules foi sedado pela segurança
-  de si mesmo a seu redor.}
+{242}{}{Sargento. Jules foi recrutado como sujeito de teste para o Projeto de ReflexÃ£o Humana em 10/05/2075 em troca da remoÃ§Ã£o de
+Â  Alguns desses relatÃ³rios de seu arquivo. ComplicaÃ§Ãµes surgiram do julgamento inicial e do Sgt. Jules foi sedado pela seguranÃ§a
+Â  de si mesmo a seu redor.}
 {243}{}{[MAIS]}
-{244}{}{Passaram-se alguns dias e Sgt. Jules parece estar em boa saúde, mas ele desenvolveu caninos alongados e
-  certas características excêntricas, além dos objetivos do projeto de reflexos melhorados e capacidade sensorial aumentada.
-  Tenho registado vários relatórios com o Comandante da base solicitando um financiamento adicional, mas, infelizmente, parece que existem aqueles que não o fazem
-  Desejo que meu projeto continue. Isso é bastante envergonhado, já que as amostras de tecido e os relatórios de psicologia para Sgt. Jules indica
-  apenas desfiguração menor e uma tendência para uma capacidade de atenção ligeiramente reduzida. Além disso, ele está perfeitamente em forma
-  Para o serviço e de fato, ele provavelmente é mais capaz do que antes como resultado do tratamento. Até que mais financiamento seja
-  recebeu para este projeto, Sgt. Jules deve permanecer em animação suspensa.
-  -Dr. R.D. Crichton, 11/04/2075}
+{244}{}{Passaram-se alguns dias e Sgt. Jules parece estar em boa saÃºde, mas ele desenvolveu caninos alongados e
+Â  certas caracterÃ­sticas excÃªntricas, alÃ©m dos objetivos do projeto de reflexos melhorados e capacidade sensorial aumentada.
+Â  Tenho registado vÃ¡rios relatÃ³rios com o Comandante da base solicitando um financiamento adicional, mas, infelizmente, parece que existem aqueles que nÃ£o o fazem
+Â  Desejo que meu projeto continue. Isso Ã© bastante envergonhado, jÃ¡ que as amostras de tecido e os relatÃ³rios de psicologia para Sgt. Jules indica
+Â  apenas desfiguraÃ§Ã£o menor e uma tendÃªncia para uma capacidade de atenÃ§Ã£o ligeiramente reduzida. AlÃ©m disso, ele estÃ¡ perfeitamente em forma
+Â  Para o serviÃ§o e de fato, ele provavelmente Ã© mais capaz do que antes como resultado do tratamento. AtÃ© que mais financiamento seja
+Â  recebeu para este projeto, Sgt. Jules deve permanecer em animaÃ§Ã£o suspensa.
+Â  -Dr. R.D. Crichton, 11/04/2075}
 {300}{}{Escolha um sujeito:}
 {301}{}{Sargento Christopher "Cat" Jules}
 {302}{}{Dexter "Dex" Patrick}

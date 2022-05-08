@@ -1,18 +1,18 @@
 {100}{}{You see a mutant - and a tame one at that.}
-{101}{}{Ez Lenny, emlékszel? A visszataszító.}
-{102}{}{Hoppá! Ez a legény igazi mesterm?. Mindamellett, hogy zöld és ronda, több sebhely van rajta, mint egy vén kurván. Ez minden bizonnyal egy harcos.}
-{103}{}{Lenny vagyok, te pedig egy mocsokláda. T?nj innen!}
-{104}{}{Miért zavarod Lennyt, te kis fehér hernyó?}
-{105}{}{Mit akarsz Lennyt?l, te értéktelen ember?}
-{106}{}{Piszkálj csak... majd elmondhatod a teremt?dnek, hogy Lenny küldött téged.}
-{107}{}{Örülök, hogy találkoztunk. Lenny vagyok... te pedig csakis egy Szar-Agyú lehetsz. Ha Ha!}
-{108}{}{Mondd meg a mutáns gazdádnak, hogy a nevem Lenny, rabszolga!}
-{109}{}{Hé, mutáns testvérem, Lenny kiváncsi, miért is lógsz ezzel az emberi söpredékkel?}
-{110}{}{Lenny nem beszél senkivel. A kis mutánsokat a rabszolgáivá teszi, te hernyó!}
-{111}{}{Lenny azt mondja, hogy te, meg a seggnyaló mutáns Tom elmehettek a fenébe.}
-{112}{}{Vigyázz! Lenny nem megszelídített mutáns, mint amilyen neked van.}
-{113}{}{Nézdmá', a kis sápadtb?r? visszatért!}
-{114}{}{Szállj le rólam, ember!}
-{115}{}{Kopj le, tuskó!}
-{116}{}{Na, mi van? Ki kellene cserélni a pelenkádat?}
-{117}{}{Annyi eszed van, mint egy rakás téglának, ember!}
+{101}{}{Ez Lenny, emlÃ©kszel? A visszataszÃ­tÃ³.}
+{102}{}{HoppÃ¡! Ez a legÃ©ny igazi mesterm?. Mindamellett, hogy zÃ¶ld Ã©s ronda, tÃ¶bb sebhely van rajta, mint egy vÃ©n kurvÃ¡n. Ez minden bizonnyal egy harcos.}
+{103}{}{Lenny vagyok, te pedig egy mocsoklÃ¡da. T?nj innen!}
+{104}{}{MiÃ©rt zavarod Lennyt, te kis fehÃ©r hernyÃ³?}
+{105}{}{Mit akarsz Lennyt?l, te Ã©rtÃ©ktelen ember?}
+{106}{}{PiszkÃ¡lj csak... majd elmondhatod a teremt?dnek, hogy Lenny kÃ¼ldÃ¶tt tÃ©ged.}
+{107}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk. Lenny vagyok... te pedig csakis egy Szar-AgyÃº lehetsz. Ha Ha!}
+{108}{}{Mondd meg a mutÃ¡ns gazdÃ¡dnak, hogy a nevem Lenny, rabszolga!}
+{109}{}{HÃ©, mutÃ¡ns testvÃ©rem, Lenny kivÃ¡ncsi, miÃ©rt is lÃ³gsz ezzel az emberi sÃ¶predÃ©kkel?}
+{110}{}{Lenny nem beszÃ©l senkivel. A kis mutÃ¡nsokat a rabszolgÃ¡ivÃ¡ teszi, te hernyÃ³!}
+{111}{}{Lenny azt mondja, hogy te, meg a seggnyalÃ³ mutÃ¡ns Tom elmehettek a fenÃ©be.}
+{112}{}{VigyÃ¡zz! Lenny nem megszelÃ­dÃ­tett mutÃ¡ns, mint amilyen neked van.}
+{113}{}{NÃ©zdmÃ¡', a kis sÃ¡padtb?r? visszatÃ©rt!}
+{114}{}{SzÃ¡llj le rÃ³lam, ember!}
+{115}{}{Kopj le, tuskÃ³!}
+{116}{}{Na, mi van? Ki kellene cserÃ©lni a pelenkÃ¡dat?}
+{117}{}{Annyi eszed van, mint egy rakÃ¡s tÃ©glÃ¡nak, ember!}

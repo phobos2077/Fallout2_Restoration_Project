@@ -1,63 +1,63 @@
-{100}{}{Widzisz mê¿czyznê nosz¹cego odznakê policji RNK.}
-{101}{}{To Jack, zastêpca ramienia sprawiedliwoœci w RNK.}
-{102}{}{W porównaniu z humorem tego faceta burza gradowa jest delikatnym, zwiewnym ob³oczkiem. Nic chyba nie zdo³a otworzyæ jego zaciœniêtej szczeki, ¿y³y wyst¹pi³y mu na czo³o, a jego sylwetka nie przedstawia nawet odrobiny radoœci.}
-{103}{}{Nie chcê teraz s³yszeæ o twoich problemach. Zabierz je do kogoœ innego.}
-{104}{}{Wiesz co, nie musz¹ tego wytrzymywaæ - ani ciebie, ani nikogo innego.}
-{105}{}{Cholerna by³a zabra³a mi wszystko, co mia³em.}
-{106}{}{Wiesz, zrobi³a ze mnie g³upka. Nikt nie robi g³upka z Jacka.}
-{107}{}{Któregoœ dnia poka¿ê jej. Poka¿ê wszystkim...}
-{108}{}{Na co siê gapisz? Won st¹d!}
-{109}{}{Poca³ujcie mnie gdzieœ! To ja, Jack! Ludzie, lepiej mnie teraz pos³uchajcie!}
-{110}{}{Mam tu bombê, wiêc nie próbujcie ¿adnych sztuczek!}
-{111}{}{Ludzie zawsze œmiali siê z Jacka, nazywali go Szurniêtym Jackiem - no i kto siê teraz œmieje?}
-{112}{}{Liczê do trzech i je¿eli Mira siê tu nie pojawi, to rozpieprzê tê chatê. Raz...}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ noszÄ…cego odznakÄ™ policji RNK.}
+{101}{}{To Jack, zastÄ™pca ramienia sprawiedliwoÅ›ci w RNK.}
+{102}{}{W porÃ³wnaniu z humorem tego faceta burza gradowa jest delikatnym, zwiewnym obÅ‚oczkiem. Nic chyba nie zdoÅ‚a otworzyÄ‡ jego zaciÅ›niÄ™tej szczeki, Å¼yÅ‚y wystÄ…piÅ‚y mu na czoÅ‚o, a jego sylwetka nie przedstawia nawet odrobiny radoÅ›ci.}
+{103}{}{Nie chcÄ™ teraz sÅ‚yszeÄ‡ o twoich problemach. Zabierz je do kogoÅ› innego.}
+{104}{}{Wiesz co, nie muszÄ… tego wytrzymywaÄ‡ - ani ciebie, ani nikogo innego.}
+{105}{}{Cholerna byÅ‚a zabraÅ‚a mi wszystko, co miaÅ‚em.}
+{106}{}{Wiesz, zrobiÅ‚a ze mnie gÅ‚upka. Nikt nie robi gÅ‚upka z Jacka.}
+{107}{}{KtÃ³regoÅ› dnia pokaÅ¼Ä™ jej. PokaÅ¼Ä™ wszystkim...}
+{108}{}{Na co siÄ™ gapisz? Won stÄ…d!}
+{109}{}{PocaÅ‚ujcie mnie gdzieÅ›! To ja, Jack! Ludzie, lepiej mnie teraz posÅ‚uchajcie!}
+{110}{}{Mam tu bombÄ™, wiÄ™c nie prÃ³bujcie Å¼adnych sztuczek!}
+{111}{}{Ludzie zawsze Å›miali siÄ™ z Jacka, nazywali go SzurniÄ™tym Jackiem - no i kto siÄ™ teraz Å›mieje?}
+{112}{}{LiczÄ™ do trzech i jeÅ¼eli Mira siÄ™ tu nie pojawi, to rozpieprzÄ™ tÄ™ chatÄ™. Raz...}
 {113}{}{Dwa...}
 {114}{}{Trzy....}
-{115}{}{Czego chcesz? Co siê tak na mnie gapisz?}
-{116}{}{Daj mi spokój, rozumiesz?}
-{117}{}{Cholerna by³a - to wszystko jej wina.}
-{118}{}{Odsun¹æ siê! Mam bombê!}
-{119}{}{Nie rób tego, Jack. Zawsze jest lepsze rozwi¹zanie.}
-{120}{}{Ee - stój.}
-{121}{}{Ta, jasne. Co ty mo¿esz o tym wiedzieæ?}
-{122}{}{Wiem, ¿e sprawy czasem Ÿle wygl¹daj¹, ale wysadzanie ró¿nych rzeczy niczego nie rozwi¹zuje.}
-{123}{}{Nic. Gówno wiem o twoich problemach. Mo¿e ty mi lepiej powiesz.}
-{124}{}{Co to - jakaœ sztuczka? Zwodzisz Jacka, a¿ twoi kumple przyjd¹ i go zabij¹?}
-{125}{}{Kto chce ciê zabiæ?}
-{126}{}{Nie bój siê, nikt ciê nie skrzywdzi.}
-{127}{}{Na przyk³ad ta cholerna suka, moja by³a ¿ona Mira. Ona chce mnie ukatrupiæ.}
-{128}{}{A wiêc pozwól, aby zajê³o siê ni¹ prawo. A nie w ten sposób, Jack.}
-{129}{}{Masz racjê. Wynajê³a mnie, ¿eby ciê zabiæ. A wiêc, co na to powiesz, co? Co ty na to, Jack?}
+{115}{}{Czego chcesz? Co siÄ™ tak na mnie gapisz?}
+{116}{}{Daj mi spokÃ³j, rozumiesz?}
+{117}{}{Cholerna byÅ‚a - to wszystko jej wina.}
+{118}{}{OdsunÄ…Ä‡ siÄ™! Mam bombÄ™!}
+{119}{}{Nie rÃ³b tego, Jack. Zawsze jest lepsze rozwiÄ…zanie.}
+{120}{}{Ee - stÃ³j.}
+{121}{}{Ta, jasne. Co ty moÅ¼esz o tym wiedzieÄ‡?}
+{122}{}{Wiem, Å¼e sprawy czasem Åºle wyglÄ…dajÄ…, ale wysadzanie rÃ³Å¼nych rzeczy niczego nie rozwiÄ…zuje.}
+{123}{}{Nic. GÃ³wno wiem o twoich problemach. MoÅ¼e ty mi lepiej powiesz.}
+{124}{}{Co to - jakaÅ› sztuczka? Zwodzisz Jacka, aÅ¼ twoi kumple przyjdÄ… i go zabijÄ…?}
+{125}{}{Kto chce ciÄ™ zabiÄ‡?}
+{126}{}{Nie bÃ³j siÄ™, nikt ciÄ™ nie skrzywdzi.}
+{127}{}{Na przykÅ‚ad ta cholerna suka, moja byÅ‚a Å¼ona Mira. Ona chce mnie ukatrupiÄ‡.}
+{128}{}{A wiÄ™c pozwÃ³l, aby zajÄ™Å‚o siÄ™ niÄ… prawo. A nie w ten sposÃ³b, Jack.}
+{129}{}{Masz racjÄ™. WynajÄ™Å‚a mnie, Å¼eby ciÄ™ zabiÄ‡. A wiÄ™c, co na to powiesz, co? Co ty na to, Jack?}
 {130}{}{Kim do cholery jest Mira?}
-{131}{}{W porz¹dku, ty gnido. Zaczynajmy!}
-{132}{}{Chyba ¿artujesz! To ja jestem prawem. Widzisz, co to da³o dobrego.}
-{133}{}{Jack, zastanów siê.}
-{134}{}{A wiêc wysadzenie elektrowni za³atwi Mirê?}
-{135}{}{Tak, jak powiedzia³em. Moj¹ by³¹. Przy³apa³em j¹, jak siê puszcza, wiêc teraz mówi, jakim to ja jestem z³ym facetem. S¹d da³ jej wszystko, a ona wci¹¿ próbuje mnie udupiæ.}
-{136}{}{Hej - tak nie mo¿e byæ. To nie fair.}
-{137}{}{Mo¿esz siê z tego wykaraskaæ. Wszystko z czasem mija. Ona w koñcu o tobie zapomni.}
-{138}{}{Jasne... Nie. Kurde, nie wiem. Muszê coœ zrobiæ. Niech ludzie wiedz¹, ¿e nie mog¹ pomiataæ Jackiem.}
-{139}{}{Oni o tym wiedza, Jack. Popatrz na nich. Teraz siê wysadzisz, a oni nie bêd¹ ciê ju¿ w ogóle szanowaæ.}
-{140}{}{Pos³uchaj, przemyœl to sobie. WysadŸ to miejsce, a bêdzie to dowodem na wszystko, co ona o tobie mówi.}
-{141}{}{Naprawdê, Sherlocku? Teraz ludzie mnie pos³uchaj¹.}
-{142}{}{Nikt ciê nie bêdzie s³ucha³, je¿eli bêdziesz tak wymachiwa³ bomb¹. Od³ó¿ j¹, wyjdŸ na zewn¹trz, a da siê to za³atwiæ.}
-{143}{}{Pos³uchaj, przemyœl to sobie. Wysadzisz to miejsce, to ludzie powiedz¹ "Jack poszed³ na ³atwiznê. Da³ siê pomiataæ przez swoj¹ by³¹." Ona wygra, ty przegrasz.}
-{144}{}{Naprawdê tak myœlisz?}
+{131}{}{W porzÄ…dku, ty gnido. Zaczynajmy!}
+{132}{}{Chyba Å¼artujesz! To ja jestem prawem. Widzisz, co to daÅ‚o dobrego.}
+{133}{}{Jack, zastanÃ³w siÄ™.}
+{134}{}{A wiÄ™c wysadzenie elektrowni zaÅ‚atwi MirÄ™?}
+{135}{}{Tak, jak powiedziaÅ‚em. MojÄ… byÅ‚Ä…. PrzyÅ‚apaÅ‚em jÄ…, jak siÄ™ puszcza, wiÄ™c teraz mÃ³wi, jakim to ja jestem zÅ‚ym facetem. SÄ…d daÅ‚ jej wszystko, a ona wciÄ…Å¼ prÃ³buje mnie udupiÄ‡.}
+{136}{}{Hej - tak nie moÅ¼e byÄ‡. To nie fair.}
+{137}{}{MoÅ¼esz siÄ™ z tego wykaraskaÄ‡. Wszystko z czasem mija. Ona w koÅ„cu o tobie zapomni.}
+{138}{}{Jasne... Nie. Kurde, nie wiem. MuszÄ™ coÅ› zrobiÄ‡. Niech ludzie wiedzÄ…, Å¼e nie mogÄ… pomiataÄ‡ Jackiem.}
+{139}{}{Oni o tym wiedza, Jack. Popatrz na nich. Teraz siÄ™ wysadzisz, a oni nie bÄ™dÄ… ciÄ™ juÅ¼ w ogÃ³le szanowaÄ‡.}
+{140}{}{PosÅ‚uchaj, przemyÅ›l to sobie. WysadÅº to miejsce, a bÄ™dzie to dowodem na wszystko, co ona o tobie mÃ³wi.}
+{141}{}{NaprawdÄ™, Sherlocku? Teraz ludzie mnie posÅ‚uchajÄ….}
+{142}{}{Nikt ciÄ™ nie bÄ™dzie sÅ‚uchaÅ‚, jeÅ¼eli bÄ™dziesz tak wymachiwaÅ‚ bombÄ…. OdÅ‚Ã³Å¼ jÄ…, wyjdÅº na zewnÄ…trz, a da siÄ™ to zaÅ‚atwiÄ‡.}
+{143}{}{PosÅ‚uchaj, przemyÅ›l to sobie. Wysadzisz to miejsce, to ludzie powiedzÄ… "Jack poszedÅ‚ na Å‚atwiznÄ™. DaÅ‚ siÄ™ pomiataÄ‡ przez swojÄ… byÅ‚Ä…." Ona wygra, ty przegrasz.}
+{144}{}{NaprawdÄ™ tak myÅ›lisz?}
 {145}{}{Tak, Jack. To prawda.}
-{146}{}{Jasne. A co sobie pomyœla³eœ - ¿e k³amiê?}
+{146}{}{Jasne. A co sobie pomyÅ›laÅ‚eÅ› - Å¼e kÅ‚amiÄ™?}
 {147}{}{Nie wiem.}
-{148}{}{Nie pozwól jej wygraæ, Jack.}
-{149}{}{Oto twoja szansa. B¹dŸ wielki. Daj jej popaliæ.}
-{150}{}{Pieprzyæ to. Fa³sz przeziera przez ciebie. Nie dbasz o mnie!}
-{151}{}{Ach, do diabla, mo¿e i masz racjê. To i tak nie by³ zbyt genialny pomys³.}
-{152}{}{Wiesz, zrobi³bym to.}
-{153}{}{Przeklêta Mira, teraz dostanie za swoje.}
-{154}{}{Teraz ludzie wiedz¹, kto to jest Jack, to na pewno.}
-{155}{}{Cofnij siê! Nie chcê ci zrobiæ krzywdy!}
-{156}{}{To ciê nie dotyczy!}
-{157}{}{No dalej, zabij mnie. Czy mnie to mo¿e jeszcze ruszaæ?}
+{148}{}{Nie pozwÃ³l jej wygraÄ‡, Jack.}
+{149}{}{Oto twoja szansa. BÄ…dÅº wielki. Daj jej popaliÄ‡.}
+{150}{}{PieprzyÄ‡ to. FaÅ‚sz przeziera przez ciebie. Nie dbasz o mnie!}
+{151}{}{Ach, do diabla, moÅ¼e i masz racjÄ™. To i tak nie byÅ‚ zbyt genialny pomysÅ‚.}
+{152}{}{Wiesz, zrobiÅ‚bym to.}
+{153}{}{PrzeklÄ™ta Mira, teraz dostanie za swoje.}
+{154}{}{Teraz ludzie wiedzÄ…, kto to jest Jack, to na pewno.}
+{155}{}{Cofnij siÄ™! Nie chcÄ™ ci zrobiÄ‡ krzywdy!}
+{156}{}{To ciÄ™ nie dotyczy!}
+{157}{}{No dalej, zabij mnie. Czy mnie to moÅ¼e jeszcze ruszaÄ‡?}
 {158}{}{To nie jest twoja walka. Zostaw mnie w spokoju.}
-{159}{}{Albo siê wysadzê, albo ty mnie zabijesz. Co za ró¿nica?}
-{160}{}{Nie próbujê ciê skrzywdziæ. Chcê tylko, aby pamiêtali...}
+{159}{}{Albo siÄ™ wysadzÄ™, albo ty mnie zabijesz. Co za rÃ³Å¼nica?}
+{160}{}{Nie prÃ³bujÄ™ ciÄ™ skrzywdziÄ‡. ChcÄ™ tylko, aby pamiÄ™tali...}
 {161}{}{Zdobywasz }
-{162}{}{ PD za zajêcie siê Jackiem dla Miry.}
+{162}{}{ PD za zajÄ™cie siÄ™ Jackiem dla Miry.}

@@ -1,343 +1,343 @@
 {100}{}{Ves a un hombre de mediana edad vestido con una bata blanca de laboratorio. Parece preocupado.}
 {101}{}{Ves al doctor Troy.}
 {102}{}{Ves a un hombre de mediana edad vestido con una bata blanca de laboratorio. Parece preocupado.}
-{103}{}{Veamos... tenemos tres procedimientos de inoculación programados para mañana por la mañana.}
-{104}{}{Te juro que Gregory es hipocondríaco...}
-{105}{}{Todavía tengo que hacerles exámenes médicos a esos nuevos siervos.}
-{106}{}{Phyllis, ¿podrías traerme el análisis de sangre del procónsul, por favor?}
-{107}{}{Qué extraño... estos resultados no son coherentes con niveles de plaquetas bajos.}
-{108}{}{Quizá podamos clonar ese bazo a partir de las células que tomamos esta tarde.}
-{109}{}{Es necesario introducir más vitaminas en los suplementos alimenticios...}
+{103}{}{Veamos... tenemos tres procedimientos de inoculaciÃ³n programados para maÃ±ana por la maÃ±ana.}
+{104}{}{Te juro que Gregory es hipocondrÃ­aco...}
+{105}{}{TodavÃ­a tengo que hacerles exÃ¡menes mÃ©dicos a esos nuevos siervos.}
+{106}{}{Phyllis, Â¿podrÃ­as traerme el anÃ¡lisis de sangre del procÃ³nsul, por favor?}
+{107}{}{QuÃ© extraÃ±o... estos resultados no son coherentes con niveles de plaquetas bajos.}
+{108}{}{QuizÃ¡ podamos clonar ese bazo a partir de las cÃ©lulas que tomamos esta tarde.}
+{109}{}{Es necesario introducir mÃ¡s vitaminas en los suplementos alimenticios...}
 {110}{}{Hmmmmm.}
-{111}{}{Phyllis, ¿podrías traerme una copia del expediente de Helen, por favor?}
-{112}{}{Y pensar que podía haber aceptado ese trabajo en LoveLine...}
+{111}{}{Phyllis, Â¿podrÃ­as traerme una copia del expediente de Helen, por favor?}
+{112}{}{Y pensar que podÃ­a haber aceptado ese trabajo en LoveLine...}
 {113}{}{Me estoy cansando de hacer estas listas para la Primer Ciudadano...}
-{114}{}{¿Otra solicitud para una lista de suministros médicos? ¡Pero si envié una ayer mismo!}
-{115}{}{¡Un mutante! ¡Guardias!}
-{116}{}{¡Un necrófago! ¡Guardias!}
-{117}{}{Hola, soy el doctor Troy. ¿Cómo puedo ayudarte?}
-{118}{}{Me duele, aquí duele}
-{119}{}{¿Asis-te-tencia?}
-{120}{}{(Arrástrate)}
-{121}{}{Busco la computadora principal. ¿Sabes dónde está?}
-{122}{}{¿Qué es lo que haces aquí?}
-{123}{}{Sólo pasaba por aquí, gracias.}
-{124}{}{¿En serio? Es un placer conocerte. Si tienes tiempo, quizá podríamos comparar notas. 
-No suelo tener la oportunidad de hablar con otro médico.}
-{125}{}{Por supuesto. Me encantaría aprender algunas de las técnicas médicas que usáis los Ciudadanos.}
-{126}{}{Ahora mismo no. Tenía otras preguntas...}
-{127}{}{Quizá después. Debo irme.}
-{128}{}{¡Excelente! Bien, en primer lugar, deja que haga la visita guiada. Aquí, tenemos los sistemas de monitorización...}
+{114}{}{Â¿Otra solicitud para una lista de suministros mÃ©dicos? Â¡Pero si enviÃ© una ayer mismo!}
+{115}{}{Â¡Un mutante! Â¡Guardias!}
+{116}{}{Â¡Un necrÃ³fago! Â¡Guardias!}
+{117}{}{Hola, soy el doctor Troy. Â¿CÃ³mo puedo ayudarte?}
+{118}{}{Me duele, aquÃ­ duele}
+{119}{}{Â¿Asis-te-tencia?}
+{120}{}{(ArrÃ¡strate)}
+{121}{}{Busco la computadora principal. Â¿Sabes dÃ³nde estÃ¡?}
+{122}{}{Â¿QuÃ© es lo que haces aquÃ­?}
+{123}{}{SÃ³lo pasaba por aquÃ­, gracias.}
+{124}{}{Â¿En serio? Es un placer conocerte. Si tienes tiempo, quizÃ¡ podrÃ­amos comparar notas. 
+No suelo tener la oportunidad de hablar con otro mÃ©dico.}
+{125}{}{Por supuesto. Me encantarÃ­a aprender algunas de las tÃ©cnicas mÃ©dicas que usÃ¡is los Ciudadanos.}
+{126}{}{Ahora mismo no. TenÃ­a otras preguntas...}
+{127}{}{QuizÃ¡ despuÃ©s. Debo irme.}
+{128}{}{Â¡Excelente! Bien, en primer lugar, deja que haga la visita guiada. AquÃ­, tenemos los sistemas de monitorizaciÃ³n...}
 {129}{}{}
-{130}{}{... y así es como podemos clonar células para reemplazar miembros. Debemos ser cuidadosos para que los
+{130}{}{... y asÃ­ es como podemos clonar cÃ©lulas para reemplazar miembros. Debemos ser cuidadosos para que los
  cultivos de tejido no se contaminen, pero... sea como sea, creo que ya he hablado demasiado... espero que haya sido
  educativo.}
-{131}{}{Lo ha sido, desde luego. Tenía otras preguntas que me gustaría hacerte...}
+{131}{}{Lo ha sido, desde luego. TenÃ­a otras preguntas que me gustarÃ­a hacerte...}
 {132}{}{Gracias por la visita, doctor Troy. Ha sido muy educativo.}
-{133}{}{¿La computadora principal? Abajo, en el tercer nivel. Simplemente baja con el ascensor, sigue recto
- hasta llegar al cruce en forma de T, y luego toma la primera a la izquierda. Eso se llevará a la sala de control.}
-{134}{}{¿Qué es lo que haces aquí?}
+{133}{}{Â¿La computadora principal? Abajo, en el tercer nivel. Simplemente baja con el ascensor, sigue recto
+ hasta llegar al cruce en forma de T, y luego toma la primera a la izquierda. Eso se llevarÃ¡ a la sala de control.}
+{134}{}{Â¿QuÃ© es lo que haces aquÃ­?}
 {135}{}{Gracias.}
-{136}{}{Soy el médico principal de Ciudad Refugio. Cuido de todos los Ciudadanos de Ciudad Refugio y hago lo que puedo
+{136}{}{Soy el mÃ©dico principal de Ciudad Refugio. Cuido de todos los Ciudadanos de Ciudad Refugio y hago lo que puedo
  para mantenerlos saludables a todos.}
-{137}{}{Busco la computadora principal. ¿Sabes dónde está?}
-{138}{}{Ya veo. Quizá hablemos mas tarde.}
-{139}{}{Espera un momento... no recuerdo haberte visto antes por aquí. ¿Eres un Ciudadano?}
-{140}{}{Sí. Acabo de conseguir mis documentos de Ciudadanía.}
+{137}{}{Busco la computadora principal. Â¿Sabes dÃ³nde estÃ¡?}
+{138}{}{Ya veo. QuizÃ¡ hablemos mas tarde.}
+{139}{}{Espera un momento... no recuerdo haberte visto antes por aquÃ­. Â¿Eres un Ciudadano?}
+{140}{}{SÃ­. Acabo de conseguir mis documentos de CiudadanÃ­a.}
 {141}{}{En realidad, Soy }
-{142}{}{. Soy el capitán de la guardia.}
+{142}{}{. Soy el capitÃ¡n de la guardia.}
 {143}{}{Eh... claro. Claro que lo soy.}
 {144}{}{No, no lo soy.}
 {145}{}{Ha sido un placer conocerte, }
-{146}{}{. Si alguna vez necesitas mis servicios, puedes encontrarme aquí.}
-{147}{}{Gracias. Adiós.}
-{148}{}{No eres nativo de Ciudad Refugio, ¿verdad? Estoy seguro de que me acordaría de alguien
- como tú. ¿De dónde eres?}
-{149}{}{Espera un momento... eres un forastero, ¿verdad? ¿De dónde vienes?}
-{150}{}{De un pequeño poblado hacia el oeste, Arroyo.}
-{151}{}{¿Por qué lo quieres saber?}
-{152}{}{Eso no te incumbe, "doctor". ¿Me puedo ir ya, no tienes más preguntas que hacerme?}
+{146}{}{. Si alguna vez necesitas mis servicios, puedes encontrarme aquÃ­.}
+{147}{}{Gracias. AdiÃ³s.}
+{148}{}{No eres nativo de Ciudad Refugio, Â¿verdad? Estoy seguro de que me acordarÃ­a de alguien
+ como tÃº. Â¿De dÃ³nde eres?}
+{149}{}{Espera un momento... eres un forastero, Â¿verdad? Â¿De dÃ³nde vienes?}
+{150}{}{De un pequeÃ±o poblado hacia el oeste, Arroyo.}
+{151}{}{Â¿Por quÃ© lo quieres saber?}
+{152}{}{Eso no te incumbe, "doctor". Â¿Me puedo ir ya, no tienes mÃ¡s preguntas que hacerme?}
 {153}{}{No me gusta hablar sobre mi pasado.}
-{154}{}{¿Arroyo? No recuerdo haber oído hablar de él. Perdona por la pregunta. Sólo estaba buscando a alguien
- que hubiera viajado más allá de los muros de Ciudad Refugio... la mayoría de los Ciudadanos nunca han abandonado la ciudad.}
-{155}{}{¿Buscando a alguien? ¿Por qué?}
-{156}{}{Fascinante. Pero, ¿qué tiene que ver conmigo?}
-{157}{}{Perdona por la pregunta. Sólo estaba buscando a alguien que hubiera viajado más allá de los muros de Ciudad
- Refugio... la mayoría de los Ciudadanos nunca han abandonado la ciudad.}
-{158}{}{¿Buscando a alguien? ¿Por qué?}
-{159}{}{Fascinante. Pero, ¿qué tiene que ver conmigo?}
+{154}{}{Â¿Arroyo? No recuerdo haber oÃ­do hablar de Ã©l. Perdona por la pregunta. SÃ³lo estaba buscando a alguien
+ que hubiera viajado mÃ¡s allÃ¡ de los muros de Ciudad Refugio... la mayorÃ­a de los Ciudadanos nunca han abandonado la ciudad.}
+{155}{}{Â¿Buscando a alguien? Â¿Por quÃ©?}
+{156}{}{Fascinante. Pero, Â¿quÃ© tiene que ver conmigo?}
+{157}{}{Perdona por la pregunta. SÃ³lo estaba buscando a alguien que hubiera viajado mÃ¡s allÃ¡ de los muros de Ciudad
+ Refugio... la mayorÃ­a de los Ciudadanos nunca han abandonado la ciudad.}
+{158}{}{Â¿Buscando a alguien? Â¿Por quÃ©?}
+{159}{}{Fascinante. Pero, Â¿quÃ© tiene que ver conmigo?}
 {160}{}{Debes haberte perdido por las calles de la ciudad... vuelve por el pasillo por el que entraste,
- y gira a la derecha. Eso te llevará de vuelta a la superficie, ¿está claro?}
-{161}{}{Gracias por las orientaciones... a veces me pierdo, ¿sabes? Volveré a
+ y gira a la derecha. Eso te llevarÃ¡ de vuelta a la superficie, Â¿estÃ¡ claro?}
+{161}{}{Gracias por las orientaciones... a veces me pierdo, Â¿sabes? VolverÃ© a
  la superficie ahora mismo.}
-{162}{}{No creo que esté listo para irme ahora mismo, "doctor". Antes, me gustaría ver tus
- mercancías.}
+{162}{}{No creo que estÃ© listo para irme ahora mismo, "doctor". Antes, me gustarÃ­a ver tus
+ mercancÃ­as.}
 {163}{}{He estado buscando a alguien que sea capaz de hacerme un recado especial.}
-{164}{}{¿Qué es eso?}
+{164}{}{Â¿QuÃ© es eso?}
 {165}{}{No me interesa, gracias.}
-{166}{}{¡Excelente! Me alegra que lo hayas reconsiderado.}
-{167}{}{Ha llegado a mis oídos que hay una nueva droga en el Yermo. Se llama "Jet", creo. No me importaría pagar mil dólares por una muestra de esta droga.}
-{168}{}{¿Jet? Tengo una muestra justo aquí.}
+{166}{}{Â¡Excelente! Me alegra que lo hayas reconsiderado.}
+{167}{}{Ha llegado a mis oÃ­dos que hay una nueva droga en el Yermo. Se llama "Jet", creo. No me importarÃ­a pagar mil dÃ³lares por una muestra de esta droga.}
+{168}{}{Â¿Jet? Tengo una muestra justo aquÃ­.}
 {169}{}{Casualmente tengo algo de Jet encima. Es tuyo por mil doscientos.}
-{170}{}{Tengo algo de Jet aquí... me desprendería de él a cambio de mil quinientos.}
-{171}{}{Así que... ¿quieres que meta ilegalmente algo de Jet en Ciudad Refugio para ti?}
-{172}{}{¿Qué quieres que haga?}
+{170}{}{Tengo algo de Jet aquÃ­... me desprenderÃ­a de Ã©l a cambio de mil quinientos.}
+{171}{}{AsÃ­ que... Â¿quieres que meta ilegalmente algo de Jet en Ciudad Refugio para ti?}
+{172}{}{Â¿QuÃ© quieres que haga?}
 {173}{}{No me interesa, gracias.}
-{174}{}{Lamento oír eso. Vuelve si cambias de opinión... gustosamente te compensaría por las
+{174}{}{Lamento oÃ­r eso. Vuelve si cambias de opiniÃ³n... gustosamente te compensarÃ­a por las
  molestias.}
-{175}{}{Tenía otras preguntas para ti...}
-{176}{}{¿Compensarme? Uhhhh... prefiero dinero en metálico, gracias. Adiós.}
-{177}{}{De acuerdo. Adiós.}
-{178}{}{Hmmmmm. Considerando el hecho de que ya lo tienes, eso es más que un precio justo. Muy bien. Aquí
- está tu dinero... y gracias.}
-{179}{}{Había algo más que te quería preguntar...}
-{180}{}{¿Sabes?, no creo que realmente quieras inhalar esa... porquería. Confía en mí.}
-{181}{}{¿Sabes cómo usarlo? Quiero decir, me he enterado de que para conseguir un buen subidón, tienes que cerrar
+{175}{}{TenÃ­a otras preguntas para ti...}
+{176}{}{Â¿Compensarme? Uhhhh... prefiero dinero en metÃ¡lico, gracias. AdiÃ³s.}
+{177}{}{De acuerdo. AdiÃ³s.}
+{178}{}{Hmmmmm. Considerando el hecho de que ya lo tienes, eso es mÃ¡s que un precio justo. Muy bien. AquÃ­
+ estÃ¡ tu dinero... y gracias.}
+{179}{}{HabÃ­a algo mÃ¡s que te querÃ­a preguntar...}
+{180}{}{Â¿Sabes?, no creo que realmente quieras inhalar esa... porquerÃ­a. ConfÃ­a en mÃ­.}
+{181}{}{Â¿Sabes cÃ³mo usarlo? Quiero decir, me he enterado de que para conseguir un buen subidÃ³n, tienes que cerrar
  las fosas nasales, expulsar todo el aire de los pulmones, entonces respiras profundamente, inhalas, y lo aguantas
  durante un minuto...}
 {182}{}{Ha sido un placer hacer negocios contigo, doctor. Cuidado con ese material.}
 {183}{}{"Gracias". Ya puedes irte.}
-{184}{}{Había algo más que quería preguntarte primero...}
-{185}{}{¿Sabes?, no creo que realmente quieras inhalar esa... porquería. Confía en mí.}
+{184}{}{HabÃ­a algo mÃ¡s que querÃ­a preguntarte primero...}
+{185}{}{Â¿Sabes?, no creo que realmente quieras inhalar esa... porquerÃ­a. ConfÃ­a en mÃ­.}
 {186}{}{Lo siento, Solo intentaba ayudar. Hasta luego, doctor.}
-{187}{}{¿De qué estás hablando?}
-{188}{}{Olvídalo. Había algo más que te quería preguntar...}
+{187}{}{Â¿De quÃ© estÃ¡s hablando?}
+{188}{}{OlvÃ­dalo. HabÃ­a algo mÃ¡s que te querÃ­a preguntar...}
 {189}{}{Bueno, sacan esa cosa de la mierda de brahmin.}
-{190}{}{Lo que hay en ese frasco de Jet son gases de excrementos de brahmin. Asqueroso, ¿no?}
-{191}{}{Lo que hay en ese frasco de Jet son gases de excrementos de brahmin. Asqueroso, ¿no? Ah, por cierto... estoy buscando bloqueadores de endorfinas. ¿Tienes alguno?}
-{192}{}{Bien, según aquí el chico listo, preparan ese material a partir de mierda de brahmin.}
-{193}{}{Bien, según aquí el chico listo, lo que hay en ese frasco de Jet son gases de excrementos de brahmin.
- Asqueroso, ¿no?}
-{194}{}{Bien, según aquí el chico listo, lo que hay en ese frasco de Jet son gases de excrementos de brahmin. Asqueroso, ¿no? Ah, por cierto... estoy buscando bloqueadores de endorfinas. ¿Tienes alguno?}
-{195}{}{Eh... da igual. Quizá es mejor que no lo sepas.}
+{190}{}{Lo que hay en ese frasco de Jet son gases de excrementos de brahmin. Asqueroso, Â¿no?}
+{191}{}{Lo que hay en ese frasco de Jet son gases de excrementos de brahmin. Asqueroso, Â¿no? Ah, por cierto... estoy buscando bloqueadores de endorfinas. Â¿Tienes alguno?}
+{192}{}{Bien, segÃºn aquÃ­ el chico listo, preparan ese material a partir de mierda de brahmin.}
+{193}{}{Bien, segÃºn aquÃ­ el chico listo, lo que hay en ese frasco de Jet son gases de excrementos de brahmin.
+ Asqueroso, Â¿no?}
+{194}{}{Bien, segÃºn aquÃ­ el chico listo, lo que hay en ese frasco de Jet son gases de excrementos de brahmin. Asqueroso, Â¿no? Ah, por cierto... estoy buscando bloqueadores de endorfinas. Â¿Tienes alguno?}
+{195}{}{Eh... da igual. QuizÃ¡ es mejor que no lo sepas.}
 {196}{}{Creo que debes estar... equivocado.}
-{197}{}{Bueno, es muy difícil de creer. Tenía otras preguntas...}
-{198}{}{No, en serio. Obtienen el Jet del estiércol de brahmin... lo usan como fertilizante.}
-{199}{}{No, en serio. Cultivaban alucinógenos en el estiércol de brahmin, y descubrieron
- que los gases hacían que los trabajadores se colocasen. Resulta que hay un extracto de proteína contaminada
+{197}{}{Bueno, es muy difÃ­cil de creer. TenÃ­a otras preguntas...}
+{198}{}{No, en serio. Obtienen el Jet del estiÃ©rcol de brahmin... lo usan como fertilizante.}
+{199}{}{No, en serio. Cultivaban alucinÃ³genos en el estiÃ©rcol de brahmin, y descubrieron
+ que los gases hacÃ­an que los trabajadores se colocasen. Resulta que hay un extracto de proteÃ­na contaminada
  de antes de la guerra en el organismo de los brahmines...}
 {200}{}{Probablemente lo sea. Aunque yo no lo creo. Ya nos veremos, doctor.}
-{201}{}{¿De verdad? Hmmmmm. Supongo que el... excremento de brahmin sería un buen fertilizante. No lo había pensado
- antes. Gracias, amigo. Tenía curiosidad por el proceso de fabricación.}
-{202}{}{Sí, excepto que usan mierda de brahmin para elaborar el Jet. Nos vemos, Doc.}
-{203}{}{No hay problema. Cuidado con ese material, ¿de acuerdo?}
-{204}{}{Oye, ¿no lo somos todos? Ya nos veremos, doctor.}
-{205}{}{Eso es... fascinante. Hmmmmm. Tal vez podría tomar muestras de sangre de brahmin en el
- patio, entonces... gracias, amigo mío. De hecho, muchísimas gracias. Tenía curiosidad por el
- proceso de fabricación.}
-{206}{}{No hay problema. Cuidado con ese material, ¿de acuerdo?}
-{207}{}{Oye, ¿no lo somos todos? Ya nos veremos, doctor.}
-{208}{}{¿Bloqueadores de endorfinas? ¿Para qué?}
-{209}{}{Creo que los bloqueadores de endorfina podrían usarse para neutralizar los efectos del Jet. Pero no puedo probarlo sin algunos de esos bloqueadores.}
-{210}{}{No importa. Hay algo más que quería preguntarte...}
+{201}{}{Â¿De verdad? Hmmmmm. Supongo que el... excremento de brahmin serÃ­a un buen fertilizante. No lo habÃ­a pensado
+ antes. Gracias, amigo. TenÃ­a curiosidad por el proceso de fabricaciÃ³n.}
+{202}{}{SÃ­, excepto que usan mierda de brahmin para elaborar el Jet. Nos vemos, Doc.}
+{203}{}{No hay problema. Cuidado con ese material, Â¿de acuerdo?}
+{204}{}{Oye, Â¿no lo somos todos? Ya nos veremos, doctor.}
+{205}{}{Eso es... fascinante. Hmmmmm. Tal vez podrÃ­a tomar muestras de sangre de brahmin en el
+ patio, entonces... gracias, amigo mÃ­o. De hecho, muchÃ­simas gracias. TenÃ­a curiosidad por el
+ proceso de fabricaciÃ³n.}
+{206}{}{No hay problema. Cuidado con ese material, Â¿de acuerdo?}
+{207}{}{Oye, Â¿no lo somos todos? Ya nos veremos, doctor.}
+{208}{}{Â¿Bloqueadores de endorfinas? Â¿Para quÃ©?}
+{209}{}{Creo que los bloqueadores de endorfina podrÃ­an usarse para neutralizar los efectos del Jet. Pero no puedo probarlo sin algunos de esos bloqueadores.}
+{210}{}{No importa. Hay algo mÃ¡s que querÃ­a preguntarte...}
 {211}{}{Nada. Tengo que irme.}
-{212}{}{Aquí no tenemos bloqueadores de endorfinas, pero podría programar el Autodoctor para hacer alguno. ¿Te importaría explicarme tu teoría?}
-{213}{}{Bueno, sabes que la adicción al Jet es probablemente la más difícil de eliminar, así que he pensado que si introdujésemos en el cuerpo bloqueadores de endorfinas, podríamos...}
-{215}{}{Estoy... estupefacto. Esa es, sencillamente, la solución más brillante que haya escuchado. He estado experimentando con métodos para curar la adicción al Jet durante meses, y no he conseguido nada.}
-{216}{}{¿También has estado trabajando en un antídoto?}
-{217}{}{Sí, solo que necesito una muestra de Jet.}
-{218}{}{Sí... y sin ningún éxito.}
-{219}{}{Es necesario detener el yugo que supone esta droga antes de que pueda propagarse. Porque... con la información que nos has proporcionado, ¡podríamos fabricar el antídoto hoy mismo! No nos rindamos.}
-{220}{}{¡Genial! Gracias, doctor.}
-{221}{}{¿Este hombre joven? ¿El creó el Jet?}
-{222}{}{Yo no le llamaría "hombre", pero sí, él diseñó el Jet. O eso es lo que afirma.}
-{223}{}{Ya, uno no lo pensaría al mirarlo.}
+{212}{}{AquÃ­ no tenemos bloqueadores de endorfinas, pero podrÃ­a programar el Autodoctor para hacer alguno. Â¿Te importarÃ­a explicarme tu teorÃ­a?}
+{213}{}{Bueno, sabes que la adicciÃ³n al Jet es probablemente la mÃ¡s difÃ­cil de eliminar, asÃ­ que he pensado que si introdujÃ©semos en el cuerpo bloqueadores de endorfinas, podrÃ­amos...}
+{215}{}{Estoy... estupefacto. Esa es, sencillamente, la soluciÃ³n mÃ¡s brillante que haya escuchado. He estado experimentando con mÃ©todos para curar la adicciÃ³n al Jet durante meses, y no he conseguido nada.}
+{216}{}{Â¿TambiÃ©n has estado trabajando en un antÃ­doto?}
+{217}{}{SÃ­, solo que necesito una muestra de Jet.}
+{218}{}{SÃ­... y sin ningÃºn Ã©xito.}
+{219}{}{Es necesario detener el yugo que supone esta droga antes de que pueda propagarse. Porque... con la informaciÃ³n que nos has proporcionado, Â¡podrÃ­amos fabricar el antÃ­doto hoy mismo! No nos rindamos.}
+{220}{}{Â¡Genial! Gracias, doctor.}
+{221}{}{Â¿Este hombre joven? Â¿El creÃ³ el Jet?}
+{222}{}{Yo no le llamarÃ­a "hombre", pero sÃ­, Ã©l diseÃ±Ã³ el Jet. O eso es lo que afirma.}
+{223}{}{Ya, uno no lo pensarÃ­a al mirarlo.}
 {224}{}{Myron, doctor Troy... doctor Troy, Myron.}
 {225}{}{Entonces, tengo algunas preguntas para este joven...}
-{226}{}{Eh, vale. Puede que quieras tomar una aspirina antes empezar. Esperaré aquí.}
+{226}{}{Eh, vale. Puede que quieras tomar una aspirina antes empezar. EsperarÃ© aquÃ­.}
 {227}{}{Adelante.}
-{228}{}{Adelante. Avísame si necesitas algo... como un bate de béisbol.}
-{229}{}{¿Emanaciones de brahmin? No es un proceso de fabricación convencional, pero... hmmmmm. Tal vez podría tomar
- muestras de sangre de brahmin en el patio, entonces... gracias, amigo mío.}
+{228}{}{Adelante. AvÃ­same si necesitas algo... como un bate de bÃ©isbol.}
+{229}{}{Â¿Emanaciones de brahmin? No es un proceso de fabricaciÃ³n convencional, pero... hmmmmm. Tal vez podrÃ­a tomar
+ muestras de sangre de brahmin en el patio, entonces... gracias, amigo mÃ­o.}
 {230}{}{No hay problema.}
 {231}{}{Claro.}
-{232}{}{También podrías decirle a ese vándalo amigo tuyo que está desperdiciando su considerable intelecto fabricando drogas. Además, sus modales y lenguaje dejan MUCHO que desear.}
-{233}{}{Háblame sobre ello.}
-{234}{}{Quizá deberías aflojar un poco, Doc. Un poco de droga nunca ha hecho mal a nadie. Bueno, excepto esos super estimulantes... y esteroides... y psico. Bueno, no he dicho nada. He de irme.}
-{235}{}{Lo difundiré.}
-{236}{}{Sí, estoy dispuesto a pagarte cien dólares por la muestra... y por tu silencio.}
-{237}{}{Tengo una muestra de Jet justo aquí.}
-{238}{}{¿Para qué quieres el Jet?}
+{232}{}{TambiÃ©n podrÃ­as decirle a ese vÃ¡ndalo amigo tuyo que estÃ¡ desperdiciando su considerable intelecto fabricando drogas. AdemÃ¡s, sus modales y lenguaje dejan MUCHO que desear.}
+{233}{}{HÃ¡blame sobre ello.}
+{234}{}{QuizÃ¡ deberÃ­as aflojar un poco, Doc. Un poco de droga nunca ha hecho mal a nadie. Bueno, excepto esos super estimulantes... y esteroides... y psico. Bueno, no he dicho nada. He de irme.}
+{235}{}{Lo difundirÃ©.}
+{236}{}{SÃ­, estoy dispuesto a pagarte cien dÃ³lares por la muestra... y por tu silencio.}
+{237}{}{Tengo una muestra de Jet justo aquÃ­.}
+{238}{}{Â¿Para quÃ© quieres el Jet?}
 {239}{}{Suena bien. Estoy dentro.}
 {240}{}{No me interesa.}
-{241}{}{Resultaría... útil para mí y mi trabajo que pudieras traerme una muestra de esta droga. Te pagaré cien dólares a la entrega. Pero es de la mayor importancia que mantengas esta transacción de forma confidencial.}
-{242}{}{Eh... ¿confidencial?}
-{243}{}{Oh, ¿de veras? ¿Cuánto vas a pagarme por mantenerme callado? Podría entregarte en este momento.}
-{244}{}{Tengo una muestra de Jet justo aquí.}
-{245}{}{¿Para qué quieres el Jet?}
+{241}{}{ResultarÃ­a... Ãºtil para mÃ­ y mi trabajo que pudieras traerme una muestra de esta droga. Te pagarÃ© cien dÃ³lares a la entrega. Pero es de la mayor importancia que mantengas esta transacciÃ³n de forma confidencial.}
+{242}{}{Eh... Â¿confidencial?}
+{243}{}{Oh, Â¿de veras? Â¿CuÃ¡nto vas a pagarme por mantenerme callado? PodrÃ­a entregarte en este momento.}
+{244}{}{Tengo una muestra de Jet justo aquÃ­.}
+{245}{}{Â¿Para quÃ© quieres el Jet?}
 {246}{}{Sin problemas. Puedes contar conmigo.}
 {247}{}{No me interesa.}
-{248}{}{Eh, sí... confidencial. Por ello, mantén el asunto entre tú y yo. No se lo digas a nadie.}
-{249}{}{Tengo una muestra de Jet justo aquí.}
-{250}{}{¿Para qué quieres el Jet?}
-{251}{}{¿Qué es lo que evitará que te entregue en este momento?}
-{252}{}{No hay problema. Lo mantendré "confidencial" y por ello, eh, no hablaré de ciertas cosas.}
+{248}{}{Eh, sÃ­... confidencial. Por ello, mantÃ©n el asunto entre tÃº y yo. No se lo digas a nadie.}
+{249}{}{Tengo una muestra de Jet justo aquÃ­.}
+{250}{}{Â¿Para quÃ© quieres el Jet?}
+{251}{}{Â¿QuÃ© es lo que evitarÃ¡ que te entregue en este momento?}
+{252}{}{No hay problema. Lo mantendrÃ© "confidencial" y por ello, eh, no hablarÃ© de ciertas cosas.}
 {253}{}{No me interesa.}
-{254}{}{Eso no te concierne. Consigue una muestra de Jet, tráemela, y te pagará cien
- dólares... y ese precio incluye tu silencio.}
-{255}{}{Bien, tengo una muestra de Jet aquí mismo.}
-{256}{}{¿Qué es lo que evitará que te entregue en este momento?}
+{254}{}{Eso no te concierne. Consigue una muestra de Jet, trÃ¡emela, y te pagarÃ¡ cien
+ dÃ³lares... y ese precio incluye tu silencio.}
+{255}{}{Bien, tengo una muestra de Jet aquÃ­ mismo.}
+{256}{}{Â¿QuÃ© es lo que evitarÃ¡ que te entregue en este momento?}
 {257}{}{Sin problemas. Puedes contar conmigo.}
 {258}{}{No me interesa.}
-{259}{}{¿Qu--? ¡No lo harías! ¡Cómo te *atreves* a amenazarme!}
-{260}{}{¡Oye! Cálmate, sólo lo comentaba. No hace falta entrar en pánico.}
-{261}{}{Podría, y lo haré. ¿Cuánto vale tu Ciudadanía para ti? La vida en el Yermo puede ser
+{259}{}{Â¿Qu--? Â¡No lo harÃ­as! Â¡CÃ³mo te *atreves* a amenazarme!}
+{260}{}{Â¡Oye! CÃ¡lmate, sÃ³lo lo comentaba. No hace falta entrar en pÃ¡nico.}
+{261}{}{PodrÃ­a, y lo harÃ©. Â¿CuÃ¡nto vale tu CiudadanÃ­a para ti? La vida en el Yermo puede ser
  bastante dura para cualquiera...}
-{262}{}{¡He sido un tonto por confiar en ti! Muy bien... ¿qué es lo que quieres?}
-{263}{}{Quinientos el primero de cada mes, y mantendré tu contrabando de drogas entre tú y yo.}
-{264}{}{Cien el primero de cada mes, y podrás mantener tu Ciudadanía.}
-{265}{}{Doscientos el primero de cada mes, y me mantendré callado.}
-{266}{}{¡¿Estás loco?! ¡No hay forma de que pueda permitirme eso!}
-{267}{}{Está bien, está bien. Que sean quinientos, y no necesitaremos involucrar a la Primer Ciudadano en esto.}
-{268}{}{Mejor que ENCUENTRES la forma de permitírtelo, o irás a mendigar las sobras en el Patio como el
+{262}{}{Â¡He sido un tonto por confiar en ti! Muy bien... Â¿quÃ© es lo que quieres?}
+{263}{}{Quinientos el primero de cada mes, y mantendrÃ© tu contrabando de drogas entre tÃº y yo.}
+{264}{}{Cien el primero de cada mes, y podrÃ¡s mantener tu CiudadanÃ­a.}
+{265}{}{Doscientos el primero de cada mes, y me mantendrÃ© callado.}
+{266}{}{Â¡Â¿EstÃ¡s loco?! Â¡No hay forma de que pueda permitirme eso!}
+{267}{}{EstÃ¡ bien, estÃ¡ bien. Que sean quinientos, y no necesitaremos involucrar a la Primer Ciudadano en esto.}
+{268}{}{Mejor que ENCUENTRES la forma de permitÃ­rtelo, o irÃ¡s a mendigar las sobras en el Patio como el
  resto de errantes.}
-{269}{}{Muy bien. Aquí está tu primer pago. Espero que te ahogues con él.}
-{270}{}{Ha sido un placer, doctor. Volverás a verme muy pronto.}
-{271}{}{Mejor que vigiles tu lengua, o serás el próximo paciente de ese Autodoc. ¿Comprendido?}
-{272}{}{Esto NO es algo para tomarse a broma; es un asunto realmente importante. Pagaré cien
- dólares por el Jet, tu silencio... y ninguna pregunta más. ¿Quieres el trabajo?}
-{273}{}{Bien, ¿sabes qué? Tengo una muestra de Jet justo aquí.}
-{274}{}{¿Qué es lo que evitará que te entregue en este momento?}
-{275}{}{Desde luego, lo haré.}
+{269}{}{Muy bien. AquÃ­ estÃ¡ tu primer pago. Espero que te ahogues con Ã©l.}
+{270}{}{Ha sido un placer, doctor. VolverÃ¡s a verme muy pronto.}
+{271}{}{Mejor que vigiles tu lengua, o serÃ¡s el prÃ³ximo paciente de ese Autodoc. Â¿Comprendido?}
+{272}{}{Esto NO es algo para tomarse a broma; es un asunto realmente importante. PagarÃ© cien
+ dÃ³lares por el Jet, tu silencio... y ninguna pregunta mÃ¡s. Â¿Quieres el trabajo?}
+{273}{}{Bien, Â¿sabes quÃ©? Tengo una muestra de Jet justo aquÃ­.}
+{274}{}{Â¿QuÃ© es lo que evitarÃ¡ que te entregue en este momento?}
+{275}{}{Desde luego, lo harÃ©.}
 {276}{}{No me interesa.}
-{277}{}{¿En serio?}
-{278}{}{¡Excelente! Gracias, amigo mío... no tienes idea de lo importante que es esto para mi trabajo. Aquí está
- tu pago, como te prometí.}
-{279}{}{Genial. Antes de irme, tenía alguna pregunta más...}
-{280}{}{¿Sabes?, no creo que realmente quieras inhalar esa... porquería. Confía en mí.}
+{277}{}{Â¿En serio?}
+{278}{}{Â¡Excelente! Gracias, amigo mÃ­o... no tienes idea de lo importante que es esto para mi trabajo. AquÃ­ estÃ¡
+ tu pago, como te prometÃ­.}
+{279}{}{Genial. Antes de irme, tenÃ­a alguna pregunta mÃ¡s...}
+{280}{}{Â¿Sabes?, no creo que realmente quieras inhalar esa... porquerÃ­a. ConfÃ­a en mÃ­.}
 {281}{}{Sin problemas. Gracias, Doc.}
-{282}{}{Hola, capitán. ¿Cómo puedo serle de ayuda?}
-{283}{}{Hola, Ciudadano. ¿Cómo puedo ayudarte?}
-{284}{}{¿Cómo puedo ayudarte?}
-{285}{}{¿Sí?}
-{286}{}{Me duele, aquí duele}
-{287}{}{¿Asis-te-tencia?}
-{288}{}{(Arrástrate)}
-{289}{}{Voy a necesitar tu pericia médica.}
-{290}{}{Mencionaste antes que eras un doctor... Yo soy algo así como un doctor.}
-{291}{}{¿Tienes bloqueadores de endorfinas?}
-{292}{}{Tengo el Jet que querías.}
-{293}{}{Estoy interesado en ese trabajo, si aún está disponible.}
-{294}{}{Sobre ese Jet que querías... creo que los demás Ciudadanos también querrían saber de él.}
-{295}{}{En nada hoy. Buenos días, doctor.}
-{296}{}{Desde luego. Lo siento... ha pasado algún tiempo desde que tuve que administrárselos. La mayoría de
- Ciudadanos recibieron los suyos hace muchos, muchos años. Deja que prepare el Autodoc para el procedimiento...}
+{282}{}{Hola, capitÃ¡n. Â¿CÃ³mo puedo serle de ayuda?}
+{283}{}{Hola, Ciudadano. Â¿CÃ³mo puedo ayudarte?}
+{284}{}{Â¿CÃ³mo puedo ayudarte?}
+{285}{}{Â¿SÃ­?}
+{286}{}{Me duele, aquÃ­ duele}
+{287}{}{Â¿Asis-te-tencia?}
+{288}{}{(ArrÃ¡strate)}
+{289}{}{Voy a necesitar tu pericia mÃ©dica.}
+{290}{}{Mencionaste antes que eras un doctor... Yo soy algo asÃ­ como un doctor.}
+{291}{}{Â¿Tienes bloqueadores de endorfinas?}
+{292}{}{Tengo el Jet que querÃ­as.}
+{293}{}{Estoy interesado en ese trabajo, si aÃºn estÃ¡ disponible.}
+{294}{}{Sobre ese Jet que querÃ­as... creo que los demÃ¡s Ciudadanos tambiÃ©n querrÃ­an saber de Ã©l.}
+{295}{}{En nada hoy. Buenos dÃ­as, doctor.}
+{296}{}{Desde luego. Lo siento... ha pasado algÃºn tiempo desde que tuve que administrÃ¡rselos. La mayorÃ­a de
+ Ciudadanos recibieron los suyos hace muchos, muchos aÃ±os. Deja que prepare el Autodoc para el procedimiento...}
 {297}{}{De acuerdo.}
 {298}{}{Hemos terminado. Una advertencia: Esta vacuna no te hace inmune al veneno y la
- radiación, pero sí refuerza tu resistencia natural.}
-{299}{}{Te lo agradezco. Verás, tengo algunas otras preguntas que quería hacerte...}
+ radiaciÃ³n, pero sÃ­ refuerza tu resistencia natural.}
+{299}{}{Te lo agradezco. VerÃ¡s, tengo algunas otras preguntas que querÃ­a hacerte...}
 {300}{}{Genial. Gracias, doctor.}
-{301}{}{Oh, eres tú. ¿Qué quieres?}
+{301}{}{Oh, eres tÃº. Â¿QuÃ© quieres?}
 {302}{}{Necesito que me curen.}
 {303}{}{He sido envenenado.}
 {304}{}{Estoy irradiado.}
-{305}{}{He venido a por mi dinero. ¿Lo tienes?}
-{306}{}{Estoy aquí para recordarte que estamos a día uno, y que será mejor que tengas mi dinero.}
+{305}{}{He venido a por mi dinero. Â¿Lo tienes?}
+{306}{}{Estoy aquÃ­ para recordarte que estamos a dÃ­a uno, y que serÃ¡ mejor que tengas mi dinero.}
 {307}{}{Nada... hoy.}
-{308}{}{No lo he olvidado. Aquí está tu dinero. Ahora, vete.}
-{309}{}{Espera... también necesito curarme.}
+{308}{}{No lo he olvidado. AquÃ­ estÃ¡ tu dinero. Ahora, vete.}
+{309}{}{Espera... tambiÃ©n necesito curarme.}
 {310}{}{Espera... me han envenenado. Necesito que me cures.}
 {311}{}{Espera... estoy irradiado. Necesito que me cures.}
 {312}{}{Un placer hacer negocios contigo.  Nos vemos, Doc.}
-{313}{}{No lo he olvidado. Tendrás tu dinero. Ahora vete.}
-{314}{}{Espera... también necesito curarme.}
+{313}{}{No lo he olvidado. TendrÃ¡s tu dinero. Ahora vete.}
+{314}{}{Espera... tambiÃ©n necesito curarme.}
 {315}{}{Espera... me han envenenado. Necesito que me cures.}
 {316}{}{Espera... estoy irradiado. Necesito que me cures.}
-{317}{}{Eso es todo lo que quiero de aquí. Nos vemos, Doc.}
-{318}{}{Ya veo. Lo primero, necesitaré comprobar tus signos vitales... recuéstate y te sujetaré al
+{317}{}{Eso es todo lo que quiero de aquÃ­. Nos vemos, Doc.}
+{318}{}{Ya veo. Lo primero, necesitarÃ© comprobar tus signos vitales... recuÃ©state y te sujetarÃ© al
  Autodoc...}
-{320}{}{Hmmmm. Parece que durante el procedimiento de puesta en marcha, una anulación prioritaria provocó que el Autodoc te inyectase por accidente trietileno sódico.}
-{321}{}{¿Qué? ¿Eso qué significa?}
+{320}{}{Hmmmm. Parece que durante el procedimiento de puesta en marcha, una anulaciÃ³n prioritaria provocÃ³ que el Autodoc te inyectase por accidente trietileno sÃ³dico.}
+{321}{}{Â¿QuÃ©? Â¿Eso quÃ© significa?}
 {322}{}{Significa que te quedan menos de diez segundos de vida. Tu estupidez resulta realmente asombrosa.
- ¿Chantajeas a alguien, y a continuación pones tu vida en sus manos? Sencillamente increíble. Adiós... y hasta nunca.}
-{323}{}{¡Ahora tengo que volver a cargar! ¡Menuda mierda! ¡Te pillaré con mi próxima partida guardada.}
-{324}{}{¿Y qué pasa con el juramento hipocrático?! ¡Oye! Yo...}
-{325}{}{Te perseguiré desde la tumba. Lo juro.}
-{326}{}{¿Cómo has llegado hasta aquí? Me temo que tendrás que irte. Espera un momento mientras llamo a algunos
- guardias para que te acompañen afuera.}
-{327}{}{¡YO NO VOY!}
+ Â¿Chantajeas a alguien, y a continuaciÃ³n pones tu vida en sus manos? Sencillamente increÃ­ble. AdiÃ³s... y hasta nunca.}
+{323}{}{Â¡Ahora tengo que volver a cargar! Â¡Menuda mierda! Â¡Te pillarÃ© con mi prÃ³xima partida guardada.}
+{324}{}{Â¿Y quÃ© pasa con el juramento hipocrÃ¡tico?! Â¡Oye! Yo...}
+{325}{}{Te perseguirÃ© desde la tumba. Lo juro.}
+{326}{}{Â¿CÃ³mo has llegado hasta aquÃ­? Me temo que tendrÃ¡s que irte. Espera un momento mientras llamo a algunos
+ guardias para que te acompaÃ±en afuera.}
+{327}{}{Â¡YO NO VOY!}
 {328}{}{(Te quedas de pie uno momento)}
-{329}{}{Tengo buenas noticias. Conseguí crear un antídoto para esa muestra de Jet que me diste.}
-{330}{}{Buenas noticias... conseguí usar la información que me diste para crear un antídoto.}
-{331}{}{Al tomarlo, anula el síndrome de abstinencia del Jet, y también... elimina la euforia asociada con la droga.}
-{332}{}{Genial. ¿Puedo quedarme un poco?}
-{333}{}{¿Puedo quedarme con una muestra? Creo que podría ayudar a los habitantes de Redding.}
-{334}{}{Por supuesto. Aquí tienes. Llévaselo a uno de mis colegas, el doctor Johnson, en Redding. Debería poder
- suministrárselo a quienes lo necesiten.}
-{335}{}{Por supuesto: aquí tienes. Entiendo que el problema del Jet es especialmente relevante en Redding.
- Si le llevas el antídoto a su médico, el doctor Johnson, debería poder dárselo a
+{329}{}{Tengo buenas noticias. ConseguÃ­ crear un antÃ­doto para esa muestra de Jet que me diste.}
+{330}{}{Buenas noticias... conseguÃ­ usar la informaciÃ³n que me diste para crear un antÃ­doto.}
+{331}{}{Al tomarlo, anula el sÃ­ndrome de abstinencia del Jet, y tambiÃ©n... elimina la euforia asociada con la droga.}
+{332}{}{Genial. Â¿Puedo quedarme un poco?}
+{333}{}{Â¿Puedo quedarme con una muestra? Creo que podrÃ­a ayudar a los habitantes de Redding.}
+{334}{}{Por supuesto. AquÃ­ tienes. LlÃ©vaselo a uno de mis colegas, el doctor Johnson, en Redding. DeberÃ­a poder
+ suministrÃ¡rselo a quienes lo necesiten.}
+{335}{}{Por supuesto: aquÃ­ tienes. Entiendo que el problema del Jet es especialmente relevante en Redding.
+ Si le llevas el antÃ­doto a su mÃ©dico, el doctor Johnson, deberÃ­a poder dÃ¡rselo a
  quienes lo necesiten.}
-{336}{}{¡Genial! Me aseguraré de mantenerlo seguro. Tenía otras preguntas para ti...}
-{337}{}{Gracias por el antídoto.}
-{338}{}{¡Excelente! Vuelve aquí cuando hayas conseguido la muestra de Jet, y tendré listo tu
+{336}{}{Â¡Genial! Me asegurarÃ© de mantenerlo seguro. TenÃ­a otras preguntas para ti...}
+{337}{}{Gracias por el antÃ­doto.}
+{338}{}{Â¡Excelente! Vuelve aquÃ­ cuando hayas conseguido la muestra de Jet, y tendrÃ© listo tu
  pago.}
-{339}{}{Tenemos un trato. Tenía otras preguntas...}
-{340}{}{Volveré con el Jet.}
-{341}{}{Sí, estoy familiarizado con ellos. Es un procedimiento invasivo, en el que las placas de impacto y las membranas disipadoras de calor se injertan en el esqueleto para ayudar a protegerlo contra traumas físicos y calor. ¿Por qué lo preguntas?}
-{342}{}{Sí, ya mencionaste antes los implantes. No voy a llevar a cabo la operación, lo siento. El
- procedimiento es irreversible, y los implantes harán más mal que bien.}
-{343}{}{Me encontré con ellos en la base de datos médica de Ciudad Refugio. ¿Podrías llevar a cabo la operación conmigo?}
-{344}{}{¿Puedes llevar a cabo la operación? No puedo hacerlo por mí mismo.}
-{345}{}{De acuerdo. Tenía algunas preguntas más...}
-{346}{}{Muy bien. Sólo lo comprobaba.}
-{347}{}{Muy bien. Tal vez pueda encontrar a alguien más para hacer el procedimiento.}
-{348}{}{No, lo siento... como ya he dicho, los implantes son un procedimiento invasivo y el periodo de recuperación es
- largo y arduo. Los pacientes sometidos a la operación en el pasado han desarrollado con frecuencia deformidades
- óseas.}
-{349}{}{Estoy dispuesto a correr el riesgo. ¿Puedes hacerlo de todos modos?}
-{350}{}{Sólo consideraría realizar la operación en caso de emergencia, no por razones de
+{339}{}{Tenemos un trato. TenÃ­a otras preguntas...}
+{340}{}{VolverÃ© con el Jet.}
+{341}{}{SÃ­, estoy familiarizado con ellos. Es un procedimiento invasivo, en el que las placas de impacto y las membranas disipadoras de calor se injertan en el esqueleto para ayudar a protegerlo contra traumas fÃ­sicos y calor. Â¿Por quÃ© lo preguntas?}
+{342}{}{SÃ­, ya mencionaste antes los implantes. No voy a llevar a cabo la operaciÃ³n, lo siento. El
+ procedimiento es irreversible, y los implantes harÃ¡n mÃ¡s mal que bien.}
+{343}{}{Me encontrÃ© con ellos en la base de datos mÃ©dica de Ciudad Refugio. Â¿PodrÃ­as llevar a cabo la operaciÃ³n conmigo?}
+{344}{}{Â¿Puedes llevar a cabo la operaciÃ³n? No puedo hacerlo por mÃ­ mismo.}
+{345}{}{De acuerdo. TenÃ­a algunas preguntas mÃ¡s...}
+{346}{}{Muy bien. SÃ³lo lo comprobaba.}
+{347}{}{Muy bien. Tal vez pueda encontrar a alguien mÃ¡s para hacer el procedimiento.}
+{348}{}{No, lo siento... como ya he dicho, los implantes son un procedimiento invasivo y el periodo de recuperaciÃ³n es
+ largo y arduo. Los pacientes sometidos a la operaciÃ³n en el pasado han desarrollado con frecuencia deformidades
+ Ã³seas.}
+{349}{}{Estoy dispuesto a correr el riesgo. Â¿Puedes hacerlo de todos modos?}
+{350}{}{SÃ³lo considerarÃ­a realizar la operaciÃ³n en caso de emergencia, no por razones de
  conveniencia. El riesgo es demasiado grande, y los implantes no son una mejora sustancial respecto a la armadura
- de combate estándar.}
-{351}{}{Hmmm. Vale, tenía alguna otra pregunta...}
+ de combate estÃ¡ndar.}
+{351}{}{Hmmm. Vale, tenÃ­a alguna otra pregunta...}
 {352}{}{Bien, gracias de todos modos.}
-{353}{}{Bien, gracias de todos modos. Tal vez pueda encontrar a alguien más que lleve a cabo la operación.}
-{354}{}{Lo siento. Las instalaciones sólo son para Ciudadanos, y se guarda una lista de todos los pacientes en la
- base de datos... [Baja la voz] Sin embargo, los estimulantes de los armarios de suministro del nivel inferior no se echarán a faltar
+{353}{}{Bien, gracias de todos modos. Tal vez pueda encontrar a alguien mÃ¡s que lleve a cabo la operaciÃ³n.}
+{354}{}{Lo siento. Las instalaciones sÃ³lo son para Ciudadanos, y se guarda una lista de todos los pacientes en la
+ base de datos... [Baja la voz] Sin embargo, los estimulantes de los armarios de suministro del nivel inferior no se echarÃ¡n a faltar
  si les das buen uso.}
-{355}{}{Hmmm. Vale, tenía alguna otra pregunta...}
-{356}{}{Gracias. Iré a buscarlos.}
-{357}{}{Por supuesto, capitán. Déjame que vea lo que puedo hacer por ti y tus amigos.}
-{358}{}{Por supuesto, capitán. Déjame que vea lo que puedo hacer por ti y tu amigo.}
-{359}{}{Tan solo necesito comprobar tus signos vitales en primer lugar... recuéstate y te conectaré al
+{355}{}{Hmmm. Vale, tenÃ­a alguna otra pregunta...}
+{356}{}{Gracias. IrÃ© a buscarlos.}
+{357}{}{Por supuesto, capitÃ¡n. DÃ©jame que vea lo que puedo hacer por ti y tus amigos.}
+{358}{}{Por supuesto, capitÃ¡n. DÃ©jame que vea lo que puedo hacer por ti y tu amigo.}
+{359}{}{Tan solo necesito comprobar tus signos vitales en primer lugar... recuÃ©state y te conectarÃ© al
  Autodoc...}
-{361}{}{Caray, tu amigo mutante tenía un montón de balas y metralla metidas en el cuerpo. Es un
- milagro que no esté envenenado por el plomo. Al final logré sacarlo todo. Aquí está todo.}
-{362}{}{Eso debería encargarse del problema. Hazme saber si necesitas más asistencia médica.}
-{363}{}{También necesito que me curen.}
-{364}{}{Necesitaría ayuda... estoy irradiado.}
-{365}{}{He sido envenenado. ¿Puedes ayudarme?}
-{366}{}{Gracias, doctor. Dime, ¿sabes algo sobre implantes dérmicos?}
-{367}{}{Muy agradecido, doctor. Verás, tengo otras preguntas que quisiera hacerte...}
-{368}{}{Seguramente volveré. Gracias, doctor.}
-{369}{}{Por supuesto, Ciudadano. ¿Cuál es el problema?}
-{370}{}{Por supuesto, capitán. ¿Cuál es el problema?}
-{371}{}{Por supuesto. ¿Cuál es el problema?}
+{361}{}{Caray, tu amigo mutante tenÃ­a un montÃ³n de balas y metralla metidas en el cuerpo. Es un
+ milagro que no estÃ© envenenado por el plomo. Al final logrÃ© sacarlo todo. AquÃ­ estÃ¡ todo.}
+{362}{}{Eso deberÃ­a encargarse del problema. Hazme saber si necesitas mÃ¡s asistencia mÃ©dica.}
+{363}{}{TambiÃ©n necesito que me curen.}
+{364}{}{NecesitarÃ­a ayuda... estoy irradiado.}
+{365}{}{He sido envenenado. Â¿Puedes ayudarme?}
+{366}{}{Gracias, doctor. Dime, Â¿sabes algo sobre implantes dÃ©rmicos?}
+{367}{}{Muy agradecido, doctor. VerÃ¡s, tengo otras preguntas que quisiera hacerte...}
+{368}{}{Seguramente volverÃ©. Gracias, doctor.}
+{369}{}{Por supuesto, Ciudadano. Â¿CuÃ¡l es el problema?}
+{370}{}{Por supuesto, capitÃ¡n. Â¿CuÃ¡l es el problema?}
+{371}{}{Por supuesto. Â¿CuÃ¡l es el problema?}
 {372}{}{Necesito que me curen.}
 {373}{}{Estoy irradiado.}
 {374}{}{He sido envenenado.}
-{375}{}{¿Puedes ayudar a mi amigo?}
-{376}{}{¿Puedes ayudar a mis amigos?}
-{377}{}{¿Sabes algo sobre los implantes dérmicos?}
-{378}{}{No importa. Tenía algunas preguntas más...}
+{375}{}{Â¿Puedes ayudar a mi amigo?}
+{376}{}{Â¿Puedes ayudar a mis amigos?}
+{377}{}{Â¿Sabes algo sobre los implantes dÃ©rmicos?}
+{378}{}{No importa. TenÃ­a algunas preguntas mÃ¡s...}
 {379}{}{Nada. Gracias, doctor.}
-{380}{}{Muy bien. Déjame comprobar tus signos vitales... recuéstate mientras te conecto al
+{380}{}{Muy bien. DÃ©jame comprobar tus signos vitales... recuÃ©state mientras te conecto al
  Autodoctor...}
-{382}{}{Eso debería dejarte como nuevo. ¿Cómo te sientes?}
-{383}{}{Genial. ¿También puedes curar a mi amigo?}
-{384}{}{Genial. ¿También puedes curar a mis amigos?}
-{385}{}{¿Sabes algo sobre los implantes dérmicos?}
-{386}{}{Mucho mejor, gracias. Tenía algunas preguntas más...}
+{382}{}{Eso deberÃ­a dejarte como nuevo. Â¿CÃ³mo te sientes?}
+{383}{}{Genial. Â¿TambiÃ©n puedes curar a mi amigo?}
+{384}{}{Genial. Â¿TambiÃ©n puedes curar a mis amigos?}
+{385}{}{Â¿Sabes algo sobre los implantes dÃ©rmicos?}
+{386}{}{Mucho mejor, gracias. TenÃ­a algunas preguntas mÃ¡s...}
 {387}{}{Genial. Gracias, doctor.}
-{388}{}{Muy bien. Déjame comprobar tus signos vitales... recuéstate mientras te conecto al
+{388}{}{Muy bien. DÃ©jame comprobar tus signos vitales... recuÃ©state mientras te conecto al
  Autodoctor...}
-{390}{}{Eso debería dejarte como nuevo. ¿Cómo te sientes?}
-{391}{}{Mucho mejor, gracias. Verás, antes de que me vuelva a envenenar o irradiar... durante esa visita
- mencionaste que tenías una vacuna que aumentaba la resistencia al veneno y la radiación. ¿Podría conseguir una?}
-{392}{}{Genial. ¿También puedes curar a mi amigo?}
-{393}{}{Genial. ¿También puedes curar a mis amigos?}
-{394}{}{¿Sabes algo sobre los implantes dérmicos?}
+{390}{}{Eso deberÃ­a dejarte como nuevo. Â¿CÃ³mo te sientes?}
+{391}{}{Mucho mejor, gracias. VerÃ¡s, antes de que me vuelva a envenenar o irradiar... durante esa visita
+ mencionaste que tenÃ­as una vacuna que aumentaba la resistencia al veneno y la radiaciÃ³n. Â¿PodrÃ­a conseguir una?}
+{392}{}{Genial. Â¿TambiÃ©n puedes curar a mi amigo?}
+{393}{}{Genial. Â¿TambiÃ©n puedes curar a mis amigos?}
+{394}{}{Â¿Sabes algo sobre los implantes dÃ©rmicos?}
 {395}{}{Mucho mejor. Tengo otras preguntas...}
 {396}{}{Genial. Gracias, doctor.}
-{397}{}{¡Guardias!}
+{397}{}{Â¡Guardias!}
 {398}{}{Zzzzzzz.}
-{399}{}{Explicas el proceso de fabricación del Jet al doctor Troy.}
+{399}{}{Explicas el proceso de fabricaciÃ³n del Jet al doctor Troy.}

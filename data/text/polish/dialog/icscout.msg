@@ -1,129 +1,129 @@
 {100}{}{Widzisz plemiennego.}
-{101}{}{Widzisz Cieñ Który Chodzi.}
-{150}{}{Widzisz silnie umiêœnionego prymitywa z czarnymi szramami pokrywaj¹cymi jego twarz. Obserwuje ciê w milczeniu.}
-{151}{}{Widzisz Cieñ Który Chodzi. Jego twarz jest poznaczona licznymi rytualnymi tatua¿ami.}
-{200}{}{Tylko siê na ciebie w ciszy gapi.}
-{201}{}{W milczeniu obserwuje ciê.}
-{300}{}{Szzzzz... Polujê na k³óliki.}
+{101}{}{Widzisz CieÅ„ KtÃ³ry Chodzi.}
+{150}{}{Widzisz silnie umiÄ™Å›nionego prymitywa z czarnymi szramami pokrywajÄ…cymi jego twarz. Obserwuje ciÄ™ w milczeniu.}
+{151}{}{Widzisz CieÅ„ KtÃ³ry Chodzi. Jego twarz jest poznaczona licznymi rytualnymi tatuaÅ¼ami.}
+{200}{}{Tylko siÄ™ na ciebie w ciszy gapi.}
+{201}{}{W milczeniu obserwuje ciÄ™.}
+{300}{}{Szzzzz... PolujÄ™ na kÅ‚Ã³liki.}
 {400}{}{[Patrzy na ciebie nieufnym wzrokiem.] Kto idzie?}
-{401}{}{Nazywam siê }
-{402}{}{. Kim ty jesteœ?}
-{403}{}{Jestem w trakcie misji dla Kryptopolis. Kim jesteœ?}
-{404}{}{Moje imiê nie jest wa¿ne. Jestem tu ¿eby ciê ostrzec. Jesteœ w wielkim niebezpieczeñstwie!}
-{405}{}{Jestem twoim Nemezis. Przygotuj siê, wkrótce do³¹czysz do swoich przodków!}
-{406}{}{Jestem Francuzem. Myœlisz, ¿e dlaczego mam taki skandaliczny akcent? [Dziwnie na niego patrzysz.]}
-{407}{}{Niewa¿ne. Przepraszam za zawracanie g³owy.}
-{410}{}{Rozmawiasz z Cieniem Który Chodzi. Dlaczego tu jesteœ?}
-{411}{}{Próbujê powstrzymaæ ataki NajeŸdŸców na Kryptopolis i mam powody przypuszczaæ, ¿e to jest ich baza operacyjna. Co wiesz na temat NajeŸdŸców?}
-{412}{}{Przys³a³o mnie Kryptopolis z powodu ataków NajeŸdŸców.}
-{413}{}{Jestem tu z ciekawoœci, ale muszê ju¿ iœæ.}
-{414}{}{Æwiczê strzelanie do celu, a ty mi wygl¹dasz na dobry ruchomy cel.}
-{420}{}{Cieñ Który Chodzi nie wie nic o ¿adnych najeŸdŸcach tutaj. Cieñ Który Chodzi wie tylko o Stra¿nikach RNK, którzy tu s¹ aby uwolniæ niewolników z Kryptopolis, z tego przeklêtego miejsca. [Podaje ci opis który pasuje do NajeŸdŸców.]}
-{421}{}{To ci powiedzieli, ¿e s¹ Stra¿nikami RNK? Nie ma tu ¿adnych Stra¿ników RNK, ok³amali ciê.}
-{422}{}{Stra¿nicy? Oni nie s¹ Stra¿nikami RNK. Popatrz na ich ubranie. Jesteœ pionkiem w ich grze. Oni ciê po prostu wykorzystuj¹.}
-{423}{}{S³uchaj, Kryptopolis wys³a³o mnie ¿eby znaleŸæ NajeŸdŸców. Ci ludzie odpowiadaj¹ opisowi.}
-{424}{}{No dobra. Myœlê, ¿e czas ju¿ na mnie.}
-{425}{}{Nie wierzê ci. Umieraj, z³y cz³owieku!}
-{430}{}{Dlaczego ok³amali Cieñ Który Chodzi?}
-{431}{}{A pomóg³byœ im gdyby ci powiedzieli, ¿e s¹ najeŸdŸcami, atakuj¹cymi niewinnych ludzi i o tym, ¿e nie zamierzaj¹ pomagaæ komukolwiek w Kryptopolis?}
-{432}{}{No nie wiem. Œwiat jest okrutny. Ludzie ¿eruj¹ na innych ca³y czas.}
-{433}{}{Mo¿e, ¿eby siê poœmiaæ? Wygl¹dasz na wystarczaj¹co g³upiego ¿eby uwierzyæ w cokolwiek.}
-{440}{}{Cieñ Który Chodzi nigdy, by w tym nie pomóg³, to by³oby z³e. [Patrzy na ciebie podejrzliwie.] Ale czemu Cieñ Który Chodzi ma wierzyæ twoim s³owom?}
+{401}{}{Nazywam siÄ™ }
+{402}{}{. Kim ty jesteÅ›?}
+{403}{}{Jestem w trakcie misji dla Kryptopolis. Kim jesteÅ›?}
+{404}{}{Moje imiÄ™ nie jest waÅ¼ne. Jestem tu Å¼eby ciÄ™ ostrzec. JesteÅ› w wielkim niebezpieczeÅ„stwie!}
+{405}{}{Jestem twoim Nemezis. Przygotuj siÄ™, wkrÃ³tce doÅ‚Ä…czysz do swoich przodkÃ³w!}
+{406}{}{Jestem Francuzem. MyÅ›lisz, Å¼e dlaczego mam taki skandaliczny akcent? [Dziwnie na niego patrzysz.]}
+{407}{}{NiewaÅ¼ne. Przepraszam za zawracanie gÅ‚owy.}
+{410}{}{Rozmawiasz z Cieniem KtÃ³ry Chodzi. Dlaczego tu jesteÅ›?}
+{411}{}{PrÃ³bujÄ™ powstrzymaÄ‡ ataki NajeÅºdÅºcÃ³w na Kryptopolis i mam powody przypuszczaÄ‡, Å¼e to jest ich baza operacyjna. Co wiesz na temat NajeÅºdÅºcÃ³w?}
+{412}{}{PrzysÅ‚aÅ‚o mnie Kryptopolis z powodu atakÃ³w NajeÅºdÅºcÃ³w.}
+{413}{}{Jestem tu z ciekawoÅ›ci, ale muszÄ™ juÅ¼ iÅ›Ä‡.}
+{414}{}{Ä†wiczÄ™ strzelanie do celu, a ty mi wyglÄ…dasz na dobry ruchomy cel.}
+{420}{}{CieÅ„ KtÃ³ry Chodzi nie wie nic o Å¼adnych najeÅºdÅºcach tutaj. CieÅ„ KtÃ³ry Chodzi wie tylko o StraÅ¼nikach RNK, ktÃ³rzy tu sÄ… aby uwolniÄ‡ niewolnikÃ³w z Kryptopolis, z tego przeklÄ™tego miejsca. [Podaje ci opis ktÃ³ry pasuje do NajeÅºdÅºcÃ³w.]}
+{421}{}{To ci powiedzieli, Å¼e sÄ… StraÅ¼nikami RNK? Nie ma tu Å¼adnych StraÅ¼nikÃ³w RNK, okÅ‚amali ciÄ™.}
+{422}{}{StraÅ¼nicy? Oni nie sÄ… StraÅ¼nikami RNK. Popatrz na ich ubranie. JesteÅ› pionkiem w ich grze. Oni ciÄ™ po prostu wykorzystujÄ….}
+{423}{}{SÅ‚uchaj, Kryptopolis wysÅ‚aÅ‚o mnie Å¼eby znaleÅºÄ‡ NajeÅºdÅºcÃ³w. Ci ludzie odpowiadajÄ… opisowi.}
+{424}{}{No dobra. MyÅ›lÄ™, Å¼e czas juÅ¼ na mnie.}
+{425}{}{Nie wierzÄ™ ci. Umieraj, zÅ‚y czÅ‚owieku!}
+{430}{}{Dlaczego okÅ‚amali CieÅ„ KtÃ³ry Chodzi?}
+{431}{}{A pomÃ³gÅ‚byÅ› im gdyby ci powiedzieli, Å¼e sÄ… najeÅºdÅºcami, atakujÄ…cymi niewinnych ludzi i o tym, Å¼e nie zamierzajÄ… pomagaÄ‡ komukolwiek w Kryptopolis?}
+{432}{}{No nie wiem. Åšwiat jest okrutny. Ludzie Å¼erujÄ… na innych caÅ‚y czas.}
+{433}{}{MoÅ¼e, Å¼eby siÄ™ poÅ›miaÄ‡? WyglÄ…dasz na wystarczajÄ…co gÅ‚upiego Å¼eby uwierzyÄ‡ w cokolwiek.}
+{440}{}{CieÅ„ KtÃ³ry Chodzi nigdy, by w tym nie pomÃ³gÅ‚, to byÅ‚oby zÅ‚e. [Patrzy na ciebie podejrzliwie.] Ale czemu CieÅ„ KtÃ³ry Chodzi ma wierzyÄ‡ twoim sÅ‚owom?}
 {441}{}{[Opowiedz mu o swoim rodzinnym plemieniu.]}
-{442}{}{Dlatego, ¿e ja jestem Stra¿nikiem RNK, prawdziwym. [Poka¿ mu swoj¹ odznakê.]}
-{443}{}{Dlatego, ¿e wiem dla kogo ci najeŸdŸcy pracuj¹, a on nie jest mi³ym cz³owiekiem. [Poka¿ mu dane z holodysku]}
+{442}{}{Dlatego, Å¼e ja jestem StraÅ¼nikiem RNK, prawdziwym. [PokaÅ¼ mu swojÄ… odznakÄ™.]}
+{443}{}{Dlatego, Å¼e wiem dla kogo ci najeÅºdÅºcy pracujÄ…, a on nie jest miÅ‚ym czÅ‚owiekiem. [PokaÅ¼ mu dane z holodysku]}
 {444}{}{Nie wiem. Przepraszam za marnowanie twojego czasu.}
-{445}{}{Nie musisz i tak ciê zabijê.}
-{450}{}{[Wygl¹da, ¿e Cieñ Który Chodzi patrzy teraz na ciebie inaczej, z ufnoœci¹ w oczach.] Teraz Cieñ Który Chodzi wie, ¿e mówisz prawdê. Cieñ Który Chodzi ufa ci.}
-{451}{}{Có¿, co zamierzasz teraz zrobiæ?}
-{452}{}{Mo¿e wiesz czemu ci NajeŸdŸcy atakuj¹ Kryptopolis?}
-{453}{}{To œmieszne, wszystko co do tej pory us³ysza³eœ ode mnie by³o k³amstwem. I jak siê teraz czujesz, kretynie?}
-{460}{}{Nie, nie wiem. Wiem tylko, ¿e oszukali Cieñ Który Chodzi aby pokaza³ im drogê.}
-{461}{}{Có¿, co zamierzasz teraz zrobiæ?}
-{462}{}{Nie s³ysza³eœ mo¿e jak wymieniali jakieœ nazwiska?}
-{463}{}{Dobra, niewa¿ne, po prostu ich wszystkich zabijê. Chyba zrobiê sobie ma³¹ rozgrzewkê i zabijê ciebie...}
-{470}{}{Hmmm... mo¿e. Kiedy kilku z nich posz³o po now¹, bardziej ha³aœliw¹ broñ... [Gestykuluje jakby u¿ywa³ jakiegoœ rodzaju strzelby.]...wspomnieli nazwisko... Bishop. Tak, mówili o mê¿czyŸnie nazwiskiem Bishop.}
-{471}{}{Rozumiem. Có¿, dziêkujê ci, Cieniu Który Chodzi, naprawdê mi pomog³eœ.}
-{472}{}{Dobrze. Teraz skoro mam potrzebne mi informacje mogê wykoñczyæ tê bandê szkodników, zaczynaj¹c od ciebie...}
-{480}{}{Cieñ Który Chodzi dziêkuje ci, Cieñ Który Chodzi nie lubi byæ oszukiwany.}
+{445}{}{Nie musisz i tak ciÄ™ zabijÄ™.}
+{450}{}{[WyglÄ…da, Å¼e CieÅ„ KtÃ³ry Chodzi patrzy teraz na ciebie inaczej, z ufnoÅ›ciÄ… w oczach.] Teraz CieÅ„ KtÃ³ry Chodzi wie, Å¼e mÃ³wisz prawdÄ™. CieÅ„ KtÃ³ry Chodzi ufa ci.}
+{451}{}{CÃ³Å¼, co zamierzasz teraz zrobiÄ‡?}
+{452}{}{MoÅ¼e wiesz czemu ci NajeÅºdÅºcy atakujÄ… Kryptopolis?}
+{453}{}{To Å›mieszne, wszystko co do tej pory usÅ‚yszaÅ‚eÅ› ode mnie byÅ‚o kÅ‚amstwem. I jak siÄ™ teraz czujesz, kretynie?}
+{460}{}{Nie, nie wiem. Wiem tylko, Å¼e oszukali CieÅ„ KtÃ³ry Chodzi aby pokazaÅ‚ im drogÄ™.}
+{461}{}{CÃ³Å¼, co zamierzasz teraz zrobiÄ‡?}
+{462}{}{Nie sÅ‚yszaÅ‚eÅ› moÅ¼e jak wymieniali jakieÅ› nazwiska?}
+{463}{}{Dobra, niewaÅ¼ne, po prostu ich wszystkich zabijÄ™. Chyba zrobiÄ™ sobie maÅ‚Ä… rozgrzewkÄ™ i zabijÄ™ ciebie...}
+{470}{}{Hmmm... moÅ¼e. Kiedy kilku z nich poszÅ‚o po nowÄ…, bardziej haÅ‚aÅ›liwÄ… broÅ„... [Gestykuluje jakby uÅ¼ywaÅ‚ jakiegoÅ› rodzaju strzelby.]...wspomnieli nazwisko... Bishop. Tak, mÃ³wili o mÄ™Å¼czyÅºnie nazwiskiem Bishop.}
+{471}{}{Rozumiem. CÃ³Å¼, dziÄ™kujÄ™ ci, Cieniu KtÃ³ry Chodzi, naprawdÄ™ mi pomogÅ‚eÅ›.}
+{472}{}{Dobrze. Teraz skoro mam potrzebne mi informacje mogÄ™ wykoÅ„czyÄ‡ tÄ™ bandÄ™ szkodnikÃ³w, zaczynajÄ…c od ciebie...}
+{480}{}{CieÅ„ KtÃ³ry Chodzi dziÄ™kuje ci, CieÅ„ KtÃ³ry Chodzi nie lubi byÄ‡ oszukiwany.}
 {481}{}{Nie ma za co. Co teraz?}
-{482}{}{O, naprawdê? Powinieneœ ju¿ przywykn¹æ do tego, no wiesz bycia idiot¹ i tak dalej...}
-{490}{}{Cieñ Który Chodzi nie bêdzie ju¿ pomaga³. Cieñ Który Chodzi pójdzie do domu i nie poka¿e ju¿ z³ym ludziom drogi.}
-{491}{}{To dobrze. Powinno wystarczyæ ¿eby powstrzymaæ z³ych ludzi od atakowania Kryptopolis.}
-{500}{}{Cieñ Który Chodzi dziêkujê ci za ujawnienie prawdy. Niech duchy ciê prowadz¹.}
+{482}{}{O, naprawdÄ™? PowinieneÅ› juÅ¼ przywyknÄ…Ä‡ do tego, no wiesz bycia idiotÄ… i tak dalej...}
+{490}{}{CieÅ„ KtÃ³ry Chodzi nie bÄ™dzie juÅ¼ pomagaÅ‚. CieÅ„ KtÃ³ry Chodzi pÃ³jdzie do domu i nie pokaÅ¼e juÅ¼ zÅ‚ym ludziom drogi.}
+{491}{}{To dobrze. Powinno wystarczyÄ‡ Å¼eby powstrzymaÄ‡ zÅ‚ych ludzi od atakowania Kryptopolis.}
+{500}{}{CieÅ„ KtÃ³ry Chodzi dziÄ™kujÄ™ ci za ujawnienie prawdy. Niech duchy ciÄ™ prowadzÄ….}
 {501}{}{I ciebie.}
-{600}{}{[Jego twarz pochmurnieje.] To z³e miejsce. Dlaczego Cieñ Który Chodzi s³ucha kogoœ kto przyszed³ ze z³ego Kryptopolis?}
-{601}{}{Poniewa¿ cieñ to wszystko co z ciebie zostanie, je¿eli nie bêdziesz.}
-{602}{}{Nie jestem tu ¿eby ciê zmuszaæ do s³uchania. Jestem tu ¿eby ciê zabiæ.}
-{610}{}{[Przez moment przygl¹da ci siê uwa¿nie.] Cieñ Który Chodzi bêdzie s³ucha³. A teraz, czemu tutaj jesteœ?}
-{611}{}{Kryptopolis jest atakowane, a stra¿nicy Kryptopolis nie s¹ w stanie ustaliæ kto ich atakuje i z jakiego powodu.}
-{612}{}{Dobra, tak naprawdê to nie mam ci wiele do powiedzenia, wiêc niech przemówi¹ moje piêœci.}
-{620}{}{I dlaczego Cieñ Który Chodzi ma myœleæ, ¿e to jest z³e? Dostaj¹ to na co zas³u¿yli, a Cieñ Który Chodzi bêdzie szczêœliwy kiedy zostan¹ pokonani, a ich "s³u¿¹cy" zostan¹ uwolnieni.}
+{600}{}{[Jego twarz pochmurnieje.] To zÅ‚e miejsce. Dlaczego CieÅ„ KtÃ³ry Chodzi sÅ‚ucha kogoÅ› kto przyszedÅ‚ ze zÅ‚ego Kryptopolis?}
+{601}{}{PoniewaÅ¼ cieÅ„ to wszystko co z ciebie zostanie, jeÅ¼eli nie bÄ™dziesz.}
+{602}{}{Nie jestem tu Å¼eby ciÄ™ zmuszaÄ‡ do sÅ‚uchania. Jestem tu Å¼eby ciÄ™ zabiÄ‡.}
+{610}{}{[Przez moment przyglÄ…da ci siÄ™ uwaÅ¼nie.] CieÅ„ KtÃ³ry Chodzi bÄ™dzie sÅ‚uchaÅ‚. A teraz, czemu tutaj jesteÅ›?}
+{611}{}{Kryptopolis jest atakowane, a straÅ¼nicy Kryptopolis nie sÄ… w stanie ustaliÄ‡ kto ich atakuje i z jakiego powodu.}
+{612}{}{Dobra, tak naprawdÄ™ to nie mam ci wiele do powiedzenia, wiÄ™c niech przemÃ³wiÄ… moje piÄ™Å›ci.}
+{620}{}{I dlaczego CieÅ„ KtÃ³ry Chodzi ma myÅ›leÄ‡, Å¼e to jest zÅ‚e? DostajÄ… to na co zasÅ‚uÅ¼yli, a CieÅ„ KtÃ³ry Chodzi bÄ™dzie szczÄ™Å›liwy kiedy zostanÄ… pokonani, a ich "sÅ‚uÅ¼Ä…cy" zostanÄ… uwolnieni.}
 {621}{}{Czyli, wspierasz kogokolwiek kto ich atakuje?}
-{622}{}{Có¿, w takim razie nie pozwolê ci ¿yæ wystarczaj¹co d³ugo.}
-{630}{}{Cieñ Który Chodzi pokaza³ im drogê do Kryptopolis i z powrotem. Cieñ Który Chodzi jest dla nich bardzo wa¿ny, potrzebuj¹ mnie do znajdowania drogi.}
-{631}{}{Czyli muszê ciê zabiæ, wtedy ataki ustan¹.}
-{632}{}{Masz na myœli, ¿e BY£EŒ wa¿ny? Próbujê powiedzieæ, ¿e umrzesz teraz z mojej rêki.}
-{640}{}{[Na jego twarzy pojawia siê wyraz strachu, powoli zaczyna siê wycofywaæ.] Proszê, nie! Cieñ Który Chodzi nie chce umieraæ!}
-{641}{}{Wiêc odejdŸ st¹d, opuœæ ich, na zawsze. Policzê do dziesiêciu, a je¿eli do tego czasu st¹d nie znikniesz, to do³¹czysz do swoich przodków w niebie. RAZ...}
-{642}{}{Za póŸno, mój drogi plemienny. Do³¹czysz do swoich przodków za jakieœ... 12 sekund.}
+{622}{}{CÃ³Å¼, w takim razie nie pozwolÄ™ ci Å¼yÄ‡ wystarczajÄ…co dÅ‚ugo.}
+{630}{}{CieÅ„ KtÃ³ry Chodzi pokazaÅ‚ im drogÄ™ do Kryptopolis i z powrotem. CieÅ„ KtÃ³ry Chodzi jest dla nich bardzo waÅ¼ny, potrzebujÄ… mnie do znajdowania drogi.}
+{631}{}{Czyli muszÄ™ ciÄ™ zabiÄ‡, wtedy ataki ustanÄ….}
+{632}{}{Masz na myÅ›li, Å¼e BYÅEÅš waÅ¼ny? PrÃ³bujÄ™ powiedzieÄ‡, Å¼e umrzesz teraz z mojej rÄ™ki.}
+{640}{}{[Na jego twarzy pojawia siÄ™ wyraz strachu, powoli zaczyna siÄ™ wycofywaÄ‡.] ProszÄ™, nie! CieÅ„ KtÃ³ry Chodzi nie chce umieraÄ‡!}
+{641}{}{WiÄ™c odejdÅº stÄ…d, opuÅ›Ä‡ ich, na zawsze. PoliczÄ™ do dziesiÄ™ciu, a jeÅ¼eli do tego czasu stÄ…d nie znikniesz, to doÅ‚Ä…czysz do swoich przodkÃ³w w niebie. RAZ...}
+{642}{}{Za pÃ³Åºno, mÃ³j drogi plemienny. DoÅ‚Ä…czysz do swoich przodkÃ³w za jakieÅ›... 12 sekund.}
 {700}{}{[Dzikus patrzy na ciebie w ciszy.]}
 {701}{}{[Patrz na niego dalej.]}
 {702}{}{[Zaatakuj]}
-{703}{}{Nazywam siê }
-{704}{}{. Kim ty jesteœ?}
-{705}{}{Jestem w trakcie misji dla Kryptopolis. Kim jesteœ?}
-{706}{}{Moje imiê nie jest wa¿ne. Jestem tu ¿eby ciê ostrzec. Jesteœ w wielkim niebezpieczeñstwie!}
-{707}{}{Niewa¿ne, odchodzê.}
-{708}{}{ Nie chcê z tob¹ wiêcej rozmawiaæ, pusto-g³owy, wycieraczko zwierzêcego koryta! A tak w ogóle, mój pierd leci w twoj¹ stronê! Twoja matka by³a chomikiem, a ojciec œmierdzia³ od starych jagód!}
-{710}{}{[Dzikus dalej patrzy w twoj¹ stronê w milczeniu.]}
+{703}{}{Nazywam siÄ™ }
+{704}{}{. Kim ty jesteÅ›?}
+{705}{}{Jestem w trakcie misji dla Kryptopolis. Kim jesteÅ›?}
+{706}{}{Moje imiÄ™ nie jest waÅ¼ne. Jestem tu Å¼eby ciÄ™ ostrzec. JesteÅ› w wielkim niebezpieczeÅ„stwie!}
+{707}{}{NiewaÅ¼ne, odchodzÄ™.}
+{708}{}{ Nie chcÄ™ z tobÄ… wiÄ™cej rozmawiaÄ‡, pusto-gÅ‚owy, wycieraczko zwierzÄ™cego koryta! A tak w ogÃ³le, mÃ³j pierd leci w twojÄ… stronÄ™! Twoja matka byÅ‚a chomikiem, a ojciec Å›mierdziaÅ‚ od starych jagÃ³d!}
+{710}{}{[Dzikus dalej patrzy w twojÄ… stronÄ™ w milczeniu.]}
 {711}{}{[Patrz na niego dalej.]}
 {712}{}{[Zaatakuj]}
-{713}{}{Nazywam siê }
-{714}{}{. Kim ty jesteœ?}
-{715}{}{Jestem w trakcie misji dla Kryptopolis. Kim jesteœ?}
-{716}{}{Moje imiê nie jest wa¿ne. Jestem tu ¿eby ciê ostrzec. Jesteœ w wielkim niebezpieczeñstwie!}
-{717}{}{Niewa¿ne, odchodzê.}
-{718}{}{ Nie chcê z tob¹ wiêcej rozmawiaæ, pusto-g³owy, wycieraczko zwierzêcego koryta! A tak w ogóle, mój pierd leci w twoj¹ stronê! Twoja matka by³a chomikiem, a ojciec œmierdzia³ od starych jagód!}
-{720}{}{[Dzikus dalej patrzy w twoj¹ stronê w milczeniu. Wygl¹da, ¿e zaczyna traciæ cierpliwoœæ.]}
+{713}{}{Nazywam siÄ™ }
+{714}{}{. Kim ty jesteÅ›?}
+{715}{}{Jestem w trakcie misji dla Kryptopolis. Kim jesteÅ›?}
+{716}{}{Moje imiÄ™ nie jest waÅ¼ne. Jestem tu Å¼eby ciÄ™ ostrzec. JesteÅ› w wielkim niebezpieczeÅ„stwie!}
+{717}{}{NiewaÅ¼ne, odchodzÄ™.}
+{718}{}{ Nie chcÄ™ z tobÄ… wiÄ™cej rozmawiaÄ‡, pusto-gÅ‚owy, wycieraczko zwierzÄ™cego koryta! A tak w ogÃ³le, mÃ³j pierd leci w twojÄ… stronÄ™! Twoja matka byÅ‚a chomikiem, a ojciec Å›mierdziaÅ‚ od starych jagÃ³d!}
+{720}{}{[Dzikus dalej patrzy w twojÄ… stronÄ™ w milczeniu. WyglÄ…da, Å¼e zaczyna traciÄ‡ cierpliwoÅ›Ä‡.]}
 {721}{}{[Patrz na niego dalej.]}
 {722}{}{[Zaatakuj]}
-{723}{}{Nazywam siê }
-{724}{}{. Kim ty jesteœ?}
-{725}{}{Jestem w trakcie misji dla Kryptopolis. Kim jesteœ?}
-{726}{}{Moje imiê nie jest wa¿ne. Jestem tu ¿eby ciê ostrzec. Jesteœ w wielkim niebezpieczeñstwie!}
-{727}{}{Niewa¿ne, odchodzê.}
-{728}{}{ Nie chcê z tob¹ wiêcej rozmawiaæ, pusto-g³owy, wycieraczko zwierzêcego koryta! A tak w ogóle, mój pierd leci w twoj¹ stronê! Twoja matka by³a chomikiem, a ojciec œmierdzia³ od starych jagód!}
-{800}{}{Cieñ Który Chodzi wierzy ci nie. Cieñ Który Chodzi skoñczy³ mówiæ. ¯egnaj.}
+{723}{}{Nazywam siÄ™ }
+{724}{}{. Kim ty jesteÅ›?}
+{725}{}{Jestem w trakcie misji dla Kryptopolis. Kim jesteÅ›?}
+{726}{}{Moje imiÄ™ nie jest waÅ¼ne. Jestem tu Å¼eby ciÄ™ ostrzec. JesteÅ› w wielkim niebezpieczeÅ„stwie!}
+{727}{}{NiewaÅ¼ne, odchodzÄ™.}
+{728}{}{ Nie chcÄ™ z tobÄ… wiÄ™cej rozmawiaÄ‡, pusto-gÅ‚owy, wycieraczko zwierzÄ™cego koryta! A tak w ogÃ³le, mÃ³j pierd leci w twojÄ… stronÄ™! Twoja matka byÅ‚a chomikiem, a ojciec Å›mierdziaÅ‚ od starych jagÃ³d!}
+{800}{}{CieÅ„ KtÃ³ry Chodzi wierzy ci nie. CieÅ„ KtÃ³ry Chodzi skoÅ„czyÅ‚ mÃ³wiÄ‡. Å»egnaj.}
 {801}{}{[KONIEC]}
-{802}{}{Nie odwracaj siê ode mnie dzikusie. Mówiê do ciebie.}
-{810}{}{Jak œmiesz groziæ Cieniowi Który Chodzi. OdejdŸ.}
-{811}{}{[OdejdŸ]}
+{802}{}{Nie odwracaj siÄ™ ode mnie dzikusie. MÃ³wiÄ™ do ciebie.}
+{810}{}{Jak Å›miesz groziÄ‡ Cieniowi KtÃ³ry Chodzi. OdejdÅº.}
+{811}{}{[OdejdÅº]}
 {812}{}{[Zaatakuj]}
 {850}{}{Kto idzie?}
-{851}{}{Szzzzz... Polujê na k³óliki.}
-{852}{}{Haahaaaaa! Hihi... hi... Masz ³adne rysunki jak obrazki... Haha!}
-{900}{}{Cieñ Który Chodzi nie rozumie. Co masz na myœli?}
-{901}{}{Jesteœ w wielkim niebezpieczeñstwie! Po prostu powiedz mi co tutaj robisz. Muszê wiedzieæ czy rozmawiam z tym, co trzeba.}
-{902}{}{Yyy, z³e duchy id¹ po ciebie.}
-{903}{}{Tym niebezpieczeñstwem jestem JA. Jestem tu ¿eby ciê zabiæ.}
-{910}{}{Cieñ Który Chodzi jest zwiadowc¹. Cieñ Który Chodzi prowadzi przez góry Stra¿ników RNK. Wojownicy mog¹ siê zgubiæ je¿eli nie znaj¹ drogi przez góry.}
-{911}{}{Wiêc to naprawdê ty! Moja Starsza Wioski kaza³a przekazaæ ci, ¿e przydarzy ci siê coœ strasznego.}
-{912}{}{To ci powiedzieli, ¿e s¹ Stra¿nikami RNK? Nie ma tu ¿adnych Stra¿ników RNK, ok³amali ciê.}
-{913}{}{Stra¿nicy? Oni nie s¹ Stra¿nikami RNK. Popatrz na ich ubranie. Jesteœ pionkiem w ich grze. Oni ciê po prostu wykorzystuj¹.}
-{920}{}{Co!? Cieñ Który Chodzi rozumie co mówisz, ale dlaczego Starsza Wioski mówi coœ takiego?}
-{921}{}{Pos³uchaj mnie! Starsza mojej wioski przewidzia³a twoj¹ œmieræ. Nastêpnym razem jak opuœcisz tê jaskiniê ¿eby poprowadziæ ich przez góry, zginiesz. Musisz odejœæ natychmiast, albo przyjd¹ po ciebie z³e duchy.}
-{922}{}{Czy w¹tpisz w Starsz¹?}
-{930}{}{Cz-Czemu...Czemu Cieñ Który Chodzi ma ci wierzyæ? Jak Starsza mog³a to przewidzieæ?}
-{931}{}{Dobrze...Wiêc Starsza ogl¹da³a ten film... Nie, nie... Yyy, gra³a w tê grê...Yyy...Tak! Nazywa³a siê Fal...}
-{932}{}{Pi³a takiego drinka, œmierdzia³ jak coœ naprawdê mocnego, i mia³a po nim takie kolorowe sny.}
-{933}{}{Koœæ w jej nosie jej powiedzia³a. Tak komunikuje siê z naszymi przodkami.}
-{940}{}{K³amiesz. Nie tak rozmawia siê z duchami. Cieñ Który Chodzi sprawdzi jak smakuje jêzyk k³amcy z moim ulubionym sosem brocka.}
+{851}{}{Szzzzz... PolujÄ™ na kÅ‚Ã³liki.}
+{852}{}{Haahaaaaa! Hihi... hi... Masz Å‚adne rysunki jak obrazki... Haha!}
+{900}{}{CieÅ„ KtÃ³ry Chodzi nie rozumie. Co masz na myÅ›li?}
+{901}{}{JesteÅ› w wielkim niebezpieczeÅ„stwie! Po prostu powiedz mi co tutaj robisz. MuszÄ™ wiedzieÄ‡ czy rozmawiam z tym, co trzeba.}
+{902}{}{Yyy, zÅ‚e duchy idÄ… po ciebie.}
+{903}{}{Tym niebezpieczeÅ„stwem jestem JA. Jestem tu Å¼eby ciÄ™ zabiÄ‡.}
+{910}{}{CieÅ„ KtÃ³ry Chodzi jest zwiadowcÄ…. CieÅ„ KtÃ³ry Chodzi prowadzi przez gÃ³ry StraÅ¼nikÃ³w RNK. Wojownicy mogÄ… siÄ™ zgubiÄ‡ jeÅ¼eli nie znajÄ… drogi przez gÃ³ry.}
+{911}{}{WiÄ™c to naprawdÄ™ ty! Moja Starsza Wioski kazaÅ‚a przekazaÄ‡ ci, Å¼e przydarzy ci siÄ™ coÅ› strasznego.}
+{912}{}{To ci powiedzieli, Å¼e sÄ… StraÅ¼nikami RNK? Nie ma tu Å¼adnych StraÅ¼nikÃ³w RNK, okÅ‚amali ciÄ™.}
+{913}{}{StraÅ¼nicy? Oni nie sÄ… StraÅ¼nikami RNK. Popatrz na ich ubranie. JesteÅ› pionkiem w ich grze. Oni ciÄ™ po prostu wykorzystujÄ….}
+{920}{}{Co!? CieÅ„ KtÃ³ry Chodzi rozumie co mÃ³wisz, ale dlaczego Starsza Wioski mÃ³wi coÅ› takiego?}
+{921}{}{PosÅ‚uchaj mnie! Starsza mojej wioski przewidziaÅ‚a twojÄ… Å›mierÄ‡. NastÄ™pnym razem jak opuÅ›cisz tÄ™ jaskiniÄ™ Å¼eby poprowadziÄ‡ ich przez gÃ³ry, zginiesz. Musisz odejÅ›Ä‡ natychmiast, albo przyjdÄ… po ciebie zÅ‚e duchy.}
+{922}{}{Czy wÄ…tpisz w StarszÄ…?}
+{930}{}{Cz-Czemu...Czemu CieÅ„ KtÃ³ry Chodzi ma ci wierzyÄ‡? Jak Starsza mogÅ‚a to przewidzieÄ‡?}
+{931}{}{Dobrze...WiÄ™c Starsza oglÄ…daÅ‚a ten film... Nie, nie... Yyy, graÅ‚a w tÄ™ grÄ™...Yyy...Tak! NazywaÅ‚a siÄ™ Fal...}
+{932}{}{PiÅ‚a takiego drinka, Å›mierdziaÅ‚ jak coÅ› naprawdÄ™ mocnego, i miaÅ‚a po nim takie kolorowe sny.}
+{933}{}{KoÅ›Ä‡ w jej nosie jej powiedziaÅ‚a. Tak komunikuje siÄ™ z naszymi przodkami.}
+{940}{}{KÅ‚amiesz. Nie tak rozmawia siÄ™ z duchami. CieÅ„ KtÃ³ry Chodzi sprawdzi jak smakuje jÄ™zyk kÅ‚amcy z moim ulubionym sosem brocka.}
 {941}{}{[dalej]}
-{950}{}{Jest prawd¹ to co mówisz. Cieñ Który Chodzi zna moc duchów. Co Cieñ Który Chodzi powinien zrobiæ?}
-{951}{}{Dobra, duchy w³aœnie przemówi³y i wygl¹da na to, ¿e ciê nie lubi¹. Mówi¹, ¿e mam ciê zabiæ.}
-{952}{}{Masz natychmiast st¹d odejœæ na zawsze i nigdy wiêcej nie pracuj jako przewodnik u nich. Duchy s¹ z³e na ciebie, za prowadzenie tych ludzi przez góry. Codziennie módl siê do duchów, ¿eby z³agodziæ ich gniew.}
-{960}{}{Cieñ Który Chodzi jest pos³uszny. [Cieñ Który Chodzi biegnie w stronê drabiny prowadz¹cej na zewn¹trz.]}
-{961}{}{Proszê bardzo Cieniu Który Chodzi.}
-{1000}{}{Uda³o ci siê z³amaæ potêgê NajeŸdŸców. Ju¿ nie bêd¹ w stanie nêkaæ okolicznych miejscowoœci.}
-{1001}{}{Daj im dzieñ, dwa, a NajeŸdŸcy na pewno siê st¹d wynios¹. Wtedy bêdzie mo¿na rozejrzeæ siê tu za informacjami.}
+{950}{}{Jest prawdÄ… to co mÃ³wisz. CieÅ„ KtÃ³ry Chodzi zna moc duchÃ³w. Co CieÅ„ KtÃ³ry Chodzi powinien zrobiÄ‡?}
+{951}{}{Dobra, duchy wÅ‚aÅ›nie przemÃ³wiÅ‚y i wyglÄ…da na to, Å¼e ciÄ™ nie lubiÄ…. MÃ³wiÄ…, Å¼e mam ciÄ™ zabiÄ‡.}
+{952}{}{Masz natychmiast stÄ…d odejÅ›Ä‡ na zawsze i nigdy wiÄ™cej nie pracuj jako przewodnik u nich. Duchy sÄ… zÅ‚e na ciebie, za prowadzenie tych ludzi przez gÃ³ry. Codziennie mÃ³dl siÄ™ do duchÃ³w, Å¼eby zÅ‚agodziÄ‡ ich gniew.}
+{960}{}{CieÅ„ KtÃ³ry Chodzi jest posÅ‚uszny. [CieÅ„ KtÃ³ry Chodzi biegnie w stronÄ™ drabiny prowadzÄ…cej na zewnÄ…trz.]}
+{961}{}{ProszÄ™ bardzo Cieniu KtÃ³ry Chodzi.}
+{1000}{}{UdaÅ‚o ci siÄ™ zÅ‚amaÄ‡ potÄ™gÄ™ NajeÅºdÅºcÃ³w. JuÅ¼ nie bÄ™dÄ… w stanie nÄ™kaÄ‡ okolicznych miejscowoÅ›ci.}
+{1001}{}{Daj im dzieÅ„, dwa, a NajeÅºdÅºcy na pewno siÄ™ stÄ…d wyniosÄ…. Wtedy bÄ™dzie moÅ¼na rozejrzeÄ‡ siÄ™ tu za informacjami.}

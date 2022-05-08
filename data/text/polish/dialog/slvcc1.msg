@@ -1,31 +1,31 @@
-{100}{}{Widzisz brudnego ³owcê niewolników.}
-{101}{}{Ten ³owca niewolników wygl¹da na twardego. Zdaje siê, to on tu rz¹dzi.}
-{102}{}{Widzisz Dona, ³owcê, który rz¹dzi w tym obozie.}
-{105}{}{Hej, co do cholery!? Kim ty do diab³a jesteœ?}
-{106}{}{Twoim najgorszym koszmarem. Przygotuj siê na œmieræ!}
-{107}{}{Metzger mnie przys³a³. Potrzebuje kilku niewolników.}
-{108}{}{Chcê siê do was przy³¹czyæ.}
-{109}{}{Ups, to nie tu stoi mój samochód...}
+{100}{}{Widzisz brudnego Å‚owcÄ™ niewolnikÃ³w.}
+{101}{}{Ten Å‚owca niewolnikÃ³w wyglÄ…da na twardego. Zdaje siÄ™, to on tu rzÄ…dzi.}
+{102}{}{Widzisz Dona, Å‚owcÄ™, ktÃ³ry rzÄ…dzi w tym obozie.}
+{105}{}{Hej, co do cholery!? Kim ty do diabÅ‚a jesteÅ›?}
+{106}{}{Twoim najgorszym koszmarem. Przygotuj siÄ™ na Å›mierÄ‡!}
+{107}{}{Metzger mnie przysÅ‚aÅ‚. Potrzebuje kilku niewolnikÃ³w.}
+{108}{}{ChcÄ™ siÄ™ do was przyÅ‚Ä…czyÄ‡.}
+{109}{}{Ups, to nie tu stoi mÃ³j samochÃ³d...}
 {200}{}{Ty pierwszy, kretynie.}
-{201}{}{Nie mam na to czasu, braæ ich ch³opaki.}
-{202}{}{Do³¹czyæ do nas? To nie jest ¿adne pieprzone centrum rekrutacyjne. Jak chcesz do³¹czyæ do ³owców niewolników gadaj z Metzgerem. A teraz potrzebujesz jeszcze czegoœ, czy jesteœ tu tylko po to, ¿eby mnie zdenerwowaæ?}
-{203}{}{Metzger ciê przys³a³? [Zacz¹³ siê wierciæ, niewygodnie.] Nie mów, ¿e ju¿ chce wiêcej niewolników, jasna cholera, dopiero wys³aliœmy mu dostawê w zesz³ym tygodniu.}
-{300}{}{W³aœciwie to tak, potrzebujê czegoœ.}
-{301}{}{Dlaczego tu jesteœ?}
-{302}{}{Myœlê, ¿e ju¿ niczego od ciebie nie potrzebujê.}
-{303}{}{No to wypieprzaj st¹d.}
-{304}{}{Idê sobie.}
-{305}{}{O, nie wyjdê dopóki nie zabijê ciebie i twoich kumpli.}
-{307}{}{W³aœciwie, tak. Bêdzie zabawia³ jakiœ wa¿niaków z Nowego Reno i chce wiêcej dziewczyn z tej okazji. Ale, hej jak ich nie masz na stanie... Szef bêdzie wstrz¹œniêty, kiedy wrócê z pustymi rêkoma.}
-{308}{}{[Na jego wytatuowanym czole pojawi³ siê pot.] Co, czekaj, nie. Nigdy nie mówi³em, ¿e ich nie mam. W³aœciwie, to masz tutaj, weŸ klucz do szopy, trzymamy tam nasze, hm, osobiste ulubienice. Specjalny sort, mo¿na by rzec. [Podaje ci klucz, uœmiechaj¹c siê nerwowo.]}
-{309}{}{Dziêki. Szepnê o tobie dobre s³ówko. Czeœæ.}
-{310}{}{Metzger ciê przys³a³, co? Czy ja wygl¹dam na œlepego? Nie nosisz nawet naszego pieprzonego znaku. Nie wiem kim jesteœ, ale pierdolisz g³upoty i marnujesz mój czas. I za to, zginiesz. [Daje znak swoim ludziom.] Ubijcie to œcierwo.}
-{311}{}{Ta jasne. Pierdolisz g³upoty i marnujesz mój czas. I za to, zginiesz. [Daje znak swoim ludziom.] Ubijcie to œcierwo.}
-{400}{}{Jestem zajêty. Jak chcesz zrobiæ najazd to idŸ pogadaæ z Metzgerem}
-{450}{}{Nie mówi³em ci, spadaj st¹d? Nie mam cierpliwoœci dla ludzi którzy mnie nachodz¹. Czas umieraæ.}
+{201}{}{Nie mam na to czasu, braÄ‡ ich chÅ‚opaki.}
+{202}{}{DoÅ‚Ä…czyÄ‡ do nas? To nie jest Å¼adne pieprzone centrum rekrutacyjne. Jak chcesz doÅ‚Ä…czyÄ‡ do Å‚owcÃ³w niewolnikÃ³w gadaj z Metzgerem. A teraz potrzebujesz jeszcze czegoÅ›, czy jesteÅ› tu tylko po to, Å¼eby mnie zdenerwowaÄ‡?}
+{203}{}{Metzger ciÄ™ przysÅ‚aÅ‚? [ZaczÄ…Å‚ siÄ™ wierciÄ‡, niewygodnie.] Nie mÃ³w, Å¼e juÅ¼ chce wiÄ™cej niewolnikÃ³w, jasna cholera, dopiero wysÅ‚aliÅ›my mu dostawÄ™ w zeszÅ‚ym tygodniu.}
+{300}{}{WÅ‚aÅ›ciwie to tak, potrzebujÄ™ czegoÅ›.}
+{301}{}{Dlaczego tu jesteÅ›?}
+{302}{}{MyÅ›lÄ™, Å¼e juÅ¼ niczego od ciebie nie potrzebujÄ™.}
+{303}{}{No to wypieprzaj stÄ…d.}
+{304}{}{IdÄ™ sobie.}
+{305}{}{O, nie wyjdÄ™ dopÃ³ki nie zabijÄ™ ciebie i twoich kumpli.}
+{307}{}{WÅ‚aÅ›ciwie, tak. BÄ™dzie zabawiaÅ‚ jakiÅ› waÅ¼niakÃ³w z Nowego Reno i chce wiÄ™cej dziewczyn z tej okazji. Ale, hej jak ich nie masz na stanie... Szef bÄ™dzie wstrzÄ…Å›niÄ™ty, kiedy wrÃ³cÄ™ z pustymi rÄ™koma.}
+{308}{}{[Na jego wytatuowanym czole pojawiÅ‚ siÄ™ pot.] Co, czekaj, nie. Nigdy nie mÃ³wiÅ‚em, Å¼e ich nie mam. WÅ‚aÅ›ciwie, to masz tutaj, weÅº klucz do szopy, trzymamy tam nasze, hm, osobiste ulubienice. Specjalny sort, moÅ¼na by rzec. [Podaje ci klucz, uÅ›miechajÄ…c siÄ™ nerwowo.]}
+{309}{}{DziÄ™ki. SzepnÄ™ o tobie dobre sÅ‚Ã³wko. CzeÅ›Ä‡.}
+{310}{}{Metzger ciÄ™ przysÅ‚aÅ‚, co? Czy ja wyglÄ…dam na Å›lepego? Nie nosisz nawet naszego pieprzonego znaku. Nie wiem kim jesteÅ›, ale pierdolisz gÅ‚upoty i marnujesz mÃ³j czas. I za to, zginiesz. [Daje znak swoim ludziom.] Ubijcie to Å›cierwo.}
+{311}{}{Ta jasne. Pierdolisz gÅ‚upoty i marnujesz mÃ³j czas. I za to, zginiesz. [Daje znak swoim ludziom.] Ubijcie to Å›cierwo.}
+{400}{}{Jestem zajÄ™ty. Jak chcesz zrobiÄ‡ najazd to idÅº pogadaÄ‡ z Metzgerem}
+{450}{}{Nie mÃ³wiÅ‚em ci, spadaj stÄ…d? Nie mam cierpliwoÅ›ci dla ludzi ktÃ³rzy mnie nachodzÄ…. Czas umieraÄ‡.}
 {500}{}{[dalej]}
 {600}{}{Teraz umrzesz!}
-{601}{}{Giñ, pieprzony Stra¿niku!}
-{800}{}{Hmm...Przeka¿ Metzgerowi moje pozdrowienia.}
-{900}{}{Nie, w³aœciwie, jestem tu ¿eby rzuciæ okiem na towar. Widzisz, mam bardzo szczególny gust, ale p³ace ekstra.}
-{901}{}{Gówno prawda. Metzger nigdy nie przysy³a³ tu klientów. Nie wiem co tu kombinujesz, ale masz trzy sekundy na spieprzanie zanim zawo³am ch³opaków, ¿eby nafaszerowali ciê o³owiem.}
+{601}{}{GiÅ„, pieprzony StraÅ¼niku!}
+{800}{}{Hmm...PrzekaÅ¼ Metzgerowi moje pozdrowienia.}
+{900}{}{Nie, wÅ‚aÅ›ciwie, jestem tu Å¼eby rzuciÄ‡ okiem na towar. Widzisz, mam bardzo szczegÃ³lny gust, ale pÅ‚ace ekstra.}
+{901}{}{GÃ³wno prawda. Metzger nigdy nie przysyÅ‚aÅ‚ tu klientÃ³w. Nie wiem co tu kombinujesz, ale masz trzy sekundy na spieprzanie zanim zawoÅ‚am chÅ‚opakÃ³w, Å¼eby nafaszerowali ciÄ™ oÅ‚owiem.}

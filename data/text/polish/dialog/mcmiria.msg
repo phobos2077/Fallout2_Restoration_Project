@@ -1,98 +1,98 @@
-{100}{}{O rany! Widzisz niezwykle atrakcyjn¹ kobietê.}
+{100}{}{O rany! Widzisz niezwykle atrakcyjnÄ… kobietÄ™.}
 {101}{}{To Miria.}
-{102}{}{Nie mo¿esz mieæ pewnoœci, ale obstawiasz wymiary 90-60-90.}
+{102}{}{Nie moÅ¼esz mieÄ‡ pewnoÅ›ci, ale obstawiasz wymiary 90-60-90.}
 {150}{}{Suka!}
-{151}{}{Jak œmiesz siê tutaj pokazywaæ!}
+{151}{}{Jak Å›miesz siÄ™ tutaj pokazywaÄ‡!}
 {152}{}{To po prostu chore!}
-{153}{}{Mam nadziejê, ¿e jesteœcie ze sob¹ szczêœliwi.}
+{153}{}{Mam nadziejÄ™, Å¼e jesteÅ›cie ze sobÄ… szczÄ™Å›liwi.}
 {154}{}{Ach, witaj przybyszu. Jestem Miria.}
-{155}{}{Cieszê siê, ¿e znów ciê widzê. Co JA mogê zrobiæ dla CIEBIE?}
-{156}{}{Czym siê zajmujesz?}
-{157}{}{Co mo¿esz powiedzieæ mi na temat rzeŸni?}
-{158}{}{Co s³ychaæ w okolicy?}
+{155}{}{CieszÄ™ siÄ™, Å¼e znÃ³w ciÄ™ widzÄ™. Co JA mogÄ™ zrobiÄ‡ dla CIEBIE?}
+{156}{}{Czym siÄ™ zajmujesz?}
+{157}{}{Co moÅ¼esz powiedzieÄ‡ mi na temat rzeÅºni?}
+{158}{}{Co sÅ‚ychaÄ‡ w okolicy?}
 {159}{}{Haba, haba!}
-{160}{}{Gdyby nie to, ¿e strasznie siê nudzê, pewnie bym odmówi³a. Pytaj.}
-{164}{}{Plotka g³osi, ¿e to Farrel ukrad³ zegarek.}
-{165}{}{Dlaczego Farrel mia³by ukraœæ zegarek?}
+{160}{}{Gdyby nie to, Å¼e strasznie siÄ™ nudzÄ™, pewnie bym odmÃ³wiÅ‚a. Pytaj.}
+{164}{}{Plotka gÅ‚osi, Å¼e to Farrel ukradÅ‚ zegarek.}
+{165}{}{Dlaczego Farrel miaÅ‚by ukraÅ›Ä‡ zegarek?}
 {166}{}{Czy Farrel nie jest przypadkiem najlepszym przyjacielem Corneliusa?}
-{167}{}{Opowiedz mi jeszcze o czymœ.}
-{168}{}{Bo biedni ludzie kradn¹ czasem, ¿eby zwi¹zaæ koniec z koñcem. A Farrel idealnie pasuje do kategorii biednych ludzi. To by zreszt¹ t³umaczy³o sk¹d wzi¹³ pieni¹dze na nowe narzêdzia, które kupi³ tu¿ po zaginiêciu zegarka Corneliusa.}
-{170}{}{Czy mogê ci zadaæ kilka pytañ?}
-{171}{}{Tak, trzymali siê rzeczywiœcie razem. To zreszt¹ potwierdza podejrzenia przeciw Farrelowi. Kto inny jak nie on mia³by dogodn¹ sytuacjê, ¿eby zwin¹æ Corneliusowi zegarek?}
-{174}{}{Nie ma o czym opowiadaæ. RzeŸnia nale¿y do mojej rodziny. Ludzie z okolicy przyprowadzaj¹ tu swoje braminy. Po uboju i oporz¹dzeniu sprzedajemy miêso handlarzom, którzy nastêpnie przewo¿¹ je do najró¿niejszych miast. Jedna wielka nuda.}
-{176}{}{No to jesteœ we w³aœciwym miejscu! To miasto jest tak nudne, ¿e ¿yje WY£¥CZNIE dziêki plotkom. WyobraŸ sobie... [Mówi nieprzerwanie przez kilka minut. Wreszcie udaje ci siê wtr¹ciæ s³owo.]}
-{177}{}{Co jeszcze chcesz wiedzieæ?}
+{167}{}{Opowiedz mi jeszcze o czymÅ›.}
+{168}{}{Bo biedni ludzie kradnÄ… czasem, Å¼eby zwiÄ…zaÄ‡ koniec z koÅ„cem. A Farrel idealnie pasuje do kategorii biednych ludzi. To by zresztÄ… tÅ‚umaczyÅ‚o skÄ…d wziÄ…Å‚ pieniÄ…dze na nowe narzÄ™dzia, ktÃ³re kupiÅ‚ tuÅ¼ po zaginiÄ™ciu zegarka Corneliusa.}
+{170}{}{Czy mogÄ™ ci zadaÄ‡ kilka pytaÅ„?}
+{171}{}{Tak, trzymali siÄ™ rzeczywiÅ›cie razem. To zresztÄ… potwierdza podejrzenia przeciw Farrelowi. Kto inny jak nie on miaÅ‚by dogodnÄ… sytuacjÄ™, Å¼eby zwinÄ…Ä‡ Corneliusowi zegarek?}
+{174}{}{Nie ma o czym opowiadaÄ‡. RzeÅºnia naleÅ¼y do mojej rodziny. Ludzie z okolicy przyprowadzajÄ… tu swoje braminy. Po uboju i oporzÄ…dzeniu sprzedajemy miÄ™so handlarzom, ktÃ³rzy nastÄ™pnie przewoÅ¼Ä… je do najrÃ³Å¼niejszych miast. Jedna wielka nuda.}
+{176}{}{No to jesteÅ› we wÅ‚aÅ›ciwym miejscu! To miasto jest tak nudne, Å¼e Å¼yje WYÅÄ„CZNIE dziÄ™ki plotkom. WyobraÅº sobie... [MÃ³wi nieprzerwanie przez kilka minut. Wreszcie udaje ci siÄ™ wtrÄ…ciÄ‡ sÅ‚owo.]}
+{177}{}{Co jeszcze chcesz wiedzieÄ‡?}
 {178}{}{Co wiesz o zaginionym zegarku Corneliusa?}
-{179}{}{Wspomina³aœ coœ o Rose?}
-{180}{}{Mówi³aœ coœ o zmutowanych braminach?}
+{179}{}{WspominaÅ‚aÅ› coÅ› o Rose?}
+{180}{}{MÃ³wiÅ‚aÅ› coÅ› o zmutowanych braminach?}
 {181}{}{Opowiedz mi o Davinie.}
-{182}{}{Porozmawiajmy o czymœ innym.}
-{183}{}{Ach, Rose jest w³aœcicielk¹ tutejszego baru. Jakby ktoœ pyta³, to ja ci nic nie mówi³am, ale nie zdziwi³o ciê, ¿e jej kurnik jest tak pilnie strze¿ony? Mówi, ¿e to po to, ¿eby chroniæ jej kurczaki przed drapie¿nikami, ale jeœli przyjrzysz siê bli¿ej wygl¹da na to, ¿e ona stara siê raczej zatrzymaæ coœ w œrodku. No i kto s³ysza³ o kurach znosz¹cych siedmiokilowe jaja?}
-{184}{}{Opowiedz mi o czymœ jeszcze.}
-{186}{}{To naprawdê dziwne, ale czêsto s³yszê, ¿e niektórym farmerom rodz¹ siê braminy z jedn¹ g³ow¹! To dopiero dziwad³o!}
-{189}{}{To rodzina. O rodzinie siê nie plotkuje.}
-{192}{}{Kto, ja? Zajmujê siê ró¿nymi drobiazgami. Nic godnego uwagi. [Posy³a ci kokieteryjne spojrzenie.]}
-{193}{}{Chêtnie dowiem siê o tobie czegoœ wiêcej.}
-{194}{}{Racja, doœæ gadania. Bierzmy siê do roboty! Przecie¿ tylko na to czekasz, prawda?}
-{196}{}{Jestem wzruszona. Nikt nigdy nie chcia³ dowiedzieæ siê o mnie czegoœ wiêcej. Wszyscy chcieli tylko seksu, seksu, wiêcej seksu! Mam ju¿ po dziurki w nosie dzikiego, nieskrêpowanego seksu. Tak siê cieszê, ¿e pozna³am wreszcie kogoœ innego.}
-{197}{}{Ty dziwko! Jesteœ taka jak wszystkie!}
-{198}{}{No wiesz, jestem po prostu normalnym facetem. Nawet moi przyjaciele mówi¹ mi czasem, "}
-{199}{}{, jesteœ taki niezwyk³y, bo potrafisz siê zachowywaæ jak normalny facet." Taki w³aœnie jestem.}
-{200}{}{Po prostu jesteœ najbardziej interesuj¹c¹ osob¹, jak¹ dane mi by³o poznaæ.}
+{182}{}{Porozmawiajmy o czymÅ› innym.}
+{183}{}{Ach, Rose jest wÅ‚aÅ›cicielkÄ… tutejszego baru. Jakby ktoÅ› pytaÅ‚, to ja ci nic nie mÃ³wiÅ‚am, ale nie zdziwiÅ‚o ciÄ™, Å¼e jej kurnik jest tak pilnie strzeÅ¼ony? MÃ³wi, Å¼e to po to, Å¼eby chroniÄ‡ jej kurczaki przed drapieÅ¼nikami, ale jeÅ›li przyjrzysz siÄ™ bliÅ¼ej wyglÄ…da na to, Å¼e ona stara siÄ™ raczej zatrzymaÄ‡ coÅ› w Å›rodku. No i kto sÅ‚yszaÅ‚ o kurach znoszÄ…cych siedmiokilowe jaja?}
+{184}{}{Opowiedz mi o czymÅ› jeszcze.}
+{186}{}{To naprawdÄ™ dziwne, ale czÄ™sto sÅ‚yszÄ™, Å¼e niektÃ³rym farmerom rodzÄ… siÄ™ braminy z jednÄ… gÅ‚owÄ…! To dopiero dziwadÅ‚o!}
+{189}{}{To rodzina. O rodzinie siÄ™ nie plotkuje.}
+{192}{}{Kto, ja? ZajmujÄ™ siÄ™ rÃ³Å¼nymi drobiazgami. Nic godnego uwagi. [PosyÅ‚a ci kokieteryjne spojrzenie.]}
+{193}{}{ChÄ™tnie dowiem siÄ™ o tobie czegoÅ› wiÄ™cej.}
+{194}{}{Racja, doÅ›Ä‡ gadania. Bierzmy siÄ™ do roboty! PrzecieÅ¼ tylko na to czekasz, prawda?}
+{196}{}{Jestem wzruszona. Nikt nigdy nie chciaÅ‚ dowiedzieÄ‡ siÄ™ o mnie czegoÅ› wiÄ™cej. Wszyscy chcieli tylko seksu, seksu, wiÄ™cej seksu! Mam juÅ¼ po dziurki w nosie dzikiego, nieskrÄ™powanego seksu. Tak siÄ™ cieszÄ™, Å¼e poznaÅ‚am wreszcie kogoÅ› innego.}
+{197}{}{Ty dziwko! JesteÅ› taka jak wszystkie!}
+{198}{}{No wiesz, jestem po prostu normalnym facetem. Nawet moi przyjaciele mÃ³wiÄ… mi czasem, "}
+{199}{}{, jesteÅ› taki niezwykÅ‚y, bo potrafisz siÄ™ zachowywaÄ‡ jak normalny facet." Taki wÅ‚aÅ›nie jestem.}
+{200}{}{Po prostu jesteÅ› najbardziej interesujÄ…cÄ… osobÄ…, jakÄ… dane mi byÅ‚o poznaÄ‡.}
 {202}{}{Czekam? Niby na co? Co sugerujesz?}
-{203}{}{Myœlê, ¿e dobrze wiesz o co mi chodzi, maleñka. I wiem, ¿e tego pragniesz. [Uœmiechasz siê i zaczynasz siê rozbieraæ.]}
-{204}{}{Przepraszam. Zapomnijmy o ca³ej sprawie. To nie mia³o tak zabrzmieæ.}
-{205}{}{Jak œmiesz nazywaæ mnie zdzir¹! Dla twojej informacji: nie idê do ³ó¿ka z byle kim. W tym miesi¹cu spa³am tylko z 10... no góra 20 osobami! Nie odzywaj siê do mnie wiêcej!}
-{206}{}{To straszne. Jesteœ dok³adnie taki jak wszyscy?}
-{208}{}{Nie wydaje mi siê. Mam ju¿ doœæ tej rozmowy. ¯egnaj.}
-{209}{}{[Rumieni siê] Przestañ, zawstydzasz mnie. Nikt jeszcze tak do mnie nie mówi³. ChodŸ tu, usi¹dŸ obok mnie.}
-{210}{}{Posuwasz siê zbyt daleko. Nie mo¿emy po prostu porozmawiaæ?}
-{211}{}{Nareszcie! Mo¿e siê trochê odprê¿ymy?}
-{212}{}{Œwietnie! Wiesz czego chcê, maleñka!}
+{203}{}{MyÅ›lÄ™, Å¼e dobrze wiesz o co mi chodzi, maleÅ„ka. I wiem, Å¼e tego pragniesz. [UÅ›miechasz siÄ™ i zaczynasz siÄ™ rozbieraÄ‡.]}
+{204}{}{Przepraszam. Zapomnijmy o caÅ‚ej sprawie. To nie miaÅ‚o tak zabrzmieÄ‡.}
+{205}{}{Jak Å›miesz nazywaÄ‡ mnie zdzirÄ…! Dla twojej informacji: nie idÄ™ do Å‚Ã³Å¼ka z byle kim. W tym miesiÄ…cu spaÅ‚am tylko z 10... no gÃ³ra 20 osobami! Nie odzywaj siÄ™ do mnie wiÄ™cej!}
+{206}{}{To straszne. JesteÅ› dokÅ‚adnie taki jak wszyscy?}
+{208}{}{Nie wydaje mi siÄ™. Mam juÅ¼ doÅ›Ä‡ tej rozmowy. Å»egnaj.}
+{209}{}{[Rumieni siÄ™] PrzestaÅ„, zawstydzasz mnie. Nikt jeszcze tak do mnie nie mÃ³wiÅ‚. ChodÅº tu, usiÄ…dÅº obok mnie.}
+{210}{}{Posuwasz siÄ™ zbyt daleko. Nie moÅ¼emy po prostu porozmawiaÄ‡?}
+{211}{}{Nareszcie! MoÅ¼e siÄ™ trochÄ™ odprÄ™Å¼ymy?}
+{212}{}{Åšwietnie! Wiesz czego chcÄ™, maleÅ„ka!}
 {213}{}{Ale z ciebie zdzira!}
-{214}{}{D³u¿ej tego nie wytrzymam! Jesteœ chodz¹cym idea³em. [Zdziera z siebie ubrania, potem z ciebie... a potem...]}
-{215}{}{[Twoje ¿ycie ju¿ nigdy nie bêdzie takie samo.]}
-{216}{}{Mam nadziejê, ¿e to nie znaczy tego, co myœlê, ¿e to znaczy?}
+{214}{}{DÅ‚uÅ¼ej tego nie wytrzymam! JesteÅ› chodzÄ…cym ideaÅ‚em. [Zdziera z siebie ubrania, potem z ciebie... a potem...]}
+{215}{}{[Twoje Å¼ycie juÅ¼ nigdy nie bÄ™dzie takie samo.]}
+{216}{}{Mam nadziejÄ™, Å¼e to nie znaczy tego, co myÅ›lÄ™, Å¼e to znaczy?}
 {217}{}{Auuuga!}
-{218}{}{Hê?}
-{219}{}{Tak w³aœnie myœla³am. Dziwne, jak ludzka mowa i pomruki neandertalczyka zbiegaj¹ siê na tym gruncie. [Nagle przed twoimi oczami pojawiaj¹ siê gwiazdy. Có¿, czerwony œlad na policzku na pewno kiedyœ zniknie.]}
+{218}{}{HÄ™?}
+{219}{}{Tak wÅ‚aÅ›nie myÅ›laÅ‚am. Dziwne, jak ludzka mowa i pomruki neandertalczyka zbiegajÄ… siÄ™ na tym gruncie. [Nagle przed twoimi oczami pojawiajÄ… siÄ™ gwiazdy. CÃ³Å¼, czerwony Å›lad na policzku na pewno kiedyÅ› zniknie.]}
 {250}{}{Pomocy, Tatku! Zabierz go!}
-{251}{}{Uciekaæ!}
-{260}{}{Pomocy, Tatku! Zabierz j¹!}
+{251}{}{UciekaÄ‡!}
+{260}{}{Pomocy, Tatku! Zabierz jÄ…!}
 {270}{}{Pomocy! Zabierz go!}
-{280}{}{Pomocy! Zabierz j¹}
+{280}{}{Pomocy! Zabierz jÄ…}
 {400}{}{Tatku!}
 {401}{}{O nie!}
-{402}{}{Tak, chcê!}
+{402}{}{Tak, chcÄ™!}
 {410}{}{Uch...}
-{411}{}{Uuch... Proszê dalej...}
-{412}{}{Za cholerê...}
-{413}{}{Um... Chcê.}
+{411}{}{Uuch... ProszÄ™ dalej...}
+{412}{}{Za cholerÄ™...}
+{413}{}{Um... ChcÄ™.}
 {420}{}{Wujku Biff!}
-{450}{}{Uuch, chyba musisz porozmawiaæ z tat¹.}
-{470}{}{Yyy. Myœlê, to z wujkiem Biff'em trzeba o tym rozmawiaæ.}
-{500}{}{Œwietnie, to chyba znaczy, ¿e ja muszê teraz zarz¹dzaæ tym bagnem.}
+{450}{}{Uuch, chyba musisz porozmawiaÄ‡ z tatÄ….}
+{470}{}{Yyy. MyÅ›lÄ™, to z wujkiem Biff'em trzeba o tym rozmawiaÄ‡.}
+{500}{}{Åšwietnie, to chyba znaczy, Å¼e ja muszÄ™ teraz zarzÄ…dzaÄ‡ tym bagnem.}
 {1000}{}{Co teraz, kochanie?}
-{1001}{}{Co teraz, s³onko?}
+{1001}{}{Co teraz, sÅ‚onko?}
 {1002}{}{Co teraz, misiu?}
 {1003}{}{Co teraz, tygrysku?}
 {1004}{}{Co teraz, pupciu?}
-{1005}{}{Nie, nie, nie... Nie o taki dystans chodzi. Chcê, ¿ebyœ trzyma³a siê parê metrów ode mnie w trakcie marszu.}
-{1006}{}{Spokojnie, skarbie. Po prostu trzymaj siê parê metrów ode mnie podczas marszu.}
-{1007}{}{Postaram siê bardziej, misiu-pysiu. Szkoda tylko, ¿e mamy dla siebie tak ma³o czasu.}
-{1008}{}{Moje rzeczy s¹ twoimi rzeczami.}
-{1009}{}{Dobrze, anio³ku, ale dlaczego poprzestawaæ na zbroi?}
-{1010}{}{Rajcuj¹ mnie no¿e i takie tam drobiazgi, ale jak bêdzie trzeba poradzê sobie z ma³ymi karabinami maszynowymi. Tylko nie oczekuj, ¿e w coœ nimi trafiê.}
-{1020}{}{Musimy porozmawiaæ o dystansie miêdzy nami.}
-{1100}{}{Jestem ju¿ uleczona i gotowa do drogi.}
-{1200}{}{Zosta³y tylko jakieœ drobne zadrapania.}
-{1300}{}{Có¿, czujê siê ca³kiem nieŸle - ale jeszcze trochê opieki na pewno mi nie zaszkodzi.}
-{1400}{}{Zrobi³am co mog³am, ale wci¹¿ ledwie zipiê.}
-{1500}{}{Nie, kochanie. Chcê iœæ z tob¹.}
-{1600}{}{Oczywiœcie, ju¿ odk³adam.}
+{1005}{}{Nie, nie, nie... Nie o taki dystans chodzi. ChcÄ™, Å¼ebyÅ› trzymaÅ‚a siÄ™ parÄ™ metrÃ³w ode mnie w trakcie marszu.}
+{1006}{}{Spokojnie, skarbie. Po prostu trzymaj siÄ™ parÄ™ metrÃ³w ode mnie podczas marszu.}
+{1007}{}{Postaram siÄ™ bardziej, misiu-pysiu. Szkoda tylko, Å¼e mamy dla siebie tak maÅ‚o czasu.}
+{1008}{}{Moje rzeczy sÄ… twoimi rzeczami.}
+{1009}{}{Dobrze, anioÅ‚ku, ale dlaczego poprzestawaÄ‡ na zbroi?}
+{1010}{}{RajcujÄ… mnie noÅ¼e i takie tam drobiazgi, ale jak bÄ™dzie trzeba poradzÄ™ sobie z maÅ‚ymi karabinami maszynowymi. Tylko nie oczekuj, Å¼e w coÅ› nimi trafiÄ™.}
+{1020}{}{Musimy porozmawiaÄ‡ o dystansie miÄ™dzy nami.}
+{1100}{}{Jestem juÅ¼ uleczona i gotowa do drogi.}
+{1200}{}{ZostaÅ‚y tylko jakieÅ› drobne zadrapania.}
+{1300}{}{CÃ³Å¼, czujÄ™ siÄ™ caÅ‚kiem nieÅºle - ale jeszcze trochÄ™ opieki na pewno mi nie zaszkodzi.}
+{1400}{}{ZrobiÅ‚am co mogÅ‚am, ale wciÄ…Å¼ ledwie zipiÄ™.}
+{1500}{}{Nie, kochanie. ChcÄ™ iÅ›Ä‡ z tobÄ….}
+{1600}{}{OczywiÅ›cie, juÅ¼ odkÅ‚adam.}
 {1700}{}{}
-{1800}{}{O nie, s³odyczy ty moja. Chcê byæ blisko ciebie.}
-{1900}{}{Ale wtedy bêdê daleko od ciebie, cukiereczku.}
-{2000}{}{Chyba jest z³amana, kochanie. Musisz j¹ obejrzeæ.}
-{2001}{}{Kochanie mam gor¹czkê. Chyba jestem napromieniowana.}
-{2002}{}{Kochanie czujê siê bardzo Ÿle. Chyba siê czymœ stru³am.}
+{1800}{}{O nie, sÅ‚odyczy ty moja. ChcÄ™ byÄ‡ blisko ciebie.}
+{1900}{}{Ale wtedy bÄ™dÄ™ daleko od ciebie, cukiereczku.}
+{2000}{}{Chyba jest zÅ‚amana, kochanie. Musisz jÄ… obejrzeÄ‡.}
+{2001}{}{Kochanie mam gorÄ…czkÄ™. Chyba jestem napromieniowana.}
+{2002}{}{Kochanie czujÄ™ siÄ™ bardzo Åºle. Chyba siÄ™ czymÅ› struÅ‚am.}

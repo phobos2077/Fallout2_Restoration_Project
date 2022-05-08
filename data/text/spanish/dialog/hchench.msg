@@ -1,51 +1,51 @@
 {100}{}{Ves a una persona que lleva una potente arma.}
-{101}{}{Ves a un miembro del cuerpo de comercio y protección de Broken Hills.}
-{102}{}{Ves a una persona que lleva una potente arma y está cubierta por el polvo del camino.}
-{103}{}{Como te lo digo, otro grupo más de salteadores y para la próxima me llevo dinamita.}
-{104}{}{Un poco más de ayuda no vendría mal con las caravanas.}
+{101}{}{Ves a un miembro del cuerpo de comercio y protecciÃ³n de Broken Hills.}
+{102}{}{Ves a una persona que lleva una potente arma y estÃ¡ cubierta por el polvo del camino.}
+{103}{}{Como te lo digo, otro grupo mÃ¡s de salteadores y para la prÃ³xima me llevo dinamita.}
+{104}{}{Un poco mÃ¡s de ayuda no vendrÃ­a mal con las caravanas.}
 {105}{}{Amigo... lo de la patrulla Unidad ya cansa lo suyo.}
-{106}{}{Así que entonces vi llegar a ese tribal y... no importa.}
-{107}{}{Un comentario más sobre la "patrulla arco iris" y voy a matar a alguien.}
-{108}{}{Te lo juro, como lo de los bandidos empeore, vamos a estar todos muertos el próximo año.}
-{109}{}{¿De qué mierdecilla de poblado eres tú?}
-{110}{}{¿Le pagas una copa a un trabajador?}
+{106}{}{AsÃ­ que entonces vi llegar a ese tribal y... no importa.}
+{107}{}{Un comentario mÃ¡s sobre la "patrulla arco iris" y voy a matar a alguien.}
+{108}{}{Te lo juro, como lo de los bandidos empeore, vamos a estar todos muertos el prÃ³ximo aÃ±o.}
+{109}{}{Â¿De quÃ© mierdecilla de poblado eres tÃº?}
+{110}{}{Â¿Le pagas una copa a un trabajador?}
 {111}{}{Estoy demasiado cansado de trabajar con la caravana como para hablar.}
 {112}{}{Si necesitas algo, habla con Bill, el Proveedor.}
-{113}{}{Cualquiera pensaría que después de todo este tiempo intentando civilizar el Yermo estaríamos un poco más cerca de nuestro objetivo.}
-{114}{}{Estoy harto de todas esas riñas humanos/mutantes. ¿No se supone que somos un ejemplo?}
-{115}{}{¿Qué coño quieres? ¿No ves que estoy descansando?}
-{116}{}{¿Cuando se va la próxima caravana?}
-{117}{}{Patrullar, patrullar, patrullar... eso es todo lo que hago aquí.}
+{113}{}{Cualquiera pensarÃ­a que despuÃ©s de todo este tiempo intentando civilizar el Yermo estarÃ­amos un poco mÃ¡s cerca de nuestro objetivo.}
+{114}{}{Estoy harto de todas esas riÃ±as humanos/mutantes. Â¿No se supone que somos un ejemplo?}
+{115}{}{Â¿QuÃ© coÃ±o quieres? Â¿No ves que estoy descansando?}
+{116}{}{Â¿Cuando se va la prÃ³xima caravana?}
+{117}{}{Patrullar, patrullar, patrullar... eso es todo lo que hago aquÃ­.}
 {118}{}{Creo que necesito una siesta.}
 {119}{}{Merezco un aumento. Este es un trabajo peligroso.}
-{200}{}{¿Te ayudo?}
-{201}{}{Sí, estoy buscando al organizador de la caravana.}
-{202}{}{Me preguntaba si podría hacerte algunas preguntas sobre Chad.}
-{203}{}{¿Quién eres?}
+{200}{}{Â¿Te ayudo?}
+{201}{}{SÃ­, estoy buscando al organizador de la caravana.}
+{202}{}{Me preguntaba si podrÃ­a hacerte algunas preguntas sobre Chad.}
+{203}{}{Â¿QuiÃ©n eres?}
 {204}{}{No, gracias.}
-{205}{}{En ese caso, quiero hablar con Bill, el Armador de Broken Hills. Es dentro de ese edificio de allí.}
-{206}{}{Tengo más preguntas.}
-{207}{}{Gracias. Adiós.}
-{208}{}{Tú tienes preguntas, quizá yo tenga respuestas. ¿Qué quieres saber?}
-{209}{}{¿Cómo es?}
-{210}{}{¿Es de confianza?}
-{211}{}{¿De dónde saca su dinero?}
-{212}{}{¿Cuál es su historia?}
-{213}{}{Olvídalo. Te veré más tarde.}
-{214}{}{¿Yo? Soy }
-{215}{}{. Guardia de las caravanas de Bill. ¿Algo más?}
-{216}{}{¿Que cómo es? Bien, amigable, pero con cierta brusquedad. Es un buen jefe, y por lo general justo con nosotros. No
- nos trata mal ni nada de eso, si es a lo que te refieres. ¿Alguna otra pregunta?}
-{217}{}{Bueno, tiene algo turbio, supongo… pero así es la mayoría de la gente estos días. ¿Alguna otra pregunta?}
-{218}{}{De cierta forma siempre asumí que sería de confianza... y de mucha, además. No es el tipo de
- cosas que le preguntas a un tipo, como supondrás. ¿Alguna pregunta más?}
-{219}{}{No tengo ni idea de cuál es su historia. Quiero decir, casi todos los guardias de caravanas somos vagabundos
- que llegamos aquí por el trabajo. Me figuro que en su caso es alguien más que tuvo que abandonar algún lugar a toda prisa. ¿Alguna
+{205}{}{En ese caso, quiero hablar con Bill, el Armador de Broken Hills. Es dentro de ese edificio de allÃ­.}
+{206}{}{Tengo mÃ¡s preguntas.}
+{207}{}{Gracias. AdiÃ³s.}
+{208}{}{TÃº tienes preguntas, quizÃ¡ yo tenga respuestas. Â¿QuÃ© quieres saber?}
+{209}{}{Â¿CÃ³mo es?}
+{210}{}{Â¿Es de confianza?}
+{211}{}{Â¿De dÃ³nde saca su dinero?}
+{212}{}{Â¿CuÃ¡l es su historia?}
+{213}{}{OlvÃ­dalo. Te verÃ© mÃ¡s tarde.}
+{214}{}{Â¿Yo? Soy }
+{215}{}{. Guardia de las caravanas de Bill. Â¿Algo mÃ¡s?}
+{216}{}{Â¿Que cÃ³mo es? Bien, amigable, pero con cierta brusquedad. Es un buen jefe, y por lo general justo con nosotros. No
+ nos trata mal ni nada de eso, si es a lo que te refieres. Â¿Alguna otra pregunta?}
+{217}{}{Bueno, tiene algo turbio, supongoâ€¦ pero asÃ­ es la mayorÃ­a de la gente estos dÃ­as. Â¿Alguna otra pregunta?}
+{218}{}{De cierta forma siempre asumÃ­ que serÃ­a de confianza... y de mucha, ademÃ¡s. No es el tipo de
+ cosas que le preguntas a un tipo, como supondrÃ¡s. Â¿Alguna pregunta mÃ¡s?}
+{219}{}{No tengo ni idea de cuÃ¡l es su historia. Quiero decir, casi todos los guardias de caravanas somos vagabundos
+ que llegamos aquÃ­ por el trabajo. Me figuro que en su caso es alguien mÃ¡s que tuvo que abandonar algÃºn lugar a toda prisa. Â¿Alguna
  otra pregunta?}
-{220}{}{Sí.}
+{220}{}{SÃ­.}
 {221}{}{No.}
 {222}{}{De acuerdo. Entonces ya nos veremos.}
-{223}{}{Adiós.}
+{223}{}{AdiÃ³s.}
 {300}{}{Hatch}
 {301}{}{Stark}
 {302}{}{Darin}
@@ -76,4 +76,4 @@
 {413}{}{Sarah}
 {450}{}{Ves a }
 {451}{}{, guardia de caravana.}
-{2050}{}{En ese caso, quiero hablar con Bill, el Armador de Broken Hills. Él es el que lleva un sombrero, justo allí.}
+{2050}{}{En ese caso, quiero hablar con Bill, el Armador de Broken Hills. Ã‰l es el que lleva un sombrero, justo allÃ­.}

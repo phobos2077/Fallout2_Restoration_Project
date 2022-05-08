@@ -1,10 +1,10 @@
-{100}{}{Widzisz mê¿czyznê w pancerzu wspomaganym.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ w pancerzu wspomaganym.}
 {101}{}{To jest Sir Bedemir.}
-{102}{}{Wygl¹da na g³êboko zamyœlonego.}
-{103}{}{Sir Bedemir, do us³ug.}
-{104}{}{...a oto dowód na to, i¿ ziemia kszta³t banana posiada.}
-{105}{}{Pozwól¿e mi wyjaœniæ, w jaki sposób trzesieniom ziemi zapobiegaæ mo¿na, owczych pêcherzy w celu tym u¿ywaj¹c.}
-{106}{}{Muszê pomyœleæ. Ostaw mnie, proszê, w spokoju.}
-{200}{}{Hej! Masz lodowate rêce!}
-{201}{}{To nie nale¿y do ciebie.}
+{102}{}{WyglÄ…da na gÅ‚Ä™boko zamyÅ›lonego.}
+{103}{}{Sir Bedemir, do usÅ‚ug.}
+{104}{}{...a oto dowÃ³d na to, iÅ¼ ziemia ksztaÅ‚t banana posiada.}
+{105}{}{PozwÃ³lÅ¼e mi wyjaÅ›niÄ‡, w jaki sposÃ³b trzesieniom ziemi zapobiegaÄ‡ moÅ¼na, owczych pÄ™cherzy w celu tym uÅ¼ywajÄ…c.}
+{106}{}{MuszÄ™ pomyÅ›leÄ‡. Ostaw mnie, proszÄ™, w spokoju.}
+{200}{}{Hej! Masz lodowate rÄ™ce!}
+{201}{}{To nie naleÅ¼y do ciebie.}
 {202}{}{Hej, to moje rzeczy!}

@@ -1,11 +1,11 @@
-{100}{}{Egy rakás ládát látsz, melyekbe vegyi anyagokat pakoltak.}
-{150}{}{Egy rakás ládát látsz, melyekbe vegyi anyagokat pakoltak. Nem tudod ?ket beazonosítani, de a csomagolás *szerfelett* gondos.}
-{175}{}{Ez itt egy Gépmadár.}
-{199}{}{Ez itt egy Gépmadár... a helikopter továbbfejlesztett változata. Sajnos g?zöd sincs, hogy lehetne elvezetni.}
-{200}{}{(Ezekt?l a srácoktól összecsinálom magam...)}
-{250}{}{Odanézzetek! Valaki kifigyelt bennünket!}
-{300}{}{Nem kéne közel menni azokhoz a páncélozott faszikhoz! Mindent szecskává aprítanak.}
-{350}{}{Francba! Mit csinálsz, faszkalap?}
-{400}{}{[Úgy t?nik, ez egy ajtó. Kinyitod és bemászol?]}
-{450}{}{[Az ajtó lezáródik mögötted és a Gépmadár felszáll! Az ajtó nem nyitható!]}
-{500}{}{A ládák csupa nehézfém tartállyal vannak tele. A csomagolás gondosságából ítélve azt gyanítod, hogy valami veszélyes vegyianyagról lehet szó.}
+{100}{}{Egy rakÃ¡s lÃ¡dÃ¡t lÃ¡tsz, melyekbe vegyi anyagokat pakoltak.}
+{150}{}{Egy rakÃ¡s lÃ¡dÃ¡t lÃ¡tsz, melyekbe vegyi anyagokat pakoltak. Nem tudod ?ket beazonosÃ­tani, de a csomagolÃ¡s *szerfelett* gondos.}
+{175}{}{Ez itt egy GÃ©pmadÃ¡r.}
+{199}{}{Ez itt egy GÃ©pmadÃ¡r... a helikopter tovÃ¡bbfejlesztett vÃ¡ltozata. Sajnos g?zÃ¶d sincs, hogy lehetne elvezetni.}
+{200}{}{(Ezekt?l a srÃ¡coktÃ³l Ã¶sszecsinÃ¡lom magam...)}
+{250}{}{OdanÃ©zzetek! Valaki kifigyelt bennÃ¼nket!}
+{300}{}{Nem kÃ©ne kÃ¶zel menni azokhoz a pÃ¡ncÃ©lozott faszikhoz! Mindent szecskÃ¡vÃ¡ aprÃ­tanak.}
+{350}{}{Francba! Mit csinÃ¡lsz, faszkalap?}
+{400}{}{[Ãšgy t?nik, ez egy ajtÃ³. Kinyitod Ã©s bemÃ¡szol?]}
+{450}{}{[Az ajtÃ³ lezÃ¡rÃ³dik mÃ¶gÃ¶tted Ã©s a GÃ©pmadÃ¡r felszÃ¡ll! Az ajtÃ³ nem nyithatÃ³!]}
+{500}{}{A lÃ¡dÃ¡k csupa nehÃ©zfÃ©m tartÃ¡llyal vannak tele. A csomagolÃ¡s gondossÃ¡gÃ¡bÃ³l Ã­tÃ©lve azt gyanÃ­tod, hogy valami veszÃ©lyes vegyianyagrÃ³l lehet szÃ³.}

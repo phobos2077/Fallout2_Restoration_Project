@@ -1,6 +1,6 @@
 {100}{}{Du siehst ein Kind.}
-{101}{}{Du siehst ein Kind. Er scheint glücklich zu sein.}
-{102}{}{Du siehst ein Kind. Sie scheint glücklich zu sein.}
+{101}{}{Du siehst ein Kind. Er scheint glÃ¼cklich zu sein.}
+{102}{}{Du siehst ein Kind. Sie scheint glÃ¼cklich zu sein.}
 {200}{}{Hi Mister!}
 {201}{}{Entschuldigung, dass ich versucht habe dich zu bestehlen.}
 {202}{}{Ich mag es hier wirklich.}

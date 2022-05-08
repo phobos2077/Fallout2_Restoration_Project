@@ -1,12 +1,12 @@
-{100}{}{Ce générateur semble avoir un problème. Peut-être est-il réparable d'une façon ou d'une autre...}
-{101}{}{Tu vois un générateur.}
-{102}{}{Tu vois le générateur des lumières de l'EPA.}
-{103}{}{Tu vois le générateur qui contrôle les lumières de l'EPA.}
-{104}{}{Après une longue recherche, tu trouves un circuit électrique très abîmé. Peut-être qu'en fouillant dans les ordures à l'extérieur tu pourrais trouver des pièces de rechange...}
-{105}{}{Voilà le problème !}
-{106}{}{Tu as remplacé les parties endommagées et mis sous-tension le générateur.}
-{107}{}{Tu ne trouves pas de panne sur le générateur. Il a juste l'air de ne pas fonctionner.}
-{108}{}{Le générateur fonctionne. Il n'y a rien d'autre à faire.}
-{109}{}{Quelque chose semble ne pas fonctionner dans ce générateur.}
+{100}{}{Ce gÃ©nÃ©rateur semble avoir un problÃ¨me. Peut-Ãªtre est-il rÃ©parable d'une faÃ§on ou d'une autre...}
+{101}{}{Tu vois un gÃ©nÃ©rateur.}
+{102}{}{Tu vois le gÃ©nÃ©rateur des lumiÃ¨res de l'EPA.}
+{103}{}{Tu vois le gÃ©nÃ©rateur qui contrÃ´le les lumiÃ¨res de l'EPA.}
+{104}{}{AprÃ¨s une longue recherche, tu trouves un circuit Ã©lectrique trÃ¨s abÃ®mÃ©. Peut-Ãªtre qu'en fouillant dans les ordures Ã  l'extÃ©rieur tu pourrais trouver des piÃ¨ces de rechange...}
+{105}{}{VoilÃ  le problÃ¨me !}
+{106}{}{Tu as remplacÃ© les parties endommagÃ©es et mis sous-tension le gÃ©nÃ©rateur.}
+{107}{}{Tu ne trouves pas de panne sur le gÃ©nÃ©rateur. Il a juste l'air de ne pas fonctionner.}
+{108}{}{Le gÃ©nÃ©rateur fonctionne. Il n'y a rien d'autre Ã  faire.}
+{109}{}{Quelque chose semble ne pas fonctionner dans ce gÃ©nÃ©rateur.}
 {200}{}{<Whirr>}
 {201}{}{<Bzzt>}

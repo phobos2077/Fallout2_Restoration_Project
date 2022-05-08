@@ -1,6 +1,6 @@
 {100}{}{Du siehst einen hilfsbereiten Fremden.}
-{101}{}{Du siehst den mysteriösen Fremden.}
+{101}{}{Du siehst den mysteriÃ¶sen Fremden.}
 {102}{}{Ich werde dir Helfen.}
 {103}{}{Ich rede nicht viel..}
-{104}{}{Sieht so aus, als könntest du Unterstützung gebrauchen.}
+{104}{}{Sieht so aus, als kÃ¶nntest du UnterstÃ¼tzung gebrauchen.}
 {105}{}{Let's rock!}

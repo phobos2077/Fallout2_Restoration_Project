@@ -19,18 +19,18 @@
 {150}{}{So, have you fixed up the well yet?}
 {151}{}{Sure, I got the rope in place now. See?}
 {160}{}{[He glances at the well, then snickers.] What good is a rope if you don't have a bucket attached? Or do you outworlders drink by licking water off a wet rope? [He shakes his head and mutters something under his breath.] Just attach the bucket, and I'll see that you be gettin' a reward.}
-{161}{}{Úgy van.}
+{161}{}{Ãšgy van.}
 {162}{}{How 'bout *you* reattach the bucket, and I'll see if I can restrain myself from beating your ass.}
 {170}{}{Did you attach the bucket?}
-{171}{}{Nem, még nem.}
+{171}{}{Nem, mÃ©g nem.}
 {172}{}{Does it *look* like I attached the bucket?}
 {180}{}{So the well is fixed, yes? With the bucket attached and everything?}
 {181}{}{Yes, it's all done.}
-{182}{}{Ó...}
+{182}{}{Ã“...}
 {190}{}{[The corner of his mouth twitches up into a hint of a smile.] Ah, I suppose you outworlders aren't all bad, after all. Here, take this money. The spirits tell me you be needing this more than I.}
-{191}{}{Köszi.}
+{191}{}{KÃ¶szi.}
 {200}{}{May your ancestors guide you well.}
-{201}{}{Kösz a segítséget.}
+{201}{}{KÃ¶sz a segÃ­tsÃ©get.}
 {202}{}{Nice to be seeing you again.}
 {210}{}{You won't take us alive, slaver!}
 {300}{}{All right, calm your spirits of anger. I'll do it myself. [He mumbles.] Crazy outworlder...}

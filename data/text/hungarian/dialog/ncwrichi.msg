@@ -1,216 +1,216 @@
-{100}{}{? a Wrighték egyik gyermeke.}
-{150}{}{Egy apró, fekete hajú gyerek áll el?tted.}
+{100}{}{? a WrightÃ©k egyik gyermeke.}
+{150}{}{Egy aprÃ³, fekete hajÃº gyerek Ã¡ll el?tted.}
 {151}{}{You see a black-haired little girl.}
-{155}{}{A srác a nyelvét ölti rád.}
-{156}{}{A fiú bambán bámul rád.}
-{157}{}{A kislány a nyelvét ölti rád.}
+{155}{}{A srÃ¡c a nyelvÃ©t Ã¶lti rÃ¡d.}
+{156}{}{A fiÃº bambÃ¡n bÃ¡mul rÃ¡d.}
+{157}{}{A kislÃ¡ny a nyelvÃ©t Ã¶lti rÃ¡d.}
 {158}{}{She looks at you suspiciously.}
-{159}{}{A kislány bambán bámul rád.}
-{175}{}{A Fallout 2-t a Z bet?nek köszönhetjük.}
-{176}{}{Hé! }
+{159}{}{A kislÃ¡ny bambÃ¡n bÃ¡mul rÃ¡d.}
+{175}{}{A Fallout 2-t a Z bet?nek kÃ¶szÃ¶nhetjÃ¼k.}
+{176}{}{HÃ©! }
 {177}{}{}
-{178}{}{Kösz, hogy megmentettél minket, }
-{179}{}{Ha felnövök, én is meg akarom menteni a világot, akárcsak te.}
-{180}{}{Ha felnövök, én is lehetek olyan h?s, mint te?}
-{181}{}{A példaképem }
+{178}{}{KÃ¶sz, hogy megmentettÃ©l minket, }
+{179}{}{Ha felnÃ¶vÃ¶k, Ã©n is meg akarom menteni a vilÃ¡got, akÃ¡rcsak te.}
+{180}{}{Ha felnÃ¶vÃ¶k, Ã©n is lehetek olyan h?s, mint te?}
+{181}{}{A pÃ©ldakÃ©pem }
 {190}{}{Te ROBOT vagy?}
-{191}{}{Hogy mész pisilni abban a vacakban?}
-{192}{}{Léééégysziiii, hadd üljek a nyakadba!}
-{193}{}{Gyere játszani velünk! Légyszi, légyszi!}
-{200}{}{Jobban teszed, ha elfutsz, miel?tt apu észrevesz.}
-{201}{}{Jobban teszed, ha elfutsz, miel?tt a testvéreim észrevesznek.}
-{202}{}{Rossz ember vagy. Jobban teszed, ha elmész, miel?tt beköplek.}
-{210}{}{Látlak! Látlak!}
-{211}{}{Bújócskát játszol? Hadd szálljak be én is...}
-{215}{}{Nézzétek azt a robotot! Nézzétek azt a robotot!}
+{191}{}{Hogy mÃ©sz pisilni abban a vacakban?}
+{192}{}{LÃ©Ã©Ã©Ã©gysziiii, hadd Ã¼ljek a nyakadba!}
+{193}{}{Gyere jÃ¡tszani velÃ¼nk! LÃ©gyszi, lÃ©gyszi!}
+{200}{}{Jobban teszed, ha elfutsz, miel?tt apu Ã©szrevesz.}
+{201}{}{Jobban teszed, ha elfutsz, miel?tt a testvÃ©reim Ã©szrevesznek.}
+{202}{}{Rossz ember vagy. Jobban teszed, ha elmÃ©sz, miel?tt bekÃ¶plek.}
+{210}{}{LÃ¡tlak! LÃ¡tlak!}
+{211}{}{BÃºjÃ³cskÃ¡t jÃ¡tszol? Hadd szÃ¡lljak be Ã©n is...}
+{215}{}{NÃ©zzÃ©tek azt a robotot! NÃ©zzÃ©tek azt a robotot!}
 {216}{}{Abban a robotban igazi agy van?}
-{217}{}{Húúúúúú. Nézzétek azt a robotot!}
-{218}{}{Nézzétek azt a mutánst! Nézzétek azt a mutánst!}
-{219}{}{Mutáns, butáns, Mutáns, butáns}
-{220}{}{Az egy igazi mutáns? Nagyon csúúúúúf!}
-{221}{}{Fúúúúúúú. Nézzétek azt a mutánst!}
-{222}{}{Az a mutáns nagyon NAGY! Nagyobb, mint apu!}
-{230}{}{Ghoul! Nézzétek, itt egy ghoul!}
-{231}{}{Júúúúújj! Ghoul! Ghoul!}
+{217}{}{HÃºÃºÃºÃºÃºÃº. NÃ©zzÃ©tek azt a robotot!}
+{218}{}{NÃ©zzÃ©tek azt a mutÃ¡nst! NÃ©zzÃ©tek azt a mutÃ¡nst!}
+{219}{}{MutÃ¡ns, butÃ¡ns, MutÃ¡ns, butÃ¡ns}
+{220}{}{Az egy igazi mutÃ¡ns? Nagyon csÃºÃºÃºÃºÃºf!}
+{221}{}{FÃºÃºÃºÃºÃºÃºÃº. NÃ©zzÃ©tek azt a mutÃ¡nst!}
+{222}{}{Az a mutÃ¡ns nagyon NAGY! Nagyobb, mint apu!}
+{230}{}{Ghoul! NÃ©zzÃ©tek, itt egy ghoul!}
+{231}{}{JÃºÃºÃºÃºÃºjj! Ghoul! Ghoul!}
 {232}{}{Ghoul-iiiiii ghouliiiii ghouliiiiii}
-{233}{}{Nézzétek a fémkutyát!}
+{233}{}{NÃ©zzÃ©tek a fÃ©mkutyÃ¡t!}
 {234}{}{Kutyuli! Gyere ide, kutyuli!}
-{235}{}{Én is akarok egy kutyát!}
-{290}{}{Ha felnövök, én is meg akarom menteni a világot, akárcsak te.}
-{291}{}{Ha felnövök, én is lehetek olyan h?s, mint te?}
-{292}{}{Ha felnövök, olyan akarok lenni, mint te.}
-{293}{}{Mér akarol én lenni? Én BUTA}
-{294}{}{Eccer én hordtam lányfejet mint sapka}
+{235}{}{Ã‰n is akarok egy kutyÃ¡t!}
+{290}{}{Ha felnÃ¶vÃ¶k, Ã©n is meg akarom menteni a vilÃ¡got, akÃ¡rcsak te.}
+{291}{}{Ha felnÃ¶vÃ¶k, Ã©n is lehetek olyan h?s, mint te?}
+{292}{}{Ha felnÃ¶vÃ¶k, olyan akarok lenni, mint te.}
+{293}{}{MÃ©r akarol Ã©n lenni? Ã‰n BUTA}
+{294}{}{Eccer Ã©n hordtam lÃ¡nyfejet mint sapka}
 {295}{}{[Wander off]}
-{296}{}{Hehe. Hát köszi szépen, tökmag. De azért fogadj meg egy tanácsot }
-{297}{}{Az álmok valóra válhatnak. Elérheted a céljaidat! Én vagyok rá az él? példa.}
-{298}{}{Hát persze. Az a helyzet, hogy sajnálattal hallottam Richie testvéred esetét. Tudod, mi történt vele?}
-{299}{}{Egyszer három államon keresztül hajtottam végig, és fejfed?ként hordtam egy ilyen kislány fejét.}
+{296}{}{Hehe. HÃ¡t kÃ¶szi szÃ©pen, tÃ¶kmag. De azÃ©rt fogadj meg egy tanÃ¡csot }
+{297}{}{Az Ã¡lmok valÃ³ra vÃ¡lhatnak. ElÃ©rheted a cÃ©ljaidat! Ã‰n vagyok rÃ¡ az Ã©l? pÃ©lda.}
+{298}{}{HÃ¡t persze. Az a helyzet, hogy sajnÃ¡lattal hallottam Richie testvÃ©red esetÃ©t. Tudod, mi tÃ¶rtÃ©nt vele?}
+{299}{}{Egyszer hÃ¡rom Ã¡llamon keresztÃ¼l hajtottam vÃ©gig, Ã©s fejfed?kÃ©nt hordtam egy ilyen kislÃ¡ny fejÃ©t.}
 {300}{}{[Let him go back to playing.]}
 {301}{}{[Let her go back to playing.]}
-{310}{}{(Fejét ingatja) OKOS VAGY! H?S és BÁTOR vagy és ha felnövök, olyan akarok lenni, mint TE! Köszi, hogy megmentettél minket, }
-{311}{}{Köszi, kis ember. }
-{315}{}{Oké, }
-{316}{}{Vigyázz magadra, hallod-e, tökmag! Nekem még egy rakás h?stettet kell végrehajtanom.}
-{320}{}{(A gyerek megállít.) Öö... }
-{321}{}{Öö... nem. Ígérem.}
-{322}{}{Öö... nemigen leszel tudatában.}
-{323}{}{Ne aggódj, tökmag! Kés?bb még visszajövök, és egy másik karakter formájában meglátogatlak.}
-{324}{}{Ne aggódj, tökmag! Semmit nem fogsz érezni.}
-{330}{}{Együtt álmodunk?}
-{331}{}{Öö... hát persze. Együtt álmodunk.}
-{332}{}{Hát ez fogas kérdés. Én nemigen tudok álmodni, és valószín?leg te sem. Az élet szar dolog ám!}
+{310}{}{(FejÃ©t ingatja) OKOS VAGY! H?S Ã©s BÃTOR vagy Ã©s ha felnÃ¶vÃ¶k, olyan akarok lenni, mint TE! KÃ¶szi, hogy megmentettÃ©l minket, }
+{311}{}{KÃ¶szi, kis ember. }
+{315}{}{OkÃ©, }
+{316}{}{VigyÃ¡zz magadra, hallod-e, tÃ¶kmag! Nekem mÃ©g egy rakÃ¡s h?stettet kell vÃ©grehajtanom.}
+{320}{}{(A gyerek megÃ¡llÃ­t.) Ã–Ã¶... }
+{321}{}{Ã–Ã¶... nem. ÃgÃ©rem.}
+{322}{}{Ã–Ã¶... nemigen leszel tudatÃ¡ban.}
+{323}{}{Ne aggÃ³dj, tÃ¶kmag! KÃ©s?bb mÃ©g visszajÃ¶vÃ¶k, Ã©s egy mÃ¡sik karakter formÃ¡jÃ¡ban meglÃ¡togatlak.}
+{324}{}{Ne aggÃ³dj, tÃ¶kmag! Semmit nem fogsz Ã©rezni.}
+{330}{}{EgyÃ¼tt Ã¡lmodunk?}
+{331}{}{Ã–Ã¶... hÃ¡t persze. EgyÃ¼tt Ã¡lmodunk.}
+{332}{}{HÃ¡t ez fogas kÃ©rdÃ©s. Ã‰n nemigen tudok Ã¡lmodni, Ã©s valÃ³szÃ­n?leg te sem. Az Ã©let szar dolog Ã¡m!}
 {341}{}{Mi az a }
-{344}{}{Hehe. Aranyos vagy. Nem, én nem vagyok robot, tökmag.}
-{345}{}{Nem, nem. Közönséges ember vagyok, aki csak felvette ezt a páncélt. Ami egyébként a Richie testvéredet illeti, igazán sajnálom a történteket. Tudod pontosan, hogy is volt?}
+{344}{}{Hehe. Aranyos vagy. Nem, Ã©n nem vagyok robot, tÃ¶kmag.}
+{345}{}{Nem, nem. KÃ¶zÃ¶nsÃ©ges ember vagyok, aki csak felvette ezt a pÃ¡ncÃ©lt. Ami egyÃ©bkÃ©nt a Richie testvÃ©redet illeti, igazÃ¡n sajnÃ¡lom a tÃ¶rtÃ©nteket. Tudod pontosan, hogy is volt?}
 {355}{}{BUTA vagy!}
 {356}{}{TE VAGY}
-{357}{}{Vagy te, maradsz örökre!}
-{358}{}{Te butább vagy}
-{359}{}{Bagoly mondja verébnek...}
+{357}{}{Vagy te, maradsz Ã¶rÃ¶kre!}
+{358}{}{Te butÃ¡bb vagy}
+{359}{}{Bagoly mondja verÃ©bnek...}
 {360}{}{Buta, aki mondja!}
-{361}{}{Sírva elrohansz}
-{370}{}{Te vagy legbutább! Te vagy legbutább!}
-{395}{}{HATÖKÖR! (A gyerek elrohan, a nevetése pedig fájdalmasan cseng tovább a füledben.)}
+{361}{}{SÃ­rva elrohansz}
+{370}{}{Te vagy legbutÃ¡bb! Te vagy legbutÃ¡bb!}
+{395}{}{HATÃ–KÃ–R! (A gyerek elrohan, a nevetÃ©se pedig fÃ¡jdalmasan cseng tovÃ¡bb a fÃ¼ledben.)}
 {396}{}{Me no want to talk to you ANYWAY... *snfff*... me... *snfff*... have a PARTY...
  with *snfff* CAKE and ICE CREAM... and YOU can't come [Leave.]}
-{405}{}{(A gyerek pislog, kinyitja a száját, aztán becsukja. Könny csordul ki a szeméb?l, aztán zokogásban tör ki.)}
-{406}{}{Hihi Én nyertem}
-{410}{}{Óh. (Egy pillanatra elgondolkodik, aztán rádsandít.) Mér nem vagy robot?}
-{411}{}{Öö... mert... hát, a robotoknak meg az embereknek különböznek a... ööö... az alkatrészeik.}
+{405}{}{(A gyerek pislog, kinyitja a szÃ¡jÃ¡t, aztÃ¡n becsukja. KÃ¶nny csordul ki a szemÃ©b?l, aztÃ¡n zokogÃ¡sban tÃ¶r ki.)}
+{406}{}{Hihi Ã‰n nyertem}
+{410}{}{Ã“h. (Egy pillanatra elgondolkodik, aztÃ¡n rÃ¡dsandÃ­t.) MÃ©r nem vagy robot?}
+{411}{}{Ã–Ã¶... mert... hÃ¡t, a robotoknak meg az embereknek kÃ¼lÃ¶nbÃ¶znek a... Ã¶Ã¶Ã¶... az alkatrÃ©szeik.}
 {412}{}{Mennem kell.}
-{425}{}{Ó, igen? (Gyanakvónak t?nik.) Úgymint?}
-{426}{}{Öö... hát... tökmag, anyukád meg apukád nem magyarázta ezt el neked?}
-{427}{}{Öö... hát... Hogy elment az id?, most mennem kell!}
-{435}{}{Mit kellett volna elmagyarázniuk?}
-{436}{}{Öö... hát, hogy a... robotoknak... olaj van a belsejében, az embereknek meg... hát az emberekben meg vér.}
-{445}{}{Mami és a nagyobb n?véreim havonta vérzenek. Olyankor nagyon harapósak. Bárcsak inkább robotok lennének.}
-{446}{}{Öö... hát igen. Jól van, kölyök. Figyu, most mennem kell, de ne mondd el anyukádnak, hogy beszélgettünk!}
-{456}{}{Simásan belepislantok, a szaghó meg hozzászokok}
-{459}{}{Hehe. A helyzet az, hogy a páncélba vizelek, de az mindent feldolgoz. Érdekes mi? Tudod, hogy mit jelent az a szó, hogy feldolgozni, tökmag?}
-{460}{}{Nem kényelmes az már biztos. Amúgy sajnálom, ami a Richie testvéreddel történt. Tudod pontosan, hogy is volt?}
-{475}{}{Ez TÖK GYÍKSÁG!}
-{476}{}{Igen! A feldolgozás azt jelenti, hogy pisit iszol!}
-{477}{}{Te vagyol gyík, pisipofa}
-{479}{}{Öh, hehe. Hát nem egészen. Hogy pontosítsak...}
-{485}{}{Pisiivó! Pisiivó!}
-{486}{}{Öö.. hehe... ne kiabálj, tökmag... a feldolgozás nem azt jelenti, hogy én pisit iszom... szóval nem EGÉSZEN azt jelenti... na figyu...}
-{487}{}{Hagyod, hogy a kis szaros tovább játsszon.}
-{488}{}{(Távozol.)}
+{425}{}{Ã“, igen? (GyanakvÃ³nak t?nik.) Ãšgymint?}
+{426}{}{Ã–Ã¶... hÃ¡t... tÃ¶kmag, anyukÃ¡d meg apukÃ¡d nem magyarÃ¡zta ezt el neked?}
+{427}{}{Ã–Ã¶... hÃ¡t... Hogy elment az id?, most mennem kell!}
+{435}{}{Mit kellett volna elmagyarÃ¡zniuk?}
+{436}{}{Ã–Ã¶... hÃ¡t, hogy a... robotoknak... olaj van a belsejÃ©ben, az embereknek meg... hÃ¡t az emberekben meg vÃ©r.}
+{445}{}{Mami Ã©s a nagyobb n?vÃ©reim havonta vÃ©rzenek. Olyankor nagyon harapÃ³sak. BÃ¡rcsak inkÃ¡bb robotok lennÃ©nek.}
+{446}{}{Ã–Ã¶... hÃ¡t igen. JÃ³l van, kÃ¶lyÃ¶k. Figyu, most mennem kell, de ne mondd el anyukÃ¡dnak, hogy beszÃ©lgettÃ¼nk!}
+{456}{}{SimÃ¡san belepislantok, a szaghÃ³ meg hozzÃ¡szokok}
+{459}{}{Hehe. A helyzet az, hogy a pÃ¡ncÃ©lba vizelek, de az mindent feldolgoz. Ã‰rdekes mi? Tudod, hogy mit jelent az a szÃ³, hogy feldolgozni, tÃ¶kmag?}
+{460}{}{Nem kÃ©nyelmes az mÃ¡r biztos. AmÃºgy sajnÃ¡lom, ami a Richie testvÃ©reddel tÃ¶rtÃ©nt. Tudod pontosan, hogy is volt?}
+{475}{}{Ez TÃ–K GYÃKSÃG!}
+{476}{}{Igen! A feldolgozÃ¡s azt jelenti, hogy pisit iszol!}
+{477}{}{Te vagyol gyÃ­k, pisipofa}
+{479}{}{Ã–h, hehe. HÃ¡t nem egÃ©szen. Hogy pontosÃ­tsak...}
+{485}{}{PisiivÃ³! PisiivÃ³!}
+{486}{}{Ã–Ã¶.. hehe... ne kiabÃ¡lj, tÃ¶kmag... a feldolgozÃ¡s nem azt jelenti, hogy Ã©n pisit iszom... szÃ³val nem EGÃ‰SZEN azt jelenti... na figyu...}
+{487}{}{Hagyod, hogy a kis szaros tovÃ¡bb jÃ¡tsszon.}
+{488}{}{(TÃ¡vozol.)}
 {495}{}{Az ott egy IGAZI robot?}
 {499}{}{A Robotagy? Persze, hogy az.}
-{500}{}{? annak képzeli magát. Hadd ne kelljem elmagyarázni.}
-{501}{}{Igen, de ne zavard! Vigyázni kell vele, mert el akarja pusztítani az emberiséget.}
-{502}{}{Igen az. Hát sajnálom, ami a Richie testvéreddel történt. Tudod pontosan, hogy is volt?}
+{500}{}{? annak kÃ©pzeli magÃ¡t. Hadd ne kelljem elmagyarÃ¡zni.}
+{501}{}{Igen, de ne zavard! VigyÃ¡zni kell vele, mert el akarja pusztÃ­tani az emberisÃ©get.}
+{502}{}{Igen az. HÃ¡t sajnÃ¡lom, ami a Richie testvÃ©reddel tÃ¶rtÃ©nt. Tudod pontosan, hogy is volt?}
 {515}{}{Te is robot vagy?}
-{525}{}{Az ott egy IGAZI mutáns?}
-{526}{}{Múúútáns?}
-{529}{}{Miért ne volna az? A neve Marcus. Ne félj, nem harap!}
-{530}{}{Persze, hogy mutáns. A mindenit, reménykedjünk, hogy nem kisgyerekekre fáj a foga.}
-{531}{}{Az hát. Egy NAGYON ÉHES mutáns. És most éppen kajaid? van. Hogy micsoda véletlenek vannak...}
-{532}{}{Igen, az. Hát sajnálom, ami a Richie testvéreddel történt. Tudod pontosan, hogy is volt?}
-{540}{}{A gyerek megtorpan és rádnéz.}
-{541}{}{Hellóóóó}
-{544}{}{Helló, kicsi ember.}
-{545}{}{Helló, kicsi lány.}
-{546}{}{Hát sajnálom, ami a Richie testvéreddel történt. Tudod pontosan, hogy is volt?}
+{525}{}{Az ott egy IGAZI mutÃ¡ns?}
+{526}{}{MÃºÃºÃºtÃ¡ns?}
+{529}{}{MiÃ©rt ne volna az? A neve Marcus. Ne fÃ©lj, nem harap!}
+{530}{}{Persze, hogy mutÃ¡ns. A mindenit, remÃ©nykedjÃ¼nk, hogy nem kisgyerekekre fÃ¡j a foga.}
+{531}{}{Az hÃ¡t. Egy NAGYON Ã‰HES mutÃ¡ns. Ã‰s most Ã©ppen kajaid? van. Hogy micsoda vÃ©letlenek vannak...}
+{532}{}{Igen, az. HÃ¡t sajnÃ¡lom, ami a Richie testvÃ©reddel tÃ¶rtÃ©nt. Tudod pontosan, hogy is volt?}
+{540}{}{A gyerek megtorpan Ã©s rÃ¡dnÃ©z.}
+{541}{}{HellÃ³Ã³Ã³Ã³}
+{544}{}{HellÃ³, kicsi ember.}
+{545}{}{HellÃ³, kicsi lÃ¡ny.}
+{546}{}{HÃ¡t sajnÃ¡lom, ami a Richie testvÃ©reddel tÃ¶rtÃ©nt. Tudod pontosan, hogy is volt?}
 {555}{}{Beteg vagy?}
-{556}{}{Miért kérded?}
+{556}{}{MiÃ©rt kÃ©rded?}
 {560}{}{Betegnek t?nsz.}
 {561}{}{Beteg vagyok.}
-{565}{}{Szedsz orvosságot?}
-{566}{}{Arra, amim van, nincs orvosság.}
-{570}{}{Akarsz énekelni?}
-{571}{}{Énekelni?}
-{575}{}{Ismered azt a dalt, hogy "Mindannyian az ? kezében vagyunk"?}
+{565}{}{Szedsz orvossÃ¡got?}
+{566}{}{Arra, amim van, nincs orvossÃ¡g.}
+{570}{}{Akarsz Ã©nekelni?}
+{571}{}{Ã‰nekelni?}
+{575}{}{Ismered azt a dalt, hogy "Mindannyian az ? kezÃ©ben vagyunk"?}
 {576}{}{Igen.}
-{580}{}{::Énekel:: "Mindannyian az ? kezében vagyunk. Mindannyian az ? kezében vagyunk." Gyerünk, énekelj már!}
-{581}{}{::Énekelsz:: "Mindannyian az ? kezében vagyunk. Mindannyian az ? kezében vagyunk"}
-{585}{}{::Együtt énekeltek:: "Mindannyian az ? kezében vagyunk. Mindannyian az ? kezében vagyunk"}
-{586}{}{Kösz, hogy énekelhettem veled. Kés?bb még lehet, hogy visszajövök... ha kell egy fejfed?.}
-{590}{}{(A gyerek rádpislog.)}
-{591}{}{Jól van akkor. Kés?bb beszélünk.}
+{580}{}{::Ã‰nekel:: "Mindannyian az ? kezÃ©ben vagyunk. Mindannyian az ? kezÃ©ben vagyunk." GyerÃ¼nk, Ã©nekelj mÃ¡r!}
+{581}{}{::Ã‰nekelsz:: "Mindannyian az ? kezÃ©ben vagyunk. Mindannyian az ? kezÃ©ben vagyunk"}
+{585}{}{::EgyÃ¼tt Ã©nekeltek:: "Mindannyian az ? kezÃ©ben vagyunk. Mindannyian az ? kezÃ©ben vagyunk"}
+{586}{}{KÃ¶sz, hogy Ã©nekelhettem veled. KÃ©s?bb mÃ©g lehet, hogy visszajÃ¶vÃ¶k... ha kell egy fejfed?.}
+{590}{}{(A gyerek rÃ¡dpislog.)}
+{591}{}{JÃ³l van akkor. KÃ©s?bb beszÃ©lÃ¼nk.}
 {595}{}{(A gyerek elszalad.)}
 {648}{}{Ejha!}
-{650}{}{Igazán? Mesélj valamit...}
+{650}{}{IgazÃ¡n? MesÃ©lj valamit...}
 {665}{}{Az ott egy IGAZI ghoul?}
-{666}{}{Gúúl?}
-{669}{}{Persze, hogy az. Lennynek hívják. Ne félj, nem harap!}
-{670}{}{Persze, hogy ghoul. A mindenit, reménykedjünk, hogy nem kisgyerekekre fáj a foga.}
-{671}{}{Az hát. Egy NAGYON ÉHES ghoul. És most éppen kajaid? van. Milyen véletlenek vannak.}
-{685}{}{Helló, Mar-cus mutáns. Bazi nagy vagy. Hehe... és a türelmetlenked? animációd nagyon mulatságos.}
-{686}{}{Helló, Lenniii ghoul. Fú... neked aztán van szagod.}
-{687}{}{Az hát, ugye? Szóval... mi az ábra, kölyök?}
-{688}{}{Az hát, ugye? Szóval... mi az ábra, kölyök?}
-{689}{}{Hát most mennem kell. Kés?bb találkozunk.}
-{695}{}{(A gyerek elsápad és sikítozva elrohan,)}
-{696}{}{Hehehehe. "Az ott egy IGAZI mutáns?" Tanítsd meg a lányt, hogy ne kérdez?sködjön!}
-{697}{}{"Éhes" mutáns ám a francokat! Mindenki tudja, hogy a mutánsok nem esznek embe... ööö, miért nézel így rám, Marcus?}
-{698}{}{Hehehehe. "Az ott egy IGAZI ghoul?" Tanítsd meg a lányt, hogy ne kérdez?sködjön!}
-{699}{}{"Éhes" ghoul ám a francokat! Mindenki tudja, hogy a mutánsok nem esznek embe... ööö, miért nézel így rám, Lenny?}
-{710}{}{Hát... apu nagyon mérges, mert nem tudja, ki ölte meg Richie-t. Azt mondja, ha bármelyikünket elkap, hogy Jetezünk, szíjat hasít a hátunkból.}
-{711}{}{Van ötleted, ki adhatta Richie-nek a gyilkos Jetet?}
-{712}{}{Van ötleted, honnan származhat a Richie-t megöl? Jet?}
-{713}{}{Hagyod, hogy a gyerek folytassa a játékot.}
-{720}{}{(A fejét ingatja.)}
-{730}{}{(A fejét ingatja.) Sokat lógott a nyugati részen, a Kereskedelmi Negyedben, és apu azt mondta, ne menjünk oda.}
-{800}{}{*Psszt* Én most elvileg alszom.}
-{801}{}{Aludnom kell. Holnap egy kiadós fémbogarasdit fogunk játszani.}
-{802}{}{Ha apu megtudja, hogy nem alszom, nagyon, de nagyon mérges lesz.}
-{900}{}{Picsi-pöcsi, picsi-pöcsi.}
-{901}{}{[Egy képzeletbeli fegyvert fog rád.] Most megdöglesz, balettpatkány!}
-{902}{}{Mondd kis kócos, hol van a mamád, idáig érzem a lába szagát.}
-{903}{}{Ha felnövök, strici akarok lenni.}
-{904}{}{Ha felnövök, úgy mint apu, én fogom uralni New Renót.}
-{905}{}{Szeretnék egy kutyát. Apu megígérte, hogy kapok egy szukát, ha egy kicsit nagyobb leszek.}
-{906}{}{Bárcsak apu olyan frankó lenne, mint Tökös Tomi.}
-{907}{}{Nekem péniszem van.}
-{908}{}{::Sikít::}
-{909}{}{::Nyelvet ölt::}
-{910}{}{Apu gyerekgyárnak hívja a mamát.}
-{911}{}{Apu megígérte, hogy el fog minket verni, ha csak egyszer is meglát minket Jetezni.}
-{912}{}{Apu azt mondta, hogy vigyázzunk, ha az utcára megyünk.}
-{913}{}{Ha újra kiszökünk, apu el fog minket verni.}
-{914}{}{Amióta Richie testvérem meghalt, apu teljesen bekattant.}
-{915}{}{Apu újra üzletel.}
-{916}{}{Tully atya nagyon muris, amikor képtelen egyenesen járni.}
-{917}{}{Mindannyian az ? kezében vagyunk... Mindannyian az ? kezében vagyunk...}
+{666}{}{GÃºÃºl?}
+{669}{}{Persze, hogy az. Lennynek hÃ­vjÃ¡k. Ne fÃ©lj, nem harap!}
+{670}{}{Persze, hogy ghoul. A mindenit, remÃ©nykedjÃ¼nk, hogy nem kisgyerekekre fÃ¡j a foga.}
+{671}{}{Az hÃ¡t. Egy NAGYON Ã‰HES ghoul. Ã‰s most Ã©ppen kajaid? van. Milyen vÃ©letlenek vannak.}
+{685}{}{HellÃ³, Mar-cus mutÃ¡ns. Bazi nagy vagy. Hehe... Ã©s a tÃ¼relmetlenked? animÃ¡ciÃ³d nagyon mulatsÃ¡gos.}
+{686}{}{HellÃ³, Lenniii ghoul. FÃº... neked aztÃ¡n van szagod.}
+{687}{}{Az hÃ¡t, ugye? SzÃ³val... mi az Ã¡bra, kÃ¶lyÃ¶k?}
+{688}{}{Az hÃ¡t, ugye? SzÃ³val... mi az Ã¡bra, kÃ¶lyÃ¶k?}
+{689}{}{HÃ¡t most mennem kell. KÃ©s?bb talÃ¡lkozunk.}
+{695}{}{(A gyerek elsÃ¡pad Ã©s sikÃ­tozva elrohan,)}
+{696}{}{Hehehehe. "Az ott egy IGAZI mutÃ¡ns?" TanÃ­tsd meg a lÃ¡nyt, hogy ne kÃ©rdez?skÃ¶djÃ¶n!}
+{697}{}{"Ã‰hes" mutÃ¡ns Ã¡m a francokat! Mindenki tudja, hogy a mutÃ¡nsok nem esznek embe... Ã¶Ã¶Ã¶, miÃ©rt nÃ©zel Ã­gy rÃ¡m, Marcus?}
+{698}{}{Hehehehe. "Az ott egy IGAZI ghoul?" TanÃ­tsd meg a lÃ¡nyt, hogy ne kÃ©rdez?skÃ¶djÃ¶n!}
+{699}{}{"Ã‰hes" ghoul Ã¡m a francokat! Mindenki tudja, hogy a mutÃ¡nsok nem esznek embe... Ã¶Ã¶Ã¶, miÃ©rt nÃ©zel Ã­gy rÃ¡m, Lenny?}
+{710}{}{HÃ¡t... apu nagyon mÃ©rges, mert nem tudja, ki Ã¶lte meg Richie-t. Azt mondja, ha bÃ¡rmelyikÃ¼nket elkap, hogy JetezÃ¼nk, szÃ­jat hasÃ­t a hÃ¡tunkbÃ³l.}
+{711}{}{Van Ã¶tleted, ki adhatta Richie-nek a gyilkos Jetet?}
+{712}{}{Van Ã¶tleted, honnan szÃ¡rmazhat a Richie-t megÃ¶l? Jet?}
+{713}{}{Hagyod, hogy a gyerek folytassa a jÃ¡tÃ©kot.}
+{720}{}{(A fejÃ©t ingatja.)}
+{730}{}{(A fejÃ©t ingatja.) Sokat lÃ³gott a nyugati rÃ©szen, a Kereskedelmi Negyedben, Ã©s apu azt mondta, ne menjÃ¼nk oda.}
+{800}{}{*Psszt* Ã‰n most elvileg alszom.}
+{801}{}{Aludnom kell. Holnap egy kiadÃ³s fÃ©mbogarasdit fogunk jÃ¡tszani.}
+{802}{}{Ha apu megtudja, hogy nem alszom, nagyon, de nagyon mÃ©rges lesz.}
+{900}{}{Picsi-pÃ¶csi, picsi-pÃ¶csi.}
+{901}{}{[Egy kÃ©pzeletbeli fegyvert fog rÃ¡d.] Most megdÃ¶glesz, balettpatkÃ¡ny!}
+{902}{}{Mondd kis kÃ³cos, hol van a mamÃ¡d, idÃ¡ig Ã©rzem a lÃ¡ba szagÃ¡t.}
+{903}{}{Ha felnÃ¶vÃ¶k, strici akarok lenni.}
+{904}{}{Ha felnÃ¶vÃ¶k, Ãºgy mint apu, Ã©n fogom uralni New RenÃ³t.}
+{905}{}{SzeretnÃ©k egy kutyÃ¡t. Apu megÃ­gÃ©rte, hogy kapok egy szukÃ¡t, ha egy kicsit nagyobb leszek.}
+{906}{}{BÃ¡rcsak apu olyan frankÃ³ lenne, mint TÃ¶kÃ¶s Tomi.}
+{907}{}{Nekem pÃ©niszem van.}
+{908}{}{::SikÃ­t::}
+{909}{}{::Nyelvet Ã¶lt::}
+{910}{}{Apu gyerekgyÃ¡rnak hÃ­vja a mamÃ¡t.}
+{911}{}{Apu megÃ­gÃ©rte, hogy el fog minket verni, ha csak egyszer is meglÃ¡t minket Jetezni.}
+{912}{}{Apu azt mondta, hogy vigyÃ¡zzunk, ha az utcÃ¡ra megyÃ¼nk.}
+{913}{}{Ha Ãºjra kiszÃ¶kÃ¼nk, apu el fog minket verni.}
+{914}{}{AmiÃ³ta Richie testvÃ©rem meghalt, apu teljesen bekattant.}
+{915}{}{Apu Ãºjra Ã¼zletel.}
+{916}{}{Tully atya nagyon muris, amikor kÃ©ptelen egyenesen jÃ¡rni.}
+{917}{}{Mindannyian az ? kezÃ©ben vagyunk... Mindannyian az ? kezÃ©ben vagyunk...}
 {918}{}{Pukiztam.}
-{919}{}{Hiányzik Richie, a testvérem. Azért halt meg, mert túl sok Jetet szívott be.}
-{920}{}{Sosem látom többé Christopher-t.}
-{921}{}{Láttam Mikeyt, hogy Mareee Mordinóval csókolózik.}
-{922}{}{Láttam, ahogy mami és apu egymáson táncoltak.}
-{923}{}{Bárcsak Christopher játszana velem.}
-{924}{}{Kyle megissza a saját pisijét!}
+{919}{}{HiÃ¡nyzik Richie, a testvÃ©rem. AzÃ©rt halt meg, mert tÃºl sok Jetet szÃ­vott be.}
+{920}{}{Sosem lÃ¡tom tÃ¶bbÃ© Christopher-t.}
+{921}{}{LÃ¡ttam Mikeyt, hogy Mareee MordinÃ³val csÃ³kolÃ³zik.}
+{922}{}{LÃ¡ttam, ahogy mami Ã©s apu egymÃ¡son tÃ¡ncoltak.}
+{923}{}{BÃ¡rcsak Christopher jÃ¡tszana velem.}
+{924}{}{Kyle megissza a sajÃ¡t pisijÃ©t!}
 {925}{}{Kyle rosszul van.}
-{926}{}{Ne nézzél a szemébe, menjen Kyle a fenébe!}
-{927}{}{Ide nézz! Ide nézz!}
-{928}{}{Mike és Mareee egy rönkön ülve CSÓ-KO-LÓZ-TAK!}
-{929}{}{Milicent egy nagy tahó.}
-{930}{}{Mi az?... Fekete-piros, Fekete-piros, Fekete-piros-fehér...}
-{931}{}{Mami és apu Istennel beszélgettek tegnap este az ágyban.}
-{932}{}{Mami sírt tegnap. Szerintem azért, ami Richie testvéremmel történt.}
-{933}{}{Amióta Richie testvérem meghalt, Mami nagyon szomorú.}
-{934}{}{Mami már megint templomban van.}
-{935}{}{A mi családunk a legjobb.}
+{926}{}{Ne nÃ©zzÃ©l a szemÃ©be, menjen Kyle a fenÃ©be!}
+{927}{}{Ide nÃ©zz! Ide nÃ©zz!}
+{928}{}{Mike Ã©s Mareee egy rÃ¶nkÃ¶n Ã¼lve CSÃ“-KO-LÃ“Z-TAK!}
+{929}{}{Milicent egy nagy tahÃ³.}
+{930}{}{Mi az?... Fekete-piros, Fekete-piros, Fekete-piros-fehÃ©r...}
+{931}{}{Mami Ã©s apu Istennel beszÃ©lgettek tegnap este az Ã¡gyban.}
+{932}{}{Mami sÃ­rt tegnap. Szerintem azÃ©rt, ami Richie testvÃ©remmel tÃ¶rtÃ©nt.}
+{933}{}{AmiÃ³ta Richie testvÃ©rem meghalt, Mami nagyon szomorÃº.}
+{934}{}{Mami mÃ¡r megint templomban van.}
+{935}{}{A mi csalÃ¡dunk a legjobb.}
 {936}{}{Phfttttt!}
 {937}{}{Fingfej?! Fingfej?!}
-{938}{}{Nick bácsi szerint nincs szükség a szitkozódásra. Nick bácsinak többet kéne látni a világból.}
-{939}{}{Akarsz játszani "Adj Hajcsár Törzsbélit"?}
-{940}{}{Tizenheten vagyunk testvérek. Lányok, fiúk vegyesen.}
+{938}{}{Nick bÃ¡csi szerint nincs szÃ¼ksÃ©g a szitkozÃ³dÃ¡sra. Nick bÃ¡csinak tÃ¶bbet kÃ©ne lÃ¡tni a vilÃ¡gbÃ³l.}
+{939}{}{Akarsz jÃ¡tszani "Adj HajcsÃ¡r TÃ¶rzsbÃ©lit"?}
+{940}{}{Tizenheten vagyunk testvÃ©rek. LÃ¡nyok, fiÃºk vegyesen.}
 {941}{}{Wheeeeeeee!}
-{942}{}{Most te jössz!}
-{943}{}{Te rühös vagy!}
-{944}{}{Úgy nézel ki, mint egy radskorpió!}
-{945}{}{Megkérdezem aput, hogy lehetek-e kurva, ha felnövök. Azt szokta mondani, hogy nagy szüksége lenne egyre.}
-{946}{}{Ha nagy leszek, kurva akarok lenni. Apu azt szokta mondani, hogy egyre többre van szükség.}
-{947}{}{Nekem vaginám van.}
-{1176}{}{! Meséld el nekünk az Enklávés sztorit! Lééééégysziii!}
+{942}{}{Most te jÃ¶ssz!}
+{943}{}{Te rÃ¼hÃ¶s vagy!}
+{944}{}{Ãšgy nÃ©zel ki, mint egy radskorpiÃ³!}
+{945}{}{MegkÃ©rdezem aput, hogy lehetek-e kurva, ha felnÃ¶vÃ¶k. Azt szokta mondani, hogy nagy szÃ¼ksÃ©ge lenne egyre.}
+{946}{}{Ha nagy leszek, kurva akarok lenni. Apu azt szokta mondani, hogy egyre tÃ¶bbre van szÃ¼ksÃ©g.}
+{947}{}{Nekem vaginÃ¡m van.}
+{1176}{}{! MesÃ©ld el nekÃ¼nk az EnklÃ¡vÃ©s sztorit! LÃ©Ã©Ã©Ã©Ã©gysziii!}
 {1177}{}{! Ajjaj!}
 {1178}{}{!}
-{1181}{}{ akarok lenni, ha felnövök.}
-{1296}{}{ barátodtól: Ha feln?sz, BÁRMI lehet bel?led.}
+{1181}{}{ akarok lenni, ha felnÃ¶vÃ¶k.}
+{1296}{}{ barÃ¡todtÃ³l: Ha feln?sz, BÃRMI lehet bel?led.}
 {1310}{}{. SOSEM felejtelek el!}
-{1311}{}{ érez jobban. Örülni hogy megment tégedet.}
-{1315}{}{. Ígérem, hogy nem felejtem el, még ha száz évig élek se.}
-{1320}{}{? Ha befejezted a játékot, letörölsz minket a vinyódról?}
+{1311}{}{ Ã©rez jobban. Ã–rÃ¼lni hogy megment tÃ©gedet.}
+{1315}{}{. ÃgÃ©rem, hogy nem felejtem el, mÃ©g ha szÃ¡z Ã©vig Ã©lek se.}
+{1320}{}{? Ha befejezted a jÃ¡tÃ©kot, letÃ¶rÃ¶lsz minket a vinyÃ³drÃ³l?}

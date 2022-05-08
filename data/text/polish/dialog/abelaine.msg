@@ -1,34 +1,34 @@
-{100}{}{Widzisz og³uszon¹ zakonnicê.}
+{100}{}{Widzisz ogÅ‚uszonÄ… zakonnicÄ™.}
 {101}{}{Widzisz Elaine.}
-{102}{}{Ci¹gle j¹ widzisz.}
+{102}{}{CiÄ…gle jÄ… widzisz.}
 {200}{}{Pozdrowienia!}
-{201}{}{Czeœæ, jak masz na imiê?}
-{202}{}{Co mo¿esz powiedzieæ mi o Opactwie?}
+{201}{}{CzeÅ›Ä‡, jak masz na imiÄ™?}
+{202}{}{Co moÅ¼esz powiedzieÄ‡ mi o Opactwie?}
 {203}{}{Bywaj.}
-{300}{}{Je¿eli chcesz us³yszeæ wiêcej o naszym zakonie, porozmawiaj z naszym duchowym przywódc¹. Jest na trzecim piêtrze.}
-{301}{}{Rozumiem. Jeszcze kilka pytañ...}
-{400}{}{Oczywiœcie. Co chcia³abyœ wiedzieæ?}
-{401}{}{Jak masz na imiê?}
-{402}{}{W³aœciwie ju¿ nic, Bywaj.}
-{403}{}{Co mo¿esz powiedzieæ mi o Opactwie?}
-{500}{}{Mo¿esz do mnie mówiæ Elain.}
-{501}{}{Rozumiem. Jeszcze kilka pytañ...}
-{600}{}{Hej! Zanim odejdziesz, mo¿esz mi w czymœ pomóc? Powinnam zanieœæ tê czêœæ Maxowi do piwnicy jest w
- pokoju z kopiark¹. Ale widzisz moje kolano ostatnio nie sprawuje siê najlepiej i naprawdê ciê¿ko mi chodziæ po schodach.
- Czy by³oby to dla Ciebie problemem ¿eby mu tê czêœæ zanieœæ, dla mnie?}
+{300}{}{JeÅ¼eli chcesz usÅ‚yszeÄ‡ wiÄ™cej o naszym zakonie, porozmawiaj z naszym duchowym przywÃ³dcÄ…. Jest na trzecim piÄ™trze.}
+{301}{}{Rozumiem. Jeszcze kilka pytaÅ„...}
+{400}{}{OczywiÅ›cie. Co chciaÅ‚abyÅ› wiedzieÄ‡?}
+{401}{}{Jak masz na imiÄ™?}
+{402}{}{WÅ‚aÅ›ciwie juÅ¼ nic, Bywaj.}
+{403}{}{Co moÅ¼esz powiedzieÄ‡ mi o Opactwie?}
+{500}{}{MoÅ¼esz do mnie mÃ³wiÄ‡ Elain.}
+{501}{}{Rozumiem. Jeszcze kilka pytaÅ„...}
+{600}{}{Hej! Zanim odejdziesz, moÅ¼esz mi w czymÅ› pomÃ³c? Powinnam zanieÅ›Ä‡ tÄ™ czÄ™Å›Ä‡ Maxowi do piwnicy jest w
+ pokoju z kopiarkÄ…. Ale widzisz moje kolano ostatnio nie sprawuje siÄ™ najlepiej i naprawdÄ™ ciÄ™Å¼ko mi chodziÄ‡ po schodach.
+ Czy byÅ‚oby to dla Ciebie problemem Å¼eby mu tÄ™ czÄ™Å›Ä‡ zanieÅ›Ä‡, dla mnie?}
 {601}{}{Jasne.}
 {602}{}{Przepraszam, ale nie mam teraz na to czasu. Bywaj.}
-{603}{}{Czy ja wygl¹dam na firmê kuriersk¹? Zrób to sama, gruba, leniwa suko. Czeœæ.}
-{604}{}{Dziêki! Proszê, to ta czêœæ. Pokój z kopiark¹ jest w piwnicy. Zejdziesz tam schodami za Bratem Matthew w kaplicy.}
-{605}{}{¯aden problem. [Bierzesz czêœæ.] Zaraza zaniosê j¹ Maxowi.}
+{603}{}{Czy ja wyglÄ…dam na firmÄ™ kurierskÄ…? ZrÃ³b to sama, gruba, leniwa suko. CzeÅ›Ä‡.}
+{604}{}{DziÄ™ki! ProszÄ™, to ta czÄ™Å›Ä‡. PokÃ³j z kopiarkÄ… jest w piwnicy. Zejdziesz tam schodami za Bratem Matthew w kaplicy.}
+{605}{}{Å»aden problem. [Bierzesz czÄ™Å›Ä‡.] Zaraza zaniosÄ™ jÄ… Maxowi.}
 {700}{}{Ja }
 {701}{}{. Ty kto?}
-{710}{}{Hi hi. Imiê, ³adne.}
+{710}{}{Hi hi. ImiÄ™, Å‚adne.}
 {711}{}{Na razie!}
-{720}{}{Specjalny z Ciebie zuch, co? Móg³ byœ wyœwiadczyæ mi WIELK¥ przys³ugê?}
-{721}{}{Specjalny z Ciebie kwiatuszek, co? Mog³a byœ wyœwiadczyæ mi WIELK¥ przys³ugê?}
-{722}{}{Ja, specjalny. Ja, pomóc.}
-{723}{}{Ja, nie chcieæ pomagaæ.}
-{730}{}{Naprawdê? Œwietnie! Daj proszê tê czêœæ Maxowi w pokoju z kopiark¹. Znajdziesz go w PIWNICY. Dobrze?}
-{731}{}{Ja, nie zawieœæ, Ty!}
-{740}{}{Nie zatrzymuj siê, teraz.}
+{720}{}{Specjalny z Ciebie zuch, co? MÃ³gÅ‚ byÅ› wyÅ›wiadczyÄ‡ mi WIELKÄ„ przysÅ‚ugÄ™?}
+{721}{}{Specjalny z Ciebie kwiatuszek, co? MogÅ‚a byÅ› wyÅ›wiadczyÄ‡ mi WIELKÄ„ przysÅ‚ugÄ™?}
+{722}{}{Ja, specjalny. Ja, pomÃ³c.}
+{723}{}{Ja, nie chcieÄ‡ pomagaÄ‡.}
+{730}{}{NaprawdÄ™? Åšwietnie! Daj proszÄ™ tÄ™ czÄ™Å›Ä‡ Maxowi w pokoju z kopiarkÄ…. Znajdziesz go w PIWNICY. Dobrze?}
+{731}{}{Ja, nie zawieÅ›Ä‡, Ty!}
+{740}{}{Nie zatrzymuj siÄ™, teraz.}

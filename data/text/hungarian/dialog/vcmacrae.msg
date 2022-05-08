@@ -1,68 +1,68 @@
-{100}{}{Egy ráncos b?rü, hajlott korú férfit látsz.}
-{101}{}{John MacRae-t látod.}
-{102}{}{Hé te, még soha nem láttalak itt! MacRae vagyok, a tulaj. Miben segíthetek?}
-{103}{}{A Menedéket keresem.}
-{104}{}{Szeretnél eltünni innen?}
-{105}{}{Mit csinálsz itt?}
-{106}{}{Semmi érdekes a környéken?}
+{100}{}{Egy rÃ¡ncos b?rÃ¼, hajlott korÃº fÃ©rfit lÃ¡tsz.}
+{101}{}{John MacRae-t lÃ¡tod.}
+{102}{}{HÃ© te, mÃ©g soha nem lÃ¡ttalak itt! MacRae vagyok, a tulaj. Miben segÃ­thetek?}
+{103}{}{A MenedÃ©ket keresem.}
+{104}{}{SzeretnÃ©l eltÃ¼nni innen?}
+{105}{}{Mit csinÃ¡lsz itt?}
+{106}{}{Semmi Ã©rdekes a kÃ¶rnyÃ©ken?}
 {107}{}{Nyim nyamm}
-{108}{}{Kösz, egyel?re elleszek magam is.}
-{109}{}{Menedék? Az egyetlen amit ismerek az a városban van. Egy bazi nagy lyuk ... el se tudod téveszteni!}
+{108}{}{KÃ¶sz, egyel?re elleszek magam is.}
+{109}{}{MenedÃ©k? Az egyetlen amit ismerek az a vÃ¡rosban van. Egy bazi nagy lyuk ... el se tudod tÃ©veszteni!}
 {110}{}{Mit lehet inni?}
-{111}{}{Semmi érdekes a környéken?}
-{112}{}{Köszönöm a segítséget, bátyám. Viszlát!}
-{113}{}{Csak a szokásosat. Sör 20 dolcsi, whisky 30, extra nincs. Kérsz valamit?}
-{114}{}{Tudsz valamit a Menedékr?l?}
-{115}{}{Egy sört kérek.}
-{116}{}{Egy whiskyt kérek.}
+{111}{}{Semmi Ã©rdekes a kÃ¶rnyÃ©ken?}
+{112}{}{KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get, bÃ¡tyÃ¡m. ViszlÃ¡t!}
+{113}{}{Csak a szokÃ¡sosat. SÃ¶r 20 dolcsi, whisky 30, extra nincs. KÃ©rsz valamit?}
+{114}{}{Tudsz valamit a MenedÃ©kr?l?}
+{115}{}{Egy sÃ¶rt kÃ©rek.}
+{116}{}{Egy whiskyt kÃ©rek.}
 {117}{}{Mi ez a hely?}
-{118}{}{Semmit, kösz. Viszlát.}
-{119}{}{A környéken? Mindig a régi nóta ... általában halálra unom magam. Miért, keresel valamit?}
+{118}{}{Semmit, kÃ¶sz. ViszlÃ¡t.}
+{119}{}{A kÃ¶rnyÃ©ken? Mindig a rÃ©gi nÃ³ta ... Ã¡ltalÃ¡ban halÃ¡lra unom magam. MiÃ©rt, keresel valamit?}
 {120}{}{Mit lehet inni?}
-{121}{}{Tudsz valamit a Menedékr?l?}
+{121}{}{Tudsz valamit a MenedÃ©kr?l?}
 {122}{}{Nem lehet olyan rossz!}
-{123}{}{Semmit. Viszlát!}
-{124}{}{Aha ... azt hiszem, túl sokat kapott a fejed! Bocs, de nem dumálok hülyékkel.}
-{125}{}{Itt van, húzd fel! Ez az egyetlen buli, amit ezen a csóró helyen találhatsz.}
+{123}{}{Semmit. ViszlÃ¡t!}
+{124}{}{Aha ... azt hiszem, tÃºl sokat kapott a fejed! Bocs, de nem dumÃ¡lok hÃ¼lyÃ©kkel.}
+{125}{}{Itt van, hÃºzd fel! Ez az egyetlen buli, amit ezen a csÃ³rÃ³ helyen talÃ¡lhatsz.}
 {126}{}{Nem lehet olyan rossz!}
-{127}{}{Kösz az italt! Azt hiszem, megyek is.}
-{128}{}{Nézd! Megkérdeztem, akarsz-e egy italt, utána megmondtam, mennyibe kerül. A legtöbb ember felfogja ezt agyilag. Ha nincs pénzed, minek kérdez?sködsz?}
-{129}{}{Bocs. Azt hittem, van pénzem. Nem látok bele a zsebembe, vili?}
-{130}{}{Ja...bármit. Na mentem.}
-{131}{}{Rosszabb. A Polgárok nem isznak túl sokat, így csak a keresked?k csinálnak némi forgalmat. Egyébként mellékesen megemlíteném, hogy a  következ? topisnak aki alkudozni merészel, szétrúgom a seggét.}
-{132}{}{Úgy hangzik, mintha kicsit eleged lenne ebb?l a helyb?l.}
-{133}{}{Sajnálom. Mit tudsz a Menedékr?l?}
-{134}{}{Mindenki követ el hibákat ... van aki többet, van aki kevesebbet. Szóval, mit szeretnél?}
+{127}{}{KÃ¶sz az italt! Azt hiszem, megyek is.}
+{128}{}{NÃ©zd! MegkÃ©rdeztem, akarsz-e egy italt, utÃ¡na megmondtam, mennyibe kerÃ¼l. A legtÃ¶bb ember felfogja ezt agyilag. Ha nincs pÃ©nzed, minek kÃ©rdez?skÃ¶dsz?}
+{129}{}{Bocs. Azt hittem, van pÃ©nzem. Nem lÃ¡tok bele a zsebembe, vili?}
+{130}{}{Ja...bÃ¡rmit. Na mentem.}
+{131}{}{Rosszabb. A PolgÃ¡rok nem isznak tÃºl sokat, Ã­gy csak a keresked?k csinÃ¡lnak nÃ©mi forgalmat. EgyÃ©bkÃ©nt mellÃ©kesen megemlÃ­tenÃ©m, hogy a  kÃ¶vetkez? topisnak aki alkudozni merÃ©szel, szÃ©trÃºgom a seggÃ©t.}
+{132}{}{Ãšgy hangzik, mintha kicsit eleged lenne ebb?l a helyb?l.}
+{133}{}{SajnÃ¡lom. Mit tudsz a MenedÃ©kr?l?}
+{134}{}{Mindenki kÃ¶vet el hibÃ¡kat ... van aki tÃ¶bbet, van aki kevesebbet. SzÃ³val, mit szeretnÃ©l?}
 {135}{}{Mi ez a hely?}
-{136}{}{Semmit, kösz. Viszlát.}
-{137}{}{Ja, remélem, elhúzhatok innen a francba.}
-{138}{}{Miért nem mész el?}
-{139}{}{Kimenni a pusztába ... egyedül? Unatkozom, de hülye azért nem vagyok.}
-{140}{}{Miért nem tartassz velem?}
-{141}{}{Hát akkor, sok szerencsét!}
-{142}{}{Hát ... úgy t?nik, épp elegen vagytok így is.}
-{143}{}{Rendben. Sok szerencsét!}
-{144}{}{Tudod mit? Nem is hangzik olyan rosszul. Számíthatsz rám.}
+{136}{}{Semmit, kÃ¶sz. ViszlÃ¡t.}
+{137}{}{Ja, remÃ©lem, elhÃºzhatok innen a francba.}
+{138}{}{MiÃ©rt nem mÃ©sz el?}
+{139}{}{Kimenni a pusztÃ¡ba ... egyedÃ¼l? Unatkozom, de hÃ¼lye azÃ©rt nem vagyok.}
+{140}{}{MiÃ©rt nem tartassz velem?}
+{141}{}{HÃ¡t akkor, sok szerencsÃ©t!}
+{142}{}{HÃ¡t ... Ãºgy t?nik, Ã©pp elegen vagytok Ã­gy is.}
+{143}{}{Rendben. Sok szerencsÃ©t!}
+{144}{}{Tudod mit? Nem is hangzik olyan rosszul. SzÃ¡mÃ­thatsz rÃ¡m.}
 {145}{}{Aha, mit?}
-{146}{}{Állj arrébb az útból!}
+{146}{}{Ãllj arrÃ©bb az ÃºtbÃ³l!}
 {147}{}{Hogy vagy?}
-{148}{}{Gyógyítsd meg magad!}
-{149}{}{Kérlek, várj itt, amíg vissza nem jövök!}
+{148}{}{GyÃ³gyÃ­tsd meg magad!}
+{149}{}{KÃ©rlek, vÃ¡rj itt, amÃ­g vissza nem jÃ¶vÃ¶k!}
 {150}{}{Te! Ehhem!}
-{151}{}{Mára ennyi.}
+{151}{}{MÃ¡ra ennyi.}
 {152}{}{OK, everything's stitched up. Let's get going.}
-{153}{}{OK, nagyjából mindent megcsináltam.}
-{154}{}{Ez b?ven megteszi, de jó lenne még pár stimpakk.}
-{155}{}{Már mindent elhasználtam, de így is elég gy?rött vagyok. Van még pár stimpakkod?}
-{156}{}{Részesítsd els?segélybe magad.}
+{153}{}{OK, nagyjÃ¡bÃ³l mindent megcsinÃ¡ltam.}
+{154}{}{Ez b?ven megteszi, de jÃ³ lenne mÃ©g pÃ¡r stimpakk.}
+{155}{}{MÃ¡r mindent elhasznÃ¡ltam, de Ã­gy is elÃ©g gy?rÃ¶tt vagyok. Van mÃ©g pÃ¡r stimpakkod?}
+{156}{}{RÃ©szesÃ­tsd els?segÃ©lybe magad.}
 {157}{}{Senkit.}
-{158}{}{OKÉ.}
-{159}{}{OK, itt várok.}
+{158}{}{OKÃ‰.}
+{159}{}{OK, itt vÃ¡rok.}
 {160}{}{Senkit.}
-{161}{}{OKÉ.}
+{161}{}{OKÃ‰.}
 {162}{}{Induljunk!}
-{163}{}{OKÉ.}
-{164}{}{Nézd, épp elég ember van már a sarkadban.}
-{165}{}{Ja, vele mész.}
+{163}{}{OKÃ‰.}
+{164}{}{NÃ©zd, Ã©pp elÃ©g ember van mÃ¡r a sarkadban.}
+{165}{}{Ja, vele mÃ©sz.}
 {166}{}{Nem ... asszem ezt most kihagyom.}
-{167}{}{Azt hiszem, inkább maradok még egy kicsit.}
+{167}{}{Azt hiszem, inkÃ¡bb maradok mÃ©g egy kicsit.}

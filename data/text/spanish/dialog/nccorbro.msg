@@ -1,338 +1,338 @@
 {100}{}{Ves a uno de los Hermanos Corsican.}
-{150}{}{Ves a un hombre bien vestido que huele a algo como vaselina. Por alguna razón, te resulta vagamente reptilíneo.}
-{151}{}{Ves a Marty, uno de los Hermanos Corsican. Tiene el pelo peinado hacia atrás, y su rostro está cubierto por una delgada capa de sudor.}
-{152}{}{Ves a Sid, uno de los Hermanos Corsican. Lleva un tupé, y usa gafas oscuras.}
+{150}{}{Ves a un hombre bien vestido que huele a algo como vaselina. Por alguna razÃ³n, te resulta vagamente reptilÃ­neo.}
+{151}{}{Ves a Marty, uno de los Hermanos Corsican. Tiene el pelo peinado hacia atrÃ¡s, y su rostro estÃ¡ cubierto por una delgada capa de sudor.}
+{152}{}{Ves a Sid, uno de los Hermanos Corsican. Lleva un tupÃ©, y usa gafas oscuras.}
 {200}{}{Oye, }
 {201}{}{}
-{202}{}{Tú, }
-{210}{}{¿Cómo diablos vas al retrete con esa cosa puesta?}
-{211}{}{¿Eso es alguna nueva clase de vibrador?}
-{212}{}{¿Eso es alguna nueva clase de preservativo corporal?}
-{220}{}{Eres más caliente que un volcán con un mal día.}
+{202}{}{TÃº, }
+{210}{}{Â¿CÃ³mo diablos vas al retrete con esa cosa puesta?}
+{211}{}{Â¿Eso es alguna nueva clase de vibrador?}
+{212}{}{Â¿Eso es alguna nueva clase de preservativo corporal?}
+{220}{}{Eres mÃ¡s caliente que un volcÃ¡n con un mal dÃ­a.}
 {221}{}{Eres una estrella. Una estrella FUGAZ.}
 {222}{}{Eres una estrella. Una estrella ACELERADA.}
 {223}{}{Eres una estrella. Una estrella TITILANTE.}
-{224}{}{Tu actuación bien vale un centenar de erecciones.}
+{224}{}{Tu actuaciÃ³n bien vale un centenar de erecciones.}
 {225}{}{}
 {226}{}{Eres una estrella. Una brillante estrella.}
-{227}{}{¡Oye, bienvenido de nuevo!}
+{227}{}{Â¡Oye, bienvenido de nuevo!}
 {228}{}{Ven a charlar conmigo un poco.}
-{229}{}{Háblame del negocio.}
-{230}{}{¡Vuelve de nuevo!}
-{231}{}{¿Sabes lo que estoy contemplando? A la zorra más golfa del mundo entero.}
+{229}{}{HÃ¡blame del negocio.}
+{230}{}{Â¡Vuelve de nuevo!}
+{231}{}{Â¿Sabes lo que estoy contemplando? A la zorra mÃ¡s golfa del mundo entero.}
 {232}{}{}
-{233}{}{¡Oye, bienvenida otra vez, par de tetazas!}
+{233}{}{Â¡Oye, bienvenida otra vez, par de tetazas!}
 {245}{}{Oh, oh. Un iniciado. Todo el mundo firme.}
 {246}{}{Hola, }
-{250}{}{¡Hola, Hércules sexual!}
-{251}{}{Echa un vistazo a esos pectorales. Flexiónalos un par de veces.}
-{252}{}{¿Has pensado hacer carrera en el negocio, }
-{253}{}{Podría conseguirte que hicieras algunas escenas, si quieres. Tan sólo piénsalo, ¿vale?}
-{254}{}{Tienes un buen estilo peleando. ¿Qué tal tu estilo en la cama?}
-{255}{}{Eres bienvenido aquí en todo momento. Oye, si quieres hablar de negocios…}
+{250}{}{Â¡Hola, HÃ©rcules sexual!}
+{251}{}{Echa un vistazo a esos pectorales. FlexiÃ³nalos un par de veces.}
+{252}{}{Â¿Has pensado hacer carrera en el negocio, }
+{253}{}{PodrÃ­a conseguirte que hicieras algunas escenas, si quieres. Tan sÃ³lo piÃ©nsalo, Â¿vale?}
+{254}{}{Tienes un buen estilo peleando. Â¿QuÃ© tal tu estilo en la cama?}
+{255}{}{Eres bienvenido aquÃ­ en todo momento. Oye, si quieres hablar de negociosâ€¦}
 {256}{}{Oye, }
-{257}{}{¡Vuelve de nuevo!}
+{257}{}{Â¡Vuelve de nuevo!}
 {258}{}{Pelea, Xena.}
-{259}{}{Menudo vientre liso el tuyo. Parece un trampolín.}
+{259}{}{Menudo vientre liso el tuyo. Parece un trampolÃ­n.}
 {270}{}{Tenemos el cupo cubierto, esclavista.}
-{271}{}{Esos esclavos son míos, esclavista. Cuidado a dónde miras.}
-{275}{}{Eh, bonito ciberperro, pero no hacemos esa clase de películas. Aún.}
-{276}{}{¿Ese ciberperro es robado?}
-{280}{}{Caray. Fíjate en los andares de ese bot.}
-{281}{}{¿Es eso uno de esos vibradores robóticos de los que he oído hablar?}
-{282}{}{¿Ese robot tuyo estaría interesado en rodar?}
-{290}{}{Oye, saca de aquí a tu amigo mutante. Aquí no hacemos esa clase de películas.}
+{271}{}{Esos esclavos son mÃ­os, esclavista. Cuidado a dÃ³nde miras.}
+{275}{}{Eh, bonito ciberperro, pero no hacemos esa clase de pelÃ­culas. AÃºn.}
+{276}{}{Â¿Ese ciberperro es robado?}
+{280}{}{Caray. FÃ­jate en los andares de ese bot.}
+{281}{}{Â¿Es eso uno de esos vibradores robÃ³ticos de los que he oÃ­do hablar?}
+{282}{}{Â¿Ese robot tuyo estarÃ­a interesado en rodar?}
+{290}{}{Oye, saca de aquÃ­ a tu amigo mutante. AquÃ­ no hacemos esa clase de pelÃ­culas.}
 {291}{}{Francamente, no creo que ninguna de nuestras actrices pudiera manejar a tu amigo mutante.}
-{292}{}{Ya hicimos una película con mutantes: el mutante se comió a todas las actrices. Y lo digo en el sentido convencional del verbo.}
-{300}{}{¡Criiisto! Saca de aquí a ese apestoso necrófago antes de que el olor lo impregne todo.}
-{301}{}{No nos interesan las películas con necrófagos. Sácalo de aquí.}
-{302}{}{*Bufff* ¡Ese necrófago apesta lo que no está escrito! Pon un reciclador de aire por aquí antes de que me desmaye.}
-{310}{}{Bien, luces fuera…}
-{311}{}{Que no me entere de que nadie se OCUPA de que la chica está cuando llegue la descarga!}
-{312}{}{¿Podemos concentrarnos en la toma, por favor?}
-{313}{}{La toma ha durado demasiado. Los entonadores nos van a arruinar…}
-{314}{}{¡¡¿Que quiere QUÉ?!! Dile que se joda, él y el brahmin que monta!}
-{315}{}{Las cosas eran mejores en los tiempos de implantes…}
+{292}{}{Ya hicimos una pelÃ­cula con mutantes: el mutante se comiÃ³ a todas las actrices. Y lo digo en el sentido convencional del verbo.}
+{300}{}{Â¡Criiisto! Saca de aquÃ­ a ese apestoso necrÃ³fago antes de que el olor lo impregne todo.}
+{301}{}{No nos interesan las pelÃ­culas con necrÃ³fagos. SÃ¡calo de aquÃ­.}
+{302}{}{*Bufff* Â¡Ese necrÃ³fago apesta lo que no estÃ¡ escrito! Pon un reciclador de aire por aquÃ­ antes de que me desmaye.}
+{310}{}{Bien, luces fueraâ€¦}
+{311}{}{Que no me entere de que nadie se OCUPA de que la chica estÃ¡ cuando llegue la descarga!}
+{312}{}{Â¿Podemos concentrarnos en la toma, por favor?}
+{313}{}{La toma ha durado demasiado. Los entonadores nos van a arruinarâ€¦}
+{314}{}{Â¡Â¡Â¿Que quiere QUÃ‰?!! Dile que se joda, Ã©l y el brahmin que monta!}
+{315}{}{Las cosas eran mejores en los tiempos de implantesâ€¦}
 {316}{}{Los gastos generales van a acabar con nosotros.}
 {317}{}{Me encanta ese superdotado.}
-{318}{}{¡El tipo es dinamita sexual!}
-{319}{}{NO voy a fotografiarte así.}
-{320}{}{¡Es un misil! ¡Es un cohete! ¡Está despegando, Sid, te aviso!}
-{321}{}{¡Jodidamente sí!}
-{322}{}{¡Dile a ese bastardo que se puede ir al infierno!}
-{323}{}{Fíjate, ese dulce culito vuelve de nuevo…}
+{318}{}{Â¡El tipo es dinamita sexual!}
+{319}{}{NO voy a fotografiarte asÃ­.}
+{320}{}{Â¡Es un misil! Â¡Es un cohete! Â¡EstÃ¡ despegando, Sid, te aviso!}
+{321}{}{Â¡Jodidamente sÃ­!}
+{322}{}{Â¡Dile a ese bastardo que se puede ir al infierno!}
+{323}{}{FÃ­jate, ese dulce culito vuelve de nuevoâ€¦}
 {324}{}{Wham-bam-gracias-madam.}
-{325}{}{Si eso no es el colmo…}
+{325}{}{Si eso no es el colmoâ€¦}
 {326}{}{No me queda piel en el culo.}
-{327}{}{Díselo a ese hijo de puta de mierda, DÍSELO…}
+{327}{}{DÃ­selo a ese hijo de puta de mierda, DÃSELOâ€¦}
 {328}{}{Bueno, entonces tuvo un problema de piojos.}
-{329}{}{Ese no es mi problema. Es TÚ problema.}
+{329}{}{Ese no es mi problema. Es TÃš problema.}
 {330}{}{20 minutos, guapa.}
-{331}{}{Veamos: (comprueba el guión). Entra Randy, él y Sylvia se lo montan… Christy va al aseo, Peter se une a ella, se lo montan. Entra Ron…}
-{345}{}{Los Hermanos Corsican a tu servicio… (te mira irritado y entonces hace un gesto de sorpresa). Oye... tú eres el de antes: quieres entonar, ¿verdad?}
-{346}{}{Los Hermanos Corsican a tu servicio… (te mira, irritado). Otra vez tú. Oye, ¿te interesa el empleo de entonador o no?}
-{347}{}{Los Hermanos Corsican a tu servicio… (te mira irritado y entonces hace un gesto de sorpresa). ¿ERES el nuevo entonador?}
-{348}{}{Los Hermanos Corsican a tu servicio… (te mira, irritado). ¿Eres el nuevo entonador?}
+{331}{}{Veamos: (comprueba el guiÃ³n). Entra Randy, Ã©l y Sylvia se lo montanâ€¦ Christy va al aseo, Peter se une a ella, se lo montan. Entra Ronâ€¦}
+{345}{}{Los Hermanos Corsican a tu servicioâ€¦ (te mira irritado y entonces hace un gesto de sorpresa). Oye... tÃº eres el de antes: quieres entonar, Â¿verdad?}
+{346}{}{Los Hermanos Corsican a tu servicioâ€¦ (te mira, irritado). Otra vez tÃº. Oye, Â¿te interesa el empleo de entonador o no?}
+{347}{}{Los Hermanos Corsican a tu servicioâ€¦ (te mira irritado y entonces hace un gesto de sorpresa). Â¿ERES el nuevo entonador?}
+{348}{}{Los Hermanos Corsican a tu servicioâ€¦ (te mira, irritado). Â¿Eres el nuevo entonador?}
 {349}{}{Yo entono.}
-{350}{}{¡Yo no entono! ¡Yo tono!}
+{350}{}{Â¡Yo no entono! Â¡Yo tono!}
 {351}{}{Te alejas}
 {353}{}{Desde luego.}
 {354}{}{En realidad, lo es mi esposa.}
-{356}{}{No. Estoy aquí por el dinero de Gran Jesús Mordino.}
+{356}{}{No. Estoy aquÃ­ por el dinero de Gran JesÃºs Mordino.}
 {357}{}{No. Perdona por molestarte.}
-{358}{}{Ni de coña. Perdona por molestarte.}
-{370}{}{Muy bien, genio. Pagamos 5… er, 3 fichas por rodaje. Entra en la habitación trasera y encera el mandoble de ese tipo.}
-{371}{}{Mandoble… menudo hijoputa --}
+{358}{}{Ni de coÃ±a. Perdona por molestarte.}
+{370}{}{Muy bien, genio. Pagamos 5â€¦ er, 3 fichas por rodaje. Entra en la habitaciÃ³n trasera y encera el mandoble de ese tipo.}
+{371}{}{Mandobleâ€¦ menudo hijoputa --}
 {372}{}{[Haces lo que dice el hombre]}
 {380}{}{Vigila tu bocaza.}
-{381}{}{¡Estoy hablando de Mandoble!}
+{381}{}{Â¡Estoy hablando de Mandoble!}
 {390}{}{(Levanta las manos). Ya lo pillo.}
 {391}{}{Ve a encerar el mandoble de ese tipo.}
-{400}{}{Hmmmm. ¿Cuántas flexiones haces, amigo?}
-{401}{}{Hmmmm. ¿Eres tan dura como pareces, tetazas?}
+{400}{}{Hmmmm. Â¿CuÃ¡ntas flexiones haces, amigo?}
+{401}{}{Hmmmm. Â¿Eres tan dura como pareces, tetazas?}
 {402}{}{Yo flexiono.}
 {403}{}{Yo no flexiono yo hago con mujer.}
 {404}{}{Yo te y tazas.}
 {405}{}{Yo duro.}
-{415}{}{Exaaaacto. Amigo, sé de dónde vienes, y sé EXACTAMENTE a dónde vas. ¿Te gusta actuar?}
-{416}{}{Exaaaacto. Tetazas, sé de dónde vienes, y sé EXACTAMENTE a dónde vas. ¿Te gusta actuar?}
+{415}{}{Exaaaacto. Amigo, sÃ© de dÃ³nde vienes, y sÃ© EXACTAMENTE a dÃ³nde vas. Â¿Te gusta actuar?}
+{416}{}{Exaaaacto. Tetazas, sÃ© de dÃ³nde vienes, y sÃ© EXACTAMENTE a dÃ³nde vas. Â¿Te gusta actuar?}
 {417}{}{Me gustan las cosas.}
-{418}{}{Actuar como qué.}
-{425}{}{¿No jodas? ¡A mí también! ¡Tenemos mucho en común! Verás, tenemos un estudio, hacemos MAGIA aquí. Tú…}
-{426}{}{¡Tú, amigo, puedes formar PARTE de esa magia!}
-{427}{}{¡Tú, tetazas, puedes formar PARTE de esa magia!}
+{418}{}{Actuar como quÃ©.}
+{425}{}{Â¿No jodas? Â¡A mÃ­ tambiÃ©n! Â¡Tenemos mucho en comÃºn! VerÃ¡s, tenemos un estudio, hacemos MAGIA aquÃ­. TÃºâ€¦}
+{426}{}{Â¡TÃº, amigo, puedes formar PARTE de esa magia!}
+{427}{}{Â¡TÃº, tetazas, puedes formar PARTE de esa magia!}
 {428}{}{Vaaale.}
-{429}{}{¡Magia! ¡Magia! ¡Yo gusta magia!}
-{435}{}{Actuar como una BESTIA. Como un rinoceronte salvaje. ¡Un animal primitivo, creado sólo para aprovechar su lujuria en provecho de las masas!
- ¡MAGIA, eso es MAGIA! ¡De ESO es de lo que estoy hablando!}
-{436}{}{Actuar como una BESTIA. Como una zorra salvaje. ¡Un animal primitivo cuyo DESEO primordial es inflamar la lujuria de las masas!
- ¡MAGIA, eso es MAGIA! ¡De ESO es de lo que estoy hablando!}
-{445}{}{¡Ex-celente! Ahora vamos con una prueba. Necesito ver cómo superas un 'polvo'. }
-{446}{}{¿Juegas, amigo?}
-{447}{}{¿Juegas, tetazas?}
+{429}{}{Â¡Magia! Â¡Magia! Â¡Yo gusta magia!}
+{435}{}{Actuar como una BESTIA. Como un rinoceronte salvaje. Â¡Un animal primitivo, creado sÃ³lo para aprovechar su lujuria en provecho de las masas!
+ Â¡MAGIA, eso es MAGIA! Â¡De ESO es de lo que estoy hablando!}
+{436}{}{Actuar como una BESTIA. Como una zorra salvaje. Â¡Un animal primitivo cuyo DESEO primordial es inflamar la lujuria de las masas!
+ Â¡MAGIA, eso es MAGIA! Â¡De ESO es de lo que estoy hablando!}
+{445}{}{Â¡Ex-celente! Ahora vamos con una prueba. Necesito ver cÃ³mo superas un 'polvo'. }
+{446}{}{Â¿Juegas, amigo?}
+{447}{}{Â¿Juegas, tetazas?}
 {448}{}{Va-le.}
-{455}{}{¡Hagámoslo entonces! ¡No hay tiempo que perder! ¡Eh! ¡Que alguien me traiga un extra! }
-{456}{}{Muy bien, amigo, hora de brillar…}
-{457}{}{Muy bien, tetazas, hora de brillar…}
-{458}{}{[Haces lo que hombre extraño dice]}
-{459}{}{Puedes apostar. Aún no has visto NADA.}
-{465}{}{Lo siento, amigo, no eres lo bastante FLEXIBLE para lo que necesitamos. Mejora eso, y puede que podamos hablar de negocios más tarde, ¿vale?}
-{466}{}{Lo siento, tetazas, no eres lo bastante FLEXIBLE para lo que necesitamos. Mejora eso, y puede que podamos hablar de negocios más tarde, ¿vale?}
-{467}{}{Yo GUSTA haceeeer negocios aquí. Yo VUELVO}
+{455}{}{Â¡HagÃ¡moslo entonces! Â¡No hay tiempo que perder! Â¡Eh! Â¡Que alguien me traiga un extra! }
+{456}{}{Muy bien, amigo, hora de brillarâ€¦}
+{457}{}{Muy bien, tetazas, hora de brillarâ€¦}
+{458}{}{[Haces lo que hombre extraÃ±o dice]}
+{459}{}{Puedes apostar. AÃºn no has visto NADA.}
+{465}{}{Lo siento, amigo, no eres lo bastante FLEXIBLE para lo que necesitamos. Mejora eso, y puede que podamos hablar de negocios mÃ¡s tarde, Â¿vale?}
+{466}{}{Lo siento, tetazas, no eres lo bastante FLEXIBLE para lo que necesitamos. Mejora eso, y puede que podamos hablar de negocios mÃ¡s tarde, Â¿vale?}
+{467}{}{Yo GUSTA haceeeer negocios aquÃ­. Yo VUELVO}
 {468}{}{*Snffff* V-vale. *Snffff* Siento usado yo}
-{469}{}{Intentaré mejorar mi agilidad. Quizá la próxima vez.}
-{470}{}{Puede que vuelva. Después de una ducha. Una larga ducha.}
-{475}{}{Lo siento, amigo, eres atractivo y lo bastante flexible, pero es sólo que no tienes la, eh, resistencia que necesitamos... mejora
- un poco, y quizá hagamos negocios, ¿vale?}
-{476}{}{Lo siento, tetazas, eres atractiva y lo bastante flexible, pero es sólo que no tienes la, eh, resistencia que necesitamos... mejora
- un poco, y quizá hagamos negocios, ¿vale?}
-{479}{}{Intentaré mejorar mi resistencia. Quizá la  próxima vez.}
-{485}{}{Lo siento, amigo, eres atractivo, eres flexible, tienes la resistencia de un brahmin, pero necesitas un poco más de experiencia en la
- cama antes de que podamos hacer negocios, ¿vale? No tenemos tiempo para entrenarte.}
-{486}{}{Lo siento, tetazas, eres atractiva, eres flexible, eres resistente, pero necesitas un poco más de experiencia en la
- cama antes de que podamos hacer negocios, ¿vale? No tenemos tiempo para entrenarte, preciosidad.}
-{489}{}{Intentaré incrementar mi, eh, 'experiencia'. Quizá la próxima vez.}
-{495}{}{Amigo, eso ha sido in-cre-í-ble. }
-{496}{}{Tetazas, eso ha sido in-cre-í-ble. }
-{497}{}{¡Eso ha sido oro puro, auténtico oro puro de Reno! ¡Esa actuación habría valido MILES de pavos! ¿Quieres hacer una película con
- nosotros? ¡Venga, hablemos tú y yo, HABLEMOS!}
-{498}{}{Vaaale… hablo con tú. Quiero hacer esa cosa una y otra y otra vez}
+{469}{}{IntentarÃ© mejorar mi agilidad. QuizÃ¡ la prÃ³xima vez.}
+{470}{}{Puede que vuelva. DespuÃ©s de una ducha. Una larga ducha.}
+{475}{}{Lo siento, amigo, eres atractivo y lo bastante flexible, pero es sÃ³lo que no tienes la, eh, resistencia que necesitamos... mejora
+ un poco, y quizÃ¡ hagamos negocios, Â¿vale?}
+{476}{}{Lo siento, tetazas, eres atractiva y lo bastante flexible, pero es sÃ³lo que no tienes la, eh, resistencia que necesitamos... mejora
+ un poco, y quizÃ¡ hagamos negocios, Â¿vale?}
+{479}{}{IntentarÃ© mejorar mi resistencia. QuizÃ¡ la  prÃ³xima vez.}
+{485}{}{Lo siento, amigo, eres atractivo, eres flexible, tienes la resistencia de un brahmin, pero necesitas un poco mÃ¡s de experiencia en la
+ cama antes de que podamos hacer negocios, Â¿vale? No tenemos tiempo para entrenarte.}
+{486}{}{Lo siento, tetazas, eres atractiva, eres flexible, eres resistente, pero necesitas un poco mÃ¡s de experiencia en la
+ cama antes de que podamos hacer negocios, Â¿vale? No tenemos tiempo para entrenarte, preciosidad.}
+{489}{}{IntentarÃ© incrementar mi, eh, 'experiencia'. QuizÃ¡ la prÃ³xima vez.}
+{495}{}{Amigo, eso ha sido in-cre-Ã­-ble. }
+{496}{}{Tetazas, eso ha sido in-cre-Ã­-ble. }
+{497}{}{Â¡Eso ha sido oro puro, autÃ©ntico oro puro de Reno! Â¡Esa actuaciÃ³n habrÃ­a valido MILES de pavos! Â¿Quieres hacer una pelÃ­cula con
+ nosotros? Â¡Venga, hablemos tÃº y yo, HABLEMOS!}
+{498}{}{Vaaaleâ€¦ hablo con tÃº. Quiero hacer esa cosa una y otra y otra vez}
 {499}{}{Uh-uh. Yo marcho ahora. Siento sucio dentro}
-{500}{}{Me interesa. Mi precio: 200 fichas por… descarga.}
-{501}{}{Me interesa. Pero antes de nada, algunas condiciones. Lo primero, sólo trabajo con actores LIMPIOS, espero al menos 500 fichas por
- cada rodaje, un 20% de regalías, y nada de GILIPOLLECES. Soy una estrella, y lo sabes.}
+{500}{}{Me interesa. Mi precio: 200 fichas porâ€¦ descarga.}
+{501}{}{Me interesa. Pero antes de nada, algunas condiciones. Lo primero, sÃ³lo trabajo con actores LIMPIOS, espero al menos 500 fichas por
+ cada rodaje, un 20% de regalÃ­as, y nada de GILIPOLLECES. Soy una estrella, y lo sabes.}
 {503}{}{Ni hablar. Necesito una ducha. Una larga ducha.}
-{515}{}{(Se saca bruscamente un trozo de papel de su chaqueta, y tú garabateas una "X" en él). ¡Hecho! ¡A filmar! Lo primero, necesitarás un nombre artístico, algo que grite a los cuatro vientos ESTRELLA. ¿Alguna idea?}
-{516}{}{(Se saca bruscamente un trozo de papel de su chaqueta, y tú garabateas tu firma en él). ¡Hecho! ¡A filmar!
- Lo primero, necesitarás un nombre artístico, algo que grite a los cuatro vientos ESTRELLA. ¿Alguna idea?}
-{517}{}{Está bien - ¿y qué tal otro nombre?}
-{525}{}{Yo... hmmmm...yo... hmmmm. Verás, acepto lo de las 500 fichas, pero NADA de regalías. ¿Me oyes?}
+{515}{}{(Se saca bruscamente un trozo de papel de su chaqueta, y tÃº garabateas una "X" en Ã©l). Â¡Hecho! Â¡A filmar! Lo primero, necesitarÃ¡s un nombre artÃ­stico, algo que grite a los cuatro vientos ESTRELLA. Â¿Alguna idea?}
+{516}{}{(Se saca bruscamente un trozo de papel de su chaqueta, y tÃº garabateas tu firma en Ã©l). Â¡Hecho! Â¡A filmar!
+ Lo primero, necesitarÃ¡s un nombre artÃ­stico, algo que grite a los cuatro vientos ESTRELLA. Â¿Alguna idea?}
+{517}{}{EstÃ¡ bien - Â¿y quÃ© tal otro nombre?}
+{525}{}{Yo... hmmmm...yo... hmmmm. VerÃ¡s, acepto lo de las 500 fichas, pero NADA de regalÃ­as. Â¿Me oyes?}
 {526}{}{De acuerdo.}
 {527}{}{No hay trato. Ya nos veremos.}
-{528}{}{No hay regalías, no hay }
-{535}{}{¡Muy bien! "}
-{536}{}{¡Achtung! ¡Achtung!}
+{528}{}{No hay regalÃ­as, no hay }
+{535}{}{Â¡Muy bien! "}
+{536}{}{Â¡Achtung! Â¡Achtung!}
 {537}{}{[Vamos al grano]}
-{545}{}{Eh… no ESE nombre, ¿vale? Mala asociación. Quiero decir que nadie quiere ver al alguien que se llame así en cualquier obra porno decente. Elije otro nombre, ¿vale?}
+{545}{}{Ehâ€¦ no ESE nombre, Â¿vale? Mala asociaciÃ³n. Quiero decir que nadie quiere ver al alguien que se llame asÃ­ en cualquier obra porno decente. Elije otro nombre, Â¿vale?}
 {546}{}{De acuerdo...}
 {547}{}{Pero yo GUSTA de verdad el nombre}
 {548}{}{Pero realmente me gusta ese nombre.}
-{555}{}{Eso sí, ESE es un nombre tan brillante y bien definido, que simplemente EXPLOTARÁ por ser tan poderoso! Buena elección, amigo, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
-{556}{}{Eso sí, ESE es un nombre con historia y magia asociadas. Buena elección, amigo, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
-{557}{}{Eso sí, ESE es un nombre con historia y magia asociadas. Buena elección, tetazas, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
-{558}{}{Eso sí, ESE es un nombre tan brillante y bien definido, que simplemente EXPLOTARÁ por ser tan poderoso! Buena elección, lindas tetas, buena elección. ¡Ahora, a FILMAR! ¡Luces! ¡Cámara! ¡Acción!}
-{565}{}{¡Bien! ¡Bien! ¡Vamos a hacerlo, gente! ¡Venga! ¡Muévete! ¡Estás listo?}
+{555}{}{Eso sÃ­, ESE es un nombre tan brillante y bien definido, que simplemente EXPLOTARÃ por ser tan poderoso! Buena elecciÃ³n, amigo, buena elecciÃ³n. Â¡Ahora, a FILMAR! Â¡Luces! Â¡CÃ¡mara! Â¡AcciÃ³n!}
+{556}{}{Eso sÃ­, ESE es un nombre con historia y magia asociadas. Buena elecciÃ³n, amigo, buena elecciÃ³n. Â¡Ahora, a FILMAR! Â¡Luces! Â¡CÃ¡mara! Â¡AcciÃ³n!}
+{557}{}{Eso sÃ­, ESE es un nombre con historia y magia asociadas. Buena elecciÃ³n, tetazas, buena elecciÃ³n. Â¡Ahora, a FILMAR! Â¡Luces! Â¡CÃ¡mara! Â¡AcciÃ³n!}
+{558}{}{Eso sÃ­, ESE es un nombre tan brillante y bien definido, que simplemente EXPLOTARÃ por ser tan poderoso! Buena elecciÃ³n, lindas tetas, buena elecciÃ³n. Â¡Ahora, a FILMAR! Â¡Luces! Â¡CÃ¡mara! Â¡AcciÃ³n!}
+{565}{}{Â¡Bien! Â¡Bien! Â¡Vamos a hacerlo, gente! Â¡Venga! Â¡MuÃ©vete! Â¡EstÃ¡s listo?}
 {566}{}{Listo calisto}
-{567}{}{NACÍ preparado.}
-{575}{}{Muy bien, mi volcánico amigo. Hemos terminado por hoy. ¡Una actuación ESTELAR! ¡ESTELAR! ¡Y esa corrida! ¡Perfecta!
- Si quieres repetir, vuelve a vernos en un mes, ¿vale?}
-{576}{}{Muy bien, tetazas. Hemos terminado por hoy. ¡Una actuación ESTELAR! ¡ESTELAR! Si quieres repetir, vuelve a
- vernos en un mes, ¿vale?}
-{577}{}{Vaaaale… A-adiós}
-{585}{}{¡Corten! Muy bien, amigo. }
-{586}{}{¡Corten! Muy bien, tetazas. }
-{587}{}{Hemos terminado. ¡Una actuación ESTELAR! }
-{588}{}{¡Y esa corrida! }
-{589}{}{¡Y esos gemidos! }
-{590}{}{¡Perfecto! Aquí está tu parte: }
+{567}{}{NACÃ preparado.}
+{575}{}{Muy bien, mi volcÃ¡nico amigo. Hemos terminado por hoy. Â¡Una actuaciÃ³n ESTELAR! Â¡ESTELAR! Â¡Y esa corrida! Â¡Perfecta!
+ Si quieres repetir, vuelve a vernos en un mes, Â¿vale?}
+{576}{}{Muy bien, tetazas. Hemos terminado por hoy. Â¡Una actuaciÃ³n ESTELAR! Â¡ESTELAR! Si quieres repetir, vuelve a
+ vernos en un mes, Â¿vale?}
+{577}{}{Vaaaaleâ€¦ A-adiÃ³s}
+{585}{}{Â¡Corten! Muy bien, amigo. }
+{586}{}{Â¡Corten! Muy bien, tetazas. }
+{587}{}{Hemos terminado. Â¡Una actuaciÃ³n ESTELAR! }
+{588}{}{Â¡Y esa corrida! }
+{589}{}{Â¡Y esos gemidos! }
+{590}{}{Â¡Perfecto! AquÃ­ estÃ¡ tu parte: }
 {591}{}{200 fichas. }
 {592}{}{500 fichas. }
-{593}{}{Si quieres repetir, vuelve a vernos dentro de un mes, ¿vale?}
+{593}{}{Si quieres repetir, vuelve a vernos dentro de un mes, Â¿vale?}
 {594}{}{De acuerdo entonces.}
-{610}{}{¿Te estás quedando conmigo? Oye, si tienes que preguntarlo, entonces NO eres la persona adecuada para este trabajo. Entonces, ¿qué quieres?}
-{612}{}{Un trabajo, ¿eh? De acuerdo entonces, SOY un entonador. El mejor entonador del mercado.}
+{610}{}{Â¿Te estÃ¡s quedando conmigo? Oye, si tienes que preguntarlo, entonces NO eres la persona adecuada para este trabajo. Entonces, Â¿quÃ© quieres?}
+{612}{}{Un trabajo, Â¿eh? De acuerdo entonces, SOY un entonador. El mejor entonador del mercado.}
 {613}{}{Em, nada. Debo estar en el negocio equivocado.}
-{620}{}{Caray, ¿en qué estoy pensando? ¡Vienes aquí, con tu nivelazo, y yo balbuceando como un idiota! Oye, amigo, lo siento.
- Verás, um, ¿buscas trabajo? Nada de esa mierda de entonar. Estoy hablando de ACTUAR, ¿vale?}
-{621}{}{Caray, ¿en qué estoy pensando? ¡Vienes aquí, con tu nivelazo, y yo balbuceando como un idiota! Oye, tetazas, lo siento.
- Verás, um, ¿buscas trabajo? Nada de esa mierda de entonar. Estoy hablando de ACTUAR, ¿vale?}
-{622}{}{Antes de nada, ¿qué es este lugar?}
+{620}{}{Caray, Â¿en quÃ© estoy pensando? Â¡Vienes aquÃ­, con tu nivelazo, y yo balbuceando como un idiota! Oye, amigo, lo siento.
+ VerÃ¡s, um, Â¿buscas trabajo? Nada de esa mierda de entonar. Estoy hablando de ACTUAR, Â¿vale?}
+{621}{}{Caray, Â¿en quÃ© estoy pensando? Â¡Vienes aquÃ­, con tu nivelazo, y yo balbuceando como un idiota! Oye, tetazas, lo siento.
+ VerÃ¡s, um, Â¿buscas trabajo? Nada de esa mierda de entonar. Estoy hablando de ACTUAR, Â¿vale?}
+{622}{}{Antes de nada, Â¿quÃ© es este lugar?}
 {623}{}{Si hay un sueldo fijo de por medio, me interesa.}
-{630}{}{De acuerdo entonces. Ve a la parte de atrás y empieza a encerar trancas. Aquí está tu paga: 5 fichas.}
+{630}{}{De acuerdo entonces. Ve a la parte de atrÃ¡s y empieza a encerar trancas. AquÃ­ estÃ¡ tu paga: 5 fichas.}
 {631}{}{[Haz lo que dice.]}
-{632}{}{Um, en realidad he cambiado de opinión. No, gracias. Será mejor que me marche ahora.}
-{640}{}{Tu esposa, ¿eh? Hmmmmm. Pues vale. Que tu costilla se dirija a la parte de atrás, y empiece a sacarle brillo a las trancas. Aquí está el pago: 3 fichas.}
-{641}{}{Haz lo que dice el hombre, cariño. Que }
-{642}{}{Haz lo que dice, Miria, corazón. AHORA.}
-{650}{}{¿Este lugar? Venga ya, ¿me estás tomando el pelo? Esto es el Golden Globes, un estudio de CINE, el único en Reno, probablemente
- el UNICO que aún sigue erguido y en pie. ¿Qué pasa, no conoces tu propio hogar? ¡Eso me duele!}
-{651}{}{¿Este lugar? Esto es el Golden Globes, un estudio de CINE, amigo, el único en Reno, probablemente el ÚNICO que aún sigue
- erguido y en pie, ¿vale? Y ahora, vas a seguir hablando por los codos, o quieres trabajar?}
-{652}{}{¿Este lugar? Esto es el Golden Globes, un estudio de CINE, cariño, el único en Reno, probablemente el ÚNICO que aún sigue
- erguido y en pie, ¿vale? Y ahora, vas a seguir hablando por los codos, o quieres trabajar?}
-{653}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en
- el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, amigo? NECESITAMOS talentos como tú.}
-{654}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, tetazas?}
-{655}{}{¿Cómo filmáis? Quiero decir, venga… necesitaríais cámaras, película, proyectores… ¿dónde conseguiríais todo ese material?}
+{632}{}{Um, en realidad he cambiado de opiniÃ³n. No, gracias. SerÃ¡ mejor que me marche ahora.}
+{640}{}{Tu esposa, Â¿eh? Hmmmmm. Pues vale. Que tu costilla se dirija a la parte de atrÃ¡s, y empiece a sacarle brillo a las trancas. AquÃ­ estÃ¡ el pago: 3 fichas.}
+{641}{}{Haz lo que dice el hombre, cariÃ±o. Que }
+{642}{}{Haz lo que dice, Miria, corazÃ³n. AHORA.}
+{650}{}{Â¿Este lugar? Venga ya, Â¿me estÃ¡s tomando el pelo? Esto es el Golden Globes, un estudio de CINE, el Ãºnico en Reno, probablemente
+ el UNICO que aÃºn sigue erguido y en pie. Â¿QuÃ© pasa, no conoces tu propio hogar? Â¡Eso me duele!}
+{651}{}{Â¿Este lugar? Esto es el Golden Globes, un estudio de CINE, amigo, el Ãºnico en Reno, probablemente el ÃšNICO que aÃºn sigue
+ erguido y en pie, Â¿vale? Y ahora, vas a seguir hablando por los codos, o quieres trabajar?}
+{652}{}{Â¿Este lugar? Esto es el Golden Globes, un estudio de CINE, cariÃ±o, el Ãºnico en Reno, probablemente el ÃšNICO que aÃºn sigue
+ erguido y en pie, Â¿vale? Y ahora, vas a seguir hablando por los codos, o quieres trabajar?}
+{653}{}{Â¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÃšNICO que sigue erguido y en pie en
+ el mundo. Pero basta de hablar de este lugarâ€¦ Â¿buscas trabajo, amigo? NECESITAMOS talentos como tÃº.}
+{654}{}{Â¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÃšNICO que sigue erguido y en pie en el mundo. Pero basta de hablar de este lugarâ€¦ Â¿buscas trabajo, tetazas?}
+{655}{}{Â¿CÃ³mo filmÃ¡is? Quiero decir, vengaâ€¦ necesitarÃ­ais cÃ¡maras, pelÃ­cula, proyectoresâ€¦ Â¿dÃ³nde conseguirÃ­ais todo ese material?}
 {657}{}{No, gracias. He de irme.}
-{658}{}{Sólo echaba un vistazo. Últimamente me he sentido un poco agotado.}
-{670}{}{Tuvimos suerte… NO necesitamos nada de esa porquería de la Edad de Piedra. Nos encontramos con un por… er, proyector holo…gráfico FUNCIONAL. Nada de equipamiento voluminoso, nada de complicaciones… y sin líos raros.}
-{671}{}{Quién lo diría… ¿qué especificaciones tiene el proyector?}
-{672}{}{Ya veo… bien, oye: estoy interesado en un trabajo, si aún lo seguís ofreciendo.}
+{658}{}{SÃ³lo echaba un vistazo. Ãšltimamente me he sentido un poco agotado.}
+{670}{}{Tuvimos suerteâ€¦ NO necesitamos nada de esa porquerÃ­a de la Edad de Piedra. Nos encontramos con un porâ€¦ er, proyector holoâ€¦grÃ¡fico FUNCIONAL. Nada de equipamiento voluminoso, nada de complicacionesâ€¦ y sin lÃ­os raros.}
+{671}{}{QuiÃ©n lo dirÃ­aâ€¦ Â¿quÃ© especificaciones tiene el proyector?}
+{672}{}{Ya veoâ€¦ bien, oye: estoy interesado en un trabajo, si aÃºn lo seguÃ­s ofreciendo.}
 {673}{}{Me ha encantado hablar contigo, pero tengo que irme.}
-{680}{}{Bueno… aún no hemos afectado a la capacidad del disco QEWB: hasta donde yo sé, es un cubo de memoria de alta densidad de 300 GB. Incluso aunque el sistema operativo Winblows 57 se coma el 70-75% de él, podríamos filmar un centenar de años con ese cubo.}
-{681}{}{¿Dónde está ese cubo ahora? ¿Puedo verlo?}
+{680}{}{Buenoâ€¦ aÃºn no hemos afectado a la capacidad del disco QEWB: hasta donde yo sÃ©, es un cubo de memoria de alta densidad de 300 GB. Incluso aunque el sistema operativo Winblows 57 se coma el 70-75% de Ã©l, podrÃ­amos filmar un centenar de aÃ±os con ese cubo.}
+{681}{}{Â¿DÃ³nde estÃ¡ ese cubo ahora? Â¿Puedo verlo?}
 {683}{}{Caray. Eso es MUCHO porno. Creo que voy a reflexionar sobre eso un rato.}
-{690}{}{No, intentamos mantener a todo el mundo fuera de la sala de rodaje… todo el mundo quiere poner su granito de arena en lo que respecta a edición y almacenamiento. Además, el cubo es oro para nosotros: no querríamos que le sucediera nada.}
-{692}{}{Tiene sentido. Dios sabe el uso que podría darle cualquier ladrón a ese cubo si llegase a ponerle las manos encima. Oh, bueno. ¡Adiós!}
-{700}{}{¡Excelente! Por supuesto, necesitaré ver cómo te comportas, una pequeña prueba para ver cómo superas un 'polvo'. ¿Juegas, amigo?}
-{701}{}{Excelente! Por supuesto, necesitaré ver cómo te comportas, una pequeña prueba para ver cómo superas un 'polvo'. ¿Juegas, tetazas?}
+{690}{}{No, intentamos mantener a todo el mundo fuera de la sala de rodajeâ€¦ todo el mundo quiere poner su granito de arena en lo que respecta a ediciÃ³n y almacenamiento. AdemÃ¡s, el cubo es oro para nosotros: no querrÃ­amos que le sucediera nada.}
+{692}{}{Tiene sentido. Dios sabe el uso que podrÃ­a darle cualquier ladrÃ³n a ese cubo si llegase a ponerle las manos encima. Oh, bueno. Â¡AdiÃ³s!}
+{700}{}{Â¡Excelente! Por supuesto, necesitarÃ© ver cÃ³mo te comportas, una pequeÃ±a prueba para ver cÃ³mo superas un 'polvo'. Â¿Juegas, amigo?}
+{701}{}{Excelente! Por supuesto, necesitarÃ© ver cÃ³mo te comportas, una pequeÃ±a prueba para ver cÃ³mo superas un 'polvo'. Â¿Juegas, tetazas?}
 {702}{}{Claro.}
-{703}{}{Eh, no, gracias. He cambiado de opinión. En otro momento.}
-{710}{}{¡Entonces sal de aquí de una puta vez, mierdecilla! ¡No te necesitamos! ¡Piérdete! ¡Nunca más trabajarás en el porno!}
-{711}{}{¡No quiero yo igualmente! ¡ESO ES!}
-{712}{}{¡Que te jodan! No eres mi jefe. Yo soy el puñetero jefe de }
-{720}{}{Lárgate de aquí. No tengo nada que decirte.}
-{721}{}{Tú y yo no tenemos nada que decirnos. Desaparece.}
-{730}{}{¡Oye, bienvenido de nuevo, }
-{732}{}{¿Primero puedes contarme algo acerca del estudio?}
-{733}{}{Me alegra que digas eso. Verás, estoy aquí por el dinero de Gran Jesús Mordino.}
-{734}{}{Está bien. Volveré en otro momento.}
-{735}{}{(Te guiña un ojo). ¡Tú eres dinero, nena, ni más ni menos que dinero!}
-{740}{}{Los Hermanos Corsican a tu servicio… (El hombre te contempla y sonríe). ¡Vaya, bienvenido de nuevo, }
-{743}{}{Claro que sí. Rompamos unos cuantos muelles de cama.}
-{745}{}{En realidad no. Estoy aquí por el dinero de Gran Jesús Mordino.}
+{703}{}{Eh, no, gracias. He cambiado de opiniÃ³n. En otro momento.}
+{710}{}{Â¡Entonces sal de aquÃ­ de una puta vez, mierdecilla! Â¡No te necesitamos! Â¡PiÃ©rdete! Â¡Nunca mÃ¡s trabajarÃ¡s en el porno!}
+{711}{}{Â¡No quiero yo igualmente! Â¡ESO ES!}
+{712}{}{Â¡Que te jodan! No eres mi jefe. Yo soy el puÃ±etero jefe de }
+{720}{}{LÃ¡rgate de aquÃ­. No tengo nada que decirte.}
+{721}{}{TÃº y yo no tenemos nada que decirnos. Desaparece.}
+{730}{}{Â¡Oye, bienvenido de nuevo, }
+{732}{}{Â¿Primero puedes contarme algo acerca del estudio?}
+{733}{}{Me alegra que digas eso. VerÃ¡s, estoy aquÃ­ por el dinero de Gran JesÃºs Mordino.}
+{734}{}{EstÃ¡ bien. VolverÃ© en otro momento.}
+{735}{}{(Te guiÃ±a un ojo). Â¡TÃº eres dinero, nena, ni mÃ¡s ni menos que dinero!}
+{740}{}{Los Hermanos Corsican a tu servicioâ€¦ (El hombre te contempla y sonrÃ­e). Â¡Vaya, bienvenido de nuevo, }
+{743}{}{Claro que sÃ­. Rompamos unos cuantos muelles de cama.}
+{745}{}{En realidad no. Estoy aquÃ­ por el dinero de Gran JesÃºs Mordino.}
 {746}{}{No, gracias.}
-{755}{}{Pero q... ¡¿que NO quieres hacerlo?! ¿Qué pasa, que ahora eres demasiado BUENO para nosotros? ¡Nosotros te convertimos en lo que eres, '}
+{755}{}{Pero q... Â¡Â¿que NO quieres hacerlo?! Â¿QuÃ© pasa, que ahora eres demasiado BUENO para nosotros? Â¡Nosotros te convertimos en lo que eres, '}
 {756}{}{No olvido y no enfades yo triste yo vuelvo pero yo marcho ahora.}
 {758}{}{Lo ignoras y te alejas}
-{759}{}{Calma. Es sólo que no quiero rodar hoy, ¿vale? La leche. Volveré más tarde, cuando te hayas tranquilizado.}
-{760}{}{Que os jodan. No necesito esta mierda. ¡Soy una estrella! ¡Una gran y brillante estrella resplandeciente!}
-{765}{}{Hey... ¿estás bien? Pareces un poco descolocado. No has tomado drogas, ¿verdad? Porque NO voy a rodar contigo así.}
-{766}{}{Quiero yo rodar AHORA pequeña persona.}
-{768}{}{¡Tú no eres mi jefe! Quiero follar, ésta es mi enorme polla, así que quiero a todo el mundo preparado para rodar AHORA MISMO, joder.}
-{769}{}{¡Tú no eres mi jefe! Quiero follar, aquí está mi perfecto coño, así que quiero todo el mundo preparado para rodar AHORA MISMO, joder.}
-{770}{}{De acuerdo. Intentaré volver más tarde cuando esté, eh, calmado.}
-{780}{}{Los Hermanos Corsican a tu servicio… (El hombre te mira irritado y entonces hace un gesto de sorpresa). La madre que me... }
-{781}{}{Por ti partí.}
+{759}{}{Calma. Es sÃ³lo que no quiero rodar hoy, Â¿vale? La leche. VolverÃ© mÃ¡s tarde, cuando te hayas tranquilizado.}
+{760}{}{Que os jodan. No necesito esta mierda. Â¡Soy una estrella! Â¡Una gran y brillante estrella resplandeciente!}
+{765}{}{Hey... Â¿estÃ¡s bien? Pareces un poco descolocado. No has tomado drogas, Â¿verdad? Porque NO voy a rodar contigo asÃ­.}
+{766}{}{Quiero yo rodar AHORA pequeÃ±a persona.}
+{768}{}{Â¡TÃº no eres mi jefe! Quiero follar, Ã©sta es mi enorme polla, asÃ­ que quiero a todo el mundo preparado para rodar AHORA MISMO, joder.}
+{769}{}{Â¡TÃº no eres mi jefe! Quiero follar, aquÃ­ estÃ¡ mi perfecto coÃ±o, asÃ­ que quiero todo el mundo preparado para rodar AHORA MISMO, joder.}
+{770}{}{De acuerdo. IntentarÃ© volver mÃ¡s tarde cuando estÃ©, eh, calmado.}
+{780}{}{Los Hermanos Corsican a tu servicioâ€¦ (El hombre te mira irritado y entonces hace un gesto de sorpresa). La madre que me... }
+{781}{}{Por ti partÃ­.}
 {782}{}{Nada.}
-{783}{}{¿Qué lugar es éste?}
-{784}{}{¿Puedes contarme algo sobre el estudio?}
-{785}{}{¿Tienes alguna… abertura… que yo pueda llenar?}
-{786}{}{¿Tienes algo de trabajo para alguien como yo?}
-{787}{}{Estoy aquí por el dinero de Gran Jesús Mordino.}
+{783}{}{Â¿QuÃ© lugar es Ã©ste?}
+{784}{}{Â¿Puedes contarme algo sobre el estudio?}
+{785}{}{Â¿Tienes algunaâ€¦ aberturaâ€¦ que yo pueda llenar?}
+{786}{}{Â¿Tienes algo de trabajo para alguien como yo?}
+{787}{}{Estoy aquÃ­ por el dinero de Gran JesÃºs Mordino.}
 {788}{}{Nada. Lamento molestarte.}
-{795}{}{El Golden Globes, el estudio para todos los talentos que aún hay en el mundo. Y tú, amigo, tú podrías ser una ESTRELLA, ¿sabes
- lo que digo? ¿Te interesa actuar?}
-{797}{}{Claro. ¿Hablas en serio?}
+{795}{}{El Golden Globes, el estudio para todos los talentos que aÃºn hay en el mundo. Y tÃº, amigo, tÃº podrÃ­as ser una ESTRELLA, Â¿sabes
+ lo que digo? Â¿Te interesa actuar?}
+{797}{}{Claro. Â¿Hablas en serio?}
 {799}{}{No en este momento. Perdona por molestarte.}
-{805}{}{¡Diablos, claro! ¡Vamos a intentarlo! ¡Oid! ¡Traedme algunos extras aquí! ¡Tenemos una estrella en ciernes!}
+{805}{}{Â¡Diablos, claro! Â¡Vamos a intentarlo! Â¡Oid! Â¡Traedme algunos extras aquÃ­! Â¡Tenemos una estrella en ciernes!}
 {806}{}{[Haces lo que el hombre indica.]}
-{810}{}{Los Hermanos Corsican a tu servicio… (El hombre te mira irritado y entonces hace un gesto de sorpresa). La madre que me... eh… oye, ¿cómo estás, }
+{810}{}{Los Hermanos Corsican a tu servicioâ€¦ (El hombre te mira irritado y entonces hace un gesto de sorpresa). La madre que me... ehâ€¦ oye, Â¿cÃ³mo estÃ¡s, }
 {812}{}{N-nada}
-{813}{}{¿Qué lugar es éste?}
-{814}{}{Dame el gusto. Háblame un poco sobre este estudio.}
-{815}{}{Buena pregunta. ¿Tienes alguna… abertura… que yo pueda llenar?}
-{816}{}{Buena pregunta. ¿Tienes algo de trabajo para alguien como yo?}
-{825}{}{El estudio Golden Globes, es EL estudio para todo el talento que queda en el mundo. Y entonces... eh, ¿qué puedo hacer por ti hoy?}
-{827}{}{¿Tienes tiempo para hacerme una audición? Creo que podría ser una estrella, ¿sabes a qué me refiero?}
-{829}{}{Hoy nada. Perdón por molestarte.}
-{835}{}{Um, claro. Desde luego. Te haremos una, eh, prueba. Veamos si tienes lo que se necesita. Quiero decir, esto no es para todos, pero podemos hacer una prueba, ¿vale? Eh… unos extras por aquí, por favor! ¡Aprisa!}
+{813}{}{Â¿QuÃ© lugar es Ã©ste?}
+{814}{}{Dame el gusto. HÃ¡blame un poco sobre este estudio.}
+{815}{}{Buena pregunta. Â¿Tienes algunaâ€¦ aberturaâ€¦ que yo pueda llenar?}
+{816}{}{Buena pregunta. Â¿Tienes algo de trabajo para alguien como yo?}
+{825}{}{El estudio Golden Globes, es EL estudio para todo el talento que queda en el mundo. Y entonces... eh, Â¿quÃ© puedo hacer por ti hoy?}
+{827}{}{Â¿Tienes tiempo para hacerme una audiciÃ³n? Creo que podrÃ­a ser una estrella, Â¿sabes a quÃ© me refiero?}
+{829}{}{Hoy nada. PerdÃ³n por molestarte.}
+{835}{}{Um, claro. Desde luego. Te haremos una, eh, prueba. Veamos si tienes lo que se necesita. Quiero decir, esto no es para todos, pero podemos hacer una prueba, Â¿vale? Ehâ€¦ unos extras por aquÃ­, por favor! Â¡Aprisa!}
 {836}{}{[Haces lo que el hombre indica.]}
-{845}{}{¡Um, claro, claro! Desde luego... aquí tienes. 250 fichas. Y, eh, saluda a Gran Jesús de mi parte, ¿vale?}
-{846}{}{¡Um, claro, claro! Desde luego... lamento el malentendido. Aquí tienes. 250 fichas. Y, eh, saluda a Gran Jesús de mi parte, ¿vale?}
-{847}{}{Antes de que todos os apresuréis a sacarme de aquí, ¿por qué no me hablas de tu pequeña operación, liante?}
-{848}{}{Sí, bueno. Quizá. Me marcho, amigo.}
-{855}{}{Los Hermanos Corsican a tu servicio… (Te mira). Otra vez tú. ¿Buscas más trabajo, señor Entono-muchísimo?}
-{856}{}{Los Hermanos Corsican a tu servicio… (Te mira). Otra vez tú. ¿Buscas más trabajo, señorita Entono-muchísimo?}
-{857}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Tú! ¿Qué te pasó? Quiero decir, es bueno, es bueno… debo haberme perdido
- algo antes. Te interesa hacer de entonador, ¿es eso?}
-{861}{}{Uh, ¿qué es un entonador?}
-{862}{}{Sí. ¿Hay algún trabajo más para mí?}
-{875}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Hey! ¿Has pensando en mi oferta? ¿Eh?}
-{876}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Hey! ¿Quieres otro intento? ¿Es eso?}
-{877}{}{Los Hermanos Corsican a tu servicio… (Te mira). ¡Hey! ¿Has pensado en mi oferta? Quieres volver, comprobar si aún tienes la magia? ¿Eh?}
+{845}{}{Â¡Um, claro, claro! Desde luego... aquÃ­ tienes. 250 fichas. Y, eh, saluda a Gran JesÃºs de mi parte, Â¿vale?}
+{846}{}{Â¡Um, claro, claro! Desde luego... lamento el malentendido. AquÃ­ tienes. 250 fichas. Y, eh, saluda a Gran JesÃºs de mi parte, Â¿vale?}
+{847}{}{Antes de que todos os apresurÃ©is a sacarme de aquÃ­, Â¿por quÃ© no me hablas de tu pequeÃ±a operaciÃ³n, liante?}
+{848}{}{SÃ­, bueno. QuizÃ¡. Me marcho, amigo.}
+{855}{}{Los Hermanos Corsican a tu servicioâ€¦ (Te mira). Otra vez tÃº. Â¿Buscas mÃ¡s trabajo, seÃ±or Entono-muchÃ­simo?}
+{856}{}{Los Hermanos Corsican a tu servicioâ€¦ (Te mira). Otra vez tÃº. Â¿Buscas mÃ¡s trabajo, seÃ±orita Entono-muchÃ­simo?}
+{857}{}{Los Hermanos Corsican a tu servicioâ€¦ (Te mira). Â¡TÃº! Â¿QuÃ© te pasÃ³? Quiero decir, es bueno, es buenoâ€¦ debo haberme perdido
+ algo antes. Te interesa hacer de entonador, Â¿es eso?}
+{861}{}{Uh, Â¿quÃ© es un entonador?}
+{862}{}{SÃ­. Â¿Hay algÃºn trabajo mÃ¡s para mÃ­?}
+{875}{}{Los Hermanos Corsican a tu servicioâ€¦ (Te mira). Â¡Hey! Â¿Has pensando en mi oferta? Â¿Eh?}
+{876}{}{Los Hermanos Corsican a tu servicioâ€¦ (Te mira). Â¡Hey! Â¿Quieres otro intento? Â¿Es eso?}
+{877}{}{Los Hermanos Corsican a tu servicioâ€¦ (Te mira). Â¡Hey! Â¿Has pensado en mi oferta? Quieres volver, comprobar si aÃºn tienes la magia? Â¿Eh?}
 {879}{}{Va-le}
-{881}{}{Sí. He cambiado de opinión. ¿Debería desenfundar de repente, o…?}
-{882}{}{Sí. He cambiado de opinión. ¿Debería bajarme los pantalones, o…?}
-{895}{}{…Me he enterado de tus proezas… cómo te comiste la 'plataforma' de cada tipo del Enclave. Eso es un estómago de hierro.}
-{896}{}{Sí}
+{881}{}{SÃ­. He cambiado de opiniÃ³n. Â¿DeberÃ­a desenfundar de repente, oâ€¦?}
+{882}{}{SÃ­. He cambiado de opiniÃ³n. Â¿DeberÃ­a bajarme los pantalones, oâ€¦?}
+{895}{}{â€¦Me he enterado de tus proezasâ€¦ cÃ³mo te comiste la 'plataforma' de cada tipo del Enclave. Eso es un estÃ³mago de hierro.}
+{896}{}{SÃ­}
 {897}{}{No-no}
-{899}{}{Eh, no me comí nada de cada tipo del Enclave. Verás, lo que sucedió fue --}
+{899}{}{Eh, no me comÃ­ nada de cada tipo del Enclave. VerÃ¡s, lo que sucediÃ³ fue --}
 {900}{}{Mejor me marcho.}
-{910}{}{Sin falsas modestias. La mayoría de la gente no habría tenido estómago para ello. Pero tú te tragaste
- tu orgullo para hacer lo que se tenía que hacer. ESE es el poder de una estrella.}
-{911}{}{Sí}
-{914}{}{Eh, oye, NO me comí nada de cada tipo del Enclave, verás --}
+{910}{}{Sin falsas modestias. La mayorÃ­a de la gente no habrÃ­a tenido estÃ³mago para ello. Pero tÃº te tragaste
+ tu orgullo para hacer lo que se tenÃ­a que hacer. ESE es el poder de una estrella.}
+{911}{}{SÃ­}
+{914}{}{Eh, oye, NO me comÃ­ nada de cada tipo del Enclave, verÃ¡s --}
 {915}{}{Mejor me marcho.}
-{920}{}{¿Sabes lo que estoy pensando, }
-{921}{}{Eres un héroe, }
-{922}{}{Sí}
-{924}{}{Sí y sí. Adiooos.}
-{926}{}{Claro, qué demonios. He resuelto este juego. Hagámoslo.}
+{920}{}{Â¿Sabes lo que estoy pensando, }
+{921}{}{Eres un hÃ©roe, }
+{922}{}{SÃ­}
+{924}{}{SÃ­ y sÃ­. Adiooos.}
+{926}{}{Claro, quÃ© demonios. He resuelto este juego. HagÃ¡moslo.}
 {927}{}{Geeenial. Gracias...}
-{928}{}{Déjame salvar el juego primero, y luego puede que vuelva y lo haga.}
+{928}{}{DÃ©jame salvar el juego primero, y luego puede que vuelva y lo haga.}
 {935}{}{Arruinados. Estamos arruinados.}
-{936}{}{Sin ese cubo… arruinados.}
-{937}{}{¡Oh, crueles, crueles dioses del sexo! ¿Qué ofensa os causamos que provocó que nos arrebatarais el cubo?}
-{938}{}{::Suspira:: Sin el cubo, quizá deba dedicarme al macramé.}
+{936}{}{Sin ese cuboâ€¦ arruinados.}
+{937}{}{Â¡Oh, crueles, crueles dioses del sexo! Â¿QuÃ© ofensa os causamos que provocÃ³ que nos arrebatarais el cubo?}
+{938}{}{::Suspira:: Sin el cubo, quizÃ¡ deba dedicarme al macramÃ©.}
 {1000}{}{Siento enfermo mucho en barriga.}
-{1001}{}{Usted tiene una falta, insalubres sabor en la boca, y te sientes mal del estómago. Pero bueno, de 3 chips es de 3 fichas!}
-{1100}{}{¡Agh! ::escupes, escupes:: ¡Eso es un ASCO!}
-{1101}{}{Notas un desagradable y poco sano sabor en la boca, y te sientes mal del estómago. ¡Pero oye, 5 fichas son 5 fichas!}
+{1001}{}{Usted tiene una falta, insalubres sabor en la boca, y te sientes mal del estÃ³mago. Pero bueno, de 3 chips es de 3 fichas!}
+{1100}{}{Â¡Agh! ::escupes, escupes:: Â¡Eso es un ASCO!}
+{1101}{}{Notas un desagradable y poco sano sabor en la boca, y te sientes mal del estÃ³mago. Â¡Pero oye, 5 fichas son 5 fichas!}
 {1200}{}{Yo... no me siento muy bien.}
-{1201}{}{El verdadero amor triunfa de nuevo. ¡Tu esposa parece mortalmente asqueada, pero al menos eres 3 fichas más rico!}
+{1201}{}{El verdadero amor triunfa de nuevo. Â¡Tu esposa parece mortalmente asqueada, pero al menos eres 3 fichas mÃ¡s rico!}
 {1250}{}{Te has convertido en una estrella. Una gran y resplandeciente estrella.}
-{5200}{}{! ¡Precisamente el héroe que queríamos ver!}
-{5201}{}{, nuestro amigo y héroe, tenemos un trato para ti!}
-{5202}{}{! ¡Oímos lo que hiciste con el Enclave! Ahora discutamos lo que podemos hacer por TI…}
+{5200}{}{! Â¡Precisamente el hÃ©roe que querÃ­amos ver!}
+{5201}{}{, nuestro amigo y hÃ©roe, tenemos un trato para ti!}
+{5202}{}{! Â¡OÃ­mos lo que hiciste con el Enclave! Ahora discutamos lo que podemos hacer por TIâ€¦}
 {5225}{}{ es oro. Oro puro.}
-{5232}{}{! ¡Dulzura! ¡Tetazas!}
-{5246}{}{. Hoy tenemos buen tiempo, ¿eh?}
+{5232}{}{! Â¡Dulzura! Â¡Tetazas!}
+{5246}{}{. Hoy tenemos buen tiempo, Â¿eh?}
 {5252}{}{?}
-{5256}{}{, si QUIERES rodar con nosotros…}
+{5256}{}{, si QUIERES rodar con nosotrosâ€¦}
 {5528}{}{. Me largo de este lodazal de estudio.}
-{5535}{}{!" ¡Me GUSTA! ¡Me GUSTA! Ahora vamos a FILMAR…}
-{5641}{}{ esté orgulloso.}
+{5535}{}{!" Â¡Me GUSTA! Â¡Me GUSTA! Ahora vamos a FILMARâ€¦}
+{5641}{}{ estÃ© orgulloso.}
 {5712}{}{!}
-{5730}{}{! No rodamos hoy, pero vuelve por aquí pronto. }
-{5740}{}{ ¿Estás aquí para empezar otra sesión de rodaje?}
-{5755}{}{!' ¡Y no lo olvides!}
-{5780}{}{?! ¿Cómo es que no has venido antes por aquí? ¡Una pelea genial, por cierto! ¡Genial! ¿Qué puedo hacer por ti?}
-{5810}{}{?! ¿Qué tal está }
-{5920}{}{? Estoy pensando en una película basada en tus proezas. La llamaríamos 'Falo-out: Pollón Post-Nuclear'. ¿Estamos juntos
- en esto? ¿Eh?}
-{5921}{}{. Un auténtico héroe. No voy a olvidar toda la mierda que has tenido que tragar por nosotros. Y en cuanto todos los ingresos de taquilla se hayan recibido,
- el mundo entero también lo sabrá.}
-{6535}{}{! ¡Luces! ¡Cámara! ¡Acción!}
-{6810}{}{? ¡Toma asiento! ¿Así que, um, que puedo hacer por ti?}
+{5730}{}{! No rodamos hoy, pero vuelve por aquÃ­ pronto. }
+{5740}{}{ Â¿EstÃ¡s aquÃ­ para empezar otra sesiÃ³n de rodaje?}
+{5755}{}{!' Â¡Y no lo olvides!}
+{5780}{}{?! Â¿CÃ³mo es que no has venido antes por aquÃ­? Â¡Una pelea genial, por cierto! Â¡Genial! Â¿QuÃ© puedo hacer por ti?}
+{5810}{}{?! Â¿QuÃ© tal estÃ¡ }
+{5920}{}{? Estoy pensando en una pelÃ­cula basada en tus proezas. La llamarÃ­amos 'Falo-out: PollÃ³n Post-Nuclear'. Â¿Estamos juntos
+ en esto? Â¿Eh?}
+{5921}{}{. Un autÃ©ntico hÃ©roe. No voy a olvidar toda la mierda que has tenido que tragar por nosotros. Y en cuanto todos los ingresos de taquilla se hayan recibido,
+ el mundo entero tambiÃ©n lo sabrÃ¡.}
+{6535}{}{! Â¡Luces! Â¡CÃ¡mara! Â¡AcciÃ³n!}
+{6810}{}{? Â¡Toma asiento! Â¿AsÃ­ que, um, que puedo hacer por ti?}

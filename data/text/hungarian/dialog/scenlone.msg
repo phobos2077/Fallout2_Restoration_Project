@@ -1,121 +1,121 @@
-{100}{}{Egy hosszú palástot visel? szemkápráztató n?höz van szerencséd.}
-{101}{}{? a Megvilágosodott.}
-{102}{}{Távolbavesz? pillantása, agymosottakra jellemz? üdvözült arckifejezése eléggé zavaró lenne, ha nem lenne olyan békés.}
-{103}{}{Üdvözlöm, gyermekem! Maga is a Megvilágosodottak közé tartozik?}
-{104}{}{<Nyáladzol>}
-{105}{}{Persze, miért is ne?}
-{106}{}{Hát... én vagyok a Kiválasztott.}
-{107}{}{Öö, nem igazán tudom, mir?l beszél.}
-{108}{}{Szóval maga a szálka Merk szemében...}
+{100}{}{Egy hosszÃº palÃ¡stot visel? szemkÃ¡prÃ¡ztatÃ³ n?hÃ¶z van szerencsÃ©d.}
+{101}{}{? a MegvilÃ¡gosodott.}
+{102}{}{TÃ¡volbavesz? pillantÃ¡sa, agymosottakra jellemz? Ã¼dvÃ¶zÃ¼lt arckifejezÃ©se elÃ©ggÃ© zavarÃ³ lenne, ha nem lenne olyan bÃ©kÃ©s.}
+{103}{}{ÃœdvÃ¶zlÃ¶m, gyermekem! Maga is a MegvilÃ¡gosodottak kÃ¶zÃ© tartozik?}
+{104}{}{<NyÃ¡ladzol>}
+{105}{}{Persze, miÃ©rt is ne?}
+{106}{}{HÃ¡t... Ã©n vagyok a KivÃ¡lasztott.}
+{107}{}{Ã–Ã¶, nem igazÃ¡n tudom, mir?l beszÃ©l.}
+{108}{}{SzÃ³val maga a szÃ¡lka Merk szemÃ©ben...}
 {109}{}{Igen.}
 {110}{}{Nem.}
-{111}{}{Most magányra vágyom inkább...}
-{112}{}{Hahó? Van ott valaki?}
+{111}{}{Most magÃ¡nyra vÃ¡gyom inkÃ¡bb...}
+{112}{}{HahÃ³? Van ott valaki?}
 {113}{}{Guh.}
 {114}{}{Nin-csen senki.}
-{115}{}{Jó ég, egy újabb egyes szint?, de még a primitív állapotában. Talán egy zéta-szken behangolás segítene. Benne van?}
-{116}{}{Zééé-tta!}
+{115}{}{JÃ³ Ã©g, egy Ãºjabb egyes szint?, de mÃ©g a primitÃ­v Ã¡llapotÃ¡ban. TalÃ¡n egy zÃ©ta-szken behangolÃ¡s segÃ­tene. Benne van?}
+{116}{}{ZÃ©Ã©Ã©-tta!}
 {117}{}{Nem!}
 {118}{}{Please don't mock the Church of Hubology. It's oppressors like you who make things hard for the rest of us. Oh, dear. I'm all turbulent!}
-{119}{}{Kiválasztott? Nem BHK-egy-re gondolt? Milyen forrásokból tanult?}
-{120}{}{Egyszer?. Azért vagyok a Kiválasztott, mivel annak kell lennem.}
+{119}{}{KivÃ¡lasztott? Nem BHK-egy-re gondolt? Milyen forrÃ¡sokbÃ³l tanult?}
+{120}{}{Egyszer?. AzÃ©rt vagyok a KivÃ¡lasztott, mivel annak kell lennem.}
 {121}{}{BHK egy?}
-{122}{}{A törzsf?m mondta, hogy az vagyok.}
-{123}{}{Mir?l beszélsz?}
-{124}{}{Nem térhetnénk rá arra a részre, amikor rámlöttyinti a szentelt vizet, vagy valami ilyesmi?...}
-{125}{}{Ó... Szóval, az igaz megértést és a spirituális békét keresi? Segíthetünk...}
-{126}{}{Nem, egy ÉLET-et keresek.}
-{127}{}{Milyen módon akarnak segíteni?}
-{128}{}{Egy rakétavet? éppen elég spirituális békét nyújt nekem, hölgyem.}
+{122}{}{A tÃ¶rzsf?m mondta, hogy az vagyok.}
+{123}{}{Mir?l beszÃ©lsz?}
+{124}{}{Nem tÃ©rhetnÃ©nk rÃ¡ arra a rÃ©szre, amikor rÃ¡mlÃ¶ttyinti a szentelt vizet, vagy valami ilyesmi?...}
+{125}{}{Ã“... SzÃ³val, az igaz megÃ©rtÃ©st Ã©s a spirituÃ¡lis bÃ©kÃ©t keresi? SegÃ­thetÃ¼nk...}
+{126}{}{Nem, egy Ã‰LET-et keresek.}
+{127}{}{Milyen mÃ³don akarnak segÃ­teni?}
+{128}{}{Egy rakÃ©tavet? Ã©ppen elÃ©g spirituÃ¡lis bÃ©kÃ©t nyÃºjt nekem, hÃ¶lgyem.}
 {129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
 {130}{}{Merk? Mit akar?}
-{131}{}{Nagyon egyszer?. Holtan akarja látni magát. Mondjon búcsút az életnek...}
-{132}{}{Nem tudom, mit követett el, de felbérelt, hogy tegyem el magát láb alól.}
-{133}{}{Csodálatos, testvérem. Elmondaná milyen szint??}
-{134}{}{Én kérdeztem el?ször.}
+{131}{}{Nagyon egyszer?. Holtan akarja lÃ¡tni magÃ¡t. Mondjon bÃºcsÃºt az Ã©letnek...}
+{132}{}{Nem tudom, mit kÃ¶vetett el, de felbÃ©relt, hogy tegyem el magÃ¡t lÃ¡b alÃ³l.}
+{133}{}{CsodÃ¡latos, testvÃ©rem. ElmondanÃ¡ milyen szint??}
+{134}{}{Ã‰n kÃ©rdeztem el?szÃ¶r.}
 {135}{}{Maga milyen szint??}
-{136}{}{Jaj... nem is tudom, miért feltételeztem, hogy látja az aurámat. Elnézést.}
-{137}{}{Jaj... nem is tudom, miért feltételeztem, hogy látja az aurámat. Elnézést.}
+{136}{}{Jaj... nem is tudom, miÃ©rt feltÃ©teleztem, hogy lÃ¡tja az aurÃ¡mat. ElnÃ©zÃ©st.}
+{137}{}{Jaj... nem is tudom, miÃ©rt feltÃ©teleztem, hogy lÃ¡tja az aurÃ¡mat. ElnÃ©zÃ©st.}
 {138}{}{Well, last time I checked the character screen, I was at level }
-{139}{}{A Transzcendencia határán vagyok.}
-{140}{}{Ööö... nem udvariatlanság a szintekr?l érdekl?dni?}
-{141}{}{?szintén! Nem tudom, mit várnak t?lem, ha ilyen perem pépekkel vagyok körbevéve!}
-{142}{}{Ah, micsoda lelkesedés! Jöjjön velem!}
-{143}{}{"Elveszett emberek azok, kik nem ismerik a Hubot..." Ha valaha is meggondolná magát, itt mindig szívesen látjuk.}
-{144}{}{Ne kiabáljon! Most nézze meg... be kell hangolnom a neurodinjaimat!}
-{145}{}{Predesztináció? És mi van a szabad akarattal? A maguk hite alapján a maguk cselekedeteinek semmi értelme, hiszen minden meg van el?re írva. Nagyon úgy néz ki, hogy maguk csak szánalmas sakkfigurák.}
-{146}{}{Félreért! Csak a Kiválasztottságomból fakadó lehet?ségeim el?re meghatározottak. A döntéseim és a tetteim határozzák meg, hogy mi lesz ezekkel a lehet?ségekkel.}
-{147}{}{Az univerzum nyilván determinált! Végül is olyan céllal vagyunk itt, amit a teremt?nk nagyon is jól ismer.}
-{148}{}{Nonszensz! Nincsen semmilyen sorsunkat meghatározó szervez? er?. Az a nagy büdös helyzet, hogy semmiféle "fels?bb hatalom" nem létezik. Az univerzum egy eshet?ség. Azért vagyok a Kiválasztott, mivel mások annak választottak. Ennyi és pont.}
-{149}{}{Behangolt Hub Keres?. Maga nyilván nem Megvilágosodott.}
-{150}{}{Primitív egy hit... viszont ígéretesnek t?nik. Magasabb ösvényekre tudnánk vezetni magát. Akar róla többet tudni?}
+{139}{}{A Transzcendencia hatÃ¡rÃ¡n vagyok.}
+{140}{}{Ã–Ã¶Ã¶... nem udvariatlansÃ¡g a szintekr?l Ã©rdekl?dni?}
+{141}{}{?szintÃ©n! Nem tudom, mit vÃ¡rnak t?lem, ha ilyen perem pÃ©pekkel vagyok kÃ¶rbevÃ©ve!}
+{142}{}{Ah, micsoda lelkesedÃ©s! JÃ¶jjÃ¶n velem!}
+{143}{}{"Elveszett emberek azok, kik nem ismerik a Hubot..." Ha valaha is meggondolnÃ¡ magÃ¡t, itt mindig szÃ­vesen lÃ¡tjuk.}
+{144}{}{Ne kiabÃ¡ljon! Most nÃ©zze meg... be kell hangolnom a neurodinjaimat!}
+{145}{}{PredesztinÃ¡ciÃ³? Ã‰s mi van a szabad akarattal? A maguk hite alapjÃ¡n a maguk cselekedeteinek semmi Ã©rtelme, hiszen minden meg van el?re Ã­rva. Nagyon Ãºgy nÃ©z ki, hogy maguk csak szÃ¡nalmas sakkfigurÃ¡k.}
+{146}{}{FÃ©lreÃ©rt! Csak a KivÃ¡lasztottsÃ¡gombÃ³l fakadÃ³ lehet?sÃ©geim el?re meghatÃ¡rozottak. A dÃ¶ntÃ©seim Ã©s a tetteim hatÃ¡rozzÃ¡k meg, hogy mi lesz ezekkel a lehet?sÃ©gekkel.}
+{147}{}{Az univerzum nyilvÃ¡n determinÃ¡lt! VÃ©gÃ¼l is olyan cÃ©llal vagyunk itt, amit a teremt?nk nagyon is jÃ³l ismer.}
+{148}{}{Nonszensz! Nincsen semmilyen sorsunkat meghatÃ¡rozÃ³ szervez? er?. Az a nagy bÃ¼dÃ¶s helyzet, hogy semmifÃ©le "fels?bb hatalom" nem lÃ©tezik. Az univerzum egy eshet?sÃ©g. AzÃ©rt vagyok a KivÃ¡lasztott, mivel mÃ¡sok annak vÃ¡lasztottak. Ennyi Ã©s pont.}
+{149}{}{Behangolt Hub Keres?. Maga nyilvÃ¡n nem MegvilÃ¡gosodott.}
+{150}{}{PrimitÃ­v egy hit... viszont Ã­gÃ©retesnek t?nik. Magasabb Ã¶svÃ©nyekre tudnÃ¡nk vezetni magÃ¡t. Akar rÃ³la tÃ¶bbet tudni?}
 {151}{}{Igen.}
 {152}{}{Nem.}
-{153}{}{Nem tudok segíteni. Mellesleg a San Francisco-i tudósaink többet tudhatnak. Meglátogathatná ?ket.}
-{154}{}{Megszabadítjuk a negatív pszichikai energiától. Ez az energia tartja magát elnyomó állapotban. Csak ezt követ?en válhat Megvilágosodottá!}
-{155}{}{A Neurodinok a test pszichikai központjai. A háborúban elhunytak spirituális maradványaitól szennyez?dnek. Pszi-energiájuk már a születéskor bevés?dik a neurodinjainkba és elnyomó állapotban tartanak bennünket. A Behangolás kitörli ezeket a bevés?déseket...}
-{156}{}{Amíg az agym?ködését negatív pszichikai behatások érik, az igazi spirituális képességei el vannak nyomva. Nagy baj, hogy az elnyomók képesek ezt az energiát továbbítani, kivéve, ha nagyon, de nagyon er?s akaratúak.}
-{157}{}{A Megvilágosodás akkor jön el, amikor az összes neurodinját behangolták. Ekkor válik BHK-vá, Behangolt Hub Keres?vé. Minden Hubologistának ez a vágya.}
+{153}{}{Nem tudok segÃ­teni. Mellesleg a San Francisco-i tudÃ³saink tÃ¶bbet tudhatnak. MeglÃ¡togathatnÃ¡ ?ket.}
+{154}{}{MegszabadÃ­tjuk a negatÃ­v pszichikai energiÃ¡tÃ³l. Ez az energia tartja magÃ¡t elnyomÃ³ Ã¡llapotban. Csak ezt kÃ¶vet?en vÃ¡lhat MegvilÃ¡gosodottÃ¡!}
+{155}{}{A Neurodinok a test pszichikai kÃ¶zpontjai. A hÃ¡borÃºban elhunytak spirituÃ¡lis maradvÃ¡nyaitÃ³l szennyez?dnek. Pszi-energiÃ¡juk mÃ¡r a szÃ¼letÃ©skor bevÃ©s?dik a neurodinjainkba Ã©s elnyomÃ³ Ã¡llapotban tartanak bennÃ¼nket. A BehangolÃ¡s kitÃ¶rli ezeket a bevÃ©s?dÃ©seket...}
+{156}{}{AmÃ­g az agym?kÃ¶dÃ©sÃ©t negatÃ­v pszichikai behatÃ¡sok Ã©rik, az igazi spirituÃ¡lis kÃ©pessÃ©gei el vannak nyomva. Nagy baj, hogy az elnyomÃ³k kÃ©pesek ezt az energiÃ¡t tovÃ¡bbÃ­tani, kivÃ©ve, ha nagyon, de nagyon er?s akaratÃºak.}
+{157}{}{A MegvilÃ¡gosodÃ¡s akkor jÃ¶n el, amikor az Ã¶sszes neurodinjÃ¡t behangoltÃ¡k. Ekkor vÃ¡lik BHK-vÃ¡, Behangolt Hub Keres?vÃ©. Minden HubologistÃ¡nak ez a vÃ¡gya.}
 {158}{}{Mik a neurodinok?}
-{159}{}{Megvilágosodott?}
-{160}{}{Mi ez az elnyomó állapot?}
-{161}{}{Hogy m?ködik ez a megtisztítás? Nem fáj?}
-{162}{}{Egyáltalán nem fáj. Csak átesik egy zéta-szkenen. Ha óhajtja, most megcsinálom.}
+{159}{}{MegvilÃ¡gosodott?}
+{160}{}{Mi ez az elnyomÃ³ Ã¡llapot?}
+{161}{}{Hogy m?kÃ¶dik ez a megtisztÃ­tÃ¡s? Nem fÃ¡j?}
+{162}{}{EgyÃ¡ltalÃ¡n nem fÃ¡j. Csak Ã¡tesik egy zÃ©ta-szkenen. Ha Ã³hajtja, most megcsinÃ¡lom.}
 {163}{}{Hogyne.}
 {164}{}{Dehogyis!}
-{165}{}{A Hubológia Egyháza azért létezik, hogy felszabadítsa az emberiséget azon láncok alól, mely rabságban tartja a kiteljesedni vágyó spiritualitását.}
-{166}{}{Ezt hogy viszik végbe?}
-{167}{}{Hát persze, valami olyasmi, hogy "Gyere, psziché, most szépen kimész bel?lem..." ugye?}
-{168}{}{Ilyen képességgel nem rendelkezem. Van valami, amiben segíthetnék? Egy behangolás esetleg?}
-{169}{}{Elfogadom a behangolást.}
-{170}{}{Információra volna szükségem. 13-as Menedék... mond ez magának valamit?}
-{171}{}{Hogy mennek a dolgok mostanában?}
-{172}{}{Ne is tör?djön vele! Nincsenek kemény gondolatok bennem. Ez minden.}
+{165}{}{A HubolÃ³gia EgyhÃ¡za azÃ©rt lÃ©tezik, hogy felszabadÃ­tsa az emberisÃ©get azon lÃ¡ncok alÃ³l, mely rabsÃ¡gban tartja a kiteljesedni vÃ¡gyÃ³ spiritualitÃ¡sÃ¡t.}
+{166}{}{Ezt hogy viszik vÃ©gbe?}
+{167}{}{HÃ¡t persze, valami olyasmi, hogy "Gyere, pszichÃ©, most szÃ©pen kimÃ©sz bel?lem..." ugye?}
+{168}{}{Ilyen kÃ©pessÃ©ggel nem rendelkezem. Van valami, amiben segÃ­thetnÃ©k? Egy behangolÃ¡s esetleg?}
+{169}{}{Elfogadom a behangolÃ¡st.}
+{170}{}{InformÃ¡ciÃ³ra volna szÃ¼ksÃ©gem. 13-as MenedÃ©k... mond ez magÃ¡nak valamit?}
+{171}{}{Hogy mennek a dolgok mostanÃ¡ban?}
+{172}{}{Ne is tÃ¶r?djÃ¶n vele! Nincsenek kemÃ©ny gondolatok bennem. Ez minden.}
 {173}{}{That's impressive. Though I believe we are speaking about two different things, it still sounds like you deserve an experience bonus.}
 {174}{}{Yes!!}
 {175}{}{It's done. Just remember though, there's more to life than gaining enough experience points to reach the next level. There's a whole "real" world out there.
  Now that we have that out of the way, shall we try again?}
 {176}{}{Transcendency? Honestly, how do they expect me to spread the word out here when they don't even keep me up-to-date on the latest doctrine!?}
-{177}{}{(Folytatás)}
-{178}{}{Maga aludt az betanítás során? Hmm... Maga nem tartozik a Megvilágosodottak közé!}
-{179}{}{Tehát azt állítja, hogy létezik egy magasabb hatalom, aki szándékosan hoz létre bennünket, aztán magunkra is hagy? Nem hiszem, hogy bármely lény ilyen érzéketlen lenne. Jöjjön, ölelje kebelére a Hubológia Egyházát! Hadd mutassuk meg az igaz utat!}
-{180}{}{Miféle igaz utat?}
-{181}{}{Kösz nem.}
-{182}{}{Az élete fölötti irányítás híján, mi az élet értelme? Bármit csinál, nem ér semmit. Önszántából kelt fel ma reggel? Nem, maga csak egy bábu, melyet a saját filozófiája rángat. Nálunk, a Hubologista Egyházban megtalálja az igaz választ.}
-{183}{}{Mégpedig?}
+{177}{}{(FolytatÃ¡s)}
+{178}{}{Maga aludt az betanÃ­tÃ¡s sorÃ¡n? Hmm... Maga nem tartozik a MegvilÃ¡gosodottak kÃ¶zÃ©!}
+{179}{}{TehÃ¡t azt Ã¡llÃ­tja, hogy lÃ©tezik egy magasabb hatalom, aki szÃ¡ndÃ©kosan hoz lÃ©tre bennÃ¼nket, aztÃ¡n magunkra is hagy? Nem hiszem, hogy bÃ¡rmely lÃ©ny ilyen Ã©rzÃ©ketlen lenne. JÃ¶jjÃ¶n, Ã¶lelje kebelÃ©re a HubolÃ³gia EgyhÃ¡zÃ¡t! Hadd mutassuk meg az igaz utat!}
+{180}{}{MifÃ©le igaz utat?}
+{181}{}{KÃ¶sz nem.}
+{182}{}{Az Ã©lete fÃ¶lÃ¶tti irÃ¡nyÃ­tÃ¡s hÃ­jÃ¡n, mi az Ã©let Ã©rtelme? BÃ¡rmit csinÃ¡l, nem Ã©r semmit. Ã–nszÃ¡ntÃ¡bÃ³l kelt fel ma reggel? Nem, maga csak egy bÃ¡bu, melyet a sajÃ¡t filozÃ³fiÃ¡ja rÃ¡ngat. NÃ¡lunk, a Hubologista EgyhÃ¡zban megtalÃ¡lja az igaz vÃ¡laszt.}
+{183}{}{MÃ©gpedig?}
 {184}{}{Biztos vagyok benne.}
-{185}{}{Jaj, milyen szomorú és üres filozófia ez! Még ha igaz is lenne, az egyetlen járható út az, ha saját magát fejleszti. Egyedül efölött van döntési joga. A Hubológia Egyháza segítséget tud nyújtani.}
+{185}{}{Jaj, milyen szomorÃº Ã©s Ã¼res filozÃ³fia ez! MÃ©g ha igaz is lenne, az egyetlen jÃ¡rhatÃ³ Ãºt az, ha sajÃ¡t magÃ¡t fejleszti. EgyedÃ¼l efÃ¶lÃ¶tt van dÃ¶ntÃ©si joga. A HubolÃ³gia EgyhÃ¡za segÃ­tsÃ©get tud nyÃºjtani.}
 {186}{}{Hogyan?}
-{187}{}{T?njön a szemem el?l!}
-{188}{}{13-as Menedék? A tudósaink nyakra-f?re keresték nyugati irányban. Ennyit tudok róla. Biztos benne, hogy nem akar egy behangolást?}
-{189}{}{Dehogynem, miért is ne...}
-{190}{}{Nem, köszönöm, jól megvagyok behangolatlanul is.}
-{191}{}{Elmondom magának, hogy a Hubológia tanainak hirdetése sokkal keményebb, mint azt gondolja! BHK-9 egyszer?en nem látja át a nehézségeket. Az a helyzet, hogy mindent papírra vetettem. Megkérhetném magát, hogy elvigyen egy levelet BHK-9 számára San Franciscóba? Nem tudok jutalmat ígérni, de tudom, hogy BHK-9 hálás lesz érte.}
-{192}{}{Persze, miért is ne?}
-{193}{}{Nem, köszönöm. Nem akarok belekeveredni ebbe.}
-{194}{}{Kiváló! Tessék, a levél. Tehetek még valamit magáért? Egy zéta-szkent esetleg?}
-{195}{}{Szkent? Miért ne?}
-{196}{}{Máris épp eleget tett. Minden jót!}
+{187}{}{T?njÃ¶n a szemem el?l!}
+{188}{}{13-as MenedÃ©k? A tudÃ³saink nyakra-f?re kerestÃ©k nyugati irÃ¡nyban. Ennyit tudok rÃ³la. Biztos benne, hogy nem akar egy behangolÃ¡st?}
+{189}{}{Dehogynem, miÃ©rt is ne...}
+{190}{}{Nem, kÃ¶szÃ¶nÃ¶m, jÃ³l megvagyok behangolatlanul is.}
+{191}{}{Elmondom magÃ¡nak, hogy a HubolÃ³gia tanainak hirdetÃ©se sokkal kemÃ©nyebb, mint azt gondolja! BHK-9 egyszer?en nem lÃ¡tja Ã¡t a nehÃ©zsÃ©geket. Az a helyzet, hogy mindent papÃ­rra vetettem. MegkÃ©rhetnÃ©m magÃ¡t, hogy elvigyen egy levelet BHK-9 szÃ¡mÃ¡ra San FranciscÃ³ba? Nem tudok jutalmat Ã­gÃ©rni, de tudom, hogy BHK-9 hÃ¡lÃ¡s lesz Ã©rte.}
+{192}{}{Persze, miÃ©rt is ne?}
+{193}{}{Nem, kÃ¶szÃ¶nÃ¶m. Nem akarok belekeveredni ebbe.}
+{194}{}{KivÃ¡lÃ³! TessÃ©k, a levÃ©l. Tehetek mÃ©g valamit magÃ¡Ã©rt? Egy zÃ©ta-szkent esetleg?}
+{195}{}{Szkent? MiÃ©rt ne?}
+{196}{}{MÃ¡ris Ã©pp eleget tett. Minden jÃ³t!}
 {197}{}{Then I've spoken too much already. Goodbye.}
-{198}{}{Üdvözlöm! Miben segíthet a Hubológia Egyháza?}
-{199}{}{<Nyáladzol>}
-{200}{}{Szóval maga a szálka Merk szemében...}
-{201}{}{Öö, nem igazán tudom, mir?l beszél.}
-{202}{}{Mit csinál ez az egyház?}
-{203}{}{Jaj... Rossz ajtót választottam.}
-{204}{}{Azzal, hogy megöl, semmilyen célt nem szolgál. Merk számára nem jelentek fenyegetést, csak a hitem miatt érez ellenszenvet irántam. Remélem, hogy nem tesz eleget a bérgyilkosságnak.}
-{205}{}{Igaz, ami igaz, elég ártalmatlannak t?nik.}
-{206}{}{Verje ki a fejéb?l! Maga csak egy újabb halott Hubologista.}
-{207}{}{Nincs id?m idióták számára. Kérem, menjen el!}
-{208}{}{Kifelé, hitehagyott!}
-{209}{}{Nem tud mit mondani, hogy a Hubológia Egyházától bocsánatot nyerjen, szentségtör?!}
-{210}{}{Hunyja be a szemét! Nem fog fájni.}
-{211}{}{Tessék. Kitöröltünk néhány csúnya bevés?dést! Maga mostantól BHK-1. Most pedig, ha megbocsát, intéznem kell az egyház ügyeit.}
-{212}{}{Üdvözlöm, keres? társam. Többet nem tehetek magáért. BHK-1-ként kell folytatnia a saját útját!}
-{213}{}{A templom zárva van. Jöjjön vissza holnap!}
-{214}{}{Szíves örömest segítenék, de még egy BHK-4-nek is kell aludnia. Jöjjön vissza napközben!}
-{215}{}{Behatoló! Meg akarja szentségteleníteni ezt a helyet? Kifelé!}
-{216}{}{Csodálatos, n?vérem! Tehát milyen szinten van?}
+{198}{}{ÃœdvÃ¶zlÃ¶m! Miben segÃ­thet a HubolÃ³gia EgyhÃ¡za?}
+{199}{}{<NyÃ¡ladzol>}
+{200}{}{SzÃ³val maga a szÃ¡lka Merk szemÃ©ben...}
+{201}{}{Ã–Ã¶, nem igazÃ¡n tudom, mir?l beszÃ©l.}
+{202}{}{Mit csinÃ¡l ez az egyhÃ¡z?}
+{203}{}{Jaj... Rossz ajtÃ³t vÃ¡lasztottam.}
+{204}{}{Azzal, hogy megÃ¶l, semmilyen cÃ©lt nem szolgÃ¡l. Merk szÃ¡mÃ¡ra nem jelentek fenyegetÃ©st, csak a hitem miatt Ã©rez ellenszenvet irÃ¡ntam. RemÃ©lem, hogy nem tesz eleget a bÃ©rgyilkossÃ¡gnak.}
+{205}{}{Igaz, ami igaz, elÃ©g Ã¡rtalmatlannak t?nik.}
+{206}{}{Verje ki a fejÃ©b?l! Maga csak egy Ãºjabb halott Hubologista.}
+{207}{}{Nincs id?m idiÃ³tÃ¡k szÃ¡mÃ¡ra. KÃ©rem, menjen el!}
+{208}{}{KifelÃ©, hitehagyott!}
+{209}{}{Nem tud mit mondani, hogy a HubolÃ³gia EgyhÃ¡zÃ¡tÃ³l bocsÃ¡natot nyerjen, szentsÃ©gtÃ¶r?!}
+{210}{}{Hunyja be a szemÃ©t! Nem fog fÃ¡jni.}
+{211}{}{TessÃ©k. KitÃ¶rÃ¶ltÃ¼nk nÃ©hÃ¡ny csÃºnya bevÃ©s?dÃ©st! Maga mostantÃ³l BHK-1. Most pedig, ha megbocsÃ¡t, intÃ©znem kell az egyhÃ¡z Ã¼gyeit.}
+{212}{}{ÃœdvÃ¶zlÃ¶m, keres? tÃ¡rsam. TÃ¶bbet nem tehetek magÃ¡Ã©rt. BHK-1-kÃ©nt kell folytatnia a sajÃ¡t ÃºtjÃ¡t!}
+{213}{}{A templom zÃ¡rva van. JÃ¶jjÃ¶n vissza holnap!}
+{214}{}{SzÃ­ves Ã¶rÃ¶mest segÃ­tenÃ©k, de mÃ©g egy BHK-4-nek is kell aludnia. JÃ¶jjÃ¶n vissza napkÃ¶zben!}
+{215}{}{BehatolÃ³! Meg akarja szentsÃ©gtelenÃ­teni ezt a helyet? KifelÃ©!}
+{216}{}{CsodÃ¡latos, n?vÃ©rem! TehÃ¡t milyen szinten van?}
 {217}{}{. I'm sure if I keep wandering and killing random creatures I'll hit level 99 in no time.}
-{218}{}{Amiért elboronáltad a Hubologista ügyét Merk számára, }
+{218}{}{AmiÃ©rt elboronÃ¡ltad a Hubologista Ã¼gyÃ©t Merk szÃ¡mÃ¡ra, }
 {219}{}{ experience points for "taking care of" the Hubologist for Merk.}

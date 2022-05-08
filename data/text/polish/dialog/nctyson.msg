@@ -1,33 +1,33 @@
 {100}{}{Widzisz boksera.}
-{101}{}{Widzisz Mike'a "Prze¿uwacza".}
-{150}{}{Jego ramiona wygl¹daj¹ jak trzy pniaki.}
-{151}{}{Ka¿de jego ramie wygl¹da jak lufa czo³gu.}
-{152}{}{Kiedy siê porusza to jak patrzeæ na ocean musku³ów.}
-{153}{}{Patrzy na twoje ucho wyg³odnia³ym wzrokiem.}
-{154}{}{Jego twarz wygl¹da jak surowy kawa³ miêsa.}
+{101}{}{Widzisz Mike'a "PrzeÅ¼uwacza".}
+{150}{}{Jego ramiona wyglÄ…dajÄ… jak trzy pniaki.}
+{151}{}{KaÅ¼de jego ramie wyglÄ…da jak lufa czoÅ‚gu.}
+{152}{}{Kiedy siÄ™ porusza to jak patrzeÄ‡ na ocean muskuÅ‚Ã³w.}
+{153}{}{Patrzy na twoje ucho wygÅ‚odniaÅ‚ym wzrokiem.}
+{154}{}{Jego twarz wyglÄ…da jak surowy kawaÅ‚ miÄ™sa.}
 {158}{}{Hargghhh}
 {159}{}{Gnhrrh}
-{160}{}{Mike zgnieœæ.}
-{161}{}{Bardzo lubiê lody waniliowe.}
+{160}{}{Mike zgnieÅ›Ä‡.}
+{161}{}{Bardzo lubiÄ™ lody waniliowe.}
 {162}{}{Gnarrrr}
 {163}{}{Nrrrarh}
-{164}{}{Mike lubiæ uszy.}
+{164}{}{Mike lubiÄ‡ uszy.}
 {165}{}{Uszy mmmmmmm.}
 {166}{}{Grrrrrr}
 {167}{}{Gr. Gr? Grrrrrrr.}
 {168}{}{Gr?}
 {169}{}{Rrrgggg}
-{170}{}{Ja jeœæ uszy.}
+{170}{}{Ja jeÅ›Ä‡ uszy.}
 {171}{}{Uszy mniam.}
 {172}{}{Gr... grrrgr?}
 {173}{}{Snrggg}
-{174}{}{Ja nie znosiæ Robbin' Givens.}
+{174}{}{Ja nie znosiÄ‡ Robbin' Givens.}
 {175}{}{Grrrrrgrrrrgrrr... grrr... grrr... grr! Grr! Grrr?}
-{176}{}{Co to jest "udzia³ procentowy"?}
-{200}{}{::Kiedy podchodzisz, Mike siê zas³ania.::}
+{176}{}{Co to jest "udziaÅ‚ procentowy"?}
+{200}{}{::Kiedy podchodzisz, Mike siÄ™ zasÅ‚ania.::}
 {201}{}{::Kiedy podchodzisz, Mike skomle.::}
-{202}{}{::Kiedy podchodzisz, Mike podnosi rêce w poddañczym geœcie.::}
-{203}{}{Ty s³odka.}
+{202}{}{::Kiedy podchodzisz, Mike podnosi rÄ™ce w poddaÅ„czym geÅ›cie.::}
+{203}{}{Ty sÅ‚odka.}
 {204}{}{Ja lubi twoja uszy.}
-{205}{}{Doœæ gadaæ. Czas do ³ó¿ka.}
+{205}{}{DoÅ›Ä‡ gadaÄ‡. Czas do Å‚Ã³Å¼ka.}
 {206}{}{Robin? To ty?}

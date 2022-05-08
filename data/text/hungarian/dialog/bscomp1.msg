@@ -1,6 +1,6 @@
-{100}{}{Egy számítógép-terminált látsz.}
-{101}{}{A könyvtár számítógép-terminálját látod.}
-{102}{}{Egy szabványos számítógép-terminált látsz. Úgy t?nik, m?köd?képes, és adatokat vár.}
-{103}{}{Belépsz a számítógépre, és gyorsan átnézed a fájlokat. Megtalálod a 13-as Menedék helyét, és lemásolod a PipBoyodra.}
-{104}{}{Nehézségeid vannak a fájlok elérésével.}
-{106}{}{A számítógép nem tartalmaz más hasznos információt a 13-as Menedék helyén kívül.}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz.}
+{101}{}{A kÃ¶nyvtÃ¡r szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡ljÃ¡t lÃ¡tod.}
+{102}{}{Egy szabvÃ¡nyos szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz. Ãšgy t?nik, m?kÃ¶d?kÃ©pes, Ã©s adatokat vÃ¡r.}
+{103}{}{BelÃ©psz a szÃ¡mÃ­tÃ³gÃ©pre, Ã©s gyorsan Ã¡tnÃ©zed a fÃ¡jlokat. MegtalÃ¡lod a 13-as MenedÃ©k helyÃ©t, Ã©s lemÃ¡solod a PipBoyodra.}
+{104}{}{NehÃ©zsÃ©geid vannak a fÃ¡jlok elÃ©rÃ©sÃ©vel.}
+{106}{}{A szÃ¡mÃ­tÃ³gÃ©p nem tartalmaz mÃ¡s hasznos informÃ¡ciÃ³t a 13-as MenedÃ©k helyÃ©n kÃ­vÃ¼l.}

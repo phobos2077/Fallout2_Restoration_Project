@@ -1,13 +1,13 @@
 {100}{}{Widzisz fana boksu. }
-{150}{}{Widzisz mê¿czyznê. Wrzeszczy z ca³ych si³ i wymachuje rêkami.}
-{151}{}{Widzisz fanatycznego mi³oœnika boksu. G³oœno domaga siê krwi.}
-{152}{}{Widzisz kobietê. Wrzeszczy z ca³ych si³ i wymachuje rêkami.}
-{153}{}{Widzisz fanatyczn¹ mi³oœniczkê boksu. G³oœno domaga siê krwi.}
+{150}{}{Widzisz mÄ™Å¼czyznÄ™. Wrzeszczy z caÅ‚ych siÅ‚ i wymachuje rÄ™kami.}
+{151}{}{Widzisz fanatycznego miÅ‚oÅ›nika boksu. GÅ‚oÅ›no domaga siÄ™ krwi.}
+{152}{}{Widzisz kobietÄ™. Wrzeszczy z caÅ‚ych siÅ‚ i wymachuje rÄ™kami.}
+{153}{}{Widzisz fanatycznÄ… miÅ‚oÅ›niczkÄ™ boksu. GÅ‚oÅ›no domaga siÄ™ krwi.}
 {200}{}{Taaaaaaaak!}
 {201}{}{::krzyk:: ::wrzask:: ::krzyk::}
 {202}{}{Zabij go, }
 {203}{}{Nie ma lepszych od ciebie, }
-{204}{}{Za³atw ich, }
+{204}{}{ZaÅ‚atw ich, }
 {205}{}{Tak! Rozwal mu ryj!}
 {206}{}{}
 {207}{}{}
@@ -17,19 +17,19 @@
 {211}{}{}
 {212}{}{}
 {213}{}{}
-{214}{}{Kocham ciê, }
+{214}{}{Kocham ciÄ™, }
 {215}{}{::pisk:: ::pisk::}
 {216}{}{}
 {250}{}{}
 {251}{}{}
 {252}{}{}
 {253}{}{Podobno }
-{254}{}{Obo¿ebo¿ebo¿e! }
-{255}{}{Walnij mnie! No walnij! S¹siedzi nie uwierz¹!}
+{254}{}{OboÅ¼eboÅ¼eboÅ¼e! }
+{255}{}{Walnij mnie! No walnij! SÄ…siedzi nie uwierzÄ…!}
 {256}{}{Nie ma lepszych od ciebie, }
 {257}{}{Zabij go, }
 {258}{}{Nie ma lepszych od ciebie, }
-{259}{}{Za³atw ich, }
+{259}{}{ZaÅ‚atw ich, }
 {260}{}{Tak! Rozwal mu ryj!}
 {261}{}{}
 {262}{}{}
@@ -37,24 +37,24 @@
 {264}{}{::krzyk:: ::wrzask:: ::krzyk::}
 {265}{}{}
 {266}{}{}
-{267}{}{masz wiêcej pary ni¿ Robbin' Givens!}
+{267}{}{masz wiÄ™cej pary niÅ¼ Robbin' Givens!}
 {268}{}{}
 {269}{}{}
 {270}{}{}
 {271}{}{Podobno }
-{280}{}{Buziaka na szczêœcie?}
+{280}{}{Buziaka na szczÄ™Å›cie?}
 {281}{}{}
 {282}{}{}
 {283}{}{}
 {284}{}{}
 {285}{}{}
 {286}{}{Podobno }
-{287}{}{Obo¿ebo¿ebo¿e! }
-{288}{}{Walnij mnie! No walnij! S¹siedzi nie uwierz¹!}
-{289}{}{Nie masz sobie równych }
+{287}{}{OboÅ¼eboÅ¼eboÅ¼e! }
+{288}{}{Walnij mnie! No walnij! SÄ…siedzi nie uwierzÄ…!}
+{289}{}{Nie masz sobie rÃ³wnych }
 {290}{}{Zabij go, }
 {291}{}{Nie ma lepszych od ciebie, }
-{292}{}{Za³atw ich, }
+{292}{}{ZaÅ‚atw ich, }
 {293}{}{Tak! Rozwal mu ryj!}
 {294}{}{}
 {295}{}{}
@@ -62,130 +62,130 @@
 {297}{}{::pisk:: ::pisk::}
 {298}{}{}
 {299}{}{}
-{300}{}{masz wiêcej pary ni¿ Robbin' Givens!}
+{300}{}{masz wiÄ™cej pary niÅ¼ Robbin' Givens!}
 {301}{}{}
 {302}{}{}
 {303}{}{}
 {304}{}{Podobno }
-{320}{}{ zabije ka¿dego, kto mu stanie na drodze!}
-{321}{}{ nie ma sobie równych i basta.}
+{320}{}{ zabije kaÅ¼dego, kto mu stanie na drodze!}
+{321}{}{ nie ma sobie rÃ³wnych i basta.}
 {322}{}{!!!}
 {323}{}{ to prawdziwy mistrz!}
-{324}{}{ to najwspanialszy mistrz bokserski jakiego dane mi by³o ogl¹daæ.}
-{325}{}{ wie jak zrobiæ, ¿eby bola³o.}
-{326}{}{ dba o swoich fanów. Nie zabija ich... czego nie mo¿na powiedzieæ o innych bokserach.}
+{324}{}{ to najwspanialszy mistrz bokserski jakiego dane mi byÅ‚o oglÄ…daÄ‡.}
+{325}{}{ wie jak zrobiÄ‡, Å¼eby bolaÅ‚o.}
+{326}{}{ dba o swoich fanÃ³w. Nie zabija ich... czego nie moÅ¼na powiedzieÄ‡ o innych bokserach.}
 {327}{}{ jest taki przystojny.}
-{328}{}{ jest czu³y a jednoczeœnie mêski. Tak mi wczoraj powiedzia³.}
+{328}{}{ jest czuÅ‚y a jednoczeÅ›nie mÄ™ski. Tak mi wczoraj powiedziaÅ‚.}
 {350}{}{}
-{351}{}{Mam w domu s³oik z twoim potem. Na pami¹tkê!}
-{352}{}{Obo¿ebo¿ebo¿e! }
-{353}{}{Walnij mnie! No walnij! S¹siedzi nie uwierz¹!}
-{354}{}{Nie masz sobie równych }
+{351}{}{Mam w domu sÅ‚oik z twoim potem. Na pamiÄ…tkÄ™!}
+{352}{}{OboÅ¼eboÅ¼eboÅ¼e! }
+{353}{}{Walnij mnie! No walnij! SÄ…siedzi nie uwierzÄ…!}
+{354}{}{Nie masz sobie rÃ³wnych }
 {355}{}{Nie ma lepszych od ciebie, }
-{356}{}{Za³atw ich, }
+{356}{}{ZaÅ‚atw ich, }
 {357}{}{}
 {358}{}{}
 {359}{}{Taaaaaaaak!}
 {360}{}{}
 {361}{}{}
 {362}{}{}
-{363}{}{Podobno przed rozpoczêciem twojej kariery bokserskiej w New Reno nikt ciê tu wczeœniej nie zna³. Sk¹d jesteœ?}
+{363}{}{Podobno przed rozpoczÄ™ciem twojej kariery bokserskiej w New Reno nikt ciÄ™ tu wczeÅ›niej nie znaÅ‚. SkÄ…d jesteÅ›?}
 {364}{}{}
-{365}{}{masz wiêcej pary ni¿ Robbin' Givens!}
+{365}{}{masz wiÄ™cej pary niÅ¼ Robbin' Givens!}
 {366}{}{}
-{380}{}{Buziaka na szczêœcie?}
+{380}{}{Buziaka na szczÄ™Å›cie?}
 {381}{}{}
 {382}{}{}
-{383}{}{::Prawie mdleje na twój widok::}
-{384}{}{Mam w domu s³oik z twoim potem. Na pami¹tkê!}
-{385}{}{Obo¿ebo¿ebo¿e! }
-{386}{}{Walnij mnie! No walnij! S¹siedzi nie uwierz¹!}
-{387}{}{Nie masz sobie równych }
+{383}{}{::Prawie mdleje na twÃ³j widok::}
+{384}{}{Mam w domu sÅ‚oik z twoim potem. Na pamiÄ…tkÄ™!}
+{385}{}{OboÅ¼eboÅ¼eboÅ¼e! }
+{386}{}{Walnij mnie! No walnij! SÄ…siedzi nie uwierzÄ…!}
+{387}{}{Nie masz sobie rÃ³wnych }
 {388}{}{Zabij ich, !}
 {389}{}{Nie ma lepszych od ciebie, }
-{390}{}{Za³atw ich, }
+{390}{}{ZaÅ‚atw ich, }
 {391}{}{.}
 {392}{}{}
 {393}{}{Aiiii!}
 {394}{}{}
 {395}{}{}
 {396}{}{}
-{397}{}{Podobno przed rozpoczêciem twojej kariery bokserskiej w New Reno nikt ciê tu wczeœniej nie zna³. Sk¹d jesteœ?}
+{397}{}{Podobno przed rozpoczÄ™ciem twojej kariery bokserskiej w New Reno nikt ciÄ™ tu wczeÅ›niej nie znaÅ‚. SkÄ…d jesteÅ›?}
 {398}{}{}
-{399}{}{masz wiêcej pary ni¿ Robbin' Givens!}
+{399}{}{masz wiÄ™cej pary niÅ¼ Robbin' Givens!}
 {400}{}{}
 {1202}{}{!}
 {1203}{}{!}
 {1204}{}{!}
-{1206}{}{ nie ma sobie równych i basta.}
+{1206}{}{ nie ma sobie rÃ³wnych i basta.}
 {1207}{}{!!!}
-{1208}{}{, jesteœ boski!}
-{1209}{}{ to najwspanialszy mistrz bokserski jakiego dane mi by³o ogl¹daæ.}
-{1210}{}{ wie jak zrobiæ, ¿eby bola³o.}
-{1211}{}{ dba o swoich fanów. Nie zabija ich... czego nie mo¿na powiedzieæ o innych bokserach.}
+{1208}{}{, jesteÅ› boski!}
+{1209}{}{ to najwspanialszy mistrz bokserski jakiego dane mi byÅ‚o oglÄ…daÄ‡.}
+{1210}{}{ wie jak zrobiÄ‡, Å¼eby bolaÅ‚o.}
+{1211}{}{ dba o swoich fanÃ³w. Nie zabija ich... czego nie moÅ¼na powiedzieÄ‡ o innych bokserach.}
 {1212}{}{ jest taki przystojny.}
-{1213}{}{ jest taki mêski.}
+{1213}{}{ jest taki mÄ™ski.}
 {1214}{}{ Ajjj!}
-{1216}{}{ jest czu³y a jednoczeœnie mêski. Tak mi wczoraj powiedzia³.}
-{1250}{}{, jesteœ boski!}
-{1251}{}{ wie jak zrobiæ, ¿eby bola³o.}
-{1252}{}{ dba o swoich fanów. Nie zabija ich... czego nie mo¿na powiedzieæ o innych bokserach.}
-{1253}{}{ przed rozpoczêciem kariery w Nowym Reno, by³ postrachem pustkowi. Tajemniczy i Zabójczy!}
-{1254}{}{! Dasz mi swój autograf?!}
-{1256}{}{! Spuœæ im baty !}
+{1216}{}{ jest czuÅ‚y a jednoczeÅ›nie mÄ™ski. Tak mi wczoraj powiedziaÅ‚.}
+{1250}{}{, jesteÅ› boski!}
+{1251}{}{ wie jak zrobiÄ‡, Å¼eby bolaÅ‚o.}
+{1252}{}{ dba o swoich fanÃ³w. Nie zabija ich... czego nie moÅ¼na powiedzieÄ‡ o innych bokserach.}
+{1253}{}{ przed rozpoczÄ™ciem kariery w Nowym Reno, byÅ‚ postrachem pustkowi. Tajemniczy i ZabÃ³jczy!}
+{1254}{}{! Dasz mi swÃ³j autograf?!}
+{1256}{}{! SpuÅ›Ä‡ im baty !}
 {1257}{}{!}
 {1258}{}{!}
 {1259}{}{!}
-{1261}{}{, ring to twoje królestwo!}
+{1261}{}{, ring to twoje krÃ³lestwo!}
 {1262}{}{!!!}
-{1265}{}{ to najwspanialszy mistrz bokserski jakiego dane mi by³o ogl¹daæ.}
-{1266}{}{, jesteœ najtwardsz¹ kobiet¹ w dziejach ludzkoœci!}
-{1268}{}{, ale z ciebie ¿elazna baba!}
-{1269}{}{ ma równo pod sufitem. Wie jak biæ, ¿eby bola³o.}
-{1270}{}{ dba o swoich fanów. Nie zabija ich, czego nie mo¿na powiedzieæ o innych bokserach.}
-{1271}{}{ trafi³a do Nowego Reno w³óczy³a siê gdzieœ po pustkowiach. Jest taka... zagadkowa!}
-{1281}{}{, jesteœ boski!}
+{1265}{}{ to najwspanialszy mistrz bokserski jakiego dane mi byÅ‚o oglÄ…daÄ‡.}
+{1266}{}{, jesteÅ› najtwardszÄ… kobietÄ… w dziejach ludzkoÅ›ci!}
+{1268}{}{, ale z ciebie Å¼elazna baba!}
+{1269}{}{ ma rÃ³wno pod sufitem. Wie jak biÄ‡, Å¼eby bolaÅ‚o.}
+{1270}{}{ dba o swoich fanÃ³w. Nie zabija ich, czego nie moÅ¼na powiedzieÄ‡ o innych bokserach.}
+{1271}{}{ trafiÅ‚a do Nowego Reno wÅ‚Ã³czyÅ‚a siÄ™ gdzieÅ› po pustkowiach. Jest taka... zagadkowa!}
+{1281}{}{, jesteÅ› boski!}
 {1282}{}{ jest taki przystojny.}
-{1283}{}{ jest zbudowany jak czo³g!}
-{1284}{}{ wie jak zrobiæ, ¿eby bola³o.}
-{1285}{}{ dba o swoich fanów. Nie zabija ich... czego nie mo¿na powiedzieæ o innych bokserach.}
-{1286}{}{ przyby³ do Nowego Reno, by³ prawie nieznanym i ca³kiem nieobytym dzikusem. Ale¿ on jest tajemniczy! I zabójczy!}
-{1287}{}{! Dasz mi swój autograf?!}
-{1289}{}{! Spuœæ im baty !}
+{1283}{}{ jest zbudowany jak czoÅ‚g!}
+{1284}{}{ wie jak zrobiÄ‡, Å¼eby bolaÅ‚o.}
+{1285}{}{ dba o swoich fanÃ³w. Nie zabija ich... czego nie moÅ¼na powiedzieÄ‡ o innych bokserach.}
+{1286}{}{ przybyÅ‚ do Nowego Reno, byÅ‚ prawie nieznanym i caÅ‚kiem nieobytym dzikusem. AleÅ¼ on jest tajemniczy! I zabÃ³jczy!}
+{1287}{}{! Dasz mi swÃ³j autograf?!}
+{1289}{}{! SpuÅ›Ä‡ im baty !}
 {1290}{}{!}
 {1291}{}{!}
 {1292}{}{!}
-{1294}{}{, ring to twoje królestwo!}
+{1294}{}{, ring to twoje krÃ³lestwo!}
 {1295}{}{!!!}
-{1298}{}{ to najwspanialszy mistrz bokserski jakiego dane mi by³o ogl¹daæ.}
-{1299}{}{, jesteœ najtwardsz¹ kobiet¹ w dziejach ludzkoœci!}
-{1301}{}{, ale z ciebie ¿elazna baba!}
-{1302}{}{ ma równo pod sufitem. Wie jak biæ, ¿eby bola³o.}
-{1303}{}{ dba o swoich fanów. Nie zabija ich, czego nie mo¿na powiedzieæ o innych bokserach.}
-{1304}{}{ trafi³a do Nowego Reno w³óczy³a siê gdzieœ po pustkowiach. Jest taka... zagadkowa!}
-{1350}{}{, jesteœ boski!}
-{1352}{}{! Dasz mi swój autograf?!}
-{1354}{}{! Spuœæ im baty !}
+{1298}{}{ to najwspanialszy mistrz bokserski jakiego dane mi byÅ‚o oglÄ…daÄ‡.}
+{1299}{}{, jesteÅ› najtwardszÄ… kobietÄ… w dziejach ludzkoÅ›ci!}
+{1301}{}{, ale z ciebie Å¼elazna baba!}
+{1302}{}{ ma rÃ³wno pod sufitem. Wie jak biÄ‡, Å¼eby bolaÅ‚o.}
+{1303}{}{ dba o swoich fanÃ³w. Nie zabija ich, czego nie moÅ¼na powiedzieÄ‡ o innych bokserach.}
+{1304}{}{ trafiÅ‚a do Nowego Reno wÅ‚Ã³czyÅ‚a siÄ™ gdzieÅ› po pustkowiach. Jest taka... zagadkowa!}
+{1350}{}{, jesteÅ› boski!}
+{1352}{}{! Dasz mi swÃ³j autograf?!}
+{1354}{}{! SpuÅ›Ä‡ im baty !}
 {1355}{}{!}
 {1356}{}{!}
-{1357}{}{, ring to twoje królestwo!}
+{1357}{}{, ring to twoje krÃ³lestwo!}
 {1358}{}{!!!}
-{1360}{}{, jesteœ najlepszym bokserem jakiego w ¿yciu widzia³em.}
-{1361}{}{, ty to wiesz jak komuœ przywaliæ!}
-{1362}{}{, ty to naprawdê dbasz o swoich fanów. Nie zabijasz ich, jak inni bokserzy.}
-{1364}{}{, jesteœ najtwardsz¹ kobiet¹ w dziejach ludzkoœci!}
-{1366}{}{, ale z ciebie ¿elazna baba!}
-{1381}{}{, jesteœ boski!}
-{1382}{}{, jesteœ taaaaki przystojny!}
-{1385}{}{! Dasz mi swój autograf?!}
-{1387}{}{! Spuœæ im baty !}
+{1360}{}{, jesteÅ› najlepszym bokserem jakiego w Å¼yciu widziaÅ‚em.}
+{1361}{}{, ty to wiesz jak komuÅ› przywaliÄ‡!}
+{1362}{}{, ty to naprawdÄ™ dbasz o swoich fanÃ³w. Nie zabijasz ich, jak inni bokserzy.}
+{1364}{}{, jesteÅ› najtwardszÄ… kobietÄ… w dziejach ludzkoÅ›ci!}
+{1366}{}{, ale z ciebie Å¼elazna baba!}
+{1381}{}{, jesteÅ› boski!}
+{1382}{}{, jesteÅ› taaaaki przystojny!}
+{1385}{}{! Dasz mi swÃ³j autograf?!}
+{1387}{}{! SpuÅ›Ä‡ im baty !}
 {1388}{}{!}
 {1389}{}{!}
 {1390}{}{!}
-{1391}{}{, ring to twoje królestwo!}
+{1391}{}{, ring to twoje krÃ³lestwo!}
 {1392}{}{!!!}
-{1394}{}{, jesteœ najlepszym bokserem jakiego w ¿yciu widzia³em.}
-{1395}{}{, ty to wiesz jak komuœ przywaliæ!}
-{1396}{}{, ty to naprawdê dbasz o swoich fanów. Nie zabijasz ich, jak inni bokserzy.}
-{1398}{}{, jesteœ najtwardsz¹ kobiet¹ w dziejach ludzkoœci!}
-{1400}{}{, ale z ciebie ¿elazna baba!}
+{1394}{}{, jesteÅ› najlepszym bokserem jakiego w Å¼yciu widziaÅ‚em.}
+{1395}{}{, ty to wiesz jak komuÅ› przywaliÄ‡!}
+{1396}{}{, ty to naprawdÄ™ dbasz o swoich fanÃ³w. Nie zabijasz ich, jak inni bokserzy.}
+{1398}{}{, jesteÅ› najtwardszÄ… kobietÄ… w dziejach ludzkoÅ›ci!}
+{1400}{}{, ale z ciebie Å¼elazna baba!}

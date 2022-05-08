@@ -1,14 +1,14 @@
-{100}{}{Sikeresen kinyitottad a zárat.}
-{101}{}{Nem sikerült kinyitnod a zárat.}
-{102}{}{Sikeresen bezártad.}
-{103}{}{Nem sikerült bezárnod.}
-{200}{}{ sikeresen kinyitotta a zárat.}
-{201}{}{ képtelen kinyitnia a zárat.}
-{202}{}{ sikeresen bezárta.}
-{203}{}{ képtelen bezárni.}
-{300}{}{A robbanás megsemmisítette a zárat.}
+{100}{}{Sikeresen kinyitottad a zÃ¡rat.}
+{101}{}{Nem sikerÃ¼lt kinyitnod a zÃ¡rat.}
+{102}{}{Sikeresen bezÃ¡rtad.}
+{103}{}{Nem sikerÃ¼lt bezÃ¡rnod.}
+{200}{}{ sikeresen kinyitotta a zÃ¡rat.}
+{201}{}{ kÃ©ptelen kinyitnia a zÃ¡rat.}
+{202}{}{ sikeresen bezÃ¡rta.}
+{203}{}{ kÃ©ptelen bezÃ¡rni.}
+{300}{}{A robbanÃ¡s megsemmisÃ­tette a zÃ¡rat.}
 {301}{}{The explosion fails to remove the lock from the object.}
-{400}{}{Sikeresen kifeszítetted a zárat.}
-{401}{}{Képtelen vagy kifeszíteni a zárat.}
-{500}{}{ sikeresen kifeszítette a zárat.}
-{501}{}{ képtelen kifeszíteni a zárat.}
+{400}{}{Sikeresen kifeszÃ­tetted a zÃ¡rat.}
+{401}{}{KÃ©ptelen vagy kifeszÃ­teni a zÃ¡rat.}
+{500}{}{ sikeresen kifeszÃ­tette a zÃ¡rat.}
+{501}{}{ kÃ©ptelen kifeszÃ­teni a zÃ¡rat.}

@@ -1,2 +1,2 @@
-{100}{}{Вы запустили killap's Fallout 2 Restoration Project. Version 2.3.3u. Спасибо за установку!}
-{101}{}{Вы запустили killap's Fallout 2 Restoration Project. Version 2.3.3u. Спасибо за установку!}
+{100}{}{Р’С‹ Р·Р°РїСѓСЃС‚РёР»Рё killap's Fallout 2 Restoration Project. Version 2.3.3u. РЎРїР°СЃРёР±Рѕ Р·Р° СѓСЃС‚Р°РЅРѕРІРєСѓ!}
+{101}{}{Р’С‹ Р·Р°РїСѓСЃС‚РёР»Рё killap's Fallout 2 Restoration Project. Version 2.3.3u. РЎРїР°СЃРёР±Рѕ Р·Р° СѓСЃС‚Р°РЅРѕРІРєСѓ!}

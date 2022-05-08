@@ -3,7 +3,7 @@
 {110}{}{Du siehst einen Hubologen.}
 {111}{}{Er starrt auf die verschiedenen Computer vor ihm.}
 {200}{}{Wir sind AHS-9 treu ergeben.}
-{201}{}{Der Sternenvater wacht über uns.}
+{201}{}{Der Sternenvater wacht Ã¼ber uns.}
 {202}{}{Es ist langweilig, aber es ist unsere Aufgabe auf die Spenden zu achten.}
-{203}{}{Grüße Freund.}
+{203}{}{GrÃ¼ÃŸe Freund.}
 {300}{}{Fass hier ja nichts an.}

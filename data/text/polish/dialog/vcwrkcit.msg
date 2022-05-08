@@ -1,64 +1,64 @@
-{100}{}{Widzisz Obywatela w jasnoniebieskim kombinezonie. Wygl¹da jak zwyk³y ubiór mieszkañca Krypty, ale na plecach brakuje numeru.}
+{100}{}{Widzisz Obywatela w jasnoniebieskim kombinezonie. WyglÄ…da jak zwykÅ‚y ubiÃ³r mieszkaÅ„ca Krypty, ale na plecach brakuje numeru.}
 {101}{}{Widzisz Obywatela Kryptopolis.}
-{102}{}{Widzisz Obywatela w jasnoniebieskim kombinezonie. Wygl¹da jak zwyk³y ubiór mieszkañca Krypty, ale na plecach brakuje numeru.}
+{102}{}{Widzisz Obywatela w jasnoniebieskim kombinezonie. WyglÄ…da jak zwykÅ‚y ubiÃ³r mieszkaÅ„ca Krypty, ale na plecach brakuje numeru.}
 {103}{}{::klaszcze::}
 {104}{}{To nasz wybawca! Patrzcie!}
 {105}{}{A niech mnie! Legenda Pustkowi tutaj, w Kryptopolis!}
-{106}{}{Dzieñ dobry, Kapitanie.}
+{106}{}{DzieÅ„ dobry, Kapitanie.}
 {107}{}{Kryptopolis na wieki, Kapitanie.}
-{108}{}{Dzieñ dobry, Obywatelu.}
+{108}{}{DzieÅ„ dobry, Obywatelu.}
 {109}{}{Kryptopolis ponad wszystkim, Obywatelu.}
-{110}{}{Mutant! Stra¿! Stra¿!}
-{111}{}{Ghul! Stra¿! Stra¿!}
-{112}{}{Jak uda³o ci siê tu dostaæ za mury?}
-{113}{}{Przepraszam, czy masz Dzienn¹ Przepustkê? }
-{114}{}{Hmmmph. Nastêpny obcy.}
-{115}{}{Wygl¹da na to, ¿e coraz wiêcej obcych znajduje drogê do wnêtrza miasta...}
-{116}{}{Mam nadziejê, ¿e masz Dzienn¹ Przepustkê.}
-{117}{}{Wygl¹da na to, ¿e wydaj¹ teraz Dzienne Przepustki absolutnie *ka¿demu* obcemu...}
-{118}{}{S³yszeliœmy o twoich wspania³ych wyczynach. To zadziwiaj¹ce, ¿e chcia³o ci siê ryzykowaæ ¿ycie dla Kryptopolis... i ca³ego œwiata.}
-{119}{}{Twoja walka z Enklawa zrobi³a wra¿enie nawet na Pierwszym Obywatelu.}
-{120}{}{Podobno uda³o ci siê dotrzeæ do samego San... Fran... Cisco. Czy to prawda?}
-{121}{}{Mo¿e Kryptopolis *powinno* otworzyæ siê na obcych. }
-{122}{}{Czy to prawda, ¿e stary rz¹d nadal prowadzi³ wojnê?}
-{123}{}{Spisz raport ze swoich podró¿y i zapisz go w komputerze Kryptopolis.}
-{124}{}{Mo¿esz tu zostaæ tak d³ugo, jak tylko zechcesz.}
-{125}{}{Musisz jakoœ opublikowaæ dzieje swojej krucjaty przeciw Enklawie.}
+{110}{}{Mutant! StraÅ¼! StraÅ¼!}
+{111}{}{Ghul! StraÅ¼! StraÅ¼!}
+{112}{}{Jak udaÅ‚o ci siÄ™ tu dostaÄ‡ za mury?}
+{113}{}{Przepraszam, czy masz DziennÄ… PrzepustkÄ™? }
+{114}{}{Hmmmph. NastÄ™pny obcy.}
+{115}{}{WyglÄ…da na to, Å¼e coraz wiÄ™cej obcych znajduje drogÄ™ do wnÄ™trza miasta...}
+{116}{}{Mam nadziejÄ™, Å¼e masz DziennÄ… PrzepustkÄ™.}
+{117}{}{WyglÄ…da na to, Å¼e wydajÄ… teraz Dzienne Przepustki absolutnie *kaÅ¼demu* obcemu...}
+{118}{}{SÅ‚yszeliÅ›my o twoich wspaniaÅ‚ych wyczynach. To zadziwiajÄ…ce, Å¼e chciaÅ‚o ci siÄ™ ryzykowaÄ‡ Å¼ycie dla Kryptopolis... i caÅ‚ego Å›wiata.}
+{119}{}{Twoja walka z Enklawa zrobiÅ‚a wraÅ¼enie nawet na Pierwszym Obywatelu.}
+{120}{}{Podobno udaÅ‚o ci siÄ™ dotrzeÄ‡ do samego San... Fran... Cisco. Czy to prawda?}
+{121}{}{MoÅ¼e Kryptopolis *powinno* otworzyÄ‡ siÄ™ na obcych. }
+{122}{}{Czy to prawda, Å¼e stary rzÄ…d nadal prowadziÅ‚ wojnÄ™?}
+{123}{}{Spisz raport ze swoich podrÃ³Å¼y i zapisz go w komputerze Kryptopolis.}
+{124}{}{MoÅ¼esz tu zostaÄ‡ tak dÅ‚ugo, jak tylko zechcesz.}
+{125}{}{Musisz jakoÅ› opublikowaÄ‡ dzieje swojej krucjaty przeciw Enklawie.}
 {126}{}{*Ziewa*... hmnnn? Tak? O co chodzi?}
-{127}{}{Jest trochê za póŸno na goœci. }
-{128}{}{PORZ¥DNI ludzie œpi¹ ju¿ o tej porze.}
-{129}{}{Czy œpiê? Nie, ju¿ nie.}
-{130}{}{B³agam... wróæ rano. Jutro czeka mnie bardzo ciê¿ki dzieñ.}
-{131}{}{Dzieñ dobry, Kapitanie.}
+{127}{}{Jest trochÄ™ za pÃ³Åºno na goÅ›ci. }
+{128}{}{PORZÄ„DNI ludzie Å›piÄ… juÅ¼ o tej porze.}
+{129}{}{Czy Å›piÄ™? Nie, juÅ¼ nie.}
+{130}{}{BÅ‚agam... wrÃ³Ä‡ rano. Jutro czeka mnie bardzo ciÄ™Å¼ki dzieÅ„.}
+{131}{}{DzieÅ„ dobry, Kapitanie.}
 {132}{}{Kryptopolis na wieki, Kapitanie.}
-{133}{}{Przynieœæ panu p¹czka, Kapitanie?}
-{134}{}{Coœ siê sta³o, Kapitanie?}
-{135}{}{Mam nadziejê, ¿e ci cholerni obcy nie sprawiaj¹ ¿adnych k³opotów, Kapitanie?}
-{136}{}{Czy zna pan jakieœ historie o zewnêtrznym œwiecie, Kapitanie?}
-{137}{}{Dzieñ dobry, Obywatelu.}
+{133}{}{PrzynieÅ›Ä‡ panu pÄ…czka, Kapitanie?}
+{134}{}{CoÅ› siÄ™ staÅ‚o, Kapitanie?}
+{135}{}{Mam nadziejÄ™, Å¼e ci cholerni obcy nie sprawiajÄ… Å¼adnych kÅ‚opotÃ³w, Kapitanie?}
+{136}{}{Czy zna pan jakieÅ› historie o zewnÄ™trznym Å›wiecie, Kapitanie?}
+{137}{}{DzieÅ„ dobry, Obywatelu.}
 {138}{}{Kryptopolis ponad wszystkim, Obywatelu.}
-{139}{}{Czujê siê podwójnie dobrze. A ty?}
-{140}{}{Sporz¹dzanie raportów jest czêœci¹ moich obywatelskich obowi¹zków.}
-{141}{}{Spêdzam wiêkszoœæ dnia na robieniu wykazów dla Prokonsula, a potem na sprawdzaniu ich. Uwielbiam robiæ wykazy.}
-{142}{}{Pracujê w Biurze Raportów podobnie jak wiêkszoœæ Obywateli. Ludzie z Kryptopolis uwielbiaj¹ pisaæ raporty.}
-{143}{}{Spêdzi³em wiêkszoœæ dzisiejszego dnia na poprawianiu tego wykazu dla Biura Wykazów. To by³a dobra, uczciwa, produktywna praca.}
-{144}{}{Podobno uda³o ci siê odwiedziæ du¿¹ czêœæ zewnêtrznego œwiata. Jak ci siê uda³o przetrwaæ wœród tych plugawych obcych?}
+{139}{}{CzujÄ™ siÄ™ podwÃ³jnie dobrze. A ty?}
+{140}{}{SporzÄ…dzanie raportÃ³w jest czÄ™Å›ciÄ… moich obywatelskich obowiÄ…zkÃ³w.}
+{141}{}{SpÄ™dzam wiÄ™kszoÅ›Ä‡ dnia na robieniu wykazÃ³w dla Prokonsula, a potem na sprawdzaniu ich. Uwielbiam robiÄ‡ wykazy.}
+{142}{}{PracujÄ™ w Biurze RaportÃ³w podobnie jak wiÄ™kszoÅ›Ä‡ Obywateli. Ludzie z Kryptopolis uwielbiajÄ… pisaÄ‡ raporty.}
+{143}{}{SpÄ™dziÅ‚em wiÄ™kszoÅ›Ä‡ dzisiejszego dnia na poprawianiu tego wykazu dla Biura WykazÃ³w. To byÅ‚a dobra, uczciwa, produktywna praca.}
+{144}{}{Podobno udaÅ‚o ci siÄ™ odwiedziÄ‡ duÅ¼Ä… czÄ™Å›Ä‡ zewnÄ™trznego Å›wiata. Jak ci siÄ™ udaÅ‚o przetrwaÄ‡ wÅ›rÃ³d tych plugawych obcych?}
 {145}{}{Och! Nowy Obywatel. Witamy w Kryptopolis.}
 {146}{}{Szukasz miejsca do spania?}
 {147}{}{Rada zawsze dba o nasze potrzeby.}
-{148}{}{Staramy siê utrzymywaæ nasze piêkne miasto w czystoœci.}
-{149}{}{S³u¿¹cy? Och, u¿ywamy ich do czarnej roboty.}
-{150}{}{Wczorajsze zebranie Rady by³o bardzo produktywne. Zrobiliœmy mnóstwo wykazów. Tu, w Kryptopolis, uwielbiamy robiæ wykazy.}
+{148}{}{Staramy siÄ™ utrzymywaÄ‡ nasze piÄ™kne miasto w czystoÅ›ci.}
+{149}{}{SÅ‚uÅ¼Ä…cy? Och, uÅ¼ywamy ich do czarnej roboty.}
+{150}{}{Wczorajsze zebranie Rady byÅ‚o bardzo produktywne. ZrobiliÅ›my mnÃ³stwo wykazÃ³w. Tu, w Kryptopolis, uwielbiamy robiÄ‡ wykazy.}
 {151}{}{Tak?}
-{152}{}{Czy mogê ci w czymœ pomóc... obcy?}
-{153}{}{Przepraszam, czy coœ mówi³eœ?}
-{154}{}{Ja? Wracam do swoich spraw. Ty równie¿ to zrób.}
-{155}{}{Czy mogê zobaczyæ twoj¹ Dzienn¹ Przepustkê?}
-{156}{}{Och... przepraszam, moja pomy³ka. Wygl¹dasz zupe³nie jak S³u¿¹cy.}
-{157}{}{Naprawdê nie mam teraz czasu na rozmowê z obcymi. Proszê zostawiæ mnie w spokoju.}
-{158}{}{Czy mo¿esz zachowaæ tê odleg³oœæ?}
-{159}{}{Proszê tam stan¹æ.}
-{160}{}{S³u¿¹cy pozwalaj¹ nam zaj¹æ siê bardziej istotnymi sprawami. G³ównie robieniem wykazów.}
-{161}{}{S³u¿¹cy? Och, u¿ywamy ich do czarnej roboty.}
-{162}{}{Tak, czuje... ee, widzê, ¿e jesteœ obcy.}
-{163}{}{Nie jesteœ Obywatelem? To widaæ.}
+{152}{}{Czy mogÄ™ ci w czymÅ› pomÃ³c... obcy?}
+{153}{}{Przepraszam, czy coÅ› mÃ³wiÅ‚eÅ›?}
+{154}{}{Ja? Wracam do swoich spraw. Ty rÃ³wnieÅ¼ to zrÃ³b.}
+{155}{}{Czy mogÄ™ zobaczyÄ‡ twojÄ… DziennÄ… PrzepustkÄ™?}
+{156}{}{Och... przepraszam, moja pomyÅ‚ka. WyglÄ…dasz zupeÅ‚nie jak SÅ‚uÅ¼Ä…cy.}
+{157}{}{NaprawdÄ™ nie mam teraz czasu na rozmowÄ™ z obcymi. ProszÄ™ zostawiÄ‡ mnie w spokoju.}
+{158}{}{Czy moÅ¼esz zachowaÄ‡ tÄ™ odlegÅ‚oÅ›Ä‡?}
+{159}{}{ProszÄ™ tam stanÄ…Ä‡.}
+{160}{}{SÅ‚uÅ¼Ä…cy pozwalajÄ… nam zajÄ…Ä‡ siÄ™ bardziej istotnymi sprawami. GÅ‚Ã³wnie robieniem wykazÃ³w.}
+{161}{}{SÅ‚uÅ¼Ä…cy? Och, uÅ¼ywamy ich do czarnej roboty.}
+{162}{}{Tak, czuje... ee, widzÄ™, Å¼e jesteÅ› obcy.}
+{163}{}{Nie jesteÅ› Obywatelem? To widaÄ‡.}

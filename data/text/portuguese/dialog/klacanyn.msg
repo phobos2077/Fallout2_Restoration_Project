@@ -1,1 +1,1 @@
-{100}{}{Você entrou no desfiladeiro perto de Klamath.}
+{100}{}{VocÃª entrou no desfiladeiro perto de Klamath.}

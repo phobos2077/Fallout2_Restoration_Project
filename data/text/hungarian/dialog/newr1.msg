@@ -1,192 +1,192 @@
-{100}{}{Üdvözlet New Renóban, a világ legnagyobb kisvárosában. A hely a kukatüzek és a neonfények pokoli fénykavalkádjában úszik.}
-{101}{}{El?tted egy sírokkal borított, visszataszító mez? terül el. A földb?l vérrel borított karók meredeznek ki, rajtuk emberi testek maradványai oszladoznak.}
-{102}{}{Ez a hely egy háború el?tti elektromos feltölt?állomásra hasonlít. Az épületeket lecsupaszított autók temet?je veszi körül.}
-{103}{}{Megérkeztél az Istállóhoz. A két farmszekció bejáratát vadonatúj drótkerítés veszi körül.}
+{100}{}{ÃœdvÃ¶zlet New RenÃ³ban, a vilÃ¡g legnagyobb kisvÃ¡rosÃ¡ban. A hely a kukatÃ¼zek Ã©s a neonfÃ©nyek pokoli fÃ©nykavalkÃ¡djÃ¡ban Ãºszik.}
+{101}{}{El?tted egy sÃ­rokkal borÃ­tott, visszataszÃ­tÃ³ mez? terÃ¼l el. A fÃ¶ldb?l vÃ©rrel borÃ­tott karÃ³k meredeznek ki, rajtuk emberi testek maradvÃ¡nyai oszladoznak.}
+{102}{}{Ez a hely egy hÃ¡borÃº el?tti elektromos feltÃ¶lt?Ã¡llomÃ¡sra hasonlÃ­t. Az Ã©pÃ¼leteket lecsupaszÃ­tott autÃ³k temet?je veszi kÃ¶rÃ¼l.}
+{103}{}{MegÃ©rkeztÃ©l az IstÃ¡llÃ³hoz. A kÃ©t farmszekciÃ³ bejÃ¡ratÃ¡t vadonatÃºj drÃ³tkerÃ­tÃ©s veszi kÃ¶rÃ¼l.}
 {150}{}{[EL?Z?]}
-{151}{}{[TOVÁBB]}
+{151}{}{[TOVÃBB]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
 {204}{}{Wright}
-{221}{}{Salvatore bárja}
+{221}{}{Salvatore bÃ¡rja}
 {222}{}{a Shark klub}
 {223}{}{a Desperado}
 {224}{}{}
 {300}{}{}
-{301}{}{Suttogó}
-{302}{}{Pókember}
-{303}{}{Kanyarós}
-{304}{}{Tanító}
-{305}{}{Költöztet?}
+{301}{}{SuttogÃ³}
+{302}{}{PÃ³kember}
+{303}{}{KanyarÃ³s}
+{304}{}{TanÃ­tÃ³}
+{305}{}{KÃ¶ltÃ¶ztet?}
 {306}{}{Bika}
-{307}{}{Ugrálós}
-{308}{}{Susogós}
+{307}{}{UgrÃ¡lÃ³s}
+{308}{}{SusogÃ³s}
 {309}{}{Balos}
 {310}{}{Jobbos}
-{311}{}{Szemöldök}
-{312}{}{Tornádó}
-{313}{}{Elbújós}
+{311}{}{SzemÃ¶ldÃ¶k}
+{312}{}{TornÃ¡dÃ³}
+{313}{}{ElbÃºjÃ³s}
 {314}{}{Majomgyerek}
-{315}{}{Púpos}
+{315}{}{PÃºpos}
 {316}{}{Keszty?s}
 {317}{}{Gooch}
-{318}{}{Klopfoló}
+{318}{}{KlopfolÃ³}
 {319}{}{Brocco}
 {320}{}{Csupakettes}
-{321}{}{Rómeó}
+{321}{}{RÃ³meÃ³}
 {322}{}{Vinnie}
-{323}{}{Zöldfül}
-{324}{}{Hangtompító}
-{325}{}{Kalapács}
+{323}{}{ZÃ¶ldfÃ¼l}
+{324}{}{HangtompÃ­tÃ³}
+{325}{}{KalapÃ¡cs}
 {326}{}{Boxer}
-{327}{}{Hajlító}
+{327}{}{HajlÃ­tÃ³}
 {328}{}{F?szeres}
-{329}{}{Kígyószem}
+{329}{}{KÃ­gyÃ³szem}
 {330}{}{Farkas}
-{331}{}{Baltás}
+{331}{}{BaltÃ¡s}
 {332}{}{Vigyori}
 {333}{}{Dagi}
-{334}{}{Gyöngy}
-{335}{}{Renói Jimmy}
-{336}{}{Jáde}
+{334}{}{GyÃ¶ngy}
+{335}{}{RenÃ³i Jimmy}
+{336}{}{JÃ¡de}
 {337}{}{Sebhelyes}
-{338}{}{Gyémánt}
-{339}{}{Ász}
+{338}{}{GyÃ©mÃ¡nt}
+{339}{}{Ãsz}
 {340}{}{Egyszem? Jack}
 {341}{}{Nikki}
 {342}{}{Jeges}
-{343}{}{Dörzsölt}
-{344}{}{Trükkös}
+{343}{}{DÃ¶rzsÃ¶lt}
+{344}{}{TrÃ¼kkÃ¶s}
 {345}{}{Charlie}
-{346}{}{Ópium}
+{346}{}{Ã“pium}
 {347}{}{Penge}
 {348}{}{Angyalszem}
 {349}{}{Szerel?}
-{350}{}{Cápa}
-{351}{}{Véreb}
+{350}{}{CÃ¡pa}
+{351}{}{VÃ©reb}
 {352}{}{Tiszteletes}
 {353}{}{Magnum}
-{354}{}{Jéghegy}
+{354}{}{JÃ©ghegy}
 {355}{}{Gina}
 {356}{}{Viki}
 {357}{}{Chase}
-{358}{}{Nyaktiló}
+{358}{}{NyaktilÃ³}
 {359}{}{Fagyos}
-{360}{}{Valentínó}
-{361}{}{Koporsós}
+{360}{}{ValentÃ­nÃ³}
+{361}{}{KoporsÃ³s}
 {362}{}{Kis Joe}
-{363}{}{Jégkirályn?}
-{364}{}{Kiiktató}
-{365}{}{Lóvé}
+{363}{}{JÃ©gkirÃ¡lyn?}
+{364}{}{KiiktatÃ³}
+{365}{}{LÃ³vÃ©}
 {366}{}{Dolcsi}
-{367}{}{Szerencsés}
+{367}{}{SzerencsÃ©s}
 {368}{}{Szent}
-{369}{}{Pontozásos}
-{370}{}{Sáska}
-{371}{}{Skorpió}
+{369}{}{PontozÃ¡sos}
+{370}{}{SÃ¡ska}
+{371}{}{SkorpiÃ³}
 {372}{}{Dagi}
 {373}{}{Samu}
-{374}{}{Kék Lou}
-{375}{}{Nagyágyú Tommy}
-{376}{}{?rült Jane}
-{377}{}{Özvegy}
-{378}{}{Kukás}
-{379}{}{Kilenc Hüvelykes Nick}
-{380}{}{Es?hozó}
-{381}{}{Király}
+{374}{}{KÃ©k Lou}
+{375}{}{NagyÃ¡gyÃº Tommy}
+{376}{}{?rÃ¼lt Jane}
+{377}{}{Ã–zvegy}
+{378}{}{KukÃ¡s}
+{379}{}{Kilenc HÃ¼velykes Nick}
+{380}{}{Es?hozÃ³}
+{381}{}{KirÃ¡ly}
 {382}{}{Gyilkos}
 {383}{}{Santana}
 {384}{}{Joey}
-{385}{}{Császár}
+{385}{}{CsÃ¡szÃ¡r}
 {386}{}{Mickey}
-{387}{}{Dekkolós}
+{387}{}{DekkolÃ³s}
 {388}{}{Giuseppe}
-{389}{}{Mészáros}
-{390}{}{Vöröske}
+{389}{}{MÃ©szÃ¡ros}
+{390}{}{VÃ¶rÃ¶ske}
 {391}{}{Rubin}
 {392}{}{X}
 {393}{}{}
 {400}{}{}
 {401}{}{Ijeszget?s}
-{402}{}{Pörg?s Jenny}
-{403}{}{Dugattyú}
-{404}{}{Hurrikán}
-{405}{}{F?májer}
-{406}{}{Kiválasztott}
-{407}{}{Dühöng? Bika}
+{402}{}{PÃ¶rg?s Jenny}
+{403}{}{DugattyÃº}
+{404}{}{HurrikÃ¡n}
+{405}{}{F?mÃ¡jer}
+{406}{}{KivÃ¡lasztott}
+{407}{}{DÃ¼hÃ¶ng? Bika}
 {408}{}{LaMotta}
-{409}{}{Pöröly}
-{410}{}{Üvegfej? Joe}
+{409}{}{PÃ¶rÃ¶ly}
+{410}{}{Ãœvegfej? Joe}
 {411}{}{New Reno-i Nancy}
 {412}{}{Tar Bika}
 {413}{}{Hercegn?}
 {414}{}{Fejedelem}
-{415}{}{Macsó}
+{415}{}{MacsÃ³}
 {416}{}{Vas Sz?z}
 {417}{}{Hasfelmetsz?}
 {418}{}{Valk?r}
 {419}{}{Horgos}
 {420}{}{Sidewinder}
-{421}{}{Rrrrossz lány}
-{422}{}{K?szájú}
+{421}{}{Rrrrossz lÃ¡ny}
+{422}{}{K?szÃ¡jÃº}
 {423}{}{Betonfej?}
-{424}{}{Láncf?rész}
+{424}{}{LÃ¡ncf?rÃ©sz}
 {425}{}{Helen Wheels}
-{426}{}{Nagyágyú Tommy}
-{427}{}{Fekete Özvegy}
-{428}{}{Tör?}
+{426}{}{NagyÃ¡gyÃº Tommy}
+{427}{}{Fekete Ã–zvegy}
+{428}{}{TÃ¶r?}
 {429}{}{Delilah}
-{430}{}{Villám}
+{430}{}{VillÃ¡m}
 {431}{}{Jocco}
-{432}{}{Acélos N?vérke}
-{433}{}{Szuper Pöröly}
-{434}{}{Apolló}
+{432}{}{AcÃ©los N?vÃ©rke}
+{433}{}{Szuper PÃ¶rÃ¶ly}
+{434}{}{ApollÃ³}
 {435}{}{Scrapiron}
 {436}{}{Tigrisn?}
 {437}{}{Tyson}
 {438}{}{Lady J}
 {439}{}{Drago}
-{440}{}{Bunkós Lang}
+{440}{}{BunkÃ³s Lang}
 {441}{}{Fejedelem}
-{442}{}{Buldózer}
+{442}{}{BuldÃ³zer}
 {443}{}{Kecses}
 {444}{}{Vaskez? Luke}
-{445}{}{H?ség}
-{446}{}{Ökölgyógyász}
-{447}{}{Repül? Apáca}
+{445}{}{H?sÃ©g}
+{446}{}{Ã–kÃ¶lgyÃ³gyÃ¡sz}
+{447}{}{RepÃ¼l? ApÃ¡ca}
 {448}{}{Balboa}
 {449}{}{Floyd Ray Willis}
-{450}{}{Balszerencsés Jane}
+{450}{}{BalszerencsÃ©s Jane}
 {451}{}{Kobra}
-{452}{}{Vérfürd?-mester}
-{453}{}{Hóhér}
+{452}{}{VÃ©rfÃ¼rd?-mester}
+{453}{}{HÃ³hÃ©r}
 {454}{}{Tehervonat}
 {455}{}{Szuper Vixen}
 {456}{}{New Reno-i Jim}
-{457}{}{Zúzó}
+{457}{}{ZÃºzÃ³}
 {458}{}{Rico}
-{459}{}{Pörölykez?}
-{460}{}{Özvegygyártó}
+{459}{}{PÃ¶rÃ¶lykez?}
+{460}{}{Ã–zvegygyÃ¡rtÃ³}
 {461}{}{Baliff}
 {462}{}{Butch Coolidge}
 {463}{}{Alley Cat}
-{464}{}{Rossz Mojó}
+{464}{}{Rossz MojÃ³}
 {465}{}{Tank}
-{466}{}{Brutál}
+{466}{}{BrutÃ¡l}
 {467}{}{Mynx}
-{468}{}{Skorpió}
-{469}{}{Püföl?s}
-{470}{}{Gepárd}
-{471}{}{Ítélet}
-{472}{}{Ítél?szék}
-{473}{}{Döngöl?}
+{468}{}{SkorpiÃ³}
+{469}{}{PÃ¼fÃ¶l?s}
+{470}{}{GepÃ¡rd}
+{471}{}{ÃtÃ©let}
+{472}{}{ÃtÃ©l?szÃ©k}
+{473}{}{DÃ¶ngÃ¶l?}
 {474}{}{Athena}
 {475}{}{Veszett Kutya}
 {476}{}{}
 {496}{}{Big Stu}
 {497}{}{Miami}
 {498}{}{X}
-{499}{}{A saját neved}
+{499}{}{A sajÃ¡t neved}
 {500}{}{}
 {501}{}{Rodd Rokks}
 {502}{}{Randy Mercury}
@@ -195,11 +195,11 @@
 {505}{}{Botos Ronny}
 {506}{}{Phil Chambers}
 {507}{}{Izzadt Rod}
-{508}{}{Löv?s Jack}
-{509}{}{Hans Régenkurt}
+{508}{}{LÃ¶v?s Jack}
+{509}{}{Hans RÃ©genkurt}
 {510}{}{Rick Dripps}
 {511}{}{Dick Seamen}
-{512}{}{Lengyel Pöröly}
+{512}{}{Lengyel PÃ¶rÃ¶ly}
 {513}{}{Ron Jeremy}
 {514}{}{Peckes kakas}
 {515}{}{Vinnie LaJoya}
@@ -219,7 +219,7 @@
 {529}{}{Buck Fitch}
 {530}{}{Arnold Swollenmember}
 {531}{}{Doug Holes}
-{532}{}{Kérges Freddy}
+{532}{}{KÃ©rges Freddy}
 {533}{}{}
 {534}{}{}
 {535}{}{}
@@ -239,12 +239,12 @@
 {549}{}{}
 {550}{}{}
 {551}{}{Bosszi}
-{552}{}{Habcsók}
+{552}{}{HabcsÃ³k}
 {553}{}{Amber Waves}
 {554}{}{Laza Luca}
 {555}{}{Amy Ample}
-{556}{}{Bögyös Molly}
-{557}{}{Édeske}
+{556}{}{BÃ¶gyÃ¶s Molly}
+{557}{}{Ã‰deske}
 {558}{}{Patty Pitt}
 {559}{}{Ophelia Balls}
 {560}{}{Thelma Schoonmaker}
@@ -256,13 +256,13 @@
 {566}{}{Nyell? Mari}
 {567}{}{Lady J}
 {568}{}{Glenda Glenn}
-{569}{}{Erzsébet királyn?}
+{569}{}{ErzsÃ©bet kirÃ¡lyn?}
 {570}{}{Jenna Jammison}
 {571}{}{LaJoya Nyuszi}
-{572}{}{Pillangókisasszony}
+{572}{}{PillangÃ³kisasszony}
 {573}{}{X Jenny}
 {574}{}{Cuki Jane}
-{575}{}{Édes Nikki}
+{575}{}{Ã‰des Nikki}
 {576}{}{Sharonna}
 {577}{}{Suzy Q}
 {578}{}{Corvega Sally}
@@ -270,15 +270,15 @@
 {580}{}{Dominatrish}
 {581}{}{X Hercegn?}
 {582}{}{Carlotta}
-{583}{}{Csókos Méri}
+{583}{}{CsÃ³kos MÃ©ri}
 {584}{}{April Wine}
-{585}{}{Rubinvörös}
+{585}{}{RubinvÃ¶rÃ¶s}
 {586}{}{Christie Chipps}
 {587}{}{Lisa Lix}
-{588}{}{Ópium}
+{588}{}{Ã“pium}
 {589}{}{Alley Cat}
 {590}{}{Lady Chatterfly}
-{591}{}{Jöv? hírnökn?je}
+{591}{}{JÃ¶v? hÃ­rnÃ¶kn?je}
 {592}{}{Holmes kisasszony}
 {593}{}{Debbie Dare}
 {594}{}{Jessica Long}
@@ -289,10 +289,10 @@
 {599}{}{}
 {700}{}{Mal Fisto}
 {701}{}{Tony Gunn}
-{702}{}{Acélos Mark Torrance}
+{702}{}{AcÃ©los Mark Torrance}
 {703}{}{Xander "Tuti" Holyland}
-{704}{}{Pókember}
-{705}{}{Vézna}
+{704}{}{PÃ³kember}
+{705}{}{VÃ©zna}
 {706}{}{Cuki Jones}
 {707}{}{Il. Roche}
 {708}{}{Tito}
@@ -302,26 +302,26 @@
 {712}{}{Dagadt Johnny}
 {713}{}{Nicki}
 {714}{}{LaMotta}
-{715}{}{Iván}
-{716}{}{Üvegfej? Joe}
+{715}{}{IvÃ¡n}
+{716}{}{Ãœvegfej? Joe}
 {717}{}{Drago}
-{718}{}{Nagyágyú Tommy}
-{719}{}{Apolló}
+{718}{}{NagyÃ¡gyÃº Tommy}
+{719}{}{ApollÃ³}
 {750}{}{Bassman}
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
-{753}{}{Húsdaráló}
-{1000}{}{Jules elvezet a New Renót körülvev? lerobbant városrészbe, aztán visszafut oda, ahonnan jött. Szerinted egyedül sosem találtál volna ide. A megérkezés után Jules felszívódik.}
-{1100}{}{A nyomok a New Renót körülvev? lerobbant városrészbe vezetnek.}
-{1200}{}{Egy kisméret? fémládikára leltél. Keresés nélkül sosem találtál volna rá csak úgy.}
-{1300}{}{Cody elvezet a New Renót körülvev? lerobbant városrészbe, aztán visszafut oda, ahonnan jött. Szerinted egyedül sosem találtál volna ide.}
-{1400}{}{Legy?zted az els? kihívottat.}
-{1401}{}{Legy?zted a második kihívottat.}
-{1402}{}{Legy?zted a harmadik kihívottat.}
-{1403}{}{Legy?zted a Húsdarálót!}
-{1404}{}{New Reno nehézsúlyú bokszbajnoka lettél!}
+{753}{}{HÃºsdarÃ¡lÃ³}
+{1000}{}{Jules elvezet a New RenÃ³t kÃ¶rÃ¼lvev? lerobbant vÃ¡rosrÃ©szbe, aztÃ¡n visszafut oda, ahonnan jÃ¶tt. Szerinted egyedÃ¼l sosem talÃ¡ltÃ¡l volna ide. A megÃ©rkezÃ©s utÃ¡n Jules felszÃ­vÃ³dik.}
+{1100}{}{A nyomok a New RenÃ³t kÃ¶rÃ¼lvev? lerobbant vÃ¡rosrÃ©szbe vezetnek.}
+{1200}{}{Egy kismÃ©ret? fÃ©mlÃ¡dikÃ¡ra leltÃ©l. KeresÃ©s nÃ©lkÃ¼l sosem talÃ¡ltÃ¡l volna rÃ¡ csak Ãºgy.}
+{1300}{}{Cody elvezet a New RenÃ³t kÃ¶rÃ¼lvev? lerobbant vÃ¡rosrÃ©szbe, aztÃ¡n visszafut oda, ahonnan jÃ¶tt. Szerinted egyedÃ¼l sosem talÃ¡ltÃ¡l volna ide.}
+{1400}{}{Legy?zted az els? kihÃ­vottat.}
+{1401}{}{Legy?zted a mÃ¡sodik kihÃ­vottat.}
+{1402}{}{Legy?zted a harmadik kihÃ­vottat.}
+{1403}{}{Legy?zted a HÃºsdarÃ¡lÃ³t!}
+{1404}{}{New Reno nehÃ©zsÃºlyÃº bokszbajnoka lettÃ©l!}
 {1405}{}{You have defeated your last challenger!}
-{1500}{}{Meggy?zted Mrs. Wrightot, hogy a szeszf?zdét meg kell semmisíteni.}
-{1550}{}{Szemtanúja voltál a titkos tranzakciónak.}
-{1600}{}{A Húsdaráló leszakította a füled a harc hevében.}
+{1500}{}{Meggy?zted Mrs. Wrightot, hogy a szeszf?zdÃ©t meg kell semmisÃ­teni.}
+{1550}{}{SzemtanÃºja voltÃ¡l a titkos tranzakciÃ³nak.}
+{1600}{}{A HÃºsdarÃ¡lÃ³ leszakÃ­totta a fÃ¼led a harc hevÃ©ben.}
 {1700}{}{Enraged, you tear the Masticator's ear off.}

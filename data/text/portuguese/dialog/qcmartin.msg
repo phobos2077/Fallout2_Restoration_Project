@@ -8,7 +8,7 @@
 {107}{}{Power off! Door open!}
 {108}{}{We are so screwed.}
 {109}{}{Get us out before they run more tests.}
-{110}{}{Quem são essas pessoas?}
+{110}{}{Quem sÃ£o essas pessoas?}
 {111}{}{Why me? Why us?}
 {112}{}{We've got to get out of this place.}
 {113}{}{Hey you, over here!}
@@ -24,7 +24,7 @@
 {123}{}{My name's Martin.}
 {124}{}{Eu posso te contar o que aconteceu.}
 {125}{}{Hello there, I'm Martin Frobisher. I speak for these people. Thank God you're here.}
-{126}{}{O que você gostaria de saber?}
+{126}{}{O que vocÃª gostaria de saber?}
 {127}{}{Nice outfits, just like mine. Who are you people?}
 {128}{}{What are you people doing here?}
 {129}{}{Are you the Overseer?}

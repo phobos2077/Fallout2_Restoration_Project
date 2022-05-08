@@ -1,3 +1,3 @@
-{100}{}{Tu vois une bibliothèque... oui avec des livres.}
-{101}{}{Cette bibliothèque est composée d'ouvrages très divers.}
-{102}{}{Cette bibliothèque présente de nombreux livres d'avant-guerre. Tu n'en as pas vraiment l'utilité ni le temps.}
+{100}{}{Tu vois une bibliothÃ¨que... oui avec des livres.}
+{101}{}{Cette bibliothÃ¨que est composÃ©e d'ouvrages trÃ¨s divers.}
+{102}{}{Cette bibliothÃ¨que prÃ©sente de nombreux livres d'avant-guerre. Tu n'en as pas vraiment l'utilitÃ© ni le temps.}

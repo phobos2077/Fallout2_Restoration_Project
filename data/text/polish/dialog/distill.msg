@@ -1,4 +1,4 @@
-{100}{}{Widzisz aparaturê destylacyjn¹.}
-{101}{}{Ach, wiêc Becky pêdzi bimber. Muszê powiedzieæ o tym Frankiemu.}
-{102}{}{Widzisz zniszczon¹ aparaturê destylacyjn¹.}
-{103}{}{Aparatura zosta³a zniszczona.}
+{100}{}{Widzisz aparaturÄ™ destylacyjnÄ….}
+{101}{}{Ach, wiÄ™c Becky pÄ™dzi bimber. MuszÄ™ powiedzieÄ‡ o tym Frankiemu.}
+{102}{}{Widzisz zniszczonÄ… aparaturÄ™ destylacyjnÄ….}
+{103}{}{Aparatura zostaÅ‚a zniszczona.}

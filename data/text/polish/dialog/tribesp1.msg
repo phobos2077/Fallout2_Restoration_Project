@@ -1,1 +1,1 @@
-{100}{}{Wchodzisz do ma≥ej jaskini. S≥yszysz ha≥asy dochodzπce ze úrodka.}
+{100}{}{Wchodzisz do ma≈Çej jaskini. S≈Çyszysz ha≈Çasy dochodzƒÖce ze ≈õrodka.}

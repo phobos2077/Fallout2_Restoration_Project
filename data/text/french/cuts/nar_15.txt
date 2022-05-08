@@ -1,2 +1,2 @@
-1:L'attaque des mutants sur Nécropolis n'épargnera aucune des goules.
-2:Après leur passage, les armées de mutants ne laissèrent qu'une ville anéantie.
+1:L'attaque des mutants sur NÃ©cropolis n'Ã©pargnera aucune des goules.
+2:AprÃ¨s leur passage, les armÃ©es de mutants ne laissÃ¨rent qu'une ville anÃ©antie.

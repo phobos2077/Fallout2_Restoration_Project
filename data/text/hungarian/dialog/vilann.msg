@@ -35,14 +35,14 @@
 {353}{}{You don't need to worry about any damn merchants. Because I plan on killing the whole lot of you.}
 {400}{}{Did Vault City send you?}
 {401}{}{We have the right to live here, you know.}
-{402}{}{Nincs több mondanivalóm a számodra.}
+{402}{}{Nincs tÃ¶bb mondanivalÃ³m a szÃ¡modra.}
 {403}{}{Thanks again for everything!}
 {404}{}{Thanks so much!}
 {405}{}{Finally we are safe.}
 {406}{}{Thanks for everything! Be sure to stop by again once we expand the place. I'll finally have a working kitchen to cook in.}
-{410}{}{Helló...}
+{410}{}{HellÃ³...}
 {411}{}{You seem to be quite busy here. Need some help with anything?}
-{412}{}{Felejtsük el! Viszlát.}
+{412}{}{FelejtsÃ¼k el! ViszlÃ¡t.}
 {420}{}{How did it go?}
 {421}{}{How did what go? Oh, the merchant. Actually, I lost interest with him and wandered off.}
 {430}{}{What!? You realize this was our last chance to make arragements with him. We look like fools now standing him up.

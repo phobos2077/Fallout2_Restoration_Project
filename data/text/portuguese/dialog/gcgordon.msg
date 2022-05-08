@@ -1,144 +1,144 @@
-{100}{}{Você vê outro ghoul. Ele parece estar preocupado.}
-{101}{}{Você vê Gordon, de Gecko.}
-{102}{}{Você vê um ghoul muito bem vestido com seu cabelo penteado para trás.}
-{110}{}{Não tenho tempo para perder com estúpidos.}
+{100}{}{VocÃª vÃª outro ghoul. Ele parece estar preocupado.}
+{101}{}{VocÃª vÃª Gordon, de Gecko.}
+{102}{}{VocÃª vÃª um ghoul muito bem vestido com seu cabelo penteado para trÃ¡s.}
+{110}{}{NÃ£o tenho tempo para perder com estÃºpidos.}
 {111}{}{Tenho um trabalho importante para fazer. Saia daqui.}
-{112}{}{Você é tão estúpido quanto o resto deles.}
-{113}{}{Esta não é a sala para aulas de reforço.}
+{112}{}{VocÃª Ã© tÃ£o estÃºpido quanto o resto deles.}
+{113}{}{Esta nÃ£o Ã© a sala para aulas de reforÃ§o.}
 {114}{}{Muita consanguinidade entre peles lisas, acredito.}
-{120}{}{Olá. Meu nome é Gordon. Gordon, de Gecko.}
-{121}{}{Olá de novo }
-{122}{}{Olá, Gordon. Eu sou }
+{120}{}{OlÃ¡. Meu nome Ã© Gordon. Gordon, de Gecko.}
+{121}{}{OlÃ¡ de novo }
+{122}{}{OlÃ¡, Gordon. Eu sou }
 {123}{}{Prazer em conhece-lo. Eu sou }
-{124}{}{Gordon, o que você disse que estava fazendo por aqui?}
-{125}{}{Estou só visitando meus amigos. Prazer em te ver de novo. Até.}
+{124}{}{Gordon, o que vocÃª disse que estava fazendo por aqui?}
+{125}{}{Estou sÃ³ visitando meus amigos. Prazer em te ver de novo. AtÃ©.}
 {130}{}{Procuro oportunidades.}
-{131}{}{Oportunidades? Tipo o quê?}
+{131}{}{Oportunidades? Tipo o quÃª?}
 {135}{}{Busco formas de maximizar meu valor potencial.}
 {136}{}{Hmm, parece bem ganancioso para mim.}
-{140}{}{Eu sou ganancioso. Mas as pessoas entendem a ganância de forma errada. A ganância é uma força motriz poderosa. Ao longo
- da história, as grandes conquistas da humanidade foram impulsionadas por homens que queriam melhorar suas posições.
- Impulsionado pela ganância. A ganância, por falta de palavra melhor, é boa.}
-{141}{}{Vou acreditar que você diz, Gordon. Mas o que ganância tem a ver com Gecko?}
-{150}{}{Até agora, não muito. Mas na ganância está a salvação de Gecko. Eu tenho informações importantes sobre a
- sobrevivência de Gecko, mas não consigo que ninguém me ouça.}
-{151}{}{Que tipo de informação?}
-{160}{}{Bem, eu calculei que se nosso reator estivesse funcionando corretamente, poderíamos gerar uma enorme
+{140}{}{Eu sou ganancioso. Mas as pessoas entendem a ganÃ¢ncia de forma errada. A ganÃ¢ncia Ã© uma forÃ§a motriz poderosa. Ao longo
+ da histÃ³ria, as grandes conquistas da humanidade foram impulsionadas por homens que queriam melhorar suas posiÃ§Ãµes.
+ Impulsionado pela ganÃ¢ncia. A ganÃ¢ncia, por falta de palavra melhor, Ã© boa.}
+{141}{}{Vou acreditar que vocÃª diz, Gordon. Mas o que ganÃ¢ncia tem a ver com Gecko?}
+{150}{}{AtÃ© agora, nÃ£o muito. Mas na ganÃ¢ncia estÃ¡ a salvaÃ§Ã£o de Gecko. Eu tenho informaÃ§Ãµes importantes sobre a
+ sobrevivÃªncia de Gecko, mas nÃ£o consigo que ninguÃ©m me ouÃ§a.}
+{151}{}{Que tipo de informaÃ§Ã£o?}
+{160}{}{Bem, eu calculei que se nosso reator estivesse funcionando corretamente, poderÃ­amos gerar uma enorme
  quantidade de excesso de energia - muito mais do que o Gecko precisa.}
-{161}{}{Tá, e aí?}
-{170}{}{Bem, agora que você ajudou a reparar nossa usina atômica, tenho uma chance muito melhor de
+{161}{}{TÃ¡, e aÃ­?}
+{170}{}{Bem, agora que vocÃª ajudou a reparar nossa usina atÃ´mica, tenho uma chance muito melhor de
  conseguir o que quero. Maximizando meu potencial.}
 {171}{}{Maximizando seu potencial? Como assim?}
-{172}{}{Essa é a ganância falando de novo, Gordon?}
-{180}{}{Eu também descobri, de uma fonte muito confiável, que Vault City não pode se expandir sem
+{172}{}{Essa Ã© a ganÃ¢ncia falando de novo, Gordon?}
+{180}{}{Eu tambÃ©m descobri, de uma fonte muito confiÃ¡vel, que Vault City nÃ£o pode se expandir sem
  energia adicional.}
-{181}{}{Vault City não pode expandir?}
-{182}{}{Uma fonte muito confiável? Quem?}
+{181}{}{Vault City nÃ£o pode expandir?}
+{182}{}{Uma fonte muito confiÃ¡vel? Quem?}
 {190}{}{Vault City, veja, tem energia suficiente para suas necessidades atuais - desde que sejam cuidadosos. Mas
- a usina de Vault que eles usam não foi projetada para o aumento da carga que sua cidade está exige.
- Está no pico da capacidade agora. Sem mais poder, eles não podem se expandir.}
-{191}{}{Não vejo como isso te ajuda.}
+ a usina de Vault que eles usam nÃ£o foi projetada para o aumento da carga que sua cidade estÃ¡ exige.
+ EstÃ¡ no pico da capacidade agora. Sem mais poder, eles nÃ£o podem se expandir.}
+{191}{}{NÃ£o vejo como isso te ajuda.}
 {200}{}{Bem, se nossa usina de energia estiver funcionando bem, podemos negociar nosso excesso de energia e nossa
- experiência técnica para Vault City em troca de tecnologia médica.}
+ experiÃªncia tÃ©cnica para Vault City em troca de tecnologia mÃ©dica.}
 {201}{}{E?}
-{210}{}{Sem mais energia, Vault City queimará seu reator em 15 anos. Se o reator de Gecko
- não for reparado, não vamos durar metade desse tempo. Sem tecnologia médica, nós, Ghouls, vamos
- morrer nos próximos 20 anos, de qualquer forma. Todo mundo perde se Vault City e Gecko não cooperarem.}
-{211}{}{Então você é apenas um bom samaritano, uia? Isso ainda não me convence.}
-{220}{}{De jeito nenhum. Eu tenho minha parte. Eu seria a escolha lógica para cuidar deste projeto.
- A ganância é minha força motriz, mas milhares de vidas são salvas por ela. A ganância é boa. Deveria ser,
- se eu conseguisse alguém em Vault City para ler meus dados econômicos.}
-{221}{}{Eu não gostaria de ver você cuidando de nada.}
-{222}{}{Hmm, eu posso de mostrar os dados para alguém em Vault City.}
-{223}{}{Aposto que o vereador McClure em Vault City adoraria colocar as mãos nesses dados. Ele parece
- como alguém que governa mais pela razão do que pelo preconceito.}
-{224}{}{Historinha legal, Gordon. Você é dos bons. (risada) Vou me lembrar dessa. Falou.}
-{230}{}{Eu registro os dados econômicos sobre a economia de Gecko e relato para Harold. Mas ele geralmente não
+{210}{}{Sem mais energia, Vault City queimarÃ¡ seu reator em 15 anos. Se o reator de Gecko
+ nÃ£o for reparado, nÃ£o vamos durar metade desse tempo. Sem tecnologia mÃ©dica, nÃ³s, Ghouls, vamos
+ morrer nos prÃ³ximos 20 anos, de qualquer forma. Todo mundo perde se Vault City e Gecko nÃ£o cooperarem.}
+{211}{}{EntÃ£o vocÃª Ã© apenas um bom samaritano, uia? Isso ainda nÃ£o me convence.}
+{220}{}{De jeito nenhum. Eu tenho minha parte. Eu seria a escolha lÃ³gica para cuidar deste projeto.
+ A ganÃ¢ncia Ã© minha forÃ§a motriz, mas milhares de vidas sÃ£o salvas por ela. A ganÃ¢ncia Ã© boa. Deveria ser,
+ se eu conseguisse alguÃ©m em Vault City para ler meus dados econÃ´micos.}
+{221}{}{Eu nÃ£o gostaria de ver vocÃª cuidando de nada.}
+{222}{}{Hmm, eu posso de mostrar os dados para alguÃ©m em Vault City.}
+{223}{}{Aposto que o vereador McClure em Vault City adoraria colocar as mÃ£os nesses dados. Ele parece
+ como alguÃ©m que governa mais pela razÃ£o do que pelo preconceito.}
+{224}{}{Historinha legal, Gordon. VocÃª Ã© dos bons. (risada) Vou me lembrar dessa. Falou.}
+{230}{}{Eu registro os dados econÃ´micos sobre a economia de Gecko e relato para Harold. Mas ele geralmente nÃ£o
  me escuta.}
-{231}{}{Sinto muito ouvir isso. Dados econômicos sobre o quê?}
-{232}{}{Bem, tenho certeza de que Harold está muito ocupado. Até logo.}
-{240}{}{Uma noite, ouvi uma voz me chamando do poço do reator. Uma voz vinda do
- sombras. Eu não sabia o que pensar no começo, mas o que a voz disse com certeza fez muito sentido. Todos
- seus números conferem também. Não sei quem ou o que é a voz, mas todos os fatos são exatamente como
+{231}{}{Sinto muito ouvir isso. Dados econÃ´micos sobre o quÃª?}
+{232}{}{Bem, tenho certeza de que Harold estÃ¡ muito ocupado. AtÃ© logo.}
+{240}{}{Uma noite, ouvi uma voz me chamando do poÃ§o do reator. Uma voz vinda do
+ sombras. Eu nÃ£o sabia o que pensar no comeÃ§o, mas o que a voz disse com certeza fez muito sentido. Todos
+ seus nÃºmeros conferem tambÃ©m. NÃ£o sei quem ou o que Ã© a voz, mas todos os fatos sÃ£o exatamente como
  disse.}
 {241}{}{O que a voz disse?}
 {250}{}{Principalmente em maneiras de maximizar o valor potencial. Meu valor potencial. }
-{251}{}{Seu valor potencial? Parece-me que você é apenas ganancioso.}
+{251}{}{Seu valor potencial? Parece-me que vocÃª Ã© apenas ganancioso.}
 {260}{}{Principalmente em maneiras de maximizar o valor potencial. Meu valor potencial. }
-{261}{}{Seu valor potencial? Parece-me que você é apenas ganancioso.}
-{270}{}{Por que não?}
-{271}{}{Eu não consigo acreditar na ideia de que a ganância é boa. Aposto que você apenas venderia porções de tudo que
+{261}{}{Seu valor potencial? Parece-me que vocÃª Ã© apenas ganancioso.}
+{270}{}{Por que nÃ£o?}
+{271}{}{Eu nÃ£o consigo acreditar na ideia de que a ganÃ¢ncia Ã© boa. Aposto que vocÃª apenas venderia porÃ§Ãµes de tudo que
  cuidasse e lucraria em cima disso. Adeus.}
-{272}{}{Porque você deixou de fora a parte mais importante do seu plano. Um parceiro - ou seja, eu.}
-{280}{}{Bem, eu tenho todos os dados econômicos relevantes em um disco. Você pode ver, se prometer mostrar
- os dados para alguém em Vault City que pode entender e fazer bom uso deles. Mas seja
- discreto com ele... nem todo mundo vai ficar feliz por você ter conversado conosco, ghouls.}
-{281}{}{Acho que não quero ficar preso ao seu disco. Obrigado mesmo assim. Adeus.}
-{282}{}{Ok, vou ficar com o disco. Tenho certeza de que posso colocá-lo nas mãos certas. Adeus.}
-{290}{}{Humph, não preciso da sua ajuda. Você é apenas um tribal.}
-{291}{}{Bem, acho que nem todos os fanáticos são de Vault City, certinho, meu velho Gordie? Adeus.}
-{300}{}{Nossa usina atômica não está funcionando corretamente. Você não deve levar as informações para
+{272}{}{Porque vocÃª deixou de fora a parte mais importante do seu plano. Um parceiro - ou seja, eu.}
+{280}{}{Bem, eu tenho todos os dados econÃ´micos relevantes em um disco. VocÃª pode ver, se prometer mostrar
+ os dados para alguÃ©m em Vault City que pode entender e fazer bom uso deles. Mas seja
+ discreto com ele... nem todo mundo vai ficar feliz por vocÃª ter conversado conosco, ghouls.}
+{281}{}{Acho que nÃ£o quero ficar preso ao seu disco. Obrigado mesmo assim. Adeus.}
+{282}{}{Ok, vou ficar com o disco. Tenho certeza de que posso colocÃ¡-lo nas mÃ£os certas. Adeus.}
+{290}{}{Humph, nÃ£o preciso da sua ajuda. VocÃª Ã© apenas um tribal.}
+{291}{}{Bem, acho que nem todos os fanÃ¡ticos sÃ£o de Vault City, certinho, meu velho Gordie? Adeus.}
+{300}{}{Nossa usina atÃ´mica nÃ£o estÃ¡ funcionando corretamente. VocÃª nÃ£o deve levar as informaÃ§Ãµes para
  Vault City ainda.}
-{301}{}{Eu não acho que eles seriam muito receptivos a dados de ghouls em Vault City.}
-{302}{}{Não, ainda não... mas vou. Adeus.}
-{303}{}{Entregar esses dados para Vault City é apenas uma das muitas etapas que você que precisam ser feitas. Nossa usina
- atômica ainda não está funcionando direito e precisa ser consertada.}
+{301}{}{Eu nÃ£o acho que eles seriam muito receptivos a dados de ghouls em Vault City.}
+{302}{}{NÃ£o, ainda nÃ£o... mas vou. Adeus.}
+{303}{}{Entregar esses dados para Vault City Ã© apenas uma das muitas etapas que vocÃª que precisam ser feitas. Nossa usina
+ atÃ´mica ainda nÃ£o estÃ¡ funcionando direito e precisa ser consertada.}
 {304}{}{Eu vou resolver isso. Adeus.}
 {305}{}{Sim, talvez em outra hora.}
-{310}{}{Obrigado por consertar nossa usina atômica. O próximo passo no plano do velho Gordon para Gecko está funcionando
- muito bem. A ganância é uma coisa maravilhosa. Você deve se orgulhar de fazer parte disso.}
-{311}{}{A ganância é boa; certo, Gordon? Certo, eu tenho meus próprios planos para trabalhar. Adeus.}
-{320}{}{Estamos condenados. Estamos todos condenados. Nada pode nos salvar agora. Apenas vá embora.}
+{310}{}{Obrigado por consertar nossa usina atÃ´mica. O prÃ³ximo passo no plano do velho Gordon para Gecko estÃ¡ funcionando
+ muito bem. A ganÃ¢ncia Ã© uma coisa maravilhosa. VocÃª deve se orgulhar de fazer parte disso.}
+{311}{}{A ganÃ¢ncia Ã© boa; certo, Gordon? Certo, eu tenho meus prÃ³prios planos para trabalhar. Adeus.}
+{320}{}{Estamos condenados. Estamos todos condenados. Nada pode nos salvar agora. Apenas vÃ¡ embora.}
 {321}{}{Apenas fique longe de mim.}
 {322}{}{Esta bem, adeus.}
-{330}{}{Eu realmente devo a você. Agora posso conseguir tudo que sempre quis. E tudo as custas de Gecko e 
- Refuge City. Só assim para eu ser escolhido como o novo capataz. Sim senhor, acho que Harold está realmente chateado
+{330}{}{Eu realmente devo a vocÃª. Agora posso conseguir tudo que sempre quis. E tudo as custas de Gecko e 
+ Refuge City. SÃ³ assim para eu ser escolhido como o novo capataz. Sim senhor, acho que Harold estÃ¡ realmente chateado
  agora.}
-{331}{}{Uh, sim. Tanto faz, Gordon. (você revira os olhos). Bem, acho que estou de saída.}
-{332}{}{É melhor você se cuidar, Gordon. A viagem para baixo é geralmente muito mais rápida do que para cima.
+{331}{}{Uh, sim. Tanto faz, Gordon. (vocÃª revira os olhos). Bem, acho que estou de saÃ­da.}
+{332}{}{Ã‰ melhor vocÃª se cuidar, Gordon. A viagem para baixo Ã© geralmente muito mais rÃ¡pida do que para cima.
  Adeus.}
-{340}{}{Eu vejo que você tem o símbolo. Você está aqui em busca de informações?}
-{341}{}{O símbolo?}
-{342}{}{A informação?}
-{343}{}{Claro. Eu uso o símbolo com orgulho e preciso da informação imediatamente.}
-{344}{}{Shhh. Agora não, irmão. Estamos sendo vigiados. Adeus.}
-{350}{}{Você usa o símbolo da Renovação. Você é um de nós. Renove, camarada! Renove!}
-{351}{}{Sim, sou um de nós. Reno, uh, Renovação!}
-{352}{}{Eu acabei de encontrar isso. O que é?}
-{353}{}{Eu peguei isso de um cadáver. Mas que bexiga é isso?}
-{360}{}{Ele mandou você buscar o disco de dados?}
+{340}{}{Eu vejo que vocÃª tem o sÃ­mbolo. VocÃª estÃ¡ aqui em busca de informaÃ§Ãµes?}
+{341}{}{O sÃ­mbolo?}
+{342}{}{A informaÃ§Ã£o?}
+{343}{}{Claro. Eu uso o sÃ­mbolo com orgulho e preciso da informaÃ§Ã£o imediatamente.}
+{344}{}{Shhh. Agora nÃ£o, irmÃ£o. Estamos sendo vigiados. Adeus.}
+{350}{}{VocÃª usa o sÃ­mbolo da RenovaÃ§Ã£o. VocÃª Ã© um de nÃ³s. Renove, camarada! Renove!}
+{351}{}{Sim, sou um de nÃ³s. Reno, uh, RenovaÃ§Ã£o!}
+{352}{}{Eu acabei de encontrar isso. O que Ã©?}
+{353}{}{Eu peguei isso de um cadÃ¡ver. Mas que bexiga Ã© isso?}
+{360}{}{Ele mandou vocÃª buscar o disco de dados?}
 {361}{}{Sim, claro que estou aqui pelo disco. Entregue agora.}
 {362}{}{Que disco?}
 {370}{}{Bem, nunca pode haver muitos em nossa causa. Mais camaradas significa uma chance melhor para o velho
- Gordon conseguir o que deseja. Você está aqui pelo disco?}
+ Gordon conseguir o que deseja. VocÃª estÃ¡ aqui pelo disco?}
 {371}{}{Que disco?}
-{372}{}{Acho que a radiação fritou tua cabeça. Vou sair daqui. Adeus.}
-{380}{}{Aqui está, mas não deixe a pessoa errada saber que você o tem. Dê apenas para o vereador
+{372}{}{Acho que a radiaÃ§Ã£o fritou tua cabeÃ§a. Vou sair daqui. Adeus.}
+{380}{}{Aqui estÃ¡, mas nÃ£o deixe a pessoa errada saber que vocÃª o tem. DÃª apenas para o vereador
  McClure em Vault City.}
-{381}{}{Sim, claro. Uh, Renovação, irmão.}
-{382}{}{Eu não estou levando nenhum disco ghoul para Vault City - eles colocariam minha cabeça em uma guilhotina por causa disso.
+{381}{}{Sim, claro. Uh, RenovaÃ§Ã£o, irmÃ£o.}
+{382}{}{Eu nÃ£o estou levando nenhum disco ghoul para Vault City - eles colocariam minha cabeÃ§a em uma guilhotina por causa disso.
  Adeus.}
-{390}{}{É o disco de dados econômicos que prova que Gecko e Vault City devem trabalhar juntos em
- ordem para qualquer um de nós sobreviver. Todos vocês, peles lisas, tem cérebros pequenos?}
+{390}{}{Ã‰ o disco de dados econÃ´micos que prova que Gecko e Vault City devem trabalhar juntos em
+ ordem para qualquer um de nÃ³s sobreviver. Todos vocÃªs, peles lisas, tem cÃ©rebros pequenos?}
 {391}{}{Oh, sim, aquele disco; vou aceitar.}
-{392}{}{Isso me parece uma coisa bem complicada, certo. Demais para um cabeça de alfinete como eu
+{392}{}{Isso me parece uma coisa bem complicada, certo. Demais para um cabeÃ§a de alfinete como eu
  entender. Adeus.}
-{400}{}{Ah, claro. (pisca, pisca) Todos nós "encontramos" o símbolo. Renove, camarada! Você está aqui pelo
+{400}{}{Ah, claro. (pisca, pisca) Todos nÃ³s "encontramos" o sÃ­mbolo. Renove, camarada! VocÃª estÃ¡ aqui pelo
  disco?}
-{401}{}{Sim, estou. Onde está?}
+{401}{}{Sim, estou. Onde estÃ¡?}
 {402}{}{Que disco?}
-{403}{}{Não, na verdade não. Acho melhor eu ir. Adeus.}
+{403}{}{NÃ£o, na verdade nÃ£o. Acho melhor eu ir. Adeus.}
 {410}{}{Um corpo? Qual dos nossos morreu?}
-{411}{}{Uh, quero dizer que alguém me deu.}
-{412}{}{Qual deles morreu? Vocês todos estão mortos. Vocês uns ghouls malditos, não são? Um de seus amigos ghols
+{411}{}{Uh, quero dizer que alguÃ©m me deu.}
+{412}{}{Qual deles morreu? VocÃªs todos estÃ£o mortos. VocÃªs uns ghouls malditos, nÃ£o sÃ£o? Um de seus amigos ghols
  me deu.}
-{413}{}{Na verdade você realmente deveria perguntar qual de vocês eu não matei. Falando nisso - você é o próximo.}
-{414}{}{Não, você me entendeu mal. Eu disse que me juntei ao corpo. Renove, irmão!}
-{420}{}{Os fatos falam por si. Se você mostrar para alguém com uma mente aberta o suficiente, os dados
- poderão convencer.}
+{413}{}{Na verdade vocÃª realmente deveria perguntar qual de vocÃªs eu nÃ£o matei. Falando nisso - vocÃª Ã© o prÃ³ximo.}
+{414}{}{NÃ£o, vocÃª me entendeu mal. Eu disse que me juntei ao corpo. Renove, irmÃ£o!}
+{420}{}{Os fatos falam por si. Se vocÃª mostrar para alguÃ©m com uma mente aberta o suficiente, os dados
+ poderÃ£o convencer.}
 {421}{}{Bem, ok. Vou tentar. Adeus.}
 {422}{}{Vou pensar sobre isso. Adeus.}
-{500}{}{. O que você faz aqui?}
-{501}{}{. Até mais, Gordon. Adeus.}
+{500}{}{. O que vocÃª faz aqui?}
+{501}{}{. AtÃ© mais, Gordon. Adeus.}
 {502}{}{.}
-{600}{}{Obrigado pela informação, Gordon. Adeus.}
+{600}{}{Obrigado pela informaÃ§Ã£o, Gordon. Adeus.}

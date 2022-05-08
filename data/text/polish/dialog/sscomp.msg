@@ -1,5 +1,5 @@
 {100}{}{Widzisz komputer.}
-{101}{}{Po prostu komputer. Wygl¹da na to, ¿e dzia³a poprawnie.}
-{102}{}{Zwyk³y komputer. Widaæ wyraŸnie, ¿e jest uszkodzony.}
-{103}{}{Jednostka on-line. Uruchomiono diagnostykê wewnêtrzn¹...}
-{104}{}{Niestety nie zadzia³a³o.}
+{101}{}{Po prostu komputer. WyglÄ…da na to, Å¼e dziaÅ‚a poprawnie.}
+{102}{}{ZwykÅ‚y komputer. WidaÄ‡ wyraÅºnie, Å¼e jest uszkodzony.}
+{103}{}{Jednostka on-line. Uruchomiono diagnostykÄ™ wewnÄ™trznÄ…...}
+{104}{}{Niestety nie zadziaÅ‚aÅ‚o.}

@@ -3,59 +3,59 @@
 {200}{}{Zzzzzt... Witaj... zzZzzt... Czy.. zzzZzzZtt... miesz... mnie?}
 {201}{}{Przepraszam?}
 {202}{}{Ta. Na razie.}
-{203}{}{Moje... zZzzzt... sensor...ZzzzzzZzt...*zniekszta³cenie*... naprawiæ?}
-{204}{}{Przepraszam, ale ciê nie rozumiem. Za du¿o trzasków. Zobaczê czy uda mi siê to w jakiœ sposób naprawiæ.}
-{205}{}{Nie mam na to czasu. Czeœæ.}
-{300}{}{Dziêkujê ci za naprawienie mnie! Przera¿a³a mnie myœl, ¿e móg³by pojawiæ siê jakiœ zwiedzaj¹cy i zadaæ mi pytania na które nie móg³bym nale¿ycie odpowiedzieæ przez te trzaski. Oczywiœcie od wojny nikogo poza tob¹ tu nie by³o, ale jednak, *gdybym* na kogoœ natrafi³, mog³oby to byæ k³opotliwe.}
-{301}{}{¯aden problem. A tak w ogóle, co to za miejsce?}
-{302}{}{[Uœmiecha siê, wydaje siê zadowolony z faktu, ¿e mo¿e odpowiedzieæ na pytanie.] Jesteœmy w Agencji Ochrony Œrodowiska, czêœciej nazywanej AOŒ. Przed wojn¹ by³a to placówka rz¹dowa specjalizuj¹ca siê w testowaniu chemikaliów pod wzglêdem bezpieczeñstwa dla œrodowiska Ziemi. Ale to tylko ma³a czêœæ naszej dzia³alnoœci. Dzia³o siê tu naprawdê wiele, do czasu kiedy placówka zosta³a opuszczona z powodu wojny. Nic ju¿ nie jest takie samo.}
-{303}{}{Interesuj¹ce. Wiêc, jaki jest twój cel tutaj?}
-{304}{}{Có¿, w przeciwieñstwie do innych Hologramów jakie tu napotkasz, ja nie zosta³em stworzony do konkretnego celu. Po prostu odpowiadam na pytania odwiedzaj¹cych, albo pomagam w rozwi¹zaniu skomplikowanych problemów matematycznych, których ludzki umys³ nie jest w stanie rozpracowaæ.}
-{305}{}{Rozumiem. Wiêc mo¿e móg³byœ odpowiedzieæ na kilka moich pytañ?}
-{310}{}{Och, bardzo chêtnie odpowiem na twoje pytania. Pytaj, a ja odpowiem Ci najlepiej jak potrafiê.}
-{311}{}{Jest tu du¿o odniesieñ do Poziomu Niebieskiego. Jak mo¿na siê tam dostaæ?}
-{312}{}{Jest inna droga, ale wymaga kodu dostêpu. Zawiezie ciê tam winda serwisowa.}
-{313}{}{Mo¿esz mi powiedzieæ coœ o tych przedmiotach?}
-{314}{}{Niewa¿ne. Niczego nie potrzebujê.}
-{320}{}{Ale¿ oczywiœcie, g³ówna winda na powierzchni zabierze ciê gdzie tylko chcesz! Czemu chodziæ kana³ami wentylacyjnymi?}
-{321}{}{Có¿, mo¿e dlatego, ¿e g³ówna winda nie dzia³a i jedyna droga jak¹ uda³o mi siê znaleŸæ wiedzie przez wentylacjê.}
-{322}{}{Och, rozumiem. Teraz to ma sens. Có¿ jest jeszcze jedna droga do œrodka. Jest winda serwisowa, która zawiezie ciê na poziom drugi. Powinna byæ dostêpna spod warsztatu Doktora. Mo¿na go znaleŸæ na zewn¹trz, na wschód od g³ównego wejœcia AOŒ. Ale ¿eby siê tam dostaæ, bêdzie ci potrzebny kod dostêpu. A poniewa¿ jestem ci wdziêczny za naprawienia mnie, zdradzê ci kod. Has³o brzmi "DONICZKA".}
-{323}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
-{324}{}{Przykro mi, ale Poziom Niebieski zawiera œciœle tajne badania. Dostêp na ten poziom jest ograniczony do... A, do diab³a z tym. Uda³o ci siê mnie naprawiæ, wiêc chyba mogê Ci siê odwdziêczyæ i podaæ has³o dostêpu. Has³o brzmi “DONICZKA”.}
-{330}{}{Postaram siê. Jaki przedmiot chcesz zidentyfikowaæ?}
-{331}{}{Jaki jest cel karmy dla psów?}
-{332}{}{Mam tu strzykawkê pe³n¹ jakiegoœ p³ynu. Coœ przedwojennego, ale nie wiem co robi. Wiesz co to jest?}
-{333}{}{Stojak probówek. Mo¿na to do czegoœ wykorzystaæ?}
-{334}{}{Jaki efekty daj¹ te narkotyki?}
-{335}{}{Mam trochê chemikaliów zrobionych przez robota Pana Ma³ego Chemika!. Co one robi¹?}
-{336}{}{Dynamit, jest trochê inny ni¿ zwykle. Jak mogê go u¿yæ?}
-{337}{}{W³aœciwie pozwól, ¿e zapytam o coœ innego.}
-{340}{}{Có¿, twórcy tego miejsca zawsze lubili umieszczaæ odniesienia do filmów, ksi¹¿ek i innych Ÿróde³. Uwa¿ali to za zabawne, zreszt¹ nie tylko oni. Karma dla psów to odniesienie do filmu, ale jakiego, to zostawiam tobie do zgadniêcia.}
-{341}{}{Dobra. Pozwól, ¿e zapytam o coœ innego.}
-{350}{}{Có¿, to s¹ podstawowe narzêdzia ka¿dego chemika. Je¿eli zdarzy ci siê coœ przygotowywaæ, to mo¿e znajdzie siê dla tego zastosowanie.}
-{351}{}{Dobra. Pozwól, ¿e zapytam o coœ innego.}
-{360}{}{Interesuj¹ce. Nie rozpoznajê tego. Proszê umieœæ strzykawkê w pojemniku obok mnie w celu przeanalizowania.}
-{361}{}{Dobra. [Wk³adasz przedmiot do pojemnika i zamykasz pokrywê.]}
-{362}{}{W³aœciwie to nie muszê tego wiedzieæ teraz. Pozwól, ¿e zapytam o coœ innego.}
-{363}{}{Rozpoznawanie molekularne sk³adu chemicznego p³ynu wewn¹trz strzykawki...zakoñczone powodzeniem. Analiza zakoñczona. Interesuj¹ce, wygl¹da na to, ¿e strzykawka zawiera unikalne serum ze œladami DNA kotowatych. Eksperymentalny narkotyk z potencja³em do zwiêkszania ludzkiej zrêcznoœci. Oczywiœcie, nie zaleca³bym u¿ywania niczego co jest jeszcze w fazie eksperymentów.}
-{364}{}{Dobra. Pozwól, ¿e zapytam o coœ innego.}
-{370}{}{Ach, to z pewnoœci¹ konopie, znane równie¿ jako marihuana, trawka, gañdzia. Rodzaj nielegalnego narkotyku, który palony lub jedzony mo¿e oddzia³ywaæ psychoaktywnie. Niektórzy z tutejszych techników palili to ¿eby siê zrelaksowaæ. Jeœli zamierzasz to paliæ, wiedz, ¿e mo¿e czasowo zaæmiæ twój umys³ i zmniejszyæ czas reakcji.}
-{371}{}{Dobra. Pozwól, ¿e zapytam o coœ innego.}
-{380}{}{Interesuj¹ce. Nie rozpoznajê tego. Proszê umieœæ strzykawkê w pojemniku obok mnie w celu przeanalizowania.}
-{381}{}{Dobra. [Wk³adasz przedmiot do pojemnika i zamykasz pokrywê.]}
-{382}{}{W³aœciwie to nie muszê tego wiedzieæ teraz. Pozwól, ¿e zapytam o coœ innego.}
-{383}{}{Niestety. Nie mam ¿adnych informacji na temat tego przedmiotu. Tak jak przy wszelkich niezidentyfikowanych substancjach, doradzam ostro¿noœæ. Przykro mi, ¿e nie mog³em bardziej pomóc.}
-{384}{}{Dobra. Pozwól, ¿e zapytam o coœ innego.}
-{390}{}{To jest interesuj¹ce. W przeciwieñstwie do dynamitu odpalanego zegarem, to jest dynamit sterowany radiem. Po prostu umieœæ dynamit tam, gdzie chcesz ¿eby wybuch³, nastêpnie oddal siê od niego na bezpieczn¹ odleg³oœæ i naciœnij przycisk sterowania. Ca³kiem fajna rzecz, prawda?}
-{391}{}{Zdecydowanie. Pozwól, ¿e zapytam o coœ innego.}
-{400}{}{Witaj ponownie. Jest jeszcze coœ w czym móg³bym ci pomóc?}
-{401}{}{Mam kilka pytañ.}
-{402}{}{Niewa¿ne. Czeœæ.}
-{500}{}{Otwierasz boczny panel Hologramu i zagl¹dasz do œrodka. Widzisz pl¹taninê kabli i p³ytek drukowanych.}
-{501}{}{Có¿, zaczynajmy.}
-{502}{}{Po pewnym czasie udaje ci siê odnaleŸæ i usun¹æ usterkê. Zamykasz panel i ocierasz pot z czo³a.}
-{503}{}{Udaje ci siê naprawiæ hologram.}
-{504}{}{Po paru próbach dajesz za wygran¹. Nie wiesz jak naprawiæ hologram.}
-{505}{}{Cholera. To za trudne dla mnie. Naprawianie maszyn nie jest moj¹ najmocniejsz¹ stron¹.}
-{506}{}{Nie udaje ci siê naprawiæ hologramu.}
+{203}{}{Moje... zZzzzt... sensor...ZzzzzzZzt...*znieksztaÅ‚cenie*... naprawiÄ‡?}
+{204}{}{Przepraszam, ale ciÄ™ nie rozumiem. Za duÅ¼o trzaskÃ³w. ZobaczÄ™ czy uda mi siÄ™ to w jakiÅ› sposÃ³b naprawiÄ‡.}
+{205}{}{Nie mam na to czasu. CzeÅ›Ä‡.}
+{300}{}{DziÄ™kujÄ™ ci za naprawienie mnie! PrzeraÅ¼aÅ‚a mnie myÅ›l, Å¼e mÃ³gÅ‚by pojawiÄ‡ siÄ™ jakiÅ› zwiedzajÄ…cy i zadaÄ‡ mi pytania na ktÃ³re nie mÃ³gÅ‚bym naleÅ¼ycie odpowiedzieÄ‡ przez te trzaski. OczywiÅ›cie od wojny nikogo poza tobÄ… tu nie byÅ‚o, ale jednak, *gdybym* na kogoÅ› natrafiÅ‚, mogÅ‚oby to byÄ‡ kÅ‚opotliwe.}
+{301}{}{Å»aden problem. A tak w ogÃ³le, co to za miejsce?}
+{302}{}{[UÅ›miecha siÄ™, wydaje siÄ™ zadowolony z faktu, Å¼e moÅ¼e odpowiedzieÄ‡ na pytanie.] JesteÅ›my w Agencji Ochrony Åšrodowiska, czÄ™Å›ciej nazywanej AOÅš. Przed wojnÄ… byÅ‚a to placÃ³wka rzÄ…dowa specjalizujÄ…ca siÄ™ w testowaniu chemikaliÃ³w pod wzglÄ™dem bezpieczeÅ„stwa dla Å›rodowiska Ziemi. Ale to tylko maÅ‚a czÄ™Å›Ä‡ naszej dziaÅ‚alnoÅ›ci. DziaÅ‚o siÄ™ tu naprawdÄ™ wiele, do czasu kiedy placÃ³wka zostaÅ‚a opuszczona z powodu wojny. Nic juÅ¼ nie jest takie samo.}
+{303}{}{InteresujÄ…ce. WiÄ™c, jaki jest twÃ³j cel tutaj?}
+{304}{}{CÃ³Å¼, w przeciwieÅ„stwie do innych HologramÃ³w jakie tu napotkasz, ja nie zostaÅ‚em stworzony do konkretnego celu. Po prostu odpowiadam na pytania odwiedzajÄ…cych, albo pomagam w rozwiÄ…zaniu skomplikowanych problemÃ³w matematycznych, ktÃ³rych ludzki umysÅ‚ nie jest w stanie rozpracowaÄ‡.}
+{305}{}{Rozumiem. WiÄ™c moÅ¼e mÃ³gÅ‚byÅ› odpowiedzieÄ‡ na kilka moich pytaÅ„?}
+{310}{}{Och, bardzo chÄ™tnie odpowiem na twoje pytania. Pytaj, a ja odpowiem Ci najlepiej jak potrafiÄ™.}
+{311}{}{Jest tu duÅ¼o odniesieÅ„ do Poziomu Niebieskiego. Jak moÅ¼na siÄ™ tam dostaÄ‡?}
+{312}{}{Jest inna droga, ale wymaga kodu dostÄ™pu. Zawiezie ciÄ™ tam winda serwisowa.}
+{313}{}{MoÅ¼esz mi powiedzieÄ‡ coÅ› o tych przedmiotach?}
+{314}{}{NiewaÅ¼ne. Niczego nie potrzebujÄ™.}
+{320}{}{AleÅ¼ oczywiÅ›cie, gÅ‚Ã³wna winda na powierzchni zabierze ciÄ™ gdzie tylko chcesz! Czemu chodziÄ‡ kanaÅ‚ami wentylacyjnymi?}
+{321}{}{CÃ³Å¼, moÅ¼e dlatego, Å¼e gÅ‚Ã³wna winda nie dziaÅ‚a i jedyna droga jakÄ… udaÅ‚o mi siÄ™ znaleÅºÄ‡ wiedzie przez wentylacjÄ™.}
+{322}{}{Och, rozumiem. Teraz to ma sens. CÃ³Å¼ jest jeszcze jedna droga do Å›rodka. Jest winda serwisowa, ktÃ³ra zawiezie ciÄ™ na poziom drugi. Powinna byÄ‡ dostÄ™pna spod warsztatu Doktora. MoÅ¼na go znaleÅºÄ‡ na zewnÄ…trz, na wschÃ³d od gÅ‚Ã³wnego wejÅ›cia AOÅš. Ale Å¼eby siÄ™ tam dostaÄ‡, bÄ™dzie ci potrzebny kod dostÄ™pu. A poniewaÅ¼ jestem ci wdziÄ™czny za naprawienia mnie, zdradzÄ™ ci kod. HasÅ‚o brzmi "DONICZKA".}
+{323}{}{DziÄ™kujÄ™. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{324}{}{Przykro mi, ale Poziom Niebieski zawiera Å›ciÅ›le tajne badania. DostÄ™p na ten poziom jest ograniczony do... A, do diabÅ‚a z tym. UdaÅ‚o ci siÄ™ mnie naprawiÄ‡, wiÄ™c chyba mogÄ™ Ci siÄ™ odwdziÄ™czyÄ‡ i podaÄ‡ hasÅ‚o dostÄ™pu. HasÅ‚o brzmi â€œDONICZKAâ€.}
+{330}{}{Postaram siÄ™. Jaki przedmiot chcesz zidentyfikowaÄ‡?}
+{331}{}{Jaki jest cel karmy dla psÃ³w?}
+{332}{}{Mam tu strzykawkÄ™ peÅ‚nÄ… jakiegoÅ› pÅ‚ynu. CoÅ› przedwojennego, ale nie wiem co robi. Wiesz co to jest?}
+{333}{}{Stojak probÃ³wek. MoÅ¼na to do czegoÅ› wykorzystaÄ‡?}
+{334}{}{Jaki efekty dajÄ… te narkotyki?}
+{335}{}{Mam trochÄ™ chemikaliÃ³w zrobionych przez robota Pana MaÅ‚ego Chemika!. Co one robiÄ…?}
+{336}{}{Dynamit, jest trochÄ™ inny niÅ¼ zwykle. Jak mogÄ™ go uÅ¼yÄ‡?}
+{337}{}{WÅ‚aÅ›ciwie pozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{340}{}{CÃ³Å¼, twÃ³rcy tego miejsca zawsze lubili umieszczaÄ‡ odniesienia do filmÃ³w, ksiÄ…Å¼ek i innych ÅºrÃ³deÅ‚. UwaÅ¼ali to za zabawne, zresztÄ… nie tylko oni. Karma dla psÃ³w to odniesienie do filmu, ale jakiego, to zostawiam tobie do zgadniÄ™cia.}
+{341}{}{Dobra. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{350}{}{CÃ³Å¼, to sÄ… podstawowe narzÄ™dzia kaÅ¼dego chemika. JeÅ¼eli zdarzy ci siÄ™ coÅ› przygotowywaÄ‡, to moÅ¼e znajdzie siÄ™ dla tego zastosowanie.}
+{351}{}{Dobra. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{360}{}{InteresujÄ…ce. Nie rozpoznajÄ™ tego. ProszÄ™ umieÅ›Ä‡ strzykawkÄ™ w pojemniku obok mnie w celu przeanalizowania.}
+{361}{}{Dobra. [WkÅ‚adasz przedmiot do pojemnika i zamykasz pokrywÄ™.]}
+{362}{}{WÅ‚aÅ›ciwie to nie muszÄ™ tego wiedzieÄ‡ teraz. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{363}{}{Rozpoznawanie molekularne skÅ‚adu chemicznego pÅ‚ynu wewnÄ…trz strzykawki...zakoÅ„czone powodzeniem. Analiza zakoÅ„czona. InteresujÄ…ce, wyglÄ…da na to, Å¼e strzykawka zawiera unikalne serum ze Å›ladami DNA kotowatych. Eksperymentalny narkotyk z potencjaÅ‚em do zwiÄ™kszania ludzkiej zrÄ™cznoÅ›ci. OczywiÅ›cie, nie zalecaÅ‚bym uÅ¼ywania niczego co jest jeszcze w fazie eksperymentÃ³w.}
+{364}{}{Dobra. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{370}{}{Ach, to z pewnoÅ›ciÄ… konopie, znane rÃ³wnieÅ¼ jako marihuana, trawka, gaÅ„dzia. Rodzaj nielegalnego narkotyku, ktÃ³ry palony lub jedzony moÅ¼e oddziaÅ‚ywaÄ‡ psychoaktywnie. NiektÃ³rzy z tutejszych technikÃ³w palili to Å¼eby siÄ™ zrelaksowaÄ‡. JeÅ›li zamierzasz to paliÄ‡, wiedz, Å¼e moÅ¼e czasowo zaÄ‡miÄ‡ twÃ³j umysÅ‚ i zmniejszyÄ‡ czas reakcji.}
+{371}{}{Dobra. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{380}{}{InteresujÄ…ce. Nie rozpoznajÄ™ tego. ProszÄ™ umieÅ›Ä‡ strzykawkÄ™ w pojemniku obok mnie w celu przeanalizowania.}
+{381}{}{Dobra. [WkÅ‚adasz przedmiot do pojemnika i zamykasz pokrywÄ™.]}
+{382}{}{WÅ‚aÅ›ciwie to nie muszÄ™ tego wiedzieÄ‡ teraz. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{383}{}{Niestety. Nie mam Å¼adnych informacji na temat tego przedmiotu. Tak jak przy wszelkich niezidentyfikowanych substancjach, doradzam ostroÅ¼noÅ›Ä‡. Przykro mi, Å¼e nie mogÅ‚em bardziej pomÃ³c.}
+{384}{}{Dobra. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{390}{}{To jest interesujÄ…ce. W przeciwieÅ„stwie do dynamitu odpalanego zegarem, to jest dynamit sterowany radiem. Po prostu umieÅ›Ä‡ dynamit tam, gdzie chcesz Å¼eby wybuchÅ‚, nastÄ™pnie oddal siÄ™ od niego na bezpiecznÄ… odlegÅ‚oÅ›Ä‡ i naciÅ›nij przycisk sterowania. CaÅ‚kiem fajna rzecz, prawda?}
+{391}{}{Zdecydowanie. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{400}{}{Witaj ponownie. Jest jeszcze coÅ› w czym mÃ³gÅ‚bym ci pomÃ³c?}
+{401}{}{Mam kilka pytaÅ„.}
+{402}{}{NiewaÅ¼ne. CzeÅ›Ä‡.}
+{500}{}{Otwierasz boczny panel Hologramu i zaglÄ…dasz do Å›rodka. Widzisz plÄ…taninÄ™ kabli i pÅ‚ytek drukowanych.}
+{501}{}{CÃ³Å¼, zaczynajmy.}
+{502}{}{Po pewnym czasie udaje ci siÄ™ odnaleÅºÄ‡ i usunÄ…Ä‡ usterkÄ™. Zamykasz panel i ocierasz pot z czoÅ‚a.}
+{503}{}{Udaje ci siÄ™ naprawiÄ‡ hologram.}
+{504}{}{Po paru prÃ³bach dajesz za wygranÄ…. Nie wiesz jak naprawiÄ‡ hologram.}
+{505}{}{Cholera. To za trudne dla mnie. Naprawianie maszyn nie jest mojÄ… najmocniejszÄ… stronÄ….}
+{506}{}{Nie udaje ci siÄ™ naprawiÄ‡ hologramu.}
 {507}{}{[dalej]}

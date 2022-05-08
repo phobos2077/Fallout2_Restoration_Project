@@ -1,125 +1,125 @@
-{100}{}{Widzisz starego mutanta wygl¹daj¹cego na twardziela.}
+{100}{}{Widzisz starego mutanta wyglÄ…dajÄ…cego na twardziela.}
 {101}{}{Widzisz Zaiusa, sztygara kopalni.}
-{102}{}{Widzisz twardego, starego mutanta z kilofem i kaskiem górniczym.}
-{103}{}{To ty jesteœ t¹ now¹ osob¹ w mieœcie w mieœcie?}
+{102}{}{Widzisz twardego, starego mutanta z kilofem i kaskiem gÃ³rniczym.}
+{103}{}{To ty jesteÅ› tÄ… nowÄ… osobÄ… w mieÅ›cie w mieÅ›cie?}
 {104}{}{Ik, ug og!}
 {105}{}{Nowa! Ja! Osoba!}
-{106}{}{Dok³adnie.}
-{107}{}{Tak, wpad³em tu na jakiœ czas.}
-{108}{}{Nie, geniuszu. ¯yjê tu od lat, a ty mnie po prostu nie zauwa¿y³eœ.}
-{109}{}{Wiem o waszym problemie z kopalni¹.}
-{110}{}{Co mo¿esz mi powiedzieæ o tym miejscu?}
-{111}{}{Ummm... dobra. Coœ ci powiem. Masz tu parê dolców. IdŸ do saloonu i kup sobie coœ do picia.}
+{106}{}{DokÅ‚adnie.}
+{107}{}{Tak, wpadÅ‚em tu na jakiÅ› czas.}
+{108}{}{Nie, geniuszu. Å»yjÄ™ tu od lat, a ty mnie po prostu nie zauwaÅ¼yÅ‚eÅ›.}
+{109}{}{Wiem o waszym problemie z kopalniÄ….}
+{110}{}{Co moÅ¼esz mi powiedzieÄ‡ o tym miejscu?}
+{111}{}{Ummm... dobra. CoÅ› ci powiem. Masz tu parÄ™ dolcÃ³w. IdÅº do saloonu i kup sobie coÅ› do picia.}
 {112}{}{Yagga? Ogg? Gronk!}
-{113}{}{Nie rozumiem ciê. Czemu nie pójdziesz do saloonu? Do diab³a, mo¿e Francis siê z tob¹ posi³uje.}
-{114}{}{£uje? O-KEJ!}
-{115}{}{Dobrze. Có¿, jestem Zaius. Skoro siê ju¿ przedstawiliœmy... Znasz siê na naprawianiu? Mamy problem z naszym systemem oczyszczania powietrza na dolnym poziomie kopalni, ale nie mamy czêœci, by go naprawiæ ani sprzêtu, który ochroni³by nas przed gazem radonowym.}
-{116}{}{Nie znam siê na tym. Przykro mi.}
-{117}{}{Nie wygl¹da na trudne. Co muszê zrobiæ?}
-{118}{}{Có¿, mam nadziejê, ¿e podoba ci siê w Broken Hills.}
+{113}{}{Nie rozumiem ciÄ™. Czemu nie pÃ³jdziesz do saloonu? Do diabÅ‚a, moÅ¼e Francis siÄ™ z tobÄ… posiÅ‚uje.}
+{114}{}{Åuje? O-KEJ!}
+{115}{}{Dobrze. CÃ³Å¼, jestem Zaius. Skoro siÄ™ juÅ¼ przedstawiliÅ›my... Znasz siÄ™ na naprawianiu? Mamy problem z naszym systemem oczyszczania powietrza na dolnym poziomie kopalni, ale nie mamy czÄ™Å›ci, by go naprawiÄ‡ ani sprzÄ™tu, ktÃ³ry ochroniÅ‚by nas przed gazem radonowym.}
+{116}{}{Nie znam siÄ™ na tym. Przykro mi.}
+{117}{}{Nie wyglÄ…da na trudne. Co muszÄ™ zrobiÄ‡?}
+{118}{}{CÃ³Å¼, mam nadziejÄ™, Å¼e podoba ci siÄ™ w Broken Hills.}
 {119}{}{[dalej]}
-{120}{}{Cha. Cha. Bardzo œmieszne. Potrzebujemy jakiegoœ spryciarza do rozwi¹zania problemu.}
-{121}{}{Mam wiêcej sprytu ni¿ ktokolwiek inny na tym zadupiu.}
+{120}{}{Cha. Cha. Bardzo Å›mieszne. Potrzebujemy jakiegoÅ› spryciarza do rozwiÄ…zania problemu.}
+{121}{}{Mam wiÄ™cej sprytu niÅ¼ ktokolwiek inny na tym zadupiu.}
 {122}{}{Och? Macie problem? Jaki?}
-{123}{}{G³ównym problemem jest twoja g³upota.}
-{124}{}{Mo¿na powiedzieæ, ¿e mam trochê sprytu. Jaki macie problem?}
-{125}{}{Zepsu³ siê nasz filtr powietrza. Jest na dolnym poziomie. Nie mamy czêœci ani sprzêtu ochronnego. Bez czêœci nie mo¿emy go naprawiæ. Bez ochrony, dopadnie nas gaz radonowy. Znasz siê na naprawianiu?}
+{123}{}{GÅ‚Ã³wnym problemem jest twoja gÅ‚upota.}
+{124}{}{MoÅ¼na powiedzieÄ‡, Å¼e mam trochÄ™ sprytu. Jaki macie problem?}
+{125}{}{ZepsuÅ‚ siÄ™ nasz filtr powietrza. Jest na dolnym poziomie. Nie mamy czÄ™Å›ci ani sprzÄ™tu ochronnego. Bez czÄ™Å›ci nie moÅ¼emy go naprawiÄ‡. Bez ochrony, dopadnie nas gaz radonowy. Znasz siÄ™ na naprawianiu?}
 {126}{}{Chyba tak.}
 {127}{}{Niespecjalnie.}
 {128}{}{Znowu ty, co?}
 {129}{}{Ork! Uuu! Ug ug!}
-{130}{}{Czeœæ! CZEEEŒÆ! Ja (name)!}
-{131}{}{Da³em ci ju¿ pieni¹dze. IdŸ poprzeszkadzaæ komuœ innemu, co?}
-{132}{}{Witaj ponownie. Czemu nie pójdziesz... umm... do banku w mieœcie? Jestem pewien, ¿e wielu ludzi z radoœci¹ z tob¹ pogada.}
-{133}{}{Jeœli wymyœlisz jakiœ sposób, daj mi znaæ.}
-{134}{}{Naprawdê? Zrobisz to dla mnie... i, co wa¿niejsze, dla Broken Hills?}
-{135}{}{Co bêdê z tego mieæ?}
-{136}{}{Pewnie, zrobiê tak.}
+{130}{}{CzeÅ›Ä‡! CZEEEÅšÄ†! Ja (name)!}
+{131}{}{DaÅ‚em ci juÅ¼ pieniÄ…dze. IdÅº poprzeszkadzaÄ‡ komuÅ› innemu, co?}
+{132}{}{Witaj ponownie. Czemu nie pÃ³jdziesz... umm... do banku w mieÅ›cie? Jestem pewien, Å¼e wielu ludzi z radoÅ›ciÄ… z tobÄ… pogada.}
+{133}{}{JeÅ›li wymyÅ›lisz jakiÅ› sposÃ³b, daj mi znaÄ‡.}
+{134}{}{NaprawdÄ™? Zrobisz to dla mnie... i, co waÅ¼niejsze, dla Broken Hills?}
+{135}{}{Co bÄ™dÄ™ z tego mieÄ‡?}
+{136}{}{Pewnie, zrobiÄ™ tak.}
 {137}{}{Nie teraz.}
-{138}{}{Doprawdy? Có¿, m¹dralo, czemu nie naprawisz filtru powietrza? Potrzebujesz tylko czêœci i sposobu, jak poradziæ sobie z gazem. Dopóki nie poka¿esz mi, ¿e potrafisz to zrobiæ, uznam chyba, ¿e potrafisz tylko gadaæ.}
-{139}{}{Co bêdê z tego mieæ?}
-{140}{}{Pewnie, zrobiê tak.}
-{141}{}{Chyba ¿artujesz?}
-{142}{}{G³ównym problemem jest moja g³upota. Powtarzam to, bo nie wierzê, ¿e twoja dupa wypierdzia³a coœ, co brzmia³o jak s³owa. ZejdŸ mi z oczu, palancie.}
-{143}{}{Oprócz zanudzaj¹cych mnie palantów, g³ównym problemem jest system oczyszczania powietrza w kopalni. Zepsu³ siê, a my nie mamy sprzêtu, który ochroni³by nas przed gazem radonowym, ani czêœci, by go naprawiæ. Ale ty mo¿esz go naprawiæ, z twoj¹ wielk¹ inteligencj¹?}
-{144}{}{Co bêdê z tego mieæ?}
-{145}{}{Pewnie, zrobiê tak.}
-{146}{}{Chyba ¿artujesz? W ¿yciu.}
+{138}{}{Doprawdy? CÃ³Å¼, mÄ…dralo, czemu nie naprawisz filtru powietrza? Potrzebujesz tylko czÄ™Å›ci i sposobu, jak poradziÄ‡ sobie z gazem. DopÃ³ki nie pokaÅ¼esz mi, Å¼e potrafisz to zrobiÄ‡, uznam chyba, Å¼e potrafisz tylko gadaÄ‡.}
+{139}{}{Co bÄ™dÄ™ z tego mieÄ‡?}
+{140}{}{Pewnie, zrobiÄ™ tak.}
+{141}{}{Chyba Å¼artujesz?}
+{142}{}{GÅ‚Ã³wnym problemem jest moja gÅ‚upota. Powtarzam to, bo nie wierzÄ™, Å¼e twoja dupa wypierdziaÅ‚a coÅ›, co brzmiaÅ‚o jak sÅ‚owa. ZejdÅº mi z oczu, palancie.}
+{143}{}{OprÃ³cz zanudzajÄ…cych mnie palantÃ³w, gÅ‚Ã³wnym problemem jest system oczyszczania powietrza w kopalni. ZepsuÅ‚ siÄ™, a my nie mamy sprzÄ™tu, ktÃ³ry ochroniÅ‚by nas przed gazem radonowym, ani czÄ™Å›ci, by go naprawiÄ‡. Ale ty moÅ¼esz go naprawiÄ‡, z twojÄ… wielkÄ… inteligencjÄ…?}
+{144}{}{Co bÄ™dÄ™ z tego mieÄ‡?}
+{145}{}{Pewnie, zrobiÄ™ tak.}
+{146}{}{Chyba Å¼artujesz? W Å¼yciu.}
 {147}{}{. Co ty na to?}
-{148}{}{Za ma³o, chcê wiêcej.}
-{149}{}{Jak dla mnie mo¿e byæ.}
-{150}{}{Zapomnij o tym. Idê st¹d.}
-{151}{}{Œwietnie! Oczywiœcie musisz zdobyæ czêœci. IdŸ do Nowego Reno i poszukaj Renesco. Ma w sklepie kupê narzêdzi. Powiedz mu, ¿e przys³a³ ciê Zaius. Przeka¿ mu, ¿e powiedzia³em "Kanarek kopn¹³ w kalendarz". Nie wiem, gdzie znajdziesz coœ, co ochroni ciê przed gazem. Mo¿esz iœæ bez tego, ale odniesiesz wtedy obra¿enia. Jeszcze raz ci dziêkujê.}
-{152}{}{Nie ma sprawy. Czeœæ.}
-{153}{}{Nie? Có¿, jeœli zmienisz zdanie, wiesz, gdzie mnie znaleŸæ.}
-{154}{}{W porz¹dku. Do widzenia.}
-{155}{}{ - niech bêdzie wiêc tyle. WeŸ na razie po³owê. Drug¹ po³owê dam ci, gdy skoñczysz. IdŸ do Nowego Reno i znajdŸ Renesco. Ma tam kupê narzêdzi. Powinien pomóc ci w zdobyciu czêœci.}
-{156}{}{Czeœæ.}
-{157}{}{Przykro mi. Wiêcej nie dam. Bierzesz tyle albo nic.}
-{158}{}{W porz¹dku.}
+{148}{}{Za maÅ‚o, chcÄ™ wiÄ™cej.}
+{149}{}{Jak dla mnie moÅ¼e byÄ‡.}
+{150}{}{Zapomnij o tym. IdÄ™ stÄ…d.}
+{151}{}{Åšwietnie! OczywiÅ›cie musisz zdobyÄ‡ czÄ™Å›ci. IdÅº do Nowego Reno i poszukaj Renesco. Ma w sklepie kupÄ™ narzÄ™dzi. Powiedz mu, Å¼e przysÅ‚aÅ‚ ciÄ™ Zaius. PrzekaÅ¼ mu, Å¼e powiedziaÅ‚em "Kanarek kopnÄ…Å‚ w kalendarz". Nie wiem, gdzie znajdziesz coÅ›, co ochroni ciÄ™ przed gazem. MoÅ¼esz iÅ›Ä‡ bez tego, ale odniesiesz wtedy obraÅ¼enia. Jeszcze raz ci dziÄ™kujÄ™.}
+{152}{}{Nie ma sprawy. CzeÅ›Ä‡.}
+{153}{}{Nie? CÃ³Å¼, jeÅ›li zmienisz zdanie, wiesz, gdzie mnie znaleÅºÄ‡.}
+{154}{}{W porzÄ…dku. Do widzenia.}
+{155}{}{ - niech bÄ™dzie wiÄ™c tyle. WeÅº na razie poÅ‚owÄ™. DrugÄ… poÅ‚owÄ™ dam ci, gdy skoÅ„czysz. IdÅº do Nowego Reno i znajdÅº Renesco. Ma tam kupÄ™ narzÄ™dzi. Powinien pomÃ³c ci w zdobyciu czÄ™Å›ci.}
+{156}{}{CzeÅ›Ä‡.}
+{157}{}{Przykro mi. WiÄ™cej nie dam. Bierzesz tyle albo nic.}
+{158}{}{W porzÄ…dku.}
 {159}{}{Nie ma mowy.}
 {160}{}{Nie bierzesz? Jak chcesz.}
 {161}{}{Jak chcesz.}
-{162}{}{Czeœæ, przyjacielu! }
+{162}{}{CzeÅ›Ä‡, przyjacielu! }
 {163}{}{Och, to znowu ty. }
-{164}{}{Jak siê masz.}
-{165}{}{Wiesz, wiedzia³em, ¿e te skurwysyny Franc, Manson, Jacob i Aileen coœ szykowali. Dobra robota! A wiêc... }
-{166}{}{Mam nadziejê, ¿e myœlisz ju¿ nad sposobem odzyskaniu rudy... A wiêc...}
-{167}{}{Dziêki za sprzedanie rudy. Nie znaczy to, ¿e nie moglibyœmy jej u¿yæ. A wiêc...}
-{168}{}{Dziêki za odzyskanie tej rudy. Nawet nie wiesz, jak ciê¿ko na ni¹ pracujemy.}
+{164}{}{Jak siÄ™ masz.}
+{165}{}{Wiesz, wiedziaÅ‚em, Å¼e te skurwysyny Franc, Manson, Jacob i Aileen coÅ› szykowali. Dobra robota! A wiÄ™c... }
+{166}{}{Mam nadziejÄ™, Å¼e myÅ›lisz juÅ¼ nad sposobem odzyskaniu rudy... A wiÄ™c...}
+{167}{}{DziÄ™ki za sprzedanie rudy. Nie znaczy to, Å¼e nie moglibyÅ›my jej uÅ¼yÄ‡. A wiÄ™c...}
+{168}{}{DziÄ™ki za odzyskanie tej rudy. Nawet nie wiesz, jak ciÄ™Å¼ko na niÄ… pracujemy.}
 {169}{}{Czego potrzebujesz?}
-{170}{}{Mo¿esz opowiedzieæ mi o mieœcie?}
-{171}{}{Wiem o waszym problemie z kopalni¹.}
+{170}{}{MoÅ¼esz opowiedzieÄ‡ mi o mieÅ›cie?}
+{171}{}{Wiem o waszym problemie z kopalniÄ….}
 {172}{}{Jak leci?}
-{173}{}{Jak wam idzie z ludŸmi?}
-{174}{}{Mo¿e jednak zmieni³eœ zdanie i chcesz naprawiæ kopalniê?}
-{175}{}{Co bêdê z tego mieæ?}
-{176}{}{Pewnie, zrobiê tak.}
+{173}{}{Jak wam idzie z ludÅºmi?}
+{174}{}{MoÅ¼e jednak zmieniÅ‚eÅ› zdanie i chcesz naprawiÄ‡ kopalniÄ™?}
+{175}{}{Co bÄ™dÄ™ z tego mieÄ‡?}
+{176}{}{Pewnie, zrobiÄ™ tak.}
 {177}{}{Nie teraz.}
 {178}{}{Nie.}
-{179}{}{Jak ci idzie? Mam nadziejê, ¿e wkrótce sobie z tym poradzisz...}
-{180}{}{Idzie mi doœæ dobrze.}
-{181}{}{Mam kupê zajêæ. Jeszcze siê za to nie zabra³em.}
-{182}{}{Nied³ugo dam ci znaæ.}
-{183}{}{Masz te czêœci? Œwietnie... Mam nadziejê, ¿e masz jakiœ sprzêt ochronny. Nie wiem, czy poradzisz sobie z gazem.}
-{184}{}{Mogê ruszaæ.}
-{185}{}{Nied³ugo siê tym zajmê.}
-{186}{}{Masz te czêœci? Œwietnie... Mam nadziejê, ¿e masz jakiœ sprzêt ochronny. Nie wiem, czy poradzisz sobie z gazem.}
-{187}{}{Mogê ruszaæ.}
-{188}{}{Nied³ugo siê tym zajmê.}
-{189}{}{Uda³o ci siê? Œwietnie! Wiem, ¿e to mia³a byæ robota za darmo, ale nie pozwolê na to. Pogada³em z ch³opakami i zrzuciliœmy siê na tê strzelbê bojow¹. Powodzenia - i dziêkujemy.}
-{190}{}{¯aden problem. Dziêki!}
-{191}{}{Naprawi³eœ? Œwietnie! Jak siê umówiliœmy, to pozosta³a czêœæ zap³aty. Jeszcze raz dziêkujê.}
+{179}{}{Jak ci idzie? Mam nadziejÄ™, Å¼e wkrÃ³tce sobie z tym poradzisz...}
+{180}{}{Idzie mi doÅ›Ä‡ dobrze.}
+{181}{}{Mam kupÄ™ zajÄ™Ä‡. Jeszcze siÄ™ za to nie zabraÅ‚em.}
+{182}{}{NiedÅ‚ugo dam ci znaÄ‡.}
+{183}{}{Masz te czÄ™Å›ci? Åšwietnie... Mam nadziejÄ™, Å¼e masz jakiÅ› sprzÄ™t ochronny. Nie wiem, czy poradzisz sobie z gazem.}
+{184}{}{MogÄ™ ruszaÄ‡.}
+{185}{}{NiedÅ‚ugo siÄ™ tym zajmÄ™.}
+{186}{}{Masz te czÄ™Å›ci? Åšwietnie... Mam nadziejÄ™, Å¼e masz jakiÅ› sprzÄ™t ochronny. Nie wiem, czy poradzisz sobie z gazem.}
+{187}{}{MogÄ™ ruszaÄ‡.}
+{188}{}{NiedÅ‚ugo siÄ™ tym zajmÄ™.}
+{189}{}{UdaÅ‚o ci siÄ™? Åšwietnie! Wiem, Å¼e to miaÅ‚a byÄ‡ robota za darmo, ale nie pozwolÄ™ na to. PogadaÅ‚em z chÅ‚opakami i zrzuciliÅ›my siÄ™ na tÄ™ strzelbÄ™ bojowÄ…. Powodzenia - i dziÄ™kujemy.}
+{190}{}{Å»aden problem. DziÄ™ki!}
+{191}{}{NaprawiÅ‚eÅ›? Åšwietnie! Jak siÄ™ umÃ³wiliÅ›my, to pozostaÅ‚a czÄ™Å›Ä‡ zapÅ‚aty. Jeszcze raz dziÄ™kujÄ™.}
 {192}{}{Ty skurwielu. Teraz umrzesz.}
-{193}{}{Dobra, dobra. Lepiej siê jednak poœpiesz... Nasze miasto tego potrzebuje.}
+{193}{}{Dobra, dobra. Lepiej siÄ™ jednak poÅ›piesz... Nasze miasto tego potrzebuje.}
 {194}{}{Jasne. Na razie.}
-{195}{}{Nie popêdzaj mnie. Mam du¿o zajêæ, palancie.}
-{196}{}{Có¿, przykro mi, Wasza Wysokoœæ, ale chyba przetrwanie miasta jest trochê wa¿niejsze. Poœpiesz siê wreszcie.}
-{197}{}{Dobra. Zajmê siê tym.}
-{198}{}{Przegi¹³eœ. ¯egnaj, trupie.}
-{199}{}{Proszê, poœpiesz siê. Od kopalni zale¿y nasze ¿ycie.}
-{200}{}{Dobra ju¿, dobra.}
-{201}{}{Có¿, najlepiej pogadaj o tym z Marcusem, znajdziesz go ko³o banku, albo ze Stevem przy wejœciu do miasta - robi tam za "Szwajcara".}
-{202}{}{Hmm. Dobrze, dziêkujê.}
+{195}{}{Nie popÄ™dzaj mnie. Mam duÅ¼o zajÄ™Ä‡, palancie.}
+{196}{}{CÃ³Å¼, przykro mi, Wasza WysokoÅ›Ä‡, ale chyba przetrwanie miasta jest trochÄ™ waÅ¼niejsze. PoÅ›piesz siÄ™ wreszcie.}
+{197}{}{Dobra. ZajmÄ™ siÄ™ tym.}
+{198}{}{PrzegiÄ…Å‚eÅ›. Å»egnaj, trupie.}
+{199}{}{ProszÄ™, poÅ›piesz siÄ™. Od kopalni zaleÅ¼y nasze Å¼ycie.}
+{200}{}{Dobra juÅ¼, dobra.}
+{201}{}{CÃ³Å¼, najlepiej pogadaj o tym z Marcusem, znajdziesz go koÅ‚o banku, albo ze Stevem przy wejÅ›ciu do miasta - robi tam za "Szwajcara".}
+{202}{}{Hmm. Dobrze, dziÄ™kujÄ™.}
 {203}{}{W takim razie zapytam ich.}
-{204}{}{Jest porz¹dku. Ale... mog³oby byæ lepiej.}
-{205}{}{Heh. Dziêki za informacje.}
-{206}{}{Có¿, skoro mutanci nie starzej¹ siê i nie starzej¹ siê -- gaz sprawia ¿e nadal s¹ m³odzi, czy jakoœ tak.
- Muszê powiedzieæ, ¿e jest ca³kiem nieŸle. To znaczy, nie chcemy zabijaæ wszystkich, a z tego co wiem, ludzie nie maj¹ o nas zbyt z³ego zdania. Oczywiœcie, to nie dotyczy ludzi
- z innych miejsc w okolicy... To dopiero s¹ dranie.}
-{207}{}{Dobra, dziêki. Na razie.}
+{204}{}{Jest porzÄ…dku. Ale... mogÅ‚oby byÄ‡ lepiej.}
+{205}{}{Heh. DziÄ™ki za informacje.}
+{206}{}{CÃ³Å¼, skoro mutanci nie starzejÄ… siÄ™ i nie starzejÄ… siÄ™ -- gaz sprawia Å¼e nadal sÄ… mÅ‚odzi, czy jakoÅ› tak.
+ MuszÄ™ powiedzieÄ‡, Å¼e jest caÅ‚kiem nieÅºle. To znaczy, nie chcemy zabijaÄ‡ wszystkich, a z tego co wiem, ludzie nie majÄ… o nas zbyt zÅ‚ego zdania. OczywiÅ›cie, to nie dotyczy ludzi
+ z innych miejsc w okolicy... To dopiero sÄ… dranie.}
+{207}{}{Dobra, dziÄ™ki. Na razie.}
 {300}{}{. Co ty na to?}
 {301}{}{. Co ty na to?}
 {302}{}{$}
-{381}{}{Jestem kobiet¹ pracuj¹c¹. Jeszcze siê za to nie zabra³am.}
-{382}{}{Nie popêdzaj mnie. Jestem bardzo zajêta, palancie.}
-{383}{}{Có¿, przykro mi, Wasza Wysokoœæ, ale przetrwanie miasta jest chyba trochê wa¿niejsze. Lepiej siê wiêc poœpiesz.}
-{400}{}{Mam kartkê, na której jest twoje imiê. Znalaz³em j¹ przy martwej kobiecie w tunelach. Co na to powiesz?}
-{401}{}{Hej, w³aœnie j¹ otrzyma³em. Pogadaj o niej z Francisem, dobra? To on j¹ napisa³.}
-{402}{}{Jeœli macza³eœ palce w zabiciu tych ludzi, chcê o tym wiedzieæ.}
+{381}{}{Jestem kobietÄ… pracujÄ…cÄ…. Jeszcze siÄ™ za to nie zabraÅ‚am.}
+{382}{}{Nie popÄ™dzaj mnie. Jestem bardzo zajÄ™ta, palancie.}
+{383}{}{CÃ³Å¼, przykro mi, Wasza WysokoÅ›Ä‡, ale przetrwanie miasta jest chyba trochÄ™ waÅ¼niejsze. Lepiej siÄ™ wiÄ™c poÅ›piesz.}
+{400}{}{Mam kartkÄ™, na ktÃ³rej jest twoje imiÄ™. ZnalazÅ‚em jÄ… przy martwej kobiecie w tunelach. Co na to powiesz?}
+{401}{}{Hej, wÅ‚aÅ›nie jÄ… otrzymaÅ‚em. Pogadaj o niej z Francisem, dobra? To on jÄ… napisaÅ‚.}
+{402}{}{JeÅ›li maczaÅ‚eÅ› palce w zabiciu tych ludzi, chcÄ™ o tym wiedzieÄ‡.}
 {403}{}{Dobra. Na razie.}
-{404}{}{Nie! Chronimy siê jedynie przed spiskiem. Marcus wierzy w prawo i dowody, i choæ wie, ¿e ci ludzie s¹ niebezpieczni, nie wie, kim s¹ - a jest zbyt honorowy, aby pod³o¿yæ dowody. Ja jedynie powstrzymujê Francisa przed totaln¹ zemst¹.}
-{405}{}{Nie brzmi to zbyt przekonywuj¹co. Jeszcze pogadam z Francisem.}
-{406}{}{Wiedzia³em, ¿e Francis nie wytrzyma. Zna³ ryzyko swego czynu, ale chyba nigdy nie przypuszcza³, ¿e zostanie schwytany. Ale chyba bêdzie z nim dobrze. Mam nadziejê, ¿e tak samo bêdzie z Broken Hills.}
-{407}{}{Ja te¿. Mam parê pytañ.}
-{408}{}{Ja te¿. Do widzenia.}
+{404}{}{Nie! Chronimy siÄ™ jedynie przed spiskiem. Marcus wierzy w prawo i dowody, i choÄ‡ wie, Å¼e ci ludzie sÄ… niebezpieczni, nie wie, kim sÄ… - a jest zbyt honorowy, aby podÅ‚oÅ¼yÄ‡ dowody. Ja jedynie powstrzymujÄ™ Francisa przed totalnÄ… zemstÄ….}
+{405}{}{Nie brzmi to zbyt przekonywujÄ…co. Jeszcze pogadam z Francisem.}
+{406}{}{WiedziaÅ‚em, Å¼e Francis nie wytrzyma. ZnaÅ‚ ryzyko swego czynu, ale chyba nigdy nie przypuszczaÅ‚, Å¼e zostanie schwytany. Ale chyba bÄ™dzie z nim dobrze. Mam nadziejÄ™, Å¼e tak samo bÄ™dzie z Broken Hills.}
+{407}{}{Ja teÅ¼. Mam parÄ™ pytaÅ„.}
+{408}{}{Ja teÅ¼. Do widzenia.}

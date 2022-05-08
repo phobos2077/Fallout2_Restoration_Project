@@ -15,7 +15,7 @@
 {116}{}{Urp, avrei proprio bisogno di un altro boccale di piscio di gecko.}
 {117}{}{Se hai bisogno di grana, i Dunton stanno cercando un aiutante.}
 {118}{}{Non sei affatto male, per essere uno che arriva da un tribu'.}
-{119}{}{96 pinte di piscia sul muro, 96 pinte di piscia….}
+{119}{}{96 pinte di piscia sul muro, 96 pinte di pisciaâ€¦.}
 {120}{}{Sto per andare a sud, al Den; c'e' un sacco di lavoro laggiu'.}
 {121}{}{Ancora piscia di gecko, Salvadore!}
 {122}{}{La caccia va male ultimamente; ci deve essere un modo piu' facile per fare soldi.}
@@ -51,11 +51,11 @@
 {157}{}{Non sei il mio compagno di bevute ideale.}
 {158}{}{Humph. (sputa sul pavimento)}
 {159}{}{Non vale la pena degnarti di uno sguardo.}
-{160}{}{Ti senti a disagio…di gia'?}
+{160}{}{Ti senti a disagioâ€¦di gia'?}
 {162}{}{Era ora, selvaggio.}
 {163}{}{Grazie.}
 {164}{}{Ni!}
-{165}{}{Ecky, ecky, p’tang!}
+{165}{}{Ecky, ecky, pâ€™tang!}
 {166}{}{Sto per andare in balla.}
 {167}{}{Non c'e' niente di meglio che un bel boccale di Piscio di Gecko.}
 {168}{}{Grazie per il piscio.}
@@ -65,7 +65,7 @@
 {172}{}{Piu' piscio per tutti!}
 {173}{}{Ne avevo proprio bisogno; grazie.}
 {174}{}{Grazie un milione!}
-{175}{}{Preferirei che mi lobotomizzassero…}
+{175}{}{Preferirei che mi lobotomizzasseroâ€¦}
 {176}{}{Piscia Dorata!}
 {177}{}{Cosi'!}
 {178}{}{Adoro quel piscio.}

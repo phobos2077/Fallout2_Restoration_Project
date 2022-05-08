@@ -42,14 +42,14 @@
 {280}{}{Ah! Anch'io. Ti ho mai detto quale gran cuoco io sia? Becky non mi assume per un certo motivo. Dice che sono pazzo.}
 {281}{}{Probabilmente ha ragione.}
 {282}{}{Sto cercando il libro di Becky.}
-{283}{}{Grandioso. Devo... ehm… andare.}
-{290}{}{Cosa? Brutto... Fottiti ragazzo! Io non sono… Ow! Cazzo.}
-{291}{}{Cosa? Brutta... Fottiti ragazza! Io non sono… Ow! Cazzo.}
+{283}{}{Grandioso. Devo... ehmâ€¦ andare.}
+{290}{}{Cosa? Brutto... Fottiti ragazzo! Io non sonoâ€¦ Ow! Cazzo.}
+{291}{}{Cosa? Brutta... Fottiti ragazza! Io non sonoâ€¦ Ow! Cazzo.}
 {292}{}{Dannazione.}
 {293}{}{Direi che cosi' puo' bastare.}
 {300}{}{Oh yeah. Non mi e' piaciuto. Troppi sbaciucchiamenti. L'ho gettato vicino all'angolo di quell'edificio... non quell'edificio... no... ma era davvero un edificio? Forse l'ho lasciato da qualche altra parte... Oppure l'ho buttato? Ow! La mia testa!}
 {301}{}{Libro? Oh, quel libro. Chi ti ha mandato? Non sono sicuro che questo sia il lato giusto. Non dimenticarti il fazzoletto.}
-{302}{}{Non posso! Sono… oh merda… Hai il formaggio? Nascondilo!}
+{302}{}{Non posso! Sonoâ€¦ oh merdaâ€¦ Hai il formaggio? Nascondilo!}
 {303}{}{Ehi! Non e' un problema mio. Che cosa dovrei fare, secondo te? Combatterli? Piccoli omini verdi, grossi denti appuntiti! Cazzo! Ouch! Smettetela!}
 {304}{}{Che male alla testa! Cosa... chi ha parlato?}
 {305}{}{Sei stato di grande aiuto.}

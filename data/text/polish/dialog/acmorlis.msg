@@ -1,49 +1,49 @@
-{100}{}{Widzisz Morlis, jedn¹ ze swoich ciotek - tê, która nigdy ciê nie lubi³a.}
-{101}{}{Czemu mi przeszkadzasz, siostrzeñcze? Nie widzisz, ¿e jestem zajêta?}
+{100}{}{Widzisz Morlis, jednÄ… ze swoich ciotek - tÄ™, ktÃ³ra nigdy ciÄ™ nie lubiÅ‚a.}
+{101}{}{Czemu mi przeszkadzasz, siostrzeÅ„cze? Nie widzisz, Å¼e jestem zajÄ™ta?}
 {102}{}{Umm, dobrze. Przepraszam.}
-{103}{}{O co chodzi? Dobrze wiesz, ¿e mam mnóstwo rzeczy do zrobienia!}
-{104}{}{Ummm, Mynoc powiedzia³...}
-{105}{}{Mynoc powiedzia³ co? Wys³ów siê, dziecko!}
-{106}{}{¯e, ummm, mo¿esz mieæ trochê krzemienia.}
-{107}{}{Mam. A ty chcesz go dostaæ, czy tak?}
+{103}{}{O co chodzi? Dobrze wiesz, Å¼e mam mnÃ³stwo rzeczy do zrobienia!}
+{104}{}{Ummm, Mynoc powiedziaÅ‚...}
+{105}{}{Mynoc powiedziaÅ‚ co? WysÅ‚Ã³w siÄ™, dziecko!}
+{106}{}{Å»e, ummm, moÅ¼esz mieÄ‡ trochÄ™ krzemienia.}
+{107}{}{Mam. A ty chcesz go dostaÄ‡, czy tak?}
 {108}{}{No, tak.}
-{109}{}{A wiêc... chcê trzy porcje uzdrawiaj¹cego proszku. Nadchodz¹ z³e czasy i chcê siê na nie dobrze przygotowaæ. Przynieœ mi je, a pozwolê ci wzi¹æ krzemieñ. Rusz siê wreszcie!}
-{110}{}{Tak jest, proszê pani!}
+{109}{}{A wiÄ™c... chcÄ™ trzy porcje uzdrawiajÄ…cego proszku. NadchodzÄ… zÅ‚e czasy i chcÄ™ siÄ™ na nie dobrze przygotowaÄ‡. PrzynieÅ› mi je, a pozwolÄ™ ci wziÄ…Ä‡ krzemieÅ„. Rusz siÄ™ wreszcie!}
+{110}{}{Tak jest, proszÄ™ pani!}
 {111}{}{Nie marnuj mojego czasu. Masz proszek?}
 {112}{}{Tak, oto on.}
-{113}{}{Umm, obawiam siê, ¿e nie.}
-{114}{}{Oto krzemieñ. A teraz zmiataj! Nie mam czasu na pogaduszki.}
-{115}{}{Dziêkujê, ciociu Morlis.}
-{116}{}{Dalej marnujesz mój czas, bezu¿yteczny siostrzeñcze! Jak to siê w ogóle sta³o, ¿e zosta³eœ Dzieckiem Przeznaczenia?}
-{117}{}{Oczywiœcie, ciociu Morlis.}
+{113}{}{Umm, obawiam siÄ™, Å¼e nie.}
+{114}{}{Oto krzemieÅ„. A teraz zmiataj! Nie mam czasu na pogaduszki.}
+{115}{}{DziÄ™kujÄ™, ciociu Morlis.}
+{116}{}{Dalej marnujesz mÃ³j czas, bezuÅ¼yteczny siostrzeÅ„cze! Jak to siÄ™ w ogÃ³le staÅ‚o, Å¼e zostaÅ‚eÅ› Dzieckiem Przeznaczenia?}
+{117}{}{OczywiÅ›cie, ciociu Morlis.}
 {118}{}{Uch, ciociu Morlis, mam tu trzy.}
-{150}{}{Ciociu Morlis, wyruszam z niebezpieczn¹ misj¹, by uratowaæ nasz¹ wioskê. Moje szansê wzros³yby niepomiernie, gdybyœ pozwoli³a mi zatrzymaæ uzdrawiaj¹cy proszek i da³a mi krzemieñ. Czy¿ nie mam racji?}
-{151}{}{Drogie dziecko, co ty wyprawiasz? Dziecko Przeznaczenia nie powinno zachowywaæ siê w ten sposób. A teraz zejdŸ mi z oczu!}
-{152}{}{Jeœli to krzesiwo jest tak wa¿ne, ¿e godzisz siê zbezczeœciæ imiê Dziecka Przeznaczenia, to masz. WeŸ krzemieñ i zejdŸ mi z oczu.}
-{153}{}{Oczywiœcie, ciociu Morlis.}
-{154}{}{No có¿... ach, co tam. Oto krzemieñ. ¯yczê ci bezpiecznej podró¿y, dziecko. }
-{155}{}{Nie, nie masz. A teraz przestañ marnowaæ mój czas i wynoœ siê!}
-{156}{}{Oczywiœcie, ciociu Morlis.}
-{200}{}{A wiêc jesteœ z powrotem. Uda³o ci siê znaleŸæ Œwiêt¹ Trzynastkê?}
+{150}{}{Ciociu Morlis, wyruszam z niebezpiecznÄ… misjÄ…, by uratowaÄ‡ naszÄ… wioskÄ™. Moje szansÄ™ wzrosÅ‚yby niepomiernie, gdybyÅ› pozwoliÅ‚a mi zatrzymaÄ‡ uzdrawiajÄ…cy proszek i daÅ‚a mi krzemieÅ„. CzyÅ¼ nie mam racji?}
+{151}{}{Drogie dziecko, co ty wyprawiasz? Dziecko Przeznaczenia nie powinno zachowywaÄ‡ siÄ™ w ten sposÃ³b. A teraz zejdÅº mi z oczu!}
+{152}{}{JeÅ›li to krzesiwo jest tak waÅ¼ne, Å¼e godzisz siÄ™ zbezczeÅ›ciÄ‡ imiÄ™ Dziecka Przeznaczenia, to masz. WeÅº krzemieÅ„ i zejdÅº mi z oczu.}
+{153}{}{OczywiÅ›cie, ciociu Morlis.}
+{154}{}{No cÃ³Å¼... ach, co tam. Oto krzemieÅ„. Å»yczÄ™ ci bezpiecznej podrÃ³Å¼y, dziecko. }
+{155}{}{Nie, nie masz. A teraz przestaÅ„ marnowaÄ‡ mÃ³j czas i wynoÅ› siÄ™!}
+{156}{}{OczywiÅ›cie, ciociu Morlis.}
+{200}{}{A wiÄ™c jesteÅ› z powrotem. UdaÅ‚o ci siÄ™ znaleÅºÄ‡ ÅšwiÄ™tÄ… TrzynastkÄ™?}
 {201}{}{Nie ciociu Morlis, ja...}
-{202}{}{Wiêc zabieraj siê st¹d i znajdŸ j¹! Ludzie licz¹ na ciebie!}
-{203}{}{Oczywiœcie, ciociu Morlis.}
-{204}{}{No proszê, znowu tu jesteœ. Czy znów nie uda³o ci siê wykonaæ swojej misji?}
+{202}{}{WiÄ™c zabieraj siÄ™ stÄ…d i znajdÅº jÄ…! Ludzie liczÄ… na ciebie!}
+{203}{}{OczywiÅ›cie, ciociu Morlis.}
+{204}{}{No proszÄ™, znowu tu jesteÅ›. Czy znÃ³w nie udaÅ‚o ci siÄ™ wykonaÄ‡ swojej misji?}
 {205}{}{Tak ciociu Morlis, ale...}
-{206}{}{Wiêc wynoœ siê st¹d i nie wracaj, a¿ ci siê uda! Po co marnowaæ czas i wracaæ tutaj, skoro mo¿na w tym samym czasie kontynuowaæ poszukiwania!?}
-{207}{}{Oczywiœcie, ciociu Morlis.}
-{208}{}{Fakt, ¿e tu stoisz, musi oznaczaæ, ¿e twoje zadanie zosta³o wype³nione. Nie warto marnowaæ cennego czasu na powrót z pustymi rêkoma, a mo¿e warto?}
-{209}{}{Tak ciociu Morlis. To znaczy, nie ciociu Morlis. Uch, muszê ju¿ iœæ ciociu Morlis.}
-{210}{}{No proszê, dziecko. Kolejny raz stajesz przede mn¹. Czy znów wracasz z pustymi rêkami?}
-{211}{}{Oczywiœcie, ciociu Morlis.}
-{212}{}{S³uchaj, }
-{213}{}{. Ludzie umieraj¹, byd³o zdycha, uprawy usychaj¹. Wszyscy s¹ albo g³odni, albo chorzy, albo jedno i drugie. Nasz czas siê koñczy. Jeœli szybko nie znajdziesz GECKa, bêdziemy zgubieni. Rozumiesz, co do ciebie mówiê?}
-{214}{}{Oczywiœcie, ciociu Morlis.}
-{215}{}{Wiêc zabieraj siê st¹d i znajdŸ GECK! Ludzie na tobie polegaj¹!}
-{216}{}{Oczywiœcie, ciociu Morlis.}
-{300}{}{Có¿, wygl¹da na to, ¿e zapodzia³am gdzieœ mój krzemieñ. Trudno, przynajmniej mam uzdrawiaj¹cy proszek. A teraz zmiataj! Nie mam czasu na pogaduszki.}
-{301}{}{Czemu mi przeszkadzasz, siostrzenico? Nie widzisz, ¿e jestem zajêta?}
-{302}{}{Có¿, wygl¹da na to, ¿e nie mogê znaleŸæ mojego krzemienia. Jestem pewna, ¿e ktoœ go ukrad³ kiedy nie patrzy³am i myœlê, ¿e to twoja sprawka. Ju¿ raz ciê przy³apa³am. A teraz zje¿d¿aj! Nie mam czasu na pogaduszki.}
-{303}{}{Oh... Trudno, wygl¹da, ¿e podzia³am gdzieœ mój krzemieñ. ¯yczê ci bezpiecznej podró¿y, dziecko. }
-{304}{}{Da³am ci ju¿ krzemieñ, durne dziecko. A teraz przestañ marnowaæ mój czas i wynoœ siê st¹d!}
-{305}{}{Da³am ci ju¿ krzemieñ, durne dziecko. No có¿, przynajmniej dosta³am proszek. A teraz odejdŸ! Nie mam czasu na pogaduchy.}
+{206}{}{WiÄ™c wynoÅ› siÄ™ stÄ…d i nie wracaj, aÅ¼ ci siÄ™ uda! Po co marnowaÄ‡ czas i wracaÄ‡ tutaj, skoro moÅ¼na w tym samym czasie kontynuowaÄ‡ poszukiwania!?}
+{207}{}{OczywiÅ›cie, ciociu Morlis.}
+{208}{}{Fakt, Å¼e tu stoisz, musi oznaczaÄ‡, Å¼e twoje zadanie zostaÅ‚o wypeÅ‚nione. Nie warto marnowaÄ‡ cennego czasu na powrÃ³t z pustymi rÄ™koma, a moÅ¼e warto?}
+{209}{}{Tak ciociu Morlis. To znaczy, nie ciociu Morlis. Uch, muszÄ™ juÅ¼ iÅ›Ä‡ ciociu Morlis.}
+{210}{}{No proszÄ™, dziecko. Kolejny raz stajesz przede mnÄ…. Czy znÃ³w wracasz z pustymi rÄ™kami?}
+{211}{}{OczywiÅ›cie, ciociu Morlis.}
+{212}{}{SÅ‚uchaj, }
+{213}{}{. Ludzie umierajÄ…, bydÅ‚o zdycha, uprawy usychajÄ…. Wszyscy sÄ… albo gÅ‚odni, albo chorzy, albo jedno i drugie. Nasz czas siÄ™ koÅ„czy. JeÅ›li szybko nie znajdziesz GECKa, bÄ™dziemy zgubieni. Rozumiesz, co do ciebie mÃ³wiÄ™?}
+{214}{}{OczywiÅ›cie, ciociu Morlis.}
+{215}{}{WiÄ™c zabieraj siÄ™ stÄ…d i znajdÅº GECK! Ludzie na tobie polegajÄ…!}
+{216}{}{OczywiÅ›cie, ciociu Morlis.}
+{300}{}{CÃ³Å¼, wyglÄ…da na to, Å¼e zapodziaÅ‚am gdzieÅ› mÃ³j krzemieÅ„. Trudno, przynajmniej mam uzdrawiajÄ…cy proszek. A teraz zmiataj! Nie mam czasu na pogaduszki.}
+{301}{}{Czemu mi przeszkadzasz, siostrzenico? Nie widzisz, Å¼e jestem zajÄ™ta?}
+{302}{}{CÃ³Å¼, wyglÄ…da na to, Å¼e nie mogÄ™ znaleÅºÄ‡ mojego krzemienia. Jestem pewna, Å¼e ktoÅ› go ukradÅ‚ kiedy nie patrzyÅ‚am i myÅ›lÄ™, Å¼e to twoja sprawka. JuÅ¼ raz ciÄ™ przyÅ‚apaÅ‚am. A teraz zjeÅ¼dÅ¼aj! Nie mam czasu na pogaduszki.}
+{303}{}{Oh... Trudno, wyglÄ…da, Å¼e podziaÅ‚am gdzieÅ› mÃ³j krzemieÅ„. Å»yczÄ™ ci bezpiecznej podrÃ³Å¼y, dziecko. }
+{304}{}{DaÅ‚am ci juÅ¼ krzemieÅ„, durne dziecko. A teraz przestaÅ„ marnowaÄ‡ mÃ³j czas i wynoÅ› siÄ™ stÄ…d!}
+{305}{}{DaÅ‚am ci juÅ¼ krzemieÅ„, durne dziecko. No cÃ³Å¼, przynajmniej dostaÅ‚am proszek. A teraz odejdÅº! Nie mam czasu na pogaduchy.}

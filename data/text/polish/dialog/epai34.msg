@@ -1,9 +1,9 @@
-{100}{}{Widzisz pewn¹ szczególn¹ maszynê.}
-{101}{}{Ta maszyna obs³uguje projektor holograficzny w tym pomieszczeniu.}
-{103}{}{Usterka w maszynie zostaje szybko znaleziona i usuniêta.}
-{104}{}{To ju¿ jest naprawione.}
-{105}{}{Wygl¹da na to, ¿e wystêpowa³y zak³ócenia, przez które wymowa hologramu by³a zniekszta³cona.}
-{106}{}{Naprawa tej maszyny wydaje siê zbyt skomplikowana.}
+{100}{}{Widzisz pewnÄ… szczegÃ³lnÄ… maszynÄ™.}
+{101}{}{Ta maszyna obsÅ‚uguje projektor holograficzny w tym pomieszczeniu.}
+{103}{}{Usterka w maszynie zostaje szybko znaleziona i usuniÄ™ta.}
+{104}{}{To juÅ¼ jest naprawione.}
+{105}{}{WyglÄ…da na to, Å¼e wystÄ™powaÅ‚y zakÅ‚Ã³cenia, przez ktÃ³re wymowa hologramu byÅ‚a znieksztaÅ‚cona.}
+{106}{}{Naprawa tej maszyny wydaje siÄ™ zbyt skomplikowana.}
 {107}{}{Czego ja  tu szukam?}
-{108}{}{Cholera, to za trudne. Naprawa maszyn chyba nie jest moj¹ najsilniejsz¹ stron¹.}
-{109}{}{Cholera, nawet z narzêdziami nie dam rady. Naprawdê nie znam siê na naprawie maszyn.}
+{108}{}{Cholera, to za trudne. Naprawa maszyn chyba nie jest mojÄ… najsilniejszÄ… stronÄ….}
+{109}{}{Cholera, nawet z narzÄ™dziami nie dam rady. NaprawdÄ™ nie znam siÄ™ na naprawie maszyn.}

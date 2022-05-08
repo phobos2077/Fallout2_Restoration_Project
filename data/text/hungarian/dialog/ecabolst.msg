@@ -1,50 +1,50 @@
-{100}{}{Egy utazót látsz.}
-{101}{}{Egy embert látsz, aki keres valamit.}
-{200}{}{Rabszolga-vadász! Megölni!}
-{201}{}{Megölni az elnyomót!}
-{202}{}{Megölni a gonosz rabszolga-tartót!}
-{203}{}{Le a rabszolgasággal! Le a hajcsárokkal!}
-{204}{}{Meghalsz, söpredék!}
-{250}{}{Hé, ide!}
-{251}{}{Hé, idegen!}
-{300}{}{Hé idegen, mit keresel te itt ezen a részen?}
-{301}{}{Eltévedtem.}
-{302}{}{Csak körülnézek.}
-{303}{}{Nem sokat. És te mit csinálsz itt?}
-{304}{}{Lemészárolható embereket keresek.}
-{305}{}{Semmit. Viszlát!}
+{100}{}{Egy utazÃ³t lÃ¡tsz.}
+{101}{}{Egy embert lÃ¡tsz, aki keres valamit.}
+{200}{}{Rabszolga-vadÃ¡sz! MegÃ¶lni!}
+{201}{}{MegÃ¶lni az elnyomÃ³t!}
+{202}{}{MegÃ¶lni a gonosz rabszolga-tartÃ³t!}
+{203}{}{Le a rabszolgasÃ¡ggal! Le a hajcsÃ¡rokkal!}
+{204}{}{Meghalsz, sÃ¶predÃ©k!}
+{250}{}{HÃ©, ide!}
+{251}{}{HÃ©, idegen!}
+{300}{}{HÃ© idegen, mit keresel te itt ezen a rÃ©szen?}
+{301}{}{EltÃ©vedtem.}
+{302}{}{Csak kÃ¶rÃ¼lnÃ©zek.}
+{303}{}{Nem sokat. Ã‰s te mit csinÃ¡lsz itt?}
+{304}{}{LemÃ©szÃ¡rolhatÃ³ embereket keresek.}
+{305}{}{Semmit. ViszlÃ¡t!}
 {306}{}{He?}
-{307}{}{Öhm, azt hiszem, most mennem kell.}
-{310}{}{Bárcsak segíthetnék! Tudod, olyan régóta járok itt, hogy már nem vagyok biztos benne, mi hol van.}
-{311}{}{Miért játsz ide?}
-{312}{}{Mit csinálsz te itt?}
-{313}{}{Hát akkor, sok szerencsét!}
-{314}{}{Neked is sok szerencsét! De egyébként, vigyázz ha Rejtekben jársz! Ott virágzik az emberkereskedelem.}
+{307}{}{Ã–hm, azt hiszem, most mennem kell.}
+{310}{}{BÃ¡rcsak segÃ­thetnÃ©k! Tudod, olyan rÃ©gÃ³ta jÃ¡rok itt, hogy mÃ¡r nem vagyok biztos benne, mi hol van.}
+{311}{}{MiÃ©rt jÃ¡tsz ide?}
+{312}{}{Mit csinÃ¡lsz te itt?}
+{313}{}{HÃ¡t akkor, sok szerencsÃ©t!}
+{314}{}{Neked is sok szerencsÃ©t! De egyÃ©bkÃ©nt, vigyÃ¡zz ha Rejtekben jÃ¡rsz! Ott virÃ¡gzik az emberkereskedelem.}
 {315}{}{Rejtekben?}
 {316}{}{Emberkereskedelem?}
-{317}{}{Oké. Viszlát!}
-{320}{}{Ezeken a részeken az emberek rabszolgákat tartanak. Azért vagyok itt, hogy kiszabadítsam ?ket. Ha egy két rabszolga-vadász is meghal a m?veletben, nem nagy baj.}
-{321}{}{Mi a baj a rabszolga-tartással? Én is tartanék, ha találnék párat.}
-{322}{}{Majd rajta tartom a szemem a rohadékjain.}
-{323}{}{Az ölés sohasem törvényes.}
-{324}{}{Ölés? Segítek neked megölni ?ket!}
-{330}{}{Tényleg? Ez nagyszer?! Viszont most mennem kell, biztos van még több elnyomott rabszolga is.}
-{331}{}{Sok szerencsét!}
-{335}{}{De, néha meg kell ölnöd néhányat, hogy megmenthesd a többit. Mindig vannak elkerülhetetlen áldozatok. Különben is, a rabszolga-vadászokat aligha lehet embernek nevezni.}
+{317}{}{OkÃ©. ViszlÃ¡t!}
+{320}{}{Ezeken a rÃ©szeken az emberek rabszolgÃ¡kat tartanak. AzÃ©rt vagyok itt, hogy kiszabadÃ­tsam ?ket. Ha egy kÃ©t rabszolga-vadÃ¡sz is meghal a m?veletben, nem nagy baj.}
+{321}{}{Mi a baj a rabszolga-tartÃ¡ssal? Ã‰n is tartanÃ©k, ha talÃ¡lnÃ©k pÃ¡rat.}
+{322}{}{Majd rajta tartom a szemem a rohadÃ©kjain.}
+{323}{}{Az Ã¶lÃ©s sohasem tÃ¶rvÃ©nyes.}
+{324}{}{Ã–lÃ©s? SegÃ­tek neked megÃ¶lni ?ket!}
+{330}{}{TÃ©nyleg? Ez nagyszer?! Viszont most mennem kell, biztos van mÃ©g tÃ¶bb elnyomott rabszolga is.}
+{331}{}{Sok szerencsÃ©t!}
+{335}{}{De, nÃ©ha meg kell Ã¶lnÃ¶d nÃ©hÃ¡nyat, hogy megmenthesd a tÃ¶bbit. Mindig vannak elkerÃ¼lhetetlen Ã¡ldozatok. KÃ¼lÃ¶nben is, a rabszolga-vadÃ¡szokat aligha lehet embernek nevezni.}
 {336}{}{Igazad van, de most mennem kell.}
-{337}{}{Tényleg? Akkor halott vagy.}
-{338}{}{Ahogy gondolja. Viszlát!}
-{340}{}{Te, rohadék! Ezért megöllek!}
-{341}{}{Te, kurva! Ezért megöllek!}
-{342}{}{Nem, ha én öllek meg el?ször!}
-{350}{}{Ja. Kis embercsoportokat támadnak meg. Bármi jó nekik, amit eladhatnak.}
-{351}{}{Ez borzasztó! Majd észben tartom ezt. Viszlát!}
-{355}{}{Rejtek egy város. A rabszolga-kereskedelemre specializálódott.}
-{356}{}{Kösz az információt. Viszlát!}
-{360}{}{Csak a rabszolga-vadászok útvonalait keresem.}
-{361}{}{Ezt most hogy kell értenem?}
-{362}{}{Öhm, akkor sok szerencsét!}
-{363}{}{Ahogy gondolja. Viszlát!}
-{370}{}{Próbáld a rabszolga-vadászokat! Jól lehet gyakni ?ket. }
-{371}{}{Fasza, kösz az infót!}
-{372}{}{Á, hát itt vagy! Inkább megöllek.}
+{337}{}{TÃ©nyleg? Akkor halott vagy.}
+{338}{}{Ahogy gondolja. ViszlÃ¡t!}
+{340}{}{Te, rohadÃ©k! EzÃ©rt megÃ¶llek!}
+{341}{}{Te, kurva! EzÃ©rt megÃ¶llek!}
+{342}{}{Nem, ha Ã©n Ã¶llek meg el?szÃ¶r!}
+{350}{}{Ja. Kis embercsoportokat tÃ¡madnak meg. BÃ¡rmi jÃ³ nekik, amit eladhatnak.}
+{351}{}{Ez borzasztÃ³! Majd Ã©szben tartom ezt. ViszlÃ¡t!}
+{355}{}{Rejtek egy vÃ¡ros. A rabszolga-kereskedelemre specializÃ¡lÃ³dott.}
+{356}{}{KÃ¶sz az informÃ¡ciÃ³t. ViszlÃ¡t!}
+{360}{}{Csak a rabszolga-vadÃ¡szok Ãºtvonalait keresem.}
+{361}{}{Ezt most hogy kell Ã©rtenem?}
+{362}{}{Ã–hm, akkor sok szerencsÃ©t!}
+{363}{}{Ahogy gondolja. ViszlÃ¡t!}
+{370}{}{PrÃ³bÃ¡ld a rabszolga-vadÃ¡szokat! JÃ³l lehet gyakni ?ket. }
+{371}{}{Fasza, kÃ¶sz az infÃ³t!}
+{372}{}{Ã, hÃ¡t itt vagy! InkÃ¡bb megÃ¶llek.}

@@ -1,4 +1,4 @@
-1:Mais uma vez o meu espírito [toca você] a partir do vazio, Escolhido.
-2:[Nossa] colheitas falham, nossas reservas são escassas.
-3:Voltar para nós com [o GECK].
-4:Sua falha é nossa...
+1:Mais uma vez o meu espÃ­rito [toca vocÃª] a partir do vazio, Escolhido.
+2:[Nossa] colheitas falham, nossas reservas sÃ£o escassas.
+3:Voltar para nÃ³s com [o GECK].
+4:Sua falha Ã© nossa...

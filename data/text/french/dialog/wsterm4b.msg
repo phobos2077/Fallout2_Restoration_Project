@@ -1,36 +1,36 @@
 {100}{}{Un terminal informatique.}
-{101}{}{Contrôle l'unité d'extraction d'organes Vault-Tek}
-{102}{}{Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.}
-{103}{}{Merci d'utiliser les appareils d'extraction d'organes Vault-Tek ultramodernes. Placez le donneur dans la salle d'opération, placez le sélecteur d'espèce sur la position voulue puis sélectionnez l'organe à extraire.}
-{104}{}{[Sélectionner Espèce]}
-{105}{}{[Sélectionner Organe]}
+{101}{}{ContrÃ´le l'unitÃ© d'extraction d'organes Vault-Tek}
+{102}{}{Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.}
+{103}{}{Merci d'utiliser les appareils d'extraction d'organes Vault-Tek ultramodernes. Placez le donneur dans la salle d'opÃ©ration, placez le sÃ©lecteur d'espÃ¨ce sur la position voulue puis sÃ©lectionnez l'organe Ã  extraire.}
+{104}{}{[SÃ©lectionner EspÃ¨ce]}
+{105}{}{[SÃ©lectionner Organe]}
 {106}{}{[Quitter]}
 {107}{}{Arhhh !}
-{108}{}{Le sélecteur dispose des positions suivantes :                         Canin                                                                   Félin                                                               Coucou                                                        Rongeur                                                                 Humain [Gratter sur la console]}
+{108}{}{Le sÃ©lecteur dispose des positions suivantes :                         Canin                                                                   FÃ©lin                                                               Coucou                                                        Rongeur                                                                 Humain [Gratter sur la console]}
 {109}{}{}
 {110}{}{}
 {111}{}{}
 {112}{}{}
 {113}{}{}
-{114}{}{[Sélectionner Canin]}
-{115}{}{[Sélectionner Félin]}
-{116}{}{[Sélectionner Coucou]}
-{117}{}{[Sélectionner Rongeur]}
-{118}{}{[Sélectionner Humain]}
+{114}{}{[SÃ©lectionner Canin]}
+{115}{}{[SÃ©lectionner FÃ©lin]}
+{116}{}{[SÃ©lectionner Coucou]}
+{117}{}{[SÃ©lectionner Rongeur]}
+{118}{}{[SÃ©lectionner Humain]}
 {119}{}{[Gratter un nouveau nom sur la console]}
 {120}{}{[Quitter]}
-{121}{}{[Tu prends un morceau de métal et commence à gratter la console.]}
+{121}{}{[Tu prends un morceau de mÃ©tal et commence Ã  gratter la console.]}
 {122}{}{[Graver le mot Mutant sur la console]}
 {123}{}{[Graver le mot Griffemort sur la console]}
 {124}{}{[Quitter]}
-{125}{}{Sélection actuelle : }
-{126}{}{Espèce : }
+{125}{}{SÃ©lection actuelle : }
+{126}{}{EspÃ¨ce : }
 {127}{}{Organe : }
-{128}{}{[Sélectionner Espèce]}
-{129}{}{[Sélectionner Organe]}
-{130}{}{[Procéder à l'extraction]}
+{128}{}{[SÃ©lectionner EspÃ¨ce]}
+{129}{}{[SÃ©lectionner Organe]}
+{130}{}{[ProcÃ©der Ã  l'extraction]}
 {131}{}{[Quitter]}
-{132}{}{Le sélecteur a les positions suivantes :                          Coeur                                                                  Cerveau                                                                    Rein                                                                  Foie                                                                 Poumon                                                                 Appendice                                                              Colon [Gratté]}
+{132}{}{Le sÃ©lecteur a les positions suivantes :                          Coeur                                                                  Cerveau                                                                    Rein                                                                  Foie                                                                 Poumon                                                                 Appendice                                                              Colon [GrattÃ©]}
 {133}{}{}
 {134}{}{}
 {135}{}{}
@@ -38,25 +38,25 @@
 {137}{}{}
 {138}{}{}
 {139}{}{}
-{140}{}{[Sélectionner Coeur]}
-{141}{}{[Sélectionner Cerveau]}
-{142}{}{[Sélectionner Rein]}
-{143}{}{[Sélectionner Foie]}
-{144}{}{[Sélectionner Poumon]}
-{145}{}{[Sélectionner Appendice]}
-{146}{}{[Sélectionner Colon]}
+{140}{}{[SÃ©lectionner Coeur]}
+{141}{}{[SÃ©lectionner Cerveau]}
+{142}{}{[SÃ©lectionner Rein]}
+{143}{}{[SÃ©lectionner Foie]}
+{144}{}{[SÃ©lectionner Poumon]}
+{145}{}{[SÃ©lectionner Appendice]}
+{146}{}{[SÃ©lectionner Colon]}
 {147}{}{[Quitter]}
-{148}{}{Aucun donneur présent dans la salle d'opération.}
+{148}{}{Aucun donneur prÃ©sent dans la salle d'opÃ©ration.}
 {149}{}{Echec de l'extraction.}
-{150}{}{Extraction terminée.}
-{151}{}{Extraction terminée.                                           Merci d'avoir choisi Vault-Tek. Veuillez consulter notre catalogue pour connaître la gamme complète des produits Vault-Tek.}
+{150}{}{Extraction terminÃ©e.}
+{151}{}{Extraction terminÃ©e.                                           Merci d'avoir choisi Vault-Tek. Veuillez consulter notre catalogue pour connaÃ®tre la gamme complÃ¨te des produits Vault-Tek.}
 {152}{}{}
 {153}{}{[Quitter]}
-{154}{}{Extraction échouée-- surcharge locale du capteur.}
-{155}{}{Extraction échouée-- impossible d'initialiser la procédure avec la physiologie du sujet.}
+{154}{}{Extraction Ã©chouÃ©e-- surcharge locale du capteur.}
+{155}{}{Extraction Ã©chouÃ©e-- impossible d'initialiser la procÃ©dure avec la physiologie du sujet.}
 {170}{}{ Humain}
 {171}{}{ Canin}
-{172}{}{ Félin}
+{172}{}{ FÃ©lin}
 {173}{}{ Coucou}
 {174}{}{ Rongeur}
 {175}{}{ Mutant}

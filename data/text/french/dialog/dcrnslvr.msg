@@ -1,60 +1,60 @@
-{100}{}{Tu vois un esclavagiste costaud, d'âge moyen.}
+{100}{}{Tu vois un esclavagiste costaud, d'Ã¢ge moyen.}
 {101}{}{Tu vois un esclavagiste. Il a une grande cicatrice sur le visage.}
-{102}{}{Tu vois un esclavagiste à la stature imposante.}
+{102}{}{Tu vois un esclavagiste Ã  la stature imposante.}
 {150}{}{Un esclavagiste qui semble faire son travail avec plaisir.}
-{151}{}{Cet esclavagiste semble être très fort mais pas très intelligent.}
-{152}{}{Cet esclavagiste semble être bien armé, comme les autres.}
+{151}{}{Cet esclavagiste semble Ãªtre trÃ¨s fort mais pas trÃ¨s intelligent.}
+{152}{}{Cet esclavagiste semble Ãªtre bien armÃ©, comme les autres.}
 {225}{}{Allons-y !}
 {226}{}{On tue seulement les plus hostiles.}
-{227}{}{Mène la marche, on est juste derrière toi.}
+{227}{}{MÃ¨ne la marche, on est juste derriÃ¨re toi.}
 {228}{}{Occupe-toi des plus hostiles. On veut les autres pour notre paie.}
-{229}{}{J'ai hâte de faire sauter quelques cervelles !}
-{230}{}{Où sont-ils ? Tu les vois ?}
+{229}{}{J'ai hÃ¢te de faire sauter quelques cervelles !}
+{230}{}{OÃ¹ sont-ils ? Tu les vois ?}
 {235}{}{C'est pas encore le moment de partir.}
 {236}{}{Prends vraiment les plus hostiles.}
-{237}{}{Laisse les désarmés tranquilles et prends les autres.}
+{237}{}{Laisse les dÃ©sarmÃ©s tranquilles et prends les autres.}
 {238}{}{Encore quelques effusions de sang en perspective.}
-{245}{}{C'était une chasse horrible.}
-{246}{}{Ca n'en valait pas la peine, on n'a presque rien ramené.}
-{247}{}{La prochaine fois, réserve-toi les plus hostiles. Ce n'est pas qu'une partie de plaisir.}
-{248}{}{Metzger va être vraiment furax.}
-{255}{}{Pas mal; mais la prochaine fois, laisse les désarmés tranquilles si tu veux qu'on soit payés.}
-{256}{}{Ce n'était pas si mal. On a pris quelques esclaves convenables.}
-{257}{}{On a vu mieux, mais au moins, on sera payés.}
-{265}{}{Hé, on s'est pas mal défendus. On les a presque tous eus.}
+{245}{}{C'Ã©tait une chasse horrible.}
+{246}{}{Ca n'en valait pas la peine, on n'a presque rien ramenÃ©.}
+{247}{}{La prochaine fois, rÃ©serve-toi les plus hostiles. Ce n'est pas qu'une partie de plaisir.}
+{248}{}{Metzger va Ãªtre vraiment furax.}
+{255}{}{Pas mal; mais la prochaine fois, laisse les dÃ©sarmÃ©s tranquilles si tu veux qu'on soit payÃ©s.}
+{256}{}{Ce n'Ã©tait pas si mal. On a pris quelques esclaves convenables.}
+{257}{}{On a vu mieux, mais au moins, on sera payÃ©s.}
+{265}{}{HÃ©, on s'est pas mal dÃ©fendus. On les a presque tous eus.}
 {266}{}{Merci pour ton aide.}
-{267}{}{C'est du bon boulot. La paie devrait être bonne.}
-{268}{}{C'était vraiment fun et en plus on devrait toucher un bon paquet !}
-{275}{}{On leur a foutu une belle raclée. Metzger a intérêt à nous filer un joli bonus !}
-{276}{}{C'était parfait ! Ce soir, je vais m'éclater !!}
+{267}{}{C'est du bon boulot. La paie devrait Ãªtre bonne.}
+{268}{}{C'Ã©tait vraiment fun et en plus on devrait toucher un bon paquet !}
+{275}{}{On leur a foutu une belle raclÃ©e. Metzger a intÃ©rÃªt Ã  nous filer un joli bonus !}
+{276}{}{C'Ã©tait parfait ! Ce soir, je vais m'Ã©clater !!}
 {277}{}{Putain ! On s'est fait respecter !}
-{278}{}{Voilà, c'est comme ça que ça doit se passer !}
-{285}{}{Où sont-ils ?}
+{278}{}{VoilÃ , c'est comme Ã§a que Ã§a doit se passer !}
+{285}{}{OÃ¹ sont-ils ?}
 {286}{}{J'veux plein d'amouuuur !}
 {287}{}{Je parie que j'aurai plus de victimes que toi cette fois.}
-{288}{}{Hé ! p'tit minou. Petit, petit...}
-{295}{}{Vous êtes tous morts, mais vous ne le savez pas encore !}
+{288}{}{HÃ© ! p'tit minou. Petit, petit...}
+{295}{}{Vous Ãªtes tous morts, mais vous ne le savez pas encore !}
 {296}{}{Tu ne peux pas te cacher !}
-{297}{}{Sors d'ici, ou je t'éclate la tête !}
-{298}{}{Ah, ça fait du bien ! Où sont les autres.}
+{297}{}{Sors d'ici, ou je t'Ã©clate la tÃªte !}
+{298}{}{Ah, Ã§a fait du bien ! OÃ¹ sont les autres.}
 {305}{}{Merde. }
 {306}{}{Ca craint.}
 {307}{}{Merde, merde, merde !}
-{308}{}{Faudra éviter de recommencer.}
+{308}{}{Faudra Ã©viter de recommencer.}
 {309}{}{Merde... Moi qui voulait m'en mettre plein la poire ce soir !}
 {310}{}{Allez, on se casse. Ca craint, bordel.}
 {320}{}{Pas mal.}
-{321}{}{J'espère qu'on a assez. Il faut que je renfloue ma réserve de Jet.}
+{321}{}{J'espÃ¨re qu'on a assez. Il faut que je renfloue ma rÃ©serve de Jet.}
 {322}{}{C'est parti.}
 {323}{}{J'ai vu mieux, mais un sou est un sou.}
-{324}{}{Metzger devrait être content avec ça.}
-{325}{}{Très bien.}
-{326}{}{Dépêchez-vous. On se casse.}
+{324}{}{Metzger devrait Ãªtre content avec Ã§a.}
+{325}{}{TrÃ¨s bien.}
+{326}{}{DÃ©pÃªchez-vous. On se casse.}
 {327}{}{Ca devrait faire l'affaire.}
-{328}{}{Belle récolte !}
+{328}{}{Belle rÃ©colte !}
 {329}{}{Allons-y. Je veux mon fric.}
 {335}{}{C'est l'heure du bonus !}
 {336}{}{Super !}
 {337}{}{Ramasse-les et on y va.}
-{338}{}{On arrête de faire les cons et on y va.}
-{339}{}{Putain, cette chasse à l'air bonne.}
+{338}{}{On arrÃªte de faire les cons et on y va.}
+{339}{}{Putain, cette chasse Ã  l'air bonne.}

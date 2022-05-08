@@ -1,43 +1,43 @@
-{100}{}{Ves a un hombre con armadura metálica.}
+{100}{}{Ves a un hombre con armadura metÃ¡lica.}
 {101}{}{Ves a Luke.}
-{102}{}{Ves a un hombre que lleva una armadura metálica con la insignia de un relámpago en ella.}
+{102}{}{Ves a un hombre que lleva una armadura metÃ¡lica con la insignia de un relÃ¡mpago en ella.}
 {103}{}{Hola,}
-{104}{}{. Soy Luke, ¿qué puedo hacer por ti?}
-{105}{}{¿Sabes nombre de yo?}
-{106}{}{¿Cómo sabes mi nombre?}
-{107}{}{Joshua mencionó que te dejaste caer por nuestra oficina en La Guarida. Dijo que eras un pez pequeño que provoca olas grandes.}
-{108}{}{Se corre la voz. Eres un pez pequeño que provoca olas grandes.}
-{109}{}{¿Qué dices con pez?}
-{110}{}{¿Qué quieres decir con eso?}
-{111}{}{Estás atrayendo la atención de un montón de gente. Debes tener cuidado.}
-{112}{}{Continúa.}
-{113}{}{Continúa, estoy escuchando.}
-{114}{}{De momento ya he dicho suficiente. Creo que deberías volver a ocuparte de tus asuntos.}
+{104}{}{. Soy Luke, Â¿quÃ© puedo hacer por ti?}
+{105}{}{Â¿Sabes nombre de yo?}
+{106}{}{Â¿CÃ³mo sabes mi nombre?}
+{107}{}{Joshua mencionÃ³ que te dejaste caer por nuestra oficina en La Guarida. Dijo que eras un pez pequeÃ±o que provoca olas grandes.}
+{108}{}{Se corre la voz. Eres un pez pequeÃ±o que provoca olas grandes.}
+{109}{}{Â¿QuÃ© dices con pez?}
+{110}{}{Â¿QuÃ© quieres decir con eso?}
+{111}{}{EstÃ¡s atrayendo la atenciÃ³n de un montÃ³n de gente. Debes tener cuidado.}
+{112}{}{ContinÃºa.}
+{113}{}{ContinÃºa, estoy escuchando.}
+{114}{}{De momento ya he dicho suficiente. Creo que deberÃ­as volver a ocuparte de tus asuntos.}
 {115}{}{Joshua dijo lo mismo a yo. Necesito hacerte pregunta.}
 {116}{}{Alto, necesito hacer pregunta.}
-{117}{}{Justo lo mismo que me dijo Joshua. ¿Puedo hacerte algunas preguntas?}
+{117}{}{Justo lo mismo que me dijo Joshua. Â¿Puedo hacerte algunas preguntas?}
 {118}{}{Espera, necesito hacerte unas preguntas.}
-{119}{}{Joshua te permitió una pregunta; yo haré lo mismo. ¿Qué va a ser?}
-{120}{}{De acuerdo, se te permite una pregunta. ¿Qué va a ser?}
-{121}{}{¿Sabes dónde encuentro yo GECK?}
-{122}{}{¿Sabes dónde encuentro yo Refugio 13?}
-{123}{}{¿Quién diablos sois vosotros?}
-{124}{}{¿Sabes dónde puedo encontrar un GECK?}
-{125}{}{¿Sabes dónde puedo encontrar el Refugio 13?}
-{126}{}{¿Quién diablos sois vosotros?}
-{127}{}{Sí, creo que el Refugio 13 nunca usó el suyo. Podrías encontrar uno allí. Buena suerte,}
-{128}{}{¡Alto! ¿Dónde encuentro refugio?}
-{129}{}{¡Espera un momento! ¿Dónde está el refugio?}
-{130}{}{Sí, su localización se almacena en las computadoras del Refugio 15, al este de aquí. Buena suerte,}
+{119}{}{Joshua te permitiÃ³ una pregunta; yo harÃ© lo mismo. Â¿QuÃ© va a ser?}
+{120}{}{De acuerdo, se te permite una pregunta. Â¿QuÃ© va a ser?}
+{121}{}{Â¿Sabes dÃ³nde encuentro yo GECK?}
+{122}{}{Â¿Sabes dÃ³nde encuentro yo Refugio 13?}
+{123}{}{Â¿QuiÃ©n diablos sois vosotros?}
+{124}{}{Â¿Sabes dÃ³nde puedo encontrar un GECK?}
+{125}{}{Â¿Sabes dÃ³nde puedo encontrar el Refugio 13?}
+{126}{}{Â¿QuiÃ©n diablos sois vosotros?}
+{127}{}{SÃ­, creo que el Refugio 13 nunca usÃ³ el suyo. PodrÃ­as encontrar uno allÃ­. Buena suerte,}
+{128}{}{Â¡Alto! Â¿DÃ³nde encuentro refugio?}
+{129}{}{Â¡Espera un momento! Â¿DÃ³nde estÃ¡ el refugio?}
+{130}{}{SÃ­, su localizaciÃ³n se almacena en las computadoras del Refugio 15, al este de aquÃ­. Buena suerte,}
 {131}{}{.}
 {132}{}{Gracias.}
-{133}{}{Somos la Hermandad del Acero. En este momento no hay nada más que deba decirte. Buena suerte,}
-{134}{}{¡Alto! Necesito saber ahora más cosas!}
-{135}{}{¡Espera, no puedes dejar las cosas simplemente así!}
-{136}{}{Hola otra vez. No tengo nada más que decirte.}
-{137}{}{. Bien... ciertamente has recorrido un largo camino para un simple tribal. Deberías visitar nuestra oficina de San Francisco alguna vez. Podría resultarte gratificante. Ahora, si me perdonas, he de irme.}
-{138}{}{Hola otra vez. No tengo nada más que decirte.}
+{133}{}{Somos la Hermandad del Acero. En este momento no hay nada mÃ¡s que deba decirte. Buena suerte,}
+{134}{}{Â¡Alto! Necesito saber ahora mÃ¡s cosas!}
+{135}{}{Â¡Espera, no puedes dejar las cosas simplemente asÃ­!}
+{136}{}{Hola otra vez. No tengo nada mÃ¡s que decirte.}
+{137}{}{. Bien... ciertamente has recorrido un largo camino para un simple tribal. DeberÃ­as visitar nuestra oficina de San Francisco alguna vez. PodrÃ­a resultarte gratificante. Ahora, si me perdonas, he de irme.}
+{138}{}{Hola otra vez. No tengo nada mÃ¡s que decirte.}
 {139}{}{Esperas...}
 {140}{}{Esa es una oficina privada.}
-{141}{}{Ahí dentro no hay nada para ti.}
-{142}{}{Esto es propiedad privada, así que muévete.}
+{141}{}{AhÃ­ dentro no hay nada para ti.}
+{142}{}{Esto es propiedad privada, asÃ­ que muÃ©vete.}

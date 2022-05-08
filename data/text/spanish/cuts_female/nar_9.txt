@@ -1,7 +1,7 @@
-1:Ya está hecho.
+1:Ya estÃ¡ hecho.
 2:El Refugio 13 pertenece a la Unidad y al Maestro.
 3:Tus conocimientos sobre las defensas del Refugio salvaron la vida de muchos mutantes durante el ataque.
-4:Fuiste tú el que acabó con última víctima cuando le quitaste la vida al Supervisor.
-5:Sin duda te convertirás en uno de los mejores soldados de la Unidad y tu destreza será generosamente recompensada en el futuro.
+4:Fuiste tÃº el que acabÃ³ con Ãºltima vÃ­ctima cuando le quitaste la vida al Supervisor.
+5:Sin duda te convertirÃ¡s en uno de los mejores soldados de la Unidad y tu destreza serÃ¡ generosamente recompensada en el futuro.
 6:Eres feliz.
-7:Pero no queda la más mínima duda de lo que pudo haber sido...
+7:Pero no queda la mÃ¡s mÃ­nima duda de lo que pudo haber sido...

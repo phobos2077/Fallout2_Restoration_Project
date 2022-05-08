@@ -1,3 +1,3 @@
-{100}{}{Tu sens l'air fétide, avec un mélange d'odeur de métal et de sang.}
+{100}{}{Tu sens l'air fÃ©tide, avec un mÃ©lange d'odeur de mÃ©tal et de sang.}
 {101}{}{Tu gagnes }
-{102}{}{ points d'expérience pour avoir trouvé l'Abri 13.}
+{102}{}{ points d'expÃ©rience pour avoir trouvÃ© l'Abri 13.}

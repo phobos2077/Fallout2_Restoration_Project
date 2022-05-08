@@ -1,8 +1,8 @@
-{100}{}{Estás viendo a un niño pequeño.}
-{101}{}{El niño parece estar feliz.}
-{200}{}{¡Yeehhee!}
+{100}{}{EstÃ¡s viendo a un niÃ±o pequeÃ±o.}
+{101}{}{El niÃ±o parece estar feliz.}
+{200}{}{Â¡Yeehhee!}
 {201}{}{Este lugar es agradable.}
-{202}{}{¿Has visto a mi amigo invisible?}
-{203}{}{¡Hueles mal!}
-{204}{}{¡Hola!}
-{500}{}{¡Mami!}
+{202}{}{Â¿Has visto a mi amigo invisible?}
+{203}{}{Â¡Hueles mal!}
+{204}{}{Â¡Hola!}
+{500}{}{Â¡Mami!}

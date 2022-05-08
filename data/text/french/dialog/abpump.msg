@@ -1,12 +1,12 @@
-{100}{}{Tu vois une pompe à eau.}
-{101}{}{Tu vois une très vieille pompe à eau qui a l'air cassé.}
-{102}{}{La pompe à eau fonctionne maintenant.}
-{103}{}{Tu vas avoir besoin de plus que tes mains pour réparer cette machine. Peut-être que quelques outils t'aideraient à installer la pièce.}
-{104}{}{Tu as réparé la pompe à eau.}
-{105}{}{Tu as échoué dans la réparation de la pompe à eau.}
-{106}{}{Tu as trouvé ce qui ne fonctionne pas dans la pompe à eau.}
-{200}{}{Tu ouvres la machine et tu regardes à l'intérieur. Tu vois des engrenages et des moteurs complètement rouillés. Un des moteurs a une fissure bien visible.}
-{201}{}{Ca c'est une bonne journée.}
-{202}{}{Effectue une inspection plus poussée.}
-{203}{}{En faisant une recherche plus approfondie, tu remarques que la fissure n'est pas la cause du problème, il s’agit plutôt de la connexion avec les segments. Les connecteurs semblent avoir brûlé après des années d'usure. Ca veut dire qu'il faut un nouveau moteur tout comme un nouveau jeu de segments pour remettre cette machine en marche.}
+{100}{}{Tu vois une pompe Ã  eau.}
+{101}{}{Tu vois une trÃ¨s vieille pompe Ã  eau qui a l'air cassÃ©.}
+{102}{}{La pompe Ã  eau fonctionne maintenant.}
+{103}{}{Tu vas avoir besoin de plus que tes mains pour rÃ©parer cette machine. Peut-Ãªtre que quelques outils t'aideraient Ã  installer la piÃ¨ce.}
+{104}{}{Tu as rÃ©parÃ© la pompe Ã  eau.}
+{105}{}{Tu as Ã©chouÃ© dans la rÃ©paration de la pompe Ã  eau.}
+{106}{}{Tu as trouvÃ© ce qui ne fonctionne pas dans la pompe Ã  eau.}
+{200}{}{Tu ouvres la machine et tu regardes Ã  l'intÃ©rieur. Tu vois des engrenages et des moteurs complÃ¨tement rouillÃ©s. Un des moteurs a une fissure bien visible.}
+{201}{}{Ca c'est une bonne journÃ©e.}
+{202}{}{Effectue une inspection plus poussÃ©e.}
+{203}{}{En faisant une recherche plus approfondie, tu remarques que la fissure n'est pas la cause du problÃ¨me, il sâ€™agit plutÃ´t de la connexion avec les segments. Les connecteurs semblent avoir brÃ»lÃ© aprÃ¨s des annÃ©es d'usure. Ca veut dire qu'il faut un nouveau moteur tout comme un nouveau jeu de segments pour remettre cette machine en marche.}
 {204}{}{[Quitter]}

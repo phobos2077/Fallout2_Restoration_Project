@@ -1,53 +1,53 @@
-{100}{}{Widzisz podró¿nika. Wygl¹da na doœæ zakurzon¹ osobê.}
+{100}{}{Widzisz podrÃ³Å¼nika. WyglÄ…da na doÅ›Ä‡ zakurzonÄ… osobÄ™.}
 {101}{}{Widzisz bywalca baru.}
-{102}{}{Widzisz podró¿nika. Wygl¹da na doœæ zakurzon¹ osobê.}
+{102}{}{Widzisz podrÃ³Å¼nika. WyglÄ…da na doÅ›Ä‡ zakurzonÄ… osobÄ™.}
 {103}{}{HEJ! Ludzie! Oto postrach Enklawy!}
 {104}{}{Gratulacje!}
-{105}{}{Hej! Za takie bohaterstwo pozwól, ¿e postawiê ci drinka, dobra?}
-{106}{}{Czy¿by Kapitan na patrolu...}
-{107}{}{Czy¿by to by³ ulubiony Miœ Pierwszego Obywatela...}
-{108}{}{Czy¿by to by³ "Kapitan"...}
-{109}{}{Uwaga. W³aœnie wkroczy³o Prawo.}
+{105}{}{Hej! Za takie bohaterstwo pozwÃ³l, Å¼e postawiÄ™ ci drinka, dobra?}
+{106}{}{CzyÅ¼by Kapitan na patrolu...}
+{107}{}{CzyÅ¼by to byÅ‚ ulubiony MiÅ› Pierwszego Obywatela...}
+{108}{}{CzyÅ¼by to byÅ‚ "Kapitan"...}
+{109}{}{Uwaga. WÅ‚aÅ›nie wkroczyÅ‚o Prawo.}
 {110}{}{Obywatele w takiej okolicy?}
-{111}{}{Czy nie lepiej by³oby ci w mieœcie, "obywatelu"?}
-{112}{}{Cholerni obywatele! Po prostu spaceruj¹ sobie gdzie i kiedy maj¹ ochotê...}
+{111}{}{Czy nie lepiej byÅ‚oby ci w mieÅ›cie, "obywatelu"?}
+{112}{}{Cholerni obywatele! Po prostu spacerujÄ… sobie gdzie i kiedy majÄ… ochotÄ™...}
 {113}{}{Hola! To jest mutant?!}
-{114}{}{WyjdŸcie st¹d ch³opcy. W tym domu jest mutant.}
-{115}{}{Bêdziemy mieli k³opoty jeœli stra¿nicy zobacz¹ tego mutanta...}
-{116}{}{Wpuszczaj¹ tutaj teraz *mutantów*?}
-{117}{}{Ten mutant znajdzie siê w Centrum Zatrzymañ...}
-{118}{}{Powiedz, ¿e to nie jest ghul.}
-{119}{}{Co to za *smród*?! Zabierzcie st¹d tego ghula!}
+{114}{}{WyjdÅºcie stÄ…d chÅ‚opcy. W tym domu jest mutant.}
+{115}{}{BÄ™dziemy mieli kÅ‚opoty jeÅ›li straÅ¼nicy zobaczÄ… tego mutanta...}
+{116}{}{WpuszczajÄ… tutaj teraz *mutantÃ³w*?}
+{117}{}{Ten mutant znajdzie siÄ™ w Centrum ZatrzymaÅ„...}
+{118}{}{Powiedz, Å¼e to nie jest ghul.}
+{119}{}{Co to za *smrÃ³d*?! Zabierzcie stÄ…d tego ghula!}
 {120}{}{Zabierzcie z tego baru tego ohydnego ghula!}
-{121}{}{Jeœli ten ghul zgubi tu jak¹œ czêœæ cia³a, wyprujê mu flaki.}
-{122}{}{Ten ghul stanie siê tarcz¹ strzelnicz¹, jeœli zobacz¹ go stra¿nicy. }
-{123}{}{W dzisiejszych czasach ciê¿ko sobie pozwoliæ na Przepustkê Dzienn¹...}
-{124}{}{Ceny braminów ci¹gle rosn¹...}
-{125}{}{Jeœli ta susza siê przeci¹gnie, to bêdzie kiepski sezon...}
-{126}{}{Zstêpujemy w mroczne zau³ki, co nie Kaptanie?}
-{127}{}{Kapitanie, ja naprawdê nie mam z tym nic wspólnego. Zajmujê siê tylko moimi w³asnymi sprawami.}
+{121}{}{JeÅ›li ten ghul zgubi tu jakÄ…Å› czÄ™Å›Ä‡ ciaÅ‚a, wyprujÄ™ mu flaki.}
+{122}{}{Ten ghul stanie siÄ™ tarczÄ… strzelniczÄ…, jeÅ›li zobaczÄ… go straÅ¼nicy. }
+{123}{}{W dzisiejszych czasach ciÄ™Å¼ko sobie pozwoliÄ‡ na PrzepustkÄ™ DziennÄ…...}
+{124}{}{Ceny braminÃ³w ciÄ…gle rosnÄ…...}
+{125}{}{JeÅ›li ta susza siÄ™ przeciÄ…gnie, to bÄ™dzie kiepski sezon...}
+{126}{}{ZstÄ™pujemy w mroczne zauÅ‚ki, co nie Kaptanie?}
+{127}{}{Kapitanie, ja naprawdÄ™ nie mam z tym nic wspÃ³lnego. ZajmujÄ™ siÄ™ tylko moimi wÅ‚asnymi sprawami.}
 {128}{}{Kapitanie, nic nie wiem. A teraz mnie zostaw.}
-{129}{}{"Kapitanie", odtenteguj siê.}
-{130}{}{Wygl¹da na to, ¿e Lynette teraz z ka¿dego robi obywatela.}
-{131}{}{Stra¿e dosta³y ju¿ moj¹ op³atê za ochronê. Zostaw mnie.}
-{132}{}{Zstêpujemy w mroczne zau³ki, co nie?}
-{133}{}{Mo¿e lepiej schowaj siê za mury.}
+{129}{}{"Kapitanie", odtenteguj siÄ™.}
+{130}{}{WyglÄ…da na to, Å¼e Lynette teraz z kaÅ¼dego robi obywatela.}
+{131}{}{StraÅ¼e dostaÅ‚y juÅ¼ mojÄ… opÅ‚atÄ™ za ochronÄ™. Zostaw mnie.}
+{132}{}{ZstÄ™pujemy w mroczne zauÅ‚ki, co nie?}
+{133}{}{MoÅ¼e lepiej schowaj siÄ™ za mury.}
 {134}{}{Spadaj.}
-{135}{}{Odtenteguj siê.}
-{136}{}{Wygl¹da na to, ¿e Lynette teraz z ka¿dego robi obywatela.}
-{137}{}{Ten Smith to mi³y facet.}
-{138}{}{Pewnie nigdy nie uda mi siê zdobyæ Przepustki Dziennej.}
-{139}{}{Nie pij tutejszej wody. Liczniki Geigera zaczynaj¹ od niej tykaæ.}
-{140}{}{Gdy obywatel gdzieœ siê zjawi, nigdy nie spojrzy ci w oczy ani siê nie przywita.}
-{141}{}{Kryptopolis mo¿e nas nie kocha, ale przynajmniej nas chroni.}
-{142}{}{Uwa¿aj na Autodoktora. On leczy choroby... zazwyczaj. Po prostu nie nadu¿ywaj szczêœcia.}
-{143}{}{Ed, sprzedawca braminów, znowu musia³ podnieœæ ceny, ¿eby zarobiæ na comiesiêczne op³aty za ochronê.}
-{144}{}{Ten Skeev w zamian za udzia³ w zysku pomóg³ mi wrzuciæ do miasta trochê bimbru. }
-{145}{}{Ostatni tydzieñ byliœmy w podró¿y. Przychodzimy z po³udnia, z RNK.}
-{146}{}{Niektórzy z moich przyjació³ poszli do Reno... wiêcej siê nie pokazali.}
-{147}{}{Podobno w Reno znowu robi siê gor¹co. Te ich rodziny nie znosz¹ siê nawzajem.}
-{148}{}{Podobno te ghule z Gecko chc¹ zaatakowaæ miasto.}
-{149}{}{Nie wchoæ w drogê obywatelom, albo wsadz¹ ciê do Centrum zatrzymañ.}
+{135}{}{Odtenteguj siÄ™.}
+{136}{}{WyglÄ…da na to, Å¼e Lynette teraz z kaÅ¼dego robi obywatela.}
+{137}{}{Ten Smith to miÅ‚y facet.}
+{138}{}{Pewnie nigdy nie uda mi siÄ™ zdobyÄ‡ Przepustki Dziennej.}
+{139}{}{Nie pij tutejszej wody. Liczniki Geigera zaczynajÄ… od niej tykaÄ‡.}
+{140}{}{Gdy obywatel gdzieÅ› siÄ™ zjawi, nigdy nie spojrzy ci w oczy ani siÄ™ nie przywita.}
+{141}{}{Kryptopolis moÅ¼e nas nie kocha, ale przynajmniej nas chroni.}
+{142}{}{UwaÅ¼aj na Autodoktora. On leczy choroby... zazwyczaj. Po prostu nie naduÅ¼ywaj szczÄ™Å›cia.}
+{143}{}{Ed, sprzedawca braminÃ³w, znowu musiaÅ‚ podnieÅ›Ä‡ ceny, Å¼eby zarobiÄ‡ na comiesiÄ™czne opÅ‚aty za ochronÄ™.}
+{144}{}{Ten Skeev w zamian za udziaÅ‚ w zysku pomÃ³gÅ‚ mi wrzuciÄ‡ do miasta trochÄ™ bimbru. }
+{145}{}{Ostatni tydzieÅ„ byliÅ›my w podrÃ³Å¼y. Przychodzimy z poÅ‚udnia, z RNK.}
+{146}{}{NiektÃ³rzy z moich przyjaciÃ³Å‚ poszli do Reno... wiÄ™cej siÄ™ nie pokazali.}
+{147}{}{Podobno w Reno znowu robi siÄ™ gorÄ…co. Te ich rodziny nie znoszÄ… siÄ™ nawzajem.}
+{148}{}{Podobno te ghule z Gecko chcÄ… zaatakowaÄ‡ miasto.}
+{149}{}{Nie wchoÄ‡ w drogÄ™ obywatelom, albo wsadzÄ… ciÄ™ do Centrum zatrzymaÅ„.}
 {150}{}{Ta Lynette to zimna bestia.}
-{151}{}{Kryptopolis nie jest tak do koñca "wolnym" miastem. Ale nie jest Ÿle.}
-{152}{}{Kryptopolis jest lepsze ni¿ Nora. Ale mniej tu rozrywek.}
+{151}{}{Kryptopolis nie jest tak do koÅ„ca "wolnym" miastem. Ale nie jest Åºle.}
+{152}{}{Kryptopolis jest lepsze niÅ¼ Nora. Ale mniej tu rozrywek.}

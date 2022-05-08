@@ -1,71 +1,71 @@
-{100}{}{Vonzó, de fáradt fiatal n?.}
-{101}{}{Jennyt a fürd?segédet látod.}
-{200}{}{Nahát, ez aztán elég gyors volt. Biztosan új vagy még ebben a dologban. Csak nyugodj meg és akkor még jobban fogod élvezni.}
-{201}{}{Kösz, Jenny, azt hiszem, ebben még rám fér egy kis gyakorlás.}
-{210}{}{Ez jó volt. Úgy t?nik, jobban értesz a n?khöz, mint a legtöbb korodbeli férfi.}
-{211}{}{Örülök, hogy neked is olyan jó volt, mint nekem.}
-{220}{}{Benned aztán van kitartás, ez a jó a fiatalabb férfiakban. Bárcsak több hozzád hasonló lenne a városban.}
-{221}{}{Tényleg jól esett a fürd?zés, Jenny. Maradnék még egy kicsit, ha nem lenne más dolgom.}
-{230}{}{Hát, ez más volt. Remélem, visszajössz. Legközelebb szeretném kipróbálni a saját ötleteimet.}
-{231}{}{Jó, hogy van valaki, aki megérti, mi a változatosság.}
-{240}{}{Ez aztán jó volt. Igazi tehetség lennél, ha el?bb kiszabadulsz a törzsedb?l. Nem bánnám, ha maradnál még egy ideig. Gondolkodtál már a pályaváltoztatáson?}
-{241}{}{Én is élveztem. Miel?tt átgondolhatnám a letelepedést, van még pár elintéznivalóm, de azért kösz.}
-{250}{}{Te más vagy, mint a többi környékbeli.}
-{251}{}{Mesélj, mi történik errefelé mostanában!}
-{252}{}{Mégsem akarom tudni mi folyik errefelé.}
-{260}{}{Hát, jó volt veled beszélgetni. Bár jobb lesz, ha felkészülök a következ? vendégre. Viszlát!}
-{270}{}{Kicsit zavarodottnak látszol. Én Jenny vagyok, segíthetek?}
-{271}{}{Enny? Jóóó, he he he. (mosoly)}
-{272}{}{(bólint) Ahham.}
+{100}{}{VonzÃ³, de fÃ¡radt fiatal n?.}
+{101}{}{Jennyt a fÃ¼rd?segÃ©det lÃ¡tod.}
+{200}{}{NahÃ¡t, ez aztÃ¡n elÃ©g gyors volt. Biztosan Ãºj vagy mÃ©g ebben a dologban. Csak nyugodj meg Ã©s akkor mÃ©g jobban fogod Ã©lvezni.}
+{201}{}{KÃ¶sz, Jenny, azt hiszem, ebben mÃ©g rÃ¡m fÃ©r egy kis gyakorlÃ¡s.}
+{210}{}{Ez jÃ³ volt. Ãšgy t?nik, jobban Ã©rtesz a n?khÃ¶z, mint a legtÃ¶bb korodbeli fÃ©rfi.}
+{211}{}{Ã–rÃ¼lÃ¶k, hogy neked is olyan jÃ³ volt, mint nekem.}
+{220}{}{Benned aztÃ¡n van kitartÃ¡s, ez a jÃ³ a fiatalabb fÃ©rfiakban. BÃ¡rcsak tÃ¶bb hozzÃ¡d hasonlÃ³ lenne a vÃ¡rosban.}
+{221}{}{TÃ©nyleg jÃ³l esett a fÃ¼rd?zÃ©s, Jenny. MaradnÃ©k mÃ©g egy kicsit, ha nem lenne mÃ¡s dolgom.}
+{230}{}{HÃ¡t, ez mÃ¡s volt. RemÃ©lem, visszajÃ¶ssz. LegkÃ¶zelebb szeretnÃ©m kiprÃ³bÃ¡lni a sajÃ¡t Ã¶tleteimet.}
+{231}{}{JÃ³, hogy van valaki, aki megÃ©rti, mi a vÃ¡ltozatossÃ¡g.}
+{240}{}{Ez aztÃ¡n jÃ³ volt. Igazi tehetsÃ©g lennÃ©l, ha el?bb kiszabadulsz a tÃ¶rzsedb?l. Nem bÃ¡nnÃ¡m, ha maradnÃ¡l mÃ©g egy ideig. GondolkodtÃ¡l mÃ¡r a pÃ¡lyavÃ¡ltoztatÃ¡son?}
+{241}{}{Ã‰n is Ã©lveztem. Miel?tt Ã¡tgondolhatnÃ¡m a letelepedÃ©st, van mÃ©g pÃ¡r elintÃ©znivalÃ³m, de azÃ©rt kÃ¶sz.}
+{250}{}{Te mÃ¡s vagy, mint a tÃ¶bbi kÃ¶rnyÃ©kbeli.}
+{251}{}{MesÃ©lj, mi tÃ¶rtÃ©nik errefelÃ© mostanÃ¡ban!}
+{252}{}{MÃ©gsem akarom tudni mi folyik errefelÃ©.}
+{260}{}{HÃ¡t, jÃ³ volt veled beszÃ©lgetni. BÃ¡r jobb lesz, ha felkÃ©szÃ¼lÃ¶k a kÃ¶vetkez? vendÃ©gre. ViszlÃ¡t!}
+{270}{}{Kicsit zavarodottnak lÃ¡tszol. Ã‰n Jenny vagyok, segÃ­thetek?}
+{271}{}{Enny? JÃ³Ã³Ã³, he he he. (mosoly)}
+{272}{}{(bÃ³lint) Ahham.}
 {273}{}{Enny }
 {274}{}{Mami?}
-{280}{}{Hmm, jobban tennéd, ha elt?nnél innen, még miel?tt Nagyorrú Sally megtalál. Nem igazán kedveli a hülyéket a házában.}
-{290}{}{Mit szeretnél tudni?}
-{291}{}{Mesélj nekem a prémvadászokról!}
-{292}{}{Egy keresked?t keresek. Ismersz olyat, amelyik régi tárgyakkal kereskedik, még békebeli id?kb?l?}
+{280}{}{Hmm, jobban tennÃ©d, ha elt?nnÃ©l innen, mÃ©g miel?tt NagyorrÃº Sally megtalÃ¡l. Nem igazÃ¡n kedveli a hÃ¼lyÃ©ket a hÃ¡zÃ¡ban.}
+{290}{}{Mit szeretnÃ©l tudni?}
+{291}{}{MesÃ©lj nekem a prÃ©mvadÃ¡szokrÃ³l!}
+{292}{}{Egy keresked?t keresek. Ismersz olyat, amelyik rÃ©gi tÃ¡rgyakkal kereskedik, mÃ©g bÃ©kebeli id?kb?l?}
 {293}{}{Nem tudod, hogy jutok el innen Rejtekbe?}
-{294}{}{Viszlát!}
-{295}{}{Jenny, hallottál már az ÉLET-r?l?}
-{300}{}{Hát róluk nem sok mindent lehet mesélni. Van gekkób?rük... a szerencsésebbeknél aranygekkób?r... és néha bejönnek, hogy kieresszék a g?zt. Gyorsak és nem kívánnak sokat. Pont ilyennek szeretem ?ket.}
-{301}{}{Most nem vagyok másra kíváncsi.}
-{302}{}{Érdekes... inkább kérdeznék valami mást.}
-{310}{}{A keresked?k érdekelnek? Leginkább csak egy keresked?nek dolgoztam, a neve Vic volt. Mindig volt nála pénz, amit elszórakozhatott, legalábbis amikor volt munkája. Régi kacatokat árult. F?leg technikai bigyókat.}
-{311}{}{Hát, kösz az infót, de most mennem kell.}
-{312}{}{Mit tudsz még Vicr?l?}
-{313}{}{Hadd kérdezzek valami mást.}
-{320}{}{Vic igazi szeret? volt. Hetekre elment és csomó békebeli dologgal tért vissza, de sokszor el kellett menni a Rejtekbe, mert itt nincs nagy kereslet az efféle cuccokra.}
+{294}{}{ViszlÃ¡t!}
+{295}{}{Jenny, hallottÃ¡l mÃ¡r az Ã‰LET-r?l?}
+{300}{}{HÃ¡t rÃ³luk nem sok mindent lehet mesÃ©lni. Van gekkÃ³b?rÃ¼k... a szerencsÃ©sebbeknÃ©l aranygekkÃ³b?r... Ã©s nÃ©ha bejÃ¶nnek, hogy kieresszÃ©k a g?zt. Gyorsak Ã©s nem kÃ­vÃ¡nnak sokat. Pont ilyennek szeretem ?ket.}
+{301}{}{Most nem vagyok mÃ¡sra kÃ­vÃ¡ncsi.}
+{302}{}{Ã‰rdekes... inkÃ¡bb kÃ©rdeznÃ©k valami mÃ¡st.}
+{310}{}{A keresked?k Ã©rdekelnek? LeginkÃ¡bb csak egy keresked?nek dolgoztam, a neve Vic volt. Mindig volt nÃ¡la pÃ©nz, amit elszÃ³rakozhatott, legalÃ¡bbis amikor volt munkÃ¡ja. RÃ©gi kacatokat Ã¡rult. F?leg technikai bigyÃ³kat.}
+{311}{}{HÃ¡t, kÃ¶sz az infÃ³t, de most mennem kell.}
+{312}{}{Mit tudsz mÃ©g Vicr?l?}
+{313}{}{Hadd kÃ©rdezzek valami mÃ¡st.}
+{320}{}{Vic igazi szeret? volt. Hetekre elment Ã©s csomÃ³ bÃ©kebeli dologgal tÃ©rt vissza, de sokszor el kellett menni a Rejtekbe, mert itt nincs nagy kereslet az effÃ©le cuccokra.}
 {321}{}{Hol van most Vic?}
 {322}{}{Merre van Rejtek?}
 {323}{}{Did Vic ever have anything that was labeled 'Vault-Tec'?}
-{324}{}{Mondj valami mást!}
-{325}{}{Azt hiszem, most másra nem vagyok kíváncsi.}
-{330}{}{Rejtek a leghitványabb söpredék gyülekez?helye, innen dél-keletre. Kábé egy hétre, vagy kevesebb? Nem emlékszem pontosan. Mindegy, a lényeg, hogy izgalmas egy hely. Veszélyes, de izgalmas. Egy kicsit sajnálom, hogy eljöttem onnan.}
-{331}{}{Feltennék még kérdéseket.}
-{332}{}{Kösz, de most elmegyek.}
-{340}{}{Most épp nem tudom, hol lehet Vic. Végigmész az utcán és keletre megtalálod a házát. Lehet, hogy épp valami törzzsel vagy Rejtekben kereskedik. Remélem, jól van. Már kezdett több lenni, mint egy állandó vendég.}
-{341}{}{Remélem, jól van. Miattad. Hadd tegyek fel egy újabb kérdést!}
-{342}{}{Remélem, még visszajön hozzád. Most mennem kell, viszlát!}
-{350}{}{Helló! Jenny a nevem. Egy jó kefélésre vágysz?}
-{351}{}{Nem kösz, csak körülnéztem.}
-{352}{}{Végülis, jól jönne egy kis masszázs (kacsintás, kacsintás)}
-{353}{}{Az az igazság, hogy lenne pár kérdésem, ha nem baj.}
-{354}{}{Egy keresked?r?l érdekl?dnék, aki békebeli dolgokat árul.}
-{360}{}{Üdvözlöm, hölgyem. Én Jenny vagyok. Segíthetek valamiben?}
-{361}{}{Öö, nem, csak gondoltam, megnézem, mi van idebenn. Azt hiszem, az lesz a legjobb, ha elmegyek.}
-{362}{}{Háát, egy ilyen szépség biztos tudna adni pár tippet.}
-{363}{}{Lenne pár kérdésem hozzád.}
-{364}{}{Egy bizonyos keresked?r?l érdekl?dnék, aki régi cuccokkat árult.}
-{370}{}{Akkor jobb lesz, ha beszélsz Nagyorrú Sallyvel. ? foglalkozik az ügyfelekkel.}
-{380}{}{Helló, aranyom. Jenny vagyok. Munkát keresel? Ha olyan jól mozogsz, mint ahogy kinézel, jól fogsz keresni.}
-{381}{}{Nem különösebben érdekel a meló.}
-{382}{}{Mmm, szívesen megmutatom neked, milyen jól tudok mozogni.}
-{383}{}{Kösz, de csak feltennék pár kérdést.}
-{384}{}{Egy keresked?t keresek, aki békebeli árukkal foglalkozott.}
+{324}{}{Mondj valami mÃ¡st!}
+{325}{}{Azt hiszem, most mÃ¡sra nem vagyok kÃ­vÃ¡ncsi.}
+{330}{}{Rejtek a leghitvÃ¡nyabb sÃ¶predÃ©k gyÃ¼lekez?helye, innen dÃ©l-keletre. KÃ¡bÃ© egy hÃ©tre, vagy kevesebb? Nem emlÃ©kszem pontosan. Mindegy, a lÃ©nyeg, hogy izgalmas egy hely. VeszÃ©lyes, de izgalmas. Egy kicsit sajnÃ¡lom, hogy eljÃ¶ttem onnan.}
+{331}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{332}{}{KÃ¶sz, de most elmegyek.}
+{340}{}{Most Ã©pp nem tudom, hol lehet Vic. VÃ©gigmÃ©sz az utcÃ¡n Ã©s keletre megtalÃ¡lod a hÃ¡zÃ¡t. Lehet, hogy Ã©pp valami tÃ¶rzzsel vagy Rejtekben kereskedik. RemÃ©lem, jÃ³l van. MÃ¡r kezdett tÃ¶bb lenni, mint egy Ã¡llandÃ³ vendÃ©g.}
+{341}{}{RemÃ©lem, jÃ³l van. Miattad. Hadd tegyek fel egy Ãºjabb kÃ©rdÃ©st!}
+{342}{}{RemÃ©lem, mÃ©g visszajÃ¶n hozzÃ¡d. Most mennem kell, viszlÃ¡t!}
+{350}{}{HellÃ³! Jenny a nevem. Egy jÃ³ kefÃ©lÃ©sre vÃ¡gysz?}
+{351}{}{Nem kÃ¶sz, csak kÃ¶rÃ¼lnÃ©ztem.}
+{352}{}{VÃ©gÃ¼lis, jÃ³l jÃ¶nne egy kis masszÃ¡zs (kacsintÃ¡s, kacsintÃ¡s)}
+{353}{}{Az az igazsÃ¡g, hogy lenne pÃ¡r kÃ©rdÃ©sem, ha nem baj.}
+{354}{}{Egy keresked?r?l Ã©rdekl?dnÃ©k, aki bÃ©kebeli dolgokat Ã¡rul.}
+{360}{}{ÃœdvÃ¶zlÃ¶m, hÃ¶lgyem. Ã‰n Jenny vagyok. SegÃ­thetek valamiben?}
+{361}{}{Ã–Ã¶, nem, csak gondoltam, megnÃ©zem, mi van idebenn. Azt hiszem, az lesz a legjobb, ha elmegyek.}
+{362}{}{HÃ¡Ã¡t, egy ilyen szÃ©psÃ©g biztos tudna adni pÃ¡r tippet.}
+{363}{}{Lenne pÃ¡r kÃ©rdÃ©sem hozzÃ¡d.}
+{364}{}{Egy bizonyos keresked?r?l Ã©rdekl?dnÃ©k, aki rÃ©gi cuccokkat Ã¡rult.}
+{370}{}{Akkor jobb lesz, ha beszÃ©lsz NagyorrÃº Sallyvel. ? foglalkozik az Ã¼gyfelekkel.}
+{380}{}{HellÃ³, aranyom. Jenny vagyok. MunkÃ¡t keresel? Ha olyan jÃ³l mozogsz, mint ahogy kinÃ©zel, jÃ³l fogsz keresni.}
+{381}{}{Nem kÃ¼lÃ¶nÃ¶sebben Ã©rdekel a melÃ³.}
+{382}{}{Mmm, szÃ­vesen megmutatom neked, milyen jÃ³l tudok mozogni.}
+{383}{}{KÃ¶sz, de csak feltennÃ©k pÃ¡r kÃ©rdÃ©st.}
+{384}{}{Egy keresked?t keresek, aki bÃ©kebeli Ã¡rukkal foglalkozott.}
 {390}{}{Vault-Tec? He might have had something like that. I'm not sure. I know he did have a lot of
  really old stuff.}
-{391}{}{Kösz, Jenny. Hadd kérdezzek valami másról!}
-{392}{}{Egyel?re ennyi kérdés elég is volt.}
-{400}{}{Az ÉLET? Azt javaslom használd ki, mert csak egy van. }
-{401}{}{Kösz, Jenny. Hadd kérdezzek valami másról!}
-{402}{}{Hát, azt hiszem, ennyi infó b?ven elég.}
-{500}{}{[Jenny megpofoz] Kérlek, ne fogdoss!}
+{391}{}{KÃ¶sz, Jenny. Hadd kÃ©rdezzek valami mÃ¡srÃ³l!}
+{392}{}{Egyel?re ennyi kÃ©rdÃ©s elÃ©g is volt.}
+{400}{}{Az Ã‰LET? Azt javaslom hasznÃ¡ld ki, mert csak egy van. }
+{401}{}{KÃ¶sz, Jenny. Hadd kÃ©rdezzek valami mÃ¡srÃ³l!}
+{402}{}{HÃ¡t, azt hiszem, ennyi infÃ³ b?ven elÃ©g.}
+{500}{}{[Jenny megpofoz] KÃ©rlek, ne fogdoss!}

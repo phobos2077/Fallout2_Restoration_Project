@@ -1,8 +1,8 @@
 {100}{}{Tu vois un terminal.}
-{101}{}{Voici un terminal, les terminaux sont souvent utilisés pour contrôler d'autres objets.}
-{200}{}{Ce terminal semble contrôler les portes de cette cellule.}
+{101}{}{Voici un terminal, les terminaux sont souvent utilisÃ©s pour contrÃ´ler d'autres objets.}
+{200}{}{Ce terminal semble contrÃ´ler les portes de cette cellule.}
 {201}{}{Code invalide.}
 {202}{}{Maintenant, les portes sont ouvertes.}
-{203}{}{Maintenant, les portes sont fermées.}
-{204}{}{L'idée était bonne, mais ça n'a pas marché.}
-{205}{}{Hum... ces ordinateurs sont compliqués.}
+{203}{}{Maintenant, les portes sont fermÃ©es.}
+{204}{}{L'idÃ©e Ã©tait bonne, mais Ã§a n'a pas marchÃ©.}
+{205}{}{Hum... ces ordinateurs sont compliquÃ©s.}

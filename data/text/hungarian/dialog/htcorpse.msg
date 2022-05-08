@@ -1,1 +1,1 @@
-{100}{}{Broken Hills számos lakójának holttestét látod.}
+{100}{}{Broken Hills szÃ¡mos lakÃ³jÃ¡nak holttestÃ©t lÃ¡tod.}

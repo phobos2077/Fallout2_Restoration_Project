@@ -1,5 +1,5 @@
-{100}{}{Você um deathclaw enorme. O bicho tem músculos enormes, dentes afiados, e garras.}
-{101}{}{Você vê Gruthar, líder dos deathclaws.}
+{100}{}{VocÃª um deathclaw enorme. O bicho tem mÃºsculos enormes, dentes afiados, e garras.}
+{101}{}{VocÃª vÃª Gruthar, lÃ­der dos deathclaws.}
 {102}{}{You see the most impressive deathclaw you could imagine. The creature must be unique among its
  kind.}
 {103}{}{Do not fear me, human. I do not intend to harm you. I am Gruthar, leader of this deathclaw pack.
@@ -115,7 +115,7 @@
 {175}{}{Feito.}
 {176}{}{I shall return, you have my word.}
 {177}{}{Hello}
-{178}{}{Não, eu ainda estou procurando.}
+{178}{}{NÃ£o, eu ainda estou procurando.}
 {179}{}{Yes, and here it is!}
 {180}{}{}
 {181}{}{You have restored my faith in humans. I thank you for all that you have done for the pack. Is
@@ -134,14 +134,14 @@
 {192}{}{Uh, me sorry.}
 {193}{}{Greetings, human. Have you reconsidered? Will you help me?}
 {194}{}{Hell, no. I just wanted to listen to you butcher the language some more.}
-{195}{}{Não, eu não penso assim.}
+{195}{}{NÃ£o, eu nÃ£o penso assim.}
 {196}{}{Yes, Gruthar. I will help you.}
 {197}{}{Greetings, friend. Have you examined the machine yet?}
 {198}{}{Not yet, but I'll get on it.}
 {199}{}{Hello, my friend. You have saved the pack and we thank you.}
 {200}{}{}
 {201}{}{}
-{202}{}{Morra, humano traiçoeiro!}
+{202}{}{Morra, humano traiÃ§oeiro!}
 {203}{}{}
 {204}{}{}
 {205}{}{I have no quarrel with you, human, and I do not want one. I am trying to deal with you civilly.
@@ -163,7 +163,7 @@
  and the home of others who rely on me for their protection. Do not push me to the point that either of
  us will regret it!}
 {219}{}{I'm sorry; I've been impolite and overstepped my bounds.}
-{220}{}{Aperto você e todos que se parecem com você!}
+{220}{}{Aperto vocÃª e todos que se parecem com vocÃª!}
 {221}{}{Whoa! I'm outta here.}
 {222}{}{Thank you. Please go to the control room and replace the module.}
 {223}{}{Consider it done!}

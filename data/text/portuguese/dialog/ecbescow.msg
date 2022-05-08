@@ -1,1 +1,1 @@
-{100}{}{Parece que ele morreu de desidratação.}
+{100}{}{Parece que ele morreu de desidrataÃ§Ã£o.}

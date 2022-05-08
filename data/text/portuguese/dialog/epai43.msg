@@ -1,2 +1,2 @@
-{200}{}{O arm·rio se recusa a ceder. Uma senha È necess·ria.}
-{201}{}{Introduz o cÛdigo de acesso e o arm·rio se abre.}
+{200}{}{O arm√°rio se recusa a ceder. Uma senha √© necess√°ria.}
+{201}{}{Introduz o c√≥digo de acesso e o arm√°rio se abre.}

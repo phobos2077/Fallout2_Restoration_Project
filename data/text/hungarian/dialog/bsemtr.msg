@@ -1,5 +1,5 @@
-{100}{}{Egy Èrdekes szerkenty?t l·tsz az er?tÈr mellett.}
-{101}{}{Egy er?tÈr-emitter l·tsz.}
-{102}{}{Ez a legfurcs·bb fal, amit valaha l·tt·l.}
-{103}{}{Ez egy er?tÈr-emitter. Ez szolg·ltatja az energi·t az er?tÈrhez.}
-{104}{}{A kibocs·tÛ sivÌtÛ hangot ad mag·bÛl, azt·n felrobban.}
+{100}{}{Egy √©rdekes szerkenty?t l√°tsz az er?t√©r mellett.}
+{101}{}{Egy er?t√©r-emitter l√°tsz.}
+{102}{}{Ez a legfurcs√°bb fal, amit valaha l√°tt√°l.}
+{103}{}{Ez egy er?t√©r-emitter. Ez szolg√°ltatja az energi√°t az er?t√©rhez.}
+{104}{}{A kibocs√°t√≥ siv√≠t√≥ hangot ad mag√°b√≥l, azt√°n felrobban.}

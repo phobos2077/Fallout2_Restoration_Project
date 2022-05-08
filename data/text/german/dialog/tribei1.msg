@@ -5,5 +5,5 @@
 {104}{}{Ein Seil ist da, aber es fehlt der Eimer.}
 {200}{}{Du siehst einen Brunnen.}
 {201}{}{Es ist nur ein Brunnen.}
-{202}{}{Nach einer näheren Untersuchung stellst du fest, dass der Brunnen nicht funktioniert. Vielleicht kannst du ihn reparieren.}
+{202}{}{Nach einer nÃ¤heren Untersuchung stellst du fest, dass der Brunnen nicht funktioniert. Vielleicht kannst du ihn reparieren.}
 {203}{}{Der Brunnen funktioniert wieder.}

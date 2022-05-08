@@ -1,1 +1,1 @@
-{100}{}{Wkraczasz na teren gÛrniczej spo≥ecznoúci Redding.}
+{100}{}{Wkraczasz na teren g√≥rniczej spo≈Çeczno≈õci Redding.}

@@ -12,7 +12,7 @@
 {109}{}{O que agora?}
 {110}{}{Ooo?}
 {111}{}{Hello, Lou. I'm interested in getting something here.}
-{112}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
+{112}{}{VocÃª jÃ¡ ouviu falar de algo chamado Kit de CriaÃ§Ã£o do Jardim do Ã‰den?}
 {113}{}{Hello, Lou. What's going on in this town?}
 {114}{}{What's a Malamute?}
 {115}{}{Where's San Fran from here?}
@@ -58,7 +58,7 @@
  know why any sane person'd want to go there for, though.}
 {149}{}{Why? Is it dangerous?}
 {150}{}{Interesting. Let me ask you about something else, though.}
-{151}{}{Obrigado pela informação. Adeus.}
+{151}{}{Obrigado pela informaÃ§Ã£o. Adeus.}
 {152}{}{Well, I hear all kinds of things about the whole city bein' full o' nuthin' but crazy followers
  of some kind of kooky religion.}
 {153}{}{Crazed followers?}
@@ -128,7 +128,7 @@
  available. Hmm, why don't you try Fannie Mae? She oughta be around here somewheres. You can make the
  arrangements with her yourself.}
 {204}{}{Sounds like a good idea. I'll go do that. Goodbye.}
-{205}{}{Mas eu não ... ok. Adeus.}
+{205}{}{Mas eu nÃ£o ... ok. Adeus.}
 {206}{}{You and Fannie already worked things out. Why don't you go see her. She's right in back
  someplace.}
 {207}{}{Listen. You're a jinx here. After what happened to Fannie Mae, none of my other girls has much
@@ -136,16 +136,16 @@
 {208}{}{We've only got gals working here, hun. If that's alright by you, a buck's a buck. You might try
  talking to Fannie Mae. She's in back someplace here. You can make the arrangements with her.}
 {209}{}{Sounds like a good idea. I'll go do that. Goodbye.}
-{210}{}{Mas eu não ... ok. Adeus.}
+{210}{}{Mas eu nÃ£o ... ok. Adeus.}
 {211}{}{I can't believe that you were dumb enough to give Fannie enough money all at once to overdose
  herself. You're just an idjit, ain't ya?}
-{212}{}{Eu não sei, honestamente. Venha, Lou... Eu preciso te perguntar algo.}
+{212}{}{Eu nÃ£o sei, honestamente. Venha, Lou... Eu preciso te perguntar algo.}
 {213}{}{What she did with her life was her own business. Goodbye.}
 {214}{}{I gave her the only release from this shitty existence that she could take. You're no saint
  yourself, Lou. Goodbye.}
 {215}{}{So you're the sucker giving my Fannie all that money. I wouldn't do that if I were you. You're
  not helping her like you think you are.}
-{216}{}{O que você quer dizer?}
+{216}{}{O que vocÃª quer dizer?}
 {217}{}{I'm helping her to start a new life.}
 {218}{}{Yeah, whatever. Let's talk about something else.}
 {219}{}{What I mean is that Fannie's got a problem and money isn't the answer for it. I hate to break

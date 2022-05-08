@@ -1,9 +1,9 @@
 {100}{}{You see an elderly, frail man.}
-{101}{}{Ez Carlson alelnök.}
-{102}{}{Habár fizikailag gyenge, a pillantása elárulja, hogy rendkívül er?s jellem. Elszánt ember a javából.}
-{103}{}{Mit csinál itt? ?rség!}
-{104}{}{Maga nem az én emberem! ?rség!}
-{105}{}{T?njön innen!}
-{106}{}{Hihetetlenül elfoglalt vagyok. Kérem, jöjjön vissza máskor!}
-{107}{}{Nézze, nem akarok durva lenni, de több id?re van szükségem, hogy dolgozni tudjak.}
-{108}{}{Sajnálom, de most nincs id?m magával találkozni.}
+{101}{}{Ez Carlson alelnÃ¶k.}
+{102}{}{HabÃ¡r fizikailag gyenge, a pillantÃ¡sa elÃ¡rulja, hogy rendkÃ­vÃ¼l er?s jellem. ElszÃ¡nt ember a javÃ¡bÃ³l.}
+{103}{}{Mit csinÃ¡l itt? ?rsÃ©g!}
+{104}{}{Maga nem az Ã©n emberem! ?rsÃ©g!}
+{105}{}{T?njÃ¶n innen!}
+{106}{}{HihetetlenÃ¼l elfoglalt vagyok. KÃ©rem, jÃ¶jjÃ¶n vissza mÃ¡skor!}
+{107}{}{NÃ©zze, nem akarok durva lenni, de tÃ¶bb id?re van szÃ¼ksÃ©gem, hogy dolgozni tudjak.}
+{108}{}{SajnÃ¡lom, de most nincs id?m magÃ¡val talÃ¡lkozni.}

@@ -1,63 +1,63 @@
-{100}{}{Você vê alguém usando um chapéu de capitão.}
-{101}{}{Você vê o capitão A. Ron Meyers.}
-{102}{}{Você vê um punk em roupas esfarrapadas usando um chapéu de capitão.}
-{103}{}{Que porra você quer? Eu não converso com ninguém a menos que seja amigo ou gente boa. Faça algo por um dos meus amigos e depois venha falar comigo.}
+{100}{}{VocÃª vÃª alguÃ©m usando um chapÃ©u de capitÃ£o.}
+{101}{}{VocÃª vÃª o capitÃ£o A. Ron Meyers.}
+{102}{}{VocÃª vÃª um punk em roupas esfarrapadas usando um chapÃ©u de capitÃ£o.}
+{103}{}{Que porra vocÃª quer? Eu nÃ£o converso com ninguÃ©m a menos que seja amigo ou gente boa. FaÃ§a algo por um dos meus amigos e depois venha falar comigo.}
 {104}{}{[FEITO]}
-{105}{}{Eu ouvi o que você fez pelos meus homens. Obrigado. Em que posso ajudar?}
-{106}{}{Você quem?}
-{107}{}{Ouvi dizer que você é quem sabe tudo sobre este navio.}
-{108}{}{Porque te chamam de Capitão?}
-{109}{}{Como você faz essa coisa funcionar?}
+{105}{}{Eu ouvi o que vocÃª fez pelos meus homens. Obrigado. Em que posso ajudar?}
+{106}{}{VocÃª quem?}
+{107}{}{Ouvi dizer que vocÃª Ã© quem sabe tudo sobre este navio.}
+{108}{}{Porque te chamam de CapitÃ£o?}
+{109}{}{Como vocÃª faz essa coisa funcionar?}
 {110}{}{Nada.}
-{111}{}{Eu sou o Capitão. Dirijo esse barco. Se tiver mais perguntas, vá falar com um dos Shi ou Badger ou qualquer outro. Não tenho tempo pra você.}
+{111}{}{Eu sou o CapitÃ£o. Dirijo esse barco. Se tiver mais perguntas, vÃ¡ falar com um dos Shi ou Badger ou qualquer outro. NÃ£o tenho tempo pra vocÃª.}
 {112}{}{[FEITO]}
-{113}{}{Esse navio é o petroleiro Poseidon. Está equipado com tecnologia que durou durante a guerra. Tem um controle remoto que permite o acesso à sala do computador de navegação, e tem um transpondedor IFF que o protege das armas Poseidon. Claro, isso não vai ajudar ninguém contra aquele antigo submarino chinês, então espero que o negócio esteja tão morto quanto parece.}
-{114}{}{Como você sabe tudo isso?}
-{115}{}{O que é um transpondedor IFF?}
+{113}{}{Esse navio Ã© o petroleiro Poseidon. EstÃ¡ equipado com tecnologia que durou durante a guerra. Tem um controle remoto que permite o acesso Ã  sala do computador de navegaÃ§Ã£o, e tem um transpondedor IFF que o protege das armas Poseidon. Claro, isso nÃ£o vai ajudar ninguÃ©m contra aquele antigo submarino chinÃªs, entÃ£o espero que o negÃ³cio esteja tÃ£o morto quanto parece.}
+{114}{}{Como vocÃª sabe tudo isso?}
+{115}{}{O que Ã© um transpondedor IFF?}
 {116}{}{Como faz para zarpar?}
 {117}{}{Obrigado. Tchau.}
-{118}{}{Servi com a Enclave. Então eu percebi que eu não estava lutando pelo USA; era para esses velhos mercenários que não queriam desistir de seu poder. Desertei e agora vivo aqui com gente mais honesta.}
+{118}{}{Servi com a Enclave. EntÃ£o eu percebi que eu nÃ£o estava lutando pelo USA; era para esses velhos mercenÃ¡rios que nÃ£o queriam desistir de seu poder. Desertei e agora vivo aqui com gente mais honesta.}
 {119}{}{Gente mais honesta? Esses caras?}
-{120}{}{O que exatamente é a Enclave?}
-{121}{}{Como você faz essa coisa funcionar?}
+{120}{}{O que exatamente Ã© a Enclave?}
+{121}{}{Como vocÃª faz essa coisa funcionar?}
 {122}{}{Adeus.}
-{123}{}{Como eu piloto tudo isso? É só encher com um pouco de gás - experimente os Hubologistas ou o Shi depois de cuidar de todo o resto - e pressione o botão. O computador faz todo o resto, se ainda estiver funcionando. Ele navegará direto para a plataforma de petróleo - a menos que aquele velho submarino mande tudo pro ar. Mas pelo menos você não terá que se preocupar com a Enclave disparando contra você, porque você tem o transponder IFF. apenas certifique-se de que tem o que precisa para acessar tudo: FOB, computador funcionando e combustível. Moleza, hein?}
-{124}{}{Certo. Como você sabe tudo isso?}
+{123}{}{Como eu piloto tudo isso? Ã‰ sÃ³ encher com um pouco de gÃ¡s - experimente os Hubologistas ou o Shi depois de cuidar de todo o resto - e pressione o botÃ£o. O computador faz todo o resto, se ainda estiver funcionando. Ele navegarÃ¡ direto para a plataforma de petrÃ³leo - a menos que aquele velho submarino mande tudo pro ar. Mas pelo menos vocÃª nÃ£o terÃ¡ que se preocupar com a Enclave disparando contra vocÃª, porque vocÃª tem o transponder IFF. apenas certifique-se de que tem o que precisa para acessar tudo: FOB, computador funcionando e combustÃ­vel. Moleza, hein?}
+{124}{}{Certo. Como vocÃª sabe tudo isso?}
 {125}{}{O que seria um transpondedor IFF e um FOB?}
-{126}{}{Qual plataforma de petróleo?}
+{126}{}{Qual plataforma de petrÃ³leo?}
 {127}{}{Sim. falou.}
-{128}{}{IFF: Identificador de amigo e inimigo. Significa que esse navio será identificado como amigo, então outras coisas do Poseidon - como, digamos, uma plataforma de petróleo - não atirarão em você quando você entrar no alcance. Ah, e um FOB é um tipo de tecnologia da Enclave que permite que você entre por uma porta eletronica. Você provavelmente encontraria um deles em uma de suas bases ou em outro lugar assim.}
-{129}{}{Como você sabe tudo isso?}
-{130}{}{Qual plataforma de petróleo?}
+{128}{}{IFF: Identificador de amigo e inimigo. Significa que esse navio serÃ¡ identificado como amigo, entÃ£o outras coisas do Poseidon - como, digamos, uma plataforma de petrÃ³leo - nÃ£o atirarÃ£o em vocÃª quando vocÃª entrar no alcance. Ah, e um FOB Ã© um tipo de tecnologia da Enclave que permite que vocÃª entre por uma porta eletronica. VocÃª provavelmente encontraria um deles em uma de suas bases ou em outro lugar assim.}
+{129}{}{Como vocÃª sabe tudo isso?}
+{130}{}{Qual plataforma de petrÃ³leo?}
 {131}{}{Obrigado. Tchau.}
-{132}{}{Sim. Com essa gente você sabe exatamente qual é sua posição. Eles não jogam. A Enclave era uma cambada de hienas - elas se voltariam contra você em um piscar de olhos.}
-{133}{}{O que exatamente é a Enclave?}
+{132}{}{Sim. Com essa gente vocÃª sabe exatamente qual Ã© sua posiÃ§Ã£o. Eles nÃ£o jogam. A Enclave era uma cambada de hienas - elas se voltariam contra vocÃª em um piscar de olhos.}
+{133}{}{O que exatamente Ã© a Enclave?}
 {134}{}{Como se uniu a eles?}
-{135}{}{A Enclave é remanescente dos velhos tempos. Se você atravessar até a plataforma, descobrirá por si mesmo.}
-{136}{}{Como faço para pilotar?}
+{135}{}{A Enclave Ã© remanescente dos velhos tempos. Se vocÃª atravessar atÃ© a plataforma, descobrirÃ¡ por si mesmo.}
+{136}{}{Como faÃ§o para pilotar?}
 {137}{}{Que plataforma?}
-{138}{}{Bem fácil. Acabei de sair da base de Navarro um dia e desci para cá. Achei que era o último lugar que alguém iria olhar. Além disso, não sou importante o suficiente para que a Enclave me procure - sou apenas uma ponta solta.}
-{139}{}{O que exatamente é a Enclave?}
+{138}{}{Bem fÃ¡cil. Acabei de sair da base de Navarro um dia e desci para cÃ¡. Achei que era o Ãºltimo lugar que alguÃ©m iria olhar. AlÃ©m disso, nÃ£o sou importante o suficiente para que a Enclave me procure - sou apenas uma ponta solta.}
+{139}{}{O que exatamente Ã© a Enclave?}
 {140}{}{Obrigado. Tchau.}
-{141}{}{Há uma grande plataforma de petróleo Poseidon no meio do mar. Essa é a última base da Enclave.}
-{142}{}{Como você sabe tudo isso?}
-{143}{}{O que mais está acontecendo na plataforma?}
+{141}{}{HÃ¡ uma grande plataforma de petrÃ³leo Poseidon no meio do mar. Essa Ã© a Ãºltima base da Enclave.}
+{142}{}{Como vocÃª sabe tudo isso?}
+{143}{}{O que mais estÃ¡ acontecendo na plataforma?}
 {144}{}{Obrigado. Tchau.}
 {145}{}{As pessoas falam muito.}
-{146}{}{Entendi. O que mais está acontecendo na plataforma?}
+{146}{}{Entendi. O que mais estÃ¡ acontecendo na plataforma?}
 {147}{}{Eu vejo. Tchau.}
-{148}{}{Nem sei. Eu era um técnico em Navarro, não um operador de plataforma. Conversamos com eles pelas linhas de comunicação, e isso era tudo.}
+{148}{}{Nem sei. Eu era um tÃ©cnico em Navarro, nÃ£o um operador de plataforma. Conversamos com eles pelas linhas de comunicaÃ§Ã£o, e isso era tudo.}
 {149}{}{Entendi. Pode repetir como posso pilotar?}
 {150}{}{Obrigado. Tchau.}
-{151}{}{Você cometeu um grande erro mexendo com o capitão e seus amigos...}
-{152}{}{Como pilota isso aqui? Bem, vejo que você já está exausto com isso. Depois de cuidar de todo o resto, basta pressionar o botão. O computador fará o resto, se ainda estiver funcionando. Ele navegará direto para a plataforma de petróleo - a menos que aquele velho submarino mande tudo pro ar. Mas pelo menos você não terá que se preocupar com o Enclave disparando contra você, porque você tem o transponder IFF. apenas certifique-se de que tem o que precisa para acessar tudo: FOB, computador em funcionamento e combustível. Moleza, hein?}
-{153}{}{Oh, sim. Você precisa fazer o computador de navegação funcionar também. Talvez você encontre peças para ele em uma daquelas vaults antigas.}
+{151}{}{VocÃª cometeu um grande erro mexendo com o capitÃ£o e seus amigos...}
+{152}{}{Como pilota isso aqui? Bem, vejo que vocÃª jÃ¡ estÃ¡ exausto com isso. Depois de cuidar de todo o resto, basta pressionar o botÃ£o. O computador farÃ¡ o resto, se ainda estiver funcionando. Ele navegarÃ¡ direto para a plataforma de petrÃ³leo - a menos que aquele velho submarino mande tudo pro ar. Mas pelo menos vocÃª nÃ£o terÃ¡ que se preocupar com o Enclave disparando contra vocÃª, porque vocÃª tem o transponder IFF. apenas certifique-se de que tem o que precisa para acessar tudo: FOB, computador em funcionamento e combustÃ­vel. Moleza, hein?}
+{153}{}{Oh, sim. VocÃª precisa fazer o computador de navegaÃ§Ã£o funcionar tambÃ©m. Talvez vocÃª encontre peÃ§as para ele em uma daquelas vaults antigas.}
 {154}{}{Eai, que bom te ver. Do que precisa?}
-{155}{}{, e a menos que eu perca minha aposta, seus amigos também estão lá.}
+{155}{}{, e a menos que eu perca minha aposta, seus amigos tambÃ©m estÃ£o lÃ¡.}
 {156}{}{.}
 {200}{}{Qual submarino velho?}
-{210}{}{Há um antigo submarino chinês largado na baía. Aquela velharia me da arrepios, correndo lá embaixo d'água como um fantasma enferrujado. Duvido que ainda funcione, mas se estivesse, seus sistemas de armas automatizados podem trucidar esse petroleiro antes mesmo de você chegar perto da plataforma.}
-{211}{}{Por que não pensar que ele segue ativo?}
-{220}{}{É que ele está lá apodrecendo no oceano desde a grande guerra. Além disso, se ela fosse ativa, ela teria atirado neste equipamento quando a Enclave o ancorou aqui. Claro, tem a questão dos Shi irem lá e começarem a mexer nele, então você nunca sabe. Pode valer a pena conferir antes de zarpar.}
+{210}{}{HÃ¡ um antigo submarino chinÃªs largado na baÃ­a. Aquela velharia me da arrepios, correndo lÃ¡ embaixo d'Ã¡gua como um fantasma enferrujado. Duvido que ainda funcione, mas se estivesse, seus sistemas de armas automatizados podem trucidar esse petroleiro antes mesmo de vocÃª chegar perto da plataforma.}
+{211}{}{Por que nÃ£o pensar que ele segue ativo?}
+{220}{}{Ã‰ que ele estÃ¡ lÃ¡ apodrecendo no oceano desde a grande guerra. AlÃ©m disso, se ela fosse ativa, ela teria atirado neste equipamento quando a Enclave o ancorou aqui. Claro, tem a questÃ£o dos Shi irem lÃ¡ e comeÃ§arem a mexer nele, entÃ£o vocÃª nunca sabe. Pode valer a pena conferir antes de zarpar.}
 {221}{}{Como eu faria para verificar isso?}
-{230}{}{Se alguém sabe o que está acontecendo com aquele submarino, esses são os Shi. São eles que trouxeram ele para cá - eu não ficaria surpreso se eles adorassem esse negócio. O imperador Shi saberia de tudo, é claro, mas boa sorte com isso. Seria melhor você perguntar a Lao Chou, no Flying Dragon 8 - ele é conhecido ser meio boca larga. Hhmm, talvez você pudesse até mesmo fazer um dos trabalhadores falar.}
+{230}{}{Se alguÃ©m sabe o que estÃ¡ acontecendo com aquele submarino, esses sÃ£o os Shi. SÃ£o eles que trouxeram ele para cÃ¡ - eu nÃ£o ficaria surpreso se eles adorassem esse negÃ³cio. O imperador Shi saberia de tudo, Ã© claro, mas boa sorte com isso. Seria melhor vocÃª perguntar a Lao Chou, no Flying Dragon 8 - ele Ã© conhecido ser meio boca larga. Hhmm, talvez vocÃª pudesse atÃ© mesmo fazer um dos trabalhadores falar.}

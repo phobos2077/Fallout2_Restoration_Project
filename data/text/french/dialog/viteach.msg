@@ -1,6 +1,6 @@
-{100}{}{Tu vois un terminal d'apprentissage de la Cité de l'Abri.}
-{101}{}{Cet ordinateur semble être un système d'apprentissage. On y voit un sympathique Pip-Boy sur le côté.}
-{102}{}{Tu vois le système d'apprentissage par ordinateur de la Cité de l'Abri.}
-{103}{}{Tu tapotes sur l'ordinateur. Il te faudra utiliser des compétences scientifiques si tu veux tirer quelque chose d'utile de ce terminal.}
-{104}{}{Tu passes un moment à étudier les archives informatisées.}
-{105}{}{Tu passes un moment à étudier les archives informatisées, mais tu n'apprends rien d'important.}
+{100}{}{Tu vois un terminal d'apprentissage de la CitÃ© de l'Abri.}
+{101}{}{Cet ordinateur semble Ãªtre un systÃ¨me d'apprentissage. On y voit un sympathique Pip-Boy sur le cÃ´tÃ©.}
+{102}{}{Tu vois le systÃ¨me d'apprentissage par ordinateur de la CitÃ© de l'Abri.}
+{103}{}{Tu tapotes sur l'ordinateur. Il te faudra utiliser des compÃ©tences scientifiques si tu veux tirer quelque chose d'utile de ce terminal.}
+{104}{}{Tu passes un moment Ã  Ã©tudier les archives informatisÃ©es.}
+{105}{}{Tu passes un moment Ã  Ã©tudier les archives informatisÃ©es, mais tu n'apprends rien d'important.}

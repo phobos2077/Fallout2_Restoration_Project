@@ -1,63 +1,63 @@
 {100}{}{Widzisz gangstera.}
-{150}{}{Wygl¹da na cz³onka gangu Lary.}
-{151}{}{Wygl¹da na cz³onkiniê gangu Lary.}
-{200}{}{M¹drala.}
-{201}{}{Tutaj jesteœ.}
+{150}{}{WyglÄ…da na czÅ‚onka gangu Lary.}
+{151}{}{WyglÄ…da na czÅ‚onkiniÄ™ gangu Lary.}
+{200}{}{MÄ…drala.}
+{201}{}{Tutaj jesteÅ›.}
 {202}{}{Zemsty!}
-{203}{}{ChodŸ tu.}
+{203}{}{ChodÅº tu.}
 {204}{}{To jeszcze nie koniec.}
 {205}{}{Dziwka.}
-{225}{}{Ciekawe jak d³ugo to wszystko przetrwa bez Metzger'a?}
-{226}{}{Wiêc Metzger wreszcie gryzie piach?}
+{225}{}{Ciekawe jak dÅ‚ugo to wszystko przetrwa bez Metzger'a?}
+{226}{}{WiÄ™c Metzger wreszcie gryzie piach?}
 {227}{}{Czy to twoja sprawka?}
-{228}{}{Nora ju¿ nigdy nie bêdzie taka sama.}
-{240}{}{Nie mogê uwierzyæ, ¿e naprawdê im dokopaliœmy!}
-{241}{}{Metzger teraz musi siê z nami liczyæ.}
-{242}{}{Aleœmy im pokazali.}
-{243}{}{Poznali nasz¹ wersjê sprawiedliwoœci.}
-{244}{}{Nie zrobilibyœmy tego bez ciebie!}
-{245}{}{Dziêki za pomoc!}
-{246}{}{Uda³o siê!}
+{228}{}{Nora juÅ¼ nigdy nie bÄ™dzie taka sama.}
+{240}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e naprawdÄ™ im dokopaliÅ›my!}
+{241}{}{Metzger teraz musi siÄ™ z nami liczyÄ‡.}
+{242}{}{AleÅ›my im pokazali.}
+{243}{}{Poznali naszÄ… wersjÄ™ sprawiedliwoÅ›ci.}
+{244}{}{Nie zrobilibyÅ›my tego bez ciebie!}
+{245}{}{DziÄ™ki za pomoc!}
+{246}{}{UdaÅ‚o siÄ™!}
 {247}{}{Co ty kombinujesz?}
-{248}{}{Lepiej uwa¿aj co robisz.}
-{249}{}{Gdyby nie Lara, ju¿ dawno byœmy ciê wyprostowali.}
-{250}{}{Co ty krêcisz?}
-{251}{}{Tchórz ciê oblecia³, co?}
-{252}{}{Chce mi siê rzygaæ.}
+{248}{}{Lepiej uwaÅ¼aj co robisz.}
+{249}{}{Gdyby nie Lara, juÅ¼ dawno byÅ›my ciÄ™ wyprostowali.}
+{250}{}{Co ty krÄ™cisz?}
+{251}{}{TchÃ³rz ciÄ™ obleciaÅ‚, co?}
+{252}{}{Chce mi siÄ™ rzygaÄ‡.}
 {253}{}{Spadaj.}
-{254}{}{Zje¿d¿aj.}
-{255}{}{Jesteœmy gotowi. Czekamy na twój znak.}
-{256}{}{Wreszcie siê im odp³acimy.}
-{257}{}{Nie znoszê czekania.}
-{258}{}{IdŸmy ju¿.}
-{259}{}{Mo¿emy ju¿ iœæ?}
+{254}{}{ZjeÅ¼dÅ¼aj.}
+{255}{}{JesteÅ›my gotowi. Czekamy na twÃ³j znak.}
+{256}{}{Wreszcie siÄ™ im odpÅ‚acimy.}
+{257}{}{Nie znoszÄ™ czekania.}
+{258}{}{IdÅºmy juÅ¼.}
+{259}{}{MoÅ¼emy juÅ¼ iÅ›Ä‡?}
 {260}{}{Gdy przyjdzie czas, daj znak Larze.}
-{270}{}{Chcesz siê do nas przy³¹czyæ?}
-{271}{}{Pewnie chcesz siê zobaczyæ z Lar¹.}
+{270}{}{Chcesz siÄ™ do nas przyÅ‚Ä…czyÄ‡?}
+{271}{}{Pewnie chcesz siÄ™ zobaczyÄ‡ z LarÄ….}
 {272}{}{Jak leci?}
-{273}{}{Musisz pogadaæ z Lar¹.}
-{274}{}{Czeœæ.}
-{275}{}{Chcesz siê widzieæ z Lar¹?}
-{300}{}{Czeœæ.}
+{273}{}{Musisz pogadaÄ‡ z LarÄ….}
+{274}{}{CzeÅ›Ä‡.}
+{275}{}{Chcesz siÄ™ widzieÄ‡ z LarÄ…?}
+{300}{}{CzeÅ›Ä‡.}
 {301}{}{Jak leci?}
-{302}{}{Mam nadziejê, ¿e wszystko OK.}
-{303}{}{Wiêc mo¿esz nam pomóc?}
-{304}{}{Dobrze ciê widzieæ.}
-{305}{}{Wkrótce odp³acimy siê Tylerowi...}
+{302}{}{Mam nadziejÄ™, Å¼e wszystko OK.}
+{303}{}{WiÄ™c moÅ¼esz nam pomÃ³c?}
+{304}{}{Dobrze ciÄ™ widzieÄ‡.}
+{305}{}{WkrÃ³tce odpÅ‚acimy siÄ™ Tylerowi...}
 {306}{}{Co nowego?}
-{310}{}{Dziêki za pomoc. Tylko szkoda Lary.}
-{311}{}{Wreszcie im dokopaliœmy!}
-{312}{}{Nie uda³oby siê nam bez ciebie.}
-{313}{}{Dobrze, ¿e chocia¿ zginê³a w walce.}
-{314}{}{Nie mogê uwierzyæ, ¿e Lara nie dotrwa³a do koñca.}
-{315}{}{Pokazaliœmy Metzgerowi kto tu rz¹dzi.}
+{310}{}{DziÄ™ki za pomoc. Tylko szkoda Lary.}
+{311}{}{Wreszcie im dokopaliÅ›my!}
+{312}{}{Nie udaÅ‚oby siÄ™ nam bez ciebie.}
+{313}{}{Dobrze, Å¼e chociaÅ¼ zginÄ™Å‚a w walce.}
+{314}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e Lara nie dotrwaÅ‚a do koÅ„ca.}
+{315}{}{PokazaliÅ›my Metzgerowi kto tu rzÄ…dzi.}
 {316}{}{Niech Metzger lepiej nas unika.}
-{350}{}{No chodŸ tu!}
-{351}{}{Ju¿ s¹ martwi!}
-{352}{}{Zaraz skopiemy komuœ dupê!}
-{400}{}{Konkretnie skopaliœmy im ty³ki! Bêdziemy w koœciele gdybyœmy byli potrzebni.}
-{500}{}{Cholera, nie mogê uwierzyæ, ¿e straciliœmy Larê. Za³atwiliœmy tu tylko szkieletow¹ obstawê, ale Tyler i jego ekipa ci¹gle ¿yj¹. Je¿eli zaatakujemy teraz podczas imprezy w dzielnicy Mieszkalnej, to na pewno ich zaskoczymy. Skoñczmy tê robotê. Idziesz z nami?}
-{501}{}{Pozwól mi siê najpierw podleczyæ.Powiem ci jak skoñczê siê przygotowywaæ.}
+{350}{}{No chodÅº tu!}
+{351}{}{JuÅ¼ sÄ… martwi!}
+{352}{}{Zaraz skopiemy komuÅ› dupÄ™!}
+{400}{}{Konkretnie skopaliÅ›my im tyÅ‚ki! BÄ™dziemy w koÅ›ciele gdybyÅ›my byli potrzebni.}
+{500}{}{Cholera, nie mogÄ™ uwierzyÄ‡, Å¼e straciliÅ›my LarÄ™. ZaÅ‚atwiliÅ›my tu tylko szkieletowÄ… obstawÄ™, ale Tyler i jego ekipa ciÄ…gle Å¼yjÄ…. JeÅ¼eli zaatakujemy teraz podczas imprezy w dzielnicy Mieszkalnej, to na pewno ich zaskoczymy. SkoÅ„czmy tÄ™ robotÄ™. Idziesz z nami?}
+{501}{}{PozwÃ³l mi siÄ™ najpierw podleczyÄ‡.Powiem ci jak skoÅ„czÄ™ siÄ™ przygotowywaÄ‡.}
 {502}{}{Ruszajmy.}
-{510}{}{Czas ¿eby zdj¹æ Tylera i jego kumpli.}
-{520}{}{Hej, nie odchodŸ za daleko. Musimy to skoñczyæ tej nocy.}
+{510}{}{Czas Å¼eby zdjÄ…Ä‡ Tylera i jego kumpli.}
+{520}{}{Hej, nie odchodÅº za daleko. Musimy to skoÅ„czyÄ‡ tej nocy.}

@@ -1,6 +1,6 @@
-{100}{}{Você vê um comerciante.}
-{101}{}{Ele parece estar ajudando o homem que está a consertar a bomba.}
-{102}{}{Isto está demorando mais do que pensávamos.}
-{103}{}{Verifique com o chefe, se você acha que você pode ajudar.}
-{104}{}{Ótimo trabalho, com fixação da bomba.}
+{100}{}{VocÃª vÃª um comerciante.}
+{101}{}{Ele parece estar ajudando o homem que estÃ¡ a consertar a bomba.}
+{102}{}{Isto estÃ¡ demorando mais do que pensÃ¡vamos.}
+{103}{}{Verifique com o chefe, se vocÃª acha que vocÃª pode ajudar.}
+{104}{}{Ã“timo trabalho, com fixaÃ§Ã£o da bomba.}
 {105}{}{Obrigado novamente por sua ajuda.}

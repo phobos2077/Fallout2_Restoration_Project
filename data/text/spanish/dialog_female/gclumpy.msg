@@ -1,98 +1,98 @@
 {100}{}{Ves a un humano que parece bastante desanimado.}
 {101}{}{Ves a Grumoso, el amigo y ayudante de Skeeter.}
 {102}{}{Ves a un humano delgado, de aspecto infeliz y con ojeras.}
-{110}{}{Estás aún peor que yo. Pobre imbécil.}
-{111}{}{No tengo tiempo que perder hablando con imbéciles.}
-{112}{}{No eres mucho más listo que los brahmin que vigilo.}
-{113}{}{Te faltan unos cuantos tornillos, ¿eh?}
+{110}{}{EstÃ¡s aÃºn peor que yo. Pobre imbÃ©cil.}
+{111}{}{No tengo tiempo que perder hablando con imbÃ©ciles.}
+{112}{}{No eres mucho mÃ¡s listo que los brahmin que vigilo.}
+{113}{}{Te faltan unos cuantos tornillos, Â¿eh?}
 {114}{}{Por Dios, eres tan idiota como pareces.}
 {120}{}{Hola. Mi nombre es Grumoso.}
-{121}{}{Ese es un nombre un tanto inusual, ¿cómo es que lo conseguiste?}
-{122}{}{¿Qué haces aquí?}
-{123}{}{Eso está bien, Grumoso. Eh, tengo que irme ahora.}
-{130}{}{Bueno, mi nombre real es John, pero todos aquí me llaman Grumoso.}
-{131}{}{¿Por qué Grumoso?}
-{132}{}{Bueno, no puedo culparlos. Adiós.}
-{140}{}{Hola. ¿Alguna vez te has fijado en que cada brahmin tiene su propia personalidad? Pues si los vigilas tanto como yo seguro que te das cuenta.}
-{141}{}{Pues sí. Totalmente fascinantes, eso es lo que son.}
+{121}{}{Ese es un nombre un tanto inusual, Â¿cÃ³mo es que lo conseguiste?}
+{122}{}{Â¿QuÃ© haces aquÃ­?}
+{123}{}{Eso estÃ¡ bien, Grumoso. Eh, tengo que irme ahora.}
+{130}{}{Bueno, mi nombre real es John, pero todos aquÃ­ me llaman Grumoso.}
+{131}{}{Â¿Por quÃ© Grumoso?}
+{132}{}{Bueno, no puedo culparlos. AdiÃ³s.}
+{140}{}{Hola. Â¿Alguna vez te has fijado en que cada brahmin tiene su propia personalidad? Pues si los vigilas tanto como yo seguro que te das cuenta.}
+{141}{}{Pues sÃ­. Totalmente fascinantes, eso es lo que son.}
 {142}{}{Moo moos.}
-{143}{}{¿Qué haces aquí?}
-{144}{}{Eso es realmente interesante. ¿Quién eres?}
+{143}{}{Â¿QuÃ© haces aquÃ­?}
+{144}{}{Eso es realmente interesante. Â¿QuiÃ©n eres?}
 {145}{}{Tengo curiosidad acerca de algunas cosas.}
-{146}{}{Un placer conocerte. Adiós.}
-{150}{}{Hola. Probablemente has venido aquí a ver a Skeeter. La verdad es que no me hago cargo de las cosas técnicas. Solo estoy aquí para ayudar.}
+{146}{}{Un placer conocerte. AdiÃ³s.}
+{150}{}{Hola. Probablemente has venido aquÃ­ a ver a Skeeter. La verdad es que no me hago cargo de las cosas tÃ©cnicas. Solo estoy aquÃ­ para ayudar.}
 {151}{}{Keeter. Je, je, je.}
-{152}{}{¿Quién eres?}
-{153}{}{¿Qué haces aquí?}
+{152}{}{Â¿QuiÃ©n eres?}
+{153}{}{Â¿QuÃ© haces aquÃ­?}
 {154}{}{Tengo algunas preguntas para ti.}
-{155}{}{Oh, está bien, iré a hablar con Skeeter entonces. Gracias.}
-{160}{}{Hola. Puesto que ya has entrado sin avisar, ¿qué puedo hacer por ti?}
+{155}{}{Oh, estÃ¡ bien, irÃ© a hablar con Skeeter entonces. Gracias.}
+{160}{}{Hola. Puesto que ya has entrado sin avisar, Â¿quÃ© puedo hacer por ti?}
 {161}{}{Yo hambrienta.}
-{162}{}{Eh, me preguntaba dónde podría estar Skeeter.}
+{162}{}{Eh, me preguntaba dÃ³nde podrÃ­a estar Skeeter.}
 {163}{}{Tengo algunas preguntas para ti.}
-{164}{}{Oh, lo siento, no era mi intención irrumpir así. Hasta luego.}
+{164}{}{Oh, lo siento, no era mi intenciÃ³n irrumpir asÃ­. Hasta luego.}
 {170}{}{Cuido a los brahmines y ayudo a Skeeter en su taller.}
-{171}{}{¿Quién es Skeeter?}
-{172}{}{Déjame hacerte otra pregunta.}
+{171}{}{Â¿QuiÃ©n es Skeeter?}
+{172}{}{DÃ©jame hacerte otra pregunta.}
 {173}{}{Creo que eso es todo lo que necesito saber por ahora. Hasta luego, Grumoso.}
-{180}{}{Es una especie de chiste. Verás, aquí normalmente llaman a las personas como tú y yo pieles suaves. Pero me trataron tan mal los demás pieles suaves de Ciudad Refugio que todos por aquí se imaginaron que yo era más grumoso que ellos.}
-{181}{}{¿Por qué fuiste tratado tan mal en Ciudad Refugio?}
-{182}{}{Eso explica muchas cosas. Adiós.}
-{190}{}{Bueno, Skeeter es algo así como un mecánico. Desarma casi cualquier cosa que le lleves, y tarde o temprano también vuelve a armar la mayoría de ellas. Algunas veces incluso terminan funcionando mejor que antes.}
-{191}{}{¿Dónde puedo encontrar a Skeeter?}
-{192}{}{Interesante. Déjame preguntarte algo más.}
-{193}{}{Supongo que eso es todo lo que necesito saber por ahora. Adiós.}
-{200}{}{Pues dijeron que no era lo suficientemente humano para ellos. Soy más o menos resistente a la radiación, perfecto para vivir aquí, pero a ellos no les gustó. Me trataron como basura.}
-{201}{}{¿De verdad?}
-{210}{}{Un día simplemente no pude seguir soportándolo. Imaginé que morir en el Yermo sería mejor que vivir con esos gilipollas de Ciudad Refugio.}
-{211}{}{¿Y entonces cómo terminaste aquí?}
-{220}{}{Bueno, una caravana de Broken Hills me encontró y me trajo a Gecko, he estado viviendo aquí desde entonces. Una cosa curiosa acerca de los necrófagos de este lugar es que se preocupan más acerca del tipo de persona que eres por dentro. Son como una gran familia.}
-{221}{}{¿Broken Hills? ¿Dónde queda eso?}
-{222}{}{Interesante. Déjame hacerte otra pregunta.}
-{223}{}{Me alegra que seas feliz aquí. Adiós.}
-{224}{}{Una familia de fenómenos de feria. Creo que no quiero oir nada más de ti. Adiós.}
-{230}{}{Broken Hills es de donde conseguimos todo el uranio que necesitamos para el reactor nuclear. Según tengo entendido, los mutantes extraen el uranio, pero los humanos son los que lo comercian.}
-{231}{}{¿Por qué ponen a los humanos a comerciar en su lugar?}
-{240}{}{¿Qué quieres saber?}
-{241}{}{¿Eres un sujeto curioso, eh? Está bien. ¿Qué deseas saber?}
-{242}{}{¿Y ahora qué quieres saber?}
-{243}{}{¿Qué es toda esa chatarra que está en el patio?}
-{244}{}{¿Qué haces aquí?}
-{245}{}{¿Quién es Skeeter?}
-{246}{}{¿Ha ocurrido algo inusual por aquí?}
-{250}{}{Es porque también comercian con uranio con Ciudad Refugio, y ahí tratan a todos los que no son humanos de pura cepa como leprosos. Así que Broken Hills emplea comerciantes humanos. Uno de ellos es un sujeto llamado Chad, creo.}
-{251}{}{Chad, ¿eh? Lo tendré en mente. Déjame preguntarte algo más.}
-{252}{}{Supongo que eso es todo lo que necesito saber por ahora. Adiós.}
-{260}{}{Parte de esa chatarra son restos de cuando estaban construyendo el reactor, antes de la guerra. ¿El resto? Ni idea, Skeeter colecciona todo tipo de cosas.}
-{261}{}{¿Quién es Skeeter?}
+{180}{}{Es una especie de chiste. VerÃ¡s, aquÃ­ normalmente llaman a las personas como tÃº y yo pieles suaves. Pero me trataron tan mal los demÃ¡s pieles suaves de Ciudad Refugio que todos por aquÃ­ se imaginaron que yo era mÃ¡s grumoso que ellos.}
+{181}{}{Â¿Por quÃ© fuiste tratado tan mal en Ciudad Refugio?}
+{182}{}{Eso explica muchas cosas. AdiÃ³s.}
+{190}{}{Bueno, Skeeter es algo asÃ­ como un mecÃ¡nico. Desarma casi cualquier cosa que le lleves, y tarde o temprano tambiÃ©n vuelve a armar la mayorÃ­a de ellas. Algunas veces incluso terminan funcionando mejor que antes.}
+{191}{}{Â¿DÃ³nde puedo encontrar a Skeeter?}
+{192}{}{Interesante. DÃ©jame preguntarte algo mÃ¡s.}
+{193}{}{Supongo que eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{200}{}{Pues dijeron que no era lo suficientemente humano para ellos. Soy mÃ¡s o menos resistente a la radiaciÃ³n, perfecto para vivir aquÃ­, pero a ellos no les gustÃ³. Me trataron como basura.}
+{201}{}{Â¿De verdad?}
+{210}{}{Un dÃ­a simplemente no pude seguir soportÃ¡ndolo. ImaginÃ© que morir en el Yermo serÃ­a mejor que vivir con esos gilipollas de Ciudad Refugio.}
+{211}{}{Â¿Y entonces cÃ³mo terminaste aquÃ­?}
+{220}{}{Bueno, una caravana de Broken Hills me encontrÃ³ y me trajo a Gecko, he estado viviendo aquÃ­ desde entonces. Una cosa curiosa acerca de los necrÃ³fagos de este lugar es que se preocupan mÃ¡s acerca del tipo de persona que eres por dentro. Son como una gran familia.}
+{221}{}{Â¿Broken Hills? Â¿DÃ³nde queda eso?}
+{222}{}{Interesante. DÃ©jame hacerte otra pregunta.}
+{223}{}{Me alegra que seas feliz aquÃ­. AdiÃ³s.}
+{224}{}{Una familia de fenÃ³menos de feria. Creo que no quiero oir nada mÃ¡s de ti. AdiÃ³s.}
+{230}{}{Broken Hills es de donde conseguimos todo el uranio que necesitamos para el reactor nuclear. SegÃºn tengo entendido, los mutantes extraen el uranio, pero los humanos son los que lo comercian.}
+{231}{}{Â¿Por quÃ© ponen a los humanos a comerciar en su lugar?}
+{240}{}{Â¿QuÃ© quieres saber?}
+{241}{}{Â¿Eres un sujeto curioso, eh? EstÃ¡ bien. Â¿QuÃ© deseas saber?}
+{242}{}{Â¿Y ahora quÃ© quieres saber?}
+{243}{}{Â¿QuÃ© es toda esa chatarra que estÃ¡ en el patio?}
+{244}{}{Â¿QuÃ© haces aquÃ­?}
+{245}{}{Â¿QuiÃ©n es Skeeter?}
+{246}{}{Â¿Ha ocurrido algo inusual por aquÃ­?}
+{250}{}{Es porque tambiÃ©n comercian con uranio con Ciudad Refugio, y ahÃ­ tratan a todos los que no son humanos de pura cepa como leprosos. AsÃ­ que Broken Hills emplea comerciantes humanos. Uno de ellos es un sujeto llamado Chad, creo.}
+{251}{}{Chad, Â¿eh? Lo tendrÃ© en mente. DÃ©jame preguntarte algo mÃ¡s.}
+{252}{}{Supongo que eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{260}{}{Parte de esa chatarra son restos de cuando estaban construyendo el reactor, antes de la guerra. Â¿El resto? Ni idea, Skeeter colecciona todo tipo de cosas.}
+{261}{}{Â¿QuiÃ©n es Skeeter?}
 {262}{}{Interesante. Tengo otra pregunta para ti.}
-{263}{}{Supongo que eso es todo lo que quería saber. Adiós.}
-{270}{}{Pero si está justo aquí. Sólo abre un poco los ojos y mira alrededor. Cielos.}
-{271}{}{Pues normalmente Skeeter está en su taller, justo al sur del reactor a medio terminar. Casi nunca puedo sacarlo de ahí.}
+{263}{}{Supongo que eso es todo lo que querÃ­a saber. AdiÃ³s.}
+{270}{}{Pero si estÃ¡ justo aquÃ­. SÃ³lo abre un poco los ojos y mira alrededor. Cielos.}
+{271}{}{Pues normalmente Skeeter estÃ¡ en su taller, justo al sur del reactor a medio terminar. Casi nunca puedo sacarlo de ahÃ­.}
 {272}{}{Oh, gracias. Hasta luego.}
-{273}{}{No sé dónde ha estado Skeeter recientemente.}
+{273}{}{No sÃ© dÃ³nde ha estado Skeeter recientemente.}
 {280}{}{Bueno, la mayor parte del tiempo me limito a hacerme cargo de mis asuntos, pero algunas veces oigo cosas por la noche.}
-{281}{}{¿Escuchas cosas? ¿Cómo cuáles?}
-{282}{}{Oh, vamos. Puedes contarme lo que oíste, no se lo diré a nadie.}
-{283}{}{Yo también, pero supongo que sólo son voces dentro de mi cabeza.}
+{281}{}{Â¿Escuchas cosas? Â¿CÃ³mo cuÃ¡les?}
+{282}{}{Oh, vamos. Puedes contarme lo que oÃ­ste, no se lo dirÃ© a nadie.}
+{283}{}{Yo tambiÃ©n, pero supongo que sÃ³lo son voces dentro de mi cabeza.}
 {290}{}{No estoy del todo seguro, pero creo que he escuchado a personas, o al menos lo que creo que son personas, yendo y viniendo del foso del reactor a altas horas de la noche.}
-{291}{}{¿Gente? ¿Todas las noches?}
-{292}{}{Interesante. Déjame preguntarte algo más.}
-{300}{}{No te lo puedo contar. La gente pensaría que estoy loco. De todas formas, probablemente sólo sea el viento soplando a través de la chatarra.}
-{301}{}{Te digo que no he oído. Ahora deja de molestarme con eso.}
-{302}{}{Está bien, entonces déjame preguntarte acerca de algo más.}
-{310}{}{(Te mira fijamente a los ojos) ¿Escuchas voces dentro de tu cabeza? ¿Te suelen hablar de lo superior que eres a todos los demás? ¿Te dicen que algún día todos se arrodillarán ante tu grandeza? (sonríe y asiente)}
+{291}{}{Â¿Gente? Â¿Todas las noches?}
+{292}{}{Interesante. DÃ©jame preguntarte algo mÃ¡s.}
+{300}{}{No te lo puedo contar. La gente pensarÃ­a que estoy loco. De todas formas, probablemente sÃ³lo sea el viento soplando a travÃ©s de la chatarra.}
+{301}{}{Te digo que no he oÃ­do. Ahora deja de molestarme con eso.}
+{302}{}{EstÃ¡ bien, entonces dÃ©jame preguntarte acerca de algo mÃ¡s.}
+{310}{}{(Te mira fijamente a los ojos) Â¿Escuchas voces dentro de tu cabeza? Â¿Te suelen hablar de lo superior que eres a todos los demÃ¡s? Â¿Te dicen que algÃºn dÃ­a todos se arrodillarÃ¡n ante tu grandeza? (sonrÃ­e y asiente)}
 {311}{}{Eh, no, no realmente.}
-{312}{}{Eh, sí, por supuesto, ¿Acaso no le pasa a todo el mundo?}
+{312}{}{Eh, sÃ­, por supuesto, Â¿Acaso no le pasa a todo el mundo?}
 {320}{}{Es bueno saberlo, ya empezaba a preocuparme por ti.}
-{321}{}{Bueno, gracias por preocuparte, déjame hacerte algunas preguntas.}
-{322}{}{Ehm, ajá, bueno, creo que será mejor que siga en lo mío. Adiós.}
-{330}{}{Tuve la sensación de que eras una de esos desde la primera vez que te ví, pero no estaba seguro. ¡Sal de aquí, maldito lunático!}
-{331}{}{Eh, sí. Lo que sea. Adiós.}
-{332}{}{Bueno, uno de nosotros es un lunático, pero me parece que te has confundido de persona.}
-{340}{}{No sé si eran personas o si se trataba de algo más, pero suele ocurrir cada par de noches. Ruidos van y vienen del foso. No tengo idea de lo que está pasando ahí, y tampoco quiero saber de qué se trata.}
-{341}{}{Supongo que no puedo culparte, nadie sabe lo que podría haber ahí debajo.}
-{342}{}{Gracias por la información. Adiós.}
-{343}{}{¿No es el foso del reactor demasiado radiactivo para que algo viva ahí?}
-{350}{}{No, esta parte del reactor no había terminado de construirse cuando comenzó la guerra.}
-{351}{}{Oh, ya veo, entonces cuéntame algo más.}
+{321}{}{Bueno, gracias por preocuparte, dÃ©jame hacerte algunas preguntas.}
+{322}{}{Ehm, ajÃ¡, bueno, creo que serÃ¡ mejor que siga en lo mÃ­o. AdiÃ³s.}
+{330}{}{Tuve la sensaciÃ³n de que eras una de esos desde la primera vez que te vÃ­, pero no estaba seguro. Â¡Sal de aquÃ­, maldito lunÃ¡tico!}
+{331}{}{Eh, sÃ­. Lo que sea. AdiÃ³s.}
+{332}{}{Bueno, uno de nosotros es un lunÃ¡tico, pero me parece que te has confundido de persona.}
+{340}{}{No sÃ© si eran personas o si se trataba de algo mÃ¡s, pero suele ocurrir cada par de noches. Ruidos van y vienen del foso. No tengo idea de lo que estÃ¡ pasando ahÃ­, y tampoco quiero saber de quÃ© se trata.}
+{341}{}{Supongo que no puedo culparte, nadie sabe lo que podrÃ­a haber ahÃ­ debajo.}
+{342}{}{Gracias por la informaciÃ³n. AdiÃ³s.}
+{343}{}{Â¿No es el foso del reactor demasiado radiactivo para que algo viva ahÃ­?}
+{350}{}{No, esta parte del reactor no habÃ­a terminado de construirse cuando comenzÃ³ la guerra.}
+{351}{}{Oh, ya veo, entonces cuÃ©ntame algo mÃ¡s.}

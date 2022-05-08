@@ -1,9 +1,9 @@
 {100}{}{Es un gran supermutante.}
 {101}{}{Es Gond, el supermutante.}
-{102}{}{Es grande, es verde, y no parece más espabilado que el resto de su especie.}
-{103}{}{Oye, ¿ha dicho Elise que puedes estar aquí?}
-{104}{}{¿También eres un Ranger?}
-{105}{}{Se supone que no puedes estar aquí.}
-{106}{}{Saludos, compañero Ranger.}
+{102}{}{Es grande, es verde, y no parece mÃ¡s espabilado que el resto de su especie.}
+{103}{}{Oye, Â¿ha dicho Elise que puedes estar aquÃ­?}
+{104}{}{Â¿TambiÃ©n eres un Ranger?}
+{105}{}{Se supone que no puedes estar aquÃ­.}
+{106}{}{Saludos, compaÃ±ero Ranger.}
 {107}{}{El trabajo de un Ranger nunca termina.}
-{108}{}{¡Ánimo! ¡Nuestros hermanos atacaron un campo de esclavos la semana pasada.}
+{108}{}{Â¡Ãnimo! Â¡Nuestros hermanos atacaron un campo de esclavos la semana pasada.}

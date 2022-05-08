@@ -1,17 +1,17 @@
-{100}{}{Você vê uma criança.}
-{101}{}{Você vê um garoto das docas.}
-{102}{}{Você vê uma criança.}
-{103}{}{Eu não gosto deste lugar.}
-{104}{}{Há um cheiro forte de peixes mortos na praia.}
-{105}{}{Uuuu! O que é isso?}
-{106}{}{O ar cheira engraçado aqui.}
+{100}{}{VocÃª vÃª uma crianÃ§a.}
+{101}{}{VocÃª vÃª um garoto das docas.}
+{102}{}{VocÃª vÃª uma crianÃ§a.}
+{103}{}{Eu nÃ£o gosto deste lugar.}
+{104}{}{HÃ¡ um cheiro forte de peixes mortos na praia.}
+{105}{}{Uuuu! O que Ã© isso?}
+{106}{}{O ar cheira engraÃ§ado aqui.}
 {107}{}{Quer nadar?}
 {108}{}{Vou jogar.}
-{109}{}{Onde está a minha mãe?}
-{110}{}{Nós moramos na praia!}
+{109}{}{Onde estÃ¡ a minha mÃ£e?}
+{110}{}{NÃ³s moramos na praia!}
 {111}{}{Eu estou aborrecido.}
 {112}{}{Eeeee!}
 {113}{}{Ajuda!}
-{114}{}{Oh, não! O bicho-papão!}
-{115}{}{Mamâeeeeeeeeeeeee!}
-{116}{}{Fugir! É um monstro!}
+{114}{}{Oh, nÃ£o! O bicho-papÃ£o!}
+{115}{}{MamÃ¢eeeeeeeeeeeee!}
+{116}{}{Fugir! Ã‰ um monstro!}

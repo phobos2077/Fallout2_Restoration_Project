@@ -1,115 +1,115 @@
-{100}{}{Számítógép-terminál.}
-{101}{}{Bio-Raktár ellen?rz? terminál.}
-{102}{}{Képtelen vagy elolvasni, mi van a képerny?re írva.}
-{103}{}{Bio-Raktár  
-                                                              F?menü:
-                                                                 Igénylés
-                                                                 Tárolás}
+{100}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l.}
+{101}{}{Bio-RaktÃ¡r ellen?rz? terminÃ¡l.}
+{102}{}{KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.}
+{103}{}{Bio-RaktÃ¡r  
+                                                              F?menÃ¼:
+                                                                 IgÃ©nylÃ©s
+                                                                 TÃ¡rolÃ¡s}
 {104}{}{}
 {105}{}{}
 {106}{}{}
-{107}{}{Igénylés}
-{108}{}{Tárolás}
-{109}{}{Kilépés}
+{107}{}{IgÃ©nylÃ©s}
+{108}{}{TÃ¡rolÃ¡s}
+{109}{}{KilÃ©pÃ©s}
 {110}{}{Ah...}
-{111}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
-{112}{}{Ez a Terminál használaton kívül van, további részletekért kérem, lépjen kapcsolatba a rendszergazdával!}
+{111}{}{[KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.]}
+{112}{}{Ez a TerminÃ¡l hasznÃ¡laton kÃ­vÃ¼l van, tovÃ¡bbi rÃ©szletekÃ©rt kÃ©rem, lÃ©pjen kapcsolatba a rendszergazdÃ¡val!}
 {113}{}{}
-{114}{}{Öö...}
-{115}{}{Kilépés}
-{116}{}{Igénylés F?menü:
-                                                         Vírusok
+{114}{}{Ã–Ã¶...}
+{115}{}{KilÃ©pÃ©s}
+{116}{}{IgÃ©nylÃ©s F?menÃ¼:
+                                                         VÃ­rusok
                                                                  Szervek
                                                                 Holttestek}
 {117}{}{}
 {118}{}{}
 {119}{}{}
-{120}{}{A Vírusokat választod}
-{121}{}{A Szerveket választod}
-{122}{}{A Holttesteket választod}
-{123}{}{Visszatérés a F?menübe}
-{124}{}{Kilépés}
-{125}{}{Vírus menü:  
-                                                            Lépfene
-                                                                 Fekete Pestis (238-as tenyészet)
-                                Himl? (1025-ös tenyészet)
+{120}{}{A VÃ­rusokat vÃ¡lasztod}
+{121}{}{A Szerveket vÃ¡lasztod}
+{122}{}{A Holttesteket vÃ¡lasztod}
+{123}{}{VisszatÃ©rÃ©s a F?menÃ¼be}
+{124}{}{KilÃ©pÃ©s}
+{125}{}{VÃ­rus menÃ¼:  
+                                                            LÃ©pfene
+                                                                 Fekete Pestis (238-as tenyÃ©szet)
+                                Himl? (1025-Ã¶s tenyÃ©szet)
                                           Ebola
-                                                                    Hantavírus (304-es tenyészet)}
+                                                                    HantavÃ­rus (304-es tenyÃ©szet)}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {129}{}{}
 {130}{}{}
-{131}{}{Lépfene átvétele}
-{132}{}{Fekete Pestis átvétele}
-{133}{}{Himl? átvétele}
-{134}{}{Ebola átvétele}
-{135}{}{Hantavírus átvétele}
-{137}{}{Vissza az Igénylés F?menübe}
-{138}{}{Kilépés}
-{139}{}{[Figyeled, ahogy a robot végighalad a biológiai anyagokat raktározó folyosón, és egy kis fiolával tér vissza. Behelyezi egy kis falnyílásba, és káprázattal nézed, ahogy a kis fiola átszállítódik a raktár elszigetelt környezetéb?l a kis szobába, ahol állsz. B?völeted azonban rémületté válik, ahogy az üvegcse leesik a padlóra és eltörik. A futás jó ötletnek t?nik.]}
-{140}{}{Kilépés}
-{141}{}{Szerv menü:
-                                                              Szív  
+{131}{}{LÃ©pfene Ã¡tvÃ©tele}
+{132}{}{Fekete Pestis Ã¡tvÃ©tele}
+{133}{}{Himl? Ã¡tvÃ©tele}
+{134}{}{Ebola Ã¡tvÃ©tele}
+{135}{}{HantavÃ­rus Ã¡tvÃ©tele}
+{137}{}{Vissza az IgÃ©nylÃ©s F?menÃ¼be}
+{138}{}{KilÃ©pÃ©s}
+{139}{}{[Figyeled, ahogy a robot vÃ©gighalad a biolÃ³giai anyagokat raktÃ¡rozÃ³ folyosÃ³n, Ã©s egy kis fiolÃ¡val tÃ©r vissza. Behelyezi egy kis falnyÃ­lÃ¡sba, Ã©s kÃ¡prÃ¡zattal nÃ©zed, ahogy a kis fiola Ã¡tszÃ¡llÃ­tÃ³dik a raktÃ¡r elszigetelt kÃ¶rnyezetÃ©b?l a kis szobÃ¡ba, ahol Ã¡llsz. B?vÃ¶leted azonban rÃ©mÃ¼lettÃ© vÃ¡lik, ahogy az Ã¼vegcse leesik a padlÃ³ra Ã©s eltÃ¶rik. A futÃ¡s jÃ³ Ã¶tletnek t?nik.]}
+{140}{}{KilÃ©pÃ©s}
+{141}{}{Szerv menÃ¼:
+                                                              SzÃ­v  
                                                                    Agy  
                                                                     Vese  
-                                                                  Máj   
-                                                                   Tüd?}
+                                                                  MÃ¡j   
+                                                                   TÃ¼d?}
 {142}{}{}
 {143}{}{}
 {144}{}{}
 {145}{}{}
 {146}{}{}
-{147}{}{Szív átvétele}
-{148}{}{Agy átvétele}
-{149}{}{Vese átvétele}
-{150}{}{Máj átvétele}
-{151}{}{Tüd? átvétele}
-{152}{}{Vissza az Igénylés F?menübe}
-{153}{}{Kilépés}
-{154}{}{Figyelmeztetés! A Tároló berendezés m?ködésképtelen! [A leolvasott információk szerint a szerveknek szánt tároló berendezések hosszú ideje m?ködésképtelenek. Hacsak nem akarsz levest készíteni, az igénylésr?l lemondhatsz.]}
+{147}{}{SzÃ­v Ã¡tvÃ©tele}
+{148}{}{Agy Ã¡tvÃ©tele}
+{149}{}{Vese Ã¡tvÃ©tele}
+{150}{}{MÃ¡j Ã¡tvÃ©tele}
+{151}{}{TÃ¼d? Ã¡tvÃ©tele}
+{152}{}{Vissza az IgÃ©nylÃ©s F?menÃ¼be}
+{153}{}{KilÃ©pÃ©s}
+{154}{}{FigyelmeztetÃ©s! A TÃ¡rolÃ³ berendezÃ©s m?kÃ¶dÃ©skÃ©ptelen! [A leolvasott informÃ¡ciÃ³k szerint a szerveknek szÃ¡nt tÃ¡rolÃ³ berendezÃ©sek hosszÃº ideje m?kÃ¶dÃ©skÃ©ptelenek. Hacsak nem akarsz levest kÃ©szÃ­teni, az igÃ©nylÃ©sr?l lemondhatsz.]}
 {155}{}{}
-{156}{}{Visszatérés a Szerv Menübe}
-{157}{}{Vissza az Igénylés F?menübe}
-{158}{}{Kilépés}
-{159}{}{Figyelmeztetés! A Tároló berendezés m?ködésképtelen.
-         Tároló tartályok 101 - 104
-                                           Beállítások helyesbítése javasolt.                                 [Egy csomó magas szint? számításra van szükség, hogy az
-   agyak épségben maradjanak. Képletek, méréseredmények     özönlik el a képerny?t. Mindez nagyon tudományosnak         t?nik a számodra.]}
+{156}{}{VisszatÃ©rÃ©s a Szerv MenÃ¼be}
+{157}{}{Vissza az IgÃ©nylÃ©s F?menÃ¼be}
+{158}{}{KilÃ©pÃ©s}
+{159}{}{FigyelmeztetÃ©s! A TÃ¡rolÃ³ berendezÃ©s m?kÃ¶dÃ©skÃ©ptelen.
+         TÃ¡rolÃ³ tartÃ¡lyok 101 - 104
+                                           BeÃ¡llÃ­tÃ¡sok helyesbÃ­tÃ©se javasolt.                                 [Egy csomÃ³ magas szint? szÃ¡mÃ­tÃ¡sra van szÃ¼ksÃ©g, hogy az
+   agyak Ã©psÃ©gben maradjanak. KÃ©pletek, mÃ©rÃ©seredmÃ©nyek     Ã¶zÃ¶nlik el a kÃ©perny?t. Mindez nagyon tudomÃ¡nyosnak         t?nik a szÃ¡modra.]}
 {160}{}{}
 {161}{}{}
 {162}{}{}
-{163}{}{Megpróbálod megváltoztatni a beállításokat}
-{164}{}{Vissza az Igénylés F?menübe}
-{165}{}{Talán máskor.}
-{166}{}{[Hozzá nem-értésednek köszönhet?en az összes agy elpusztult. Talán a h?mérséklet felhúzása 98.6° Celsiusra egy kicsit túl sok volt. A tudomány soha nem volt az er?sséged.]}
-{167}{}{Kilépés.}
-{168}{}{[Többszöri próbálgatással úgy látszik, meg lett a kulcs a probléma megoldásához. Sikerült megmentened egyet a négy agy közül. Lehet, hogy még tanulhatnál egyet s mást a tudományok terén.]}
-{169}{}{Agy átvétele}
-{170}{}{[Az átlagszámítás szabályait használva sikerült megmentened az agyak ötven százalékát. Hát, nem vagy egy tudós alkat.]}
-{171}{}{Agy átvétele}
-{172}{}{[Nyilvánvalóan tudod, hogy mit teszel. Egyetlen hibát leszámítva képes voltál megmenteni három agyat a négyb?l. Nemhiába olvasgattad azokat a tudományos folyóiratokat.]}
-{173}{}{Agy átvétele}
-{174}{}{[Néhány billenty? leütésével elhárítottad a válságot, és mindegyik agy megmenekült. A tudomány számodra minden bizonnyal több, mint egyszer? hobbi.]}
-{175}{}{Agy átvétele}
-{176}{}{Agy átvétele menü:
+{163}{}{MegprÃ³bÃ¡lod megvÃ¡ltoztatni a beÃ¡llÃ­tÃ¡sokat}
+{164}{}{Vissza az IgÃ©nylÃ©s F?menÃ¼be}
+{165}{}{TalÃ¡n mÃ¡skor.}
+{166}{}{[HozzÃ¡ nem-Ã©rtÃ©sednek kÃ¶szÃ¶nhet?en az Ã¶sszes agy elpusztult. TalÃ¡n a h?mÃ©rsÃ©klet felhÃºzÃ¡sa 98.6Â° Celsiusra egy kicsit tÃºl sok volt. A tudomÃ¡ny soha nem volt az er?ssÃ©ged.]}
+{167}{}{KilÃ©pÃ©s.}
+{168}{}{[TÃ¶bbszÃ¶ri prÃ³bÃ¡lgatÃ¡ssal Ãºgy lÃ¡tszik, meg lett a kulcs a problÃ©ma megoldÃ¡sÃ¡hoz. SikerÃ¼lt megmentened egyet a nÃ©gy agy kÃ¶zÃ¼l. Lehet, hogy mÃ©g tanulhatnÃ¡l egyet s mÃ¡st a tudomÃ¡nyok terÃ©n.]}
+{169}{}{Agy Ã¡tvÃ©tele}
+{170}{}{[Az Ã¡tlagszÃ¡mÃ­tÃ¡s szabÃ¡lyait hasznÃ¡lva sikerÃ¼lt megmentened az agyak Ã¶tven szÃ¡zalÃ©kÃ¡t. HÃ¡t, nem vagy egy tudÃ³s alkat.]}
+{171}{}{Agy Ã¡tvÃ©tele}
+{172}{}{[NyilvÃ¡nvalÃ³an tudod, hogy mit teszel. Egyetlen hibÃ¡t leszÃ¡mÃ­tva kÃ©pes voltÃ¡l megmenteni hÃ¡rom agyat a nÃ©gyb?l. NemhiÃ¡ba olvasgattad azokat a tudomÃ¡nyos folyÃ³iratokat.]}
+{173}{}{Agy Ã¡tvÃ©tele}
+{174}{}{[NÃ©hÃ¡ny billenty? leÃ¼tÃ©sÃ©vel elhÃ¡rÃ­tottad a vÃ¡lsÃ¡got, Ã©s mindegyik agy megmenekÃ¼lt. A tudomÃ¡ny szÃ¡modra minden bizonnyal tÃ¶bb, mint egyszer? hobbi.]}
+{175}{}{Agy Ã¡tvÃ©tele}
+{176}{}{Agy Ã¡tvÃ©tele menÃ¼:
                                                      Rendellenes Agy
-                                                       Csimpánz Agy
+                                                       CsimpÃ¡nz Agy
                                                           Emberi Agy
                                                              Kibernetikus Agy}
-{177}{}{Agy átvétele menü:
+{177}{}{Agy Ã¡tvÃ©tele menÃ¼:
                                                      Rendellenes Agy
-                                                       Csimpánz Agy
+                                                       CsimpÃ¡nz Agy
                                                           Emberi Agy
                                                              Kibernetikus Agy - Halott}
-{178}{}{Agy átvétele menü:
+{178}{}{Agy Ã¡tvÃ©tele menÃ¼:
                                                      Rendellenes Agy
-                                                       Csimpánz Agy
+                                                       CsimpÃ¡nz Agy
                                                           Emberi Agy - Halott
                                                   Kibernetikus Agy - Halott}
-{179}{}{Agy átvétele menü:
+{179}{}{Agy Ã¡tvÃ©tele menÃ¼:
                                                      Rendellenes Agy
-                                                       Csimpánz Agy - Halott
+                                                       CsimpÃ¡nz Agy - Halott
                                                Emberi Agy - Halott
                                                   Kibernetikus Agy - Halott}
 {180}{}{}
@@ -117,34 +117,34 @@
 {189}{}{}
 {193}{}{}
 {196}{}{Rendellenes Agy}
-{197}{}{Csimpánz Agy}
+{197}{}{CsimpÃ¡nz Agy}
 {198}{}{Emberi Agy}
 {199}{}{Kibernetikus Agy}
-{200}{}{[Az adatok arra utalnak, hogy az agy ugyan él, de neurális teljesítmény-szintje jóval a normális alatt van.] Magadhoz veszed?}
+{200}{}{[Az adatok arra utalnak, hogy az agy ugyan Ã©l, de neurÃ¡lis teljesÃ­tmÃ©ny-szintje jÃ³val a normÃ¡lis alatt van.] Magadhoz veszed?}
 {201}{}{}
 {202}{}{Igen}
 {203}{}{Nem.}
-{204}{}{[Az agyhullámok aktívak, de különböznek az emberi agyétól.] Magadhoz veszed?}
-{208}{}{[Az agy aktivitása olyan, mint egy átlagos emberé.] Magadhoz veszed?}
-{212}{}{[Az agy aktivitása nem fért rá a grafikon skálájára! Egy szempillantás múlva rájössz, hogy a jelek egyszerre digitális és emberi eredet?ek.] Magadhoz veszed?}
-{216}{}{[A robot gyorsan távozik, hogy elhozza az agyat. Visszatérése közben hibákat fedezel fel a mechanizmusán. Gyanúd akkor válik nyilvánvalóvá, amikor a robot hirtelen felrobban. Szerencsédre sikerült eljuttatnia az agyat, miel?tt darabokra hullott.]}
-{217}{}{Kilépés}
-{218}{}{Holttest átvétele menü:
-                                               Dobbs közlegény}
+{204}{}{[Az agyhullÃ¡mok aktÃ­vak, de kÃ¼lÃ¶nbÃ¶znek az emberi agyÃ©tÃ³l.] Magadhoz veszed?}
+{208}{}{[Az agy aktivitÃ¡sa olyan, mint egy Ã¡tlagos emberÃ©.] Magadhoz veszed?}
+{212}{}{[Az agy aktivitÃ¡sa nem fÃ©rt rÃ¡ a grafikon skÃ¡lÃ¡jÃ¡ra! Egy szempillantÃ¡s mÃºlva rÃ¡jÃ¶ssz, hogy a jelek egyszerre digitÃ¡lis Ã©s emberi eredet?ek.] Magadhoz veszed?}
+{216}{}{[A robot gyorsan tÃ¡vozik, hogy elhozza az agyat. VisszatÃ©rÃ©se kÃ¶zben hibÃ¡kat fedezel fel a mechanizmusÃ¡n. GyanÃºd akkor vÃ¡lik nyilvÃ¡nvalÃ³vÃ¡, amikor a robot hirtelen felrobban. SzerencsÃ©dre sikerÃ¼lt eljuttatnia az agyat, miel?tt darabokra hullott.]}
+{217}{}{KilÃ©pÃ©s}
+{218}{}{Holttest Ã¡tvÃ©tele menÃ¼:
+                                               Dobbs kÃ¶zlegÃ©ny}
 {219}{}{}
-{220}{}{Dobbs közlegény átvétele}
-{221}{}{Vissza az Igénylés F?menübe}
-{222}{}{Kilépés}
-{223}{}{[Az adatok szerint Dobbs közlegény él! A Kísérleti Bio-Med Géllel töltött regenerációs tartályban van elhelyezve.] Igényt tartasz rá?}
+{220}{}{Dobbs kÃ¶zlegÃ©ny Ã¡tvÃ©tele}
+{221}{}{Vissza az IgÃ©nylÃ©s F?menÃ¼be}
+{222}{}{KilÃ©pÃ©s}
+{223}{}{[Az adatok szerint Dobbs kÃ¶zlegÃ©ny Ã©l! A KÃ­sÃ©rleti Bio-Med GÃ©llel tÃ¶ltÃ¶tt regenerÃ¡ciÃ³s tartÃ¡lyban van elhelyezve.] IgÃ©nyt tartasz rÃ¡?}
 {224}{}{}
 {225}{}{Igen}
 {226}{}{Nem.}
-{227}{}{[Dobbs közlegény teste ott hever a lábad el?tt. Meglep?dsz, mert hirtelen felkel és beszélni kezd hozzád. Furcsa, egyáltalán nem néz ki halottnak.]}
-{228}{}{Kilépés}
-{229}{}{Jelenleg nincs holttest a raktárban.}
-{230}{}{Vissza az Igénylés F?menübe}
-{231}{}{Kilépés}
-{232}{}{[Bárhogyan is nézed, a tároló egységek mind üresek, bár a megjelenített szöveg szerint telinek kéne lenniük. Hiba lehet a programban. Nahiszen...]}
-{233}{}{Visszatérés a F?menübe}
-{234}{}{Kilépés }
-{300}{}{ képtelen elolvasni, mi van a képerny?re írva.}
+{227}{}{[Dobbs kÃ¶zlegÃ©ny teste ott hever a lÃ¡bad el?tt. Meglep?dsz, mert hirtelen felkel Ã©s beszÃ©lni kezd hozzÃ¡d. Furcsa, egyÃ¡ltalÃ¡n nem nÃ©z ki halottnak.]}
+{228}{}{KilÃ©pÃ©s}
+{229}{}{Jelenleg nincs holttest a raktÃ¡rban.}
+{230}{}{Vissza az IgÃ©nylÃ©s F?menÃ¼be}
+{231}{}{KilÃ©pÃ©s}
+{232}{}{[BÃ¡rhogyan is nÃ©zed, a tÃ¡rolÃ³ egysÃ©gek mind Ã¼resek, bÃ¡r a megjelenÃ­tett szÃ¶veg szerint telinek kÃ©ne lenniÃ¼k. Hiba lehet a programban. Nahiszen...]}
+{233}{}{VisszatÃ©rÃ©s a F?menÃ¼be}
+{234}{}{KilÃ©pÃ©s }
+{300}{}{ kÃ©ptelen elolvasni, mi van a kÃ©perny?re Ã­rva.}

@@ -1,4 +1,4 @@
-{100}{}{Egy keresked?t l·tsz.}
+{100}{}{Egy keresked?t l√°tsz.}
 {102}{}{You see a merchant who is trying to fix the waterpump.}
 {103}{}{I just can't get this thing working!}
 {104}{}{This seems to be very hard to fix.}
@@ -52,11 +52,11 @@
 {701}{}{I think I can handle it. Step aside.}
 {702}{}{Actually, I think I've done enough on this job. Go ahead and install it yourself.}
 {800}{}{Alright fine, hand it over.}
-{801}{}{TessÈk.}
+{801}{}{Tess√©k.}
 {900}{}{That should do it.}
 {901}{}{The water pump has been repaired.}
 {910}{}{(Wipes the sweat from his forehead.) Yeah, need something?}
 {911}{}{The Abbot said you might need some assistance. What seems to be the trouble?}
-{912}{}{Felejtse el. Viszl·t·sra.}
+{912}{}{Felejtse el. Viszl√°t√°sra.}
 {913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're
  going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}

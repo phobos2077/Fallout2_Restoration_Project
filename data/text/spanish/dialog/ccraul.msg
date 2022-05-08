@@ -1,53 +1,53 @@
-{100}{}{Ves a un mecánico.}
-{101}{}{Ves a Raúl, el mecánico.}
-{102}{}{Ves a un hombre vestido con un sucio uniforme militar. Por las manchas de grasa dirías que es más un mecánico que un soldado, y uno muy trabajador.}
-{103}{}{Lo siento, amigo, pero no tengo tiempo para charlar, ¿sabes? Debo hacer que este pájaro vuele.}
-{104}{}{Doc dice que tú arregles a K-9. Él dice que tienes partes.}
+{100}{}{Ves a un mecÃ¡nico.}
+{101}{}{Ves a RaÃºl, el mecÃ¡nico.}
+{102}{}{Ves a un hombre vestido con un sucio uniforme militar. Por las manchas de grasa dirÃ­as que es mÃ¡s un mecÃ¡nico que un soldado, y uno muy trabajador.}
+{103}{}{Lo siento, amigo, pero no tengo tiempo para charlar, Â¿sabes? Debo hacer que este pÃ¡jaro vuele.}
+{104}{}{Doc dice que tÃº arregles a K-9. Ã‰l dice que tienes partes.}
 {105}{}{Eh... vale.}
-{106}{}{Eh, Quincy quiere verte. Me pidió que te lo dijera.}
-{107}{}{El doctor quiere que arregles su perro. Me envió a buscar las piezas.}
-{108}{}{Bien. Adiós.}
-{109}{}{Raúl, Quincy quiere verte.}
-{110}{}{Quincy, ¿eh? Bien, Raúl no quiere verle, amigo. Raúl está cansado de su mierda, ¿sabes?}
+{106}{}{Eh, Quincy quiere verte. Me pidiÃ³ que te lo dijera.}
+{107}{}{El doctor quiere que arregles su perro. Me enviÃ³ a buscar las piezas.}
+{108}{}{Bien. AdiÃ³s.}
+{109}{}{RaÃºl, Quincy quiere verte.}
+{110}{}{Quincy, Â¿eh? Bien, RaÃºl no quiere verle, amigo. RaÃºl estÃ¡ cansado de su mierda, Â¿sabes?}
 {111}{}{Vale.}
-{112}{}{Quincy dice que tú gilipollas. Que no tienes huevos de ver él.}
+{112}{}{Quincy dice que tÃº gilipollas. Que no tienes huevos de ver Ã©l.}
 {113}{}{Bien.}
 {114}{}{Quincy dice que eres un gilipollas y que no tienes cojones de ir a verle.}
-{115}{}{Eh, amigo, a Raúl nadie le toma el pelo. ¿Ves a Quincy trabajando en estos pájaros? No, amigo. Sólo Raúl trabaja en estas monadas. ¿Sabes por qué? Porque Quincy no sabe un carajo, amigo, ¡por eso es!}
+{115}{}{Eh, amigo, a RaÃºl nadie le toma el pelo. Â¿Ves a Quincy trabajando en estos pÃ¡jaros? No, amigo. SÃ³lo RaÃºl trabaja en estas monadas. Â¿Sabes por quÃ©? Porque Quincy no sabe un carajo, amigo, Â¡por eso es!}
 {116}{}{Eh...}
 {117}{}{Bueno...}
-{118}{}{Eh, perdona, amigo. Raúl no debería haberte gritado, ¿sabes? No es culpa tuya; sólo eres el mensajero. Eh, amigo, ¿estás ocupado?}
-{119}{}{No, no ocupado. ¿Por qué?}
-{120}{}{La verdad es que no, ¿por qué?}
-{121}{}{Eh... mira, amigo. Raúl va a hacerle una visita a Quincy, ¿sabes? Raúl va a decirle cuatro cosas. Tú quédate aquí y vigila los pájaros de Raúl, ¿vale?}
+{118}{}{Eh, perdona, amigo. RaÃºl no deberÃ­a haberte gritado, Â¿sabes? No es culpa tuya; sÃ³lo eres el mensajero. Eh, amigo, Â¿estÃ¡s ocupado?}
+{119}{}{No, no ocupado. Â¿Por quÃ©?}
+{120}{}{La verdad es que no, Â¿por quÃ©?}
+{121}{}{Eh... mira, amigo. RaÃºl va a hacerle una visita a Quincy, Â¿sabes? RaÃºl va a decirle cuatro cosas. TÃº quÃ©date aquÃ­ y vigila los pÃ¡jaros de RaÃºl, Â¿vale?}
 {122}{}{Yo vigilo.}
-{123}{}{Claro, Raúl. Por cualquier otro no lo haría, pero por ti si.}
-{124}{}{Eh, gracias, amigo. ¡Raúl te debe una! No te alejes y, amigo, si alguien intenta joderla con los pájaros de Raúl, les pateas el culo, ¿vale?}
+{123}{}{Claro, RaÃºl. Por cualquier otro no lo harÃ­a, pero por ti si.}
+{124}{}{Eh, gracias, amigo. Â¡RaÃºl te debe una! No te alejes y, amigo, si alguien intenta joderla con los pÃ¡jaros de RaÃºl, les pateas el culo, Â¿vale?}
 {125}{}{Vale.}
-{126}{}{Eh, amigo, ¿qué crees que estás haciendo? ¡Aléjate de ese pájaro, amigo! Raúl ya tiene bastantes problemas sin que vosotros los soldaditos vengáis jodiendo las cosas, ¿sabes? ¡Los malditos pilotos ya son un dolor!}
-{127}{}{Eh, amigo. Raúl te dijo que te alejaras de sus pájaros. Ahora Raúl va a enseñarte a hacerle caso. Vamos, pendejo. Quítate esa puta armadura y enfréntate a Raúl mano a mano.}
+{126}{}{Eh, amigo, Â¿quÃ© crees que estÃ¡s haciendo? Â¡AlÃ©jate de ese pÃ¡jaro, amigo! RaÃºl ya tiene bastantes problemas sin que vosotros los soldaditos vengÃ¡is jodiendo las cosas, Â¿sabes? Â¡Los malditos pilotos ya son un dolor!}
+{127}{}{Eh, amigo. RaÃºl te dijo que te alejaras de sus pÃ¡jaros. Ahora RaÃºl va a enseÃ±arte a hacerle caso. Vamos, pendejo. QuÃ­tate esa puta armadura y enfrÃ©ntate a RaÃºl mano a mano.}
 {128}{}{No, no pienso eso yo.}
-{129}{}{Te jodan, Raúl. ¡Yo patearte el culo!}
-{130}{}{No, gracias; eres demasiado duro para mí, amigo.}
-{131}{}{¿Por qué voy a usar los puños cuando tengo una bonita arma?}
-{132}{}{¡Entonces no toques los pájaros de Raúl, amigo! ¡Fuera de aquí!}
+{129}{}{Te jodan, RaÃºl. Â¡Yo patearte el culo!}
+{130}{}{No, gracias; eres demasiado duro para mÃ­, amigo.}
+{131}{}{Â¿Por quÃ© voy a usar los puÃ±os cuando tengo una bonita arma?}
+{132}{}{Â¡Entonces no toques los pÃ¡jaros de RaÃºl, amigo! Â¡Fuera de aquÃ­!}
 {133}{}{Vale.}
-{134}{}{Raúl cree que estás loco yendo por aquí sin uniforme.}
+{134}{}{RaÃºl cree que estÃ¡s loco yendo por aquÃ­ sin uniforme.}
 {135}{}{Eh, amigo, si el sargento te pilla sin uniforme te va a romper el culo.}
-{136}{}{¿Por qué no llevas el uniforme, amigo?}
-{137}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}
-{138}{}{¡Intrusos! ¡Avisad a los guardias!}
-{139}{}{¡Guardias! ¡Intrusos en el hangar!}
-{140}{}{Eh, amigo, ¿qué pasa? ¿Nos atacan?}
-{141}{}{¿A qué viene la alerta, amigo? ¿Qué está ocurriendo?}
-{142}{}{¿Qué carajo está pasando?}
-{143}{}{Raúl te va a mandar a la enfermería, amigo.}
-{144}{}{Eh, amigo, ¡reza lo que sepas!}
-{145}{}{¡Raúl te va a patear el culo!}
-{146}{}{Eh, amigo, está en la taquilla de allí. Tómalas y dile a Doc que Raúl le saluda.}
+{136}{}{Â¿Por quÃ© no llevas el uniforme, amigo?}
+{137}{}{Â¡Ay, carajo! Â¡Nos invaden! Â¡Alerta!}
+{138}{}{Â¡Intrusos! Â¡Avisad a los guardias!}
+{139}{}{Â¡Guardias! Â¡Intrusos en el hangar!}
+{140}{}{Eh, amigo, Â¿quÃ© pasa? Â¿Nos atacan?}
+{141}{}{Â¿A quÃ© viene la alerta, amigo? Â¿QuÃ© estÃ¡ ocurriendo?}
+{142}{}{Â¿QuÃ© carajo estÃ¡ pasando?}
+{143}{}{RaÃºl te va a mandar a la enfermerÃ­a, amigo.}
+{144}{}{Eh, amigo, Â¡reza lo que sepas!}
+{145}{}{Â¡RaÃºl te va a patear el culo!}
+{146}{}{Eh, amigo, estÃ¡ en la taquilla de allÃ­. TÃ³malas y dile a Doc que RaÃºl le saluda.}
 {147}{}{Gracias.}
-{150}{}{¡Eh, amigo! A Raúl no le gusta que la gente meta las narices en sus cosas. Lárgate, amigo.}
-{151}{}{¡Raúl te dijo que no tocaras sus cosas! ¡Guardias!}
-{200}{}{Raúl ha oído que de nuevo estabas hablando mal de él.}
-{201}{}{Esto ya es suficiente, pendejo. Raúl te va a hacer pupa esta vez.}
-{300}{}{¿No ves que Raúl está ocupado?}
+{150}{}{Â¡Eh, amigo! A RaÃºl no le gusta que la gente meta las narices en sus cosas. LÃ¡rgate, amigo.}
+{151}{}{Â¡RaÃºl te dijo que no tocaras sus cosas! Â¡Guardias!}
+{200}{}{RaÃºl ha oÃ­do que de nuevo estabas hablando mal de Ã©l.}
+{201}{}{Esto ya es suficiente, pendejo. RaÃºl te va a hacer pupa esta vez.}
+{300}{}{Â¿No ves que RaÃºl estÃ¡ ocupado?}

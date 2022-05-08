@@ -1,1 +1,1 @@
-{100}{}{Ma³y kawa³ek papieru z odrêcznym napisem "Czajkowski".}
+{100}{}{MaÅ‚y kawaÅ‚ek papieru z odrÄ™cznym napisem "Czajkowski".}

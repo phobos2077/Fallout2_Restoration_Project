@@ -8,13 +8,13 @@
 {301}{}{What can you tell me about your order?}
 {302}{}{Have you ever heard of a device called a GECK?}
 {303}{}{Do you know where I could find Vault 13?}
-{304}{}{Viszlát!}
+{304}{}{ViszlÃ¡t!}
 {400}{}{Mit akarsz tudni?}
 {401}{}{Okay. I'd like to know something else.}
 {402}{}{Hmm... that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
 {403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
-{404}{}{Arról semmit se tudok.}
-{405}{}{Köszönöm.}
+{404}{}{ArrÃ³l semmit se tudok.}
+{405}{}{KÃ¶szÃ¶nÃ¶m.}
 {406}{}{I'm afraid I won't be able to do that. You see, I am under the impression that Brother Thomas is no longer among
  the living. But, fortunately for you, he was one of our most reliable transcribers. I'm sure whatever articles he came
  across concerning the information you seek has been transcribed into our computers.}
@@ -35,11 +35,11 @@
 {416}{}{Hello, my friend.}
 {417}{}{I've killed your beast, and I've got your book.}
 {418}{}{Excellent! Let me have it!}
-{419}{}{Tessék.}
+{419}{}{TessÃ©k.}
 {420}{}{Not so fast. How much is it worth to you?}
 {421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
  have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}
-{422}{}{Köszönöm!}
+{422}{}{KÃ¶szÃ¶nÃ¶m!}
 {423}{}{You want money for it? Fine, here's $250. Go see Brother Paul for access to the computers.}
 {424}{}{Thanks for the money, bye.}
 {425}{}{You should look on a second floor computer, now that you have full access there.}
@@ -66,7 +66,7 @@
 {439}{}{And so, utilizing a small printing press, they began making copies of the books, and also transcribing them
  into the Abbey's computers to preserve them digitally, should the physical books ever be destroyed. Over the long years,
  others have come across the Abbey, and some have elected to stay and live out their lives in the tranquil quiet of our mountain home.}
-{440}{}{Kösz a történetet.}
+{440}{}{KÃ¶sz a tÃ¶rtÃ©netet.}
 {441}{}{Where did your ancestors come from?}
 {442}{}{They never told where they originally came from. We suspect that they came here originally from the east.}
 {443}{}{Well, thanks for the story.}
@@ -114,7 +114,7 @@
 {701}{}{What!? [He sighs deeply.] It is most unfortunate that you were unable to recover that book. But you say you've
  killed the beast? Hm, then it should be safe to send our own people down to continue searching for it. Anyway, for your
  service, I shall grant you access to our computers. Go see Brother Paul for the access key.}
-{702}{}{Köszönöm!}
+{702}{}{KÃ¶szÃ¶nÃ¶m!}
 {800}{}{Actually, yes. Our main water pump has been acting up for some time, and now it finally seems to have broken down
  completely. If you know anything about machinery, do you think you could take a look and see if something could be done?
  There are a few merchants already working on it. I fear that little progress has been made though.}
@@ -150,7 +150,7 @@
 {1112}{}{Do you mean this book?}
 {1113}{}{Before I go, let me ask you something else.}
 {1411}{}{Very interesting. I have to go now.}
-{3000}{}{Hogyan tudok segíteni?}
+{3000}{}{Hogyan tudok segÃ­teni?}
 {4091}{}{So no one else has even bothered to go down there and check on him? What if he's simply trapped down there somehow, and he's slowly starving to death?}
 {4092}{}{I suppose that's possible, but you must understand. We are a peaceful people. The thought of going up against one of those wasteland monsters is terrifying to us. We're simply not equipped for such confrontations. }
 {4177}{}{I've killed the beast.}

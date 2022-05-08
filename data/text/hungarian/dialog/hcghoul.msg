@@ -1,84 +1,84 @@
-{100}{}{Egy furcsa, rongyosb?r?, mutáns valamit látsz, aminek rémes a mosolya.}
-{101}{}{Egy helyi ghoult látsz.}
-{102}{}{Egy ghoult látsz. A b?re úgy fest, mintha bármelyik pillanatban hajlandó lenne leválni a gazdájáról. Úgy t?nik, a többi falubeli még így is szívesen befogadta.}
-{103}{}{Kemény a munka itt a finomítóban.}
-{104}{}{A mutánsok és az emberek mostanában eléggé fel vannak paprikázva.}
-{105}{}{Nem szeretek sav közelében dolgozni.}
-{106}{}{Ez a város is kezd megtelni mostanában.}
+{100}{}{Egy furcsa, rongyosb?r?, mutÃ¡ns valamit lÃ¡tsz, aminek rÃ©mes a mosolya.}
+{101}{}{Egy helyi ghoult lÃ¡tsz.}
+{102}{}{Egy ghoult lÃ¡tsz. A b?re Ãºgy fest, mintha bÃ¡rmelyik pillanatban hajlandÃ³ lenne levÃ¡lni a gazdÃ¡jÃ¡rÃ³l. Ãšgy t?nik, a tÃ¶bbi falubeli mÃ©g Ã­gy is szÃ­vesen befogadta.}
+{103}{}{KemÃ©ny a munka itt a finomÃ­tÃ³ban.}
+{104}{}{A mutÃ¡nsok Ã©s az emberek mostanÃ¡ban elÃ©ggÃ© fel vannak paprikÃ¡zva.}
+{105}{}{Nem szeretek sav kÃ¶zelÃ©ben dolgozni.}
+{106}{}{Ez a vÃ¡ros is kezd megtelni mostanÃ¡ban.}
 {107}{}{Az emberek nem mind rosszak.}
-{108}{}{Üdvözöllek Broken Hillsben.}
-{109}{}{Hova ment Hank? Látta valaki Hanket?}
-{110}{}{Keményen dolgoztunk, hogy Broken Hills azzá váljon, amit ma láthatsz.}
-{111}{}{Mikor lesz a következ? kajaszünet?}
-{112}{}{Chadot letartóztatták? Az emberek biztos szégyellik magukat.}
-{113}{}{Az emberek között is voltak, akik nem szerették Chadot.}
-{114}{}{Ennyit Chadról, haver.}
-{115}{}{Talán én el tudtam volna intézni azt a karavános ügyet...}
-{116}{}{Hova ment Hank? Látta valaki Hanket?}
-{117}{}{Keményen dolgoztunk, hogy Broken Hills azzá váljon, amit ma láthatsz.}
-{118}{}{Mikor lesz a következ? kajaszünet?}
-{119}{}{Nem kell ahhoz meteorológus, hogy tudd, merr?l fúj a szél.}
-{120}{}{Állj! Hé.. mi ez a hang?}
-{121}{}{Le az elnyomókkal!}
-{122}{}{Hogyan ölhetted meg Chadot csak így?}
-{123}{}{Mi? Chad er?szakkal ellenállt a letartóztatásnak, vagy mi?}
-{124}{}{Sötét id?k járnak Broken Hills felett.}
-{125}{}{Chad megkapta, amit megérdemelt.}
-{126}{}{A büntetés legyen egyenl? a b?nnel.}
-{127}{}{Szegény Chad. Még jó, hogy nem volt családja.}
-{128}{}{Az emberek berágtak Chadre.}
-{129}{}{A mutánsok jobban teszik, ha vigyáznak... az emberek talán bosszút akarnak állni Chadért.}
-{130}{}{Ki tenne ilyen szörny? dolgot?}
-{131}{}{A mutánsok nélkül teljesen védtelenek lettünk a fosztogatókkal szemben.}
+{108}{}{ÃœdvÃ¶zÃ¶llek Broken Hillsben.}
+{109}{}{Hova ment Hank? LÃ¡tta valaki Hanket?}
+{110}{}{KemÃ©nyen dolgoztunk, hogy Broken Hills azzÃ¡ vÃ¡ljon, amit ma lÃ¡thatsz.}
+{111}{}{Mikor lesz a kÃ¶vetkez? kajaszÃ¼net?}
+{112}{}{Chadot letartÃ³ztattÃ¡k? Az emberek biztos szÃ©gyellik magukat.}
+{113}{}{Az emberek kÃ¶zÃ¶tt is voltak, akik nem szerettÃ©k Chadot.}
+{114}{}{Ennyit ChadrÃ³l, haver.}
+{115}{}{TalÃ¡n Ã©n el tudtam volna intÃ©zni azt a karavÃ¡nos Ã¼gyet...}
+{116}{}{Hova ment Hank? LÃ¡tta valaki Hanket?}
+{117}{}{KemÃ©nyen dolgoztunk, hogy Broken Hills azzÃ¡ vÃ¡ljon, amit ma lÃ¡thatsz.}
+{118}{}{Mikor lesz a kÃ¶vetkez? kajaszÃ¼net?}
+{119}{}{Nem kell ahhoz meteorolÃ³gus, hogy tudd, merr?l fÃºj a szÃ©l.}
+{120}{}{Ãllj! HÃ©.. mi ez a hang?}
+{121}{}{Le az elnyomÃ³kkal!}
+{122}{}{Hogyan Ã¶lhetted meg Chadot csak Ã­gy?}
+{123}{}{Mi? Chad er?szakkal ellenÃ¡llt a letartÃ³ztatÃ¡snak, vagy mi?}
+{124}{}{SÃ¶tÃ©t id?k jÃ¡rnak Broken Hills felett.}
+{125}{}{Chad megkapta, amit megÃ©rdemelt.}
+{126}{}{A bÃ¼ntetÃ©s legyen egyenl? a b?nnel.}
+{127}{}{SzegÃ©ny Chad. MÃ©g jÃ³, hogy nem volt csalÃ¡dja.}
+{128}{}{Az emberek berÃ¡gtak Chadre.}
+{129}{}{A mutÃ¡nsok jobban teszik, ha vigyÃ¡znak... az emberek talÃ¡n bosszÃºt akarnak Ã¡llni ChadÃ©rt.}
+{130}{}{Ki tenne ilyen szÃ¶rny? dolgot?}
+{131}{}{A mutÃ¡nsok nÃ©lkÃ¼l teljesen vÃ©dtelenek lettÃ¼nk a fosztogatÃ³kkal szemben.}
 {132}{}{Marcus... Zaius... Francis... mindenki... elment...}
-{133}{}{Zord a jöv?.}
-{134}{}{Az emberek tették ezt? Cameron volt az?}
+{133}{}{Zord a jÃ¶v?.}
+{134}{}{Az emberek tettÃ©k ezt? Cameron volt az?}
 {135}{}{Ki fog vezetni minket most, hogy Marcus elment?}
-{136}{}{Hol találunk most menedéket?}
+{136}{}{Hol talÃ¡lunk most menedÃ©ket?}
 {137}{}{Those NCR bastards. They'd better not come here anymore, not if they know what's good for them.}
-{138}{}{Vajon a MI embereink voltak emögött...}
-{139}{}{Köszönjük, hogy megmentetted a mutánsokat.}
-{140}{}{Meg kellene lincselnünk azokat, akik megpróbálták megmérgezni a mutánsokat.}
-{141}{}{Olyan sok minden történik... egészen beleszédültem...}
-{142}{}{Azt hiszem, vissza kéne mennem dolgozni.}
-{143}{}{Ki engedhette ki azt a két semmittev?t? Még az ?röket is megölte... Marcus jó ideges lehet.}
-{144}{}{Véres ügyek folynak a városban.}
-{145}{}{Észrevetted, hogy a város mostanában b?zlik a bajtól?}
-{146}{}{Azt hittem, hogy ez a város végre jó hely a letelepedésre. Úgy látszik, tévedtem.}
-{147}{}{Ki gondolta volna, hogy ilyen er?szak üti fel a fejét Broken Hillsben?}
-{148}{}{Franc és Manson... valakinek halállistája van a mutánsokról.}
-{149}{}{Hogy engedhetted ki azt a két mocskot a börtönb?l?}
-{150}{}{Szégyelned kellene magad!}
-{151}{}{Remélem, igazad van, hogy Franc és Manson nem jelentenek veszélyt... a mutánsok téged fognak hibáztatni.}
-{152}{}{Franc és Manson... újra közöttünk... fú, haver. Asszem, én lelépek innen.}
-{153}{}{Véres ügyek folynak a városban.}
-{154}{}{Észrevetted, hogy a város mostanában b?zlik a bajtól?}
-{155}{}{Jól tetted, hogy igazságot osztottál azoknak a mocskoknak!}
-{156}{}{Mindig is éreztem, hogy Jacobbal nem stimmel valami.}
-{157}{}{Ez majd megtanítja az embereket, hogy ?k sem állnak a törvényeken felül.}
-{158}{}{Nemá'... Aileen? Nem hiszem el, hogy ilyet tenne.}
-{159}{}{Micsoda csapás az embereknek! Most legalább magukba szállnak. Nagyon helyes.}
-{160}{}{Képes lesz-e Broken Hills valaha is áthidalni az emberek és mutánsok közti szakadékot?}
-{161}{}{Jacob és Aileen, az a két rohadék, mindig másodrend? polgárként kezeltek. Ez majd megtanítja ?ket!}
-{162}{}{Nem hiszem, hogy Broken Hills valaha is kiheveri a bánya elvesztését...}
+{138}{}{Vajon a MI embereink voltak emÃ¶gÃ¶tt...}
+{139}{}{KÃ¶szÃ¶njÃ¼k, hogy megmentetted a mutÃ¡nsokat.}
+{140}{}{Meg kellene lincselnÃ¼nk azokat, akik megprÃ³bÃ¡ltÃ¡k megmÃ©rgezni a mutÃ¡nsokat.}
+{141}{}{Olyan sok minden tÃ¶rtÃ©nik... egÃ©szen beleszÃ©dÃ¼ltem...}
+{142}{}{Azt hiszem, vissza kÃ©ne mennem dolgozni.}
+{143}{}{Ki engedhette ki azt a kÃ©t semmittev?t? MÃ©g az ?rÃ¶ket is megÃ¶lte... Marcus jÃ³ ideges lehet.}
+{144}{}{VÃ©res Ã¼gyek folynak a vÃ¡rosban.}
+{145}{}{Ã‰szrevetted, hogy a vÃ¡ros mostanÃ¡ban b?zlik a bajtÃ³l?}
+{146}{}{Azt hittem, hogy ez a vÃ¡ros vÃ©gre jÃ³ hely a letelepedÃ©sre. Ãšgy lÃ¡tszik, tÃ©vedtem.}
+{147}{}{Ki gondolta volna, hogy ilyen er?szak Ã¼ti fel a fejÃ©t Broken Hillsben?}
+{148}{}{Franc Ã©s Manson... valakinek halÃ¡llistÃ¡ja van a mutÃ¡nsokrÃ³l.}
+{149}{}{Hogy engedhetted ki azt a kÃ©t mocskot a bÃ¶rtÃ¶nb?l?}
+{150}{}{SzÃ©gyelned kellene magad!}
+{151}{}{RemÃ©lem, igazad van, hogy Franc Ã©s Manson nem jelentenek veszÃ©lyt... a mutÃ¡nsok tÃ©ged fognak hibÃ¡ztatni.}
+{152}{}{Franc Ã©s Manson... Ãºjra kÃ¶zÃ¶ttÃ¼nk... fÃº, haver. Asszem, Ã©n lelÃ©pek innen.}
+{153}{}{VÃ©res Ã¼gyek folynak a vÃ¡rosban.}
+{154}{}{Ã‰szrevetted, hogy a vÃ¡ros mostanÃ¡ban b?zlik a bajtÃ³l?}
+{155}{}{JÃ³l tetted, hogy igazsÃ¡got osztottÃ¡l azoknak a mocskoknak!}
+{156}{}{Mindig is Ã©reztem, hogy Jacobbal nem stimmel valami.}
+{157}{}{Ez majd megtanÃ­tja az embereket, hogy ?k sem Ã¡llnak a tÃ¶rvÃ©nyeken felÃ¼l.}
+{158}{}{NemÃ¡'... Aileen? Nem hiszem el, hogy ilyet tenne.}
+{159}{}{Micsoda csapÃ¡s az embereknek! Most legalÃ¡bb magukba szÃ¡llnak. Nagyon helyes.}
+{160}{}{KÃ©pes lesz-e Broken Hills valaha is Ã¡thidalni az emberek Ã©s mutÃ¡nsok kÃ¶zti szakadÃ©kot?}
+{161}{}{Jacob Ã©s Aileen, az a kÃ©t rohadÃ©k, mindig mÃ¡sodrend? polgÃ¡rkÃ©nt kezeltek. Ez majd megtanÃ­tja ?ket!}
+{162}{}{Nem hiszem, hogy Broken Hills valaha is kiheveri a bÃ¡nya elvesztÃ©sÃ©t...}
 {163}{}{All the mutants... dead...}
-{164}{}{...most már soha nem tudjuk meg, lehetett-e volna béke a mutánsok és az emberek között...}
-{165}{}{Itt az ideje, hogy elmenjünk innen és megnézzük, tartogat-e még számunkra valamit a világ... már nem éri meg újra kiásni a bányát.}
-{166}{}{Vajon szükség van urán-finomítókra valahol máshol is Kaliforniában?}
-{167}{}{Asszem, itt az ideje, hogy visszamenjek Gekkóba...}
-{168}{}{Te rohadt szemétláda!}
-{169}{}{Nincs benned szégyenérzet, tisztesség?}
-{170}{}{Miért akarod elpusztítani a városunkat?}
-{171}{}{Nem vetted észre, hogy ha tönkreteszed a bányát, mindannyiunkat tönkreteszel?}
-{172}{}{Nem akarok veled szóba állni!}
+{164}{}{...most mÃ¡r soha nem tudjuk meg, lehetett-e volna bÃ©ke a mutÃ¡nsok Ã©s az emberek kÃ¶zÃ¶tt...}
+{165}{}{Itt az ideje, hogy elmenjÃ¼nk innen Ã©s megnÃ©zzÃ¼k, tartogat-e mÃ©g szÃ¡munkra valamit a vilÃ¡g... mÃ¡r nem Ã©ri meg Ãºjra kiÃ¡sni a bÃ¡nyÃ¡t.}
+{166}{}{Vajon szÃ¼ksÃ©g van urÃ¡n-finomÃ­tÃ³kra valahol mÃ¡shol is KaliforniÃ¡ban?}
+{167}{}{Asszem, itt az ideje, hogy visszamenjek GekkÃ³ba...}
+{168}{}{Te rohadt szemÃ©tlÃ¡da!}
+{169}{}{Nincs benned szÃ©gyenÃ©rzet, tisztessÃ©g?}
+{170}{}{MiÃ©rt akarod elpusztÃ­tani a vÃ¡rosunkat?}
+{171}{}{Nem vetted Ã©szre, hogy ha tÃ¶nkreteszed a bÃ¡nyÃ¡t, mindannyiunkat tÃ¶nkreteszel?}
+{172}{}{Nem akarok veled szÃ³ba Ã¡llni!}
 {173}{}{T?nj el!}
-{174}{}{Szép munka!}
-{175}{}{Sajnálom azokat az embereket, akik meghaltak az alagutakban.}
-{176}{}{Vajon hogyan ásták azokat az alagutakat úgy, hogy ne vegyük észre.}
-{177}{}{Most már tudjuk, mit tervezett Franc és Manson.}
-{178}{}{Azok a szegény emberek... Szegény családjaik...}
-{180}{}{Ne bánts!}
-{181}{}{Haggyá' békén!}
+{174}{}{SzÃ©p munka!}
+{175}{}{SajnÃ¡lom azokat az embereket, akik meghaltak az alagutakban.}
+{176}{}{Vajon hogyan Ã¡stÃ¡k azokat az alagutakat Ãºgy, hogy ne vegyÃ¼k Ã©szre.}
+{177}{}{Most mÃ¡r tudjuk, mit tervezett Franc Ã©s Manson.}
+{178}{}{Azok a szegÃ©ny emberek... SzegÃ©ny csalÃ¡djaik...}
+{180}{}{Ne bÃ¡nts!}
+{181}{}{HaggyÃ¡' bÃ©kÃ©n!}
 {182}{}{Nem! Nem! Nem!}
 {183}{}{Elmegyek akkor...}
-{184}{}{Hagyd el a városunkat!}
+{184}{}{Hagyd el a vÃ¡rosunkat!}

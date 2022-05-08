@@ -1,11 +1,11 @@
-{100}{}{To mój dom.}
+{100}{}{To mÃ³j dom.}
 {101}{}{Cholerni bandyci.}
 {102}{}{Zostaw nas w spokoju!}
-{103}{}{Nienawidzê bandytów.}
-{104}{}{Nie mamy nic, co moglibyœcie ukraœæ.}
+{103}{}{NienawidzÄ™ bandytÃ³w.}
+{104}{}{Nie mamy nic, co moglibyÅ›cie ukraÅ›Ä‡.}
 {105}{}{Nie zabijaj mnie.}
-{106}{}{Mam ju¿ tego dosyæ.}
+{106}{}{Mam juÅ¼ tego dosyÄ‡.}
 {107}{}{Bierz c chcesz.}
-{108}{}{B³agam, nie zabijaj mnie.}
-{109}{}{I tak nienawidzê ¿ycia na wsi.}
-{110}{}{B³agam, tylko nie spalcie naszego domu.}
+{108}{}{BÅ‚agam, nie zabijaj mnie.}
+{109}{}{I tak nienawidzÄ™ Å¼ycia na wsi.}
+{110}{}{BÅ‚agam, tylko nie spalcie naszego domu.}

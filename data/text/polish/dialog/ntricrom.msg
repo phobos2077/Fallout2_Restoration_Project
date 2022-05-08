@@ -1,2 +1,2 @@
-{100}{}{To by³y pokój Richarda.}
-{200}{}{Rozejrzyj siê tu dobrze.}
+{100}{}{To byÅ‚y pokÃ³j Richarda.}
+{200}{}{Rozejrzyj siÄ™ tu dobrze.}

@@ -1,1237 +1,1237 @@
-{100}{}{Widzisz prostytutkê.}
-{150}{}{Widzisz... kobietê lekkich obyczajów. Jej podarte ubranie uwodzicielsko opina jej cia³o.}
-{151}{}{Widzisz prostytutkê. Mruga do ciebie.}
-{152}{}{Widzisz prostytutkê. Patrzy przed siebie têpym spojrzeniem.}
-{153}{}{Widzisz prostytutkê. Pachnie jak polne kwiaty.}
-{154}{}{Widzisz prostytutkê. Przypomina ci trochê twoj¹ matkê.}
-{155}{}{Widzisz prostytutkê. Jej ubranie wiêcej odkrywa ni¿ zas³ania.}
-{156}{}{Widzisz prostytutkê. Wygl¹da na tak¹, która po sprawie zabija i po¿era samca.}
-{157}{}{Widzisz prostytutkê. Ocena ciê okiem znawcy.}
-{158}{}{Widzisz prostytutkê. Jej podarte ubranie uwodzicielsko opina jej cia³o.}
+{100}{}{Widzisz prostytutkÄ™.}
+{150}{}{Widzisz... kobietÄ™ lekkich obyczajÃ³w. Jej podarte ubranie uwodzicielsko opina jej ciaÅ‚o.}
+{151}{}{Widzisz prostytutkÄ™. Mruga do ciebie.}
+{152}{}{Widzisz prostytutkÄ™. Patrzy przed siebie tÄ™pym spojrzeniem.}
+{153}{}{Widzisz prostytutkÄ™. Pachnie jak polne kwiaty.}
+{154}{}{Widzisz prostytutkÄ™. Przypomina ci trochÄ™ twojÄ… matkÄ™.}
+{155}{}{Widzisz prostytutkÄ™. Jej ubranie wiÄ™cej odkrywa niÅ¼ zasÅ‚ania.}
+{156}{}{Widzisz prostytutkÄ™. WyglÄ…da na takÄ…, ktÃ³ra po sprawie zabija i poÅ¼era samca.}
+{157}{}{Widzisz prostytutkÄ™. Ocena ciÄ™ okiem znawcy.}
+{158}{}{Widzisz prostytutkÄ™. Jej podarte ubranie uwodzicielsko opina jej ciaÅ‚o.}
 {175}{}{Ojej... to on. }
-{176}{}{Patrzcie! To najwiêkszy ogier na tym œwiecie.}
+{176}{}{Patrzcie! To najwiÄ™kszy ogier na tym Å›wiecie.}
 {177}{}{::Mdleje::}
 {178}{}{O tak, }
 {179}{}{::Klaszcze::}
 {180}{}{::Wiwatuje::}
 {181}{}{Ojej... to ona. }
 {182}{}{Dobra robota, dziewczyno!}
-{183}{}{::Pokazuje ci wyci¹gniêty do góry kciuk::}
-{190}{}{W tym ¿elastwie nie bêdzie z ciebie raczej wielkiego po¿ytku.}
+{183}{}{::Pokazuje ci wyciÄ…gniÄ™ty do gÃ³ry kciuk::}
+{190}{}{W tym Å¼elastwie nie bÄ™dzie z ciebie raczej wielkiego poÅ¼ytku.}
 {195}{}{Tutaj jestem, }
 {196}{}{Patrzcie! To on!}
 {197}{}{Hej, }
-{198}{}{Hej, kochanie? Znajdzie siê dla mnie jakaœ rólka?}
-{199}{}{Kiedy uka¿e siê twój nowy film?}
-{200}{}{Mmmm-mmmm. Do dzie³a, kowboju.}
+{198}{}{Hej, kochanie? Znajdzie siÄ™ dla mnie jakaÅ› rÃ³lka?}
+{199}{}{Kiedy ukaÅ¼e siÄ™ twÃ³j nowy film?}
+{200}{}{Mmmm-mmmm. Do dzieÅ‚a, kowboju.}
 {201}{}{Szukasz mnie, Czarodzieju?}
-{202}{}{Uuups. Chyba zgubi³am coœ w twoich spodniach. Mogê poszukaæ?}
-{203}{}{By³eœ fantastyczny w Wielkich Jajach do Wynajêcia.}
-{204}{}{Widzia³am ciê w Przeminê³o z Viagr¹.}
-{205}{}{Uwielbiam ciê z Kryptê 69.}
-{206}{}{By³eœ œwietny w Trzech Dniach Kondoma.}
-{207}{}{Mmmmm-mmmm. Na pewno du¿o æwiczysz, prawda?}
-{208}{}{Mogê prosiæ o autograf? Na piersiach?}
-{209}{}{Mo¿e znajdzie siê dla mnie rólka w twoim nowym filmie?}
-{210}{}{Przy tobie nigdy bym nie udawa³a, }
-{211}{}{Jestem taka... s³aba. Ju¿... d³u¿ej... nie wytrzymam. Muszê... siê... z tob¹... przespaæ...}
-{212}{}{To ma byæ gwiazda? Ta zdzira z prowincji...}
-{213}{}{Nie wiedzia³am, ¿e gwiazdy porno mog¹ byæ a¿ tak grube...}
+{202}{}{Uuups. Chyba zgubiÅ‚am coÅ› w twoich spodniach. MogÄ™ poszukaÄ‡?}
+{203}{}{ByÅ‚eÅ› fantastyczny w Wielkich Jajach do WynajÄ™cia.}
+{204}{}{WidziaÅ‚am ciÄ™ w PrzeminÄ™Å‚o z ViagrÄ….}
+{205}{}{Uwielbiam ciÄ™ z KryptÄ™ 69.}
+{206}{}{ByÅ‚eÅ› Å›wietny w Trzech Dniach Kondoma.}
+{207}{}{Mmmmm-mmmm. Na pewno duÅ¼o Ä‡wiczysz, prawda?}
+{208}{}{MogÄ™ prosiÄ‡ o autograf? Na piersiach?}
+{209}{}{MoÅ¼e znajdzie siÄ™ dla mnie rÃ³lka w twoim nowym filmie?}
+{210}{}{Przy tobie nigdy bym nie udawaÅ‚a, }
+{211}{}{Jestem taka... sÅ‚aba. JuÅ¼... dÅ‚uÅ¼ej... nie wytrzymam. MuszÄ™... siÄ™... z tobÄ…... przespaÄ‡...}
+{212}{}{To ma byÄ‡ gwiazda? Ta zdzira z prowincji...}
+{213}{}{Nie wiedziaÅ‚am, Å¼e gwiazdy porno mogÄ… byÄ‡ aÅ¼ tak grube...}
 {214}{}{Ale ona jest paskudna.}
-{215}{}{Mój pies jest bardziej poci¹gaj¹cy od niej...}
+{215}{}{MÃ³j pies jest bardziej pociÄ…gajÄ…cy od niej...}
 {216}{}{Brzydka jak noc...}
-{217}{}{Patrzcie jak siê zachowuje... jak jakaœ bohaterka gry, a nie aktorka porno.}
-{218}{}{Jeœli zacznie tu krêciæ ty³kiem, potnê jej tê œliczn¹ buŸkê...}
-{219}{}{Nie mam pojêcia co Bracia Corsican w niej widz¹...}
+{217}{}{Patrzcie jak siÄ™ zachowuje... jak jakaÅ› bohaterka gry, a nie aktorka porno.}
+{218}{}{JeÅ›li zacznie tu krÄ™ciÄ‡ tyÅ‚kiem, potnÄ™ jej tÄ™ Å›licznÄ… buÅºkÄ™...}
+{219}{}{Nie mam pojÄ™cia co Bracia Corsican w niej widzÄ…...}
 {220}{}{Ma tyle talentu co gumowa lala, tylko jest od niej brzydsza.}
-{221}{}{No w³aœnie, nie zatrzymuj siê tu, siostro.}
-{222}{}{Na jej widok robi mi siê niedobrze...}
+{221}{}{No wÅ‚aÅ›nie, nie zatrzymuj siÄ™ tu, siostro.}
+{222}{}{Na jej widok robi mi siÄ™ niedobrze...}
 {223}{}{Patrzcie jak paraduje, zdzira jedna...}
-{224}{}{Powinna coœ zrobiæ z t¹ swoj¹ paskudn¹ gêb¹.}
-{225}{}{To¿ to Królowa Zdzira we w³asnej osobie.}
-{226}{}{G³upia, ma³a suka...}
-{227}{}{To¿ to nasza pseudo gwiazdka filmowa...}
-{228}{}{Widzia³am braminy zgrabniejsze od niej.}
-{229}{}{Spadaj st¹d! To nasz teren, suko!}
-{230}{}{Zabieraj siê st¹d.}
+{224}{}{Powinna coÅ› zrobiÄ‡ z tÄ… swojÄ… paskudnÄ… gÄ™bÄ….}
+{225}{}{ToÅ¼ to KrÃ³lowa Zdzira we wÅ‚asnej osobie.}
+{226}{}{GÅ‚upia, maÅ‚a suka...}
+{227}{}{ToÅ¼ to nasza pseudo gwiazdka filmowa...}
+{228}{}{WidziaÅ‚am braminy zgrabniejsze od niej.}
+{229}{}{Spadaj stÄ…d! To nasz teren, suko!}
+{230}{}{Zabieraj siÄ™ stÄ…d.}
 {231}{}{Za grosz talentu...}
-{232}{}{Spróbuj siê tu jeszcze krêciæ, a bêd¹ k³opoty.}
+{232}{}{SprÃ³buj siÄ™ tu jeszcze krÄ™ciÄ‡, a bÄ™dÄ… kÅ‚opoty.}
 {233}{}{Dziwka.}
-{234}{}{G³upia zdzira...}
-{235}{}{Œmieæ...}
+{234}{}{GÅ‚upia zdzira...}
+{235}{}{ÅšmieÄ‡...}
 {236}{}{Hmpf!}
-{237}{}{Wynoœ siê st¹d, psujesz interes.}
-{238}{}{Ma³a zdzira.}
-{239}{}{Nie odzywaj siê do mnie, suko.}
-{240}{}{Lepiej zmieñ bran¿ê, suko.}
-{241}{}{Której czêœci 'spieprzaj st¹d' nie rozumiesz?}
-{242}{}{Odezwij siê jeszcze raz, to ci wyrwê jêzor.}
+{237}{}{WynoÅ› siÄ™ stÄ…d, psujesz interes.}
+{238}{}{MaÅ‚a zdzira.}
+{239}{}{Nie odzywaj siÄ™ do mnie, suko.}
+{240}{}{Lepiej zmieÅ„ branÅ¼Ä™, suko.}
+{241}{}{KtÃ³rej czÄ™Å›ci 'spieprzaj stÄ…d' nie rozumiesz?}
+{242}{}{Odezwij siÄ™ jeszcze raz, to ci wyrwÄ™ jÄ™zor.}
 {243}{}{Dajka.}
-{244}{}{::Ignoruje ciê.::}
+{244}{}{::Ignoruje ciÄ™.::}
 {245}{}{::Wykonuje obsceniczny gest::}
-{246}{}{Wynoœ siê st¹d, "Wielka Gwiazdo Filmowa".}
+{246}{}{WynoÅ› siÄ™ stÄ…d, "Wielka Gwiazdo Filmowa".}
 {247}{}{Spadaj, dziwko.}
-{248}{}{Zacznij tylko krêciæ tu ty³kiem, to ciê pochlastam...}
-{249}{}{Nie mam pojêcia co Bracia Corsican w niej widz¹...}
+{248}{}{Zacznij tylko krÄ™ciÄ‡ tu tyÅ‚kiem, to ciÄ™ pochlastam...}
+{249}{}{Nie mam pojÄ™cia co Bracia Corsican w niej widzÄ…...}
 {250}{}{Ma tyle talentu co gumowa lala, tylko jest od niej brzydsza.}
-{251}{}{Nie rozmawiam z takimi œmieciami jak ty.}
-{252}{}{Patrzcie na te miêœnie! Robi mi siê s³abo...}
+{251}{}{Nie rozmawiam z takimi Å›mieciami jak ty.}
+{252}{}{Patrzcie na te miÄ™Å›nie! Robi mi siÄ™ sÅ‚abo...}
 {253}{}{Choolera!}
-{254}{}{::Gwi¿d¿e::}
-{255}{}{Zbudowany jak czo³g. Patrzcie tylko na to dzia³o.}
-{256}{}{Patrzcie jakie wielkie dzia³o ma ten chodz¹cy czo³g...}
-{257}{}{Jest mój...}
+{254}{}{::GwiÅ¼dÅ¼e::}
+{255}{}{Zbudowany jak czoÅ‚g. Patrzcie tylko na to dziaÅ‚o.}
+{256}{}{Patrzcie jakie wielkie dziaÅ‚o ma ten chodzÄ…cy czoÅ‚g...}
+{257}{}{Jest mÃ³j...}
 {258}{}{::Wzdycha::}
 {259}{}{Co za twardziel.}
-{260}{}{Przy tym ch³opaku nogi same siê pode mn¹ uginaj¹.}
-{261}{}{To¿ to nasz Król Ringu...}
-{262}{}{Ten ch³opak wie jak dogodziæ kobiecie.}
+{260}{}{Przy tym chÅ‚opaku nogi same siÄ™ pode mnÄ… uginajÄ….}
+{261}{}{ToÅ¼ to nasz KrÃ³l Ringu...}
+{262}{}{Ten chÅ‚opak wie jak dogodziÄ‡ kobiecie.}
 {263}{}{Patrzcie! To }
 {264}{}{}
-{265}{}{W TAKIE k³opoty chêtnie bym siê wpl¹ta³a.}
-{266}{}{Mo¿e masz ochotê na parê rund w moim ³ó¿ku, mistrzu?}
-{267}{}{Poboksujemy trochê, mistrzu?}
+{265}{}{W TAKIE kÅ‚opoty chÄ™tnie bym siÄ™ wplÄ…taÅ‚a.}
+{266}{}{MoÅ¼e masz ochotÄ™ na parÄ™ rund w moim Å‚Ã³Å¼ku, mistrzu?}
+{267}{}{Poboksujemy trochÄ™, mistrzu?}
 {268}{}{Jak leci, }
 {269}{}{Szukasz mnie?}
-{270}{}{Dlaczego nie zagl¹dasz tu czêœciej?}
-{271}{}{Ach. Potrzebujê pilnie mêskiej pomocy.}
+{270}{}{Dlaczego nie zaglÄ…dasz tu czÄ™Å›ciej?}
+{271}{}{Ach. PotrzebujÄ™ pilnie mÄ™skiej pomocy.}
 {272}{}{Szukasz towarzystwa, }
 {273}{}{Ale z ciebie twardziel.}
-{274}{}{Przy tobie czujê siê taka bezbronna, wiesz?}
-{275}{}{Wpuszczaj¹ ciê na ring z TAK¥ broni¹?!}
-{276}{}{Mo¿e potrzebujesz troskliwej, kobiecej opieki?}
-{277}{}{Hej... uwa¿aj na Prze¿uwacza. To prawdziwy palant. Kiedyœ próbowa³ odgryŸæ mi ucho.}
+{274}{}{Przy tobie czujÄ™ siÄ™ taka bezbronna, wiesz?}
+{275}{}{WpuszczajÄ… ciÄ™ na ring z TAKÄ„ broniÄ…?!}
+{276}{}{MoÅ¼e potrzebujesz troskliwej, kobiecej opieki?}
+{277}{}{Hej... uwaÅ¼aj na PrzeÅ¼uwacza. To prawdziwy palant. KiedyÅ› prÃ³bowaÅ‚ odgryÅºÄ‡ mi ucho.}
 {278}{}{Patrzcie! To }
 {279}{}{Szukasz towarzystwa, }
 {280}{}{}
-{281}{}{Ona jest naprawdê twarda. Chcia³abym umieæ tak pomiataæ facetami jak ona.}
+{281}{}{Ona jest naprawdÄ™ twarda. ChciaÅ‚abym umieÄ‡ tak pomiataÄ‡ facetami jak ona.}
 {282}{}{Oto dzielna kobieta.}
-{283}{}{Wygl¹da tak... (dr¿y) ...niebezpiecznie.}
-{284}{}{Jest ca³kiem sexy.}
+{283}{}{WyglÄ…da tak... (drÅ¼y) ...niebezpiecznie.}
+{284}{}{Jest caÅ‚kiem sexy.}
 {285}{}{Ojej... to on. }
-{286}{}{Wygl¹da tak... (dr¿y) ...niebezpiecznie.}
+{286}{}{WyglÄ…da tak... (drÅ¼y) ...niebezpiecznie.}
 {287}{}{Choolera!}
-{288}{}{::Gwi¿d¿e::}
+{288}{}{::GwiÅ¼dÅ¼e::}
 {289}{}{Co za twardziel.}
-{290}{}{Przy tym ch³opaku nogi same siê pode mn¹ uginaj¹.}
-{291}{}{Ten ch³opak wie jak dogodziæ kobiecie.}
+{290}{}{Przy tym chÅ‚opaku nogi same siÄ™ pode mnÄ… uginajÄ….}
+{291}{}{Ten chÅ‚opak wie jak dogodziÄ‡ kobiecie.}
 {292}{}{Witaj, }
 {293}{}{Szukasz towarzystwa, }
 {294}{}{}
 {295}{}{Ojej... to ona. }
-{296}{}{Ona jest naprawdê niez³a.}
+{296}{}{Ona jest naprawdÄ™ niezÅ‚a.}
 {297}{}{To dopiero twarda suka.}
-{298}{}{Wygl¹da tak... (dr¿y) ...niebezpiecznie.}
-{299}{}{Jest ca³kiem sexy.}
-{300}{}{Jestem Tania, £owco. A ty jak masz na imiê?}
-{301}{}{Hej, £owco. Szukasz towarzystwa?}
-{302}{}{Nauczê ciê paru sztuczek o poskramianiu kobiet.}
-{303}{}{Szukasz niewolnicy na jedn¹ noc, £owco?}
-{304}{}{Masz niez³y sprzêt, ³owco.}
-{305}{}{Co to, masz wê¿a w kieszeni? A mo¿e w rozporku?!}
-{306}{}{Chcesz siê zabawiæ?}
-{307}{}{£owco, prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{308}{}{Szukasz towarzystwa, £owco?}
-{309}{}{Podobno w Dzielnicy Handlowej by³y jakieœ k³opoty...}
+{298}{}{WyglÄ…da tak... (drÅ¼y) ...niebezpiecznie.}
+{299}{}{Jest caÅ‚kiem sexy.}
+{300}{}{Jestem Tania, Åowco. A ty jak masz na imiÄ™?}
+{301}{}{Hej, Åowco. Szukasz towarzystwa?}
+{302}{}{NauczÄ™ ciÄ™ paru sztuczek o poskramianiu kobiet.}
+{303}{}{Szukasz niewolnicy na jednÄ… noc, Åowco?}
+{304}{}{Masz niezÅ‚y sprzÄ™t, Å‚owco.}
+{305}{}{Co to, masz wÄ™Å¼a w kieszeni? A moÅ¼e w rozporku?!}
+{306}{}{Chcesz siÄ™ zabawiÄ‡?}
+{307}{}{Åowco, prawdziwy seks znajdziesz tylko w Nowym Reno.}
+{308}{}{Szukasz towarzystwa, Åowco?}
+{309}{}{Podobno w Dzielnicy Handlowej byÅ‚y jakieÅ› kÅ‚opoty...}
 {310}{}{Szukasz towarzystwa?}
-{311}{}{Zatañczymy?}
-{312}{}{£owco, prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{313}{}{Jasne, mogê byæ twoj¹ 'towarzyszk¹' za kilka ¿etonów.}
-{314}{}{Pierwszy raz w mieœcie, s³onko?}
-{315}{}{Zabawimy siê, £owco?}
-{316}{}{Pobawimy siê w £owcê i Niewolnicê?}
-{317}{}{Niez³y sprzêt.}
-{318}{}{Potrzebujesz pocieszycielki, £owco.}
-{319}{}{Zgubi³eœ siê, £owco?}
-{320}{}{Chcesz roz³adowaæ magazynek, £owco?}
-{321}{}{Ten goœæ roztapia mnie samym spojrzeniem.}
-{322}{}{Myron? Nie dotknê³abym go za milion ¿etonów. Co ja mówiê - dwa miliony.}
-{323}{}{Chcesz siê trochê zabawiæ, £owco?}
-{324}{}{Podoba mi siê twój gekon, £owco.}
+{311}{}{ZataÅ„czymy?}
+{312}{}{Åowco, prawdziwy seks znajdziesz tylko w Nowym Reno.}
+{313}{}{Jasne, mogÄ™ byÄ‡ twojÄ… 'towarzyszkÄ…' za kilka Å¼etonÃ³w.}
+{314}{}{Pierwszy raz w mieÅ›cie, sÅ‚onko?}
+{315}{}{Zabawimy siÄ™, Åowco?}
+{316}{}{Pobawimy siÄ™ w ÅowcÄ™ i NiewolnicÄ™?}
+{317}{}{NiezÅ‚y sprzÄ™t.}
+{318}{}{Potrzebujesz pocieszycielki, Åowco.}
+{319}{}{ZgubiÅ‚eÅ› siÄ™, Åowco?}
+{320}{}{Chcesz rozÅ‚adowaÄ‡ magazynek, Åowco?}
+{321}{}{Ten goÅ›Ä‡ roztapia mnie samym spojrzeniem.}
+{322}{}{Myron? Nie dotknÄ™Å‚abym go za milion Å¼etonÃ³w. Co ja mÃ³wiÄ™ - dwa miliony.}
+{323}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡, Åowco?}
+{324}{}{Podoba mi siÄ™ twÃ³j gekon, Åowco.}
 {325}{}{Co to, masz gekona w kieszeni?}
-{326}{}{Jak leci, £owco.}
-{327}{}{Szukasz kobiety, £owco?}
-{328}{}{Gdzie siê pali, £owco?}
-{329}{}{Dzieciaku, zrobiê z ciebie mê¿czyznê.}
-{330}{}{Pobawimy siê w £owcê i Niewolnicê?}
-{331}{}{Mo¿e bêdziemy udawaæ szpony œmierci w sezonie godowym?}
-{332}{}{Chcesz ¿ebym ci roz³adowa³a magazynek, £owco?}
-{333}{}{Mo¿e pomo¿esz biednej dziewczynie straciæ dziewictwo?}
-{334}{}{Przy tobie mój wewnêtrzny licznik Geigera zaczyna wariowaæ.}
-{335}{}{Jeœli mam byæ grzeczna, to zap³acisz ekstra.}
-{336}{}{[Œpiewa.] "Zabawmy siê - w pana i s³u¿¹c¹."}
-{337}{}{Spróbuj szczêœcia ze mn¹, £owco.}
-{338}{}{Zainstalowa³am ju¿ tê obijan¹ pluszem deskê rozdzielcz¹.}
-{339}{}{Za dziesiêæ ¿etonów otworzê przed tob¹ bramy niebios.}
-{340}{}{Pobawimy siê w Pana i Niewolnicê, £owco?}
-{341}{}{Myron: Du¿a gêba. Ma³a reszta.}
+{326}{}{Jak leci, Åowco.}
+{327}{}{Szukasz kobiety, Åowco?}
+{328}{}{Gdzie siÄ™ pali, Åowco?}
+{329}{}{Dzieciaku, zrobiÄ™ z ciebie mÄ™Å¼czyznÄ™.}
+{330}{}{Pobawimy siÄ™ w ÅowcÄ™ i NiewolnicÄ™?}
+{331}{}{MoÅ¼e bÄ™dziemy udawaÄ‡ szpony Å›mierci w sezonie godowym?}
+{332}{}{Chcesz Å¼ebym ci rozÅ‚adowaÅ‚a magazynek, Åowco?}
+{333}{}{MoÅ¼e pomoÅ¼esz biednej dziewczynie straciÄ‡ dziewictwo?}
+{334}{}{Przy tobie mÃ³j wewnÄ™trzny licznik Geigera zaczyna wariowaÄ‡.}
+{335}{}{JeÅ›li mam byÄ‡ grzeczna, to zapÅ‚acisz ekstra.}
+{336}{}{[Åšpiewa.] "Zabawmy siÄ™ - w pana i sÅ‚uÅ¼Ä…cÄ…."}
+{337}{}{SprÃ³buj szczÄ™Å›cia ze mnÄ…, Åowco.}
+{338}{}{ZainstalowaÅ‚am juÅ¼ tÄ™ obijanÄ… pluszem deskÄ™ rozdzielczÄ….}
+{339}{}{Za dziesiÄ™Ä‡ Å¼etonÃ³w otworzÄ™ przed tobÄ… bramy niebios.}
+{340}{}{Pobawimy siÄ™ w Pana i NiewolnicÄ™, Åowco?}
+{341}{}{Myron: DuÅ¼a gÄ™ba. MaÅ‚a reszta.}
 {342}{}{Myron to straszny wymoczek...}
 {343}{}{Homo, hetero, jestem uniwersalna...}
-{344}{}{Co on sobie myœli, ¿e padnê przed nim na kolana? }
-{345}{}{Oczywiœcie, £owco - pozwolê siê zwi¹zaæ!}
-{346}{}{Myron ci¹gle tu zagl¹da...}
-{347}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{348}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
-{349}{}{Podobno w Kociej £apce robi siê naprawdê gor¹co...}
-{350}{}{Wczoraj przez dwie godziny ucieka³am przed Myronem...}
-{351}{}{Szukasz przyjació³ki, £owco?}
+{344}{}{Co on sobie myÅ›li, Å¼e padnÄ™ przed nim na kolana? }
+{345}{}{OczywiÅ›cie, Åowco - pozwolÄ™ siÄ™ zwiÄ…zaÄ‡!}
+{346}{}{Myron ciÄ…gle tu zaglÄ…da...}
+{347}{}{Z tej cÃ³rki Bishopa jest niezÅ‚e ziÃ³Å‚ko.}
+{348}{}{Ona nie jest uzaleÅ¼niona od Jetu, tylko od seksu.}
+{349}{}{Podobno w Kociej Åapce robi siÄ™ naprawdÄ™ gorÄ…co...}
+{350}{}{Wczoraj przez dwie godziny uciekaÅ‚am przed Myronem...}
+{351}{}{Szukasz przyjaciÃ³Å‚ki, Åowco?}
 {352}{}{Jestem tu dopiero od wczoraj...}
-{353}{}{Podoba ci siê to co widzisz, £owco?}
-{354}{}{Szukasz mi³oœci, £owco?}
-{355}{}{Halo, £owco! ChodŸ do mnie. Porozmawiajmy.}
-{356}{}{::Gwi¿d¿e::}
-{357}{}{Planujesz tu zostaæ na d³u¿ej?}
-{358}{}{Nienawidzê malinek.}
-{359}{}{Mo¿e zabierzesz mnie do swojej klatki, £owco?}
-{360}{}{Za kilka ¿etonów mogê byæ tylko twoja.}
-{361}{}{Taki seks znajdziesz tylko w Reno, £owco.}
-{362}{}{Chcesz, mo¿emy siê pobawiæ.}
-{363}{}{Mówi¹ na mnie Niegrzeczna Spice.}
-{364}{}{Mówi¹ na mnie Puszczalska Spice.}
-{365}{}{Mówi¹ na mnie Wyuzdana Spice.}
-{366}{}{Mówi¹ na mnie Starsza Spice.}
-{367}{}{Mówi¹ na mnie Syfili... to znaczy - Puszczalska Spice.}
-{368}{}{Mówi¹ na mnie Szybka Spice.}
-{369}{}{Obs³ugujê tylko mê¿czyzn z prawdziwego zdarzenia.}
-{370}{}{Mam przyjació³kê, jeœli bawi¹ ciê trójk¹ty, £owco.}
-{371}{}{Szkoda, ¿e Myron nie jest gejem.}
-{372}{}{Nowy ogier w mieœcie...}
-{373}{}{Nie mam pojêcia dlaczego nazywaj¹ to Alej¹ Dziewic...}
-{374}{}{Naprawdê potrafisz wbijaæ cz³onkiem szeœciocalowe gwoŸdzie?}
-{375}{}{Czasem przyda³aby mi siê papierowa torba...}
-{376}{}{Chcesz mi postawiæ drinka, £owco?}
-{377}{}{Chcesz mnie zabraæ na miasto, £owco?}
-{378}{}{Szukasz przyjació³ki, £owco?}
-{379}{}{Chcesz spróbowaæ najlepszego towaru w Reno, £owco?}
-{380}{}{ChodŸ do mnie, £ocwo. Przedstawienie zaraz siê zacznie...}
-{381}{}{Podobno jakieœ dziewczyny na przedmieœciach zat³uk³y swojego alfonsa.}
-{382}{}{Znajdziesz tu najpiêkniejsze kobiety Pustkowi, £owco...}
-{383}{}{Jules móg³by siê wreszcie ode mnie odczepiæ.}
-{384}{}{Znów rozciê³am sobie czo³o o deskê rozdzielcz¹...}
-{385}{}{Od ostatniego zlotu jakoœ nie mogê dojœæ do siebie...}
-{386}{}{Dlaczego ten zlot ³owców niewolników musi siê odbywaæ w³aœnie w Nowym Reno.}
-{387}{}{Poczu³am jak ziemia dr¿y, ale okaza³o siê, ¿e to tylko chili.}
-{388}{}{WeŸ mnie.}
-{389}{}{Jeœli ten goœæ nie przyhamuje, wysi¹dzie mu pikawa...}
-{390}{}{Zajmê siê tob¹ jak nikt inny, £owco.}
-{391}{}{Jestem dziewic¹. To bêdzie mój pierwszy raz.}
-{392}{}{Jules dalej próbuje handlowaæ na Drugiej Ulicy...}
-{393}{}{Hej, £owco! Oprowadziæ ciê po mieœcie?}
-{394}{}{Jules bez przerwy prosi mnie o darmow¹ próbkê.}
-{395}{}{Chcesz mnie poskromiæ, £owco?}
-{396}{}{Podobno miêdzy rodzinami znów dochodzi do spiêæ.}
-{397}{}{Mamy ostatnio zastój w interesie. Ciekawe kiedy zjawi siê jakaœ karawana.}
-{398}{}{Wtedy on przebra³ siê w kostium szpona œmierci i...}
-{399}{}{Pomo¿esz mi wydostaæ siê z tej... sukienki?}
-{400}{}{Strasznie tu gor¹co. Mo¿e siê rozbiorê?}
-{401}{}{Mmm-mmm. Zbli¿a siê sezon godowy.}
-{402}{}{Szukasz przyjació³ki?}
-{403}{}{W zesz³ym tygodniu musia³am kopn¹æ Julesa w jego klejnoty rodowe.}
-{404}{}{Chcesz zaznaæ prawdziwej rozkoszy, £owco?}
-{405}{}{Nie bez powodu mam na imiê Tania.}
+{353}{}{Podoba ci siÄ™ to co widzisz, Åowco?}
+{354}{}{Szukasz miÅ‚oÅ›ci, Åowco?}
+{355}{}{Halo, Åowco! ChodÅº do mnie. Porozmawiajmy.}
+{356}{}{::GwiÅ¼dÅ¼e::}
+{357}{}{Planujesz tu zostaÄ‡ na dÅ‚uÅ¼ej?}
+{358}{}{NienawidzÄ™ malinek.}
+{359}{}{MoÅ¼e zabierzesz mnie do swojej klatki, Åowco?}
+{360}{}{Za kilka Å¼etonÃ³w mogÄ™ byÄ‡ tylko twoja.}
+{361}{}{Taki seks znajdziesz tylko w Reno, Åowco.}
+{362}{}{Chcesz, moÅ¼emy siÄ™ pobawiÄ‡.}
+{363}{}{MÃ³wiÄ… na mnie Niegrzeczna Spice.}
+{364}{}{MÃ³wiÄ… na mnie Puszczalska Spice.}
+{365}{}{MÃ³wiÄ… na mnie Wyuzdana Spice.}
+{366}{}{MÃ³wiÄ… na mnie Starsza Spice.}
+{367}{}{MÃ³wiÄ… na mnie Syfili... to znaczy - Puszczalska Spice.}
+{368}{}{MÃ³wiÄ… na mnie Szybka Spice.}
+{369}{}{ObsÅ‚ugujÄ™ tylko mÄ™Å¼czyzn z prawdziwego zdarzenia.}
+{370}{}{Mam przyjaciÃ³Å‚kÄ™, jeÅ›li bawiÄ… ciÄ™ trÃ³jkÄ…ty, Åowco.}
+{371}{}{Szkoda, Å¼e Myron nie jest gejem.}
+{372}{}{Nowy ogier w mieÅ›cie...}
+{373}{}{Nie mam pojÄ™cia dlaczego nazywajÄ… to AlejÄ… Dziewic...}
+{374}{}{NaprawdÄ™ potrafisz wbijaÄ‡ czÅ‚onkiem szeÅ›ciocalowe gwoÅºdzie?}
+{375}{}{Czasem przydaÅ‚aby mi siÄ™ papierowa torba...}
+{376}{}{Chcesz mi postawiÄ‡ drinka, Åowco?}
+{377}{}{Chcesz mnie zabraÄ‡ na miasto, Åowco?}
+{378}{}{Szukasz przyjaciÃ³Å‚ki, Åowco?}
+{379}{}{Chcesz sprÃ³bowaÄ‡ najlepszego towaru w Reno, Åowco?}
+{380}{}{ChodÅº do mnie, Åocwo. Przedstawienie zaraz siÄ™ zacznie...}
+{381}{}{Podobno jakieÅ› dziewczyny na przedmieÅ›ciach zatÅ‚ukÅ‚y swojego alfonsa.}
+{382}{}{Znajdziesz tu najpiÄ™kniejsze kobiety Pustkowi, Åowco...}
+{383}{}{Jules mÃ³gÅ‚by siÄ™ wreszcie ode mnie odczepiÄ‡.}
+{384}{}{ZnÃ³w rozciÄ™Å‚am sobie czoÅ‚o o deskÄ™ rozdzielczÄ…...}
+{385}{}{Od ostatniego zlotu jakoÅ› nie mogÄ™ dojÅ›Ä‡ do siebie...}
+{386}{}{Dlaczego ten zlot Å‚owcÃ³w niewolnikÃ³w musi siÄ™ odbywaÄ‡ wÅ‚aÅ›nie w Nowym Reno.}
+{387}{}{PoczuÅ‚am jak ziemia drÅ¼y, ale okazaÅ‚o siÄ™, Å¼e to tylko chili.}
+{388}{}{WeÅº mnie.}
+{389}{}{JeÅ›li ten goÅ›Ä‡ nie przyhamuje, wysiÄ…dzie mu pikawa...}
+{390}{}{ZajmÄ™ siÄ™ tobÄ… jak nikt inny, Åowco.}
+{391}{}{Jestem dziewicÄ…. To bÄ™dzie mÃ³j pierwszy raz.}
+{392}{}{Jules dalej prÃ³buje handlowaÄ‡ na Drugiej Ulicy...}
+{393}{}{Hej, Åowco! OprowadziÄ‡ ciÄ™ po mieÅ›cie?}
+{394}{}{Jules bez przerwy prosi mnie o darmowÄ… prÃ³bkÄ™.}
+{395}{}{Chcesz mnie poskromiÄ‡, Åowco?}
+{396}{}{Podobno miÄ™dzy rodzinami znÃ³w dochodzi do spiÄ™Ä‡.}
+{397}{}{Mamy ostatnio zastÃ³j w interesie. Ciekawe kiedy zjawi siÄ™ jakaÅ› karawana.}
+{398}{}{Wtedy on przebraÅ‚ siÄ™ w kostium szpona Å›mierci i...}
+{399}{}{PomoÅ¼esz mi wydostaÄ‡ siÄ™ z tej... sukienki?}
+{400}{}{Strasznie tu gorÄ…co. MoÅ¼e siÄ™ rozbiorÄ™?}
+{401}{}{Mmm-mmm. ZbliÅ¼a siÄ™ sezon godowy.}
+{402}{}{Szukasz przyjaciÃ³Å‚ki?}
+{403}{}{W zeszÅ‚ym tygodniu musiaÅ‚am kopnÄ…Ä‡ Julesa w jego klejnoty rodowe.}
+{404}{}{Chcesz zaznaÄ‡ prawdziwej rozkoszy, Åowco?}
+{405}{}{Nie bez powodu mam na imiÄ™ Tania.}
 {406}{}{Uwielbiam te kondomy o braminowym smaku.}
-{407}{}{Zabierzesz damê na miasto, £owco?}
-{408}{}{Myron bez przerwy mnie zaczepia. No ale przynajmniej dobrze p³aci.}
+{407}{}{Zabierzesz damÄ™ na miasto, Åowco?}
+{408}{}{Myron bez przerwy mnie zaczepia. No ale przynajmniej dobrze pÅ‚aci.}
 {409}{}{Dam ci wszystko, czego potrzebujesz.}
-{410}{}{Szukasz Cudownej Krainy? Ja ci j¹ poka¿ê.}
-{411}{}{Za parê ¿etonów mogê byæ tylko twoja.}
-{412}{}{Mo¿esz mi pomóc? Zgubi³am gdzieœ swoje dziewictwo.}
-{413}{}{Jestem dziewic¹, ale potrzebujê pieniêdzy.}
-{414}{}{B¹dŸ delikatny. To mój pierwszy raz... dzisiaj.}
+{410}{}{Szukasz Cudownej Krainy? Ja ci jÄ… pokaÅ¼Ä™.}
+{411}{}{Za parÄ™ Å¼etonÃ³w mogÄ™ byÄ‡ tylko twoja.}
+{412}{}{MoÅ¼esz mi pomÃ³c? ZgubiÅ‚am gdzieÅ› swoje dziewictwo.}
+{413}{}{Jestem dziewicÄ…, ale potrzebujÄ™ pieniÄ™dzy.}
+{414}{}{BÄ…dÅº delikatny. To mÃ³j pierwszy raz... dzisiaj.}
 {415}{}{Moja napalona.}
-{416}{}{Ty po¿¹dasz, ja zaspokajam.}
-{417}{}{Fizycznie niemo¿liwe? I co z tego!}
-{418}{}{Zatañczymy, kochanie?}
-{419}{}{Bierz siê do pracy, górniku!}
-{420}{}{Mam byæ g³oœno czy cichutko jak myszka?}
+{416}{}{Ty poÅ¼Ä…dasz, ja zaspokajam.}
+{417}{}{Fizycznie niemoÅ¼liwe? I co z tego!}
+{418}{}{ZataÅ„czymy, kochanie?}
+{419}{}{Bierz siÄ™ do pracy, gÃ³rniku!}
+{420}{}{Mam byÄ‡ gÅ‚oÅ›no czy cichutko jak myszka?}
 {421}{}{::Mrrrrau::}
 {422}{}{::Grrr::}
-{423}{}{::Posy³a ci ca³usa::}
-{424}{}{Podobam ci siê?}
+{423}{}{::PosyÅ‚a ci caÅ‚usa::}
+{424}{}{Podobam ci siÄ™?}
 {425}{}{Nie jestem tania, ale nie ma drugiej takiej jak ja.}
-{426}{}{Wi¹zanie kosztuje ekstra.}
-{427}{}{Gdzie ja podzia³am mój pejcz?}
+{426}{}{WiÄ…zanie kosztuje ekstra.}
+{427}{}{Gdzie ja podziaÅ‚am mÃ³j pejcz?}
 {428}{}{Gotowa do akcji.}
-{429}{}{Ostatniej nocy musia³am siê przebraæ za Larê Croft.}
-{430}{}{By³am wczoraj z Myronem. Przez ca³e piêæ sekund.}
-{431}{}{Mogliby wreszcie wymyœliæ jakieœ perfumy o zapachu Jetu...}
-{432}{}{Ty³ek mi odpadnie jeœli Myron siê nie opanuje.}
-{433}{}{Cholerna Unia WstrzemiêŸliwoœci znowu nas nachodzi...}
-{434}{}{::Gwi¿d¿e::}
-{435}{}{¯aden Pip-Boy nie da ci tyle radoœci co ja.}
-{436}{}{Lubisz byæ krótko trzymany, £owco?}
-{437}{}{Najchêtniej przespa³abym siê z Avellonem.}
-{438}{}{Szkoda, ¿e nie ma tu Nicka Kestinga. Moglibyœmy rozmawiaæ do bia³ego rana!}
-{439}{}{Nick Kesting to naprawdê mi³y facet. Przyjemnie siê z nim rozmawia.}
+{429}{}{Ostatniej nocy musiaÅ‚am siÄ™ przebraÄ‡ za LarÄ™ Croft.}
+{430}{}{ByÅ‚am wczoraj z Myronem. Przez caÅ‚e piÄ™Ä‡ sekund.}
+{431}{}{Mogliby wreszcie wymyÅ›liÄ‡ jakieÅ› perfumy o zapachu Jetu...}
+{432}{}{TyÅ‚ek mi odpadnie jeÅ›li Myron siÄ™ nie opanuje.}
+{433}{}{Cholerna Unia WstrzemiÄ™ÅºliwoÅ›ci znowu nas nachodzi...}
+{434}{}{::GwiÅ¼dÅ¼e::}
+{435}{}{Å»aden Pip-Boy nie da ci tyle radoÅ›ci co ja.}
+{436}{}{Lubisz byÄ‡ krÃ³tko trzymany, Åowco?}
+{437}{}{NajchÄ™tniej przespaÅ‚abym siÄ™ z Avellonem.}
+{438}{}{Szkoda, Å¼e nie ma tu Nicka Kestinga. MoglibyÅ›my rozmawiaÄ‡ do biaÅ‚ego rana!}
+{439}{}{Nick Kesting to naprawdÄ™ miÅ‚y facet. Przyjemnie siÄ™ z nim rozmawia.}
 {440}{}{Tommy Trzy Jajca jest niesamowity.}
-{441}{}{No proszê. Zobaczcie kto przyby³ do miasta...}
-{442}{}{Wygl¹dasz mi na kogoœ z du¿¹ iloœci¹ wolnego czasu.}
+{441}{}{No proszÄ™. Zobaczcie kto przybyÅ‚ do miasta...}
+{442}{}{WyglÄ…dasz mi na kogoÅ› z duÅ¼Ä… iloÅ›ciÄ… wolnego czasu.}
 {443}{}{O rany! Turysta!}
 {444}{}{Gryzienie kosztuje ekstra.}
-{445}{}{Jestem Tania, £owczyni. A ty jak masz na imiê?}
-{446}{}{Hej, £owczyni! Szukasz towarzystwa?}
-{447}{}{Chcesz zobaczyæ jak to jest byæ z kobiet¹, £owczyni?}
-{448}{}{Potrzebujesz niewolnicy na dzisiejsz¹ noc, £owczyni?}
-{449}{}{Szukasz kogoœ, kto ogrzeje ciê w nocy, £owczyni?}
+{445}{}{Jestem Tania, Åowczyni. A ty jak masz na imiÄ™?}
+{446}{}{Hej, Åowczyni! Szukasz towarzystwa?}
+{447}{}{Chcesz zobaczyÄ‡ jak to jest byÄ‡ z kobietÄ…, Åowczyni?}
+{448}{}{Potrzebujesz niewolnicy na dzisiejszÄ… noc, Åowczyni?}
+{449}{}{Szukasz kogoÅ›, kto ogrzeje ciÄ™ w nocy, Åowczyni?}
 {450}{}{Szukasz towarzyszki zabaw?}
-{451}{}{Zatañczymy, £owczyni?}
+{451}{}{ZataÅ„czymy, Åowczyni?}
 {452}{}{Prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{453}{}{Chcesz siê zabawiæ?}
-{454}{}{Zgubi³aœ siê, £owczyni?}
-{455}{}{Chcesz siê trochê zabawiæ, £owczyni?}
-{456}{}{Nie wiedzia³am, ¿e do gildii ³owców niewolników przyjmuj¹ równie¿ kobiety...}
-{457}{}{Pali siê gdzieœ, £owczyni?}
-{458}{}{Z tej £owczyni jest niez³y kociak.}
-{459}{}{Przy tej £owczyni mój wewnêtrzny licznik Geigera zaczyna wariowaæ.}
-{460}{}{Zapewniam ciê, ¿e jestem sto razy lepsza ni¿ ta kupa z³omu, któr¹ za sob¹ ci¹gniesz.}
-{461}{}{Czy ten robot jest W PE£NI sprawny?}
-{462}{}{Czy to coœ za tob¹ to jakiœ automat do gry?}
+{453}{}{Chcesz siÄ™ zabawiÄ‡?}
+{454}{}{ZgubiÅ‚aÅ› siÄ™, Åowczyni?}
+{455}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡, Åowczyni?}
+{456}{}{Nie wiedziaÅ‚am, Å¼e do gildii Å‚owcÃ³w niewolnikÃ³w przyjmujÄ… rÃ³wnieÅ¼ kobiety...}
+{457}{}{Pali siÄ™ gdzieÅ›, Åowczyni?}
+{458}{}{Z tej Åowczyni jest niezÅ‚y kociak.}
+{459}{}{Przy tej Åowczyni mÃ³j wewnÄ™trzny licznik Geigera zaczyna wariowaÄ‡.}
+{460}{}{Zapewniam ciÄ™, Å¼e jestem sto razy lepsza niÅ¼ ta kupa zÅ‚omu, ktÃ³rÄ… za sobÄ… ciÄ…gniesz.}
+{461}{}{Czy ten robot jest W PEÅNI sprawny?}
+{462}{}{Czy to coÅ› za tobÄ… to jakiÅ› automat do gry?}
 {463}{}{Czy to jest robo-automat do gry?}
-{464}{}{Czy twój robot potrafi robiæ sztuczki? Eee... magiczne sztuczki!}
-{465}{}{Powiedz mi, ¿e to nie jest mutant.}
-{466}{}{Ten mutant bêdzie kosztowa³ ekstra. DUU¯O ekstra.}
-{467}{}{O nie! Mutant w Nowym Reno! Bêd¹ z tego k³opoty.}
+{464}{}{Czy twÃ³j robot potrafi robiÄ‡ sztuczki? Eee... magiczne sztuczki!}
+{465}{}{Powiedz mi, Å¼e to nie jest mutant.}
+{466}{}{Ten mutant bÄ™dzie kosztowaÅ‚ ekstra. DUUÅ»O ekstra.}
+{467}{}{O nie! Mutant w Nowym Reno! BÄ™dÄ… z tego kÅ‚opoty.}
 {468}{}{Ten mutant to...}
-{469}{}{Ten mutant wygl¹da jakby móg³ mnie zgnieœæ jedn¹ rêk¹. Hmmmnnn.}
-{470}{}{Nawet nie wiem, ile bym za¿¹da³a za obs³u¿enie mutanta.}
+{469}{}{Ten mutant wyglÄ…da jakby mÃ³gÅ‚ mnie zgnieÅ›Ä‡ jednÄ… rÄ™kÄ…. Hmmmnnn.}
+{470}{}{Nawet nie wiem, ile bym zaÅ¼Ä…daÅ‚a za obsÅ‚uÅ¼enie mutanta.}
 {471}{}{Hej, Myron!}
-{472}{}{Myron! Z³otko! Kiedy wreszcie do mnie zajrzysz?}
+{472}{}{Myron! ZÅ‚otko! Kiedy wreszcie do mnie zajrzysz?}
 {473}{}{My-ron. Myyyyyy-ron.}
-{474}{}{Myron, kogo tam ze sob¹ prowadzisz?}
-{475}{}{Myron, z³otko! Myron! Szukasz zabawy?}
+{474}{}{Myron, kogo tam ze sobÄ… prowadzisz?}
+{475}{}{Myron, zÅ‚otko! Myron! Szukasz zabawy?}
 {476}{}{Haaalo! Myron!}
-{477}{}{Têskni³am za tob¹, Myron!}
-{478}{}{Myron, jesteœ taaaaki niesamowity.}
+{477}{}{TÄ™skniÅ‚am za tobÄ…, Myron!}
+{478}{}{Myron, jesteÅ› taaaaki niesamowity.}
 {479}{}{Myron, kiedy znowu mnie odwiedzisz?}
-{480}{}{Mo¿esz mi za³atwiæ trochê Jetu, co Myron?}
-{481}{}{Masz dla mnie dzia³kê Jetu, Myron?}
-{482}{}{Pomo¿esz mi odlecieæ, Myron?}
-{483}{}{Jestem Tania. A ty jak masz na imiê?}
+{480}{}{MoÅ¼esz mi zaÅ‚atwiÄ‡ trochÄ™ Jetu, co Myron?}
+{481}{}{Masz dla mnie dziaÅ‚kÄ™ Jetu, Myron?}
+{482}{}{PomoÅ¼esz mi odlecieÄ‡, Myron?}
+{483}{}{Jestem Tania. A ty jak masz na imiÄ™?}
 {484}{}{Szukasz towarzystwa?}
-{485}{}{Nauczê ciê paru sztuczek o poskramianiu kobiet.}
-{486}{}{Szukasz towarzystwa na jedn¹ noc?}
-{487}{}{Szukasz nowej towarzyszki podró¿y?}
-{488}{}{Niez³y sprzêt.}
-{489}{}{Co to, masz wê¿a w kieszeni? A mo¿e w rozporku?!}
-{490}{}{Chcesz siê zabawiæ?}
+{485}{}{NauczÄ™ ciÄ™ paru sztuczek o poskramianiu kobiet.}
+{486}{}{Szukasz towarzystwa na jednÄ… noc?}
+{487}{}{Szukasz nowej towarzyszki podrÃ³Å¼y?}
+{488}{}{NiezÅ‚y sprzÄ™t.}
+{489}{}{Co to, masz wÄ™Å¼a w kieszeni? A moÅ¼e w rozporku?!}
+{490}{}{Chcesz siÄ™ zabawiÄ‡?}
 {491}{}{Prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{492}{}{Szukasz towarzystwa, £owco?}
-{493}{}{Podobno w Dzielnicy Handlowej by³y jakieœ k³opoty...}
+{492}{}{Szukasz towarzystwa, Åowco?}
+{493}{}{Podobno w Dzielnicy Handlowej byÅ‚y jakieÅ› kÅ‚opoty...}
 {494}{}{Szukasz towarzystwa?}
-{495}{}{Od rana nie mia³am w ustach nic ciep³ego...}
-{496}{}{Zatañczymy?}
+{495}{}{Od rana nie miaÅ‚am w ustach nic ciepÅ‚ego...}
+{496}{}{ZataÅ„czymy?}
 {497}{}{Zapomnij o automatach do gry. U mnie sukses masz gwarantowany.}
-{498}{}{A¿ trudno uwierzyæ, ile striptizerek œci¹gnêli na wieczór kawalerski Feargusa.}
+{498}{}{AÅ¼ trudno uwierzyÄ‡, ile striptizerek Å›ciÄ…gnÄ™li na wieczÃ³r kawalerski Feargusa.}
 {499}{}{Pierwszy raz w Nowym Reno?}
-{500}{}{Naprawdê potrafisz wbijaæ cz³onkiem szeœciocalowe gwoŸdzie?}
-{501}{}{Zabawimy siê?}
-{502}{}{Ju¿ od dawna nie by³o u nas karawany z Redding.}
-{503}{}{Niez³y sprzêt.}
-{504}{}{Potrzebujesz pocieszycielki, £owco.}
-{505}{}{Zgubi³eœ siê, kowboju?}
-{506}{}{Chcesz roz³adowaæ magazynek, ¿o³nierzu?}
-{507}{}{Ten goœæ roztapia mnie samym spojrzeniem.}
-{508}{}{Za du¿o dziewczyn pracuje w tej bran¿y. Trudno zwi¹zaæ koniec z koñcem.}
-{509}{}{To mój pierwszy dzieñ w pracy...}
-{510}{}{Szukasz przyjació³ki na dzisiejsz¹ noc? A mo¿e tylko na dziesiêæ minut?}
-{511}{}{Chcesz siê trochê zabawiæ?}
-{512}{}{Chcesz mnie zabraæ na miasto?}
-{513}{}{Podoba mi siê twój gekon.}
+{500}{}{NaprawdÄ™ potrafisz wbijaÄ‡ czÅ‚onkiem szeÅ›ciocalowe gwoÅºdzie?}
+{501}{}{Zabawimy siÄ™?}
+{502}{}{JuÅ¼ od dawna nie byÅ‚o u nas karawany z Redding.}
+{503}{}{NiezÅ‚y sprzÄ™t.}
+{504}{}{Potrzebujesz pocieszycielki, Åowco.}
+{505}{}{ZgubiÅ‚eÅ› siÄ™, kowboju?}
+{506}{}{Chcesz rozÅ‚adowaÄ‡ magazynek, Å¼oÅ‚nierzu?}
+{507}{}{Ten goÅ›Ä‡ roztapia mnie samym spojrzeniem.}
+{508}{}{Za duÅ¼o dziewczyn pracuje w tej branÅ¼y. Trudno zwiÄ…zaÄ‡ koniec z koÅ„cem.}
+{509}{}{To mÃ³j pierwszy dzieÅ„ w pracy...}
+{510}{}{Szukasz przyjaciÃ³Å‚ki na dzisiejszÄ… noc? A moÅ¼e tylko na dziesiÄ™Ä‡ minut?}
+{511}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡?}
+{512}{}{Chcesz mnie zabraÄ‡ na miasto?}
+{513}{}{Podoba mi siÄ™ twÃ³j gekon.}
 {514}{}{Co to, masz gekona w kieszeni?}
-{515}{}{Potrzebujesz przewodniczki, s³onko?}
-{516}{}{Pali siê gdzieœ?}
-{517}{}{Dzieciaku, zrobiê z ciebie mê¿czyznê.}
-{518}{}{Ludzie nie okazuj¹ nam nale¿nego szacunku. Przecie¿ to zawód jak ka¿dy inny.}
-{519}{}{Mo¿e bêdziemy udawaæ szpony œmierci w sezonie godowym?}
-{520}{}{Przy nim mój wewnêtrzny licznik Geigera zaczyna wariowaæ.}
-{521}{}{Za rozmowê po sprawie p³aci siê ekstra.}
-{522}{}{Mogê ci w czymœ pomóc, nieznajomy?}
+{515}{}{Potrzebujesz przewodniczki, sÅ‚onko?}
+{516}{}{Pali siÄ™ gdzieÅ›?}
+{517}{}{Dzieciaku, zrobiÄ™ z ciebie mÄ™Å¼czyznÄ™.}
+{518}{}{Ludzie nie okazujÄ… nam naleÅ¼nego szacunku. PrzecieÅ¼ to zawÃ³d jak kaÅ¼dy inny.}
+{519}{}{MoÅ¼e bÄ™dziemy udawaÄ‡ szpony Å›mierci w sezonie godowym?}
+{520}{}{Przy nim mÃ³j wewnÄ™trzny licznik Geigera zaczyna wariowaÄ‡.}
+{521}{}{Za rozmowÄ™ po sprawie pÅ‚aci siÄ™ ekstra.}
+{522}{}{MogÄ™ ci w czymÅ› pomÃ³c, nieznajomy?}
 {523}{}{Prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{524}{}{Ten twój kolega z koœci¹ w nosie... bardzo interesuj¹cy.}
-{525}{}{Ten twój znajomek z koœci¹ w nosie rekompensuje sobie jakieœ braki?}
-{526}{}{Mo¿e ja te¿ powinnam sobie wsadziæ koœæ do nosa. To przyci¹gnie wiêcej kobiet.}
-{527}{}{Ta koœæ w nosie tego goœcia jest wielkoœci mojego ramienia. Chryyy-ste.}
-{528}{}{Nawet nie chcê wiedzieæ jak ta koœæ znalaz³a siê w jego nosie.}
-{529}{}{Ten twój kolega z koœci¹ w nosie jest z naszej bran¿y?}
-{530}{}{Ile bierze za numerek ten twój kole¿ka z koœci¹ w nosie?}
-{531}{}{Za trzydzieœci ¿etonów sprawiê, ¿e koœæ w nosie twojego kolegi stanie na bacznoœæ.}
-{532}{}{Twój przyjaciel rekompensuje sobie t¹ koœci¹ jakieœ braki?}
-{533}{}{Zainstalowa³am ju¿ tê obijan¹ pluszem deskê rozdzielcz¹.}
-{534}{}{Cudowna Kraina? Dziesiêæ ¿etonów.}
-{535}{}{Myron: Du¿a gêba. Ma³a reszta.}
+{524}{}{Ten twÃ³j kolega z koÅ›ciÄ… w nosie... bardzo interesujÄ…cy.}
+{525}{}{Ten twÃ³j znajomek z koÅ›ciÄ… w nosie rekompensuje sobie jakieÅ› braki?}
+{526}{}{MoÅ¼e ja teÅ¼ powinnam sobie wsadziÄ‡ koÅ›Ä‡ do nosa. To przyciÄ…gnie wiÄ™cej kobiet.}
+{527}{}{Ta koÅ›Ä‡ w nosie tego goÅ›cia jest wielkoÅ›ci mojego ramienia. Chryyy-ste.}
+{528}{}{Nawet nie chcÄ™ wiedzieÄ‡ jak ta koÅ›Ä‡ znalazÅ‚a siÄ™ w jego nosie.}
+{529}{}{Ten twÃ³j kolega z koÅ›ciÄ… w nosie jest z naszej branÅ¼y?}
+{530}{}{Ile bierze za numerek ten twÃ³j koleÅ¼ka z koÅ›ciÄ… w nosie?}
+{531}{}{Za trzydzieÅ›ci Å¼etonÃ³w sprawiÄ™, Å¼e koÅ›Ä‡ w nosie twojego kolegi stanie na bacznoÅ›Ä‡.}
+{532}{}{TwÃ³j przyjaciel rekompensuje sobie tÄ… koÅ›ciÄ… jakieÅ› braki?}
+{533}{}{ZainstalowaÅ‚am juÅ¼ tÄ™ obijanÄ… pluszem deskÄ™ rozdzielczÄ….}
+{534}{}{Cudowna Kraina? DziesiÄ™Ä‡ Å¼etonÃ³w.}
+{535}{}{Myron: DuÅ¼a gÄ™ba. MaÅ‚a reszta.}
 {536}{}{Myron to prawdziwy pajac.}
 {537}{}{Homo, hetero, jestem uniwersalna...}
-{538}{}{Co on sobie myœli, ¿e padnê przed nim na kolana? }
-{539}{}{Ten cholerny znak kiedyœ spadnie mi na g³owê...}
-{540}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{541}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
-{542}{}{Podobno w Kryptopolis s¹ tylko dwa rodzaje obywateli. Mo¿e oni ich klonuj¹?}
-{543}{}{Czujê siê jakbym wczoraj w nocy bra³a udzia³ w maratonie...}
+{538}{}{Co on sobie myÅ›li, Å¼e padnÄ™ przed nim na kolana? }
+{539}{}{Ten cholerny znak kiedyÅ› spadnie mi na gÅ‚owÄ™...}
+{540}{}{Z tej cÃ³rki Bishopa jest niezÅ‚e ziÃ³Å‚ko.}
+{541}{}{Ona nie jest uzaleÅ¼niona od Jetu, tylko od seksu.}
+{542}{}{Podobno w Kryptopolis sÄ… tylko dwa rodzaje obywateli. MoÅ¼e oni ich klonujÄ…?}
+{543}{}{CzujÄ™ siÄ™ jakbym wczoraj w nocy braÅ‚a udziaÅ‚ w maratonie...}
 {544}{}{Szukasz rozrywki, skarbie?}
-{545}{}{Modlê siê, ¿eby Myron wreszcie siê st¹d wyprowadzi³. Najlepiej gdzieœ daleko.}
-{546}{}{Mogê zrobiæ co tylko zechcesz... oczywiœcie za odpowiedni¹ cenê.}
+{545}{}{ModlÄ™ siÄ™, Å¼eby Myron wreszcie siÄ™ stÄ…d wyprowadziÅ‚. Najlepiej gdzieÅ› daleko.}
+{546}{}{MogÄ™ zrobiÄ‡ co tylko zechcesz... oczywiÅ›cie za odpowiedniÄ… cenÄ™.}
 {547}{}{Jestem gotowa, skarbie. A ty?}
-{548}{}{::Gwi¿d¿e::}
-{549}{}{Nienawidzê malinek.}
-{550}{}{Spróbuj szczêœcia ze mn¹, skarbie.}
-{551}{}{Chcesz siê trochê zabawiæ?}
-{552}{}{Taki seks znajdziesz tylko w Reno, £owco.}
-{553}{}{Chcesz, mo¿emy siê pobawiæ.}
-{554}{}{Mówi¹ na mnie Niegrzeczna Spice.}
-{555}{}{Mówi¹ na mnie Puszczalska Spice.}
-{556}{}{Mówi¹ na mnie Wyuzdana Spice.}
-{557}{}{Mówi¹ na mnie Starsza Spice.}
-{558}{}{Mówi¹ na mnie Syfili... to znaczy - Puszczalska Spice.}
-{559}{}{Mówi¹ na mnie Szybka Spice.}
-{560}{}{Obs³ugujê tylko mê¿czyzn z prawdziwego zdarzenia.}
-{561}{}{Mam przyjació³kê, jeœli bawi¹ ciê trójk¹ty.}
-{562}{}{Szkoda, ¿e Myron nie jest gejem.}
-{563}{}{Nowy ogier w mieœcie...}
-{564}{}{Nie mam pojêcia dlaczego nazywaj¹ to Alej¹ Dziewic...}
-{565}{}{Czasem przyda³aby mi siê papierowa torba...}
-{566}{}{Chcesz mi postawiæ drinka?}
-{567}{}{Chcesz mnie zabraæ na miasto?}
+{548}{}{::GwiÅ¼dÅ¼e::}
+{549}{}{NienawidzÄ™ malinek.}
+{550}{}{SprÃ³buj szczÄ™Å›cia ze mnÄ…, skarbie.}
+{551}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡?}
+{552}{}{Taki seks znajdziesz tylko w Reno, Åowco.}
+{553}{}{Chcesz, moÅ¼emy siÄ™ pobawiÄ‡.}
+{554}{}{MÃ³wiÄ… na mnie Niegrzeczna Spice.}
+{555}{}{MÃ³wiÄ… na mnie Puszczalska Spice.}
+{556}{}{MÃ³wiÄ… na mnie Wyuzdana Spice.}
+{557}{}{MÃ³wiÄ… na mnie Starsza Spice.}
+{558}{}{MÃ³wiÄ… na mnie Syfili... to znaczy - Puszczalska Spice.}
+{559}{}{MÃ³wiÄ… na mnie Szybka Spice.}
+{560}{}{ObsÅ‚ugujÄ™ tylko mÄ™Å¼czyzn z prawdziwego zdarzenia.}
+{561}{}{Mam przyjaciÃ³Å‚kÄ™, jeÅ›li bawiÄ… ciÄ™ trÃ³jkÄ…ty.}
+{562}{}{Szkoda, Å¼e Myron nie jest gejem.}
+{563}{}{Nowy ogier w mieÅ›cie...}
+{564}{}{Nie mam pojÄ™cia dlaczego nazywajÄ… to AlejÄ… Dziewic...}
+{565}{}{Czasem przydaÅ‚aby mi siÄ™ papierowa torba...}
+{566}{}{Chcesz mi postawiÄ‡ drinka?}
+{567}{}{Chcesz mnie zabraÄ‡ na miasto?}
 {568}{}{O rany! Turysta!}
-{569}{}{ChodŸ do mnie, skarbie. Przedstawienie zaraz siê zacznie...}
-{570}{}{Podobno jakieœ dziewczyny na przedmieœciach zat³uk³y swojego alfonsa.}
+{569}{}{ChodÅº do mnie, skarbie. Przedstawienie zaraz siÄ™ zacznie...}
+{570}{}{Podobno jakieÅ› dziewczyny na przedmieÅ›ciach zatÅ‚ukÅ‚y swojego alfonsa.}
 {571}{}{Witaj, nieznajomy.}
-{572}{}{Jules móg³by siê wreszcie ode mnie odczepiæ.}
-{573}{}{Znów rozciê³am sobie czo³o o deskê rozdzielcz¹...}
-{574}{}{Od ostatniego zlotu jakoœ nie mogê dojœæ do siebie...}
-{575}{}{Dlaczego ten zlot dzikusów musi odbywaæ siê w³aœnie w Nowym Reno?}
-{576}{}{Poczu³am jak ziemia dr¿y, ale okaza³o siê, ¿e to tylko chili.}
-{577}{}{WeŸ mnie.}
-{578}{}{Jeœli ten goœæ nie przyhamuje, wysi¹dzie mu pikawa...}
-{579}{}{Ten brzêcz¹cy neon doprowadza mnie do sza³u...}
-{580}{}{Jestem dziewic¹. To bêdzie mój pierwszy raz.}
-{581}{}{I pomyœleæ, ¿e przyjecha³am z a¿ Nory, ¿eby utkwiæ w tym gównie...}
+{572}{}{Jules mÃ³gÅ‚by siÄ™ wreszcie ode mnie odczepiÄ‡.}
+{573}{}{ZnÃ³w rozciÄ™Å‚am sobie czoÅ‚o o deskÄ™ rozdzielczÄ…...}
+{574}{}{Od ostatniego zlotu jakoÅ› nie mogÄ™ dojÅ›Ä‡ do siebie...}
+{575}{}{Dlaczego ten zlot dzikusÃ³w musi odbywaÄ‡ siÄ™ wÅ‚aÅ›nie w Nowym Reno?}
+{576}{}{PoczuÅ‚am jak ziemia drÅ¼y, ale okazaÅ‚o siÄ™, Å¼e to tylko chili.}
+{577}{}{WeÅº mnie.}
+{578}{}{JeÅ›li ten goÅ›Ä‡ nie przyhamuje, wysiÄ…dzie mu pikawa...}
+{579}{}{Ten brzÄ™czÄ…cy neon doprowadza mnie do szaÅ‚u...}
+{580}{}{Jestem dziewicÄ…. To bÄ™dzie mÃ³j pierwszy raz.}
+{581}{}{I pomyÅ›leÄ‡, Å¼e przyjechaÅ‚am z aÅ¼ Nory, Å¼eby utkwiÄ‡ w tym gÃ³wnie...}
 {582}{}{Hej! Potrzebujesz przewodniczki?}
-{583}{}{Jules bez przerwy prosi mnie o darmow¹ próbkê.}
-{584}{}{Podobno miêdzy rodzinami znów dochodzi do spiêæ.}
-{585}{}{Mamy ostatnio zastój w interesie. Ciekawe kiedy zjawi siê jakaœ karawana.}
-{586}{}{Wtedy on przebra³ siê w kostium szpona œmierci i...}
-{587}{}{Pomo¿esz mi wydostaæ siê z tej... sukienki?}
-{588}{}{Strasznie tu gor¹co. Mo¿e siê rozbiorê?}
-{589}{}{Mmm-mmm. Zbli¿a siê sezon godowy.}
-{590}{}{Chcesz spêdziæ ze mn¹ trochê czasu?}
-{591}{}{W zesz³ym tygodniu musia³am kopn¹æ Julesa w jego klejnoty rodowe.}
-{592}{}{Nie bez powodu mam na imiê Tania.}
+{583}{}{Jules bez przerwy prosi mnie o darmowÄ… prÃ³bkÄ™.}
+{584}{}{Podobno miÄ™dzy rodzinami znÃ³w dochodzi do spiÄ™Ä‡.}
+{585}{}{Mamy ostatnio zastÃ³j w interesie. Ciekawe kiedy zjawi siÄ™ jakaÅ› karawana.}
+{586}{}{Wtedy on przebraÅ‚ siÄ™ w kostium szpona Å›mierci i...}
+{587}{}{PomoÅ¼esz mi wydostaÄ‡ siÄ™ z tej... sukienki?}
+{588}{}{Strasznie tu gorÄ…co. MoÅ¼e siÄ™ rozbiorÄ™?}
+{589}{}{Mmm-mmm. ZbliÅ¼a siÄ™ sezon godowy.}
+{590}{}{Chcesz spÄ™dziÄ‡ ze mnÄ… trochÄ™ czasu?}
+{591}{}{W zeszÅ‚ym tygodniu musiaÅ‚am kopnÄ…Ä‡ Julesa w jego klejnoty rodowe.}
+{592}{}{Nie bez powodu mam na imiÄ™ Tania.}
 {593}{}{Uwielbiam te kondomy o braminowym smaku.}
 {594}{}{Zabierzesz mnie na miasto?}
-{595}{}{Mo¿e kupimy Myronowi na urodziny gumow¹ lalkê. Albo lepiej dwie.}
+{595}{}{MoÅ¼e kupimy Myronowi na urodziny gumowÄ… lalkÄ™. Albo lepiej dwie.}
 {596}{}{Szukasz towarzystwa, dzikusku?}
 {597}{}{Pofiglujemy, dzikusku?}
-{598}{}{Mo¿e odtañczysz taniec deszczu w mojej sypialni, co dzikusku?}
-{599}{}{Jedna noc ze mn¹ i œwiat ju¿ nigdy nie bêdzie taki sam.}
-{600}{}{Szukasz Cudownej Krainy? ChodŸ do mojej sypialni.}
-{601}{}{Za kilka ¿etonów mogê byæ twoja.}
-{602}{}{Mo¿esz mi pomóc? Zgubi³am gdzieœ swoje dziewictwo.}
-{603}{}{Jestem dziewic¹, ale potrzebujê pieniêdzy.}
-{604}{}{B¹dŸ delikatny. To mój pierwszy raz... dzisiaj.}
+{598}{}{MoÅ¼e odtaÅ„czysz taniec deszczu w mojej sypialni, co dzikusku?}
+{599}{}{Jedna noc ze mnÄ… i Å›wiat juÅ¼ nigdy nie bÄ™dzie taki sam.}
+{600}{}{Szukasz Cudownej Krainy? ChodÅº do mojej sypialni.}
+{601}{}{Za kilka Å¼etonÃ³w mogÄ™ byÄ‡ twoja.}
+{602}{}{MoÅ¼esz mi pomÃ³c? ZgubiÅ‚am gdzieÅ› swoje dziewictwo.}
+{603}{}{Jestem dziewicÄ…, ale potrzebujÄ™ pieniÄ™dzy.}
+{604}{}{BÄ…dÅº delikatny. To mÃ³j pierwszy raz... dzisiaj.}
 {605}{}{Moja napalona.}
-{606}{}{Ty po¿¹dasz, ja zaspokajam.}
-{607}{}{Fizycznie niemo¿liwe? I co z tego!}
-{608}{}{Zatañczymy, kochanie?}
-{609}{}{Bierz siê do pracy, górniku!}
-{610}{}{Mam byæ g³oœno czy cichutko jak myszka?}
+{606}{}{Ty poÅ¼Ä…dasz, ja zaspokajam.}
+{607}{}{Fizycznie niemoÅ¼liwe? I co z tego!}
+{608}{}{ZataÅ„czymy, kochanie?}
+{609}{}{Bierz siÄ™ do pracy, gÃ³rniku!}
+{610}{}{Mam byÄ‡ gÅ‚oÅ›no czy cichutko jak myszka?}
 {611}{}{::Mrrrrau::}
 {612}{}{::Grrr::}
-{613}{}{::Posy³a ci ca³usa::}
-{614}{}{Nie œpiê od dwóch dni...}
+{613}{}{::PosyÅ‚a ci caÅ‚usa::}
+{614}{}{Nie Å›piÄ™ od dwÃ³ch dni...}
 {615}{}{Nie jestem tania, ale nie ma drugiej takiej jak ja.}
-{616}{}{Wi¹zanie kosztuje ekstra.}
-{617}{}{Gdzie ja podzia³am mój pejcz?}
+{616}{}{WiÄ…zanie kosztuje ekstra.}
+{617}{}{Gdzie ja podziaÅ‚am mÃ³j pejcz?}
 {618}{}{Gotowa do akcji.}
-{619}{}{Ostatniej nocy musia³am siê przebraæ za Larê Croft.}
-{620}{}{By³am wczoraj z Myronem. Przez ca³e piêæ sekund.}
-{621}{}{Mam ci roz³adowaæ magazynek?}
-{622}{}{Mogliby wreszcie wymyœliæ jakieœ perfumy o zapachu Jetu...}
-{623}{}{Mo¿e pomo¿esz biednej dziewczynie straciæ dziewictwo?}
-{624}{}{Ty³ek mi odpadnie jeœli Myron siê nie opanuje.}
-{625}{}{Cholerna Unia WstrzemiêŸliwoœci znowu nas nachodzi...}
-{626}{}{::Gwi¿d¿e::}
+{619}{}{Ostatniej nocy musiaÅ‚am siÄ™ przebraÄ‡ za LarÄ™ Croft.}
+{620}{}{ByÅ‚am wczoraj z Myronem. Przez caÅ‚e piÄ™Ä‡ sekund.}
+{621}{}{Mam ci rozÅ‚adowaÄ‡ magazynek?}
+{622}{}{Mogliby wreszcie wymyÅ›liÄ‡ jakieÅ› perfumy o zapachu Jetu...}
+{623}{}{MoÅ¼e pomoÅ¼esz biednej dziewczynie straciÄ‡ dziewictwo?}
+{624}{}{TyÅ‚ek mi odpadnie jeÅ›li Myron siÄ™ nie opanuje.}
+{625}{}{Cholerna Unia WstrzemiÄ™ÅºliwoÅ›ci znowu nas nachodzi...}
+{626}{}{::GwiÅ¼dÅ¼e::}
 {627}{}{Gryzienie kosztuje ekstra.}
-{628}{}{¯aden Pip-Boy nie da ci tyle radoœci co ja.}
-{629}{}{Chcesz siê ostro zabawiæ?}
-{630}{}{Najchêtniej przespa³abym siê z Avellonem.}
-{631}{}{Szkoda, ¿e nie ma tu Nicka Kestinga. Moglibyœmy rozmawiaæ do bia³ego rana!}
-{632}{}{Nick Kesting to naprawdê mi³y facet. Przyjemnie siê z nim rozmawia.}
+{628}{}{Å»aden Pip-Boy nie da ci tyle radoÅ›ci co ja.}
+{629}{}{Chcesz siÄ™ ostro zabawiÄ‡?}
+{630}{}{NajchÄ™tniej przespaÅ‚abym siÄ™ z Avellonem.}
+{631}{}{Szkoda, Å¼e nie ma tu Nicka Kestinga. MoglibyÅ›my rozmawiaÄ‡ do biaÅ‚ego rana!}
+{632}{}{Nick Kesting to naprawdÄ™ miÅ‚y facet. Przyjemnie siÄ™ z nim rozmawia.}
 {633}{}{Tommy Trzy Jajca jest niesamowity.}
-{634}{}{No proszê. Patrzcie kto w³aœnie przyby³ do miasta.}
-{635}{}{Szukasz Cudownej Krainy? ChodŸ do mojej sypialni.}
-{636}{}{Spróbuj szczêœcia ze mn¹, skarbie.}
-{637}{}{Jestem Tania. A ty jak masz na imiê?}
-{638}{}{Hej, s³odziutka. Szukasz kobiety?}
-{639}{}{Chcesz zobaczyæ jak to jest byæ z kobiet¹, £owczyni?}
+{634}{}{No proszÄ™. Patrzcie kto wÅ‚aÅ›nie przybyÅ‚ do miasta.}
+{635}{}{Szukasz Cudownej Krainy? ChodÅº do mojej sypialni.}
+{636}{}{SprÃ³buj szczÄ™Å›cia ze mnÄ…, skarbie.}
+{637}{}{Jestem Tania. A ty jak masz na imiÄ™?}
+{638}{}{Hej, sÅ‚odziutka. Szukasz kobiety?}
+{639}{}{Chcesz zobaczyÄ‡ jak to jest byÄ‡ z kobietÄ…, Åowczyni?}
 {640}{}{Szukasz towarzystwa?}
-{641}{}{Nauczê ciê takich sztuczek, ¿e bêdziesz siê opêdzaæ od facetów.}
-{642}{}{Potrzebujesz kogoœ, kto ogrzeje ci ³ó¿ko?}
-{643}{}{Potrzebujesz kogoœ, kto dotrzyma ci towarzystwa dziœ w nocy?}
-{644}{}{Zatañczymy?}
-{645}{}{Zapomnij o automatach do gry, dziewczyno. U mnie masz pewn¹ wygran¹.}
+{641}{}{NauczÄ™ ciÄ™ takich sztuczek, Å¼e bÄ™dziesz siÄ™ opÄ™dzaÄ‡ od facetÃ³w.}
+{642}{}{Potrzebujesz kogoÅ›, kto ogrzeje ci Å‚Ã³Å¼ko?}
+{643}{}{Potrzebujesz kogoÅ›, kto dotrzyma ci towarzystwa dziÅ› w nocy?}
+{644}{}{ZataÅ„czymy?}
+{645}{}{Zapomnij o automatach do gry, dziewczyno. U mnie masz pewnÄ… wygranÄ….}
 {646}{}{Dziewczyno, prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{647}{}{Zabawimy siê, s³odziutka?}
-{648}{}{Zgubi³aœ siê, kowbojko?}
-{649}{}{Chcesz siê trochê odprê¿yæ, G.I. Jane?}
-{650}{}{Chcesz siê zabawiæ, dziewczynko?}
-{651}{}{Chcesz ze mn¹ wyruszyæ na miasto, dziewczynko?}
-{652}{}{Potrzebujesz przewodniczki, s³onko?}
-{653}{}{Pali siê gdzieœ, dziewczyno?}
-{654}{}{Przy tej kobiecie mój licznik Geigera zaczyna wariowaæ.}
-{655}{}{Jestem Tania. A ty jak masz na imiê?}
+{647}{}{Zabawimy siÄ™, sÅ‚odziutka?}
+{648}{}{ZgubiÅ‚aÅ› siÄ™, kowbojko?}
+{649}{}{Chcesz siÄ™ trochÄ™ odprÄ™Å¼yÄ‡, G.I. Jane?}
+{650}{}{Chcesz siÄ™ zabawiÄ‡, dziewczynko?}
+{651}{}{Chcesz ze mnÄ… wyruszyÄ‡ na miasto, dziewczynko?}
+{652}{}{Potrzebujesz przewodniczki, sÅ‚onko?}
+{653}{}{Pali siÄ™ gdzieÅ›, dziewczyno?}
+{654}{}{Przy tej kobiecie mÃ³j licznik Geigera zaczyna wariowaÄ‡.}
+{655}{}{Jestem Tania. A ty jak masz na imiÄ™?}
 {656}{}{Szukasz towarzystwa?}
-{657}{}{Nauczê ciê paru sztuczek o poskramianiu kobiet.}
-{658}{}{Szukasz towarzystwa na jedn¹ noc?}
-{659}{}{Szukasz nowej towarzyszki podró¿y?}
-{660}{}{Niez³y sprzêt.}
-{661}{}{Co to, masz wê¿a w kieszeni? A mo¿e w rozporku?!}
-{662}{}{Chcesz siê zabawiæ?}
+{657}{}{NauczÄ™ ciÄ™ paru sztuczek o poskramianiu kobiet.}
+{658}{}{Szukasz towarzystwa na jednÄ… noc?}
+{659}{}{Szukasz nowej towarzyszki podrÃ³Å¼y?}
+{660}{}{NiezÅ‚y sprzÄ™t.}
+{661}{}{Co to, masz wÄ™Å¼a w kieszeni? A moÅ¼e w rozporku?!}
+{662}{}{Chcesz siÄ™ zabawiÄ‡?}
 {663}{}{Prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{664}{}{Szukasz towarzystwa, £owco?}
-{665}{}{Podobno w Dzielnicy Handlowej by³y jakieœ k³opoty...}
+{664}{}{Szukasz towarzystwa, Åowco?}
+{665}{}{Podobno w Dzielnicy Handlowej byÅ‚y jakieÅ› kÅ‚opoty...}
 {666}{}{Szukasz towarzystwa?}
-{667}{}{Od rana nie mia³am w ustach nic ciep³ego...}
-{668}{}{Zatañczymy?}
+{667}{}{Od rana nie miaÅ‚am w ustach nic ciepÅ‚ego...}
+{668}{}{ZataÅ„czymy?}
 {669}{}{Zapomnij o automatach do gry. U mnie sukses masz gwarantowany.}
-{670}{}{A¿ trudno uwierzyæ, ile striptizerek œci¹gnêli na wieczór kawalerski Feargusa.}
+{670}{}{AÅ¼ trudno uwierzyÄ‡, ile striptizerek Å›ciÄ…gnÄ™li na wieczÃ³r kawalerski Feargusa.}
 {671}{}{Pierwszy raz w Nowym Reno?}
-{672}{}{Naprawdê potrafisz wbijaæ cz³onkiem szeœciocalowe gwoŸdzie?}
-{673}{}{Zabawimy siê?}
-{674}{}{Ju¿ od dawna nie by³o u nas karawany z Redding.}
-{675}{}{Niez³y sprzêt.}
-{676}{}{Potrzebujesz pocieszycielki, £owco.}
-{677}{}{Zgubi³eœ siê, kowboju?}
-{678}{}{Chcesz roz³adowaæ magazynek, ¿o³nierzu?}
-{679}{}{Ten goœæ roztapia mnie samym spojrzeniem.}
-{680}{}{Za du¿o dziewczyn pracuje w tej bran¿y. Trudno zwi¹zaæ koniec z koñcem.}
-{681}{}{Od dwóch dni nie zmru¿y³am oka...}
-{682}{}{Szukasz przyjació³ki na dzisiejsz¹ noc? A mo¿e tylko na dziesiêæ minut?}
-{683}{}{Chcesz siê trochê zabawiæ?}
-{684}{}{Chcesz mnie zabraæ na miasto?}
-{685}{}{Podoba mi siê twój gekon.}
+{672}{}{NaprawdÄ™ potrafisz wbijaÄ‡ czÅ‚onkiem szeÅ›ciocalowe gwoÅºdzie?}
+{673}{}{Zabawimy siÄ™?}
+{674}{}{JuÅ¼ od dawna nie byÅ‚o u nas karawany z Redding.}
+{675}{}{NiezÅ‚y sprzÄ™t.}
+{676}{}{Potrzebujesz pocieszycielki, Åowco.}
+{677}{}{ZgubiÅ‚eÅ› siÄ™, kowboju?}
+{678}{}{Chcesz rozÅ‚adowaÄ‡ magazynek, Å¼oÅ‚nierzu?}
+{679}{}{Ten goÅ›Ä‡ roztapia mnie samym spojrzeniem.}
+{680}{}{Za duÅ¼o dziewczyn pracuje w tej branÅ¼y. Trudno zwiÄ…zaÄ‡ koniec z koÅ„cem.}
+{681}{}{Od dwÃ³ch dni nie zmruÅ¼yÅ‚am oka...}
+{682}{}{Szukasz przyjaciÃ³Å‚ki na dzisiejszÄ… noc? A moÅ¼e tylko na dziesiÄ™Ä‡ minut?}
+{683}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡?}
+{684}{}{Chcesz mnie zabraÄ‡ na miasto?}
+{685}{}{Podoba mi siÄ™ twÃ³j gekon.}
 {686}{}{Co to, masz gekona w kieszeni?}
 {687}{}{Potrzebujesz przewodniczki?}
-{688}{}{Pali siê gdzieœ?}
-{689}{}{Dzieciaku, zrobiê z ciebie mê¿czyznê.}
+{688}{}{Pali siÄ™ gdzieÅ›?}
+{689}{}{Dzieciaku, zrobiÄ™ z ciebie mÄ™Å¼czyznÄ™.}
 {690}{}{Mmmmm-mmmmm.}
-{691}{}{Mo¿e bêdziemy udawaæ szpony œmierci w sezonie godowym?}
-{692}{}{Przy nim mój wewnêtrzny licznik Geigera zaczyna wariowaæ.}
-{693}{}{Za rozmowê po sprawie p³aci siê ekstra.}
-{694}{}{Mogê ci w czymœ pomóc, nieznajomy?}
+{691}{}{MoÅ¼e bÄ™dziemy udawaÄ‡ szpony Å›mierci w sezonie godowym?}
+{692}{}{Przy nim mÃ³j wewnÄ™trzny licznik Geigera zaczyna wariowaÄ‡.}
+{693}{}{Za rozmowÄ™ po sprawie pÅ‚aci siÄ™ ekstra.}
+{694}{}{MogÄ™ ci w czymÅ› pomÃ³c, nieznajomy?}
 {695}{}{Prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{696}{}{Zainstalowa³am ju¿ tê obijan¹ pluszem deskê rozdzielcz¹.}
-{697}{}{Za dziesiêæ ¿etonów otworzê przed tob¹ bramy niebios.}
-{698}{}{Myron: Du¿a gêba. Ma³a reszta.}
+{696}{}{ZainstalowaÅ‚am juÅ¼ tÄ™ obijanÄ… pluszem deskÄ™ rozdzielczÄ….}
+{697}{}{Za dziesiÄ™Ä‡ Å¼etonÃ³w otworzÄ™ przed tobÄ… bramy niebios.}
+{698}{}{Myron: DuÅ¼a gÄ™ba. MaÅ‚a reszta.}
 {699}{}{Myron to prawdziwy pajac.}
 {700}{}{Homo, hetero, jestem uniwersalna...}
-{701}{}{Co on sobie myœli, ¿e padnê przed nim na kolana? }
-{702}{}{Ten cholerny znak kiedyœ spadnie mi na g³owê...}
-{703}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{704}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
-{705}{}{Podobno w Kryptopolis s¹ tylko dwa rodzaje obywateli. Mo¿e oni ich klonuj¹?}
-{706}{}{Czujê siê jakbym wczoraj w nocy bra³a udzia³ w maratonie...}
+{701}{}{Co on sobie myÅ›li, Å¼e padnÄ™ przed nim na kolana? }
+{702}{}{Ten cholerny znak kiedyÅ› spadnie mi na gÅ‚owÄ™...}
+{703}{}{Z tej cÃ³rki Bishopa jest niezÅ‚e ziÃ³Å‚ko.}
+{704}{}{Ona nie jest uzaleÅ¼niona od Jetu, tylko od seksu.}
+{705}{}{Podobno w Kryptopolis sÄ… tylko dwa rodzaje obywateli. MoÅ¼e oni ich klonujÄ…?}
+{706}{}{CzujÄ™ siÄ™ jakbym wczoraj w nocy braÅ‚a udziaÅ‚ w maratonie...}
 {707}{}{Szukasz rozrywki, skarbie?}
-{708}{}{Modlê siê, ¿eby Myron wreszcie siê st¹d wyprowadzi³. Najlepiej gdzieœ daleko.}
-{709}{}{Mogê zrobiæ co tylko zechcesz... oczywiœcie za odpowiedni¹ cenê.}
+{708}{}{ModlÄ™ siÄ™, Å¼eby Myron wreszcie siÄ™ stÄ…d wyprowadziÅ‚. Najlepiej gdzieÅ› daleko.}
+{709}{}{MogÄ™ zrobiÄ‡ co tylko zechcesz... oczywiÅ›cie za odpowiedniÄ… cenÄ™.}
 {710}{}{Jestem gotowa, skarbie. A ty?}
-{711}{}{::Gwi¿d¿e::}
-{712}{}{Nienawidzê malinek.}
-{713}{}{Spróbuj szczêœcia ze mn¹, skarbie.}
-{714}{}{Chcesz siê trochê zabawiæ?}
-{715}{}{Taki seks znajdziesz tylko w Reno, £owco.}
-{716}{}{Chcesz, mo¿emy siê pobawiæ.}
-{717}{}{Mówi¹ na mnie Niegrzeczna Spice.}
-{718}{}{Mówi¹ na mnie Puszczalska Spice.}
-{719}{}{Mówi¹ na mnie Wyuzdana Spice.}
-{720}{}{Mówi¹ na mnie Starsza Spice.}
-{721}{}{Mówi¹ na mnie Syfili... to znaczy - Puszczalska Spice.}
-{722}{}{Mówi¹ na mnie Szybka Spice.}
-{723}{}{Obs³ugujê tylko mê¿czyzn z prawdziwego zdarzenia.}
-{724}{}{Mam przyjació³kê, jeœli bawi¹ ciê trójk¹ty.}
-{725}{}{Szkoda, ¿e Myron nie jest gejem.}
-{726}{}{Nowy ogier w mieœcie...}
-{727}{}{Nie mam pojêcia dlaczego nazywaj¹ to Alej¹ Dziewic...}
-{728}{}{Czasem przyda³aby mi siê papierowa torba...}
-{729}{}{Chcesz mi postawiæ drinka?}
-{730}{}{Chcesz mnie zabraæ na miasto?}
+{711}{}{::GwiÅ¼dÅ¼e::}
+{712}{}{NienawidzÄ™ malinek.}
+{713}{}{SprÃ³buj szczÄ™Å›cia ze mnÄ…, skarbie.}
+{714}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡?}
+{715}{}{Taki seks znajdziesz tylko w Reno, Åowco.}
+{716}{}{Chcesz, moÅ¼emy siÄ™ pobawiÄ‡.}
+{717}{}{MÃ³wiÄ… na mnie Niegrzeczna Spice.}
+{718}{}{MÃ³wiÄ… na mnie Puszczalska Spice.}
+{719}{}{MÃ³wiÄ… na mnie Wyuzdana Spice.}
+{720}{}{MÃ³wiÄ… na mnie Starsza Spice.}
+{721}{}{MÃ³wiÄ… na mnie Syfili... to znaczy - Puszczalska Spice.}
+{722}{}{MÃ³wiÄ… na mnie Szybka Spice.}
+{723}{}{ObsÅ‚ugujÄ™ tylko mÄ™Å¼czyzn z prawdziwego zdarzenia.}
+{724}{}{Mam przyjaciÃ³Å‚kÄ™, jeÅ›li bawiÄ… ciÄ™ trÃ³jkÄ…ty.}
+{725}{}{Szkoda, Å¼e Myron nie jest gejem.}
+{726}{}{Nowy ogier w mieÅ›cie...}
+{727}{}{Nie mam pojÄ™cia dlaczego nazywajÄ… to AlejÄ… Dziewic...}
+{728}{}{Czasem przydaÅ‚aby mi siÄ™ papierowa torba...}
+{729}{}{Chcesz mi postawiÄ‡ drinka?}
+{730}{}{Chcesz mnie zabraÄ‡ na miasto?}
 {731}{}{O rany! Turysta!}
-{732}{}{ChodŸ do mnie, skarbie. Przedstawienie zaraz siê zacznie...}
-{733}{}{Podobno jakieœ dziewczyny na przedmieœciach zat³uk³y swojego alfonsa.}
+{732}{}{ChodÅº do mnie, skarbie. Przedstawienie zaraz siÄ™ zacznie...}
+{733}{}{Podobno jakieÅ› dziewczyny na przedmieÅ›ciach zatÅ‚ukÅ‚y swojego alfonsa.}
 {734}{}{Witaj, nieznajomy.}
-{735}{}{Jules móg³by siê wreszcie ode mnie odczepiæ.}
-{736}{}{Znów rozciê³am sobie czo³o o deskê rozdzielcz¹...}
-{737}{}{Od ostatniego zlotu jakoœ nie mogê dojœæ do siebie...}
-{738}{}{Te dzikusy mog³yby siê spotykaæ gdzie indziej.}
-{739}{}{Poczu³am jak ziemia dr¿y, ale okaza³o siê, ¿e to tylko chili.}
-{740}{}{WeŸ mnie.}
-{741}{}{Jeœli ten goœæ nie przyhamuje, wysi¹dzie mu pikawa...}
-{742}{}{Ten brzêcz¹cy neon doprowadza mnie do szaleñstwa...}
-{743}{}{Jestem dziewic¹. To bêdzie mój pierwszy raz.}
-{744}{}{I pomyœleæ, ¿e przyjecha³am z a¿ Nory, ¿eby utkwiæ w tym gównie...}
+{735}{}{Jules mÃ³gÅ‚by siÄ™ wreszcie ode mnie odczepiÄ‡.}
+{736}{}{ZnÃ³w rozciÄ™Å‚am sobie czoÅ‚o o deskÄ™ rozdzielczÄ…...}
+{737}{}{Od ostatniego zlotu jakoÅ› nie mogÄ™ dojÅ›Ä‡ do siebie...}
+{738}{}{Te dzikusy mogÅ‚yby siÄ™ spotykaÄ‡ gdzie indziej.}
+{739}{}{PoczuÅ‚am jak ziemia drÅ¼y, ale okazaÅ‚o siÄ™, Å¼e to tylko chili.}
+{740}{}{WeÅº mnie.}
+{741}{}{JeÅ›li ten goÅ›Ä‡ nie przyhamuje, wysiÄ…dzie mu pikawa...}
+{742}{}{Ten brzÄ™czÄ…cy neon doprowadza mnie do szaleÅ„stwa...}
+{743}{}{Jestem dziewicÄ…. To bÄ™dzie mÃ³j pierwszy raz.}
+{744}{}{I pomyÅ›leÄ‡, Å¼e przyjechaÅ‚am z aÅ¼ Nory, Å¼eby utkwiÄ‡ w tym gÃ³wnie...}
 {745}{}{Hej! Potrzebujesz przewodniczki?}
-{746}{}{Jules bez przerwy prosi mnie o darmow¹ próbkê.}
-{747}{}{Podobno miêdzy rodzinami znów dochodzi do spiêæ.}
-{748}{}{Mamy ostatnio zastój w interesie. Ciekawe kiedy zjawi siê jakaœ karawana.}
-{749}{}{Wtedy on przebra³ siê w kostium szpona œmierci i...}
-{750}{}{Pomo¿esz mi wydostaæ siê z tej... sukienki?}
-{751}{}{Strasznie tu gor¹co. Mo¿e siê rozbiorê?}
-{752}{}{Mmm-mmm. Zbli¿a siê sezon godowy.}
-{753}{}{Chcesz spêdziæ ze mn¹ trochê czasu?}
-{754}{}{W zesz³ym tygodniu musia³am kopn¹æ Julesa w jego klejnoty rodowe.}
-{755}{}{Nie bez powodu mam na imiê Tania.}
+{746}{}{Jules bez przerwy prosi mnie o darmowÄ… prÃ³bkÄ™.}
+{747}{}{Podobno miÄ™dzy rodzinami znÃ³w dochodzi do spiÄ™Ä‡.}
+{748}{}{Mamy ostatnio zastÃ³j w interesie. Ciekawe kiedy zjawi siÄ™ jakaÅ› karawana.}
+{749}{}{Wtedy on przebraÅ‚ siÄ™ w kostium szpona Å›mierci i...}
+{750}{}{PomoÅ¼esz mi wydostaÄ‡ siÄ™ z tej... sukienki?}
+{751}{}{Strasznie tu gorÄ…co. MoÅ¼e siÄ™ rozbiorÄ™?}
+{752}{}{Mmm-mmm. ZbliÅ¼a siÄ™ sezon godowy.}
+{753}{}{Chcesz spÄ™dziÄ‡ ze mnÄ… trochÄ™ czasu?}
+{754}{}{W zeszÅ‚ym tygodniu musiaÅ‚am kopnÄ…Ä‡ Julesa w jego klejnoty rodowe.}
+{755}{}{Nie bez powodu mam na imiÄ™ Tania.}
 {756}{}{Uwielbiam te kondomy o braminowym smaku.}
 {757}{}{Zabierzesz mnie na miasto?}
-{758}{}{Mo¿e kupimy Myronowi na urodziny gumow¹ lalkê. Albo lepiej dwie.}
+{758}{}{MoÅ¼e kupimy Myronowi na urodziny gumowÄ… lalkÄ™. Albo lepiej dwie.}
 {759}{}{Szukasz towarzystwa, dzikusku?}
 {760}{}{Pofiglujemy, dzikusku?}
-{761}{}{Mo¿e odtañczysz taniec deszczu w mojej sypialni, co dzikusku?}
-{762}{}{Jedna noc ze mn¹ i œwiat ju¿ nigdy nie bêdzie taki sam.}
-{763}{}{Szukasz Cudownej Krainy? ChodŸ do mojej sypialni.}
-{764}{}{Za kilka ¿etonów mogê byæ twoja.}
-{765}{}{Mo¿esz mi pomóc? Zgubi³am gdzieœ swoje dziewictwo.}
-{766}{}{Jestem dziewic¹, ale potrzebujê pieniêdzy.}
-{767}{}{B¹dŸ delikatny. To mój pierwszy raz... dzisiaj.}
+{761}{}{MoÅ¼e odtaÅ„czysz taniec deszczu w mojej sypialni, co dzikusku?}
+{762}{}{Jedna noc ze mnÄ… i Å›wiat juÅ¼ nigdy nie bÄ™dzie taki sam.}
+{763}{}{Szukasz Cudownej Krainy? ChodÅº do mojej sypialni.}
+{764}{}{Za kilka Å¼etonÃ³w mogÄ™ byÄ‡ twoja.}
+{765}{}{MoÅ¼esz mi pomÃ³c? ZgubiÅ‚am gdzieÅ› swoje dziewictwo.}
+{766}{}{Jestem dziewicÄ…, ale potrzebujÄ™ pieniÄ™dzy.}
+{767}{}{BÄ…dÅº delikatny. To mÃ³j pierwszy raz... dzisiaj.}
 {768}{}{Moja napalona.}
-{769}{}{Ty po¿¹dasz, ja zaspokajam.}
-{770}{}{Fizycznie niemo¿liwe? I co z tego!}
-{771}{}{Zatañczymy, kochanie?}
-{772}{}{Bierz siê do pracy, górniku!}
-{773}{}{Mam byæ g³oœno czy cichutko jak myszka?}
+{769}{}{Ty poÅ¼Ä…dasz, ja zaspokajam.}
+{770}{}{Fizycznie niemoÅ¼liwe? I co z tego!}
+{771}{}{ZataÅ„czymy, kochanie?}
+{772}{}{Bierz siÄ™ do pracy, gÃ³rniku!}
+{773}{}{Mam byÄ‡ gÅ‚oÅ›no czy cichutko jak myszka?}
 {774}{}{::Mrrrrau::}
 {775}{}{::Grrr::}
-{776}{}{::Posy³a ci ca³usa::}
-{777}{}{Nie œpiê od dwóch dni...}
+{776}{}{::PosyÅ‚a ci caÅ‚usa::}
+{777}{}{Nie Å›piÄ™ od dwÃ³ch dni...}
 {778}{}{Nie jestem tania, ale nie ma drugiej takiej jak ja.}
-{779}{}{Wi¹zanie kosztuje ekstra.}
-{780}{}{Gdzie ja podzia³am mój pejcz?}
+{779}{}{WiÄ…zanie kosztuje ekstra.}
+{780}{}{Gdzie ja podziaÅ‚am mÃ³j pejcz?}
 {781}{}{Gotowa do akcji.}
-{782}{}{Ostatniej nocy musia³am siê przebraæ za Larê Croft.}
-{783}{}{By³am wczoraj z Myronem. Przez ca³e piêæ sekund.}
-{784}{}{Mam ci roz³adowaæ magazynek?}
-{785}{}{Mogliby wreszcie wymyœliæ jakieœ perfumy o zapachu Jetu...}
-{786}{}{Mo¿e pomo¿esz biednej dziewczynie straciæ dziewictwo?}
-{787}{}{Ty³ek mi odpadnie jeœli Myron siê nie opanuje.}
-{788}{}{Cholerna Unia WstrzemiêŸliwoœci znowu nas nachodzi...}
-{789}{}{::Gwi¿d¿e::}
+{782}{}{Ostatniej nocy musiaÅ‚am siÄ™ przebraÄ‡ za LarÄ™ Croft.}
+{783}{}{ByÅ‚am wczoraj z Myronem. Przez caÅ‚e piÄ™Ä‡ sekund.}
+{784}{}{Mam ci rozÅ‚adowaÄ‡ magazynek?}
+{785}{}{Mogliby wreszcie wymyÅ›liÄ‡ jakieÅ› perfumy o zapachu Jetu...}
+{786}{}{MoÅ¼e pomoÅ¼esz biednej dziewczynie straciÄ‡ dziewictwo?}
+{787}{}{TyÅ‚ek mi odpadnie jeÅ›li Myron siÄ™ nie opanuje.}
+{788}{}{Cholerna Unia WstrzemiÄ™ÅºliwoÅ›ci znowu nas nachodzi...}
+{789}{}{::GwiÅ¼dÅ¼e::}
 {790}{}{Gryzienie kosztuje ekstra.}
-{791}{}{¯aden Pip-Boy nie da ci tyle radoœci co ja.}
-{792}{}{Chcesz siê ostro zabawiæ?}
-{793}{}{Najchêtniej przespa³abym siê z Avellonem.}
-{794}{}{Szkoda, ¿e nie ma tu Nicka Kestinga. Moglibyœmy rozmawiaæ do bia³ego rana!}
-{795}{}{Nick Kesting to naprawdê mi³y facet. Przyjemnie siê z nim rozmawia.}
+{791}{}{Å»aden Pip-Boy nie da ci tyle radoÅ›ci co ja.}
+{792}{}{Chcesz siÄ™ ostro zabawiÄ‡?}
+{793}{}{NajchÄ™tniej przespaÅ‚abym siÄ™ z Avellonem.}
+{794}{}{Szkoda, Å¼e nie ma tu Nicka Kestinga. MoglibyÅ›my rozmawiaÄ‡ do biaÅ‚ego rana!}
+{795}{}{Nick Kesting to naprawdÄ™ miÅ‚y facet. Przyjemnie siÄ™ z nim rozmawia.}
 {796}{}{Tommy Trzy Jajca jest niesamowity.}
-{797}{}{No proszê. Zobaczcie kto przyby³ do miasta...}
-{798}{}{Szukasz Cudownej Krainy? ChodŸ do mojej sypialni.}
-{799}{}{Spróbuj szczêœcia ze mn¹, skarbie.}
-{800}{}{Jestem Tania. A ty jak masz na imiê?}
-{801}{}{Hej, s³odziutka. Szukasz kobiety?}
-{802}{}{Chcesz zobaczyæ jak to jest byæ z kobiet¹, £owczyni?}
+{797}{}{No proszÄ™. Zobaczcie kto przybyÅ‚ do miasta...}
+{798}{}{Szukasz Cudownej Krainy? ChodÅº do mojej sypialni.}
+{799}{}{SprÃ³buj szczÄ™Å›cia ze mnÄ…, skarbie.}
+{800}{}{Jestem Tania. A ty jak masz na imiÄ™?}
+{801}{}{Hej, sÅ‚odziutka. Szukasz kobiety?}
+{802}{}{Chcesz zobaczyÄ‡ jak to jest byÄ‡ z kobietÄ…, Åowczyni?}
 {803}{}{Szukasz towarzystwa?}
-{804}{}{Nauczê ciê takich sztuczek, ¿e bêdziesz siê opêdzaæ od facetów.}
-{805}{}{Potrzebujesz kogoœ, kto ogrzeje ci ³ó¿ko?}
-{806}{}{Potrzebujesz kogoœ, kto dotrzyma ci towarzystwa dziœ w nocy?}
-{807}{}{Zatañczymy?}
-{808}{}{Zapomnij o automatach do gry, dziewczyno. U mnie masz pewn¹ wygran¹.}
+{804}{}{NauczÄ™ ciÄ™ takich sztuczek, Å¼e bÄ™dziesz siÄ™ opÄ™dzaÄ‡ od facetÃ³w.}
+{805}{}{Potrzebujesz kogoÅ›, kto ogrzeje ci Å‚Ã³Å¼ko?}
+{806}{}{Potrzebujesz kogoÅ›, kto dotrzyma ci towarzystwa dziÅ› w nocy?}
+{807}{}{ZataÅ„czymy?}
+{808}{}{Zapomnij o automatach do gry, dziewczyno. U mnie masz pewnÄ… wygranÄ….}
 {809}{}{Dziewczyno, prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{810}{}{Zabawimy siê, s³odziutka?}
-{811}{}{Zgubi³aœ siê, kowbojko?}
-{812}{}{Chcesz siê trochê odprê¿yæ, G.I. Jane?}
-{813}{}{Chcesz siê zabawiæ, dziewczynko?}
-{814}{}{Chcesz ze mn¹ wyruszyæ na miasto, dziewczynko?}
+{810}{}{Zabawimy siÄ™, sÅ‚odziutka?}
+{811}{}{ZgubiÅ‚aÅ› siÄ™, kowbojko?}
+{812}{}{Chcesz siÄ™ trochÄ™ odprÄ™Å¼yÄ‡, G.I. Jane?}
+{813}{}{Chcesz siÄ™ zabawiÄ‡, dziewczynko?}
+{814}{}{Chcesz ze mnÄ… wyruszyÄ‡ na miasto, dziewczynko?}
 {815}{}{Potrzebujesz przewodniczki?}
-{816}{}{Pali siê gdzieœ, dziewczyno?}
-{817}{}{Przy tej kobiecie mój licznik Geigera zaczyna wariowaæ.}
-{818}{}{Enklawa? Prezydent? Opowiedz mi o tym wszystkim od pocz¹tku.}
-{819}{}{Tom French napisa³ moje skrypty. Ma takie g³adkie, delikatne d³onie.}
-{820}{}{Nadal prowadzili wojnê? ¯artujesz?! Na szczêœcie ju¿ nikomu nie zaszkodz¹.}
-{821}{}{Niez³e z ciebie zió³ko. To znaczy - zacz¹æ od prostego dzikusa (bez obrazy) - a skoñczyæ na uratowaniu œwiata. Jesteœ po prostu super.}
-{822}{}{Musisz koniecznie zagraæ jeszcze raz, najlepiej innym typem postaci.}
-{823}{}{Opowiedz mi jeszcze raz o twojej walce z Enklaw¹...}
-{824}{}{Hej, z racji tego ca³ego ratowania œwiata, mo¿e powinnam daæ ci za darmo?}
-{825}{}{Nie wiem jakim cudem uda³o ci siê pokonaæ tych sukinsynów z Enklawy, ale jesteœ najodwa¿niejsz¹ osob¹ jak¹ znam.}
-{826}{}{Tim Cain? Tak, to jeden z moich sta³ych klientów.}
-{827}{}{Poca³uj mnie, pogromco Enklawy.}
-{828}{}{Podobno Bracia ciê szukaj¹. Maj¹ zrobiæ film na podstawie twoich przygód.}
-{829}{}{Brakuje nam Tima Caina. On piek³ taki cudowny chleb. A potem dawa³ nam w skórê jak ma³ym dzieciom.}
-{830}{}{Wiem, ¿e jestem tylko BNem, ale sposób w jaki przedstawiono kobiety z Nowego Reno jest niezwykle seksistowski.}
-{831}{}{Kobiety z Nowego Reno musia³y zostaæ zaprojektowane przez jakiegoœ niewy¿ytego erotomana, który mieszka w piwnicy domu swoich rodziców.}
-{832}{}{Nowe Reno zosta³o zaprojektowane przez Chrisa Avellone i Toma Frencha. Obydwaj s¹ prawdziwymi bogami seksu.}
-{833}{}{Feargus nieŸle siê wkurzy³, kiedy zobaczy³ rozmiar mojego pliku dialogowego. G³upi zazdroœnik.}
-{834}{}{Twój wynik wynosi 192 z 208 mo¿liwych. Trzeba by³o u¿yæ zmutowanego palca na Horriganie.}
-{835}{}{Widzê, ¿e jakaœ kobieta z³ama³a ci serce. Ale ¿eby od razu tak siê zamykaæ przed œwiatem? Jeœli chcesz, mogê ciê trochê pocieszyæ.}
-{836}{}{S³uchaj, Robocopie, jeœli mam siê przebraæ za Terminatora, to zap³acisz ekstra.}
-{837}{}{S³uchaj, jeœli chcesz siê zabawiæ, to musisz najpierw wyjœæ z tego ¿elastwa. Nie chcê mieæ ¿adnych nowych blizn.}
-{838}{}{Masz tu jakiœ ma³y w³az, czy musisz siê z tego wydostaæ, ¿ebym mog³a ciê obs³u¿yæ?}
-{839}{}{Pewnie strasznie boli, kiedy dostaniesz erekcji w tym ¿elastwie, co?}
-{840}{}{Widzê, ¿e masz w³asnego kondoma.}
+{816}{}{Pali siÄ™ gdzieÅ›, dziewczyno?}
+{817}{}{Przy tej kobiecie mÃ³j licznik Geigera zaczyna wariowaÄ‡.}
+{818}{}{Enklawa? Prezydent? Opowiedz mi o tym wszystkim od poczÄ…tku.}
+{819}{}{Tom French napisaÅ‚ moje skrypty. Ma takie gÅ‚adkie, delikatne dÅ‚onie.}
+{820}{}{Nadal prowadzili wojnÄ™? Å»artujesz?! Na szczÄ™Å›cie juÅ¼ nikomu nie zaszkodzÄ….}
+{821}{}{NiezÅ‚e z ciebie ziÃ³Å‚ko. To znaczy - zaczÄ…Ä‡ od prostego dzikusa (bez obrazy) - a skoÅ„czyÄ‡ na uratowaniu Å›wiata. JesteÅ› po prostu super.}
+{822}{}{Musisz koniecznie zagraÄ‡ jeszcze raz, najlepiej innym typem postaci.}
+{823}{}{Opowiedz mi jeszcze raz o twojej walce z EnklawÄ…...}
+{824}{}{Hej, z racji tego caÅ‚ego ratowania Å›wiata, moÅ¼e powinnam daÄ‡ ci za darmo?}
+{825}{}{Nie wiem jakim cudem udaÅ‚o ci siÄ™ pokonaÄ‡ tych sukinsynÃ³w z Enklawy, ale jesteÅ› najodwaÅ¼niejszÄ… osobÄ… jakÄ… znam.}
+{826}{}{Tim Cain? Tak, to jeden z moich staÅ‚ych klientÃ³w.}
+{827}{}{PocaÅ‚uj mnie, pogromco Enklawy.}
+{828}{}{Podobno Bracia ciÄ™ szukajÄ…. MajÄ… zrobiÄ‡ film na podstawie twoich przygÃ³d.}
+{829}{}{Brakuje nam Tima Caina. On piekÅ‚ taki cudowny chleb. A potem dawaÅ‚ nam w skÃ³rÄ™ jak maÅ‚ym dzieciom.}
+{830}{}{Wiem, Å¼e jestem tylko BNem, ale sposÃ³b w jaki przedstawiono kobiety z Nowego Reno jest niezwykle seksistowski.}
+{831}{}{Kobiety z Nowego Reno musiaÅ‚y zostaÄ‡ zaprojektowane przez jakiegoÅ› niewyÅ¼ytego erotomana, ktÃ³ry mieszka w piwnicy domu swoich rodzicÃ³w.}
+{832}{}{Nowe Reno zostaÅ‚o zaprojektowane przez Chrisa Avellone i Toma Frencha. Obydwaj sÄ… prawdziwymi bogami seksu.}
+{833}{}{Feargus nieÅºle siÄ™ wkurzyÅ‚, kiedy zobaczyÅ‚ rozmiar mojego pliku dialogowego. GÅ‚upi zazdroÅ›nik.}
+{834}{}{TwÃ³j wynik wynosi 192 z 208 moÅ¼liwych. Trzeba byÅ‚o uÅ¼yÄ‡ zmutowanego palca na Horriganie.}
+{835}{}{WidzÄ™, Å¼e jakaÅ› kobieta zÅ‚amaÅ‚a ci serce. Ale Å¼eby od razu tak siÄ™ zamykaÄ‡ przed Å›wiatem? JeÅ›li chcesz, mogÄ™ ciÄ™ trochÄ™ pocieszyÄ‡.}
+{836}{}{SÅ‚uchaj, Robocopie, jeÅ›li mam siÄ™ przebraÄ‡ za Terminatora, to zapÅ‚acisz ekstra.}
+{837}{}{SÅ‚uchaj, jeÅ›li chcesz siÄ™ zabawiÄ‡, to musisz najpierw wyjÅ›Ä‡ z tego Å¼elastwa. Nie chcÄ™ mieÄ‡ Å¼adnych nowych blizn.}
+{838}{}{Masz tu jakiÅ› maÅ‚y wÅ‚az, czy musisz siÄ™ z tego wydostaÄ‡, Å¼ebym mogÅ‚a ciÄ™ obsÅ‚uÅ¼yÄ‡?}
+{839}{}{Pewnie strasznie boli, kiedy dostaniesz erekcji w tym Å¼elastwie, co?}
+{840}{}{WidzÄ™, Å¼e masz wÅ‚asnego kondoma.}
 {841}{}{Co to jest? Kondom gigant?}
-{842}{}{Nooo... w takim ustrojstwie rze¿¹czka ci nie grozi!}
-{843}{}{Numerek w tym ¿elastwie bêdzie ciê sporo kosztowa³.}
-{844}{}{Jeœli chcesz siê zabawiæ musisz najpierw z tego wyleŸæ.}
-{845}{}{Nie boisz siê, ¿e zardzewiejesz?}
-{846}{}{Nooo... niech bêdzie. Ale nawet nie myœl o byciu na górze!}
-{847}{}{Jak mo¿esz korzystaæ z ³azienki z czymœ takim na grzbiecie?}
-{848}{}{S¹ jakieœ szanse, ¿e wyci¹gn¹ ciê z tego bez pomocy stra¿y po¿arnej?}
+{842}{}{Nooo... w takim ustrojstwie rzeÅ¼Ä…czka ci nie grozi!}
+{843}{}{Numerek w tym Å¼elastwie bÄ™dzie ciÄ™ sporo kosztowaÅ‚.}
+{844}{}{JeÅ›li chcesz siÄ™ zabawiÄ‡ musisz najpierw z tego wyleÅºÄ‡.}
+{845}{}{Nie boisz siÄ™, Å¼e zardzewiejesz?}
+{846}{}{Nooo... niech bÄ™dzie. Ale nawet nie myÅ›l o byciu na gÃ³rze!}
+{847}{}{Jak moÅ¼esz korzystaÄ‡ z Å‚azienki z czymÅ› takim na grzbiecie?}
+{848}{}{SÄ… jakieÅ› szanse, Å¼e wyciÄ…gnÄ… ciÄ™ z tego bez pomocy straÅ¼y poÅ¼arnej?}
 {849}{}{Co to - mega-wibrator?}
-{850}{}{Chyba widzia³am ju¿ tak¹ akcjê w jednym filmie Anime.}
-{851}{}{Mo¿e jednak szukasz myjni samochodowej?}
-{852}{}{S³uchaj, z³otko, jeœli chcesz siê zabawiæ, to musisz najpierw wyjœæ z tego ¿elastwa. Nie chcê mieæ ¿adnych nowych blizn.}
-{853}{}{Co ty masz na sobie? Ostateczny œrodek antykoncepcyjny?}
-{854}{}{Powalczymy trochê w ³ó¿ku, skarbie? Wytrzymam nawet 12 rund.}
-{855}{}{Poboksujemy trochê, }
-{856}{}{Dziewczyno, niez³e z ciebie zió³ko.}
-{857}{}{Jej, popatrzcie na te miêœnie. Jesteœ silniejsza od wiêkszoœci facetów jakich znam. A ja znam WIELU facetów.}
+{850}{}{Chyba widziaÅ‚am juÅ¼ takÄ… akcjÄ™ w jednym filmie Anime.}
+{851}{}{MoÅ¼e jednak szukasz myjni samochodowej?}
+{852}{}{SÅ‚uchaj, zÅ‚otko, jeÅ›li chcesz siÄ™ zabawiÄ‡, to musisz najpierw wyjÅ›Ä‡ z tego Å¼elastwa. Nie chcÄ™ mieÄ‡ Å¼adnych nowych blizn.}
+{853}{}{Co ty masz na sobie? Ostateczny Å›rodek antykoncepcyjny?}
+{854}{}{Powalczymy trochÄ™ w Å‚Ã³Å¼ku, skarbie? Wytrzymam nawet 12 rund.}
+{855}{}{Poboksujemy trochÄ™, }
+{856}{}{Dziewczyno, niezÅ‚e z ciebie ziÃ³Å‚ko.}
+{857}{}{Jej, popatrzcie na te miÄ™Å›nie. JesteÅ› silniejsza od wiÄ™kszoÅ›ci facetÃ³w jakich znam. A ja znam WIELU facetÃ³w.}
 {858}{}{Jak leci, }
 {859}{}{Szukasz mnie?}
-{860}{}{Dlaczego nie zagl¹dasz tu czêœciej?}
+{860}{}{Dlaczego nie zaglÄ…dasz tu czÄ™Å›ciej?}
 {861}{}{Szukasz towarzystwa, }
-{862}{}{Ale¿ ty jesteœ zbudowana.}
-{863}{}{Hej... uwa¿aj na Prze¿uwacza. To prawdziwy palant. Kiedyœ próbowa³ odgryŸæ mi ucho.}
-{864}{}{Niez³a z ciebie laska, wiesz?}
+{862}{}{AleÅ¼ ty jesteÅ› zbudowana.}
+{863}{}{Hej... uwaÅ¼aj na PrzeÅ¼uwacza. To prawdziwy palant. KiedyÅ› prÃ³bowaÅ‚ odgryÅºÄ‡ mi ucho.}
+{864}{}{NiezÅ‚a z ciebie laska, wiesz?}
 {865}{}{}
-{866}{}{Jeœli szukasz towarzyszki zabaw...}
+{866}{}{JeÅ›li szukasz towarzyszki zabaw...}
 {867}{}{}
 {868}{}{Witaj, }
-{869}{}{Szepnij o mnie ciep³e s³ówko szefowi, dobrze?}
-{870}{}{A niech mnie... To¿ to }
-{871}{}{Zrobiê wszystko co zechcesz... tylko powiedz s³owo.}
-{872}{}{Szepnij o mnie ciep³e s³ówko szefowi, dobrze?}
+{869}{}{Szepnij o mnie ciepÅ‚e sÅ‚Ã³wko szefowi, dobrze?}
+{870}{}{A niech mnie... ToÅ¼ to }
+{871}{}{ZrobiÄ™ wszystko co zechcesz... tylko powiedz sÅ‚owo.}
+{872}{}{Szepnij o mnie ciepÅ‚e sÅ‚Ã³wko szefowi, dobrze?}
 {873}{}{}
-{874}{}{Jeœli szuka pani mi³ego towarzystwa...}
-{875}{}{Jestem Tania, £owco. A ty jak masz na imiê?}
-{876}{}{Oczywiœcie, £owco - pozwolê siê zwi¹zaæ!}
-{877}{}{Mo¿e zabierzesz mnie do swojej klatki, £owco?}
-{878}{}{Chcesz mnie poskromiæ, £owco?}
-{879}{}{Rozrywkowy z ciebie facet, co £owco?}
-{880}{}{Masz ze sob¹ w³asn¹ œciereczkê?}
-{881}{}{TAK, s¹ prawdziwe i NIE, nie mo¿esz sprawdziæ.}
-{882}{}{Chcesz mnie uje¿d¿aæ, kowboju?}
-{883}{}{Chcesz mnie zatopiæ swoj¹ torped¹?}
-{884}{}{Nauczê ciê paru sztuczek o poskramianiu kobiet.}
-{885}{}{Szukasz kogoœ, kto ogrzeje ci ³ó¿ko, £owco?}
-{886}{}{Szukasz niewolnicy na jedn¹ noc, £owco?}
-{887}{}{Masz niez³y sprzêt, ³owco.}
-{888}{}{Masz wê¿a w kieszeni? A mo¿e w rozporku?!}
-{889}{}{Chcesz siê zabawiæ?}
+{874}{}{JeÅ›li szuka pani miÅ‚ego towarzystwa...}
+{875}{}{Jestem Tania, Åowco. A ty jak masz na imiÄ™?}
+{876}{}{OczywiÅ›cie, Åowco - pozwolÄ™ siÄ™ zwiÄ…zaÄ‡!}
+{877}{}{MoÅ¼e zabierzesz mnie do swojej klatki, Åowco?}
+{878}{}{Chcesz mnie poskromiÄ‡, Åowco?}
+{879}{}{Rozrywkowy z ciebie facet, co Åowco?}
+{880}{}{Masz ze sobÄ… wÅ‚asnÄ… Å›ciereczkÄ™?}
+{881}{}{TAK, sÄ… prawdziwe i NIE, nie moÅ¼esz sprawdziÄ‡.}
+{882}{}{Chcesz mnie ujeÅ¼dÅ¼aÄ‡, kowboju?}
+{883}{}{Chcesz mnie zatopiÄ‡ swojÄ… torpedÄ…?}
+{884}{}{NauczÄ™ ciÄ™ paru sztuczek o poskramianiu kobiet.}
+{885}{}{Szukasz kogoÅ›, kto ogrzeje ci Å‚Ã³Å¼ko, Åowco?}
+{886}{}{Szukasz niewolnicy na jednÄ… noc, Åowco?}
+{887}{}{Masz niezÅ‚y sprzÄ™t, Å‚owco.}
+{888}{}{Masz wÄ™Å¼a w kieszeni? A moÅ¼e w rozporku?!}
+{889}{}{Chcesz siÄ™ zabawiÄ‡?}
 {890}{}{Prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{891}{}{Szukasz towarzystwa, £owco?}
-{892}{}{S³uchaj, nie dajemy darmowych próbek.}
-{893}{}{Podobno w Dzielnicy Handlowej by³y jakieœ k³opoty...}
+{891}{}{Szukasz towarzystwa, Åowco?}
+{892}{}{SÅ‚uchaj, nie dajemy darmowych prÃ³bek.}
+{893}{}{Podobno w Dzielnicy Handlowej byÅ‚y jakieÅ› kÅ‚opoty...}
 {894}{}{Szukasz towarzystwa?}
-{895}{}{Od rana nie mia³am w ustach nic ciep³ego...}
-{896}{}{Zatañczymy, £owco?}
-{897}{}{£owco, prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{898}{}{A¿ trudno uwierzyæ, ile striptizerek œci¹gnêli na wieczór kawalerski Feargusa.}
-{899}{}{Czym siê zajmujê? Zmieniam ch³opców w MÊ¯CZYZN.}
-{900}{}{Naprawdê potrafisz wbijaæ cz³onkiem szeœciocalowe gwoŸdzie?}
-{901}{}{Za d³ugo ju¿ tu pracujê...}
-{902}{}{Szukasz przyjació³ki na dzisiejszy wieczór? A mo¿e tylko na dziesiêæ minut?}
-{903}{}{Zabawimy siê?}
-{904}{}{Ju¿ od dawna nie by³o u nas karawany z Redding.}
-{905}{}{Niez³y sprzêt.}
-{906}{}{Zgubi³eœ siê, £owco?}
-{907}{}{Chcesz roz³adowaæ magazynek, £owco?}
-{908}{}{Mogê ci w czymœ pomóc, nieznajomy?}
-{909}{}{Podoba mi siê twój gekon, £owco.}
+{895}{}{Od rana nie miaÅ‚am w ustach nic ciepÅ‚ego...}
+{896}{}{ZataÅ„czymy, Åowco?}
+{897}{}{Åowco, prawdziwy seks znajdziesz tylko w Nowym Reno.}
+{898}{}{AÅ¼ trudno uwierzyÄ‡, ile striptizerek Å›ciÄ…gnÄ™li na wieczÃ³r kawalerski Feargusa.}
+{899}{}{Czym siÄ™ zajmujÄ™? Zmieniam chÅ‚opcÃ³w w MÄ˜Å»CZYZN.}
+{900}{}{NaprawdÄ™ potrafisz wbijaÄ‡ czÅ‚onkiem szeÅ›ciocalowe gwoÅºdzie?}
+{901}{}{Za dÅ‚ugo juÅ¼ tu pracujÄ™...}
+{902}{}{Szukasz przyjaciÃ³Å‚ki na dzisiejszy wieczÃ³r? A moÅ¼e tylko na dziesiÄ™Ä‡ minut?}
+{903}{}{Zabawimy siÄ™?}
+{904}{}{JuÅ¼ od dawna nie byÅ‚o u nas karawany z Redding.}
+{905}{}{NiezÅ‚y sprzÄ™t.}
+{906}{}{ZgubiÅ‚eÅ› siÄ™, Åowco?}
+{907}{}{Chcesz rozÅ‚adowaÄ‡ magazynek, Åowco?}
+{908}{}{MogÄ™ ci w czymÅ› pomÃ³c, nieznajomy?}
+{909}{}{Podoba mi siÄ™ twÃ³j gekon, Åowco.}
 {910}{}{Co to, masz gekona w kieszeni?}
 {911}{}{Potrzebujesz przewodniczki?}
-{912}{}{Gdzie siê pali, £owco?}
-{913}{}{Dzieciaku, zrobiê z ciebie mê¿czyznê.}
-{914}{}{Zatañczymy, £owco?}
-{915}{}{Och witam, panie Tyler. Dok¹d to siê wybieramy?}
-{916}{}{Za rozmowê po sprawie p³aci siê ekstra.}
-{917}{}{TAK, s¹ prawdziwe i NIE, nie mo¿esz sprawdziæ.}
-{918}{}{Taki jeden goœæ, Fred Hatch, chcia³ wiedzieæ czy s¹ w Reno jakieœ "du¿e dziewczynki". Dziwak.}
-{919}{}{[Œpiewa.] "Zabawmy siê - w pana i s³u¿¹c¹."}
-{920}{}{Pobawimy siê w Pana i Niewolnicê, £owco?}
-{921}{}{Jeœli nie chcesz, ¿ebym zasnê³a po sprawie, zap³acisz ekstra.}
-{922}{}{Chcesz pójœæ Gdzie ¯aden Cz³owiek Wczeœniej Nie Dotar³?}
+{912}{}{Gdzie siÄ™ pali, Åowco?}
+{913}{}{Dzieciaku, zrobiÄ™ z ciebie mÄ™Å¼czyznÄ™.}
+{914}{}{ZataÅ„czymy, Åowco?}
+{915}{}{Och witam, panie Tyler. DokÄ…d to siÄ™ wybieramy?}
+{916}{}{Za rozmowÄ™ po sprawie pÅ‚aci siÄ™ ekstra.}
+{917}{}{TAK, sÄ… prawdziwe i NIE, nie moÅ¼esz sprawdziÄ‡.}
+{918}{}{Taki jeden goÅ›Ä‡, Fred Hatch, chciaÅ‚ wiedzieÄ‡ czy sÄ… w Reno jakieÅ› "duÅ¼e dziewczynki". Dziwak.}
+{919}{}{[Åšpiewa.] "Zabawmy siÄ™ - w pana i sÅ‚uÅ¼Ä…cÄ…."}
+{920}{}{Pobawimy siÄ™ w Pana i NiewolnicÄ™, Åowco?}
+{921}{}{JeÅ›li nie chcesz, Å¼ebym zasnÄ™Å‚a po sprawie, zapÅ‚acisz ekstra.}
+{922}{}{Chcesz pÃ³jÅ›Ä‡ Gdzie Å»aden CzÅ‚owiek WczeÅ›niej Nie DotarÅ‚?}
 {923}{}{Zapomnij o automatach do gry. U mnie sukses masz gwarantowany.}
 {924}{}{Nie jestem tania, ale nie ma drugiej takiej jak ja.}
-{925}{}{Kiedy z tob¹ skoñczê nie bêdziesz mia³ si³y poprosiæ o jeszcze.}
-{926}{}{Jestem czarodziejk¹. Daj mi ró¿d¿kê do rêki a wyczarujê ci co zechcesz.}
-{927}{}{No proszê. Zobaczcie kto przyby³ do miasta...}
-{928}{}{Szukasz Cudownej Krainy? ChodŸ do mojej sypialni.}
-{929}{}{Chcesz siê zabawiæ?}
-{930}{}{Nie musisz siê zabezpieczaæ. To mój pierwszy raz. Dzisiaj.}
-{931}{}{Zainstalowa³am ju¿ tê obijan¹ pluszem deskê rozdzielcz¹.}
-{932}{}{Za dziesiêæ ¿etonów otworzê przed tob¹ bramy niebios.}
-{933}{}{Myron: Du¿a gêba. Ma³a reszta.}
+{925}{}{Kiedy z tobÄ… skoÅ„czÄ™ nie bÄ™dziesz miaÅ‚ siÅ‚y poprosiÄ‡ o jeszcze.}
+{926}{}{Jestem czarodziejkÄ…. Daj mi rÃ³Å¼dÅ¼kÄ™ do rÄ™ki a wyczarujÄ™ ci co zechcesz.}
+{927}{}{No proszÄ™. Zobaczcie kto przybyÅ‚ do miasta...}
+{928}{}{Szukasz Cudownej Krainy? ChodÅº do mojej sypialni.}
+{929}{}{Chcesz siÄ™ zabawiÄ‡?}
+{930}{}{Nie musisz siÄ™ zabezpieczaÄ‡. To mÃ³j pierwszy raz. Dzisiaj.}
+{931}{}{ZainstalowaÅ‚am juÅ¼ tÄ™ obijanÄ… pluszem deskÄ™ rozdzielczÄ….}
+{932}{}{Za dziesiÄ™Ä‡ Å¼etonÃ³w otworzÄ™ przed tobÄ… bramy niebios.}
+{933}{}{Myron: DuÅ¼a gÄ™ba. MaÅ‚a reszta.}
 {934}{}{Myron to prawdziwy pajac.}
 {935}{}{Homo, hetero, jestem uniwersalna...}
-{936}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{937}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
-{938}{}{Podobno w Kryptopolis s¹ tylko dwa rodzaje obywateli. Mo¿e oni ich klonuj¹?}
-{939}{}{Czujê siê jakbym wczoraj w nocy bra³a udzia³ w maratonie...}
+{936}{}{Z tej cÃ³rki Bishopa jest niezÅ‚e ziÃ³Å‚ko.}
+{937}{}{Ona nie jest uzaleÅ¼niona od Jetu, tylko od seksu.}
+{938}{}{Podobno w Kryptopolis sÄ… tylko dwa rodzaje obywateli. MoÅ¼e oni ich klonujÄ…?}
+{939}{}{CzujÄ™ siÄ™ jakbym wczoraj w nocy braÅ‚a udziaÅ‚ w maratonie...}
 {940}{}{Szukasz rozrywki, skarbie?}
-{941}{}{¯adnego ca³owania. Tak¹ mam zasadê.}
-{942}{}{Modlê siê, ¿eby Myron wreszcie siê st¹d wyprowadzi³. Najlepiej gdzieœ daleko.}
-{943}{}{Zrobiê wszystko co zechcesz, £owco... za odpowiedni¹ cenê.}
+{941}{}{Å»adnego caÅ‚owania. TakÄ… mam zasadÄ™.}
+{942}{}{ModlÄ™ siÄ™, Å¼eby Myron wreszcie siÄ™ stÄ…d wyprowadziÅ‚. Najlepiej gdzieÅ› daleko.}
+{943}{}{ZrobiÄ™ wszystko co zechcesz, Åowco... za odpowiedniÄ… cenÄ™.}
 {944}{}{Jestem gotowa, skarbie. A ty?}
 {945}{}{Zapomnij o automatach do gry. U mnie sukses masz gwarantowany.}
-{946}{}{Nienawidzê malinek.}
-{947}{}{Spróbuj szczêœcia ze mn¹, £owco.}
-{948}{}{Chcesz siê trochê zabawiæ?}
-{949}{}{Taki seks znajdziesz tylko w Reno, £owco.}
-{950}{}{Chcesz, mo¿emy siê pobawiæ.}
-{951}{}{Mówi¹ na mnie Niegrzeczna Spice.}
-{952}{}{Mówi¹ na mnie Puszczalska Spice.}
-{953}{}{Mówi¹ na mnie Wyuzdana Spice.}
-{954}{}{Mówi¹ na mnie Starsza Spice.}
-{955}{}{Mówi¹ na mnie Syfili... to znaczy - Puszczalska Spice.}
-{956}{}{Mówi¹ na mnie Szybka Spice.}
-{957}{}{S³uchaj¸ mam kole¿ankê, jeœli rajcuj¹ ciê trójk¹ty.}
-{958}{}{Szkoda, ¿e Myron nie jest gejem.}
-{959}{}{Nie mam pojêcia dlaczego nazywaj¹ to Alej¹ Dziewic...}
-{960}{}{Czasem przyda³a by mi siê papierowa torba.}
-{961}{}{Postawisz mi drinka, £owco?}
-{962}{}{Chcesz mnie zabraæ na miasto, £owco?}
-{963}{}{Eeee, oczywiœcie, ¿e jestem kobiet¹. Nie zwracaj uwagi na moje jab³ko Adama.}
-{964}{}{Podobno jakieœ dziewczyny na przedmieœciach zat³uk³y swojego alfonsa.}
+{946}{}{NienawidzÄ™ malinek.}
+{947}{}{SprÃ³buj szczÄ™Å›cia ze mnÄ…, Åowco.}
+{948}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡?}
+{949}{}{Taki seks znajdziesz tylko w Reno, Åowco.}
+{950}{}{Chcesz, moÅ¼emy siÄ™ pobawiÄ‡.}
+{951}{}{MÃ³wiÄ… na mnie Niegrzeczna Spice.}
+{952}{}{MÃ³wiÄ… na mnie Puszczalska Spice.}
+{953}{}{MÃ³wiÄ… na mnie Wyuzdana Spice.}
+{954}{}{MÃ³wiÄ… na mnie Starsza Spice.}
+{955}{}{MÃ³wiÄ… na mnie Syfili... to znaczy - Puszczalska Spice.}
+{956}{}{MÃ³wiÄ… na mnie Szybka Spice.}
+{957}{}{SÅ‚uchajÂ¸ mam koleÅ¼ankÄ™, jeÅ›li rajcujÄ… ciÄ™ trÃ³jkÄ…ty.}
+{958}{}{Szkoda, Å¼e Myron nie jest gejem.}
+{959}{}{Nie mam pojÄ™cia dlaczego nazywajÄ… to AlejÄ… Dziewic...}
+{960}{}{Czasem przydaÅ‚a by mi siÄ™ papierowa torba.}
+{961}{}{Postawisz mi drinka, Åowco?}
+{962}{}{Chcesz mnie zabraÄ‡ na miasto, Åowco?}
+{963}{}{Eeee, oczywiÅ›cie, Å¼e jestem kobietÄ…. Nie zwracaj uwagi na moje jabÅ‚ko Adama.}
+{964}{}{Podobno jakieÅ› dziewczyny na przedmieÅ›ciach zatÅ‚ukÅ‚y swojego alfonsa.}
 {965}{}{Witaj, nieznajomy.}
-{966}{}{Jules móg³by siê wreszcie ode mnie odczepiæ.}
-{967}{}{Znów rozciê³am sobie czo³o o deskê rozdzielcz¹...}
-{968}{}{Od tego ostatniego zlotu jakoœ nie mogê dojœæ do siebie.}
-{969}{}{Dlaczego ten zlot musi siê odbywaæ w³aœnie w Nowym Reno?}
-{970}{}{Na sam twój widok robi mi siê gor¹co, wiesz?}
-{971}{}{Poczu³am jak ziemia dr¿y, ale okaza³o siê, ¿e to tylko chili.}
-{972}{}{WeŸ mnie.}
-{973}{}{Jestem dziewic¹. To bêdzie mój pierwszy raz.}
-{974}{}{Potrzebujesz przewodniczki, £owco?}
-{975}{}{Heeej! TO ciê bêdzie du¿o kosztowaæ.}
-{976}{}{Jules bez przerwy prosi mnie o darmow¹ próbkê.}
-{977}{}{Podobno miêdzy rodzinami znów dochodzi do spiêæ.}
-{978}{}{Mamy ostatnio zastój w interesie. Ciekawe kiedy zjawi siê jakaœ karawana.}
-{979}{}{Wtedy on przebra³ siê w kostium szpona œmierci i...}
-{980}{}{Pomo¿esz mi wydostaæ siê z tej... sukienki?}
-{981}{}{Strasznie tu gor¹co. Mo¿e siê rozbiorê?}
-{982}{}{Przepraszam, co mówi³eœ? Zagapi³am siê na twój ty³ek.}
-{983}{}{Chcesz spêdziæ ze mn¹ trochê czasu?}
-{984}{}{Chcesz siê trochê zabawiæ?}
-{985}{}{W zesz³ym tygodniu musia³am kopn¹æ Julesa w jego klejnoty rodowe.}
-{986}{}{Chcesz mnie zabraæ na miasto?}
-{987}{}{Nie bez powodu mam na imiê Tania.}
-{988}{}{OCZYWIŒCIE, ¿e lubiê kondomy o smaku braminowym. Pyyycha.}
-{989}{}{Zabierzesz damê na miasto, £owco?}
-{990}{}{Mo¿e kupimy Myronowi na urodziny gumow¹ lalkê. Albo lepiej dwie.}
-{991}{}{Szukasz kobiety, £owco?}
-{992}{}{Jedna noc ze mn¹, £owco, a œwiat nigdy ju¿ nie bêdzie taki sam.}
-{993}{}{Szukasz Cudownej Krainy? ChodŸ do mojej sypialni.}
-{994}{}{Za parê ¿etonów mogê byæ twoja.}
-{995}{}{Mo¿esz mi pomóc? Zgubi³am gdzieœ swoje dziewictwo.}
-{996}{}{Jestem dziewic¹, ale potrzebujê pieniêdzy.}
-{997}{}{B¹dŸ delikatny. To mój pierwszy raz... dzisiaj.}
+{966}{}{Jules mÃ³gÅ‚by siÄ™ wreszcie ode mnie odczepiÄ‡.}
+{967}{}{ZnÃ³w rozciÄ™Å‚am sobie czoÅ‚o o deskÄ™ rozdzielczÄ…...}
+{968}{}{Od tego ostatniego zlotu jakoÅ› nie mogÄ™ dojÅ›Ä‡ do siebie.}
+{969}{}{Dlaczego ten zlot musi siÄ™ odbywaÄ‡ wÅ‚aÅ›nie w Nowym Reno?}
+{970}{}{Na sam twÃ³j widok robi mi siÄ™ gorÄ…co, wiesz?}
+{971}{}{PoczuÅ‚am jak ziemia drÅ¼y, ale okazaÅ‚o siÄ™, Å¼e to tylko chili.}
+{972}{}{WeÅº mnie.}
+{973}{}{Jestem dziewicÄ…. To bÄ™dzie mÃ³j pierwszy raz.}
+{974}{}{Potrzebujesz przewodniczki, Åowco?}
+{975}{}{Heeej! TO ciÄ™ bÄ™dzie duÅ¼o kosztowaÄ‡.}
+{976}{}{Jules bez przerwy prosi mnie o darmowÄ… prÃ³bkÄ™.}
+{977}{}{Podobno miÄ™dzy rodzinami znÃ³w dochodzi do spiÄ™Ä‡.}
+{978}{}{Mamy ostatnio zastÃ³j w interesie. Ciekawe kiedy zjawi siÄ™ jakaÅ› karawana.}
+{979}{}{Wtedy on przebraÅ‚ siÄ™ w kostium szpona Å›mierci i...}
+{980}{}{PomoÅ¼esz mi wydostaÄ‡ siÄ™ z tej... sukienki?}
+{981}{}{Strasznie tu gorÄ…co. MoÅ¼e siÄ™ rozbiorÄ™?}
+{982}{}{Przepraszam, co mÃ³wiÅ‚eÅ›? ZagapiÅ‚am siÄ™ na twÃ³j tyÅ‚ek.}
+{983}{}{Chcesz spÄ™dziÄ‡ ze mnÄ… trochÄ™ czasu?}
+{984}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡?}
+{985}{}{W zeszÅ‚ym tygodniu musiaÅ‚am kopnÄ…Ä‡ Julesa w jego klejnoty rodowe.}
+{986}{}{Chcesz mnie zabraÄ‡ na miasto?}
+{987}{}{Nie bez powodu mam na imiÄ™ Tania.}
+{988}{}{OCZYWIÅšCIE, Å¼e lubiÄ™ kondomy o smaku braminowym. Pyyycha.}
+{989}{}{Zabierzesz damÄ™ na miasto, Åowco?}
+{990}{}{MoÅ¼e kupimy Myronowi na urodziny gumowÄ… lalkÄ™. Albo lepiej dwie.}
+{991}{}{Szukasz kobiety, Åowco?}
+{992}{}{Jedna noc ze mnÄ…, Åowco, a Å›wiat nigdy juÅ¼ nie bÄ™dzie taki sam.}
+{993}{}{Szukasz Cudownej Krainy? ChodÅº do mojej sypialni.}
+{994}{}{Za parÄ™ Å¼etonÃ³w mogÄ™ byÄ‡ twoja.}
+{995}{}{MoÅ¼esz mi pomÃ³c? ZgubiÅ‚am gdzieÅ› swoje dziewictwo.}
+{996}{}{Jestem dziewicÄ…, ale potrzebujÄ™ pieniÄ™dzy.}
+{997}{}{BÄ…dÅº delikatny. To mÃ³j pierwszy raz... dzisiaj.}
 {998}{}{Moja napalona.}
-{999}{}{Ty po¿¹dasz, ja zaspokajam.}
-{1000}{}{Fizycznie niemo¿liwe? I co z tego!}
-{1001}{}{Robiê to tylko dlatego, ¿eby móc tu studiowaæ.}
-{1002}{}{Mówiê ci po raz ostatni: nie bêdê siê przebiera³a za Przybysza z Krypty.}
-{1003}{}{Bierz siê do pracy, górniku!}
-{1004}{}{Mam byæ g³oœno czy cichutko jak myszka?}
+{999}{}{Ty poÅ¼Ä…dasz, ja zaspokajam.}
+{1000}{}{Fizycznie niemoÅ¼liwe? I co z tego!}
+{1001}{}{RobiÄ™ to tylko dlatego, Å¼eby mÃ³c tu studiowaÄ‡.}
+{1002}{}{MÃ³wiÄ™ ci po raz ostatni: nie bÄ™dÄ™ siÄ™ przebieraÅ‚a za Przybysza z Krypty.}
+{1003}{}{Bierz siÄ™ do pracy, gÃ³rniku!}
+{1004}{}{Mam byÄ‡ gÅ‚oÅ›no czy cichutko jak myszka?}
 {1005}{}{::Mrrrrau::}
 {1006}{}{::Grrr::}
-{1007}{}{Nie ³askocz mnie!!!}
-{1008}{}{Nie œpiê od dwóch dni...}
-{1009}{}{Mo¿e bêdziemy udawaæ szpony œmierci w sezonie godowym?}
+{1007}{}{Nie Å‚askocz mnie!!!}
+{1008}{}{Nie Å›piÄ™ od dwÃ³ch dni...}
+{1009}{}{MoÅ¼e bÄ™dziemy udawaÄ‡ szpony Å›mierci w sezonie godowym?}
 {1010}{}{Nie jestem tania, ale nie ma drugiej takiej jak ja.}
-{1011}{}{Wi¹zanie kosztuje ekstra.}
-{1012}{}{Gdzie ja podzia³am mój pejcz?}
+{1011}{}{WiÄ…zanie kosztuje ekstra.}
+{1012}{}{Gdzie ja podziaÅ‚am mÃ³j pejcz?}
 {1013}{}{Gotowa do akcji.}
-{1014}{}{Ostatniej nocy musia³am siê przebraæ za Larê Croft.}
-{1015}{}{By³am wczoraj z Myronem. Przez ca³e piêæ sekund.}
-{1016}{}{Mam ci roz³adowaæ magazynek?}
-{1017}{}{Mogliby wreszcie wymyœliæ jakieœ perfumy o zapachu Jetu...}
-{1018}{}{Mo¿e pomo¿esz biednej dziewczynie straciæ dziewictwo?}
-{1019}{}{Ty³ek mi odpadnie jeœli Myron siê nie opanuje.}
-{1020}{}{Cholerna Unia WstrzemiêŸliwoœci znowu nas nachodzi...}
-{1021}{}{Przy tobie mój wewnêtrzny licznik Geigera zaczyna wariowaæ.}
-{1022}{}{::Gwi¿d¿e::}
+{1014}{}{Ostatniej nocy musiaÅ‚am siÄ™ przebraÄ‡ za LarÄ™ Croft.}
+{1015}{}{ByÅ‚am wczoraj z Myronem. Przez caÅ‚e piÄ™Ä‡ sekund.}
+{1016}{}{Mam ci rozÅ‚adowaÄ‡ magazynek?}
+{1017}{}{Mogliby wreszcie wymyÅ›liÄ‡ jakieÅ› perfumy o zapachu Jetu...}
+{1018}{}{MoÅ¼e pomoÅ¼esz biednej dziewczynie straciÄ‡ dziewictwo?}
+{1019}{}{TyÅ‚ek mi odpadnie jeÅ›li Myron siÄ™ nie opanuje.}
+{1020}{}{Cholerna Unia WstrzemiÄ™ÅºliwoÅ›ci znowu nas nachodzi...}
+{1021}{}{Przy tobie mÃ³j wewnÄ™trzny licznik Geigera zaczyna wariowaÄ‡.}
+{1022}{}{::GwiÅ¼dÅ¼e::}
 {1023}{}{Gryzienie kosztuje ekstra.}
-{1024}{}{¯aden Pip-Boy nie da ci tyle radoœci co ja.}
-{1025}{}{Chcesz siê ostro zabawiæ?}
-{1026}{}{Najchêtniej przespa³abym siê z Avellonem.}
-{1027}{}{Szkoda, ¿e nie ma tu Nicka Kestinga. Moglibyœmy rozmawiaæ do bia³ego rana!}
-{1028}{}{Nick Kesting to naprawdê mi³y facet. Przyjemnie siê z nim rozmawia.}
+{1024}{}{Å»aden Pip-Boy nie da ci tyle radoÅ›ci co ja.}
+{1025}{}{Chcesz siÄ™ ostro zabawiÄ‡?}
+{1026}{}{NajchÄ™tniej przespaÅ‚abym siÄ™ z Avellonem.}
+{1027}{}{Szkoda, Å¼e nie ma tu Nicka Kestinga. MoglibyÅ›my rozmawiaÄ‡ do biaÅ‚ego rana!}
+{1028}{}{Nick Kesting to naprawdÄ™ miÅ‚y facet. Przyjemnie siÄ™ z nim rozmawia.}
 {1029}{}{Tommy Trzy Jajca jest niesamowity.}
-{1030}{}{Za piêædziesi¹t dolarów sprawiê, ¿e bêdziesz krzyczeæ do utraty tchu.}
-{1031}{}{Jestem Tania, £owczyni. A ty jak masz na imiê?}
-{1032}{}{Lubisz siê ostro zabawiæ, £owczyni?}
-{1033}{}{Mo¿e zabierzesz mnie do swojej klatki?}
-{1034}{}{Hej, £owczyni. Szukasz przyjació³ki?}
-{1035}{}{Chcesz zobaczyæ jak to jest byæ z kobiet¹, £owczyni?}
-{1036}{}{Szukasz niewolnicy, £owczyni?}
-{1037}{}{Masz ochotê na eksperymenty? Œmia³o!}
-{1038}{}{Chcesz trochê poszaleæ, £owczyni?}
-{1039}{}{Szukasz kogoœ, kto ogrzeje ci ³ó¿ko, £owczyni?}
+{1030}{}{Za piÄ™Ä‡dziesiÄ…t dolarÃ³w sprawiÄ™, Å¼e bÄ™dziesz krzyczeÄ‡ do utraty tchu.}
+{1031}{}{Jestem Tania, Åowczyni. A ty jak masz na imiÄ™?}
+{1032}{}{Lubisz siÄ™ ostro zabawiÄ‡, Åowczyni?}
+{1033}{}{MoÅ¼e zabierzesz mnie do swojej klatki?}
+{1034}{}{Hej, Åowczyni. Szukasz przyjaciÃ³Å‚ki?}
+{1035}{}{Chcesz zobaczyÄ‡ jak to jest byÄ‡ z kobietÄ…, Åowczyni?}
+{1036}{}{Szukasz niewolnicy, Åowczyni?}
+{1037}{}{Masz ochotÄ™ na eksperymenty? ÅšmiaÅ‚o!}
+{1038}{}{Chcesz trochÄ™ poszaleÄ‡, Åowczyni?}
+{1039}{}{Szukasz kogoÅ›, kto ogrzeje ci Å‚Ã³Å¼ko, Åowczyni?}
 {1040}{}{Szukasz towarzyszki zabaw?}
-{1041}{}{No no. Niez³e kszta³ty, dziewczyno.}
-{1042}{}{Zatañczymy, £owczyni?}
+{1041}{}{No no. NiezÅ‚e ksztaÅ‚ty, dziewczyno.}
+{1042}{}{ZataÅ„czymy, Åowczyni?}
 {1043}{}{Prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{1044}{}{Czym siê zajmujê? Zmieniam ch³opców w MÊ¯CZYZN. Nie wiem jeszcze w co zamieniam kobiety, ale chêtnie siê przekonam.}
-{1045}{}{Zgubi³aœ siê, £owczyni?}
-{1046}{}{Chcesz siê trochê zabawiæ, £owczyni?}
-{1047}{}{Chcesz mnie zabraæ na randkê, £owczyni?}
-{1048}{}{Pali siê gdzieœ, £owczyni?}
-{1049}{}{Przy tobie mój wewnêtrzny licznik Geigera zaczyna wariowaæ.}
-{1050}{}{Jestem Tania. A ty jak masz na imiê?}
-{1051}{}{Rozrywkowy z ciebie goœæ, co?}
-{1052}{}{Masz ze sob¹ w³asn¹ œciereczkê?}
-{1053}{}{Tak, S¥ prawdziwe.}
-{1054}{}{TAK, s¹ prawdziwe i NIE, nie mo¿esz sprawdziæ.}
-{1055}{}{Odwal siê, przyg³upie.}
-{1056}{}{Chcesz mnie uje¿d¿aæ, kowboju?}
-{1057}{}{Chcesz mnie zatopiæ swoj¹ torped¹?}
-{1058}{}{Szukasz towarzystwa na jedn¹ noc?}
-{1059}{}{Szukasz nowej towarzyszki podró¿y?}
-{1060}{}{Niez³y sprzêt.}
-{1061}{}{Co to, masz wê¿a w kieszeni? A mo¿e w rozporku?!}
-{1062}{}{Chcesz siê zabawiæ?}
+{1044}{}{Czym siÄ™ zajmujÄ™? Zmieniam chÅ‚opcÃ³w w MÄ˜Å»CZYZN. Nie wiem jeszcze w co zamieniam kobiety, ale chÄ™tnie siÄ™ przekonam.}
+{1045}{}{ZgubiÅ‚aÅ› siÄ™, Åowczyni?}
+{1046}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡, Åowczyni?}
+{1047}{}{Chcesz mnie zabraÄ‡ na randkÄ™, Åowczyni?}
+{1048}{}{Pali siÄ™ gdzieÅ›, Åowczyni?}
+{1049}{}{Przy tobie mÃ³j wewnÄ™trzny licznik Geigera zaczyna wariowaÄ‡.}
+{1050}{}{Jestem Tania. A ty jak masz na imiÄ™?}
+{1051}{}{Rozrywkowy z ciebie goÅ›Ä‡, co?}
+{1052}{}{Masz ze sobÄ… wÅ‚asnÄ… Å›ciereczkÄ™?}
+{1053}{}{Tak, SÄ„ prawdziwe.}
+{1054}{}{TAK, sÄ… prawdziwe i NIE, nie moÅ¼esz sprawdziÄ‡.}
+{1055}{}{Odwal siÄ™, przygÅ‚upie.}
+{1056}{}{Chcesz mnie ujeÅ¼dÅ¼aÄ‡, kowboju?}
+{1057}{}{Chcesz mnie zatopiÄ‡ swojÄ… torpedÄ…?}
+{1058}{}{Szukasz towarzystwa na jednÄ… noc?}
+{1059}{}{Szukasz nowej towarzyszki podrÃ³Å¼y?}
+{1060}{}{NiezÅ‚y sprzÄ™t.}
+{1061}{}{Co to, masz wÄ™Å¼a w kieszeni? A moÅ¼e w rozporku?!}
+{1062}{}{Chcesz siÄ™ zabawiÄ‡?}
 {1063}{}{Prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{1064}{}{Szukasz towarzystwa, £owco?}
-{1065}{}{S³uchaj, nie dajemy darmowych próbek.}
-{1066}{}{Podobno w Dzielnicy Handlowej by³y jakieœ k³opoty...}
+{1064}{}{Szukasz towarzystwa, Åowco?}
+{1065}{}{SÅ‚uchaj, nie dajemy darmowych prÃ³bek.}
+{1066}{}{Podobno w Dzielnicy Handlowej byÅ‚y jakieÅ› kÅ‚opoty...}
 {1067}{}{Szukasz towarzystwa?}
-{1068}{}{Od rana nie mia³am w ustach nic ciep³ego...}
-{1069}{}{Zatañczymy?}
+{1068}{}{Od rana nie miaÅ‚am w ustach nic ciepÅ‚ego...}
+{1069}{}{ZataÅ„czymy?}
 {1070}{}{Prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{1071}{}{Czym siê zajmujê? Zmieniam ch³opców w MÊ¯CZYZN.}
-{1072}{}{Naprawdê potrafisz wbijaæ cz³onkiem szeœciocalowe gwoŸdzie?}
-{1073}{}{Od dwóch dni nie zmru¿y³am oka...}
-{1074}{}{Szukasz przyjació³ki na dzisiejsz¹ noc? A mo¿e tylko na dziesiêæ minut?}
-{1075}{}{Zabawimy siê?}
-{1076}{}{Ju¿ od dawna nie by³o u nas karawany z Redding.}
-{1077}{}{Niez³y sprzêt.}
-{1078}{}{Zgubi³eœ siê, kowboju?}
-{1079}{}{Chcesz roz³adowaæ magazynek, ¿o³nierzu?}
-{1080}{}{Mogê ci w czymœ pomóc, nieznajomy?}
-{1081}{}{Chcesz siê trochê zabawiæ?}
-{1082}{}{Chcesz mnie zabraæ na miasto?}
-{1083}{}{Podoba mi siê twój gekon.}
+{1071}{}{Czym siÄ™ zajmujÄ™? Zmieniam chÅ‚opcÃ³w w MÄ˜Å»CZYZN.}
+{1072}{}{NaprawdÄ™ potrafisz wbijaÄ‡ czÅ‚onkiem szeÅ›ciocalowe gwoÅºdzie?}
+{1073}{}{Od dwÃ³ch dni nie zmruÅ¼yÅ‚am oka...}
+{1074}{}{Szukasz przyjaciÃ³Å‚ki na dzisiejszÄ… noc? A moÅ¼e tylko na dziesiÄ™Ä‡ minut?}
+{1075}{}{Zabawimy siÄ™?}
+{1076}{}{JuÅ¼ od dawna nie byÅ‚o u nas karawany z Redding.}
+{1077}{}{NiezÅ‚y sprzÄ™t.}
+{1078}{}{ZgubiÅ‚eÅ› siÄ™, kowboju?}
+{1079}{}{Chcesz rozÅ‚adowaÄ‡ magazynek, Å¼oÅ‚nierzu?}
+{1080}{}{MogÄ™ ci w czymÅ› pomÃ³c, nieznajomy?}
+{1081}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡?}
+{1082}{}{Chcesz mnie zabraÄ‡ na miasto?}
+{1083}{}{Podoba mi siÄ™ twÃ³j gekon.}
 {1084}{}{Co to, masz gekona w kieszeni?}
-{1085}{}{Potrzebujesz przewodniczki, s³onko?}
-{1086}{}{Pali siê gdzieœ?}
-{1087}{}{Za parê ¿etonów mogê byæ twoja.}
-{1088}{}{Dzieciaku, zrobiê z ciebie mê¿czyznê.}
-{1089}{}{Och witam, panie Tyler. Dok¹d to siê wybieramy?}
-{1090}{}{Za rozmowê po sprawie p³aci siê ekstra.}
-{1091}{}{Taki jeden goœæ, Fred Hatch, chcia³ wiedzieæ czy s¹ w Reno jakieœ "du¿e dziewczynki". Dziwak.}
-{1092}{}{Ten twój kolega z koœci¹ w nosie... bardzo interesuj¹cy.}
-{1093}{}{Ten twój znajomek z koœci¹ w nosie rekompensuje sobie jakieœ braki?}
-{1094}{}{Mo¿e ja te¿ powinnam sobie wsadziæ koœæ do nosa. To przyci¹gnie wiêcej kobiet.}
-{1095}{}{Ta koœæ w nosie tego goœcia jest wielkoœci mojego ramienia. Chryyy-ste.}
-{1096}{}{Nawet nie chcê wiedzieæ jak ta koœæ znalaz³a siê w jego nosie.}
-{1097}{}{Ten twój kolega z koœci¹ w nosie jest z naszej bran¿y?}
-{1098}{}{Ile bierze za numerek ten twój kole¿ka z koœci¹ w nosie?}
-{1099}{}{Za trzydzieœci ¿etonów sprawiê, ¿e koœæ w nosie twojego kolegi stanie na bacznoœæ.}
-{1100}{}{Twój przyjaciel rekompensuje sobie t¹ koœci¹ jakieœ braki?}
-{1101}{}{Szukasz Cudownej Krainy? ChodŸ do mojej sypialni.}
-{1102}{}{Chcesz siê zabawiæ?}
-{1103}{}{Nie musisz siê zabezpieczaæ. To mój pierwszy raz. Dzisiaj.}
-{1104}{}{Nauczê ciê paru sztuczek o poskramianiu kobiet.}
-{1105}{}{Zainstalowa³am ju¿ tê obijan¹ pluszem deskê rozdzielcz¹.}
-{1106}{}{Za dziesiêæ ¿etonów otworzê przed tob¹ bramy niebios.}
-{1107}{}{Myron: Du¿a gêba. Ma³a reszta.}
+{1085}{}{Potrzebujesz przewodniczki, sÅ‚onko?}
+{1086}{}{Pali siÄ™ gdzieÅ›?}
+{1087}{}{Za parÄ™ Å¼etonÃ³w mogÄ™ byÄ‡ twoja.}
+{1088}{}{Dzieciaku, zrobiÄ™ z ciebie mÄ™Å¼czyznÄ™.}
+{1089}{}{Och witam, panie Tyler. DokÄ…d to siÄ™ wybieramy?}
+{1090}{}{Za rozmowÄ™ po sprawie pÅ‚aci siÄ™ ekstra.}
+{1091}{}{Taki jeden goÅ›Ä‡, Fred Hatch, chciaÅ‚ wiedzieÄ‡ czy sÄ… w Reno jakieÅ› "duÅ¼e dziewczynki". Dziwak.}
+{1092}{}{Ten twÃ³j kolega z koÅ›ciÄ… w nosie... bardzo interesujÄ…cy.}
+{1093}{}{Ten twÃ³j znajomek z koÅ›ciÄ… w nosie rekompensuje sobie jakieÅ› braki?}
+{1094}{}{MoÅ¼e ja teÅ¼ powinnam sobie wsadziÄ‡ koÅ›Ä‡ do nosa. To przyciÄ…gnie wiÄ™cej kobiet.}
+{1095}{}{Ta koÅ›Ä‡ w nosie tego goÅ›cia jest wielkoÅ›ci mojego ramienia. Chryyy-ste.}
+{1096}{}{Nawet nie chcÄ™ wiedzieÄ‡ jak ta koÅ›Ä‡ znalazÅ‚a siÄ™ w jego nosie.}
+{1097}{}{Ten twÃ³j kolega z koÅ›ciÄ… w nosie jest z naszej branÅ¼y?}
+{1098}{}{Ile bierze za numerek ten twÃ³j koleÅ¼ka z koÅ›ciÄ… w nosie?}
+{1099}{}{Za trzydzieÅ›ci Å¼etonÃ³w sprawiÄ™, Å¼e koÅ›Ä‡ w nosie twojego kolegi stanie na bacznoÅ›Ä‡.}
+{1100}{}{TwÃ³j przyjaciel rekompensuje sobie tÄ… koÅ›ciÄ… jakieÅ› braki?}
+{1101}{}{Szukasz Cudownej Krainy? ChodÅº do mojej sypialni.}
+{1102}{}{Chcesz siÄ™ zabawiÄ‡?}
+{1103}{}{Nie musisz siÄ™ zabezpieczaÄ‡. To mÃ³j pierwszy raz. Dzisiaj.}
+{1104}{}{NauczÄ™ ciÄ™ paru sztuczek o poskramianiu kobiet.}
+{1105}{}{ZainstalowaÅ‚am juÅ¼ tÄ™ obijanÄ… pluszem deskÄ™ rozdzielczÄ….}
+{1106}{}{Za dziesiÄ™Ä‡ Å¼etonÃ³w otworzÄ™ przed tobÄ… bramy niebios.}
+{1107}{}{Myron: DuÅ¼a gÄ™ba. MaÅ‚a reszta.}
 {1108}{}{Myron to prawdziwy pajac.}
 {1109}{}{Homo, hetero, jestem uniwersalna...}
-{1110}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{1111}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
-{1112}{}{Podobno w Kryptopolis s¹ tylko dwa rodzaje obywateli. Mo¿e oni ich klonuj¹?}
-{1113}{}{Czujê siê jakbym wczoraj w nocy bra³a udzia³ w maratonie...}
+{1110}{}{Z tej cÃ³rki Bishopa jest niezÅ‚e ziÃ³Å‚ko.}
+{1111}{}{Ona nie jest uzaleÅ¼niona od Jetu, tylko od seksu.}
+{1112}{}{Podobno w Kryptopolis sÄ… tylko dwa rodzaje obywateli. MoÅ¼e oni ich klonujÄ…?}
+{1113}{}{CzujÄ™ siÄ™ jakbym wczoraj w nocy braÅ‚a udziaÅ‚ w maratonie...}
 {1114}{}{Szukasz rozrywki, skarbie?}
-{1115}{}{¯adnego ca³owania. Tak¹ mam zasadê.}
-{1116}{}{Modlê siê, ¿eby Myron wreszcie siê st¹d wyprowadzi³. Najlepiej gdzieœ daleko.}
-{1117}{}{Mogê zrobiæ co tylko zechcesz... oczywiœcie za odpowiedni¹ cenê.}
+{1115}{}{Å»adnego caÅ‚owania. TakÄ… mam zasadÄ™.}
+{1116}{}{ModlÄ™ siÄ™, Å¼eby Myron wreszcie siÄ™ stÄ…d wyprowadziÅ‚. Najlepiej gdzieÅ› daleko.}
+{1117}{}{MogÄ™ zrobiÄ‡ co tylko zechcesz... oczywiÅ›cie za odpowiedniÄ… cenÄ™.}
 {1118}{}{Jestem gotowa, skarbie. A ty?}
 {1119}{}{Zapomnij o automatach do gry. U mnie sukses masz gwarantowany.}
-{1120}{}{Nienawidzê malinek.}
-{1121}{}{Spróbuj szczêœcia ze mn¹, skarbie.}
-{1122}{}{Chcesz siê trochê zabawiæ?}
-{1123}{}{A¿ trudno uwierzyæ, ile striptizerek œci¹gnêli na wieczór kawalerski Feargusa.}
-{1124}{}{Taki seks znajdziesz tylko w Reno, £owco.}
-{1125}{}{Chcesz, mo¿emy siê pobawiæ.}
-{1126}{}{Mówi¹ na mnie Niegrzeczna Spice.}
-{1127}{}{Mówi¹ na mnie Puszczalska Spice.}
-{1128}{}{Mówi¹ na mnie Starsza Spice.}
-{1129}{}{Mówi¹ na mnie Wyuzdana Spice.}
-{1130}{}{Mówi¹ na mnie Syfili... to znaczy - Puszczalska Spice.}
-{1131}{}{Mówi¹ na mnie Szybka Spice.}
-{1132}{}{Mam przyjació³kê, jeœli bawi¹ ciê trójk¹ty.}
-{1133}{}{Szkoda, ¿e Myron nie jest gejem.}
-{1134}{}{Nie mam pojêcia dlaczego nazywaj¹ to Alej¹ Dziewic...}
-{1135}{}{Czasem przyda³a by mi siê papierowa torba.}
+{1120}{}{NienawidzÄ™ malinek.}
+{1121}{}{SprÃ³buj szczÄ™Å›cia ze mnÄ…, skarbie.}
+{1122}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡?}
+{1123}{}{AÅ¼ trudno uwierzyÄ‡, ile striptizerek Å›ciÄ…gnÄ™li na wieczÃ³r kawalerski Feargusa.}
+{1124}{}{Taki seks znajdziesz tylko w Reno, Åowco.}
+{1125}{}{Chcesz, moÅ¼emy siÄ™ pobawiÄ‡.}
+{1126}{}{MÃ³wiÄ… na mnie Niegrzeczna Spice.}
+{1127}{}{MÃ³wiÄ… na mnie Puszczalska Spice.}
+{1128}{}{MÃ³wiÄ… na mnie Starsza Spice.}
+{1129}{}{MÃ³wiÄ… na mnie Wyuzdana Spice.}
+{1130}{}{MÃ³wiÄ… na mnie Syfili... to znaczy - Puszczalska Spice.}
+{1131}{}{MÃ³wiÄ… na mnie Szybka Spice.}
+{1132}{}{Mam przyjaciÃ³Å‚kÄ™, jeÅ›li bawiÄ… ciÄ™ trÃ³jkÄ…ty.}
+{1133}{}{Szkoda, Å¼e Myron nie jest gejem.}
+{1134}{}{Nie mam pojÄ™cia dlaczego nazywajÄ… to AlejÄ… Dziewic...}
+{1135}{}{Czasem przydaÅ‚a by mi siÄ™ papierowa torba.}
 {1136}{}{Postawisz mi drinka?}
-{1137}{}{Chcesz mnie zabraæ na miasto?}
-{1138}{}{Eeee, oczywiœcie, ¿e jestem kobiet¹. Nie zwracaj uwagi na moje jab³ko Adama.}
-{1139}{}{Podobno jakieœ dziewczyny na przedmieœciach zat³uk³y swojego alfonsa.}
+{1137}{}{Chcesz mnie zabraÄ‡ na miasto?}
+{1138}{}{Eeee, oczywiÅ›cie, Å¼e jestem kobietÄ…. Nie zwracaj uwagi na moje jabÅ‚ko Adama.}
+{1139}{}{Podobno jakieÅ› dziewczyny na przedmieÅ›ciach zatÅ‚ukÅ‚y swojego alfonsa.}
 {1140}{}{Witaj, nieznajomy.}
-{1141}{}{Jules móg³by siê wreszcie ode mnie odczepiæ.}
-{1142}{}{Znów rozciê³am sobie czo³o o deskê rozdzielcz¹...}
-{1143}{}{Od ostatniego zlotu jakoœ nie mogê dojœæ do siebie...}
-{1144}{}{Dlaczego ten zlot musi siê odbywaæ w³aœnie w Nowym Reno?}
-{1145}{}{Na sam twój widok robi mi siê gor¹co, wiesz?}
-{1146}{}{Poczu³am jak ziemia dr¿y, ale okaza³o siê, ¿e to tylko chili.}
-{1147}{}{WeŸ mnie.}
-{1148}{}{Jestem dziewic¹. To bêdzie mój pierwszy raz.}
+{1141}{}{Jules mÃ³gÅ‚by siÄ™ wreszcie ode mnie odczepiÄ‡.}
+{1142}{}{ZnÃ³w rozciÄ™Å‚am sobie czoÅ‚o o deskÄ™ rozdzielczÄ…...}
+{1143}{}{Od ostatniego zlotu jakoÅ› nie mogÄ™ dojÅ›Ä‡ do siebie...}
+{1144}{}{Dlaczego ten zlot musi siÄ™ odbywaÄ‡ wÅ‚aÅ›nie w Nowym Reno?}
+{1145}{}{Na sam twÃ³j widok robi mi siÄ™ gorÄ…co, wiesz?}
+{1146}{}{PoczuÅ‚am jak ziemia drÅ¼y, ale okazaÅ‚o siÄ™, Å¼e to tylko chili.}
+{1147}{}{WeÅº mnie.}
+{1148}{}{Jestem dziewicÄ…. To bÄ™dzie mÃ³j pierwszy raz.}
 {1149}{}{Potrzebujesz przewodniczki?}
-{1150}{}{Hej! To ciê bêdzie kosztowaæ ekstra.}
-{1151}{}{Jules bez przerwy prosi mnie o darmow¹ próbkê.}
-{1152}{}{Podobno miêdzy rodzinami znów dochodzi do spiêæ.}
-{1153}{}{Mamy ostatnio zastój w interesie. Ciekawe kiedy zjawi siê jakaœ karawana.}
-{1154}{}{Wtedy on przebra³ siê w kostium szpona œmierci i...}
-{1155}{}{Pomo¿esz mi wydostaæ siê z tej... sukienki?}
-{1156}{}{Strasznie tu gor¹co. Mo¿e siê rozbiorê?}
-{1157}{}{Przepraszam, co mówi³eœ? Zagapi³am siê na twój ty³ek.}
-{1158}{}{Chcesz spêdziæ ze mn¹ trochê czasu?}
-{1159}{}{W zesz³ym tygodniu musia³am kopn¹æ Julesa w jego klejnoty rodowe.}
-{1160}{}{Nie bez powodu mam na imiê Tania.}
-{1161}{}{Oczywiœcie, UWIELBIAM prezerwatywy o smaku braminowym. Pyyycha.}
+{1150}{}{Hej! To ciÄ™ bÄ™dzie kosztowaÄ‡ ekstra.}
+{1151}{}{Jules bez przerwy prosi mnie o darmowÄ… prÃ³bkÄ™.}
+{1152}{}{Podobno miÄ™dzy rodzinami znÃ³w dochodzi do spiÄ™Ä‡.}
+{1153}{}{Mamy ostatnio zastÃ³j w interesie. Ciekawe kiedy zjawi siÄ™ jakaÅ› karawana.}
+{1154}{}{Wtedy on przebraÅ‚ siÄ™ w kostium szpona Å›mierci i...}
+{1155}{}{PomoÅ¼esz mi wydostaÄ‡ siÄ™ z tej... sukienki?}
+{1156}{}{Strasznie tu gorÄ…co. MoÅ¼e siÄ™ rozbiorÄ™?}
+{1157}{}{Przepraszam, co mÃ³wiÅ‚eÅ›? ZagapiÅ‚am siÄ™ na twÃ³j tyÅ‚ek.}
+{1158}{}{Chcesz spÄ™dziÄ‡ ze mnÄ… trochÄ™ czasu?}
+{1159}{}{W zeszÅ‚ym tygodniu musiaÅ‚am kopnÄ…Ä‡ Julesa w jego klejnoty rodowe.}
+{1160}{}{Nie bez powodu mam na imiÄ™ Tania.}
+{1161}{}{OczywiÅ›cie, UWIELBIAM prezerwatywy o smaku braminowym. Pyyycha.}
 {1162}{}{Zabierzesz mnie na miasto?}
-{1163}{}{Mo¿e kupimy Myronowi na urodziny gumow¹ lalkê. Albo lepiej dwie.}
+{1163}{}{MoÅ¼e kupimy Myronowi na urodziny gumowÄ… lalkÄ™. Albo lepiej dwie.}
 {1164}{}{Szukasz towarzystwa, dzikusku?}
 {1165}{}{Pofiglujemy, dzikusku?}
-{1166}{}{Mo¿e odtañczysz taniec deszczu w mojej sypialni, co dzikusku?}
-{1167}{}{Jedna noc ze mn¹ i œwiat ju¿ nigdy nie bêdzie taki sam.}
-{1168}{}{Szukasz Cudownej Krainy? ChodŸ do mojej sypialni.}
-{1169}{}{Mo¿esz mi pomóc? Zgubi³am gdzieœ swoje dziewictwo.}
-{1170}{}{Jestem dziewic¹, ale potrzebujê pieniêdzy.}
-{1171}{}{B¹dŸ delikatny. To mój pierwszy raz... dzisiaj.}
+{1166}{}{MoÅ¼e odtaÅ„czysz taniec deszczu w mojej sypialni, co dzikusku?}
+{1167}{}{Jedna noc ze mnÄ… i Å›wiat juÅ¼ nigdy nie bÄ™dzie taki sam.}
+{1168}{}{Szukasz Cudownej Krainy? ChodÅº do mojej sypialni.}
+{1169}{}{MoÅ¼esz mi pomÃ³c? ZgubiÅ‚am gdzieÅ› swoje dziewictwo.}
+{1170}{}{Jestem dziewicÄ…, ale potrzebujÄ™ pieniÄ™dzy.}
+{1171}{}{BÄ…dÅº delikatny. To mÃ³j pierwszy raz... dzisiaj.}
 {1172}{}{Moja napalona.}
-{1173}{}{Ty po¿¹dasz, ja zaspokajam.}
-{1174}{}{Fizycznie niemo¿liwe? I co z tego!}
-{1175}{}{Robiê to tylko dlatego, ¿eby móc tu studiowaæ.}
-{1176}{}{Zatañczymy, kochanie?}
-{1177}{}{Powtarzam ci po raz ostatni: Nie przebiorê siê za Przybysza z Krypty.}
-{1178}{}{Bierz siê do pracy, górniku!}
-{1179}{}{Mam byæ g³oœno czy cichutko jak myszka?}
+{1173}{}{Ty poÅ¼Ä…dasz, ja zaspokajam.}
+{1174}{}{Fizycznie niemoÅ¼liwe? I co z tego!}
+{1175}{}{RobiÄ™ to tylko dlatego, Å¼eby mÃ³c tu studiowaÄ‡.}
+{1176}{}{ZataÅ„czymy, kochanie?}
+{1177}{}{Powtarzam ci po raz ostatni: Nie przebiorÄ™ siÄ™ za Przybysza z Krypty.}
+{1178}{}{Bierz siÄ™ do pracy, gÃ³rniku!}
+{1179}{}{Mam byÄ‡ gÅ‚oÅ›no czy cichutko jak myszka?}
 {1180}{}{::Mrrrrau::}
 {1181}{}{::Grrr::}
-{1182}{}{Nie ³askocz mnie!!!}
-{1183}{}{Nie œpiê od dwóch dni...}
-{1184}{}{Mo¿e bêdziemy udawaæ szpony œmierci w sezonie godowym?}
+{1182}{}{Nie Å‚askocz mnie!!!}
+{1183}{}{Nie Å›piÄ™ od dwÃ³ch dni...}
+{1184}{}{MoÅ¼e bÄ™dziemy udawaÄ‡ szpony Å›mierci w sezonie godowym?}
 {1185}{}{Nie jestem tania, ale nie ma drugiej takiej jak ja.}
-{1186}{}{Wi¹zanie kosztuje ekstra.}
-{1187}{}{Gdzie ja podzia³am mój pejcz?}
+{1186}{}{WiÄ…zanie kosztuje ekstra.}
+{1187}{}{Gdzie ja podziaÅ‚am mÃ³j pejcz?}
 {1188}{}{Gotowa do akcji.}
-{1189}{}{Ostatniej nocy musia³am siê przebraæ za Larê Croft.}
-{1190}{}{By³am wczoraj z Myronem. Przez ca³e piêæ sekund.}
-{1191}{}{Mam ci roz³adowaæ magazynek?}
-{1192}{}{Mogliby wreszcie wymyœliæ jakieœ perfumy o zapachu Jetu...}
-{1193}{}{Mo¿e pomo¿esz biednej dziewczynie straciæ dziewictwo?}
-{1194}{}{Ty³ek mi odpadnie jeœli Myron siê nie opanuje.}
-{1195}{}{Cholerna Unia WstrzemiêŸliwoœci znowu nas nachodzi...}
-{1196}{}{Przy tobie mój wewnêtrzny licznik Geigera zaczyna wariowaæ.}
-{1197}{}{::Gwi¿d¿e::}
+{1189}{}{Ostatniej nocy musiaÅ‚am siÄ™ przebraÄ‡ za LarÄ™ Croft.}
+{1190}{}{ByÅ‚am wczoraj z Myronem. Przez caÅ‚e piÄ™Ä‡ sekund.}
+{1191}{}{Mam ci rozÅ‚adowaÄ‡ magazynek?}
+{1192}{}{Mogliby wreszcie wymyÅ›liÄ‡ jakieÅ› perfumy o zapachu Jetu...}
+{1193}{}{MoÅ¼e pomoÅ¼esz biednej dziewczynie straciÄ‡ dziewictwo?}
+{1194}{}{TyÅ‚ek mi odpadnie jeÅ›li Myron siÄ™ nie opanuje.}
+{1195}{}{Cholerna Unia WstrzemiÄ™ÅºliwoÅ›ci znowu nas nachodzi...}
+{1196}{}{Przy tobie mÃ³j wewnÄ™trzny licznik Geigera zaczyna wariowaÄ‡.}
+{1197}{}{::GwiÅ¼dÅ¼e::}
 {1198}{}{Gryzienie kosztuje ekstra.}
-{1199}{}{¯aden Pip-Boy nie da ci tyle radoœci co ja.}
-{1200}{}{Chcesz siê ostro zabawiæ?}
-{1201}{}{Najchêtniej przespa³abym siê z Avellonem.}
-{1202}{}{Szkoda, ¿e nie ma tu Nicka Kestinga. Moglibyœmy rozmawiaæ do bia³ego rana!}
-{1203}{}{Nick Kesting to naprawdê mi³y facet. Przyjemnie siê z nim rozmawia.}
+{1199}{}{Å»aden Pip-Boy nie da ci tyle radoÅ›ci co ja.}
+{1200}{}{Chcesz siÄ™ ostro zabawiÄ‡?}
+{1201}{}{NajchÄ™tniej przespaÅ‚abym siÄ™ z Avellonem.}
+{1202}{}{Szkoda, Å¼e nie ma tu Nicka Kestinga. MoglibyÅ›my rozmawiaÄ‡ do biaÅ‚ego rana!}
+{1203}{}{Nick Kesting to naprawdÄ™ miÅ‚y facet. Przyjemnie siÄ™ z nim rozmawia.}
 {1204}{}{Tommy Trzy Jajca jest niesamowity.}
-{1205}{}{Za piêædziesi¹t dolarów sprawiê, ¿e bêdziesz krzyczeæ do utraty tchu.}
-{1206}{}{Jestem Tania. A ty jak masz na imiê?}
-{1207}{}{Hej, s³odziutka. Szukasz kobiety?}
-{1208}{}{Chcesz zobaczyæ jak to jest byæ z kobiet¹, £owczyni?}
+{1205}{}{Za piÄ™Ä‡dziesiÄ…t dolarÃ³w sprawiÄ™, Å¼e bÄ™dziesz krzyczeÄ‡ do utraty tchu.}
+{1206}{}{Jestem Tania. A ty jak masz na imiÄ™?}
+{1207}{}{Hej, sÅ‚odziutka. Szukasz kobiety?}
+{1208}{}{Chcesz zobaczyÄ‡ jak to jest byÄ‡ z kobietÄ…, Åowczyni?}
 {1209}{}{Szukasz towarzystwa?}
-{1210}{}{Nauczê ciê takich sztuczek, ¿e bêdziesz siê opêdzaæ od facetów.}
-{1211}{}{Szukasz kogoœ, kto ogrzeje ci ³ó¿ko?}
-{1212}{}{Szukasz towarzystwa na dzisiejsz¹ noc?}
-{1213}{}{Zatañczymy?}
+{1210}{}{NauczÄ™ ciÄ™ takich sztuczek, Å¼e bÄ™dziesz siÄ™ opÄ™dzaÄ‡ od facetÃ³w.}
+{1211}{}{Szukasz kogoÅ›, kto ogrzeje ci Å‚Ã³Å¼ko?}
+{1212}{}{Szukasz towarzystwa na dzisiejszÄ… noc?}
+{1213}{}{ZataÅ„czymy?}
 {1214}{}{Dziewczyno, prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{1215}{}{Zabawimy siê, s³odziutka?}
-{1216}{}{Zgubi³aœ siê, kowbojko?}
-{1217}{}{Jak siê masz, G.I. Jane.}
-{1218}{}{Chcesz siê zabawiæ, dziewczynko?}
-{1219}{}{Mo¿e wyruszymy razem na podbój miasta?}
-{1220}{}{Potrzebujesz przewodniczki, s³onko?}
-{1221}{}{Pali siê gdzieœ, dziewczyno?}
-{1222}{}{Za kilka ¿etonów mogê byæ twoja.}
-{1223}{}{Jestem Tania. A ty jak masz na imiê?}
-{1224}{}{Rozrywkowy z ciebie goœæ, co?}
-{1225}{}{Masz ze sob¹ w³asn¹ œciereczkê?}
-{1226}{}{Tak, S¥ prawdziwe.}
-{1227}{}{TAK, s¹ prawdziwe i NIE, nie mo¿esz sprawdziæ.}
-{1228}{}{Odwal siê, przyg³upie.}
-{1229}{}{Chcesz mnie uje¿d¿aæ, kowboju?}
-{1230}{}{Chcesz mnie zatopiæ swoj¹ torped¹?}
-{1231}{}{Szukasz towarzystwa na jedn¹ noc?}
-{1232}{}{Szukasz nowej towarzyszki podró¿y?}
-{1233}{}{Niez³y sprzêt.}
-{1234}{}{Co to, masz wê¿a w kieszeni? A mo¿e w rozporku?!}
-{1235}{}{Chcesz siê zabawiæ?}
+{1215}{}{Zabawimy siÄ™, sÅ‚odziutka?}
+{1216}{}{ZgubiÅ‚aÅ› siÄ™, kowbojko?}
+{1217}{}{Jak siÄ™ masz, G.I. Jane.}
+{1218}{}{Chcesz siÄ™ zabawiÄ‡, dziewczynko?}
+{1219}{}{MoÅ¼e wyruszymy razem na podbÃ³j miasta?}
+{1220}{}{Potrzebujesz przewodniczki, sÅ‚onko?}
+{1221}{}{Pali siÄ™ gdzieÅ›, dziewczyno?}
+{1222}{}{Za kilka Å¼etonÃ³w mogÄ™ byÄ‡ twoja.}
+{1223}{}{Jestem Tania. A ty jak masz na imiÄ™?}
+{1224}{}{Rozrywkowy z ciebie goÅ›Ä‡, co?}
+{1225}{}{Masz ze sobÄ… wÅ‚asnÄ… Å›ciereczkÄ™?}
+{1226}{}{Tak, SÄ„ prawdziwe.}
+{1227}{}{TAK, sÄ… prawdziwe i NIE, nie moÅ¼esz sprawdziÄ‡.}
+{1228}{}{Odwal siÄ™, przygÅ‚upie.}
+{1229}{}{Chcesz mnie ujeÅ¼dÅ¼aÄ‡, kowboju?}
+{1230}{}{Chcesz mnie zatopiÄ‡ swojÄ… torpedÄ…?}
+{1231}{}{Szukasz towarzystwa na jednÄ… noc?}
+{1232}{}{Szukasz nowej towarzyszki podrÃ³Å¼y?}
+{1233}{}{NiezÅ‚y sprzÄ™t.}
+{1234}{}{Co to, masz wÄ™Å¼a w kieszeni? A moÅ¼e w rozporku?!}
+{1235}{}{Chcesz siÄ™ zabawiÄ‡?}
 {1236}{}{Prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{1237}{}{Szukasz towarzystwa, £owco?}
-{1238}{}{S³uchaj, nie dajê darmowych próbek.}
-{1239}{}{Podobno w Dzielnicy Handlowej by³y jakieœ k³opoty...}
+{1237}{}{Szukasz towarzystwa, Åowco?}
+{1238}{}{SÅ‚uchaj, nie dajÄ™ darmowych prÃ³bek.}
+{1239}{}{Podobno w Dzielnicy Handlowej byÅ‚y jakieÅ› kÅ‚opoty...}
 {1240}{}{Szukasz towarzystwa?}
-{1241}{}{Od rana nie mia³am w ustach nic ciep³ego...}
-{1242}{}{Zatañczymy?}
+{1241}{}{Od rana nie miaÅ‚am w ustach nic ciepÅ‚ego...}
+{1242}{}{ZataÅ„czymy?}
 {1243}{}{Prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{1244}{}{Czym siê zajmujê? Zmieniam ch³opców w MÊ¯CZYZN.}
-{1245}{}{Naprawdê potrafisz wbijaæ cz³onkiem szeœciocalowe gwoŸdzie?}
-{1246}{}{Od dwóch dni nie zmru¿y³am oka...}
-{1247}{}{Szukasz przyjació³ki na dzisiejsz¹ noc? A mo¿e tylko na dziesiêæ minut?}
-{1248}{}{Zabawimy siê?}
-{1249}{}{Ju¿ od dawna nie by³o u nas karawany z Redding.}
-{1250}{}{Niez³y sprzêt.}
-{1251}{}{Zgubi³eœ siê, kowboju?}
-{1252}{}{Chcesz roz³adowaæ magazynek, ¿o³nierzu?}
-{1253}{}{Mogê ci w czymœ pomóc, nieznajomy?}
-{1254}{}{Chcesz siê trochê zabawiæ?}
-{1255}{}{Chcesz mnie zabraæ na miasto?}
-{1256}{}{Podoba mi siê twój gekon.}
+{1244}{}{Czym siÄ™ zajmujÄ™? Zmieniam chÅ‚opcÃ³w w MÄ˜Å»CZYZN.}
+{1245}{}{NaprawdÄ™ potrafisz wbijaÄ‡ czÅ‚onkiem szeÅ›ciocalowe gwoÅºdzie?}
+{1246}{}{Od dwÃ³ch dni nie zmruÅ¼yÅ‚am oka...}
+{1247}{}{Szukasz przyjaciÃ³Å‚ki na dzisiejszÄ… noc? A moÅ¼e tylko na dziesiÄ™Ä‡ minut?}
+{1248}{}{Zabawimy siÄ™?}
+{1249}{}{JuÅ¼ od dawna nie byÅ‚o u nas karawany z Redding.}
+{1250}{}{NiezÅ‚y sprzÄ™t.}
+{1251}{}{ZgubiÅ‚eÅ› siÄ™, kowboju?}
+{1252}{}{Chcesz rozÅ‚adowaÄ‡ magazynek, Å¼oÅ‚nierzu?}
+{1253}{}{MogÄ™ ci w czymÅ› pomÃ³c, nieznajomy?}
+{1254}{}{Chcesz siÄ™ trochÄ™ zabawiÄ‡?}
+{1255}{}{Chcesz mnie zabraÄ‡ na miasto?}
+{1256}{}{Podoba mi siÄ™ twÃ³j gekon.}
 {1257}{}{Co to, masz gekona w kieszeni?}
-{1258}{}{Potrzebujesz przewodniczki, s³onko?}
-{1259}{}{Pali siê gdzieœ?}
-{1260}{}{Za kilka ¿etonów mogê byæ twoja.}
-{1261}{}{Dzieciaku, zrobiê z ciebie mê¿czyznê.}
-{1262}{}{Och witam, panie Tyler. Dok¹d to siê wybieramy?}
-{1263}{}{Za rozmowê po sprawie p³aci siê ekstra.}
-{1264}{}{Taki jeden goœæ, Fred Hatch, chcia³ wiedzieæ czy s¹ w Reno jakieœ "du¿e dziewczynki". Dziwak.}
-{1265}{}{Jeœli nie chcesz, ¿ebym zasnê³a zaraz po sprawie, musisz zap³aciæ ekstra.}
-{1266}{}{Chcesz pójœæ Gdzie ¯aden Cz³owiek Wczeœniej Nie Dotar³?}
+{1258}{}{Potrzebujesz przewodniczki, sÅ‚onko?}
+{1259}{}{Pali siÄ™ gdzieÅ›?}
+{1260}{}{Za kilka Å¼etonÃ³w mogÄ™ byÄ‡ twoja.}
+{1261}{}{Dzieciaku, zrobiÄ™ z ciebie mÄ™Å¼czyznÄ™.}
+{1262}{}{Och witam, panie Tyler. DokÄ…d to siÄ™ wybieramy?}
+{1263}{}{Za rozmowÄ™ po sprawie pÅ‚aci siÄ™ ekstra.}
+{1264}{}{Taki jeden goÅ›Ä‡, Fred Hatch, chciaÅ‚ wiedzieÄ‡ czy sÄ… w Reno jakieÅ› "duÅ¼e dziewczynki". Dziwak.}
+{1265}{}{JeÅ›li nie chcesz, Å¼ebym zasnÄ™Å‚a zaraz po sprawie, musisz zapÅ‚aciÄ‡ ekstra.}
+{1266}{}{Chcesz pÃ³jÅ›Ä‡ Gdzie Å»aden CzÅ‚owiek WczeÅ›niej Nie DotarÅ‚?}
 {1267}{}{Zapomnij o automatach do gry. U mnie sukses masz gwarantowany.}
 {1268}{}{Nie jestem tania, ale nie ma drugiej takiej jak ja.}
 {1269}{}{Witaj, skarbie.}
-{1270}{}{Pobaraszkujemy trochê?}
-{1271}{}{Kiedy z tob¹ skoñczê nie bêdziesz mia³ si³y poprosiæ o jeszcze.}
-{1272}{}{Jestem czarodziejk¹. Daj mi ró¿d¿kê do rêki a wyczarujê ci co zechcesz.}
-{1273}{}{No proszê. Zobaczcie kto przyby³ do miasta...}
-{1274}{}{Szukasz Cudownej Krainy? ChodŸ do mojej sypialni.}
-{1275}{}{Chcesz siê zabawiæ?}
-{1276}{}{Nie musisz siê zabezpieczaæ. To mój pierwszy raz. Dzisiaj.}
-{1277}{}{Nauczê ciê paru sztuczek o poskramianiu kobiet.}
-{1278}{}{Zainstalowa³am ju¿ tê obijan¹ pluszem deskê rozdzielcz¹.}
-{1279}{}{Za dziesiêæ ¿etonów otworzê przed tob¹ bramy niebios.}
-{1280}{}{Myron: Du¿a gêba. Ma³a reszta.}
+{1270}{}{Pobaraszkujemy trochÄ™?}
+{1271}{}{Kiedy z tobÄ… skoÅ„czÄ™ nie bÄ™dziesz miaÅ‚ siÅ‚y poprosiÄ‡ o jeszcze.}
+{1272}{}{Jestem czarodziejkÄ…. Daj mi rÃ³Å¼dÅ¼kÄ™ do rÄ™ki a wyczarujÄ™ ci co zechcesz.}
+{1273}{}{No proszÄ™. Zobaczcie kto przybyÅ‚ do miasta...}
+{1274}{}{Szukasz Cudownej Krainy? ChodÅº do mojej sypialni.}
+{1275}{}{Chcesz siÄ™ zabawiÄ‡?}
+{1276}{}{Nie musisz siÄ™ zabezpieczaÄ‡. To mÃ³j pierwszy raz. Dzisiaj.}
+{1277}{}{NauczÄ™ ciÄ™ paru sztuczek o poskramianiu kobiet.}
+{1278}{}{ZainstalowaÅ‚am juÅ¼ tÄ™ obijanÄ… pluszem deskÄ™ rozdzielczÄ….}
+{1279}{}{Za dziesiÄ™Ä‡ Å¼etonÃ³w otworzÄ™ przed tobÄ… bramy niebios.}
+{1280}{}{Myron: DuÅ¼a gÄ™ba. MaÅ‚a reszta.}
 {1281}{}{Myron to prawdziwy pajac.}
 {1282}{}{Homo, hetero, jestem uniwersalna...}
-{1283}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{1284}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
-{1285}{}{Podobno w Kryptopolis s¹ tylko dwa rodzaje obywateli. Mo¿e oni ich klonuj¹?}
-{1286}{}{Czujê siê jakbym wczoraj w nocy bra³a udzia³ w maratonie...}
+{1283}{}{Z tej cÃ³rki Bishopa jest niezÅ‚e ziÃ³Å‚ko.}
+{1284}{}{Ona nie jest uzaleÅ¼niona od Jetu, tylko od seksu.}
+{1285}{}{Podobno w Kryptopolis sÄ… tylko dwa rodzaje obywateli. MoÅ¼e oni ich klonujÄ…?}
+{1286}{}{CzujÄ™ siÄ™ jakbym wczoraj w nocy braÅ‚a udziaÅ‚ w maratonie...}
 {1287}{}{Szukasz rozrywki, skarbie?}
-{1288}{}{¯adnego ca³owania. Tak¹ mam zasadê.}
-{1289}{}{Modlê siê, ¿eby Myron wreszcie siê st¹d wyprowadzi³. Najlepiej gdzieœ daleko.}
-{1290}{}{Mogê zrobiæ co tylko zechcesz... oczywiœcie za odpowiedni¹ cenê.}
+{1288}{}{Å»adnego caÅ‚owania. TakÄ… mam zasadÄ™.}
+{1289}{}{ModlÄ™ siÄ™, Å¼eby Myron wreszcie siÄ™ stÄ…d wyprowadziÅ‚. Najlepiej gdzieÅ› daleko.}
+{1290}{}{MogÄ™ zrobiÄ‡ co tylko zechcesz... oczywiÅ›cie za odpowiedniÄ… cenÄ™.}
 {1291}{}{Jestem gotowa, skarbie. A ty?}
 {1292}{}{Zapomnij o automatach do gry. U mnie sukses masz gwarantowany.}
-{1293}{}{Nienawidzê malinek.}
-{1294}{}{Spróbuj szczêœcia ze mn¹, skarbie.}
-{1295}{}{Chcesz siê trochê rozerwaæ, skarbie?}
-{1296}{}{A¿ trudno uwierzyæ, ile striptizerek œci¹gnêli na wieczór kawalerski Feargusa.}
-{1297}{}{Prawdziwa mi³oœæ! Tutaj.}
-{1298}{}{Chcesz, mo¿emy siê pobawiæ.}
-{1299}{}{Mówi¹ na mnie Niegrzeczna Spice.}
-{1300}{}{Mówi¹ na mnie Puszczalska Spice.}
-{1301}{}{Mówi¹ na mnie Wyuzdana Spice.}
-{1302}{}{Mówi¹ na mnie Starsza Spice.}
-{1303}{}{Mówi¹ na mnie Syfili... to znaczy - Puszczalska Spice.}
-{1304}{}{Mówi¹ na mnie Szybka Spice.}
-{1305}{}{Mam przyjació³kê, jeœli bawi¹ ciê trójk¹ty.}
-{1306}{}{Szkoda, ¿e Myron nie jest gejem.}
-{1307}{}{Nie mam pojêcia dlaczego nazywaj¹ to Alej¹ Dziewic...}
-{1308}{}{Czasem przyda³a by mi siê papierowa torba.}
+{1293}{}{NienawidzÄ™ malinek.}
+{1294}{}{SprÃ³buj szczÄ™Å›cia ze mnÄ…, skarbie.}
+{1295}{}{Chcesz siÄ™ trochÄ™ rozerwaÄ‡, skarbie?}
+{1296}{}{AÅ¼ trudno uwierzyÄ‡, ile striptizerek Å›ciÄ…gnÄ™li na wieczÃ³r kawalerski Feargusa.}
+{1297}{}{Prawdziwa miÅ‚oÅ›Ä‡! Tutaj.}
+{1298}{}{Chcesz, moÅ¼emy siÄ™ pobawiÄ‡.}
+{1299}{}{MÃ³wiÄ… na mnie Niegrzeczna Spice.}
+{1300}{}{MÃ³wiÄ… na mnie Puszczalska Spice.}
+{1301}{}{MÃ³wiÄ… na mnie Wyuzdana Spice.}
+{1302}{}{MÃ³wiÄ… na mnie Starsza Spice.}
+{1303}{}{MÃ³wiÄ… na mnie Syfili... to znaczy - Puszczalska Spice.}
+{1304}{}{MÃ³wiÄ… na mnie Szybka Spice.}
+{1305}{}{Mam przyjaciÃ³Å‚kÄ™, jeÅ›li bawiÄ… ciÄ™ trÃ³jkÄ…ty.}
+{1306}{}{Szkoda, Å¼e Myron nie jest gejem.}
+{1307}{}{Nie mam pojÄ™cia dlaczego nazywajÄ… to AlejÄ… Dziewic...}
+{1308}{}{Czasem przydaÅ‚a by mi siÄ™ papierowa torba.}
 {1309}{}{Postawisz mi drinka?}
-{1310}{}{Chcesz mnie zabraæ na miasto?}
-{1311}{}{Eeee, oczywiœcie, ¿e jestem kobiet¹. Nie zwracaj uwagi na moje jab³ko Adama.}
-{1312}{}{Podobno jakieœ dziewczyny na przedmieœciach zat³uk³y swojego alfonsa.}
-{1313}{}{Najlepszy seks, jak Pustkowia d³ugie i szerokie.}
-{1314}{}{Jules móg³by siê wreszcie ode mnie odczepiæ.}
-{1315}{}{Znów rozciê³am sobie czo³o o deskê rozdzielcz¹...}
-{1316}{}{Od ostatniego zlotu jakoœ nie mogê dojœæ do siebie...}
-{1317}{}{Dlaczego ten zlot musi siê odbywaæ w³aœnie w Nowym Reno?}
-{1318}{}{Na sam twój widok robi mi siê gor¹co, wiesz?}
-{1319}{}{Poczu³am jak ziemia dr¿y, ale okaza³o siê, ¿e to tylko chili.}
-{1320}{}{WeŸ mnie.}
-{1321}{}{Jestem dziewic¹. To bêdzie mój pierwszy raz.}
+{1310}{}{Chcesz mnie zabraÄ‡ na miasto?}
+{1311}{}{Eeee, oczywiÅ›cie, Å¼e jestem kobietÄ…. Nie zwracaj uwagi na moje jabÅ‚ko Adama.}
+{1312}{}{Podobno jakieÅ› dziewczyny na przedmieÅ›ciach zatÅ‚ukÅ‚y swojego alfonsa.}
+{1313}{}{Najlepszy seks, jak Pustkowia dÅ‚ugie i szerokie.}
+{1314}{}{Jules mÃ³gÅ‚by siÄ™ wreszcie ode mnie odczepiÄ‡.}
+{1315}{}{ZnÃ³w rozciÄ™Å‚am sobie czoÅ‚o o deskÄ™ rozdzielczÄ…...}
+{1316}{}{Od ostatniego zlotu jakoÅ› nie mogÄ™ dojÅ›Ä‡ do siebie...}
+{1317}{}{Dlaczego ten zlot musi siÄ™ odbywaÄ‡ wÅ‚aÅ›nie w Nowym Reno?}
+{1318}{}{Na sam twÃ³j widok robi mi siÄ™ gorÄ…co, wiesz?}
+{1319}{}{PoczuÅ‚am jak ziemia drÅ¼y, ale okazaÅ‚o siÄ™, Å¼e to tylko chili.}
+{1320}{}{WeÅº mnie.}
+{1321}{}{Jestem dziewicÄ…. To bÄ™dzie mÃ³j pierwszy raz.}
 {1322}{}{Potrzebujesz przewodniczki?}
-{1323}{}{Hej, to ciê bêdzie kosztowaæ ekstra.}
-{1324}{}{Jules bez przerwy prosi mnie o darmow¹ próbkê.}
-{1325}{}{Podobno miêdzy rodzinami znów dochodzi do spiêæ.}
-{1326}{}{Mamy ostatnio zastój w interesie. Ciekawe kiedy zjawi siê jakaœ karawana.}
-{1327}{}{Wtedy on przebra³ siê w kostium szpona œmierci i...}
-{1328}{}{Pomo¿esz mi wydostaæ siê z tej... sukienki?}
-{1329}{}{Strasznie tu gor¹co. Mo¿e siê rozbiorê?}
-{1330}{}{Przepraszam, co mówi³eœ? Zagapi³am siê na twój ty³ek.}
-{1331}{}{Chcesz spêdziæ ze mn¹ trochê czasu?}
-{1332}{}{W zesz³ym tygodniu musia³am kopn¹æ Julesa w jego klejnoty rodowe.}
-{1333}{}{Nie bez powodu mam na imiê Tania.}
-{1334}{}{OCZYWIŒCIE, ¿e lubiê kondomy o smaku braminowym. Pyyycha.}
+{1323}{}{Hej, to ciÄ™ bÄ™dzie kosztowaÄ‡ ekstra.}
+{1324}{}{Jules bez przerwy prosi mnie o darmowÄ… prÃ³bkÄ™.}
+{1325}{}{Podobno miÄ™dzy rodzinami znÃ³w dochodzi do spiÄ™Ä‡.}
+{1326}{}{Mamy ostatnio zastÃ³j w interesie. Ciekawe kiedy zjawi siÄ™ jakaÅ› karawana.}
+{1327}{}{Wtedy on przebraÅ‚ siÄ™ w kostium szpona Å›mierci i...}
+{1328}{}{PomoÅ¼esz mi wydostaÄ‡ siÄ™ z tej... sukienki?}
+{1329}{}{Strasznie tu gorÄ…co. MoÅ¼e siÄ™ rozbiorÄ™?}
+{1330}{}{Przepraszam, co mÃ³wiÅ‚eÅ›? ZagapiÅ‚am siÄ™ na twÃ³j tyÅ‚ek.}
+{1331}{}{Chcesz spÄ™dziÄ‡ ze mnÄ… trochÄ™ czasu?}
+{1332}{}{W zeszÅ‚ym tygodniu musiaÅ‚am kopnÄ…Ä‡ Julesa w jego klejnoty rodowe.}
+{1333}{}{Nie bez powodu mam na imiÄ™ Tania.}
+{1334}{}{OCZYWIÅšCIE, Å¼e lubiÄ™ kondomy o smaku braminowym. Pyyycha.}
 {1335}{}{Zabierzesz mnie na miasto?}
-{1336}{}{Na Myrona jest tylko jeden sposób - ucieczka.}
+{1336}{}{Na Myrona jest tylko jeden sposÃ³b - ucieczka.}
 {1337}{}{Szukasz towarzystwa, dzikusku?}
 {1338}{}{Pofiglujemy, dzikusku?}
-{1339}{}{Mo¿e odtañczysz taniec deszczu w mojej sypialni, co dzikusku?}
-{1340}{}{Jedna noc ze mn¹, a œwiat nigdy nie bêdzie taki sam.}
-{1341}{}{Szukasz Cudownej Krainy? ChodŸ do mojej sypialni.}
-{1342}{}{Mo¿esz mi pomóc? Zgubi³am gdzieœ swoje dziewictwo.}
-{1343}{}{Jestem dziewic¹, ale potrzebujê pieniêdzy.}
-{1344}{}{B¹dŸ delikatny. To mój pierwszy raz... dzisiaj.}
+{1339}{}{MoÅ¼e odtaÅ„czysz taniec deszczu w mojej sypialni, co dzikusku?}
+{1340}{}{Jedna noc ze mnÄ…, a Å›wiat nigdy nie bÄ™dzie taki sam.}
+{1341}{}{Szukasz Cudownej Krainy? ChodÅº do mojej sypialni.}
+{1342}{}{MoÅ¼esz mi pomÃ³c? ZgubiÅ‚am gdzieÅ› swoje dziewictwo.}
+{1343}{}{Jestem dziewicÄ…, ale potrzebujÄ™ pieniÄ™dzy.}
+{1344}{}{BÄ…dÅº delikatny. To mÃ³j pierwszy raz... dzisiaj.}
 {1345}{}{Moja napalona.}
-{1346}{}{Ty po¿¹dasz, ja zaspokajam.}
-{1347}{}{Fizycznie niemo¿liwe? I co z tego!}
-{1348}{}{Robiê to tylko dlatego, ¿eby móc tu studiowaæ.}
-{1349}{}{Zatañczymy, kochanie?}
-{1350}{}{Powtarzam ci po raz ostatni: Nie przebiorê siê za Przybysza z Krypty.}
-{1351}{}{Bierz siê do pracy, górniku!}
-{1352}{}{Mam byæ g³oœno czy cichutko jak myszka?}
+{1346}{}{Ty poÅ¼Ä…dasz, ja zaspokajam.}
+{1347}{}{Fizycznie niemoÅ¼liwe? I co z tego!}
+{1348}{}{RobiÄ™ to tylko dlatego, Å¼eby mÃ³c tu studiowaÄ‡.}
+{1349}{}{ZataÅ„czymy, kochanie?}
+{1350}{}{Powtarzam ci po raz ostatni: Nie przebiorÄ™ siÄ™ za Przybysza z Krypty.}
+{1351}{}{Bierz siÄ™ do pracy, gÃ³rniku!}
+{1352}{}{Mam byÄ‡ gÅ‚oÅ›no czy cichutko jak myszka?}
 {1353}{}{::Mrrrrau::}
 {1354}{}{::Grrr::}
-{1355}{}{Nie ³askocz mnie!!!}
-{1356}{}{Zaczynam mieæ doœæ Nowego Reno...}
-{1357}{}{Mo¿e bêdziemy udawaæ szpony œmierci w sezonie godowym?}
+{1355}{}{Nie Å‚askocz mnie!!!}
+{1356}{}{Zaczynam mieÄ‡ doÅ›Ä‡ Nowego Reno...}
+{1357}{}{MoÅ¼e bÄ™dziemy udawaÄ‡ szpony Å›mierci w sezonie godowym?}
 {1358}{}{Nie jestem tania, ale nie ma drugiej takiej jak ja.}
-{1359}{}{Wi¹zanie kosztuje ekstra.}
-{1360}{}{Gdzie ja podzia³am mój pejcz?}
+{1359}{}{WiÄ…zanie kosztuje ekstra.}
+{1360}{}{Gdzie ja podziaÅ‚am mÃ³j pejcz?}
 {1361}{}{Gotowa do akcji.}
-{1362}{}{Ostatniej nocy musia³am siê przebraæ za Larê Croft.}
-{1363}{}{By³am wczoraj z Myronem. Przez ca³e piêæ sekund.}
-{1364}{}{Mam ci roz³adowaæ magazynek?}
-{1365}{}{Pali siê gdzieœ?}
-{1366}{}{Pomo¿esz biednej dziewczynie straciæ dziewictwo?}
-{1367}{}{Ty³ek mi odpadnie jeœli Myron siê nie opanuje.}
-{1368}{}{Cholerna Unia WstrzemiêŸliwoœci znowu nas nachodzi...}
-{1369}{}{Przy tobie mój wewnêtrzny licznik Geigera zaczyna wariowaæ.}
-{1370}{}{::Gwi¿d¿e::}
+{1362}{}{Ostatniej nocy musiaÅ‚am siÄ™ przebraÄ‡ za LarÄ™ Croft.}
+{1363}{}{ByÅ‚am wczoraj z Myronem. Przez caÅ‚e piÄ™Ä‡ sekund.}
+{1364}{}{Mam ci rozÅ‚adowaÄ‡ magazynek?}
+{1365}{}{Pali siÄ™ gdzieÅ›?}
+{1366}{}{PomoÅ¼esz biednej dziewczynie straciÄ‡ dziewictwo?}
+{1367}{}{TyÅ‚ek mi odpadnie jeÅ›li Myron siÄ™ nie opanuje.}
+{1368}{}{Cholerna Unia WstrzemiÄ™ÅºliwoÅ›ci znowu nas nachodzi...}
+{1369}{}{Przy tobie mÃ³j wewnÄ™trzny licznik Geigera zaczyna wariowaÄ‡.}
+{1370}{}{::GwiÅ¼dÅ¼e::}
 {1371}{}{Gryzienie kosztuje ekstra.}
-{1372}{}{¯aden Pip-Boy nie da ci tyle radoœci co ja.}
-{1373}{}{Chcesz siê ostro zabawiæ?}
-{1374}{}{Najchêtniej przespa³abym siê z Avellonem.}
-{1375}{}{Szkoda, ¿e nie ma tu Nicka Kestinga. Moglibyœmy rozmawiaæ do bia³ego rana!}
-{1376}{}{Nick Kesting to naprawdê mi³y facet. Przyjemnie siê z nim rozmawia.}
+{1372}{}{Å»aden Pip-Boy nie da ci tyle radoÅ›ci co ja.}
+{1373}{}{Chcesz siÄ™ ostro zabawiÄ‡?}
+{1374}{}{NajchÄ™tniej przespaÅ‚abym siÄ™ z Avellonem.}
+{1375}{}{Szkoda, Å¼e nie ma tu Nicka Kestinga. MoglibyÅ›my rozmawiaÄ‡ do biaÅ‚ego rana!}
+{1376}{}{Nick Kesting to naprawdÄ™ miÅ‚y facet. Przyjemnie siÄ™ z nim rozmawia.}
 {1377}{}{Tommy Trzy Jajca jest niesamowity.}
-{1378}{}{Za piêædziesi¹t dolarów sprawiê, ¿e bêdziesz krzyczeæ do utraty tchu.}
-{1379}{}{Jestem Tania. A ty jak masz na imiê?}
-{1380}{}{Hej, s³odziutka. Szukasz kobiety?}
-{1381}{}{Chcesz zobaczyæ jak to jest byæ z kobiet¹, £owczyni?}
+{1378}{}{Za piÄ™Ä‡dziesiÄ…t dolarÃ³w sprawiÄ™, Å¼e bÄ™dziesz krzyczeÄ‡ do utraty tchu.}
+{1379}{}{Jestem Tania. A ty jak masz na imiÄ™?}
+{1380}{}{Hej, sÅ‚odziutka. Szukasz kobiety?}
+{1381}{}{Chcesz zobaczyÄ‡ jak to jest byÄ‡ z kobietÄ…, Åowczyni?}
 {1382}{}{Szukasz towarzystwa?}
-{1383}{}{Nauczê ciê takich sztuczek, ¿e bêdziesz siê opêdzaæ od facetów.}
-{1384}{}{Szukasz kogoœ, kto ogrzeje ci ³ó¿ko?}
-{1385}{}{Szukasz towarzystwa na dzisiejsz¹ noc?}
-{1386}{}{Zatañczymy?}
+{1383}{}{NauczÄ™ ciÄ™ takich sztuczek, Å¼e bÄ™dziesz siÄ™ opÄ™dzaÄ‡ od facetÃ³w.}
+{1384}{}{Szukasz kogoÅ›, kto ogrzeje ci Å‚Ã³Å¼ko?}
+{1385}{}{Szukasz towarzystwa na dzisiejszÄ… noc?}
+{1386}{}{ZataÅ„czymy?}
 {1387}{}{Dziewczyno, prawdziwy seks znajdziesz tylko w Nowym Reno.}
-{1388}{}{Zabawimy siê, s³odziutka?}
-{1389}{}{Zgubi³aœ siê, kowbojko?}
-{1390}{}{Jak siê masz, G.I. Jane?}
-{1391}{}{Chcesz siê zabawiæ, dziewczynko?}
-{1392}{}{Mo¿e wyruszymy razem na podbój miasta?}
-{1393}{}{Chcesz siê trochê rozerwaæ?}
-{1394}{}{Pali siê gdzieœ?}
-{1395}{}{Za parê ¿etonów mogê byæ twoja.}
-{2175}{}{. To dziêki tobie Enklawa leg³a w gruzach!}
-{2178}{}{! Enklawa nie mia³a szans!}
-{2181}{}{. To dziêki tobie Enklawa leg³a w gruzach!}
+{1388}{}{Zabawimy siÄ™, sÅ‚odziutka?}
+{1389}{}{ZgubiÅ‚aÅ› siÄ™, kowbojko?}
+{1390}{}{Jak siÄ™ masz, G.I. Jane?}
+{1391}{}{Chcesz siÄ™ zabawiÄ‡, dziewczynko?}
+{1392}{}{MoÅ¼e wyruszymy razem na podbÃ³j miasta?}
+{1393}{}{Chcesz siÄ™ trochÄ™ rozerwaÄ‡?}
+{1394}{}{Pali siÄ™ gdzieÅ›?}
+{1395}{}{Za parÄ™ Å¼etonÃ³w mogÄ™ byÄ‡ twoja.}
+{2175}{}{. To dziÄ™ki tobie Enklawa legÅ‚a w gruzach!}
+{2178}{}{! Enklawa nie miaÅ‚a szans!}
+{2181}{}{. To dziÄ™ki tobie Enklawa legÅ‚a w gruzach!}
 {2195}{}{!}
-{2197}{}{! Mo¿esz mi za³atwiæ pracê w studiu?}
+{2197}{}{! MoÅ¼esz mi zaÅ‚atwiÄ‡ pracÄ™ w studiu?}
 {2210}{}{.}
-{2263}{}{! Tak trzymaæ, ogierze!}
+{2263}{}{! Tak trzymaÄ‡, ogierze!}
 {2264}{}{ to prawdziwy twardziel.}
 {2268}{}{?}
 {2272}{}{?}
-{2278}{}{! Tak trzymaæ, dziewczyno!}
+{2278}{}{! Tak trzymaÄ‡, dziewczyno!}
 {2279}{}{?}
-{2280}{}{ to naprawdê twarda baba.}
+{2280}{}{ to naprawdÄ™ twarda baba.}
 {2285}{}{.}
 {2292}{}{...}
 {2293}{}{?}
@@ -1240,34 +1240,34 @@
 {2855}{}{?}
 {2858}{}{?}
 {2861}{}{?}
-{2865}{}{, ty wielki ogierze... Co siê z tob¹ dzia³o?}
-{2867}{}{! Jak siê masz?}
-{2868}{}{. Mogê ci w czymœ pomóc?}
+{2865}{}{, ty wielki ogierze... Co siÄ™ z tobÄ… dziaÅ‚o?}
+{2867}{}{! Jak siÄ™ masz?}
+{2868}{}{. MogÄ™ ci w czymÅ› pomÃ³c?}
 {2870}{}{.}
-{2873}{}{, ty ma³a diablico... Gdzie siê podziewa³aœ?}
-{3100}{}{Widzisz jedn¹ z dziewczyn z Kociej £apki.}
-{3150}{}{Widzisz... kobietê lekkich obyczajów. Jej podarte ubranie uwodzicielsko opina jej cia³o.}
-{3151}{}{Widzisz jedn¹ z dziewczyn z Kociej £apki. Mruga do ciebie.}
-{3152}{}{Widzisz jedn¹ z dziewczyn z Kociej £apki. Pachnie jak polne kwiaty.}
-{3153}{}{Widzisz jedn¹ z dziewczyn z Kociej £apki. Przypomina ci trochê twoj¹ matkê.}
-{3154}{}{Widzisz jedn¹ z dziewczyn z Kociej £apki. Jej ubranie wiêcej odkrywa ni¿ zas³ania.}
-{3155}{}{Widzisz jedn¹ z dziewczyn z Kociej £apki. Wygl¹da na tak¹, która po sprawie zabija i po¿era samca.}
-{3156}{}{Widzisz jedn¹ z dziewczyn z Kociej £apki. Ocenia ciê okiem znawcy.}
-{3157}{}{Widzisz jedn¹ z dziewczyn z Kociej £apki. Jej podarte ubranie uwodzicielsko opina jej cia³o.}
-{3158}{}{Widzisz jedna z dziewczyn z Kociej £apki. Jej oczy lœni¹ ja zapalony lont.}
+{2873}{}{, ty maÅ‚a diablico... Gdzie siÄ™ podziewaÅ‚aÅ›?}
+{3100}{}{Widzisz jednÄ… z dziewczyn z Kociej Åapki.}
+{3150}{}{Widzisz... kobietÄ™ lekkich obyczajÃ³w. Jej podarte ubranie uwodzicielsko opina jej ciaÅ‚o.}
+{3151}{}{Widzisz jednÄ… z dziewczyn z Kociej Åapki. Mruga do ciebie.}
+{3152}{}{Widzisz jednÄ… z dziewczyn z Kociej Åapki. Pachnie jak polne kwiaty.}
+{3153}{}{Widzisz jednÄ… z dziewczyn z Kociej Åapki. Przypomina ci trochÄ™ twojÄ… matkÄ™.}
+{3154}{}{Widzisz jednÄ… z dziewczyn z Kociej Åapki. Jej ubranie wiÄ™cej odkrywa niÅ¼ zasÅ‚ania.}
+{3155}{}{Widzisz jednÄ… z dziewczyn z Kociej Åapki. WyglÄ…da na takÄ…, ktÃ³ra po sprawie zabija i poÅ¼era samca.}
+{3156}{}{Widzisz jednÄ… z dziewczyn z Kociej Åapki. Ocenia ciÄ™ okiem znawcy.}
+{3157}{}{Widzisz jednÄ… z dziewczyn z Kociej Åapki. Jej podarte ubranie uwodzicielsko opina jej ciaÅ‚o.}
+{3158}{}{Widzisz jedna z dziewczyn z Kociej Åapki. Jej oczy lÅ›niÄ… ja zapalony lont.}
 {3200}{}{O, taak! O taak! Otaaakotaaakotaaak... oooooo taaaaaak.}
-{3201}{}{Tak! Tak! Taaaaak TakTakTakTakTak TAK TAK TAAAK! Nale¿noœæ proszê wyp³aciæ kasjerowi.}
-{3202}{}{No poœpiesz siê. Licznik tyka.}
-{3203}{}{Chcesz œciereczkê?}
-{3204}{}{Jesteœ najlepszy, Fr... Ni... Sco... eee, przepraszam, jak masz na imiê?}
+{3201}{}{Tak! Tak! Taaaaak TakTakTakTakTak TAK TAK TAAAK! NaleÅ¼noÅ›Ä‡ proszÄ™ wypÅ‚aciÄ‡ kasjerowi.}
+{3202}{}{No poÅ›piesz siÄ™. Licznik tyka.}
+{3203}{}{Chcesz Å›ciereczkÄ™?}
+{3204}{}{JesteÅ› najlepszy, Fr... Ni... Sco... eee, przepraszam, jak masz na imiÄ™?}
 {3205}{}{Och tak, och taak, och taaak! Teraz wystarczy?}
-{3206}{}{Hej. TO ciê bêdzie kosztowaæ ekstra.}
-{3207}{}{TAK! Ty jesteœ Kolumbem, a ja Ameryk¹!}
-{3208}{}{O Bo¿e, jeszcze nigdy nie by³o mi taaak cudownie. A teraz zejdŸ ze mnie i zap³aæ kasjerowi.}
-{3209}{}{Jesteœ ju¿ w œrodku?}
-{3210}{}{Tak, TY jesteœ Przybyszem z Krypty. TY znalaz³eœ hydroprocesor i pokona³eœ Mistrza. Jesteœ BOHATEREM!}
-{3211}{}{Ale¿ ty jesteœ napakowany! Zapomnia³eœ zdj¹æ pancerz wspomagany, czy co?}
-{3212}{}{*Jêk*}
+{3206}{}{Hej. TO ciÄ™ bÄ™dzie kosztowaÄ‡ ekstra.}
+{3207}{}{TAK! Ty jesteÅ› Kolumbem, a ja AmerykÄ…!}
+{3208}{}{O BoÅ¼e, jeszcze nigdy nie byÅ‚o mi taaak cudownie. A teraz zejdÅº ze mnie i zapÅ‚aÄ‡ kasjerowi.}
+{3209}{}{JesteÅ› juÅ¼ w Å›rodku?}
+{3210}{}{Tak, TY jesteÅ› Przybyszem z Krypty. TY znalazÅ‚eÅ› hydroprocesor i pokonaÅ‚eÅ› Mistrza. JesteÅ› BOHATEREM!}
+{3211}{}{AleÅ¼ ty jesteÅ› napakowany! ZapomniaÅ‚eÅ› zdjÄ…Ä‡ pancerz wspomagany, czy co?}
+{3212}{}{*JÄ™k*}
 {3213}{}{*Krzyk*}
-{3214}{}{Nie, nie przebiorê siê w kostium Myszki Mikey.}
-{3215}{}{Tak, tak. Jest "naprawdê przeogromny".}
+{3214}{}{Nie, nie przebiorÄ™ siÄ™ w kostium Myszki Mikey.}
+{3215}{}{Tak, tak. Jest "naprawdÄ™ przeogromny".}

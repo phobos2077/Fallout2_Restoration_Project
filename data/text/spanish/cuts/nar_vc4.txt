@@ -1,4 +1,4 @@
-1:En los años siguientes, Ciudad Refugio sufre enormemente por los ataques de saqueadores.
-2:Finalmente, la situación se torna desesperada y los ciudadanos se ven forzados a pedir ayuda a la RNC.
-3:Al cabo de un mes, un gran destacamento del ejército de la RNC se asienta en Ciudad Refugio.
-4:La presencia militar rápidamente se convierte en una fuerza de ocupación, y Ciudad Refugio se convierte en el primero de los territorios fronterizos de la RNC.
+1:En los aÃ±os siguientes, Ciudad Refugio sufre enormemente por los ataques de saqueadores.
+2:Finalmente, la situaciÃ³n se torna desesperada y los ciudadanos se ven forzados a pedir ayuda a la RNC.
+3:Al cabo de un mes, un gran destacamento del ejÃ©rcito de la RNC se asienta en Ciudad Refugio.
+4:La presencia militar rÃ¡pidamente se convierte en una fuerza de ocupaciÃ³n, y Ciudad Refugio se convierte en el primero de los territorios fronterizos de la RNC.

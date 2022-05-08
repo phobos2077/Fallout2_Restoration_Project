@@ -6,9 +6,9 @@
 {201}{}{Mi hanno detto che sei tu lo stallone che ha fatto il culo all'Enclave.}
 {202}{}{Gli uomini che fanno a pezzi le enclave di governi malvagi, mi hanno sempre fatto bagnare.}
 {203}{}{Ho sentito che i Fratelli ti stanno cercando. Vogliono fare un film basato sulle tue avventure.}
-{210}{}{Immagino che dovrei ringraziarti per aver salvato il mondo. Uh…grazie.}
+{210}{}{Immagino che dovrei ringraziarti per aver salvato il mondo. Uhâ€¦grazie.}
 {211}{}{Mi e' stato detto che sei stata tu a spaccare il culo all'Enclave. Sono impressionata.}
-{212}{}{Ho sentito dire che i Fratelli ti stanno cercando. Vogliono fare un film ispirato alle tue avventure. Ehm...puoi vedere se riesci a farmi dare una parte…?}
+{212}{}{Ho sentito dire che i Fratelli ti stanno cercando. Vogliono fare un film ispirato alle tue avventure. Ehm...puoi vedere se riesci a farmi dare una parteâ€¦?}
 {220}{}{Potresti PER CORTESIA smetterla di andare in giro a far casino con quella roba addosso? Sto cercando di imparare la mia parte.}
 {221}{}{Tornatene nel gioco di Mech dal quale sei venuto! Questo e' un GdR!}
 {222}{}{Stai cercando di compensare qualcosa?}
@@ -16,9 +16,9 @@
 {231}{}{Mi sembri in forma, }
 {232}{}{Ehila', zucchero! Ti tieni in forma?}
 {233}{}{La mia paga non e' ASSOLUTAMENTE adeguata.}
-{234}{}{Vediamo… "Oddio"… "Dammelo…" Diamine! Qual era la battuta dopo?!}
+{234}{}{Vediamoâ€¦ "Oddio"â€¦ "Dammeloâ€¦" Diamine! Qual era la battuta dopo?!}
 {235}{}{D'accordo, ma qual e' la mia MOTIVAZIONE per girare questa scena?}
-{236}{}{Vediamo…(Studia il copione)… lui entra, facciamo sesso. Ho capito.}
+{236}{}{Vediamoâ€¦(Studia il copione)â€¦ lui entra, facciamo sesso. Ho capito.}
 {237}{}{Quello che vorrei, in realta', e' fare la regista.}
 {238}{}{Grazie a Dio hanno finalmente installato quella testiera imbottita.}
 {239}{}{Non capisco cosa VEDANO in lei i Fratelli Corsican...}
@@ -32,10 +32,10 @@
 {252}{}{Mi cercavi?}
 {253}{}{Perche' non ti fai viva piu' spesso?}
 {254}{}{Ho un'apertura che potresti riempire.}
-{255}{}{Finalmente un vero uomo, qui dentro…}
-{256}{}{Vediamo… "Oddio"… "Dammelo…" Diamine! Qual era la battuta dopo?}
+{255}{}{Finalmente un vero uomo, qui dentroâ€¦}
+{256}{}{Vediamoâ€¦ "Oddio"â€¦ "Dammeloâ€¦" Diamine! Qual era la battuta dopo?}
 {257}{}{D'accordo, ma qual e' la mia MOTIVAZIONE per girare questa scena?}
-{258}{}{Vediamo…(Studia il copione)… lui entra, facciamo sesso. Ho capito.}
+{258}{}{Vediamoâ€¦(Studia il copione)â€¦ lui entra, facciamo sesso. Ho capito.}
 {259}{}{Quello che vorrei, in realta', e' fare la regista.}
 {260}{}{Grazie a Dio hanno finalmente installato quella testiera imbottita.}
 {265}{}{Come butta, }
@@ -43,18 +43,18 @@
 {267}{}{Mi cercavi?}
 {268}{}{Perche' non ti fai viva piu' spesso?}
 {269}{}{Ho un'apertura che potresti riempire.}
-{270}{}{Finalmente un vero uomo, qui dentro…}
-{271}{}{Vediamo… "Oddio"… "Dammelo…" Diamine! Qual era la battuta dopo?}
+{270}{}{Finalmente un vero uomo, qui dentroâ€¦}
+{271}{}{Vediamoâ€¦ "Oddio"â€¦ "Dammeloâ€¦" Diamine! Qual era la battuta dopo?}
 {272}{}{D'accordo, ma qual e' la mia MOTIVAZIONE per girare questa scena?}
-{273}{}{Vediamo…(Studia il copione)… lui entra, facciamo sesso. Ho capito.}
+{273}{}{Vediamoâ€¦(Studia il copione)â€¦ lui entra, facciamo sesso. Ho capito.}
 {274}{}{Quello che vorrei, in realta', e' fare la regista.}
 {275}{}{Grazie a Dio hanno finalmente installato quella testiera imbottita.}
 {280}{}{Cos'e' 'sta puzza?}
 {281}{}{Perfetto. Un altro pesta-merde selvaggio.}
 {282}{}{Non parlarmi.}
-{283}{}{Vediamo… "Oddio"… "Dammelo…" Diamine! Qual era la battuta dopo?}
+{283}{}{Vediamoâ€¦ "Oddio"â€¦ "Dammeloâ€¦" Diamine! Qual era la battuta dopo?}
 {284}{}{D'accordo, ma qual e' la mia MOTIVAZIONE per girare questa scena?}
-{285}{}{Vediamo…(Studia il copione)… lui entra, facciamo sesso. Ho capito.}
+{285}{}{Vediamoâ€¦(Studia il copione)â€¦ lui entra, facciamo sesso. Ho capito.}
 {286}{}{Quello che vorrei, in realta', e' fare la regista.}
 {287}{}{Grazie a Dio hanno finalmente installato quella testiera imbottita.}
 {288}{}{Preferirei che tu non dicessi una parola mentre mi parli. Formula un discorso nella tua mente e poi fa' finta che io ti stia rispondendo.}
@@ -75,7 +75,7 @@
 {312}{}{Queste scene mi stanno apren... er, stancando molto.}
 {313}{}{Credo che FINALMENTE faremo una scena insieme.}
 {314}{}{I miei fidanzati non sanno che lavoro qui. Non che mi interessi quello che pensano.}
-{315}{}{Non ho visto i Fratelli in giro…in ufficio, forse?}
+{315}{}{Non ho visto i Fratelli in giroâ€¦in ufficio, forse?}
 {316}{}{Non mi interessa dove va messa, ma la camera deve riprendere il momento in cui verra'.}
 {317}{}{Sei un uomo di passione e mistero. Un uomo di desiderio.}
 {318}{}{Beh, possiamo farlo nel modo che ti e' piu' comodo, qualunque esso sia.}
@@ -89,12 +89,12 @@
 {331}{}{Nella prossima scena tu interpreti la ragazza francese o quella russa?}
 {332}{}{Vorrei tanto che il metodo di controllo delle nascite fosse un pochino piu' affidabile.}
 {333}{}{Sei stata tu a rubare le mie scarpe con i tacchi a spillo?}
-{334}{}{Mi sento un po' stanca… hai del Jet?}
+{334}{}{Mi sento un po' stancaâ€¦ hai del Jet?}
 {335}{}{Hmphhh!}
 {336}{}{No, mi dispiace, dolcezza. Non so dove siano i Fratelli Corsican.}
 {337}{}{Vuoi che ti mostri dov'e' l'uscita?}
 {338}{}{Sei ingrassata, per caso?}
-{339}{}{Potresti per cortesia allontanarti un po'. Il tuo… profumo… mi fa venire la nausea.}
+{339}{}{Potresti per cortesia allontanarti un po'. Il tuoâ€¦ profumoâ€¦ mi fa venire la nausea.}
 {340}{}{Ho sentito che i Fratelli ti stanno per scaricare. Mi dispiace, e' un VERO peccato.}
 {341}{}{Credo che, se persino una persona senza talento come te ce la puo' fare, io sia destinata a cose ben migliori.}
 {342}{}{Il tuo culo e' cosi' grassoccio! Che carino!}
@@ -127,11 +127,11 @@
 {381}{}{Fa' attenzione al Masticatore. E' un vero stronzo. Ha provato a staccarmi un orecchio a morsi, una volta.}
 {382}{}{Mi piace il tuo completino. Tres chic.}
 {383}{}{Quel completo ti sta d'incanto.}
-{384}{}{Cosa cavolo vuo… oh! Madame! Benvenuta nello studio.}
+{384}{}{Cosa cavolo vuoâ€¦ oh! Madame! Benvenuta nello studio.}
 {385}{}{I miei fidanzati non sanno che lavoro qui. Non che mi interessi quello che pensano.}
-{386}{}{Um…non e' che potrebbe procurarmi un po' di Jet, signora?}
+{386}{}{Umâ€¦non e' che potrebbe procurarmi un po' di Jet, signora?}
 {387}{}{Queste scene mi stanno apren... er, stancando molto.}
-{388}{}{Se faccio qualcosa piu' tardi? Er… no, signora. Per niente.}
+{388}{}{Se faccio qualcosa piu' tardi? Erâ€¦ no, signora. Per niente.}
 {389}{}{Com'e' lavorare per il capo?}
 {390}{}{Il capo le parla mai di me?}
 {395}{}{Senti, il bondage e il SadoMaso si fanno solo di mercoledi'. Ora strizza il tuo culo di cuoio fuori di qui.}
@@ -152,8 +152,8 @@
 {420}{}{Non c'e' speranza che tu riesca a infilarti nelle mie mutandine. C'e' posto per un solo buco del culo li' dentro.}
 {421}{}{Mi spiace, credevo che avessi un bell'aspetto, ma mi sono sbagliata.}
 {422}{}{Tu? Scusa, non saro' MAI cosi' disperata.}
-{423}{}{No, non li ho visti i Fratelli qui in giro… adesso non disturbarmi. Sono un'attrice.}
-{424}{}{Per favore… niente autografi.}
+{423}{}{No, non li ho visti i Fratelli qui in giroâ€¦ adesso non disturbarmi. Sono un'attrice.}
+{424}{}{Per favoreâ€¦ niente autografi.}
 {425}{}{Vorrei tanto fare la regista.}
 {426}{}{Ballo al casino', il giovedi'. Vieni a vedermi e porta un po' di quattrini.}
 {427}{}{Non puoi lontanamente immaginare quanto stressante sia questa vita.}
@@ -164,7 +164,7 @@
 {432}{}{Sei la nuova assistente? Non riesco a immaginare chi altri potresti essere.}
 {433}{}{Se sei la nuova assistente, potresti cominciare frustandomi il culo.}
 {434}{}{Non li ho visti i Fratelli qui in giro, ragazza... adesso cerca di non disturbarmi. Sono un'attrice.}
-{435}{}{Per piacere, ragazza… niente autografi.}
+{435}{}{Per piacere, ragazzaâ€¦ niente autografi.}
 {436}{}{Se ti fossi pulita un po' di piu', FORSE avresti potuto fare l'assistente.}
 {437}{}{Mi spiace, no, non faccio sesso lesbico per meno di 200 dollari. 300, per te.}
 {438}{}{Ballo al casino', il giovedi'. Vieni a vedermi e porta un po' di quattrini.}

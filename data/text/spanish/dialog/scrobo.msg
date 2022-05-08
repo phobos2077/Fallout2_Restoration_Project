@@ -1,29 +1,29 @@
-{100}{}{Ves a un extraño mitad perro, mitad cosa. Parece estar activado.}
-{101}{}{¡Es Roboperro! ¡La mascota favorita de todo el mundo!}
-{102}{}{O esta cosa es una horrible mezcla de perro y máquina, o es una máquina astutamente diseñada para parecer un perro. Es difícil de decir.}
-{103}{}{¡Arf! <click> ¡Woof!}
+{100}{}{Ves a un extraÃ±o mitad perro, mitad cosa. Parece estar activado.}
+{101}{}{Â¡Es Roboperro! Â¡La mascota favorita de todo el mundo!}
+{102}{}{O esta cosa es una horrible mezcla de perro y mÃ¡quina, o es una mÃ¡quina astutamente diseÃ±ada para parecer un perro. Es difÃ­cil de decir.}
+{103}{}{Â¡Arf! <click> Â¡Woof!}
 {104}{}{...bzzzzzz...}
 {105}{}{.whirrrrr... No soy un perrito.}
 {106}{}{Grrrrrrrrrrrrrrrr--}
-{107}{}{¡Woof! Wo-wo-wo-<click>woof.}
+{107}{}{Â¡Woof! Wo-wo-wo-<click>woof.}
 {108}{}{<sprzzzt>  Miau... error.}
-{109}{}{¡Barkbarkbarkbarkbarkbarkbark!}
+{109}{}{Â¡Barkbarkbarkbarkbarkbarkbark!}
 {110}{}{Grrr...}
-{111}{}{¡How-woooo! <click-click> ¡How-wooo!}
-{112}{}{¡Yipe! ¡Yipe! ¡Yipe!}
-{113}{}{¡Peligro! ¡Peligro!}
-{114}{}{¡Rowf! <tick-tick-tick> ¡Rowf!}
-{115}{}{<whirrr> No es un pájaro, no es un avión, ni siquiera es una rana, sólo tu viejo amigo: ¡Roboperro!<click>}
-{116}{}{¡Rooby-Doo!}
-{117}{}{¡Ee-bee-dee-bee-ee-bee-dee-bee!}
-{118}{}{¡Guau!}
-{119}{}{¡GRRR-ROWF!}
-{120}{}{¡Arf-arf-arf-arf-arf-arf-arf!}
+{111}{}{Â¡How-woooo! <click-click> Â¡How-wooo!}
+{112}{}{Â¡Yipe! Â¡Yipe! Â¡Yipe!}
+{113}{}{Â¡Peligro! Â¡Peligro!}
+{114}{}{Â¡Rowf! <tick-tick-tick> Â¡Rowf!}
+{115}{}{<whirrr> No es un pÃ¡jaro, no es un aviÃ³n, ni siquiera es una rana, sÃ³lo tu viejo amigo: Â¡Roboperro!<click>}
+{116}{}{Â¡Rooby-Doo!}
+{117}{}{Â¡Ee-bee-dee-bee-ee-bee-dee-bee!}
+{118}{}{Â¡Guau!}
+{119}{}{Â¡GRRR-ROWF!}
+{120}{}{Â¡Arf-arf-arf-arf-arf-arf-arf!}
 {121}{}{Vale}
-{122}{}{No creo que quiera volverme a juntar contigo. Adiós.}
-{123}{}{¿Rowf? <boing> ¿Raggy?}
-{124}{}{¿Cómo estás?}
-{125}{}{Necesito que esperes aquí hasta que vuelva.}
+{122}{}{No creo que quiera volverme a juntar contigo. AdiÃ³s.}
+{123}{}{Â¿Rowf? <boing> Â¿Raggy?}
+{124}{}{Â¿CÃ³mo estÃ¡s?}
+{125}{}{Necesito que esperes aquÃ­ hasta que vuelva.}
 {126}{}{Esto es todo por ahora.}
 {127}{}{<click> whimper}
 {128}{}{No importa.}
@@ -31,18 +31,18 @@
 {130}{}{HP:}
 {131}{}{El ciberperro no puede ser reparado en este momento.}
 {132}{}{El ciberperro ha sido parcialmente reparado.}
-{133}{}{Ahora el ciberperro está totalmente reparado.}
-{1000}{}{¡Woof! Wo-wo-wo-<click>¿woof?}
-{1100}{}{¡Arf! <click> ¡Woof!}
-{1200}{}{¿Rowf? <boing> ¿Raggy?}
+{133}{}{Ahora el ciberperro estÃ¡ totalmente reparado.}
+{1000}{}{Â¡Woof! Wo-wo-wo-<click>Â¿woof?}
+{1100}{}{Â¡Arf! <click> Â¡Woof!}
+{1200}{}{Â¿Rowf? <boing> Â¿Raggy?}
 {1300}{}{<click> whimper.}
-{1400}{}{¡How-woooo! <click-click> ¡How-wooo!}
-{1500}{}{¡Ee-bee-dee-bee-ee-bee-dee-bee!}
-{1600}{}{Sí, lo dejaré a un lado.}
+{1400}{}{Â¡How-woooo! <click-click> Â¡How-wooo!}
+{1500}{}{Â¡Ee-bee-dee-bee-ee-bee-dee-bee!}
+{1600}{}{SÃ­, lo dejarÃ© a un lado.}
 {1700}{}{Arf-arf proximidad cercana.}
 {1800}{}{Arf-arf proximidad media.}
 {1900}{}{Arf-arf proximidad lejana.}
 {2000}{}{.whirrrrr... No soy un perrito.}
-{2100}{}{¡GRRR-ROWF!}
-{2200}{}{¡Woof! Wo-wo-wo-<click>¿woof?}
-{2204}{}{Vale, ahora estás a una buena distancia.}
+{2100}{}{Â¡GRRR-ROWF!}
+{2200}{}{Â¡Woof! Wo-wo-wo-<click>Â¿woof?}
+{2204}{}{Vale, ahora estÃ¡s a una buena distancia.}

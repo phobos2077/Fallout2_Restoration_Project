@@ -1,17 +1,17 @@
 {100}{}{Tu vois un Patrouilleur de l'Enclave.}
-{200}{}{Tu as pénétré illégalement sur le territoire de l'Enclave. La proposition 312 nous ordonne de tirer à vue. Désolé.}
+{200}{}{Tu as pÃ©nÃ©trÃ© illÃ©galement sur le territoire de l'Enclave. La proposition 312 nous ordonne de tirer Ã  vue. DÃ©solÃ©.}
 {201}{}{C'est un espion mutant ! Qu'on l'attrape !!}
 {202}{}{Je suis un soldat loyal de l'Enclave. J'ai l'ordre de te tuer. Tu ne m'en veux pas, hein ?}
-{203}{}{J'appelle la base... Intrus dans le secteur 3 ! Attendons vos ordres. - Exterminer ? Bien reçu.}
-{204}{}{Tu vas certainement me dire que tu cherches seulement une puce d'eau. J'ai l'air bête, ou quoi ? Attrapez-moi cette crapule !}
-{205}{}{Crève, pourriture du désert !}
-{206}{}{Toi ! Ceux de ton espèce ont détruit cette nation autrefois puissante. Tu vas le payer !}
-{207}{}{Hé ! Tu as déjà vu ce que cette petite merveille fait aux peaux-douces ? Regarde !}
-{300}{}{Je n'aime pas devoir tuer une femme. Réglons ça vite fait, d'accord ?}
+{203}{}{J'appelle la base... Intrus dans le secteur 3 ! Attendons vos ordres. - Exterminer ? Bien reÃ§u.}
+{204}{}{Tu vas certainement me dire que tu cherches seulement une puce d'eau. J'ai l'air bÃªte, ou quoi ? Attrapez-moi cette crapule !}
+{205}{}{CrÃ¨ve, pourriture du dÃ©sert !}
+{206}{}{Toi ! Ceux de ton espÃ¨ce ont dÃ©truit cette nation autrefois puissante. Tu vas le payer !}
+{207}{}{HÃ© ! Tu as dÃ©jÃ  vu ce que cette petite merveille fait aux peaux-douces ? Regarde !}
+{300}{}{Je n'aime pas devoir tuer une femme. RÃ©glons Ã§a vite fait, d'accord ?}
 {301}{}{Alerte ! Alerte !}
 {302}{}{On dirait que tu es venue de loin pour rien, ma belle.}
 {303}{}{Je suis un soldat loyal de l'Enclave. J'ai l'ordre de te tuer. Tu ne m'en veux pas, hein ?}
-{304}{}{Toi ! Ceux de ton espèce ont détruit cette nation autrefois puissante. Tu vas le payer !}
-{305}{}{Ne t'inquiète pas, c'est qu'une pouffe du désert. Elle ne se défendra pas beaucoup.}
+{304}{}{Toi ! Ceux de ton espÃ¨ce ont dÃ©truit cette nation autrefois puissante. Tu vas le payer !}
+{305}{}{Ne t'inquiÃ¨te pas, c'est qu'une pouffe du dÃ©sert. Elle ne se dÃ©fendra pas beaucoup.}
 {306}{}{C'est dommage, nous aurions pu nous rencontrer dans d'autres circonstances.}
-{307}{}{Ne me parle pas ! Ton charme féminin ne me corrompra pas. Crève !}
+{307}{}{Ne me parle pas ! Ton charme fÃ©minin ne me corrompra pas. CrÃ¨ve !}

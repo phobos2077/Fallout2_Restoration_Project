@@ -1,49 +1,49 @@
 {100}{}{Ves a un hombre vestido con ropa de cuero y un arma oculta.}
 {101}{}{Es Felix, el capataz del rancho.}
-{102}{}{Parece un tipo más frío y duro que el resto del lote que ronda por aquí.}
-{103}{}{¿Qué puedo hacer por ti, extranjero?}
-{104}{}{¿Otra vez tú?}
+{102}{}{Parece un tipo mÃ¡s frÃ­o y duro que el resto del lote que ronda por aquÃ­.}
+{103}{}{Â¿QuÃ© puedo hacer por ti, extranjero?}
+{104}{}{Â¿Otra vez tÃº?}
 {105}{}{Nyeh.}
-{106}{}{El sheriff me dijo que me pasara por aquí: dijo que el señor Westin podría tener un trabajo para mí.}
-{107}{}{Estoy aquí para ver al jefe.}
+{106}{}{El sheriff me dijo que me pasara por aquÃ­: dijo que el seÃ±or Westin podrÃ­a tener un trabajo para mÃ­.}
+{107}{}{Estoy aquÃ­ para ver al jefe.}
 {108}{}{Estoy buscando trabajo.}
 {109}{}{Estoy buscando el Refugio 13.}
-{110}{}{Sólo estaba mirando.}
-{111}{}{Genial, otro idiota. ¿Supongo que quieres ver al jefe?}
+{110}{}{SÃ³lo estaba mirando.}
+{111}{}{Genial, otro idiota. Â¿Supongo que quieres ver al jefe?}
 {112}{}{Uh-huh.}
 {113}{}{Nooo.}
 {114}{}{Bien. Pasa dentro.}
-{115}{}{Es tarde. Vuelve por la mañana.}
-{116}{}{De acuerdo entonces, lárgate de aquí.}
-{117}{}{Dumont, ¿eh? Bueno, eso es suficiente para mí. El señor Westin está dentro.}
-{118}{}{Eso está bien. El señor Westin no suele ver a nadie. ¿Tienes algún motivo?}
+{115}{}{Es tarde. Vuelve por la maÃ±ana.}
+{116}{}{De acuerdo entonces, lÃ¡rgate de aquÃ­.}
+{117}{}{Dumont, Â¿eh? Bueno, eso es suficiente para mÃ­. El seÃ±or Westin estÃ¡ dentro.}
+{118}{}{Eso estÃ¡ bien. El seÃ±or Westin no suele ver a nadie. Â¿Tienes algÃºn motivo?}
 {119}{}{Estoy buscando el Refugio 13.}
-{120}{}{¿Qué pasa si digo que Bishop en Nuevo Reno me envió para matarlo?}
+{120}{}{Â¿QuÃ© pasa si digo que Bishop en Nuevo Reno me enviÃ³ para matarlo?}
 {121}{}{Uh, no.}
-{122}{}{¡Ja! Otro pirado. Debes ir a hablar con Trampero. Él y tú os llevaríais bien.}
-{123}{}{¿Quién?}
-{124}{}{Me voy de aquí.}
-{125}{}{Bob el Trampero: en los establos. El señor Westin le deja estar ahí. Y ahora deja de hacerme perder el tiempo.}
+{122}{}{Â¡Ja! Otro pirado. Debes ir a hablar con Trampero. Ã‰l y tÃº os llevarÃ­ais bien.}
+{123}{}{Â¿QuiÃ©n?}
+{124}{}{Me voy de aquÃ­.}
+{125}{}{Bob el Trampero: en los establos. El seÃ±or Westin le deja estar ahÃ­. Y ahora deja de hacerme perder el tiempo.}
 {126}{}{Oh, gracias.}
 {127}{}{Entonces supongo que tendremos que matarte.}
-{128}{}{¿Ha terminado la reunión?}
-{129}{}{Westin. Trabajo. A mí.}
+{128}{}{Â¿Ha terminado la reuniÃ³n?}
+{129}{}{Westin. Trabajo. A mÃ­.}
 {130}{}{Yo ir.}
-{131}{}{Vale, él quiere que hagas un trabajo; yo tengo un trabajo. Alguien, o algo, mata vacas de dos cabezas. Vienes conmigo. Haces guardia. Mantienes a vacas seguras. Haces feliz a jefe. ¿Vale?}
+{131}{}{Vale, Ã©l quiere que hagas un trabajo; yo tengo un trabajo. Alguien, o algo, mata vacas de dos cabezas. Vienes conmigo. Haces guardia. Mantienes a vacas seguras. Haces feliz a jefe. Â¿Vale?}
 {132}{}{Vale.}
 {133}{}{No. Yo no mato.}
-{134}{}{Vuelves de nuevo, ¿verdad? ¿Está hecho el trabajo?}
-{135}{}{Sí.}
+{134}{}{Vuelves de nuevo, Â¿verdad? Â¿EstÃ¡ hecho el trabajo?}
+{135}{}{SÃ­.}
 {136}{}{No.}
-{137}{}{Sí, él dejó ciertas órdenes. Te ha estado esperando.}
-{138}{}{¡EH, TÚ! ¡Aléjate de ahí!}
+{137}{}{SÃ­, Ã©l dejÃ³ ciertas Ã³rdenes. Te ha estado esperando.}
+{138}{}{Â¡EH, TÃš! Â¡AlÃ©jate de ahÃ­!}
 {139}{}{Vale.}
-{140}{}{¡Que te jodan!}
-{141}{}{Sí. Dijo que te viera por cierto problema con los brahmines.}
-{142}{}{Sí. Me marcho de aquí.}
-{143}{}{Justo. Alguien, o algo, ha estado matando brahmines en los pastos del oeste. Te llevaré hasta allí y tú te encargarás de ello. Vamos.}
-{144}{}{¡Olvídalo!}
-{145}{}{El señor Westin te está esperando.}
-{146}{}{Bueno, estábamos teniendo un problema con unas alimañas, pero dejaron de fastidiarnos. Puedes ver a Westin si quieres.}
-{147}{}{Estoy aquí por negocios de Ciudad Refugio.}
-{500}{}{Toca esa puerta otra vez y lo pagarás. ¿Lo captas, amigo?}
+{140}{}{Â¡Que te jodan!}
+{141}{}{SÃ­. Dijo que te viera por cierto problema con los brahmines.}
+{142}{}{SÃ­. Me marcho de aquÃ­.}
+{143}{}{Justo. Alguien, o algo, ha estado matando brahmines en los pastos del oeste. Te llevarÃ© hasta allÃ­ y tÃº te encargarÃ¡s de ello. Vamos.}
+{144}{}{Â¡OlvÃ­dalo!}
+{145}{}{El seÃ±or Westin te estÃ¡ esperando.}
+{146}{}{Bueno, estÃ¡bamos teniendo un problema con unas alimaÃ±as, pero dejaron de fastidiarnos. Puedes ver a Westin si quieres.}
+{147}{}{Estoy aquÃ­ por negocios de Ciudad Refugio.}
+{500}{}{Toca esa puerta otra vez y lo pagarÃ¡s. Â¿Lo captas, amigo?}

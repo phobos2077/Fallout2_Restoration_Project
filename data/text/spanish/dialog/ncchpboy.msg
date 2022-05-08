@@ -1,75 +1,75 @@
-{150}{}{Ves a un mecánico cubierto de grasa.}
+{150}{}{Ves a un mecÃ¡nico cubierto de grasa.}
 {151}{}{Ves a uno de los muchachos del desguace.}
-{152}{}{Ves a un mecánico de apariencia sospechosa. Apenas puedes distinguir sus facciones bajo la grasa y el aceite.}
-{200}{}{Hostia puta. *traga saliva* Mira quién acaba de entrar.}
-{201}{}{Vaya, vaya: El señor Puta Lata de Café en persona.}
-{202}{}{¿Hay algo en esa cosa?}
-{203}{}{¿Podemos traerle algo? ¿Una cerveza? ¿Algo de agua? ¿Un bollo danés?}
-{204}{}{Espero que todo esté bien, eh, señor… o señora. Lo que seas ahí dentro.}
-{205}{}{Cualquiera que sea el problema, T-Ray es el responsable. Yo de usted iría a verlo.}
-{206}{}{¿Eso es algún tipo de coche nuevo?}
+{152}{}{Ves a un mecÃ¡nico de apariencia sospechosa. Apenas puedes distinguir sus facciones bajo la grasa y el aceite.}
+{200}{}{Hostia puta. *traga saliva* Mira quiÃ©n acaba de entrar.}
+{201}{}{Vaya, vaya: El seÃ±or Puta Lata de CafÃ© en persona.}
+{202}{}{Â¿Hay algo en esa cosa?}
+{203}{}{Â¿Podemos traerle algo? Â¿Una cerveza? Â¿Algo de agua? Â¿Un bollo danÃ©s?}
+{204}{}{Espero que todo estÃ© bien, eh, seÃ±orâ€¦ o seÃ±ora. Lo que seas ahÃ­ dentro.}
+{205}{}{Cualquiera que sea el problema, T-Ray es el responsable. Yo de usted irÃ­a a verlo.}
+{206}{}{Â¿Eso es algÃºn tipo de coche nuevo?}
 {207}{}{No queremos problemas.}
-{208}{}{Quizá venga buscando a T-Ray. Está en la parte de atrás.}
-{220}{}{Vaya, hoooola, señorita. Menuda actuación que ofreciste, joder.}
-{221}{}{Oye. No tenemos muchas visitas. ¿Qué podemos hacer por ti, señorita }
-{222}{}{¿Cómo conseguiste poner tus piernas sobre tu cabeza de aquella forma?}
-{223}{}{¿Esas tetas son de verdad? ¿Puedo asegurarme?}
-{224}{}{¿Te resultaría un problema echar un vistazo a mi palanca de cambio?}
-{225}{}{Auch, maldita sea, tengo una pinta de mierda y vas tú y apareces. Que no te importe la grasa, señorita.}
-{226}{}{¿Buscas un talento? T-Ray está en la parte de atrás, así que no te molestes en ir por allí.}
-{227}{}{Sabía que debería haberme lavado hoy…}
-{228}{}{¿Te compruebo el aceite? Je je.}
-{229}{}{¿Quieres ver a mi pequeño mecánico?}
+{208}{}{QuizÃ¡ venga buscando a T-Ray. EstÃ¡ en la parte de atrÃ¡s.}
+{220}{}{Vaya, hoooola, seÃ±orita. Menuda actuaciÃ³n que ofreciste, joder.}
+{221}{}{Oye. No tenemos muchas visitas. Â¿QuÃ© podemos hacer por ti, seÃ±orita }
+{222}{}{Â¿CÃ³mo conseguiste poner tus piernas sobre tu cabeza de aquella forma?}
+{223}{}{Â¿Esas tetas son de verdad? Â¿Puedo asegurarme?}
+{224}{}{Â¿Te resultarÃ­a un problema echar un vistazo a mi palanca de cambio?}
+{225}{}{Auch, maldita sea, tengo una pinta de mierda y vas tÃº y apareces. Que no te importe la grasa, seÃ±orita.}
+{226}{}{Â¿Buscas un talento? T-Ray estÃ¡ en la parte de atrÃ¡s, asÃ­ que no te molestes en ir por allÃ­.}
+{227}{}{SabÃ­a que deberÃ­a haberme lavado hoyâ€¦}
+{228}{}{Â¿Te compruebo el aceite? Je je.}
+{229}{}{Â¿Quieres ver a mi pequeÃ±o mecÃ¡nico?}
 {230}{}{::Silbidos::}
-{231}{}{Maldición. Todas esas curvas y yo sin frenos.}
-{232}{}{Vaya, hoooola, señorita.}
-{233}{}{Oye. No tenemos muchas visitas. ¿Qué podemos hacer por ti, señorita?}
-{234}{}{¿Buscas pasión desenfrenada? T-Ray está en la parte de atrás, así que no te molestes en ir por allí.}
+{231}{}{MaldiciÃ³n. Todas esas curvas y yo sin frenos.}
+{232}{}{Vaya, hoooola, seÃ±orita.}
+{233}{}{Oye. No tenemos muchas visitas. Â¿QuÃ© podemos hacer por ti, seÃ±orita?}
+{234}{}{Â¿Buscas pasiÃ³n desenfrenada? T-Ray estÃ¡ en la parte de atrÃ¡s, asÃ­ que no te molestes en ir por allÃ­.}
 {245}{}{Vi tu pelea en el ring. Lanzaste un gancho de derecha bueno de cojones.}
-{246}{}{¿Lo vas a dejar? Conseguí 30 fichas apostando por ti.}
-{247}{}{No pareces tan duro, para ser un campeón.}
-{248}{}{¿Cuántas flexiones haces?}
-{249}{}{¿Dónde entrenas?}
+{246}{}{Â¿Lo vas a dejar? ConseguÃ­ 30 fichas apostando por ti.}
+{247}{}{No pareces tan duro, para ser un campeÃ³n.}
+{248}{}{Â¿CuÃ¡ntas flexiones haces?}
+{249}{}{Â¿DÃ³nde entrenas?}
 {250}{}{Cuidado con el Masticador. Le gustan las orejas.}
-{251}{}{¿Quieres una cerveza? Normalmente las guardamos para cuando estamos trabajando.}
-{252}{}{T-Ray dijo que no eras tan duro. Te daré 5 fichas si le das un puñetazo.}
-{253}{}{T-Ray dijo que tienes la mandíbula de cristal. Está en la parte de atrás, por si quieres hablar con él.}
+{251}{}{Â¿Quieres una cerveza? Normalmente las guardamos para cuando estamos trabajando.}
+{252}{}{T-Ray dijo que no eras tan duro. Te darÃ© 5 fichas si le das un puÃ±etazo.}
+{253}{}{T-Ray dijo que tienes la mandÃ­bula de cristal. EstÃ¡ en la parte de atrÃ¡s, por si quieres hablar con Ã©l.}
 {254}{}{Ese Masticador es una nenaza. Eh, pero no le digas que le he dicho eso.}
-{265}{}{Espero que no haya ningún problema, señora.}
-{266}{}{No pretendemos faltarle al respeto, señora.}
-{267}{}{Hostia puta. *traga saliva* Mira quién acaba de entrar.}
-{268}{}{¿Qué podemos hacer por usted, }
-{269}{}{¿Podemos traerle algo? ¿Una cerveza? ¿Algo de agua? ¿Un bollo danés?}
-{270}{}{Cualquiera que sea el problema, T-Ray es el responsable. Yo de usted iría a verlo.}
+{265}{}{Espero que no haya ningÃºn problema, seÃ±ora.}
+{266}{}{No pretendemos faltarle al respeto, seÃ±ora.}
+{267}{}{Hostia puta. *traga saliva* Mira quiÃ©n acaba de entrar.}
+{268}{}{Â¿QuÃ© podemos hacer por usted, }
+{269}{}{Â¿Podemos traerle algo? Â¿Una cerveza? Â¿Algo de agua? Â¿Un bollo danÃ©s?}
+{270}{}{Cualquiera que sea el problema, T-Ray es el responsable. Yo de usted irÃ­a a verlo.}
 {271}{}{Salude a su jefe de nuestra parte.}
-{272}{}{Quizá venga buscando a T-Ray. Está en la parte de atrás.}
-{273}{}{Espero que no haya ningún problema, señor.}
-{274}{}{No pretendemos faltarle al respeto, señor.}
+{272}{}{QuizÃ¡ venga buscando a T-Ray. EstÃ¡ en la parte de atrÃ¡s.}
+{273}{}{Espero que no haya ningÃºn problema, seÃ±or.}
+{274}{}{No pretendemos faltarle al respeto, seÃ±or.}
 {300}{}{Lamento el malentendido con el Highwayman.}
-{301}{}{No sabíamos que el Highwayman era tuyo.}
-{302}{}{Sí, el Highwayman no es un mal coche, pero prefiero un Omni.}
-{303}{}{¿Te gustaría vender el Highwayman?}
+{301}{}{No sabÃ­amos que el Highwayman era tuyo.}
+{302}{}{SÃ­, el Highwayman no es un mal coche, pero prefiero un Omni.}
+{303}{}{Â¿Te gustarÃ­a vender el Highwayman?}
 {304}{}{Vamos, electrizante, vamos.}
-{305}{}{Grasa es la palabra que he oído… dum dum dum dum…}
-{306}{}{El Highwayman es un cochazo; Chryslus desde luego que sabía cómo hacerlos en los viejos tiempos.}
-{307}{}{T-Ray está "trabajando" en la parte de atrás, otra vez. Perezoso bastardo.}
-{308}{}{Estoy harto del trabajo que me cae por la holgazanería de T-Ray.}
+{305}{}{Grasa es la palabra que he oÃ­doâ€¦ dum dum dum dumâ€¦}
+{306}{}{El Highwayman es un cochazo; Chryslus desde luego que sabÃ­a cÃ³mo hacerlos en los viejos tiempos.}
+{307}{}{T-Ray estÃ¡ "trabajando" en la parte de atrÃ¡s, otra vez. Perezoso bastardo.}
+{308}{}{Estoy harto del trabajo que me cae por la holgazanerÃ­a de T-Ray.}
 {309}{}{T-Ray ha estado acosando a mi mujer de nuevo.}
-{310}{}{T-Ray se acostó con mi hermana. Y con mi madre. Y con mi perro.}
-{311}{}{T-Ray está más caliente que una cabra de cuatro cabezas.}
-{312}{}{T-Ray está en la parte de atrás. Con el teléfono.}
-{313}{}{El motor aún está bien.}
-{314}{}{El interior huele como si alguien tuviera un vertedero ahí dentro.}
+{310}{}{T-Ray se acostÃ³ con mi hermana. Y con mi madre. Y con mi perro.}
+{311}{}{T-Ray estÃ¡ mÃ¡s caliente que una cabra de cuatro cabezas.}
+{312}{}{T-Ray estÃ¡ en la parte de atrÃ¡s. Con el telÃ©fono.}
+{313}{}{El motor aÃºn estÃ¡ bien.}
+{314}{}{El interior huele como si alguien tuviera un vertedero ahÃ­ dentro.}
 {315}{}{El interior huele como un gecko.}
 {316}{}{No es un mal coche, pero sigo prefiriendo un Omni.}
-{317}{}{El Highwayman tiene un sistema analógico completo, 800 CV de potencia, de 0 a 100 en menos de un segundo.}
-{318}{}{¿Rápido? El Highwayman se pone de 0 a 100 en menos de un segundo.}
+{317}{}{El Highwayman tiene un sistema analÃ³gico completo, 800 CV de potencia, de 0 a 100 en menos de un segundo.}
+{318}{}{Â¿RÃ¡pido? El Highwayman se pone de 0 a 100 en menos de un segundo.}
 {319}{}{El Highwayman es potencia: 800 CV, de hecho.}
-{320}{}{¿Tú deberías estar aquí?}
-{321}{}{Lo siento por el idiota que dejó este Highwayman por ahí.}
-{322}{}{No me preocuparía; el Highwayman tiene un sistema analógico completo, sin computadoras. Nada de equipamiento de lujo.}
-{330}{}{Aparta las manos o te las corto. ¿Entendido?}
-{331}{}{Aléjate de ese coche pero YA.}
-{332}{}{Tu vida no vale más que ese coche. Vuelve a tocarlo, y te lo demostraré.}
+{320}{}{Â¿TÃº deberÃ­as estar aquÃ­?}
+{321}{}{Lo siento por el idiota que dejÃ³ este Highwayman por ahÃ­.}
+{322}{}{No me preocuparÃ­a; el Highwayman tiene un sistema analÃ³gico completo, sin computadoras. Nada de equipamiento de lujo.}
+{330}{}{Aparta las manos o te las corto. Â¿Entendido?}
+{331}{}{AlÃ©jate de ese coche pero YA.}
+{332}{}{Tu vida no vale mÃ¡s que ese coche. Vuelve a tocarlo, y te lo demostrarÃ©.}
 {5221}{}{?}
 {5268}{}{?}

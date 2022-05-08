@@ -1,1 +1,1 @@
-{100}{}{Tu es entré dans une petite installation de Gecko.}
+{100}{}{Tu es entrÃ© dans une petite installation de Gecko.}

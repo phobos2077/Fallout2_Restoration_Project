@@ -11,11 +11,11 @@
 {111}{}{Doyenne d'Arroyo}
 {112}{}{Hakunin}
 {113}{}{Porte}
-{114}{}{Général}
+{114}{}{GÃ©nÃ©ral}
 {115}{}{Coffre}
-{116}{}{Coffre à fermeture de sécurité}
+{116}{}{Coffre Ã  fermeture de sÃ©curitÃ©}
 {117}{}{Brahmine}
-{118}{}{Plante à spores}
+{118}{}{Plante Ã  spores}
 {119}{}{}
 {120}{}{Petit radscorpion}
 {121}{}{Petite mante}
@@ -58,13 +58,13 @@
 {158}{}{Charrette d'esclaves}
 {159}{}{Quartier des affaires}
 {160}{}{Quartier des affaires}
-{161}{}{Quartier résidentiel}
+{161}{}{Quartier rÃ©sidentiel}
 {162}{}{Tombe}
 {163}{}{Tombe}
 {164}{}{Tombe}
 {165}{}{Os}
 {166}{}{Journal}
-{167}{}{Médaillon}
+{167}{}{MÃ©daillon}
 {168}{}{Alambic}
 {169}{}{Tombe}
 {170}{}{Black Jack}
@@ -87,15 +87,15 @@
 {187}{}{Dunton}
 {188}{}{Citoyen}
 {189}{}{Voyageur}
-{190}{}{Garde de la Cité de l'Abri}
-{191}{}{Garde de la Cité de l'Abri}
+{190}{}{Garde de la CitÃ© de l'Abri}
+{191}{}{Garde de la CitÃ© de l'Abri}
 {192}{}{Steve}
 {193}{}{Andrew}
-{194}{}{Garde de la Cité de l'Abri}
+{194}{}{Garde de la CitÃ© de l'Abri}
 {195}{}{Docteur Troy}
 {196}{}{Chien jaune}
 {197}{}{Balthas}
-{198}{}{Cornélius}
+{198}{}{CornÃ©lius}
 {199}{}{Davin}
 {200}{}{Farrel}
 {201}{}{Grisham}
@@ -114,7 +114,7 @@
 {214}{}{Trappeur}
 {215}{}{M. Smith}
 {216}{}{Skeeve}
-{217}{}{Proconsul Grégory}
+{217}{}{Proconsul GrÃ©gory}
 {218}{}{Tu vois l'interne Phyllis.}
 {219}{}{Randal}
 {220}{}{Substance collante}
@@ -131,8 +131,8 @@
 {231}{}{Festus}
 {232}{}{Gordon}
 {233}{}{Hank}
-{234}{}{Jérémy}
-{235}{}{Bosselé}
+{234}{}{JÃ©rÃ©my}
+{235}{}{BosselÃ©}
 {236}{}{Skeeter}
 {237}{}{Zomak}
 {238}{}{Wooz}
@@ -146,8 +146,8 @@
 {246}{}{Script de Cart}
 {247}{}{Script de Cart}
 {248}{}{Script de Cart}
-{249}{}{Robot de sécurité}
-{250}{}{Robot de réparation}
+{249}{}{Robot de sÃ©curitÃ©}
+{250}{}{Robot de rÃ©paration}
 {251}{}{Holodisque}
 {252}{}{Holodisque}
 {253}{}{Holodisque}
@@ -167,27 +167,27 @@
 {267}{}{Robot cerveau}
 {268}{}{Ascenseur}
 {269}{}{Ascenseur}
-{270}{}{Coffre à fermeture de sécurité}
-{271}{}{Coffre à fermeture de sécurité}
+{270}{}{Coffre Ã  fermeture de sÃ©curitÃ©}
+{271}{}{Coffre Ã  fermeture de sÃ©curitÃ©}
 {272}{}{Tandi}
-{273}{}{Piège à lances}
-{274}{}{Piège à lances}
-{275}{}{Piège à lances}
-{276}{}{Piège à lances}
-{277}{}{Piège à lances}
-{278}{}{Piège à lances}
-{279}{}{Piège à lances}
-{280}{}{Piège à lances}
-{281}{}{Piège à lances}
-{282}{}{Piège à lances}
-{283}{}{Piège à lances}
-{284}{}{Piège à lances}
-{285}{}{Piège à lances}
-{286}{}{Piège à lances}
-{287}{}{Piège à lances}
-{288}{}{Piège à lances}
-{289}{}{Grotte fantôme un}
-{290}{}{Grotte fantôme 2}
+{273}{}{PiÃ¨ge Ã  lances}
+{274}{}{PiÃ¨ge Ã  lances}
+{275}{}{PiÃ¨ge Ã  lances}
+{276}{}{PiÃ¨ge Ã  lances}
+{277}{}{PiÃ¨ge Ã  lances}
+{278}{}{PiÃ¨ge Ã  lances}
+{279}{}{PiÃ¨ge Ã  lances}
+{280}{}{PiÃ¨ge Ã  lances}
+{281}{}{PiÃ¨ge Ã  lances}
+{282}{}{PiÃ¨ge Ã  lances}
+{283}{}{PiÃ¨ge Ã  lances}
+{284}{}{PiÃ¨ge Ã  lances}
+{285}{}{PiÃ¨ge Ã  lances}
+{286}{}{PiÃ¨ge Ã  lances}
+{287}{}{PiÃ¨ge Ã  lances}
+{288}{}{PiÃ¨ge Ã  lances}
+{289}{}{Grotte fantÃ´me un}
+{290}{}{Grotte fantÃ´me 2}
 {291}{}{Ferme perdue}
 {292}{}{Champ pour Brahmines de Modoc}
 {293}{}{Jardin de Modoc}
@@ -207,9 +207,9 @@
 {307}{}{Rochers}
 {308}{}{Rochers}
 {309}{}{Coffre-fort mural}
-{310}{}{Sac de pièces}
-{311}{}{Siège de toilette}
-{312}{}{Boîte}
+{310}{}{Sac de piÃ¨ces}
+{311}{}{SiÃ¨ge de toilette}
+{312}{}{BoÃ®te}
 {313}{}{Jordan}
 {314}{}{Tante Morlis}
 {315}{}{Lucas}
@@ -223,9 +223,9 @@
 {323}{}{RNC Zone 1}
 {324}{}{RNC Zone 3}
 {325}{}{RNC Zone 4}
-{326}{}{Entrée de zone RNC}
+{326}{}{EntrÃ©e de zone RNC}
 {327}{}{Mikey}
-{328}{}{Boîte de Mikey}
+{328}{}{BoÃ®te de Mikey}
 {329}{}{Emetteur}
 {330}{}{Emetteur}
 {331}{}{Emetteur}
@@ -250,17 +250,17 @@
 {350}{}{Champ de force}
 {351}{}{Klaxon}
 {352}{}{Buster}
-{353}{}{Etagère}
-{354}{}{Etagère}
-{355}{}{Etagère}
+{353}{}{EtagÃ¨re}
+{354}{}{EtagÃ¨re}
+{355}{}{EtagÃ¨re}
 {356}{}{Pillard}
 {357}{}{Paysan}
 {358}{}{Marchand}
 {359}{}{Garde}
 {360}{}{Client du Rawhide}
 {361}{}{Plancher}
-{362}{}{Piège à plasma}
-{363}{}{Piège à plasma}
+{362}{}{PiÃ¨ge Ã  plasma}
+{363}{}{PiÃ¨ge Ã  plasma}
 {364}{}{Terminal}
 {365}{}{Tableau d'affichage}
 {366}{}{Portail}
@@ -297,7 +297,7 @@
 {397}{}{Client du bar}
 {398}{}{Client du bar}
 {399}{}{Vortis}
-{400}{}{Hôtesse des bains}
+{400}{}{HÃ´tesse des bains}
 {401}{}{Esclaves}
 {402}{}{L'Alligator}
 {403}{}{Brahmine}
@@ -309,13 +309,13 @@
 {409}{}{Script de Cart}
 {410}{}{Corvega}
 {411}{}{Script de Cart}
-{412}{}{Porte de métal}
+{412}{}{Porte de mÃ©tal}
 {413}{}{Script de Cart}
 {414}{}{Script de Cart}
 {415}{}{Script de Cart}
-{416}{}{Coffre à fermeture de sécurité}
-{417}{}{Coffre à fermeture de sécurité}
-{418}{}{Coffre à fermeture de sécurité}
+{416}{}{Coffre Ã  fermeture de sÃ©curitÃ©}
+{417}{}{Coffre Ã  fermeture de sÃ©curitÃ©}
+{418}{}{Coffre Ã  fermeture de sÃ©curitÃ©}
 {419}{}{Ratch}
 {420}{}{Boxeur}
 {421}{}{Pete McKneely}
@@ -333,15 +333,15 @@
 {433}{}{Terrain}
 {434}{}{Holodisque}
 {435}{}{Lenny}
-{436}{}{Boîte}
-{437}{}{Prostituée}
+{436}{}{BoÃ®te}
+{437}{}{ProstituÃ©e}
 {438}{}{Esclave}
 {439}{}{Rico}
 {440}{}{Actrice de film porno}
 {441}{}{Nana}
 {442}{}{Script de Cart}
 {443}{}{Le Loup}
-{444}{}{Générateur}
+{444}{}{GÃ©nÃ©rateur}
 {445}{}{Porte}
 {446}{}{Des Super Mutants ?}
 {447}{}{Homme de Salavatore}
@@ -351,13 +351,13 @@
 {451}{}{Videur du casino}
 {452}{}{Mira}
 {453}{}{Rue de la Vierge de New Reno}
-{454}{}{2ème Rue de New Reno}
+{454}{}{2Ã¨me Rue de New Reno}
 {455}{}{Centre commercial de New Reno}
 {456}{}{Zone Est de New Reno}
 {457}{}{Etables de New Reno}
 {458}{}{Etal de boucherie de New Reno}
 {459}{}{Gologtha de New Reno}
-{460}{}{Sous-sol de Bishop à New Reno}
+{460}{}{Sous-sol de Bishop Ã  New Reno}
 {461}{}{Holodisque}
 {462}{}{Holodisque}
 {463}{}{Holodisque}
@@ -366,15 +366,15 @@
 {466}{}{Garde}
 {467}{}{Brouette de mineur}
 {468}{}{Melchior}
-{469}{}{Bête mutante}
-{470}{}{Substance collante infectée au FEV}
+{469}{}{BÃªte mutante}
+{470}{}{Substance collante infectÃ©e au FEV}
 {471}{}{Capitaine de la garde}
 {472}{}{Dirigeant d'esclaves}
 {473}{}{Animal de compagnie de Melchior}
 {474}{}{Garde Esclavagiste}
 {475}{}{Porte}
 {476}{}{Terminal}
-{477}{}{Machine à sous}
+{477}{}{Machine Ã  sous}
 {478}{}{Enfant}
 {479}{}{Sheb}
 {480}{}{Garde}
@@ -388,7 +388,7 @@
 {488}{}{Prisonnier}
 {489}{}{Prisonnier}
 {490}{}{Citoyen}
-{491}{}{Aide pour les équipements collectifs}
+{491}{}{Aide pour les Ã©quipements collectifs}
 {492}{}{Garde du Bureau}
 {493}{}{Travailleur Goule}
 {494}{}{Rayonnant}
@@ -399,7 +399,7 @@
 {499}{}{Harold}
 {500}{}{Officier}
 {501}{}{Toto}
-{502}{}{Dorothée}
+{502}{}{DorothÃ©e}
 {503}{}{Citadin}
 {504}{}{Garde Goule}
 {505}{}{Garde Goule}
@@ -407,11 +407,11 @@
 {507}{}{Duppo}
 {508}{}{Choses diverses}
 {509}{}{Bob}
-{510}{}{Entraîneuse du casino}
-{511}{}{Entraîneuse du casino}
+{510}{}{EntraÃ®neuse du casino}
+{511}{}{EntraÃ®neuse du casino}
 {512}{}{Ouija}
 {513}{}{Brahmine}
-{514}{}{Machine à sous}
+{514}{}{Machine Ã  sous}
 {515}{}{Le vieux McGee}
 {516}{}{Three Card Monte}
 {517}{}{Algernon}
@@ -419,16 +419,16 @@
 {519}{}{Garde de Bishop 1}
 {520}{}{John Bishop}
 {521}{}{Machine de casino}
-{522}{}{Garçon boucher}
+{522}{}{GarÃ§on boucher}
 {523}{}{Chris Wright}
 {524}{}{Cody}
-{525}{}{Frère Corse}
+{525}{}{FrÃ¨re Corse}
 {526}{}{Eldridge}
 {527}{}{Ethyl Wright}
-{528}{}{Père Tully}
-{529}{}{Débile mental}
-{530}{}{P'tit Jésus Mordino}
-{531}{}{Jimmy J l'édenté}
+{528}{}{PÃ¨re Tully}
+{529}{}{DÃ©bile mental}
+{530}{}{P'tit JÃ©sus Mordino}
+{531}{}{Jimmy J l'Ã©dentÃ©}
 {532}{}{Keith Wright}
 {533}{}{Lee Anne Bishop}
 {534}{}{Lloyd Beau Gosse}
@@ -438,7 +438,7 @@
 {538}{}{Nikki}
 {539}{}{Orville Wright}
 {540}{}{Chef croupier}
-{541}{}{Renesco l'homme fusée}
+{541}{}{Renesco l'homme fusÃ©e}
 {542}{}{Marjorie Reed}
 {543}{}{Salvatore le chef}
 {544}{}{Stuart Little}
@@ -451,23 +451,23 @@
 {551}{}{Jules}
 {552}{}{Mlle Kitty}
 {553}{}{Tenancier}
-{554}{}{Karl, le shérif adjoint}
+{554}{}{Karl, le shÃ©rif adjoint}
 {555}{}{Porte de cellule}
-{556}{}{Big Jésus Mordino}
+{556}{}{Big JÃ©sus Mordino}
 {557}{}{Hoss}
-{558}{}{Sérum mutagénique}
-{559}{}{Boîte}
-{560}{}{Boîte}
-{561}{}{Boîte}
-{562}{}{Boîte}
-{563}{}{Docteur Jubilé}
+{558}{}{SÃ©rum mutagÃ©nique}
+{559}{}{BoÃ®te}
+{560}{}{BoÃ®te}
+{561}{}{BoÃ®te}
+{562}{}{BoÃ®te}
+{563}{}{Docteur JubilÃ©}
 {564}{}{Porte}
 {565}{}{Porte}
-{566}{}{Bibliothèque}
-{567}{}{Shérif Dumont}
+{566}{}{BibliothÃ¨que}
+{567}{}{ShÃ©rif Dumont}
 {568}{}{Elise}
-{569}{}{Garçon de ferme}
-{570}{}{Félix}
+{569}{}{GarÃ§on de ferme}
+{570}{}{FÃ©lix}
 {571}{}{Westin}
 {572}{}{Rondo}
 {573}{}{Robochien}
@@ -475,7 +475,7 @@
 {575}{}{Hal}
 {576}{}{Gunther}
 {577}{}{Brahmine}
-{578}{}{Maître de la caravane}
+{578}{}{MaÃ®tre de la caravane}
 {579}{}{Conducteur de caravane}
 {580}{}{Garde de caravane}
 {581}{}{Pillard}
@@ -490,7 +490,7 @@
 {590}{}{Garde de caravane}
 {591}{}{Garde de patrouille}
 {592}{}{Capitaine de patrouille}
-{593}{}{Fermière}
+{593}{}{FermiÃ¨re}
 {594}{}{Brahmine}
 {595}{}{Brahmine}
 {596}{}{Voyageur}
@@ -499,19 +499,19 @@
 {599}{}{Garde de patrouille}
 {600}{}{Capitaine de patrouille}
 {601}{}{Conducteur de Brahmine}
-{602}{}{Voleur de bétail}
+{602}{}{Voleur de bÃ©tail}
 {603}{}{Squatteur}
 {604}{}{Abolitionniste}
 {605}{}{Contrebandier}
 {606}{}{Des Super Mutants ?}
-{607}{}{Pêcheur}
+{607}{}{PÃªcheur}
 {608}{}{Esclavagiste}
 {609}{}{Trappeur}
-{610}{}{Môme de Carlson}
+{610}{}{MÃ´me de Carlson}
 {611}{}{Carlson}
 {612}{}{}
 {613}{}{Officier Jack}
-{614}{}{L'Eclairée}
+{614}{}{L'EclairÃ©e}
 {615}{}{Porte}
 {616}{}{Ordinateur}
 {617}{}{Brahmine}
@@ -526,8 +526,8 @@
 {626}{}{Dar}
 {627}{}{Dave}
 {628}{}{Gordon}
-{629}{}{Pancarte « Fermé définitivement »}
-{630}{}{Machine de contrôle du réacteur}
+{629}{}{Pancarte Â« FermÃ© dÃ©finitivement Â»}
+{630}{}{Machine de contrÃ´le du rÃ©acteur}
 {631}{}{Jimmy}
 {632}{}{Joseph}
 {633}{}{Matt}
@@ -535,18 +535,18 @@
 {635}{}{Script de Cart}
 {636}{}{Script de carte A13}
 {637}{}{Sandy}
-{638}{}{Boîte}
+{638}{}{BoÃ®te}
 {639}{}{Thearn}
-{640}{}{Boîte}
-{641}{}{Boîte}
+{640}{}{BoÃ®te}
+{641}{}{BoÃ®te}
 {642}{}{Valdis}
 {643}{}{Terminal d'ordinateur}
-{644}{}{Conteneur en Métal}
+{644}{}{Conteneur en MÃ©tal}
 {645}{}{Coffre}
 {646}{}{Garde Griffemort}
 {647}{}{Goris}
-{648}{}{Boîte}
-{649}{}{Conteneur en Métal}
+{648}{}{BoÃ®te}
+{649}{}{Conteneur en MÃ©tal}
 {650}{}{Tricheur}
 {651}{}{Script de carte A15}
 {652}{}{Phil}
@@ -556,7 +556,7 @@
 {656}{}{John}
 {657}{}{Jones}
 {658}{}{Karla}
-{659}{}{Carte de l'entrée secrète de l'Abri 15}
+{659}{}{Carte de l'entrÃ©e secrÃ¨te de l'Abri 15}
 {660}{}{Elizabeth}
 {661}{}{Porte}
 {662}{}{ Griffemort}
@@ -577,15 +577,15 @@
 {677}{}{Porte d'ascenseur}
 {678}{}{Chien}
 {679}{}{Rat}
-{680}{}{Coin ensoleillé}
+{680}{}{Coin ensoleillÃ©}
 {681}{}{Bess}
-{682}{}{Boîte}
-{683}{}{Joueur de dés}
+{682}{}{BoÃ®te}
+{683}{}{Joueur de dÃ©s}
 {684}{}{Garde de l'Abri 15}
 {685}{}{Slag}
 {686}{}{Tapis}
 {687}{}{Enfant}
-{688}{}{Hélène}
+{688}{}{HÃ©lÃ¨ne}
 {689}{}{Garde}
 {690}{}{Docteur Holliday}
 {691}{}{Acolyte}
@@ -606,12 +606,12 @@
 {706}{}{Superviseur}
 {707}{}{Zaius}
 {708}{}{Jacob}
-{709}{}{Nécessaire à chimie}
+{709}{}{NÃ©cessaire Ã  chimie}
 {710}{}{Prop}
 {711}{}{Porte}
 {712}{}{Ordinateur}
 {713}{}{Chad}
-{714}{}{Plante à spores}
+{714}{}{Plante Ã  spores}
 {715}{}{}
 {716}{}{Radscorpion}
 {717}{}{}
@@ -626,7 +626,7 @@
 {726}{}{Bandit de grand chemin}
 {727}{}{Esclavagiste}
 {728}{}{Esclave}
-{729}{}{Fêtard}
+{729}{}{FÃªtard}
 {730}{}{La Mante}
 {731}{}{Brahmine}
 {732}{}{Chien sauvage}
@@ -634,12 +634,12 @@
 {734}{}{Ordinateur}
 {735}{}{Terminal d'ordinateur}
 {736}{}{Ordinateur}
-{737}{}{Générateur électrique}
+{737}{}{GÃ©nÃ©rateur Ã©lectrique}
 {738}{}{Champ de force}
 {739}{}{Paysan}
 {740}{}{Emetteur}
 {741}{}{Porte de l'Abri}
-{742}{}{Portes de sécurité}
+{742}{}{Portes de sÃ©curitÃ©}
 {743}{}{Rencontre de Bess}
 {744}{}{Bess}
 {745}{}{Brahmine}
@@ -654,24 +654,24 @@
 {754}{}{Tombe}
 {755}{}{Alambic}
 {756}{}{Ramirez}
-{757}{}{Grotte 1-Carte des rencontres aléatoires}
-{758}{}{Boîte}
+{757}{}{Grotte 1-Carte des rencontres alÃ©atoires}
+{758}{}{BoÃ®te}
 {759}{}{Porte}
-{760}{}{Grotte 2-Carte des rencontres aléatoires}
-{761}{}{Grotte 3-Carte des rencontres aléatoires}
-{762}{}{Grotte 4-Carte des rencontres aléatoires}
-{763}{}{Grotte 2-Carte des rencontres aléatoires}
+{760}{}{Grotte 2-Carte des rencontres alÃ©atoires}
+{761}{}{Grotte 3-Carte des rencontres alÃ©atoires}
+{762}{}{Grotte 4-Carte des rencontres alÃ©atoires}
+{763}{}{Grotte 2-Carte des rencontres alÃ©atoires}
 {764}{}{Porte}
 {765}{}{Script de Cart}
 {766}{}{Trappe}
-{767}{}{Coffre à fermeture de sécurité}
-{768}{}{Pièce}
+{767}{}{Coffre Ã  fermeture de sÃ©curitÃ©}
+{768}{}{PiÃ¨ce}
 {769}{}{Thomas Moore}
 {770}{}{Porte}
 {771}{}{Placard}
-{772}{}{Trou d'égouts}
+{772}{}{Trou d'Ã©gouts}
 {773}{}{Tombe}
-{774}{}{Garde de la réserve}
+{774}{}{Garde de la rÃ©serve}
 {775}{}{Script de Cart}
 {776}{}{Script de Cart}
 {777}{}{Brahmine folle}
@@ -682,7 +682,7 @@
 {782}{}{Lou}
 {783}{}{Arthur}
 {784}{}{Robin}
-{785}{}{Bédémir}
+{785}{}{BÃ©dÃ©mir}
 {786}{}{Sieur Launcelot}
 {787}{}{Galahad}
 {788}{}{Ben Wade}
@@ -701,17 +701,17 @@
 {801}{}{John}
 {802}{}{Joshua}
 {803}{}{Echelle}
-{804}{}{Grosse Tête}
-{805}{}{Héros Noir}
-{806}{}{Héroïne Rouge}
+{804}{}{Grosse TÃªte}
+{805}{}{HÃ©ros Noir}
+{806}{}{HÃ©roÃ¯ne Rouge}
 {807}{}{Seth}
 {808}{}{Tandi}
-{809}{}{Héros Blanc}
-{810}{}{Héros Blanc}
-{811}{}{Héroïne Blanche}
-{812}{}{Boîte}
-{813}{}{Boîte}
-{814}{}{Boîte}
+{809}{}{HÃ©ros Blanc}
+{810}{}{HÃ©ros Blanc}
+{811}{}{HÃ©roÃ¯ne Blanche}
+{812}{}{BoÃ®te}
+{813}{}{BoÃ®te}
+{814}{}{BoÃ®te}
 {815}{}{Script de Cart}
 {816}{}{Rat Vorpal}
 {817}{}{Chien}
@@ -727,14 +727,14 @@
 {827}{}{Voiture}
 {828}{}{Tombe}
 {829}{}{Personnage en aube}
-{830}{}{Acheteur de bétail}
+{830}{}{Acheteur de bÃ©tail}
 {831}{}{Script de Cart}
-{832}{}{Etrangère mystérieuse}
+{832}{}{EtrangÃ¨re mystÃ©rieuse}
 {833}{}{Brahmine folle}
 {834}{}{Membre des Yakuza}
 {835}{}{Sauvage}
 {836}{}{Chien}
-{837}{}{Boîte}
+{837}{}{BoÃ®te}
 {838}{}{Membre de la Patrouille}
 {839}{}{Voyageur}
 {840}{}{Fumace}
@@ -749,7 +749,7 @@
 {849}{}{Dumar}
 {850}{}{Porte}
 {851}{}{Klint}
-{852}{}{Récoltes}
+{852}{}{RÃ©coltes}
 {853}{}{Technicien labo Shi}
 {854}{}{Enfant}
 {855}{}{Goule}
@@ -769,24 +769,24 @@
 {869}{}{Cannibale}
 {870}{}{Chaman nomade}
 {871}{}{Maraudeur}
-{872}{}{Renégat}
+{872}{}{RenÃ©gat}
 {873}{}{Ermite}
 {874}{}{}
-{875}{}{Maître de la caravane}
-{876}{}{Maître de la caravane}
-{877}{}{Maître de la caravane}
-{878}{}{Maître de la caravane}
-{879}{}{Maître de la caravane}
-{880}{}{Maître de la caravane}
-{881}{}{Maître de la caravane}
-{882}{}{Maître de la caravane}
-{883}{}{Maître de la caravane}
-{884}{}{Fermière}
+{875}{}{MaÃ®tre de la caravane}
+{876}{}{MaÃ®tre de la caravane}
+{877}{}{MaÃ®tre de la caravane}
+{878}{}{MaÃ®tre de la caravane}
+{879}{}{MaÃ®tre de la caravane}
+{880}{}{MaÃ®tre de la caravane}
+{881}{}{MaÃ®tre de la caravane}
+{882}{}{MaÃ®tre de la caravane}
+{883}{}{MaÃ®tre de la caravane}
+{884}{}{FermiÃ¨re}
 {885}{}{Enfant du fermier}
-{886}{}{Propriétaire}
+{886}{}{PropriÃ©taire}
 {887}{}{Femme de colon}
 {888}{}{Enfant de colon}
-{889}{}{Maître de la caravane}
+{889}{}{MaÃ®tre de la caravane}
 {890}{}{}
 {891}{}{}
 {892}{}{}
@@ -794,25 +794,25 @@
 {894}{}{Patrouilleur de l'Enclave}
 {895}{}{Capitaine des mercenaires}
 {896}{}{Mercenaires pillards}
-{897}{}{« Ombre-Ambulante »}
+{897}{}{Â« Ombre-Ambulante Â»}
 {898}{}{Coffre-fort}
 {899}{}{}
 {900}{}{}
 {901}{}{}
-{902}{}{Boîte}
-{903}{}{Président Richardson}
+{902}{}{BoÃ®te}
+{903}{}{PrÃ©sident Richardson}
 {904}{}{Obusier}
 {905}{}{Porte}
-{906}{}{Bébé Griffemort}
+{906}{}{BÃ©bÃ© Griffemort}
 {907}{}{Dan la menace}
 {908}{}{Docteur Johnson}
-{909}{}{Shérif Marion}
+{909}{}{ShÃ©rif Marion}
 {910}{}{Maire Ascorti}
 {911}{}{Nording}
 {912}{}{Velani}
 {913}{}{Ferndown}
 {914}{}{Le Dragon}
-{915}{}{Garçon d'étable}
+{915}{}{GarÃ§on d'Ã©table}
 {916}{}{Marchand}
 {917}{}{Citadin}
 {918}{}{Slag}
@@ -842,16 +842,16 @@
 {942}{}{Client du bar}
 {943}{}{Citoyen de l'Abri}
 {944}{}{Domestique de l'Abri}
-{945}{}{Conduit d'aération}
+{945}{}{Conduit d'aÃ©ration}
 {946}{}{Charlie}
-{947}{}{Panneau de commandes du système de refroidissement}
+{947}{}{Panneau de commandes du systÃ¨me de refroidissement}
 {948}{}{Bouse}
 {949}{}{Grant}
 {950}{}{Emetteur}
 {951}{}{Emetteur}
 {952}{}{Terminal d'ordinateur}
 {953}{}{Terminal de l'Empereur v8.8}
-{954}{}{Vice-président Bird}
+{954}{}{Vice-prÃ©sident Bird}
 {955}{}{Martin}
 {956}{}{Ken Lee}
 {957}{}{Sergent Granit}
@@ -866,11 +866,11 @@
 {966}{}{Docteur Curling}
 {967}{}{Tableau d'affichage}
 {968}{}{Rataupe}
-{969}{}{Secrétaire du Président}
+{969}{}{SecrÃ©taire du PrÃ©sident}
 {970}{}{Tom Murray}
 {971}{}{Porte solide}
 {972}{}{Citadin}
-{973}{}{Salle du conseil de la Cité de l'Abri}
+{973}{}{Salle du conseil de la CitÃ© de l'Abri}
 {974}{}{Purificateur d'air}
 {975}{}{Rochers}
 {976}{}{Joueur}
@@ -888,19 +888,19 @@
 {988}{}{Porte anti-souffle}
 {989}{}{Stock de Darrow}
 {990}{}{Porte}
-{991}{}{Super Méga Mutant}
+{991}{}{Super MÃ©ga Mutant}
 {992}{}{Tu vois le Dr. Jing Tie Gahng.}
 {993}{}{Grundel}
 {994}{}{Gosse}
-{995}{}{Scanner de rétine}
+{995}{}{Scanner de rÃ©tine}
 {996}{}{Porte d'ascenseur}
-{997}{}{Réceptacle cybernétique}
+{997}{}{RÃ©ceptacle cybernÃ©tique}
 {998}{}{Mur}
 {999}{}{Script de Cart}
 {1000}{}{Stock de Farrell}
 {1001}{}{Stock de Harry}
-{1002}{}{Boîte}
-{1003}{}{Boîte}
+{1002}{}{BoÃ®te}
+{1003}{}{BoÃ®te}
 {1004}{}{Derek}
 {1005}{}{Ami de Dodu}
 {1006}{}{Joueur}
@@ -914,27 +914,27 @@
 {1014}{}{Esclavagiste}
 {1015}{}{Esclavagiste}
 {1016}{}{Fred}
-{1017}{}{Boîte}
-{1018}{}{Boîte}
-{1019}{}{Boîte}
+{1017}{}{BoÃ®te}
+{1018}{}{BoÃ®te}
+{1019}{}{BoÃ®te}
 {1020}{}{Coffre de voiture}
-{1021}{}{Portes de sécurité}
+{1021}{}{Portes de sÃ©curitÃ©}
 {1022}{}{Terminal d'ordinateur}
 {1023}{}{Terminal d'ordinateur}
 {1024}{}{Terminal d'ordinateur}
 {1025}{}{Lao Chou}
 {1026}{}{}
-{1027}{}{Conduit d'aération}
+{1027}{}{Conduit d'aÃ©ration}
 {1028}{}{Script de Cart}
 {1029}{}{Cadavre}
-{1030}{}{Câbles mis à nu}
-{1031}{}{Boîte}
+{1030}{}{CÃ¢bles mis Ã  nu}
+{1031}{}{BoÃ®te}
 {1032}{}{Esclave}
 {1033}{}{Esclave}
 {1034}{}{Esclavagiste}
 {1035}{}{Chip}
-{1036}{}{Réacteur}
-{1037}{}{Ordinateur du réacteur}
+{1036}{}{RÃ©acteur}
+{1037}{}{Ordinateur du rÃ©acteur}
 {1038}{}{Caissier}
 {1039}{}{Caisse}
 {1040}{}{Wanamingo}
@@ -945,8 +945,8 @@
 {1045}{}{Capitaine Ron Meyers}
 {1046}{}{Porte de l'enclos}
 {1047}{}{Mine du Grand Wanamingo}
-{1048}{}{Entrée de la Mine du Grand Wanamingo}
-{1049}{}{Gâchette Morton}
+{1048}{}{EntrÃ©e de la Mine du Grand Wanamingo}
+{1049}{}{GÃ¢chette Morton}
 {1050}{}{Dave H.}
 {1051}{}{Porte}
 {1052}{}{Porte}
@@ -954,7 +954,7 @@
 {1054}{}{Peinture}
 {1055}{}{Script de Cart}
 {1056}{}{Tenancier}
-{1057}{}{Boîte}
+{1057}{}{BoÃ®te}
 {1058}{}{Auto-Doc}
 {1059}{}{}
 {1060}{}{Galerie de mine}
@@ -964,13 +964,13 @@
 {1064}{}{Script de Cart}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Homme-fusée}
+{1067}{}{Homme-fusÃ©e}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
 {1071}{}{Joshua}
-{1072}{}{Valérie}
-{1073}{}{Système d'apprentissage}
+{1072}{}{ValÃ©rie}
+{1073}{}{SystÃ¨me d'apprentissage}
 {1074}{}{Caisse}
 {1075}{}{Mec en train de pisser}
 {1076}{}{Curtis}
@@ -990,9 +990,9 @@
 {1090}{}{Crapule}
 {1091}{}{Crapule}
 {1092}{}{Ryan}
-{1093}{}{Boîte}
+{1093}{}{BoÃ®te}
 {1094}{}{}
-{1095}{}{Trou d'égouts}
+{1095}{}{Trou d'Ã©gouts}
 {1096}{}{Script de Cart}
 {1097}{}{Echelle}
 {1098}{}{Sac de frappe}
@@ -1022,15 +1022,15 @@
 {1122}{}{Ordinateur}
 {1123}{}{Porte du bunker}
 {1124}{}{Portail}
-{1125}{}{Boîte}
-{1126}{}{Frère Morton}
+{1125}{}{BoÃ®te}
+{1126}{}{FrÃ¨re Morton}
 {1127}{}{Emetteur}
 {1128}{}{Emetteur}
 {1129}{}{Emetteur}
 {1130}{}{Script de Cart}
 {1131}{}{Chet}
 {1132}{}{Script de Cart}
-{1133}{}{Hélico}
+{1133}{}{HÃ©lico}
 {1134}{}{Garde Salvatore}
 {1135}{}{Garde Salvatore}
 {1136}{}{Soldats}
@@ -1054,8 +1054,8 @@
 {1154}{}{Quincy}
 {1155}{}{Intendant}
 {1156}{}{Garde}
-{1157}{}{Chien cybernétique}
-{1158}{}{Tu as tué le Docteur Schreber.}
+{1157}{}{Chien cybernÃ©tique}
+{1158}{}{Tu as tuÃ© le Docteur Schreber.}
 {1159}{}{Technicien}
 {1160}{}{Technicien}
 {1161}{}{Garde}
@@ -1075,15 +1075,15 @@
 {1175}{}{Script de Cart}
 {1176}{}{Script de Cart}
 {1177}{}{Script de Cart}
-{1178}{}{Robot de sécurité}
+{1178}{}{Robot de sÃ©curitÃ©}
 {1179}{}{Tronc des pauvres}
 {1180}{}{Cadavre}
-{1181}{}{Boîte}
-{1182}{}{Boîte}
-{1183}{}{Boîte}
+{1181}{}{BoÃ®te}
+{1182}{}{BoÃ®te}
+{1183}{}{BoÃ®te}
 {1184}{}{Garde de caravane}
 {1185}{}{Conducteur de caravane}
-{1186}{}{Présentateur}
+{1186}{}{PrÃ©sentateur}
 {1187}{}{Fille du ring}
 {1188}{}{Boxeur}
 {1189}{}{Porte}
@@ -1093,7 +1093,7 @@
 {1193}{}{Holodisque}
 {1194}{}{Mot}
 {1195}{}{Canigou}
-{1196}{}{Magazine Cat's Paw N°5}
+{1196}{}{Magazine Cat's Paw NÂ°5}
 {1197}{}{Carte des Pillards}
 {1198}{}{Chien paria}
 {1199}{}{Klaxon}
@@ -1116,42 +1116,42 @@
 {1216}{}{Bootleggers}
 {1217}{}{}
 {1218}{}{Dan}
-{1219}{}{Comédien nul}
+{1219}{}{ComÃ©dien nul}
 {1220}{}{Chanteuse nulle}
 {1221}{}{Script de Cart}
 {1222}{}{}
 {1223}{}{Tombe}
 {1224}{}{Willie Cercueil}
 {1225}{}{Ordinateur accessible sans passe}
-{1226}{}{Porte d'entrée accessible sans passe}
+{1226}{}{Porte d'entrÃ©e accessible sans passe}
 {1227}{}{Ordinateur}
 {1228}{}{Kohl}
 {1229}{}{Enfant}
 {1230}{}{Biscuit}
 {1231}{}{Tourelle}
 {1232}{}{Brian}
-{1233}{}{Générateur}
+{1233}{}{GÃ©nÃ©rateur}
 {1234}{}{Console}
-{1235}{}{Fourmi géante}
-{1236}{}{Fourmi géante}
+{1235}{}{Fourmi gÃ©ante}
+{1236}{}{Fourmi gÃ©ante}
 {1237}{}{Porte}
 {1238}{}{}
-{1239}{}{Boîte}
+{1239}{}{BoÃ®te}
 {1240}{}{Eric}
 {1241}{}{}
-{1242}{}{Boîte}
-{1243}{}{Radcorpion géant}
+{1242}{}{BoÃ®te}
+{1243}{}{Radcorpion gÃ©ant}
 {1244}{}{Jane}
 {1245}{}{}
 {1246}{}{Script de Cart}
 {1247}{}{Pip-Boy dermique}
 {1248}{}{Toutou}
 {1249}{}{Plateau}
-{1250}{}{Moitié}
+{1250}{}{MoitiÃ©}
 {1251}{}{Garde LoPan}
 {1252}{}{Script de Cart}
 {1253}{}{Porte}
-{1254}{}{Chien cybernétique}
+{1254}{}{Chien cybernÃ©tique}
 {1255}{}{Luke}
 {1256}{}{Joshua}
 {1257}{}{Portail}
@@ -1169,14 +1169,14 @@
 {1269}{}{Tricheur}
 {1270}{}{}
 {1271}{}{Paysan}
-{1272}{}{« La Lavande »}
+{1272}{}{Â« La Lavande Â»}
 {1273}{}{Radscorpion}
 {1274}{}{Professeur}
-{1275}{}{Boîte}
-{1276}{}{Boîte}
+{1275}{}{BoÃ®te}
+{1276}{}{BoÃ®te}
 {1277}{}{Seymour}
 {1278}{}{John Sullivan}
-{1279}{}{Bosselé}
+{1279}{}{BosselÃ©}
 {1280}{}{}
 {1281}{}{}
 {1282}{}{}
@@ -1193,15 +1193,15 @@
 {1293}{}{Vieux Goule}
 {1294}{}{Acolyte}
 {1295}{}{Elmo}
-{1296}{}{Siège de toilette}
+{1296}{}{SiÃ¨ge de toilette}
 {1297}{}{Croix}
 {1298}{}{Charrue}
 {1299}{}{Charrue}
 {1300}{}{L'Alligator}
-{1301}{}{Générateur}
+{1301}{}{GÃ©nÃ©rateur}
 {1302}{}{Porte}
 {1303}{}{Porte}
-{1304}{}{Pip-Boy médical}
+{1304}{}{Pip-Boy mÃ©dical}
 {1305}{}{Placard}
 {1306}{}{Placard}
 {1307}{}{Placard}
@@ -1226,14 +1226,14 @@
 {1326}{}{Tu ne me vois pas}
 {1327}{}{Homme en fer-blanc}
 {1328}{}{Script de Cart}
-{1329}{}{Concrétion rocheuse}
+{1329}{}{ConcrÃ©tion rocheuse}
 {1330}{}{}
 {1331}{}{Terminal}
 {1332}{}{Placard}
 {1333}{}{}
 {1334}{}{Script de Cart}
-{1335}{}{Robot de sécurité}
-{1336}{}{Robot de sécurité}
+{1335}{}{Robot de sÃ©curitÃ©}
+{1336}{}{Robot de sÃ©curitÃ©}
 {1337}{}{Placard}
 {1338}{}{Placard}
 {1339}{}{Placard}
@@ -1258,26 +1258,26 @@
 {1358}{}{Gosse du port}
 {1359}{}{Script de Cart}
 {1360}{}{Percy Crump}
-{1361}{}{Boîte}
-{1362}{}{Boîte}
+{1361}{}{BoÃ®te}
+{1362}{}{BoÃ®te}
 {1363}{}{Porte}
 {1364}{}{Le Grand Ananias}
 {1365}{}{Script de Cart}
-{1366}{}{Villageois mal lavé}
+{1366}{}{Villageois mal lavÃ©}
 {1367}{}{Camelot}
 {1368}{}{Carte}
 {1369}{}{Script de Cart}
 {1370}{}{Script de Cart}
 {1371}{}{Script de Cart}
 {1372}{}{Script de Cart}
-{1373}{}{Machine à Nuka-Cola}
+{1373}{}{Machine Ã  Nuka-Cola}
 {1374}{}{Quai}
 {1375}{}{Porte}
 {1376}{}{Mine}
 {1377}{}{Mine}
 {1378}{}{Ton ex}
 {1379}{}{Mel}
-{1380}{}{Conduit d'aération}
+{1380}{}{Conduit d'aÃ©ration}
 {1381}{}{Kevin}
 {1382}{}{Alarme}
 {1383}{}{Placard}
@@ -1314,20 +1314,20 @@
 {1414}{}{Soeur Elaine}
 {1415}{}{Tombe}
 {1416}{}{Tombe}
-{1417}{}{Frère Hank}
+{1417}{}{FrÃ¨re Hank}
 {1418}{}{Docteur de l'Abbaye}
-{1419}{}{Frère John}
-{1420}{}{Frère Max}
+{1419}{}{FrÃ¨re John}
+{1420}{}{FrÃ¨re Max}
 {1421}{}{Marchand}
 {1422}{}{Marchand}
 {1423}{}{Garde du Marchand}
 {1424}{}{Mme Peterson}
 {1425}{}{Citoyen de l'Abbaye}
 {1426}{}{Mme Peterson}
-{1427}{}{Pompe à eau}
-{1428}{}{Frère Samuel}
+{1427}{}{Pompe Ã  eau}
+{1428}{}{FrÃ¨re Samuel}
 {1429}{}{Citoyen de l'Abbaye}
-{1430}{}{Frère Thomas}
+{1430}{}{FrÃ¨re Thomas}
 {1431}{}{Tom}
 {1432}{}{Ordinateur de l'Abbaye}
 {1433}{}{Chef des Moines de l'Abbaye}
@@ -1335,9 +1335,9 @@
 {1435}{}{Moine de l'Abbaye}
 {1436}{}{Moine de l'Abbaye}
 {1437}{}{Moine de l'Abbaye}
-{1438}{}{Frère Paul}
+{1438}{}{FrÃ¨re Paul}
 {1439}{}{Tribal}
-{1440}{}{Frère Matthew}
+{1440}{}{FrÃ¨re Matthew}
 {1441}{}{Carte}
 {1442}{}{Rataupe}
 {1443}{}{Ann}
@@ -1345,7 +1345,7 @@
 {1445}{}{Marli}
 {1446}{}{Villageois}
 {1447}{}{Chaman}
-{1448}{}{Fantôme}
+{1448}{}{FantÃ´me}
 {1449}{}{Tribal}
 {1450}{}{Kurisu}
 {1451}{}{Puits}
@@ -1366,10 +1366,10 @@
 {1466}{}{Esclavagiste}
 {1467}{}{Esclave}
 {1468}{}{Porte Esclave}
-{1469}{}{Etagère}
+{1469}{}{EtagÃ¨re}
 {1470}{}{Porte}
 {1471}{}{Petit Johnny}
-{1472}{}{Père du Petit Johnny}
+{1472}{}{PÃ¨re du Petit Johnny}
 {1473}{}{Squatteur}
 {1474}{}{Dealer de drogue}
 {1475}{}{Habitant de la Fosse}
@@ -1383,7 +1383,7 @@
 {1483}{}{Hubologiste}
 {1484}{}{Garde Hubologiste}
 {1485}{}{Garde Hubologiste}
-{1486}{}{Porte de métal}
+{1486}{}{Porte de mÃ©tal}
 {1487}{}{Script de carte}
 {1488}{}{Script de Conteneur}
 {1489}{}{Brahmine}
@@ -1393,7 +1393,7 @@
 {1493}{}{Homme qui Aboie}
 {1494}{}{Script de carte Epax}
 {1495}{}{Carte EPA}
-{1496}{}{Carte de l'entrepôt de l'EPA}
+{1496}{}{Carte de l'entrepÃ´t de l'EPA}
 {1497}{}{Robot M. Handy}
 {1498}{}{Holographique 00000}
 {1499}{}{Le petit Grille Pain Courageux}
@@ -1407,31 +1407,31 @@
 {1507}{}{Cat Jules}
 {1508}{}{[Kitsune]}
 {1509}{}{Guerrier}
-{1510}{}{Aérosol insecticide}
+{1510}{}{AÃ©rosol insecticide}
 {1511}{}{Prisonnier du Docteur}
-{1512}{}{Fourmi géante}
+{1512}{}{Fourmi gÃ©ante}
 {1513}{}{Le Docteur}
 {1514}{}{Mouche du Fruit}
-{1515}{}{Créature}
+{1515}{}{CrÃ©ature}
 {1516}{}{Robot}
 {1517}{}{Robot}
-{1518}{}{Prospectus du Ministère de l'Environnement}
+{1518}{}{Prospectus du MinistÃ¨re de l'Environnement}
 {1519}{}{Ordinateur Vocal}
 {1520}{}{Ordinateur de Recherche}
 {1521}{}{Ordinateur de Chaise Electrique}
 {1522}{}{Porte Electronique}
-{1523}{}{Générateur d'Hologramme}
-{1524}{}{Portes de sécurité}
+{1523}{}{GÃ©nÃ©rateur d'Hologramme}
+{1524}{}{Portes de sÃ©curitÃ©}
 {1525}{}{Porte d'ascenseur}
 {1526}{}{Porte}
 {1527}{}{Produits Chimiques}
 {1528}{}{Sol Fertile}
 {1529}{}{Sol Fertile}
 {1530}{}{Ordinateur d'Hibernation}
-{1531}{}{Générateur de Lumière}
+{1531}{}{GÃ©nÃ©rateur de LumiÃ¨re}
 {1532}{}{Champ de force}
-{1533}{}{Aérosol désherbant}
-{1534}{}{Ordinateur de bobine magnétique}
+{1533}{}{AÃ©rosol dÃ©sherbant}
+{1534}{}{Ordinateur de bobine magnÃ©tique}
 {1535}{}{Champ de force}
 {1536}{}{Machine de Projection}
 {1537}{}{Porte}
@@ -1439,8 +1439,8 @@
 {1539}{}{Porte}
 {1540}{}{Ordinateur}
 {1541}{}{Champ de force}
-{1542}{}{Dynamite (Minuterie activée)}
-{1543}{}{Détonateur Dynamite}
+{1542}{}{Dynamite (Minuterie activÃ©e)}
+{1543}{}{DÃ©tonateur Dynamite}
 {1544}{}{Trucs sur un Bureau}
 {1545}{}{Placard}
 {1546}{}{Script Spatial}
@@ -1451,7 +1451,7 @@
 {1551}{}{Script Spatial}
 {1552}{}{Script Spatial}
 {1553}{}{Script Spatial}
-{1554}{}{Ventilateur d'air Conditionné}
+{1554}{}{Ventilateur d'air ConditionnÃ©}
 {1555}{}{Ventilateur}
 {1556}{}{Ventilateur}
 {1557}{}{Script Spatial}
@@ -1464,11 +1464,11 @@
 {1564}{}{Ordinateur d'hologramme}
 {1565}{}{Enfant}
 {1566}{}{Spatial}
-{1567}{}{Hélico}
+{1567}{}{HÃ©lico}
 {1568}{}{Ordinateur}
 {1569}{}{Spatial}
 {1570}{}{M. Handy}
-{1571}{}{Bombe Nucléaire}
+{1571}{}{Bombe NuclÃ©aire}
 {1572}{}{Puits}
 {1573}{}{Puits}
 {1574}{}{}
@@ -1489,9 +1489,9 @@
 {1589}{}{Porte}
 {1590}{}{}
 {1591}{}{Brute}
-{1592}{}{Piège avec un fil tendu}
-{1593}{}{Spatial Piège avec un fil tendu}
-{1594}{}{Prostituée}
+{1592}{}{PiÃ¨ge avec un fil tendu}
+{1593}{}{Spatial PiÃ¨ge avec un fil tendu}
+{1594}{}{ProstituÃ©e}
 {1595}{}{Substance collante}
 {1596}{}{Spatial}
 {1597}{}{Chambre d'Hibernation}
@@ -1510,7 +1510,7 @@
 {1610}{}{Ordinateur}
 {1611}{}{Ordinateur}
 {1612}{}{Auto-Doc}
-{1613}{}{Frère Jason}
+{1613}{}{FrÃ¨re Jason}
 {1614}{}{Todd}
 {1615}{}{Robert Baron}
 {1616}{}{Garde}
@@ -1543,16 +1543,16 @@
 {1643}{}{Baie de Torpille}
 {1644}{}{Ecoutille du sous-marin}
 {1645}{}{Garde}
-{1646}{}{Vertiptère}
+{1646}{}{VertiptÃ¨re}
 {1647}{}{Spatial}
-{1648}{}{Sérum}
+{1648}{}{SÃ©rum}
 {1649}{}{Vieux garde de caravane.}
 {1650}{}{Dr. Sheng}
-{1651}{}{Créature végétale}
+{1651}{}{CrÃ©ature vÃ©gÃ©tale}
 {1652}{}{Planque de Dr. Sheng}
 {1653}{}{Porte}
 {1654}{}{Porte}
 {1655}{}{Spatial}
-{1656}{}{Robot de réparation}
-{1657}{}{Robot de sécurité}
+{1656}{}{Robot de rÃ©paration}
+{1657}{}{Robot de sÃ©curitÃ©}
 {1658}{}{Porte}

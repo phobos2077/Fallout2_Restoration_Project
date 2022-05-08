@@ -1,89 +1,89 @@
 {100}{}{Widzisz gracza.}
-{101}{}{Wygl¹da na to, ¿e komuœ tu wyj¹tkowo dobrze idzie.}
-{102}{}{Wygl¹da na to, ¿e wygrywa, ale wszystkie jego pieni¹dze le¿¹ teraz na stole.}
-{103}{}{Wygl¹da na to, ¿e wygrywa, ale wszystkie jej pieni¹dze le¿¹ teraz na stole.}
+{101}{}{WyglÄ…da na to, Å¼e komuÅ› tu wyjÄ…tkowo dobrze idzie.}
+{102}{}{WyglÄ…da na to, Å¼e wygrywa, ale wszystkie jego pieniÄ…dze leÅ¼Ä… teraz na stole.}
+{103}{}{WyglÄ…da na to, Å¼e wygrywa, ale wszystkie jej pieniÄ…dze leÅ¼Ä… teraz na stole.}
 {104}{}{Ta osoba chyba ani nie wygrywa, ani nie traci.}
-{105}{}{Ta osoba jak dot¹d nic nie wygra³a.}
-{106}{}{W jej oczach dostrzegasz ³zy. Zdaje siê, ¿e straci³a wszystkie swoje pieni¹dze.}
-{107}{}{Wygl¹da na bardzo z³ego - prawdopodobnie straci³ du¿o pieniêdzy.}
-{200}{}{Nie rób mi krzywdy!}
+{105}{}{Ta osoba jak dotÄ…d nic nie wygraÅ‚a.}
+{106}{}{W jej oczach dostrzegasz Å‚zy. Zdaje siÄ™, Å¼e straciÅ‚a wszystkie swoje pieniÄ…dze.}
+{107}{}{WyglÄ…da na bardzo zÅ‚ego - prawdopodobnie straciÅ‚ duÅ¼o pieniÄ™dzy.}
+{200}{}{Nie rÃ³b mi krzywdy!}
 {201}{}{Nie strzelaj!}
-{202}{}{Nie mam ¿adnych pieniêdzy!}
-{203}{}{Co ci zrobi³a biedna Becky?}
-{204}{}{Co ona ci zrobi³a?}
+{202}{}{Nie mam Å¼adnych pieniÄ™dzy!}
+{203}{}{Co ci zrobiÅ‚a biedna Becky?}
+{204}{}{Co ona ci zrobiÅ‚a?}
 {205}{}{To nie moja wina!}
-{206}{}{Proszê, odejdŸ. Nikomu nic nie powiemy.}
-{300}{}{O tak! Koœci mnie dziœ kochaj¹!}
-{301}{}{Och, tak ma³o brakowa³o.}
-{302}{}{Nie przeszkadzaj mi, bo przerwiesz moj¹ œwietn¹ passê.}
+{206}{}{ProszÄ™, odejdÅº. Nikomu nic nie powiemy.}
+{300}{}{O tak! KoÅ›ci mnie dziÅ› kochajÄ…!}
+{301}{}{Och, tak maÅ‚o brakowaÅ‚o.}
+{302}{}{Nie przeszkadzaj mi, bo przerwiesz mojÄ… Å›wietnÄ… passÄ™.}
 {303}{}{Co za emocje!}
-{304}{}{Ach pieni¹¿ki kochane, kiedy was dostanê...!}
-{305}{}{Kocham tê grê!}
-{306}{}{Widzieliœcie to? Nareszcie!}
+{304}{}{Ach pieniÄ…Å¼ki kochane, kiedy was dostanÄ™...!}
+{305}{}{Kocham tÄ™ grÄ™!}
+{306}{}{WidzieliÅ›cie to? Nareszcie!}
 {307}{}{Ruletka - to jest dopiero gra!}
-{308}{}{Mnie idzie œwietnie, a co u ciebie?}
-{309}{}{Idzie mi lepiej ni¿ zwykle.}
-{310}{}{Nie uwa¿asz, ¿e to wspania³e miejsce?}
-{311}{}{Sto³y u Becky s¹ lepsze ni¿ w Nowym Reno.}
-{312}{}{Lubisz tê grê? To wspania³a zabawa.}
-{313}{}{Nie mam ¿adnych dobrych rzutów.}
-{314}{}{Potrzebujê dobrego rzutu.}
+{308}{}{Mnie idzie Å›wietnie, a co u ciebie?}
+{309}{}{Idzie mi lepiej niÅ¼ zwykle.}
+{310}{}{Nie uwaÅ¼asz, Å¼e to wspaniaÅ‚e miejsce?}
+{311}{}{StoÅ‚y u Becky sÄ… lepsze niÅ¼ w Nowym Reno.}
+{312}{}{Lubisz tÄ™ grÄ™? To wspaniaÅ‚a zabawa.}
+{313}{}{Nie mam Å¼adnych dobrych rzutÃ³w.}
+{314}{}{PotrzebujÄ™ dobrego rzutu.}
 {315}{}{Ostatnio nie przegrywam.}
-{316}{}{Nigdzie nie pójdê.}
-{317}{}{Trzeba by³o postawiæ na nieparzyste.}
-{318}{}{Musisz podaæ numery do gry.}
-{319}{}{Obstawiaj¹c tylko czarne lub czerwone, wcale na tym dobrze nie wychodzisz.}
-{320}{}{Koœci siê jakoœ dziwnie zachowuj¹.}
-{321}{}{Jestem w do³ku i nic nie wskazuje na to, ¿eby da³o siê z niego szybko wydostaæ.}
-{322}{}{Mam nadziejê, ¿e idzie ci lepiej ni¿ mnie.}
-{323}{}{Bywa³y lepsze dni.}
-{324}{}{Ja naprawdê wiem, jak siê gra.}
-{325}{}{Kulka nie staje dzisiaj na w³aœciwych polach.}
-{326}{}{Niektórzy trac¹ tu ca³e wyp³aty.}
-{327}{}{To ju¿ koniec!}
-{328}{}{Cholera. Mam doœæ tej gry.}
+{316}{}{Nigdzie nie pÃ³jdÄ™.}
+{317}{}{Trzeba byÅ‚o postawiÄ‡ na nieparzyste.}
+{318}{}{Musisz podaÄ‡ numery do gry.}
+{319}{}{ObstawiajÄ…c tylko czarne lub czerwone, wcale na tym dobrze nie wychodzisz.}
+{320}{}{KoÅ›ci siÄ™ jakoÅ› dziwnie zachowujÄ….}
+{321}{}{Jestem w doÅ‚ku i nic nie wskazuje na to, Å¼eby daÅ‚o siÄ™ z niego szybko wydostaÄ‡.}
+{322}{}{Mam nadziejÄ™, Å¼e idzie ci lepiej niÅ¼ mnie.}
+{323}{}{BywaÅ‚y lepsze dni.}
+{324}{}{Ja naprawdÄ™ wiem, jak siÄ™ gra.}
+{325}{}{Kulka nie staje dzisiaj na wÅ‚aÅ›ciwych polach.}
+{326}{}{NiektÃ³rzy tracÄ… tu caÅ‚e wypÅ‚aty.}
+{327}{}{To juÅ¼ koniec!}
+{328}{}{Cholera. Mam doÅ›Ä‡ tej gry.}
 {329}{}{Dlaczego ja zawsze mam pecha?}
-{330}{}{Nie mogê wygraæ.}
-{331}{}{Nienawidzê tej gry.}
-{400}{}{Cholera, Becky prowadzi³a jedyne miejsce w okolicy, gdzie mo¿na by³o uprawiaæ hazard!}
-{401}{}{Nie zbli¿aj siê.}
+{330}{}{Nie mogÄ™ wygraÄ‡.}
+{331}{}{NienawidzÄ™ tej gry.}
+{400}{}{Cholera, Becky prowadziÅ‚a jedyne miejsce w okolicy, gdzie moÅ¼na byÅ‚o uprawiaÄ‡ hazard!}
+{401}{}{Nie zbliÅ¼aj siÄ™.}
 {402}{}{Nie strzelaj!}
-{403}{}{Mo¿e zostaw w spokoju choæ nas.}
-{500}{}{Nie zatrzymuj siê.}
+{403}{}{MoÅ¼e zostaw w spokoju choÄ‡ nas.}
+{500}{}{Nie zatrzymuj siÄ™.}
 {501}{}{No dalej, dalej...}
-{502}{}{NO DAWAJ, MA BYÆ 7!}
+{502}{}{NO DAWAJ, MA BYÄ† 7!}
 {503}{}{Tak!}
-{504}{}{Dalej, naprzód!}
-{505}{}{Becky! Oskubiê ciê dzisiaj wszystkich twoich pieniêdzy!}
+{504}{}{Dalej, naprzÃ³d!}
+{505}{}{Becky! OskubiÄ™ ciÄ™ dzisiaj wszystkich twoich pieniÄ™dzy!}
 {506}{}{Hurra! Wygrana!}
-{507}{}{Dajcie jak¹œ wiêksz¹ stawkê!}
+{507}{}{Dajcie jakÄ…Å› wiÄ™kszÄ… stawkÄ™!}
 {508}{}{Tak!}
-{509}{}{W porz¹dku!}
-{510}{}{Jeszcze raz, zobaczymy co siê stanie.}
+{509}{}{W porzÄ…dku!}
+{510}{}{Jeszcze raz, zobaczymy co siÄ™ stanie.}
 {511}{}{No dalej.}
-{512}{}{To jest to czego szuka³em.}
+{512}{}{To jest to czego szukaÅ‚em.}
 {513}{}{Prawie.}
-{514}{}{NieŸle!}
-{515}{}{Jak to siê sta³o?}
+{514}{}{NieÅºle!}
+{515}{}{Jak to siÄ™ staÅ‚o?}
 {516}{}{Ups.}
-{517}{}{Bez skuchy, bez skuchy. Zatrzymaj siê!}
-{518}{}{Nied³ugo przegram w tej grze w³asne imiê.}
-{519}{}{Potrzebujê tylko jednej du¿ej wygranej.}
+{517}{}{Bez skuchy, bez skuchy. Zatrzymaj siÄ™!}
+{518}{}{NiedÅ‚ugo przegram w tej grze wÅ‚asne imiÄ™.}
+{519}{}{PotrzebujÄ™ tylko jednej duÅ¼ej wygranej.}
 {520}{}{Cyfra!}
 {521}{}{Znowu?}
-{522}{}{To nie wygl¹da dobrze.}
+{522}{}{To nie wyglÄ…da dobrze.}
 {523}{}{Pieprzona ruletka!}
-{524}{}{Becky! Twoje sto³y mnie zabij¹!}
-{525}{}{Podmieniliœcie kostki do gry, czy co?}
+{524}{}{Becky! Twoje stoÅ‚y mnie zabijÄ…!}
+{525}{}{PodmieniliÅ›cie kostki do gry, czy co?}
 {526}{}{No nie, znowu!}
 {527}{}{Dlaczego mnie?}
-{528}{}{Psiakrew! Tak ma³o brakowa³o!}
-{529}{}{O Jezu, kochany Jezu, NIE MAM PO CO ¯YÆ!}
-{530}{}{Nienawidzê tej gry!}
-{531}{}{Cholera! To by³ mój numer w poprzedniej grze!}
+{528}{}{Psiakrew! Tak maÅ‚o brakowaÅ‚o!}
+{529}{}{O Jezu, kochany Jezu, NIE MAM PO CO Å»YÄ†!}
+{530}{}{NienawidzÄ™ tej gry!}
+{531}{}{Cholera! To byÅ‚ mÃ³j numer w poprzedniej grze!}
 {532}{}{Znowu czarne!?!?}
-{600}{}{Uciekaæ!}
+{600}{}{UciekaÄ‡!}
 {601}{}{Dlaczego to robisz?}
-{602}{}{Uciekaæ!}
-{603}{}{Stój, nie mam broni.}
-{604}{}{Nie zrobi³bym Ci tego.}
+{602}{}{UciekaÄ‡!}
+{603}{}{StÃ³j, nie mam broni.}
+{604}{}{Nie zrobiÅ‚bym Ci tego.}

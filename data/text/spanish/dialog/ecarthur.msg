@@ -1,47 +1,47 @@
 {100}{}{Un hombre con servoarmadura.}
-{101}{}{Arthur, hijo de Uther Pendragón.}
+{101}{}{Arthur, hijo de Uther PendragÃ³n.}
 {102}{}{Lleva la bragueta bajada.}
-{103}{}{Saludos, viajeros. Mi nombre es Arturo, hijo de Uther Pendragón, de la Hermandad del Acero. Estamos buscando la Santa Granada de Antioquía. ¿Viéronla vuesas mercedes?}
-{104}{}{¿La Santa qué?}
+{103}{}{Saludos, viajeros. Mi nombre es Arturo, hijo de Uther PendragÃ³n, de la Hermandad del Acero. Estamos buscando la Santa Granada de AntioquÃ­a. Â¿ViÃ©ronla vuesas mercedes?}
+{104}{}{Â¿La Santa quÃ©?}
 {105}{}{Respuesta del jugador}
 {106}{}{Unga.}
-{107}{}{No hay tiempo para charlas. Estamos en una misión.}
-{108}{}{Buscamos la Santa Granada de Antioquía.}
-{109}{}{¡Por la Hermandad del Acero!}
-{110}{}{Hmm... ¿una golondrina africana o europea?}
-{111}{}{¡Oíd vos! Eso no es vuestro, ¿no?}
+{107}{}{No hay tiempo para charlas. Estamos en una misiÃ³n.}
+{108}{}{Buscamos la Santa Granada de AntioquÃ­a.}
+{109}{}{Â¡Por la Hermandad del Acero!}
+{110}{}{Hmm... Â¿una golondrina africana o europea?}
+{111}{}{Â¡OÃ­d vos! Eso no es vuestro, Â¿no?}
 {112}{}{Os aviso. Mantened las manos alejadas.}
 {113}{}{Basta. Ya es suficiente.}
-{114}{}{¿La Santa Granada de Antioquía? Tan sólo es el arma antipersonal de mano más grande de su clase.}
-{115}{}{¿Por qué buscas un arma tan terrible?}
-{116}{}{Somos la Hermandad del Acero. Buscamos encontrar la más devastadora de las armas de nuestros ancestros, y ponerla a buen recaudo de aquellos que quieran abusar del poder de la Santa Granada de Antioquía.}
-{117}{}{¿Por qué?}
-{118}{}{Bueno... porque la Hermandad del Acero se dedica a proteger a los débiles e indefensos, y esa cosa podría herir a alguien.}
-{119}{}{¿Por qué?}
-{120}{}{Umm... porque es el único acto que la moral nos permite hacer.}
-{121}{}{¿Por qué?}
-{122}{}{Porque... um... Mirad, estamos muy ocupados. ¿Vais a ayudarnos o no? ¿Habéis visto la Santa Granada de Antioquía?}
-{123}{}{Sí.}
+{114}{}{Â¿La Santa Granada de AntioquÃ­a? Tan sÃ³lo es el arma antipersonal de mano mÃ¡s grande de su clase.}
+{115}{}{Â¿Por quÃ© buscas un arma tan terrible?}
+{116}{}{Somos la Hermandad del Acero. Buscamos encontrar la mÃ¡s devastadora de las armas de nuestros ancestros, y ponerla a buen recaudo de aquellos que quieran abusar del poder de la Santa Granada de AntioquÃ­a.}
+{117}{}{Â¿Por quÃ©?}
+{118}{}{Bueno... porque la Hermandad del Acero se dedica a proteger a los dÃ©biles e indefensos, y esa cosa podrÃ­a herir a alguien.}
+{119}{}{Â¿Por quÃ©?}
+{120}{}{Umm... porque es el Ãºnico acto que la moral nos permite hacer.}
+{121}{}{Â¿Por quÃ©?}
+{122}{}{Porque... um... Mirad, estamos muy ocupados. Â¿Vais a ayudarnos o no? Â¿HabÃ©is visto la Santa Granada de AntioquÃ­a?}
+{123}{}{SÃ­.}
 {124}{}{No.}
-{125}{}{Bien, ¿por qué no lo habéis dicho? Si pudiérais decirnos dónde, partiríamos y vos podríais volver a lo que quiera que estuviérais haciendo.}
-{126}{}{[Señalas una dirección al azar]}
-{127}{}{De acuerdo entonces. Gracias por vuestra ayuda. Aquí tenéis algo por las molestias.}
-{128}{}{¡Espera! Yo también estoy en una misión. Busco el sagrado GECK. ¿Lo has visto?}
-{129}{}{Bien, entonces no tiene sentido continuar esta conversación. Nos marchamos.}
+{125}{}{Bien, Â¿por quÃ© no lo habÃ©is dicho? Si pudiÃ©rais decirnos dÃ³nde, partirÃ­amos y vos podrÃ­ais volver a lo que quiera que estuviÃ©rais haciendo.}
+{126}{}{[SeÃ±alas una direcciÃ³n al azar]}
+{127}{}{De acuerdo entonces. Gracias por vuestra ayuda. AquÃ­ tenÃ©is algo por las molestias.}
+{128}{}{Â¡Espera! Yo tambiÃ©n estoy en una misiÃ³n. Busco el sagrado GECK. Â¿Lo has visto?}
+{129}{}{Bien, entonces no tiene sentido continuar esta conversaciÃ³n. Nos marchamos.}
 {130}{}{[FIN]}
-{131}{}{¡Maldito plebeyo!}
+{131}{}{Â¡Maldito plebeyo!}
 {132}{}{[FIN]}
-{133}{}{¿GECK habéis dicho? Porque si, tenemos un par de ellos. No necesitamos otro. Gracias de todos modos.}
-{134}{}{Dado que tenéis un par, podríais darme uno.}
-{135}{}{No. No. No puedo hacer eso. No sería correcto que terminárais vuestra misión de esa forma. Id a conseguir el vuestro. [Señala en una dirección de la misma forma que lo hiciste tú cuando te preguntó donde estaba la Santa Granada de Antioquía]}
+{133}{}{Â¿GECK habÃ©is dicho? Porque si, tenemos un par de ellos. No necesitamos otro. Gracias de todos modos.}
+{134}{}{Dado que tenÃ©is un par, podrÃ­ais darme uno.}
+{135}{}{No. No. No puedo hacer eso. No serÃ­a correcto que terminÃ¡rais vuestra misiÃ³n de esa forma. Id a conseguir el vuestro. [SeÃ±ala en una direcciÃ³n de la misma forma que lo hiciste tÃº cuando te preguntÃ³ donde estaba la Santa Granada de AntioquÃ­a]}
 {136}{}{[FIN]}
-{200}{}{¿Habláis en la lengua del rey?}
+{200}{}{Â¿HablÃ¡is en la lengua del rey?}
 {201}{}{Holaaaa.}
-{202}{}{Eh, estoy aquí.}
-{203}{}{Si pudiérais prestarme un momento de vuestro tiempo.}
+{202}{}{Eh, estoy aquÃ­.}
+{203}{}{Si pudiÃ©rais prestarme un momento de vuestro tiempo.}
 {204}{}{Ejem...}
-{205}{}{Vamos. No me ignoréis.}
-{206}{}{¡Por favoooor! Necesito preguntaros algo importante.}
-{207}{}{Bien, debemos continuar nuestra búsqueda de la Santa Granada de Antioquía. Vamos, Patsy.}
-{300}{}{Nuestra búsqueda se ha cumplido!}
+{205}{}{Vamos. No me ignorÃ©is.}
+{206}{}{Â¡Por favoooor! Necesito preguntaros algo importante.}
+{207}{}{Bien, debemos continuar nuestra bÃºsqueda de la Santa Granada de AntioquÃ­a. Vamos, Patsy.}
+{300}{}{Nuestra bÃºsqueda se ha cumplido!}
 {301}{}{Arthur, a vuestro servicio.}

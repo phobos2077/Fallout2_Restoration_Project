@@ -1,167 +1,167 @@
 {100}{}{Tu vois un terminal.}
 {101}{}{Tu vois un terminal. Il a l'air de fonctionner.}
-{102}{}{Tu vois un Dataplex 2000 IntelliTerminal, avec 64 ko de mémoire, le dernier-né de la technologie informatique. Dommage qu'il ne fonctionne pas.}
-{103}{}{Tu vois un Dataplex 2000 IntelliTerminal, avec 64 ko de mémoire, le dernier-né de la technologie informatique.}
-{104}{}{Bienvenue sur PoséidoNet. Faites une sélection dans le menu :}
+{102}{}{Tu vois un Dataplex 2000 IntelliTerminal, avec 64 ko de mÃ©moire, le dernier-nÃ© de la technologie informatique. Dommage qu'il ne fonctionne pas.}
+{103}{}{Tu vois un Dataplex 2000 IntelliTerminal, avec 64 ko de mÃ©moire, le dernier-nÃ© de la technologie informatique.}
+{104}{}{Bienvenue sur PosÃ©idoNet. Faites une sÃ©lection dans le menu :}
 {105}{}{[Connexion]}
 {106}{}{[Aide]}
 {107}{}{[Fermer la session]}
 {108}{}{Ce terminal passe un film indien, mais il est vraiment ennuyeux.}
-{109}{}{Ce terminal passe une émission de tir sur cible. Tout ce qu'on voit c'est le mille de la cible.}
-{110}{}{Ce terminal expose une sorte d'art moderne, un boulot à base de plein de différentes bandes de couleurs.}
-{111}{}{Tu vois un terminal. Il montre de petites bombes bougeant en diagonale sur l'écran.}
-{112}{}{Ce terminal a un message affiché sur son écran : « Vous pouvez maintenant éteindre votre ordinateur en toute sécurité ». Tu te demandes ce que ça veut dire.}
-{113}{}{Tu vois une image, des pointes rouges, vertes et bleues de lumière combinées pour faire une image d'un truc...}
-{114}{}{Il y a un visage hideux qui te regarde dans les yeux. Oh, attends, ce terminal est éteint.}
-{115}{}{Cette fenêtre scrute dans une dimension sombre au-delà de l'espace et du temps.}
-{116}{}{Ce terminal affiche un message ; "Chargement Lucarnes '98." Ce terminal est couvert par une épaisse couche de poussière.}
-{117}{}{Ce terminal semble être de la marque Apricot. Un truc appelé Fallout 2 tourne dessus. Wouh, on dirait qu'il est en multijoueurs et en 3D.}
+{109}{}{Ce terminal passe une Ã©mission de tir sur cible. Tout ce qu'on voit c'est le mille de la cible.}
+{110}{}{Ce terminal expose une sorte d'art moderne, un boulot Ã  base de plein de diffÃ©rentes bandes de couleurs.}
+{111}{}{Tu vois un terminal. Il montre de petites bombes bougeant en diagonale sur l'Ã©cran.}
+{112}{}{Ce terminal a un message affichÃ© sur son Ã©cran : Â« Vous pouvez maintenant Ã©teindre votre ordinateur en toute sÃ©curitÃ© Â». Tu te demandes ce que Ã§a veut dire.}
+{113}{}{Tu vois une image, des pointes rouges, vertes et bleues de lumiÃ¨re combinÃ©es pour faire une image d'un truc...}
+{114}{}{Il y a un visage hideux qui te regarde dans les yeux. Oh, attends, ce terminal est Ã©teint.}
+{115}{}{Cette fenÃªtre scrute dans une dimension sombre au-delÃ  de l'espace et du temps.}
+{116}{}{Ce terminal affiche un message ; "Chargement Lucarnes '98." Ce terminal est couvert par une Ã©paisse couche de poussiÃ¨re.}
+{117}{}{Ce terminal semble Ãªtre de la marque Apricot. Un truc appelÃ© Fallout 2 tourne dessus. Wouh, on dirait qu'il est en multijoueurs et en 3D.}
 {118}{}{Entrez Identification Utilisateur :}
-{119}{}{[J'vais essayer ça.] Liste utilisateurs.}
-{120}{}{[Est-ce que ça va marcher ?] Smith, J.}
+{119}{}{[J'vais essayer Ã§a.] Liste utilisateurs.}
+{120}{}{[Est-ce que Ã§a va marcher ?] Smith, J.}
 {121}{}{[Retour]}
-{123}{}{Je pense que je devrais faire ça ailleurs.}
+{123}{}{Je pense que je devrais faire Ã§a ailleurs.}
 {124}{}{Liste [Le terminal affiche une liste de 500 noms.]}
 {125}{}{Liste [L'ordinateur affiche une liste de noms.]}
-{126}{}{Sélectionnez Identification Utilisateur ou déconnectez-vous :}
-{127}{}{[Celui-ci possède les autorisations d'accès.] Smith, J.}
-{128}{}{[Celui-ci a l'air spécial.] Passe Partout Présidentiel-Contournement De Sécurité}
-{129}{}{[Celui-ci accède à des données plus intéressantes que d'habitude.] Murray, T.}
-{130}{}{[Celui-ci a un accès de bonne qualité.] Curling, Dr. C.}
+{126}{}{SÃ©lectionnez Identification Utilisateur ou dÃ©connectez-vous :}
+{127}{}{[Celui-ci possÃ¨de les autorisations d'accÃ¨s.] Smith, J.}
+{128}{}{[Celui-ci a l'air spÃ©cial.] Passe Partout PrÃ©sidentiel-Contournement De SÃ©curitÃ©}
+{129}{}{[Celui-ci accÃ¨de Ã  des donnÃ©es plus intÃ©ressantes que d'habitude.] Murray, T.}
+{130}{}{[Celui-ci a un accÃ¨s de bonne qualitÃ©.] Curling, Dr. C.}
 {131}{}{[On dirait qu'il a vraiment beaucoup de droits.] Bird, D.}
-{132}{}{[J'essaierai ça plus tard.] [Déconnexion]}
-{133}{}{Sélection :}
-{134}{}{                A. E. C. : Contrôle Centrale Nucléaire,}
-{135}{}{                Statut Sécurité ?}
-{136}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
-{137}{}{Statut Sécurité}
+{132}{}{[J'essaierai Ã§a plus tard.] [DÃ©connexion]}
+{133}{}{SÃ©lection :}
+{134}{}{                A. E. C. : ContrÃ´le Centrale NuclÃ©aire,}
+{135}{}{                Statut SÃ©curitÃ© ?}
+{136}{}{TÃ©lÃ©chargement C. C. N. : ContrÃ´le Centrale NuclÃ©aire}
+{137}{}{Statut SÃ©curitÃ©}
 {138}{}{Retour Identification Utilisateur :}
-{139}{}{Sélection :}
-{140}{}{                Niveau Sécurité : Statut Courant,}
+{139}{}{SÃ©lection :}
+{140}{}{                Niveau SÃ©curitÃ© : Statut Courant,}
 {141}{}{                Corporation Chimique : Rapport d'Avancement de Projet,}
-{142}{}{                A. E. C. : Contrôle Centrale Nucléaire,}
-{143}{}{                Statut Sécurité ?}
-{144}{}{Sécurité/Niveau : Statut Courant}
-{145}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
-{146}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
-{147}{}{Statut Sécurité}
+{142}{}{                A. E. C. : ContrÃ´le Centrale NuclÃ©aire,}
+{143}{}{                Statut SÃ©curitÃ© ?}
+{144}{}{SÃ©curitÃ©/Niveau : Statut Courant}
+{145}{}{TÃ©lÃ©chargement Corporation Chimique : Rapport d'Avancement de Projet}
+{146}{}{TÃ©lÃ©chargement C. C. N. : ContrÃ´le Centrale NuclÃ©aire}
+{147}{}{Statut SÃ©curitÃ©}
 {148}{}{Retour Identification Utilisateur :}
-{149}{}{Sélection :}
+{149}{}{SÃ©lection :}
 {150}{}{                Etat de la Nation: Statut Courant,}
 {151}{}{                (LISTE MOTS), }
-{152}{}{                Niveau Sécurité : Statut Courant,}
+{152}{}{                Niveau SÃ©curitÃ© : Statut Courant,}
 {153}{}{                Corporation Chimique : Rapport d'Avancement de Projet,}
-{154}{}{                A. E. C. : Contrôle Centrale Nucléaire,}
-{155}{}{                Statut Sécurité ?}
+{154}{}{                A. E. C. : ContrÃ´le Centrale NuclÃ©aire,}
+{155}{}{                Statut SÃ©curitÃ© ?}
 {156}{}{Etat de la Nation : Statut Courant}
-{157}{}{Téléchargement Liste Mots}
-{158}{}{Sécurité/Niveau : Statut Courant}
-{159}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
-{160}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
-{161}{}{Statut Sécurité}
+{157}{}{TÃ©lÃ©chargement Liste Mots}
+{158}{}{SÃ©curitÃ©/Niveau : Statut Courant}
+{159}{}{TÃ©lÃ©chargement Corporation Chimique : Rapport d'Avancement de Projet}
+{160}{}{TÃ©lÃ©chargement C. C. N. : ContrÃ´le Centrale NuclÃ©aire}
+{161}{}{Statut SÃ©curitÃ©}
 {162}{}{Retour Identification Utilisateur :}
-{163}{}{Sélection : Statut Sécurité ?}
-{164}{}{Statut Sécurité}
-{165}{}{[Fin Accès]}
-{166}{}{Téléchargement Achevé.}
+{163}{}{SÃ©lection : Statut SÃ©curitÃ© ?}
+{164}{}{Statut SÃ©curitÃ©}
+{165}{}{[Fin AccÃ¨s]}
+{166}{}{TÃ©lÃ©chargement AchevÃ©.}
 {167}{}{Etat de la Nation : Statut Courant}
-{168}{}{Téléchargement Liste Mots}
-{169}{}{Sécurité/Niveau : Statut Courant}
-{170}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
-{171}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
+{168}{}{TÃ©lÃ©chargement Liste Mots}
+{169}{}{SÃ©curitÃ©/Niveau : Statut Courant}
+{170}{}{TÃ©lÃ©chargement Corporation Chimique : Rapport d'Avancement de Projet}
+{171}{}{TÃ©lÃ©chargement C. C. N. : ContrÃ´le Centrale NuclÃ©aire}
 {172}{}{Retour Identification Utilisateur :}
-{173}{}{Téléchargement Achevé.}
-{174}{}{Téléchargement Liste Mots}
-{175}{}{Sécurité/Niveau : Statut Courant}
-{176}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
-{177}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
-{178}{}{Statut Sécurité}
+{173}{}{TÃ©lÃ©chargement AchevÃ©.}
+{174}{}{TÃ©lÃ©chargement Liste Mots}
+{175}{}{SÃ©curitÃ©/Niveau : Statut Courant}
+{176}{}{TÃ©lÃ©chargement Corporation Chimique : Rapport d'Avancement de Projet}
+{177}{}{TÃ©lÃ©chargement C. C. N. : ContrÃ´le Centrale NuclÃ©aire}
+{178}{}{Statut SÃ©curitÃ©}
 {179}{}{Retour Identification Utilisateur :}
-{180}{}{Téléchargement Achevé.}
+{180}{}{TÃ©lÃ©chargement AchevÃ©.}
 {181}{}{Etat de la Nation : Statut Courant}
-{182}{}{Sécurité/Niveau : Statut Courant}
-{183}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
-{184}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
-{185}{}{Statut Sécurité}
+{182}{}{SÃ©curitÃ©/Niveau : Statut Courant}
+{183}{}{TÃ©lÃ©chargement Corporation Chimique : Rapport d'Avancement de Projet}
+{184}{}{TÃ©lÃ©chargement C. C. N. : ContrÃ´le Centrale NuclÃ©aire}
+{185}{}{Statut SÃ©curitÃ©}
 {186}{}{Retour Identification Utilisateur :}
-{187}{}{Niveau Baraquements Gardes : Tourelles de sécurité actuellement en statut Alerte Armée.}
-{188}{}{Niveau Baraquements Gardes : Tourelles de sécurité actuellement en statut Normal.}
-{189}{}{Niveau Baraquements Gardes : Tourelles de sécurité actuellement en statut Désactivation Maintenance.}
-{190}{}{Niveau Quartiers du Sujet Test : Tourelles de sécurité actuellement en statut Alerte Armée.}
-{191}{}{Niveau Quartiers du Sujet Test : Tourelles de sécurité actuellement en statut Normal.}
-{192}{}{Niveau Quartiers du Sujet Test : Tourelles de sécurité actuellement en statut Désactivation Maintenance.}
-{193}{}{Zone de Projet de Recherche et Développement : Tourelles de sécurité actuellement en statut Alerte Armée.}
-{194}{}{Zone de Projet de Recherche et Développement : Tourelles de sécurité actuellement en statut Normal.}
-{195}{}{Zone de Projet de Recherche et Développement : Tourelles de sécurité actuellement en statut Désactivation Maintenance.}
-{196}{}{Zone des Bureaux de Cadres : Tourelles de sécurité actuellement en statut Alerte Armée.}
-{197}{}{Zone des Bureaux de Cadres : Tourelles de sécurité actuellement en statut Normal.}
-{198}{}{Zone des Bureaux de Cadres : Tourelles de sécurité actuellement en statut Désactivation Maintenance.}
-{199}{}{Niveau d'Information et de la Centrale : Tourelles de sécurité actuellement en statut Alerte Armée.}
-{200}{}{Niveau d'Information et de la Centrale : Tourelles de sécurité actuellement en statut Normal.}
-{201}{}{Niveau d'Information et de la Centrale : Tourelles de sécurité actuellement en statut Désactivation Maintenance.}
-{202}{}{Ajustez Niveau Sécurité}
+{187}{}{Niveau Baraquements Gardes : Tourelles de sÃ©curitÃ© actuellement en statut Alerte ArmÃ©e.}
+{188}{}{Niveau Baraquements Gardes : Tourelles de sÃ©curitÃ© actuellement en statut Normal.}
+{189}{}{Niveau Baraquements Gardes : Tourelles de sÃ©curitÃ© actuellement en statut DÃ©sactivation Maintenance.}
+{190}{}{Niveau Quartiers du Sujet Test : Tourelles de sÃ©curitÃ© actuellement en statut Alerte ArmÃ©e.}
+{191}{}{Niveau Quartiers du Sujet Test : Tourelles de sÃ©curitÃ© actuellement en statut Normal.}
+{192}{}{Niveau Quartiers du Sujet Test : Tourelles de sÃ©curitÃ© actuellement en statut DÃ©sactivation Maintenance.}
+{193}{}{Zone de Projet de Recherche et DÃ©veloppement : Tourelles de sÃ©curitÃ© actuellement en statut Alerte ArmÃ©e.}
+{194}{}{Zone de Projet de Recherche et DÃ©veloppement : Tourelles de sÃ©curitÃ© actuellement en statut Normal.}
+{195}{}{Zone de Projet de Recherche et DÃ©veloppement : Tourelles de sÃ©curitÃ© actuellement en statut DÃ©sactivation Maintenance.}
+{196}{}{Zone des Bureaux de Cadres : Tourelles de sÃ©curitÃ© actuellement en statut Alerte ArmÃ©e.}
+{197}{}{Zone des Bureaux de Cadres : Tourelles de sÃ©curitÃ© actuellement en statut Normal.}
+{198}{}{Zone des Bureaux de Cadres : Tourelles de sÃ©curitÃ© actuellement en statut DÃ©sactivation Maintenance.}
+{199}{}{Niveau d'Information et de la Centrale : Tourelles de sÃ©curitÃ© actuellement en statut Alerte ArmÃ©e.}
+{200}{}{Niveau d'Information et de la Centrale : Tourelles de sÃ©curitÃ© actuellement en statut Normal.}
+{201}{}{Niveau d'Information et de la Centrale : Tourelles de sÃ©curitÃ© actuellement en statut DÃ©sactivation Maintenance.}
+{202}{}{Ajustez Niveau SÃ©curitÃ©}
 {203}{}{Etat de la Nation : Statut Courant}
-{204}{}{Téléchargement Liste Mots}
-{205}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
-{206}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
-{207}{}{Statut Sécurité}
+{204}{}{TÃ©lÃ©chargement Liste Mots}
+{205}{}{TÃ©lÃ©chargement Corporation Chimique : Rapport d'Avancement de Projet}
+{206}{}{TÃ©lÃ©chargement C. C. N. : ContrÃ´le Centrale NuclÃ©aire}
+{207}{}{Statut SÃ©curitÃ©}
 {208}{}{Retour Identification Utilisateur :}
-{209}{}{Téléchargement Achevé.}
-{210}{}{Téléchargement Etat de la Nation : Etat Courant}
-{211}{}{Téléchargement Liste Mots}
-{212}{}{Sécurité/Niveau : Statut Courant}
-{213}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
-{215}{}{Statut Sécurité}
+{209}{}{TÃ©lÃ©chargement AchevÃ©.}
+{210}{}{TÃ©lÃ©chargement Etat de la Nation : Etat Courant}
+{211}{}{TÃ©lÃ©chargement Liste Mots}
+{212}{}{SÃ©curitÃ©/Niveau : Statut Courant}
+{213}{}{TÃ©lÃ©chargement C. C. N. : ContrÃ´le Centrale NuclÃ©aire}
+{215}{}{Statut SÃ©curitÃ©}
 {216}{}{Retour Identification Utilisateur :}
-{217}{}{Téléchargement Achevé.}
-{218}{}{Téléchargement Etat de la Nation : Etat Courant}
-{219}{}{Téléchargement Liste Mots}
-{220}{}{Sécurité/Niveau : Statut Courant}
-{221}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
-{222}{}{Statut Sécurité}
+{217}{}{TÃ©lÃ©chargement AchevÃ©.}
+{218}{}{TÃ©lÃ©chargement Etat de la Nation : Etat Courant}
+{219}{}{TÃ©lÃ©chargement Liste Mots}
+{220}{}{SÃ©curitÃ©/Niveau : Statut Courant}
+{221}{}{TÃ©lÃ©chargement Corporation Chimique : Rapport d'Avancement de Projet}
+{222}{}{Statut SÃ©curitÃ©}
 {223}{}{Retour Identification Utilisateur :}
 {224}{}{Ce terminal est en cours d'auto-diagnostic approfondi. Veuillez utiliser un autre terminal. Merci.}
-{225}{}{Bienvenue au système d'Aide PoséidoNet. Nous regrettons de vous informer que vos fichiers d'Aide sont périmés, et non disponibles. Désirez-vous rechercher les mises à jour ? (O/N)}
+{225}{}{Bienvenue au systÃ¨me d'Aide PosÃ©idoNet. Nous regrettons de vous informer que vos fichiers d'Aide sont pÃ©rimÃ©s, et non disponibles. DÃ©sirez-vous rechercher les mises Ã  jour ? (O/N)}
 {226}{}{Oui.}
 {227}{}{Non, Retour.}
-{228}{}{Mise à jour des fichier d'Aide non disponible avec la version limitée de PoséidoNet. Veuillez acquérir la version complète pour toutes les mises à jour futures. Votre période d'essai pour l'accès à PoséidoNet est dépassée de 59 439 jours.}
-{229}{}{[Retour à l'écran de connexion]}
+{228}{}{Mise Ã  jour des fichier d'Aide non disponible avec la version limitÃ©e de PosÃ©idoNet. Veuillez acquÃ©rir la version complÃ¨te pour toutes les mises Ã  jour futures. Votre pÃ©riode d'essai pour l'accÃ¨s Ã  PosÃ©idoNet est dÃ©passÃ©e de 59 439 jours.}
+{229}{}{[Retour Ã  l'Ã©cran de connexion]}
 {230}{}{[Fin de session]}
-{231}{}{Contournement de sécurité, nécessite le passe-partout Présidentiel. Options autorisées: Contre-Insurrection, Arrêt d'Urgence des Systèmes de Défense.}
-{232}{}{[Je vais jeter un oeil à celui-ci.] Contre-Insurrection.}
-{233}{}{[Je vais jeter un oeil à celui-là.] Arrêt d'Urgence des Systèmes de Défense.}
+{231}{}{Contournement de sÃ©curitÃ©, nÃ©cessite le passe-partout PrÃ©sidentiel. Options autorisÃ©es: Contre-Insurrection, ArrÃªt d'Urgence des SystÃ¨mes de DÃ©fense.}
+{232}{}{[Je vais jeter un oeil Ã  celui-ci.] Contre-Insurrection.}
+{233}{}{[Je vais jeter un oeil Ã  celui-lÃ .] ArrÃªt d'Urgence des SystÃ¨mes de DÃ©fense.}
 {234}{}{[Je devrais essayer quelque chose de moins frappant.] [Retour Identification Utilisateur]}
-{235}{}{[Je ne pense pas avoir envie de tout dérégler maintenant.] [Déconnexion]}
-{236}{}{Contre-Insurrection. Dans le cas d'une rébellion armée, la Carte Présidentielle de Sécurité autorise les systèmes de défense à attaquer toute unité menaçante, même si elle étaient antérieurement loyale dans une zone. Les systèmes de défenses sont programmés pour attaquer en premier les ennemis les plus dangereux. Attention ! Niveau opérationnel courant - Niveaux d'entrée uniquement !}
+{235}{}{[Je ne pense pas avoir envie de tout dÃ©rÃ©gler maintenant.] [DÃ©connexion]}
+{236}{}{Contre-Insurrection. Dans le cas d'une rÃ©bellion armÃ©e, la Carte PrÃ©sidentielle de SÃ©curitÃ© autorise les systÃ¨mes de dÃ©fense Ã  attaquer toute unitÃ© menaÃ§ante, mÃªme si elle Ã©taient antÃ©rieurement loyale dans une zone. Les systÃ¨mes de dÃ©fenses sont programmÃ©s pour attaquer en premier les ennemis les plus dangereux. Attention ! Niveau opÃ©rationnel courant - Niveaux d'entrÃ©e uniquement !}
 {237}{}{[Ca a l'air utile.] [Activer le Protocole Contre-Insurrection]}
-{238}{}{[Bon j'essaierai ça la prochaine fois.] [Retour]}
-{239}{}{[Je ne veux plus jouer avec l'ordinateur pour l'instant.] [Déconnexion]}
-{240}{}{Clé Présidentielle de Sécurité reconnue, Bonjour, M. le Président... Protocole Contre-Insurrection Activé. Cible acquise}
+{238}{}{[Bon j'essaierai Ã§a la prochaine fois.] [Retour]}
+{239}{}{[Je ne veux plus jouer avec l'ordinateur pour l'instant.] [DÃ©connexion]}
+{240}{}{ClÃ© PrÃ©sidentielle de SÃ©curitÃ© reconnue, Bonjour, M. le PrÃ©sident... Protocole Contre-Insurrection ActivÃ©. Cible acquise}
 {241}{}{[Je pense que je vais reculer et voir ce qui se passe.]}
-{242}{}{Clé Présidentielle de Sécurité reconnue, Bonjour, M. le Président... Protocole Contre-Insurrection Activé... **Dysfonctionnement**... Sécurité déconnectée à ce niveau. Envoyez formulaire FG-I-106-32-0635 aux services de réparation agréés. Merci d'utiliser un produit Vault-Tek. Bonne journée.}
-{243}{}{[Peut-être que ça marchera sur les niveaux d'entrée. Humm, ça veut dire la zone juste avant les docks. Il va falloir que j'essaie ça.] [Retour à Identification Utilisateur]}
+{242}{}{ClÃ© PrÃ©sidentielle de SÃ©curitÃ© reconnue, Bonjour, M. le PrÃ©sident... Protocole Contre-Insurrection ActivÃ©... **Dysfonctionnement**... SÃ©curitÃ© dÃ©connectÃ©e Ã  ce niveau. Envoyez formulaire FG-I-106-32-0635 aux services de rÃ©paration agrÃ©Ã©s. Merci d'utiliser un produit Vault-Tek. Bonne journÃ©e.}
+{243}{}{[Peut-Ãªtre que Ã§a marchera sur les niveaux d'entrÃ©e. Humm, Ã§a veut dire la zone juste avant les docks. Il va falloir que j'essaie Ã§a.] [Retour Ã  Identification Utilisateur]}
 {244}{}{[Je me demande ce que je peux essayer d'autre.] [Retour]}
-{245}{}{Carte Présidentielle de Sécurité nécessaire pour accéder à cette fonction. Carte non trouvée.}
+{245}{}{Carte PrÃ©sidentielle de SÃ©curitÃ© nÃ©cessaire pour accÃ©der Ã  cette fonction. Carte non trouvÃ©e.}
 {246}{}{[Je me demande ce que je peux essayer d'autre.] [Retour]}
-{247}{}{Arrêt d'Urgence des Systèmes de Défense coupe momentanément les sécurités actives niveau par niveau. L'arrêt d'Urgence lance un diagnostic approfondi avant d'initialiser le redémarrage des systèmes de sécurité.}
-{248}{}{[On dirait quelque chose qui vaut la peine d'être essayé.] Activation Arrêt d'Urgence des Systèmes de Défense.}
-{249}{}{[Humm, j'essaierai ça une autre fois.] [Retour]}
-{250}{}{[Je ne veux plus jouer avec l'ordinateur pour l'instant.] [Déconnexion]}
-{251}{}{Clé Présidentielle de Sécurité reconnue. Bonjour, M. le Président... Arrêt d'Urgence des Systèmes de Défense activé... Lancement diagnostic approfondi. Alpha... Bravo... Charlie...}
-{252}{}{[Pour une raison étrange, je n'ai pas envie de faire ça maintenant.] [Retour]}
-{253}{}{[Je ferais bien de m'en aller, tant que cette chose fait toujours tourner son diagnostic.] [Déconnexion]}
-{254}{}{Clé Présidentielle de Sécurité non reconnue. Accès refusé.}
-{255}{}{[Humm, je me demande si je peux berner le scanner en lui faisant croire que j'ai la clé en forçant l'accès au fichier d'autorisation. Je pense que je vais essayer.]}
-{256}{}{[Bon, ça valait le coup d'essayer.] [Retour]}
-{257}{}{Dysfonctionnement Scanner de Clés de Sécurité signalé... Réinitialisation de Scanner.}
-{258}{}{[J'ai de la chance. Maintenant, si seulement je pouvais lui faire croire qu'il a reconnu la Clé Présidentielle....]}
-{259}{}{[Raté. Remarque, je ne risquais rien.] [Retour]}
-{260}{}{Scanner réinitialisé. Nouveau Scan....}
-{261}{}{[C'est maintenant le grand moment.] [Tu tapes fiévreusement]}
-{262}{}{Procédure illégale détectée. Tout accès futur sera refusé... Alerte de maintenance émise.}
+{247}{}{ArrÃªt d'Urgence des SystÃ¨mes de DÃ©fense coupe momentanÃ©ment les sÃ©curitÃ©s actives niveau par niveau. L'arrÃªt d'Urgence lance un diagnostic approfondi avant d'initialiser le redÃ©marrage des systÃ¨mes de sÃ©curitÃ©.}
+{248}{}{[On dirait quelque chose qui vaut la peine d'Ãªtre essayÃ©.] Activation ArrÃªt d'Urgence des SystÃ¨mes de DÃ©fense.}
+{249}{}{[Humm, j'essaierai Ã§a une autre fois.] [Retour]}
+{250}{}{[Je ne veux plus jouer avec l'ordinateur pour l'instant.] [DÃ©connexion]}
+{251}{}{ClÃ© PrÃ©sidentielle de SÃ©curitÃ© reconnue. Bonjour, M. le PrÃ©sident... ArrÃªt d'Urgence des SystÃ¨mes de DÃ©fense activÃ©... Lancement diagnostic approfondi. Alpha... Bravo... Charlie...}
+{252}{}{[Pour une raison Ã©trange, je n'ai pas envie de faire Ã§a maintenant.] [Retour]}
+{253}{}{[Je ferais bien de m'en aller, tant que cette chose fait toujours tourner son diagnostic.] [DÃ©connexion]}
+{254}{}{ClÃ© PrÃ©sidentielle de SÃ©curitÃ© non reconnue. AccÃ¨s refusÃ©.}
+{255}{}{[Humm, je me demande si je peux berner le scanner en lui faisant croire que j'ai la clÃ© en forÃ§ant l'accÃ¨s au fichier d'autorisation. Je pense que je vais essayer.]}
+{256}{}{[Bon, Ã§a valait le coup d'essayer.] [Retour]}
+{257}{}{Dysfonctionnement Scanner de ClÃ©s de SÃ©curitÃ© signalÃ©... RÃ©initialisation de Scanner.}
+{258}{}{[J'ai de la chance. Maintenant, si seulement je pouvais lui faire croire qu'il a reconnu la ClÃ© PrÃ©sidentielle....]}
+{259}{}{[RatÃ©. Remarque, je ne risquais rien.] [Retour]}
+{260}{}{Scanner rÃ©initialisÃ©. Nouveau Scan....}
+{261}{}{[C'est maintenant le grand moment.] [Tu tapes fiÃ©vreusement]}
+{262}{}{ProcÃ©dure illÃ©gale dÃ©tectÃ©e. Tout accÃ¨s futur sera refusÃ©... Alerte de maintenance Ã©mise.}
 {263}{}{Merde. C'est pas du tout ce que je voulais.}
-{264}{}{Clé Présidentielle de Sécurité reconnue. Bonjour, M. le Président. [Ouais ! Voyons ce qu'on peut faire avec ça...]}
+{264}{}{ClÃ© PrÃ©sidentielle de SÃ©curitÃ© reconnue. Bonjour, M. le PrÃ©sident. [Ouais ! Voyons ce qu'on peut faire avec Ã§a...]}
 {265}{}{[Que puis-je faire d'autre ?]}
-{266}{}{Passe Présidentiel de Sécurité reconnu. Bonjour, M. Le Président... Protocole de Répression d'Insurrection d'Urgence initialisé... **Erreur** Cible non trouvée. Veuillez vous assurer que les senseurs fonctionnent correctement. Si ce n'est pas le cas, veuillez transmettre le formulaire FG-I-106-32-0635 au service de réparation habilité. Merci d'utiliser ce produit Vault-Tec. Bonne journée.}
-{267}{}{[Hmm... peut-être que ça marcherait s'il y avait quelqu'un ici. Je vais devoir essayer ça plus tard.] [Retourner à l'ID Utilisateur]}
+{266}{}{Passe PrÃ©sidentiel de SÃ©curitÃ© reconnu. Bonjour, M. Le PrÃ©sident... Protocole de RÃ©pression d'Insurrection d'Urgence initialisÃ©... **Erreur** Cible non trouvÃ©e. Veuillez vous assurer que les senseurs fonctionnent correctement. Si ce n'est pas le cas, veuillez transmettre le formulaire FG-I-106-32-0635 au service de rÃ©paration habilitÃ©. Merci d'utiliser ce produit Vault-Tec. Bonne journÃ©e.}
+{267}{}{[Hmm... peut-Ãªtre que Ã§a marcherait s'il y avait quelqu'un ici. Je vais devoir essayer Ã§a plus tard.] [Retourner Ã  l'ID Utilisateur]}
 {268}{}{[Je me demande ce que je peux essayer d'autre.] [Retour]}

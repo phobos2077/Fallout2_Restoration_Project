@@ -1,109 +1,109 @@
-{100}{}{Widzisz ³owcê niewolników.}
-{150}{}{Wygl¹da na kogoœ, kto potrafi sobie poradziæ w walce.}
-{200}{}{A, œwie¿e miêcho... Witamy w gildii ³owców niewolników. Jestem Aidan. Masz tu jak¹œ sprawê? Lepiej, ¿eby tak by³o.}
-{201}{}{A czym siê zajmuje ta gildia?}
-{202}{}{Gildia ³owców niewolników?}
-{203}{}{£apcy niewielków?}
+{100}{}{Widzisz Å‚owcÄ™ niewolnikÃ³w.}
+{150}{}{WyglÄ…da na kogoÅ›, kto potrafi sobie poradziÄ‡ w walce.}
+{200}{}{A, Å›wieÅ¼e miÄ™cho... Witamy w gildii Å‚owcÃ³w niewolnikÃ³w. Jestem Aidan. Masz tu jakÄ…Å› sprawÄ™? Lepiej, Å¼eby tak byÅ‚o.}
+{201}{}{A czym siÄ™ zajmuje ta gildia?}
+{202}{}{Gildia Å‚owcÃ³w niewolnikÃ³w?}
+{203}{}{Åapcy niewielkÃ³w?}
 {204}{}{Aruk kun sung?}
-{215}{}{[Aidan ogl¹da ciê od stop do g³ów] Jak na mój gust, to siê nadasz, ale musisz najpierw pogadaæ z Metzgerem. Tamte drzwi.}
-{216}{}{[Aidan ogl¹da ciê od stop do g³ów] Nie wygl¹dasz mi na kogoœ, kto wytrzyma w tym biznesie, ale to nie ja tu rz¹dzê. Pogadaj z Metzgerem. Tamte drzwi.}
-{217}{}{Kaza³em ci pogadaæ z Metzgerem. Cierpisz tylko na g³uchotê, czy na g³upotê te¿?}
+{215}{}{[Aidan oglÄ…da ciÄ™ od stop do gÅ‚Ã³w] Jak na mÃ³j gust, to siÄ™ nadasz, ale musisz najpierw pogadaÄ‡ z Metzgerem. Tamte drzwi.}
+{216}{}{[Aidan oglÄ…da ciÄ™ od stop do gÅ‚Ã³w] Nie wyglÄ…dasz mi na kogoÅ›, kto wytrzyma w tym biznesie, ale to nie ja tu rzÄ…dzÄ™. Pogadaj z Metzgerem. Tamte drzwi.}
+{217}{}{KazaÅ‚em ci pogadaÄ‡ z Metzgerem. Cierpisz tylko na gÅ‚uchotÄ™, czy na gÅ‚upotÄ™ teÅ¼?}
 {218}{}{Kim jest Metzger?}
 {219}{}{Mam jeszcze jedno pytanie.}
-{220}{}{Dziêki, postaram siê.}
+{220}{}{DziÄ™ki, postaram siÄ™.}
 {221}{}{Mezger}
 {222}{}{Uch... dobra.}
 {230}{}{Teraz zginiesz.}
-{240}{}{W pana sobie lecisz?! £apiemy i sprzedajemy niewolników! Chyba po to tu jesteœ, nie? Szukasz dobrej roboty?}
-{241}{}{W pana sobie lecisz?! £apiemy i sprzedajemy niewolników! Jeœli nie po to tu jesteœ to czego chcesz?}
-{242}{}{Jesteœ teraz £owc¹, co? Mo¿e byæ zabawnie. Jeœli szukasz wra¿eñ to jesteœ we w³aœciwym miejscu. W przeciwnym wypadku - ju¿ nie ¿yjesz.}
-{243}{}{W ¿yciu nie myœla³em, ¿e zobaczê ten tatua¿ na babce. Ale ca³kiem nieŸle to wygl¹da. Dziwne, ¿e Metzger... pieprzyæ. Czego szukasz?}
-{244}{}{Czego chcesz? Szukasz czegoœ?}
+{240}{}{W pana sobie lecisz?! Åapiemy i sprzedajemy niewolnikÃ³w! Chyba po to tu jesteÅ›, nie? Szukasz dobrej roboty?}
+{241}{}{W pana sobie lecisz?! Åapiemy i sprzedajemy niewolnikÃ³w! JeÅ›li nie po to tu jesteÅ› to czego chcesz?}
+{242}{}{JesteÅ› teraz ÅowcÄ…, co? MoÅ¼e byÄ‡ zabawnie. JeÅ›li szukasz wraÅ¼eÅ„ to jesteÅ› we wÅ‚aÅ›ciwym miejscu. W przeciwnym wypadku - juÅ¼ nie Å¼yjesz.}
+{243}{}{W Å¼yciu nie myÅ›laÅ‚em, Å¼e zobaczÄ™ ten tatuaÅ¼ na babce. Ale caÅ‚kiem nieÅºle to wyglÄ…da. Dziwne, Å¼e Metzger... pieprzyÄ‡. Czego szukasz?}
+{244}{}{Czego chcesz? Szukasz czegoÅ›?}
 {245}{}{Witam ponownie, damulko. Czego szukasz?}
 {246}{}{Co?}
-{247}{}{Chcê do was do³¹czyæ.}
-{248}{}{Sk¹d bierzecie niewolników?}
-{249}{}{Chcê kupiæ jakichœ niewolników.}
-{250}{}{S³ysza³eœ mo¿e o facecie imieniem Vic?}
+{247}{}{ChcÄ™ do was doÅ‚Ä…czyÄ‡.}
+{248}{}{SkÄ…d bierzecie niewolnikÃ³w?}
+{249}{}{ChcÄ™ kupiÄ‡ jakichÅ› niewolnikÃ³w.}
+{250}{}{SÅ‚yszaÅ‚eÅ› moÅ¼e o facecie imieniem Vic?}
 {251}{}{Szukam kupca.}
-{252}{}{S³ysza³eœ mo¿e o Krypcie 13?}
+{252}{}{SÅ‚yszaÅ‚eÅ› moÅ¼e o Krypcie 13?}
 {253}{}{Bywaj.}
 {254}{}{Praca.}
-{255}{}{¯remy.}
-{256}{}{Zabiæ.}
+{255}{}{Å»remy.}
+{256}{}{ZabiÄ‡.}
 {257}{}{Ug.}
-{270}{}{A, w sprawie pracy. Nooo... Pogadaj z szefem. Mo¿e znajdzie coœ dla ciebie. Tamte drzwi.}
-{271}{}{Metzger nigdy nie przyj¹³ laski do gildii, ale jeœli naprawdê szukasz akcji, pogadaj z nim. Jest za tamtymi drzwiami.}
+{270}{}{A, w sprawie pracy. Nooo... Pogadaj z szefem. MoÅ¼e znajdzie coÅ› dla ciebie. Tamte drzwi.}
+{271}{}{Metzger nigdy nie przyjÄ…Å‚ laski do gildii, ale jeÅ›li naprawdÄ™ szukasz akcji, pogadaj z nim. Jest za tamtymi drzwiami.}
 {272}{}{Dbra.}
 {273}{}{Uch.}
 {274}{}{Krek}
-{280}{}{Spytaj Metzgera. Normalnie nie sprzedaje towaru byle komu. Ma doœæ roboty z dostarczaniem... wiêkszym odbiorcom.}
+{280}{}{Spytaj Metzgera. Normalnie nie sprzedaje towaru byle komu. Ma doÅ›Ä‡ roboty z dostarczaniem... wiÄ™kszym odbiorcom.}
 {281}{}{Kim jest Metzger?}
-{282}{}{Mogê ciê jeszcze o coœ zapytaæ?}
-{283}{}{W porz¹dku. Na razie.}
+{282}{}{MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{283}{}{W porzÄ…dku. Na razie.}
 {284}{}{A co z Vicem?}
-{290}{}{Ta, nie gadaj. Spadaj st¹d!}
-{291}{}{G³upia suka.}
+{290}{}{Ta, nie gadaj. Spadaj stÄ…d!}
+{291}{}{GÅ‚upia suka.}
 {292}{}{Uk?}
 {293}{}{Hmph.}
-{300}{}{Ma³o prawdopodobne. Ten fiut podpad³ Metzgerowi z jakimœ radiem. W¹tpiê, ¿eby chcia³ go sprzedaæ. Najlepiej pogadaj z nim osobiœcie.}
-{301}{}{Podobno ten stary buc wreszcie naprawi³ to radio. Pogadaj z Metzgerem. Teraz pewnie bêdzie chcia³ siê go pozbyæ.}
+{300}{}{MaÅ‚o prawdopodobne. Ten fiut podpadÅ‚ Metzgerowi z jakimÅ› radiem. WÄ…tpiÄ™, Å¼eby chciaÅ‚ go sprzedaÄ‡. Najlepiej pogadaj z nim osobiÅ›cie.}
+{301}{}{Podobno ten stary buc wreszcie naprawiÅ‚ to radio. Pogadaj z Metzgerem. Teraz pewnie bÄ™dzie chciaÅ‚ siÄ™ go pozbyÄ‡.}
 {302}{}{Kim jest Metzger?}
-{303}{}{Gdzie znajdê Metzgera?}
-{304}{}{Dobra, dziêki. Do zobaczenia.}
+{303}{}{Gdzie znajdÄ™ Metzgera?}
+{304}{}{Dobra, dziÄ™ki. Do zobaczenia.}
 {310}{}{Jest na zapleczu, za tamtymi drzwiami.}
-{311}{}{W kulki sobie ze mn¹ lecisz? Jest tam, za tamtymi drzwiami.}
-{312}{}{W porz¹dku.}
-{313}{}{Dziêkujê.}
-{320}{}{Zalewasz! Nie wiesz kto to Metzger? To co ty w ogóle robisz w tym mieœcie, jeœli nie szukasz szefa? Metzger jest g³ow¹ gildii ³owców niewolników.}
-{321}{}{Ile razy mam ci powtarzaæ? To szef gildii ³owców niewolników i pan tego miasta.}
-{322}{}{Mogê zapytaæ ciê o coœ innego?}
-{323}{}{Dobra, dziêki.}
-{330}{}{Nie bêdê o tym gada³. Metzger by mnie wypatroszy³. No i nie chcielibyœmy konkurencji z zewn¹trz.}
-{331}{}{Mówi³em ci ju¿, nie bêdê o tym gada³.}
-{332}{}{Gadaj zanim przewietrzê ci mózg.}
-{333}{}{Rozumiem. Mogê jeszcze o coœ spytaæ?}
-{334}{}{W porz¹dku. Na razie.}
-{340}{}{S³uchaj, fiucie, nie próbuj groziæ ani mi, ani innym ludziom z gildii, chyba ¿e œpieszno ci do piachu. Kapujesz? Do piachu!}
-{341}{}{S³uchaj, zdziro, nie próbuj groziæ ani mi, ani innym ludziom z gildii, chyba ¿e œpieszno ci do piachu. Kapujesz? Do piachu!}
-{342}{}{Teraz zdechniesz ma³y æpunku.}
-{343}{}{Chrzañ siê.}
-{344}{}{B³agam, nie rób mi krzywdy.}
-{345}{}{Dobra, dobra. Tym razem pozwolê ci ¿yæ.}
-{350}{}{Serio? Chcesz zobaczyæ swoje flaki na ulicy? Co?! No jak, twardzielu?}
-{351}{}{Spróbuj.}
-{352}{}{Nie rozœmieszaj mnie.}
-{353}{}{Hej, to tylko ¿art, stary.}
-{354}{}{Przepraszam. Nie wiem co mi strzeli³o do g³owy.}
-{360}{}{Spieprzaj st¹d zanim siê rozmyœlê.}
-{361}{}{W porz¹dku.}
-{370}{}{Co? A, szukasz lokalu Mamuœki. To o jeden budynek dalej. Znajdziesz j¹ na po³udnie st¹d. P-o-³-u-d-n-i-e. Tam. [Wskazuje kierunek.]}
+{311}{}{W kulki sobie ze mnÄ… lecisz? Jest tam, za tamtymi drzwiami.}
+{312}{}{W porzÄ…dku.}
+{313}{}{DziÄ™kujÄ™.}
+{320}{}{Zalewasz! Nie wiesz kto to Metzger? To co ty w ogÃ³le robisz w tym mieÅ›cie, jeÅ›li nie szukasz szefa? Metzger jest gÅ‚owÄ… gildii Å‚owcÃ³w niewolnikÃ³w.}
+{321}{}{Ile razy mam ci powtarzaÄ‡? To szef gildii Å‚owcÃ³w niewolnikÃ³w i pan tego miasta.}
+{322}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{323}{}{Dobra, dziÄ™ki.}
+{330}{}{Nie bÄ™dÄ™ o tym gadaÅ‚. Metzger by mnie wypatroszyÅ‚. No i nie chcielibyÅ›my konkurencji z zewnÄ…trz.}
+{331}{}{MÃ³wiÅ‚em ci juÅ¼, nie bÄ™dÄ™ o tym gadaÅ‚.}
+{332}{}{Gadaj zanim przewietrzÄ™ ci mÃ³zg.}
+{333}{}{Rozumiem. MogÄ™ jeszcze o coÅ› spytaÄ‡?}
+{334}{}{W porzÄ…dku. Na razie.}
+{340}{}{SÅ‚uchaj, fiucie, nie prÃ³buj groziÄ‡ ani mi, ani innym ludziom z gildii, chyba Å¼e Å›pieszno ci do piachu. Kapujesz? Do piachu!}
+{341}{}{SÅ‚uchaj, zdziro, nie prÃ³buj groziÄ‡ ani mi, ani innym ludziom z gildii, chyba Å¼e Å›pieszno ci do piachu. Kapujesz? Do piachu!}
+{342}{}{Teraz zdechniesz maÅ‚y Ä‡punku.}
+{343}{}{ChrzaÅ„ siÄ™.}
+{344}{}{BÅ‚agam, nie rÃ³b mi krzywdy.}
+{345}{}{Dobra, dobra. Tym razem pozwolÄ™ ci Å¼yÄ‡.}
+{350}{}{Serio? Chcesz zobaczyÄ‡ swoje flaki na ulicy? Co?! No jak, twardzielu?}
+{351}{}{SprÃ³buj.}
+{352}{}{Nie rozÅ›mieszaj mnie.}
+{353}{}{Hej, to tylko Å¼art, stary.}
+{354}{}{Przepraszam. Nie wiem co mi strzeliÅ‚o do gÅ‚owy.}
+{360}{}{Spieprzaj stÄ…d zanim siÄ™ rozmyÅ›lÄ™.}
+{361}{}{W porzÄ…dku.}
+{370}{}{Co? A, szukasz lokalu MamuÅ›ki. To o jeden budynek dalej. Znajdziesz jÄ… na poÅ‚udnie stÄ…d. P-o-Å‚-u-d-n-i-e. Tam. [Wskazuje kierunek.]}
 {371}{}{He? Yyy... Eee.}
-{380}{}{Mo¿e i siê nadasz, ale Metzger jeszcze nigdy nie zatrudni³ babki. Nie wiem czemu, ale chyba nie zacznie ot tak sobie.}
-{381}{}{Chyba siê nie nadasz, poza tym Metzger jeszcze nigdy nie zatrudni³ babki. Nie wiem czemu, ale chyba nie zacznie ot tak sobie.}
-{382}{}{Kaza³em ci pogadaæ z Metzgerem.}
+{380}{}{MoÅ¼e i siÄ™ nadasz, ale Metzger jeszcze nigdy nie zatrudniÅ‚ babki. Nie wiem czemu, ale chyba nie zacznie ot tak sobie.}
+{381}{}{Chyba siÄ™ nie nadasz, poza tym Metzger jeszcze nigdy nie zatrudniÅ‚ babki. Nie wiem czemu, ale chyba nie zacznie ot tak sobie.}
+{382}{}{KazaÅ‚em ci pogadaÄ‡ z Metzgerem.}
 {383}{}{Kim jest Metzger?}
 {384}{}{Jeszcze jedno pytanie.}
-{385}{}{Dziêki, postaram siê.}
+{385}{}{DziÄ™ki, postaram siÄ™.}
 {386}{}{Mezger}
 {387}{}{Uch... dobra.}
-{400}{}{Nie, ale na twoim miejscu pogada³bym z szefem. On zwiedzi³ ju¿ chyba ca³y ten pieprzony œwiat.}
+{400}{}{Nie, ale na twoim miejscu pogadaÅ‚bym z szefem. On zwiedziÅ‚ juÅ¼ chyba caÅ‚y ten pieprzony Å›wiat.}
 {401}{}{Jeszcze jedno pytanie.}
-{402}{}{Dobra, dziêki. Do zobaczenia.}
-{410}{}{Kupiec? Masz pewnie na myœli Vica, tego co to sprzedaje z³om z Krypt? Koleœ ma przesrane. Metzger strasznie siê na niego wnerwi³.}
-{411}{}{Taa, Vic... ten kupiec, nie? Ten co to handluje z³omem z Krypt? Goœæ ma przesrane. Metzger nieŸle siê na niego wkurzy³.}
-{412}{}{Ile razy bêdziesz mnie o to pytaæ? Metzger go trzyma.}
+{402}{}{Dobra, dziÄ™ki. Do zobaczenia.}
+{410}{}{Kupiec? Masz pewnie na myÅ›li Vica, tego co to sprzedaje zÅ‚om z Krypt? KoleÅ› ma przesrane. Metzger strasznie siÄ™ na niego wnerwiÅ‚.}
+{411}{}{Taa, Vic... ten kupiec, nie? Ten co to handluje zÅ‚omem z Krypt? GoÅ›Ä‡ ma przesrane. Metzger nieÅºle siÄ™ na niego wkurzyÅ‚.}
+{412}{}{Ile razy bÄ™dziesz mnie o to pytaÄ‡? Metzger go trzyma.}
 {413}{}{Kim jest Metzger?}
-{414}{}{Czy mogê jeszcze o coœ zapytaæ?}
-{415}{}{Jest na sprzeda¿?}
-{416}{}{Dobra, dziêki.}
-{430}{}{Hej, ch³opaki, patrzcie kto wróci³.}
-{431}{}{W nogi, to £owca! Ha ha, zawsze mnie to rozwala.}
-{432}{}{Szukasz wiêcej rozrywki?}
-{433}{}{Znasz drogê.}
-{434}{}{W³aŸ.}
+{414}{}{Czy mogÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{415}{}{Jest na sprzedaÅ¼?}
+{416}{}{Dobra, dziÄ™ki.}
+{430}{}{Hej, chÅ‚opaki, patrzcie kto wrÃ³ciÅ‚.}
+{431}{}{W nogi, to Åowca! Ha ha, zawsze mnie to rozwala.}
+{432}{}{Szukasz wiÄ™cej rozrywki?}
+{433}{}{Znasz drogÄ™.}
+{434}{}{WÅ‚aÅº.}
 {435}{}{Szef na ciebie czeka.}
 {436}{}{Czego znowu?}
-{437}{}{Znam tê paskudn¹ gêbê.}
+{437}{}{Znam tÄ™ paskudnÄ… gÄ™bÄ™.}
 {438}{}{Jak leci?}
 {439}{}{Znowu ty. Szukasz roboty?}

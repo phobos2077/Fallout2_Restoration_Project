@@ -1,96 +1,96 @@
-{100}{}{Du siehst eine barsch aussehende Frau mit breitem Lächeln.}
-{101}{}{Du siehst Jackpot Jane, die Managerin der Kreaturenkämpfe.}
-{102}{}{Du siehst eine kompetent aussehende Frau mit einem scharfen Auge für Details.}
-{103}{}{Hallo, hier, Freund. Möchtest du den Critter-Kampf sehen?}
+{100}{}{Du siehst eine barsch aussehende Frau mit breitem LÃ¤cheln.}
+{101}{}{Du siehst Jackpot Jane, die Managerin der KreaturenkÃ¤mpfe.}
+{102}{}{Du siehst eine kompetent aussehende Frau mit einem scharfen Auge fÃ¼r Details.}
+{103}{}{Hallo, hier, Freund. MÃ¶chtest du den Critter-Kampf sehen?}
 {104}{}{Oooh. Pelzig.}
 {105}{}{Ziemlich pelzig.}
-{106}{}{Ah, ich verstehe. Du musst neu in der Stadt sein. Gut, ich werde dir etwas sagen. Ich werde eine spezielle Wette für
- Dich während den morgigen Kämpfen machen. Möchtest du, dass ich das für dich mache?}
+{106}{}{Ah, ich verstehe. Du musst neu in der Stadt sein. Gut, ich werde dir etwas sagen. Ich werde eine spezielle Wette fÃ¼r
+ Dich wÃ¤hrend den morgigen KÃ¤mpfen machen. MÃ¶chtest du, dass ich das fÃ¼r dich mache?}
 {107}{}{[Du nickst.] Ja, ja. [Und reichst deinen Geldbeutel]}
 {108}{}{Ich? Plemplem. Bis bald, Pelz.}
-{109}{}{Gute Idee. Du kommst morgen hier zurück und falls dein Critter bei den Kämpfen gewinnt, gebe ich dir dein Geld.
+{109}{}{Gute Idee. Du kommst morgen hier zurÃ¼ck und falls dein Critter bei den KÃ¤mpfen gewinnt, gebe ich dir dein Geld.
  Okay?}
-{110}{}{OK, guter Zug. Ich werde sichergehen, dass du damit eine wirklich gute spezielle Wette machst. Bis später.}
+{110}{}{OK, guter Zug. Ich werde sichergehen, dass du damit eine wirklich gute spezielle Wette machst. Bis spÃ¤ter.}
 {111}{}{Gewinnen?}
 {112}{}{Okay... bis bald.}
-{113}{}{Nein, ich befürchte, nein. Aber ich habe ein wirklich gutes Gefühl bezüglich des nächsten Males. Möchtest du noch
+{113}{}{Nein, ich befÃ¼rchte, nein. Aber ich habe ein wirklich gutes GefÃ¼hl bezÃ¼glich des nÃ¤chsten Males. MÃ¶chtest du noch
  eine andere spezielle Wette machen?}
 {114}{}{Okay. Danke. [Du nickst und reichst deinen Geldbeutel.]}
-{115}{}{Booo? Tschüss.}
-{116}{}{Es tut mir wirklich leid, aber du hast nichts dabei, womit du wetten kannst. Komm zurück, wenn du ein bisschen was
+{115}{}{Booo? TschÃ¼ss.}
+{116}{}{Es tut mir wirklich leid, aber du hast nichts dabei, womit du wetten kannst. Komm zurÃ¼ck, wenn du ein bisschen was
  angesammelt hast.}
-{117}{}{Okay, schön, schön. Tschüss.}
+{117}{}{Okay, schÃ¶n, schÃ¶n. TschÃ¼ss.}
 {118}{}{Komm zur Arena, jeden verdammten Tag zur Mittagszeit.}
-{119}{}{Jetzt sind gerade keine Kämpfe, komm um die Mittagszeit zur Arena.}
+{119}{}{Jetzt sind gerade keine KÃ¤mpfe, komm um die Mittagszeit zur Arena.}
 {120}{}{Hier passiert gerade nichts.}
-{121}{}{Für Kämpfe musst du bis zur Mittagszeit warten. Lass' mich jetzt bitte allein.}
+{121}{}{FÃ¼r KÃ¤mpfe musst du bis zur Mittagszeit warten. Lass' mich jetzt bitte allein.}
 {122}{}{Hallo da! Wir sehen uns bei der Arena, ansonsten verschwinde von hier.}
-{123}{}{Das sieht vielversprechend aus, Leute. Sie werfen sich alle gegenseitig abschätzende Blicke zu.}
-{124}{}{Ein paar gute Züge da, man sieht, dass die beiden das schon einmal gemacht haben!}
-{125}{}{Gute Runde, gute Runde. Da ist ganz schön viel Hass in der Arena.}
-{126}{}{Kannst du das Durchhaltevermögen dieser beiden fassen? Die können wirklich austeilen und auch einstecken.}
-{127}{}{Was für ein Kinnhaken, dass muss weh tun!}
-{128}{}{Oh ja! Körper schlagen! Körper schlagen!}
-{129}{}{Ich glaube nicht einmal, dass er diesen hat kommen sehen, Glückszug.}
+{123}{}{Das sieht vielversprechend aus, Leute. Sie werfen sich alle gegenseitig abschÃ¤tzende Blicke zu.}
+{124}{}{Ein paar gute ZÃ¼ge da, man sieht, dass die beiden das schon einmal gemacht haben!}
+{125}{}{Gute Runde, gute Runde. Da ist ganz schÃ¶n viel Hass in der Arena.}
+{126}{}{Kannst du das DurchhaltevermÃ¶gen dieser beiden fassen? Die kÃ¶nnen wirklich austeilen und auch einstecken.}
+{127}{}{Was fÃ¼r ein Kinnhaken, dass muss weh tun!}
+{128}{}{Oh ja! KÃ¶rper schlagen! KÃ¶rper schlagen!}
+{129}{}{Ich glaube nicht einmal, dass er diesen hat kommen sehen, GlÃ¼ckszug.}
 {130}{}{Aua! Das muss einfach weh tun!}
 {131}{}{Jetzt kommt die wirkliche Bestrafung, Leute.}
 {132}{}{Netter Zug, das war gute Pfotenarbeit.}
-{133}{}{Körper bearbeiten. Das sind heute gute Züge, Leute!}
+{133}{}{KÃ¶rper bearbeiten. Das sind heute gute ZÃ¼ge, Leute!}
 {134}{}{Nette Kombination! Dieser ist ein Naturtalent, so wie er das macht!}
 {135}{}{Oh ja, eins-zwei Kombination, die bringt seinen Gegner ins Schwanken!}
-{136}{}{Diese zwei Knallhunde veranstalten da eine ganz schöne Schaumschlägerei!}
-{137}{}{Schau dir all das Blut an, und sie machen einfach weiter. Was für ein Kampf!}
-{138}{}{Das ist Action, die ihr Leute sehen wollt. Spitzenmäßige Züge, spitzenmäßige Züge.}
+{136}{}{Diese zwei Knallhunde veranstalten da eine ganz schÃ¶ne SchaumschlÃ¤gerei!}
+{137}{}{Schau dir all das Blut an, und sie machen einfach weiter. Was fÃ¼r ein Kampf!}
+{138}{}{Das ist Action, die ihr Leute sehen wollt. SpitzenmÃ¤ÃŸige ZÃ¼ge, spitzenmÃ¤ÃŸige ZÃ¼ge.}
 {139}{}{Yeah, gib's ihm direkt auf den Unterkiefer! Das wird auch eine Blutwunde geben!}
-{140}{}{Hast du gesehen, wie weit das Blut von dem gespritzt hat?! Wow, was für eine Kraft!}
-{141}{}{Bewegt sich wie ein geölter Blitz! Sieh' mal, wieviel Fleisch da rausquillt!}
-{142}{}{Schau' mal diese fliegenden Fleischstücke überall! Diese zwei haben's echt drauf!}
-{143}{}{Hallo, ihr. Ich bin Jackpot Jane und ich mache die Biesterkämpfe hier in der Stadt. Wer möchte auf den Ausgang eines
- unserer ersten Kämpfe setzen? Biest gegen Biest in ihrer rauhesten Art?}
+{140}{}{Hast du gesehen, wie weit das Blut von dem gespritzt hat?! Wow, was fÃ¼r eine Kraft!}
+{141}{}{Bewegt sich wie ein geÃ¶lter Blitz! Sieh' mal, wieviel Fleisch da rausquillt!}
+{142}{}{Schau' mal diese fliegenden FleischstÃ¼cke Ã¼berall! Diese zwei haben's echt drauf!}
+{143}{}{Hallo, ihr. Ich bin Jackpot Jane und ich mache die BiesterkÃ¤mpfe hier in der Stadt. Wer mÃ¶chte auf den Ausgang eines
+ unserer ersten KÃ¤mpfe setzen? Biest gegen Biest in ihrer rauhesten Art?}
 {144}{}{Setzen sie jetzt, wetten sie. Wie wird es ausgehen?}
-{145}{}{Ähh, was passiert hier?}
+{145}{}{Ã„hh, was passiert hier?}
 {146}{}{Ich bin bereit, zu wetten.}
-{147}{}{Ich glaube, diese Kämpfe sind manipuliert.}
+{147}{}{Ich glaube, diese KÃ¤mpfe sind manipuliert.}
 {148}{}{Ich habe mich nur umgeschaut. Auf Wiedersehen.}
-{149}{}{Ganz einfach, wirklich: Zwei der furchterregenden Biester, die du dir aus der Nähe anschauen kannst, keine Tricks,
- das versichere ich dir, werden in den Ring getrieben. Sekunden später wirst du Zeuge eines Schauspiels von der rauhen Kraft
+{149}{}{Ganz einfach, wirklich: Zwei der furchterregenden Biester, die du dir aus der NÃ¤he anschauen kannst, keine Tricks,
+ das versichere ich dir, werden in den Ring getrieben. Sekunden spÃ¤ter wirst du Zeuge eines Schauspiels von der rauhen Kraft
  der Mutter Natur.}
 {150}{}{Was hat Mutter Natur damit zu tun?}
 {151}{}{Und ich kann damit irgendwie etwas verdienen?}
 {152}{}{Kommt jetzt, kommt alle, seht den KAMPF des JAHRHUNDERTS!}
 {153}{}{Setzt jetzt euer Geld auf den SIEGER!}
 {154}{}{Seht den Kampf der Titanen!}
-{155}{}{Setzt Euer Geld jetzt, bevor die Wetten geschlossen werden! Zögert nicht, verpasst es nicht!}
-{156}{}{Achtet auf spritzendes Blut und fliegende Eingeweide. Die Verantwortlichen übernehmen keine Haftung für Flecken oder
- Schäden.}
-{157}{}{Tausende von Dollars werden täglich ausgehändigt!}
+{155}{}{Setzt Euer Geld jetzt, bevor die Wetten geschlossen werden! ZÃ¶gert nicht, verpasst es nicht!}
+{156}{}{Achtet auf spritzendes Blut und fliegende Eingeweide. Die Verantwortlichen Ã¼bernehmen keine Haftung fÃ¼r Flecken oder
+ SchÃ¤den.}
+{157}{}{Tausende von Dollars werden tÃ¤glich ausgehÃ¤ndigt!}
 {158}{}{Macht Eure eigene Goldmiene voller Geld hier! Sofort!}
 {159}{}{Kommt und seht das Duell des Tages!}
-{160}{}{Wilde Kreaturen kämpfen, während Ihr Geld gewinnt! IHR WERDET ES LIEBEN!}
+{160}{}{Wilde Kreaturen kÃ¤mpfen, wÃ¤hrend Ihr Geld gewinnt! IHR WERDET ES LIEBEN!}
 {161}{}{Bringt volle Geldbeutel und noch vollere Erwartungen! HIER ENTLANG!}
 {162}{}{Raus hier, aber schnell.}
-{163}{}{Ich brauche deine Art von Geschäft nicht.}
+{163}{}{Ich brauche deine Art von GeschÃ¤ft nicht.}
 {164}{}{Bring' es jemand anderem.}
 {165}{}{Bleib' einfach von meiner Arena weg.}
 {166}{}{Ich bin nicht an deinem Geld interessiert.}
-{167}{}{Nun, wie ich gesagt habe, die zwei Kreaturen werden sich in einer wilden Explosion aufeinander stürzen wie man es
- nicht mehr gesehen hat, seit die großen Maschinen über den Erdball gewandert sind.}
-{168}{}{Große Maschinen?}
-{169}{}{Ähhm ja, und was war dann?}
-{170}{}{OK, hör zu, Bursche, würde es helfen, wenn ich sagen würde - Sowas gab es nicht mehr, seitdem die großen Donnerechsen
- über den Erdball gewandert sind. Ist es das, was dich anheizt? Bist du dabei oder nicht? [zu sich] Liebe Güte, jeder ist
+{167}{}{Nun, wie ich gesagt habe, die zwei Kreaturen werden sich in einer wilden Explosion aufeinander stÃ¼rzen wie man es
+ nicht mehr gesehen hat, seit die groÃŸen Maschinen Ã¼ber den Erdball gewandert sind.}
+{168}{}{GroÃŸe Maschinen?}
+{169}{}{Ã„hhm ja, und was war dann?}
+{170}{}{OK, hÃ¶r zu, Bursche, wÃ¼rde es helfen, wenn ich sagen wÃ¼rde - Sowas gab es nicht mehr, seitdem die groÃŸen Donnerechsen
+ Ã¼ber den Erdball gewandert sind. Ist es das, was dich anheizt? Bist du dabei oder nicht? [zu sich] Liebe GÃ¼te, jeder ist
  heutzutage kritisch.}
-{171}{}{Äh, ich bin dabei. Glaube ich.}
-{172}{}{Große Echsen machen mir Angst. Ich bin lieber nicht dabei. Vielen Dank für die Warnung. Auf Wiedersehen.
+{171}{}{Ã„h, ich bin dabei. Glaube ich.}
+{172}{}{GroÃŸe Echsen machen mir Angst. Ich bin lieber nicht dabei. Vielen Dank fÃ¼r die Warnung. Auf Wiedersehen.
  [Du denkst bei dir *Phuh, das war knapp*.]}
-{173}{}{Der sportliche Teil ist die Wette auf den Ausgang des Kampfes. Und so läuft es. Du kommst zu mir und sagst, dass du
- wetten möchtest. Ich sage dir, welche zwei Critters als nächstes kämpfen werden, und du sagst mir, auf welchen du dein Geld
+{173}{}{Der sportliche Teil ist die Wette auf den Ausgang des Kampfes. Und so lÃ¤uft es. Du kommst zu mir und sagst, dass du
+ wetten mÃ¶chtest. Ich sage dir, welche zwei Critters als nÃ¤chstes kÃ¤mpfen werden, und du sagst mir, auf welchen du dein Geld
  setzt.}
 {174}{}{Was dann?}
-{175}{}{Ganz einfach, falls dein Critter gewinnt, verdoppelt sich dein Geld. Und es VERDREIFACHT sich für den Fall eines
- K.O. in der ersten Runde! Falls dein Critter verliert, gehört dein Geld mir. Es gibt gewöhnlich mehrere Kämpfe täglich.
+{175}{}{Ganz einfach, falls dein Critter gewinnt, verdoppelt sich dein Geld. Und es VERDREIFACHT sich fÃ¼r den Fall eines
+ K.O. in der ersten Runde! Falls dein Critter verliert, gehÃ¶rt dein Geld mir. Es gibt gewÃ¶hnlich mehrere KÃ¤mpfe tÃ¤glich.
  Solange der Bestand der Critters niedrig ist, kannst du auf alle wetten. Aber nur eine Wette pro Kampf. Oh, ja, um alles
- schön einfach zu machen kosten alle Wetten $100.}
+ schÃ¶n einfach zu machen kosten alle Wetten $100.}
 {176}{}{OK. Ich hab's kapiert. Lass' es mich versuchen.}
 {177}{}{Ich verstehe. Hmm, ich denke, ich werde das ein anderes Mal versuchen. Auf Wiedersehen.}
 {178}{}{Das wird eine Keilerei. }
@@ -100,55 +100,55 @@
 {182}{}{ gegen }
 {183}{}{. Worauf hast du gesetzt?}
 {184}{}{Ich habe noch nie so kurz zuvor gesetzt. }
-{185}{}{ kämpfen }
+{185}{}{ kÃ¤mpfen }
 {186}{}{ diese Runde. Wird ein guter Kampf. Auf was setzt du?}
 {187}{}{Champion }
-{188}{}{ gegen und nächstes }
-{189}{}{. Ein ganz schönes Match. Was ist deine Glücksnummer heute?}
+{188}{}{ gegen und nÃ¤chstes }
+{189}{}{. Ein ganz schÃ¶nes Match. Was ist deine GlÃ¼cksnummer heute?}
 {190}{}{Okay. Hier kommt die Action. }
 {191}{}{ setzt auf den guten alten }
-{192}{}{. So einen Kampf wie diesen wirst du so bald nicht mehr sehen. Was möchtest du tun?}
+{192}{}{. So einen Kampf wie diesen wirst du so bald nicht mehr sehen. Was mÃ¶chtest du tun?}
 {193}{}{Ich setze mein Geld auf }
 {194}{}{.}
 {195}{}{Ich setze mein Geld auf }
 {196}{}{.}
 {197}{}{Hmm, Ich glaube, ich setze diese Runde aus. }
-{198}{}{Ich denke, für heute habe ich genug davon. Man sieht sich ein anderes Mal. Auf Wiedersehen.}
-{199}{}{Hier für dich, Champion. Das ist dein Gewinn. Das ist der letzte Kampf für heute. Komm' morgen wieder, wenn du mehr
- Action möchtest.}
-{200}{}{Es gibt noch mehr. Möchtest du beim nächsten Kampf wetten?}
+{198}{}{Ich denke, fÃ¼r heute habe ich genug davon. Man sieht sich ein anderes Mal. Auf Wiedersehen.}
+{199}{}{Hier fÃ¼r dich, Champion. Das ist dein Gewinn. Das ist der letzte Kampf fÃ¼r heute. Komm' morgen wieder, wenn du mehr
+ Action mÃ¶chtest.}
+{200}{}{Es gibt noch mehr. MÃ¶chtest du beim nÃ¤chsten Kampf wetten?}
 {201}{}{Sicher werde ich das.}
 {202}{}{Ich denke, ich werde diese Runde aussetzen.}
-{203}{}{Schau, niemand zwingt Dich dazu, auf sie zu setzen, oder? Wenn dir nicht gefällt, was du siehst, geh' einfach weg,
+{203}{}{Schau, niemand zwingt Dich dazu, auf sie zu setzen, oder? Wenn dir nicht gefÃ¤llt, was du siehst, geh' einfach weg,
  man wird Dich nicht vermissen. Verstanden?}
 {204}{}{Ich verstehe.}
-{205}{}{Was für ein Schlag! }
+{205}{}{Was fÃ¼r ein Schlag! }
 {206}{}{ holte aus }
 {207}{}{ in der ersten Runde! Welche Action!}
 {208}{}{Wow, das war knapp, aber }
-{209}{}{ gewann diesen, letzten Kampf des Tages. Ich werde jeden auszahlen, aber kommt morgen zurück für noch mehr tolle
+{209}{}{ gewann diesen, letzten Kampf des Tages. Ich werde jeden auszahlen, aber kommt morgen zurÃ¼ck fÃ¼r noch mehr tolle
  Action.}
-{210}{}{Was für ein Blutfest! Ich kann mich nicht erinnern, jemals einen Kampf wie diesen gesehen zu haben. Der Sieger ist }
-{211}{}{. Lasst mich jeden auszahlen und wir starten die nächste Runde.}
-{212}{}{ gewinnt diese Runde, Hände, äh, Krallen weg! Lasst mich jeden auszahlen, und wir starten die nächste Runde.}
+{210}{}{Was fÃ¼r ein Blutfest! Ich kann mich nicht erinnern, jemals einen Kampf wie diesen gesehen zu haben. Der Sieger ist }
+{211}{}{. Lasst mich jeden auszahlen und wir starten die nÃ¤chste Runde.}
+{212}{}{ gewinnt diese Runde, HÃ¤nde, Ã¤h, Krallen weg! Lasst mich jeden auszahlen, und wir starten die nÃ¤chste Runde.}
 {213}{}{Und der Sieger ist...}
-{214}{}{ von einer bluttriefenden Kralle. Lasst mich jeden auszahlen, und wir starten die nächste Runde.}
+{214}{}{ von einer bluttriefenden Kralle. Lasst mich jeden auszahlen, und wir starten die nÃ¤chste Runde.}
 {215}{}{Ich wollte nur sagen, dass Ascorti heute abend ein Special mit, uh, *Steaks* gibt. Es dauert nur einen Moment, bis wir
  den Verlierer vom Feld geschleift haben. }
-{216}{}{ gewinnt diesen Kampf! Lasst mich jeden auszahlen und wir starten die nächste Runde.}
+{216}{}{ gewinnt diesen Kampf! Lasst mich jeden auszahlen und wir starten die nÃ¤chste Runde.}
 {217}{}{Es sieht so aus, als ob }
-{218}{}{ gewonnen hat. Ich habe noch nie solche Prügel gesehen. Lasst mich jeden auszahlen und wir starten die nächste Runde.}
+{218}{}{ gewonnen hat. Ich habe noch nie solche PrÃ¼gel gesehen. Lasst mich jeden auszahlen und wir starten die nÃ¤chste Runde.}
 {219}{}{Jipiii! Ich habe gewonnen.}
 {220}{}{Ja! Das ist famos!}
-{221}{}{Ich habe ein wirkliches Talent dafür.}
+{221}{}{Ich habe ein wirkliches Talent dafÃ¼r.}
 {222}{}{Ich kenne mein Critter-Fleisch gut.}
 {223}{}{Verdammt. Ich habe verloren.}
-{224}{}{Einfach mein Glück.}
-{225}{}{Das hätte besser laufen können.}
-{226}{}{Vielleicht erwische ich es nächstes Mal besser.}
+{224}{}{Einfach mein GlÃ¼ck.}
+{225}{}{Das hÃ¤tte besser laufen kÃ¶nnen.}
+{226}{}{Vielleicht erwische ich es nÃ¤chstes Mal besser.}
 {227}{}{Gut, dass ich nicht auf diesen gesetzt habe.}
 {228}{}{Ich bin froh, dass ich mein Geld behalten habe.}
-{229}{}{Das hätte mich gekostet.}
+{229}{}{Das hÃ¤tte mich gekostet.}
 {230}{}{Das war ein guter Kampf. Obwohl ich froh bin, nicht darauf gewettet zu haben.}
 {231}{}{Ok, danke.}
 {300}{}{Keen Squeek}
@@ -179,7 +179,7 @@
 {327}{}{Spot}
 {328}{}{Lord Wiggler}
 {330}{}{Lucky}
-{331}{}{Zoroaster der Große}
+{331}{}{Zoroaster der GroÃŸe}
 {332}{}{Shub}
 {333}{}{Usuthu}
 {334}{}{Growler}
@@ -188,7 +188,7 @@
 {337}{}{Fraggle}
 {338}{}{Captain Midnight}
 {340}{}{Hammer}
-{341}{}{Sekretäriat}
+{341}{}{SekretÃ¤riat}
 {342}{}{Balou}
 {343}{}{Sancho Panza}
 {344}{}{Loki}

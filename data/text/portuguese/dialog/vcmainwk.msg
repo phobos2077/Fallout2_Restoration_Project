@@ -31,9 +31,9 @@
 {130}{}{I was looking for the Vault. Can you tell me where it is?}
 {131}{}{Actually, I was just leaving.}
 {132}{}{It's that big hole in the mountain to the east, past those two heavily-armed guards. Anything else you want to ask or can I get back to work?}
-{133}{}{O que é este lugar?}
+{133}{}{O que Ã© este lugar?}
 {134}{}{Watch it. I'm not in the mood for any bullshit today.}
-{135}{}{Obrigado pelas direções. Tchau.}
+{135}{}{Obrigado pelas direÃ§Ãµes. Tchau.}
 {136}{}{As if Vault City didn't have enough human brahmin... look, you CANT BE IN HERE, OKAY? You could HURT yourself! NOW GET OUT! GO!}
 {137}{}{*Snfff* You big meenie... *snff*... me go sumplace n' have partee wiff clowns... *snfff*... and ice creem... and kake... and me no invit smart meen peuple like YOU!}
 {138}{}{Desliga}
@@ -54,7 +54,7 @@
 {152}{}{Right now, I've got the metal lathe barely working, and my wrench has gone missing... AGAIN... and my pliers' teeth are stripped.}
 {153}{}{Anything I could help with?}
 {154}{}{What's the problem with getting more tools?}
-{155}{}{Tudo bem então. Bom Dia.}
+{155}{}{Tudo bem entÃ£o. Bom Dia.}
 {156}{}{You? I doubt it.}
 {157}{}{Well, I have a wrench and a pair of pliers right here.}
 {158}{}{Would getting you a new wrench and a set of pliers help you out?}
@@ -66,14 +66,14 @@
 {164}{}{Hell, I ordered a Super Snap-Off Tool Kit MONTHS ago, but just like always, it won't show until I don't need it anymore. It's a wonder things ever get done around here...}
 {165}{}{Maybe I could help you.}
 {166}{}{Oh. Well, sorry to hear it. I may be back.}
-{167}{}{Sim. Por quê?}
+{167}{}{Sim. Por quÃª?}
 {168}{}{Well, I have a wrench and a pair of pliers right here.}
 {169}{}{Maybe I could go find some and bring them back to you.}
 {170}{}{What's the problem with getting more tools?}
 {171}{}{Oh. Well, thanks for the advice.}
 {172}{}{I won't hold my breath, but if you want to, go ahead. It's your time, not mine. I might be able to scrape together a little to pay you for your trouble.}
 {173}{}{If I find a wrench and a pair of pliers, I'll bring them by.}
-{174}{}{Você aceita?}
+{174}{}{VocÃª aceita?}
 {175}{}{Yeah. Here you go.}
 {176}{}{Uh... thanks. I mean, they're not great, but they'll do. Where did you... oh, never mind. It's not important. Here's a few bucks for your trouble.}
 {177}{}{Thanks. Say, I had some questions...}
@@ -138,24 +138,24 @@
 {235}{}{Hmmmm. I've got a low-light scope I can put on that FN FAL you got for $3500.}
 {236}{}{Aumente o pente do rifle de assalto AK-112.}
 {237}{}{How about $1350 for upgrading the assault rifle?}
-{238}{}{Instale essa visão noturna no FN FAL.}
+{238}{}{Instale essa visÃ£o noturna no FN FAL.}
 {239}{}{How about $3100 for the low-light scope?}
 {240}{}{Could you upgrade one of my other weapons?}
 {241}{}{Never mind. I wanted something else...}
 {242}{}{Na verdade, nenhuma delas. Preciso ir.}
 {243}{}{I'll be back when I have more cash to spare.}
 {244}{}{I suppose I could juice up that cattleprod for you. It'll cost you $750.}
-{245}{}{Está bem. }
+{245}{}{EstÃ¡ bem. }
 {246}{}{How about $650 instead?}
 {247}{}{Actually, could you upgrade one of my other weapons instead?}
-{248}{}{Esqueçe. Eu queria outra coisa...}
+{248}{}{EsqueÃ§e. Eu queria outra coisa...}
 {249}{}{Na verdade, nenhuma delas. Preciso ir.}
-{250}{}{É muita grana pro meu bolso. Volto quando tiver mais dinheiro.}
+{250}{}{Ã‰ muita grana pro meu bolso. Volto quando tiver mais dinheiro.}
 {251}{}{I see you've picked up some tricks from my cheapskate father. Give me about an hour, and it'll be good to go...}
 {252}{}{All right, all right. You sound just like my cheapskate Dad. Give me about an hour, and it'll be good to go...}
 {253}{}{All right, give me about an hour, and it'll be good to go...}
 {254}{}{Tudo certo.}
-{255}{}{Não que você vá. Mais alguma coisa?}
+{255}{}{NÃ£o que vocÃª vÃ¡. Mais alguma coisa?}
 {256}{}{Eu tenho mais algumas perguntas...}
 {257}{}{Can you upgrade anything else I have?}
 {258}{}{Nothing more, today. Thanks.}

@@ -1,5 +1,5 @@
 {100}{}{I feel so strange... but was that her gardener or her best friend's second cousin's brother-in-law? My head hurts.}
-{101}{}{Csodás volt... de a férfi nem érdemelte meg a n?t.}
-{102}{}{<szipákolsz>}
-{103}{}{Miért olvasom még mindig ezt a szart?}
-{200}{}{Most, hogy elolvastad a könyvet, melegséget és bizsergést érzel, de semmi hasznosat nem tudtál meg bel?le.}
+{101}{}{CsodÃ¡s volt... de a fÃ©rfi nem Ã©rdemelte meg a n?t.}
+{102}{}{<szipÃ¡kolsz>}
+{103}{}{MiÃ©rt olvasom mÃ©g mindig ezt a szart?}
+{200}{}{Most, hogy elolvastad a kÃ¶nyvet, melegsÃ©get Ã©s bizsergÃ©st Ã©rzel, de semmi hasznosat nem tudtÃ¡l meg bel?le.}

@@ -1,30 +1,30 @@
-{100}{}{Ves a un grupo de extraños bien armados.}
-{101}{}{Siguen siendo un grupo de extraños bien armados.}
+{100}{}{Ves a un grupo de extraÃ±os bien armados.}
+{101}{}{Siguen siendo un grupo de extraÃ±os bien armados.}
 {102}{}{Portan armas limpias y bien brillantes y llevan una especie de placa en el pecho.}
-{103}{}{Estamos buscando patrullas de esclavistas. ¿Has visto alguna, forastero?}
+{103}{}{Estamos buscando patrullas de esclavistas. Â¿Has visto alguna, forastero?}
 {104}{}{Saludos, forastero. Espero que no seas un esclavista... por tu propio bien.}
-{105}{}{Me alegro de verte, forastero. No nos molestes y no habrá problemas.}
-{106}{}{Somos los Rangers de la RNC. Hacemos del mundo un lugar mejor. Pensé que te gustaría saberlo.}
+{105}{}{Me alegro de verte, forastero. No nos molestes y no habrÃ¡ problemas.}
+{106}{}{Somos los Rangers de la RNC. Hacemos del mundo un lugar mejor. PensÃ© que te gustarÃ­a saberlo.}
 {107}{}{Somos Rangers. Matar esclavistas es lo nuestro.}
-{108}{}{Maldito esclavista. ¡Vas a morir!}
-{109}{}{Mierda... ¡te lo advertí!}
-{110}{}{No necesitamos a los de tu clase por aquí... muere.}
-{111}{}{Siempre las pistolitas... ¿Es qué nadie puede rendirse sin más?}
-{112}{}{Bien, eso es... ¡comienza la temporada de caza!}
-{113}{}{Oh... conseguiré refuerzos. ¡No te muevas!}
-{114}{}{"Podemos con ellos" dijo. Claro…}
-{115}{}{¡Au-au-au-au-au!}
-{116}{}{¡Mierda! ¡Me largo de aquí!}
-{117}{}{¡No pienso morir por esto!}
-{118}{}{Veo que tienes un tatuaje ahí... la marca de los esclavistas. No serás un esclavista, ¿no?}
-{119}{}{Sí.}
+{108}{}{Maldito esclavista. Â¡Vas a morir!}
+{109}{}{Mierda... Â¡te lo advertÃ­!}
+{110}{}{No necesitamos a los de tu clase por aquÃ­... muere.}
+{111}{}{Siempre las pistolitas... Â¿Es quÃ© nadie puede rendirse sin mÃ¡s?}
+{112}{}{Bien, eso es... Â¡comienza la temporada de caza!}
+{113}{}{Oh... conseguirÃ© refuerzos. Â¡No te muevas!}
+{114}{}{"Podemos con ellos" dijo. Claroâ€¦}
+{115}{}{Â¡Au-au-au-au-au!}
+{116}{}{Â¡Mierda! Â¡Me largo de aquÃ­!}
+{117}{}{Â¡No pienso morir por esto!}
+{118}{}{Veo que tienes un tatuaje ahÃ­... la marca de los esclavistas. No serÃ¡s un esclavista, Â¿no?}
+{119}{}{SÃ­.}
 {120}{}{No.}
-{121}{}{Qué mala suerte... para ti. Somos los Rangers de la RNC. ¿Has oído hablar de nosotros? Matamos esclavistas.}
-{122}{}{Eres un mentiroso de mierda. ¡A por él!}
-{123}{}{Saludos, forastero. Somos los Rangers de la RNC. ¿Quién eres tú?}
+{121}{}{QuÃ© mala suerte... para ti. Somos los Rangers de la RNC. Â¿Has oÃ­do hablar de nosotros? Matamos esclavistas.}
+{122}{}{Eres un mentiroso de mierda. Â¡A por Ã©l!}
+{123}{}{Saludos, forastero. Somos los Rangers de la RNC. Â¿QuiÃ©n eres tÃº?}
 {124}{}{No es asunto tuyo.}
-{125}{}{Sí, he oído hablar de ti. Eres un Ranger, ¿no?}
-{126}{}{Sí.}
+{125}{}{SÃ­, he oÃ­do hablar de ti. Eres un Ranger, Â¿no?}
+{126}{}{SÃ­.}
 {127}{}{No es asunto tuyo.}
-{128}{}{Bien, sé todo lo antisocial que quieras. Al menos no eres un esclavista. Adiós.}
+{128}{}{Bien, sÃ© todo lo antisocial que quieras. Al menos no eres un esclavista. AdiÃ³s.}
 {129}{}{Encantado de conocerte, camarada. Ten cuidado. Nos vemos.}

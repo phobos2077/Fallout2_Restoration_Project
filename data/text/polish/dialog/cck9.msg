@@ -1,218 +1,218 @@
 {100}{}{Widzisz cyberpsa.}
 {101}{}{Widzisz K-9.}
-{102}{}{Widzisz cyberpsa. Jest w czêœci psem, a w czêœci maszyn¹.}
-{103}{}{Funkcje ¿yciowe mego pana usta³y. Czy mam byæ odt¹d twym s³ug¹?}
+{102}{}{Widzisz cyberpsa. Jest w czÄ™Å›ci psem, a w czÄ™Å›ci maszynÄ….}
+{103}{}{Funkcje Å¼yciowe mego pana ustaÅ‚y. Czy mam byÄ‡ odtÄ…d twym sÅ‚ugÄ…?}
 {104}{}{Uch... piesio gada?}
 {105}{}{Dobra. Ja lubi piesio.}
 {106}{}{Nie. Nie chce piesio.}
-{107}{}{Ha! Gadaj¹cy pies.}
-{108}{}{Jeden. Jestem psem. Dwa. Porozumiewam siê z tob¹ g³osowo przy u¿yciu potocznego jêzyka angielskiego. St¹d te¿ rozs¹dnym jest wniosek, ¿e odpowiedŸ na twoje pytanie brzmi: "Tak, piesio gada". A teraz czy zamierzasz odpowiedzieæ na pytanie, które postawi³em ci przed chwil¹?}
-{109}{}{Jeden. Jestem psem. Dwa. Porozumiewam siê z tob¹ g³osowo przy u¿yciu potocznego jêzyka angielskiego. St¹d te¿ rozs¹dnym jest wniosek, ¿e jestem gadaj¹cym psem. A teraz czy zamierzasz odpowiedzieæ na pytanie, które postawi³em ci przed chwil¹?}
-{110}{}{Wybaczyæ, ja zapomnieæ pytanie.}
+{107}{}{Ha! GadajÄ…cy pies.}
+{108}{}{Jeden. Jestem psem. Dwa. Porozumiewam siÄ™ z tobÄ… gÅ‚osowo przy uÅ¼yciu potocznego jÄ™zyka angielskiego. StÄ…d teÅ¼ rozsÄ…dnym jest wniosek, Å¼e odpowiedÅº na twoje pytanie brzmi: "Tak, piesio gada". A teraz czy zamierzasz odpowiedzieÄ‡ na pytanie, ktÃ³re postawiÅ‚em ci przed chwilÄ…?}
+{109}{}{Jeden. Jestem psem. Dwa. Porozumiewam siÄ™ z tobÄ… gÅ‚osowo przy uÅ¼yciu potocznego jÄ™zyka angielskiego. StÄ…d teÅ¼ rozsÄ…dnym jest wniosek, Å¼e jestem gadajÄ…cym psem. A teraz czy zamierzasz odpowiedzieÄ‡ na pytanie, ktÃ³re postawiÅ‚em ci przed chwilÄ…?}
+{110}{}{WybaczyÄ‡, ja zapomnieÄ‡ pytanie.}
 {111}{}{Tak.}
 {112}{}{Nie.}
-{113}{}{(Westchnienie) Uwa¿aj. Skup siê. Popatrz mi w oczy. Mogê pytaæ?}
-{114}{}{Pytaæ co?}
-{115}{}{Tak. Ja chcieæ zacz¹æ.}
-{116}{}{Ja... gdyby nie fakt, ¿e twoje IQ jest ni¿sze ni¿ mój wzrost wyra¿ony w stopach, pomyœla³bym, ¿e usi³ujesz mnie zirytowaæ. A teraz b¹dŸ cicho. Uwa¿aj. Skup siê. Popatrz mi w oczy. Za chwilê zadam ci pytanie.}
-{117}{}{No ju¿. Co ciê powstrzymuje?}
-{118}{}{Funkcje ¿yciowe mego pana usta³y. Czy mam byæ odt¹d twym s³ug¹?}
+{113}{}{(Westchnienie) UwaÅ¼aj. Skup siÄ™. Popatrz mi w oczy. MogÄ™ pytaÄ‡?}
+{114}{}{PytaÄ‡ co?}
+{115}{}{Tak. Ja chcieÄ‡ zaczÄ…Ä‡.}
+{116}{}{Ja... gdyby nie fakt, Å¼e twoje IQ jest niÅ¼sze niÅ¼ mÃ³j wzrost wyraÅ¼ony w stopach, pomyÅ›laÅ‚bym, Å¼e usiÅ‚ujesz mnie zirytowaÄ‡. A teraz bÄ…dÅº cicho. UwaÅ¼aj. Skup siÄ™. Popatrz mi w oczy. Za chwilÄ™ zadam ci pytanie.}
+{117}{}{No juÅ¼. Co ciÄ™ powstrzymuje?}
+{118}{}{Funkcje Å¼yciowe mego pana ustaÅ‚y. Czy mam byÄ‡ odtÄ…d twym sÅ‚ugÄ…?}
 {119}{}{Uch... piesio gada?}
 {120}{}{Tak. Ja chce piesio.}
-{121}{}{Nie, dziêkujê.}
-{122}{}{Brzmi nieŸle.}
-{123}{}{Nie, dziêkujê.}
-{124}{}{Ja... odmawiam przechodzenia przez to po raz drugi! Gdybym by³ w pe³ni zdolny do przemieszczania siê, ugryz³bym ciê w miêsist¹ czêœæ twych ni¿szych partii, potocznie okreœl¹ jako...}
-{125}{}{Dupa. Ja wie co to dupa. Ja nie pó³ g³ówka. Ja tylko ¿artowaæ.}
-{126}{}{Och, ¿art. Haha hau hau hau. No to jak, mam byæ twoim s³ug¹ czy nie?}
+{121}{}{Nie, dziÄ™kujÄ™.}
+{122}{}{Brzmi nieÅºle.}
+{123}{}{Nie, dziÄ™kujÄ™.}
+{124}{}{Ja... odmawiam przechodzenia przez to po raz drugi! Gdybym byÅ‚ w peÅ‚ni zdolny do przemieszczania siÄ™, ugryzÅ‚bym ciÄ™ w miÄ™sistÄ… czÄ™Å›Ä‡ twych niÅ¼szych partii, potocznie okreÅ›lÄ… jako...}
+{125}{}{Dupa. Ja wie co to dupa. Ja nie pÃ³Å‚ gÅ‚Ã³wka. Ja tylko Å¼artowaÄ‡.}
+{126}{}{Och, Å¼art. Haha hau hau hau. No to jak, mam byÄ‡ twoim sÅ‚ugÄ… czy nie?}
 {127}{}{Dobra. Ja lubi piesio.}
 {128}{}{Nie. Nie chce piesio.}
-{129}{}{Doskonale. Potrzebujê naprawy. Mój motywator zosta³ usuniêty. ZnajdŸ go i wymieñ, a do³¹czê do ciebie.}
-{130}{}{Uch... gdzie znaleŸæ?}
-{131}{}{Wiesz mo¿e, gdzie mo¿na znaleŸæ tak¹ czêœæ?}
-{132}{}{Nie mam pewnoœci. Spróbowa³bym w obs³udze naziemnej. To na górze, w pó³nocno-wschodnim rogu bazy.}
-{133}{}{Dobra. Ja iœæ.}
-{134}{}{Pójdê tam. Jeœli nic tam nie znajdê, poszukam w okolicy.}
-{135}{}{A wiêc odejdŸ w pokoju.}
-{136}{}{W porz¹dku.}
+{129}{}{Doskonale. PotrzebujÄ™ naprawy. MÃ³j motywator zostaÅ‚ usuniÄ™ty. ZnajdÅº go i wymieÅ„, a doÅ‚Ä…czÄ™ do ciebie.}
+{130}{}{Uch... gdzie znaleÅºÄ‡?}
+{131}{}{Wiesz moÅ¼e, gdzie moÅ¼na znaleÅºÄ‡ takÄ… czÄ™Å›Ä‡?}
+{132}{}{Nie mam pewnoÅ›ci. SprÃ³bowaÅ‚bym w obsÅ‚udze naziemnej. To na gÃ³rze, w pÃ³Å‚nocno-wschodnim rogu bazy.}
+{133}{}{Dobra. Ja iÅ›Ä‡.}
+{134}{}{PÃ³jdÄ™ tam. JeÅ›li nic tam nie znajdÄ™, poszukam w okolicy.}
+{135}{}{A wiÄ™c odejdÅº w pokoju.}
+{136}{}{W porzÄ…dku.}
 {137}{}{Jasne.}
-{138}{}{Witam ponownie. Funkcje ¿yciowe mojego pana usta³y. Czy mam byæ odt¹d twym s³ug¹?}
-{139}{}{W porz¹dku.}
+{138}{}{Witam ponownie. Funkcje Å¼yciowe mojego pana ustaÅ‚y. Czy mam byÄ‡ odtÄ…d twym sÅ‚ugÄ…?}
+{139}{}{W porzÄ…dku.}
 {140}{}{Nie.}
 {141}{}{Dobrze.}
-{142}{}{Nie, dziêkujê.}
-{143}{}{Nie jesteœ moim panem. Nie mogê z tob¹ rozmawiaæ. Do widzenia.}
-{144}{}{W porz¹dku.}
-{145}{}{Witam i do us³ug. Czy masz ju¿ mój motywator?}
-{146}{}{Nie, ja jeszcze szukaæ.}
-{147}{}{Tak. Ja znaleŸæ.}
-{148}{}{Nie, wci¹¿ go szukam.}
+{142}{}{Nie, dziÄ™kujÄ™.}
+{143}{}{Nie jesteÅ› moim panem. Nie mogÄ™ z tobÄ… rozmawiaÄ‡. Do widzenia.}
+{144}{}{W porzÄ…dku.}
+{145}{}{Witam i do usÅ‚ug. Czy masz juÅ¼ mÃ³j motywator?}
+{146}{}{Nie, ja jeszcze szukaÄ‡.}
+{147}{}{Tak. Ja znaleÅºÄ‡.}
+{148}{}{Nie, wciÄ…Å¼ go szukam.}
 {149}{}{Mam go tutaj.}
-{150}{}{Poczekam wiêc tu na twój powrót.}
-{151}{}{W porz¹dku.}
-{152}{}{A wiêc zaintaluj go! Proszê, proszê, proszê!}
-{153}{}{Dobra. Spokój.}
-{154}{}{Jestem teraz, jak s¹dzê, w pe³ni sprawny. Czy mam do ciebie do³¹czyæ?}
-{155}{}{To siê nie tak wk³ada. Czy masz pewnoœæ, ¿e wiesz co robisz?}
-{156}{}{Dobra. Pieso i ja iœæ.}
-{157}{}{Ja wie co robi! Ja spróbowaæ znowu.}
-{158}{}{Tak, chodŸmy.}
-{159}{}{Hej, umiem naprawiaæ rzeczy bardziej skomplikowane ni¿ twój zapchlony psi ty³ek. Zamknij siê i daj mi spróbowaæ ponownie.}
-{160}{}{OdejdŸ. Nie chcê byæ s³ug¹ kogoœ takiego jak ty.}
-{161}{}{OdejdŸ w pokoju.}
-{162}{}{Nie lubiê ciê. OdejdŸ}
-{163}{}{Zlikwidujê ciê.}
-{164}{}{Kierujê uzbrojenie na cel. Gotujê siê do przechwycenia.}
+{150}{}{Poczekam wiÄ™c tu na twÃ³j powrÃ³t.}
+{151}{}{W porzÄ…dku.}
+{152}{}{A wiÄ™c zaintaluj go! ProszÄ™, proszÄ™, proszÄ™!}
+{153}{}{Dobra. SpokÃ³j.}
+{154}{}{Jestem teraz, jak sÄ…dzÄ™, w peÅ‚ni sprawny. Czy mam do ciebie doÅ‚Ä…czyÄ‡?}
+{155}{}{To siÄ™ nie tak wkÅ‚ada. Czy masz pewnoÅ›Ä‡, Å¼e wiesz co robisz?}
+{156}{}{Dobra. Pieso i ja iÅ›Ä‡.}
+{157}{}{Ja wie co robi! Ja sprÃ³bowaÄ‡ znowu.}
+{158}{}{Tak, chodÅºmy.}
+{159}{}{Hej, umiem naprawiaÄ‡ rzeczy bardziej skomplikowane niÅ¼ twÃ³j zapchlony psi tyÅ‚ek. Zamknij siÄ™ i daj mi sprÃ³bowaÄ‡ ponownie.}
+{160}{}{OdejdÅº. Nie chcÄ™ byÄ‡ sÅ‚ugÄ… kogoÅ› takiego jak ty.}
+{161}{}{OdejdÅº w pokoju.}
+{162}{}{Nie lubiÄ™ ciÄ™. OdejdÅº}
+{163}{}{ZlikwidujÄ™ ciÄ™.}
+{164}{}{KierujÄ™ uzbrojenie na cel. GotujÄ™ siÄ™ do przechwycenia.}
 {165}{}{Ulegniesz zniszczeniu.}
-{166}{}{Tak? Jestem do us³ug.}
-{167}{}{Ty leczyæ siê.}
-{168}{}{Ty tu czekaæ. Ja wróciæ i zabraæ.}
-{169}{}{Uch... od³o¿yæ broñ. Dobra?}
-{170}{}{Ty staæ blisko.}
-{171}{}{Ty nie odchodziæ.}
-{172}{}{Ty za blisko. Ty siê odsun¹æ.}
-{173}{}{My iœæ dalej.}
+{166}{}{Tak? Jestem do usÅ‚ug.}
+{167}{}{Ty leczyÄ‡ siÄ™.}
+{168}{}{Ty tu czekaÄ‡. Ja wrÃ³ciÄ‡ i zabraÄ‡.}
+{169}{}{Uch... odÅ‚oÅ¼yÄ‡ broÅ„. Dobra?}
+{170}{}{Ty staÄ‡ blisko.}
+{171}{}{Ty nie odchodziÄ‡.}
+{172}{}{Ty za blisko. Ty siÄ™ odsunÄ…Ä‡.}
+{173}{}{My iÅ›Ä‡ dalej.}
 {174}{}{Wszystko.}
-{175}{}{Myœlê, ¿e to dobra pora, ¿eby siê podleczyæ.}
-{176}{}{Poczekaj tu a¿ wrócê, dobrze?}
-{177}{}{Od³ó¿ swoj¹ broñ, dobrze?}
-{178}{}{B¹dŸ blisko mnie.}
-{179}{}{Nie odchodŸ za daleko.}
-{180}{}{Musimy siê trochê rozsun¹æ.}
+{175}{}{MyÅ›lÄ™, Å¼e to dobra pora, Å¼eby siÄ™ podleczyÄ‡.}
+{176}{}{Poczekaj tu aÅ¼ wrÃ³cÄ™, dobrze?}
+{177}{}{OdÅ‚Ã³Å¼ swojÄ… broÅ„, dobrze?}
+{178}{}{BÄ…dÅº blisko mnie.}
+{179}{}{Nie odchodÅº za daleko.}
+{180}{}{Musimy siÄ™ trochÄ™ rozsunÄ…Ä‡.}
 {181}{}{Ruszajmy.}
 {182}{}{To tyle. Przynajmniej na razie.}
-{183}{}{Wszystkie uk³ady dzia³aj¹ z pe³n¹ wydajnoœci¹. Jestem do us³ug.}
-{184}{}{Moje uk³ady dzia³aj¹ z niemal najwy¿sz¹ mo¿liw¹ wydajnoœci¹. Jestem do us³ug.}
-{185}{}{Wykona³em wszystkie naprawy, jakie by³em w stanie wykonaæ, ale bêdzie mi potrzebna dalsza pomoc.}
-{186}{}{Wykona³em wszystkie naprawy, jakie by³em w stanie wykonaæ, ale jeœli nie otrzymam pomocy, rozpad systemu jest nieunikniony.}
-{187}{}{Ty tu czekaæ. Ja wróciæ i zabraæ.}
-{188}{}{Uch... od³o¿yæ broñ. Dobra?}
-{189}{}{Ty staæ blisko.}
-{190}{}{Ty nie odchodziæ.}
-{191}{}{Ty za blisko. Ty siê odsun¹æ.}
-{192}{}{My iœæ dalej.}
+{183}{}{Wszystkie ukÅ‚ady dziaÅ‚ajÄ… z peÅ‚nÄ… wydajnoÅ›ciÄ…. Jestem do usÅ‚ug.}
+{184}{}{Moje ukÅ‚ady dziaÅ‚ajÄ… z niemal najwyÅ¼szÄ… moÅ¼liwÄ… wydajnoÅ›ciÄ…. Jestem do usÅ‚ug.}
+{185}{}{WykonaÅ‚em wszystkie naprawy, jakie byÅ‚em w stanie wykonaÄ‡, ale bÄ™dzie mi potrzebna dalsza pomoc.}
+{186}{}{WykonaÅ‚em wszystkie naprawy, jakie byÅ‚em w stanie wykonaÄ‡, ale jeÅ›li nie otrzymam pomocy, rozpad systemu jest nieunikniony.}
+{187}{}{Ty tu czekaÄ‡. Ja wrÃ³ciÄ‡ i zabraÄ‡.}
+{188}{}{Uch... odÅ‚oÅ¼yÄ‡ broÅ„. Dobra?}
+{189}{}{Ty staÄ‡ blisko.}
+{190}{}{Ty nie odchodziÄ‡.}
+{191}{}{Ty za blisko. Ty siÄ™ odsunÄ…Ä‡.}
+{192}{}{My iÅ›Ä‡ dalej.}
 {193}{}{Wszystko.}
-{194}{}{Poczekaj tu a¿ wrócê, dobrze?}
-{195}{}{Schowaj broñ.}
-{196}{}{B¹dŸ blisko mnie.}
-{197}{}{Nie odchodŸ za daleko.}
-{198}{}{Musimy siê trochê rozsun¹æ.}
+{194}{}{Poczekaj tu aÅ¼ wrÃ³cÄ™, dobrze?}
+{195}{}{Schowaj broÅ„.}
+{196}{}{BÄ…dÅº blisko mnie.}
+{197}{}{Nie odchodÅº za daleko.}
+{198}{}{Musimy siÄ™ trochÄ™ rozsunÄ…Ä‡.}
 {199}{}{Ruszajmy.}
 {200}{}{To tyle. Przynajmniej na razie.}
-{201}{}{Poczekam wiêc tu na twój powrót.}
-{202}{}{Ty leczyæ siê.}
-{203}{}{Uch... od³o¿yæ broñ. Dobra?}
-{204}{}{Ty staæ blisko.}
-{205}{}{Ty nie odchodziæ.}
-{206}{}{Ty za blisko. Ty siê odsun¹æ.}
-{207}{}{My iœæ dalej.}
+{201}{}{Poczekam wiÄ™c tu na twÃ³j powrÃ³t.}
+{202}{}{Ty leczyÄ‡ siÄ™.}
+{203}{}{Uch... odÅ‚oÅ¼yÄ‡ broÅ„. Dobra?}
+{204}{}{Ty staÄ‡ blisko.}
+{205}{}{Ty nie odchodziÄ‡.}
+{206}{}{Ty za blisko. Ty siÄ™ odsunÄ…Ä‡.}
+{207}{}{My iÅ›Ä‡ dalej.}
 {208}{}{Wszystko.}
-{209}{}{Myœlê, ¿e to dobra pora, ¿eby siê podleczyæ.}
-{210}{}{Schowaj broñ.}
-{211}{}{B¹dŸ blisko mnie.}
-{212}{}{Nie odchodŸ za daleko.}
-{213}{}{Musimy siê trochê rozsun¹æ.}
+{209}{}{MyÅ›lÄ™, Å¼e to dobra pora, Å¼eby siÄ™ podleczyÄ‡.}
+{210}{}{Schowaj broÅ„.}
+{211}{}{BÄ…dÅº blisko mnie.}
+{212}{}{Nie odchodÅº za daleko.}
+{213}{}{Musimy siÄ™ trochÄ™ rozsunÄ…Ä‡.}
 {214}{}{Ruszajmy.}
 {215}{}{To tyle. Przynajmniej na razie.}
-{216}{}{Zabezpieczam uzbrojenie. Do us³ug.}
-{217}{}{Ty leczyæ siê.}
-{218}{}{Ty tu czekaæ. Ja wróciæ i zabraæ.}
-{219}{}{Ty staæ blisko.}
-{220}{}{Ty nie odchodziæ.}
-{221}{}{Ty za blisko. Ty siê odsun¹æ.}
-{222}{}{My iœæ dalej.}
+{216}{}{Zabezpieczam uzbrojenie. Do usÅ‚ug.}
+{217}{}{Ty leczyÄ‡ siÄ™.}
+{218}{}{Ty tu czekaÄ‡. Ja wrÃ³ciÄ‡ i zabraÄ‡.}
+{219}{}{Ty staÄ‡ blisko.}
+{220}{}{Ty nie odchodziÄ‡.}
+{221}{}{Ty za blisko. Ty siÄ™ odsunÄ…Ä‡.}
+{222}{}{My iÅ›Ä‡ dalej.}
 {223}{}{Wszystko.}
-{224}{}{Myœlê, ¿e to dobra pora, ¿eby siê podleczyæ.}
-{225}{}{Poczekaj tu a¿ wrócê, dobrze?}
-{226}{}{B¹dŸ blisko mnie.}
-{227}{}{Nie odchodŸ za daleko.}
-{228}{}{Powinniœmy siê nieco rozsun¹æ.}
+{224}{}{MyÅ›lÄ™, Å¼e to dobra pora, Å¼eby siÄ™ podleczyÄ‡.}
+{225}{}{Poczekaj tu aÅ¼ wrÃ³cÄ™, dobrze?}
+{226}{}{BÄ…dÅº blisko mnie.}
+{227}{}{Nie odchodÅº za daleko.}
+{228}{}{PowinniÅ›my siÄ™ nieco rozsunÄ…Ä‡.}
 {229}{}{Ruszajmy.}
 {230}{}{To tyle. Przynajmniej na razie.}
-{231}{}{Zmniejszam odleg³oœæ miêdzy nami. Do us³ug.}
-{232}{}{Ty leczyæ siê.}
-{233}{}{Ty tu czekaæ. Ja wróciæ i zabraæ.}
-{234}{}{Uch... od³o¿yæ broñ. Dobra?}
-{235}{}{Ty nie odchodziæ.}
-{236}{}{Ty za blisko. Ty siê odsun¹æ.}
-{237}{}{My iœæ dalej.}
+{231}{}{Zmniejszam odlegÅ‚oÅ›Ä‡ miÄ™dzy nami. Do usÅ‚ug.}
+{232}{}{Ty leczyÄ‡ siÄ™.}
+{233}{}{Ty tu czekaÄ‡. Ja wrÃ³ciÄ‡ i zabraÄ‡.}
+{234}{}{Uch... odÅ‚oÅ¼yÄ‡ broÅ„. Dobra?}
+{235}{}{Ty nie odchodziÄ‡.}
+{236}{}{Ty za blisko. Ty siÄ™ odsunÄ…Ä‡.}
+{237}{}{My iÅ›Ä‡ dalej.}
 {238}{}{Wszystko.}
-{239}{}{Myœlê, ¿e to dobra pora, ¿eby siê podleczyæ.}
-{240}{}{Poczekaj tu a¿ wrócê, dobrze?}
-{241}{}{Schowaj broñ.}
-{242}{}{Nie odchodŸ za daleko.}
-{243}{}{Musimy siê trochê rozsun¹æ.}
+{239}{}{MyÅ›lÄ™, Å¼e to dobra pora, Å¼eby siÄ™ podleczyÄ‡.}
+{240}{}{Poczekaj tu aÅ¼ wrÃ³cÄ™, dobrze?}
+{241}{}{Schowaj broÅ„.}
+{242}{}{Nie odchodÅº za daleko.}
+{243}{}{Musimy siÄ™ trochÄ™ rozsunÄ…Ä‡.}
 {244}{}{Ruszajmy.}
 {245}{}{To tyle. Przynajmniej na razie.}
-{246}{}{Zwiêkszam odleg³oœæ miêdzy nami. Do us³ug.}
-{247}{}{Ty leczyæ siê.}
-{248}{}{Ty tu czekaæ. Ja wróciæ i zabraæ.}
-{249}{}{Uch... od³o¿yæ broñ. Dobra?}
-{250}{}{Ty staæ blisko.}
-{251}{}{Ty za blisko. Ty siê odsun¹æ.}
-{252}{}{My iœæ dalej.}
+{246}{}{ZwiÄ™kszam odlegÅ‚oÅ›Ä‡ miÄ™dzy nami. Do usÅ‚ug.}
+{247}{}{Ty leczyÄ‡ siÄ™.}
+{248}{}{Ty tu czekaÄ‡. Ja wrÃ³ciÄ‡ i zabraÄ‡.}
+{249}{}{Uch... odÅ‚oÅ¼yÄ‡ broÅ„. Dobra?}
+{250}{}{Ty staÄ‡ blisko.}
+{251}{}{Ty za blisko. Ty siÄ™ odsunÄ…Ä‡.}
+{252}{}{My iÅ›Ä‡ dalej.}
 {253}{}{Wszystko.}
-{254}{}{Myœlê, ¿e to dobra pora, ¿eby siê podleczyæ.}
-{255}{}{Poczekaj tu a¿ wrócê, dobrze?}
-{256}{}{Schowaj broñ.}
-{257}{}{B¹dŸ blisko mnie.}
-{258}{}{Musimy siê trochê rozsun¹æ.}
+{254}{}{MyÅ›lÄ™, Å¼e to dobra pora, Å¼eby siÄ™ podleczyÄ‡.}
+{255}{}{Poczekaj tu aÅ¼ wrÃ³cÄ™, dobrze?}
+{256}{}{Schowaj broÅ„.}
+{257}{}{BÄ…dÅº blisko mnie.}
+{258}{}{Musimy siÄ™ trochÄ™ rozsunÄ…Ä‡.}
 {259}{}{Ruszajmy.}
 {260}{}{To tyle. Przynajmniej na razie.}
-{261}{}{Zwiêkszam odleg³oœæ miêdzy nami. Do us³ug.}
-{262}{}{Ty leczyæ siê.}
-{263}{}{Ty tu czekaæ. Ja wróciæ i zabraæ.}
-{264}{}{Uch... od³o¿yæ broñ. Dobra?}
-{265}{}{Ty staæ blisko.}
-{266}{}{Ty nie odchodziæ.}
-{267}{}{My iœæ dalej.}
+{261}{}{ZwiÄ™kszam odlegÅ‚oÅ›Ä‡ miÄ™dzy nami. Do usÅ‚ug.}
+{262}{}{Ty leczyÄ‡ siÄ™.}
+{263}{}{Ty tu czekaÄ‡. Ja wrÃ³ciÄ‡ i zabraÄ‡.}
+{264}{}{Uch... odÅ‚oÅ¼yÄ‡ broÅ„. Dobra?}
+{265}{}{Ty staÄ‡ blisko.}
+{266}{}{Ty nie odchodziÄ‡.}
+{267}{}{My iÅ›Ä‡ dalej.}
 {268}{}{Wszystko.}
-{269}{}{Myœlê, ¿e to dobra pora, ¿eby siê podleczyæ.}
-{270}{}{Poczekaj tu a¿ wrócê, dobrze?}
-{271}{}{Schowaj broñ.}
-{272}{}{B¹dŸ blisko mnie.}
-{273}{}{Nie odchodŸ za daleko.}
+{269}{}{MyÅ›lÄ™, Å¼e to dobra pora, Å¼eby siÄ™ podleczyÄ‡.}
+{270}{}{Poczekaj tu aÅ¼ wrÃ³cÄ™, dobrze?}
+{271}{}{Schowaj broÅ„.}
+{272}{}{BÄ…dÅº blisko mnie.}
+{273}{}{Nie odchodÅº za daleko.}
 {274}{}{Ruszajmy.}
 {275}{}{To tyle. Przynajmniej na razie.}
-{276}{}{Przykro mi, ale odnoszê wra¿enie, ¿e w twojej dru¿ynie nie ma ju¿ miejsca. Poczekam tu, a¿ znajdzie siê wakat.}
-{277}{}{Jak rozka¿esz. Do us³ug.}
-{278}{}{Ty leczyæ siê.}
-{279}{}{Ty tu czekaæ. Ja wróciæ i zabraæ.}
-{280}{}{Uch... od³o¿yæ broñ. Dobra?}
-{281}{}{Ty staæ blisko.}
-{282}{}{Ty nie odchodziæ.}
-{283}{}{Ty za blisko. Ty siê odsun¹æ.}
+{276}{}{Przykro mi, ale odnoszÄ™ wraÅ¼enie, Å¼e w twojej druÅ¼ynie nie ma juÅ¼ miejsca. Poczekam tu, aÅ¼ znajdzie siÄ™ wakat.}
+{277}{}{Jak rozkaÅ¼esz. Do usÅ‚ug.}
+{278}{}{Ty leczyÄ‡ siÄ™.}
+{279}{}{Ty tu czekaÄ‡. Ja wrÃ³ciÄ‡ i zabraÄ‡.}
+{280}{}{Uch... odÅ‚oÅ¼yÄ‡ broÅ„. Dobra?}
+{281}{}{Ty staÄ‡ blisko.}
+{282}{}{Ty nie odchodziÄ‡.}
+{283}{}{Ty za blisko. Ty siÄ™ odsunÄ…Ä‡.}
 {284}{}{Wszystko.}
-{285}{}{Myœlê, ¿e to dobra pora, ¿eby siê podleczyæ.}
-{286}{}{Poczekaj tu a¿ wrócê, dobrze?}
-{287}{}{Schowaj broñ.}
-{288}{}{B¹dŸ blisko mnie.}
-{289}{}{Nie odchodŸ za daleko.}
-{290}{}{Musimy siê trochê rozsun¹æ.}
+{285}{}{MyÅ›lÄ™, Å¼e to dobra pora, Å¼eby siÄ™ podleczyÄ‡.}
+{286}{}{Poczekaj tu aÅ¼ wrÃ³cÄ™, dobrze?}
+{287}{}{Schowaj broÅ„.}
+{288}{}{BÄ…dÅº blisko mnie.}
+{289}{}{Nie odchodÅº za daleko.}
+{290}{}{Musimy siÄ™ trochÄ™ rozsunÄ…Ä‡.}
 {291}{}{To tyle. Przynajmniej na razie.}
-{292}{}{Pewnie. Wygl¹dasz na ca³kiem mi³ego pieska.}
-{293}{}{Nie, dziêki.}
-{300}{}{Ja smuciæ. Ja nie umi naprawiæ.}
-{301}{}{Przykro mi, ale nie umiem ciê naprawiæ.}
-{400}{}{Wydaje siê, ¿e brakuje ci jakiejœ czêœci.}
+{292}{}{Pewnie. WyglÄ…dasz na caÅ‚kiem miÅ‚ego pieska.}
+{293}{}{Nie, dziÄ™ki.}
+{300}{}{Ja smuciÄ‡. Ja nie umi naprawiÄ‡.}
+{301}{}{Przykro mi, ale nie umiem ciÄ™ naprawiÄ‡.}
+{400}{}{Wydaje siÄ™, Å¼e brakuje ci jakiejÅ› czÄ™Å›ci.}
 {410}{}{To niczego nie robi.}
-{420}{}{To nie daje ¿adnego skutku.}
-{800}{}{Uda³o ci siê naprawiæ K9.}
-{1000}{}{Tak? Jestem do us³ug.}
-{1100}{}{Wszystkie uk³ady dzia³aj¹ z pe³n¹ wydajnoœci¹. Jestem do us³ug.}
-{1200}{}{Moje uk³ady dzia³aj¹ z niemal najwy¿sz¹ mo¿liw¹ wydajnoœci¹. Jestem do us³ug.}
-{1300}{}{Wykona³em wszystkie naprawy, jakie by³em w stanie wykonaæ, ale bêdzie mi potrzebna dalsza pomoc.}
-{1400}{}{Wykona³em wszystkie naprawy, jakie by³em w stanie wykonaæ, ale jeœli nie otrzymam pomocy, rozpad systemu jest nieunikniony.}
-{1500}{}{Poczekam tu na twój powrót. Do us³ug.}
-{1600}{}{Czy oczekujesz, ¿e po³knê swoje zêby?}
-{1700}{}{Bêdê depta³ ci po piêtach. Do us³ug.}
-{1800}{}{Przeniosê siê na œredni dystans. Do us³ug.}
-{1900}{}{Przeniosê siê na najdalszy akceptowalny dystans. Do us³ug.}
-{2000}{}{Przykro mi, ale odnoszê wra¿enie, ¿e w twojej dru¿ynie nie ma ju¿ miejsca. Poczekam tu, a¿ znajdzie siê wakat.}
-{2200}{}{Jak rozka¿esz. Do us³ug.}
-{2300}{}{Mam futro. Nie noszê ¿adnego innego sprzêtu.}
-{2400}{}{Nie mam ochoty usuwaæ swojego futra.}
-{2500}{}{Zêby. Te bia³e, b³yszcz¹ce rzeczy zainstalowane w moich ustach.}
-{2700}{}{Jesteœ jeszcze wiêksz¹ kanali¹ ni¿ Schreber. Nie przy³¹czê siê do ciebie.}
+{420}{}{To nie daje Å¼adnego skutku.}
+{800}{}{UdaÅ‚o ci siÄ™ naprawiÄ‡ K9.}
+{1000}{}{Tak? Jestem do usÅ‚ug.}
+{1100}{}{Wszystkie ukÅ‚ady dziaÅ‚ajÄ… z peÅ‚nÄ… wydajnoÅ›ciÄ…. Jestem do usÅ‚ug.}
+{1200}{}{Moje ukÅ‚ady dziaÅ‚ajÄ… z niemal najwyÅ¼szÄ… moÅ¼liwÄ… wydajnoÅ›ciÄ…. Jestem do usÅ‚ug.}
+{1300}{}{WykonaÅ‚em wszystkie naprawy, jakie byÅ‚em w stanie wykonaÄ‡, ale bÄ™dzie mi potrzebna dalsza pomoc.}
+{1400}{}{WykonaÅ‚em wszystkie naprawy, jakie byÅ‚em w stanie wykonaÄ‡, ale jeÅ›li nie otrzymam pomocy, rozpad systemu jest nieunikniony.}
+{1500}{}{Poczekam tu na twÃ³j powrÃ³t. Do usÅ‚ug.}
+{1600}{}{Czy oczekujesz, Å¼e poÅ‚knÄ™ swoje zÄ™by?}
+{1700}{}{BÄ™dÄ™ deptaÅ‚ ci po piÄ™tach. Do usÅ‚ug.}
+{1800}{}{PrzeniosÄ™ siÄ™ na Å›redni dystans. Do usÅ‚ug.}
+{1900}{}{PrzeniosÄ™ siÄ™ na najdalszy akceptowalny dystans. Do usÅ‚ug.}
+{2000}{}{Przykro mi, ale odnoszÄ™ wraÅ¼enie, Å¼e w twojej druÅ¼ynie nie ma juÅ¼ miejsca. Poczekam tu, aÅ¼ znajdzie siÄ™ wakat.}
+{2200}{}{Jak rozkaÅ¼esz. Do usÅ‚ug.}
+{2300}{}{Mam futro. Nie noszÄ™ Å¼adnego innego sprzÄ™tu.}
+{2400}{}{Nie mam ochoty usuwaÄ‡ swojego futra.}
+{2500}{}{ZÄ™by. Te biaÅ‚e, bÅ‚yszczÄ…ce rzeczy zainstalowane w moich ustach.}
+{2700}{}{JesteÅ› jeszcze wiÄ™kszÄ… kanaliÄ… niÅ¼ Schreber. Nie przyÅ‚Ä…czÄ™ siÄ™ do ciebie.}
 {2800}{}{Bardzo dobrze. Jestem na twoje rozkazy.}
-{2900}{}{Masz umys³ kretyna. Nigdzie z tob¹ nie pójdê. OdejdŸ.}
+{2900}{}{Masz umysÅ‚ kretyna. Nigdzie z tobÄ… nie pÃ³jdÄ™. OdejdÅº.}

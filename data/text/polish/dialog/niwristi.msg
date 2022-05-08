@@ -1,14 +1,14 @@
-{100}{}{Widzisz du¿¹ kadŸ do pêdzenia bimbru. Ze œrodka dochodzi niski, bucz¹cy dŸwiêk.}
-{110}{}{Widzisz du¿¹ kadŸ do pêdzenia bimbru. W œrodku p³ywa ogon radskorpiona.}
-{120}{}{Widzisz du¿¹ kadŸ do pêdzenia bimbru. Jest zepsuta, a zniszczeñ chyba nie da siê naprawiæ.}
-{130}{}{KadŸ zatrzymuje siê. Chyba nie da siê ju¿ jej naprawiæ.}
-{140}{}{Wrzucasz to do kadzi i obserwujesz, jak zanurza siê, wypuszczaj¹c truciznê.}
+{100}{}{Widzisz duÅ¼Ä… kadÅº do pÄ™dzenia bimbru. Ze Å›rodka dochodzi niski, buczÄ…cy dÅºwiÄ™k.}
+{110}{}{Widzisz duÅ¼Ä… kadÅº do pÄ™dzenia bimbru. W Å›rodku pÅ‚ywa ogon radskorpiona.}
+{120}{}{Widzisz duÅ¼Ä… kadÅº do pÄ™dzenia bimbru. Jest zepsuta, a zniszczeÅ„ chyba nie da siÄ™ naprawiÄ‡.}
+{130}{}{KadÅº zatrzymuje siÄ™. Chyba nie da siÄ™ juÅ¼ jej naprawiÄ‡.}
+{140}{}{Wrzucasz to do kadzi i obserwujesz, jak zanurza siÄ™, wypuszczajÄ…c truciznÄ™.}
 {150}{}{Chyba jest nie do naprawy.}
 {200}{}{::Krrr-czzzz::}
-{201}{}{::Brzdêk::}
-{202}{}{::Brrrr-brzdêk::}
+{201}{}{::BrzdÄ™k::}
+{202}{}{::Brrrr-brzdÄ™k::}
 {203}{}{::Bum-bam::}
 {204}{}{::Zzzzzzttt::}
 {250}{}{Hmmmmmmmm}
 {251}{}{Thmmmmmmm}
-{300}{}{Uda³o ci siê zniszczyæ destylarniê rodziny Wrightów.}
+{300}{}{UdaÅ‚o ci siÄ™ zniszczyÄ‡ destylarniÄ™ rodziny WrightÃ³w.}

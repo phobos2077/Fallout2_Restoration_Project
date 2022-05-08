@@ -1,3 +1,3 @@
-{100}{}{Przed tob¹ Elektrownia Atomowa w Gecko.}
-{200}{}{Reaktor zosta³ zniszczony.}
-{300}{}{Robot naprawi³ elektrowniê.}
+{100}{}{Przed tobÄ… Elektrownia Atomowa w Gecko.}
+{200}{}{Reaktor zostaÅ‚ zniszczony.}
+{300}{}{Robot naprawiÅ‚ elektrowniÄ™.}

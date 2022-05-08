@@ -1,1 +1,1 @@
-{100}{}{Você recuperou o petroleiro fob.}
+{100}{}{VocÃª recuperou o petroleiro fob.}

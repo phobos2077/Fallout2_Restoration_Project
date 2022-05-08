@@ -1,1 +1,1 @@
-{100}{}{Poznajesz kilka interesuj¹cych sztuczek dotycz¹cych walki broni¹ energetyczn¹.}
+{100}{}{Poznajesz kilka interesujÄ…cych sztuczek dotyczÄ…cych walki broniÄ… energetycznÄ….}

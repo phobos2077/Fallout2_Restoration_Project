@@ -1,17 +1,17 @@
 {100}{}{Widzisz terminal komputerowy.}
 {101}{}{Widzisz komputerowy terminal ochrony.}
-{102}{}{Widzisz standardowy terminal komputerowy. Wygl¹da na to, ¿e jest w pe³ni sprawny i oczekuje na komendy.}
-{103}{}{Ten terminal nadzoruje generatory pól si³owych. Ze wskazañ wynika, ¿e wszystko funkcjonuje normalnie.}
-{104}{}{Ten terminal nadzoruje generatory pól si³owych. Ze wskazañ wynika, ¿e jednostka ta jest wy³¹czona ze wzglêdu na awariê zasilania.}
-{105}{}{Wy³¹cz pole si³owe.}
-{106}{}{W³¹cz pole si³owe.}
+{102}{}{Widzisz standardowy terminal komputerowy. WyglÄ…da na to, Å¼e jest w peÅ‚ni sprawny i oczekuje na komendy.}
+{103}{}{Ten terminal nadzoruje generatory pÃ³l siÅ‚owych. Ze wskazaÅ„ wynika, Å¼e wszystko funkcjonuje normalnie.}
+{104}{}{Ten terminal nadzoruje generatory pÃ³l siÅ‚owych. Ze wskazaÅ„ wynika, Å¼e jednostka ta jest wyÅ‚Ä…czona ze wzglÄ™du na awariÄ™ zasilania.}
+{105}{}{WyÅ‚Ä…cz pole siÅ‚owe.}
+{106}{}{WÅ‚Ä…cz pole siÅ‚owe.}
 {107}{}{Zrobione.}
-{108}{}{Wydajesz komendê wy³¹czenia pola si³owego.}
-{109}{}{Nie udaje ci siê obejœæ kodów bezpieczeñstwa, aby wy³¹czyæ pole si³owe.}
+{108}{}{Wydajesz komendÄ™ wyÅ‚Ä…czenia pola siÅ‚owego.}
+{109}{}{Nie udaje ci siÄ™ obejÅ›Ä‡ kodÃ³w bezpieczeÅ„stwa, aby wyÅ‚Ä…czyÄ‡ pole siÅ‚owe.}
 {110}{}{Zrobione.}
-{111}{}{Wydajesz komendê w³¹czenia pola si³owego.}
-{112}{}{Nie udaje ci siê obejœæ kodów bezpieczeñstwa, aby w³¹czyæ pole si³owe.}
+{111}{}{Wydajesz komendÄ™ wÅ‚Ä…czenia pola siÅ‚owego.}
+{112}{}{Nie udaje ci siÄ™ obejÅ›Ä‡ kodÃ³w bezpieczeÅ„stwa, aby wÅ‚Ä…czyÄ‡ pole siÅ‚owe.}
 {113}{}{Zrobione.}
-{114}{}{Ten terminal nadzoruje generatory pól si³owych. Ze wskazañ wynika, ¿e pole si³owe jest wy³¹czone.}
-{115}{}{Ten terminal nadzoruje generatory pól si³owych. Ze wskazañ wynika, ¿e pole si³owe zosta³o tymczasowo wy³¹czone.}
-{116}{}{Ten terminal nadzoruje generatory pól si³owych. Ze wskazañ wynika, ¿e pole si³owe zosta³o naruszone przez si³y obce.}
+{114}{}{Ten terminal nadzoruje generatory pÃ³l siÅ‚owych. Ze wskazaÅ„ wynika, Å¼e pole siÅ‚owe jest wyÅ‚Ä…czone.}
+{115}{}{Ten terminal nadzoruje generatory pÃ³l siÅ‚owych. Ze wskazaÅ„ wynika, Å¼e pole siÅ‚owe zostaÅ‚o tymczasowo wyÅ‚Ä…czone.}
+{116}{}{Ten terminal nadzoruje generatory pÃ³l siÅ‚owych. Ze wskazaÅ„ wynika, Å¼e pole siÅ‚owe zostaÅ‚o naruszone przez siÅ‚y obce.}

@@ -1,48 +1,48 @@
 {100}{}{Du siehst einen Boxer.}
-{150}{}{Du siehst einen ausgesprochen muskulösen Schwarzen. Er sieht so aus, als ob er gerade mit dem Training fertig ist.}
+{150}{}{Du siehst einen ausgesprochen muskulÃ¶sen Schwarzen. Er sieht so aus, als ob er gerade mit dem Training fertig ist.}
 {151}{}{Du siehst eine riesigen Schwarzen. Wirklich RIESIG.}
 {152}{}{Er sieht so aus, als ob er gerade mit dem Training fertig ist.}
-{153}{}{Du hast ihn fast für einen kleinen Berg gehalten.}
+{153}{}{Du hast ihn fast fÃ¼r einen kleinen Berg gehalten.}
 {154}{}{Er ist riesig. Riiiieesig.}
 {155}{}{Er grinst dich zahnlos an.}
 {156}{}{Er sieht so aus, als ob er gerade mit dem Training fertig ist.}
-{157}{}{Du hast ihn fast für einen kleinen Berg gehalten.}
+{157}{}{Du hast ihn fast fÃ¼r einen kleinen Berg gehalten.}
 {158}{}{Er ist riesig. Riiiieesig.}
 {159}{}{Er grinst dich zahnlos an.}
-{160}{}{Er schlägt auf einen unsichtbaren Gegner ein und knurrt Drohungen in die Luft.}
-{161}{}{Er sieht vorübergehend verwirrt aus, als ob er vergessen hätte, wer er ist, dann lächelt er und kratzt sich am Kopf.}
+{160}{}{Er schlÃ¤gt auf einen unsichtbaren Gegner ein und knurrt Drohungen in die Luft.}
+{161}{}{Er sieht vorÃ¼bergehend verwirrt aus, als ob er vergessen hÃ¤tte, wer er ist, dann lÃ¤chelt er und kratzt sich am Kopf.}
 {162}{}{Er macht Kniebeugen.}
-{163}{}{Du siehst einen großen Weißen. Er hat Arme wie Baumstämme.}
-{164}{}{Du siehst einen ausgesprochen muskulösen Weißen. Er lässt die Muskeln spielen und grunzt vor sich hin.}
-{165}{}{Du siehst einen ausgesprochen muskulösen Weißen. Er sieht deinen Kopf an, als ob er ein Sandsack wäre.}
-{166}{}{Er schlägt auf einen unsichtbaren Gegner ein und knurrt Drohungen in die Luft.}
-{167}{}{Er sieht vorübergehend verwirrt aus, als ob er vergessen hätte, wer er ist, dann lächelt er und kratzt sich am Kopf.}
-{168}{}{Er sieht deinen Kopf an, als ob er ein Sandsack wäre.}
+{163}{}{Du siehst einen groÃŸen WeiÃŸen. Er hat Arme wie BaumstÃ¤mme.}
+{164}{}{Du siehst einen ausgesprochen muskulÃ¶sen WeiÃŸen. Er lÃ¤sst die Muskeln spielen und grunzt vor sich hin.}
+{165}{}{Du siehst einen ausgesprochen muskulÃ¶sen WeiÃŸen. Er sieht deinen Kopf an, als ob er ein Sandsack wÃ¤re.}
+{166}{}{Er schlÃ¤gt auf einen unsichtbaren Gegner ein und knurrt Drohungen in die Luft.}
+{167}{}{Er sieht vorÃ¼bergehend verwirrt aus, als ob er vergessen hÃ¤tte, wer er ist, dann lÃ¤chelt er und kratzt sich am Kopf.}
+{168}{}{Er sieht deinen Kopf an, als ob er ein Sandsack wÃ¤re.}
 {200}{}{Hnffff}
 {201}{}{Hnrggg}
-{202}{}{::Lässt die Muskeln spielen::}
-{203}{}{::Der Boxer sieht dich mit ängstlichem Blick an::}
+{202}{}{::LÃ¤sst die Muskeln spielen::}
+{203}{}{::Der Boxer sieht dich mit Ã¤ngstlichem Blick an::}
 {204}{}{Jaa?}
-{205}{}{Kann iff 'n parr Pfähne borgen?}
+{205}{}{Kann iff 'n parr PfÃ¤hne borgen?}
 {206}{}{Du brauchen Agenten?}
 {207}{}{A-ha.}
 {208}{}{::Nickt dumm zu allem, was du sagst::}
-{209}{}{Du große Person. Ich klein.}
-{210}{}{Du zäh. Ich schwach.}
+{209}{}{Du groÃŸe Person. Ich klein.}
+{210}{}{Du zÃ¤h. Ich schwach.}
 {211}{}{Ich Hunger.}
 {212}{}{Ich nix mag reden.}
 {213}{}{Du riechen guuuut.}
 {214}{}{Du riechen wie Mama.}
-{215}{}{Genug geredet. Zeit fürs Bett.}
+{215}{}{Genug geredet. Zeit fÃ¼rs Bett.}
 {216}{}{::Grinst zahnlos::}
 {217}{}{::kratzt sich::}
-{218}{}{::Lässt die Muskeln spielen::}
+{218}{}{::LÃ¤sst die Muskeln spielen::}
 {219}{}{Grunz}
-{220}{}{Du mich kämpfen?}
-{221}{}{Böse werden böse werden böse werden.}
+{220}{}{Du mich kÃ¤mpfen?}
+{221}{}{BÃ¶se werden bÃ¶se werden bÃ¶se werden.}
 {222}{}{Foh-Kuss, Foh-Kuss.}
 {223}{}{Mach ernst.}
-{224}{}{Kämpf dich an dem Mistkerl vorbei.}
+{224}{}{KÃ¤mpf dich an dem Mistkerl vorbei.}
 {225}{}{Ich brauchen Agent.}
 {226}{}{Du kleine Person.}
 {227}{}{Ich nix mag reden.}
@@ -54,25 +54,25 @@
 {305}{}{Ufff}
 {310}{}{Zu langsam!}
 {311}{}{Nicht das Gesicht!}
-{312}{}{Du schlägst ja wie meine Großmutter zu!}
-{313}{}{Nicht unter die Gürtellinie schlagen!}
+{312}{}{Du schlÃ¤gst ja wie meine GroÃŸmutter zu!}
+{313}{}{Nicht unter die GÃ¼rtellinie schlagen!}
 {314}{}{Du bist nich' schlecht.}
 {315}{}{Is' das alles, was du kannst?}
 {320}{}{Und unten bleiben!}
-{321}{}{Hast ganz schön was eingesteckt!}
+{321}{}{Hast ganz schÃ¶n was eingesteckt!}
 {322}{}{Wer hat hier das Sagen?}
 {323}{}{Wenn er stirbt, stirbt er.}
-{330}{}{Hätte Konkurrenz sein können!}
+{330}{}{HÃ¤tte Konkurrenz sein kÃ¶nnen!}
 {331}{}{Wie konnte so ein...geggghhh...}
 {332}{}{*Schleeuuuuuderrr*}
-{333}{}{Oooh, Bären...}
+{333}{}{Oooh, BÃ¤ren...}
 {334}{}{Ich glaub, ich bleib hier einfach 'ne Weile liegen.}
 {335}{}{Kein Schmerz, kein Schmerz, kein Schmerz...}
 {340}{}{Nimm das!}
 {341}{}{Willste was hiervon?!}
 {342}{}{Schlampe!}
-{343}{}{Jetzt gehörst du mir.}
-{344}{}{Solche wie dich ess' ich zum Frühstück.}
+{343}{}{Jetzt gehÃ¶rst du mir.}
+{344}{}{Solche wie dich ess' ich zum FrÃ¼hstÃ¼ck.}
 {345}{}{Haaduhkin.}
 {346}{}{Jetzt STIRBST du.}
 {347}{}{SUPER...NUKLEARE...TORNADO...FAUST...}
@@ -80,17 +80,17 @@
 {351}{}{Du gehst zu Boden!}
 {352}{}{Mach dich zur Schnecke...}
 {353}{}{Ich muss dich brechen.}
-{354}{}{Du kämpfst ja wie ein Idiot!}
+{354}{}{Du kÃ¤mpfst ja wie ein Idiot!}
 {355}{}{Du hast keinen Mumm!}
 {356}{}{Du bist ein Verlierer! Ein Verlierer!}
 {357}{}{Ich werd dich wie einen Hund schlagen...}
 {360}{}{Es wird keine Revanche geben!}
-{361}{}{Schlägst wie 'n Schmetterling...}
-{362}{}{Hände oben halten...}
+{361}{}{SchlÃ¤gst wie 'n Schmetterling...}
+{362}{}{HÃ¤nde oben halten...}
 {363}{}{Bleib aufmerksam!}
-{364}{}{Kämpf dich an dem Penner vorbei!}
+{364}{}{KÃ¤mpf dich an dem Penner vorbei!}
 {365}{}{Mach ernst!}
 {366}{}{Komm doch, Mick.}
 {367}{}{Denk dran, immer weiter schlagen!}
 {368}{}{Ich seh drei!}
-{400}{}{Er schwitzt fürchterlich.}
+{400}{}{Er schwitzt fÃ¼rchterlich.}

@@ -1,48 +1,48 @@
-{100}{}{Egy világító ghoult látsz, arcán az aggodalom jeleivel.}
+{100}{}{Egy vilÃ¡gÃ­tÃ³ ghoult lÃ¡tsz, arcÃ¡n az aggodalom jeleivel.}
 {101}{}{You see Hank the glowing ghoul, a worker here in the power plant.}
-{102}{}{? egy világító ghoul. Folyamatosan ellen?riz néhány mér?m?szert.}
-{110}{}{Üdv, Hank vagyok. Én felügyelem a reaktormag környékét. Nem mintha túl sok mindenre kéne itt felügyelni.}
-{111}{}{Üdv, örülök, hogy megint erre jársz. Az ember olyan ellazultnak érzi magát itt a reaktormag közelében. A legtöbb simab?r? nem tudja, mit hagy ki.}
-{112}{}{Helló, Hank. Be kéne jutnom a reaktormaghoz.}
-{113}{}{Hank barátom, hoztam Haroldtól egy h?t?közeg jelentést, amit meg kéne nézned. Tessék...}
-{114}{}{Üdvözlet, Hank. Csak körbenézek. Viszlát!}
-{120}{}{Hehe... Nem javaslom, simab?r? barátom. Ropogósra sülnél az biztos. Én ugyan szeretem a meleget, de mégsem ajánlanám kipróbálásra. Egy egész pici h?ség és sugárzás van odabenn. Az er?m?vet épít? simab?r?ek ezért raktak be oda egy karbantartó robotot.}
-{121}{}{Miféle karbantartó robotot?}
-{122}{}{Köszönöm szépen. Viszlát!}
-{130}{}{Na, hadd nézzem csak... E szerint a h?t?közeg szintje túl magas. Azt gondolná az ember, hogy a h?tés kikapcsolása azonnali leolvadáshoz vezet, de lehet, hogy mégse. Azt hiszem, jobb lesz, ha lekapcsolom a h?tést.}
-{131}{}{A jelentés szerint a h?t?közeg szintje túl magas. Mit gondolsz, nem kéne kikapcsolni?}
-{132}{}{Remek okfejtés, Hank. Na, akkor én megyek is. Viszlát!}
-{133}{}{Most, hogy jobban végiggondolom, talán várhatnál vele egy kicsit. Hadd egyeztessek Harolddal, miel?tt lekapcsolnád a h?tést. Hamarosan jövök.}
+{102}{}{? egy vilÃ¡gÃ­tÃ³ ghoul. Folyamatosan ellen?riz nÃ©hÃ¡ny mÃ©r?m?szert.}
+{110}{}{Ãœdv, Hank vagyok. Ã‰n felÃ¼gyelem a reaktormag kÃ¶rnyÃ©kÃ©t. Nem mintha tÃºl sok mindenre kÃ©ne itt felÃ¼gyelni.}
+{111}{}{Ãœdv, Ã¶rÃ¼lÃ¶k, hogy megint erre jÃ¡rsz. Az ember olyan ellazultnak Ã©rzi magÃ¡t itt a reaktormag kÃ¶zelÃ©ben. A legtÃ¶bb simab?r? nem tudja, mit hagy ki.}
+{112}{}{HellÃ³, Hank. Be kÃ©ne jutnom a reaktormaghoz.}
+{113}{}{Hank barÃ¡tom, hoztam HaroldtÃ³l egy h?t?kÃ¶zeg jelentÃ©st, amit meg kÃ©ne nÃ©zned. TessÃ©k...}
+{114}{}{ÃœdvÃ¶zlet, Hank. Csak kÃ¶rbenÃ©zek. ViszlÃ¡t!}
+{120}{}{Hehe... Nem javaslom, simab?r? barÃ¡tom. RopogÃ³sra sÃ¼lnÃ©l az biztos. Ã‰n ugyan szeretem a meleget, de mÃ©gsem ajÃ¡nlanÃ¡m kiprÃ³bÃ¡lÃ¡sra. Egy egÃ©sz pici h?sÃ©g Ã©s sugÃ¡rzÃ¡s van odabenn. Az er?m?vet Ã©pÃ­t? simab?r?ek ezÃ©rt raktak be oda egy karbantartÃ³ robotot.}
+{121}{}{MifÃ©le karbantartÃ³ robotot?}
+{122}{}{KÃ¶szÃ¶nÃ¶m szÃ©pen. ViszlÃ¡t!}
+{130}{}{Na, hadd nÃ©zzem csak... E szerint a h?t?kÃ¶zeg szintje tÃºl magas. Azt gondolnÃ¡ az ember, hogy a h?tÃ©s kikapcsolÃ¡sa azonnali leolvadÃ¡shoz vezet, de lehet, hogy mÃ©gse. Azt hiszem, jobb lesz, ha lekapcsolom a h?tÃ©st.}
+{131}{}{A jelentÃ©s szerint a h?t?kÃ¶zeg szintje tÃºl magas. Mit gondolsz, nem kÃ©ne kikapcsolni?}
+{132}{}{Remek okfejtÃ©s, Hank. Na, akkor Ã©n megyek is. ViszlÃ¡t!}
+{133}{}{Most, hogy jobban vÃ©giggondolom, talÃ¡n vÃ¡rhatnÃ¡l vele egy kicsit. Hadd egyeztessek Harolddal, miel?tt lekapcsolnÃ¡d a h?tÃ©st. Hamarosan jÃ¶vÃ¶k.}
 {140}{}{Yeah, the smoothies that built this place didn't want to fry either, so they included a robot.
  It was designed to perform maintenance tasks by remote control from that terminal over there.}
-{141}{}{Remek, ezt kipróbálom!}
-{142}{}{Ezt ki kell próbálnom. Majd még jövök.}
-{150}{}{Szép kis alkatrészed van. Épp erre volt szükségünk.}
-{151}{}{Örülök, hogy tetszik. Van kedved üzembe helyezni?}
-{152}{}{Kösz, nekem is igazán tetszik. Viszlát!}
-{160}{}{Szeretnék segíteni, de nem tudom, hogy kell az ilyesmit beszerelni. Én többnyire csak figyelem itt a m?szereket. Próbáld meg Festust. ? itt a két lábon járó zseni... csak kérdezz rá nála.}
-{161}{}{Hol találom Festust?}
-{162}{}{Van esetleg másik mód?}
-{163}{}{Már itt sem vagyok.}
-{170}{}{Beszéltél már Festussal az alkatrész beszerelésér?l?}
-{171}{}{Hol találom meg?}
-{172}{}{Van esetleg másik mód?}
-{173}{}{Még nem. Talán most sort kerítek rá. Üdv!}
-{180}{}{Festust arra találod, amerr?l jöttél. Az irányítóteremben tölti az idejét. Nem igazán lehet összetéveszteni senkivel. Egy nagy rakás egoizmusba csomagolt b?zl?, nyavalygó fazon. Ellenben van esély, hogy segíthet rajtad.}
-{181}{}{Kösz. Viszlát!}
-{190}{}{Hát ha képes lennél irányítani a karbantartó robotot, az megcsinálná helyetted a beszerelést. Vagy, ha nincs jobb dolgod, menj be magad, és csináld meg egyedül.}
-{191}{}{Karbantartó robotot mondtál?}
-{192}{}{Én csináljam meg egyedül?}
-{200}{}{Hát mostanában nem m?ködött valami fényesen. Folyton túlhevült. Nincs szükség rá, hogy használjuk, ezért nem törtük magunkat, hogy megjavítsuk a rajta lév? h?pajzsot. Ha kibogarászod a vezérl?kódokat, és nem használod túl sokáig, lehetséges, hogy megteszi, amit akarsz t?le.}
-{201}{}{Kösz. Viszlát!}
-{210}{}{Köszönjük, hogy megjavítottad a reaktort.}
-{211}{}{Nincs itt h?vösebb mostanában?}
-{212}{}{Köszönjük, hogy segítettél rajtunk.}
-{220}{}{Még sosem hallottam így zümmögni.}
-{221}{}{Úgy dorombol, mint egy kiscica.}
+{141}{}{Remek, ezt kiprÃ³bÃ¡lom!}
+{142}{}{Ezt ki kell prÃ³bÃ¡lnom. Majd mÃ©g jÃ¶vÃ¶k.}
+{150}{}{SzÃ©p kis alkatrÃ©szed van. Ã‰pp erre volt szÃ¼ksÃ©gÃ¼nk.}
+{151}{}{Ã–rÃ¼lÃ¶k, hogy tetszik. Van kedved Ã¼zembe helyezni?}
+{152}{}{KÃ¶sz, nekem is igazÃ¡n tetszik. ViszlÃ¡t!}
+{160}{}{SzeretnÃ©k segÃ­teni, de nem tudom, hogy kell az ilyesmit beszerelni. Ã‰n tÃ¶bbnyire csak figyelem itt a m?szereket. PrÃ³bÃ¡ld meg Festust. ? itt a kÃ©t lÃ¡bon jÃ¡rÃ³ zseni... csak kÃ©rdezz rÃ¡ nÃ¡la.}
+{161}{}{Hol talÃ¡lom Festust?}
+{162}{}{Van esetleg mÃ¡sik mÃ³d?}
+{163}{}{MÃ¡r itt sem vagyok.}
+{170}{}{BeszÃ©ltÃ©l mÃ¡r Festussal az alkatrÃ©sz beszerelÃ©sÃ©r?l?}
+{171}{}{Hol talÃ¡lom meg?}
+{172}{}{Van esetleg mÃ¡sik mÃ³d?}
+{173}{}{MÃ©g nem. TalÃ¡n most sort kerÃ­tek rÃ¡. Ãœdv!}
+{180}{}{Festust arra talÃ¡lod, amerr?l jÃ¶ttÃ©l. Az irÃ¡nyÃ­tÃ³teremben tÃ¶lti az idejÃ©t. Nem igazÃ¡n lehet Ã¶sszetÃ©veszteni senkivel. Egy nagy rakÃ¡s egoizmusba csomagolt b?zl?, nyavalygÃ³ fazon. Ellenben van esÃ©ly, hogy segÃ­thet rajtad.}
+{181}{}{KÃ¶sz. ViszlÃ¡t!}
+{190}{}{HÃ¡t ha kÃ©pes lennÃ©l irÃ¡nyÃ­tani a karbantartÃ³ robotot, az megcsinÃ¡lnÃ¡ helyetted a beszerelÃ©st. Vagy, ha nincs jobb dolgod, menj be magad, Ã©s csinÃ¡ld meg egyedÃ¼l.}
+{191}{}{KarbantartÃ³ robotot mondtÃ¡l?}
+{192}{}{Ã‰n csinÃ¡ljam meg egyedÃ¼l?}
+{200}{}{HÃ¡t mostanÃ¡ban nem m?kÃ¶dÃ¶tt valami fÃ©nyesen. Folyton tÃºlhevÃ¼lt. Nincs szÃ¼ksÃ©g rÃ¡, hogy hasznÃ¡ljuk, ezÃ©rt nem tÃ¶rtÃ¼k magunkat, hogy megjavÃ­tsuk a rajta lÃ©v? h?pajzsot. Ha kibogarÃ¡szod a vezÃ©rl?kÃ³dokat, Ã©s nem hasznÃ¡lod tÃºl sokÃ¡ig, lehetsÃ©ges, hogy megteszi, amit akarsz t?le.}
+{201}{}{KÃ¶sz. ViszlÃ¡t!}
+{210}{}{KÃ¶szÃ¶njÃ¼k, hogy megjavÃ­tottad a reaktort.}
+{211}{}{Nincs itt h?vÃ¶sebb mostanÃ¡ban?}
+{212}{}{KÃ¶szÃ¶njÃ¼k, hogy segÃ­tettÃ©l rajtunk.}
+{220}{}{MÃ©g sosem hallottam Ã­gy zÃ¼mmÃ¶gni.}
+{221}{}{Ãšgy dorombol, mint egy kiscica.}
 {222}{}{Jobban m?xik, mint valaha.}
-{230}{}{Csak ne lábatlankodj és ne nyúlj semmihez!}
-{231}{}{Hogy jöttél be ide?}
-{232}{}{Miért nem sétálsz át azon az ajtón? Takaros kis hely az, kellemesen világít. Hehehe...}
-{300}{}{Telebeszélted Hank fejét, hogy elindítson egy reaktorolvadást.}
-{900}{}{Nem látod, hogy nem érek rá?!}
+{230}{}{Csak ne lÃ¡batlankodj Ã©s ne nyÃºlj semmihez!}
+{231}{}{Hogy jÃ¶ttÃ©l be ide?}
+{232}{}{MiÃ©rt nem sÃ©tÃ¡lsz Ã¡t azon az ajtÃ³n? Takaros kis hely az, kellemesen vilÃ¡gÃ­t. Hehehe...}
+{300}{}{TelebeszÃ©lted Hank fejÃ©t, hogy elindÃ­tson egy reaktorolvadÃ¡st.}
+{900}{}{Nem lÃ¡tod, hogy nem Ã©rek rÃ¡?!}

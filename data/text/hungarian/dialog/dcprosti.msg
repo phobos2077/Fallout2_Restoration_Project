@@ -1,4 +1,4 @@
-{100}{}{Egy prostit l·tsz.}
+{100}{}{Egy prostit l√°tsz.}
 {101}{}{She looks quite "worn".}
 {110}{}{Hey handsome.}
 {111}{}{Hey baby.}

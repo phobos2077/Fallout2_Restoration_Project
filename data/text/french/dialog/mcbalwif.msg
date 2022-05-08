@@ -2,9 +2,9 @@
 {101}{}{Jonny...}
 {102}{}{<Sniff>}
 {103}{}{Mon fils me manque.}
-{110}{}{Trouve Jonny, s'il te plaît.}
-{120}{}{Ramène-moi Jonny s'il te plaît.}
+{110}{}{Trouve Jonny, s'il te plaÃ®t.}
+{120}{}{RamÃ¨ne-moi Jonny s'il te plaÃ®t.}
 {121}{}{Merci de m'avoir rendu mon Jonny.}
 {150}{}{Tu vois la femme de Baltha.}
-{151}{}{Tu vois la femme de Baltha. Elle a l'air très inquiète.}
-{152}{}{Tu vois la femme de Baltha. Elle a l'air de bonne humeur à présent.}
+{151}{}{Tu vois la femme de Baltha. Elle a l'air trÃ¨s inquiÃ¨te.}
+{152}{}{Tu vois la femme de Baltha. Elle a l'air de bonne humeur Ã  prÃ©sent.}

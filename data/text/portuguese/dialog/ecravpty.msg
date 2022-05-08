@@ -1,69 +1,69 @@
-{100}{}{Esta pessoa parece estar balançando ligeiramente.}
-{101}{}{Você vê a festa de bartender.}
-{102}{}{Parece que ele está avaliando algumas de suas mercadorias.}
+{100}{}{Esta pessoa parece estar balanÃ§ando ligeiramente.}
+{101}{}{VocÃª vÃª a festa de bartender.}
+{102}{}{Parece que ele estÃ¡ avaliando algumas de suas mercadorias.}
 {103}{}{Wha ... whas ... o que eu consigo. [Caipira.]}
 {104}{}{Nuka Cola [$6]}
 {105}{}{Cerveja [$15]}
 {106}{}{Bebida [$30]}
 {107}{}{Nada hoje. Obrigado.}
 {108}{}{Ug.}
-{109}{}{Ohhhh ... isso não é nada divertido. [Ele lhe entrega sua bebida.]}
+{109}{}{Ohhhh ... isso nÃ£o Ã© nada divertido. [Ele lhe entrega sua bebida.]}
 {110}{}{[Fim]}
-{111}{}{Aqui você vai. É um pouco quente porque não teve tempo de esfriar. Vendo as coisas mais rapidamente do que eu
-  posso fazê-lo. [Está quente, é amarelo, é ...]}
+{111}{}{Aqui vocÃª vai. Ã‰ um pouco quente porque nÃ£o teve tempo de esfriar. Vendo as coisas mais rapidamente do que eu
+Â  posso fazÃª-lo. [EstÃ¡ quente, Ã© amarelo, Ã© ...]}
 {112}{}{[Fim]}
-{113}{}{[Você sente que as paredes do seu estômago se dissolverem à medida que você toma um grande gole.]}
+{113}{}{[VocÃª sente que as paredes do seu estÃ´mago se dissolverem Ã  medida que vocÃª toma um grande gole.]}
 {114}{}{[Fim]}
-{115}{}{Caraca...[hick] eu acho yuz tinha na ta bebidas já.}
+{115}{}{Caraca...[hick] eu acho yuz tinha na ta bebidas jÃ¡.}
 {116}{}{[Fim]}
-{117}{}{Ahhh homem! Você não tem muito dinheiro! Volte quando tiver a soma.}
+{117}{}{Ahhh homem! VocÃª nÃ£o tem muito dinheiro! Volte quando tiver a soma.}
 {118}{}{[Fim]}
 {119}{}{Ele tem um olhar selvagem para ele.}
-{120}{}{Você vê um viciado.}
+{120}{}{VocÃª vÃª um viciado.}
 {121}{}{Ele parece um pouco nervoso.}
-{122}{}{O que você quer? Eu entendi tudo!}
+{122}{}{O que vocÃª quer? Eu entendi tudo!}
 {123}{}{Mentats [$560]}
 {124}{}{Buffout [$400]}
 {125}{}{Psycho [$800]}
 {126}{}{Nada hoje. Obrigado.}
 {127}{}{Ug.}
-{128}{}{Isso é ótimo! Me dê seu dinheiro e saia para lá. Eu tenho um negócio para correr.}
+{128}{}{Isso Ã© Ã³timo! Me dÃª seu dinheiro e saia para lÃ¡. Eu tenho um negÃ³cio para correr.}
 {129}{}{[Fim]}
-{130}{}{Como diz o ditado. Sem dinheiro, não é amor. Oh. Isso é por sexo. Que tal, sem massa, nenhum golpe. Volte quando ganhou algum dinheiro.}
+{130}{}{Como diz o ditado. Sem dinheiro, nÃ£o Ã© amor. Oh. Isso Ã© por sexo. Que tal, sem massa, nenhum golpe. Volte quando ganhou algum dinheiro.}
 {131}{}{[Fim]}
-{132}{}{Heheheh! Parece que você pode  usar alguns mentats. Me dê $ 1000.}
+{132}{}{Heheheh! Parece que vocÃª pode  usar alguns mentats. Me dÃª $ 1000.}
 {133}{}{[Dar ao homem us $1000]}
 {134}{}{Eu vou.}
-{135}{}{OH SIM! Isso irá escolher o seu alto!}
+{135}{}{OH SIM! Isso irÃ¡ escolher o seu alto!}
 {136}{}{[FIM]}
-{150}{}{Ei, você é bonitinho; qual é seu nome?}
+{150}{}{Ei, vocÃª Ã© bonitinho; qual Ã© seu nome?}
 {151}{}{Alil mais alto. Oh, sim.}
-{152}{}{Você está pronto ... fique com isso?}
+{152}{}{VocÃª estÃ¡ pronto ... fique com isso?}
 {153}{}{Naw..naw..naw..naw nuh naw.}
 {154}{}{Assista assim. Sim.}
-{155}{}{Na não agora vá embora.}
+{155}{}{Na nÃ£o agora vÃ¡ embora.}
 {156}{}{Seja bebido por aqui.}
-{157}{}{Vá buscar o jiggy ..em outro lugar.}
-{158}{}{Que tal você e eu nos afastarmos da multidão?}
-{159}{}{Uhh, vamos fazê-lo!}
-{160}{}{Naa, eu estou bêbado.}
+{157}{}{VÃ¡ buscar o jiggy ..em outro lugar.}
+{158}{}{Que tal vocÃª e eu nos afastarmos da multidÃ£o?}
+{159}{}{Uhh, vamos fazÃª-lo!}
+{160}{}{Naa, eu estou bÃªbado.}
 {161}{}{[Burb] ::sorriso::}
-{170}{}{Ei, você quer ir atrás desse mato?}
-{171}{}{Você já esteve em alta e fez isto?}
-{172}{}{Eu poderia lhe mostrar as estrelas, bebê.}
-{173}{}{Você sabe que eu quero um pouco de amor'.}
-{174}{}{Eu estava esperando encontrar alguém que estava pronto para ir.}
+{170}{}{Ei, vocÃª quer ir atrÃ¡s desse mato?}
+{171}{}{VocÃª jÃ¡ esteve em alta e fez isto?}
+{172}{}{Eu poderia lhe mostrar as estrelas, bebÃª.}
+{173}{}{VocÃª sabe que eu quero um pouco de amor'.}
+{174}{}{Eu estava esperando encontrar alguÃ©m que estava pronto para ir.}
 {175}{}{Isso foi o suficiente para mim.}
-{176}{}{Ei, você tem um cigarro?}
-{177}{}{Hey, agora não fique muito ligado -- eu gosto da minha liberdade.}
-{178}{}{Você é tão elegante como uma pantera e eu quero você.}
-{179}{}{Você está pronto?}
-{180}{}{Agora não; Tenho que disparar.}
-{181}{}{Sirva as escotilhas. Nós estamos entrando.}
-{200}{}{Não seja um idiota!}
+{176}{}{Ei, vocÃª tem um cigarro?}
+{177}{}{Hey, agora nÃ£o fique muito ligado -- eu gosto da minha liberdade.}
+{178}{}{VocÃª Ã© tÃ£o elegante como uma pantera e eu quero vocÃª.}
+{179}{}{VocÃª estÃ¡ pronto?}
+{180}{}{Agora nÃ£o; Tenho que disparar.}
+{181}{}{Sirva as escotilhas. NÃ³s estamos entrando.}
+{200}{}{NÃ£o seja um idiota!}
 {201}{}{Ir de festa em outro lugar.}
-{202}{}{Quem deixou você?}
-{203}{}{Isso não é legal!}
+{202}{}{Quem deixou vocÃª?}
+{203}{}{Isso nÃ£o Ã© legal!}
 {204}{}{Cara frio.}
 {205}{}{Relaxa cara!}
-{210}{}{Parece que ele está avaliando algumas de suas próprias mercadorias.}
+{210}{}{Parece que ele estÃ¡ avaliando algumas de suas prÃ³prias mercadorias.}

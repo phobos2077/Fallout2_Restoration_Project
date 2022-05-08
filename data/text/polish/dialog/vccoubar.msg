@@ -1,146 +1,146 @@
 {100}{}{Widzisz kelnera.}
-{101}{}{Widzisz wysokiego mê¿czyznê w eleganckim ubraniu. Patrzy przed siebie i zdaje siê nie zwracaæ najmniejszej uwagi na klientów baru.}
+{101}{}{Widzisz wysokiego mÄ™Å¼czyznÄ™ w eleganckim ubraniu. Patrzy przed siebie i zdaje siÄ™ nie zwracaÄ‡ najmniejszej uwagi na klientÃ³w baru.}
 {102}{}{Widzisz kelnera.}
-{103}{}{Widzisz cz³owieka o kamiennej twarzy. Nawet jeœli ciê zauwa¿y³, to nie daje tego po sobie poznaæ.}
-{104}{}{Napijesz siê czegoœ, bohaterze?}
-{105}{}{Witaj, bohaterze. Proszê, usi¹dŸ sobie przy barze.}
-{106}{}{Proszê! Usi¹dŸ, odpocznij chwilê!}
-{107}{}{Dzieñ dobry, Kapitanie.}
+{103}{}{Widzisz czÅ‚owieka o kamiennej twarzy. Nawet jeÅ›li ciÄ™ zauwaÅ¼yÅ‚, to nie daje tego po sobie poznaÄ‡.}
+{104}{}{Napijesz siÄ™ czegoÅ›, bohaterze?}
+{105}{}{Witaj, bohaterze. ProszÄ™, usiÄ…dÅº sobie przy barze.}
+{106}{}{ProszÄ™! UsiÄ…dÅº, odpocznij chwilÄ™!}
+{107}{}{DzieÅ„ dobry, Kapitanie.}
 {108}{}{Kryptopolis na wieki, Kapitanie.}
-{109}{}{Dzieñ dobry, Obywatelu.}
+{109}{}{DzieÅ„ dobry, Obywatelu.}
 {110}{}{Kryptopolis ponad wszystkim, Obywatelu.}
-{111}{}{Mutant! Stra¿! Stra¿!}
-{112}{}{Ghul! Stra¿! Stra¿!}
-{113}{}{Przykro mi, wieczorem bar jest zamkniêty.}
-{114}{}{Bar jest zamkniêty. Wracam do domu, jak tylko skoñczê przegl¹daæ zapasy.}
-{115}{}{Nie macie domów, do których moglibyœcie pójœæ?}
-{116}{}{Witaj! S³yszeliœmy o twojej walce z Enklaw¹. Napijesz siê czegoœ?}
+{111}{}{Mutant! StraÅ¼! StraÅ¼!}
+{112}{}{Ghul! StraÅ¼! StraÅ¼!}
+{113}{}{Przykro mi, wieczorem bar jest zamkniÄ™ty.}
+{114}{}{Bar jest zamkniÄ™ty. Wracam do domu, jak tylko skoÅ„czÄ™ przeglÄ…daÄ‡ zapasy.}
+{115}{}{Nie macie domÃ³w, do ktÃ³rych moglibyÅ›cie pÃ³jÅ›Ä‡?}
+{116}{}{Witaj! SÅ‚yszeliÅ›my o twojej walce z EnklawÄ…. Napijesz siÄ™ czegoÅ›?}
 {117}{}{Jam-jam}
-{118}{}{OdejdŸ bez s³owa.}
+{118}{}{OdejdÅº bez sÅ‚owa.}
 {119}{}{Co masz do picia?}
 {120}{}{Szukam informacji.}
-{121}{}{Dziêki, ale dziœ nie skorzystam.}
-{122}{}{He-he, "jam-jam" nawzajem. Uwa¿aj na siebie podró¿uj¹c przez pustkowia.}
+{121}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{122}{}{He-he, "jam-jam" nawzajem. UwaÅ¼aj na siebie podrÃ³Å¼ujÄ…c przez pustkowia.}
 {123}{}{Uuum-ummm!}
-{124}{}{OdejdŸ bez s³owa.}
-{125}{}{Co mogê zrobiæ dla Kapitana Stra¿y?}
-{126}{}{Co mogê dla ciebie zrobiæ, Obywatelu?}
-{127}{}{Tak? W czym mogê pomóc?}
+{124}{}{OdejdÅº bez sÅ‚owa.}
+{125}{}{Co mogÄ™ zrobiÄ‡ dla Kapitana StraÅ¼y?}
+{126}{}{Co mogÄ™ dla ciebie zrobiÄ‡, Obywatelu?}
+{127}{}{Tak? W czym mogÄ™ pomÃ³c?}
 {128}{}{Jam-jam}
-{129}{}{OdejdŸ bez s³owa.}
+{129}{}{OdejdÅº bez sÅ‚owa.}
 {130}{}{Co masz do picia?}
 {131}{}{Szukam informacji.}
-{132}{}{Dziêki, ale dziœ nie skorzystam.}
-{133}{}{Tak, "jam-jam" nawzajem. Poczekaj tu chwilê, a¿ wezwê stra¿. Oni ciê "odjamjamuj¹" do g³ównej bramy.}
+{132}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{133}{}{Tak, "jam-jam" nawzajem. Poczekaj tu chwilÄ™, aÅ¼ wezwÄ™ straÅ¼. Oni ciÄ™ "odjamjamujÄ…" do gÅ‚Ã³wnej bramy.}
 {134}{}{Tum? Tup-tum.}
-{135}{}{OdejdŸ bez s³owa.}
+{135}{}{OdejdÅº bez sÅ‚owa.}
 {136}{}{"Serwujecie"? Jakie to... oryginalne.}
-{137}{}{Mamy wodê mineraln¹, wodê destylowan¹ i wodê gazowan¹. "Serwujemy" te¿ parê syntetycznych alkoholi.}
-{138}{}{Hmm... jakie syntetyczne alkohole masz na myœli?}
-{139}{}{Nie macie tu prawdziwych drinków?}
-{140}{}{Trochê wody poproszê.}
-{141}{}{Niewa¿ne. Potrzebujê informacji.}
-{142}{}{Dziêki, ale dziœ nie skorzystam.}
-{143}{}{Znakomicie, proszê pana.}
-{144}{}{Znakomicie, proszê pani¹.}
-{145}{}{Któr¹? Mineraln¹, destylowan¹ czy gazowan¹ - ka¿da kosztuje jedynie skromne piêæ dolarów za szklankê.}
-{146}{}{Niech bêdzie mineralna.}
-{147}{}{Chyba zdecydujê siê na destylowan¹.}
-{148}{}{Mo¿e... gazowan¹ proszê.}
+{137}{}{Mamy wodÄ™ mineralnÄ…, wodÄ™ destylowanÄ… i wodÄ™ gazowanÄ…. "Serwujemy" teÅ¼ parÄ™ syntetycznych alkoholi.}
+{138}{}{Hmm... jakie syntetyczne alkohole masz na myÅ›li?}
+{139}{}{Nie macie tu prawdziwych drinkÃ³w?}
+{140}{}{TrochÄ™ wody poproszÄ™.}
+{141}{}{NiewaÅ¼ne. PotrzebujÄ™ informacji.}
+{142}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{143}{}{Znakomicie, proszÄ™ pana.}
+{144}{}{Znakomicie, proszÄ™ paniÄ….}
+{145}{}{KtÃ³rÄ…? MineralnÄ…, destylowanÄ… czy gazowanÄ… - kaÅ¼da kosztuje jedynie skromne piÄ™Ä‡ dolarÃ³w za szklankÄ™.}
+{146}{}{Niech bÄ™dzie mineralna.}
+{147}{}{Chyba zdecydujÄ™ siÄ™ na destylowanÄ….}
+{148}{}{MoÅ¼e... gazowanÄ… proszÄ™.}
 {149}{}{Jakie syntetyczne alkohole sprzedajecie?}
-{150}{}{Niewa¿ne. Potrzebujê informacji.}
-{151}{}{Jak dla mnie to trochê za drogo. Wrócê innym razem.}
-{152}{}{Na razie nic, dziêki.}
-{153}{}{Mamy syntetyczne pochodne H i T, a ostatnio uda³o siê nam uzyskaæ niezwykle popularny zwi¹zek, "Alkohol-Z", który smakuje prawie tak samo jak orygina³. Ka¿dy drink kosztuje jedyne dwadzieœcia dolarów za szklankê.}
-{154}{}{W jaki sposób uzyskujecie syntetyczne alkohole?}
-{155}{}{Nie macie tu prawdziwych drinków?}
-{156}{}{Chyba jednak pozostanê przy wodzie.}
-{157}{}{Hmmm. Spróbujê tego tajemniczego alkoholu-Z.}
-{158}{}{Niewa¿ne. Potrzebujê informacji.}
-{159}{}{To trochê za drogo. Mo¿e nastêpnym razem.}
-{160}{}{Dziêki, ale dziœ nie skorzystam.}
-{161}{}{Podaæ coœ jeszcze?}
-{162}{}{Tak, jeszcze trochê wody, jeœli mo¿na.}
+{150}{}{NiewaÅ¼ne. PotrzebujÄ™ informacji.}
+{151}{}{Jak dla mnie to trochÄ™ za drogo. WrÃ³cÄ™ innym razem.}
+{152}{}{Na razie nic, dziÄ™ki.}
+{153}{}{Mamy syntetyczne pochodne H i T, a ostatnio udaÅ‚o siÄ™ nam uzyskaÄ‡ niezwykle popularny zwiÄ…zek, "Alkohol-Z", ktÃ³ry smakuje prawie tak samo jak oryginaÅ‚. KaÅ¼dy drink kosztuje jedyne dwadzieÅ›cia dolarÃ³w za szklankÄ™.}
+{154}{}{W jaki sposÃ³b uzyskujecie syntetyczne alkohole?}
+{155}{}{Nie macie tu prawdziwych drinkÃ³w?}
+{156}{}{Chyba jednak pozostanÄ™ przy wodzie.}
+{157}{}{Hmmm. SprÃ³bujÄ™ tego tajemniczego alkoholu-Z.}
+{158}{}{NiewaÅ¼ne. PotrzebujÄ™ informacji.}
+{159}{}{To trochÄ™ za drogo. MoÅ¼e nastÄ™pnym razem.}
+{160}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{161}{}{PodaÄ‡ coÅ› jeszcze?}
+{162}{}{Tak, jeszcze trochÄ™ wody, jeÅ›li moÅ¼na.}
 {163}{}{Jakie syntetyczne alkohole sprzedajecie?}
-{164}{}{Niewa¿ne. Potrzebujê informacji.}
-{165}{}{Dziêki, ale dziœ nie skorzystam.}
-{166}{}{Nic panu nie jest? Zaczyna pan chyba odczuwaæ ca³y ten "alkohol-Z", który pan wypi³. Na pewno chce pan wiêcej?}
-{167}{}{Nic panu nie jest? Zaczyna pan chyba odczuwaæ ca³y ten "alkohol-Z", który pan wypi³. Na pewno chce pan wiêcej?}
-{168}{}{Podaæ coœ jeszcze?}
-{169}{}{Nie czujê siê najlepiej... Chyba wyjdê na moment z dialogu i sprawdzê moj¹ maksymaln¹ liczbê punktów walki.}
-{170}{}{Nie, nie. Czujê siê œwietnie! Tylko wyjdê na moment z dialogu i sprawdzê moj¹ maksymaln¹ liczbê punktów walki.}
-{171}{}{Chyba jednak pozostanê przy wodzie.}
-{172}{}{Poproszê jeszcze troszkê tego pysznego alkoholu-Z.}
-{173}{}{W jaki sposób uzyskujecie syntetyczne alkohole?}
-{174}{}{W³aœciwie to szukam informacji.}
-{175}{}{Nic wiêcej dzisiaj nie potrzebujê. Dziêki.}
-{176}{}{Ka¿dy Auto-doktor w Kryptopolis potrafi wytwarzaæ syntetyczne substytuty œrodków uzale¿niaj¹cych. Jeœli dobrze pamiêtam, to przed wojn¹ podawano je narkomanom jako placebo.}
-{177}{}{Widzê, ¿e bardzo du¿o wiesz o synetykach.}
-{178}{}{Nie macie tu prawdziwych drinków?}
+{164}{}{NiewaÅ¼ne. PotrzebujÄ™ informacji.}
+{165}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{166}{}{Nic panu nie jest? Zaczyna pan chyba odczuwaÄ‡ caÅ‚y ten "alkohol-Z", ktÃ³ry pan wypiÅ‚. Na pewno chce pan wiÄ™cej?}
+{167}{}{Nic panu nie jest? Zaczyna pan chyba odczuwaÄ‡ caÅ‚y ten "alkohol-Z", ktÃ³ry pan wypiÅ‚. Na pewno chce pan wiÄ™cej?}
+{168}{}{PodaÄ‡ coÅ› jeszcze?}
+{169}{}{Nie czujÄ™ siÄ™ najlepiej... Chyba wyjdÄ™ na moment z dialogu i sprawdzÄ™ mojÄ… maksymalnÄ… liczbÄ™ punktÃ³w walki.}
+{170}{}{Nie, nie. CzujÄ™ siÄ™ Å›wietnie! Tylko wyjdÄ™ na moment z dialogu i sprawdzÄ™ mojÄ… maksymalnÄ… liczbÄ™ punktÃ³w walki.}
+{171}{}{Chyba jednak pozostanÄ™ przy wodzie.}
+{172}{}{PoproszÄ™ jeszcze troszkÄ™ tego pysznego alkoholu-Z.}
+{173}{}{W jaki sposÃ³b uzyskujecie syntetyczne alkohole?}
+{174}{}{WÅ‚aÅ›ciwie to szukam informacji.}
+{175}{}{Nic wiÄ™cej dzisiaj nie potrzebujÄ™. DziÄ™ki.}
+{176}{}{KaÅ¼dy Auto-doktor w Kryptopolis potrafi wytwarzaÄ‡ syntetyczne substytuty Å›rodkÃ³w uzaleÅ¼niajÄ…cych. JeÅ›li dobrze pamiÄ™tam, to przed wojnÄ… podawano je narkomanom jako placebo.}
+{177}{}{WidzÄ™, Å¼e bardzo duÅ¼o wiesz o synetykach.}
+{178}{}{Nie macie tu prawdziwych drinkÃ³w?}
 {179}{}{W takim razie wystarczy woda.}
-{180}{}{Hmmm. Chêtnie spróbujê tego alkoholu-Z.}
-{181}{}{Ciekawe. A przy okazji - potrzebujê informacji...}
-{182}{}{Rozumiem. Dziêki za informacje. Do zobaczenia.}
-{183}{}{By³em s³ug¹ doktora Troya, zanim przydzielili mnie tutaj. Wymagano ode mnie bieg³ej znajomoœci medycznej bazy danych Kryptopolis.}
-{184}{}{"Bieg³ej"? Musia³eœ siê œcigaæ z komputerem?}
+{180}{}{Hmmm. ChÄ™tnie sprÃ³bujÄ™ tego alkoholu-Z.}
+{181}{}{Ciekawe. A przy okazji - potrzebujÄ™ informacji...}
+{182}{}{Rozumiem. DziÄ™ki za informacje. Do zobaczenia.}
+{183}{}{ByÅ‚em sÅ‚ugÄ… doktora Troya, zanim przydzielili mnie tutaj. Wymagano ode mnie biegÅ‚ej znajomoÅ›ci medycznej bazy danych Kryptopolis.}
+{184}{}{"BiegÅ‚ej"? MusiaÅ‚eÅ› siÄ™ Å›cigaÄ‡ z komputerem?}
 {185}{}{Medycznej bazy danych?}
-{186}{}{Ciekawe. A przy okazji - potrzebujê informacji...}
-{187}{}{Rozumiem. Dziêki za informacje. Do zobaczenia.}
-{188}{}{"Bieg³y" to ktoœ znaj¹cy siê na rzeczy, doœwiadczony, sprawny.}
-{189}{}{Heh, skoro tak twierdzisz... Wspomina³eœ coœ o medycznej bazie danych?}
-{190}{}{Mam jeszcze kilka pytañ...}
-{191}{}{Biedaku, pewnie przegra³eœ, i wstyd ci siê przyznaæ. Biegaæ z komputerem... kto to s³ysza³. Do zobaczenia.}
-{192}{}{Tak, wiele komputerów na pierwszym piêtrze Krypty zawiera ca³e mnóstwo informacji medycznych. To nawet fascynuj¹ce, kiedy ju¿ cz³owiek przebrnie przez ca³y ten lekarski ¿argon.}
-{193}{}{¯argon? To jakieœ urz¹dzenie broni¹ce dostêpu do baz danych?}
-{194}{}{Ciekawe. A przy okazji - potrzebujê informacji...}
-{195}{}{Hmmmm. Chyba spróbujê tam zajrzeæ.}
-{196}{}{Ale¿ nie! "¯argon" oznacza pewn¹ grupê s³ów, terminologiê zwi¹zan¹ z regu³y z dan¹ grup¹ zawodow¹.}
-{197}{}{No jasne, przecie¿ wiem. Tylko ciê sprawdzam. Przy okazji - muszê ciê jeszcze o coœ zapytaæ...}
-{198}{}{Jak tam sobie chcesz. Mam tylko nadziejê, ¿e z tym ¯argonem da siê po dobroci, bo zamierzam rzuciæ okiem na te bazy danych. ¯egnaj.}
-{199}{}{Jeœli masz na myœli to, co nazywaj¹ alkoholem mieszkañcy Pustkowi, to odpowiedŸ brzmi - nie.}
-{200}{}{Nie odczuwamy tu potrzeby ci¹g³ego zatruwania naszych organizmów tymi roj¹cymi siê od drobnoustrojów miksturami. Bar na Podmurzu jest w tym wzglêdzie bardziej... tolerancyjny.}
-{201}{}{W takim razie poproszê wodê.}
-{202}{}{Sekundê. Jakie 'syntetyczne drinki' podajecie?}
+{186}{}{Ciekawe. A przy okazji - potrzebujÄ™ informacji...}
+{187}{}{Rozumiem. DziÄ™ki za informacje. Do zobaczenia.}
+{188}{}{"BiegÅ‚y" to ktoÅ› znajÄ…cy siÄ™ na rzeczy, doÅ›wiadczony, sprawny.}
+{189}{}{Heh, skoro tak twierdzisz... WspominaÅ‚eÅ› coÅ› o medycznej bazie danych?}
+{190}{}{Mam jeszcze kilka pytaÅ„...}
+{191}{}{Biedaku, pewnie przegraÅ‚eÅ›, i wstyd ci siÄ™ przyznaÄ‡. BiegaÄ‡ z komputerem... kto to sÅ‚yszaÅ‚. Do zobaczenia.}
+{192}{}{Tak, wiele komputerÃ³w na pierwszym piÄ™trze Krypty zawiera caÅ‚e mnÃ³stwo informacji medycznych. To nawet fascynujÄ…ce, kiedy juÅ¼ czÅ‚owiek przebrnie przez caÅ‚y ten lekarski Å¼argon.}
+{193}{}{Å»argon? To jakieÅ› urzÄ…dzenie broniÄ…ce dostÄ™pu do baz danych?}
+{194}{}{Ciekawe. A przy okazji - potrzebujÄ™ informacji...}
+{195}{}{Hmmmm. Chyba sprÃ³bujÄ™ tam zajrzeÄ‡.}
+{196}{}{AleÅ¼ nie! "Å»argon" oznacza pewnÄ… grupÄ™ sÅ‚Ã³w, terminologiÄ™ zwiÄ…zanÄ… z reguÅ‚y z danÄ… grupÄ… zawodowÄ….}
+{197}{}{No jasne, przecieÅ¼ wiem. Tylko ciÄ™ sprawdzam. Przy okazji - muszÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡...}
+{198}{}{Jak tam sobie chcesz. Mam tylko nadziejÄ™, Å¼e z tym Å»argonem da siÄ™ po dobroci, bo zamierzam rzuciÄ‡ okiem na te bazy danych. Å»egnaj.}
+{199}{}{JeÅ›li masz na myÅ›li to, co nazywajÄ… alkoholem mieszkaÅ„cy Pustkowi, to odpowiedÅº brzmi - nie.}
+{200}{}{Nie odczuwamy tu potrzeby ciÄ…gÅ‚ego zatruwania naszych organizmÃ³w tymi rojÄ…cymi siÄ™ od drobnoustrojÃ³w miksturami. Bar na Podmurzu jest w tym wzglÄ™dzie bardziej... tolerancyjny.}
+{201}{}{W takim razie poproszÄ™ wodÄ™.}
+{202}{}{SekundÄ™. Jakie 'syntetyczne drinki' podajecie?}
 {203}{}{Szukam informacji.}
-{204}{}{Zajrzê tam, dziêki.}
-{205}{}{W takim razie mo¿e pójdê gdzie indziej.}
-{206}{}{Mo¿e zacznij od wizyty w naszym centrum informacyjnym. Znajdziesz je w centrum miasta. A teraz wybacz... mam innych klientów.}
-{207}{}{Chwileczkê, chcê siê czegoœ napiæ. Co tu serwujecie?}
-{208}{}{Nie. Najpierw powiesz mi to, co chcê wiedzieæ. I daruj sobie ten protekcjonalny ton, chyba ¿e szukasz k³opotów.}
-{209}{}{W porz¹dku. Do widzenia.}
-{210}{}{Naturalnie. Co chcia³by pan wiedzieæ?}
-{211}{}{Naturalnie. Co chcia³aby pani wiedzieæ?}
-{212}{}{Naturalnie. Co chce wiedzieæ nasz Kapitan Stra¿y?}
-{213}{}{Naturalnie. Co ciê interesuje, obywatelu?}
-{214}{}{Powiedz mi, kto jest przywódc¹ Kryptopolis?}
+{204}{}{ZajrzÄ™ tam, dziÄ™ki.}
+{205}{}{W takim razie moÅ¼e pÃ³jdÄ™ gdzie indziej.}
+{206}{}{MoÅ¼e zacznij od wizyty w naszym centrum informacyjnym. Znajdziesz je w centrum miasta. A teraz wybacz... mam innych klientÃ³w.}
+{207}{}{ChwileczkÄ™, chcÄ™ siÄ™ czegoÅ› napiÄ‡. Co tu serwujecie?}
+{208}{}{Nie. Najpierw powiesz mi to, co chcÄ™ wiedzieÄ‡. I daruj sobie ten protekcjonalny ton, chyba Å¼e szukasz kÅ‚opotÃ³w.}
+{209}{}{W porzÄ…dku. Do widzenia.}
+{210}{}{Naturalnie. Co chciaÅ‚by pan wiedzieÄ‡?}
+{211}{}{Naturalnie. Co chciaÅ‚aby pani wiedzieÄ‡?}
+{212}{}{Naturalnie. Co chce wiedzieÄ‡ nasz Kapitan StraÅ¼y?}
+{213}{}{Naturalnie. Co ciÄ™ interesuje, obywatelu?}
+{214}{}{Powiedz mi, kto jest przywÃ³dcÄ… Kryptopolis?}
 {215}{}{Opowiedz mi o niewolnictwie w Kryptopolis.}
-{216}{}{Niewa¿ne. Chcê siê czegoœ napiæ. Co tu serwujecie?}
-{217}{}{Dziêki, ale dziœ nie skorzystam.}
-{218}{}{Oczywiœcie Pierwszy Obywatel Lynette. To ju¿ jej druga kadencja na stanowisku Pierwszego Obywatela. Naturalnie Lynette ci¹gle odpowiada przed Rad¹, ale to ona odpowiada za trzon prac legislacyjnych w Kryptopolis.}
-{219}{}{Przed Rad¹?}
+{216}{}{NiewaÅ¼ne. ChcÄ™ siÄ™ czegoÅ› napiÄ‡. Co tu serwujecie?}
+{217}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{218}{}{OczywiÅ›cie Pierwszy Obywatel Lynette. To juÅ¼ jej druga kadencja na stanowisku Pierwszego Obywatela. Naturalnie Lynette ciÄ…gle odpowiada przed RadÄ…, ale to ona odpowiada za trzon prac legislacyjnych w Kryptopolis.}
+{219}{}{Przed RadÄ…?}
 {220}{}{Opowiedz mi o niewolnictwie w Kryptopolis.}
-{221}{}{Niewa¿ne. Chcê siê czegoœ napiæ. Co tu serwujecie?}
-{222}{}{To ciekawe. Dziêki za informacje. Do zobaczenia.}
-{223}{}{Tak, w Kryptopolis funkcjonuje równie¿ Rada. Przewodniczy jej Starszy Radny McClure. (Zni¿a g³os) McClure i Pierwszy Obywatel doœæ czêsto siê spieraj¹.}
-{224}{}{Naprawdê...?}
+{221}{}{NiewaÅ¼ne. ChcÄ™ siÄ™ czegoÅ› napiÄ‡. Co tu serwujecie?}
+{222}{}{To ciekawe. DziÄ™ki za informacje. Do zobaczenia.}
+{223}{}{Tak, w Kryptopolis funkcjonuje rÃ³wnieÅ¼ Rada. Przewodniczy jej Starszy Radny McClure. (ZniÅ¼a gÅ‚os) McClure i Pierwszy Obywatel doÅ›Ä‡ czÄ™sto siÄ™ spierajÄ….}
+{224}{}{NaprawdÄ™...?}
 {225}{}{Opowiedz mi o niewolnictwie w Kryptopolis.}
-{226}{}{Niewa¿ne. Chcê siê czegoœ napiæ. Co tu serwujecie?}
-{227}{}{To ciekawe. Dziêki za informacje. Do zobaczenia.}
-{228}{}{O tak. Ca³kiem niedawno kilku obywateli z³o¿y³o u McClure'a petycjê w sprawie odrzucenia niektórych decyzji Pierwszego Obywatela. Mieliœmy tu przez to niez³y zamêt.}
-{229}{}{Hmmm. Interesuje mnie coœ jeszcze...}
-{230}{}{Rozumiem. Có¿, chêtnie siê czegoœ napijê. Co tu serwujecie?}
-{231}{}{To ciekawe. Dziêki za informacje. Do zobaczenia.}
-{232}{}{Ale¿ nie... to nie niewolnictwo. Ci ludzie... ³¹cznie ze mn¹, to s³u¿ba a nie niewolnicy! Jesteœmy tu traktowani bardzo dobrze: ucz¹ nas czytaæ i pisaæ, zapewniaj¹ opiekê medyczn¹ i dach nad g³ow¹.}
-{233}{}{Jednym s³owem macie wszystko oprócz wolnoœci, tak?}
-{234}{}{Skoro nie narzekacie, to rzeczywiœcie nie ma problemu.}
-{235}{}{Niewa¿ne. Chcê siê czegoœ napiæ. Co tu serwujecie?}
-{236}{}{Rozumiem. Có¿, dziêki za rozmowê. Do zobaczenia.}
-{237}{}{Jeœli nie zamierza pani nic zamówiæ, to lepiej bêdzie jak ju¿ pani sobie pójdzie.}
-{238}{}{Jeœli nie zamierza pan nic zamówiæ, to lepiej bêdzie jak ju¿ pan sobie pójdzie.}
-{239}{}{Jeœli rzeczywiœcie nie uskar¿acie siê swoj¹... s³u¿bê, to chyba nie ma o czym mówiæ.}
-{240}{}{W takim razie czegoœ siê napijê. Co tu serwujecie?}
-{241}{}{Tak chyba bêdzie lepiej. ¯egnaj.}
-{242}{}{Naturalnie. Czym mogê s³u¿yæ?}
-{243}{}{W takim razie czegoœ siê napijê. Co tu serwujecie?}
+{226}{}{NiewaÅ¼ne. ChcÄ™ siÄ™ czegoÅ› napiÄ‡. Co tu serwujecie?}
+{227}{}{To ciekawe. DziÄ™ki za informacje. Do zobaczenia.}
+{228}{}{O tak. CaÅ‚kiem niedawno kilku obywateli zÅ‚oÅ¼yÅ‚o u McClure'a petycjÄ™ w sprawie odrzucenia niektÃ³rych decyzji Pierwszego Obywatela. MieliÅ›my tu przez to niezÅ‚y zamÄ™t.}
+{229}{}{Hmmm. Interesuje mnie coÅ› jeszcze...}
+{230}{}{Rozumiem. CÃ³Å¼, chÄ™tnie siÄ™ czegoÅ› napijÄ™. Co tu serwujecie?}
+{231}{}{To ciekawe. DziÄ™ki za informacje. Do zobaczenia.}
+{232}{}{AleÅ¼ nie... to nie niewolnictwo. Ci ludzie... Å‚Ä…cznie ze mnÄ…, to sÅ‚uÅ¼ba a nie niewolnicy! JesteÅ›my tu traktowani bardzo dobrze: uczÄ… nas czytaÄ‡ i pisaÄ‡, zapewniajÄ… opiekÄ™ medycznÄ… i dach nad gÅ‚owÄ….}
+{233}{}{Jednym sÅ‚owem macie wszystko oprÃ³cz wolnoÅ›ci, tak?}
+{234}{}{Skoro nie narzekacie, to rzeczywiÅ›cie nie ma problemu.}
+{235}{}{NiewaÅ¼ne. ChcÄ™ siÄ™ czegoÅ› napiÄ‡. Co tu serwujecie?}
+{236}{}{Rozumiem. CÃ³Å¼, dziÄ™ki za rozmowÄ™. Do zobaczenia.}
+{237}{}{JeÅ›li nie zamierza pani nic zamÃ³wiÄ‡, to lepiej bÄ™dzie jak juÅ¼ pani sobie pÃ³jdzie.}
+{238}{}{JeÅ›li nie zamierza pan nic zamÃ³wiÄ‡, to lepiej bÄ™dzie jak juÅ¼ pan sobie pÃ³jdzie.}
+{239}{}{JeÅ›li rzeczywiÅ›cie nie uskarÅ¼acie siÄ™ swojÄ…... sÅ‚uÅ¼bÄ™, to chyba nie ma o czym mÃ³wiÄ‡.}
+{240}{}{W takim razie czegoÅ› siÄ™ napijÄ™. Co tu serwujecie?}
+{241}{}{Tak chyba bÄ™dzie lepiej. Å»egnaj.}
+{242}{}{Naturalnie. Czym mogÄ™ sÅ‚uÅ¼yÄ‡?}
+{243}{}{W takim razie czegoÅ› siÄ™ napijÄ™. Co tu serwujecie?}
 {244}{}{Nie dzisiaj. Do widzenia.}
 {245}{}{Chrrrr.}

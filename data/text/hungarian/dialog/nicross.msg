@@ -1,4 +1,4 @@
-{100}{}{Egy keresztet l·tsz. Az van r·Ìrva, hogy 'SzemÈt'.}
-{101}{}{÷ˆ...ez egy kereszt.}
-{102}{}{HÈ, valaki pÈnzt ·sott a kereszt al·.}
-{103}{}{Nincs itt semmi egyÈb.}
+{100}{}{Egy keresztet l√°tsz. Az van r√°√≠rva, hogy 'Szem√©t'.}
+{101}{}{√ñ√∂...ez egy kereszt.}
+{102}{}{H√©, valaki p√©nzt √°sott a kereszt al√°.}
+{103}{}{Nincs itt semmi egy√©b.}

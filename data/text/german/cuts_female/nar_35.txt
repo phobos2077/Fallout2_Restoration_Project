@@ -1,2 +1,2 @@
-1:Dank deiner Ausdauer werden die Raider zerschlagen und lösen sich auf.
-2:Keiner der überlebenden Raiders ist jemals wieder aufgetaucht.
+1:Dank deiner Ausdauer werden die Raider zerschlagen und lÃ¶sen sich auf.
+2:Keiner der Ã¼berlebenden Raiders ist jemals wieder aufgetaucht.

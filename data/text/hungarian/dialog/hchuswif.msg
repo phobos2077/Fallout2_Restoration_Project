@@ -1,26 +1,26 @@
-{100}{}{Egy meglehet?sen koszos mutánst látsz.}
-{101}{}{Izzadságfoltos és gombhiányos ruhát visel, mely alatt sárgás szín? alsóinget hord. Úgy t?nik, vár valakire.}
-{102}{}{Egy idegesnek t?n? mutáns n?t látsz.}
-{103}{}{Kötényt visel, melyen egy apró uszkár látható. Rózsaszín hajcsavarók virítanak a hajában.}
-{104}{}{Hol van már a brahmin-pitém, asszony?!}
-{105}{}{Próbáld meg nem túlborsozni, ahogy szoktad, te tehén!}
-{106}{}{Hol voltál múlt éjszaka?!}
-{107}{}{Hol a Cat's Paw magazinom? Már megint kidobtad, mi?}
+{100}{}{Egy meglehet?sen koszos mutÃ¡nst lÃ¡tsz.}
+{101}{}{IzzadsÃ¡gfoltos Ã©s gombhiÃ¡nyos ruhÃ¡t visel, mely alatt sÃ¡rgÃ¡s szÃ­n? alsÃ³inget hord. Ãšgy t?nik, vÃ¡r valakire.}
+{102}{}{Egy idegesnek t?n? mutÃ¡ns n?t lÃ¡tsz.}
+{103}{}{KÃ¶tÃ©nyt visel, melyen egy aprÃ³ uszkÃ¡r lÃ¡thatÃ³. RÃ³zsaszÃ­n hajcsavarÃ³k virÃ­tanak a hajÃ¡ban.}
+{104}{}{Hol van mÃ¡r a brahmin-pitÃ©m, asszony?!}
+{105}{}{PrÃ³bÃ¡ld meg nem tÃºlborsozni, ahogy szoktad, te tehÃ©n!}
+{106}{}{Hol voltÃ¡l mÃºlt Ã©jszaka?!}
+{107}{}{Hol a Cat's Paw magazinom? MÃ¡r megint kidobtad, mi?}
 {108}{}{**Pfffffffffttt**}
-{109}{}{Zaius aszondja, hogy jöv? hónapban kapok munkát a bányánál.}
-{110}{}{Ezt a rohadt rendetlenséget! Mikor fogsz takarítani, asszony?}
+{109}{}{Zaius aszondja, hogy jÃ¶v? hÃ³napban kapok munkÃ¡t a bÃ¡nyÃ¡nÃ¡l.}
+{110}{}{Ezt a rohadt rendetlensÃ©get! Mikor fogsz takarÃ­tani, asszony?}
 {111}{}{You got a real smart mouth on ya', woman!}
-{112}{}{Szeretlek, édesem.}
+{112}{}{Szeretlek, Ã©desem.}
 {113}{}{Akarsz egy sallert, asszony?}
-{140}{}{Csináld meg magadnak a rohadt pitédet, te lusta disznó!}
-{141}{}{...(morog) annyi borsot rakok rá, amennyit csak akarok (morog)... }
-{142}{}{Mostam a mocskos ruháidat a kútnál, ahogy mindig!}
-{143}{}{Mi a francra kell az neked, amikor itt vagyok én?!}
-{144}{}{Ezerszer mondtam már, hogy ne egyél nyársas iguanát! Nyiss ablakot! Pfúj!}
-{145}{}{Nagyszer?! Ha ez azt jelenti, hogy végre kiteszed innen a lábad, akkor benne vagyok!}
-{146}{}{Amint mutatsz egy kis kibaszott tiszteletet irántam, te pöcs!}
-{147}{}{Valakinek okosnak is kell lennie a házban!}
-{148}{}{Én is szeretlek, dagimaci.}
-{149}{}{Mi van, már megint udvarolni próbálsz!}
-{200}{}{Mi a fenét akarsz? T?nj a házamból, picikém!}
-{201}{}{Esküszöm, egyszer fogom magam és elmegyek innen. Mihez fog kezdeni akkor ez a lusta disznó?}
+{140}{}{CsinÃ¡ld meg magadnak a rohadt pitÃ©det, te lusta disznÃ³!}
+{141}{}{...(morog) annyi borsot rakok rÃ¡, amennyit csak akarok (morog)... }
+{142}{}{Mostam a mocskos ruhÃ¡idat a kÃºtnÃ¡l, ahogy mindig!}
+{143}{}{Mi a francra kell az neked, amikor itt vagyok Ã©n?!}
+{144}{}{Ezerszer mondtam mÃ¡r, hogy ne egyÃ©l nyÃ¡rsas iguanÃ¡t! Nyiss ablakot! PfÃºj!}
+{145}{}{Nagyszer?! Ha ez azt jelenti, hogy vÃ©gre kiteszed innen a lÃ¡bad, akkor benne vagyok!}
+{146}{}{Amint mutatsz egy kis kibaszott tiszteletet irÃ¡ntam, te pÃ¶cs!}
+{147}{}{Valakinek okosnak is kell lennie a hÃ¡zban!}
+{148}{}{Ã‰n is szeretlek, dagimaci.}
+{149}{}{Mi van, mÃ¡r megint udvarolni prÃ³bÃ¡lsz!}
+{200}{}{Mi a fenÃ©t akarsz? T?nj a hÃ¡zambÃ³l, picikÃ©m!}
+{201}{}{EskÃ¼szÃ¶m, egyszer fogom magam Ã©s elmegyek innen. Mihez fog kezdeni akkor ez a lusta disznÃ³?}

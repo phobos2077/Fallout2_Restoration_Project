@@ -1,191 +1,191 @@
 {100}{}{Du siehst eine Pornodarstellerin.}
 {150}{}{Du siehst eine attraktive Frau. Sie scheint mit sich selbst zu sprechen.}
-{151}{}{Sie sieht aus, als lerne sie Text auswendig. Schließlich gibt sie auf, formt ein "O" mit
- ihrem Mund und fängt an, den Kopf auf- und ab zu bewegen. }
-{152}{}{Du siehst eine Nacktdarstellerin. Sie lässt dich links liegen.}
-{200}{}{Ich sollte mich wohl bei dir dafür bedanken, dass du die Welt gerettet hast, aber ich
- hätte viel lieber wilden und leidenschaftlichen Spaß mit dir. Was hältst du davon?}
+{151}{}{Sie sieht aus, als lerne sie Text auswendig. SchlieÃŸlich gibt sie auf, formt ein "O" mit
+ ihrem Mund und fÃ¤ngt an, den Kopf auf- und ab zu bewegen. }
+{152}{}{Du siehst eine Nacktdarstellerin. Sie lÃ¤sst dich links liegen.}
+{200}{}{Ich sollte mich wohl bei dir dafÃ¼r bedanken, dass du die Welt gerettet hast, aber ich
+ hÃ¤tte viel lieber wilden und leidenschaftlichen SpaÃŸ mit dir. Was hÃ¤ltst du davon?}
 {201}{}{Du bist also der Hengst, der es der Enklave mal so richtig gezeigt hat.}
-{202}{}{Wenn sich ein Typ mit diesen Regierungsenklaven anlegt, werde ich ganz heiß.}
-{203}{}{Wie ich höre, suchen die Brüder nach dir. Die wollen 'nen Film über dein Abenteuer drehen.}
-{210}{}{Ich sollte mich wohl bei dir dafür bedanken, dass du die Welt gerettet hast. Ähm...danke.}
+{202}{}{Wenn sich ein Typ mit diesen Regierungsenklaven anlegt, werde ich ganz heiÃŸ.}
+{203}{}{Wie ich hÃ¶re, suchen die BrÃ¼der nach dir. Die wollen 'nen Film Ã¼ber dein Abenteuer drehen.}
+{210}{}{Ich sollte mich wohl bei dir dafÃ¼r bedanken, dass du die Welt gerettet hast. Ã„hm...danke.}
 {211}{}{Du hast es der Enklave also mal so richtig gezeigt. Ich bin hochbeeindruckt.}
-{212}{}{Ich hab gehört, dass die Brüder nach dir suchen. Sie wollen einen Film über dein
- Abenteuer drehen. Äh, kannst du nicht versuchen, mir eine Rolle zu besorgen?}
-{220}{}{Würdest du BITTE damit aufhören, hier in diesem Aufzug rumzutrampeln? Ich bin gerade
+{212}{}{Ich hab gehÃ¶rt, dass die BrÃ¼der nach dir suchen. Sie wollen einen Film Ã¼ber dein
+ Abenteuer drehen. Ã„h, kannst du nicht versuchen, mir eine Rolle zu besorgen?}
+{220}{}{WÃ¼rdest du BITTE damit aufhÃ¶ren, hier in diesem Aufzug rumzutrampeln? Ich bin gerade
  dabei, meinen Text zu lernen.}
-{221}{}{Geh doch zurück zu dem Kriegsspielchen, dem du entsprungen bist! Das ist hier ein
+{221}{}{Geh doch zurÃ¼ck zu dem Kriegsspielchen, dem du entsprungen bist! Das ist hier ein
  interaktives Rollenspiel!}
 {222}{}{Musst du irgendwas kompensieren?}
 {230}{}{Und wie stehts, }
 {231}{}{Gut siehst du aus, }
-{232}{}{Huhu, Schätzchen! Kommst du allein zurecht?}
-{233}{}{Ich krieg nicht ANNÄHERND genug Geld.}
+{232}{}{Huhu, SchÃ¤tzchen! Kommst du allein zurecht?}
+{233}{}{Ich krieg nicht ANNÃ„HERND genug Geld.}
 {234}{}{Also, mal sehen..."Oh Gott"... "Gib's mir..." Verdammt! Was kam dann noch mal?!}
 {235}{}{Ja, aber welche MOTIVATION hab ich in dieser Szene?}
-{236}{}{Mal sehen...(Liest im Skript nach)...er kommt rein, wir haben Spaß. Alles klar.}
-{237}{}{Eigentlich würde ich lieber Regie führen.}
-{238}{}{Gott sei dank haben die endlich diese gepolsterte Kopfstütze angebracht.}
-{239}{}{Ich weiß nicht, was die Korsischen Brüder in IHR sehen...}
-{240}{}{Warum haut sie nicht endgültig ab!}
+{236}{}{Mal sehen...(Liest im Skript nach)...er kommt rein, wir haben SpaÃŸ. Alles klar.}
+{237}{}{Eigentlich wÃ¼rde ich lieber Regie fÃ¼hren.}
+{238}{}{Gott sei dank haben die endlich diese gepolsterte KopfstÃ¼tze angebracht.}
+{239}{}{Ich weiÃŸ nicht, was die Korsischen BrÃ¼der in IHR sehen...}
+{240}{}{Warum haut sie nicht endgÃ¼ltig ab!}
 {241}{}{Sie engt meinen Stil ein.}
-{242}{}{Och, die ist schon männermordend, eine richtige kleine Kannibalin.}
+{242}{}{Och, die ist schon mÃ¤nnermordend, eine richtige kleine Kannibalin.}
 {243}{}{Pfhh. Abschaum aus der Gosse.}
-{244}{}{Sie ist so talentiert wie ein Fels und doppelt so hässlich.}
+{244}{}{Sie ist so talentiert wie ein Fels und doppelt so hÃ¤sslich.}
 {250}{}{Und wie stehts, }
-{251}{}{Mit dem würde ich auch gerne ne Runde kämpfen.}
+{251}{}{Mit dem wÃ¼rde ich auch gerne ne Runde kÃ¤mpfen.}
 {252}{}{Suchst du mich?}
-{253}{}{Wieso kommst du nicht öfters vorbei?}
+{253}{}{Wieso kommst du nicht Ã¶fters vorbei?}
 {254}{}{Ich hab ein Loch zu stopfen.}
-{255}{}{Wurde auch Zeit, dass sich hier mal ein richtiger Mann blicken ließ...}
+{255}{}{Wurde auch Zeit, dass sich hier mal ein richtiger Mann blicken lieÃŸ...}
 {256}{}{Also, mal sehen..."Oh Gott"... "Gib's mir..." Verdammt! Was kam dann noch mal?!}
 {257}{}{Ja, aber welche MOTIVATION hab ich in dieser Szene?}
-{258}{}{Mal sehen...(Liest im Skript nach)...er kommt rein, wir haben Spaß. Alles klar.}
-{259}{}{Eigentlich würde ich lieber Regie führen.}
-{260}{}{Gott sei dank haben die endlich diese gepolsterte Kopfstütze angebracht.}
+{258}{}{Mal sehen...(Liest im Skript nach)...er kommt rein, wir haben SpaÃŸ. Alles klar.}
+{259}{}{Eigentlich wÃ¼rde ich lieber Regie fÃ¼hren.}
+{260}{}{Gott sei dank haben die endlich diese gepolsterte KopfstÃ¼tze angebracht.}
 {265}{}{Und wie stehts, }
-{266}{}{Mit dem würde ich auch gerne ne Runde kämpfen.}
+{266}{}{Mit dem wÃ¼rde ich auch gerne ne Runde kÃ¤mpfen.}
 {267}{}{Suchst du mich?}
-{268}{}{Wieso kommst du nicht öfters vorbei?}
+{268}{}{Wieso kommst du nicht Ã¶fters vorbei?}
 {269}{}{Ich hab ein Loch zu stopfen.}
-{270}{}{Wurde auch Zeit, dass sich hier mal ein richtiger Mann blicken ließ...}
+{270}{}{Wurde auch Zeit, dass sich hier mal ein richtiger Mann blicken lieÃŸ...}
 {271}{}{Also, mal sehen..."Oh Gott"... "Gib's mir..." Verdammt! Was kam dann noch mal?!}
 {272}{}{Ja, aber welche MOTIVATION hab ich in dieser Szene?}
-{273}{}{Mal sehen...(Liest im Skript nach)...er kommt rein, wir haben Spaß. Alles klar.}
-{274}{}{Eigentlich würde ich lieber Regie führen.}
-{275}{}{Gott sei dank haben die endlich diese gepolsterte Kopfstütze angebracht.}
+{273}{}{Mal sehen...(Liest im Skript nach)...er kommt rein, wir haben SpaÃŸ. Alles klar.}
+{274}{}{Eigentlich wÃ¼rde ich lieber Regie fÃ¼hren.}
+{275}{}{Gott sei dank haben die endlich diese gepolsterte KopfstÃ¼tze angebracht.}
 {280}{}{Was riecht da so?}
 {281}{}{Na toll. Noch so ein Sippenrabauke.}
 {282}{}{Rede nicht mit mir.}
 {283}{}{Also, mal sehen..."Oh Gott"... "Gib's mir..." Verdammt! Was kam dann noch mal?!}
 {284}{}{Ja, aber welche MOTIVATION hab ich in dieser Szene?}
-{285}{}{Mal sehen...(Liest im Skript nach)...er kommt rein, wir haben Spaß. Alles klar.}
-{286}{}{Eigentlich würde ich lieber Regie führen.}
-{287}{}{Gott sei dank haben die endlich diese gepolsterte Kopfstütze angebracht.}
-{288}{}{Mir wär es lieber, wenn du nicht reden würdest, während du mit mir sprichst. Denk dir
- lieber was und stell dir vor, ich würde dir antworten.}
+{285}{}{Mal sehen...(Liest im Skript nach)...er kommt rein, wir haben SpaÃŸ. Alles klar.}
+{286}{}{Eigentlich wÃ¼rde ich lieber Regie fÃ¼hren.}
+{287}{}{Gott sei dank haben die endlich diese gepolsterte KopfstÃ¼tze angebracht.}
+{288}{}{Mir wÃ¤r es lieber, wenn du nicht reden wÃ¼rdest, wÃ¤hrend du mit mir sprichst. Denk dir
+ lieber was und stell dir vor, ich wÃ¼rde dir antworten.}
 {289}{}{Wer bist du?}
 {290}{}{Bist du einer von den Hausmeistern?}
-{295}{}{Bist du nicht etwas zu klein für die Sturmtruppen?}
+{295}{}{Bist du nicht etwas zu klein fÃ¼r die Sturmtruppen?}
 {296}{}{Arrrghhhhhh! Was machst du denn? Ich soll wohl einen Herzinfarkt kriegen?! Raus hier!}
-{297}{}{Für welchen Film sprichst DU denn vor? "Der schlimmste Tag meines Lebens"? Raus hier!}
-{298}{}{Würdest du BITTE damit aufhören, hier in diesem Aufzug rumzutrampeln? Ich bin gerade
+{297}{}{FÃ¼r welchen Film sprichst DU denn vor? "Der schlimmste Tag meines Lebens"? Raus hier!}
+{298}{}{WÃ¼rdest du BITTE damit aufhÃ¶ren, hier in diesem Aufzug rumzutrampeln? Ich bin gerade
  dabei, meinen Text zu lernen.}
 {299}{}{Musst du irgendwas kompensieren?}
 {305}{}{Und wie stehts, }
 {306}{}{Willst du mir helfen, meinen Text zu lernen?}
-{307}{}{Sollen wir vor der nächsten Szene zusammen duschen?}
+{307}{}{Sollen wir vor der nÃ¤chsten Szene zusammen duschen?}
 {308}{}{Ich find das Ding in deiner Zunge ganz toll.}
-{309}{}{Ich spiele jetzt die französische Austauschstudentin von nebenan.}
+{309}{}{Ich spiele jetzt die franzÃ¶sische Austauschstudentin von nebenan.}
 {310}{}{Bist du in Szene 3 der Butler oder der Chauffeur?}
-{311}{}{Könntest du mir ein bisschen Jet besorgen?}
-{312}{}{Diese Dreherei leiert - äh, powert ganz schön aus.}
+{311}{}{KÃ¶nntest du mir ein bisschen Jet besorgen?}
+{312}{}{Diese Dreherei leiert - Ã¤h, powert ganz schÃ¶n aus.}
 {313}{}{Wir drehen jetzt ENDLICH mal eine Szene zusammen.}
-{314}{}{Meine Freunde wissen gar nicht, dass ich hier arbeite. Das wär mir aber auch egal.}
-{315}{}{Ich hab die Brüder noch nicht gesehen... vielleicht im Büro?}
-{316}{}{Ist mir eigentlich egal, wohin. Hauptsache wir spielen das nötige Geld ein.}
+{314}{}{Meine Freunde wissen gar nicht, dass ich hier arbeite. Das wÃ¤r mir aber auch egal.}
+{315}{}{Ich hab die BrÃ¼der noch nicht gesehen... vielleicht im BÃ¼ro?}
+{316}{}{Ist mir eigentlich egal, wohin. Hauptsache wir spielen das nÃ¶tige Geld ein.}
 {317}{}{Du bist ein leidenschaftlicher, geheimnisvoller Mann. Und lustvoll.}
-{318}{}{Wir machen es so, wie es für dich am bequemsten ist.}
-{319}{}{Ich bereite mich mit einer langen heißen Dusche auf die nächste Szene vor.}
+{318}{}{Wir machen es so, wie es fÃ¼r dich am bequemsten ist.}
+{319}{}{Ich bereite mich mit einer langen heiÃŸen Dusche auf die nÃ¤chste Szene vor.}
 {320}{}{Ich bin die Mutter aller, die Liebe brauchen.}
-{321}{}{Du wirst ein Star! Und zwar ein ganz großer.}
+{321}{}{Du wirst ein Star! Und zwar ein ganz groÃŸer.}
 {322}{}{Du bist ja noch explosiver als ein Vulkan an einem schlechten Tag.}
-{323}{}{Ich kann dir gar nicht sagen, wie gut mir das mit dem spanischen Akzent gefällt.}
-{324}{}{Du siehst toll aus, Schätzchen.}
+{323}{}{Ich kann dir gar nicht sagen, wie gut mir das mit dem spanischen Akzent gefÃ¤llt.}
+{324}{}{Du siehst toll aus, SchÃ¤tzchen.}
 {330}{}{::Ignoriert dich::}
-{331}{}{Bist du in der nächsten Szene die Französin oder die Russin?}
-{332}{}{Wenn die Verhütung doch nur ein bisschen zuverlässiger wäre.}
+{331}{}{Bist du in der nÃ¤chsten Szene die FranzÃ¶sin oder die Russin?}
+{332}{}{Wenn die VerhÃ¼tung doch nur ein bisschen zuverlÃ¤ssiger wÃ¤re.}
 {333}{}{Hast du meine Pumps geklaut?}
-{334}{}{Ich bin ein bisschen müde...hast du vielleicht etwas Jet?}
+{334}{}{Ich bin ein bisschen mÃ¼de...hast du vielleicht etwas Jet?}
 {335}{}{Hmpfff!}
-{336}{}{Tut mir leid, Liebling, aber ich weiß auch nicht, wo die Brüder sind.}
+{336}{}{Tut mir leid, Liebling, aber ich weiÃŸ auch nicht, wo die BrÃ¼der sind.}
 {337}{}{Soll ich dir den Weg raus zeigen?}
 {338}{}{Hast du zugenommen?}
-{339}{}{Würdest du bitte einen Schritt zurücktreten? Von deinem...Duft...wird mir schlecht.}
-{340}{}{Ich hab gehört, dass die Brüder dich feuern wollen. Das ist ja SO schade.}
-{341}{}{Also, wenn jemand ohne jegliche Begabung wie du das schafft, bin ich zu noch Höherem
+{339}{}{WÃ¼rdest du bitte einen Schritt zurÃ¼cktreten? Von deinem...Duft...wird mir schlecht.}
+{340}{}{Ich hab gehÃ¶rt, dass die BrÃ¼der dich feuern wollen. Das ist ja SO schade.}
+{341}{}{Also, wenn jemand ohne jegliche Begabung wie du das schafft, bin ich zu noch HÃ¶herem
  bestimmt.}
-{342}{}{Dein Hintern ist so rund! Wie süß!}
+{342}{}{Dein Hintern ist so rund! Wie sÃ¼ÃŸ!}
 {343}{}{In dieser Industrie kommt man sicher leicht voran.}
-{344}{}{ICH habe jedenfalls nicht behauptet, du seist fett oder hässlich. Das muss jemand anders
+{344}{}{ICH habe jedenfalls nicht behauptet, du seist fett oder hÃ¤sslich. Das muss jemand anders
  gewesen sein.}
-{345}{}{Wie ich höre, will keiner von den Schauspielern mit dir zusammenarbeiten.}
+{345}{}{Wie ich hÃ¶re, will keiner von den Schauspielern mit dir zusammenarbeiten.}
 {346}{}{Konntest du nicht duschen, bevor du hier auftauchst?}
 {350}{}{Und wie stehts, }
 {351}{}{Getting out of boxing and into porn? Same thing, different stage.}
-{352}{}{Möchtest du mit mir in den Ring steigen, Champion?}
+{352}{}{MÃ¶chtest du mit mir in den Ring steigen, Champion?}
 {353}{}{Willst du boxen, Champ?}
-{354}{}{Vorsicht vor dem Mastikator. Er ist ein Arsch. Hat einmal versucht, mir ein Ohr abzubeißen.}
+{354}{}{Vorsicht vor dem Mastikator. Er ist ein Arsch. Hat einmal versucht, mir ein Ohr abzubeiÃŸen.}
 {355}{}{Willst du mir helfen, meinen Text zu lernen?}
-{356}{}{Könntest du mir ein bisschen Jet besorgen?}
-{357}{}{Diese Dreherei leiert - äh, powert ganz schön aus.}
+{356}{}{KÃ¶nntest du mir ein bisschen Jet besorgen?}
+{357}{}{Diese Dreherei leiert - Ã¤h, powert ganz schÃ¶n aus.}
 {358}{}{Aha, du willst wohl ein bisschen Coozine probieren?}
-{359}{}{Nettes Stück Eisen hast du da.}
-{360}{}{Meine Freunde wissen gar nicht, dass ich hier arbeite. Das wär mir aber auch egal.}
-{361}{}{Ich hab später noch nichts vor, wenn du ein bisschen Gesellschaft brauchst.}
-{362}{}{Steigst du auch hier ins Geschäft ein? Willkommen an Bord.}
+{359}{}{Nettes StÃ¼ck Eisen hast du da.}
+{360}{}{Meine Freunde wissen gar nicht, dass ich hier arbeite. Das wÃ¤r mir aber auch egal.}
+{361}{}{Ich hab spÃ¤ter noch nichts vor, wenn du ein bisschen Gesellschaft brauchst.}
+{362}{}{Steigst du auch hier ins GeschÃ¤ft ein? Willkommen an Bord.}
 {363}{}{Nettes Outfit hast du da.}
-{364}{}{Du solltest Pornos machen, du hast den richtigen Körper dafür.}
-{365}{}{Nettes Stück Eisen hast du da.}
-{366}{}{Ich hab später noch nichts vor, wenn du ein bisschen Gesellschaft brauchst.}
-{367}{}{Ich hab schon von dir gehört. Du bist doch }
+{364}{}{Du solltest Pornos machen, du hast den richtigen KÃ¶rper dafÃ¼r.}
+{365}{}{Nettes StÃ¼ck Eisen hast du da.}
+{366}{}{Ich hab spÃ¤ter noch nichts vor, wenn du ein bisschen Gesellschaft brauchst.}
+{367}{}{Ich hab schon von dir gehÃ¶rt. Du bist doch }
 {368}{}{Hat dich dein Chef geschickt, um mich zu holen?}
-{369}{}{Willst du mich etwa für ein bisschen Spaß überreden? Nur zu.}
-{370}{}{Hat der Chef mich mal erwähnt?}
+{369}{}{Willst du mich etwa fÃ¼r ein bisschen SpaÃŸ Ã¼berreden? Nur zu.}
+{370}{}{Hat der Chef mich mal erwÃ¤hnt?}
 {380}{}{Wie ist das Boxen denn so?}
-{381}{}{Vorsicht vor dem Mastikator. Er ist ein Arsch. Hat einmal versucht, mir ein Ohr abzubeißen.}
+{381}{}{Vorsicht vor dem Mastikator. Er ist ein Arsch. Hat einmal versucht, mir ein Ohr abzubeiÃŸen.}
 {382}{}{Tolles Outfit. Schick, schick.}
 {383}{}{Du siehst toll aus in diesem Outfit.}
 {384}{}{Was willst...oho, meine Dame! Willkommen im Studio.}
-{385}{}{Meine Freunde wissen gar nicht, dass ich hier arbeite. Das wär mir aber auch egal.}
-{386}{}{Äm...du könntest mir nicht vielleicht ein bisschen Jet besorgen, bitte?}
-{387}{}{Diese Dreherei leiert - äh, powert ganz schön aus.}
-{388}{}{Ob ich gleich noch was vorhab? Hmm... nö, eigentlich nicht. Überhaupt nichts sogar.}
-{389}{}{Wie ist es denn so, für den Chef zu arbeiten?}
-{390}{}{Hat der Chef mich mal erwähnt?}
+{385}{}{Meine Freunde wissen gar nicht, dass ich hier arbeite. Das wÃ¤r mir aber auch egal.}
+{386}{}{Ã„m...du kÃ¶nntest mir nicht vielleicht ein bisschen Jet besorgen, bitte?}
+{387}{}{Diese Dreherei leiert - Ã¤h, powert ganz schÃ¶n aus.}
+{388}{}{Ob ich gleich noch was vorhab? Hmm... nÃ¶, eigentlich nicht. Ãœberhaupt nichts sogar.}
+{389}{}{Wie ist es denn so, fÃ¼r den Chef zu arbeiten?}
+{390}{}{Hat der Chef mich mal erwÃ¤hnt?}
 {395}{}{Also, Fesseln und S&M sind nur mittwochs dran. Und jetzt schieb deinen Lederhintern
- gefälligst hier raus.}
-{396}{}{Ich kann mir nicht vorstellen, dass die Brüder nach "Ledern und ledern lassen" noch mal
+ gefÃ¤lligst hier raus.}
+{396}{}{Ich kann mir nicht vorstellen, dass die BrÃ¼der nach "Ledern und ledern lassen" noch mal
  was mit Leder machen wollen.}
 {397}{}{Lass mich bitte in Ruhe. Ich versuche gerade, meinen Text zu lernen.}
-{398}{}{Ich DACHTE mir doch, dass es nach Leder riecht. Aber ich hielt es für eine Couch.}
-{399}{}{Hör mal zu, Lederhäschen, wenn du noch nicht mal eine eigene Peitsche hast, haben die
- Brüder keine Zeit für dich.}
-{410}{}{Du? Nein danke. Da hätte ich ja besseren Spaß mit meinem Lippenstift.}
-{411}{}{Warum amüsierst du dich nicht ein bisschen mit einem Bleistiftspitzer?}
-{412}{}{Ich hab jetzt keine Zeit für so ein stinklangweiliges Gespräch.}
-{413}{}{Ist mir egal, auch wenn du mit einem gewissen Körperteil einen 15 cm langen Nagel in ein
+{398}{}{Ich DACHTE mir doch, dass es nach Leder riecht. Aber ich hielt es fÃ¼r eine Couch.}
+{399}{}{HÃ¶r mal zu, LederhÃ¤schen, wenn du noch nicht mal eine eigene Peitsche hast, haben die
+ BrÃ¼der keine Zeit fÃ¼r dich.}
+{410}{}{Du? Nein danke. Da hÃ¤tte ich ja besseren SpaÃŸ mit meinem Lippenstift.}
+{411}{}{Warum amÃ¼sierst du dich nicht ein bisschen mit einem Bleistiftspitzer?}
+{412}{}{Ich hab jetzt keine Zeit fÃ¼r so ein stinklangweiliges GesprÃ¤ch.}
+{413}{}{Ist mir egal, auch wenn du mit einem gewissen KÃ¶rperteil einen 15 cm langen Nagel in ein
  Brett schlagen kannst. Hau jetzt ab.}
-{414}{}{Spaß? Nein, ich bin verheiratet und ansonsten auch nicht.}
-{415}{}{Ich verabrede mich nicht mit Weißen. Wenn du dir ein anderes Figurenmodell ausgesucht
- hättest, dann vielleicht.}
+{414}{}{SpaÃŸ? Nein, ich bin verheiratet und ansonsten auch nicht.}
+{415}{}{Ich verabrede mich nicht mit WeiÃŸen. Wenn du dir ein anderes Figurenmodell ausgesucht
+ hÃ¤ttest, dann vielleicht.}
 {416}{}{Du kannst gar nicht besser sein als mein Massage-Duschkopf.}
-{417}{}{Du siehst nicht so aus, als könntest du meine Kaufsucht finanzieren.}
-{418}{}{Schätzchen, du könntest mich dir doch gar nicht leisten.}
+{417}{}{Du siehst nicht so aus, als kÃ¶nntest du meine Kaufsucht finanzieren.}
+{418}{}{SchÃ¤tzchen, du kÃ¶nntest mich dir doch gar nicht leisten.}
 {419}{}{Ich warte auf den Richtigen. Vielen Dank, dass du mir so lange Gesellschaft leistest.}
-{420}{}{Wenn du in mein Höschen willst, hast du dabei kein Glück. Darin ist nur Platz für einen
+{420}{}{Wenn du in mein HÃ¶schen willst, hast du dabei kein GlÃ¼ck. Darin ist nur Platz fÃ¼r einen
  Hintern.}
-{421}{}{Tut mir leid, ich dachte, du sähst gut aus. Hab mich wohl vertan.}
+{421}{}{Tut mir leid, ich dachte, du sÃ¤hst gut aus. Hab mich wohl vertan.}
 {422}{}{Du? Tut mir leid, aber SO verzweifelt werde ich nie sein.}
-{423}{}{Ich hab die Brüder auch nicht gesehen...und jetzt geh mir nicht auf die Nerven. Ich bin
+{423}{}{Ich hab die BrÃ¼der auch nicht gesehen...und jetzt geh mir nicht auf die Nerven. Ich bin
  Schauspielerin.}
 {424}{}{Bitte...keine Autogramme.}
-{425}{}{Ich möchte eigentlich Regie führen.}
+{425}{}{Ich mÃ¶chte eigentlich Regie fÃ¼hren.}
 {426}{}{Am Donnerstag tanze ich in den Kasinos. Du kannst ja kommen und ein paar Chips
  mitbringen.}
 {427}{}{Du kannst dir gar nicht vorstellen, wie stressig mein Leben ist.}
-{428}{}{Meine Freunde wissen gar nicht, dass ich hier arbeite. Das wär mir aber auch egal.}
+{428}{}{Meine Freunde wissen gar nicht, dass ich hier arbeite. Das wÃ¤r mir aber auch egal.}
 {429}{}{BITTE geh mir nicht auf die Nerven. Ich versuche gerade, meinen Text zu lernen.}
-{430}{}{Wenn du Arbeit suchst, red mal mit den Brüdern.}
+{430}{}{Wenn du Arbeit suchst, red mal mit den BrÃ¼dern.}
 {431}{}{Bist du der neue Fluffer?}
 {432}{}{Bist du der neue Hausmeister? Ich kann mir nicht vorstellen, wer du sonst sein solltest. }
-{433}{}{Wenn du der neue Hausmeister bist, könntest du mir mal den Hintern abwischen. }
-{434}{}{Nein, ich hab die Brüder nicht gesehen, Kleine...und jetzt stör mich nicht. Ich bin
+{433}{}{Wenn du der neue Hausmeister bist, kÃ¶nntest du mir mal den Hintern abwischen. }
+{434}{}{Nein, ich hab die BrÃ¼der nicht gesehen, Kleine...und jetzt stÃ¶r mich nicht. Ich bin
  Schauspielerin.}
 {435}{}{Och komm, Kleine...keine Autogramme.}
-{436}{}{Wenn du dich ein bisschen zurechtmachen würdest, könntest du VIELLEICHT eine echte
+{436}{}{Wenn du dich ein bisschen zurechtmachen wÃ¼rdest, kÃ¶nntest du VIELLEICHT eine echte
  Schnitte sein.}
-{437}{}{Tut mir leid, ich kann die Lesbe nicht für unter 200 Chips geben. Für dich 300.}
+{437}{}{Tut mir leid, ich kann die Lesbe nicht fÃ¼r unter 200 Chips geben. FÃ¼r dich 300.}
 {438}{}{Am Donnerstag tanze ich in den Kasinos. Du kannst ja kommen und ein paar Chips
  mitbringen.}
 {439}{}{Kleine, du KANNST dir gar nicht vorstellen, wie stressig mein Leben ist.}

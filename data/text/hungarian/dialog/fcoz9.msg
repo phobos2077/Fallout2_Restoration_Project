@@ -1,115 +1,115 @@
-{100}{}{Jól öltözött férfi.}
-{101}{}{? a Nagy és Rettegett BHK-9.}
-{102}{}{Jól öltözött férfi.}
-{103}{}{Maga meggyalázza a Hub nevét! Meg kell halnia!}
-{104}{}{A maga pogánysága nem ismer határokat!}
-{105}{}{A Nagy Kerék átgázol magán!}
-{106}{}{Maga most a Nagy és Rettegett BHK-9 jelenlétében tartózkodik. Mit kíván t?le?}
+{100}{}{JÃ³l Ã¶ltÃ¶zÃ¶tt fÃ©rfi.}
+{101}{}{? a Nagy Ã©s Rettegett BHK-9.}
+{102}{}{JÃ³l Ã¶ltÃ¶zÃ¶tt fÃ©rfi.}
+{103}{}{Maga meggyalÃ¡zza a Hub nevÃ©t! Meg kell halnia!}
+{104}{}{A maga pogÃ¡nysÃ¡ga nem ismer hatÃ¡rokat!}
+{105}{}{A Nagy KerÃ©k Ã¡tgÃ¡zol magÃ¡n!}
+{106}{}{Maga most a Nagy Ã©s Rettegett BHK-9 jelenlÃ©tÃ©ben tartÃ³zkodik. Mit kÃ­vÃ¡n t?le?}
 {107}{}{Agh a nu, BHK!}
-{108}{}{A népemet keresem. Úgy hallottam, repül? alkalmatosságokon érkeztek ide.}
-{109}{}{Sok kérdésem van magához, BHK-9.}
-{110}{}{Az ÚKK-beli Megvilágosodott azt akarta, hogy hozzak el magának egy levelet. Nem említett valami jutalmat?}
-{111}{}{Az ÚKK-beli Megvilágosodott azt akarta, hogy hozzak el magának egy levelet. Tessék.}
-{112}{}{Ó, BHK-9, hoztam magának egy levelet az egyik ÚKK-beli ügynökét?l. Meghajlok a dics?sége el?tt.}
-{113}{}{A halálát... Isten önnel, vénember.}
-{114}{}{Semmit, bocsánat.}
+{108}{}{A nÃ©pemet keresem. Ãšgy hallottam, repÃ¼l? alkalmatossÃ¡gokon Ã©rkeztek ide.}
+{109}{}{Sok kÃ©rdÃ©sem van magÃ¡hoz, BHK-9.}
+{110}{}{Az ÃšKK-beli MegvilÃ¡gosodott azt akarta, hogy hozzak el magÃ¡nak egy levelet. Nem emlÃ­tett valami jutalmat?}
+{111}{}{Az ÃšKK-beli MegvilÃ¡gosodott azt akarta, hogy hozzak el magÃ¡nak egy levelet. TessÃ©k.}
+{112}{}{Ã“, BHK-9, hoztam magÃ¡nak egy levelet az egyik ÃšKK-beli Ã¼gynÃ¶kÃ©t?l. Meghajlok a dics?sÃ©ge el?tt.}
+{113}{}{A halÃ¡lÃ¡t... Isten Ã¶nnel, vÃ©nember.}
+{114}{}{Semmit, bocsÃ¡nat.}
 {115}{}{Igen, gyermekem?}
-{116}{}{Hinchoaf? [Ért engem?]}
-{117}{}{Aagga diggle doodle doo! [Ó, hála az égnek. A népemet keresem. Át kell kelnem a nagy vízen.]}
-{118}{}{Kakis gatya! [Hát, köszönöm, hogy meghallgat. Most rohannom kell. Öröm volt magával beszélni.]}
-{119}{}{Egy szót sem értek abból, amit mond. Talán meg kéne látogatnia Juan-t vagy Vikkit egy kis behangolás ügyében.}
-{120}{}{Köfi!}
-{121}{}{Természetesen, gyermekem. A behangolás megtisztította az alap neurodinjait és hozzáigazította az enyémhez, valamint a Nagy Kerék küll?ihez. Mire van szüksége?}
-{122}{}{Aagga diggle doodle doo! [Ó, hála az égnek. A népemet keresem. Át kell kelnem a nagy vízen.]}
-{123}{}{B-b-b-enny [Semmi-semmi, köszönöm. Nagyon örülök, hogy beszélhettünk. Viszlát!]}
-{124}{}{Ha beleegyezik, hogy megtesz nekem egy szívességet, segítek magán, gyermekem.}
-{125}{}{Oik? [Mi lenne az? Szíves-örömest segítenék.]}
+{116}{}{Hinchoaf? [Ã‰rt engem?]}
+{117}{}{Aagga diggle doodle doo! [Ã“, hÃ¡la az Ã©gnek. A nÃ©pemet keresem. Ãt kell kelnem a nagy vÃ­zen.]}
+{118}{}{Kakis gatya! [HÃ¡t, kÃ¶szÃ¶nÃ¶m, hogy meghallgat. Most rohannom kell. Ã–rÃ¶m volt magÃ¡val beszÃ©lni.]}
+{119}{}{Egy szÃ³t sem Ã©rtek abbÃ³l, amit mond. TalÃ¡n meg kÃ©ne lÃ¡togatnia Juan-t vagy Vikkit egy kis behangolÃ¡s Ã¼gyÃ©ben.}
+{120}{}{KÃ¶fi!}
+{121}{}{TermÃ©szetesen, gyermekem. A behangolÃ¡s megtisztÃ­totta az alap neurodinjait Ã©s hozzÃ¡igazÃ­totta az enyÃ©mhez, valamint a Nagy KerÃ©k kÃ¼ll?ihez. Mire van szÃ¼ksÃ©ge?}
+{122}{}{Aagga diggle doodle doo! [Ã“, hÃ¡la az Ã©gnek. A nÃ©pemet keresem. Ãt kell kelnem a nagy vÃ­zen.]}
+{123}{}{B-b-b-enny [Semmi-semmi, kÃ¶szÃ¶nÃ¶m. Nagyon Ã¶rÃ¼lÃ¶k, hogy beszÃ©lhettÃ¼nk. ViszlÃ¡t!]}
+{124}{}{Ha beleegyezik, hogy megtesz nekem egy szÃ­vessÃ©get, segÃ­tek magÃ¡n, gyermekem.}
+{125}{}{Oik? [Mi lenne az? SzÃ­ves-Ã¶rÃ¶mest segÃ­tenÃ©k.]}
 {126}{}{Nem!}
-{127}{}{Az ellenlábasom, a Shi város Uralkodója, megkeseríti az életemet. Szeretném, ha pontot tenne erre. Cserébe lehet?vé teszem, hogy eljusson oda, ahová szeretne.}
+{127}{}{Az ellenlÃ¡basom, a Shi vÃ¡ros UralkodÃ³ja, megkeserÃ­ti az Ã©letemet. SzeretnÃ©m, ha pontot tenne erre. CserÃ©be lehet?vÃ© teszem, hogy eljusson oda, ahovÃ¡ szeretne.}
 {128}{}{Ays! [Megteszem.]}
 {129}{}{Nem!}
-{130}{}{Tudassa velem, ha meggondolná magát. Vésse az eszébe, lehet, hogy én vagyok az egyetlen ember, aki segíthet a családja el?kerítésében.}
-{131}{}{Ok. [Mi lenne ez a szívesség?]}
-{132}{}{Didgeroo! [Köszönöm, nem szívesen tartoznék valakinek. Ég áldja!]}
-{133}{}{Jó. Tudassa velem, ha végzett, és mindent megmozgatok közben, hogy maga elérhesse a célját. Az ég áldja, gyermekem!}
-{134}{}{'szlát! [Ég áldja, BHK-9. Ön nagyszer? ember.]}
-{135}{}{Teljesítette a feladatát? A maga jöv?je és a Kerék bolygónkra kifejtett hatása függ ett?l!}
-{136}{}{Ingatod a fejed... [Még nem. Csak be akartam köszönni.]}
-{137}{}{Még dolgozom az ügyön. Kérdezhetek?}
-{138}{}{Még nem. Kés?bb visszajövök még.}
-{139}{}{Üdv magának is. Kérem, tegyen pontot a feladatára, hogy megsegíthessem magát!}
+{130}{}{Tudassa velem, ha meggondolnÃ¡ magÃ¡t. VÃ©sse az eszÃ©be, lehet, hogy Ã©n vagyok az egyetlen ember, aki segÃ­thet a csalÃ¡dja el?kerÃ­tÃ©sÃ©ben.}
+{131}{}{Ok. [Mi lenne ez a szÃ­vessÃ©g?]}
+{132}{}{Didgeroo! [KÃ¶szÃ¶nÃ¶m, nem szÃ­vesen tartoznÃ©k valakinek. Ã‰g Ã¡ldja!]}
+{133}{}{JÃ³. Tudassa velem, ha vÃ©gzett, Ã©s mindent megmozgatok kÃ¶zben, hogy maga elÃ©rhesse a cÃ©ljÃ¡t. Az Ã©g Ã¡ldja, gyermekem!}
+{134}{}{'szlÃ¡t! [Ã‰g Ã¡ldja, BHK-9. Ã–n nagyszer? ember.]}
+{135}{}{TeljesÃ­tette a feladatÃ¡t? A maga jÃ¶v?je Ã©s a KerÃ©k bolygÃ³nkra kifejtett hatÃ¡sa fÃ¼gg ett?l!}
+{136}{}{Ingatod a fejed... [MÃ©g nem. Csak be akartam kÃ¶szÃ¶nni.]}
+{137}{}{MÃ©g dolgozom az Ã¼gyÃ¶n. KÃ©rdezhetek?}
+{138}{}{MÃ©g nem. KÃ©s?bb visszajÃ¶vÃ¶k mÃ©g.}
+{139}{}{Ãœdv magÃ¡nak is. KÃ©rem, tegyen pontot a feladatÃ¡ra, hogy megsegÃ­thessem magÃ¡t!}
 {140}{}{Ng! Ng! [Igen, uram!]}
-{141}{}{Látom a kisugárzásaiból, hogy sikeresen megszabadította a világot az Uralkodó szennyez? neurodinjaitól.}
-{142}{}{Jirsa! [Igen, végeztem. Hogy is szólt a megállapodás magára es? része?]}
-{143}{}{Igen, végeztem. Akkor most térjünk rá arra, hogyan segíthet a népemen.}
-{144}{}{Ha elmegy a Shi-városi dokkba, megtalálja a POT Valdezt. Lépjen a hajó fedélzetére! Menjen jobbra, egyenesen a kapitányi hídra. Nyomja meg a Start gombot és a tanker elviszi oda, ahova akarja.}
-{145}{}{Köfi! [Örömömre szolgált, hogy találkoztunk, BHK-9. A legjobbakat kívánom. Ég magával!]}
-{146}{}{Repül? hajók? Nyilván az Enklávéra és a gépmaradaikra gondol.}
-{147}{}{Igen, nagy eséllyel.}
-{148}{}{Enklávé? Miféle Enklávé?}
-{149}{}{Bízzon bennem, gyermekem, maga pontosan az Enklávéra utalt.}
-{150}{}{Igen-igen, rendben. Hogy találom meg ?ket?}
-{151}{}{Az Enklávé a múlt maradványa - egy behangolandó neurodin. Régi-Kalifornia minden egyes zugában vannak rejtett bázisaik, de a leger?sebb er?djük nyugat felé található, a tengeren.}
+{141}{}{LÃ¡tom a kisugÃ¡rzÃ¡saibÃ³l, hogy sikeresen megszabadÃ­totta a vilÃ¡got az UralkodÃ³ szennyez? neurodinjaitÃ³l.}
+{142}{}{Jirsa! [Igen, vÃ©geztem. Hogy is szÃ³lt a megÃ¡llapodÃ¡s magÃ¡ra es? rÃ©sze?]}
+{143}{}{Igen, vÃ©geztem. Akkor most tÃ©rjÃ¼nk rÃ¡ arra, hogyan segÃ­thet a nÃ©pemen.}
+{144}{}{Ha elmegy a Shi-vÃ¡rosi dokkba, megtalÃ¡lja a POT Valdezt. LÃ©pjen a hajÃ³ fedÃ©lzetÃ©re! Menjen jobbra, egyenesen a kapitÃ¡nyi hÃ­dra. Nyomja meg a Start gombot Ã©s a tanker elviszi oda, ahova akarja.}
+{145}{}{KÃ¶fi! [Ã–rÃ¶mÃ¶mre szolgÃ¡lt, hogy talÃ¡lkoztunk, BHK-9. A legjobbakat kÃ­vÃ¡nom. Ã‰g magÃ¡val!]}
+{146}{}{RepÃ¼l? hajÃ³k? NyilvÃ¡n az EnklÃ¡vÃ©ra Ã©s a gÃ©pmaradaikra gondol.}
+{147}{}{Igen, nagy esÃ©llyel.}
+{148}{}{EnklÃ¡vÃ©? MifÃ©le EnklÃ¡vÃ©?}
+{149}{}{BÃ­zzon bennem, gyermekem, maga pontosan az EnklÃ¡vÃ©ra utalt.}
+{150}{}{Igen-igen, rendben. Hogy talÃ¡lom meg ?ket?}
+{151}{}{Az EnklÃ¡vÃ© a mÃºlt maradvÃ¡nya - egy behangolandÃ³ neurodin. RÃ©gi-Kalifornia minden egyes zugÃ¡ban vannak rejtett bÃ¡zisaik, de a leger?sebb er?djÃ¼k nyugat felÃ© talÃ¡lhatÃ³, a tengeren.}
 {152}{}{Hogyan jutok oda?}
 {153}{}{Honnan tud minderr?l?}
-{154}{}{Gyermekem, erre magának kell rájönnie. Kérdez?sködjön, és megtalálja az igazságot!}
-{155}{}{Szerfelett segít?kész... Feltennék néhány kérdést ellenben...}
+{154}{}{Gyermekem, erre magÃ¡nak kell rÃ¡jÃ¶nnie. KÃ©rdez?skÃ¶djÃ¶n, Ã©s megtalÃ¡lja az igazsÃ¡got!}
+{155}{}{Szerfelett segÃ­t?kÃ©sz... FeltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st ellenben...}
 {156}{}{Honnan tud minderr?l?}
-{157}{}{Ahogy gondolja. Viszlát!}
+{157}{}{Ahogy gondolja. ViszlÃ¡t!}
 {158}{}{Child, I am AHS-9. I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?}
-{159}{}{Még kérdeznék, ha nem tartom fel.}
-{160}{}{Visszatérhet a meditációhoz. Én megtettem a dolgom.}
-{161}{}{Megölte már az Uralkodót és megsemmisítette a talpnyalóit?}
+{159}{}{MÃ©g kÃ©rdeznÃ©k, ha nem tartom fel.}
+{160}{}{VisszatÃ©rhet a meditÃ¡ciÃ³hoz. Ã‰n megtettem a dolgom.}
+{161}{}{MegÃ¶lte mÃ¡r az UralkodÃ³t Ã©s megsemmisÃ­tette a talpnyalÃ³it?}
 {162}{}{Igen, meg.}
-{163}{}{Akkor nincs senki, aki az utamba álljon! De nem szükséges, hogy egy közönséges eszköz bámuljon engem. Ég magával - isten vele!}
-{164}{}{Na, maga mocsadék! Most megölöm!}
-{165}{}{Értem, hát ha ez az egyetlen módja... Na, ég áldja!}
-{166}{}{Levelet kaptam a Megvilágosodott-tól? Szóval így nevezi magát mostanság? Na, hiszen... [átveszi a levelet] Jutalmat ígért? Tessék a jutalma - a hálám. Minden jót!}
-{167}{}{Csakugyan? Akkor most szépen megy a másvilágra, vénember!}
-{168}{}{Ööö, inkább kérdeznék valamit.}
-{169}{}{H?, ezzel aztán kivagyok a vízb?l. Viszlát!}
-{170}{}{A kérdéseit BHK-7-nek tegye fel! Én a Nagy és Rettegett BHK-9 vagyok, és rengeteg probléma foglalkoztat. Ne lopja a drága id?met, pép!}
-{171}{}{Ha nem válaszol a kérdéseimre, majd válaszol a fegyvereimére!}
+{163}{}{Akkor nincs senki, aki az utamba Ã¡lljon! De nem szÃ¼ksÃ©ges, hogy egy kÃ¶zÃ¶nsÃ©ges eszkÃ¶z bÃ¡muljon engem. Ã‰g magÃ¡val - isten vele!}
+{164}{}{Na, maga mocsadÃ©k! Most megÃ¶lÃ¶m!}
+{165}{}{Ã‰rtem, hÃ¡t ha ez az egyetlen mÃ³dja... Na, Ã©g Ã¡ldja!}
+{166}{}{Levelet kaptam a MegvilÃ¡gosodott-tÃ³l? SzÃ³val Ã­gy nevezi magÃ¡t mostansÃ¡g? Na, hiszen... [Ã¡tveszi a levelet] Jutalmat Ã­gÃ©rt? TessÃ©k a jutalma - a hÃ¡lÃ¡m. Minden jÃ³t!}
+{167}{}{Csakugyan? Akkor most szÃ©pen megy a mÃ¡svilÃ¡gra, vÃ©nember!}
+{168}{}{Ã–Ã¶Ã¶, inkÃ¡bb kÃ©rdeznÃ©k valamit.}
+{169}{}{H?, ezzel aztÃ¡n kivagyok a vÃ­zb?l. ViszlÃ¡t!}
+{170}{}{A kÃ©rdÃ©seit BHK-7-nek tegye fel! Ã‰n a Nagy Ã©s Rettegett BHK-9 vagyok, Ã©s rengeteg problÃ©ma foglalkoztat. Ne lopja a drÃ¡ga id?met, pÃ©p!}
+{171}{}{Ha nem vÃ¡laszol a kÃ©rdÃ©seimre, majd vÃ¡laszol a fegyvereimÃ©re!}
 {172}{}{Ahogy gondolja.}
-{173}{}{Ahh, szóval levél jött a megbízottamtól. Kár, hogy "Megvilágosodottnak" hívja magát - ez mutatja, hogy még nagyon messze áll a megvilágosodottságtól. Fogadja hálámat!}
-{174}{}{No problemo. Viszont volna egy-két kérdésem.}
-{175}{}{Nagyszer?! Viszlát!}
+{173}{}{Ahh, szÃ³val levÃ©l jÃ¶tt a megbÃ­zottamtÃ³l. KÃ¡r, hogy "MegvilÃ¡gosodottnak" hÃ­vja magÃ¡t - ez mutatja, hogy mÃ©g nagyon messze Ã¡ll a megvilÃ¡gosodottsÃ¡gtÃ³l. Fogadja hÃ¡lÃ¡mat!}
+{174}{}{No problemo. Viszont volna egy-kÃ©t kÃ©rdÃ©sem.}
+{175}{}{Nagyszer?! ViszlÃ¡t!}
 {176}{}{Igen, gyermekem?}
-{177}{}{Mikor száll fel az ?rhajó?}
-{178}{}{Van valami feladata a számomra?}
-{179}{}{Hova megy az általunk gy?jtött tömérdek pénz?}
-{180}{}{Ó, semmit. Vegye úgy, hogy nem mondtam semmit!}
-{181}{}{Az ellenlábasom, a Shi város Uralkodója, megkeseríti az életemet. Szeretném, ha pontot tenne erre. Cserébe lehet?vé teszem, hogy eljusson oda, ahová szeretne.}
-{182}{}{Hogyne, f?nök. Viszlát!}
-{183}{}{Inkább nem.}
+{177}{}{Mikor szÃ¡ll fel az ?rhajÃ³?}
+{178}{}{Van valami feladata a szÃ¡momra?}
+{179}{}{Hova megy az Ã¡ltalunk gy?jtÃ¶tt tÃ¶mÃ©rdek pÃ©nz?}
+{180}{}{Ã“, semmit. Vegye Ãºgy, hogy nem mondtam semmit!}
+{181}{}{Az ellenlÃ¡basom, a Shi vÃ¡ros UralkodÃ³ja, megkeserÃ­ti az Ã©letemet. SzeretnÃ©m, ha pontot tenne erre. CserÃ©be lehet?vÃ© teszem, hogy eljusson oda, ahovÃ¡ szeretne.}
+{182}{}{Hogyne, f?nÃ¶k. ViszlÃ¡t!}
+{183}{}{InkÃ¡bb nem.}
 {184}{}{Seek out Badger, whose caustic presence holds those pathetic tanker vagrants together. Rid our fair city of him. When you have done so, visit AHS-7.}
-{185}{}{Hogyne, f?nök. Viszlát!}
-{186}{}{Inkább nem.}
-{187}{}{Azt hiszem, nem voltam egészen érthet?, gyermekem. Ölje meg!}
+{185}{}{Hogyne, f?nÃ¶k. ViszlÃ¡t!}
+{186}{}{InkÃ¡bb nem.}
+{187}{}{Azt hiszem, nem voltam egÃ©szen Ã©rthet?, gyermekem. Ã–lje meg!}
 {188}{}{Nem.}
-{189}{}{Ó, rendben. Úgy lesz.}
-{190}{}{Maga ellenszegül a Nagy és Rettegett BHK-9 parancsainak? Akkor jöjjön a halál!}
-{191}{}{Ne fogja vissza magát!}
-{192}{}{Várjon, meggondoltam magam!}
-{193}{}{Túl kés?, Pép! Bebizonyította, hogy nem bízhatunk magában! Most meghal!}
+{189}{}{Ã“, rendben. Ãšgy lesz.}
+{190}{}{Maga ellenszegÃ¼l a Nagy Ã©s Rettegett BHK-9 parancsainak? Akkor jÃ¶jjÃ¶n a halÃ¡l!}
+{191}{}{Ne fogja vissza magÃ¡t!}
+{192}{}{VÃ¡rjon, meggondoltam magam!}
+{193}{}{TÃºl kÃ©s?, PÃ©p! BebizonyÃ­totta, hogy nem bÃ­zhatunk magÃ¡ban! Most meghal!}
 {194}{}{[DONE]}
-{195}{}{Gyermekem, vannak dolgok, amit magának nem kell tudnia. [Nyájasan mosolyog hozzá.]}
-{196}{}{Rendben van. Viszont kérdeznék egy s mást.}
-{197}{}{Hm. Viszlát!}
-{198}{}{Amint jól állnak a csillagok, az ESS Quetzel rögtön startol. }
-{199}{}{Jól van, jól! Még kérdeznék valamit.}
-{200}{}{Kösz. Viszlát!}
-{201}{}{Összezavart aurája arról árulkodik nekem, hogy nem jó szándékkal érkezett. Mondja meg, gyermekem, akar-e profitálni a vakmer?ségéb?l?}
+{195}{}{Gyermekem, vannak dolgok, amit magÃ¡nak nem kell tudnia. [NyÃ¡jasan mosolyog hozzÃ¡.]}
+{196}{}{Rendben van. Viszont kÃ©rdeznÃ©k egy s mÃ¡st.}
+{197}{}{Hm. ViszlÃ¡t!}
+{198}{}{Amint jÃ³l Ã¡llnak a csillagok, az ESS Quetzel rÃ¶gtÃ¶n startol. }
+{199}{}{JÃ³l van, jÃ³l! MÃ©g kÃ©rdeznÃ©k valamit.}
+{200}{}{KÃ¶sz. ViszlÃ¡t!}
+{201}{}{Ã–sszezavart aurÃ¡ja arrÃ³l Ã¡rulkodik nekem, hogy nem jÃ³ szÃ¡ndÃ©kkal Ã©rkezett. Mondja meg, gyermekem, akar-e profitÃ¡lni a vakmer?sÃ©gÃ©b?l?}
 {202}{}{Igen.}
 {203}{}{Nem.}
-{204}{}{Nem, egyszer?en csak megölöm magát!}
-{205}{}{Akkor íme az ajánlatom: térjen vissza a Shik közé, ölje meg Ken Leet és az Uralkodót! Annyi pénzt adok magának, amennyir?l csak álmodozhatott egész életében.}
-{206}{}{Nem, nem hinném}
-{207}{}{Üzleteljünk hát, dagadék!}
-{208}{}{Akkor menjen és zúzza szét azokat a bajt hozó lelkeket! Várom a sikerér?l szóló beszámolót. [Üdvözülten mosolyog.]}
-{209}{}{Ég áldja!}
-{210}{}{Nem, várjon, meggondoltam magam! Azt akarom, hogy maga haljon meg!}
-{211}{}{Ah, gyermekem, hogy tudott így letérni az igazság ösvényér?l? Látom az aurájából, hogy meg akar ölni engem. Mélységesen csalódott vagyok. Mélységesen. Nos, jöjjön, aminek jönnie kell!}
-{212}{}{Igen, jöhet a halál...}
-{213}{}{Emlékeztetem, hogy BHK-7-hez kell mennie, ha teljesítette feladatát!}
-{214}{}{Minden célunkat elértük. Visszatérhetek a meditációra.}
+{204}{}{Nem, egyszer?en csak megÃ¶lÃ¶m magÃ¡t!}
+{205}{}{Akkor Ã­me az ajÃ¡nlatom: tÃ©rjen vissza a Shik kÃ¶zÃ©, Ã¶lje meg Ken Leet Ã©s az UralkodÃ³t! Annyi pÃ©nzt adok magÃ¡nak, amennyir?l csak Ã¡lmodozhatott egÃ©sz Ã©letÃ©ben.}
+{206}{}{Nem, nem hinnÃ©m}
+{207}{}{ÃœzleteljÃ¼nk hÃ¡t, dagadÃ©k!}
+{208}{}{Akkor menjen Ã©s zÃºzza szÃ©t azokat a bajt hozÃ³ lelkeket! VÃ¡rom a sikerÃ©r?l szÃ³lÃ³ beszÃ¡molÃ³t. [ÃœdvÃ¶zÃ¼lten mosolyog.]}
+{209}{}{Ã‰g Ã¡ldja!}
+{210}{}{Nem, vÃ¡rjon, meggondoltam magam! Azt akarom, hogy maga haljon meg!}
+{211}{}{Ah, gyermekem, hogy tudott Ã­gy letÃ©rni az igazsÃ¡g Ã¶svÃ©nyÃ©r?l? LÃ¡tom az aurÃ¡jÃ¡bÃ³l, hogy meg akar Ã¶lni engem. MÃ©lysÃ©gesen csalÃ³dott vagyok. MÃ©lysÃ©gesen. Nos, jÃ¶jjÃ¶n, aminek jÃ¶nnie kell!}
+{212}{}{Igen, jÃ¶het a halÃ¡l...}
+{213}{}{EmlÃ©keztetem, hogy BHK-7-hez kell mennie, ha teljesÃ­tette feladatÃ¡t!}
+{214}{}{Minden cÃ©lunkat elÃ©rtÃ¼k. VisszatÃ©rhetek a meditÃ¡ciÃ³ra.}

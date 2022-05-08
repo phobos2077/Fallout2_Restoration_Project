@@ -1,68 +1,68 @@
-{100}{}{Egy slampos palástot visel? illet?.}
-{101}{}{Na, még egy palástot visel? Hubologista.}
-{102}{}{Egy palástba öltözött ismeretlen.}
-{103}{}{Ki maga? Mit csinál itt?}
-{104}{}{Ugye magának nem lehetne itt tartózkodni?}
-{105}{}{Nézzétek! Perem Pépnek való!}
-{106}{}{Hé! Ki engedte ide azt a Perem Pépnek valót!}
-{107}{}{Kíséret nélkül nem szabadna itt lófrálnia!}
-{108}{}{Ahh! Szóval beavatkozik a neurodinjaimba!}
-{109}{}{Távozzon innen, hitetlen!}
-{110}{}{Ne beszéljen hozzám, elfoglalt ember vagyok!}
-{111}{}{Hé! Ne böködje a neurodinjaimat!}
-{112}{}{Meglehet, hogy jobban kedvelném magát, ha be lenne hangolva.}
-{113}{}{Csillagbéli Atyánk szeretni fogja magát, ha maga is engedi.}
-{114}{}{Nem akarja látni Quetzel-t? Jöjjön, csatlakozzon hozzánk!}
-{115}{}{Beszéljen BHK-7-el és álljon be hozzánk!}
-{116}{}{Vannak Hubologista hírességeink is ám.}
-{117}{}{Juan Cruz és Vikki Goldman híres emberek! Magam is ezért csatlakoztam.}
-{118}{}{Ha jól viseli magát, a hírességeink biztos szóba állnak magával.}
+{100}{}{Egy slampos palÃ¡stot visel? illet?.}
+{101}{}{Na, mÃ©g egy palÃ¡stot visel? Hubologista.}
+{102}{}{Egy palÃ¡stba Ã¶ltÃ¶zÃ¶tt ismeretlen.}
+{103}{}{Ki maga? Mit csinÃ¡l itt?}
+{104}{}{Ugye magÃ¡nak nem lehetne itt tartÃ³zkodni?}
+{105}{}{NÃ©zzÃ©tek! Perem PÃ©pnek valÃ³!}
+{106}{}{HÃ©! Ki engedte ide azt a Perem PÃ©pnek valÃ³t!}
+{107}{}{KÃ­sÃ©ret nÃ©lkÃ¼l nem szabadna itt lÃ³frÃ¡lnia!}
+{108}{}{Ahh! SzÃ³val beavatkozik a neurodinjaimba!}
+{109}{}{TÃ¡vozzon innen, hitetlen!}
+{110}{}{Ne beszÃ©ljen hozzÃ¡m, elfoglalt ember vagyok!}
+{111}{}{HÃ©! Ne bÃ¶kÃ¶dje a neurodinjaimat!}
+{112}{}{Meglehet, hogy jobban kedvelnÃ©m magÃ¡t, ha be lenne hangolva.}
+{113}{}{CsillagbÃ©li AtyÃ¡nk szeretni fogja magÃ¡t, ha maga is engedi.}
+{114}{}{Nem akarja lÃ¡tni Quetzel-t? JÃ¶jjÃ¶n, csatlakozzon hozzÃ¡nk!}
+{115}{}{BeszÃ©ljen BHK-7-el Ã©s Ã¡lljon be hozzÃ¡nk!}
+{116}{}{Vannak Hubologista hÃ­ressÃ©geink is Ã¡m.}
+{117}{}{Juan Cruz Ã©s Vikki Goldman hÃ­res emberek! Magam is ezÃ©rt csatlakoztam.}
+{118}{}{Ha jÃ³l viseli magÃ¡t, a hÃ­ressÃ©geink biztos szÃ³ba Ã¡llnak magÃ¡val.}
 {119}{}{Szeretem a Hub-ot!}
-{120}{}{Szeretem a Hubologista létet.}
-{121}{}{Ösztönözni akarom rejtett képességeimet.}
-{122}{}{Az igazat megvallva még mindig csak tanulom a zsargont.}
-{123}{}{Dícsértessék a Hub!}
-{124}{}{Dícsértessék a Nagy Kerék!}
-{125}{}{Elmegyünk a Quetzel-re!}
-{126}{}{Alig várom, hogy csillagbéli otthonunkba jussak.}
-{127}{}{Kérem, ne zavarjon! Épp koncentrálom a neurodinjaimat.}
-{128}{}{Kérem, ne hangolja vissza a neurodinjaimat!}
-{138}{}{Ó, ne! Az Üldöz?!}
-{139}{}{Itt a Nem-Megvilágosodott!}
-{140}{}{Távozz t?lem, gonosz lélek!}
-{141}{}{Egyértelm?, hogy maga tele van rossz neurodinokkal!}
-{142}{}{Ne! Ne kátyúsítson el a gy?löletével!}
-{143}{}{?rség! ?rség! Ide jött a barbár!}
-{144}{}{Hozzám ne érj!}
-{145}{}{Segítség! ?rség!}
-{146}{}{A népünk ellensége!}
-{147}{}{A sötét id?k újra bennünket sújtanak!}
-{148}{}{Csillagbéli Atyám! Ments meg a pogánytól!}
-{149}{}{Valaki agyonsújt majd hitszegésedért!}
+{120}{}{Szeretem a Hubologista lÃ©tet.}
+{121}{}{Ã–sztÃ¶nÃ¶zni akarom rejtett kÃ©pessÃ©geimet.}
+{122}{}{Az igazat megvallva mÃ©g mindig csak tanulom a zsargont.}
+{123}{}{DÃ­csÃ©rtessÃ©k a Hub!}
+{124}{}{DÃ­csÃ©rtessÃ©k a Nagy KerÃ©k!}
+{125}{}{ElmegyÃ¼nk a Quetzel-re!}
+{126}{}{Alig vÃ¡rom, hogy csillagbÃ©li otthonunkba jussak.}
+{127}{}{KÃ©rem, ne zavarjon! Ã‰pp koncentrÃ¡lom a neurodinjaimat.}
+{128}{}{KÃ©rem, ne hangolja vissza a neurodinjaimat!}
+{138}{}{Ã“, ne! Az ÃœldÃ¶z?!}
+{139}{}{Itt a Nem-MegvilÃ¡gosodott!}
+{140}{}{TÃ¡vozz t?lem, gonosz lÃ©lek!}
+{141}{}{EgyÃ©rtelm?, hogy maga tele van rossz neurodinokkal!}
+{142}{}{Ne! Ne kÃ¡tyÃºsÃ­tson el a gy?lÃ¶letÃ©vel!}
+{143}{}{?rsÃ©g! ?rsÃ©g! Ide jÃ¶tt a barbÃ¡r!}
+{144}{}{HozzÃ¡m ne Ã©rj!}
+{145}{}{SegÃ­tsÃ©g! ?rsÃ©g!}
+{146}{}{A nÃ©pÃ¼nk ellensÃ©ge!}
+{147}{}{A sÃ¶tÃ©t id?k Ãºjra bennÃ¼nket sÃºjtanak!}
+{148}{}{CsillagbÃ©li AtyÃ¡m! Ments meg a pogÃ¡nytÃ³l!}
+{149}{}{Valaki agyonsÃºjt majd hitszegÃ©sedÃ©rt!}
 {150}{}{Szeretem a Hub-ot!}
-{151}{}{Szeretem a Hubologista létet.}
-{152}{}{Ösztönözni akarom rejtett képességeimet.}
-{153}{}{Az igazat megvallva még mindig csak tanulom a zsargont.}
-{154}{}{Dícsértessék a Hub!}
-{155}{}{Dícsértessék a Nagy Kerék!}
-{156}{}{Elmegyünk a Quetzel-re!}
-{157}{}{Alig várom, hogy csillagbéli otthonunkba jussak.}
-{158}{}{Várom a behangolásomat.}
-{159}{}{Újra akarom hallani, ahogy BHK-9 beszédet mond!}
-{160}{}{Remélem, a neurodinjaim rendben vannak.}
-{161}{}{Azt akarom, hogy magasabb Hangoltságú Hub Követ? váljék bel?lem!}
-{162}{}{Itt az id?, hogy a magam gyarapodására fókuszáljak.}
-{163}{}{Az "igazi" tudomány egy rakás hazugság.}
-{164}{}{Ne hallgasson arra, amit az úgynevezett "tudósok" mondanak magának!}
-{165}{}{Csak a Hub és BHK-9 tudják a választ.}
-{178}{}{Dícsértessék a Csillagközi Atyánk! Végre eljutunk a csillagokba!}
-{179}{}{Quetzel bolygó! Itt jövünk!}
-{180}{}{A sok kemény munka végre kifizet?dik!}
-{181}{}{A neurodinjaim végre nyugodalmat lelnek!}
-{182}{}{A felszállás el?tt behangoláson kéne átesnem.}
-{183}{}{Óóó! A Csillagbéli Atyám! A Csillagbéli Atyám!}
-{184}{}{Izgatottan várom a felszállást!}
+{151}{}{Szeretem a Hubologista lÃ©tet.}
+{152}{}{Ã–sztÃ¶nÃ¶zni akarom rejtett kÃ©pessÃ©geimet.}
+{153}{}{Az igazat megvallva mÃ©g mindig csak tanulom a zsargont.}
+{154}{}{DÃ­csÃ©rtessÃ©k a Hub!}
+{155}{}{DÃ­csÃ©rtessÃ©k a Nagy KerÃ©k!}
+{156}{}{ElmegyÃ¼nk a Quetzel-re!}
+{157}{}{Alig vÃ¡rom, hogy csillagbÃ©li otthonunkba jussak.}
+{158}{}{VÃ¡rom a behangolÃ¡somat.}
+{159}{}{Ãšjra akarom hallani, ahogy BHK-9 beszÃ©det mond!}
+{160}{}{RemÃ©lem, a neurodinjaim rendben vannak.}
+{161}{}{Azt akarom, hogy magasabb HangoltsÃ¡gÃº Hub KÃ¶vet? vÃ¡ljÃ©k bel?lem!}
+{162}{}{Itt az id?, hogy a magam gyarapodÃ¡sÃ¡ra fÃ³kuszÃ¡ljak.}
+{163}{}{Az "igazi" tudomÃ¡ny egy rakÃ¡s hazugsÃ¡g.}
+{164}{}{Ne hallgasson arra, amit az Ãºgynevezett "tudÃ³sok" mondanak magÃ¡nak!}
+{165}{}{Csak a Hub Ã©s BHK-9 tudjÃ¡k a vÃ¡laszt.}
+{178}{}{DÃ­csÃ©rtessÃ©k a CsillagkÃ¶zi AtyÃ¡nk! VÃ©gre eljutunk a csillagokba!}
+{179}{}{Quetzel bolygÃ³! Itt jÃ¶vÃ¼nk!}
+{180}{}{A sok kemÃ©ny munka vÃ©gre kifizet?dik!}
+{181}{}{A neurodinjaim vÃ©gre nyugodalmat lelnek!}
+{182}{}{A felszÃ¡llÃ¡s el?tt behangolÃ¡son kÃ©ne Ã¡tesnem.}
+{183}{}{Ã“Ã³Ã³! A CsillagbÃ©li AtyÃ¡m! A CsillagbÃ©li AtyÃ¡m!}
+{184}{}{Izgatottan vÃ¡rom a felszÃ¡llÃ¡st!}
 {185}{}{Milyen hamar indulunk?}
-{186}{}{Fogadjunk, hogy a magas szint? BHK-k nem olyan izgulósak, mint én.}
-{187}{}{A mindenit... a csillagok! Végre!}
-{188}{}{Nem kell többé viselnem a sztaniolsipkát!}
+{186}{}{Fogadjunk, hogy a magas szint? BHK-k nem olyan izgulÃ³sak, mint Ã©n.}
+{187}{}{A mindenit... a csillagok! VÃ©gre!}
+{188}{}{Nem kell tÃ¶bbÃ© viselnem a sztaniolsipkÃ¡t!}

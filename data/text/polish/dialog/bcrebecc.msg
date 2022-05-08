@@ -1,110 +1,110 @@
-{100}{}{Widzisz starsz¹ kobietê.}
-{101}{}{Widzisz Rebekê.}
-{102}{}{Widzisz starsz¹ kobietê. Choæ ¿ycie najwyraŸniej jej nie oszczêdza³o, wci¹¿ zachowa³a wiele ze swej naturalnej urody.}
-{103}{}{Witaj, jestem Rebecca. Czy mo¿emy porozmawiaæ na osobnoœci?}
-{104}{}{O czym rozmawiaæ?}
-{105}{}{Dlaczego na osobnoœci?}
-{106}{}{W porz¹dku.}
-{107}{}{Nie. Ja iœæ.}
+{100}{}{Widzisz starszÄ… kobietÄ™.}
+{101}{}{Widzisz RebekÄ™.}
+{102}{}{Widzisz starszÄ… kobietÄ™. ChoÄ‡ Å¼ycie najwyraÅºniej jej nie oszczÄ™dzaÅ‚o, wciÄ…Å¼ zachowaÅ‚a wiele ze swej naturalnej urody.}
+{103}{}{Witaj, jestem Rebecca. Czy moÅ¼emy porozmawiaÄ‡ na osobnoÅ›ci?}
+{104}{}{O czym rozmawiaÄ‡?}
+{105}{}{Dlaczego na osobnoÅ›ci?}
+{106}{}{W porzÄ…dku.}
+{107}{}{Nie. Ja iÅ›Ä‡.}
 {108}{}{Przykro mi, nie tym razem.}
-{109}{}{O czym chcesz ze mn¹ porozmawiaæ?}
-{110}{}{Jasne, gdzie mo¿emy porozmawiaæ w cztery oczy?}
-{111}{}{Dlaczego na osobnoœci?}
-{112}{}{[szepcze] Moja córka zaginê³a i szukam kogoœ, kto pomo¿e mi j¹ odnaleŸæ. Ale tutaj nie mo¿emy o tym rozmawiaæ. Mo¿emy porozmawiaæ w cztery oczy?}
-{113}{}{W porz¹dku.}
-{114}{}{Dlaczego na osobnoœci?}
-{115}{}{Niczym, ja iœæ.}
-{116}{}{Dobrze, chodŸmy.}
-{117}{}{Dlaczego na osobnoœci?}
-{118}{}{Przykro mi, ale nie chcê siê wpl¹taæ w jakieœ k³opoty.}
-{119}{}{[szepcze] Mo¿e pomyœlisz, ¿e oszala³am, ale wydaje mi siê, ¿e ktoœ mnie bez przerwy obserwuje. Od jakiegoœ czasu nie mam ani chwili spokoju.}
+{109}{}{O czym chcesz ze mnÄ… porozmawiaÄ‡?}
+{110}{}{Jasne, gdzie moÅ¼emy porozmawiaÄ‡ w cztery oczy?}
+{111}{}{Dlaczego na osobnoÅ›ci?}
+{112}{}{[szepcze] Moja cÃ³rka zaginÄ™Å‚a i szukam kogoÅ›, kto pomoÅ¼e mi jÄ… odnaleÅºÄ‡. Ale tutaj nie moÅ¼emy o tym rozmawiaÄ‡. MoÅ¼emy porozmawiaÄ‡ w cztery oczy?}
+{113}{}{W porzÄ…dku.}
+{114}{}{Dlaczego na osobnoÅ›ci?}
+{115}{}{Niczym, ja iÅ›Ä‡.}
+{116}{}{Dobrze, chodÅºmy.}
+{117}{}{Dlaczego na osobnoÅ›ci?}
+{118}{}{Przykro mi, ale nie chcÄ™ siÄ™ wplÄ…taÄ‡ w jakieÅ› kÅ‚opoty.}
+{119}{}{[szepcze] MoÅ¼e pomyÅ›lisz, Å¼e oszalaÅ‚am, ale wydaje mi siÄ™, Å¼e ktoÅ› mnie bez przerwy obserwuje. Od jakiegoÅ› czasu nie mam ani chwili spokoju.}
 {120}{}{Dobra, my cztery oczy.}
-{121}{}{Nie ma czasu na g³uptasa.}
-{122}{}{Dobrze. Gdzie mo¿emy spokojnie porozmawiaæ?}
-{123}{}{Przykro mi, ale ta sprawa bardzo mi siê nie podoba.}
-{124}{}{Dziêkujê. Mo¿emy siê przejœæ do mojego namiotu.}
-{125}{}{W porz¹dku.}
-{126}{}{Tutaj mo¿emy bezpiecznie porozmawiaæ.}
+{121}{}{Nie ma czasu na gÅ‚uptasa.}
+{122}{}{Dobrze. Gdzie moÅ¼emy spokojnie porozmawiaÄ‡?}
+{123}{}{Przykro mi, ale ta sprawa bardzo mi siÄ™ nie podoba.}
+{124}{}{DziÄ™kujÄ™. MoÅ¼emy siÄ™ przejÅ›Ä‡ do mojego namiotu.}
+{125}{}{W porzÄ…dku.}
+{126}{}{Tutaj moÅ¼emy bezpiecznie porozmawiaÄ‡.}
 {127}{}{Dobra, gdzie problem?}
-{128}{}{Najpierw moja pytaæ.}
-{129}{}{Œwietnie, a wiêc w czym problem?}
-{130}{}{Najpierw muszê ciê o coœ zapytaæ.}
-{131}{}{Mam córkê imieniem Chrissy. To dobra dziewczyna, chocia¿ trochê pêdziwiatr. Lubi w³óczyæ siê po okolicy i wtykaæ nos tam, gdzie nie powinna. Mimo to ma doœæ rozs¹dku i zwykle nie sprawia k³opotów. Dlatego czêsto pozwalam jej robiæ to, na co ma ochotê. Tydzieñ temu Chrissy nie wróci³a na noc do domu. Pyta³am ludzi, ale nikt jej tego dnia nie widzia³. Próbowa³am j¹ sama odnaleŸæ, ale Zeke, który jest tu... swego rodzaju burmistrzem... stanowczo mi zabroni³. Powiedzia³, ¿e samotne poszukiwania s¹ zbyt niebezpieczne. Obieca³, ¿e jego ludzie siê tym zajm¹, ale oni te¿ jej nie znaleŸli i powiedzieli, ¿e Chrissy zosta³a pewnie schwytana przez ³owców niewolników.}
-{132}{}{Nie, nie mieszaæ siê.}
-{133}{}{Moja najpierw sobie pomyœleæ.}
-{134}{}{Dobra, moja ostatnio du¿y bohater.}
+{128}{}{Najpierw moja pytaÄ‡.}
+{129}{}{Åšwietnie, a wiÄ™c w czym problem?}
+{130}{}{Najpierw muszÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{131}{}{Mam cÃ³rkÄ™ imieniem Chrissy. To dobra dziewczyna, chociaÅ¼ trochÄ™ pÄ™dziwiatr. Lubi wÅ‚Ã³czyÄ‡ siÄ™ po okolicy i wtykaÄ‡ nos tam, gdzie nie powinna. Mimo to ma doÅ›Ä‡ rozsÄ…dku i zwykle nie sprawia kÅ‚opotÃ³w. Dlatego czÄ™sto pozwalam jej robiÄ‡ to, na co ma ochotÄ™. TydzieÅ„ temu Chrissy nie wrÃ³ciÅ‚a na noc do domu. PytaÅ‚am ludzi, ale nikt jej tego dnia nie widziaÅ‚. PrÃ³bowaÅ‚am jÄ… sama odnaleÅºÄ‡, ale Zeke, ktÃ³ry jest tu... swego rodzaju burmistrzem... stanowczo mi zabroniÅ‚. PowiedziaÅ‚, Å¼e samotne poszukiwania sÄ… zbyt niebezpieczne. ObiecaÅ‚, Å¼e jego ludzie siÄ™ tym zajmÄ…, ale oni teÅ¼ jej nie znaleÅºli i powiedzieli, Å¼e Chrissy zostaÅ‚a pewnie schwytana przez Å‚owcÃ³w niewolnikÃ³w.}
+{132}{}{Nie, nie mieszaÄ‡ siÄ™.}
+{133}{}{Moja najpierw sobie pomyÅ›leÄ‡.}
+{134}{}{Dobra, moja ostatnio duÅ¼y bohater.}
 {135}{}{Przykro mi, nie tym razem.}
-{136}{}{Muszê to jeszcze przemyœleæ.}
-{137}{}{Dobrze, Rebeko. Spróbujê ci pomóc.}
-{138}{}{Jeœli ci pomogê, co z tego bêdzie dla mnie?}
-{139}{}{Co chcesz wiedzieæ?}
+{136}{}{MuszÄ™ to jeszcze przemyÅ›leÄ‡.}
+{137}{}{Dobrze, Rebeko. SprÃ³bujÄ™ ci pomÃ³c.}
+{138}{}{JeÅ›li ci pomogÄ™, co z tego bÄ™dzie dla mnie?}
+{139}{}{Co chcesz wiedzieÄ‡?}
 {140}{}{Co tu dzieje?}
 {141}{}{Kto szef?}
-{142}{}{Moja znajdowaæ Kruchta 13. Gdzie to?}
+{142}{}{Moja znajdowaÄ‡ Kruchta 13. Gdzie to?}
 {143}{}{Powiedz o Krypta.}
 {144}{}{Powiedz o Darion.}
-{145}{}{Dziêki. Jaki twój problem?}
-{146}{}{Dzieje siê tu coœ ciekawego?}
-{147}{}{Kto tu rz¹dzi?}
-{148}{}{Szukam Krypty 13. Wiesz mo¿e coœ, co mog³oby mi pomóc?}
+{145}{}{DziÄ™ki. Jaki twÃ³j problem?}
+{146}{}{Dzieje siÄ™ tu coÅ› ciekawego?}
+{147}{}{Kto tu rzÄ…dzi?}
+{148}{}{Szukam Krypty 13. Wiesz moÅ¼e coÅ›, co mogÅ‚oby mi pomÃ³c?}
 {149}{}{Opowiedz mi o Krypcie.}
 {150}{}{Opowiedz mi o Darionie.}
-{151}{}{Dziêki Rebeko. Porozmawiajmy teraz o twoim problemie.}
-{152}{}{Nazywamy to miejsce Przytu³kiem, bo za³o¿yli je bezdomni z wielu ró¿nych miast. Mo¿e nie jest najpiêkniejsze, ale to wszystko co mamy. Na zachód st¹d le¿y miasto zwane RNK. Wiedz¹ o naszym istnieniu od dawna, ale ani nam tu nie przeszkadzali ani pomagali. Jednak teraz nagle 'przypomnieli' sobie, ¿e te ziemie nale¿¹ do nich i koniecznie chc¹ je odzyskaæ.}
-{153}{}{W porz¹dku.}
-{154}{}{Czego tu szukaj¹?}
+{151}{}{DziÄ™ki Rebeko. Porozmawiajmy teraz o twoim problemie.}
+{152}{}{Nazywamy to miejsce PrzytuÅ‚kiem, bo zaÅ‚oÅ¼yli je bezdomni z wielu rÃ³Å¼nych miast. MoÅ¼e nie jest najpiÄ™kniejsze, ale to wszystko co mamy. Na zachÃ³d stÄ…d leÅ¼y miasto zwane RNK. WiedzÄ… o naszym istnieniu od dawna, ale ani nam tu nie przeszkadzali ani pomagali. Jednak teraz nagle 'przypomnieli' sobie, Å¼e te ziemie naleÅ¼Ä… do nich i koniecznie chcÄ… je odzyskaÄ‡.}
+{153}{}{W porzÄ…dku.}
+{154}{}{Czego tu szukajÄ…?}
 {155}{}{Rozumiem.}
-{156}{}{A czego tak bardzo od was chc¹?}
-{157}{}{Có¿... mamy tu jedn¹ z tych wielkich Krypt. Chyba ma numer 15. Zapewne chc¹ j¹ spl¹drowaæ w poszukiwaniu starej technologii.}
+{156}{}{A czego tak bardzo od was chcÄ…?}
+{157}{}{CÃ³Å¼... mamy tu jednÄ… z tych wielkich Krypt. Chyba ma numer 15. Zapewne chcÄ… jÄ… splÄ…drowaÄ‡ w poszukiwaniu starej technologii.}
 {158}{}{Ach. Moja rozumie.}
-{159}{}{Wiedzia³em, ¿e musi byæ tu coœ poza band¹ zbêdnych nierobów}
-{160}{}{Kapujê.}
-{161}{}{To wiele wyjaœnia. Bardzo mi pomog³aœ, ale muszê ciê jeszcze o coœ zapytaæ.}
-{162}{}{To bêdzie Zeke. On tu wszystkim kieruje. Znajdziesz go w tamtym budynku. ::wskazuje na pó³nocny wschód::}
-{163}{}{Dziêki. Pytaæ jeszcze.}
-{164}{}{Dziêkujê. Muszê ciê jeszcze o coœ zapytaæ.}
-{165}{}{Przykro mi, nie mam pojêcia. Musisz o to zapytaæ w RNK. Tam ostatnio bardzo interesuj¹ siê Kryptami.}
+{159}{}{WiedziaÅ‚em, Å¼e musi byÄ‡ tu coÅ› poza bandÄ… zbÄ™dnych nierobÃ³w}
+{160}{}{KapujÄ™.}
+{161}{}{To wiele wyjaÅ›nia. Bardzo mi pomogÅ‚aÅ›, ale muszÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{162}{}{To bÄ™dzie Zeke. On tu wszystkim kieruje. Znajdziesz go w tamtym budynku. ::wskazuje na pÃ³Å‚nocny wschÃ³d::}
+{163}{}{DziÄ™ki. PytaÄ‡ jeszcze.}
+{164}{}{DziÄ™kujÄ™. MuszÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{165}{}{Przykro mi, nie mam pojÄ™cia. Musisz o to zapytaÄ‡ w RNK. Tam ostatnio bardzo interesujÄ… siÄ™ Kryptami.}
 {166}{}{Dobra, ja zrobi.}
-{167}{}{Dobrze, tak zrobiê.}
-{168}{}{Có¿... nie wolno nam o tym mówiæ, ale skoro potrzebujê twojej pomocy... Krypta jest teraz remontowana - przez Dariona. To nasz dobroczyñca. Jak ju¿ naprawy zostan¹ ukoñczone wszyscy siê tam wprowadzimy. Tam bêdziemy bezpieczni od NajeŸdŸców, £owców i innych rzezimieszków. Jak na razie, uda³o mu siê uruchomiæ tylko systemy zaopatrywania w ¿ywnoœæ i wodê.}
-{169}{}{Rozumieæ. Moja jeszcze wiedzieæ.}
-{170}{}{Muszê wiedzieæ wiêcej.}
-{171}{}{Nie ma za bardzo o czym mówiæ. Darion nigdy nie opuszcza Krypty. Wszystko co chce nam powiedzieæ przekazuje przez Zeke. Widzia³am go tylko raz i wyda³ mi siê ca³kiem mi³y.}
-{172}{}{W porz¹dku.}
-{173}{}{Pozory czasem myl¹. Ciekawe co on knuje?}
+{167}{}{Dobrze, tak zrobiÄ™.}
+{168}{}{CÃ³Å¼... nie wolno nam o tym mÃ³wiÄ‡, ale skoro potrzebujÄ™ twojej pomocy... Krypta jest teraz remontowana - przez Dariona. To nasz dobroczyÅ„ca. Jak juÅ¼ naprawy zostanÄ… ukoÅ„czone wszyscy siÄ™ tam wprowadzimy. Tam bÄ™dziemy bezpieczni od NajeÅºdÅºcÃ³w, ÅowcÃ³w i innych rzezimieszkÃ³w. Jak na razie, udaÅ‚o mu siÄ™ uruchomiÄ‡ tylko systemy zaopatrywania w Å¼ywnoÅ›Ä‡ i wodÄ™.}
+{169}{}{RozumieÄ‡. Moja jeszcze wiedzieÄ‡.}
+{170}{}{MuszÄ™ wiedzieÄ‡ wiÄ™cej.}
+{171}{}{Nie ma za bardzo o czym mÃ³wiÄ‡. Darion nigdy nie opuszcza Krypty. Wszystko co chce nam powiedzieÄ‡ przekazuje przez Zeke. WidziaÅ‚am go tylko raz i wydaÅ‚ mi siÄ™ caÅ‚kiem miÅ‚y.}
+{172}{}{W porzÄ…dku.}
+{173}{}{Pozory czasem mylÄ…. Ciekawe co on knuje?}
 {174}{}{Rozumiem.}
-{175}{}{To mi wystarczy. Dziêkujê za pomoc.}
-{176}{}{Oprócz mojej dozgonnej wdziêcznoœci nie mogê ci nic zaoferowaæ.}
-{177}{}{To mi w zupe³noœci wystarczy. Mo¿esz na mnie liczyæ.}
-{178}{}{Moja pomoc kosztuje znacznie wiêcej.}
-{179}{}{A co mi tam, pomogê ci.}
-{180}{}{Dziêkujê ci. Nie wiem, jak ci siê za to odwdziêczê. Zaczekam tu, a¿ przyprowadzisz... Hej, ktoœ na zewn¹trz nas pods³uchuje! Widzia³am cieñ na œcianie namiotu. Uciekli w tamt¹ stronê! ::wskazuje na pó³nocny wschód:: Na pewno wszystko us³yszeli!}
-{181}{}{Moja z³apaæ, nie uciec!}
-{182}{}{Ty nie bój, moja znaleŸæ dziewczynka.}
+{175}{}{To mi wystarczy. DziÄ™kujÄ™ za pomoc.}
+{176}{}{OprÃ³cz mojej dozgonnej wdziÄ™cznoÅ›ci nie mogÄ™ ci nic zaoferowaÄ‡.}
+{177}{}{To mi w zupeÅ‚noÅ›ci wystarczy. MoÅ¼esz na mnie liczyÄ‡.}
+{178}{}{Moja pomoc kosztuje znacznie wiÄ™cej.}
+{179}{}{A co mi tam, pomogÄ™ ci.}
+{180}{}{DziÄ™kujÄ™ ci. Nie wiem, jak ci siÄ™ za to odwdziÄ™czÄ™. Zaczekam tu, aÅ¼ przyprowadzisz... Hej, ktoÅ› na zewnÄ…trz nas podsÅ‚uchuje! WidziaÅ‚am cieÅ„ na Å›cianie namiotu. Uciekli w tamtÄ… stronÄ™! ::wskazuje na pÃ³Å‚nocny wschÃ³d:: Na pewno wszystko usÅ‚yszeli!}
+{181}{}{Moja zÅ‚apaÄ‡, nie uciec!}
+{182}{}{Ty nie bÃ³j, moja znaleÅºÄ‡ dziewczynka.}
 {183}{}{Uuups.}
-{184}{}{Spróbujê ich zatrzymaæ.}
-{185}{}{Nie powstrzymaj¹ mnie przed odnalezieniem twojej córki.}
+{184}{}{SprÃ³bujÄ™ ich zatrzymaÄ‡.}
+{185}{}{Nie powstrzymajÄ… mnie przed odnalezieniem twojej cÃ³rki.}
 {186}{}{Trudno. Dupa zbita.}
-{187}{}{Proszê, idŸ ju¿.}
-{188}{}{Wiesz ju¿, co zamierzasz zrobiæ?}
-{189}{}{Moja pytaæ pytania.}
-{190}{}{Nie, jeszcze myœleæ.}
-{191}{}{Nie, wci¹¿ staram siê wszystko rozwa¿yæ.}
-{192}{}{Chcê ciê najpierw o coœ zapytaæ.}
-{193}{}{Co siê sta³o? Mo¿e zmienisz zdanie? Pomo¿esz mi?}
+{187}{}{ProszÄ™, idÅº juÅ¼.}
+{188}{}{Wiesz juÅ¼, co zamierzasz zrobiÄ‡?}
+{189}{}{Moja pytaÄ‡ pytania.}
+{190}{}{Nie, jeszcze myÅ›leÄ‡.}
+{191}{}{Nie, wciÄ…Å¼ staram siÄ™ wszystko rozwaÅ¼yÄ‡.}
+{192}{}{ChcÄ™ ciÄ™ najpierw o coÅ› zapytaÄ‡.}
+{193}{}{Co siÄ™ staÅ‚o? MoÅ¼e zmienisz zdanie? PomoÅ¼esz mi?}
 {194}{}{Przykro mi, ale nie.}
-{195}{}{Moja pomo¿e.}
-{196}{}{Tak, pomogê ci.}
-{197}{}{To pewnie tobie zawdziêczam uratowanie mojej córki. Bêdê twoj¹ dozgonn¹ d³u¿niczk¹. Dziêkujê. Zaczekaj tutaj, porozmawiam z Chrissy, a potem chcê ci coœ powiedzieæ.}
-{198}{}{Zawdziêczam ci ocalenie mojej córki. Bêdê twoj¹ dozgonn¹ d³u¿niczk¹. Dziêkujê. Zaczekaj tutaj, porozmawiam z Chrissy, a potem chcê ci coœ powiedzieæ.}
-{199}{}{W porz¹dku.}
-{200}{}{Moja córka wszystko mi opowiedzia³a. Trudno mi uwierzyæ, ¿e Darion jest takim potworem... po tym wszystkim, co dla nas zrobi³. I pomyœleæ, ¿e byliœmy dla niego wy³¹cznie przykrywk¹ jego bandyckich dzia³añ. Zapewniam ciê, ¿e tak dalej nie bêdzie. Zeke dowiedzia³ siê ju¿ o wszystkim i chce siê z tob¹ widzieæ. Musisz natychmiast z nim porozmawiaæ.}
-{201}{}{Trudno mi uwierzyæ, ¿e Darion jest takim potworem... po tym wszystkim, co dla nas zrobi³. I pomyœleæ, ¿e byliœmy dla niego wy³¹cznie przykrywk¹ jego bandyckich dzia³añ. Zapewniam ciê, ¿e tak dalej nie bêdzie. Zeke dowie siê o wszystkim. Na pewno bêdzie chcia³ z tob¹ porozmawiaæ. Zajrzyj do niego póŸniej.}
-{202}{}{Dziêkujê.}
-{203}{}{Mam nadziejê, ¿e Chrissy wreszcie siê znajdzie.}
+{195}{}{Moja pomoÅ¼e.}
+{196}{}{Tak, pomogÄ™ ci.}
+{197}{}{To pewnie tobie zawdziÄ™czam uratowanie mojej cÃ³rki. BÄ™dÄ™ twojÄ… dozgonnÄ… dÅ‚uÅ¼niczkÄ…. DziÄ™kujÄ™. Zaczekaj tutaj, porozmawiam z Chrissy, a potem chcÄ™ ci coÅ› powiedzieÄ‡.}
+{198}{}{ZawdziÄ™czam ci ocalenie mojej cÃ³rki. BÄ™dÄ™ twojÄ… dozgonnÄ… dÅ‚uÅ¼niczkÄ…. DziÄ™kujÄ™. Zaczekaj tutaj, porozmawiam z Chrissy, a potem chcÄ™ ci coÅ› powiedzieÄ‡.}
+{199}{}{W porzÄ…dku.}
+{200}{}{Moja cÃ³rka wszystko mi opowiedziaÅ‚a. Trudno mi uwierzyÄ‡, Å¼e Darion jest takim potworem... po tym wszystkim, co dla nas zrobiÅ‚. I pomyÅ›leÄ‡, Å¼e byliÅ›my dla niego wyÅ‚Ä…cznie przykrywkÄ… jego bandyckich dziaÅ‚aÅ„. Zapewniam ciÄ™, Å¼e tak dalej nie bÄ™dzie. Zeke dowiedziaÅ‚ siÄ™ juÅ¼ o wszystkim i chce siÄ™ z tobÄ… widzieÄ‡. Musisz natychmiast z nim porozmawiaÄ‡.}
+{201}{}{Trudno mi uwierzyÄ‡, Å¼e Darion jest takim potworem... po tym wszystkim, co dla nas zrobiÅ‚. I pomyÅ›leÄ‡, Å¼e byliÅ›my dla niego wyÅ‚Ä…cznie przykrywkÄ… jego bandyckich dziaÅ‚aÅ„. Zapewniam ciÄ™, Å¼e tak dalej nie bÄ™dzie. Zeke dowie siÄ™ o wszystkim. Na pewno bÄ™dzie chciaÅ‚ z tobÄ… porozmawiaÄ‡. Zajrzyj do niego pÃ³Åºniej.}
+{202}{}{DziÄ™kujÄ™.}
+{203}{}{Mam nadziejÄ™, Å¼e Chrissy wreszcie siÄ™ znajdzie.}
 {204}{}{Moja szuka.}
-{205}{}{Nie przestanê jej szukaæ.}
-{206}{}{Dziêkujê za wszystko.}
-{207}{}{Nie wiem dlaczego, ale mam przeczucie, ¿e nie schwytali jej ³owcy niewolników. W powietrzu wisi coœ niedobrego. No i to wra¿enie, ¿e ktoœ bez przerwy mnie œledzi. Czujê siê tak, od kiedy Zeke dowiedzia³ siê ode mnie o zaginiêciu Chrissy. Szukam kogoœ, kto pomo¿e mi odnaleŸæ moj¹ córkê. Mo¿e ty? B³agam...}
-{208}{}{Przysy³aj¹ tutaj swoich ludzi, którzy maj¹ nas przekonaæ do przesiedlenia. Oni po prostu nie rozumiej¹, ¿e my nie mamy dok¹d pójœæ. Nie mamy umiejêtnoœci niezbêdnych do przetrwania na pustkowiach.}
-{209}{}{Wiesz, to dziwne, ¿e uda³o im siê naprawiæ coœ tak skomplikowanego, a nie mogli sobie poradziæ z oœwietleniem. Ca³y kompleks jest oœwietlany pochodniami. W ka¿dym razie Darion nie ¿yczy sobie, ¿eby ktokolwiek wiedzia³ co siê dzieje w Krypcie. Boi siê, ¿e jak ktoœ siê dowie, to wyrzuc¹ nas st¹d si³¹. Wiêc kaza³ nam przepêdzaæ wszystkich wœcibskich goœci - zw³aszcza z RNK.}
+{205}{}{Nie przestanÄ™ jej szukaÄ‡.}
+{206}{}{DziÄ™kujÄ™ za wszystko.}
+{207}{}{Nie wiem dlaczego, ale mam przeczucie, Å¼e nie schwytali jej Å‚owcy niewolnikÃ³w. W powietrzu wisi coÅ› niedobrego. No i to wraÅ¼enie, Å¼e ktoÅ› bez przerwy mnie Å›ledzi. CzujÄ™ siÄ™ tak, od kiedy Zeke dowiedziaÅ‚ siÄ™ ode mnie o zaginiÄ™ciu Chrissy. Szukam kogoÅ›, kto pomoÅ¼e mi odnaleÅºÄ‡ mojÄ… cÃ³rkÄ™. MoÅ¼e ty? BÅ‚agam...}
+{208}{}{PrzysyÅ‚ajÄ… tutaj swoich ludzi, ktÃ³rzy majÄ… nas przekonaÄ‡ do przesiedlenia. Oni po prostu nie rozumiejÄ…, Å¼e my nie mamy dokÄ…d pÃ³jÅ›Ä‡. Nie mamy umiejÄ™tnoÅ›ci niezbÄ™dnych do przetrwania na pustkowiach.}
+{209}{}{Wiesz, to dziwne, Å¼e udaÅ‚o im siÄ™ naprawiÄ‡ coÅ› tak skomplikowanego, a nie mogli sobie poradziÄ‡ z oÅ›wietleniem. CaÅ‚y kompleks jest oÅ›wietlany pochodniami. W kaÅ¼dym razie Darion nie Å¼yczy sobie, Å¼eby ktokolwiek wiedziaÅ‚ co siÄ™ dzieje w Krypcie. Boi siÄ™, Å¼e jak ktoÅ› siÄ™ dowie, to wyrzucÄ… nas stÄ…d siÅ‚Ä…. WiÄ™c kazaÅ‚ nam przepÄ™dzaÄ‡ wszystkich wÅ›cibskich goÅ›ci - zwÅ‚aszcza z RNK.}

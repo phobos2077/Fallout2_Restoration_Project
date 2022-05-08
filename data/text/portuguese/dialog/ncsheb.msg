@@ -1,4 +1,4 @@
-{100}{}{Você vê... Sheb.}
+{100}{}{VocÃª vÃª... Sheb.}
 {150}{}{You see a scrawny man in bright blue clothes. As if his clothes weren't loud enough, he is also bellowing at the top of his lungs.}
 {200}{}{Booty, booty, boo-tay!}
 {201}{}{Come on in, booty lovers!}

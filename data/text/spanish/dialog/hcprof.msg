@@ -1,80 +1,80 @@
 {100}{}{Ves a un hombre con bata de laboratorio y aspecto perplejo.}
-{101}{}{Ves al Profesor. Parece enfrascado en algún proyecto alocado.}
+{101}{}{Ves al Profesor. Parece enfrascado en algÃºn proyecto alocado.}
 {102}{}{Ves a un hombre con bata de laboratorio y aspecto perplejo rodeado por equipamiento de laboratorio. En sus ojos se percibe un brillo de locura.}
-{103}{}{¿Otra vez tú?}
-{104}{}{¿Qué quieres? ¡Suéltalo! ¡Soy un hombre ocupado!}
-{105}{}{¿Tú okupa?}
-{106}{}{¡Prueba!}
-{107}{}{¿Quién eres? ¿Y qué hay del escorpión?}
-{108}{}{Me gustaría hacer una de tus pruebas.}
-{109}{}{Nada. Adiós.}
-{110}{}{¡Ah, un voluntario! ¿Te gustaría participar en una prueba, amigo mío?}
-{111}{}{¡Sí!}
-{112}{}{¡No!}
-{113}{}{Quieres hacer una prueba, ¿eh? ¿Quieres probar tus manos, tus ojos, o tu cerebro?}
-{114}{}{¡M-manos!}
-{115}{}{¡Ojos!}
-{116}{}{¡Celebro!}
-{117}{}{¡Nada!}
-{118}{}{¿Entonces por qué me haces perder el tiempo? Te he dicho que estoy ocupado, ¿verdad? Tengo demasiado que hacer para perder el tiempo hablando con gente como... ¿por qué sigo hablando contigo? ¡Buenos días!}
-{119}{}{¡Adiooooos!}
-{120}{}{Err... sí. Adiós.}
-{121}{}{Quieres hacer una prueba, ¿eh? ¿Quieres probar tu destreza manual, tu percepción, o tu inteligencia?}
-{122}{}{Me gustaría probar mi agilidad.}
+{103}{}{Â¿Otra vez tÃº?}
+{104}{}{Â¿QuÃ© quieres? Â¡SuÃ©ltalo! Â¡Soy un hombre ocupado!}
+{105}{}{Â¿TÃº okupa?}
+{106}{}{Â¡Prueba!}
+{107}{}{Â¿QuiÃ©n eres? Â¿Y quÃ© hay del escorpiÃ³n?}
+{108}{}{Me gustarÃ­a hacer una de tus pruebas.}
+{109}{}{Nada. AdiÃ³s.}
+{110}{}{Â¡Ah, un voluntario! Â¿Te gustarÃ­a participar en una prueba, amigo mÃ­o?}
+{111}{}{Â¡SÃ­!}
+{112}{}{Â¡No!}
+{113}{}{Quieres hacer una prueba, Â¿eh? Â¿Quieres probar tus manos, tus ojos, o tu cerebro?}
+{114}{}{Â¡M-manos!}
+{115}{}{Â¡Ojos!}
+{116}{}{Â¡Celebro!}
+{117}{}{Â¡Nada!}
+{118}{}{Â¿Entonces por quÃ© me haces perder el tiempo? Te he dicho que estoy ocupado, Â¿verdad? Tengo demasiado que hacer para perder el tiempo hablando con gente como... Â¿por quÃ© sigo hablando contigo? Â¡Buenos dÃ­as!}
+{119}{}{Â¡Adiooooos!}
+{120}{}{Err... sÃ­. AdiÃ³s.}
+{121}{}{Quieres hacer una prueba, Â¿eh? Â¿Quieres probar tu destreza manual, tu percepciÃ³n, o tu inteligencia?}
+{122}{}{Me gustarÃ­a probar mi agilidad.}
 {123}{}{Probemos mis ojos.}
-{124}{}{¿Y si probamos mi inteligencia?}
-{125}{}{Hmm. Ninguna. Olvídalo.}
-{126}{}{Muy bien. Competirás contra el escorpión. Los dos intentaréis descerrajar esas cajas. Buena suerte.}
-{127}{}{¡Adelante!}
-{128}{}{Hagámoslo.}
-{129}{}{De acuerdo. Te quedarás tras esa barandilla, y el escorpión y tú me diréis las letras que leéis, de arriba abajo, de izquierda a derecha.}
-{130}{}{¡Adelante!}
+{124}{}{Â¿Y si probamos mi inteligencia?}
+{125}{}{Hmm. Ninguna. OlvÃ­dalo.}
+{126}{}{Muy bien. CompetirÃ¡s contra el escorpiÃ³n. Los dos intentarÃ©is descerrajar esas cajas. Buena suerte.}
+{127}{}{Â¡Adelante!}
+{128}{}{HagÃ¡moslo.}
+{129}{}{De acuerdo. Te quedarÃ¡s tras esa barandilla, y el escorpiÃ³n y tÃº me dirÃ©is las letras que leÃ©is, de arriba abajo, de izquierda a derecha.}
+{130}{}{Â¡Adelante!}
 {131}{}{Lo he pillado. Vamos.}
-{132}{}{El escorpión y tú jugaréis a un juego de mi propia invención. Lo llamo "ajedrez". ¿Estás listo?}
-{133}{}{¡S-sí!}
-{134}{}{Sí. Estoy listo.}
-{135}{}{Soy el Profesor. Lo que hago son pruebas de inteligencia aplicada. Creo compuestos químicos para aumentar la inteligencia. Estoy probando un poco con este escorpión rad de aquí, después de mi fracaso con la planta.}
-{136}{}{¿Probaste con una planta?}
-{137}{}{Me gustaría hacer la prueba.}
-{138}{}{¿Has creado algo que funcione?}
-{139}{}{Ya veo. Eso es todo lo que quería saber. Adiós.}
-{140}{}{¡Por supuesto que lo intenté con una planta! ¡Estoy intentando aumentar la inteligencia desde la misma base!}
-{141}{}{Ya veo. ¿Has creado algo que funcione?}
-{142}{}{Me gustaría hacer la prueba.}
-{143}{}{Eso es todo lo que quería saber.}
-{144}{}{Sí, tengo, muchas gracias! Usted ha oído hablar de "Mentats"? Me ha ayudado a desarrollar un método para facilitar la producción en masa de esa droga! Y a los demás! Muchos de los otros!}
-{145}{}{De acuerdo, de acuerdo. Oye, me gustaría probar mis habilidades contra tu escorpión.}
+{132}{}{El escorpiÃ³n y tÃº jugarÃ©is a un juego de mi propia invenciÃ³n. Lo llamo "ajedrez". Â¿EstÃ¡s listo?}
+{133}{}{Â¡S-sÃ­!}
+{134}{}{SÃ­. Estoy listo.}
+{135}{}{Soy el Profesor. Lo que hago son pruebas de inteligencia aplicada. Creo compuestos quÃ­micos para aumentar la inteligencia. Estoy probando un poco con este escorpiÃ³n rad de aquÃ­, despuÃ©s de mi fracaso con la planta.}
+{136}{}{Â¿Probaste con una planta?}
+{137}{}{Me gustarÃ­a hacer la prueba.}
+{138}{}{Â¿Has creado algo que funcione?}
+{139}{}{Ya veo. Eso es todo lo que querÃ­a saber. AdiÃ³s.}
+{140}{}{Â¡Por supuesto que lo intentÃ© con una planta! Â¡Estoy intentando aumentar la inteligencia desde la misma base!}
+{141}{}{Ya veo. Â¿Has creado algo que funcione?}
+{142}{}{Me gustarÃ­a hacer la prueba.}
+{143}{}{Eso es todo lo que querÃ­a saber.}
+{144}{}{SÃ­, tengo, muchas gracias! Usted ha oÃ­do hablar de "Mentats"? Me ha ayudado a desarrollar un mÃ©todo para facilitar la producciÃ³n en masa de esa droga! Y a los demÃ¡s! Muchos de los otros!}
+{145}{}{De acuerdo, de acuerdo. Oye, me gustarÃ­a probar mis habilidades contra tu escorpiÃ³n.}
 {146}{}{De acuerdo, te creo. Ya me iba.}
-{147}{}{¿Cómo... cómo pudiste matar así a mi escorpión? Estaba cerca... estaba tan cerca...}
+{147}{}{Â¿CÃ³mo... cÃ³mo pudiste matar asÃ­ a mi escorpiÃ³n? Estaba cerca... estaba tan cerca...}
 {148}{}{Dejas de balbucear}
-{200}{}{¡Ah ja ja! Mejora ESO, señor Exoesqueleto.}
-{201}{}{¡Yujuuuu!}
-{202}{}{¡Maldición!}
-{203}{}{¡Aaaargh!}
+{200}{}{Â¡Ah ja ja! Mejora ESO, seÃ±or Exoesqueleto.}
+{201}{}{Â¡Yujuuuu!}
+{202}{}{Â¡MaldiciÃ³n!}
+{203}{}{Â¡Aaaargh!}
 {204}{}{::click clack::}
-{205}{}{¿Cómo diablos has abierto una cerradura con GARRAS?}
-{206}{}{¿Abres cierre con GARRAS?}
+{205}{}{Â¿CÃ³mo diablos has abierto una cerradura con GARRAS?}
+{206}{}{Â¿Abres cierre con GARRAS?}
 {207}{}{::chirrido::}
 {208}{}{Bueno, parece un empate.}
-{209}{}{Has perdido. Escorpión: }
+{209}{}{Has perdido. EscorpiÃ³n: }
 {210}{}{, }
 {211}{}{: }
 {212}{}{.}
-{213}{}{¿Errr?}
-{214}{}{Has demostrado que eres tan ágil como el escorpión rad.}
+{213}{}{Â¿Errr?}
+{214}{}{Has demostrado que eres tan Ã¡gil como el escorpiÃ³n rad.}
 {215}{}{Ten, toma estos Mentats. Parece que los necesitas.}
 {300}{}{E...Z...W...T...O...D...F...E..R...T...F...P...Y...J...M}
-{301}{}{Sí, eso es correcto.}
-{302}{}{M...O...O... ¿Moo?}
+{301}{}{SÃ­, eso es correcto.}
+{302}{}{M...O...O... Â¿Moo?}
 {303}{}{Eh... no, lo siento. Ni de cerca.}
 {304}{}{::chirridos:: ::click clack:: ::gorjeo (movimiento de cola)::}
-{305}{}{¡Correcto! ¡Buen chico! ¡Bueeeeen chico! Tu habilidad del código morse está mejorando notablemente.}
-{306}{}{Has demostrado que eres tan perspicaz como el escorpión rad.}
+{305}{}{Â¡Correcto! Â¡Buen chico! Â¡Bueeeeen chico! Tu habilidad del cÃ³digo morse estÃ¡ mejorando notablemente.}
+{306}{}{Has demostrado que eres tan perspicaz como el escorpiÃ³n rad.}
 {400}{}{Jaque mate ::click::}
-{401}{}{¿QUÉ? ¡Has hecho trampa!}
-{402}{}{¿Mate?}
+{401}{}{Â¿QUÃ‰? Â¡Has hecho trampa!}
+{402}{}{Â¿Mate?}
 {403}{}{No seas mal perdedor.}
-{404}{}{Y... ¡jaque mate!}
-{405}{}{¡Jaque maaate!}
-{406}{}{::chirrido:: ¡Matar planta! ::click-clack-click::}
-{407}{}{Has demostrado que puedes subvertir a un escorpión rad que es más inteligente que tú.}
+{404}{}{Y... Â¡jaque mate!}
+{405}{}{Â¡Jaque maaate!}
+{406}{}{::chirrido:: Â¡Matar planta! ::click-clack-click::}
+{407}{}{Has demostrado que puedes subvertir a un escorpiÃ³n rad que es mÃ¡s inteligente que tÃº.}

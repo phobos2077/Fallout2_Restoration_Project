@@ -1,28 +1,28 @@
-{100}{}{Rose készíti a legjobb omlettet.}
-{101}{}{Nehogy aztán a brahmin gombócra fenje a fogát!}
-{102}{}{Ha csak tehetem, benézek Rose-hoz.}
-{103}{}{Próbálta már Rose omlettjét?}
-{110}{}{Nem érez valami szagot?}
-{111}{}{Jó ég! Mi a fészkes fenébe hempergett bele?}
-{112}{}{Szíveskedne nem szélirányban állni? Enni szeretnék.}
-{120}{}{Ha nem bánja, aludni szeretnék.}
-{121}{}{Hé, mit csinál a szobámban?}
-{122}{}{T?nés kifelé!}
+{100}{}{Rose kÃ©szÃ­ti a legjobb omlettet.}
+{101}{}{Nehogy aztÃ¡n a brahmin gombÃ³cra fenje a fogÃ¡t!}
+{102}{}{Ha csak tehetem, benÃ©zek Rose-hoz.}
+{103}{}{PrÃ³bÃ¡lta mÃ¡r Rose omlettjÃ©t?}
+{110}{}{Nem Ã©rez valami szagot?}
+{111}{}{JÃ³ Ã©g! Mi a fÃ©szkes fenÃ©be hempergett bele?}
+{112}{}{SzÃ­veskedne nem szÃ©lirÃ¡nyban Ã¡llni? Enni szeretnÃ©k.}
+{120}{}{Ha nem bÃ¡nja, aludni szeretnÃ©k.}
+{121}{}{HÃ©, mit csinÃ¡l a szobÃ¡mban?}
+{122}{}{T?nÃ©s kifelÃ©!}
 {130}{}{Rose kifogyott az omlettb?l.}
-{131}{}{Megölöm azt, aki kiengedte a csirkéket.}
-{132}{}{Ha nem kaphatok omlettet, semmi értelme idejönnöm...}
-{140}{}{Nem tudom, miért fárasztom magam azzal, hogy idejövök kereskedni.}
-{141}{}{Ez a város haldoklik.}
-{142}{}{Régen ez egy virágzó gazdaváros volt.}
-{150}{}{Úgy hallottam, hogy Modoc "szert tett" egy jó kis farmra észak-kelet felé.}
-{151}{}{Hát nem vagyok meggy?z?dve, hogy a Kísértetfarmon termelt élelmet áruba kéne bocsátanom.}
-{152}{}{A Kísértetfarm gabonája egész biztosan meg van átkozva.}
-{160}{}{Úgy hallottam, ártatlan n?ket és gyermekeket gyilkoltak halomra.}
-{161}{}{Nem akarok agyatlanul gyilkoló vademberekkel kereskedni.}
-{162}{}{Miután hallottam, mit tettek, majdnem elhánytam magam.}
-{163}{}{Bármi legyen is a mozgatórugójuk, nem hinném hogy valaha is újra Modocba jövök csereberélni.}
+{131}{}{MegÃ¶lÃ¶m azt, aki kiengedte a csirkÃ©ket.}
+{132}{}{Ha nem kaphatok omlettet, semmi Ã©rtelme idejÃ¶nnÃ¶m...}
+{140}{}{Nem tudom, miÃ©rt fÃ¡rasztom magam azzal, hogy idejÃ¶vÃ¶k kereskedni.}
+{141}{}{Ez a vÃ¡ros haldoklik.}
+{142}{}{RÃ©gen ez egy virÃ¡gzÃ³ gazdavÃ¡ros volt.}
+{150}{}{Ãšgy hallottam, hogy Modoc "szert tett" egy jÃ³ kis farmra Ã©szak-kelet felÃ©.}
+{151}{}{HÃ¡t nem vagyok meggy?z?dve, hogy a KÃ­sÃ©rtetfarmon termelt Ã©lelmet Ã¡ruba kÃ©ne bocsÃ¡tanom.}
+{152}{}{A KÃ­sÃ©rtetfarm gabonÃ¡ja egÃ©sz biztosan meg van Ã¡tkozva.}
+{160}{}{Ãšgy hallottam, Ã¡rtatlan n?ket Ã©s gyermekeket gyilkoltak halomra.}
+{161}{}{Nem akarok agyatlanul gyilkolÃ³ vademberekkel kereskedni.}
+{162}{}{MiutÃ¡n hallottam, mit tettek, majdnem elhÃ¡nytam magam.}
+{163}{}{BÃ¡rmi legyen is a mozgatÃ³rugÃ³juk, nem hinnÃ©m hogy valaha is Ãºjra Modocba jÃ¶vÃ¶k csereberÃ©lni.}
 {164}{}{Modoc lakosai gyilkosok.}
-{170}{}{Úgy t?nik, a dolgok helyrerázódnak errefelé.}
-{171}{}{Valószín?leg még egy csapatot fel kell majd felbérelnem, hogy az élelmet el tudjuk innen vinni.}
-{172}{}{Mostantól, ha minden jól megy, Modoc jó napoknak nézhet elébe.}
+{170}{}{Ãšgy t?nik, a dolgok helyrerÃ¡zÃ³dnak errefelÃ©.}
+{171}{}{ValÃ³szÃ­n?leg mÃ©g egy csapatot fel kell majd felbÃ©relnem, hogy az Ã©lelmet el tudjuk innen vinni.}
+{172}{}{MostantÃ³l, ha minden jÃ³l megy, Modoc jÃ³ napoknak nÃ©zhet elÃ©be.}
 {500}{}{Keresked?.}

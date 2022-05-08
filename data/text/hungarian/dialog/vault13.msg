@@ -1,3 +1,3 @@
 {100}{}{The air smells rank, with the odor of metal and blood.}
-{101}{}{Amiért elboronáltad a Hubologista ügyét Merk számára, }
+{101}{}{AmiÃ©rt elboronÃ¡ltad a Hubologista Ã¼gyÃ©t Merk szÃ¡mÃ¡ra, }
 {102}{}{ experience points for finding Vault 13.}

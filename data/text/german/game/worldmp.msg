@@ -41,7 +41,7 @@
 {304}{}{Warehouse}
 {310}{}{Entrance}
 {311}{}{Interior}
-{500}{}{Du erhälst 10,000 Erfahrungspunkte!}
+{500}{}{Du erhÃ¤lst 10,000 Erfahrungspunkte!}
 {501}{}{Ruins}
 {1000}{}{Desert}
 {1001}{}{Mountains}

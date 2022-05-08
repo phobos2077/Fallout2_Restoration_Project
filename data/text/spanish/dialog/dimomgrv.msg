@@ -1,1 +1,1 @@
-{101}{}{En la l·pida pone: "SeÒora Tamara Winslow".}
+{101}{}{En la l√°pida pone: "Se√±ora Tamara Winslow".}

@@ -1,190 +1,190 @@
-{100}{}{Você vê um caça-níquel.}
-{101}{}{Você vê um caça-níquel brilhante.}
-{150}{}{Você vê um caça-níquel. Você pode jurar que viu a máquina olhando pra você pelo canto do olho.}
-{151}{}{Você vê um caça-níquel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno.}
-{152}{}{Você vê um caça-níquel brilhante. Está destinado a apostas altas. A aposta mínima é de }
+{100}{}{VocÃª vÃª um caÃ§a-nÃ­quel.}
+{101}{}{VocÃª vÃª um caÃ§a-nÃ­quel brilhante.}
+{150}{}{VocÃª vÃª um caÃ§a-nÃ­quel. VocÃª pode jurar que viu a mÃ¡quina olhando pra vocÃª pelo canto do olho.}
+{151}{}{VocÃª vÃª um caÃ§a-nÃ­quel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas Ã s luzes de New Reno.}
+{152}{}{VocÃª vÃª um caÃ§a-nÃ­quel brilhante. EstÃ¡ destinado a apostas altas. A aposta mÃ­nima Ã© de }
 {153}{}{ pratas.}
-{154}{}{Você vê um caça-níquel brilhante.}
+{154}{}{VocÃª vÃª um caÃ§a-nÃ­quel brilhante.}
 {160}{}{*Venha me jogar por um minuto, cowboy.*}
-{161}{}{*Olá, marinheiro.*}
-{162}{}{*Coloque uma moeda, puxe a alavanca. Vou ser bonzinho com você.*}
-{163}{}{*Tick…Tick…Tiiiiick…*}
-{164}{}{*Ei, você! Venha me jogar um minutinho.*}
-{165}{}{*Olá, beleza.*}
-{166}{}{*Não é que você é uma gracinha... por que não vem me jogar um poquinho?*}
+{161}{}{*OlÃ¡, marinheiro.*}
+{162}{}{*Coloque uma moeda, puxe a alavanca. Vou ser bonzinho com vocÃª.*}
+{163}{}{*Tickâ€¦Tickâ€¦Tiiiiickâ€¦*}
+{164}{}{*Ei, vocÃª! Venha me jogar um minutinho.*}
+{165}{}{*OlÃ¡, beleza.*}
+{166}{}{*NÃ£o Ã© que vocÃª Ã© uma gracinha... por que nÃ£o vem me jogar um poquinho?*}
 {175}{}{*Ding*}
 {176}{}{*Bing*}
 {177}{}{*Kaaa-ching*}
 {178}{}{*Zzzzzzz*}
 {179}{}{*Ring-a-ling*}
 {180}{}{*Dingity-ding*}
-{185}{}{Você vê um estranha caixa dourada de metal com três olhos e um braço. É uma das coisas mais belas que você já viu.}
+{185}{}{VocÃª vÃª um estranha caixa dourada de metal com trÃªs olhos e um braÃ§o. Ã‰ uma das coisas mais belas que vocÃª jÃ¡ viu.}
 {186}{}{Eu}
-{187}{}{ quem ser você}
-{188}{}{Mim sente falta da mamãe. }
+{187}{}{ quem ser vocÃª}
+{188}{}{Mim sente falta da mamÃ£e. }
 {189}{}{ sente saudade de ARR-YO. Mim quer ir pra casa.}
-{190}{}{Balançar a mão dela}
-{191}{}{Você mutante estranho}
+{190}{}{BalanÃ§ar a mÃ£o dela}
+{191}{}{VocÃª mutante estranho}
 {192}{}{Viva a Vault! Viva a Vault!}
-{193}{}{Você ser um water chip?}
+{193}{}{VocÃª ser um water chip?}
 {194}{}{Sair; procurar por mais coisas brilhantes}
 {195}{}{Deixar.}
-{205}{}{A estranha caixa dourada de metal com três olhos e um braço parece não responder.}
+{205}{}{A estranha caixa dourada de metal com trÃªs olhos e um braÃ§o parece nÃ£o responder.}
 {206}{}{MIM }
 {207}{}{ REPONDE EU}
-{208}{}{Balançar a mão dela}
-{209}{}{Mim filho do Vault Dweller Você falar comigo AGORA}
-{210}{}{Você mutante estranho}
-{211}{}{Você ser um water chip?}
+{208}{}{BalanÃ§ar a mÃ£o dela}
+{209}{}{Mim filho do Vault Dweller VocÃª falar comigo AGORA}
+{210}{}{VocÃª mutante estranho}
+{211}{}{VocÃª ser um water chip?}
 {212}{}{Sair; procurar por mais coisas brilhantes}
 {213}{}{Deixar.}
-{220}{}{Você segura o braço dela e balança fortemente. Quando o faz, ouve um *bzzzzzzz,* e a caixa fala! "Por favorm... insira... dinheiro."}
-{221}{}{Ahhhhh! Robô! Robô! Corrrran}
+{220}{}{VocÃª segura o braÃ§o dela e balanÃ§a fortemente. Quando o faz, ouve um *bzzzzzzz,* e a caixa fala! "Por favorm... insira... dinheiro."}
+{221}{}{Ahhhhh! RobÃ´! RobÃ´! Corrrran}
 {222}{}{Deixar.}
-{225}{}{Você não tem dinheiro pra jogar, e almadiçoa sua pobraza. Talvez outra hora…}
+{225}{}{VocÃª nÃ£o tem dinheiro pra jogar, e almadiÃ§oa sua pobraza. Talvez outra horaâ€¦}
 {226}{}{Deixar.}
-{230}{}{Você vê um caça-níquel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno. O buraco de moedas te atrai e você sente seu rosto derreter de expectativas.}
-{231}{}{(Sua mão estremece quando você pega suas moedas. A máquina continua suspirando pra você.) *Vem, docinho... isso mesmo... vem agora...*}
-{232}{}{(Sua mão estremece quando você pega suas moedas. A máquina continua suspirando pra você.) *Vem aqui, docinho... isso mesmo... segure a manivela... puxe com força... vem agora...*}
-{233}{}{Você tem }
+{230}{}{VocÃª vÃª um caÃ§a-nÃ­quel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas Ã s luzes de New Reno. O buraco de moedas te atrai e vocÃª sente seu rosto derreter de expectativas.}
+{231}{}{(Sua mÃ£o estremece quando vocÃª pega suas moedas. A mÃ¡quina continua suspirando pra vocÃª.) *Vem, docinho... isso mesmo... vem agora...*}
+{232}{}{(Sua mÃ£o estremece quando vocÃª pega suas moedas. A mÃ¡quina continua suspirando pra vocÃª.) *Vem aqui, docinho... isso mesmo... segure a manivela... puxe com forÃ§a... vem agora...*}
+{233}{}{VocÃª tem }
 {234}{}{ moedas no seu nome. Arriscar todas?}
-{235}{}{Você tem }
+{235}{}{VocÃª tem }
 {236}{}{ moedas. Apostar }
 {237}{}{ moedas?}
 {238}{}{Apostar }
 {239}{}{ moedas?}
-{240}{}{Isso que é noite.}
+{240}{}{Isso que Ã© noite.}
 {241}{}{Liga-o por um dia.}
 {245}{}{As roletas giram e... nada.}
-{246}{}{NADA. NADA! Você a escuta dar gargalhandas e você começa a se enfurecer... os Bouncers são forçados a retirar seu corpo gritante da máquina.}
-{247}{}{(A máquina ri.) *Eu tenho tudo o que quis desse relacionamento. Desculpe, docinho. Não deixe a porta do cassino bater na sua bunda quando estiver saindo. Ha ha ha ha ha ha.*}
-{248}{}{Agora você tem }
+{246}{}{NADA. NADA! VocÃª a escuta dar gargalhandas e vocÃª comeÃ§a a se enfurecer... os Bouncers sÃ£o forÃ§ados a retirar seu corpo gritante da mÃ¡quina.}
+{247}{}{(A mÃ¡quina ri.) *Eu tenho tudo o que quis desse relacionamento. Desculpe, docinho. NÃ£o deixe a porta do cassino bater na sua bunda quando estiver saindo. Ha ha ha ha ha ha.*}
+{248}{}{Agora vocÃª tem }
 {249}{}{ moedas sobrando. Esquecer as perdas e continuar jogando?}
-{250}{}{Você tem }
+{250}{}{VocÃª tem }
 {251}{}{ moedas sobrando. Arriscar tudo?}
-{252}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é noite".}
-{253}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é dia."}
-{254}{}{Isso que é noite.}
+{252}{}{VocÃª estÃ¡ quebrado e nÃ£o pode mais jogar. VocÃª Ã© forÃ§ado a dizer "Isso Ã© que Ã© noite".}
+{253}{}{VocÃª estÃ¡ quebrado e nÃ£o pode mais jogar. VocÃª Ã© forÃ§ado a dizer "Isso Ã© que Ã© dia."}
+{254}{}{Isso que Ã© noite.}
 {255}{}{Liga-o por um dia.}
-{260}{}{Três facas. Você ganhou a mesma quantidade que apostou.}
-{261}{}{(A máquina continua suspirando pra você.) *Vamos, docinho... isso acontece com todo mundo uma vez... tente de novo... por favor…*}
-{262}{}{(A máquina continua suspirando pra você.) *Vamos, coração... tente de novo... segura a alavanca... puxe com força... vamos lá…*}
-{263}{}{Você ainda tem }
+{260}{}{TrÃªs facas. VocÃª ganhou a mesma quantidade que apostou.}
+{261}{}{(A mÃ¡quina continua suspirando pra vocÃª.) *Vamos, docinho... isso acontece com todo mundo uma vez... tente de novo... por favorâ€¦*}
+{262}{}{(A mÃ¡quina continua suspirando pra vocÃª.) *Vamos, coraÃ§Ã£o... tente de novo... segura a alavanca... puxe com forÃ§a... vamos lÃ¡â€¦*}
+{263}{}{VocÃª ainda tem }
 {264}{}{ moedas. Continuar jogando?}
-{265}{}{Agora você tem }
+{265}{}{Agora vocÃª tem }
 {266}{}{ moedas. Continuar jogando?}
-{267}{}{Isso que é noite.}
+{267}{}{Isso que Ã© noite.}
 {268}{}{Liga-o por um dia.}
-{275}{}{Três balas! Você dobrou o seu dinheiro!}
-{276}{}{(A máquina dá uma cospida de prazer.) *Isso mesmo, docinho... continue puxando... mais rápido, forte, rápido... vamos lá...*}
-{277}{}{(A máquina dá um gemido de prazer.) *Isso mesmo, coração... continue puxando... mais rápido, forte, rápido...vamos lá...*}
-{278}{}{Agora você tem }
+{275}{}{TrÃªs balas! VocÃª dobrou o seu dinheiro!}
+{276}{}{(A mÃ¡quina dÃ¡ uma cospida de prazer.) *Isso mesmo, docinho... continue puxando... mais rÃ¡pido, forte, rÃ¡pido... vamos lÃ¡...*}
+{277}{}{(A mÃ¡quina dÃ¡ um gemido de prazer.) *Isso mesmo, coraÃ§Ã£o... continue puxando... mais rÃ¡pido, forte, rÃ¡pido...vamos lÃ¡...*}
+{278}{}{Agora vocÃª tem }
 {279}{}{ moedas! Continuar jogando?}
-{280}{}{Isso que é noite.}
+{280}{}{Isso que Ã© noite.}
 {281}{}{Liga-o por um dia.}
-{290}{}{Três granadas! Puta que pariu! Você triplicou o seu dinheiro!}
-{291}{}{(A máquina grita de prazer enquanto as moedas caem.) *Aaaaaaah! Isso mesmo, docinho! Oh! Sim! Sim, de novo! Mais rápido! Mais forte! O que está esperando?! De novo!*}
-{292}{}{(A máquina grunhe de prazer enquanto as moedas caem.) *Ennnnghhhh! Isso mesmo, coração! Quem é o papai?! Quem é o papai?! Faça de novo! Puxe mais forte dessa vez! Mais forte!*}
-{293}{}{Fazer uma dança da vitória, girando seu quadril e jogando os braços pra cima. Respirar fundo e continuar jogando.}
-{294}{}{Vamos lá, granadas! Eu preciso de um novo par de sapatos! (Continuar jogando.)}
-{295}{}{Agora você tem }
+{290}{}{TrÃªs granadas! Puta que pariu! VocÃª triplicou o seu dinheiro!}
+{291}{}{(A mÃ¡quina grita de prazer enquanto as moedas caem.) *Aaaaaaah! Isso mesmo, docinho! Oh! Sim! Sim, de novo! Mais rÃ¡pido! Mais forte! O que estÃ¡ esperando?! De novo!*}
+{292}{}{(A mÃ¡quina grunhe de prazer enquanto as moedas caem.) *Ennnnghhhh! Isso mesmo, coraÃ§Ã£o! Quem Ã© o papai?! Quem Ã© o papai?! FaÃ§a de novo! Puxe mais forte dessa vez! Mais forte!*}
+{293}{}{Fazer uma danÃ§a da vitÃ³ria, girando seu quadril e jogando os braÃ§os pra cima. Respirar fundo e continuar jogando.}
+{294}{}{Vamos lÃ¡, granadas! Eu preciso de um novo par de sapatos! (Continuar jogando.)}
+{295}{}{Agora vocÃª tem }
 {296}{}{ moedas. Continuar jogando?}
-{297}{}{Isso que é noite.}
+{297}{}{Isso que Ã© noite.}
 {298}{}{Liga-o por um dia.}
-{305}{}{(Você vê um caça-níquel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno. O buraco de moedas te atrai e você sente seu rosto derreter de expectativas. Quando você olha pra ele. uma das três janelas pisca pra você. Do buraco de moedas você ouve uma voz suave) *Oláaaaaa, docinho. Quer mostrar pra uma garota quem é que manda?*}
-{306}{}{(Você vê um caça-níquel. Ele é forte, robusto e tem a alavanca dourada brilhando como um deus do sol entre as luzes de New Reno. O buraco de moedas te atrai sedutivamente, e você sente suas coxas queimarem de expectativa. Quando você olha pra ele, ouve uma voz masculina sair do buraco de moedas.) *Nunca vi uma mulher tão linda como você por aqui, senhorita. Está procurando por um bom tratamento?*}
+{305}{}{(VocÃª vÃª um caÃ§a-nÃ­quel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas Ã s luzes de New Reno. O buraco de moedas te atrai e vocÃª sente seu rosto derreter de expectativas. Quando vocÃª olha pra ele. uma das trÃªs janelas pisca pra vocÃª. Do buraco de moedas vocÃª ouve uma voz suave) *OlÃ¡aaaaa, docinho. Quer mostrar pra uma garota quem Ã© que manda?*}
+{306}{}{(VocÃª vÃª um caÃ§a-nÃ­quel. Ele Ã© forte, robusto e tem a alavanca dourada brilhando como um deus do sol entre as luzes de New Reno. O buraco de moedas te atrai sedutivamente, e vocÃª sente suas coxas queimarem de expectativa. Quando vocÃª olha pra ele, ouve uma voz masculina sair do buraco de moedas.) *Nunca vi uma mulher tÃ£o linda como vocÃª por aqui, senhorita. EstÃ¡ procurando por um bom tratamento?*}
 {307}{}{::Envermelhar-se de vergonha::}
-{308}{}{Uh... olá?}
+{308}{}{Uh... olÃ¡?}
 {309}{}{::Respirar fundo, sair.::}
-{315}{}{*Eu ainda estou aqui, bela donzela.* (O caça-níquel abaixa a voz) *Vem aqui... quer fazer uma aposta?*}
-{316}{}{*Eu ainda estou aqui, docinho.* (O caça-níquel abaixa a voz) *Você é um garotão, sabia? Vamos lá... quer colocar algumas moedas dentro de mim?*}
-{317}{}{Queeeem É voxêeee?}
-{318}{}{Clauro... ô vô fager uma apoxta em voxê}
-{319}{}{Acho melhor eu sair antes que eu coloque algo em você e me arrependa depois.}
+{315}{}{*Eu ainda estou aqui, bela donzela.* (O caÃ§a-nÃ­quel abaixa a voz) *Vem aqui... quer fazer uma aposta?*}
+{316}{}{*Eu ainda estou aqui, docinho.* (O caÃ§a-nÃ­quel abaixa a voz) *VocÃª Ã© um garotÃ£o, sabia? Vamos lÃ¡... quer colocar algumas moedas dentro de mim?*}
+{317}{}{Queeeem Ã‰ voxÃªeee?}
+{318}{}{Clauro... Ã´ vÃ´ fager uma apoxta em voxÃª}
+{319}{}{Acho melhor eu sair antes que eu coloque algo em vocÃª e me arrependa depois.}
 {320}{}{::Respirar fundo, sair.::}
-{325}{}{*Sou o seu homem ideal.* (O caça-níquel pisca pra você.) *Dê-me algumas moedas e eu te dou um prazer que nenhum homem JAMAIS te deu.*}
-{326}{}{*Sou a sua mulher ideal, docinho. Tudo o que quero é um pouco de atenção. Você pode me ajudar? Vamos lá, só uma moeda ou duas?*}
-{327}{}{Nósh não podemosh só conversá}
-{328}{}{Clauro... ô vô fager uma apoxta em voxê}
-{329}{}{Acho melhor eu sair antes que eu coloque algo em você e me arrependa depois.}
+{325}{}{*Sou o seu homem ideal.* (O caÃ§a-nÃ­quel pisca pra vocÃª.) *DÃª-me algumas moedas e eu te dou um prazer que nenhum homem JAMAIS te deu.*}
+{326}{}{*Sou a sua mulher ideal, docinho. Tudo o que quero Ã© um pouco de atenÃ§Ã£o. VocÃª pode me ajudar? Vamos lÃ¡, sÃ³ uma moeda ou duas?*}
+{327}{}{NÃ³sh nÃ£o podemosh sÃ³ conversÃ¡}
+{328}{}{Clauro... Ã´ vÃ´ fager uma apoxta em voxÃª}
+{329}{}{Acho melhor eu sair antes que eu coloque algo em vocÃª e me arrependa depois.}
 {330}{}{::Respirar fundo, sair.::}
-{335}{}{*Claro que podemos, coração, claro que podemos.* (O caça-níquel parece compreensível.) *O que perturba a sua cabecinha?*}
-{336}{}{*Claro que podemos, docinho, claro que podemos.* (O caça-níquel parece compreensível) *O que está te perturbando, bonitão?* }
-{337}{}{Mim saudades de MAMÃE e de ARROYO e mim... não consegue acha o GECK e... *snif*}
-{338}{}{Mim saudades de MAMÃE e Arroyo foi ATACADA e mim... não sabe onde eles tão... e... *snif*}
-{339}{}{Mim precisa consertar barco gigante... e mim não sabe COMO... e mamãe SE FOI e... *snif*}
-{340}{}{Mim terminou o jogo... e agora só andar por aí... ter medo de ter acabado TUDO e... *snif*}
-{341}{}{É puquê esse Fauált doiz não shuporta minha placa 3D Fxxxx e eu gastei muito dinhêro nela e... *snif*}
-{342}{}{Eu tentei fazer um bom personage mas acho que gastei todos os pontus *errados*.. e agora eu tenho um personage cocô... e... *snif*}
-{343}{}{eu tô cunversando com um caça-níquel, eu tô muito mal das perna}
+{335}{}{*Claro que podemos, coraÃ§Ã£o, claro que podemos.* (O caÃ§a-nÃ­quel parece compreensÃ­vel.) *O que perturba a sua cabecinha?*}
+{336}{}{*Claro que podemos, docinho, claro que podemos.* (O caÃ§a-nÃ­quel parece compreensÃ­vel) *O que estÃ¡ te perturbando, bonitÃ£o?* }
+{337}{}{Mim saudades de MAMÃƒE e de ARROYO e mim... nÃ£o consegue acha o GECK e... *snif*}
+{338}{}{Mim saudades de MAMÃƒE e Arroyo foi ATACADA e mim... nÃ£o sabe onde eles tÃ£o... e... *snif*}
+{339}{}{Mim precisa consertar barco gigante... e mim nÃ£o sabe COMO... e mamÃ£e SE FOI e... *snif*}
+{340}{}{Mim terminou o jogo... e agora sÃ³ andar por aÃ­... ter medo de ter acabado TUDO e... *snif*}
+{341}{}{Ã‰ puquÃª esse FauÃ¡lt doiz nÃ£o shuporta minha placa 3D Fxxxx e eu gastei muito dinhÃªro nela e... *snif*}
+{342}{}{Eu tentei fazer um bom personage mas acho que gastei todos os pontus *errados*.. e agora eu tenho um personage cocÃ´... e... *snif*}
+{343}{}{eu tÃ´ cunversando com um caÃ§a-nÃ­quel, eu tÃ´ muito mal das perna}
 {344}{}{::Respirar fundo, sair.::}
-{350}{}{*Isso, isso... não perturbe mais sua cabecinha por causa disso... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeça em mim. Isso mesmo. Jogue tudo pra fora.*}
-{351}{}{*Isso, isso... não se perturbe mais por conta disso, docinho... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeça em mim. Isso mesmo. Jogue tudo pra fora.*}
-{352}{}{Valeu, caça-níco *snif* 'cê é legal}
-{353}{}{'Cêeee é a peshoa mais legal que eu já cunheci... todos os otro só qué me MACHUCÁ e roubá meu dinhêro e... *snif*}
+{350}{}{*Isso, isso... nÃ£o perturbe mais sua cabecinha por causa disso... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeÃ§a em mim. Isso mesmo. Jogue tudo pra fora.*}
+{351}{}{*Isso, isso... nÃ£o se perturbe mais por conta disso, docinho... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeÃ§a em mim. Isso mesmo. Jogue tudo pra fora.*}
+{352}{}{Valeu, caÃ§a-nÃ­co *snif* 'cÃª Ã© legal}
+{353}{}{'CÃªeee Ã© a peshoa mais legal que eu jÃ¡ cunheci... todos os otro sÃ³ quÃ© me MACHUCÃ e roubÃ¡ meu dinhÃªro e... *snif*}
 {354}{}{::Respirar fundo, sair.::}
-{360}{}{(Você descansa sua cabeça deprimida na máquina.)}
-{361}{}{*Você vai bem, certo, coração? Eu não me sinto bem em deixar você sair sozinho dessa maneira.*}
-{362}{}{*Você vai bem, certo, docinho? Eu não me sinto bem em deixar você sair sozinho dessa maneira.*}
-{363}{}{Ô vô ficar bem... 'cê foi legal em cunversá cumigo, caça-nico, ô te amo}
-{370}{}{(Uma lágrima parece se formar em uma das janelas.)}
-{371}{}{*Você é a única heroína que nós temos nesse mundo de desgraçados e bandidos, }
-{372}{}{. Tome cuidado agora, entendeu, coração?* (O caça-níquel se vira) *É melho você ir antes que eu comece a agir covardemente.*}
-{373}{}{*Você é o único herói que nós temos nesse mundo de desgraçados e bandidos, }
-{374}{}{. tom... tom... tome cuidado agora, entendeu, docinho?* (O caça-níquel se vira) * É melhor você ir antes que eu comece a soluçar.*}
+{360}{}{(VocÃª descansa sua cabeÃ§a deprimida na mÃ¡quina.)}
+{361}{}{*VocÃª vai bem, certo, coraÃ§Ã£o? Eu nÃ£o me sinto bem em deixar vocÃª sair sozinho dessa maneira.*}
+{362}{}{*VocÃª vai bem, certo, docinho? Eu nÃ£o me sinto bem em deixar vocÃª sair sozinho dessa maneira.*}
+{363}{}{Ã” vÃ´ ficar bem... 'cÃª foi legal em cunversÃ¡ cumigo, caÃ§a-nico, Ã´ te amo}
+{370}{}{(Uma lÃ¡grima parece se formar em uma das janelas.)}
+{371}{}{*VocÃª Ã© a Ãºnica heroÃ­na que nÃ³s temos nesse mundo de desgraÃ§ados e bandidos, }
+{372}{}{. Tome cuidado agora, entendeu, coraÃ§Ã£o?* (O caÃ§a-nÃ­quel se vira) *Ã‰ melho vocÃª ir antes que eu comece a agir covardemente.*}
+{373}{}{*VocÃª Ã© o Ãºnico herÃ³i que nÃ³s temos nesse mundo de desgraÃ§ados e bandidos, }
+{374}{}{. tom... tom... tome cuidado agora, entendeu, docinho?* (O caÃ§a-nÃ­quel se vira) * Ã‰ melhor vocÃª ir antes que eu comece a soluÃ§ar.*}
 {375}{}{Shaaauuuu}
-{380}{}{Você vê um caça-níquel de apostas altas - a aposta mínima é de }
-{381}{}{ moedas. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno. O buraco de moedas te atrai e você sente seu rosto derreter de expectativas.}
-{382}{}{(Sua mão estremece quando você pega suas moedas. A máquina continua suspirando pra você.) *Vem, docinho... isso mesmo... vem agora...*}
-{383}{}{(Sua mão estremece quando você pega suas moedas. A máquina continua suspirando pra você.) *Vem aqui, docinho... isso mesmo... segure a manivela... puxe com força... vem agora...*}
-{384}{}{Você tem }
+{380}{}{VocÃª vÃª um caÃ§a-nÃ­quel de apostas altas - a aposta mÃ­nima Ã© de }
+{381}{}{ moedas. Suas brilhantes placas e a manivela dourada te seduzem, misturadas Ã s luzes de New Reno. O buraco de moedas te atrai e vocÃª sente seu rosto derreter de expectativas.}
+{382}{}{(Sua mÃ£o estremece quando vocÃª pega suas moedas. A mÃ¡quina continua suspirando pra vocÃª.) *Vem, docinho... isso mesmo... vem agora...*}
+{383}{}{(Sua mÃ£o estremece quando vocÃª pega suas moedas. A mÃ¡quina continua suspirando pra vocÃª.) *Vem aqui, docinho... isso mesmo... segure a manivela... puxe com forÃ§a... vem agora...*}
+{384}{}{VocÃª tem }
 {385}{}{ moedas sobrando. Arriscar tudo?}
-{386}{}{Você tem }
+{386}{}{VocÃª tem }
 {387}{}{ moedas. Apostar }
 {388}{}{ moedas?}
 {389}{}{Apostar }
 {390}{}{ moedas?}
-{391}{}{Isso que é noite.}
+{391}{}{Isso que Ã© noite.}
 {392}{}{Liga-o por um dia.}
 {400}{}{As roletas giram e... nada.}
-{401}{}{NADA. NADA! Você a escuta dar gargalhandas e você começa a se enfurecer... os Bouncers são forçados a retirar seu corpo gritante da máquina}
-{402}{}{(A máquina ri.) *Eu tenho tudo o que quis desse relacionamento. Desculpe, docinho. Não deixe a porta do cassino bater na sua bunda quando estiver saindo. Ha ha ha ha ha ha.*}
-{403}{}{Agora você tem }
+{401}{}{NADA. NADA! VocÃª a escuta dar gargalhandas e vocÃª comeÃ§a a se enfurecer... os Bouncers sÃ£o forÃ§ados a retirar seu corpo gritante da mÃ¡quina}
+{402}{}{(A mÃ¡quina ri.) *Eu tenho tudo o que quis desse relacionamento. Desculpe, docinho. NÃ£o deixe a porta do cassino bater na sua bunda quando estiver saindo. Ha ha ha ha ha ha.*}
+{403}{}{Agora vocÃª tem }
 {404}{}{ moedas sobrando. Esquecer as perdas e continuar jogando?}
-{405}{}{Você tem }
+{405}{}{VocÃª tem }
 {406}{}{ moedas sobrando. Arriscar tudo?}
-{407}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é noite."}
-{408}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é dia."}
-{409}{}{Isso que é noite.}
+{407}{}{VocÃª estÃ¡ quebrado e nÃ£o pode mais jogar. VocÃª Ã© forÃ§ado a dizer "Isso Ã© que Ã© noite."}
+{408}{}{VocÃª estÃ¡ quebrado e nÃ£o pode mais jogar. VocÃª Ã© forÃ§ado a dizer "Isso Ã© que Ã© dia."}
+{409}{}{Isso que Ã© noite.}
 {410}{}{Liga-o por um dia.}
-{415}{}{Três bombas... você ganhou a mesma quantidade que apostou.}
-{416}{}{(A máquina continua suspirando pra você.) *Vamos, docinho... isso acontece com todo mundo uma vez... tente de novo... por favor…*}
-{417}{}{(A máquina continua suspirando pra você.) *Vamos, coração... tente de novo... segura a alavanca... puxe com força... vamos lá…*}
-{418}{}{Você ainda tem }
+{415}{}{TrÃªs bombas... vocÃª ganhou a mesma quantidade que apostou.}
+{416}{}{(A mÃ¡quina continua suspirando pra vocÃª.) *Vamos, docinho... isso acontece com todo mundo uma vez... tente de novo... por favorâ€¦*}
+{417}{}{(A mÃ¡quina continua suspirando pra vocÃª.) *Vamos, coraÃ§Ã£o... tente de novo... segura a alavanca... puxe com forÃ§a... vamos lÃ¡â€¦*}
+{418}{}{VocÃª ainda tem }
 {419}{}{ moedas. Continuar jogando?}
-{420}{}{Isso que é noite.}
+{420}{}{Isso que Ã© noite.}
 {421}{}{Liga-o por um dia.}
-{425}{}{Três explosões! Você duplicou o seu dinheiro!}
-{426}{}{(A máquina dá uma cospida de prazer.) *Isso mesmo, docinho... continue puxando... mais rápido, forte, rápido... vamos lá...*}
-{427}{}{(A máquina dá um gemido de prazer.) *Isso mesmo, coração... continue puxando... mais rápido, forte, rápido...vamos lá...*}
-{428}{}{Agora você tem }
+{425}{}{TrÃªs explosÃµes! VocÃª duplicou o seu dinheiro!}
+{426}{}{(A mÃ¡quina dÃ¡ uma cospida de prazer.) *Isso mesmo, docinho... continue puxando... mais rÃ¡pido, forte, rÃ¡pido... vamos lÃ¡...*}
+{427}{}{(A mÃ¡quina dÃ¡ um gemido de prazer.) *Isso mesmo, coraÃ§Ã£o... continue puxando... mais rÃ¡pido, forte, rÃ¡pido...vamos lÃ¡...*}
+{428}{}{Agora vocÃª tem }
 {429}{}{ moedas! Continuar jogando?}
-{430}{}{Isso que é noite.}
+{430}{}{Isso que Ã© noite.}
 {431}{}{Liga-o por um dia.}
-{435}{}{Três Nuvens de Cogumelo! Você triplicou o seu dinheiro!}
-{436}{}{(A máquina grita de prazer enquanto as moedas caem.) *Aaaaaaah! Isso mesmo, docinho! Oh! Sim! Sim, de novo! Mais rápido! Mais forte! O que está esperando?! De novo!*}
-{437}{}{(A máquina grunhe de prazer enquanto as moedas caem.) *Ennnnghhhh! Isso mesmo, coração! Quem é o papai?! Quem é o papai?! Faça de novo! Puxe mais forte dessa vez! Mais forte!*}
-{438}{}{Fazer uma dança da vitória, girando seu quadril e jogando os braços pra cima. Respirar fundo e continuar jogando.}
-{439}{}{Vamos lá, nuvens de cogumelo! Eu preciso de um par de sapatos novos! (continuar jogando)}
-{440}{}{Agora você tem }
+{435}{}{TrÃªs Nuvens de Cogumelo! VocÃª triplicou o seu dinheiro!}
+{436}{}{(A mÃ¡quina grita de prazer enquanto as moedas caem.) *Aaaaaaah! Isso mesmo, docinho! Oh! Sim! Sim, de novo! Mais rÃ¡pido! Mais forte! O que estÃ¡ esperando?! De novo!*}
+{437}{}{(A mÃ¡quina grunhe de prazer enquanto as moedas caem.) *Ennnnghhhh! Isso mesmo, coraÃ§Ã£o! Quem Ã© o papai?! Quem Ã© o papai?! FaÃ§a de novo! Puxe mais forte dessa vez! Mais forte!*}
+{438}{}{Fazer uma danÃ§a da vitÃ³ria, girando seu quadril e jogando os braÃ§os pra cima. Respirar fundo e continuar jogando.}
+{439}{}{Vamos lÃ¡, nuvens de cogumelo! Eu preciso de um par de sapatos novos! (continuar jogando)}
+{440}{}{Agora vocÃª tem }
 {441}{}{ moedas. Continuar jogando?}
-{442}{}{Isso que é noite.}
+{442}{}{Isso que Ã© noite.}
 {443}{}{Liga-o por um dia.}
-{1000}{}{As chances não são boas.}
-{1001}{}{As chances são boas.}
-{1005}{}{Você não consegue calcular suas chances com certeza.}
+{1000}{}{As chances nÃ£o sÃ£o boas.}
+{1001}{}{As chances sÃ£o boas.}
+{1005}{}{VocÃª nÃ£o consegue calcular suas chances com certeza.}
 {1006}{}{As chances parecem ser quase boas.}
-{1010}{}{As chances são boas.}
-{1011}{}{As chances não são boas.}
-{1015}{}{As chances são boas.}
-{1016}{}{As chances não são boas.}
+{1010}{}{As chances sÃ£o boas.}
+{1011}{}{As chances nÃ£o sÃ£o boas.}
+{1015}{}{As chances sÃ£o boas.}
+{1016}{}{As chances nÃ£o sÃ£o boas.}

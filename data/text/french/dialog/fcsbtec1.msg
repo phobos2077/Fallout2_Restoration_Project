@@ -1,11 +1,11 @@
-{100}{}{Tu vois une personne en pyjama amusant. Elle semble préoccupée.}
-{101}{}{Tu vois un ingénieur du sous-marin Shi.}
-{150}{}{Euh, que fais-tu, à rôder comme ça ?}
+{100}{}{Tu vois une personne en pyjama amusant. Elle semble prÃ©occupÃ©e.}
+{101}{}{Tu vois un ingÃ©nieur du sous-marin Shi.}
+{150}{}{Euh, que fais-tu, Ã  rÃ´der comme Ã§a ?}
 {151}{}{Tu es un genre d'espion ?}
-{200}{}{Je déteste travailler sur cette épave.}
-{201}{}{Essayons de recalibrer ceci... là, voilà...}
-{202}{}{Tous ces câbles étendus partout et aucune isolation de prévue...}
-{203}{}{J'espère que je ne serai pas électrocuté en rechargeant le générateur.}
-{300}{}{Hé, je suis occupé là.}
-{301}{}{Désolé, je travaille.}
-{302}{}{Ces câbles ne vont pas se réparer tous seuls, Ok ? Va trouver quelqu'un d'autre à emmerder.}
+{200}{}{Je dÃ©teste travailler sur cette Ã©pave.}
+{201}{}{Essayons de recalibrer ceci... lÃ , voilÃ ...}
+{202}{}{Tous ces cÃ¢bles Ã©tendus partout et aucune isolation de prÃ©vue...}
+{203}{}{J'espÃ¨re que je ne serai pas Ã©lectrocutÃ© en rechargeant le gÃ©nÃ©rateur.}
+{300}{}{HÃ©, je suis occupÃ© lÃ .}
+{301}{}{DÃ©solÃ©, je travaille.}
+{302}{}{Ces cÃ¢bles ne vont pas se rÃ©parer tous seuls, Ok ? Va trouver quelqu'un d'autre Ã  emmerder.}

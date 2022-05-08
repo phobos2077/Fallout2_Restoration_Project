@@ -1,69 +1,69 @@
-{100}{}{Ez egy kövérkés fickó, fényes, kopasz fejjel, és vastag üveg? szemüveggel.}
+{100}{}{Ez egy kÃ¶vÃ©rkÃ©s fickÃ³, fÃ©nyes, kopasz fejjel, Ã©s vastag Ã¼veg? szemÃ¼veggel.}
 {101}{}{It's Dr. Henry.}
-{102}{}{Ez a fickó annyira nincs képben, hogy az már fáj. Igazi tojásfej, nem a való világban él, annyi szent.}
-{103}{}{Bocsásson meg, Dr. Henry vagyok és nagyon elfoglalt. Mit akar?}
-{104}{}{Már megint itt van? Mi a fenét akar?}
-{105}{}{Hörgh.}
-{106}{}{Én}
+{102}{}{Ez a fickÃ³ annyira nincs kÃ©pben, hogy az mÃ¡r fÃ¡j. Igazi tojÃ¡sfej, nem a valÃ³ vilÃ¡gban Ã©l, annyi szent.}
+{103}{}{BocsÃ¡sson meg, Dr. Henry vagyok Ã©s nagyon elfoglalt. Mit akar?}
+{104}{}{MÃ¡r megint itt van? Mi a fenÃ©t akar?}
+{105}{}{HÃ¶rgh.}
+{106}{}{Ã‰n}
 {107}{}{Enough chit-chat. You've got some papers Mr. Merk wants. Hand 'em over and nobody gets hurt.}
-{108}{}{Hallott valaha egy Enklávénak nevezett helyr?l?}
-{109}{}{Semmi közöd hozzá.}
-{110}{}{Hmm, visszamaradott cranium-fejl?dés... eltompult intellektuális fejlettség. Nem jelent?s testi mutáció... Nem, egyszer?en maga nem alkalmas, attól tartok. Minden jót!}
+{108}{}{Hallott valaha egy EnklÃ¡vÃ©nak nevezett helyr?l?}
+{109}{}{Semmi kÃ¶zÃ¶d hozzÃ¡.}
+{110}{}{Hmm, visszamaradott cranium-fejl?dÃ©s... eltompult intellektuÃ¡lis fejlettsÃ©g. Nem jelent?s testi mutÃ¡ciÃ³... Nem, egyszer?en maga nem alkalmas, attÃ³l tartok. Minden jÃ³t!}
 {111}{}{The Chosen One? Of course, that makes sense. Interesting... I'm afraid I can't help you. I was assigned to cyber-genetics research, not the Vault Behavioral Project.}
-{112}{}{Mir?l beszélsz?}
-{113}{}{Menedék-viselkedéstan Projekt?}
-{114}{}{Kibergenetika? Nem emlékszem, hogy valaha is tanultam ilyesmit.}
-{115}{}{Áh, értem. Magának nincs ki az összes kereke. Ég magával!}
-{116}{}{Nagy ég, máris többet mondtam, mint kéne. Nem számít... ha bárki is rákérdezne, én nem mondtam semmit.}
+{112}{}{Mir?l beszÃ©lsz?}
+{113}{}{MenedÃ©k-viselkedÃ©stan Projekt?}
+{114}{}{Kibergenetika? Nem emlÃ©kszem, hogy valaha is tanultam ilyesmit.}
+{115}{}{Ãh, Ã©rtem. MagÃ¡nak nincs ki az Ã¶sszes kereke. Ã‰g magÃ¡val!}
+{116}{}{Nagy Ã©g, mÃ¡ris tÃ¶bbet mondtam, mint kÃ©ne. Nem szÃ¡mÃ­t... ha bÃ¡rki is rÃ¡kÃ©rdezne, Ã©n nem mondtam semmit.}
 {117}{}{Something about extreme sociological conditioning. Mind you, I thought it was all so much mumbo-jumbo, no real science in it at all. But I did hear something about 13 having to be improvised during the course of the experiment. Sloppy work, I'd say.}
-{118}{}{Milyen kísérletr?l beszél?}
+{118}{}{Milyen kÃ­sÃ©rletr?l beszÃ©l?}
 {119}{}{Mi ez a kibergenetika dolog?}
-{120}{}{Azt várja, hogy elhiggyem ezt? Maga most szökött a zártosztályról!}
+{120}{}{Azt vÃ¡rja, hogy elhiggyem ezt? Maga most szÃ¶kÃ¶tt a zÃ¡rtosztÃ¡lyrÃ³l!}
 {121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem. You see, it's really quite simple - mutantcy isn't absolute. It can be cured.}
-{122}{}{Természetesen az egyszer? gondolkodású kollégáim a lehet? legdurvább módon próbálják megoldani a problémát. Megtisztulás a javából! Elismerem, hogy voltak korai nehézségek, de mostanra már elimináltuk ?ket... szerintem.}
+{122}{}{TermÃ©szetesen az egyszer? gondolkodÃ¡sÃº kollÃ©gÃ¡im a lehet? legdurvÃ¡bb mÃ³don prÃ³bÃ¡ljÃ¡k megoldani a problÃ©mÃ¡t. MegtisztulÃ¡s a javÃ¡bÃ³l! Elismerem, hogy voltak korai nehÃ©zsÃ©gek, de mostanra mÃ¡r eliminÃ¡ltuk ?ket... szerintem.}
 {123}{}{}
-{124}{}{[folytatás]}
-{125}{}{Az a helyzet, hogy maga akár segíthetne is nekem a tesztelésben. Érdekelné a dolog?}
-{126}{}{Milyen tesztelésre gondolt?}
-{127}{}{Még csak az kéne...}
-{128}{}{El?készítettem egy apró szérum-mintát, de bele kéne injektálni egy hordozóba.}
-{129}{}{Nem hagyom, hogy bármilyen t?t is belémnyomjon!}
-{130}{}{Itt hagyjuk abba, már le is léptem!}
-{131}{}{Magába? Jaj, dehogyis... a szérum nem tud mit kezdeni egy ilyen alacsony mutagén hányadossal. Ezt egy szupermutánson kell használni. Injektálja bele a szérumot egy szupermutáns testébe, és jelentse nekem az eredményt! Tisztában vagyok vele, hogy Broken Hills tele van velük.}
-{132}{}{Mit csinál ez?}
+{124}{}{[folytatÃ¡s]}
+{125}{}{Az a helyzet, hogy maga akÃ¡r segÃ­thetne is nekem a tesztelÃ©sben. Ã‰rdekelnÃ© a dolog?}
+{126}{}{Milyen tesztelÃ©sre gondolt?}
+{127}{}{MÃ©g csak az kÃ©ne...}
+{128}{}{El?kÃ©szÃ­tettem egy aprÃ³ szÃ©rum-mintÃ¡t, de bele kÃ©ne injektÃ¡lni egy hordozÃ³ba.}
+{129}{}{Nem hagyom, hogy bÃ¡rmilyen t?t is belÃ©mnyomjon!}
+{130}{}{Itt hagyjuk abba, mÃ¡r le is lÃ©ptem!}
+{131}{}{MagÃ¡ba? Jaj, dehogyis... a szÃ©rum nem tud mit kezdeni egy ilyen alacsony mutagÃ©n hÃ¡nyadossal. Ezt egy szupermutÃ¡nson kell hasznÃ¡lni. InjektÃ¡lja bele a szÃ©rumot egy szupermutÃ¡ns testÃ©be, Ã©s jelentse nekem az eredmÃ©nyt! TisztÃ¡ban vagyok vele, hogy Broken Hills tele van velÃ¼k.}
+{132}{}{Mit csinÃ¡l ez?}
 {133}{}{Mi esik le nekem ebb?l?}
 {134}{}{Well, it should cause a regression in the genetic matrix that results in the destabilization and assimilation of aberrant DNA, leaving the host free of mutagenic potential. If I knew for sure, I wouldn't need you to test it.}
 {135}{}{Mi esik le nekem ebb?l?}
 {136}{}{You'll be participating in an important experiment, in fact, the most important, scientific-oh, you mean money. Well, I do have a Cyber-Hound Mk. II, Personal Security Model that I brought with me. I suppose I could have it activated and on-line by the time you got back. Would that do?}
-{137}{}{Kiberkutya? Hogyne, jól hangzik.}
-{138}{}{Maga teljesen megzavarodott. Gumiszobába kéne zárni!}
+{137}{}{Kiberkutya? Hogyne, jÃ³l hangzik.}
+{138}{}{Maga teljesen megzavarodott. GumiszobÃ¡ba kÃ©ne zÃ¡rni!}
 {139}{}{Excellent. Here's the serum, fitted up in a stim hypo. All you have to do is use it on a super-mutant and then report back to me. Like I said, Broken Hills - that's the place to look. Good luck.}
-{140}{}{Mondja meg a maga Mr. Merkjének, hogy a válaszom egy fikarcnyit sem változott. Nem érdekel semmiféle "közös üzlet". Köszönöm, és minden jót!}
-{141}{}{Semmi értelme. Nem megyek vissza. Egyik?jük sem ismerte el az általam végzett munkát, ezért ne próbálja itt kiadni magát a barátomnak! Nagyon szépen köszönöm!}
-{142}{}{Hát, akkor nincs mir?l beszélnünk. Minden jót!}
-{143}{}{Nos, hogy ment? Sikerült a teszt?}
+{140}{}{Mondja meg a maga Mr. MerkjÃ©nek, hogy a vÃ¡laszom egy fikarcnyit sem vÃ¡ltozott. Nem Ã©rdekel semmifÃ©le "kÃ¶zÃ¶s Ã¼zlet". KÃ¶szÃ¶nÃ¶m, Ã©s minden jÃ³t!}
+{141}{}{Semmi Ã©rtelme. Nem megyek vissza. Egyik?jÃ¼k sem ismerte el az Ã¡ltalam vÃ©gzett munkÃ¡t, ezÃ©rt ne prÃ³bÃ¡lja itt kiadni magÃ¡t a barÃ¡tomnak! Nagyon szÃ©pen kÃ¶szÃ¶nÃ¶m!}
+{142}{}{HÃ¡t, akkor nincs mir?l beszÃ©lnÃ¼nk. Minden jÃ³t!}
+{143}{}{Nos, hogy ment? SikerÃ¼lt a teszt?}
 {144}{}{Igen.}
 {145}{}{Nem.}
-{146}{}{Ha nem bánja, ne fecséreljük egymás idejét! Már nem vagyok fiatal.}
-{147}{}{És... Hogy m?ködött?}
-{148}{}{A szérum megölte a szupermutánst! Maga azt mondta, hogy a szérum gyógyít!}
+{146}{}{Ha nem bÃ¡nja, ne fecsÃ©reljÃ¼k egymÃ¡s idejÃ©t! MÃ¡r nem vagyok fiatal.}
+{147}{}{Ã‰s... Hogy m?kÃ¶dÃ¶tt?}
+{148}{}{A szÃ©rum megÃ¶lte a szupermutÃ¡nst! Maga azt mondta, hogy a szÃ©rum gyÃ³gyÃ­t!}
 {149}{}{Meghalt, Jim!}
 {150}{}{You misunderstood. I said it would remove their mutagenic potential. The process does seem violent on the system, though. Oh well, more refining to do.}
-{151}{}{Mi a helyzet a fizetségemmel?}
-{152}{}{Maga egy szörnyeteg! Semmi közöm magához!}
-{153}{}{Kicsit bugos még. Újra és újra kell próbálkozni!}
-{154}{}{Mi a helyzet a fizetségemmel?}
-{155}{}{Maga egy szörnyeteg! Semmi közöm magához!}
-{156}{}{Természetesen a kiberkutya a magáé. Most azonban dolgom van.}
+{151}{}{Mi a helyzet a fizetsÃ©gemmel?}
+{152}{}{Maga egy szÃ¶rnyeteg! Semmi kÃ¶zÃ¶m magÃ¡hoz!}
+{153}{}{Kicsit bugos mÃ©g. Ãšjra Ã©s Ãºjra kell prÃ³bÃ¡lkozni!}
+{154}{}{Mi a helyzet a fizetsÃ©gemmel?}
+{155}{}{Maga egy szÃ¶rnyeteg! Semmi kÃ¶zÃ¶m magÃ¡hoz!}
+{156}{}{TermÃ©szetesen a kiberkutya a magÃ¡Ã©. Most azonban dolgom van.}
 {157}{}{...so the mutation rate stabilizes over-don't bother me now.}
-{158}{}{A környezeti behatások primitív adaptációja. Káprázatos...}
-{159}{}{Nincs magánál egy oszcillációs kalibrátor? Persze, miért is lenne...}
-{160}{}{ vagyok, a Kiválasztott. A 13-as Menedéket keresem.}
-{161}{}{Minden jót ám, a valagam! Itt csak én udvariaskodhatok. Adja át a papírokat, különben egyenként szaggatom le az ujjait! Majd akkor megnézzük, milyen jó orvos is maga...}
-{162}{}{Rendben, hagyom inkább.}
-{163}{}{Öö... rendben, a papírok abban a asztalban vannak. Vigye csak! Egy kérésem van, a kezemet ne bántsa, kérem!}
-{164}{}{Egyen szart, maga kretén! ?rség! ?rség!}
-{165}{}{Látom, veszi a dolgokat. El is mondom Mr. Merknek.}
-{166}{}{Ezt még megbánja, doki!}
-{167}{}{Hé! Tíz másodpercet kap, hogy lerakja azt a köteg papírt, különben hívom az ?rséget!}
-{168}{}{Már megint kutakodik? Rendben! Majd a törvény odahat a magafajtára. ?rség! ?rség!}
+{158}{}{A kÃ¶rnyezeti behatÃ¡sok primitÃ­v adaptÃ¡ciÃ³ja. KÃ¡prÃ¡zatos...}
+{159}{}{Nincs magÃ¡nÃ¡l egy oszcillÃ¡ciÃ³s kalibrÃ¡tor? Persze, miÃ©rt is lenne...}
+{160}{}{ vagyok, a KivÃ¡lasztott. A 13-as MenedÃ©ket keresem.}
+{161}{}{Minden jÃ³t Ã¡m, a valagam! Itt csak Ã©n udvariaskodhatok. Adja Ã¡t a papÃ­rokat, kÃ¼lÃ¶nben egyenkÃ©nt szaggatom le az ujjait! Majd akkor megnÃ©zzÃ¼k, milyen jÃ³ orvos is maga...}
+{162}{}{Rendben, hagyom inkÃ¡bb.}
+{163}{}{Ã–Ã¶... rendben, a papÃ­rok abban a asztalban vannak. Vigye csak! Egy kÃ©rÃ©sem van, a kezemet ne bÃ¡ntsa, kÃ©rem!}
+{164}{}{Egyen szart, maga kretÃ©n! ?rsÃ©g! ?rsÃ©g!}
+{165}{}{LÃ¡tom, veszi a dolgokat. El is mondom Mr. Merknek.}
+{166}{}{Ezt mÃ©g megbÃ¡nja, doki!}
+{167}{}{HÃ©! TÃ­z mÃ¡sodpercet kap, hogy lerakja azt a kÃ¶teg papÃ­rt, kÃ¼lÃ¶nben hÃ­vom az ?rsÃ©get!}
+{168}{}{MÃ¡r megint kutakodik? Rendben! Majd a tÃ¶rvÃ©ny odahat a magafajtÃ¡ra. ?rsÃ©g! ?rsÃ©g!}

@@ -13,13 +13,13 @@
 {221}{}{You know, you coulda stopped by before you went off and did that shit, then I coulda helped you whack the President.}
 {222}{}{I woulda gone to the Enclave, too, 'cept I was talkin' on the phone too much.}
 {230}{}{How many horsepower does that thing you have on get?}
-{231}{}{Como você usa o banheiro com isso?}
+{231}{}{Como vocÃª usa o banheiro com isso?}
 {232}{}{Any chance you let me have that armor for a little bit? I ain't gonna strip it, I just wanna borrow it.}
 {250}{}{If it ain't the man, here to oppress me again.}
 {251}{}{Yeah, Impala's a good car, but it ain't no Omni.}
 {252}{}{Whenever I make love to you, it's hot lava...}
 {253}{}{Damn, this car needs a brass rope around the license plate.}
-{254}{}{O motor ainda está bom.}
+{254}{}{O motor ainda estÃ¡ bom.}
 {255}{}{Interior smells like someone took a shit in there.}
 {256}{}{Interior smells like gecko assholes.}
 {257}{}{What the hell does a car need to RUN for?}
@@ -27,9 +27,9 @@
 {259}{}{My car ain't fast, but my lovin' is.}
 {260}{}{I can't believe my brick is as LARGE as it is.}
 {261}{}{I'm hung like a 2-headed brahmin.}
-{262}{}{O Highwayman tem um sistema analógico completo, 800 cavalos de potência, 0-100 em menos de um segundo.}
-{263}{}{Rápido? O Highwayman vai de 0 a 100 em menos de um segundo.}
-{264}{}{Na verdade, a potencia do Highwayman é de 800 CV.}
+{262}{}{O Highwayman tem um sistema analÃ³gico completo, 800 cavalos de potÃªncia, 0-100 em menos de um segundo.}
+{263}{}{RÃ¡pido? O Highwayman vai de 0 a 100 em menos de um segundo.}
+{264}{}{Na verdade, a potencia do Highwayman Ã© de 800 CV.}
 {265}{}{The Highwayman's got a full analog system and no computers. None of the fancy stuff.}
 {266}{}{The Highwayman's a sweet car; Chryslus sure knew how to build 'em.}
 {267}{}{I give piece a chance.}
@@ -54,11 +54,11 @@
 {300}{}{Man, this AIN'T no bathroom, and you shore as hell ain't going in here. Now git.}
 {301}{}{Girl, this AIN'T no bathroom, and you shore as hell ain't going in here. Now git.}
 {302}{}{You wanna GO? Here? Well... (Looks you up and down) ...a man's gotta do who a man's gotta do. Let's get down to bitness.}
-{303}{}{hã-ham.}
-{304}{}{hã-hã}
+{303}{}{hÃ£-ham.}
+{304}{}{hÃ£-hÃ£}
 {306}{}{Get down to business.}
 {307}{}{Uh, no thanks. I've changed my mind. Good-bye.}
-{320}{}{Tudo certo então...}
+{320}{}{Tudo certo entÃ£o...}
 {321}{}{Uh-uh-uh}
 {330}{}{Aw, so you just PLAYING with T-Ray? All right, then. Get, woman... I got better bitches to do with my time.}
 {331}{}{Time keepz on ticking, ticking, ticking... inta the fuuuuture}
@@ -88,7 +88,7 @@
 {381}{}{Actually, I don't have enough chips to make you an offer right now...}
 {382}{}{How about a night with me, T-Ray? You ain't never going to have anything better.}
 {383}{}{My offer's this: I'll leave you in one piece if you give me MY car back right now.}
-{384}{}{Não importa... eu tenho que ir.}
+{384}{}{NÃ£o importa... eu tenho que ir.}
 {395}{}{Man, that amount couldn't even afford to change my clothes, much less change my mind. }
 {396}{}{Woman, that amount couldn't even afford to change my clothes, much less change my mind. }
 {397}{}{You must think cars are cheap.}
@@ -110,7 +110,7 @@
 {456}{}{Let's get to it, then.}
 {457}{}{Screw negotiating. Give me MY car back, right now. Or else.}
 {458}{}{I've changed my mind. I think I'm just going to kill you instead.}
-{459}{}{Esqueça. Estou indo.}
+{459}{}{EsqueÃ§a. Estou indo.}
 {470}{}{Look, why are you wasting my time? If you ain't got the chips, then you ain't got no business here. I got better
  things to do than be talking to your cheap ass.}
 {471}{}{Only thing that's cheap in here is your life. I'll leave you in one piece if you give me back MY car right now.}
@@ -124,7 +124,7 @@
 {490}{}{What are you doing with the car?}
 {491}{}{No, that's cool. You can have the damn Highwayman. Piece of shit anyway. Uses too much 'tricity, smells like gecko inside,
  trunk's too small... be perfect for you, though. See ya.}
-{492}{}{Não, eu não tenho nenhum problema com isso... ainda. Nos vemos por aí.}
+{492}{}{NÃ£o, eu nÃ£o tenho nenhum problema com isso... ainda. Nos vemos por aÃ­.}
 {500}{}{Whoa, hold on there! *Piece of shit? Smells like Gecko?* }
 {501}{}{Man, what kinda Jet you been taking? }
 {502}{}{Woman, what kinda Jet you been taking? }
@@ -236,8 +236,8 @@
 {795}{}{Then perhaps an offer of 900 chips will be more to your liking. Mr. Bishop will be pleased your work comes so cheaply.}
 {797}{}{Since his generous offer has been refused, I'm instructed to take the car for no charge.}
 {798}{}{I tire of this conversation. I will return later.}
-{810}{}{Novecen... mano, você tá de brincadeira?! }
-{811}{}{Novece... Muié, você tá de brincadeira?! }
+{810}{}{Novecen... mano, vocÃª tÃ¡ de brincadeira?! }
+{811}{}{Novece... MuiÃ©, vocÃª tÃ¡ de brincadeira?! }
 {812}{}{Cut the bull-shit! This is a HIGHWAYMAN. They don't make them ANYWHERE anymore, see? There's OTHER families that'll be
  willin' to pay for it if that cheap bastard Bishop won't...}
 {814}{}{Mr. Bishop has made a GENEROUS offer of 900 chips. You won't like the next offer.}

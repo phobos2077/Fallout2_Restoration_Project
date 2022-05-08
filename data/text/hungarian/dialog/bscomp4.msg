@@ -1,17 +1,17 @@
-{100}{}{Egy számítógép-terminált látsz.}
-{101}{}{A biztonsági számítógép terminálját látod.}
-{102}{}{Egy szabványos számítógép-terminált látsz. Úgy t?nik, m?köd?képes, és adatokat vár.}
-{103}{}{Ez a terminál az er?tér generátorokat felügyeli. A jelzések szerint minden normálisan m?ködik.}
-{104}{}{Ez a terminál az er?tér generátorokat felügyeli. A jelzések szerint áramkimaradás miatt m?ködésképtelen az egység.}
-{105}{}{Az er?tér kikapcsolása.}
-{106}{}{Az er?tér bekapcsolása.}
-{107}{}{Megbeszéltük.}
-{108}{}{Kiadod a parancsot az er?tér deaktiválására.}
-{109}{}{Nem tudsz átjutni a biztonsági kódokon az er?tér deaktiválásához.}
-{110}{}{Megbeszéltük.}
-{111}{}{Kiadod a parancsot az er?tér aktiválására.}
-{112}{}{Nem tudsz átjutni a biztonsági kódokon az er?tér aktiválásához.}
-{113}{}{Megbeszéltük.}
-{114}{}{Ez a terminál az er?tér generátorokat felügyeli. A jelzések szerint az er?tér ki van kapcsolva.}
-{115}{}{Ez a terminál az er?tér generátorokat felügyeli. A jelzések szerint az er?tér m?ködése ideiglenesen fel lett függesztve.}
-{116}{}{Ez a terminál az er?tér generátorokat felügyeli. A jelzések szerint az er?teren áthatoltak.}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz.}
+{101}{}{A biztonsÃ¡gi szÃ¡mÃ­tÃ³gÃ©p terminÃ¡ljÃ¡t lÃ¡tod.}
+{102}{}{Egy szabvÃ¡nyos szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz. Ãšgy t?nik, m?kÃ¶d?kÃ©pes, Ã©s adatokat vÃ¡r.}
+{103}{}{Ez a terminÃ¡l az er?tÃ©r generÃ¡torokat felÃ¼gyeli. A jelzÃ©sek szerint minden normÃ¡lisan m?kÃ¶dik.}
+{104}{}{Ez a terminÃ¡l az er?tÃ©r generÃ¡torokat felÃ¼gyeli. A jelzÃ©sek szerint Ã¡ramkimaradÃ¡s miatt m?kÃ¶dÃ©skÃ©ptelen az egysÃ©g.}
+{105}{}{Az er?tÃ©r kikapcsolÃ¡sa.}
+{106}{}{Az er?tÃ©r bekapcsolÃ¡sa.}
+{107}{}{MegbeszÃ©ltÃ¼k.}
+{108}{}{Kiadod a parancsot az er?tÃ©r deaktivÃ¡lÃ¡sÃ¡ra.}
+{109}{}{Nem tudsz Ã¡tjutni a biztonsÃ¡gi kÃ³dokon az er?tÃ©r deaktivÃ¡lÃ¡sÃ¡hoz.}
+{110}{}{MegbeszÃ©ltÃ¼k.}
+{111}{}{Kiadod a parancsot az er?tÃ©r aktivÃ¡lÃ¡sÃ¡ra.}
+{112}{}{Nem tudsz Ã¡tjutni a biztonsÃ¡gi kÃ³dokon az er?tÃ©r aktivÃ¡lÃ¡sÃ¡hoz.}
+{113}{}{MegbeszÃ©ltÃ¼k.}
+{114}{}{Ez a terminÃ¡l az er?tÃ©r generÃ¡torokat felÃ¼gyeli. A jelzÃ©sek szerint az er?tÃ©r ki van kapcsolva.}
+{115}{}{Ez a terminÃ¡l az er?tÃ©r generÃ¡torokat felÃ¼gyeli. A jelzÃ©sek szerint az er?tÃ©r m?kÃ¶dÃ©se ideiglenesen fel lett fÃ¼ggesztve.}
+{116}{}{Ez a terminÃ¡l az er?tÃ©r generÃ¡torokat felÃ¼gyeli. A jelzÃ©sek szerint az er?teren Ã¡thatoltak.}

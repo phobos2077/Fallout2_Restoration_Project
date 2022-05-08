@@ -10,7 +10,7 @@
  for you?}
 {109}{}{What do you need from me?}
 {110}{}{What do you mine here?}
-{111}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
+{111}{}{VocÃª jÃ¡ ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
 {112}{}{Why do they call you *Dangerous* Dan McGrew?}
 {113}{}{What's going on here in town lately?}
 {114}{}{I was just moving through. Goodbye.}
@@ -19,11 +19,11 @@
  independent.}
 {116}{}{Nice to be so well liked. Let me ask you about something else.}
 {117}{}{I'd think that someone would try to control Redding.}
-{118}{}{Obrigado pela informação. Adeus.}
+{118}{}{Obrigado pela informaÃ§Ã£o. Adeus.}
 {119}{}{What makes you think they haven't? Everybody would like to have Redding under their belt. My
  guess is that someone will get us pretty soon. About the only thing we can do is choose our master, if
  we want to survive.}
-{120}{}{O que você quer dizer?}
+{120}{}{O que vocÃª quer dizer?}
 {121}{}{I guess that makes sense. Well, good-luck and goodbye.}
 {122}{}{I mean that we're going to be put under someone's thumb. Only a fool thinks otherwise. Our
  choice is to pick the lightest thumb.}
@@ -31,7 +31,7 @@
 {124}{}{Happy thumb hunting, then. Goodbye.}
 {125}{}{You bet I have. If we don't ally ourselves with one of the families in New Reno, you can just
  kiss Redding goodbye. At least any type of Redding that I'd want to live in.}
-{126}{}{O que você quer dizer?}
+{126}{}{O que vocÃª quer dizer?}
 {127}{}{I see. Well, goodbye.}
 {128}{}{If the NCR takes over, Redding's going to be put under the thumb, hard. They aren't real big on
  personal freedom. They're going to turn Redding into another splotch on the New California Republic map.
@@ -132,7 +132,7 @@
 {199}{}{I'm not sure what you mean, but I don't have time to find out right now. Goodbye.}
 {200}{}{Yeah, I mean the Excavator Chip that you sold to Marge LeBarge over at the Kokoweef Mine. That
  was a real mistake... not just for me, but for Redding.}
-{201}{}{O que você quer dizer com isso?}
+{201}{}{O que vocÃª quer dizer com isso?}
 {202}{}{Those are the breaks, pal. Let me ask you about something else going on in town.}
 {203}{}{Shit happens. See you around, maybe.}
 {204}{}{I can't believe that you let that bastard Hakeswill go free. My miners seem happy about it, but
@@ -199,8 +199,8 @@
 {247}{}{I don't have time for a political lesson. Goodbye.}
 {248}{}{Everyone wants what Redding's got. Some folks are going to be nicer about how they get it out
  of us, though. Let me explain the situation.}
-{249}{}{Vá em frente.}
-{250}{}{Já ouvi o suficiente de sua explicação. Adeus.}
+{249}{}{VÃ¡ em frente.}
+{250}{}{JÃ¡ ouvi o suficiente de sua explicaÃ§Ã£o. Adeus.}
 {251}{}{I'll pay you $1,000 for that Excavator Chip.}
 {252}{}{That sounds good to me. Where do I find it?}
 {253}{}{Sounds good to me. Here's your chip.}

@@ -23,7 +23,7 @@
 {124}{}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard.
  [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you
  hear boxes being shuffled and moved around. He returns a minute later.] Yep, got it right here. $500 and she's all yours.}
-{125}{}{Com certeza. Aqui está o dinheiro.}
+{125}{}{Com certeza. Aqui estÃ¡ o dinheiro.}
 {126}{}{500? Damn. I hope I get reimbursed for this. Fine, here is the money.}
 {127}{}{Thanks for the business. Take care.}
 {128}{}{Adeus.}
@@ -46,7 +46,7 @@
 {145}{}{Damn! Who could possibly have turned me in?!}
 {146}{}{Hey! What was I imprisoned for?}
 {147}{}{Well, at least the food's not bad.}
-{148}{}{O que você está olhando?}
+{148}{}{O que vocÃª estÃ¡ olhando?}
 {149}{}{What will happen to my shop now?}
 {200}{}{$500? Hey, maybe you could give me some kind of discount, I mean, you and Dave are friends, right?}
 {201}{}{To tell you the truth, I never really cared for the fella. $500 for the motor. Take it or leave it.}

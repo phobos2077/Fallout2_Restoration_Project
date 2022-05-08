@@ -14,7 +14,7 @@
  see him again, tell him Ol' Sammy is still alive an' kickin.}
 {207}{}{I'll do that. I got some other questions though.}
 {208}{}{I'll do that. Take care Sam.}
-{209}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
+{209}{}{Vegye Ãºgy, hogy nem is szÃ³ltam! BocsÃ¡nat, hogy zavartam.}
 {210}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. I got some other questions though.}
 {211}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. Take care Sam.}
 {300}{}{What do you *hickup* wanna know?}
@@ -59,7 +59,7 @@
 {607}{}{Well, now that you mention it, I do *hickup* 'member Mr. Peterson sayin something about hearing some noises comin
  from his field. He might know something about this. He and that pretty little wife a his live right over there.
  [He points to the building south of the graveyard.]}
-{608}{}{Megnézem, mit tehetek.}
+{608}{}{MegnÃ©zem, mit tehetek.}
 {609}{}{I think I'll pass. I must be going.}
 {700}{}{I took care of the grave digging situation. You shouldn't have any more problems out here.}
 {701}{}{Well, that's *hickup* good news. Glad I won't be falling into any more open *hickup* graves. Thanks fer th' help.}
@@ -67,9 +67,9 @@
 {703}{}{Well, take care then.}
 {704}{}{I don't think open graves are the real reason you're falling down Samuel, but you take it easy now.}
 {1000}{}{*Whistle*}
-{1001}{}{*Köhécsel*}
+{1001}{}{*KÃ¶hÃ©csel*}
 {1002}{}{*Clears throat*}
-{1003}{}{*Köhög*}
-{1004}{}{*Sóhajt*}
+{1003}{}{*KÃ¶hÃ¶g*}
+{1004}{}{*SÃ³hajt*}
 {1005}{}{*Hickup*}
 {2000}{}{It's been a *hickup* long day. Come back in th' morning.}

@@ -1,6 +1,6 @@
 {100}{}{Tu vois : un coffre-fort mural.}
-{110}{}{Le coffre-fort est verrouillé.}
-{200}{}{Tu as réussi à ouvrir le coffre-fort mural.}
-{201}{}{Tu as réussi à verrouiller le coffre-fort mural.}
-{210}{}{Tu ne parviens pas à verrouiller le coffre-fort mural.}
-{211}{}{Tu ne parviens pas à ouvrir le coffre-fort mural.}
+{110}{}{Le coffre-fort est verrouillÃ©.}
+{200}{}{Tu as rÃ©ussi Ã  ouvrir le coffre-fort mural.}
+{201}{}{Tu as rÃ©ussi Ã  verrouiller le coffre-fort mural.}
+{210}{}{Tu ne parviens pas Ã  verrouiller le coffre-fort mural.}
+{211}{}{Tu ne parviens pas Ã  ouvrir le coffre-fort mural.}

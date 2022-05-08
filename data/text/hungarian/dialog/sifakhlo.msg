@@ -1,3 +1,3 @@
 {100}{}{Egy viharvert hololemez.}
-{101}{}{PipBoy: Fájl megtalálható a rendszeren. Letöltés megszakítva.}
+{101}{}{PipBoy: FÃ¡jl megtalÃ¡lhatÃ³ a rendszeren. LetÃ¶ltÃ©s megszakÃ­tva.}
 {102}{}{Pip-Boy displays: Downloading data from disk. Location, "Vault 13" added to world map."}

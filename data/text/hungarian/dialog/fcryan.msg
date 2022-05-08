@@ -1,27 +1,27 @@
-{100}{}{Ennek a punknak csak részben borotválták le a fejét.}
-{101}{}{? Ryan, Minden Bölcsesség Forrása.}
-{102}{}{Ezt a punkot körbelengi a beképzeltség szele.}
-{103}{}{Ember, keresztül kell küzdened magad azon a szaron!}
+{100}{}{Ennek a punknak csak rÃ©szben borotvÃ¡ltÃ¡k le a fejÃ©t.}
+{101}{}{? Ryan, Minden BÃ¶lcsessÃ©g ForrÃ¡sa.}
+{102}{}{Ezt a punkot kÃ¶rbelengi a bekÃ©pzeltsÃ©g szele.}
+{103}{}{Ember, keresztÃ¼l kell kÃ¼zdened magad azon a szaron!}
 {104}{}{Ez a hely egy nagy kalap szar.}
-{105}{}{Addig csinálom, amíg vérezni kezdesz. Bocs, ez hangos volt?}
+{105}{}{Addig csinÃ¡lom, amÃ­g vÃ©rezni kezdesz. Bocs, ez hangos volt?}
 {106}{}{Ay carumba! Nalgas con queso!}
-{107}{}{vú hú hú hú hú!}
-{108}{}{Na, én leléptem...}
-{109}{}{Ismertem Nagy Jesus Mordinót, amikor még csak bébi Jesus volt.}
-{110}{}{Jézus, Mária, Szentjózsef!}
-{111}{}{Producer vagyok. Játékokat készítek. A játék tök jó dolog. Játssz a játékommal!}
-{112}{}{Vásárolj tüzel?t a tüzel?dbe!}
-{113}{}{Úgy hívnak engem, hogy... A LENGYEL PÖRÖLY!}
-{114}{}{Azért jöttem San Fran-be, hogy játékokat csináljak, és szétrúgjak néhány valagat.}
+{107}{}{vÃº hÃº hÃº hÃº hÃº!}
+{108}{}{Na, Ã©n lelÃ©ptem...}
+{109}{}{Ismertem Nagy Jesus MordinÃ³t, amikor mÃ©g csak bÃ©bi Jesus volt.}
+{110}{}{JÃ©zus, MÃ¡ria, SzentjÃ³zsef!}
+{111}{}{Producer vagyok. JÃ¡tÃ©kokat kÃ©szÃ­tek. A jÃ¡tÃ©k tÃ¶k jÃ³ dolog. JÃ¡tssz a jÃ¡tÃ©kommal!}
+{112}{}{VÃ¡sÃ¡rolj tÃ¼zel?t a tÃ¼zel?dbe!}
+{113}{}{Ãšgy hÃ­vnak engem, hogy... A LENGYEL PÃ–RÃ–LY!}
+{114}{}{AzÃ©rt jÃ¶ttem San Fran-be, hogy jÃ¡tÃ©kokat csinÃ¡ljak, Ã©s szÃ©trÃºgjak nÃ©hÃ¡ny valagat.}
 {115}{}{Summer lovin'...}
-{116}{}{Hola, senor! Vagy netán senorita?}
+{116}{}{Hola, senor! Vagy netÃ¡n senorita?}
 {117}{}{Tee hee!}
-{118}{}{Barátom... ez a hely olyan, mint a stockton-i ígéret - nagyobb a füstje, mint a lángja.}
-{119}{}{Scott barátom azt hitte, hogy Régi Kalifornia f?városa Stockton. Komolyan!}
-{120}{}{Szeretnék egy jó nagyot beverni Chipnek.}
+{118}{}{BarÃ¡tom... ez a hely olyan, mint a stockton-i Ã­gÃ©ret - nagyobb a fÃ¼stje, mint a lÃ¡ngja.}
+{119}{}{Scott barÃ¡tom azt hitte, hogy RÃ©gi Kalifornia f?vÃ¡rosa Stockton. Komolyan!}
+{120}{}{SzeretnÃ©k egy jÃ³ nagyot beverni Chipnek.}
 {121}{}{Haver!}
-{122}{}{Óóó, gyerünk!}
+{122}{}{Ã“Ã³Ã³, gyerÃ¼nk!}
 {123}{}{Aggro-suuuuuuuuuurge!}
-{124}{}{Ne akard, hogy ferde szemmel nézzek!}
-{125}{}{Valóban?}
+{124}{}{Ne akard, hogy ferde szemmel nÃ©zzek!}
+{125}{}{ValÃ³ban?}
 {126}{}{Pontosan, uram. Hehehe.}

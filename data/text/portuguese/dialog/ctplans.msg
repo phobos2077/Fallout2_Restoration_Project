@@ -1,1 +1,1 @@
-{100}{}{Você recuperou os planos do Vertibird.}
+{100}{}{VocÃª recuperou os planos do Vertibird.}

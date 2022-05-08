@@ -1,16 +1,16 @@
-{100}{}{? nem mást, mint... Set.}
-{101}{}{Egy rothadó ghoult látsz, akinek gép-alkatrészek állnak ki a fejéb?l. Nehéz eldönteni, hogy feledékeny-e vagy sem.}
-{102}{}{? Set. Éppen magában beszél.}
-{103}{}{? Set. Éppen magában beszél.}
-{104}{}{"Hazavágtak!"}
-{105}{}{"Hazavágtak!"}
-{106}{}{"Hazavágtak... Kezdek berágni miatta..."}
+{100}{}{? nem mÃ¡st, mint... Set.}
+{101}{}{Egy rothadÃ³ ghoult lÃ¡tsz, akinek gÃ©p-alkatrÃ©szek Ã¡llnak ki a fejÃ©b?l. NehÃ©z eldÃ¶nteni, hogy feledÃ©keny-e vagy sem.}
+{102}{}{? Set. Ã‰ppen magÃ¡ban beszÃ©l.}
+{103}{}{? Set. Ã‰ppen magÃ¡ban beszÃ©l.}
+{104}{}{"HazavÃ¡gtak!"}
+{105}{}{"HazavÃ¡gtak!"}
+{106}{}{"HazavÃ¡gtak... Kezdek berÃ¡gni miatta..."}
 {107}{}{Heh-heh.}
 {108}{}{Haza.}
-{109}{}{Vágtak.}
-{110}{}{Hazavágtak!}
-{111}{}{Hehe. Én uuuuuralom Necropolist.}
-{112}{}{Humánok! Mindenhol csak humánok!}
-{113}{}{A nevem Set. A tiéd meg Világfájdalom.}
+{109}{}{VÃ¡gtak.}
+{110}{}{HazavÃ¡gtak!}
+{111}{}{Hehe. Ã‰n uuuuuralom Necropolist.}
+{112}{}{HumÃ¡nok! Mindenhol csak humÃ¡nok!}
+{113}{}{A nevem Set. A tiÃ©d meg VilÃ¡gfÃ¡jdalom.}
 {114}{}{Kunc-kunc.}
-{115}{}{Haza. Vágtak. Mint az állat!}
+{115}{}{Haza. VÃ¡gtak. Mint az Ã¡llat!}

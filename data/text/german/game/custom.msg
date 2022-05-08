@@ -12,7 +12,7 @@
 {102}{}{Triff mich ja nicht}
 {103}{}{Pass auf, dass du mich nicht triffst}
 {104}{}{Sei ganz sicher, dass du mich nicht triffst}
-{200}{}{J‰mmerlicher Feigling}
+{200}{}{J√§mmerlicher Feigling}
 {201}{}{Dein Finger schmerzt}
 {202}{}{Du blutest etwas}
 {203}{}{Dir geht es nicht gut}
@@ -24,16 +24,16 @@
 {303}{}{Fernkampf, dann Nahkampf}
 {304}{}{Fernkampf}
 {305}{}{Unbewaffnet}
-{400}{}{Bleib in meiner N‰he}
+{400}{}{Bleib in meiner N√§he}
 {401}{}{Angriff!}
-{402}{}{Aus dem Hinterhalt auf Gegner schieﬂen}
+{402}{}{Aus dem Hinterhalt auf Gegner schie√üen}
 {403}{}{Nach eigenem ermessen}
 {404}{}{Bleib, wo du bist}
 {500}{}{Wer auch immer mich angreift}
-{501}{}{Den St‰rksten}
-{502}{}{Den Schw‰chsten}
+{501}{}{Den St√§rksten}
+{502}{}{Den Schw√§chsten}
 {503}{}{Wen du willst}
-{504}{}{Wer am n‰chsten ist}
+{504}{}{Wer am n√§chsten ist}
 {600}{}{Ich bin sauber}
 {601}{}{Stimpaks, wenn etwas verletzt}
 {602}{}{Stimpaks, wenn schwer verletzt}

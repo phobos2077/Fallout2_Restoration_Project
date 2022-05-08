@@ -1,229 +1,229 @@
-{100}{}{Du siehst einen sehr müde aussehenden Mann in einem weißen Kittel.}
+{100}{}{Du siehst einen sehr mÃ¼de aussehenden Mann in einem weiÃŸen Kittel.}
 {101}{}{Du siehst Dr. Curling, Leiter des Chemie-Corps der Vereinigten Staaten.}
 {102}{}{Du siehst einen Mann in einem mit Chemikalien beschmutzten Laborkittel.}
-{103}{}{Was tust du hier draußen?}
-{104}{}{Wir bringen dich lieber wieder zurück in die Zelle}
-{105}{}{Wache! Da läuft noch einer frei herum.}
-{106}{}{Warte hier, ich hole jemanden, der sich um dich kümmert.}
-{107}{}{Interessant. Ich wusste nicht, dass das Gift die auch dümmer macht.}
+{103}{}{Was tust du hier drauÃŸen?}
+{104}{}{Wir bringen dich lieber wieder zurÃ¼ck in die Zelle}
+{105}{}{Wache! Da lÃ¤uft noch einer frei herum.}
+{106}{}{Warte hier, ich hole jemanden, der sich um dich kÃ¼mmert.}
+{107}{}{Interessant. Ich wusste nicht, dass das Gift die auch dÃ¼mmer macht.}
 {108}{}{Hallo? Hallo. Ist da jemand?}
-{109}{}{Wie bist du bloß hier hereingekommen?}
+{109}{}{Wie bist du bloÃŸ hier hereingekommen?}
 {110}{}{Verschwinde aus meinem Labor, Soldat.}
 {111}{}{Das liegt nicht auf deiner Patrouille.}
 {112}{}{Raus hier, oder ich hole deinen Sergeant.}
 {113}{}{Geh weiter, Soldat.}
-{114}{}{Ich habe keine Störung gemeldet.}
+{114}{}{Ich habe keine StÃ¶rung gemeldet.}
 {115}{}{Willkommen in der Sektion des Chemie-Corps, Soldat. Ich bin Oberleutnant Dr. Charles
- Curling. Und jetzt, da wir uns kennen, verschwinde bloß aus meinem Labor.}
-{116}{}{Ich bin nicht der, für den du mich hältst. Ich bin }
-{117}{}{ aus Arroyo, und wir müssen uns mal unterhalten.}
+ Curling. Und jetzt, da wir uns kennen, verschwinde bloÃŸ aus meinem Labor.}
+{116}{}{Ich bin nicht der, fÃ¼r den du mich hÃ¤ltst. Ich bin }
+{117}{}{ aus Arroyo, und wir mÃ¼ssen uns mal unterhalten.}
 {118}{}{'tschuldigung, Sir. Mein Fehler. Auf Wiedersehen.}
 {119}{}{Alle zu den Alarmstationen.}
 {120}{}{Aus dem Weg!}
 {121}{}{Gefechtsbereit!}
-{122}{}{Raus hier, ich kann mich nicht um dich kümmern.}
-{123}{}{Hast du den Alarm nicht gehört?}
+{122}{}{Raus hier, ich kann mich nicht um dich kÃ¼mmern.}
+{123}{}{Hast du den Alarm nicht gehÃ¶rt?}
 {124}{}{Deckung! Es wurde Alarm geschlagen!}
-{125}{}{Hoffentlich gibt es genügend Rettungsboote.}
+{125}{}{Hoffentlich gibt es genÃ¼gend Rettungsboote.}
 {126}{}{Alle raus!}
 {127}{}{Tja, }
-{128}{}{, ich weiß nicht, wie du aus deiner Zelle geflohen bist, aber ich glaube nicht, dass wir
- uns über irgend etwas unterhalten müssen.}
+{128}{}{, ich weiÃŸ nicht, wie du aus deiner Zelle geflohen bist, aber ich glaube nicht, dass wir
+ uns Ã¼ber irgend etwas unterhalten mÃ¼ssen.}
 {129}{}{Da liegst du falsch. Ziemlich sogar.}
-{130}{}{Du hast recht. Ich bin bloß hier, um dich umzulegen.}
+{130}{}{Du hast recht. Ich bin bloÃŸ hier, um dich umzulegen.}
 {131}{}{Vielleicht hast du recht. Auf Wiedersehen.}
 {132}{}{Ich bin Oberleutnant Dr. Charles Curling, Chemie-Corps der Vereinigten Staaten. Und wer
  zum Teufel bist du?}
 {133}{}{Ich bin dein schlimmster Alptraum - ein Mutant mit einer Waffe und was im Kopf.}
 {134}{}{Ich bin }
-{135}{}{ aus Arroyo und wir müssen uns mal unterhalten.}
+{135}{}{ aus Arroyo und wir mÃ¼ssen uns mal unterhalten.}
 {136}{}{Ich bin jemand, der mit dir reden muss.}
 {137}{}{Du musst mit mir reden? Wer bist du, und warum sollte ich meine Zeit mit dir verschwenden?}
-{138}{}{Ich bin aus Arroyo und ich muss mit dir über die Rettung Tausender von Leben reden.}
+{138}{}{Ich bin aus Arroyo und ich muss mit dir Ã¼ber die Rettung Tausender von Leben reden.}
 {139}{}{Ich bin }
-{140}{}{ und du redest lieber mit mir, denn ich habe alle Trümpfe in der Hand.}
-{141}{}{Du hast recht. Für uns gibt es nichts zu bereden. Du bist sowieso tot.}
+{140}{}{ und du redest lieber mit mir, denn ich habe alle TrÃ¼mpfe in der Hand.}
+{141}{}{Du hast recht. FÃ¼r uns gibt es nichts zu bereden. Du bist sowieso tot.}
 {142}{}{Weiter so, Doktor. Ich gehe jetzt. Auf Wiedersehen.}
-{143}{}{Das letzte Mittel aller erbärmlichen Primitiven. Es ist so deutlich, was euch von wahren
+{143}{}{Das letzte Mittel aller erbÃ¤rmlichen Primitiven. Es ist so deutlich, was euch von wahren
  Menschen wie uns unterscheidet.}
-{144}{}{Du bist ja so überzeugt von dir, stimmt's?}
+{144}{}{Du bist ja so Ã¼berzeugt von dir, stimmt's?}
 {145}{}{Du verdammter Rassist. Du musst entsorgt werden, gleich jetzt.}
 {146}{}{Da gibt's nichts, was ich mit einem Mutanten bereden muss. Schon bald, wenn die wahren
- Menschen die Erde wieder übernehmen, bist du nur noch eine unselige Erinnerung an den Krieg. }
+ Menschen die Erde wieder Ã¼bernehmen, bist du nur noch eine unselige Erinnerung an den Krieg. }
 {147}{}{Wahre Menschen? Wovon redest du? Ich bin ebenso Mensch wie du.}
-{148}{}{Ich hab 'ne unselige Erinnerung für dich, hier in meinem Holster.}
+{148}{}{Ich hab 'ne unselige Erinnerung fÃ¼r dich, hier in meinem Holster.}
 {149}{}{Wache! Hilfe! Wache!}
 {150}{}{Wache! Hiiiiiiilfe!}
 {151}{}{Brauche Hilfe in Chemie-Sektion! Schnell!}
 {152}{}{Wache! Alarm! Wache!}
-{153}{}{Warum auch nicht? Unsere Forschung an den Dorfbewohnern zeigt eindeutig Änderungen an
- deren DNA. Ein natürliches Ergebnis der Hintergrundstrahlung.}
+{153}{}{Warum auch nicht? Unsere Forschung an den Dorfbewohnern zeigt eindeutig Ã„nderungen an
+ deren DNA. Ein natÃ¼rliches Ergebnis der Hintergrundstrahlung.}
 {154}{}{Dann ist unsere DNA eben ein bisschen anders. Na und?}
-{155}{}{Ich weiß nicht genau, was das bedeutet, aber was soll's, wenn wir ein bisschen anders
+{155}{}{Ich weiÃŸ nicht genau, was das bedeutet, aber was soll's, wenn wir ein bisschen anders
  sind?}
 {156}{}{Nein, eigentlich nicht. Ihr seid ganz anders, zumindest eure DNA. Eine recht
- unglückliche Folge der Generationen dauernden Hintergrundstrahlung, nehme ich an.}
+ unglÃ¼ckliche Folge der Generationen dauernden Hintergrundstrahlung, nehme ich an.}
 {157}{}{Dann ist unsere DNA eben ein bisschen anders. Na und?}
-{158}{}{Ich weiß nicht, was das bedeutet, aber was soll's, wenn wir ein bisschen anders sind?}
+{158}{}{Ich weiÃŸ nicht, was das bedeutet, aber was soll's, wenn wir ein bisschen anders sind?}
 {159}{}{Oh, eure DNA ist mehr als nur ein *bisschen* anders. Sie ist ganz anders. Wenn ich wegen
- des Projekts nicht so in Eile wäre, wäre es interessant weitere Tests an deinen Leuten
- durchzuführen. Abgesehen von der Toxikologiestudie über F.E.V. Es ist wirklich faszinierend.}
+ des Projekts nicht so in Eile wÃ¤re, wÃ¤re es interessant weitere Tests an deinen Leuten
+ durchzufÃ¼hren. Abgesehen von der Toxikologiestudie Ã¼ber F.E.V. Es ist wirklich faszinierend.}
 {160}{}{Was wolltest du wissen?}
 {161}{}{Wie unterscheidet sich unsere DNA?}
 {162}{}{Du machst Tests mit meiner Sippe?}
 {163}{}{Was zum Teufel ist "das Projekt?"}
-{164}{}{Das reicht mir. Du musst beseitigt werden wie ein tollwütiger Gecko. Tschüss, du Depp.}
-{165}{}{Es gibt mehrere, hauptsächlich geringe Veränderungen. Doch ich hatte nicht genügend Zeit,
- die Auswirkungen dieser Änderungen zu untersuchen. Außerdem müsste ich noch weiter gehen und den
- ursprünglichen Genbestand isolieren, bevor ich anfangen könnte zu ermitteln, in welche Richtung
- die Änderungen laufen. Aber alles in allem sind die Informationen eindeutig.}
+{164}{}{Das reicht mir. Du musst beseitigt werden wie ein tollwÃ¼tiger Gecko. TschÃ¼ss, du Depp.}
+{165}{}{Es gibt mehrere, hauptsÃ¤chlich geringe VerÃ¤nderungen. Doch ich hatte nicht genÃ¼gend Zeit,
+ die Auswirkungen dieser Ã„nderungen zu untersuchen. AuÃŸerdem mÃ¼sste ich noch weiter gehen und den
+ ursprÃ¼nglichen Genbestand isolieren, bevor ich anfangen kÃ¶nnte zu ermitteln, in welche Richtung
+ die Ã„nderungen laufen. Aber alles in allem sind die Informationen eindeutig.}
 {166}{}{Was ist eindeutig? Welche Informationen?}
 {167}{}{Ja vielleicht. Ich hab noch eine Frage, Doktor.}
 {168}{}{Na, die Information, dass du und deine Sippe keine Menschen mehr seid. Da dein Stamm erst
- seit um die achtzig Jahren aus der Vault - mal sehen, das war Vault 13, stimmt's? - draußen ist,
- muss jeder, der schon länger draußen ist, noch mehr betroffen sein. Ja, die Schlussfolgerung ist
+ seit um die achtzig Jahren aus der Vault - mal sehen, das war Vault 13, stimmt's? - drauÃŸen ist,
+ muss jeder, der schon lÃ¤nger drauÃŸen ist, noch mehr betroffen sein. Ja, die Schlussfolgerung ist
  wohl unausweichlich.}
 {169}{}{Schlussfolgerung? Welche Schlussfolgerung?}
-{170}{}{Na, ich dachte, ich hätte mich klar ausgedrückt. Die Schlussfolgerung, dass du und all
- deine Leute keine Menschen mehr seid. Wenn wir die Herrschaft über die Erde wieder übernehmen
- und die Reinheit der Menschheit bewahren wollen, müsst ihr Mutanten vernichtet werden.}
-{171}{}{Vernichtet? Was soll das heißen?}
+{170}{}{Na, ich dachte, ich hÃ¤tte mich klar ausgedrÃ¼ckt. Die Schlussfolgerung, dass du und all
+ deine Leute keine Menschen mehr seid. Wenn wir die Herrschaft Ã¼ber die Erde wieder Ã¼bernehmen
+ und die Reinheit der Menschheit bewahren wollen, mÃ¼sst ihr Mutanten vernichtet werden.}
+{171}{}{Vernichtet? Was soll das heiÃŸen?}
 {172}{}{Das Projekt, dem sich die Enklave in den letzten Jahrzehnten gewidmet hat, ist das
- Wiedererstarken der Menschheit auf dem Kontinent der Vereinigten Staaten. Gott schütze Amerika.}
-{173}{}{Das klingt nicht so, als ob man Jahrzehnte dafür benötigt.}
-{174}{}{Ich hab genug gehört. Ich möchte noch eine Frage stellen.}
-{175}{}{Ach, einen Vorposten aufzubauen würde nicht lange dauern. Das haben wir schon in Navarro
+ Wiedererstarken der Menschheit auf dem Kontinent der Vereinigten Staaten. Gott schÃ¼tze Amerika.}
+{173}{}{Das klingt nicht so, als ob man Jahrzehnte dafÃ¼r benÃ¶tigt.}
+{174}{}{Ich hab genug gehÃ¶rt. Ich mÃ¶chte noch eine Frage stellen.}
+{175}{}{Ach, einen Vorposten aufzubauen wÃ¼rde nicht lange dauern. Das haben wir schon in Navarro
  gemacht. Die Ausrottung dauert so lange.}
 {176}{}{Ausrottung?}
-{177}{}{Ja klar, wir können uns nicht aufs Festland zurückwagen, nur um dort wieder von den
- mutierten Fast-Menschen verseucht zu werden. Um die Vereinigten Staaten für die Menschheit
- sicher zu machen, müssen zuerst alle Mutanten ausgerottet werden.}
-{178}{}{Was!?! Bist du verrückt? Das ist ungeheuerlich!}
+{177}{}{Ja klar, wir kÃ¶nnen uns nicht aufs Festland zurÃ¼ckwagen, nur um dort wieder von den
+ mutierten Fast-Menschen verseucht zu werden. Um die Vereinigten Staaten fÃ¼r die Menschheit
+ sicher zu machen, mÃ¼ssen zuerst alle Mutanten ausgerottet werden.}
+{178}{}{Was!?! Bist du verrÃ¼ckt? Das ist ungeheuerlich!}
 {179}{}{Ausgerottet? Wie wollt ihr das anstellen?}
 {180}{}{Ich glaube nicht. Ich sehe das lieber als beste Form des Sozialdarwinismus an. Das
- Überleben derer, die am besten Ihre eigene Vermehrung sichern können. Der Erfolg zukünftiger
- Generationen, der gesamten Menschheit, hängt von uns ab.}
-{181}{}{Änderung ist wahrscheinlich die einzige universelle Konstante überhaupt. Nur weil wir
- anders sind, sind wir nicht schlecht. Wenn überhaupt, sind wir der lebende Beweis für die
- Anpassungsfähigkeit der Menschheit. Und deshalb hätten wir es sogar *eher* verdient zu überleben
+ Ãœberleben derer, die am besten Ihre eigene Vermehrung sichern kÃ¶nnen. Der Erfolg zukÃ¼nftiger
+ Generationen, der gesamten Menschheit, hÃ¤ngt von uns ab.}
+{181}{}{Ã„nderung ist wahrscheinlich die einzige universelle Konstante Ã¼berhaupt. Nur weil wir
+ anders sind, sind wir nicht schlecht. Wenn Ã¼berhaupt, sind wir der lebende Beweis fÃ¼r die
+ AnpassungsfÃ¤higkeit der Menschheit. Und deshalb hÃ¤tten wir es sogar *eher* verdient zu Ã¼berleben
  als dein Volk.}
-{182}{}{Hast du jemals darüber nachgedacht, dass wir zwar anders sind, aber genauso menschlich wie
+{182}{}{Hast du jemals darÃ¼ber nachgedacht, dass wir zwar anders sind, aber genauso menschlich wie
  ihr?}
-{183}{}{Du wirst keine zukünftigen Generationen haben, Doc. Denn du wirst gleich tot sein.}
+{183}{}{Du wirst keine zukÃ¼nftigen Generationen haben, Doc. Denn du wirst gleich tot sein.}
 {184}{}{So hatte ich das noch nicht gesehen... Bitte, lass mir einen Augenblick Zeit zum
  Nachdenken.}
 {185}{}{Das ist OK. Nimm dir Zeit, Doktor. An so einem Brocken muss man kauen.}
-{186}{}{Du kriegst keine Minute. Deine Zeit ist schon lange vorbei. Tschüss, Abschaum.}
-{187}{}{Das ist lächerlich. Du ähnelst mir genauso wenig wie eine zweiköpfige Kuh einer normalen.}
-{188}{}{Wenn es einmal einköpfige Kühe gegeben hat, dann sind die schon lange ausgestorben. Doch
- die Kuh als Gattung hat überlebt und ist stärker geworden. Änderungen sind integraler
- Bestandteil der natürlichen Ordnung.}
+{186}{}{Du kriegst keine Minute. Deine Zeit ist schon lange vorbei. TschÃ¼ss, Abschaum.}
+{187}{}{Das ist lÃ¤cherlich. Du Ã¤hnelst mir genauso wenig wie eine zweikÃ¶pfige Kuh einer normalen.}
+{188}{}{Wenn es einmal einkÃ¶pfige KÃ¼he gegeben hat, dann sind die schon lange ausgestorben. Doch
+ die Kuh als Gattung hat Ã¼berlebt und ist stÃ¤rker geworden. Ã„nderungen sind integraler
+ Bestandteil der natÃ¼rlichen Ordnung.}
 {189}{}{Jeden auf dem Festland umzubringen ist einfach falsch.}
-{190}{}{Ich hab dein Gefasel satt. Jetzt triffst du deinen Schöpfer, Dr. Tod.}
+{190}{}{Ich hab dein Gefasel satt. Jetzt triffst du deinen SchÃ¶pfer, Dr. Tod.}
 {191}{}{Leute wie du sind offensichtlich nicht in der Lage zu verstehen, was ich sagen will. Es
  ist sinnlos. Du solltest jetzt gehen.}
 {192}{}{Ich hab's versucht. Stirb, du Rassist.}
-{193}{}{Also gut, ich gehe. Einer von uns ist jenseits von Gut und Böse und ich bin's nicht.
- Tschüss.}
-{194}{}{Toxikologische Studien über die Wirkung des F.E.V.-Giftes, ja.}
+{193}{}{Also gut, ich gehe. Einer von uns ist jenseits von Gut und BÃ¶se und ich bin's nicht.
+ TschÃ¼ss.}
+{194}{}{Toxikologische Studien Ã¼ber die Wirkung des F.E.V.-Giftes, ja.}
 {195}{}{Das F.E.V.-Gift? Was ist das?}
-{196}{}{Ich möchte dich noch etwas fragen.}
-{197}{}{Das F.E.V.-Gift. Es ist die perfekte Lösung für dieses schwierige Problem.}
+{196}{}{Ich mÃ¶chte dich noch etwas fragen.}
+{197}{}{Das F.E.V.-Gift. Es ist die perfekte LÃ¶sung fÃ¼r dieses schwierige Problem.}
 {198}{}{Was ist das F.E.V.-Gift?}
-{199}{}{Einen Augenblick. Ich möchte dich noch etwas fragen.}
+{199}{}{Einen Augenblick. Ich mÃ¶chte dich noch etwas fragen.}
 {200}{}{Eine unserer Patrouillen fand die Forschungsdaten und diverse Proben des F.E.V.-Virus in
- einer ehemaligen militärischen Forschungsbasis, die fast vollständig zerstört war.}
-{201}{}{OK, jetzt weiß ich, wo ihr es her habt, aber wie wirkt es?}
-{202}{}{Das F.E.V. war ursprünglich als Virus gedacht, das Menschen in Supersoldaten verwandeln
+ einer ehemaligen militÃ¤rischen Forschungsbasis, die fast vollstÃ¤ndig zerstÃ¶rt war.}
+{201}{}{OK, jetzt weiÃŸ ich, wo ihr es her habt, aber wie wirkt es?}
+{202}{}{Das F.E.V. war ursprÃ¼nglich als Virus gedacht, das Menschen in Supersoldaten verwandeln
  sollte. Dieses Experiment muss ein kompletter Fehlschlag gewesen sein, obwohl ich eine
  modifizierte Version des Virus mit einigem Erfolg an einem unserer Geheimagenten ausprobiert
  habe.}
-{203}{}{Schön für dich, aber wie hängt das mit der Ausrottung von allen zusammen?}
-{204}{}{Ach ja, naja, ich wollte gerade erzählen... Die F.E.V.-Virusbindung ist gattungsabhängig,
+{203}{}{SchÃ¶n fÃ¼r dich, aber wie hÃ¤ngt das mit der Ausrottung von allen zusammen?}
+{204}{}{Ach ja, naja, ich wollte gerade erzÃ¤hlen... Die F.E.V.-Virusbindung ist gattungsabhÃ¤ngig,
  es verbindet sich nur mit menschlichen Glycoproteinen. Es hat nur ein paar Jahre gedauert, das
- F.E.V.-Virus noch tödlicher zu machen als es schon war. Das Ergebnis war genau richtig, absolut
+ F.E.V.-Virus noch tÃ¶dlicher zu machen als es schon war. Das Ergebnis war genau richtig, absolut
  perfekt. }
 {205}{}{Perfekt? Wie das?}
 {206}{}{Ist das nicht offensichtlich, mein mutierter Freund? Das F.E.V. ist dank mir ein
- tödliches Gift und dank eines rätselhaften Genies, der etwas dramatisch "Der Meister" genannt
+ tÃ¶dliches Gift und dank eines rÃ¤tselhaften Genies, der etwas dramatisch "Der Meister" genannt
  wird, wirkt es nur bei Menschen, mutiert oder nicht.}
 {207}{}{Ja?}
-{208}{}{Somit haben wir das perfekte Entsorgungsmittel für alle fast menschlichen Mutanten, die
+{208}{}{Somit haben wir das perfekte Entsorgungsmittel fÃ¼r alle fast menschlichen Mutanten, die
  den Erdball verseuchen.}
 {209}{}{Ich verstehe immer noch nicht, warum das *perfekt* ist.}
 {210}{}{Ich muss dir noch Fragen zu deinen anderen wahnsinnigen Ideen stellen.}
-{211}{}{Das F.E.V.-Gift greift nur Menschen an und lässt alles andere am Leben. Und, was noch besser
+{211}{}{Das F.E.V.-Gift greift nur Menschen an und lÃ¤sst alles andere am Leben. Und, was noch besser
  ist, innerhalb eines Monats sind alle Mutanten tot und das F.E.V.-Gift stirbt aus, weil es keine
  Wirte mehr findet.}
-{212}{}{Es kann nicht genügend Vertibirds hier geben, um das Gift über die ganze Welt zu
+{212}{}{Es kann nicht genÃ¼gend Vertibirds hier geben, um das Gift Ã¼ber die ganze Welt zu
  verteilen.}
 {213}{}{Ich mach dich zum Wirt von einigen Hochenergie-Projektilen. Fang an zu beten.}
 {214}{}{Da hast du recht. Aber wir brauchen sie auch gar nicht.   Wir entwickelten ein
- Freisetzungssystem, welches das F.E.V.-Gift von den Behältern direkt in die Atmosphäre sprüht,
- der Jetstrom erledigt den Rest. Die weltweite Sättigung wird in höchstens zwei Wochen erreicht.}
+ Freisetzungssystem, welches das F.E.V.-Gift von den BehÃ¤ltern direkt in die AtmosphÃ¤re sprÃ¼ht,
+ der Jetstrom erledigt den Rest. Die weltweite SÃ¤ttigung wird in hÃ¶chstens zwei Wochen erreicht.}
 {215}{}{Zwei Wochen?}
-{216}{}{Ja, zwei Wochen für die Verbreitung des Virus, circa ein weiterer Monat für sein Werk und
- dann sind die Vereinigten Staaten bereit für die Rekolonialisierung durch die wahren Menschen.
+{216}{}{Ja, zwei Wochen fÃ¼r die Verbreitung des Virus, circa ein weiterer Monat fÃ¼r sein Werk und
+ dann sind die Vereinigten Staaten bereit fÃ¼r die Rekolonialisierung durch die wahren Menschen.
  Unsere Art ist gerettet.}
 {217}{}{Du glaubst wirklich, dass du das Richtige tust, nicht?}
-{218}{}{Na, bist du nicht ein Menschenfreund. Ich muss hier raus, bevor ich dich umlege. Tschüss.}
-{219}{}{Deine Art überlebt vielleicht, du aber nicht.}
-{220}{}{Oh doch. Kein Preis ist zu hoch für das Überleben der eigenen Art.}
-{221}{}{Da würde ich dir zustimmen. Hast du schon mal darüber nachgedacht, dass die *Mutanten*,
+{218}{}{Na, bist du nicht ein Menschenfreund. Ich muss hier raus, bevor ich dich umlege. TschÃ¼ss.}
+{219}{}{Deine Art Ã¼berlebt vielleicht, du aber nicht.}
+{220}{}{Oh doch. Kein Preis ist zu hoch fÃ¼r das Ãœberleben der eigenen Art.}
+{221}{}{Da wÃ¼rde ich dir zustimmen. Hast du schon mal darÃ¼ber nachgedacht, dass die *Mutanten*,
  wie du sie nennst, nur eine andere Art von Mensch sind?}
-{222}{}{Da muss ich dir zustimmen, Doc. Ich werde für uns Mutanten kämpfen. Und bei dir fange ich
+{222}{}{Da muss ich dir zustimmen, Doc. Ich werde fÃ¼r uns Mutanten kÃ¤mpfen. Und bei dir fange ich
  an!}
-{223}{}{Ich hab doch schon gesagt, darüber muss ich nachdenken.}
+{223}{}{Ich hab doch schon gesagt, darÃ¼ber muss ich nachdenken.}
 {224}{}{Ich brauche wirklich etwas Zeit zum Denken.}
 {225}{}{Das ist keine schnelle Entscheidung.}
-{226}{}{Darüber muss ich nachdenken.}
+{226}{}{DarÃ¼ber muss ich nachdenken.}
 {227}{}{Einen Augenblick, in Ordnung?}
 {228}{}{Ich gebe es ja nicht gerne zu, aber vielleicht hast du recht. Was wir geplant haben ist
- nicht richtig. Ich war so geblendet davon, die Hindernisse zu überwinden, dass ich nie über die
+ nicht richtig. Ich war so geblendet davon, die Hindernisse zu Ã¼berwinden, dass ich nie Ã¼ber die
  Ethik meiner Arbeit nachgedacht habe.}
-{229}{}{Jetzt, da du darüber nachgedacht hast, solltest du das Gift zerstören.}
-{230}{}{Das könnte... Nein, das funktioniert nicht.}
+{229}{}{Jetzt, da du darÃ¼ber nachgedacht hast, solltest du das Gift zerstÃ¶ren.}
+{230}{}{Das kÃ¶nnte... Nein, das funktioniert nicht.}
 {231}{}{Wieso nicht?}
 {232}{}{Weil sie einfach wieder von vorne anfangen. Selbst wenn ich tot bin, gibt es zwischen
- hier und Navarro genügend Daten, mit denen man meine Arbeit nachvollziehen könnte. Nur etwas
+ hier und Navarro genÃ¼gend Daten, mit denen man meine Arbeit nachvollziehen kÃ¶nnte. Nur etwas
  Drastischeres hilft.}
 {233}{}{Drastischer? Was meinst du?}
-{234}{}{Die Enklave muss zerstört werden. Völlig vernichtet. Sonst nehmen die sich die Überreste
+{234}{}{Die Enklave muss zerstÃ¶rt werden. VÃ¶llig vernichtet. Sonst nehmen die sich die Ãœberreste
  und fangen woanders noch mal an.}
-{235}{}{Tut mir leid, das zu hören. Äh, Doktor, wie, meinst du, sollte die Enklave vernichtet
+{235}{}{Tut mir leid, das zu hÃ¶ren. Ã„h, Doktor, wie, meinst du, sollte die Enklave vernichtet
  werden?}
-{236}{}{Ich glaube, das beste wäre, das F.E.V.-Gift in die Luftaufbereitung einzuführen. Da die
+{236}{}{Ich glaube, das beste wÃ¤re, das F.E.V.-Gift in die Luftaufbereitung einzufÃ¼hren. Da die
  Enklave ein abgedichtetes System darstellt, sollte das alle erledigen.}
 {237}{}{Wie steht's mit meinen Leuten? Oder mir? Oder auch dir?}
-{238}{}{Ich kann das Gegenmittel in das Belüftungssystem für die Zellen einbringen. Die
+{238}{}{Ich kann das Gegenmittel in das BelÃ¼ftungssystem fÃ¼r die Zellen einbringen. Die
  Internierungsebene wird von einem Luftsystem versorgt, das vom Rest der Enklave getrennt ist. Alle
  werden glauben, dass ich wieder einen Test mache. Dich kann ich direkt impfen, gleich hier.
  [Er kommt mit einer Spritze auf dich zu.]}
 {239}{}{Aua, danke, Doc. Was passiert, wenn das F.E.V.-Gift freigesetzt ist?}
 {240}{}{He, einen Augenblick, mich piekst du nicht mit dem Ding!}
-{241}{}{Kein schöner Anblick. Du solltest sofort verschwinden. Aber ich belaste mein Gewissen
+{241}{}{Kein schÃ¶ner Anblick. Du solltest sofort verschwinden. Aber ich belaste mein Gewissen
  lieber mit Tausend als mit mehreren Hunderttausend. Unsere Zeit hier ist vorbei. Wir hatten
  unsere Chance.}
 {242}{}{Wie kann ich meine Leute aus der Internierungsebene befreien?}
-{243}{}{Du musst wahrscheinlich den Strom abstellen. Ich weiß, dass der Reaktor von einem großen
- Computer in der Nähe des Reaktorraums gesteuert wird, aber ich weiß nicht, wie genau man den
- Reaktor herunterfährt.}
-{244}{}{Danke für die Informationen. Dein Opfer werden alle Völker der Erde für immer in Ehren halten.}
+{243}{}{Du musst wahrscheinlich den Strom abstellen. Ich weiÃŸ, dass der Reaktor von einem groÃŸen
+ Computer in der NÃ¤he des Reaktorraums gesteuert wird, aber ich weiÃŸ nicht, wie genau man den
+ Reaktor herunterfÃ¤hrt.}
+{244}{}{Danke fÃ¼r die Informationen. Dein Opfer werden alle VÃ¶lker der Erde fÃ¼r immer in Ehren halten.}
 {245}{}{Zeit, dass du zu Sinnen kommst, alter Schwachkopf. Jetzt beweg dich.}
 {246}{}{Als die Stern' die Speere senkten,}
-{247}{}{                                 Und mit Tränen Himmel tränkten,}
+{247}{}{                                 Und mit TrÃ¤nen Himmel trÃ¤nkten,}
 {248}{}{                                  Freut' er da des Werkes sich?}
 {249}{}{                                     Schuf er, der auch das Lamm schuf, dich?}
-{250}{}{Häh?}
+{250}{}{HÃ¤h?}
 {251}{}{Ach, nur was von einem Dichter, der schon lange tot ist. Ich frage mich, ob es immer noch einen Ort
- gibt für Leute, die so lange auf so ein böses Ziel hingearbeitet haben.
+ gibt fÃ¼r Leute, die so lange auf so ein bÃ¶ses Ziel hingearbeitet haben.
  Unsere Zeit ist vorbei, eure beginnt. Mach dich auf!}
-{252}{}{Oh, ok, danke für die Hilfe, Doktor. Du bist ein tapferer Mann.}
-{253}{}{Du bist ein Irrer, aber ein nützlicher Irrer. Tschüss.}
+{252}{}{Oh, ok, danke fÃ¼r die Hilfe, Doktor. Du bist ein tapferer Mann.}
+{253}{}{Du bist ein Irrer, aber ein nÃ¼tzlicher Irrer. TschÃ¼ss.}
 {254}{}{Mach schon!}
 {255}{}{Verschwinde.}
 {256}{}{Beweg dich!}
-{257}{}{Du hast keine Zeit dafür!}
+{257}{}{Du hast keine Zeit dafÃ¼r!}
 {258}{}{Geh, solange du noch kannst!}
 {259}{}{Verstehst du nicht? Ohne das bist du innerhalb weniger Stunden tot.}
 {260}{}{Naja, wenn das so ist. Rein damit, Doc. Was passiert, wenn das F.E.V.-Gift freigesetzt

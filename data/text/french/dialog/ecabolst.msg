@@ -2,33 +2,33 @@
 {101}{}{On dirait que cette personne cherche quelque chose.}
 {200}{}{A mort l'esclavagiste !}
 {201}{}{A bas l'oppresseur !}
-{202}{}{A mort l'esclavagiste démoniaque !}
+{202}{}{A mort l'esclavagiste dÃ©moniaque !}
 {203}{}{A bas l'esclavagisme ! A mort les esclavagistes !}
-{204}{}{Crève, pourriture d'esclavagiste !}
+{204}{}{CrÃ¨ve, pourriture d'esclavagiste !}
 {250}{}{Salut !}
-{251}{}{Hé, toi !}
-{300}{}{Hé, toi, que fais-tu par ici ?}
+{251}{}{HÃ©, toi !}
+{300}{}{HÃ©, toi, que fais-tu par ici ?}
 {301}{}{J'ai perdu mon chemin.}
-{302}{}{Je me promène.}
+{302}{}{Je me promÃ¨ne.}
 {303}{}{Pas grand-chose. Que fais-tu par ici ?}
-{304}{}{Je cherche des gens à tuer.}
+{304}{}{Je cherche des gens Ã  tuer.}
 {305}{}{Rien. Salut.}
 {306}{}{Hein ?}
 {307}{}{Hum, je crois qu'il faut que je parte. Salut.}
-{310}{}{J'aimerais pouvoir t'aider, mais cela fait tellement longtemps que j'erre par ici que je n'arrive plus trop me repérer.}
-{311}{}{Pourquoi traînes-tu par ici ?}
+{310}{}{J'aimerais pouvoir t'aider, mais cela fait tellement longtemps que j'erre par ici que je n'arrive plus trop me repÃ©rer.}
+{311}{}{Pourquoi traÃ®nes-tu par ici ?}
 {312}{}{Que fais-tu par ici ?}
-{313}{}{Hé bien, bonne chance.}
-{314}{}{Ah, bonne chance à toi. Au fait, fais attention à La Fosse. Ils aiment bien faire commerce des gens là-bas.}
+{313}{}{HÃ© bien, bonne chance.}
+{314}{}{Ah, bonne chance Ã  toi. Au fait, fais attention Ã  La Fosse. Ils aiment bien faire commerce des gens lÃ -bas.}
 {315}{}{La Fosse ?}
 {316}{}{Faire commerce des gens ?}
-{317}{}{Ouais, c'est ça. Allez, salut.}
-{320}{}{Il semblerait que les gens aiment avoir des esclaves dans ce coin. Je vais essayer de les libérer. Et si quelques esclavagistes y laissent la peau, c'est pas grave.}
+{317}{}{Ouais, c'est Ã§a. Allez, salut.}
+{320}{}{Il semblerait que les gens aiment avoir des esclaves dans ce coin. Je vais essayer de les libÃ©rer. Et si quelques esclavagistes y laissent la peau, c'est pas grave.}
 {321}{}{Quel mal y a-t-il ? Je prendrais bien quelques esclaves moi aussi si je pouvais en trouver !}
 {322}{}{J'ouvrirai l'oeil !}
-{323}{}{Tuer n'est jamais justifié.}
+{323}{}{Tuer n'est jamais justifiÃ©.}
 {324}{}{Les tuer ? Je vais t'aider.}
-{330}{}{Ah bon ? Super. Bon, je dois partir à la recherche d'autres esclaves à délivrer.}
+{330}{}{Ah bon ? Super. Bon, je dois partir Ã  la recherche d'autres esclaves Ã  dÃ©livrer.}
 {331}{}{Bonne chance.}
 {335}{}{Non, parfois tu dois sacrifier quelques personnes pour en sauver d'autres. Et puis, ce sont des esclavagistes, pas vraiment des personnes.}
 {336}{}{Ouais, tu as raison. Bon, faut qu'je file.}
@@ -37,14 +37,14 @@
 {340}{}{Salaud ! Je vais te tuer !}
 {341}{}{Salope ! Je vais te tuer !}
 {342}{}{Non, je te tuerai en premier !}
-{350}{}{Ils attaquent des petits groupes de gens. Tous ceux qui survivent finissent aux enchères.}
-{351}{}{C'est horrible ! Je me méfierai d'eux. Merci.}
-{355}{}{La Fosse est une ville. Les habitants sont spécialisés dans l'esclavage et toutes sortes de vilenies. Ils sont vraiment méchants.}
+{350}{}{Ils attaquent des petits groupes de gens. Tous ceux qui survivent finissent aux enchÃ¨res.}
+{351}{}{C'est horrible ! Je me mÃ©fierai d'eux. Merci.}
+{355}{}{La Fosse est une ville. Les habitants sont spÃ©cialisÃ©s dans l'esclavage et toutes sortes de vilenies. Ils sont vraiment mÃ©chants.}
 {356}{}{Merci pour l'info. Salut.}
-{360}{}{Je veux arrêter le trafic d'esclaves.}
+{360}{}{Je veux arrÃªter le trafic d'esclaves.}
 {361}{}{Que veux-tu dire ?}
 {362}{}{Ah, d'accord. Bonne chance.}
 {363}{}{Allez va, salut.}
-{370}{}{Essaie les esclavagistes. Ils font de très bonnes tueries.}
+{370}{}{Essaie les esclavagistes. Ils font de trÃ¨s bonnes tueries.}
 {371}{}{Super. Merci pour le tuyau.}
-{372}{}{Tu es là. Je préférerais te tuer toi.}
+{372}{}{Tu es lÃ . Je prÃ©fÃ©rerais te tuer toi.}

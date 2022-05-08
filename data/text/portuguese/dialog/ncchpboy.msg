@@ -1,75 +1,75 @@
-{150}{}{Você vê um mecânico coberto de graxa.}
-{151}{}{Você vê um dos garotos da loja de desmanche.}
-{152}{}{Você vê um mecânico de aparência esquisita. Você mal consegue distinguir suas feições sob a graxa e o óleo.}
+{150}{}{VocÃª vÃª um mecÃ¢nico coberto de graxa.}
+{151}{}{VocÃª vÃª um dos garotos da loja de desmanche.}
+{152}{}{VocÃª vÃª um mecÃ¢nico de aparÃªncia esquisita. VocÃª mal consegue distinguir suas feiÃ§Ãµes sob a graxa e o Ã³leo.}
 {200}{}{Puta merda. *engole* Olha quem acabou de entrar.}
-{201}{}{Uau, uau: Sr. Puta Lata de Café em pessoa.}
+{201}{}{Uau, uau: Sr. Puta Lata de CafÃ© em pessoa.}
 {202}{}{Tem algo nessa coisa?}
-{203}{}{Podemos te dar alguma coisa? Uma cerveja? Um pouco de água? Um pão dinamarquês?}
-{204}{}{Espero que esteja tudo bem, eh, senhor... ou senhora. O que quer que esteja lá.}
-{205}{}{Seja qual for o problema, a T-Ray é responsável. Se eu fosse você iria ver.}
-{206}{}{Isso é algum tipo de carro novo?}
-{207}{}{Não queremos problemas.}
-{208}{}{Talvez você esteja procurando T-Ray. Ele está mais atrás.}
-{220}{}{Olha, olááááá, mocinha. Que performance fodida você fez.}
-{221}{}{Uau. Não temos muitos visitantes. O que podemos fazer por você, senhorita }
-{222}{}{Como você colocou as pernas sob a cabeça daquele jeito?}
-{223}{}{Essas tetas são reais? Me confirma isso?}
-{224}{}{Teria algum problema você dar uma olhada embaixo do meu capô?}
-{225}{}{Ai, droga, eu estou todo zuado e você me aparece. Não ligue para a graxa, senhorita.}
-{226}{}{Procurando talento? T-Ray está na parte de trás, não se preocupe em ir lá.}
+{203}{}{Podemos te dar alguma coisa? Uma cerveja? Um pouco de Ã¡gua? Um pÃ£o dinamarquÃªs?}
+{204}{}{Espero que esteja tudo bem, eh, senhor... ou senhora. O que quer que esteja lÃ¡.}
+{205}{}{Seja qual for o problema, a T-Ray Ã© responsÃ¡vel. Se eu fosse vocÃª iria ver.}
+{206}{}{Isso Ã© algum tipo de carro novo?}
+{207}{}{NÃ£o queremos problemas.}
+{208}{}{Talvez vocÃª esteja procurando T-Ray. Ele estÃ¡ mais atrÃ¡s.}
+{220}{}{Olha, olÃ¡Ã¡Ã¡Ã¡Ã¡, mocinha. Que performance fodida vocÃª fez.}
+{221}{}{Uau. NÃ£o temos muitos visitantes. O que podemos fazer por vocÃª, senhorita }
+{222}{}{Como vocÃª colocou as pernas sob a cabeÃ§a daquele jeito?}
+{223}{}{Essas tetas sÃ£o reais? Me confirma isso?}
+{224}{}{Teria algum problema vocÃª dar uma olhada embaixo do meu capÃ´?}
+{225}{}{Ai, droga, eu estou todo zuado e vocÃª me aparece. NÃ£o ligue para a graxa, senhorita.}
+{226}{}{Procurando talento? T-Ray estÃ¡ na parte de trÃ¡s, nÃ£o se preocupe em ir lÃ¡.}
 {227}{}{Eu sabia que deveria ter lavado hoje...}
-{228}{}{Devo verificar seu óleo? He he.}
+{228}{}{Devo verificar seu Ã³leo? He he.}
 {229}{}{Quer ver meu ajudante no trabalho?}
 {230}{}{::Assobios::}
 {231}{}{Droga. Todas essas curvas e eu sem freio nenhum.}
-{232}{}{Oi, oláááááá, senhorita.}
-{233}{}{Uau. Não temos muitos visitantes. O que podemos fazer por você, senhorita?}
-{234}{}{Procurando uma paixão selvagem? T-Ray está na parte de trás, não se preocupe em ir lá.}
-{245}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
-{246}{}{Você vai cair? Eu ganhei 30 conto apostando em você.}
-{247}{}{Você não parece tão forte para um boxeador.}
-{248}{}{Quanto você pesa?}
-{249}{}{Onde você trabalha fora do ringue?}
-{250}{}{Cuidado com o Masticator. Ele é louco por orelhas.}
-{251}{}{Quer cerveja? Normalmente guardamos para quando estamos no serviço.}
-{252}{}{T-Ray disse que você não é tão forte. Te dou 5 tampas se você der um soco nele.}
-{253}{}{T-Ray disse que sua mãe não é homem. Ele está na parte de trás se você quiser ir falar com ele.}
-{254}{}{Esse Masticador é um covarde. Ei, mas não diga nada que eu disse isso dele}
-{265}{}{Espero que não tenha problema, senhorita.}
-{266}{}{Não quisemos desrespeitar, senhora.}
+{232}{}{Oi, olÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡, senhorita.}
+{233}{}{Uau. NÃ£o temos muitos visitantes. O que podemos fazer por vocÃª, senhorita?}
+{234}{}{Procurando uma paixÃ£o selvagem? T-Ray estÃ¡ na parte de trÃ¡s, nÃ£o se preocupe em ir lÃ¡.}
+{245}{}{Vi vocÃª lutando no ringue. Que belo gancho que vocÃª deu.}
+{246}{}{VocÃª vai cair? Eu ganhei 30 conto apostando em vocÃª.}
+{247}{}{VocÃª nÃ£o parece tÃ£o forte para um boxeador.}
+{248}{}{Quanto vocÃª pesa?}
+{249}{}{Onde vocÃª trabalha fora do ringue?}
+{250}{}{Cuidado com o Masticator. Ele Ã© louco por orelhas.}
+{251}{}{Quer cerveja? Normalmente guardamos para quando estamos no serviÃ§o.}
+{252}{}{T-Ray disse que vocÃª nÃ£o Ã© tÃ£o forte. Te dou 5 tampas se vocÃª der um soco nele.}
+{253}{}{T-Ray disse que sua mÃ£e nÃ£o Ã© homem. Ele estÃ¡ na parte de trÃ¡s se vocÃª quiser ir falar com ele.}
+{254}{}{Esse Masticador Ã© um covarde. Ei, mas nÃ£o diga nada que eu disse isso dele}
+{265}{}{Espero que nÃ£o tenha problema, senhorita.}
+{266}{}{NÃ£o quisemos desrespeitar, senhora.}
 {267}{}{Puta merda. *engole* Olha quem acabou de entrar.}
-{268}{}{O que podemos fazer por você, }
-{269}{}{Podemos te dar alguma coisa? Uma cerveja? Um pouco de água? Um pão dinamarquês?}
-{270}{}{Seja qual for o problema, a T-Ray é responsável. Se eu fosse você iria ver.}
-{271}{}{Diga olá ao seu chefe por nós.}
-{272}{}{Talvez você esteja procurando T-Ray. Ele está mais atrás.}
+{268}{}{O que podemos fazer por vocÃª, }
+{269}{}{Podemos te dar alguma coisa? Uma cerveja? Um pouco de Ã¡gua? Um pÃ£o dinamarquÃªs?}
+{270}{}{Seja qual for o problema, a T-Ray Ã© responsÃ¡vel. Se eu fosse vocÃª iria ver.}
+{271}{}{Diga olÃ¡ ao seu chefe por nÃ³s.}
+{272}{}{Talvez vocÃª esteja procurando T-Ray. Ele estÃ¡ mais atrÃ¡s.}
 {273}{}{Espero que nada esteja errado, senhor.}
-{274}{}{Não quisemos desrespeitar, senhor.}
+{274}{}{NÃ£o quisemos desrespeitar, senhor.}
 {300}{}{Desculpe pelo mal entendido com o Highwayman.}
-{301}{}{Não sabíamos que o Highwayman era seu.}
-{302}{}{Sim, o Highwayman não é um carro ruim, mas prefiro um Omni.}
+{301}{}{NÃ£o sabÃ­amos que o Highwayman era seu.}
+{302}{}{Sim, o Highwayman nÃ£o Ã© um carro ruim, mas prefiro um Omni.}
 {303}{}{Quer vender o Highwayman?}
 {304}{}{Vamos, eletrizante, vamos.}
-{305}{}{Graxa é a palavra que eu ouvi... dum dum dum dum...}
-{306}{}{O Highwayman é um puta carro; Chryslus certamente sabia como fazê-los nos velhos tempos.}
-{307}{}{T-Ray está "trabalhando" lá atrás novamente. Vagabundo.}
+{305}{}{Graxa Ã© a palavra que eu ouvi... dum dum dum dum...}
+{306}{}{O Highwayman Ã© um puta carro; Chryslus certamente sabia como fazÃª-los nos velhos tempos.}
+{307}{}{T-Ray estÃ¡ "trabalhando" lÃ¡ atrÃ¡s novamente. Vagabundo.}
 {308}{}{Estou farto de trabalhar nessas folgas do T-Ray.}
-{309}{}{T-Ray está secando minha mulher de novo.}
-{310}{}{T-Ray dormiu com minha irmã, e minha mãe, e meu cachorro.}
-{311}{}{T-Ray tem mais tesão do que uma cabra de quatro cabeças.}
-{312}{}{O T-Ray está lá atrás, no telefone.}
-{313}{}{O motor ainda está bom.}
-{314}{}{O interior está cheirando como se alguém tivesse cagado ali.}
+{309}{}{T-Ray estÃ¡ secando minha mulher de novo.}
+{310}{}{T-Ray dormiu com minha irmÃ£, e minha mÃ£e, e meu cachorro.}
+{311}{}{T-Ray tem mais tesÃ£o do que uma cabra de quatro cabeÃ§as.}
+{312}{}{O T-Ray estÃ¡ lÃ¡ atrÃ¡s, no telefone.}
+{313}{}{O motor ainda estÃ¡ bom.}
+{314}{}{O interior estÃ¡ cheirando como se alguÃ©m tivesse cagado ali.}
 {315}{}{O interior cheira como um gecko.}
-{316}{}{Não é um carro ruim, mas prefiro um Omni.}
-{317}{}{O Highwayman tem um sistema analógico completo, 800 cavalos de potência, 0-100 em menos de um segundo.}
-{318}{}{Rápido? O Highwayman vai de 0 a 100 em menos de um segundo.}
-{319}{}{Na verdade, a potencia do Highwayman é de 800 CV.}
-{320}{}{Você deveria estar aqui?}
-{321}{}{Tenho pena do idiota que deixou este Highwayman por aí.}
-{322}{}{Não me preocuparia; o Highwayman tem um sistema analógico completo e nenhum computador. Nada de coisas extravagantes.}
-{330}{}{Tire suas mãos ou eu as corto. Entendeu?}
+{316}{}{NÃ£o Ã© um carro ruim, mas prefiro um Omni.}
+{317}{}{O Highwayman tem um sistema analÃ³gico completo, 800 cavalos de potÃªncia, 0-100 em menos de um segundo.}
+{318}{}{RÃ¡pido? O Highwayman vai de 0 a 100 em menos de um segundo.}
+{319}{}{Na verdade, a potencia do Highwayman Ã© de 800 CV.}
+{320}{}{VocÃª deveria estar aqui?}
+{321}{}{Tenho pena do idiota que deixou este Highwayman por aÃ­.}
+{322}{}{NÃ£o me preocuparia; o Highwayman tem um sistema analÃ³gico completo e nenhum computador. Nada de coisas extravagantes.}
+{330}{}{Tire suas mÃ£os ou eu as corto. Entendeu?}
 {331}{}{Sai de perto desse carro.}
-{332}{}{Sua vida não vale mais do que aquele carro. Toque novamente, e eu te mostro.}
+{332}{}{Sua vida nÃ£o vale mais do que aquele carro. Toque novamente, e eu te mostro.}
 {5221}{}{?}
 {5268}{}{?}

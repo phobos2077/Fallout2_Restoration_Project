@@ -1,4 +1,4 @@
-{100}{}{PERÕCIAS}
+{100}{}{PER√çCIAS}
 {101}{}{CANCEL}
 {102}{}{FURTIV.}
 {103}{}{ARROMB.}
@@ -6,5 +6,5 @@
 {105}{}{ARMAD.}
 {106}{}{P. SOC.}
 {107}{}{MEDICINA}
-{108}{}{CI NCIA}
+{108}{}{CI√äNCIA}
 {109}{}{REPARO}

@@ -1,14 +1,14 @@
-{100}{}{Egy férfit látsz harci páncélban.}
-{101}{}{Kagát látod harci páncélban.}
-{102}{}{Harci páncélt visel, és úgy t?nik, néhány egész t?rhet? fegyvere is van.}
-{103}{}{Ez alkalommal felkészültem rád.}
-{104}{}{A Kiválasztott sohasem fog visszatérni Arroyóba!}
-{105}{}{Kaga szét fog zúzni téged!}
-{106}{}{Kaga nem fél senkit?l!}
-{107}{}{Maradj mozdulatlan, hogy Kaga pontosan célozhasson!}
-{108}{}{Találkozni fogunk még!}
-{109}{}{Ez nem az utolsó alkalom, hogy láttad Kagát.}
-{110}{}{Kagának határozottan több gyakorlásra van szüksége...}
+{100}{}{Egy fÃ©rfit lÃ¡tsz harci pÃ¡ncÃ©lban.}
+{101}{}{KagÃ¡t lÃ¡tod harci pÃ¡ncÃ©lban.}
+{102}{}{Harci pÃ¡ncÃ©lt visel, Ã©s Ãºgy t?nik, nÃ©hÃ¡ny egÃ©sz t?rhet? fegyvere is van.}
+{103}{}{Ez alkalommal felkÃ©szÃ¼ltem rÃ¡d.}
+{104}{}{A KivÃ¡lasztott sohasem fog visszatÃ©rni ArroyÃ³ba!}
+{105}{}{Kaga szÃ©t fog zÃºzni tÃ©ged!}
+{106}{}{Kaga nem fÃ©l senkit?l!}
+{107}{}{Maradj mozdulatlan, hogy Kaga pontosan cÃ©lozhasson!}
+{108}{}{TalÃ¡lkozni fogunk mÃ©g!}
+{109}{}{Ez nem az utolsÃ³ alkalom, hogy lÃ¡ttad KagÃ¡t.}
+{110}{}{KagÃ¡nak hatÃ¡rozottan tÃ¶bb gyakorlÃ¡sra van szÃ¼ksÃ©ge...}
 {120}{}{Go away Kaga!}
 {150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One? Ha! You think being the grandchild of the Vault Dweller makes you special?! You think you are better than I, Kaga the Great?!}
 {151}{}{Well, I AM the Chosen One, aren't I?}

@@ -1,48 +1,48 @@
-{100}{}{Egy számítógépet látsz.}
-{101}{}{Egy számítógépet látsz.}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©pet lÃ¡tsz.}
+{101}{}{Egy szÃ¡mÃ­tÃ³gÃ©pet lÃ¡tsz.}
 {102}{}{You see the central computer for Navarro.}
-{103}{}{Kérem, adja meg a jelszót!}
-{104}{}{Csacsifül.}
+{103}{}{KÃ©rem, adja meg a jelszÃ³t!}
+{104}{}{CsacsifÃ¼l.}
 {105}{}{Elfelejteni...}
 {106}{}{Baszd meg a jelszavadat!}
-{107}{}{Betörés a rendszerbe...}
+{107}{}{BetÃ¶rÃ©s a rendszerbe...}
 {108}{}{Welcome to the Enclave. You have limited system privileges at this time. For ease of use this system has been equipped with a common English parser. Please enter all requests as English sentences.}
-{109}{}{Miben segíthetek?}
-{110}{}{Merre gépmadár tervek lenni?}
-{111}{}{Hol Enklávé f?bázis?}
-{112}{}{Hol fegyvertár?}
-{113}{}{Hol bázisparancsnok?}
+{109}{}{Miben segÃ­thetek?}
+{110}{}{Merre gÃ©pmadÃ¡r tervek lenni?}
+{111}{}{Hol EnklÃ¡vÃ© f?bÃ¡zis?}
+{112}{}{Hol fegyvertÃ¡r?}
+{113}{}{Hol bÃ¡zisparancsnok?}
 {114}{}{Gondolni csak ennyi van.}
-{115}{}{Hol találhatók a gépmadár tervek?}
-{116}{}{Hol található az Enklávé f? bázisa?}
-{117}{}{Hol van a fegyvertár?}
-{118}{}{Hol van a parancsnok irodája?}
+{115}{}{Hol talÃ¡lhatÃ³k a gÃ©pmadÃ¡r tervek?}
+{116}{}{Hol talÃ¡lhatÃ³ az EnklÃ¡vÃ© f? bÃ¡zisa?}
+{117}{}{Hol van a fegyvertÃ¡r?}
+{118}{}{Hol van a parancsnok irodÃ¡ja?}
 {119}{}{Azt hiszem, ennyi.}
-{120}{}{Keresés... Leltári adatok... Adat letöltve. A jelenlegi jelentés szerint csak egyetlen teljes gépmadár-tervrajz található a bázison. Négy tervrajzot rendeltek ebbe a körzetbe. Négy tervrajz szállítása megtörtént. Három terv elveszett. A tervrajzot a szervízben tárolják.}
-{121}{}{Oké. Hol szervíz?}
-{122}{}{Jól van. Hol találom a szervízt?}
-{123}{}{Keresés... Bázis-tervrajzok... Adat letöltve. A szervíz a bázis fels? szintjén található az észak-keleti negyedben.}
-{124}{}{Köszi.}
+{120}{}{KeresÃ©s... LeltÃ¡ri adatok... Adat letÃ¶ltve. A jelenlegi jelentÃ©s szerint csak egyetlen teljes gÃ©pmadÃ¡r-tervrajz talÃ¡lhatÃ³ a bÃ¡zison. NÃ©gy tervrajzot rendeltek ebbe a kÃ¶rzetbe. NÃ©gy tervrajz szÃ¡llÃ­tÃ¡sa megtÃ¶rtÃ©nt. HÃ¡rom terv elveszett. A tervrajzot a szervÃ­zben tÃ¡roljÃ¡k.}
+{121}{}{OkÃ©. Hol szervÃ­z?}
+{122}{}{JÃ³l van. Hol talÃ¡lom a szervÃ­zt?}
+{123}{}{KeresÃ©s... BÃ¡zis-tervrajzok... Adat letÃ¶ltve. A szervÃ­z a bÃ¡zis fels? szintjÃ©n talÃ¡lhatÃ³ az Ã©szak-keleti negyedben.}
+{124}{}{KÃ¶szi.}
 {125}{}{Searching... Accessing geographical maps... Data acquired. Enclave headquarters is located 175 miles off of the coast of California in the Pacific Ocean. Coordinates are 37 degrees 18 minutes north latitude by 120 degrees 7 minutes west longitude.}
 {126}{}{Mi szart ez jelenteni?}
 {127}{}{Mi a szart jelent ez?}
-{128}{}{Keresés... Szleng szótár... Információ feldolgozva. Ez négy dolgot jelent:
-                                                         1, Jó mélyen van az óceánon.                                      2, Kalifornia partjaitól is messze van.                            3, San Franciscótól nyugatra található.                          4, Ha nem tanultál földrajzot, úgysem fogod megérteni.         }
+{128}{}{KeresÃ©s... Szleng szÃ³tÃ¡r... InformÃ¡ciÃ³ feldolgozva. Ez nÃ©gy dolgot jelent:
+                                                         1, JÃ³ mÃ©lyen van az Ã³ceÃ¡non.                                      2, Kalifornia partjaitÃ³l is messze van.                            3, San FranciscÃ³tÃ³l nyugatra talÃ¡lhatÃ³.                          4, Ha nem tanultÃ¡l fÃ¶ldrajzot, Ãºgysem fogod megÃ©rteni.         }
 {129}{}{Hogy menni oda?}
 {130}{}{Hogyan juthatok oda?}
-{131}{}{Keresés... Logisztikai adatbázis... Adat letöltve. A logisztikai napló szerint 1257 lehetséges módja van az odajutásnak. Viszont, most csak kett? elérhet?: A gépmadár-szállítás igénybevétele a navarrói bázison, vagy hajóval történ? szállítás San Franciscóban. Az öbölben állomásozó hajót a biztonsági parancsnokság a 9837-334-27A sz. rendelkezés hatálya alá vonja, tehát kódkártya nélkül m?ködésképtelen. A felülírásahoz az F.B.K. szükséges, amit jelenleg a bázisparancsnok tart magánál.}
-{132}{}{Oké.}
-{133}{}{Értem.}
-{134}{}{Keresés... Bázis-tervrajzok... Adat letöltve. A fegyvertár a föld alatti szinten, a bázis észak-nyugati részében található.}
+{131}{}{KeresÃ©s... Logisztikai adatbÃ¡zis... Adat letÃ¶ltve. A logisztikai naplÃ³ szerint 1257 lehetsÃ©ges mÃ³dja van az odajutÃ¡snak. Viszont, most csak kett? elÃ©rhet?: A gÃ©pmadÃ¡r-szÃ¡llÃ­tÃ¡s igÃ©nybevÃ©tele a navarrÃ³i bÃ¡zison, vagy hajÃ³val tÃ¶rtÃ©n? szÃ¡llÃ­tÃ¡s San FranciscÃ³ban. Az Ã¶bÃ¶lben Ã¡llomÃ¡sozÃ³ hajÃ³t a biztonsÃ¡gi parancsnoksÃ¡g a 9837-334-27A sz. rendelkezÃ©s hatÃ¡lya alÃ¡ vonja, tehÃ¡t kÃ³dkÃ¡rtya nÃ©lkÃ¼l m?kÃ¶dÃ©skÃ©ptelen. A felÃ¼lÃ­rÃ¡sahoz az F.B.K. szÃ¼ksÃ©ges, amit jelenleg a bÃ¡zisparancsnok tart magÃ¡nÃ¡l.}
+{132}{}{OkÃ©.}
+{133}{}{Ã‰rtem.}
+{134}{}{KeresÃ©s... BÃ¡zis-tervrajzok... Adat letÃ¶ltve. A fegyvertÃ¡r a fÃ¶ld alatti szinten, a bÃ¡zis Ã©szak-nyugati rÃ©szÃ©ben talÃ¡lhatÃ³.}
 {135}{}{Ah.}
-{136}{}{Oké.}
-{137}{}{Keresés... Bázis-tervrajzok... Adat letöltve. A bázisparancsnok irodája a föld alatti szinten, a bázis észak-keleti részében található.}
+{136}{}{OkÃ©.}
+{137}{}{KeresÃ©s... BÃ¡zis-tervrajzok... Adat letÃ¶ltve. A bÃ¡zisparancsnok irodÃ¡ja a fÃ¶ld alatti szinten, a bÃ¡zis Ã©szak-keleti rÃ©szÃ©ben talÃ¡lhatÃ³.}
 {138}{}{Remek.}
-{139}{}{Jól hangzik.}
-{140}{}{Köszönjük, hogy az Enklávé-Netet használta. Kilépés...}
-{141}{}{Megbeszéltük.}
+{139}{}{JÃ³l hangzik.}
+{140}{}{KÃ¶szÃ¶njÃ¼k, hogy az EnklÃ¡vÃ©-Netet hasznÃ¡lta. KilÃ©pÃ©s...}
+{141}{}{MegbeszÃ©ltÃ¼k.}
 {142}{}{Parancs?}
-{143}{}{Engedély nélküli hozzáférés történt a f?terminálon. Biztonsági riadó!}
-{144}{}{Üdvözlés indítása.}
-{145}{}{Picsába!}
-{146}{}{Biztonsági rendszerzár feloldása folyamatban.}
+{143}{}{EngedÃ©ly nÃ©lkÃ¼li hozzÃ¡fÃ©rÃ©s tÃ¶rtÃ©nt a f?terminÃ¡lon. BiztonsÃ¡gi riadÃ³!}
+{144}{}{ÃœdvÃ¶zlÃ©s indÃ­tÃ¡sa.}
+{145}{}{PicsÃ¡ba!}
+{146}{}{BiztonsÃ¡gi rendszerzÃ¡r feloldÃ¡sa folyamatban.}

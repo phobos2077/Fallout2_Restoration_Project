@@ -1,166 +1,166 @@
-{100}{}{Widzisz niskiego, okr¹g³ego Shi.}
+{100}{}{Widzisz niskiego, okrÄ…gÅ‚ego Shi.}
 {101}{}{Widzisz dr Wonga Yi Tze.}
-{102}{}{Widzisz niskiego, okr¹g³ego Shi.}
-{103}{}{Czy mogê ci w czymœ pomóc?}
+{102}{}{Widzisz niskiego, okrÄ…gÅ‚ego Shi.}
+{103}{}{Czy mogÄ™ ci w czymÅ› pomÃ³c?}
 {104}{}{Dagi nu?}
 {105}{}{Ty kto?}
-{106}{}{Podobno posiadasz cudz¹ œledzionê.}
-{107}{}{Kim jesteœ?}
-{108}{}{Czym siê tutaj zajmujesz?}
-{109}{}{Nie, dziêki. To wszystko.}
-{110}{}{Muszê przyznaæ, ¿e nie mówiê w twoim jêzyku. Mo¿esz spróbuj porozmawiaæ z Kenem Lee, on zna wiele ró¿nych jêzyków.}
+{106}{}{Podobno posiadasz cudzÄ… Å›ledzionÄ™.}
+{107}{}{Kim jesteÅ›?}
+{108}{}{Czym siÄ™ tutaj zajmujesz?}
+{109}{}{Nie, dziÄ™ki. To wszystko.}
+{110}{}{MuszÄ™ przyznaÄ‡, Å¼e nie mÃ³wiÄ™ w twoim jÄ™zyku. MoÅ¼esz sprÃ³buj porozmawiaÄ‡ z Kenem Lee, on zna wiele rÃ³Å¼nych jÄ™zykÃ³w.}
 {111}{}{Aag!}
-{112}{}{Jestem dr Wong. Jestem szefem tej placówki.}
-{113}{}{Jeszcze kilka pytañ, proszê.}
-{114}{}{Dziêki. Na razie.}
-{115}{}{Nadzorujê eksperymenty naukowe, które tu tworzymy i przeprowadzamy. Jestem te¿ odpowiedzialny za sieæ komputerow¹.}
+{112}{}{Jestem dr Wong. Jestem szefem tej placÃ³wki.}
+{113}{}{Jeszcze kilka pytaÅ„, proszÄ™.}
+{114}{}{DziÄ™ki. Na razie.}
+{115}{}{NadzorujÄ™ eksperymenty naukowe, ktÃ³re tu tworzymy i przeprowadzamy. Jestem teÅ¼ odpowiedzialny za sieÄ‡ komputerowÄ….}
 {116}{}{Co planujecie?}
-{117}{}{Jak dostaæ siê do sieci komputerowej?}
+{117}{}{Jak dostaÄ‡ siÄ™ do sieci komputerowej?}
 {118}{}{Mam inne pytania.}
 {119}{}{Rozumiem. Do zobaczenia.}
-{120}{}{Ach, ale je¿eli zdradzê ci nasze plany, to wszyscy je bêd¹ znali. Obawiam siê, ¿e na razie s¹ one tajne.}
-{121}{}{W porz¹dku, nie ma sprawy. Mam inne pytania.}
-{122}{}{Dziêki. Na razie.}
-{123}{}{A co, je¿eli przy³o¿ê ci pistolet do g³owy i zmuszê do mówienia?}
-{124}{}{Có¿, albo ucz¹c siê, jak siê tam w³amaæ, albo zaprzyjaŸniaj¹c siê z jednym z moich podw³adnych. Oczywiœcie ¿artujê na temat tego w³amywania siê - w takim wypadku musia³bym kogoœ za tob¹ wys³aæ, ¿eby ciê zabi³. [Uœmiecha siê, aby pokazaæ, ¿e nie chcia³ ciê obraziæ]}
-{125}{}{Naprawdê byœ mnie zabi³?}
-{126}{}{A wiêc nie mia³byœ ¿adnych wiêkszych obiekcji, gdyby ktoœ, np. ja, zajrza³ do komputera?}
+{120}{}{Ach, ale jeÅ¼eli zdradzÄ™ ci nasze plany, to wszyscy je bÄ™dÄ… znali. Obawiam siÄ™, Å¼e na razie sÄ… one tajne.}
+{121}{}{W porzÄ…dku, nie ma sprawy. Mam inne pytania.}
+{122}{}{DziÄ™ki. Na razie.}
+{123}{}{A co, jeÅ¼eli przyÅ‚oÅ¼Ä™ ci pistolet do gÅ‚owy i zmuszÄ™ do mÃ³wienia?}
+{124}{}{CÃ³Å¼, albo uczÄ…c siÄ™, jak siÄ™ tam wÅ‚amaÄ‡, albo zaprzyjaÅºniajÄ…c siÄ™ z jednym z moich podwÅ‚adnych. OczywiÅ›cie Å¼artujÄ™ na temat tego wÅ‚amywania siÄ™ - w takim wypadku musiaÅ‚bym kogoÅ› za tobÄ… wysÅ‚aÄ‡, Å¼eby ciÄ™ zabiÅ‚. [UÅ›miecha siÄ™, aby pokazaÄ‡, Å¼e nie chciaÅ‚ ciÄ™ obraziÄ‡]}
+{125}{}{NaprawdÄ™ byÅ› mnie zabiÅ‚?}
+{126}{}{A wiÄ™c nie miaÅ‚byÅ› Å¼adnych wiÄ™kszych obiekcji, gdyby ktoÅ›, np. ja, zajrzaÅ‚ do komputera?}
 {127}{}{Mam inne pytanie.}
-{128}{}{Oczywiœcie. Na razie.}
-{129}{}{Wtedy musia³bym uznaæ to za zagro¿enie i ostrzec ciê, ¿e takie dzia³anie mo¿e byæ niebezpieczne dla twojego zdrowia.}
-{130}{}{SprawdŸmy to.}
-{131}{}{To by³ tylko ¿art. Mam inne pytania.}
-{132}{}{[Uœmiecha siê] Musimy broniæ naszego honoru, lao wai.}
-{133}{}{Yy, jasne. A wiêc mia³byœ jakieœ wiêksze obiekcje, gdyby ktoœ, np. ja, zajrza³ do komputera?}
+{128}{}{OczywiÅ›cie. Na razie.}
+{129}{}{Wtedy musiaÅ‚bym uznaÄ‡ to za zagroÅ¼enie i ostrzec ciÄ™, Å¼e takie dziaÅ‚anie moÅ¼e byÄ‡ niebezpieczne dla twojego zdrowia.}
+{130}{}{SprawdÅºmy to.}
+{131}{}{To byÅ‚ tylko Å¼art. Mam inne pytania.}
+{132}{}{[UÅ›miecha siÄ™] Musimy broniÄ‡ naszego honoru, lao wai.}
+{133}{}{Yy, jasne. A wiÄ™c miaÅ‚byÅ› jakieÅ› wiÄ™ksze obiekcje, gdyby ktoÅ›, np. ja, zajrzaÅ‚ do komputera?}
 {134}{}{Jaaasne. Mam inne pytania.}
-{135}{}{Nie w¹tpiê. Na razie.}
-{136}{}{Je¿eli przekonasz do tego moich podw³adnych. Ale ja na pewno nie.}
-{137}{}{A co gdyby tak nagle pod twoim nosem pojawi³a siê spluwa?}
-{138}{}{Wspaniale. Có¿, mam inne pytania.}
-{139}{}{Hmm. Rozumiem. Có¿, do zobaczenia.}
-{140}{}{Ach, tak! Dok³adnie. Przygotujê j¹ sobie z czerwon¹ fasolk¹ i doskona³ym chianti.}
-{141}{}{Wci¹¿ j¹ masz? To dobrze. Chip potrzebuje jej z powrotem.}
-{142}{}{To ludzka œledziona, ty kopniêty draniu!}
-{143}{}{Zdajesz sobie sprawê, ¿e do tego wina powinno siê podawaæ w¹trobê, a nie œledzionê, prawda?}
-{144}{}{Wiesz, to ludzka œledziona.}
-{145}{}{Kto to jest ten Chip? To teraz moja œledziona i zjem j¹ sobie na obiad.}
-{146}{}{Chip to pierwszy w³aœciciel tej œledziony. By³ pijany i sprzeda³ j¹ Lao Chou.}
-{147}{}{Wiesz, potrzebuje jej do prze¿ycia. Pochodzi z jego cia³a.}
-{148}{}{Wiêc mo¿e lepiej, jeœli ciê dla niej zabijê.}
-{149}{}{Umowa to umowa. Nie mo¿e jej dostaæ z powrotem. Przykro mi, ale ubiliœmy interes, wiêc to, ¿e Chip ¿a³uje swojej decyzji nie oznacza wcale, ¿e mo¿e teraz cofaæ dane s³owo.}
+{135}{}{Nie wÄ…tpiÄ™. Na razie.}
+{136}{}{JeÅ¼eli przekonasz do tego moich podwÅ‚adnych. Ale ja na pewno nie.}
+{137}{}{A co gdyby tak nagle pod twoim nosem pojawiÅ‚a siÄ™ spluwa?}
+{138}{}{Wspaniale. CÃ³Å¼, mam inne pytania.}
+{139}{}{Hmm. Rozumiem. CÃ³Å¼, do zobaczenia.}
+{140}{}{Ach, tak! DokÅ‚adnie. PrzygotujÄ™ jÄ… sobie z czerwonÄ… fasolkÄ… i doskonaÅ‚ym chianti.}
+{141}{}{WciÄ…Å¼ jÄ… masz? To dobrze. Chip potrzebuje jej z powrotem.}
+{142}{}{To ludzka Å›ledziona, ty kopniÄ™ty draniu!}
+{143}{}{Zdajesz sobie sprawÄ™, Å¼e do tego wina powinno siÄ™ podawaÄ‡ wÄ…trobÄ™, a nie Å›ledzionÄ™, prawda?}
+{144}{}{Wiesz, to ludzka Å›ledziona.}
+{145}{}{Kto to jest ten Chip? To teraz moja Å›ledziona i zjem jÄ… sobie na obiad.}
+{146}{}{Chip to pierwszy wÅ‚aÅ›ciciel tej Å›ledziony. ByÅ‚ pijany i sprzedaÅ‚ jÄ… Lao Chou.}
+{147}{}{Wiesz, potrzebuje jej do przeÅ¼ycia. Pochodzi z jego ciaÅ‚a.}
+{148}{}{WiÄ™c moÅ¼e lepiej, jeÅ›li ciÄ™ dla niej zabijÄ™.}
+{149}{}{Umowa to umowa. Nie moÅ¼e jej dostaÄ‡ z powrotem. Przykro mi, ale ubiliÅ›my interes, wiÄ™c to, Å¼e Chip Å¼aÅ‚uje swojej decyzji nie oznacza wcale, Å¼e moÅ¼e teraz cofaÄ‡ dane sÅ‚owo.}
 {150}{}{[KONTYNUUJ]}
-{151}{}{To jest ludzka œledziona? Lao Chou nic mi o tym nie mówi³!}
-{152}{}{Pomimo to, z powodu bezczelnoœci pos³añca, s¹dzê, ¿e dalej bêdê trzyma³ siê ca³oœci umowy. Bêdê na niej eksperymentowa³.}
-{153}{}{Powiedz swojemu przyjacielowi, ¿eby przyszed³ tu w ci¹gu nastêpnego dnia, a ja z chêci¹ mu j¹ zwrócê. Mam tylko nadziejê, ¿e znajdziesz jakiœ sposób na w³o¿enie mu jej z powrotem na czas.}
+{151}{}{To jest ludzka Å›ledziona? Lao Chou nic mi o tym nie mÃ³wiÅ‚!}
+{152}{}{Pomimo to, z powodu bezczelnoÅ›ci posÅ‚aÅ„ca, sÄ…dzÄ™, Å¼e dalej bÄ™dÄ™ trzymaÅ‚ siÄ™ caÅ‚oÅ›ci umowy. BÄ™dÄ™ na niej eksperymentowaÅ‚.}
+{153}{}{Powiedz swojemu przyjacielowi, Å¼eby przyszedÅ‚ tu w ciÄ…gu nastÄ™pnego dnia, a ja z chÄ™ciÄ… mu jÄ… zwrÃ³cÄ™. Mam tylko nadziejÄ™, Å¼e znajdziesz jakiÅ› sposÃ³b na wÅ‚oÅ¼enie mu jej z powrotem na czas.}
 {154}{}{Dobrze.}
-{155}{}{Cha cha! Tak, ja te¿ ogl¹da³em ten stary film. Chwila... chcesz powiedzieæ? Czy chcesz powiedzieæ, ¿e...?}
-{156}{}{Tak, to jest ludzka œledziona}
-{157}{}{W³aœciwie, to nie zgodzi³bym siê na to. Nie uda³o ci siê pokazaæ siebie z dobrej strony. Tak naprawdê, to nawet nie wiem, po co z tob¹ rozmawiam. Dobrego dnia ¿yczê.}
+{155}{}{Cha cha! Tak, ja teÅ¼ oglÄ…daÅ‚em ten stary film. Chwila... chcesz powiedzieÄ‡? Czy chcesz powiedzieÄ‡, Å¼e...?}
+{156}{}{Tak, to jest ludzka Å›ledziona}
+{157}{}{WÅ‚aÅ›ciwie, to nie zgodziÅ‚bym siÄ™ na to. Nie udaÅ‚o ci siÄ™ pokazaÄ‡ siebie z dobrej strony. Tak naprawdÄ™, to nawet nie wiem, po co z tobÄ… rozmawiam. Dobrego dnia Å¼yczÄ™.}
 {158}{}{[dalej]}
-{159}{}{Ratunku! Stra¿e! Intruz lao wai jest tutaj!}
+{159}{}{Ratunku! StraÅ¼e! Intruz lao wai jest tutaj!}
 {160}{}{Masz dla mnie pewne schematy?}
-{161}{}{Ken Lee powiedzia³ mi, aby ci to oddaæ.}
-{162}{}{Tak. A co dostanê w zamian?}
+{161}{}{Ken Lee powiedziaÅ‚ mi, aby ci to oddaÄ‡.}
+{162}{}{Tak. A co dostanÄ™ w zamian?}
 {163}{}{Nie, jeszcze nie.}
-{164}{}{Porozmawiaj z Kenem Lee, a przedyskutuje z tob¹, co siê stanie w twojej przysz³oœci. Dziêkujê ci. Dziêki temu bêdziemy mogli sprawdziæ niektóre z naszych eksperymentalnych danych. Do widzenia.}
-{165}{}{Mam jeszcze tylko kilka pytañ.}
+{164}{}{Porozmawiaj z Kenem Lee, a przedyskutuje z tobÄ…, co siÄ™ stanie w twojej przyszÅ‚oÅ›ci. DziÄ™kujÄ™ ci. DziÄ™ki temu bÄ™dziemy mogli sprawdziÄ‡ niektÃ³re z naszych eksperymentalnych danych. Do widzenia.}
+{165}{}{Mam jeszcze tylko kilka pytaÅ„.}
 {166}{}{Do widzenia.}
-{200}{}{Uda³o mi siê odzyskaæ ukradziony obiekt badañ biologicznych. Centrolodzy ukryli go w swojej bazie. Myœlê, ¿e prowadzili na nim swoje eksperymenty.}
-{201}{}{Uda³o ci siê go odzyskaæ?! Wyœmienicie. Ci przeklêci Centrolodzy zawsze wchodz¹ nam w drogê i przeszkadzaj¹ w naszych badaniach. Shi wiele tobie zawdziêczaj¹. Dziêkujê Ci.}
-{202}{}{¯aden problem. Do zobaczenia.}
-{203}{}{Czekaj, czekaj. Nikt nie mówi³, ¿e robiê to za darmo.}
-{204}{}{Co!? S³uchaj, ten przedmiot zosta³ skradziony z naszego laboratorium. Jest nasz¹ prawowit¹ w³asnoœci¹.}
-{205}{}{To mi³o, ale to ja go mam, jeœli chcecie go odzyskaæ, to musicie zap³aciæ.}
-{206}{}{Nie mam na to czasu... Stra¿!}
-{207}{}{[Mê¿czyzna wygl¹da jakby mia³ zamiar krzyczeæ, ale uspokaja siê.] Dobrze. Masz tu 500 dolarów. To i tak wiêcej ni¿ powinienem ci daæ za rzecz, która od zawsze nale¿a³a do nas. A teraz odejdŸ, jestem zapracowanym cz³owiekiem.}
-{208}{}{Interesy z tob¹ to przyjemnoœæ. Czeœæ.}
+{200}{}{UdaÅ‚o mi siÄ™ odzyskaÄ‡ ukradziony obiekt badaÅ„ biologicznych. Centrolodzy ukryli go w swojej bazie. MyÅ›lÄ™, Å¼e prowadzili na nim swoje eksperymenty.}
+{201}{}{UdaÅ‚o ci siÄ™ go odzyskaÄ‡?! WyÅ›mienicie. Ci przeklÄ™ci Centrolodzy zawsze wchodzÄ… nam w drogÄ™ i przeszkadzajÄ… w naszych badaniach. Shi wiele tobie zawdziÄ™czajÄ…. DziÄ™kujÄ™ Ci.}
+{202}{}{Å»aden problem. Do zobaczenia.}
+{203}{}{Czekaj, czekaj. Nikt nie mÃ³wiÅ‚, Å¼e robiÄ™ to za darmo.}
+{204}{}{Co!? SÅ‚uchaj, ten przedmiot zostaÅ‚ skradziony z naszego laboratorium. Jest naszÄ… prawowitÄ… wÅ‚asnoÅ›ciÄ….}
+{205}{}{To miÅ‚o, ale to ja go mam, jeÅ›li chcecie go odzyskaÄ‡, to musicie zapÅ‚aciÄ‡.}
+{206}{}{Nie mam na to czasu... StraÅ¼!}
+{207}{}{[MÄ™Å¼czyzna wyglÄ…da jakby miaÅ‚ zamiar krzyczeÄ‡, ale uspokaja siÄ™.] Dobrze. Masz tu 500 dolarÃ³w. To i tak wiÄ™cej niÅ¼ powinienem ci daÄ‡ za rzecz, ktÃ³ra od zawsze naleÅ¼aÅ‚a do nas. A teraz odejdÅº, jestem zapracowanym czÅ‚owiekiem.}
+{208}{}{Interesy z tobÄ… to przyjemnoÅ›Ä‡. CzeÅ›Ä‡.}
 {209}{}{O, cholera!}
-{210}{}{Dawaj, zobaczymy na co was staæ!}
-{211}{}{Uda³o ci siê odzyskaæ zaginiony obiekt badañ biologicznych.}
-{220}{}{Wiêc gdzie to jest? Pogrywasz sobie ze mn¹?}
-{221}{}{Wybacz, ale zamierzam to zatrzymaæ. To moja sprawa.}
-{230}{}{Nie mam na to czasu. Wróæ, gdy ju¿ bêdziesz to mia³.}
-{240}{}{[Poci¹ga nosem] Co tak cuchnie? Trochê jak zgni³e miêso. [Patrzy na ciebie i unosi brwi]}
-{241}{}{Och, to musi byæ zapach tego cia³a, które znalaz³em. Tak szczerze powiedziawszy, sam nie wiem dlaczego je ze sob¹ noszê.}
-{242}{}{Tfu, Ble! [Wyci¹gnij rozk³adaj¹ce siê zw³oki] Oto te œmierdz¹ce zw³oki! Chcesz je?}
-{250}{}{Chwileczkê, przecie¿ to zaginiony obiekt projektu Xeno! Mój poprzednik du¿o zainwestowa³ w ten obiekt i bardzo siê zmartwi³, gdy ten¿e znikn¹³. Mimo, ¿e jego ju¿ nie ma, chyba nadal mo¿emy zrobiæ u¿ytek z tego cia³a. Dziêkujê.}
-{251}{}{Nie, nie chcê... Yyyy, czekaj! Przecie¿ to zaginiony obiekt projektu Xeno! Mój poprzednik du¿o zainwestowa³ w ten obiekt i... [Zauwa¿a twoje puste spojrzenie] Ekhm. To znaczy, dziêkujê ci za to cia³o. Dobra robota, ale nie przynoœ tutaj ju¿ nic wiêcej, dobrze? To jedno cia³o wystarczy. Do zobaczenia!}
+{210}{}{Dawaj, zobaczymy na co was staÄ‡!}
+{211}{}{UdaÅ‚o ci siÄ™ odzyskaÄ‡ zaginiony obiekt badaÅ„ biologicznych.}
+{220}{}{WiÄ™c gdzie to jest? Pogrywasz sobie ze mnÄ…?}
+{221}{}{Wybacz, ale zamierzam to zatrzymaÄ‡. To moja sprawa.}
+{230}{}{Nie mam na to czasu. WrÃ³Ä‡, gdy juÅ¼ bÄ™dziesz to miaÅ‚.}
+{240}{}{[PociÄ…ga nosem] Co tak cuchnie? TrochÄ™ jak zgniÅ‚e miÄ™so. [Patrzy na ciebie i unosi brwi]}
+{241}{}{Och, to musi byÄ‡ zapach tego ciaÅ‚a, ktÃ³re znalazÅ‚em. Tak szczerze powiedziawszy, sam nie wiem dlaczego je ze sobÄ… noszÄ™.}
+{242}{}{Tfu, Ble! [WyciÄ…gnij rozkÅ‚adajÄ…ce siÄ™ zwÅ‚oki] Oto te Å›mierdzÄ…ce zwÅ‚oki! Chcesz je?}
+{250}{}{ChwileczkÄ™, przecieÅ¼ to zaginiony obiekt projektu Xeno! MÃ³j poprzednik duÅ¼o zainwestowaÅ‚ w ten obiekt i bardzo siÄ™ zmartwiÅ‚, gdy tenÅ¼e zniknÄ…Å‚. Mimo, Å¼e jego juÅ¼ nie ma, chyba nadal moÅ¼emy zrobiÄ‡ uÅ¼ytek z tego ciaÅ‚a. DziÄ™kujÄ™.}
+{251}{}{Nie, nie chcÄ™... Yyyy, czekaj! PrzecieÅ¼ to zaginiony obiekt projektu Xeno! MÃ³j poprzednik duÅ¼o zainwestowaÅ‚ w ten obiekt i... [ZauwaÅ¼a twoje puste spojrzenie] Ekhm. To znaczy, dziÄ™kujÄ™ ci za to ciaÅ‚o. Dobra robota, ale nie przynoÅ› tutaj juÅ¼ nic wiÄ™cej, dobrze? To jedno ciaÅ‚o wystarczy. Do zobaczenia!}
 {252}{}{Pa Pa!}
-{253}{}{Moja gromadziæ rzeczy. Moja to zatrzymaæ.}
+{253}{}{Moja gromadziÄ‡ rzeczy. Moja to zatrzymaÄ‡.}
 {300}{}{O co chodzi z tym Sheng'iem?}
-{310}{}{Sk¹d wiesz o Dr. Sheng'u? Zreszt¹ niewa¿ne. Dr Sheng Ming by³ m¹drym cz³owiekiem, baaa, geniuszem, chocia¿ trochê nieprzyjemnym. By³ równie¿ moim poprzednikiem. Nie ma to ju¿ jednak wiêkszego znaczenia.}
-{311}{}{Skoro nie ma to ju¿ wiêkszego znaczenia, dlaczego mam siê tym przejmowaæ? Pozwól, ¿e zapytam o coœ innego.}
-{312}{}{Co siê z nim sta³o?}
-{320}{}{Co siê sta³o? Postrada³ zmys³y! Podczas swoich eksperymentów natkn¹³ siê na coœ, co muszê przyznaæ by³o doœæ niezwyk³e, ale niestety równie¿ bardzo niebezpieczne i w ¿aden sposób nie zwi¹zane z celami Shi. Ale dla Dr. Sheng'a to nie mia³o znaczenia. Dosta³ obsesji na punkcie swoich badañ, a kiedy jego eksperymenty zosta³y uznane za zbyt niebezpieczne, postanowi³ odejœæ. Wyjecha³ i nigdy nie wróci³. Gdy odszed³, ja zaj¹³em jego miejsce.}
-{321}{}{Jakie eksperymenty prowadzi³ Dr. Sheng? I jakiego wielkiego odkrycia dokona³?}
-{322}{}{Wiêc gdzie jest teraz Dr. Sheng?}
-{330}{}{Jako cz³owiek nauki, szanujê twoj¹ dociekliwoœæ. Jednak obawiam siê, ¿e nie jestem gotów dzieliæ siê z tob¹ tajemnicami Shi, przybyszu.}
-{331}{}{Wiêc gdzie jest teraz Dr. Sheng?}
-{332}{}{Dobrze, zachowaj swoje fantazyjne sekrety dla siebie. Ja te¿ mam swoje tejemnice, wiesz? Tajemnice tak wielkie... Wiêksze ni¿ móg³byœ sobie kiedykolwiek wyobraziæ.}
-{340}{}{[Uœmiecha siê serdecznie] Jestem pewien, ¿e tak jest. A teraz, jeœli mi wybaczysz, mam du¿o do zrobienia. Mi³ego dnia!}
+{310}{}{SkÄ…d wiesz o Dr. Sheng'u? ZresztÄ… niewaÅ¼ne. Dr Sheng Ming byÅ‚ mÄ…drym czÅ‚owiekiem, baaa, geniuszem, chociaÅ¼ trochÄ™ nieprzyjemnym. ByÅ‚ rÃ³wnieÅ¼ moim poprzednikiem. Nie ma to juÅ¼ jednak wiÄ™kszego znaczenia.}
+{311}{}{Skoro nie ma to juÅ¼ wiÄ™kszego znaczenia, dlaczego mam siÄ™ tym przejmowaÄ‡? PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{312}{}{Co siÄ™ z nim staÅ‚o?}
+{320}{}{Co siÄ™ staÅ‚o? PostradaÅ‚ zmysÅ‚y! Podczas swoich eksperymentÃ³w natknÄ…Å‚ siÄ™ na coÅ›, co muszÄ™ przyznaÄ‡ byÅ‚o doÅ›Ä‡ niezwykÅ‚e, ale niestety rÃ³wnieÅ¼ bardzo niebezpieczne i w Å¼aden sposÃ³b nie zwiÄ…zane z celami Shi. Ale dla Dr. Sheng'a to nie miaÅ‚o znaczenia. DostaÅ‚ obsesji na punkcie swoich badaÅ„, a kiedy jego eksperymenty zostaÅ‚y uznane za zbyt niebezpieczne, postanowiÅ‚ odejÅ›Ä‡. WyjechaÅ‚ i nigdy nie wrÃ³ciÅ‚. Gdy odszedÅ‚, ja zajÄ…Å‚em jego miejsce.}
+{321}{}{Jakie eksperymenty prowadziÅ‚ Dr. Sheng? I jakiego wielkiego odkrycia dokonaÅ‚?}
+{322}{}{WiÄ™c gdzie jest teraz Dr. Sheng?}
+{330}{}{Jako czÅ‚owiek nauki, szanujÄ™ twojÄ… dociekliwoÅ›Ä‡. Jednak obawiam siÄ™, Å¼e nie jestem gotÃ³w dzieliÄ‡ siÄ™ z tobÄ… tajemnicami Shi, przybyszu.}
+{331}{}{WiÄ™c gdzie jest teraz Dr. Sheng?}
+{332}{}{Dobrze, zachowaj swoje fantazyjne sekrety dla siebie. Ja teÅ¼ mam swoje tejemnice, wiesz? Tajemnice tak wielkie... WiÄ™ksze niÅ¼ mÃ³gÅ‚byÅ› sobie kiedykolwiek wyobraziÄ‡.}
+{340}{}{[UÅ›miecha siÄ™ serdecznie] Jestem pewien, Å¼e tak jest. A teraz, jeÅ›li mi wybaczysz, mam duÅ¼o do zrobienia. MiÅ‚ego dnia!}
 {341}{}{[dalej]}
-{350}{}{Dr Sheng zosta³ eskortowany gdzieœ na po³udnie. O ile siê nie mylê, zamieszka³ w opuszczonym domu, parê kilometrów drogi st¹d. Podejrzewaliœmy, ¿e wróci za jakiœ czas, niestety minê³o wiele dni, a my nie dostaliœmy od niego ¿adnej wiadomoœci. Gdybym mia³ zgadywaæ, powiedzia³bym, ¿e zgin¹³ z r¹k w³asnego dzie³a lub pad³ ofiar¹ licznych zagro¿eñ czychaj¹cych na pustkowiu.}
-{351}{}{Jeden z twoich czo³owych naukowców mo¿e byæ martwy, a ciebie to nie obchodzi? Nie jesteœ nawet w stanie pójœæ i siê za nim rozejrzeæ?}
-{352}{}{Chcia³bym go odnaleŸæ. Mo¿esz mi podaæ jego ostatni¹ znan¹ lokalizacjê?}
-{353}{}{Có¿, to jest to. Pozwól, ¿e spytam o coœ innego.}
-{360}{}{Wybacz, mo¿e siê wydawaæ, ¿e jestem cz³owiekiem pozbawionym uczuæ i sumienia. Prawda jest taka, ¿e Dr. Sheng nie cieszy³ siê tutaj zbyt wielk¹ popularnoœci¹, nie s¹dzê ¿eby ktokolwiek siê za nim stêskni³.}
-{361}{}{Chcia³bym go odnaleŸæ. Mo¿esz mi podaæ jego ostatni¹ znan¹ lokalizacjê?}
-{362}{}{Rozumiem. Pozwól, ¿e spytam o coœ innego.}
-{370}{}{Hmmm, mo¿e móg³bym... Muszê przyznaæ, ¿e nawet jestem trochê ciekaw co siê z nim sta³o. Proszê, zaznaczy³em na twojej mapie ostatni¹ znan¹ mi lokalizacjê Dr. Sheng'a. Muszê ciê jednak ostrzec, to mo¿e okazaæ siê bardzo niebezpieczne. W³aœciwie, na pustkowiu zawsze jest niebezpiecznie. W ka¿dym razie, jeœli znajdziesz coœ ciekawego, daj mi znaæ.}
-{371}{}{Dziêki, tak zrobiê. Narazie.}
-{372}{}{Pozwól, ¿e zapytam o coœ innego.}
-{380}{}{Dr Sheng wci¹¿ ¿yje, stworzy³ nawet jakieœ roœliny, które zakorzeniaj¹ siê w ludzkich zw³okach i kontroluj¹ je.}
-{390}{}{Wiêc jednak osi¹gn¹³ sukces. Projekt Xeno, jakie¿ to fascynuj¹ce... i niepokoj¹ce zarazem. K³adziemy kres jego eksperymentom na roœlinach, po czym tracimy naszego zdolnego technika. Kiedy odszed³ by kontynuowaæ swoje badania, za³o¿y³em, ¿e stanie siê ofiar¹ w³asnych eksperymentów. Powiedz mi, czy uda³o mu siê przej¹æ nad nimi kontrolê?}
-{391}{}{Tak, niektóre z nich wydaj¹ siê byæ mu pos³uszne. Czasem nawet odnosz¹ siê do niego per "mistrzu".}
-{400}{}{Hmm... Gdyby Sheng w jakiœ sposób stworzy³ armiê z tych roœlin... To nie wró¿y nic dobrego dla Shi. Mia³em nadziejê, ¿e do tego nie dojdzie. Nie mamy wyboru, musimy upewniæ siê, ¿e Dr. Sheng i jego dzie³a zostan¹ wyeliminowane. Sheng musi ci ufaæ skoro pozwala ci siê do siebie zbli¿yæ, mo¿emy to wykorzystaæ. Jesteœ w stanie to dla nas zrobiæ? Oczywiœcie, zostaniesz sowicie nagrodzony.}
-{401}{}{Bêdzie zabawnie. Ju¿ mo¿esz uznaæ Sheng'a i ca³¹ jego ferajne za zmar³ych.}
-{402}{}{Jakiego rodzaju nagrodê masz na myœli?}
-{403}{}{Nie jestem zainteresowany. Dr Sheng - twój problem. Ty i ca³a reszta Shi spokojnie mo¿ecie sobie z nim poradziæ.}
-{410}{}{Shi bêdzie bardzo wdziêczne za tê przys³ugê. Kiedy Dr. Sheng i wszystkie jego stwory zostan¹ zlikwidowane, zg³oœ siê do mnie, a otrzymasz nagrodê.}
+{350}{}{Dr Sheng zostaÅ‚ eskortowany gdzieÅ› na poÅ‚udnie. O ile siÄ™ nie mylÄ™, zamieszkaÅ‚ w opuszczonym domu, parÄ™ kilometrÃ³w drogi stÄ…d. PodejrzewaliÅ›my, Å¼e wrÃ³ci za jakiÅ› czas, niestety minÄ™Å‚o wiele dni, a my nie dostaliÅ›my od niego Å¼adnej wiadomoÅ›ci. Gdybym miaÅ‚ zgadywaÄ‡, powiedziaÅ‚bym, Å¼e zginÄ…Å‚ z rÄ…k wÅ‚asnego dzieÅ‚a lub padÅ‚ ofiarÄ… licznych zagroÅ¼eÅ„ czychajÄ…cych na pustkowiu.}
+{351}{}{Jeden z twoich czoÅ‚owych naukowcÃ³w moÅ¼e byÄ‡ martwy, a ciebie to nie obchodzi? Nie jesteÅ› nawet w stanie pÃ³jÅ›Ä‡ i siÄ™ za nim rozejrzeÄ‡?}
+{352}{}{ChciaÅ‚bym go odnaleÅºÄ‡. MoÅ¼esz mi podaÄ‡ jego ostatniÄ… znanÄ… lokalizacjÄ™?}
+{353}{}{CÃ³Å¼, to jest to. PozwÃ³l, Å¼e spytam o coÅ› innego.}
+{360}{}{Wybacz, moÅ¼e siÄ™ wydawaÄ‡, Å¼e jestem czÅ‚owiekiem pozbawionym uczuÄ‡ i sumienia. Prawda jest taka, Å¼e Dr. Sheng nie cieszyÅ‚ siÄ™ tutaj zbyt wielkÄ… popularnoÅ›ciÄ…, nie sÄ…dzÄ™ Å¼eby ktokolwiek siÄ™ za nim stÄ™skniÅ‚.}
+{361}{}{ChciaÅ‚bym go odnaleÅºÄ‡. MoÅ¼esz mi podaÄ‡ jego ostatniÄ… znanÄ… lokalizacjÄ™?}
+{362}{}{Rozumiem. PozwÃ³l, Å¼e spytam o coÅ› innego.}
+{370}{}{Hmmm, moÅ¼e mÃ³gÅ‚bym... MuszÄ™ przyznaÄ‡, Å¼e nawet jestem trochÄ™ ciekaw co siÄ™ z nim staÅ‚o. ProszÄ™, zaznaczyÅ‚em na twojej mapie ostatniÄ… znanÄ… mi lokalizacjÄ™ Dr. Sheng'a. MuszÄ™ ciÄ™ jednak ostrzec, to moÅ¼e okazaÄ‡ siÄ™ bardzo niebezpieczne. WÅ‚aÅ›ciwie, na pustkowiu zawsze jest niebezpiecznie. W kaÅ¼dym razie, jeÅ›li znajdziesz coÅ› ciekawego, daj mi znaÄ‡.}
+{371}{}{DziÄ™ki, tak zrobiÄ™. Narazie.}
+{372}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{380}{}{Dr Sheng wciÄ…Å¼ Å¼yje, stworzyÅ‚ nawet jakieÅ› roÅ›liny, ktÃ³re zakorzeniajÄ… siÄ™ w ludzkich zwÅ‚okach i kontrolujÄ… je.}
+{390}{}{WiÄ™c jednak osiÄ…gnÄ…Å‚ sukces. Projekt Xeno, jakieÅ¼ to fascynujÄ…ce... i niepokojÄ…ce zarazem. KÅ‚adziemy kres jego eksperymentom na roÅ›linach, po czym tracimy naszego zdolnego technika. Kiedy odszedÅ‚ by kontynuowaÄ‡ swoje badania, zaÅ‚oÅ¼yÅ‚em, Å¼e stanie siÄ™ ofiarÄ… wÅ‚asnych eksperymentÃ³w. Powiedz mi, czy udaÅ‚o mu siÄ™ przejÄ…Ä‡ nad nimi kontrolÄ™?}
+{391}{}{Tak, niektÃ³re z nich wydajÄ… siÄ™ byÄ‡ mu posÅ‚uszne. Czasem nawet odnoszÄ… siÄ™ do niego per "mistrzu".}
+{400}{}{Hmm... Gdyby Sheng w jakiÅ› sposÃ³b stworzyÅ‚ armiÄ™ z tych roÅ›lin... To nie wrÃ³Å¼y nic dobrego dla Shi. MiaÅ‚em nadziejÄ™, Å¼e do tego nie dojdzie. Nie mamy wyboru, musimy upewniÄ‡ siÄ™, Å¼e Dr. Sheng i jego dzieÅ‚a zostanÄ… wyeliminowane. Sheng musi ci ufaÄ‡ skoro pozwala ci siÄ™ do siebie zbliÅ¼yÄ‡, moÅ¼emy to wykorzystaÄ‡. JesteÅ› w stanie to dla nas zrobiÄ‡? OczywiÅ›cie, zostaniesz sowicie nagrodzony.}
+{401}{}{BÄ™dzie zabawnie. JuÅ¼ moÅ¼esz uznaÄ‡ Sheng'a i caÅ‚Ä… jego ferajne za zmarÅ‚ych.}
+{402}{}{Jakiego rodzaju nagrodÄ™ masz na myÅ›li?}
+{403}{}{Nie jestem zainteresowany. Dr Sheng - twÃ³j problem. Ty i caÅ‚a reszta Shi spokojnie moÅ¼ecie sobie z nim poradziÄ‡.}
+{410}{}{Shi bÄ™dzie bardzo wdziÄ™czne za tÄ™ przysÅ‚ugÄ™. Kiedy Dr. Sheng i wszystkie jego stwory zostanÄ… zlikwidowane, zgÅ‚oÅ› siÄ™ do mnie, a otrzymasz nagrodÄ™.}
 {411}{}{[dalej]}
-{420}{}{Wybór nale¿y do ciebie. Mo¿emy daæ ci broñ, niezbêdne zaopatrzenie lub pieniêdze. Po wykonaniu zadania, pozwolê ci wybraæ nagrodê.}
-{421}{}{Dobra, zrobiê to.}
-{422}{}{Nie jestem zainteresowany. Dr Sheng - twój problem. Ty i ca³a reszta Shi spokojnie mo¿ecie sobie z nim poradziæ.}
-{423}{}{Dobrze. Zrobiê to. Zanim jednak pójdê, Dr. Sheng chcia³ abym dostarczy³ dla ciebie tê próbkê. Powiedzia³, ¿e pomo¿e wam ona stworzyæ roœline odporn¹ na promieniowanie.}
-{430}{}{S³usznie. Sami zajmiemy siê swoimi problemami, niestety to bêdzie musia³o poczekaæ, nie mamy wystarczaj¹cych œrodków, aby wyruszyæ w tej chwili. Mam nadziejê, ¿e gdy bêdziemy ju¿ gotowi, nie bêdzie dla nas za póŸno. Jeœli do tego czasu zmienisz zdanie, proszê, daj mi znaæ.}
-{431}{}{Nie licz na to. Czeœæ.}
-{432}{}{Przemyœlê to. Czeœæ.}
-{433}{}{Zobaczymy. Pozwól mi spytaæ o coœ innego.}
-{440}{}{Zmieni³eœ zdanie? Pomo¿esz nam wyeliminowaæ Dr. Sheng'a i jego stworzenia?}
-{441}{}{Nie, w³aœciwie to chcia³em ciê zapytaæ o coœ innego.}
-{442}{}{Dobrze, zrobiê to dla ciebie.}
-{443}{}{Zrobiê to za odpowiedni¹ cenê. Mówi³eœ coœ o jakiejœ nagrodzie?}
-{450}{}{Nasi zwiadowcy donieœli, ¿e Dr. Sheng i jego eksperymenty zosta³y zlikwidowane. Strata tak genialnego umys³u boli... W ka¿dym razie, mo¿esz wybraæ swoj¹ nagrodê. Interesuje ciê broñ, zaopatrzenie czy pieni¹dze?}
-{451}{}{Nasi zwiadowcy donieœli, ¿e Dr. Sheng i jego eksperymenty zosta³y zlikwidowane. Strata tak genialnego umys³u boli... Mimo, ¿e nie poprosiliœmy ciê o pomoc, jesteœmy ci wdziêczni. W podziêce za twój trud, pozwolimy ci wybraæ swoj¹ nagrodê. Interesuje ciê broñ, zaopatrzenie czy pieni¹dze?}
-{452}{}{Wezmê broñ.}
-{453}{}{Wezmê zaopatrzenie.}
-{454}{}{Po prostu daj mi pieni¹dze.}
-{455}{}{Zatrzymaj swoj¹ nagrodê. Zrobi³em tylko to, co musia³em.}
-{460}{}{Proszê bardzo. [Wrêcza ci ró¿ne broni o wysokiej sile ra¿enia]}
+{420}{}{WybÃ³r naleÅ¼y do ciebie. MoÅ¼emy daÄ‡ ci broÅ„, niezbÄ™dne zaopatrzenie lub pieniÄ™dze. Po wykonaniu zadania, pozwolÄ™ ci wybraÄ‡ nagrodÄ™.}
+{421}{}{Dobra, zrobiÄ™ to.}
+{422}{}{Nie jestem zainteresowany. Dr Sheng - twÃ³j problem. Ty i caÅ‚a reszta Shi spokojnie moÅ¼ecie sobie z nim poradziÄ‡.}
+{423}{}{Dobrze. ZrobiÄ™ to. Zanim jednak pÃ³jdÄ™, Dr. Sheng chciaÅ‚ abym dostarczyÅ‚ dla ciebie tÄ™ prÃ³bkÄ™. PowiedziaÅ‚, Å¼e pomoÅ¼e wam ona stworzyÄ‡ roÅ›line odpornÄ… na promieniowanie.}
+{430}{}{SÅ‚usznie. Sami zajmiemy siÄ™ swoimi problemami, niestety to bÄ™dzie musiaÅ‚o poczekaÄ‡, nie mamy wystarczajÄ…cych Å›rodkÃ³w, aby wyruszyÄ‡ w tej chwili. Mam nadziejÄ™, Å¼e gdy bÄ™dziemy juÅ¼ gotowi, nie bÄ™dzie dla nas za pÃ³Åºno. JeÅ›li do tego czasu zmienisz zdanie, proszÄ™, daj mi znaÄ‡.}
+{431}{}{Nie licz na to. CzeÅ›Ä‡.}
+{432}{}{PrzemyÅ›lÄ™ to. CzeÅ›Ä‡.}
+{433}{}{Zobaczymy. PozwÃ³l mi spytaÄ‡ o coÅ› innego.}
+{440}{}{ZmieniÅ‚eÅ› zdanie? PomoÅ¼esz nam wyeliminowaÄ‡ Dr. Sheng'a i jego stworzenia?}
+{441}{}{Nie, wÅ‚aÅ›ciwie to chciaÅ‚em ciÄ™ zapytaÄ‡ o coÅ› innego.}
+{442}{}{Dobrze, zrobiÄ™ to dla ciebie.}
+{443}{}{ZrobiÄ™ to za odpowiedniÄ… cenÄ™. MÃ³wiÅ‚eÅ› coÅ› o jakiejÅ› nagrodzie?}
+{450}{}{Nasi zwiadowcy donieÅ›li, Å¼e Dr. Sheng i jego eksperymenty zostaÅ‚y zlikwidowane. Strata tak genialnego umysÅ‚u boli... W kaÅ¼dym razie, moÅ¼esz wybraÄ‡ swojÄ… nagrodÄ™. Interesuje ciÄ™ broÅ„, zaopatrzenie czy pieniÄ…dze?}
+{451}{}{Nasi zwiadowcy donieÅ›li, Å¼e Dr. Sheng i jego eksperymenty zostaÅ‚y zlikwidowane. Strata tak genialnego umysÅ‚u boli... Mimo, Å¼e nie poprosiliÅ›my ciÄ™ o pomoc, jesteÅ›my ci wdziÄ™czni. W podziÄ™ce za twÃ³j trud, pozwolimy ci wybraÄ‡ swojÄ… nagrodÄ™. Interesuje ciÄ™ broÅ„, zaopatrzenie czy pieniÄ…dze?}
+{452}{}{WezmÄ™ broÅ„.}
+{453}{}{WezmÄ™ zaopatrzenie.}
+{454}{}{Po prostu daj mi pieniÄ…dze.}
+{455}{}{Zatrzymaj swojÄ… nagrodÄ™. ZrobiÅ‚em tylko to, co musiaÅ‚em.}
+{460}{}{ProszÄ™ bardzo. [WrÄ™cza ci rÃ³Å¼ne broni o wysokiej sile raÅ¼enia]}
 {461}{}{[dalej]}
-{470}{}{Proszê bardzo. [Wrêcza ci parê drobiazgów]}
+{470}{}{ProszÄ™ bardzo. [WrÄ™cza ci parÄ™ drobiazgÃ³w]}
 {471}{}{[dalej]}
-{480}{}{Proszê bardzo. [Wrêcza ci 5000 dolarów]}
+{480}{}{ProszÄ™ bardzo. [WrÄ™cza ci 5000 dolarÃ³w]}
 {481}{}{[dalej]}
-{490}{}{Shi docenia twoj¹ pomoc. A teraz, jeœli wybaczysz, mam du¿o pracy. Mi³ego dnia!}
+{490}{}{Shi docenia twojÄ… pomoc. A teraz, jeÅ›li wybaczysz, mam duÅ¼o pracy. MiÅ‚ego dnia!}
 {491}{}{[dalej]}
-{500}{}{Zanim jednak pójdê, Dr. Sheng chcia³ abym dostarczy³ ci tê próbkê. Powiedzia³, ¿e pomo¿e ona w stworzeniu roœliny odpornej na promieniowanie.}
-{501}{}{Dr Sheng chcia³ abym dostarczy³ ci tê próbkê. Powiedzia³, ¿e pomo¿e ona w stworzeniu roœliny odpornej na promieniowanie.}
-{502}{}{Dr Sheng chcia³ abym dostarczy³ ci tê próbkê jako prezent, jednak muszê ciê ostrzec, ta próbka nas¹czona jest serum samoœwiadomoœci. I nie wiem jakie intencjê mia³ w tym Dr. Sheng, ale jestem pewien, ¿e nie by³o to nic dobrego dla Shi.}
-{510}{}{Interesuj¹ce. [Bierze od ciebie próbki i chowa je] Mój zespó³ i ja zbadamy je póŸniej. Nie mogê powiedzieæ, ¿e wierzê w jego dobre zamiary, ale istnieje szansa, ¿e te próbki oka¿¹ siê bardzo przydatne. Czas poka¿e. A teraz, jeœli ju¿ niczego nie potrzebujesz, muszê wracaæ do pracy.}
-{511}{}{Interesuj¹ce. [Bierze od ciebie próbki i chowa je] Mój zespó³ i ja zbadamy je póŸniej. Nie mogê powiedzieæ, ¿e wierzê w jego dobre zamiary, ale istnieje szansa, ¿e te próbki oka¿¹ siê bardzo przydatne. Czas poka¿e. Myœla³em, ¿e zamierzasz wyeliminowaæ Dr. Sheng'a, a nie byæ jego pos³añcem? W ka¿dym razie, muszê wracaæ do pracy.}
-{512}{}{W³aœciwie, chcia³bym zadaæ parê pytañ.}
-{513}{}{¯egnaj.}
-{514}{}{W³aœciwie, mia³em sporo problemów z uzyskaniem tej próbki dla ciebie. Myœlê, ¿e jest to warte nagrody.}
-{520}{}{Co znowu? Shi nie prosi³o ciê o dostarczenie tej próbki, jeœli czujesz, ¿e twoje czyny zas³uguj¹ na nagrodê, to proszê. [Wrêcza ci super stimpak] Teraz naprawdê powinienem wracaæ do pracy.}
-{521}{}{W³aœciwie, chcia³bym zadaæ parê pytañ.}
-{522}{}{Dziêki. Na razie.}
-{523}{}{Powa¿nie? Nazywasz to nagrod¹? A mo¿e tak sam ciê przeszukam? Pewnie wpadne na coœ cenniejszego.}
-{530}{}{[Przyjmuje próbkê] Dziêkujê, natychmiast siê go pozbêdê. [Wzdycha] Wiedzia³em, ¿e Dr. Sheng jest szalony, nie s¹dzi³em jednak, ¿e posunie siê na tyle daleko, by spróbowaæ zabiæ swoich braci. Nie mo¿emy tak tego zostawiæ.}
-{531}{}{Zgadzam siê. Jest zupe³nie stukniêty.}
-{540}{}{*chwyta siê za serce* Echm!}
+{500}{}{Zanim jednak pÃ³jdÄ™, Dr. Sheng chciaÅ‚ abym dostarczyÅ‚ ci tÄ™ prÃ³bkÄ™. PowiedziaÅ‚, Å¼e pomoÅ¼e ona w stworzeniu roÅ›liny odpornej na promieniowanie.}
+{501}{}{Dr Sheng chciaÅ‚ abym dostarczyÅ‚ ci tÄ™ prÃ³bkÄ™. PowiedziaÅ‚, Å¼e pomoÅ¼e ona w stworzeniu roÅ›liny odpornej na promieniowanie.}
+{502}{}{Dr Sheng chciaÅ‚ abym dostarczyÅ‚ ci tÄ™ prÃ³bkÄ™ jako prezent, jednak muszÄ™ ciÄ™ ostrzec, ta prÃ³bka nasÄ…czona jest serum samoÅ›wiadomoÅ›ci. I nie wiem jakie intencjÄ™ miaÅ‚ w tym Dr. Sheng, ale jestem pewien, Å¼e nie byÅ‚o to nic dobrego dla Shi.}
+{510}{}{InteresujÄ…ce. [Bierze od ciebie prÃ³bki i chowa je] MÃ³j zespÃ³Å‚ i ja zbadamy je pÃ³Åºniej. Nie mogÄ™ powiedzieÄ‡, Å¼e wierzÄ™ w jego dobre zamiary, ale istnieje szansa, Å¼e te prÃ³bki okaÅ¼Ä… siÄ™ bardzo przydatne. Czas pokaÅ¼e. A teraz, jeÅ›li juÅ¼ niczego nie potrzebujesz, muszÄ™ wracaÄ‡ do pracy.}
+{511}{}{InteresujÄ…ce. [Bierze od ciebie prÃ³bki i chowa je] MÃ³j zespÃ³Å‚ i ja zbadamy je pÃ³Åºniej. Nie mogÄ™ powiedzieÄ‡, Å¼e wierzÄ™ w jego dobre zamiary, ale istnieje szansa, Å¼e te prÃ³bki okaÅ¼Ä… siÄ™ bardzo przydatne. Czas pokaÅ¼e. MyÅ›laÅ‚em, Å¼e zamierzasz wyeliminowaÄ‡ Dr. Sheng'a, a nie byÄ‡ jego posÅ‚aÅ„cem? W kaÅ¼dym razie, muszÄ™ wracaÄ‡ do pracy.}
+{512}{}{WÅ‚aÅ›ciwie, chciaÅ‚bym zadaÄ‡ parÄ™ pytaÅ„.}
+{513}{}{Å»egnaj.}
+{514}{}{WÅ‚aÅ›ciwie, miaÅ‚em sporo problemÃ³w z uzyskaniem tej prÃ³bki dla ciebie. MyÅ›lÄ™, Å¼e jest to warte nagrody.}
+{520}{}{Co znowu? Shi nie prosiÅ‚o ciÄ™ o dostarczenie tej prÃ³bki, jeÅ›li czujesz, Å¼e twoje czyny zasÅ‚ugujÄ… na nagrodÄ™, to proszÄ™. [WrÄ™cza ci super stimpak] Teraz naprawdÄ™ powinienem wracaÄ‡ do pracy.}
+{521}{}{WÅ‚aÅ›ciwie, chciaÅ‚bym zadaÄ‡ parÄ™ pytaÅ„.}
+{522}{}{DziÄ™ki. Na razie.}
+{523}{}{PowaÅ¼nie? Nazywasz to nagrodÄ…? A moÅ¼e tak sam ciÄ™ przeszukam? Pewnie wpadne na coÅ› cenniejszego.}
+{530}{}{[Przyjmuje prÃ³bkÄ™] DziÄ™kujÄ™, natychmiast siÄ™ go pozbÄ™dÄ™. [Wzdycha] WiedziaÅ‚em, Å¼e Dr. Sheng jest szalony, nie sÄ…dziÅ‚em jednak, Å¼e posunie siÄ™ na tyle daleko, by sprÃ³bowaÄ‡ zabiÄ‡ swoich braci. Nie moÅ¼emy tak tego zostawiÄ‡.}
+{531}{}{Zgadzam siÄ™. Jest zupeÅ‚nie stukniÄ™ty.}
+{540}{}{*chwyta siÄ™ za serce* Echm!}
 {541}{}{Argggg.}
 {542}{}{Wooong!}
-{600}{}{Wyeliminowa³eœ Dr. Sheng'a dla Shi.}
-{601}{}{Dostarczy³eœ próbki roœlin dla dr Wong'a.}
-{602}{}{Wyeliminowa³eœ dr Wong'a.}
+{600}{}{WyeliminowaÅ‚eÅ› Dr. Sheng'a dla Shi.}
+{601}{}{DostarczyÅ‚eÅ› prÃ³bki roÅ›lin dla dr Wong'a.}
+{602}{}{WyeliminowaÅ‚eÅ› dr Wong'a.}

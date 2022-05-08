@@ -1,37 +1,37 @@
-{100}{}{Widzisz ma³ego, zasmarkanego dzieciaka.}
+{100}{}{Widzisz maÅ‚ego, zasmarkanego dzieciaka.}
 {101}{}{To dzieciak wiceprezydenta Carlsona.}
-{102}{}{Wygl¹da na ma³ego, rozpuszczonego szczeniaka. W dodatku grubego.}
-{103}{}{Mój tata to wiceprezydent Carlson, wiêc lepiej traktuj mnie dobrze! Kim jesteœ?}
+{102}{}{WyglÄ…da na maÅ‚ego, rozpuszczonego szczeniaka. W dodatku grubego.}
+{103}{}{MÃ³j tata to wiceprezydent Carlson, wiÄ™c lepiej traktuj mnie dobrze! Kim jesteÅ›?}
 {104}{}{[Player name]}
-{105}{}{Pilnujê twojego taty.}
-{106}{}{Gdzie jest twój tata?}
-{107}{}{Widzisz ten nó¿? L¹dowa³y ju¿ na nim dzieciaki grzeczniejsze od ciebie.}
+{105}{}{PilnujÄ™ twojego taty.}
+{106}{}{Gdzie jest twÃ³j tata?}
+{107}{}{Widzisz ten nÃ³Å¼? LÄ…dowaÅ‚y juÅ¼ na nim dzieciaki grzeczniejsze od ciebie.}
 {108}{}{Jestem twoim najgorszym koszmarem, gnoju.}
-{109}{}{Wybacz dzieciaku, ale mam robotê.}
-{110}{}{? Ale g³upie imiê. Masz g³upie imiê! G³upie imiê!}
-{111}{}{A wiêc musisz byæ dla mnie bardzo mi³y, albo powiem tacie.}
-{112}{}{Och? A co jeœli (szept).}
+{109}{}{Wybacz dzieciaku, ale mam robotÄ™.}
+{110}{}{? Ale gÅ‚upie imiÄ™. Masz gÅ‚upie imiÄ™! GÅ‚upie imiÄ™!}
+{111}{}{A wiÄ™c musisz byÄ‡ dla mnie bardzo miÅ‚y, albo powiem tacie.}
+{112}{}{Och? A co jeÅ›li (szept).}
 {113}{}{Pewnie. O ludzie.}
-{114}{}{Jest w œrodku. W gabinecie. Zawsze tam jest.}
+{114}{}{Jest w Å›rodku. W gabinecie. Zawsze tam jest.}
 {115}{}{Gdzie jest jego gabinet?}
-{116}{}{Dobra, dziêki.}
-{117}{}{Obok zbiornika z wod¹. Czasem siê tam bawiê. Podgl¹dam go, jak pracuje.}
-{118}{}{Jesteœ wyj¹tkowo upierdliwym bachorem, co nie?}
-{119}{}{Dziêki dzieciaku, to mi bardzo pomog³o.}
-{120}{}{Nie jesteœ mi³ym cz³owiekiem, jesteœ z³ym cz³owiekiem! Powiem tacie!}
-{121}{}{Hej, to znowu ty. Co robi¿?}
-{122}{}{IdŸ zapytaj tatê czy mogê siê z nim widzieæ.}
-{123}{}{Powiedz tacie, ¿e mam dla niego wieœci o panu Bishopie. Dasz radê to zapamiêtaæ?}
+{116}{}{Dobra, dziÄ™ki.}
+{117}{}{Obok zbiornika z wodÄ…. Czasem siÄ™ tam bawiÄ™. PodglÄ…dam go, jak pracuje.}
+{118}{}{JesteÅ› wyjÄ…tkowo upierdliwym bachorem, co nie?}
+{119}{}{DziÄ™ki dzieciaku, to mi bardzo pomogÅ‚o.}
+{120}{}{Nie jesteÅ› miÅ‚ym czÅ‚owiekiem, jesteÅ› zÅ‚ym czÅ‚owiekiem! Powiem tacie!}
+{121}{}{Hej, to znowu ty. Co robiÅ¼?}
+{122}{}{IdÅº zapytaj tatÄ™ czy mogÄ™ siÄ™ z nim widzieÄ‡.}
+{123}{}{Powiedz tacie, Å¼e mam dla niego wieÅ›ci o panu Bishopie. Dasz radÄ™ to zapamiÄ™taÄ‡?}
 {124}{}{Fnuh.}
-{125}{}{Jesteœ ptasi mó¿d¿ek! Ptasi mó¿d¿ek!}
-{126}{}{W porz¹dku.}
-{127}{}{Wieœci o panu Mishopie. Tak?}
-{128}{}{Mo¿e byæ.}
-{129}{}{Tato mówi, ¿e nie mo¿e siê z tob¹ zobaczyæ.}
-{130}{}{Powiedzia³em to tacie. On ciê chyba nie lubi.}
-{131}{}{Tato mówi, ¿e mo¿esz wejœæ do domu.}
-{132}{}{Powiedzia³em tacie, ¿e jesteœ z³ym cz³owiekiem.}
-{133}{}{Zgadza siê. Jestem wielkim strachem! A teraz ciê zjem.}
-{134}{}{le mnie zrozumia³eœ, dzieciaku.}
-{135}{}{Nie wolno mi z tob¹ rozmawiaæ.}
-{136}{}{Mój tato nie ¿yje. Trzeba by³o go uratowaæ.}
+{125}{}{JesteÅ› ptasi mÃ³Å¼dÅ¼ek! Ptasi mÃ³Å¼dÅ¼ek!}
+{126}{}{W porzÄ…dku.}
+{127}{}{WieÅ›ci o panu Mishopie. Tak?}
+{128}{}{MoÅ¼e byÄ‡.}
+{129}{}{Tato mÃ³wi, Å¼e nie moÅ¼e siÄ™ z tobÄ… zobaczyÄ‡.}
+{130}{}{PowiedziaÅ‚em to tacie. On ciÄ™ chyba nie lubi.}
+{131}{}{Tato mÃ³wi, Å¼e moÅ¼esz wejÅ›Ä‡ do domu.}
+{132}{}{PowiedziaÅ‚em tacie, Å¼e jesteÅ› zÅ‚ym czÅ‚owiekiem.}
+{133}{}{Zgadza siÄ™. Jestem wielkim strachem! A teraz ciÄ™ zjem.}
+{134}{}{Å¹le mnie zrozumiaÅ‚eÅ›, dzieciaku.}
+{135}{}{Nie wolno mi z tobÄ… rozmawiaÄ‡.}
+{136}{}{MÃ³j tato nie Å¼yje. Trzeba byÅ‚o go uratowaÄ‡.}

@@ -1,52 +1,52 @@
-{100}{}{Você vê um cavalheiro ágil e baixo.}
-{101}{}{Você vê Micky, o caçador de tesouros.}
-{102}{}{Esse homem minúsculo parece amigável e corajoso. Seu olhar fixo parece estar procurando porobjetos brilhantes.}
-{103}{}{Olá! 'Cê não viu nenhuma jóia ou metal precioso por aí, viu?}
-{104}{}{Mais uma vez, você me dá a graça da sua presença. Veio me alertar de algum tesouro escondido por aí?}
-{105}{}{Então, alguma riqueza que você precisa rastrear? Eu sou o melhor dos melhores!}
+{100}{}{VocÃª vÃª um cavalheiro Ã¡gil e baixo.}
+{101}{}{VocÃª vÃª Micky, o caÃ§ador de tesouros.}
+{102}{}{Esse homem minÃºsculo parece amigÃ¡vel e corajoso. Seu olhar fixo parece estar procurando porobjetos brilhantes.}
+{103}{}{OlÃ¡! 'CÃª nÃ£o viu nenhuma jÃ³ia ou metal precioso por aÃ­, viu?}
+{104}{}{Mais uma vez, vocÃª me dÃ¡ a graÃ§a da sua presenÃ§a. Veio me alertar de algum tesouro escondido por aÃ­?}
+{105}{}{EntÃ£o, alguma riqueza que vocÃª precisa rastrear? Eu sou o melhor dos melhores!}
 {106}{}{Nium tizoro hoje.}
 {107}{}{Sim. Precisar sua ajuda.}
-{108}{}{Quem ser você?}
+{108}{}{Quem ser vocÃª?}
 {109}{}{Adeus.}
-{110}{}{Não, nada por hoje. Se eu cruzar com algum eu aviso.}
-{111}{}{Bem, na verdade, sim. Eu acho que você seria o parceiro perfeito para uma, como posso dizer, "união empreendedora".}
-{112}{}{Qual é o seu nome?}
-{113}{}{Não importa.}
-{114}{}{Eu? Eu sou o Micky, o alegre e suave Caçador de Tesouros de Broken Hills.}
-{115}{}{Caçadô?}
+{110}{}{NÃ£o, nada por hoje. Se eu cruzar com algum eu aviso.}
+{111}{}{Bem, na verdade, sim. Eu acho que vocÃª seria o parceiro perfeito para uma, como posso dizer, "uniÃ£o empreendedora".}
+{112}{}{Qual Ã© o seu nome?}
+{113}{}{NÃ£o importa.}
+{114}{}{Eu? Eu sou o Micky, o alegre e suave CaÃ§ador de Tesouros de Broken Hills.}
+{115}{}{CaÃ§adÃ´?}
 {116}{}{Tchau-tchau.}
-{117}{}{Caçador de tesouros?}
+{117}{}{CaÃ§ador de tesouros?}
 {118}{}{Que legal. Bom dia.}
-{119}{}{Não me diga que nunca ouviu falar de mim!? Você nunca ouviu os contos do Micky Veloz? De suas
- batalhas armadas, ação e grandes pilhagens?}
-{120}{}{Não.}
-{121}{}{Creio que não tive o prazer.}
-{122}{}{Bem, você é quem está perdendo. Qualquer dia desses eu te conto os detalhes sangrentos.}
+{119}{}{NÃ£o me diga que nunca ouviu falar de mim!? VocÃª nunca ouviu os contos do Micky Veloz? De suas
+ batalhas armadas, aÃ§Ã£o e grandes pilhagens?}
+{120}{}{NÃ£o.}
+{121}{}{Creio que nÃ£o tive o prazer.}
+{122}{}{Bem, vocÃª Ã© quem estÃ¡ perdendo. Qualquer dia desses eu te conto os detalhes sangrentos.}
 {123}{}{Legaaaal.}
 {124}{}{Aguardarei anciosamente.}
-{125}{}{Hum... eu não deveria ter ficado surpreso. O mercado para Caçador de Tesouros caiu nos últimos
- anos. Toda essa morte e fome e luta-pela-sobevivência acabou com o senso de aventura das pessoas. Mantenha-me
+{125}{}{Hum... eu nÃ£o deveria ter ficado surpreso. O mercado para CaÃ§ador de Tesouros caiu nos Ãºltimos
+ anos. Toda essa morte e fome e luta-pela-sobevivÃªncia acabou com o senso de aventura das pessoas. Mantenha-me
  em mente no entanto, se pintar alguma coisa.}
 {126}{}{Beleza.}
-{127}{}{Você será o primeiro da minha lista.}
-{128}{}{Sério?! Que legal! O que é? Ouro? Jóias? Artefatos sagrados?}
-{129}{}{Dinhero pá caramba.}
-{130}{}{Dexa pra lá..}
+{127}{}{VocÃª serÃ¡ o primeiro da minha lista.}
+{128}{}{SÃ©rio?! Que legal! O que Ã©? Ouro? JÃ³ias? Artefatos sagrados?}
+{129}{}{Dinhero pÃ¡ caramba.}
+{130}{}{Dexa pra lÃ¡..}
 {131}{}{Aparentemente, uma grande quantia de dinheiro. O suficiente para viver confortavelmente por um bom tempo.}
 {132}{}{Bem, na verdade, acho que vou trabalhar sozinho mais um pouco.}
 {133}{}{Uau! Era por isso que eu estava esperando. O que me diz? Parceiros 50/50?}
-{134}{}{É!}
-{135}{}{Não. Tchau.}
-{136}{}{Isso aí.}
+{134}{}{Ã‰!}
+{135}{}{NÃ£o. Tchau.}
+{136}{}{Isso aÃ­.}
 {137}{}{Pensando bem, acho que vou tentar fazer isso sozinho. Te vejo depois.}
-{138}{}{Excelente! Qual é a história? Onde estão os caras maus? O que 'cê quer que eu faça?}
+{138}{}{Excelente! Qual Ã© a histÃ³ria? Onde estÃ£o os caras maus? O que 'cÃª quer que eu faÃ§a?}
 {139}{}{Vem cumigo! Ir lugar escuro.}
-{140}{}{Vamos dizer que você vai gastar um tempo numa "caverna" local.}
-{141}{}{Legal! Apenas me indique as direções!}
+{140}{}{Vamos dizer que vocÃª vai gastar um tempo numa "caverna" local.}
+{141}{}{Legal! Apenas me indique as direÃ§Ãµes!}
 {142}{}{Onde tesoro? Centro da cidade?}
-{143}{}{Bem, eu não tenho certeza. Me disseram que eu poderia achar um tesouro por aqui.}
-{144}{}{O quê? No centro da cidade? Rá! Seja lá quem for que te disse isso ou está mentindo ou é louco. Com
- exceção dos lugares mais inacessíveis e húmidos de Broken Hills, eu já estive por quase
- toda a cidade e não achei nada. Estou até pensando em me mudar.}
+{143}{}{Bem, eu nÃ£o tenho certeza. Me disseram que eu poderia achar um tesouro por aqui.}
+{144}{}{O quÃª? No centro da cidade? RÃ¡! Seja lÃ¡ quem for que te disse isso ou estÃ¡ mentindo ou Ã© louco. Com
+ exceÃ§Ã£o dos lugares mais inacessÃ­veis e hÃºmidos de Broken Hills, eu jÃ¡ estive por quase
+ toda a cidade e nÃ£o achei nada. Estou atÃ© pensando em me mudar.}
 {145}{}{Que pena. Tchau-tchau.}
-{146}{}{É uma pena. Eu realmente tinha esperanças. Tchau então.}
+{146}{}{Ã‰ uma pena. Eu realmente tinha esperanÃ§as. Tchau entÃ£o.}

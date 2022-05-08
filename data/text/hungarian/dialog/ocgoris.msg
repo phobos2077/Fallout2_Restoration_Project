@@ -1,172 +1,172 @@
-{100}{}{Egy köpenyes figurát látsz.}
-{101}{}{Goris, a tudós.}
-{102}{}{Egy humanoid alakot látsz. Hosszú ujjú, csuklyás köpenyt visel. Van valami természetellenes a viselkedésében, de nem tudsz rájönni, mi is az pontosan.}
-{103}{}{Helló, Goris vagyok. Nem ismerlek téged, új vagy itt?}
-{104}{}{Én}
-{105}{}{Én menni elfele.}
-{106}{}{Aha, na és?}
-{107}{}{Üdv! Én}
-{108}{}{Üdv, Goris. Gruthar azt mondta, keresselek meg téged. Szerinte te vagy az, aki tud nekem válaszolni.}
-{109}{}{Feltehetek néhány kérdést?}
-{110}{}{Sajnálom, mennem kell.}
-{111}{}{Örülök, hogy találkoztunk,}
-{112}{}{Szóval beszéltél Gruthar-al. Elég túlzó véleménnyel van rólam. Valójában fele annyit sem tudok, mint ahogy azt ? hiszi. Akárhogy is...}
-{113}{}{Tehát kívülálló vagy! Már láttam néhány hozzád hasonlót. Néhányan itt is maradtak a Menedékben, de te máshogy nézel ki. Sokkal 'érettebbnek' t?nsz, ha érted, mire gondolok. Fogadni mernék, hogy sok mindent láttál, sok mindent csináltál már. Igazam van?}
-{114}{}{Öö... 'érettebb'?}
-{115}{}{Én menni elfele.}
-{116}{}{Sajnálom, de azt hiszem, most távozom.}
-{117}{}{Igen, volt néhány kalandom. Mondjuk, ha válaszolsz néhány kérdésemre, cserébe mesélhetek a kalandjaimról.}
-{118}{}{Semmi közöd hozzá.}
-{119}{}{Nem bánod, ha felteszek néhány kérdést?}
-{120}{}{Megegyeztünk! Nagyon szívesen meghallgatok bármit, amit elmesélsz nekem.}
-{121}{}{Mindamellett, nem utasíthatom vissza Gruthar barátját.}
-{122}{}{Mit szeretnél tudni?}
-{123}{}{Mit csinálsz itt?}
+{100}{}{Egy kÃ¶penyes figurÃ¡t lÃ¡tsz.}
+{101}{}{Goris, a tudÃ³s.}
+{102}{}{Egy humanoid alakot lÃ¡tsz. HosszÃº ujjÃº, csuklyÃ¡s kÃ¶penyt visel. Van valami termÃ©szetellenes a viselkedÃ©sÃ©ben, de nem tudsz rÃ¡jÃ¶nni, mi is az pontosan.}
+{103}{}{HellÃ³, Goris vagyok. Nem ismerlek tÃ©ged, Ãºj vagy itt?}
+{104}{}{Ã‰n}
+{105}{}{Ã‰n menni elfele.}
+{106}{}{Aha, na Ã©s?}
+{107}{}{Ãœdv! Ã‰n}
+{108}{}{Ãœdv, Goris. Gruthar azt mondta, keresselek meg tÃ©ged. Szerinte te vagy az, aki tud nekem vÃ¡laszolni.}
+{109}{}{Feltehetek nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{110}{}{SajnÃ¡lom, mennem kell.}
+{111}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk,}
+{112}{}{SzÃ³val beszÃ©ltÃ©l Gruthar-al. ElÃ©g tÃºlzÃ³ vÃ©lemÃ©nnyel van rÃ³lam. ValÃ³jÃ¡ban fele annyit sem tudok, mint ahogy azt ? hiszi. AkÃ¡rhogy is...}
+{113}{}{TehÃ¡t kÃ­vÃ¼lÃ¡llÃ³ vagy! MÃ¡r lÃ¡ttam nÃ©hÃ¡ny hozzÃ¡d hasonlÃ³t. NÃ©hÃ¡nyan itt is maradtak a MenedÃ©kben, de te mÃ¡shogy nÃ©zel ki. Sokkal 'Ã©rettebbnek' t?nsz, ha Ã©rted, mire gondolok. Fogadni mernÃ©k, hogy sok mindent lÃ¡ttÃ¡l, sok mindent csinÃ¡ltÃ¡l mÃ¡r. Igazam van?}
+{114}{}{Ã–Ã¶... 'Ã©rettebb'?}
+{115}{}{Ã‰n menni elfele.}
+{116}{}{SajnÃ¡lom, de azt hiszem, most tÃ¡vozom.}
+{117}{}{Igen, volt nÃ©hÃ¡ny kalandom. Mondjuk, ha vÃ¡laszolsz nÃ©hÃ¡ny kÃ©rdÃ©semre, cserÃ©be mesÃ©lhetek a kalandjaimrÃ³l.}
+{118}{}{Semmi kÃ¶zÃ¶d hozzÃ¡.}
+{119}{}{Nem bÃ¡nod, ha felteszek nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{120}{}{MegegyeztÃ¼nk! Nagyon szÃ­vesen meghallgatok bÃ¡rmit, amit elmesÃ©lsz nekem.}
+{121}{}{Mindamellett, nem utasÃ­thatom vissza Gruthar barÃ¡tjÃ¡t.}
+{122}{}{Mit szeretnÃ©l tudni?}
+{123}{}{Mit csinÃ¡lsz itt?}
 {124}{}{Rab vagy?}
-{125}{}{Mióta vagy itt?}
-{126}{}{Mit tudsz mondani ezekr?l a Halálkarmokról?}
-{127}{}{Tudod, mi történt az emberekkel, akik valaha itt éltek a Menedékben?}
-{128}{}{Mit tudsz mondani Gruthar-ról?}
-{129}{}{Szerinted a Halálkarmok fenyegetést jelentenek az emberekre?}
-{130}{}{Van valami információd az általad említett Enklávéról?}
-{131}{}{Mit tudsz err?l a vírusról?}
-{132}{}{Említetted, hogy szeretnél utazni. Mit szólnál, ha csatlakoznál hozzám?}
-{133}{}{Sajnálom, de most mennem kell.}
-{134}{}{Hmm... Meg vagyok lepve, hogy Gruthar nem mondott neked semmit rólam. Hát, igen... }
-{135}{}{Én mindenféléket tanulok itt. Megpróbálok minél többet megtanulni a világról és a különböz?, fejlett kultúrákról. Jelenleg éppen a Halálkarmok kultúráját tanulmányozom, és megpróbálom felfedezni a hasonlóságokat az emberi kultúrával kapcsolatban. Ezügyben már az összes itt megszerezhet? információ a birtokomban van. Sokat segítene a kutatásaimban, ha utazhatnék. Mindenesetre semmiképpen sem szeretnék egyedül menni, ha érted, mire gondolok.}
-{136}{}{Érdekes. Feltehetek még néhány kérdést?}
-{137}{}{Tehát tudós vagy... Ez elég nagy teljesítmény a mai világban.}
-{138}{}{Milyen unalmas!... Igazság szerint... úgy tékozlod el az életedet, ahogy gondolod. Mindenesetre több infóra van szükségem.}
-{139}{}{Nem, akkor megyek el, amikor csak akarok. Azért nem tettem még meg, mert nem akartam egyedül utazni. Elég szívós vagyok, és tudok vigyázni magamra, de mégis egyedül lennék a sivatagban, ha történne valami.}
-{140}{}{Értem.}
-{141}{}{Ah, túl sok ez egy gyáva alaknak. Fogom a dolgot.}
-{142}{}{Én sem szeretek egyedül utazni, úgyhogy nem hibáztathatlak emiatt.}
-{143}{}{Hm... tulajdonképpen néhány hónapja. A partról jöttem vissza ide.}
-{144}{}{H?ha, elég új vagy itt te magad is. Ha nem bánod, lenne még kérdésem.}
-{145}{}{Hát ez nem volt túl kimerít? válasz. Mondanál err?l többet?}
-{146}{}{Értem. Szeretnék még feltenni néhány kérdést.}
-{147}{}{Ezek nem átlagos Halálkarmok, ahogy biztosan észrevetted már magad is. Az intelligenciájuk valahogy fel lett javítva, ?k sem értik, hogyan. Ezt egy 'Enklávé' néven ismert emberi csoport követte el. Úgy t?nik, ennek a bizonyos Enklávénak hadseregre volt szüksége, és a Halálkarmokra esett a választás, els?sorban a kegyetlenségük, a fizikai adottságaik, a bátorságuk, és... hát, el tudod képzelni, mi egyebek miatt. Mindenesetre csak egy dolog hiányzott a Halálkarmokból, az intelligencia. Elég okosnak kellett lenniük, hogy megértsenek bonyolult parancsokat is, de nem annyira, hogy veszélyt jelentsenek a parancsnokokra.}
-{148}{}{Ez a legnagyobb lószar, amit életemben valaha is hallottam!}
-{149}{}{Ez hihetetlen! Nagyon jól informáltnak t?nsz. Kérdezhetek még?}
-{150}{}{Hmm... Oké.}
+{125}{}{MiÃ³ta vagy itt?}
+{126}{}{Mit tudsz mondani ezekr?l a HalÃ¡lkarmokrÃ³l?}
+{127}{}{Tudod, mi tÃ¶rtÃ©nt az emberekkel, akik valaha itt Ã©ltek a MenedÃ©kben?}
+{128}{}{Mit tudsz mondani Gruthar-rÃ³l?}
+{129}{}{Szerinted a HalÃ¡lkarmok fenyegetÃ©st jelentenek az emberekre?}
+{130}{}{Van valami informÃ¡ciÃ³d az Ã¡ltalad emlÃ­tett EnklÃ¡vÃ©rÃ³l?}
+{131}{}{Mit tudsz err?l a vÃ­rusrÃ³l?}
+{132}{}{EmlÃ­tetted, hogy szeretnÃ©l utazni. Mit szÃ³lnÃ¡l, ha csatlakoznÃ¡l hozzÃ¡m?}
+{133}{}{SajnÃ¡lom, de most mennem kell.}
+{134}{}{Hmm... Meg vagyok lepve, hogy Gruthar nem mondott neked semmit rÃ³lam. HÃ¡t, igen... }
+{135}{}{Ã‰n mindenfÃ©lÃ©ket tanulok itt. MegprÃ³bÃ¡lok minÃ©l tÃ¶bbet megtanulni a vilÃ¡grÃ³l Ã©s a kÃ¼lÃ¶nbÃ¶z?, fejlett kultÃºrÃ¡krÃ³l. Jelenleg Ã©ppen a HalÃ¡lkarmok kultÃºrÃ¡jÃ¡t tanulmÃ¡nyozom, Ã©s megprÃ³bÃ¡lom felfedezni a hasonlÃ³sÃ¡gokat az emberi kultÃºrÃ¡val kapcsolatban. EzÃ¼gyben mÃ¡r az Ã¶sszes itt megszerezhet? informÃ¡ciÃ³ a birtokomban van. Sokat segÃ­tene a kutatÃ¡saimban, ha utazhatnÃ©k. Mindenesetre semmikÃ©ppen sem szeretnÃ©k egyedÃ¼l menni, ha Ã©rted, mire gondolok.}
+{136}{}{Ã‰rdekes. Feltehetek mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{137}{}{TehÃ¡t tudÃ³s vagy... Ez elÃ©g nagy teljesÃ­tmÃ©ny a mai vilÃ¡gban.}
+{138}{}{Milyen unalmas!... IgazsÃ¡g szerint... Ãºgy tÃ©kozlod el az Ã©letedet, ahogy gondolod. Mindenesetre tÃ¶bb infÃ³ra van szÃ¼ksÃ©gem.}
+{139}{}{Nem, akkor megyek el, amikor csak akarok. AzÃ©rt nem tettem mÃ©g meg, mert nem akartam egyedÃ¼l utazni. ElÃ©g szÃ­vÃ³s vagyok, Ã©s tudok vigyÃ¡zni magamra, de mÃ©gis egyedÃ¼l lennÃ©k a sivatagban, ha tÃ¶rtÃ©nne valami.}
+{140}{}{Ã‰rtem.}
+{141}{}{Ah, tÃºl sok ez egy gyÃ¡va alaknak. Fogom a dolgot.}
+{142}{}{Ã‰n sem szeretek egyedÃ¼l utazni, Ãºgyhogy nem hibÃ¡ztathatlak emiatt.}
+{143}{}{Hm... tulajdonkÃ©ppen nÃ©hÃ¡ny hÃ³napja. A partrÃ³l jÃ¶ttem vissza ide.}
+{144}{}{H?ha, elÃ©g Ãºj vagy itt te magad is. Ha nem bÃ¡nod, lenne mÃ©g kÃ©rdÃ©sem.}
+{145}{}{HÃ¡t ez nem volt tÃºl kimerÃ­t? vÃ¡lasz. MondanÃ¡l err?l tÃ¶bbet?}
+{146}{}{Ã‰rtem. SzeretnÃ©k mÃ©g feltenni nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{147}{}{Ezek nem Ã¡tlagos HalÃ¡lkarmok, ahogy biztosan Ã©szrevetted mÃ¡r magad is. Az intelligenciÃ¡juk valahogy fel lett javÃ­tva, ?k sem Ã©rtik, hogyan. Ezt egy 'EnklÃ¡vÃ©' nÃ©ven ismert emberi csoport kÃ¶vette el. Ãšgy t?nik, ennek a bizonyos EnklÃ¡vÃ©nak hadseregre volt szÃ¼ksÃ©ge, Ã©s a HalÃ¡lkarmokra esett a vÃ¡lasztÃ¡s, els?sorban a kegyetlensÃ©gÃ¼k, a fizikai adottsÃ¡gaik, a bÃ¡torsÃ¡guk, Ã©s... hÃ¡t, el tudod kÃ©pzelni, mi egyebek miatt. Mindenesetre csak egy dolog hiÃ¡nyzott a HalÃ¡lkarmokbÃ³l, az intelligencia. ElÃ©g okosnak kellett lenniÃ¼k, hogy megÃ©rtsenek bonyolult parancsokat is, de nem annyira, hogy veszÃ©lyt jelentsenek a parancsnokokra.}
+{148}{}{Ez a legnagyobb lÃ³szar, amit Ã©letemben valaha is hallottam!}
+{149}{}{Ez hihetetlen! Nagyon jÃ³l informÃ¡ltnak t?nsz. KÃ©rdezhetek mÃ©g?}
+{150}{}{Hmm... OkÃ©.}
 {151}{}{::sigh:: They were captured by The Enclave. Gruthar and the pack were forced to aid in their
  capture. They had no choice since they were slaves at the time. The fate of the humans has weighed
  heavily on Gruthar's mind. He's never really forgiven himself for his complicity in the affair. The
  humans were taken alive, but who knows what has happened to them since?}
-{152}{}{(Sóhajt) Egy 'Enklávé' néven ismert csoport elfogta ?ket. Gruthart és a falka többi tagját kényszerítették, hogy segítsen nekik az elfogásukban. Nem volt más választásuk, mert rabszolgák voltak akkoriban. Azóta az emberek sorsa hatalmas súlyként nehezedik Gruthar vállára. Sosem bocsátotta meg magának, hogy b?nrészes volt az ügyben. Az embereket élve vitték el, de ki tudja, mi történt azóta velük?}
-{153}{}{Hmm... Lenne még néhány kérdésem.}
-{154}{}{Tudtam, hogy valahogy az istenverte Halálkarmok felel?sek ezért! Mindenesetre több információra van szükségem.}
-{155}{}{Néha rajtunk kívülálló okok arra kényszerítenek, hogy undorító dolgokat cselekedjünk. Grutharnak meg kell tanulnia megbocsátani magának.}
-{156}{}{Gruthar egyáltalán nem szörnyeteg, még ha annak t?nik is. ?szintén tör?dik mindannyiunkkal, és mindent megtesz, amit csak tud, hogy gondoskodjon a biztonságunkról és a túlélésünkr?l. Mi itt mindannyian rábíztuk az életünket. Nem tudom, mit mondhatnék még róla. Meg kellene ismerned ?t személyesen, és utána dönts róla magad.}
-{157}{}{Nem fogok elhamarkodottan dönteni róla. Ennél többet érdemel.}
-{158}{}{Rendben. Beszéljünk másról!}
-{159}{}{Hiszen ? egy Halálkarom. Nehezen tudom elképzelni, hogy van bármilyen jó tulajdonsága.}
-{160}{}{Nos... a lehet?ség adott, kiváltképp, ha számításba veszed az új intelligenciájukat. Ennek ellenére nem hiszem, hogy Gruthar és a falkája színlel. Úgy t?nik, az életet és a személyes szabadságot tisztelik mindenek felett. Nem várom el, hogy elhidd nekem. Döntsd el magad. Mások is élnek itt, akikt?l megkérdezheted.}
-{161}{}{Csak egy segghülye nem látja, milyen fenyegetést jelentenek ezek a Halálkarmok!}
-{162}{}{Köszönöm a tanácsot, körbe fogok kérdez?sködni. Feltehetek még néhány kérdést?}
-{163}{}{Hmm... Oké, jöhet még néhány kérdés?}
-{164}{}{Nem, csak annyit tudok, amit már elmondtam. Várj, van még valami. Az Enklávé nagyon érdekl?dött valami romok fel?l, ami innen nyugatra van. Nem tudom, miért. Ez minden.}
-{165}{}{Nos, minden kis információ-morzsa segít, és köszönettel tartozom érte.}
-{166}{}{Ez történetesen nagyon fontos téma számomra, és te cserbenhagytál!}
-{167}{}{Értem.}
-{168}{}{Azt hiszem, FEV vírusnak hívják. Az Enklávé komoly kutatásokat folytat vagy folytatott ezzel kapcsolatban. Sajnálom, de nem tudok többet err?l.}
-{169}{}{Rendben van, térjünk át más témákra!}
-{170}{}{Sajnálnod kellene. Azt mondták, te vagy a tudás forrása!}
-{171}{}{Nagy segítséget jelent ez nekem, Goris.}
-{172}{}{Én megtartottam az egyezségünk rám es? részét, és válaszoltam a kérdéseidre. Most pedig, hogy is voltak azokat a történetek a kalandjaidról, amiket megígértél?}
-{173}{}{Szívesen. Öröm volt veled beszélgetni.}
-{174}{}{Miket ígértem?}
+{152}{}{(SÃ³hajt) Egy 'EnklÃ¡vÃ©' nÃ©ven ismert csoport elfogta ?ket. Gruthart Ã©s a falka tÃ¶bbi tagjÃ¡t kÃ©nyszerÃ­tettÃ©k, hogy segÃ­tsen nekik az elfogÃ¡sukban. Nem volt mÃ¡s vÃ¡lasztÃ¡suk, mert rabszolgÃ¡k voltak akkoriban. AzÃ³ta az emberek sorsa hatalmas sÃºlykÃ©nt nehezedik Gruthar vÃ¡llÃ¡ra. Sosem bocsÃ¡totta meg magÃ¡nak, hogy b?nrÃ©szes volt az Ã¼gyben. Az embereket Ã©lve vittÃ©k el, de ki tudja, mi tÃ¶rtÃ©nt azÃ³ta velÃ¼k?}
+{153}{}{Hmm... Lenne mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{154}{}{Tudtam, hogy valahogy az istenverte HalÃ¡lkarmok felel?sek ezÃ©rt! Mindenesetre tÃ¶bb informÃ¡ciÃ³ra van szÃ¼ksÃ©gem.}
+{155}{}{NÃ©ha rajtunk kÃ­vÃ¼lÃ¡llÃ³ okok arra kÃ©nyszerÃ­tenek, hogy undorÃ­tÃ³ dolgokat cselekedjÃ¼nk. Grutharnak meg kell tanulnia megbocsÃ¡tani magÃ¡nak.}
+{156}{}{Gruthar egyÃ¡ltalÃ¡n nem szÃ¶rnyeteg, mÃ©g ha annak t?nik is. ?szintÃ©n tÃ¶r?dik mindannyiunkkal, Ã©s mindent megtesz, amit csak tud, hogy gondoskodjon a biztonsÃ¡gunkrÃ³l Ã©s a tÃºlÃ©lÃ©sÃ¼nkr?l. Mi itt mindannyian rÃ¡bÃ­ztuk az Ã©letÃ¼nket. Nem tudom, mit mondhatnÃ©k mÃ©g rÃ³la. Meg kellene ismerned ?t szemÃ©lyesen, Ã©s utÃ¡na dÃ¶nts rÃ³la magad.}
+{157}{}{Nem fogok elhamarkodottan dÃ¶nteni rÃ³la. EnnÃ©l tÃ¶bbet Ã©rdemel.}
+{158}{}{Rendben. BeszÃ©ljÃ¼nk mÃ¡srÃ³l!}
+{159}{}{Hiszen ? egy HalÃ¡lkarom. Nehezen tudom elkÃ©pzelni, hogy van bÃ¡rmilyen jÃ³ tulajdonsÃ¡ga.}
+{160}{}{Nos... a lehet?sÃ©g adott, kivÃ¡ltkÃ©pp, ha szÃ¡mÃ­tÃ¡sba veszed az Ãºj intelligenciÃ¡jukat. Ennek ellenÃ©re nem hiszem, hogy Gruthar Ã©s a falkÃ¡ja szÃ­nlel. Ãšgy t?nik, az Ã©letet Ã©s a szemÃ©lyes szabadsÃ¡got tisztelik mindenek felett. Nem vÃ¡rom el, hogy elhidd nekem. DÃ¶ntsd el magad. MÃ¡sok is Ã©lnek itt, akikt?l megkÃ©rdezheted.}
+{161}{}{Csak egy segghÃ¼lye nem lÃ¡tja, milyen fenyegetÃ©st jelentenek ezek a HalÃ¡lkarmok!}
+{162}{}{KÃ¶szÃ¶nÃ¶m a tanÃ¡csot, kÃ¶rbe fogok kÃ©rdez?skÃ¶dni. Feltehetek mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{163}{}{Hmm... OkÃ©, jÃ¶het mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©s?}
+{164}{}{Nem, csak annyit tudok, amit mÃ¡r elmondtam. VÃ¡rj, van mÃ©g valami. Az EnklÃ¡vÃ© nagyon Ã©rdekl?dÃ¶tt valami romok fel?l, ami innen nyugatra van. Nem tudom, miÃ©rt. Ez minden.}
+{165}{}{Nos, minden kis informÃ¡ciÃ³-morzsa segÃ­t, Ã©s kÃ¶szÃ¶nettel tartozom Ã©rte.}
+{166}{}{Ez tÃ¶rtÃ©netesen nagyon fontos tÃ©ma szÃ¡momra, Ã©s te cserbenhagytÃ¡l!}
+{167}{}{Ã‰rtem.}
+{168}{}{Azt hiszem, FEV vÃ­rusnak hÃ­vjÃ¡k. Az EnklÃ¡vÃ© komoly kutatÃ¡sokat folytat vagy folytatott ezzel kapcsolatban. SajnÃ¡lom, de nem tudok tÃ¶bbet err?l.}
+{169}{}{Rendben van, tÃ©rjÃ¼nk Ã¡t mÃ¡s tÃ©mÃ¡kra!}
+{170}{}{SajnÃ¡lnod kellene. Azt mondtÃ¡k, te vagy a tudÃ¡s forrÃ¡sa!}
+{171}{}{Nagy segÃ­tsÃ©get jelent ez nekem, Goris.}
+{172}{}{Ã‰n megtartottam az egyezsÃ©gÃ¼nk rÃ¡m es? rÃ©szÃ©t, Ã©s vÃ¡laszoltam a kÃ©rdÃ©seidre. Most pedig, hogy is voltak azokat a tÃ¶rtÃ©netek a kalandjaidrÃ³l, amiket megÃ­gÃ©rtÃ©l?}
+{173}{}{SzÃ­vesen. Ã–rÃ¶m volt veled beszÃ©lgetni.}
+{174}{}{Miket Ã­gÃ©rtem?}
 {175}{}{Aha, persze.}
-{176}{}{(Goris habozik, és olyan érzésed van, mintha alaposan megvizsgálna.) Megtiszteltetés lenne számomra, ha csatlakozhatnék hozzád!}
-{177}{}{(Goris habozik, és olyan érzésed van, mintha alaposan megvizsgálna.) Sajnálom, de azt hiszem, hogy te és én nem ugyanolyan ideálok szerint élünk. Egy közös vállalkozás nem válna egyikünk hasznára sem.}
-{178}{}{Oké, te vesztes.}
-{179}{}{Megértelek. Talán kés?bb meggondolod.}
-{180}{}{Micsoda!? Nem vagyok elég jó társaság? Baszd meg!}
-{181}{}{Ok, megértelek.}
-{182}{}{Nincs mit mondanom neked. Ne zaklass még egyszer!}
-{183}{}{Megkértelek, hogy ne zaklass még egyszer! Lehet, hogy csak az er?szak nyelvén értesz.}
+{176}{}{(Goris habozik, Ã©s olyan Ã©rzÃ©sed van, mintha alaposan megvizsgÃ¡lna.) MegtiszteltetÃ©s lenne szÃ¡momra, ha csatlakozhatnÃ©k hozzÃ¡d!}
+{177}{}{(Goris habozik, Ã©s olyan Ã©rzÃ©sed van, mintha alaposan megvizsgÃ¡lna.) SajnÃ¡lom, de azt hiszem, hogy te Ã©s Ã©n nem ugyanolyan ideÃ¡lok szerint Ã©lÃ¼nk. Egy kÃ¶zÃ¶s vÃ¡llalkozÃ¡s nem vÃ¡lna egyikÃ¼nk hasznÃ¡ra sem.}
+{178}{}{OkÃ©, te vesztes.}
+{179}{}{MegÃ©rtelek. TalÃ¡n kÃ©s?bb meggondolod.}
+{180}{}{Micsoda!? Nem vagyok elÃ©g jÃ³ tÃ¡rsasÃ¡g? Baszd meg!}
+{181}{}{Ok, megÃ©rtelek.}
+{182}{}{Nincs mit mondanom neked. Ne zaklass mÃ©g egyszer!}
+{183}{}{MegkÃ©rtelek, hogy ne zaklass mÃ©g egyszer! Lehet, hogy csak az er?szak nyelvÃ©n Ã©rtesz.}
 {184}{}{}
-{185}{}{Aha, tudod, sokat látott... jól informált... tapasztalt... Lövésed sincs, mir?l beszélek, ugye?}
-{186}{}{Gyümölcs érettebb, nem én.}
-{187}{}{Én menni mostan.}
-{188}{}{Aha. Hát, lehet, hogy az IQ-d alacsonyabb, mint a cip? méreted, de határozottan van valami benned, miután ilyen sokáig túlélted ezt a világot... Oké, próbáljuk meg így. Én akar elhagyni ezt a hely. Én akar utazni veled. Oké?}
-{189}{}{Aha. hát, lehet, hogy az IQ-d alacsonyabb, mint a cip? méreted, de határozottan van valami benned, miután ilyen sokáig túlélted ezt a világot... valószín?leg a gyávaságot érzem benned. Nos, igen. Viszlát!}
-{190}{}{Ööö... Oké.}
-{191}{}{Én menni elfele.}
-{192}{}{Elnézést, nem akartam a magánügyeidbe beleütni az orromat.}
-{193}{}{Aha, hát, majd hiszem, ha látom, hogy nem teszed meg újra!}
-{194}{}{Tökmindegy. Mellesleg szükségem volna még néhány információra t?led.}
-{195}{}{Bocsánat, Goris. Egy kicsit ideges vagyok ma. Ha nem bánod, feltennék néhány kérdést.}
-{196}{}{Volt néhány érdekes momentum az életedben. A h?sök anyagából gyúrtak, és ezért irigyellek. Köszönöm, hogy elmesélted nekem mindezt.}
-{197}{}{Nos... te csak a mészárlást kutatod. Azt hiszem, távozok. Kösz, és viszlát!}
-{198}{}{Szívesen, Goris.}
-{199}{}{Helló! Mi a helyzet?}
-{200}{}{Te jönni velem?}
-{201}{}{Jaj... én eltévedje. Én menni.}
-{202}{}{Csak gondoltam, beugrok. Viszlát kés?bb.}
-{203}{}{Hé, éppen útitársakat keresek. Készen állsz?}
-{204}{}{Mit tehetek érted, }
-{205}{}{Te lenni rossz! Miért nem mond?}
-{206}{}{Te is Halálkarom vagy? Esetleg van valami oka, hogy ezt nem említetted nekem?}
-{207}{}{Hogy is mondjam... Rossz dolog te öl, nem beszél. Én nem mond el senkinek, én csinál jót neked. Te nem öl meg engem. Én maradni veled?}
-{208}{}{Elnézést, hogy félrevezettelek, de az embereknek megvan az a rossz szokásuk, hogy agyonl?nek minden Halálkarmot, akit meglátnak. Úgy éreztem, el?nyömre válhat, ha elrejtem a valódi énemet, amíg rá nem jössz magadtól, hogy én a te oldaladon állok ebben a vállalkozásban. Ha még most is azt akarod, hogy távozzak, megteszem. De szívesebben maradnék, és segítenélek az utadon. Be akarom bizonyítani, hogy az emberek és a Halálkarmok tudnak barátként is együtt létezni, nem csak ellenségként.}
+{185}{}{Aha, tudod, sokat lÃ¡tott... jÃ³l informÃ¡lt... tapasztalt... LÃ¶vÃ©sed sincs, mir?l beszÃ©lek, ugye?}
+{186}{}{GyÃ¼mÃ¶lcs Ã©rettebb, nem Ã©n.}
+{187}{}{Ã‰n menni mostan.}
+{188}{}{Aha. HÃ¡t, lehet, hogy az IQ-d alacsonyabb, mint a cip? mÃ©reted, de hatÃ¡rozottan van valami benned, miutÃ¡n ilyen sokÃ¡ig tÃºlÃ©lted ezt a vilÃ¡got... OkÃ©, prÃ³bÃ¡ljuk meg Ã­gy. Ã‰n akar elhagyni ezt a hely. Ã‰n akar utazni veled. OkÃ©?}
+{189}{}{Aha. hÃ¡t, lehet, hogy az IQ-d alacsonyabb, mint a cip? mÃ©reted, de hatÃ¡rozottan van valami benned, miutÃ¡n ilyen sokÃ¡ig tÃºlÃ©lted ezt a vilÃ¡got... valÃ³szÃ­n?leg a gyÃ¡vasÃ¡got Ã©rzem benned. Nos, igen. ViszlÃ¡t!}
+{190}{}{Ã–Ã¶Ã¶... OkÃ©.}
+{191}{}{Ã‰n menni elfele.}
+{192}{}{ElnÃ©zÃ©st, nem akartam a magÃ¡nÃ¼gyeidbe beleÃ¼tni az orromat.}
+{193}{}{Aha, hÃ¡t, majd hiszem, ha lÃ¡tom, hogy nem teszed meg Ãºjra!}
+{194}{}{TÃ¶kmindegy. Mellesleg szÃ¼ksÃ©gem volna mÃ©g nÃ©hÃ¡ny informÃ¡ciÃ³ra t?led.}
+{195}{}{BocsÃ¡nat, Goris. Egy kicsit ideges vagyok ma. Ha nem bÃ¡nod, feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{196}{}{Volt nÃ©hÃ¡ny Ã©rdekes momentum az Ã©letedben. A h?sÃ¶k anyagÃ¡bÃ³l gyÃºrtak, Ã©s ezÃ©rt irigyellek. KÃ¶szÃ¶nÃ¶m, hogy elmesÃ©lted nekem mindezt.}
+{197}{}{Nos... te csak a mÃ©szÃ¡rlÃ¡st kutatod. Azt hiszem, tÃ¡vozok. KÃ¶sz, Ã©s viszlÃ¡t!}
+{198}{}{SzÃ­vesen, Goris.}
+{199}{}{HellÃ³! Mi a helyzet?}
+{200}{}{Te jÃ¶nni velem?}
+{201}{}{Jaj... Ã©n eltÃ©vedje. Ã‰n menni.}
+{202}{}{Csak gondoltam, beugrok. ViszlÃ¡t kÃ©s?bb.}
+{203}{}{HÃ©, Ã©ppen ÃºtitÃ¡rsakat keresek. KÃ©szen Ã¡llsz?}
+{204}{}{Mit tehetek Ã©rted, }
+{205}{}{Te lenni rossz! MiÃ©rt nem mond?}
+{206}{}{Te is HalÃ¡lkarom vagy? Esetleg van valami oka, hogy ezt nem emlÃ­tetted nekem?}
+{207}{}{Hogy is mondjam... Rossz dolog te Ã¶l, nem beszÃ©l. Ã‰n nem mond el senkinek, Ã©n csinÃ¡l jÃ³t neked. Te nem Ã¶l meg engem. Ã‰n maradni veled?}
+{208}{}{ElnÃ©zÃ©st, hogy fÃ©lrevezettelek, de az embereknek megvan az a rossz szokÃ¡suk, hogy agyonl?nek minden HalÃ¡lkarmot, akit meglÃ¡tnak. Ãšgy Ã©reztem, el?nyÃ¶mre vÃ¡lhat, ha elrejtem a valÃ³di Ã©nemet, amÃ­g rÃ¡ nem jÃ¶ssz magadtÃ³l, hogy Ã©n a te oldaladon Ã¡llok ebben a vÃ¡llalkozÃ¡sban. Ha mÃ©g most is azt akarod, hogy tÃ¡vozzak, megteszem. De szÃ­vesebben maradnÃ©k, Ã©s segÃ­tenÃ©lek az utadon. Be akarom bizonyÃ­tani, hogy az emberek Ã©s a HalÃ¡lkarmok tudnak barÃ¡tkÃ©nt is egyÃ¼tt lÃ©tezni, nem csak ellensÃ©gkÃ©nt.}
 {209}{}{Nekem nem tetszeni, te menni.}
-{210}{}{Oké, te maradni.}
-{211}{}{Sajnálom, de nem szeretem, ha félrevezetnek. Távozz!}
-{212}{}{Megértem, miért érezted szükségesnek, hogy elrejtsd a valódi énedet. Azt hiszem, tudnánk együtt dolgozni, úgyhogy kérlek, maradj... de ne vezess félre még egyszer, Goris!}
-{213}{}{ vagyok. Én lenni új itt.}
-{214}{}{ vagyok. Igen, a Menedéken kívülr?l jöttem.}
+{210}{}{OkÃ©, te maradni.}
+{211}{}{SajnÃ¡lom, de nem szeretem, ha fÃ©lrevezetnek. TÃ¡vozz!}
+{212}{}{MegÃ©rtem, miÃ©rt Ã©rezted szÃ¼ksÃ©gesnek, hogy elrejtsd a valÃ³di Ã©nedet. Azt hiszem, tudnÃ¡nk egyÃ¼tt dolgozni, Ãºgyhogy kÃ©rlek, maradj... de ne vezess fÃ©lre mÃ©g egyszer, Goris!}
+{213}{}{ vagyok. Ã‰n lenni Ãºj itt.}
+{214}{}{ vagyok. Igen, a MenedÃ©ken kÃ­vÃ¼lr?l jÃ¶ttem.}
 {215}{}{ vagyok.}
 {216}{}{?}
-{217}{}{Nos, az Enklávé elkezdett kísérletezni egy vírussal vagy valami ilyesmivel, és beoltotta vele a Halálkarmokat. Ez a vírus arról volt ismert, hogy az embereket valamiféle szuper lénnyé változtatja, így arra voltak kíváncsiak, vajon mit fog m?velni a Halálkarmokkal. Nos, az eredmény egy értelmes Halálkarom-faj lett, olyannyira értelmes, hogy rádöbbentek saját rabszolga mivoltukra. Így egész egyszer?en hülyének kezdték tettetni magukat, amíg szabaddá nem váltak. Most itt vannak!}
-{218}{}{Én ellenzem a Halálkarmok megtámadását.}
-{219}{}{Hirtelen elfogott az érzés, hogy bajban van a falkám. Sajnálom, hogy el kell hagynom téged, de meg kell néznem, mi van a testvéreimmel.}
-{220}{}{Oké.}
-{221}{}{A biztonsági kamerák felvettek mindent, ami történt. Meg kellene nézned.}
-{222}{}{Egy szürke Halálkarmot látsz. Goris az.}
-{223}{}{Egy humanoid alakot látsz. Hosszú ujjú, csuklyás köpenyt visel. Goris az.}
+{217}{}{Nos, az EnklÃ¡vÃ© elkezdett kÃ­sÃ©rletezni egy vÃ­russal vagy valami ilyesmivel, Ã©s beoltotta vele a HalÃ¡lkarmokat. Ez a vÃ­rus arrÃ³l volt ismert, hogy az embereket valamifÃ©le szuper lÃ©nnyÃ© vÃ¡ltoztatja, Ã­gy arra voltak kÃ­vÃ¡ncsiak, vajon mit fog m?velni a HalÃ¡lkarmokkal. Nos, az eredmÃ©ny egy Ã©rtelmes HalÃ¡lkarom-faj lett, olyannyira Ã©rtelmes, hogy rÃ¡dÃ¶bbentek sajÃ¡t rabszolga mivoltukra. Ãgy egÃ©sz egyszer?en hÃ¼lyÃ©nek kezdtÃ©k tettetni magukat, amÃ­g szabaddÃ¡ nem vÃ¡ltak. Most itt vannak!}
+{218}{}{Ã‰n ellenzem a HalÃ¡lkarmok megtÃ¡madÃ¡sÃ¡t.}
+{219}{}{Hirtelen elfogott az Ã©rzÃ©s, hogy bajban van a falkÃ¡m. SajnÃ¡lom, hogy el kell hagynom tÃ©ged, de meg kell nÃ©znem, mi van a testvÃ©reimmel.}
+{220}{}{OkÃ©.}
+{221}{}{A biztonsÃ¡gi kamerÃ¡k felvettek mindent, ami tÃ¶rtÃ©nt. Meg kellene nÃ©zned.}
+{222}{}{Egy szÃ¼rke HalÃ¡lkarmot lÃ¡tsz. Goris az.}
+{223}{}{Egy humanoid alakot lÃ¡tsz. HosszÃº ujjÃº, csuklyÃ¡s kÃ¶penyt visel. Goris az.}
 {1000}{}{Igen, }
-{1001}{}{Te gyógyítani magad!}
-{1002}{}{Te várni itt! Én jönni vissza.}
-{1003}{}{Most nem fegyver. Oké?}
-{1008}{}{Te lenni Halá'karom? Miért nem mondani?}
-{1009}{}{Én kész.}
-{1010}{}{Most már meg kellene gyógyítanod magad.}
-{1011}{}{Kérlek, várj itt, amíg vissza nem jövök!}
-{1012}{}{Ne legyen kéznél fegyvered, oké?}
-{1016}{}{Gyerünk!}
-{1017}{}{Te is Halálkarom vagy? Esetleg van valami oka, hogy ezt nem említetted nekem?}
-{1018}{}{Mára ennyi.}
-{1019}{}{Egészséges vagyok, és készen állok az indulásra.}
-{1020}{}{Már majdnem teljesen egészséges vagyok, }
-{1021}{}{Nagyjából egészséges vagyok, de azért ha van rá lehet?ség, jól jönne egy kis ápolás, }
-{1022}{}{Amennyire tudtam, meggyógyítottam magam, de még mindig nagyon pocsék állapotban vagyok, }
-{1041}{}{Itt fogok várni rád, amíg vissza nem térsz,}
-{1060}{}{Mindent megteszek, hogy meghúzzam magam,}
-{1064}{}{Te maradni közel.}
+{1001}{}{Te gyÃ³gyÃ­tani magad!}
+{1002}{}{Te vÃ¡rni itt! Ã‰n jÃ¶nni vissza.}
+{1003}{}{Most nem fegyver. OkÃ©?}
+{1008}{}{Te lenni HalÃ¡'karom? MiÃ©rt nem mondani?}
+{1009}{}{Ã‰n kÃ©sz.}
+{1010}{}{Most mÃ¡r meg kellene gyÃ³gyÃ­tanod magad.}
+{1011}{}{KÃ©rlek, vÃ¡rj itt, amÃ­g vissza nem jÃ¶vÃ¶k!}
+{1012}{}{Ne legyen kÃ©znÃ©l fegyvered, okÃ©?}
+{1016}{}{GyerÃ¼nk!}
+{1017}{}{Te is HalÃ¡lkarom vagy? Esetleg van valami oka, hogy ezt nem emlÃ­tetted nekem?}
+{1018}{}{MÃ¡ra ennyi.}
+{1019}{}{EgÃ©szsÃ©ges vagyok, Ã©s kÃ©szen Ã¡llok az indulÃ¡sra.}
+{1020}{}{MÃ¡r majdnem teljesen egÃ©szsÃ©ges vagyok, }
+{1021}{}{NagyjÃ¡bÃ³l egÃ©szsÃ©ges vagyok, de azÃ©rt ha van rÃ¡ lehet?sÃ©g, jÃ³l jÃ¶nne egy kis Ã¡polÃ¡s, }
+{1022}{}{Amennyire tudtam, meggyÃ³gyÃ­tottam magam, de mÃ©g mindig nagyon pocsÃ©k Ã¡llapotban vagyok, }
+{1041}{}{Itt fogok vÃ¡rni rÃ¡d, amÃ­g vissza nem tÃ©rsz,}
+{1060}{}{Mindent megteszek, hogy meghÃºzzam magam,}
+{1064}{}{Te maradni kÃ¶zel.}
 {1065}{}{Te nem menni messzire.}
-{1066}{}{Te lenni túl közel. Szóródni széjjel.}
-{1073}{}{Maradj a közelemben!}
-{1074}{}{Ne menj túl messzire!}
-{1075}{}{Kicsit szét kellene szóródnunk.}
-{1078}{}{Mára ennyi.}
-{1079}{}{Olyan közel maradok, amennyire csak tudok,}
-{1098}{}{Kicsit odébbmegyek, hogy legyen helyed lélegezni,}
-{1117}{}{Kicsit hátrébb maradok, hogy legyen egy kis helyed,}
-{1136}{}{Sajnálom, }
-{1137}{}{Sokat tanultam az utazásaink során. Szívesen veled tartok, }
+{1066}{}{Te lenni tÃºl kÃ¶zel. SzÃ³rÃ³dni szÃ©jjel.}
+{1073}{}{Maradj a kÃ¶zelemben!}
+{1074}{}{Ne menj tÃºl messzire!}
+{1075}{}{Kicsit szÃ©t kellene szÃ³rÃ³dnunk.}
+{1078}{}{MÃ¡ra ennyi.}
+{1079}{}{Olyan kÃ¶zel maradok, amennyire csak tudok,}
+{1098}{}{Kicsit odÃ©bbmegyek, hogy legyen helyed lÃ©legezni,}
+{1117}{}{Kicsit hÃ¡trÃ©bb maradok, hogy legyen egy kis helyed,}
+{1136}{}{SajnÃ¡lom, }
+{1137}{}{Sokat tanultam az utazÃ¡saink sorÃ¡n. SzÃ­vesen veled tartok, }
 {1156}{}{?}
 {1157}{}{. }
-{1158}{}{ , de túl sok társad van. Itt várok, amíg felszabadul egy hely.}
-{1159}{}{Azt hiszem, egyedül jobban tudnám csinálni.}
-{1160}{}{Te olyan lenni, akit én nem akar magam mellett tudni. Én távozni.}
-{1161}{}{Szeretném megbosszulni a fajtársaimat.}
-{1162}{}{Rendben. Húzzunk bele!}
-{1163}{}{Ezt talán egyedül kellene csinálnod.}
-{1164}{}{Neked lenni igazad, mi öl.}
-{1165}{}{Te menni egyedül!}
-{1166}{}{Változtassunk a követési távolságon!}
-{1167}{}{Én gondolni te mozogni másképp.}
+{1158}{}{ , de tÃºl sok tÃ¡rsad van. Itt vÃ¡rok, amÃ­g felszabadul egy hely.}
+{1159}{}{Azt hiszem, egyedÃ¼l jobban tudnÃ¡m csinÃ¡lni.}
+{1160}{}{Te olyan lenni, akit Ã©n nem akar magam mellett tudni. Ã‰n tÃ¡vozni.}
+{1161}{}{SzeretnÃ©m megbosszulni a fajtÃ¡rsaimat.}
+{1162}{}{Rendben. HÃºzzunk bele!}
+{1163}{}{Ezt talÃ¡n egyedÃ¼l kellene csinÃ¡lnod.}
+{1164}{}{Neked lenni igazad, mi Ã¶l.}
+{1165}{}{Te menni egyedÃ¼l!}
+{1166}{}{VÃ¡ltoztassunk a kÃ¶vetÃ©si tÃ¡volsÃ¡gon!}
+{1167}{}{Ã‰n gondolni te mozogni mÃ¡skÃ©pp.}
 {2000}{}{I think I broke a limb. Medical assistance is required.}
 {2001}{}{I believe I am suffering from radiation poisoning. Do you have anything to aid me?}
 {2002}{}{I believe I have been poisoned. Do you have anything to aid me?}

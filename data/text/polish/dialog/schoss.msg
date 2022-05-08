@@ -1,16 +1,16 @@
-{100}{}{Widzisz du¿ego, wygl¹daj¹cego na g³upka, przepakowanego osi³ka.}
+{100}{}{Widzisz duÅ¼ego, wyglÄ…dajÄ…cego na gÅ‚upka, przepakowanego osiÅ‚ka.}
 {101}{}{To Hoss.}
-{102}{}{Nie wygl¹da na uzbrojonego, ani w broñ, ani w umys³.}
-{103}{}{Hej ty, gównojadzie. Nie podobasz mi siê. Chyba musisz postawiæ mi drinka.}
-{104}{}{Hej cipcia, chodŸ tu, a dam ci du¿ego z jêzyczkiem.}
+{102}{}{Nie wyglÄ…da na uzbrojonego, ani w broÅ„, ani w umysÅ‚.}
+{103}{}{Hej ty, gÃ³wnojadzie. Nie podobasz mi siÄ™. Chyba musisz postawiÄ‡ mi drinka.}
+{104}{}{Hej cipcia, chodÅº tu, a dam ci duÅ¼ego z jÄ™zyczkiem.}
 {105}{}{<Pierd!>}
-{106}{}{Poca³uj mnie gdzieœ.}
-{107}{}{Nie chcê k³opotów.}
-{108}{}{Wiêc myœlisz, ¿eœ twardziel? Zamiotê twoj¹ dup¹ pod³ogê. Go³e pieœci, tu i teraz.}
-{109}{}{"Nie chcê k³opotów!" Bêdziesz je mieæ. Albo ze mn¹ walczysz, albo powiem wszystkim, jaka z ciebie fujara. Go³e pieœci, tu i teraz.}
-{110}{}{Dobra, zatañczmy.}
-{111}{}{Nie bardzo, nie mogê.}
-{112}{}{Ha! Dobre sobie. Zmykaj st¹d, padalcu.}
-{113}{}{A³! Mój nos! Poddajê siê! Nie bij mnie ju¿!}
-{114}{}{Okej, przepraszam. Tylko ¿artowa³em. Nie bêdê ci ju¿ sprawia³ wiêcej k³opotów... proszê, nie zabijaj mnie!}
-{115}{}{Hej, wycofujê siê. Okej, nie bij mnie?}
+{106}{}{PocaÅ‚uj mnie gdzieÅ›.}
+{107}{}{Nie chcÄ™ kÅ‚opotÃ³w.}
+{108}{}{WiÄ™c myÅ›lisz, Å¼eÅ› twardziel? ZamiotÄ™ twojÄ… dupÄ… podÅ‚ogÄ™. GoÅ‚e pieÅ›ci, tu i teraz.}
+{109}{}{"Nie chcÄ™ kÅ‚opotÃ³w!" BÄ™dziesz je mieÄ‡. Albo ze mnÄ… walczysz, albo powiem wszystkim, jaka z ciebie fujara. GoÅ‚e pieÅ›ci, tu i teraz.}
+{110}{}{Dobra, zataÅ„czmy.}
+{111}{}{Nie bardzo, nie mogÄ™.}
+{112}{}{Ha! Dobre sobie. Zmykaj stÄ…d, padalcu.}
+{113}{}{AÅ‚! MÃ³j nos! PoddajÄ™ siÄ™! Nie bij mnie juÅ¼!}
+{114}{}{Okej, przepraszam. Tylko Å¼artowaÅ‚em. Nie bÄ™dÄ™ ci juÅ¼ sprawiaÅ‚ wiÄ™cej kÅ‚opotÃ³w... proszÄ™, nie zabijaj mnie!}
+{115}{}{Hej, wycofujÄ™ siÄ™. Okej, nie bij mnie?}

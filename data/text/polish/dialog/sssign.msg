@@ -1,30 +1,30 @@
-{100}{}{Widzisz tablicê og³oszeniow¹.}
-{101}{}{Widzisz tablicê z wywieszonymi prawami RNK.}
-{102}{}{To typowa tablica og³oszeniowa z kilkoma przypiêtymi kartkami papieru. Najwa¿niejsza z nich to prawa RNK.}
-{103}{}{Witamy w Republice Nowej Kalifornii! Zanim wejdziesz do naszego sprawiedliwego miasta, poœwiêæ chwilê czasu na zapoznanie siê z nastêpuj¹cymi prawami i regulacjami.}
-{104}{}{¯adna broñ nie mo¿e byæ otwarcie noszona w murach miasta.}
-{105}{}{Osoby zatrzymane pod wp³ywem alkoholu lub narkotyków zostan¹ aresztowane.}
-{106}{}{Niewolnictwo, hazard i prostytucja s¹ zabronione na terenie miasta.}
-{107}{}{Nieznajomoœæ prawa nie zwalnia z jego przestrzegania. G³upek dostanie w ty³ek równie szybko, jak m¹drala.}
-{108}{}{Je¿eli nie potrafisz ¿yæ wed³ug tych praw - to wynoœ siê st¹d w cholerê!}
-{109}{}{Lepiej od³ó¿ swoj¹ broñ. Mówimy powa¿nie.}
+{100}{}{Widzisz tablicÄ™ ogÅ‚oszeniowÄ….}
+{101}{}{Widzisz tablicÄ™ z wywieszonymi prawami RNK.}
+{102}{}{To typowa tablica ogÅ‚oszeniowa z kilkoma przypiÄ™tymi kartkami papieru. NajwaÅ¼niejsza z nich to prawa RNK.}
+{103}{}{Witamy w Republice Nowej Kalifornii! Zanim wejdziesz do naszego sprawiedliwego miasta, poÅ›wiÄ™Ä‡ chwilÄ™ czasu na zapoznanie siÄ™ z nastÄ™pujÄ…cymi prawami i regulacjami.}
+{104}{}{Å»adna broÅ„ nie moÅ¼e byÄ‡ otwarcie noszona w murach miasta.}
+{105}{}{Osoby zatrzymane pod wpÅ‚ywem alkoholu lub narkotykÃ³w zostanÄ… aresztowane.}
+{106}{}{Niewolnictwo, hazard i prostytucja sÄ… zabronione na terenie miasta.}
+{107}{}{NieznajomoÅ›Ä‡ prawa nie zwalnia z jego przestrzegania. GÅ‚upek dostanie w tyÅ‚ek rÃ³wnie szybko, jak mÄ…drala.}
+{108}{}{JeÅ¼eli nie potrafisz Å¼yÄ‡ wedÅ‚ug tych praw - to wynoÅ› siÄ™ stÄ…d w cholerÄ™!}
+{109}{}{Lepiej odÅ‚Ã³Å¼ swojÄ… broÅ„. MÃ³wimy powaÅ¼nie.}
 {110}{}{Przestrzeganie prawa to dobre obywatelstwo.}
-{111}{}{(wróæ)}
-{112}{}{Wystarczy ju¿ tego czytania.}
-{113}{}{To nie wró¿y dobrze twoim rekreacyjnym zwyczajom.}
-{114}{}{Dobrze, przynajmniej nie bêdzie pijaczków i narkomanów naprzykrzaj¹cych ci siê o ja³mu¿nê.}
-{115}{}{(wróæ)}
-{116}{}{Wystarczy ju¿ tego czytania.}
-{117}{}{Có¿, oto jak kilka dodatkowych Ÿróde³ gotówki jest spuszczanych z wod¹ w porcelanie!}
-{118}{}{Wygl¹da na to, ¿e staraj¹ siê stworzyæ szanowane, porz¹dne spo³eczeñstwo dla ludzi.}
-{119}{}{(wróæ)}
-{120}{}{Wystarczy ju¿ tego czytania.}
-{121}{}{Ostre s³owa. Mo¿e nawet warto by zobaczyæ, czy mo¿esz zrobiæ tak, aby siê nimi ud³awili.}
-{122}{}{Równoœæ przed prawem to dobra rzecz.}
-{123}{}{(wróæ)}
-{124}{}{Wystarczy ju¿ tego czytania.}
-{125}{}{Nauczenie tych goœci odrobny respektu coraz bardziej wysuwa siê na czo³o twojej listy "rzeczy do zrobienia".}
-{126}{}{Powiedziane nieco bez ogródek, ale to uœwiadamia, o co tu chodzi.}
-{127}{}{(wróæ)}
-{128}{}{Wystarczy ju¿ tego czytania.}
-{130}{}{Moja go³wa boleæ. Za du¿o czytaæ.}
+{111}{}{(wrÃ³Ä‡)}
+{112}{}{Wystarczy juÅ¼ tego czytania.}
+{113}{}{To nie wrÃ³Å¼y dobrze twoim rekreacyjnym zwyczajom.}
+{114}{}{Dobrze, przynajmniej nie bÄ™dzie pijaczkÃ³w i narkomanÃ³w naprzykrzajÄ…cych ci siÄ™ o jaÅ‚muÅ¼nÄ™.}
+{115}{}{(wrÃ³Ä‡)}
+{116}{}{Wystarczy juÅ¼ tego czytania.}
+{117}{}{CÃ³Å¼, oto jak kilka dodatkowych ÅºrÃ³deÅ‚ gotÃ³wki jest spuszczanych z wodÄ… w porcelanie!}
+{118}{}{WyglÄ…da na to, Å¼e starajÄ… siÄ™ stworzyÄ‡ szanowane, porzÄ…dne spoÅ‚eczeÅ„stwo dla ludzi.}
+{119}{}{(wrÃ³Ä‡)}
+{120}{}{Wystarczy juÅ¼ tego czytania.}
+{121}{}{Ostre sÅ‚owa. MoÅ¼e nawet warto by zobaczyÄ‡, czy moÅ¼esz zrobiÄ‡ tak, aby siÄ™ nimi udÅ‚awili.}
+{122}{}{RÃ³wnoÅ›Ä‡ przed prawem to dobra rzecz.}
+{123}{}{(wrÃ³Ä‡)}
+{124}{}{Wystarczy juÅ¼ tego czytania.}
+{125}{}{Nauczenie tych goÅ›ci odrobny respektu coraz bardziej wysuwa siÄ™ na czoÅ‚o twojej listy "rzeczy do zrobienia".}
+{126}{}{Powiedziane nieco bez ogrÃ³dek, ale to uÅ›wiadamia, o co tu chodzi.}
+{127}{}{(wrÃ³Ä‡)}
+{128}{}{Wystarczy juÅ¼ tego czytania.}
+{130}{}{Moja goÅ‚wa boleÄ‡. Za duÅ¼o czytaÄ‡.}

@@ -1,64 +1,64 @@
 {100}{}{Widzisz mnicha informatyka.}
 {101}{}{Widzisz Brata Paula.}
-{102}{}{Ten mnich wygl¹da na maniaka komputerowego.}
+{102}{}{Ten mnich wyglÄ…da na maniaka komputerowego.}
 {200}{}{Hej!}
-{201}{}{Czeœæ.}
-{202}{}{Hmm... Czy zrobi³em dzisiaj kopiê zapasow¹ tych plików komputerowych...}
-{203}{}{Przepraszam, ale nie mam czasu dla kogoœ z twoj¹ inteligencj¹.}
+{201}{}{CzeÅ›Ä‡.}
+{202}{}{Hmm... Czy zrobiÅ‚em dzisiaj kopiÄ™ zapasowÄ… tych plikÃ³w komputerowych...}
+{203}{}{Przepraszam, ale nie mam czasu dla kogoÅ› z twojÄ… inteligencjÄ….}
 {300}{}{Tak?}
-{301}{}{Macie tu sporo komputerów.}
-{302}{}{Co mo¿esz powiedzieæ mi o Opactwie?}
-{303}{}{Powiedz mi o waszym przywódcy.}
-{304}{}{Czy wiesz coœ o GECKu?}
-{305}{}{Czy wiesz gdzie mogê znaleŸæ Kryptê 13?}
+{301}{}{Macie tu sporo komputerÃ³w.}
+{302}{}{Co moÅ¼esz powiedzieÄ‡ mi o Opactwie?}
+{303}{}{Powiedz mi o waszym przywÃ³dcy.}
+{304}{}{Czy wiesz coÅ› o GECKu?}
+{305}{}{Czy wiesz gdzie mogÄ™ znaleÅºÄ‡ KryptÄ™ 13?}
 {306}{}{Bywaj.}
-{307}{}{Potrzebujê pewnych konkretnych informacji.}
-{308}{}{Tak, na przyk³ad?}
-{400}{}{Tak, mamy. Za du¿o wed³ug mnie. To irytuj¹ce, robiæ kopiê tych wszystkich danych ka¿dego dnia. Tak du¿o informacji do zachowania, ale musi to byæ zrobione.}
-{401}{}{Mogê to sobie wyobraziæ. Mam jeszcze inne pytania.}
-{402}{}{Jesteœmy niezale¿n¹ spo³ecznoœci¹. Ka¿dy jest mile widziany, tak d³ugo jak siê zachowuje nale¿ycie.}
-{403}{}{W porz¹dku.}
-{404}{}{Jest dobrym przywódc¹. Trochê zbzikowa³ po tym jak ta bestia zabi³a brata Thomasa.}
+{307}{}{PotrzebujÄ™ pewnych konkretnych informacji.}
+{308}{}{Tak, na przykÅ‚ad?}
+{400}{}{Tak, mamy. Za duÅ¼o wedÅ‚ug mnie. To irytujÄ…ce, robiÄ‡ kopiÄ™ tych wszystkich danych kaÅ¼dego dnia. Tak duÅ¼o informacji do zachowania, ale musi to byÄ‡ zrobione.}
+{401}{}{MogÄ™ to sobie wyobraziÄ‡. Mam jeszcze inne pytania.}
+{402}{}{JesteÅ›my niezaleÅ¼nÄ… spoÅ‚ecznoÅ›ciÄ…. KaÅ¼dy jest mile widziany, tak dÅ‚ugo jak siÄ™ zachowuje naleÅ¼ycie.}
+{403}{}{W porzÄ…dku.}
+{404}{}{Jest dobrym przywÃ³dcÄ…. TrochÄ™ zbzikowaÅ‚ po tym jak ta bestia zabiÅ‚a brata Thomasa.}
 {405}{}{Jakiego rodzaju bestia?}
-{406}{}{Osobiœcie jej nie widzia³em nic w œwiecie nie sk³oni³o by mnie do zejœcia do tych pieczar ale gdybym mia³ zgadywaæ, powiedzia³bym, ¿e najprawdopodobniej to przeroœniêty radskorpion.}
-{407}{}{Skoro go nie widzia³eœ, to dlaczego myœlisz, ¿e to radskorpion?}
-{408}{}{Dlatego, ¿e s³ysza³em dŸwiêki odbijaj¹ce siê echem z jaskini - dŸwiêk zatrzaskiwanych kleszczy i tupot wielu odnó¿y.}
-{409}{}{W porz¹dku.}
-{410}{}{W rzeczy samej mamy, zajrzyj do tego komputera ko³o mnie. Na zaszyfrowanych plikach u¿yj tej karty dostêpu. [Podaje ci kartê dostêpow¹.]}
-{411}{}{Kurde, dziêki!}
-{412}{}{Nic nie wiem o Krypcie 13, ale na po³udniu jest miasto Kryptopolis. Mo¿e oni maj¹ potrzebne ci informacje.}
-{413}{}{Dziêkujê.}
-{414}{}{Ten komputer powinien zawieraæ pewne informacje. Potrzebujesz karty dostêpu do niego. Nie dajemy ich byle komu, musisz porozmawiaæ z Opatem ¿eby dostaæ pozwolenie.}
-{415}{}{W porz¹dku, dziêki.}
-{420}{}{Domyœlam siê, ¿e przeczyta³eœ w swoim ¿yciu mnóstwo ksi¹¿ek. Ciekawe, co najbardziej fascynuj¹cego mo¿esz mi powiedzieæ?}
-{421}{}{Hmm, zobaczmy. Czy wiesz, ¿e ga³¹Ÿ drzewa pozostanie na tej samej wysokoœci mimo, ¿e drzewo uroœnie?}
-{422}{}{Jasne. Jeœli tylko trafiê na cokolwiek, na pewno dam ci znaæ.}
-{423}{}{W porz¹dku...Có¿, mam jeszcze inne pytania.}
-{424}{}{Poszukasz? By³bym wdziêczny.}
-{425}{}{Nie ma problemu. Mam wiêcej pytañ.}
+{406}{}{OsobiÅ›cie jej nie widziaÅ‚em nic w Å›wiecie nie skÅ‚oniÅ‚o by mnie do zejÅ›cia do tych pieczar ale gdybym miaÅ‚ zgadywaÄ‡, powiedziaÅ‚bym, Å¼e najprawdopodobniej to przeroÅ›niÄ™ty radskorpion.}
+{407}{}{Skoro go nie widziaÅ‚eÅ›, to dlaczego myÅ›lisz, Å¼e to radskorpion?}
+{408}{}{Dlatego, Å¼e sÅ‚yszaÅ‚em dÅºwiÄ™ki odbijajÄ…ce siÄ™ echem z jaskini - dÅºwiÄ™k zatrzaskiwanych kleszczy i tupot wielu odnÃ³Å¼y.}
+{409}{}{W porzÄ…dku.}
+{410}{}{W rzeczy samej mamy, zajrzyj do tego komputera koÅ‚o mnie. Na zaszyfrowanych plikach uÅ¼yj tej karty dostÄ™pu. [Podaje ci kartÄ™ dostÄ™powÄ….]}
+{411}{}{Kurde, dziÄ™ki!}
+{412}{}{Nic nie wiem o Krypcie 13, ale na poÅ‚udniu jest miasto Kryptopolis. MoÅ¼e oni majÄ… potrzebne ci informacje.}
+{413}{}{DziÄ™kujÄ™.}
+{414}{}{Ten komputer powinien zawieraÄ‡ pewne informacje. Potrzebujesz karty dostÄ™pu do niego. Nie dajemy ich byle komu, musisz porozmawiaÄ‡ z Opatem Å¼eby dostaÄ‡ pozwolenie.}
+{415}{}{W porzÄ…dku, dziÄ™ki.}
+{420}{}{DomyÅ›lam siÄ™, Å¼e przeczytaÅ‚eÅ› w swoim Å¼yciu mnÃ³stwo ksiÄ…Å¼ek. Ciekawe, co najbardziej fascynujÄ…cego moÅ¼esz mi powiedzieÄ‡?}
+{421}{}{Hmm, zobaczmy. Czy wiesz, Å¼e gaÅ‚Ä…Åº drzewa pozostanie na tej samej wysokoÅ›ci mimo, Å¼e drzewo uroÅ›nie?}
+{422}{}{Jasne. JeÅ›li tylko trafiÄ™ na cokolwiek, na pewno dam ci znaÄ‡.}
+{423}{}{W porzÄ…dku...CÃ³Å¼, mam jeszcze inne pytania.}
+{424}{}{Poszukasz? ByÅ‚bym wdziÄ™czny.}
+{425}{}{Nie ma problemu. Mam wiÄ™cej pytaÅ„.}
 {426}{}{Do zobaczenia.}
-{430}{}{Znalaz³em dane na temat Botaniki, które mog¹ ciê zainteresowaæ.}
-{431}{}{Naprawdê?! Œwietnie. Proszê, mów natychmiast.}
-{432}{}{Fascynuj¹ce! Wezmê ten holodysk i dodam te informacje do bazy danych. Doceniam to, ¿e uda³o ci siê znaleŸæ dla mnie te informacje. Dziêkujê za to.}
-{433}{}{Wiêc widzisz...Zrozumienie œrodowiska zag³ady i przyczyn wyginiêcia gatunków zale¿y od dok³adnego i precyzyjnego katalogowania roœlin, systematycznoœci i dok³adnoœci. A to oznacza, ¿e...}
-{434}{}{Nie ma sprawy. Mam jeszcze kilka pytañ.}
-{435}{}{¯aden problem. Do zobaczenia.}
-{436}{}{Fascynuj¹ce! Doceniam, ¿e uda³o ci siê poœwiêciæ trochê czasu na poszukiwania materia³ów dla mnie. Proszê skopiuj te dane do naszego komputera.}
-{437}{}{¯aden problem, zrobiê to. Do zobaczenia.}
-{500}{}{Przestañ, nie rób tego!}
-{550}{}{Ten komputer przy mnie powinien zawieraæ interesuj¹ce ciê informacje. Teraz ju¿ masz dostêp, wiêc mo¿esz to sprawdziæ.}
-{600}{}{Opat udzieli³ mi pozwolenia, na korzystanie z tutejszych komputerów.}
-{601}{}{A tak, tak. S³ysza³em o twoich wyczynach. Dziêkujê za rozwi¹zanie tego problemu. Proszê, to klucz dostêpu. [Podaje ci klucz.] Powodzenia!}
-{602}{}{Dziêkujê, do zobaczenia.}
-{650}{}{Witaj! Jestem Brat Paul i jestem zarz¹dc¹ zbiorów informacji tu w Opactwie. Co mogê dla ciebie zrobiæ?}
-{651}{}{Mi³o ciê poznaæ Paul. Mam parê pytañ.}
-{652}{}{Niewa¿ne. Do zobaczenia.}
-{4210}{}{Yyy, nie, jakoœ mi to umknê³o. To... interesuj¹ce.}
-{4211}{}{A czy wiesz, ¿e ogórek sk³ada siê w 96% z wody?}
-{4212}{}{Ja, 96%, naprawdê? Fascynuj¹ce. Ale, eee, co to jest ogórek?}
-{4213}{}{Nigdy ¿adnego nie widzia³em, ale czyta³em o nich. [Rozgl¹da siê naoko³o i œcisza g³os.] Ja wiem, ¿e
- w³aœciwie nie powinienem studiowaæ tych ksi¹¿ek, ale kiedy przepisywa³em ksi¹¿kê o botanice, po prostu nie mog³em siê powstrzymaæ,
- to taka wci¹gaj¹ca lektura. Œwiat roœlin jest taki porywaj¹cy. Jeœli podró¿uj¹c trafisz na jakieœ informacje z dziedziny botaniki, proszê przynieœ mi je? Bêdê bardzo wdziêczny. Oczywiœcie, to musi pozostaæ nasz¹ tajemnic¹.}
-{4220}{}{Myœlê, ¿e nie przy³o¿ê rêki to twojej obsesji na punkcie roœlin. Przepraszam.}
-{4221}{}{Trudno. Niech tak bêdzie, zapomnij, ¿e prosi³em.}
-{4222}{}{Pozwól, ¿e zapytam o coœ innego.}
+{430}{}{ZnalazÅ‚em dane na temat Botaniki, ktÃ³re mogÄ… ciÄ™ zainteresowaÄ‡.}
+{431}{}{NaprawdÄ™?! Åšwietnie. ProszÄ™, mÃ³w natychmiast.}
+{432}{}{FascynujÄ…ce! WezmÄ™ ten holodysk i dodam te informacje do bazy danych. Doceniam to, Å¼e udaÅ‚o ci siÄ™ znaleÅºÄ‡ dla mnie te informacje. DziÄ™kujÄ™ za to.}
+{433}{}{WiÄ™c widzisz...Zrozumienie Å›rodowiska zagÅ‚ady i przyczyn wyginiÄ™cia gatunkÃ³w zaleÅ¼y od dokÅ‚adnego i precyzyjnego katalogowania roÅ›lin, systematycznoÅ›ci i dokÅ‚adnoÅ›ci. A to oznacza, Å¼e...}
+{434}{}{Nie ma sprawy. Mam jeszcze kilka pytaÅ„.}
+{435}{}{Å»aden problem. Do zobaczenia.}
+{436}{}{FascynujÄ…ce! Doceniam, Å¼e udaÅ‚o ci siÄ™ poÅ›wiÄ™ciÄ‡ trochÄ™ czasu na poszukiwania materiaÅ‚Ã³w dla mnie. ProszÄ™ skopiuj te dane do naszego komputera.}
+{437}{}{Å»aden problem, zrobiÄ™ to. Do zobaczenia.}
+{500}{}{PrzestaÅ„, nie rÃ³b tego!}
+{550}{}{Ten komputer przy mnie powinien zawieraÄ‡ interesujÄ…ce ciÄ™ informacje. Teraz juÅ¼ masz dostÄ™p, wiÄ™c moÅ¼esz to sprawdziÄ‡.}
+{600}{}{Opat udzieliÅ‚ mi pozwolenia, na korzystanie z tutejszych komputerÃ³w.}
+{601}{}{A tak, tak. SÅ‚yszaÅ‚em o twoich wyczynach. DziÄ™kujÄ™ za rozwiÄ…zanie tego problemu. ProszÄ™, to klucz dostÄ™pu. [Podaje ci klucz.] Powodzenia!}
+{602}{}{DziÄ™kujÄ™, do zobaczenia.}
+{650}{}{Witaj! Jestem Brat Paul i jestem zarzÄ…dcÄ… zbiorÃ³w informacji tu w Opactwie. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{651}{}{MiÅ‚o ciÄ™ poznaÄ‡ Paul. Mam parÄ™ pytaÅ„.}
+{652}{}{NiewaÅ¼ne. Do zobaczenia.}
+{4210}{}{Yyy, nie, jakoÅ› mi to umknÄ™Å‚o. To... interesujÄ…ce.}
+{4211}{}{A czy wiesz, Å¼e ogÃ³rek skÅ‚ada siÄ™ w 96% z wody?}
+{4212}{}{Ja, 96%, naprawdÄ™? FascynujÄ…ce. Ale, eee, co to jest ogÃ³rek?}
+{4213}{}{Nigdy Å¼adnego nie widziaÅ‚em, ale czytaÅ‚em o nich. [RozglÄ…da siÄ™ naokoÅ‚o i Å›cisza gÅ‚os.] Ja wiem, Å¼e
+ wÅ‚aÅ›ciwie nie powinienem studiowaÄ‡ tych ksiÄ…Å¼ek, ale kiedy przepisywaÅ‚em ksiÄ…Å¼kÄ™ o botanice, po prostu nie mogÅ‚em siÄ™ powstrzymaÄ‡,
+ to taka wciÄ…gajÄ…ca lektura. Åšwiat roÅ›lin jest taki porywajÄ…cy. JeÅ›li podrÃ³Å¼ujÄ…c trafisz na jakieÅ› informacje z dziedziny botaniki, proszÄ™ przynieÅ› mi je? BÄ™dÄ™ bardzo wdziÄ™czny. OczywiÅ›cie, to musi pozostaÄ‡ naszÄ… tajemnicÄ….}
+{4220}{}{MyÅ›lÄ™, Å¼e nie przyÅ‚oÅ¼Ä™ rÄ™ki to twojej obsesji na punkcie roÅ›lin. Przepraszam.}
+{4221}{}{Trudno. Niech tak bÄ™dzie, zapomnij, Å¼e prosiÅ‚em.}
+{4222}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}

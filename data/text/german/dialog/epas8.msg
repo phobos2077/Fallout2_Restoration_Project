@@ -1,2 +1,2 @@
-{100}{}{Ich könnte wetten, dass ich durch diese Entlüftung passe. Sie sieht sehr verschlissen aus und
- lässt sich wahrscheinlich einfacher lahm legen, als die Anderen.}
+{100}{}{Ich kÃ¶nnte wetten, dass ich durch diese EntlÃ¼ftung passe. Sie sieht sehr verschlissen aus und
+ lÃ¤sst sich wahrscheinlich einfacher lahm legen, als die Anderen.}

@@ -1,213 +1,213 @@
-{100}{}{? a Wrighték egyik gyermeke.}
-{150}{}{Egy apró, fekete hajú gyerek áll el?tted, fején edénnyel. Mutatóujjával egy elképzelt Enklávé ügynököt céloz meg és lövöldöz.}
-{151}{}{Fején edénnyel itt áll az egyik Wright gyerek.}
-{152}{}{Egy apró, fekete hajú gyerek áll el?tted, fején edénnyel. Mutatóujjával egy elképzelt Enklávé ügynököt céloz meg és Lövöldöz.}
-{200}{}{Egy apró, fekete hajú gyerek áll el?tted, fején edénnyel. }
-{201}{}{Egy apró, fekete hajú gyerek áll el?tted, fején edénnyel. Döngicsél? hangokat ad ki magából.}
-{210}{}{Ide nézz, én vagyok a Menedéklakó leszármazottja! Dicsértessék a Menedék!}
-{211}{}{Folytatni akarom a küldetést, amivel a 13-as Menedék bízott meg!}
-{212}{}{Bam-bam! Meghaltok, Enklávés gyökerek!}
-{213}{}{Vigyázz, itt jön az Enklávé!}
-{214}{}{Paff! Paff! Ezt kapjátok ki, Enklávés tuskók!}
-{215}{}{Nem ér, mindig te vagy Menedéklakó!}
-{216}{}{Mindenkit meg akarsz ölni a vírussal, mi? Na, ezt kapd ki, Elnök úr!}
-{217}{}{Ezt kapd ki, Elnök úr!}
-{218}{}{A következ? játékban én akarok lenni a Menedéklakó!}
-{219}{}{A-a! Mellé ment, Elnök-bérenc!}
+{100}{}{? a WrightÃ©k egyik gyermeke.}
+{150}{}{Egy aprÃ³, fekete hajÃº gyerek Ã¡ll el?tted, fejÃ©n edÃ©nnyel. MutatÃ³ujjÃ¡val egy elkÃ©pzelt EnklÃ¡vÃ© Ã¼gynÃ¶kÃ¶t cÃ©loz meg Ã©s lÃ¶vÃ¶ldÃ¶z.}
+{151}{}{FejÃ©n edÃ©nnyel itt Ã¡ll az egyik Wright gyerek.}
+{152}{}{Egy aprÃ³, fekete hajÃº gyerek Ã¡ll el?tted, fejÃ©n edÃ©nnyel. MutatÃ³ujjÃ¡val egy elkÃ©pzelt EnklÃ¡vÃ© Ã¼gynÃ¶kÃ¶t cÃ©loz meg Ã©s LÃ¶vÃ¶ldÃ¶z.}
+{200}{}{Egy aprÃ³, fekete hajÃº gyerek Ã¡ll el?tted, fejÃ©n edÃ©nnyel. }
+{201}{}{Egy aprÃ³, fekete hajÃº gyerek Ã¡ll el?tted, fejÃ©n edÃ©nnyel. DÃ¶ngicsÃ©l? hangokat ad ki magÃ¡bÃ³l.}
+{210}{}{Ide nÃ©zz, Ã©n vagyok a MenedÃ©klakÃ³ leszÃ¡rmazottja! DicsÃ©rtessÃ©k a MenedÃ©k!}
+{211}{}{Folytatni akarom a kÃ¼ldetÃ©st, amivel a 13-as MenedÃ©k bÃ­zott meg!}
+{212}{}{Bam-bam! Meghaltok, EnklÃ¡vÃ©s gyÃ¶kerek!}
+{213}{}{VigyÃ¡zz, itt jÃ¶n az EnklÃ¡vÃ©!}
+{214}{}{Paff! Paff! Ezt kapjÃ¡tok ki, EnklÃ¡vÃ©s tuskÃ³k!}
+{215}{}{Nem Ã©r, mindig te vagy MenedÃ©klakÃ³!}
+{216}{}{Mindenkit meg akarsz Ã¶lni a vÃ­russal, mi? Na, ezt kapd ki, ElnÃ¶k Ãºr!}
+{217}{}{Ezt kapd ki, ElnÃ¶k Ãºr!}
+{218}{}{A kÃ¶vetkez? jÃ¡tÃ©kban Ã©n akarok lenni a MenedÃ©klakÃ³!}
+{219}{}{A-a! MellÃ© ment, ElnÃ¶k-bÃ©renc!}
 {220}{}{Elkaptalak! Elkaptalak!}
-{221}{}{Felrobbantottam az Enklávét! Bummmmm!}
+{221}{}{Felrobbantottam az EnklÃ¡vÃ©t! Bummmmm!}
 {222}{}{Siessetek! Mindenki a tankerhez!}
-{223}{}{Ezt kapjátok ki, Enklávés baromarcok!}
-{224}{}{Megdöglesz, Enklávé-bérenc!}
-{225}{}{Az Enklávés farokrágók megkóstolhatják a pisztolyomat!}
-{226}{}{Mivel rajtam volt a Meger?sített Er?páncél, lepattant a golyó!}
-{227}{}{Meghalsz, Enklávés!}
-{228}{}{Aiiijjjjjjjjjjjjjj... Eltaláltak...}
-{240}{}{Ide nézz, nagy fémbogár vagyok! Bzzzzz...}
+{223}{}{Ezt kapjÃ¡tok ki, EnklÃ¡vÃ©s baromarcok!}
+{224}{}{MegdÃ¶glesz, EnklÃ¡vÃ©-bÃ©renc!}
+{225}{}{Az EnklÃ¡vÃ©s farokrÃ¡gÃ³k megkÃ³stolhatjÃ¡k a pisztolyomat!}
+{226}{}{Mivel rajtam volt a Meger?sÃ­tett Er?pÃ¡ncÃ©l, lepattant a golyÃ³!}
+{227}{}{Meghalsz, EnklÃ¡vÃ©s!}
+{228}{}{Aiiijjjjjjjjjjjjjj... EltalÃ¡ltak...}
+{240}{}{Ide nÃ©zz, nagy fÃ©mbogÃ¡r vagyok! Bzzzzz...}
 {241}{}{Bamm, bamm!}
-{242}{}{Vigyázz, itt jön a fémbogár!}
+{242}{}{VigyÃ¡zz, itt jÃ¶n a fÃ©mbogÃ¡r!}
 {243}{}{Ezt kapd ki!}
-{244}{}{Nem ér, mindig te vagy a fémbogár!}
+{244}{}{Nem Ã©r, mindig te vagy a fÃ©mbogÃ¡r!}
 {245}{}{Bang, bang!}
-{246}{}{A következ? játékban én akarok lenni a fémbogár!}
-{247}{}{Nem nyert! Elvétettél!}
+{246}{}{A kÃ¶vetkez? jÃ¡tÃ©kban Ã©n akarok lenni a fÃ©mbogÃ¡r!}
+{247}{}{Nem nyert! ElvÃ©tettÃ©l!}
 {248}{}{Elkaptalak! Elkaptalak!}
 {249}{}{Bzzzzzzz}
-{250}{}{Megöltelek, mint egy kutyát!}
+{250}{}{MegÃ¶ltelek, mint egy kutyÃ¡t!}
 {251}{}{Zuuuuuummmmm}
-{252}{}{Az a farokrágó megízleli a pisztolyom ízét!}
+{252}{}{Az a farokrÃ¡gÃ³ megÃ­zleli a pisztolyom Ã­zÃ©t!}
 {253}{}{Fenn volt az er?terem!}
-{254}{}{Meghalsz, Salvatore-bérenc!}
-{255}{}{Aiiijjjjjjjjjjjjjj... Eltaláltak...}
-{270}{}{Hiányzik Dogmeat a Fallout 1-b?l.}
-{271}{}{Szerinted lesz Fallout 3? Mindenképpen én akarok lenni a f?h?s benne.}
-{272}{}{A Fallout 2-t a Z bet?nek köszönhetjük.}
-{273}{}{Az Enklávé kinyalhatja a kis hét éves seggem! Köcsögök!}
-{274}{}{Az Enklávésok aztán jó nagy baromarcúak, mi? Francba.}
-{275}{}{Féltél, amikor találkoztál az Elnökkel? Voltak nagy agyarai meg karmai?}
-{276}{}{Bárcsak segíthettem volna megsemmisíteni az Enklávét. Én aztán... nem féltem volna. Nem ám...}
-{277}{}{Hé! }
+{254}{}{Meghalsz, Salvatore-bÃ©renc!}
+{255}{}{Aiiijjjjjjjjjjjjjj... EltalÃ¡ltak...}
+{270}{}{HiÃ¡nyzik Dogmeat a Fallout 1-b?l.}
+{271}{}{Szerinted lesz Fallout 3? MindenkÃ©ppen Ã©n akarok lenni a f?h?s benne.}
+{272}{}{A Fallout 2-t a Z bet?nek kÃ¶szÃ¶nhetjÃ¼k.}
+{273}{}{Az EnklÃ¡vÃ© kinyalhatja a kis hÃ©t Ã©ves seggem! KÃ¶csÃ¶gÃ¶k!}
+{274}{}{Az EnklÃ¡vÃ©sok aztÃ¡n jÃ³ nagy baromarcÃºak, mi? Francba.}
+{275}{}{FÃ©ltÃ©l, amikor talÃ¡lkoztÃ¡l az ElnÃ¶kkel? Voltak nagy agyarai meg karmai?}
+{276}{}{BÃ¡rcsak segÃ­thettem volna megsemmisÃ­teni az EnklÃ¡vÃ©t. Ã‰n aztÃ¡n... nem fÃ©ltem volna. Nem Ã¡m...}
+{277}{}{HÃ©! }
 {278}{}{}
-{279}{}{Kösz, hogy megmentettél minket, }
-{280}{}{Ha felnövök, én is meg akarom menteni a világot, akárcsak te.}
-{281}{}{Ha felnövök, én is lehetek olyan h?s, mint te?}
-{282}{}{A példaképem }
-{300}{}{Aiiiijjjjj! Itt az egyik fémember! Fussunk!}
-{301}{}{Itt az egyik fémember! Ránktaláltak! Futás!}
-{302}{}{Bocsánat! Bocsánat! Kérlek, ne küldd ránk a fémbogaradat!}
-{310}{}{Jobban teszed, ha elfutsz, miel?tt apu észrevesz.}
-{311}{}{Jobban teszed, ha elfutsz, miel?tt a testvéreim észrevesznek.}
-{312}{}{Rossz ember vagy. Jobban teszed, ha elmész, miel?tt beköplek.}
-{320}{}{(A gyerek abbahagyja a zümmögést és levéve az edényt a fejér?l rádnéz.)}
+{279}{}{KÃ¶sz, hogy megmentettÃ©l minket, }
+{280}{}{Ha felnÃ¶vÃ¶k, Ã©n is meg akarom menteni a vilÃ¡got, akÃ¡rcsak te.}
+{281}{}{Ha felnÃ¶vÃ¶k, Ã©n is lehetek olyan h?s, mint te?}
+{282}{}{A pÃ©ldakÃ©pem }
+{300}{}{Aiiiijjjjj! Itt az egyik fÃ©member! Fussunk!}
+{301}{}{Itt az egyik fÃ©member! RÃ¡nktalÃ¡ltak! FutÃ¡s!}
+{302}{}{BocsÃ¡nat! BocsÃ¡nat! KÃ©rlek, ne kÃ¼ldd rÃ¡nk a fÃ©mbogaradat!}
+{310}{}{Jobban teszed, ha elfutsz, miel?tt apu Ã©szrevesz.}
+{311}{}{Jobban teszed, ha elfutsz, miel?tt a testvÃ©reim Ã©szrevesznek.}
+{312}{}{Rossz ember vagy. Jobban teszed, ha elmÃ©sz, miel?tt bekÃ¶plek.}
+{320}{}{(A gyerek abbahagyja a zÃ¼mmÃ¶gÃ©st Ã©s levÃ©ve az edÃ©nyt a fejÃ©r?l rÃ¡dnÃ©z.)}
 {321}{}{Can }
-{322}{}{Bocsesz. Aszittem, te egy edény vagy... Csáááá...}
-{323}{}{Miért van edény a fejeden?}
-{324}{}{Mit játszol?}
-{325}{}{Hol vannak a szüleid?}
-{326}{}{(Hagyod tovább játszani.)}
-{330}{}{Hát.. rendben van. (Végigmér.) De a következ? menetben ÉN vagyok a fémbogár!}
-{331}{}{Oki doki kicsi méhike}
-{332}{}{ aszongya jól van.}
-{333}{}{Miféle bognár?}
+{322}{}{Bocsesz. Aszittem, te egy edÃ©ny vagy... CsÃ¡Ã¡Ã¡Ã¡...}
+{323}{}{MiÃ©rt van edÃ©ny a fejeden?}
+{324}{}{Mit jÃ¡tszol?}
+{325}{}{Hol vannak a szÃ¼leid?}
+{326}{}{(Hagyod tovÃ¡bb jÃ¡tszani.)}
+{330}{}{HÃ¡t.. rendben van. (VÃ©gigmÃ©r.) De a kÃ¶vetkez? menetben Ã‰N vagyok a fÃ©mbogÃ¡r!}
+{331}{}{Oki doki kicsi mÃ©hike}
+{332}{}{ aszongya jÃ³l van.}
+{333}{}{MifÃ©le bognÃ¡r?}
 {334}{}{Nem! }
-{335}{}{Óóóó... mi ez itt?}
-{340}{}{(A kis ember újra a fejébe húzza az edényt, és folytatja a zümmögést.)}
-{341}{}{Egy ideig közösen zümmögve rohangáltok körbe.}
+{335}{}{Ã“Ã³Ã³Ã³... mi ez itt?}
+{340}{}{(A kis ember Ãºjra a fejÃ©be hÃºzza az edÃ©nyt, Ã©s folytatja a zÃ¼mmÃ¶gÃ©st.)}
+{341}{}{Egy ideig kÃ¶zÃ¶sen zÃ¼mmÃ¶gve rohangÃ¡ltok kÃ¶rbe.}
 {342}{}{[Elcsoszogsz]}
-{343}{}{(Távozol.)}
-{350}{}{BOGÁR, te hülye! Láttunk egyet, amikor kinn voltunk a sivatagban! Akkora volt, mint egy... (Mély leveg?t vesz.) ...mint egy ház! És egy rakás VASEMBER volt benne.}
+{343}{}{(TÃ¡vozol.)}
+{350}{}{BOGÃR, te hÃ¼lye! LÃ¡ttunk egyet, amikor kinn voltunk a sivatagban! Akkora volt, mint egy... (MÃ©ly leveg?t vesz.) ...mint egy hÃ¡z! Ã‰s egy rakÃ¡s VASEMBER volt benne.}
 {351}{}{[Ingatod a fejed]}
-{352}{}{Ne hívjá' hüje}
-{353}{}{Ne kiabájjá!}
+{352}{}{Ne hÃ­vjÃ¡' hÃ¼je}
+{353}{}{Ne kiabÃ¡jjÃ¡!}
 {354}{}{Te hazudol }
-{355}{}{ megölt sok kis hangos emberke mint te... lehet te lenni következ??}
+{355}{}{ megÃ¶lt sok kis hangos emberke mint te... lehet te lenni kÃ¶vetkez??}
 {356}{}{[Wander off.]}
-{360}{}{Öh-höh. Mi láttuk.}
-{362}{}{Öh-öh-öh-öh.}
-{363}{}{Höh-höh-höh-höh.}
-{364}{}{Otthagyod és valaki másnak mondogatod, hogy "öhhh".}
-{370}{}{Öh-höh! Megmutatom! Ha rendesen besötétedik, egy páran oda fogunk menni. }
-{371}{}{Öh-höh! Megmutatom! Ma éjszaka egy páran odamegyünk. }
-{372}{}{Akarsz jönni? (A kis ember rádsandít.) De aztán nagyon csendben kell ám lenned. Naaaagyon.}
+{360}{}{Ã–h-hÃ¶h. Mi lÃ¡ttuk.}
+{362}{}{Ã–h-Ã¶h-Ã¶h-Ã¶h.}
+{363}{}{HÃ¶h-hÃ¶h-hÃ¶h-hÃ¶h.}
+{364}{}{Otthagyod Ã©s valaki mÃ¡snak mondogatod, hogy "Ã¶hhh".}
+{370}{}{Ã–h-hÃ¶h! Megmutatom! Ha rendesen besÃ¶tÃ©tedik, egy pÃ¡ran oda fogunk menni. }
+{371}{}{Ã–h-hÃ¶h! Megmutatom! Ma Ã©jszaka egy pÃ¡ran odamegyÃ¼nk. }
+{372}{}{Akarsz jÃ¶nni? (A kis ember rÃ¡dsandÃ­t.) De aztÃ¡n nagyon csendben kell Ã¡m lenned. Naaaagyon.}
 {373}{}{Okee-dokee [Follow him.]}
-{374}{}{Oki-doki, én megyek teutá... óóóóóó, az mi ottan?}
-{380}{}{Nem tetszel nekem. Egy nagy hülyegyerek vagy! (Rádölti a nyelvét.) T?nj innen, hülyegyerek!}
-{381}{}{NE NEVEZZÉ' HÜLYE! TE LENNI HÜLYE! TE LENNI HÜLYE!}
-{382}{}{Ne kiabájjá'! Ne kiabájjá' }
-{383}{}{Elfojtod a könnyeidet és elfutsz}
-{384}{}{Rendben... most az egyszer. Aztán vigyázz a Jettel, kiskölyök!}
-{390}{}{(Rádsandít.) Olyan hangot adsz, mint a papa meg a mama, amikor ágyba bújnak.}
-{391}{}{Hol látod bognár? Én is akarom}
-{400}{}{Én nem hazudok, hülyegyerek! Ha rendesen besötétedik, egy páran oda fogunk menni. }
-{401}{}{Én nem hazudok, hülyegyerek! Ma éjszaka egy páran odamegyünk. }
-{403}{}{Nem nevezni engem hülye, HÜLYE}
+{374}{}{Oki-doki, Ã©n megyek teutÃ¡... Ã³Ã³Ã³Ã³Ã³Ã³, az mi ottan?}
+{380}{}{Nem tetszel nekem. Egy nagy hÃ¼lyegyerek vagy! (RÃ¡dÃ¶lti a nyelvÃ©t.) T?nj innen, hÃ¼lyegyerek!}
+{381}{}{NE NEVEZZÃ‰' HÃœLYE! TE LENNI HÃœLYE! TE LENNI HÃœLYE!}
+{382}{}{Ne kiabÃ¡jjÃ¡'! Ne kiabÃ¡jjÃ¡' }
+{383}{}{Elfojtod a kÃ¶nnyeidet Ã©s elfutsz}
+{384}{}{Rendben... most az egyszer. AztÃ¡n vigyÃ¡zz a Jettel, kiskÃ¶lyÃ¶k!}
+{390}{}{(RÃ¡dsandÃ­t.) Olyan hangot adsz, mint a papa meg a mama, amikor Ã¡gyba bÃºjnak.}
+{391}{}{Hol lÃ¡tod bognÃ¡r? Ã‰n is akarom}
+{400}{}{Ã‰n nem hazudok, hÃ¼lyegyerek! Ha rendesen besÃ¶tÃ©tedik, egy pÃ¡ran oda fogunk menni. }
+{401}{}{Ã‰n nem hazudok, hÃ¼lyegyerek! Ma Ã©jszaka egy pÃ¡ran odamegyÃ¼nk. }
+{403}{}{Nem nevezni engem hÃ¼lye, HÃœLYE}
 {404}{}{Uh-huh [Follow him.]}
-{405}{}{Oki-doki, én jövök teutá... óóóóóó, az mi ottan?}
-{410}{}{Ha rendesen besötétedik, egy páran odamegyünk. }
-{411}{}{Éjszaka egy páran oda fogunk menni. }
-{412}{}{Akarsz jönni? (Rádsandít.) De aztán nagyon csendben kell ám lenned. Naaaagyon!}
-{420}{}{Ez nem edény, HÜLYEGYEREK! Ez a sisakom!}
-{421}{}{Elnézést, te félelmetes, sisakot visel? harcos!}
-{422}{}{Na, idefigyelj, kis szaros, ha még egyszer HÜLYEGYEREKNEK nevezel, megnézzük, hogy a "sisakod" mennyire véd meg egy tátongó fejsérülést?l.}
+{405}{}{Oki-doki, Ã©n jÃ¶vÃ¶k teutÃ¡... Ã³Ã³Ã³Ã³Ã³Ã³, az mi ottan?}
+{410}{}{Ha rendesen besÃ¶tÃ©tedik, egy pÃ¡ran odamegyÃ¼nk. }
+{411}{}{Ã‰jszaka egy pÃ¡ran oda fogunk menni. }
+{412}{}{Akarsz jÃ¶nni? (RÃ¡dsandÃ­t.) De aztÃ¡n nagyon csendben kell Ã¡m lenned. Naaaagyon!}
+{420}{}{Ez nem edÃ©ny, HÃœLYEGYEREK! Ez a sisakom!}
+{421}{}{ElnÃ©zÃ©st, te fÃ©lelmetes, sisakot visel? harcos!}
+{422}{}{Na, idefigyelj, kis szaros, ha mÃ©g egyszer HÃœLYEGYEREKNEK nevezel, megnÃ©zzÃ¼k, hogy a "sisakod" mennyire vÃ©d meg egy tÃ¡tongÃ³ fejsÃ©rÃ¼lÃ©st?l.}
 {423}{}{[Let him play with his 'helmet.']}
-{430}{}{(Gyanakodva bámul rád.) Mit akarsz?}
-{432}{}{Csak azt akartam tudni, miféle játékot játszol? Eléggé tetszik!}
-{433}{}{Ööö... hol vannak a szüleid?}
+{430}{}{(Gyanakodva bÃ¡mul rÃ¡d.) Mit akarsz?}
+{432}{}{Csak azt akartam tudni, mifÃ©le jÃ¡tÃ©kot jÃ¡tszol? ElÃ©ggÃ© tetszik!}
+{433}{}{Ã–Ã¶Ã¶... hol vannak a szÃ¼leid?}
 {434}{}{Semmi.}
-{440}{}{(A kis ember elfehéredik, hátralép egyet, aztán sarkonfordul és torkaszakadtából üvöltve elrohan.)}
-{441}{}{(A kölyök elfehéredik, hátralép egyet, aztán sarkonfordul és torkaszakadtából üvöltve elrohan.)}
-{442}{}{Hihi... fussá', kis ember! FUSSÁ'!}
-{443}{}{Kis pondró...}
-{450}{}{Az a neve, hogy "fémbogarak és katonák". }
-{451}{}{(Ránéz a felszerelésedre és észreveszi az egyik pisztolyodat.) Játszhatok a fegyvereddel?}
-{452}{}{Nem, nem... túl veszélyes az ilyesmi, kisfiam!}
-{453}{}{Hogyisne! Még kilövöd nekem a szemed!}
-{454}{}{Hát persze, hogy játszhatsz, kis edényfej? barátom. Tessék. (Átadod neki a megtöltetlen pisztolyodat.)}
-{455}{}{Hát persze, hogy játszhatsz, kis edényfej? barátom. Tessék. (Átadod neki a megtöltött pisztolyodat.)}
-{456}{}{"Fémbogarak?"}
-{457}{}{Ah, oké. Csak kíváncsiskodtam.}
+{440}{}{(A kis ember elfehÃ©redik, hÃ¡tralÃ©p egyet, aztÃ¡n sarkonfordul Ã©s torkaszakadtÃ¡bÃ³l Ã¼vÃ¶ltve elrohan.)}
+{441}{}{(A kÃ¶lyÃ¶k elfehÃ©redik, hÃ¡tralÃ©p egyet, aztÃ¡n sarkonfordul Ã©s torkaszakadtÃ¡bÃ³l Ã¼vÃ¶ltve elrohan.)}
+{442}{}{Hihi... fussÃ¡', kis ember! FUSSÃ'!}
+{443}{}{Kis pondrÃ³...}
+{450}{}{Az a neve, hogy "fÃ©mbogarak Ã©s katonÃ¡k". }
+{451}{}{(RÃ¡nÃ©z a felszerelÃ©sedre Ã©s Ã©szreveszi az egyik pisztolyodat.) JÃ¡tszhatok a fegyvereddel?}
+{452}{}{Nem, nem... tÃºl veszÃ©lyes az ilyesmi, kisfiam!}
+{453}{}{Hogyisne! MÃ©g kilÃ¶vÃ¶d nekem a szemed!}
+{454}{}{HÃ¡t persze, hogy jÃ¡tszhatsz, kis edÃ©nyfej? barÃ¡tom. TessÃ©k. (Ãtadod neki a megtÃ¶ltetlen pisztolyodat.)}
+{455}{}{HÃ¡t persze, hogy jÃ¡tszhatsz, kis edÃ©nyfej? barÃ¡tom. TessÃ©k. (Ãtadod neki a megtÃ¶ltÃ¶tt pisztolyodat.)}
+{456}{}{"FÃ©mbogarak?"}
+{457}{}{Ah, okÃ©. Csak kÃ­vÃ¡ncsiskodtam.}
 {458}{}{Neeeeeem... asszem, jobb, ha megyek.}
-{470}{}{(Rádbámul.) Ugyan, tudom én, hogy kell bánni az ilyesmivel! Wright gyerek vagyok én! Muti már meg! Léééégysziiii!}
-{471}{}{Figyelj rám: Ha egy pisztoly rossz kezekbe kerül, halálos fegyverré válik. Az a helyzet, hogy mindig halálos, de rossz kezekben... ööö... halálos... na, hadd kezdjem elölr?l.}
-{472}{}{Figyelj, ha a családod rádbízna egy fegyvert, akkor bizonyára adna is egyet. Verd ki a fejedb?l!}
-{473}{}{T?lem akár a legelborultabb család tagja is lehetsz, akkor sem kapod meg a fegyveremet!}
+{470}{}{(RÃ¡dbÃ¡mul.) Ugyan, tudom Ã©n, hogy kell bÃ¡nni az ilyesmivel! Wright gyerek vagyok Ã©n! Muti mÃ¡r meg! LÃ©Ã©Ã©Ã©gysziiii!}
+{471}{}{Figyelj rÃ¡m: Ha egy pisztoly rossz kezekbe kerÃ¼l, halÃ¡los fegyverrÃ© vÃ¡lik. Az a helyzet, hogy mindig halÃ¡los, de rossz kezekben... Ã¶Ã¶Ã¶... halÃ¡los... na, hadd kezdjem elÃ¶lr?l.}
+{472}{}{Figyelj, ha a csalÃ¡dod rÃ¡dbÃ­zna egy fegyvert, akkor bizonyÃ¡ra adna is egyet. Verd ki a fejedb?l!}
+{473}{}{T?lem akÃ¡r a legelborultabb csalÃ¡d tagja is lehetsz, akkor sem kapod meg a fegyveremet!}
 {474}{}{Well, all right. [Give him an unloaded pistol.]}
 {475}{}{Well, all right. [Give him a loaded pistol.]}
-{476}{}{Verd ki a fejedb?l! Eridj azt' játssz a barátaiddal!}
-{485}{}{Bizony, fémbogarak! Mi is láttunk egyet, amikor kinn voltunk a sivatagban! Akkora volt, mint egy... (Mély leveg?t vesz.) ...mint egy ház! És egy rakás VASEMBER volt benne.}
-{486}{}{Tényleg? Azta! És hol láttad?}
+{476}{}{Verd ki a fejedb?l! Eridj azt' jÃ¡tssz a barÃ¡taiddal!}
+{485}{}{Bizony, fÃ©mbogarak! Mi is lÃ¡ttunk egyet, amikor kinn voltunk a sivatagban! Akkora volt, mint egy... (MÃ©ly leveg?t vesz.) ...mint egy hÃ¡z! Ã‰s egy rakÃ¡s VASEMBER volt benne.}
+{486}{}{TÃ©nyleg? Azta! Ã‰s hol lÃ¡ttad?}
 {487}{}{Hazudsz!}
-{488}{}{Nem hiszek neked. Te át akarsz verni!}
-{489}{}{Óvatosan a Jettel, kölyök! Az a vacak kinyírhat. Na, szia!}
-{490}{}{Tényleg? Nem semmi! Lehet, hogy én is kimegyek majd, és megnézem. Szia.}
-{500}{}{A sivatagban. (Gyanakodva néz rád.) Szerintem már rég nincs ott.}
-{501}{}{Egész biztos vagy benne, hogy nem akarnád megmutatni, hol láttad?}
-{502}{}{Amúgy megmutatnád nekem, hol láttad?}
-{503}{}{Ah, értem. Akkor most érzékeny búcsút veszünk.}
-{510}{}{A sivatagban. (Körbepillant, aztán suttogva folytatja.) Ha rendesen besötétedik, egy páran oda fogunk menni. }
-{511}{}{A sivatagban. (Körbepillant, aztán suttogva folytatja.) Ma éjszaka egy páran odamegyünk. }
+{488}{}{Nem hiszek neked. Te Ã¡t akarsz verni!}
+{489}{}{Ã“vatosan a Jettel, kÃ¶lyÃ¶k! Az a vacak kinyÃ­rhat. Na, szia!}
+{490}{}{TÃ©nyleg? Nem semmi! Lehet, hogy Ã©n is kimegyek majd, Ã©s megnÃ©zem. Szia.}
+{500}{}{A sivatagban. (Gyanakodva nÃ©z rÃ¡d.) Szerintem mÃ¡r rÃ©g nincs ott.}
+{501}{}{EgÃ©sz biztos vagy benne, hogy nem akarnÃ¡d megmutatni, hol lÃ¡ttad?}
+{502}{}{AmÃºgy megmutatnÃ¡d nekem, hol lÃ¡ttad?}
+{503}{}{Ah, Ã©rtem. Akkor most Ã©rzÃ©keny bÃºcsÃºt veszÃ¼nk.}
+{510}{}{A sivatagban. (KÃ¶rbepillant, aztÃ¡n suttogva folytatja.) Ha rendesen besÃ¶tÃ©tedik, egy pÃ¡ran oda fogunk menni. }
+{511}{}{A sivatagban. (KÃ¶rbepillant, aztÃ¡n suttogva folytatja.) Ma Ã©jszaka egy pÃ¡ran odamegyÃ¼nk. }
 {513}{}{Ha beindulok, sosem vagyok csendes. Persze most az egyszer...}
 {514}{}{Csendben maradok. Vezess, MacDuff!}
-{515}{}{Hát nem hinném, hogy valaha is újra látod azt a "fémbogarat". Az ugyanis egy helikopter.}
-{516}{}{Ma este nem jó, köszi. Holnap kora reggel.}
-{530}{}{Mi? (Összevonja a szemöldökét és megigazítja a fején lév? edényt.) Mi az a helló-kopter?}
-{531}{}{Az egy... repül? gépezet. Embereket meg rakományt lehet belepakolni.}
-{532}{}{A helikopter egy... azt hiszem, a legközelebbi asszociáció számodra egy gépkocsi lehetne. A helikopter valójában egy olyan autó, amely a vízszintesen forgó légcsavarjai révén képes elemelkedni a földt?l. A helikopter motorja olyan sebesen pörgeti a légcsavarokat, hogy az egész fennmarad a leveg?ben. Hát nem hihetetlen?}
-{533}{}{Hagyjuk. Egyszer?en csak ne csavarogj a város környékén! Még a végén jól kinyírnak.}
-{540}{}{ÉN NEM HAZUDOK! Tényleg láttunk olyat a sivatagban! (Komor arccal bámul rád.)}
-{541}{}{Hmmm. Lehet, hogy igazat beszélsz. Meg tudod mutatni, merre volt?}
-{542}{}{Oké, hiszek neked. Megmutatod, hol láttad?}
-{543}{}{Oké, oké. Felejtsük el! Menj csak vissza játszani!}
-{550}{}{Én NEM hazudok! Láttuk a sivatagban! Be tudom BIZONYÍTANI! (Rádmered.) Ha egy kicsit jobban besötétedik, egy páran oda fogunk menni. }
-{551}{}{Én NEM hazudok! Láttuk a sivatagban! Be tudom BIZONYÍTANI! (Rádmered.) Ma éjjel egy páran odamegyünk. }
-{552}{}{Gyere el, majd megmutatom! (Kajánul néz.) Persze csak ha nem IJEDTÉL BE!}
-{556}{}{Kösz nem. Menj vissza inkább játszani!}
-{560}{}{(El?veszed a legócskább fegyveredet, és átadod a gyereknek. A srác elmosolyodik és ragyogó szemmel feltartja a szerzeményt.) Az én fegyverem! KIRÁLY! }
-{561}{}{Azt is tudom, honnan lehet l?szert szerezni hozzá!}
-{562}{}{Ööö, nem örökbe adtam, csak mutiba...}
-{563}{}{Igen, megtarthatod. Most pedig mondj el mindent azokról a fémbogarakról...}
-{564}{}{Harcra fel, kölyök! Van egy ötletem... miért nem mutatod meg apukádnak is? Sokat hadonássz vele, és húzd meg azt a kis kapcsolót a cs? alatt!}
-{565}{}{Bizonyám! Remélem, örülsz neki! Kés?bb találkozunk.}
-{570}{}{Indián ajándék! Az enyém! Nekem adtad! Most már az én fegyverem!}
+{515}{}{HÃ¡t nem hinnÃ©m, hogy valaha is Ãºjra lÃ¡tod azt a "fÃ©mbogarat". Az ugyanis egy helikopter.}
+{516}{}{Ma este nem jÃ³, kÃ¶szi. Holnap kora reggel.}
+{530}{}{Mi? (Ã–sszevonja a szemÃ¶ldÃ¶kÃ©t Ã©s megigazÃ­tja a fejÃ©n lÃ©v? edÃ©nyt.) Mi az a hellÃ³-kopter?}
+{531}{}{Az egy... repÃ¼l? gÃ©pezet. Embereket meg rakomÃ¡nyt lehet belepakolni.}
+{532}{}{A helikopter egy... azt hiszem, a legkÃ¶zelebbi asszociÃ¡ciÃ³ szÃ¡modra egy gÃ©pkocsi lehetne. A helikopter valÃ³jÃ¡ban egy olyan autÃ³, amely a vÃ­zszintesen forgÃ³ lÃ©gcsavarjai rÃ©vÃ©n kÃ©pes elemelkedni a fÃ¶ldt?l. A helikopter motorja olyan sebesen pÃ¶rgeti a lÃ©gcsavarokat, hogy az egÃ©sz fennmarad a leveg?ben. HÃ¡t nem hihetetlen?}
+{533}{}{Hagyjuk. Egyszer?en csak ne csavarogj a vÃ¡ros kÃ¶rnyÃ©kÃ©n! MÃ©g a vÃ©gÃ©n jÃ³l kinyÃ­rnak.}
+{540}{}{Ã‰N NEM HAZUDOK! TÃ©nyleg lÃ¡ttunk olyat a sivatagban! (Komor arccal bÃ¡mul rÃ¡d.)}
+{541}{}{Hmmm. Lehet, hogy igazat beszÃ©lsz. Meg tudod mutatni, merre volt?}
+{542}{}{OkÃ©, hiszek neked. Megmutatod, hol lÃ¡ttad?}
+{543}{}{OkÃ©, okÃ©. FelejtsÃ¼k el! Menj csak vissza jÃ¡tszani!}
+{550}{}{Ã‰n NEM hazudok! LÃ¡ttuk a sivatagban! Be tudom BIZONYÃTANI! (RÃ¡dmered.) Ha egy kicsit jobban besÃ¶tÃ©tedik, egy pÃ¡ran oda fogunk menni. }
+{551}{}{Ã‰n NEM hazudok! LÃ¡ttuk a sivatagban! Be tudom BIZONYÃTANI! (RÃ¡dmered.) Ma Ã©jjel egy pÃ¡ran odamegyÃ¼nk. }
+{552}{}{Gyere el, majd megmutatom! (KajÃ¡nul nÃ©z.) Persze csak ha nem IJEDTÃ‰L BE!}
+{556}{}{KÃ¶sz nem. Menj vissza inkÃ¡bb jÃ¡tszani!}
+{560}{}{(El?veszed a legÃ³cskÃ¡bb fegyveredet, Ã©s Ã¡tadod a gyereknek. A srÃ¡c elmosolyodik Ã©s ragyogÃ³ szemmel feltartja a szerzemÃ©nyt.) Az Ã©n fegyverem! KIRÃLY! }
+{561}{}{Azt is tudom, honnan lehet l?szert szerezni hozzÃ¡!}
+{562}{}{Ã–Ã¶Ã¶, nem Ã¶rÃ¶kbe adtam, csak mutiba...}
+{563}{}{Igen, megtarthatod. Most pedig mondj el mindent azokrÃ³l a fÃ©mbogarakrÃ³l...}
+{564}{}{Harcra fel, kÃ¶lyÃ¶k! Van egy Ã¶tletem... miÃ©rt nem mutatod meg apukÃ¡dnak is? Sokat hadonÃ¡ssz vele, Ã©s hÃºzd meg azt a kis kapcsolÃ³t a cs? alatt!}
+{565}{}{BizonyÃ¡m! RemÃ©lem, Ã¶rÃ¼lsz neki! KÃ©s?bb talÃ¡lkozunk.}
+{570}{}{IndiÃ¡n ajÃ¡ndÃ©k! Az enyÃ©m! Nekem adtad! Most mÃ¡r az Ã©n fegyverem!}
 {571}{}{Add vissza, te kis szaros!}
-{572}{}{Nem, az az enyém! Azért a fegyverért sok embert kellett bántanom. Légyszíves add vissza!}
-{573}{}{A fenébe! Ez a posztholokauszt világ már úgysem lehet rosszabb! Eridj azt' játssz vele!}
-{580}{}{Nöh-öh! (Elszalad a fegyvereddel.)}
+{572}{}{Nem, az az enyÃ©m! AzÃ©rt a fegyverÃ©rt sok embert kellett bÃ¡ntanom. LÃ©gyszÃ­ves add vissza!}
+{573}{}{A fenÃ©be! Ez a posztholokauszt vilÃ¡g mÃ¡r Ãºgysem lehet rosszabb! Eridj azt' jÃ¡tssz vele!}
+{580}{}{NÃ¶h-Ã¶h! (Elszalad a fegyvereddel.)}
 {581}{}{Gyere csak ide, te kis szaros!}
-{590}{}{Oké! (Elszalad.)}
-{591}{}{Hát azt hiszem, ez a kis gonoszság nem rögtön fogja éreztetni a hatását... asszem, jobb, ha most lelépek, aztán kés?bb visszajövök.}
+{590}{}{OkÃ©! (Elszalad.)}
+{591}{}{HÃ¡t azt hiszem, ez a kis gonoszsÃ¡g nem rÃ¶gtÃ¶n fogja Ã©reztetni a hatÃ¡sÃ¡t... asszem, jobb, ha most lelÃ©pek, aztÃ¡n kÃ©s?bb visszajÃ¶vÃ¶k.}
 {592}{}{[Calmly leave the vicinity, whistling innocently.]}
-{600}{}{(Vállat von.) Apu a házban van, Mami meg a templomban.}
-{603}{}{Akkor jól van. Csak kíváncsi voltam. Köszi.}
-{610}{}{(A kölyök jól fejébe húzza az edényt, és folytatja a zümmögést.)}
-{620}{}{(A kölyök vállat von, aztán fejébe húzza az edényt, és folytatja a zümmögést.)}
-{630}{}{(A kölyök megrázza a fejét, aztán újra leengedi az edényt, és folytatja a zümmögést.)}
-{631}{}{Ööö, oké.}
-{632}{}{Te kis pondró... majd megnézheted, hogy megmentelek-e, amikor felszabadítom a világot...}
-{640}{}{(Vársz, amíg egy kicsit besötétedik...)}
-{641}{}{(Vársz, amíg besötétedik...)}
+{600}{}{(VÃ¡llat von.) Apu a hÃ¡zban van, Mami meg a templomban.}
+{603}{}{Akkor jÃ³l van. Csak kÃ­vÃ¡ncsi voltam. KÃ¶szi.}
+{610}{}{(A kÃ¶lyÃ¶k jÃ³l fejÃ©be hÃºzza az edÃ©nyt, Ã©s folytatja a zÃ¼mmÃ¶gÃ©st.)}
+{620}{}{(A kÃ¶lyÃ¶k vÃ¡llat von, aztÃ¡n fejÃ©be hÃºzza az edÃ©nyt, Ã©s folytatja a zÃ¼mmÃ¶gÃ©st.)}
+{630}{}{(A kÃ¶lyÃ¶k megrÃ¡zza a fejÃ©t, aztÃ¡n Ãºjra leengedi az edÃ©nyt, Ã©s folytatja a zÃ¼mmÃ¶gÃ©st.)}
+{631}{}{Ã–Ã¶Ã¶, okÃ©.}
+{632}{}{Te kis pondrÃ³... majd megnÃ©zheted, hogy megmentelek-e, amikor felszabadÃ­tom a vilÃ¡got...}
+{640}{}{(VÃ¡rsz, amÃ­g egy kicsit besÃ¶tÃ©tedik...)}
+{641}{}{(VÃ¡rsz, amÃ­g besÃ¶tÃ©tedik...)}
 {642}{}{[...then you follow the kids into the desert.]}
-{700}{}{HAGYJ ENGEM BÉKÉN!}
-{701}{}{Áhhh...}
-{702}{}{Segítség, segítség...}
-{703}{}{SZEMÉT ALAK! MENJ INNEN!}
-{704}{}{HAGYJ ENGEM BÉKÉN!}
-{710}{}{Hé, köszi a király fegyvert, uram.}
+{700}{}{HAGYJ ENGEM BÃ‰KÃ‰N!}
+{701}{}{Ãhhh...}
+{702}{}{SegÃ­tsÃ©g, segÃ­tsÃ©g...}
+{703}{}{SZEMÃ‰T ALAK! MENJ INNEN!}
+{704}{}{HAGYJ ENGEM BÃ‰KÃ‰N!}
+{710}{}{HÃ©, kÃ¶szi a kirÃ¡ly fegyvert, uram.}
 {711}{}{Did I tell you I love my new gun you gave me?}
-{712}{}{Hé, köszi a király fegyvert, hölgyem.}
-{720}{}{Hé, pöcsök, valamelyik?tök nem vette el a fegyveremet, amit az a srác adott nekem?}
+{712}{}{HÃ©, kÃ¶szi a kirÃ¡ly fegyvert, hÃ¶lgyem.}
+{720}{}{HÃ©, pÃ¶csÃ¶k, valamelyik?tÃ¶k nem vette el a fegyveremet, amit az a srÃ¡c adott nekem?}
 {721}{}{Hova t?nt a fegyverem?}
-{722}{}{Emlékszem, hogy adtál nekem egy fegyvert, de mit is csináltam vele?}
-{723}{}{Hé, pöcsök, valamelyik?tök nem vette el a fegyveremet, amit az a hölgy adott nekem?}
-{5277}{}{! Meséld el nekünk az Enklávés sztorit! Lééééégysziii!}
+{722}{}{EmlÃ©kszem, hogy adtÃ¡l nekem egy fegyvert, de mit is csinÃ¡ltam vele?}
+{723}{}{HÃ©, pÃ¶csÃ¶k, valamelyik?tÃ¶k nem vette el a fegyveremet, amit az a hÃ¶lgy adott nekem?}
+{5277}{}{! MesÃ©ld el nekÃ¼nk az EnklÃ¡vÃ©s sztorit! LÃ©Ã©Ã©Ã©Ã©gysziii!}
 {5278}{}{! Ajjaj!}
 {5279}{}{!}
-{5282}{}{ akarok lenni, ha felnövök.}
-{5321}{}{ is játszhat?}
-{5334}{}{ lesz bognár!}
-{5353}{}{ nem szeret ha kiabálol!}
-{5354}{}{ fülének. }
+{5282}{}{ akarok lenni, ha felnÃ¶vÃ¶k.}
+{5321}{}{ is jÃ¡tszhat?}
+{5334}{}{ lesz bognÃ¡r!}
+{5353}{}{ nem szeret ha kiabÃ¡lol!}
+{5354}{}{ fÃ¼lÃ©nek. }
 {5382}{}{! }
 {6354}{}{. }
-{6382}{}{ SZÉTZÚZ!}
+{6382}{}{ SZÃ‰TZÃšZ!}
 {7354}{}{ nem szeresse.}

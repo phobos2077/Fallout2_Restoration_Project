@@ -1,7 +1,7 @@
 1:Es ist geschafft.
-2:Vault 13 gehört zur Einheit und dem Master.
-3:Deine Kenntnisse über die Verteidigungsanlagen des Vaults retteten vielen Mutanten während des Angriffs das Leben.
-4:Du selbst hast die letzte Tötung durchgeführt, als du dem Aufseher das Leben nahmst.
-5:Du wirst sicherlich einer der besten Soldaten der Einheit werden und deine Fähigkeiten werden dir auch in der Zukunft noch hilfreich sein.
+2:Vault 13 gehÃ¶rt zur Einheit und dem Master.
+3:Deine Kenntnisse Ã¼ber die Verteidigungsanlagen des Vaults retteten vielen Mutanten wÃ¤hrend des Angriffs das Leben.
+4:Du selbst hast die letzte TÃ¶tung durchgefÃ¼hrt, als du dem Aufseher das Leben nahmst.
+5:Du wirst sicherlich einer der besten Soldaten der Einheit werden und deine FÃ¤higkeiten werden dir auch in der Zukunft noch hilfreich sein.
 6:Du freust dich.
-7:Aber übrig bleibt der winzige Zweifel, was hätte sein können...
+7:Aber Ã¼brig bleibt der winzige Zweifel, was hÃ¤tte sein kÃ¶nnen...

@@ -1,4 +1,4 @@
 {100}{}{Du siehst einen Wanamingo.}
-{101}{}{Der Wanamingo sieht wirklich nicht sehr erfreut über den unerwarteten Besuch aus.}
-{102}{}{Du siehst die Wanamingo Königin.}
-{103}{}{Die Königin sieht wirklich nicht besonders glücklich aus, unerwartete Gäste zu haben.}
+{101}{}{Der Wanamingo sieht wirklich nicht sehr erfreut Ã¼ber den unerwarteten Besuch aus.}
+{102}{}{Du siehst die Wanamingo KÃ¶nigin.}
+{103}{}{Die KÃ¶nigin sieht wirklich nicht besonders glÃ¼cklich aus, unerwartete GÃ¤ste zu haben.}

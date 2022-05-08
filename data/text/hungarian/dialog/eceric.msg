@@ -1,4 +1,4 @@
 {100}{}{You see a man.}
 {101}{}{This is Eric.}
-{102}{}{Két félbevágott kókuszt ütöget össze.}
+{102}{}{KÃ©t fÃ©lbevÃ¡gott kÃ³kuszt Ã¼tÃ¶get Ã¶ssze.}
 {103}{}{Kipp! Kopp!}

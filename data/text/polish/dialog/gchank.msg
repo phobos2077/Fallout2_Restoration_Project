@@ -1,47 +1,47 @@
-{100}{}{Widzisz jarz¹cego siê Ghula z zatroskanym wyrazem twarzy.}
-{101}{}{Widzisz Hanka, jarz¹cego siê Ghula, pracownika elektrowni.}
-{102}{}{Widzisz jarz¹cego siê Ghula dogl¹daj¹cego ró¿nych wskazników.}
-{110}{}{Czeœæ, jestem Hank. Opiekujê siê wnêtrzem rdzenia reaktora. Jednak rzadko kiedy trzeba tam cokolwiek zrobiæ.}
-{111}{}{Czeœæ. Mi³o, ¿e mnie odwiedzasz. Jak mi³o i cieplutko jest tak blisko rdzenia. Ale wiêkszoœci g³adkoskórków to nie interesuje.}
-{112}{}{Czeœæ Hank. Muszê dostaæ siê do rdzenia.}
-{113}{}{Hank, mam tu od Harolda raport dotyczacy ch³odziwa, który musisz zobaczyæ. Oto on.}
-{114}{}{Czeœæ, Hank. Robie sobie tylko ma³¹ wycieczkê. Na razie.}
-{120}{}{He, he. Nie radzi³bym tego ¿adnemu z g³adkoskórków. Usma¿y³oby ciê tam. Ja lubiê ciep³o, ale nie poleca³bym tego tobie. Trochê tam za du¿o gor¹ca i promieniowania. Dlatego te¿ g³adkoskórki, które zbudowa³y to miejsce, umieœci³y tu robota naprawczego.}
+{100}{}{Widzisz jarzÄ…cego siÄ™ Ghula z zatroskanym wyrazem twarzy.}
+{101}{}{Widzisz Hanka, jarzÄ…cego siÄ™ Ghula, pracownika elektrowni.}
+{102}{}{Widzisz jarzÄ…cego siÄ™ Ghula doglÄ…dajÄ…cego rÃ³Å¼nych wskaznikÃ³w.}
+{110}{}{CzeÅ›Ä‡, jestem Hank. OpiekujÄ™ siÄ™ wnÄ™trzem rdzenia reaktora. Jednak rzadko kiedy trzeba tam cokolwiek zrobiÄ‡.}
+{111}{}{CzeÅ›Ä‡. MiÅ‚o, Å¼e mnie odwiedzasz. Jak miÅ‚o i cieplutko jest tak blisko rdzenia. Ale wiÄ™kszoÅ›ci gÅ‚adkoskÃ³rkÃ³w to nie interesuje.}
+{112}{}{CzeÅ›Ä‡ Hank. MuszÄ™ dostaÄ‡ siÄ™ do rdzenia.}
+{113}{}{Hank, mam tu od Harolda raport dotyczacy chÅ‚odziwa, ktÃ³ry musisz zobaczyÄ‡. Oto on.}
+{114}{}{CzeÅ›Ä‡, Hank. Robie sobie tylko maÅ‚Ä… wycieczkÄ™. Na razie.}
+{120}{}{He, he. Nie radziÅ‚bym tego Å¼adnemu z gÅ‚adkoskÃ³rkÃ³w. UsmaÅ¼yÅ‚oby ciÄ™ tam. Ja lubiÄ™ ciepÅ‚o, ale nie polecaÅ‚bym tego tobie. TrochÄ™ tam za duÅ¼o gorÄ…ca i promieniowania. Dlatego teÅ¼ gÅ‚adkoskÃ³rki, ktÃ³re zbudowaÅ‚y to miejsce, umieÅ›ciÅ‚y tu robota naprawczego.}
 {121}{}{Robota naprawczego?}
-{122}{}{Och, dziêki. Na razie.}
-{130}{}{Zobaczmy. Wed³ug tego raportu, nasz poziom ch³odzenia jest zdecydowanie za wysoki. Myœla³em, ¿e wy³¹czenie ch³odzenia doprowadzi do natychmiastowego stopienia rdzenia, ale chyba siê myli³em. Lepiej pójdê je wy³¹czyæ.}
-{131}{}{Ten raport mówi o zbyt wysokim poziomie ch³odzenia. Nie s¹dzisz, ¿e chyba muszê je wy³¹czyæ?}
-{132}{}{Dobrze pomyœlane, Hank. Lepiej ju¿ pójdê. Do zobaczenia.}
-{133}{}{Z drugiej strony mo¿e jednak powinieneœ chwilê z tym zaczekaæ. Zanim wy³¹czysz ch³odzenie, pójdê jeszcze skonsultowaæ siê z Haroldem. Na razie.}
-{140}{}{Ta, g³adkoskórki, które zbudowa³y to miejsce, same te¿ nie chcia³y siê usma¿yæ, wiêc umieœci³y tu robota. Zosta³ zaprojektowany do wykonywania robót naprawczych, a sterowaæ mo¿na nim zdalnie z terminalu za moimi plecami.}
+{122}{}{Och, dziÄ™ki. Na razie.}
+{130}{}{Zobaczmy. WedÅ‚ug tego raportu, nasz poziom chÅ‚odzenia jest zdecydowanie za wysoki. MyÅ›laÅ‚em, Å¼e wyÅ‚Ä…czenie chÅ‚odzenia doprowadzi do natychmiastowego stopienia rdzenia, ale chyba siÄ™ myliÅ‚em. Lepiej pÃ³jdÄ™ je wyÅ‚Ä…czyÄ‡.}
+{131}{}{Ten raport mÃ³wi o zbyt wysokim poziomie chÅ‚odzenia. Nie sÄ…dzisz, Å¼e chyba muszÄ™ je wyÅ‚Ä…czyÄ‡?}
+{132}{}{Dobrze pomyÅ›lane, Hank. Lepiej juÅ¼ pÃ³jdÄ™. Do zobaczenia.}
+{133}{}{Z drugiej strony moÅ¼e jednak powinieneÅ› chwilÄ™ z tym zaczekaÄ‡. Zanim wyÅ‚Ä…czysz chÅ‚odzenie, pÃ³jdÄ™ jeszcze skonsultowaÄ‡ siÄ™ z Haroldem. Na razie.}
+{140}{}{Ta, gÅ‚adkoskÃ³rki, ktÃ³re zbudowaÅ‚y to miejsce, same teÅ¼ nie chciaÅ‚y siÄ™ usmaÅ¼yÄ‡, wiÄ™c umieÅ›ciÅ‚y tu robota. ZostaÅ‚ zaprojektowany do wykonywania robÃ³t naprawczych, a sterowaÄ‡ moÅ¼na nim zdalnie z terminalu za moimi plecami.}
 {141}{}{Doskonale. Wykorzystam to. }
-{142}{}{Muszê to sprawdziæ. Do zobaczenia.}
-{150}{}{Masz tu niez³¹ czêœæ. Dokladnie to, czego potrzebujemy.}
-{151}{}{Dobrze, ¿e ci odpowiada. Chcesz j¹ zainstalowaæ?}
-{152}{}{Dziêki, mi te¿ siê podoba. Na razie.}
-{160}{}{Chcia³bym ci pomóc, ale nie wiedzia³bym, jak coœ takiego zainstalowaæ. Wiêkszoœæ czasu poœwiêcam tylko na obserwowanie tych wskazników. Spytaj Festusa. Jest tutejszym geniuszem od czêœci - po prostu go zapytaj.}
+{142}{}{MuszÄ™ to sprawdziÄ‡. Do zobaczenia.}
+{150}{}{Masz tu niezÅ‚Ä… czÄ™Å›Ä‡. Dokladnie to, czego potrzebujemy.}
+{151}{}{Dobrze, Å¼e ci odpowiada. Chcesz jÄ… zainstalowaÄ‡?}
+{152}{}{DziÄ™ki, mi teÅ¼ siÄ™ podoba. Na razie.}
+{160}{}{ChciaÅ‚bym ci pomÃ³c, ale nie wiedziaÅ‚bym, jak coÅ› takiego zainstalowaÄ‡. WiÄ™kszoÅ›Ä‡ czasu poÅ›wiÄ™cam tylko na obserwowanie tych wskaznikÃ³w. Spytaj Festusa. Jest tutejszym geniuszem od czÄ™Å›ci - po prostu go zapytaj.}
 {161}{}{Gdzie on jest?}
 {162}{}{Czy nie ma innego sposobu?}
 {163}{}{Dobra. Do widzenia.}
-{170}{}{Czy Festus ju¿ rozmawia³ z tob¹ o instalacji tej czêœci?}
+{170}{}{Czy Festus juÅ¼ rozmawiaÅ‚ z tobÄ… o instalacji tej czÄ™Å›ci?}
 {171}{}{Gdzie on jest?}
 {172}{}{Czy nie ma innego sposobu?}
-{173}{}{Jeszcze nie. W³aœnie do niego idê. Czeœæ.}
-{180}{}{Festus by³ po drodze do tego miejsca. Jest w pokoju kontrolnym. Nie mo¿esz go przegapiæ. To ten œmierdz¹cy laluœ chwiej¹cy siê pod ciê¿arem w³asnego ego. Powinien ci pomóc.}
-{181}{}{Dziêki. Do zobaczenia.}
-{190}{}{Có¿, gdyby wykorzystaæ robota naprawczego odpowiednio nim kieruj¹c, to mo¿e by³by w stanie zainstalowaæ tê czêœæ. Albo mo¿esz tam po prostu wejœæ i zainstalowaæ j¹ samodzielnie.}
+{173}{}{Jeszcze nie. WÅ‚aÅ›nie do niego idÄ™. CzeÅ›Ä‡.}
+{180}{}{Festus byÅ‚ po drodze do tego miejsca. Jest w pokoju kontrolnym. Nie moÅ¼esz go przegapiÄ‡. To ten Å›mierdzÄ…cy laluÅ› chwiejÄ…cy siÄ™ pod ciÄ™Å¼arem wÅ‚asnego ego. Powinien ci pomÃ³c.}
+{181}{}{DziÄ™ki. Do zobaczenia.}
+{190}{}{CÃ³Å¼, gdyby wykorzystaÄ‡ robota naprawczego odpowiednio nim kierujÄ…c, to moÅ¼e byÅ‚by w stanie zainstalowaÄ‡ tÄ™ czÄ™Å›Ä‡. Albo moÅ¼esz tam po prostu wejÅ›Ä‡ i zainstalowaÄ‡ jÄ… samodzielnie.}
 {191}{}{Robot naprawczy?}
-{192}{}{Zainstalowaæ samodzielnie?}
-{200}{}{Có¿, ostatnio nie sprawia³ siê zbyt dobrze. Ci¹gle siê przegrzewa. I tak nie musimy z niego korzystaæ, wiêc nie przejmowaliœmy siê naprawieniem jego os³ony cieplnej. Je¿eli uda ci siê odcyfrowaæ kody steruj¹ce i nie bêdziesz go zbyt d³ugo u¿ywaæ, byæ mo¿e bêdziesz w stanie wykorzystaæ go do swoich planów.}
-{201}{}{Dziêki. Do zobaczenia.}
-{210}{}{Dziêki za naprawienie reaktora.}
-{211}{}{Czy ostatnio nie jest tutaj ch³odniej?}
-{212}{}{Dziêki za pomoc.}
-{220}{}{Nigdy nie s³ysza³em, ¿eby w ten sposob bucza³.}
+{192}{}{ZainstalowaÄ‡ samodzielnie?}
+{200}{}{CÃ³Å¼, ostatnio nie sprawiaÅ‚ siÄ™ zbyt dobrze. CiÄ…gle siÄ™ przegrzewa. I tak nie musimy z niego korzystaÄ‡, wiÄ™c nie przejmowaliÅ›my siÄ™ naprawieniem jego osÅ‚ony cieplnej. JeÅ¼eli uda ci siÄ™ odcyfrowaÄ‡ kody sterujÄ…ce i nie bÄ™dziesz go zbyt dÅ‚ugo uÅ¼ywaÄ‡, byÄ‡ moÅ¼e bÄ™dziesz w stanie wykorzystaÄ‡ go do swoich planÃ³w.}
+{201}{}{DziÄ™ki. Do zobaczenia.}
+{210}{}{DziÄ™ki za naprawienie reaktora.}
+{211}{}{Czy ostatnio nie jest tutaj chÅ‚odniej?}
+{212}{}{DziÄ™ki za pomoc.}
+{220}{}{Nigdy nie sÅ‚yszaÅ‚em, Å¼eby w ten sposob buczaÅ‚.}
 {221}{}{Mruczy jak kociak.}
-{222}{}{Dzia³a lepiej ni¿ kiedykolwiek.}
+{222}{}{DziaÅ‚a lepiej niÅ¼ kiedykolwiek.}
 {230}{}{Po prostu nie zawadzaj i nic nie dotykaj.}
-{231}{}{Kto ciê tu wpuœci³?}
-{232}{}{Dlaczego nie zrobisz sobie wycieczki za te drzwi? Piek³o wygl¹da naprawdê przepiêknie. He, he, he.}
-{300}{}{Uda³o ci siê oszukaæ Hanka tak, ¿e zainicjowa³ stopienie rdzenia.}
-{900}{}{Nie widzisz, ¿e jestem zajêty?}
+{231}{}{Kto ciÄ™ tu wpuÅ›ciÅ‚?}
+{232}{}{Dlaczego nie zrobisz sobie wycieczki za te drzwi? PiekÅ‚o wyglÄ…da naprawdÄ™ przepiÄ™knie. He, he, he.}
+{300}{}{UdaÅ‚o ci siÄ™ oszukaÄ‡ Hanka tak, Å¼e zainicjowaÅ‚ stopienie rdzenia.}
+{900}{}{Nie widzisz, Å¼e jestem zajÄ™ty?}

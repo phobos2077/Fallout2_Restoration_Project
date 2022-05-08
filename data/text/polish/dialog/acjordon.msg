@@ -1,9 +1,9 @@
-{100}{}{Widzisz Jordana. Jak zwykle wywija w³óczni¹.}
-{101}{}{Widzisz Jordana. Jak zwykle wywija w³óczni¹.}
-{102}{}{Powodzenia! Muszê wracaæ do swojego treningu.}
-{103}{}{Witaj, Dziecko Przeznaczenia. Widzê, ¿e przyda³by ci siê ma³y trening. Mogê w czymœ pomóc?}
+{100}{}{Widzisz Jordana. Jak zwykle wywija wÅ‚Ã³czniÄ….}
+{101}{}{Widzisz Jordana. Jak zwykle wywija wÅ‚Ã³czniÄ….}
+{102}{}{Powodzenia! MuszÄ™ wracaÄ‡ do swojego treningu.}
+{103}{}{Witaj, Dziecko Przeznaczenia. WidzÄ™, Å¼e przydaÅ‚by ci siÄ™ maÅ‚y trening. MogÄ™ w czymÅ› pomÃ³c?}
 {104}{}{Jasne.}
-{105}{}{Nie, dziêki.}
-{106}{}{To zajmie chwilkê.}
-{107}{}{Wiesz ju¿ o w³adaniu w³óczni¹ tyle, co ja.}
-{108}{}{Dziêki, Jordan. To mi siê bardzo przyda.}
+{105}{}{Nie, dziÄ™ki.}
+{106}{}{To zajmie chwilkÄ™.}
+{107}{}{Wiesz juÅ¼ o wÅ‚adaniu wÅ‚Ã³czniÄ… tyle, co ja.}
+{108}{}{DziÄ™ki, Jordan. To mi siÄ™ bardzo przyda.}

@@ -1,84 +1,84 @@
-{100}{}{Você vê um homem grande e de aparência rudimentar.}
+{100}{}{VocÃª vÃª um homem grande e de aparÃªncia rudimentar.}
 {101}{}{Este homem parece bastante forte e alerta.}
-{110}{}{Você vê uma mulher primitiva delgada.}
+{110}{}{VocÃª vÃª uma mulher primitiva delgada.}
 {111}{}{Ela parece forte, apesar de seu tamanho.}
-{120}{}{Você vê um homem esquisito.}
+{120}{}{VocÃª vÃª um homem esquisito.}
 {121}{}{Ele aparenta ser bem magro.}
-{130}{}{Você vê um homem de aparência esfarrapada.}
+{130}{}{VocÃª vÃª um homem de aparÃªncia esfarrapada.}
 {131}{}{Este parece bastante forte.}
-{140}{}{Você vê um homem em roupas esfarrapadas.}
+{140}{}{VocÃª vÃª um homem em roupas esfarrapadas.}
 {141}{}{Ele se move com velocidade sugestiva.}
-{150}{}{Você vê uma mulher muito suja.}
-{151}{}{Ela não parece ter se banhado.}
-{160}{}{Você vê uma mulher bem grande.}
+{150}{}{VocÃª vÃª uma mulher muito suja.}
+{151}{}{Ela nÃ£o parece ter se banhado.}
+{160}{}{VocÃª vÃª uma mulher bem grande.}
 {161}{}{Ela parece forte lutadora.}
-{170}{}{Você vê uma mulher de aparência magra.}
-{171}{}{Este não parece ser muito problema.}
+{170}{}{VocÃª vÃª uma mulher de aparÃªncia magra.}
+{171}{}{Este nÃ£o parece ser muito problema.}
 {200}{}{Morra!}
-{201}{}{Onde você está?}
+{201}{}{Onde vocÃª estÃ¡?}
 {202}{}{Eu vou te machucar.}
-{210}{}{Você vai me pagar por isso!}
+{210}{}{VocÃª vai me pagar por isso!}
 {211}{}{Malditos escravistas!}
-{212}{}{Você vai pagar por isso!}
+{212}{}{VocÃª vai pagar por isso!}
 {220}{}{Deixe sozinho!}
-{221}{}{Não machuque!}
+{221}{}{NÃ£o machuque!}
 {222}{}{Nenhum mal!}
-{223}{}{Eu não lutar!}
-{230}{}{Eu reconheço essa tatuagem!}
-{231}{}{Não, por favor!}
-{232}{}{Por favor, não me mate!}
-{233}{}{Eu não lutar; não me mate!}
-{234}{}{Por favor, eu não quero morrer!}
-{235}{}{Vocês são escravistas não é? Oh Deus.}
-{245}{}{Silêncio! Eles perto.}
+{223}{}{Eu nÃ£o lutar!}
+{230}{}{Eu reconheÃ§o essa tatuagem!}
+{231}{}{NÃ£o, por favor!}
+{232}{}{Por favor, nÃ£o me mate!}
+{233}{}{Eu nÃ£o lutar; nÃ£o me mate!}
+{234}{}{Por favor, eu nÃ£o quero morrer!}
+{235}{}{VocÃªs sÃ£o escravistas nÃ£o Ã©? Oh Deus.}
+{245}{}{SilÃªncio! Eles perto.}
 {246}{}{Matar os homens maus.}
-{247}{}{Não tire minha família de mim.}
-{248}{}{Eu proteger a família.}
-{249}{}{Não devem encontrar-nos.}
-{250}{}{Eles pessoas más.}
-{260}{}{Escravistas estão chegando. Todos quietos.}
-{261}{}{Prepare-se; eu acho que eles já estão próximos.}
-{262}{}{Eu não vou cair sem uma luta.}
-{263}{}{Eles nunca vão nos escravizar.}
-{264}{}{Aqueles escravistas pagarão por isso.}
-{265}{}{Nenhum escravista vai levar minha família.}
-{270}{}{Eles não me encontram.}
+{247}{}{NÃ£o tire minha famÃ­lia de mim.}
+{248}{}{Eu proteger a famÃ­lia.}
+{249}{}{NÃ£o devem encontrar-nos.}
+{250}{}{Eles pessoas mÃ¡s.}
+{260}{}{Escravistas estÃ£o chegando. Todos quietos.}
+{261}{}{Prepare-se; eu acho que eles jÃ¡ estÃ£o prÃ³ximos.}
+{262}{}{Eu nÃ£o vou cair sem uma luta.}
+{263}{}{Eles nunca vÃ£o nos escravizar.}
+{264}{}{Aqueles escravistas pagarÃ£o por isso.}
+{265}{}{Nenhum escravista vai levar minha famÃ­lia.}
+{270}{}{Eles nÃ£o me encontram.}
 {271}{}{Deve se esconder. Deve se esconder.}
 {272}{}{Por que eles querem machucar.}
 {273}{}{Me assusta.}
-{274}{}{Eu não luta.}
+{274}{}{Eu nÃ£o luta.}
 {275}{}{Eu quero viver.}
-{276}{}{Não machuca família.}
+{276}{}{NÃ£o machuca famÃ­lia.}
 {280}{}{Oh, merda!}
-{281}{}{Por que eles estão fazendo isso?}
-{282}{}{E a minha família?}
-{283}{}{Eu não quero morrer.}
-{284}{}{Eu não quero ser um escravo.}
-{285}{}{Eu mereço melhor do que isso.}
-{290}{}{Você morrer agora!}
+{281}{}{Por que eles estÃ£o fazendo isso?}
+{282}{}{E a minha famÃ­lia?}
+{283}{}{Eu nÃ£o quero morrer.}
+{284}{}{Eu nÃ£o quero ser um escravo.}
+{285}{}{Eu mereÃ§o melhor do que isso.}
+{290}{}{VocÃª morrer agora!}
 {291}{}{Me matar!}
-{292}{}{Você não magoar a família!}
-{293}{}{Você não levar a família!}
+{292}{}{VocÃª nÃ£o magoar a famÃ­lia!}
+{293}{}{VocÃª nÃ£o levar a famÃ­lia!}
 {294}{}{Eu proteger!}
-{295}{}{Eu feri você!}
-{296}{}{Você paga!}
-{300}{}{Você não vai levar a minha família, escravista!}
-{301}{}{Morra, escravo escória!}
-{302}{}{Você vai pagar, seu sacana!}
-{303}{}{Eu vou lutar até a morte para a minha família!}
-{304}{}{Você não vai conseguir acabar com isso!}
-{305}{}{Você não vai sair com meus amigos!}
+{295}{}{Eu feri vocÃª!}
+{296}{}{VocÃª paga!}
+{300}{}{VocÃª nÃ£o vai levar a minha famÃ­lia, escravista!}
+{301}{}{Morra, escravo escÃ³ria!}
+{302}{}{VocÃª vai pagar, seu sacana!}
+{303}{}{Eu vou lutar atÃ© a morte para a minha famÃ­lia!}
+{304}{}{VocÃª nÃ£o vai conseguir acabar com isso!}
+{305}{}{VocÃª nÃ£o vai sair com meus amigos!}
 {310}{}{Ahhh!}
-{311}{}{Não mate! Não mate!}
+{311}{}{NÃ£o mate! NÃ£o mate!}
 {312}{}{Pare!}
 {313}{}{Socorro!}
 {314}{}{Corre!}
-{315}{}{Não faça isso!}
+{315}{}{NÃ£o faÃ§a isso!}
 {320}{}{Correr para sua vida!}
-{321}{}{Não deixe que eles o peguem!}
+{321}{}{NÃ£o deixe que eles o peguem!}
 {322}{}{Escravistas! Corra disso!}
-{323}{}{Ajudar alguém! Por favor!}
+{323}{}{Ajudar alguÃ©m! Por favor!}
 {324}{}{Corra disso, Marty!}
 {325}{}{Ahhh!}
 {326}{}{Pare a insanidade!}
-{327}{}{Não fizemos nada! Deixe-nos em paz!}
+{327}{}{NÃ£o fizemos nada! Deixe-nos em paz!}

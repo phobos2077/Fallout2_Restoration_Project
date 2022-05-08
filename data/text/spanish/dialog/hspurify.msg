@@ -1,11 +1,11 @@
 {100}{}{Una gran pieza de maquinaria.}
-{101}{}{El purificador de aire chirría y traquetea. Parece estar estropeado. Quizá necesite un repuesto...}
+{101}{}{El purificador de aire chirrÃ­a y traquetea. Parece estar estropeado. QuizÃ¡ necesite un repuesto...}
 {102}{}{El purificador de aire zumba casi en silencio. Parece estar en buenas condiciones.}
-{110}{}{Esa pieza posiblemente no podía reparar esto.}
+{110}{}{Esa pieza posiblemente no podÃ­a reparar esto.}
 {120}{}{Has reparado el purificador de aire.}
 {125}{}{Has destruido el purificador de aire.}
-{129}{}{Los conspiradores ya no pueden enviar la señal de destrucción al detonador. Es inútil, así que lo tiras.}
-{130}{}{Ya está arreglado.}
+{129}{}{Los conspiradores ya no pueden enviar la seÃ±al de destrucciÃ³n al detonador. Es inÃºtil, asÃ­ que lo tiras.}
+{130}{}{Ya estÃ¡ arreglado.}
 {131}{}{Clunk}
 {132}{}{Creak}
 {133}{}{Clank}

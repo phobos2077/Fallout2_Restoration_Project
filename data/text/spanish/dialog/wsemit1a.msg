@@ -6,7 +6,7 @@
 {108}{}{ recibe una descarga del campo de fuerza.}
 {109}{}{No consigues afectar al campo de fuerza.}
 {110}{}{ no consigue debilitar el campo de fuerza.}
-{111}{}{Escuchas por el ruidoso altavoz: ¡Peligro! ¡Alerta de intruso! Activar sistemas de seguridad.}
+{111}{}{Escuchas por el ruidoso altavoz: Â¡Peligro! Â¡Alerta de intruso! Activar sistemas de seguridad.}
 {112}{}{Desactivas el campo de fuerza.}
 {113}{}{ desactiva el campo de fuerza.}
 {114}{}{Activas el campo de fuerza.}

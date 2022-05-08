@@ -1,1 +1,1 @@
-{100}{}{Menedékváros városházánál vagy.}
+{100}{}{MenedÃ©kvÃ¡ros vÃ¡roshÃ¡zÃ¡nÃ¡l vagy.}

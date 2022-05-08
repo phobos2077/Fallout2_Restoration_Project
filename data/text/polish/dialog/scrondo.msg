@@ -1,11 +1,11 @@
-{100}{}{Widzisz cz³owieka w poplamionym smarami ubraniu, prawdopodobnie mechanika.}
-{101}{}{To Rondo, w³aœciciel tego interesu.}
-{102}{}{S¹dzisz, ¿e jest mechanikiem, ale nosi broñ, co wydaje siê nieco dziwne.}
-{103}{}{Witaj stra¿niku. Mam nadziejê, ¿e wszystko w porz¹dku.}
-{104}{}{Któregoœ dnia wyt³uczemy tych ³owców niewolników.}
-{105}{}{Potrzebuje upolowaæ wiêcej ³owców niewolników.}
-{106}{}{Przykro mi, ale wypadliœmy z interesu.}
-{107}{}{To prywatny teren. Mo¿esz odejœæ?}
-{108}{}{Nie biorê teraz ¿adnej dodatkowej roboty, dobra?}
-{109}{}{Hej, draniu, nie mo¿esz zadzieraæ ze Stra¿nikami.}
-{110}{}{Dotknij jeszcze raz moich rzeczy, a stara Bessy zrobi ci w brzuchu wielk¹ dziurê.}
+{100}{}{Widzisz czÅ‚owieka w poplamionym smarami ubraniu, prawdopodobnie mechanika.}
+{101}{}{To Rondo, wÅ‚aÅ›ciciel tego interesu.}
+{102}{}{SÄ…dzisz, Å¼e jest mechanikiem, ale nosi broÅ„, co wydaje siÄ™ nieco dziwne.}
+{103}{}{Witaj straÅ¼niku. Mam nadziejÄ™, Å¼e wszystko w porzÄ…dku.}
+{104}{}{KtÃ³regoÅ› dnia wytÅ‚uczemy tych Å‚owcÃ³w niewolnikÃ³w.}
+{105}{}{Potrzebuje upolowaÄ‡ wiÄ™cej Å‚owcÃ³w niewolnikÃ³w.}
+{106}{}{Przykro mi, ale wypadliÅ›my z interesu.}
+{107}{}{To prywatny teren. MoÅ¼esz odejÅ›Ä‡?}
+{108}{}{Nie biorÄ™ teraz Å¼adnej dodatkowej roboty, dobra?}
+{109}{}{Hej, draniu, nie moÅ¼esz zadzieraÄ‡ ze StraÅ¼nikami.}
+{110}{}{Dotknij jeszcze raz moich rzeczy, a stara Bessy zrobi ci w brzuchu wielkÄ… dziurÄ™.}

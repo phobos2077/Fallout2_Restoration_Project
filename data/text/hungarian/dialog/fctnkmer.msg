@@ -1,32 +1,32 @@
-{100}{}{Egy keresked?t látsz.}
+{100}{}{Egy keresked?t lÃ¡tsz.}
 {101}{}{? Jenna, a keresked?.}
-{102}{}{Egy csinos eladó-n?t látsz.}
-{103}{}{Szia! Jenna vagyok. Segíthetek?}
-{104}{}{Én akar információ.}
+{102}{}{Egy csinos eladÃ³-n?t lÃ¡tsz.}
+{103}{}{Szia! Jenna vagyok. SegÃ­thetek?}
+{104}{}{Ã‰n akar informÃ¡ciÃ³.}
 {105}{}{Mid van?}
-{106}{}{Nem, én menni.}
-{107}{}{Információt szeretnék.}
+{106}{}{Nem, Ã©n menni.}
+{107}{}{InformÃ¡ciÃ³t szeretnÃ©k.}
 {108}{}{Hogyne, mutasd, mid van!}
 {109}{}{Jelen pillantban nem.}
-{110}{}{Megtanultam, hogy minél kevesebbet tudsz, annál tovább élsz. Ennél több információval nem tudok szolgálni. Szeretnéd látni az árumat?}
+{110}{}{Megtanultam, hogy minÃ©l kevesebbet tudsz, annÃ¡l tovÃ¡bb Ã©lsz. EnnÃ©l tÃ¶bb informÃ¡ciÃ³val nem tudok szolgÃ¡lni. SzeretnÃ©d lÃ¡tni az Ã¡rumat?}
 {111}{}{Igen.}
 {112}{}{Nem.}
-{113}{}{Nagyszer?! Nézz körül!}
+{113}{}{Nagyszer?! NÃ©zz kÃ¶rÃ¼l!}
 {114}{}{}
-{115}{}{Oké.}
-{116}{}{Másvalamit?}
+{115}{}{OkÃ©.}
+{116}{}{MÃ¡svalamit?}
 {117}{}{Igen.}
 {118}{}{Nem.}
-{119}{}{Hát akkor, szép napot kívánok neked!}
+{119}{}{HÃ¡t akkor, szÃ©p napot kÃ­vÃ¡nok neked!}
 {120}{}{}
-{121}{}{Oké.}
-{122}{}{Üdv újra minálunk! Van valami, amiben segíthetnék?}
+{121}{}{OkÃ©.}
+{122}{}{Ãœdv Ãºjra minÃ¡lunk! Van valami, amiben segÃ­thetnÃ©k?}
 {123}{}{Igen.}
 {124}{}{Nem.}
-{125}{}{Sajnálom, de zárva vagyok. Nyolckor nyitok, légyszi gyere vissza akkor!}
+{125}{}{SajnÃ¡lom, de zÃ¡rva vagyok. Nyolckor nyitok, lÃ©gyszi gyere vissza akkor!}
 {126}{}{}
-{127}{}{Oké.}
-{128}{}{Számodra én nem vagyok nyitva! Takarodj a boltomból!}
+{127}{}{OkÃ©.}
+{128}{}{SzÃ¡modra Ã©n nem vagyok nyitva! Takarodj a boltombÃ³l!}
 {129}{}{}
-{130}{}{Oké.}
-{131}{}{Remélem, hamarosan megjön a szállítmány.}
+{130}{}{OkÃ©.}
+{131}{}{RemÃ©lem, hamarosan megjÃ¶n a szÃ¡llÃ­tmÃ¡ny.}

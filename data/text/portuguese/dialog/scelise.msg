@@ -1,86 +1,86 @@
-{100}{}{Você vê uma mulher jovem e bonita vestida com roupas de combate.}
-{101}{}{É a Elise.}
-{102}{}{Ela tem um ar de superioridade, que ela usa para dar ordens e fazer com que as pessoas a obedeçam.}
-{103}{}{O que você quer?}
-{104}{}{Você novamente?}
+{100}{}{VocÃª vÃª uma mulher jovem e bonita vestida com roupas de combate.}
+{101}{}{Ã‰ a Elise.}
+{102}{}{Ela tem um ar de superioridade, que ela usa para dar ordens e fazer com que as pessoas a obedeÃ§am.}
+{103}{}{O que vocÃª quer?}
+{104}{}{VocÃª novamente?}
 {105}{}{Karl me mandou aqui.}
-{106}{}{Doc Jubilee disse que eu devia falar com você.}
-{107}{}{Quem é você?}
-{108}{}{Hã?}
-{109}{}{Eu procuro uma organização. Uma que odeia a escravidão. Eles são conhecidos como New California Rangers.}
-{110}{}{Você pode consertar meu carro?}
+{106}{}{Doc Jubilee disse que eu devia falar com vocÃª.}
+{107}{}{Quem Ã© vocÃª?}
+{108}{}{HÃ£?}
+{109}{}{Eu procuro uma organizaÃ§Ã£o. Uma que odeia a escravidÃ£o. Eles sÃ£o conhecidos como New California Rangers.}
+{110}{}{VocÃª pode consertar meu carro?}
 {111}{}{Uh - Eu achei que esse lugar era deserto.}
 {112}{}{Ele fez isso? O que ele te disse?}
-{113}{}{Não muito. Que vocês são boas pessoas e eu pensei em me juntar com vocês.}
-{114}{}{Disse que você tinha pago um bom dinheiro.}
-{115}{}{Me chamo Elise. Esse é Gond. Nós somos membros de um 'grupo' que tenta fazer o que é certo para as pessoas.}
-{116}{}{Você parece não gostar de caridade ou igreja.}
+{113}{}{NÃ£o muito. Que vocÃªs sÃ£o boas pessoas e eu pensei em me juntar com vocÃªs.}
+{114}{}{Disse que vocÃª tinha pago um bom dinheiro.}
+{115}{}{Me chamo Elise. Esse Ã© Gond. NÃ³s somos membros de um 'grupo' que tenta fazer o que Ã© certo para as pessoas.}
+{116}{}{VocÃª parece nÃ£o gostar de caridade ou igreja.}
 {117}{}{Parece interessante. Certo em que sentido?}
-{118}{}{Eu só quero que consertem meu carro.}
+{118}{}{Eu sÃ³ quero que consertem meu carro.}
 {119}{}{Apenas saia daqui. Volte para o bar na rua principal.}
-{120}{}{Odeia escravidão, hum. Interessante. O que você faria se achasse essa organização?}
+{120}{}{Odeia escravidÃ£o, hum. Interessante. O que vocÃª faria se achasse essa organizaÃ§Ã£o?}
 {121}{}{Eu iria pedir para me juntar a eles.}
 {122}{}{Eu iria chutar a bunda deles.}
 {123}{}{Nada.}
-{124}{}{Não te interessa. Agora saia.}
-{125}{}{Saímos do negócio de carros. Fechamos permanentemente. Tchau.}
-{126}{}{Isso é não. Tchau.}
-{127}{}{Tudo bem, então me diga. Qual sua opinião sobre os escravizadores?}
-{128}{}{Odeio eles. Repugnantes, escória do planeta.}
-{129}{}{Se eles não mexerem comigo, eu deixo eles em paz.}
-{130}{}{Alguns dos meus melhores amigos são escravizadores.}
-{131}{}{Você só se importa com o dinheiro?}
-{132}{}{Claro que não. Eu acredito na verdade, justiça e na luta pelos oprimidos,}
-{133}{}{É um começo - enquanto alguém daria um nome melhor para uma causa de luta. }
-{134}{}{O que mais tem aí?}
-{135}{}{Não minta para mim. Eu consigo ver que tipo de pessoa você é. Tchau.}
-{136}{}{Se você não sabe, então estou perdendo meu tempo. Tchau.}
-{137}{}{Não, nós não somos uma organização religiosa. Talvez eu possa te perguntar uma coisa?}
-{138}{}{Não, vá em frente.}
-{139}{}{Não tão rápido. Você precisa passar em um teste para se juntar aos Rangers.}
+{124}{}{NÃ£o te interessa. Agora saia.}
+{125}{}{SaÃ­mos do negÃ³cio de carros. Fechamos permanentemente. Tchau.}
+{126}{}{Isso Ã© nÃ£o. Tchau.}
+{127}{}{Tudo bem, entÃ£o me diga. Qual sua opiniÃ£o sobre os escravizadores?}
+{128}{}{Odeio eles. Repugnantes, escÃ³ria do planeta.}
+{129}{}{Se eles nÃ£o mexerem comigo, eu deixo eles em paz.}
+{130}{}{Alguns dos meus melhores amigos sÃ£o escravizadores.}
+{131}{}{VocÃª sÃ³ se importa com o dinheiro?}
+{132}{}{Claro que nÃ£o. Eu acredito na verdade, justiÃ§a e na luta pelos oprimidos,}
+{133}{}{Ã‰ um comeÃ§o - enquanto alguÃ©m daria um nome melhor para uma causa de luta. }
+{134}{}{O que mais tem aÃ­?}
+{135}{}{NÃ£o minta para mim. Eu consigo ver que tipo de pessoa vocÃª Ã©. Tchau.}
+{136}{}{Se vocÃª nÃ£o sabe, entÃ£o estou perdendo meu tempo. Tchau.}
+{137}{}{NÃ£o, nÃ³s nÃ£o somos uma organizaÃ§Ã£o religiosa. Talvez eu possa te perguntar uma coisa?}
+{138}{}{NÃ£o, vÃ¡ em frente.}
+{139}{}{NÃ£o tÃ£o rÃ¡pido. VocÃª precisa passar em um teste para se juntar aos Rangers.}
 {140}{}{Tudo bem. Me diga o que fazer.}
-{141}{}{Teste? O que é isso - escola?}
-{142}{}{Tem um cativeiro do lado de fora da cidade. Talvez você tenha visto o lugar. Solte os escravos e volte aqui falar com a gente.}
+{141}{}{Teste? O que Ã© isso - escola?}
+{142}{}{Tem um cativeiro do lado de fora da cidade. Talvez vocÃª tenha visto o lugar. Solte os escravos e volte aqui falar com a gente.}
 {143}{}{Eu posso fazer isso.}
-{144}{}{Nem a pau. Eu não quero arrumar problemas por aqui.}
-{145}{}{Bem, é seu dia de sorte.}
-{146}{}{Esse tipo de atitude é a primeira coisa que permite a atrocidade da escravidão existir. Me desculpe, mas não tem lugar para você na nossa organização.}
+{144}{}{Nem a pau. Eu nÃ£o quero arrumar problemas por aqui.}
+{145}{}{Bem, Ã© seu dia de sorte.}
+{146}{}{Esse tipo de atitude Ã© a primeira coisa que permite a atrocidade da escravidÃ£o existir. Me desculpe, mas nÃ£o tem lugar para vocÃª na nossa organizaÃ§Ã£o.}
 {147}{}{Ok.}
-{148}{}{Então, mudou de idéia? Pronto para provar seu valor?}
+{148}{}{EntÃ£o, mudou de idÃ©ia? Pronto para provar seu valor?}
 {149}{}{Com certeza.}
-{150}{}{O que você quis fazer?}
-{151}{}{Você não está fazendo nada? Não volte aqui enquanto o serviço não estiver completo.}
-{152}{}{Eu já ouvi as notícias. Você libertou os escravos. Bom trabalho! Então, você está pronto para ser um Ranger?}
+{150}{}{O que vocÃª quis fazer?}
+{151}{}{VocÃª nÃ£o estÃ¡ fazendo nada? NÃ£o volte aqui enquanto o serviÃ§o nÃ£o estiver completo.}
+{152}{}{Eu jÃ¡ ouvi as notÃ­cias. VocÃª libertou os escravos. Bom trabalho! EntÃ£o, vocÃª estÃ¡ pronto para ser um Ranger?}
 {153}{}{Sim.}
-{154}{}{Não.}
-{155}{}{Eu ouvi que foi você que libertou todos os escravos do lado de fora da cidade. Foi legal o que você fez e eu queria apertar a sua mão.}
+{154}{}{NÃ£o.}
+{155}{}{Eu ouvi que foi vocÃª que libertou todos os escravos do lado de fora da cidade. Foi legal o que vocÃª fez e eu queria apertar a sua mÃ£o.}
 {156}{}{Obrigado.}
-{157}{}{Simples. Nós acreditamos que a escravidão seja errada e faremos o que pudermos para lutar contra isso. Em NCR, nós temos muitos amigos poderosos. Graças a eles nós já banimos o cativeiro do sul, mas agora nós esperamos espalhar esse pensamento para as pessoas do norte.}
+{157}{}{Simples. NÃ³s acreditamos que a escravidÃ£o seja errada e faremos o que pudermos para lutar contra isso. Em NCR, nÃ³s temos muitos amigos poderosos. GraÃ§as a eles nÃ³s jÃ¡ banimos o cativeiro do sul, mas agora nÃ³s esperamos espalhar esse pensamento para as pessoas do norte.}
 {158}{}{Os Rangers parece que ser um grupo em que seria uma honra me unir. To dentro.}
-{159}{}{Interessante... Eu irei pensar no que você me disse.}
-{160}{}{Você jura lutar contra a escravidão sempre que puder e ajudar os Rangers sempre que eles precisarem?}
+{159}{}{Interessante... Eu irei pensar no que vocÃª me disse.}
+{160}{}{VocÃª jura lutar contra a escravidÃ£o sempre que puder e ajudar os Rangers sempre que eles precisarem?}
 {161}{}{Sim.}
-{162}{}{Não.}
-{163}{}{Parabéns, agora você é um Ranger.}
-{164}{}{Bem vindo, companheiro Ranger. Acho que não tem muito o que você fazer por aqui agora. A maioria dos nossos guardas já estão em patrulha. Eu vou falar para os outros guardas que você é um de nós agora. Eu não quero que você seja recebido a tiros quando encontrar os outros guardas.}
-{165}{}{Bem, nós estamos sempre procurando boas pessoas para promover a nossa causa. Se você mudar de idéia, me procure. Você tem certeza que não quer aceitar essa oportunidade de se juntar a nós?}
+{162}{}{NÃ£o.}
+{163}{}{ParabÃ©ns, agora vocÃª Ã© um Ranger.}
+{164}{}{Bem vindo, companheiro Ranger. Acho que nÃ£o tem muito o que vocÃª fazer por aqui agora. A maioria dos nossos guardas jÃ¡ estÃ£o em patrulha. Eu vou falar para os outros guardas que vocÃª Ã© um de nÃ³s agora. Eu nÃ£o quero que vocÃª seja recebido a tiros quando encontrar os outros guardas.}
+{165}{}{Bem, nÃ³s estamos sempre procurando boas pessoas para promover a nossa causa. Se vocÃª mudar de idÃ©ia, me procure. VocÃª tem certeza que nÃ£o quer aceitar essa oportunidade de se juntar a nÃ³s?}
 {166}{}{Tenho certeza.}
-{167}{}{Bem, agora que você mencionou isso, eu acho que gostaria de ser um Ranger.}
-{168}{}{Entendo. Bem, eu represento um grupo chamado New Califórnia Rangers. Alguém com suas qualidades seria qualificado para entrar no grupo. Está interessado?}
-{169}{}{Ótimo! Eu to dentro.}
-{170}{}{Parece interessante. O que você pode me dizer sobre os Rangers?}
-{171}{}{Entendo. Bem, obrigado pela conversa, mas não posso dizer mais nada. Se você mudar de idéia, volte para falar comigo.}
+{167}{}{Bem, agora que vocÃª mencionou isso, eu acho que gostaria de ser um Ranger.}
+{168}{}{Entendo. Bem, eu represento um grupo chamado New CalifÃ³rnia Rangers. AlguÃ©m com suas qualidades seria qualificado para entrar no grupo. EstÃ¡ interessado?}
+{169}{}{Ã“timo! Eu to dentro.}
+{170}{}{Parece interessante. O que vocÃª pode me dizer sobre os Rangers?}
+{171}{}{Entendo. Bem, obrigado pela conversa, mas nÃ£o posso dizer mais nada. Se vocÃª mudar de idÃ©ia, volte para falar comigo.}
 {172}{}{Ok.}
-{173}{}{Esse é o problema, eu vou te pedir para sair da minha frente. Agora!}
+{173}{}{Esse Ã© o problema, eu vou te pedir para sair da minha frente. Agora!}
 {174}{}{Ok.}
 {175}{}{Um escravizador! Antes que eu arranque sua tatuagem na bala!}
 {176}{}{Com certeza.}
 {177}{}{Tenta a sorte!}
-{178}{}{Nós temos agentes e simpatizantes em algumas cidades do norte. Nós estamos promovendo a palavra e acabando com os escravizadores sempre que possível.}
-{179}{}{Olá de novo. Você mudou de idéia sobre se juntar a nós?}
-{180}{}{Não importa.}
-{181}{}{Você não é bem vindo aqui. Agora saia antes que eu use a violência.}
-{182}{}{Eu não sei o que você disse para o Gond, mas você vai pagar!}
+{178}{}{NÃ³s temos agentes e simpatizantes em algumas cidades do norte. NÃ³s estamos promovendo a palavra e acabando com os escravizadores sempre que possÃ­vel.}
+{179}{}{OlÃ¡ de novo. VocÃª mudou de idÃ©ia sobre se juntar a nÃ³s?}
+{180}{}{NÃ£o importa.}
+{181}{}{VocÃª nÃ£o Ã© bem vindo aqui. Agora saia antes que eu use a violÃªncia.}
+{182}{}{Eu nÃ£o sei o que vocÃª disse para o Gond, mas vocÃª vai pagar!}
 {200}{}{Congratulations, you're now a Ranger. It is your sworn duty to fight slavery wherever it may appear. Take care, my friend.}
 {201}{}{Before I go, I have some information that may interest you.}
 {202}{}{Alright, let's hear it.}
@@ -89,7 +89,7 @@
  to destroy that horrible place. Do you know how well guarded it is?}
 {205}{}{The only things guarding that place now are corpses. I already wiped out the whole camp.}
 {206}{}{It looked like it had about a dozen guards.}
-{207}{}{Eu não poderia te dizer--ainda nem fui lá.}
+{207}{}{Eu nÃ£o poderia te dizer--ainda nem fui lÃ¡.}
 {208}{}{You have? That's amazing! I'll have to spread the word out to the other Rangers. Now's the time for us to rise up and strike while they're
  busy licking their wounds. I can't thank you enough. We are truly in your debt.}
 {209}{}{Your thanks is all I need. Take care.}
@@ -140,5 +140,5 @@
 {282}{}{Thanks. Now why don't you tell me who you are?}
 {290}{}{I'm Elsie. That's Gond. We're members of an anti-slavery group called the New California Rangers. We could use someone like you. If you're interested in joining us, I've got a task for you.}
 {291}{}{Vamos ouvi-lo.}
-{292}{}{Não interessado. Tchau.}
+{292}{}{NÃ£o interessado. Tchau.}
 {300}{}{Help you with something, Ranger?}

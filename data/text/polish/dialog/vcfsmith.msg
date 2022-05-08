@@ -1,8 +1,8 @@
-{100}{}{Widzisz zmêczon¹ kobietê.}
-{101}{}{Widzisz pani¹ Smith.}
-{102}{}{Porozmawiaj lepiej z moim mê¿em.}
-{103}{}{Jesteœmy ci z mê¿em bardzo wdziêczni.}
-{104}{}{Dziêkujê... Mój m¹¿ ma dla ciebie drobn¹ nagrodê za twoje trudy.}
-{105}{}{Bez tego p³uga ani rusz...}
-{106}{}{Wynoœ siê st¹d zanim zawo³am stra¿!}
-{107}{}{Wygl¹dasz na uczynn¹ osobê. Mo¿e zechcesz nam pomóc?}
+{100}{}{Widzisz zmÄ™czonÄ… kobietÄ™.}
+{101}{}{Widzisz paniÄ… Smith.}
+{102}{}{Porozmawiaj lepiej z moim mÄ™Å¼em.}
+{103}{}{JesteÅ›my ci z mÄ™Å¼em bardzo wdziÄ™czni.}
+{104}{}{DziÄ™kujÄ™... MÃ³j mÄ…Å¼ ma dla ciebie drobnÄ… nagrodÄ™ za twoje trudy.}
+{105}{}{Bez tego pÅ‚uga ani rusz...}
+{106}{}{WynoÅ› siÄ™ stÄ…d zanim zawoÅ‚am straÅ¼!}
+{107}{}{WyglÄ…dasz na uczynnÄ… osobÄ™. MoÅ¼e zechcesz nam pomÃ³c?}

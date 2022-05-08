@@ -1,122 +1,122 @@
-{100}{}{Ves a un hombre con armadura metálica.}
+{100}{}{Ves a un hombre con armadura metÃ¡lica.}
 {101}{}{Ves a Matthew.}
-{102}{}{Ves a un hombre que lleva una armadura metálica con la insignia de un relámpago en ella.}
+{102}{}{Ves a un hombre que lleva una armadura metÃ¡lica con la insignia de un relÃ¡mpago en ella.}
 {103}{}{Hola,}
-{104}{}{. ¿Qué puedo hacer por ti?}
-{105}{}{¿Respondes preguntas?}
-{106}{}{Nada. Vuelvo más tarde.}
+{104}{}{. Â¿QuÃ© puedo hacer por ti?}
+{105}{}{Â¿Respondes preguntas?}
+{106}{}{Nada. Vuelvo mÃ¡s tarde.}
 {107}{}{Puedes empezar respondiendo algunas preguntas.}
-{108}{}{Nada por ahora. Volveré más tarde.}
+{108}{}{Nada por ahora. VolverÃ© mÃ¡s tarde.}
 {109}{}{Creo que mereces respuestas a tus preguntas.}
-{110}{}{¿Puedo ayudarte en algo?}
-{111}{}{¿Quienes vosotros?}
-{112}{}{¿Por qué nadie dice nada de ti?}
-{113}{}{¿Por qué hay sólo una gente aquí?}
+{110}{}{Â¿Puedo ayudarte en algo?}
+{111}{}{Â¿Quienes vosotros?}
+{112}{}{Â¿Por quÃ© nadie dice nada de ti?}
+{113}{}{Â¿Por quÃ© hay sÃ³lo una gente aquÃ­?}
 {114}{}{Yo irme ahora.}
-{115}{}{¿Quienes sois vosotros?}
-{116}{}{¿Por qué nadie de por aquí te ha mencionado?}
-{117}{}{¿Por qué sólo tenéis a una persona aquí?}
+{115}{}{Â¿Quienes sois vosotros?}
+{116}{}{Â¿Por quÃ© nadie de por aquÃ­ te ha mencionado?}
+{117}{}{Â¿Por quÃ© sÃ³lo tenÃ©is a una persona aquÃ­?}
 {118}{}{Me tengo que ir.}
-{119}{}{Somos una organización paramilitar conocida como la Hermandad del Acero.}
-{120}{}{¿Hermandad hace cosas?}
-{121}{}{Muy bien: ¿y qué es lo que hacéis?}
-{122}{}{En su tiempo fuimos el único bastión de la tecnología que quedaba en el planeta. Nos erigimos en lo que podría entenderse como 'policía tecnológica'. Acumulábamos el antiguo conocimiento y sólo lo repartíamos en pequeñas fracciones. Por supuesto, para aquellos que creíamos merecedores de ello y tenían la sabiduría para usarla apropiadamente.}
-{123}{}{¿Y ahora?}
-{124}{}{Has dicho 'en su tiempo'. ¿Y ahora?}
-{125}{}{Hace varios meses nos topamos con un grupo conocido como el Enclave. Para nuestra sorpresa, su nivel tecnológico sobrepasaba incluso el nuestro. Esto nos resultó bastante preocupante y consideramos el contactar con ellos. Sin embargo, decidimos actuar de forma más cautelosa hasta que pudiéramos determinar qué era exactamente el Enclave, y el propósito subyacente de su organización.}
-{126}{}{Con esta finalidad, reactivamos varios puestos avanzados cerca de las zonas de actividad del Enclave desde las que pudiéramos observarlos con seguridad. Actualmente, hemos activado puestos así en La Guarida, RNC, y aquí en San Francisco.}
-{127}{}{¿Qué habéis descubierto?}
-{128}{}{Parece interesante. ¿Qué habéis descubierto?}
-{129}{}{Hemos descubierto que el Enclave comercia a gran escala con drogas, armas y esclavos. Sin embargo, eso sólo son actividades triviales que les conducen a algún propósito superior, que hemos fracasado en descubrir. Aún les seguimos vigilando.}
-{130}{}{¿Por qué me cuentas todo esto ahora?}
-{131}{}{Antes de continuar, ¿por qué me cuentas todo esto ahora?}
-{132}{}{(suspira) El Enclave ha desarrollado la tecnología vertibird, unas máquinas voladoras que les permiten adentrarse profundamente en territorios vecinos. Sin una tecnología similar para contrarrestar esta amenaza, la Hermandad podría ser incapaz de detener una invasión del Enclave. Necesitamos disponer de la tecnología vertibird, o algo similar que nos permita contrarrestarla.}
-{133}{}{Bien, recientemente el Enclave ha establecido una base al norte de aquí llamada Navarro. Se usa como punto intermedio para el mantenimiento y repostaje de los vertibirds. Estoy convencido de que en tal base puede haber planos técnicos completos de los vertibirds. Todo lo que necesito es a alguien que se infiltre en la base, robe los planos, y me los entregue a mí.}
-{134}{}{Eh... ¿hago yo?}
-{135}{}{Déjame adivinar. Quieres que me infiltre en esa base por ti.}
+{119}{}{Somos una organizaciÃ³n paramilitar conocida como la Hermandad del Acero.}
+{120}{}{Â¿Hermandad hace cosas?}
+{121}{}{Muy bien: Â¿y quÃ© es lo que hacÃ©is?}
+{122}{}{En su tiempo fuimos el Ãºnico bastiÃ³n de la tecnologÃ­a que quedaba en el planeta. Nos erigimos en lo que podrÃ­a entenderse como 'policÃ­a tecnolÃ³gica'. AcumulÃ¡bamos el antiguo conocimiento y sÃ³lo lo repartÃ­amos en pequeÃ±as fracciones. Por supuesto, para aquellos que creÃ­amos merecedores de ello y tenÃ­an la sabidurÃ­a para usarla apropiadamente.}
+{123}{}{Â¿Y ahora?}
+{124}{}{Has dicho 'en su tiempo'. Â¿Y ahora?}
+{125}{}{Hace varios meses nos topamos con un grupo conocido como el Enclave. Para nuestra sorpresa, su nivel tecnolÃ³gico sobrepasaba incluso el nuestro. Esto nos resultÃ³ bastante preocupante y consideramos el contactar con ellos. Sin embargo, decidimos actuar de forma mÃ¡s cautelosa hasta que pudiÃ©ramos determinar quÃ© era exactamente el Enclave, y el propÃ³sito subyacente de su organizaciÃ³n.}
+{126}{}{Con esta finalidad, reactivamos varios puestos avanzados cerca de las zonas de actividad del Enclave desde las que pudiÃ©ramos observarlos con seguridad. Actualmente, hemos activado puestos asÃ­ en La Guarida, RNC, y aquÃ­ en San Francisco.}
+{127}{}{Â¿QuÃ© habÃ©is descubierto?}
+{128}{}{Parece interesante. Â¿QuÃ© habÃ©is descubierto?}
+{129}{}{Hemos descubierto que el Enclave comercia a gran escala con drogas, armas y esclavos. Sin embargo, eso sÃ³lo son actividades triviales que les conducen a algÃºn propÃ³sito superior, que hemos fracasado en descubrir. AÃºn les seguimos vigilando.}
+{130}{}{Â¿Por quÃ© me cuentas todo esto ahora?}
+{131}{}{Antes de continuar, Â¿por quÃ© me cuentas todo esto ahora?}
+{132}{}{(suspira) El Enclave ha desarrollado la tecnologÃ­a vertibird, unas mÃ¡quinas voladoras que les permiten adentrarse profundamente en territorios vecinos. Sin una tecnologÃ­a similar para contrarrestar esta amenaza, la Hermandad podrÃ­a ser incapaz de detener una invasiÃ³n del Enclave. Necesitamos disponer de la tecnologÃ­a vertibird, o algo similar que nos permita contrarrestarla.}
+{133}{}{Bien, recientemente el Enclave ha establecido una base al norte de aquÃ­ llamada Navarro. Se usa como punto intermedio para el mantenimiento y repostaje de los vertibirds. Estoy convencido de que en tal base puede haber planos tÃ©cnicos completos de los vertibirds. Todo lo que necesito es a alguien que se infiltre en la base, robe los planos, y me los entregue a mÃ­.}
+{134}{}{Eh... Â¿hago yo?}
+{135}{}{DÃ©jame adivinar. Quieres que me infiltre en esa base por ti.}
 {136}{}{Deja que sea franco contigo,}
-{137}{}{. La Hermandad del Acero no tiene el poder que una vez tuvo. Creíamos ser la única fuente de tecnología que le quedaba a la humanidad. Seguros en esa creencia, permitimos a nuestra orden declinar a lo largo de los años. Ahora no tenemos a nuestra disposición los recursos necesarios para encargarnos del Enclave. Necesitamos tu ayuda.}
-{138}{}{Estoy en condiciones de hacerte esta oferta. Lleva a cabo esta misión para mí y te garantizaré el acceso a nuestras instalaciones aquí. La mejor tecnología de la Hermandad estará a tu disposición de forma exclusiva. ¿Qué me dices?}
+{137}{}{. La Hermandad del Acero no tiene el poder que una vez tuvo. CreÃ­amos ser la Ãºnica fuente de tecnologÃ­a que le quedaba a la humanidad. Seguros en esa creencia, permitimos a nuestra orden declinar a lo largo de los aÃ±os. Ahora no tenemos a nuestra disposiciÃ³n los recursos necesarios para encargarnos del Enclave. Necesitamos tu ayuda.}
+{138}{}{Estoy en condiciones de hacerte esta oferta. Lleva a cabo esta misiÃ³n para mÃ­ y te garantizarÃ© el acceso a nuestras instalaciones aquÃ­. La mejor tecnologÃ­a de la Hermandad estarÃ¡ a tu disposiciÃ³n de forma exclusiva. Â¿QuÃ© me dices?}
 {139}{}{Lo pienso.}
 {140}{}{No quiero. Marcho ya.}
 {141}{}{Diablos. Hago yo.}
-{142}{}{Pensaré en ello.}
+{142}{}{PensarÃ© en ello.}
 {143}{}{Ni hablar. Encuentra a otro tonto.}
-{144}{}{Qué diablos. Debo estar loca, pero lo haré.}
-{145}{}{Me parece justo. Vuelve cuando hayas tomado una decisión.}
-{146}{}{Vale. Adiós.}
-{147}{}{Vale, pero pregunto más.}
+{144}{}{QuÃ© diablos. Debo estar loca, pero lo harÃ©.}
+{145}{}{Me parece justo. Vuelve cuando hayas tomado una decisiÃ³n.}
+{146}{}{Vale. AdiÃ³s.}
+{147}{}{Vale, pero pregunto mÃ¡s.}
 {148}{}{De acuerdo. Nos veremos.}
-{149}{}{De acuerdo, pero me gustaría preguntarte un par de cosas.}
-{150}{}{Entiendo tus reticencias en aceptar una misión así. Si cambias de opinión, por favor házmelo saber.}
-{151}{}{Vale. Adiós.}
-{152}{}{Vale, pero pregunto más.}
+{149}{}{De acuerdo, pero me gustarÃ­a preguntarte un par de cosas.}
+{150}{}{Entiendo tus reticencias en aceptar una misiÃ³n asÃ­. Si cambias de opiniÃ³n, por favor hÃ¡zmelo saber.}
+{151}{}{Vale. AdiÃ³s.}
+{152}{}{Vale, pero pregunto mÃ¡s.}
 {153}{}{De acuerdo. Nos veremos.}
-{154}{}{De acuerdo, pero me gustaría preguntarte un par de cosas.}
-{155}{}{Excelente. Esto es lo que necesito que hagas. Ve a Navarro, infíltrate en la base, y recupera los planos técnicos de los vertibirds. Y tráemelos aquí.}
-{156}{}{Vale. Eh... ¿Cómo hago yo? Es una base de soldados.}
+{154}{}{De acuerdo, pero me gustarÃ­a preguntarte un par de cosas.}
+{155}{}{Excelente. Esto es lo que necesito que hagas. Ve a Navarro, infÃ­ltrate en la base, y recupera los planos tÃ©cnicos de los vertibirds. Y trÃ¡emelos aquÃ­.}
+{156}{}{Vale. Eh... Â¿CÃ³mo hago yo? Es una base de soldados.}
 {157}{}{Vale. Marcho ahora.}
-{158}{}{Está bien, pero... ¿cómo crees que debería ocuparme de esto? Después de todo, se trata de una base militar.}
-{159}{}{Bien. Me pondré a ello.}
-{160}{}{Al completar con éxito tu misión te permitiré acceder a nuestras instalaciones aquí. Mientras tanto, sería mejor que comenzaras de inmediato. Gracias, }
+{158}{}{EstÃ¡ bien, pero... Â¿cÃ³mo crees que deberÃ­a ocuparme de esto? DespuÃ©s de todo, se trata de una base militar.}
+{159}{}{Bien. Me pondrÃ© a ello.}
+{160}{}{Al completar con Ã©xito tu misiÃ³n te permitirÃ© acceder a nuestras instalaciones aquÃ­. Mientras tanto, serÃ­a mejor que comenzaras de inmediato. Gracias, }
 {161}{}{.}
-{162}{}{Vale. Adiós.}
-{163}{}{Sí, pero hago más pregunta.}
-{164}{}{Sí, ya nos veremos.}
-{165}{}{Dalo por hecho, pero me gustaría preguntarte un par de cosas más.}
-{166}{}{Hemos tenido esta base durante años. Al mantener un perfil bajo con mínimo personal, nunca atraemos la atención sobre nosotros mismos, y logramos el anonimato. Dejamos a los Shi tranquilos, y ellos hacen lo mismo con nosotros.}
+{162}{}{Vale. AdiÃ³s.}
+{163}{}{SÃ­, pero hago mÃ¡s pregunta.}
+{164}{}{SÃ­, ya nos veremos.}
+{165}{}{Dalo por hecho, pero me gustarÃ­a preguntarte un par de cosas mÃ¡s.}
+{166}{}{Hemos tenido esta base durante aÃ±os. Al mantener un perfil bajo con mÃ­nimo personal, nunca atraemos la atenciÃ³n sobre nosotros mismos, y logramos el anonimato. Dejamos a los Shi tranquilos, y ellos hacen lo mismo con nosotros.}
 {167}{}{Entiendo yo...}
-{168}{}{Sí, ya veo lo que quieres decir.}
-{169}{}{Demasiada gente en un mismo lugar puede llamar la atención. Un sólo hombre en una ciudad habitada llama mucho menos la atención.}
+{168}{}{SÃ­, ya veo lo que quieres decir.}
+{169}{}{Demasiada gente en un mismo lugar puede llamar la atenciÃ³n. Un sÃ³lo hombre en una ciudad habitada llama mucho menos la atenciÃ³n.}
 {170}{}{Vale.}
-{171}{}{Hola de nuevo. ¿Hay algo en lo que pueda ayudarte?}
-{172}{}{No, sólo digo hola.}
-{173}{}{Sí. ¿Te hago pregunta?}
-{174}{}{No, sólo pasaba por aquí.}
-{175}{}{Sí, respóndeme algunas preguntas.}
-{176}{}{Hola. ¿Has pensando en mi oferta?}
+{171}{}{Hola de nuevo. Â¿Hay algo en lo que pueda ayudarte?}
+{172}{}{No, sÃ³lo digo hola.}
+{173}{}{SÃ­. Â¿Te hago pregunta?}
+{174}{}{No, sÃ³lo pasaba por aquÃ­.}
+{175}{}{SÃ­, respÃ³ndeme algunas preguntas.}
+{176}{}{Hola. Â¿Has pensando en mi oferta?}
 {177}{}{No.}
-{178}{}{Sí. Hago trabajo.}
-{179}{}{No, aún no.}
-{180}{}{Sí, creo que haré el trabajo.}
-{181}{}{Hola. ¿Has cambiado de opinión acerca de mi oferta?}
+{178}{}{SÃ­. Hago trabajo.}
+{179}{}{No, aÃºn no.}
+{180}{}{SÃ­, creo que harÃ© el trabajo.}
+{181}{}{Hola. Â¿Has cambiado de opiniÃ³n acerca de mi oferta?}
 {182}{}{No.}
-{183}{}{Sí. Hago yo.}
+{183}{}{SÃ­. Hago yo.}
 {184}{}{No, no lo he hecho.}
-{185}{}{Sí, haré el trabajo.}
-{186}{}{¿Has completado tu misión?}
-{187}{}{No, aún intento.}
+{185}{}{SÃ­, harÃ© el trabajo.}
+{186}{}{Â¿Has completado tu misiÃ³n?}
+{187}{}{No, aÃºn intento.}
 {188}{}{Tengo planos.}
 {189}{}{No, sigo trabajando en ello.}
 {190}{}{Tengo los planos del vertibird para ti.}
-{191}{}{Bien, sigue con ello. Sé que es una misión difícil, pero creo que puedes conseguirlo.}
+{191}{}{Bien, sigue con ello. SÃ© que es una misiÃ³n difÃ­cil, pero creo que puedes conseguirlo.}
 {192}{}{Vale.}
-{193}{}{¡Excelente trabajo! Déjame los planos, y les haré una copia. Como te prometí, te daré acceso total a nuestras instalaciones. Gracias.}
+{193}{}{Â¡Excelente trabajo! DÃ©jame los planos, y les harÃ© una copia. Como te prometÃ­, te darÃ© acceso total a nuestras instalaciones. Gracias.}
 {194}{}{De nada.}
-{195}{}{No hay de qué.}
-{196}{}{Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte sola y como una recién llegada. Es lo que te sugeriría.}
-{197}{}{Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte sola y como una recién llegada. Es lo que te sugeriría. Podrías dejar aquí a tus amigos esperando.}
+{195}{}{No hay de quÃ©.}
+{196}{}{Navarro es relativamente nueva y aÃºn no dispone de todo su personal. Mis fuentes seÃ±alan que reciben nuevos reclutas de vez en cuando. Tal vez podrÃ­as presentarte sola y como una reciÃ©n llegada. Es lo que te sugerirÃ­a.}
+{197}{}{Navarro es relativamente nueva y aÃºn no dispone de todo su personal. Mis fuentes seÃ±alan que reciben nuevos reclutas de vez en cuando. Tal vez podrÃ­as presentarte sola y como una reciÃ©n llegada. Es lo que te sugerirÃ­a. PodrÃ­as dejar aquÃ­ a tus amigos esperando.}
 {198}{}{Vale.}
-{199}{}{¿Fuentes? ¿Dicen fuentes?}
+{199}{}{Â¿Fuentes? Â¿Dicen fuentes?}
 {200}{}{De acuerdo.}
-{201}{}{Has mencionado unas 'fuentes'. ¿Quienes son?}
-{202}{}{Tenía una operativo que vigilaba la base. Sus informes dejaron de llegar hace poco; sólo puedo suponer lo peor. Por favor, ten cuidado, }
+{201}{}{Has mencionado unas 'fuentes'. Â¿Quienes son?}
+{202}{}{TenÃ­a una operativo que vigilaba la base. Sus informes dejaron de llegar hace poco; sÃ³lo puedo suponer lo peor. Por favor, ten cuidado, }
 {203}{}{. No disfruto enviando gente a la muerte.}
 {204}{}{Yo cuidado, gracias.}
-{205}{}{Seré cuidadosa. Gracias.}
+{205}{}{SerÃ© cuidadosa. Gracias.}
 {206}{}{Gracias otra vez por toda tu ayuda. Ahora tienes acceso total a nuestras instalaciones.}
 {207}{}{Esa es una oficina privada.}
-{208}{}{Ahí dentro no hay nada para ti.}
-{209}{}{Esto es propiedad privada, así que muévete.}
-{210}{}{¿Cómo sabes quién soy?}
-{211}{}{¿Sabes quién yo?}
-{212}{}{Sé muchas cosas.}
-{213}{}{Al finalizar tu misión con éxito tendré el petrolero listo para ti, y te garantizaré el acceso a nuestras instalaciones aquí. Mientras tanto sería mejor que empezaras de inmediato. Gracias, }
+{208}{}{AhÃ­ dentro no hay nada para ti.}
+{209}{}{Esto es propiedad privada, asÃ­ que muÃ©vete.}
+{210}{}{Â¿CÃ³mo sabes quiÃ©n soy?}
+{211}{}{Â¿Sabes quiÃ©n yo?}
+{212}{}{SÃ© muchas cosas.}
+{213}{}{Al finalizar tu misiÃ³n con Ã©xito tendrÃ© el petrolero listo para ti, y te garantizarÃ© el acceso a nuestras instalaciones aquÃ­. Mientras tanto serÃ­a mejor que empezaras de inmediato. Gracias, }
 {214}{}{De nada.}
-{215}{}{¡Excelente trabajo! Déjame los planos, y les haré una copia. Como te prometí, me aseguraré de que el petrolero esté listo para llegar a la plataforma petrolífera: simplemente dirígete a la computadora del nivel superior y pulsa el botón 'Adelante'. También te daré acceso total a nuestras instalaciones. Gracias.}
-{216}{}{¡De nada!}
-{217}{}{Tan solo sal por esa puerta, si quieres, o súbete al petrolero. Está listo para marcharse. ¡Buena suerte!}
-{218}{}{Así que estoy dispuesto a hacerte esta oferta. Lleva a cabo esta misión para mí y prepararé el petrolero para tu viaje hacia el Enclave. ¿Qué me dices?}
+{215}{}{Â¡Excelente trabajo! DÃ©jame los planos, y les harÃ© una copia. Como te prometÃ­, me asegurarÃ© de que el petrolero estÃ© listo para llegar a la plataforma petrolÃ­fera: simplemente dirÃ­gete a la computadora del nivel superior y pulsa el botÃ³n 'Adelante'. TambiÃ©n te darÃ© acceso total a nuestras instalaciones. Gracias.}
+{216}{}{Â¡De nada!}
+{217}{}{Tan solo sal por esa puerta, si quieres, o sÃºbete al petrolero. EstÃ¡ listo para marcharse. Â¡Buena suerte!}
+{218}{}{AsÃ­ que estoy dispuesto a hacerte esta oferta. Lleva a cabo esta misiÃ³n para mÃ­ y prepararÃ© el petrolero para tu viaje hacia el Enclave. Â¿QuÃ© me dices?}
 {219}{}{Lo pienso.}
 {220}{}{No quiero. Marcho ya.}
 {221}{}{Diablos. Hago yo.}

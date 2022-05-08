@@ -1,1 +1,1 @@
-{100}{}{Widzisz skrzynie wype≥nione po brzegi nieznanymi ci chemikaliami.}
+{100}{}{Widzisz skrzynie wype≈Çnione po brzegi nieznanymi ci chemikaliami.}

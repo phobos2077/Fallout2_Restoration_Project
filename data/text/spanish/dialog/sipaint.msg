@@ -1,1 +1,1 @@
-{100}{}{En la parte trasera de la pintura encuentras un mapa dibujado a mano que muestra la localización del Refugio 13.}
+{100}{}{En la parte trasera de la pintura encuentras un mapa dibujado a mano que muestra la localizaciÃ³n del Refugio 13.}

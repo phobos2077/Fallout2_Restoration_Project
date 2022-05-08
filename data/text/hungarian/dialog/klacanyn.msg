@@ -1,1 +1,1 @@
-{100}{}{Egy Klamathhoz közeli kanyonba értél.}
+{100}{}{Egy Klamathhoz kÃ¶zeli kanyonba Ã©rtÃ©l.}

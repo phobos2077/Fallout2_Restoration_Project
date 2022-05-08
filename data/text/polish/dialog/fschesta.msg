@@ -1,39 +1,39 @@
 {100}{}{Widzisz terminal komputerowy.}
-{101}{}{Widzisz chemiczn¹ stacjê robocz¹.}
-{102}{}{Widzisz komputerow¹ stacjê robocz¹.}
-{103}{}{Witaj. Podaj has³o, aby potwierdziæ swoj¹ to¿samoœæ.}
-{104}{}{? Moja nie rozumie du¿a s³owo.}
+{101}{}{Widzisz chemicznÄ… stacjÄ™ roboczÄ….}
+{102}{}{Widzisz komputerowÄ… stacjÄ™ roboczÄ….}
+{103}{}{Witaj. Podaj hasÅ‚o, aby potwierdziÄ‡ swojÄ… toÅ¼samoÅ›Ä‡.}
+{104}{}{? Moja nie rozumie duÅ¼a sÅ‚owo.}
 {105}{}{TIUASPO-Lo-Shi-S12908}
-{106}{}{[W³am siê do komputera]}
-{107}{}{Wyloguj siê.}
+{106}{}{[WÅ‚am siÄ™ do komputera]}
+{107}{}{Wyloguj siÄ™.}
 {108}{}{Chemiczna baza danych: -Paliwo i pochodne-, -Polimery-}
 {109}{}{Paliwo i pochodne.}
 {110}{}{Polimery.}
-{111}{}{Wy³¹cz stacjê robocz¹.}
-{112}{}{Wyloguj siê.}
-{113}{}{Prosze skontaktowaæ siê z administratorem systemu. Do widzenia.}
-{114}{}{[W³am siê do komputera]}
-{115}{}{OdejdŸ.}
-{116}{}{Intruz wykryty, alarm aktywowany. Wy³¹czenie systemu. Mi³ego dnia ¿yczê.}
+{111}{}{WyÅ‚Ä…cz stacjÄ™ roboczÄ….}
+{112}{}{Wyloguj siÄ™.}
+{113}{}{Prosze skontaktowaÄ‡ siÄ™ z administratorem systemu. Do widzenia.}
+{114}{}{[WÅ‚am siÄ™ do komputera]}
+{115}{}{OdejdÅº.}
+{116}{}{Intruz wykryty, alarm aktywowany. WyÅ‚Ä…czenie systemu. MiÅ‚ego dnia Å¼yczÄ™.}
 {117}{}{[dalej]}
-{118}{}{(Po przekopaniu siê przez z³o¿one wzory chemiczne i notatki laboratoryjne dochodzisz do wniosku, ¿e Shi stworzyli pewien rodzaj paliwa z wyci¹gu z roœlin i organizmów morskich. Wygl¹da równie¿ na to, ¿e przy³¹czyli siê do istniej¹cych ju¿ uprzednio rur przesy³owych, dziêki czemu mog¹ transportowaæ paliwo do szerokiego wachlarza miejsc.)}
-{119}{}{(Napotykasz ogromn¹ iloœæ skomplikowanych formu³ chemicznych i notatek laboratoryjnych. Nie masz zbytniej pewnoœci, co to wszystko mo¿e znaczyæ.)}
+{118}{}{(Po przekopaniu siÄ™ przez zÅ‚oÅ¼one wzory chemiczne i notatki laboratoryjne dochodzisz do wniosku, Å¼e Shi stworzyli pewien rodzaj paliwa z wyciÄ…gu z roÅ›lin i organizmÃ³w morskich. WyglÄ…da rÃ³wnieÅ¼ na to, Å¼e przyÅ‚Ä…czyli siÄ™ do istniejÄ…cych juÅ¼ uprzednio rur przesyÅ‚owych, dziÄ™ki czemu mogÄ… transportowaÄ‡ paliwo do szerokiego wachlarza miejsc.)}
+{119}{}{(Napotykasz ogromnÄ… iloÅ›Ä‡ skomplikowanych formuÅ‚ chemicznych i notatek laboratoryjnych. Nie masz zbytniej pewnoÅ›ci, co to wszystko moÅ¼e znaczyÄ‡.)}
 {120}{}{Skieruj paliwo do tankowca Posejdon.}
-{121}{}{Skieruj paliwo do Centrologów.}
-{122}{}{Wróæ.}
-{123}{}{(Po przebiciu siê przez dyskusje techniczne i symbolikê odkrywasz, ¿e Shi pracuj¹ nad nowym rodzajem polimerycznego pancerza bojowego, odpornego zarówno na ogieñ, jak i na przebicie. Min¹ jednak lata, zanim zostanie ukoñczony. Widzisz tak¿e wzmianki o nowym uzbrojeniu i mo¿liwoœciach konstrukcyjnych. Najwidoczniej Shi maj¹ jakieœ plany na przysz³oœæ.)}
-{124}{}{Wróæ.}
-{125}{}{Paliwo przes³ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
+{121}{}{Skieruj paliwo do CentrologÃ³w.}
+{122}{}{WrÃ³Ä‡.}
+{123}{}{(Po przebiciu siÄ™ przez dyskusje techniczne i symbolikÄ™ odkrywasz, Å¼e Shi pracujÄ… nad nowym rodzajem polimerycznego pancerza bojowego, odpornego zarÃ³wno na ogieÅ„, jak i na przebicie. MinÄ… jednak lata, zanim zostanie ukoÅ„czony. Widzisz takÅ¼e wzmianki o nowym uzbrojeniu i moÅ¼liwoÅ›ciach konstrukcyjnych. Najwidoczniej Shi majÄ… jakieÅ› plany na przyszÅ‚oÅ›Ä‡.)}
+{124}{}{WrÃ³Ä‡.}
+{125}{}{Paliwo przesÅ‚ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
 {126}{}{[dalej]}
-{127}{}{Paliwo przes³ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
+{127}{}{Paliwo przesÅ‚ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
 {128}{}{[dalej]}
-{129}{}{Stacja wy³¹czona.}
-{130}{}{W³¹cz stacjê.}
-{131}{}{OdejdŸ.}
-{132}{}{[Twoja próba na chybi³-trafi³ czyni cuda... jesteœ w komputerze!]}
+{129}{}{Stacja wyÅ‚Ä…czona.}
+{130}{}{WÅ‚Ä…cz stacjÄ™.}
+{131}{}{OdejdÅº.}
+{132}{}{[Twoja prÃ³ba na chybiÅ‚-trafiÅ‚ czyni cuda... jesteÅ› w komputerze!]}
 {133}{}{[KONTYNUUJ]}
-{134}{}{Ten komputer nie odpowiada na ¿adne komendy.}
-{135}{}{Nie znajdujesz ¿adnego miejsca, gdzie mo¿na by to w³o¿yæ.}
-{136}{}{[Zgadnij has³o.]}
+{134}{}{Ten komputer nie odpowiada na Å¼adne komendy.}
+{135}{}{Nie znajdujesz Å¼adnego miejsca, gdzie moÅ¼na by to wÅ‚oÅ¼yÄ‡.}
+{136}{}{[Zgadnij hasÅ‚o.]}
 {137}{}{Skieruj paliwo przez rury.}
 {138}{}{Wymagany kierunek.}

@@ -1,1 +1,1 @@
-{100}{}{Entrar en una zona montañosa. Un Ranger casa de seguridad se encuentra en las inmediaciones.}
+{100}{}{Entrar en una zona montaÃ±osa. Un Ranger casa de seguridad se encuentra en las inmediaciones.}

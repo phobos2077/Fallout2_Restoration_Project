@@ -1,8 +1,8 @@
 {150}{}{Deixar a nossa terra.}
-{151}{}{Você ultrapassa.}
-{152}{}{Esta é a nossa terra.}
-{153}{}{Deixe os espíritos do céu mijar em você.}
-{154}{}{Possa o espírito da terra engolir você.}
-{155}{}{Que os espíritos do vento soprem um mau cheiro na sua direção.}
-{156}{}{Espíritos da água do deserto.}
-{157}{}{Grandes espíritos de fogo o amaldiçoam.}
+{151}{}{VocÃª ultrapassa.}
+{152}{}{Esta Ã© a nossa terra.}
+{153}{}{Deixe os espÃ­ritos do cÃ©u mijar em vocÃª.}
+{154}{}{Possa o espÃ­rito da terra engolir vocÃª.}
+{155}{}{Que os espÃ­ritos do vento soprem um mau cheiro na sua direÃ§Ã£o.}
+{156}{}{EspÃ­ritos da Ã¡gua do deserto.}
+{157}{}{Grandes espÃ­ritos de fogo o amaldiÃ§oam.}

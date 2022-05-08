@@ -1,18 +1,18 @@
-{100}{}{Wed³ug napisu na obro¿y zwierzê nazywa siê Bess.}
+{100}{}{WedÅ‚ug napisu na obroÅ¼y zwierzÄ™ nazywa siÄ™ Bess.}
 {101}{}{Widzisz Bess.}
-{110}{}{Chyba zosta³a zaatakowana przez jakieœ dzikie zwierzê. NieŸle oberwa³a.}
-{111}{}{To wspania³y okaz braminy, ka¿dy by³by z niej dumny.}
+{110}{}{Chyba zostaÅ‚a zaatakowana przez jakieÅ› dzikie zwierzÄ™. NieÅºle oberwaÅ‚a.}
+{111}{}{To wspaniaÅ‚y okaz braminy, kaÅ¼dy byÅ‚by z niej dumny.}
 {120}{}{Muuu!}
 {121}{}{[Ta biedna bramina jest ranna.]}
 {130}{}{Muuu.}
-{131}{}{[Bess ¿a³oœnie porykuje.]}
-{132}{}{Biedactwo - mo¿e lepiej by³o ciê nie sprzedawaæ? Chcia³abyœ siê st¹d wydostaæ, tak?}
-{133}{}{Ha! Bêdzie z ciebie niez³a wy¿erka. Do zobaczenia na stole.}
+{131}{}{[Bess Å¼aÅ‚oÅ›nie porykuje.]}
+{132}{}{Biedactwo - moÅ¼e lepiej byÅ‚o ciÄ™ nie sprzedawaÄ‡? ChciaÅ‚abyÅ› siÄ™ stÄ…d wydostaÄ‡, tak?}
+{133}{}{Ha! BÄ™dzie z ciebie niezÅ‚a wyÅ¼erka. Do zobaczenia na stole.}
 {140}{}{Muuu.}
-{141}{}{[Jej muczenie zabrzmia³o tak jakoœ radoœniej.]}
-{142}{}{No to jazda. Wynoœmy siê st¹d.}
-{143}{}{¯artujê. Bardziej mi siê przydasz upieczona.}
+{141}{}{[Jej muczenie zabrzmiaÅ‚o tak jakoÅ› radoÅ›niej.]}
+{142}{}{No to jazda. WynoÅ›my siÄ™ stÄ…d.}
+{143}{}{Å»artujÄ™. Bardziej mi siÄ™ przydasz upieczona.}
 {150}{}{Muuu.}
-{200}{}{Umiejêtnoœæ udzielania pierwszej pomocy nie wystarczy by wyleczyæ z³aman¹ nogê.}
-{300}{}{Uda³o ci siê wyleczyæ z³aman¹ nogê braminy.}
-{310}{}{Nie uda³o ci siê wyleczyæ z³amanej nogi braminy.}
+{200}{}{UmiejÄ™tnoÅ›Ä‡ udzielania pierwszej pomocy nie wystarczy by wyleczyÄ‡ zÅ‚amanÄ… nogÄ™.}
+{300}{}{UdaÅ‚o ci siÄ™ wyleczyÄ‡ zÅ‚amanÄ… nogÄ™ braminy.}
+{310}{}{Nie udaÅ‚o ci siÄ™ wyleczyÄ‡ zÅ‚amanej nogi braminy.}

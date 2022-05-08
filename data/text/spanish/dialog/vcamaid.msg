@@ -1,8 +1,8 @@
 {100}{}{Ves a un Ciudadano.}
 {101}{}{Ves al ayudante de Servicios.}
 {102}{}{Habla con Randal si necesitas ayuda.}
-{103}{}{AquÌ es donde almacenamos bienes para el uso de los Ciudadanos.}
-{104}{}{MantÈn las manos lejos de la mercancÌa si no est·s aprobado.}
+{103}{}{Aqu√≠ es donde almacenamos bienes para el uso de los Ciudadanos.}
+{104}{}{Mant√©n las manos lejos de la mercanc√≠a si no est√°s aprobado.}
 {105}{}{Es un trabajo.}
 {106}{}{Randal puede ayudarte en lo que necesites.}
-{107}{}{Las m·quinas del Refugio elaboran muchas de estas mercancÌas.}
+{107}{}{Las m√°quinas del Refugio elaboran muchas de estas mercanc√≠as.}

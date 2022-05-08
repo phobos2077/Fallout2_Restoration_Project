@@ -1,25 +1,25 @@
-{100}{}{Widzisz stra¿niczkê.}
-{101}{}{Widzisz Marka, stra¿nika.}
-{102}{}{Widzisz Marka, jednego ze stra¿ników Tylera.}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{101}{}{Widzisz Marka, straÅ¼nika.}
+{102}{}{Widzisz Marka, jednego ze straÅ¼nikÃ³w Tylera.}
 {150}{}{Hej, Tyler!}
 {200}{}{Co do...?}
-{225}{}{Widzia³em, ¿e dokopiemy tym ciotom.}
-{226}{}{Dziêki za cynk. By³a niez³a zabawa.}
-{227}{}{Szkoda, ¿e wszystkich za³atwiliœmy. Teraz bêdzie nudno, nie?}
-{228}{}{No i kto rz¹dzi w tym mieœcie, co?}
-{229}{}{Jesteœmy najlepsi.}
-{230}{}{Ja pieprzê! Ale im skopaliœmy dupy!}
+{225}{}{WidziaÅ‚em, Å¼e dokopiemy tym ciotom.}
+{226}{}{DziÄ™ki za cynk. ByÅ‚a niezÅ‚a zabawa.}
+{227}{}{Szkoda, Å¼e wszystkich zaÅ‚atwiliÅ›my. Teraz bÄ™dzie nudno, nie?}
+{228}{}{No i kto rzÄ…dzi w tym mieÅ›cie, co?}
+{229}{}{JesteÅ›my najlepsi.}
+{230}{}{Ja pieprzÄ™! Ale im skopaliÅ›my dupy!}
 {250}{}{Lepiej pogadaj z Tylerem paniusiu.}
-{251}{}{Co jest? Szukasz czegoœ? Pogadaj lepiej z Tylerem.}
-{252}{}{Na co siê patrzysz?}
-{253}{}{Tyler tu rz¹dzi, nie ja.}
-{255}{}{Dziœ wreszcie skopiemy im dupy!}
-{256}{}{Dziœ w nocy bêdzie gor¹co!}
-{257}{}{Tê noc zapamiêtam do koñca ¿ycia.}
-{258}{}{Mam nadziejê, ¿e nie stchórz¹.}
-{259}{}{Mam tylko nadziejê, ¿e te cioty siê pojawi¹.}
-{260}{}{Wiedzia³em, ¿e te cioty spêkaj¹.}
-{261}{}{Powinniœmy im skopaæ dupy za sam pomys³ podskoczenia nam.}
-{262}{}{Jakby siê pokazali, nie by³o by co po nich zbieraæ.}
-{263}{}{Sam bym skopa³ dupy im wszystkim.}
-{264}{}{Tyler i ja mielibyœmy niez³¹ zabawê. Szkoda...}
+{251}{}{Co jest? Szukasz czegoÅ›? Pogadaj lepiej z Tylerem.}
+{252}{}{Na co siÄ™ patrzysz?}
+{253}{}{Tyler tu rzÄ…dzi, nie ja.}
+{255}{}{DziÅ› wreszcie skopiemy im dupy!}
+{256}{}{DziÅ› w nocy bÄ™dzie gorÄ…co!}
+{257}{}{TÄ™ noc zapamiÄ™tam do koÅ„ca Å¼ycia.}
+{258}{}{Mam nadziejÄ™, Å¼e nie stchÃ³rzÄ….}
+{259}{}{Mam tylko nadziejÄ™, Å¼e te cioty siÄ™ pojawiÄ….}
+{260}{}{WiedziaÅ‚em, Å¼e te cioty spÄ™kajÄ….}
+{261}{}{PowinniÅ›my im skopaÄ‡ dupy za sam pomysÅ‚ podskoczenia nam.}
+{262}{}{Jakby siÄ™ pokazali, nie byÅ‚o by co po nich zbieraÄ‡.}
+{263}{}{Sam bym skopaÅ‚ dupy im wszystkim.}
+{264}{}{Tyler i ja mielibyÅ›my niezÅ‚Ä… zabawÄ™. Szkoda...}

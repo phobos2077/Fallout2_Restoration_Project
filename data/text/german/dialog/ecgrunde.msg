@@ -1,9 +1,9 @@
-{100}{}{Hierher, Mäuschen, Mäuschen.}
-{101}{}{Grundel brauchen dich für Eintopf.}
-{102}{}{Komm her, kleines Mäuschen.}
+{100}{}{Hierher, MÃ¤uschen, MÃ¤uschen.}
+{101}{}{Grundel brauchen dich fÃ¼r Eintopf.}
+{102}{}{Komm her, kleines MÃ¤uschen.}
 {103}{}{Liebes Grundel dir nix tun.}
 {104}{}{Hm, ihr kleinen Leckerbissen.}
-{105}{}{Komm, Mäuschen. Ich Hunger.}
+{105}{}{Komm, MÃ¤uschen. Ich Hunger.}
 {106}{}{Quiek, Quiiiiiiieeeeek. QUIIIIIIIIEK!}
 {107}{}{OK, OK, ich gelogen, ich dich essen.}
-{110}{}{Oooh! Du fettes Mäuschen. Du gutes Abendessen für Grundel.}
+{110}{}{Oooh! Du fettes MÃ¤uschen. Du gutes Abendessen fÃ¼r Grundel.}

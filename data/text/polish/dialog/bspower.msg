@@ -1,11 +1,11 @@
 {100}{}{Generator pracuje normalnie. Produkcja mocy w normie.}
-{101}{}{Wygl¹da na to, ¿e generator dzia³a w trybie awaryjnym. Produkcja mocy minimalna.}
-{102}{}{Spróbuj znaleŸæ problem.}
-{103}{}{No có¿. Trzeba ju¿ iœæ.}
-{104}{}{W pewnym momencie musia³o byæ jakieœ przepiêcie w systemie. Bezpieczniki zaskoczy³y, ale póŸniej pozosta³y nadal wy³¹czone. Chyba jesteœ w stanie je odblokowaæ i przywróciæ zasilanie.}
-{105}{}{Nie udaje ci siê znaleŸæ nic nienormalnego. Po prostu nie dzia³a.}
-{106}{}{Spróbuj naprawiæ generator.}
-{107}{}{Czas uciekaæ.}
-{108}{}{Udaje ci siê odblokowaæ po³¹czenie i przywróciæ zasilanie!}
-{109}{}{Cholera. To jest trudniejsze, ni¿ siê wydaje.}
+{101}{}{WyglÄ…da na to, Å¼e generator dziaÅ‚a w trybie awaryjnym. Produkcja mocy minimalna.}
+{102}{}{SprÃ³buj znaleÅºÄ‡ problem.}
+{103}{}{No cÃ³Å¼. Trzeba juÅ¼ iÅ›Ä‡.}
+{104}{}{W pewnym momencie musiaÅ‚o byÄ‡ jakieÅ› przepiÄ™cie w systemie. Bezpieczniki zaskoczyÅ‚y, ale pÃ³Åºniej pozostaÅ‚y nadal wyÅ‚Ä…czone. Chyba jesteÅ› w stanie je odblokowaÄ‡ i przywrÃ³ciÄ‡ zasilanie.}
+{105}{}{Nie udaje ci siÄ™ znaleÅºÄ‡ nic nienormalnego. Po prostu nie dziaÅ‚a.}
+{106}{}{SprÃ³buj naprawiÄ‡ generator.}
+{107}{}{Czas uciekaÄ‡.}
+{108}{}{Udaje ci siÄ™ odblokowaÄ‡ poÅ‚Ä…czenie i przywrÃ³ciÄ‡ zasilanie!}
+{109}{}{Cholera. To jest trudniejsze, niÅ¼ siÄ™ wydaje.}
 {110}{}{Zrobione.}

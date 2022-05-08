@@ -1,3 +1,3 @@
-{100}{}{Öö... ez egy WC.}
-{101}{}{Héé, valaki elrejtett néhány gránátot a vécékagylóba.}
-{102}{}{Itt nincs semmi... illetve semmi említésre méltó.}
+{100}{}{Ã–Ã¶... ez egy WC.}
+{101}{}{HÃ©Ã©, valaki elrejtett nÃ©hÃ¡ny grÃ¡nÃ¡tot a vÃ©cÃ©kagylÃ³ba.}
+{102}{}{Itt nincs semmi... illetve semmi emlÃ­tÃ©sre mÃ©ltÃ³.}

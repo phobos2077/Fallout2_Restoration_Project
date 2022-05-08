@@ -1,75 +1,75 @@
 {150}{}{Ez a szerel? tet?t?l-talpig mer? egy olaj.}
-{151}{}{Ez itt a Rontó-Bontó egyik szerel?je.}
-{152}{}{Ez a szerel? elég gyanús alak. A zsírtól és az olajtól alig látszik maga az ember.}
-{200}{}{Szent ég! *Nyel egyet* Nézzétek, ki jött hozzánk!}
-{201}{}{Hát megeszem a sapkám, ha ez itt nem egy kibaszott nagy kávéf?z?!}
+{151}{}{Ez itt a RontÃ³-BontÃ³ egyik szerel?je.}
+{152}{}{Ez a szerel? elÃ©g gyanÃºs alak. A zsÃ­rtÃ³l Ã©s az olajtÃ³l alig lÃ¡tszik maga az ember.}
+{200}{}{Szent Ã©g! *Nyel egyet* NÃ©zzÃ©tek, ki jÃ¶tt hozzÃ¡nk!}
+{201}{}{HÃ¡t megeszem a sapkÃ¡m, ha ez itt nem egy kibaszott nagy kÃ¡vÃ©f?z?!}
 {202}{}{Van valaki abban a vacakban?}
-{203}{}{Hozhatunk valamit? Egy sört? Kis vizet? Sütit?}
-{204}{}{Remélem, nincs gond, öö, uram... vagy hölgyem. Akárki is legyen odabenn.}
-{205}{}{Ha bármi gond lenne, T-Ray a felel?s itt mindenért. Én beszélnék vele...}
-{206}{}{Ez valami új autó?}
+{203}{}{Hozhatunk valamit? Egy sÃ¶rt? Kis vizet? SÃ¼tit?}
+{204}{}{RemÃ©lem, nincs gond, Ã¶Ã¶, uram... vagy hÃ¶lgyem. AkÃ¡rki is legyen odabenn.}
+{205}{}{Ha bÃ¡rmi gond lenne, T-Ray a felel?s itt mindenÃ©rt. Ã‰n beszÃ©lnÃ©k vele...}
+{206}{}{Ez valami Ãºj autÃ³?}
 {207}{}{Mi nem akarunk bajt.}
-{208}{}{Talán éppen T-Rayhez jöttél... Hátul megtalálod.}
-{220}{}{Hát üdvözöljük a kisasszonyt nálunk! Nagyon jól adod el? magad.}
-{221}{}{Azta! Nálunk aztán nem hemzsegnek a látogatók... Mit tehetünk érted, }
-{222}{}{Hát láttam, ahogy a nyakadba húztad a lábaidat. Hogy vagy képes ezt megcsinálni?}
-{223}{}{Azok a cicik igaziak? Hadd nézzem meg!}
-{224}{}{Nagy fáradság lenne, ha benéznél a motorházam alá?}
-{225}{}{Fenébe, úgy nézek ki, mint a mosott kaki, erre most kell jönnöd. Remélem, nem zavar az olaj.}
-{226}{}{Fogadjunk egy szakért?t keresel. T-Ray hátul van, de én nem zavarnám a helyedben.}
-{227}{}{Tudtam, hogy reggel fürdenem kellett volna...}
-{228}{}{Megnézzem az olajszinted? Hehe...}
-{229}{}{Jaj, hová tettem a hancúrlécemet... nem akarod megkeresni?}
-{230}{}{::Fütyül::}
-{231}{}{Francba. Micsoda ívek... addig bámulom, míg kisodródok.}
-{232}{}{Hát jó napokat kívánunk, kis hölgy!}
-{233}{}{Azta! Nálunk aztán nem hemzsegnek a látogatók... Mit tehetünk érted, kislány?}
-{234}{}{Valami jó kis szexet keresel? T-Ray hátul van, de nem kéne ?t zavarni.}
-{245}{}{Láttalak bunyózni a ringben. Iszonyat jobb horgod van!}
-{246}{}{Ugye nem akarsz lefeküdni a ringben? 30 dolcsit tettem rád.}
-{247}{}{Bokszbajnok létedre nem is nézel ki olyan keménynek.}
+{208}{}{TalÃ¡n Ã©ppen T-Rayhez jÃ¶ttÃ©l... HÃ¡tul megtalÃ¡lod.}
+{220}{}{HÃ¡t Ã¼dvÃ¶zÃ¶ljÃ¼k a kisasszonyt nÃ¡lunk! Nagyon jÃ³l adod el? magad.}
+{221}{}{Azta! NÃ¡lunk aztÃ¡n nem hemzsegnek a lÃ¡togatÃ³k... Mit tehetÃ¼nk Ã©rted, }
+{222}{}{HÃ¡t lÃ¡ttam, ahogy a nyakadba hÃºztad a lÃ¡baidat. Hogy vagy kÃ©pes ezt megcsinÃ¡lni?}
+{223}{}{Azok a cicik igaziak? Hadd nÃ©zzem meg!}
+{224}{}{Nagy fÃ¡radsÃ¡g lenne, ha benÃ©znÃ©l a motorhÃ¡zam alÃ¡?}
+{225}{}{FenÃ©be, Ãºgy nÃ©zek ki, mint a mosott kaki, erre most kell jÃ¶nnÃ¶d. RemÃ©lem, nem zavar az olaj.}
+{226}{}{Fogadjunk egy szakÃ©rt?t keresel. T-Ray hÃ¡tul van, de Ã©n nem zavarnÃ¡m a helyedben.}
+{227}{}{Tudtam, hogy reggel fÃ¼rdenem kellett volna...}
+{228}{}{MegnÃ©zzem az olajszinted? Hehe...}
+{229}{}{Jaj, hovÃ¡ tettem a hancÃºrlÃ©cemet... nem akarod megkeresni?}
+{230}{}{::FÃ¼tyÃ¼l::}
+{231}{}{Francba. Micsoda Ã­vek... addig bÃ¡mulom, mÃ­g kisodrÃ³dok.}
+{232}{}{HÃ¡t jÃ³ napokat kÃ­vÃ¡nunk, kis hÃ¶lgy!}
+{233}{}{Azta! NÃ¡lunk aztÃ¡n nem hemzsegnek a lÃ¡togatÃ³k... Mit tehetÃ¼nk Ã©rted, kislÃ¡ny?}
+{234}{}{Valami jÃ³ kis szexet keresel? T-Ray hÃ¡tul van, de nem kÃ©ne ?t zavarni.}
+{245}{}{LÃ¡ttalak bunyÃ³zni a ringben. Iszonyat jobb horgod van!}
+{246}{}{Ugye nem akarsz lefekÃ¼dni a ringben? 30 dolcsit tettem rÃ¡d.}
+{247}{}{Bokszbajnok lÃ©tedre nem is nÃ©zel ki olyan kemÃ©nynek.}
 {248}{}{Mennyit nyomsz fekve?}
 {249}{}{Hol edzel?}
-{250}{}{Vigyázz a Húsdarálóval! Imádja a füleket!}
-{251}{}{Akarsz sört? Munkaid?re szoktuk tartogatni...}
-{252}{}{T-Ray szerint nem vagy különösebben kemény. Adok 5 dolcsit, ha mész és megcsapkodod a pofáját.}
-{253}{}{T-Ray szerint olyan a állkapcsod, mint az üveg. Ha akarsz beszélni vele, hátul megtalálod.}
-{254}{}{Az a Húsdaráló egy beszari alak. Öö... meg ne mondd neki, hogy én mondtam.}
-{265}{}{Remélem, nincs semmi gond, hölgyem.}
-{266}{}{Nem akartunk tiszteletlenek lenni, hölgyem!}
-{267}{}{Szent ég! *Nyel egyet* Nézzétek, ki jött hozzánk!}
-{268}{}{Mit tehetünk érted, }
-{269}{}{Hozhatunk valamit? Egy sört? Kis vizet? Sütit?}
-{270}{}{Ha bármi gond lenne, T-Ray a felel?s itt mindenért. Én beszélnék vele...}
-{271}{}{Mondd meg a f?nöködnek, hogy mindannyian üdvözöljük!}
-{272}{}{Talán éppen T-Rayhez jöttél... Hátul megtalálod.}
-{273}{}{Remélem, nincs semmi gond, uram.}
+{250}{}{VigyÃ¡zz a HÃºsdarÃ¡lÃ³val! ImÃ¡dja a fÃ¼leket!}
+{251}{}{Akarsz sÃ¶rt? Munkaid?re szoktuk tartogatni...}
+{252}{}{T-Ray szerint nem vagy kÃ¼lÃ¶nÃ¶sebben kemÃ©ny. Adok 5 dolcsit, ha mÃ©sz Ã©s megcsapkodod a pofÃ¡jÃ¡t.}
+{253}{}{T-Ray szerint olyan a Ã¡llkapcsod, mint az Ã¼veg. Ha akarsz beszÃ©lni vele, hÃ¡tul megtalÃ¡lod.}
+{254}{}{Az a HÃºsdarÃ¡lÃ³ egy beszari alak. Ã–Ã¶... meg ne mondd neki, hogy Ã©n mondtam.}
+{265}{}{RemÃ©lem, nincs semmi gond, hÃ¶lgyem.}
+{266}{}{Nem akartunk tiszteletlenek lenni, hÃ¶lgyem!}
+{267}{}{Szent Ã©g! *Nyel egyet* NÃ©zzÃ©tek, ki jÃ¶tt hozzÃ¡nk!}
+{268}{}{Mit tehetÃ¼nk Ã©rted, }
+{269}{}{Hozhatunk valamit? Egy sÃ¶rt? Kis vizet? SÃ¼tit?}
+{270}{}{Ha bÃ¡rmi gond lenne, T-Ray a felel?s itt mindenÃ©rt. Ã‰n beszÃ©lnÃ©k vele...}
+{271}{}{Mondd meg a f?nÃ¶kÃ¶dnek, hogy mindannyian Ã¼dvÃ¶zÃ¶ljÃ¼k!}
+{272}{}{TalÃ¡n Ã©ppen T-Rayhez jÃ¶ttÃ©l... HÃ¡tul megtalÃ¡lod.}
+{273}{}{RemÃ©lem, nincs semmi gond, uram.}
 {274}{}{Nem akartunk tiszteletlenek lenni, uram!}
-{300}{}{Bocsánat, hogy azt a kis gondot okoztuk a Highwaymannel.}
-{301}{}{Nem tudtuk, hogy a Highwayman a magáé.}
-{302}{}{Hát igen, a Highwayman nem rossz kocsi, de én inkább egy Omnira szavaznék.}
+{300}{}{BocsÃ¡nat, hogy azt a kis gondot okoztuk a Highwaymannel.}
+{301}{}{Nem tudtuk, hogy a Highwayman a magÃ¡Ã©.}
+{302}{}{HÃ¡t igen, a Highwayman nem rossz kocsi, de Ã©n inkÃ¡bb egy Omnira szavaznÃ©k.}
 {303}{}{El akarja adni a Highwaymant?}
-{304}{}{Gyerünk, te kis olajozott villám, te...}
-{305}{}{Kit érdekel, hogy mocskos a körmöm? Kit érdekel, hogy be kéne törnöm?... tadada dam... tadada dam dam...}
-{306}{}{A Highywayman dögös kocsi. A régi szép id?kben a Cryslus tudta, mit?l döglik a légy.}
-{307}{}{T-Ray már megint hátul "dolgozik". Lusta disznó!}
-{308}{}{Utálom, hogy folyton nekem kell T-Ray munkáját elvégeznem.}
-{309}{}{T-Ray már megint ráhajtott a csajomra.}
-{310}{}{T-Ray lefektette a húgomat. Meg az anyámat. Meg a kutyámat.}
-{311}{}{T-Ray kanosabb, mint a sokévi átlag.}
-{312}{}{T-Ray hátul van. Szokás szerint a telefonon lóg.}
-{313}{}{A motorja még mindig pöpec.}
-{314}{}{Az utastér úgy b?zlik, mintha valaki teleszarta volna.}
-{315}{}{Az utastérnek tisztára gekkószaga van.}
-{316}{}{Nem rossz kocsi, de én inkább egy Omnit szeretnék.}
-{317}{}{A Highwaymanbe abszolút analóg rendszert építettek, több, mint 800 lóer?s, nulláról százra kevesebb, mint egy másodperc alatt gyorsul.}
-{318}{}{Hogy gyors-e? A Highwayman egy másodpercnél is kevesebb id? alatt gyorsul nulláról százra.}
-{319}{}{A Highwaymanben aztán van izom. Több, mint 800 lóer?s!}
-{320}{}{Biztos, hogy jó helyen jársz?}
-{321}{}{Sajnálom azt az elmebeteget, aki csak úgy otthagyta ezt a Highwaymant.}
-{322}{}{Te csak ne aggódj... A Highwaymanbe semmiféle számítógépet nem raktak, teljesen analóg a rendszer. Sallangmentes úgy ahogy van.}
-{330}{}{Ne nyúlj hozzá, mert lecsapom a kezed. Értve vagyok?}
-{331}{}{T?nj a RETEKBE attól az autótól!}
-{332}{}{Az életed nem ér annyit, mint az az autó. Ha még egyszer hozzáérsz, bebizonyítom!}
+{304}{}{GyerÃ¼nk, te kis olajozott villÃ¡m, te...}
+{305}{}{Kit Ã©rdekel, hogy mocskos a kÃ¶rmÃ¶m? Kit Ã©rdekel, hogy be kÃ©ne tÃ¶rnÃ¶m?... tadada dam... tadada dam dam...}
+{306}{}{A Highywayman dÃ¶gÃ¶s kocsi. A rÃ©gi szÃ©p id?kben a Cryslus tudta, mit?l dÃ¶glik a lÃ©gy.}
+{307}{}{T-Ray mÃ¡r megint hÃ¡tul "dolgozik". Lusta disznÃ³!}
+{308}{}{UtÃ¡lom, hogy folyton nekem kell T-Ray munkÃ¡jÃ¡t elvÃ©geznem.}
+{309}{}{T-Ray mÃ¡r megint rÃ¡hajtott a csajomra.}
+{310}{}{T-Ray lefektette a hÃºgomat. Meg az anyÃ¡mat. Meg a kutyÃ¡mat.}
+{311}{}{T-Ray kanosabb, mint a sokÃ©vi Ã¡tlag.}
+{312}{}{T-Ray hÃ¡tul van. SzokÃ¡s szerint a telefonon lÃ³g.}
+{313}{}{A motorja mÃ©g mindig pÃ¶pec.}
+{314}{}{Az utastÃ©r Ãºgy b?zlik, mintha valaki teleszarta volna.}
+{315}{}{Az utastÃ©rnek tisztÃ¡ra gekkÃ³szaga van.}
+{316}{}{Nem rossz kocsi, de Ã©n inkÃ¡bb egy Omnit szeretnÃ©k.}
+{317}{}{A Highwaymanbe abszolÃºt analÃ³g rendszert Ã©pÃ­tettek, tÃ¶bb, mint 800 lÃ³er?s, nullÃ¡rÃ³l szÃ¡zra kevesebb, mint egy mÃ¡sodperc alatt gyorsul.}
+{318}{}{Hogy gyors-e? A Highwayman egy mÃ¡sodpercnÃ©l is kevesebb id? alatt gyorsul nullÃ¡rÃ³l szÃ¡zra.}
+{319}{}{A Highwaymanben aztÃ¡n van izom. TÃ¶bb, mint 800 lÃ³er?s!}
+{320}{}{Biztos, hogy jÃ³ helyen jÃ¡rsz?}
+{321}{}{SajnÃ¡lom azt az elmebeteget, aki csak Ãºgy otthagyta ezt a Highwaymant.}
+{322}{}{Te csak ne aggÃ³dj... A Highwaymanbe semmifÃ©le szÃ¡mÃ­tÃ³gÃ©pet nem raktak, teljesen analÃ³g a rendszer. Sallangmentes Ãºgy ahogy van.}
+{330}{}{Ne nyÃºlj hozzÃ¡, mert lecsapom a kezed. Ã‰rtve vagyok?}
+{331}{}{T?nj a RETEKBE attÃ³l az autÃ³tÃ³l!}
+{332}{}{Az Ã©leted nem Ã©r annyit, mint az az autÃ³. Ha mÃ©g egyszer hozzÃ¡Ã©rsz, bebizonyÃ­tom!}
 {5221}{}{?}
 {5268}{}{?}

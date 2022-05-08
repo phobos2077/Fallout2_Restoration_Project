@@ -1,33 +1,33 @@
 {100}{}{Ves un terminal de computadora.}
-{101}{}{Ves la estación científica.}
+{101}{}{Ves la estaciÃ³n cientÃ­fica.}
 {102}{}{Ves un terminal funcional de computadora.}
 {103}{}{Saludos. Por favor, confirme su identidad.}
-{104}{}{[¡Oooh! ¡Mira esas luces brillantes!]}
-{105}{}{::adivinar contraseña::}
+{104}{}{[Â¡Oooh! Â¡Mira esas luces brillantes!]}
+{105}{}{::adivinar contraseÃ±a::}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{::piratear la computadora::}
 {108}{}{Salir.}
-{109}{}{Base de datos científica: -Exploración- -Teorías-}
-{110}{}{Exploración...}
-{111}{}{Teorías...}
-{112}{}{Desactivar estación.}
-{113}{}{Contraseña incorrecta. Por favor, comuníquese con el administrador del sistema. Adiós.}
+{109}{}{Base de datos cientÃ­fica: -ExploraciÃ³n- -TeorÃ­as-}
+{110}{}{ExploraciÃ³n...}
+{111}{}{TeorÃ­as...}
+{112}{}{Desactivar estaciÃ³n.}
+{113}{}{ContraseÃ±a incorrecta. Por favor, comunÃ­quese con el administrador del sistema. AdiÃ³s.}
 {114}{}{::piratear la computadora::}
 {115}{}{::marcharse::}
-{116}{}{Activada alerta de intrusión. Apagando. Que tenga un buen día.}
+{116}{}{Activada alerta de intrusiÃ³n. Apagando. Que tenga un buen dÃ­a.}
 {117}{}{-hecho-}
-{118}{}{"Con la reciente adquisición de planos de un vertibird, la posibilidad de crear una máquina voladora viable ha dado un cualitativo paso adelante. Esperamos tener un prototipo funcional a finales de año, y la habilidad de producir en masa este tipo de vehículos en dos años". -Dr. Wong}
+{118}{}{"Con la reciente adquisiciÃ³n de planos de un vertibird, la posibilidad de crear una mÃ¡quina voladora viable ha dado un cualitativo paso adelante. Esperamos tener un prototipo funcional a finales de aÃ±o, y la habilidad de producir en masa este tipo de vehÃ­culos en dos aÃ±os". -Dr. Wong}
 {119}{}{::copiar planos::}
-{120}{}{Atrás.}
-{121}{}{"Aún estamos preparando un modelo funcional de un vehículo aéreo. Ninguno de los diseños que hemos creado han demostrado ser seguros o aerodinámicos. Quizá si tuviéramos acceso a los planos de los antiguos..." -Dr. Wong}
-{122}{}{Atrás.}
-{123}{}{(Tras sortear la introducción y las matemáticas, descubres que los Shi están aprendiendo a desarrollar de nuevo energía nuclear, reconstruyendo las teorías de los viajes espaciales de los antiguos -y se burlan de los Hubologistas mientras lo hacen- aprovechando la energía del sol, el viento y el mar. Al menos, eso es lo que pone en las notas).}
-{124}{}{Atrás.}
-{125}{}{Estación desactivada.}
-{126}{}{Activar estación.}
+{120}{}{AtrÃ¡s.}
+{121}{}{"AÃºn estamos preparando un modelo funcional de un vehÃ­culo aÃ©reo. Ninguno de los diseÃ±os que hemos creado han demostrado ser seguros o aerodinÃ¡micos. QuizÃ¡ si tuviÃ©ramos acceso a los planos de los antiguos..." -Dr. Wong}
+{122}{}{AtrÃ¡s.}
+{123}{}{(Tras sortear la introducciÃ³n y las matemÃ¡ticas, descubres que los Shi estÃ¡n aprendiendo a desarrollar de nuevo energÃ­a nuclear, reconstruyendo las teorÃ­as de los viajes espaciales de los antiguos -y se burlan de los Hubologistas mientras lo hacen- aprovechando la energÃ­a del sol, el viento y el mar. Al menos, eso es lo que pone en las notas).}
+{124}{}{AtrÃ¡s.}
+{125}{}{EstaciÃ³n desactivada.}
+{126}{}{Activar estaciÃ³n.}
 {127}{}{-marcharse-}
-{128}{}{¡De algún modo, escribes una secuencia de letras al azar y consigues acceso! ¿Cómo puedes tener tanta suerte?}
-{129}{}{-más-}
-{130}{}{La computadora no responde a ningún comando.}
+{128}{}{Â¡De algÃºn modo, escribes una secuencia de letras al azar y consigues acceso! Â¿CÃ³mo puedes tener tanta suerte?}
+{129}{}{-mÃ¡s-}
+{130}{}{La computadora no responde a ningÃºn comando.}
 {131}{}{No parece que puedas encontrar nada en lo que poner eso.}
-{132}{}{Copiando planos..... Copia terminada... Volviendo a... Error I/O... GPF... Terminal desactivándose.}
+{132}{}{Copiando planos..... Copia terminada... Volviendo a... Error I/O... GPF... Terminal desactivÃ¡ndose.}

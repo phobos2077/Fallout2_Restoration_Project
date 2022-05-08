@@ -1,5 +1,5 @@
-{100}{}{Egy hullát látsz. Úgy t?nik, hogy állatok végeztek vele.}
-{101}{}{Közelebbi szemlél?dés után látszik, hogy ezt az embert, miel?tt összerágták volna az állatok, lel?tték.}
-{102}{}{Egy Broken Hillsi fiatal n? holttestét látod.}
-{103}{}{Egy darab papír van a ruhái között.}
-{104}{}{Közelebbi szemlél?dés után látszik, hogy ezt az embert, miel?tt összerágták volna az állatok, lel?tték.}
+{100}{}{Egy hullÃ¡t lÃ¡tsz. Ãšgy t?nik, hogy Ã¡llatok vÃ©geztek vele.}
+{101}{}{KÃ¶zelebbi szemlÃ©l?dÃ©s utÃ¡n lÃ¡tszik, hogy ezt az embert, miel?tt Ã¶sszerÃ¡gtÃ¡k volna az Ã¡llatok, lel?ttÃ©k.}
+{102}{}{Egy Broken Hillsi fiatal n? holttestÃ©t lÃ¡tod.}
+{103}{}{Egy darab papÃ­r van a ruhÃ¡i kÃ¶zÃ¶tt.}
+{104}{}{KÃ¶zelebbi szemlÃ©l?dÃ©s utÃ¡n lÃ¡tszik, hogy ezt az embert, miel?tt Ã¶sszerÃ¡gtÃ¡k volna az Ã¡llatok, lel?ttÃ©k.}

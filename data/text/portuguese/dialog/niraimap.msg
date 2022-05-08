@@ -1,1 +1,1 @@
-{100}{}{Em seu mapa parece que mostra alguns acampamentos raiders pelo oeste. Você loga em seu Pip-Boy.}
+{100}{}{Em seu mapa parece que mostra alguns acampamentos raiders pelo oeste. VocÃª loga em seu Pip-Boy.}

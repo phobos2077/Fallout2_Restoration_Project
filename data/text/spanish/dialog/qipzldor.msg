@@ -1,14 +1,14 @@
 {100}{}{Ves una puerta firmemente sellada.}
-{101}{}{Esta puerta parece estar sellada electromagnÈticamante. Quiz· puedas abrirla
+{101}{}{Esta puerta parece estar sellada electromagn√©ticamante. Quiz√° puedas abrirla
  de todas formas.}
-{105}{}{DesvÌas temporalmente el campo elÈctrico.}
-{106}{}{ desvÌa temporalmente el campo elÈctrico.}
-{110}{}{Fallas miserablemente desarmando el campo elÈctrico.}
-{111}{}{ falla miserablemente desarmando el campo elÈctrico.}
-{115}{}{Fallas desarmando el campo elÈctrico.}
-{116}{}{ falla desarmando el campo elÈctrico.}
-{120}{}{Encuentras un campo elÈctrico.}
-{121}{}{ encuentra un campo elÈctrico.}
+{105}{}{Desv√≠as temporalmente el campo el√©ctrico.}
+{106}{}{ desv√≠a temporalmente el campo el√©ctrico.}
+{110}{}{Fallas miserablemente desarmando el campo el√©ctrico.}
+{111}{}{ falla miserablemente desarmando el campo el√©ctrico.}
+{115}{}{Fallas desarmando el campo el√©ctrico.}
+{116}{}{ falla desarmando el campo el√©ctrico.}
+{120}{}{Encuentras un campo el√©ctrico.}
+{121}{}{ encuentra un campo el√©ctrico.}
 {125}{}{Eres incapaz de mover esta puerta.}
 {126}{}{ es incapaz de mover esta puerta.}
 {130}{}{Fallas al desbloquear esta puerta.}

@@ -1,2 +1,2 @@
-{100}{}{Dooko³a tego budynku krêci siê wiêcej much ni¿ gdziekolwiek indziej. Coœ wewn¹trz musi je przyci¹gaæ.}
-{101}{}{Na tym budynku jest ju¿ mniej much.}
+{100}{}{DookoÅ‚a tego budynku krÄ™ci siÄ™ wiÄ™cej much niÅ¼ gdziekolwiek indziej. CoÅ› wewnÄ…trz musi je przyciÄ…gaÄ‡.}
+{101}{}{Na tym budynku jest juÅ¼ mniej much.}

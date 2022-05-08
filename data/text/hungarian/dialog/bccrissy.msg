@@ -1,37 +1,37 @@
 {100}{}{Egy fiatal n?.}
-{101}{}{? Chrissy, Rebecca lánya.}
-{102}{}{Egy csinos, fiatal n?t látsz. Magabiztosnak t?nik, olyannak, aki képes megvédeni magát.}
-{103}{}{Ha azért vagy itt, hogy megpróbálj meger?szakolni, hamarosan csokornyakkend?ként fogod viselni a golyóidat. Fogod?}
-{104}{}{Hadd találjam ki! A fiúknak elegük lett abból, hogy állandóan ott rúgom meg ?ket, ahol nagyon fáj, és téged küldtek, hogy csinálj velem valami obszcén dolgot. Nos, neked is ugyanúgy fog fájni, csak magasabbra kell rúgnom. Fogod?}
+{101}{}{? Chrissy, Rebecca lÃ¡nya.}
+{102}{}{Egy csinos, fiatal n?t lÃ¡tsz. Magabiztosnak t?nik, olyannak, aki kÃ©pes megvÃ©deni magÃ¡t.}
+{103}{}{Ha azÃ©rt vagy itt, hogy megprÃ³bÃ¡lj meger?szakolni, hamarosan csokornyakkend?kÃ©nt fogod viselni a golyÃ³idat. Fogod?}
+{104}{}{Hadd talÃ¡ljam ki! A fiÃºknak elegÃ¼k lett abbÃ³l, hogy Ã¡llandÃ³an ott rÃºgom meg ?ket, ahol nagyon fÃ¡j, Ã©s tÃ©ged kÃ¼ldtek, hogy csinÃ¡lj velem valami obszcÃ©n dolgot. Nos, neked is ugyanÃºgy fog fÃ¡jni, csak magasabbra kell rÃºgnom. Fogod?}
 {105}{}{Csokornyakkend??}
 {106}{}{}
-{107}{}{Mi itt történik? Te lenniki?}
+{107}{}{Mi itt tÃ¶rtÃ©nik? Te lenniki?}
 {108}{}{}
-{109}{}{Szeretném megtudni, ki vagy te, és mi folyik itt.}
-{110}{}{Bezony. Csinos kis ruhadarab, amit a nyak körül viselnek díszítés céljából. Olyan, mint egy sál, csak férfiaknak. Na, most képzeld el, amint ÚGY megrúglak, hogy a nyakad körül fog lógni a fityeg?d. Érted már?}
-{111}{}{Én érteni. Te fogol nem bántni engemet.}
-{112}{}{Felfogtam, kérlek, ne bánts!}
-{113}{}{Oké, akkor miért is vagy itt?}
+{109}{}{SzeretnÃ©m megtudni, ki vagy te, Ã©s mi folyik itt.}
+{110}{}{Bezony. Csinos kis ruhadarab, amit a nyak kÃ¶rÃ¼l viselnek dÃ­szÃ­tÃ©s cÃ©ljÃ¡bÃ³l. Olyan, mint egy sÃ¡l, csak fÃ©rfiaknak. Na, most kÃ©pzeld el, amint ÃšGY megrÃºglak, hogy a nyakad kÃ¶rÃ¼l fog lÃ³gni a fityeg?d. Ã‰rted mÃ¡r?}
+{111}{}{Ã‰n Ã©rteni. Te fogol nem bÃ¡ntni engemet.}
+{112}{}{Felfogtam, kÃ©rlek, ne bÃ¡nts!}
+{113}{}{OkÃ©, akkor miÃ©rt is vagy itt?}
 {114}{}{}
-{115}{}{Én akar tudni, mi folyik itt? Te lenni ki?}
+{115}{}{Ã‰n akar tudni, mi folyik itt? Te lenni ki?}
 {116}{}{}
-{117}{}{Szeretném megtudni, ki vagy te, és mi folyik itt.}
-{118}{}{Tényleg? Szuper. Induljunk!}
-{119}{}{Oké.}
-{120}{}{Dióhéjban összefoglalva: a nevem Chrissy, én is földfoglaló vagyok. Múlt héten kint voltam egy kicsit felderíteni a környéket, amikor egy bejáratba botlottam. Azt hittem, valami elhagyatott bánya, vagy ilyesmi, és úgy döntöttem, megnézem. Hát, nem bánya volt, hanem a 15-ös Menedék titkos bejárata. A Menedéket most egy rablóbanda használja bázisnak, úgy hívják magukat, hogy a Khan banda. Ahogy körbeszaglásztam, elkaptak, a vezet?jük, Darion pedig bezárt ide.}
-{121}{}{Oké. Én vinni tégedet haza.}
+{117}{}{SzeretnÃ©m megtudni, ki vagy te, Ã©s mi folyik itt.}
+{118}{}{TÃ©nyleg? Szuper. Induljunk!}
+{119}{}{OkÃ©.}
+{120}{}{DiÃ³hÃ©jban Ã¶sszefoglalva: a nevem Chrissy, Ã©n is fÃ¶ldfoglalÃ³ vagyok. MÃºlt hÃ©ten kint voltam egy kicsit felderÃ­teni a kÃ¶rnyÃ©ket, amikor egy bejÃ¡ratba botlottam. Azt hittem, valami elhagyatott bÃ¡nya, vagy ilyesmi, Ã©s Ãºgy dÃ¶ntÃ¶ttem, megnÃ©zem. HÃ¡t, nem bÃ¡nya volt, hanem a 15-Ã¶s MenedÃ©k titkos bejÃ¡rata. A MenedÃ©ket most egy rablÃ³banda hasznÃ¡lja bÃ¡zisnak, Ãºgy hÃ­vjÃ¡k magukat, hogy a Khan banda. Ahogy kÃ¶rbeszaglÃ¡sztam, elkaptak, a vezet?jÃ¼k, Darion pedig bezÃ¡rt ide.}
+{121}{}{OkÃ©. Ã‰n vinni tÃ©gedet haza.}
 {122}{}{Rendben, hazaviszlek.}
-{123}{}{A fenébe, el vagyok átkozva! Ez lehet a szerencsenapom. Kinek tartozom hálával, hogy újfent láthatlak?}
+{123}{}{A fenÃ©be, el vagyok Ã¡tkozva! Ez lehet a szerencsenapom. Kinek tartozom hÃ¡lÃ¡val, hogy Ãºjfent lÃ¡thatlak?}
 {124}{}{}
-{125}{}{Mi itt történik? Te lenniki?}
+{125}{}{Mi itt tÃ¶rtÃ©nik? Te lenniki?}
 {126}{}{}
-{127}{}{Szeretném megtudni, ki vagy te, és mi folyik itt.}
-{128}{}{Kérlek, vigyél haza anyámhoz, Rebeccához!}
-{129}{}{Visszatért a lovagom fényl? páncéljában. Talán fénylene, ha néha megtisztítanád. Ó, és talán fontolóra vehetnéd, hogy te magad is megfürödj. Szóval, mit tehetek érted? }
+{127}{}{SzeretnÃ©m megtudni, ki vagy te, Ã©s mi folyik itt.}
+{128}{}{KÃ©rlek, vigyÃ©l haza anyÃ¡mhoz, RebeccÃ¡hoz!}
+{129}{}{VisszatÃ©rt a lovagom fÃ©nyl? pÃ¡ncÃ©ljÃ¡ban. TalÃ¡n fÃ©nylene, ha nÃ©ha megtisztÃ­tanÃ¡d. Ã“, Ã©s talÃ¡n fontolÃ³ra vehetnÃ©d, hogy te magad is megfÃ¼rÃ¶dj. SzÃ³val, mit tehetek Ã©rted? }
 {130}{}{Csak beugrani. Most pedig menni.}
-{131}{}{Csak gondoltam, beköszönök. Most mennem kell.}
-{132}{}{Hé, tudom, hogy nagy pofám van, de szeretném elmondani, hogy nagyon hálás vagyok, amiért megmentetted a seggem. Nagyon köszönöm!}
-{133}{}{Szívesen.}
-{134}{}{Szóra sem érdemes.}
-{135}{}{A földfoglalók védik ezeket a rablókat azzal, hogy titokban tartják a Menedéket, de igazából fogalmuk sincs, mi folyik itt. Darion azt mondta, hogy megjavítják és biztonságos helyen élhetnek majd rengeteg kajával és vízzel, de ez az egész csak egy nagy átverés. Voltam ott, és láttam mindent. A Menedék teljesen halott, az ételt és vizet el?állító gépek nem m?ködnek. Ezek nem innen származnak, hanem a karavánok elleni rajtütések zsákmányából.}
-{136}{}{Nézd, haza kell mennem és figyelmeztetnem mindenkit, hogy mi folyik itt valójában. Nem segíthetünk ezeknek a szörnyetegnek. Hazaviszel?}
+{131}{}{Csak gondoltam, bekÃ¶szÃ¶nÃ¶k. Most mennem kell.}
+{132}{}{HÃ©, tudom, hogy nagy pofÃ¡m van, de szeretnÃ©m elmondani, hogy nagyon hÃ¡lÃ¡s vagyok, amiÃ©rt megmentetted a seggem. Nagyon kÃ¶szÃ¶nÃ¶m!}
+{133}{}{SzÃ­vesen.}
+{134}{}{SzÃ³ra sem Ã©rdemes.}
+{135}{}{A fÃ¶ldfoglalÃ³k vÃ©dik ezeket a rablÃ³kat azzal, hogy titokban tartjÃ¡k a MenedÃ©ket, de igazÃ¡bÃ³l fogalmuk sincs, mi folyik itt. Darion azt mondta, hogy megjavÃ­tjÃ¡k Ã©s biztonsÃ¡gos helyen Ã©lhetnek majd rengeteg kajÃ¡val Ã©s vÃ­zzel, de ez az egÃ©sz csak egy nagy Ã¡tverÃ©s. Voltam ott, Ã©s lÃ¡ttam mindent. A MenedÃ©k teljesen halott, az Ã©telt Ã©s vizet el?Ã¡llÃ­tÃ³ gÃ©pek nem m?kÃ¶dnek. Ezek nem innen szÃ¡rmaznak, hanem a karavÃ¡nok elleni rajtÃ¼tÃ©sek zsÃ¡kmÃ¡nyÃ¡bÃ³l.}
+{136}{}{NÃ©zd, haza kell mennem Ã©s figyelmeztetnem mindenkit, hogy mi folyik itt valÃ³jÃ¡ban. Nem segÃ­thetÃ¼nk ezeknek a szÃ¶rnyetegnek. Hazaviszel?}

@@ -1,40 +1,40 @@
 {100}{}{Widzisz technika.}
 {101}{}{Widzisz technika z Enklawy.}
-{102}{}{Widzisz kogoœ ubranego w faruch laboratoryjny, kto wygl¹da na pewnego siebie i znaj¹cego swoj¹ wartoœæ.}
-{103}{}{¯o³nierzu?}
+{102}{}{Widzisz kogoÅ› ubranego w faruch laboratoryjny, kto wyglÄ…da na pewnego siebie i znajÄ…cego swojÄ… wartoÅ›Ä‡.}
+{103}{}{Å»oÅ‚nierzu?}
 {104}{}{To miejsce co?}
-{105}{}{Ja tylko witaæ. Ja ju¿ iœæ.}
+{105}{}{Ja tylko witaÄ‡. Ja juÅ¼ iÅ›Ä‡.}
 {106}{}{Co to za miejsce?}
-{107}{}{Chcê siê tylko przywitaæ. Na razie.}
-{108}{}{To jest sala komputerowa. W g³êbi stoi jednostka centralna, obok mieœci siê terminal porozumiewawczy, a te tutaj urz¹dzenia to holotaœmowe jednostki przechowywania danych. Najnowsze i najlepsze.}
+{107}{}{ChcÄ™ siÄ™ tylko przywitaÄ‡. Na razie.}
+{108}{}{To jest sala komputerowa. W gÅ‚Ä™bi stoi jednostka centralna, obok mieÅ›ci siÄ™ terminal porozumiewawczy, a te tutaj urzÄ…dzenia to holotaÅ›mowe jednostki przechowywania danych. Najnowsze i najlepsze.}
 {109}{}{Och. Uch, co ty robi?}
-{110}{}{Ach tak. W takim razie czym siê tutaj zajmujesz?}
-{111}{}{Jestem g³ównym analitykiem komputerowym. Zajmujê siê obs³ug¹ tego ca³ego sprzêtu.}
-{112}{}{Och. Ja u¿yæ komputer?}
-{113}{}{Ja nie rozumi. Ja iœæ.}
-{114}{}{S³uchaj, mogê po³aziæ przez chwilkê po systemie? No wiesz, tak go trochê wypróbowaæ?}
-{115}{}{Mi³o siê z tob¹ rozmawia. Do zobaczenia.}
-{116}{}{No có¿... nie wolno mi pozwalaæ u¿ywaæ sprzêtu komukolwiek poza wyszkolonym personelem. Rozumiesz, to dosyæ skomplikowana i delikatna maszyneria.}
-{117}{}{Proszê? Ja nie zepsuæ.}
-{118}{}{Obiecujê, ¿e nic nie popsujê.}
-{119}{}{No dobrze. Mo¿esz wejœæ do systemu z tego terminala. Tylko proszê, uwa¿aj. Jeœli uszkodzisz tê maszynê, to zastrzel¹ i mnie, i ciebie. Has³o dla goœci brzmi "Snookie".}
-{120}{}{Przykro mi, ale nie ma mowy. Nie powinienem nawet wpuszczaæ do sali personelu wojskowego, ¿e nie wspomnê ju¿ o pozwalaniu komukolwiek na u¿ywanie sprzêtu.}
+{110}{}{Ach tak. W takim razie czym siÄ™ tutaj zajmujesz?}
+{111}{}{Jestem gÅ‚Ã³wnym analitykiem komputerowym. ZajmujÄ™ siÄ™ obsÅ‚ugÄ… tego caÅ‚ego sprzÄ™tu.}
+{112}{}{Och. Ja uÅ¼yÄ‡ komputer?}
+{113}{}{Ja nie rozumi. Ja iÅ›Ä‡.}
+{114}{}{SÅ‚uchaj, mogÄ™ poÅ‚aziÄ‡ przez chwilkÄ™ po systemie? No wiesz, tak go trochÄ™ wyprÃ³bowaÄ‡?}
+{115}{}{MiÅ‚o siÄ™ z tobÄ… rozmawia. Do zobaczenia.}
+{116}{}{No cÃ³Å¼... nie wolno mi pozwalaÄ‡ uÅ¼ywaÄ‡ sprzÄ™tu komukolwiek poza wyszkolonym personelem. Rozumiesz, to dosyÄ‡ skomplikowana i delikatna maszyneria.}
+{117}{}{ProszÄ™? Ja nie zepsuÄ‡.}
+{118}{}{ObiecujÄ™, Å¼e nic nie popsujÄ™.}
+{119}{}{No dobrze. MoÅ¼esz wejÅ›Ä‡ do systemu z tego terminala. Tylko proszÄ™, uwaÅ¼aj. JeÅ›li uszkodzisz tÄ™ maszynÄ™, to zastrzelÄ… i mnie, i ciebie. HasÅ‚o dla goÅ›ci brzmi "Snookie".}
+{120}{}{Przykro mi, ale nie ma mowy. Nie powinienem nawet wpuszczaÄ‡ do sali personelu wojskowego, Å¼e nie wspomnÄ™ juÅ¼ o pozwalaniu komukolwiek na uÅ¼ywanie sprzÄ™tu.}
 {121}{}{Snookie? Co to snookie?}
 {122}{}{Dobra. Ja rozumie.}
 {123}{}{Snookie? Co to u licha jest snookie?}
-{124}{}{W porz¹dku, rozumiem to.}
-{125}{}{"Snookie" to ksywka mojej dziewczyny. To takie s³odkie, prawda? Swoj¹ drog¹, ona stoi tam, na korytarzu. Jest jednym ze stra¿ników.}
-{126}{}{Dobra, dziêki.}
-{127}{}{Tia... s³odkie. Dziêki.}
-{128}{}{Gdzie masz swój uniform? }
-{129}{}{Lepiej siê ubierz. Zbrojownia mieœci siê na koñcu korytarza, po lewej.}
-{130}{}{Chodz¹c bez munduru du¿o ryzykujesz. Lepiej zg³oœ siê do zaopatrzenia.}
-{131}{}{Kim wy u licha jesteœcie... Alarm! Intruzi!}
-{132}{}{Zostaliœmy zinfiltrowani! Alarm!}
-{133}{}{Liczni intruzi! Og³osiæ alarm!}
-{134}{}{Cholera. Za³adowaæ kopiê rezerwow¹.}
-{135}{}{Zamkn¹æ wszystkie zastrze¿one procesy.}
-{136}{}{Zabezpieczyæ system i uaktywniæ wszystkie has³a.}
-{137}{}{Jestem naukowcem, nie ¿o³nierzem!}
-{138}{}{Ostry koniec z diod¹ laserow¹ skierowaæ na przeciwnika. Nacisn¹æ przycisk.}
-{139}{}{Pomocy! Pomocy! Zagro¿enie w pracowni komputerowej!}
+{124}{}{W porzÄ…dku, rozumiem to.}
+{125}{}{"Snookie" to ksywka mojej dziewczyny. To takie sÅ‚odkie, prawda? SwojÄ… drogÄ…, ona stoi tam, na korytarzu. Jest jednym ze straÅ¼nikÃ³w.}
+{126}{}{Dobra, dziÄ™ki.}
+{127}{}{Tia... sÅ‚odkie. DziÄ™ki.}
+{128}{}{Gdzie masz swÃ³j uniform? }
+{129}{}{Lepiej siÄ™ ubierz. Zbrojownia mieÅ›ci siÄ™ na koÅ„cu korytarza, po lewej.}
+{130}{}{ChodzÄ…c bez munduru duÅ¼o ryzykujesz. Lepiej zgÅ‚oÅ› siÄ™ do zaopatrzenia.}
+{131}{}{Kim wy u licha jesteÅ›cie... Alarm! Intruzi!}
+{132}{}{ZostaliÅ›my zinfiltrowani! Alarm!}
+{133}{}{Liczni intruzi! OgÅ‚osiÄ‡ alarm!}
+{134}{}{Cholera. ZaÅ‚adowaÄ‡ kopiÄ™ rezerwowÄ….}
+{135}{}{ZamknÄ…Ä‡ wszystkie zastrzeÅ¼one procesy.}
+{136}{}{ZabezpieczyÄ‡ system i uaktywniÄ‡ wszystkie hasÅ‚a.}
+{137}{}{Jestem naukowcem, nie Å¼oÅ‚nierzem!}
+{138}{}{Ostry koniec z diodÄ… laserowÄ… skierowaÄ‡ na przeciwnika. NacisnÄ…Ä‡ przycisk.}
+{139}{}{Pomocy! Pomocy! ZagroÅ¼enie w pracowni komputerowej!}

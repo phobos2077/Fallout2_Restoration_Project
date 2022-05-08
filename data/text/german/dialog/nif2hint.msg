@@ -1,1 +1,1 @@
-{100}{}{Das Buch enth‰lt TONNENWEISE Insider-Informationen zu Fallout 2, mehr als genug, um in der n‰chsten Runde eine bessere Figur zu erstellen.}
+{100}{}{Das Buch enth√§lt TONNENWEISE Insider-Informationen zu Fallout 2, mehr als genug, um in der n√§chsten Runde eine bessere Figur zu erstellen.}

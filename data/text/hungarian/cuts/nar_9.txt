@@ -1,7 +1,7 @@
-1:Megtörtént.
-2:A Tizenhármas Menedék az Egységhez és a Mesterhez tartozik.
-3:A Menedék védelmi rendszerének ismerete rengeteg mutáns életét mentette meg a támadás során.
-4:Személyesen te hajtottad végre az utolsó gyilkosságot, amikor elvetted a Felvigyázó életét.
-5:Minden bizonnyal az Egység egyik legjobb harcosává válsz, és a képességeidet sokszor megjutalmazzák a jöv?ben.
+1:MegtÃ¶rtÃ©nt.
+2:A TizenhÃ¡rmas MenedÃ©k az EgysÃ©ghez Ã©s a Mesterhez tartozik.
+3:A MenedÃ©k vÃ©delmi rendszerÃ©nek ismerete rengeteg mutÃ¡ns Ã©letÃ©t mentette meg a tÃ¡madÃ¡s sorÃ¡n.
+4:SzemÃ©lyesen te hajtottad vÃ©gre az utolsÃ³ gyilkossÃ¡got, amikor elvetted a FelvigyÃ¡zÃ³ Ã©letÃ©t.
+5:Minden bizonnyal az EgysÃ©g egyik legjobb harcosÃ¡vÃ¡ vÃ¡lsz, Ã©s a kÃ©pessÃ©geidet sokszor megjutalmazzÃ¡k a jÃ¶v?ben.
 6:Boldog vagy.
-7:Azért egy parányi kétség benned maradt. "Mi lett volna, ha..."
+7:AzÃ©rt egy parÃ¡nyi kÃ©tsÃ©g benned maradt. "Mi lett volna, ha..."

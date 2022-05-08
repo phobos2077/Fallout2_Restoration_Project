@@ -1,101 +1,101 @@
 {100}{}{Ez itt egy kopasz punk.}
-{101}{}{? Chip. Már sokkal jobban néz ki.}
-{102}{}{Ez itt egy kopasz punk. Egész t?rhet?en rendbejött.}
-{103}{}{Ó, a belem... aj, aj, aj,..}
+{101}{}{? Chip. MÃ¡r sokkal jobban nÃ©z ki.}
+{102}{}{Ez itt egy kopasz punk. EgÃ©sz t?rhet?en rendbejÃ¶tt.}
+{103}{}{Ã“, a belem... aj, aj, aj,..}
 {104}{}{Velem?}
 {105}{}{Baj?}
 {106}{}{Mi a baja?}
-{107}{}{Fáj valami? Ha ha ha.}
+{107}{}{FÃ¡j valami? Ha ha ha.}
 {108}{}{Ki vagy te?}
-{109}{}{Tudsz valamit a népemr?l?}
-{110}{}{Jaj, a belem! Fájdalmaim vannak. Légyszi, hagyj békén!}
+{109}{}{Tudsz valamit a nÃ©pemr?l?}
+{110}{}{Jaj, a belem! FÃ¡jdalmaim vannak. LÃ©gyszi, hagyj bÃ©kÃ©n!}
 {111}{}{Oki-doki.}
 {112}{}{What's the matter with me? I'll tell you: It's that I got drunk last week, started gambling with Lao Chou, and lost. I was so blind drunk that I bet my spleen. Now he has it, and I need it back.}
-{113}{}{Te ELJÁTSZOTTAD a lépedet?}
-{114}{}{Hát ez szar ügy.}
+{113}{}{Te ELJÃTSZOTTAD a lÃ©pedet?}
+{114}{}{HÃ¡t ez szar Ã¼gy.}
 {115}{}{De nagy marha vagy!}
-{116}{}{Namost nekem információk kellenének, a hasfájásod kevéssé érdekel.}
-{117}{}{::Leveg?ért kapkod:: Baszódj meg!}
-{118}{}{::Leveg?ért kapkod:: Húzz a francba!}
+{116}{}{Namost nekem informÃ¡ciÃ³k kellenÃ©nek, a hasfÃ¡jÃ¡sod kevÃ©ssÃ© Ã©rdekel.}
+{117}{}{::Leveg?Ã©rt kapkod:: BaszÃ³dj meg!}
+{118}{}{::Leveg?Ã©rt kapkod:: HÃºzz a francba!}
 {119}{}{Persze, persze.}
-{120}{}{Hé, meggondoltam magam. Segítek, ha akarod.}
-{121}{}{Igen, pénzzé tettem. Részeg voltam! Ráadásul szerintem Lao Chou egy kis Jetet csempészett az italomba. Kéne vissza a lépem, mert egyre több betegséget kapok el.}
-{122}{}{Hát ha elveszítetted, az a te bajod. Élj együtt a problémával!}
-{123}{}{Hát a franc ott essen bele, utánanézek neked!}
-{124}{}{Így van. Vissza kéne kapnom a lépem, mert egyre több betegséget kapok el.}
-{125}{}{Hát ha elveszítetted, az a te bajod. Élj együtt a problémával!}
-{126}{}{Hát a franc ott essen bele, utánanézek neked!}
-{127}{}{Ez nagyon rendes t?led. Beszélj Lao Chouval, a keresked?vel, és mondd meg neki, hogy most már ideje lenne visszakapnom a lépemet.}
-{128}{}{Mindjárt jövök.}
-{129}{}{Chip vagyok. Mindenem fáj.}
+{120}{}{HÃ©, meggondoltam magam. SegÃ­tek, ha akarod.}
+{121}{}{Igen, pÃ©nzzÃ© tettem. RÃ©szeg voltam! RÃ¡adÃ¡sul szerintem Lao Chou egy kis Jetet csempÃ©szett az italomba. KÃ©ne vissza a lÃ©pem, mert egyre tÃ¶bb betegsÃ©get kapok el.}
+{122}{}{HÃ¡t ha elveszÃ­tetted, az a te bajod. Ã‰lj egyÃ¼tt a problÃ©mÃ¡val!}
+{123}{}{HÃ¡t a franc ott essen bele, utÃ¡nanÃ©zek neked!}
+{124}{}{Ãgy van. Vissza kÃ©ne kapnom a lÃ©pem, mert egyre tÃ¶bb betegsÃ©get kapok el.}
+{125}{}{HÃ¡t ha elveszÃ­tetted, az a te bajod. Ã‰lj egyÃ¼tt a problÃ©mÃ¡val!}
+{126}{}{HÃ¡t a franc ott essen bele, utÃ¡nanÃ©zek neked!}
+{127}{}{Ez nagyon rendes t?led. BeszÃ©lj Lao Chouval, a keresked?vel, Ã©s mondd meg neki, hogy most mÃ¡r ideje lenne visszakapnom a lÃ©pemet.}
+{128}{}{MindjÃ¡rt jÃ¶vÃ¶k.}
+{129}{}{Chip vagyok. Mindenem fÃ¡j.}
 {130}{}{Mi a baja?}
-{131}{}{Fáj valami? Ha ha ha.}
-{132}{}{Hát ez szar ügy. Na, csá...}
-{133}{}{Nekem itt fáj mindenem, te meg információt akarsz?}
+{131}{}{FÃ¡j valami? Ha ha ha.}
+{132}{}{HÃ¡t ez szar Ã¼gy. Na, csÃ¡...}
+{133}{}{Nekem itt fÃ¡j mindenem, te meg informÃ¡ciÃ³t akarsz?}
 {134}{}{Mi a baja?}
-{135}{}{Fáj valami? Ha ha ha.}
-{136}{}{Felejtsük el!}
-{137}{}{Megtaláltad már a lépemet?}
-{138}{}{Igen. Dr. Wong Yi Tze birtokában van, és vissza fogja neked adni. Csak beszélned kell vele.}
-{139}{}{Igen. Menj, és kutasd át érte Dr. Wong hulláját!}
-{140}{}{Fogjuk rá. Dr. Wong Yi Tze birtokában van, de nem akarja odaadni.}
-{141}{}{Megtudtam, kinél van, de szerintem Dr. Wong egyszer?en megette.}
-{142}{}{Nem, még nem. De ne csüggedj!}
+{135}{}{FÃ¡j valami? Ha ha ha.}
+{136}{}{FelejtsÃ¼k el!}
+{137}{}{MegtalÃ¡ltad mÃ¡r a lÃ©pemet?}
+{138}{}{Igen. Dr. Wong Yi Tze birtokÃ¡ban van, Ã©s vissza fogja neked adni. Csak beszÃ©lned kell vele.}
+{139}{}{Igen. Menj, Ã©s kutasd Ã¡t Ã©rte Dr. Wong hullÃ¡jÃ¡t!}
+{140}{}{Fogjuk rÃ¡. Dr. Wong Yi Tze birtokÃ¡ban van, de nem akarja odaadni.}
+{141}{}{Megtudtam, kinÃ©l van, de szerintem Dr. Wong egyszer?en megette.}
+{142}{}{Nem, mÃ©g nem. De ne csÃ¼ggedj!}
 {143}{}{Nem. Az a helyzet, hogy nem foglalkoztam vele.}
 {144}{}{All right. ::pant:: Before I do, maybe we ought to set up a way to get it back in me. Talk to Dr. Fung about that, all right? Thanks.}
 {145}{}{Rendben.}
 {146}{}{Nem.}
-{147}{}{Igazán nagyra értékelem, amit értem teszel. Soha nem fogom elfelejteni.}
+{147}{}{IgazÃ¡n nagyra Ã©rtÃ©kelem, amit Ã©rtem teszel. Soha nem fogom elfelejteni.}
 {148}{}{No problemo.}
 {149}{}{Dude, I can't really get places without a lot of effort. If you can't help me, I'm screwed.}
-{150}{}{Jól van. Beszélek Funggal.}
-{151}{}{Jó. Egyébként szart se érdekelsz.}
-{152}{}{Ha esetleg tudnál csinálni valamit... öldd meg, vagy dumáld meg a fejét, vagy akármi... a lépem nélkül ki fogok nyiffanni.}
-{153}{}{Megnézem, mit tehetek.}
-{154}{}{Bocs, barátom...  de neked akkor annyi. Nem tudok segíteni.}
-{155}{}{Lép nélkül ki fogok nyiffanni. Amúgy kösz a segítségért.}
-{156}{}{Megtaláltam! Menj el Dr. Wonghoz érte!}
-{157}{}{Ó, majd én kisegítelek. Irány Fung!}
-{158}{}{No problemo. Jó szerencsét!}
-{159}{}{Beszéltél már Funggal?}
-{160}{}{Igen, és azt mondta, ingyen odaadja.}
-{161}{}{Igen, de 1000 dollárt kért t?lem.}
+{150}{}{JÃ³l van. BeszÃ©lek Funggal.}
+{151}{}{JÃ³. EgyÃ©bkÃ©nt szart se Ã©rdekelsz.}
+{152}{}{Ha esetleg tudnÃ¡l csinÃ¡lni valamit... Ã¶ldd meg, vagy dumÃ¡ld meg a fejÃ©t, vagy akÃ¡rmi... a lÃ©pem nÃ©lkÃ¼l ki fogok nyiffanni.}
+{153}{}{MegnÃ©zem, mit tehetek.}
+{154}{}{Bocs, barÃ¡tom...  de neked akkor annyi. Nem tudok segÃ­teni.}
+{155}{}{LÃ©p nÃ©lkÃ¼l ki fogok nyiffanni. AmÃºgy kÃ¶sz a segÃ­tsÃ©gÃ©rt.}
+{156}{}{MegtalÃ¡ltam! Menj el Dr. Wonghoz Ã©rte!}
+{157}{}{Ã“, majd Ã©n kisegÃ­telek. IrÃ¡ny Fung!}
+{158}{}{No problemo. JÃ³ szerencsÃ©t!}
+{159}{}{BeszÃ©ltÃ©l mÃ¡r Funggal?}
+{160}{}{Igen, Ã©s azt mondta, ingyen odaadja.}
+{161}{}{Igen, de 1000 dollÃ¡rt kÃ©rt t?lem.}
 {162}{}{}
-{163}{}{Az igen! Neked aztán vannak kapcsolataid! Gyere vissza holnap és majd meglátjuk, miféle segítséggel tudnám ezt kompenzálni.}
+{163}{}{Az igen! Neked aztÃ¡n vannak kapcsolataid! Gyere vissza holnap Ã©s majd meglÃ¡tjuk, mifÃ©le segÃ­tsÃ©ggel tudnÃ¡m ezt kompenzÃ¡lni.}
 {164}{}{Legyen.}
-{165}{}{Ki tudsz segíteni?}
+{165}{}{Ki tudsz segÃ­teni?}
 {166}{}{Persze.}
 {167}{}{Nem.}
-{168}{}{Igazán nagyra értékelem, amit értem teszel. Gyere vissza holnap és megnézzük, milyen segítséggel tudnám ezt kompenzálni.}
-{169}{}{A te érdeked.}
-{170}{}{Magamtól ezt nem tudom kifizetni. Azt hiszem, meg fogok halni.}
-{171}{}{Ne aggódj, kisegítelek.}
-{172}{}{Nehéz ügy. Ki vagyok készülve.}
-{173}{}{El nem tudom mondani, mennyivel jobban érzem magam. Szóval mit is szerettél volna t?lem?}
-{174}{}{Hogy kell m?ködtetni ezt a hajót?}
-{175}{}{Hol találom a népemet? Nem tudsz róluk valamit?}
-{176}{}{Szeretnék egy kis számítógépes munkát végeztetni.}
-{177}{}{Most semmit, köszi. Szia.}
-{178}{}{Nézz be a Kapitányhoz! Odafönn az emeleten megtalálod a kapitányi irodában.}
-{179}{}{Kösz. Hadd kérdezzek még...}
-{180}{}{Kösz. Viszlát!}
-{181}{}{Azt rebesgetik, hogy nyugat felé cipelték ?ket, keresztül a nagy vizen. Ha azt akarod, hogy legyen valami keresnivalód, be kéne röffenteni ezt a tekn?t.}
-{182}{}{Kösz. Hadd kérdezzek még...}
-{183}{}{Kösz. Viszlát!}
-{184}{}{Számítógépes munkát akarsz? Ha a Shik vagy a Hubologisták nem tudnak segíteni, beszélj a Borzzal! ? itt az ügyeletes zseni.}
-{185}{}{Kösz. Hadd kérdezzek még...}
-{186}{}{Kösz. Viszlát!}
-{187}{}{Picsába. Beszélj a Hubologistákkal vagy a Shikkel! Mivel a Borz meghalt, egyéb ötletem nincs.}
-{188}{}{Kösz. Hadd kérdezzek még...}
-{189}{}{Kösz. Viszlát!}
+{168}{}{IgazÃ¡n nagyra Ã©rtÃ©kelem, amit Ã©rtem teszel. Gyere vissza holnap Ã©s megnÃ©zzÃ¼k, milyen segÃ­tsÃ©ggel tudnÃ¡m ezt kompenzÃ¡lni.}
+{169}{}{A te Ã©rdeked.}
+{170}{}{MagamtÃ³l ezt nem tudom kifizetni. Azt hiszem, meg fogok halni.}
+{171}{}{Ne aggÃ³dj, kisegÃ­telek.}
+{172}{}{NehÃ©z Ã¼gy. Ki vagyok kÃ©szÃ¼lve.}
+{173}{}{El nem tudom mondani, mennyivel jobban Ã©rzem magam. SzÃ³val mit is szerettÃ©l volna t?lem?}
+{174}{}{Hogy kell m?kÃ¶dtetni ezt a hajÃ³t?}
+{175}{}{Hol talÃ¡lom a nÃ©pemet? Nem tudsz rÃ³luk valamit?}
+{176}{}{SzeretnÃ©k egy kis szÃ¡mÃ­tÃ³gÃ©pes munkÃ¡t vÃ©geztetni.}
+{177}{}{Most semmit, kÃ¶szi. Szia.}
+{178}{}{NÃ©zz be a KapitÃ¡nyhoz! OdafÃ¶nn az emeleten megtalÃ¡lod a kapitÃ¡nyi irodÃ¡ban.}
+{179}{}{KÃ¶sz. Hadd kÃ©rdezzek mÃ©g...}
+{180}{}{KÃ¶sz. ViszlÃ¡t!}
+{181}{}{Azt rebesgetik, hogy nyugat felÃ© cipeltÃ©k ?ket, keresztÃ¼l a nagy vizen. Ha azt akarod, hogy legyen valami keresnivalÃ³d, be kÃ©ne rÃ¶ffenteni ezt a tekn?t.}
+{182}{}{KÃ¶sz. Hadd kÃ©rdezzek mÃ©g...}
+{183}{}{KÃ¶sz. ViszlÃ¡t!}
+{184}{}{SzÃ¡mÃ­tÃ³gÃ©pes munkÃ¡t akarsz? Ha a Shik vagy a HubologistÃ¡k nem tudnak segÃ­teni, beszÃ©lj a Borzzal! ? itt az Ã¼gyeletes zseni.}
+{185}{}{KÃ¶sz. Hadd kÃ©rdezzek mÃ©g...}
+{186}{}{KÃ¶sz. ViszlÃ¡t!}
+{187}{}{PicsÃ¡ba. BeszÃ©lj a HubologistÃ¡kkal vagy a Shikkel! Mivel a Borz meghalt, egyÃ©b Ã¶tletem nincs.}
+{188}{}{KÃ¶sz. Hadd kÃ©rdezzek mÃ©g...}
+{189}{}{KÃ¶sz. ViszlÃ¡t!}
 {190}{}{Mocsok!}
-{191}{}{Szükséged lesz egy kis fájdalomcsillapítóra.}
-{192}{}{Szemétláda! Most neked annyi!}
+{191}{}{SzÃ¼ksÃ©ged lesz egy kis fÃ¡jdalomcsillapÃ­tÃ³ra.}
+{192}{}{SzemÃ©tlÃ¡da! Most neked annyi!}
 {193}{}{Ez itt egy kopasz punk.}
-{194}{}{? Chip. Láthatólag nagy fájdalmai vannak.}
-{195}{}{Ez itt egy punk. Miközben az oldalát fogja, leveg?ért kapkod fájdalmában.}
-{196}{}{Rendben. Beszélek ezzel a Funggal.}
-{197}{}{Van valami fejlemény a lépem ügyében?}
-{198}{}{Beszéltem az orvossal. Ezer dollárt kért a lépért, és ki is fizettem.}
-{199}{}{Kösz, hogy segítettél, barátom.}
-{200}{}{Haver, úgy hallottam, megtaláltad a lépemet. Beszéltél Dr. Funggal, hogy lehetne visszatenni belém?}
+{194}{}{? Chip. LÃ¡thatÃ³lag nagy fÃ¡jdalmai vannak.}
+{195}{}{Ez itt egy punk. MikÃ¶zben az oldalÃ¡t fogja, leveg?Ã©rt kapkod fÃ¡jdalmÃ¡ban.}
+{196}{}{Rendben. BeszÃ©lek ezzel a Funggal.}
+{197}{}{Van valami fejlemÃ©ny a lÃ©pem Ã¼gyÃ©ben?}
+{198}{}{BeszÃ©ltem az orvossal. Ezer dollÃ¡rt kÃ©rt a lÃ©pÃ©rt, Ã©s ki is fizettem.}
+{199}{}{KÃ¶sz, hogy segÃ­tettÃ©l, barÃ¡tom.}
+{200}{}{Haver, Ãºgy hallottam, megtalÃ¡ltad a lÃ©pemet. BeszÃ©ltÃ©l Dr. Funggal, hogy lehetne visszatenni belÃ©m?}

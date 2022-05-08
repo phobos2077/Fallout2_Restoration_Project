@@ -1,262 +1,262 @@
-{100}{}{Ez az ember nem más, mint Mr. Bishop.}
-{150}{}{A középkorú illet? elég nagyhatalmúnak t?nik.}
-{151}{}{? Mr. Bishop. Zord arcot vág.}
-{200}{}{Látom, van b?r a képeden, hogy idejössz. }
-{201}{}{Látom, van b?r a képeden. }
-{202}{}{Miért nem raktál ki a mellkasodra egy cédulát, hogy "hülye fasszopó vagyok"? }
-{203}{}{Egyél ólmot, }
-{204}{}{-bérenc.}
-{205}{}{Egyél ólmot, hülye gyökérfajzat!}
-{206}{}{Egyél ólmot, ribanc!}
-{207}{}{Nem szeret ólom undor íze neki}
+{100}{}{Ez az ember nem mÃ¡s, mint Mr. Bishop.}
+{150}{}{A kÃ¶zÃ©pkorÃº illet? elÃ©g nagyhatalmÃºnak t?nik.}
+{151}{}{? Mr. Bishop. Zord arcot vÃ¡g.}
+{200}{}{LÃ¡tom, van b?r a kÃ©peden, hogy idejÃ¶ssz. }
+{201}{}{LÃ¡tom, van b?r a kÃ©peden. }
+{202}{}{MiÃ©rt nem raktÃ¡l ki a mellkasodra egy cÃ©dulÃ¡t, hogy "hÃ¼lye fasszopÃ³ vagyok"? }
+{203}{}{EgyÃ©l Ã³lmot, }
+{204}{}{-bÃ©renc.}
+{205}{}{EgyÃ©l Ã³lmot, hÃ¼lye gyÃ¶kÃ©rfajzat!}
+{206}{}{EgyÃ©l Ã³lmot, ribanc!}
+{207}{}{Nem szeret Ã³lom undor Ã­ze neki}
 {208}{}{[Elcsoszogsz]}
-{209}{}{Ha ezt szeretné a sírkövére faragtatni, hát legyen...}
-{210}{}{Utolsó szavai elég gyengére sikeredtek.}
+{209}{}{Ha ezt szeretnÃ© a sÃ­rkÃ¶vÃ©re faragtatni, hÃ¡t legyen...}
+{210}{}{UtolsÃ³ szavai elÃ©g gyengÃ©re sikeredtek.}
 {211}{}{[Run for it.]}
-{220}{}{Mi a... ? Ki vagy te és mi a FRANCOT akarsz?}
-{221}{}{Én }
+{220}{}{Mi a... ? Ki vagy te Ã©s mi a FRANCOT akarsz?}
+{221}{}{Ã‰n }
 {222}{}{ vagyok.}
-{223}{}{Én Kiiii?}
-{224}{}{Elpályázol}
-{225}{}{Szent küldetésben járó harcos vagyok. Meg kell szereznem az Édenkert Létrehozást El?segít? Táskát. Tudja, hol találhatnék egyet?}
-{226}{}{Egy Édenkert Létrehozást El?segít? Táskát keresek. Tud segíteni?}
-{227}{}{Egy 13-as Menedék nev? helyet keresek. Hallott róla?}
-{228}{}{Gondoltam, esetleg tudna még adni nekem egy kis munkát...}
-{229}{}{Bocsánat... másik szobába jöttem...}
-{240}{}{(Végigmér.) Még ez a ruha sem tudja feledtetni, hogy csak közönséges vadember vagy... (Horkant egyet.) A fiúk szerint hoztál nekem egy aktatáskát az egyik közös "ismer?sünkt?l". Hadd lássuk!}
-{241}{}{Tessék.}
-{242}{}{Öö... mókás... úgy t?nik, mire ideértem az ajtótól, elhagytam valahol.}
-{243}{}{Igazából nem akarok t?le megválni. A közeljöv?ben vissza akarom vinni.}
-{250}{}{(Kinyitja az aktatáskát, átnézi a tartalmát, aztán becsukja.) Ez tényleg Moore-tól van. Persze van egy kis cetli benne, miszerint annyira se bízzunk benned, mint egy darab szarban. Te aztán tényleg rossz szobába jöttél, vadember!}
-{251}{}{(Kinyitja az aktatáskát, átnézi a tartalmát, aztán becsukja.) Ez tényleg Moore-tól van. Aszondom, jobb, ha vigyázol, vadember. Szerencsés vagy... (Mosolyog.) ...ismeretlenül jöttél ide, és egy menyországi utat kockáztatsz.}
+{223}{}{Ã‰n Kiiii?}
+{224}{}{ElpÃ¡lyÃ¡zol}
+{225}{}{Szent kÃ¼ldetÃ©sben jÃ¡rÃ³ harcos vagyok. Meg kell szereznem az Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡t. Tudja, hol talÃ¡lhatnÃ©k egyet?}
+{226}{}{Egy Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡t keresek. Tud segÃ­teni?}
+{227}{}{Egy 13-as MenedÃ©k nev? helyet keresek. Hallott rÃ³la?}
+{228}{}{Gondoltam, esetleg tudna mÃ©g adni nekem egy kis munkÃ¡t...}
+{229}{}{BocsÃ¡nat... mÃ¡sik szobÃ¡ba jÃ¶ttem...}
+{240}{}{(VÃ©gigmÃ©r.) MÃ©g ez a ruha sem tudja feledtetni, hogy csak kÃ¶zÃ¶nsÃ©ges vadember vagy... (Horkant egyet.) A fiÃºk szerint hoztÃ¡l nekem egy aktatÃ¡skÃ¡t az egyik kÃ¶zÃ¶s "ismer?sÃ¼nkt?l". Hadd lÃ¡ssuk!}
+{241}{}{TessÃ©k.}
+{242}{}{Ã–Ã¶... mÃ³kÃ¡s... Ãºgy t?nik, mire ideÃ©rtem az ajtÃ³tÃ³l, elhagytam valahol.}
+{243}{}{IgazÃ¡bÃ³l nem akarok t?le megvÃ¡lni. A kÃ¶zeljÃ¶v?ben vissza akarom vinni.}
+{250}{}{(Kinyitja az aktatÃ¡skÃ¡t, Ã¡tnÃ©zi a tartalmÃ¡t, aztÃ¡n becsukja.) Ez tÃ©nyleg Moore-tÃ³l van. Persze van egy kis cetli benne, miszerint annyira se bÃ­zzunk benned, mint egy darab szarban. Te aztÃ¡n tÃ©nyleg rossz szobÃ¡ba jÃ¶ttÃ©l, vadember!}
+{251}{}{(Kinyitja az aktatÃ¡skÃ¡t, Ã¡tnÃ©zi a tartalmÃ¡t, aztÃ¡n becsukja.) Ez tÃ©nyleg Moore-tÃ³l van. Aszondom, jobb, ha vigyÃ¡zol, vadember. SzerencsÃ©s vagy... (Mosolyog.) ...ismeretlenÃ¼l jÃ¶ttÃ©l ide, Ã©s egy menyorszÃ¡gi utat kockÃ¡ztatsz.}
 {252}{}{Maybe so, but I'm going to be the only one walking out.}
-{253}{}{Célba juttattam Moore táskáját... most jöhet a fizetség...}
-{254}{}{Kiváncsi ember vagyok. Mi van az aktatáskában?}
-{255}{}{Örülök, hogy minden a rendes kerékvágásban van... most viszont sajnos mennem kell.}
-{265}{}{Csituljál, vadember... hol van itt még a fizetség... }
-{266}{}{Csituljál, vadember... el?bb kérdezni szeretnék egy s mást. }
-{267}{}{(Végigtanulmányoz.) Tehát... HONNAN is ismered Moore-t? Most épp megpróbál politizálni a nép egyszer? fiai között? Ha! A srácnak mindig máson jár az esze, mint amihez ért.}
-{268}{}{Menedékvárosban találkoztunk, épp az igét terjesztette. Felajánlottam, hogy eljuttatom magának az aktatáskáját.}
-{269}{}{Véletlenül belebotlottam az utazásaim során. Felajánlottam, hogy eljuttatom magának az aktatáskáját.}
+{253}{}{CÃ©lba juttattam Moore tÃ¡skÃ¡jÃ¡t... most jÃ¶het a fizetsÃ©g...}
+{254}{}{KivÃ¡ncsi ember vagyok. Mi van az aktatÃ¡skÃ¡ban?}
+{255}{}{Ã–rÃ¼lÃ¶k, hogy minden a rendes kerÃ©kvÃ¡gÃ¡sban van... most viszont sajnos mennem kell.}
+{265}{}{CsituljÃ¡l, vadember... hol van itt mÃ©g a fizetsÃ©g... }
+{266}{}{CsituljÃ¡l, vadember... el?bb kÃ©rdezni szeretnÃ©k egy s mÃ¡st. }
+{267}{}{(VÃ©gigtanulmÃ¡nyoz.) TehÃ¡t... HONNAN is ismered Moore-t? Most Ã©pp megprÃ³bÃ¡l politizÃ¡lni a nÃ©p egyszer? fiai kÃ¶zÃ¶tt? Ha! A srÃ¡cnak mindig mÃ¡son jÃ¡r az esze, mint amihez Ã©rt.}
+{268}{}{MenedÃ©kvÃ¡rosban talÃ¡lkoztunk, Ã©pp az igÃ©t terjesztette. FelajÃ¡nlottam, hogy eljuttatom magÃ¡nak az aktatÃ¡skÃ¡jÃ¡t.}
+{269}{}{VÃ©letlenÃ¼l belebotlottam az utazÃ¡saim sorÃ¡n. FelajÃ¡nlottam, hogy eljuttatom magÃ¡nak az aktatÃ¡skÃ¡jÃ¡t.}
 {275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
  do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
-{276}{}{Valóban sokat prédikál, viszont elég értelmeseket tud mondani.}
-{277}{}{Hát van egy sajátos... beszédstílusa.}
-{278}{}{Igen, de valakinek a kétkezi munkát is el kell végezni, és akkor lépek én a képbe... itt van például ez az aktatáska dolog.}
-{285}{}{(Magában mormog.) Ha politikára adod a fejed, a tömeg fanatizálása nem rossz tulajdonság... (Gyanakodva vizsgálgat.) Te nem vagy ÚKK-s, jól sejtem? Jelen pillanatban Tomcat az egyetlen közülük, akit el bírok viselni.}
-{286}{}{De, én ÚKK-s vagyok. Nem a legjobb, de el lehet teng?dni. Mondhatjuk, hogy szabadúszó vagyok.}
-{287}{}{Nem, én csak egy sima utazó vagyok. Munkára volt szükségem, ezért mentem bele Moore ajánlatába.}
-{295}{}{(A táska felé biccent.) Hát ez az aktatáska megérte. Egy szelet Menedékváros rejt?zik benne, néhány értékesebb technológia, amit?l az a frigid szajha Lynette az istennek sem akart megválni... na de ilyet, vadember! Még ki sem fizettelek. Itt a jussod.}
-{296}{}{Az a nagy helyzet, hogy most nincs semmilyen munkám. Nem tudna megbízni valamivel?}
-{297}{}{Igen... köszönöm. Most azonban mennem kell.}
-{305}{}{Nem... nincs több megbízatásom a számodra... de azért köszönöm, amit értünk tettél. }
-{306}{}{Nem tudok semmilyen megbízatást adni. Az a sok ÚKK-s haláleset mondjuk valamelyest megkönnyítette az életemet... amúgy kösz a kézbesítésért. }
-{307}{}{(A kijárat felé biccent.) Na, akkor most jött el az ideje, hogy távozz. Van még néhány fontos dolgom.}
-{308}{}{Elhozom magának azt a francos aktatáskát egyenesen Menedékvárosból, erre megpróbál lerázni? Legyen! A fizetségem hátralékát a széfjéb?l fogom kivenni.}
-{309}{}{Nem hinném, hogy id? el?tt itthagynám magát. Van még némi elintéznivalónk... Hulla úr!}
-{310}{}{Jól van akkor, már itt sem vagyok.}
-{315}{}{Várjunk egy pillanatot, vadember... (Mosolyog és megérinti a táskát.) A vén Tomcat azt mondja, hogy te csapatban szeretsz játszani. Szükségem van ilyen emberekre. Ha érdekel, volna egy megbízatásom a számodra.}
+{276}{}{ValÃ³ban sokat prÃ©dikÃ¡l, viszont elÃ©g Ã©rtelmeseket tud mondani.}
+{277}{}{HÃ¡t van egy sajÃ¡tos... beszÃ©dstÃ­lusa.}
+{278}{}{Igen, de valakinek a kÃ©tkezi munkÃ¡t is el kell vÃ©gezni, Ã©s akkor lÃ©pek Ã©n a kÃ©pbe... itt van pÃ©ldÃ¡ul ez az aktatÃ¡ska dolog.}
+{285}{}{(MagÃ¡ban mormog.) Ha politikÃ¡ra adod a fejed, a tÃ¶meg fanatizÃ¡lÃ¡sa nem rossz tulajdonsÃ¡g... (Gyanakodva vizsgÃ¡lgat.) Te nem vagy ÃšKK-s, jÃ³l sejtem? Jelen pillanatban Tomcat az egyetlen kÃ¶zÃ¼lÃ¼k, akit el bÃ­rok viselni.}
+{286}{}{De, Ã©n ÃšKK-s vagyok. Nem a legjobb, de el lehet teng?dni. Mondhatjuk, hogy szabadÃºszÃ³ vagyok.}
+{287}{}{Nem, Ã©n csak egy sima utazÃ³ vagyok. MunkÃ¡ra volt szÃ¼ksÃ©gem, ezÃ©rt mentem bele Moore ajÃ¡nlatÃ¡ba.}
+{295}{}{(A tÃ¡ska felÃ© biccent.) HÃ¡t ez az aktatÃ¡ska megÃ©rte. Egy szelet MenedÃ©kvÃ¡ros rejt?zik benne, nÃ©hÃ¡ny Ã©rtÃ©kesebb technolÃ³gia, amit?l az a frigid szajha Lynette az istennek sem akart megvÃ¡lni... na de ilyet, vadember! MÃ©g ki sem fizettelek. Itt a jussod.}
+{296}{}{Az a nagy helyzet, hogy most nincs semmilyen munkÃ¡m. Nem tudna megbÃ­zni valamivel?}
+{297}{}{Igen... kÃ¶szÃ¶nÃ¶m. Most azonban mennem kell.}
+{305}{}{Nem... nincs tÃ¶bb megbÃ­zatÃ¡som a szÃ¡modra... de azÃ©rt kÃ¶szÃ¶nÃ¶m, amit Ã©rtÃ¼nk tettÃ©l. }
+{306}{}{Nem tudok semmilyen megbÃ­zatÃ¡st adni. Az a sok ÃšKK-s halÃ¡leset mondjuk valamelyest megkÃ¶nnyÃ­tette az Ã©letemet... amÃºgy kÃ¶sz a kÃ©zbesÃ­tÃ©sÃ©rt. }
+{307}{}{(A kijÃ¡rat felÃ© biccent.) Na, akkor most jÃ¶tt el az ideje, hogy tÃ¡vozz. Van mÃ©g nÃ©hÃ¡ny fontos dolgom.}
+{308}{}{Elhozom magÃ¡nak azt a francos aktatÃ¡skÃ¡t egyenesen MenedÃ©kvÃ¡rosbÃ³l, erre megprÃ³bÃ¡l lerÃ¡zni? Legyen! A fizetsÃ©gem hÃ¡tralÃ©kÃ¡t a szÃ©fjÃ©b?l fogom kivenni.}
+{309}{}{Nem hinnÃ©m, hogy id? el?tt itthagynÃ¡m magÃ¡t. Van mÃ©g nÃ©mi elintÃ©znivalÃ³nk... Hulla Ãºr!}
+{310}{}{JÃ³l van akkor, mÃ¡r itt sem vagyok.}
+{315}{}{VÃ¡rjunk egy pillanatot, vadember... (Mosolyog Ã©s megÃ©rinti a tÃ¡skÃ¡t.) A vÃ©n Tomcat azt mondja, hogy te csapatban szeretsz jÃ¡tszani. SzÃ¼ksÃ©gem van ilyen emberekre. Ha Ã©rdekel, volna egy megbÃ­zatÃ¡som a szÃ¡modra.}
 {316}{}{Hallgatom.}
-{317}{}{Nem, nekem most tényleg mennem kell.}
-{325}{}{(Végigmér egy pillanatra, aztán bólint.) Jó... volna számodra egy munkám. }
-{326}{}{Van egy kis... "problémás ügyem" délen az ÚKK-ban. Egy Westin nev? pasasnak nagyon nagy szája van, és le kéne lakatolni... örökre. Egy rongy felét tudom ajánlani, könny? kereset.}
-{327}{}{Mi sem könnyebb ennél. Tekintse halottnak azt a Westint.}
-{328}{}{Nem érdekel ez a munka. Találjon rá valaki mást!}
-{335}{}{Csigavér! Még NEM fejeztem be. Annak ellenére, hogy holtan akarom látni, el kell kerülnöd a gyilkosság látszatát! Ne l?dd fejbe, ne szúrd hátba, semmi olyasmit ne tegyél, amir?l ordít, hogy gyilkosság volt!}
+{317}{}{Nem, nekem most tÃ©nyleg mennem kell.}
+{325}{}{(VÃ©gigmÃ©r egy pillanatra, aztÃ¡n bÃ³lint.) JÃ³... volna szÃ¡modra egy munkÃ¡m. }
+{326}{}{Van egy kis... "problÃ©mÃ¡s Ã¼gyem" dÃ©len az ÃšKK-ban. Egy Westin nev? pasasnak nagyon nagy szÃ¡ja van, Ã©s le kÃ©ne lakatolni... Ã¶rÃ¶kre. Egy rongy felÃ©t tudom ajÃ¡nlani, kÃ¶nny? kereset.}
+{327}{}{Mi sem kÃ¶nnyebb ennÃ©l. Tekintse halottnak azt a Westint.}
+{328}{}{Nem Ã©rdekel ez a munka. TalÃ¡ljon rÃ¡ valaki mÃ¡st!}
+{335}{}{CsigavÃ©r! MÃ©g NEM fejeztem be. Annak ellenÃ©re, hogy holtan akarom lÃ¡tni, el kell kerÃ¼lnÃ¶d a gyilkossÃ¡g lÃ¡tszatÃ¡t! Ne l?dd fejbe, ne szÃºrd hÃ¡tba, semmi olyasmit ne tegyÃ©l, amir?l ordÃ­t, hogy gyilkossÃ¡g volt!}
 {336}{}{Micsoda? Hogy a...}
-{337}{}{Ez egy kissé többe fog ker...}
+{337}{}{Ez egy kissÃ© tÃ¶bbe fog ker...}
 {338}{}{Merthogy...?}
-{345}{}{Így kell csinálni, és KÉSZ! Ha valaki gyanút fog, ha valaki megneszeli, hogy egy FIKARCNYI közöm is van a rohadék kinyiffanásához, garantálom, hogy az életben se azonosítsák a hulládat.}
-{346}{}{Hogy a francba nyomjak le valakit úgy, hogy ne látszódjon gyilkosságnak?}
-{347}{}{Felejtse el... ez nem az én stílusom. Találjon valaki mást! Már itt sem vagyok...}
-{355}{}{Ez már a TE problémád, vadember, nem az enyém. Csinálj valami hókusz-pókuszt, keverj össze néhány mérgez? nyövényt, dobd bele az italába, fojtsd meg álmában vagy dobd le egy tet?r?l! Mittudomén! A lényeg, hogy ne t?njön szándékosnak.}
-{356}{}{Rendben... még egyszer elmondanám, ha nem lettem volna KRISTÁLY tisztán érthet?: Balesetnek kell látszódnia, különben nem ér semmit.}
-{357}{}{Legyen. Visszajövök, ha Westint utolérte a "baleset".}
-{358}{}{HALLOTTAM, amit hallanom kell. Amint Westin "balesetet" szenvedett, visszajövök.}
-{359}{}{Ha azt akarja, hogy ne röpítsek golyót az agyába, akkor ez megdrágítja a dolgot.}
-{360}{}{Szóval azt akarja, hogy balesetnek látszódjon? Akkor tudnom kell még egy-két háttérinformációt Westinnel kapcsolatban.}
-{361}{}{Ez a munka nem nekem való. Felejtse el!}
-{370}{}{Jól van. Reméljük, hamarosan hallunk fel?led. Ne feledd, vadember, te nem ismersz engem, és sosem beszélgettünk. Ha kiderül ez a kis eset, véged.}
-{371}{}{Maga csak NE aggódjon, Bishop! A legjobb, amit tehet, hogy mire visszajövök, el?készíti a pénzecskét!}
-{372}{}{Ez nem okozhat gondot. Hamarosan újra látjuk egymást.}
-{380}{}{Máris többet ígértem, mint amennyit az egész ÉLETED ér, vadember. Ne akadékoskodj!}
-{381}{}{Egy egész ezres, vagy elfelejtheti. Ez különleges munka és költségeim vannak. El kell jutnom ugye az ÚKK-ba, el kell intéznem a "balesetet", és ami a lényeg, pénzt kell költenem a különleges "baleset-színlel?" tárgyakra is. Szóval MAGA ne akadékoskodjon, oké?}
-{382}{}{Legyen egyezer, és kap egy remekbeszabott bérgyilkost!}
-{383}{}{Talán 750 dolcsi is elég lesz.}
-{384}{}{Maradjunk akkor 500 dolcsiban. Westinnek már készíthetik a koporsót.}
-{385}{}{Akkor felejtsük el, keressen más balekot! Már le is léptem.}
-{390}{}{MIT AKARSZ TE ITT? Te senkiházi, máris szerencsésnek mondhatod magad azzal, amit ígértem.}
-{391}{}{Nézze, utoljára megismétlem: 500 dollárnál többet kell fizetnie.}
-{393}{}{Akkor hagyjuk az egészet! Találjon magának mást, aki megcsinálja. Léptem.}
-{400}{}{Hát legyen! Jó lesz, ha nem sülsz fel, vadember! Ha mégis átversz, vagy elcseszed, vagy bárki neszét veszi az egyezségünknek, minden egyes dollárért cserébe egy-egy sebet fogok ejteni rajtad a késemmel!}
-{401}{}{Nincs itt semmi gond. Vegye úgy, hogy Westin már meg is halt!}
-{402}{}{Csakugyan? Akkor találjon magának mást, aki megoldja a problémáit. Már itt sem vagyok...}
-{410}{}{Hmmmm. Rendben, elég méltányos ez így... mit akarsz tudni?}
-{411}{}{Mivel szolgálhatok?}
-{412}{}{Hol találom ezt a fickót? Nem akarom t?vé tenni érte az egész várost, ha megérkezem az ÚKK-ba.}
-{413}{}{Van ennek a fickónak valami rokona vagy családja? Számíthatok szemtanúkra?}
-{414}{}{Hogy áll az egészséggel? Nem beteg véletlenül?}
-{416}{}{Mivel foglalkozik ez a WESTIN? Lehet tudni a napi beosztását?}
-{417}{}{Nem f?lik a fogam ehhez. Találjon valaki mást!}
-{425}{}{Van egy farmja az ÚKK-ban. Kövesd a brahminszagot és gond nélkül odatalálsz!}
-{426}{}{Kérdeznék még egy-két dolgot Westinr?l...}
-{428}{}{Minél többet hallok err?l, annál kevésbé vágyom rá, hogy elvégezzem ezt a munkát. Felejtsük el!}
-{435}{}{Legjobb tudomásom szerint nincs gyereke, nincs felesége, nincs családja. Néhány csicskása minden bizonnyal akad, de azok nem fognak sok fejtörést okozni.}
-{437}{}{Várjunk egy percet... "csicskása?" Fel vannak vajon fegyverezve? Mennyit takar az a NÉHÁNY?}
-{438}{}{Rendben, ennyi épp elég a boldoguláshoz. Westin már szinte meg is halt.}
-{445}{}{Valószín?leg van náluk fegyver... viszont, hogy hányan vannak... fogalmam sincs. Tudom, hogy vannak munkásai is, nyilván épp elég. Az, hogy mit csinálsz velük, a TE dolgod, vadember.}
-{446}{}{Nagyszer?, ez sokat segített. Viszont volna még egy-két kérdésem Westint illet?en...}
-{447}{}{Ennyi épp elég, hogy belevághassak. Westin akár kezdhet is imádkozni.}
-{455}{}{Hát... a pletykák szerint nem sokat jár a szabadba. Azt hiszem, hallottam valamit arról, hogy rossz a szíve, ezért nem nagyon er?ltetheti meg magát. (Horkant egyet.) Vagy ez a baja, vagy nem mehet a napra. Mittudomén.}
-{456}{}{Hmmmm. Hadd kérdezzek még Westinr?l...}
-{457}{}{Szívpanaszai vannak? Van orvosa? Szokott valami gyógyszert szedni rá?}
+{345}{}{Ãgy kell csinÃ¡lni, Ã©s KÃ‰SZ! Ha valaki gyanÃºt fog, ha valaki megneszeli, hogy egy FIKARCNYI kÃ¶zÃ¶m is van a rohadÃ©k kinyiffanÃ¡sÃ¡hoz, garantÃ¡lom, hogy az Ã©letben se azonosÃ­tsÃ¡k a hullÃ¡dat.}
+{346}{}{Hogy a francba nyomjak le valakit Ãºgy, hogy ne lÃ¡tszÃ³djon gyilkossÃ¡gnak?}
+{347}{}{Felejtse el... ez nem az Ã©n stÃ­lusom. TalÃ¡ljon valaki mÃ¡st! MÃ¡r itt sem vagyok...}
+{355}{}{Ez mÃ¡r a TE problÃ©mÃ¡d, vadember, nem az enyÃ©m. CsinÃ¡lj valami hÃ³kusz-pÃ³kuszt, keverj Ã¶ssze nÃ©hÃ¡ny mÃ©rgez? nyÃ¶vÃ©nyt, dobd bele az italÃ¡ba, fojtsd meg Ã¡lmÃ¡ban vagy dobd le egy tet?r?l! MittudomÃ©n! A lÃ©nyeg, hogy ne t?njÃ¶n szÃ¡ndÃ©kosnak.}
+{356}{}{Rendben... mÃ©g egyszer elmondanÃ¡m, ha nem lettem volna KRISTÃLY tisztÃ¡n Ã©rthet?: Balesetnek kell lÃ¡tszÃ³dnia, kÃ¼lÃ¶nben nem Ã©r semmit.}
+{357}{}{Legyen. VisszajÃ¶vÃ¶k, ha Westint utolÃ©rte a "baleset".}
+{358}{}{HALLOTTAM, amit hallanom kell. Amint Westin "balesetet" szenvedett, visszajÃ¶vÃ¶k.}
+{359}{}{Ha azt akarja, hogy ne rÃ¶pÃ­tsek golyÃ³t az agyÃ¡ba, akkor ez megdrÃ¡gÃ­tja a dolgot.}
+{360}{}{SzÃ³val azt akarja, hogy balesetnek lÃ¡tszÃ³djon? Akkor tudnom kell mÃ©g egy-kÃ©t hÃ¡ttÃ©rinformÃ¡ciÃ³t Westinnel kapcsolatban.}
+{361}{}{Ez a munka nem nekem valÃ³. Felejtse el!}
+{370}{}{JÃ³l van. RemÃ©ljÃ¼k, hamarosan hallunk fel?led. Ne feledd, vadember, te nem ismersz engem, Ã©s sosem beszÃ©lgettÃ¼nk. Ha kiderÃ¼l ez a kis eset, vÃ©ged.}
+{371}{}{Maga csak NE aggÃ³djon, Bishop! A legjobb, amit tehet, hogy mire visszajÃ¶vÃ¶k, el?kÃ©szÃ­ti a pÃ©nzecskÃ©t!}
+{372}{}{Ez nem okozhat gondot. Hamarosan Ãºjra lÃ¡tjuk egymÃ¡st.}
+{380}{}{MÃ¡ris tÃ¶bbet Ã­gÃ©rtem, mint amennyit az egÃ©sz Ã‰LETED Ã©r, vadember. Ne akadÃ©koskodj!}
+{381}{}{Egy egÃ©sz ezres, vagy elfelejtheti. Ez kÃ¼lÃ¶nleges munka Ã©s kÃ¶ltsÃ©geim vannak. El kell jutnom ugye az ÃšKK-ba, el kell intÃ©znem a "balesetet", Ã©s ami a lÃ©nyeg, pÃ©nzt kell kÃ¶ltenem a kÃ¼lÃ¶nleges "baleset-szÃ­nlel?" tÃ¡rgyakra is. SzÃ³val MAGA ne akadÃ©koskodjon, okÃ©?}
+{382}{}{Legyen egyezer, Ã©s kap egy remekbeszabott bÃ©rgyilkost!}
+{383}{}{TalÃ¡n 750 dolcsi is elÃ©g lesz.}
+{384}{}{Maradjunk akkor 500 dolcsiban. Westinnek mÃ¡r kÃ©szÃ­thetik a koporsÃ³t.}
+{385}{}{Akkor felejtsÃ¼k el, keressen mÃ¡s balekot! MÃ¡r le is lÃ©ptem.}
+{390}{}{MIT AKARSZ TE ITT? Te senkihÃ¡zi, mÃ¡ris szerencsÃ©snek mondhatod magad azzal, amit Ã­gÃ©rtem.}
+{391}{}{NÃ©zze, utoljÃ¡ra megismÃ©tlem: 500 dollÃ¡rnÃ¡l tÃ¶bbet kell fizetnie.}
+{393}{}{Akkor hagyjuk az egÃ©szet! TalÃ¡ljon magÃ¡nak mÃ¡st, aki megcsinÃ¡lja. LÃ©ptem.}
+{400}{}{HÃ¡t legyen! JÃ³ lesz, ha nem sÃ¼lsz fel, vadember! Ha mÃ©gis Ã¡tversz, vagy elcseszed, vagy bÃ¡rki neszÃ©t veszi az egyezsÃ©gÃ¼nknek, minden egyes dollÃ¡rÃ©rt cserÃ©be egy-egy sebet fogok ejteni rajtad a kÃ©semmel!}
+{401}{}{Nincs itt semmi gond. Vegye Ãºgy, hogy Westin mÃ¡r meg is halt!}
+{402}{}{Csakugyan? Akkor talÃ¡ljon magÃ¡nak mÃ¡st, aki megoldja a problÃ©mÃ¡it. MÃ¡r itt sem vagyok...}
+{410}{}{Hmmmm. Rendben, elÃ©g mÃ©ltÃ¡nyos ez Ã­gy... mit akarsz tudni?}
+{411}{}{Mivel szolgÃ¡lhatok?}
+{412}{}{Hol talÃ¡lom ezt a fickÃ³t? Nem akarom t?vÃ© tenni Ã©rte az egÃ©sz vÃ¡rost, ha megÃ©rkezem az ÃšKK-ba.}
+{413}{}{Van ennek a fickÃ³nak valami rokona vagy csalÃ¡dja? SzÃ¡mÃ­thatok szemtanÃºkra?}
+{414}{}{Hogy Ã¡ll az egÃ©szsÃ©ggel? Nem beteg vÃ©letlenÃ¼l?}
+{416}{}{Mivel foglalkozik ez a WESTIN? Lehet tudni a napi beosztÃ¡sÃ¡t?}
+{417}{}{Nem f?lik a fogam ehhez. TalÃ¡ljon valaki mÃ¡st!}
+{425}{}{Van egy farmja az ÃšKK-ban. KÃ¶vesd a brahminszagot Ã©s gond nÃ©lkÃ¼l odatalÃ¡lsz!}
+{426}{}{KÃ©rdeznÃ©k mÃ©g egy-kÃ©t dolgot Westinr?l...}
+{428}{}{MinÃ©l tÃ¶bbet hallok err?l, annÃ¡l kevÃ©sbÃ© vÃ¡gyom rÃ¡, hogy elvÃ©gezzem ezt a munkÃ¡t. FelejtsÃ¼k el!}
+{435}{}{Legjobb tudomÃ¡som szerint nincs gyereke, nincs felesÃ©ge, nincs csalÃ¡dja. NÃ©hÃ¡ny csicskÃ¡sa minden bizonnyal akad, de azok nem fognak sok fejtÃ¶rÃ©st okozni.}
+{437}{}{VÃ¡rjunk egy percet... "csicskÃ¡sa?" Fel vannak vajon fegyverezve? Mennyit takar az a NÃ‰HÃNY?}
+{438}{}{Rendben, ennyi Ã©pp elÃ©g a boldogulÃ¡shoz. Westin mÃ¡r szinte meg is halt.}
+{445}{}{ValÃ³szÃ­n?leg van nÃ¡luk fegyver... viszont, hogy hÃ¡nyan vannak... fogalmam sincs. Tudom, hogy vannak munkÃ¡sai is, nyilvÃ¡n Ã©pp elÃ©g. Az, hogy mit csinÃ¡lsz velÃ¼k, a TE dolgod, vadember.}
+{446}{}{Nagyszer?, ez sokat segÃ­tett. Viszont volna mÃ©g egy-kÃ©t kÃ©rdÃ©sem Westint illet?en...}
+{447}{}{Ennyi Ã©pp elÃ©g, hogy belevÃ¡ghassak. Westin akÃ¡r kezdhet is imÃ¡dkozni.}
+{455}{}{HÃ¡t... a pletykÃ¡k szerint nem sokat jÃ¡r a szabadba. Azt hiszem, hallottam valamit arrÃ³l, hogy rossz a szÃ­ve, ezÃ©rt nem nagyon er?ltetheti meg magÃ¡t. (Horkant egyet.) Vagy ez a baja, vagy nem mehet a napra. MittudomÃ©n.}
+{456}{}{Hmmmm. Hadd kÃ©rdezzek mÃ©g Westinr?l...}
+{457}{}{SzÃ­vpanaszai vannak? Van orvosa? Szokott valami gyÃ³gyszert szedni rÃ¡?}
 {465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any drugs for his heart, but I know he'd have
  to be pretty damn careful about which ones he DID take with that heart o' his.}
-{475}{}{(A homlokát ráncolja.) Az az ember brahmintenyészt?. Állatfarm tulajdonos. Egyéb?}
-{476}{}{Jól van. Kéne még ezt-azt tudnom Westinr?l...}
-{477}{}{Nem, ez az ember nyilván NAGYOBB HAL. Különben most nem volna mir?l beszélnünk.}
-{485}{}{(Rádbámul.) Ezenkívül ? az ÚKK kongresszus egyik küldötte is. Csak nem berezeltél t?le, vadember? Ne tedd! Csináld csak a munkád, és nem kell mit?l aggódnod. Viszont ha elbaszod, Westin lesz a legkisebb problémád.}
-{488}{}{ Szóval az ÚKK kongresszus egyik küldötte. Még jó, hogy mondja! Keressen valaki mást erre... olyat aki épp meszet evett.}
-{495}{}{Na, jól van. Isten áljdon akkor... olyanoknak mindig van munkám, akik eredményt produkálnak.}
-{496}{}{Észben fogom tartni. Viszlát!}
-{500}{}{Leszámoltál Westinnel?}
-{501}{}{ROHADTUL remélem, hogy most már jó híreket hozol. Westin halott vagy sem?}
-{502}{}{Vadember, a türelmem véges! Megcsináltad az istenverte munkát, vagy sem?}
-{503}{}{Az a helyzet... érdekes, lehet hogy tetszeni fog magának a helyzet iróniája... kaptam egy ellenajánlatot. Hadd világítsak rá, mir?l is van szó.}
-{504}{}{Westin balesetet szenvedett... igen. Szörny? gyalázat, hogy egy hozzá hasonló ember ilyen hirtelenséggel elhalálozzon. Na, akkor beszéljünk a pénzr?l, amivel tartozik nekem...}
-{505}{}{Még nem végeztem. El?bb van egy-két elintézetlen dolgom.}
-{507}{}{Azért jöttem, hogy elmondjam, a munkát nem csinálom meg. Felejtsük el!}
-{515}{}{Te idióta féreg...}
-{516}{}{Te ostoba ringyó...}
-{517}{}{látom, van b?r a képeden, hogy idejössz azután, hogy elbasztad a dolgokat az ÚKK-ban. Miért nem akasztottál egy cédulát Westinre, hogy "Bérgyilkosság áldozata lettem"? Hát sokáig fogsz szenvedni, annyi szent...}
-{519}{}{Elég gyenge utolsó szavak ezek, Bishop...}
-{525}{}{Hékás! A munka még aktuális... ha akarod. Jól fizet ám... Érdekel?}
-{536}{}{Itt a fizetséged.}
-{537}{}{Van még valami megbízatása számomra?}
-{538}{}{Ez elrendezi a köztünk fennálló helyzetet? Ha igen, akkor már le is léptem.}
-{539}{}{Remek. Öröm magával együtt dolgozni.}
-{545}{}{Lassan a testtel, vadember... jól helyt álltál. Volna egy másik munkám is, ha érdekel.}
-{547}{}{Nem, köszönöm. Egyáltalán nem érdekel.}
-{550}{}{(Egy pillanatra megnéz magának, aztán rábólint.) }
-{551}{}{Hogyne... van munka a számodra. }
-{552}{}{Van egy másik... "problémám" lent az ÚKK-ban. Csak nyomd le az egyiket, jön helyette másik. A hullajelölt neve Carlson. Még nem tudja, mi vár rá. }
-{553}{}{Van egy másik... "problémám" lent délen az ÚKK-ban. A hullajelölt neve Carlson. Még nem tudja, mi vár rá. }
-{554}{}{Intézd el nekem és 500 dollár üti a markod!}
-{555}{}{Ez semmiség. Az a Carlson máris hullának érezheti magát.}
-{556}{}{ÚJABB gyilkosság?}
-{565}{}{Nem gyilkosság. Az olyan csúnya szó. Ez üzlet. Politika, ha úgy tetszik. Mindkett? igen tiszteletreméltó intézmény. Na, akkor kell a munka vagy mi lesz?}
-{575}{}{Még egy dolog: T?lem Carlsont akár simán le is puffogtathatod. A Westin ügy után nyilván jól beásta magát, szóval nem kell vele sokat lacafacázni. Egyszer?en csak CSINÁLD KI, capiche?}
-{576}{}{Még egy dolog: T?lem Carlsont akár simán le is puffogtathatod. Nyilván jól beásta magát a házába, szóval nem kell vele sokat lacafacázni. Egyszer?en csak CSINÁLD KI, capiche?}
-{577}{}{Akkor még egyszer, ha nem lettem volna elég kristálytiszta: Nem érdekel, hogy nyomd le azt a gyökeret, ha meghal és úgy is marad.}
-{578}{}{Megértettem. Rajta vagyok a problémán.}
-{579}{}{RENDBEN... már els?re megértettem. Rajta vagyok a problémán.}
-{580}{}{Ha így kell lenni, hát így kell lenni... akkor beszéljünk az árról!}
-{581}{}{Miel?tt bármit is csinálnék, mondjon valamit err?l a Carlson fiúról!}
-{582}{}{Ó, szóval most már lehet lövöldözni? JÓL JÖTT VOLNA Westin estében. Verje ki a fejéb?l!}
-{583}{}{Nem érdekel. Találjon valaki mást!}
-{590}{}{Mit szarakodsz itt nekem? Már KÖZÖLTEM az árat. Nem fogunk egyezkedni. Pont... capiche?}
-{591}{}{Nézze, Bishop. Hidegre tettem Westint. Nem volt sétagalopp, de MEGCSINÁLTAM. A maga egyik embere sem tudta volna véghezvinni, különben ?ket küldte volna. Eredményeket akar? Akkor beszéljen VELEM, és olyan fizetségr?l, ami kedves a fülemnek.}
-{592}{}{1000 dolcsi. Ennyi az ára, hogy Carlson id? el?tt menjen nyugdíjba.}
-{593}{}{Legyen akkor 500. Carlson akár kezdhet is imádkozni.}
-{594}{}{Akkor felejtse el, keressen valaki mást!}
-{600}{}{Rendben... legyen ezer dolcsi. És nem több. Nem akarok több szarakodást. A következ?, amit a szádra veszel az "Igen, Mr. Bishop, megcsinálom." lesz.}
-{601}{}{Igen, Mr. Bishop, megcsinálom.}
-{602}{}{BELEMEGYEK 1000 dollárba. Ezegyszer.}
-{603}{}{1000 dolcsi? Maga viccel? 1500-nál alább nem adom.}
-{604}{}{Verje ki a fejéb?l! Nem kell ez a szaros munka.}
-{605}{}{Üsse ki a fejéb?l! Nem kell ez nekem.}
-{615}{}{(Meghányja-veti a dolgot, aztán épp csak megbiccenti a fejét.) Érthet?... mit akarsz tudni?}
-{616}{}{Mivel szolgálhatok?}
-{622}{}{Mivel foglalkozik ez a Carlson? Milyen a napi beosztása?}
-{630}{}{Az ÚKK-ban lév? elnöki kúriába fészkelte be magát. Nem lehet eltéveszteni. Az, hogy hogyan jutsz be, és hogyan nyírod ki, a te dolgod.}
-{631}{}{Hadd kérdezzek még Carlsonról...}
-{632}{}{Rendben, ez már elég a boldoguláshoz. Carlson máris halottnak érezheti magát.}
-{640}{}{A felesége meghalt, de van egy fia. Valami hét vagy nyolc éves, és vele él a kúriában... (Gondolkodóba esik.) ...a helyet egyébként nyilván ?rzik, szóval vigyázz a biztonságiakkal!}
-{642}{}{Várjunk egy picit... hány ?re lehet?}
-{650}{}{Nem tudom. Én felderíteném a helyszínt és kipuhatolóznám az ?rök számát a helyedben. Persze az elintézésük már teljesen a te magánügyed, vadember.}
-{651}{}{Nagyszer?, ez sokat segített. Azért volna még néhány kérdésem Carlsonnal kapcsolatban...}
-{652}{}{Hát ez már elég, hogy boldoguljak. Carlson kezdhet imádkozni.}
-{660}{}{Nem, semmi ilyesmi... amir?l tudomásom lenne. Az az ember egy paranoiás barom, annyi szent, de nem hinném, hogy beteg lenne, vagy ilyesmi. (A homlokát ráncolja.) A lényeg a lényeg, már éppen elég öreg, így csak hálni jár belé a lélek.}
-{670}{}{(Rádmered.) ? az ÚKK alelnöke. De ez ne zavarjon... egy szép lövés, és már mehet is a koporsóba. Csak arra ügyelj, hogy az az egyetlen jó lövés célba találjon.}
-{671}{}{Rendben van. Még kérdeznék Carlsonnal kapcsolatban, ha nem gond...}
-{673}{}{Az ÚKK alelnöke? Basszus, err?l nem volt szó! Keressen valaki mást... valakit, aki megunta az életét!}
+{475}{}{(A homlokÃ¡t rÃ¡ncolja.) Az az ember brahmintenyÃ©szt?. Ãllatfarm tulajdonos. EgyÃ©b?}
+{476}{}{JÃ³l van. KÃ©ne mÃ©g ezt-azt tudnom Westinr?l...}
+{477}{}{Nem, ez az ember nyilvÃ¡n NAGYOBB HAL. KÃ¼lÃ¶nben most nem volna mir?l beszÃ©lnÃ¼nk.}
+{485}{}{(RÃ¡dbÃ¡mul.) EzenkÃ­vÃ¼l ? az ÃšKK kongresszus egyik kÃ¼ldÃ¶tte is. Csak nem berezeltÃ©l t?le, vadember? Ne tedd! CsinÃ¡ld csak a munkÃ¡d, Ã©s nem kell mit?l aggÃ³dnod. Viszont ha elbaszod, Westin lesz a legkisebb problÃ©mÃ¡d.}
+{488}{}{ SzÃ³val az ÃšKK kongresszus egyik kÃ¼ldÃ¶tte. MÃ©g jÃ³, hogy mondja! Keressen valaki mÃ¡st erre... olyat aki Ã©pp meszet evett.}
+{495}{}{Na, jÃ³l van. Isten Ã¡ljdon akkor... olyanoknak mindig van munkÃ¡m, akik eredmÃ©nyt produkÃ¡lnak.}
+{496}{}{Ã‰szben fogom tartni. ViszlÃ¡t!}
+{500}{}{LeszÃ¡moltÃ¡l Westinnel?}
+{501}{}{ROHADTUL remÃ©lem, hogy most mÃ¡r jÃ³ hÃ­reket hozol. Westin halott vagy sem?}
+{502}{}{Vadember, a tÃ¼relmem vÃ©ges! MegcsinÃ¡ltad az istenverte munkÃ¡t, vagy sem?}
+{503}{}{Az a helyzet... Ã©rdekes, lehet hogy tetszeni fog magÃ¡nak a helyzet irÃ³niÃ¡ja... kaptam egy ellenajÃ¡nlatot. Hadd vilÃ¡gÃ­tsak rÃ¡, mir?l is van szÃ³.}
+{504}{}{Westin balesetet szenvedett... igen. SzÃ¶rny? gyalÃ¡zat, hogy egy hozzÃ¡ hasonlÃ³ ember ilyen hirtelensÃ©ggel elhalÃ¡lozzon. Na, akkor beszÃ©ljÃ¼nk a pÃ©nzr?l, amivel tartozik nekem...}
+{505}{}{MÃ©g nem vÃ©geztem. El?bb van egy-kÃ©t elintÃ©zetlen dolgom.}
+{507}{}{AzÃ©rt jÃ¶ttem, hogy elmondjam, a munkÃ¡t nem csinÃ¡lom meg. FelejtsÃ¼k el!}
+{515}{}{Te idiÃ³ta fÃ©reg...}
+{516}{}{Te ostoba ringyÃ³...}
+{517}{}{lÃ¡tom, van b?r a kÃ©peden, hogy idejÃ¶ssz azutÃ¡n, hogy elbasztad a dolgokat az ÃšKK-ban. MiÃ©rt nem akasztottÃ¡l egy cÃ©dulÃ¡t Westinre, hogy "BÃ©rgyilkossÃ¡g Ã¡ldozata lettem"? HÃ¡t sokÃ¡ig fogsz szenvedni, annyi szent...}
+{519}{}{ElÃ©g gyenge utolsÃ³ szavak ezek, Bishop...}
+{525}{}{HÃ©kÃ¡s! A munka mÃ©g aktuÃ¡lis... ha akarod. JÃ³l fizet Ã¡m... Ã‰rdekel?}
+{536}{}{Itt a fizetsÃ©ged.}
+{537}{}{Van mÃ©g valami megbÃ­zatÃ¡sa szÃ¡momra?}
+{538}{}{Ez elrendezi a kÃ¶ztÃ¼nk fennÃ¡llÃ³ helyzetet? Ha igen, akkor mÃ¡r le is lÃ©ptem.}
+{539}{}{Remek. Ã–rÃ¶m magÃ¡val egyÃ¼tt dolgozni.}
+{545}{}{Lassan a testtel, vadember... jÃ³l helyt Ã¡lltÃ¡l. Volna egy mÃ¡sik munkÃ¡m is, ha Ã©rdekel.}
+{547}{}{Nem, kÃ¶szÃ¶nÃ¶m. EgyÃ¡ltalÃ¡n nem Ã©rdekel.}
+{550}{}{(Egy pillanatra megnÃ©z magÃ¡nak, aztÃ¡n rÃ¡bÃ³lint.) }
+{551}{}{Hogyne... van munka a szÃ¡modra. }
+{552}{}{Van egy mÃ¡sik... "problÃ©mÃ¡m" lent az ÃšKK-ban. Csak nyomd le az egyiket, jÃ¶n helyette mÃ¡sik. A hullajelÃ¶lt neve Carlson. MÃ©g nem tudja, mi vÃ¡r rÃ¡. }
+{553}{}{Van egy mÃ¡sik... "problÃ©mÃ¡m" lent dÃ©len az ÃšKK-ban. A hullajelÃ¶lt neve Carlson. MÃ©g nem tudja, mi vÃ¡r rÃ¡. }
+{554}{}{IntÃ©zd el nekem Ã©s 500 dollÃ¡r Ã¼ti a markod!}
+{555}{}{Ez semmisÃ©g. Az a Carlson mÃ¡ris hullÃ¡nak Ã©rezheti magÃ¡t.}
+{556}{}{ÃšJABB gyilkossÃ¡g?}
+{565}{}{Nem gyilkossÃ¡g. Az olyan csÃºnya szÃ³. Ez Ã¼zlet. Politika, ha Ãºgy tetszik. Mindkett? igen tiszteletremÃ©ltÃ³ intÃ©zmÃ©ny. Na, akkor kell a munka vagy mi lesz?}
+{575}{}{MÃ©g egy dolog: T?lem Carlsont akÃ¡r simÃ¡n le is puffogtathatod. A Westin Ã¼gy utÃ¡n nyilvÃ¡n jÃ³l beÃ¡sta magÃ¡t, szÃ³val nem kell vele sokat lacafacÃ¡zni. Egyszer?en csak CSINÃLD KI, capiche?}
+{576}{}{MÃ©g egy dolog: T?lem Carlsont akÃ¡r simÃ¡n le is puffogtathatod. NyilvÃ¡n jÃ³l beÃ¡sta magÃ¡t a hÃ¡zÃ¡ba, szÃ³val nem kell vele sokat lacafacÃ¡zni. Egyszer?en csak CSINÃLD KI, capiche?}
+{577}{}{Akkor mÃ©g egyszer, ha nem lettem volna elÃ©g kristÃ¡lytiszta: Nem Ã©rdekel, hogy nyomd le azt a gyÃ¶keret, ha meghal Ã©s Ãºgy is marad.}
+{578}{}{MegÃ©rtettem. Rajta vagyok a problÃ©mÃ¡n.}
+{579}{}{RENDBEN... mÃ¡r els?re megÃ©rtettem. Rajta vagyok a problÃ©mÃ¡n.}
+{580}{}{Ha Ã­gy kell lenni, hÃ¡t Ã­gy kell lenni... akkor beszÃ©ljÃ¼nk az Ã¡rrÃ³l!}
+{581}{}{Miel?tt bÃ¡rmit is csinÃ¡lnÃ©k, mondjon valamit err?l a Carlson fiÃºrÃ³l!}
+{582}{}{Ã“, szÃ³val most mÃ¡r lehet lÃ¶vÃ¶ldÃ¶zni? JÃ“L JÃ–TT VOLNA Westin estÃ©ben. Verje ki a fejÃ©b?l!}
+{583}{}{Nem Ã©rdekel. TalÃ¡ljon valaki mÃ¡st!}
+{590}{}{Mit szarakodsz itt nekem? MÃ¡r KÃ–ZÃ–LTEM az Ã¡rat. Nem fogunk egyezkedni. Pont... capiche?}
+{591}{}{NÃ©zze, Bishop. Hidegre tettem Westint. Nem volt sÃ©tagalopp, de MEGCSINÃLTAM. A maga egyik embere sem tudta volna vÃ©ghezvinni, kÃ¼lÃ¶nben ?ket kÃ¼ldte volna. EredmÃ©nyeket akar? Akkor beszÃ©ljen VELEM, Ã©s olyan fizetsÃ©gr?l, ami kedves a fÃ¼lemnek.}
+{592}{}{1000 dolcsi. Ennyi az Ã¡ra, hogy Carlson id? el?tt menjen nyugdÃ­jba.}
+{593}{}{Legyen akkor 500. Carlson akÃ¡r kezdhet is imÃ¡dkozni.}
+{594}{}{Akkor felejtse el, keressen valaki mÃ¡st!}
+{600}{}{Rendben... legyen ezer dolcsi. Ã‰s nem tÃ¶bb. Nem akarok tÃ¶bb szarakodÃ¡st. A kÃ¶vetkez?, amit a szÃ¡dra veszel az "Igen, Mr. Bishop, megcsinÃ¡lom." lesz.}
+{601}{}{Igen, Mr. Bishop, megcsinÃ¡lom.}
+{602}{}{BELEMEGYEK 1000 dollÃ¡rba. Ezegyszer.}
+{603}{}{1000 dolcsi? Maga viccel? 1500-nÃ¡l alÃ¡bb nem adom.}
+{604}{}{Verje ki a fejÃ©b?l! Nem kell ez a szaros munka.}
+{605}{}{Ãœsse ki a fejÃ©b?l! Nem kell ez nekem.}
+{615}{}{(MeghÃ¡nyja-veti a dolgot, aztÃ¡n Ã©pp csak megbiccenti a fejÃ©t.) Ã‰rthet?... mit akarsz tudni?}
+{616}{}{Mivel szolgÃ¡lhatok?}
+{622}{}{Mivel foglalkozik ez a Carlson? Milyen a napi beosztÃ¡sa?}
+{630}{}{Az ÃšKK-ban lÃ©v? elnÃ¶ki kÃºriÃ¡ba fÃ©szkelte be magÃ¡t. Nem lehet eltÃ©veszteni. Az, hogy hogyan jutsz be, Ã©s hogyan nyÃ­rod ki, a te dolgod.}
+{631}{}{Hadd kÃ©rdezzek mÃ©g CarlsonrÃ³l...}
+{632}{}{Rendben, ez mÃ¡r elÃ©g a boldogulÃ¡shoz. Carlson mÃ¡ris halottnak Ã©rezheti magÃ¡t.}
+{640}{}{A felesÃ©ge meghalt, de van egy fia. Valami hÃ©t vagy nyolc Ã©ves, Ã©s vele Ã©l a kÃºriÃ¡ban... (GondolkodÃ³ba esik.) ...a helyet egyÃ©bkÃ©nt nyilvÃ¡n ?rzik, szÃ³val vigyÃ¡zz a biztonsÃ¡giakkal!}
+{642}{}{VÃ¡rjunk egy picit... hÃ¡ny ?re lehet?}
+{650}{}{Nem tudom. Ã‰n felderÃ­tenÃ©m a helyszÃ­nt Ã©s kipuhatolÃ³znÃ¡m az ?rÃ¶k szÃ¡mÃ¡t a helyedben. Persze az elintÃ©zÃ©sÃ¼k mÃ¡r teljesen a te magÃ¡nÃ¼gyed, vadember.}
+{651}{}{Nagyszer?, ez sokat segÃ­tett. AzÃ©rt volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem Carlsonnal kapcsolatban...}
+{652}{}{HÃ¡t ez mÃ¡r elÃ©g, hogy boldoguljak. Carlson kezdhet imÃ¡dkozni.}
+{660}{}{Nem, semmi ilyesmi... amir?l tudomÃ¡som lenne. Az az ember egy paranoiÃ¡s barom, annyi szent, de nem hinnÃ©m, hogy beteg lenne, vagy ilyesmi. (A homlokÃ¡t rÃ¡ncolja.) A lÃ©nyeg a lÃ©nyeg, mÃ¡r Ã©ppen elÃ©g Ã¶reg, Ã­gy csak hÃ¡lni jÃ¡r belÃ© a lÃ©lek.}
+{670}{}{(RÃ¡dmered.) ? az ÃšKK alelnÃ¶ke. De ez ne zavarjon... egy szÃ©p lÃ¶vÃ©s, Ã©s mÃ¡r mehet is a koporsÃ³ba. Csak arra Ã¼gyelj, hogy az az egyetlen jÃ³ lÃ¶vÃ©s cÃ©lba talÃ¡ljon.}
+{671}{}{Rendben van. MÃ©g kÃ©rdeznÃ©k Carlsonnal kapcsolatban, ha nem gond...}
+{673}{}{Az ÃšKK alelnÃ¶ke? Basszus, err?l nem volt szÃ³! Keressen valaki mÃ¡st... valakit, aki megunta az Ã©letÃ©t!}
 {680}{}{Lenyomtad Carlsont?}
-{681}{}{ROHADTUL remélem, hogy most már jó híreket hoztál. Carlson halott vagy sem?}
-{682}{}{A türelmem véges, vadember! Megölted Carlsont, vagy sem?}
-{683}{}{Épp most pakolják a koporsóba. Már ami maradt bel?le.}
-{695}{}{(Mosolyog.) Helyes, vadember. Le vagyok ny?gözve... engem bizony nem könny? leny?gözni. }
-{705}{}{Nem egészen... (Mosolyog.) Volna egy IGAZI ajánlatom. Mit szólnál, ha a családunk tagja lennél? Nagy terveim vannak, és a hasznodat tudnám venni. Lehet rád számítani, és megoldod a rádbízott feladatokat. Ilyen katonákra van nekem szükségem.}
-{706}{}{Felkeltette az érdekl?désemet. Mi esik le nekem ebb?l?}
-{707}{}{Köszönöm, de nem kötöm le magam sehova... a falum és a népem számít rám.}
-{715}{}{Megállj... remélem, nem gondoltad komolyan, hogy csak úgy kisétálhatsz azzal az információval, amit te tudsz? Heh. Ugyan... Az ügy lezárása el?tt el kell varrni néhány szálat. Nagyon rossz döntés lenne, ha... hagynálak csak úgy szabadon járni-kelni.}
-{716}{}{Megállj... remélem, nem gondoltad komolyan, hogy a kett?nk ügye le van rendezve? Heh. Ugyan... ami téged illet, sokmindenért kell neked még megfizetni. Ráadásul nem engedhetem, hogy csak úgy elmenj innen azzal, amit te tudsz... rossz döntés lenne.}
-{717}{}{Ne beszéljen hülyeségeket, Bishop! Engedjen el, különben a koszos kis kaszinóját pokollá változtatom. "Capiche?"}
-{718}{}{Van benne valami. Hadd mutassam be magának az én 9 mm-es döntéshozómat.}
-{719}{}{"Rossz döntés?" MAJD MEGMUTATOM, HOGY MI A JÓ DÖNTÉS, A KU...}
-{725}{}{Jól van, mellesleg megjegyzem: }
-{726}{}{Kedveled a n?ket? Biztosítani fogom, hogy SOHA többé ne érezd magad egyedül. Esetleg ha nem csípnéd a szajhákat, szerezhetek fiúkákat is, akikbe tömködheted a l?csödet.}
-{727}{}{Van valami ifjú cs?döröd, aki boldoggá tesz? Ha bármelyik csinifiú megtetszene, én megszerzem neked. Esetleg a másik oldalra vágysz? Nem gond. Biztosíthatom, hogy a hét minden napjára jusson egy partner.}
+{681}{}{ROHADTUL remÃ©lem, hogy most mÃ¡r jÃ³ hÃ­reket hoztÃ¡l. Carlson halott vagy sem?}
+{682}{}{A tÃ¼relmem vÃ©ges, vadember! MegÃ¶lted Carlsont, vagy sem?}
+{683}{}{Ã‰pp most pakoljÃ¡k a koporsÃ³ba. MÃ¡r ami maradt bel?le.}
+{695}{}{(Mosolyog.) Helyes, vadember. Le vagyok ny?gÃ¶zve... engem bizony nem kÃ¶nny? leny?gÃ¶zni. }
+{705}{}{Nem egÃ©szen... (Mosolyog.) Volna egy IGAZI ajÃ¡nlatom. Mit szÃ³lnÃ¡l, ha a csalÃ¡dunk tagja lennÃ©l? Nagy terveim vannak, Ã©s a hasznodat tudnÃ¡m venni. Lehet rÃ¡d szÃ¡mÃ­tani, Ã©s megoldod a rÃ¡dbÃ­zott feladatokat. Ilyen katonÃ¡kra van nekem szÃ¼ksÃ©gem.}
+{706}{}{Felkeltette az Ã©rdekl?dÃ©semet. Mi esik le nekem ebb?l?}
+{707}{}{KÃ¶szÃ¶nÃ¶m, de nem kÃ¶tÃ¶m le magam sehova... a falum Ã©s a nÃ©pem szÃ¡mÃ­t rÃ¡m.}
+{715}{}{MegÃ¡llj... remÃ©lem, nem gondoltad komolyan, hogy csak Ãºgy kisÃ©tÃ¡lhatsz azzal az informÃ¡ciÃ³val, amit te tudsz? Heh. Ugyan... Az Ã¼gy lezÃ¡rÃ¡sa el?tt el kell varrni nÃ©hÃ¡ny szÃ¡lat. Nagyon rossz dÃ¶ntÃ©s lenne, ha... hagynÃ¡lak csak Ãºgy szabadon jÃ¡rni-kelni.}
+{716}{}{MegÃ¡llj... remÃ©lem, nem gondoltad komolyan, hogy a kett?nk Ã¼gye le van rendezve? Heh. Ugyan... ami tÃ©ged illet, sokmindenÃ©rt kell neked mÃ©g megfizetni. RÃ¡adÃ¡sul nem engedhetem, hogy csak Ãºgy elmenj innen azzal, amit te tudsz... rossz dÃ¶ntÃ©s lenne.}
+{717}{}{Ne beszÃ©ljen hÃ¼lyesÃ©geket, Bishop! Engedjen el, kÃ¼lÃ¶nben a koszos kis kaszinÃ³jÃ¡t pokollÃ¡ vÃ¡ltoztatom. "Capiche?"}
+{718}{}{Van benne valami. Hadd mutassam be magÃ¡nak az Ã©n 9 mm-es dÃ¶ntÃ©shozÃ³mat.}
+{719}{}{"Rossz dÃ¶ntÃ©s?" MAJD MEGMUTATOM, HOGY MI A JÃ“ DÃ–NTÃ‰S, A KU...}
+{725}{}{JÃ³l van, mellesleg megjegyzem: }
+{726}{}{Kedveled a n?ket? BiztosÃ­tani fogom, hogy SOHA tÃ¶bbÃ© ne Ã©rezd magad egyedÃ¼l. Esetleg ha nem csÃ­pnÃ©d a szajhÃ¡kat, szerezhetek fiÃºkÃ¡kat is, akikbe tÃ¶mkÃ¶dheted a l?csÃ¶det.}
+{727}{}{Van valami ifjÃº cs?dÃ¶rÃ¶d, aki boldoggÃ¡ tesz? Ha bÃ¡rmelyik csinifiÃº megtetszene, Ã©n megszerzem neked. Esetleg a mÃ¡sik oldalra vÃ¡gysz? Nem gond. BiztosÃ­thatom, hogy a hÃ©t minden napjÃ¡ra jusson egy partner.}
 {728}{}{Folytassa!}
-{735}{}{Repülni akarsz? El akarsz szállni? Be akarod l?ni magad? Megoldjuk. Fegyvert, felszerelést, jobb cuccokat akarsz? Minden vackot megkapsz. Abban az esetben... (Felemeli a mutatóujját.) ...HA csatlakozol a családunkhoz.}
-{736}{}{Jól hangzik. Elfogadom az ajánlatot... f?nök.}
-{740}{}{Jól van akkor...! Van valami neved, amit szívesen használnál?}
-{741}{}{Ó...}
-{745}{}{...Tetszik, tetszik. Most pedig, ha egyb?l ki szeretnéd próbálni a hírnevedet, ugorj le a bárba, vagy menj a Sz?z Utca végén lév? Cat's Paw-ba! Ha valami fegyvert akarsz, menj egyenesen New Reno-i Fegyverboltba!}
-{746}{}{Megnézem... f?nök.}
-{750}{}{Hé...}
-{751}{}{. Mindenki jól bánik veled?}
-{752}{}{Minden rendben van, Mr. Bishop. Gondoltam, beugrok és megnézem, minden rendben van-e önöknél is. Viszlát!}
-{753}{}{Minden a legnagyobb rendben. Az ÖN családja különösen élen jár abban, hogy... MINDEN létez? tiszteletet megkapjak. (Jelent?ségteljesen mosolyogsz, aztán távozol.)}
-{755}{}{Várj csak! Miel?tt elmennél... nem akarsz újra benézni a feleségemhez, vadember? }
-{756}{}{Várj csak! Miel?tt elmennél... nem akarsz újra benézni a lányomhoz, vadember? Együtt elszállhatnátok... }
-{757}{}{Egy kis pow-wow van készül?ben? Mi? (Bishop mosolyog, de egy cseppnyi humor sincs benne.)}
-{758}{}{Ami köztem és Leslie... ööö illetve. Mrs. Bishop között történt... nem jelentett semmit. Ezzel az er?vel akár... kezet is foghattunk volna.}
-{759}{}{Hé... nem történt ott semmi, oké?}
+{735}{}{RepÃ¼lni akarsz? El akarsz szÃ¡llni? Be akarod l?ni magad? Megoldjuk. Fegyvert, felszerelÃ©st, jobb cuccokat akarsz? Minden vackot megkapsz. Abban az esetben... (Felemeli a mutatÃ³ujjÃ¡t.) ...HA csatlakozol a csalÃ¡dunkhoz.}
+{736}{}{JÃ³l hangzik. Elfogadom az ajÃ¡nlatot... f?nÃ¶k.}
+{740}{}{JÃ³l van akkor...! Van valami neved, amit szÃ­vesen hasznÃ¡lnÃ¡l?}
+{741}{}{Ã“...}
+{745}{}{...Tetszik, tetszik. Most pedig, ha egyb?l ki szeretnÃ©d prÃ³bÃ¡lni a hÃ­rnevedet, ugorj le a bÃ¡rba, vagy menj a Sz?z Utca vÃ©gÃ©n lÃ©v? Cat's Paw-ba! Ha valami fegyvert akarsz, menj egyenesen New Reno-i Fegyverboltba!}
+{746}{}{MegnÃ©zem... f?nÃ¶k.}
+{750}{}{HÃ©...}
+{751}{}{. Mindenki jÃ³l bÃ¡nik veled?}
+{752}{}{Minden rendben van, Mr. Bishop. Gondoltam, beugrok Ã©s megnÃ©zem, minden rendben van-e Ã¶nÃ¶knÃ©l is. ViszlÃ¡t!}
+{753}{}{Minden a legnagyobb rendben. Az Ã–N csalÃ¡dja kÃ¼lÃ¶nÃ¶sen Ã©len jÃ¡r abban, hogy... MINDEN lÃ©tez? tiszteletet megkapjak. (Jelent?sÃ©gteljesen mosolyogsz, aztÃ¡n tÃ¡vozol.)}
+{755}{}{VÃ¡rj csak! Miel?tt elmennÃ©l... nem akarsz Ãºjra benÃ©zni a felesÃ©gemhez, vadember? }
+{756}{}{VÃ¡rj csak! Miel?tt elmennÃ©l... nem akarsz Ãºjra benÃ©zni a lÃ¡nyomhoz, vadember? EgyÃ¼tt elszÃ¡llhatnÃ¡tok... }
+{757}{}{Egy kis pow-wow van kÃ©szÃ¼l?ben? Mi? (Bishop mosolyog, de egy cseppnyi humor sincs benne.)}
+{758}{}{Ami kÃ¶ztem Ã©s Leslie... Ã¶Ã¶Ã¶ illetve. Mrs. Bishop kÃ¶zÃ¶tt tÃ¶rtÃ©nt... nem jelentett semmit. Ezzel az er?vel akÃ¡r... kezet is foghattunk volna.}
+{759}{}{HÃ©... nem tÃ¶rtÃ©nt ott semmi, okÃ©?}
 {760}{}{Mi van vele, Bishop?}
-{761}{}{Talán ha odafigyelt volna egy kicsit Angelára az id?k folyamán, a lány most nem akarná folyton felhívni magára a figyelmet.}
-{762}{}{Meg lenne lep?dve, hogy azok a "pow-wow"-k mennyire feldobják a nejét. Nagyon úgy t?nik, hogy a hölgynek még SOSEM volt része jó szexben.}
-{763}{}{Ez volt az UTOLSÓ törzsi poén egész életedben. Készülj a halálra!}
-{770}{}{Mi? Szerinted egy hozzád hasonló kis szaros megbaszhatja a feleségemet a saját házamban, és még nemet is mondhatsz, amikor szívességet kérek t?led?}
-{771}{}{Szerinted egy hozzád hasonló kis szaros megbaszhatja a feleségemet a saját házamban, és még nemet is mondhatsz, amikor szívességet kérek t?led?}
-{772}{}{Semmi nem történt! Esküszöm! Nem érdekel, mit mondott a felesége! Részeg voltam! És be is voltam l?ve! Ez egy h?smodell, nem az én igazi valóm!}
-{773}{}{Akkor HÚZZON bele, Bishop!}
-{774}{}{Akkor HÚZZON bele, Bishop! Nincs id?m a kamu féltékenységi jelenetéhez, oké?}
-{775}{}{Mi lenne, ha most tennék egy szívességet az egész családnak, és kinyírnám magát?}
-{785}{}{Az asszonyom az ENYÉM. Bárki, aki hozzányúl az asszonyomhoz, szintén az ENYÉM. Választhatsz, vadember. Vagy bosszút állok, vagy elfogadod a munkát, és kvittek vagyunk.}
-{786}{}{Az asszonyom az ENYÉM. Bárki, aki megdugja az asszonyomat, szintén az ENYÉM. Választhatsz, vadember. Vagy bosszút állok, vagy elfogadod a munkát, és kvittek vagyunk.}
-{787}{}{A lányom az ENYÉM. Bárki, aki megdugja a lányomat, szintén az ENYÉM. Választhatsz, vadember. Vagy bosszút állok, vagy elfogadod a munkát, és kvittek vagyunk.}
-{788}{}{Álljon csak bosszút... próba cseresznye!}
+{761}{}{TalÃ¡n ha odafigyelt volna egy kicsit AngelÃ¡ra az id?k folyamÃ¡n, a lÃ¡ny most nem akarnÃ¡ folyton felhÃ­vni magÃ¡ra a figyelmet.}
+{762}{}{Meg lenne lep?dve, hogy azok a "pow-wow"-k mennyire feldobjÃ¡k a nejÃ©t. Nagyon Ãºgy t?nik, hogy a hÃ¶lgynek mÃ©g SOSEM volt rÃ©sze jÃ³ szexben.}
+{763}{}{Ez volt az UTOLSÃ“ tÃ¶rzsi poÃ©n egÃ©sz Ã©letedben. KÃ©szÃ¼lj a halÃ¡lra!}
+{770}{}{Mi? Szerinted egy hozzÃ¡d hasonlÃ³ kis szaros megbaszhatja a felesÃ©gemet a sajÃ¡t hÃ¡zamban, Ã©s mÃ©g nemet is mondhatsz, amikor szÃ­vessÃ©get kÃ©rek t?led?}
+{771}{}{Szerinted egy hozzÃ¡d hasonlÃ³ kis szaros megbaszhatja a felesÃ©gemet a sajÃ¡t hÃ¡zamban, Ã©s mÃ©g nemet is mondhatsz, amikor szÃ­vessÃ©get kÃ©rek t?led?}
+{772}{}{Semmi nem tÃ¶rtÃ©nt! EskÃ¼szÃ¶m! Nem Ã©rdekel, mit mondott a felesÃ©ge! RÃ©szeg voltam! Ã‰s be is voltam l?ve! Ez egy h?smodell, nem az Ã©n igazi valÃ³m!}
+{773}{}{Akkor HÃšZZON bele, Bishop!}
+{774}{}{Akkor HÃšZZON bele, Bishop! Nincs id?m a kamu fÃ©ltÃ©kenysÃ©gi jelenetÃ©hez, okÃ©?}
+{775}{}{Mi lenne, ha most tennÃ©k egy szÃ­vessÃ©get az egÃ©sz csalÃ¡dnak, Ã©s kinyÃ­rnÃ¡m magÃ¡t?}
+{785}{}{Az asszonyom az ENYÃ‰M. BÃ¡rki, aki hozzÃ¡nyÃºl az asszonyomhoz, szintÃ©n az ENYÃ‰M. VÃ¡laszthatsz, vadember. Vagy bosszÃºt Ã¡llok, vagy elfogadod a munkÃ¡t, Ã©s kvittek vagyunk.}
+{786}{}{Az asszonyom az ENYÃ‰M. BÃ¡rki, aki megdugja az asszonyomat, szintÃ©n az ENYÃ‰M. VÃ¡laszthatsz, vadember. Vagy bosszÃºt Ã¡llok, vagy elfogadod a munkÃ¡t, Ã©s kvittek vagyunk.}
+{787}{}{A lÃ¡nyom az ENYÃ‰M. BÃ¡rki, aki megdugja a lÃ¡nyomat, szintÃ©n az ENYÃ‰M. VÃ¡laszthatsz, vadember. Vagy bosszÃºt Ã¡llok, vagy elfogadod a munkÃ¡t, Ã©s kvittek vagyunk.}
+{788}{}{Ãlljon csak bosszÃºt... prÃ³ba cseresznye!}
 {789}{}{All right then. I'll do it...}
-{790}{}{NEM ÉR annyit a felesége...}
-{791}{}{NEM ÉR annyit a lánya...}
-{800}{}{Hé, miel?tt elmennél... Rá akarok nézni a fegyvereidre, vadember... eszembe juttat egy szóbeszédet, ami a közelmúltban kapott lábra.}
-{801}{}{Szóbeszédet?}
-{805}{}{Igen... a pusztában az a szóbeszéd járja, hogy egy hozzád hasonló egyén kiirtotta a Menedékvárostól délre tanyázó fosztogatókat. }
-{806}{}{Vele volt egy bazi nagy mutáns, akinek egy satut szereltek a vállára. }
-{807}{}{Vele volt egy robot, ami az agyát egy rekeszben hordta. }
-{808}{}{Vele volt egy ungabunga, akinek csont volt az orrában. }
-{809}{}{Van valami hozzáf?znivalód ehhez?}
+{790}{}{NEM Ã‰R annyit a felesÃ©ge...}
+{791}{}{NEM Ã‰R annyit a lÃ¡nya...}
+{800}{}{HÃ©, miel?tt elmennÃ©l... RÃ¡ akarok nÃ©zni a fegyvereidre, vadember... eszembe juttat egy szÃ³beszÃ©det, ami a kÃ¶zelmÃºltban kapott lÃ¡bra.}
+{801}{}{SzÃ³beszÃ©det?}
+{805}{}{Igen... a pusztÃ¡ban az a szÃ³beszÃ©d jÃ¡rja, hogy egy hozzÃ¡d hasonlÃ³ egyÃ©n kiirtotta a MenedÃ©kvÃ¡rostÃ³l dÃ©lre tanyÃ¡zÃ³ fosztogatÃ³kat. }
+{806}{}{Vele volt egy bazi nagy mutÃ¡ns, akinek egy satut szereltek a vÃ¡llÃ¡ra. }
+{807}{}{Vele volt egy robot, ami az agyÃ¡t egy rekeszben hordta. }
+{808}{}{Vele volt egy ungabunga, akinek csont volt az orrÃ¡ban. }
+{809}{}{Van valami hozzÃ¡f?znivalÃ³d ehhez?}
 {810}{}{Mit k? f?zni?}
-{811}{}{Ó én vótam az ÉN! ÉN! ÉN tenni!}
-{812}{}{Igen, én voltam.}
-{813}{}{Hogy mi hozzáf?znivalóm van? Semmi. Miért kérdi?}
-{814}{}{A sivatag nagy, a fosztogatók meg mindenütt ott vannak. Lehet, hogy téved.}
-{815}{}{A sivatag nagy, tele van csupa olyan karakter modellel, mint én. Lehet, hogy téved.}
-{820}{}{Hát akkor lehet, hogy valami tökös farokrágó vagy, aki egymagában nyírta ki az összes fickót. }
-{821}{}{Hát akkor lehet, hogy valami tökös ribanc vagy, aki egymagában nyírta ki az összes fickót. }
-{822}{}{Lehet, hogy NEM TETSZIK, amit ott m?veltél. LEHET, hogy esetleg a legjobb embereimet vesztettem el ott.}
-{823}{}{Lehet, hogyha megpróbál itt keménykedni, személyesen fog RÁJÖNNI, mi történt azokkal a fosztogatókkal.}
-{824}{}{Talán jobb lett volna, ha megfelel?bb kiképzést kapnak. Olyanok voltak, mint egy csapat lövöldöz? gekkó. Részeg gekkó egész pontosan...}
-{825}{}{Nem tudtam, hogy magának dolgoztak. Nem igazán akartak szóba állni velem.}
-{835}{}{Csakugyan? Szerintem te voltál ott, te tetted! }
-{836}{}{Ahogy elnézem, sokkal tartozol nekem, vadember. Ha vissza akarod fizetni ezt a tartozást, húsz ember munkáját kell elvégezned. }
-{837}{}{Akkor fogadd el a munkát... esetleg így... kvittek lehetünk.}
-{838}{}{Csak nem az én szemszögemb?l. Szerintem egy puskagolyó a fejébe elsimítja a tartozást.}
-{840}{}{Megtámadtak, Bishop. Nem tartozom magának semmivel, és nem akarom megcsinálni a maga piszkos munkáját. Megértette?}
-{900}{}{Leszállítottad Thomas Moore aktatáskáját.}
+{811}{}{Ã“ Ã©n vÃ³tam az Ã‰N! Ã‰N! Ã‰N tenni!}
+{812}{}{Igen, Ã©n voltam.}
+{813}{}{Hogy mi hozzÃ¡f?znivalÃ³m van? Semmi. MiÃ©rt kÃ©rdi?}
+{814}{}{A sivatag nagy, a fosztogatÃ³k meg mindenÃ¼tt ott vannak. Lehet, hogy tÃ©ved.}
+{815}{}{A sivatag nagy, tele van csupa olyan karakter modellel, mint Ã©n. Lehet, hogy tÃ©ved.}
+{820}{}{HÃ¡t akkor lehet, hogy valami tÃ¶kÃ¶s farokrÃ¡gÃ³ vagy, aki egymagÃ¡ban nyÃ­rta ki az Ã¶sszes fickÃ³t. }
+{821}{}{HÃ¡t akkor lehet, hogy valami tÃ¶kÃ¶s ribanc vagy, aki egymagÃ¡ban nyÃ­rta ki az Ã¶sszes fickÃ³t. }
+{822}{}{Lehet, hogy NEM TETSZIK, amit ott m?veltÃ©l. LEHET, hogy esetleg a legjobb embereimet vesztettem el ott.}
+{823}{}{Lehet, hogyha megprÃ³bÃ¡l itt kemÃ©nykedni, szemÃ©lyesen fog RÃJÃ–NNI, mi tÃ¶rtÃ©nt azokkal a fosztogatÃ³kkal.}
+{824}{}{TalÃ¡n jobb lett volna, ha megfelel?bb kikÃ©pzÃ©st kapnak. Olyanok voltak, mint egy csapat lÃ¶vÃ¶ldÃ¶z? gekkÃ³. RÃ©szeg gekkÃ³ egÃ©sz pontosan...}
+{825}{}{Nem tudtam, hogy magÃ¡nak dolgoztak. Nem igazÃ¡n akartak szÃ³ba Ã¡llni velem.}
+{835}{}{Csakugyan? Szerintem te voltÃ¡l ott, te tetted! }
+{836}{}{Ahogy elnÃ©zem, sokkal tartozol nekem, vadember. Ha vissza akarod fizetni ezt a tartozÃ¡st, hÃºsz ember munkÃ¡jÃ¡t kell elvÃ©gezned. }
+{837}{}{Akkor fogadd el a munkÃ¡t... esetleg Ã­gy... kvittek lehetÃ¼nk.}
+{838}{}{Csak nem az Ã©n szemszÃ¶gemb?l. Szerintem egy puskagolyÃ³ a fejÃ©be elsimÃ­tja a tartozÃ¡st.}
+{840}{}{MegtÃ¡madtak, Bishop. Nem tartozom magÃ¡nak semmivel, Ã©s nem akarom megcsinÃ¡lni a maga piszkos munkÃ¡jÃ¡t. MegÃ©rtette?}
+{900}{}{LeszÃ¡llÃ­tottad Thomas Moore aktatÃ¡skÃ¡jÃ¡t.}
 {925}{}{Meggyilkoltad Westint.}
-{950}{}{Eltetted Carlsont láb alól.}
-{975}{}{A Bishop család tagja lettél.}
+{950}{}{Eltetted Carlsont lÃ¡b alÃ³l.}
+{975}{}{A Bishop csalÃ¡d tagja lettÃ©l.}
 {1805}{}{Yeah... rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
 {1820}{}{Well, you must be one sly motherfucker to convince their guide to stop leading them through the mountains.
  And it could be I don't LIKE what you did down there.}

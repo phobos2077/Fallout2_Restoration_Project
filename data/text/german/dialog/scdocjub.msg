@@ -1,13 +1,13 @@
 {100}{}{Du siehst einen alten, freundlich dreinblickenden Mann.}
 {101}{}{Das ist Doktor Jubilee.}
-{102}{}{Er ist ein alter Mann mit schneeweißem Bart und einem leicht ausdruckslosen Blick.}
+{102}{}{Er ist ein alter Mann mit schneeweiÃŸem Bart und einem leicht ausdruckslosen Blick.}
 {103}{}{Ich bin Doktor Jubilee. Wo fehlt's denn, junger Mann?}
 {104}{}{Wo fehlt's denn, junger Mann?}
 {105}{}{Ich verletzt.}
 {106}{}{Ich brauch einen Arzt.}
-{107}{}{Kannst du nicht einfach ein paar Pillen rüberwerfen und mich mit diesem Gequatsche verschonen?}
+{107}{}{Kannst du nicht einfach ein paar Pillen rÃ¼berwerfen und mich mit diesem Gequatsche verschonen?}
 {108}{}{Zum Teufel, das blutet ja kaum.}
-{109}{}{Ich weiß nicht. Ich glaube nicht, dass da noch etwas zu retten ist. Möglicherweise müssen wir das Bein amputieren.}
+{109}{}{Ich weiÃŸ nicht. Ich glaube nicht, dass da noch etwas zu retten ist. MÃ¶glicherweise mÃ¼ssen wir das Bein amputieren.}
 {110}{}{Das soll wohl ein Witz sein.}
 {111}{}{Ha-ha.}
 {112}{}{Hier, Kleiner.}
@@ -19,68 +19,68 @@
 {118}{}{Hier bleib ich nicht.}
 {119}{}{Du machen besser.}
 {120}{}{Ich gehen jetzt.}
-{121}{}{Von wegen. Ich mach grundsätzlich keine Witze. Ich muss das Bein amputieren, bevor der Wundbrand einsetzt.}
-{122}{}{Das kommt überhaupt nicht in die Tüte, verstanden?}
-{123}{}{Das wär's. Ich gehe.}
-{124}{}{Dann mach mir keine Vorwürfe, wenn es dir abfault.}
-{125}{}{Du bist hier nicht bei der Wohlfahrt. Ohne Vorkasse läuft hier gar nichts.}
-{126}{}{Also, was kann ich für dich tun?}
-{127}{}{Schieß los.}
+{121}{}{Von wegen. Ich mach grundsÃ¤tzlich keine Witze. Ich muss das Bein amputieren, bevor der Wundbrand einsetzt.}
+{122}{}{Das kommt Ã¼berhaupt nicht in die TÃ¼te, verstanden?}
+{123}{}{Das wÃ¤r's. Ich gehe.}
+{124}{}{Dann mach mir keine VorwÃ¼rfe, wenn es dir abfault.}
+{125}{}{Du bist hier nicht bei der Wohlfahrt. Ohne Vorkasse lÃ¤uft hier gar nichts.}
+{126}{}{Also, was kann ich fÃ¼r dich tun?}
+{127}{}{SchieÃŸ los.}
 {128}{}{Vault 13?}
-{129}{}{Hast du eine Ahnung, wo man Vault 13 finden könnte?}
-{130}{}{Ich hab gehört, Mr. Westin geht's nicht allzu gut. Stimmt das? Ich mach mir Sorgen, dass ihm etwas zustoßen könnte. Er schuldet mir Geld.}
-{131}{}{Es gibt da diesen Typ, diesen Pökel. Der behauptet, du hast ihm eine Karte geklaut. Was hat es damit auf sich?}
-{132}{}{Ich suche Arbeit. Weißt du was für mich?}
-{133}{}{Du weißt nicht zufällig etwas von einer Gruppe, die gegen diese finsteren Sklavenhändler kämpft, Doktor?}
-{134}{}{Mach dir da mal keine Gedanken, mein Sohn. Sofern er sich nicht überanstrengt, überlebt er uns am Ende noch alle. Natürlich nur, wenn er sich an meinen ärztlichen Rat hält und seine Medikamente einnimmt.}
-{135}{}{Gut zu wissen. Da wäre noch was...}
+{129}{}{Hast du eine Ahnung, wo man Vault 13 finden kÃ¶nnte?}
+{130}{}{Ich hab gehÃ¶rt, Mr. Westin geht's nicht allzu gut. Stimmt das? Ich mach mir Sorgen, dass ihm etwas zustoÃŸen kÃ¶nnte. Er schuldet mir Geld.}
+{131}{}{Es gibt da diesen Typ, diesen PÃ¶kel. Der behauptet, du hast ihm eine Karte geklaut. Was hat es damit auf sich?}
+{132}{}{Ich suche Arbeit. WeiÃŸt du was fÃ¼r mich?}
+{133}{}{Du weiÃŸt nicht zufÃ¤llig etwas von einer Gruppe, die gegen diese finsteren SklavenhÃ¤ndler kÃ¤mpft, Doktor?}
+{134}{}{Mach dir da mal keine Gedanken, mein Sohn. Sofern er sich nicht Ã¼beranstrengt, Ã¼berlebt er uns am Ende noch alle. NatÃ¼rlich nur, wenn er sich an meinen Ã¤rztlichen Rat hÃ¤lt und seine Medikamente einnimmt.}
+{135}{}{Gut zu wissen. Da wÃ¤re noch was...}
 {136}{}{Danke, Doktor.}
-{137}{}{Dieser alte Trunkenbold! Das einzige, was ich je von ihm bekommen habe, ist dieses Gemälde "Velvet Elvii" - statt Bargeld.}
+{137}{}{Dieser alte Trunkenbold! Das einzige, was ich je von ihm bekommen habe, ist dieses GemÃ¤lde "Velvet Elvii" - statt Bargeld.}
 {138}{}{Einen Velvet Elvii? Kann ich das Bild mal sehen?}
-{139}{}{Kann man wohl nicht gerade als Karte bezeichnen, oder? Aber ich würde dich gern noch ein paar andere Sachen fragen.}
+{139}{}{Kann man wohl nicht gerade als Karte bezeichnen, oder? Aber ich wÃ¼rde dich gern noch ein paar andere Sachen fragen.}
 {140}{}{Also, ich muss dann mal weiter.}
-{141}{}{Das letzte Mal habe ich davon gehört, als sie mir damals Pökel hier reinschleppten. Sonnenstich. Hatte drei Tage lang zwoundvierzig Fieber und schwafelte die ganze Zeit, dass er Vault 13 gefunden hatte, seine Hauptader.}
+{141}{}{Das letzte Mal habe ich davon gehÃ¶rt, als sie mir damals PÃ¶kel hier reinschleppten. Sonnenstich. Hatte drei Tage lang zwoundvierzig Fieber und schwafelte die ganze Zeit, dass er Vault 13 gefunden hatte, seine Hauptader.}
 {142}{}{Hauptader?}
 {143}{}{Und, wo ist sie?}
 {144}{}{Wo Vault?}
-{145}{}{Das kann ich dir auch nicht sagen. Pökel behauptet immer, er hätte eine Karte, aber die hat noch nie jemand gesehen.}
-{146}{}{Pökel?}
+{145}{}{Das kann ich dir auch nicht sagen. PÃ¶kel behauptet immer, er hÃ¤tte eine Karte, aber die hat noch nie jemand gesehen.}
+{146}{}{PÃ¶kel?}
 {147}{}{Mehr Fragen.}
 {148}{}{Immerhin. Besser als nichts.}
-{149}{}{Das ganz große Ding. Pökel hat lange Zeit nach Uran gesucht. Ein Trinker. Jetzt wohnt er draußen auf Westins Ranch.}
+{149}{}{Das ganz groÃŸe Ding. PÃ¶kel hat lange Zeit nach Uran gesucht. Ein Trinker. Jetzt wohnt er drauÃŸen auf Westins Ranch.}
 {150}{}{Noch eine Frage...}
-{151}{}{Danke für die Geschichte.}
-{152}{}{Also, eigentlich wollte ich schon was dafür haben. Ich trenne mich davon für... $}
-{153}{}{Später vielleicht. Noch eine Frage...}
-{154}{}{Später vielleicht. Ich muss jetzt.}
-{155}{}{Pökel hat lange Zeit nach Uran gesucht. Jetzt wohnt er draußen auf Westins Ranch.}
+{151}{}{Danke fÃ¼r die Geschichte.}
+{152}{}{Also, eigentlich wollte ich schon was dafÃ¼r haben. Ich trenne mich davon fÃ¼r... $}
+{153}{}{SpÃ¤ter vielleicht. Noch eine Frage...}
+{154}{}{SpÃ¤ter vielleicht. Ich muss jetzt.}
+{155}{}{PÃ¶kel hat lange Zeit nach Uran gesucht. Jetzt wohnt er drauÃŸen auf Westins Ranch.}
 {156}{}{Noch eine Frage...}
-{157}{}{Danke für die Geschichte.}
-{158}{}{Am besten gehst du zu Präsidentin Tandi. Ich hab gehört, sie ist auf der Suche nach jemand ganz Besonderem.}
+{157}{}{Danke fÃ¼r die Geschichte.}
+{158}{}{Am besten gehst du zu PrÃ¤sidentin Tandi. Ich hab gehÃ¶rt, sie ist auf der Suche nach jemand ganz Besonderem.}
 {159}{}{Noch eine Frage...}
 {160}{}{Danke.}
-{161}{}{Schon möglich... Es gibt da so eine Gruppe, die gegen die Sklaverei und, nun ja, so ziemlich alle anderen Übel kämpft. Du triffst sie drüben bei der großen Werkstatt an, wo sie die meisten Zeit an Autos rumschrauben.}
+{161}{}{Schon mÃ¶glich... Es gibt da so eine Gruppe, die gegen die Sklaverei und, nun ja, so ziemlich alle anderen Ãœbel kÃ¤mpft. Du triffst sie drÃ¼ben bei der groÃŸen Werkstatt an, wo sie die meisten Zeit an Autos rumschrauben.}
 {162}{}{Noch eine Frage...}
 {163}{}{Danke.}
 {164}{}{Lass deine Finger da weg, du Idiot!}
 {165}{}{Vorsicht! Schon eine winzige Menge davon kann eine unberechenbare Wirkung haben.}
-{166}{}{Stell das zurück! Das Zeug kann ziemlich gefährlich werden.}
-{167}{}{Diese Medikamente sind für Mr. Westin, nicht für dich. Tu sie wieder dahin, wo du sie herhast.}
-{168}{}{Rühr das nicht an. Man muss da sehr vorsichtig sein, verstehst du. Ich will nicht, dass Mr. Westin die falschen Medikamente bekommt.}
+{166}{}{Stell das zurÃ¼ck! Das Zeug kann ziemlich gefÃ¤hrlich werden.}
+{167}{}{Diese Medikamente sind fÃ¼r Mr. Westin, nicht fÃ¼r dich. Tu sie wieder dahin, wo du sie herhast.}
+{168}{}{RÃ¼hr das nicht an. Man muss da sehr vorsichtig sein, verstehst du. Ich will nicht, dass Mr. Westin die falschen Medikamente bekommt.}
 {169}{}{Pass auf! Ich habe eben erst Mr. Westins Dosis bemessen.}
 {170}{}{Ich bin Doktor Jubilee. Wo fehlt's denn, junge Frau?}
 {171}{}{Was fehlt dir, junge Frau?}
-{172}{}{Hier, Fräulein.}
-{173}{}{Mach dir da mal keine Gedanken, Frolleinchen. Sofern er sich nicht überanstrengt, überlebt er uns am Ende noch alle. Natürlich nur, wenn er sich an meinen ärztlichen Rat hält und seine Medikamente einnimmt.}
+{172}{}{Hier, FrÃ¤ulein.}
+{173}{}{Mach dir da mal keine Gedanken, Frolleinchen. Sofern er sich nicht Ã¼beranstrengt, Ã¼berlebt er uns am Ende noch alle. NatÃ¼rlich nur, wenn er sich an meinen Ã¤rztlichen Rat hÃ¤lt und seine Medikamente einnimmt.}
 {174}{}{Klar. Hier sind die $}
-{175}{}{Danke, ich hab versucht, das Geld von Pökel zu kriegen, aber dieser Penner hatte nie welches.}
+{175}{}{Danke, ich hab versucht, das Geld von PÃ¶kel zu kriegen, aber dieser Penner hatte nie welches.}
 {176}{}{.}
 {200}{}{Whoa, }
 {201}{}{son! }
-{202}{}{Mädel! }
+{202}{}{MÃ¤del! }
 {203}{}{You can't be messing with that stuff! I just measured out Mr. Westin's dose and we wouldn't want him getting the wrong meds now. What in blazes do you think you're doing?}
 {204}{}{I was just trying to get a look at those pills you have on the shelf there.}
-{205}{}{Oh, stört mich nicht. Ich hab mich nur umgesehen.}
+{205}{}{Oh, stÃ¶rt mich nicht. Ich hab mich nur umgesehen.}
 {206}{}{Sorry. I've just always had this irresistible compulsion to dig around in other people's stuff that I've never been able to shake.}
 {207}{}{Honestly? Not expecting you to be that observant. I guess I'm going to have to improvise.}
 {210}{}{Were you, now? (Doc Jubilee regards you coolly.) I'd guess you were a mite young to be suffering from a bum ticker.}
@@ -88,7 +88,7 @@
 {212}{}{And I'd wish you were right. I got it from my pa. Or so they tell me.}
 {213}{}{Oh, nothing like that. I'm just overbearingly inquisitive, I guess.}
 {220}{}{Well, you can't. This is a private practice, not a drugstore. You might want to try Duppo's, a tetch north of here.}
-{221}{}{Klingt nach genau dem, wonach ich suche. Tschüss.}
+{221}{}{Klingt nach genau dem, wonach ich suche. TschÃ¼ss.}
 {222}{}{I'll check 'em out. In the meantime, though, do you mind if I ask you a few things?}
 {223}{}{No, I think I came to the right place. I can see you're doing good work here. I thought I might offer a donation.}
 {230}{}{(The doctor blinks. He blinks again.) You should probably talk to somebody about that. Unfortunately,
@@ -109,7 +109,7 @@
 {250}{}{I feel for you, friend, but I'm afraid those pills are for Councilman Westin, and I ain't taking on any new patients right now so I wouldn't be able to write you up a script. Now please, don't go messing around on that shelf anymore. Those prescriptions get mixed up, someone could wind up in a pretty bad way.}
 {260}{}{Lassen Sie uns hier klar sein, }
 {261}{}{Mister, }
-{262}{}{Mädel. }
+{262}{}{MÃ¤del. }
 {263}{}{Was genau meinst du mit "Spende"?}
 {264}{}{A charitable contribution, in furtherance of your service to the public, say... $150? You can count it out in the back room. Should only take a minute, right?}
 {265}{}{Uh, actually, I think I'd better check with my accountant before I do anything rash. See you later, doc.}
@@ -139,8 +139,8 @@
 {303}{}{so listen close: I am a doctor of the NCR. It's a solemn duty, and it came with a solemn oath. You ask me one more time to piss on that oath, the ONLY part of it that's going out the window is "first, do no harm." You got me?}
 {304}{}{Alright, screw it. If you're as great as you seem to think you are, maybe you'll be able to sew yourself back together after this.}
 {305}{}{Bleib mal ruhig. Ich wollt dir nicht zu nahe treten, Doc. Ich werde dich erstmal ne Weile in Ruh lassen.}
-{310}{}{Sagen Sie, Doc, ich habe mich über die Herzpillen gewundert, die Sie dort oben im Regal haben.}
-{311}{}{Bist du sicher, dass dir nicht nochmal überkegen kannst, mir einige dieser Pillen zu verkaufen?}
+{310}{}{Sagen Sie, Doc, ich habe mich Ã¼ber die Herzpillen gewundert, die Sie dort oben im Regal haben.}
+{311}{}{Bist du sicher, dass dir nicht nochmal Ã¼berkegen kannst, mir einige dieser Pillen zu verkaufen?}
 {320}{}{Sorry, Councilman Westin's people are due by to pick those up in }
 {321}{}{ Tag(e), }
 {322}{}{ Tag, }

@@ -9,11 +9,11 @@
 {108}{}{No, genio, vivo qui da una vita e tu non mi hai mai notato.}
 {109}{}{Ho sentito che avete qualche problema con la miniera.}
 {110}{}{Cosa puoi dirmi di questo posto?}
-{111}{}{Ummm… ceeeeerto. Senti qua. Eccoti due dollari. Vai al saloon e comprati qualcosa da bere.}
+{111}{}{Ummmâ€¦ ceeeeerto. Senti qua. Eccoti due dollari. Vai al saloon e comprati qualcosa da bere.}
 {112}{}{Yagga? Ogg? Gronk!}
 {113}{}{Non riesco a capire quello che dici, amico. Perche' non te ne vai al saloon? Diavolo, forse Francis ti sfidera' a bracciodiferro.}
 {114}{}{Farro? O-KAY!}
-{115}{}{Okay... Beh, io sono Zaius. Adesso che ci siamo presentati… Come te la cavi con i lavori manuali? Abbiamo un problema con il nostro purificatore d'aria nel livello inferiore della miniera, ma non abbiamo ne' i pezzi di ricambio per ripararlo ne' l'equipaggiamento necessario per proteggerci dall'aumentata concentrazione di gas radon.}
+{115}{}{Okay... Beh, io sono Zaius. Adesso che ci siamo presentatiâ€¦ Come te la cavi con i lavori manuali? Abbiamo un problema con il nostro purificatore d'aria nel livello inferiore della miniera, ma non abbiamo ne' i pezzi di ricambio per ripararlo ne' l'equipaggiamento necessario per proteggerci dall'aumentata concentrazione di gas radon.}
 {116}{}{Non sono molto bravo. Mi spiace.}
 {117}{}{Me la cavo. Cosa devo fare?}
 {118}{}{Beh, spero che il tuo soggiorno a Broken Hills sia piacevole.}
@@ -30,9 +30,9 @@
 {129}{}{Ork! Ooo! Ug ug!}
 {130}{}{Hi! HIIIII! Me (name)!}
 {131}{}{Amico, ti ho gia' dato dei soldi. Va' a disturbare qualcun altro, eh?}
-{132}{}{Chi si rivede. Perche' non provi ad andare… umm… alla banca, giu' in citta'? Sono sicuro che c'e' un sacco di gente che non vede l'ora di parlare con te.}
+{132}{}{Chi si rivede. Perche' non provi ad andareâ€¦ ummâ€¦ alla banca, giu' in citta'? Sono sicuro che c'e' un sacco di gente che non vede l'ora di parlare con te.}
 {133}{}{Beh, se mai ti dovesse venire in mente una soluzione, fammelo sapere.}
-{134}{}{Davvero? Mi faresti questo favore… e, soprattutto, lo faresti per Broken Hills?}
+{134}{}{Davvero? Mi faresti questo favoreâ€¦ e, soprattutto, lo faresti per Broken Hills?}
 {135}{}{Io cosa ne ricavo?}
 {136}{}{Certo, lo faro'.}
 {137}{}{Non adesso.}
@@ -65,7 +65,7 @@
 {164}{}{Ehila'.}
 {165}{}{Lo sapevo che quei bastardi di Franc, Manson, Jacob e Aileen stavano tramando alle nostre spalle. Ben fatto! Allora... }
 {166}{}{Spero che tu abbia preso una decisione, riguardo al restituire l'uranio alla citta'... allora... }
-{167}{}{Ah, grazie mille per aver venduto l'uranio. D'altro canto, noi non sapremmo proprio cosa farcene... Allora… }
+{167}{}{Ah, grazie mille per aver venduto l'uranio. D'altro canto, noi non sapremmo proprio cosa farcene... Alloraâ€¦ }
 {168}{}{Grazie mille per aver riconsegnato quell'uranio. Non hai idea di quanto lavoriamo duro per estrarre quella roba. }
 {169}{}{Allora, cosa vuoi?}
 {170}{}{Puoi dirmi qualcosa sulla citta'?}
@@ -77,21 +77,21 @@
 {176}{}{Certo, lo faro'.}
 {177}{}{Non adesso.}
 {178}{}{No.}
-{179}{}{Come va? Spero che tu riesca a risolvere in fretta il problema…}
+{179}{}{Come va? Spero che tu riesca a risolvere in fretta il problemaâ€¦}
 {180}{}{Tutto procede a meraviglia.}
 {181}{}{Sono una persona molto occupata. Non ho ancora avuto il tempo di farlo.}
 {182}{}{A breve dovrei essere in grado di farti sapere qualcosa.}
-{183}{}{Ti sei procurato i pezzi di ricambio? Magnifico… Spero che tu abbia anche qualcosa per proteggerti dal gas. Il radon puo' essere letale.}
+{183}{}{Ti sei procurato i pezzi di ricambio? Magnificoâ€¦ Spero che tu abbia anche qualcosa per proteggerti dal gas. Il radon puo' essere letale.}
 {184}{}{Sono pronto.}
 {185}{}{Andro' tra un attimo.}
-{186}{}{Ti sei procurato i pezzi di ricambio? Magnifico… Spero che tu abbia anche qualcosa per proteggerti dal gas. Il radon puo' essere letale.}
+{186}{}{Ti sei procurato i pezzi di ricambio? Magnificoâ€¦ Spero che tu abbia anche qualcosa per proteggerti dal gas. Il radon puo' essere letale.}
 {187}{}{Sono pronto.}
 {188}{}{Andro' tra un attimo.}
 {189}{}{L'hai riparato? Splendido! Ascolta, so che l'hai fatto senza volere nulla in cambio, ma... non avrei dovuto permetterlo. Percio' io e i ragazzi abbiamo fatto una colletta e ti abbiamo preso questo. E' un fucile a pompa. Buona fortuna. E grazie.}
 {190}{}{Non c'e' di che. Grazie a voi!}
 {191}{}{L'hai riparato? Splendido! Come d'accordo, ecco il resto della somma pattuita. Grazie ancora.}
 {192}{}{Bastardo. Adesso morirai.}
-{193}{}{Bene, bene. Ti prego di fare in fretta, pero'… la nostra citta' ha bisogno di quello che estraiamo da li'.}
+{193}{}{Bene, bene. Ti prego di fare in fretta, pero'â€¦ la nostra citta' ha bisogno di quello che estraiamo da li'.}
 {194}{}{Certo. Ci vediamo.}
 {195}{}{Non dirmi quello che devo fare. Sono molto occupato. Stronzo.}
 {196}{}{Beh, mi dispiace, Vostra Maesta', ma credo che la sopravvivenza della citta' sia leggermente piu' importante. Ti vuoi sbrigare, o no?}

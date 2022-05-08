@@ -1,76 +1,76 @@
-{100}{}{A falu egyik férfi harcosát látod.}
-{101}{}{A falu egyik n?i harcosát látod.}
-{150}{}{A falu egyik nagy harcosa áll el?tted. Állatb?rb?l készült nadrágot visel.}
-{151}{}{[Beszélgetés]}
-{152}{}{Üdvözöllek, Kiválasztott, segíthetek a küldetésedben?}
-{153}{}{Miel?tt elmennék, utoljára körülnézek a faluban.}
-{154}{}{Mit tudnál mondani a velünk üzletel? keresked?kr?l?}
-{155}{}{Meg tudnád mondani, hol találhatok még gyógyító port??}
-{156}{}{Az istenek majd sebes lépteket adnak, hogy hamarabb visszatérhess.}
-{157}{}{Lenne hozzád egy kérdésem.}
-{158}{}{Viszlát, barátom!}
+{100}{}{A falu egyik fÃ©rfi harcosÃ¡t lÃ¡tod.}
+{101}{}{A falu egyik n?i harcosÃ¡t lÃ¡tod.}
+{150}{}{A falu egyik nagy harcosa Ã¡ll el?tted. Ãllatb?rb?l kÃ©szÃ¼lt nadrÃ¡got visel.}
+{151}{}{[BeszÃ©lgetÃ©s]}
+{152}{}{ÃœdvÃ¶zÃ¶llek, KivÃ¡lasztott, segÃ­thetek a kÃ¼ldetÃ©sedben?}
+{153}{}{Miel?tt elmennÃ©k, utoljÃ¡ra kÃ¶rÃ¼lnÃ©zek a faluban.}
+{154}{}{Mit tudnÃ¡l mondani a velÃ¼nk Ã¼zletel? keresked?kr?l?}
+{155}{}{Meg tudnÃ¡d mondani, hol talÃ¡lhatok mÃ©g gyÃ³gyÃ­tÃ³ port??}
+{156}{}{Az istenek majd sebes lÃ©pteket adnak, hogy hamarabb visszatÃ©rhess.}
+{157}{}{Lenne hozzÃ¡d egy kÃ©rdÃ©sem.}
+{158}{}{ViszlÃ¡t, barÃ¡tom!}
 {159}{}{Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our
  medicines.}
-{160}{}{Köszönöm. Minden jót!}
+{160}{}{KÃ¶szÃ¶nÃ¶m. Minden jÃ³t!}
 {161}{}{Well, I've seen them when Mynoc has us guard the bridge, but he does all the dealing.
  Talk to him at the Great Bridge.}
-{162}{}{Köszönöm. Minden jót!}
+{162}{}{KÃ¶szÃ¶nÃ¶m. Minden jÃ³t!}
 {163}{}{Could tell me where the Great Bridge is located?}
-{164}{}{Még egy kérdést, ha lehetne.}
+{164}{}{MÃ©g egy kÃ©rdÃ©st, ha lehetne.}
 {165}{}{Chosen One? The Great Bridge is at the southern end of the village. You know,
  you've been there many times.}
-{166}{}{Köszönöm. Minden jót!}
-{167}{}{Még egy kérdést, ha lehetne.}
+{166}{}{KÃ¶szÃ¶nÃ¶m. Minden jÃ³t!}
+{167}{}{MÃ©g egy kÃ©rdÃ©st, ha lehetne.}
 {168}{}{Mi lenne az?}
-{169}{}{Meg tudnád mondani, merre találhatok gyógynövényeket?}
-{170}{}{Mit tudnál mondani a velünk üzletel? keresked?kr?l?}
-{171}{}{Értem.}
-{172}{}{Azt mondják, te vagy a Kiválasztott. Az Alapító bizony nagyot tévedett, amiért rád esett a választása.}
+{169}{}{Meg tudnÃ¡d mondani, merre talÃ¡lhatok gyÃ³gynÃ¶vÃ©nyeket?}
+{170}{}{Mit tudnÃ¡l mondani a velÃ¼nk Ã¼zletel? keresked?kr?l?}
+{171}{}{Ã‰rtem.}
+{172}{}{Azt mondjÃ¡k, te vagy a KivÃ¡lasztott. Az AlapÃ­tÃ³ bizony nagyot tÃ©vedett, amiÃ©rt rÃ¡d esett a vÃ¡lasztÃ¡sa.}
 {173}{}{Ja.}
 {174}{}{Kellemes utat... de csak miattunk.}
 {175}{}{????}
 {176}{}{You betray us. You must die.}
-{177}{}{Elárultad a saját népedet!}
-{178}{}{Miért teszed ezt?}
-{179}{}{Halál a gonoszra!}
-{180}{}{?k nem jelentenek számunkra semmit! A puszták dögev?i.}
-{181}{}{Meg tudnád mondani, merre találhatok gyógynövényeket?}
-{182}{}{Köszönöm. Minden jót!}
-{183}{}{Még egy kérdést, ha lehetne.}
-{300}{}{Üdvözöllek, Kiválasztott. Talán a harcos szellemek vezérelnek és megvédenek majd.}
+{177}{}{ElÃ¡rultad a sajÃ¡t nÃ©pedet!}
+{178}{}{MiÃ©rt teszed ezt?}
+{179}{}{HalÃ¡l a gonoszra!}
+{180}{}{?k nem jelentenek szÃ¡munkra semmit! A pusztÃ¡k dÃ¶gev?i.}
+{181}{}{Meg tudnÃ¡d mondani, merre talÃ¡lhatok gyÃ³gynÃ¶vÃ©nyeket?}
+{182}{}{KÃ¶szÃ¶nÃ¶m. Minden jÃ³t!}
+{183}{}{MÃ©g egy kÃ©rdÃ©st, ha lehetne.}
+{300}{}{ÃœdvÃ¶zÃ¶llek, KivÃ¡lasztott. TalÃ¡n a harcos szellemek vezÃ©relnek Ã©s megvÃ©denek majd.}
 {301}{}{Are you having difficulties, Chosen One? You must not fail us - please hurry.}
-{302}{}{Miért vársz olyan sokáig? Gyorsan meg kell szerezned az ÉLET-et, a falu egyre csak pusztul!}
-{303}{}{Kiválasztott, a falunk már csaknem odalett. Miért nem hozod már a szent ÉLET-et?}
+{302}{}{MiÃ©rt vÃ¡rsz olyan sokÃ¡ig? Gyorsan meg kell szerezned az Ã‰LET-et, a falu egyre csak pusztul!}
+{303}{}{KivÃ¡lasztott, a falunk mÃ¡r csaknem odalett. MiÃ©rt nem hozod mÃ¡r a szent Ã‰LET-et?}
 {970}{}{That is my name.}
 {971}{}{You are talking to me.}
 {972}{}{What a silly question. That's me.}
-{980}{}{Arról semmit se tudok.}
+{980}{}{ArrÃ³l semmit se tudok.}
 {981}{}{Sorry. No clue.}
 {982}{}{Never heard of it.}
-{1000}{}{Törzsf?}
-{1001}{}{Alapító}
-{1002}{}{Menedéklakó}
+{1000}{}{TÃ¶rzsf?}
+{1001}{}{AlapÃ­tÃ³}
+{1002}{}{MenedÃ©klakÃ³}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Menedék}
-{1006}{}{Kiválasztott}
-{1007}{}{Sámán}
+{1005}{}{MenedÃ©k}
+{1006}{}{KivÃ¡lasztott}
+{1007}{}{SÃ¡mÃ¡n}
 {1008}{}{Hakunin}
-{1009}{}{Gyógyító por}
-{1010}{}{Híd}
+{1009}{}{GyÃ³gyÃ­tÃ³ por}
+{1010}{}{HÃ­d}
 {1011}{}{Mynoc}
-{1100}{}{A törzsf? a te édesanyád és a vezet?nk.}
-{1101}{}{? a mi nagyszer? ?sünk, neki köszönhetjük a tudást.}
-{1102}{}{? volt az, aki el?ször küzdött meg sikeresen a káosszal.}
-{1103}{}{Ez a mi szépséges falunk.}
-{1104}{}{Kereskedelmi csomópont néhány napi járóföldre keleti irányban.}
-{1105}{}{A Menedék maga a mennyország.}
-{1106}{}{TE vagy a Kiválasztott.}
+{1100}{}{A tÃ¶rzsf? a te Ã©desanyÃ¡d Ã©s a vezet?nk.}
+{1101}{}{? a mi nagyszer? ?sÃ¼nk, neki kÃ¶szÃ¶nhetjÃ¼k a tudÃ¡st.}
+{1102}{}{? volt az, aki el?szÃ¶r kÃ¼zdÃ¶tt meg sikeresen a kÃ¡osszal.}
+{1103}{}{Ez a mi szÃ©psÃ©ges falunk.}
+{1104}{}{Kereskedelmi csomÃ³pont nÃ©hÃ¡ny napi jÃ¡rÃ³fÃ¶ldre keleti irÃ¡nyban.}
+{1105}{}{A MenedÃ©k maga a mennyorszÃ¡g.}
+{1106}{}{TE vagy a KivÃ¡lasztott.}
 {1107}{}{He heals us with his herbs and magic. He is in the northern
  part of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the northern
  part of our village.}
 {1109}{}{It is a magic powder which will heal you, but will make
  you sleepy.}
-{1110}{}{A Nagy Híd dél felé van a falunktól.}
+{1110}{}{A Nagy HÃ­d dÃ©l felÃ© van a falunktÃ³l.}
 {1111}{}{He guards the bridge leading into our village.}

@@ -2,10 +2,10 @@
 {101}{}{Tu vois un garde.}
 {102}{}{Il semble attendre que quelque chose se passe.}
 {103}{}{Allez, circulez.}
-{104}{}{Sois sympa avec M.Buster comme Áa on ne gaspillera pas de cartouches.}
-{105}{}{Je suis ici pour botter des culs et m‚cher du chewing gum. Et heureusement pour toi, il me reste un b‚ton.}
-{106}{}{Que regardes-tu comme Áa ?}
-{107}{}{Je ne suis pas l‡ pour Áa. Fais attention ‡ ne pas trop t'approcher de moi.}
+{104}{}{Sois sympa avec M.Buster comme √ßa on ne gaspillera pas de cartouches.}
+{105}{}{Je suis ici pour botter des culs et m√¢cher du chewing gum. Et heureusement pour toi, il me reste un b√¢ton.}
+{106}{}{Que regardes-tu comme √ßa ?}
+{107}{}{Je ne suis pas l√† pour √ßa. Fais attention √† ne pas trop t'approcher de moi.}
 {108}{}{Pourquoi on ne se boirait pas un petit verre ensemble plus tard ?}
-{109}{}{Mon chou, dis-toi bien que je prÈfÈrerais coucher avec une Brahmine plutÙt que de voir ta sale face.}
-{110}{}{AchËte quelque chose et tire-toi.}
+{109}{}{Mon chou, dis-toi bien que je pr√©f√©rerais coucher avec une Brahmine plut√¥t que de voir ta sale face.}
+{110}{}{Ach√®te quelque chose et tire-toi.}

@@ -1,7 +1,7 @@
-{100}{}{Le cercueil contient le corps d'un vieil homme. Sa gorge a été tranchée. Il n'y a rien sur son corps.}
-{101}{}{Le corps de Pritchard est allongé dans un cercueil en bois épais, il semble qu'on lui ait tranché la gorge.}
-{150}{}{En fouillant le corps de Pritchard, tu retires ses bottes et tu remarques que l'un des talons est un peu lâche. Tu le détaches et, à l'intérieur, tu trouves une carte froissée qui mène à quelque chose appelé « EMS ». Tu entres la carte sur ton Pip-Boy.}
-{200}{}{Sur la pierre tombale est inscrit : « Ci-gît Sam Pritchard. Il parlait trop, alors on lui a fait une deuxième bouche. »}
-{250}{}{Tu as trouvé la tombe de Pritchard... et la carte qui mène à l'entrepôt militaire de Sierra.}
-{255}{}{<Hummm> Je pense avoir trouvé un indice.}
+{100}{}{Le cercueil contient le corps d'un vieil homme. Sa gorge a Ã©tÃ© tranchÃ©e. Il n'y a rien sur son corps.}
+{101}{}{Le corps de Pritchard est allongÃ© dans un cercueil en bois Ã©pais, il semble qu'on lui ait tranchÃ© la gorge.}
+{150}{}{En fouillant le corps de Pritchard, tu retires ses bottes et tu remarques que l'un des talons est un peu lÃ¢che. Tu le dÃ©taches et, Ã  l'intÃ©rieur, tu trouves une carte froissÃ©e qui mÃ¨ne Ã  quelque chose appelÃ© Â« EMS Â». Tu entres la carte sur ton Pip-Boy.}
+{200}{}{Sur la pierre tombale est inscrit : Â« Ci-gÃ®t Sam Pritchard. Il parlait trop, alors on lui a fait une deuxiÃ¨me bouche. Â»}
+{250}{}{Tu as trouvÃ© la tombe de Pritchard... et la carte qui mÃ¨ne Ã  l'entrepÃ´t militaire de Sierra.}
+{255}{}{<Hummm> Je pense avoir trouvÃ© un indice.}
 {256}{}{<Hummm> Besoiiiin de papier pour continueeer.}

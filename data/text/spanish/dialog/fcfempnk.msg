@@ -1,94 +1,94 @@
-{100}{}{Ves a una vándala.}
-{101}{}{Ves a una vándala.}
+{100}{}{Ves a una vÃ¡ndala.}
+{101}{}{Ves a una vÃ¡ndala.}
 {102}{}{Ves a una joven bastante bonita pero de apariencia desaprensiva.}
-{103}{}{Apuesto a que mi novio me ofreció para compartirme.}
+{103}{}{Apuesto a que mi novio me ofreciÃ³ para compartirme.}
 {104}{}{A veces me harta viajar.}
-{105}{}{Seguro que sería agradable vivir aquí.}
-{106}{}{Apuesto a que podríamos montar un buen escándalo.}
-{107}{}{¿Has ido al oeste cruzando el mar alguna vez?}
-{108}{}{Flirtearía contigo, pero es que no estoy interesada.}
-{109}{}{::con sarcasmo:: Seguro que hay un montón de mujeres fuertes por aquí, ¿eh?}
-{110}{}{¿Esperas que caiga rendida a tus pies? Despierta.}
-{111}{}{¡Soy único! ¡Igual que los demás!}
+{105}{}{Seguro que serÃ­a agradable vivir aquÃ­.}
+{106}{}{Apuesto a que podrÃ­amos montar un buen escÃ¡ndalo.}
+{107}{}{Â¿Has ido al oeste cruzando el mar alguna vez?}
+{108}{}{FlirtearÃ­a contigo, pero es que no estoy interesada.}
+{109}{}{::con sarcasmo:: Seguro que hay un montÃ³n de mujeres fuertes por aquÃ­, Â¿eh?}
+{110}{}{Â¿Esperas que caiga rendida a tus pies? Despierta.}
+{111}{}{Â¡Soy Ãºnico! Â¡Igual que los demÃ¡s!}
 {112}{}{A veces el hastiado cinismo del mundo me aburre.}
-{113}{}{La próxima vez, quiero encontrarme con una tribu de góticos.}
-{114}{}{He oído que el Emperador Shi es inhumanamente inteligente.}
+{113}{}{La prÃ³xima vez, quiero encontrarme con una tribu de gÃ³ticos.}
+{114}{}{He oÃ­do que el Emperador Shi es inhumanamente inteligente.}
 {115}{}{Esos Shi tienen una pinta muy graciosa, la verdad.}
-{116}{}{Soy de mente abierta, ¿eh?}
+{116}{}{Soy de mente abierta, Â¿eh?}
 {117}{}{Mira a todos esos nuevos vagabundos. Imitadores.}
-{118}{}{AHS-9 nos engañó y también te engañará a ti si se lo permites.}
-{119}{}{Al próximo imbécil que me llame "zorra" lo dejo frito.}
-{120}{}{¿Entonces cómo fue con un mutante?}
-{121}{}{¿Te hizo daño ese muti grandullón de Francis?}
-{122}{}{Me sorprende que puedas caminar después de lo que hizo Francis.}
-{123}{}{Imagino que aún seguirás sangrando después de lo de Francis.}
+{118}{}{AHS-9 nos engaÃ±Ã³ y tambiÃ©n te engaÃ±arÃ¡ a ti si se lo permites.}
+{119}{}{Al prÃ³ximo imbÃ©cil que me llame "zorra" lo dejo frito.}
+{120}{}{Â¿Entonces cÃ³mo fue con un mutante?}
+{121}{}{Â¿Te hizo daÃ±o ese muti grandullÃ³n de Francis?}
+{122}{}{Me sorprende que puedas caminar despuÃ©s de lo que hizo Francis.}
+{123}{}{Imagino que aÃºn seguirÃ¡s sangrando despuÃ©s de lo de Francis.}
 {124}{}{No puedo creer que fueras incapaz de ayudar a Chip.}
-{125}{}{Bastardo egoísta. Apostaría a que Chip tu hubiera ayudado.}
-{126}{}{A todo el mundo le gustaba Chip. Tú no le gustas a nadie.}
-{127}{}{Eres un pedazo de gilipollas, ¿verdad?}
-{128}{}{¿Alguna vez piensas en alguien que no seas tú mismo?}
-{129}{}{Oh, mira, es el "héroe".}
-{130}{}{¡Oíd todos! ¡Es el cabrón egoísta!}
-{131}{}{Oh, ¿otra vez tú? Como si todo el mundo quisiera hablar contigo.}
-{132}{}{¡Odias a Chip!}
+{125}{}{Bastardo egoÃ­sta. ApostarÃ­a a que Chip tu hubiera ayudado.}
+{126}{}{A todo el mundo le gustaba Chip. TÃº no le gustas a nadie.}
+{127}{}{Eres un pedazo de gilipollas, Â¿verdad?}
+{128}{}{Â¿Alguna vez piensas en alguien que no seas tÃº mismo?}
+{129}{}{Oh, mira, es el "hÃ©roe".}
+{130}{}{Â¡OÃ­d todos! Â¡Es el cabrÃ³n egoÃ­sta!}
+{131}{}{Oh, Â¿otra vez tÃº? Como si todo el mundo quisiera hablar contigo.}
+{132}{}{Â¡Odias a Chip!}
 {133}{}{Mala suerte con lo del bazo.}
-{134}{}{Apuesto a que alguien se comió el bazo de Chip.}
-{135}{}{Me pregunto si Chip volverá a estar bien alguna vez.}
-{136}{}{¡Creo que Chip es el mejor!}
-{137}{}{¡Aunque no tenga bazo, lo haría con Chip sin pensarlo!}
+{134}{}{Apuesto a que alguien se comiÃ³ el bazo de Chip.}
+{135}{}{Me pregunto si Chip volverÃ¡ a estar bien alguna vez.}
+{136}{}{Â¡Creo que Chip es el mejor!}
+{137}{}{Â¡Aunque no tenga bazo, lo harÃ­a con Chip sin pensarlo!}
 {138}{}{Gracias por intentar traer de vuelta el bazo de Chip.}
 {139}{}{Hiciste todo lo posible por Chip.}
-{140}{}{Ahí va otro tópico sobre Chip.}
-{141}{}{¿Me pregunto si el bazo sabía bien?}
-{142}{}{¡Yay! ¡Ahora puedo tener a Chip y a su bazo!}
-{143}{}{¡Voy a ver a Chip ahora mismo!}
-{144}{}{¡Chip es el mejor!}
+{140}{}{AhÃ­ va otro tÃ³pico sobre Chip.}
+{141}{}{Â¿Me pregunto si el bazo sabÃ­a bien?}
+{142}{}{Â¡Yay! Â¡Ahora puedo tener a Chip y a su bazo!}
+{143}{}{Â¡Voy a ver a Chip ahora mismo!}
+{144}{}{Â¡Chip es el mejor!}
 {145}{}{Me gustas. Eres bueno.}
 {146}{}{Estoy contenta por Chip.}
-{147}{}{Chip está completo ahora.}
-{148}{}{¿Quieres pasar un buen rato con Chip y conmigo?}
+{147}{}{Chip estÃ¡ completo ahora.}
+{148}{}{Â¿Quieres pasar un buen rato con Chip y conmigo?}
 {149}{}{Lo hiciste bien con lo del bazo de Chip.}
-{150}{}{¡Qué desinteresado por tu parte!}
-{151}{}{Suze ha vuelto! ¡Bien!}
-{152}{}{Suze ha vuelto... ¡maldición!}
+{150}{}{Â¡QuÃ© desinteresado por tu parte!}
+{151}{}{Suze ha vuelto! Â¡Bien!}
+{152}{}{Suze ha vuelto... Â¡maldiciÃ³n!}
 {153}{}{Suze siempre fue buena conmigo.}
 {154}{}{Me gusta Suze.}
 {155}{}{Gracias por salvarla.}
 {156}{}{Algunas personas tienen que aprender a no vagabundear.}
-{157}{}{¿Quién sabe?}
+{157}{}{Â¿QuiÃ©n sabe?}
 {158}{}{Pobre Badger. Tal vez necesite alguien que lo reconforte.}
-{159}{}{Será mejor que me asegure que Badger está bien.}
-{160}{}{Badger es guapo, pero no es un bombón.}
-{161}{}{Me pregunto por qué Badger se pedorrea y eructa tanto.}
-{162}{}{Badger probablemente se pedorrea porque está triste.}
+{159}{}{SerÃ¡ mejor que me asegure que Badger estÃ¡ bien.}
+{160}{}{Badger es guapo, pero no es un bombÃ³n.}
+{161}{}{Me pregunto por quÃ© Badger se pedorrea y eructa tanto.}
+{162}{}{Badger probablemente se pedorrea porque estÃ¡ triste.}
 {163}{}{Pobre Badger.}
 {164}{}{Es duro este viejo mundo en el que vivimos.}
-{165}{}{Suze debería haberlo pensado mejor.}
-{166}{}{Si te vas a llevar el barco, deberíamos marcharnos.}
+{165}{}{Suze deberÃ­a haberlo pensado mejor.}
+{166}{}{Si te vas a llevar el barco, deberÃ­amos marcharnos.}
 {167}{}{Lamento el estado del barco.}
-{168}{}{Así que te vas a llevar el barco, ¿eh?}
-{169}{}{El PMV Valdez es una buena nave: también fue un buen hogar.}
+{168}{}{AsÃ­ que te vas a llevar el barco, Â¿eh?}
+{169}{}{El PMV Valdez es una buena nave: tambiÃ©n fue un buen hogar.}
 {170}{}{Supongo que es hora de empaquetar mis cosas.}
 {171}{}{Disfruta del barco.}
 {172}{}{Que tengas suerte buscando a tu gente.}
 {173}{}{Ya me voy.}
 {174}{}{Espero que podamos encontrar otro lugar donde vivir.}
 {175}{}{Pobre Badger. Era realmente atractivo.}
-{176}{}{¿Quién querría matar a Badger?}
-{177}{}{Badger olía raro pero me gustaba.}
-{178}{}{Había oído que Badger era gay, y resultaba que tenía una novia.}
-{179}{}{Siempre había pensado que Badger era grosero, pero de forma linda.}
-{180}{}{Apuesto a que Badger está alardeando con sus amigos.}
+{176}{}{Â¿QuiÃ©n querrÃ­a matar a Badger?}
+{177}{}{Badger olÃ­a raro pero me gustaba.}
+{178}{}{HabÃ­a oÃ­do que Badger era gay, y resultaba que tenÃ­a una novia.}
+{179}{}{Siempre habÃ­a pensado que Badger era grosero, pero de forma linda.}
+{180}{}{Apuesto a que Badger estÃ¡ alardeando con sus amigos.}
 {181}{}{Badger... ::sniff::}
-{182}{}{Badger parecía salido de un cuento de hadas.}
-{183}{}{Gilipollas. ¿Por qué le mataste?}
-{184}{}{¿Crees que vamos a unirnos a los Hubologistas ahora?}
-{185}{}{Estúpido, estúpido títere.}
-{186}{}{Los Hubologistas también te van a engañar a ti.}
-{187}{}{¡Vete al infierno! ¡Vete al infierno y púdrete!}
+{182}{}{Badger parecÃ­a salido de un cuento de hadas.}
+{183}{}{Gilipollas. Â¿Por quÃ© le mataste?}
+{184}{}{Â¿Crees que vamos a unirnos a los Hubologistas ahora?}
+{185}{}{EstÃºpido, estÃºpido tÃ­tere.}
+{186}{}{Los Hubologistas tambiÃ©n te van a engaÃ±ar a ti.}
+{187}{}{Â¡Vete al infierno! Â¡Vete al infierno y pÃºdrete!}
 {188}{}{Te odio.}
 {189}{}{Apestas.}
-{190}{}{¡Oveja ovejita ovejita!}
-{191}{}{¡Cultista loco!}
-{192}{}{Supongo que algunas personas son estúpidas desde que nacen.}
-{193}{}{¡Vaya! ¡Es el idiota que no puede hablar consigo mismo!}
+{190}{}{Â¡Oveja ovejita ovejita!}
+{191}{}{Â¡Cultista loco!}
+{192}{}{Supongo que algunas personas son estÃºpidas desde que nacen.}
+{193}{}{Â¡Vaya! Â¡Es el idiota que no puede hablar consigo mismo!}

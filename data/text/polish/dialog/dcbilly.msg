@@ -1,106 +1,106 @@
-{100}{}{Widzisz sta³ego bywalca Dziury.}
-{150}{}{Koleœ nie wygl¹da zbyt poci¹gaj¹co.}
-{151}{}{Facet ma tylko jeden z¹b.}
+{100}{}{Widzisz staÅ‚ego bywalca Dziury.}
+{150}{}{KoleÅ› nie wyglÄ…da zbyt pociÄ…gajÄ…co.}
+{151}{}{Facet ma tylko jeden zÄ…b.}
 {152}{}{[ROZMAWIAJ]}
-{153}{}{Twoja ¿ona jest bardzo ³adna!}
-{154}{}{Odczep siê od nas.}
-{155}{}{Podoba ci siê, co?}
+{153}{}{Twoja Å¼ona jest bardzo Å‚adna!}
+{154}{}{Odczep siÄ™ od nas.}
+{155}{}{Podoba ci siÄ™, co?}
 {156}{}{Tak, to prawda.}
 {157}{}{Taaa.}
-{158}{}{Chêtnie bym j¹ przelecia³.}
-{159}{}{Nie krêpuj siê.}
+{158}{}{ChÄ™tnie bym jÄ… przeleciaÅ‚.}
+{159}{}{Nie krÄ™puj siÄ™.}
 {160}{}{Dobra. Ale za $50.}
-{161}{}{Pewnie, ale musisz zap³aciæ $200.}
-{162}{}{Jak œmiesz! Odczep siê od nas!}
-{163}{}{W porz¹dku.}
+{161}{}{Pewnie, ale musisz zapÅ‚aciÄ‡ $200.}
+{162}{}{Jak Å›miesz! Odczep siÄ™ od nas!}
+{163}{}{W porzÄ…dku.}
 {164}{}{Nie.}
-{165}{}{No to œwietnie! A teraz chodŸ z Billym, s³onko.}
+{165}{}{No to Å›wietnie! A teraz chodÅº z Billym, sÅ‚onko.}
 {166}{}{A teraz spadaj.}
-{167}{}{Dziêki. Na razie.}
+{167}{}{DziÄ™ki. Na razie.}
 {168}{}{Bywaj.}
 {169}{}{O cholercia.}
 {170}{}{[dalej]}
-{171}{}{Ledwie ¿yjê.}
-{172}{}{Jeszcze tu wrócê.}
-{173}{}{W porz¹dku.}
-{174}{}{Ale z ciebie œlicznotka.}
-{175}{}{Odczep siê ode mnie.}
-{176}{}{Daj mi $200 to mo¿e siê zabawimy.}
-{177}{}{To kosztuje $50, koleœ.}
-{178}{}{Hi hi. Dziêki.}
-{179}{}{Nie mam tyle pieniêdzy.}
-{180}{}{No to mo¿e $50?}
-{181}{}{To twój problem.}
+{171}{}{Ledwie Å¼yjÄ™.}
+{172}{}{Jeszcze tu wrÃ³cÄ™.}
+{173}{}{W porzÄ…dku.}
+{174}{}{Ale z ciebie Å›licznotka.}
+{175}{}{Odczep siÄ™ ode mnie.}
+{176}{}{Daj mi $200 to moÅ¼e siÄ™ zabawimy.}
+{177}{}{To kosztuje $50, koleÅ›.}
+{178}{}{Hi hi. DziÄ™ki.}
+{179}{}{Nie mam tyle pieniÄ™dzy.}
+{180}{}{No to moÅ¼e $50?}
+{181}{}{To twÃ³j problem.}
 {182}{}{Do zobaczenia.}
-{183}{}{Nie zawracaj mi g³owy. Rozgl¹dam siê za laseczkami.}
-{184}{}{¯yczê szczêœcia. Duuu¿o szczêœcia.}
+{183}{}{Nie zawracaj mi gÅ‚owy. RozglÄ…dam siÄ™ za laseczkami.}
+{184}{}{Å»yczÄ™ szczÄ™Å›cia. DuuuÅ¼o szczÄ™Å›cia.}
 {185}{}{A ja to co, ostatni pasztet?}
 {186}{}{Bywaj.}
-{187}{}{Och. Dobra. Czeœæ.}
-{188}{}{[Ogl¹da ciê od stop do g³ów] Nie. Pasztet to nawet lubiê.}
-{189}{}{Nie bêdê tego wys³uchiwaæ!}
-{190}{}{Przepraszam, muszê ju¿ iœæ.}
-{191}{}{Szkoda. Niez³y z ciebie k¹sek.}
-{203}{}{Domagam siê zwrotu pieniêdzy.}
-{204}{}{Mo¿esz dostaæ najwy¿ej kulkê w ³eb.}
-{205}{}{Dobrze, proszê bardzo.}
+{187}{}{Och. Dobra. CzeÅ›Ä‡.}
+{188}{}{[OglÄ…da ciÄ™ od stop do gÅ‚Ã³w] Nie. Pasztet to nawet lubiÄ™.}
+{189}{}{Nie bÄ™dÄ™ tego wysÅ‚uchiwaÄ‡!}
+{190}{}{Przepraszam, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{191}{}{Szkoda. NiezÅ‚y z ciebie kÄ…sek.}
+{203}{}{Domagam siÄ™ zwrotu pieniÄ™dzy.}
+{204}{}{MoÅ¼esz dostaÄ‡ najwyÅ¼ej kulkÄ™ w Å‚eb.}
+{205}{}{Dobrze, proszÄ™ bardzo.}
 {206}{}{Hej.}
-{207}{}{Daj spokój. }
-{208}{}{ zas³uguje chyba na drug¹ szansê, co?}
-{209}{}{Widzê, ¿e nie chcesz ze mn¹ rozmawiaæ. Wychodzê.}
+{207}{}{Daj spokÃ³j. }
+{208}{}{ zasÅ‚uguje chyba na drugÄ… szansÄ™, co?}
+{209}{}{WidzÄ™, Å¼e nie chcesz ze mnÄ… rozmawiaÄ‡. WychodzÄ™.}
 {210}{}{Daje ci szanse, a ty wszystko zawalasz.}
-{211}{}{Dobra, ale to ju¿ OSTATNIA szansa.}
-{212}{}{M¹dry ch³opiec.}
-{213}{}{No to chyba muszê ciê zabiæ.}
-{220}{}{Hej, Frankie, mogê na trochê zaj¹c pokój na zapleczu?}
-{221}{}{Hej, Frankie, zobacz, co z³owi³em.}
-{222}{}{Eee, Frankie, jakby ktoœ... eee... o mnie pyta³, to jestem za zapleczu.}
-{223}{}{ChodŸ za mn¹.}
-{224}{}{Nie teraz. Porozmawiamy póŸniej.}
-{225}{}{Ju¿ ich nie mam.}
-{300}{}{Cholera, zajeŸdzi³a mnie na œmieræ.}
+{211}{}{Dobra, ale to juÅ¼ OSTATNIA szansa.}
+{212}{}{MÄ…dry chÅ‚opiec.}
+{213}{}{No to chyba muszÄ™ ciÄ™ zabiÄ‡.}
+{220}{}{Hej, Frankie, mogÄ™ na trochÄ™ zajÄ…c pokÃ³j na zapleczu?}
+{221}{}{Hej, Frankie, zobacz, co zÅ‚owiÅ‚em.}
+{222}{}{Eee, Frankie, jakby ktoÅ›... eee... o mnie pytaÅ‚, to jestem za zapleczu.}
+{223}{}{ChodÅº za mnÄ….}
+{224}{}{Nie teraz. Porozmawiamy pÃ³Åºniej.}
+{225}{}{JuÅ¼ ich nie mam.}
+{300}{}{Cholera, zajeÅºdziÅ‚a mnie na Å›mierÄ‡.}
 {301}{}{Juhuu.}
-{302}{}{To by³o... by³o... £A£!!!}
+{302}{}{To byÅ‚o... byÅ‚o... ÅAÅ!!!}
 {303}{}{Ale jazda.}
-{304}{}{Cholera, w³osy mi siê zmierzwi³y - to znaczy: te resztki, które mi jeszcze zosta³y.}
-{305}{}{Lepszy rydz ni¿ nic.}
-{320}{}{NieŸle... NieŸle...}
-{321}{}{Kto wie, mo¿e jeszcze kiedyœ zap³acê za tê przyjemnoœæ.}
+{304}{}{Cholera, wÅ‚osy mi siÄ™ zmierzwiÅ‚y - to znaczy: te resztki, ktÃ³re mi jeszcze zostaÅ‚y.}
+{305}{}{Lepszy rydz niÅ¼ nic.}
+{320}{}{NieÅºle... NieÅºle...}
+{321}{}{Kto wie, moÅ¼e jeszcze kiedyÅ› zapÅ‚acÄ™ za tÄ™ przyjemnoÅ›Ä‡.}
 {322}{}{Mmmm...}
-{323}{}{NieŸle, nieŸle.}
-{324}{}{Musimy siê jeszcze kiedyœ spotkaæ i popracowaæ nad... elastycznoœci¹.}
-{350}{}{Chyba znowu przerzucê siê na rêczne robótki.}
-{351}{}{Wynoœ siê i nie pokazuj mi siê na oczy!}
-{352}{}{Jak chcesz, ¿eby zrobiæ coœ porz¹dnie - zrób to sam!}
-{370}{}{Och, jak mi³o.}
+{323}{}{NieÅºle, nieÅºle.}
+{324}{}{Musimy siÄ™ jeszcze kiedyÅ› spotkaÄ‡ i popracowaÄ‡ nad... elastycznoÅ›ciÄ….}
+{350}{}{Chyba znowu przerzucÄ™ siÄ™ na rÄ™czne robÃ³tki.}
+{351}{}{WynoÅ› siÄ™ i nie pokazuj mi siÄ™ na oczy!}
+{352}{}{Jak chcesz, Å¼eby zrobiÄ‡ coÅ› porzÄ…dnie - zrÃ³b to sam!}
+{370}{}{Och, jak miÅ‚o.}
 {371}{}{Billy to lubi.}
 {372}{}{O tak!}
 {373}{}{Fajnie.}
 {374}{}{Jeeeezu.}
-{375}{}{Matko œwiêta.}
-{376}{}{Trzeba by³o wzi¹æ chusteczki.}
-{377}{}{Hmmm, kogo sobie teraz wyobraziæ?}
-{390}{}{Hej, zajête, nie widaæ?}
-{391}{}{Hej! Wynoœ siê st¹d.}
-{392}{}{Jesteœ do niczego. Wynoœ siê st¹d.}
-{393}{}{ZnajdŸ jak¹œ szmatê i wróæ za piêæ minut, dobra?}
-{400}{}{Billy, mam nadziejê, ¿e nie poplamisz mi znowu materaca!}
-{401}{}{Hej Billy, chcesz szmatê?}
-{402}{}{Billy, ZNOWU masz rozpiêty rozporek!}
-{403}{}{Hej Billy, tylko zmieñ póŸniej spodnie.}
-{404}{}{Billy, jad³eœ p¹czki z lukrem, czy co?}
+{375}{}{Matko Å›wiÄ™ta.}
+{376}{}{Trzeba byÅ‚o wziÄ…Ä‡ chusteczki.}
+{377}{}{Hmmm, kogo sobie teraz wyobraziÄ‡?}
+{390}{}{Hej, zajÄ™te, nie widaÄ‡?}
+{391}{}{Hej! WynoÅ› siÄ™ stÄ…d.}
+{392}{}{JesteÅ› do niczego. WynoÅ› siÄ™ stÄ…d.}
+{393}{}{ZnajdÅº jakÄ…Å› szmatÄ™ i wrÃ³Ä‡ za piÄ™Ä‡ minut, dobra?}
+{400}{}{Billy, mam nadziejÄ™, Å¼e nie poplamisz mi znowu materaca!}
+{401}{}{Hej Billy, chcesz szmatÄ™?}
+{402}{}{Billy, ZNOWU masz rozpiÄ™ty rozporek!}
+{403}{}{Hej Billy, tylko zmieÅ„ pÃ³Åºniej spodnie.}
+{404}{}{Billy, jadÅ‚eÅ› pÄ…czki z lukrem, czy co?}
 {410}{}{Uuuch.}
 {411}{}{Ojej}
 {412}{}{Jeeju}
 {413}{}{He he, heee...}
-{414}{}{Hê?}
+{414}{}{HÄ™?}
 {500}{}{*TFU, TFU* Eeeech...}
-{510}{}{Hej, koleœ! Mo¿e chcesz wynaj¹æ tê swoj¹ ³adniejsz¹ po³owê?}
-{511}{}{Czego? Nie widzisz, ¿e chcê siê napiæ.}
-{512}{}{Tak, jeœli chcesz pogadaæ, to bêdê w Dziurze.}
-{513}{}{Mo¿e spotkamy siê w Dziurze i postawiê ci drinka, co?}
-{520}{}{Przepraszam, ale œpieszê siê do domu. Mam nowego pornosa.}
-{521}{}{Wiesz yyy... mam ju¿ doœæ na dzisiaj, proszê daj mi ju¿ iœæ do domu i yyy..., siê przespaæ...}
-{522}{}{Idê do Dave'a. Ma œwie¿utkie pornosy!}
-{530}{}{Eee, nie dziêki. Przepuœci³em na to doœæ kasy.}
-{540}{}{Dobra, dam twojej dupie jeszcze jedn¹ szansê.}
+{510}{}{Hej, koleÅ›! MoÅ¼e chcesz wynajÄ…Ä‡ tÄ™ swojÄ… Å‚adniejszÄ… poÅ‚owÄ™?}
+{511}{}{Czego? Nie widzisz, Å¼e chcÄ™ siÄ™ napiÄ‡.}
+{512}{}{Tak, jeÅ›li chcesz pogadaÄ‡, to bÄ™dÄ™ w Dziurze.}
+{513}{}{MoÅ¼e spotkamy siÄ™ w Dziurze i postawiÄ™ ci drinka, co?}
+{520}{}{Przepraszam, ale Å›pieszÄ™ siÄ™ do domu. Mam nowego pornosa.}
+{521}{}{Wiesz yyy... mam juÅ¼ doÅ›Ä‡ na dzisiaj, proszÄ™ daj mi juÅ¼ iÅ›Ä‡ do domu i yyy..., siÄ™ przespaÄ‡...}
+{522}{}{IdÄ™ do Dave'a. Ma Å›wieÅ¼utkie pornosy!}
+{530}{}{Eee, nie dziÄ™ki. PrzepuÅ›ciÅ‚em na to doÅ›Ä‡ kasy.}
+{540}{}{Dobra, dam twojej dupie jeszcze jednÄ… szansÄ™.}

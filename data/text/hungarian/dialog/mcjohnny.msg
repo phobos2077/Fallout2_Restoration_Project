@@ -1,57 +1,57 @@
-{100}{}{Kisfiú.}
+{100}{}{KisfiÃº.}
 {101}{}{Jonny}
-{102}{}{Sz?ke haj, kék szem, ? a tipikus amerikai kinézet? srác.}
-{150}{}{Vhááá!}
-{151}{}{Vissza akarom kapni a kutyámat!}
+{102}{}{Sz?ke haj, kÃ©k szem, ? a tipikus amerikai kinÃ©zet? srÃ¡c.}
+{150}{}{VhÃ¡Ã¡Ã¡!}
+{151}{}{Vissza akarom kapni a kutyÃ¡mat!}
 {152}{}{Whimper...}
 {153}{}{Idegen!}
-{154}{}{Ha Öcsi Jonny öcsihez menne! Hiányoztál kislány. Köszönöm, hogy visszahoztad a kutyámat.}
-{155}{}{Helló, korábban nem láttalak errefelé.}
-{156}{}{Jonnynak hívnak?}
-{157}{}{Hogy hívnak, kisfiú?}
-{158}{}{Mondd meg a neved, te kis pondró!}
-{159}{}{Szeretnél egy kis cukorkát, kicsim?}
-{160}{}{Helló...}
-{161}{}{Jonnynak hívnak?}
-{162}{}{Hogy hívnak, kisfiú?}
-{163}{}{Mondd meg a neved, te kis pondró!}
-{164}{}{Szeretnél egy kis cukorkát, kicsim?}
-{165}{}{Helló...}
-{166}{}{Édesanyád és édesapád küldött, hogy felkutassalak.}
-{167}{}{Szeretnél egy kis cukorkát, kicsim?}
-{168}{}{Beszéltél már Vegeirrel arról, hogy hazamegyek?}
-{169}{}{Igen. Azt mondta, a szüleidnek kéne érted jönni.}
-{170}{}{Nem, még nem.}
-{171}{}{Apu azt mondta, hogy Öcsi kutya veled ment el, hogy engem felkutassatok. Hol van? Hiányzik.}
-{172}{}{Sajnálom, Jonny. Öcsi meghalt, miközben téged kerestünk.}
-{173}{}{Rose azt mondta, hogy a kutyád keresésére indul.}
-{174}{}{Jonnynak hívnak. Hát téged?}
+{154}{}{Ha Ã–csi Jonny Ã¶csihez menne! HiÃ¡nyoztÃ¡l kislÃ¡ny. KÃ¶szÃ¶nÃ¶m, hogy visszahoztad a kutyÃ¡mat.}
+{155}{}{HellÃ³, korÃ¡bban nem lÃ¡ttalak errefelÃ©.}
+{156}{}{Jonnynak hÃ­vnak?}
+{157}{}{Hogy hÃ­vnak, kisfiÃº?}
+{158}{}{Mondd meg a neved, te kis pondrÃ³!}
+{159}{}{SzeretnÃ©l egy kis cukorkÃ¡t, kicsim?}
+{160}{}{HellÃ³...}
+{161}{}{Jonnynak hÃ­vnak?}
+{162}{}{Hogy hÃ­vnak, kisfiÃº?}
+{163}{}{Mondd meg a neved, te kis pondrÃ³!}
+{164}{}{SzeretnÃ©l egy kis cukorkÃ¡t, kicsim?}
+{165}{}{HellÃ³...}
+{166}{}{Ã‰desanyÃ¡d Ã©s Ã©desapÃ¡d kÃ¼ldÃ¶tt, hogy felkutassalak.}
+{167}{}{SzeretnÃ©l egy kis cukorkÃ¡t, kicsim?}
+{168}{}{BeszÃ©ltÃ©l mÃ¡r Vegeirrel arrÃ³l, hogy hazamegyek?}
+{169}{}{Igen. Azt mondta, a szÃ¼leidnek kÃ©ne Ã©rted jÃ¶nni.}
+{170}{}{Nem, mÃ©g nem.}
+{171}{}{Apu azt mondta, hogy Ã–csi kutya veled ment el, hogy engem felkutassatok. Hol van? HiÃ¡nyzik.}
+{172}{}{SajnÃ¡lom, Jonny. Ã–csi meghalt, mikÃ¶zben tÃ©ged kerestÃ¼nk.}
+{173}{}{Rose azt mondta, hogy a kutyÃ¡d keresÃ©sÃ©re indul.}
+{174}{}{Jonnynak hÃ­vnak. HÃ¡t tÃ©ged?}
 {175}{}{A nevem }
 {176}{}{ vagyok.}
 {177}{}{A nevem nem fontos.}
-{178}{}{Jonnynak hívnak, de nem tetszel nekem.}
-{179}{}{[Rád mutat és sikítani kezd.] Idegen! Idegen! Idegen!}
-{180}{}{Nagyon örülök, hogy találkoztunk.}
-{181}{}{Édesanyád és édesapád küldött, hogy felkutassalak.}
-{182}{}{Még találkozunk, gyerk?c...}
-{183}{}{Ez baromi jó! Már haza akartam menni, de Vegeir szerint a népe nem tud a föld felett messzire jutni velem... Nem mintha kételkednék, de mondd már meg az apám nevét!}
+{178}{}{Jonnynak hÃ­vnak, de nem tetszel nekem.}
+{179}{}{[RÃ¡d mutat Ã©s sikÃ­tani kezd.] Idegen! Idegen! Idegen!}
+{180}{}{Nagyon Ã¶rÃ¼lÃ¶k, hogy talÃ¡lkoztunk.}
+{181}{}{Ã‰desanyÃ¡d Ã©s Ã©desapÃ¡d kÃ¼ldÃ¶tt, hogy felkutassalak.}
+{182}{}{MÃ©g talÃ¡lkozunk, gyerk?c...}
+{183}{}{Ez baromi jÃ³! MÃ¡r haza akartam menni, de Vegeir szerint a nÃ©pe nem tud a fÃ¶ld felett messzire jutni velem... Nem mintha kÃ©telkednÃ©k, de mondd mÃ¡r meg az apÃ¡m nevÃ©t!}
 {184}{}{Farrel}
 {185}{}{Cornelius}
 {186}{}{Balthas}
 {187}{}{Davin}
 {188}{}{Joshua}
-{189}{}{Nem bízol bennem Jonny?}
-{190}{}{Hmm... nem. Kösz, hogy visszahoztad a kutyámat, de most mennem kell. Szia.}
-{191}{}{Nagyon örültem, hogy találkoztunk, de most már mennem kell. Szia.}
-{192}{}{Ez igaz! Jihijj! Megyek haza! Tisztázd le Vegeirrel, hogy elmehetek-e veled. Olyan rendes volt velem, nem akarok köszönés nélkül elmenni. Légyszi, siess, honvágyam van!}
-{193}{}{Rendben, hiszek neked. Tisztázd le Vegeirrel, hogy hazamehetek-e veled! Olyan rendes volt velem, nem akarok anélkül elmenni, hogy beleegyezne.}
-{194}{}{Rendben, hiszek neked. Tisztázd le Vegeirrel, hogy hazamehetek-e veled! Olyan rendes volt velem, nem akarok anélkül elmenni, hogy beleegyezne.}
-{195}{}{Nem. Most megyek a többiekkel játszani. Csáá...}
-{196}{}{Nem beszélhetek idegenekkel. Csáá...}
-{197}{}{Úgy hívnak! Honnan tudtad? Öcsi mondhatta. Olyan okos kutya...}
-{198}{}{Édesanyád és édesapád küldött, hogy felkutassalak.}
-{199}{}{Most velem jössz, öcskös. Ha visszaviszlek, jutalmat kapok érted.}
-{200}{}{Igen, azt hiszem, ez a legjobb. Habár én hiszek neked, Vegeir szeretné tudni, hogy biztonságban hazaérek-e. Kösz, hogy segítettél.}
-{201}{}{Légyszi, siess. Haza akarok menni.}
-{202}{}{Nem! Nem hiszek neked! Add vissza a kutyámat! [Vahaaha!]}
-{203}{}{Óh, ne! Nem tudtad, hogy Rose kutyából is f?z kaját? Öcsi is biztos már a fazékban úszkál.}
+{189}{}{Nem bÃ­zol bennem Jonny?}
+{190}{}{Hmm... nem. KÃ¶sz, hogy visszahoztad a kutyÃ¡mat, de most mennem kell. Szia.}
+{191}{}{Nagyon Ã¶rÃ¼ltem, hogy talÃ¡lkoztunk, de most mÃ¡r mennem kell. Szia.}
+{192}{}{Ez igaz! Jihijj! Megyek haza! TisztÃ¡zd le Vegeirrel, hogy elmehetek-e veled. Olyan rendes volt velem, nem akarok kÃ¶szÃ¶nÃ©s nÃ©lkÃ¼l elmenni. LÃ©gyszi, siess, honvÃ¡gyam van!}
+{193}{}{Rendben, hiszek neked. TisztÃ¡zd le Vegeirrel, hogy hazamehetek-e veled! Olyan rendes volt velem, nem akarok anÃ©lkÃ¼l elmenni, hogy beleegyezne.}
+{194}{}{Rendben, hiszek neked. TisztÃ¡zd le Vegeirrel, hogy hazamehetek-e veled! Olyan rendes volt velem, nem akarok anÃ©lkÃ¼l elmenni, hogy beleegyezne.}
+{195}{}{Nem. Most megyek a tÃ¶bbiekkel jÃ¡tszani. CsÃ¡Ã¡...}
+{196}{}{Nem beszÃ©lhetek idegenekkel. CsÃ¡Ã¡...}
+{197}{}{Ãšgy hÃ­vnak! Honnan tudtad? Ã–csi mondhatta. Olyan okos kutya...}
+{198}{}{Ã‰desanyÃ¡d Ã©s Ã©desapÃ¡d kÃ¼ldÃ¶tt, hogy felkutassalak.}
+{199}{}{Most velem jÃ¶ssz, Ã¶cskÃ¶s. Ha visszaviszlek, jutalmat kapok Ã©rted.}
+{200}{}{Igen, azt hiszem, ez a legjobb. HabÃ¡r Ã©n hiszek neked, Vegeir szeretnÃ© tudni, hogy biztonsÃ¡gban hazaÃ©rek-e. KÃ¶sz, hogy segÃ­tettÃ©l.}
+{201}{}{LÃ©gyszi, siess. Haza akarok menni.}
+{202}{}{Nem! Nem hiszek neked! Add vissza a kutyÃ¡mat! [Vahaaha!]}
+{203}{}{Ã“h, ne! Nem tudtad, hogy Rose kutyÃ¡bÃ³l is f?z kajÃ¡t? Ã–csi is biztos mÃ¡r a fazÃ©kban ÃºszkÃ¡l.}

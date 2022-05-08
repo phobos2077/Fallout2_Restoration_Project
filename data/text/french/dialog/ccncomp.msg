@@ -4,44 +4,44 @@
 {103}{}{Veuillez entrer votre mot de passe.}
 {104}{}{[Taper "Snookie"]}
 {105}{}{[Laisser tomber ces conneries]}
-{106}{}{Au diable tout ça !}
-{107}{}{[Essayer de pirater le système]}
-{108}{}{Bienvenue à l'Enclave. Vos privilèges système sont pour l'instant limités. Pour une facilité d'utilisation, ce système a été équipé d'un analyseur syntaxique en langage naturel. Veuillez entrer toutes vos requêtes en langage naturel.}
+{106}{}{Au diable tout Ã§a !}
+{107}{}{[Essayer de pirater le systÃ¨me]}
+{108}{}{Bienvenue Ã  l'Enclave. Vos privilÃ¨ges systÃ¨me sont pour l'instant limitÃ©s. Pour une facilitÃ© d'utilisation, ce systÃ¨me a Ã©tÃ© Ã©quipÃ© d'un analyseur syntaxique en langage naturel. Veuillez entrer toutes vos requÃªtes en langage naturel.}
 {109}{}{En quoi puis-je vous aider ?}
-{110}{}{Où être plans hélicos ?}
-{111}{}{Où être base principale de l'Enclave ?}
-{112}{}{Où être armurerie ?}
-{113}{}{Où être Commandant de base ?}
+{110}{}{OÃ¹ Ãªtre plans hÃ©licos ?}
+{111}{}{OÃ¹ Ãªtre base principale de l'Enclave ?}
+{112}{}{OÃ¹ Ãªtre armurerie ?}
+{113}{}{OÃ¹ Ãªtre Commandant de base ?}
 {114}{}{Moi penser c'est tout.}
-{115}{}{Où sont les plans des hélicos ?}
-{116}{}{Où se trouve la base principale de l'Enclave ?}
-{117}{}{Où se trouve l'armurerie ?}
-{118}{}{Où se trouve le bureau du Commandant de la base ?}
+{115}{}{OÃ¹ sont les plans des hÃ©licos ?}
+{116}{}{OÃ¹ se trouve la base principale de l'Enclave ?}
+{117}{}{OÃ¹ se trouve l'armurerie ?}
+{118}{}{OÃ¹ se trouve le bureau du Commandant de la base ?}
 {119}{}{Je pense que c'est tout.}
-{120}{}{Recherche en cours... Accès aux registres d'inventaire courants... Acquisition des données terminée. Les registres courants indiquent qu'un jeu de schémas d'hélicos est en stock. Quatre copies des schémas ont été commandées ce trimestre. Quatre copies des schémas ont été livrées ce trimestre. Trois copies des schémas ont été déclarées perdues ce trimestre. Les schémas des hélicos sont stockés à l'atelier de maintenance.}
-{121}{}{Ok. Où maintenance ?}
-{122}{}{Bien. Où se situe l'atelier de maintenance ?}
-{123}{}{Recherche en cours... Accès aux fichiers de l'architecture de base... Acquisition des données terminée. L'atelier de maintenance se situe en surface, au quadrant Nord-Est de la base.}
+{120}{}{Recherche en cours... AccÃ¨s aux registres d'inventaire courants... Acquisition des donnÃ©es terminÃ©e. Les registres courants indiquent qu'un jeu de schÃ©mas d'hÃ©licos est en stock. Quatre copies des schÃ©mas ont Ã©tÃ© commandÃ©es ce trimestre. Quatre copies des schÃ©mas ont Ã©tÃ© livrÃ©es ce trimestre. Trois copies des schÃ©mas ont Ã©tÃ© dÃ©clarÃ©es perdues ce trimestre. Les schÃ©mas des hÃ©licos sont stockÃ©s Ã  l'atelier de maintenance.}
+{121}{}{Ok. OÃ¹ maintenance ?}
+{122}{}{Bien. OÃ¹ se situe l'atelier de maintenance ?}
+{123}{}{Recherche en cours... AccÃ¨s aux fichiers de l'architecture de base... Acquisition des donnÃ©es terminÃ©e. L'atelier de maintenance se situe en surface, au quadrant Nord-Est de la base.}
 {124}{}{Merci.}
-{125}{}{Recherche en cours... Accès aux cartes géographiques... Acquisition des données terminée. Les quartiers généraux de l'Enclave sont situés à 175 milles au large de la côte de Californie, sur l'océan Pacifique. Les coordonnées sont 37 degrés 18 minutes de latitude Nord par 120 degrés 7 minutes de longitude Ouest.}
-{126}{}{Tout ça vouloir dire quoi !?!}
+{125}{}{Recherche en cours... AccÃ¨s aux cartes gÃ©ographiques... Acquisition des donnÃ©es terminÃ©e. Les quartiers gÃ©nÃ©raux de l'Enclave sont situÃ©s Ã  175 milles au large de la cÃ´te de Californie, sur l'ocÃ©an Pacifique. Les coordonnÃ©es sont 37 degrÃ©s 18 minutes de latitude Nord par 120 degrÃ©s 7 minutes de longitude Ouest.}
+{126}{}{Tout Ã§a vouloir dire quoi !?!}
 {127}{}{Que signifient toutes ces conneries ?}
-{128}{}{Recherche en cours... Accès au dictionnaire argotique... Acquisition des données terminée. La traduction est la suivante : 1) C'est loin d'ici dans l'océan. - 2) C'est au large de la côte de la Californie. - 3) C'est à l'Ouest de la ville de San Francisco. - 4) Si tu ne comprends pas le système de coordonnées géographiques, tu ne pourras jamais trouver.}
-{129}{}{Comment moi aller là-bas ?}
-{130}{}{Comment puis-je me rendre là-bas ?}
-{131}{}{Recherche en cours... Accès au répertoire des transports... Acquisition des données terminée. Les fichiers de transport indiquent qu'il existe 1257 méthodes de se rendre aux quartiers généraux de l'Enclave. Cependant, les registres indiquent aussi que seules 2 de ces méthodes sont actuellement disponibles. <Suite> Le transport par hélicoptère est possible à l'avant-poste de Navarro. Le transport par bateau est possible du port de San Francisco. Notez que le transport par bateau a été déclaré inaccessible par l'acte de sécurité 9837-334-27A. Le bateau a été désactivé et ne peut être réactivé qu'à l'aide d'un passe. Le Commandant de la base, à l'avant-poste de Navarro, possède actuellement ce passe.}
+{128}{}{Recherche en cours... AccÃ¨s au dictionnaire argotique... Acquisition des donnÃ©es terminÃ©e. La traduction est la suivante : 1) C'est loin d'ici dans l'ocÃ©an. - 2) C'est au large de la cÃ´te de la Californie. - 3) C'est Ã  l'Ouest de la ville de San Francisco. - 4) Si tu ne comprends pas le systÃ¨me de coordonnÃ©es gÃ©ographiques, tu ne pourras jamais trouver.}
+{129}{}{Comment moi aller lÃ -bas ?}
+{130}{}{Comment puis-je me rendre lÃ -bas ?}
+{131}{}{Recherche en cours... AccÃ¨s au rÃ©pertoire des transports... Acquisition des donnÃ©es terminÃ©e. Les fichiers de transport indiquent qu'il existe 1257 mÃ©thodes de se rendre aux quartiers gÃ©nÃ©raux de l'Enclave. Cependant, les registres indiquent aussi que seules 2 de ces mÃ©thodes sont actuellement disponibles. <Suite> Le transport par hÃ©licoptÃ¨re est possible Ã  l'avant-poste de Navarro. Le transport par bateau est possible du port de San Francisco. Notez que le transport par bateau a Ã©tÃ© dÃ©clarÃ© inaccessible par l'acte de sÃ©curitÃ© 9837-334-27A. Le bateau a Ã©tÃ© dÃ©sactivÃ© et ne peut Ãªtre rÃ©activÃ© qu'Ã  l'aide d'un passe. Le Commandant de la base, Ã  l'avant-poste de Navarro, possÃ¨de actuellement ce passe.}
 {132}{}{Ok.}
 {133}{}{Moi comprendre.}
-{134}{}{Recherche en cours... Accès aux fichiers de l'architecture de base... Acquisition des données terminée. L'armurerie se situe sous terre, au quadrant Nord-Ouest de la base.}
+{134}{}{Recherche en cours... AccÃ¨s aux fichiers de l'architecture de base... Acquisition des donnÃ©es terminÃ©e. L'armurerie se situe sous terre, au quadrant Nord-Ouest de la base.}
 {135}{}{Moi comprendre.}
 {136}{}{Ouais, j'ai compris.}
-{137}{}{Recherche en cours... Accès aux fichiers de l'architecture de base... Acquisition des données terminée. Le bureau du Commandant de la base se situe sous terre, au quadrant Nord-Est de la base.}
-{138}{}{Très bien.}
-{139}{}{Ca m'a l'air honnête.}
-{140}{}{Merci d'avoir utilisé EnclaveNet. Déconnexion... }
-{141}{}{C'est terminé !}
+{137}{}{Recherche en cours... AccÃ¨s aux fichiers de l'architecture de base... Acquisition des donnÃ©es terminÃ©e. Le bureau du Commandant de la base se situe sous terre, au quadrant Nord-Est de la base.}
+{138}{}{TrÃ¨s bien.}
+{139}{}{Ca m'a l'air honnÃªte.}
+{140}{}{Merci d'avoir utilisÃ© EnclaveNet. DÃ©connexion... }
+{141}{}{C'est terminÃ© !}
 {142}{}{Commande ?}
-{143}{}{Activité non autorisée détectée sur le complexe de l'ordinateur central. Alerte de sécurité. Alerte de sécurité.}
+{143}{}{ActivitÃ© non autorisÃ©e dÃ©tectÃ©e sur le complexe de l'ordinateur central. Alerte de sÃ©curitÃ©. Alerte de sÃ©curitÃ©.}
 {144}{}{Lancement du programme d'accueil.}
 {145}{}{Merde !}
-{146}{}{Verrouillage du système de sécurité en cours.}
+{146}{}{Verrouillage du systÃ¨me de sÃ©curitÃ© en cours.}

@@ -1,78 +1,78 @@
 {100}{}{You see a small boy.}
-{101}{}{Egy kislány.}
+{101}{}{Egy kislÃ¡ny.}
 {120}{}{You see a small boy. He seems rather playful.}
 {121}{}{You see a little girl. She seems rather playful.}
-{150}{}{Ne egyél meg!}
-{151}{}{Áááááá! Szörnyeteg!}
+{150}{}{Ne egyÃ©l meg!}
+{151}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡! SzÃ¶rnyeteg!}
 {152}{}{Apu azt mondja, hogy te rossz ember vagy!}
-{153}{}{Ájjjj! Meneküljetek!}
+{153}{}{Ãjjjj! MenekÃ¼ljetek!}
 {154}{}{Megijesztesz.}
-{155}{}{Ne nézzél rám!}
-{156}{}{Nem szabadna törzsbéliekkel beszélnem.}
-{157}{}{Ez egy tacskó.}
+{155}{}{Ne nÃ©zzÃ©l rÃ¡m!}
+{156}{}{Nem szabadna tÃ¶rzsbÃ©liekkel beszÃ©lnem.}
+{157}{}{Ez egy tacskÃ³.}
 {158}{}{Anyu azt mondja, hogy megeszel, ha rosszul viselkedem.}
-{159}{}{Nem félek ám t?led!}
-{160}{}{Segítséég!}
-{161}{}{Üldöz!}
-{162}{}{Kérlek, ne bánts!}
-{163}{}{Hagyj békén!}
-{164}{}{Íííííííííí!}
-{165}{}{Utállak!}
+{159}{}{Nem fÃ©lek Ã¡m t?led!}
+{160}{}{SegÃ­tsÃ©Ã©g!}
+{161}{}{ÃœldÃ¶z!}
+{162}{}{KÃ©rlek, ne bÃ¡nts!}
+{163}{}{Hagyj bÃ©kÃ©n!}
+{164}{}{ÃÃ­Ã­Ã­Ã­Ã­Ã­Ã­Ã­Ã­!}
+{165}{}{UtÃ¡llak!}
 {166}{}{Mami, mami, mami!}
-{167}{}{Ne érj hozzám!}
-{168}{}{Büdös vagy!}
-{170}{}{Helló!}
-{171}{}{Akarsz bújócskázni?}
-{172}{}{Te tényleg átszúrtál egy csontot az orrodon?}
-{173}{}{Mért nézel ki ilyen viccesen?}
-{174}{}{Anyu azt mondja, hogy primitív vagy.}
-{175}{}{A törzsed leszokott már az emberhúsról?}
-{176}{}{Ki öltöztetett ilyen vicces ruhába?}
-{177}{}{Szerintem aranyosabb vagy, mint amilyennek látszol.}
-{178}{}{Fogócskázzunk! Te vagy a fogó!}
+{167}{}{Ne Ã©rj hozzÃ¡m!}
+{168}{}{BÃ¼dÃ¶s vagy!}
+{170}{}{HellÃ³!}
+{171}{}{Akarsz bÃºjÃ³cskÃ¡zni?}
+{172}{}{Te tÃ©nyleg Ã¡tszÃºrtÃ¡l egy csontot az orrodon?}
+{173}{}{MÃ©rt nÃ©zel ki ilyen viccesen?}
+{174}{}{Anyu azt mondja, hogy primitÃ­v vagy.}
+{175}{}{A tÃ¶rzsed leszokott mÃ¡r az emberhÃºsrÃ³l?}
+{176}{}{Ki Ã¶ltÃ¶ztetett ilyen vicces ruhÃ¡ba?}
+{177}{}{Szerintem aranyosabb vagy, mint amilyennek lÃ¡tszol.}
+{178}{}{FogÃ³cskÃ¡zzunk! Te vagy a fogÃ³!}
 {179}{}{Nincs is olyan rossz szagod.}
-{180}{}{Láttad már a láthatatlan barátom?}
-{181}{}{Ha olyan id?s leszek, mint te, körbe fogom utazni a világot.}
-{182}{}{Te rendes törzsbéli vagy, nem úgy, mint a többi.}
-{183}{}{Szerintem te szoktál fürdeni.}
+{180}{}{LÃ¡ttad mÃ¡r a lÃ¡thatatlan barÃ¡tom?}
+{181}{}{Ha olyan id?s leszek, mint te, kÃ¶rbe fogom utazni a vilÃ¡got.}
+{182}{}{Te rendes tÃ¶rzsbÃ©li vagy, nem Ãºgy, mint a tÃ¶bbi.}
+{183}{}{Szerintem te szoktÃ¡l fÃ¼rdeni.}
 {184}{}{Okosabb vagy, mint Torr.}
-{185}{}{Éles az a penge?}
-{186}{}{Amikor felnövök, olyan akarok lenni, mint te.}
-{187}{}{A kutyám imádja a szárított húst.}
-{188}{}{Van egy fényes kavicsom.}
-{189}{}{Láttad már a láthatatlan barátom?}
-{190}{}{Lehetek a törzsed tagja?}
-{191}{}{Barátságos vagy.}
-{192}{}{Viccesen nézel ki.}
+{185}{}{Ã‰les az a penge?}
+{186}{}{Amikor felnÃ¶vÃ¶k, olyan akarok lenni, mint te.}
+{187}{}{A kutyÃ¡m imÃ¡dja a szÃ¡rÃ­tott hÃºst.}
+{188}{}{Van egy fÃ©nyes kavicsom.}
+{189}{}{LÃ¡ttad mÃ¡r a lÃ¡thatatlan barÃ¡tom?}
+{190}{}{Lehetek a tÃ¶rzsed tagja?}
+{191}{}{BarÃ¡tsÃ¡gos vagy.}
+{192}{}{Viccesen nÃ©zel ki.}
 {193}{}{Mit viselsz?}
 {194}{}{Brahminon akarok lovagolni!}
-{195}{}{Messzir?l jöttél?}
-{196}{}{Íhíííííjjj! Ha, ha, ha!}
+{195}{}{Messzir?l jÃ¶ttÃ©l?}
+{196}{}{ÃhÃ­Ã­Ã­Ã­Ã­jjj! Ha, ha, ha!}
 {197}{}{Ne menj!}
-{198}{}{Van kajád?}
+{198}{}{Van kajÃ¡d?}
 {199}{}{Zavarlak?}
-{200}{}{Hova mész?}
+{200}{}{Hova mÃ©sz?}
 {201}{}{Veled mehetek?}
-{202}{}{Hány éves vagy?}
-{203}{}{Hogy hívnak?}
+{202}{}{HÃ¡ny Ã©ves vagy?}
+{203}{}{Hogy hÃ­vnak?}
 {204}{}{Szereted a gyerekeket?}
 {205}{}{Az meg mi?}
-{206}{}{Akarsz játszani?}
-{207}{}{Micsinálsz?}
-{208}{}{Láttál már bogarakat?}
+{206}{}{Akarsz jÃ¡tszani?}
+{207}{}{MicsinÃ¡lsz?}
+{208}{}{LÃ¡ttÃ¡l mÃ¡r bogarakat?}
 {209}{}{Azt hol szerezted?}
 {210}{}{Megkaphatom?}
-{211}{}{Mi a munkád?}
-{212}{}{Tudok ám gyorsan futni. Megmutassam?}
-{213}{}{Nézzél! Nézzél!}
+{211}{}{Mi a munkÃ¡d?}
+{212}{}{Tudok Ã¡m gyorsan futni. Megmutassam?}
+{213}{}{NÃ©zzÃ©l! NÃ©zzÃ©l!}
 {214}{}{Mommy says I talk too much.}
 {215}{}{Hol van az otthonod?}
-{216}{}{Jupppíííí! Hurrááá!}
+{216}{}{JupppÃ­Ã­Ã­Ã­! HurrÃ¡Ã¡Ã¡!}
 {217}{}{Itt fogsz maradni?}
 {218}{}{Van gyereked?}
-{219}{}{Mért jöttél ide?}
+{219}{}{MÃ©rt jÃ¶ttÃ©l ide?}
 {220}{}{Kedvellek.}
 {221}{}{Kedvelsz?}
-{222}{}{Házas vagy?}
-{223}{}{Egy, kett?, három... Íhhíííííjjj!}
+{222}{}{HÃ¡zas vagy?}
+{223}{}{Egy, kett?, hÃ¡rom... ÃhhÃ­Ã­Ã­Ã­Ã­jjj!}
 {300}{}{Idegen!}

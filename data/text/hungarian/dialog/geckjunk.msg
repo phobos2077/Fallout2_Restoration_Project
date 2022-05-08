@@ -1,1 +1,1 @@
-{100}{}{A gekkói roncstelep.}
+{100}{}{A gekkÃ³i roncstelep.}

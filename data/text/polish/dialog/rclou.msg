@@ -1,143 +1,143 @@
-{100}{}{Widzisz zmêczon¹ kobietê, która musia³a byæ ca³kiem atrakcyjna, gdy by³a m³odsza.}
-{101}{}{Widzisz Lou, w³aœcicielkê Saloonu Malamute.}
-{102}{}{Widzisz starsz¹ kobietê z na³o¿on¹ doœæ grub¹ warstw¹ ró¿u.}
-{103}{}{Chcê ci tylko powiedzieæ, ¿e jestem wdziêczna za to, co tu siê sta³o. Jak mogê ci pomóc?}
-{104}{}{Wiêzienie to za ³agodna kara za to, co zrobi³ ten drañ.}
-{105}{}{Nie mogê uwierzyæ, ¿e ten drañ, który poci¹³ moj¹ dziewczynê, przez ciebie chodzi wolny. Masz czelnoœæ siê tu pokazywaæ. Czego tu do cholery chcesz?}
-{106}{}{Wci¹¿ masz nie po kolei w g³owie. Ale ¿ycie p³ynie dalej, dla reszty z nas. A teraz czego do cholery chcesz?}
-{107}{}{Pamiêtaj, co powiedzia³am. Za du¿o pieniêdzy nie jest dobre dla tej panienki. A teraz czego chcesz?}
-{108}{}{Witaj. Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran.}
+{100}{}{Widzisz zmÄ™czonÄ… kobietÄ™, ktÃ³ra musiaÅ‚a byÄ‡ caÅ‚kiem atrakcyjna, gdy byÅ‚a mÅ‚odsza.}
+{101}{}{Widzisz Lou, wÅ‚aÅ›cicielkÄ™ Saloonu Malamute.}
+{102}{}{Widzisz starszÄ… kobietÄ™ z naÅ‚oÅ¼onÄ… doÅ›Ä‡ grubÄ… warstwÄ… rÃ³Å¼u.}
+{103}{}{ChcÄ™ ci tylko powiedzieÄ‡, Å¼e jestem wdziÄ™czna za to, co tu siÄ™ staÅ‚o. Jak mogÄ™ ci pomÃ³c?}
+{104}{}{WiÄ™zienie to za Å‚agodna kara za to, co zrobiÅ‚ ten draÅ„.}
+{105}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e ten draÅ„, ktÃ³ry pociÄ…Å‚ mojÄ… dziewczynÄ™, przez ciebie chodzi wolny. Masz czelnoÅ›Ä‡ siÄ™ tu pokazywaÄ‡. Czego tu do cholery chcesz?}
+{106}{}{WciÄ…Å¼ masz nie po kolei w gÅ‚owie. Ale Å¼ycie pÅ‚ynie dalej, dla reszty z nas. A teraz czego do cholery chcesz?}
+{107}{}{PamiÄ™taj, co powiedziaÅ‚am. Za duÅ¼o pieniÄ™dzy nie jest dobre dla tej panienki. A teraz czego chcesz?}
+{108}{}{Witaj. Jestem Lou, wÅ‚aÅ›cicielka Saloonu Malamute, najlepszego domu na pÃ³Å‚noc od San Fran.}
 {109}{}{Co teraz?}
 {110}{}{Ooo?}
-{111}{}{Witaj, Lou. Ciekawi mnie, co mo¿na tutaj dostaæ?}
-{112}{}{Czy s³ysza³eœ mo¿e o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
-{113}{}{Witaj, Lou. Co dzieje siê w tym mieœcie?}
+{111}{}{Witaj, Lou. Ciekawi mnie, co moÅ¼na tutaj dostaÄ‡?}
+{112}{}{Czy sÅ‚yszaÅ‚eÅ› moÅ¼e o czymÅ›, co nazywa siÄ™ Generator Ekosystemu Cudownej Krainy?}
+{113}{}{Witaj, Lou. Co dzieje siÄ™ w tym mieÅ›cie?}
 {114}{}{Co to jest Malamute?}
-{115}{}{Gdzie znajduje siê San Francisco, patrz¹c st¹d?}
-{116}{}{Pomagam szeryfowi. Powiedzia³ mi, ¿e masz tu dziewczynê, która jest ca³a pociêta?}
-{117}{}{Przykro mi, ale nie mam czasu, ani cierpliwoœci dla g³upich ludzi. Czego chcesz?}
-{118}{}{Piæ?}
-{119}{}{Spaæ?}
+{115}{}{Gdzie znajduje siÄ™ San Francisco, patrzÄ…c stÄ…d?}
+{116}{}{Pomagam szeryfowi. PowiedziaÅ‚ mi, Å¼e masz tu dziewczynÄ™, ktÃ³ra jest caÅ‚a pociÄ™ta?}
+{117}{}{Przykro mi, ale nie mam czasu, ani cierpliwoÅ›ci dla gÅ‚upich ludzi. Czego chcesz?}
+{118}{}{PiÄ‡?}
+{119}{}{SpaÄ‡?}
 {120}{}{PA PA.}
-{121}{}{Chcesz drinka, co? Có¿, to bêdzie $25 za œliczn¹, zimn¹ butelkê piwa. Dajê ci tê specjaln¹ zni¿kê, bo mam s³aboœæ do prostaczków.}
-{122}{}{Piæ? (wyci¹gasz rêkê ze swoj¹ sakiewk¹)}
-{123}{}{Spaæ?}
+{121}{}{Chcesz drinka, co? CÃ³Å¼, to bÄ™dzie $25 za Å›licznÄ…, zimnÄ… butelkÄ™ piwa. DajÄ™ ci tÄ™ specjalnÄ… zniÅ¼kÄ™, bo mam sÅ‚aboÅ›Ä‡ do prostaczkÃ³w.}
+{122}{}{PiÄ‡? (wyciÄ…gasz rÄ™kÄ™ ze swojÄ… sakiewkÄ…)}
+{123}{}{SpaÄ‡?}
 {124}{}{Nie drinka. Pa pa.}
-{125}{}{Chcesz pokój, co? Có¿, mo¿e znajdzie siê dla ciebie jakiœ pokój. Za $50 dostaniesz mi³e gniazdko.}
-{126}{}{Spaæ. (wyci¹gasz rêkê ze swoj¹ sakiewk¹)}
-{127}{}{Piæ?}
-{128}{}{Nie pokój. Pa pa.}
-{129}{}{Ty mo¿esz wejœæ, ale ta twoja mena¿eria ma zostaæ na zewn¹trz.}
-{130}{}{S³yszysz mnie? ¯adnych dziwaków w moim saloonie.}
-{131}{}{Te *stwory* nie wejd¹ do mojego saloonu. Zostaw je na zewn¹trz.}
-{132}{}{Nie mogê sobie przypomnieæ, czy ju¿ coœ takiego widzia³am. Co to takiego?}
-{133}{}{Có¿, to jest urz¹dzenie do... ee, hmm. No po prostu coœ, czego szukam. Powiedz mi coœ innego.}
-{134}{}{Nic wa¿nego. Có¿, lepiej ju¿ pójdê.}
-{135}{}{Có¿, g³ównie wydobywamy z³oto i gdzie indziej wymieniamy je.}
-{136}{}{Wydobywacie tu z³oto?}
-{137}{}{Gdzie handlujecie z³otem?}
-{138}{}{Interesuj¹ce. Teraz jednak powiedz mi coœ innego.}
-{139}{}{Ta. W pó³nocnej, osamotnionej czêœci miasta s¹ dwie dzia³aj¹ce kopalnie z³ota.}
-{140}{}{Mówi³aœ, ¿e handlujecie tym z³otem?}
-{141}{}{Interesuj¹ce. Teraz jednak powiedz mi coœ innego.}
-{142}{}{Có¿, handlujemy z³otem z Kryptopolis w zamian za artyku³y medyczne, z Republik¹ Nowej Kalifornii za œwie¿e miêso bramin i inne artyku³y spo¿ywcze, i z Nowym Reno za narkotyki i alkohole.}
-{143}{}{Wydobywacie tu z³oto?}
-{144}{}{Interesuj¹ce. Teraz jednak powiedz mi coœ innego.}
-{145}{}{Po prostu du¿y pies.}
-{146}{}{Ach, rozumiem. Hmm, pozwól, ¿e zapytam o coœ innego.}
-{147}{}{Oczywiœcie. To wszystko, co naprawdê by³o mi potrzebne. Dziêki. Do zobaczenia.}
-{148}{}{San Francisco jest kawa³ drogi na po³udnie. Po³udnie i tyækê na zachód. Jest tu¿ przy oceanie, nie wiesz tego? Nie wiem jednak, po co ktokolwiek przy zdrowych zmys³ach chcia³by tam jechaæ.}
+{125}{}{Chcesz pokÃ³j, co? CÃ³Å¼, moÅ¼e znajdzie siÄ™ dla ciebie jakiÅ› pokÃ³j. Za $50 dostaniesz miÅ‚e gniazdko.}
+{126}{}{SpaÄ‡. (wyciÄ…gasz rÄ™kÄ™ ze swojÄ… sakiewkÄ…)}
+{127}{}{PiÄ‡?}
+{128}{}{Nie pokÃ³j. Pa pa.}
+{129}{}{Ty moÅ¼esz wejÅ›Ä‡, ale ta twoja menaÅ¼eria ma zostaÄ‡ na zewnÄ…trz.}
+{130}{}{SÅ‚yszysz mnie? Å»adnych dziwakÃ³w w moim saloonie.}
+{131}{}{Te *stwory* nie wejdÄ… do mojego saloonu. Zostaw je na zewnÄ…trz.}
+{132}{}{Nie mogÄ™ sobie przypomnieÄ‡, czy juÅ¼ coÅ› takiego widziaÅ‚am. Co to takiego?}
+{133}{}{CÃ³Å¼, to jest urzÄ…dzenie do... ee, hmm. No po prostu coÅ›, czego szukam. Powiedz mi coÅ› innego.}
+{134}{}{Nic waÅ¼nego. CÃ³Å¼, lepiej juÅ¼ pÃ³jdÄ™.}
+{135}{}{CÃ³Å¼, gÅ‚Ã³wnie wydobywamy zÅ‚oto i gdzie indziej wymieniamy je.}
+{136}{}{Wydobywacie tu zÅ‚oto?}
+{137}{}{Gdzie handlujecie zÅ‚otem?}
+{138}{}{InteresujÄ…ce. Teraz jednak powiedz mi coÅ› innego.}
+{139}{}{Ta. W pÃ³Å‚nocnej, osamotnionej czÄ™Å›ci miasta sÄ… dwie dziaÅ‚ajÄ…ce kopalnie zÅ‚ota.}
+{140}{}{MÃ³wiÅ‚aÅ›, Å¼e handlujecie tym zÅ‚otem?}
+{141}{}{InteresujÄ…ce. Teraz jednak powiedz mi coÅ› innego.}
+{142}{}{CÃ³Å¼, handlujemy zÅ‚otem z Kryptopolis w zamian za artykuÅ‚y medyczne, z RepublikÄ… Nowej Kalifornii za Å›wieÅ¼e miÄ™so bramin i inne artykuÅ‚y spoÅ¼ywcze, i z Nowym Reno za narkotyki i alkohole.}
+{143}{}{Wydobywacie tu zÅ‚oto?}
+{144}{}{InteresujÄ…ce. Teraz jednak powiedz mi coÅ› innego.}
+{145}{}{Po prostu duÅ¼y pies.}
+{146}{}{Ach, rozumiem. Hmm, pozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{147}{}{OczywiÅ›cie. To wszystko, co naprawdÄ™ byÅ‚o mi potrzebne. DziÄ™ki. Do zobaczenia.}
+{148}{}{San Francisco jest kawaÅ‚ drogi na poÅ‚udnie. PoÅ‚udnie i tyÄ‡kÄ™ na zachÃ³d. Jest tuÅ¼ przy oceanie, nie wiesz tego? Nie wiem jednak, po co ktokolwiek przy zdrowych zmysÅ‚ach chciaÅ‚by tam jechaÄ‡.}
 {149}{}{Czemu? Czy to niebezpieczne?}
-{150}{}{Interesuj¹ce. Teraz jednak powiedz mi coœ innego.}
-{151}{}{Dziêki za informacje. Do widzenia.}
-{152}{}{Có¿, s³yszê ró¿ne rzeczy o tym ca³ym mieœcie pe³nym samych kopniêtych wyznawców jakiejœ szajbniêtej religii.}
-{153}{}{Kopniêtych wyznawców?}
-{154}{}{Pewne rzeczy nie zmieni³y siê tak, jak inne. Dziêki. Na razie.}
-{155}{}{Ta. Dok³adnie. S³ysza³am, ¿e buduj¹ jak¹œ ogromn¹ machinê, która pozwoli im siê zbli¿yæ do ich bogów. Czy coœ takiego. Nie mam pewnoœci. Jednak jeszcze przed nimi daleka droga.}
-{156}{}{Wygl¹da na to, ¿e pomniki stawiane bogom zawsze mia³y problemy u swoich podstaw. Powiedz mi o czymœ innym.}
-{157}{}{To wszystko, co potrzebujê wiedzieæ. Dziêkujê i do widzenia.}
-{158}{}{To prawda. le z ni¹, a by³a z niej kiedyœ taka œlicznotka. Mam nadziejê, ¿e szybko siê tym zajmiesz. To Ÿle wp³ywa na interesy, takie myœlenie górników, ¿e mo¿e im ujœæ na sucho coœ takiego.}
-{159}{}{Czy mogê zobaczyæ siê z t¹ dziewczyn¹?}
-{160}{}{Czy wiesz, kto to zrobi³?}
-{161}{}{Czy wiesz, co zasz³o?}
-{162}{}{To brzmi powa¿nie. Teraz jednak spytam ciê o coœ innego.}
-{163}{}{Odes³a³am j¹. W tym biznesie jest ju¿ skoñczona. Nikt jej nie bêdzie chcia³ po tym, jak ten bêkart z ni¹ skoñczy³. Da³am jej trochê pieniêdzy i wypuœci³am w œwiat.}
-{164}{}{Czy wiesz, kto to zrobi³?}
-{165}{}{Czy wiesz, co zasz³o?}
-{166}{}{Pozwól, ¿e zapytam o coœ innego.}
-{167}{}{Zakoñczê tê sprawê dla ciebie, mo¿esz na to liczyæ. Do zobaczenia.}
-{168}{}{Nie wiem dok³adnie, kto to zrobi³, ale, gdy j¹ znaleŸliœmy, mia³a w rêce weksel kopalni Morningstar, zaœ ostatni¹ osob¹, która z ni¹ by³a, by³ górnik.}
-{169}{}{Czy mogê zobaczyæ siê z t¹ dziewczyn¹?}
-{170}{}{Czy wiesz, co zasz³o?}
+{150}{}{InteresujÄ…ce. Teraz jednak powiedz mi coÅ› innego.}
+{151}{}{DziÄ™ki za informacje. Do widzenia.}
+{152}{}{CÃ³Å¼, sÅ‚yszÄ™ rÃ³Å¼ne rzeczy o tym caÅ‚ym mieÅ›cie peÅ‚nym samych kopniÄ™tych wyznawcÃ³w jakiejÅ› szajbniÄ™tej religii.}
+{153}{}{KopniÄ™tych wyznawcÃ³w?}
+{154}{}{Pewne rzeczy nie zmieniÅ‚y siÄ™ tak, jak inne. DziÄ™ki. Na razie.}
+{155}{}{Ta. DokÅ‚adnie. SÅ‚yszaÅ‚am, Å¼e budujÄ… jakÄ…Å› ogromnÄ… machinÄ™, ktÃ³ra pozwoli im siÄ™ zbliÅ¼yÄ‡ do ich bogÃ³w. Czy coÅ› takiego. Nie mam pewnoÅ›ci. Jednak jeszcze przed nimi daleka droga.}
+{156}{}{WyglÄ…da na to, Å¼e pomniki stawiane bogom zawsze miaÅ‚y problemy u swoich podstaw. Powiedz mi o czymÅ› innym.}
+{157}{}{To wszystko, co potrzebujÄ™ wiedzieÄ‡. DziÄ™kujÄ™ i do widzenia.}
+{158}{}{To prawda. Å¹le z niÄ…, a byÅ‚a z niej kiedyÅ› taka Å›licznotka. Mam nadziejÄ™, Å¼e szybko siÄ™ tym zajmiesz. To Åºle wpÅ‚ywa na interesy, takie myÅ›lenie gÃ³rnikÃ³w, Å¼e moÅ¼e im ujÅ›Ä‡ na sucho coÅ› takiego.}
+{159}{}{Czy mogÄ™ zobaczyÄ‡ siÄ™ z tÄ… dziewczynÄ…?}
+{160}{}{Czy wiesz, kto to zrobiÅ‚?}
+{161}{}{Czy wiesz, co zaszÅ‚o?}
+{162}{}{To brzmi powaÅ¼nie. Teraz jednak spytam ciÄ™ o coÅ› innego.}
+{163}{}{OdesÅ‚aÅ‚am jÄ…. W tym biznesie jest juÅ¼ skoÅ„czona. Nikt jej nie bÄ™dzie chciaÅ‚ po tym, jak ten bÄ™kart z niÄ… skoÅ„czyÅ‚. DaÅ‚am jej trochÄ™ pieniÄ™dzy i wypuÅ›ciÅ‚am w Å›wiat.}
+{164}{}{Czy wiesz, kto to zrobiÅ‚?}
+{165}{}{Czy wiesz, co zaszÅ‚o?}
+{166}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{167}{}{ZakoÅ„czÄ™ tÄ™ sprawÄ™ dla ciebie, moÅ¼esz na to liczyÄ‡. Do zobaczenia.}
+{168}{}{Nie wiem dokÅ‚adnie, kto to zrobiÅ‚, ale, gdy jÄ… znaleÅºliÅ›my, miaÅ‚a w rÄ™ce weksel kopalni Morningstar, zaÅ› ostatniÄ… osobÄ…, ktÃ³ra z niÄ… byÅ‚a, byÅ‚ gÃ³rnik.}
+{169}{}{Czy mogÄ™ zobaczyÄ‡ siÄ™ z tÄ… dziewczynÄ…?}
+{170}{}{Czy wiesz, co zaszÅ‚o?}
 {171}{}{Weksel kopalni Morningstar? Co to takiego?}
-{172}{}{Pozwól, ¿e zapytam o coœ innego.}
-{173}{}{Zakoñczê tê sprawê dla ciebie, mo¿esz na to liczyæ. Do zobaczenia.}
-{174}{}{No có¿, us³ysza³am krzyki i odg³osy szamotaniny, wiêc posz³am do tego pokoju. Gdy ju¿ tam dotar³am, tego drania ju¿ nie by³o, a moja dziewczyna by³a w kiepskim stanie. Wiêc wezwa³am doktora, a potem szeryfa. Resztê ju¿ znasz.}
-{175}{}{Czy wiesz, kto to zrobi³?}
-{176}{}{Czy mogê zobaczyæ siê z t¹ dziewczyn¹?}
-{177}{}{Pozwól, ¿e zapytam o coœ innego.}
-{178}{}{Zakoñczê tê sprawê dla ciebie, mo¿esz na to liczyæ. Do zobaczenia.}
-{179}{}{W pó³nocnej czêœci miasta Dan McGrew prowadzi kopalniê Morningstar. Zazwyczaj górnikom p³aci siê z góry, lub wystawia siê porêczenia dla ka¿dej z kopalñ... no wiesz, weksle. No i moja dziewczyna zosta³a znaleziona w³aœnie z takim kawa³kiem weksla w rêce. Oto on. Popatrz na to. (podaje ci œwistek papieru)}
-{180}{}{A, rozumiem. Czy mogê zobaczyæ siê z dziewczyn¹?}
-{181}{}{A, rozumiem. Czy wiesz, co zasz³o?}
-{182}{}{Pozwól, ¿e zapytam o coœ innego.}
-{183}{}{Zakoñczê tê sprawê dla ciebie, mo¿esz na to liczyæ. Do zobaczenia.}
-{184}{}{Có¿, cieszê siê, ¿e ktoœ nad tym pracuje. Taka sprawa jest fatalna dla wszystkiego. Mam tylko nadziejê, ¿e ten drañ, dziêki tobie, zap³aci za to, co zrobi³ mojej dziewczynie. Upewnij siê, ¿e nie bêdzie móg³ tego ju¿ nigdy wiêcej nikomu zrobiæ.}
-{185}{}{Có¿, zrobiê, co w mojej mocy. Pozwól, ¿e spytam ciê o coœ innego.}
-{186}{}{Zobaczê, co da siê zrobiæ. Do widzenia.}
-{187}{}{Co mogê dla ciebie zrobiæ? Chcesz ³ó¿ko puste, czy z niespodziank¹? Mo¿e jakiœ napój "bezalkoholowy" (mruga) lub inne rzeczy?}
-{188}{}{Chcê puste ³ó¿ko, Lou.}
-{189}{}{Z niespodziank¹? Brzmi zachêcaj¹co. Opowiedz mi o tym.}
-{190}{}{Alkohol i inne towary. Tak, o to mi chodzi³o. Pohandlujmy.}
-{191}{}{Pozwól, ¿e spytam ciê o coœ innego.}
-{192}{}{To ci wystarczy, czy chcesz kupiæ coœ jeszcze?}
-{193}{}{Wygl¹da na to, ¿e masz problemy ze zdecydowaniem siê. To wszystko, czy chcesz jeszcze coœ zobaczyæ?}
-{194}{}{Nie. Mam ju¿ wszystko, czego teraz potrzebujê. Odpowiedz mi jeszcze na moje pytania.}
+{172}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{173}{}{ZakoÅ„czÄ™ tÄ™ sprawÄ™ dla ciebie, moÅ¼esz na to liczyÄ‡. Do zobaczenia.}
+{174}{}{No cÃ³Å¼, usÅ‚yszaÅ‚am krzyki i odgÅ‚osy szamotaniny, wiÄ™c poszÅ‚am do tego pokoju. Gdy juÅ¼ tam dotarÅ‚am, tego drania juÅ¼ nie byÅ‚o, a moja dziewczyna byÅ‚a w kiepskim stanie. WiÄ™c wezwaÅ‚am doktora, a potem szeryfa. ResztÄ™ juÅ¼ znasz.}
+{175}{}{Czy wiesz, kto to zrobiÅ‚?}
+{176}{}{Czy mogÄ™ zobaczyÄ‡ siÄ™ z tÄ… dziewczynÄ…?}
+{177}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{178}{}{ZakoÅ„czÄ™ tÄ™ sprawÄ™ dla ciebie, moÅ¼esz na to liczyÄ‡. Do zobaczenia.}
+{179}{}{W pÃ³Å‚nocnej czÄ™Å›ci miasta Dan McGrew prowadzi kopalniÄ™ Morningstar. Zazwyczaj gÃ³rnikom pÅ‚aci siÄ™ z gÃ³ry, lub wystawia siÄ™ porÄ™czenia dla kaÅ¼dej z kopalÅ„... no wiesz, weksle. No i moja dziewczyna zostaÅ‚a znaleziona wÅ‚aÅ›nie z takim kawaÅ‚kiem weksla w rÄ™ce. Oto on. Popatrz na to. (podaje ci Å›wistek papieru)}
+{180}{}{A, rozumiem. Czy mogÄ™ zobaczyÄ‡ siÄ™ z dziewczynÄ…?}
+{181}{}{A, rozumiem. Czy wiesz, co zaszÅ‚o?}
+{182}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{183}{}{ZakoÅ„czÄ™ tÄ™ sprawÄ™ dla ciebie, moÅ¼esz na to liczyÄ‡. Do zobaczenia.}
+{184}{}{CÃ³Å¼, cieszÄ™ siÄ™, Å¼e ktoÅ› nad tym pracuje. Taka sprawa jest fatalna dla wszystkiego. Mam tylko nadziejÄ™, Å¼e ten draÅ„, dziÄ™ki tobie, zapÅ‚aci za to, co zrobiÅ‚ mojej dziewczynie. Upewnij siÄ™, Å¼e nie bÄ™dzie mÃ³gÅ‚ tego juÅ¼ nigdy wiÄ™cej nikomu zrobiÄ‡.}
+{185}{}{CÃ³Å¼, zrobiÄ™, co w mojej mocy. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{186}{}{ZobaczÄ™, co da siÄ™ zrobiÄ‡. Do widzenia.}
+{187}{}{Co mogÄ™ dla ciebie zrobiÄ‡? Chcesz Å‚Ã³Å¼ko puste, czy z niespodziankÄ…? MoÅ¼e jakiÅ› napÃ³j "bezalkoholowy" (mruga) lub inne rzeczy?}
+{188}{}{ChcÄ™ puste Å‚Ã³Å¼ko, Lou.}
+{189}{}{Z niespodziankÄ…? Brzmi zachÄ™cajÄ…co. Opowiedz mi o tym.}
+{190}{}{Alkohol i inne towary. Tak, o to mi chodziÅ‚o. Pohandlujmy.}
+{191}{}{PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{192}{}{To ci wystarczy, czy chcesz kupiÄ‡ coÅ› jeszcze?}
+{193}{}{WyglÄ…da na to, Å¼e masz problemy ze zdecydowaniem siÄ™. To wszystko, czy chcesz jeszcze coÅ› zobaczyÄ‡?}
+{194}{}{Nie. Mam juÅ¼ wszystko, czego teraz potrzebujÄ™. Odpowiedz mi jeszcze na moje pytania.}
 {195}{}{Hmm, zobaczmy jeszcze raz twoje zapasy.}
-{196}{}{Dziêki, Lou. To na razie wszystko, do zobaczenia.}
-{197}{}{Chcesz siê trochê przespaæ, co? Có¿, to bêdzie ciê kosztowaæ $40. Wliczona jest œwie¿a, w wiêkszoœci czysta poœciel. Wci¹¿ ciê to interesuje?}
-{198}{}{Biorê to, Lou.}
-{199}{}{Hmm, chyba zmêczenie nie daje mi siê jeszcze we znaki. Pozwól, ¿e spytam ciê o coœ innego.}
-{200}{}{Nie mam teraz wystarczaj¹cej iloœci pieniêdzy. Pozwól jednak, ¿e spytam ciê o coœ innego.}
-{201}{}{Nale¿ysz do sta³ej klienteli Fannie, co? IdŸ z ni¹ pogadaæ, jest gdzieœ tam z ty³u.}
-{202}{}{S³uchaj. Masz tutaj pecha. Po tym, co sta³o siê Fannie Mae, ¿adna z innych moich dziewczyn nie chce z tob¹ przebywaæ... i wcale im siê nie dziwiê.}
-{203}{}{Szukasz kogoœ, kto pomo¿e ci ogrzaæ to du¿e, samotne ³ó¿ko, co? Zobaczmy, kogo mam wolnego. Hmm, dlaczego nie spróbujesz Fannie Mae? Powinna gdzieœ tutaj byæ. Ustal z ni¹ indywidualnie warunki "wspó³pracy".}
-{204}{}{Dobry pomys³. Zrobiê tak. Do widzenia.}
-{205}{}{Ale ja nie... w porz¹dku. Do zobaczenia.}
-{206}{}{Ty i Fannie ju¿ wszystko macie u³o¿one. IdŸ do niej, jest gdzieœ z ty³u.}
-{207}{}{S³uchaj. Masz tutaj pecha. Po tym, co sta³o siê Fannie Mae, ¿adna z innych moich dziewczyn nie chce z tob¹ przebywaæ... i wcale im siê nie dziwiê.}
-{208}{}{Tutaj pracuj¹ tylko panienki, moja droga. Je¿eli ci to pasuje, to dolar jest dolarem. Spróbuj pogadaæ z Fannie Mae. Jest gdzieœ z ty³u. Resztê mo¿esz z ni¹ sama ustaliæ.}
-{209}{}{Dobry pomys³. Zrobiê tak. Do widzenia.}
-{210}{}{Ale ja nie... w porz¹dku. Do zobaczenia.}
-{211}{}{Nie mogê uwierzyæ, przez ciebie Fannie przedawkowa³a! Po co by³o dawaæ jej tyle pieniêdzy na raz! Ty w ogóle nie myœlisz?}
-{212}{}{Naprawdê, to nie by³o moim zamiarem. S³owo. S³uchaj, Lou... muszê ciê o coœ spytaæ.}
-{213}{}{To, co zrobi³a ze swoim ¿yciem, to ju¿ jej sprawa. ¯egnaj.}
-{214}{}{Dosta³a ode mnie jedyne wyzwolenie z tej gównianej egzystencji, jakie mog³a przyj¹æ. Ty te¿ œwiêta nie jesteœ, Lou. ¯egnaj.}
-{215}{}{A wiêc to ty jesteœ t¹ ofiar¹, która da³a Fannie ca³e te pieni¹dze. Na twoim miejscu bym tego nie robi³a. Nie pomagasz jej tak, jak pewnie myœlisz.}
+{196}{}{DziÄ™ki, Lou. To na razie wszystko, do zobaczenia.}
+{197}{}{Chcesz siÄ™ trochÄ™ przespaÄ‡, co? CÃ³Å¼, to bÄ™dzie ciÄ™ kosztowaÄ‡ $40. Wliczona jest Å›wieÅ¼a, w wiÄ™kszoÅ›ci czysta poÅ›ciel. WciÄ…Å¼ ciÄ™ to interesuje?}
+{198}{}{BiorÄ™ to, Lou.}
+{199}{}{Hmm, chyba zmÄ™czenie nie daje mi siÄ™ jeszcze we znaki. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{200}{}{Nie mam teraz wystarczajÄ…cej iloÅ›ci pieniÄ™dzy. PozwÃ³l jednak, Å¼e spytam ciÄ™ o coÅ› innego.}
+{201}{}{NaleÅ¼ysz do staÅ‚ej klienteli Fannie, co? IdÅº z niÄ… pogadaÄ‡, jest gdzieÅ› tam z tyÅ‚u.}
+{202}{}{SÅ‚uchaj. Masz tutaj pecha. Po tym, co staÅ‚o siÄ™ Fannie Mae, Å¼adna z innych moich dziewczyn nie chce z tobÄ… przebywaÄ‡... i wcale im siÄ™ nie dziwiÄ™.}
+{203}{}{Szukasz kogoÅ›, kto pomoÅ¼e ci ogrzaÄ‡ to duÅ¼e, samotne Å‚Ã³Å¼ko, co? Zobaczmy, kogo mam wolnego. Hmm, dlaczego nie sprÃ³bujesz Fannie Mae? Powinna gdzieÅ› tutaj byÄ‡. Ustal z niÄ… indywidualnie warunki "wspÃ³Å‚pracy".}
+{204}{}{Dobry pomysÅ‚. ZrobiÄ™ tak. Do widzenia.}
+{205}{}{Ale ja nie... w porzÄ…dku. Do zobaczenia.}
+{206}{}{Ty i Fannie juÅ¼ wszystko macie uÅ‚oÅ¼one. IdÅº do niej, jest gdzieÅ› z tyÅ‚u.}
+{207}{}{SÅ‚uchaj. Masz tutaj pecha. Po tym, co staÅ‚o siÄ™ Fannie Mae, Å¼adna z innych moich dziewczyn nie chce z tobÄ… przebywaÄ‡... i wcale im siÄ™ nie dziwiÄ™.}
+{208}{}{Tutaj pracujÄ… tylko panienki, moja droga. JeÅ¼eli ci to pasuje, to dolar jest dolarem. SprÃ³buj pogadaÄ‡ z Fannie Mae. Jest gdzieÅ› z tyÅ‚u. ResztÄ™ moÅ¼esz z niÄ… sama ustaliÄ‡.}
+{209}{}{Dobry pomysÅ‚. ZrobiÄ™ tak. Do widzenia.}
+{210}{}{Ale ja nie... w porzÄ…dku. Do zobaczenia.}
+{211}{}{Nie mogÄ™ uwierzyÄ‡, przez ciebie Fannie przedawkowaÅ‚a! Po co byÅ‚o dawaÄ‡ jej tyle pieniÄ™dzy na raz! Ty w ogÃ³le nie myÅ›lisz?}
+{212}{}{NaprawdÄ™, to nie byÅ‚o moim zamiarem. SÅ‚owo. SÅ‚uchaj, Lou... muszÄ™ ciÄ™ o coÅ› spytaÄ‡.}
+{213}{}{To, co zrobiÅ‚a ze swoim Å¼yciem, to juÅ¼ jej sprawa. Å»egnaj.}
+{214}{}{DostaÅ‚a ode mnie jedyne wyzwolenie z tej gÃ³wnianej egzystencji, jakie mogÅ‚a przyjÄ…Ä‡. Ty teÅ¼ Å›wiÄ™ta nie jesteÅ›, Lou. Å»egnaj.}
+{215}{}{A wiÄ™c to ty jesteÅ› tÄ… ofiarÄ…, ktÃ³ra daÅ‚a Fannie caÅ‚e te pieniÄ…dze. Na twoim miejscu bym tego nie robiÅ‚a. Nie pomagasz jej tak, jak pewnie myÅ›lisz.}
 {216}{}{Co to znaczy?}
-{217}{}{Pomagam jej rozpocz¹æ nowe ¿ycie.}
-{218}{}{Ta, jak chcesz. Pogadajmy o czymœ innym.}
-{219}{}{Mam na myœli to, ¿e Fannie ma problem i pieni¹dze go nie rozwi¹¿¹. Przykro mi ³amaæ ci serce, ale Fannie wystrychnê³a ciê na dudka. Ona chce pieniêdzy, aby kupiæ sobie Jet. Cholernie za du¿o Jetu.}
-{220}{}{Ja myœlê, ¿e po prostu martwisz siê tym, ¿e stracisz jedno ze swoich najlepszych Ÿróde³ dochodu. Chcesz po prostu trzymaæ swoje dziewczyny na wodzy.}
-{221}{}{Ta, jasne. Wystarczy. ¯egnaj.}
-{222}{}{Nowe ¿ycie w innym œwiecie - to wszystko, co robi¹ te twoje dodatkowe pieni¹dze. Tych pieniêdzy u¿ywa, aby po prostu kupowaæ zbyt du¿o Jetu. Któregoœ dnia przeszprycuje, je¿eli nadal bêdziesz dawaæ jej pieni¹dze.}
-{223}{}{Hmm, muszê to przemyœleæ.}
-{224}{}{Przemyœlê to. Do zobaczenia.}
-{225}{}{Mo¿esz sobie myœleæ, co chcesz. Chcê ci po prostu ukazaæ nag¹ prawdê. Twój wybór, czy chcesz pos³uchaæ, czy nie.}
-{226}{}{Ju¿ to znam. Wróæmy do innych spraw.}
-{227}{}{Dziêki, przemyœlê to, co mi powiedzia³aœ. Pozwól, ¿e spytam ciê o coœ innego.}
-{228}{}{Muszê to przemyœleæ. Do zobaczenia.}
-{229}{}{Hmmm...mo¿e mam na to rozwi¹zanie. [Dajesz Lou odtrutkê na Jet]}
+{217}{}{Pomagam jej rozpoczÄ…Ä‡ nowe Å¼ycie.}
+{218}{}{Ta, jak chcesz. Pogadajmy o czymÅ› innym.}
+{219}{}{Mam na myÅ›li to, Å¼e Fannie ma problem i pieniÄ…dze go nie rozwiÄ…Å¼Ä…. Przykro mi Å‚amaÄ‡ ci serce, ale Fannie wystrychnÄ™Å‚a ciÄ™ na dudka. Ona chce pieniÄ™dzy, aby kupiÄ‡ sobie Jet. Cholernie za duÅ¼o Jetu.}
+{220}{}{Ja myÅ›lÄ™, Å¼e po prostu martwisz siÄ™ tym, Å¼e stracisz jedno ze swoich najlepszych ÅºrÃ³deÅ‚ dochodu. Chcesz po prostu trzymaÄ‡ swoje dziewczyny na wodzy.}
+{221}{}{Ta, jasne. Wystarczy. Å»egnaj.}
+{222}{}{Nowe Å¼ycie w innym Å›wiecie - to wszystko, co robiÄ… te twoje dodatkowe pieniÄ…dze. Tych pieniÄ™dzy uÅ¼ywa, aby po prostu kupowaÄ‡ zbyt duÅ¼o Jetu. KtÃ³regoÅ› dnia przeszprycuje, jeÅ¼eli nadal bÄ™dziesz dawaÄ‡ jej pieniÄ…dze.}
+{223}{}{Hmm, muszÄ™ to przemyÅ›leÄ‡.}
+{224}{}{PrzemyÅ›lÄ™ to. Do zobaczenia.}
+{225}{}{MoÅ¼esz sobie myÅ›leÄ‡, co chcesz. ChcÄ™ ci po prostu ukazaÄ‡ nagÄ… prawdÄ™. TwÃ³j wybÃ³r, czy chcesz posÅ‚uchaÄ‡, czy nie.}
+{226}{}{JuÅ¼ to znam. WrÃ³Ä‡my do innych spraw.}
+{227}{}{DziÄ™ki, przemyÅ›lÄ™ to, co mi powiedziaÅ‚aÅ›. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{228}{}{MuszÄ™ to przemyÅ›leÄ‡. Do zobaczenia.}
+{229}{}{Hmmm...moÅ¼e mam na to rozwiÄ…zanie. [Dajesz Lou odtrutkÄ™ na Jet]}
 {230}{}{A to co za towar?}
-{231}{}{Wyleczy j¹ z uzale¿nienia. Nastêpnym razem jak zamówi drinka, dodaj to do niego.}
-{232}{}{Có¿...dobra. Czy jest jeszcze coœ, co chcesz?}
-{233}{}{Interesuje mnie dostanie czegoœ.}
-{234}{}{Co siê dzieje w tym mieœcie?}
-{300}{}{Uda³o ci siê pomóc Fannie's wyleczyæ siê z uzale¿nienia.}
-{301}{}{¯egnaj.}
-{310}{}{Chyba mam coœ co pomo¿e Fannie. [Daj Lou antidotum na jet.]}
-{1103}{}{Witaj. Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Chcê ci tylko powiedzieæ, ¿e jestem wdziêczna za to, co tu siê sta³o. Jak mogê ci pomóc?}
-{1104}{}{Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Wiêzienie to za ³agodna kara za to, co zrobi³ ten drañ.}
-{1105}{}{Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Nie mogê uwierzyæ, ¿e ten drañ, który poci¹³ moj¹ dziewczynê, przez ciebie chodzi wolny. Masz czelnoœæ siê tu pokazywaæ. Czego tu do cholery chcesz? Czego chcesz?}
-{1106}{}{Wci¹¿ masz nie po kolei w g³owie. Ale ¿ycie p³ynie dalej, dla reszty z nas. Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. A teraz czego chcesz?}
-{1107}{}{Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Pamiêtaj, co powiedzia³am. Za du¿o pieniêdzy nie jest dobre dla tej panienki. A teraz, czego potrzebujesz?}
+{231}{}{Wyleczy jÄ… z uzaleÅ¼nienia. NastÄ™pnym razem jak zamÃ³wi drinka, dodaj to do niego.}
+{232}{}{CÃ³Å¼...dobra. Czy jest jeszcze coÅ›, co chcesz?}
+{233}{}{Interesuje mnie dostanie czegoÅ›.}
+{234}{}{Co siÄ™ dzieje w tym mieÅ›cie?}
+{300}{}{UdaÅ‚o ci siÄ™ pomÃ³c Fannie's wyleczyÄ‡ siÄ™ z uzaleÅ¼nienia.}
+{301}{}{Å»egnaj.}
+{310}{}{Chyba mam coÅ› co pomoÅ¼e Fannie. [Daj Lou antidotum na jet.]}
+{1103}{}{Witaj. Jestem Lou, wÅ‚aÅ›cicielka Saloonu Malamute, najlepszego domu na pÃ³Å‚noc od San Fran. ChcÄ™ ci tylko powiedzieÄ‡, Å¼e jestem wdziÄ™czna za to, co tu siÄ™ staÅ‚o. Jak mogÄ™ ci pomÃ³c?}
+{1104}{}{Jestem Lou, wÅ‚aÅ›cicielka Saloonu Malamute, najlepszego domu na pÃ³Å‚noc od San Fran. WiÄ™zienie to za Å‚agodna kara za to, co zrobiÅ‚ ten draÅ„.}
+{1105}{}{Jestem Lou, wÅ‚aÅ›cicielka Saloonu Malamute, najlepszego domu na pÃ³Å‚noc od San Fran. Nie mogÄ™ uwierzyÄ‡, Å¼e ten draÅ„, ktÃ³ry pociÄ…Å‚ mojÄ… dziewczynÄ™, przez ciebie chodzi wolny. Masz czelnoÅ›Ä‡ siÄ™ tu pokazywaÄ‡. Czego tu do cholery chcesz? Czego chcesz?}
+{1106}{}{WciÄ…Å¼ masz nie po kolei w gÅ‚owie. Ale Å¼ycie pÅ‚ynie dalej, dla reszty z nas. Jestem Lou, wÅ‚aÅ›cicielka Saloonu Malamute, najlepszego domu na pÃ³Å‚noc od San Fran. A teraz czego chcesz?}
+{1107}{}{Jestem Lou, wÅ‚aÅ›cicielka Saloonu Malamute, najlepszego domu na pÃ³Å‚noc od San Fran. PamiÄ™taj, co powiedziaÅ‚am. Za duÅ¼o pieniÄ™dzy nie jest dobre dla tej panienki. A teraz, czego potrzebujesz?}

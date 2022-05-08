@@ -1,37 +1,37 @@
-{100}{}{Ves a una mujer con una expresión preocupada en el rostro.}
+{100}{}{Ves a una mujer con una expresiÃ³n preocupada en el rostro.}
 {101}{}{Ves a Suze.}
-{102}{}{Ves a una mujer con una expresión preocupada en el rostro.}
-{103}{}{¡Aaaah! ¡Ayúdame!}
-{104}{}{¡Sálvame! ¡Por favor!}
-{105}{}{¡Están intentando matarme!}
-{106}{}{¡Por favor! ¡Van a matarme!}
-{107}{}{¡Detenlos! ¡Aaaah!}
-{108}{}{¿Te ha enviado Badger? Sabía que lo haría. Estoy salvada.}
+{102}{}{Ves a una mujer con una expresiÃ³n preocupada en el rostro.}
+{103}{}{Â¡Aaaah! Â¡AyÃºdame!}
+{104}{}{Â¡SÃ¡lvame! Â¡Por favor!}
+{105}{}{Â¡EstÃ¡n intentando matarme!}
+{106}{}{Â¡Por favor! Â¡Van a matarme!}
+{107}{}{Â¡Detenlos! Â¡Aaaah!}
+{108}{}{Â¿Te ha enviado Badger? SabÃ­a que lo harÃ­a. Estoy salvada.}
 {109}{}{Aagggh.}
-{110}{}{¿Qué estabas haciendo ahí abajo?}
-{111}{}{Sí. Sígueme.}
-{112}{}{Oh, pobrecito. La radiación y el Yermo no son una maravilla, ¿eh? Espero que alguien pueda ayudarte.}
-{113}{}{Fue una estupidez, en realidad. Sólo estaba explorando porque Badger fue donde la computadora y yo fui escaleras abajo y me perdí y entonces lo siguiente que pasó ya lo sabes, rodeada de monstruos. Menos mal que llegaste.}
-{114}{}{Tengo más preguntas.}
-{115}{}{Sí, eso es. ¿Encontraste algo interesante?}
-{116}{}{Sí, eso es. Vamos.}
-{117}{}{Encontré la habitación estaba en. También se encuentra una sala que parecía un combustible de la zona. No me llega mucho más lejos, porque de los monstruos.}
-{118}{}{Tengo más preguntas.}
-{119}{}{¿De dónde eres?}
+{110}{}{Â¿QuÃ© estabas haciendo ahÃ­ abajo?}
+{111}{}{SÃ­. SÃ­gueme.}
+{112}{}{Oh, pobrecito. La radiaciÃ³n y el Yermo no son una maravilla, Â¿eh? Espero que alguien pueda ayudarte.}
+{113}{}{Fue una estupidez, en realidad. SÃ³lo estaba explorando porque Badger fue donde la computadora y yo fui escaleras abajo y me perdÃ­ y entonces lo siguiente que pasÃ³ ya lo sabes, rodeada de monstruos. Menos mal que llegaste.}
+{114}{}{Tengo mÃ¡s preguntas.}
+{115}{}{SÃ­, eso es. Â¿Encontraste algo interesante?}
+{116}{}{SÃ­, eso es. Vamos.}
+{117}{}{EncontrÃ© la habitaciÃ³n estaba en. TambiÃ©n se encuentra una sala que parecÃ­a un combustible de la zona. No me llega mucho mÃ¡s lejos, porque de los monstruos.}
+{118}{}{Tengo mÃ¡s preguntas.}
+{119}{}{Â¿De dÃ³nde eres?}
 {120}{}{Genial. Eso es todo por ahora.}
-{121}{}{Soy de un lugar al sur del Cementerio y al sur de el Resplandor. No estamos demasiado lejos de la mar. Yo solía ser una niñera, pero luego los niños mutado en monstruos.}
-{122}{}{Tengo más preguntas.}
-{123}{}{¿Cómo te encontraste con Badger?}
+{121}{}{Soy de un lugar al sur del Cementerio y al sur de el Resplandor. No estamos demasiado lejos de la mar. Yo solÃ­a ser una niÃ±era, pero luego los niÃ±os mutado en monstruos.}
+{122}{}{Tengo mÃ¡s preguntas.}
+{123}{}{Â¿CÃ³mo te encontraste con Badger?}
 {124}{}{Fascinante. Eso es todo por ahora.}
-{125}{}{Venía del sur y fue a un club al que yo solía ir. Así que cuando todo se derrumbó a mi alrededor, pensé que éste sería el lugar al que dirigirse.}
-{126}{}{Tengo más preguntas.}
+{125}{}{VenÃ­a del sur y fue a un club al que yo solÃ­a ir. AsÃ­ que cuando todo se derrumbÃ³ a mi alrededor, pensÃ© que Ã©ste serÃ­a el lugar al que dirigirse.}
+{126}{}{Tengo mÃ¡s preguntas.}
 {127}{}{Eso es todo. Gracias.}
-{128}{}{Me salvaste la vida. Contestaré a cualquier pregunta que me hagas.}
+{128}{}{Me salvaste la vida. ContestarÃ© a cualquier pregunta que me hagas.}
 {129}{}{Yaaaah.}
-{130}{}{¿Qué estabas haciendo ahí abajo?}
-{131}{}{¿Encontraste algo interesante?}
-{132}{}{¿De dónde eres?}
-{133}{}{¿Cómo te encontraste con Badger?}
-{134}{}{Ahora mismo nada. Adiós.}
-{135}{}{Oh mi dios... Tejón está muerto... no sé qué voy a hacer... no tengo amigos aquí... toda mi familia está muerta... ¡oh, dios mío...}
+{130}{}{Â¿QuÃ© estabas haciendo ahÃ­ abajo?}
+{131}{}{Â¿Encontraste algo interesante?}
+{132}{}{Â¿De dÃ³nde eres?}
+{133}{}{Â¿CÃ³mo te encontraste con Badger?}
+{134}{}{Ahora mismo nada. AdiÃ³s.}
+{135}{}{Oh mi dios... TejÃ³n estÃ¡ muerto... no sÃ© quÃ© voy a hacer... no tengo amigos aquÃ­... toda mi familia estÃ¡ muerta... Â¡oh, dios mÃ­o...}
 {136}{}{Gracias por toda tu ayuda. Voy a ir a buscar a Badger.}

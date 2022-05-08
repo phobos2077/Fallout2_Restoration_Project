@@ -1,112 +1,112 @@
-{100}{}{Ves a un hombre alto y delgado que te mira evaluándote.}
-{101}{}{Ves a Josh Laurance, propietario del Salón Último Suspiro.}
+{100}{}{Ves a un hombre alto y delgado que te mira evaluÃ¡ndote.}
+{101}{}{Ves a Josh Laurance, propietario del SalÃ³n Ãšltimo Suspiro.}
 {102}{}{Ves a un hombre que te mira como si estuviera tomando tus medidas.}
-{103}{}{Desaparece de aquí.}
-{104}{}{¿Qué diablos estás haciendo aquí, idiota?}
+{103}{}{Desaparece de aquÃ­.}
+{104}{}{Â¿QuÃ© diablos estÃ¡s haciendo aquÃ­, idiota?}
 {105}{}{Este lugar no es para ti.}
-{106}{}{Lárgate de aquí. ¡Venga, jodido idiota!}
-{107}{}{Sal de aquí antes de que estropees el suelo.}
-{108}{}{Hola, amigo. Me llamo Josh Laurance. Soy el dueño de este lugar.}
-{109}{}{¿Qué puedo hacer por ti?}
-{110}{}{¿Qué es este lugar, en concreto?}
-{111}{}{Me gustaría tomar una copa.}
-{112}{}{Me gustaría invitar a una ronda a todo el mundo.}
-{113}{}{Me gustaría pagarle a una ronda a los amigos que me acompañan.}
-{114}{}{¿Qué está pasando por la ciudad últimamente?}
-{115}{}{Ahora mismo nada. Sólo pasaba por aquí. Adiós.}
+{106}{}{LÃ¡rgate de aquÃ­. Â¡Venga, jodido idiota!}
+{107}{}{Sal de aquÃ­ antes de que estropees el suelo.}
+{108}{}{Hola, amigo. Me llamo Josh Laurance. Soy el dueÃ±o de este lugar.}
+{109}{}{Â¿QuÃ© puedo hacer por ti?}
+{110}{}{Â¿QuÃ© es este lugar, en concreto?}
+{111}{}{Me gustarÃ­a tomar una copa.}
+{112}{}{Me gustarÃ­a invitar a una ronda a todo el mundo.}
+{113}{}{Me gustarÃ­a pagarle a una ronda a los amigos que me acompaÃ±an.}
+{114}{}{Â¿QuÃ© estÃ¡ pasando por la ciudad Ãºltimamente?}
+{115}{}{Ahora mismo nada. SÃ³lo pasaba por aquÃ­. AdiÃ³s.}
 {116}{}{No le sirvo a "eso".}
-{117}{}{Saca de aquí a tu "amigo".}
-{118}{}{Esto no es un maldito espectáculo de fenómenos. Saca eso de aquí.}
+{117}{}{Saca de aquÃ­ a tu "amigo".}
+{118}{}{Esto no es un maldito espectÃ¡culo de fenÃ³menos. Saca eso de aquÃ­.}
 {119}{}{Eso no va a entrar en mi local.}
-{120}{}{Aquí no servimos a los de esa clase. Fuera.}
-{121}{}{Este es el Salón y Funeraria Último Suspiro. Un establecimiento de servicio completo. "De la botella a la tumba"
+{120}{}{AquÃ­ no servimos a los de esa clase. Fuera.}
+{121}{}{Este es el SalÃ³n y Funeraria Ãšltimo Suspiro. Un establecimiento de servicio completo. "De la botella a la tumba"
  es nuestro lema.}
-{122}{}{Parece una extraña combinación, Josh.}
-{123}{}{Serías el orgullo de Lucrecia Borgia, Josh.}
-{124}{}{¿Qué tengo que hacer para comprar un ataúd?}
-{125}{}{¿Cómo organizo un servicio funerario?}
-{126}{}{Me aseguraré de mantenerme lejos de tu ginebra de bañera.}
-{127}{}{Ciertamente. Serán 5 dólares.}
-{128}{}{Aquí está tu dinero.}
-{129}{}{Creo que ya no quiero una cerveza en este momento, después de todo. Pero déjame que te pregunte algo.}
-{130}{}{Eso es generoso por tu parte. Serán 50 dólares por una ronda de cervezas para todas estas cabezas. Vaya, soy un poeta
- y ni lo sabía.}
-{131}{}{Ouch. Los juegos de palabras matan, Josh. Sólo es una advertencia amistosa. Aquí está tu dinero.}
-{132}{}{Hmm, ese juego de palabras le acaba de quitar toda la gracia a la idea. En vez de eso, déjame que te pregunte algo.}
-{133}{}{No pareces la clase de colega que necesitan estos tipos. Te costará }
-{134}{}{Merece la pena. Aquí tienes.}
-{135}{}{Pensándolo bien, será mejor que todo el mundo se mantenga sobrio. Déjame que te haga unas preguntas, mejor.}
-{136}{}{Las cosas están mejorando para mí contigo fomentando el negocio. Sigue haciendo un buen trabajo. De todos
+{122}{}{Parece una extraÃ±a combinaciÃ³n, Josh.}
+{123}{}{SerÃ­as el orgullo de Lucrecia Borgia, Josh.}
+{124}{}{Â¿QuÃ© tengo que hacer para comprar un ataÃºd?}
+{125}{}{Â¿CÃ³mo organizo un servicio funerario?}
+{126}{}{Me asegurarÃ© de mantenerme lejos de tu ginebra de baÃ±era.}
+{127}{}{Ciertamente. SerÃ¡n 5 dÃ³lares.}
+{128}{}{AquÃ­ estÃ¡ tu dinero.}
+{129}{}{Creo que ya no quiero una cerveza en este momento, despuÃ©s de todo. Pero dÃ©jame que te pregunte algo.}
+{130}{}{Eso es generoso por tu parte. SerÃ¡n 50 dÃ³lares por una ronda de cervezas para todas estas cabezas. Vaya, soy un poeta
+ y ni lo sabÃ­a.}
+{131}{}{Ouch. Los juegos de palabras matan, Josh. SÃ³lo es una advertencia amistosa. AquÃ­ estÃ¡ tu dinero.}
+{132}{}{Hmm, ese juego de palabras le acaba de quitar toda la gracia a la idea. En vez de eso, dÃ©jame que te pregunte algo.}
+{133}{}{No pareces la clase de colega que necesitan estos tipos. Te costarÃ¡ }
+{134}{}{Merece la pena. AquÃ­ tienes.}
+{135}{}{PensÃ¡ndolo bien, serÃ¡ mejor que todo el mundo se mantenga sobrio. DÃ©jame que te haga unas preguntas, mejor.}
+{136}{}{Las cosas estÃ¡n mejorando para mÃ­ contigo fomentando el negocio. Sigue haciendo un buen trabajo. De todos
  modos, dame algo que hacer.}
-{137}{}{Bien, no es que tenga que prestar demasiada atención. Mi negocio es casi siempre muy tranquilo. Podría decirse
- que es como una tumba. Aunque, últimamente eso no significa mucho.}
-{138}{}{¿Eh? ¿Qué quieres decir?}
-{139}{}{Eso es. Pero no podía llegar a fin de mes sólo enterrando gente: se podría decir que el negocio estaría muerto.
- Oh, era un problema grave. Así que emprendí la tarea de arreglar el lugar para vender bebidas, también.}
-{140}{}{Uh-huh. Ahora casi temo preguntarte algo más. Pero supongo que lo haré de todos modos.}
-{141}{}{Eh, ¿ver a todos esos fiambres por aquí no hace vomitar a la gente?}
-{142}{}{No creo que pueda soportar otro juego de palabras. Me marcho. Adiós.}
-{143}{}{Bueno, lo haría si fueran reales. Pero no lo son. No todos ellos, en todo caso. Además, a los
+{137}{}{Bien, no es que tenga que prestar demasiada atenciÃ³n. Mi negocio es casi siempre muy tranquilo. PodrÃ­a decirse
+ que es como una tumba. Aunque, Ãºltimamente eso no significa mucho.}
+{138}{}{Â¿Eh? Â¿QuÃ© quieres decir?}
+{139}{}{Eso es. Pero no podÃ­a llegar a fin de mes sÃ³lo enterrando gente: se podrÃ­a decir que el negocio estarÃ­a muerto.
+ Oh, era un problema grave. AsÃ­ que emprendÃ­ la tarea de arreglar el lugar para vender bebidas, tambiÃ©n.}
+{140}{}{Uh-huh. Ahora casi temo preguntarte algo mÃ¡s. Pero supongo que lo harÃ© de todos modos.}
+{141}{}{Eh, Â¿ver a todos esos fiambres por aquÃ­ no hace vomitar a la gente?}
+{142}{}{No creo que pueda soportar otro juego de palabras. Me marcho. AdiÃ³s.}
+{143}{}{Bueno, lo harÃ­a si fueran reales. Pero no lo son. No todos ellos, en todo caso. AdemÃ¡s, a los
  mineros les gusta bastante. Les hace sentirse felices por estar vivos.}
 {144}{}{Creo que eso es espeluznante. Eres un individuo muy perturbado.}
-{145}{}{Ya veo. Bien, deja que te pregunte algo más.}
-{146}{}{Supongo que algunas personas se sentirán así. Pero no es mi caso. Simplemente me hace sentir un poco
- mareado. Adiós.}
-{147}{}{¿Dices de MÍ que soy espeluznante? Porque yo he oído que los tribales se comen a sus malditos muertos.}
-{148}{}{¿Cómo sino podríamos absorber su esencia?}
-{149}{}{Eh, no te pases. Primero los cocinamos. No somos salvajes, después de todo.}
-{150}{}{Eso es ridículo. ¿Dónde has oído eso?}
-{151}{}{No lo sé exactamente. Pero es un hecho tan cierto como carente de importancia. ¿Por que si no os limaríais los dientes
- en punta? ¿Eh? ¡Respóndeme a eso!}
-{152}{}{Yo no me limo los dientes en… oh, qué mas da. Deja que te pregunte otra cosa.}
-{153}{}{Muchas gracias. ¿Alguna otra cosa?}
-{154}{}{En realidad, había otra cosa.}
+{145}{}{Ya veo. Bien, deja que te pregunte algo mÃ¡s.}
+{146}{}{Supongo que algunas personas se sentirÃ¡n asÃ­. Pero no es mi caso. Simplemente me hace sentir un poco
+ mareado. AdiÃ³s.}
+{147}{}{Â¿Dices de MÃ que soy espeluznante? Porque yo he oÃ­do que los tribales se comen a sus malditos muertos.}
+{148}{}{Â¿CÃ³mo sino podrÃ­amos absorber su esencia?}
+{149}{}{Eh, no te pases. Primero los cocinamos. No somos salvajes, despuÃ©s de todo.}
+{150}{}{Eso es ridÃ­culo. Â¿DÃ³nde has oÃ­do eso?}
+{151}{}{No lo sÃ© exactamente. Pero es un hecho tan cierto como carente de importancia. Â¿Por que si no os limarÃ­ais los dientes
+ en punta? Â¿Eh? Â¡RespÃ³ndeme a eso!}
+{152}{}{Yo no me limo los dientes enâ€¦ oh, quÃ© mas da. Deja que te pregunte otra cosa.}
+{153}{}{Muchas gracias. Â¿Alguna otra cosa?}
+{154}{}{En realidad, habÃ­a otra cosa.}
 {155}{}{No, eso es todo por ahora. Gracias, Josh.}
-{156}{}{¿Qué quieres decir con eso?}
-{157}{}{Sólo quería decir que parece una combinación, hmm, *inusual*.}
-{158}{}{Nada, nada en absoluto. Déjame hacerte algunas preguntas más, Josh.}
-{159}{}{Sólo quería decir que iré a beber algo a algún lugar menos tieso... eh, me refiero a informal, por
- supuesto. Adiós.}
-{160}{}{He estado pasando el tiempo volviendo a enterrar a la gente en el cementerio de ahí al lado. Alguien -o algo- los
- desentierra. A saber por qué. Quiero decir, no es como si llevaran encima algo de valor.}
-{161}{}{¿Están excavando las tumbas?}
-{162}{}{¿Cómo sabes que no llevan encima nada de valor?}
-{163}{}{Seguramente no sean más que ratas. Déjame preguntarte otra cosa.}
-{164}{}{Bien, no lo sé seguro… eh, um. Sólo lo suponía. Sí, eso es. Oye, ten una
+{156}{}{Â¿QuÃ© quieres decir con eso?}
+{157}{}{SÃ³lo querÃ­a decir que parece una combinaciÃ³n, hmm, *inusual*.}
+{158}{}{Nada, nada en absoluto. DÃ©jame hacerte algunas preguntas mÃ¡s, Josh.}
+{159}{}{SÃ³lo querÃ­a decir que irÃ© a beber algo a algÃºn lugar menos tieso... eh, me refiero a informal, por
+ supuesto. AdiÃ³s.}
+{160}{}{He estado pasando el tiempo volviendo a enterrar a la gente en el cementerio de ahÃ­ al lado. Alguien -o algo- los
+ desentierra. A saber por quÃ©. Quiero decir, no es como si llevaran encima algo de valor.}
+{161}{}{Â¿EstÃ¡n excavando las tumbas?}
+{162}{}{Â¿CÃ³mo sabes que no llevan encima nada de valor?}
+{163}{}{Seguramente no sean mÃ¡s que ratas. DÃ©jame preguntarte otra cosa.}
+{164}{}{Bien, no lo sÃ© seguroâ€¦ eh, um. SÃ³lo lo suponÃ­a. SÃ­, eso es. Oye, ten una
  cerveza gratis.}
-{165}{}{No sé lo que estás insinuando pero no me gusta.}
-{166}{}{Gracias por la cerveza. ¿A qué te refieres con que se están excavando?}
-{167}{}{Vale, dime a qué te refieres cuando dices que se están excavando.}
-{168}{}{Bueno, nunca he visto nada, pero una vez a la semana más o menos, alguna de las tumbas está toda
- manoseada y como medio excavada. No sé a ciencia cierta quién o por qué.}
-{169}{}{Eso es extraño.}
+{165}{}{No sÃ© lo que estÃ¡s insinuando pero no me gusta.}
+{166}{}{Gracias por la cerveza. Â¿A quÃ© te refieres con que se estÃ¡n excavando?}
+{167}{}{Vale, dime a quÃ© te refieres cuando dices que se estÃ¡n excavando.}
+{168}{}{Bueno, nunca he visto nada, pero una vez a la semana mÃ¡s o menos, alguna de las tumbas estÃ¡ toda
+ manoseada y como medio excavada. No sÃ© a ciencia cierta quiÃ©n o por quÃ©.}
+{169}{}{Eso es extraÃ±o.}
 {170}{}{Preocupante es lo que es. Ahora los mineros me dicen que prefieren descansar eternamente
- aquí dentro, en lugar de que los planten sólo para que los extraigan como un nabo maduro. Demonios, no me
- importaría dejar a los guapos en el interior, pero no a todos. No sé que se puede hacer al respecto.}
-{171}{}{Qué imagen más agradable. Estoy seguro que me voy a despertar con sudores fríos pensando en eso. Déjame preguntarte algo más.}
-{172}{}{Es un misterio, desde luego. Bien, ya nos veremos, Josh. Adiós.}
-{173}{}{Bien, supongo que cocinándolos… espera un jodido instante. ¡Eso sigue siendo canibalismo! Eres
+ aquÃ­ dentro, en lugar de que los planten sÃ³lo para que los extraigan como un nabo maduro. Demonios, no me
+ importarÃ­a dejar a los guapos en el interior, pero no a todos. No sÃ© que se puede hacer al respecto.}
+{171}{}{QuÃ© imagen mÃ¡s agradable. Estoy seguro que me voy a despertar con sudores frÃ­os pensando en eso. DÃ©jame preguntarte algo mÃ¡s.}
+{172}{}{Es un misterio, desde luego. Bien, ya nos veremos, Josh. AdiÃ³s.}
+{173}{}{Bien, supongo que cocinÃ¡ndolosâ€¦ espera un jodido instante. Â¡Eso sigue siendo canibalismo! Eres
  un enfermo, incluso para ser un tribal.}
-{174}{}{Relájate, Josh. Sólo bromeaba. Je, je. Diablos, sólo cocinamos algunas partes de ellos.}
-{175}{}{Partes, ¿eh? ¿Qué partes, exactamente?}
-{176}{}{¿A quién le importa? (te encoges de hombros) Partes son partes.}
-{177}{}{Te estaba tomando el pelo, Josh. Deja que te pregunte algo más.}
-{178}{}{Sí, bueno, supongo que eso tiene sentido, de alguna forma.}
-{179}{}{Claro que sí. Oye, déjame preguntarte algo más.}
-{180}{}{Hablando de eso, me ha entrado hambre. Nos vemos más tarde, Josh. Adiós.}
-{181}{}{Jodidos marcianos. Y yo que te confundí con un maldito tribal. Bien, no me siento estúpido. Al final,
- los caníbales siempre son caníbales en mi opinión.}
-{182}{}{Oye, primero los cocinamos. No somos salvajes, después de todo.}
-{183}{}{¡Deja mi pelo, caníbal! Me sigue haciendo falta. Búscate
- otro tentempié.}
-{184}{}{Relájate, que te pones duro y correoso. Je, je. Es broma… más o menos. Deja que te
- pregunte algo más, Josh.}
-{185}{}{Bien, echaré un vistazo por ahí. Pero si no encuentro nada mejor, volveré. Adiós… por ahora.}
-{186}{}{Primero habría que comprar la finca. ¿Planeando la compra de bienes raíces a corto plazo?}
-{187}{}{Eh, nada de fincas, de todos modos. Déjame preguntarte algo más.}
-{188}{}{Podría ayudar a un par de personas a comprar una finca por aquí. Ya nos veremos, Josh.}
-{189}{}{Bueno, supongo que comenzarás dándole el pasaporte a alguien. Pero te lo advierto. Al sheriff Marion no le
+{174}{}{RelÃ¡jate, Josh. SÃ³lo bromeaba. Je, je. Diablos, sÃ³lo cocinamos algunas partes de ellos.}
+{175}{}{Partes, Â¿eh? Â¿QuÃ© partes, exactamente?}
+{176}{}{Â¿A quiÃ©n le importa? (te encoges de hombros) Partes son partes.}
+{177}{}{Te estaba tomando el pelo, Josh. Deja que te pregunte algo mÃ¡s.}
+{178}{}{SÃ­, bueno, supongo que eso tiene sentido, de alguna forma.}
+{179}{}{Claro que sÃ­. Oye, dÃ©jame preguntarte algo mÃ¡s.}
+{180}{}{Hablando de eso, me ha entrado hambre. Nos vemos mÃ¡s tarde, Josh. AdiÃ³s.}
+{181}{}{Jodidos marcianos. Y yo que te confundÃ­ con un maldito tribal. Bien, no me siento estÃºpido. Al final,
+ los canÃ­bales siempre son canÃ­bales en mi opiniÃ³n.}
+{182}{}{Oye, primero los cocinamos. No somos salvajes, despuÃ©s de todo.}
+{183}{}{Â¡Deja mi pelo, canÃ­bal! Me sigue haciendo falta. BÃºscate
+ otro tentempiÃ©.}
+{184}{}{RelÃ¡jate, que te pones duro y correoso. Je, je. Es bromaâ€¦ mÃ¡s o menos. Deja que te
+ pregunte algo mÃ¡s, Josh.}
+{185}{}{Bien, echarÃ© un vistazo por ahÃ­. Pero si no encuentro nada mejor, volverÃ©. AdiÃ³sâ€¦ por ahora.}
+{186}{}{Primero habrÃ­a que comprar la finca. Â¿Planeando la compra de bienes raÃ­ces a corto plazo?}
+{187}{}{Eh, nada de fincas, de todos modos. DÃ©jame preguntarte algo mÃ¡s.}
+{188}{}{PodrÃ­a ayudar a un par de personas a comprar una finca por aquÃ­. Ya nos veremos, Josh.}
+{189}{}{Bueno, supongo que comenzarÃ¡s dÃ¡ndole el pasaporte a alguien. Pero te lo advierto. Al sheriff Marion no le
  hace mucha gracia ese tipo de comportamiento.}
-{190}{}{Intentaré comportarme. Déjame hacerte algunas preguntas más, Josh.}
-{191}{}{Ya veo... bien, al menos sé con quién hablar si ocurre algún desafortunado *accidente*. Adiós,
+{190}{}{IntentarÃ© comportarme. DÃ©jame hacerte algunas preguntas mÃ¡s, Josh.}
+{191}{}{Ya veo... bien, al menos sÃ© con quiÃ©n hablar si ocurre algÃºn desafortunado *accidente*. AdiÃ³s,
  Josh.}

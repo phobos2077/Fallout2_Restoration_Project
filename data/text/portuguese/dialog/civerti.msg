@@ -1,40 +1,40 @@
-{100}{}{Você vê uma grande aeronave.}
-{101}{}{Você vê um Vertibird.}
-{200}{}{[Você subiu na aeronave e acessa o terminal piloto.] Bem-vindo ao PoseidoNet. Este terminal é limitado à transmissão entre o Enclave Vertibird e a plataforma de ancoragem. Comando?}
+{100}{}{VocÃª vÃª uma grande aeronave.}
+{101}{}{VocÃª vÃª um Vertibird.}
+{200}{}{[VocÃª subiu na aeronave e acessa o terminal piloto.] Bem-vindo ao PoseidoNet. Este terminal Ã© limitado Ã  transmissÃ£o entre o Enclave Vertibird e a plataforma de ancoragem. Comando?}
 {201}{}{Status.}
-{202}{}{Termine a sessão.}
-{203}{}{Esta aeronave tem apenas combustível suficiente para um vôo completo de ida e volta do posto avançado de Navarro, até o equipamento de ancoragem e de volta.
-  Todos os procedimentos são totalmente automatizados e, portanto, nenhuma intervenção dos membros da tripulação é necessária. O estado atual do combustível é: completo.}
-{204}{}{Voe para a Plataforma de Petróleo.}
-{205}{}{Termine a sessão.}
-{206}{}{Erro. Cartão Amarelo do Reator não inserido. Todos os pilotos recebem este cartão após o apuramento para decolagem.
-  O voo automatizado não pode ocorrer sem a presença deste cartão de apuramento.}
-{207}{}{Inserir o cartão.}
-{208}{}{Merda. Parece que vou ter de encontrar este cartão.}
-{209}{}{Cartão aceito. Aeronave está agora activado.}
-{210}{}{Execução de pré-voo de diagnóstico.}
-{211}{}{Termine a sessão.}
-{212}{}{Início de diagnósticos do sistema...35% concluída...75%...100% completa. Todos os sistemas aparecem operacional. Verificação de resposta a partir de acoplamento de equipamento de...}
+{202}{}{Termine a sessÃ£o.}
+{203}{}{Esta aeronave tem apenas combustÃ­vel suficiente para um vÃ´o completo de ida e volta do posto avanÃ§ado de Navarro, atÃ© o equipamento de ancoragem e de volta.
+Â  Todos os procedimentos sÃ£o totalmente automatizados e, portanto, nenhuma intervenÃ§Ã£o dos membros da tripulaÃ§Ã£o Ã© necessÃ¡ria. O estado atual do combustÃ­vel Ã©: completo.}
+{204}{}{Voe para a Plataforma de PetrÃ³leo.}
+{205}{}{Termine a sessÃ£o.}
+{206}{}{Erro. CartÃ£o Amarelo do Reator nÃ£o inserido. Todos os pilotos recebem este cartÃ£o apÃ³s o apuramento para decolagem.
+Â  O voo automatizado nÃ£o pode ocorrer sem a presenÃ§a deste cartÃ£o de apuramento.}
+{207}{}{Inserir o cartÃ£o.}
+{208}{}{Merda. Parece que vou ter de encontrar este cartÃ£o.}
+{209}{}{CartÃ£o aceito. Aeronave estÃ¡ agora activado.}
+{210}{}{ExecuÃ§Ã£o de prÃ©-voo de diagnÃ³stico.}
+{211}{}{Termine a sessÃ£o.}
+{212}{}{InÃ­cio de diagnÃ³sticos do sistema...35% concluÃ­da...75%...100% completa. Todos os sistemas aparecem operacional. VerificaÃ§Ã£o de resposta a partir de acoplamento de equipamento de...}
 {213}{}{[MAIS]}
-{214}{}{Nenhum sinal retornado da plataforma de ancoragem. Razão: satélites não alinhados para ancoragem automática com plataforma de óleo. Certifique-se de que a plataforma de ancoragem esteja ciente da presença de aeronaves de entrada.}
-{215}{}{Hmm...Parece que vou ter que encontrar uma maneira de alinhar os satélites.}
+{214}{}{Nenhum sinal retornado da plataforma de ancoragem. RazÃ£o: satÃ©lites nÃ£o alinhados para ancoragem automÃ¡tica com plataforma de Ã³leo. Certifique-se de que a plataforma de ancoragem esteja ciente da presenÃ§a de aeronaves de entrada.}
+{215}{}{Hmm...Parece que vou ter que encontrar uma maneira de alinhar os satÃ©lites.}
 {216}{}{Urg?}
 {220}{}{Aeronaves atualmente ativado. Comando?}
-{221}{}{Execução de pré-voo de diagnóstico.}
-{222}{}{Termine a sessão.}
-{230}{}{Teste do sinal recebido. Recuperação de ancoragem coordenadas...completo. Avião pronto para decolar.}
+{221}{}{ExecuÃ§Ã£o de prÃ©-voo de diagnÃ³stico.}
+{222}{}{Termine a sessÃ£o.}
+{230}{}{Teste do sinal recebido. RecuperaÃ§Ã£o de ancoragem coordenadas...completo. AviÃ£o pronto para decolar.}
 {231}{}{Ir.}
-{232}{}{Termine a sessão.}
-{240}{}{Aeronave está bloqueado em um alvo. O tempo de vôo é de aproximadamente 6 horas. Desfrute de seu voo.}
-{241}{}{Este é o momento da verdade. A tribo está em apuros e tudo depende de mim. Meus pés estão doloridos, meu corpo inteiro
-  doe, e não lembro da última vez que comi uma refeição decente. Estes são os momentos em que vivemos. Não há volta atrás.
-  É hora de mostrar ao mundo do que}
-{242}{}{ é feito. Pode vir, Enclave!}
+{232}{}{Termine a sessÃ£o.}
+{240}{}{Aeronave estÃ¡ bloqueado em um alvo. O tempo de vÃ´o Ã© de aproximadamente 6 horas. Desfrute de seu voo.}
+{241}{}{Este Ã© o momento da verdade. A tribo estÃ¡ em apuros e tudo depende de mim. Meus pÃ©s estÃ£o doloridos, meu corpo inteiro
+Â  doe, e nÃ£o lembro da Ãºltima vez que comi uma refeiÃ§Ã£o decente. Estes sÃ£o os momentos em que vivemos. NÃ£o hÃ¡ volta atrÃ¡s.
+Â  Ã‰ hora de mostrar ao mundo do que}
+{242}{}{ Ã© feito. Pode vir, Enclave!}
 {243}{}{Hehe...Voa passarinho, voa!  }
 {244}{}{ salve o dia agora.}
-{300}{}{[Você subiu na aeronave e acessa o terminal piloto.] Bem-vindo ao PoseidoNet. Este terminal é limitado à transmissão entre o Enclave Vertibird e a plataforma de ancoragem. Comando?}
+{300}{}{[VocÃª subiu na aeronave e acessa o terminal piloto.] Bem-vindo ao PoseidoNet. Este terminal Ã© limitado Ã  transmissÃ£o entre o Enclave Vertibird e a plataforma de ancoragem. Comando?}
 {301}{}{Status.}
-{302}{}{Termine a sessão.}
-{303}{}{Esta aeronave tem apenas combustível suficiente para um vôo completo de ida e volta do posto avançado de Navarro, até o equipamento de ancoragem e de volta.
-  Todos os procedimentos são totalmente automatizados e, portanto, nenhuma intervenção dos membros da tripulação é necessária. O estado atual do combustível é: Vazio.}
-{304}{}{Termine a sessão.}
+{302}{}{Termine a sessÃ£o.}
+{303}{}{Esta aeronave tem apenas combustÃ­vel suficiente para um vÃ´o completo de ida e volta do posto avanÃ§ado de Navarro, atÃ© o equipamento de ancoragem e de volta.
+Â  Todos os procedimentos sÃ£o totalmente automatizados e, portanto, nenhuma intervenÃ§Ã£o dos membros da tripulaÃ§Ã£o Ã© necessÃ¡ria. O estado atual do combustÃ­vel Ã©: Vazio.}
+{304}{}{Termine a sessÃ£o.}

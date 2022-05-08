@@ -1,104 +1,104 @@
-{125}{}{Você vê Cody.}
-{175}{}{Você vê um órfão de aparência esfarrapada. Nos restos de sua camisa rasgada está escrito "Cody".}
-{176}{}{Você vê Cody. Ele olha para você mal-humorado.}
-{177}{}{Você vê Cody. Seu olhar poderia fazer as montanhas saírem do caminho.}
-{178}{}{Você vê Cody. Seu nome está rabiscado nos restos de sua camisa rasgada.}
-{200}{}{(A criança te olha mal-humorada quando você se aproxima... você mal consegue ver o rosto dele por baixo de toda a
- sujeira. Nos restos de sua camisa está rabiscado "Cody".)}
-{201}{}{(Cody te olha mal-humorado quando você se aproxima.)}
+{125}{}{VocÃª vÃª Cody.}
+{175}{}{VocÃª vÃª um Ã³rfÃ£o de aparÃªncia esfarrapada. Nos restos de sua camisa rasgada estÃ¡ escrito "Cody".}
+{176}{}{VocÃª vÃª Cody. Ele olha para vocÃª mal-humorado.}
+{177}{}{VocÃª vÃª Cody. Seu olhar poderia fazer as montanhas saÃ­rem do caminho.}
+{178}{}{VocÃª vÃª Cody. Seu nome estÃ¡ rabiscado nos restos de sua camisa rasgada.}
+{200}{}{(A crianÃ§a te olha mal-humorada quando vocÃª se aproxima... vocÃª mal consegue ver o rosto dele por baixo de toda a
+ sujeira. Nos restos de sua camisa estÃ¡ rabiscado "Cody".)}
+{201}{}{(Cody te olha mal-humorado quando vocÃª se aproxima.)}
 {202}{}{Cuchi-cuchi}
-{203}{}{Você devolve o olhar intenso.}
+{203}{}{VocÃª devolve o olhar intenso.}
 {204}{}{ perdeu o carro. }
-{205}{}{Cody, você pode pegar }
+{205}{}{Cody, vocÃª pode pegar }
 {206}{}{Cai fora}
-{207}{}{Oi, Cody. Você está bem? Quer algo para comer, talvez?}
-{208}{}{Oi, Cody. Você está com sede? Quer algo para beber?}
-{209}{}{Onde estão seus pais?}
-{210}{}{Oi, Cody. Você viu meu carro?}
-{211}{}{Cody, você pode me levar para o meu carro agora?}
-{212}{}{Cody, você pode me levar até onde meu carro está?}
-{213}{}{Cody, você pode me levar onde meu carro estava?}
-{214}{}{Você pode me dizer quem roubou?}
+{207}{}{Oi, Cody. VocÃª estÃ¡ bem? Quer algo para comer, talvez?}
+{208}{}{Oi, Cody. VocÃª estÃ¡ com sede? Quer algo para beber?}
+{209}{}{Onde estÃ£o seus pais?}
+{210}{}{Oi, Cody. VocÃª viu meu carro?}
+{211}{}{Cody, vocÃª pode me levar para o meu carro agora?}
+{212}{}{Cody, vocÃª pode me levar atÃ© onde meu carro estÃ¡?}
+{213}{}{Cody, vocÃª pode me levar onde meu carro estava?}
+{214}{}{VocÃª pode me dizer quem roubou?}
 {215}{}{Adeus.}
 {220}{}{(Cody te mostra o dedo do meio e foge.)}
 {221}{}{(Os olhos de Cody se arregalam e ele foge.)}
 {223}{}{EU TE MATO EU TE MATO EU TE MATO EU TE MATO --}
-{224}{}{Talvez da próxima vez, então.}
+{224}{}{Talvez da prÃ³xima vez, entÃ£o.}
 {225}{}{Bostinha...}
-{230}{}{(Cody continua a olhar para você.)}
-{231}{}{Uh, você está bem, Cody?}
-{239}{}{Bem, até logo, Cody. Tome cuidado.}
+{230}{}{(Cody continua a olhar para vocÃª.)}
+{231}{}{Uh, vocÃª estÃ¡ bem, Cody?}
+{239}{}{Bem, atÃ© logo, Cody. Tome cuidado.}
 {251}{}{Eai, Cody. Quer uma nuka cola?}
-{252}{}{Quer uma cerveja, garoto? Nunca se é jovem demais para começar, mamãe costumava dizer. Uh, quando ela estava sóbria, claro.}
-{253}{}{Tenho Jet aqui, Cody. Você quer voar alto com o tio }
-{254}{}{Tenho Jet aqui, Cody. Você quer voar alto com a tia }
-{255}{}{Ei, Cody... quer metanfetamina da boa? Você pode pegar e levar sempre que quiser. Até mesmo com outras crianças.}
+{252}{}{Quer uma cerveja, garoto? Nunca se Ã© jovem demais para comeÃ§ar, mamÃ£e costumava dizer. Uh, quando ela estava sÃ³bria, claro.}
+{253}{}{Tenho Jet aqui, Cody. VocÃª quer voar alto com o tio }
+{254}{}{Tenho Jet aqui, Cody. VocÃª quer voar alto com a tia }
+{255}{}{Ei, Cody... quer metanfetamina da boa? VocÃª pode pegar e levar sempre que quiser. AtÃ© mesmo com outras crianÃ§as.}
 {256}{}{Bem, se cuida, Cody.}
-{257}{}{Desculpe garoto, parece que não tenho nada para te dar.}
+{257}{}{Desculpe garoto, parece que nÃ£o tenho nada para te dar.}
 {261}{}{Quer uma fruta, Cody?}
 {262}{}{Quer um pouco de iguana, Cody? Hmmmm que delicia.}
-{263}{}{Oi, Cody. Quer um delici... er, comestível... pedaço de carne seca de Dunton? Mmmmmm... é... bom.}
+{263}{}{Oi, Cody. Quer um delici... er, comestÃ­vel... pedaÃ§o de carne seca de Dunton? Mmmmmm... Ã©... bom.}
 {270}{}{(Cody pega o item e foge.)}
-{271}{}{::Resmunga baixinho como estão os jovens de hoje.::}
-{272}{}{De nada, criança...! E não mencione isso...!}
-{273}{}{Cacete. Ladrãozinho.}
+{271}{}{::Resmunga baixinho como estÃ£o os jovens de hoje.::}
+{272}{}{De nada, crianÃ§a...! E nÃ£o mencione isso...!}
+{273}{}{Cacete. LadrÃ£ozinho.}
 {274}{}{Eu poderia vender esse ingrato como escravo... hmmmm, espere um minuto...}
-{280}{}{(Cody acena com a cabeça!)}
-{281}{}{(Para sua surpresa, Cody acena com a cabeça.)}
-{282}{}{Você vê }
-{283}{}{É bom você saber onde }
-{284}{}{Você fez isso?! Você pode me levar onde está?}
+{280}{}{(Cody acena com a cabeÃ§a!)}
+{281}{}{(Para sua surpresa, Cody acena com a cabeÃ§a.)}
+{282}{}{VocÃª vÃª }
+{283}{}{Ã‰ bom vocÃª saber onde }
+{284}{}{VocÃª fez isso?! VocÃª pode me levar onde estÃ¡?}
 {286}{}{Bem, eu estava apenas curioso. Voltarei.}
-{290}{}{(Cody olha com medo para Jules do outro lado da rua, que está olhando para vocês dois.)}
-{291}{}{(Cody olha com medo para o homem negro do outro lado da rua, que está olhando para vocês dois.)}
-{292}{}{Oh, REALMENTE... bem, então parece que Jules e meu punho vão ter uma conversinha.}
-{293}{}{Oh REALMENTE... bem, você sabe o que vai acontecer agora, Cody? O homem mau que roubou }
-{294}{}{Oh sério? Bem, eu lido com ele mais tarde. Você pode me levar para onde o carro está agora?}
-{300}{}{(Cody dá de ombros.)}
-{301}{}{Você pode me levar para onde o carro está agora?}
+{290}{}{(Cody olha com medo para Jules do outro lado da rua, que estÃ¡ olhando para vocÃªs dois.)}
+{291}{}{(Cody olha com medo para o homem negro do outro lado da rua, que estÃ¡ olhando para vocÃªs dois.)}
+{292}{}{Oh, REALMENTE... bem, entÃ£o parece que Jules e meu punho vÃ£o ter uma conversinha.}
+{293}{}{Oh REALMENTE... bem, vocÃª sabe o que vai acontecer agora, Cody? O homem mau que roubou }
+{294}{}{Oh sÃ©rio? Bem, eu lido com ele mais tarde. VocÃª pode me levar para onde o carro estÃ¡ agora?}
+{300}{}{(Cody dÃ¡ de ombros.)}
+{301}{}{VocÃª pode me levar para onde o carro estÃ¡ agora?}
 {302}{}{Bem, eu estava apenas curioso. Tchau.}
-{310}{}{(Cody acena com a cabeça novamente, então começa a correr.)}
-{311}{}{(Corre atrás dele.)}
-{312}{}{Oh bem, eu o sigo...oooh, parece areia! Tão marrom! uh... onde Cody está indo?}
-{313}{}{Cody, pare! Eu não quero ir lá agora... Tenho outras coisas para cuidar primeiro. Eu volto daqui a pouco.}
-{320}{}{(A criança te encara quando você se aproxima. Ele está vestindo trapos, e você mal pode ver seu rosto sob toda a
- sujeira. Quando você se aproxima, os olhos dele olham para sua testa, se arregalam, então ele sai correndo.)}
-{321}{}{(De longe, a criança parece vestida em trapos. Quando você se aproxima dele em sua Power Armor, seus olhos se
+{310}{}{(Cody acena com a cabeÃ§a novamente, entÃ£o comeÃ§a a correr.)}
+{311}{}{(Corre atrÃ¡s dele.)}
+{312}{}{Oh bem, eu o sigo...oooh, parece areia! TÃ£o marrom! uh... onde Cody estÃ¡ indo?}
+{313}{}{Cody, pare! Eu nÃ£o quero ir lÃ¡ agora... Tenho outras coisas para cuidar primeiro. Eu volto daqui a pouco.}
+{320}{}{(A crianÃ§a te encara quando vocÃª se aproxima. Ele estÃ¡ vestindo trapos, e vocÃª mal pode ver seu rosto sob toda a
+ sujeira. Quando vocÃª se aproxima, os olhos dele olham para sua testa, se arregalam, entÃ£o ele sai correndo.)}
+{321}{}{(De longe, a crianÃ§a parece vestida em trapos. Quando vocÃª se aproxima dele em sua Power Armor, seus olhos se
  arregalam e ele sai correndo.)}
 {322}{}{Tchau}
 {324}{}{Deveria vender esse pestinha como escravo... hmmmm, espere um minuto...}
-{330}{}{(De longe, a criança parece vestida com trapos. À medida que você se aproxima, os olhos dele se arregalam e ele sai correndo.)}
-{340}{}{(De longe, a criança parece vestida com trapos. Quando ele vê Marco se aproximar, os olhos dele se arregalam e ele sai
+{330}{}{(De longe, a crianÃ§a parece vestida com trapos. Ã€ medida que vocÃª se aproxima, os olhos dele se arregalam e ele sai correndo.)}
+{340}{}{(De longe, a crianÃ§a parece vestida com trapos. Quando ele vÃª Marco se aproximar, os olhos dele se arregalam e ele sai
  correndo.)}
-{350}{}{(De longe, a criança parece vestida com trapos. Ao ver Lenny se aproximar, os olhos dele se arregalam e ele sai
+{350}{}{(De longe, a crianÃ§a parece vestida com trapos. Ao ver Lenny se aproximar, os olhos dele se arregalam e ele sai
  correndo.)}
-{360}{}{(O olhar de Cody quebra quando você se aproxima. Ele pisca quando você se aproxima mais, então dá um leve sorriso.)}
-{361}{}{(A criança te olha mal-humorada quando você se aproxima... você mal consegue ver o rosto dele por baixo de toda a
- sujeira. Nos restos de sua camisa está rabiscado "Cody".}
+{360}{}{(O olhar de Cody quebra quando vocÃª se aproxima. Ele pisca quando vocÃª se aproxima mais, entÃ£o dÃ¡ um leve sorriso.)}
+{361}{}{(A crianÃ§a te olha mal-humorada quando vocÃª se aproxima... vocÃª mal consegue ver o rosto dele por baixo de toda a
+ sujeira. Nos restos de sua camisa estÃ¡ rabiscado "Cody".}
 {362}{}{Heeey Cody}
 {363}{}{Tcha-uu, Codee}
 {364}{}{Como vai, Cody?}
 {365}{}{Eai, Cody. Acabei salvando o mundo. Cara, foi uma DOIDERA. Quem diria que o presidente era um completo babaca? Ufa.
- Então... como vão as coisas com você?}
-{366}{}{Só pensei em passar por aqui e dizer olá, Cody. Você cuida de New Reno, certo?}
-{370}{}{(Cody continua sorrindo para você.)}
-{371}{}{(Cody continua a sorrir para você.)}
+ EntÃ£o... como vÃ£o as coisas com vocÃª?}
+{366}{}{SÃ³ pensei em passar por aqui e dizer olÃ¡, Cody. VocÃª cuida de New Reno, certo?}
+{370}{}{(Cody continua sorrindo para vocÃª.)}
+{371}{}{(Cody continua a sorrir para vocÃª.)}
 {372}{}{(Cody sorri.)}
-{375}{}{Então... como vai, Cody? Tudo certo aí?}
-{377}{}{Bem, pensei em passar por aqui e dizer olá, Cody. Você cuida de New Reno, certo?}
-{380}{}{(Cody pisca, então murmura alguma coisa.)}
+{375}{}{EntÃ£o... como vai, Cody? Tudo certo aÃ­?}
+{377}{}{Bem, pensei em passar por aqui e dizer olÃ¡, Cody. VocÃª cuida de New Reno, certo?}
+{380}{}{(Cody pisca, entÃ£o murmura alguma coisa.)}
 {381}{}{Huh? O que dizia?}
-{382}{}{O que, Cody? O que você disse?}
-{390}{}{(Cody pisca, então murmura novamente. Você mal entende, mas soou como 'obrigado'.)}
-{391}{}{(Cody pisca, então murmura de novo. Você mal entende, mas soou como 'vai se fuder'.)}
-{392}{}{Obrigado, Codee. Não tem criaaança como você, o mundo é MUITO chato.}
+{382}{}{O que, Cody? O que vocÃª disse?}
+{390}{}{(Cody pisca, entÃ£o murmura novamente. VocÃª mal entende, mas soou como 'obrigado'.)}
+{391}{}{(Cody pisca, entÃ£o murmura de novo. VocÃª mal entende, mas soou como 'vai se fuder'.)}
+{392}{}{Obrigado, Codee. NÃ£o tem criaaanÃ§a como vocÃª, o mundo Ã© MUITO chato.}
 {393}{}{TE MATO TE MATO TE}
 {394}{}{Ei, sem problemas, Cody. Salvar o mundo parece estar no meu sangue. Tome cuidado agora, ouviu?}
 {395}{}{Seu merdinha! Eu te mato! Eu te mato --!}
-{1204}{}{ triste. você viu  }
+{1204}{}{ triste. vocÃª viu  }
 {1205}{}{ o carro agora? Por favoooor?}
 {1254}{}{?}
-{1282}{}{ carro! Onde! Onde! Vamos! Me leve! Por favor? Você poderia? Huh?}
+{1282}{}{ carro! Onde! Onde! Vamos! Me leve! Por favor? VocÃª poderia? Huh?}
 {1283}{}{ o carro... oh, olhe! Algo brilhante! (Se afasta.)}
 {1293}{}{o carro e }
 {2204}{}{ o carro?}

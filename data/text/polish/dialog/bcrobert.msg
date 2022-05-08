@@ -1,7 +1,7 @@
-{100}{}{Widzisz osiedleñca.}
-{101}{}{Widzisz Robertê.}
-{102}{}{Widzisz kobietê w œrednim wieku, odzian¹ w podniszczone ubranie.}
-{103}{}{Ojej. Przykro mi, ale nie mam ci nic do powiedzenia. IdŸ sobie, proszê.}
-{104}{}{Proszê, zostaw mnie w spokoju.}
-{105}{}{Dziêkujê ci za pomoc Rebece. Myli³am siê co do ciebie.}
-{106}{}{Nic ci nie zrobi³am! B³agam, nie zabijaj mnie.}
+{100}{}{Widzisz osiedleÅ„ca.}
+{101}{}{Widzisz RobertÄ™.}
+{102}{}{Widzisz kobietÄ™ w Å›rednim wieku, odzianÄ… w podniszczone ubranie.}
+{103}{}{Ojej. Przykro mi, ale nie mam ci nic do powiedzenia. IdÅº sobie, proszÄ™.}
+{104}{}{ProszÄ™, zostaw mnie w spokoju.}
+{105}{}{DziÄ™kujÄ™ ci za pomoc Rebece. MyliÅ‚am siÄ™ co do ciebie.}
+{106}{}{Nic ci nie zrobiÅ‚am! BÅ‚agam, nie zabijaj mnie.}

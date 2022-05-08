@@ -1,4 +1,4 @@
-{100}{}{Tu vois un enfant, il est plutôt petit.}
+{100}{}{Tu vois un enfant, il est plutÃ´t petit.}
 {101}{}{L'enfant semble joyeux.}
 {200}{}{Ouaiiis !}
 {201}{}{Cet endroit est cool.}

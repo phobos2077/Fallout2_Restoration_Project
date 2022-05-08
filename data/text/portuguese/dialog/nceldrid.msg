@@ -1,94 +1,94 @@
-{100}{}{Você vê Eldridge.}
-{150}{}{Você vê um homem fortemente armado coberto de graxa. Ele está olhando para sua coleção de armas na parede com um sorriso sonhador.}
-{151}{}{Você vê Eldridge. Ele está olhando para sua coleção de armas com um sorriso sonhador.}
-{200}{}{Parabéns, herói! Você foi muito bem!}
-{201}{}{::Dispara sua arma para o ar, começa a assobiar e gritar:: A Enclave está MORTA! MORTA! MORTA! Yeee-haw!}
-{202}{}{::Ding-dong, A Enclave está morta, a Enclave está morta... ::}
-{203}{}{A Enclave é uma boa razão para todo cidadão ter o direito de portar armas.}
-{204}{}{Da próxima vez, não vá para a Enclave sem passar aqui primeiro... Vou me certificar de que você tenha
+{100}{}{VocÃª vÃª Eldridge.}
+{150}{}{VocÃª vÃª um homem fortemente armado coberto de graxa. Ele estÃ¡ olhando para sua coleÃ§Ã£o de armas na parede com um sorriso sonhador.}
+{151}{}{VocÃª vÃª Eldridge. Ele estÃ¡ olhando para sua coleÃ§Ã£o de armas com um sorriso sonhador.}
+{200}{}{ParabÃ©ns, herÃ³i! VocÃª foi muito bem!}
+{201}{}{::Dispara sua arma para o ar, comeÃ§a a assobiar e gritar:: A Enclave estÃ¡ MORTA! MORTA! MORTA! Yeee-haw!}
+{202}{}{::Ding-dong, A Enclave estÃ¡ morta, a Enclave estÃ¡ morta... ::}
+{203}{}{A Enclave Ã© uma boa razÃ£o para todo cidadÃ£o ter o direito de portar armas.}
+{204}{}{Da prÃ³xima vez, nÃ£o vÃ¡ para a Enclave sem passar aqui primeiro... Vou me certificar de que vocÃª tenha
  todo o poder de fogo que PRECISA.}
 {210}{}{Miiiinha Nossa Senhora. Uma power armor!}
-{211}{}{Jeeeesus ::Esfrega os olhos:: Essa é uma Power Armor?!}
-{212}{}{Alguém me belisque. Isso é POWER ARMOR?!}
-{213}{}{Dancem no meu túmulo e mijem sobre meu primogênito! Uma power armor! Em Reno!}
-{214}{}{Vende essa Power Armor aí, amigo?!! Ei! Alguém em casa?!!}
-{220}{}{Uma 9mm é boa, mas uma .233 arregaça qualquer coisa...}
-{221}{}{O que eu realmente quero é uma Red Ryder BB.}
-{222}{}{Espero que ninguém consiga um rifle de plasma turbo antes de mim.}
+{211}{}{Jeeeesus ::Esfrega os olhos:: Essa Ã© uma Power Armor?!}
+{212}{}{AlguÃ©m me belisque. Isso Ã© POWER ARMOR?!}
+{213}{}{Dancem no meu tÃºmulo e mijem sobre meu primogÃªnito! Uma power armor! Em Reno!}
+{214}{}{Vende essa Power Armor aÃ­, amigo?!! Ei! AlguÃ©m em casa?!!}
+{220}{}{Uma 9mm Ã© boa, mas uma .233 arregaÃ§a qualquer coisa...}
+{221}{}{O que eu realmente quero Ã© uma Red Ryder BB.}
+{222}{}{Espero que ninguÃ©m consiga um rifle de plasma turbo antes de mim.}
 {223}{}{Gostaria de saber onde os Salvatores conseguem essas armas a laser...}
-{224}{}{Tive um sonho com armas de plasma ontem à noite...}
-{225}{}{É melhor levar aquele novo carregamento de cartuchos de espingarda para os Wrights...}
+{224}{}{Tive um sonho com armas de plasma ontem Ã  noite...}
+{225}{}{Ã‰ melhor levar aquele novo carregamento de cartuchos de espingarda para os Wrights...}
 {226}{}{Espero que os Mordinos tenham o ouro para pagar o pedido...}
 {227}{}{Essa arma? Pode perfurar uma parede de metal.}
-{228}{}{Aquele garoto é um gênio... ele mal notaria alguém olhando para ele...}
-{229}{}{Melhor levar esses cães para um passeio logo antes que eles comecem a mijar por aí.}
-{230}{}{Esses aldeões sujos estão acumulando mais armas... eles são um bando difícil.}
-{231}{}{Eu gostaria que alguém me roubasse para que eu pudesse atirar nele.}
+{228}{}{Aquele garoto Ã© um gÃªnio... ele mal notaria alguÃ©m olhando para ele...}
+{229}{}{Melhor levar esses cÃ£es para um passeio logo antes que eles comecem a mijar por aÃ­.}
+{230}{}{Esses aldeÃµes sujos estÃ£o acumulando mais armas... eles sÃ£o um bando difÃ­cil.}
+{231}{}{Eu gostaria que alguÃ©m me roubasse para que eu pudesse atirar nele.}
 {232}{}{Vou precisar limpar as prateleiras em logo...}
-{233}{}{Mal posso esperar para ir caçar gangues na próxima semana...}
+{233}{}{Mal posso esperar para ir caÃ§ar gangues na prÃ³xima semana...}
 {234}{}{Eu tenho SMGs, pistolas, dinamite, granadas... e mesmo assim as pessoas procuram espadas e bestas.}
-{240}{}{Bem-vindo, herói! Trabalho do caralho que você fez na Enclave... salvou muito as nossas peles, e eu agradeço por isso. Eldridge
- é o nome. Você está procurando algum ferro para encher seu coldre?}
-{241}{}{Bem-vindo, senhor... Eldridge é meu nome. Você está no mercado procurando algum ferro para encher seu coldre?}
-{242}{}{Bem-vindo, viajante... Eldridge é meu nome. Você está no mercado procurando algum ferro para encher seu coldre?}
-{243}{}{Ernnnnh? Pão de batata?}
+{240}{}{Bem-vindo, herÃ³i! Trabalho do caralho que vocÃª fez na Enclave... salvou muito as nossas peles, e eu agradeÃ§o por isso. Eldridge
+ Ã© o nome. VocÃª estÃ¡ procurando algum ferro para encher seu coldre?}
+{241}{}{Bem-vindo, senhor... Eldridge Ã© meu nome. VocÃª estÃ¡ no mercado procurando algum ferro para encher seu coldre?}
+{242}{}{Bem-vindo, viajante... Eldridge Ã© meu nome. VocÃª estÃ¡ no mercado procurando algum ferro para encher seu coldre?}
+{243}{}{Ernnnnh? PÃ£o de batata?}
 {244}{}{Depende do que estiver vendendo.}
-{250}{}{Bem-vindo de volta, herói! Trabalho do caralho que você fez na Enclave... salvou muito as nossas peles, e eu agradeço por isso. }
-{251}{}{Você achar algo que goste pode me avisar, e você terá um desconto *especial*, ok?}
+{250}{}{Bem-vindo de volta, herÃ³i! Trabalho do caralho que vocÃª fez na Enclave... salvou muito as nossas peles, e eu agradeÃ§o por isso. }
+{251}{}{VocÃª achar algo que goste pode me avisar, e vocÃª terÃ¡ um desconto *especial*, ok?}
 {252}{}{Ceeeerto}
 {253}{}{Vai embora.}
-{254}{}{Ótimo! Posso ver o que você tem no estoque?}
-{255}{}{Não sei se você pode me ajudar... Estou procurando algo especial.}
+{254}{}{Ã“timo! Posso ver o que vocÃª tem no estoque?}
+{255}{}{NÃ£o sei se vocÃª pode me ajudar... Estou procurando algo especial.}
 {256}{}{Meu chefe... }
 {257}{}{Jules me disse para vir aqui quando estivesse procurando armas.}
 {258}{}{Os Salvatores compram suas pistolas laser aqui?}
 {259}{}{Te trouxe aquela pistola laser que prometi.}
-{260}{}{Você pode melhorar armas?}
-{261}{}{Voltarei para dar uma olhada então.}
+{260}{}{VocÃª pode melhorar armas?}
+{261}{}{Voltarei para dar uma olhada entÃ£o.}
 {262}{}{Excelente... posso ver seu estoque especial?}
-{270}{}{Aqui em Armas de New Reno, temos os mais recentes dispositivos de proteção pessoal necessários para impedir que qualquer viado filho da puta se coloque no seu caminho. (Sorri maliciosamente.)}
-{272}{}{Olá novamente, amigo. O que posso fazer por você?}
+{270}{}{Aqui em Armas de New Reno, temos os mais recentes dispositivos de proteÃ§Ã£o pessoal necessÃ¡rios para impedir que qualquer viado filho da puta se coloque no seu caminho. (Sorri maliciosamente.)}
+{272}{}{OlÃ¡ novamente, amigo. O que posso fazer por vocÃª?}
 {273}{}{Como?}
-{274}{}{Coisas que eu gosto coisas que você gosta de coisas também?}
-{276}{}{Então você é exatamente o homem que eu estava procurando. Posso ver o que você tem para vender?}
-{277}{}{Posso ver o que você tem em estoque?}
-{283}{}{Você pode modificar ou melhorar armas?}
-{284}{}{Não tenho interesse no momento, obrigado.}
+{274}{}{Coisas que eu gosto coisas que vocÃª gosta de coisas tambÃ©m?}
+{276}{}{EntÃ£o vocÃª Ã© exatamente o homem que eu estava procurando. Posso ver o que vocÃª tem para vender?}
+{277}{}{Posso ver o que vocÃª tem em estoque?}
+{283}{}{VocÃª pode modificar ou melhorar armas?}
+{284}{}{NÃ£o tenho interesse no momento, obrigado.}
 {285}{}{Nada por hoje, valeu.}
 {286}{}{Posso ver seu estoque especial?}
-{300}{}{Vê algo brilhante que você gosta? Vamos lá, tem que haver algo aqui que te interessa.}
-{301}{}{Uh... certo, certo. (Te olha criticamente.) Você me lembra meu escravo, Al. Quer ver o que temos em estoque, amigo?}
+{300}{}{VÃª algo brilhante que vocÃª gosta? Vamos lÃ¡, tem que haver algo aqui que te interessa.}
+{301}{}{Uh... certo, certo. (Te olha criticamente.) VocÃª me lembra meu escravo, Al. Quer ver o que temos em estoque, amigo?}
 {302}{}{S-im}
 {303}{}{Quero cosas no sem estoque}
 {304}{}{Nuh}
-{310}{}{Jules te mandou pra cá, é? }
-{311}{}{Já estava na hora daquele baiano bunda mole fazer o trabalho dele... então o que eu posso fazer por você, senhor?}
-{312}{}{Já estava na hora daquele baiano bunda mole fazer o trabalho dele... Desculpe meu palavreado. O que eu posso fazer por você, senhorita?}
-{330}{}{Não, não... nós costumávamos fazer isso, mas... (Parece aflito.)... bem, houve um acidente... e
- nós acabamos não fazendo mais isso. Mais alguma coisa que eu possa fazer por você?}
-{331}{}{Tudo bem, então. Estou interessado em outra coisa...}
-{340}{}{Opa, vamos lá. O que você precisa?}
-{341}{}{Você pode fazer alguma coisa com qualquer uma dessas pistolas que eu tenho?}
-{342}{}{Um dos meus rifles poderia usar algum acessório.}
-{343}{}{Você pode fazer algo com esse agulhão?}
-{344}{}{Deixa pra lá. me interessei por outra coisa...}
+{310}{}{Jules te mandou pra cÃ¡, Ã©? }
+{311}{}{JÃ¡ estava na hora daquele baiano bunda mole fazer o trabalho dele... entÃ£o o que eu posso fazer por vocÃª, senhor?}
+{312}{}{JÃ¡ estava na hora daquele baiano bunda mole fazer o trabalho dele... Desculpe meu palavreado. O que eu posso fazer por vocÃª, senhorita?}
+{330}{}{NÃ£o, nÃ£o... nÃ³s costumÃ¡vamos fazer isso, mas... (Parece aflito.)... bem, houve um acidente... e
+ nÃ³s acabamos nÃ£o fazendo mais isso. Mais alguma coisa que eu possa fazer por vocÃª?}
+{331}{}{Tudo bem, entÃ£o. Estou interessado em outra coisa...}
+{340}{}{Opa, vamos lÃ¡. O que vocÃª precisa?}
+{341}{}{VocÃª pode fazer alguma coisa com qualquer uma dessas pistolas que eu tenho?}
+{342}{}{Um dos meus rifles poderia usar algum acessÃ³rio.}
+{343}{}{VocÃª pode fazer algo com esse agulhÃ£o?}
+{344}{}{Deixa pra lÃ¡. me interessei por outra coisa...}
 {345}{}{Na verdade, nada hoje.}
 {350}{}{(Olha sua magnum.) Eu posso melhorar a velocidade de recarga dessa magnum por $}
-{351}{}{Essa Desert Eagle que você tem... se quiser, eu posso expandir o tambor por $}
-{352}{}{Coloque a recarga rápida na magnum.}
+{351}{}{Essa Desert Eagle que vocÃª tem... se quiser, eu posso expandir o tambor por $}
+{352}{}{Coloque a recarga rÃ¡pida na magnum.}
 {353}{}{Aumente o tambor nesta Desert Eagle aqui.}
 {354}{}{Na verdade, eu tinha pensado em outra arma...}
-{355}{}{Esqueçe. Eu queria outra coisa...}
+{355}{}{EsqueÃ§e. Eu queria outra coisa...}
 {356}{}{Na verdade, nenhuma delas. Preciso ir.}
-{357}{}{É muita grana pro meu bolso. Volto quando tiver mais dinheiro.}
-{365}{}{(Examina seus rifles e acena com a cabeça.) }
-{366}{}{Eu posso colocar uma mira nesse rifle de caça por $ }
-{367}{}{Esse rifle de assalto que você tem aí... Posso expandir o carregador por $}
-{368}{}{Eu tenho uma mira de visão noturna que posso colocar nesse FN FAL por $}
-{369}{}{Tudo bem então... coloque uma mira telescópica no rifle de caça Colt.}
+{357}{}{Ã‰ muita grana pro meu bolso. Volto quando tiver mais dinheiro.}
+{365}{}{(Examina seus rifles e acena com a cabeÃ§a.) }
+{366}{}{Eu posso colocar uma mira nesse rifle de caÃ§a por $ }
+{367}{}{Esse rifle de assalto que vocÃª tem aÃ­... Posso expandir o carregador por $}
+{368}{}{Eu tenho uma mira de visÃ£o noturna que posso colocar nesse FN FAL por $}
+{369}{}{Tudo bem entÃ£o... coloque uma mira telescÃ³pica no rifle de caÃ§a Colt.}
 {370}{}{Aumente o pente do rifle de assalto AK-112.}
-{371}{}{Instale essa visão noturna no FN FAL.}
-{385}{}{Quer que eu melhore esse agulhão? Eu posso dar uma SUPERCARGA por $}
+{371}{}{Instale essa visÃ£o noturna no FN FAL.}
+{385}{}{Quer que eu melhore esse agulhÃ£o? Eu posso dar uma SUPERCARGA por $}
 {386}{}{Com certeza.}
 {395}{}{(Eldridge pega o item e examina criticamente.) Certo... espere um pouco, verei o que posso fazer. (Ele desaparece
  nos fundos.)}
@@ -97,93 +97,93 @@
 {401}{}{Aguarde...}
 {405}{}{(Espera mais um pouco...)}
 {406}{}{Dum de dum de dum...}
-{410}{}{(Você está quase roncando, quando de repente Eldridge aparece.) Desculpe pela demora... aqui está. Isso pode
+{410}{}{(VocÃª estÃ¡ quase roncando, quando de repente Eldridge aparece.) Desculpe pela demora... aqui estÃ¡. Isso pode
  te dar uma vantagem contra qualquer filho da puta que tente andar em seu caminho.}
-{411}{}{Obrigado. Você pode melhorar outra arma?}
+{411}{}{Obrigado. VocÃª pode melhorar outra arma?}
 {412}{}{Obrigado. queria outra coisa...}
 {413}{}{Obrigado, vou testar.}
-{420}{}{Oh... temos um cliente exigente, hein? Bem, às vezes, algumas peças premiadas passam pela cidade... veja isso, por exemplo.
- (Segura algo... estranho.) Tecnologia genuína pré-guerra. Te interessa?}
-{423}{}{Uh... é "alguma coisa", tudo bem. Posso dar uma olhada?}
-{424}{}{Claro que é. Mas me interessei por outra coisa...}
-{425}{}{Não me interessa. Obrigado de qualquer maneira.}
-{430}{}{(É um lindo quadrado de plástico com buracos e linhas de metal desenhadas por toda parte. Alguns símbolos com palavras engraçados estão escritos nele. Isso lembra um bolo, mas mecânico, sua boca começa a salivar.)}
-{431}{}{(Isso parece uma placa de circuito. Está um pouco empoeirada, mas parece estar em boas condições. Parece que faz parte de... alguma coisa. Impresso na placa está: 'Módulo de reconhecimento de voz Vault Tec.')}
-{432}{}{(É uma placa de circuito complexa. Um chip de memória é instalado nela e várias conexões de computador estão na lateral, incluindo uma entrada e uma saída. Impresso na placa está: 'Módulo de reconhecimento de voz Vault Tec.')}
+{420}{}{Oh... temos um cliente exigente, hein? Bem, Ã s vezes, algumas peÃ§as premiadas passam pela cidade... veja isso, por exemplo.
+ (Segura algo... estranho.) Tecnologia genuÃ­na prÃ©-guerra. Te interessa?}
+{423}{}{Uh... Ã© "alguma coisa", tudo bem. Posso dar uma olhada?}
+{424}{}{Claro que Ã©. Mas me interessei por outra coisa...}
+{425}{}{NÃ£o me interessa. Obrigado de qualquer maneira.}
+{430}{}{(Ã‰ um lindo quadrado de plÃ¡stico com buracos e linhas de metal desenhadas por toda parte. Alguns sÃ­mbolos com palavras engraÃ§ados estÃ£o escritos nele. Isso lembra um bolo, mas mecÃ¢nico, sua boca comeÃ§a a salivar.)}
+{431}{}{(Isso parece uma placa de circuito. EstÃ¡ um pouco empoeirada, mas parece estar em boas condiÃ§Ãµes. Parece que faz parte de... alguma coisa. Impresso na placa estÃ¡: 'MÃ³dulo de reconhecimento de voz Vault Tec.')}
+{432}{}{(Ã‰ uma placa de circuito complexa. Um chip de memÃ³ria Ã© instalado nela e vÃ¡rias conexÃµes de computador estÃ£o na lateral, incluindo uma entrada e uma saÃ­da. Impresso na placa estÃ¡: 'MÃ³dulo de reconhecimento de voz Vault Tec.')}
 {433}{}{Quero quadrado bonito}
 {434}{}{Quero otras cosas}
 {435}{}{Vou agora}
-{436}{}{"Vault Tec?" Isso *tem* que ser importante. Quanto é?}
-{437}{}{Finalmente... quanto custa esse módulo?}
-{438}{}{Não obrigado, queria outra coisa...}
-{439}{}{Hoje não, valeu.}
-{450}{}{Três mil. É pegar ou largar.}
-{451}{}{Da última vez: são três mil. É pegar ou largar.}
+{436}{}{"Vault Tec?" Isso *tem* que ser importante. Quanto Ã©?}
+{437}{}{Finalmente... quanto custa esse mÃ³dulo?}
+{438}{}{NÃ£o obrigado, queria outra coisa...}
+{439}{}{Hoje nÃ£o, valeu.}
+{450}{}{TrÃªs mil. Ã‰ pegar ou largar.}
+{451}{}{Da Ãºltima vez: sÃ£o trÃªs mil. Ã‰ pegar ou largar.}
 {452}{}{Taaa booom}
-{454}{}{Você desce para pegar o bolo mecânico.}
+{454}{}{VocÃª desce para pegar o bolo mecÃ¢nico.}
 {455}{}{Deixar}
 {457}{}{Eita, que facada. Que tal... 1500?}
-{458}{}{Não, obrigado. Queria outra coisa...}
+{458}{}{NÃ£o, obrigado. Queria outra coisa...}
 {459}{}{Eu vou embora.}
-{470}{}{$2500. Essa é minha última oferta.}
-{471}{}{Tudo bem, tudo bem. Aqui está.}
-{472}{}{Esqueça, então. queria outra coisa...}
-{473}{}{Não obrigado, valeu. Até a próxima.}
+{470}{}{$2500. Essa Ã© minha Ãºltima oferta.}
+{471}{}{Tudo bem, tudo bem. Aqui estÃ¡.}
+{472}{}{EsqueÃ§a, entÃ£o. queria outra coisa...}
+{473}{}{NÃ£o obrigado, valeu. AtÃ© a prÃ³xima.}
 {474}{}{Muito caro para o que eu tenho. Nos falamos quando eu tiver mais algum dinheiro.}
-{480}{}{(Sorri, esfrega as mãos quando você coloca o dinheiro na mesa.) Certo, aqui está. Algo mais? }
-{481}{}{(Pensa sobre isso por um momento, te olha, então acena com a cabeça.) Tudo bem então... Vou te deixar quase
- de graça,  aqui está. (Entrega o módulo, pega seu dinheiro.) }
+{480}{}{(Sorri, esfrega as mÃ£os quando vocÃª coloca o dinheiro na mesa.) Certo, aqui estÃ¡. Algo mais? }
+{481}{}{(Pensa sobre isso por um momento, te olha, entÃ£o acena com a cabeÃ§a.) Tudo bem entÃ£o... Vou te deixar quase
+ de graÃ§a,  aqui estÃ¡. (Entrega o mÃ³dulo, pega seu dinheiro.) }
 {482}{}{Mais alguma coisa?}
 {485}{}{Sim, eu estava interessado em outra coisa...}
 {486}{}{Nada mais hoje, obrigado.}
-{495}{}{(Pisca de surpresa, depois ri.) Haw! Não, não... essas armas estão fora de questão, não é? Claro que gostaria
- de colocar minhas mãos em um, no entanto... confira o alcance, potência, taxa de disparo... (Olha para longe, suspira.)}
+{495}{}{(Pisca de surpresa, depois ri.) Haw! NÃ£o, nÃ£o... essas armas estÃ£o fora de questÃ£o, nÃ£o Ã©? Claro que gostaria
+ de colocar minhas mÃ£os em um, no entanto... confira o alcance, potÃªncia, taxa de disparo... (Olha para longe, suspira.)}
 {496}{}{E se eu te oferecesse uma?}
 {497}{}{Seria bom ter uma, tudo bem. Olha, eu queria outra coisa...}
 {498}{}{Ah bem, tive que perguntar. Obrigado, Eldridge.}
-{505}{}{(Olha para você como se estivesse decidindo se você é confiável.) Eu não diria que não... se você
- fizesse isso quieto. Eu pagaria pelo seu problema... (Carrancas.)... supondo que você não tenha causado NENHUM.}
-{506}{}{Tranquilo... Eu tenho um comigo. Aqui está.}
+{505}{}{(Olha para vocÃª como se estivesse decidindo se vocÃª Ã© confiÃ¡vel.) Eu nÃ£o diria que nÃ£o... se vocÃª
+ fizesse isso quieto. Eu pagaria pelo seu problema... (Carrancas.)... supondo que vocÃª nÃ£o tenha causado NENHUM.}
+{506}{}{Tranquilo... Eu tenho um comigo. Aqui estÃ¡.}
 {507}{}{Eu vou fazer isso. Mas antes, eu queria outra coisa...}
-{508}{}{Deixa pra lá então. Talvez você possa me ajudar em outra coisa...}
-{509}{}{Feito. Eu vou pegar uma e vou trazer para você.}
-{510}{}{Não posso prometer isso... eu e os problemas viajamos juntos. Até logo, Eldridge.}
-{520}{}{Bem, mije em minhas costas e diga que está chovendo! }
-{521}{}{Maravilha! Sendo fiel à minha palavra, aqui está algo para o seus problemas... }
-{522}{}{(Da um montão de fichas e pega a pistola.) Droga... coisa estranha, não é? (Examina o cano.) Hmmm...}
+{508}{}{Deixa pra lÃ¡ entÃ£o. Talvez vocÃª possa me ajudar em outra coisa...}
+{509}{}{Feito. Eu vou pegar uma e vou trazer para vocÃª.}
+{510}{}{NÃ£o posso prometer isso... eu e os problemas viajamos juntos. AtÃ© logo, Eldridge.}
+{520}{}{Bem, mije em minhas costas e diga que estÃ¡ chovendo! }
+{521}{}{Maravilha! Sendo fiel Ã  minha palavra, aqui estÃ¡ algo para o seus problemas... }
+{522}{}{(Da um montÃ£o de fichas e pega a pistola.) Droga... coisa estranha, nÃ£o Ã©? (Examina o cano.) Hmmm...}
 {523}{}{Queria outra coisa...}
-{524}{}{Prazer em fazer negócios com você, Eldridge. Aproveite.}
-{530}{}{(Eldridge olha para você de cima a baixo, e seu tom se torna mais respeitoso.) Claro, claro. Deixe-me mostrar
- nosso estoque especial... com desconto, é claro.}
+{524}{}{Prazer em fazer negÃ³cios com vocÃª, Eldridge. Aproveite.}
+{530}{}{(Eldridge olha para vocÃª de cima a baixo, e seu tom se torna mais respeitoso.) Claro, claro. Deixe-me mostrar
+ nosso estoque especial... com desconto, Ã© claro.}
 {532}{}{Na verdade, eu estava interessado em outra coisa...}
-{533}{}{Deixa pra lá. Eu voltarei.}
-{545}{}{Cale a boca agora, estão me ouvindo?}
+{533}{}{Deixa pra lÃ¡. Eu voltarei.}
+{545}{}{Cale a boca agora, estÃ£o me ouvindo?}
 {546}{}{Calem a boca, vira-latas malditos!}
 {547}{}{Criaturas da noite... calem a boca!}
-{548}{}{Packard! Buck! Missy! É melhor vocês calarem a boca, ou eu vou entrar aí!}
-{549}{}{Mais um LATIDO e eu vou entrar aí!}
-{550}{}{Cachorros desgraçados!}
-{560}{}{O que, você acha que estou com os olhos vendados?}
-{561}{}{Tire as mãos dessa porta!}
-{562}{}{Não mexa com nessa porta de novo.}
-{563}{}{Toque nessa porta e essa será a última coisa que você fará.}
-{564}{}{Engraçado, a última pessoa que tocou essa porta está enterrada em Gólgota. Não toque.}
-{575}{}{Você não deveria estar aí! Saia! Sai daí!}
-{576}{}{Você não é permitido aí trás! Saia agora!}
+{548}{}{Packard! Buck! Missy! Ã‰ melhor vocÃªs calarem a boca, ou eu vou entrar aÃ­!}
+{549}{}{Mais um LATIDO e eu vou entrar aÃ­!}
+{550}{}{Cachorros desgraÃ§ados!}
+{560}{}{O que, vocÃª acha que estou com os olhos vendados?}
+{561}{}{Tire as mÃ£os dessa porta!}
+{562}{}{NÃ£o mexa com nessa porta de novo.}
+{563}{}{Toque nessa porta e essa serÃ¡ a Ãºltima coisa que vocÃª farÃ¡.}
+{564}{}{EngraÃ§ado, a Ãºltima pessoa que tocou essa porta estÃ¡ enterrada em GÃ³lgota. NÃ£o toque.}
+{575}{}{VocÃª nÃ£o deveria estar aÃ­! Saia! Sai daÃ­!}
+{576}{}{VocÃª nÃ£o Ã© permitido aÃ­ trÃ¡s! Saia agora!}
 {577}{}{Saia dos fundos antes que eu te encha de buracos!}
-{578}{}{Continue aí trás e eu pratico tiro ao alvo com você!}
+{578}{}{Continue aÃ­ trÃ¡s e eu pratico tiro ao alvo com vocÃª!}
 {600}{}{Cara, estamos fechados... }
-{601}{}{Moça, estamos fechados... }
-{610}{}{Então sugiro que dê o fora daqui antes que eu te mate com um tiro.}
-{700}{}{Ô cachorrada do caralho! Vou voltar para a cama.}
-{701}{}{Cachorros idiotas! Vou colocar todos vocês para dormir amanhã cedo.}
-{702}{}{Vocês, cães, calam a boca! Ninguém é retardado o suficiente para invadir uma loja de armas!}
-{800}{}{Você entregou uma pistola a laser para Eldridge.}
-{801}{}{Ei, eu tenho cara de mágico? Você vai precisar da arma se quiser melhorar. Agora saia daqui e vá encontrar uma que eu possa trabalhar... Deus!}
+{601}{}{MoÃ§a, estamos fechados... }
+{610}{}{EntÃ£o sugiro que dÃª o fora daqui antes que eu te mate com um tiro.}
+{700}{}{Ã” cachorrada do caralho! Vou voltar para a cama.}
+{701}{}{Cachorros idiotas! Vou colocar todos vocÃªs para dormir amanhÃ£ cedo.}
+{702}{}{VocÃªs, cÃ£es, calam a boca! NinguÃ©m Ã© retardado o suficiente para invadir uma loja de armas!}
+{800}{}{VocÃª entregou uma pistola a laser para Eldridge.}
+{801}{}{Ei, eu tenho cara de mÃ¡gico? VocÃª vai precisar da arma se quiser melhorar. Agora saia daqui e vÃ¡ encontrar uma que eu possa trabalhar... Deus!}
 {802}{}{Volte quando tiver o dinheiro.}
-{1340}{}{Opa, vamos lá. (Olha para seu equipamento.) Mas você não parece ter nada que eu possa mexer. Traga
- alguma virgem... eh, pistolas ou rifles "normais", e talvez eu possa ajudá-lo.}
+{1340}{}{Opa, vamos lÃ¡. (Olha para seu equipamento.) Mas vocÃª nÃ£o parece ter nada que eu possa mexer. Traga
+ alguma virgem... eh, pistolas ou rifles "normais", e talvez eu possa ajudÃ¡-lo.}
 {1345}{}{Tudo bem. me interessei por outra coisa...}
 {1346}{}{Eu farei isso. Tchau.}
-{5256}{}{...me disse para passar por aqui, e que você "me armaria".}
+{5256}{}{...me disse para passar por aqui, e que vocÃª "me armaria".}
 {5500}{}{.}

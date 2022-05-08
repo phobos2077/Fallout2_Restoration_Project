@@ -1,11 +1,11 @@
-{100}{}{Le générateur fonctionne normalement. La production d'énergie est optimale.}
-{101}{}{Le générateur semble être en mode d'urgence. La production d'énergie est minimale.}
-{102}{}{Essayer de diagnostiquer le problème.}
+{100}{}{Le gÃ©nÃ©rateur fonctionne normalement. La production d'Ã©nergie est optimale.}
+{101}{}{Le gÃ©nÃ©rateur semble Ãªtre en mode d'urgence. La production d'Ã©nergie est minimale.}
+{102}{}{Essayer de diagnostiquer le problÃ¨me.}
 {103}{}{Bon eh bien, je m'en vais.}
-{104}{}{Une panne a dû se produire dans le système à un certain moment. Les fusibles d'urgence sont enfoncés, mais ils ont sauté en position ouverte. Tu dois être capable de les débloquer et de rétablir l'énergie.}
+{104}{}{Une panne a dÃ» se produire dans le systÃ¨me Ã  un certain moment. Les fusibles d'urgence sont enfoncÃ©s, mais ils ont sautÃ© en position ouverte. Tu dois Ãªtre capable de les dÃ©bloquer et de rÃ©tablir l'Ã©nergie.}
 {105}{}{Tu ne vois rien d'anormal. Ca ne fonctionne pas, c'est tout.}
-{106}{}{Essayer de le réparer.}
+{106}{}{Essayer de le rÃ©parer.}
 {107}{}{Il est temps de partir.}
-{108}{}{Tu réussis à débloquer les faux contacts et à rétablir l'énergie !}
-{109}{}{Mince. C'est plus difficile que ça en a l'air.}
-{110}{}{C'est terminé !}
+{108}{}{Tu rÃ©ussis Ã  dÃ©bloquer les faux contacts et Ã  rÃ©tablir l'Ã©nergie !}
+{109}{}{Mince. C'est plus difficile que Ã§a en a l'air.}
+{110}{}{C'est terminÃ© !}

@@ -1,40 +1,40 @@
 {100}{}{Tu vois un boxeur.}
-{150}{}{Tu vois un homme noir très musclé. On dirait qu'il vient de terminer son entraînement.}
-{151}{}{Tu vois un homme noir énorme. Et j'exagère pas, il est ENORME.}
-{152}{}{On dirait qu'il vient de terminer son entraînement.}
+{150}{}{Tu vois un homme noir trÃ¨s musclÃ©. On dirait qu'il vient de terminer son entraÃ®nement.}
+{151}{}{Tu vois un homme noir Ã©norme. Et j'exagÃ¨re pas, il est ENORME.}
+{152}{}{On dirait qu'il vient de terminer son entraÃ®nement.}
 {153}{}{Tu l'as presque pris pour une petite montagne.}
-{154}{}{Il est énorme. E-NORME.}
-{155}{}{Il te gratifie d'un large sourire édenté.}
-{156}{}{On dirait qu'il vient de terminer son entraînement.}
+{154}{}{Il est Ã©norme. E-NORME.}
+{155}{}{Il te gratifie d'un large sourire Ã©dentÃ©.}
+{156}{}{On dirait qu'il vient de terminer son entraÃ®nement.}
 {157}{}{Tu l'as presque pris pour une petite montagne.}
-{158}{}{Il est énorme. E-NORME.}
-{159}{}{Il te gratifie d'un large sourire édenté.}
-{160}{}{Il envoie des coups droits à un adversaire imaginaire et lance des menaces rageuses en l'air.}
-{161}{}{L'espace d'un instant, il a l'air perdu, comme s'il avait oublié qu'il était, puis il sourit et se gratte la tête.}
+{158}{}{Il est Ã©norme. E-NORME.}
+{159}{}{Il te gratifie d'un large sourire Ã©dentÃ©.}
+{160}{}{Il envoie des coups droits Ã  un adversaire imaginaire et lance des menaces rageuses en l'air.}
+{161}{}{L'espace d'un instant, il a l'air perdu, comme s'il avait oubliÃ© qu'il Ã©tait, puis il sourit et se gratte la tÃªte.}
 {162}{}{Il fait des flexions.}
-{163}{}{Tu vois un homme blanc à la stature imposante. Ses bras sont comme des troncs d'arbres.}
-{164}{}{Tu vois un homme très musclé à la peau blanche. Il fait des flexions et il grommelle.}
-{165}{}{Tu vois un homme très musclé à la peau blanche. Il étudie ta tête comme si c'était un punching-ball.}
-{166}{}{Il envoie des coups droits à un adversaire imaginaire et lance des menaces rageuses en l'air.}
-{167}{}{L'espace d'un instant, il a l'air perdu, comme s'il avait oublié qu'il était, puis il sourit et se gratte la tête.}
-{168}{}{Il étudie ta tête comme si c'était un punching-ball.}
+{163}{}{Tu vois un homme blanc Ã  la stature imposante. Ses bras sont comme des troncs d'arbres.}
+{164}{}{Tu vois un homme trÃ¨s musclÃ© Ã  la peau blanche. Il fait des flexions et il grommelle.}
+{165}{}{Tu vois un homme trÃ¨s musclÃ© Ã  la peau blanche. Il Ã©tudie ta tÃªte comme si c'Ã©tait un punching-ball.}
+{166}{}{Il envoie des coups droits Ã  un adversaire imaginaire et lance des menaces rageuses en l'air.}
+{167}{}{L'espace d'un instant, il a l'air perdu, comme s'il avait oubliÃ© qu'il Ã©tait, puis il sourit et se gratte la tÃªte.}
+{168}{}{Il Ã©tudie ta tÃªte comme si c'Ã©tait un punching-ball.}
 {200}{}{<Gnurffff>}
 {201}{}{<Gnarfffff>}
 {202}{}{::Flexions::}
-{203}{}{::Le boxeur te lance un regard effrayé::}
+{203}{}{::Le boxeur te lance un regard effrayÃ©::}
 {204}{}{Vi m'sieur ?}
 {205}{}{E peux aouoir des dents ?}
-{206}{}{Tu veux voir l'entraîneur ?}
+{206}{}{Tu veux voir l'entraÃ®neur ?}
 {207}{}{Euh-euh.}
-{208}{}{::Il acquiesce bêtement à tout ce que tu dis::}
+{208}{}{::Il acquiesce bÃªtement Ã  tout ce que tu dis::}
 {209}{}{Toi grande personne. Moi minus.}
 {210}{}{Toi Hulk, moi faible.}
 {211}{}{Moi avoir faim.}
 {212}{}{Moi pas aimer parler}
 {213}{}{Toi sentir BOOON !}
 {214}{}{Toi sentir comme maman.}
-{215}{}{Assez parlé. Au lit.}
-{216}{}{::Sourire Ã©dentÃ©::}
+{215}{}{Assez parlÃ©. Au lit.}
+{216}{}{::Sourire ÃƒÂ©dentÃƒÂ©::}
 {217}{}{::Se gratte::}
 {218}{}{::Flexions::}
 {219}{}{::Grognement::}
@@ -42,8 +42,8 @@
 {221}{}{Allez cogne, cogne, cogne...}
 {222}{}{Concentre-toi, concentre-toi.}
 {223}{}{Donner coups critiques.}
-{224}{}{Détruis cette merde.}
-{225}{}{Moi besoin entraîneur.}
+{224}{}{DÃ©truis cette merde.}
+{225}{}{Moi besoin entraÃ®neur.}
 {226}{}{Toi petite personne.}
 {227}{}{Moi pas aimer parler}
 {300}{}{<Arffff>}
@@ -54,25 +54,25 @@
 {305}{}{<Ouuuff>}
 {310}{}{Trop lent !}
 {311}{}{Pas au visage !}
-{312}{}{Tu castagnes comme ma grand-mère !}
+{312}{}{Tu castagnes comme ma grand-mÃ¨re !}
 {313}{}{Pas en dessous de la ceinture !}
 {314}{}{T'es pas mal !}
 {315}{}{C'est tout ce que t'as ?}
 {320}{}{Et reste en bas !}
-{321}{}{Tu t'es fait péter la gueule !}
-{322}{}{Alors bébé, il est où ton papa ?}
+{321}{}{Tu t'es fait pÃ©ter la gueule !}
+{322}{}{Alors bÃ©bÃ©, il est oÃ¹ ton papa ?}
 {323}{}{S'il meurt, il meurt.}
 {330}{}{T'aurais pu disputer le grand match !}
-{331}{}{Comment une espèce de... <Garggghh>}
+{331}{}{Comment une espÃ¨ce de... <Garggghh>}
 {332}{}{<Vlan>}
 {333}{}{Oh, attention...}
 {334}{}{Je crois que je vais m'allonger ici un petit moment.}
 {335}{}{Pas mal, pas mal, pas mal...}
-{340}{}{Prends ça !}
+{340}{}{Prends Ã§a !}
 {341}{}{T'en veux encore ?}
 {342}{}{Salope !}
 {343}{}{Je te tiens.}
-{344}{}{Je bouffe des Bérets verts au p'tit déj.}
+{344}{}{Je bouffe des BÃ©rets verts au p'tit dÃ©j.}
 {345}{}{Hadouken !}
 {346}{}{Maintenant, CREVE.}
 {347}{}{SUPER... POING... TORNADE... NUCLEAIRE...}
@@ -83,12 +83,12 @@
 {354}{}{Tu te bats comme une lavette.}
 {355}{}{T'as pas de tripes !}
 {356}{}{T'es qu'une lavette, une lavette !}
-{357}{}{Je vais t'écraser comme un chien.}
+{357}{}{Je vais t'Ã©craser comme un chien.}
 {360}{}{Y'aura pas de match retour !}
 {361}{}{Tu frappes comme un papillon...}
 {362}{}{Garde les mains en l'air...}
 {363}{}{Sois agressif !}
-{364}{}{Détruis cette merde !}
+{364}{}{DÃ©truis cette merde !}
 {365}{}{Sois violent !}
 {366}{}{Vas-y, frappe-moi, Mick.}
 {367}{}{N'oublie pas ton coup droit !}

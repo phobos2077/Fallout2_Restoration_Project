@@ -1,3 +1,3 @@
-{100}{}{Ez nem m?ködik.}
-{101}{}{Nem jössz rá, melyik gombot kéne megnyomni.}
-{102}{}{Megsemmisítetted a számítógépet.}
+{100}{}{Ez nem m?kÃ¶dik.}
+{101}{}{Nem jÃ¶ssz rÃ¡, melyik gombot kÃ©ne megnyomni.}
+{102}{}{MegsemmisÃ­tetted a szÃ¡mÃ­tÃ³gÃ©pet.}

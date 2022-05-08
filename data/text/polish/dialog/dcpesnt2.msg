@@ -1,9 +1,9 @@
-{100}{}{Widzisz mieszkañca Nory.}
-{101}{}{Widzisz mieszkañca Nory.}
-{200}{}{Czeœæ i witaj w...Hej! To dziêki tobie to miejsce mog³o powstaæ. Mieszkañcy Nory naprawdê to doceniaj¹.}
-{201}{}{Ca³a przyjemnoœæ po mojej stronie. Co s³ychaæ u dzieci?}
-{202}{}{W porz¹dku. Dziêki tobie nie musz¹ ju¿ kraœæ na ulicach i maj¹ miejsce gdzie mog¹ mieszkaæ. Squatterzy których uda³o ci siê przekonaæ, te¿ s¹ wielk¹ pomoc¹ w prowadzeniu tego miejsca. Jeszcze raz dziêkujê za wszystko!}
-{203}{}{W porz¹dku. Dziêki tobie nie musz¹ ju¿ kraœæ na ulicach i maj¹ miejsce gdzie mog¹ mieszkaæ. Jeszcze raz dziêkujê za wszystko!}
-{204}{}{Dobrze to s³yszeæ. Có¿, trzymaj siê.}
-{205}{}{Witaj ponownie! Pomóc ci w czymœ?}
-{206}{}{Nie, tylko siê rozgl¹dam.}
+{100}{}{Widzisz mieszkaÅ„ca Nory.}
+{101}{}{Widzisz mieszkaÅ„ca Nory.}
+{200}{}{CzeÅ›Ä‡ i witaj w...Hej! To dziÄ™ki tobie to miejsce mogÅ‚o powstaÄ‡. MieszkaÅ„cy Nory naprawdÄ™ to doceniajÄ….}
+{201}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie. Co sÅ‚ychaÄ‡ u dzieci?}
+{202}{}{W porzÄ…dku. DziÄ™ki tobie nie muszÄ… juÅ¼ kraÅ›Ä‡ na ulicach i majÄ… miejsce gdzie mogÄ… mieszkaÄ‡. Squatterzy ktÃ³rych udaÅ‚o ci siÄ™ przekonaÄ‡, teÅ¼ sÄ… wielkÄ… pomocÄ… w prowadzeniu tego miejsca. Jeszcze raz dziÄ™kujÄ™ za wszystko!}
+{203}{}{W porzÄ…dku. DziÄ™ki tobie nie muszÄ… juÅ¼ kraÅ›Ä‡ na ulicach i majÄ… miejsce gdzie mogÄ… mieszkaÄ‡. Jeszcze raz dziÄ™kujÄ™ za wszystko!}
+{204}{}{Dobrze to sÅ‚yszeÄ‡. CÃ³Å¼, trzymaj siÄ™.}
+{205}{}{Witaj ponownie! PomÃ³c ci w czymÅ›?}
+{206}{}{Nie, tylko siÄ™ rozglÄ…dam.}

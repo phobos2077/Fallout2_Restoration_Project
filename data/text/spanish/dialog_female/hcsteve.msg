@@ -1,109 +1,109 @@
 {100}{}{Ves a un hombre sonriente con armadura de cuero.}
 {101}{}{Ves a Steve, el ordenanza de Broken Hills.}
-{102}{}{Ves a un hombre amigable con armadura de cuero. Parece como si estuviera ahí de pie todo el día esperando a alguien con quien hablar.}
-{103}{}{¡Hola! Soy Steve. Soy el tipo que puede decirte dónde está cada sitio y qué es qué en este hermoso pueblo. ¿Puedo darte alguna dirección o ayudarte en algo hoy?}
+{102}{}{Ves a un hombre amigable con armadura de cuero. Parece como si estuviera ahÃ­ de pie todo el dÃ­a esperando a alguien con quien hablar.}
+{103}{}{Â¡Hola! Soy Steve. Soy el tipo que puede decirte dÃ³nde estÃ¡ cada sitio y quÃ© es quÃ© en este hermoso pueblo. Â¿Puedo darte alguna direcciÃ³n o ayudarte en algo hoy?}
 {104}{}{Duh...}
-{105}{}{¿Noken Heel?}
-{106}{}{Háblame sobre este sitio.}
-{107}{}{¿Quienes viven aquí?}
-{108}{}{¿Quién está al mando?}
-{109}{}{¿Qué hay de nuevo?}
-{110}{}{¿Qué servicios se ofrecen por aquí?}
+{105}{}{Â¿Noken Heel?}
+{106}{}{HÃ¡blame sobre este sitio.}
+{107}{}{Â¿Quienes viven aquÃ­?}
+{108}{}{Â¿QuiÃ©n estÃ¡ al mando?}
+{109}{}{Â¿QuÃ© hay de nuevo?}
+{110}{}{Â¿QuÃ© servicios se ofrecen por aquÃ­?}
 {111}{}{No. Lo siento.}
-{112}{}{Oh, pequeño. Otra pobre niña del Yermo. Bien, pasa. Verás que somos tan hospitalarios como cualquiera de las otras ciudades del Yermo.}
-{113}{}{¡Tíooooooooooooo!}
-{114}{}{Exacto. Buena suerte, viajera. Y adiós.}
-{115}{}{¡Dos!}
+{112}{}{Oh, pequeÃ±o. Otra pobre niÃ±a del Yermo. Bien, pasa. VerÃ¡s que somos tan hospitalarios como cualquiera de las otras ciudades del Yermo.}
+{113}{}{Â¡TÃ­ooooooooooooo!}
+{114}{}{Exacto. Buena suerte, viajera. Y adiÃ³s.}
+{115}{}{Â¡Dos!}
 {116}{}{Broken Hills. Somos un pueblo minero. Cavamos para obtener cosas. Luego las vendemos.}
-{117}{}{¿Cavar?}
-{118}{}{¡Veder!}
+{117}{}{Â¿Cavar?}
+{118}{}{Â¡Veder!}
 {119}{}{Correcto. Sacar de la tierra. Tenemos una mina. Sin embargo, no creo que tengan un trabajo para ti. Si quieres uno, habla con el Proveedor.}
 {120}{}{Bi-en.}
-{121}{}{¿Vender cosas?}
-{122}{}{Vendemos lo que extraemos a otras ciudades de por aquí. Ellos lo encuentran útil. Si quieres vender algo, puedes hablar con la mayoría de los mercaderes de por aquí. De cualquier forma, debo volver al trabajo. Sé bueno y cuídate, ¿vale?}
-{123}{}{¡Va-le! ¡Adiooooos!}
-{124}{}{Debo volver al trabajo. Sé buena y cuídate, ¿vale?}
-{125}{}{¿Tú otra vez? Bien, sabes lo que debes hacer: ser bueno y cuidarte. ¡Cuídate!}
-{126}{}{¡Va-le! ¡Adiooooos!}
-{127}{}{Guarda tus armas, compañera. No obtendrás respuestas de mí mientras las muestres de esa forma.}
-{128}{}{Somos una pequeña comunidad minera. Fundada hace varias décadas por nuestro sheriff, Marcus, y un hombre llamado Jacob. Eligieron este sitio porque estaba cerca de algunos depósitos de uranio. ¿Quieres que te cuente más?}
-{129}{}{Sí.}
+{121}{}{Â¿Vender cosas?}
+{122}{}{Vendemos lo que extraemos a otras ciudades de por aquÃ­. Ellos lo encuentran Ãºtil. Si quieres vender algo, puedes hablar con la mayorÃ­a de los mercaderes de por aquÃ­. De cualquier forma, debo volver al trabajo. SÃ© bueno y cuÃ­date, Â¿vale?}
+{123}{}{Â¡Va-le! Â¡Adiooooos!}
+{124}{}{Debo volver al trabajo. SÃ© buena y cuÃ­date, Â¿vale?}
+{125}{}{Â¿TÃº otra vez? Bien, sabes lo que debes hacer: ser bueno y cuidarte. Â¡CuÃ­date!}
+{126}{}{Â¡Va-le! Â¡Adiooooos!}
+{127}{}{Guarda tus armas, compaÃ±era. No obtendrÃ¡s respuestas de mÃ­ mientras las muestres de esa forma.}
+{128}{}{Somos una pequeÃ±a comunidad minera. Fundada hace varias dÃ©cadas por nuestro sheriff, Marcus, y un hombre llamado Jacob. Eligieron este sitio porque estaba cerca de algunos depÃ³sitos de uranio. Â¿Quieres que te cuente mÃ¡s?}
+{129}{}{SÃ­.}
 {130}{}{No.}
-{131}{}{Somos un colectivo de humanos, mutantes y necrófagos. No tenemos las tensiones raciales que plagan Ciudad Refugio; para nosotros, todos somos iguales.}
-{132}{}{¿Vivís al lado de mutantes? ¿No sabéis que son malvados?}
-{133}{}{¿Iguales?}
-{134}{}{Gracias. Adiós.}
-{135}{}{Nominalmente, el sheriff Marcus está al cargo de la ciudad. Ayudó a fundarla, y nos ayuda a atravesar nuestras crisis. Lo cierto, sin embargo, es que todos en la ciudad tienen voz.}
+{131}{}{Somos un colectivo de humanos, mutantes y necrÃ³fagos. No tenemos las tensiones raciales que plagan Ciudad Refugio; para nosotros, todos somos iguales.}
+{132}{}{Â¿VivÃ­s al lado de mutantes? Â¿No sabÃ©is que son malvados?}
+{133}{}{Â¿Iguales?}
+{134}{}{Gracias. AdiÃ³s.}
+{135}{}{Nominalmente, el sheriff Marcus estÃ¡ al cargo de la ciudad. AyudÃ³ a fundarla, y nos ayuda a atravesar nuestras crisis. Lo cierto, sin embargo, es que todos en la ciudad tienen voz.}
 {136}{}{Eso parece impracticable.}
 {137}{}{Parece una buena forma de dirigir las cosas.}
-{138}{}{Continúa.}
-{139}{}{¿El tipo que ayudó a crear la ciudad sigue al cargo? Eso implica que será muy, muy viejo.}
-{140}{}{Gracias. Adiós.}
-{141}{}{Sin contar que todos los mutantes estén MUERTOS y el pueblo CONDENADO…}
-{142}{}{Sin contar que todos los mutantes estén muertos y nuestra única fuente de sustento haya sido destruida…}
-{143}{}{Aparte de ti siendo un héroe al exponer la corrupción que había entre nosotros…}
-{144}{}{Aparte de descubrir que tenemos un cáncer entre nosotros, con la fuga de Franc y Manson…}
-{145}{}{Aparte de la traición de Chad a la ciudad y tu justicia - por la cual todos están agradecidos -… }
+{138}{}{ContinÃºa.}
+{139}{}{Â¿El tipo que ayudÃ³ a crear la ciudad sigue al cargo? Eso implica que serÃ¡ muy, muy viejo.}
+{140}{}{Gracias. AdiÃ³s.}
+{141}{}{Sin contar que todos los mutantes estÃ©n MUERTOS y el pueblo CONDENADOâ€¦}
+{142}{}{Sin contar que todos los mutantes estÃ©n muertos y nuestra Ãºnica fuente de sustento haya sido destruidaâ€¦}
+{143}{}{Aparte de ti siendo un hÃ©roe al exponer la corrupciÃ³n que habÃ­a entre nosotrosâ€¦}
+{144}{}{Aparte de descubrir que tenemos un cÃ¡ncer entre nosotros, con la fuga de Franc y Mansonâ€¦}
+{145}{}{Aparte de la traiciÃ³n de Chad a la ciudad y tu justicia - por la cual todos estÃ¡n agradecidos -â€¦ }
 {146}{}{No mucho, realmente.}
-{147}{}{Tengo más preguntas.}
-{148}{}{Adiós.}
-{149}{}{Oh. Otra vez tú.}
+{147}{}{Tengo mÃ¡s preguntas.}
+{148}{}{AdiÃ³s.}
+{149}{}{Oh. Otra vez tÃº.}
 {150}{}{Hola otra vez.}
 {151}{}{Bienvenida de nuevo.}
-{152}{}{¿Quieres saber más?}
-{153}{}{¿Qué hay de nuevo?}
-{154}{}{¿Quién está al mando?}
-{155}{}{Háblame sobre este sitio.}
-{156}{}{¿Quienes viven aquí?}
-{157}{}{¿Qué servicios se ofrecen por aquí?}
+{152}{}{Â¿Quieres saber mÃ¡s?}
+{153}{}{Â¿QuÃ© hay de nuevo?}
+{154}{}{Â¿QuiÃ©n estÃ¡ al mando?}
+{155}{}{HÃ¡blame sobre este sitio.}
+{156}{}{Â¿Quienes viven aquÃ­?}
+{157}{}{Â¿QuÃ© servicios se ofrecen por aquÃ­?}
 {158}{}{No, gracias.}
-{159}{}{Vivimos de refinar el mineral que extraemos de las colinas, y venderlo a comunidades cercanas como Ciudad Refugio, Gecko y la República de Nueva California. Usamos un poco para nuestra propia red eléctrica. ¿Algo más?}
-{160}{}{Sí.}
+{159}{}{Vivimos de refinar el mineral que extraemos de las colinas, y venderlo a comunidades cercanas como Ciudad Refugio, Gecko y la RepÃºblica de Nueva California. Usamos un poco para nuestra propia red elÃ©ctrica. Â¿Algo mÃ¡s?}
+{160}{}{SÃ­.}
 {161}{}{No.}
-{162}{}{Todos somos iguales. Todos procedemos del ser humano; todos tenemos lo mismo bajo el exterior. Decir que alguien es malvado únicamente por su apariencia sólo indica ignorancia.}
-{163}{}{¿Me estás llamando ignorante?}
+{162}{}{Todos somos iguales. Todos procedemos del ser humano; todos tenemos lo mismo bajo el exterior. Decir que alguien es malvado Ãºnicamente por su apariencia sÃ³lo indica ignorancia.}
+{163}{}{Â¿Me estÃ¡s llamando ignorante?}
 {164}{}{Es verdad.}
-{165}{}{No necesariamente. ¿Quién sabe qué hizo el virus que mutó sus mentes?}
-{166}{}{Lo que sea. Adiós.}
-{167}{}{Entendemos que funciona bien para nuestros propósitos. Además, Marcus es sumamente justo.}
-{168}{}{¿Dónde puedo encontrar a Marcus?}
-{169}{}{Adiós.}
-{170}{}{Es viejo. Pero lo lleva bien. Verás, es un mutante, y aparentemente ellos viven más que el resto.}
-{171}{}{¿Dejáis que un MUTANTE dirija este sitio? ¿Estáis locos?}
-{172}{}{¿De verdad? Habría jurado que la mayoría estarían muertos a día de hoy.}
-{173}{}{Un sheriff mutante, ¿eh? Apuesto a que entonces casi todos respetan la ley. Eso debe funcionar bien.}
-{174}{}{Adiós.}
-{175}{}{Ahora nos ganamos la vida, creando nuestra propia versión de la civilización y haciendo lo que podemos para evitar rendirnos a Ciudad Refugio o a la RNC... no necesitamos su estilo de gobierno. Eso es todo.}
-{176}{}{Genial. Tengo más preguntas.}
-{177}{}{Gracias. Adiós.}
-{178}{}{Si vas a insistir en la creencia de que puedes juzgar la mente de alguien por lo que ves en su exterior, entonces sí. Eres indudablemente ignorante.}
-{179}{}{Al diablo contigo, amigo. TÚ eres el ignorante.}
+{165}{}{No necesariamente. Â¿QuiÃ©n sabe quÃ© hizo el virus que mutÃ³ sus mentes?}
+{166}{}{Lo que sea. AdiÃ³s.}
+{167}{}{Entendemos que funciona bien para nuestros propÃ³sitos. AdemÃ¡s, Marcus es sumamente justo.}
+{168}{}{Â¿DÃ³nde puedo encontrar a Marcus?}
+{169}{}{AdiÃ³s.}
+{170}{}{Es viejo. Pero lo lleva bien. VerÃ¡s, es un mutante, y aparentemente ellos viven mÃ¡s que el resto.}
+{171}{}{Â¿DejÃ¡is que un MUTANTE dirija este sitio? Â¿EstÃ¡is locos?}
+{172}{}{Â¿De verdad? HabrÃ­a jurado que la mayorÃ­a estarÃ­an muertos a dÃ­a de hoy.}
+{173}{}{Un sheriff mutante, Â¿eh? Apuesto a que entonces casi todos respetan la ley. Eso debe funcionar bien.}
+{174}{}{AdiÃ³s.}
+{175}{}{Ahora nos ganamos la vida, creando nuestra propia versiÃ³n de la civilizaciÃ³n y haciendo lo que podemos para evitar rendirnos a Ciudad Refugio o a la RNC... no necesitamos su estilo de gobierno. Eso es todo.}
+{176}{}{Genial. Tengo mÃ¡s preguntas.}
+{177}{}{Gracias. AdiÃ³s.}
+{178}{}{Si vas a insistir en la creencia de que puedes juzgar la mente de alguien por lo que ves en su exterior, entonces sÃ­. Eres indudablemente ignorante.}
+{179}{}{Al diablo contigo, amigo. TÃš eres el ignorante.}
 {180}{}{Oh, de acuerdo. Es un buen argumento.}
-{181}{}{De todas formas, eso es todo lo que quería decir. Bienvenido a Broken Hills.}
+{181}{}{De todas formas, eso es todo lo que querÃ­a decir. Bienvenido a Broken Hills.}
 {182}{}{Espera.}
-{183}{}{Adiós.}
-{184}{}{Si los mutantes quisieran hacernos daño, ya lo hubieran hecho. No durarán para siempre: de hecho, la mayoría ya se están volviendo seniles. Construir una comunidad no los ayudará a lograr sus objetivos.}
+{183}{}{AdiÃ³s.}
+{184}{}{Si los mutantes quisieran hacernos daÃ±o, ya lo hubieran hecho. No durarÃ¡n para siempre: de hecho, la mayorÃ­a ya se estÃ¡n volviendo seniles. Construir una comunidad no los ayudarÃ¡ a lograr sus objetivos.}
 {185}{}{Es un buen argumento.}
 {186}{}{Siguen siendo malvados.}
-{187}{}{Adiós.}
-{188}{}{Amiga, cuanto más hablo contigo, más tonto me siento. Con esa actitud, no serás bienvenida en Broken Hills. Discúlpame. Tengo trabajo que hacer.}
+{187}{}{AdiÃ³s.}
+{188}{}{Amiga, cuanto mÃ¡s hablo contigo, mÃ¡s tonto me siento. Con esa actitud, no serÃ¡s bienvenida en Broken Hills. DiscÃºlpame. Tengo trabajo que hacer.}
 {189}{}{Capullo.}
-{190}{}{Hora de morir, cabrón.}
-{191}{}{Tenemos una mina, una refinería, una taberna, un hotel - el cual, por cierto, ha sido perdido por su dueño, así que dejamos a la gente quedarse en él gratis - un hospital, un almacén y a un químico. Producimos nuestro propio alimento.}
-{192}{}{Bien. Tengo más preguntas.}
-{193}{}{Adiós.}
-{194}{}{Bueno, muchos lo han hecho. Dado que los mutantes son estériles… o eso me han hecho creer… están muriendo. Los que quedan se están volviendo seniles. Marcus no, sin embargo. Sigue tan listo como siempre.}
-{195}{}{¿Dónde puedo encontrar a Marcus?}
-{196}{}{Tengo más preguntas.}
-{197}{}{Adiós.}
-{198}{}{Marcus, ¿estás seguro de que no quieres quedarte y liderarnos un tiempo más?}
-{199}{}{Marcus: Eso no tiene futuro. Lo haréis bien sin mí.}
-{200}{}{[MÁS]}
-{201}{}{Amiga, no te queremos aquí. Ya has hecho suficiente daño.}
+{190}{}{Hora de morir, cabrÃ³n.}
+{191}{}{Tenemos una mina, una refinerÃ­a, una taberna, un hotel - el cual, por cierto, ha sido perdido por su dueÃ±o, asÃ­ que dejamos a la gente quedarse en Ã©l gratis - un hospital, un almacÃ©n y a un quÃ­mico. Producimos nuestro propio alimento.}
+{192}{}{Bien. Tengo mÃ¡s preguntas.}
+{193}{}{AdiÃ³s.}
+{194}{}{Bueno, muchos lo han hecho. Dado que los mutantes son estÃ©rilesâ€¦ o eso me han hecho creerâ€¦ estÃ¡n muriendo. Los que quedan se estÃ¡n volviendo seniles. Marcus no, sin embargo. Sigue tan listo como siempre.}
+{195}{}{Â¿DÃ³nde puedo encontrar a Marcus?}
+{196}{}{Tengo mÃ¡s preguntas.}
+{197}{}{AdiÃ³s.}
+{198}{}{Marcus, Â¿estÃ¡s seguro de que no quieres quedarte y liderarnos un tiempo mÃ¡s?}
+{199}{}{Marcus: Eso no tiene futuro. Lo harÃ©is bien sin mÃ­.}
+{200}{}{[MÃS]}
+{201}{}{Amiga, no te queremos aquÃ­. Ya has hecho suficiente daÃ±o.}
 {202}{}{[HECHO]}
-{300}{}{Normalmente, puedes encontrar a Marcus cerca del banco - que también sirve como una buena prisión - o en la misma prisión. A veces está en la taberna o en casa, pero normalmente está trabajando.}
-{301}{}{¡Alborotadora!}
-{302}{}{¡Maldición!}
-{303}{}{¡Hurra!}
-{304}{}{¡Canallas!}
-{305}{}{¡Esa sucia rata!}
+{300}{}{Normalmente, puedes encontrar a Marcus cerca del banco - que tambiÃ©n sirve como una buena prisiÃ³n - o en la misma prisiÃ³n. A veces estÃ¡ en la taberna o en casa, pero normalmente estÃ¡ trabajando.}
+{301}{}{Â¡Alborotadora!}
+{302}{}{Â¡MaldiciÃ³n!}
+{303}{}{Â¡Hurra!}
+{304}{}{Â¡Canallas!}
+{305}{}{Â¡Esa sucia rata!}

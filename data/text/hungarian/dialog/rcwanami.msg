@@ -1,4 +1,4 @@
-{100}{}{Egy Wanamingót látsz.}
-{101}{}{A wanamingó nem örül, hogy hívatlan vendége jött.}
+{100}{}{Egy WanamingÃ³t lÃ¡tsz.}
+{101}{}{A wanamingÃ³ nem Ã¶rÃ¼l, hogy hÃ­vatlan vendÃ©ge jÃ¶tt.}
 {102}{}{You see the queen wanamingo.}
 {103}{}{The queen really does not look too happy at having unexpected guests.}

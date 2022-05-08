@@ -1,76 +1,76 @@
-{100}{}{Egy prostit látsz.}
-{150}{}{Egy szokásos, "tizenkett?-egy-tucat" prostituált.}
-{152}{}{[Beszélgetés]}
-{153}{}{Hé, csajokkal nem nyomom!}
+{100}{}{Egy prostit lÃ¡tsz.}
+{150}{}{Egy szokÃ¡sos, "tizenkett?-egy-tucat" prostituÃ¡lt.}
+{152}{}{[BeszÃ©lgetÃ©s]}
+{153}{}{HÃ©, csajokkal nem nyomom!}
 {154}{}{Ahogy gondolja.}
-{155}{}{Bocsánat.}
+{155}{}{BocsÃ¡nat.}
 {156}{}{Mami?}
-{157}{}{Hé, ha közönség is lesz, többe kerül!}
-{158}{}{Hé, oda fognak menni, ahova én is.}
-{159}{}{Velem jönnek.}
-{160}{}{Mindjárt jövök.}
+{157}{}{HÃ©, ha kÃ¶zÃ¶nsÃ©g is lesz, tÃ¶bbe kerÃ¼l!}
+{158}{}{HÃ©, oda fognak menni, ahova Ã©n is.}
+{159}{}{Velem jÃ¶nnek.}
+{160}{}{MindjÃ¡rt jÃ¶vÃ¶k.}
 {161}{}{Mami?}
-{162}{}{Óh, bébi. Hol voltál egész eddigi életemben?}
-{163}{}{Pont itt, bébi.}
-{164}{}{Mennyi lesz, kishúgom?}
-{165}{}{Ömm, mennem kell. Szia.}
+{162}{}{Ã“h, bÃ©bi. Hol voltÃ¡l egÃ©sz eddigi Ã©letemben?}
+{163}{}{Pont itt, bÃ©bi.}
+{164}{}{Mennyi lesz, kishÃºgom?}
+{165}{}{Ã–mm, mennem kell. Szia.}
 {166}{}{Ty??!}
 {167}{}{A nagy darab mamlaszokat kedvelem.}
-{168}{}{Rám illik!}
-{169}{}{Jéj!}
+{168}{}{RÃ¡m illik!}
+{169}{}{JÃ©j!}
 {170}{}{Jaj, ne. Na, szia!}
-{171}{}{Milyen nagy fiú vagy!}
+{171}{}{Milyen nagy fiÃº vagy!}
 {172}{}{Ahogy te szereted.}
 {173}{}{Igen, asszonyom.}
 {174}{}{Mennem kell.}
-{176}{}{Oké!}
-{177}{}{Nem. Viszlát!}
-{178}{}{Vissza fogsz te még jönni...}
-{179}{}{Meglátjuk.}
-{180}{}{Öhm, aligha.}
-{181}{}{[nyáladzol]}
-{182}{}{Nincs elég zsozsód. T?nj innen, édes!}
+{176}{}{OkÃ©!}
+{177}{}{Nem. ViszlÃ¡t!}
+{178}{}{Vissza fogsz te mÃ©g jÃ¶nni...}
+{179}{}{MeglÃ¡tjuk.}
+{180}{}{Ã–hm, aligha.}
+{181}{}{[nyÃ¡ladzol]}
+{182}{}{Nincs elÃ©g zsozsÃ³d. T?nj innen, Ã©des!}
 {183}{}{I'll come back.}
-{184}{}{Nem éred meg a pénzem, cunci.}
+{184}{}{Nem Ã©red meg a pÃ©nzem, cunci.}
 {185}{}{Bah!}
-{186}{}{Csodálatos voltál!}
-{187}{}{Mint mindig, bébi.}
+{186}{}{CsodÃ¡latos voltÃ¡l!}
+{187}{}{Mint mindig, bÃ©bi.}
 {188}{}{Ahogy gondolja.}
 {189}{}{Te is.}
-{190}{}{Cs?d-állatos!}
-{191}{}{Remek voltál!}
-{192}{}{Kösz. Te is.}
+{190}{}{Cs?d-Ã¡llatos!}
+{191}{}{Remek voltÃ¡l!}
+{192}{}{KÃ¶sz. Te is.}
 {193}{}{Hmm.}
 {194}{}{Ja.}
 {195}{}{Remek!}
-{196}{}{Oké, végeztünk. Szia.}
+{196}{}{OkÃ©, vÃ©geztÃ¼nk. Szia.}
 {197}{}{That's it?}
-{198}{}{Oké. Szia.}
-{199}{}{Jó volt.}
+{198}{}{OkÃ©. Szia.}
+{199}{}{JÃ³ volt.}
 {200}{}{Szia szia.}
-{201}{}{Nem fizetnek eleget ezért.}
-{202}{}{Nem mintha megérted volna a pénzed.}
-{203}{}{Hiányolni fogsz.}
-{204}{}{Viszlát!}
-{205}{}{Eltévedtél?}
+{201}{}{Nem fizetnek eleget ezÃ©rt.}
+{202}{}{Nem mintha megÃ©rted volna a pÃ©nzed.}
+{203}{}{HiÃ¡nyolni fogsz.}
+{204}{}{ViszlÃ¡t!}
+{205}{}{EltÃ©vedtÃ©l?}
 {206}{}{Gyere, amikor csak akarsz!}
-{207}{}{Oké. Helló!}
+{207}{}{OkÃ©. HellÃ³!}
 {208}{}{Ja, persze.}
-{209}{}{Húúú!}
+{209}{}{HÃºÃºÃº!}
 {210}{}{Szeva.}
-{211}{}{Viszlát!}
+{211}{}{ViszlÃ¡t!}
 {212}{}{Szia szia.}
 {213}{}{Egy menet }
-{214}{}{ dollárba kerül. El?re kell fizetni.}
-{215}{}{Kövess!}
-{216}{}{Várok.}
-{217}{}{Nem fogok egész nap ebben a hideg szobában álldogálni.}
-{218}{}{Sietnél egy kicsit?}
-{219}{}{Utolsó esély.}
-{220}{}{Rendben, nem várok tovább.}
-{221}{}{Gyerünk, gyerünk!}
-{222}{}{Kezdesz már felizgulni, vagy valami?}
-{223}{}{Kövess!}
-{224}{}{Hé, haver, vedd le a kezed az áruról!}
-{225}{}{Hagyd abba! Nem vagyok játékszer.}
+{214}{}{ dollÃ¡rba kerÃ¼l. El?re kell fizetni.}
+{215}{}{KÃ¶vess!}
+{216}{}{VÃ¡rok.}
+{217}{}{Nem fogok egÃ©sz nap ebben a hideg szobÃ¡ban Ã¡lldogÃ¡lni.}
+{218}{}{SietnÃ©l egy kicsit?}
+{219}{}{UtolsÃ³ esÃ©ly.}
+{220}{}{Rendben, nem vÃ¡rok tovÃ¡bb.}
+{221}{}{GyerÃ¼nk, gyerÃ¼nk!}
+{222}{}{Kezdesz mÃ¡r felizgulni, vagy valami?}
+{223}{}{KÃ¶vess!}
+{224}{}{HÃ©, haver, vedd le a kezed az Ã¡rurÃ³l!}
+{225}{}{Hagyd abba! Nem vagyok jÃ¡tÃ©kszer.}
 {230}{}{Hogy...? Ez volt az els? alkalom?}

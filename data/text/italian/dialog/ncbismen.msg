@@ -14,7 +14,7 @@
 {222}{}{Ehi, }
 {225}{}{Sei appena entrato nel posto sbagliato, sacco di merda.}
 {226}{}{Beh, non si puo' dire che questo tipo non abbia le palle... smamma, ragazzo, prima che ti spari.}
-{227}{}{Questo tizio cerca guai…}
+{227}{}{Questo tizio cerca guaiâ€¦}
 {228}{}{Mi hanno detto che i }
 {229}{}{Faresti meglio ad andartene, }
 {230}{}{Beh, che mi venga un colpo se non e' }

@@ -1,21 +1,21 @@
 {100}{}{}
 {101}{}{}
-{110}{}{Czujesz niemi³e mrowienie stóp.}
-{120}{}{Chyba robi¹ ci siê niema³e odciski.}
-{130}{}{Twoje buty zaczynaj¹ byæ zbyt ciasne. Te odciski rosn¹ b³yskawicznie.}
-{140}{}{Wygl¹da na to, ¿e odciski zamieni³y siê w dodatkowe palce u stop. Przynajmniej nie odczuwasz ju¿ tego upiornego mrowienia.}
-{141}{}{Mój Bo¿e, to Bess!}
+{110}{}{Czujesz niemiÅ‚e mrowienie stÃ³p.}
+{120}{}{Chyba robiÄ… ci siÄ™ niemaÅ‚e odciski.}
+{130}{}{Twoje buty zaczynajÄ… byÄ‡ zbyt ciasne. Te odciski rosnÄ… bÅ‚yskawicznie.}
+{140}{}{WyglÄ…da na to, Å¼e odciski zamieniÅ‚y siÄ™ w dodatkowe palce u stop. Przynajmniej nie odczuwasz juÅ¼ tego upiornego mrowienia.}
+{141}{}{MÃ³j BoÅ¼e, to Bess!}
 {150}{}{Zdobywasz }
 {151}{}{ PD za zdobycie GECKa.}
-{400}{}{Nie rozumiesz ani s³owa z tekstu, ale ilustracje s¹ bardzo sugestywne.}
-{500}{}{Uzale¿niasz siê od alkoholu. Wkrótce strawi ciê na³óg.}
-{600}{}{Coœ nie dobrego dzieje siê w twoim ¿o³¹dku.}
-{601}{}{Czujesz spore ciœnienie w ¿o³¹dku.}
-{700}{}{Mo¿esz po³¹czyæ podarte fragmenty papieru razem, otrzymuj¹c listê trzech hase³.}
-{800}{}{Te zachcianki s¹ coraz gorsze.}
-{801}{}{Dostajesz drgawek. Mêczy ciê intensywne pragnienie, musisz znaleŸæ coœ do picia, koniecznie z alkoholem.}
-{802}{}{Czujesz siê tak, jakby wielki ciê¿ar zosta³ zdjêty z twoich myœli. Nie odczuwasz ju¿ potrzeby picia alkoholu.}
-{900}{}{Coœ nie dobrego dzieje siê w twoim ¿o³¹dku.}
-{901}{}{Czujesz spore ciœnienie w ¿o³¹dku.}
-{1000}{}{Nie mo¿esz myœleæ. Czujesz pal¹ce pragnienie otworzenia kolejnego pude³ka kart Tragic'a.}
-{1001}{}{Czujesz siê tak, jakby wielki ciê¿ar zosta³ zdjêty z twoich myœli. Tragic nie jest ju¿ sta³¹ czêœci¹ twoich myœli.}
+{400}{}{Nie rozumiesz ani sÅ‚owa z tekstu, ale ilustracje sÄ… bardzo sugestywne.}
+{500}{}{UzaleÅ¼niasz siÄ™ od alkoholu. WkrÃ³tce strawi ciÄ™ naÅ‚Ã³g.}
+{600}{}{CoÅ› nie dobrego dzieje siÄ™ w twoim Å¼oÅ‚Ä…dku.}
+{601}{}{Czujesz spore ciÅ›nienie w Å¼oÅ‚Ä…dku.}
+{700}{}{MoÅ¼esz poÅ‚Ä…czyÄ‡ podarte fragmenty papieru razem, otrzymujÄ…c listÄ™ trzech haseÅ‚.}
+{800}{}{Te zachcianki sÄ… coraz gorsze.}
+{801}{}{Dostajesz drgawek. MÄ™czy ciÄ™ intensywne pragnienie, musisz znaleÅºÄ‡ coÅ› do picia, koniecznie z alkoholem.}
+{802}{}{Czujesz siÄ™ tak, jakby wielki ciÄ™Å¼ar zostaÅ‚ zdjÄ™ty z twoich myÅ›li. Nie odczuwasz juÅ¼ potrzeby picia alkoholu.}
+{900}{}{CoÅ› nie dobrego dzieje siÄ™ w twoim Å¼oÅ‚Ä…dku.}
+{901}{}{Czujesz spore ciÅ›nienie w Å¼oÅ‚Ä…dku.}
+{1000}{}{Nie moÅ¼esz myÅ›leÄ‡. Czujesz palÄ…ce pragnienie otworzenia kolejnego pudeÅ‚ka kart Tragic'a.}
+{1001}{}{Czujesz siÄ™ tak, jakby wielki ciÄ™Å¼ar zostaÅ‚ zdjÄ™ty z twoich myÅ›li. Tragic nie jest juÅ¼ staÅ‚Ä… czÄ™Å›ciÄ… twoich myÅ›li.}

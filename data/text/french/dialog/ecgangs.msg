@@ -1,8 +1,8 @@
-{100}{}{Dégage de notre territoire !}
-{101}{}{Hé toi ! T'es pas sur la bonne route là !}
+{100}{}{DÃ©gage de notre territoire !}
+{101}{}{HÃ© toi ! T'es pas sur la bonne route lÃ  !}
 {102}{}{Ca va faire mal.}
 {103}{}{Qu'est-ce que tu fous dans mon quartier ?}
-{104}{}{Tu as déjà goûté un sandwich au poing américain ?}
+{104}{}{Tu as dÃ©jÃ  goÃ»tÃ© un sandwich au poing amÃ©ricain ?}
 {105}{}{Fous le camp !}
 {106}{}{Tu vas le regretter !}
 {107}{}{Pas de bol !}

@@ -1,17 +1,17 @@
 {100}{}{Widzisz nagrobek.}
 {101}{}{Na nagrobku jest napisane: }
-{102}{}{"Tu leøy Brat Grzegorz. Cz≥owiek, ktÛry nie zna≥ granic."}
-{103}{}{"Ciotka Patty. W istocie, dziÍki Bogu."}
-{104}{}{"Tu leøy Piotr Jπdro. Zginπ≥ z powodu rozszczepienia jednego."}
-{105}{}{"Tu leøy ojciec Micha≥. Za≥oøyciel, Ojciec, Wojownik."}
-{106}{}{"Ateista. Wystrojony, ale nie ma dokπd pÛjúÊ."}
-{107}{}{"Tu leøy Jaú Droødøe. Wybaczcie mi, øe nie rosnÍ."}
-{108}{}{"Mary Jane. Kochajπca øona i matka."}
-{109}{}{"'Szach mat!' by≥o zawo≥aniem starego dobrego Jana. Na szachownicy øycia by≥ tylko pionkiem.}
-{110}{}{"Sir Jan Dziwny, tu leøy uczciwy prawnik i to jest dziwne."}
-{111}{}{"£zy jej nie wskrzeszπ - dlatego p≥aczÍ."}
-{112}{}{"Kaødego dnia i w kaødy sposÛb, staje siÍ coraz lepszy."}
-{250}{}{Nie ma øadnego napisu na tym nagrobku.}
-{251}{}{Nagrobek jest zbyt zniszczony øeby odczytaÊ inskrypcje.}
+{102}{}{"Tu le≈ºy Brat Grzegorz. Cz≈Çowiek, kt√≥ry nie zna≈Ç granic."}
+{103}{}{"Ciotka Patty. W istocie, dziƒôki Bogu."}
+{104}{}{"Tu le≈ºy Piotr JƒÖdro. ZginƒÖ≈Ç z powodu rozszczepienia jednego."}
+{105}{}{"Tu le≈ºy ojciec Micha≈Ç. Za≈Ço≈ºyciel, Ojciec, Wojownik."}
+{106}{}{"Ateista. Wystrojony, ale nie ma dokƒÖd p√≥j≈õƒá."}
+{107}{}{"Tu le≈ºy Ja≈õ Dro≈ºd≈ºe. Wybaczcie mi, ≈ºe nie rosnƒô."}
+{108}{}{"Mary Jane. KochajƒÖca ≈ºona i matka."}
+{109}{}{"'Szach mat!' by≈Ço zawo≈Çaniem starego dobrego Jana. Na szachownicy ≈ºycia by≈Ç tylko pionkiem.}
+{110}{}{"Sir Jan Dziwny, tu le≈ºy uczciwy prawnik i to jest dziwne."}
+{111}{}{"≈Åzy jej nie wskrzeszƒÖ - dlatego p≈Çaczƒô."}
+{112}{}{"Ka≈ºdego dnia i w ka≈ºdy spos√≥b, staje siƒô coraz lepszy."}
+{250}{}{Nie ma ≈ºadnego napisu na tym nagrobku.}
+{251}{}{Nagrobek jest zbyt zniszczony ≈ºeby odczytaƒá inskrypcje.}
 {252}{}{Nazwisko na nagrobku Zbyszek Nowak.}
-{253}{}{Napis na tym nagrobku zosta≥ zatarty przez pogodÍ.}
+{253}{}{Napis na tym nagrobku zosta≈Ç zatarty przez pogodƒô.}

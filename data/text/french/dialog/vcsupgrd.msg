@@ -1,8 +1,8 @@
 {100}{}{Tu vois Martin.}
-{101}{}{Tu vois un homme à la mâchoire tombante qui n'arrête pas de cligner des yeux.}
+{101}{}{Tu vois un homme Ã  la mÃ¢choire tombante qui n'arrÃªte pas de cligner des yeux.}
 {102}{}{Tu vois Martin.}
-{103}{}{Tu vois un homme à la mâchoire tombante qui n'arrête pas de cligner des yeux.}
-{104}{}{Merci de nous avoir sau-sau-sauvés. J'en ai entendu pa-pa-parler jusqu'ici.}
+{103}{}{Tu vois un homme Ã  la mÃ¢choire tombante qui n'arrÃªte pas de cligner des yeux.}
+{104}{}{Merci de nous avoir sau-sau-sauvÃ©s. J'en ai entendu pa-pa-parler jusqu'ici.}
 {105}{}{Au-au secours ! Un intrus !}
 {106}{}{Un mu-mu-mutant ! A l'aide !}
 {107}{}{Une gu-gu-Goule ! A l'aide !}
@@ -25,65 +25,65 @@
 {124}{}{Un bi-bis ? Da-d'accord !}
 {125}{}{<Snifff>}
 {126}{}{Que ?!! Aighhh !}
-{127}{}{Héééé !}
-{128}{}{Holà, doucement !}
-{129}{}{C'est quoi ton problème ?!! Du calme !}
+{127}{}{HÃ©Ã©Ã©Ã© !}
+{128}{}{HolÃ , doucement !}
+{129}{}{C'est quoi ton problÃ¨me ?!! Du calme !}
 {130}{}{Tu-tu as failli me fe-faire avoir une crise ca-cardiaque.}
-{131}{}{Héééé ! Hééééé !}
+{131}{}{HÃ©Ã©Ã©Ã© ! HÃ©Ã©Ã©Ã©Ã© !}
 {132}{}{Je regrette, je ne voulais pas te faire peur.}
-{133}{}{Peut-peut-peut-être que si tu faisais plus attention à ce qu'il se passe autour de toi, tu éviterais de nous faire avoir à tous les DEUX une crise cardiaque.}
+{133}{}{Peut-peut-peut-Ãªtre que si tu faisais plus attention Ã  ce qu'il se passe autour de toi, tu Ã©viterais de nous faire avoir Ã  tous les DEUX une crise cardiaque.}
 {134}{}{C'est pas gra-grave.}
 {135}{}{Ex-ex-excuse-moi.}
-{136}{}{C'est juchte qu'on a pa-pas beau-beaucoup de vi-visiteurs à l'A-a-a-bri.}
-{137}{}{(C'est pas grave. C'est juste que nous n'avons pas beaucoup de visiteurs à l'abri.)}
-{138}{}{(Je m'excuse. C'est juste qu'on a pas beaucoup de visiteurs à l'Abri.)}
+{136}{}{C'est juchte qu'on a pa-pas beau-beaucoup de vi-visiteurs Ã  l'A-a-a-bri.}
+{137}{}{(C'est pas grave. C'est juste que nous n'avons pas beaucoup de visiteurs Ã  l'abri.)}
+{138}{}{(Je m'excuse. C'est juste qu'on a pas beaucoup de visiteurs Ã  l'Abri.)}
 {139}{}{Que fais-tu ici ?}
-{140}{}{Peux-tu me dire où se trouve l'ordinateur central de l'Abri ?}
+{140}{}{Peux-tu me dire oÃ¹ se trouve l'ordinateur central de l'Abri ?}
 {141}{}{Oh. Ca m'a fait plaisir de faire ta connaissance. Au revoir.}
-{142}{}{Ch'est par là-là-bas... Ch'est l'ord-l'ord-l'ordinateur pa-parlant.}
-{143}{}{(C'est par là-bas. C'est l'ordinateur parlant.)}
+{142}{}{Ch'est par lÃ -lÃ -bas... Ch'est l'ord-l'ord-l'ordinateur pa-parlant.}
+{143}{}{(C'est par lÃ -bas. C'est l'ordinateur parlant.)}
 {144}{}{Que fais-tu ici ?}
 {145}{}{Merci. Au revoir.}
-{146}{}{T'as ju-ju-juste à garder un oeil sur les ch-ch-choses qui sont stockées i-i-ici et à r'garder que les p-p-portes sont bien fermées.}
-{147}{}{(Tu n'as qu'à garder un oeil sur les choses qui sont stockées ici et à t'assurer que les portes sont bien verrouillées.)}
-{148}{}{As-tu une clé ?}
+{146}{}{T'as ju-ju-juste Ã  garder un oeil sur les ch-ch-choses qui sont stockÃ©es i-i-ici et Ã  r'garder que les p-p-portes sont bien fermÃ©es.}
+{147}{}{(Tu n'as qu'Ã  garder un oeil sur les choses qui sont stockÃ©es ici et Ã  t'assurer que les portes sont bien verrouillÃ©es.)}
+{148}{}{As-tu une clÃ© ?}
 {149}{}{Que stockez-vous ici ?}
-{150}{}{A bientôt. Au revoir.}
-{151}{}{Oui, oui. Cha fait rien, pa'ce que la plu-plupart des portes sont ble-ble-bloquées de toute fachon.}
-{152}{}{(Oui, oui. Ca ne fait rien, parce la plupart des portes sont bloquées.)}
+{150}{}{A bientÃ´t. Au revoir.}
+{151}{}{Oui, oui. Cha fait rien, pa'ce que la plu-plupart des portes sont ble-ble-bloquÃ©es de toute fachon.}
+{152}{}{(Oui, oui. Ca ne fait rien, parce la plupart des portes sont bloquÃ©es.)}
 {153}{}{Que stockez-vous ici ?}
-{154}{}{A bientôt. Au revoir.}
-{155}{}{Des p-p-pièces de re-rechange... des p-p-provisions... et du mi-mi-minerai...}
-{156}{}{(Des pièces de rechange, des provisions et du minerai.)}
+{154}{}{A bientÃ´t. Au revoir.}
+{155}{}{Des p-p-piÃ¨ces de re-rechange... des p-p-provisions... et du mi-mi-minerai...}
+{156}{}{(Des piÃ¨ces de rechange, des provisions et du minerai.)}
 {157}{}{Du minerai ?}
 {158}{}{Oh. Merci pour les renseignements.}
 {159}{}{Du mi-mi-minerai de Redding... Y en a p'us be-be-beaucoup.}
-{160}{}{(Du minerai de Redding. On en reçoit plus autant ces derniers temps.)}
+{160}{}{(Du minerai de Redding. On en reÃ§oit plus autant ces derniers temps.)}
 {161}{}{Plus beaucoup de minerai de Redding ? Pourquoi donc ?}
 {162}{}{Oh. Merci pour les renseignements.}
-{163}{}{Ch-ch-chais pas. McClure est vraiment inq-inquiet à ce sujet.}
-{164}{}{(Je ne sais pas. McClure est vraiment inquiet à ce sujet.)}
-{165}{}{Peux-tu me dire où se trouve l'ordinateur central ?}
-{166}{}{Je vais peut-être aller lui parler. Merci.}
+{163}{}{Ch-ch-chais pas. McClure est vraiment inq-inquiet Ã  ce sujet.}
+{164}{}{(Je ne sais pas. McClure est vraiment inquiet Ã  ce sujet.)}
+{165}{}{Peux-tu me dire oÃ¹ se trouve l'ordinateur central ?}
+{166}{}{Je vais peut-Ãªtre aller lui parler. Merci.}
 {167}{}{Re-re-rebonchour. T-t-tu as bechoin de que'que chose ?}
 {168}{}{(Rebonjour. Tu as besoin de quelque chose ?)}
 {169}{}{Geeechk.}
-{170}{}{Tu peux pas arrêter de chanter une seconde ?!! Ca me rend dingue.}
-{171}{}{Tu as une très belle voix. Tu devrais continuer à travailler le chant.}
-{172}{}{Que fais-tu ici déjà ?}
-{173}{}{Ca ne fait rien. Je m'excuse de t'avoir dérangée.}
-{174}{}{Me-me-merci ! C'est ge-gentil de dire ça.}
-{175}{}{Que fais-tu ici déjà ?}
-{176}{}{Je pensais que tu devais le savoir. Bonne journée.}
-{177}{}{P-p-pardon. J'a-j'a-jch'arrête.}
-{178}{}{(Pardon. J'arrête.)}
-{179}{}{Bon... Que fais-tu ici déjà ?}
-{180}{}{Bien. Tu rendrais un service à l'humanité en te taisant.}
+{170}{}{Tu peux pas arrÃªter de chanter une seconde ?!! Ca me rend dingue.}
+{171}{}{Tu as une trÃ¨s belle voix. Tu devrais continuer Ã  travailler le chant.}
+{172}{}{Que fais-tu ici dÃ©jÃ  ?}
+{173}{}{Ca ne fait rien. Je m'excuse de t'avoir dÃ©rangÃ©e.}
+{174}{}{Me-me-merci ! C'est ge-gentil de dire Ã§a.}
+{175}{}{Que fais-tu ici dÃ©jÃ  ?}
+{176}{}{Je pensais que tu devais le savoir. Bonne journÃ©e.}
+{177}{}{P-p-pardon. J'a-j'a-jch'arrÃªte.}
+{178}{}{(Pardon. J'arrÃªte.)}
+{179}{}{Bon... Que fais-tu ici dÃ©jÃ  ?}
+{180}{}{Bien. Tu rendrais un service Ã  l'humanitÃ© en te taisant.}
 {181}{}{Tu-tu-tu dois te-te-te t-t-taire ! Shuuuuut !}
 {182}{}{Pardoooon.}
 {183}{}{Qu-qu-qu'est-ce que tu fais ichi ?!!}
 {184}{}{J.E.K.}
-{185}{}{J-j-J.E.K ? Tuuu p-p-peux vérifier l'or-or-ordinateur... La be-be-boîte qui p-p-parle.}
+{185}{}{J-j-J.E.K ? Tuuu p-p-peux vÃ©rifier l'or-or-ordinateur... La be-be-boÃ®te qui p-p-parle.}
 {186}{}{D'accooord. Merchi.}
 {187}{}{Zuh-zuh-zuh-Zzzzzzzzz.}
 {188}{}{Ne-e-e-e t'aaaprooochchchche paaas deeee ceeeette pooorte !}

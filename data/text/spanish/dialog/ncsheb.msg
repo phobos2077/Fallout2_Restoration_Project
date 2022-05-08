@@ -1,16 +1,16 @@
 {100}{}{Ya ves... Sheb.}
-{150}{}{Ves a un hombre huesudo con brillantes ropas azules. Por si las ropas no fueran de por sí bastante llamativas, también está gritando a pleno pulmón.}
-{200}{}{¡Botín, botín, boo-tín!}
-{201}{}{¡Entrad, amantes del botín!}
+{150}{}{Ves a un hombre huesudo con brillantes ropas azules. Por si las ropas no fueran de por sÃ­ bastante llamativas, tambiÃ©n estÃ¡ gritando a pleno pulmÃ³n.}
+{200}{}{Â¡BotÃ­n, botÃ­n, boo-tÃ­n!}
+{201}{}{Â¡Entrad, amantes del botÃ­n!}
 {202}{}{En la Garra de la Gata estamos ofreciendo los precios a la mitad!}
-{203}{}{¡Haznos una oferta sobre nuestra selección principal de botín! ¡Es una liquidación de botín!}
-{204}{}{Tenemos botín blanco, botín negro, botín sureño, botín norteño...}
-{205}{}{Tenemos botín caliente, botín frío, tenemos botín fresco, botín… ::snifff::… *aromático*…}
-{206}{}{Tenemos botín tribal, botín mutante, botín de escorpiones rad, botín robot.}
-{207}{}{Incluso tenemos botín de brahmines, necrófagos y Garras mortales.}
-{208}{}{Vamos, ¿queréis botín? ¡Entrad, amantes del botín!}
-{209}{}{Si no lo tenemos, es porque no lo querías! ¡Entrad, amantes del botín!}
-{210}{}{¡Atención, compradores de botín! ¡Aprovechad esta venta de botín!}
-{211}{}{¡Compra una pieza de botín al precio normal, y conseguirás otra pieza de botín de valor igual o menor por sólo una ficha!}
-{212}{}{¡Pasa y hazte con botín a cambio de una ficha!}
-{213}{}{Si puedes encontrar botín más barato en cualquier parte… ¡HAZNOSLO SABER!}
+{203}{}{Â¡Haznos una oferta sobre nuestra selecciÃ³n principal de botÃ­n! Â¡Es una liquidaciÃ³n de botÃ­n!}
+{204}{}{Tenemos botÃ­n blanco, botÃ­n negro, botÃ­n sureÃ±o, botÃ­n norteÃ±o...}
+{205}{}{Tenemos botÃ­n caliente, botÃ­n frÃ­o, tenemos botÃ­n fresco, botÃ­nâ€¦ ::snifff::â€¦ *aromÃ¡tico*â€¦}
+{206}{}{Tenemos botÃ­n tribal, botÃ­n mutante, botÃ­n de escorpiones rad, botÃ­n robot.}
+{207}{}{Incluso tenemos botÃ­n de brahmines, necrÃ³fagos y Garras mortales.}
+{208}{}{Vamos, Â¿querÃ©is botÃ­n? Â¡Entrad, amantes del botÃ­n!}
+{209}{}{Si no lo tenemos, es porque no lo querÃ­as! Â¡Entrad, amantes del botÃ­n!}
+{210}{}{Â¡AtenciÃ³n, compradores de botÃ­n! Â¡Aprovechad esta venta de botÃ­n!}
+{211}{}{Â¡Compra una pieza de botÃ­n al precio normal, y conseguirÃ¡s otra pieza de botÃ­n de valor igual o menor por sÃ³lo una ficha!}
+{212}{}{Â¡Pasa y hazte con botÃ­n a cambio de una ficha!}
+{213}{}{Si puedes encontrar botÃ­n mÃ¡s barato en cualquier parteâ€¦ Â¡HAZNOSLO SABER!}

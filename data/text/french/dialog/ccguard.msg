@@ -1,20 +1,20 @@
 {100}{}{Tu vois une homme qui brille de partout.}
 {101}{}{Un soldat en super-armure.}
-{102}{}{Un soldat dotÈ d'une sorte de SuperArmure.}
-{103}{}{C'est pas vrai ! Je suis encore de corvÈe de patates !}
-{104}{}{On dit que le vieux va aller ‡ SF !}
+{102}{}{Un soldat dot√© d'une sorte de SuperArmure.}
+{103}{}{C'est pas vrai ! Je suis encore de corv√©e de patates !}
+{104}{}{On dit que le vieux va aller √† SF !}
 {105}{}{J'en ai marre d'attendre. Je dis que nous allons exterminer tous ces primitifs, et pas de quartier !}
 {106}{}{T'as du feu ? Oh attends, laisse tomber. J'en ai.}
-{107}{}{Jeu de dÈs ce soir derriËre le hangar. Ne le dis pas au patron !}
-{108}{}{Qui va l‡ ? <Zzzt> Un intrus ici !}
-{109}{}{Toi l‡-bas ! Stop !}
+{107}{}{Jeu de d√©s ce soir derri√®re le hangar. Ne le dis pas au patron !}
+{108}{}{Qui va l√† ? <Zzzt> Un intrus ici !}
+{109}{}{Toi l√†-bas ! Stop !}
 {110}{}{Un intrus dans la base !}
 {111}{}{Attends... Euh, laisse tomber.}
 {112}{}{Ecoute, tu devrais avoir tes papiers. Ces fausses alertes font sursauter tout le monde.}
-{113}{}{Bon Dieu que ces fausses alertes m'Ènervent !}
+{113}{}{Bon Dieu que ces fausses alertes m'√©nervent !}
 {114}{}{Des intrus par ici ! Attrapez-les !}
-{115}{}{Voil‡ l'intrus !}
-{116}{}{Par ici ! Ne les laissez pas s'Èchapper !}
+{115}{}{Voil√† l'intrus !}
+{116}{}{Par ici ! Ne les laissez pas s'√©chapper !}
 {117}{}{On nous attaque sur le front ! Envoyez-nous des renforts !!}
-{118}{}{Ne laissez pas l'intrus s'Èchapper !}
+{118}{}{Ne laissez pas l'intrus s'√©chapper !}
 {119}{}{Meurs, primitif !}

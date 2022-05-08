@@ -1,117 +1,117 @@
-{100}{}{Widzisz ³owcê niewolników.}
-{150}{}{Skupia ca³¹ swoj¹ uwagê na drzwiach.}
-{200}{}{Hej! £apy przy sobie.}
-{201}{}{Doœæ tego!}
-{210}{}{K³opotów?}
+{100}{}{Widzisz Å‚owcÄ™ niewolnikÃ³w.}
+{150}{}{Skupia caÅ‚Ä… swojÄ… uwagÄ™ na drzwiach.}
+{200}{}{Hej! Åapy przy sobie.}
+{201}{}{DoÅ›Ä‡ tego!}
+{210}{}{KÅ‚opotÃ³w?}
 {211}{}{Lata praktyki?}
 {212}{}{Hmmm.}
-{220}{}{Proszê bardzo.}
+{220}{}{ProszÄ™ bardzo.}
 {230}{}{Hej, jak leci?}
-{231}{}{Hej, jesteœ z nami, co? Super. Mam nadziejê, ¿e mamy jakieœ wspólne cechy.}
-{232}{}{O czym chcesz porozmawiaæ?}
+{231}{}{Hej, jesteÅ› z nami, co? Super. Mam nadziejÄ™, Å¼e mamy jakieÅ› wspÃ³lne cechy.}
+{232}{}{O czym chcesz porozmawiaÄ‡?}
 {233}{}{Kto tam jest?}
 {234}{}{Porozmawiajmy o Vicu...}
-{235}{}{Dobra, dziêki.}
-{236}{}{Muszê ju¿ iœæ.}
+{235}{}{Dobra, dziÄ™ki.}
+{236}{}{MuszÄ™ juÅ¼ iÅ›Ä‡.}
 {237}{}{Robota?}
 {238}{}{Meko veek?}
 {239}{}{Ugruk.}
 {240}{}{Ruru!}
-{250}{}{Nazywa siê Vic - to kupiec, który zepsu³ coœ mojemu szefowi, czy coœ w tym stylu. Nie jestem pewien.}
-{251}{}{Nazywa siê Vic - to kupiec, który narazi³ siê czymœ szefowi, czy coœ w tym stylu. Nie na sto procent.}
-{252}{}{Aaa, on? Taaa, to jakiœ kupiec. Myœlê, ¿e coœ zepsu³, ale nie jestem pewien. Czemu pytasz? Znasz go?}
-{253}{}{Aaa, on? Taaa, to jakiœ kupiec. Myœlê, ¿e coœ zepsu³, ale nie jestem pewien. Czemu pytasz? Znasz go?}
+{250}{}{Nazywa siÄ™ Vic - to kupiec, ktÃ³ry zepsuÅ‚ coÅ› mojemu szefowi, czy coÅ› w tym stylu. Nie jestem pewien.}
+{251}{}{Nazywa siÄ™ Vic - to kupiec, ktÃ³ry naraziÅ‚ siÄ™ czymÅ› szefowi, czy coÅ› w tym stylu. Nie na sto procent.}
+{252}{}{Aaa, on? Taaa, to jakiÅ› kupiec. MyÅ›lÄ™, Å¼e coÅ› zepsuÅ‚, ale nie jestem pewien. Czemu pytasz? Znasz go?}
+{253}{}{Aaa, on? Taaa, to jakiÅ› kupiec. MyÅ›lÄ™, Å¼e coÅ› zepsuÅ‚, ale nie jestem pewien. Czemu pytasz? Znasz go?}
 {254}{}{Taak?}
 {255}{}{Dlaczego go pilnujecie?}
 {256}{}{Kto jest twoim szefem?}
-{257}{}{Czy mogê siê z nim zobaczyæ?}
-{258}{}{Potrafiê naprawiæ wiele rzeczy. Mo¿e mogê jakoœ pomóc?}
-{259}{}{Mam doœwiadczenie naukowe, mo¿e mogê jakoœ pomóc?}
-{260}{}{Drzwi s¹ zamkniête. Móg³byœ je otworzyæ?}
-{261}{}{Dziêkujê.}
-{275}{}{Dziêki za kasê. Mo¿esz siê z nim zobaczyæ. Koleœ nie jest zbyt zabawny. Nie mo¿e opuszczaæ pokoju bez zgody Metzgera. Zrozumiano?}
-{276}{}{Dobra, mo¿esz z nim pogadaæ. Koleœ nie jest zbyt zabawny. Nie mo¿e opuszczaæ pokoju bez zgody Metzgera. Kapujesz?}
-{277}{}{W porz¹dku.}
-{285}{}{¯eby mieæ pewnoœæ, ¿e ¿adna plugawa gnida nie bêdzie mu przeszkadzaæ, gdy pracuje dla szefa, ale te¿ po to, ¿eby nie uciek³.}
-{286}{}{To proste, ¿eby nie uciek³ - przynajmniej tak mi siê wydaje. Naprawia jakieœ radio czy coœ takiego.}
+{257}{}{Czy mogÄ™ siÄ™ z nim zobaczyÄ‡?}
+{258}{}{PotrafiÄ™ naprawiÄ‡ wiele rzeczy. MoÅ¼e mogÄ™ jakoÅ› pomÃ³c?}
+{259}{}{Mam doÅ›wiadczenie naukowe, moÅ¼e mogÄ™ jakoÅ› pomÃ³c?}
+{260}{}{Drzwi sÄ… zamkniÄ™te. MÃ³gÅ‚byÅ› je otworzyÄ‡?}
+{261}{}{DziÄ™kujÄ™.}
+{275}{}{DziÄ™ki za kasÄ™. MoÅ¼esz siÄ™ z nim zobaczyÄ‡. KoleÅ› nie jest zbyt zabawny. Nie moÅ¼e opuszczaÄ‡ pokoju bez zgody Metzgera. Zrozumiano?}
+{276}{}{Dobra, moÅ¼esz z nim pogadaÄ‡. KoleÅ› nie jest zbyt zabawny. Nie moÅ¼e opuszczaÄ‡ pokoju bez zgody Metzgera. Kapujesz?}
+{277}{}{W porzÄ…dku.}
+{285}{}{Å»eby mieÄ‡ pewnoÅ›Ä‡, Å¼e Å¼adna plugawa gnida nie bÄ™dzie mu przeszkadzaÄ‡, gdy pracuje dla szefa, ale teÅ¼ po to, Å¼eby nie uciekÅ‚.}
+{286}{}{To proste, Å¼eby nie uciekÅ‚ - przynajmniej tak mi siÄ™ wydaje. Naprawia jakieÅ› radio czy coÅ› takiego.}
 {287}{}{Kto jest twoim szefem?}
-{288}{}{Czy mogê siê z nim zobaczyæ?}
-{289}{}{Czy mogê siê z nim zobaczyæ?}
-{290}{}{Dziêki.}
-{295}{}{Jasne. Myœlê, ¿e mo¿esz siê z nim zobaczyæ, zw³aszcza ¿e jesteœ z nami.}
-{296}{}{Jasne. Tak s¹dzê. Nie jest niczym zajêty, nigdzie nie mo¿e pójœæ, wiêc czemu nie.}
-{297}{}{Czy w takim razie móg³byœ otworzyæ drzwi?}
-{298}{}{Dobra, dziêki.}
-{305}{}{Jasne. Nie s¹dzi³em, ¿e chcesz siê z nim zobaczyæ w³aœnie teraz. Myœla³em, ¿e pytasz tylko z ciekawoœci.}
-{306}{}{Dziêkujê.}
-{310}{}{Eee? Jesteœ w tym gównianym mieœcie i nie wiesz? To jest siedziba ³owców niewolników.}
-{311}{}{Uff, a mo¿e dorobi³ siê jakiegoœ imienia...}
-{312}{}{Naprawdê? Myœla³em, ¿e jestem w Kansas.}
-{313}{}{Dobra, dziêki.}
-{320}{}{Gdzie? Nigdy nie s³ysza³em o tym miejscu. To jest Nora, o której zreszt¹ te¿ wiem niewiele.}
+{288}{}{Czy mogÄ™ siÄ™ z nim zobaczyÄ‡?}
+{289}{}{Czy mogÄ™ siÄ™ z nim zobaczyÄ‡?}
+{290}{}{DziÄ™ki.}
+{295}{}{Jasne. MyÅ›lÄ™, Å¼e moÅ¼esz siÄ™ z nim zobaczyÄ‡, zwÅ‚aszcza Å¼e jesteÅ› z nami.}
+{296}{}{Jasne. Tak sÄ…dzÄ™. Nie jest niczym zajÄ™ty, nigdzie nie moÅ¼e pÃ³jÅ›Ä‡, wiÄ™c czemu nie.}
+{297}{}{Czy w takim razie mÃ³gÅ‚byÅ› otworzyÄ‡ drzwi?}
+{298}{}{Dobra, dziÄ™ki.}
+{305}{}{Jasne. Nie sÄ…dziÅ‚em, Å¼e chcesz siÄ™ z nim zobaczyÄ‡ wÅ‚aÅ›nie teraz. MyÅ›laÅ‚em, Å¼e pytasz tylko z ciekawoÅ›ci.}
+{306}{}{DziÄ™kujÄ™.}
+{310}{}{Eee? JesteÅ› w tym gÃ³wnianym mieÅ›cie i nie wiesz? To jest siedziba Å‚owcÃ³w niewolnikÃ³w.}
+{311}{}{Uff, a moÅ¼e dorobiÅ‚ siÄ™ jakiegoÅ› imienia...}
+{312}{}{NaprawdÄ™? MyÅ›laÅ‚em, Å¼e jestem w Kansas.}
+{313}{}{Dobra, dziÄ™ki.}
+{320}{}{Gdzie? Nigdy nie sÅ‚yszaÅ‚em o tym miejscu. To jest Nora, o ktÃ³rej zresztÄ… teÅ¼ wiem niewiele.}
 {321}{}{Debil.}
-{322}{}{Uff, dobra. Dziêki.}
-{330}{}{Sukinsyn. Metzger to szef ³owców niewolników. Trzyma w swojej œmierdz¹cej ³apie ca³¹ okolicê.}
-{331}{}{Kurwa. To jest ostatnie miejsce, w którym taka panienka jak ty chcia³aby siê znaleŸæ. Metzger to szef ³owców niewolników.}
+{322}{}{Uff, dobra. DziÄ™ki.}
+{330}{}{Sukinsyn. Metzger to szef Å‚owcÃ³w niewolnikÃ³w. Trzyma w swojej Å›mierdzÄ…cej Å‚apie caÅ‚Ä… okolicÄ™.}
+{331}{}{Kurwa. To jest ostatnie miejsce, w ktÃ³rym taka panienka jak ty chciaÅ‚aby siÄ™ znaleÅºÄ‡. Metzger to szef Å‚owcÃ³w niewolnikÃ³w.}
 {332}{}{Uff, w takim razie gdzie jest jego melina?}
-{333}{}{W porz¹dku. Na razie.}
+{333}{}{W porzÄ…dku. Na razie.}
 {340}{}{W prawo, przez tamte drzwi.}
-{341}{}{Dziêkujê.}
+{341}{}{DziÄ™kujÄ™.}
 {350}{}{Nie rozumiem.}
 {351}{}{Hmph.}
-{360}{}{Vic nie przyjmuje goœci.}
+{360}{}{Vic nie przyjmuje goÅ›ci.}
 {361}{}{Taaa, to jest Vic.}
 {362}{}{Seve?}
 {363}{}{Surek?}
 {364}{}{Gaw.}
-{370}{}{Jasne, mo¿esz siê z nim widzieæ.}
-{371}{}{Jasne, mo¿esz siê z nim widzieæ. Tylko otworzê drzwi.}
-{372}{}{Dziêki.}
-{380}{}{Naprawdê? Jestem pewien, ¿e szef to doceni. Nie chcielibyœmy kolejnej ucieczki.}
-{381}{}{Dziêkujê.}
-{390}{}{Nie. Teraz jest zajêty - pracuje nad jakimœ projektem dla szefa.}
-{391}{}{Nie ma mowy. Rozkaz bezpoœrednio od szefa.}
-{392}{}{Mo¿e tak, a mo¿e nie, masz MOJE pieni¹dze?}
-{393}{}{Muszê zadaæ mu kilka pytañ.}
-{394}{}{No stary, daj spokój. Pozwól mi zamieniæ z nim kilka s³ów.}
+{370}{}{Jasne, moÅ¼esz siÄ™ z nim widzieÄ‡.}
+{371}{}{Jasne, moÅ¼esz siÄ™ z nim widzieÄ‡. Tylko otworzÄ™ drzwi.}
+{372}{}{DziÄ™ki.}
+{380}{}{NaprawdÄ™? Jestem pewien, Å¼e szef to doceni. Nie chcielibyÅ›my kolejnej ucieczki.}
+{381}{}{DziÄ™kujÄ™.}
+{390}{}{Nie. Teraz jest zajÄ™ty - pracuje nad jakimÅ› projektem dla szefa.}
+{391}{}{Nie ma mowy. Rozkaz bezpoÅ›rednio od szefa.}
+{392}{}{MoÅ¼e tak, a moÅ¼e nie, masz MOJE pieniÄ…dze?}
+{393}{}{MuszÄ™ zadaÄ‡ mu kilka pytaÅ„.}
+{394}{}{No stary, daj spokÃ³j. PozwÃ³l mi zamieniÄ‡ z nim kilka sÅ‚Ã³w.}
 {395}{}{Tak. Tutaj.}
-{396}{}{Nie. A jak wrócê, to ma ciê tu ju¿ nie byæ!}
+{396}{}{Nie. A jak wrÃ³cÄ™, to ma ciÄ™ tu juÅ¼ nie byÄ‡!}
 {397}{}{Kto jest twoim szefem?}
-{398}{}{Niewa¿ne. Czeœæ.}
-{410}{}{Przestañ mi zawracaæ dupê. Pogadaj z Metzgerem. On tu rz¹dzi.}
-{411}{}{Zostaw mnie w spokoju! Masz jakiœ problem?}
-{412}{}{Mówi³em, porozmawiaj z Metzgerem!}
-{413}{}{Dobra, poddajê siê! Mo¿esz z nim porozmawiaæ, ale toto zostawiasz tutaj! Nie mo¿e wyjœæ z tego pokoju. Kapujesz? A teraz spierdalaj!}
-{414}{}{W porz¹dku.}
-{415}{}{Dziêki!}
-{430}{}{Taaa, pogadaj z Metzgerem. Na pewno ma jak¹œ robotê. Mówi³ ostatnio, ¿e potrzeba mu nowych ludzi.}
-{431}{}{Taaa, pogadaj z Metzgerem. Na pewno ma jak¹œ robotê. Mówi³ ostatnio, ¿e potrzebuje nowego cz³owieka... ale jestem pewien, ¿e siê nadasz.}
+{398}{}{NiewaÅ¼ne. CzeÅ›Ä‡.}
+{410}{}{PrzestaÅ„ mi zawracaÄ‡ dupÄ™. Pogadaj z Metzgerem. On tu rzÄ…dzi.}
+{411}{}{Zostaw mnie w spokoju! Masz jakiÅ› problem?}
+{412}{}{MÃ³wiÅ‚em, porozmawiaj z Metzgerem!}
+{413}{}{Dobra, poddajÄ™ siÄ™! MoÅ¼esz z nim porozmawiaÄ‡, ale toto zostawiasz tutaj! Nie moÅ¼e wyjÅ›Ä‡ z tego pokoju. Kapujesz? A teraz spierdalaj!}
+{414}{}{W porzÄ…dku.}
+{415}{}{DziÄ™ki!}
+{430}{}{Taaa, pogadaj z Metzgerem. Na pewno ma jakÄ…Å› robotÄ™. MÃ³wiÅ‚ ostatnio, Å¼e potrzeba mu nowych ludzi.}
+{431}{}{Taaa, pogadaj z Metzgerem. Na pewno ma jakÄ…Å› robotÄ™. MÃ³wiÅ‚ ostatnio, Å¼e potrzebuje nowego czÅ‚owieka... ale jestem pewien, Å¼e siÄ™ nadasz.}
 {432}{}{Pogadaj z Metzgerem.}
 {433}{}{Ruru?}
 {434}{}{Hm?}
 {435}{}{Och.}
-{450}{}{Braæ go ch³opcy.}
-{451}{}{Braæ j¹ ch³opcy.}
-{460}{}{Jest zajêty.}
-{461}{}{Proszê, nie bêdziemy opuszczaæ pokoju. Obiecujê.}
-{462}{}{A mo¿e zajmiemy siê czymœ innym - finansami?}
-{463}{}{W porz¹dku. Na razie.}
-{470}{}{Wiêc, uch... No nie wiem. Myœlê, ¿e zale¿y ci na tej rozmowie. $300 i wpuszczam ciê do œrodka.}
-{471}{}{Pojeba³o ciê. To za du¿o!}
-{472}{}{Ale z ciebie kutwa, koleœ!}
+{450}{}{BraÄ‡ go chÅ‚opcy.}
+{451}{}{BraÄ‡ jÄ… chÅ‚opcy.}
+{460}{}{Jest zajÄ™ty.}
+{461}{}{ProszÄ™, nie bÄ™dziemy opuszczaÄ‡ pokoju. ObiecujÄ™.}
+{462}{}{A moÅ¼e zajmiemy siÄ™ czymÅ› innym - finansami?}
+{463}{}{W porzÄ…dku. Na razie.}
+{470}{}{WiÄ™c, uch... No nie wiem. MyÅ›lÄ™, Å¼e zaleÅ¼y ci na tej rozmowie. $300 i wpuszczam ciÄ™ do Å›rodka.}
+{471}{}{PojebaÅ‚o ciÄ™. To za duÅ¼o!}
+{472}{}{Ale z ciebie kutwa, koleÅ›!}
 {473}{}{Jasne.}
 {474}{}{Nie mam tyle.}
-{480}{}{Œwietnie, widzisz jak siê o ciebie troszczê.}
-{481}{}{W porz¹dku.}
+{480}{}{Åšwietnie, widzisz jak siÄ™ o ciebie troszczÄ™.}
+{481}{}{W porzÄ…dku.}
 {482}{}{Dobra.}
 {490}{}{Nie.}
-{491}{}{Powiedzia³em nie. Teraz spierdalaj. Musisz pogadaæ z Metzgerem.}
-{492}{}{W porz¹dku.}
-{500}{}{Szkoda ¿e siê do nas nie przy³¹czy³eœ.}
-{501}{}{Musisz przy³¹czyæ siê do gidili.}
-{502}{}{Po prostu rób to co kryjomu.}
-{503}{}{Mam nadziejê, ¿e Vic nie pracuje tylko dla was.}
-{504}{}{Lepiej rób swoje.}
-{505}{}{Mo¿e z³apiê ciê, gdy bêdziesz uciekaæ.}
+{491}{}{PowiedziaÅ‚em nie. Teraz spierdalaj. Musisz pogadaÄ‡ z Metzgerem.}
+{492}{}{W porzÄ…dku.}
+{500}{}{Szkoda Å¼e siÄ™ do nas nie przyÅ‚Ä…czyÅ‚eÅ›.}
+{501}{}{Musisz przyÅ‚Ä…czyÄ‡ siÄ™ do gidili.}
+{502}{}{Po prostu rÃ³b to co kryjomu.}
+{503}{}{Mam nadziejÄ™, Å¼e Vic nie pracuje tylko dla was.}
+{504}{}{Lepiej rÃ³b swoje.}
+{505}{}{MoÅ¼e zÅ‚apiÄ™ ciÄ™, gdy bÄ™dziesz uciekaÄ‡.}
 {506}{}{Jak leci?}
-{507}{}{Znowu siê widzimy.}
+{507}{}{Znowu siÄ™ widzimy.}

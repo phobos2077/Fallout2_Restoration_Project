@@ -1,47 +1,47 @@
 {100}{}{Widzisz Henka.}
-{101}{}{Widzisz t³ustego mnicha.}
+{101}{}{Widzisz tÅ‚ustego mnicha.}
 {102}{}{Grzebie przy piecu.}
-{200}{}{Hej, przyjacielu. Masz mo¿e zapalniczkê?}
-{201}{}{Ta. [Podajesz mu zapalniczkê.]}
-{202}{}{Mo¿e byæ. Dziêki!}
-{203}{}{Z czystej ciekawoœci, co ty tu robisz?}
-{204}{}{Pewnie. W koñcu od ciebie mam zapalniczkê, pierwszy na koszt firmy.}
+{200}{}{Hej, przyjacielu. Masz moÅ¼e zapalniczkÄ™?}
+{201}{}{Ta. [Podajesz mu zapalniczkÄ™.]}
+{202}{}{MoÅ¼e byÄ‡. DziÄ™ki!}
+{203}{}{Z czystej ciekawoÅ›ci, co ty tu robisz?}
+{204}{}{Pewnie. W koÅ„cu od ciebie mam zapalniczkÄ™, pierwszy na koszt firmy.}
 {205}{}{[Pijesz.]}
-{206}{}{Zmieni³em zdanie - nie chcê ¿adnego alkoholu. Czeœæ.}
-{207}{}{(Po wypiciu drinka czujesz ciep³o i odprê¿asz siê.)}
+{206}{}{ZmieniÅ‚em zdanie - nie chcÄ™ Å¼adnego alkoholu. CzeÅ›Ä‡.}
+{207}{}{(Po wypiciu drinka czujesz ciepÅ‚o i odprÄ™Å¼asz siÄ™.)}
 {208}{}{Jeszcze jednego, Henk.}
-{209}{}{Pójdê ju¿, czeœæ.}
-{210}{}{(Czujesz siê jak przemielone gówno, potem twój wzrok siê rozmywa. Upadasz na pod³ogê...)}
+{209}{}{PÃ³jdÄ™ juÅ¼, czeÅ›Ä‡.}
+{210}{}{(Czujesz siÄ™ jak przemielone gÃ³wno, potem twÃ³j wzrok siÄ™ rozmywa. Upadasz na podÅ‚ogÄ™...)}
 {211}{}{[dalej]}
 {212}{}{Nie, wybacz.}
-{213}{}{Znowu siê widzimy.}
+{213}{}{Znowu siÄ™ widzimy.}
 {214}{}{Witaj i bywaj.}
-{215}{}{Ten nie bêdzie za darmo. Bêdzie Ciê kosztowa³ 20$.}
-{216}{}{Jasne. Pieni¹dze dla ciebie.}
-{217}{}{Nie, mam doœæ. Mo¿e nastêpnym razem.}
-{218}{}{(Chowa pieni¹dze do kieszeni.) W porz¹dku, twój drink.}
-{219}{}{Wrócê, gdy zdobêde wiêcej pieniêdzy.}
-{220}{}{Znalaz³eœ zapalniczkê?}
-{250}{}{Chce kupiæ trochê twojego bimbru.}
-{251}{}{Tylko siê rozgl¹dam. Trzymaj siê.}
-{252}{}{Pewnie. 20$ za butelkê.}
+{215}{}{Ten nie bÄ™dzie za darmo. BÄ™dzie CiÄ™ kosztowaÅ‚ 20$.}
+{216}{}{Jasne. PieniÄ…dze dla ciebie.}
+{217}{}{Nie, mam doÅ›Ä‡. MoÅ¼e nastÄ™pnym razem.}
+{218}{}{(Chowa pieniÄ…dze do kieszeni.) W porzÄ…dku, twÃ³j drink.}
+{219}{}{WrÃ³cÄ™, gdy zdobÄ™de wiÄ™cej pieniÄ™dzy.}
+{220}{}{ZnalazÅ‚eÅ› zapalniczkÄ™?}
+{250}{}{Chce kupiÄ‡ trochÄ™ twojego bimbru.}
+{251}{}{Tylko siÄ™ rozglÄ…dam. Trzymaj siÄ™.}
+{252}{}{Pewnie. 20$ za butelkÄ™.}
 {253}{}{[Zachowaj.]}
-{300}{}{Gdzie ja po³o¿y³em moj¹ zapalniczkê?}
-{301}{}{Potrzebujê zapalniczki.}
-{302}{}{CZY KTOŒ MÓG£BY MI PRZYNIEŒÆ ZAPALNICZKÊ!?}
+{300}{}{Gdzie ja poÅ‚oÅ¼yÅ‚em mojÄ… zapalniczkÄ™?}
+{301}{}{PotrzebujÄ™ zapalniczki.}
+{302}{}{CZY KTOÅš MÃ“GÅBY MI PRZYNIEÅšÄ† ZAPALNICZKÄ˜!?}
 {303}{}{Eh, Witaj.}
-{304}{}{Wybacz, ale nie mogê teraz gawêdziæ.}
+{304}{}{Wybacz, ale nie mogÄ™ teraz gawÄ™dziÄ‡.}
 {400}{}{Rany, patrz na te wszystkie gwiazdy!}
-{500}{}{Czeœæ. Potrzebujesz czegoœ?}
-{501}{}{Hej, dziêki za zapalniczkê. Jest lepsza ni¿ moja stara zapalniczka.}
-{600}{}{Tu w klasztorze pêdzimy swój alkohol. Jedna z najmocniejszych rzeczy na Pustkowiach.}
-{601}{}{Mogê trochê dostaæ?}
-{602}{}{Brzmi interesuj¹co. Muszê ju¿ iœæ.}
-{700}{}{Szkoda. Ostatnio zgubi³em swoj¹ i nie mogê jej znaleŸæ. Gdyby uda³o ci jak¹œ zdobyæ, chêtnie bym j¹ od ciebie wzi¹³.}
-{701}{}{Pewnie. Jak tylko jak¹œ znajdê dam ci znaæ. Czeœæ.}
-{702}{}{Wybacz. To takie moje hobby, kolekcjonuje wszystko co znajdê. Czeœæ.}
-{800}{}{Zap-niczka? Mam ognioroba. Oparzyæ mnie wiele razy. (Pokazujesz zapalniczkê.).}
-{810}{}{Tak, to jest to czego potrzebujê. Dasz mi j¹?}
-{811}{}{Yhy. I tak nie lubiæ ta rzecz.}
-{812}{}{Ja nie daæ.}
-{820}{}{Ty nie teraz poparzyæ siê te¿. Czeœæ!}
+{500}{}{CzeÅ›Ä‡. Potrzebujesz czegoÅ›?}
+{501}{}{Hej, dziÄ™ki za zapalniczkÄ™. Jest lepsza niÅ¼ moja stara zapalniczka.}
+{600}{}{Tu w klasztorze pÄ™dzimy swÃ³j alkohol. Jedna z najmocniejszych rzeczy na Pustkowiach.}
+{601}{}{MogÄ™ trochÄ™ dostaÄ‡?}
+{602}{}{Brzmi interesujÄ…co. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{700}{}{Szkoda. Ostatnio zgubiÅ‚em swojÄ… i nie mogÄ™ jej znaleÅºÄ‡. Gdyby udaÅ‚o ci jakÄ…Å› zdobyÄ‡, chÄ™tnie bym jÄ… od ciebie wziÄ…Å‚.}
+{701}{}{Pewnie. Jak tylko jakÄ…Å› znajdÄ™ dam ci znaÄ‡. CzeÅ›Ä‡.}
+{702}{}{Wybacz. To takie moje hobby, kolekcjonuje wszystko co znajdÄ™. CzeÅ›Ä‡.}
+{800}{}{Zap-niczka? Mam ognioroba. OparzyÄ‡ mnie wiele razy. (Pokazujesz zapalniczkÄ™.).}
+{810}{}{Tak, to jest to czego potrzebujÄ™. Dasz mi jÄ…?}
+{811}{}{Yhy. I tak nie lubiÄ‡ ta rzecz.}
+{812}{}{Ja nie daÄ‡.}
+{820}{}{Ty nie teraz poparzyÄ‡ siÄ™ teÅ¼. CzeÅ›Ä‡!}

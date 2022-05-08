@@ -51,7 +51,7 @@
 {150}{}{Oh! Well, welcome to Vault City, Captain.}
 {151}{}{Well, welcome to Vault City, fellow Citizen.}
 {152}{}{We don't see many new faces around here. I'm Phyllis. What's your name?}
-{153}{}{Meu nome é}
+{153}{}{Meu nome Ã©}
 {154}{}{Eu sou }
 {155}{}{If I wanted to give you my name, I would have told it to you, "Sy-phyllis"... or whatever the hell your name is.}
 {156}{}{Sorry, I don't have time to talk right now.}
@@ -68,9 +68,9 @@
 {167}{}{Welcome back. Anything I can help you with?}
 {168}{}{Of course. What is it you would like to know?}
 {169}{}{What do you think of Dr. Troy?}
-{170}{}{Você sabe me dizer onde fica o Computador Central?}
+{170}{}{VocÃª sabe me dizer onde fica o Computador Central?}
 {171}{}{I need some healing.}
-{172}{}{O que você faz aqui?}
+{172}{}{O que vocÃª faz aqui?}
 {173}{}{Can you tell me about Vault City?}
 {174}{}{Actually, never mind. Thanks anyway.}
 {175}{}{Oh, Dr. Troy can be pretty strict sometimes, but all in all, he's a good man. Vault City's fortunate to have him.}
@@ -87,13 +87,13 @@
 {186}{}{All right, then. Can I ask you another question?}
 {187}{}{Thanks for the warning. Maybe I should go talk to someone else.}
 {188}{}{It's down on the 3rd level, if I remember correctly. Haven't been down there in ages.}
-{189}{}{Por que não?}
+{189}{}{Por que nÃ£o?}
 {190}{}{Posso te fazer outra pergunta?}
-{191}{}{Obrigado pelas direções. Tchau.}
+{191}{}{Obrigado pelas direÃ§Ãµes. Tchau.}
 {192}{}{Oh, I don't know. Not much reason to go down into the Vault. It's mostly used for storage space nowadays. The only one down there is Martin, and... well, just between you and me, he's not a great conversationalist.}
 {193}{}{Uhh.... Why did they make him conversationalist if he's no good at his job?}
 {194}{}{Posso te fazer outra pergunta?}
-{195}{}{Entendo. Obrigado pela informação.}
+{195}{}{Entendo. Obrigado pela informaÃ§Ã£o.}
 {196}{}{Uh... maybe you SHOULD go speak to him. You two may have more in common than I first thought.}
 {197}{}{Can I ask you another question first?}
 {198}{}{All right then. I'll go speak to him.}
@@ -117,18 +117,18 @@
 {216}{}{Well... yes. Actually, there aren't. Yet. I don't know if anyone told you yet, Vault City is a planned community. We're not due for another pregnancy cycle until a few years from now.}
 {217}{}{Uh... a pregnancy cycle?}
 {218}{}{Posso te fazer outra pergunta?}
-{219}{}{Entendo. Bem, agradeço pela informação.}
+{219}{}{Entendo. Bem, agradeÃ§o pela informaÃ§Ã£o.}
 {220}{}{Yes. Pregnancies are permitted only during certain years established by the Council.}
 {221}{}{What if you get pregnant anyway?}
-{222}{}{Oh. Ei, tenho algumas outras perguntas…}
-{223}{}{Entendo. Bem, agradeço pela informação.}
+{222}{}{Oh. Ei, tenho algumas outras perguntasâ€¦}
+{223}{}{Entendo. Bem, agradeÃ§o pela informaÃ§Ã£o.}
 {224}{}{How would that happen?}
 {225}{}{Uh, last I heard, SEX can make someone pregnant.}
 {226}{}{Forget I asked. Look, I had some other questions...}
 {227}{}{Never mind. I better be going.}
 {228}{}{Oh, you mean intercourse? Intercourse is still allowed outside of pregnancy cycles.}
 {229}{}{Doesn't that make people pregnant?}
-{230}{}{Oh. Ei, tenho algumas outras perguntas…}
+{230}{}{Oh. Ei, tenho algumas outras perguntasâ€¦}
 {231}{}{Oh, well. Just thought I'd ask.}
 {232}{}{Oh, no, no... you see, our pregnancies don't result from intercourse.}
 {233}{}{I'm afraid to ask. But I will anyway.}
@@ -141,7 +141,7 @@
 {240}{}{Would you excuse me? I'm going to go see if I can get my Citizenship revoked.}
 {241}{}{I think I'm going to go somewhere and be violently ill. Goodbye.}
 {242}{}{Certainly. We'd welcome your contribution. Vault City could use some fresh genetic material.}
-{243}{}{Tudo bem, então...}
+{243}{}{Tudo bem, entÃ£o...}
 {244}{}{Say, could I get a magazine or something?}
 {245}{}{Your contribution is impressive... you yourself seem to be quite gifted. How do you feel?}
 {246}{}{Excellent! Thank you.}
@@ -179,7 +179,7 @@
 {278}{}{Aw, c'mon. I'm new. I'll get into trouble if I go around by myself.}
 {279}{}{All right. Can I ask you some questions then?}
 {280}{}{Oh, well. Just thought I'd ask.}
-{281}{}{Grande! Vamos lá.}
+{281}{}{Grande! Vamos lÃ¡.}
 {282}{}{Thanks for the wonderful evening.}
 {283}{}{Uh... sure. Maybe we'll go out some other time. I'll... uh, call you. Bye.}
 {284}{}{I'm sorry, but no.}

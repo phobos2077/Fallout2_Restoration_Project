@@ -1,43 +1,43 @@
-{100}{}{Widzisz mê¿czyznê w stalowej zbroi.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ w stalowej zbroi.}
 {101}{}{To Luke.}
-{102}{}{Widzisz mê¿czyznê w stalowej zbroi z symbolem b³yskawicy.}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ w stalowej zbroi z symbolem bÅ‚yskawicy.}
 {103}{}{Witaj,}
-{104}{}{. Jestem Luke. Co mogê dla ciebie zrobiæ?}
-{105}{}{Sk¹d zna imiê?}
-{106}{}{Sk¹d znasz moje imiê?}
-{107}{}{Joshua wspomina³, ¿e spotka³ ciê w filii w Norze. Mówi³, ¿e jesteœ ma³¹ rybk¹ robi¹c¹ du¿e fale.}
-{108}{}{Wieœci siê roznosz¹. Jesteœ ma³¹ rybk¹ robi¹c¹ du¿e fale.}
-{109}{}{Co znaczyæ?}
-{110}{}{Co chcesz przez to powiedzieæ?}
-{111}{}{Przyci¹gasz uwagê wielu ludzi. Dzia³aj ostro¿niej.}
-{112}{}{Mów dalej.}
-{113}{}{Mówi dalej, s³ucham.}
-{114}{}{Doœæ ju¿ powiedzia³em. Musisz wracaæ do swoich poszukiwañ.}
-{115}{}{Ta sama gadka Joshua. Moja musieæ pytanie.}
+{104}{}{. Jestem Luke. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{105}{}{SkÄ…d zna imiÄ™?}
+{106}{}{SkÄ…d znasz moje imiÄ™?}
+{107}{}{Joshua wspominaÅ‚, Å¼e spotkaÅ‚ ciÄ™ w filii w Norze. MÃ³wiÅ‚, Å¼e jesteÅ› maÅ‚Ä… rybkÄ… robiÄ…cÄ… duÅ¼e fale.}
+{108}{}{WieÅ›ci siÄ™ roznoszÄ…. JesteÅ› maÅ‚Ä… rybkÄ… robiÄ…cÄ… duÅ¼e fale.}
+{109}{}{Co znaczyÄ‡?}
+{110}{}{Co chcesz przez to powiedzieÄ‡?}
+{111}{}{PrzyciÄ…gasz uwagÄ™ wielu ludzi. DziaÅ‚aj ostroÅ¼niej.}
+{112}{}{MÃ³w dalej.}
+{113}{}{MÃ³wi dalej, sÅ‚ucham.}
+{114}{}{DoÅ›Ä‡ juÅ¼ powiedziaÅ‚em. Musisz wracaÄ‡ do swoich poszukiwaÅ„.}
+{115}{}{Ta sama gadka Joshua. Moja musieÄ‡ pytanie.}
 {116}{}{Czekaj, u mnie pytanie.}
-{117}{}{W ten sam sposób zby³ mnie Joshua. Mogê o coœ spytaæ?}
-{118}{}{Czekaj, chcê ciê o coœ zapytaæ.}
-{119}{}{Joshua pozwoli³ ci na jedno pytanie. Ja zrobiê tak samo. Jak bêdzie ono brzmieæ?}
-{120}{}{Dobrze, odpowiem na jedno pytanie. Co chcesz wiedzieæ?}
-{121}{}{Wiedzieæ gdzie GECK?}
-{122}{}{Wiedzieæ gdzie Kruchta 13?}
-{123}{}{Kim wy do cholery jesteœcie?}
-{124}{}{Wiesz mo¿e, gdzie znajdê GECKa?}
-{125}{}{Nie wiesz gdzie znajduje siê Krypta 13?}
-{126}{}{Kim wy do cholery jesteœcie?}
-{127}{}{Tak, wydaje mi siê, ¿e Krypta 13 nigdy swoich nie u¿y³a. Powinno ci siê udaæ znaleŸæ to tam. Powodzenia,}
+{117}{}{W ten sam sposÃ³b zbyÅ‚ mnie Joshua. MogÄ™ o coÅ› spytaÄ‡?}
+{118}{}{Czekaj, chcÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{119}{}{Joshua pozwoliÅ‚ ci na jedno pytanie. Ja zrobiÄ™ tak samo. Jak bÄ™dzie ono brzmieÄ‡?}
+{120}{}{Dobrze, odpowiem na jedno pytanie. Co chcesz wiedzieÄ‡?}
+{121}{}{WiedzieÄ‡ gdzie GECK?}
+{122}{}{WiedzieÄ‡ gdzie Kruchta 13?}
+{123}{}{Kim wy do cholery jesteÅ›cie?}
+{124}{}{Wiesz moÅ¼e, gdzie znajdÄ™ GECKa?}
+{125}{}{Nie wiesz gdzie znajduje siÄ™ Krypta 13?}
+{126}{}{Kim wy do cholery jesteÅ›cie?}
+{127}{}{Tak, wydaje mi siÄ™, Å¼e Krypta 13 nigdy swoich nie uÅ¼yÅ‚a. Powinno ci siÄ™ udaÄ‡ znaleÅºÄ‡ to tam. Powodzenia,}
 {128}{}{Czeka! Gdzie krypta?}
-{129}{}{Poczekaj chwilkê! A gdzie jest ta krypta?}
-{130}{}{Tak, jej lokalizacja przechowywana jest systemach komputerowych Krypty 15, na wschód st¹d. Powodzenia,}
+{129}{}{Poczekaj chwilkÄ™! A gdzie jest ta krypta?}
+{130}{}{Tak, jej lokalizacja przechowywana jest systemach komputerowych Krypty 15, na wschÃ³d stÄ…d. Powodzenia,}
 {131}{}{.}
-{132}{}{Dziêkujê.}
-{133}{}{Jesteœmy Bractwem Stali. W tej chwili nic ci wiêcej nie powiem. Powodzenia,}
-{134}{}{Czeka! Moja wiedzieæ tera wiêcej!}
-{135}{}{Chwileczkê, nie mo¿esz tego ot tak zostawiæ!}
+{132}{}{DziÄ™kujÄ™.}
+{133}{}{JesteÅ›my Bractwem Stali. W tej chwili nic ci wiÄ™cej nie powiem. Powodzenia,}
+{134}{}{Czeka! Moja wiedzieÄ‡ tera wiÄ™cej!}
+{135}{}{ChwileczkÄ™, nie moÅ¼esz tego ot tak zostawiÄ‡!}
 {136}{}{Witaj znowu. Nie mam ci nic nowego do powiedzenia.}
-{137}{}{. Có¿... Widaæ, ¿e uda³o ci siê przebyæ dalek¹ drogê od prostego dzikusa. Radzi³bym ci odwiedziæ kiedyœ nasz oddzia³ w San Francisco. Mo¿e ci siê to op³aciæ. A teraz, jeœli wybaczysz...}
+{137}{}{. CÃ³Å¼... WidaÄ‡, Å¼e udaÅ‚o ci siÄ™ przebyÄ‡ dalekÄ… drogÄ™ od prostego dzikusa. RadziÅ‚bym ci odwiedziÄ‡ kiedyÅ› nasz oddziaÅ‚ w San Francisco. MoÅ¼e ci siÄ™ to opÅ‚aciÄ‡. A teraz, jeÅ›li wybaczysz...}
 {138}{}{Witaj znowu. Nie mam ci nic nowego do powiedzenia.}
 {139}{}{Czekaj...}
-{140}{}{Do pomieszczenie zamkniête.}
+{140}{}{Do pomieszczenie zamkniÄ™te.}
 {141}{}{Nic tam po tobie.}
-{142}{}{To teren prywatny. Lepiej st¹d idŸ.}
+{142}{}{To teren prywatny. Lepiej stÄ…d idÅº.}

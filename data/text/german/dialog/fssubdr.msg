@@ -1,1 +1,1 @@
-{100}{}{Die Tür ist komplett verrostet. Du hast keine Chance sie zu öffnen.}
+{100}{}{Die TÃ¼r ist komplett verrostet. Du hast keine Chance sie zu Ã¶ffnen.}

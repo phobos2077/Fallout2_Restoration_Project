@@ -1,1 +1,1 @@
-{100}{}{Usted entrar en una pequeña cueva. Usted puede escuchar los ruidos provenientes del interior.}
+{100}{}{Usted entrar en una pequeÃ±a cueva. Usted puede escuchar los ruidos provenientes del interior.}

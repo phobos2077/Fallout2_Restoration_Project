@@ -1,134 +1,134 @@
-{100}{}{Puede ver el tamaño medio de un hombre con polvo de la ropa.}
+{100}{}{Puede ver el tamaÃ±o medio de un hombre con polvo de la ropa.}
 {101}{}{Ves a Bill, el Proveedor.}
-{102}{}{Ves a un hombre de mediano tamaño vestido con ropa polvorienta. Huele como si hubiera estado cuidando de un brahmin.}
-{103}{}{Buenas, coleguilla. ¿Qué puedo hacer por ti?}
-{104}{}{¡Nimma ardle ah!}
-{105}{}{¿Das trabajo?}
+{102}{}{Ves a un hombre de mediano tamaÃ±o vestido con ropa polvorienta. Huele como si hubiera estado cuidando de un brahmin.}
+{103}{}{Buenas, coleguilla. Â¿QuÃ© puedo hacer por ti?}
+{104}{}{Â¡Nimma ardle ah!}
+{105}{}{Â¿Das trabajo?}
 {106}{}{Estoy buscando trabajo.}
 {107}{}{Necesito comprar algunas cosas.}
-{108}{}{¿Qué puedes contarme sobre Chad?}
-{109}{}{Lo siento por Chad. Se lo merecía.}
-{110}{}{Supongo que tu organizador de caravanas, Chad, está de mierda hasta el cuello ahora mismo.}
-{111}{}{¿Quién eres?}
+{108}{}{Â¿QuÃ© puedes contarme sobre Chad?}
+{109}{}{Lo siento por Chad. Se lo merecÃ­a.}
+{110}{}{Supongo que tu organizador de caravanas, Chad, estÃ¡ de mierda hasta el cuello ahora mismo.}
+{111}{}{Â¿QuiÃ©n eres?}
 {112}{}{Lo siento, muchacho, pero no entiendo una palabra de lo que dices. Ten una piruleta.}
-{113}{}{¡Oooh!}
-{114}{}{Desde luego. Hay un montón de mierda de brahmin ahí atrás. Recógela durante un día y te pagaré 100 dólares.
- ¿Hacemos un trato?}
-{115}{}{¿Quieres un trabajo? Bueno, tenemos dos opciones: recoger excrementos de brahmin durante un día por 100 dólares, o puedes
- escoltar una de nuestras caravanas por 200 dólares. Tenemos caravanas a Gecko, la República de Nueva California, y Ciudad
+{113}{}{Â¡Oooh!}
+{114}{}{Desde luego. Hay un montÃ³n de mierda de brahmin ahÃ­ atrÃ¡s. RecÃ³gela durante un dÃ­a y te pagarÃ© 100 dÃ³lares.
+ Â¿Hacemos un trato?}
+{115}{}{Â¿Quieres un trabajo? Bueno, tenemos dos opciones: recoger excrementos de brahmin durante un dÃ­a por 100 dÃ³lares, o puedes
+ escoltar una de nuestras caravanas por 200 dÃ³lares. Tenemos caravanas a Gecko, la RepÃºblica de Nueva California, y Ciudad
  Refugio.}
-{116}{}{¡De acuerdo!}
+{116}{}{Â¡De acuerdo!}
 {117}{}{N-no.}
-{118}{}{Recogeré la mierda durante un tiempo.}
-{119}{}{Iré con la caravana a Gecko.}
-{120}{}{Iré con la caravana a RNC.}
-{121}{}{¿Qué tal Ciudad Refugio?}
-{122}{}{He cambiado de opinión. En lugar de eso, me gustaría otra cosa.}
-{123}{}{¡Adiós!}
-{124}{}{¿Sí? ¿Qué quieres comprar?}
-{125}{}{¿Tienes preguntas sobre Chad? ¿Como cuales?}
-{126}{}{¿Se está quedando con la mejor tajada?}
-{127}{}{¿Confías en él?}
-{128}{}{¿Qué puedes contarme sobre él?}
-{129}{}{¿Yo? Soy Bill. Soy, básicamente, el tipo al que tienes que pagar. Aunque técnicamente, supongo,
+{118}{}{RecogerÃ© la mierda durante un tiempo.}
+{119}{}{IrÃ© con la caravana a Gecko.}
+{120}{}{IrÃ© con la caravana a RNC.}
+{121}{}{Â¿QuÃ© tal Ciudad Refugio?}
+{122}{}{He cambiado de opiniÃ³n. En lugar de eso, me gustarÃ­a otra cosa.}
+{123}{}{Â¡AdiÃ³s!}
+{124}{}{Â¿SÃ­? Â¿QuÃ© quieres comprar?}
+{125}{}{Â¿Tienes preguntas sobre Chad? Â¿Como cuales?}
+{126}{}{Â¿Se estÃ¡ quedando con la mejor tajada?}
+{127}{}{Â¿ConfÃ­as en Ã©l?}
+{128}{}{Â¿QuÃ© puedes contarme sobre Ã©l?}
+{129}{}{Â¿Yo? Soy Bill. Soy, bÃ¡sicamente, el tipo al que tienes que pagar. Aunque tÃ©cnicamente, supongo,
  a veces soy yo quien paga. Soy el proveedor de caravanas de esta ciudad. Planeo las rutas de las caravanas,
- organizo el aprovisionamiento. Contrato a gente para los puestos de trabajo, y también estoy al cargo de las patrullas de Unidad.}
-{130}{}{¿Trabajos? ¿Qué tipo de trabajos?}
-{131}{}{Gracias. ¡Adiós!}
+ organizo el aprovisionamiento. Contrato a gente para los puestos de trabajo, y tambiÃ©n estoy al cargo de las patrullas de Unidad.}
+{130}{}{Â¿Trabajos? Â¿QuÃ© tipo de trabajos?}
+{131}{}{Gracias. Â¡AdiÃ³s!}
 {132}{}{De acuerdo. Empecemos.}
-{133}{}{¿No te interesa? De acuerdo. Vuelve cuando tenga algo para ti.}
-{134}{}{¡De acuerdo!}
+{133}{}{Â¿No te interesa? De acuerdo. Vuelve cuando tenga algo para ti.}
+{134}{}{Â¡De acuerdo!}
 {135}{}{Bueno, en realidad, estaba interesado en otra cosa.}
-{136}{}{Adiós.}
-{137}{}{De acuerdo. Que sea Gecko. Vuelve el día 1 del mes y te pondrás en camino. ¿Quieres algo más?}
-{138}{}{Sí.}
+{136}{}{AdiÃ³s.}
+{137}{}{De acuerdo. Que sea Gecko. Vuelve el dÃ­a 1 del mes y te pondrÃ¡s en camino. Â¿Quieres algo mÃ¡s?}
+{138}{}{SÃ­.}
 {139}{}{No.}
-{140}{}{De acuerdo. Que sea la República. Vuelve el día 11 del mes y te pondrás en camino. ¿Quieres algo más?}
-{141}{}{De acuerdo. Que sea Ciudad Refugio. Vuelve el día 21 del mes y te pondrás en camino. ¿Quieres algo más?}
-{142}{}{¿Qué quieres?}
+{140}{}{De acuerdo. Que sea la RepÃºblica. Vuelve el dÃ­a 11 del mes y te pondrÃ¡s en camino. Â¿Quieres algo mÃ¡s?}
+{141}{}{De acuerdo. Que sea Ciudad Refugio. Vuelve el dÃ­a 21 del mes y te pondrÃ¡s en camino. Â¿Quieres algo mÃ¡s?}
+{142}{}{Â¿QuÃ© quieres?}
 {143}{}{Estoy buscando trabajo.}
 {144}{}{Necesito comprar algunas cosas.}
-{145}{}{¿Qué puedes contarme sobre Chad?}
-{146}{}{Lo siento por Chad. Se lo merecía.}
-{147}{}{Supongo que tu jefe de caravana, Chad, está de mierda hasta el cuello ahora mismo.}
-{148}{}{¿Quién eres?}
-{149}{}{Encantado de hacer tratos contigo. ¿Quieres algo más de mí?}
-{150}{}{Lo siento. Eso no me encaja. ¿Quieres algo más de mí?}
-{151}{}{No. ¡Adiós!}
-{152}{}{¿Está hecho? Genial. Aquí están tus 100 dólares, y si necesitas algo más, tan sólo házmelo saber.}
-{153}{}{Amigo, vuelve en una o dos horas y me alegrará venderte algo. Ahora mismo, estoy ocupado
- con este brahmin. ¿Quieres alguna otra cosa?}
-{154}{}{¿Que si se está quedando con la mejor tajada? No, que yo sepa. Por una carga de uranio, cobramos 5.000 dólares.
- Y recibimos 5.000. Ahí no se va ninguna tajada, me parece a mí. Tiene un bonito hogar y siempre parece
- tener los bolsillos llenos de dinero, pero podría haberlo traído con él cuando llegó aquí.}
-{155}{}{Tengo un par de preguntas más.}
+{145}{}{Â¿QuÃ© puedes contarme sobre Chad?}
+{146}{}{Lo siento por Chad. Se lo merecÃ­a.}
+{147}{}{Supongo que tu jefe de caravana, Chad, estÃ¡ de mierda hasta el cuello ahora mismo.}
+{148}{}{Â¿QuiÃ©n eres?}
+{149}{}{Encantado de hacer tratos contigo. Â¿Quieres algo mÃ¡s de mÃ­?}
+{150}{}{Lo siento. Eso no me encaja. Â¿Quieres algo mÃ¡s de mÃ­?}
+{151}{}{No. Â¡AdiÃ³s!}
+{152}{}{Â¿EstÃ¡ hecho? Genial. AquÃ­ estÃ¡n tus 100 dÃ³lares, y si necesitas algo mÃ¡s, tan sÃ³lo hÃ¡zmelo saber.}
+{153}{}{Amigo, vuelve en una o dos horas y me alegrarÃ¡ venderte algo. Ahora mismo, estoy ocupado
+ con este brahmin. Â¿Quieres alguna otra cosa?}
+{154}{}{Â¿Que si se estÃ¡ quedando con la mejor tajada? No, que yo sepa. Por una carga de uranio, cobramos 5.000 dÃ³lares.
+ Y recibimos 5.000. AhÃ­ no se va ninguna tajada, me parece a mÃ­. Tiene un bonito hogar y siempre parece
+ tener los bolsillos llenos de dinero, pero podrÃ­a haberlo traÃ­do con Ã©l cuando llegÃ³ aquÃ­.}
+{155}{}{Tengo un par de preguntas mÃ¡s.}
 {156}{}{Quiero algunas otras cosas.}
 {157}{}{Ya veo. Eso es todo. Gracias.}
-{158}{}{¿Que si confío en él? Obviamente… hasta cierto punto. Confío en él para que conduzca mis caravanas. Puede parecer
- alguien turbio, pero hasta que me dé una razón para que desconfíe, seguiré como hasta ahora.}
-{159}{}{Tengo más preguntas.}
+{158}{}{Â¿Que si confÃ­o en Ã©l? Obviamenteâ€¦ hasta cierto punto. ConfÃ­o en Ã©l para que conduzca mis caravanas. Puede parecer
+ alguien turbio, pero hasta que me dÃ© una razÃ³n para que desconfÃ­e, seguirÃ© como hasta ahora.}
+{159}{}{Tengo mÃ¡s preguntas.}
 {160}{}{Quiero algunas otras cosas.}
 {161}{}{Genial. Gracias por tu tiempo.}
-{162}{}{Veamos... llegó a Broken Hills procedente del desierto. No tenía mucho más que su inteligencia. Parecía
- como si estuviera perseguido por alguien, pero no dijo por quién. Siempre ha mantenido silencio absoluto sobre su pasado.
- Y… es un guía de caravana condenadamente bueno. Eso es todo.}
-{163}{}{Tengo más preguntas.}
+{162}{}{Veamos... llegÃ³ a Broken Hills procedente del desierto. No tenÃ­a mucho mÃ¡s que su inteligencia. ParecÃ­a
+ como si estuviera perseguido por alguien, pero no dijo por quiÃ©n. Siempre ha mantenido silencio absoluto sobre su pasado.
+ Yâ€¦ es un guÃ­a de caravana condenadamente bueno. Eso es todo.}
+{163}{}{Tengo mÃ¡s preguntas.}
 {164}{}{Quiero algunas otras cosas.}
 {165}{}{Gracias.}
-{166}{}{Ahora no estoy de servicio. Habla conmigo cuando esté en la tienda.}
-{167}{}{¿Que se lo merecía? Montón de mierda, no merecía la pena matarlo por dinero. Sal de mi tienda de una puta
+{166}{}{Ahora no estoy de servicio. Habla conmigo cuando estÃ© en la tienda.}
+{167}{}{Â¿Que se lo merecÃ­a? MontÃ³n de mierda, no merecÃ­a la pena matarlo por dinero. Sal de mi tienda de una puta
  vez.}
-{168}{}{Adiós.}
-{169}{}{Cualquier lío en el que estuviera metido, se lo habría buscado. Mala suerte… era un guía de caravana condenadamente bueno. ¿Quieres
- algo más?}
-{170}{}{Lárgate de mi tienda. No eres bienvenido aquí.}
-{171}{}{¿Estás listo para ir a Ciudad Refugio?}
-{172}{}{¿Estás listo para ir a RNC?}
-{173}{}{¿Estás listo para ir a Gecko?}
-{174}{}{Caravana cancelada. No vamos a enviar nada más a ese infernal agujero de mierda, no si
- van a dedicarse a intentar matar a nuestra gente. ¿Quieres algo más?}
-{175}{}{¿Estás saboteando mi caravana?}
-{176}{}{Bueno, necesito más tiempo por aquí.}
-{177}{}{Quiero cambiar mi asignación a una caravana.}
-{178}{}{¿Más tiempo? Bien. Tienes más tiempo. Vuelve cuando tengas la intención de cumplir con tus responsabilidades.}
-{179}{}{¿Cambiar? Qué caravana quieres? Para Gecko sale el día 1, para RNC el día 11, y para Ciudad Refugio el 21.}
+{168}{}{AdiÃ³s.}
+{169}{}{Cualquier lÃ­o en el que estuviera metido, se lo habrÃ­a buscado. Mala suerteâ€¦ era un guÃ­a de caravana condenadamente bueno. Â¿Quieres
+ algo mÃ¡s?}
+{170}{}{LÃ¡rgate de mi tienda. No eres bienvenido aquÃ­.}
+{171}{}{Â¿EstÃ¡s listo para ir a Ciudad Refugio?}
+{172}{}{Â¿EstÃ¡s listo para ir a RNC?}
+{173}{}{Â¿EstÃ¡s listo para ir a Gecko?}
+{174}{}{Caravana cancelada. No vamos a enviar nada mÃ¡s a ese infernal agujero de mierda, no si
+ van a dedicarse a intentar matar a nuestra gente. Â¿Quieres algo mÃ¡s?}
+{175}{}{Â¿EstÃ¡s saboteando mi caravana?}
+{176}{}{Bueno, necesito mÃ¡s tiempo por aquÃ­.}
+{177}{}{Quiero cambiar mi asignaciÃ³n a una caravana.}
+{178}{}{Â¿MÃ¡s tiempo? Bien. Tienes mÃ¡s tiempo. Vuelve cuando tengas la intenciÃ³n de cumplir con tus responsabilidades.}
+{179}{}{Â¿Cambiar? QuÃ© caravana quieres? Para Gecko sale el dÃ­a 1, para RNC el dÃ­a 11, y para Ciudad Refugio el 21.}
 {180}{}{RNC.}
 {181}{}{Gecko.}
 {182}{}{Ciudad Refugio.}
-{183}{}{¿Sí? Perfecto. Lárgate de mi establecimiento. Vuelve cuando tengas suficientes agallas para hacer el viaje.}
+{183}{}{Â¿SÃ­? Perfecto. LÃ¡rgate de mi establecimiento. Vuelve cuando tengas suficientes agallas para hacer el viaje.}
 {184}{}{Genial. Adelante entonces.}
-{185}{}{Primero quería otra cosa.}
+{185}{}{Primero querÃ­a otra cosa.}
 {186}{}{De acuerdo.}
-{187}{}{Colega, no tengo nada más para ti. Con todos los mutantes muertos, no tenemos a nadie para trabajar en
- la mina con eficacia. Esto se convertirá en una ciudad fantasma en uno o dos años. Aquí ya no queda nada. Hasta luego.}
-{188}{}{Lo siento, amigo. Ya no tengo nada más para ti. Has recogido toda la mierda que tenía.}
-{189}{}{¿Quieres un trabajo? Bueno, como veo que ya has recogido toda la mierda de brahmin, lo único que me queda son las caravanas.
- Puedes escoltar una de ellas por 200 dólares. Tenemos caravanas a Gecko, la República de Nueva California,
+{187}{}{Colega, no tengo nada mÃ¡s para ti. Con todos los mutantes muertos, no tenemos a nadie para trabajar en
+ la mina con eficacia. Esto se convertirÃ¡ en una ciudad fantasma en uno o dos aÃ±os. AquÃ­ ya no queda nada. Hasta luego.}
+{188}{}{Lo siento, amigo. Ya no tengo nada mÃ¡s para ti. Has recogido toda la mierda que tenÃ­a.}
+{189}{}{Â¿Quieres un trabajo? Bueno, como veo que ya has recogido toda la mierda de brahmin, lo Ãºnico que me queda son las caravanas.
+ Puedes escoltar una de ellas por 200 dÃ³lares. Tenemos caravanas a Gecko, la RepÃºblica de Nueva California,
  y Ciudad Refugio. Salen una vez por semana.}
-{190}{}{Awwwww huele. Yo limpiado mieeeerda de braaaamin. A-adiós.}
-{191}{}{¿Quieres un trabajo? Bueno, como veo que ya has recogido toda la mierda de brahmin, lo único que me queda son las caravanas.
- Puedes escoltar una de ellas por 200 dólares. Tenemos caravanas Gecko y Ciudad Refugio. Salen una vez por semana.}
-{192}{}{¿Quieres un trabajo? Bueno, tenemos dos opciones: recoger excrementos de brahmin durante un día por 100 dólares, o puedes
- escoltar una de nuestras caravanas por 200 dólares. Tenemos caravanas a Gecko y Ciudad Refugio. Salen una vez por semana.}
-{193}{}{¡Te has convertido en un experto recogedor de excrementos!}
-{194}{}{Tu habilidad de Conversación se ha incrementado un 5%.}
-{195}{}{Me quedaré con una caravana.}
-{196}{}{Ya has dicho que irías a Gecko el día 1 de este mes.}
-{197}{}{Ya has dicho que irías a RNC el día 11 de este mes.}
-{198}{}{Ya has dicho que irías a Ciudad Refugio el día 21 de este mes.}
-{200}{}{Me gustaría cambiar de caravana.}
+{190}{}{Awwwww huele. Yo limpiado mieeeerda de braaaamin. A-adiÃ³s.}
+{191}{}{Â¿Quieres un trabajo? Bueno, como veo que ya has recogido toda la mierda de brahmin, lo Ãºnico que me queda son las caravanas.
+ Puedes escoltar una de ellas por 200 dÃ³lares. Tenemos caravanas Gecko y Ciudad Refugio. Salen una vez por semana.}
+{192}{}{Â¿Quieres un trabajo? Bueno, tenemos dos opciones: recoger excrementos de brahmin durante un dÃ­a por 100 dÃ³lares, o puedes
+ escoltar una de nuestras caravanas por 200 dÃ³lares. Tenemos caravanas a Gecko y Ciudad Refugio. Salen una vez por semana.}
+{193}{}{Â¡Te has convertido en un experto recogedor de excrementos!}
+{194}{}{Tu habilidad de ConversaciÃ³n se ha incrementado un 5%.}
+{195}{}{Me quedarÃ© con una caravana.}
+{196}{}{Ya has dicho que irÃ­as a Gecko el dÃ­a 1 de este mes.}
+{197}{}{Ya has dicho que irÃ­as a RNC el dÃ­a 11 de este mes.}
+{198}{}{Ya has dicho que irÃ­as a Ciudad Refugio el dÃ­a 21 de este mes.}
+{200}{}{Me gustarÃ­a cambiar de caravana.}
 {201}{}{Oh, es cierto. No importa.}
-{202}{}{¡Bastardo! ¡Abandonaste la maldita caravana! ¡Sal de aquí de una puta vez!}
-{203}{}{No importa. Pasaré de las caravanas por ahora.}
-{204}{}{Muy bien. Que sea Gecko. La caravana sale hoy. ¿Listo para irte?}
-{205}{}{Muy bien. Que sea la República. La caravana sale hoy. ¿Listo para irte?}
-{206}{}{Muy bien. Que sea Ciudad Refugio. La caravana sale hoy. ¿Listo para irte?}
-{207}{}{Pues sí, estoy dispuesto. Vamos.}
-{208}{}{No del todo. Te avisaré cuando esté listo. Gracias.}
-{209}{}{Aún no. Te avisaré cuando esté listo. Tengo algunas preguntas más.}
+{202}{}{Â¡Bastardo! Â¡Abandonaste la maldita caravana! Â¡Sal de aquÃ­ de una puta vez!}
+{203}{}{No importa. PasarÃ© de las caravanas por ahora.}
+{204}{}{Muy bien. Que sea Gecko. La caravana sale hoy. Â¿Listo para irte?}
+{205}{}{Muy bien. Que sea la RepÃºblica. La caravana sale hoy. Â¿Listo para irte?}
+{206}{}{Muy bien. Que sea Ciudad Refugio. La caravana sale hoy. Â¿Listo para irte?}
+{207}{}{Pues sÃ­, estoy dispuesto. Vamos.}
+{208}{}{No del todo. Te avisarÃ© cuando estÃ© listo. Gracias.}
+{209}{}{AÃºn no. Te avisarÃ© cuando estÃ© listo. Tengo algunas preguntas mÃ¡s.}
 {210}{}{Gracias.}
 {211}{}{[continuar]}
-{212}{}{Lo siento, pero sin Chad por aquí organizando al personal, no puedo distribuir el trabajo como solía hacerlo. Echaré de menos
+{212}{}{Lo siento, pero sin Chad por aquÃ­ organizando al personal, no puedo distribuir el trabajo como solÃ­a hacerlo. EcharÃ© de menos
  a ese pobre bastardo. Estirar la pata en el Yermo, como un brahmin herido...}
-{213}{}{Lo siento. Adiós.}
-{214}{}{Lo siento, pero sin el Chad alrededor para ayudar a administrar el personal, que no puede ser givin' el trabajo de la forma en que solía.}
+{213}{}{Lo siento. AdiÃ³s.}
+{214}{}{Lo siento, pero sin el Chad alrededor para ayudar a administrar el personal, que no puede ser givin' el trabajo de la forma en que solÃ­a.}

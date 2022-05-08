@@ -1,6 +1,6 @@
 {100}{}{Um terminal de computador.}
 {101}{}{It controls the Vault-Tec organ extraction unit.}
-{102}{}{Você é incapaz de ler o que está no monitor.}
+{102}{}{VocÃª Ã© incapaz de ler o que estÃ¡ no monitor.}
 {103}{}{Welcome to Vault-Tec's state-of-the-art organ extraction apparatus. To operate, please place donor in operating room, turn dial to appropriate species, and select organ to be extracted.}
 {104}{}{Select Species}
 {105}{}{Select Organ}
@@ -81,4 +81,4 @@
 {184}{}{Lung }
 {185}{}{Appendix }
 {186}{}{Colono }
-{200}{}{ é incapaz de ler o que está no monitor.}
+{200}{}{ Ã© incapaz de ler o que estÃ¡ no monitor.}

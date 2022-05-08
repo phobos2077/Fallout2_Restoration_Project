@@ -1,10 +1,10 @@
 {100}{}{? egy... fekete h?s-karakter.}
-{101}{}{Ez a fekete férfi igen izmos, és a 13-as Menedék kezeslábasát hordja. Sért?dötten néz rád.}
-{102}{}{Ez a fekete h?s-karakter sért?dötten néz rád.}
-{103}{}{Ez a fekete h?s-karakter sért?dötten néz rád.}
+{101}{}{Ez a fekete fÃ©rfi igen izmos, Ã©s a 13-as MenedÃ©k kezeslÃ¡basÃ¡t hordja. SÃ©rt?dÃ¶tten nÃ©z rÃ¡d.}
+{102}{}{Ez a fekete h?s-karakter sÃ©rt?dÃ¶tten nÃ©z rÃ¡d.}
+{103}{}{Ez a fekete h?s-karakter sÃ©rt?dÃ¶tten nÃ©z rÃ¡d.}
 {104}{}{Eredetileg a Fallout 1 h?s-karaktereinek egyike voltam.}
-{105}{}{Természetesen *nem* kerültem bele a játékba.}
-{106}{}{Azt mondták "túl sok animáció van benne", "túl sok mozgásfázis".}
-{107}{}{Fekete b?r? vagyok. Amint azt láthatod.}
-{108}{}{Amikor már azt hiszed, hogy jutottál valamire, a kis hipózott b?r? megváltoztatja a szabályokat.}
-{109}{}{Bárcsak befolyásom lenne egyes dolgokra....}
+{105}{}{TermÃ©szetesen *nem* kerÃ¼ltem bele a jÃ¡tÃ©kba.}
+{106}{}{Azt mondtÃ¡k "tÃºl sok animÃ¡ciÃ³ van benne", "tÃºl sok mozgÃ¡sfÃ¡zis".}
+{107}{}{Fekete b?r? vagyok. Amint azt lÃ¡thatod.}
+{108}{}{Amikor mÃ¡r azt hiszed, hogy jutottÃ¡l valamire, a kis hipÃ³zott b?r? megvÃ¡ltoztatja a szabÃ¡lyokat.}
+{109}{}{BÃ¡rcsak befolyÃ¡som lenne egyes dolgokra....}

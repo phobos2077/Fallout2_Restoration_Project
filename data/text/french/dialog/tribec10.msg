@@ -1,3 +1,3 @@
 {100}{}{Tu vois un gecko.}
-{101}{}{Tu vois un gecko couvert de débris rocheux. Il semble en colère.}
-{200}{}{Tu as intentionnellement laissé un homme blessé et sans défense mourir. Un sourire maléfique se forme sur ton visage.}
+{101}{}{Tu vois un gecko couvert de dÃ©bris rocheux. Il semble en colÃ¨re.}
+{200}{}{Tu as intentionnellement laissÃ© un homme blessÃ© et sans dÃ©fense mourir. Un sourire malÃ©fique se forme sur ton visage.}

@@ -11,7 +11,7 @@
 {222}{}{Cuevas de las ratas}
 {223}{}{Tierras de caza}
 {224}{}{Pastos comunales}
-{225}{}{CaÒon}
+{225}{}{Ca√±on}
 {230}{}{Calle Principal}
 {231}{}{Cama y Comida de Rose}
 {232}{}{Pastos para brahmines de Grisham}
@@ -77,7 +77,7 @@
 {361}{}{Centro de detencion}
 {362}{}{Jefe Final}
 {363}{}{Barracones}
-{364}{}{¡rea Presidencial}
+{364}{}{√Årea Presidencial}
 {365}{}{Reactor}
 {366}{}{Habitacion trampa}
 {370}{}{Entrada}
@@ -110,16 +110,16 @@
 {467}{}{Desierto}
 {468}{}{Desierto}
 {469}{}{Desierto}
-{470}{}{MontaÒa}
+{470}{}{Monta√±a}
 {471}{}{Caverna}
-{472}{}{MontaÒa}
+{472}{}{Monta√±a}
 {473}{}{Caverna}
 {474}{}{Caverna}
 {475}{}{Caverna}
 {476}{}{Caverna}
 {477}{}{Caverna}
-{478}{}{MontaÒa}
-{479}{}{MontaÒa}
+{478}{}{Monta√±a}
+{479}{}{Monta√±a}
 {480}{}{Ciudad en ruinas}
 {481}{}{Ciudad en ruinas}
 {482}{}{Ciudad en ruinas}
@@ -138,22 +138,22 @@
 {497}{}{Litoral}
 {498}{}{Litoral}
 {499}{}{Litoral}
-{500}{}{GÛlgota}
+{500}{}{G√≥lgota}
 {510}{}{Despojos aplastados de ballena}
 {520}{}{Hombre de hojalata}
 {521}{}{Cabeza gigante}
 {530}{}{Lugar del accidente}
 {540}{}{Desierto}
 {550}{}{Puente}
-{560}{}{Cafe de los SueÒos Rotos}
+{560}{}{Cafe de los Sue√±os Rotos}
 {570}{}{Desierto}
 {580}{}{Caverna}
 {590}{}{Guardian de la Eternidad}
 {600}{}{Monton de basura toxica}
 {610}{}{Desierto}
-{620}{}{RebaÒo de brahmines}
+{620}{}{Reba√±o de brahmines}
 {630}{}{Desierto}
-{631}{}{MontaÒa}
+{631}{}{Monta√±a}
 {640}{}{Caverna del Refugio 13}
 {650}{}{Caverna}
 {660}{}{Litoral}
@@ -161,8 +161,8 @@
 {662}{}{Desierto}
 {663}{}{Desierto}
 {664}{}{Desierto}
-{665}{}{MontaÒa}
-{666}{}{MontaÒa}
+{665}{}{Monta√±a}
+{666}{}{Monta√±a}
 {667}{}{Desierto}
 {668}{}{Desierto}
 {670}{}{Establo}
@@ -171,16 +171,16 @@
 {700}{}{Umbra Tribu}
 {710}{}{Umbra Tribu}
 {1000}{}{Desierto}
-{1001}{}{MontaÒas}
+{1001}{}{Monta√±as}
 {1002}{}{Ciudad}
 {1003}{}{Costa}
 {1004}{}{Desconocido}
-{1500}{}{°Has ganado 10.000 puntos de experiencia!}
+{1500}{}{¬°Has ganado 10.000 puntos de experiencia!}
 {1501}{}{Ruinas}
-{1502}{}{Se le acabÛ el combustible al coche.}
+{1502}{}{Se le acab√≥ el combustible al coche.}
 {1503}{}{Es un coche. No parece que que pueda ponerse en marcha.}
 {2998}{}{Encuentras:}
-{2999}{}{øDeseas tropezarte con este encuentro?:}
+{2999}{}{¬øDeseas tropezarte con este encuentro?:}
 {3000}{}{Una banda de saqueadores.}
 {3001}{}{Algunos escorpiones rad.}
 {3002}{}{Ratas gigantes.}
@@ -203,7 +203,7 @@
 {3200}{}{Una banda de saqueadores.}
 {3250}{}{Una banda de saqueadores.}
 {3300}{}{Un grupo de guerra.}
-{3301}{}{Un grupo de canÌbales.}
+{3301}{}{Un grupo de can√≠bales.}
 {3302}{}{Un grupo de plantas de esporas y algunos geckos plateados.}
 {3303}{}{Un grupo de geckos plateados.}
 {3304}{}{Algunos cazarrecompensas.}
@@ -219,20 +219,20 @@
 {3314}{}{Un grupo de plantas de esporas.}
 {3315}{}{Un grupo de ratas cerdo.}
 {3316}{}{Un grupo de ratas.}
-{3317}{}{Una partida de caza luchando contra canÌbales.}
+{3317}{}{Una partida de caza luchando contra can√≠bales.}
 {3318}{}{Un grupo de hormigas.}
 {3319}{}{Una partida de caza luchando con algunos escorpiones rad.}
-{3320}{}{Un pequeÒo grupo de ratas cerdo.}
-{3321}{}{Un pequeÒo grupo de escorpiones rad.}
-{3322}{}{Un pequeÒo grupo de hormigas.}
+{3320}{}{Un peque√±o grupo de ratas cerdo.}
+{3321}{}{Un peque√±o grupo de escorpiones rad.}
+{3322}{}{Un peque√±o grupo de hormigas.}
 {3323}{}{Una partida de caza.}
-{3324}{}{Un grupo de nÛmadas.}
+{3324}{}{Un grupo de n√≥madas.}
 {3325}{}{Un hombre guardando un puente.}
 {3326}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {3327}{}{Una banda de angry parias.}
-{3350}{}{MontÛn de basura tÛxica.}
+{3350}{}{Mont√≥n de basura t√≥xica.}
 {3351}{}{Un solitario perro superviviente.}
-{3352}{}{Un rebaÒo de brahmines.}
+{3352}{}{Un reba√±o de brahmines.}
 {3353}{}{Un grupo de guerra.}
 {3354}{}{Algunos cazarrecompensas.}
 {3355}{}{Algunos cazarrecompensas.}
@@ -243,31 +243,31 @@
 {3360}{}{Algunos cazarrecompensas.}
 {3361}{}{Algunos cazarrecompensas.}
 {3362}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{3363}{}{Un grupo de canÌbales.}
+{3363}{}{Un grupo de can√≠bales.}
 {3364}{}{Un grupo de plantas de esporas y algunos geckos plateados.}
 {3365}{}{Un grupo de geckos plateados.}
 {3366}{}{Un grupo de escorpiones rad.}
 {3367}{}{Un grupo de plantas de esporas.}
 {3368}{}{Un grupo de ratas cerdo.}
 {3369}{}{Un grupo de ratas.}
-{3370}{}{Una partida de caza luchando contra canÌbales.}
+{3370}{}{Una partida de caza luchando contra can√≠bales.}
 {3371}{}{Un grupo de hormigas.}
 {3372}{}{Una partida de caza luchando con algunos escorpiones rad.}
-{3373}{}{Un pequeÒo grupo de ratas cerdo.}
-{3374}{}{Un pequeÒo grupo de escorpiones rad.}
-{3375}{}{Un pequeÒo grupo de hormigas.}
+{3373}{}{Un peque√±o grupo de ratas cerdo.}
+{3374}{}{Un peque√±o grupo de escorpiones rad.}
+{3375}{}{Un peque√±o grupo de hormigas.}
 {3376}{}{Una partida de caza.}
-{3377}{}{Un grupo de nÛmadas.}
+{3377}{}{Un grupo de n√≥madas.}
 {3378}{}{Los restos de una ballena.}
 {3379}{}{Una cabeza de piedra gigante.}
 {3380}{}{Trasbordador accidentado.}
-{3381}{}{El Guardi·n del Portal.}
+{3381}{}{El Guardi√°n del Portal.}
 {3382}{}{Caballeros del Rey Arturo.}
 {3383}{}{El Hombre de Hojalata.}
 {3384}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {3385}{}{Una banda de angry parias.}
 {3400}{}{Un grupo de guerra.}
-{3401}{}{Un grupo de canÌbales.}
+{3401}{}{Un grupo de can√≠bales.}
 {3402}{}{Un grupo de plantas de esporas y algunos geckos plateados.}
 {3403}{}{Un grupo de geckos plateados.}
 {3404}{}{Algunos cazarrecompensas.}
@@ -283,18 +283,18 @@
 {3414}{}{Un grupo de plantas de esporas.}
 {3415}{}{Un grupo de ratas cerdo.}
 {3416}{}{Un grupo de ratas.}
-{3417}{}{Una partida de caza luchando contra canÌbales.}
+{3417}{}{Una partida de caza luchando contra can√≠bales.}
 {3418}{}{Un grupo de hormigas.}
 {3419}{}{Una partida de caza luchando con algunos escorpiones rad.}
-{3420}{}{Un pequeÒo grupo de ratas cerdo.}
-{3421}{}{Un pequeÒo grupo de escorpiones rad.}
-{3422}{}{Un pequeÒo grupo de hormigas.}
+{3420}{}{Un peque√±o grupo de ratas cerdo.}
+{3421}{}{Un peque√±o grupo de escorpiones rad.}
+{3422}{}{Un peque√±o grupo de hormigas.}
 {3423}{}{Una partida de caza.}
-{3424}{}{Un grupo de nÛmadas.}
+{3424}{}{Un grupo de n√≥madas.}
 {3425}{}{Una banda de angry parias.}
-{3450}{}{MontÛn de basura tÛxica.}
+{3450}{}{Mont√≥n de basura t√≥xica.}
 {3451}{}{Un solitario perro superviviente.}
-{3452}{}{Un rebaÒo de brahmines.}
+{3452}{}{Un reba√±o de brahmines.}
 {3453}{}{Una banda de parias.}
 {3454}{}{Algunos cazarrecompensas.}
 {3455}{}{Algunos cazarrecompensas.}
@@ -313,11 +313,11 @@
 {3468}{}{Una familia de escorpiones rad.}
 {3469}{}{Un grupo de ratas topo.}
 {3470}{}{Un grupo de santones rechazando una partida de guerra.}
-{3471}{}{Una banda de nÛmadas.}
+{3471}{}{Una banda de n√≥madas.}
 {3472}{}{Los restos de una ballena.}
 {3473}{}{Una cabeza de piedra gigante.}
 {3474}{}{Trasbordador accidentado.}
-{3475}{}{El Guardi·n del Portal.}
+{3475}{}{El Guardi√°n del Portal.}
 {3476}{}{Caballeros del Rey Arturo.}
 {3477}{}{El Hombre de Hojalata.}
 {3478}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
@@ -340,13 +340,13 @@
 {3515}{}{Una familia de escorpiones rad.}
 {3516}{}{Un grupo de ratas topo.}
 {3517}{}{Un grupo de santones rechazando una partida de guerra.}
-{3518}{}{Una banda de nÛmadas.}
+{3518}{}{Una banda de n√≥madas.}
 {3519}{}{Un hombre guardando un puente.}
 {3520}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {3521}{}{Una banda de angry parias.}
-{3550}{}{MontÛn de basura tÛxica}
+{3550}{}{Mont√≥n de basura t√≥xica}
 {3551}{}{Un solitario perro superviviente.}
-{3552}{}{Un rebaÒo de brahmines.}
+{3552}{}{Un reba√±o de brahmines.}
 {3553}{}{Un grupo de geckos dorados y una familia de escorpiones rad.}
 {3554}{}{Algunos bandidos.}
 {3555}{}{Un grupo de vagabundos.}
@@ -363,15 +363,15 @@
 {3566}{}{Una familia de escorpiones rad.}
 {3567}{}{Algunas plantas de esporas.}
 {3568}{}{Algunos bandidos atacados por geckos dorados.}
-{3569}{}{Algunos granjeros defendiÈndose de algunos geckos.}
-{3570}{}{Algunos granjeros defendiÈndose de geckos dorados.}
+{3569}{}{Algunos granjeros defendi√©ndose de algunos geckos.}
+{3570}{}{Algunos granjeros defendi√©ndose de geckos dorados.}
 {3571}{}{Algunos tramperos luchando contra geckos dorados.}
-{3572}{}{Algunos tramperos defendiÈndose de algunos bandidos.}
+{3572}{}{Algunos tramperos defendi√©ndose de algunos bandidos.}
 {3573}{}{Un grupo de tramperos dominando a algunos geckos.}
 {3574}{}{Algunos bandidos emboscando a vagabundos.}
 {3575}{}{Vagabundos masacrando a algunos granjeros.}
 {3576}{}{Algunos bandidos atacando a algunos granjeros.}
-{3577}{}{Algunos granjeros defendiÈndose de algunos escorpiones rad.}
+{3577}{}{Algunos granjeros defendi√©ndose de algunos escorpiones rad.}
 {3578}{}{Algunos tramperos luchando contra algunos escorpiones rad.}
 {3579}{}{Algunos tramperos atacando a algunas ratas cerdo.}
 {3580}{}{Algunos granjeros eliminando la plaga de ratas cerdo.}
@@ -380,7 +380,7 @@
 {3583}{}{Los restos de una ballena.}
 {3584}{}{Una cabeza de piedra gigante.}
 {3585}{}{Trasbordador accidentado.}
-{3586}{}{El Guardi·n del Portal.}
+{3586}{}{El Guardi√°n del Portal.}
 {3587}{}{Caballeros del Rey Arturo.}
 {3588}{}{El Hombre de Hojalata}
 {3589}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
@@ -400,15 +400,15 @@
 {3613}{}{Una familia de escorpiones rad.}
 {3614}{}{Algunas plantas de esporas.}
 {3615}{}{Algunos bandidos atacados por geckos dorados.}
-{3616}{}{Algunos granjeros defendiÈndose de algunos geckos.}
-{3617}{}{Algunos granjeros defendiÈndose de geckos dorados.}
+{3616}{}{Algunos granjeros defendi√©ndose de algunos geckos.}
+{3617}{}{Algunos granjeros defendi√©ndose de geckos dorados.}
 {3618}{}{Algunos tramperos luchando contra geckos dorados.}
-{3619}{}{Algunos tramperos defendiÈndose de algunos bandidos.}
+{3619}{}{Algunos tramperos defendi√©ndose de algunos bandidos.}
 {3620}{}{Un grupo de tramperos dominando a algunos geckos.}
 {3621}{}{Algunos bandidos emboscando a vagabundos.}
 {3622}{}{Vagabundos masacrando a algunos granjeros.}
 {3623}{}{Algunos bandidos atacando a algunos granjeros.}
-{3624}{}{Algunos granjeros defendiÈndose de algunos escorpiones rad.}
+{3624}{}{Algunos granjeros defendi√©ndose de algunos escorpiones rad.}
 {3625}{}{Algunos tramperos luchando contra algunos escorpiones rad.}
 {3626}{}{Algunos tramperos atacando a algunas ratas cerdo.}
 {3627}{}{Algunos granjeros eliminando la plaga de ratas cerdo.}
@@ -417,9 +417,9 @@
 {3630}{}{Un hombre guardando un puente.}
 {3631}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {3632}{}{Una banda de angry parias.}
-{3650}{}{MontÛn de basura tÛxica.}
+{3650}{}{Mont√≥n de basura t√≥xica.}
 {3651}{}{Un solitario perro superviviente.}
-{3652}{}{Un rebaÒo de brahmines.}
+{3652}{}{Un reba√±o de brahmines.}
 {3653}{}{Un comerciante y algunos guardias.}
 {3654}{}{Algunos cazarrecompensas.}
 {3655}{}{Algunos cazarrecompensas.}
@@ -441,21 +441,21 @@
 {3671}{}{Una banda de tramperos tratando de capturar algunos geckos dorados.}
 {3672}{}{Algunos escorpiones rad luchando contra algunos geckos dorados.}
 {3673}{}{Algunos escorpiones rad atacando algunas ratas topo y ratas cerdo.}
-{3674}{}{Algunos tramperos y un grupo de comerciantes defendiÈndose de bandidos.}
+{3674}{}{Algunos tramperos y un grupo de comerciantes defendi√©ndose de bandidos.}
 {3675}{}{Algunos geckos dorados.}
 {3676}{}{Algunos tramperos luchando contra ratas topo y ratas cerdo.}
-{3677}{}{Un grupo de comerciantes defendiÈndose de ratas topo y ratas cerdo.}
+{3677}{}{Un grupo de comerciantes defendi√©ndose de ratas topo y ratas cerdo.}
 {3678}{}{Los restos de una ballena.}
 {3679}{}{Una cabeza de piedra gigante.}
 {3680}{}{Trasbordador accidentado.}
-{3681}{}{El Guardi·n del Portal.}
+{3681}{}{El Guardi√°n del Portal.}
 {3682}{}{Caballeros del Rey Arturo.}
 {3683}{}{El Hombre de Hojalata.}
 {3684}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {3685}{}{Una banda de angry parias.}
-{3700}{}{MontÛn de basura tÛxica.}
+{3700}{}{Mont√≥n de basura t√≥xica.}
 {3701}{}{Un solitario perro superviviente.}
-{3702}{}{Un rebaÒo de brahmines.}
+{3702}{}{Un reba√±o de brahmines.}
 {3703}{}{Una banda de forajidos.}
 {3704}{}{Algunos cazarrecompensas.}
 {3705}{}{Algunos cazarrecompensas.}
@@ -474,15 +474,15 @@
 {3718}{}{Un gran grupo de escorpiones rad.}
 {3719}{}{Una gran plaga de plantas de esporas.}
 {3720}{}{Una banda de ladrones respondiendo al ataque de un grupo de forajidos.}
-{3721}{}{Un grupo de comerciantes defendiÈndose de algunos forajidos.}
-{3722}{}{Un grupo de comerciantes defendiÈndose de algunos ladrones.}
-{3723}{}{Un grupo de comerciantes defendiÈndose de algunos escorpiones rad.}
+{3721}{}{Un grupo de comerciantes defendi√©ndose de algunos forajidos.}
+{3722}{}{Un grupo de comerciantes defendi√©ndose de algunos ladrones.}
+{3723}{}{Un grupo de comerciantes defendi√©ndose de algunos escorpiones rad.}
 {3724}{}{Un grupo de geckos dorados peleando contra algunos escorpiones rad.}
 {3725}{}{Un mercader con algunos guardias.}
 {3726}{}{Los restos de una ballena.}
 {3727}{}{Una cabeza de piedra gigante.}
 {3728}{}{Trasbordador accidentado.}
-{3729}{}{El Guardi·n del Portal.}
+{3729}{}{El Guardi√°n del Portal.}
 {3730}{}{Caballeros del Rey Arturo.}
 {3731}{}{El Hombre de Hojalata.}
 {3732}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
@@ -504,16 +504,16 @@
 {3765}{}{Un gran grupo de escorpiones rad.}
 {3766}{}{Una gran plaga de plantas de esporas.}
 {3767}{}{Una banda de ladrones respondiendo al ataque de un grupo de forajidos.}
-{3768}{}{Un grupo de comerciantes defendiÈndose de algunos forajidos.}
-{3769}{}{Un grupo de comerciantes defendiÈndose de algunos ladrones.}
-{3770}{}{Un grupo de comerciantes defendiÈndose de algunos escorpiones rad.}
+{3768}{}{Un grupo de comerciantes defendi√©ndose de algunos forajidos.}
+{3769}{}{Un grupo de comerciantes defendi√©ndose de algunos ladrones.}
+{3770}{}{Un grupo de comerciantes defendi√©ndose de algunos escorpiones rad.}
 {3771}{}{Un grupo de geckos dorados peleando contra algunos escorpiones rad.}
 {3772}{}{Un mercader con algunos guardias.}
 {3773}{}{Un hombre guardando un puente.}
 {3774}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{3800}{}{MontÛn de basura tÛxica.}
+{3800}{}{Mont√≥n de basura t√≥xica.}
 {3801}{}{Un solitario perro superviviente.}
-{3802}{}{Un rebaÒo de brahmines.}
+{3802}{}{Un reba√±o de brahmines.}
 {3803}{}{Un grupo de traficantes de esclavos y esclavos.}
 {3804}{}{Algunos cazarrecompensas.}
 {3805}{}{Algunos cazarrecompensas.}
@@ -532,14 +532,14 @@
 {3818}{}{Un grupo de ratas topo.}
 {3819}{}{Una banda de ladrones emboscando a un grupo de forajidos.}
 {3820}{}{Un grupo de traficantes de esclavos intentando capturar como esclavos algunas personas.}
-{3821}{}{Un grupo de traficantes de esclavos y esclavos defendiÈndose de algunos ladrones.}
-{3822}{}{Algunos traficantes de esclavos y esclavos defendiÈndose de geckos dorados.}
+{3821}{}{Un grupo de traficantes de esclavos y esclavos defendi√©ndose de algunos ladrones.}
+{3822}{}{Algunos traficantes de esclavos y esclavos defendi√©ndose de geckos dorados.}
 {3823}{}{Algunos escorpiones rad asaltando una fiesta rave.}
 {3824}{}{Una fiesta rave.}
 {3825}{}{Los restos de una ballena.}
 {3826}{}{Una cabeza de piedra gigante.}
 {3827}{}{Trasbordador accidentado.}
-{3828}{}{El Guardi·n del Portal.}
+{3828}{}{El Guardi√°n del Portal.}
 {3829}{}{Caballeros del Rey Arturo.}
 {3830}{}{El Hombre de Hojalata.}
 {3831}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
@@ -561,14 +561,14 @@
 {3865}{}{Un grupo de ratas topo.}
 {3866}{}{Una banda de ladrones emboscando a un grupo de forajidos.}
 {3867}{}{Un grupo de traficantes de esclavos intentando capturar como esclavos algunas personas.}
-{3868}{}{Un grupo de traficantes de esclavos y esclavos defendiÈndose de algunos ladrones.}
-{3869}{}{Algunos traficantes de esclavos y esclavos defendiÈndose de geckos dorados.}
+{3868}{}{Un grupo de traficantes de esclavos y esclavos defendi√©ndose de algunos ladrones.}
+{3869}{}{Algunos traficantes de esclavos y esclavos defendi√©ndose de geckos dorados.}
 {3870}{}{Un hombre guardando un puente.}
 {3871}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {3900}{}{Algunos forajidos y ladrones.}
 {3901}{}{Algunos forajidos.}
 {3902}{}{Un gran grupo de geckos dorados.}
-{3903}{}{Algunos escorpiones rad ocult·ndose en plantas de esporas.}
+{3903}{}{Algunos escorpiones rad ocult√°ndose en plantas de esporas.}
 {3904}{}{Algunos cazarrecompensas.}
 {3905}{}{Algunos cazarrecompensas.}
 {3906}{}{Algunos cazarrecompensas.}
@@ -607,11 +607,11 @@
 {3967}{}{Algunos destiladores y granjeros.}
 {3968}{}{Algunas mantis atacando algunos granjeros.}
 {3969}{}{Algunos destiladores luchando contra algunos granjeros.}
-{3970}{}{Algunos brahmines defendiÈndose de mantis.}
+{3970}{}{Algunos brahmines defendi√©ndose de mantis.}
 {3971}{}{Algunas mantis atacando algunas ratas topo.}
 {3972}{}{Algunos destiladores.}
 {3973}{}{Algunos granjeros.}
-{3974}{}{Un rebaÒo de brahmines.}
+{3974}{}{Un reba√±o de brahmines.}
 {3975}{}{Un hombre guardando un puente.}
 {3976}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {3977}{}{Algunos enojado bandidos.}
@@ -632,16 +632,16 @@
 {4014}{}{Una manada de perros feroces entre plantas de esporas.}
 {4015}{}{Un enjambre de mantis.}
 {4016}{}{Una manada de perros feroces.}
-{4017}{}{Algunos ladrones defendiÈndose de perros feroces.}
+{4017}{}{Algunos ladrones defendi√©ndose de perros feroces.}
 {4018}{}{Una caravana atacada por perros feroces.}
 {4019}{}{Una caravana emboscada por ladrones.}
 {4020}{}{Una caravana emboscada por forajidos.}
 {4021}{}{Una caravana.}
 {4022}{}{Un hombre guardando un puente.}
 {4023}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{4050}{}{MontÛn de basura tÛxica.}
+{4050}{}{Mont√≥n de basura t√≥xica.}
 {4051}{}{Un solitario perro superviviente.}
-{4052}{}{Un rebaÒo de brahmines.}
+{4052}{}{Un reba√±o de brahmines.}
 {4053}{}{Algunos forajidos rastreando con perros feroces.}
 {4054}{}{Algunos cazarrecompensas.}
 {4055}{}{Algunos cazarrecompensas.}
@@ -659,7 +659,7 @@
 {4067}{}{Una manada de perros feroces entre plantas de esporas.}
 {4068}{}{Un enjambre de mantis.}
 {4069}{}{Una manada de perros feroces.}
-{4070}{}{Algunos ladrones defendiÈndose de perros feroces.}
+{4070}{}{Algunos ladrones defendi√©ndose de perros feroces.}
 {4071}{}{Una caravana atacada por perros feroces.}
 {4072}{}{Una caravana emboscada por ladrones.}
 {4073}{}{Una caravana emboscada por forajidos.}
@@ -667,7 +667,7 @@
 {4075}{}{Los restos de una ballena.}
 {4076}{}{Una cabeza de piedra gigante.}
 {4077}{}{Trasbordador accidentado.}
-{4078}{}{El Guardi·n del Portal.}
+{4078}{}{El Guardi√°n del Portal.}
 {4079}{}{Caballeros del Rey Arturo.}
 {4080}{}{El Hombre de Hojalata.}
 {4081}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
@@ -693,9 +693,9 @@
 {4119}{}{Un hombre guardando un puente.}
 {4120}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {4121}{}{Algunos enojado bandidos.}
-{4150}{}{MontÛn de basura tÛxica.}
+{4150}{}{Mont√≥n de basura t√≥xica.}
 {4151}{}{Un solitario perro superviviente.}
-{4152}{}{Un rebaÒo de brahmines.}
+{4152}{}{Un reba√±o de brahmines.}
 {4153}{}{Algunos geckos dorados.}
 {4154}{}{Algunos cazarrecompensas.}
 {4155}{}{Algunos cazarrecompensas.}
@@ -718,14 +718,14 @@
 {4172}{}{Los restos de una ballena.}
 {4173}{}{Una cabeza de piedra gigante.}
 {4174}{}{Trasbordador accidentado.}
-{4175}{}{El Guardi·n del Portal.}
+{4175}{}{El Guardi√°n del Portal.}
 {4176}{}{Caballeros del Rey Arturo.}
 {4177}{}{El Hombre de Hojalata.}
 {4178}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {4179}{}{Algunos enojado bandidos.}
-{4200}{}{MontÛn de basura tÛxica.}
+{4200}{}{Mont√≥n de basura t√≥xica.}
 {4201}{}{Un solitario perro superviviente.}
-{4202}{}{Un rebaÒo de brahmines.}
+{4202}{}{Un reba√±o de brahmines.}
 {4203}{}{Algunas ratas topo mutadas.}
 {4204}{}{Algunos cazarrecompensas.}
 {4205}{}{Algunos cazarrecompensas.}
@@ -738,25 +738,25 @@
 {4212}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {4213}{}{Algunas ratas cerdo mutadas.}
 {4214}{}{Algunas plantas de esporas.}
-{4215}{}{Un ermitaÒo y perros luchando contra ratas topo mutadas.}
-{4216}{}{un ermitaÒo defendiÈndose de algunos perros feroces.}
-{4217}{}{Un ermitaÒo defendiÈndose de ratas cerdo mutadas.}
-{4218}{}{Un ermitaÒo con perros luchando contra ratas topo mutadas.}
+{4215}{}{Un ermita√±o y perros luchando contra ratas topo mutadas.}
+{4216}{}{un ermita√±o defendi√©ndose de algunos perros feroces.}
+{4217}{}{Un ermita√±o defendi√©ndose de ratas cerdo mutadas.}
+{4218}{}{Un ermita√±o con perros luchando contra ratas topo mutadas.}
 {4219}{}{Algunas ratas topo mutadas luchando contra ratas cerdo mutadas.}
 {4220}{}{Algunas ratas topo mutadas luchando contra Algunas plantas de esporas.}
 {4221}{}{Algunas ratas cerdo mutadas luchando contra algunos perros feroces.}
-{4222}{}{Un ermitaÒo.}
+{4222}{}{Un ermita√±o.}
 {4223}{}{Los restos de una ballena.}
 {4224}{}{Una cabeza de piedra gigante.}
 {4225}{}{Trasbordador accidentado.}
-{4226}{}{El Guardi·n del Portal.}
+{4226}{}{El Guardi√°n del Portal.}
 {4227}{}{Caballeros del Rey Arturo.}
 {4228}{}{El Hombre de Hojalata.}
 {4229}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {4250}{}{Algunas ratas topo mutadas.}
 {4251}{}{Algunas ratas cerdo mutadas.}
 {4252}{}{Algunas plantas de esporas.}
-{4253}{}{Un ermitaÒo y perros luchando contra ratas topo mutadas.}
+{4253}{}{Un ermita√±o y perros luchando contra ratas topo mutadas.}
 {4254}{}{Algunos cazarrecompensas.}
 {4255}{}{Algunos cazarrecompensas.}
 {4256}{}{Algunos cazarrecompensas.}
@@ -766,13 +766,13 @@
 {4260}{}{Algunos cazarrecompensas.}
 {4261}{}{Algunos cazarrecompensas.}
 {4262}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{4263}{}{un ermitaÒo defendiÈndose de algunos perros feroces.}
-{4264}{}{Un ermitaÒo defendiÈndose de ratas cerdo mutadas.}
-{4265}{}{Un ermitaÒo con perros luchando contra ratas topo mutadas.}
+{4263}{}{un ermita√±o defendi√©ndose de algunos perros feroces.}
+{4264}{}{Un ermita√±o defendi√©ndose de ratas cerdo mutadas.}
+{4265}{}{Un ermita√±o con perros luchando contra ratas topo mutadas.}
 {4266}{}{Algunas ratas topo mutadas luchando contra ratas cerdo mutadas.}
 {4267}{}{Algunas ratas topo mutadas luchando contra Algunas plantas de esporas.}
 {4268}{}{Algunas ratas cerdo mutadas luchando contra algunos perros feroces.}
-{4269}{}{Un ermitaÒo.}
+{4269}{}{Un ermita√±o.}
 {4270}{}{Un hombre guardando un puente.}
 {4271}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {4300}{}{Una banda de traficantes de esclavos y algunos perros.}
@@ -789,16 +789,16 @@
 {4311}{}{Algunos cazarrecompensas.}
 {4312}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {4313}{}{Una patrulla y perros Algunostiendo a traficantes de esclavos}
-{4314}{}{Una banda de traficantes de esclavos defendiÈndose de algunos geckos dorados.}
+{4314}{}{Una banda de traficantes de esclavos defendi√©ndose de algunos geckos dorados.}
 {4315}{}{Una patrulla luchando contra algunos traficantes de esclavos.}
 {4316}{}{Una patrulla luchando contra geckos dorados.}
-{4317}{}{Una patrulla defendiÈndose de perros feroces.}
+{4317}{}{Una patrulla defendi√©ndose de perros feroces.}
 {4318}{}{Una patrulla.}
 {4319}{}{Un hombre guardando un puente.}
 {4320}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{4350}{}{MontÛn de basura tÛxica.}
+{4350}{}{Mont√≥n de basura t√≥xica.}
 {4351}{}{Un solitario perro superviviente.}
-{4352}{}{Un rebaÒo de brahmines.}
+{4352}{}{Un reba√±o de brahmines.}
 {4353}{}{Una banda de traficantes de esclavos y algunos perros.}
 {4354}{}{Algunos cazarrecompensas.}
 {4355}{}{Algunos cazarrecompensas.}
@@ -813,22 +813,22 @@
 {4364}{}{Algunos geckos dorados.}
 {4365}{}{Una manada de perros feroces.}
 {4366}{}{Una patrulla y perros Algunostiendo a traficantes de esclavos}
-{4367}{}{Una banda de traficantes de esclavos defendiÈndose de algunos geckos dorados.}
+{4367}{}{Una banda de traficantes de esclavos defendi√©ndose de algunos geckos dorados.}
 {4368}{}{Una patrulla luchando contra algunos traficantes de esclavos.}
 {4369}{}{Una patrulla luchando contra geckos dorados.}
-{4370}{}{Una patrulla defendiÈndose de perros feroces.}
+{4370}{}{Una patrulla defendi√©ndose de perros feroces.}
 {4371}{}{Una patrulla.}
 {4372}{}{Los restos de una ballena.}
 {4373}{}{Una cabeza de piedra gigante.}
 {4374}{}{Trasbordador accidentado.}
-{4375}{}{El Guardi·n del Portal.}
+{4375}{}{El Guardi√°n del Portal.}
 {4376}{}{Caballeros del Rey Arturo.}
 {4377}{}{El Hombre de Hojalata.}
 {4378}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{4400}{}{Un montÛn de carroÒeros.}
-{4401}{}{Algunos necrÛfagos carroÒeros.}
-{4402}{}{Un puÒado de lun·ticos.}
-{4403}{}{Algunos necrÛfagos enloquecidos.}
+{4400}{}{Un mont√≥n de carro√±eros.}
+{4401}{}{Algunos necr√≥fagos carro√±eros.}
+{4402}{}{Un pu√±ado de lun√°ticos.}
+{4403}{}{Algunos necr√≥fagos enloquecidos.}
 {4404}{}{Algunos cazarrecompensas.}
 {4405}{}{Algunos cazarrecompensas.}
 {4406}{}{Algunos cazarrecompensas.}
@@ -841,18 +841,18 @@
 {4413}{}{Algunos geckos.}
 {4414}{}{Una manada de perros feroces.}
 {4415}{}{Una familia de escorpiones rad.}
-{4416}{}{Un puÒado de ratas cerdo mutadas.}
+{4416}{}{Un pu√±ado de ratas cerdo mutadas.}
 {4417}{}{Un grupo de ratas mutadas.}
-{4418}{}{Algunos carroÒeros luchando contra un puÒado de lun·ticos.}
-{4419}{}{Algunos necrÛfagos carroÒeros defendiÈndose de algunos lun·ticos.}
-{4420}{}{Algunos geckos luchando contra algunos lun·ticos.}
-{4421}{}{Algunas ratas mutadas infestadas por algunos necrÛfagos carroÒeros.}
+{4418}{}{Algunos carro√±eros luchando contra un pu√±ado de lun√°ticos.}
+{4419}{}{Algunos necr√≥fagos carro√±eros defendi√©ndose de algunos lun√°ticos.}
+{4420}{}{Algunos geckos luchando contra algunos lun√°ticos.}
+{4421}{}{Algunas ratas mutadas infestadas por algunos necr√≥fagos carro√±eros.}
 {4422}{}{Un hombre guardando un puente.}
 {4423}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{4450}{}{MontÛn de basura tÛxica.}
+{4450}{}{Mont√≥n de basura t√≥xica.}
 {4451}{}{Un solitario perro superviviente.}
-{4452}{}{Un rebaÒo de brahmines.}
-{4453}{}{Un montÛn de carroÒeros.}
+{4452}{}{Un reba√±o de brahmines.}
+{4453}{}{Un mont√≥n de carro√±eros.}
 {4454}{}{Algunos cazarrecompensas.}
 {4455}{}{Algunos cazarrecompensas.}
 {4456}{}{Algunos cazarrecompensas.}
@@ -862,26 +862,26 @@
 {4460}{}{Algunos cazarrecompensas.}
 {4461}{}{Algunos cazarrecompensas.}
 {4462}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{4463}{}{Algunos necrÛfagos carroÒeros.}
-{4464}{}{Un puÒado de lun·ticos.}
-{4465}{}{Algunos necrÛfagos enloquecidos.}
+{4463}{}{Algunos necr√≥fagos carro√±eros.}
+{4464}{}{Un pu√±ado de lun√°ticos.}
+{4465}{}{Algunos necr√≥fagos enloquecidos.}
 {4466}{}{Algunos geckos.}
 {4467}{}{Una manada de perros feroces.}
 {4468}{}{Una familia de escorpiones rad.}
-{4469}{}{Un puÒado de ratas cerdo mutadas.}
+{4469}{}{Un pu√±ado de ratas cerdo mutadas.}
 {4470}{}{Un grupo de ratas mutadas.}
-{4471}{}{Algunos carroÒeros luchando contra un puÒado de lun·ticos.}
-{4472}{}{Algunos necrÛfagos carroÒeros defendiÈndose de algunos lun·ticos}
-{4473}{}{Algunos geckos luchando contra algunos lun·ticos.}
-{4474}{}{Algunas ratas mutadas infestadas por algunos necrÛfagos carroÒeros.}
+{4471}{}{Algunos carro√±eros luchando contra un pu√±ado de lun√°ticos.}
+{4472}{}{Algunos necr√≥fagos carro√±eros defendi√©ndose de algunos lun√°ticos}
+{4473}{}{Algunos geckos luchando contra algunos lun√°ticos.}
+{4474}{}{Algunas ratas mutadas infestadas por algunos necr√≥fagos carro√±eros.}
 {4475}{}{Los restos de una ballena.}
 {4476}{}{Una cabeza de piedra gigante.}
 {4477}{}{Trasbordador accidentado.}
-{4478}{}{El Guardi·n del Portal.}
+{4478}{}{El Guardi√°n del Portal.}
 {4479}{}{Caballeros del Rey Arturo.}
 {4480}{}{El Hombre de Hojalata.}
 {4481}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{4500}{}{Algunos canÌbales.}
+{4500}{}{Algunos can√≠bales.}
 {4501}{}{Algunos salvajes.}
 {4502}{}{Un grupo de guerra.}
 {4503}{}{Algunos proscritos.}
@@ -896,14 +896,14 @@
 {4512}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {4513}{}{Una familia de escorpiones rad.}
 {4514}{}{Algunas ratas topo.}
-{4515}{}{Algunos pescadores defendiÈndose de algunos canÌbales.}
-{4516}{}{Algunos canÌbales luchando contra algunos salvajes.}
+{4515}{}{Algunos pescadores defendi√©ndose de algunos can√≠bales.}
+{4516}{}{Algunos can√≠bales luchando contra algunos salvajes.}
 {4517}{}{Algunos escorpiones rad atacando a algunos salvajes.}
 {4518}{}{Algunos pescadores.}
-{4550}{}{MontÛn de basura tÛxica.}
+{4550}{}{Mont√≥n de basura t√≥xica.}
 {4551}{}{Un solitario perro superviviente.}
-{4552}{}{Un rebaÒo de brahmines.}
-{4553}{}{Algunos canÌbales.}
+{4552}{}{Un reba√±o de brahmines.}
+{4553}{}{Algunos can√≠bales.}
 {4554}{}{Algunos cazarrecompensas.}
 {4555}{}{Algunos cazarrecompensas.}
 {4556}{}{Algunos cazarrecompensas.}
@@ -916,24 +916,24 @@
 {4563}{}{Algunos proscritos.}
 {4564}{}{Algunos salvajes.}
 {4565}{}{Un grupo de guerra.}
-{4566}{}{Algunos geckos ocult·ndose en algunas plantas de esporas.}
+{4566}{}{Algunos geckos ocult√°ndose en algunas plantas de esporas.}
 {4567}{}{Algunos geckos y algunos escorpiones rad.}
 {4568}{}{Algunos geckos.}
-{4569}{}{Algunos escorpiones rad ocult·ndose en algunas plantas de esporas.}
+{4569}{}{Algunos escorpiones rad ocult√°ndose en algunas plantas de esporas.}
 {4570}{}{Algunos escorpiones rad.}
 {4571}{}{Algunos geckos atacando a algunos proscritos.}
 {4572}{}{Algunos geckos luchando contra algunos salvajes.}
-{4573}{}{Algunos escorpiones rad luchando contra algunos canÌbales.}
-{4574}{}{Algunos escorpiones rad atacando a un ermitaÒo.}
-{4575}{}{Un ermitaÒo.}
+{4573}{}{Algunos escorpiones rad luchando contra algunos can√≠bales.}
+{4574}{}{Algunos escorpiones rad atacando a un ermita√±o.}
+{4575}{}{Un ermita√±o.}
 {4576}{}{Los restos de una ballena.}
 {4577}{}{Una cabeza de piedra gigante.}
 {4578}{}{Trasbordador accidentado.}
-{4579}{}{El Guardi·n del Portal.}
+{4579}{}{El Guardi√°n del Portal.}
 {4580}{}{Caballeros del Rey Arturo.}
 {4581}{}{El Hombre de Hojalata.}
 {4582}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{4600}{}{Algunos canÌbales.}
+{4600}{}{Algunos can√≠bales.}
 {4601}{}{Algunos proscritos.}
 {4602}{}{Algunos salvajes.}
 {4603}{}{Un grupo de guerra.}
@@ -946,21 +946,21 @@
 {4610}{}{Algunos cazarrecompensas.}
 {4611}{}{Algunos cazarrecompensas.}
 {4612}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{4613}{}{Algunos geckos ocult·ndose en algunas plantas de esporas.}
+{4613}{}{Algunos geckos ocult√°ndose en algunas plantas de esporas.}
 {4614}{}{Algunos geckos y algunos escorpiones rad.}
 {4615}{}{Algunos geckos.}
-{4616}{}{Algunos escorpiones rad ocult·ndose en algunas plantas de esporas.}
+{4616}{}{Algunos escorpiones rad ocult√°ndose en algunas plantas de esporas.}
 {4617}{}{Algunos escorpiones rad.}
 {4618}{}{Algunos geckos atacando a algunos proscritos.}
 {4619}{}{Algunos geckos luchando contra algunos salvajes.}
-{4620}{}{Algunos escorpiones rad luchando contra algunos canÌbales.}
-{4621}{}{Algunos escorpiones rad atacando a un ermitaÒo.}
-{4622}{}{Un ermitaÒo.}
+{4620}{}{Algunos escorpiones rad luchando contra algunos can√≠bales.}
+{4621}{}{Algunos escorpiones rad atacando a un ermita√±o.}
+{4622}{}{Un ermita√±o.}
 {4623}{}{Un hombre guardando un puente.}
 {4624}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{4650}{}{MontÛn de basura tÛxica.}
+{4650}{}{Mont√≥n de basura t√≥xica.}
 {4651}{}{Un solitario perro superviviente.}
-{4652}{}{Un rebaÒo de brahmines.}
+{4652}{}{Un reba√±o de brahmines.}
 {4653}{}{Una caravana procedente de La Guarida.}
 {4654}{}{Algunos cazarrecompensas.}
 {4655}{}{Algunos cazarrecompensas.}
@@ -974,9 +974,9 @@
 {4663}{}{Algunos forajidos y ladrones.}
 {4664}{}{Algunos forajidos.}
 {4665}{}{Algunos ladrones.}
-{4666}{}{Una caravana de Redding defendiÈndose de forajidos.}
-{4667}{}{Una caravana de Nuevo Reno defendiÈndose de ladrones.}
-{4668}{}{Una caravana de La Guarida defendiÈndose de forajidos.}
+{4666}{}{Una caravana de Redding defendi√©ndose de forajidos.}
+{4667}{}{Una caravana de Nuevo Reno defendi√©ndose de ladrones.}
+{4668}{}{Una caravana de La Guarida defendi√©ndose de forajidos.}
 {4669}{}{Algunos ladrones tendiendo emboscada a una caravana.}
 {4670}{}{Una caravana de La Guarida atacando una caravana procedente de Ciudad Refugio.}
 {4671}{}{Algunos forajidos luchando contra algunos ladrones.}
@@ -985,7 +985,7 @@
 {4674}{}{Los restos de una ballena.}
 {4675}{}{Una cabeza de piedra gigante.}
 {4676}{}{Trasbordador accidentado.}
-{4677}{}{El Guardi·n del Portal.}
+{4677}{}{El Guardi√°n del Portal.}
 {4678}{}{Caballeros del Rey Arturo.}
 {4679}{}{El Hombre de Hojalata.}
 {4680}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
@@ -1002,9 +1002,9 @@
 {4710}{}{Algunos cazarrecompensas.}
 {4711}{}{Algunos cazarrecompensas.}
 {4712}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{4713}{}{Una caravana de Redding defendiÈndose de forajidos.}
-{4714}{}{Una caravana de Nuevo Reno defendiÈndose de ladrones.}
-{4715}{}{Una caravana de La Guarida defendiÈndose de forajidos.}
+{4713}{}{Una caravana de Redding defendi√©ndose de forajidos.}
+{4714}{}{Una caravana de Nuevo Reno defendi√©ndose de ladrones.}
+{4715}{}{Una caravana de La Guarida defendi√©ndose de forajidos.}
 {4716}{}{Algunos ladrones tendiendo emboscada a una caravana.}
 {4717}{}{Una caravana de La Guarida atacando una caravana procedente de Ciudad Refugio.}
 {4718}{}{Algunos forajidos luchando contra algunos ladrones.}
@@ -1012,9 +1012,9 @@
 {4720}{}{Una caravana procedente de La Guarida.}
 {4721}{}{Un hombre guardando un puente.}
 {4722}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{4750}{}{MontÛn de basura tÛxica.}
+{4750}{}{Mont√≥n de basura t√≥xica.}
 {4751}{}{Un solitario perro superviviente.}
-{4752}{}{Un rebaÒo de brahmines.}
+{4752}{}{Un reba√±o de brahmines.}
 {4753}{}{Algunos geckos y algunos lobos.}
 {4754}{}{Algunos cazarrecompensas.}
 {4755}{}{Algunos cazarrecompensas.}
@@ -1032,14 +1032,14 @@
 {4767}{}{Algunos tramperos luchando contra algunos geckos dorados.}
 {4768}{}{Algunos contrabandistas de licores luchando contra algunos lobos.}
 {4769}{}{Algunos granjeros luchando contra algunos incursores.}
-{4770}{}{Algunos granjeros defendiÈndose de algunos lobos.}
+{4770}{}{Algunos granjeros defendi√©ndose de algunos lobos.}
 {4771}{}{Algunos contrabandistas de licores.}
 {4772}{}{Algunos tramperos.}
 {4773}{}{Algunos buscadores.}
 {4774}{}{Los restos de una ballena.}
 {4775}{}{Una cabeza de piedra gigante.}
 {4776}{}{Trasbordador accidentado.}
-{4777}{}{El Guardi·n del Portal.}
+{4777}{}{El Guardi√°n del Portal.}
 {4778}{}{Caballeros del Rey Arturo.}
 {4779}{}{El Hombre de Hojalata.}
 {4780}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
@@ -1060,7 +1060,7 @@
 {4814}{}{Algunos tramperos luchando contra algunos geckos dorados.}
 {4815}{}{Algunos contrabandistas de licores luchando contra algunos lobos.}
 {4816}{}{Algunos granjeros luchando contra algunos incursores.}
-{4817}{}{Algunos granjeros defendiÈndose de algunos lobos.}
+{4817}{}{Algunos granjeros defendi√©ndose de algunos lobos.}
 {4818}{}{Algunos contrabandistas de licores.}
 {4819}{}{Algunos tramperos.}
 {4820}{}{Algunos buscadores.}
@@ -1089,8 +1089,8 @@
 {4870}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {4900}{}{Una banda de ladrones.}
 {4901}{}{Algunos lobos.}
-{4902}{}{Una caravana defendiÈndose de algunos ladrones.}
-{4903}{}{Una caravana defendiÈndose de algunos ladrones.}
+{4902}{}{Una caravana defendi√©ndose de algunos ladrones.}
+{4903}{}{Una caravana defendi√©ndose de algunos ladrones.}
 {4904}{}{Algunos cazarrecompensas.}
 {4905}{}{Algunos cazarrecompensas.}
 {4906}{}{Algunos cazarrecompensas.}
@@ -1100,8 +1100,8 @@
 {4910}{}{Algunos cazarrecompensas.}
 {4911}{}{Algunos cazarrecompensas.}
 {4912}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{4913}{}{Una caravana defendiÈndose de algunos ladrones.}
-{4914}{}{Una caravana defendiÈndose de algunos ladrones.}
+{4913}{}{Una caravana defendi√©ndose de algunos ladrones.}
+{4914}{}{Una caravana defendi√©ndose de algunos ladrones.}
 {4915}{}{Una caravana.}
 {4916}{}{Una caravana.}
 {4917}{}{Una caravana.}
@@ -1109,9 +1109,9 @@
 {4919}{}{Un hombre guardando un puente.}
 {4920}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {4921}{}{Una banda de angry raiders.}
-{4950}{}{MontÛn de basura tÛxica.}
+{4950}{}{Mont√≥n de basura t√≥xica.}
 {4951}{}{Un solitario perro superviviente.}
-{4952}{}{Un rebaÒo de brahmines.}
+{4952}{}{Un reba√±o de brahmines.}
 {4953}{}{Una banda de ladrones.}
 {4954}{}{Algunos cazarrecompensas.}
 {4955}{}{Algunos cazarrecompensas.}
@@ -1123,10 +1123,10 @@
 {4961}{}{Algunos cazarrecompensas.}
 {4962}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {4963}{}{Algunos lobos.}
-{4964}{}{Una caravana defendiÈndose de algunos ladrones.}
-{4965}{}{Una caravana defendiÈndose de algunos ladrones.}
-{4966}{}{Una caravana defendiÈndose de algunos ladrones.}
-{4967}{}{Una caravana defendiÈndose de algunos ladrones.}
+{4964}{}{Una caravana defendi√©ndose de algunos ladrones.}
+{4965}{}{Una caravana defendi√©ndose de algunos ladrones.}
+{4966}{}{Una caravana defendi√©ndose de algunos ladrones.}
+{4967}{}{Una caravana defendi√©ndose de algunos ladrones.}
 {4968}{}{Una caravana.}
 {4969}{}{Una caravana.}
 {4970}{}{Una caravana.}
@@ -1134,7 +1134,7 @@
 {4972}{}{Los restos de una ballena.}
 {4973}{}{Una cabeza de piedra gigante.}
 {4974}{}{Trasbordador accidentado.}
-{4975}{}{El Guardi·n del Portal.}
+{4975}{}{El Guardi√°n del Portal.}
 {4976}{}{Caballeros del Rey Arturo.}
 {4977}{}{El Hombre de Hojalata.}
 {4978}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
@@ -1157,9 +1157,9 @@
 {5015}{}{Un hombre guardando un puente.}
 {5016}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {5017}{}{Una banda de angry raiders.}
-{5050}{}{MontÛn de basura tÛxica.}
+{5050}{}{Mont√≥n de basura t√≥xica.}
 {5051}{}{Un solitario perro superviviente.}
-{5052}{}{Un rebaÒo de brahmines.}
+{5052}{}{Un reba√±o de brahmines.}
 {5053}{}{Una banda de ladrones guiando a algunos lobos.}
 {5054}{}{Algunos cazarrecompensas.}
 {5055}{}{Algunos cazarrecompensas.}
@@ -1178,14 +1178,14 @@
 {5068}{}{Los restos de una ballena.}
 {5069}{}{Una cabeza de piedra gigante.}
 {5070}{}{Trasbordador accidentado.}
-{5071}{}{El Guardi·n del Portal.}
+{5071}{}{El Guardi√°n del Portal.}
 {5072}{}{Caballeros del Rey Arturo.}
 {5073}{}{El Hombre de Hojalata.}
 {5074}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {5075}{}{Una banda de angry raiders.}
-{5100}{}{MontÛn de basura tÛxica.}
+{5100}{}{Mont√≥n de basura t√≥xica.}
 {5101}{}{Un solitario perro superviviente.}
-{5102}{}{Un rebaÒo de brahmines.}
+{5102}{}{Un reba√±o de brahmines.}
 {5103}{}{Una patrulla del Enclave.}
 {5104}{}{Algunos cazarrecompensas.}
 {5105}{}{Algunos cazarrecompensas.}
@@ -1199,11 +1199,11 @@
 {5113}{}{Los restos de una ballena.}
 {5114}{}{Una cabeza de piedra gigante.}
 {5115}{}{Trasbordador accidentado.}
-{5116}{}{El Guardi·n del Portal.}
+{5116}{}{El Guardi√°n del Portal.}
 {5117}{}{Caballeros del Rey Arturo.}
 {5118}{}{El Hombre de Hojalata.}
 {5119}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{5120}{}{El CafÈ de los SueÒos Rotos.}
+{5120}{}{El Caf√© de los Sue√±os Rotos.}
 {5150}{}{Una patrulla del Enclave.}
 {5151}{}{Algunos cazarrecompensas.}
 {5152}{}{Algunos cazarrecompensas.}
@@ -1226,10 +1226,10 @@
 {5207}{}{Algunos cazarrecompensas.}
 {5208}{}{Algunos cazarrecompensas.}
 {5209}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{5250}{}{MontÛn de basura tÛxica.}
+{5250}{}{Mont√≥n de basura t√≥xica.}
 {5251}{}{Un solitario perro superviviente.}
-{5252}{}{Un rebaÒo de brahmines.}
-{5253}{}{Algunos alienÌgenas y Garras mortales}
+{5252}{}{Un reba√±o de brahmines.}
+{5253}{}{Algunos alien√≠genas y Garras mortales}
 {5254}{}{Algunos cazarrecompensas.}
 {5255}{}{Algunos cazarrecompensas.}
 {5256}{}{Algunos cazarrecompensas.}
@@ -1239,27 +1239,27 @@
 {5260}{}{Algunos cazarrecompensas.}
 {5261}{}{Algunos cazarrecompensas.}
 {5262}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{5263}{}{Restos del ejÈrcito del Maestro compuesto por nÛmadas y centauros.}
+{5263}{}{Restos del ej√©rcito del Maestro compuesto por n√≥madas y centauros.}
 {5264}{}{Algunos geckos de fuego.}
-{5265}{}{Una gran manada de alienÌgenas.}
+{5265}{}{Una gran manada de alien√≠genas.}
 {5266}{}{Algunos Garras mortales.}
 {5267}{}{Algunos geckos de fuego.}
-{5268}{}{Algunos alienÌgenas.}
+{5268}{}{Algunos alien√≠genas.}
 {5269}{}{Un grupo de centauros.}
-{5270}{}{Un enjambre de nÛmadas.}
+{5270}{}{Un enjambre de n√≥madas.}
 {5271}{}{Los restos de una ballena.}
 {5272}{}{Una cabeza de piedra gigante.}
 {5273}{}{Trasbordador accidentado.}
-{5274}{}{El Guardi·n del Portal.}
+{5274}{}{El Guardi√°n del Portal.}
 {5275}{}{Caballeros del Rey Arturo.}
 {5276}{}{El Hombre de Hojalata.}
 {5277}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{5278}{}{El CafÈ de los SueÒos Rotos.}
-{5279}{}{Una reuniÛn de importantes que buscan los individuos.}
-{5300}{}{Algunos alienÌgenas y Garras mortales.}
-{5301}{}{Restos del ejÈrcito del Maestro compuesto por nÛmadas y centauros.}
+{5278}{}{El Caf√© de los Sue√±os Rotos.}
+{5279}{}{Una reuni√≥n de importantes que buscan los individuos.}
+{5300}{}{Algunos alien√≠genas y Garras mortales.}
+{5301}{}{Restos del ej√©rcito del Maestro compuesto por n√≥madas y centauros.}
 {5302}{}{Algunos geckos de fuego.}
-{5303}{}{Una gran manada de alienÌgenas.}
+{5303}{}{Una gran manada de alien√≠genas.}
 {5304}{}{Algunos cazarrecompensas.}
 {5305}{}{Algunos cazarrecompensas.}
 {5306}{}{Algunos cazarrecompensas.}
@@ -1271,16 +1271,16 @@
 {5312}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {5313}{}{Algunos Garras mortales.}
 {5314}{}{Algunos geckos de fuego.}
-{5315}{}{Algunos alienÌgenas.}
+{5315}{}{Algunos alien√≠genas.}
 {5316}{}{Un grupo de centauros.}
-{5317}{}{Un enjambre de nÛmadas.}
+{5317}{}{Un enjambre de n√≥madas.}
 {5318}{}{Un hombre guardando un puente.}
 {5319}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{5320}{}{Una reuniÛn de importantes que buscan los individuos.}
-{5350}{}{Algunos alienÌgenas y Garras mortales.}
-{5351}{}{Restos del ejÈrcito del Maestro compuesto por nÛmadas y centauros.}
+{5320}{}{Una reuni√≥n de importantes que buscan los individuos.}
+{5350}{}{Algunos alien√≠genas y Garras mortales.}
+{5351}{}{Restos del ej√©rcito del Maestro compuesto por n√≥madas y centauros.}
 {5352}{}{Algunos geckos de fuego.}
-{5353}{}{Una gran manada de alienÌgenas.}
+{5353}{}{Una gran manada de alien√≠genas.}
 {5354}{}{Algunos cazarrecompensas.}
 {5355}{}{Algunos cazarrecompensas.}
 {5356}{}{Algunos cazarrecompensas.}
@@ -1292,13 +1292,13 @@
 {5362}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {5363}{}{Algunos Garras mortales.}
 {5364}{}{Algunos geckos de fuego.}
-{5365}{}{Algunos alienÌgenas.}
+{5365}{}{Algunos alien√≠genas.}
 {5366}{}{Un grupo de centauros.}
-{5367}{}{Un enjambre de nÛmadas.}
-{5368}{}{Una reuniÛn de importantes que buscan los individuos.}
-{5400}{}{MontÛn de basura tÛxica.}
+{5367}{}{Un enjambre de n√≥madas.}
+{5368}{}{Una reuni√≥n de importantes que buscan los individuos.}
+{5400}{}{Mont√≥n de basura t√≥xica.}
 {5401}{}{Un solitario perro superviviente.}
-{5402}{}{Un rebaÒo de brahmines.}
+{5402}{}{Un reba√±o de brahmines.}
 {5403}{}{Una manada de geckos de fuego.}
 {5404}{}{Algunos cazarrecompensas.}
 {5405}{}{Algunos cazarrecompensas.}
@@ -1314,12 +1314,12 @@
 {5415}{}{Los restos de una ballena.}
 {5416}{}{Una cabeza de piedra gigante.}
 {5417}{}{Trasbordador accidentado.}
-{5418}{}{El Guardi·n del Portal.}
+{5418}{}{El Guardi√°n del Portal.}
 {5419}{}{Caballeros del Rey Arturo.}
 {5420}{}{El Hombre de Hojalata.}
 {5421}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{5422}{}{El CafÈ de los SueÒos Rotos.}
-{5423}{}{Una reuniÛn de importantes que buscan los individuos.}
+{5422}{}{El Caf√© de los Sue√±os Rotos.}
+{5423}{}{Una reuni√≥n de importantes que buscan los individuos.}
 {5450}{}{Una manada de geckos de fuego.}
 {5451}{}{Una manada de geckos de fuego.}
 {5452}{}{Un gran grupo de geckos dorados.}
@@ -1334,7 +1334,7 @@
 {5461}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {5462}{}{Un hombre guardando un puente.}
 {5463}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{5464}{}{Una reuniÛn de importantes que buscan los individuos.}
+{5464}{}{Una reuni√≥n de importantes que buscan los individuos.}
 {5500}{}{Una manada de geckos de fuego.}
 {5501}{}{Una manada de geckos de fuego.}
 {5502}{}{Un gran grupo de geckos dorados.}
@@ -1347,10 +1347,10 @@
 {5509}{}{Algunos cazarrecompensas.}
 {5510}{}{Algunos cazarrecompensas.}
 {5511}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{5512}{}{Una reuniÛn de importantes que buscan los individuos.}
-{5550}{}{MontÛn de basura tÛxica.}
+{5512}{}{Una reuni√≥n de importantes que buscan los individuos.}
+{5550}{}{Mont√≥n de basura t√≥xica.}
 {5551}{}{Un solitario perro superviviente.}
-{5552}{}{Un rebaÒo de brahmines.}
+{5552}{}{Un reba√±o de brahmines.}
 {5553}{}{Una manada de Garras mortales.}
 {5554}{}{Algunos cazarrecompensas.}
 {5555}{}{Algunos cazarrecompensas.}
@@ -1362,10 +1362,10 @@
 {5561}{}{Algunos cazarrecompensas.}
 {5562}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {5563}{}{Una manada de geckos de fuego.}
-{5564}{}{Una caravana defendiÈndose de Garras mortales.}
-{5565}{}{Una caravana defendiÈndose de Garras mortales.}
-{5566}{}{Una caravana defendiÈndose de geckos de fuego.}
-{5567}{}{Una caravana defendiÈndose de geckos de fuego.}
+{5564}{}{Una caravana defendi√©ndose de Garras mortales.}
+{5565}{}{Una caravana defendi√©ndose de Garras mortales.}
+{5566}{}{Una caravana defendi√©ndose de geckos de fuego.}
+{5567}{}{Una caravana defendi√©ndose de geckos de fuego.}
 {5568}{}{Una caravana.}
 {5569}{}{Una caravana.}
 {5570}{}{Una caravana.}
@@ -1373,14 +1373,14 @@
 {5572}{}{Los restos de una ballena.}
 {5573}{}{Una cabeza de piedra gigante.}
 {5574}{}{Trasbordador accidentado.}
-{5575}{}{El Guardi·n del Portal.}
+{5575}{}{El Guardi√°n del Portal.}
 {5576}{}{Caballeros del Rey Arturo.}
 {5577}{}{El Hombre de Hojalata.}
 {5578}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {5600}{}{Una manada de Garras mortales.}
 {5601}{}{Una manada de geckos de fuego.}
-{5602}{}{Una caravana defendiÈndose de Garras mortales.}
-{5603}{}{Una caravana defendiÈndose de Garras mortales.}
+{5602}{}{Una caravana defendi√©ndose de Garras mortales.}
+{5603}{}{Una caravana defendi√©ndose de Garras mortales.}
 {5604}{}{Algunos cazarrecompensas.}
 {5605}{}{Algunos cazarrecompensas.}
 {5606}{}{Algunos cazarrecompensas.}
@@ -1390,17 +1390,17 @@
 {5610}{}{Algunos cazarrecompensas.}
 {5611}{}{Algunos cazarrecompensas.}
 {5612}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{5613}{}{Una caravana defendiÈndose de geckos de fuego.}
-{5614}{}{Una caravana defendiÈndose de geckos de fuego.}
+{5613}{}{Una caravana defendi√©ndose de geckos de fuego.}
+{5614}{}{Una caravana defendi√©ndose de geckos de fuego.}
 {5615}{}{Una caravana.}
 {5616}{}{Una caravana.}
 {5617}{}{Una caravana.}
 {5618}{}{Una caravana.}
 {5619}{}{Un hombre guardando un puente.}
 {5620}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{5650}{}{MontÛn de basura tÛxica.}
+{5650}{}{Mont√≥n de basura t√≥xica.}
 {5651}{}{Un solitario perro superviviente.}
-{5652}{}{Un rebaÒo de brahmines.}
+{5652}{}{Un reba√±o de brahmines.}
 {5653}{}{Algunos yakuza.}
 {5654}{}{Algunos cazarrecompensas.}
 {5655}{}{Algunos cazarrecompensas.}
@@ -1420,11 +1420,11 @@
 {5669}{}{Los restos de una ballena.}
 {5670}{}{Una cabeza de piedra gigante.}
 {5671}{}{Trasbordador accidentado.}
-{5672}{}{El Guardi·n del Portal.}
+{5672}{}{El Guardi√°n del Portal.}
 {5673}{}{Caballeros del Rey Arturo.}
 {5674}{}{El Hombre de Hojalata.}
 {5675}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{5676}{}{El CafÈ de los SueÒos Rotos.}
+{5676}{}{El Caf√© de los Sue√±os Rotos.}
 {5700}{}{Algunos yakuza.}
 {5701}{}{Una pandilla.}
 {5702}{}{Un grupo de lobos.}
@@ -1459,9 +1459,9 @@
 {5763}{}{Algunos mafiosos luchando contra una pandilla.}
 {5764}{}{Algunos mafiosos.}
 {5765}{}{Un viajero.}
-{5800}{}{MontÛn de basura tÛxica.}
+{5800}{}{Mont√≥n de basura t√≥xica.}
 {5801}{}{Un solitario perro superviviente.}
-{5802}{}{Un rebaÒo de brahmines.}
+{5802}{}{Un reba√±o de brahmines.}
 {5803}{}{Una banda de buscavidas y algunos lobos.}
 {5804}{}{Algunos cazarrecompensas.}
 {5805}{}{Algunos cazarrecompensas.}
@@ -1482,7 +1482,7 @@
 {5820}{}{Los restos de una ballena.}
 {5821}{}{Una cabeza de piedra gigante.}
 {5822}{}{Trasbordador accidentado.}
-{5823}{}{El Guardi·n del Portal.}
+{5823}{}{El Guardi√°n del Portal.}
 {5824}{}{Caballeros del Rey Arturo.}
 {5825}{}{El Hombre de Hojalata.}
 {5826}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
@@ -1518,12 +1518,12 @@
 {5910}{}{Algunos cazarrecompensas.}
 {5911}{}{Algunos cazarrecompensas.}
 {5912}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{5913}{}{Un montÛn de alienÌgenas.}
+{5913}{}{Un mont√≥n de alien√≠genas.}
 {5914}{}{Hubologistas luchando contra mercenarios.}
-{5915}{}{Hubologistas defendiÈndose de una banda de asaltantes.}
+{5915}{}{Hubologistas defendi√©ndose de una banda de asaltantes.}
 {5916}{}{Hubologistas.}
 {5917}{}{Una banda de mercenarios furiosos.}
-{5918}{}{Una reuniÛn de importantes que buscan los individuos.}
+{5918}{}{Una reuni√≥n de importantes que buscan los individuos.}
 {5950}{}{Una banda de mercenarios.}
 {5951}{}{Una banda de asaltantes.}
 {5952}{}{Un rebano de Garras mortales.}
@@ -1537,14 +1537,14 @@
 {5960}{}{Algunos cazarrecompensas.}
 {5961}{}{Algunos cazarrecompensas.}
 {5962}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{5963}{}{Un montÛn de alienÌgenas.}
+{5963}{}{Un mont√≥n de alien√≠genas.}
 {5964}{}{Hubologistas luchando contra mercenarios.}
-{5965}{}{Hubologistas defendiÈndose de una banda de asaltantes.}
+{5965}{}{Hubologistas defendi√©ndose de una banda de asaltantes.}
 {5966}{}{Hubologistas.}
 {5967}{}{Un hombre guardando un puente.}
 {5968}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {5969}{}{Una banda de mercenarios furiosos.}
-{5970}{}{Una reuniÛn de importantes que buscan los individuos.}
+{5970}{}{Una reuni√≥n de importantes que buscan los individuos.}
 {6000}{}{Una banda de mercenarios.}
 {6001}{}{Una banda de asaltantes.}
 {6002}{}{Un rebano de Garras mortales.}
@@ -1558,15 +1558,15 @@
 {6010}{}{Algunos cazarrecompensas.}
 {6011}{}{Algunos cazarrecompensas.}
 {6012}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{6013}{}{Un montÛn de alienÌgenas.}
+{6013}{}{Un mont√≥n de alien√≠genas.}
 {6014}{}{Hubologistas luchando contra mercenarios.}
-{6015}{}{Hubologistas defendiÈndose de una banda de asaltantes.}
+{6015}{}{Hubologistas defendi√©ndose de una banda de asaltantes.}
 {6016}{}{Hubologistas.}
 {6017}{}{Una banda de mercenarios furiosos.}
-{6018}{}{Una reuniÛn de importantes que buscan los individuos.}
-{6050}{}{MontÛn de basura tÛxica.}
+{6018}{}{Una reuni√≥n de importantes que buscan los individuos.}
+{6050}{}{Mont√≥n de basura t√≥xica.}
 {6051}{}{Un solitario perro superviviente.}
-{6052}{}{Un rebaÒo de brahmines.}
+{6052}{}{Un reba√±o de brahmines.}
 {6053}{}{Una banda de mercenarios.}
 {6054}{}{Algunos cazarrecompensas.}
 {6055}{}{Algunos cazarrecompensas.}
@@ -1580,23 +1580,23 @@
 {6063}{}{Una banda de asaltantes.}
 {6064}{}{Un rebano de Garras mortales.}
 {6065}{}{Un grupo de geckos de fuego.}
-{6066}{}{Un montÛn de alienÌgenas.}
+{6066}{}{Un mont√≥n de alien√≠genas.}
 {6067}{}{Hubologistas luchando contra mercenarios.}
-{6068}{}{Hubologistas defendiÈndose de una banda de asaltantes.}
+{6068}{}{Hubologistas defendi√©ndose de una banda de asaltantes.}
 {6069}{}{Hubologistas.}
 {6070}{}{Los restos de una ballena.}
 {6071}{}{Una cabeza de piedra gigante.}
 {6072}{}{Trasbordador accidentado.}
-{6073}{}{El Guardi·n del Portal.}
+{6073}{}{El Guardi√°n del Portal.}
 {6074}{}{Caballeros del Rey Arturo.}
 {6075}{}{El Hombre de Hojalata.}
 {6076}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6077}{}{El CafÈ de los SueÒos Rotos.}
+{6077}{}{El Caf√© de los Sue√±os Rotos.}
 {6078}{}{Una banda de mercenarios furiosos.}
-{6079}{}{Una reuniÛn de importantes que buscan los individuos.}
-{6100}{}{MontÛn de basura tÛxica.}
+{6079}{}{Una reuni√≥n de importantes que buscan los individuos.}
+{6100}{}{Mont√≥n de basura t√≥xica.}
 {6101}{}{Un solitario perro superviviente.}
-{6102}{}{Un rebaÒo de brahmines.}
+{6102}{}{Un reba√±o de brahmines.}
 {6103}{}{Una banda de mercenarios.}
 {6104}{}{Algunos cazarrecompensas.}
 {6105}{}{Algunos cazarrecompensas.}
@@ -1609,26 +1609,26 @@
 {6112}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {6113}{}{Una manada de Garras mortales.}
 {6114}{}{Una manada de geckos de fuego.}
-{6115}{}{Un montÛn de alienÌgenas.}
-{6116}{}{Una caravana defendiÈndose de mercenarios.}
-{6117}{}{Una caravana defendiÈndose de mercenarios.}
-{6118}{}{Una caravana defendiÈndose de geckos de fuego.}
-{6119}{}{Una caravana defendiÈndose de alienÌgenas.}
+{6115}{}{Un mont√≥n de alien√≠genas.}
+{6116}{}{Una caravana defendi√©ndose de mercenarios.}
+{6117}{}{Una caravana defendi√©ndose de mercenarios.}
+{6118}{}{Una caravana defendi√©ndose de geckos de fuego.}
+{6119}{}{Una caravana defendi√©ndose de alien√≠genas.}
 {6120}{}{Una caravana.}
 {6121}{}{Una caravana.}
 {6122}{}{Los restos de una ballena.}
 {6123}{}{Una cabeza de piedra gigante.}
 {6124}{}{Trasbordador accidentado.}
-{6125}{}{El Guardi·n del Portal.}
+{6125}{}{El Guardi√°n del Portal.}
 {6126}{}{Caballeros del Rey Arturo.}
 {6127}{}{El Hombre de Hojalata.}
 {6128}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6129}{}{El CafÈ de los SueÒos Rotos.}
+{6129}{}{El Caf√© de los Sue√±os Rotos.}
 {6130}{}{Una banda de mercenarios furiosos.}
 {6150}{}{Una banda de mercenarios.}
 {6151}{}{Una manada de Garras mortales.}
 {6152}{}{Una manada de geckos de fuego.}
-{6153}{}{Un montÛn de alienÌgenas.}
+{6153}{}{Un mont√≥n de alien√≠genas.}
 {6154}{}{Algunos cazarrecompensas.}
 {6155}{}{Algunos cazarrecompensas.}
 {6156}{}{Algunos cazarrecompensas.}
@@ -1638,17 +1638,17 @@
 {6160}{}{Algunos cazarrecompensas.}
 {6161}{}{Algunos cazarrecompensas.}
 {6162}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{6163}{}{Una caravana defendiÈndose de mercenarios.}
-{6164}{}{Una caravana defendiÈndose de mercenarios.}
-{6165}{}{Una caravana defendiÈndose de geckos de fuego.}
-{6166}{}{Una caravana defendiÈndose de alienÌgenas.}
+{6163}{}{Una caravana defendi√©ndose de mercenarios.}
+{6164}{}{Una caravana defendi√©ndose de mercenarios.}
+{6165}{}{Una caravana defendi√©ndose de geckos de fuego.}
+{6166}{}{Una caravana defendi√©ndose de alien√≠genas.}
 {6167}{}{Una caravana.}
 {6168}{}{Una caravana.}
 {6169}{}{Una banda de mercenarios furiosos.}
-{6200}{}{MontÛn de basura tÛxica.}
+{6200}{}{Mont√≥n de basura t√≥xica.}
 {6201}{}{Un solitario perro superviviente.}
-{6202}{}{Un rebaÒo de brahmines.}
-{6203}{}{Una gran manada de alienÌgenas.}
+{6202}{}{Un reba√±o de brahmines.}
+{6203}{}{Una gran manada de alien√≠genas.}
 {6204}{}{Algunos cazarrecompensas.}
 {6205}{}{Algunos cazarrecompensas.}
 {6206}{}{Algunos cazarrecompensas.}
@@ -1658,19 +1658,19 @@
 {6210}{}{Algunos cazarrecompensas.}
 {6211}{}{Algunos cazarrecompensas.}
 {6212}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{6213}{}{Restos del ejÈrcito del Maestro.}
+{6213}{}{Restos del ej√©rcito del Maestro.}
 {6214}{}{Una manada de Garras mortales.}
 {6215}{}{Un enjambre de mantis.}
 {6216}{}{Los restos de una ballena.}
 {6217}{}{Una cabeza de piedra gigante.}
 {6218}{}{Trasbordador accidentado.}
-{6219}{}{El Guardi·n del Portal.}
+{6219}{}{El Guardi√°n del Portal.}
 {6220}{}{Caballeros del Rey Arturo.}
 {6221}{}{El Hombre de Hojalata.}
 {6222}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6223}{}{El CafÈ de los SueÒos Rotos.}
-{6250}{}{Una gran manada de alienÌgenas.}
-{6251}{}{Restos del ejÈrcito del Maestro.}
+{6223}{}{El Caf√© de los Sue√±os Rotos.}
+{6250}{}{Una gran manada de alien√≠genas.}
+{6251}{}{Restos del ej√©rcito del Maestro.}
 {6252}{}{Una manada de Garras mortales.}
 {6253}{}{Un enjambre de mantis.}
 {6254}{}{Algunos cazarrecompensas.}
@@ -1684,10 +1684,10 @@
 {6262}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {6263}{}{Un hombre guardando un puente.}
 {6264}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{6300}{}{MontÛn de basura tÛxica.}
+{6300}{}{Mont√≥n de basura t√≥xica.}
 {6301}{}{Un solitario perro superviviente.}
-{6302}{}{Un rebaÒo de brahmines.}
-{6303}{}{Una caravana defendiÈndose de restos del ejÈrcito del Maestro.}
+{6302}{}{Un reba√±o de brahmines.}
+{6303}{}{Una caravana defendi√©ndose de restos del ej√©rcito del Maestro.}
 {6304}{}{Algunos cazarrecompensas.}
 {6305}{}{Algunos cazarrecompensas.}
 {6306}{}{Algunos cazarrecompensas.}
@@ -1697,22 +1697,22 @@
 {6310}{}{Algunos cazarrecompensas.}
 {6311}{}{Algunos cazarrecompensas.}
 {6312}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{6313}{}{Una caravana defendiÈndose de restos del ejÈrcito del Maestro.}
-{6314}{}{Una caravana defendiÈndose de algunos Garras mortales.}
+{6313}{}{Una caravana defendi√©ndose de restos del ej√©rcito del Maestro.}
+{6314}{}{Una caravana defendi√©ndose de algunos Garras mortales.}
 {6315}{}{Una caravana.}
 {6316}{}{Una caravana.}
 {6317}{}{Una caravana.}
 {6318}{}{Los restos de una ballena.}
 {6319}{}{Una cabeza de piedra gigante.}
 {6320}{}{Trasbordador accidentado.}
-{6321}{}{El Guardi·n del Portal.}
+{6321}{}{El Guardi√°n del Portal.}
 {6322}{}{Caballeros del Rey Arturo.}
 {6323}{}{El Hombre de Hojalata.}
 {6324}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6325}{}{El CafÈ de los SueÒos Rotos.}
-{6350}{}{Una caravana defendiÈndose de restos del ejÈrcito del Maestro.}
-{6351}{}{Una caravana defendiÈndose de restos del ejÈrcito del Maestro.}
-{6352}{}{Una caravana defendiÈndose de algunos Garras mortales.}
+{6325}{}{El Caf√© de los Sue√±os Rotos.}
+{6350}{}{Una caravana defendi√©ndose de restos del ej√©rcito del Maestro.}
+{6351}{}{Una caravana defendi√©ndose de restos del ej√©rcito del Maestro.}
+{6352}{}{Una caravana defendi√©ndose de algunos Garras mortales.}
 {6353}{}{Una caravana.}
 {6354}{}{Algunos cazarrecompensas.}
 {6355}{}{Algunos cazarrecompensas.}
@@ -1741,9 +1741,9 @@
 {6411}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {6412}{}{Un hombre guardando un puente.}
 {6413}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{6450}{}{MontÛn de basura tÛxica.}
+{6450}{}{Mont√≥n de basura t√≥xica.}
 {6451}{}{Un solitario perro superviviente.}
-{6452}{}{Un rebaÒo de brahmines.}
+{6452}{}{Un reba√±o de brahmines.}
 {6453}{}{Un grupo de lobos.}
 {6454}{}{Algunos cazarrecompensas.}
 {6455}{}{Algunos cazarrecompensas.}
@@ -1759,14 +1759,14 @@
 {6465}{}{Los restos de una ballena.}
 {6466}{}{Una cabeza de piedra gigante.}
 {6467}{}{Trasbordador accidentado.}
-{6468}{}{El Guardi·n del Portal.}
+{6468}{}{El Guardi√°n del Portal.}
 {6469}{}{Caballeros del Rey Arturo.}
 {6470}{}{El Hombre de Hojalata.}
 {6471}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6472}{}{El CafÈ de los SueÒos Rotos.}
-{6500}{}{MontÛn de basura tÛxica.}
+{6472}{}{El Caf√© de los Sue√±os Rotos.}
+{6500}{}{Mont√≥n de basura t√≥xica.}
 {6501}{}{Un solitario perro superviviente.}
-{6502}{}{Un rebaÒo de brahmines.}
+{6502}{}{Un reba√±o de brahmines.}
 {6503}{}{Una banda de merodeadores.}
 {6504}{}{Algunos cazarrecompensas.}
 {6505}{}{Algunos cazarrecompensas.}
@@ -1779,10 +1779,10 @@
 {6512}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {6513}{}{Un grupo de lobos.}
 {6514}{}{Un grupo de escorpiones rad.}
-{6515}{}{Una caravana defendiÈndose de merodeadores.}
-{6516}{}{Una caravana defendiÈndose de merodeadores.}
-{6517}{}{Una caravana defendiÈndose de lobos.}
-{6518}{}{Una caravana defendiÈndose de escorpiones rad.}
+{6515}{}{Una caravana defendi√©ndose de merodeadores.}
+{6516}{}{Una caravana defendi√©ndose de merodeadores.}
+{6517}{}{Una caravana defendi√©ndose de lobos.}
+{6518}{}{Una caravana defendi√©ndose de escorpiones rad.}
 {6519}{}{Una caravana.}
 {6520}{}{Una caravana.}
 {6521}{}{Una caravana.}
@@ -1791,16 +1791,16 @@
 {6524}{}{Los restos de una ballena.}
 {6525}{}{Una cabeza de piedra gigante.}
 {6526}{}{Trasbordador accidentado.}
-{6527}{}{El Guardi·n del Portal.}
+{6527}{}{El Guardi√°n del Portal.}
 {6528}{}{Caballeros del Rey Arturo.}
 {6529}{}{El Hombre de Hojalata.}
 {6530}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6531}{}{El CafÈ de los SueÒos Rotos.}
+{6531}{}{El Caf√© de los Sue√±os Rotos.}
 {6532}{}{Una banda de merodeadores furiosos.}
 {6550}{}{Una banda de merodeadores.}
 {6551}{}{Un grupo de lobos.}
 {6552}{}{Un grupo de escorpiones rad.}
-{6553}{}{Una caravana defendiÈndose de merodeadores.}
+{6553}{}{Una caravana defendi√©ndose de merodeadores.}
 {6554}{}{Algunos cazarrecompensas.}
 {6555}{}{Algunos cazarrecompensas.}
 {6556}{}{Algunos cazarrecompensas.}
@@ -1810,9 +1810,9 @@
 {6560}{}{Algunos cazarrecompensas.}
 {6561}{}{Algunos cazarrecompensas.}
 {6562}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{6563}{}{Una caravana defendiÈndose de merodeadores.}
-{6564}{}{Una caravana defendiÈndose de lobos.}
-{6565}{}{Una caravana defendiÈndose de escorpiones rad.}
+{6563}{}{Una caravana defendi√©ndose de merodeadores.}
+{6564}{}{Una caravana defendi√©ndose de lobos.}
+{6565}{}{Una caravana defendi√©ndose de escorpiones rad.}
 {6566}{}{Una caravana.}
 {6567}{}{Una caravana.}
 {6568}{}{Una caravana.}
@@ -1821,9 +1821,9 @@
 {6571}{}{Un hombre guardando un puente.}
 {6572}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {6573}{}{Una banda de merodeadores furiosos.}
-{6600}{}{Un destacamento del ejÈrcito del Maestro.}
+{6600}{}{Un destacamento del ej√©rcito del Maestro.}
 {6601}{}{Una banda de merodeadores.}
-{6602}{}{Algunos rangers defendiÈndose de una escuadra del ejÈrcito del Maestro.}
+{6602}{}{Algunos rangers defendi√©ndose de una escuadra del ej√©rcito del Maestro.}
 {6603}{}{Algunos rangers luchando contra algunos merodeadores.}
 {6604}{}{Algunos cazarrecompensas.}
 {6605}{}{Algunos cazarrecompensas.}
@@ -1834,17 +1834,17 @@
 {6610}{}{Algunos cazarrecompensas.}
 {6611}{}{Algunos cazarrecompensas.}
 {6612}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{6613}{}{Algunos granjeros defendiÈndose de partes del ejÈrcito del Maestro.}
-{6614}{}{Algunos granjeros defendiÈndose de merodeadores.}
+{6613}{}{Algunos granjeros defendi√©ndose de partes del ej√©rcito del Maestro.}
+{6614}{}{Algunos granjeros defendi√©ndose de merodeadores.}
 {6615}{}{Un destacamento de rangers de la RNC.}
 {6616}{}{Algunos granjeros.}
 {6617}{}{Un hombre guardando un puente.}
 {6618}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {6619}{}{Una banda de merodeadores furiosos.}
-{6650}{}{MontÛn de basura tÛxica.}
+{6650}{}{Mont√≥n de basura t√≥xica.}
 {6651}{}{Un solitario perro superviviente.}
-{6652}{}{Un rebaÒo de brahmines.}
-{6653}{}{Un destacamento del ejÈrcito del Maestro.}
+{6652}{}{Un reba√±o de brahmines.}
+{6653}{}{Un destacamento del ej√©rcito del Maestro.}
 {6654}{}{Algunos cazarrecompensas.}
 {6655}{}{Algunos cazarrecompensas.}
 {6656}{}{Algunos cazarrecompensas.}
@@ -1855,23 +1855,23 @@
 {6661}{}{Algunos cazarrecompensas.}
 {6662}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {6663}{}{Una banda de merodeadores.}
-{6664}{}{Algunos rangers defendiÈndose de una escuadra del ejÈrcito del Maestro.}
+{6664}{}{Algunos rangers defendi√©ndose de una escuadra del ej√©rcito del Maestro.}
 {6665}{}{Algunos rangers luchando contra algunos merodeadores.}
-{6666}{}{Algunos granjeros defendiÈndose de partes del ejÈrcito del Maestro.}
-{6667}{}{Algunos granjeros defendiÈndose de merodeadores.}
+{6666}{}{Algunos granjeros defendi√©ndose de partes del ej√©rcito del Maestro.}
+{6667}{}{Algunos granjeros defendi√©ndose de merodeadores.}
 {6668}{}{Un destacamento de rangers de la RNC.}
 {6669}{}{Algunos granjeros.}
 {6670}{}{Los restos de una ballena.}
 {6671}{}{Una cabeza de piedra gigante.}
 {6672}{}{Trasbordador accidentado.}
-{6673}{}{El Guardi·n del Portal.}
+{6673}{}{El Guardi√°n del Portal.}
 {6674}{}{Caballeros del Rey Arturo.}
 {6675}{}{El Hombre de Hojalata.}
 {6676}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6677}{}{El CafÈ de los SueÒos Rotos.}
+{6677}{}{El Caf√© de los Sue√±os Rotos.}
 {6678}{}{Una banda de merodeadores furiosos.}
-{6700}{}{Restos del ejÈrcito del Maestro luchando contra ratas topo mutadas.}
-{6701}{}{Restos del ejÈrcito del Maestro.}
+{6700}{}{Restos del ej√©rcito del Maestro luchando contra ratas topo mutadas.}
+{6701}{}{Restos del ej√©rcito del Maestro.}
 {6702}{}{Un enjambre de mantis.}
 {6703}{}{Un grupo de ratas topo mutadas.}
 {6704}{}{Algunos cazarrecompensas.}
@@ -1886,10 +1886,10 @@
 {6713}{}{Un grupo de escorpiones rad.}
 {6714}{}{Un hombre guardando un puente.}
 {6715}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{6750}{}{MontÛn de basura tÛxica.}
+{6750}{}{Mont√≥n de basura t√≥xica.}
 {6751}{}{Un solitario perro superviviente.}
-{6752}{}{Un rebaÒo de brahmines.}
-{6753}{}{Restos del ejÈrcito del Maestro luchando contra ratas topo mutadas.}
+{6752}{}{Un reba√±o de brahmines.}
+{6753}{}{Restos del ej√©rcito del Maestro luchando contra ratas topo mutadas.}
 {6754}{}{Algunos cazarrecompensas.}
 {6755}{}{Algunos cazarrecompensas.}
 {6756}{}{Algunos cazarrecompensas.}
@@ -1899,15 +1899,15 @@
 {6760}{}{Algunos cazarrecompensas.}
 {6761}{}{Algunos cazarrecompensas.}
 {6762}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{6763}{}{Restos del ejÈrcito del Maestro.}
+{6763}{}{Restos del ej√©rcito del Maestro.}
 {6764}{}{Un enjambre de mantis.}
 {6765}{}{Un grupo de ratas topo mutadas.}
 {6766}{}{Un grupo de escorpiones rad.}
 {6767}{}{Los restos de una ballena.}
 {6768}{}{Una cabeza de piedra gigante.}
 {6769}{}{Trasbordador accidentado.}
-{6770}{}{El Guardi·n del Portal.}
+{6770}{}{El Guardi√°n del Portal.}
 {6771}{}{Caballeros del Rey Arturo.}
 {6772}{}{El Hombre de Hojalata.}
 {6773}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{6774}{}{El CafÈ de los SueÒos Rotos.}
+{6774}{}{El Caf√© de los Sue√±os Rotos.}

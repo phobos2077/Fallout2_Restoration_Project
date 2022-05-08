@@ -1,13 +1,13 @@
-{100}{}{Por éstos nos darán un buen precio en el mercado.}
-{101}{}{Intenta no dañar la mercancía.}
+{100}{}{Por Ã©stos nos darÃ¡n un buen precio en el mercado.}
+{101}{}{Intenta no daÃ±ar la mercancÃ­a.}
 {102}{}{Vas a ser un esclavo brioso.}
 {103}{}{Esto no es bueno.}
-{104}{}{¡Retirada!}
-{105}{}{Quizás en vez de esto venda muebles.}
-{106}{}{Los esclavos no debéis atacaros los unos a los otros.}
-{107}{}{¡El gremio se enterará de esto!}
-{108}{}{¿Qué estás haciendo?}
-{109}{}{¿Ha habido suerte?}
-{110}{}{¿Has encontrado buenos esclavos?}
+{104}{}{Â¡Retirada!}
+{105}{}{QuizÃ¡s en vez de esto venda muebles.}
+{106}{}{Los esclavos no debÃ©is atacaros los unos a los otros.}
+{107}{}{Â¡El gremio se enterarÃ¡ de esto!}
+{108}{}{Â¿QuÃ© estÃ¡s haciendo?}
+{109}{}{Â¿Ha habido suerte?}
+{110}{}{Â¿Has encontrado buenos esclavos?}
 {111}{}{Estamos buscando nuevas existencias.}
 {112}{}{Este es nuestro territorio.}

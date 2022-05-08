@@ -35,7 +35,7 @@
 {214}{}{Io? Io sono }
 {215}{}{. Sono una guardia delle carovane di Bill. Altro?}
 {216}{}{Che tipo di persona e'? Beh... e' amichevole, ma ruvido. E' un buon capo ed e' solito essere giusto con noi. Non ci tratta male, se e' questo che vuoi sapere. Altre domande?}
-{217}{}{Beh, e' un po' ambiguo, credo… tuttavia, la maggior parte delle persone sono cosi', di questi tempi. Altre domande?}
+{217}{}{Beh, e' un po' ambiguo, credoâ€¦ tuttavia, la maggior parte delle persone sono cosi', di questi tempi. Altre domande?}
 {218}{}{Beh, io penso che si sia portato dietro il denaro quando e' arrivato qui -- un sacco di denaro, se e' per quello. Non e' il genere di cose che si chiedono alla gente, comunque. Altre domande?}
 {219}{}{Non ho idea di quale sia la sua storia. Voglio dire, quasi tutti noi guardiani di carovane siamo degli sbandati che sono arrivati qui in cerca di un lavoro. Immagino sia uno dei tanti costretti ad abbandonare in fretta un posto. Altre domande?}
 {220}{}{Si'.}

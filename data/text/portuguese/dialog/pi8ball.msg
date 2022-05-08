@@ -2,7 +2,7 @@
 {200}{}{Outlook good.}
 {201}{}{Outlook not so good.}
 {202}{}{My reply is no.}
-{203}{}{Não conte com isso.}
+{203}{}{NÃ£o conte com isso.}
 {204}{}{You may rely on it.}
 {205}{}{Ask again later.}
 {206}{}{Most likely.}

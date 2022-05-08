@@ -1,2 +1,2 @@
-{100}{}{Has usado el Reforzador de Lenguaje para PipBoy. Una avalancha ling¸Ìstica inunda tu mente.}
-{200}{}{Te lo juro. Una incalculable cornucopia de conocimiento ling¸Ìstico ha impregnado mi cr·neo.}
+{100}{}{Has usado el Reforzador de Lenguaje para PipBoy. Una avalancha ling√º√≠stica inunda tu mente.}
+{200}{}{Te lo juro. Una incalculable cornucopia de conocimiento ling√º√≠stico ha impregnado mi cr√°neo.}

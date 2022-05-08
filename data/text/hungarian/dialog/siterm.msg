@@ -1,8 +1,8 @@
-{100}{}{Egy terminál.}
-{101}{}{Ez egy számítógép-terminál, melyet gyakran más objektumok irányítására használnak.}
-{200}{}{Vélhet?leg ez a terminál vezérli az ajtókat ebben a cellablokkban.}
-{201}{}{Hibás kódsorozat.}
-{202}{}{Ajtók kinyitva.}
-{203}{}{Ajtók bezárva.}
-{204}{}{Érdekes elgondolás, de sajnos nem vált be.}
-{205}{}{Hmmm, nagyon bonyolultak ezek a számítógépes cuccok.}
+{100}{}{Egy terminÃ¡l.}
+{101}{}{Ez egy szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l, melyet gyakran mÃ¡s objektumok irÃ¡nyÃ­tÃ¡sÃ¡ra hasznÃ¡lnak.}
+{200}{}{VÃ©lhet?leg ez a terminÃ¡l vezÃ©rli az ajtÃ³kat ebben a cellablokkban.}
+{201}{}{HibÃ¡s kÃ³dsorozat.}
+{202}{}{AjtÃ³k kinyitva.}
+{203}{}{AjtÃ³k bezÃ¡rva.}
+{204}{}{Ã‰rdekes elgondolÃ¡s, de sajnos nem vÃ¡lt be.}
+{205}{}{Hmmm, nagyon bonyolultak ezek a szÃ¡mÃ­tÃ³gÃ©pes cuccok.}

@@ -1,8 +1,8 @@
 {100}{}{Widzisz wojownika.}
-{101}{}{Widzisz wojownika o wygl¹dzie nieustraszonego. Toczy pianê z ust.}
+{101}{}{Widzisz wojownika o wyglÄ…dzie nieustraszonego. Toczy pianÄ™ z ust.}
 {102}{}{Jeden z osobistych ochroniarzy Doktora.}
-{103}{}{Zabijemy ciê!}
+{103}{}{Zabijemy ciÄ™!}
 {104}{}{Zostaw Doktora w spokoju!}
-{105}{}{Nienawidzê Doktora!}
-{106}{}{Chroniæ Doktora!!!}
-{107}{}{Nie rozmawiam z tob¹.}
+{105}{}{NienawidzÄ™ Doktora!}
+{106}{}{ChroniÄ‡ Doktora!!!}
+{107}{}{Nie rozmawiam z tobÄ….}

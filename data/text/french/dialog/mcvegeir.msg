@@ -1,68 +1,68 @@
 {100}{}{Tu vois le chef des Slags.}
 {101}{}{Tu vois Vegeir.}
-{102}{}{Un grand homme à l'allure imposante. Ses mouvements te font penser à un chat à l'affût.}
-{150}{}{Tu peux partir par la trappe située à l'arrière de ce bâtiment.}
-{151}{}{Merci de porter ce message à Modoc.}
+{102}{}{Un grand homme Ã  l'allure imposante. Ses mouvements te font penser Ã  un chat Ã  l'affÃ»t.}
+{150}{}{Tu peux partir par la trappe situÃ©e Ã  l'arriÃ¨re de ce bÃ¢timent.}
+{151}{}{Merci de porter ce message Ã  Modoc.}
 {152}{}{Modoc est au Sud d'ici.}
 {153}{}{Sud.}
 {154}{}{Non, l'autre Sud.}
-{155}{}{Un visiteur, ça tombe à pic. Je cherchais justement un moyen de contacter les gens de la surface. Mais depuis ton arrivée, je n'ai plus de soucis à me faire. Bienvenue chez les Slags !}
-{156}{}{Je suis content de te revoir. Je pense que tu as porté notre message à Modoc. Comment a-t-il été reçu ?}
-{157}{}{Ils ont besoin de temps pour y réfléchir.}
-{158}{}{Ils ont émis certaines réserves.}
+{155}{}{Un visiteur, Ã§a tombe Ã  pic. Je cherchais justement un moyen de contacter les gens de la surface. Mais depuis ton arrivÃ©e, je n'ai plus de soucis Ã  me faire. Bienvenue chez les Slags !}
+{156}{}{Je suis content de te revoir. Je pense que tu as portÃ© notre message Ã  Modoc. Comment a-t-il Ã©tÃ© reÃ§u ?}
+{157}{}{Ils ont besoin de temps pour y rÃ©flÃ©chir.}
+{158}{}{Ils ont Ã©mis certaines rÃ©serves.}
 {159}{}{Je veux emmener Jonny chez ses parents.}
-{160}{}{As-tu réfléchi à notre demande d'aide ?}
+{160}{}{As-tu rÃ©flÃ©chi Ã  notre demande d'aide ?}
 {161}{}{J'ai besoin de te poser quelques questions d'abord.}
-{162}{}{La réponse est toujours non.}
-{163}{}{J'ai décidé de vous aider.}
-{165}{}{Merci de nous avoir aidés. Désormais, tu seras toujours bien reçu ici. Pour récompenser tes services, je te donne ceci. [Vegeir t'offre un fusil d'assaut.]}
-{166}{}{Merci de nous avoir aidés. Désormais, tu seras toujours bien reçu ici.}
-{167}{}{Acceptes-tu que j'emmène Jonny chez ses parents ?}
-{168}{}{Laisse-moi te présenter nos excuses pour les circonstances désagréables de notre rencontre. En temps normal, les Protecteurs auraient essayé de te faire fuir. Des bruits de chaînes et des plaintes sourdes suffisent à éloigner les gens. Mais depuis quelque temps, ils ont ordre de me ramener tous les gens de la surface qu'ils trouvent.}
+{162}{}{La rÃ©ponse est toujours non.}
+{163}{}{J'ai dÃ©cidÃ© de vous aider.}
+{165}{}{Merci de nous avoir aidÃ©s. DÃ©sormais, tu seras toujours bien reÃ§u ici. Pour rÃ©compenser tes services, je te donne ceci. [Vegeir t'offre un fusil d'assaut.]}
+{166}{}{Merci de nous avoir aidÃ©s. DÃ©sormais, tu seras toujours bien reÃ§u ici.}
+{167}{}{Acceptes-tu que j'emmÃ¨ne Jonny chez ses parents ?}
+{168}{}{Laisse-moi te prÃ©senter nos excuses pour les circonstances dÃ©sagrÃ©ables de notre rencontre. En temps normal, les Protecteurs auraient essayÃ© de te faire fuir. Des bruits de chaÃ®nes et des plaintes sourdes suffisent Ã  Ã©loigner les gens. Mais depuis quelque temps, ils ont ordre de me ramener tous les gens de la surface qu'ils trouvent.}
 {169}{}{Ok, je vais partir maintenant.}
 {170}{}{Que veux-tu de moi ?}
-{171}{}{Fantômes ?}
-{172}{}{Tu partiras SI je le désire et QUAND je le déciderai. Pas avant.}
+{171}{}{FantÃ´mes ?}
+{172}{}{Tu partiras SI je le dÃ©sire et QUAND je le dÃ©ciderai. Pas avant.}
 {173}{}{Une petite faveur. Nous avons besoin de contacter les habitants d'une ville au Sud-Ouest d'ici. Je crois qu'elle s'appelle Modoc. Pourrais-tu nous rendre ce service ?}
-{174}{}{Que me proposez-vous-en échange ?}
-{175}{}{J'ai beaucoup de questions à poser avant de pouvoir accepter cette mission.}
-{176}{}{C'est juste. Je ne pouvais pas m'attendre à ce que quelqu'un puisse accepter d'aider des étrangers sans vouloir mieux les connaître. Pose tes questions et je te répondrai de mon mieux.}
+{174}{}{Que me proposez-vous-en Ã©change ?}
+{175}{}{J'ai beaucoup de questions Ã  poser avant de pouvoir accepter cette mission.}
+{176}{}{C'est juste. Je ne pouvais pas m'attendre Ã  ce que quelqu'un puisse accepter d'aider des Ã©trangers sans vouloir mieux les connaÃ®tre. Pose tes questions et je te rÃ©pondrai de mon mieux.}
 {177}{}{Pourquoi n'envoyez-vous pas quelqu'un de chez vous pour porter ce message ?}
 {178}{}{Parle-moi des Slags.}
-{179}{}{Quelles sont tes défenses ?}
-{180}{}{Cela me suffit. Je peux te donner ma réponse.}
+{179}{}{Quelles sont tes dÃ©fenses ?}
+{180}{}{Cela me suffit. Je peux te donner ma rÃ©ponse.}
 {181}{}{Pose tes questions.}
-{190}{}{Pourquoi êtes-vous revenus à la surface ?}
-{191}{}{A quoi bon ce cirque macabre des fantômes à la surface ?}
+{190}{}{Pourquoi Ãªtes-vous revenus Ã  la surface ?}
+{191}{}{A quoi bon ce cirque macabre des fantÃ´mes Ã  la surface ?}
 {192}{}{Quel est le but de votre message ?}
-{194}{}{Depuis l'Enfermement, notre peuple a changé. Bien peu d'entre nous peuvent supporter de rester à la surface. Nous avons perdu l'habitude d'avoir une mer de vide au-dessus de nos têtes. La sensation de tomber vers le haut est si grande qu'on se plaque au sol et on se cramponne à tout ce qu'on peut. Mais ce n'est pas la raison principale. Aucun d'entre nous ne peut supporter la lumière vive de ce que vous appelez le soleil. Vivant sous terre depuis si longtemps, nos yeux sont devenus très sensibles à la lumière. Nous ne pouvons nous éloigner très loin de nos maisons souterraines.}
+{194}{}{Depuis l'Enfermement, notre peuple a changÃ©. Bien peu d'entre nous peuvent supporter de rester Ã  la surface. Nous avons perdu l'habitude d'avoir une mer de vide au-dessus de nos tÃªtes. La sensation de tomber vers le haut est si grande qu'on se plaque au sol et on se cramponne Ã  tout ce qu'on peut. Mais ce n'est pas la raison principale. Aucun d'entre nous ne peut supporter la lumiÃ¨re vive de ce que vous appelez le soleil. Vivant sous terre depuis si longtemps, nos yeux sont devenus trÃ¨s sensibles Ã  la lumiÃ¨re. Nous ne pouvons nous Ã©loigner trÃ¨s loin de nos maisons souterraines.}
 {195}{}{Puis-je te poser encore quelques questions ?}
-{197}{}{Il y a bien longtemps, nous étions comme les gens de la surface. Nous aussi nous habitions à l'air libre jusqu'à que ce que le monde du dessus prenne feu. Nos ancêtres qui faisaient partie d'une milice secrète se sont enfermés ici avec leur famille afin de se protéger. Et pendant des générations, nous sommes restés ici, en sécurité, dans les entrailles de la Terre maternelle.}
-{200}{}{Notre population s'est multipliée depuis l'Enfermement. Nous avons vite compris que nous ne pourrions plus survivre ici sans d'autres sources d'approvisionnement. Nous avons brisé le sceau et nous avons à nouveau recherché de quoi survivre à la surface.}
-{203}{}{Il y a plusieurs années quelqu'un a essayé de s'emparer de notre ferme. Il ramassait nos récoltes et volait notre bétail. Nous ne sommes pas des gens violents par nature, mais nous devions réagir. Notre survie dépend de nos récoltes. Nous avons alors eu l'idée des fantômes. En nous couvrant de champignons fluorescents, nous avons pu effrayer et faire fuir cette personne et tous les autres voisins trop curieux. Malheureusement, cela a été trop efficace. Récemment, nous avons essayé de contacter les gens de la surface, mais plus personne ne vient à la ferme par peur des fantômes. Cependant, par chance, tu es arrivé.}
-{206}{}{Ca suffit ! Plus de questions ! Prends ta décision maintenant !}
+{197}{}{Il y a bien longtemps, nous Ã©tions comme les gens de la surface. Nous aussi nous habitions Ã  l'air libre jusqu'Ã  que ce que le monde du dessus prenne feu. Nos ancÃªtres qui faisaient partie d'une milice secrÃ¨te se sont enfermÃ©s ici avec leur famille afin de se protÃ©ger. Et pendant des gÃ©nÃ©rations, nous sommes restÃ©s ici, en sÃ©curitÃ©, dans les entrailles de la Terre maternelle.}
+{200}{}{Notre population s'est multipliÃ©e depuis l'Enfermement. Nous avons vite compris que nous ne pourrions plus survivre ici sans d'autres sources d'approvisionnement. Nous avons brisÃ© le sceau et nous avons Ã  nouveau recherchÃ© de quoi survivre Ã  la surface.}
+{203}{}{Il y a plusieurs annÃ©es quelqu'un a essayÃ© de s'emparer de notre ferme. Il ramassait nos rÃ©coltes et volait notre bÃ©tail. Nous ne sommes pas des gens violents par nature, mais nous devions rÃ©agir. Notre survie dÃ©pend de nos rÃ©coltes. Nous avons alors eu l'idÃ©e des fantÃ´mes. En nous couvrant de champignons fluorescents, nous avons pu effrayer et faire fuir cette personne et tous les autres voisins trop curieux. Malheureusement, cela a Ã©tÃ© trop efficace. RÃ©cemment, nous avons essayÃ© de contacter les gens de la surface, mais plus personne ne vient Ã  la ferme par peur des fantÃ´mes. Cependant, par chance, tu es arrivÃ©.}
+{206}{}{Ca suffit ! Plus de questions ! Prends ta dÃ©cision maintenant !}
 {207}{}{Je m'excuse mais je ne peux pas vous aider.}
-{208}{}{Oui, j'accepte avec joie de porter votre message à Modoc.}
-{209}{}{Je suis navré. Considère-toi comme un invité des Slags. Lorsque nous aurons enfin établi le contact avec les gens de la surface, tu seras autorisé à partir. En attendant, n'essaie pas de sortir des grottes, les conséquences en seraient très désagréables.}
-{210}{}{Depuis que nous avons terminé nos nouveaux systèmes d'irrigation, notre production de nourriture dépasse de loin nos besoins. Nous voulons faire du commerce avec les gens de la surface et échanger notre surplus contre des médicaments indispensables.}
+{208}{}{Oui, j'accepte avec joie de porter votre message Ã  Modoc.}
+{209}{}{Je suis navrÃ©. ConsidÃ¨re-toi comme un invitÃ© des Slags. Lorsque nous aurons enfin Ã©tabli le contact avec les gens de la surface, tu seras autorisÃ© Ã  partir. En attendant, n'essaie pas de sortir des grottes, les consÃ©quences en seraient trÃ¨s dÃ©sagrÃ©ables.}
+{210}{}{Depuis que nous avons terminÃ© nos nouveaux systÃ¨mes d'irrigation, notre production de nourriture dÃ©passe de loin nos besoins. Nous voulons faire du commerce avec les gens de la surface et Ã©changer notre surplus contre des mÃ©dicaments indispensables.}
 {213}{}{Eclaire-nous de ta sagesse.}
-{216}{}{Je savais que tu comprendrais. Voici un message qui présente notre requête. Merci de le porter à Modoc. Donne-le à la personne responsable de la ville. Reviens ici lorsque tu auras accompli ta mission. Je dirai aux Protecteurs d'attendre ton retour. Nous te remercions tous du service que tu nous rends.}
-{217}{}{Ca, c'est typique des gens de la surface. Ils ne font jamais rien pour les autres s'il n'y a pas un avantage personnel à la clé. Nous ne pouvons évidemment pas faire confiance à des gens comme toi. Nous trouverons quelqu'un d'autre pour porter notre message. Nous ne sommes pas violents, mais n'essaie pas de sortir des grottes ou tu le regretteras.}
-{218}{}{Hmm... Je comprends. Une telle décision ne peut pas être prise à la légère. Tiens-moi informé des résultats.}
-{219}{}{Alors ne me dérange plus.}
+{216}{}{Je savais que tu comprendrais. Voici un message qui prÃ©sente notre requÃªte. Merci de le porter Ã  Modoc. Donne-le Ã  la personne responsable de la ville. Reviens ici lorsque tu auras accompli ta mission. Je dirai aux Protecteurs d'attendre ton retour. Nous te remercions tous du service que tu nous rends.}
+{217}{}{Ca, c'est typique des gens de la surface. Ils ne font jamais rien pour les autres s'il n'y a pas un avantage personnel Ã  la clÃ©. Nous ne pouvons Ã©videmment pas faire confiance Ã  des gens comme toi. Nous trouverons quelqu'un d'autre pour porter notre message. Nous ne sommes pas violents, mais n'essaie pas de sortir des grottes ou tu le regretteras.}
+{218}{}{Hmm... Je comprends. Une telle dÃ©cision ne peut pas Ãªtre prise Ã  la lÃ©gÃ¨re. Tiens-moi informÃ© des rÃ©sultats.}
+{219}{}{Alors ne me dÃ©range plus.}
 {220}{}{A propos de quoi ?}
-{221}{}{Ils ne vous font pas confiance. Après tout, vous avez tué des passants et vous en avez exposé les cadavres devant votre ferme.}
-{222}{}{Ils veulent savoir ce qui est arrivé au fermier qui vivait ici.}
-{223}{}{Nous sommes des gens pacifiques et nous n'avons tué personne. Ces cadavres ne sont que des mannequins que nous avons fabriqués pour faire peur à ceux qui essaient de nous voler. En examinant les cadavres, tu verras que ce sont seulement des mannequins couverts d'intestins de Brahmine.}
+{221}{}{Ils ne vous font pas confiance. AprÃ¨s tout, vous avez tuÃ© des passants et vous en avez exposÃ© les cadavres devant votre ferme.}
+{222}{}{Ils veulent savoir ce qui est arrivÃ© au fermier qui vivait ici.}
+{223}{}{Nous sommes des gens pacifiques et nous n'avons tuÃ© personne. Ces cadavres ne sont que des mannequins que nous avons fabriquÃ©s pour faire peur Ã  ceux qui essaient de nous voler. En examinant les cadavres, tu verras que ce sont seulement des mannequins couverts d'intestins de Brahmine.}
 {224}{}{Et le pauvre Karl ? Tu sais, le fermier qui vivait dans votre ferme.}
-{225}{}{Karl, c'était son nom ? Nous lui avons fait peur et il a fui. C'est tout. Je suppose qu'il est retourné chez lui lorsqu'il a découvert que la ferme était hantée. Les Protecteurs ont signalé qu'il était parti vers l'Ouest. Tu pourrais essayer de le chercher dans cette direction.}
-{226}{}{Je te tiendrai informé.}
-{227}{}{Nous lui avons fait peur et il a fui. C'est tout. Je suppose qu'il est retourné chez lui lorsqu'il a découvert que la ferme était hantée. Les Protecteurs ont signalé qu'il était parti vers l'Ouest. Tu pourrais essayer de le chercher dans cette direction.}
-{231}{}{Je vois que tu as rencontré Jonny. Nous l'avons trouvé égaré dans l'obscurité d'un de nos tunnels les plus profonds. Il a dit qu'il était tombé dans un puits asséché proche de sa maison et qu'il s'était retrouvé coincé par un éboulement dans un tunnel. Nous l'avons soigné comme l'un des nôtres et tout le monde l'aime ici. Tu comprendras donc aisément que je sois peu enclin de le confier à un inconnu qui ne m'a pas encore prouvé qu'il méritait ma confiance. Je rendrai Jonny lorsque je serai certain que tu le ramèneras chez lui en toute sécurité.}
-{232}{}{Tu as prouvé que tu es digne de confiance, sans l'ombre d'un doute. Malgré le fait que nous allons regretter Jonny, j'ai déjà arrangé une escorte pour vous ramener à Modoc, Jonny et toi.}
-{233}{}{Eh ben ! Je ne suis pas surpris que tu n'aies pas eu peur de nos petites astuces. Tu es trop stupide pour avoir peur. Je n'aime pas être obligé de dépendre d'un handicapé mental, mais nous avons besoin de tes services. Porte ce message à Modoc. Donne-le au chef de Modoc et essaie de ne pas te perdre.}
+{225}{}{Karl, c'Ã©tait son nom ? Nous lui avons fait peur et il a fui. C'est tout. Je suppose qu'il est retournÃ© chez lui lorsqu'il a dÃ©couvert que la ferme Ã©tait hantÃ©e. Les Protecteurs ont signalÃ© qu'il Ã©tait parti vers l'Ouest. Tu pourrais essayer de le chercher dans cette direction.}
+{226}{}{Je te tiendrai informÃ©.}
+{227}{}{Nous lui avons fait peur et il a fui. C'est tout. Je suppose qu'il est retournÃ© chez lui lorsqu'il a dÃ©couvert que la ferme Ã©tait hantÃ©e. Les Protecteurs ont signalÃ© qu'il Ã©tait parti vers l'Ouest. Tu pourrais essayer de le chercher dans cette direction.}
+{231}{}{Je vois que tu as rencontrÃ© Jonny. Nous l'avons trouvÃ© Ã©garÃ© dans l'obscuritÃ© d'un de nos tunnels les plus profonds. Il a dit qu'il Ã©tait tombÃ© dans un puits assÃ©chÃ© proche de sa maison et qu'il s'Ã©tait retrouvÃ© coincÃ© par un Ã©boulement dans un tunnel. Nous l'avons soignÃ© comme l'un des nÃ´tres et tout le monde l'aime ici. Tu comprendras donc aisÃ©ment que je sois peu enclin de le confier Ã  un inconnu qui ne m'a pas encore prouvÃ© qu'il mÃ©ritait ma confiance. Je rendrai Jonny lorsque je serai certain que tu le ramÃ¨neras chez lui en toute sÃ©curitÃ©.}
+{232}{}{Tu as prouvÃ© que tu es digne de confiance, sans l'ombre d'un doute. MalgrÃ© le fait que nous allons regretter Jonny, j'ai dÃ©jÃ  arrangÃ© une escorte pour vous ramener Ã  Modoc, Jonny et toi.}
+{233}{}{Eh ben ! Je ne suis pas surpris que tu n'aies pas eu peur de nos petites astuces. Tu es trop stupide pour avoir peur. Je n'aime pas Ãªtre obligÃ© de dÃ©pendre d'un handicapÃ© mental, mais nous avons besoin de tes services. Porte ce message Ã  Modoc. Donne-le au chef de Modoc et essaie de ne pas te perdre.}
 {300}{}{Je vais partir maintenant.}
 {301}{}{Que veux-tu de moi ?}
 {302}{}{Salut.}
-{303}{}{Fantômes ?}
-{400}{}{Message bien reçu. La ville de Modoc veut nouer des relations commerciales avec votre peuple.}
+{303}{}{FantÃ´mes ?}
+{400}{}{Message bien reÃ§u. La ville de Modoc veut nouer des relations commerciales avec votre peuple.}

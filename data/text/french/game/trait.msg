@@ -1,5 +1,5 @@
-{100}{}{Métabofast}
-{101}{}{La Châtaigne}
+{100}{}{MÃ©tabofast}
+{101}{}{La ChÃ¢taigne}
 {102}{}{Gringalet}
 {103}{}{Main-d'Or}
 {104}{}{Finesse}
@@ -9,24 +9,24 @@
 {108}{}{Brute}
 {109}{}{La-Poisse}
 {110}{}{Bon Vivant}
-{111}{}{Dépendance}
-{112}{}{Dur-à-cuire}
+{111}{}{DÃ©pendance}
+{112}{}{Dur-Ã -cuire}
 {113}{}{Sex Appeal}
-{114}{}{Compétence}
+{114}{}{CompÃ©tence}
 {115}{}{Talent}
-{200}{}{Ton métabolisme est deux fois plus rapide que la normale. Cela se traduit par un affaiblissement de ta résistance aux radiations et au poison mais tu guéris plus rapidement.}
-{201}{}{Un peu de lenteur mais une carrure imposante. Tu ne frappes pas si souvent mais à chaque fois, on le sent passer ! Le total de tes points d'action s'en trouve diminué mais ton niveau de force est accru.}
-{202}{}{D'une taille certes plus modeste que les autres villageois, rien ne peut pourtant te freiner. Bien sûr, impossible de supporter de lourdes charges mais question d'agilité, tu n'as pas ton pareil.}
-{203}{}{On ne peut pas dire que tu sois ambidextre. Les armes maniées d'une seule main, c'est ton rayon. Pour les autres, tu as un léger problème !}
-{204}{}{Tes attaques sont portées avec finesse. Tu ne causes pas de gros dégâts mais les coups que tu portes sont souvent critiques.}
-{205}{}{En ne prêtant pas attention aux menaces, tu peux agir beaucoup plus rapidement en combat. Cela réduit ta Classe d'armure à ce que tu portes, mais ton tour arrive plus rapidement en combat.}
-{206}{}{Tu cognes plus fort, pas forcément mieux. Tes attaques sont brutales mais manquent de finesse. En Rixe, les coups que tu portes sont moins souvent critiques, mais tu infliges plus de dégâts.}
-{207}{}{Tu n'as pas le temps de viser pour une attaque ciblée parce que tu attaques plus vite que les gens normaux. Cela te coûte un point d'action de moins pour utiliser les armes à feu et les armes de jet.}
-{208}{}{Etrangement, les gens autour de toi meurent de façons très violentes. Tu vois toujours les gens mourir de la pire des façons possible.}
-{209}{}{La bonne nouvelle, c'est que tes adversaires ont peu de chance de s'en sortir vivants. La mauvaise, c'est que c'est le même tarif pour toi ! Chaque échec au combat a une chance importante d'être "amélioré" en échec "Critique".}
-{210}{}{Plus jeune, tu as beaucoup étudié. Pas forcément les techniques de combat. Tu débutes donc avec une capacité à combattre plus faible mais tes compétences Secourisme, Médecin, Discours et Troc sont renforcées.}
-{211}{}{Tu succombes rapidement aux charmes des stimulants. Tu as deux fois plus de chance de devenir dépendant que la normale mais tu te remets plus rapidement des effets secondaires.}
-{212}{}{Sur toi, les effets des stimulants durent deux fois moins longtemps que la normale mais tu as également deux fois moins de chance de devenir dépendant.}
-{213}{}{Tu as tout pour séduire. Les membres du sexe opposé te trouvent irrésistible. Attention toutefois à la jalousie de tes pairs...}
-{214}{}{Grâce au temps que tu as passé à affiner tes compétences, tu gagnes 5 points de compétence en plus par niveau. Mais tu t'améliores moins vite. Tu gagneras une nouvelle aptitude tous les 4 niveaux au lieu de 3.}
-{215}{}{Chez toi, tout est inné. Pas besoin d'affiner tes compétences. Tes statistiques de base sont toutes augmentées d'un point mais tu perds 10% sur tes compétences de départ et tu reçois 5 points de moins par niveau.}
+{200}{}{Ton mÃ©tabolisme est deux fois plus rapide que la normale. Cela se traduit par un affaiblissement de ta rÃ©sistance aux radiations et au poison mais tu guÃ©ris plus rapidement.}
+{201}{}{Un peu de lenteur mais une carrure imposante. Tu ne frappes pas si souvent mais Ã  chaque fois, on le sent passer ! Le total de tes points d'action s'en trouve diminuÃ© mais ton niveau de force est accru.}
+{202}{}{D'une taille certes plus modeste que les autres villageois, rien ne peut pourtant te freiner. Bien sÃ»r, impossible de supporter de lourdes charges mais question d'agilitÃ©, tu n'as pas ton pareil.}
+{203}{}{On ne peut pas dire que tu sois ambidextre. Les armes maniÃ©es d'une seule main, c'est ton rayon. Pour les autres, tu as un lÃ©ger problÃ¨me !}
+{204}{}{Tes attaques sont portÃ©es avec finesse. Tu ne causes pas de gros dÃ©gÃ¢ts mais les coups que tu portes sont souvent critiques.}
+{205}{}{En ne prÃªtant pas attention aux menaces, tu peux agir beaucoup plus rapidement en combat. Cela rÃ©duit ta Classe d'armure Ã  ce que tu portes, mais ton tour arrive plus rapidement en combat.}
+{206}{}{Tu cognes plus fort, pas forcÃ©ment mieux. Tes attaques sont brutales mais manquent de finesse. En Rixe, les coups que tu portes sont moins souvent critiques, mais tu infliges plus de dÃ©gÃ¢ts.}
+{207}{}{Tu n'as pas le temps de viser pour une attaque ciblÃ©e parce que tu attaques plus vite que les gens normaux. Cela te coÃ»te un point d'action de moins pour utiliser les armes Ã  feu et les armes de jet.}
+{208}{}{Etrangement, les gens autour de toi meurent de faÃ§ons trÃ¨s violentes. Tu vois toujours les gens mourir de la pire des faÃ§ons possible.}
+{209}{}{La bonne nouvelle, c'est que tes adversaires ont peu de chance de s'en sortir vivants. La mauvaise, c'est que c'est le mÃªme tarif pour toi ! Chaque Ã©chec au combat a une chance importante d'Ãªtre "amÃ©liorÃ©" en Ã©chec "Critique".}
+{210}{}{Plus jeune, tu as beaucoup Ã©tudiÃ©. Pas forcÃ©ment les techniques de combat. Tu dÃ©butes donc avec une capacitÃ© Ã  combattre plus faible mais tes compÃ©tences Secourisme, MÃ©decin, Discours et Troc sont renforcÃ©es.}
+{211}{}{Tu succombes rapidement aux charmes des stimulants. Tu as deux fois plus de chance de devenir dÃ©pendant que la normale mais tu te remets plus rapidement des effets secondaires.}
+{212}{}{Sur toi, les effets des stimulants durent deux fois moins longtemps que la normale mais tu as Ã©galement deux fois moins de chance de devenir dÃ©pendant.}
+{213}{}{Tu as tout pour sÃ©duire. Les membres du sexe opposÃ© te trouvent irrÃ©sistible. Attention toutefois Ã  la jalousie de tes pairs...}
+{214}{}{GrÃ¢ce au temps que tu as passÃ© Ã  affiner tes compÃ©tences, tu gagnes 5 points de compÃ©tence en plus par niveau. Mais tu t'amÃ©liores moins vite. Tu gagneras une nouvelle aptitude tous les 4 niveaux au lieu de 3.}
+{215}{}{Chez toi, tout est innÃ©. Pas besoin d'affiner tes compÃ©tences. Tes statistiques de base sont toutes augmentÃ©es d'un point mais tu perds 10% sur tes compÃ©tences de dÃ©part et tu reÃ§ois 5 points de moins par niveau.}

@@ -1,91 +1,91 @@
-{100}{}{Widzisz w³aœcicielkê tego saloonu.}
+{100}{}{Widzisz wÅ‚aÅ›cicielkÄ™ tego saloonu.}
 {101}{}{Widzisz Becky.}
-{150}{}{To chyba w³aœcicielka tego lokalu.}
-{151}{}{To Becky, w³aœcicielka tego lokalu.}
+{150}{}{To chyba wÅ‚aÅ›cicielka tego lokalu.}
+{151}{}{To Becky, wÅ‚aÅ›cicielka tego lokalu.}
 {152}{}{[ROZMAWIAJ]}
-{153}{}{Czo³em, przybyszu, witaj w moim saloonie. Jestem Becky.}
+{153}{}{CzoÅ‚em, przybyszu, witaj w moim saloonie. Jestem Becky.}
 {154}{}{Witaj, jestem }
-{155}{}{ Jest tu coœ do roboty?}
-{156}{}{Czeœæ, jestem }
-{157}{}{. Mogê ciê o coœ zapytaæ?}
+{155}{}{ Jest tu coÅ› do roboty?}
+{156}{}{CzeÅ›Ä‡, jestem }
+{157}{}{. MogÄ™ ciÄ™ o coÅ› zapytaÄ‡?}
 {158}{}{Mama?}
 {159}{}{Mag ga.}
-{160}{}{No ju¿, uciekaj st¹d. Nie potrzebujê tu takich jak ty.}
+{160}{}{No juÅ¼, uciekaj stÄ…d. Nie potrzebujÄ™ tu takich jak ty.}
 {161}{}{Mmmm...}
-{162}{}{Chrzañ siê.}
-{163}{}{Idê sobie.}
-{164}{}{Przepraszam, to nie tak mia³o byæ. Mogê ciê o coœ zapytaæ?}
-{165}{}{Whiskey kosztuje $5 a sto³y do gry s¹ tam. Mi³ej zabawy.}
-{166}{}{Czy mogê o coœ zapytaæ?}
-{167}{}{Whiskey proszê!}
-{168}{}{Hmm, jakie tanie drinki! Poproszê whiskey.}
-{169}{}{Dziêki. Na razie.}
-{170}{}{Krypta 13? Pierwsze s³yszê.}
-{171}{}{Hmm, mogê ciê zapytaæ o coœ innego?}
-{172}{}{Cholera, muszê go odnaleŸæ. ¯egnaj.}
-{173}{}{Co chcesz wiedzieæ?}
-{174}{}{Gdzie tu mo¿na dobrze zjeœæ?}
-{175}{}{Wiesz mo¿e gdzie znajduje siê Krypta 13?}
-{176}{}{Czemu wasze drinki s¹ takie tanie?}
+{162}{}{ChrzaÅ„ siÄ™.}
+{163}{}{IdÄ™ sobie.}
+{164}{}{Przepraszam, to nie tak miaÅ‚o byÄ‡. MogÄ™ ciÄ™ o coÅ› zapytaÄ‡?}
+{165}{}{Whiskey kosztuje $5 a stoÅ‚y do gry sÄ… tam. MiÅ‚ej zabawy.}
+{166}{}{Czy mogÄ™ o coÅ› zapytaÄ‡?}
+{167}{}{Whiskey proszÄ™!}
+{168}{}{Hmm, jakie tanie drinki! PoproszÄ™ whiskey.}
+{169}{}{DziÄ™ki. Na razie.}
+{170}{}{Krypta 13? Pierwsze sÅ‚yszÄ™.}
+{171}{}{Hmm, mogÄ™ ciÄ™ zapytaÄ‡ o coÅ› innego?}
+{172}{}{Cholera, muszÄ™ go odnaleÅºÄ‡. Å»egnaj.}
+{173}{}{Co chcesz wiedzieÄ‡?}
+{174}{}{Gdzie tu moÅ¼na dobrze zjeÅ›Ä‡?}
+{175}{}{Wiesz moÅ¼e gdzie znajduje siÄ™ Krypta 13?}
+{176}{}{Czemu wasze drinki sÄ… takie tanie?}
 {177}{}{Nic takiego. Na razie.}
-{178}{}{Zajrzyj do restauracji Mamuœki na drugim koñcu miasta.}
+{178}{}{Zajrzyj do restauracji MamuÅ›ki na drugim koÅ„cu miasta.}
 {179}{}{Mamusia! Mamusia!}
 {180}{}{Jeszcze jedno pytanie.}
-{181}{}{Dziêki. Na razie.}
-{182}{}{Zje¿d¿aj.}
+{181}{}{DziÄ™ki. Na razie.}
+{182}{}{ZjeÅ¼dÅ¼aj.}
 {183}{}{Gwarr.}
 {184}{}{Sama spadaj.}
-{185}{}{Mogê ci zadaæ jeszcze jedno pytanko?}
+{185}{}{MogÄ™ ci zadaÄ‡ jeszcze jedno pytanko?}
 {186}{}{Bywaj.}
-{187}{}{Whiskey kosztuje $5. P³atne z góry.}
-{188}{}{Hê?}
-{189}{}{Oto pieni¹dze.}
-{190}{}{Chyba siê jeszcze zastanowiê.}
-{191}{}{Trochê cienko u mnie z gotówk¹. Mo¿na na kreskê?}
-{192}{}{Czy mogê o coœ zapytaæ?}
-{193}{}{Muszê ju¿ iœæ.}
-{194}{}{Oto twój drink. Coœ jeszcze?}
+{187}{}{Whiskey kosztuje $5. PÅ‚atne z gÃ³ry.}
+{188}{}{HÄ™?}
+{189}{}{Oto pieniÄ…dze.}
+{190}{}{Chyba siÄ™ jeszcze zastanowiÄ™.}
+{191}{}{TrochÄ™ cienko u mnie z gotÃ³wkÄ…. MoÅ¼na na kreskÄ™?}
+{192}{}{Czy mogÄ™ o coÅ› zapytaÄ‡?}
+{193}{}{MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{194}{}{Oto twÃ³j drink. CoÅ› jeszcze?}
 {195}{}{Pytanko?}
-{196}{}{Tak, mo¿e byœmy tak... ty i ja... we dwoje...}
-{197}{}{¯aden.}
-{198}{}{Hej, masz trochê za ma³o pieniêdzy. A myœla³am, ¿e tamte moczymordy s¹ biedne!}
+{196}{}{Tak, moÅ¼e byÅ›my tak... ty i ja... we dwoje...}
+{197}{}{Å»aden.}
+{198}{}{Hej, masz trochÄ™ za maÅ‚o pieniÄ™dzy. A myÅ›laÅ‚am, Å¼e tamte moczymordy sÄ… biedne!}
 {199}{}{Przykro mi.}
-{200}{}{Hmm, wrócê innym razem.}
-{201}{}{Hmm. Czekaj, muszê znaleŸæ kogoœ do pilnowania baru. Potem pójdziemy na zaplecze i pobawimy siê w G³owicê Nuklearn¹, a jak siê sprawdzisz, to mo¿e nawet w Wielki Wybuch.}
-{202}{}{Œwietnie!}
-{203}{}{Eee... uch... Muszê ju¿ iœæ.}
-{205}{}{By³o OK.}
-{206}{}{Nastêpnym razem zabawimy siê w Badacza Jaskiñ. Ale póki co...}
-{207}{}{Zrobisz coœ dla mnie?}
-{208}{}{Muszê ju¿ iœæ, ale jeszcze tu wrócê.}
-{209}{}{Co mogê dla ciebie zrobiæ, s³onko?}
-{210}{}{Potrzebujê jeszcze trochê mi³oœci.}
-{211}{}{Mam kilka pytañ.}
-{212}{}{Jakim cudem twoje drinki s¹ takie tanie?}
-{213}{}{Mo¿e drinka?}
-{214}{}{Muszê ju¿ lecieæ. Do zobaczenia.}
-{215}{}{Nie teraz. Mo¿e póŸniej. Du¿o póŸniej.}
-{216}{}{Czy mogê o coœ zapytaæ?}
-{217}{}{A wiêc do zobaczenia.}
-{218}{}{Mam w piwnicy aparaturê destylacyjn¹. Sama j¹ zrobi³am. Dziêki temu nie muszê przep³acaæ u tych bandziorów z Nowego Reno.}
-{219}{}{Sprytna dziewczynka! Œwietny pomys³!}
-{220}{}{Hmm, muszê ju¿ iœæ. Zobaczymy siê póŸniej.}
-{221}{}{Co? Dlaczego zniszczy³eœ moj¹ aparaturê? Ty bydlaku!}
-{222}{}{Nic osobistego. Zap³acono mi za to.}
+{200}{}{Hmm, wrÃ³cÄ™ innym razem.}
+{201}{}{Hmm. Czekaj, muszÄ™ znaleÅºÄ‡ kogoÅ› do pilnowania baru. Potem pÃ³jdziemy na zaplecze i pobawimy siÄ™ w GÅ‚owicÄ™ NuklearnÄ…, a jak siÄ™ sprawdzisz, to moÅ¼e nawet w Wielki Wybuch.}
+{202}{}{Åšwietnie!}
+{203}{}{Eee... uch... MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{205}{}{ByÅ‚o OK.}
+{206}{}{NastÄ™pnym razem zabawimy siÄ™ w Badacza JaskiÅ„. Ale pÃ³ki co...}
+{207}{}{Zrobisz coÅ› dla mnie?}
+{208}{}{MuszÄ™ juÅ¼ iÅ›Ä‡, ale jeszcze tu wrÃ³cÄ™.}
+{209}{}{Co mogÄ™ dla ciebie zrobiÄ‡, sÅ‚onko?}
+{210}{}{PotrzebujÄ™ jeszcze trochÄ™ miÅ‚oÅ›ci.}
+{211}{}{Mam kilka pytaÅ„.}
+{212}{}{Jakim cudem twoje drinki sÄ… takie tanie?}
+{213}{}{MoÅ¼e drinka?}
+{214}{}{MuszÄ™ juÅ¼ lecieÄ‡. Do zobaczenia.}
+{215}{}{Nie teraz. MoÅ¼e pÃ³Åºniej. DuÅ¼o pÃ³Åºniej.}
+{216}{}{Czy mogÄ™ o coÅ› zapytaÄ‡?}
+{217}{}{A wiÄ™c do zobaczenia.}
+{218}{}{Mam w piwnicy aparaturÄ™ destylacyjnÄ…. Sama jÄ… zrobiÅ‚am. DziÄ™ki temu nie muszÄ™ przepÅ‚acaÄ‡ u tych bandziorÃ³w z Nowego Reno.}
+{219}{}{Sprytna dziewczynka! Åšwietny pomysÅ‚!}
+{220}{}{Hmm, muszÄ™ juÅ¼ iÅ›Ä‡. Zobaczymy siÄ™ pÃ³Åºniej.}
+{221}{}{Co? Dlaczego zniszczyÅ‚eÅ› mojÄ… aparaturÄ™? Ty bydlaku!}
+{222}{}{Nic osobistego. ZapÅ‚acono mi za to.}
 {223}{}{Przykro mi.}
 {224}{}{Bywaj.}
-{225}{}{Wiesz, ¿e zrobiê nastêpn¹?}
+{225}{}{Wiesz, Å¼e zrobiÄ™ nastÄ™pnÄ…?}
 {226}{}{Wiem.}
 {227}{}{To dobrze.}
 {228}{}{Bywaj.}
-{232}{}{Co? Czemu zniszczy³aœ moj¹ aparaturê? Ty suko!}
-{233}{}{Gdzie jesteœ, skarbie?}
-{234}{}{Idziesz, s³onko?}
+{232}{}{Co? Czemu zniszczyÅ‚aÅ› mojÄ… aparaturÄ™? Ty suko!}
+{233}{}{Gdzie jesteÅ›, skarbie?}
+{234}{}{Idziesz, sÅ‚onko?}
 {235}{}{Czekam.}
 {236}{}{Jestem tutaj, kochasiu.}
-{237}{}{Muszê pilnowaæ baru.}
-{238}{}{ChodŸ za mn¹, ptysiu.}
+{237}{}{MuszÄ™ pilnowaÄ‡ baru.}
+{238}{}{ChodÅº za mnÄ…, ptysiu.}
 {240}{}{Jak ty... to robisz... Uuch...}
-{241}{}{Nie przejmuj siê, rozmiar nie jest najwa¿niejszy.}
-{242}{}{To by³o, ummm, ca³kiem niez³e.}
-{243}{}{Dziêki, skarbie, by³o mi³o.}
+{241}{}{Nie przejmuj siÄ™, rozmiar nie jest najwaÅ¼niejszy.}
+{242}{}{To byÅ‚o, ummm, caÅ‚kiem niezÅ‚e.}
+{243}{}{DziÄ™ki, skarbie, byÅ‚o miÅ‚o.}

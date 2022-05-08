@@ -8,7 +8,7 @@
  Who am *I*? Who are *you*? You look like a heavily armed hobo!}
 {211}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you grinning widely, revealing some oddly sharp front teeth.]
  Who am *I*. Why, I'm only Sgt. Jules, the best-looking soldier on this base, gorgeous!}
-{212}{}{Én }
+{212}{}{Ã‰n }
 {213}{}{. But, what's your name?}
 {214}{}{Don't you get cocky with me. What's with this place anyway?}
 {215}{}{I see. Well, Sgt. Jules, what's going on around here anyway?}
@@ -28,7 +28,7 @@
 {251}{}{You were in the army?}
 {260}{}{Yep. I was the energy weapons expert. Pretty nimble on my feet too. I was only in the army for about a year
  before I was reassigned here. It's a shame I'll never see any of my friends again. I would have liked to have exchanged some goodbyes.}
-{261}{}{Sajnálom.}
+{261}{}{SajnÃ¡lom.}
 {262}{}{I'm sorry for your losses, but you have to move on. Wallowing in your own misery won't get you anywhere.}
 {270}{}{Yeah, ain't we all. What am I gonna to do now though?}
 {271}{}{I guess you're right. What am I going to do now though?}
@@ -36,9 +36,9 @@
 {273}{}{Well, I really must be going. Best of luck to you out there.}
 {280}{}{Hey, why not! I'll show you this Cat still got what it takes.}
 {281}{}{Sounds good. Let's go.}
-{282}{}{Nem probléma.}
+{282}{}{Nem problÃ©ma.}
 {290}{}{Don't you worry about this ol' cat. I'll find my place in this world. Now step aside and let the Cat do his thing.}
-{291}{}{[vége]}
+{291}{}{[vÃ©ge]}
 {300}{}{So, how did you end up in that cryo chamber? And what happened to your teeth?}
 {301}{}{I used to be the guard for one of the genetics labs. They were messing with human and feline DNA.
  Trying to make something with the best of both worlds, I suppose. And that's where yours truly comes in.
@@ -56,11 +56,11 @@
 {311}{}{I might be able to teach you a thing or two about energy weapons and other big weapons. Now you have to remember...}
 {312}{}{[Continue.]}
 {313}{}{There you go. That should help you melt those mutants who get in your way.}
-{314}{}{Köszi.}
+{314}{}{KÃ¶szi.}
 {390}{}{You ready to take me with you?}
-{391}{}{Gyerünk!}
-{392}{}{Nem, még nem.}
-{400}{}{Kérsz valamit?}
+{391}{}{GyerÃ¼nk!}
+{392}{}{Nem, mÃ©g nem.}
+{400}{}{KÃ©rsz valamit?}
 {401}{}{How can the Cat be of service?}
 {402}{}{Igen?}
 {410}{}{Mit akarsz tudni?}
@@ -69,7 +69,7 @@
  I'll pounce on any flat-footed goons before they know what hit them!}
 {421}{}{What's wrong with it?}
 {422}{}{Alright. I have your back.}
-{423}{}{Nekem aztán nyolc...}
+{423}{}{Nekem aztÃ¡n nyolc...}
 {424}{}{I work better solo anyway.}
 {430}{}{I don't have much patience, so hurry back.}
 {431}{}{I'm not a fan of waiting. Don't take too long.}
@@ -109,7 +109,7 @@
 {830}{}{Least I didn't end up like YOU, Marcus!}
 {2900}{}{I need to put on some clothing first. [Looking around, Cat spots a locker, opens it and looks inside.]
  These really aren't my style, but I guess they'll do. [He quickly puts the clothing on.] Alright, I'm good to go.}
-{2901}{}{[vége]}
+{2901}{}{[vÃ©ge]}
 {5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
-{5001}{}{[vége]}
-{5002}{}{Az úristenit!}
+{5001}{}{[vÃ©ge]}
+{5002}{}{Az Ãºristenit!}

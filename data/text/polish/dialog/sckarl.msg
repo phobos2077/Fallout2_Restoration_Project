@@ -1,55 +1,55 @@
-{100}{}{Widzisz m³odego cz³owieka z odznak¹ policji RNK.}
-{101}{}{To Karl, zastêpca szeryfa.}
-{102}{}{Widzisz m³odego cz³owieka, który dopiero co z wyszed³ z lat m³odzieñczych. Wygl¹da na chêtnego do pomocy.}
-{103}{}{Witaj, przybyszu. Jestem Karl, zastêpca szeryfa. Co mogê dla ciebie zrobiæ?}
-{104}{}{Tak, na przyk³ad?}
+{100}{}{Widzisz mÅ‚odego czÅ‚owieka z odznakÄ… policji RNK.}
+{101}{}{To Karl, zastÄ™pca szeryfa.}
+{102}{}{Widzisz mÅ‚odego czÅ‚owieka, ktÃ³ry dopiero co z wyszedÅ‚ z lat mÅ‚odzieÅ„czych. WyglÄ…da na chÄ™tnego do pomocy.}
+{103}{}{Witaj, przybyszu. Jestem Karl, zastÄ™pca szeryfa. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{104}{}{Tak, na przykÅ‚ad?}
 {105}{}{Hm.....}
-{106}{}{Jestem pierwszy raz w RNK. Co mo¿esz mi powiedzieæ o tym mieœcie?}
-{107}{}{Có¿, poszukuje Krypty 13.}
-{108}{}{Przys³a³a mnie tu Prezydent Tandi. Mam porozmawiaæ z jednym z twych wiêŸniów.}
-{109}{}{Nazywam siê}
-{110}{}{Szukam goœcia, który nazywa siê Jack. Niektórzy mówi¹ mu Szurniêty Jack.}
-{111}{}{Gdzie mogê spotkaæ Rogera Westina?}
-{112}{}{Hmm, wczoraj by³a niez³a balanga, co? S³uchaj, tam z ty³u mam otwart¹ celê. Tam mo¿esz siê odrobinkê zdrzemn¹æ.}
-{113}{}{Dobrze ci radzê - wracaj do domu i przeœpij to. Pijañstwo to tutaj powa¿ne wykroczenie.}
-{114}{}{To jest RNK, stolica Republiki Nowej Kalifornii. Liczba mieszkañców wynosi 3000 i ci¹gle roœnie. Zakaz handlu niewolnikami, posiadania narkotyków i uprawiania hazardu. Prezydentem jest pani Tandi, a moim zwierzchnikiem szeryf Dumont. Wystarczy?}
-{115}{}{Có¿, mam inne pytania.}
+{106}{}{Jestem pierwszy raz w RNK. Co moÅ¼esz mi powiedzieÄ‡ o tym mieÅ›cie?}
+{107}{}{CÃ³Å¼, poszukuje Krypty 13.}
+{108}{}{PrzysÅ‚aÅ‚a mnie tu Prezydent Tandi. Mam porozmawiaÄ‡ z jednym z twych wiÄ™ÅºniÃ³w.}
+{109}{}{Nazywam siÄ™}
+{110}{}{Szukam goÅ›cia, ktÃ³ry nazywa siÄ™ Jack. NiektÃ³rzy mÃ³wiÄ… mu SzurniÄ™ty Jack.}
+{111}{}{Gdzie mogÄ™ spotkaÄ‡ Rogera Westina?}
+{112}{}{Hmm, wczoraj byÅ‚a niezÅ‚a balanga, co? SÅ‚uchaj, tam z tyÅ‚u mam otwartÄ… celÄ™. Tam moÅ¼esz siÄ™ odrobinkÄ™ zdrzemnÄ…Ä‡.}
+{113}{}{Dobrze ci radzÄ™ - wracaj do domu i przeÅ›pij to. PijaÅ„stwo to tutaj powaÅ¼ne wykroczenie.}
+{114}{}{To jest RNK, stolica Republiki Nowej Kalifornii. Liczba mieszkaÅ„cÃ³w wynosi 3000 i ciÄ…gle roÅ›nie. Zakaz handlu niewolnikami, posiadania narkotykÃ³w i uprawiania hazardu. Prezydentem jest pani Tandi, a moim zwierzchnikiem szeryf Dumont. Wystarczy?}
+{115}{}{CÃ³Å¼, mam inne pytania.}
 {116}{}{Taa, to wszystko.}
-{117}{}{To tak samo jak ja! Oczywiœcie, kiedy by³em dzieckiem. Powiedz mi, jak go znajdziesz.}
-{118}{}{Có¿, mam inne pytania.}
-{119}{}{Kurde, dziêki.}
-{120}{}{Nazywa siê Oswald. To wszystko, co z niego wyci¹gnêliœmy. Ponoæ jest bezdomnym, z Krypty 15, ale... w¹tpiê. Jest na to odrobinkê za twardy. Wiesz o co mi chodzi?}
+{117}{}{To tak samo jak ja! OczywiÅ›cie, kiedy byÅ‚em dzieckiem. Powiedz mi, jak go znajdziesz.}
+{118}{}{CÃ³Å¼, mam inne pytania.}
+{119}{}{Kurde, dziÄ™ki.}
+{120}{}{Nazywa siÄ™ Oswald. To wszystko, co z niego wyciÄ…gnÄ™liÅ›my. PonoÄ‡ jest bezdomnym, z Krypty 15, ale... wÄ…tpiÄ™. Jest na to odrobinkÄ™ za twardy. Wiesz o co mi chodzi?}
 {121}{}{Twardziel, co?}
-{122}{}{Co macie z nim zamiar zrobiæ?}
-{123}{}{S³uchaj, czy ja o tobie czasem nie s³ysza³em? Ach tak pamiêtam - wiele dobrych rzeczy. Znam tu kilku ludzi, którym przyda³by siê ktoœ taki, jak ty. IdŸ do sklepu samochodowego i zapytaj o Elise. Powiedz jej, ¿e Karl przesy³a pozdrowienia.}
-{124}{}{Praca? Stowarzyszeniu Hodowców Byd³a poszukuje stra¿ników. NajeŸdŸcy ponawiaj¹ swoje ataki na ich transporty byd³a. S³ysza³em te¿, ¿e pani prezydent szuka kogoœ "obdarzonego", jak to okreœla. Pomog³o?}
-{125}{}{Có¿, mam inne pytania.}
-{126}{}{Odrobinê. Dziêki.}
-{127}{}{To jest oficer Jack. Jeden z naszych ludzi. Nie rozmawia³eœ z Mir¹, prawda?}
+{122}{}{Co macie z nim zamiar zrobiÄ‡?}
+{123}{}{SÅ‚uchaj, czy ja o tobie czasem nie sÅ‚yszaÅ‚em? Ach tak pamiÄ™tam - wiele dobrych rzeczy. Znam tu kilku ludzi, ktÃ³rym przydaÅ‚by siÄ™ ktoÅ› taki, jak ty. IdÅº do sklepu samochodowego i zapytaj o Elise. Powiedz jej, Å¼e Karl przesyÅ‚a pozdrowienia.}
+{124}{}{Praca? Stowarzyszeniu HodowcÃ³w BydÅ‚a poszukuje straÅ¼nikÃ³w. NajeÅºdÅºcy ponawiajÄ… swoje ataki na ich transporty bydÅ‚a. SÅ‚yszaÅ‚em teÅ¼, Å¼e pani prezydent szuka kogoÅ› "obdarzonego", jak to okreÅ›la. PomogÅ‚o?}
+{125}{}{CÃ³Å¼, mam inne pytania.}
+{126}{}{OdrobinÄ™. DziÄ™ki.}
+{127}{}{To jest oficer Jack. Jeden z naszych ludzi. Nie rozmawiaÅ‚eÅ› z MirÄ…, prawda?}
 {128}{}{Tak.}
 {129}{}{Kim jest Mira?}
-{130}{}{Ten sukinsyn? Ma ranczo tu¿ za miastem. Po prostu skrêæ w drogê obok Hodowców Byd³a.}
+{130}{}{Ten sukinsyn? Ma ranczo tuÅ¼ za miastem. Po prostu skrÄ™Ä‡ w drogÄ™ obok HodowcÃ³w BydÅ‚a.}
 {131}{}{Za bardzo go nie lubisz.}
-{132}{}{Có¿, mam inne pytania.}
-{133}{}{Dziêkujê.}
-{134}{}{Taa. Ten jest naprawê z³y. Zabi³ dwóch naszych i nic nie powiedzia³.}
-{135}{}{Wpuœæcie mnie do niego. Mo¿e uda mi siê go przekonaæ do powa¿nej rozmowy w cztery oczy.}
-{136}{}{Mogê siê z nim zobaczyæ?}
-{137}{}{Powiesimy drania. Przynajmniej tak¹ mam nadziejê. On i jego kolesie za³atwili dwóch dobrych ludzi. Nie bêdê po nim rozpacza³.}
-{138}{}{Mogê siê z nim zobaczyæ?}
-{139}{}{By³a kiedyœ ¿on¹ Jacka. Mieli naprawdê g³oœny rozwód. Nie wierzy³bym w nic, co powie o Jacku. Dla w³asnego dobra lepiej trzymaj siê od tego wszystkiego z daleka.}
-{140}{}{W porz¹dku, zmieñmy temat.}
-{141}{}{No có¿, dziêki za poradê.}
-{142}{}{On jest jej by³ym, to wszystko. Jeœli tu go nie ma, to jest w elektrowni. Dorabia tam, u Dorotki.}
-{143}{}{Có¿, mam inne pytania.}
-{144}{}{Dziêkujê.}
-{145}{}{Wydaje mi siê, ¿e to oczywiste. Wielu ludzi przychodzi do niego, poniewa¿ jest radnym, ale nie ja. Wydaje mu siê, ¿e jest tu szefem, ¿e jest ponad prawem. Któregoœ dnia chcia³bym mu pokazaæ, ¿e wcale tak nie jest.}
-{146}{}{Zdarza³y siê ju¿ dziwniejsze rzecz. Co mi mo¿esz o nim powiedzieæ?}
-{147}{}{Muszê ju¿ lecieæ. Zaraz za miastem, tak?}
-{148}{}{Nie ma sprawy. Masz piêæ minut. ChodŸ za mn¹.}
+{132}{}{CÃ³Å¼, mam inne pytania.}
+{133}{}{DziÄ™kujÄ™.}
+{134}{}{Taa. Ten jest naprawÄ™ zÅ‚y. ZabiÅ‚ dwÃ³ch naszych i nic nie powiedziaÅ‚.}
+{135}{}{WpuÅ›Ä‡cie mnie do niego. MoÅ¼e uda mi siÄ™ go przekonaÄ‡ do powaÅ¼nej rozmowy w cztery oczy.}
+{136}{}{MogÄ™ siÄ™ z nim zobaczyÄ‡?}
+{137}{}{Powiesimy drania. Przynajmniej takÄ… mam nadziejÄ™. On i jego kolesie zaÅ‚atwili dwÃ³ch dobrych ludzi. Nie bÄ™dÄ™ po nim rozpaczaÅ‚.}
+{138}{}{MogÄ™ siÄ™ z nim zobaczyÄ‡?}
+{139}{}{ByÅ‚a kiedyÅ› Å¼onÄ… Jacka. Mieli naprawdÄ™ gÅ‚oÅ›ny rozwÃ³d. Nie wierzyÅ‚bym w nic, co powie o Jacku. Dla wÅ‚asnego dobra lepiej trzymaj siÄ™ od tego wszystkiego z daleka.}
+{140}{}{W porzÄ…dku, zmieÅ„my temat.}
+{141}{}{No cÃ³Å¼, dziÄ™ki za poradÄ™.}
+{142}{}{On jest jej byÅ‚ym, to wszystko. JeÅ›li tu go nie ma, to jest w elektrowni. Dorabia tam, u Dorotki.}
+{143}{}{CÃ³Å¼, mam inne pytania.}
+{144}{}{DziÄ™kujÄ™.}
+{145}{}{Wydaje mi siÄ™, Å¼e to oczywiste. Wielu ludzi przychodzi do niego, poniewaÅ¼ jest radnym, ale nie ja. Wydaje mu siÄ™, Å¼e jest tu szefem, Å¼e jest ponad prawem. KtÃ³regoÅ› dnia chciaÅ‚bym mu pokazaÄ‡, Å¼e wcale tak nie jest.}
+{146}{}{ZdarzaÅ‚y siÄ™ juÅ¼ dziwniejsze rzecz. Co mi moÅ¼esz o nim powiedzieÄ‡?}
+{147}{}{MuszÄ™ juÅ¼ lecieÄ‡. Zaraz za miastem, tak?}
+{148}{}{Nie ma sprawy. Masz piÄ™Ä‡ minut. ChodÅº za mnÄ….}
 {149}{}{Jasne, ale co ci to da?}
-{150}{}{Kilka lat temu mia³ zawa³. Teraz doktor Jubilee trzyma go na jakimœ leku. Ale co ci do tego?}
-{151}{}{Nic, tak tylko pytam. Przestanê marnowaæ twój czas.}
+{150}{}{Kilka lat temu miaÅ‚ zawaÅ‚. Teraz doktor Jubilee trzyma go na jakimÅ› leku. Ale co ci do tego?}
+{151}{}{Nic, tak tylko pytam. PrzestanÄ™ marnowaÄ‡ twÃ³j czas.}
 {152}{}{. Szukam uczciwej pracy.}
-{153}{}{Tandi mówi, ¿e dorwa³eœ tutaj z³ego cz³owieka.}
-{154}{}{Chcê zobaczyæ z³ego cz³owieka.}
+{153}{}{Tandi mÃ³wi, Å¼e dorwaÅ‚eÅ› tutaj zÅ‚ego czÅ‚owieka.}
+{154}{}{ChcÄ™ zobaczyÄ‡ zÅ‚ego czÅ‚owieka.}

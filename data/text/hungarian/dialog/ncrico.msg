@@ -1,26 +1,26 @@
-{100}{}{Ez itt egy jó nagy darab b?nöz?.}
+{100}{}{Ez itt egy jÃ³ nagy darab b?nÃ¶z?.}
 {101}{}{? Rico.}
-{150}{}{Ez itt egy jó nagy darab, k?arcú ember. Úgy néz ki, mint aki rendszeresen téglát reggelizik.}
-{151}{}{Ez itt Rico. Ittapiros test?re. Úgy néz ki, mint aki rendszeresen téglát reggelizik.}
-{175}{}{Hörgghh}
+{150}{}{Ez itt egy jÃ³ nagy darab, k?arcÃº ember. Ãšgy nÃ©z ki, mint aki rendszeresen tÃ©glÃ¡t reggelizik.}
+{151}{}{Ez itt Rico. Ittapiros test?re. Ãšgy nÃ©z ki, mint aki rendszeresen tÃ©glÃ¡t reggelizik.}
+{175}{}{HÃ¶rgghh}
 {176}{}{Hnrfff}
 {177}{}{Sznffff}
-{178}{}{Örb-lööö}
-{179}{}{Klörgggg}
-{180}{}{Úúg}
-{200}{}{Én Ittapiros barát. TE Ittapiros barát?}
+{178}{}{Ã–rb-lÃ¶Ã¶Ã¶}
+{179}{}{KlÃ¶rgggg}
+{180}{}{ÃšÃºg}
+{200}{}{Ã‰n Ittapiros barÃ¡t. TE Ittapiros barÃ¡t?}
 {201}{}{Me hit people. Monte tell me to.}
 {202}{}{Me hit people.}
 {203}{}{Me hit people with fists like playing drum.}
 {204}{}{Me like to hit.}
-{205}{}{::Csukott szájjal mosolyog::}
-{206}{}{::Vakaródzik::}
-{207}{}{::Befeszít::}
+{205}{}{::Csukott szÃ¡jjal mosolyog::}
+{206}{}{::VakarÃ³dzik::}
+{207}{}{::BefeszÃ­t::}
 {208}{}{Grunt.}
-{209}{}{Horkant néhányat.}
-{210}{}{Én nem szeret beszéd}
+{209}{}{Horkant nÃ©hÃ¡nyat.}
+{210}{}{Ã‰n nem szeret beszÃ©d}
 {211}{}{Yoo smell guuud...}
 {212}{}{Yoo smell like mom.}
 {213}{}{Yoo cute. Me no hit you.}
 {214}{}{Yoo make me blush...}
-{215}{}{Ööö... én Rico...}
+{215}{}{Ã–Ã¶Ã¶... Ã©n Rico...}

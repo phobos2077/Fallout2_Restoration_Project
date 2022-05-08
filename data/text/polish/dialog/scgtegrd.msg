@@ -1,18 +1,18 @@
-{100}{}{Wygl¹da na jakiegoœ oficjela, gdy¿ nosi mundur z przypiêt¹ odznak¹ RNK.}
-{101}{}{To tylko stra¿nik miejski.}
-{102}{}{Zobaczmy - twardziel, ma spluwê, blachê, pancerz - hmm, to mo¿e byæ stra¿nik.}
-{103}{}{Witamy w RNK. Do twojej wiadomoœci: je¿eli posiadasz broñ, to trzymaj j¹ w kaburze. To nie jest jakieœ tam pif-paf city, przybyszu.}
+{100}{}{WyglÄ…da na jakiegoÅ› oficjela, gdyÅ¼ nosi mundur z przypiÄ™tÄ… odznakÄ… RNK.}
+{101}{}{To tylko straÅ¼nik miejski.}
+{102}{}{Zobaczmy - twardziel, ma spluwÄ™, blachÄ™, pancerz - hmm, to moÅ¼e byÄ‡ straÅ¼nik.}
+{103}{}{Witamy w RNK. Do twojej wiadomoÅ›ci: jeÅ¼eli posiadasz broÅ„, to trzymaj jÄ… w kaburze. To nie jest jakieÅ› tam pif-paf city, przybyszu.}
 {104}{}{Witamy w RNK, stolicy Republiki Nowej Kalifornii, z Prezydent Tandi na czele.}
-{105}{}{Witaj, przybyszu. Przybywasz do RNK w interesach, nieprawda¿?}
-{106}{}{RNK wita ciê - je¿eli tylko nie bêdziesz sprawiaæ k³opotów.}
-{107}{}{Ej ty, od³ó¿ swoj¹ broñ. RNK nie ¿yczy sobie tego typu k³opotów.}
-{108}{}{Przybyszu, RNK ma swoje prawa, a jedno z nich mówi - "¯adnej broni". Od³ó¿ j¹, a nie bêdzie k³opotu.}
-{109}{}{Czy ten znak przy wejœciu zwróci³ twoj¹ uwagê? "¯adnej broni" i to nie s¹ ¿arty. Zrozumiano?}
-{110}{}{Wy "nomadzi" jesteœcie wszyscy tacy sami. To spokojne miasto - co znaczy, ¿e nie potrzebujemy tutaj twojego wymachiwania ¿elastwem. Od³ó¿ swoj¹ broñ, a nie bêdzie ¿adnych k³opotów.}
-{111}{}{Brama jest zamkniêta na noc. Je¿eli masz nie cierpi¹c¹ zw³oki sprawê, to wnieœ j¹ w stra¿nicy.}
-{112}{}{Jak chcesz przejœæ przez bramê, to musisz pogadaæ z kapitanem stra¿y.}
-{113}{}{Trochê póŸno jak na wejœcie do miasta. IdŸ, zobacz siê z kapitanem. Mo¿e ona ciê wpuœci.}
-{114}{}{Na twoim miejscu obróci³bym siê i odszed³ naprawdê w tempie.}
-{115}{}{Tacy jak ty nie s¹ mile widziani w RNK.}
-{116}{}{Zbli¿ siê jeszcze trochê, a po¿a³ujesz.}
-{117}{}{Ostrzegano nas przed tob¹, wiêc po prostu odejdŸ. Rozumiesz?}
+{105}{}{Witaj, przybyszu. Przybywasz do RNK w interesach, nieprawdaÅ¼?}
+{106}{}{RNK wita ciÄ™ - jeÅ¼eli tylko nie bÄ™dziesz sprawiaÄ‡ kÅ‚opotÃ³w.}
+{107}{}{Ej ty, odÅ‚Ã³Å¼ swojÄ… broÅ„. RNK nie Å¼yczy sobie tego typu kÅ‚opotÃ³w.}
+{108}{}{Przybyszu, RNK ma swoje prawa, a jedno z nich mÃ³wi - "Å»adnej broni". OdÅ‚Ã³Å¼ jÄ…, a nie bÄ™dzie kÅ‚opotu.}
+{109}{}{Czy ten znak przy wejÅ›ciu zwrÃ³ciÅ‚ twojÄ… uwagÄ™? "Å»adnej broni" i to nie sÄ… Å¼arty. Zrozumiano?}
+{110}{}{Wy "nomadzi" jesteÅ›cie wszyscy tacy sami. To spokojne miasto - co znaczy, Å¼e nie potrzebujemy tutaj twojego wymachiwania Å¼elastwem. OdÅ‚Ã³Å¼ swojÄ… broÅ„, a nie bÄ™dzie Å¼adnych kÅ‚opotÃ³w.}
+{111}{}{Brama jest zamkniÄ™ta na noc. JeÅ¼eli masz nie cierpiÄ…cÄ… zwÅ‚oki sprawÄ™, to wnieÅ› jÄ… w straÅ¼nicy.}
+{112}{}{Jak chcesz przejÅ›Ä‡ przez bramÄ™, to musisz pogadaÄ‡ z kapitanem straÅ¼y.}
+{113}{}{TrochÄ™ pÃ³Åºno jak na wejÅ›cie do miasta. IdÅº, zobacz siÄ™ z kapitanem. MoÅ¼e ona ciÄ™ wpuÅ›ci.}
+{114}{}{Na twoim miejscu obrÃ³ciÅ‚bym siÄ™ i odszedÅ‚ naprawdÄ™ w tempie.}
+{115}{}{Tacy jak ty nie sÄ… mile widziani w RNK.}
+{116}{}{ZbliÅ¼ siÄ™ jeszcze trochÄ™, a poÅ¼aÅ‚ujesz.}
+{117}{}{Ostrzegano nas przed tobÄ…, wiÄ™c po prostu odejdÅº. Rozumiesz?}

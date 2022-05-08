@@ -1,72 +1,72 @@
 {100}{}{Ves a una persona malhumorada con un uniforme de Refugio.}
 {101}{}{Ves a un prisionero del Refugio 13.}
-{102}{}{Ves a una persona muy pálida que lleva un uniforme del Refugio 13.}
+{102}{}{Ves a una persona muy pÃ¡lida que lleva un uniforme del Refugio 13.}
 {103}{}{Ves a un miembro de tu tribu.}
-{104}{}{Ves a un compañero de tribu.}
+{104}{}{Ves a un compaÃ±ero de tribu.}
 {105}{}{Ves a un miembro de tu tribu, que no parece estar bien.}
-{106}{}{Este lugar es demasiado húmedo para ser un Refugio.}
-{107}{}{Creo que puedo escuchar el océano.}
-{108}{}{¿Has hablado con Martin Frobisher?}
-{109}{}{Deberías hablar con Martin.}
-{110}{}{Martin es nuestro portavoz, deberías hablar con él.}
-{111}{}{El señor Frobisher está en la primera celda.}
+{106}{}{Este lugar es demasiado hÃºmedo para ser un Refugio.}
+{107}{}{Creo que puedo escuchar el ocÃ©ano.}
+{108}{}{Â¿Has hablado con Martin Frobisher?}
+{109}{}{DeberÃ­as hablar con Martin.}
+{110}{}{Martin es nuestro portavoz, deberÃ­as hablar con Ã©l.}
+{111}{}{El seÃ±or Frobisher estÃ¡ en la primera celda.}
 {112}{}{Ni siquiera tienen cintas de entretenimiento.}
 {113}{}{Exijo hablar con alguien sobre la calidad de la comida.}
-{114}{}{Genial, ahora nos amenazan con salvajes extraños.}
-{115}{}{¿Cómo escapaste?}
-{116}{}{¿Cómo conseguiste salir?}
+{114}{}{Genial, ahora nos amenazan con salvajes extraÃ±os.}
+{115}{}{Â¿CÃ³mo escapaste?}
+{116}{}{Â¿CÃ³mo conseguiste salir?}
 {117}{}{Pareces el Elegido.}
-{118}{}{¿Eres… eres el Elegido?}
+{118}{}{Â¿Eresâ€¦ eres el Elegido?}
 {119}{}{Debes hablar con la Anciana.}
-{120}{}{¡La Anciana dijo que nos salvarías!}
-{121}{}{¿Has hablado ya con la Anciana?}
-{122}{}{La Anciana está en la primera celda. Debes hablar con ella.}
+{120}{}{Â¡La Anciana dijo que nos salvarÃ­as!}
+{121}{}{Â¿Has hablado ya con la Anciana?}
+{122}{}{La Anciana estÃ¡ en la primera celda. Debes hablar con ella.}
 {123}{}{Habla con la Anciana.}
-{124}{}{¡Libéranos!}
-{125}{}{Sácanos de aquí.}
+{124}{}{Â¡LibÃ©ranos!}
+{125}{}{SÃ¡canos de aquÃ­.}
 {126}{}{No puedo continuar entre estas paredes.}
-{127}{}{Anhelo sentir el viento una vez más en mi cara.}
-{128}{}{Libéranos, Elegido!}
-{129}{}{¡El Elegido está aquí!}
-{130}{}{¡Libéranos!}
+{127}{}{Anhelo sentir el viento una vez mÃ¡s en mi cara.}
+{128}{}{LibÃ©ranos, Elegido!}
+{129}{}{Â¡El Elegido estÃ¡ aquÃ­!}
+{130}{}{Â¡LibÃ©ranos!}
 {131}{}{Haz lo que la Anciana te dijo.}
-{132}{}{¡Sácanos antes de que los espíritus malignos regresen!}
-{133}{}{Por favor, ayúdanos, Elegido.}
+{132}{}{Â¡SÃ¡canos antes de que los espÃ­ritus malignos regresen!}
+{133}{}{Por favor, ayÃºdanos, Elegido.}
 {134}{}{Doy gracias a los dioses, el Elegido ha venido por fin.}
-{135}{}{Ayúdanos }
-{136}{}{Libéranos }
-{137}{}{Estás aquí, }
-{138}{}{Sabes lo que tienes que hacer, ¡así que hazlo!}
-{139}{}{¡Vámonos!}
-{140}{}{Sácanos de aquí.}
-{141}{}{¡Corta la corriente!}
-{142}{}{Libéranos.}
-{143}{}{Vamos, ¡sácanos de aquí!}
-{144}{}{¡Por favor, ayúdanos!}
-{145}{}{¡Eres nuestra única esperanza!}
-{146}{}{Por favor, no puedo soportar esto más tiempo.}
-{147}{}{No quiero más medicinas. No, no. ¡Nooooooo!}
-{148}{}{¡Los espíritus nos protegen!}
-{149}{}{¿Dónde están los espíritus cuando los necesitamos?}
-{150}{}{¡Ayúdanos!}
-{151}{}{¡Libéranos!}
+{135}{}{AyÃºdanos }
+{136}{}{LibÃ©ranos }
+{137}{}{EstÃ¡s aquÃ­, }
+{138}{}{Sabes lo que tienes que hacer, Â¡asÃ­ que hazlo!}
+{139}{}{Â¡VÃ¡monos!}
+{140}{}{SÃ¡canos de aquÃ­.}
+{141}{}{Â¡Corta la corriente!}
+{142}{}{LibÃ©ranos.}
+{143}{}{Vamos, Â¡sÃ¡canos de aquÃ­!}
+{144}{}{Â¡Por favor, ayÃºdanos!}
+{145}{}{Â¡Eres nuestra Ãºnica esperanza!}
+{146}{}{Por favor, no puedo soportar esto mÃ¡s tiempo.}
+{147}{}{No quiero mÃ¡s medicinas. No, no. Â¡Nooooooo!}
+{148}{}{Â¡Los espÃ­ritus nos protegen!}
+{149}{}{Â¿DÃ³nde estÃ¡n los espÃ­ritus cuando los necesitamos?}
+{150}{}{Â¡AyÃºdanos!}
+{151}{}{Â¡LibÃ©ranos!}
 {152}{}{Quiero irme a casa.}
-{153}{}{Primero la sequía y ahora esto.}
-{154}{}{¡No más jeringuillas, basta!}
-{155}{}{¡No puedo aguantarlo! ¡Las paredes se me vienen encima!}
+{153}{}{Primero la sequÃ­a y ahora esto.}
+{154}{}{Â¡No mÃ¡s jeringuillas, basta!}
+{155}{}{Â¡No puedo aguantarlo! Â¡Las paredes se me vienen encima!}
 {156}{}{:Solloza:}
-{157}{}{¡Dejad marchar a mi gente!}
-{158}{}{La Anciana nos guía.}
-{159}{}{¿Cómo hemos ofendido a estos malos espíritus?}
+{157}{}{Â¡Dejad marchar a mi gente!}
+{158}{}{La Anciana nos guÃ­a.}
+{159}{}{Â¿CÃ³mo hemos ofendido a estos malos espÃ­ritus?}
 {160}{}{No me importa mucho esto.}
-{161}{}{¿Dónde está Martin?}
+{161}{}{Â¿DÃ³nde estÃ¡ Martin?}
 {162}{}{Esto no es un Refugio.}
-{163}{}{¡Sácanos de aquí!}
-{164}{}{¿Hola? ¡Hola!}
+{163}{}{Â¡SÃ¡canos de aquÃ­!}
+{164}{}{Â¿Hola? Â¡Hola!}
 {165}{}{Insisto en ser liberado.}
-{166}{}{Soy un ciudadano de los Estados Unidos y exijo ver a quién esté al cargo.}
-{167}{}{Déjeme salir.}
+{166}{}{Soy un ciudadano de los Estados Unidos y exijo ver a quiÃ©n estÃ© al cargo.}
+{167}{}{DÃ©jeme salir.}
 {168}{}{Esto es tan aburrido.}
-{169}{}{Ninguna medicina más. No puedo tomar ninguna más.}
-{170}{}{No pueden tenernos aquí para siempre.}
-{171}{}{¿La guerra no había terminado?}
+{169}{}{Ninguna medicina mÃ¡s. No puedo tomar ninguna mÃ¡s.}
+{170}{}{No pueden tenernos aquÃ­ para siempre.}
+{171}{}{Â¿La guerra no habÃ­a terminado?}

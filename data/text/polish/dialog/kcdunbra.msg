@@ -1,2 +1,2 @@
-{100}{}{To dziwne. Te braminy maj¹ ró¿ne znakowanie. Wygl¹da, ¿e ktoœ niechlujnie próbowa³ zakryæ swoim znakiem cokolwiek tam by³o wczeœniej.}
-{101}{}{Mmmm... "muu-muu" mieæ ró¿ne znaki. Z³y ludŸ zamieniæ stary znak na nowy znak.}
+{100}{}{To dziwne. Te braminy majÄ… rÃ³Å¼ne znakowanie. WyglÄ…da, Å¼e ktoÅ› niechlujnie prÃ³bowaÅ‚ zakryÄ‡ swoim znakiem cokolwiek tam byÅ‚o wczeÅ›niej.}
+{101}{}{Mmmm... "muu-muu" mieÄ‡ rÃ³Å¼ne znaki. ZÅ‚y ludÅº zamieniÄ‡ stary znak na nowy znak.}

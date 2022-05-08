@@ -1,92 +1,92 @@
 {100}{}{Ves a un vejestorio grasiento.}
-{150}{}{Ves a Smitty, el mecánico y dueño del desguace.}
+{150}{}{Ves a Smitty, el mecÃ¡nico y dueÃ±o del desguace.}
 {151}{}{Ves a un vejestorio grasiento que lleva puesto un mono de trabajo sucio.}
-{200}{}{¡Sabandija! ¡Largo de aquí antes de que te dé una lección!}
-{201}{}{¡Fuera de mi desguace!}
-{202}{}{¡Fuera de este sitio!}
-{203}{}{Maldita sabandija, fuera de aquí.}
-{204}{}{Aléjate de mí de una puta vez.}
+{200}{}{Â¡Sabandija! Â¡Largo de aquÃ­ antes de que te dÃ© una lecciÃ³n!}
+{201}{}{Â¡Fuera de mi desguace!}
+{202}{}{Â¡Fuera de este sitio!}
+{203}{}{Maldita sabandija, fuera de aquÃ­.}
+{204}{}{AlÃ©jate de mÃ­ de una puta vez.}
 {220}{}{Eh, fuera de mi local.}
-{221}{}{Tú, idiota, largo de aquí.}
-{222}{}{¡Fuera, vamos, fuera!}
+{221}{}{TÃº, idiota, largo de aquÃ­.}
+{222}{}{Â¡Fuera, vamos, fuera!}
 {223}{}{No tengo tiempo para los de tu clase.}
-{224}{}{Lo siento, no hablo en estúpido.}
-{240}{}{Hola, jovencito. ¿Qué puede hacer el viejo Smitty por ti?}
-{241}{}{Hola, preciosa. ¿Qué puede hacer el viejo Smitty por ti?}
-{242}{}{Jesucristo, ¿ahora qué puedo hacer por ti?}
-{243}{}{Hola, me ha gustado mucho el almuerzo de Mamá. Gracias. Ahora, ¿qué puede hacer el viejo Smitty por ti?}
-{244}{}{Me preguntaba, qué es lo que haces aquí?}
-{245}{}{Mira, viejales, tengo esta cosa que conseguí en Gecko...}
-{246}{}{Eh, Smitty, te quería preguntar por ese coche que tenías en venta.}
-{247}{}{Te he traído el almuerzo de Mamá.}
-{248}{}{Mira, viejales, tengo esta cosa que recogí en Klamath...}
-{249}{}{Tan sólo echaba un vistazo. Nos vemos luego, Smitty.}
+{224}{}{Lo siento, no hablo en estÃºpido.}
+{240}{}{Hola, jovencito. Â¿QuÃ© puede hacer el viejo Smitty por ti?}
+{241}{}{Hola, preciosa. Â¿QuÃ© puede hacer el viejo Smitty por ti?}
+{242}{}{Jesucristo, Â¿ahora quÃ© puedo hacer por ti?}
+{243}{}{Hola, me ha gustado mucho el almuerzo de MamÃ¡. Gracias. Ahora, Â¿quÃ© puede hacer el viejo Smitty por ti?}
+{244}{}{Me preguntaba, quÃ© es lo que haces aquÃ­?}
+{245}{}{Mira, viejales, tengo esta cosa que conseguÃ­ en Gecko...}
+{246}{}{Eh, Smitty, te querÃ­a preguntar por ese coche que tenÃ­as en venta.}
+{247}{}{Te he traÃ­do el almuerzo de MamÃ¡.}
+{248}{}{Mira, viejales, tengo esta cosa que recogÃ­ en Klamath...}
+{249}{}{Tan sÃ³lo echaba un vistazo. Nos vemos luego, Smitty.}
 {260}{}{Deja que el viejo Smitty le eche un vistazo.}
-{261}{}{Claro, aquí lo tienes.}
-{262}{}{Pensándolo mejor, déjame hacerte otra pregunta.}
-{263}{}{Quizás otro rato. Adiós, Smitty.}
+{261}{}{Claro, aquÃ­ lo tienes.}
+{262}{}{PensÃ¡ndolo mejor, dÃ©jame hacerte otra pregunta.}
+{263}{}{QuizÃ¡s otro rato. AdiÃ³s, Smitty.}
 {280}{}{Deja que el viejo Smitty le eche un vistazo.}
-{281}{}{Claro, aquí lo tienes.}
-{282}{}{Pensándolo mejor, déjame hacerte otra pregunta.}
-{283}{}{Quizás otro rato. Adiós, Smitty.}
-{300}{}{Bueno, me parece que es un viejo inyector de células de combustible. Hmm, apuesto a que si lo usara con el viejo Highwayman podría hacer que ronroneara como un gatito.}
-{301}{}{¿Eh?}
-{310}{}{Hmm, eso parece un regulador de combustible. Si tuviera un coche que funcionara, seguro que reducía el consumo.}
-{311}{}{¿Eh?}
-{320}{}{Eso ha sido muy amable de tu parte. Muchas gracias, señorita. Aquí tienes algo por las molestias. Te vendrá bien para hacerte un arreglo. (Te da un estimulante).}
+{281}{}{Claro, aquÃ­ lo tienes.}
+{282}{}{PensÃ¡ndolo mejor, dÃ©jame hacerte otra pregunta.}
+{283}{}{QuizÃ¡s otro rato. AdiÃ³s, Smitty.}
+{300}{}{Bueno, me parece que es un viejo inyector de cÃ©lulas de combustible. Hmm, apuesto a que si lo usara con el viejo Highwayman podrÃ­a hacer que ronroneara como un gatito.}
+{301}{}{Â¿Eh?}
+{310}{}{Hmm, eso parece un regulador de combustible. Si tuviera un coche que funcionara, seguro que reducÃ­a el consumo.}
+{311}{}{Â¿Eh?}
+{320}{}{Eso ha sido muy amable de tu parte. Muchas gracias, seÃ±orita. AquÃ­ tienes algo por las molestias. Te vendrÃ¡ bien para hacerte un arreglo. (Te da un estimulante).}
 {321}{}{Gracias, Smitty. Sin problema. Nos vemos.}
-{322}{}{Bien, ehhh... gracias, pero ya he ido a ver a Mamá y me he pillado algo de comer, así que no me hará falta.}
-{323}{}{Oh, no soy el repartidor habitual. Se puso enfermo hoy. De todos modos, ¿puedo conseguir mis puntos de experiencia?}
-{324}{}{Vale, siento la confusión. ¡Espero que Mamá no me despida! De verdad que me hace falta este trabajo.}
-{325}{}{¿Sabes que ya no regalamos la comida si tarda en llegar más de 24 horas, verdad?}
-{326}{}{Bueno, entonces quizás me la coma yo.}
-{327}{}{Mamá no se va a poner contenta con esto.}
-{330}{}{Bueno, mira, tengo este coche, un Highwayman de Chrysalis Motors. Es una belleza. Solían decir "nada detiene a un Highwayman". Duros, así eran.}
-{331}{}{Sí, ¿y que tiene que ver esto conmigo?}
-{340}{}{Bueno, verás, pensaba que necesitaba una batería para él pero en realidad todo lo que necesito es un inyector de células de combustible. De esas cosas siempre he ido escaso.}
-{341}{}{Bueno, tengo uno aquí.}
-{350}{}{¿Ah, sí? Este es el trato. Tú me das 2.000 dólares y yo te vendo el coche. Diablos, incluso te instalaré el inyector. Debería andar como si fuera nuevo. Incluso lo cargaré con algunas células extra de microfusión que tengo.}
-{351}{}{Suena bien. Aquí está el dinero y la pieza.}
-{352}{}{Ahora mismo no creo que quiera hacerlo. Déjame hacerte una pregunta, Smitty.}
+{322}{}{Bien, ehhh... gracias, pero ya he ido a ver a MamÃ¡ y me he pillado algo de comer, asÃ­ que no me harÃ¡ falta.}
+{323}{}{Oh, no soy el repartidor habitual. Se puso enfermo hoy. De todos modos, Â¿puedo conseguir mis puntos de experiencia?}
+{324}{}{Vale, siento la confusiÃ³n. Â¡Espero que MamÃ¡ no me despida! De verdad que me hace falta este trabajo.}
+{325}{}{Â¿Sabes que ya no regalamos la comida si tarda en llegar mÃ¡s de 24 horas, verdad?}
+{326}{}{Bueno, entonces quizÃ¡s me la coma yo.}
+{327}{}{MamÃ¡ no se va a poner contenta con esto.}
+{330}{}{Bueno, mira, tengo este coche, un Highwayman de Chrysalis Motors. Es una belleza. SolÃ­an decir "nada detiene a un Highwayman". Duros, asÃ­ eran.}
+{331}{}{SÃ­, Â¿y que tiene que ver esto conmigo?}
+{340}{}{Bueno, verÃ¡s, pensaba que necesitaba una baterÃ­a para Ã©l pero en realidad todo lo que necesito es un inyector de cÃ©lulas de combustible. De esas cosas siempre he ido escaso.}
+{341}{}{Bueno, tengo uno aquÃ­.}
+{350}{}{Â¿Ah, sÃ­? Este es el trato. TÃº me das 2.000 dÃ³lares y yo te vendo el coche. Diablos, incluso te instalarÃ© el inyector. DeberÃ­a andar como si fuera nuevo. Incluso lo cargarÃ© con algunas cÃ©lulas extra de microfusiÃ³n que tengo.}
+{351}{}{Suena bien. AquÃ­ estÃ¡ el dinero y la pieza.}
+{352}{}{Ahora mismo no creo que quiera hacerlo. DÃ©jame hacerte una pregunta, Smitty.}
 {353}{}{Deja que me lo piense. Ya nos veremos, Smitty.}
-{370}{}{Ahora, tómatelo con calma hasta que el motor se ponga a punto.}
-{371}{}{Vale, lo haré. Gracias, Smitty.}
-{380}{}{Verás, vendría muy bien si no fuera porque no sirve para mucho.}
-{381}{}{¿Eh?}
-{390}{}{Lo que estoy diciendo es que tener un regulador está bien pero primero necesitas encontrar un inyector de células de combustible.}
-{391}{}{¿Y eso por qué?}
-{400}{}{Porque si tienes un inyector y 2.000 dólares, puedo arreglar ese Highwayman de Chrysalis Motors que tengo aquí y podrías conducir por ahí con estilo.}
-{401}{}{¿De verdad? ¿Dónde puedo encontrar un inyector de células de combustible?}
-{410}{}{Esa sí que es un pregunta estúpida. ¿No crees que si lo supiera no estaría conduciendo por ahí con el coche?}
-{411}{}{Vaya. Tendré que buscar uno de esos.}
-{420}{}{Sería una buena idea. Si encuentras uno, vuelve aquí con él. Ah, y tampoco te olvides de los 2.000 dólares.}
-{421}{}{Parece un buen plan, Smitty. Eh, déjame preguntarte otra cosa.}
-{422}{}{Me voy a buscar uno ahora mismo. Adiós.}
-{430}{}{Hola, ¿qué tal funciona ese coche?}
-{431}{}{Bastante bien, Smitty, pero he encontrado esta pieza para el coche y no sé que hacer con ella.}
-{432}{}{Genial, Smitty, sencillamente genial. Eh, te he traído tu almuerzo. Recuerdos de Mamá.}
-{433}{}{Muy bien, Smitty, muy bien. Gracias. Nos vemos. Adiós.}
-{450}{}{Bien, eso es un regulador de combustible. Eso hará que el coche consuma menos células de energía por cada milla. Podría instalártelo, por digamos, 750 dólares.}
-{451}{}{Trato hecho, Smitty. Aquí está la pieza y el dinero.}
-{452}{}{Tendré que pensármelo, Smitty. Adiós por ahora.}
-{460}{}{Principalmente vigilo toda esta vieja chatarra. Sólo tengo una cosa que tenga algo de valor.}
-{461}{}{¿Qué es eso?}
-{462}{}{Me lo imaginaba. Déjame hacerte otra pregunta.}
-{470}{}{Mira, no es otra cosa que este Highwayman de Chrysalis Motors. Solían decir "Nada detiene a un Highwayman". Que los hacían duros, eso está claro.}
-{471}{}{Caray, ¿y funciona?}
-{480}{}{Si funcionara, ¿te crees que aún estaría en este agujero de pueblo?}
-{481}{}{Eh, sí.}
+{370}{}{Ahora, tÃ³matelo con calma hasta que el motor se ponga a punto.}
+{371}{}{Vale, lo harÃ©. Gracias, Smitty.}
+{380}{}{VerÃ¡s, vendrÃ­a muy bien si no fuera porque no sirve para mucho.}
+{381}{}{Â¿Eh?}
+{390}{}{Lo que estoy diciendo es que tener un regulador estÃ¡ bien pero primero necesitas encontrar un inyector de cÃ©lulas de combustible.}
+{391}{}{Â¿Y eso por quÃ©?}
+{400}{}{Porque si tienes un inyector y 2.000 dÃ³lares, puedo arreglar ese Highwayman de Chrysalis Motors que tengo aquÃ­ y podrÃ­as conducir por ahÃ­ con estilo.}
+{401}{}{Â¿De verdad? Â¿DÃ³nde puedo encontrar un inyector de cÃ©lulas de combustible?}
+{410}{}{Esa sÃ­ que es un pregunta estÃºpida. Â¿No crees que si lo supiera no estarÃ­a conduciendo por ahÃ­ con el coche?}
+{411}{}{Vaya. TendrÃ© que buscar uno de esos.}
+{420}{}{SerÃ­a una buena idea. Si encuentras uno, vuelve aquÃ­ con Ã©l. Ah, y tampoco te olvides de los 2.000 dÃ³lares.}
+{421}{}{Parece un buen plan, Smitty. Eh, dÃ©jame preguntarte otra cosa.}
+{422}{}{Me voy a buscar uno ahora mismo. AdiÃ³s.}
+{430}{}{Hola, Â¿quÃ© tal funciona ese coche?}
+{431}{}{Bastante bien, Smitty, pero he encontrado esta pieza para el coche y no sÃ© que hacer con ella.}
+{432}{}{Genial, Smitty, sencillamente genial. Eh, te he traÃ­do tu almuerzo. Recuerdos de MamÃ¡.}
+{433}{}{Muy bien, Smitty, muy bien. Gracias. Nos vemos. AdiÃ³s.}
+{450}{}{Bien, eso es un regulador de combustible. Eso harÃ¡ que el coche consuma menos cÃ©lulas de energÃ­a por cada milla. PodrÃ­a instalÃ¡rtelo, por digamos, 750 dÃ³lares.}
+{451}{}{Trato hecho, Smitty. AquÃ­ estÃ¡ la pieza y el dinero.}
+{452}{}{TendrÃ© que pensÃ¡rmelo, Smitty. AdiÃ³s por ahora.}
+{460}{}{Principalmente vigilo toda esta vieja chatarra. SÃ³lo tengo una cosa que tenga algo de valor.}
+{461}{}{Â¿QuÃ© es eso?}
+{462}{}{Me lo imaginaba. DÃ©jame hacerte otra pregunta.}
+{470}{}{Mira, no es otra cosa que este Highwayman de Chrysalis Motors. SolÃ­an decir "Nada detiene a un Highwayman". Que los hacÃ­an duros, eso estÃ¡ claro.}
+{471}{}{Caray, Â¿y funciona?}
+{480}{}{Si funcionara, Â¿te crees que aÃºn estarÃ­a en este agujero de pueblo?}
+{481}{}{Eh, sÃ­.}
 {482}{}{Supongo que no.}
-{490}{}{Bueno, probablemente tengas razón. Me he hecho a vivir aquí.}
+{490}{}{Bueno, probablemente tengas razÃ³n. Me he hecho a vivir aquÃ­.}
 {491}{}{Ya veo.}
-{500}{}{Bueno, entonces quizás volviera de nuevo. Aquí estoy a gusto.}
+{500}{}{Bueno, entonces quizÃ¡s volviera de nuevo. AquÃ­ estoy a gusto.}
 {501}{}{Entendido.}
-{510}{}{Aunque no me importaría vender el coche, si alguien me trajera una batería: no, espera... eh, creo que lo que necesitaría es un inyector de células de combustible. Si, si tuviera uno de esos, vendería el coche por 2.000 dólares. Incluso instalaría el inyector para que funcionara bien.}
-{511}{}{Suena interesante. Tendré que volver si alguna vez encuentro un inyector. Déjame hacerte otra pregunta.}
-{512}{}{Cuando encuentre uno, volveré. Adiós, Smitty.}
-{520}{}{Aquí lo tienes. Nuevo y mejorado. Ahora cuídalo.}
-{521}{}{Lo haré. Gracias, Smitty. Adiós.}
-{600}{}{¡ALÉJATE DE MI PUTO COCHE!}
+{510}{}{Aunque no me importarÃ­a vender el coche, si alguien me trajera una baterÃ­a: no, espera... eh, creo que lo que necesitarÃ­a es un inyector de cÃ©lulas de combustible. Si, si tuviera uno de esos, venderÃ­a el coche por 2.000 dÃ³lares. Incluso instalarÃ­a el inyector para que funcionara bien.}
+{511}{}{Suena interesante. TendrÃ© que volver si alguna vez encuentro un inyector. DÃ©jame hacerte otra pregunta.}
+{512}{}{Cuando encuentre uno, volverÃ©. AdiÃ³s, Smitty.}
+{520}{}{AquÃ­ lo tienes. Nuevo y mejorado. Ahora cuÃ­dalo.}
+{521}{}{Lo harÃ©. Gracias, Smitty. AdiÃ³s.}
+{600}{}{Â¡ALÃ‰JATE DE MI PUTO COCHE!}
 {650}{}{Que no te vuelva a pillar husmeando cerca de mi coche.}
-{651}{}{No lo haré más.}
+{651}{}{No lo harÃ© mÃ¡s.}
 {652}{}{Uggg-K}

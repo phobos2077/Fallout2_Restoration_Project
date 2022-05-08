@@ -1,31 +1,31 @@
 {100}{}{Ves a un camarero.}
 {101}{}{Ves a Slim, el tabernero.}
-{102}{}{Ves a un camarero. Lleva puesto un delantal y sujeta un vaso que limpia constantemente escupiendo en él y frotándolo con un trapo sucio. Parece que todo le importa una mierda.}
-{103}{}{Soy Slim. ¿Qué va a ser?}
-{104}{}{Quiero yo información.}
-{105}{}{¿Vendes cosas?}
+{102}{}{Ves a un camarero. Lleva puesto un delantal y sujeta un vaso que limpia constantemente escupiendo en Ã©l y frotÃ¡ndolo con un trapo sucio. Parece que todo le importa una mierda.}
+{103}{}{Soy Slim. Â¿QuÃ© va a ser?}
+{104}{}{Quiero yo informaciÃ³n.}
+{105}{}{Â¿Vendes cosas?}
 {106}{}{No, marcho.}
-{107}{}{Necesito cierta información.}
-{108}{}{Muéstrame lo que tienes a la venta.}
+{107}{}{Necesito cierta informaciÃ³n.}
+{108}{}{MuÃ©strame lo que tienes a la venta.}
 {109}{}{Nada, ya me marcho.}
-{110}{}{Información, ¿eh? Bien, pues ni yo soy una biblioteca ni esto es una sala de computadoras. Bebe algo o lárgate de aquí. ¿Quieres un poco de licor o no?}
-{111}{}{Sí.}
+{110}{}{InformaciÃ³n, Â¿eh? Bien, pues ni yo soy una biblioteca ni esto es una sala de computadoras. Bebe algo o lÃ¡rgate de aquÃ­. Â¿Quieres un poco de licor o no?}
+{111}{}{SÃ­.}
 {112}{}{No.}
-{113}{}{Perfecto. Si esta mierda no te mata, nada lo hará.}
+{113}{}{Perfecto. Si esta mierda no te mata, nada lo harÃ¡.}
 {114}{}{}
 {115}{}{Vale.}
-{116}{}{¿Eso es para ti?}
-{117}{}{Sí.}
+{116}{}{Â¿Eso es para ti?}
+{117}{}{SÃ­.}
 {118}{}{No.}
-{119}{}{Más tarde, entonces.}
+{119}{}{MÃ¡s tarde, entonces.}
 {120}{}{}
 {121}{}{Vale.}
-{122}{}{Bienvenido de nuevo. ¿Quieres más licor?}
-{123}{}{Sí.}
+{122}{}{Bienvenido de nuevo. Â¿Quieres mÃ¡s licor?}
+{123}{}{SÃ­.}
 {124}{}{No.}
-{125}{}{Hemos cerrado. Piérdete.}
+{125}{}{Hemos cerrado. PiÃ©rdete.}
 {126}{}{}
 {127}{}{Vale.}
-{128}{}{A ti no te atiendo. ¡Lárgate de mi tienda!}
+{128}{}{A ti no te atiendo. Â¡LÃ¡rgate de mi tienda!}
 {129}{}{}
 {130}{}{Vale.}

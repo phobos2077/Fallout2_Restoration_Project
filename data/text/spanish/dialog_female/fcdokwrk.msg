@@ -1,21 +1,21 @@
 {100}{}{Ves a un estibador Shi.}
 {101}{}{Ves a un estibador del puerto.}
-{102}{}{Ves a un estibador Shi con ropas manchadas con escamas de pescado, alquitrán y sal.}
-{103}{}{Un buen día para estar en el océano.}
+{102}{}{Ves a un estibador Shi con ropas manchadas con escamas de pescado, alquitrÃ¡n y sal.}
+{103}{}{Un buen dÃ­a para estar en el ocÃ©ano.}
 {104}{}{Siempre me han gustado las olas.}
-{105}{}{¿Te gusta el zumo de pescado?}
-{106}{}{Sol, aire fresco, y marisco. ¿Qué más puede uno querer además de un baño?}
+{105}{}{Â¿Te gusta el zumo de pescado?}
+{106}{}{Sol, aire fresco, y marisco. Â¿QuÃ© mÃ¡s puede uno querer ademÃ¡s de un baÃ±o?}
 {107}{}{Estoy harto de pescado.}
 {108}{}{Me duele la espalda.}
 {109}{}{Oh, mira... otra turista.}
 {112}{}{Cuidado con los monstruos del petrolero. Oh, espera... supongo que ya los has visto.}
-{113}{}{Entonces, ¿todo va bien con el petrolero?}
+{113}{}{Entonces, Â¿todo va bien con el petrolero?}
 {114}{}{Ese petrolero es un lugar peligroso. Eso es lo que dicen los vagabundos.}
-{115}{}{¿Has conseguido algo por allí?}
-{116}{}{Un buen día para estar en el océano.}
+{115}{}{Â¿Has conseguido algo por allÃ­?}
+{116}{}{Un buen dÃ­a para estar en el ocÃ©ano.}
 {117}{}{Siempre me han gustado las olas.}
-{118}{}{¿Te gusta el zumo de pescado?}
-{119}{}{Sol, aire fresco, y marisco. ¿Qué más puede uno querer además de un baño?}
+{118}{}{Â¿Te gusta el zumo de pescado?}
+{119}{}{Sol, aire fresco, y marisco. Â¿QuÃ© mÃ¡s puede uno querer ademÃ¡s de un baÃ±o?}
 {120}{}{Estoy harto de pescado.}
 {121}{}{Me duele la espalda.}
 {122}{}{Oh, mira... otra turista.}
@@ -24,6 +24,6 @@
 {127}{}{}
 {128}{}{}
 {150}{}{Hora de morir, turista.}
-{151}{}{¿Crees que puedes manejarte en una pelea portuaria?}
+{151}{}{Â¿Crees que puedes manejarte en una pelea portuaria?}
 {152}{}{No creo que vayas a ser demasiado dura.}
-{153}{}{¡Veamos a ver si te gusta la violencia de un estibador Shi!}
+{153}{}{Â¡Veamos a ver si te gusta la violencia de un estibador Shi!}

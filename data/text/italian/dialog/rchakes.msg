@@ -27,7 +27,7 @@
 {126}{}{Sto cercando il minatore che ha sfregiato la ragazza di Lou. Mi pare tu abbia appena confessato.}
 {127}{}{Non ti portero' alla giustizia, ma portero' la giustizia da te. Una giustizia da 10mm.}
 {128}{}{Puo' darsi. Cosa sai a proposito di questa storia?}
-{129}{}{No, signore, eh, eh. Non lo farei mai. A'arrivederci…signore.}
+{129}{}{No, signore, eh, eh. Non lo farei mai. A'arrivederciâ€¦signore.}
 {130}{}{Ho sfregiato la puttana. Aveva fatto uno sbaglio, aveva fatto.}
 {131}{}{Uno sbaglio?}
 {132}{}{Non mi interessa cosa ti ha fatto. Tu sei un pazzo e io sono quello che ti mettera' in riga.}
@@ -35,7 +35,7 @@
 {134}{}{Sbattermi in cella? Verro' pacificamente. No ha senso fare altro casino. Quella troia ha avuto comunque quello che si meritava. Tu non puoi uccidermi. Io sono invincibile, ma potresti sempre far incazzare gli altri minatori. Hai gli occhi anche dietro la testa, vero?}
 {135}{}{Posso occuparmene di persona. Ora sono io lo Sceriffo da queste parti, e adesso ti porto dentro.}
 {136}{}{Ripensandoci, ho un'idea migliore. Perche' non ti uccido subito, risparmiando un po' di tempo e fatica alla brava gente di Redding?}
-{137}{}{Non sono sicuro di voler fare arrabbiare tutti gli altri minatori Morningstar. Per questa volta ti lascio andare, ma ti avverto: se lo rifai un'altra volta…}
+{137}{}{Non sono sicuro di voler fare arrabbiare tutti gli altri minatori Morningstar. Per questa volta ti lascio andare, ma ti avverto: se lo rifai un'altra voltaâ€¦}
 {138}{}{Oh, grazie, signore. Si', signore. Obidiah stara' attento, signore. Grazie.}
 {139}{}{Grazie, signora. Si', signora. Obidiah stara' attento, signora. Grazie.}
 {140}{}{Cerca davvero di stare attento. Non voglio che succedano di nuovo cose del genere. Addio.}

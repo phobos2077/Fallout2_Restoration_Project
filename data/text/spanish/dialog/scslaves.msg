@@ -1,25 +1,25 @@
 {100}{}{Ves a un pobre diablo.}
 {101}{}{Sigues viendo a un pobre diablo.}
-{102}{}{Ves a un verdaderamente pobre diablo. ¿Por qué estás mirando?}
-{103}{}{¡Ayúdame! Por favor, no me des la espalda.}
+{102}{}{Ves a un verdaderamente pobre diablo. Â¿Por quÃ© estÃ¡s mirando?}
+{103}{}{Â¡AyÃºdame! Por favor, no me des la espalda.}
 {104}{}{Mi amo dice que no debo hablar con nadie.}
-{105}{}{Déjame decirte algo: mi amo es un auténtico gilipollas.}
+{105}{}{DÃ©jame decirte algo: mi amo es un autÃ©ntico gilipollas.}
 {106}{}{En realidad, no me importa ser un esclavo. Es una buena vida: me alimentan y mi ama es bastante buena conmigo.}
-{107}{}{¡Vete! ¡Déjame solo!}
-{108}{}{¡Tú! ¡Tienes que ayudarnos! ¡Derroca a los opresores!}
-{109}{}{¡No hables conmigo! No quiero que me den otra paliza.}
-{110}{}{La esclavitud no es más que una abstracción mental. Después de todo, ¿tú eres realmente libre?}
-{111}{}{¡Más no! Por favor, la Casa del Dolor no!}
-{112}{}{¡Aléjate de mí!}
-{113}{}{¡Monstruo! ¡Tú y los de tu clase me hicisteis esto!}
-{114}{}{¡El juicio del Todopoderoso caiga sobre ti!}
+{107}{}{Â¡Vete! Â¡DÃ©jame solo!}
+{108}{}{Â¡TÃº! Â¡Tienes que ayudarnos! Â¡Derroca a los opresores!}
+{109}{}{Â¡No hables conmigo! No quiero que me den otra paliza.}
+{110}{}{La esclavitud no es mÃ¡s que una abstracciÃ³n mental. DespuÃ©s de todo, Â¿tÃº eres realmente libre?}
+{111}{}{Â¡MÃ¡s no! Por favor, la Casa del Dolor no!}
+{112}{}{Â¡AlÃ©jate de mÃ­!}
+{113}{}{Â¡Monstruo! Â¡TÃº y los de tu clase me hicisteis esto!}
+{114}{}{Â¡El juicio del Todopoderoso caiga sobre ti!}
 {115}{}{Te obedezco en cada palabra.}
-{116}{}{Y los mansos heredarán la tierra.}
-{117}{}{Estaré bien. Soy un buen esclavo.}
-{118}{}{¡Libertad! ¡Dulce y bendita libertad!}
-{119}{}{Mira lo que has hecho: ¡has arruinado mi vida!}
+{116}{}{Y los mansos heredarÃ¡n la tierra.}
+{117}{}{EstarÃ© bien. Soy un buen esclavo.}
+{118}{}{Â¡Libertad! Â¡Dulce y bendita libertad!}
+{119}{}{Mira lo que has hecho: Â¡has arruinado mi vida!}
 {120}{}{No me puedo parar. Tengo que correr. No puedo permitir que me atrapen.}
-{121}{}{¡Mierda! Estoy condenado: me cazarán y me matarán.}
-{122}{}{¿Dónde puedo ir ahora? ¿Qué puedo hacer?}
+{121}{}{Â¡Mierda! Estoy condenado: me cazarÃ¡n y me matarÃ¡n.}
+{122}{}{Â¿DÃ³nde puedo ir ahora? Â¿QuÃ© puedo hacer?}
 {123}{}{Muchas gracias. Ahora tengo sangre de esclavista que derramar.}
-{124}{}{No puedo creerlo: ¡soy libre!}
+{124}{}{No puedo creerlo: Â¡soy libre!}

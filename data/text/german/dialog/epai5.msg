@@ -1,18 +1,18 @@
-{100}{}{Du siehst eine Tür.}
-{101}{}{Du siehst eine elektronische Tür.}
-{102}{}{Du siehst eine elektronische Tür mit Spracherkennung.}
-{200}{}{Code bestätigen:}
+{100}{}{Du siehst eine TÃ¼r.}
+{101}{}{Du siehst eine elektronische TÃ¼r.}
+{102}{}{Du siehst eine elektronische TÃ¼r mit Spracherkennung.}
+{200}{}{Code bestÃ¤tigen:}
 {201}{}{XY104FD}
 {202}{}{BFN12}
-{203}{}{Öffnen}
+{203}{}{Ã–ffnen}
 {204}{}{Weizen}
 {205}{}{Abre}
 {206}{}{[Ende]}
-{300}{}{Falscher Türcode. Tür verschlossen. Bitte kontaktieren Sie den PR Leiter zur Code-Überschreibung.}
+{300}{}{Falscher TÃ¼rcode. TÃ¼r verschlossen. Bitte kontaktieren Sie den PR Leiter zur Code-Ãœberschreibung.}
 {301}{}{[Ende]}
-{400}{}{Bestätige Code-Überschreibung.}
+{400}{}{BestÃ¤tige Code-Ãœberschreibung.}
 {401}{}{[Ende]}
-{402}{}{Diese Tür ist elektronisch gesichert.}
-{403}{}{Tür aufgeschlossen. Danke, dass sie Vault-Tec benutzt haben.}
+{402}{}{Diese TÃ¼r ist elektronisch gesichert.}
+{403}{}{TÃ¼r aufgeschlossen. Danke, dass sie Vault-Tec benutzt haben.}
 {404}{}{[Ende]}
 {500}{}{Hier gibt es kein Schloss zum knacken.}

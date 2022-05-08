@@ -1,4 +1,4 @@
-{100}{}{Ves una destilería.}
-{101}{}{Ahhh, así que Becky tiene una destilería. Será mejor que se lo cuentes a Frankie.}
-{102}{}{Ves una destilería destrozada.}
-{103}{}{La destilería ha sido destruida.}
+{100}{}{Ves una destilerÃ­a.}
+{101}{}{Ahhh, asÃ­ que Becky tiene una destilerÃ­a. SerÃ¡ mejor que se lo cuentes a Frankie.}
+{102}{}{Ves una destilerÃ­a destrozada.}
+{103}{}{La destilerÃ­a ha sido destruida.}

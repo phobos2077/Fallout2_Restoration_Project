@@ -1,5 +1,5 @@
-{100}{}{C'est un réceptacle cybernétique. Il devrait être réparable à condition d'avoir les pièces.}
-{101}{}{Tu remplaces le motivateur cassé.}
-{102}{}{Tu connectes le cerveau à l'interface neuronale du réceptacle.}
-{103}{}{Les réservoirs de gel Biomed sont pleins.}
-{104}{}{Tout semble être en place pour l'activer.}
+{100}{}{C'est un rÃ©ceptacle cybernÃ©tique. Il devrait Ãªtre rÃ©parable Ã  condition d'avoir les piÃ¨ces.}
+{101}{}{Tu remplaces le motivateur cassÃ©.}
+{102}{}{Tu connectes le cerveau Ã  l'interface neuronale du rÃ©ceptacle.}
+{103}{}{Les rÃ©servoirs de gel Biomed sont pleins.}
+{104}{}{Tout semble Ãªtre en place pour l'activer.}

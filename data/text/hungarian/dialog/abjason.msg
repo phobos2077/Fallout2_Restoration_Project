@@ -86,7 +86,7 @@
 {312}{}{Sucks to be you. Bye.}
 {313}{}{Keep your hopes up. I'm sure there is a town nearby that would be safe to travel to.}
 {315}{}{Yeah, well if you find one, let me know.}
-{316}{}{OkÈ. Viszl·t!}
+{316}{}{Ok√©. Viszl√°t!}
 {320}{}{To Gecko? That's the ghoul town, right? Thanks, but no thanks.}
 {321}{}{Hey, the ghouls there are actually really friendly. Besides, I know one in particular that loves a good game of Tragic.}
 {322}{}{Hey, the ghouls there are actually really friendly.}
@@ -106,15 +106,15 @@
 {354}{}{Hey, I know someone in Gecko that loves a good game of Tragic. I could take you there.}
 {360}{}{Are we ready to go yet? I'm dying to know what kind of Tragic cards this guy's got.}
 {361}{}{Alright, let's go.}
-{362}{}{MÈg nem. Majd szÛlok.}
+{362}{}{M√©g nem. Majd sz√≥lok.}
 {370}{}{[Upon arriving in Gecko you introduce the young monk to Wooz. They quickly hit it off and begin comparing their
  Tragic card decks. You're about to leave when Brother Jason pulls himself away from Tragic long enough to have a word with you.]}
-{371}{}{[TOV¡BB]}
+{371}{}{[TOV√ÅBB]}
 {372}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
  as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me. Here,
  I, uh, "borrowed" this from the Abbey's Memorabilia, amazingly it's one of the few tech relics that still works.
  [He hands you a Stealth Boy.] See ya.}
-{373}{}{Kˆsz. Viszl·t!}
+{373}{}{K√∂sz. Viszl√°t!}
 {374}{}{I'm just happy I won't have to hear you bitch anymore. Bye.}
 {380}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
  as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me here.
@@ -123,7 +123,7 @@
 {381}{}{Oh, uh, don't worry about it. Just glad I could help. Bye.}
 {382}{}{I'm just happy I won't have to hear you bitch anymore. Bye.}
 {400}{}{Can't talk... must build more powerful deck...}
-{500}{}{Haggy·' bÈkÈn!}
+{500}{}{Haggy√°' b√©k√©n!}
 {501}{}{T?nj el!}
 {502}{}{Fuck off.}
 {600}{}{Oh, hey, it's you. Somebody blew up the reactor at Gecko and all the ghouls left. No reason for me to stay there,

@@ -2,16 +2,16 @@
 {101}{}{It's Gunther, aide to President Tandi. At least that's what the sign on the door said.}
 {102}{}{He looks officious and busy, the type born to be a bureaucrat that other folks hate.}
 {103}{}{Posso te ajudar?}
-{104}{}{Você novamente?}
+{104}{}{VocÃª novamente?}
 {105}{}{Uhhhh - work. Work Tandi.}
-{106}{}{Quem é você?}
+{106}{}{Quem Ã© vocÃª?}
 {107}{}{I'm here to see President Tandi about a job.}
 {108}{}{Sorry, wrong office.}
 {109}{}{You want job?}
 {110}{}{Let's try this again. You help Tandi? Do job for Tandi?}
 {111}{}{Yesyesyesyes!}
 {112}{}{Tandi job. Me want.}
-{113}{}{O que você faz?}
+{113}{}{O que vocÃª faz?}
 {114}{}{Uhhhh... me kill, me kill big!}
 {115}{}{Uhhhh... me smart. Elder say I got brain-of-child. I got 2 brain. Me smart.}
 {116}{}{You can't take the president's job!}
@@ -34,14 +34,14 @@
 {133}{}{I have no idea what you are talking about. Do you have real question?}
 {134}{}{I'm searching for Vault 13.}
 {135}{}{I understand the president has a job to be done.}
-{136}{}{Não importa.}
+{136}{}{NÃ£o importa.}
 {137}{}{Ah yes. Well, she's instructed me to send in anyone asking about it. You're buzzed in. It's the door to my right.}
 {138}{}{Madam President is finished with you? How did things go?}
 {139}{}{Good. Me bye-bye.}
 {140}{}{Just fine. Now, I'm out of here.}
 {141}{}{Here to report the outcome of Vault 15?}
 {142}{}{Sim.}
-{143}{}{Não.}
+{143}{}{NÃ£o.}
 {144}{}{Well, I'm sorry, but Madam President is very busy. Why don't you come back when the job is done?}
 {145}{}{Tudo bem.}
 {146}{}{Excellent! I'll buzz you right in.}

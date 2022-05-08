@@ -45,7 +45,7 @@
 {144}{}{You really think so?}
 {145}{}{Yes, Jack. It's true.}
 {146}{}{Of course. What do you think - I'm lying?}
-{147}{}{Eu não sei.}
+{147}{}{Eu nÃ£o sei.}
 {148}{}{Don't let her win, Jack.}
 {149}{}{Now's your chance. Be the big man. Really stand her down.}
 {150}{}{Screw it. You're just full of it. You don't care about me!}
@@ -59,5 +59,5 @@
 {158}{}{This isn't your fight. Leave me alone.}
 {159}{}{I either blow up or you kill me. What's it matter?}
 {160}{}{I'm not trying to hurt you! Just want them to remember...}
-{161}{}{Você ganhou }
+{161}{}{VocÃª ganhou }
 {162}{}{ experience points for taking care of Jack for Mira.}

@@ -1,5 +1,5 @@
 {100}{}{You see a young woman in metal armor.}
-{101}{}{Você vê Dalia.}
+{101}{}{VocÃª vÃª Dalia.}
 {102}{}{You see a pretty young woman dressed in metal armor. She watches her surroundings very
  carefully.}
 {103}{}{Well, I'll be. How are you doing,}
@@ -11,18 +11,18 @@
  you with?}
 {109}{}{Eu tenho perguntas.}
 {110}{}{Nada. - Me dizer oi.}
-{111}{}{Eu tenho algumas perguntas para você.}
+{111}{}{Eu tenho algumas perguntas para vocÃª.}
 {112}{}{Nothing. But it's nice to see you again. Bye.}
-{113}{}{O que você quer saber?}
+{113}{}{O que vocÃª quer saber?}
 {114}{}{You prisoner.}
 {115}{}{You leave when want?}
 {116}{}{What know about D'claws?}
-{117}{}{Como você está aqui?}
+{117}{}{Como vocÃª estÃ¡ aqui?}
 {118}{}{Why you worry safe?}
 {119}{}{Thanks. Me go.}
 {120}{}{Are you a prisoner here?}
 {121}{}{Can you leave anytime you want?}
-{122}{}{O que você pode me contar sobre os deathclaws?}
+{122}{}{O que vocÃª pode me contar sobre os deathclaws?}
 {123}{}{How did you come to be here?}
 {124}{}{Why are you worried about needing a place of safety?}
 {125}{}{Thanks. I'll talk at you later.}
@@ -55,11 +55,11 @@
 {143}{}{You safe now. Dalia no worry.}
 {144}{}{You're safe now, Dalia. You'll have no need to worry about any retribution.}
 {145}{}{Thanks,}
-{146}{}{Você é bem-vindo.}
+{146}{}{VocÃª Ã© bem-vindo.}
 {147}{}{Adeus.}
-{148}{}{Você é bem-vindo.}
+{148}{}{VocÃª Ã© bem-vindo.}
 {149}{}{I'll see ya.}
-{150}{}{Olá.}
+{150}{}{OlÃ¡.}
 {151}{}{Hello again. How's it going?}
 {152}{}{I have no quarrel with you. }
 {153}{}{. I hope everything worked out for you at the Squat.}

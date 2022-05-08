@@ -1,177 +1,177 @@
 {100}{}{Du siehst einen Barkeeper.}
-{101}{}{Du siehst einen großen Mann im eleganten Anzug. Er sieht stur geradeaus und beachtet die
- anderen Gäste um sich herum gar nicht.}
+{101}{}{Du siehst einen groÃŸen Mann im eleganten Anzug. Er sieht stur geradeaus und beachtet die
+ anderen GÃ¤ste um sich herum gar nicht.}
 {102}{}{Du siehst einen Barkeeper.}
-{103}{}{Der Mann trägt eine steinerne Miene zur Schau. Falls er dich bemerkt hat, lässt er sich
+{103}{}{Der Mann trÃ¤gt eine steinerne Miene zur Schau. Falls er dich bemerkt hat, lÃ¤sst er sich
  nichts anmerken.}
-{104}{}{Wie wär's mit einem Drink, Held?}
+{104}{}{Wie wÃ¤r's mit einem Drink, Held?}
 {105}{}{Wilkommen, Held. Bitte, setz dich.}
 {106}{}{Bitte! Setz dich und ruh dich ein wenig aus!}
 {107}{}{Guten Tag, Hauptmann.}
 {108}{}{Vault City wird bestehen, Hauptmann.}
-{109}{}{Guten Tag, Bürger.}
-{110}{}{Vault City wird bestehen, Bürger.}
+{109}{}{Guten Tag, BÃ¼rger.}
+{110}{}{Vault City wird bestehen, BÃ¼rger.}
 {111}{}{Ein Mutant! Wache! Wache!}
 {112}{}{Ein Ghul! Wache! Wache!}
-{113}{}{Tut mir leid, die Bar ist für heute geschlossen.}
+{113}{}{Tut mir leid, die Bar ist fÃ¼r heute geschlossen.}
 {114}{}{Die Bar ist geschlossen. Ich gehe nach Hause, sobald ich die Inventarliste fertig habe.}
 {115}{}{Habt ihr denn kein Zuhause?}
-{116}{}{Willkommen! Wir haben alle schon von deinen Heldentaten gegen die Enklave gehört. Kann
+{116}{}{Willkommen! Wir haben alle schon von deinen Heldentaten gegen die Enklave gehÃ¶rt. Kann
  ich dir einen ausgeben?}
 {117}{}{Onn-onn}
 {118}{}{Verzieh dich}
 {119}{}{Was gibt's denn vom Fass?}
-{120}{}{Ich brauche ein paar Auskünfte.}
+{120}{}{Ich brauche ein paar AuskÃ¼nfte.}
 {121}{}{Heute nichts, danke.}
-{122}{}{Hah-hah, selber "onn-onn". Sei bitte vorsichtig im Ödland.}
+{122}{}{Hah-hah, selber "onn-onn". Sei bitte vorsichtig im Ã–dland.}
 {123}{}{Uuhnt-uuhnt!}
 {124}{}{Verzieh dich}
-{125}{}{Was kann ich für dich tun, Hauptmann?}
-{126}{}{Was kann ich für dich tun, Bürger?}
+{125}{}{Was kann ich fÃ¼r dich tun, Hauptmann?}
+{126}{}{Was kann ich fÃ¼r dich tun, BÃ¼rger?}
 {127}{}{Ja? Kann ich Dir helfen?}
 {128}{}{Onn-onn}
 {129}{}{Verzieh dich}
 {130}{}{Was gibt's denn vom Fass?}
-{131}{}{Ich brauche ein paar Auskünfte.}
+{131}{}{Ich brauche ein paar AuskÃ¼nfte.}
 {132}{}{Heute nichts, danke.}
 {133}{}{Ja, ja, du auch "onn-onn". Moment mal, ich rufe nur schnell die Wachen zusammen, um dich
  zum Tor zu "onnten".}
-{134}{}{Ernt? Örnt-örnt.}
+{134}{}{Ernt? Ã–rnt-Ã¶rnt.}
 {135}{}{Verzieh dich}
 {136}{}{"Im Ausschank?" Wie...niedlich...}
-{137}{}{Wir haben Mineralwasser, destilliertes Wasser und Sprudelwasser. Außerdem haben wir
+{137}{}{Wir haben Mineralwasser, destilliertes Wasser und Sprudelwasser. AuÃŸerdem haben wir
  mehrere synthetische Alkoholsorten.}
-{138}{}{Ähh...was für synthetischen Alkohol gibt es denn?}
-{139}{}{Äh, habt ihr auch was Richtiges zu trinken?}
+{138}{}{Ã„hh...was fÃ¼r synthetischen Alkohol gibt es denn?}
+{139}{}{Ã„h, habt ihr auch was Richtiges zu trinken?}
 {140}{}{Wasser, bitte.}
-{141}{}{Macht nichts. Ich brauche ein paar Auskünfte.}
+{141}{}{Macht nichts. Ich brauche ein paar AuskÃ¼nfte.}
 {142}{}{Heute nichts, danke.}
 {143}{}{Sehr gut.}
 {144}{}{Sehr gut.}
-{145}{}{Was möchtest du also? Mineralwasser? Destilliertes Wasser? Oder Sprudelwasser? Alles zum 
- Freundschaftspreis von fünf Dollar pro Glas.}
+{145}{}{Was mÃ¶chtest du also? Mineralwasser? Destilliertes Wasser? Oder Sprudelwasser? Alles zum 
+ Freundschaftspreis von fÃ¼nf Dollar pro Glas.}
 {146}{}{Mineralwasser, bitte.}
 {147}{}{Ich probier mal das destillierte Wasser.}
 {148}{}{Ich nehme etwas Sprudelwasser.}
-{149}{}{Was für synthetische Alkoholsorten gibt's denn?}
-{150}{}{Macht nichts. Ich brauche ein paar Auskünfte.}
-{151}{}{Das ist ein bisschen zu viel für mich. Ich komme wieder, wenn ich mehr Geld habe.}
+{149}{}{Was fÃ¼r synthetische Alkoholsorten gibt's denn?}
+{150}{}{Macht nichts. Ich brauche ein paar AuskÃ¼nfte.}
+{151}{}{Das ist ein bisschen zu viel fÃ¼r mich. Ich komme wieder, wenn ich mehr Geld habe.}
 {152}{}{Ich glaube, ich nehme lieber gar nichts, vielen Dank.}
-{153}{}{Wir haben die synthetischen Derivate H und T und unsere außerordentlich beliebte
- Hausmarke "Alkohol-Z" mit vollmundigem Pseudo-Mikrobräu-Aroma. Alles zum Freundschaftspreis von
+{153}{}{Wir haben die synthetischen Derivate H und T und unsere auÃŸerordentlich beliebte
+ Hausmarke "Alkohol-Z" mit vollmundigem Pseudo-MikrobrÃ¤u-Aroma. Alles zum Freundschaftspreis von
  nur zwanzig Dollar das Glas.}
 {154}{}{Wie wird synthetischer Alkohol denn hergestellt?}
-{155}{}{Äh, habt ihr auch was Richtiges zu trinken?}
+{155}{}{Ã„h, habt ihr auch was Richtiges zu trinken?}
 {156}{}{Ich glaube, ich nehme einfach nur Wasser.}
-{157}{}{Hmmm. Ich probier mal diesen köstlichen Alkohol-Z.}
-{158}{}{Macht nichts. Ich brauche ein paar Auskünfte.}
-{159}{}{Das ist ja ganz schön teuer. Ich komm wieder, wenn ich mehr Geld habe.}
+{157}{}{Hmmm. Ich probier mal diesen kÃ¶stlichen Alkohol-Z.}
+{158}{}{Macht nichts. Ich brauche ein paar AuskÃ¼nfte.}
+{159}{}{Das ist ja ganz schÃ¶n teuer. Ich komm wieder, wenn ich mehr Geld habe.}
 {160}{}{Heute nichts, danke.}
 {161}{}{Darf's sonst noch was sein?}
 {162}{}{Ja, bitte noch etwas Wasser.}
-{163}{}{Was für synthetische Alkoholsorten gibt's denn?}
-{164}{}{Macht nichts. Ich brauche ein paar Auskünfte.}
+{163}{}{Was fÃ¼r synthetische Alkoholsorten gibt's denn?}
+{164}{}{Macht nichts. Ich brauche ein paar AuskÃ¼nfte.}
 {165}{}{Heute nichts, danke.}
-{166}{}{Alles in Ordnung, mit dir? Es scheint fast, als würde der Alkohol-Z bei dir zu wirken
- anfangen. Möchtest du wirklich noch mehr?}
-{167}{}{Alles in Ordnung, mit dir? Es scheint fast, als würde der Alkohol-Z bei dir zu wirken
- anfangen. Möchtest du wirklich noch mehr?}
+{166}{}{Alles in Ordnung, mit dir? Es scheint fast, als wÃ¼rde der Alkohol-Z bei dir zu wirken
+ anfangen. MÃ¶chtest du wirklich noch mehr?}
+{167}{}{Alles in Ordnung, mit dir? Es scheint fast, als wÃ¼rde der Alkohol-Z bei dir zu wirken
+ anfangen. MÃ¶chtest du wirklich noch mehr?}
 {168}{}{Darf's sonst noch was sein?}
-{169}{}{Mir ist übel...Ich denke, ich steig mal kurz aus dem Dialog aus, um nach meinen
+{169}{}{Mir ist Ã¼bel...Ich denke, ich steig mal kurz aus dem Dialog aus, um nach meinen
  Trefferpunkten zu schauen.}
 {170}{}{Nein, nein, mir geht's prima. Ich steig nur mal kurz aus dem Dialog aus, um nach meinen
  Trefferpunkten zu schauen.}
 {171}{}{Ich glaube, ich nehme einfach nur Wasser.}
-{172}{}{Ich möchte gerne noch was von diesem köstlichen Alkohol-Z.}
+{172}{}{Ich mÃ¶chte gerne noch was von diesem kÃ¶stlichen Alkohol-Z.}
 {173}{}{Wie wird synthetischer Alkohol denn hergestellt?}
-{174}{}{Eigentlich brauche ich nur ein paar Auskünfte.}
-{175}{}{Das war's für heute. Besten Dank.}
+{174}{}{Eigentlich brauche ich nur ein paar AuskÃ¼nfte.}
+{175}{}{Das war's fÃ¼r heute. Besten Dank.}
 {176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise-addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
 {177}{}{Du scheinst dich aber gut mit diesem synthetischen Zeug auszukennen.}
-{178}{}{Äh, habt ihr auch was Richtiges zu trinken?}
+{178}{}{Ã„h, habt ihr auch was Richtiges zu trinken?}
 {179}{}{Oh. Ich glaube, ich nehme dann doch lieber nur Wasser.}
 {180}{}{Hmmm. Ich probier mal diesen Alkohol-Z.}
-{181}{}{Interessant. Ich hätte gern ein paar Auskünfte...}
-{182}{}{Ich verstehe. Danke für die Information. Tschüss.}
+{181}{}{Interessant. Ich hÃ¤tte gern ein paar AuskÃ¼nfte...}
+{182}{}{Ich verstehe. Danke fÃ¼r die Information. TschÃ¼ss.}
 {183}{}{Ich war eine Zeitlang Diener bei Dr. Troy, bevor ich hierher abkommandiert wurde. Er 
  verlangte von mir intime Kenntnis der medizinischen Datenbank von Vault City.}
-{184}{}{"Intime Kenntnis?" Ist das überhaupt erlaubt: Intimitäten zwischen Mensch und Computer?}
+{184}{}{"Intime Kenntnis?" Ist das Ã¼berhaupt erlaubt: IntimitÃ¤ten zwischen Mensch und Computer?}
 {185}{}{Medizinische Datenbank?}
-{186}{}{Interessant. Ich hätte gern ein paar Auskünfte...}
-{187}{}{Ich verstehe. Danke für die Information. Tschüss.}
-{188}{}{Ähh..."intime Kenntnis" heißt: professionell, versiert, gut ausgebildet.}
-{189}{}{Aha. Na ja, wenn du dich besser fühlst, wenn man es so formuliert: auch gut. Was sagtest
+{186}{}{Interessant. Ich hÃ¤tte gern ein paar AuskÃ¼nfte...}
+{187}{}{Ich verstehe. Danke fÃ¼r die Information. TschÃ¼ss.}
+{188}{}{Ã„hh..."intime Kenntnis" heiÃŸt: professionell, versiert, gut ausgebildet.}
+{189}{}{Aha. Na ja, wenn du dich besser fÃ¼hlst, wenn man es so formuliert: auch gut. Was sagtest
  du: Medizinische Datenbank?}
-{190}{}{Ich hätte da gerne noch ein paar Auskünfte...}
-{191}{}{Ich verstehe schon, dass du's nicht zugeben willst. Bis später.}
+{190}{}{Ich hÃ¤tte da gerne noch ein paar AuskÃ¼nfte...}
+{191}{}{Ich verstehe schon, dass du's nicht zugeben willst. Bis spÃ¤ter.}
 {192}{}{Ja, mehrere Computer im ersten Stock der Vault enthalten eine riesige medizinische
  Datensammlung. Das ist alles ziemlich interessant, obwohl der Jargon ziemlich verwirrend klingt,
  wenn man von Medizin keine Ahnung hat.}
-{193}{}{Jargon? Ist der für die Computer verantwortlich?}
-{194}{}{Interessant. Ich hätte gern ein paar Auskünfte...}
+{193}{}{Jargon? Ist der fÃ¼r die Computer verantwortlich?}
+{194}{}{Interessant. Ich hÃ¤tte gern ein paar AuskÃ¼nfte...}
 {195}{}{Hmmm. Vielleicht sollte ich's dann mal da versuchen.}
-{196}{}{Äh nein. "Jargon" bedeutet besondere Sprechweise oder Fachchinesisch und hängt
+{196}{}{Ã„h nein. "Jargon" bedeutet besondere Sprechweise oder Fachchinesisch und hÃ¤ngt
  normalerweise mit bestimmten Berufen zusammen.}
-{197}{}{Ach ja, natürlich, natürlich. Ich wollte dich nur auf die Probe stellen. Ich bräuchte da
- ein paar Auskünfte...}
-{198}{}{Wenn du es sagst. Sag diesem Typen Jargon, dass ich mit ihm reden möchte, klar?
- Tschüss dann.}
-{199}{}{Wenn du das meinst, was im Ödland als Alkohol gilt: Nein!}
-{200}{}{Wir haben bislang noch keinen Drang verspürt, unsere Körper mit diesen
- bakterienverseuchten Gebräuen zu vergiften. In der Bar im Vorhof wird das vielleicht nicht...
+{197}{}{Ach ja, natÃ¼rlich, natÃ¼rlich. Ich wollte dich nur auf die Probe stellen. Ich brÃ¤uchte da
+ ein paar AuskÃ¼nfte...}
+{198}{}{Wenn du es sagst. Sag diesem Typen Jargon, dass ich mit ihm reden mÃ¶chte, klar?
+ TschÃ¼ss dann.}
+{199}{}{Wenn du das meinst, was im Ã–dland als Alkohol gilt: Nein!}
+{200}{}{Wir haben bislang noch keinen Drang verspÃ¼rt, unsere KÃ¶rper mit diesen
+ bakterienverseuchten GebrÃ¤uen zu vergiften. In der Bar im Vorhof wird das vielleicht nicht...
   so genau genommen.}
 {201}{}{Ich glaube, ich nehm lieber doch nur ein bisschen Wasser.}
-{202}{}{Also, Moment mal. Was für synthetische Alkoholsorten gibt es denn hier?}
-{203}{}{Ich brauche ein paar Auskünfte.}
+{202}{}{Also, Moment mal. Was fÃ¼r synthetische Alkoholsorten gibt es denn hier?}
+{203}{}{Ich brauche ein paar AuskÃ¼nfte.}
 {204}{}{Das wird ich mir mal ansehen, danke.}
 {205}{}{Vielleicht sollte ich lieber woanders hin gehen.}
-{206}{}{Vielleicht solltest du lieber zum Informationszentrum gehen, als hier herumzuhängen und
+{206}{}{Vielleicht solltest du lieber zum Informationszentrum gehen, als hier herumzuhÃ¤ngen und
  mit dummen Fragen zu nerven. Es liegt in der Stadtmitte. Und jetzt troll dich...ich habe auch
  noch andere Kunden.}
-{207}{}{Moment mal. Ich hätte gerne was zu trinken. Was gibt's denn hier im Ausschank?}
+{207}{}{Moment mal. Ich hÃ¤tte gerne was zu trinken. Was gibt's denn hier im Ausschank?}
 {208}{}{Nein, du wirst mir erst sagen, was ich wissen will. Und rede nicht in diesem Ton mit mir,
  sonst setzt's was.}
-{209}{}{Na dann, alles klar. Schönen Tag noch.}
-{210}{}{Selbstverständlich. Was wollten der Herr denn wissen?}
-{211}{}{Selbstverständlich. Was wollten die Dame denn wissen?}
-{212}{}{Selbstverständlich. Was wollten Herr Hauptmann denn wissen?}
-{213}{}{Selbstverständlich. Was wolltest du denn wissen, Bürger?}
+{209}{}{Na dann, alles klar. SchÃ¶nen Tag noch.}
+{210}{}{SelbstverstÃ¤ndlich. Was wollten der Herr denn wissen?}
+{211}{}{SelbstverstÃ¤ndlich. Was wollten die Dame denn wissen?}
+{212}{}{SelbstverstÃ¤ndlich. Was wollten Herr Hauptmann denn wissen?}
+{213}{}{SelbstverstÃ¤ndlich. Was wolltest du denn wissen, BÃ¼rger?}
 {214}{}{Kannst du mir sagen, wer der Boss von Vault City ist?}
-{215}{}{Kannst du mir was über die Sklavenhaltung in Vault City erzählen?}
-{216}{}{Vergiss es. Ich möchte was zu trinken. Was gibt's denn im Ausschank?}
+{215}{}{Kannst du mir was Ã¼ber die Sklavenhaltung in Vault City erzÃ¤hlen?}
+{216}{}{Vergiss es. Ich mÃ¶chte was zu trinken. Was gibt's denn im Ausschank?}
 {217}{}{Heute nichts, danke.}
-{218}{}{Erstbürgerin Lynette natürlich. Sie ist jetzt schon fast seit zwei Amtsperioden
- Erstbürgerin. Sie muss immer noch dem Rat gegenüber Rechenschaft ablegen, aber sie ist für die
+{218}{}{ErstbÃ¼rgerin Lynette natÃ¼rlich. Sie ist jetzt schon fast seit zwei Amtsperioden
+ ErstbÃ¼rgerin. Sie muss immer noch dem Rat gegenÃ¼ber Rechenschaft ablegen, aber sie ist fÃ¼r die
  wesentlichsten Belange der Rechtsprechung in Vault City verantwortlich.}
 {219}{}{Rat?}
-{220}{}{Kannst du mir was über die Sklavenhaltung in Vault City erzählen?}
-{221}{}{Vergiss es. Ich möchte was zu trinken. Was gibt's denn im Ausschank?}
-{222}{}{Interessant. Danke für die Information. Tschüss.}
-{223}{}{Ja es gibt auch einen Stadtrat in Vault City. Ratssprecher ist der ehrwürdige Stadtrat
- McClure. (Flüstert.) Ehrlich gesagt: McClure und die Erstbürgerin sind schon manchmal ganz schön
+{220}{}{Kannst du mir was Ã¼ber die Sklavenhaltung in Vault City erzÃ¤hlen?}
+{221}{}{Vergiss es. Ich mÃ¶chte was zu trinken. Was gibt's denn im Ausschank?}
+{222}{}{Interessant. Danke fÃ¼r die Information. TschÃ¼ss.}
+{223}{}{Ja es gibt auch einen Stadtrat in Vault City. Ratssprecher ist der ehrwÃ¼rdige Stadtrat
+ McClure. (FlÃ¼stert.) Ehrlich gesagt: McClure und die ErstbÃ¼rgerin sind schon manchmal ganz schÃ¶n
  aneinandergeraten.}
 {224}{}{Wirklich...?}
-{225}{}{Kannst du mir was über die Sklavenhaltung in Vault City erzählen?}
-{226}{}{Vergiss es. Ich möchte was zu trinken. Was gibt's denn im Ausschank?}
-{227}{}{Interessant. Danke für die Information. Tschüss.}
-{228}{}{Oh, ja. Neulich haben einige Bürger eine Petition verfasst, in der sie McClure und den Rat
- aufforderten, einige Anordnungen der Erstbürgerin rückgängig zu machen. Das hat einen ganz
- schönen Wirbel entfacht, glaub mir.}
-{229}{}{Hmmm. Mich würde da noch was anderes interessieren...}
-{230}{}{So, so. Tja, ich könnte einen Drink gebrauchen. Was gibt's denn hier im Ausschank?}
-{231}{}{Interessant. Danke für die Information. Tschüss.}
-{232}{}{Nein, nein, nein...das ist keine Sklaverei. Diese Leute, die du in der Stadt arbeiten siehst, sind Diener... mich eingeschlossen. Wir werden hier sehr gut behandelt, lernen zu lesen und zu schreiben, werden medizinisch versorgt, haben ein Dach über dem Kopf und bekommen Nahrung.}
-{233}{}{Alles, außer einem: Freiheit. Stimmt's?}
+{225}{}{Kannst du mir was Ã¼ber die Sklavenhaltung in Vault City erzÃ¤hlen?}
+{226}{}{Vergiss es. Ich mÃ¶chte was zu trinken. Was gibt's denn im Ausschank?}
+{227}{}{Interessant. Danke fÃ¼r die Information. TschÃ¼ss.}
+{228}{}{Oh, ja. Neulich haben einige BÃ¼rger eine Petition verfasst, in der sie McClure und den Rat
+ aufforderten, einige Anordnungen der ErstbÃ¼rgerin rÃ¼ckgÃ¤ngig zu machen. Das hat einen ganz
+ schÃ¶nen Wirbel entfacht, glaub mir.}
+{229}{}{Hmmm. Mich wÃ¼rde da noch was anderes interessieren...}
+{230}{}{So, so. Tja, ich kÃ¶nnte einen Drink gebrauchen. Was gibt's denn hier im Ausschank?}
+{231}{}{Interessant. Danke fÃ¼r die Information. TschÃ¼ss.}
+{232}{}{Nein, nein, nein...das ist keine Sklaverei. Diese Leute, die du in der Stadt arbeiten siehst, sind Diener... mich eingeschlossen. Wir werden hier sehr gut behandelt, lernen zu lesen und zu schreiben, werden medizinisch versorgt, haben ein Dach Ã¼ber dem Kopf und bekommen Nahrung.}
+{233}{}{Alles, auÃŸer einem: Freiheit. Stimmt's?}
 {234}{}{Wenn's einem nichts ausmacht, ist es nicht so schlimm. Vergiss die Frage einfach.}
-{235}{}{Vergiss es. Ich möchte was zu trinken. Was gibt's denn im Ausschank?}
-{236}{}{Ich verstehe. Danke für die Information. Tschüss.}
-{237}{}{Wenn du nichts bestellen möchtest, wäre es vielleicht besser, wenn du jetzt gehst.}
-{238}{}{Wenn du nichts bestellen möchtest, wäre es vielleicht besser, wenn du jetzt gehst.}
-{239}{}{Wenn du keine Probleme mit deiner...ähhh...Knechtschaft hast, dann ist doch alles in
+{235}{}{Vergiss es. Ich mÃ¶chte was zu trinken. Was gibt's denn im Ausschank?}
+{236}{}{Ich verstehe. Danke fÃ¼r die Information. TschÃ¼ss.}
+{237}{}{Wenn du nichts bestellen mÃ¶chtest, wÃ¤re es vielleicht besser, wenn du jetzt gehst.}
+{238}{}{Wenn du nichts bestellen mÃ¶chtest, wÃ¤re es vielleicht besser, wenn du jetzt gehst.}
+{239}{}{Wenn du keine Probleme mit deiner...Ã¤hhh...Knechtschaft hast, dann ist doch alles in
  Ordnung. Vergiss die Frage einfach.}
 {240}{}{Ich nehm mal einen Drink. Was gibt's denn so im Ausschank?}
-{241}{}{Vielleicht sollte ich mich verziehn. Schönen Tag noch.}
-{242}{}{Wird gemacht. Kann ich noch etwas für dich tun?}
+{241}{}{Vielleicht sollte ich mich verziehn. SchÃ¶nen Tag noch.}
+{242}{}{Wird gemacht. Kann ich noch etwas fÃ¼r dich tun?}
 {243}{}{Ich nehm mal einen Drink. Was gibt's denn so im Ausschank?}
-{244}{}{Heut nicht. Schönen Tag noch.}
+{244}{}{Heut nicht. SchÃ¶nen Tag noch.}
 {245}{}{Zzzzzz.}

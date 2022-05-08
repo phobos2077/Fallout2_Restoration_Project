@@ -1,64 +1,64 @@
-{100}{}{Widzisz barmankê.}
+{100}{}{Widzisz barmankÄ™.}
 {101}{}{Widzisz Stacy.}
-{102}{}{Jest trochê smutna.}
-{103}{}{Przestañ!}
-{104}{}{Jak tak mo¿na?}
-{105}{}{OdejdŸ ode mnie!}
+{102}{}{Jest trochÄ™ smutna.}
+{103}{}{PrzestaÅ„!}
+{104}{}{Jak tak moÅ¼na?}
+{105}{}{OdejdÅº ode mnie!}
 {106}{}{Dlaczego?}
-{107}{}{Proszê, przestañ!}
-{108}{}{To morderstwo z premedytacj¹!}
-{109}{}{Biedna Mamuœka! Zap³acisz za to!}
+{107}{}{ProszÄ™, przestaÅ„!}
+{108}{}{To morderstwo z premedytacjÄ…!}
+{109}{}{Biedna MamuÅ›ka! ZapÅ‚acisz za to!}
 {110}{}{Mamo...}
-{111}{}{By³a taka mi³a dla wszystkich...}
-{112}{}{Przepraszam, nie mogê teraz myœleæ o niczym innym.}
-{113}{}{Mam pusto w g³owie.}
+{111}{}{ByÅ‚a taka miÅ‚a dla wszystkich...}
+{112}{}{Przepraszam, nie mogÄ™ teraz myÅ›leÄ‡ o niczym innym.}
+{113}{}{Mam pusto w gÅ‚owie.}
 {114}{}{To wszystko.}
-{115}{}{Czeœæ.}
-{116}{}{Poznaliœcie siê ju¿ z Mamuœk¹?}
-{117}{}{Ach, czeœæ.}
+{115}{}{CzeÅ›Ä‡.}
+{116}{}{PoznaliÅ›cie siÄ™ juÅ¼ z MamuÅ›kÄ…?}
+{117}{}{Ach, czeÅ›Ä‡.}
 {118}{}{Ach, to znowu ty.}
 {119}{}{Opowiedz mi o swoim kocie.}
-{120}{}{Sk¹d ta smutna mina?}
-{121}{}{Czêsto tu przychodzisz?}
-{122}{}{PóŸniej spróbujê ciê z³apaæ. Pa.}
+{120}{}{SkÄ…d ta smutna mina?}
+{121}{}{CzÄ™sto tu przychodzisz?}
+{122}{}{PÃ³Åºniej sprÃ³bujÄ™ ciÄ™ zÅ‚apaÄ‡. Pa.}
 {123}{}{Taa?}
 {124}{}{Ug.}
-{131}{}{OdejdŸ proszê. Teraz naprawdê nie jestem w nastroju.}
+{131}{}{OdejdÅº proszÄ™. Teraz naprawdÄ™ nie jestem w nastroju.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
-{134}{}{Nie, nic takiego. Tylko czasem myœlê o Mamie i moim kocie. Tak bardzo mi ich brakuje.}
+{134}{}{Nie, nic takiego. Tylko czasem myÅ›lÄ™ o Mamie i moim kocie. Tak bardzo mi ich brakuje.}
 {135}{}{Kot?}
-{136}{}{Przykro mi to s³yszeæ. Pa.}
-{137}{}{Tak, Pieszczoszka. By³a s³odkim kotem. Nie chcê o tym mówiæ... no chyba, ¿e chcesz postawiæ mi drinka. To by mi pomog³o.}
-{138}{}{Jak ju¿ mówi³am, wola³abym teraz o tym nie mówiæ. Jednak jeden drink móg³by rozwi¹zaæ mi jêzyk.}
-{139}{}{Oczywiœcie, ¿e postawiê ci drinka. Chcê pos³uchaæ o twoim kocie.}
+{136}{}{Przykro mi to sÅ‚yszeÄ‡. Pa.}
+{137}{}{Tak, Pieszczoszka. ByÅ‚a sÅ‚odkim kotem. Nie chcÄ™ o tym mÃ³wiÄ‡... no chyba, Å¼e chcesz postawiÄ‡ mi drinka. To by mi pomogÅ‚o.}
+{138}{}{Jak juÅ¼ mÃ³wiÅ‚am, wolaÅ‚abym teraz o tym nie mÃ³wiÄ‡. Jednak jeden drink mÃ³gÅ‚by rozwiÄ…zaÄ‡ mi jÄ™zyk.}
+{139}{}{OczywiÅ›cie, Å¼e postawiÄ™ ci drinka. ChcÄ™ posÅ‚uchaÄ‡ o twoim kocie.}
 {140}{}{Jasne.}
 {141}{}{Hmm, nie mam przy sobie $10.}
-{142}{}{Oczywiœcie.}
-{143}{}{Myœlisz, ¿e to jest zabawne? Bujaæ to nie mnie.}
-{144}{}{Sk¹d ta smutna mina?}
-{145}{}{Niewa¿ne, czeœæ.}
-{146}{}{Podobno kiedyœ ¿y³y na Ziemi koty wielkoœci cz³owieka. Potrafi³y po¿reæ zwierzê wielkoœci braminy. Niewiarygodne, co?}
+{142}{}{OczywiÅ›cie.}
+{143}{}{MyÅ›lisz, Å¼e to jest zabawne? BujaÄ‡ to nie mnie.}
+{144}{}{SkÄ…d ta smutna mina?}
+{145}{}{NiewaÅ¼ne, czeÅ›Ä‡.}
+{146}{}{Podobno kiedyÅ› Å¼yÅ‚y na Ziemi koty wielkoÅ›ci czÅ‚owieka. PotrafiÅ‚y poÅ¼reÄ‡ zwierzÄ™ wielkoÅ›ci braminy. Niewiarygodne, co?}
 {147}{}{To jeszcze nic.}
-{148}{}{Rzeczywiœcie.}
-{149}{}{Kot, o którym mówiê jest ma³ym, s³odkim zwierz¹tkiem, wiêkszym od szczura, ale mniejszym od psa. Niektóre s¹ puszyste jak moja Pieszczoszka, inne maj¹ krótk¹ sierœæ.}
-{150}{}{Naprawdê?}
-{151}{}{Lubi¹ byæ z ludŸmi tak jak psy i wydaj¹ przyjemny dla ucha dŸwiêk, gdy siê je pieœci.}
+{148}{}{RzeczywiÅ›cie.}
+{149}{}{Kot, o ktÃ³rym mÃ³wiÄ™ jest maÅ‚ym, sÅ‚odkim zwierzÄ…tkiem, wiÄ™kszym od szczura, ale mniejszym od psa. NiektÃ³re sÄ… puszyste jak moja Pieszczoszka, inne majÄ… krÃ³tkÄ… sierÅ›Ä‡.}
+{150}{}{NaprawdÄ™?}
+{151}{}{LubiÄ… byÄ‡ z ludÅºmi tak jak psy i wydajÄ… przyjemny dla ucha dÅºwiÄ™k, gdy siÄ™ je pieÅ›ci.}
 {152}{}{Dziwne.}
-{153}{}{Pieszczoszka zawsze pomaga³a mi usn¹æ. Myœlê o niej ka¿dej nocy.}
-{154}{}{To mi³e.}
-{155}{}{Mów dalej.}
-{156}{}{Mia³am j¹, gdy by³am dzieckiem, ale póŸniej znik³a. Nie wiedzia³am co siê z ni¹ sta³o, by³am za ma³a.}
+{153}{}{Pieszczoszka zawsze pomagaÅ‚a mi usnÄ…Ä‡. MyÅ›lÄ™ o niej kaÅ¼dej nocy.}
+{154}{}{To miÅ‚e.}
+{155}{}{MÃ³w dalej.}
+{156}{}{MiaÅ‚am jÄ…, gdy byÅ‚am dzieckiem, ale pÃ³Åºniej znikÅ‚a. Nie wiedziaÅ‚am co siÄ™ z niÄ… staÅ‚o, byÅ‚am za maÅ‚a.}
 {157}{}{Dlaczego?}
-{158}{}{Có¿, jedzenia ledwo wystarcza³o dla wszystkich, ludzie g³odowali. To smutne...}
+{158}{}{CÃ³Å¼, jedzenia ledwo wystarczaÅ‚o dla wszystkich, ludzie gÅ‚odowali. To smutne...}
 {159}{}{Co?}
-{160}{}{Ludzie polowali na koty, bo by³y ³atwym ³upem. Nie znajdziesz tutaj ju¿ ¿adnego z nich.}
+{160}{}{Ludzie polowali na koty, bo byÅ‚y Å‚atwym Å‚upem. Nie znajdziesz tutaj juÅ¼ Å¼adnego z nich.}
 {161}{}{To chore!}
-{162}{}{Mogê to zrozumieæ.}
-{163}{}{To siê dzia³o z dzikimi kotami, ale s¹dzê, ¿e spotka³o te¿ Pieszczoszkê. Teraz ju¿ wiem dlaczego Mama zawsze bacznie jej pilnowa³a.}
+{162}{}{MogÄ™ to zrozumieÄ‡.}
+{163}{}{To siÄ™ dziaÅ‚o z dzikimi kotami, ale sÄ…dzÄ™, Å¼e spotkaÅ‚o teÅ¼ PieszczoszkÄ™. Teraz juÅ¼ wiem dlaczego Mama zawsze bacznie jej pilnowaÅ‚a.}
 {164}{}{To smutne.}
 {165}{}{Przykro mi.}
 {166}{}{Ach...}
-{167}{}{Jest mi smutno, gdy o tym myœlê...}
+{167}{}{Jest mi smutno, gdy o tym myÅ›lÄ™...}
 {168}{}{Bywaj.}
-{169}{}{Stacy opowiedzia³a ci swoj¹ s³odk¹ historiê o ukochanej kotce Pieszczoszce.}
+{169}{}{Stacy opowiedziaÅ‚a ci swojÄ… sÅ‚odkÄ… historiÄ™ o ukochanej kotce Pieszczoszce.}

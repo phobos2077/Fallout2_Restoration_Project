@@ -3,14 +3,14 @@
 {102}{}{Un des derniers individus restants de cette tribu.}
 {200}{}{Ta personne n'est pas la bienvenue ici.}
 {201}{}{Les esprits ne t'aiment pas.}
-{202}{}{Va-t-en étranger.}
-{203}{}{Pourquoi nous harcèles-tu ?}
+{202}{}{Va-t-en Ã©tranger.}
+{203}{}{Pourquoi nous harcÃ¨les-tu ?}
 {204}{}{Bienvenue guerrier.}
 {205}{}{Ta personne sera toujours la bienvenue ici.}
-{206}{}{Les esprits t'acceptent comme l'un des nôtres désormais.}
-{207}{}{Merci de nous avoir aidés.}
-{208}{}{Je pensais que les étrangers étaient maléfiques. Ce n'est pas le cas...}
-{209}{}{Ne fais pas ça !}
+{206}{}{Les esprits t'acceptent comme l'un des nÃ´tres dÃ©sormais.}
+{207}{}{Merci de nous avoir aidÃ©s.}
+{208}{}{Je pensais que les Ã©trangers Ã©taient malÃ©fiques. Ce n'est pas le cas...}
+{209}{}{Ne fais pas Ã§a !}
 {210}{}{Les esclavagistes ne sont pas les bienvenus ici !}
-{300}{}{Nous sommes honorés de ta présence, héros.}
-{301}{}{Ta victoire sur l'Enclave restera gravée dans les mémoires. Tes ancêtres sont fiers de toi.}
+{300}{}{Nous sommes honorÃ©s de ta prÃ©sence, hÃ©ros.}
+{301}{}{Ta victoire sur l'Enclave restera gravÃ©e dans les mÃ©moires. Tes ancÃªtres sont fiers de toi.}

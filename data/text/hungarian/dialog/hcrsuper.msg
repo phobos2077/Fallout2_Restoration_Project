@@ -1,54 +1,54 @@
-{100}{}{Egy furcsa, rongyosb?r?, mutáns valamit látsz, aminek rémes a mosolya.}
-{101}{}{A finomító felügyel?jét látod.}
-{102}{}{Egy ghoult látsz. A b?re úgy fest, mintha bármelyik pillanatban hajlandó lenne elválni gazdájától. Úgy t?nik, a többiek így is befogadták.}
-{103}{}{Ide tilos bejönni!}
+{100}{}{Egy furcsa, rongyosb?r?, mutÃ¡ns valamit lÃ¡tsz, aminek rÃ©mes a mosolya.}
+{101}{}{A finomÃ­tÃ³ felÃ¼gyel?jÃ©t lÃ¡tod.}
+{102}{}{Egy ghoult lÃ¡tsz. A b?re Ãºgy fest, mintha bÃ¡rmelyik pillanatban hajlandÃ³ lenne elvÃ¡lni gazdÃ¡jÃ¡tÃ³l. Ãšgy t?nik, a tÃ¶bbiek Ã­gy is befogadtÃ¡k.}
+{103}{}{Ide tilos bejÃ¶nni!}
 {104}{}{Mit akarsz?}
-{105}{}{Da jagga! Ííp úúp op!}
+{105}{}{Da jagga! ÃÃ­p ÃºÃºp op!}
 {106}{}{Nemtom.}
-{107}{}{Van nálam egy kis finomítani való érc.}
+{107}{}{Van nÃ¡lam egy kis finomÃ­tani valÃ³ Ã©rc.}
 {108}{}{Ki vagy te?}
-{109}{}{Mi ez a hely tulajdonképpen?}
-{110}{}{Szeretnék venni egy kevéske uránt.}
+{109}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{110}{}{SzeretnÃ©k venni egy kevÃ©ske urÃ¡nt.}
 {111}{}{Semmi.}
-{112}{}{Felejtse el! Üdv!}
-{113}{}{Figyelj, fiam, sajnálom, hogy nincs agyad, de nem maradhatsz itt. T?nés kifelé.}
+{112}{}{Felejtse el! Ãœdv!}
+{113}{}{Figyelj, fiam, sajnÃ¡lom, hogy nincs agyad, de nem maradhatsz itt. T?nÃ©s kifelÃ©.}
 {114}{}{[DONE]}
-{115}{}{Nem maradhatsz itt! Veszélyes. Menj innen!}
+{115}{}{Nem maradhatsz itt! VeszÃ©lyes. Menj innen!}
 {116}{}{[DONE]}
-{117}{}{Nagyszer?! 1000 dollár lesz, alku nincs. Talán drágának találod, de ez semmi ahhoz képest, amit a végtermékért kaphatsz egy megfelel? vev?t?l.}
-{118}{}{Áll az alku.}
-{119}{}{1000 dollár? Ez nevetséges. Verd ki a fejedb?l!}
-{120}{}{Én vagyok a finomító felügyel?je. Mit akarsz?}
-{121}{}{Mi ez a hely tulajdonképpen?}
-{122}{}{Van nálam némi érc finomítás céljából.}
-{123}{}{Szeretnék venni egy kevéske uránt.}
+{117}{}{Nagyszer?! 1000 dollÃ¡r lesz, alku nincs. TalÃ¡n drÃ¡gÃ¡nak talÃ¡lod, de ez semmi ahhoz kÃ©pest, amit a vÃ©gtermÃ©kÃ©rt kaphatsz egy megfelel? vev?t?l.}
+{118}{}{Ãll az alku.}
+{119}{}{1000 dollÃ¡r? Ez nevetsÃ©ges. Verd ki a fejedb?l!}
+{120}{}{Ã‰n vagyok a finomÃ­tÃ³ felÃ¼gyel?je. Mit akarsz?}
+{121}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{122}{}{Van nÃ¡lam nÃ©mi Ã©rc finomÃ­tÃ¡s cÃ©ljÃ¡bÃ³l.}
+{123}{}{SzeretnÃ©k venni egy kevÃ©ske urÃ¡nt.}
 {124}{}{Semmi.}
-{125}{}{Ez Broken Hills finomítója. Itt tisztítjuk meg a bányából kiásott ércet. Mit akarsz?}
-{126}{}{Mi ez a hely tulajdonképpen?}
-{127}{}{Van nálam némi érc finomítás céljából.}
-{128}{}{Szeretnék venni egy kevéske uránt.}
+{125}{}{Ez Broken Hills finomÃ­tÃ³ja. Itt tisztÃ­tjuk meg a bÃ¡nyÃ¡bÃ³l kiÃ¡sott Ã©rcet. Mit akarsz?}
+{126}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{127}{}{Van nÃ¡lam nÃ©mi Ã©rc finomÃ­tÃ¡s cÃ©ljÃ¡bÃ³l.}
+{128}{}{SzeretnÃ©k venni egy kevÃ©ske urÃ¡nt.}
 {129}{}{Semmi.}
-{130}{}{Nincs nálad elég pénz. Gyere vissza, ha lesz!}
+{130}{}{Nincs nÃ¡lad elÃ©g pÃ©nz. Gyere vissza, ha lesz!}
 {131}{}{[DONE]}
-{132}{}{Rendben. Adj egy napot, és már viheted is.}
-{133}{}{Nagyszer?! Viszlát!}
+{132}{}{Rendben. Adj egy napot, Ã©s mÃ¡r viheted is.}
+{133}{}{Nagyszer?! ViszlÃ¡t!}
 {134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional should do it. You want it or not?}
 {135}{}{Igen.}
 {136}{}{Nem.}
-{137}{}{Rendben. Akkor nincs itt semmi keresnivalód! Kérlek, távozz, hadd folytassuk a munkánkat!}
-{138}{}{Viszlát!}
-{139}{}{Ez nevetséges! Ebb?l él a város! Nem adhatunk el uránt.}
+{137}{}{Rendben. Akkor nincs itt semmi keresnivalÃ³d! KÃ©rlek, tÃ¡vozz, hadd folytassuk a munkÃ¡nkat!}
+{138}{}{ViszlÃ¡t!}
+{139}{}{Ez nevetsÃ©ges! Ebb?l Ã©l a vÃ¡ros! Nem adhatunk el urÃ¡nt.}
 {140}{}{Akkor meghaltok!}
-{141}{}{Remek. Üdv!}
-{142}{}{Hé! Menj onnan, vagy számolnod kell a következményekkel!}
+{141}{}{Remek. Ãœdv!}
+{142}{}{HÃ©! Menj onnan, vagy szÃ¡molnod kell a kÃ¶vetkezmÃ©nyekkel!}
 {143}{}{Get out of my refinery. Now!}
-{144}{}{Dolgozunk az érced finomításán. Kell még egy kis id?. Ez a fajta munka nem megy tapsra.}
-{145}{}{Kérdeznék pár dolgot.}
-{146}{}{Remek. Üdv!}
-{147}{}{Kész ez érced. Miel?tt elvinnéd, figyelj: a városunknak nagy szüksége van az uránra. Ha ezt nekünk adod, visszafizetem a pénzed. Mi a válaszod?}
-{148}{}{Szó sem lehet róla!}
+{144}{}{Dolgozunk az Ã©rced finomÃ­tÃ¡sÃ¡n. Kell mÃ©g egy kis id?. Ez a fajta munka nem megy tapsra.}
+{145}{}{KÃ©rdeznÃ©k pÃ¡r dolgot.}
+{146}{}{Remek. Ãœdv!}
+{147}{}{KÃ©sz ez Ã©rced. Miel?tt elvinnÃ©d, figyelj: a vÃ¡rosunknak nagy szÃ¼ksÃ©ge van az urÃ¡nra. Ha ezt nekÃ¼nk adod, visszafizetem a pÃ©nzed. Mi a vÃ¡laszod?}
+{148}{}{SzÃ³ sem lehet rÃ³la!}
 {149}{}{Hogyne.}
-{150}{}{Rendben. Úgy legyen. Itt az érced. Most pedig távozz!}
-{151}{}{Viszlát!}
-{152}{}{Kösz szépen! Itt a pénzed.}
+{150}{}{Rendben. Ãšgy legyen. Itt az Ã©rced. Most pedig tÃ¡vozz!}
+{151}{}{ViszlÃ¡t!}
+{152}{}{KÃ¶sz szÃ©pen! Itt a pÃ©nzed.}
 {153}{}{Nem gond.}

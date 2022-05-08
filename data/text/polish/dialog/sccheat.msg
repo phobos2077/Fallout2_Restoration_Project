@@ -1,32 +1,32 @@
-{100}{}{Widzisz postaæ s³u¿¹c¹ do oszustw.}
-{101}{}{Tego goœcia nie powinno tu byæ.}
-{102}{}{Hej, to postaæ s³u¿¹ca do oszustw.}
+{100}{}{Widzisz postaÄ‡ sÅ‚uÅ¼Ä…cÄ… do oszustw.}
+{101}{}{Tego goÅ›cia nie powinno tu byÄ‡.}
+{102}{}{Hej, to postaÄ‡ sÅ‚uÅ¼Ä…ca do oszustw.}
 {103}{}{Hej, to boli.}
-{104}{}{Witaj. Co chcia³byœ, aby siê zdarzy³o?}
-{105}{}{Ustawianie znaczników Westina.}
+{104}{}{Witaj. Co chciaÅ‚byÅ›, aby siÄ™ zdarzyÅ‚o?}
+{105}{}{Ustawianie znacznikÃ³w Westina.}
 {106}{}{Zaznacz: akceptacja uciszenia Westina?}
 {107}{}{Odznacz: akceptacja uciszenia Westina.}
-{108}{}{Zaznacz: Westin nie ¿yje.}
-{109}{}{Odznacz: Westin nie ¿yje.}
-{110}{}{Zaznacz: uciszanie Westina odwo³ane.}
-{111}{}{Odznacz: uciszanie Westina odwo³ane.}
-{112}{}{Zaznacz: poznano fakty dotycz¹ce leków Westina.}
-{113}{}{Odznacz: poznano fakty dotycz¹ce leków Westina.}
+{108}{}{Zaznacz: Westin nie Å¼yje.}
+{109}{}{Odznacz: Westin nie Å¼yje.}
+{110}{}{Zaznacz: uciszanie Westina odwoÅ‚ane.}
+{111}{}{Odznacz: uciszanie Westina odwoÅ‚ane.}
+{112}{}{Zaznacz: poznano fakty dotyczÄ…ce lekÃ³w Westina.}
+{113}{}{Odznacz: poznano fakty dotyczÄ…ce lekÃ³w Westina.}
 {114}{}{Zaznacz: misja z Westinem nieudana.}
 {115}{}{Odznacz: misja z Westinem nieudana.}
 {116}{}{Zaznacz: misja z Westinem udana.}
 {117}{}{Odznacz: misja z Westinem udana.}
-{118}{}{Zaznacz: uciszanie Westina zauwa¿one.}
-{119}{}{Odznacz: uciszanie Westina zauwa¿one.}
-{120}{}{Ustawianie znaczników Carlsona.}
+{118}{}{Zaznacz: uciszanie Westina zauwaÅ¼one.}
+{119}{}{Odznacz: uciszanie Westina zauwaÅ¼one.}
+{120}{}{Ustawianie znacznikÃ³w Carlsona.}
 {121}{}{Zaznacz: uciszanie Carlsona zaakceptowane.}
 {122}{}{Odznacz: uciszanie Carlsona zaakceptowane.}
 {123}{}{Zaznacz: Carlson martwy.}
 {124}{}{Odznacz: Carlson martwy.}
 {125}{}{Zaznacz: zadanie ochrony Carlsona.}
 {126}{}{Odznacz: zadanie ochrony Carlsona.}
-{127}{}{Zaznacz: uciszanie Carlsona odwo³ane.}
-{128}{}{Odznacz: uciszanie Carlsona odwo³ane.}
+{127}{}{Zaznacz: uciszanie Carlsona odwoÅ‚ane.}
+{128}{}{Odznacz: uciszanie Carlsona odwoÅ‚ane.}
 {129}{}{Zaznacz: misja z Carlsonem udana.}
 {130}{}{Odznacz: misja z Carlsonem udana.}
 {131}{}{Zaznacz: misja z Carlsonem nieudana.}

@@ -1,42 +1,42 @@
-{100}{}{Tu vois un fantôme !}
-{101}{}{Tu vois le fantôme d'Anna.}
-{150}{}{C'est un fantôme. On n'en voit pas tous les jours.}
-{151}{}{Elle a l'air très tourmentée.}
+{100}{}{Tu vois un fantÃ´me !}
+{101}{}{Tu vois le fantÃ´me d'Anna.}
+{150}{}{C'est un fantÃ´me. On n'en voit pas tous les jours.}
+{151}{}{Elle a l'air trÃ¨s tourmentÃ©e.}
 {152}{}{[PARLER]}
-{153}{}{Oh, quelle douleur ! Ca brûle !}
-{154}{}{Quel est le problème ?}
+{153}{}{Oh, quelle douleur ! Ca brÃ»le !}
+{154}{}{Quel est le problÃ¨me ?}
 {155}{}{Qui es-tu ?}
-{156}{}{Va-t'en, esprit maléfique !}
-{157}{}{Je m'arrête et je frappe à toutes les portes. Mais personne ne vient. Personne ne m'entend.}
+{156}{}{Va-t'en, esprit malÃ©fique !}
+{157}{}{Je m'arrÃªte et je frappe Ã  toutes les portes. Mais personne ne vient. Personne ne m'entend.}
 {158}{}{Je t'entends moi. Que se passe-t-il ?}
-{159}{}{Madame, j'crois qu'vous devriez éteindre votre Homme Invisible...}
-{160}{}{Où est-il ? Je ne le trouve pas ? Je suis perdue ! Oh...}
-{161}{}{Que cherches-tu ? Je peux peut-être t'aider.}
-{162}{}{Il faudrait vraiment que tu arrêtes de marmonner et que tu articules.}
-{163}{}{Mon médaillon ! Je ne l'ai plus. Au voleur ! Au voleur !}
+{159}{}{Madame, j'crois qu'vous devriez Ã©teindre votre Homme Invisible...}
+{160}{}{OÃ¹ est-il ? Je ne le trouve pas ? Je suis perdue ! Oh...}
+{161}{}{Que cherches-tu ? Je peux peut-Ãªtre t'aider.}
+{162}{}{Il faudrait vraiment que tu arrÃªtes de marmonner et que tu articules.}
+{163}{}{Mon mÃ©daillon ! Je ne l'ai plus. Au voleur ! Au voleur !}
 {164}{}{Eh, j'viens d'arriver. J'ai rien fait moi !}
-{165}{}{Je peux t'aider à le chercher ?}
+{165}{}{Je peux t'aider Ã  le chercher ?}
 {166}{}{Oh, destin cruel !}
 {167}{}{Tu m'entends ?}
-{168}{}{Allez à plus, Mademoiselle le fantôme.}
+{168}{}{Allez Ã  plus, Mademoiselle le fantÃ´me.}
 {169}{}{Salut. Je vais essayer de me rendre utile.}
-{170}{}{Mon médaillon ! Donne-le-moi !!! Oh !!!}
-{171}{}{Pas question ! C'est moi qui l'ai trouvé, il est à moi !}
-{172}{}{D'accord. Voilà.}
-{173}{}{Voilà. Je te souhaite de trouver le repos de l'âme.}
+{170}{}{Mon mÃ©daillon ! Donne-le-moi !!! Oh !!!}
+{171}{}{Pas question ! C'est moi qui l'ai trouvÃ©, il est Ã  moi !}
+{172}{}{D'accord. VoilÃ .}
+{173}{}{VoilÃ . Je te souhaite de trouver le repos de l'Ã¢me.}
 {174}{}{Ok.}
 {175}{}{Non.}
-{176}{}{Mon médaillon, mon médaillon ! J'arrive, papa ! J'arrive !}
+{176}{}{Mon mÃ©daillon, mon mÃ©daillon ! J'arrive, papa ! J'arrive !}
 {177}{}{Salut.}
 {178}{}{Attends ! Ne pars pas !}
-{179}{}{Va dans la lumière !}
-{200}{}{Où peut-il bien être ?}
+{179}{}{Va dans la lumiÃ¨re !}
+{200}{}{OÃ¹ peut-il bien Ãªtre ?}
 {201}{}{Ohhh.}
-{202}{}{Maman ? Papa ? Où êtes-vous ?}
+{202}{}{Maman ? Papa ? OÃ¹ Ãªtes-vous ?}
 {203}{}{Je ne le trouve pas !}
 {500}{}{Maman... Papa... J'arrive...}
 {501}{}{Il fait tellement clair...}
-{502}{}{Grand-mère, je te vois...}
+{502}{}{Grand-mÃ¨re, je te vois...}
 {503}{}{Oh, c'est le gentil M. Cain. Ca fait plaisir de vous revoir...}
 {550}{}{Cette baraque est clean !}
 {551}{}{Ooh, joli squelette.}

@@ -1,6 +1,6 @@
 {100}{}{Skradaj}
 {101}{}{POZIOM}
-{102}{}{ÆPUN}
+{102}{}{Ä†PUN}
 {103}{}{TRUCIZNA}
 {104}{}{NAPROMIENIOWANIE}
 {105}{}{OKALECZENIE}

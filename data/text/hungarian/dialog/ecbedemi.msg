@@ -1,10 +1,10 @@
 {100}{}{You see a man in power armor.}
 {101}{}{This is Sir Bedemir.}
-{102}{}{Úgy t?nik, mélyen gondolkodóba esett.}
-{103}{}{Sir Bedemir vagyok, szolgálatodra.}
-{104}{}{...és így gy?z?dtek meg róla, hogy a Föld banán alakú.}
-{105}{}{Mondd csak el még egyszer, hogy lehet birkavesével földrengést megel?zni?}
-{106}{}{Most gondolkodnom kell. Kérlek, zavarj valaki mást!}
-{200}{}{Hé, jéghidegek a kezeid!}
+{102}{}{Ãšgy t?nik, mÃ©lyen gondolkodÃ³ba esett.}
+{103}{}{Sir Bedemir vagyok, szolgÃ¡latodra.}
+{104}{}{...Ã©s Ã­gy gy?z?dtek meg rÃ³la, hogy a FÃ¶ld banÃ¡n alakÃº.}
+{105}{}{Mondd csak el mÃ©g egyszer, hogy lehet birkavesÃ©vel fÃ¶ldrengÃ©st megel?zni?}
+{106}{}{Most gondolkodnom kell. KÃ©rlek, zavarj valaki mÃ¡st!}
+{200}{}{HÃ©, jÃ©ghidegek a kezeid!}
 {201}{}{Az nem a tied!}
-{202}{}{Hé, azok az én cuccaim!}
+{202}{}{HÃ©, azok az Ã©n cuccaim!}

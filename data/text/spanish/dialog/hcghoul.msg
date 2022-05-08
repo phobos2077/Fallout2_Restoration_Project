@@ -1,84 +1,84 @@
-{100}{}{Ves a un extraño mutante, con la piel moteada y una espantosa sonrisa.}
-{101}{}{Ves a un necrófago de la ciudad.}
-{102}{}{Ves a un necrófago. Su piel parece a punto de desprenderse del cuerpo de la criatura. También parece ser bien aceptado por los demás habitantes.}
-{103}{}{El trabajo en la refinería es duro.}
-{104}{}{Los mutantes y los humanos parecen estar al límite últimamente.}
-{105}{}{No me gusta trabajar cerca del ácido.}
-{106}{}{Parece que esta ciudad está demasiado concurrida últimamente.}
-{107}{}{Los humanos no están mal del todo.}
+{100}{}{Ves a un extraÃ±o mutante, con la piel moteada y una espantosa sonrisa.}
+{101}{}{Ves a un necrÃ³fago de la ciudad.}
+{102}{}{Ves a un necrÃ³fago. Su piel parece a punto de desprenderse del cuerpo de la criatura. TambiÃ©n parece ser bien aceptado por los demÃ¡s habitantes.}
+{103}{}{El trabajo en la refinerÃ­a es duro.}
+{104}{}{Los mutantes y los humanos parecen estar al lÃ­mite Ãºltimamente.}
+{105}{}{No me gusta trabajar cerca del Ã¡cido.}
+{106}{}{Parece que esta ciudad estÃ¡ demasiado concurrida Ãºltimamente.}
+{107}{}{Los humanos no estÃ¡n mal del todo.}
 {108}{}{Bienvenido a Broken Hills.}
-{109}{}{¿A dónde ha ido Hank? ¿Alguien ha visto a Hank?}
-{110}{}{Hemos trabajado duro para hacer de Broken Hills lo que es hoy en día.}
-{111}{}{¿Cuando es la próxima comida, a todo esto?}
-{112}{}{¿Chad fue arrestado? Los humanos deberían avergonzarse de sí mismos.}
+{109}{}{Â¿A dÃ³nde ha ido Hank? Â¿Alguien ha visto a Hank?}
+{110}{}{Hemos trabajado duro para hacer de Broken Hills lo que es hoy en dÃ­a.}
+{111}{}{Â¿Cuando es la prÃ³xima comida, a todo esto?}
+{112}{}{Â¿Chad fue arrestado? Los humanos deberÃ­an avergonzarse de sÃ­ mismos.}
 {113}{}{No todos los humanos son como Chad.}
-{114}{}{Menudo coñazo con lo de Chad, amigo.}
-{115}{}{Me pregunto si podré tomar parte en el asunto de esa caravana…}
-{116}{}{¿A dónde ha ido Hank? ¿Alguien ha visto a Hank?}
-{117}{}{Hemos trabajado duro para hacer de Broken Hills lo que es hoy en día.}
-{118}{}{¿Cuando es la próxima comida, a todo esto?}
-{119}{}{No necesitas a un hombre del tiempo para saber por dónde sopla el viento.}
-{120}{}{¡Alto! Hey... ¿qué es ese ruido?}
-{121}{}{¡Abajo con los opresores!}
-{122}{}{¿Cómo pudiste matar así a Chad?}
-{123}{}{¿Qué, Chad se resistió violentamente al arresto, o algo así?}
-{124}{}{Veo un día negro para Broken Hills.}
-{125}{}{Chad consiguió aquello que buscaba.}
+{114}{}{Menudo coÃ±azo con lo de Chad, amigo.}
+{115}{}{Me pregunto si podrÃ© tomar parte en el asunto de esa caravanaâ€¦}
+{116}{}{Â¿A dÃ³nde ha ido Hank? Â¿Alguien ha visto a Hank?}
+{117}{}{Hemos trabajado duro para hacer de Broken Hills lo que es hoy en dÃ­a.}
+{118}{}{Â¿Cuando es la prÃ³xima comida, a todo esto?}
+{119}{}{No necesitas a un hombre del tiempo para saber por dÃ³nde sopla el viento.}
+{120}{}{Â¡Alto! Hey... Â¿quÃ© es ese ruido?}
+{121}{}{Â¡Abajo con los opresores!}
+{122}{}{Â¿CÃ³mo pudiste matar asÃ­ a Chad?}
+{123}{}{Â¿QuÃ©, Chad se resistiÃ³ violentamente al arresto, o algo asÃ­?}
+{124}{}{Veo un dÃ­a negro para Broken Hills.}
+{125}{}{Chad consiguiÃ³ aquello que buscaba.}
 {126}{}{Que el castigo se ajuste al crimen.}
-{127}{}{Pobre Chad. Al menos no tenía familia.}
-{128}{}{Los humanos están cabreados por lo de Chad.}
-{129}{}{Será mejor que los mutantes se anden con ojo… los humanos podrían querer venganza por Chad.}
-{130}{}{¿Quién haría algo tan monstruoso?}
+{127}{}{Pobre Chad. Al menos no tenÃ­a familia.}
+{128}{}{Los humanos estÃ¡n cabreados por lo de Chad.}
+{129}{}{SerÃ¡ mejor que los mutantes se anden con ojoâ€¦ los humanos podrÃ­an querer venganza por Chad.}
+{130}{}{Â¿QuiÃ©n harÃ­a algo tan monstruoso?}
 {131}{}{Sin los mutantes, estamos indefensos ante los saqueadores.}
-{132}{}{Marcus... Zaius... Francis... todos los demás… ya no están…}
+{132}{}{Marcus... Zaius... Francis... todos los demÃ¡sâ€¦ ya no estÃ¡nâ€¦}
 {133}{}{El futuro es siniestro.}
-{134}{}{¿Fueron los humanos quienes hicieron esto? ¿Fue Cameron?}
-{135}{}{¿Quién nos liderará ahora que Marcus se ha ido?}
-{136}{}{¿Dónde podremos encontrar refugio ahora?}
-{137}{}{Esos bastardos de la RNC. Será mejor que no vuelvan por aquí nunca más, no si saben lo que les conviene.}
-{138}{}{Me pregunto si NUESTROS humanos estaban detrás de esto…}
+{134}{}{Â¿Fueron los humanos quienes hicieron esto? Â¿Fue Cameron?}
+{135}{}{Â¿QuiÃ©n nos liderarÃ¡ ahora que Marcus se ha ido?}
+{136}{}{Â¿DÃ³nde podremos encontrar refugio ahora?}
+{137}{}{Esos bastardos de la RNC. SerÃ¡ mejor que no vuelvan por aquÃ­ nunca mÃ¡s, no si saben lo que les conviene.}
+{138}{}{Me pregunto si NUESTROS humanos estaban detrÃ¡s de estoâ€¦}
 {139}{}{Gracias por salvar a los mutantes.}
-{140}{}{Tendríamos que linchar al bastardo que intentó envenenar a nuestros mutantes.}
-{141}{}{Han pasado tantas cosas… que me da vueltas la cabeza…}
-{142}{}{Probablemente debería volver al trabajo.}
-{143}{}{¿Quién liberaría a ese par de buenos para nada? Y además, matando a guardias… Marcus debe estar bien cabreado.}
-{144}{}{Se está tramando algo sangriento en la ciudad.}
-{145}{}{¿Has notado que últimamente en la ciudad huele a problemas?}
-{146}{}{Pensé que éste sería un lugar pacífico en el que asentarse. Parece que estaba equivocado.}
-{147}{}{¿Quién hubiera pensado que esa clase de violencia llegaría a Broken Hills?}
-{148}{}{Franc y Manson… alguien desea la muerte de los mutantes.}
-{149}{}{¿Cómo pudiste sacar a esos dos de la cárcel?}
-{150}{}{Deberías avergonzarte de ti mismo.}
-{151}{}{Espero que estés en lo cierto y Franc y Manson no supongan una amenaza… los mutantes te culparán a ti de ello.}
-{152}{}{Franc y Manson... de vuelta en casa... uf, chico. Quizá me vaya de la ciudad.}
-{153}{}{Se está tramando algo sangriento en la ciudad.}
-{154}{}{¿Has notado que últimamente en la ciudad huele a problemas?}
-{155}{}{¡Bien hecho, llevando a esos capullos a la justicia!}
-{156}{}{Siempre pensé que Jacob era un poco raro.}
-{157}{}{Eso le enseñará a los humanos que no se pueden saltar las leyes.}
-{158}{}{Venga ya… ¿Aileen? No creo que ella lo hiciera.}
-{159}{}{¡Menudo mazazo a los humanos! Ahora mismo estarán realmente avergonzados de sí mismos. Muy a la defensiva.}
-{160}{}{¿Conseguirá Broken Hills algún día acabar las disputas entre humanos y mutantes?}
-{161}{}{Esos bastardos, Jacob y Aileen, siempre me trataron como un ciudadano de segunda clase. Esto les enseñará.}
-{162}{}{No creo que Broken Hills llegue a recuperarse de la pérdida de la mina…}
+{140}{}{TendrÃ­amos que linchar al bastardo que intentÃ³ envenenar a nuestros mutantes.}
+{141}{}{Han pasado tantas cosasâ€¦ que me da vueltas la cabezaâ€¦}
+{142}{}{Probablemente deberÃ­a volver al trabajo.}
+{143}{}{Â¿QuiÃ©n liberarÃ­a a ese par de buenos para nada? Y ademÃ¡s, matando a guardiasâ€¦ Marcus debe estar bien cabreado.}
+{144}{}{Se estÃ¡ tramando algo sangriento en la ciudad.}
+{145}{}{Â¿Has notado que Ãºltimamente en la ciudad huele a problemas?}
+{146}{}{PensÃ© que Ã©ste serÃ­a un lugar pacÃ­fico en el que asentarse. Parece que estaba equivocado.}
+{147}{}{Â¿QuiÃ©n hubiera pensado que esa clase de violencia llegarÃ­a a Broken Hills?}
+{148}{}{Franc y Mansonâ€¦ alguien desea la muerte de los mutantes.}
+{149}{}{Â¿CÃ³mo pudiste sacar a esos dos de la cÃ¡rcel?}
+{150}{}{DeberÃ­as avergonzarte de ti mismo.}
+{151}{}{Espero que estÃ©s en lo cierto y Franc y Manson no supongan una amenazaâ€¦ los mutantes te culparÃ¡n a ti de ello.}
+{152}{}{Franc y Manson... de vuelta en casa... uf, chico. QuizÃ¡ me vaya de la ciudad.}
+{153}{}{Se estÃ¡ tramando algo sangriento en la ciudad.}
+{154}{}{Â¿Has notado que Ãºltimamente en la ciudad huele a problemas?}
+{155}{}{Â¡Bien hecho, llevando a esos capullos a la justicia!}
+{156}{}{Siempre pensÃ© que Jacob era un poco raro.}
+{157}{}{Eso le enseÃ±arÃ¡ a los humanos que no se pueden saltar las leyes.}
+{158}{}{Venga yaâ€¦ Â¿Aileen? No creo que ella lo hiciera.}
+{159}{}{Â¡Menudo mazazo a los humanos! Ahora mismo estarÃ¡n realmente avergonzados de sÃ­ mismos. Muy a la defensiva.}
+{160}{}{Â¿ConseguirÃ¡ Broken Hills algÃºn dÃ­a acabar las disputas entre humanos y mutantes?}
+{161}{}{Esos bastardos, Jacob y Aileen, siempre me trataron como un ciudadano de segunda clase. Esto les enseÃ±arÃ¡.}
+{162}{}{No creo que Broken Hills llegue a recuperarse de la pÃ©rdida de la minaâ€¦}
 {163}{}{Todos los mutantes... muertos...}
-{164}{}{…ahora nunca sabremos si habríamos podido tener paz entre mutantes y humanos…}
-{165}{}{Es hora de marcharse y ver lo que el resto del mundo puede ofrecer… no merece la pena desenterrar la mina.}
-{166}{}{Me pregunto si en algún otro lugar de California necesitan refinadores de uranio.}
-{167}{}{Supongo que tendré que volver a Gecko ahora…}
+{164}{}{â€¦ahora nunca sabremos si habrÃ­amos podido tener paz entre mutantes y humanosâ€¦}
+{165}{}{Es hora de marcharse y ver lo que el resto del mundo puede ofrecerâ€¦ no merece la pena desenterrar la mina.}
+{166}{}{Me pregunto si en algÃºn otro lugar de California necesitan refinadores de uranio.}
+{167}{}{Supongo que tendrÃ© que volver a Gecko ahoraâ€¦}
 {168}{}{Jodido bastardo.}
-{169}{}{¿No tienes vergüenza ni decencia?}
-{170}{}{¿Por qué intentas destruir nuestra ciudad?}
-{171}{}{No entiendes que al destruir la mina nos destruyes a nosotros también?}
+{169}{}{Â¿No tienes vergÃ¼enza ni decencia?}
+{170}{}{Â¿Por quÃ© intentas destruir nuestra ciudad?}
+{171}{}{No entiendes que al destruir la mina nos destruyes a nosotros tambiÃ©n?}
 {172}{}{No quiero hablar contigo.}
 {173}{}{Vete.}
 {174}{}{Buen trabajo.}
-{175}{}{Qué desgracia que esa gente muriera bajo la ciudad.}
-{176}{}{Me pregunto cómo esa gente cavó los túneles sin que lo notásemos.}
+{175}{}{QuÃ© desgracia que esa gente muriera bajo la ciudad.}
+{176}{}{Me pregunto cÃ³mo esa gente cavÃ³ los tÃºneles sin que lo notÃ¡semos.}
 {177}{}{Ahora sabemos lo que tramaban Franc y Manson.}
 {178}{}{Esa pobre gente. Y sus pobres familias.}
-{180}{}{No me hagas daño.}
-{181}{}{Déjame tranquilo.}
-{182}{}{¡No! ¡No! ¡No!}
+{180}{}{No me hagas daÃ±o.}
+{181}{}{DÃ©jame tranquilo.}
+{182}{}{Â¡No! Â¡No! Â¡No!}
 {183}{}{Voy a irme ahora.}
-{184}{}{¡Vete de nuestra ciudad!}
+{184}{}{Â¡Vete de nuestra ciudad!}

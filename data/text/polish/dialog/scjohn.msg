@@ -1,13 +1,13 @@
-{100}{}{Widzisz osiedleñca.}
+{100}{}{Widzisz osiedleÅ„ca.}
 {101}{}{Widzisz Billa, bezdomnego.}
-{102}{}{Widzisz mê¿czyznê w œrednim wieku nosz¹cego zniszczone ubranie.}
-{103}{}{Przykro mi, przybyszu. Nie mam czasu z tob¹ rozmawiaæ.}
-{104}{}{Dlaczego nie rozmawiaæ?}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ w Å›rednim wieku noszÄ…cego zniszczone ubranie.}
+{103}{}{Przykro mi, przybyszu. Nie mam czasu z tobÄ… rozmawiaÄ‡.}
+{104}{}{Dlaczego nie rozmawiaÄ‡?}
 {105}{}{Ok, papa.}
-{106}{}{W porz¹dku, do zobaczenia.}
-{107}{}{Zaczekaj. Dlaczego nie chcesz ze mn¹ porozmawiaæ?}
-{108}{}{Jesteœmy bardzo zamkniêt¹ spo³ecznoœci¹ i nie chcemy ¿adnych problemów ani zak³óceñ z zewn¹trz. Proszê, zostaw nas w spokoju.}
-{109}{}{W porz¹dku.}
-{110}{}{Witaj... i ¿egnaj.}
-{111}{}{Dziêkujê za wszystko, co zosta³o przez ciebie uczynione. Przepraszam za ch³odne przyjêcie.}
-{112}{}{Pierdol siê, dupku!}
+{106}{}{W porzÄ…dku, do zobaczenia.}
+{107}{}{Zaczekaj. Dlaczego nie chcesz ze mnÄ… porozmawiaÄ‡?}
+{108}{}{JesteÅ›my bardzo zamkniÄ™tÄ… spoÅ‚ecznoÅ›ciÄ… i nie chcemy Å¼adnych problemÃ³w ani zakÅ‚Ã³ceÅ„ z zewnÄ…trz. ProszÄ™, zostaw nas w spokoju.}
+{109}{}{W porzÄ…dku.}
+{110}{}{Witaj... i Å¼egnaj.}
+{111}{}{DziÄ™kujÄ™ za wszystko, co zostaÅ‚o przez ciebie uczynione. Przepraszam za chÅ‚odne przyjÄ™cie.}
+{112}{}{Pierdol siÄ™, dupku!}

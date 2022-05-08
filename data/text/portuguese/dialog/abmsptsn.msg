@@ -1,9 +1,9 @@
-{100}{}{Você vê a Sra Peterson.}
-{101}{}{Você vê uma jovem e bonita mulher. Ela sorri, quando ela o vê.}
+{100}{}{VocÃª vÃª a Sra Peterson.}
+{101}{}{VocÃª vÃª uma jovem e bonita mulher. Ela sorri, quando ela o vÃª.}
 {200}{}{Bem-vindo ao mosteiro, amigo.}
 {201}{}{Fale com o meu marido se precisar de algo.}
-{202}{}{Dia lindo, não é?}
+{202}{}{Dia lindo, nÃ£o Ã©?}
 {300}{}{Bem-vindo ao mosteiro, amigo.}
 {301}{}{Fale com o meu marido se precisar de algo.}
-{302}{}{Noite linda, não é?}
-{400}{}{Eu não tenho nada a dizer para você. Por favor, vá embora.}
+{302}{}{Noite linda, nÃ£o Ã©?}
+{400}{}{Eu nÃ£o tenho nada a dizer para vocÃª. Por favor, vÃ¡ embora.}

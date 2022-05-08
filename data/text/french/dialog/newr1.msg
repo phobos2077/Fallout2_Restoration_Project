@@ -1,7 +1,7 @@
-{100}{}{Bienvenue à New Reno, la plus grande petite ville au monde. Les feux qui brûlent dans les poubelles et les néons donnent à la ville une lueur infernale.}
-{101}{}{Devant toi, se trouve une plaine morne ponctuée de tombes. Des restes de cadavres sont attachés à des poteaux ensanglantés qui se dressent du sol.}
-{102}{}{Ca ressemble à une station de rechargement électrique d'avant-guerre. Un cimetière de carcasses de voitures entoure les bâtiments.}
-{103}{}{Tu arrives aux Etables. Une nouvelle clôture barbelée entoure les deux entrées de la ferme.}
+{100}{}{Bienvenue Ã  New Reno, la plus grande petite ville au monde. Les feux qui brÃ»lent dans les poubelles et les nÃ©ons donnent Ã  la ville une lueur infernale.}
+{101}{}{Devant toi, se trouve une plaine morne ponctuÃ©e de tombes. Des restes de cadavres sont attachÃ©s Ã  des poteaux ensanglantÃ©s qui se dressent du sol.}
+{102}{}{Ca ressemble Ã  une station de rechargement Ã©lectrique d'avant-guerre. Un cimetiÃ¨re de carcasses de voitures entoure les bÃ¢timents.}
+{103}{}{Tu arrives aux Etables. Une nouvelle clÃ´ture barbelÃ©e entoure les deux entrÃ©es de la ferme.}
 {150}{}{[PRECEDENT]}
 {151}{}{[Plus]}
 {201}{}{Salvatore}
@@ -14,10 +14,10 @@
 {224}{}{}
 {300}{}{}
 {301}{}{Soupir}
-{302}{}{Araignée}
+{302}{}{AraignÃ©e}
 {303}{}{Rougeole}
 {304}{}{Professeur}
-{305}{}{Déménageur}
+{305}{}{DÃ©mÃ©nageur}
 {306}{}{Taureau}
 {307}{}{Capitaine}
 {308}{}{Chut}
@@ -27,13 +27,13 @@
 {312}{}{Tornade}
 {313}{}{La Mue}
 {314}{}{Macaque boy}
-{315}{}{Bosselé}
+{315}{}{BosselÃ©}
 {316}{}{Les Paluches}
 {317}{}{Gouch}
 {318}{}{Couperet}
 {319}{}{El manouche}
-{320}{}{L'infidèle}
-{321}{}{Roméo}
+{320}{}{L'infidÃ¨le}
+{321}{}{RomÃ©o}
 {322}{}{Vinnie}
 {323}{}{La Recrue}
 {324}{}{Le Silencieux}
@@ -43,28 +43,28 @@
 {328}{}{L'Epicier}
 {329}{}{Yeux de serpent}
 {330}{}{Le Loup}
-{331}{}{Tueur à gages}
+{331}{}{Tueur Ã  gages}
 {332}{}{Souriant}
 {333}{}{El diablo}
 {334}{}{Perle}
 {335}{}{Jimmy de Reno}
 {336}{}{Jade}
-{337}{}{Le Balafré}
+{337}{}{Le BalafrÃ©}
 {338}{}{Diamant}
 {339}{}{As}
 {340}{}{Jack le Borgne}
 {341}{}{Nikki}
-{342}{}{Le Glaçon}
+{342}{}{Le GlaÃ§on}
 {343}{}{La Ruse}
 {344}{}{Le Malin}
 {345}{}{Charlie}
-{346}{}{Véronique Partout}
+{346}{}{VÃ©ronique Partout}
 {347}{}{Dague}
 {348}{}{Yeux d'ange}
 {349}{}{La Combine}
 {350}{}{Le Requin}
 {351}{}{La Canaille}
-{352}{}{Le Révérend}
+{352}{}{Le RÃ©vÃ©rend}
 {353}{}{Magnum}
 {354}{}{Iceberg}
 {355}{}{Gina}
@@ -97,9 +97,9 @@
 {382}{}{Tueur}
 {383}{}{Santana}
 {384}{}{Joey}
-{385}{}{César}
+{385}{}{CÃ©sar}
 {386}{}{Mickey}
-{387}{}{La Dérive}
+{387}{}{La DÃ©rive}
 {388}{}{Tueur}
 {389}{}{Le Boucher}
 {390}{}{Rouge}
@@ -111,14 +111,14 @@
 {402}{}{Jenny la Tournoyante}
 {403}{}{Piston}
 {404}{}{Ouragan}
-{405}{}{Grand Méchant Mouthouh}
+{405}{}{Grand MÃ©chant Mouthouh}
 {406}{}{Elu}
 {407}{}{Taureau Furieux}
 {408}{}{LaMotta}
 {409}{}{La Luge}
 {410}{}{Joe le Tesson}
 {411}{}{Nancy de New Reno}
-{412}{}{Taureau Dégarni}
+{412}{}{Taureau DÃ©garni}
 {413}{}{Princesse}
 {414}{}{Le Duc}
 {415}{}{Machoman}
@@ -128,14 +128,14 @@
 {419}{}{Le Capitaine Crochet}
 {420}{}{Le Missile}
 {421}{}{Vilaine Fi-fille}
-{422}{}{Mâchoire d'acier}
+{422}{}{MÃ¢choire d'acier}
 {423}{}{Mur de pierre}
-{424}{}{La Tronçonneuse}
-{425}{}{Hélène Combine}
+{424}{}{La TronÃ§onneuse}
+{425}{}{HÃ©lÃ¨ne Combine}
 {426}{}{Tommy le Canon}
 {427}{}{La Veuve Noire}
 {428}{}{La Menace}
-{429}{}{Délilah}
+{429}{}{DÃ©lilah}
 {430}{}{Foudre}
 {431}{}{Jocco}
 {432}{}{la soeur d'Acier}
@@ -149,19 +149,19 @@
 {440}{}{La Matraque}
 {441}{}{Duchesse}
 {442}{}{Bulldozer}
-{443}{}{Grâce}
+{443}{}{GrÃ¢ce}
 {444}{}{Luc la Main de Fer}
 {445}{}{La Bonne Parole}
 {446}{}{Docteur Poing}
 {447}{}{Nonne Volante}
 {448}{}{Balboa}
-{449}{}{Léonardo DiCarpaccio}
+{449}{}{LÃ©onardo DiCarpaccio}
 {450}{}{Calamity Jane}
 {451}{}{Cobra}
 {452}{}{Meurtre Sanglant}
 {453}{}{Le Bourreau}
 {454}{}{La Locomotive}
-{455}{}{Super Mégère}
+{455}{}{Super MÃ©gÃ¨re}
 {456}{}{Jim de New Reno}
 {457}{}{Le Concasseur}
 {458}{}{Rico}
@@ -172,7 +172,7 @@
 {463}{}{Anne Halle}
 {464}{}{La Poisse}
 {465}{}{Le Char}
-{466}{}{La Châtaigne}
+{466}{}{La ChÃ¢taigne}
 {467}{}{Coquine}
 {468}{}{L'Alligator}
 {469}{}{L'Ecchymose}
@@ -180,7 +180,7 @@
 {471}{}{Verdict}
 {472}{}{Juge Jury}
 {473}{}{La Massue}
-{474}{}{Athéna}
+{474}{}{AthÃ©na}
 {475}{}{Chien Fou}
 {476}{}{}
 {496}{}{Grand Stu}
@@ -188,17 +188,17 @@
 {498}{}{X}
 {499}{}{Mon Nom}
 {500}{}{}
-{501}{}{Jérémy Mac Hulott}
+{501}{}{JÃ©rÃ©my Mac Hulott}
 {502}{}{Fredo Mercury}
 {503}{}{Paul Auchon}
 {504}{}{Marc Hassin}
 {505}{}{Bernard Kautique}
-{506}{}{Bernard Guilé}
+{506}{}{Bernard GuilÃ©}
 {507}{}{Bertrand Spire}
-{508}{}{Rémi Trayette}
+{508}{}{RÃ©mi Trayette}
 {509}{}{Patrick Afon}
 {510}{}{Matt Londi}
-{511}{}{André-Jacques Hulla}
+{511}{}{AndrÃ©-Jacques Hulla}
 {512}{}{Le "Marteau Poli"}
 {513}{}{Sylvain Donneur}
 {514}{}{Franck Laramasse}
@@ -218,7 +218,7 @@
 {528}{}{Ebineezer Courge}
 {529}{}{Ludovic Toyre}
 {530}{}{Arnold Lapainchasseur}
-{531}{}{Le "Démonte Pneu"}
+{531}{}{Le "DÃ©monte Pneu"}
 {532}{}{"35cm"}
 {533}{}{}
 {534}{}{}
@@ -240,13 +240,13 @@
 {550}{}{}
 {551}{}{Jaimie Trovite}
 {552}{}{Sophie Fonfec}
-{553}{}{Michèle Hullite}
+{553}{}{MichÃ¨le Hullite}
 {554}{}{Elisabeth Fessier}
 {555}{}{Chantal Goyave}
 {556}{}{Kate Brosse}
-{557}{}{Tétons d'or}
+{557}{}{TÃ©tons d'or}
 {558}{}{Jeanne Morose}
-{559}{}{Ophélie Summer}
+{559}{}{OphÃ©lie Summer}
 {560}{}{Charlotte Trampoline}
 {561}{}{Sylvie Triol}
 {562}{}{Edith Voulabha}
@@ -257,7 +257,7 @@
 {567}{}{Madame X}
 {568}{}{Glenda}
 {569}{}{Reine Elisabeth}
-{570}{}{Chatte à neuf vies}
+{570}{}{Chatte Ã  neuf vies}
 {571}{}{Charlotte aux fesses}
 {572}{}{La factrice}
 {573}{}{Suzy Q}
@@ -267,15 +267,15 @@
 {577}{}{La Dame de Pique}
 {578}{}{Opium}
 {579}{}{Brise-macho}
-{580}{}{Presse-purée}
-{581}{}{Sucette à l'Anis}
+{580}{}{Presse-purÃ©e}
+{581}{}{Sucette Ã  l'Anis}
 {582}{}{Rose Bonbon}
-{583}{}{Fée Lation}
+{583}{}{FÃ©e Lation}
 {584}{}{Miel}
-{585}{}{Tétons flingueurs}
-{586}{}{Sassé Dutrou}
-{587}{}{Gouinelèche Parltrou}
-{588}{}{Véronique Partout}
+{585}{}{TÃ©tons flingueurs}
+{586}{}{SassÃ© Dutrou}
+{587}{}{GouinelÃ¨che Parltrou}
+{588}{}{VÃ©ronique Partout}
 {589}{}{Anne Halle}
 {590}{}{Anne Husse}
 {591}{}{Fleure de pine}
@@ -290,8 +290,8 @@
 {700}{}{Sophie Nancier}
 {701}{}{Tony Gunn}
 {702}{}{"Acier" Mark Torrance}
-{703}{}{Xandre « La Chose Certaine » Holyland}
-{704}{}{Araignée}
+{703}{}{Xandre Â« La Chose Certaine Â» Holyland}
+{704}{}{AraignÃ©e}
 {705}{}{Svelte}
 {706}{}{Jacques Ledoux}
 {707}{}{Il Roche}
@@ -311,17 +311,17 @@
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
 {753}{}{Le Mastiquateur}
-{1000}{}{Jules te conduit aux quartiers en ruine entourant New Reno. Tu penses que tu n'aurais pas réussi à trouver cet endroit sans aide. Peu après ton arrivée, Jules disparaît.}
-{1100}{}{La piste mène aux quartiers en ruine entourant New Reno.}
-{1200}{}{Tu découvres une petite boîte métallique. Tu ne l'aurais pas trouvée si tu ne l'avais pas cherchée.}
-{1300}{}{Cody te conduit aux quartiers en ruine entourant New Reno et retourne en courant d'où il venait. Tu penses que tu n'aurais pas trouvé cet endroit sans aide.}
+{1000}{}{Jules te conduit aux quartiers en ruine entourant New Reno. Tu penses que tu n'aurais pas rÃ©ussi Ã  trouver cet endroit sans aide. Peu aprÃ¨s ton arrivÃ©e, Jules disparaÃ®t.}
+{1100}{}{La piste mÃ¨ne aux quartiers en ruine entourant New Reno.}
+{1200}{}{Tu dÃ©couvres une petite boÃ®te mÃ©tallique. Tu ne l'aurais pas trouvÃ©e si tu ne l'avais pas cherchÃ©e.}
+{1300}{}{Cody te conduit aux quartiers en ruine entourant New Reno et retourne en courant d'oÃ¹ il venait. Tu penses que tu n'aurais pas trouvÃ© cet endroit sans aide.}
 {1400}{}{Tu as vaincu ton premier adversaire.}
 {1401}{}{Tu as vaincu ton second adversaire.}
-{1402}{}{Tu as vaincu ton troisième adversaire.}
+{1402}{}{Tu as vaincu ton troisiÃ¨me adversaire.}
 {1403}{}{Tu as vaincu le Mastiquateur !}
 {1404}{}{Tu es devenu le Champion Poids Lourd de New Reno.}
 {1405}{}{Tu as vaincu ton dernier adversaire !}
-{1500}{}{Tu as convaincu Mme Wright de détruire les alambics.}
-{1550}{}{Tu as été témoin de la transaction secrète.}
+{1500}{}{Tu as convaincu Mme Wright de dÃ©truire les alambics.}
+{1550}{}{Tu as Ã©tÃ© tÃ©moin de la transaction secrÃ¨te.}
 {1600}{}{Dans le feu de la bataille, le Mastiquateur t'arrache l'oreille.}
 {1700}{}{Furieux, tu arraches l'oreille du Mastiquateur.}

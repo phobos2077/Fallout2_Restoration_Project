@@ -1,2 +1,2 @@
-{100}{}{Tu as pénétré dans la partie Ouest du village. Des tribals avec des cannes à pêche s'agitent par ici.}
-{101}{}{Tu es entré dans une petite caverne. Tu entends des clameurs plus loin dans la grotte.}
+{100}{}{Tu as pÃ©nÃ©trÃ© dans la partie Ouest du village. Des tribals avec des cannes Ã  pÃªche s'agitent par ici.}
+{101}{}{Tu es entrÃ© dans une petite caverne. Tu entends des clameurs plus loin dans la grotte.}

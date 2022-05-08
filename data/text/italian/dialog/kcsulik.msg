@@ -18,7 +18,7 @@
 {118}{}{Uh?}
 {119}{}{Hmm, quanto ti manca da pagare prima di potertene andare?}
 {120}{}{Uh-huh.}
-{121}{}{Anch'io sono alla ricerca di qualcosa. Perché non vieni con me?}
+{121}{}{Anch'io sono alla ricerca di qualcosa. PerchÃ© non vieni con me?}
 {122}{slk6}{Noi dobbiamo a Maida 350$. Tu andando a sud? Noi camminare con te e cercare sorella. Tu ha 350$?}
 {123}{}{Noh-oh.}
 {124}{}{Ah-a!}
@@ -48,7 +48,7 @@
 {201}{}{Ehi, fino adesso ho sentito parlare solo te.}
 {210}{slk6h}{Noi andremo proprio d'accordo.}
 {211}{}{Magari ne riparliamo piu' tardi, ok? Ciao.}
-{220}{slk7}{Vic il traditore, tu dire. Viene a villaggio, dice che sa di schiavisti, dice di andare a trovarlo. Noi andati, lui non c'è.}
+{220}{slk7}{Vic il traditore, tu dire. Viene a villaggio, dice che sa di schiavisti, dice di andare a trovarlo. Noi andati, lui non c'Ã¨.}
 {221}{}{Tua sorella e' stata presa dagli schiavisti?}
 {222}{}{Lascia che ti chieda qualcos'altro.}
 {223}{}{Credo sia tutto, per ora. Arrivederci.}

@@ -1,16 +1,16 @@
 {100}{}{You see... Sheb.}
-{150}{}{Egy kék ruhában feszít? vézna férfi áll itt. A ruhája már amúgy is elég harsány, ennek ellenére torkaszakadtából üvölt.}
-{200}{}{Csajokat, csajokat, csajokat tessééék!}
+{150}{}{Egy kÃ©k ruhÃ¡ban feszÃ­t? vÃ©zna fÃ©rfi Ã¡ll itt. A ruhÃ¡ja mÃ¡r amÃºgy is elÃ©g harsÃ¡ny, ennek ellenÃ©re torkaszakadtÃ¡bÃ³l Ã¼vÃ¶lt.}
+{200}{}{Csajokat, csajokat, csajokat tessÃ©Ã©Ã©k!}
 {201}{}{Csajkedvel?k erre-erre!}
-{202}{}{A Cat's Paw szalonban minden árat lenyomtunk a felére!}
-{203}{}{Tegyen ajánlatot a válogatott csajainkra! Csaj hegyek vannak nálunk!}
-{204}{}{Van nálunk fehér csaj, fekete csaj, déli csaj, északi csaj...}
-{205}{}{Forróvér? csaj, jéghideg csaj, friss csaj, még... ::szippant egyet::... *szagos* csajunk is van...}
-{206}{}{Van itt törzsbéli csaj, mutáns csaj, radskorpió csaj, robot csaj.}
-{207}{}{Még brahmin csajunk, ghoul csajunk és halálkarom csajunk is van.}
-{208}{}{Gyerünk, akarsz egy csajt magadnak? Csajkedvel?k, erre-erre!}
-{209}{}{Ha nekünk nincs valamilyen csajunk, akkor te olyat nem is akarsz! Erre-erre, csajkedvel?k!}
-{210}{}{Csajozósok figyelem! Használjátok ki a portékáink nyújtotta el?nyöket!}
-{211}{}{Vegyél meg egy csajt a szokásos áron, és a másik hasonlót csak egyetlen dolcsiért megkapod!}
-{212}{}{Próbálj ki egy csajt egyetlen dolcsiért!}
-{213}{}{Ha a mienknél bárhol olcsóbb csajt találsz... TÖMD MEG!}
+{202}{}{A Cat's Paw szalonban minden Ã¡rat lenyomtunk a felÃ©re!}
+{203}{}{Tegyen ajÃ¡nlatot a vÃ¡logatott csajainkra! Csaj hegyek vannak nÃ¡lunk!}
+{204}{}{Van nÃ¡lunk fehÃ©r csaj, fekete csaj, dÃ©li csaj, Ã©szaki csaj...}
+{205}{}{ForrÃ³vÃ©r? csaj, jÃ©ghideg csaj, friss csaj, mÃ©g... ::szippant egyet::... *szagos* csajunk is van...}
+{206}{}{Van itt tÃ¶rzsbÃ©li csaj, mutÃ¡ns csaj, radskorpiÃ³ csaj, robot csaj.}
+{207}{}{MÃ©g brahmin csajunk, ghoul csajunk Ã©s halÃ¡lkarom csajunk is van.}
+{208}{}{GyerÃ¼nk, akarsz egy csajt magadnak? Csajkedvel?k, erre-erre!}
+{209}{}{Ha nekÃ¼nk nincs valamilyen csajunk, akkor te olyat nem is akarsz! Erre-erre, csajkedvel?k!}
+{210}{}{CsajozÃ³sok figyelem! HasznÃ¡ljÃ¡tok ki a portÃ©kÃ¡ink nyÃºjtotta el?nyÃ¶ket!}
+{211}{}{VegyÃ©l meg egy csajt a szokÃ¡sos Ã¡ron, Ã©s a mÃ¡sik hasonlÃ³t csak egyetlen dolcsiÃ©rt megkapod!}
+{212}{}{PrÃ³bÃ¡lj ki egy csajt egyetlen dolcsiÃ©rt!}
+{213}{}{Ha a mienknÃ©l bÃ¡rhol olcsÃ³bb csajt talÃ¡lsz... TÃ–MD MEG!}

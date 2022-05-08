@@ -1,2 +1,2 @@
 {100}{}{Du siehst einen Hologrammgenerator.}
-{102}{}{Ein Generator für die Hologramme. KEINE UNERLAUBTEN ÄNDERUNGEN VORNEHMEN!}
+{102}{}{Ein Generator fÃ¼r die Hologramme. KEINE UNERLAUBTEN Ã„NDERUNGEN VORNEHMEN!}

@@ -14,7 +14,7 @@
                                                  Activating Counter Measures Level 2}
 {106}{}{Terminate Alarm Level 2 - False Alarm}
 {107}{}{[You notice a button on the keyboard labeled help.] Push key.}
-{108}{}{"Hackear" o sistema de segurança}
+{108}{}{"Hackear" o sistema de seguranÃ§a}
 {109}{}{Attempt to turn off alarm.}
 {110}{}{Sair}
 {111}{}{Arg! [You slam you fist into the keyboard in frustration.]}
@@ -47,7 +47,7 @@
 {134}{}{Warning! This program works best if you shut down all
  programs. Do you wish to do so now?}
 {135}{}{Sim.}
-{136}{}{Não.}
+{136}{}{NÃ£o.}
 {137}{}{Sair}
 {138}{}{Shutting Down Skynet Security Program
                          Analyzing Data Structure...

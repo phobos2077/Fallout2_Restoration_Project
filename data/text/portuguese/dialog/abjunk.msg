@@ -1,4 +1,4 @@
-{100}{}{Você vê pré-guerra gadgets.}
-{101}{}{Exibido na mesa, como relíquias sagradas, é uma impressionante variedade de aparelhos e aparelhos de pré-guerra.
-  Muito ruim, nada disso funciona.}
-{102}{}{Não há nada de uso aqui.}
+{100}{}{VocÃª vÃª prÃ©-guerra gadgets.}
+{101}{}{Exibido na mesa, como relÃ­quias sagradas, Ã© uma impressionante variedade de aparelhos e aparelhos de prÃ©-guerra.
+Â  Muito ruim, nada disso funciona.}
+{102}{}{NÃ£o hÃ¡ nada de uso aqui.}

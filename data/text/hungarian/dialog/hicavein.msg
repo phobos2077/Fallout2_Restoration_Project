@@ -1,2 +1,2 @@
-{100}{}{A bánya beomlott.}
-{101}{}{A légtisztító robbanása az egész bányát beomlasztotta.}
+{100}{}{A bÃ¡nya beomlott.}
+{101}{}{A lÃ©gtisztÃ­tÃ³ robbanÃ¡sa az egÃ©sz bÃ¡nyÃ¡t beomlasztotta.}

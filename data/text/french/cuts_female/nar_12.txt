@@ -1,2 +1,2 @@
-1:Les goules de Nécropolis apprirent de première main ce que déshydratation voulait dire alors que les sables du désert envahirent leur ville et que les ressources d'eau s'épuisèrent.
-2:Sans leur puce de contrôle de purification de l'eau, ils ne pouvaient plus survivre.
+1:Les goules de NÃ©cropolis apprirent de premiÃ¨re main ce que dÃ©shydratation voulait dire alors que les sables du dÃ©sert envahirent leur ville et que les ressources d'eau s'Ã©puisÃ¨rent.
+2:Sans leur puce de contrÃ´le de purification de l'eau, ils ne pouvaient plus survivre.

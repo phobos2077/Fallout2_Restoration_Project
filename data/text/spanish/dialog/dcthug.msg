@@ -1,15 +1,15 @@
-{100}{}{Ves a un matón.}
-{150}{}{Este matón parece bastante despiadado.}
+{100}{}{Ves a un matÃ³n.}
+{150}{}{Este matÃ³n parece bastante despiadado.}
 {151}{}{Fuera de mi vista.}
-{152}{}{¿Estás buscando problemas?}
+{152}{}{Â¿EstÃ¡s buscando problemas?}
 {153}{}{Sigue andando.}
 {154}{}{No estoy interesado.}
 {155}{}{Vete.}
 {200}{}{Eh, basura.}
-{201}{}{¿Buscas problemas?}
-{202}{}{Ven aquí, nenaza.}
-{203}{}{No me hagas ir hasta allí y patearte el culo.}
-{204}{}{¿Me estás hablando a mí?}
-{205}{}{¿Quieres un poco de esto?}
-{206}{}{Eh, nena, ven aquí.}
-{207}{}{Eh, ¿te gusta lo que ves?}
+{201}{}{Â¿Buscas problemas?}
+{202}{}{Ven aquÃ­, nenaza.}
+{203}{}{No me hagas ir hasta allÃ­ y patearte el culo.}
+{204}{}{Â¿Me estÃ¡s hablando a mÃ­?}
+{205}{}{Â¿Quieres un poco de esto?}
+{206}{}{Eh, nena, ven aquÃ­.}
+{207}{}{Eh, Â¿te gusta lo que ves?}

@@ -1,12 +1,12 @@
-{100}{}{Widzisz groŸnie wygl¹daj¹cego awanturnika.}
-{101}{}{Widzisz miejscowego stra¿nika.}
-{102}{}{Nie teraz - jestem na s³u¿bie.}
-{103}{}{Nie mogê z tob¹ rozmawiaæ.}
-{104}{}{Proszê, odejdŸ.}
-{105}{}{Nie naprzykrzaj mi siê.}
-{106}{}{Lepiej zobacz siê z moim szefem.}
-{107}{}{Nie wolno mi odpowiadaæ na takie pytania.}
-{108}{}{Musisz przestaæ mi siê naprzykrzaæ.}
-{109}{}{Ja tu tylko pracujê.}
+{100}{}{Widzisz groÅºnie wyglÄ…dajÄ…cego awanturnika.}
+{101}{}{Widzisz miejscowego straÅ¼nika.}
+{102}{}{Nie teraz - jestem na sÅ‚uÅ¼bie.}
+{103}{}{Nie mogÄ™ z tobÄ… rozmawiaÄ‡.}
+{104}{}{ProszÄ™, odejdÅº.}
+{105}{}{Nie naprzykrzaj mi siÄ™.}
+{106}{}{Lepiej zobacz siÄ™ z moim szefem.}
+{107}{}{Nie wolno mi odpowiadaÄ‡ na takie pytania.}
+{108}{}{Musisz przestaÄ‡ mi siÄ™ naprzykrzaÄ‡.}
+{109}{}{Ja tu tylko pracujÄ™.}
 {110}{}{Nic nie wiem.}
 {111}{}{Rozmawiam tylko z moim szefem.}

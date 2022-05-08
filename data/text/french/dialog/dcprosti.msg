@@ -1,5 +1,5 @@
-{100}{}{Tu vois une prostituée.}
-{101}{}{Elle a l'air "usée".}
+{100}{}{Tu vois une prostituÃ©e.}
+{101}{}{Elle a l'air "usÃ©e".}
 {110}{}{Salut beau gosse.}
-{111}{}{Salut chéri.}
-{112}{}{T'es là pour la fête ?}
+{111}{}{Salut chÃ©ri.}
+{112}{}{T'es lÃ  pour la fÃªte ?}

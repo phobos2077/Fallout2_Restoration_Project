@@ -1,2 +1,2 @@
-{100}{}{Tu vois un générateur d'hologrammes.}
-{102}{}{Générateur pour les hologrammes. NE PAS TOUCHER !}
+{100}{}{Tu vois un gÃ©nÃ©rateur d'hologrammes.}
+{102}{}{GÃ©nÃ©rateur pour les hologrammes. NE PAS TOUCHER !}

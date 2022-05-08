@@ -1,4 +1,4 @@
-{100}{}{Na drzwiach nie ma ¿adnego widocznego zamka.}
-{101}{}{Nie wydaje siê, aby konwencjonalne œrodki wybuchowe by³y w stanie otworzyæ te drzwi.}
-{102}{}{Widzisz mocne drzwi, które zdaj¹ siê wtapiaæ w pod³ogê i sufit.}
-{103}{}{Nie widzisz sposobu, w który mo¿na otworzyæ te drzwi.}
+{100}{}{Na drzwiach nie ma Å¼adnego widocznego zamka.}
+{101}{}{Nie wydaje siÄ™, aby konwencjonalne Å›rodki wybuchowe byÅ‚y w stanie otworzyÄ‡ te drzwi.}
+{102}{}{Widzisz mocne drzwi, ktÃ³re zdajÄ… siÄ™ wtapiaÄ‡ w podÅ‚ogÄ™ i sufit.}
+{103}{}{Nie widzisz sposobu, w ktÃ³ry moÅ¼na otworzyÄ‡ te drzwi.}

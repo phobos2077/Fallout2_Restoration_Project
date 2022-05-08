@@ -1,96 +1,96 @@
-{100}{}{Wielka niespodzianka - to zdaje siê facet w pancerzu wspomaganym.}
-{101}{}{Aha, to wci¹¿ jest facet w pancerzu wspomaganym.}
-{102}{}{Na napierœniku ma jakieœ oznaczenia, które ró¿ni¹ siê od tych, które maj¹ inni ludzie w tej okolicy. }
+{100}{}{Wielka niespodzianka - to zdaje siÄ™ facet w pancerzu wspomaganym.}
+{101}{}{Aha, to wciÄ…Å¼ jest facet w pancerzu wspomaganym.}
+{102}{}{Na napierÅ›niku ma jakieÅ› oznaczenia, ktÃ³re rÃ³Å¼niÄ… siÄ™ od tych, ktÃ³re majÄ… inni ludzie w tej okolicy. }
 {103}{}{<Skzzzt-spork> -zbrojownia!}
 {104}{}{Co do- <zzzzaaark!>>}
-{105}{}{(No proszê. Przys³a³ ciê sier¿ant. Coœ, ¿e niby potrzebujesz pancerza wspomaganego. Mam tu tylko jeden, wziêty do naprawy. Coœ w nim mo¿e jeszcze nie dzia³aæ, wiêc uwa¿aj. Podpisz siê tutaj.)}
-{106}{}{Uch... czy mo¿esz to powtórzyæ?}
-{107}{}{Myœlê, ¿e coœ jest nie w porz¹dku z twoim pancerzem.}
+{105}{}{(No proszÄ™. PrzysÅ‚aÅ‚ ciÄ™ sierÅ¼ant. CoÅ›, Å¼e niby potrzebujesz pancerza wspomaganego. Mam tu tylko jeden, wziÄ™ty do naprawy. CoÅ› w nim moÅ¼e jeszcze nie dziaÅ‚aÄ‡, wiÄ™c uwaÅ¼aj. Podpisz siÄ™ tutaj.)}
+{106}{}{Uch... czy moÅ¼esz to powtÃ³rzyÄ‡?}
+{107}{}{MyÅ›lÄ™, Å¼e coÅ› jest nie w porzÄ…dku z twoim pancerzem.}
 {108}{}{Nie ma sprawy.}
 {109}{}{Nie ma mowy. Zapomnij.}
-{110}{}{To o tobie przez radio mówi³ Arch?}
+{110}{}{To o tobie przez radio mÃ³wiÅ‚ Arch?}
 {111}{}{To na pewno nie ty?}
-{112}{}{Hê?}
+{112}{}{HÄ™?}
 {113}{}{Tak.}
 {114}{}{Nie.}
-{115}{}{Kim jesteœ? Co tu robisz?}
+{115}{}{Kim jesteÅ›? Co tu robisz?}
 {116}{}{Co?}
 {117}{}{Uch... Jestem tu nowy.}
-{118}{}{Bu³a-haaa!}
-{119}{}{Kim jesteœ? Co tu robisz?}
+{118}{}{BuÅ‚a-haaa!}
+{119}{}{Kim jesteÅ›? Co tu robisz?}
 {120}{}{Co?}
 {121}{}{Uch... Jestem tu nowy.}
-{122}{}{Bu³a-haaa!}
-{123}{}{O co ci chodzi? Ten pancerz dzia³a œwietnie! Podpiszesz siê, czy nie?}
-{124}{}{Nie rozumiem ani s³owa z tego co mówisz.}
-{125}{}{Twój g³oœnik jest zepsuty.}
+{122}{}{BuÅ‚a-haaa!}
+{123}{}{O co ci chodzi? Ten pancerz dziaÅ‚a Å›wietnie! Podpiszesz siÄ™, czy nie?}
+{124}{}{Nie rozumiem ani sÅ‚owa z tego co mÃ³wisz.}
+{125}{}{TwÃ³j gÅ‚oÅ›nik jest zepsuty.}
 {126}{}{Jasne, jak chcesz.}
-{127}{}{Do diab³a z tym!}
-{128}{}{(Coœ z twoimi uszami? Mówiê, ¿e mam pancerz. Podpisz siê tutaj.)}
-{129}{}{Co z ciebie za pajac? Mnie tam nie zale¿y. IdŸ siê t³umacz sier¿antowi, dlaczego nie masz munduru!}
-{130}{}{Hê?}
-{131}{}{W porz¹dku, zrobiê tak.}
+{127}{}{Do diabÅ‚a z tym!}
+{128}{}{(CoÅ› z twoimi uszami? MÃ³wiÄ™, Å¼e mam pancerz. Podpisz siÄ™ tutaj.)}
+{129}{}{Co z ciebie za pajac? Mnie tam nie zaleÅ¼y. IdÅº siÄ™ tÅ‚umacz sierÅ¼antowi, dlaczego nie masz munduru!}
+{130}{}{HÄ™?}
+{131}{}{W porzÄ…dku, zrobiÄ™ tak.}
 {132}{}{Zapomnijmy o wszystkiem, dobrze?}
-{133}{}{Twój g³oœnik nie jest zepsuty. S³yszê ciê doskonale. Podpisz w koñcu te papiery i miejmy to za sob¹.}
-{134}{}{Hê?}
-{135}{}{Dobrze, poddajê siê}
+{133}{}{TwÃ³j gÅ‚oÅ›nik nie jest zepsuty. SÅ‚yszÄ™ ciÄ™ doskonale. Podpisz w koÅ„cu te papiery i miejmy to za sobÄ….}
+{134}{}{HÄ™?}
+{135}{}{Dobrze, poddajÄ™ siÄ™}
 {136}{}{Czego ode mnie chcesz? Za kogo ty mnie masz!}
-{137}{}{Dobra. Twoje imiê?}
+{137}{}{Dobra. Twoje imiÄ™?}
 {138}{}{[Player name]}
 {139}{}{Ryby?}
-{140}{}{Chcê pancerz wspomagany.}
+{140}{}{ChcÄ™ pancerz wspomagany.}
 {141}{}{Wieloryb.}
 {142}{}{Dobra. Jednostka?}
 {143}{}{Arroyo.}
-{144}{}{¯aden.}
-{145}{}{Ju¿ mi lepiej.}
+{144}{}{Å»aden.}
+{145}{}{JuÅ¼ mi lepiej.}
 {146}{}{42.}
-{147}{}{To siê pisze przez W czy przez F?}
+{147}{}{To siÄ™ pisze przez W czy przez F?}
 {148}{}{Tak.}
 {149}{}{Nie.}
 {150}{}{Nie wiem.}
-{151}{}{Dostaniesz ten cholerny pancerz jak skoñczymy! A teraz odpowiedz na pytanie.}
+{151}{}{Dostaniesz ten cholerny pancerz jak skoÅ„czymy! A teraz odpowiedz na pytanie.}
 {152}{}{[Player name]}
 {153}{}{Ryby?}
 {154}{}{Wieloryb.}
-{155}{}{Arroy— Momencik! Dopiero co rozwaliliœmy to miejsce. Ty jesteœ z tej cholernej wiochy! Stra¿!}
-{156}{}{S³uchaj, pajacu, nie rób mi tu problemów, albo zg³oszê twój niesubordynowany ty³ek do raportu. Po prostu odpowiedz na pytanie.}
+{155}{}{Arroyâ€” Momencik! Dopiero co rozwaliliÅ›my to miejsce. Ty jesteÅ› z tej cholernej wiochy! StraÅ¼!}
+{156}{}{SÅ‚uchaj, pajacu, nie rÃ³b mi tu problemÃ³w, albo zgÅ‚oszÄ™ twÃ³j niesubordynowany tyÅ‚ek do raportu. Po prostu odpowiedz na pytanie.}
 {157}{}{Arroyo.}
 {158}{}{42.}
-{159}{}{Dosyæ tego! Won do sier¿anta. Wysy³am ciê tam ze skarg¹. Odmaszerowaæ.}
-{160}{}{42, tak? Dobry oddzia³. No dobra. Oto twoje wdzianko, ¿o³nierzu. Odmaszerowaæ.}
-{161}{}{Coœ z twoimi uszami? No to jak, to ty czy nie ty?}
+{159}{}{DosyÄ‡ tego! Won do sierÅ¼anta. WysyÅ‚am ciÄ™ tam ze skargÄ…. OdmaszerowaÄ‡.}
+{160}{}{42, tak? Dobry oddziaÅ‚. No dobra. Oto twoje wdzianko, Å¼oÅ‚nierzu. OdmaszerowaÄ‡.}
+{161}{}{CoÅ› z twoimi uszami? No to jak, to ty czy nie ty?}
 {162}{}{Tak.}
 {163}{}{Jak ryba w wodzie.}
 {164}{}{Nie.}
-{165}{}{No dobra, poœpieszmy siê. Zdejmij to, to dam ci now¹ zbrojê.}
-{166}{}{Jesteœ tylko powietrzem.}
-{167}{}{Hê?}
-{168}{}{W porz¹dku.}
-{169}{}{Chcesz mnie rzuciæ? Mowy nie ma!}
-{170}{}{Och, ju¿ niewa¿ne.}
-{171}{}{Pancerz wspomagany. Daj mi ten pancerz wspomagany, g³upku.}
-{172}{}{W porz¹dku.}
-{173}{}{Ju¿ ubiliœmy interes. Nie dam ci nic wiêcej.}
-{174}{}{O tak, draniu, mam tu coœ dla ciebie.}
-{175}{}{Dobra, tu masz zbrojê. A teraz wynocha.}
-{176}{}{Ptasi mó¿d¿ku, nie masz pancerza. Wynoœ siê st¹d!}
-{177}{}{O czym ty u licha mówisz? Daj mi ten pancerz.}
-{178}{}{No dobra, ju¿ dajê!}
-{179}{}{Chrzaniæ to!}
-{180}{}{Jasne, J. No dobra, oddzia³?}
+{165}{}{No dobra, poÅ›pieszmy siÄ™. Zdejmij to, to dam ci nowÄ… zbrojÄ™.}
+{166}{}{JesteÅ› tylko powietrzem.}
+{167}{}{HÄ™?}
+{168}{}{W porzÄ…dku.}
+{169}{}{Chcesz mnie rzuciÄ‡? Mowy nie ma!}
+{170}{}{Och, juÅ¼ niewaÅ¼ne.}
+{171}{}{Pancerz wspomagany. Daj mi ten pancerz wspomagany, gÅ‚upku.}
+{172}{}{W porzÄ…dku.}
+{173}{}{JuÅ¼ ubiliÅ›my interes. Nie dam ci nic wiÄ™cej.}
+{174}{}{O tak, draniu, mam tu coÅ› dla ciebie.}
+{175}{}{Dobra, tu masz zbrojÄ™. A teraz wynocha.}
+{176}{}{Ptasi mÃ³Å¼dÅ¼ku, nie masz pancerza. WynoÅ› siÄ™ stÄ…d!}
+{177}{}{O czym ty u licha mÃ³wisz? Daj mi ten pancerz.}
+{178}{}{No dobra, juÅ¼ dajÄ™!}
+{179}{}{ChrzaniÄ‡ to!}
+{180}{}{Jasne, J. No dobra, oddziaÅ‚?}
 {181}{}{Arroyo.}
-{182}{}{¯aden.}
-{183}{}{Ju¿ mi lepiej.}
+{182}{}{Å»aden.}
+{183}{}{JuÅ¼ mi lepiej.}
 {184}{}{42.}
-{185}{}{Coœ z twoimi uszami? Kim jesteœ?}
-{186}{}{Jestem z uzupe³enieñ?}
-{187}{}{Nie, nigdy o nich nie s³ysza³em.}
-{188}{}{Z uzupe³nieñ, tak? Pewnie chcesz swoje wyposa¿enie. Czemu nikt mi nigdy o tym nie mówi? Jak masz na imiê?}
-{189}{}{Co? Jesteœ tylko powietrzem.}
+{185}{}{CoÅ› z twoimi uszami? Kim jesteÅ›?}
+{186}{}{Jestem z uzupeÅ‚enieÅ„?}
+{187}{}{Nie, nigdy o nich nie sÅ‚yszaÅ‚em.}
+{188}{}{Z uzupeÅ‚nieÅ„, tak? Pewnie chcesz swoje wyposaÅ¼enie. Czemu nikt mi nigdy o tym nie mÃ³wi? Jak masz na imiÄ™?}
+{189}{}{Co? JesteÅ› tylko powietrzem.}
 {190}{}{[Player name]}
-{191}{}{Wcale nie, jeœli ciê najpierw zastrzelê!}
-{192}{}{Poczekaj momencik - ty nie jesteœ st¹d! STRA¯E!}
-{193}{}{S³uchajcie, ¿o³nierzu, da³em wam ju¿ wasze wyposa¿enie, wiêc siê st¹d wynoœcie.}
+{191}{}{Wcale nie, jeÅ›li ciÄ™ najpierw zastrzelÄ™!}
+{192}{}{Poczekaj momencik - ty nie jesteÅ› stÄ…d! STRAÅ»E!}
+{193}{}{SÅ‚uchajcie, Å¼oÅ‚nierzu, daÅ‚em wam juÅ¼ wasze wyposaÅ¼enie, wiÄ™c siÄ™ stÄ…d wynoÅ›cie.}
 {194}{}{Czego chcesz?}
 {195}{}{Druug?}

@@ -1,4 +1,4 @@
-{100}{}{Als du ein bewaldetes Gebiet erreichst, überwältigt dich der Gestank von ungewaschenen Sklaven,
+{100}{}{Als du ein bewaldetes Gebiet erreichst, Ã¼berwÃ¤ltigt dich der Gestank von ungewaschenen Sklaven,
  die in einem schmutzstarrenden Pferch weiter westlich einquartiert wurden. Direkt voraus steht ein Haus,
- um das mehrere bewaffnete Sklavenhändler herumlungern.}
-{200}{}{Du hast das Sklavenlager ausgelöscht.}
+ um das mehrere bewaffnete SklavenhÃ¤ndler herumlungern.}
+{200}{}{Du hast das Sklavenlager ausgelÃ¶scht.}

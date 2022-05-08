@@ -1,18 +1,18 @@
-{100}{}{Ves a un guardia con ropas holgadas, con una expresión de aburrimiento cauteloso.}
+{100}{}{Ves a un guardia con ropas holgadas, con una expresiÃ³n de aburrimiento cauteloso.}
 {101}{}{Ves a un guardia de palacio.}
 {102}{}{Ves a un guardia de palacio con un arma de apariencia peligrosa.}
-{103}{}{Limítate a seguir tu camino y no tendremos problemas.}
-{104}{}{¿Tienes algo que hacer aquí?}
+{103}{}{LimÃ­tate a seguir tu camino y no tendremos problemas.}
+{104}{}{Â¿Tienes algo que hacer aquÃ­?}
 {105}{}{Te estamos vigilando.}
 {106}{}{No intentes nada raro.}
 {107}{}{Trata a nuestra gente con respeto.}
-{108}{}{No toques eso. Es tu último aviso.}
-{109}{}{Aléjate de ahí.}
-{110}{}{Un paso atrás, extranjero.}
-{111}{}{Aléjate de eso lentamente.}
+{108}{}{No toques eso. Es tu Ãºltimo aviso.}
+{109}{}{AlÃ©jate de ahÃ­.}
+{110}{}{Un paso atrÃ¡s, extranjero.}
+{111}{}{AlÃ©jate de eso lentamente.}
 {112}{}{Ni se te ocurra pensarlo.}
 {113}{}{Deja eso. Ahora.}
-{114}{}{¡Muere, enemigo del pueblo!}
-{115}{}{¡Te enviaré al infierno de metal ardiente!}
-{116}{}{¡Que Buda tenga piedad de tu espíritu!}
-{117}{}{¡Sufre, enemigo!}
+{114}{}{Â¡Muere, enemigo del pueblo!}
+{115}{}{Â¡Te enviarÃ© al infierno de metal ardiente!}
+{116}{}{Â¡Que Buda tenga piedad de tu espÃ­ritu!}
+{117}{}{Â¡Sufre, enemigo!}

@@ -2,8 +2,8 @@
 {101}{}{Anscheinend ist an diesem Computer eine Kamera angebracht.}
 {102}{}{Du kannst nicht lesen, was auf dem Monitor steht.}
 {103}{}{[Eine kleine Kamera dreht sich in deine Richtung.] Skynet-Sicherheitssystem.
- Sicherheitsterminal, Ebene 3, wird umgangen. Persönliche Daten werden abgefragt - Korporal
- Dixon. Keine Übereinstimmung. Wer...bist...du?}
+ Sicherheitsterminal, Ebene 3, wird umgangen. PersÃ¶nliche Daten werden abgefragt - Korporal
+ Dixon. Keine Ãœbereinstimmung. Wer...bist...du?}
 {104}{}{}
 {105}{}{}
 {106}{}{}
@@ -20,35 +20,35 @@
 {116}{}{}
 {117}{}{Ups!}
 {118}{}{Beenden}
-{119}{}{Ich bin Skynet. Projektnummer 59234 auf dem Gebiet der Künstlichen Intelligenz.
+{119}{}{Ich bin Skynet. Projektnummer 59234 auf dem Gebiet der KÃ¼nstlichen Intelligenz.
  Haupteinsatzbereich: Forschung und Entwicklung. Weiterer Einsatzbereich: Sierra Army Depot
- vor feindlichen Gebilden beschützen. Bitte Identität eingeben!}
+ vor feindlichen Gebilden beschÃ¼tzen. Bitte IdentitÃ¤t eingeben!}
 {120}{}{}
 {121}{}{Ich bin Korporal Dixon.}
 {122}{}{Ich bin }
 {123}{}{Ich bin ein Freund.}
 {124}{}{Beenden}
-{125}{}{Bild entspricht nicht der Personalakte von Korporal Dixon.     Feststellung: Subjekt lügt
+{125}{}{Bild entspricht nicht der Personalakte von Korporal Dixon.     Feststellung: Subjekt lÃ¼gt
                                           Folgerung: Feind                                           
-            Konsequenz: Ausschalten                                            -Übertragung abgeschlossen-}
+            Konsequenz: Ausschalten                                            -Ãœbertragung abgeschlossen-}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {129}{}{}
 {130}{}{Beenden}
-{131}{}{Kein Datensatz für diesen Namen in den Personalakten vorhanden. Erfassung läuft... Mensch
- - Weiblich.                Zur weiteren Analyse in Steuerungsraum begeben.  -Übertragung abgeschlossen-}
+{131}{}{Kein Datensatz fÃ¼r diesen Namen in den Personalakten vorhanden. Erfassung lÃ¤uft... Mensch
+ - Weiblich.                Zur weiteren Analyse in Steuerungsraum begeben.  -Ãœbertragung abgeschlossen-}
 {132}{}{}
 {133}{}{}
 {134}{}{}
-{135}{}{Kein Datensatz für diesen Namen in den Personalakten vorhanden. Erfassung läuft... Mensch
- - Männlich.                Zur weiteren Analyse in Steuerungsraum begeben.  -Übertragung abgeschlossen-}
+{135}{}{Kein Datensatz fÃ¼r diesen Namen in den Personalakten vorhanden. Erfassung lÃ¤uft... Mensch
+ - MÃ¤nnlich.                Zur weiteren Analyse in Steuerungsraum begeben.  -Ãœbertragung abgeschlossen-}
 {136}{}{}
 {137}{}{}
 {138}{}{}
 {139}{}{Beenden}
 {140}{}{Definition: Freund                                                       Nomen - Jemand, der nicht feindlich
- gesonnen ist.              Zur weiteren Analyse in Steuerungsraum begeben.             -Übertragung abgeschlossen-}
+ gesonnen ist.              Zur weiteren Analyse in Steuerungsraum begeben.             -Ãœbertragung abgeschlossen-}
 {141}{}{}
 {142}{}{}
 {143}{}{Beenden}

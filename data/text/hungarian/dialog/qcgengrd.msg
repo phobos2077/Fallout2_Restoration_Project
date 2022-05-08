@@ -1,58 +1,58 @@
-{100}{}{Egy er?páncélt visel? fickót látsz.}
-{101}{}{Enklávé katona.}
-{102}{}{Ez a fickó egy igen bonyolultnak t?n? er?páncélt visel.}
+{100}{}{Egy er?pÃ¡ncÃ©lt visel? fickÃ³t lÃ¡tsz.}
+{101}{}{EnklÃ¡vÃ© katona.}
+{102}{}{Ez a fickÃ³ egy igen bonyolultnak t?n? er?pÃ¡ncÃ©lt visel.}
 {103}{}{Mi folyik itt?}
-{104}{}{Mozgás!}
-{105}{}{Mit néze'?}
-{106}{}{Eridj tovább!}
-{107}{}{Nincs itt semmi látnivaló!}
-{108}{}{Beleírlak a jelentésembe!}
+{104}{}{MozgÃ¡s!}
+{105}{}{Mit nÃ©ze'?}
+{106}{}{Eridj tovÃ¡bb!}
+{107}{}{Nincs itt semmi lÃ¡tnivalÃ³!}
+{108}{}{BeleÃ­rlak a jelentÃ©sembe!}
 {109}{}{Menj a dolgodra!}
-{110}{}{Lehetsz te itt egyáltalán?}
-{111}{}{Ne lebzselj itt, pupák!}
+{110}{}{Lehetsz te itt egyÃ¡ltalÃ¡n?}
+{111}{}{Ne lebzselj itt, pupÃ¡k!}
 {112}{}{Igyekezz!}
 {113}{}{Kopj le!}
-{114}{}{Ez nem gyakorlat, ismétlem, nem gyakorlat!}
+{114}{}{Ez nem gyakorlat, ismÃ©tlem, nem gyakorlat!}
 {115}{}{Start containment procedures.}
-{116}{}{Vonszold a segged biztonságba, most azonnal!}
-{117}{}{Veszélyes helyzet alakult ki!}
-{118}{}{Jobb, ha most biztos helyre mész!}
-{119}{}{Nem hallottad a riadót?}
-{120}{}{Sugárzás és vírus, megint jó napot fogtunk ki!}
-{121}{}{Az ilyen napok miatt néha már fel sem akarok kelni.}
-{122}{}{Minden ellen?rzés csak bohóckodás.}
-{123}{}{Imádom a munkámat.}
-{124}{}{Nem hallottál valamit?}
-{125}{}{Majd leszakad a lábam.}
+{116}{}{Vonszold a segged biztonsÃ¡gba, most azonnal!}
+{117}{}{VeszÃ©lyes helyzet alakult ki!}
+{118}{}{Jobb, ha most biztos helyre mÃ©sz!}
+{119}{}{Nem hallottad a riadÃ³t?}
+{120}{}{SugÃ¡rzÃ¡s Ã©s vÃ­rus, megint jÃ³ napot fogtunk ki!}
+{121}{}{Az ilyen napok miatt nÃ©ha mÃ¡r fel sem akarok kelni.}
+{122}{}{Minden ellen?rzÃ©s csak bohÃ³ckodÃ¡s.}
+{123}{}{ImÃ¡dom a munkÃ¡mat.}
+{124}{}{Nem hallottÃ¡l valamit?}
+{125}{}{Majd leszakad a lÃ¡bam.}
 {126}{}{So, did you hear the one about the new second Louie?}
-{127}{}{Itt soha nem történik semmi.}
-{128}{}{Bárcsak történne valami izgalmas is!}
-{129}{}{Hallottam, hogy az alelnök súlyosan beteg... mármint az agyára.}
-{130}{}{Ugye nem aludtál el?}
+{127}{}{Itt soha nem tÃ¶rtÃ©nik semmi.}
+{128}{}{BÃ¡rcsak tÃ¶rtÃ©nne valami izgalmas is!}
+{129}{}{Hallottam, hogy az alelnÃ¶k sÃºlyosan beteg... mÃ¡rmint az agyÃ¡ra.}
+{130}{}{Ugye nem aludtÃ¡l el?}
 {131}{}{Radio check. Check, check. You reading me?}
-{132}{}{Áááááaaaah!}
-{133}{}{Este tuti pókert nyomunk. Ma szerencsés napot fogtam ki!}
-{134}{}{Álljatok készültségben, katonák!}
+{132}{}{ÃÃ¡Ã¡Ã¡Ã¡aaaah!}
+{133}{}{Este tuti pÃ³kert nyomunk. Ma szerencsÃ©s napot fogtam ki!}
+{134}{}{Ãlljatok kÃ©szÃ¼ltsÃ©gben, katonÃ¡k!}
 {135}{}{Figyelj!}
 {136}{}{Ez nem gyakorlat!}
-{137}{}{Vigyétek a civileket biztonságba!}
-{138}{}{Ellen?rizd a küls? védelmi vonalakat!}
-{139}{}{Minden egység jelentkezik!}
-{140}{}{Közel vannak, érzem.}
-{141}{}{Csak nyugalom, katonák!}
-{142}{}{Van egy rakás elvégzend? feladatunk!}
+{137}{}{VigyÃ©tek a civileket biztonsÃ¡gba!}
+{138}{}{Ellen?rizd a kÃ¼ls? vÃ©delmi vonalakat!}
+{139}{}{Minden egysÃ©g jelentkezik!}
+{140}{}{KÃ¶zel vannak, Ã©rzem.}
+{141}{}{Csak nyugalom, katonÃ¡k!}
+{142}{}{Van egy rakÃ¡s elvÃ©gzend? feladatunk!}
 {143}{}{You bet, Sarge.}
 {144}{}{Igen, uram.}
-{145}{}{Itt a B részleg, minden tiszta.}
-{146}{}{Folyosó tiszta.}
+{145}{}{Itt a B rÃ©szleg, minden tiszta.}
+{146}{}{FolyosÃ³ tiszta.}
 {147}{}{Megyek vissza az ?rhelyemre.}
 {148}{}{Bravo csapat jelentkezik!}
 {149}{}{Gamma csapat jelentkezik!}
-{150}{}{.../~ És rajta tündököl, tündököl, tündököl Roger Young neve... /~}
-{151}{}{Basszátok meg, ki rakott rágót a fejhallgatómba!?}
-{152}{}{Ne kavarj már!}
-{153}{}{.../~ Jody már otthon van, cigijét füstöli... Jody most éppen a nejedet nyüstöli.../~}
-{154}{}{/~ Rádió lehalkítva, most pedig cigiszünet ./~}
+{150}{}{.../~ Ã‰s rajta tÃ¼ndÃ¶kÃ¶l, tÃ¼ndÃ¶kÃ¶l, tÃ¼ndÃ¶kÃ¶l Roger Young neve... /~}
+{151}{}{BasszÃ¡tok meg, ki rakott rÃ¡gÃ³t a fejhallgatÃ³mba!?}
+{152}{}{Ne kavarj mÃ¡r!}
+{153}{}{.../~ Jody mÃ¡r otthon van, cigijÃ©t fÃ¼stÃ¶li... Jody most Ã©ppen a nejedet nyÃ¼stÃ¶li.../~}
+{154}{}{/~ RÃ¡diÃ³ lehalkÃ­tva, most pedig cigiszÃ¼net ./~}
 {155}{}{Kettes szint, tiszta.}
 {156}{}{Hetes szint, tiszta.}
-{157}{}{Holofedélzet tiszta.}
+{157}{}{HolofedÃ©lzet tiszta.}

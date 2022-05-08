@@ -1,51 +1,51 @@
-{100}{}{Az illet? b?re nagyon csúnyán megégett.}
-{101}{}{? egy gekkói lakos.}
-{102}{}{Az illet? b?re megégett a sugárzástól. Ekkora sugárzástól bárki meghalna, de ? egész jól elvan.}
-{110}{}{Üdvözlet! Kell valami a raktárból?}
-{111}{}{Ha kell valami innen, szerezz egy igényl?lapot.}
-{112}{}{Ha szükséged van innen valamire, Jeremyhez fordulj!}
-{113}{}{Az igénylésekkel Jeremy foglalkozik.}
-{114}{}{Beszélj Jeremyvel. Utálja, ha a háta mögött akarsz intézni valamit.}
-{115}{}{Nem segíthetek addig, amíg nem beszéltél Jeremyvel.}
-{116}{}{Beszélj Jeremyvel. A szabály az szabály.}
-{120}{}{Szerintem az egyik régi m?szer bekrepált.}
-{121}{}{Rácsaptam a kezel?pultra, erre beindult...}
-{122}{}{Nem létezik, hogy ez az orvosság valaha is megyógyított volna bárkit.}
-{123}{}{Büszke vagyok, hogy a reaktorhoz osztottak be.}
-{124}{}{Az embert akkor szállja meg a legjobb érzés, ha az összes m?szer átmegy a vörös tartományba.}
-{125}{}{Remélem, hamarosan újabb uránszállítmány érkezik Broken Hillsb?l.}
-{126}{}{Lassan kifogyunk az uránból.}
-{127}{}{Én megzabolázom az atom erejét. Hát te mit csinálsz?}
-{128}{}{Olyan itt, mint a szoláriumban.}
-{129}{}{Egy id? után már fölösleges nézned a m?szereket.}
-{130}{}{Annyira unatkozom... ezek a m?szerek meg nem akarnak m?ködni.}
-{131}{}{Szivárgás? Miféle szivárgás?}
-{140}{}{Egész Gekkóban ez a legjobb lakóhely.}
-{141}{}{Öreg csontjaimat semmi sem melegíti át jobban, mint egy jókora adag röntgensugárzás.}
-{142}{}{Mmm, itt mindig olyan kellemesen meleg van. Imádom.}
-{143}{}{Meglep, hogy itt látlak, simab?r?.}
-{144}{}{A simab?r?ek többsége eléggé tart a sugárzástól.}
-{145}{}{Ha egy nap szivárgás nélkül telik, olyan, mintha megvonnák t?led a napfényt.}
-{146}{}{Tetszenek a beszólásaim.}
-{147}{}{Szerénység mindenek felett...}
-{148}{}{A reaktorunk nélkül már mind meghaltunk volna.}
-{149}{}{Remélem, hogy a Menedékvárosiak nem ölnek meg mindannyiunkat.}
-{150}{}{Köszönjük, köszönjük, köszönjük.}
-{151}{}{Köszönjük, hogy megjavítottad a reaktort.}
-{152}{}{Az otthonunk most már biztonságban van.}
-{153}{}{A reaktorunk most már úgy dorombol, mint egy kiscica. Köszönet érte.}
-{154}{}{A reaktor most már sokkal jobban m?ködik.}
-{160}{}{Nem hiszem el, hogy a Menedékvárosiak segítettek rajtunk.}
-{161}{}{Kösz, hogy így helyrepofoztad a reaktorunkat.}
-{162}{}{Örömmel tölt el, hogy a reaktor most már jobban m?ködik.}
-{163}{}{Mostanában hidegebb van itt.}
+{100}{}{Az illet? b?re nagyon csÃºnyÃ¡n megÃ©gett.}
+{101}{}{? egy gekkÃ³i lakos.}
+{102}{}{Az illet? b?re megÃ©gett a sugÃ¡rzÃ¡stÃ³l. Ekkora sugÃ¡rzÃ¡stÃ³l bÃ¡rki meghalna, de ? egÃ©sz jÃ³l elvan.}
+{110}{}{ÃœdvÃ¶zlet! Kell valami a raktÃ¡rbÃ³l?}
+{111}{}{Ha kell valami innen, szerezz egy igÃ©nyl?lapot.}
+{112}{}{Ha szÃ¼ksÃ©ged van innen valamire, Jeremyhez fordulj!}
+{113}{}{Az igÃ©nylÃ©sekkel Jeremy foglalkozik.}
+{114}{}{BeszÃ©lj Jeremyvel. UtÃ¡lja, ha a hÃ¡ta mÃ¶gÃ¶tt akarsz intÃ©zni valamit.}
+{115}{}{Nem segÃ­thetek addig, amÃ­g nem beszÃ©ltÃ©l Jeremyvel.}
+{116}{}{BeszÃ©lj Jeremyvel. A szabÃ¡ly az szabÃ¡ly.}
+{120}{}{Szerintem az egyik rÃ©gi m?szer bekrepÃ¡lt.}
+{121}{}{RÃ¡csaptam a kezel?pultra, erre beindult...}
+{122}{}{Nem lÃ©tezik, hogy ez az orvossÃ¡g valaha is megyÃ³gyÃ­tott volna bÃ¡rkit.}
+{123}{}{BÃ¼szke vagyok, hogy a reaktorhoz osztottak be.}
+{124}{}{Az embert akkor szÃ¡llja meg a legjobb Ã©rzÃ©s, ha az Ã¶sszes m?szer Ã¡tmegy a vÃ¶rÃ¶s tartomÃ¡nyba.}
+{125}{}{RemÃ©lem, hamarosan Ãºjabb urÃ¡nszÃ¡llÃ­tmÃ¡ny Ã©rkezik Broken Hillsb?l.}
+{126}{}{Lassan kifogyunk az urÃ¡nbÃ³l.}
+{127}{}{Ã‰n megzabolÃ¡zom az atom erejÃ©t. HÃ¡t te mit csinÃ¡lsz?}
+{128}{}{Olyan itt, mint a szolÃ¡riumban.}
+{129}{}{Egy id? utÃ¡n mÃ¡r fÃ¶lÃ¶sleges nÃ©zned a m?szereket.}
+{130}{}{Annyira unatkozom... ezek a m?szerek meg nem akarnak m?kÃ¶dni.}
+{131}{}{SzivÃ¡rgÃ¡s? MifÃ©le szivÃ¡rgÃ¡s?}
+{140}{}{EgÃ©sz GekkÃ³ban ez a legjobb lakÃ³hely.}
+{141}{}{Ã–reg csontjaimat semmi sem melegÃ­ti Ã¡t jobban, mint egy jÃ³kora adag rÃ¶ntgensugÃ¡rzÃ¡s.}
+{142}{}{Mmm, itt mindig olyan kellemesen meleg van. ImÃ¡dom.}
+{143}{}{Meglep, hogy itt lÃ¡tlak, simab?r?.}
+{144}{}{A simab?r?ek tÃ¶bbsÃ©ge elÃ©ggÃ© tart a sugÃ¡rzÃ¡stÃ³l.}
+{145}{}{Ha egy nap szivÃ¡rgÃ¡s nÃ©lkÃ¼l telik, olyan, mintha megvonnÃ¡k t?led a napfÃ©nyt.}
+{146}{}{Tetszenek a beszÃ³lÃ¡saim.}
+{147}{}{SzerÃ©nysÃ©g mindenek felett...}
+{148}{}{A reaktorunk nÃ©lkÃ¼l mÃ¡r mind meghaltunk volna.}
+{149}{}{RemÃ©lem, hogy a MenedÃ©kvÃ¡rosiak nem Ã¶lnek meg mindannyiunkat.}
+{150}{}{KÃ¶szÃ¶njÃ¼k, kÃ¶szÃ¶njÃ¼k, kÃ¶szÃ¶njÃ¼k.}
+{151}{}{KÃ¶szÃ¶njÃ¼k, hogy megjavÃ­tottad a reaktort.}
+{152}{}{Az otthonunk most mÃ¡r biztonsÃ¡gban van.}
+{153}{}{A reaktorunk most mÃ¡r Ãºgy dorombol, mint egy kiscica. KÃ¶szÃ¶net Ã©rte.}
+{154}{}{A reaktor most mÃ¡r sokkal jobban m?kÃ¶dik.}
+{160}{}{Nem hiszem el, hogy a MenedÃ©kvÃ¡rosiak segÃ­tettek rajtunk.}
+{161}{}{KÃ¶sz, hogy Ã­gy helyrepofoztad a reaktorunkat.}
+{162}{}{Ã–rÃ¶mmel tÃ¶lt el, hogy a reaktor most mÃ¡r jobban m?kÃ¶dik.}
+{163}{}{MostanÃ¡ban hidegebb van itt.}
 {164}{}{Szerinted nincs itt hidegebb?}
 {170}{}{Mit settenkedsz itt?}
-{171}{}{Még mindig látlak ám.}
-{172}{}{Mindig ilyen furcsán jársz?}
-{173}{}{Azt hittem, egy elefánt trappol itt valahol. Szóval te vagy az.}
+{171}{}{MÃ©g mindig lÃ¡tlak Ã¡m.}
+{172}{}{Mindig ilyen furcsÃ¡n jÃ¡rsz?}
+{173}{}{Azt hittem, egy elefÃ¡nt trappol itt valahol. SzÃ³val te vagy az.}
 {174}{}{Szemmel tartunk, simab?r?.}
-{175}{}{Jobb, ha nem sántikálsz semmi rosszban.}
-{176}{}{Ha valami nem stimmel itt, biztos, hogy téged veszünk el?, kis bújkáló.}
-{177}{}{?rség! Egy simab?r? megpróbál kijátszani minket!}
+{175}{}{Jobb, ha nem sÃ¡ntikÃ¡lsz semmi rosszban.}
+{176}{}{Ha valami nem stimmel itt, biztos, hogy tÃ©ged veszÃ¼nk el?, kis bÃºjkÃ¡lÃ³.}
+{177}{}{?rsÃ©g! Egy simab?r? megprÃ³bÃ¡l kijÃ¡tszani minket!}
 {178}{}{Biztos forgatsz valami rosszat a fejedben.}

@@ -1,64 +1,64 @@
-{100}{}{Egy ember, aki az Enklávé er?páncélját viseli.}
+{100}{}{Egy ember, aki az EnklÃ¡vÃ© er?pÃ¡ncÃ©ljÃ¡t viseli.}
 {101}{}{Granite ?rmester.}
-{102}{}{Egy katonát látsz ?rmesteri sráfokkal a vállán.}
-{103}{}{Kapjátok el azt az ?rültet!}
-{104}{}{Engedj, majd én!}
-{105}{}{Tölts és szegezz! Utánam!}
-{106}{}{Készenlétben!}
-{107}{}{Szedjétek le azt a vadbarmot!}
-{108}{}{L?jétek hamuvá!}
-{109}{}{Készenállok.}
-{110}{}{Gyerünk!}
-{111}{}{Felgyújtom a rohadékot!}
-{112}{}{Utálok idiótákra l?szert pazarolni.}
+{102}{}{Egy katonÃ¡t lÃ¡tsz ?rmesteri srÃ¡fokkal a vÃ¡llÃ¡n.}
+{103}{}{KapjÃ¡tok el azt az ?rÃ¼ltet!}
+{104}{}{Engedj, majd Ã©n!}
+{105}{}{TÃ¶lts Ã©s szegezz! UtÃ¡nam!}
+{106}{}{KÃ©szenlÃ©tben!}
+{107}{}{SzedjÃ©tek le azt a vadbarmot!}
+{108}{}{L?jÃ©tek hamuvÃ¡!}
+{109}{}{KÃ©szenÃ¡llok.}
+{110}{}{GyerÃ¼nk!}
+{111}{}{FelgyÃºjtom a rohadÃ©kot!}
+{112}{}{UtÃ¡lok idiÃ³tÃ¡kra l?szert pazarolni.}
 {113}{}{Mehetsz.}
-{114}{}{Nem láttam semmit.}
-{115}{}{Nem ezeket a droidokat keressük.}
-{116}{}{Eridj tovább!}
-{117}{}{Elegem van már a gyilkolászásból!}
-{118}{}{Gyerünk, t?nj már innen!}
-{119}{}{Csak nyugodtan, fiúk!}
-{120}{}{Néha nézz a hátad mögé is, kicsi mutáns!}
-{121}{}{Sok szerencsét, mutáns! Szükséged lesz rá!}
-{122}{}{Megállni! Mit csinálsz te itt?}
-{123}{}{Az embereimhez próbálok visszajutni.}
-{124}{}{Semmi közöd hozzá.}
-{125}{}{Nincs id?m most kérdezz-feleleket játszani.}
+{114}{}{Nem lÃ¡ttam semmit.}
+{115}{}{Nem ezeket a droidokat keressÃ¼k.}
+{116}{}{Eridj tovÃ¡bb!}
+{117}{}{Elegem van mÃ¡r a gyilkolÃ¡szÃ¡sbÃ³l!}
+{118}{}{GyerÃ¼nk, t?nj mÃ¡r innen!}
+{119}{}{Csak nyugodtan, fiÃºk!}
+{120}{}{NÃ©ha nÃ©zz a hÃ¡tad mÃ¶gÃ© is, kicsi mutÃ¡ns!}
+{121}{}{Sok szerencsÃ©t, mutÃ¡ns! SzÃ¼ksÃ©ged lesz rÃ¡!}
+{122}{}{MegÃ¡llni! Mit csinÃ¡lsz te itt?}
+{123}{}{Az embereimhez prÃ³bÃ¡lok visszajutni.}
+{124}{}{Semmi kÃ¶zÃ¶d hozzÃ¡.}
+{125}{}{Nincs id?m most kÃ©rdezz-feleleket jÃ¡tszani.}
 {126}{}{Ki a franc vagy te?}
-{127}{}{Hát, tudod, az a szörnyszülött Horrigan, mármint Horrigan ügynök, az imént viharzott el mellettünk. Valakinek ki akarja tekerni a nyakát.}
+{127}{}{HÃ¡t, tudod, az a szÃ¶rnyszÃ¼lÃ¶tt Horrigan, mÃ¡rmint Horrigan Ã¼gynÃ¶k, az imÃ©nt viharzott el mellettÃ¼nk. Valakinek ki akarja tekerni a nyakÃ¡t.}
 {128}{}{Ki ez a Horrigan?}
-{129}{}{Hát, ebben tévedsz. Mondjuk úgy, én csak a dolgomat végzem. De mondd csak, mit keresel te itt?}
-{130}{}{A hajót próbálom elérni, hogy elmenekülhessek a törzsemmel.}
-{131}{}{Akkor jó lesz kapkodni a lábadat!}
-{132}{}{Miért kéne már kapkodnom?}
-{133}{}{Nincs rá id?! Hullákat gyártok és épp ti vagytok a következ?k!}
-{134}{}{Jól van, eredj, de ne mondd, hogy nem figyelmeztettelek!}
+{129}{}{HÃ¡t, ebben tÃ©vedsz. Mondjuk Ãºgy, Ã©n csak a dolgomat vÃ©gzem. De mondd csak, mit keresel te itt?}
+{130}{}{A hajÃ³t prÃ³bÃ¡lom elÃ©rni, hogy elmenekÃ¼lhessek a tÃ¶rzsemmel.}
+{131}{}{Akkor jÃ³ lesz kapkodni a lÃ¡badat!}
+{132}{}{MiÃ©rt kÃ©ne mÃ¡r kapkodnom?}
+{133}{}{Nincs rÃ¡ id?! HullÃ¡kat gyÃ¡rtok Ã©s Ã©pp ti vagytok a kÃ¶vetkez?k!}
+{134}{}{JÃ³l van, eredj, de ne mondd, hogy nem figyelmeztettelek!}
 {135}{}{Figyelmeztetni? Mire?}
-{136}{}{Jól van, figyelmeztettél. Viszont engedd meg, hogy én is figyelmeztesselek: eljött a halálod napja, te Enklávés gyökér!}
-{137}{}{Horrigan valami genetikailag összetákolt szörnyeteg, megspékelve egy tonna acéllal. Az Elnök test?re volt régen. Most már legalább a fele gép.}
+{136}{}{JÃ³l van, figyelmeztettÃ©l. Viszont engedd meg, hogy Ã©n is figyelmeztesselek: eljÃ¶tt a halÃ¡lod napja, te EnklÃ¡vÃ©s gyÃ¶kÃ©r!}
+{137}{}{Horrigan valami genetikailag Ã¶sszetÃ¡kolt szÃ¶rnyeteg, megspÃ©kelve egy tonna acÃ©llal. Az ElnÃ¶k test?re volt rÃ©gen. Most mÃ¡r legalÃ¡bb a fele gÃ©p.}
 {138}{}{Hm, ez rosszul hangzik.}
-{139}{}{Rosszabbat is öltem már. Hamarosan csak egy újabb folt lesz a falon.}
-{140}{}{Húúú, nagyon megijesztettél. Fogd be inkább!}
-{141}{}{Igen, s?t, rosszabb! Fel fogja mosni a padlót veled. Kemény, szívós és gyors. Láttam, hogy intézi a mutáns-ügyeit, és nem valami szép látvány.}
-{142}{}{Nem vagyok mutáns... egyébként mit csinált?}
-{143}{}{Nem szeretek err?l beszélni. Rémálmaim lesznek t?le. Annyit viszont hadd mondjak, hogy a falakat nem csak rozsda borítja azóta.}
-{144}{}{Úgy látszik, nem lesz egyszer? csak úgy elsétálni mellette.}
-{145}{}{Ha, ez az év legjobb optimista dumája. Szánlak, haver, de tényleg.}
+{139}{}{Rosszabbat is Ã¶ltem mÃ¡r. Hamarosan csak egy Ãºjabb folt lesz a falon.}
+{140}{}{HÃºÃºÃº, nagyon megijesztettÃ©l. Fogd be inkÃ¡bb!}
+{141}{}{Igen, s?t, rosszabb! Fel fogja mosni a padlÃ³t veled. KemÃ©ny, szÃ­vÃ³s Ã©s gyors. LÃ¡ttam, hogy intÃ©zi a mutÃ¡ns-Ã¼gyeit, Ã©s nem valami szÃ©p lÃ¡tvÃ¡ny.}
+{142}{}{Nem vagyok mutÃ¡ns... egyÃ©bkÃ©nt mit csinÃ¡lt?}
+{143}{}{Nem szeretek err?l beszÃ©lni. RÃ©mÃ¡lmaim lesznek t?le. Annyit viszont hadd mondjak, hogy a falakat nem csak rozsda borÃ­tja azÃ³ta.}
+{144}{}{Ãšgy lÃ¡tszik, nem lesz egyszer? csak Ãºgy elsÃ©tÃ¡lni mellette.}
+{145}{}{Ha, ez az Ã©v legjobb optimista dumÃ¡ja. SzÃ¡nlak, haver, de tÃ©nyleg.}
 {146}{}{Pity me? You should feel bad for yourself. Your power plant's control computer got fried and now you're headed for a meltdown. You're all dead men unless...}
-{147}{}{Kösz, de nem kell. Nektek viszont meg kell halnotok.}
-{148}{}{Eh, elég dolgom van így is. Ti mind úgyis halottak vagytok. Próbáljátok kiélvezni utolsó földi perceiteket. Na, minden jót!}
+{147}{}{KÃ¶sz, de nem kell. Nektek viszont meg kell halnotok.}
+{148}{}{Eh, elÃ©g dolgom van Ã­gy is. Ti mind Ãºgyis halottak vagytok. PrÃ³bÃ¡ljÃ¡tok kiÃ©lvezni utolsÃ³ fÃ¶ldi perceiteket. Na, minden jÃ³t!}
 {149}{}{Hacsak!?}
-{150}{}{Hacsak nem segítetek elagyalni Horrigan-t és feljutni a hajóra.}
-{151}{}{Áh, hagyjuk. Nincs id?m err?l dumálni. Viszlát!}
-{152}{}{Na, persze. Van még ilyen vicced? Ha a reaktor felrobbant, akkor miért van még mindig világítás? He, okoscsávó? Nincs még ilyen vicced?}
-{153}{}{Ez csak a vészvilágítás. Hé, én láttam, mi történt a reaktorral. Nem elromlott, meghalt. Kész, vége. Én mondom nektek, ti is mind halottak vagytok, hacsak...}
+{150}{}{Hacsak nem segÃ­tetek elagyalni Horrigan-t Ã©s feljutni a hajÃ³ra.}
+{151}{}{Ãh, hagyjuk. Nincs id?m err?l dumÃ¡lni. ViszlÃ¡t!}
+{152}{}{Na, persze. Van mÃ©g ilyen vicced? Ha a reaktor felrobbant, akkor miÃ©rt van mÃ©g mindig vilÃ¡gÃ­tÃ¡s? He, okoscsÃ¡vÃ³? Nincs mÃ©g ilyen vicced?}
+{153}{}{Ez csak a vÃ©szvilÃ¡gÃ­tÃ¡s. HÃ©, Ã©n lÃ¡ttam, mi tÃ¶rtÃ©nt a reaktorral. Nem elromlott, meghalt. KÃ©sz, vÃ©ge. Ã‰n mondom nektek, ti is mind halottak vagytok, hacsak...}
 {154}{}{I don't have time to argue about this anymore. Hope you're all strong swimmers. Goodbye.}
-{155}{}{Na, ne mondd már! Röhögnöm kell! Tudod, szerintem elérheted az egy perces álomhatárt Horrigan-nel. Új túlélési rekord lesz, az ám! Sok szerencsét, kicsi mutáns.}
-{156}{}{Nagyon nagylelk? vagy. Szerintem jobb, ha bemelegítek egy kicsit. Rajtad és a csapatodon.}
-{157}{}{Reméljétek, hogy a páncélotok képes lebegni a vízen. Viszlát!}
-{158}{}{Oké, oké, várj! Nem szólhatok mindenkinek, de én és a csapatom melléd állunk. Együtt jól elláthatjuk Horrigan baját. Nem akarok megfulladni, mint egy patkány.}
-{159}{}{Remek ötlet. Gyerünk, kapjuk el!}
-{160}{}{Granite ?rmester az EBA divíziótól.}
-{161}{}{EBA divízió?}
-{162}{}{Enklávé Biztonsági Alakulat. A küls? védelmi vonalakért felelünk, általában.}
-{163}{}{Áh, értem. Hogy érted azt, hogy általában?}
+{155}{}{Na, ne mondd mÃ¡r! RÃ¶hÃ¶gnÃ¶m kell! Tudod, szerintem elÃ©rheted az egy perces Ã¡lomhatÃ¡rt Horrigan-nel. Ãšj tÃºlÃ©lÃ©si rekord lesz, az Ã¡m! Sok szerencsÃ©t, kicsi mutÃ¡ns.}
+{156}{}{Nagyon nagylelk? vagy. Szerintem jobb, ha bemelegÃ­tek egy kicsit. Rajtad Ã©s a csapatodon.}
+{157}{}{RemÃ©ljÃ©tek, hogy a pÃ¡ncÃ©lotok kÃ©pes lebegni a vÃ­zen. ViszlÃ¡t!}
+{158}{}{OkÃ©, okÃ©, vÃ¡rj! Nem szÃ³lhatok mindenkinek, de Ã©n Ã©s a csapatom mellÃ©d Ã¡llunk. EgyÃ¼tt jÃ³l ellÃ¡thatjuk Horrigan bajÃ¡t. Nem akarok megfulladni, mint egy patkÃ¡ny.}
+{159}{}{Remek Ã¶tlet. GyerÃ¼nk, kapjuk el!}
+{160}{}{Granite ?rmester az EBA divÃ­ziÃ³tÃ³l.}
+{161}{}{EBA divÃ­ziÃ³?}
+{162}{}{EnklÃ¡vÃ© BiztonsÃ¡gi Alakulat. A kÃ¼ls? vÃ©delmi vonalakÃ©rt felelÃ¼nk, Ã¡ltalÃ¡ban.}
+{163}{}{Ãh, Ã©rtem. Hogy Ã©rted azt, hogy Ã¡ltalÃ¡ban?}

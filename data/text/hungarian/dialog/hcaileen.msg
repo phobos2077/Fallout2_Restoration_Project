@@ -1,44 +1,44 @@
-{100}{}{Egy vonzónak is nevezhet?, középkorú n?t látsz.}
-{101}{}{Aileen, a falu egyik vegyésze.}
-{102}{}{Egy vonzónak is nevezhet?, középkorú n?t látsz. Keménynek és céltudatosnak t?nik. Kezeit vegyi anyagok borítják.}
-{103}{}{Kösz, hogy segítesz az ügyünkön.}
-{104}{}{Örülök, hogy közénk tartozol.}
-{105}{}{Majd megmutatjuk azoknak a mutánsoknak!}
-{106}{}{Érvényesítsük az emberi jogokat, cimbora!}
-{107}{}{Te tudod, mi a jó!}
+{100}{}{Egy vonzÃ³nak is nevezhet?, kÃ¶zÃ©pkorÃº n?t lÃ¡tsz.}
+{101}{}{Aileen, a falu egyik vegyÃ©sze.}
+{102}{}{Egy vonzÃ³nak is nevezhet?, kÃ¶zÃ©pkorÃº n?t lÃ¡tsz. KemÃ©nynek Ã©s cÃ©ltudatosnak t?nik. Kezeit vegyi anyagok borÃ­tjÃ¡k.}
+{103}{}{KÃ¶sz, hogy segÃ­tesz az Ã¼gyÃ¼nkÃ¶n.}
+{104}{}{Ã–rÃ¼lÃ¶k, hogy kÃ¶zÃ©nk tartozol.}
+{105}{}{Majd megmutatjuk azoknak a mutÃ¡nsoknak!}
+{106}{}{Ã‰rvÃ©nyesÃ­tsÃ¼k az emberi jogokat, cimbora!}
+{107}{}{Te tudod, mi a jÃ³!}
 {108}{}{Takarodj ki innen!}
-{109}{}{Mutánsimádó!}
-{110}{}{Jobb, ha befogod a pofád, ha tudod, mi a jobb neked!}
-{111}{}{Mocskos mutáns-szimpatizáns!}
-{112}{}{Miért nem mész vissza a mutáns barátaidhoz?}
-{113}{}{Emberi összetartás, cimbora!}
-{114}{}{Csak mi magunk vagyunk ellenük.}
-{115}{}{A nyer? oldalt választottad.}
-{116}{}{A mutiknak végük!}
-{117}{}{Megmutatjuk azoknak a mutánsoknak, hogy ki a f?nök!}
-{118}{}{Még a mutánsok sem tudnak mérget lélegezni.}
-{119}{}{Hamarosan eljön az emberiség órája!}
-{120}{}{Egyszer?en imádom az ötletet, hogy mutánsok fuldokolnak halálos gázban.}
-{121}{}{Közel a gy?zelem!}
-{122}{}{Broken Hills hamarosan a miénk lesz.}
-{123}{}{Mutánsimádó!}
+{109}{}{MutÃ¡nsimÃ¡dÃ³!}
+{110}{}{Jobb, ha befogod a pofÃ¡d, ha tudod, mi a jobb neked!}
+{111}{}{Mocskos mutÃ¡ns-szimpatizÃ¡ns!}
+{112}{}{MiÃ©rt nem mÃ©sz vissza a mutÃ¡ns barÃ¡taidhoz?}
+{113}{}{Emberi Ã¶sszetartÃ¡s, cimbora!}
+{114}{}{Csak mi magunk vagyunk ellenÃ¼k.}
+{115}{}{A nyer? oldalt vÃ¡lasztottad.}
+{116}{}{A mutiknak vÃ©gÃ¼k!}
+{117}{}{Megmutatjuk azoknak a mutÃ¡nsoknak, hogy ki a f?nÃ¶k!}
+{118}{}{MÃ©g a mutÃ¡nsok sem tudnak mÃ©rget lÃ©legezni.}
+{119}{}{Hamarosan eljÃ¶n az emberisÃ©g Ã³rÃ¡ja!}
+{120}{}{Egyszer?en imÃ¡dom az Ã¶tletet, hogy mutÃ¡nsok fuldokolnak halÃ¡los gÃ¡zban.}
+{121}{}{KÃ¶zel a gy?zelem!}
+{122}{}{Broken Hills hamarosan a miÃ©nk lesz.}
+{123}{}{MutÃ¡nsimÃ¡dÃ³!}
 {124}{}{Takarodj ki innen!}
-{125}{}{Te rohadt imperialista mutánsbarát!}
-{126}{}{Most az egyszer rosszul választottál.}
-{127}{}{Megbánod, amit tettél!}
-{128}{}{Kopj le, te rohadék!}
-{129}{}{Biztos, hogy félig mutáns vagy!}
-{130}{}{Takarodj innen, tisztátalan!}
-{131}{}{Együgy? hülye, kotródj innen!}
+{125}{}{Te rohadt imperialista mutÃ¡nsbarÃ¡t!}
+{126}{}{Most az egyszer rosszul vÃ¡lasztottÃ¡l.}
+{127}{}{MegbÃ¡nod, amit tettÃ©l!}
+{128}{}{Kopj le, te rohadÃ©k!}
+{129}{}{Biztos, hogy fÃ©lig mutÃ¡ns vagy!}
+{130}{}{Takarodj innen, tisztÃ¡talan!}
+{131}{}{EgyÃ¼gy? hÃ¼lye, kotrÃ³dj innen!}
 {132}{}{Nincs id?m az olyanokra, mint te.}
-{133}{}{Jacobbal beszélj, ha akarsz valamit!}
-{134}{}{A férjem, Jacob tud neked segíteni.}
-{135}{}{Békén hagynál végre?!}
-{136}{}{Nem tudok segíteni. A férjem, Jacob talán tud.}
-{137}{}{Csak hagyj békén!}
-{138}{}{Kösz, hogy benéztél, most pedig kotródj!}
-{139}{}{Miért nem nézel szét inkább odakint?}
-{140}{}{Ezt csinálnád a saját... ööö... jurtádban is??}
-{141}{}{Kérlek, hagyj békén!}
-{142}{}{Nem tudom, mit akarsz, de jó lenne, ha békén hagynál végre!}
-{143}{}{Besároztak minket! Nem mi öltük meg azokat az embereket az alagutakban!}
+{133}{}{Jacobbal beszÃ©lj, ha akarsz valamit!}
+{134}{}{A fÃ©rjem, Jacob tud neked segÃ­teni.}
+{135}{}{BÃ©kÃ©n hagynÃ¡l vÃ©gre?!}
+{136}{}{Nem tudok segÃ­teni. A fÃ©rjem, Jacob talÃ¡n tud.}
+{137}{}{Csak hagyj bÃ©kÃ©n!}
+{138}{}{KÃ¶sz, hogy benÃ©ztÃ©l, most pedig kotrÃ³dj!}
+{139}{}{MiÃ©rt nem nÃ©zel szÃ©t inkÃ¡bb odakint?}
+{140}{}{Ezt csinÃ¡lnÃ¡d a sajÃ¡t... Ã¶Ã¶Ã¶... jurtÃ¡dban is??}
+{141}{}{KÃ©rlek, hagyj bÃ©kÃ©n!}
+{142}{}{Nem tudom, mit akarsz, de jÃ³ lenne, ha bÃ©kÃ©n hagynÃ¡l vÃ©gre!}
+{143}{}{BesÃ¡roztak minket! Nem mi Ã¶ltÃ¼k meg azokat az embereket az alagutakban!}

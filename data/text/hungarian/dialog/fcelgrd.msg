@@ -1,36 +1,36 @@
-{100}{}{Egy jól felfegyverzett ?rt látsz.}
+{100}{}{Egy jÃ³l felfegyverzett ?rt lÃ¡tsz.}
 {101}{}{You see a Hubologist guard.}
-{102}{}{Ez egy igen jól felfegyverzett ?r. Szemében ádáz fény csillan.}
-{103}{}{Behatoló!}
-{104}{}{Kapjátok el a behatolót!}
+{102}{}{Ez egy igen jÃ³l felfegyverzett ?r. SzemÃ©ben Ã¡dÃ¡z fÃ©ny csillan.}
+{103}{}{BehatolÃ³!}
+{104}{}{KapjÃ¡tok el a behatolÃ³t!}
 {105}{}{Ide mindenki! Ide mindenki!}
-{106}{}{Most meghalsz, hitetlen kutya! A Nagy Kerék átgázol rajtad!}
+{106}{}{Most meghalsz, hitetlen kutya! A Nagy KerÃ©k Ã¡tgÃ¡zol rajtad!}
 {107}{}{Mi vagyunk az ?rz?k! Te pedig most meghalsz!}
-{108}{}{Csillagbéli Atyám, te vezesd kezem!}
-{109}{}{Meggyaláztad a tanainkat!}
-{110}{}{Ha az ügyvédek cs?döt mondanak, a fegyvereink majd sikert aratnak!}
-{111}{}{Mi vagyunk a Hub törvényének végrehajtói!}
+{108}{}{CsillagbÃ©li AtyÃ¡m, te vezesd kezem!}
+{109}{}{MeggyalÃ¡ztad a tanainkat!}
+{110}{}{Ha az Ã¼gyvÃ©dek cs?dÃ¶t mondanak, a fegyvereink majd sikert aratnak!}
+{111}{}{Mi vagyunk a Hub tÃ¶rvÃ©nyÃ©nek vÃ©grehajtÃ³i!}
 {112}{}{Transzgresszor!}
-{113}{}{Vigyázz magadra!}
-{114}{}{Csak óvatosan, kívülálló!}
-{115}{}{Ne nyúlj semmihez, amihez nem muszáj!}
-{116}{}{Ha rosszban sántikálsz, Nyers Pépet csinálunk bel?led!}
-{117}{}{Legyél nagyon, nagyon óvatos!}
-{118}{}{Mi vagyunk a Hub törvénye. Nehogy ujjat húzz velünk!}
+{113}{}{VigyÃ¡zz magadra!}
+{114}{}{Csak Ã³vatosan, kÃ­vÃ¼lÃ¡llÃ³!}
+{115}{}{Ne nyÃºlj semmihez, amihez nem muszÃ¡j!}
+{116}{}{Ha rosszban sÃ¡ntikÃ¡lsz, Nyers PÃ©pet csinÃ¡lunk bel?led!}
+{117}{}{LegyÃ©l nagyon, nagyon Ã³vatos!}
+{118}{}{Mi vagyunk a Hub tÃ¶rvÃ©nye. Nehogy ujjat hÃºzz velÃ¼nk!}
 {119}{}{BHK-4 vagyok.}
 {120}{}{Ha rosszul viselkedsz, "behangollak"!}
-{121}{}{A Nagy Kerék felhatalmazott engem.}
-{122}{}{Üdvözlet, utazótársam!}
-{123}{}{Üdvözlet, }
-{124}{}{Örülök, hogy velünk tartasz.}
-{125}{}{Csináld csak a dolgod!}
-{126}{}{Ne zavard azokat, akik fókuszálni próbálnak!}
-{127}{}{Kívánatos a jelenléted...}
-{128}{}{A Hub megbízott bennünket, hogy ügyeljünk a nyájára.}
-{129}{}{A Csillagbéli Atya gondodat viseli. Ezért adott téged nekünk.}
-{130}{}{Mi lojálisak vagyunk BHK-9 iránt.}
+{121}{}{A Nagy KerÃ©k felhatalmazott engem.}
+{122}{}{ÃœdvÃ¶zlet, utazÃ³tÃ¡rsam!}
+{123}{}{ÃœdvÃ¶zlet, }
+{124}{}{Ã–rÃ¼lÃ¶k, hogy velÃ¼nk tartasz.}
+{125}{}{CsinÃ¡ld csak a dolgod!}
+{126}{}{Ne zavard azokat, akik fÃ³kuszÃ¡lni prÃ³bÃ¡lnak!}
+{127}{}{KÃ­vÃ¡natos a jelenlÃ©ted...}
+{128}{}{A Hub megbÃ­zott bennÃ¼nket, hogy Ã¼gyeljÃ¼nk a nyÃ¡jÃ¡ra.}
+{129}{}{A CsillagbÃ©li Atya gondodat viseli. EzÃ©rt adott tÃ©ged nekÃ¼nk.}
+{130}{}{Mi lojÃ¡lisak vagyunk BHK-9 irÃ¡nt.}
 {131}{}{Engedelmeskedj!}
-{132}{}{Álmodj!}
+{132}{}{Ãlmodj!}
 {133}{}{Fogyassz!}
-{134}{}{Mi szívünkön viseljük a te legjobb érdekeidet.}
+{134}{}{Mi szÃ­vÃ¼nkÃ¶n viseljÃ¼k a te legjobb Ã©rdekeidet.}
 {135}{}{ vagyok.}

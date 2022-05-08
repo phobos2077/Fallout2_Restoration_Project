@@ -1,117 +1,117 @@
 {100}{}{Egy kedves, id?s asszony.}
-{150}{}{? a "Mama", aki éppen szorgosan f?z, mos, takarít.}
-{151}{}{Egy rubensi idomokkal megáldott korosodó asszonyt látsz, némi Da Vinchi-s mosollyal az arcán.}
-{200}{}{Szervusz, én vagyok a Mama! Korábban még nem láttalak errefelé, kedveském.}
-{201}{}{Szia, aranyoskám! Mit tehet érted a Mama?}
-{202}{}{Én }
+{150}{}{? a "Mama", aki Ã©ppen szorgosan f?z, mos, takarÃ­t.}
+{151}{}{Egy rubensi idomokkal megÃ¡ldott korosodÃ³ asszonyt lÃ¡tsz, nÃ©mi Da Vinchi-s mosollyal az arcÃ¡n.}
+{200}{}{Szervusz, Ã©n vagyok a Mama! KorÃ¡bban mÃ©g nem lÃ¡ttalak errefelÃ©, kedveskÃ©m.}
+{201}{}{Szia, aranyoskÃ¡m! Mit tehet Ã©rted a Mama?}
+{202}{}{Ã‰n }
 {203}{}{Hmmm. R-rendben? Nyuszi-puszi, Mama!}
-{220}{}{Már félig kiettél engem a házamból és az otthonomból! Miért nem keresel valami más helyet, ahol egész nap lebzselhetsz? Ma már amúgy is eleget ettél!}
+{220}{}{MÃ¡r fÃ©lig kiettÃ©l engem a hÃ¡zambÃ³l Ã©s az otthonombÃ³l! MiÃ©rt nem keresel valami mÃ¡s helyet, ahol egÃ©sz nap lebzselhetsz? Ma mÃ¡r amÃºgy is eleget ettÃ©l!}
 {221}{}{Well }
 {222}{}{ you sure do look as though you're a mite confused. I hate to see a critter suffer. Want something to eat?}
-{223}{}{Én tele. Mama f?zni jól! Viszlát, Mama!}
-{224}{}{Én fizet?}
-{225}{}{Én megy! Viszlát, Mama!}
-{240}{}{Nos, oké. Mid van? (Mama az erszényedért nyúl)}
-{241}{}{Mama? (odanyújtod az erszényed)}
-{242}{}{Nem! Én megy! Viszlát, Mama!}
-{250}{}{Igazán sajnálom. Csak patkány-pitém, patkány-pogácsám és némi spagettim van.}
-{251}{}{Akkor mi legyen a következ? fogás?}
-{252}{}{Öhm, kérhetnék valamit, amiben nincs olyan sok patkány?}
-{253}{}{Akkor kérek egy olyan patkány-pogácsát.}
-{254}{}{Kérnék egy kis patkány-pitét.}
-{270}{}{Ebben az esetben a spagettit tudom ajánlani. Nem sok patkány van benne... legfeljebb a szósz... de tényleg csak annyi.}
-{271}{}{Rendicsek. Ha lehetne, akkor a spagettit választanám, patkány-szósszal.}
-{280}{}{Rögvest hozok neked repetát. Ez összesen 10 dollár lesz.}
-{281}{}{Most éppen nincs ennyi pénzem. Helyette hadd kérdezzek valamit!}
-{282}{}{10 dolcsi egy patkányért? Maga bizonyára meg?rült! A falu környékén sokkal többet kérhetünk az ízesebb darabokért! Persze, hogy jöhet!}
-{283}{}{Rendben, megegyeztünk! Itt a pénz...}
-{284}{}{Meggondoltam magam. Hadd kérdezzek inkább valamit!}
-{285}{}{Még majd visszanézek kés?bb. Viszlát!}
-{300}{}{Látom, nagyon éhes vagy. Szeretem látni, ha valaki ennyire jóíz?en eszik. Elégedett vagy?}
-{301}{}{Ez nem lehet kérdés, Mama! Jöhet a repeta!}
-{302}{}{Persze, hogyne! Hadd kérdezzek valamit!}
-{303}{}{Most elég ennyi. Viszlát, Mama!}
-{320}{}{Kellene nekem valaki, aki ételt visz Smittynek. A fickó a szeméttelepen dolgozik, innen nyugatra. Megtennéd nekem? Ha megcsinálod, kapsz t?lem egy kis ingyen ételt.}
-{321}{}{Rendben, nem bánom.}
-{322}{}{Hadd gondolkodjak egy kicsit! Közben kérdeznék még valami mást is.}
-{323}{}{Öühm, izé... bocsi, Mama. Nem lehet. Viszlát!}
-{340}{}{Szerencséd van! Tudunk szolgálni egy kis radskorpió-rántottával.}
-{341}{}{Van dinsztelt-párolt disznó-patkányunk.}
-{342}{}{Vajban sült radskorpió-farok.}
-{343}{}{Most mindössze csak káposztalevesem van.}
-{344}{}{Frissen sült brahmin-bélszín.}
-{345}{}{T?zforró gekkópite, egyenesen a süt?b?l.}
-{346}{}{Farhát.}
-{347}{}{T?zdelt vadkány.}
-{348}{}{Lebeg?b?l készített frikasszé.}
-{349}{}{Filé mignon.}
-{350}{}{Sz?zérmék gekkó módra.}
+{223}{}{Ã‰n tele. Mama f?zni jÃ³l! ViszlÃ¡t, Mama!}
+{224}{}{Ã‰n fizet?}
+{225}{}{Ã‰n megy! ViszlÃ¡t, Mama!}
+{240}{}{Nos, okÃ©. Mid van? (Mama az erszÃ©nyedÃ©rt nyÃºl)}
+{241}{}{Mama? (odanyÃºjtod az erszÃ©nyed)}
+{242}{}{Nem! Ã‰n megy! ViszlÃ¡t, Mama!}
+{250}{}{IgazÃ¡n sajnÃ¡lom. Csak patkÃ¡ny-pitÃ©m, patkÃ¡ny-pogÃ¡csÃ¡m Ã©s nÃ©mi spagettim van.}
+{251}{}{Akkor mi legyen a kÃ¶vetkez? fogÃ¡s?}
+{252}{}{Ã–hm, kÃ©rhetnÃ©k valamit, amiben nincs olyan sok patkÃ¡ny?}
+{253}{}{Akkor kÃ©rek egy olyan patkÃ¡ny-pogÃ¡csÃ¡t.}
+{254}{}{KÃ©rnÃ©k egy kis patkÃ¡ny-pitÃ©t.}
+{270}{}{Ebben az esetben a spagettit tudom ajÃ¡nlani. Nem sok patkÃ¡ny van benne... legfeljebb a szÃ³sz... de tÃ©nyleg csak annyi.}
+{271}{}{Rendicsek. Ha lehetne, akkor a spagettit vÃ¡lasztanÃ¡m, patkÃ¡ny-szÃ³sszal.}
+{280}{}{RÃ¶gvest hozok neked repetÃ¡t. Ez Ã¶sszesen 10 dollÃ¡r lesz.}
+{281}{}{Most Ã©ppen nincs ennyi pÃ©nzem. Helyette hadd kÃ©rdezzek valamit!}
+{282}{}{10 dolcsi egy patkÃ¡nyÃ©rt? Maga bizonyÃ¡ra meg?rÃ¼lt! A falu kÃ¶rnyÃ©kÃ©n sokkal tÃ¶bbet kÃ©rhetÃ¼nk az Ã­zesebb darabokÃ©rt! Persze, hogy jÃ¶het!}
+{283}{}{Rendben, megegyeztÃ¼nk! Itt a pÃ©nz...}
+{284}{}{Meggondoltam magam. Hadd kÃ©rdezzek inkÃ¡bb valamit!}
+{285}{}{MÃ©g majd visszanÃ©zek kÃ©s?bb. ViszlÃ¡t!}
+{300}{}{LÃ¡tom, nagyon Ã©hes vagy. Szeretem lÃ¡tni, ha valaki ennyire jÃ³Ã­z?en eszik. ElÃ©gedett vagy?}
+{301}{}{Ez nem lehet kÃ©rdÃ©s, Mama! JÃ¶het a repeta!}
+{302}{}{Persze, hogyne! Hadd kÃ©rdezzek valamit!}
+{303}{}{Most elÃ©g ennyi. ViszlÃ¡t, Mama!}
+{320}{}{Kellene nekem valaki, aki Ã©telt visz Smittynek. A fickÃ³ a szemÃ©ttelepen dolgozik, innen nyugatra. MegtennÃ©d nekem? Ha megcsinÃ¡lod, kapsz t?lem egy kis ingyen Ã©telt.}
+{321}{}{Rendben, nem bÃ¡nom.}
+{322}{}{Hadd gondolkodjak egy kicsit! KÃ¶zben kÃ©rdeznÃ©k mÃ©g valami mÃ¡st is.}
+{323}{}{Ã–Ã¼hm, izÃ©... bocsi, Mama. Nem lehet. ViszlÃ¡t!}
+{340}{}{SzerencsÃ©d van! Tudunk szolgÃ¡lni egy kis radskorpiÃ³-rÃ¡ntottÃ¡val.}
+{341}{}{Van dinsztelt-pÃ¡rolt disznÃ³-patkÃ¡nyunk.}
+{342}{}{Vajban sÃ¼lt radskorpiÃ³-farok.}
+{343}{}{Most mindÃ¶ssze csak kÃ¡posztalevesem van.}
+{344}{}{Frissen sÃ¼lt brahmin-bÃ©lszÃ­n.}
+{345}{}{T?zforrÃ³ gekkÃ³pite, egyenesen a sÃ¼t?b?l.}
+{346}{}{FarhÃ¡t.}
+{347}{}{T?zdelt vadkÃ¡ny.}
+{348}{}{Lebeg?b?l kÃ©szÃ­tett frikasszÃ©.}
+{349}{}{FilÃ© mignon.}
+{350}{}{Sz?zÃ©rmÃ©k gekkÃ³ mÃ³dra.}
 {351}{}{Mantisz marsala.}
-{352}{}{Vakondpatkány manicotti.}
-{353}{}{Sült brahmin.}
-{354}{}{Pirított radskorpió.}
-{355}{}{Szójafasírt!}
-{356}{}{Ehem, nem vagyok benne biztos... de eléggé csirkeíze van.}
-{357}{}{Kentaúr-kockák, a specialitásom.}
-{358}{}{Meglepetés!}
-{359}{}{Szójafasírt!}
-{360}{}{Igazán?}
-{375}{}{Tessék. Éhesnek látszol. (A Mama feléd nyújt egy óriási tányért, amin valami nagyon finom illatú étel g?zölög.)}
-{376}{}{Kösz-I, Mam-I!}
-{385}{}{Egyél! Tudtam, hogy ízleni fog.}
-{386}{}{Hmm, nyam-nyam. Viszlát, Mama!}
-{395}{}{Nagyon szépen köszönöm! Persze én is el tudnám vinni... csak akkor ki marad itt, hogy vigyázzon a helyre, amíg oda vagyok? Itt van Smitty ebédje. Ha én nem vinnék neki, biztos vagyok benne, hogy enni is elfelejtene.}
-{396}{}{Elviszem neki, egyenesen a kezébe...}
-{405}{}{Annyira csalódtam benned! Szegény Smittynek magának kellett eljönni az ebédjéért. Most meg mit akarsz?}
-{406}{}{Üdvözöllek, a nevem Mama és enyém ez a hely. S?t, New Reno északi részén mindenki csak az ujját nyalja nálam.}
-{407}{}{Mit akarsz, mir?l meséljen neked a Mama?}
-{408}{}{Maga nem az anyám!}
-{409}{}{Hallott valamelyik Menedékr?l vagy egy Vic nev? fickóról?}
-{410}{}{Mi tennivaló van ebben a városban?}
-{411}{}{Milyen ehet? dolgok vannak errefelé?}
+{352}{}{VakondpatkÃ¡ny manicotti.}
+{353}{}{SÃ¼lt brahmin.}
+{354}{}{PirÃ­tott radskorpiÃ³.}
+{355}{}{SzÃ³jafasÃ­rt!}
+{356}{}{Ehem, nem vagyok benne biztos... de elÃ©ggÃ© csirkeÃ­ze van.}
+{357}{}{KentaÃºr-kockÃ¡k, a specialitÃ¡som.}
+{358}{}{MeglepetÃ©s!}
+{359}{}{SzÃ³jafasÃ­rt!}
+{360}{}{IgazÃ¡n?}
+{375}{}{TessÃ©k. Ã‰hesnek lÃ¡tszol. (A Mama felÃ©d nyÃºjt egy Ã³riÃ¡si tÃ¡nyÃ©rt, amin valami nagyon finom illatÃº Ã©tel g?zÃ¶lÃ¶g.)}
+{376}{}{KÃ¶sz-I, Mam-I!}
+{385}{}{EgyÃ©l! Tudtam, hogy Ã­zleni fog.}
+{386}{}{Hmm, nyam-nyam. ViszlÃ¡t, Mama!}
+{395}{}{Nagyon szÃ©pen kÃ¶szÃ¶nÃ¶m! Persze Ã©n is el tudnÃ¡m vinni... csak akkor ki marad itt, hogy vigyÃ¡zzon a helyre, amÃ­g oda vagyok? Itt van Smitty ebÃ©dje. Ha Ã©n nem vinnÃ©k neki, biztos vagyok benne, hogy enni is elfelejtene.}
+{396}{}{Elviszem neki, egyenesen a kezÃ©be...}
+{405}{}{Annyira csalÃ³dtam benned! SzegÃ©ny Smittynek magÃ¡nak kellett eljÃ¶nni az ebÃ©djÃ©Ã©rt. Most meg mit akarsz?}
+{406}{}{ÃœdvÃ¶zÃ¶llek, a nevem Mama Ã©s enyÃ©m ez a hely. S?t, New Reno Ã©szaki rÃ©szÃ©n mindenki csak az ujjÃ¡t nyalja nÃ¡lam.}
+{407}{}{Mit akarsz, mir?l mesÃ©ljen neked a Mama?}
+{408}{}{Maga nem az anyÃ¡m!}
+{409}{}{Hallott valamelyik MenedÃ©kr?l vagy egy Vic nev? fickÃ³rÃ³l?}
+{410}{}{Mi tennivalÃ³ van ebben a vÃ¡rosban?}
+{411}{}{Milyen ehet? dolgok vannak errefelÃ©?}
 {417}{}{Well if it isn't my hero. What can Mom do you for today?}
-{425}{}{Tudom. De mindenki így nevez engem. Heh, én úgy tekintek itt az emberekre, mint a saját kölykeimre. Amíg betartod a szabályokat, rád is.}
-{426}{}{Miféle szabályokat?}
-{435}{}{Elmondom: nem lopunk, nem káromkodunk, és nem verekszünk! Az én üzletemben semmiképp. Ha megszeged a szabályokat, egy-kett?re kipenderítünk. Szeretem, ha békesség van itt.}
-{436}{}{Értem. Talán akkor kérdez?sködnék más fel?l is.}
-{437}{}{Teljesen logikus. Majd kés?bb még beszélünk, Mama!}
-{445}{}{Ott van Menedékváros innent?l egy kicsit keletre és egy cseppet északra. És ez a Vic... hmm, várjunk csak...}
-{446}{}{Biztos vagyok benne, hogy tudja, hol találom Vicet. ? egy keresked?.}
-{447}{}{Kösz, ez minden, amit tudnom kell. Viszlát, Mama!}
-{455}{}{Vic, a keresked?? Á, így már beugrott. Igen, ha jól tudom, Metzger tartja fogva valami oknál fogva.}
-{456}{}{Ki az a Metzger és hol lehet vele összefutni?}
-{457}{}{Ez nagyszer?, Mama! Köszönöm!}
-{465}{}{Metzger a Rabszolga-Céh itteni vezet?je. Nála aztán a legkülönfélébb emberek raboskodnak. Északra innen, egy utcával arrébb lakik.}
-{466}{}{Metzger régen a Rabszolga-Céh itteni vezet?je volt. Rengeteg féle-fajta embert tartott fogva a táborában, de most nem tudom, mi van vele. Azt hallottam, hogy megölték.}
-{467}{}{Köszönöm az információt! Hadd érdekl?djek valami másról is, Mama.}
-{468}{}{El kell intéznem még pár fontos dolgot. Kösz, Mama!}
-{475}{}{Eredj és vidd most már el azt az ebédet Smittynek!}
-{476}{}{Addig nem fogok segíteni, amíg be nem tartod a szavad.}
-{477}{}{Pattanj hát!}
-{478}{}{Menj, vidd el Smittynek az ételt. Mozgás!}
+{425}{}{Tudom. De mindenki Ã­gy nevez engem. Heh, Ã©n Ãºgy tekintek itt az emberekre, mint a sajÃ¡t kÃ¶lykeimre. AmÃ­g betartod a szabÃ¡lyokat, rÃ¡d is.}
+{426}{}{MifÃ©le szabÃ¡lyokat?}
+{435}{}{Elmondom: nem lopunk, nem kÃ¡romkodunk, Ã©s nem verekszÃ¼nk! Az Ã©n Ã¼zletemben semmikÃ©pp. Ha megszeged a szabÃ¡lyokat, egy-kett?re kipenderÃ­tÃ¼nk. Szeretem, ha bÃ©kessÃ©g van itt.}
+{436}{}{Ã‰rtem. TalÃ¡n akkor kÃ©rdez?skÃ¶dnÃ©k mÃ¡s fel?l is.}
+{437}{}{Teljesen logikus. Majd kÃ©s?bb mÃ©g beszÃ©lÃ¼nk, Mama!}
+{445}{}{Ott van MenedÃ©kvÃ¡ros innent?l egy kicsit keletre Ã©s egy cseppet Ã©szakra. Ã‰s ez a Vic... hmm, vÃ¡rjunk csak...}
+{446}{}{Biztos vagyok benne, hogy tudja, hol talÃ¡lom Vicet. ? egy keresked?.}
+{447}{}{KÃ¶sz, ez minden, amit tudnom kell. ViszlÃ¡t, Mama!}
+{455}{}{Vic, a keresked?? Ã, Ã­gy mÃ¡r beugrott. Igen, ha jÃ³l tudom, Metzger tartja fogva valami oknÃ¡l fogva.}
+{456}{}{Ki az a Metzger Ã©s hol lehet vele Ã¶sszefutni?}
+{457}{}{Ez nagyszer?, Mama! KÃ¶szÃ¶nÃ¶m!}
+{465}{}{Metzger a Rabszolga-CÃ©h itteni vezet?je. NÃ¡la aztÃ¡n a legkÃ¼lÃ¶nfÃ©lÃ©bb emberek raboskodnak. Ã‰szakra innen, egy utcÃ¡val arrÃ©bb lakik.}
+{466}{}{Metzger rÃ©gen a Rabszolga-CÃ©h itteni vezet?je volt. Rengeteg fÃ©le-fajta embert tartott fogva a tÃ¡borÃ¡ban, de most nem tudom, mi van vele. Azt hallottam, hogy megÃ¶ltÃ©k.}
+{467}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t! Hadd Ã©rdekl?djek valami mÃ¡srÃ³l is, Mama.}
+{468}{}{El kell intÃ©znem mÃ©g pÃ¡r fontos dolgot. KÃ¶sz, Mama!}
+{475}{}{Eredj Ã©s vidd most mÃ¡r el azt az ebÃ©det Smittynek!}
+{476}{}{Addig nem fogok segÃ­teni, amÃ­g be nem tartod a szavad.}
+{477}{}{Pattanj hÃ¡t!}
+{478}{}{Menj, vidd el Smittynek az Ã©telt. MozgÃ¡s!}
 {479}{}{Stop your lollygagging and get that meal to Smitty.}
-{485}{}{Ügyes voltál! Bizonyára alaposan megéheztél. Jutalomból mindent megkapsz t?lem, mi szem-szájnak ingere. Nézd csak, mid van nekem a számodra. Egy tál a legremekebb ételekb?l.}
-{486}{}{Ez jól hangzik! Nézzük csak!}
-{487}{}{Izé, Mama... Nem hiszem, hogy most annyira éhes lennék, de azért mindesetre kösz! Viszlát!}
-{500}{}{Hmm, nem tudok túl sokat róla. Valószín?leg csak valaki hülyéskedik, semmi több.}
-{501}{}{Mindig is kísértetjárta volt?}
-{502}{}{Lakik valaki abban a házban?}
-{503}{}{Egyetértek. Viszlát!}
-{520}{}{Úgy körülbelül két évvel ezel?tt kezd?dött. Hallottam pár dolgot a sírásról meg a szellemekr?l. Jómagam nem hiszek benne.}
-{521}{}{Az igen! Két évvel ezel?tt? Lakott azóta valaki ott?}
-{522}{}{Én sem. Kösz!}
-{540}{}{Az egyik fiam néhány éve ott aludt. Lehet, hogy ? tud róla valamit.}
+{485}{}{Ãœgyes voltÃ¡l! BizonyÃ¡ra alaposan megÃ©heztÃ©l. JutalombÃ³l mindent megkapsz t?lem, mi szem-szÃ¡jnak ingere. NÃ©zd csak, mid van nekem a szÃ¡modra. Egy tÃ¡l a legremekebb Ã©telekb?l.}
+{486}{}{Ez jÃ³l hangzik! NÃ©zzÃ¼k csak!}
+{487}{}{IzÃ©, Mama... Nem hiszem, hogy most annyira Ã©hes lennÃ©k, de azÃ©rt mindesetre kÃ¶sz! ViszlÃ¡t!}
+{500}{}{Hmm, nem tudok tÃºl sokat rÃ³la. ValÃ³szÃ­n?leg csak valaki hÃ¼lyÃ©skedik, semmi tÃ¶bb.}
+{501}{}{Mindig is kÃ­sÃ©rtetjÃ¡rta volt?}
+{502}{}{Lakik valaki abban a hÃ¡zban?}
+{503}{}{EgyetÃ©rtek. ViszlÃ¡t!}
+{520}{}{Ãšgy kÃ¶rÃ¼lbelÃ¼l kÃ©t Ã©vvel ezel?tt kezd?dÃ¶tt. Hallottam pÃ¡r dolgot a sÃ­rÃ¡srÃ³l meg a szellemekr?l. JÃ³magam nem hiszek benne.}
+{521}{}{Az igen! KÃ©t Ã©vvel ezel?tt? Lakott azÃ³ta valaki ott?}
+{522}{}{Ã‰n sem. KÃ¶sz!}
+{540}{}{Az egyik fiam nÃ©hÃ¡ny Ã©ve ott aludt. Lehet, hogy ? tud rÃ³la valamit.}
 {541}{}{Ki?}
-{542}{}{Valószín?leg nem. Viszlát!}
-{560}{}{Egyszer járt nálam, és el akarta zálogosítani a cuccait. Többségében ékszereket. Emlékszem, volt nála egy apró arany medál, amit megtartott magának.}
-{561}{}{Emlékszik a nevére?}
-{562}{}{Egy medál? Különös. Ki volt az?}
-{563}{}{Feltennék még kérdéseket.}
-{564}{}{Kösz, viszlát!}
-{580}{}{Nem biztos. Talán Joseph volt... vagy Joel, vagy valami ilyesmi. Nemsokára 19 éves lesz... A család fekete báránya. Ha jól tudom, hozzácsapódott néhány helyi nehézfiúhoz.}
-{581}{}{Kösz! Van egy másik kérdésem is a számára.}
-{582}{}{Kösz, viszlát!}
-{600}{}{Mit tud a kísértetházról?}
+{542}{}{ValÃ³szÃ­n?leg nem. ViszlÃ¡t!}
+{560}{}{Egyszer jÃ¡rt nÃ¡lam, Ã©s el akarta zÃ¡logosÃ­tani a cuccait. TÃ¶bbsÃ©gÃ©ben Ã©kszereket. EmlÃ©kszem, volt nÃ¡la egy aprÃ³ arany medÃ¡l, amit megtartott magÃ¡nak.}
+{561}{}{EmlÃ©kszik a nevÃ©re?}
+{562}{}{Egy medÃ¡l? KÃ¼lÃ¶nÃ¶s. Ki volt az?}
+{563}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{564}{}{KÃ¶sz, viszlÃ¡t!}
+{580}{}{Nem biztos. TalÃ¡n Joseph volt... vagy Joel, vagy valami ilyesmi. NemsokÃ¡ra 19 Ã©ves lesz... A csalÃ¡d fekete bÃ¡rÃ¡nya. Ha jÃ³l tudom, hozzÃ¡csapÃ³dott nÃ©hÃ¡ny helyi nehÃ©zfiÃºhoz.}
+{581}{}{KÃ¶sz! Van egy mÃ¡sik kÃ©rdÃ©sem is a szÃ¡mÃ¡ra.}
+{582}{}{KÃ¶sz, viszlÃ¡t!}
+{600}{}{Mit tud a kÃ­sÃ©rtethÃ¡zrÃ³l?}
 {800}{}{I noticed there seems to be a lot of orphans around town.}
 {801}{}{It's a shame, isn't it? Those poor children living on the streets like that... A lot of them steal to get by -- from
  outsiders mostly -- so if you catch one trying to relieve you of something, please take pity on 'em. I'm not saying it's

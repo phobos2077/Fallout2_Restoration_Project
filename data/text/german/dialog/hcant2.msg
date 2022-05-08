@@ -1,2 +1,2 @@
-{100}{}{Du siehst eine große Ameise.}
+{100}{}{Du siehst eine groÃŸe Ameise.}
 {101}{}{Puhh, das ist ja eine Riesenameise.}

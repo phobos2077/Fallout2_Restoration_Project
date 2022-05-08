@@ -3,119 +3,119 @@
 {110}{}{Salut, je m'appelle Whiskey Bob. Et toi, quel est ton nom ?}
 {111}{}{Quel bout d'chou tu fais ! Je m'appelle Bob, Whiskey Bob. C'est quoi ton p'tit nom ?}
 {112}{}{Whicky Gob ? Zou ?}
-{113}{}{Nez luisant. [Hé ! Hé !]}
+{113}{}{Nez luisant. [HÃ© ! HÃ© !]}
 {114}{}{Moi }
 {115}{}{[Partir]}
-{120}{}{T'as pas inventé le fil à couper le beurre toi, hein ? Bah, on a quand même fait un brin de causette. Allez, salut !}
-{121}{}{Mon lapin, tu me fends le coeur chaque fois que tu ouvres la bouche. Peut-être que la prochaine fois je t'emmènerai à Trapper Town et je te montrerai mes estampes japonaises [Hé, hé]. Salut ma poule.}
-{130}{}{Eh bien, j'espère te revoir prochainement par ici. Au revoir.}
-{131}{}{J'espère revoir bientôt ta petite frimousse dans le coin. Au revoir.}
-{140}{}{Hum ! Si tu ne veux pas être mon compagnon de beuverie, alors va voir ailleurs si j'y suis.}
-{141}{}{Hum ! Je ferais mieux d'aller aux Bains chez Sally plutôt que de perdre mon temps avec toi. Allez, ouste !}
+{120}{}{T'as pas inventÃ© le fil Ã  couper le beurre toi, hein ? Bah, on a quand mÃªme fait un brin de causette. Allez, salut !}
+{121}{}{Mon lapin, tu me fends le coeur chaque fois que tu ouvres la bouche. Peut-Ãªtre que la prochaine fois je t'emmÃ¨nerai Ã  Trapper Town et je te montrerai mes estampes japonaises [HÃ©, hÃ©]. Salut ma poule.}
+{130}{}{Eh bien, j'espÃ¨re te revoir prochainement par ici. Au revoir.}
+{131}{}{J'espÃ¨re revoir bientÃ´t ta petite frimousse dans le coin. Au revoir.}
+{140}{}{Hum ! Si tu ne veux pas Ãªtre mon compagnon de beuverie, alors va voir ailleurs si j'y suis.}
+{141}{}{Hum ! Je ferais mieux d'aller aux Bains chez Sally plutÃ´t que de perdre mon temps avec toi. Allez, ouste !}
 {150}{}{Salut ! Je m'appelle Whiskey Bob. Et toi ?}
 {151}{}{Je m'appelle }
 {152}{}{.}
 {153}{}{Je m'appelle }
 {154}{}{. Que peux-tu me dire sur cette ville ?}
-{155}{}{Tu n'as pas besoin de connaître mon nom.}
-{160}{}{C'est toujours agréable de rencontrer un compagnon de bar. Tu me paies un verre ? Parler me donne toujours soif.}
-{161}{}{Bien sûr, Bob. Pas de problème.}
+{155}{}{Tu n'as pas besoin de connaÃ®tre mon nom.}
+{160}{}{C'est toujours agrÃ©able de rencontrer un compagnon de bar. Tu me paies un verre ? Parler me donne toujours soif.}
+{161}{}{Bien sÃ»r, Bob. Pas de problÃ¨me.}
 {162}{}{J'ai pas les moyens en ce moment.}
 {163}{}{J'ai pas envie de te payer un verre, Whiskey Bob.}
-{164}{}{Avec un nom comme le tien, c'est plutôt toi qui devrais payer ta tournée.}
-{170}{}{Merci pour le verre. Maintenant que j'ai plus le gosier sec, j'ai envie de partager un de mes soucis. Tu pourras peut-être m'aider ?}
-{171}{}{Ben, tu sais, j'ai pas mal de trucs à faire en ce moment. Je ne crois pas pouvoir t'aider.}
+{164}{}{Avec un nom comme le tien, c'est plutÃ´t toi qui devrais payer ta tournÃ©e.}
+{170}{}{Merci pour le verre. Maintenant que j'ai plus le gosier sec, j'ai envie de partager un de mes soucis. Tu pourras peut-Ãªtre m'aider ?}
+{171}{}{Ben, tu sais, j'ai pas mal de trucs Ã  faire en ce moment. Je ne crois pas pouvoir t'aider.}
 {172}{}{Que puis-je faire pour toi ?}
-{173}{}{Si ça ne prend pas trop de temps, je peux peut-être t'aider. Contre une petite rémunération, bien sûr.}
+{173}{}{Si Ã§a ne prend pas trop de temps, je peux peut-Ãªtre t'aider. Contre une petite rÃ©munÃ©ration, bien sÃ»r.}
 {174}{}{Je peux sans doute t'aider, si c'est pas trop dangereux.}
 {175}{}{Se passe-t-il des choses bizarres en ville ?}
-{180}{}{On dirait que ton porte-monnaie est à sec. Tu n'as pas assez d'argent pour offrir un verre à ce bon vieux Bob.}
+{180}{}{On dirait que ton porte-monnaie est Ã  sec. Tu n'as pas assez d'argent pour offrir un verre Ã  ce bon vieux Bob.}
 {181}{}{[Plus]}
-{190}{}{Alors voilà : je tiens un petit commerce et j'ai besoin que quelqu'un me donne un petit coup de main. J'ai une distillerie clandestine à l'extérieur de la ville qui a besoin d'être alimentée de temps à autre. Un gecko m'a mordu la jambe, et je ne peux pas y aller. Si je t'indiquais l'endroit où elle se trouve, irais-tu la ravitailler ? Selon moi, c'est un service qui vaut $50.}
-{191}{}{Ca m'a l'air honnête... Je t'écoute.}
+{190}{}{Alors voilÃ  : je tiens un petit commerce et j'ai besoin que quelqu'un me donne un petit coup de main. J'ai une distillerie clandestine Ã  l'extÃ©rieur de la ville qui a besoin d'Ãªtre alimentÃ©e de temps Ã  autre. Un gecko m'a mordu la jambe, et je ne peux pas y aller. Si je t'indiquais l'endroit oÃ¹ elle se trouve, irais-tu la ravitailler ? Selon moi, c'est un service qui vaut $50.}
+{191}{}{Ca m'a l'air honnÃªte... Je t'Ã©coute.}
 {192}{}{Je regrette Whiskey mais je ne peux pas te rendre ce service.}
-{200}{}{Ecoute, ça ne te prendra pas longtemps et ce n'est absolument pas dangereux. Enfin, je crois pas. Tu veux en savoir plus ?}
-{201}{}{Ouais, vas-y je t'écoute.}
+{200}{}{Ecoute, Ã§a ne te prendra pas longtemps et ce n'est absolument pas dangereux. Enfin, je crois pas. Tu veux en savoir plus ?}
+{201}{}{Ouais, vas-y je t'Ã©coute.}
 {202}{}{Je pense en avoir assez entendu. Au revoir.}
-{210}{}{Très bien ! T'as l'esprit vif toi, pas de doute. Tiens, bois donc un p'tit coup. En échange, j'vais te parler d'un p'tit problème que j'ai.}
-{220}{}{Tout ce que tu dois faire, c'est trouver une cabane au Sud de la ville. Tu rentres, et tu mets des bûches dans la chaudière de l'alambic. Ensuite, reviens ici et je te donnerai ton argent. Mais il faut que ce soit fait avant demain, sinon ma cuvée sera foutue.}
-{221}{}{Ca m'a pas l'air bien compliqué. Bon ben c'est d'accord.}
+{210}{}{TrÃ¨s bien ! T'as l'esprit vif toi, pas de doute. Tiens, bois donc un p'tit coup. En Ã©change, j'vais te parler d'un p'tit problÃ¨me que j'ai.}
+{220}{}{Tout ce que tu dois faire, c'est trouver une cabane au Sud de la ville. Tu rentres, et tu mets des bÃ»ches dans la chaudiÃ¨re de l'alambic. Ensuite, reviens ici et je te donnerai ton argent. Mais il faut que ce soit fait avant demain, sinon ma cuvÃ©e sera foutue.}
+{221}{}{Ca m'a pas l'air bien compliquÃ©. Bon ben c'est d'accord.}
 {222}{}{Je regrette Bob mais je n'ai pas envie de t'aider.}
-{223}{}{$50, c'est pas cher payé pour ce genre de boulot.}
-{230}{}{Tu es d'accord ? Super. Mais souviens-toi : il faut faire vite, sinon je perds ma cuvée. Merci encore et à bientôt !}
-{231}{}{Pas de problème, Bob. Allez, à demain.}
+{223}{}{$50, c'est pas cher payÃ© pour ce genre de boulot.}
+{230}{}{Tu es d'accord ? Super. Mais souviens-toi : il faut faire vite, sinon je perds ma cuvÃ©e. Merci encore et Ã  bientÃ´t !}
+{231}{}{Pas de problÃ¨me, Bob. Allez, Ã  demain.}
 {232}{}{Ca me fait plaisir de t'aider. Mais avant, dis-moi un peu ce qu'il se passe en ville.}
 {240}{}{Eh bien ! T'es du genre pas facile en affaires toi, pas de doute. Bon eh bien, disons $65. C'est d'accord ?}
 {241}{}{Ce boulot ne vaut pas plus de $50. Je ne peux pas me permettre de te payer plus.}
 {242}{}{C'est d'accord.}
-{243}{}{Ce n'est pas assez cher payé pour moi. Mon temps vaut plus que ça.}
-{250}{}{Salut, mon pote ! Tu reviens voir ton vieux copain Whiskey Bob, hein ? Tu es prêt à discuter alcool, affaires et autre ?}
-{251}{}{Salut, poulette. Tu veux taper une causette avec Whiskey Bob sur l'alcool, les affaires eh bien d'autres choses encore ? Viens t'asseoir sur mes genoux ! Hé, hé, c'était pour rire.}
-{252}{}{Bien sûr, Bob. Parle-moi de l'alcool et des affaires.}
-{253}{}{J'ai assez donné la dernière fois.}
-{260}{}{Tu as rempli ma chaudière ? Non, je ne crois pas que ce soit déjà fait. Reviens quand tu auras fait ce que je t'ai demandé.}
-{270}{}{Quelqu'un a bousillé mon alambic ! Y'a qu'à toi à qui j'en avais parlé ! Si j'étais plus jeune, et complètement bourré, je te filerais une sacrée raclée !! Hors de ma vue, sale traître !}
-{280}{}{Merci d'avoir rempli ma chaudière. Maintenant, je n'ai plus à m'inquiéter. Tiens, voilà tes $50. Tu as des questions à me poser ?}
-{281}{}{Merci. Ca m'aura coûté 65 $ mais au moins ça m'évite d'y aller avec ma patte folle... Tiens, voilà ton argent. Tu as des questions à me poser ?}
+{243}{}{Ce n'est pas assez cher payÃ© pour moi. Mon temps vaut plus que Ã§a.}
+{250}{}{Salut, mon pote ! Tu reviens voir ton vieux copain Whiskey Bob, hein ? Tu es prÃªt Ã  discuter alcool, affaires et autre ?}
+{251}{}{Salut, poulette. Tu veux taper une causette avec Whiskey Bob sur l'alcool, les affaires eh bien d'autres choses encore ? Viens t'asseoir sur mes genoux ! HÃ©, hÃ©, c'Ã©tait pour rire.}
+{252}{}{Bien sÃ»r, Bob. Parle-moi de l'alcool et des affaires.}
+{253}{}{J'ai assez donnÃ© la derniÃ¨re fois.}
+{260}{}{Tu as rempli ma chaudiÃ¨re ? Non, je ne crois pas que ce soit dÃ©jÃ  fait. Reviens quand tu auras fait ce que je t'ai demandÃ©.}
+{270}{}{Quelqu'un a bousillÃ© mon alambic ! Y'a qu'Ã  toi Ã  qui j'en avais parlÃ© ! Si j'Ã©tais plus jeune, et complÃ¨tement bourrÃ©, je te filerais une sacrÃ©e raclÃ©e !! Hors de ma vue, sale traÃ®tre !}
+{280}{}{Merci d'avoir rempli ma chaudiÃ¨re. Maintenant, je n'ai plus Ã  m'inquiÃ©ter. Tiens, voilÃ  tes $50. Tu as des questions Ã  me poser ?}
+{281}{}{Merci. Ca m'aura coÃ»tÃ© 65 $ mais au moins Ã§a m'Ã©vite d'y aller avec ma patte folle... Tiens, voilÃ  ton argent. Tu as des questions Ã  me poser ?}
 {282}{}{Oui, dis-moi un peu ce qui se passe en ville en ce moment.}
 {283}{}{Non, merci Bob. Je sais tout ce que je dois savoir pour le moment.}
-{290}{}{Il se passe des tas de choses dernièrement. Il y a des }
+{290}{}{Il se passe des tas de choses derniÃ¨rement. Il y a des }
 {291}{}{Parle-moi des mutilations de Brahmines.}
 {292}{}{Parle-moi des Esprits ambulants.}
-{293}{}{Des rats géants ? J'aimerais en savoir plus.}
+{293}{}{Des rats gÃ©ants ? J'aimerais en savoir plus.}
 {294}{}{Une fosse ? Quelle genre de fosse ?}
 {295}{}{Des disparus ?}
-{296}{}{Je veux te demander autre chose. As-tu déjà entendu parler d'un Jardin d'Eden en Kit ?}
-{297}{}{Je n'ai pas besoin d'entendre tout ça pour le moment.}
-{298}{}{Ouais bien sûr, Bob, et moi je vais te raconter l'histoire du poisson aussi grand que moi que j'ai pêché dans un tonneau d'eau de pluie.}
-{310}{}{Merci de m'avoir aidé. Je m'occuperai de ma distillerie quand ma jambe sera guérie. Tu as des questions à poser à un vieux pilier de bar comme moi ?}
+{296}{}{Je veux te demander autre chose. As-tu dÃ©jÃ  entendu parler d'un Jardin d'Eden en Kit ?}
+{297}{}{Je n'ai pas besoin d'entendre tout Ã§a pour le moment.}
+{298}{}{Ouais bien sÃ»r, Bob, et moi je vais te raconter l'histoire du poisson aussi grand que moi que j'ai pÃªchÃ© dans un tonneau d'eau de pluie.}
+{310}{}{Merci de m'avoir aidÃ©. Je m'occuperai de ma distillerie quand ma jambe sera guÃ©rie. Tu as des questions Ã  poser Ã  un vieux pilier de bar comme moi ?}
 {311}{}{J'ai entendu des rumeurs en ville et je me pose des questions.}
 {312}{}{Je n'ai pas besoin d'autres renseignements pour l'instant.}
-{320}{}{Il paraît que des bêtes qui ressemblent à des insectes humanoïdes géants et recouverts d'une carapace, mutilent les Brahmines pendant la nuit. On retrouve leurs cadavres le ventre ouvert, affreusement mutilés.}
+{320}{}{Il paraÃ®t que des bÃªtes qui ressemblent Ã  des insectes humanoÃ¯des gÃ©ants et recouverts d'une carapace, mutilent les Brahmines pendant la nuit. On retrouve leurs cadavres le ventre ouvert, affreusement mutilÃ©s.}
 {321}{}{C'est horrible !}
-{330}{}{Plusieurs personnes ont vu les Hommeinsectes, mais c'est Torr, le fils de Buckner, qui en a vu le plus et de plus près. Ce qu'il a vu lui a presque fait perdre la tête, déjà qu'il est un peu limite de ce côté là !}
-{331}{}{C'est dingue ça ! Je voudrais te poser une autre question...}
+{330}{}{Plusieurs personnes ont vu les Hommeinsectes, mais c'est Torr, le fils de Buckner, qui en a vu le plus et de plus prÃ¨s. Ce qu'il a vu lui a presque fait perdre la tÃªte, dÃ©jÃ  qu'il est un peu limite de ce cÃ´tÃ© lÃ  !}
+{331}{}{C'est dingue Ã§a ! Je voudrais te poser une autre question...}
 {332}{}{J'ai pas envie d'en entendre plus pour l'instant. Au revoir.}
-{340}{}{Y'a un canyon à l'Ouest de la ville. Y'a quelques mois, une lumière vive s'est mise à briller dans le canyon et depuis, de temps à autre, on entend des couinements horribles qui viennent du canyon. Les Brahmines qui s'égarent ne reviennent jamais. Tout le monde a la frousse de s'en approcher.}
-{341}{}{Oui, c'est sûrement infesté d'esprits. Dommage que vous ayez pas un shaman compétent. Mais dis-moi...}
-{342}{}{Ca suffit pour le moment. Je vais cogiter là-dessus pendant quelque temps. Au revoir.}
-{350}{}{A l'extérieur de Trapper Town, à l'Ouest du centre-ville, y'a un un coin reculé qui est infesté par des rats. Plus tu t'enfonces, plus ils deviennent gros. On dit même qu'ils obéissent à l'esprit du Grand Rat. Certains trappeurs ne veulent même plus rester là-bas. Ils disent que c'est trop dangereux.}
-{351}{}{Des trappeurs chassés par des rats ? Parle-moi d'autre chose.}
-{352}{}{Hum ! C'est sûrement pas les mêmes rats que ceux qu'il y a chez moi. J'en ai assez entendu. Au revoir.}
-{360}{}{Pas *une fosse*, mais *La Fosse*. C'est un bas-fond, un vrai repaire d'ordures. J'ai déjà entendu ça quelque part... C'est un endroit reculé à quelques jours au Sud de Klamath. Là-bas, tout s'achète... même des esclaves. Et puis, il faut faire gaffe, il y en a qui ont la gâchette facile. Je ne crois pas qu'ils nous cherchent, nous sommes trop pauvres.}
-{361}{}{Ici, je serai en sécurité. Je sais me débrouiller. Laisse-moi te poser une autre question.}
-{362}{}{J'en ai assez entendu comme ça. Au revoir.}
-{370}{}{Dernièrement, certaines personnes ont disparu. Comme Vic, un marchand spécialisé dans les objets d'avant-guerre. Et puis aussi un de nos meilleurs trappeurs.}
+{340}{}{Y'a un canyon Ã  l'Ouest de la ville. Y'a quelques mois, une lumiÃ¨re vive s'est mise Ã  briller dans le canyon et depuis, de temps Ã  autre, on entend des couinements horribles qui viennent du canyon. Les Brahmines qui s'Ã©garent ne reviennent jamais. Tout le monde a la frousse de s'en approcher.}
+{341}{}{Oui, c'est sÃ»rement infestÃ© d'esprits. Dommage que vous ayez pas un shaman compÃ©tent. Mais dis-moi...}
+{342}{}{Ca suffit pour le moment. Je vais cogiter lÃ -dessus pendant quelque temps. Au revoir.}
+{350}{}{A l'extÃ©rieur de Trapper Town, Ã  l'Ouest du centre-ville, y'a un un coin reculÃ© qui est infestÃ© par des rats. Plus tu t'enfonces, plus ils deviennent gros. On dit mÃªme qu'ils obÃ©issent Ã  l'esprit du Grand Rat. Certains trappeurs ne veulent mÃªme plus rester lÃ -bas. Ils disent que c'est trop dangereux.}
+{351}{}{Des trappeurs chassÃ©s par des rats ? Parle-moi d'autre chose.}
+{352}{}{Hum ! C'est sÃ»rement pas les mÃªmes rats que ceux qu'il y a chez moi. J'en ai assez entendu. Au revoir.}
+{360}{}{Pas *une fosse*, mais *La Fosse*. C'est un bas-fond, un vrai repaire d'ordures. J'ai dÃ©jÃ  entendu Ã§a quelque part... C'est un endroit reculÃ© Ã  quelques jours au Sud de Klamath. LÃ -bas, tout s'achÃ¨te... mÃªme des esclaves. Et puis, il faut faire gaffe, il y en a qui ont la gÃ¢chette facile. Je ne crois pas qu'ils nous cherchent, nous sommes trop pauvres.}
+{361}{}{Ici, je serai en sÃ©curitÃ©. Je sais me dÃ©brouiller. Laisse-moi te poser une autre question.}
+{362}{}{J'en ai assez entendu comme Ã§a. Au revoir.}
+{370}{}{DerniÃ¨rement, certaines personnes ont disparu. Comme Vic, un marchand spÃ©cialisÃ© dans les objets d'avant-guerre. Et puis aussi un de nos meilleurs trappeurs.}
 {371}{}{Parle-moi encore de ce marchand qu'on appelle... Vic.}
 {372}{}{J'aimerais en savoir plus sur le trappeur.}
 {373}{}{J'ai encore une question.}
 {374}{}{C'est tout ce que je voulais savoir. Au revoir.}
-{380}{}{Vic c'est un sacré lascar. Il aimait pas trop travailler, alors il s'est spécialisé dans les objets d'avant-guerre qui coûtent cher évidemment. Il allait les vendre à la Fosse ou les refilait à ces idiots de tribals euh... [Il glousse] Oh, pardon, ne le prends pas mal... Je disais donc qu'il les refilait aux tribals persuadés d'acheter des artefacts sacrés. Ca fait un moment que j'l'ai pas vu. Tout ce que je sais, c'est qu'il est parti vers le Sud vendre ses trucs. Peut-être bien à la Fosse.}
+{380}{}{Vic c'est un sacrÃ© lascar. Il aimait pas trop travailler, alors il s'est spÃ©cialisÃ© dans les objets d'avant-guerre qui coÃ»tent cher Ã©videmment. Il allait les vendre Ã  la Fosse ou les refilait Ã  ces idiots de tribals euh... [Il glousse] Oh, pardon, ne le prends pas mal... Je disais donc qu'il les refilait aux tribals persuadÃ©s d'acheter des artefacts sacrÃ©s. Ca fait un moment que j'l'ai pas vu. Tout ce que je sais, c'est qu'il est parti vers le Sud vendre ses trucs. Peut-Ãªtre bien Ã  la Fosse.}
 {381}{}{Que sais-tu du trappeur disparu ?}
 {382}{}{J'aimerais te poser une autre question, Bob.}
-{383}{}{Merci, je vais réfléchir à ce que tu m'as raconté. Au revoir, Whiskey Bob.}
-{390}{}{Tu devrais aller parler à Mme Buckner. Elle était très proche de Souriant. Il est parti vers le Nord chercher la grotte des geckos dorés et il n'est pas revenu depuis. Ca fait déjà un moment.}
+{383}{}{Merci, je vais rÃ©flÃ©chir Ã  ce que tu m'as racontÃ©. Au revoir, Whiskey Bob.}
+{390}{}{Tu devrais aller parler Ã  Mme Buckner. Elle Ã©tait trÃ¨s proche de Souriant. Il est parti vers le Nord chercher la grotte des geckos dorÃ©s et il n'est pas revenu depuis. Ca fait dÃ©jÃ  un moment.}
 {391}{}{Parle-moi encore de ce marchand qu'on appelle... Vic.}
-{392}{}{Hum ! Intéressant. Dis-moi encore quelque chose.}
+{392}{}{Hum ! IntÃ©ressant. Dis-moi encore quelque chose.}
 {393}{}{Ca suffit pour le moment. Au revoir, Whiskey Bob.}
-{400}{}{J'aurais préféré que tu tiennes ta promesse. T'as pas été à la distillerie à temps et par ta faute ma dernière cuvée est complètement foutue ! Je ne veux plus jamais te revoir et j'espère ne plus jamais entendre parler de toi. }
+{400}{}{J'aurais prÃ©fÃ©rÃ© que tu tiennes ta promesse. T'as pas Ã©tÃ© Ã  la distillerie Ã  temps et par ta faute ma derniÃ¨re cuvÃ©e est complÃ¨tement foutue ! Je ne veux plus jamais te revoir et j'espÃ¨re ne plus jamais entendre parler de toi. }
 {401}{}{Mais, je croyais avoir plus de temps...}
-{402}{}{Qu'on ravitaille la chaudière ou non, ça ne doit pas faire une grande différence de goût.}
-{403}{}{Ta gnôle, c'est du pipi de chat.}
-{404}{}{Il semblerait que le combustible n'ait pas fourni une flamme suffisante pour augmenter la température et permettre la fermentation.}
-{410}{}{J'ai pas envie d'entendre tes excuses bidon ! Hors de ma vue ! Et laisse-moi te dire une bonne chose : tant que je vivrai, je dirai à tout le monde que tu n'as pas de parole.}
-{420}{}{Un J.E.K ? J'ai déjà vu ce nom écrit dans les pages d'un vieux catalogue que je feuilletais assis là-bas... Mais j'en sais pas plus que ça.}
+{402}{}{Qu'on ravitaille la chaudiÃ¨re ou non, Ã§a ne doit pas faire une grande diffÃ©rence de goÃ»t.}
+{403}{}{Ta gnÃ´le, c'est du pipi de chat.}
+{404}{}{Il semblerait que le combustible n'ait pas fourni une flamme suffisante pour augmenter la tempÃ©rature et permettre la fermentation.}
+{410}{}{J'ai pas envie d'entendre tes excuses bidon ! Hors de ma vue ! Et laisse-moi te dire une bonne chose : tant que je vivrai, je dirai Ã  tout le monde que tu n'as pas de parole.}
+{420}{}{Un J.E.K ? J'ai dÃ©jÃ  vu ce nom Ã©crit dans les pages d'un vieux catalogue que je feuilletais assis lÃ -bas... Mais j'en sais pas plus que Ã§a.}
 {421}{}{C'est vrai ? J'aimerais voir ce catalogue.}
-{430}{}{Heu... [Gêné.] J'ai utilisé cette page pour autre chose, si tu vois ce que je veux dire.}
-{431}{}{Autre chose ? Ah, oui... Personnellement, je préfère le papier journal. Bon eh bien, parle-moi d'autre chose.}
-{432}{}{Dommage, j'étais si près du but. J'ai eu assez de déceptions pour le moment. Au revoir, Bob.}
+{430}{}{Heu... [GÃªnÃ©.] J'ai utilisÃ© cette page pour autre chose, si tu vois ce que je veux dire.}
+{431}{}{Autre chose ? Ah, oui... Personnellement, je prÃ©fÃ¨re le papier journal. Bon eh bien, parle-moi d'autre chose.}
+{432}{}{Dommage, j'Ã©tais si prÃ¨s du but. J'ai eu assez de dÃ©ceptions pour le moment. Au revoir, Bob.}
 {500}{}{Salut. Que puis-je faire pour toi ?}
 {501}{}{Que s'passe-t-il ici ?}
 {502}{}{Rien. Merci.}
 {550}{}{On dirait que Bob n'a pas envie de te parler.}
-{2900}{}{Les choses se sont ralenties récemment. Pas grand-chose à te dire.}
+{2900}{}{Les choses se sont ralenties rÃ©cemment. Pas grand-chose Ã  te dire.}
 {2901}{}{mutilateurs de Brahmines}
 {2902}{}{Esprits ambulants}
-{2903}{}{rats géants}
-{2904}{}{villageois portés disparus}
+{2903}{}{rats gÃ©ants}
+{2904}{}{villageois portÃ©s disparus}
 {2905}{}{. Certains disent que la Fosse y est pour quelque chose.}

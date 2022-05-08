@@ -1,13 +1,13 @@
-{100}{}{Widzisz mieszkañca Nory.}
-{101}{}{Widzisz mieszkañca Nory.}
-{102}{}{Czeœæ.}
-{103}{}{Mi³o ciê widzieæ.}
-{104}{}{Nie jesteœ st¹d, prawda?}
-{105}{}{Mamuœka to wspania³a kobieta, prawda?}
-{106}{}{Cieszê siê, ¿e sieroty z Nory wreszcie maj¹ siê gdzie podziaæ.}
-{200}{}{Dzieñ dobry Panu!}
-{201}{}{Cieszê siê, ¿e dzieci nie musz¹ ju¿ kraœæ.}
-{300}{}{Dzieñ dobry Pani!}
-{301}{}{Cieszê siê, ¿e dzieci nie musz¹ ju¿ kraœæ.}
-{400}{}{Widzisz ma³ego ch³opca.}
-{401}{}{Widzisz ma³¹ dziewczynkê.}
+{100}{}{Widzisz mieszkaÅ„ca Nory.}
+{101}{}{Widzisz mieszkaÅ„ca Nory.}
+{102}{}{CzeÅ›Ä‡.}
+{103}{}{MiÅ‚o ciÄ™ widzieÄ‡.}
+{104}{}{Nie jesteÅ› stÄ…d, prawda?}
+{105}{}{MamuÅ›ka to wspaniaÅ‚a kobieta, prawda?}
+{106}{}{CieszÄ™ siÄ™, Å¼e sieroty z Nory wreszcie majÄ… siÄ™ gdzie podziaÄ‡.}
+{200}{}{DzieÅ„ dobry Panu!}
+{201}{}{CieszÄ™ siÄ™, Å¼e dzieci nie muszÄ… juÅ¼ kraÅ›Ä‡.}
+{300}{}{DzieÅ„ dobry Pani!}
+{301}{}{CieszÄ™ siÄ™, Å¼e dzieci nie muszÄ… juÅ¼ kraÅ›Ä‡.}
+{400}{}{Widzisz maÅ‚ego chÅ‚opca.}
+{401}{}{Widzisz maÅ‚Ä… dziewczynkÄ™.}

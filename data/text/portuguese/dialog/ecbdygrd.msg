@@ -1,10 +1,10 @@
-{100}{}{Você vê um enorme tijolo de um homem.}
-{101}{}{Você vê um enorme tijolo de um homem.}
-{102}{}{Ele é um gigante de um homem e provavelmente come pessoas como você para o café da manhã.}
-{103}{}{Velho, você VAI vir com a gente.}
+{100}{}{VocÃª vÃª um enorme tijolo de um homem.}
+{101}{}{VocÃª vÃª um enorme tijolo de um homem.}
+{102}{}{Ele Ã© um gigante de um homem e provavelmente come pessoas como vocÃª para o cafÃ© da manhÃ£.}
+{103}{}{Velho, vocÃª VAI vir com a gente.}
 {104}{}{Nos deixe em paz. Nunca apoiarei a causa de seus superiores.}
-{105}{}{Eu não vou perguntar de novo. Venha agora, ou você vai ser feito um exemplo.}
-{106}{}{Prefiro que o conhecimento eu tenha desapareça comigo no túmulo.}
+{105}{}{Eu nÃ£o vou perguntar de novo. Venha agora, ou vocÃª vai ser feito um exemplo.}
+{106}{}{Prefiro que o conhecimento eu tenha desapareÃ§a comigo no tÃºmulo.}
 {107}{}{Que assim seja. Mate todos.}
-{108}{}{Este não é seu caso. Vire-se e vá embora.}
-{109}{}{Você parece encontrar algumas pessoas no lugar errado na hora errada.}
+{108}{}{Este nÃ£o Ã© seu caso. Vire-se e vÃ¡ embora.}
+{109}{}{VocÃª parece encontrar algumas pessoas no lugar errado na hora errada.}

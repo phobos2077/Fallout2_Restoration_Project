@@ -1,32 +1,32 @@
 {100}{}{Schneller Stoffwechsel}
-{101}{}{Schläger}
-{102}{}{Kleiner Körperbau}
-{103}{}{Einhändig}
+{101}{}{SchlÃ¤ger}
+{102}{}{Kleiner KÃ¶rperbau}
+{103}{}{EinhÃ¤ndig}
 {104}{}{Treffsicher}
 {105}{}{Kamikaze}
-{106}{}{Faustkämpfer}
-{107}{}{Schnellschütze}
-{108}{}{Wilder Kämpfer}
+{106}{}{FaustkÃ¤mpfer}
+{107}{}{SchnellschÃ¼tze}
+{108}{}{Wilder KÃ¤mpfer}
 {109}{}{Verhext}
-{110}{}{Umgänglich}
+{110}{}{UmgÃ¤nglich}
 {111}{}{Drug Reliant}
 {112}{}{Drug Resistant}
 {113}{}{Sex Appeal}
 {114}{}{Versiert}
 {115}{}{Begabt}
-{200}{}{Dein Stoffwechsel ist zweimal so schnell wie normal. Du bist daher gegen Strahlung und Gift weniger resistent, dafür heilt dein Körper aber auch schneller.}
-{201}{}{Du bist zwar ein bisschen langsamer, dafür aber auch ein bisschen größer. Du schlägst nur selten, dafür aber richtig zu! Du hast insgesamt weniger Aktionspunkte, dafür bist du aber stärker.}
-{202}{}{Du bist zwar nicht so groß wie die anderen Vaultbewohner, aber das war noch nie ein Hindernis für dich! Du kannst nicht so viel tragen, dafür bist du aber beweglicher.}
-{203}{}{Eine deiner Hände ist bedeutend besser als die andere. Du bist hervorragend im Umgang mit einhändigen Waffen. Beidhändige Waffen bereiten dir allerdings Probleme.}
-{204}{}{Bei deinen Angriffen bist du sehr treffsicher. Du verursachst zwar nicht so viel Schaden, dafür landest du aber mehr kritische Treffer.}
-{205}{}{Du behälst in gefährlichen Situationen einen klaren Kopf und kannst daher schneller reagieren. Deine Rüstung ist im wesentlichen deine Kleidung, dafür bist du aber im Kampf reaktionsschneller.}
-{206}{}{Du schlägst zwar härter, aber nicht besser zu! Deine Angriffe sind äußerst brutal, aber ihnen fehlt die Genauigkeit. Du landest selten einen guten Treffer, dafür richtest du aber im Nahkampf mehr Schaden an.}
-{207}{}{Du hast keine Zeit für gezielte Angriffe, da du überdurchschnittlich schnell angreifst. Die Verwendung von Waffen kostet dich einen Aktionspunkt weniger.}
+{200}{}{Dein Stoffwechsel ist zweimal so schnell wie normal. Du bist daher gegen Strahlung und Gift weniger resistent, dafÃ¼r heilt dein KÃ¶rper aber auch schneller.}
+{201}{}{Du bist zwar ein bisschen langsamer, dafÃ¼r aber auch ein bisschen grÃ¶ÃŸer. Du schlÃ¤gst nur selten, dafÃ¼r aber richtig zu! Du hast insgesamt weniger Aktionspunkte, dafÃ¼r bist du aber stÃ¤rker.}
+{202}{}{Du bist zwar nicht so groÃŸ wie die anderen Vaultbewohner, aber das war noch nie ein Hindernis fÃ¼r dich! Du kannst nicht so viel tragen, dafÃ¼r bist du aber beweglicher.}
+{203}{}{Eine deiner HÃ¤nde ist bedeutend besser als die andere. Du bist hervorragend im Umgang mit einhÃ¤ndigen Waffen. BeidhÃ¤ndige Waffen bereiten dir allerdings Probleme.}
+{204}{}{Bei deinen Angriffen bist du sehr treffsicher. Du verursachst zwar nicht so viel Schaden, dafÃ¼r landest du aber mehr kritische Treffer.}
+{205}{}{Du behÃ¤lst in gefÃ¤hrlichen Situationen einen klaren Kopf und kannst daher schneller reagieren. Deine RÃ¼stung ist im wesentlichen deine Kleidung, dafÃ¼r bist du aber im Kampf reaktionsschneller.}
+{206}{}{Du schlÃ¤gst zwar hÃ¤rter, aber nicht besser zu! Deine Angriffe sind Ã¤uÃŸerst brutal, aber ihnen fehlt die Genauigkeit. Du landest selten einen guten Treffer, dafÃ¼r richtest du aber im Nahkampf mehr Schaden an.}
+{207}{}{Du hast keine Zeit fÃ¼r gezielte Angriffe, da du Ã¼berdurchschnittlich schnell angreifst. Die Verwendung von Waffen kostet dich einen Aktionspunkt weniger.}
 {208}{}{Die Ironie des Schicksals will es, dass Menschen um dich herum gewaltsam sterben und du immer Zeuge eines besonders grausamen Tods wirst.}
-{209}{}{Das Gute ist, dass alle um dich herum im Kampf böse Fehler machen. Das Schlechte ist, dass auch dir das passiert!}
-{210}{}{Du hast in deiner Jugend weniger Kampffähigkeiten erlernt, so dass du mit niedrigeren Anfangswerten beginnst. Dafür sind deine Fähigkeiten 'Erste Hilfe', 'Arzt', 'Reden' und 'Handeln' besser ausgebildet.}
+{209}{}{Das Gute ist, dass alle um dich herum im Kampf bÃ¶se Fehler machen. Das Schlechte ist, dass auch dir das passiert!}
+{210}{}{Du hast in deiner Jugend weniger KampffÃ¤higkeiten erlernt, so dass du mit niedrigeren Anfangswerten beginnst. DafÃ¼r sind deine FÃ¤higkeiten 'Erste Hilfe', 'Arzt', 'Reden' und 'Handeln' besser ausgebildet.}
 {211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
 {212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
-{213}{}{Du hast den Stoff, aus dem die Helden sind. Das andere Geschlecht fühlt sich zu dir hingezogen, währenddessen Leute vom selben Geschlecht ziemlich eifersüchtig auf dich sind.}
-{214}{}{Da du mehr Zeit in die Ausbildung deiner Fähigkeiten gesteckt hast, erhältst du 5 zusätzliche Fähigkeitspunkte pro Level. Im Gegenzug erhältst du weniger zusätzliche Fähigkeiten. Nur alle vier Level erhältst du einen Vorteil.}
-{215}{}{Du verfügst über mehr angeborene Fähigkeiten als andere. Daher sind alle deine Anfangswerte um einen Punkt höher, aber du verlierst am Anfang bei allen Fähigkeiten 10 % und erhältst pro Level 5 Fähigkeitspunkte weniger.}
+{213}{}{Du hast den Stoff, aus dem die Helden sind. Das andere Geschlecht fÃ¼hlt sich zu dir hingezogen, wÃ¤hrenddessen Leute vom selben Geschlecht ziemlich eifersÃ¼chtig auf dich sind.}
+{214}{}{Da du mehr Zeit in die Ausbildung deiner FÃ¤higkeiten gesteckt hast, erhÃ¤ltst du 5 zusÃ¤tzliche FÃ¤higkeitspunkte pro Level. Im Gegenzug erhÃ¤ltst du weniger zusÃ¤tzliche FÃ¤higkeiten. Nur alle vier Level erhÃ¤ltst du einen Vorteil.}
+{215}{}{Du verfÃ¼gst Ã¼ber mehr angeborene FÃ¤higkeiten als andere. Daher sind alle deine Anfangswerte um einen Punkt hÃ¶her, aber du verlierst am Anfang bei allen FÃ¤higkeiten 10 % und erhÃ¤ltst pro Level 5 FÃ¤higkeitspunkte weniger.}

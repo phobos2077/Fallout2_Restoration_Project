@@ -1,4 +1,4 @@
-{100}{}{Você vê uma porta.}
-{101}{}{Você vê uma porta.}
-{102}{}{Você vê uma porta. Não parece ter uma fechadura como uma porta normal.}
-{103}{}{Você não produz nenhum efeito.}
+{100}{}{VocÃª vÃª uma porta.}
+{101}{}{VocÃª vÃª uma porta.}
+{102}{}{VocÃª vÃª uma porta. NÃ£o parece ter uma fechadura como uma porta normal.}
+{103}{}{VocÃª nÃ£o produz nenhum efeito.}

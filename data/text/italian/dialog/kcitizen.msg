@@ -62,7 +62,7 @@
 {1101}{}{Our great ancestor who gave us knowledge.}
 {1102}{}{The first to fight and win over chaos.}
 {1103}{}{That would be our beautiful village.}
-{1104}{}{That’s trading outpost a few days east of here.}
+{1104}{}{Thatâ€™s trading outpost a few days east of here.}
 {1105}{}{The Vault is heaven.}
 {1106}{}{You are the Chosen One.}
 {1107}{}{He heals us with his herbs and magic. He is in the north part of our village.}

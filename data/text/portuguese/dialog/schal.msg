@@ -4,7 +4,7 @@
 {103}{}{You here for the drive?}
 {104}{}{}
 {105}{}{Sim.}
-{106}{}{Não.}
+{106}{}{NÃ£o.}
 {107}{}{Mantenha seus olhos abertos.}
 {108}{}{Stay together men!}
 {109}{}{Keep it up boys.}

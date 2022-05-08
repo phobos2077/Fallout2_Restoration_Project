@@ -1,29 +1,29 @@
-{100}{}{Parece otro borracho más.}
-{101}{}{El mismo borracho que viste la última vez.}
-{102}{}{No parece la mejor de las personas, pero con todo ese alcohol, ¿quién lo es?}
-{103}{}{Mira, sólo estoy bebiendo. Déjame solo.}
-{104}{}{No hablo con extraños. En este bar eso es malo para la salud.}
-{105}{}{He oído hablar de ti. ¡Maldición, pero si estás en el lugar equivocado!}
-{106}{}{¿Quieres problemas? Ve a hablar con Merk.}
-{107}{}{Oye, guapo, ¿quieres ir a un lugar privado y divertirte un poco?}
-{108}{}{¡No hables conmigo! No quiero que me den otra paliza.}
-{109}{}{¡Maldito whisky barato! Ya sabes, aquí sirven el peor licor que puedas imaginar.}
-{110}{}{¡Mierda! No quería derramarte encima mi bebida. Déjame que lo limpie. Perdón, perdón.}
-{111}{}{¡Aléjate de mí!}
-{112}{}{He oído hablar de ti. Por favor, no me hagas daño.}
-{113}{}{¿Nuevo en la ciudad? Se dice que Merk está buscando a algunos tipos duros.}
-{114}{}{¿Qué eres tú, alguna clase de tipo duro? ¡Sal de mi vista!}
-{115}{}{No deberían haber hecho eso. Algún día, forastero, tendré un arma y entonces les enseñaré.}
-{116}{}{¿Te gustaría ser mi esclava amorosa, preciosidad?}
+{100}{}{Parece otro borracho mÃ¡s.}
+{101}{}{El mismo borracho que viste la Ãºltima vez.}
+{102}{}{No parece la mejor de las personas, pero con todo ese alcohol, Â¿quiÃ©n lo es?}
+{103}{}{Mira, sÃ³lo estoy bebiendo. DÃ©jame solo.}
+{104}{}{No hablo con extraÃ±os. En este bar eso es malo para la salud.}
+{105}{}{He oÃ­do hablar de ti. Â¡MaldiciÃ³n, pero si estÃ¡s en el lugar equivocado!}
+{106}{}{Â¿Quieres problemas? Ve a hablar con Merk.}
+{107}{}{Oye, guapo, Â¿quieres ir a un lugar privado y divertirte un poco?}
+{108}{}{Â¡No hables conmigo! No quiero que me den otra paliza.}
+{109}{}{Â¡Maldito whisky barato! Ya sabes, aquÃ­ sirven el peor licor que puedas imaginar.}
+{110}{}{Â¡Mierda! No querÃ­a derramarte encima mi bebida. DÃ©jame que lo limpie. PerdÃ³n, perdÃ³n.}
+{111}{}{Â¡AlÃ©jate de mÃ­!}
+{112}{}{He oÃ­do hablar de ti. Por favor, no me hagas daÃ±o.}
+{113}{}{Â¿Nuevo en la ciudad? Se dice que Merk estÃ¡ buscando a algunos tipos duros.}
+{114}{}{Â¿QuÃ© eres tÃº, alguna clase de tipo duro? Â¡Sal de mi vista!}
+{115}{}{No deberÃ­an haber hecho eso. AlgÃºn dÃ­a, forastero, tendrÃ© un arma y entonces les enseÃ±arÃ©.}
+{116}{}{Â¿Te gustarÃ­a ser mi esclava amorosa, preciosidad?}
 {117}{}{Beber y hablar: demonios, no pasa nada excitante en esta ciudad.}
-{118}{}{Vete, me estás molestando.}
-{119}{}{¿Has oído lo de...}
-{120}{}{Así que le digo, "Mira", le digo...}
-{121}{}{Prueba la rata topo tostada. Es lo mejor de por aquí.}
-{122}{}{Hola. ¿Cuál es tu signo?}
-{123}{}{Si estás buscando trabajo, extranjero, ir a la de Vaquero.}
-{124}{}{¡Mierda! ¿Has visto eso?}
+{118}{}{Vete, me estÃ¡s molestando.}
+{119}{}{Â¿Has oÃ­do lo de...}
+{120}{}{AsÃ­ que le digo, "Mira", le digo...}
+{121}{}{Prueba la rata topo tostada. Es lo mejor de por aquÃ­.}
+{122}{}{Hola. Â¿CuÃ¡l es tu signo?}
+{123}{}{Si estÃ¡s buscando trabajo, extranjero, ir a la de Vaquero.}
+{124}{}{Â¡Mierda! Â¿Has visto eso?}
 {125}{}{Oh, amigo, voy a enfermar.}
-{126}{}{Nada más para mí.}
-{127}{}{Oye, ¡mézclame uno de esos!}
+{126}{}{Nada mÃ¡s para mÃ­.}
+{127}{}{Oye, Â¡mÃ©zclame uno de esos!}
 {128}{}{Tuve un Radesperdicio como ese una vez...}

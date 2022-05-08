@@ -1,17 +1,17 @@
-{100}{}{Egy kiskölyök.}
-{101}{}{Egy kiköt?i srác.}
-{102}{}{Egy kiskölyök.}
+{100}{}{Egy kiskÃ¶lyÃ¶k.}
+{101}{}{Egy kikÃ¶t?i srÃ¡c.}
+{102}{}{Egy kiskÃ¶lyÃ¶k.}
 {103}{}{Nem szeretem ezt a helyet.}
-{104}{}{A parton egy nagy, döglött, büdös hal fekszik.}
+{104}{}{A parton egy nagy, dÃ¶glÃ¶tt, bÃ¼dÃ¶s hal fekszik.}
 {105}{}{Eh! Mi az?}
-{106}{}{A leveg?nek elég furi szaga van itt.}
-{107}{}{Nem akarsz úszni?}
-{108}{}{Megyek játszani.}
-{109}{}{Hol van a mamám?}
-{110}{}{A tengerparton élünk!}
+{106}{}{A leveg?nek elÃ©g furi szaga van itt.}
+{107}{}{Nem akarsz Ãºszni?}
+{108}{}{Megyek jÃ¡tszani.}
+{109}{}{Hol van a mamÃ¡m?}
+{110}{}{A tengerparton Ã©lÃ¼nk!}
 {111}{}{Annyira unatkozooooom.}
-{112}{}{ÍÍÍÍÍhhiiiijj!}
-{113}{}{Segítség!}
-{114}{}{Ó, ne! A mumus!}
+{112}{}{ÃÃÃÃÃhhiiiijj!}
+{113}{}{SegÃ­tsÃ©g!}
+{114}{}{Ã“, ne! A mumus!}
 {115}{}{Mamiiiiiiiii!}
-{116}{}{Futás! Ez egy szörny!}
+{116}{}{FutÃ¡s! Ez egy szÃ¶rny!}

@@ -1,106 +1,106 @@
 {100}{}{Ves a un hombre pelirrojo.}
 {101}{}{Ves a Dave H.}
 {102}{}{Ves a un hombre pelirrojo con un brillo esperanzado en los ojos.}
-{103}{}{¿Por qué quieres hacernos daño?}
-{104}{}{Como puedo ayudarte, ¿iluminado?}
+{103}{}{Â¿Por quÃ© quieres hacernos daÃ±o?}
+{104}{}{Como puedo ayudarte, Â¿iluminado?}
 {105}{}{Voy a progresar con Vikki... umm... pronto.}
-{106}{}{¿Cómo puedo ayudarte?}
-{107}{}{¿Qué quieres?}
+{106}{}{Â¿CÃ³mo puedo ayudarte?}
+{107}{}{Â¿QuÃ© quieres?}
 {108}{}{Da... oooh...}
-{109}{}{¿Quién eres?}
-{110}{}{¿Qué haces aquí?}
+{109}{}{Â¿QuiÃ©n eres?}
+{110}{}{Â¿QuÃ© haces aquÃ­?}
 {111}{}{He hablado con Vikki. Ella y Juan se rieron de ti y dijeron que no eres un hombre de verdad.}
-{112}{}{He hablado con Vikki. Dice que estás para comerte y que te necesita cuanto antes.}
-{113}{}{¿Quieres que hable con Vikki por ti?}
-{114}{}{No importa. Adiós.}
-{115}{}{Ummm... vaaale. Lo que sea. Oye, ¿qué es eso de ahí?
+{112}{}{He hablado con Vikki. Dice que estÃ¡s para comerte y que te necesita cuanto antes.}
+{113}{}{Â¿Quieres que hable con Vikki por ti?}
+{114}{}{No importa. AdiÃ³s.}
+{115}{}{Ummm... vaaale. Lo que sea. Oye, Â¿quÃ© es eso de ahÃ­?
 [Cuando te giras para mirar, vuelve con lo que estaba haciendo y te ignora.]}
 {116}{}{[HECHO]}
-{117}{}{Soy Dave Handy. Procedo de Canadá.}
-{118}{}{Entonces, ¿qué haces aquí?}
-{119}{}{¿Qué te trajo hasta aquí?}
-{120}{}{Gracias. Adiós.}
-{121}{}{Les enseño a estos tipos cómo mover sus datos y responder a preguntas estúpidas todo el día.}
-{122}{}{¿Podrías piratear la base de datos Shi?}
-{123}{}{¿Qué clase de preguntas estúpidas?}
+{117}{}{Soy Dave Handy. Procedo de CanadÃ¡.}
+{118}{}{Entonces, Â¿quÃ© haces aquÃ­?}
+{119}{}{Â¿QuÃ© te trajo hasta aquÃ­?}
+{120}{}{Gracias. AdiÃ³s.}
+{121}{}{Les enseÃ±o a estos tipos cÃ³mo mover sus datos y responder a preguntas estÃºpidas todo el dÃ­a.}
+{122}{}{Â¿PodrÃ­as piratear la base de datos Shi?}
+{123}{}{Â¿QuÃ© clase de preguntas estÃºpidas?}
 {124}{}{Bien, tengo otras preguntas para ti.}
-{125}{}{Suena genial. Adiós.}
-{126}{}{Promete no reírte.}
+{125}{}{Suena genial. AdiÃ³s.}
+{126}{}{Promete no reÃ­rte.}
 {127}{}{Vale.}
-{128}{}{No, olvídalo.}
-{129}{}{La reclutadora, Vikki Goldman. Vi una de sus películas en Canadá, y supe que ella se enamoraría de mí. Aún no ha sucedido, pero estoy trabajando en ello.}
-{130}{}{Me lo apunto. Tengo algunas preguntas más.}
-{131}{}{¡Ja, ja! ¡Eres una arrastrada! Ella es una estrella porno, colega. No quiere nada de ti.}
-{132}{}{Entiendes que ella sólo finge interés en ti para asegurarse de que sigas siendo un buen Hubologista, ¿verdad?}
-{133}{}{Bueno, sí... ¡pero merecerá la pena en el caso de que suceda algo entre ambos!}
-{134}{}{Si tú lo dices... si tú lo dices. Tengo más preguntas.}
+{128}{}{No, olvÃ­dalo.}
+{129}{}{La reclutadora, Vikki Goldman. Vi una de sus pelÃ­culas en CanadÃ¡, y supe que ella se enamorarÃ­a de mÃ­. AÃºn no ha sucedido, pero estoy trabajando en ello.}
+{130}{}{Me lo apunto. Tengo algunas preguntas mÃ¡s.}
+{131}{}{Â¡Ja, ja! Â¡Eres una arrastrada! Ella es una estrella porno, colega. No quiere nada de ti.}
+{132}{}{Entiendes que ella sÃ³lo finge interÃ©s en ti para asegurarse de que sigas siendo un buen Hubologista, Â¿verdad?}
+{133}{}{Bueno, sÃ­... Â¡pero merecerÃ¡ la pena en el caso de que suceda algo entre ambos!}
+{134}{}{Si tÃº lo dices... si tÃº lo dices. Tengo mÃ¡s preguntas.}
 {135}{}{Lo que sea. Nos vemos.}
 {136}{}{::se sienta en un silencio aturdido un momento::
 ::el dolor cruza su rostro::
 Oh, bueno.
 ::aparta la mirada::}
 {137}{}{Apuesto que que quieres vengarte de ella.}
-{138}{}{Lo siento. Tengo más preguntas.}
-{139}{}{Después de haber entregado esas noticias... ¡hasta luego!}
-{140}{}{Puedes apostarlo. ¿Qué necesitas?}
+{138}{}{Lo siento. Tengo mÃ¡s preguntas.}
+{139}{}{DespuÃ©s de haber entregado esas noticias... Â¡hasta luego!}
+{140}{}{Puedes apostarlo. Â¿QuÃ© necesitas?}
 {141}{}{Necesito los planos del vertibird de vuestra computadora.}
 {142}{}{Necesito que formatees el disco duro Hubologista.}
 {143}{}{Quiero que piratees la base de datos Shi y canalices algo de combustible al petrolero Poseidon.}
 {144}{}{Quiero que redirecciones el combustible de la nave espacial hacia el petrolero Poseidon.}
 {145}{}{Nada. Hasta luego.}
-{146}{}{Ya está. Ahora, sal de aquí. Voy a formatear la computadora y marcharme.}
+{146}{}{Ya estÃ¡. Ahora, sal de aquÃ­. Voy a formatear la computadora y marcharme.}
 {147}{}{Necesito los planos del vertibird de vuestra computadora.}
 {148}{}{Quiero que piratees la base de datos Shi y canalices algo de combustible al petrolero Poseidon.}
 {149}{}{Quiero que redirecciones el combustible de la nave espacial hacia el petrolero Poseidon.}
 {150}{}{Bueno, en realidad estaba bromeando. Ella no dijo eso.}
-{151}{}{Buena suerte. ¡Nos vemos!}
-{152}{}{Hecho. Eso enseñará a esos bastardos a usarme y rechazarme. Adiós.}
+{151}{}{Buena suerte. Â¡Nos vemos!}
+{152}{}{Hecho. Eso enseÃ±arÃ¡ a esos bastardos a usarme y rechazarme. AdiÃ³s.}
 {153}{}{Bueno, en realidad estaba bromeando. Ella no dijo eso.}
-{154}{}{Adiós.}
+{154}{}{AdiÃ³s.}
 {155}{}{Ella no dijo eso. Oh, bueno.}
-{156}{}{Así que he causado todo es mal por nada. Ahora voy a matarte.}
-{157}{}{Inténtalo.}
-{158}{}{¿Ella dijo eso? ¿En serio? Vaya. ::una beatífica sonrisa le ilumina lentamente el rostro:: ¡Gracias! ¿Qué puedo hacer por ti?}
+{156}{}{AsÃ­ que he causado todo es mal por nada. Ahora voy a matarte.}
+{157}{}{IntÃ©ntalo.}
+{158}{}{Â¿Ella dijo eso? Â¿En serio? Vaya. ::una beatÃ­fica sonrisa le ilumina lentamente el rostro:: Â¡Gracias! Â¿QuÃ© puedo hacer por ti?}
 {159}{}{Necesito los planos del vertibird de vuestra computadora.}
 {160}{}{Necesito que formatees el disco duro Hubologista.}
 {161}{}{Quiero que piratees la base de datos Shi y canalices algo de combustible al petrolero Poseidon.}
 {162}{}{Quiero que redirecciones el combustible de la nave espacial hacia el petrolero Poseidon.}
-{163}{}{Ahh, nada. Continúa y diviértete un poco.}
-{164}{}{Aquí está. ¿Algo más?}
+{163}{}{Ahh, nada. ContinÃºa y diviÃ©rtete un poco.}
+{164}{}{AquÃ­ estÃ¡. Â¿Algo mÃ¡s?}
 {165}{}{Necesito los planos del vertibird de vuestra computadora.}
 {166}{}{Necesito que formatees el disco duro Hubologista.}
 {167}{}{Quiero que redirecciones el combustible de la nave espacial hacia el petrolero Poseidon.}
 {168}{}{Quiero que piratees la base de datos Shi y canalices algo de combustible al petrolero Poseidon.}
-{169}{}{No. ¡Hasta luego!}
-{170}{}{¿Formatear el disco duro? ¿Estás de broma? ¡Ni hablar! ¡No puedo hacer eso!}
-{171}{}{Sólo es una limpieza de rutina. Ya he hecho una copia de respaldo de todo.}
-{172}{}{Oh, está bien. Tengo más preguntas.}
-{173}{}{Oh, está bien. Adiós.}
-{174}{}{Oh. Bien, si ya has hecho una copia de respaldo completa, lo haré. ::utiliza el teclado:: Hecho.}
-{175}{}{¡Gracias! ¡Hasta luego!}
-{176}{}{Te he engañado como a un chino. ¡Hasta nunca!}
-{177}{}{Lo comprobaré yo mismo. No creo que sea seguro formatear la unidad central por el momento.}
-{178}{}{Bien. Tengo más preguntas.}
-{179}{}{De acuerdo. Adiós.}
-{180}{}{No, no... sería demasiado embarazoso.}
-{181}{}{Bien, bien. Tengo más preguntas.}
+{169}{}{No. Â¡Hasta luego!}
+{170}{}{Â¿Formatear el disco duro? Â¿EstÃ¡s de broma? Â¡Ni hablar! Â¡No puedo hacer eso!}
+{171}{}{SÃ³lo es una limpieza de rutina. Ya he hecho una copia de respaldo de todo.}
+{172}{}{Oh, estÃ¡ bien. Tengo mÃ¡s preguntas.}
+{173}{}{Oh, estÃ¡ bien. AdiÃ³s.}
+{174}{}{Oh. Bien, si ya has hecho una copia de respaldo completa, lo harÃ©. ::utiliza el teclado:: Hecho.}
+{175}{}{Â¡Gracias! Â¡Hasta luego!}
+{176}{}{Te he engaÃ±ado como a un chino. Â¡Hasta nunca!}
+{177}{}{Lo comprobarÃ© yo mismo. No creo que sea seguro formatear la unidad central por el momento.}
+{178}{}{Bien. Tengo mÃ¡s preguntas.}
+{179}{}{De acuerdo. AdiÃ³s.}
+{180}{}{No, no... serÃ­a demasiado embarazoso.}
+{181}{}{Bien, bien. Tengo mÃ¡s preguntas.}
 {182}{}{Bien, bien.}
-{183}{}{Debería poder hacerlo. Pero sólo si tienes una tarea específica en mente.}
-{184}{}{Desvía combustible al petrolero Poseidon.}
-{185}{}{Ahora mismo no se me ocurre nada en concreto. Ya te lo haré saber.}
+{183}{}{DeberÃ­a poder hacerlo. Pero sÃ³lo si tienes una tarea especÃ­fica en mente.}
+{184}{}{DesvÃ­a combustible al petrolero Poseidon.}
+{185}{}{Ahora mismo no se me ocurre nada en concreto. Ya te lo harÃ© saber.}
 {186}{}{Oh, como:}
-{187}{}{"¿Mi terminal tiene soporte para tarjeta 3D?"}
-{188}{}{"¿Por qué no puedo conseguir una conexión multiusuario?"}
-{189}{}{"¡Creo que deberíamos cambiar la interfaz, a pesar de que ésta funciona perfectamente bien!"}
-{190}{}{"¿Por qué no puedo usar una espada o una motosierra con mi monitor?"}
-{191}{}{"Debería poder tener dos armas. ¿Por qué no puedo usar dos armas?"}
+{187}{}{"Â¿Mi terminal tiene soporte para tarjeta 3D?"}
+{188}{}{"Â¿Por quÃ© no puedo conseguir una conexiÃ³n multiusuario?"}
+{189}{}{"Â¡Creo que deberÃ­amos cambiar la interfaz, a pesar de que Ã©sta funciona perfectamente bien!"}
+{190}{}{"Â¿Por quÃ© no puedo usar una espada o una motosierra con mi monitor?"}
+{191}{}{"DeberÃ­a poder tener dos armas. Â¿Por quÃ© no puedo usar dos armas?"}
 {192}{}{"La interfaz en mi terminal es lenta y torpe. Creo que es culpa tuya."}
-{193}{}{Algo así.}
-{194}{}{Ya veo. Parece que esas personas van a tener un montón de diversión. Tengo más preguntas.}
+{193}{}{Algo asÃ­.}
+{194}{}{Ya veo. Parece que esas personas van a tener un montÃ³n de diversiÃ³n. Tengo mÃ¡s preguntas.}
 {195}{}{Ya veo. Bueno, hasta luego.}
-{196}{}{Podría hacerlo. Pero necesitaría una buena razón, y no la tengo. Lo siento. ¿Algo más?}
-{197}{}{Sí, tengo más preguntas.}
+{196}{}{PodrÃ­a hacerlo. Pero necesitarÃ­a una buena razÃ³n, y no la tengo. Lo siento. Â¿Algo mÃ¡s?}
+{197}{}{SÃ­, tengo mÃ¡s preguntas.}
 {198}{}{No, supongo que no.}
-{199}{}{Lo siento, su sistema lleva sin responder desde hace un tiempo. No hay forma de que pueda entrar en él. ¿Algo más?}
-{200}{}{Voy a progresar con Vikki... umm... pronto. ¿Puedo ayudarte?}
-{201}{}{Su sistema no ha estado respondiendo por un tiempo. Parece que alguien formateó sus basas de datos. Como lo que haré aquí después lo hice contigo. ¿Algo más?}
+{199}{}{Lo siento, su sistema lleva sin responder desde hace un tiempo. No hay forma de que pueda entrar en Ã©l. Â¿Algo mÃ¡s?}
+{200}{}{Voy a progresar con Vikki... umm... pronto. Â¿Puedo ayudarte?}
+{201}{}{Su sistema no ha estado respondiendo por un tiempo. Parece que alguien formateÃ³ sus basas de datos. Como lo que harÃ© aquÃ­ despuÃ©s lo hice contigo. Â¿Algo mÃ¡s?}

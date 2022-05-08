@@ -1,7 +1,7 @@
-{100}{}{Egy kisebb rakás követ látsz.}
-{101}{}{Egy kisebb rakás követ látsz. Úgy t?nik, direkt hordta össze valaki.}
-{102}{}{Csak egy kis hrakás k?.}
-{103}{}{Jé! Egy csavarkulcs volt a kövek alatt!}
-{104}{}{Itt nincs semmi egyéb.}
+{100}{}{Egy kisebb rakÃ¡s kÃ¶vet lÃ¡tsz.}
+{101}{}{Egy kisebb rakÃ¡s kÃ¶vet lÃ¡tsz. Ãšgy t?nik, direkt hordta Ã¶ssze valaki.}
+{102}{}{Csak egy kis hrakÃ¡s k?.}
+{103}{}{JÃ©! Egy csavarkulcs volt a kÃ¶vek alatt!}
+{104}{}{Itt nincs semmi egyÃ©b.}
 {110}{}{Hey! Me findie tool here.}
 {111}{}{Me no find more treasure.}

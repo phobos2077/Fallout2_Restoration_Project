@@ -1,26 +1,26 @@
 {100}{}{Ves a un mutante sucio.}
 {101}{}{Lleva puesta una camisa manchada de sudor y una camiseta amarillenta bajo ella. Parece estar esperando algo.}
 {102}{}{Ves a una mutante que parece molesta.}
-{103}{}{Viste un manchado delantal con el dibujo de un caniche. Lleva rulos de plástico rosa en el pelo.}
-{104}{}{¡¿Dónde está mi puñetero plato de pasta de brahmin, mujer?!}
-{105}{}{¡No te pases con la pimienta esta vez, mendruga!}
-{106}{}{¡¿Dónde estuviste anoche?!}
-{107}{}{¿Dónde está mi revista de la Garra de la Gata? La tiraste otra vez, ¿no?}
+{103}{}{Viste un manchado delantal con el dibujo de un caniche. Lleva rulos de plÃ¡stico rosa en el pelo.}
+{104}{}{Â¡Â¿DÃ³nde estÃ¡ mi puÃ±etero plato de pasta de brahmin, mujer?!}
+{105}{}{Â¡No te pases con la pimienta esta vez, mendruga!}
+{106}{}{Â¡Â¿DÃ³nde estuviste anoche?!}
+{107}{}{Â¿DÃ³nde estÃ¡ mi revista de la Garra de la Gata? La tiraste otra vez, Â¿no?}
 {108}{}{**Phhhhhhhttttttt**}
-{109}{}{Zaius, de la mina, dice que quizá tenga algún trabajo para mí el próximo mes.}
-{110}{}{¡Este lugar es un maldito estercolero! ¿Cuándo vas a ponerte a limpiar, mujer?}
-{111}{}{¡Tienes la lengua muy larga, mujer!}
+{109}{}{Zaius, de la mina, dice que quizÃ¡ tenga algÃºn trabajo para mÃ­ el prÃ³ximo mes.}
+{110}{}{Â¡Este lugar es un maldito estercolero! Â¿CuÃ¡ndo vas a ponerte a limpiar, mujer?}
+{111}{}{Â¡Tienes la lengua muy larga, mujer!}
 {112}{}{Te quiero, bicho.}
-{113}{}{¿Quieres probar el revés de mi mano, ¿mujer?}
-{140}{}{¡Prepárate tu propio jodido plato, perezoso grano de pus!}
-{141}{}{...(murmurando) te daré tanta puta pimienta como quiera... }
-{142}{}{¡Lavando tus sucios calzoncillos en el pozo, como siempre!}
-{143}{}{¡¿Para qué necesitas esa basura cuando me tienes aquí mismo?!}
-{144}{}{¡Te dije que dejaras de comer ese pincho de iguana! ¡Abre una ventana! ¡Augh!}
-{145}{}{¡Bien! ¡Si eso consigue sacar tu gordo trasero de casa, me parece perfecto!}
-{146}{}{¡Tan pronto como comiences a mostrarme un poco de jodido respeto, cabronazo!}
-{147}{}{¡Y tú debes tener el cerebro en algún LUGAR de esta casa!}
-{148}{}{Yo también te quiero, tonicillo.}
-{149}{}{¡No quiero NADA que tenga que ver con tus manos!}
-{200}{}{¿Qué demonios quieres? Lárgate de mi casa, canijo.}
-{201}{}{Te lo juro: un día de estos me levanto y me largo. Y a ver qué hace Su Perezosidad entonces.}
+{113}{}{Â¿Quieres probar el revÃ©s de mi mano, Â¿mujer?}
+{140}{}{Â¡PrepÃ¡rate tu propio jodido plato, perezoso grano de pus!}
+{141}{}{...(murmurando) te darÃ© tanta puta pimienta como quiera... }
+{142}{}{Â¡Lavando tus sucios calzoncillos en el pozo, como siempre!}
+{143}{}{Â¡Â¿Para quÃ© necesitas esa basura cuando me tienes aquÃ­ mismo?!}
+{144}{}{Â¡Te dije que dejaras de comer ese pincho de iguana! Â¡Abre una ventana! Â¡Augh!}
+{145}{}{Â¡Bien! Â¡Si eso consigue sacar tu gordo trasero de casa, me parece perfecto!}
+{146}{}{Â¡Tan pronto como comiences a mostrarme un poco de jodido respeto, cabronazo!}
+{147}{}{Â¡Y tÃº debes tener el cerebro en algÃºn LUGAR de esta casa!}
+{148}{}{Yo tambiÃ©n te quiero, tonicillo.}
+{149}{}{Â¡No quiero NADA que tenga que ver con tus manos!}
+{200}{}{Â¿QuÃ© demonios quieres? LÃ¡rgate de mi casa, canijo.}
+{201}{}{Te lo juro: un dÃ­a de estos me levanto y me largo. Y a ver quÃ© hace Su Perezosidad entonces.}

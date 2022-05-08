@@ -1,44 +1,44 @@
-{100}{}{Ves a... ¡un fantasma!}
+{100}{}{Ves a... Â¡un fantasma!}
 {101}{}{Ves al fantasma de Anna.}
-{150}{}{Es un fantasma. No es algo que se vea todos los días.}
+{150}{}{Es un fantasma. No es algo que se vea todos los dÃ­as.}
 {151}{}{Parece bastante atormentado.}
 {152}{}{[HABLAR]}
-{153}{}{¡Oh, qué dolor! ¡Me quema!}
-{154}{}{¿Qué te ocurre?}
-{155}{}{¿Quién eres?}
-{156}{}{¡Vete, vil espíritu!}
+{153}{}{Â¡Oh, quÃ© dolor! Â¡Me quema!}
+{154}{}{Â¿QuÃ© te ocurre?}
+{155}{}{Â¿QuiÃ©n eres?}
+{156}{}{Â¡Vete, vil espÃ­ritu!}
 {157}{}{Llamo en todas las puertas, pero nadie viene, nadie me oye.}
-{158}{}{Yo puedo oírte. ¿Qué te ocurre?}
-{159}{}{Creo que necesita apagar su sigilante, señorita.}
-{160}{}{¿Dónde está? ¡No lo encuentro! ¡Lo he perdido! Oh....}
-{161}{}{¿Qué estás buscando? Quizás pueda ayudarte.}
-{162}{}{Deberías dejar de quejarte y de gemir y decir algo que tenga sentido.}
-{163}{}{¡Mi medallón! Ya no está. ¡Ladrón! ¡Ladrón!}
+{158}{}{Yo puedo oÃ­rte. Â¿QuÃ© te ocurre?}
+{159}{}{Creo que necesita apagar su sigilante, seÃ±orita.}
+{160}{}{Â¿DÃ³nde estÃ¡? Â¡No lo encuentro! Â¡Lo he perdido! Oh....}
+{161}{}{Â¿QuÃ© estÃ¡s buscando? QuizÃ¡s pueda ayudarte.}
+{162}{}{DeberÃ­as dejar de quejarte y de gemir y decir algo que tenga sentido.}
+{163}{}{Â¡Mi medallÃ³n! Ya no estÃ¡. Â¡LadrÃ³n! Â¡LadrÃ³n!}
 {164}{}{Whoa, acabo de llegar. Yo no lo hice.}
-{165}{}{¿Puedo ayudarte a encontrarlo?}
+{165}{}{Â¿Puedo ayudarte a encontrarlo?}
 {166}{}{Oh, destino cruel.}
-{167}{}{¿No puedes oírme, verdad?}
-{168}{}{Hasta más ver, chica fantasma.}
-{169}{}{Adiós. Intentaré ayudarte.}
-{170}{}{¡Mi medallón! ¡Dámelo! ¡Oh!}
-{171}{}{¡De ninguna manera! Vete al infierno. Conseguí esto honradamente.}
-{172}{}{Está bien, aquí lo tienes.}
+{167}{}{Â¿No puedes oÃ­rme, verdad?}
+{168}{}{Hasta mÃ¡s ver, chica fantasma.}
+{169}{}{AdiÃ³s. IntentarÃ© ayudarte.}
+{170}{}{Â¡Mi medallÃ³n! Â¡DÃ¡melo! Â¡Oh!}
+{171}{}{Â¡De ninguna manera! Vete al infierno. ConseguÃ­ esto honradamente.}
+{172}{}{EstÃ¡ bien, aquÃ­ lo tienes.}
 {173}{}{Toma. Que descanses en paz.}
 {174}{}{Vale.}
 {175}{}{No.}
-{176}{}{¡Mi relicario, mi relicario! ¡Ya voy, papá! ¡Ya voy!}
-{177}{}{Adiós.}
-{178}{}{¡Espera! ¡No vayas!}
+{176}{}{Â¡Mi relicario, mi relicario! Â¡Ya voy, papÃ¡! Â¡Ya voy!}
+{177}{}{AdiÃ³s.}
+{178}{}{Â¡Espera! Â¡No vayas!}
 {179}{}{Ve hacia la luz.}
-{200}{}{¿Dónde puede estar?}
+{200}{}{Â¿DÃ³nde puede estar?}
 {201}{}{Ohhh.}
-{202}{}{¿Mamá? ¿Papá? ¿Dónde estáis?}
-{203}{}{¡No puedo encontrarlo!}
-{500}{}{Mamá... Papá.. Ya voy...}
+{202}{}{Â¿MamÃ¡? Â¿PapÃ¡? Â¿DÃ³nde estÃ¡is?}
+{203}{}{Â¡No puedo encontrarlo!}
+{500}{}{MamÃ¡... PapÃ¡.. Ya voy...}
 {501}{}{Es tan brillante...}
 {502}{}{Abuelito, puedo verte...}
-{503}{}{Oh, es el amable señor Cain. Me alegro de verle de nuevo...}
-{550}{}{Esta casa está limpia.}
+{503}{}{Oh, es el amable seÃ±or Cain. Me alegro de verle de nuevo...}
+{550}{}{Esta casa estÃ¡ limpia.}
 {551}{}{Oog, huesos boni-tos.}
-{560}{}{¡CAZAFANTASMAS!}
+{560}{}{Â¡CAZAFANTASMAS!}
 {561}{}{Uhg.}

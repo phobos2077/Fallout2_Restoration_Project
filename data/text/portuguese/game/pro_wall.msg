@@ -1,43 +1,43 @@
-{100}{}{Parede de aço}
-{200}{}{Parede de aço}
-{300}{}{Parede de aço}
-{400}{}{Parede de aço}
-{500}{}{Parede de aço}
-{600}{}{Parede de aço}
-{700}{}{Parede de aço}
-{800}{}{Parede de aço}
-{900}{}{Parede de aço}
-{1000}{}{Parede de aço}
-{1100}{}{Parede de aço}
-{1200}{}{Parede de aço}
-{1300}{}{Parede de aço}
-{1400}{}{Parede de aço}
-{1500}{}{Parede de aço}
-{1600}{}{Parede de aço}
-{1700}{}{Parede de aço}
-{1800}{}{Parede de aço}
+{100}{}{Parede de aÃ§o}
+{200}{}{Parede de aÃ§o}
+{300}{}{Parede de aÃ§o}
+{400}{}{Parede de aÃ§o}
+{500}{}{Parede de aÃ§o}
+{600}{}{Parede de aÃ§o}
+{700}{}{Parede de aÃ§o}
+{800}{}{Parede de aÃ§o}
+{900}{}{Parede de aÃ§o}
+{1000}{}{Parede de aÃ§o}
+{1100}{}{Parede de aÃ§o}
+{1200}{}{Parede de aÃ§o}
+{1300}{}{Parede de aÃ§o}
+{1400}{}{Parede de aÃ§o}
+{1500}{}{Parede de aÃ§o}
+{1600}{}{Parede de aÃ§o}
+{1700}{}{Parede de aÃ§o}
+{1800}{}{Parede de aÃ§o}
 {1801}{}{}
-{1900}{}{Canto da parede de aço}
-{2000}{}{Canto da parede de aço}
-{2100}{}{Canto da parede de aço}
-{2200}{}{Canto da parede de aço}
-{2300}{}{Parede de aço}
-{2400}{}{Parede de aço}
-{2500}{}{Canto da parede de aço}
-{2600}{}{Parede de aço}
-{2700}{}{Parede de aço}
-{2800}{}{Canto da parede de aço}
-{2900}{}{Parede de aço}
-{3000}{}{Parede de aço}
+{1900}{}{Canto da parede de aÃ§o}
+{2000}{}{Canto da parede de aÃ§o}
+{2100}{}{Canto da parede de aÃ§o}
+{2200}{}{Canto da parede de aÃ§o}
+{2300}{}{Parede de aÃ§o}
+{2400}{}{Parede de aÃ§o}
+{2500}{}{Canto da parede de aÃ§o}
+{2600}{}{Parede de aÃ§o}
+{2700}{}{Parede de aÃ§o}
+{2800}{}{Canto da parede de aÃ§o}
+{2900}{}{Parede de aÃ§o}
+{3000}{}{Parede de aÃ§o}
 {3001}{}{}
-{3100}{}{Parede de aço T}
-{3200}{}{Parede de aço T}
-{3300}{}{Parede de aço T}
-{3400}{}{Parede de aço de quatro lados}
-{3500}{}{Fim da parede de aço}
-{3600}{}{Fim da parede de aço}
-{3700}{}{Fim da parede de aço}
-{3800}{}{Fim da parede de aço}
+{3100}{}{Parede de aÃ§o T}
+{3200}{}{Parede de aÃ§o T}
+{3300}{}{Parede de aÃ§o T}
+{3400}{}{Parede de aÃ§o de quatro lados}
+{3500}{}{Fim da parede de aÃ§o}
+{3600}{}{Fim da parede de aÃ§o}
+{3700}{}{Fim da parede de aÃ§o}
+{3800}{}{Fim da parede de aÃ§o}
 {3900}{}{Entrada}
 {4000}{}{Entrada}
 {4100}{}{Entrada}
@@ -54,22 +54,22 @@
 {5200}{}{Parede}
 {5300}{}{Parede}
 {5400}{}{Parede}
-{5500}{}{Janela de Aço}
+{5500}{}{Janela de AÃ§o}
 {5600}{}{Tubo}
 {5700}{}{Tubo}
 {5800}{}{Tubo}
 {5900}{}{Equipamento}
 {5901}{}{}
-{6000}{}{Tubulações}
+{6000}{}{TubulaÃ§Ãµes}
 {6100}{}{Tubo}
 {6200}{}{Tubo}
 {6300}{}{Tubo}
 {6400}{}{Tubo}
 {6500}{}{Tubo}
 {6600}{}{Tubo}
-{6700}{}{Tubulações}
-{6800}{}{Tubulações}
-{6900}{}{Tubulações}
+{6700}{}{TubulaÃ§Ãµes}
+{6800}{}{TubulaÃ§Ãµes}
+{6900}{}{TubulaÃ§Ãµes}
 {7000}{}{Tubo}
 {7100}{}{Tubo}
 {7200}{}{Tubo}
@@ -77,14 +77,14 @@
 {7400}{}{Tubo}
 {7500}{}{Equipamento}
 {7501}{}{}
-{7600}{}{Tubulações}
+{7600}{}{TubulaÃ§Ãµes}
 {7700}{}{Equipamento}
 {7701}{}{}
 {7800}{}{Tubo}
-{7900}{}{Tubulações}
-{8000}{}{Tubulações}
+{7900}{}{TubulaÃ§Ãµes}
+{8000}{}{TubulaÃ§Ãµes}
 {8100}{}{Tubo}
-{8200}{}{Tubulações}
+{8200}{}{TubulaÃ§Ãµes}
 {8300}{}{Tubo}
 {8400}{}{Tubo}
 {8500}{}{Bugiganga}
@@ -110,8 +110,8 @@
 {10500}{}{Porta de lata}
 {10600}{}{Porta de lata}
 {10700}{}{Porta de lata}
-{10800}{}{Parede de aço}
-{10900}{}{Parede de aço}
+{10800}{}{Parede de aÃ§o}
+{10900}{}{Parede de aÃ§o}
 {11000}{}{Parede de madeira}
 {11100}{}{Parede de madeira}
 {11200}{}{Parede de lata}
@@ -163,19 +163,19 @@
 {15800}{}{Parede de pedra}
 {15900}{}{Parede de pedra}
 {16000}{}{Parede de pedra}
-{16100}{}{Trilhos de aço}
-{16200}{}{Trilhos de aço}
-{16300}{}{Trilhos de aço}
-{16400}{}{Trilhos de aço}
-{16500}{}{Trilhos de aço}
-{16600}{}{Trilhos de aço}
-{16700}{}{Trilhos de aço}
-{16800}{}{Trilhos de aço}
-{16900}{}{Trilhos de aço}
-{17000}{}{Trilhos de aço}
-{17100}{}{Trilhos de aço}
-{17200}{}{Trilhos de aço}
-{17300}{}{Trilhos de aço}
+{16100}{}{Trilhos de aÃ§o}
+{16200}{}{Trilhos de aÃ§o}
+{16300}{}{Trilhos de aÃ§o}
+{16400}{}{Trilhos de aÃ§o}
+{16500}{}{Trilhos de aÃ§o}
+{16600}{}{Trilhos de aÃ§o}
+{16700}{}{Trilhos de aÃ§o}
+{16800}{}{Trilhos de aÃ§o}
+{16900}{}{Trilhos de aÃ§o}
+{17000}{}{Trilhos de aÃ§o}
+{17100}{}{Trilhos de aÃ§o}
+{17200}{}{Trilhos de aÃ§o}
+{17300}{}{Trilhos de aÃ§o}
 {17400}{}{Parede da caverna}
 {17500}{}{Parede da caverna}
 {17600}{}{Parede da caverna}
@@ -981,17 +981,17 @@
 {97400}{}{Cerca}
 {97500}{}{Cerca}
 {97600}{}{Cerca}
-{97700}{}{Caminhão}
-{97800}{}{Caminhão}
-{97900}{}{Caminhão}
-{98000}{}{Caminhão}
-{98100}{}{Caminhão}
-{98200}{}{Caminhão}
-{98300}{}{Caminhão}
-{98400}{}{Caminhão}
-{98500}{}{Caminhão}
-{98600}{}{Caminhão}
-{98700}{}{Caminhão}
+{97700}{}{CaminhÃ£o}
+{97800}{}{CaminhÃ£o}
+{97900}{}{CaminhÃ£o}
+{98000}{}{CaminhÃ£o}
+{98100}{}{CaminhÃ£o}
+{98200}{}{CaminhÃ£o}
+{98300}{}{CaminhÃ£o}
+{98400}{}{CaminhÃ£o}
+{98500}{}{CaminhÃ£o}
+{98600}{}{CaminhÃ£o}
+{98700}{}{CaminhÃ£o}
 {98800}{}{Parede da caverna}
 {98900}{}{Parede}
 {99000}{}{Parede}
@@ -1139,35 +1139,35 @@
 {113200}{}{Entrada}
 {113300}{}{Entrada}
 {113400}{}{Entrada}
-{113500}{}{Emissor de campo de Força}
-{113600}{}{Emissor de campo de Força}
-{113700}{}{Emissor de campo de Força}
-{113800}{}{Emissor de campo de Força}
+{113500}{}{Emissor de campo de ForÃ§a}
+{113600}{}{Emissor de campo de ForÃ§a}
+{113700}{}{Emissor de campo de ForÃ§a}
+{113800}{}{Emissor de campo de ForÃ§a}
 {113900}{}{Parede}
 {114000}{}{Parede}
 {114100}{}{Parede}
 {114200}{}{Parede}
 {114300}{}{Parede}
-{114400}{}{Tanque de água}
+{114400}{}{Tanque de Ã¡gua}
 {114401}{}{}
-{114500}{}{Tanque de água}
+{114500}{}{Tanque de Ã¡gua}
 {114501}{}{}
-{114600}{}{Tanque de água}
+{114600}{}{Tanque de Ã¡gua}
 {114601}{}{}
-{114700}{}{Tanque de água}
+{114700}{}{Tanque de Ã¡gua}
 {114701}{}{}
-{114800}{}{Tanque de água}
+{114800}{}{Tanque de Ã¡gua}
 {114801}{}{}
-{114900}{}{Tanque de água}
+{114900}{}{Tanque de Ã¡gua}
 {114901}{}{}
-{115000}{}{Tanque de água}
+{115000}{}{Tanque de Ã¡gua}
 {115001}{}{}
-{115100}{}{Tanque de água}
-{115200}{}{Tanque de água}
-{115300}{}{Tanque de água}
+{115100}{}{Tanque de Ã¡gua}
+{115200}{}{Tanque de Ã¡gua}
+{115300}{}{Tanque de Ã¡gua}
 {115400}{}{Parede}
-{115500}{}{Entrada destruída}
-{115600}{}{Entrada destruída}
+{115500}{}{Entrada destruÃ­da}
+{115600}{}{Entrada destruÃ­da}
 {115700}{}{Parede}
 {115800}{}{Parede}
 {115900}{}{Parede}
@@ -1294,19 +1294,19 @@
 {128000}{}{Cerca de madeira}
 {128100}{}{Cerca de madeira}
 {128200}{}{Cerca}
-{128300}{}{Portão}
-{128400}{}{Portão}
-{128500}{}{Portão}
-{128600}{}{Portão}
-{128700}{}{Portão}
-{128800}{}{Portão}
-{128900}{}{Portão}
-{129000}{}{Portão}
-{129100}{}{Portão}
-{129200}{}{Portão}
-{129300}{}{Portão}
-{129400}{}{Portão}
-{129500}{}{Portão}
+{128300}{}{PortÃ£o}
+{128400}{}{PortÃ£o}
+{128500}{}{PortÃ£o}
+{128600}{}{PortÃ£o}
+{128700}{}{PortÃ£o}
+{128800}{}{PortÃ£o}
+{128900}{}{PortÃ£o}
+{129000}{}{PortÃ£o}
+{129100}{}{PortÃ£o}
+{129200}{}{PortÃ£o}
+{129300}{}{PortÃ£o}
+{129400}{}{PortÃ£o}
+{129500}{}{PortÃ£o}
 {129600}{}{Parede}
 {129700}{}{Parede}
 {129800}{}{Parede}
@@ -1564,11 +1564,11 @@
 {155000}{}{Parede}
 {155100}{}{Parede}
 {155200}{}{Casco da balsa}
-{155300}{}{Emissor de campo de Força}
+{155300}{}{Emissor de campo de ForÃ§a}
 {155400}{}{Parede}
 {155500}{}{Parede}
 {155600}{}{Parede}
-{155700}{}{Emissor de campo de Força}
+{155700}{}{Emissor de campo de ForÃ§a}
 {155800}{}{Entrada}
 {155900}{}{Entrada}
 {156000}{}{Entrada}
@@ -1586,16 +1586,16 @@
 {157200}{}{Entrada}
 {157300}{}{Entrada}
 {157400}{}{Parede}
-{157500}{}{Emissor de campo de Força}
+{157500}{}{Emissor de campo de ForÃ§a}
 {157600}{}{Parede}
 {157700}{}{Parede}
-{157800}{}{Emissor de campo de Força}
-{157900}{}{Emissor de campo de Força}
-{158000}{}{Emissor de campo de Força}
+{157800}{}{Emissor de campo de ForÃ§a}
+{157900}{}{Emissor de campo de ForÃ§a}
+{158000}{}{Emissor de campo de ForÃ§a}
 {158100}{}{Parede}
 {158200}{}{Parede}
-{158300}{}{Emissor de campo de Força}
-{158400}{}{Emissor de campo de Força}
+{158300}{}{Emissor de campo de ForÃ§a}
+{158400}{}{Emissor de campo de ForÃ§a}
 {158500}{}{Parede}
 {158600}{}{Parede}
 {158700}{}{Entrada}
@@ -1660,21 +1660,21 @@
 {164600}{}{Parede}
 {164700}{}{Parede}
 {164800}{}{Parede}
-{164900}{}{Emissor de campo de Força}
-{165000}{}{Emissor de campo de Força}
-{165100}{}{Emissor de campo de Força}
-{165200}{}{Emissor de campo de Força}
-{165300}{}{Emissor de campo de Força}
-{165400}{}{Emissor de campo de Força}
-{165500}{}{Emissor de campo de Força}
-{165600}{}{Emissor de campo de Força}
-{165700}{}{Emissor de campo de Força}
-{165800}{}{Emissor de campo de Força}
-{165900}{}{Emissor de campo de Força}
-{166000}{}{Emissor de campo de Força}
-{166100}{}{Emissor de campo de Força}
-{166200}{}{Emissor de campo de Força}
-{166300}{}{Emissor de campo de Força}
+{164900}{}{Emissor de campo de ForÃ§a}
+{165000}{}{Emissor de campo de ForÃ§a}
+{165100}{}{Emissor de campo de ForÃ§a}
+{165200}{}{Emissor de campo de ForÃ§a}
+{165300}{}{Emissor de campo de ForÃ§a}
+{165400}{}{Emissor de campo de ForÃ§a}
+{165500}{}{Emissor de campo de ForÃ§a}
+{165600}{}{Emissor de campo de ForÃ§a}
+{165700}{}{Emissor de campo de ForÃ§a}
+{165800}{}{Emissor de campo de ForÃ§a}
+{165900}{}{Emissor de campo de ForÃ§a}
+{166000}{}{Emissor de campo de ForÃ§a}
+{166100}{}{Emissor de campo de ForÃ§a}
+{166200}{}{Emissor de campo de ForÃ§a}
+{166300}{}{Emissor de campo de ForÃ§a}
 {166400}{}{Casco da balsa}
 {166500}{}{Casco da balsa}
 {166600}{}{Casco da balsa}
@@ -1709,8 +1709,8 @@
 {169500}{}{Parede}
 {169600}{}{Parede}
 {169700}{}{Parede}
-{170000}{}{Parede de aço}
-{170100}{}{Parede de aço}
+{170000}{}{Parede de aÃ§o}
+{170100}{}{Parede de aÃ§o}
 {170200}{}{Parede}
 {170300}{}{Parede}
 {170400}{}{Parede}
@@ -1730,19 +1730,19 @@
 {171800}{}{Entrada}
 {171900}{}{Entrada}
 {172000}{}{Parede}
-{172100}{}{Trilhos de aço enferrujados}
-{172200}{}{Trilhos de aço enferrujados}
-{172300}{}{Trilhos de aço enferrujados}
-{172400}{}{Trilhos de aço enferrujados}
-{172500}{}{Trilhos de aço enferrujados}
-{172600}{}{Trilhos de aço enferrujados}
-{172700}{}{Trilhos de aço enferrujados}
-{172800}{}{Trilhos de aço enferrujados}
-{172900}{}{Trilhos de aço enferrujados}
-{173000}{}{Trilhos de aço enferrujados}
-{173100}{}{Trilhos de aço enferrujados}
-{173200}{}{Trilhos de aço enferrujados}
-{173300}{}{Trilhos de aço enferrujados}
+{172100}{}{Trilhos de aÃ§o enferrujados}
+{172200}{}{Trilhos de aÃ§o enferrujados}
+{172300}{}{Trilhos de aÃ§o enferrujados}
+{172400}{}{Trilhos de aÃ§o enferrujados}
+{172500}{}{Trilhos de aÃ§o enferrujados}
+{172600}{}{Trilhos de aÃ§o enferrujados}
+{172700}{}{Trilhos de aÃ§o enferrujados}
+{172800}{}{Trilhos de aÃ§o enferrujados}
+{172900}{}{Trilhos de aÃ§o enferrujados}
+{173000}{}{Trilhos de aÃ§o enferrujados}
+{173100}{}{Trilhos de aÃ§o enferrujados}
+{173200}{}{Trilhos de aÃ§o enferrujados}
+{173300}{}{Trilhos de aÃ§o enferrujados}
 {173400}{}{Parede}
 {173500}{}{Parede}
 {173600}{}{Parede}
@@ -1794,14 +1794,14 @@
 {178200}{}{Parede}
 {178300}{}{Parede}
 {178400}{}{Parede}
-{178500}{}{Emissor de campo de Força}
-{178600}{}{Emissor de campo de Força}
-{178700}{}{Trilhos de aço enferrujados}
+{178500}{}{Emissor de campo de ForÃ§a}
+{178600}{}{Emissor de campo de ForÃ§a}
+{178700}{}{Trilhos de aÃ§o enferrujados}
 {178800}{}{Parede}
 {178900}{}{Parede}
-{179000}{}{Emissor de campo de Força}
+{179000}{}{Emissor de campo de ForÃ§a}
 {179100}{}{Parede}
-{179200}{}{Emissor de campo de Força}
+{179200}{}{Emissor de campo de ForÃ§a}
 {179300}{}{Parede}
 {179400}{}{Parede}
 {179500}{}{Parede}

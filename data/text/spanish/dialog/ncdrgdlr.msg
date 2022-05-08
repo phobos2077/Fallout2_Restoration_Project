@@ -1,62 +1,62 @@
-{150}{}{Ves a un hombre vestido con ropa arrugada. Se está frotando la nariz y mirando a su alrededor furtivamente.}
+{150}{}{Ves a un hombre vestido con ropa arrugada. Se estÃ¡ frotando la nariz y mirando a su alrededor furtivamente.}
 {151}{}{Ves a un traficante de drogas.}
 {152}{}{Usted ve un traficante de drogas. Parece que la pesca de arrastre de un cliente.}
-{200}{}{¡Oye, héroe! ¿Quieres celebrarlo con algo de Jet? ¡Habla conmigo!}
-{201}{}{¡Qué forma de patearle el culo al Enclave, héroe! ¿Quieres relajarte y celebrarlo con un poco de Jet?}
+{200}{}{Â¡Oye, hÃ©roe! Â¿Quieres celebrarlo con algo de Jet? Â¡Habla conmigo!}
+{201}{}{Â¡QuÃ© forma de patearle el culo al Enclave, hÃ©roe! Â¿Quieres relajarte y celebrarlo con un poco de Jet?}
 {202}{}{::Brindis::}
 {203}{}{::Silbidos::}
-{204}{}{Nada mejor que un poco de Jet después de patearle el culo al Enclave, ¿eh? ¿Tengo razón?}
-{205}{}{Tengo material que te hará subir hasta el cielo, héroe.}
-{206}{}{¿Tienes experiencia?}
-{207}{}{Héroe, si quieres colocarte bien, haz negocios conmigo. He rebajado TODO mi material para ti.}
-{208}{}{Sé lo que estás buscando, amigo, y lo tengo. Todo el Jet que NECESITAS.}
-{209}{}{¿Por qué hablar cuando puedes VOLAR?}
-{210}{}{Tengo el Jet más puro de la ciudad. No soy barato, pero merece la pena cada sorbo.}
-{211}{}{¿Quieres volar? ¿Tienes dinero? Habla CONMIGO.}
-{212}{}{Tengo material que te ayudará a tocar el cielo, amigo.}
-{213}{}{Tengo Jet y más Jet. Hablemos.}
-{214}{}{Hazme saber si puedo ayudarte, héroe. Dime lo que necesitas, y te daré lo mejor de la ciudad.}
-{215}{}{¿Así que estás buscando celebrarlo con algo de Jet, héroe? Has venido al lugar preciso. Para ti, TODO está a precio de ocasión.}
-{216}{}{Lo menos que puedo hacer es rebajar mis existencias para ti, héroe. Sólo es mi forma de decirte gracias por salvar nuestros culos.}
-{217}{}{Nada mejor que un poco de Jet después de patear el culo al Enclave, ¿eh? ¿Tengo razón? Todas mis existencias están a precio de ocasión para ti.}
-{218}{}{Tengo la mierda que te ayudarán a besar el cielo, el héroe. Y para usted: un buen descuento. ¿Cómo suena?}
-{219}{}{¿Tienes caramelos? }
+{204}{}{Nada mejor que un poco de Jet despuÃ©s de patearle el culo al Enclave, Â¿eh? Â¿Tengo razÃ³n?}
+{205}{}{Tengo material que te harÃ¡ subir hasta el cielo, hÃ©roe.}
+{206}{}{Â¿Tienes experiencia?}
+{207}{}{HÃ©roe, si quieres colocarte bien, haz negocios conmigo. He rebajado TODO mi material para ti.}
+{208}{}{SÃ© lo que estÃ¡s buscando, amigo, y lo tengo. Todo el Jet que NECESITAS.}
+{209}{}{Â¿Por quÃ© hablar cuando puedes VOLAR?}
+{210}{}{Tengo el Jet mÃ¡s puro de la ciudad. No soy barato, pero merece la pena cada sorbo.}
+{211}{}{Â¿Quieres volar? Â¿Tienes dinero? Habla CONMIGO.}
+{212}{}{Tengo material que te ayudarÃ¡ a tocar el cielo, amigo.}
+{213}{}{Tengo Jet y mÃ¡s Jet. Hablemos.}
+{214}{}{Hazme saber si puedo ayudarte, hÃ©roe. Dime lo que necesitas, y te darÃ© lo mejor de la ciudad.}
+{215}{}{Â¿AsÃ­ que estÃ¡s buscando celebrarlo con algo de Jet, hÃ©roe? Has venido al lugar preciso. Para ti, TODO estÃ¡ a precio de ocasiÃ³n.}
+{216}{}{Lo menos que puedo hacer es rebajar mis existencias para ti, hÃ©roe. SÃ³lo es mi forma de decirte gracias por salvar nuestros culos.}
+{217}{}{Nada mejor que un poco de Jet despuÃ©s de patear el culo al Enclave, Â¿eh? Â¿Tengo razÃ³n? Todas mis existencias estÃ¡n a precio de ocasiÃ³n para ti.}
+{218}{}{Tengo la mierda que te ayudarÃ¡n a besar el cielo, el hÃ©roe. Y para usted: un buen descuento. Â¿CÃ³mo suena?}
+{219}{}{Â¿Tienes caramelos? }
 {220}{}{Te alejas}
-{221}{}{¿Qué tienes?}
+{221}{}{Â¿QuÃ© tienes?}
 {222}{}{No quiero nada, gracias.}
-{230}{}{Hey, hey… estoy en presencia de la grandeza. Para TI, amigo, mis existencias están a precio de ocasión. Háblales a todos tus amigos de mí,
- ¿vale?}
-{231}{}{¿Así que quieres montarte una fiestecita con algo de Jet, amigo? Has venido al lugar preciso. Para ti, TODO está a precio de ocasión.}
-{232}{}{Tengo Jet suficiente como para ponerte en órbita, mi nuevo mejor amigo. Y para ti, un descuento. ¿Hablamos del precio?}
-{233}{}{Tengo la mierda que te ayudarán a besar el cielo, amigo. Y para usted: un descuento. Que el sonido de todos los derechos?}
-{234}{}{Qué menos que rebajar mis existencias para TI, amigo. Sólo es mi forma de resultar amigable.}
-{235}{}{Tienes clase, y lo sabes. Clase. Y cuando alguien que tiene tanta clase como tú negocia conmigo, consigue un descuento
- en la tienda, ¿sabes?}
-{236}{}{Hazme saber si puedo ayudarte, amigo. Dime lo que necesitas, y te daré lo mejor de la ciudad.}
-{237}{}{Nada mejor que un poco de Jet después de un largo día de ir de acá para allá, ¿eh? ¿Tengo razón? Para TI, todas mis existencias tienen precio de ocasión.}
-{238}{}{Hey, hey… estoy en presencia de la grandeza. Para TI, señorita, mis existencias están a precio de ocasión. Háblales a todos tus amigos de mí, ¿vale?}
-{239}{}{¿Así que quieres montarte una fiestecita con algo de Jet, señorita? Has venido al lugar preciso. Para ti, TODO está a precio de ocasión.}
-{240}{}{Tengo Jet suficiente como para ponerte en órbita, mi nueva mejor amiga. Y para ti, un descuento. ¿Hablamos del precio?}
-{241}{}{Tengo material que te ayudará a llegar al cielo, señorita. Y para ti, un descuento. ¿Suena eso lo suficientemente bien?}
-{242}{}{Qué menos que rebajar mis existencias para TI, señorita. Sólo es mi forma de resultar amigable.}
-{247}{}{Sé lo que estás buscando, esclavista, y lo tengo. Todo el Jet que NECESITAS.}
-{248}{}{¿Por qué hablar cuando puedes VOLAR? Tú quieres Jet, y yo lo tengo.}
-{249}{}{Esclavista, Tengo el Jet más puro de la ciudad. No es barato, pero vale lo que cuesta.}
-{250}{}{¿Quieres volar, esclavista? ¿Tienes dinero? Habla conmigo.}
-{251}{}{Tengo material que te ayudará a tocar el cielo, esclavista.}
-{252}{}{Tengo Jet, Jet y MÁS Jet. Hablemos.}
-{253}{}{Tengo suficiente Jet como para ponerte en órbita, esclavista. ¿Discutiremos el precio?}
-{254}{}{¿Has experimentado, esclavista? Deja que te pase el mejor Jet de la ciudad.}
-{255}{}{¿Estás buscando Jet? Vamos, esclavista, hagamos un trato.}
-{256}{}{¿Estás buscando Jet? Vamos, esclavista, entre tú y yo: hablemos.}
-{261}{}{Sé lo que estás buscando, amigo, y lo tengo. Todo el Jet que NECESITAS.}
-{262}{}{¿Por qué hablar cuando puedes VOLAR?}
-{263}{}{Tengo el Jet más puro de la ciudad. No es barato, pero vale cada ficha que cuesta.}
-{264}{}{¿Quieres volar? ¿Tienes dinero? Habla conmigo.}
-{265}{}{Tengo material que te ayudará a tocar el cielo, amigo.}
-{266}{}{Tengo Jet, Jet y MÁS Jet. Hablemos.}
-{267}{}{Tengo suficiente Jet como para ponerte en órbita, amigo. ¿Discutiremos el precio?}
-{268}{}{¿Has experimentado? Permíteme que te pase el mejor Jet de la ciudad.}
-{269}{}{¿Estás buscando Jet? Hagamos un trato.}
-{270}{}{¿Estás buscando Jet? Hablemos.}
+{230}{}{Hey, heyâ€¦ estoy en presencia de la grandeza. Para TI, amigo, mis existencias estÃ¡n a precio de ocasiÃ³n. HÃ¡blales a todos tus amigos de mÃ­,
+ Â¿vale?}
+{231}{}{Â¿AsÃ­ que quieres montarte una fiestecita con algo de Jet, amigo? Has venido al lugar preciso. Para ti, TODO estÃ¡ a precio de ocasiÃ³n.}
+{232}{}{Tengo Jet suficiente como para ponerte en Ã³rbita, mi nuevo mejor amigo. Y para ti, un descuento. Â¿Hablamos del precio?}
+{233}{}{Tengo la mierda que te ayudarÃ¡n a besar el cielo, amigo. Y para usted: un descuento. Que el sonido de todos los derechos?}
+{234}{}{QuÃ© menos que rebajar mis existencias para TI, amigo. SÃ³lo es mi forma de resultar amigable.}
+{235}{}{Tienes clase, y lo sabes. Clase. Y cuando alguien que tiene tanta clase como tÃº negocia conmigo, consigue un descuento
+ en la tienda, Â¿sabes?}
+{236}{}{Hazme saber si puedo ayudarte, amigo. Dime lo que necesitas, y te darÃ© lo mejor de la ciudad.}
+{237}{}{Nada mejor que un poco de Jet despuÃ©s de un largo dÃ­a de ir de acÃ¡ para allÃ¡, Â¿eh? Â¿Tengo razÃ³n? Para TI, todas mis existencias tienen precio de ocasiÃ³n.}
+{238}{}{Hey, heyâ€¦ estoy en presencia de la grandeza. Para TI, seÃ±orita, mis existencias estÃ¡n a precio de ocasiÃ³n. HÃ¡blales a todos tus amigos de mÃ­, Â¿vale?}
+{239}{}{Â¿AsÃ­ que quieres montarte una fiestecita con algo de Jet, seÃ±orita? Has venido al lugar preciso. Para ti, TODO estÃ¡ a precio de ocasiÃ³n.}
+{240}{}{Tengo Jet suficiente como para ponerte en Ã³rbita, mi nueva mejor amiga. Y para ti, un descuento. Â¿Hablamos del precio?}
+{241}{}{Tengo material que te ayudarÃ¡ a llegar al cielo, seÃ±orita. Y para ti, un descuento. Â¿Suena eso lo suficientemente bien?}
+{242}{}{QuÃ© menos que rebajar mis existencias para TI, seÃ±orita. SÃ³lo es mi forma de resultar amigable.}
+{247}{}{SÃ© lo que estÃ¡s buscando, esclavista, y lo tengo. Todo el Jet que NECESITAS.}
+{248}{}{Â¿Por quÃ© hablar cuando puedes VOLAR? TÃº quieres Jet, y yo lo tengo.}
+{249}{}{Esclavista, Tengo el Jet mÃ¡s puro de la ciudad. No es barato, pero vale lo que cuesta.}
+{250}{}{Â¿Quieres volar, esclavista? Â¿Tienes dinero? Habla conmigo.}
+{251}{}{Tengo material que te ayudarÃ¡ a tocar el cielo, esclavista.}
+{252}{}{Tengo Jet, Jet y MÃS Jet. Hablemos.}
+{253}{}{Tengo suficiente Jet como para ponerte en Ã³rbita, esclavista. Â¿Discutiremos el precio?}
+{254}{}{Â¿Has experimentado, esclavista? Deja que te pase el mejor Jet de la ciudad.}
+{255}{}{Â¿EstÃ¡s buscando Jet? Vamos, esclavista, hagamos un trato.}
+{256}{}{Â¿EstÃ¡s buscando Jet? Vamos, esclavista, entre tÃº y yo: hablemos.}
+{261}{}{SÃ© lo que estÃ¡s buscando, amigo, y lo tengo. Todo el Jet que NECESITAS.}
+{262}{}{Â¿Por quÃ© hablar cuando puedes VOLAR?}
+{263}{}{Tengo el Jet mÃ¡s puro de la ciudad. No es barato, pero vale cada ficha que cuesta.}
+{264}{}{Â¿Quieres volar? Â¿Tienes dinero? Habla conmigo.}
+{265}{}{Tengo material que te ayudarÃ¡ a tocar el cielo, amigo.}
+{266}{}{Tengo Jet, Jet y MÃS Jet. Hablemos.}
+{267}{}{Tengo suficiente Jet como para ponerte en Ã³rbita, amigo. Â¿Discutiremos el precio?}
+{268}{}{Â¿Has experimentado? PermÃ­teme que te pase el mejor Jet de la ciudad.}
+{269}{}{Â¿EstÃ¡s buscando Jet? Hagamos un trato.}
+{270}{}{Â¿EstÃ¡s buscando Jet? Hablemos.}
 {519}{}{ GUSTAN caramelos!}

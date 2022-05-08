@@ -1,17 +1,17 @@
-{100}{}{Egy fejf·t l·tsz.}
-{101}{}{Megvizsg·lod a fejf·t: }
+{100}{}{Egy fejf√°t l√°tsz.}
+{101}{}{Megvizsg√°lod a fejf√°t: }
 {102}{}{"Here lies Brother Gregory. A man who knew no limits."}
 {103}{}{"Aunt Patty. Good riddance indeed."}
 {104}{}{"Here lies Per Joner. Died one rock too short."}
 {105}{}{"Here lies Father Michael. Founder, Father, Fighter."}
 {106}{}{"An Atheist. All dressed up and no place to go."}
-{107}{}{"Itt nyugszik …leszt?s Johnny. Engedelmetekkel, a kelÈs ideje elm˙lt."}
+{107}{}{"Itt nyugszik √âleszt?s Johnny. Engedelmetekkel, a kel√©s ideje elm√∫lt."}
 {108}{}{"Mary Jane. Loving wife and mother."}
 {109}{}{"'Checkmate!' was the call to dear old Jon, On the chessboard of life, He was just a pawn.}
-{110}{}{"Sir Szokatlan John. Itt nyugszik egy becs¸letes jog·sz Ès ez bizony Szokatlan.}
+{110}{}{"Sir Szokatlan John. Itt nyugszik egy becs√ºletes jog√°sz √©s ez bizony Szokatlan.}
 {111}{}{"Tears cannot restore her -- therefore I weep."}
 {112}{}{"Every day in every way, I am getting better and better."}
-{250}{}{Ezen a fejf·n egyetlen jelˆlÈs sincs.}
+{250}{}{Ezen a fejf√°n egyetlen jel√∂l√©s sincs.}
 {251}{}{The grave marker is too cracked and broken to be read.}
-{252}{}{A fejf·n olvashatÛ nÈv John Doe.}
-{253}{}{A fejf·ra vÈsett nevet Ès d·tumot lekoptatta az id?j·r·s.}
+{252}{}{A fejf√°n olvashat√≥ n√©v John Doe.}
+{253}{}{A fejf√°ra v√©sett nevet √©s d√°tumot lekoptatta az id?j√°r√°s.}

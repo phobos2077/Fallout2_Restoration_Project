@@ -1,93 +1,93 @@
-{100}{}{VocÍ vÍ um comediante.}
-{150}{}{VocÍ vÍ um comediante fracassado. Ele est· nervoso, como da pra notar.}
-{200}{}{Ele est· muito ocupado com suas coisas para falar agora.}
-{1000}{}{Ent„o... uh... por que o radscorpion atravessou a estrada?}
-{1001}{}{Para n„o ouvir suas piadas de BOSTA!}
+{100}{}{Voc√™ v√™ um comediante.}
+{150}{}{Voc√™ v√™ um comediante fracassado. Ele est√° nervoso, como da pra notar.}
+{200}{}{Ele est√° muito ocupado com suas coisas para falar agora.}
+{1000}{}{Ent√£o... uh... por que o radscorpion atravessou a estrada?}
+{1001}{}{Para n√£o ouvir suas piadas de BOSTA!}
 {1002}{}{Eu digo para matar esse cara!}
-{1003}{}{Porque o radscorpion... uh, ele queria se afastar das partÌculas radioativas...}
-{1004}{}{VocÍ n„o presta!}
+{1003}{}{Porque o radscorpion... uh, ele queria se afastar das part√≠culas radioativas...}
+{1004}{}{Voc√™ n√£o presta!}
 {1005}{}{VAI SE FODER!}
-{1006}{}{Uh, a piada, viu, como j· era um mutante, n„o precisava atravessar a rua, ent„o... uh...}
+{1006}{}{Uh, a piada, viu, como j√° era um mutante, n√£o precisava atravessar a rua, ent√£o... uh...}
 {1007}{}{}
 {2000}{}{Heh heh. Gecko... ghouls, certo? Ghouls... cara, eles FEDEM.}
 {2001}{}{Seu fedido!}
-{2002}{}{Esse cara sÛ deveria se apresentar depois de morto!}
-{2003}{}{Uh... heh-heh... ent„o, uh, ghouls certo, eles cheiram mal. Ent„o, tipo, uh...}
+{2002}{}{Esse cara s√≥ deveria se apresentar depois de morto!}
+{2003}{}{Uh... heh-heh... ent√£o, uh, ghouls certo, eles cheiram mal. Ent√£o, tipo, uh...}
 {2004}{}{Eu mencionei o cheiro dos ghouls?}
-{2005}{}{Hum, ent„o eu me deparo com esse ghoul, ok, eu pergunto a ele, 'VocÍ est· inveja porque eu n„o cheiro mal?'}
-{2006}{}{Ele diz: "N„o. Uh, por que a pergunta?"}
-{2007}{}{Eu disse, porque vocÍ È VERDE.}
+{2005}{}{Hum, ent√£o eu me deparo com esse ghoul, ok, eu pergunto a ele, 'Voc√™ est√° inveja porque eu n√£o cheiro mal?'}
+{2006}{}{Ele diz: "N√£o. Uh, por que a pergunta?"}
+{2007}{}{Eu disse, porque voc√™ √© VERDE.}
 {2008}{}{Uh... verde de inveja. Entendeu?}
 {2010}{}{Buuuu!}
 {2011}{}{}
-{3000}{}{Ent„o... tinha essa prostituta nÈ, essa puta est˙pida...}
-{3001}{}{Deve ser sua m„e!}
-{3002}{}{"Puta?" Eu vou te esfaquear atÈ a morte depois do show!}
-{3003}{}{E... uh... ela diz, certo, ela diz, 'isso È um gecko no seu bolso ou vocÍ est· apenas... uh, com tes„o?'}
+{3000}{}{Ent√£o... tinha essa prostituta n√©, essa puta est√∫pida...}
+{3001}{}{Deve ser sua m√£e!}
+{3002}{}{"Puta?" Eu vou te esfaquear at√© a morte depois do show!}
+{3003}{}{E... uh... ela diz, certo, ela diz, 'isso √© um gecko no seu bolso ou voc√™ est√° apenas... uh, com tes√£o?'}
 {3006}{}{Uh... eu mencionei que era um gecko de fogo...? Heh heh.}
 {3007}{}{}
 {4000}{}{Vertibirds?}
 {4001}{}{Verti o que?}
-{4002}{}{Mas do que esse cara est· falando?}
+{4002}{}{Mas do que esse cara est√° falando?}
 {4003}{}{Que tal aqueles saquinhos de amendoim que eles servem nos voos?}
 {4004}{}{Que tal o salame que te servem?}
-{4005}{}{O que... h· com isso?}
+{4005}{}{O que... h√° com isso?}
 {4006}{}{}
-{5000}{}{CaracterÌsticas opcionais?}
+{5000}{}{Caracter√≠sticas opcionais?}
 {5001}{}{*Bocejo*}
-{5002}{}{VocÍ sabe, como japonÍs. AlguÈm viu algum ultimamente?}
-{5003}{}{AlguÈm viu teu piruzin ultimamente?}
-{5004}{}{Uhhh... VocÍ acha que existe alguÈm que diga: "Ei, acho que quero mais falhas crÌticas?"}
-{5005}{}{Quem s„o essas pessoas?}
-{5006}{}{Ei, eu j· ouvi isso em algum lugar antes.}
+{5002}{}{Voc√™ sabe, como japon√™s. Algu√©m viu algum ultimamente?}
+{5003}{}{Algu√©m viu teu piruzin ultimamente?}
+{5004}{}{Uhhh... Voc√™ acha que existe algu√©m que diga: "Ei, acho que quero mais falhas cr√≠ticas?"}
+{5005}{}{Quem s√£o essas pessoas?}
+{5006}{}{Ei, eu j√° ouvi isso em algum lugar antes.}
 {5007}{}{}
 {6000}{}{Radscorpions?}
-{6001}{}{O que h· de t„o radical neles?}
-{6002}{}{… a abreviaÁ„o de RADIA«√O, idiota.}
-{6003}{}{Quem s„o essas pessoas que pensam que escorpiıes mutantes...}
-{6004}{}{...s„o t„o radicais?}
-{6005}{}{VocÍ n„o presta!}
+{6001}{}{O que h√° de t√£o radical neles?}
+{6002}{}{√â a abrevia√ß√£o de RADIA√á√ÉO, idiota.}
+{6003}{}{Quem s√£o essas pessoas que pensam que escorpi√µes mutantes...}
+{6004}{}{...s√£o t√£o radicais?}
+{6005}{}{Voc√™ n√£o presta!}
 {6006}{}{}
 {7000}{}{Molerats?}
 {7001}{}{Oh rapaz...}
-{7002}{}{O que h· com essas coisas?}
-{7003}{}{S„o moles...}
+{7002}{}{O que h√° com essas coisas?}
+{7003}{}{S√£o moles...}
 {7004}{}{Ou...}
-{7005}{}{S„o RATOS?}
+{7005}{}{S√£o RATOS?}
 {7006}{}{E sobre porquinhos?}
-{7007}{}{O que h· com isso?}
-{7008}{}{Uhhh... sim, o que h· com isso?}
+{7007}{}{O que h√° com isso?}
+{7008}{}{Uhhh... sim, o que h√° com isso?}
 {7009}{}{}
 {8000}{}{Super mutantes?}
 {8001}{}{Esse idiota nunca para de contar essas piadas de corno?}
-{8002}{}{O que h· de t„o SUPER neles?}
-{8003}{}{Quando foi a ˙ltima vez que vocÍ viu um super mutante...}
-{8004}{}{Salvando um gato de uma ·rvore?}
-{8005}{}{Nunca! Sabe por quÍ?}
+{8002}{}{O que h√° de t√£o SUPER neles?}
+{8003}{}{Quando foi a √∫ltima vez que voc√™ viu um super mutante...}
+{8004}{}{Salvando um gato de uma √°rvore?}
+{8005}{}{Nunca! Sabe por qu√™?}
 {8006}{}{*Bocejo*}
-{8007}{}{Uhhh... porque super mutantes n„o resgatam gatos...}
+{8007}{}{Uhhh... porque super mutantes n√£o resgatam gatos...}
 {8008}{}{Eles o matam sem piedade!}
-{8009}{}{Meu Deus, eu quero terminar esse traduÁ„o logo...}
-{8010}{}{Ent„o, quem os chama de SUPER mutantes?}
-{8011}{}{Quem s„o essas pessoas?}
+{8009}{}{Meu Deus, eu quero terminar esse tradu√ß√£o logo...}
+{8010}{}{Ent√£o, quem os chama de SUPER mutantes?}
+{8011}{}{Quem s√£o essas pessoas?}
 {8012}{}{Provavelmente os mesmos idiotas que te contrataram!}
 {8013}{}{}
 {9000}{}{E sobre aquele idiota, Myron?}
-{9001}{}{Ele est· falando de mim?}
-{9002}{}{Quero dizer, puro nerd! … como se ele vivesse no por„o dos seus pais a vida TODA.}
+{9001}{}{Ele est√° falando de mim?}
+{9002}{}{Quero dizer, puro nerd! √â como se ele vivesse no por√£o dos seus pais a vida TODA.}
 {9003}{}{*Ha* *Ha* *Ha*}
 {9004}{}{Hey!}
-{9005}{}{Bem, Myron, vocÍ … um idiota.}
-{9006}{}{N„o se preocupe com isso, Myron. Ele sÛ est· tentando ser engraÁado.}
-{9007}{}{Sim, vocÍ tem sorte de eu n„o te dar uma bica na costela, amigo!}
+{9005}{}{Bem, Myron, voc√™ √â um idiota.}
+{9006}{}{N√£o se preocupe com isso, Myron. Ele s√≥ est√° tentando ser engra√ßado.}
+{9007}{}{Sim, voc√™ tem sorte de eu n√£o te dar uma bica na costela, amigo!}
 {9008}{}{}
-{10000}{}{Ent„o, vocÍs ouviram sobre a filha est˙pida do Bishop que engravidou?}
+{10000}{}{Ent√£o, voc√™s ouviram sobre a filha est√∫pida do Bishop que engravidou?}
 {10001}{}{*Aplausos* *Aplausos* *Aplausos*}
 {10002}{}{::Assobios::}
-{10003}{}{IncrÌvel!}
-{11000}{}{Heh heh. VocÍs ouviram aquela sobre o tribal que destruiu a Enclave?}
-{11001}{}{O tribal era t„o burro que, uh, o tribal, certo... uh, explodiu seu equipamento.}
+{10003}{}{Incr√≠vel!}
+{11000}{}{Heh heh. Voc√™s ouviram aquela sobre o tribal que destruiu a Enclave?}
+{11001}{}{O tribal era t√£o burro que, uh, o tribal, certo... uh, explodiu seu equipamento.}
 {11002}{}{BOOM!}
 {11003}{}{Eu mencionei que o tribal era idiota?}
-{11004}{}{VocÍ È o idiota aqui!}
+{11004}{}{Voc√™ √© o idiota aqui!}
 {11005}{}{}

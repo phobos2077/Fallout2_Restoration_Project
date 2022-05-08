@@ -1,12 +1,12 @@
-{100}{}{Ezt az állatot meg kellene szabadítani a szenvedést?l. Tényleg!}
-{101}{}{Nagyjából egy kutyára hasonlít. Attól eltekintve, hogy a szerencsétlen párának csomókban hullik a sz?re.}
-{102}{}{Egy elfuserált, ronda kutyát látsz. ? azért kedvel téged...}
+{100}{}{Ezt az Ã¡llatot meg kellene szabadÃ­tani a szenvedÃ©st?l. TÃ©nyleg!}
+{101}{}{NagyjÃ¡bÃ³l egy kutyÃ¡ra hasonlÃ­t. AttÃ³l eltekintve, hogy a szerencsÃ©tlen pÃ¡rÃ¡nak csomÃ³kban hullik a sz?re.}
+{102}{}{Egy elfuserÃ¡lt, ronda kutyÃ¡t lÃ¡tsz. ? azÃ©rt kedvel tÃ©ged...}
 {110}{}{Vhhuff}
-{111}{}{Vhhíííí uuuuuhhhh ffff}
+{111}{}{VhhÃ­Ã­Ã­Ã­ uuuuuhhhh ffff}
 {112}{}{hufff ffffuuffff}
 {113}{}{arrr arrr ffff}
-{114}{}{HHHúúúúvauvauvau}
+{114}{}{HHHÃºÃºÃºÃºvauvauvau}
 {115}{}{ehhhh hufff}
-{200}{}{Most, hogy a kutya elpusztult, sokkal biztonságosabban érzed magad.}
-{201}{}{Nem túl sokat tehetsz ezért az állatért. A golyó, amivel megölnéd, valószín?leg többet ér.}
-{202}{}{Egen, meglehet?sen rossz b?rben van. Mindamellett határozottan nem akarsz hozzáérni.}
+{200}{}{Most, hogy a kutya elpusztult, sokkal biztonsÃ¡gosabban Ã©rzed magad.}
+{201}{}{Nem tÃºl sokat tehetsz ezÃ©rt az Ã¡llatÃ©rt. A golyÃ³, amivel megÃ¶lnÃ©d, valÃ³szÃ­n?leg tÃ¶bbet Ã©r.}
+{202}{}{Egen, meglehet?sen rossz b?rben van. Mindamellett hatÃ¡rozottan nem akarsz hozzÃ¡Ã©rni.}

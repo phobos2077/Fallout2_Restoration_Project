@@ -1,89 +1,89 @@
-{150}{}{Tu vois un jeune homme brûlé par le soleil vêtu de cuir noir et de chaînes. Son visage est grêlé de cicatrices d'acné.}
-{151}{}{Tu vois Petit Jésus Mordino.}
-{152}{}{Tu vois Petit Jésus Mordino. Il est presque entièrement vêtu de cuir noir et joue avec l'un de ses couteaux.}
-{200}{}{Hé ! }
+{150}{}{Tu vois un jeune homme brÃ»lÃ© par le soleil vÃªtu de cuir noir et de chaÃ®nes. Son visage est grÃªlÃ© de cicatrices d'acnÃ©.}
+{151}{}{Tu vois Petit JÃ©sus Mordino.}
+{152}{}{Tu vois Petit JÃ©sus Mordino. Il est presque entiÃ¨rement vÃªtu de cuir noir et joue avec l'un de ses couteaux.}
+{200}{}{HÃ© ! }
 {201}{}{Putain de, }
 {202}{}{::Il te fait signe que tout est Ok::}
 {203}{}{::Siffle::}
 {220}{}{Comment fais-tu pour pisser avec ce truc ?}
-{230}{}{Joli morceau que tu as là !}
-{240}{}{Comment ça se fait que tu te planques, hé, }
+{230}{}{Joli morceau que tu as lÃ  !}
+{240}{}{Comment Ã§a se fait que tu te planques, hÃ©, }
 {250}{}{Ca boume, }
-{251}{}{Hé, }
+{251}{}{HÃ©, }
 {252}{}{Putain, c'est chaud.}
-{253}{}{Héé ! Où t'étais, }
+{253}{}{HÃ©Ã© ! OÃ¹ t'Ã©tais, }
 {254}{}{Ca fait plaisir de te voir, }
-{255}{}{Hé ! Viens voir mon nouveau couteau, }
-{256}{}{Dans quelle merde mon père t'a mis cette fois, }
+{255}{}{HÃ© ! Viens voir mon nouveau couteau, }
+{256}{}{Dans quelle merde mon pÃ¨re t'a mis cette fois, }
 {257}{}{On sort ce soir, }
 {258}{}{Mon couteau a soif de sang Bishop...}
-{259}{}{J'vais découper tellement de Salvatore qu'ils m'appelleront le « boucher »...}
-{270}{}{Hé ! Cabron ! Tu veux voir l'Ange de la Mort ? Tire-toi !}
+{259}{}{J'vais dÃ©couper tellement de Salvatore qu'ils m'appelleront le Â« boucher Â»...}
+{270}{}{HÃ© ! Cabron ! Tu veux voir l'Ange de la Mort ? Tire-toi !}
 {271}{}{Tu manques pas de *cojones* pour te pointer ici, }
 {272}{}{Hijo de puta...}
 {273}{}{Toi }
-{274}{}{Si t'es encore là quand j'ai fini mon verre, j'vais graver mon nom sur ta tronche.}
-{275}{}{::Il commence à jouer avec son couteau de manière menaçante::}
+{274}{}{Si t'es encore lÃ  quand j'ai fini mon verre, j'vais graver mon nom sur ta tronche.}
+{275}{}{::Il commence Ã  jouer avec son couteau de maniÃ¨re menaÃ§ante::}
 {276}{}{Je cherche ta hermana, }
-{277}{}{Bordel... c'est toi ! Que fais-tu là ?}
-{278}{}{Hé ! Puta ! Tu veux voir l'Ange de la Mort ? Tire-toi !}
-{279}{}{J'croyais que t'étais enfermée au chenil, puta.}
-{280}{}{Si t'es pas là pour mon cul, }
+{277}{}{Bordel... c'est toi ! Que fais-tu lÃ  ?}
+{278}{}{HÃ© ! Puta ! Tu veux voir l'Ange de la Mort ? Tire-toi !}
+{279}{}{J'croyais que t'Ã©tais enfermÃ©e au chenil, puta.}
+{280}{}{Si t'es pas lÃ  pour mon cul, }
 {281}{}{Hija de puta...}
-{300}{}{Yo ! Hombre, tu peux pas te promener avec ça ici.}
-{301}{}{Yo ! Hombre, range ce truc sinon tu vas commencer à rendre les gens nerveux.}
-{310}{}{Hé ! Chica, tu peux pas te balader avec ça ici.}
-{311}{}{Yo ! Chica, range ce truc sinon tu vas commencer à rendre les gens nerveux.}
+{300}{}{Yo ! Hombre, tu peux pas te promener avec Ã§a ici.}
+{301}{}{Yo ! Hombre, range ce truc sinon tu vas commencer Ã  rendre les gens nerveux.}
+{310}{}{HÃ© ! Chica, tu peux pas te balader avec Ã§a ici.}
+{311}{}{Yo ! Chica, range ce truc sinon tu vas commencer Ã  rendre les gens nerveux.}
 {320}{}{Mais bordel, pourquoi te-te planques, }
-{330}{}{Pourquoi te planques-tu, chica ? Avec ton crochet du droit, tu devrais marcher la tête haute.}
-{340}{}{Où t'as appris à te battre, }
+{330}{}{Pourquoi te planques-tu, chica ? Avec ton crochet du droit, tu devrais marcher la tÃªte haute.}
+{340}{}{OÃ¹ t'as appris Ã  te battre, }
 {341}{}{T'as les cojones d'un Mordino.}
-{342}{}{Le dernier combat a été épique, hombre.}
-{343}{}{La vivacité de l'éclair et le crochet du capitaine. C'est tout toi, }
+{342}{}{Le dernier combat a Ã©tÃ© Ã©pique, hombre.}
+{343}{}{La vivacitÃ© de l'Ã©clair et le crochet du capitaine. C'est tout toi, }
 {344}{}{Tu sais, les Mordino auraient besoin de muscles comme toi, }
-{345}{}{Parier sur toi, ça a été mon meilleur placement. Tu balançais de ces crochets, fallait voir ça.}
+{345}{}{Parier sur toi, Ã§a a Ã©tÃ© mon meilleur placement. Tu balanÃ§ais de ces crochets, fallait voir Ã§a.}
 {346}{}{J'ai vu comment tu te bats sur le ring, }
-{347}{}{Comme tu te débrouilles, }
-{348}{}{Hé, tu t'entraînes où ?}
+{347}{}{Comme tu te dÃ©brouilles, }
+{348}{}{HÃ©, tu t'entraÃ®nes oÃ¹ ?}
 {349}{}{Fais attention au Mastiquateur. Il est friand d'oreilles.}
-{350}{}{Je t'aurais bien payé un verre si j'avais pas tout misé sur ton adversaire.}
-{351}{}{T'es d'où, pour te battre comme ça ? C'est bien. Mais alors, vraiment BIEN.}
-{352}{}{T'as appris à te battre où, chica ? T'es terrible. Tu BOUGES bien.}
-{353}{}{Le dernier combat était légendaire, chica.}
-{354}{}{Hé, où t'entraînes-tu ? T'as besoin d'un entraîneur ?}
-{370}{}{Hé, hé là ! Chica, tu veux que je range cette arme pour toi ?}
-{371}{}{Quoi, tu veux que je te taille un nouveau costard ? Allez, rengaine ton arme avant que je m'énerve.}
-{390}{}{Pas moyen d'échapper à l'oeil de Petit Jésus avec ce physique, chica.}
-{400}{}{Ton film était pas mal, mais on dirait que t'as besoin que je te refile quelques tuyaux. ::Il rit::}
-{401}{}{Hé, }
-{402}{}{J'suis là, j'suis disponible, tu me mets dans un film, Ok ? On va faire un tabac, }
+{350}{}{Je t'aurais bien payÃ© un verre si j'avais pas tout misÃ© sur ton adversaire.}
+{351}{}{T'es d'oÃ¹, pour te battre comme Ã§a ? C'est bien. Mais alors, vraiment BIEN.}
+{352}{}{T'as appris Ã  te battre oÃ¹, chica ? T'es terrible. Tu BOUGES bien.}
+{353}{}{Le dernier combat Ã©tait lÃ©gendaire, chica.}
+{354}{}{HÃ©, oÃ¹ t'entraÃ®nes-tu ? T'as besoin d'un entraÃ®neur ?}
+{370}{}{HÃ©, hÃ© lÃ  ! Chica, tu veux que je range cette arme pour toi ?}
+{371}{}{Quoi, tu veux que je te taille un nouveau costard ? Allez, rengaine ton arme avant que je m'Ã©nerve.}
+{390}{}{Pas moyen d'Ã©chapper Ã  l'oeil de Petit JÃ©sus avec ce physique, chica.}
+{400}{}{Ton film Ã©tait pas mal, mais on dirait que t'as besoin que je te refile quelques tuyaux. ::Il rit::}
+{401}{}{HÃ©, }
+{402}{}{J'suis lÃ , j'suis disponible, tu me mets dans un film, Ok ? On va faire un tabac, }
 {403}{}{Je suis le *Latin lover* par excellence. Y en a pas deux comme moi.}
-{404}{}{Parle de moi aux frères, }
-{405}{}{Glisse un mot en ma faveur aux frères, d'accord ?}
+{404}{}{Parle de moi aux frÃ¨res, }
+{405}{}{Glisse un mot en ma faveur aux frÃ¨res, d'accord ?}
 {406}{}{Tu fais bien de reprendre avec les Mordino. On voyage.}
-{407}{}{Tu veux des stimulants ? De la gnôle ? Des jetons ? Je peux t'arranger ça. J'ai des relations moi.}
+{407}{}{Tu veux des stimulants ? De la gnÃ´le ? Des jetons ? Je peux t'arranger Ã§a. J'ai des relations moi.}
 {408}{}{Alors, on fait un film ensemble ? Je te traiterai bien, chica. Je vais te montrer ce qu'un *Latin lover* sait faire.}
-{409}{}{Pourquoi tu passerais pas après le boulot ?}
+{409}{}{Pourquoi tu passerais pas aprÃ¨s le boulot ?}
 {410}{}{T'as des potes ?}
-{411}{}{Tu veux du Jet ? Je peux t'arranger ça, chica.}
-{412}{}{Chica, je ferais n'importe quoi pour toi... Allez, donne un petit baiser au P'tit Jésus.}
-{425}{}{Te pavane pas avec des trucs en fer dans le coin. Range ça.}
+{411}{}{Tu veux du Jet ? Je peux t'arranger Ã§a, chica.}
+{412}{}{Chica, je ferais n'importe quoi pour toi... Allez, donne un petit baiser au P'tit JÃ©sus.}
+{425}{}{Te pavane pas avec des trucs en fer dans le coin. Range Ã§a.}
 {435}{}{Pas besoin de te planquer, esclavagiste, Ok ? Y a que des amis ici.}
-{445}{}{Hé ! T'as pigé ou quoi ? Range ce truc ou je vais devoir te faire mal.}
+{445}{}{HÃ© ! T'as pigÃ© ou quoi ? Range ce truc ou je vais devoir te faire mal.}
 {446}{}{Tu veux te faire lobotomiser au fond d'une impasse ? Range ce truc.}
-{447}{}{Hé, chica ! T'as pigé ou quoi ? Range ce truc ou je vais devoir te faire mal.}
+{447}{}{HÃ©, chica ! T'as pigÃ© ou quoi ? Range ce truc ou je vais devoir te faire mal.}
 {455}{}{Bordel, pourquoi te planques-tu ? Tu veux te faire trouer la peau ?}
 {460}{}{Pourquoi te planques-tu, chica ? Tu veux te faire trouer la peau ?}
-{465}{}{Fais-moi dégager cette poubelle à roulettes.}
+{465}{}{Fais-moi dÃ©gager cette poubelle Ã  roulettes.}
 {466}{}{Pas de robots ici. Casse-toi.}
 {467}{}{Ce robot va pas faire long feu s'il reste.}
-{475}{}{Je CROIS que j'ai senti le mutant. Vire-le avant qu'on s'énerve.}
+{475}{}{Je CROIS que j'ai senti le mutant. Vire-le avant qu'on s'Ã©nerve.}
 {476}{}{T'aimes bien les mutants ? Sa place, c'est DEHORS. Sinon...}
-{477}{}{Si ce mutant reste dans le coin, on va s'en servir comme cible d'entraînement.}
+{477}{}{Si ce mutant reste dans le coin, on va s'en servir comme cible d'entraÃ®nement.}
 {485}{}{Je CROIS que j'ai senti comme une odeur de pourriture. Fais sortir ta Goule d'ici.}
-{486}{}{Dégage cette Goule puante d'ici. Maintenant.}
-{487}{}{Si cette Goule n'est pas dehors dans une minute, elle peut faire sa prière. }
-{495}{}{Hé, toi. Viens par là et montre-moi ce couteau.}
+{486}{}{DÃ©gage cette Goule puante d'ici. Maintenant.}
+{487}{}{Si cette Goule n'est pas dehors dans une minute, elle peut faire sa priÃ¨re. }
+{495}{}{HÃ©, toi. Viens par lÃ  et montre-moi ce couteau.}
 {496}{}{Sympa ton couteau.}
 {497}{}{Je peux voir ce couteau une seconde ?}
 {505}{}{Heunh ? }
@@ -93,230 +93,230 @@
 {511}{}{[Partir]}
 {512}{}{Qui es-tu ?}
 {513}{}{Je regrette. Je t'ai confondu avec quelqu'un d'autre.}
-{522}{}{Hé... ? Encore toi ? Que veux-tu cette fois ?}
-{523}{}{Héééé... Qu'est-ce t'as, camarade ? Un ennui ?}
+{522}{}{HÃ©... ? Encore toi ? Que veux-tu cette fois ?}
+{523}{}{HÃ©Ã©Ã©Ã©... Qu'est-ce t'as, camarade ? Un ennui ?}
 {524}{}{Moi de dessous.}
 {525}{}{A-nigaud ?}
-{526}{}{Tchika Tchika Tchik Aïe aïe aïe.}
+{526}{}{Tchika Tchika Tchik AÃ¯e aÃ¯e aÃ¯e.}
 {529}{}{J'ai quelques questions...}
-{530}{}{Ca ne fait rien. Je m'excuse de t'avoir dérangée.}
+{530}{}{Ca ne fait rien. Je m'excuse de t'avoir dÃ©rangÃ©e.}
 {540}{}{}
 {541}{}{}
-{542}{}{Hé, hé, hé ! T'es }
+{542}{}{HÃ©, hÃ©, hÃ© ! T'es }
 {544}{}{Tire, mais tire.}
-{547}{}{Merci, Petit Jésus. Hé, j'avais des questions pour toi...}
+{547}{}{Merci, Petit JÃ©sus. HÃ©, j'avais des questions pour toi...}
 {548}{}{Merci du compliment. Je ne faisais que passer, je dois y aller maintenant.}
-{549}{}{Ouais, t'as pas besoin de me dire ça. Fais gaffe.}
-{560}{}{Héhé ! Comment va, }
+{549}{}{Ouais, t'as pas besoin de me dire Ã§a. Fais gaffe.}
+{560}{}{HÃ©hÃ© ! Comment va, }
 {562}{}{T'as ce qu'y te faut, ou veux-tu que je sonne une des putas pour s'occuper de toi ? Ha !}
 {563}{}{T'as ce qu'y te faut, ou veux-tu que je sonne une des serveuses pour s'occuper de toi ? Ha !}
-{567}{}{Non, ça va. Ecoute, j'avais des questions pour toi, Jésus...}
-{568}{}{Non, ça va, merci. A tout à l'heure.}
-{582}{}{Hé ? T'as de la marchandise à vendre, esclavagiste ? Du stock à décharger ?}
-{583}{}{Moi décharger ! Moi décharger !}
-{586}{}{Oui. C'est à toi qu'il faut parler ?}
+{567}{}{Non, Ã§a va. Ecoute, j'avais des questions pour toi, JÃ©sus...}
+{568}{}{Non, Ã§a va, merci. A tout Ã  l'heure.}
+{582}{}{HÃ© ? T'as de la marchandise Ã  vendre, esclavagiste ? Du stock Ã  dÃ©charger ?}
+{583}{}{Moi dÃ©charger ! Moi dÃ©charger !}
+{586}{}{Oui. C'est Ã  toi qu'il faut parler ?}
 {587}{}{Pas maintenant. Mais j'avais des questions pour toi...}
-{588}{}{Pas maintenant. Plus tard peut-être.}
-{600}{}{Hé. Tu m'as l'air d'avoir moisi au soleil trop longtemps. Enflure.}
+{588}{}{Pas maintenant. Plus tard peut-Ãªtre.}
+{600}{}{HÃ©. Tu m'as l'air d'avoir moisi au soleil trop longtemps. Enflure.}
 {601}{}{Heu... D'accord. Prends bien soin de toi, amigo. A plus tard.}
 {602}{}{Heu... D'accord. Prends bien soin de toi, chica. A plus tard.}
-{603}{}{Hé. Peut-être que tu devrais sortir prendre le soleil, tribal. Aérer un peu là-dedans.}
+{603}{}{HÃ©. Peut-Ãªtre que tu devrais sortir prendre le soleil, tribal. AÃ©rer un peu lÃ -dedans.}
 {604}{}{Ok d'accord.}
-{620}{}{Tire-toi de là.}
-{621}{}{Reviens dans le coin et je te plomberai tellement que même Superman pourra pas voir à travers ton corps.}
-{622}{}{::Il joue avec son couteau de manière menaçante::}
+{620}{}{Tire-toi de lÃ .}
+{621}{}{Reviens dans le coin et je te plomberai tellement que mÃªme Superman pourra pas voir Ã  travers ton corps.}
+{622}{}{::Il joue avec son couteau de maniÃ¨re menaÃ§ante::}
 {623}{}{::Il te crache sur les pieds::}
 {624}{}{T'as l'air de quelqu'un qui sait pas qu'il est sur le point de crever.}
 {625}{}{Casse-toi avant d'en prendre une.}
-{626}{}{Reviens dans le coin, et je t'étripe.}
+{626}{}{Reviens dans le coin, et je t'Ã©tripe.}
 {640}{}{[Il se cure les ongles avec le couteau.] Des questions... On a TOUS des questions...}
 {641}{}{[Il se cure les dents avec un ongle sale.] Ouais ?}
-{642}{}{Quelque chose te préoccupe ?}
-{643}{}{Qu'as-tu dit sur la famille Mordino déjà, tu peux répéter ?}
+{642}{}{Quelque chose te prÃ©occupe ?}
+{643}{}{Qu'as-tu dit sur la famille Mordino dÃ©jÃ , tu peux rÃ©pÃ©ter ?}
 {644}{}{Je cherche un emploi.}
-{645}{}{Que peut-on faire à New Reno pour se relaxer ?}
+{645}{}{Que peut-on faire Ã  New Reno pour se relaxer ?}
 {646}{}{Tu sais quelque chose sur l'overdose de Richard Wright au Jet ?}
-{647}{}{Peux-tu m'apprendre à jouer du couteau ?}
+{647}{}{Peux-tu m'apprendre Ã  jouer du couteau ?}
 {648}{}{Peu importe. A plus tard.}
-{660}{}{Moi ? Si tu veux savoir... Heu. Je m'appelle Jésus. Jésus Mordino. Comme mon père. Lui c'est BIG Jésus, chef de TOUTE la famille Mordino ici à Reno. On m'appelle donc Petit Jésus. Pour pas nous confondre, tu vois ?}
+{660}{}{Moi ? Si tu veux savoir... Heu. Je m'appelle JÃ©sus. JÃ©sus Mordino. Comme mon pÃ¨re. Lui c'est BIG JÃ©sus, chef de TOUTE la famille Mordino ici Ã  Reno. On m'appelle donc Petit JÃ©sus. Pour pas nous confondre, tu vois ?}
 {661}{}{La famille Mordino ? Qui sont-ils ?}
 {662}{}{J'ai entendu parler de ta famille. J'ai cru comprendre que c'est une force avec laquelle il faut savoir compter.}
 {663}{}{Je cherche du travail. La famille Mordino embauche-t-elle ?}
-{665}{}{Sais-tu ce que l'on peut faire à New Reno pour se relaxer ?}
+{665}{}{Sais-tu ce que l'on peut faire Ã  New Reno pour se relaxer ?}
 {666}{}{Je vois. Ecoute, j'avais des questions...}
-{680}{}{Nous les Mordino, on va commander à New Reno... et aussi à Redding. Tu verras.}
-{681}{}{La famille MORDINO ? T'as pris trop de Jet, hombre ? Nous les Mordino, on commande à New Reno... et aussi à Redding.}
-{682}{}{La famille MORDINO ? T'as pris trop de Jet, chica ? Nous les Mordino, on commande à New Reno... et aussi à Redding.}
-{683}{}{On dirait qu'il faut que je me mette bien avec la famille Mordino... Tu peux m'arranger ça ?}
+{680}{}{Nous les Mordino, on va commander Ã  New Reno... et aussi Ã  Redding. Tu verras.}
+{681}{}{La famille MORDINO ? T'as pris trop de Jet, hombre ? Nous les Mordino, on commande Ã  New Reno... et aussi Ã  Redding.}
+{682}{}{La famille MORDINO ? T'as pris trop de Jet, chica ? Nous les Mordino, on commande Ã  New Reno... et aussi Ã  Redding.}
+{683}{}{On dirait qu'il faut que je me mette bien avec la famille Mordino... Tu peux m'arranger Ã§a ?}
 {684}{}{Que veux-tu dire au sujet de Redding ?}
-{685}{}{Redding ? C'est où ?}
+{685}{}{Redding ? C'est oÃ¹ ?}
 {686}{}{On dirait que les Mordino ont un bel avenir. Ecoute, j'avais des questions...}
-{687}{}{Les Mordino parlent beaucoup, mais n'ont pas vraiment de cojones. Qu'as-tu à répondre, PETIT Jésus ?}
+{687}{}{Les Mordino parlent beaucoup, mais n'ont pas vraiment de cojones. Qu'as-tu Ã  rÃ©pondre, PETIT JÃ©sus ?}
 {700}{}{Au Nord-Ouest, hombre.}
 {701}{}{Au Nord-Ouest, chica.}
-{702}{}{Si tu connais pas, t'as rien loupé. Une bande de mineurs crétins qu'aiment bien PLANER, si tu vois ce que je veux dire...}
+{702}{}{Si tu connais pas, t'as rien loupÃ©. Une bande de mineurs crÃ©tins qu'aiment bien PLANER, si tu vois ce que je veux dire...}
 {703}{}{Pas vraiment. Que veux-tu dire ?}
 {704}{}{Une bande de junkies ?}
 {705}{}{J'ai compris. J'avais d'autres questions...}
-{706}{}{Je dois y aller. A plus, Jésus.}
-{720}{}{Une bande de mineurs crétins qui creusent dans la poussière, mais ils aiment PLANER, tu piges ?}
-{740}{}{Ces crétins creusent pour l'or, mais ce qu'ON leur donne c'est mieux que de l'or, tu comprends ? Ils nous donnent TOUT l'or qu'ils extraient pour juste un P'TIT PEU de Jet. Tout le monde est content.}
+{706}{}{Je dois y aller. A plus, JÃ©sus.}
+{720}{}{Une bande de mineurs crÃ©tins qui creusent dans la poussiÃ¨re, mais ils aiment PLANER, tu piges ?}
+{740}{}{Ces crÃ©tins creusent pour l'or, mais ce qu'ON leur donne c'est mieux que de l'or, tu comprends ? Ils nous donnent TOUT l'or qu'ils extraient pour juste un P'TIT PEU de Jet. Tout le monde est content.}
 {742}{}{On dirait. Ecoute, J'avais d'autres questions...}
-{760}{}{Eh bien, une fois qu'ils ont goûté au Jet, c'était cuit. Après on peut plus arrêter.}
-{761}{}{D'où vient le Jet ?}
+{760}{}{Eh bien, une fois qu'ils ont goÃ»tÃ© au Jet, c'Ã©tait cuit. AprÃ¨s on peut plus arrÃªter.}
+{761}{}{D'oÃ¹ vient le Jet ?}
 {762}{}{J'ai compris. Ecoute, J'avais d'autres questions...}
-{780}{}{Le Jet ? D'ICI. Ecoute, on extrait pas l'or, on le FABRIQUE : de l'or liquide. Le Jet. Il vaut une fortune pour les mineurs, et nous coûte presque rien. On l'envoie à Redding, ils se shootent, ils planent, ils nous envoient l'or. Simple comme bonjour.}
-{781}{}{Depuis combien de temps ça dure ? Il me semble que vous contrôleriez toute la Californie du Nord si le Jet créait une telle dépendance.}
-{800}{}{Tu as raison... mais on a pas toujours EU le Jet. On est tombés sur ce gosse, il a jeté un oeil sur les stimulants merdiques qu'on vendait et il a dit qu'on pouvait faire *mieux*. Il l'a fait. Il travaille pour nous maintenant. Simple comme bonjour.}
-{801}{}{Qui est ce gosse et où est-il ?}
-{820}{}{Le gosse s'appelle Myron. Et t'as pas besoin de savoir où il se TROUVE.}
-{821}{}{Le gosse s'appelle Myron. On l'a installé dans les Etables, au Nord de la ville, il teste de nouveaux stimulants. Tu pourrais aller le voir, mais il est occupé la plupart du temps... avec les stimulants ou avec les femmes.}
+{780}{}{Le Jet ? D'ICI. Ecoute, on extrait pas l'or, on le FABRIQUE : de l'or liquide. Le Jet. Il vaut une fortune pour les mineurs, et nous coÃ»te presque rien. On l'envoie Ã  Redding, ils se shootent, ils planent, ils nous envoient l'or. Simple comme bonjour.}
+{781}{}{Depuis combien de temps Ã§a dure ? Il me semble que vous contrÃ´leriez toute la Californie du Nord si le Jet crÃ©ait une telle dÃ©pendance.}
+{800}{}{Tu as raison... mais on a pas toujours EU le Jet. On est tombÃ©s sur ce gosse, il a jetÃ© un oeil sur les stimulants merdiques qu'on vendait et il a dit qu'on pouvait faire *mieux*. Il l'a fait. Il travaille pour nous maintenant. Simple comme bonjour.}
+{801}{}{Qui est ce gosse et oÃ¹ est-il ?}
+{820}{}{Le gosse s'appelle Myron. Et t'as pas besoin de savoir oÃ¹ il se TROUVE.}
+{821}{}{Le gosse s'appelle Myron. On l'a installÃ© dans les Etables, au Nord de la ville, il teste de nouveaux stimulants. Tu pourrais aller le voir, mais il est occupÃ© la plupart du temps... avec les stimulants ou avec les femmes.}
 {822}{}{Fais preuve d'un peu d'intelligence et dis-moi.}
-{823}{}{Laisse tomber. J'ai d'autres questions à te poser...}
-{824}{}{Myron, hein ? Bon d'accord, Jésus. Merci pour cette conversation.}
-{840}{}{Le Desperado c'est l'endroit rêvé, hombre. On a du Jet, des jeux, de l'action... et on a toutes les putas qu'on veut juste devant, prêtes à l'emploi. Le paradis, hombre, le paradis.}
-{841}{}{Le Desperado c'est l'endroit rêvé, chica. On a du Jet, des jeux et de l'action. T'as pas besoin d'aller ailleurs.}
-{842}{}{Alors... tu veux te relaxer, chica ? Hé... On pourrait se donner un peu d'amour suave tous les deux ?}
-{843}{}{C'est tentant, mais j'ai pas dix secondes là pour ton amour suave, Petit Jésus.}
-{844}{}{Je suis flattée, mais non merci. Ecoute, j'avais d'autres questions...}
+{823}{}{Laisse tomber. J'ai d'autres questions Ã  te poser...}
+{824}{}{Myron, hein ? Bon d'accord, JÃ©sus. Merci pour cette conversation.}
+{840}{}{Le Desperado c'est l'endroit rÃªvÃ©, hombre. On a du Jet, des jeux, de l'action... et on a toutes les putas qu'on veut juste devant, prÃªtes Ã  l'emploi. Le paradis, hombre, le paradis.}
+{841}{}{Le Desperado c'est l'endroit rÃªvÃ©, chica. On a du Jet, des jeux et de l'action. T'as pas besoin d'aller ailleurs.}
+{842}{}{Alors... tu veux te relaxer, chica ? HÃ©... On pourrait se donner un peu d'amour suave tous les deux ?}
+{843}{}{C'est tentant, mais j'ai pas dix secondes lÃ  pour ton amour suave, Petit JÃ©sus.}
+{844}{}{Je suis flattÃ©e, mais non merci. Ecoute, j'avais d'autres questions...}
 {846}{}{Je cherche du travail. Tu connais un endroit qui embauche du monde ?}
 {847}{}{Merci du conseil, merci.}
 {848}{}{Pourquoi tu commences pas sans moi ? Je dois y aller.}
-{860}{}{Hein ? De quoi tu... ? [Il comprend.] PUTA de merde ! Vire ton cul de marie-salope de là ou je te découpe en tellement de morceaux que ta propre mère te reconnaîtra pas.}
-{861}{}{Hein ? De quoi tu... ? [Il comprend.] Vire ton cul, hombre, ou je sors mon couteau et je te dessine un deuxième sourire dans le cou.}
-{862}{}{Essaie voir pour voir, PETIT Jésus.}
+{860}{}{Hein ? De quoi tu... ? [Il comprend.] PUTA de merde ! Vire ton cul de marie-salope de lÃ  ou je te dÃ©coupe en tellement de morceaux que ta propre mÃ¨re te reconnaÃ®tra pas.}
+{861}{}{Hein ? De quoi tu... ? [Il comprend.] Vire ton cul, hombre, ou je sors mon couteau et je te dessine un deuxiÃ¨me sourire dans le cou.}
+{862}{}{Essaie voir pour voir, PETIT JÃ©sus.}
 {863}{}{Essaie, et je te dessinerai tellement de cicatrices sur ton visage que t'auras l'air d'un puzzle.}
-{864}{}{Calme-toi... Ce n'était qu'une plaisanterie.}
+{864}{}{Calme-toi... Ce n'Ã©tait qu'une plaisanterie.}
 {865}{}{Oh. J'avais d'autres questions...}
-{867}{}{J'y vais. C'était super de parler avec quelqu'un de cultivé comme toi.}
-{880}{}{Ha ! Ca va, chica. Ca va. Petit Jésus va garder un oeil sur toi... C'est pas que je pourrais faire sans, de toute façon. Comment puis-je t'aider ?}
-{881}{}{Premièrement, tu peux garder tes yeux pour toi, PETIT Jésus. Je préférerais baiser avec du gravier plutôt que toucher au champ de cratères que t'as à la place du visage.}
+{867}{}{J'y vais. C'Ã©tait super de parler avec quelqu'un de cultivÃ© comme toi.}
+{880}{}{Ha ! Ca va, chica. Ca va. Petit JÃ©sus va garder un oeil sur toi... C'est pas que je pourrais faire sans, de toute faÃ§on. Comment puis-je t'aider ?}
+{881}{}{PremiÃ¨rement, tu peux garder tes yeux pour toi, PETIT JÃ©sus. Je prÃ©fÃ©rerais baiser avec du gravier plutÃ´t que toucher au champ de cratÃ¨res que t'as Ã  la place du visage.}
 {882}{}{Je cherche du travail. Tu connais quelqu'un qui embauche ?}
 {883}{}{J'ai d'autres questions...}
-{884}{}{En fait, je dois y aller. C'était sympa de te parler, Jésus.}
-{890}{}{[Il te jauge, hoche la tête.] On cherche toujours du sang neuf... Surtout s'il est prêt à faire couler du sang, tu vois ce que je veux dire ? Monte parler avec mon père, dis-lui que c'est moi qui t'envoie, peut-être qu'on pourra faire affaire.}
-{891}{}{[Il te jauge, fait non de la tête.] On embauche pas les chicas, à part pour certaines... fonctions. Essaie avec mon père en haut, dis-lui que c'est moi qui t'envoie. Peut-être que tu pourras faire affaire.}
-{892}{}{Peut-être. Ecoute, j'avais d'autres questions...}
-{893}{}{J'y vais. A plus, Jésus.}
-{900}{}{Je ne sais pas. Tu m'as pas l'air très fort... Peut-être que tu devrais essayer ailleurs, hombre.}
-{901}{}{Bof... Je vois vraiment pas. La famille embauche pas, et les autres familles te tueraient avant de t'écouter. Pas de pot, hombre.}
+{884}{}{En fait, je dois y aller. C'Ã©tait sympa de te parler, JÃ©sus.}
+{890}{}{[Il te jauge, hoche la tÃªte.] On cherche toujours du sang neuf... Surtout s'il est prÃªt Ã  faire couler du sang, tu vois ce que je veux dire ? Monte parler avec mon pÃ¨re, dis-lui que c'est moi qui t'envoie, peut-Ãªtre qu'on pourra faire affaire.}
+{891}{}{[Il te jauge, fait non de la tÃªte.] On embauche pas les chicas, Ã  part pour certaines... fonctions. Essaie avec mon pÃ¨re en haut, dis-lui que c'est moi qui t'envoie. Peut-Ãªtre que tu pourras faire affaire.}
+{892}{}{Peut-Ãªtre. Ecoute, j'avais d'autres questions...}
+{893}{}{J'y vais. A plus, JÃ©sus.}
+{900}{}{Je ne sais pas. Tu m'as pas l'air trÃ¨s fort... Peut-Ãªtre que tu devrais essayer ailleurs, hombre.}
+{901}{}{Bof... Je vois vraiment pas. La famille embauche pas, et les autres familles te tueraient avant de t'Ã©couter. Pas de pot, hombre.}
 {902}{}{Non... Je connais personne qui embauche. Tu pourrais essayer de trouver un mac, PEUT-ETRE te faire un peu de fric en louant ton cul.}
-{903}{}{Nous, non, mais avec un physique pareil, tu devrais essayer le Studio des frères Corses. [Il te fait un large sourire.] Mais si tu veux te faire quelques jetons vite fait, ma chambre est en haut...}
-{904}{}{Bon, très bien. J'avais encore deux ou trois questions...}
-{905}{}{Heu, sans façon. J'avais d'autres questions...}
-{906}{}{Je ne préfère pas, merci. Mais j'avais d'autres questions pour toi...}
-{907}{}{Oh, c'est sûr que ce SERAIT vite fait. Non merci.}
-{908}{}{Ca ne fait rien. Merci quand même.}
+{903}{}{Nous, non, mais avec un physique pareil, tu devrais essayer le Studio des frÃ¨res Corses. [Il te fait un large sourire.] Mais si tu veux te faire quelques jetons vite fait, ma chambre est en haut...}
+{904}{}{Bon, trÃ¨s bien. J'avais encore deux ou trois questions...}
+{905}{}{Heu, sans faÃ§on. J'avais d'autres questions...}
+{906}{}{Je ne prÃ©fÃ¨re pas, merci. Mais j'avais d'autres questions pour toi...}
+{907}{}{Oh, c'est sÃ»r que ce SERAIT vite fait. Non merci.}
+{908}{}{Ca ne fait rien. Merci quand mÃªme.}
 {909}{}{Non merci. Je ferais mieux d'y aller.}
-{920}{}{Oh, beaucoup mieux comme ça, hein ? [Il crache à tes pieds.] Tire-toi de là avant que je te découpe.}
-{921}{}{Essaie pour voir... PETIT Jésus.}
-{922}{}{Calme-toi, Jésus... écoute, j'avais d'autres questions...}
+{920}{}{Oh, beaucoup mieux comme Ã§a, hein ? [Il crache Ã  tes pieds.] Tire-toi de lÃ  avant que je te dÃ©coupe.}
+{921}{}{Essaie pour voir... PETIT JÃ©sus.}
+{922}{}{Calme-toi, JÃ©sus... Ã©coute, j'avais d'autres questions...}
 {923}{}{Je m'en vais.}
-{924}{}{T'as craché sur mes chaussures ? Enfoiré de ta mère, je vais te donner une leçon de respect.}
-{930}{}{Non, pas moi... Monte et va voir mon père. C'est à lui qu'il faut que tu parles.}
+{924}{}{T'as crachÃ© sur mes chaussures ? EnfoirÃ© de ta mÃ¨re, je vais te donner une leÃ§on de respect.}
+{930}{}{Non, pas moi... Monte et va voir mon pÃ¨re. C'est Ã  lui qu'il faut que tu parles.}
 {931}{}{Et tu es... ?}
 {932}{}{Bon d'accord. Avant d'y aller, j'avais des questions...}
 {933}{}{Merci.}
 {940}{}{Je t'EMMERDE. Sors du casino familial avant que je grave mes initiales sur ton cadavre.}
-{942}{}{Me menace pas, Jésus.}
+{942}{}{Me menace pas, JÃ©sus.}
 {943}{}{Attends, j'avais d'autres questions...}
-{944}{}{Calme-toi, Jésus. Je m'en vais.}
-{950}{}{Ce petit glandeur, le fils Wright ? Ha ! T'essaies de me faire porter ce putain de chapeau ? Pas de pot, je me tape de la mort de ce petit con, mais j'ai RIEN à voir avec tout ça.}
-{951}{}{Ah ouais ? Les Mordino sont les plus gros fournisseurs de Jet de New Reno. Vous serez donc les premiers à être tenus pour responsables.}
+{944}{}{Calme-toi, JÃ©sus. Je m'en vais.}
+{950}{}{Ce petit glandeur, le fils Wright ? Ha ! T'essaies de me faire porter ce putain de chapeau ? Pas de pot, je me tape de la mort de ce petit con, mais j'ai RIEN Ã  voir avec tout Ã§a.}
+{951}{}{Ah ouais ? Les Mordino sont les plus gros fournisseurs de Jet de New Reno. Vous serez donc les premiers Ã  Ãªtre tenus pour responsables.}
 {952}{}{Je ne te crois pas. Je pense que vous ETES responsables. Toi et le reste des Mordino.}
-{953}{}{D'après toi, qui a pu faire ça ?}
+{953}{}{D'aprÃ¨s toi, qui a pu faire Ã§a ?}
 {954}{}{Oh. J'ai encore d'autres questions...}
 {955}{}{D'accord. Simple question.}
-{965}{}{[Il plisse les yeux.] Ecoute, j'ai RIEN à voir avec la mort de ce gosse. Je sais pas ce que t'as entendu, mais si j'avais voulu tuer ce gamin, je l'aurais découpé en morceaux, j'aurais pas utilisé le Jet, tu comprends ?}
-{966}{}{Ouais, et alors ? Qu'on soit accusés, ça veut pas dire qu'on l'A fait. Le petit con en a trop pris. Je pleure pas sa mort. Et si le vieux Wright commence à disjoncter, on l'enterrera à côté de son junkie de gamin.}
-{967}{}{T'es vraiment un humanitaire, Jésus.}
-{968}{}{C'est la BONNE attitude, Jésus.}
-{969}{}{Sais-tu qui a vendu à Richard le Jet qui l'a tué ?}
+{965}{}{[Il plisse les yeux.] Ecoute, j'ai RIEN Ã  voir avec la mort de ce gosse. Je sais pas ce que t'as entendu, mais si j'avais voulu tuer ce gamin, je l'aurais dÃ©coupÃ© en morceaux, j'aurais pas utilisÃ© le Jet, tu comprends ?}
+{966}{}{Ouais, et alors ? Qu'on soit accusÃ©s, Ã§a veut pas dire qu'on l'A fait. Le petit con en a trop pris. Je pleure pas sa mort. Et si le vieux Wright commence Ã  disjoncter, on l'enterrera Ã  cÃ´tÃ© de son junkie de gamin.}
+{967}{}{T'es vraiment un humanitaire, JÃ©sus.}
+{968}{}{C'est la BONNE attitude, JÃ©sus.}
+{969}{}{Sais-tu qui a vendu Ã  Richard le Jet qui l'a tuÃ© ?}
 {970}{}{Bien, cela clarifie certainement les choses pour moi. J'avais d'autres questions...}
-{971}{}{Merci pour les informations, Jésus. Tu as été très aimable.}
-{980}{}{Ouais, Renesco... « l'homme fusée ». Il vend tellement de Jet qu'il pourrait t'envoyer sur la lune. Il vit dans l'Ouest de la ville, sur le territoire des Salvatore. Il aime pas trop les Wright, et ses stimulants ne sont pas PURS, tu piges ?}
-{981}{}{Il ne peut pas être le seul dealer dans une ville de cette taille.}
-{982}{}{Dans l'Ouest, hein ? J'irai peut-être. Mais j'avais d'autres questions...}
-{983}{}{D'accord. Je vais vérifier. Merci, Jésus.}
-{990}{}{Non, y en a d'autres, mais c'est Renesco qu'a fait ça.}
-{991}{}{Pourquoi tu dis ça ?}
+{971}{}{Merci pour les informations, JÃ©sus. Tu as Ã©tÃ© trÃ¨s aimable.}
+{980}{}{Ouais, Renesco... Â« l'homme fusÃ©e Â». Il vend tellement de Jet qu'il pourrait t'envoyer sur la lune. Il vit dans l'Ouest de la ville, sur le territoire des Salvatore. Il aime pas trop les Wright, et ses stimulants ne sont pas PURS, tu piges ?}
+{981}{}{Il ne peut pas Ãªtre le seul dealer dans une ville de cette taille.}
+{982}{}{Dans l'Ouest, hein ? J'irai peut-Ãªtre. Mais j'avais d'autres questions...}
+{983}{}{D'accord. Je vais vÃ©rifier. Merci, JÃ©sus.}
+{990}{}{Non, y en a d'autres, mais c'est Renesco qu'a fait Ã§a.}
+{991}{}{Pourquoi tu dis Ã§a ?}
 {992}{}{Qui sont les autres dealers ?}
-{993}{}{Ouais, tu l'as déjà dit. Ecoute, j'avais d'autres questions...}
-{994}{}{D'accord, Jésus. Merci pour l'info.}
-{1000}{}{PARCE QUE c'est un connard cinglé à moitié aveugle et un fumier qui vend de la MERDE, putain. Tu vas le trouver, t'écoutes ce qu'il dit sur le gosse Wright, et ENSUITE tu verras que j'ai raison.}
+{993}{}{Ouais, tu l'as dÃ©jÃ  dit. Ecoute, j'avais d'autres questions...}
+{994}{}{D'accord, JÃ©sus. Merci pour l'info.}
+{1000}{}{PARCE QUE c'est un connard cinglÃ© Ã  moitiÃ© aveugle et un fumier qui vend de la MERDE, putain. Tu vas le trouver, t'Ã©coutes ce qu'il dit sur le gosse Wright, et ENSUITE tu verras que j'ai raison.}
 {1001}{}{Qui sont les autres dealers ?}
-{1002}{}{Je ferai peut-être ça. Ecoute, j'avais d'autres questions...}
-{1003}{}{D'accord, Jésus. Je vais aller voir un peu ce Renesco.}
-{1010}{}{Il y a Jules, à l'entrée de la ville, qui trafique surtout avec les nouveaux... Et Jimmy J l'édenté, sur la 2e rue près du gymnase... Tu peux pas louper ce trouduc, il s'est tailladé le visage une nuit qu'il avait pris du Jet... Son visage est plein de cicatrices.}
-{1011}{}{J'ai entendu dire que tu revends aussi, Jésus. Pourquoi TON nom n'était pas sur la liste ?}
+{1002}{}{Je ferai peut-Ãªtre Ã§a. Ecoute, j'avais d'autres questions...}
+{1003}{}{D'accord, JÃ©sus. Je vais aller voir un peu ce Renesco.}
+{1010}{}{Il y a Jules, Ã  l'entrÃ©e de la ville, qui trafique surtout avec les nouveaux... Et Jimmy J l'Ã©dentÃ©, sur la 2e rue prÃ¨s du gymnase... Tu peux pas louper ce trouduc, il s'est tailladÃ© le visage une nuit qu'il avait pris du Jet... Son visage est plein de cicatrices.}
+{1011}{}{J'ai entendu dire que tu revends aussi, JÃ©sus. Pourquoi TON nom n'Ã©tait pas sur la liste ?}
 {1012}{}{Qu'est-ce qui te fait croire que Renesco est responsable ?}
-{1013}{}{Intéressant. J'avais d'autres questions...}
-{1014}{}{Renesco, Jules et Jimmy J l'édenté. C'est noté. Merci pour ces informations.}
-{1020}{}{PARCE QUE, enfoiré de ta mère, je SUIS PAS un dealer.}
-{1021}{}{PARCE QUE JE SUIS PAS un dealer, espèce de PUTE. }
-{1022}{}{Il m'arrive de vendre du Jet, mais je suis Petit Jésus MORDINO, pas un minable à la mords-moi-le-noeud qui doit intoxiquer dix clients par jour pour pouvoir bouffer. Alors je t'EMMERDE.}
-{1023}{}{Tu ferais mieux de surveiller ton langage avec moi, Jésus.}
-{1024}{}{Tout doux, tout doux, simple curiosité... Ecoute, j'avais d'autres questions...}
+{1013}{}{IntÃ©ressant. J'avais d'autres questions...}
+{1014}{}{Renesco, Jules et Jimmy J l'Ã©dentÃ©. C'est notÃ©. Merci pour ces informations.}
+{1020}{}{PARCE QUE, enfoirÃ© de ta mÃ¨re, je SUIS PAS un dealer.}
+{1021}{}{PARCE QUE JE SUIS PAS un dealer, espÃ¨ce de PUTE. }
+{1022}{}{Il m'arrive de vendre du Jet, mais je suis Petit JÃ©sus MORDINO, pas un minable Ã  la mords-moi-le-noeud qui doit intoxiquer dix clients par jour pour pouvoir bouffer. Alors je t'EMMERDE.}
+{1023}{}{Tu ferais mieux de surveiller ton langage avec moi, JÃ©sus.}
+{1024}{}{Tout doux, tout doux, simple curiositÃ©... Ecoute, j'avais d'autres questions...}
 {1025}{}{Bon d'accord. Merci pour ces informations.}
-{1030}{}{[Petit Jésus lance un regard sur ton couteau, hoche la tête.]}
-{1031}{}{[L'homme lance un regard ton couteau, hoche la tête.]}
+{1030}{}{[Petit JÃ©sus lance un regard sur ton couteau, hoche la tÃªte.]}
+{1031}{}{[L'homme lance un regard ton couteau, hoche la tÃªte.]}
 {1032}{}{<Pffff> Tu sais pas comment TENIR un couteau, hombre ? }
 {1033}{}{<Pffff> Tu sais pas comment TENIR un couteau, chica ? }
-{1034}{}{Regarde, comme ça... [Il corrige ta prise.] T'as besoin d'un peu d'instruction.}
+{1034}{}{Regarde, comme Ã§a... [Il corrige ta prise.] T'as besoin d'un peu d'instruction.}
 {1035}{}{[Tu regardes le couteau. Tu regardes l'homme laid. Tu regardes le couteau.] Tu touches }
 {1036}{}{Kagagougou.}
 {1038}{}{Vraiment ? Tu peux m'apprendre ?}
-{1040}{}{En fait, j'avais des questions pour toi, Jésus...}
-{1041}{}{Une autre fois peut-être, merci.}
+{1040}{}{En fait, j'avais des questions pour toi, JÃ©sus...}
+{1041}{}{Une autre fois peut-Ãªtre, merci.}
 {1050}{}{Hum... }
 {1051}{}{Je sais pas, hombre... j'ai pas beaucoup de temps libre et se battre au couteau est un ART, tu sais.}
 {1052}{}{Je sais pas, chica... j'ai pas beaucoup de temps libre et se battre au couteau est un ART, tu sais.}
 {1053}{}{Je sais pas, chica... Je POURRAIS faire une exception pour une femme comme toi, mais j'ai pas beaucoup de temps libre... et le combat au couteau est un ART, tu sais.}
 {1054}{}{Je te donnerai cent jetons.}
 {1055}{}{Je te donnerai deux cents jetons.}
-{1056}{}{Ma façon de faire l'amour est aussi un art. Tu préfères pas ce type de leçon ?}
+{1056}{}{Ma faÃ§on de faire l'amour est aussi un art. Tu prÃ©fÃ¨res pas ce type de leÃ§on ?}
 {1058}{}{En fait, j'avais d'autres questions...}
 {1059}{}{Une autre fois alors... Quand j'aurai assez de jetons pour te faire changer d'avis.}
-{1060}{}{Une autre fois peut-être, merci.}
-{1070}{}{Hum. 200, ça roule.}
-{1071}{}{Non... Je pensais à quelque chose d'AUTRE, tu vois ? [Ses yeux glissent sur ton corps, il lèche ses lèvres crevassées.]}
+{1060}{}{Une autre fois peut-Ãªtre, merci.}
+{1070}{}{Hum. 200, Ã§a roule.}
+{1071}{}{Non... Je pensais Ã  quelque chose d'AUTRE, tu vois ? [Ses yeux glissent sur ton corps, il lÃ¨che ses lÃ¨vres crevassÃ©es.]}
 {1072}{}{Dis-moi que tu veux dire 200 jetons. JE T'EN PRIE, dis-moi que tu veux dire 200 jetons.}
-{1073}{}{Oh, tu pensais à baiser ? Eh bien, continue à y penser, parce que ça va pas aller plus loin que ça.}
-{1074}{}{Heu, Ok. On y va. Je ferai tout pour avoir des points compétences.}
-{1075}{}{D'accord. Voilà l'argent.}
+{1073}{}{Oh, tu pensais Ã  baiser ? Eh bien, continue Ã  y penser, parce que Ã§a va pas aller plus loin que Ã§a.}
+{1074}{}{Heu, Ok. On y va. Je ferai tout pour avoir des points compÃ©tences.}
+{1075}{}{D'accord. VoilÃ  l'argent.}
 {1076}{}{Peu importe. Heu, mais qui es-tu ?}
-{1077}{}{Laisse tomber. J'ai d'autres questions à te poser...}
-{1079}{}{Une autre fois peut-être, merci. Il faut VRAIMENT que j'y aille.}
-{1090}{}{Hum... D'accord, je vais le faire. On dirait que t'as les cojones pour ça. Ecoute, la première chose que tu dois faire c'est...}
-{1091}{}{Hum... D'accord, je vais le faire. On dirait que t'as les cojones pour ça... Le prends pas mal. Ecoute, la première chose que tu dois faire c'est...}
-{1092}{}{[Il sourit, révélant ce qu'il reste de ses dents pourries.] D'accord, ouais, je vais le faire. T'as du temps maintenant, chica ? Alors on y va...}
+{1077}{}{Laisse tomber. J'ai d'autres questions Ã  te poser...}
+{1079}{}{Une autre fois peut-Ãªtre, merci. Il faut VRAIMENT que j'y aille.}
+{1090}{}{Hum... D'accord, je vais le faire. On dirait que t'as les cojones pour Ã§a. Ecoute, la premiÃ¨re chose que tu dois faire c'est...}
+{1091}{}{Hum... D'accord, je vais le faire. On dirait que t'as les cojones pour Ã§a... Le prends pas mal. Ecoute, la premiÃ¨re chose que tu dois faire c'est...}
+{1092}{}{[Il sourit, rÃ©vÃ©lant ce qu'il reste de ses dents pourries.] D'accord, ouais, je vais le faire. T'as du temps maintenant, chica ? Alors on y va...}
 {1093}{}{[Tu suis ses instructions]}
 {1643}{}{Qui est cette famille Mordino dont tu parlais ?}
-{2000}{}{Petit Jésus te montre quelques trucs vicieux de combat au couteau. Ta compétence avec les couteaux s'est améliorée.}
-{2001}{}{Au prix de ta dignité, tu as amélioré ta compétence avec les couteaux. Tu tuerais père et mère pour une bonne douche.}
-{5200}{}{ ! C'est comme ça qu'on donne une leçon à l'Enclave !}
-{5201}{}{, on va leur montrer à ces connards d'abrutis de l'Enclave comment ça se passe EN VILLE.}
+{2000}{}{Petit JÃ©sus te montre quelques trucs vicieux de combat au couteau. Ta compÃ©tence avec les couteaux s'est amÃ©liorÃ©e.}
+{2001}{}{Au prix de ta dignitÃ©, tu as amÃ©liorÃ© ta compÃ©tence avec les couteaux. Tu tuerais pÃ¨re et mÃ¨re pour une bonne douche.}
+{5200}{}{ ! C'est comme Ã§a qu'on donne une leÃ§on Ã  l'Enclave !}
+{5201}{}{, on va leur montrer Ã  ces connards d'abrutis de l'Enclave comment Ã§a se passe EN VILLE.}
 {5230}{}{.}
 {5240}{}{ ? Les Mordino sont fiers.}
 {5250}{}{ ?}
-{5251}{}{ ! Qué pasa ?}
+{5251}{}{ ! QuÃ© pasa ?}
 {5253}{}{ ?}
-{5254}{}{. T'étais où ?}
+{5254}{}{. T'Ã©tais oÃ¹ ?}
 {5255}{}{.}
 {5256}{}{ ?}
 {5257}{}{. Tu viens avec nous ?}
 {5271}{}{. Laisse tomber, sinon...}
-{5273}{}{Tu nous fait chier, et on te transforme en pâtée pour chien. Barre-toi !}
+{5273}{}{Tu nous fait chier, et on te transforme en pÃ¢tÃ©e pour chien. Barre-toi !}
 {5276}{}{ ? Elle vient juste de finir avec mon cul. Et tu ferais bien de te casser.}
 {5280}{}{, tu ferais mieux de partir.}
-{5320}{}{ ? Avec ton crochet du droit, tu devrais marcher la tête haute.}
+{5320}{}{ ? Avec ton crochet du droit, tu devrais marcher la tÃªte haute.}
 {5340}{}{ ? T'es terrible. Tu sais comment BOUGER, hombre.}
 {5343}{}{.}
-{5344}{}{. Si les autres familles te voient arriver, ils se dégonflent illico.}
+{5344}{}{. Si les autres familles te voient arriver, ils se dÃ©gonflent illico.}
 {5346}{}{. Tu *crevais* ce type.}
 {5347}{}{ ?}
-{5380}{}{ ? Allez, marche la tête haute.}
-{5401}{}{ ! Qué pasa ? Tu vas m'arranger le coup avec les frères, ou quoi ?}
+{5380}{}{ ? Allez, marche la tÃªte haute.}
+{5401}{}{ ! QuÃ© pasa ? Tu vas m'arranger le coup avec les frÃ¨res, ou quoi ?}
 {5402}{}{, un tabac !}
 {5404}{}{... Allez, je peux le *faire*.}
 {5542}{}{ ! La classe de la boxe ! Mec, t'es bon !}

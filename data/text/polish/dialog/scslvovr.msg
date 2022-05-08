@@ -1,50 +1,50 @@
-{100}{}{Widzisz krêpego faceta z przewieszonym przez ramiê pistoletem maszynowym.}
-{101}{}{To nadzorca niewolników.}
-{102}{}{Có¿, z tatua¿u wnioskujesz, ¿e jest ³owc¹ niewolników. Wygl¹da na to, ¿e kieruje tutaj stra¿nikami.}
-{103}{}{Co ty jesteœ? ¯ebrak, czy co?}
-{104}{}{Wœcibski "filantrop" z RNK?! Mam dla ciebie lekarstwo.}
+{100}{}{Widzisz krÄ™pego faceta z przewieszonym przez ramiÄ™ pistoletem maszynowym.}
+{101}{}{To nadzorca niewolnikÃ³w.}
+{102}{}{CÃ³Å¼, z tatuaÅ¼u wnioskujesz, Å¼e jest Å‚owcÄ… niewolnikÃ³w. WyglÄ…da na to, Å¼e kieruje tutaj straÅ¼nikami.}
+{103}{}{Co ty jesteÅ›? Å»ebrak, czy co?}
+{104}{}{WÅ›cibski "filantrop" z RNK?! Mam dla ciebie lekarstwo.}
 {105}{}{Vortis, mamy intruza!}
-{106}{}{Stra¿e! Alarm!}
+{106}{}{StraÅ¼e! Alarm!}
 {107}{}{Czego chcesz?}
 {108}{}{Kurg?}
 {109}{}{Co to za miejsce?}
-{110}{}{Przys³ali mnie Stra¿nicy.}
-{111}{}{Szukam w³aœciciela.}
-{112}{}{Bracie ³owco, mam kilka pytañ.}
+{110}{}{PrzysÅ‚ali mnie StraÅ¼nicy.}
+{111}{}{Szukam wÅ‚aÅ›ciciela.}
+{112}{}{Bracie Å‚owco, mam kilka pytaÅ„.}
 {113}{}{Sorry, nie ciebie szukam.}
-{114}{}{No ju¿, jazda st¹d. Mam ju¿ wystarczaj¹co du¿o g³upich stra¿ników!}
-{115}{}{Co ty, kurwa, pomrocznoœæ jasna ciê trafi³a? To jest obóz niewolników. Jeœli chcesz wiedzieæ wiêcej - pogadaj z Vortisem.}
-{116}{}{Doprawdy? Có¿, w takim razie odeœlê ciê w kawa³kach.}
-{117}{}{IdŸ do Vortisa, tego starego faceta.}
-{118}{}{Dziêki. S³uchaj, wygl¹dasz mi na bystrzaka. Za³o¿ê siê, ¿e jesteœ w stanie odpowiedzieæ mi na kilka pytañ.}
-{119}{}{Ten starzec, co? W porz¹dku.}
-{120}{}{No có¿, je¿eli tak to ujmujesz, to nie mogê powiedzieæ "nie". Co masz na myœli?}
-{121}{}{Dziêki, przybyszu.}
-{122}{}{No có¿, wiem du¿o, ale stary Vortis tego u mnie nie docenia.}
-{123}{}{Có¿, zrobi³em ju¿ o wiele wiêcej, ni¿ wiêkszoœæ ludzi nawet podejrzewa. Tak jak ta praca. Jest to mi³a i intratna posadka.}
+{114}{}{No juÅ¼, jazda stÄ…d. Mam juÅ¼ wystarczajÄ…co duÅ¼o gÅ‚upich straÅ¼nikÃ³w!}
+{115}{}{Co ty, kurwa, pomrocznoÅ›Ä‡ jasna ciÄ™ trafiÅ‚a? To jest obÃ³z niewolnikÃ³w. JeÅ›li chcesz wiedzieÄ‡ wiÄ™cej - pogadaj z Vortisem.}
+{116}{}{Doprawdy? CÃ³Å¼, w takim razie odeÅ›lÄ™ ciÄ™ w kawaÅ‚kach.}
+{117}{}{IdÅº do Vortisa, tego starego faceta.}
+{118}{}{DziÄ™ki. SÅ‚uchaj, wyglÄ…dasz mi na bystrzaka. ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e jesteÅ› w stanie odpowiedzieÄ‡ mi na kilka pytaÅ„.}
+{119}{}{Ten starzec, co? W porzÄ…dku.}
+{120}{}{No cÃ³Å¼, jeÅ¼eli tak to ujmujesz, to nie mogÄ™ powiedzieÄ‡ "nie". Co masz na myÅ›li?}
+{121}{}{DziÄ™ki, przybyszu.}
+{122}{}{No cÃ³Å¼, wiem duÅ¼o, ale stary Vortis tego u mnie nie docenia.}
+{123}{}{CÃ³Å¼, zrobiÅ‚em juÅ¼ o wiele wiÄ™cej, niÅ¼ wiÄ™kszoÅ›Ä‡ ludzi nawet podejrzewa. Tak jak ta praca. Jest to miÅ‚a i intratna posadka.}
 {124}{}{Jak chcesz.}
-{125}{}{O co chodzi z tymi Stra¿nikami?}
-{126}{}{Szukam Krypty 13. S³ysza³eœ kiedyœ o nim?}
-{127}{}{S³ysza³eœ kiedyœ o GECKu?}
-{128}{}{Wiesz coœ o organizacji zwanej Enklawa?}
-{129}{}{Szukam pracy. Nie wiesz przypadkiem, kto mi mo¿e j¹ daæ?}
-{130}{}{Zapomnij. Nie chcê ci zabieraæ czasu.}
-{131}{}{Ci dranie zabili mi brata, a potem powiedzieli, ¿e to dla dobra ludzi! Chcê ich martwych. Jeœli chcesz pomóc, pogadaj z Vortisem.}
-{132}{}{Wydaje mi siê, ¿e to jest bardzo dobry pomys³.}
-{133}{}{Vortis, tak? Jesteœ fontann¹ m¹droœci. Co jeszcze wiesz?}
-{134}{}{Super. Myœlê, ¿e tak w³aœnie zrobiê.}
-{135}{}{Ka¿dy s³ysza³ o Krypcie 13. Kiedy by³em dzieckiem, szuka³em go razem z przyjació³mi. Powinien byæ na wschód st¹d, wiêc przeszukaliœmy tam wszystko, ale nigdy go nie znaleŸliœmy.}
-{136}{}{To pewne, ¿e bardzo siê stara³eœ. Chcê zadaæ ci kilka innych pytañ, skoro tak wiele wiesz.}
-{137}{}{Có¿, muszê lecieæ.}
-{138}{}{GECK, co? Czyta³em o tym, kiedy studiowa³em technologiê Krypt. Ponoæ ka¿da Krypta dosta³a coœ takiego. Mia³a to byæ pierwsza rzecz u¿yta po otwarciu Krypty. Powiadaj¹, ¿e tak w³aœnie powsta³y Cieniste Piaski. Czy to ci w czymœ pomog³o?}
-{139}{}{Studiowa³eœ technologiê Krypt? Imponuj¹ce. S³uchaj, mam jeszcze kilka pytañ...}
-{140}{}{Có¿, muszê lecieæ.}
-{141}{}{Enklawa.... Wiesz, w mieœcie jest doktor, nazywa siê Henry. Którejœ nocy, kiedy siê spi³, zacz¹³ gadaæ coœ o goœciach z Enklawy.}
-{142}{}{W³aœnie to by³o mi potrzebne. Jesteœ bardzo dobrze poinformowany.}
-{143}{}{To wszystko, czego od ciebie chce. Dziêki.}
-{144}{}{Ja zawsze jestem czujny - problem w tym, ¿e nikt ju¿ nie chce zatrudniaæ ³owców niewolników. Vortis, mój szef, coœ ukrywa. A w mieœcie zawsze mo¿na siê zatrudniæ u farmerów ze Stowarzyszenia Hodowców Byd³a, a poza tym Dorotce zawsze przyda siê dodatkowa para r¹k do pracy przy elektrowni, jeœli tylko masz odpowiednie umiejêtnoœci. Wieœæ niesie, ¿e nawet Prezydent Tandi poszukuje jakiegoœ specjalisty.}
-{145}{}{Cz³owieku, du¿o wiesz. Móg³bym zmarnowaæ ca³y dzieñ zadaj¹c ci pytania.}
-{146}{}{Có¿, zaraz zajmê siê tymi sprawami.}
-{147}{}{Potnij im... ju¿ ty wiesz co... zrób to dla mnie, co?}
-{148}{}{Nie ma sprawy. Ale zanim pójdê chcia³bym o coœ zapytaæ.}
-{149}{}{Zajmê siê nimi, bez obaw.}
+{125}{}{O co chodzi z tymi StraÅ¼nikami?}
+{126}{}{Szukam Krypty 13. SÅ‚yszaÅ‚eÅ› kiedyÅ› o nim?}
+{127}{}{SÅ‚yszaÅ‚eÅ› kiedyÅ› o GECKu?}
+{128}{}{Wiesz coÅ› o organizacji zwanej Enklawa?}
+{129}{}{Szukam pracy. Nie wiesz przypadkiem, kto mi moÅ¼e jÄ… daÄ‡?}
+{130}{}{Zapomnij. Nie chcÄ™ ci zabieraÄ‡ czasu.}
+{131}{}{Ci dranie zabili mi brata, a potem powiedzieli, Å¼e to dla dobra ludzi! ChcÄ™ ich martwych. JeÅ›li chcesz pomÃ³c, pogadaj z Vortisem.}
+{132}{}{Wydaje mi siÄ™, Å¼e to jest bardzo dobry pomysÅ‚.}
+{133}{}{Vortis, tak? JesteÅ› fontannÄ… mÄ…droÅ›ci. Co jeszcze wiesz?}
+{134}{}{Super. MyÅ›lÄ™, Å¼e tak wÅ‚aÅ›nie zrobiÄ™.}
+{135}{}{KaÅ¼dy sÅ‚yszaÅ‚ o Krypcie 13. Kiedy byÅ‚em dzieckiem, szukaÅ‚em go razem z przyjaciÃ³Å‚mi. Powinien byÄ‡ na wschÃ³d stÄ…d, wiÄ™c przeszukaliÅ›my tam wszystko, ale nigdy go nie znaleÅºliÅ›my.}
+{136}{}{To pewne, Å¼e bardzo siÄ™ staraÅ‚eÅ›. ChcÄ™ zadaÄ‡ ci kilka innych pytaÅ„, skoro tak wiele wiesz.}
+{137}{}{CÃ³Å¼, muszÄ™ lecieÄ‡.}
+{138}{}{GECK, co? CzytaÅ‚em o tym, kiedy studiowaÅ‚em technologiÄ™ Krypt. PonoÄ‡ kaÅ¼da Krypta dostaÅ‚a coÅ› takiego. MiaÅ‚a to byÄ‡ pierwsza rzecz uÅ¼yta po otwarciu Krypty. PowiadajÄ…, Å¼e tak wÅ‚aÅ›nie powstaÅ‚y Cieniste Piaski. Czy to ci w czymÅ› pomogÅ‚o?}
+{139}{}{StudiowaÅ‚eÅ› technologiÄ™ Krypt? ImponujÄ…ce. SÅ‚uchaj, mam jeszcze kilka pytaÅ„...}
+{140}{}{CÃ³Å¼, muszÄ™ lecieÄ‡.}
+{141}{}{Enklawa.... Wiesz, w mieÅ›cie jest doktor, nazywa siÄ™ Henry. KtÃ³rejÅ› nocy, kiedy siÄ™ spiÅ‚, zaczÄ…Å‚ gadaÄ‡ coÅ› o goÅ›ciach z Enklawy.}
+{142}{}{WÅ‚aÅ›nie to byÅ‚o mi potrzebne. JesteÅ› bardzo dobrze poinformowany.}
+{143}{}{To wszystko, czego od ciebie chce. DziÄ™ki.}
+{144}{}{Ja zawsze jestem czujny - problem w tym, Å¼e nikt juÅ¼ nie chce zatrudniaÄ‡ Å‚owcÃ³w niewolnikÃ³w. Vortis, mÃ³j szef, coÅ› ukrywa. A w mieÅ›cie zawsze moÅ¼na siÄ™ zatrudniÄ‡ u farmerÃ³w ze Stowarzyszenia HodowcÃ³w BydÅ‚a, a poza tym Dorotce zawsze przyda siÄ™ dodatkowa para rÄ…k do pracy przy elektrowni, jeÅ›li tylko masz odpowiednie umiejÄ™tnoÅ›ci. WieÅ›Ä‡ niesie, Å¼e nawet Prezydent Tandi poszukuje jakiegoÅ› specjalisty.}
+{145}{}{CzÅ‚owieku, duÅ¼o wiesz. MÃ³gÅ‚bym zmarnowaÄ‡ caÅ‚y dzieÅ„ zadajÄ…c ci pytania.}
+{146}{}{CÃ³Å¼, zaraz zajmÄ™ siÄ™ tymi sprawami.}
+{147}{}{Potnij im... juÅ¼ ty wiesz co... zrÃ³b to dla mnie, co?}
+{148}{}{Nie ma sprawy. Ale zanim pÃ³jdÄ™ chciaÅ‚bym o coÅ› zapytaÄ‡.}
+{149}{}{ZajmÄ™ siÄ™ nimi, bez obaw.}

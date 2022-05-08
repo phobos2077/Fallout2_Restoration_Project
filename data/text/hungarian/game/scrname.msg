@@ -5,39 +5,39 @@
 {105}{}{Script Test 3}
 {106}{}{Script Test 4}
 {107}{}{Script Test 5}
-{108}{}{Arroyói harcos}
-{109}{}{Arroyói lakos}
+{108}{}{ArroyÃ³i harcos}
+{109}{}{ArroyÃ³i lakos}
 {110}{}{Mynoc}
-{111}{}{Arroyo törzsf?je}
+{111}{}{Arroyo tÃ¶rzsf?je}
 {112}{}{Hakunin}
-{113}{}{Ajtó}
-{114}{}{Általános}
-{115}{}{Láda}
-{116}{}{Páncéldoboz}
+{113}{}{AjtÃ³}
+{114}{}{ÃltalÃ¡nos}
+{115}{}{LÃ¡da}
+{116}{}{PÃ¡ncÃ©ldoboz}
 {117}{}{Brahmin}
-{118}{}{Húsev? növény}
+{118}{}{HÃºsev? nÃ¶vÃ©ny}
 {119}{}{}
-{120}{}{Skorpió}
-{121}{}{Imádkozó sáska}
-{122}{}{Kis halálkarom}
-{123}{}{Váza}
-{124}{}{Láda}
-{125}{}{Arroyói barlang}
-{126}{}{Fa ajtó}
+{120}{}{SkorpiÃ³}
+{121}{}{ImÃ¡dkozÃ³ sÃ¡ska}
+{122}{}{Kis halÃ¡lkarom}
+{123}{}{VÃ¡za}
+{124}{}{LÃ¡da}
+{125}{}{ArroyÃ³i barlang}
+{126}{}{Fa ajtÃ³}
 {127}{}{Arroyo}
-{128}{}{Arroyo hídja}
-{129}{}{Ósdi ajtó}
-{130}{}{Padlólap}
-{131}{}{Padlólap}
-{132}{}{Padlólap}
-{133}{}{Padlólap}
-{134}{}{Padlólap}
-{135}{}{Ajtó}
-{136}{}{Drogfügg?}
+{128}{}{Arroyo hÃ­dja}
+{129}{}{Ã“sdi ajtÃ³}
+{130}{}{PadlÃ³lap}
+{131}{}{PadlÃ³lap}
+{132}{}{PadlÃ³lap}
+{133}{}{PadlÃ³lap}
+{134}{}{PadlÃ³lap}
+{135}{}{AjtÃ³}
+{136}{}{DrogfÃ¼gg?}
 {137}{}{?r}
-{138}{}{Városlakó}
+{138}{}{VÃ¡roslakÃ³}
 {139}{}{Bandatag}
-{140}{}{Árva}
+{140}{}{Ãrva}
 {141}{}{Joey}
 {142}{}{Flick}
 {143}{}{?r}
@@ -54,46 +54,46 @@
 {154}{}{Sheila}
 {155}{}{Mama}
 {156}{}{Falusi ember}
-{157}{}{Rabszolga-vadászat}
+{157}{}{Rabszolga-vadÃ¡szat}
 {158}{}{Rabszolga-fogat}
-{159}{}{Rejtek, üzleti negyed}
-{160}{}{Rejtek, üzleti negyed}
-{161}{}{Rejtek, lakónegyed}
-{162}{}{Sírhely}
-{163}{}{Sírhely}
-{164}{}{Sírhely}
+{159}{}{Rejtek, Ã¼zleti negyed}
+{160}{}{Rejtek, Ã¼zleti negyed}
+{161}{}{Rejtek, lakÃ³negyed}
+{162}{}{SÃ­rhely}
+{163}{}{SÃ­rhely}
+{164}{}{SÃ­rhely}
 {165}{}{Csontok}
-{166}{}{Napló}
-{167}{}{Medál}
+{166}{}{NaplÃ³}
+{167}{}{MedÃ¡l}
 {168}{}{Szeszf?zde}
-{169}{}{Sírhely}
+{169}{}{SÃ­rhely}
 {170}{}{Black Jack asztal}
 {171}{}{Rabszolga}
 {172}{}{Black Jack asztal}
-{173}{}{Ajtó}
+{173}{}{AjtÃ³}
 {174}{}{Whiskey Bob}
 {175}{}{Craps}
 {176}{}{Aldo}
 {177}{}{Ardin}
 {178}{}{Gyerek}
-{179}{}{Polgár}
+{179}{}{PolgÃ¡r}
 {180}{}{Maida}
 {181}{}{Sajag}
 {182}{}{Sally}
 {183}{}{Vigyori}
 {184}{}{Jenny}
-{185}{}{Vézna}
+{185}{}{VÃ©zna}
 {186}{}{Torr}
 {187}{}{Dunton}
-{188}{}{Polgár}
-{189}{}{Utazó}
-{190}{}{Menedékvárosi ?r}
-{191}{}{Menedékvárosi ?r}
+{188}{}{PolgÃ¡r}
+{189}{}{UtazÃ³}
+{190}{}{MenedÃ©kvÃ¡rosi ?r}
+{191}{}{MenedÃ©kvÃ¡rosi ?r}
 {192}{}{Steve}
 {193}{}{Andrew}
-{194}{}{Menedékvárosi ?r}
+{194}{}{MenedÃ©kvÃ¡rosi ?r}
 {195}{}{Dr. Troy}
-{196}{}{Sárga kutya}
+{196}{}{SÃ¡rga kutya}
 {197}{}{Balthas}
 {198}{}{Cornelius}
 {199}{}{Davin}
@@ -102,128 +102,128 @@
 {202}{}{Jo}
 {203}{}{Jonny}
 {204}{}{Karl}
-{205}{}{Öcsi}
+{205}{}{Ã–csi}
 {206}{}{Miria}
-{207}{}{Kormányzó}
+{207}{}{KormÃ¡nyzÃ³}
 {208}{}{Rose}
 {209}{}{Vegeir}
 {210}{}{Ed}
 {211}{}{Harry}
 {212}{}{Mrs. Smith}
 {213}{}{Melinda}
-{214}{}{Prémvadász}
+{214}{}{PrÃ©mvadÃ¡sz}
 {215}{}{Mr. Smith}
 {216}{}{Skeeve}
-{217}{}{Gregory f?tanácsos}
+{217}{}{Gregory f?tanÃ¡csos}
 {218}{}{Nurse Phyllis}
 {219}{}{Randal}
-{220}{}{Trutymó}
+{220}{}{TrutymÃ³}
 {221}{}{Barkus}
 {222}{}{Falusi ember}
 {223}{}{Stark}
-{224}{}{Menedék kapu?r}
-{225}{}{Vén Joe}
+{224}{}{MenedÃ©k kapu?r}
+{225}{}{VÃ©n Joe}
 {226}{}{Connar}
 {227}{}{Wallace}
 {228}{}{Lynette}
 {229}{}{McClure}
-{230}{}{Mutáns patkány}
+{230}{}{MutÃ¡ns patkÃ¡ny}
 {231}{}{Festus}
 {232}{}{Gordon}
 {233}{}{Hank}
 {234}{}{Jeremy}
-{235}{}{Púpos}
+{235}{}{PÃºpos}
 {236}{}{Skeeter}
 {237}{}{Zomak}
 {238}{}{Wooz}
 {239}{}{Lenny}
 {240}{}{Ghoul ?r}
-{241}{}{Ghoul Munkás}
-{242}{}{Fényl? ghoul}
+{241}{}{Ghoul MunkÃ¡s}
+{242}{}{FÃ©nyl? ghoul}
 {243}{}{Ghoul ?r}
 {244}{}{Robot}
-{245}{}{Ghoul polgár}
+{245}{}{Ghoul polgÃ¡r}
 {246}{}{Map Script}
 {247}{}{Map Script}
 {248}{}{Map Script}
-{249}{}{Biztonsági robot}
-{250}{}{Javítórobot}
+{249}{}{BiztonsÃ¡gi robot}
+{250}{}{JavÃ­tÃ³robot}
 {251}{}{Hololemez}
 {252}{}{Hololemez}
 {253}{}{Hololemez}
-{254}{}{Terminál}
-{255}{}{Terminál}
-{256}{}{Terminál}
-{257}{}{Terminál}
-{258}{}{Terminál}
-{259}{}{Terminál}
-{260}{}{Terminál}
-{261}{}{Terminál}
-{262}{}{Terminál}
-{263}{}{Terminál}
-{264}{}{Terminál}
-{265}{}{Papír}
-{266}{}{Dobbs közlegény}
+{254}{}{TerminÃ¡l}
+{255}{}{TerminÃ¡l}
+{256}{}{TerminÃ¡l}
+{257}{}{TerminÃ¡l}
+{258}{}{TerminÃ¡l}
+{259}{}{TerminÃ¡l}
+{260}{}{TerminÃ¡l}
+{261}{}{TerminÃ¡l}
+{262}{}{TerminÃ¡l}
+{263}{}{TerminÃ¡l}
+{264}{}{TerminÃ¡l}
+{265}{}{PapÃ­r}
+{266}{}{Dobbs kÃ¶zlegÃ©ny}
 {267}{}{Agy-bot}
 {268}{}{Lift}
 {269}{}{Lift}
-{270}{}{Páncéldoboz}
-{271}{}{Páncéldoboz}
+{270}{}{PÃ¡ncÃ©ldoboz}
+{271}{}{PÃ¡ncÃ©ldoboz}
 {272}{}{Tandi}
-{273}{}{Lándzsa-csapda}
-{274}{}{Lándzsa-csapda}
-{275}{}{Lándzsa-csapda}
-{276}{}{Lándzsa-csapda}
-{277}{}{Lándzsa-csapda}
-{278}{}{Lándzsa-csapda}
-{279}{}{Lándzsa-csapda}
-{280}{}{Lándzsa-csapda}
-{281}{}{Lándzsa-csapda}
-{282}{}{Lándzsa-csapda}
-{283}{}{Lándzsa-csapda}
-{284}{}{Lándzsa-csapda}
-{285}{}{Lándzsa-csapda}
-{286}{}{Lándzsa-csapda}
-{287}{}{Lándzsa-csapda}
-{288}{}{Lándzsa-csapda}
-{289}{}{1-es kísértetbarlang}
-{290}{}{2-es kísértetbarlang}
+{273}{}{LÃ¡ndzsa-csapda}
+{274}{}{LÃ¡ndzsa-csapda}
+{275}{}{LÃ¡ndzsa-csapda}
+{276}{}{LÃ¡ndzsa-csapda}
+{277}{}{LÃ¡ndzsa-csapda}
+{278}{}{LÃ¡ndzsa-csapda}
+{279}{}{LÃ¡ndzsa-csapda}
+{280}{}{LÃ¡ndzsa-csapda}
+{281}{}{LÃ¡ndzsa-csapda}
+{282}{}{LÃ¡ndzsa-csapda}
+{283}{}{LÃ¡ndzsa-csapda}
+{284}{}{LÃ¡ndzsa-csapda}
+{285}{}{LÃ¡ndzsa-csapda}
+{286}{}{LÃ¡ndzsa-csapda}
+{287}{}{LÃ¡ndzsa-csapda}
+{288}{}{LÃ¡ndzsa-csapda}
+{289}{}{1-es kÃ­sÃ©rtetbarlang}
+{290}{}{2-es kÃ­sÃ©rtetbarlang}
 {291}{}{Kisertet farm}
 {292}{}{Modoc, brahmin legel?}
 {293}{}{Modoc, kert}
-{294}{}{Modoc, fogadó}
+{294}{}{Modoc, fogadÃ³}
 {295}{}{Modoc}
-{296}{}{Modoc, pöcegödör}
-{297}{}{Modoc, kút}
-{298}{}{ÚKK, 2. terület}
+{296}{}{Modoc, pÃ¶cegÃ¶dÃ¶r}
+{297}{}{Modoc, kÃºt}
+{298}{}{ÃšKK, 2. terÃ¼let}
 {299}{}{Arroyo kert}
-{300}{}{Gekkó}
-{301}{}{Broc virág}
-{302}{}{Xander gyökér}
+{300}{}{GekkÃ³}
+{301}{}{Broc virÃ¡g}
+{302}{}{Xander gyÃ¶kÃ©r}
 {303}{}{Brahmin}
-{304}{}{Balthas felesége}
+{304}{}{Balthas felesÃ©ge}
 {305}{}{Brahmin}
 {306}{}{Vadkutya}
-{307}{}{Kövek}
-{308}{}{Kövek}
-{309}{}{Fali széf}
-{310}{}{Pénzeszsák}
+{307}{}{KÃ¶vek}
+{308}{}{KÃ¶vek}
+{309}{}{Fali szÃ©f}
+{310}{}{PÃ©nzeszsÃ¡k}
 {311}{}{WC}
 {312}{}{Doboz}
 {313}{}{Jordan}
-{314}{}{Morlis nagynéni}
+{314}{}{Morlis nagynÃ©ni}
 {315}{}{Lucas}
 {316}{}{Feargus}
-{317}{}{Kút}
+{317}{}{KÃºt}
 {318}{}{Gruthar}
 {319}{}{Map Script}
 {320}{}{Doofus}
 {321}{}{Nagor}
-{322}{}{Füst}
-{323}{}{ÚKK, 1-es terület}
-{324}{}{ÚKK, 2-es terület}
-{325}{}{ÚKK, 3-as terület}
-{326}{}{ÚKK, Küls? terület}
+{322}{}{FÃ¼st}
+{323}{}{ÃšKK, 1-es terÃ¼let}
+{324}{}{ÃšKK, 2-es terÃ¼let}
+{325}{}{ÃšKK, 3-as terÃ¼let}
+{326}{}{ÃšKK, KÃ¼ls? terÃ¼let}
 {327}{}{Mikey}
 {328}{}{Mikey doboza}
 {329}{}{Emitter}
@@ -237,36 +237,36 @@
 {337}{}{Emitter}
 {338}{}{Emitter}
 {339}{}{Emitter}
-{340}{}{Er?tér}
-{341}{}{Er?tér}
-{342}{}{Er?tér}
-{343}{}{Er?tér}
-{344}{}{Er?tér}
-{345}{}{Er?tér}
-{346}{}{Er?tér}
-{347}{}{Er?tér}
-{348}{}{Er?tér}
-{349}{}{Er?tér}
-{350}{}{Er?tér}
-{351}{}{Riasztó}
+{340}{}{Er?tÃ©r}
+{341}{}{Er?tÃ©r}
+{342}{}{Er?tÃ©r}
+{343}{}{Er?tÃ©r}
+{344}{}{Er?tÃ©r}
+{345}{}{Er?tÃ©r}
+{346}{}{Er?tÃ©r}
+{347}{}{Er?tÃ©r}
+{348}{}{Er?tÃ©r}
+{349}{}{Er?tÃ©r}
+{350}{}{Er?tÃ©r}
+{351}{}{RiasztÃ³}
 {352}{}{Buster}
-{353}{}{Könyvespolc}
-{354}{}{Könyvespolc}
-{355}{}{Könyvespolc}
-{356}{}{Fosztogató}
+{353}{}{KÃ¶nyvespolc}
+{354}{}{KÃ¶nyvespolc}
+{355}{}{KÃ¶nyvespolc}
+{356}{}{FosztogatÃ³}
 {357}{}{Paraszt}
 {358}{}{Keresked?}
 {359}{}{?r}
-{360}{}{Rawhide vendég}
-{361}{}{Padló}
+{360}{}{Rawhide vendÃ©g}
+{361}{}{PadlÃ³}
 {362}{}{Plazma csapda}
 {363}{}{Plazma csapda}
-{364}{}{Terminál}
-{365}{}{Hirdet?tábla}
+{364}{}{TerminÃ¡l}
+{365}{}{Hirdet?tÃ¡bla}
 {366}{}{Kapu}
-{367}{}{Trutymó}
-{368}{}{Ajtó}
-{369}{}{Ajtó}
+{367}{}{TrutymÃ³}
+{368}{}{AjtÃ³}
+{369}{}{AjtÃ³}
 {370}{}{}
 {371}{}{}
 {372}{}{Map Script}
@@ -294,14 +294,14 @@
 {394}{}{Map Script}
 {395}{}{Map Script}
 {396}{}{Szeszf?zde}
-{397}{}{Bárvendég}
-{398}{}{Bárvendég}
+{397}{}{BÃ¡rvendÃ©g}
+{398}{}{BÃ¡rvendÃ©g}
 {399}{}{Vortis}
-{400}{}{Fürd?személyzet}
-{401}{}{Rabszolgák}
-{402}{}{Skorpió}
+{400}{}{FÃ¼rd?szemÃ©lyzet}
+{401}{}{RabszolgÃ¡k}
+{402}{}{SkorpiÃ³}
 {403}{}{Brahmin}
-{404}{}{Autó}
+{404}{}{AutÃ³}
 {405}{}{Asztal}
 {406}{}{Map Script}
 {407}{}{Map Script}
@@ -309,53 +309,53 @@
 {409}{}{Map Script}
 {410}{}{Corvega}
 {411}{}{Map Script}
-{412}{}{Fémajtó}
+{412}{}{FÃ©majtÃ³}
 {413}{}{Map Script}
 {414}{}{Map Script}
 {415}{}{Map Script}
-{416}{}{Páncéldoboz}
-{417}{}{Páncéldoboz}
-{418}{}{Páncéldoboz}
+{416}{}{PÃ¡ncÃ©ldoboz}
+{417}{}{PÃ¡ncÃ©ldoboz}
+{418}{}{PÃ¡ncÃ©ldoboz}
 {419}{}{Ratch}
-{420}{}{Bokszoló}
+{420}{}{BokszolÃ³}
 {421}{}{Pete McKneely}
 {422}{}{Evan Hollyfeld}
-{423}{}{Húsdaráló}
-{424}{}{Tudós}
+{423}{}{HÃºsdarÃ¡lÃ³}
+{424}{}{TudÃ³s}
 {425}{}{Merk}
-{426}{}{Ventillátor}
-{427}{}{Drogárus}
-{428}{}{Kaszinó vendég}
+{426}{}{VentillÃ¡tor}
+{427}{}{DrogÃ¡rus}
+{428}{}{KaszinÃ³ vendÃ©g}
 {429}{}{Strici}
-{430}{}{Narkós}
-{431}{}{Bútor}
-{432}{}{Padló}
-{433}{}{Táj}
+{430}{}{NarkÃ³s}
+{431}{}{BÃºtor}
+{432}{}{PadlÃ³}
+{433}{}{TÃ¡j}
 {434}{}{Hololemez}
 {435}{}{Lenny}
 {436}{}{Doboz}
-{437}{}{Prostituált}
+{437}{}{ProstituÃ¡lt}
 {438}{}{Rabszolga}
 {439}{}{Rico}
-{440}{}{Pornó-színészn?}
+{440}{}{PornÃ³-szÃ­nÃ©szn?}
 {441}{}{Kurva}
 {442}{}{Map Script}
 {443}{}{Farkas}
-{444}{}{Generátor}
-{445}{}{Ajtó}
+{444}{}{GenerÃ¡tor}
+{445}{}{AjtÃ³}
 {446}{}{Super mutant}
 {447}{}{Salvatore embere}
 {448}{}{Bishop embere}
 {449}{}{Mordino embere}
 {450}{}{Wright-gyerek}
-{451}{}{Kidobóember}
+{451}{}{KidobÃ³ember}
 {452}{}{Mira}
 {453}{}{New Reno, Sz?z utca}
-{454}{}{New Reno, Második utca}
+{454}{}{New Reno, MÃ¡sodik utca}
 {455}{}{New Reno, Kereskedelmi negyed}
 {456}{}{New Reno, Keleti oldal}
-{457}{}{New Reno, Istálló}
-{458}{}{New Reno, Rontó-Bontó}
+{457}{}{New Reno, IstÃ¡llÃ³}
+{458}{}{New Reno, RontÃ³-BontÃ³}
 {459}{}{New Reno, Gologta}
 {460}{}{New Reno, Bishop alagsora}
 {461}{}{Hololemez}
@@ -366,20 +366,20 @@
 {466}{}{?r}
 {467}{}{Csille}
 {468}{}{Melchior}
-{469}{}{Mutáns szörny}
+{469}{}{MutÃ¡ns szÃ¶rny}
 {470}{}{FEV Ragacs}
-{471}{}{?rség kapitány}
-{472}{}{Rabszolga-felügyel?}
-{473}{}{Melchior szörnye}
-{474}{}{Hajcsár ?r}
-{475}{}{Ajtó}
-{476}{}{Terminál}
+{471}{}{?rsÃ©g kapitÃ¡ny}
+{472}{}{Rabszolga-felÃ¼gyel?}
+{473}{}{Melchior szÃ¶rnye}
+{474}{}{HajcsÃ¡r ?r}
+{475}{}{AjtÃ³}
+{476}{}{TerminÃ¡l}
 {477}{}{Nyer?automata}
 {478}{}{Gyerek}
 {479}{}{Sheb}
 {480}{}{?r}
 {481}{}{Emitter}
-{482}{}{Er?tér}
+{482}{}{Er?tÃ©r}
 {483}{}{Sulik}
 {484}{}{Dr. Henry}
 {485}{}{?r}
@@ -387,147 +387,147 @@
 {487}{}{Carlson kapu?re}
 {488}{}{Fogoly}
 {489}{}{Fogoly}
-{490}{}{Polgár}
+{490}{}{PolgÃ¡r}
 {491}{}{Komfort felel?s}
-{492}{}{Eligazító ?r}
-{493}{}{Ghoul Munkás}
-{494}{}{Fényl? ghoul}
+{492}{}{EligazÃ­tÃ³ ?r}
+{493}{}{Ghoul MunkÃ¡s}
+{494}{}{FÃ©nyl? ghoul}
 {495}{}{Ghoul ?r}
 {496}{}{Robot}
 {497}{}{Ghoul}
-{498}{}{Hív?}
+{498}{}{HÃ­v?}
 {499}{}{Harold}
 {500}{}{Tiszt}
 {501}{}{Toto}
 {502}{}{Dorothy}
-{503}{}{Városlakó}
+{503}{}{VÃ¡roslakÃ³}
 {504}{}{Ghoul ?r}
 {505}{}{Ghoul ?r}
 {506}{}{Gond}
 {507}{}{Duppo}
 {508}{}{Cucc}
 {509}{}{Bob}
-{510}{}{Kaszinólány}
-{511}{}{Kaszinólány}
-{512}{}{Mágikus 8-as golyó}
+{510}{}{KaszinÃ³lÃ¡ny}
+{511}{}{KaszinÃ³lÃ¡ny}
+{512}{}{MÃ¡gikus 8-as golyÃ³}
 {513}{}{Brahmin}
 {514}{}{Nyer?automata}
-{515}{}{Vén McGee}
+{515}{}{VÃ©n McGee}
 {516}{}{"Ittapiros" Monte}
 {517}{}{Algernon}
 {518}{}{Bill}
 {519}{}{Bishop's Bodyguard}
 {520}{}{John Bishop}
-{521}{}{Játékautomata}
-{522}{}{Rontó-Bontó szerel?}
+{521}{}{JÃ¡tÃ©kautomata}
+{522}{}{RontÃ³-BontÃ³ szerel?}
 {523}{}{Chris Wright}
 {524}{}{Cody}
-{525}{}{A Korzikai Testvérek egyike}
+{525}{}{A Korzikai TestvÃ©rek egyike}
 {526}{}{Eldridge}
 {527}{}{Etil Wright}
 {528}{}{Tully atya}
 {529}{}{HumperdumperDIDO}
 {530}{}{Kis Jesus Mordino}
-{531}{}{Csipkés Jimmy J.}
+{531}{}{CsipkÃ©s Jimmy J.}
 {532}{}{Keith Wright}
 {533}{}{Lee Anne Bishop}
-{534}{}{Szépfiú Lloyd}
+{534}{}{SzÃ©pfiÃº Lloyd}
 {535}{}{Mason}
 {536}{}{?r}
 {537}{}{Myron}
 {538}{}{Nikki}
 {539}{}{Orville Wright}
-{540}{}{Felvigyázó}
-{541}{}{Rakétás Renesco}
+{540}{}{FelvigyÃ¡zÃ³}
+{541}{}{RakÃ©tÃ¡s Renesco}
 {542}{}{Marjorie Reed}
-{543}{}{Salvatore, a nagyf?nök}
+{543}{}{Salvatore, a nagyf?nÃ¶k}
 {544}{}{Stuart Little}
 {545}{}{T-Ray}
 {546}{}{Kurva}
 {547}{}{Wright-gyerek}
-{548}{}{ÚKK rend?r}
+{548}{}{ÃšKK rend?r}
 {549}{}{Oswald}
 {550}{}{Dusty}
 {551}{}{Jules}
 {552}{}{Kitty kisasszony}
 {553}{}{Csapos}
-{554}{}{Karl, a megbízott}
+{554}{}{Karl, a megbÃ­zott}
 {555}{}{Cella ajtaja}
 {556}{}{Nagy Jesus Mordino}
 {557}{}{Hoss}
-{558}{}{Mutagén szérum}
+{558}{}{MutagÃ©n szÃ©rum}
 {559}{}{Doboz}
 {560}{}{Doboz}
 {561}{}{Doboz}
 {562}{}{Doboz}
 {563}{}{Doktor Jubilee}
-{564}{}{Ajtó}
-{565}{}{Ajtó}
-{566}{}{Könyvespolc}
+{564}{}{AjtÃ³}
+{565}{}{AjtÃ³}
+{566}{}{KÃ¶nyvespolc}
 {567}{}{Dumont seriff}
 {568}{}{Elise}
-{569}{}{Ranchsegéd}
+{569}{}{RanchsegÃ©d}
 {570}{}{Felix}
 {571}{}{Westin}
 {572}{}{Rondo}
 {573}{}{Robokutya}
-{574}{}{Lépcs?}
+{574}{}{LÃ©pcs?}
 {575}{}{Hal}
 {576}{}{Gunther}
 {577}{}{Brahmin}
-{578}{}{Karavánmester}
-{579}{}{Karaván vezet?}
-{580}{}{Karaván ?r}
-{581}{}{Fosztogató}
+{578}{}{KaravÃ¡nmester}
+{579}{}{KaravÃ¡n vezet?}
+{580}{}{KaravÃ¡n ?r}
+{581}{}{FosztogatÃ³}
 {582}{}{Gengszter}
-{583}{}{Vadász}
-{584}{}{Vadász}
-{585}{}{Cserkész}
+{583}{}{VadÃ¡sz}
+{584}{}{VadÃ¡sz}
+{585}{}{CserkÃ©sz}
 {586}{}{Zsoldos}
 {587}{}{Zsoldos}
-{588}{}{Fosztogató}
-{589}{}{Karaván vezet?}
-{590}{}{Karaván ?r}
-{591}{}{Jár?r}
-{592}{}{Jár?r kapitány}
+{588}{}{FosztogatÃ³}
+{589}{}{KaravÃ¡n vezet?}
+{590}{}{KaravÃ¡n ?r}
+{591}{}{JÃ¡r?r}
+{592}{}{JÃ¡r?r kapitÃ¡ny}
 {593}{}{Farmer}
 {594}{}{Brahmin}
 {595}{}{Brahmin}
-{596}{}{Utazó}
-{597}{}{Jár?r}
-{598}{}{Jár?r kapitány}
-{599}{}{Jár?r}
-{600}{}{Jár?r kapitány}
-{601}{}{Brahmin hajtó}
+{596}{}{UtazÃ³}
+{597}{}{JÃ¡r?r}
+{598}{}{JÃ¡r?r kapitÃ¡ny}
+{599}{}{JÃ¡r?r}
+{600}{}{JÃ¡r?r kapitÃ¡ny}
+{601}{}{Brahmin hajtÃ³}
 {602}{}{Marhatolvaj}
-{603}{}{Földbitorló}
-{604}{}{Szörnyszakért?}
-{605}{}{Szeszcsempész}
+{603}{}{FÃ¶ldbitorlÃ³}
+{604}{}{SzÃ¶rnyszakÃ©rt?}
+{605}{}{SzeszcsempÃ©sz}
 {606}{}{Super mutant}
-{607}{}{Halász}
+{607}{}{HalÃ¡sz}
 {608}{}{Rabszolga-keresked?}
-{609}{}{Prémvadász}
-{610}{}{Carlson kölyök}
+{609}{}{PrÃ©mvadÃ¡sz}
+{610}{}{Carlson kÃ¶lyÃ¶k}
 {611}{}{Carlson}
 {612}{}{}
 {613}{}{Jack, a tiszt}
-{614}{}{A Megvilágosodott}
-{615}{}{Ajtó}
-{616}{}{Számítógép}
+{614}{}{A MegvilÃ¡gosodott}
+{615}{}{AjtÃ³}
+{616}{}{SzÃ¡mÃ­tÃ³gÃ©p}
 {617}{}{Brahmin}
-{618}{}{Halálkarom                                                        }
-{619}{}{Kijárat}
-{620}{}{Számítógép}
+{618}{}{HalÃ¡lkarom                                                        }
+{619}{}{KijÃ¡rat}
+{620}{}{SzÃ¡mÃ­tÃ³gÃ©p}
 {621}{}{Feargus}
 {622}{}{Ariel}
 {623}{}{Fannie Mae}
-{624}{}{Számítógép-terminál}
+{624}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l}
 {625}{}{Dalia}
 {626}{}{Dar}
 {627}{}{Dave}
 {628}{}{Gordon}
-{629}{}{"Üzemen kívül" tábla}
-{630}{}{Reaktor vezérl? gépezet}
+{629}{}{"Ãœzemen kÃ­vÃ¼l" tÃ¡bla}
+{630}{}{Reaktor vezÃ©rl? gÃ©pezet}
 {631}{}{Jimmy}
 {632}{}{Joseph}
 {633}{}{Matt}
@@ -540,143 +540,143 @@
 {640}{}{Doboz}
 {641}{}{Doboz}
 {642}{}{Valdis}
-{643}{}{Számítógép-terminál}
-{644}{}{Fémszekrény}
-{645}{}{Láda}
-{646}{}{Halálkarom ?r}
+{643}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l}
+{644}{}{FÃ©mszekrÃ©ny}
+{645}{}{LÃ¡da}
+{646}{}{HalÃ¡lkarom ?r}
 {647}{}{Goris}
 {648}{}{Doboz}
-{649}{}{Fémszekrény}
-{650}{}{Csaló}
+{649}{}{FÃ©mszekrÃ©ny}
+{650}{}{CsalÃ³}
 {651}{}{V15 map Script}
 {652}{}{Phil}
 {653}{}{Bill}
-{654}{}{Mészáros}
+{654}{}{MÃ©szÃ¡ros}
 {655}{}{Dalia}
 {656}{}{John}
 {657}{}{Jones}
 {658}{}{Karla}
 {659}{}{V15 Secret entrance map}
 {660}{}{Rebecca}
-{661}{}{Ajtó}
-{662}{}{Halálkarom                                                        }
+{661}{}{AjtÃ³}
+{662}{}{HalÃ¡lkarom                                                        }
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
 {666}{}{Brahmin}
-{667}{}{Fa ajtó}
+{667}{}{Fa ajtÃ³}
 {668}{}{Chrissy}
 {669}{}{Darion}
 {670}{}{Darion test?re}
-{671}{}{Darion kutyája}
+{671}{}{Darion kutyÃ¡ja}
 {672}{}{Cassidy}
-{673}{}{Kút}
-{674}{}{Vakondpatkány}
+{673}{}{KÃºt}
+{674}{}{VakondpatkÃ¡ny}
 {675}{}{Nagydarab brahmin}
 {676}{}{Brahmin}
-{677}{}{Liftajtó}
+{677}{}{LiftajtÃ³}
 {678}{}{Kutya}
-{679}{}{Patkány}
-{680}{}{Napsütéses hely}
+{679}{}{PatkÃ¡ny}
+{680}{}{NapsÃ¼tÃ©ses hely}
 {681}{}{Bess}
 {682}{}{Doboz}
-{683}{}{Kockajátékos}
-{684}{}{15-ös Menedék?r}
-{685}{}{Aljanép ?r}
+{683}{}{KockajÃ¡tÃ©kos}
+{684}{}{15-Ã¶s MenedÃ©k?r}
+{685}{}{AljanÃ©p ?r}
 {686}{}{Sz?nyeg}
 {687}{}{Gyerek}
 {688}{}{Aileen}
 {689}{}{?r}
 {690}{}{Holiday doki}
-{691}{}{Bérenc}
-{692}{}{Bérenc}
+{691}{}{BÃ©renc}
+{692}{}{BÃ©renc}
 {693}{}{N?}
 {694}{}{Francis}
 {695}{}{Frank}
 {696}{}{Ghoul}
 {697}{}{Liz}
-{698}{}{Férfi}
+{698}{}{FÃ©rfi}
 {699}{}{Manson}
 {700}{}{Marcus}
-{701}{}{Bányász}
-{702}{}{Mutáns                                                            }
+{701}{}{BÃ¡nyÃ¡sz}
+{702}{}{MutÃ¡ns                                                            }
 {703}{}{Bill}
 {704}{}{Phil}
 {705}{}{Steve}
 {706}{}{Ellen?r}
 {707}{}{Zaius}
 {708}{}{Jacob}
-{709}{}{Kémikus készlet}
-{710}{}{Karó}
-{711}{}{Ajtó}
-{712}{}{Számítógép}
+{709}{}{KÃ©mikus kÃ©szlet}
+{710}{}{KarÃ³}
+{711}{}{AjtÃ³}
+{712}{}{SzÃ¡mÃ­tÃ³gÃ©p}
 {713}{}{Chad}
-{714}{}{Húsev? növény}
+{714}{}{HÃºsev? nÃ¶vÃ©ny}
 {715}{}{}
-{716}{}{Radskorpió}
+{716}{}{RadskorpiÃ³}
 {717}{}{}
 {718}{}{Harcos}
-{719}{}{Kannibál}
-{720}{}{Szám?zött}
+{719}{}{KannibÃ¡l}
+{720}{}{SzÃ¡m?zÃ¶tt}
 {721}{}{Szent ember}
-{722}{}{Nomád}
-{723}{}{Hajléktalan}
+{722}{}{NomÃ¡d}
+{723}{}{HajlÃ©ktalan}
 {724}{}{Bandita}
-{725}{}{Rabló}
-{726}{}{Útonálló}
+{725}{}{RablÃ³}
+{726}{}{ÃštonÃ¡llÃ³}
 {727}{}{Rabszolga-keresked?}
 {728}{}{Rabszolga}
-{729}{}{Bulizó}
-{730}{}{Sáska}
+{729}{}{BulizÃ³}
+{730}{}{SÃ¡ska}
 {731}{}{Brahmin}
 {732}{}{Vadkutya}
-{733}{}{Számítógép}
-{734}{}{Számítógép}
-{735}{}{Számítógép-terminál}
-{736}{}{Számítógép}
-{737}{}{Generátor}
-{738}{}{Er?tér}
+{733}{}{SzÃ¡mÃ­tÃ³gÃ©p}
+{734}{}{SzÃ¡mÃ­tÃ³gÃ©p}
+{735}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l}
+{736}{}{SzÃ¡mÃ­tÃ³gÃ©p}
+{737}{}{GenerÃ¡tor}
+{738}{}{Er?tÃ©r}
 {739}{}{Paraszt}
 {740}{}{Emitter}
-{741}{}{Menedékajtó}
-{742}{}{Biztonsági ajtó}
-{743}{}{Találkozás Bess-szel}
+{741}{}{MenedÃ©kajtÃ³}
+{742}{}{BiztonsÃ¡gi ajtÃ³}
+{743}{}{TalÃ¡lkozÃ¡s Bess-szel}
 {744}{}{Bess}
 {745}{}{Brahmin}
 {746}{}{Angela Bishop}
-{747}{}{Tökös Tomi}
-{748}{}{Széf}
-{749}{}{Széf}
-{750}{}{Széf}
-{751}{}{Széf}
-{752}{}{Sírhely}
-{753}{}{Öltöz?asztal}
-{754}{}{Sírhely}
+{747}{}{TÃ¶kÃ¶s Tomi}
+{748}{}{SzÃ©f}
+{749}{}{SzÃ©f}
+{750}{}{SzÃ©f}
+{751}{}{SzÃ©f}
+{752}{}{SÃ­rhely}
+{753}{}{Ã–ltÃ¶z?asztal}
+{754}{}{SÃ­rhely}
 {755}{}{Szeszf?zde}
 {756}{}{Ramirez}
-{757}{}{Barlang 1, Véletlen esemény}
+{757}{}{Barlang 1, VÃ©letlen esemÃ©ny}
 {758}{}{Doboz}
-{759}{}{Ajtó}
-{760}{}{Barlang 2, Véletlen esemény}
-{761}{}{Barlang 3, Véletlen esemény}
-{762}{}{Barlang 4, Véletlen esemény}
-{763}{}{Barlang 2, Véletlen esemény}
-{764}{}{Ajtó}
+{759}{}{AjtÃ³}
+{760}{}{Barlang 2, VÃ©letlen esemÃ©ny}
+{761}{}{Barlang 3, VÃ©letlen esemÃ©ny}
+{762}{}{Barlang 4, VÃ©letlen esemÃ©ny}
+{763}{}{Barlang 2, VÃ©letlen esemÃ©ny}
+{764}{}{AjtÃ³}
 {765}{}{Map Script}
-{766}{}{Csapóajtó}
-{767}{}{Páncéldoboz}
+{766}{}{CsapÃ³ajtÃ³}
+{767}{}{PÃ¡ncÃ©ldoboz}
 {768}{}{Szoba}
 {769}{}{Thomas Moore}
-{770}{}{Ajtó}
-{771}{}{Szekrény}
-{772}{}{Nyílás}
-{773}{}{Sírhely}
-{774}{}{Raktár ?r}
+{770}{}{AjtÃ³}
+{771}{}{SzekrÃ©ny}
+{772}{}{NyÃ­lÃ¡s}
+{773}{}{SÃ­rhely}
+{774}{}{RaktÃ¡r ?r}
 {775}{}{Map Script}
 {776}{}{Map Script}
 {777}{}{Veszett brahminok}
 {778}{}{Hakeswill}
-{779}{}{Redding, Belváros}
+{779}{}{Redding, BelvÃ¡ros}
 {780}{}{Map Script}
 {781}{}{Map Script}
 {782}{}{Lou}
@@ -687,8 +687,8 @@
 {787}{}{Galahad}
 {788}{}{Ben Wade}
 {789}{}{Athabaska Dick}
-{790}{}{Özvegy Rooney-né}
-{791}{}{Városlakó}
+{790}{}{Ã–zvegy Rooney-nÃ©}
+{791}{}{VÃ¡roslakÃ³}
 {792}{}{Stanwell}
 {793}{}{Savinelli}
 {794}{}{Marge}
@@ -700,264 +700,264 @@
 {800}{}{Eric}
 {801}{}{John}
 {802}{}{Joshua}
-{803}{}{Létra}
+{803}{}{LÃ©tra}
 {804}{}{Nagy fej}
 {805}{}{Fekete h?s}
-{806}{}{Vörös h?sn?}
+{806}{}{VÃ¶rÃ¶s h?sn?}
 {807}{}{Set}
 {808}{}{Tandi}
-{809}{}{Fehér h?s}
-{810}{}{Fehér h?s}
-{811}{}{Fehér h?sn?}
+{809}{}{FehÃ©r h?s}
+{810}{}{FehÃ©r h?s}
+{811}{}{FehÃ©r h?sn?}
 {812}{}{Doboz}
 {813}{}{Doboz}
 {814}{}{Doboz}
 {815}{}{Map Script}
-{816}{}{Vorpal patkány}
+{816}{}{Vorpal patkÃ¡ny}
 {817}{}{Kutya}
 {818}{}{Drill Sergeant}
 {819}{}{?r}
 {820}{}{Technikus}
 {821}{}{Parancsnok}
 {822}{}{Chris}
-{823}{}{Raktáros}
+{823}{}{RaktÃ¡ros}
 {824}{}{?r}
-{825}{}{Sírhely}
-{826}{}{Autó}
-{827}{}{Autó}
-{828}{}{Sírhely}
-{829}{}{Köpenyes alak}
-{830}{}{Marhatartó}
+{825}{}{SÃ­rhely}
+{826}{}{AutÃ³}
+{827}{}{AutÃ³}
+{828}{}{SÃ­rhely}
+{829}{}{KÃ¶penyes alak}
+{830}{}{MarhatartÃ³}
 {831}{}{Map Script}
 {832}{}{Titokzatos idegen}
 {833}{}{Veszett brahminok}
 {834}{}{Yakuza Member}
-{835}{}{Vadonlakó}
+{835}{}{VadonlakÃ³}
 {836}{}{Kutya}
 {837}{}{Doboz}
 {838}{}{Patrol Member}
-{839}{}{Utazó}
-{840}{}{Füst}
+{839}{}{UtazÃ³}
+{840}{}{FÃ¼st}
 {841}{}{Keresked?}
-{842}{}{Guberáló}
+{842}{}{GuberÃ¡lÃ³}
 {843}{}{Keresked?}
 {844}{}{Paraszt}
 {845}{}{Arroyo, Templom}
-{846}{}{Dokkmunkás}
+{846}{}{DokkmunkÃ¡s}
 {847}{}{Paraszt}
 {848}{}{Shi ?r}
 {849}{}{Cameron}
-{850}{}{Ajtó}
+{850}{}{AjtÃ³}
 {851}{}{Klint}
-{852}{}{Termés}
+{852}{}{TermÃ©s}
 {853}{}{Shi labortechnikus}
 {854}{}{Gyerek}
 {855}{}{Ghoul}
 {856}{}{Dr. Fung}
 {857}{}{Jul}
 {858}{}{Kerith}
-{859}{}{Láda}
+{859}{}{LÃ¡da}
 {860}{}{Ghoul}
 {861}{}{}
 {862}{}{}
-{863}{}{Földmér?}
+{863}{}{FÃ¶ldmÃ©r?}
 {864}{}{Gang Member}
-{865}{}{Nomád f?nök}
+{865}{}{NomÃ¡d f?nÃ¶k}
 {866}{}{Hubologista}
-{867}{}{?rült}
-{868}{}{Földfoglaló}
-{869}{}{Kannibál}
-{870}{}{Nomád sámán}
-{871}{}{Martalóc}
-{872}{}{Zsivány}
+{867}{}{?rÃ¼lt}
+{868}{}{FÃ¶ldfoglalÃ³}
+{869}{}{KannibÃ¡l}
+{870}{}{NomÃ¡d sÃ¡mÃ¡n}
+{871}{}{MartalÃ³c}
+{872}{}{ZsivÃ¡ny}
 {873}{}{Remete}
 {874}{}{}
-{875}{}{Karavánmester}
-{876}{}{Karavánmester}
-{877}{}{Karavánmester}
-{878}{}{Karavánmester}
-{879}{}{Karavánmester}
-{880}{}{Karavánmester}
-{881}{}{Karavánmester}
-{882}{}{Karavánmester}
-{883}{}{Karavánmester}
-{884}{}{Farmer felesége}
-{885}{}{Farmer kölyke}
+{875}{}{KaravÃ¡nmester}
+{876}{}{KaravÃ¡nmester}
+{877}{}{KaravÃ¡nmester}
+{878}{}{KaravÃ¡nmester}
+{879}{}{KaravÃ¡nmester}
+{880}{}{KaravÃ¡nmester}
+{881}{}{KaravÃ¡nmester}
+{882}{}{KaravÃ¡nmester}
+{883}{}{KaravÃ¡nmester}
+{884}{}{Farmer felesÃ©ge}
+{885}{}{Farmer kÃ¶lyke}
 {886}{}{Telepes}
-{887}{}{Tanyasi felesége}
-{888}{}{Tanyasi kölyke}
-{889}{}{Karavánmester}
+{887}{}{Tanyasi felesÃ©ge}
+{888}{}{Tanyasi kÃ¶lyke}
+{889}{}{KaravÃ¡nmester}
 {890}{}{}
 {891}{}{}
 {892}{}{}
 {893}{}{}
-{894}{}{Enklávé jár?r}
-{895}{}{Zsoldoskapitány}
-{896}{}{Zsoldos fosztogató}
-{897}{}{"Árnyék-Aki-Jár"}
-{898}{}{Széf}
+{894}{}{EnklÃ¡vÃ© jÃ¡r?r}
+{895}{}{ZsoldoskapitÃ¡ny}
+{896}{}{Zsoldos fosztogatÃ³}
+{897}{}{"ÃrnyÃ©k-Aki-JÃ¡r"}
+{898}{}{SzÃ©f}
 {899}{}{}
 {900}{}{}
 {901}{}{}
 {902}{}{Doboz}
-{903}{}{Richardson elnök}
+{903}{}{Richardson elnÃ¶k}
 {904}{}{Tarack}
-{905}{}{Ajtó}
-{906}{}{Halálkarom kölyök}
-{907}{}{"Veszélyes" Dan}
+{905}{}{AjtÃ³}
+{906}{}{HalÃ¡lkarom kÃ¶lyÃ¶k}
+{907}{}{"VeszÃ©lyes" Dan}
 {908}{}{Johnson doki}
 {909}{}{Marion seriff}
-{910}{}{Ascorti polgármester}
+{910}{}{Ascorti polgÃ¡rmester}
 {911}{}{Nording}
 {912}{}{Velani}
 {913}{}{Ferndown}
-{914}{}{A Sárkány}
-{915}{}{Istállófiú}
+{914}{}{A SÃ¡rkÃ¡ny}
+{915}{}{IstÃ¡llÃ³fiÃº}
 {916}{}{Keresked?}
-{917}{}{Városlakó}
-{918}{}{Aljanép ?r}
-{919}{}{Aljanép ?r}
+{917}{}{VÃ¡roslakÃ³}
+{918}{}{AljanÃ©p ?r}
+{919}{}{AljanÃ©p ?r}
 {920}{}{Lo Pan}
 {921}{}{A Borz}
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
 {925}{}{Mai Da Chiang}
-{926}{}{Ajtó}
-{927}{}{Ajtó}
+{926}{}{AjtÃ³}
+{927}{}{AjtÃ³}
 {928}{}{Emitter}
-{929}{}{Patkánykirály}
+{929}{}{PatkÃ¡nykirÃ¡ly}
 {930}{}{}
 {931}{}{Kaga}
 {932}{}{Kaga}
 {933}{}{Kaga}
 {934}{}{Kaga}
 {935}{}{Kaga}
-{936}{}{Fejvadász}
-{937}{}{Számítógép}
-{938}{}{Számítógép}
-{939}{}{Számítógép}
+{936}{}{FejvadÃ¡sz}
+{937}{}{SzÃ¡mÃ­tÃ³gÃ©p}
+{938}{}{SzÃ¡mÃ­tÃ³gÃ©p}
+{939}{}{SzÃ¡mÃ­tÃ³gÃ©p}
 {940}{}{Darrow}
 {941}{}{Farrell}
-{942}{}{Bárvendég}
-{943}{}{Menedékvárosi polgár}
-{944}{}{Menedékvárosi szolga}
-{945}{}{Szell?z?nyílás}
+{942}{}{BÃ¡rvendÃ©g}
+{943}{}{MenedÃ©kvÃ¡rosi polgÃ¡r}
+{944}{}{MenedÃ©kvÃ¡rosi szolga}
+{945}{}{Szell?z?nyÃ­lÃ¡s}
 {946}{}{Charlie}
-{947}{}{H?tésvezérl? panel}
+{947}{}{H?tÃ©svezÃ©rl? panel}
 {948}{}{Brahminszar}
 {949}{}{Grant}
 {950}{}{Emitter}
 {951}{}{Emitter}
-{952}{}{Számítógép-terminál}
-{953}{}{Uralkodó Terminál v8.8}
-{954}{}{Bird alelnök}
+{952}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l}
+{953}{}{UralkodÃ³ TerminÃ¡l v8.8}
+{954}{}{Bird alelnÃ¶k}
 {955}{}{Martin}
 {956}{}{Ken Lee}
 {957}{}{Granite ?rmester}
 {958}{}{Frank Horrigan}
 {959}{}{Map Script}
 {960}{}{Map Script}
-{961}{}{Ajtó}
-{962}{}{Ajtó}
-{963}{}{Ajtó}
-{964}{}{Kötél}
+{961}{}{AjtÃ³}
+{962}{}{AjtÃ³}
+{963}{}{AjtÃ³}
+{964}{}{KÃ¶tÃ©l}
 {965}{}{Emitter}
 {966}{}{Dr. Curling}
-{967}{}{Hirdet?tábla}
-{968}{}{Vakondpatkány}
-{969}{}{Elnök titkárn?je}
+{967}{}{Hirdet?tÃ¡bla}
+{968}{}{VakondpatkÃ¡ny}
+{969}{}{ElnÃ¶k titkÃ¡rn?je}
 {970}{}{Tom Murray}
-{971}{}{Masszív ajtó}
-{972}{}{Városlakó}
-{973}{}{Menedékváros tanácsház}
-{974}{}{Légtisztító}
-{975}{}{Kövek}
-{976}{}{Szerencsejátékos}
+{971}{}{MasszÃ­v ajtÃ³}
+{972}{}{VÃ¡roslakÃ³}
+{973}{}{MenedÃ©kvÃ¡ros tanÃ¡cshÃ¡z}
+{974}{}{LÃ©gtisztÃ­tÃ³}
+{975}{}{KÃ¶vek}
+{976}{}{SzerencsejÃ¡tÃ©kos}
 {977}{}{Spatial Script}
 {978}{}{SCCheat}
 {979}{}{Fogoly}
-{980}{}{Polgár}
+{980}{}{PolgÃ¡r}
 {981}{}{?r}
-{982}{}{Tudós}
-{983}{}{Terminál}
+{982}{}{TudÃ³s}
+{983}{}{TerminÃ¡l}
 {984}{}{}
 {985}{}{}
 {986}{}{Emitter}
-{987}{}{Ajtó}
-{988}{}{Ajtó}
-{989}{}{Darrow áruja}
-{990}{}{Ajtó}
-{991}{}{Szuperdupermutáns}
+{987}{}{AjtÃ³}
+{988}{}{AjtÃ³}
+{989}{}{Darrow Ã¡ruja}
+{990}{}{AjtÃ³}
+{991}{}{SzuperdupermutÃ¡ns}
 {992}{}{Dr. Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Melchior Jr.}
 {995}{}{Retinaszkenner}
-{996}{}{Liftajtó}
+{996}{}{LiftajtÃ³}
 {997}{}{Cybernetic Receptacle}
 {998}{}{Fal}
 {999}{}{Map Script}
-{1000}{}{Farrell áruja}
-{1001}{}{Harry áruja}
+{1000}{}{Farrell Ã¡ruja}
+{1001}{}{Harry Ã¡ruja}
 {1002}{}{Doboz}
 {1003}{}{Doboz}
 {1004}{}{Derek}
-{1005}{}{Tubby barátja}
-{1006}{}{Szerencsejátékos}
+{1005}{}{Tubby barÃ¡tja}
+{1006}{}{SzerencsejÃ¡tÃ©kos}
 {1007}{}{Rabszolga}
 {1008}{}{?r}
 {1009}{}{Rabszolga-keresked?}
 {1010}{}{Lara}
 {1011}{}{Tyler}
 {1012}{}{Marc}
-{1013}{}{Hirdet?tábla}
+{1013}{}{Hirdet?tÃ¡bla}
 {1014}{}{Rabszolga-keresked?}
 {1015}{}{Rabszolga-keresked?}
 {1016}{}{Fred}
 {1017}{}{Doboz}
 {1018}{}{Doboz}
 {1019}{}{Doboz}
-{1020}{}{Csomagtartó}
-{1021}{}{Biztonsági ajtó}
-{1022}{}{Számítógép-terminál}
-{1023}{}{Számítógép-terminál}
-{1024}{}{Számítógép-terminál}
+{1020}{}{CsomagtartÃ³}
+{1021}{}{BiztonsÃ¡gi ajtÃ³}
+{1022}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l}
+{1023}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l}
+{1024}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l}
 {1025}{}{Lao Chou}
 {1026}{}{}
-{1027}{}{Szell?z?nyílás}
+{1027}{}{Szell?z?nyÃ­lÃ¡s}
 {1028}{}{Map Script}
 {1029}{}{Hulla}
-{1030}{}{Vezeték}
+{1030}{}{VezetÃ©k}
 {1031}{}{Doboz}
 {1032}{}{Rabszolga}
 {1033}{}{Rabszolga}
 {1034}{}{Rabszolga-keresked?}
 {1035}{}{Chip}
 {1036}{}{Reaktor}
-{1037}{}{Reaktor számítógép}
-{1038}{}{Pénztáros}
-{1039}{}{Pénzesláda}
+{1037}{}{Reaktor szÃ¡mÃ­tÃ³gÃ©p}
+{1038}{}{PÃ©nztÃ¡ros}
+{1039}{}{PÃ©nzeslÃ¡da}
 {1040}{}{Wanamingo}
-{1041}{}{Bárvendég}
-{1042}{}{Bárvendég}
-{1043}{}{Börtönajtó}
+{1041}{}{BÃ¡rvendÃ©g}
+{1042}{}{BÃ¡rvendÃ©g}
+{1043}{}{BÃ¶rtÃ¶najtÃ³}
 {1044}{}{Suze}
-{1045}{}{Ron Meyers, a kapitány}
-{1046}{}{Ajtó}
-{1047}{}{Wanamingo bánya}
-{1048}{}{Wanamingo bánya bejárata}
+{1045}{}{Ron Meyers, a kapitÃ¡ny}
+{1046}{}{AjtÃ³}
+{1047}{}{Wanamingo bÃ¡nya}
+{1048}{}{Wanamingo bÃ¡nya bejÃ¡rata}
 {1049}{}{H?t?s Morton}
 {1050}{}{Dave H.}
-{1051}{}{Ajtó}
-{1052}{}{Ajtó}
-{1053}{}{Hányós Charlie}
-{1054}{}{Festmény}
+{1051}{}{AjtÃ³}
+{1052}{}{AjtÃ³}
+{1053}{}{HÃ¡nyÃ³s Charlie}
+{1054}{}{FestmÃ©ny}
 {1055}{}{Map Script}
 {1056}{}{Csapos}
 {1057}{}{Doboz}
 {1058}{}{AutoDoki}
 {1059}{}{}
-{1060}{}{Bányász alagút}
+{1060}{}{BÃ¡nyÃ¡sz alagÃºt}
 {1061}{}{Robot}
 {1062}{}{}
 {1063}{}{Map Script}
@@ -970,89 +970,89 @@
 {1070}{}{Amanda}
 {1071}{}{Joshua}
 {1072}{}{Valerie}
-{1073}{}{Tanítórendszer}
-{1074}{}{Láda}
-{1075}{}{Pisáló srác}
+{1073}{}{TanÃ­tÃ³rendszer}
+{1074}{}{LÃ¡da}
+{1075}{}{PisÃ¡lÃ³ srÃ¡c}
 {1076}{}{Curtis}
 {1077}{}{Marc}
-{1078}{}{Számítógép}
+{1078}{}{SzÃ¡mÃ­tÃ³gÃ©p}
 {1079}{}{BHK-9}
 {1080}{}{?r}
 {1081}{}{K?halom}
-{1082}{}{Ajtó}
+{1082}{}{AjtÃ³}
 {1083}{}{?r}
 {1084}{}{?r}
-{1085}{}{Ajtó}
-{1086}{}{"Körözvény"}
+{1085}{}{AjtÃ³}
+{1086}{}{"KÃ¶rÃ¶zvÃ©ny"}
 {1087}{}{Dr. Wong}
 {1088}{}{Asztal}
-{1089}{}{Ajtó}
+{1089}{}{AjtÃ³}
 {1090}{}{Punk!}
 {1091}{}{Punk!}
 {1092}{}{Ryan}
 {1093}{}{Doboz}
 {1094}{}{}
-{1095}{}{Nyílás}
+{1095}{}{NyÃ­lÃ¡s}
 {1096}{}{Map Script}
-{1097}{}{Létra}
-{1098}{}{Boksz-zsák}
-{1099}{}{Ajtó}
-{1100}{}{Riasztó}
-{1101}{}{Padlólap}
-{1102}{}{Padlólap}
-{1103}{}{Padlólap}
-{1104}{}{Padlólap}
-{1105}{}{Padlólap}
-{1106}{}{Padlólap}
-{1107}{}{Padlólap}
-{1108}{}{Padlólap}
-{1109}{}{Padlólap}
-{1110}{}{Padlólap}
-{1111}{}{Padlólap}
-{1112}{}{Padlólap}
-{1113}{}{Padlólap}
-{1114}{}{Padlólap}
+{1097}{}{LÃ©tra}
+{1098}{}{Boksz-zsÃ¡k}
+{1099}{}{AjtÃ³}
+{1100}{}{RiasztÃ³}
+{1101}{}{PadlÃ³lap}
+{1102}{}{PadlÃ³lap}
+{1103}{}{PadlÃ³lap}
+{1104}{}{PadlÃ³lap}
+{1105}{}{PadlÃ³lap}
+{1106}{}{PadlÃ³lap}
+{1107}{}{PadlÃ³lap}
+{1108}{}{PadlÃ³lap}
+{1109}{}{PadlÃ³lap}
+{1110}{}{PadlÃ³lap}
+{1111}{}{PadlÃ³lap}
+{1112}{}{PadlÃ³lap}
+{1113}{}{PadlÃ³lap}
+{1114}{}{PadlÃ³lap}
 {1115}{}{Emitter}
 {1116}{}{Emitter}
 {1117}{}{Emitter}
-{1118}{}{Er?tér}
-{1119}{}{Er?tér}
-{1120}{}{Er?tér}
+{1118}{}{Er?tÃ©r}
+{1119}{}{Er?tÃ©r}
+{1120}{}{Er?tÃ©r}
 {1121}{}{Hubologista}
-{1122}{}{Számítógép}
-{1123}{}{Bunkerajtó}
+{1122}{}{SzÃ¡mÃ­tÃ³gÃ©p}
+{1123}{}{BunkerajtÃ³}
 {1124}{}{Kapu}
 {1125}{}{Doboz}
-{1126}{}{Az egyik Morton fivér}
+{1126}{}{Az egyik Morton fivÃ©r}
 {1127}{}{Emitter}
 {1128}{}{Emitter}
 {1129}{}{Emitter}
 {1130}{}{Map Script}
 {1131}{}{Chet}
 {1132}{}{Map Script}
-{1133}{}{Gépmadár}
+{1133}{}{GÃ©pmadÃ¡r}
 {1134}{}{Salvatore ?re}
 {1135}{}{Salvatore ?re}
 {1136}{}{Soldier}
 {1137}{}{Soldier}
-{1138}{}{Láda}
+{1138}{}{LÃ¡da}
 {1139}{}{Mr. Handy}
 {1140}{}{Salvatore ?re}
 {1141}{}{Spacial Script}
-{1142}{}{Ajtó}
-{1143}{}{Ajtó}
-{1144}{}{Ajtó}
+{1142}{}{AjtÃ³}
+{1143}{}{AjtÃ³}
+{1144}{}{AjtÃ³}
 {1145}{}{}
 {1146}{}{Map Script}
 {1147}{}{Rabszolga}
-{1148}{}{Menedékvárosi polgár}
-{1149}{}{Ajtó}
-{1150}{}{Bokszoló}
-{1151}{}{Menedékajtó}
+{1148}{}{MenedÃ©kvÃ¡rosi polgÃ¡r}
+{1149}{}{AjtÃ³}
+{1150}{}{BokszolÃ³}
+{1151}{}{MenedÃ©kajtÃ³}
 {1152}{}{Xarn}
 {1153}{}{Raul}
 {1154}{}{Quincy}
-{1155}{}{Raktáros}
+{1155}{}{RaktÃ¡ros}
 {1156}{}{?r}
 {1157}{}{K-9}
 {1158}{}{Doctor Schreber}
@@ -1066,41 +1066,41 @@
 {1166}{}{Technikus}
 {1167}{}{Technikus}
 {1168}{}{Technikus}
-{1169}{}{Barlangnyílás}
+{1169}{}{BarlangnyÃ­lÃ¡s}
 {1170}{}{Enclave Patroller}
-{1171}{}{Ajtó}
+{1171}{}{AjtÃ³}
 {1172}{}{Map Script}
 {1173}{}{Map Script}
 {1174}{}{Map Script}
 {1175}{}{Map Script}
 {1176}{}{Map Script}
 {1177}{}{Map Script}
-{1178}{}{Biztonsági robot}
-{1179}{}{Adománygy?jt? persely}
+{1178}{}{BiztonsÃ¡gi robot}
+{1179}{}{AdomÃ¡nygy?jt? persely}
 {1180}{}{Test}
 {1181}{}{Doboz}
 {1182}{}{Doboz}
 {1183}{}{Doboz}
-{1184}{}{Karaván ?r}
-{1185}{}{Karaván vezet?}
-{1186}{}{M?sorközl?}
-{1187}{}{Ringlány}
-{1188}{}{Bokszoló}
-{1189}{}{Ajtó}
-{1190}{}{Csaló karakter}
+{1184}{}{KaravÃ¡n ?r}
+{1185}{}{KaravÃ¡n vezet?}
+{1186}{}{M?sorkÃ¶zl?}
+{1187}{}{RinglÃ¡ny}
+{1188}{}{BokszolÃ³}
+{1189}{}{AjtÃ³}
+{1190}{}{CsalÃ³ karakter}
 {1191}{}{Hololemez}
 {1192}{}{Hololemez}
 {1193}{}{Hololemez}
 {1194}{}{Jegyzet}
 {1195}{}{Dogmeat}
-{1196}{}{Cat's Paw magazin 5-ös példánya}
-{1197}{}{A Fosztogatók térképe}
-{1198}{}{Pária kutya}
-{1199}{}{Riasztó}
-{1200}{}{Bánya}
-{1201}{}{Üreg}
+{1196}{}{Cat's Paw magazin 5-Ã¶s pÃ©ldÃ¡nya}
+{1197}{}{A FosztogatÃ³k tÃ©rkÃ©pe}
+{1198}{}{PÃ¡ria kutya}
+{1199}{}{RiasztÃ³}
+{1200}{}{BÃ¡nya}
+{1201}{}{Ãœreg}
 {1202}{}{Cal}
-{1203}{}{Vézna}
+{1203}{}{VÃ©zna}
 {1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
@@ -1108,75 +1108,75 @@
 {1208}{}{Emitter}
 {1209}{}{Emitter}
 {1210}{}{Emitter}
-{1211}{}{Fallout 2 tippkönyv}
+{1211}{}{Fallout 2 tippkÃ¶nyv}
 {1212}{}{}
 {1213}{}{}
 {1214}{}{?r}
-{1215}{}{Földmér?}
-{1216}{}{Szeszcsempész}
+{1215}{}{FÃ¶ldmÃ©r?}
+{1216}{}{SzeszcsempÃ©sz}
 {1217}{}{}
 {1218}{}{Dan}
 {1219}{}{kezd? komikus}
-{1220}{}{A Szemetes énekese}
+{1220}{}{A Szemetes Ã©nekese}
 {1221}{}{Map Script}
 {1222}{}{}
-{1223}{}{Sírhely}
-{1224}{}{Koporsós Willie}
-{1225}{}{FBK terminál}
-{1226}{}{FBK ajtó}
-{1227}{}{Számítógép}
+{1223}{}{SÃ­rhely}
+{1224}{}{KoporsÃ³s Willie}
+{1225}{}{FBK terminÃ¡l}
+{1226}{}{FBK ajtÃ³}
+{1227}{}{SzÃ¡mÃ­tÃ³gÃ©p}
 {1228}{}{Kohl}
 {1229}{}{Gyerek}
-{1230}{}{Süti}
-{1231}{}{Lövegtorony}
+{1230}{}{SÃ¼ti}
+{1231}{}{LÃ¶vegtorony}
 {1232}{}{Brian}
-{1233}{}{Generátor}
+{1233}{}{GenerÃ¡tor}
 {1234}{}{Konzol}
-{1235}{}{Óriáshangya}
-{1236}{}{Óriáshangya}
-{1237}{}{Ajtó}
+{1235}{}{Ã“riÃ¡shangya}
+{1236}{}{Ã“riÃ¡shangya}
+{1237}{}{AjtÃ³}
 {1238}{}{}
 {1239}{}{Doboz}
 {1240}{}{Eric}
 {1241}{}{}
 {1242}{}{Doboz}
-{1243}{}{Óriásskorpió}
+{1243}{}{Ã“riÃ¡sskorpiÃ³}
 {1244}{}{Jane}
 {1245}{}{}
 {1246}{}{Map Script}
-{1247}{}{Dermális PipBoy}
+{1247}{}{DermÃ¡lis PipBoy}
 {1248}{}{Eb}
 {1249}{}{Rattray}
-{1250}{}{Házastárs}
+{1250}{}{HÃ¡zastÃ¡rs}
 {1251}{}{LoPan ?re}
 {1252}{}{Map Script}
-{1253}{}{Ajtó}
+{1253}{}{AjtÃ³}
 {1254}{}{Kibernetikus kutya}
 {1255}{}{Luke}
 {1256}{}{Joshua}
 {1257}{}{Kapu}
 {1258}{}{Matt}
-{1259}{}{Ajtó}
+{1259}{}{AjtÃ³}
 {1260}{}{?r}
-{1261}{}{Ajtó}
-{1262}{}{Számítógép}
-{1263}{}{Terminál}
-{1264}{}{Lövegtorony}
+{1261}{}{AjtÃ³}
+{1262}{}{SzÃ¡mÃ­tÃ³gÃ©p}
+{1263}{}{TerminÃ¡l}
+{1264}{}{LÃ¶vegtorony}
 {1265}{}{Chuck Stodgers}
 {1266}{}{}
-{1267}{}{Terminál}
+{1267}{}{TerminÃ¡l}
 {1268}{}{Bandatag}
-{1269}{}{Csaló}
+{1269}{}{CsalÃ³}
 {1270}{}{}
 {1271}{}{Paraszt}
-{1272}{}{A levendula virága}
-{1273}{}{Radskorpió}
+{1272}{}{A levendula virÃ¡ga}
+{1273}{}{RadskorpiÃ³}
 {1274}{}{Professszor}
 {1275}{}{Doboz}
 {1276}{}{Doboz}
 {1277}{}{Seymour}
 {1278}{}{John Sullivan}
-{1279}{}{Púpos}
+{1279}{}{PÃºpos}
 {1280}{}{}
 {1281}{}{}
 {1282}{}{}
@@ -1186,103 +1186,103 @@
 {1286}{}{Typhon}
 {1287}{}{Test?r}
 {1288}{}{Map Script}
-{1289}{}{Szekrény}
-{1290}{}{Kút}
+{1289}{}{SzekrÃ©ny}
+{1290}{}{KÃºt}
 {1291}{}{Micky}
-{1292}{}{Lövegtorony}
-{1293}{}{Öreg ghoul}
-{1294}{}{Bérenc}
+{1292}{}{LÃ¶vegtorony}
+{1293}{}{Ã–reg ghoul}
+{1294}{}{BÃ©renc}
 {1295}{}{Elmo}
 {1296}{}{WC}
 {1297}{}{Kereszt}
 {1298}{}{Eke}
 {1299}{}{Eke}
-{1300}{}{Skorpió}
-{1301}{}{Generátor}
-{1302}{}{Ajtó}
-{1303}{}{Ajtó}
+{1300}{}{SkorpiÃ³}
+{1301}{}{GenerÃ¡tor}
+{1302}{}{AjtÃ³}
+{1303}{}{AjtÃ³}
 {1304}{}{Orvosi PipBoy}
-{1305}{}{Szekrény}
-{1306}{}{Szekrény}
-{1307}{}{Szekrény}
-{1308}{}{Szekrény}
-{1309}{}{Szekrény}
-{1310}{}{Szekrény}
-{1311}{}{Szekrény}
-{1312}{}{Szekrény}
-{1313}{}{Szekrény}
-{1314}{}{Szekrény}
-{1315}{}{Szekrény}
-{1316}{}{Szekrény}
-{1317}{}{Szekrény}
-{1318}{}{Szekrény}
-{1319}{}{Szekrény}
-{1320}{}{Szekrény}
-{1321}{}{Szekrény}
-{1322}{}{Szekrény}
-{1323}{}{Szekrény}
-{1324}{}{Szekrény}
+{1305}{}{SzekrÃ©ny}
+{1306}{}{SzekrÃ©ny}
+{1307}{}{SzekrÃ©ny}
+{1308}{}{SzekrÃ©ny}
+{1309}{}{SzekrÃ©ny}
+{1310}{}{SzekrÃ©ny}
+{1311}{}{SzekrÃ©ny}
+{1312}{}{SzekrÃ©ny}
+{1313}{}{SzekrÃ©ny}
+{1314}{}{SzekrÃ©ny}
+{1315}{}{SzekrÃ©ny}
+{1316}{}{SzekrÃ©ny}
+{1317}{}{SzekrÃ©ny}
+{1318}{}{SzekrÃ©ny}
+{1319}{}{SzekrÃ©ny}
+{1320}{}{SzekrÃ©ny}
+{1321}{}{SzekrÃ©ny}
+{1322}{}{SzekrÃ©ny}
+{1323}{}{SzekrÃ©ny}
+{1324}{}{SzekrÃ©ny}
 {1325}{}{Map Script}
-{1326}{}{Nem látsz}
+{1326}{}{Nem lÃ¡tsz}
 {1327}{}{Badogember}
 {1328}{}{Map Script}
-{1329}{}{Az örökkévalóség ?rz?je}
+{1329}{}{Az Ã¶rÃ¶kkÃ©valÃ³sÃ©g ?rz?je}
 {1330}{}{}
-{1331}{}{Terminál}
-{1332}{}{Szekrény}
+{1331}{}{TerminÃ¡l}
+{1332}{}{SzekrÃ©ny}
 {1333}{}{}
 {1334}{}{Map Script}
-{1335}{}{Védelmi robot}
-{1336}{}{Védelmi robot}
-{1337}{}{Szekrény}
-{1338}{}{Szekrény}
-{1339}{}{Szekrény}
-{1340}{}{Szekrény}
-{1341}{}{Szekrény}
-{1342}{}{Szekrény}
-{1343}{}{Szekrény}
-{1344}{}{Szekrény}
-{1345}{}{Szekrény}
-{1346}{}{Szekrény}
-{1347}{}{Szekrény}
-{1348}{}{Szekrény}
-{1349}{}{Szekrény}
-{1350}{}{Szekrény}
-{1351}{}{Szekrény}
-{1352}{}{Szekrény}
-{1353}{}{Szekrény}
-{1354}{}{Szekrény}
-{1355}{}{Szekrény}
-{1356}{}{Szekrény}
-{1357}{}{Dokklakó}
-{1358}{}{Dokklakó kölyök}
+{1335}{}{VÃ©delmi robot}
+{1336}{}{VÃ©delmi robot}
+{1337}{}{SzekrÃ©ny}
+{1338}{}{SzekrÃ©ny}
+{1339}{}{SzekrÃ©ny}
+{1340}{}{SzekrÃ©ny}
+{1341}{}{SzekrÃ©ny}
+{1342}{}{SzekrÃ©ny}
+{1343}{}{SzekrÃ©ny}
+{1344}{}{SzekrÃ©ny}
+{1345}{}{SzekrÃ©ny}
+{1346}{}{SzekrÃ©ny}
+{1347}{}{SzekrÃ©ny}
+{1348}{}{SzekrÃ©ny}
+{1349}{}{SzekrÃ©ny}
+{1350}{}{SzekrÃ©ny}
+{1351}{}{SzekrÃ©ny}
+{1352}{}{SzekrÃ©ny}
+{1353}{}{SzekrÃ©ny}
+{1354}{}{SzekrÃ©ny}
+{1355}{}{SzekrÃ©ny}
+{1356}{}{SzekrÃ©ny}
+{1357}{}{DokklakÃ³}
+{1358}{}{DokklakÃ³ kÃ¶lyÃ¶k}
 {1359}{}{Map Script}
 {1360}{}{Percy Crump}
 {1361}{}{Doboz}
 {1362}{}{Doboz}
-{1363}{}{Ajtó}
+{1363}{}{AjtÃ³}
 {1364}{}{A Nagy Ananias}
 {1365}{}{Map Script}
 {1366}{}{Mosdatlan Falusi}
-{1367}{}{Házaló}
-{1368}{}{Térkép}
+{1367}{}{HÃ¡zalÃ³}
+{1368}{}{TÃ©rkÃ©p}
 {1369}{}{Map Script}
 {1370}{}{Map Script}
 {1371}{}{Map Script}
 {1372}{}{Map Script}
 {1373}{}{Nuka-Cola automata}
 {1374}{}{Dokk}
-{1375}{}{Ajtó}
+{1375}{}{AjtÃ³}
 {1376}{}{Akna}
 {1377}{}{Akna}
 {1378}{}{Az exed}
 {1379}{}{Mel}
 {1380}{}{Szell?ztet?}
 {1381}{}{Kevin}
-{1382}{}{Riasztó}
-{1383}{}{Szekrény}
-{1384}{}{Szekrény}
-{1385}{}{Szekrény}
+{1382}{}{RiasztÃ³}
+{1383}{}{SzekrÃ©ny}
+{1384}{}{SzekrÃ©ny}
+{1385}{}{SzekrÃ©ny}
 {1386}{}{}
 {1387}{}{}
 {1388}{}{}
@@ -1291,15 +1291,15 @@
 {1391}{}{}
 {1392}{}{}
 {1393}{}{}
-{1394}{}{Szeszcsempész}
+{1394}{}{SzeszcsempÃ©sz}
 {1395}{}{}
 {1396}{}{}
-{1397}{}{Carny kölyök}
+{1397}{}{Carny kÃ¶lyÃ¶k}
 {1398}{}{}
 {1399}{}{}
-{1400}{}{Bánya}
-{1401}{}{Szekrény}
-{1402}{}{Ajtó}
+{1400}{}{BÃ¡nya}
+{1401}{}{SzekrÃ©ny}
+{1402}{}{AjtÃ³}
 {1403}{}{}
 {1404}{}{}
 {1405}{}{}
@@ -1310,10 +1310,10 @@
 {1410}{}{Bill}
 {1411}{}{}
 {1412}{}{Gyerek}
-{1413}{}{Halálkarom                                                        }
+{1413}{}{HalÃ¡lkarom                                                        }
 {1414}{}{Sister Elaine}
-{1415}{}{Sírhely}
-{1416}{}{Sírhely}
+{1415}{}{SÃ­rhely}
+{1416}{}{SÃ­rhely}
 {1417}{}{Brother Hank}
 {1418}{}{Abbey Doctor}
 {1419}{}{Brother John}
@@ -1324,7 +1324,7 @@
 {1424}{}{Mrs. Peterson}
 {1425}{}{Abbey citizen}
 {1426}{}{Mr. Peterson}
-{1427}{}{Vízpumpa}
+{1427}{}{VÃ­zpumpa}
 {1428}{}{Brother Samuel}
 {1429}{}{Abbey citizen}
 {1430}{}{Brother Thomas}
@@ -1339,23 +1339,23 @@
 {1439}{}{Tribal}
 {1440}{}{Brother Matthew}
 {1441}{}{map}
-{1442}{}{Vakondpatkány}
+{1442}{}{VakondpatkÃ¡ny}
 {1443}{}{Ann}
 {1444}{}{Head Warrior}
 {1445}{}{Marli}
 {1446}{}{Villagers}
-{1447}{}{Sámán}
+{1447}{}{SÃ¡mÃ¡n}
 {1448}{}{Szellem}
 {1449}{}{Tribal}
 {1450}{}{Kurisu}
-{1451}{}{Kút}
+{1451}{}{KÃºt}
 {1452}{}{Tribe map}
 {1453}{}{Tribal}
 {1454}{}{Serin}
 {1455}{}{Tribe map2}
 {1456}{}{Tribe map 2 - spacial 1}
 {1457}{}{Tribe map 2 - spacial 2}
-{1458}{}{Gekkó}
+{1458}{}{GekkÃ³}
 {1459}{}{Cave Guard}
 {1460}{}{dead body}
 {1461}{}{woods spacial}
@@ -1367,23 +1367,23 @@
 {1467}{}{Rabszolga}
 {1468}{}{slavepen door}
 {1469}{}{Polc}
-{1470}{}{Ajtó}
+{1470}{}{AjtÃ³}
 {1471}{}{Little Bobby}
 {1472}{}{Little Bobby's Father}
-{1473}{}{Földbitorló}
-{1474}{}{Drogárus}
+{1473}{}{FÃ¶ldbitorlÃ³}
+{1474}{}{DrogÃ¡rus}
 {1475}{}{Den Resident}
-{1476}{}{Árva}
+{1476}{}{Ãrva}
 {1477}{}{Paraszt}
 {1478}{}{map script}
-{1479}{}{Enklávé ?r}
-{1480}{}{Enklávé ?r}
+{1479}{}{EnklÃ¡vÃ© ?r}
+{1480}{}{EnklÃ¡vÃ© ?r}
 {1481}{}{safe}
 {1482}{}{guard}
 {1483}{}{Hubologista}
 {1484}{}{Hubologista ?r}
 {1485}{}{Hubologista ?r}
-{1486}{}{Fémajtó}
+{1486}{}{FÃ©majtÃ³}
 {1487}{}{map script}
 {1488}{}{container script}
 {1489}{}{Brahmin}
@@ -1409,7 +1409,7 @@
 {1509}{}{Harcos}
 {1510}{}{Bug Spray}
 {1511}{}{Doctor's Prisoner}
-{1512}{}{Óriáshangya}
+{1512}{}{Ã“riÃ¡shangya}
 {1513}{}{The Doctor}
 {1514}{}{Fruit Fly}
 {1515}{}{Creature}
@@ -1421,28 +1421,28 @@
 {1521}{}{Electric Chair Computer}
 {1522}{}{Electronic door}
 {1523}{}{Hologram Generator}
-{1524}{}{Biztonsági ajtó}
-{1525}{}{Liftajtó}
-{1526}{}{Ajtó}
+{1524}{}{BiztonsÃ¡gi ajtÃ³}
+{1525}{}{LiftajtÃ³}
+{1526}{}{AjtÃ³}
 {1527}{}{Random Chemicals}
 {1528}{}{Fertile ground}
 {1529}{}{Fertile ground}
 {1530}{}{Hibernation Computer}
 {1531}{}{Lighting Generator}
-{1532}{}{Er?tér}
+{1532}{}{Er?tÃ©r}
 {1533}{}{Plant spray}
 {1534}{}{Magnetic coil computer}
-{1535}{}{Er?tér}
+{1535}{}{Er?tÃ©r}
 {1536}{}{Projection machine}
-{1537}{}{Ajtó}
+{1537}{}{AjtÃ³}
 {1538}{}{computer}
-{1539}{}{Ajtó}
-{1540}{}{Számítógép}
-{1541}{}{Er?tér}
+{1539}{}{AjtÃ³}
+{1540}{}{SzÃ¡mÃ­tÃ³gÃ©p}
+{1541}{}{Er?tÃ©r}
 {1542}{}{Dinamit}
 {1543}{}{Dynamite Trigger}
 {1544}{}{Stuff on Desk}
-{1545}{}{Szekrény}
+{1545}{}{SzekrÃ©ny}
 {1546}{}{Spatial Script}
 {1547}{}{Spatial Script}
 {1548}{}{Spatial Script}
@@ -1452,8 +1452,8 @@
 {1552}{}{Spatial Script}
 {1553}{}{Spatial Script}
 {1554}{}{Air Conditioning Vent}
-{1555}{}{Ventillátor}
-{1556}{}{Ventillátor}
+{1555}{}{VentillÃ¡tor}
+{1556}{}{VentillÃ¡tor}
 {1557}{}{spatial script}
 {1558}{}{computer terminal}
 {1559}{}{fertile ground}
@@ -1464,20 +1464,20 @@
 {1564}{}{hologram computer}
 {1565}{}{Gyerek}
 {1566}{}{spatial}
-{1567}{}{Gépmadár}
+{1567}{}{GÃ©pmadÃ¡r}
 {1568}{}{computer}
 {1569}{}{spatial}
 {1570}{}{Mr. Handy}
 {1571}{}{Nuke}
-{1572}{}{Kút}
-{1573}{}{Kút}
+{1572}{}{KÃºt}
+{1573}{}{KÃºt}
 {1574}{}{}
-{1575}{}{ÚKK-s Felderít?}
+{1575}{}{ÃšKK-s FelderÃ­t?}
 {1576}{}{object name}
 {1577}{}{object name}
 {1578}{}{object name}
-{1579}{}{Térkép}
-{1580}{}{ÚKK-s Felderít?}
+{1579}{}{TÃ©rkÃ©p}
+{1580}{}{ÃšKK-s FelderÃ­t?}
 {1581}{}{Rabszolga-keresked?}
 {1582}{}{}
 {1583}{}{}
@@ -1486,17 +1486,17 @@
 {1586}{}{}
 {1587}{}{}
 {1588}{}{}
-{1589}{}{Ajtó}
+{1589}{}{AjtÃ³}
 {1590}{}{}
 {1591}{}{Bandatag}
 {1592}{}{trip wire}
 {1593}{}{trip wire spatial}
-{1594}{}{Prostituált}
-{1595}{}{Trutymó}
+{1594}{}{ProstituÃ¡lt}
+{1595}{}{TrutymÃ³}
 {1596}{}{Spatial}
 {1597}{}{Hibernation Chamber spatial}
 {1598}{}{}
-{1599}{}{Szekrény}
+{1599}{}{SzekrÃ©ny}
 {1600}{}{Map Script}
 {1601}{}{Modder}
 {1602}{}{Smoking}
@@ -1514,28 +1514,28 @@
 {1614}{}{Todd}
 {1615}{}{Robert Baron}
 {1616}{}{?r}
-{1617}{}{Láda}
+{1617}{}{LÃ¡da}
 {1618}{}{Ravenous Human}
 {1619}{}{map}
 {1620}{}{force field panel}
-{1621}{}{Ventillátor}
+{1621}{}{VentillÃ¡tor}
 {1622}{}{?r}
 {1623}{}{Motor Boat}
 {1624}{}{?r}
-{1625}{}{Szemét}
+{1625}{}{SzemÃ©t}
 {1626}{}{stairs}
 {1627}{}{elevator shaft}
 {1628}{}{spatial}
 {1629}{}{elevator shaft}
-{1630}{}{Szekrény}
+{1630}{}{SzekrÃ©ny}
 {1631}{}{Dock Guard}
 {1632}{}{Technikus}
 {1633}{}{Technikus}
 {1634}{}{Technikus}
 {1635}{}{spatial}
-{1636}{}{Dokkmunkás}
+{1636}{}{DokkmunkÃ¡s}
 {1637}{}{map script}
-{1638}{}{Ajtó}
+{1638}{}{AjtÃ³}
 {1639}{}{spatial}
 {1640}{}{power console}
 {1641}{}{torpedo console}
@@ -1550,9 +1550,9 @@
 {1650}{}{Dr. Sheng}
 {1651}{}{Plant Creature}
 {1652}{}{Dr. Sheng's hideout}
-{1653}{}{Ajtó}
-{1654}{}{Ajtó}
+{1653}{}{AjtÃ³}
+{1654}{}{AjtÃ³}
 {1655}{}{spatial}
-{1656}{}{Javítórobot}
-{1657}{}{Biztonsági robot}
-{1658}{}{Ajtó}
+{1656}{}{JavÃ­tÃ³robot}
+{1657}{}{BiztonsÃ¡gi robot}
+{1658}{}{AjtÃ³}

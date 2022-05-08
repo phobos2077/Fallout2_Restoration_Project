@@ -1,6 +1,6 @@
-{100}{}{Tu vois un garde portant des vêtements larges, et semblant mourir d'ennui.}
-{101}{}{Il a l'air de quelqu'un qui voudrait bien être ailleurs qu'ici.}
-{150}{}{Euh, que fais-tu, à rôder comme ça ?}
+{100}{}{Tu vois un garde portant des vÃªtements larges, et semblant mourir d'ennui.}
+{101}{}{Il a l'air de quelqu'un qui voudrait bien Ãªtre ailleurs qu'ici.}
+{150}{}{Euh, que fais-tu, Ã  rÃ´der comme Ã§a ?}
 {151}{}{Tu es un genre d'espion ?}
 {200}{}{Ce genre de chose me donne toujours des sueurs froides.}
-{201}{}{Arrête de me faire perdre mon temps, gaijin.}
+{201}{}{ArrÃªte de me faire perdre mon temps, gaijin.}

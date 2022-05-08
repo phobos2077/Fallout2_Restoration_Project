@@ -1,81 +1,81 @@
-{100}{}{Tu vois une plante à spores.}
-{101}{}{Tu vois Seymour la plante à spores.}
-{102}{}{Tu vois une plante carnivore qui semble émettre une atmosphère d'intelligence.}
+{100}{}{Tu vois une plante Ã  spores.}
+{101}{}{Tu vois Seymour la plante Ã  spores.}
+{102}{}{Tu vois une plante carnivore qui semble Ã©mettre une atmosphÃ¨re d'intelligence.}
 {103}{}{Salut ! On a eu un beau temps, non ?}
 {104}{}{Toi parler ?!}
 {105}{}{Rrr ?}
 {106}{}{Excuse-moi, mais est-ce la plante qui parle ?}
 {107}{}{As-tu des relations avec ce chercheur de quelque sorte que ce soit ?}
 {108}{}{Salut.}
-{109}{}{Oui, je parle. Mieux que certaines personnes, on dirait. Je te sourirais bien, là, maintenant, mais je n'ai pas de bouche. [Il rigole.] Dis, pourrais-tu me faire une faveur ?}
+{109}{}{Oui, je parle. Mieux que certaines personnes, on dirait. Je te sourirais bien, lÃ , maintenant, mais je n'ai pas de bouche. [Il rigole.] Dis, pourrais-tu me faire une faveur ?}
 {110}{}{Ouais.}
 {111}{}{Nan.}
-{112}{}{Je cherche un meilleur endroit pour vivre. Ici, c'est sympa et tout, mais sincèrement, ces plantes ne sont pas très bavardes. Je pensais que je serais sûrement mieux là-bas, près du bâtiment avec toutes les Goules dedans... Tu veux bien m'y replanter ?}
+{112}{}{Je cherche un meilleur endroit pour vivre. Ici, c'est sympa et tout, mais sincÃ¨rement, ces plantes ne sont pas trÃ¨s bavardes. Je pensais que je serais sÃ»rement mieux lÃ -bas, prÃ¨s du bÃ¢timent avec toutes les Goules dedans... Tu veux bien m'y replanter ?}
 {113}{}{'ui !}
 {114}{}{Nan !}
 {115}{}{Certainement.}
 {116}{}{Je ne pense pas.}
-{117}{}{Super ! Tout ce que tu as à faire c'est trouver une pelle, me déterrer et me replanter là-bas. Une fois fait, je te dirai un secret.}
+{117}{}{Super ! Tout ce que tu as Ã  faire c'est trouver une pelle, me dÃ©terrer et me replanter lÃ -bas. Une fois fait, je te dirai un secret.}
 {118}{}{Ok !}
 {119}{}{Naan.}
-{120}{}{Très bien. Bon, euh... Je vais t'attendre ici. Enfin, j'ai pas trop le choix... A plus tard !}
+{120}{}{TrÃ¨s bien. Bon, euh... Je vais t'attendre ici. Enfin, j'ai pas trop le choix... A plus tard !}
 {121}{}{Saluuut !}
-{122}{}{Au cas où tu changerais d'avis, tu sais où me trouver. Je me suis enracinée ici. Ha ha ha ! Juste un peu d'humour de la part d'une plante. Oh mais, je ne veux pas te retenir. A plus tard !}
+{122}{}{Au cas oÃ¹ tu changerais d'avis, tu sais oÃ¹ me trouver. Je me suis enracinÃ©e ici. Ha ha ha ! Juste un peu d'humour de la part d'une plante. Oh mais, je ne veux pas te retenir. A plus tard !}
 {123}{}{Salut.}
-{124}{}{Bien dit, bien dit ! Quel réconfort de voir un homosapiens utiliser toutes les ressources de son cerveau. Dis-moi mon ange, veux-tu bien me faire une faveur ?}
+{124}{}{Bien dit, bien dit ! Quel rÃ©confort de voir un homosapiens utiliser toutes les ressources de son cerveau. Dis-moi mon ange, veux-tu bien me faire une faveur ?}
 {125}{}{Ouais.}
 {126}{}{Nan !}
-{127}{}{Oh, oui ! Oui, c'est ça ! Très astucieux, très astucieux. Je vois que tu n'as pas germé hier ! Fidèle compagnon, aurais-tu la bonté de me faire une faveur ?}
+{127}{}{Oh, oui ! Oui, c'est Ã§a ! TrÃ¨s astucieux, trÃ¨s astucieux. Je vois que tu n'as pas germÃ© hier ! FidÃ¨le compagnon, aurais-tu la bontÃ© de me faire une faveur ?}
 {128}{}{Certainement.}
 {129}{}{Je ne pense pas.}
-{130}{}{Forrrr-midable ! Je suis très, très heureuse. Trouve-toi juste une pelle et reviens. Quand ce sera fait, peut-être que je te dirai un secret. Mon ange, j'espère que tu continueras à fleurir.}
+{130}{}{Forrrr-midable ! Je suis trÃ¨s, trÃ¨s heureuse. Trouve-toi juste une pelle et reviens. Quand ce sera fait, peut-Ãªtre que je te dirai un secret. Mon ange, j'espÃ¨re que tu continueras Ã  fleurir.}
 {131}{}{Hum, Ok. A plus.}
-{132}{}{J'ai changé d'avis.}
-{133}{}{Oh, oui, le Professeur. Il m'a fait croître à partir d'une plante minuscule et m'a nourrie... mais j'ai assez vite réalisé que si j'agissais aussi intelligemment que je le suis, il me disséquerait pour m'examiner. Donc, j'ai fait l'imbécile, et j'ai été plantée ici. C'est sympa... mais je voudrais changer d'air et... pourquoi pas, être plantée ailleurs...}
+{132}{}{J'ai changÃ© d'avis.}
+{133}{}{Oh, oui, le Professeur. Il m'a fait croÃ®tre Ã  partir d'une plante minuscule et m'a nourrie... mais j'ai assez vite rÃ©alisÃ© que si j'agissais aussi intelligemment que je le suis, il me dissÃ©querait pour m'examiner. Donc, j'ai fait l'imbÃ©cile, et j'ai Ã©tÃ© plantÃ©e ici. C'est sympa... mais je voudrais changer d'air et... pourquoi pas, Ãªtre plantÃ©e ailleurs...}
 {134}{}{*Changer d'air.* En effet.}
 {135}{}{Ok. Que veux-tu ?}
 {136}{}{Euh... Je dois partir. Au revoir.}
-{137}{}{Bon, est-ce qu'il a encore le radscorpion ? Cette chose est un méchant joueur d'échecs... Il a beaucoup d'écailles et en plus il mord... Mais je sais comment le battre. Si tu me rends un service, je te dirai comment.}
+{137}{}{Bon, est-ce qu'il a encore le radscorpion ? Cette chose est un mÃ©chant joueur d'Ã©checs... Il a beaucoup d'Ã©cailles et en plus il mord... Mais je sais comment le battre. Si tu me rends un service, je te dirai comment.}
 {138}{}{Vraiment ? Comment ?}
-{139}{}{C'est fascinant. Une plante joueuse d'échec. Comme c'est banal. Au revoir.}
-{140}{}{Si tu me replantes près de la maison des Goules là-bas, je serai ravie de te faire part de mes solides connaissances aux échecs.}
-{141}{}{Marché conclu.}
+{139}{}{C'est fascinant. Une plante joueuse d'Ã©chec. Comme c'est banal. Au revoir.}
+{140}{}{Si tu me replantes prÃ¨s de la maison des Goules lÃ -bas, je serai ravie de te faire part de mes solides connaissances aux Ã©checs.}
+{141}{}{MarchÃ© conclu.}
 {142}{}{Non merci. Je battrai le radscorpion de mon propre chef.}
-{143}{}{Haa, te revoilà mon ange. Cet emplacement est très agréable. L'ombre est parfaite, et la compagnie est tout simplement charmante. Ce Typhon, quel gosse ! Il renforce vraiment ma vigueur intellectuelle !}
+{143}{}{Haa, te revoilÃ  mon ange. Cet emplacement est trÃ¨s agrÃ©able. L'ombre est parfaite, et la compagnie est tout simplement charmante. Ce Typhon, quel gosse ! Il renforce vraiment ma vigueur intellectuelle !}
 {144}{}{Echecs ?}
-{145}{}{Tu ne m'avais pas parlé d'échecs ?}
+{145}{}{Tu ne m'avais pas parlÃ© d'Ã©checs ?}
 {146}{}{Salut.}
-{147}{}{Si, c'était au sujet de la manière de battre le radscorpion du professeur aux échecs. C'est d'une simplicité enfantine. La Flying Liver Attack est comme un piège pour cet insecte : il fonce directement dedans et ensuite, il ne peut pas s'en sortir. Je garantis ton succès.}
+{147}{}{Si, c'Ã©tait au sujet de la maniÃ¨re de battre le radscorpion du professeur aux Ã©checs. C'est d'une simplicitÃ© enfantine. La Flying Liver Attack est comme un piÃ¨ge pour cet insecte : il fonce directement dedans et ensuite, il ne peut pas s'en sortir. Je garantis ton succÃ¨s.}
 {148}{}{Merci ! Au revoir !}
 {149}{}{Merci pour le tuyau ! Au revoir !}
-{150}{}{Mon ange ! Le soleil a-t-il brillé pour toi aujourd'hui ? Comment fleuris-tu ? Je suis prête à bouger ! Et toi ?!}
+{150}{}{Mon ange ! Le soleil a-t-il brillÃ© pour toi aujourd'hui ? Comment fleuris-tu ? Je suis prÃªte Ã  bouger ! Et toi ?!}
 {151}{}{'ui !}
 {152}{}{Naaan ! 'Bougerai pas !}
 {153}{}{C'est parti.}
-{154}{}{J'ai changé d'avis. Je ne veux pas t'aider.}
-{155}{}{Je suis si excitée que je pourrais libérer un nuage de spores tout autour de moi ! Allons-y !}
-{156}{}{[Terminé]}
-{157}{}{Quel dommage... J'espère que tu changeras d'avis. Peut-être que le pollen de ton indécision dissipera mon chemin à nouveau. Bonne journée.}
+{154}{}{J'ai changÃ© d'avis. Je ne veux pas t'aider.}
+{155}{}{Je suis si excitÃ©e que je pourrais libÃ©rer un nuage de spores tout autour de moi ! Allons-y !}
+{156}{}{[TerminÃ©]}
+{157}{}{Quel dommage... J'espÃ¨re que tu changeras d'avis. Peut-Ãªtre que le pollen de ton indÃ©cision dissipera mon chemin Ã  nouveau. Bonne journÃ©e.}
 {158}{}{Heu.}
-{159}{}{Allez, bonne journée.}
-{160}{}{Oooh... la terre ici semble si... différente. Plus propre, en quelque sorte. Probablement parce que je n'ai pas à la partager avec ces autres plantes. Ahhh. Oh ! Oui ! Si jamais tu croises le professeur et son radscorpion, rappelle-toi cette manoeuvre aux échecs, ça s'appelle la Flying Liver Attack, et le radscorpion ne peut rien contre ça.}
+{159}{}{Allez, bonne journÃ©e.}
+{160}{}{Oooh... la terre ici semble si... diffÃ©rente. Plus propre, en quelque sorte. Probablement parce que je n'ai pas Ã  la partager avec ces autres plantes. Ahhh. Oh ! Oui ! Si jamais tu croises le professeur et son radscorpion, rappelle-toi cette manoeuvre aux Ã©checs, Ã§a s'appelle la Flying Liver Attack, et le radscorpion ne peut rien contre Ã§a.}
 {161}{}{Merci !}
-{162}{}{Merci. J'essaierai ça. Au revoir !}
-{163}{}{Je voudrais aussi te dire que je sais que la Goule Typhon, dans ce bâtiment, sait quelque chose à propos d'un trésor. Ca te sera peut-être utile un jour.}
+{162}{}{Merci. J'essaierai Ã§a. Au revoir !}
+{163}{}{Je voudrais aussi te dire que je sais que la Goule Typhon, dans ce bÃ¢timent, sait quelque chose Ã  propos d'un trÃ©sor. Ca te sera peut-Ãªtre utile un jour.}
 {164}{}{Merci ! Au revoir !}
-{165}{}{As-tu eu du temps pour reconsidérer mon offre ? Vas-tu m'aider ?}
+{165}{}{As-tu eu du temps pour reconsidÃ©rer mon offre ? Vas-tu m'aider ?}
 {166}{}{'ui !}
 {167}{}{Nan !}
 {168}{}{Certainement.}
 {169}{}{Je ne pense pas.}
-{170}{}{Hélas, il semble que tu n'as pas de pelle. Je ne pourrai pas partir, tant que tu n'en auras pas. J'attends ton retour avec impatience.}
+{170}{}{HÃ©las, il semble que tu n'as pas de pelle. Je ne pourrai pas partir, tant que tu n'en auras pas. J'attends ton retour avec impatience.}
 {171}{}{Salut.}
-{172}{}{Psst ! Hé ! Hé ! Par ici !}
+{172}{}{Psst ! HÃ© ! HÃ© ! Par ici !}
 {173}{}{Par ici ! Je promets de ne pas te faire de mal.}
 {174}{}{Allez, viens. Ne me dis pas que tu as peur d'une plante !}
 {175}{}{Par ici ! Allons-y !}
 {176}{}{Oui, je suis une plante parlante. Ferme ta bouche et viens ici.}
-{177}{}{Ouahh. Ne commence pas à bêcher. Il faut tout d'abord trouver une stratégie pour le déplacement. Parlons-en.}
-{178}{}{Tu as replanté Seymour près de la maison des vieilles Goules.}
-{179}{}{Hé ! Maintenant !}
-{180}{}{Tiens donc, il y a une pelle juste là. Allons-y.}
+{177}{}{Ouahh. Ne commence pas Ã  bÃªcher. Il faut tout d'abord trouver une stratÃ©gie pour le dÃ©placement. Parlons-en.}
+{178}{}{Tu as replantÃ© Seymour prÃ¨s de la maison des vieilles Goules.}
+{179}{}{HÃ© ! Maintenant !}
+{180}{}{Tiens donc, il y a une pelle juste lÃ . Allons-y.}

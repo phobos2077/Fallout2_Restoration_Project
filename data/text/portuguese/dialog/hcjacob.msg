@@ -1,163 +1,163 @@
-{100}{}{Você vê um homem sujo vestindo um jaleco.}
-{101}{}{Você vê Jacob, o Químico.}
-{102}{}{Você vê um homem sujo vestindo um jaleco manchado. Suas mãos estão descoloridas de produtos químicos.}
-{103}{}{Olá. Sou Jacob, o farmacêutico responsável. No que posso ajudar?}
-{104}{}{O que você quer?}
-{105}{}{Olá de novo! No que posso ajudar hoje?}
-{106}{}{Bem vindo de volta. O que posso fazer por você?}
+{100}{}{VocÃª vÃª um homem sujo vestindo um jaleco.}
+{101}{}{VocÃª vÃª Jacob, o QuÃ­mico.}
+{102}{}{VocÃª vÃª um homem sujo vestindo um jaleco manchado. Suas mÃ£os estÃ£o descoloridas de produtos quÃ­micos.}
+{103}{}{OlÃ¡. Sou Jacob, o farmacÃªutico responsÃ¡vel. No que posso ajudar?}
+{104}{}{O que vocÃª quer?}
+{105}{}{OlÃ¡ de novo! No que posso ajudar hoje?}
+{106}{}{Bem vindo de volta. O que posso fazer por vocÃª?}
 {107}{}{Da yagga! Eep oop op!}
 {108}{}{Famacia? Macia?}
-{109}{}{Tenho um minério que quero refinar e não quero pagar os preços da refinaria.}
-{110}{}{O que você pode me dizer sobre Broken Hills?}
-{111}{}{Eu quero algumas misturas químicas.}
-{112}{}{Disseram para eu falar com você sobre um certo assunto sobre mutantes.}
+{109}{}{Tenho um minÃ©rio que quero refinar e nÃ£o quero pagar os preÃ§os da refinaria.}
+{110}{}{O que vocÃª pode me dizer sobre Broken Hills?}
+{111}{}{Eu quero algumas misturas quÃ­micas.}
+{112}{}{Disseram para eu falar com vocÃª sobre um certo assunto sobre mutantes.}
 {113}{}{Adeus.}
-{114}{}{::Um olhar de desgosto aparece em seu rosto:: Saia daqui. Eu não tenho tempo para você.}
+{114}{}{::Um olhar de desgosto aparece em seu rosto:: Saia daqui. Eu nÃ£o tenho tempo para vocÃª.}
 {115}{}{[FEITO]}
-{116}{}{Farmácia. É uma farmácia. Olha, você quer alguma coisa?}
-{117}{}{Outra vez? Você quer alguma coisa?}
+{116}{}{FarmÃ¡cia. Ã‰ uma farmÃ¡cia. Olha, vocÃª quer alguma coisa?}
+{117}{}{Outra vez? VocÃª quer alguma coisa?}
 {118}{}{Simmm!}
 {119}{}{Unh cu.}
-{120}{}{Ótimo. Vamos ver do que você precisa.}
+{120}{}{Ã“timo. Vamos ver do que vocÃª precisa.}
 {121}{}{[MAIS]}
-{122}{}{Então saia.}
+{122}{}{EntÃ£o saia.}
 {123}{}{[FEITO]}
 {124}{}{Muito bem, terminamos. Obrigado pela dica. Agora saia, por favor.}
 {125}{}{Tudo bem!}
-{148}{}{Por que você não me diz primeiro como se sente em relação aos mutantes?}
+{148}{}{Por que vocÃª nÃ£o me diz primeiro como se sente em relaÃ§Ã£o aos mutantes?}
 {149}{}{Os odeio.}
 {150}{}{Nem me sobe nem me desce.}
 {151}{}{Gosto deles!}
-{152}{}{Nesse caso, vou contar a história real.}
-{153}{}{Um humano chamado Jacob - eu recebi o nome dele - fundou este lugar. Então o mutante Marcus surgiu 
- e forçou todos a obedecer suas regras.}
-{154}{}{É o bastante. Você é louco, adeus.}
+{152}{}{Nesse caso, vou contar a histÃ³ria real.}
+{153}{}{Um humano chamado Jacob - eu recebi o nome dele - fundou este lugar. EntÃ£o o mutante Marcus surgiu 
+ e forÃ§ou todos a obedecer suas regras.}
+{154}{}{Ã‰ o bastante. VocÃª Ã© louco, adeus.}
 {155}{}{Conte-me mais.}
-{156}{}{Talvez se eu te contar a história real você mude de ideia.}
-{157}{}{Ok, me diga então.}
-{158}{}{Não, não estou interessado.}
-{159}{}{Nesse caso, é ótimo morar aqui. Esta cidade tem tudo que você poderia querer... xerife mutante,
- mina de urânio, hospital, lojas... você pode conseguir qualquer coisa aqui. Quer mais alguma coisa?}
+{156}{}{Talvez se eu te contar a histÃ³ria real vocÃª mude de ideia.}
+{157}{}{Ok, me diga entÃ£o.}
+{158}{}{NÃ£o, nÃ£o estou interessado.}
+{159}{}{Nesse caso, Ã© Ã³timo morar aqui. Esta cidade tem tudo que vocÃª poderia querer... xerife mutante,
+ mina de urÃ¢nio, hospital, lojas... vocÃª pode conseguir qualquer coisa aqui. Quer mais alguma coisa?}
 {160}{}{Sim.}
-{161}{}{Não.}
+{161}{}{NÃ£o.}
 {162}{}{Grande. Tchau.}
 {163}{}{Adeus.}
-{164}{}{Ele governa aqui desde que o Mestre foi destruído. Ele rebaixa qualquer um que discorde dele...
- ou eles simplesmente "desaparecem". O lugar até parece civilizado na superfície, mas a
- verdade é que é um terreno de matança para mutantes sanguinários. Há um amigo de um 
+{164}{}{Ele governa aqui desde que o Mestre foi destruÃ­do. Ele rebaixa qualquer um que discorde dele...
+ ou eles simplesmente "desaparecem". O lugar atÃ© parece civilizado na superfÃ­cie, mas a
+ verdade Ã© que Ã© um terreno de matanÃ§a para mutantes sanguinÃ¡rios. HÃ¡ um amigo de um 
  amigo que tinha amigos que desapareceram depois de falar.}
 {165}{}{Continue.}
-{166}{}{É o bastante. Você é louco, adeus.}
-{167}{}{A gente finge que esta é uma cidade civilizada, que estamos todos em ascensão... mas todos vivemos
- com medo do ódio mutante. A cada dia, há cada vez menos humanos.}
-{168}{}{Todos os mutantes que vi parecem velhos e decrépitos.}
-{169}{}{Por que não revidar?}
-{170}{}{Isso é porque eles estão tentando te enganar, amigo. Eles estão tentando te enganar.}
-{171}{}{Por que não lutar contra eles, então?}
-{172}{}{Me enganar? Tá bom. Preciso ir. Legal falar com você.}
-{173}{}{Na verdade, nós vamos. Alguns amigos meus e eu estamos planejando dar um golpe que
- livrará esta cidade dos mutantes, mas precisamos tirar alguns amigos da cadeia. Você está conosco?}
-{174}{}{Não.}
-{175}{}{Não. E eu vou é te entregar, seu maluco.}
+{166}{}{Ã‰ o bastante. VocÃª Ã© louco, adeus.}
+{167}{}{A gente finge que esta Ã© uma cidade civilizada, que estamos todos em ascensÃ£o... mas todos vivemos
+ com medo do Ã³dio mutante. A cada dia, hÃ¡ cada vez menos humanos.}
+{168}{}{Todos os mutantes que vi parecem velhos e decrÃ©pitos.}
+{169}{}{Por que nÃ£o revidar?}
+{170}{}{Isso Ã© porque eles estÃ£o tentando te enganar, amigo. Eles estÃ£o tentando te enganar.}
+{171}{}{Por que nÃ£o lutar contra eles, entÃ£o?}
+{172}{}{Me enganar? TÃ¡ bom. Preciso ir. Legal falar com vocÃª.}
+{173}{}{Na verdade, nÃ³s vamos. Alguns amigos meus e eu estamos planejando dar um golpe que
+ livrarÃ¡ esta cidade dos mutantes, mas precisamos tirar alguns amigos da cadeia. VocÃª estÃ¡ conosco?}
+{174}{}{NÃ£o.}
+{175}{}{NÃ£o. E eu vou Ã© te entregar, seu maluco.}
 {176}{}{Claro! }
-{177}{}{Tem certeza? Esta é uma chance de manter a humanidade livre, você sabe, daquele monte de mutantes
+{177}{}{Tem certeza? Esta Ã© uma chance de manter a humanidade livre, vocÃª sabe, daquele monte de mutantes
  malditos.}
-{178}{}{Continuo dizendo não.}
-{179}{}{Oh, tudo bem. Você me convenceu. }
-{180}{}{Então essa é sua escolha. Vou deixar você seguir sua vida, mas é uma pena. Você parece difícil.}
-{181}{}{É. Tchau.}
-{182}{}{É você, hein? Acho que não, traidor.}
+{178}{}{Continuo dizendo nÃ£o.}
+{179}{}{Oh, tudo bem. VocÃª me convenceu. }
+{180}{}{EntÃ£o essa Ã© sua escolha. Vou deixar vocÃª seguir sua vida, mas Ã© uma pena. VocÃª parece difÃ­cil.}
+{181}{}{Ã‰. Tchau.}
+{182}{}{Ã‰ vocÃª, hein? Acho que nÃ£o, traidor.}
 {183}{}{O que?}
-{184}{}{Eu tenho um trabalhinho para você. Nossos amigos, Manson e Franc, estão presos. Quero
- que você os tire de lá, e em em silêncio, se possível. Você não vai querer a cidade toda caçando sua cabeça.}
-{185}{}{E se eu matar alguém?}
+{184}{}{Eu tenho um trabalhinho para vocÃª. Nossos amigos, Manson e Franc, estÃ£o presos. Quero
+ que vocÃª os tire de lÃ¡, e em em silÃªncio, se possÃ­vel. VocÃª nÃ£o vai querer a cidade toda caÃ§ando sua cabeÃ§a.}
+{185}{}{E se eu matar alguÃ©m?}
 {186}{}{Tenho-o. Eu tenho mais perguntas.}
-{187}{}{Esqueça. Estou fora.}
-{188}{}{Entendi, até mais.}
-{189}{}{Sem problemas. Eles são todos mutantes de qualquer maneira. Mas faça isso em silêncio, pelo amor de Deus.}
+{187}{}{EsqueÃ§a. Estou fora.}
+{188}{}{Entendi, atÃ© mais.}
+{189}{}{Sem problemas. Eles sÃ£o todos mutantes de qualquer maneira. Mas faÃ§a isso em silÃªncio, pelo amor de Deus.}
 {190}{}{Tenho-o. Eu tenho mais perguntas.}
-{191}{}{Entendi, até mais.}
+{191}{}{Entendi, atÃ© mais.}
 {192}{}{Mais perguntas?}
-{193}{}{Tenho um minério que quero refinar e não quero pagar os preços da refinaria.}
-{194}{}{O que você pode me dizer sobre Broken Hills?}
-{195}{}{Eu quero algumas misturas químicas.}
+{193}{}{Tenho um minÃ©rio que quero refinar e nÃ£o quero pagar os preÃ§os da refinaria.}
+{194}{}{O que vocÃª pode me dizer sobre Broken Hills?}
+{195}{}{Eu quero algumas misturas quÃ­micas.}
 {196}{}{Nada. Tchau.}
-{222}{}{Que jeito de voltar contra sua própria espécie, amante de mutantes. Como você pôde fazer isso com Chad? Eu não me 
- importo com o que você fez para nós, você é uma vergonha para a humanidade.}
+{222}{}{Que jeito de voltar contra sua prÃ³pria espÃ©cie, amante de mutantes. Como vocÃª pÃ´de fazer isso com Chad? Eu nÃ£o me 
+ importo com o que vocÃª fez para nÃ³s, vocÃª Ã© uma vergonha para a humanidade.}
 {223}{}{Adeus.}
-{224}{}{Ótimo trabalho na prisão! }
+{224}{}{Ã“timo trabalho na prisÃ£o! }
 {225}{}{Obrigado.}
-{226}{}{Você realmente tinha que matar todo mundo? Agora todos vão ficar preocupados. Bem, não importa.}
+{226}{}{VocÃª realmente tinha que matar todo mundo? Agora todos vÃ£o ficar preocupados. Bem, nÃ£o importa.}
 {227}{}{Sinto.}
-{228}{}{Eles escaparam, essa é a parte importante. Claro, agora todos na cidade sabem que você está
+{228}{}{Eles escaparam, essa Ã© a parte importante. Claro, agora todos na cidade sabem que vocÃª estÃ¡
  junto com Manson e Franc de algum jeito. Bom, enfim.}
 {229}{}{Sinto.}
-{230}{}{Acho que posso confiar em você para algo mais importante. Você gostaria de mais uns trabalhos?}
-{231}{}{O que mais posso fazer por você, amigo?}
+{230}{}{Acho que posso confiar em vocÃª para algo mais importante. VocÃª gostaria de mais uns trabalhos?}
+{231}{}{O que mais posso fazer por vocÃª, amigo?}
 {232}{}{Mais trabalho? Como o que?}
-{233}{}{Preciso de mais minério refinado.}
-{234}{}{Ainda não. Eu preciso de alguns produtos químicos.}
-{235}{}{Ainda não, obrigado. Tchau.}
-{258}{}{Por aí. Nós odiamos os mutantes e queremos matá-los. A melhor maneira de se livrar deles é explodir
- a mina enquanto eles estão dentro. Queremos que você plante a carga.}
+{233}{}{Preciso de mais minÃ©rio refinado.}
+{234}{}{Ainda nÃ£o. Eu preciso de alguns produtos quÃ­micos.}
+{235}{}{Ainda nÃ£o, obrigado. Tchau.}
+{258}{}{Por aÃ­. NÃ³s odiamos os mutantes e queremos matÃ¡-los. A melhor maneira de se livrar deles Ã© explodir
+ a mina enquanto eles estÃ£o dentro. Queremos que vocÃª plante a carga.}
 {259}{}{Eu farei!}
-{260}{}{Eu não posso fazer isso.}
-{261}{}{Excelente, meu amigo! Aqui. Pegue esse interruptor explosivo. Ligue-o ao purificador de ar saia vazado de lá. Nós
+{260}{}{Eu nÃ£o posso fazer isso.}
+{261}{}{Excelente, meu amigo! Aqui. Pegue esse interruptor explosivo. Ligue-o ao purificador de ar saia vazado de lÃ¡. NÃ³s
  organizamos tudo para que os mutantes da cidade estejam na mina.}
 {262}{}{Apenas me avise quando estiver pronto para ir.}
-{263}{}{Eu faço.}
-{264}{}{Não posso fazer isso.}
-{265}{}{Por que não? Está com medo ou algo assim? Tem certeza que não vai fazer isso?}
+{263}{}{Eu faÃ§o.}
+{264}{}{NÃ£o posso fazer isso.}
+{265}{}{Por que nÃ£o? EstÃ¡ com medo ou algo assim? Tem certeza que nÃ£o vai fazer isso?}
 {266}{}{Sim.}
-{267}{}{Não, acho que eu faço.}
-{268}{}{Acho que consigo entender. Você será igualmente compreensivo, eu espero, quando eu te disser
+{267}{}{NÃ£o, acho que eu faÃ§o.}
+{268}{}{Acho que consigo entender. VocÃª serÃ¡ igualmente compreensivo, eu espero, quando eu te disser
  para sair da minha frente. Traidor.}
 {269}{}{[FEITO]}
-{270}{}{Você está pronto para prosseguir com o plano?}
+{270}{}{VocÃª estÃ¡ pronto para prosseguir com o plano?}
 {272}{}{Sim, bora.}
-{273}{}{Eu mudei de ideia, não quero fazer isso.}
-{274}{}{Ótimo. Eu estou ansioso por esse dia. É só conectar o interruptor explosivo ao purificador na mina
- e dar o fora. E então, booom. Nos vemos depois!}
-{275}{}{Até mais! Morte aos mutantes!}
-{276}{}{Eu mudei de ideia, não quero fazer isso.}
-{277}{}{Você um completo traidor.}
-{278}{}{Você fez um bom trabalho, uma vez. Pena que se voltou contra nós.}
+{273}{}{Eu mudei de ideia, nÃ£o quero fazer isso.}
+{274}{}{Ã“timo. Eu estou ansioso por esse dia. Ã‰ sÃ³ conectar o interruptor explosivo ao purificador na mina
+ e dar o fora. E entÃ£o, booom. Nos vemos depois!}
+{275}{}{AtÃ© mais! Morte aos mutantes!}
+{276}{}{Eu mudei de ideia, nÃ£o quero fazer isso.}
+{277}{}{VocÃª um completo traidor.}
+{278}{}{VocÃª fez um bom trabalho, uma vez. Pena que se voltou contra nÃ³s.}
 {279}{}{Finalmente nos livramos dessa tortura mutante, muito obrigado por sua ajuda. Tem um pequeno esconderijo de
- armas no porão sob o Armazém da Liz. Por sua lealdade, fique à vontade e pode pegar o que quiser.}
-{280}{}{Estamos saindo da cidade. Você deveria também.}
+ armas no porÃ£o sob o ArmazÃ©m da Liz. Por sua lealdade, fique Ã  vontade e pode pegar o que quiser.}
+{280}{}{Estamos saindo da cidade. VocÃª deveria tambÃ©m.}
 {281}{}{Me encontre quando eu estiver na loja e vamos conversar.}
-{282}{}{Seu minério está pronto. Aqui está.}
+{282}{}{Seu minÃ©rio estÃ¡ pronto. Aqui estÃ¡.}
 {283}{}{Obrigado!}
-{284}{}{Ainda não terminei com o minério, me dá mais um tempo.}
+{284}{}{Ainda nÃ£o terminei com o minÃ©rio, me dÃ¡ mais um tempo.}
 {285}{}{Eu tenho outras perguntas.}
 {286}{}{Tudo bem. Tchau.}
-{287}{}{Pronto para distração?}
-{288}{}{Pronto para tentar essa distração novamente?}
-{289}{}{De acordo. Quer me ajudar a começar uma distração?}
-{290}{}{Eu gostaria de comprar alguns... uh... remédios.}
+{287}{}{Pronto para distraÃ§Ã£o?}
+{288}{}{Pronto para tentar essa distraÃ§Ã£o novamente?}
+{289}{}{De acordo. Quer me ajudar a comeÃ§ar uma distraÃ§Ã£o?}
+{290}{}{Eu gostaria de comprar alguns... uh... remÃ©dios.}
 {291}{}{Mais alguma coisa?}
 {292}{}{Sim.}
-{293}{}{Não, obrigado. Tchau.}
-{294}{}{Agora você viu como os mutantes são traiçoeiros. Se você tivesse visto antes...}
-{295}{}{Se você não vai nos ajudar, nós não vamos te ajudar.}
-{296}{}{Tá, e o que você faz parado aí? Você uns patriotas para resgatar da cadeia!}
+{293}{}{NÃ£o, obrigado. Tchau.}
+{294}{}{Agora vocÃª viu como os mutantes sÃ£o traiÃ§oeiros. Se vocÃª tivesse visto antes...}
+{295}{}{Se vocÃª nÃ£o vai nos ajudar, nÃ³s nÃ£o vamos te ajudar.}
+{296}{}{TÃ¡, e o que vocÃª faz parado aÃ­? VocÃª uns patriotas para resgatar da cadeia!}
 {297}{}{Oh.. Isso mesmo.}
-{298}{}{Eu te disse para tirar eles da prisão, não matá-los! Qual é o seu problema?}
-{299}{}{Me desculpe... é que...}
-{300}{}{Que nada. Querendo ou não, você estragou todos os planos que tínhamos para essa cidade. Mas agora você vai pagar.}
-{301}{}{Desculpe, amigo, mas... acabei de perder meus dois melhores amigos. Aqueles mutantes desgraçados os mataram na prisão.}
+{298}{}{Eu te disse para tirar eles da prisÃ£o, nÃ£o matÃ¡-los! Qual Ã© o seu problema?}
+{299}{}{Me desculpe... Ã© que...}
+{300}{}{Que nada. Querendo ou nÃ£o, vocÃª estragou todos os planos que tÃ­nhamos para essa cidade. Mas agora vocÃª vai pagar.}
+{301}{}{Desculpe, amigo, mas... acabei de perder meus dois melhores amigos. Aqueles mutantes desgraÃ§ados os mataram na prisÃ£o.}
 {302}{}{Urrggg. Ruim demaaaais. Tchau.}
-{303}{}{Oh... Puxa. Eu realmente sinto muito, meus sentimentos. Até.}
+{303}{}{Oh... Puxa. Eu realmente sinto muito, meus sentimentos. AtÃ©.}
 {304}{}{Oops.}
-{305}{}{Opa? Você disse "Opa"? Você não tem nada a ver com isso, não é?}
+{305}{}{Opa? VocÃª disse "Opa"? VocÃª nÃ£o tem nada a ver com isso, nÃ£o Ã©?}
 {306}{}{Foi um acidente, eu juro!}
-{307}{}{Nunca, cara. Claro que não! Malditos mutantes!}
-{308}{}{Acidente é o caralho! Você vai se fuder agora, seu pau mandado de mutantes!}
+{307}{}{Nunca, cara. Claro que nÃ£o! Malditos mutantes!}
+{308}{}{Acidente Ã© o caralho! VocÃª vai se fuder agora, seu pau mandado de mutantes!}
 {309}{}{Sim, bem... a hora dele chegou.}
-{310}{}{Já contei tudo o que você precisa saber sobre esse lugar. Então o que você quer?}
+{310}{}{JÃ¡ contei tudo o que vocÃª precisa saber sobre esse lugar. EntÃ£o o que vocÃª quer?}
 {311}{}{Eu tenho algumas outras perguntas.}
-{312}{}{Nada. Esqueça.}
+{312}{}{Nada. EsqueÃ§a.}
 {313}{}{Obrigado.}
 {314}{}{[CONTINUAR]}
-{315}{}{Ei, cara. Agradeço sua ajuda para tirar nossos amigos dessa loucura. Coloquei você na minha lista boa.}
+{315}{}{Ei, cara. AgradeÃ§o sua ajuda para tirar nossos amigos dessa loucura. Coloquei vocÃª na minha lista boa.}
 {316}{}{Obrigado.}

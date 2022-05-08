@@ -1,1 +1,1 @@
-{100}{}{Entrar en una remota zona llena de vegetación muerta. Un grande, bien vigilado bunker está frente a usted.}
+{100}{}{Entrar en una remota zona llena de vegetaciÃ³n muerta. Un grande, bien vigilado bunker estÃ¡ frente a usted.}

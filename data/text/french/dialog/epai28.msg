@@ -1,1 +1,1 @@
-{100}{}{Ce casier requiert un code de sécurité.}
+{100}{}{Ce casier requiert un code de sÃ©curitÃ©.}

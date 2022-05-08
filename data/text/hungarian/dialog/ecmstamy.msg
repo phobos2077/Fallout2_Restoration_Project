@@ -1,5 +1,5 @@
-{100}{}{A Mester hadseregének egyik utolsó katonáját látod.}
-{101}{}{A Mester utasított bennünket, hogy minden humánt vigyünk a színe elé.}
-{102}{}{Minden humánnak meg kell merítkezni!}
-{103}{}{Pusztítsd a humánt!}
+{100}{}{A Mester hadseregÃ©nek egyik utolsÃ³ katonÃ¡jÃ¡t lÃ¡tod.}
+{101}{}{A Mester utasÃ­tott bennÃ¼nket, hogy minden humÃ¡nt vigyÃ¼nk a szÃ­ne elÃ©.}
+{102}{}{Minden humÃ¡nnak meg kell merÃ­tkezni!}
+{103}{}{PusztÃ­tsd a humÃ¡nt!}
 {104}{}{Hallani akarom a sikolyodat.}

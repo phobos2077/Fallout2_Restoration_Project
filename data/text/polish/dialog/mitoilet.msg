@@ -1,1 +1,1 @@
-{100}{}{Zauwa¿asz drabinê prowadz¹c¹ w g³¹b czarnej dziury.}
+{100}{}{ZauwaÅ¼asz drabinÄ™ prowadzÄ…cÄ… w gÅ‚Ä…b czarnej dziury.}

@@ -54,7 +54,7 @@
 {152}{}{[Player name]}
 {153}{}{Pesci?}
 {154}{}{Pesce Spada.}
-{155}{}{Arroy— Aspetta un secondo! Siamo appena stati laggiu'. Sei un dannato selvaggio! Guardie!}
+{155}{}{Arroyâ€” Aspetta un secondo! Siamo appena stati laggiu'. Sei un dannato selvaggio! Guardie!}
 {156}{}{Ascolta, buffone: non fare l'idiota o faro' rapporto a chi di dovere. Rispondi alla domanda. }
 {157}{}{Arroyo.}
 {158}{}{42.}

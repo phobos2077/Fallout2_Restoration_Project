@@ -1,44 +1,44 @@
-{100}{}{Widzisz bardzo sztywn¹ kobietê. Wygl¹da jakby nie relaksowa³a siê od lat.}
-{101}{}{Widzisz Melindê, G³ówn¹ Witaj¹c¹ Urzêdniczkê.}
-{102}{}{Witaj. Chyba nigdy wczeœniej ciê tu nie widzia³am. Witamy w Kryptopolis. Czy mogê ci w czymœ pomóc?}
-{103}{}{Tak. W czym jeszcze mogê ci pomóc?}
-{104}{}{Czy to jest ogrodzona czêœæ miasta?}
+{100}{}{Widzisz bardzo sztywnÄ… kobietÄ™. WyglÄ…da jakby nie relaksowaÅ‚a siÄ™ od lat.}
+{101}{}{Widzisz MelindÄ™, GÅ‚Ã³wnÄ… WitajÄ…cÄ… UrzÄ™dniczkÄ™.}
+{102}{}{Witaj. Chyba nigdy wczeÅ›niej ciÄ™ tu nie widziaÅ‚am. Witamy w Kryptopolis. Czy mogÄ™ ci w czymÅ› pomÃ³c?}
+{103}{}{Tak. W czym jeszcze mogÄ™ ci pomÃ³c?}
+{104}{}{Czy to jest ogrodzona czÄ™Å›Ä‡ miasta?}
 {105}{}{Szukam Krypty.}
-{106}{}{Kim jesteœ?}
-{107}{}{Nie, dziêki. ¯egnam.}
+{106}{}{Kim jesteÅ›?}
+{107}{}{Nie, dziÄ™ki. Å»egnam.}
 {108}{}{Czy to Kryptopies?}
-{109}{}{Nie, nie... nie pozwól daæ siê zwieœæ otoczeniu. Teraz znajdujesz siê na Podmurzu. W³aœciwe miasto le¿y na pó³noc st¹d.}
-{110}{}{Jaka jest ró¿nica miedzy tymi dwoma obszarami?}
-{111}{}{Mogê zapytaæ ciê o coœ innego?}
-{112}{}{Dziêki za pomoc. Do widzenia.}
-{113}{}{Dziêki}
-{114}{}{Krypta? Jest na terenie miasta. Jednak, muszê ci powiedzieæ, ¿e tylko Obywatele maj¹ do niego dostêp.}
-{115}{}{Muszê siê dostaæ do Krypty.}
-{116}{}{Mogê zapytaæ ciê o coœ innego?}
-{117}{}{Dziêki za pomoc. Do widzenia.}
-{118}{}{Jak siê nazywam? Melinda. Jestem G³ówn¹ Witaj¹c¹ Urzêdniczk¹ Kryptopolis.}
-{119}{}{Brzmi jak ciê¿ka robota.}
-{120}{}{Mogê zapytaæ ciê o coœ innego?}
-{121}{}{Dziêkujemy za pomoc.}
-{122}{}{Podmurze jest obszarem, w którym chronimy mniej szczêœliwych Przybyszów. Wielu z nich ¿yje pod nasz¹ ochrona i staje siê czêœci¹ wspania³oœci Kryptopolis. Wewnêtrzne Miasto to obszar, w którym ¿yj¹ Obywatele.}
-{123}{}{Dlaczego tylko Obywatele ¿yj¹ w wewnêtrznej czêœci?}
-{124}{}{Mogê zapytaæ ciê o coœ innego?}
-{125}{}{Dziêki za pomoc.}
-{126}{}{Przykro mi, ale jak ju¿ mówi³am, tylko Obywatelom wolno przebywaæ w Krypcie. Nie mogê przyznaæ ci dostêpu. Porozmawiaj z Wallacem, naszym Urzêdnikiem Celnym. Mo¿e on bêdzie w stanie ci pomóc. Jego biuro jest na pó³nocnym krañcu Podmurza, tu¿ przy bramie do miasta.}
-{127}{}{Mogê zapytaæ ciê o coœ innego?}
-{128}{}{Dziêki za pomoc. Do widzenia.}
-{129}{}{Moja praca przynosi korzyœci Kryptopolis, mam przywilej rozmawiaæ z podró¿nymi o wspania³oœci miasta.}
-{130}{}{Och, no co ty, nigdy ciê to nie nudzi?}
-{131}{}{Mogê zapytaæ ciê o coœ innego?}
-{132}{}{Dziêki za pomoc.}
-{133}{}{By zbudowaæ lepszy œwiat dla ka¿dego, musimy konsekwentnie broniæ siê przed wp³ywami z zewn¹trz.}
-{134}{}{To znaczy, ¿e chcecie siê odseparowaæ?}
-{135}{}{Jestem dumna z pracy, któr¹ wykonujê dla Kryptopolis. Wybacz, ale mam bardzo wa¿ne sprawy, którymi muszê siê niezw³ocznie zaj¹æ. Mi³ego dnia.}
+{109}{}{Nie, nie... nie pozwÃ³l daÄ‡ siÄ™ zwieÅ›Ä‡ otoczeniu. Teraz znajdujesz siÄ™ na Podmurzu. WÅ‚aÅ›ciwe miasto leÅ¼y na pÃ³Å‚noc stÄ…d.}
+{110}{}{Jaka jest rÃ³Å¼nica miedzy tymi dwoma obszarami?}
+{111}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{112}{}{DziÄ™ki za pomoc. Do widzenia.}
+{113}{}{DziÄ™ki}
+{114}{}{Krypta? Jest na terenie miasta. Jednak, muszÄ™ ci powiedzieÄ‡, Å¼e tylko Obywatele majÄ… do niego dostÄ™p.}
+{115}{}{MuszÄ™ siÄ™ dostaÄ‡ do Krypty.}
+{116}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{117}{}{DziÄ™ki za pomoc. Do widzenia.}
+{118}{}{Jak siÄ™ nazywam? Melinda. Jestem GÅ‚Ã³wnÄ… WitajÄ…cÄ… UrzÄ™dniczkÄ… Kryptopolis.}
+{119}{}{Brzmi jak ciÄ™Å¼ka robota.}
+{120}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{121}{}{DziÄ™kujemy za pomoc.}
+{122}{}{Podmurze jest obszarem, w ktÃ³rym chronimy mniej szczÄ™Å›liwych PrzybyszÃ³w. Wielu z nich Å¼yje pod naszÄ… ochrona i staje siÄ™ czÄ™Å›ciÄ… wspaniaÅ‚oÅ›ci Kryptopolis. WewnÄ™trzne Miasto to obszar, w ktÃ³rym Å¼yjÄ… Obywatele.}
+{123}{}{Dlaczego tylko Obywatele Å¼yjÄ… w wewnÄ™trznej czÄ™Å›ci?}
+{124}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{125}{}{DziÄ™ki za pomoc.}
+{126}{}{Przykro mi, ale jak juÅ¼ mÃ³wiÅ‚am, tylko Obywatelom wolno przebywaÄ‡ w Krypcie. Nie mogÄ™ przyznaÄ‡ ci dostÄ™pu. Porozmawiaj z Wallacem, naszym UrzÄ™dnikiem Celnym. MoÅ¼e on bÄ™dzie w stanie ci pomÃ³c. Jego biuro jest na pÃ³Å‚nocnym kraÅ„cu Podmurza, tuÅ¼ przy bramie do miasta.}
+{127}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{128}{}{DziÄ™ki za pomoc. Do widzenia.}
+{129}{}{Moja praca przynosi korzyÅ›ci Kryptopolis, mam przywilej rozmawiaÄ‡ z podrÃ³Å¼nymi o wspaniaÅ‚oÅ›ci miasta.}
+{130}{}{Och, no co ty, nigdy ciÄ™ to nie nudzi?}
+{131}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{132}{}{DziÄ™ki za pomoc.}
+{133}{}{By zbudowaÄ‡ lepszy Å›wiat dla kaÅ¼dego, musimy konsekwentnie broniÄ‡ siÄ™ przed wpÅ‚ywami z zewnÄ…trz.}
+{134}{}{To znaczy, Å¼e chcecie siÄ™ odseparowaÄ‡?}
+{135}{}{Jestem dumna z pracy, ktÃ³rÄ… wykonujÄ™ dla Kryptopolis. Wybacz, ale mam bardzo waÅ¼ne sprawy, ktÃ³rymi muszÄ™ siÄ™ niezwÅ‚ocznie zajÄ…Ä‡. MiÅ‚ego dnia.}
 {136}{}{Nie robimy tego tylko dla nas. Robimy to dla dobra wszystkich.}
-{137}{}{Tak, jasne. W ten sposób to brzmi lepiej.}
-{138}{}{Mogê zapytaæ ciê o coœ innego?}
-{139}{}{Dziêkujemy za pomoc.}
-{140}{}{Nie wydaje mi siê, ¿e jesteœ w stanie zrozumieæ nasz¹ pracê tutaj.}
-{141}{}{Masz racjê. Nie mogê tego zrozumieæ, bo to nie ma sensu.}
-{142}{}{Czysta ciekawoœæ. Dziêki za pomoc.}
-{143}{}{W tej chwili jestem bardzo zajêta. Jeœli potrzebujesz pomocy to porozmawiaj z Drugim Witaj¹cym Urzêdnikiem.}
+{137}{}{Tak, jasne. W ten sposÃ³b to brzmi lepiej.}
+{138}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{139}{}{DziÄ™kujemy za pomoc.}
+{140}{}{Nie wydaje mi siÄ™, Å¼e jesteÅ› w stanie zrozumieÄ‡ naszÄ… pracÄ™ tutaj.}
+{141}{}{Masz racjÄ™. Nie mogÄ™ tego zrozumieÄ‡, bo to nie ma sensu.}
+{142}{}{Czysta ciekawoÅ›Ä‡. DziÄ™ki za pomoc.}
+{143}{}{W tej chwili jestem bardzo zajÄ™ta. JeÅ›li potrzebujesz pomocy to porozmawiaj z Drugim WitajÄ…cym UrzÄ™dnikiem.}

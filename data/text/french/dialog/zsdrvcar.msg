@@ -1,9 +1,9 @@
-{100}{}{Cette voiture ne fonctionne pas. Elle semble en meilleur état que les autres voitures du coin. Il est peut-être possible de la réparer.}
-{101}{}{Pour l'instant, cette voiture ne fonctionne pas, elle a besoin d'un contrôleur de transmission.}
-{200}{}{Tu réussis à réparer la voiture avec la contrôleur de transmission.}
-{210}{}{Tu ne réussis pas à réparer la voiture avec le contrôleur de transmission.}
-{220}{}{Tu as réussi à améliorer la voiture avec le régulateur de carburant.}
-{230}{}{Tu n'as pas réussi à installer le régulateur de carburant.}
-{250}{}{La voiture est en panne. Tu dois refaire le plein pour qu'elle puisse redémarrer.}
-{300}{}{Tu ne réussis pas à réparer la voiture. Il est peut-être possible de la réparer à l'aide du contrôleur de transmission dont Smitty parlait.}
+{100}{}{Cette voiture ne fonctionne pas. Elle semble en meilleur Ã©tat que les autres voitures du coin. Il est peut-Ãªtre possible de la rÃ©parer.}
+{101}{}{Pour l'instant, cette voiture ne fonctionne pas, elle a besoin d'un contrÃ´leur de transmission.}
+{200}{}{Tu rÃ©ussis Ã  rÃ©parer la voiture avec la contrÃ´leur de transmission.}
+{210}{}{Tu ne rÃ©ussis pas Ã  rÃ©parer la voiture avec le contrÃ´leur de transmission.}
+{220}{}{Tu as rÃ©ussi Ã  amÃ©liorer la voiture avec le rÃ©gulateur de carburant.}
+{230}{}{Tu n'as pas rÃ©ussi Ã  installer le rÃ©gulateur de carburant.}
+{250}{}{La voiture est en panne. Tu dois refaire le plein pour qu'elle puisse redÃ©marrer.}
+{300}{}{Tu ne rÃ©ussis pas Ã  rÃ©parer la voiture. Il est peut-Ãªtre possible de la rÃ©parer Ã  l'aide du contrÃ´leur de transmission dont Smitty parlait.}
 {400}{}{Cela ferait trop de bruit d'ouvrir grand le capot et de bricoler la voiture.}

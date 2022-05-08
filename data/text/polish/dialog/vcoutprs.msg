@@ -1,8 +1,8 @@
-{100}{}{Widzisz wiêŸnia.}
-{101}{}{Widzisz uwiêzionego cz³owieka z zewn¹trz.}
-{102}{}{Ju¿ nigdy wiêcej nie olejê godziny policyjnej.}
-{103}{}{Jeszcze tylko tydzieñ, i wracam do Centrum Przydzielania...}
-{104}{}{Lepiej siê tu nie krêæ. Jak ktoœ zobaczy, ¿e rozmawiamy, bêdziemy mieæ powa¿ne k³opoty.}
-{105}{}{Cholerny Barkus mnie tu wsadzi³. Niech no tylko wpadnie w moje rêce...}
-{106}{}{Co mnie podkusi³o, ¿eby przybyæ do Kryptopolis. "Wolne" miasto... to¿ to kpina.}
-{107}{}{Przynajmniej ¿arcie jest w porz¹dku.}
+{100}{}{Widzisz wiÄ™Åºnia.}
+{101}{}{Widzisz uwiÄ™zionego czÅ‚owieka z zewnÄ…trz.}
+{102}{}{JuÅ¼ nigdy wiÄ™cej nie olejÄ™ godziny policyjnej.}
+{103}{}{Jeszcze tylko tydzieÅ„, i wracam do Centrum Przydzielania...}
+{104}{}{Lepiej siÄ™ tu nie krÄ™Ä‡. Jak ktoÅ› zobaczy, Å¼e rozmawiamy, bÄ™dziemy mieÄ‡ powaÅ¼ne kÅ‚opoty.}
+{105}{}{Cholerny Barkus mnie tu wsadziÅ‚. Niech no tylko wpadnie w moje rÄ™ce...}
+{106}{}{Co mnie podkusiÅ‚o, Å¼eby przybyÄ‡ do Kryptopolis. "Wolne" miasto... toÅ¼ to kpina.}
+{107}{}{Przynajmniej Å¼arcie jest w porzÄ…dku.}

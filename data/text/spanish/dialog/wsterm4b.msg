@@ -1,11 +1,11 @@
 {100}{}{Un terminal de computadora.}
-{101}{}{Controla el Vault-Tec extracción de órganos de la unidad.}
+{101}{}{Controla el Vault-Tec extracciÃ³n de Ã³rganos de la unidad.}
 {102}{}{Eres incapaz de leer lo que pone en el monitor.}
-{103}{}{Bienvenido al equipo de extracción de órganos de alta tecnología Vault-Tec. Para operarlo, por favor coloque al donante en la sala de extracciones, gire el disco para asignar la especie, y seleccione el órgano para ser extraído.}
+{103}{}{Bienvenido al equipo de extracciÃ³n de Ã³rganos de alta tecnologÃ­a Vault-Tec. Para operarlo, por favor coloque al donante en la sala de extracciones, gire el disco para asignar la especie, y seleccione el Ã³rgano para ser extraÃ­do.}
 {104}{}{Seleccionar especie.}
-{105}{}{Seleccionar órgano.}
+{105}{}{Seleccionar Ã³rgano.}
 {106}{}{Salir.}
-{107}{}{¡Arg!}
+{107}{}{Â¡Arg!}
 {108}{}{En el disco se indican los siguientes animales:
              Canino
              Felino
@@ -24,24 +24,24 @@
 {118}{}{Seleccionar Humano.}
 {119}{}{[Cero un nuevo nombre en la consola.]}
 {120}{}{Salir.}
-{121}{}{[Recoges un pedazo de metal y reflexionas sobre qué escribir en la consola].}
+{121}{}{[Recoges un pedazo de metal y reflexionas sobre quÃ© escribir en la consola].}
 {122}{}{Tallar la palabra "Mutante" en la consola.}
 {123}{}{Tallar la palabra 'Deathclaw' en la consola.}
 {124}{}{Salir.}
-{125}{}{La Selección Actual: }
+{125}{}{La SelecciÃ³n Actual: }
 {126}{}{Especie:- }
-{127}{}{Órgano - }
+{127}{}{Ã“rgano - }
 {128}{}{Seleccionar especie.}
-{129}{}{Seleccionar órgano.}
-{130}{}{Proceder a la extracción.}
+{129}{}{Seleccionar Ã³rgano.}
+{130}{}{Proceder a la extracciÃ³n.}
 {131}{}{Salir.}
-{132}{}{En el disco se indican los siguientes órganos:
-             Corazón
+{132}{}{En el disco se indican los siguientes Ã³rganos:
+             CorazÃ³n
              Cerebro
-             Riñón 
-             Hígado
- Pulmón 
-             Apéndice
+             RiÃ±Ã³n 
+             HÃ­gado
+ PulmÃ³n 
+             ApÃ©ndice
             Colon (tallado)}
 {133}{}{}
 {134}{}{}
@@ -50,23 +50,23 @@
 {137}{}{}
 {138}{}{}
 {139}{}{}
-{140}{}{Seleccionar Corazón.}
+{140}{}{Seleccionar CorazÃ³n.}
 {141}{}{Seleccionar Cerebro.}
-{142}{}{Seleccionar Riñón.}
-{143}{}{Seleccionar Hígado.}
-{144}{}{Seleccionar Pulmón.}
-{145}{}{Seleccionar Apéndice.}
+{142}{}{Seleccionar RiÃ±Ã³n.}
+{143}{}{Seleccionar HÃ­gado.}
+{144}{}{Seleccionar PulmÃ³n.}
+{145}{}{Seleccionar ApÃ©ndice.}
 {146}{}{Seleccionar Colon.}
 {147}{}{Salir.}
-{148}{}{El sujeto donante no está presente en la sala de extracción.}
-{149}{}{La extracción de error.}
-{150}{}{La extracción completa.}
-{151}{}{La extracción completa.
- Gracias por el uso de Vault-Tec. Por favor, consulte nuestro catálogo para nuestra línea completa de Vault-Tec productos.}
+{148}{}{El sujeto donante no estÃ¡ presente en la sala de extracciÃ³n.}
+{149}{}{La extracciÃ³n de error.}
+{150}{}{La extracciÃ³n completa.}
+{151}{}{La extracciÃ³n completa.
+ Gracias por el uso de Vault-Tec. Por favor, consulte nuestro catÃ¡logo para nuestra lÃ­nea completa de Vault-Tec productos.}
 {152}{}{}
 {153}{}{Salir.}
 {154}{}{Extraccion fallida-- Sobrecarga del sensor.}
-{155}{}{Extracción fracasado: no se puede inicializar el procedimiento para la asignatura de fisiología.}
+{155}{}{ExtracciÃ³n fracasado: no se puede inicializar el procedimiento para la asignatura de fisiologÃ­a.}
 {170}{}{Humanos }
 {171}{}{Canino }
 {172}{}{Felino }
@@ -75,10 +75,10 @@
 {175}{}{Mutante }
 {176}{}{Deathclaw }
 {180}{}{Cerebro }
-{181}{}{Corazón }
-{182}{}{Riñón }
-{183}{}{Hígado }
-{184}{}{Pulmón }
-{185}{}{Apéndice }
+{181}{}{CorazÃ³n }
+{182}{}{RiÃ±Ã³n }
+{183}{}{HÃ­gado }
+{184}{}{PulmÃ³n }
+{185}{}{ApÃ©ndice }
 {186}{}{Colon }
 {200}{}{ es incapaz de leer lo que pone en el monitor.}

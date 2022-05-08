@@ -1,63 +1,63 @@
-{100}{}{Egy harci páncélt visel? ember.}
-{101}{}{A bázisparancsnok ajtónállója.}
-{102}{}{Egy harci páncélt visel? embert látsz. A mellkasán van egy jel, amit nem tudsz hova tenni.}
-{103}{}{Uram! Megkérdezhetem, mi dolga itt?}
+{100}{}{Egy harci pÃ¡ncÃ©lt visel? ember.}
+{101}{}{A bÃ¡zisparancsnok ajtÃ³nÃ¡llÃ³ja.}
+{102}{}{Egy harci pÃ¡ncÃ©lt visel? embert lÃ¡tsz. A mellkasÃ¡n van egy jel, amit nem tudsz hova tenni.}
+{103}{}{Uram! MegkÃ©rdezhetem, mi dolga itt?}
 {104}{}{Mi lenni ez hely?}
-{105}{}{Ühm... mi lenni új.}
-{106}{}{Én lenni itt takarítani.}
+{105}{}{Ãœhm... mi lenni Ãºj.}
+{106}{}{Ã‰n lenni itt takarÃ­tani.}
 {107}{}{Mi elfelejteni. Menek.}
-{108}{}{Mi ez a hely tulajdonképpen?}
-{109}{}{Helló, új vagyok itt.}
-{110}{}{A parancsnok irodáját jöttem takarítani.}
-{111}{}{Értem.}
-{112}{}{Ez a bázisparancsnok irodája. Ide nem léphet be senki. Meg kell kérnem, uram, hogy távozzon.}
+{108}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{109}{}{HellÃ³, Ãºj vagyok itt.}
+{110}{}{A parancsnok irodÃ¡jÃ¡t jÃ¶ttem takarÃ­tani.}
+{111}{}{Ã‰rtem.}
+{112}{}{Ez a bÃ¡zisparancsnok irodÃ¡ja. Ide nem lÃ©phet be senki. Meg kell kÃ©rnem, uram, hogy tÃ¡vozzon.}
 {113}{}{Lenni dolgom parancsnokkal.}
 {114}{}{Remek.}
 {115}{}{Dolgom van a parancsnokkal.}
 {116}{}{Rendben.}
-{117}{}{Milyen természet? ügyr?l van szó, uram?}
-{118}{}{Öö...}
-{119}{}{Picsába! Mi összezavarodni...}
+{117}{}{Milyen termÃ©szet? Ã¼gyr?l van szÃ³, uram?}
+{118}{}{Ã–Ã¶...}
+{119}{}{PicsÃ¡ba! Mi Ã¶sszezavarodni...}
 {120}{}{Never mind. Me go.}
 {121}{}{Nos...}
-{122}{}{Öh, leszóltak a biztonságiak, hogy zárassuk el a tanker kódkártyáját. Nem akarják, hogy rossz kezekbe kerüljön. Ezért vagyok itt.}
+{122}{}{Ã–h, leszÃ³ltak a biztonsÃ¡giak, hogy zÃ¡rassuk el a tanker kÃ³dkÃ¡rtyÃ¡jÃ¡t. Nem akarjÃ¡k, hogy rossz kezekbe kerÃ¼ljÃ¶n. EzÃ©rt vagyok itt.}
 {123}{}{Most elmegyek.}
-{124}{}{Uram, ez az utolsó figyelmeztetés. Nyomatékosan megkérem, hagyja el a területet!}
-{125}{}{Oké.}
-{126}{}{Öhm... Bazzmeg! Mi l?ni le tégedet!}
-{127}{}{Bazmeg! Jöjjön hát a fegyverropogás!}
-{128}{}{Mi? Ja, értem. Kihúztad a gyufát és Dornan ?rmester most felnyalatja veled a bázist.}
-{129}{}{Igen... mi kihúzni...}
-{130}{}{(Magában beszél) Parancsnok! Itt van a takarítóegység! (szünet) Igenis, uram! (rád néz) Bemehet!}
-{131}{}{Köszi.}
-{132}{}{(Magában beszél) Parancsnok! A biztonságiak vannak itt. A f?bázis el akarja záratni a tanker kódkártyáját. (szünet) Igenis, uram! (rád néz) Bemehet!}
-{133}{}{Hadd lássam a parancsát, uram!}
-{134}{}{Köszi.}
-{135}{}{Óh, nem hoztam magammal.}
-{136}{}{(halkan) Akkor bizonyára eltévedt. Ez a bázisparancsnok irodája. Senki sem mehet be, hacsak nem ? maga rendeli ide.}
-{137}{}{Nem jönni ide senki?}
+{124}{}{Uram, ez az utolsÃ³ figyelmeztetÃ©s. NyomatÃ©kosan megkÃ©rem, hagyja el a terÃ¼letet!}
+{125}{}{OkÃ©.}
+{126}{}{Ã–hm... Bazzmeg! Mi l?ni le tÃ©gedet!}
+{127}{}{Bazmeg! JÃ¶jjÃ¶n hÃ¡t a fegyverropogÃ¡s!}
+{128}{}{Mi? Ja, Ã©rtem. KihÃºztad a gyufÃ¡t Ã©s Dornan ?rmester most felnyalatja veled a bÃ¡zist.}
+{129}{}{Igen... mi kihÃºzni...}
+{130}{}{(MagÃ¡ban beszÃ©l) Parancsnok! Itt van a takarÃ­tÃ³egysÃ©g! (szÃ¼net) Igenis, uram! (rÃ¡d nÃ©z) Bemehet!}
+{131}{}{KÃ¶szi.}
+{132}{}{(MagÃ¡ban beszÃ©l) Parancsnok! A biztonsÃ¡giak vannak itt. A f?bÃ¡zis el akarja zÃ¡ratni a tanker kÃ³dkÃ¡rtyÃ¡jÃ¡t. (szÃ¼net) Igenis, uram! (rÃ¡d nÃ©z) Bemehet!}
+{133}{}{Hadd lÃ¡ssam a parancsÃ¡t, uram!}
+{134}{}{KÃ¶szi.}
+{135}{}{Ã“h, nem hoztam magammal.}
+{136}{}{(halkan) Akkor bizonyÃ¡ra eltÃ©vedt. Ez a bÃ¡zisparancsnok irodÃ¡ja. Senki sem mehet be, hacsak nem ? maga rendeli ide.}
+{137}{}{Nem jÃ¶nni ide senki?}
 {138}{}{Senki sem?}
-{139}{}{(halkan) Senki. Nos, csak néha a takarítók. Egy óra múlva szoktak jönni ide. Ezen az id?ponton kívül, ez a terület mindenki számára tiltott. Most jobb, ha megy.}
-{140}{}{Oké.}
-{141}{}{(Magában beszél) Parancsnok! Itt van a takarítóegység! (szünet) Igenis, uram! (rád néz) Bemehet!}
-{142}{}{Korán jött. Jöjjön vissza kés?bb!}
-{143}{}{Oké.}
-{144}{}{Akkor menjen vissza az operatív parancsnokságra, és nyomtattasson magának egyet!}
-{145}{}{Oké.}
-{146}{}{Bizonyára a fegyverszobát keresi. Menjen vissza a folyosóra, onnan feljebb az els? ajtó.}
-{147}{}{Köszi.}
-{148}{}{Kik ezek a fickók?... Behatolók! Riadó!}
-{149}{}{Megtámadtak bennünket! Riadó!}
-{150}{}{Behatolók! Riadó!}
-{151}{}{Biztonsági riadó! Zárjátok le a bázist!}
+{139}{}{(halkan) Senki. Nos, csak nÃ©ha a takarÃ­tÃ³k. Egy Ã³ra mÃºlva szoktak jÃ¶nni ide. Ezen az id?ponton kÃ­vÃ¼l, ez a terÃ¼let mindenki szÃ¡mÃ¡ra tiltott. Most jobb, ha megy.}
+{140}{}{OkÃ©.}
+{141}{}{(MagÃ¡ban beszÃ©l) Parancsnok! Itt van a takarÃ­tÃ³egysÃ©g! (szÃ¼net) Igenis, uram! (rÃ¡d nÃ©z) Bemehet!}
+{142}{}{KorÃ¡n jÃ¶tt. JÃ¶jjÃ¶n vissza kÃ©s?bb!}
+{143}{}{OkÃ©.}
+{144}{}{Akkor menjen vissza az operatÃ­v parancsnoksÃ¡gra, Ã©s nyomtattasson magÃ¡nak egyet!}
+{145}{}{OkÃ©.}
+{146}{}{BizonyÃ¡ra a fegyverszobÃ¡t keresi. Menjen vissza a folyosÃ³ra, onnan feljebb az els? ajtÃ³.}
+{147}{}{KÃ¶szi.}
+{148}{}{Kik ezek a fickÃ³k?... BehatolÃ³k! RiadÃ³!}
+{149}{}{MegtÃ¡madtak bennÃ¼nket! RiadÃ³!}
+{150}{}{BehatolÃ³k! RiadÃ³!}
+{151}{}{BiztonsÃ¡gi riadÃ³! ZÃ¡rjÃ¡tok le a bÃ¡zist!}
 {152}{}{Secure all stations! We're on alert!}
-{153}{}{Behatolók! Vörös kód!}
-{154}{}{Szétalázunk!}
-{155}{}{Az Enklávé lesz a világ ura!}
-{156}{}{Te elpusztulsz, az Enklávé fennmarad!}
-{160}{}{Szóval visszajött... Magával hozta a parancsot?}
-{161}{}{Nem, még nem. Majd hozom.}
-{162}{}{Na, persze. Én mondtam neked, hogy hamarosan jönnek a takarítók, és láss csodát, hirtelen átvedlettél takarítónak! Még a folyosóról se mentél el! Azt hiszed, hülye vagyok? T?nj innen a francba!}
+{153}{}{BehatolÃ³k! VÃ¶rÃ¶s kÃ³d!}
+{154}{}{SzÃ©talÃ¡zunk!}
+{155}{}{Az EnklÃ¡vÃ© lesz a vilÃ¡g ura!}
+{156}{}{Te elpusztulsz, az EnklÃ¡vÃ© fennmarad!}
+{160}{}{SzÃ³val visszajÃ¶tt... MagÃ¡val hozta a parancsot?}
+{161}{}{Nem, mÃ©g nem. Majd hozom.}
+{162}{}{Na, persze. Ã‰n mondtam neked, hogy hamarosan jÃ¶nnek a takarÃ­tÃ³k, Ã©s lÃ¡ss csodÃ¡t, hirtelen Ã¡tvedlettÃ©l takarÃ­tÃ³nak! MÃ©g a folyosÃ³rÃ³l se mentÃ©l el! Azt hiszed, hÃ¼lye vagyok? T?nj innen a francba!}
 {200}{}{(speaking to self) Commander. (pause) Are you there Commander? (pause) Hmm... No response. That's not like him at all.
  I better go check on him.}
 {201}{}{(Holy shit the Commander is dead! Sound the alarms we have an intruder!!}

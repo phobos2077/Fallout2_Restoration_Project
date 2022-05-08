@@ -1,1 +1,1 @@
-{100}{}{Du kommst in eine dunkle Höhle. Überall siehst du Abdrücke von Rattenpfoten.}
+{100}{}{Du kommst in eine dunkle HÃ¶hle. Ãœberall siehst du AbdrÃ¼cke von Rattenpfoten.}

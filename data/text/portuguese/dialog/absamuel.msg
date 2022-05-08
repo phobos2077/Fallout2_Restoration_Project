@@ -1,74 +1,74 @@
-{100}{}{Você vê o guardião do cemitério do mosteiro.}
-{101}{}{Você vê o irmão Samuel, o guardião do cemitério.}
-{102}{}{Ele parece bêbado e um pouco sonolento.}
-{200}{}{* soluço * Por que, 'olá, meu nome é Samuel. O que, uh, * soluço * traz você aqui?}
-{201}{}{* soluço * Olá novamente.}
-{202}{}{Estou só dando uma olhada. Você cuida deste cemitério?}
-{203}{}{Você conhece um Padre Tully?}
-{204}{}{Padre Tully, você diz? [Ele parece estragar seu cérebro tentando lembrar.] Sim ... Eu * soluço * 'membro Tully.
-  Como é que esse cara está indo? Eu não o vi desde que ele foi expulso ha muito tempo * soluço * há muito tempo.
-  [Ele sorri embriagado enquanto ele reflete.] Menino, ele era uma piada. Ele e eu juntos, * soluço * isso era um combo.}
-{205}{}{Ele vive em New Reno agora, pregando a boa palavra, er, algo assim. Você sabe, vocês dois são muito parecidos.}
-{206}{}{Novo Reno, né? [Ele se inclina sobre sua pá, tira um pequeno frasco e toma um grande gole.] Eu o corrigia dizendo que ele
-  * soluço * siga assim dessa maneira. Estou feliz por ter conseguido chegar lá com segurança. Eu sempre * soluço * gostava desse cara. Uma verdadeira piada. Se vocês
-  Vê-lo novamente, diga a ele que Ol 'Sammy ainda está vivo e "chutando".}
+{100}{}{VocÃª vÃª o guardiÃ£o do cemitÃ©rio do mosteiro.}
+{101}{}{VocÃª vÃª o irmÃ£o Samuel, o guardiÃ£o do cemitÃ©rio.}
+{102}{}{Ele parece bÃªbado e um pouco sonolento.}
+{200}{}{* soluÃ§o * Por que, 'olÃ¡, meu nome Ã© Samuel. O que, uh, * soluÃ§o * traz vocÃª aqui?}
+{201}{}{* soluÃ§o * OlÃ¡ novamente.}
+{202}{}{Estou sÃ³ dando uma olhada. VocÃª cuida deste cemitÃ©rio?}
+{203}{}{VocÃª conhece um Padre Tully?}
+{204}{}{Padre Tully, vocÃª diz? [Ele parece estragar seu cÃ©rebro tentando lembrar.] Sim ... Eu * soluÃ§o * 'membro Tully.
+Â  Como Ã© que esse cara estÃ¡ indo? Eu nÃ£o o vi desde que ele foi expulso ha muito tempo * soluÃ§o * hÃ¡ muito tempo.
+Â  [Ele sorri embriagado enquanto ele reflete.] Menino, ele era uma piada. Ele e eu juntos, * soluÃ§o * isso era um combo.}
+{205}{}{Ele vive em New Reno agora, pregando a boa palavra, er, algo assim. VocÃª sabe, vocÃªs dois sÃ£o muito parecidos.}
+{206}{}{Novo Reno, nÃ©? [Ele se inclina sobre sua pÃ¡, tira um pequeno frasco e toma um grande gole.] Eu o corrigia dizendo que ele
+Â  * soluÃ§o * siga assim dessa maneira. Estou feliz por ter conseguido chegar lÃ¡ com seguranÃ§a. Eu sempre * soluÃ§o * gostava desse cara. Uma verdadeira piada. Se vocÃªs
+Â  VÃª-lo novamente, diga a ele que Ol 'Sammy ainda estÃ¡ vivo e "chutando".}
 {207}{}{Eu vou fazer isso. Eu tenho algumas outras perguntas embora.}
 {208}{}{Eu farei isso. Tenha cuidado Sam.}
-{209}{}{Deixa pra lá. Desculpe incomodá-lo.}
-{210}{}{Na verdade eu só ia dizer que ele envia suas saudações. Eu vou ter a certeza de lhe dizer que dice olá. Eu tenho algumas outras perguntas embora.}
-{211}{}{Na verdade, eu só ia dizer que ele enviava saudações. Eu vou ter certeza de dizer a ele que você também diz olá. Tenha cuidado Sam.}
-{300}{}{O que você *soluço* quer saber?}
-{301}{}{Você é o coveiro?}
-{302}{}{O que você pode me dizer sobre a Abadia?}
-{303}{}{Com o que posso ajudá-lo?}
-{400}{}{Sim, * soluço * Eu costumo cuidar das sepulturas. Ninguém mais quer * soluço * fazê-lo, então Ol 'Sammy obteve o trabalho. Está
-  não tão ruim como se poderia pensar. Tem suas ... vantagens, se você sabe o que quero dizer. [Ele sorri despreocupadamente e meneia o suas espessas
-  sobrancelhas para você.]}
-{401}{}{Não. Não sei o que quer dizer, e eu não quero. Tchau.}
-{402}{}{Não. Não sei o que você quer dizer. Mas acho que prefiro pedir outra coisa.}
-{403}{}{Não. Eu não sei o que você quer dizer, mas eu tenho uma mórbida curiosidade...}
-{404}{}{Inferior, sim. Nada me excita como um cadáver podre.}
-{410}{}{Por que, eu tenho que estar ao ar livre, e ninguém liga para o Sammy quando ele já bebeu o suficiente. Eu * sei * quando eu tenho
-  'exagerado ... quando' não há nenhum! [Ele engasga, o que rapidamente se transforma em uma tosse hedionda. Depois de tossir um pulmão
-  ou dois, ele sorri para você.]}
-{411}{}{Oh, de * certo * é o que você quis dizer. [Suspiro de alívio.] Deixe-me perguntar-lhe outra coisa, no entanto.}
-{420}{}{[Seus olhos se arregalam de choque e parece estar sóbrio.] Não é isso que quis dizer, você ... seu MONSTRO! DEMÔNIO!
-  Saia de perto de mim!  }
-{421}{}{Seja o que for, você é um velho bêbado foda-se. Você não sabe o que está perdendo.}
-{430}{}{Demônio ruim! Sai!}
-{500}{}{A Abadia, bem, este lugar * soluço * passei a maior parte da minha vida. todomundo é * soluço * é legal, e
-  Será bem-vindo, desde que eles * soluço * não causem problemas. Eu, eu mesmo, não gastei muito tempo no '
-  mona * soluço * -monasterio, mas eu sei que os nossos computadores têm todos os tipos de informações coletadas ao longo dos anos. Talvez
-  Um pouco disso * soluço * pode ser útil para você.}
-{501}{}{Você não gasta muito tempo na igreja? Você é um monge, não é?}
-{502}{}{[Ele sorri, revelando um conjunto cheio de dentes podres]. Bem, * soluço * digamos que os outros monges não lidam * soluço * muito gentilmente com meu hábito de beber.}
+{209}{}{Deixa pra lÃ¡. Desculpe incomodÃ¡-lo.}
+{210}{}{Na verdade eu sÃ³ ia dizer que ele envia suas saudaÃ§Ãµes. Eu vou ter a certeza de lhe dizer que dice olÃ¡. Eu tenho algumas outras perguntas embora.}
+{211}{}{Na verdade, eu sÃ³ ia dizer que ele enviava saudaÃ§Ãµes. Eu vou ter certeza de dizer a ele que vocÃª tambÃ©m diz olÃ¡. Tenha cuidado Sam.}
+{300}{}{O que vocÃª *soluÃ§o* quer saber?}
+{301}{}{VocÃª Ã© o coveiro?}
+{302}{}{O que vocÃª pode me dizer sobre a Abadia?}
+{303}{}{Com o que posso ajudÃ¡-lo?}
+{400}{}{Sim, * soluÃ§o * Eu costumo cuidar das sepulturas. NinguÃ©m mais quer * soluÃ§o * fazÃª-lo, entÃ£o Ol 'Sammy obteve o trabalho. EstÃ¡
+Â  nÃ£o tÃ£o ruim como se poderia pensar. Tem suas ... vantagens, se vocÃª sabe o que quero dizer. [Ele sorri despreocupadamente e meneia o suas espessas
+Â  sobrancelhas para vocÃª.]}
+{401}{}{NÃ£o. NÃ£o sei o que quer dizer, e eu nÃ£o quero. Tchau.}
+{402}{}{NÃ£o. NÃ£o sei o que vocÃª quer dizer. Mas acho que prefiro pedir outra coisa.}
+{403}{}{NÃ£o. Eu nÃ£o sei o que vocÃª quer dizer, mas eu tenho uma mÃ³rbida curiosidade...}
+{404}{}{Inferior, sim. Nada me excita como um cadÃ¡ver podre.}
+{410}{}{Por que, eu tenho que estar ao ar livre, e ninguÃ©m liga para o Sammy quando ele jÃ¡ bebeu o suficiente. Eu * sei * quando eu tenho
+Â  'exagerado ... quando' nÃ£o hÃ¡ nenhum! [Ele engasga, o que rapidamente se transforma em uma tosse hedionda. Depois de tossir um pulmÃ£o
+Â  ou dois, ele sorri para vocÃª.]}
+{411}{}{Oh, de * certo * Ã© o que vocÃª quis dizer. [Suspiro de alÃ­vio.] Deixe-me perguntar-lhe outra coisa, no entanto.}
+{420}{}{[Seus olhos se arregalam de choque e parece estar sÃ³brio.] NÃ£o Ã© isso que quis dizer, vocÃª ... seu MONSTRO! DEMÃ”NIO!
+Â  Saia de perto de mim!  }
+{421}{}{Seja o que for, vocÃª Ã© um velho bÃªbado foda-se. VocÃª nÃ£o sabe o que estÃ¡ perdendo.}
+{430}{}{DemÃ´nio ruim! Sai!}
+{500}{}{A Abadia, bem, este lugar * soluÃ§o * passei a maior parte da minha vida. todomundo Ã© * soluÃ§o * Ã© legal, e
+Â  SerÃ¡ bem-vindo, desde que eles * soluÃ§o * nÃ£o causem problemas. Eu, eu mesmo, nÃ£o gastei muito tempo no '
+Â  mona * soluÃ§o * -monasterio, mas eu sei que os nossos computadores tÃªm todos os tipos de informaÃ§Ãµes coletadas ao longo dos anos. Talvez
+Â  Um pouco disso * soluÃ§o * pode ser Ãºtil para vocÃª.}
+{501}{}{VocÃª nÃ£o gasta muito tempo na igreja? VocÃª Ã© um monge, nÃ£o Ã©?}
+{502}{}{[Ele sorri, revelando um conjunto cheio de dentes podres]. Bem, * soluÃ§o * digamos que os outros monges nÃ£o lidam * soluÃ§o * muito gentilmente com meu hÃ¡bito de beber.}
 {503}{}{Faz sentido, eu acho. Eu tenho mais algumas perguntas.}
-{504}{}{Acho que sim. Vejo você por ai, Sammy.}
+{504}{}{Acho que sim. Vejo vocÃª por ai, Sammy.}
 {505}{}{Eu vejo. Olha, eu preciso ir.}
-{600}{}{Hmmm ... * soluço * lemme ... pensando um minuto. Sim, talvez eu tenha algo, se você estiver disposto.}
-{601}{}{Uh, deixa pra lá Sam. Eu preciso ir agora.}
-{602}{}{Com certeza Sam, o que você precisa?}
-{603}{}{Bem, os últimos dias passados, eu acordei, percebi que algumas dessas sepulturas estavam desenterradas. Agora, quem está fazendo isso
-  não parecem estar chegando tão longe, mas é um * soluço * uma dor para preenchê-los de volta.}
-{604}{}{Hmm, bem, você tentou descobrir quem tem feito isso?}
-{605}{}{Claro * soluço * tentei. Uma noite, fiquei até a meia-noite, e ninguém apareceu. Devo ter adormecido
-  logo em seguida. Muita bebida eu suponho. [Ele sorri, tira o frasco e tira um gole robusto.] Então, o que você faz?
-  * soluço * digame? Você quer ajudar?}
-{606}{}{Tudo bem, eu vou ver o que posso fazer. Você sabe mais alguma coisa que me possa ajudar?}
-{607}{}{Bem, agora que você menciona isso, eu ouvi * soluço * ', Sr. Peterson, dizendo algo sobre ouvir alguns ruídos
-  de seu campo. Ele pode saber algo sobre isso. Ele e aquela linda e pequena esposa viviam bem ali.
-  [Ele aponta para a construção ao sul do cemitério.]}
+{600}{}{Hmmm ... * soluÃ§o * lemme ... pensando um minuto. Sim, talvez eu tenha algo, se vocÃª estiver disposto.}
+{601}{}{Uh, deixa pra lÃ¡ Sam. Eu preciso ir agora.}
+{602}{}{Com certeza Sam, o que vocÃª precisa?}
+{603}{}{Bem, os Ãºltimos dias passados, eu acordei, percebi que algumas dessas sepulturas estavam desenterradas. Agora, quem estÃ¡ fazendo isso
+Â  nÃ£o parecem estar chegando tÃ£o longe, mas Ã© um * soluÃ§o * uma dor para preenchÃª-los de volta.}
+{604}{}{Hmm, bem, vocÃª tentou descobrir quem tem feito isso?}
+{605}{}{Claro * soluÃ§o * tentei. Uma noite, fiquei atÃ© a meia-noite, e ninguÃ©m apareceu. Devo ter adormecido
+Â  logo em seguida. Muita bebida eu suponho. [Ele sorri, tira o frasco e tira um gole robusto.] EntÃ£o, o que vocÃª faz?
+Â  * soluÃ§o * digame? VocÃª quer ajudar?}
+{606}{}{Tudo bem, eu vou ver o que posso fazer. VocÃª sabe mais alguma coisa que me possa ajudar?}
+{607}{}{Bem, agora que vocÃª menciona isso, eu ouvi * soluÃ§o * ', Sr. Peterson, dizendo algo sobre ouvir alguns ruÃ­dos
+Â  de seu campo. Ele pode saber algo sobre isso. Ele e aquela linda e pequena esposa viviam bem ali.
+Â  [Ele aponta para a construÃ§Ã£o ao sul do cemitÃ©rio.]}
 {608}{}{Eu vou ver o que posso fazer.}
 {609}{}{Eu acho que eu vou passar. Devo estar indo.}
-{700}{}{Eu cuidei da situação de escavação dos túmulos. Você não deveria ter mais problemas aqui.}
-{701}{}{Bem, isso são * soluço * boas notícias. Fico feliz por não cair mais em túmulos abertos * soluço *. Obrigado pela ajuda.}
+{700}{}{Eu cuidei da situaÃ§Ã£o de escavaÃ§Ã£o dos tÃºmulos. VocÃª nÃ£o deveria ter mais problemas aqui.}
+{701}{}{Bem, isso sÃ£o * soluÃ§o * boas notÃ­cias. Fico feliz por nÃ£o cair mais em tÃºmulos abertos * soluÃ§o *. Obrigado pela ajuda.}
 {702}{}{Prazer em ajudar. Eu tenho algumas perguntas embora.}
 {703}{}{Bem, tome cuidado.}
-{704}{}{Eu não acho que sepulturas abertas são a verdadeira razão de você estar caindo Samuel, mas será fácil agora.}
+{704}{}{Eu nÃ£o acho que sepulturas abertas sÃ£o a verdadeira razÃ£o de vocÃª estar caindo Samuel, mas serÃ¡ fÃ¡cil agora.}
 {1000}{}{*Assobio*}
 {1001}{}{*Tosse* *Tosse*}
 {1002}{}{*Limpa a garganta*}
 {1003}{}{*Tosse*}
 {1004}{}{*Suspiro*}
-{1005}{}{*Soluço*}
-{2000}{}{Tem sido um * soluço * longo dia. Volte na manhã.}
+{1005}{}{*SoluÃ§o*}
+{2000}{}{Tem sido um * soluÃ§o * longo dia. Volte na manhÃ£.}

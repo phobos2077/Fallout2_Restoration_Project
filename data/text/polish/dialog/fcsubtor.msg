@@ -1,6 +1,6 @@
 {100}{}{Widzisz torpedy.}
-{101}{}{Te groŸnie wygl¹daj¹ce pociski s¹ po brzegi wype³nione materia³ami wybuchowymi. Obudowa jest skorodowana, a turbiny wygl¹daj¹ jakby mia³y zaraz odpaœæ.}
-{200}{}{Pomimo wygl¹du, ta torpeda jest ci¹gle niebezpieczn¹ broni¹. LuŸna turbina jest w rzeczywistoœci integraln¹ czêœci¹ jej systemu nawigacyjnego, daj¹cego jej niespotykan¹ manewrowoœæ. Wygl¹da, ¿e bêd¹ ci potrzebne narzêdzia ¿eby j¹ unieszkodliwiæ.}
-{210}{}{Dziêki dwóm wiekom gnicia, zardzewia³y napêd jest ³atwy do rozmontowania. Kilka chwil póŸniej, jest ponownie z³o¿ony, tym razem jest ca³kowicie nieruchomy.}
-{211}{}{Przerdzewia³y napêd jest dla ciebie zbyt du¿ym wyzwaniem. Nakrêtki siê zaciê³y i nie masz pojêcia jak go zdemontowaæ i siê przy tym nie poci¹æ.}
-{220}{}{Podk³adasz ³adunki wybuchowe przy kilku ³atwo wybuchaj¹cych torpedach. Dobrym pomys³em by³oby st¹d wiaæ.}
+{101}{}{Te groÅºnie wyglÄ…dajÄ…ce pociski sÄ… po brzegi wypeÅ‚nione materiaÅ‚ami wybuchowymi. Obudowa jest skorodowana, a turbiny wyglÄ…dajÄ… jakby miaÅ‚y zaraz odpaÅ›Ä‡.}
+{200}{}{Pomimo wyglÄ…du, ta torpeda jest ciÄ…gle niebezpiecznÄ… broniÄ…. LuÅºna turbina jest w rzeczywistoÅ›ci integralnÄ… czÄ™Å›ciÄ… jej systemu nawigacyjnego, dajÄ…cego jej niespotykanÄ… manewrowoÅ›Ä‡. WyglÄ…da, Å¼e bÄ™dÄ… ci potrzebne narzÄ™dzia Å¼eby jÄ… unieszkodliwiÄ‡.}
+{210}{}{DziÄ™ki dwÃ³m wiekom gnicia, zardzewiaÅ‚y napÄ™d jest Å‚atwy do rozmontowania. Kilka chwil pÃ³Åºniej, jest ponownie zÅ‚oÅ¼ony, tym razem jest caÅ‚kowicie nieruchomy.}
+{211}{}{PrzerdzewiaÅ‚y napÄ™d jest dla ciebie zbyt duÅ¼ym wyzwaniem. NakrÄ™tki siÄ™ zaciÄ™Å‚y i nie masz pojÄ™cia jak go zdemontowaÄ‡ i siÄ™ przy tym nie pociÄ…Ä‡.}
+{220}{}{PodkÅ‚adasz Å‚adunki wybuchowe przy kilku Å‚atwo wybuchajÄ…cych torpedach. Dobrym pomysÅ‚em byÅ‚oby stÄ…d wiaÄ‡.}

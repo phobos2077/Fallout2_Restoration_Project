@@ -1,40 +1,40 @@
-{100}{}{Tu vois un homme mince au teint hâlé.}
-{101}{}{Tu vois une fermière.}
-{102}{}{Tu remarques qu'il a le teint hâlé d'un fermier.}
-{103}{}{Tu arrives juste à temps. Avant, ça aurait été... Disons que, heureusement, tu arrives au bon moment. Nous n'avons pas grand-chose mais j'aimerais que tu acceptes ceci en récompense pour nous avoir aidés. [Il te tend quelque chose.]}
+{100}{}{Tu vois un homme mince au teint hÃ¢lÃ©.}
+{101}{}{Tu vois une fermiÃ¨re.}
+{102}{}{Tu remarques qu'il a le teint hÃ¢lÃ© d'un fermier.}
+{103}{}{Tu arrives juste Ã  temps. Avant, Ã§a aurait Ã©tÃ©... Disons que, heureusement, tu arrives au bon moment. Nous n'avons pas grand-chose mais j'aimerais que tu acceptes ceci en rÃ©compense pour nous avoir aidÃ©s. [Il te tend quelque chose.]}
 {104}{}{Merci.}
 {105}{}{Arg.}
-{106}{}{Merci encore de nous avoir aidés !}
+{106}{}{Merci encore de nous avoir aidÃ©s !}
 {107}{}{}
 {108}{}{}
-{109}{}{Laisse tes mains là où je peux les voir. Dernièrement, on a été tourmentés par des bandits, et je pense que tu pourrais être l'un d'eux. Que veux-tu ?}
-{110}{}{Je voulais seulement faire des échanges de provisions.}
+{109}{}{Laisse tes mains lÃ  oÃ¹ je peux les voir. DerniÃ¨rement, on a Ã©tÃ© tourmentÃ©s par des bandits, et je pense que tu pourrais Ãªtre l'un d'eux. Que veux-tu ?}
+{110}{}{Je voulais seulement faire des Ã©changes de provisions.}
 {111}{}{Je ne fais que passer. Je m'en vais.}
 {112}{}{Ug.}
-{113}{}{Eh bien, je ne vois aucun mal à ça. Voilà ce que j'ai à échanger.}
+{113}{}{Eh bien, je ne vois aucun mal Ã  Ã§a. VoilÃ  ce que j'ai Ã  Ã©changer.}
 {114}{}{[Troquer]}
 {115}{}{Bon, maintenant, casse-toi !}
 {116}{}{[Troquer]}
 {117}{}{J'ai dit "Casse-toi" !}
 {118}{}{}
-{119}{}{[Il se détend un peu.] Tu es trop bête pour être un bandit. Tu as besoin de provisions ?}
+{119}{}{[Il se dÃ©tend un peu.] Tu es trop bÃªte pour Ãªtre un bandit. Tu as besoin de provisions ?}
 {120}{}{Euh...}
-{121}{}{Hé, hé, hé !}
+{121}{}{HÃ©, hÃ©, hÃ© !}
 {122}{}{Bon, alors, on ne fait pas affaire ensemble. Passe ton chemin.}
 {123}{}{[FIN]}
 {124}{}{Quitte ma ferme !}
 {125}{}{Personne ne prendra ma maison !}
 {126}{}{Sale bandits !}
 {127}{}{Hors de mes terres !}
-{128}{}{On ne peut plus faire confiance à personne.}
-{129}{}{Saleté de bandits !}
-{130}{}{J'ai travaillé trop dur pour abandonner maintenant !}
-{131}{}{Je m'installerai peut-être ailleurs.}
+{128}{}{On ne peut plus faire confiance Ã  personne.}
+{129}{}{SaletÃ© de bandits !}
+{130}{}{J'ai travaillÃ© trop dur pour abandonner maintenant !}
+{131}{}{Je m'installerai peut-Ãªtre ailleurs.}
 {132}{}{Je ne suis qu'un pauvre fermier.}
-{133}{}{Pitié, ne mets pas le feu à ma ferme !!}
-{134}{}{Je n'aimais pas être fermier de toute façon.}
+{133}{}{PitiÃ©, ne mets pas le feu Ã  ma ferme !!}
+{134}{}{Je n'aimais pas Ãªtre fermier de toute faÃ§on.}
 {135}{}{Je reviendrai.}
 {136}{}{Prends ma femme, je t'en prie !}
-{200}{}{Tu vois une femme mince, au teint hâlé.}
-{201}{}{Tu vois une fermière.}
-{202}{}{Tu remarques qu'elle a le teint hâlé d'une fermière.}
+{200}{}{Tu vois une femme mince, au teint hÃ¢lÃ©.}
+{201}{}{Tu vois une fermiÃ¨re.}
+{202}{}{Tu remarques qu'elle a le teint hÃ¢lÃ© d'une fermiÃ¨re.}

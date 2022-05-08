@@ -1,1 +1,1 @@
-{100}{}{Egy patk·nyt l·tsz.}
+{100}{}{Egy patk√°nyt l√°tsz.}

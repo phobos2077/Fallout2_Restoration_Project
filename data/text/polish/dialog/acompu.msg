@@ -1,89 +1,89 @@
-{100}{}{Widzisz ma³y terminal komputerowy.}
+{100}{}{Widzisz maÅ‚y terminal komputerowy.}
 {101}{}{Widzisz komputerowy terminal Opactwa.}
-{102}{}{Widzisz ma³y terminal komputerowy. Wygl¹da na sprawny.}
-{103}{}{Logujesz siê do komputera i przeszukujesz wszystkie dostêpne pliki. Znajdujesz plik dotycz¹cy GECKa i Krypt.}
+{102}{}{Widzisz maÅ‚y terminal komputerowy. WyglÄ…da na sprawny.}
+{103}{}{Logujesz siÄ™ do komputera i przeszukujesz wszystkie dostÄ™pne pliki. Znajdujesz plik dotyczÄ…cy GECKa i Krypt.}
 {104}{}{Czytaj informacje o GECKu.}
 {105}{}{Czytaj informacje o Kryptach.}
-{106}{}{B³¹d! Nie znaleziono karty dostêpowej. Proszê umieœciæ kartê dostêpow¹ w szczelinie deszyfratora.}
-{107}{}{[Wk³adasz kartê do deszyfratora] BIIP!, karta przyjêta. £aduje Windê 2075......Zapraszamy.}
-{108}{}{WprowadŸ polecenie.}
+{106}{}{BÅ‚Ä…d! Nie znaleziono karty dostÄ™powej. ProszÄ™ umieÅ›ciÄ‡ kartÄ™ dostÄ™powÄ… w szczelinie deszyfratora.}
+{107}{}{[WkÅ‚adasz kartÄ™ do deszyfratora] BIIP!, karta przyjÄ™ta. Åaduje WindÄ™ 2075......Zapraszamy.}
+{108}{}{WprowadÅº polecenie.}
 {109}{}{Skanuj pliki w poszukiwaniu informacji na temat GECKa i Krypty 13.}
-{110}{}{Dostêp do innych plików.}
-{111}{}{Graj w Papier - No¿yce - Kamieñ.}
-{112}{}{Wróæ.}
+{110}{}{DostÄ™p do innych plikÃ³w.}
+{111}{}{Graj w Papier - NoÅ¼yce - KamieÅ„.}
+{112}{}{WrÃ³Ä‡.}
 {113}{}{Wyloguj.}
 {114}{}{[KONTYNUUJ]}
-{115}{}{Znajdujesz pliki dotycz¹ce GECKa i Krypt.}
+{115}{}{Znajdujesz pliki dotyczÄ…ce GECKa i Krypt.}
 {116}{}{Czytaj na temat GECKa.}
 {117}{}{Czytaj na temat Krypt.}
-{118}{}{Program do wyszukiwania plików wydaje siê zbyt skomplikowany dla ciebie.}
-{119}{}{Szeroko otwierasz oczy, a serce ci przyœpiesza kiedy odrywasz najprawdopodobniej star¹ reklamê Generatora Ekosystemu
- Cudownej Krainy. Film przedstawia kreskówk¹ uœmiechniêt¹ postaæ w kombinezonie mieszkañca Krypty trzymaj¹c¹ du¿¹ walizkê z napisem, “Zestaw Przetrwania”.
- Tak jakby ten uœmiechniêty bêkart siê z ciebie nabija³.}
-{120}{}{Przegl¹dasz pliki, które zawieraj¹ g³ównie rz¹dow¹ propagandê dotycz¹c¹ tego jak cudowne bêdzie ¿ycie w Krypcie.
- Dowiadujesz siê, ¿e w po³owie XXI wieku, rz¹d Stanów Zjednoczonych zleci³ korporacji KrypTech budowê 122 Krypt na terenie kraju.
- Krypty te mia³y daæ schronienie nawet dla 1000 amerykañskich obywateli na wypadek nuklearnej zag³ady. Bezpiecznie zamkniêci 
- w podziemnych Kryptach, mieszkañcy mogli wieœæ luksusowe ¿ycie i oczekiwaæ na sygna³ informuj¹cy, ¿e œwiat na powierzchni ponownie nadaje siê do zamieszkania.}
-{121}{}{W trakcie przeszukiwania zasobów znajdujesz setki zeskanowanych ksi¹¿ek i (lub) czasopism skatalogowanych na twardym dysku. Nawet nie wiesz gdzie zacz¹æ ¿eby znaleŸæ coœ u¿ytecznego.}
-{122}{}{W trakcie przeszukiwania zasobów znajdujesz setki zeskanowanych ksi¹¿ek i (lub) czasopism skatalogowanych na twardym dysku. Poniewa¿ wiesz jak pliki s¹ katalogowane, mo¿e szukanie po tematach da jakiœ rezultat.}
+{118}{}{Program do wyszukiwania plikÃ³w wydaje siÄ™ zbyt skomplikowany dla ciebie.}
+{119}{}{Szeroko otwierasz oczy, a serce ci przyÅ›piesza kiedy odrywasz najprawdopodobniej starÄ… reklamÄ™ Generatora Ekosystemu
+ Cudownej Krainy. Film przedstawia kreskÃ³wkÄ… uÅ›miechniÄ™tÄ… postaÄ‡ w kombinezonie mieszkaÅ„ca Krypty trzymajÄ…cÄ… duÅ¼Ä… walizkÄ™ z napisem, â€œZestaw Przetrwaniaâ€.
+ Tak jakby ten uÅ›miechniÄ™ty bÄ™kart siÄ™ z ciebie nabijaÅ‚.}
+{120}{}{PrzeglÄ…dasz pliki, ktÃ³re zawierajÄ… gÅ‚Ã³wnie rzÄ…dowÄ… propagandÄ™ dotyczÄ…cÄ… tego jak cudowne bÄ™dzie Å¼ycie w Krypcie.
+ Dowiadujesz siÄ™, Å¼e w poÅ‚owie XXI wieku, rzÄ…d StanÃ³w Zjednoczonych zleciÅ‚ korporacji KrypTech budowÄ™ 122 Krypt na terenie kraju.
+ Krypty te miaÅ‚y daÄ‡ schronienie nawet dla 1000 amerykaÅ„skich obywateli na wypadek nuklearnej zagÅ‚ady. Bezpiecznie zamkniÄ™ci 
+ w podziemnych Kryptach, mieszkaÅ„cy mogli wieÅ›Ä‡ luksusowe Å¼ycie i oczekiwaÄ‡ na sygnaÅ‚ informujÄ…cy, Å¼e Å›wiat na powierzchni ponownie nadaje siÄ™ do zamieszkania.}
+{121}{}{W trakcie przeszukiwania zasobÃ³w znajdujesz setki zeskanowanych ksiÄ…Å¼ek i (lub) czasopism skatalogowanych na twardym dysku. Nawet nie wiesz gdzie zaczÄ…Ä‡ Å¼eby znaleÅºÄ‡ coÅ› uÅ¼ytecznego.}
+{122}{}{W trakcie przeszukiwania zasobÃ³w znajdujesz setki zeskanowanych ksiÄ…Å¼ek i (lub) czasopism skatalogowanych na twardym dysku. PoniewaÅ¼ wiesz jak pliki sÄ… katalogowane, moÅ¼e szukanie po tematach da jakiÅ› rezultat.}
 {123}{}{[KONTYNUUJ]}
-{124}{}{Wed³ug przypisu, Zestaw zawiera “Podstawow¹ Jednostkê Replikuj¹c¹”, która “replikuje ¿ywnoœæ i proste przedmioty niezbêdne do budowy twojego nowego œwiata”, “Czytnik Holodysków z Bibliotek¹”, która “zawiera wybrane woluminy z Biblioteki Kongresu, kompletny zestaw encyklopedii,
- oraz inne niezbêdne do przetrwania informacje, wszystko zebrane na czterystu szeœædziesiêciu porêcznych holodyskach!”, w zestawie znajdujê siê równie¿ “Miniaturowy D³ugopis Latarka!”
- Z pewnoœci¹, to cudowne urz¹dzenie jest tym czego potrzebujesz, aby ocaliæ swoj¹ umieraj¹c¹ wioskê.}
+{124}{}{WedÅ‚ug przypisu, Zestaw zawiera â€œPodstawowÄ… JednostkÄ™ ReplikujÄ…cÄ…â€, ktÃ³ra â€œreplikuje Å¼ywnoÅ›Ä‡ i proste przedmioty niezbÄ™dne do budowy twojego nowego Å›wiataâ€, â€œCzytnik HolodyskÃ³w z BibliotekÄ…â€, ktÃ³ra â€œzawiera wybrane woluminy z Biblioteki Kongresu, kompletny zestaw encyklopedii,
+ oraz inne niezbÄ™dne do przetrwania informacje, wszystko zebrane na czterystu szeÅ›Ä‡dziesiÄ™ciu porÄ™cznych holodyskach!â€, w zestawie znajdujÄ™ siÄ™ rÃ³wnieÅ¼ â€œMiniaturowy DÅ‚ugopis Latarka!â€
+ Z pewnoÅ›ciÄ…, to cudowne urzÄ…dzenie jest tym czego potrzebujesz, aby ocaliÄ‡ swojÄ… umierajÄ…cÄ… wioskÄ™.}
 {125}{}{Czytaj dalej.}
-{126}{}{Szukasz dalej, ale jedyna wzmianka jak¹ znajdujesz na temat Krypty 13, wspomina tylko, ze znajduje siê ona w Kalifornii, co nie jest zbyt pomocne.}
-{130}{}{Dodaj informacjê.}
-{131}{}{[Nie masz co dodaæ.] Wróæ.}
-{132}{}{WprowadŸ informacje o Botanice.}
-{133}{}{WprowadŸ informacje [Blaaa].}
+{126}{}{Szukasz dalej, ale jedyna wzmianka jakÄ… znajdujesz na temat Krypty 13, wspomina tylko, ze znajduje siÄ™ ona w Kalifornii, co nie jest zbyt pomocne.}
+{130}{}{Dodaj informacjÄ™.}
+{131}{}{[Nie masz co dodaÄ‡.] WrÃ³Ä‡.}
+{132}{}{WprowadÅº informacje o Botanice.}
+{133}{}{WprowadÅº informacje [Blaaa].}
 {140}{}{Czytaj plik Pomocy/O.}
-{141}{}{Gratulacje uda³o ci siê poprawnie zainstalowaæ Windê 2075. Ta wersja jest najbardziej zaawansowan¹ i najnowsz¹ wersj¹ Windy. Z prawdopodobieñstwem jednego na milion b³êdu krytycznego potwierdzanego telefonicznie. Nasi technicy zapewniaj¹, ¿e Winda jest najlepszym systemem operacyjnym do zastosowañ biznesowych. Najnowszym dodatkiem do Windy 2075 jest ulepszony i podkrêcony kod Ÿród³owy, który poch³ania tylko 15% zasobów twojego procesora na procesy administracyjne dzia³aj¹ce w tle w przeciwieñstwie do poprzednich wersji poch³aniaj¹cych a¿ 25%. Ponownie wiele uwagi poœwiecono trosce o wygodê u¿ytkownika. Tak jak w poprzednich wersjach Windy popularne komendy jak Szukaj, Dodaj, Przenieœ, Usuñ, oraz format c: s¹ dostêpne dla u¿ytkownika.}
-{142}{}{Formatuj dysk systemowy i kopie zapasowe na hoœcie i maszynach sieciowych.}
-{143}{}{Wróæ.}
-{144}{}{Formatowanie kopii zapasowych...ZAKOÑCZONE POWODZENIEM...Formatowanie dysku systemowego...CZEKAJ...OSTRZE¯ENIE: Nast¹pi³ krytyczny b³¹d. Proszê czekaæ...}
+{141}{}{Gratulacje udaÅ‚o ci siÄ™ poprawnie zainstalowaÄ‡ WindÄ™ 2075. Ta wersja jest najbardziej zaawansowanÄ… i najnowszÄ… wersjÄ… Windy. Z prawdopodobieÅ„stwem jednego na milion bÅ‚Ä™du krytycznego potwierdzanego telefonicznie. Nasi technicy zapewniajÄ…, Å¼e Winda jest najlepszym systemem operacyjnym do zastosowaÅ„ biznesowych. Najnowszym dodatkiem do Windy 2075 jest ulepszony i podkrÄ™cony kod ÅºrÃ³dÅ‚owy, ktÃ³ry pochÅ‚ania tylko 15% zasobÃ³w twojego procesora na procesy administracyjne dziaÅ‚ajÄ…ce w tle w przeciwieÅ„stwie do poprzednich wersji pochÅ‚aniajÄ…cych aÅ¼ 25%. Ponownie wiele uwagi poÅ›wiecono trosce o wygodÄ™ uÅ¼ytkownika. Tak jak w poprzednich wersjach Windy popularne komendy jak Szukaj, Dodaj, PrzenieÅ›, UsuÅ„, oraz format c: sÄ… dostÄ™pne dla uÅ¼ytkownika.}
+{142}{}{Formatuj dysk systemowy i kopie zapasowe na hoÅ›cie i maszynach sieciowych.}
+{143}{}{WrÃ³Ä‡.}
+{144}{}{Formatowanie kopii zapasowych...ZAKOÅƒCZONE POWODZENIEM...Formatowanie dysku systemowego...CZEKAJ...OSTRZEÅ»ENIE: NastÄ…piÅ‚ krytyczny bÅ‚Ä…d. ProszÄ™ czekaÄ‡...}
 {145}{}{Zaczekaj.}
-{146}{}{...B³¹d Systemu: Operacja zakoñczona powodzeniem...(DŸwiêk drapania daje siê s³yszeæ z komputera, przy którym stoisz oraz wszystkich w pobli¿u.}
-{147}{}{[OdejdŸ.]}
-{148}{}{B³¹d: Nie znaleziono klawiatury. Proszê nacisn¹æ dowolny klawisz aby zresetowaæ.}
-{150}{}{Pobieranie danych z dysku informacyjnego Agencji Ochrony Œrodowiska z dziedziny Botaniki... Pobieranie zakoñczone. Mi³ego dnia.}
-{200}{}{Kamieñ, No¿yce, Papier wersja V.0.3. Wybierz opcje.}
-{201}{}{Wybierz KAMIEÑ.}
+{146}{}{...BÅ‚Ä…d Systemu: Operacja zakoÅ„czona powodzeniem...(DÅºwiÄ™k drapania daje siÄ™ sÅ‚yszeÄ‡ z komputera, przy ktÃ³rym stoisz oraz wszystkich w pobliÅ¼u.}
+{147}{}{[OdejdÅº.]}
+{148}{}{BÅ‚Ä…d: Nie znaleziono klawiatury. ProszÄ™ nacisnÄ…Ä‡ dowolny klawisz aby zresetowaÄ‡.}
+{150}{}{Pobieranie danych z dysku informacyjnego Agencji Ochrony Åšrodowiska z dziedziny Botaniki... Pobieranie zakoÅ„czone. MiÅ‚ego dnia.}
+{200}{}{KamieÅ„, NoÅ¼yce, Papier wersja V.0.3. Wybierz opcje.}
+{201}{}{Wybierz KAMIEÅƒ.}
 {202}{}{Wybierz PAPIER.}
-{203}{}{Wybierz NO¯YCE.}
-{204}{}{Wróæ do menu g³ównego.}
-{205}{}{Komputer dokonuje wyboru.....Obliczam.....Wygra³ komputer!}
-{206}{}{Komputer dokonuje wyboru.....Obliczam.....Wygra³ u¿ytkownik!}
+{203}{}{Wybierz NOÅ»YCE.}
+{204}{}{WrÃ³Ä‡ do menu gÅ‚Ã³wnego.}
+{205}{}{Komputer dokonuje wyboru.....Obliczam.....WygraÅ‚ komputer!}
+{206}{}{Komputer dokonuje wyboru.....Obliczam.....WygraÅ‚ uÅ¼ytkownik!}
 {207}{}{Komputer dokonuje wyboru.....Obliczam.....Remis!}
-{300}{}{[Komputer wyœwietla ró¿ne kolory.]}
-{301}{}{Ooo! Jakie ³adne kolorki.}
-{302}{}{Odcz³ap.}
+{300}{}{[Komputer wyÅ›wietla rÃ³Å¼ne kolory.]}
+{301}{}{Ooo! Jakie Å‚adne kolorki.}
+{302}{}{OdczÅ‚ap.}
 {400}{}{Czytaj dalej.}
-{401}{}{Wróæ do menu.}
+{401}{}{WrÃ³Ä‡ do menu.}
 {402}{}{Szukaj po tematach.}
 {403}{}{Wybierz temat do wyszukiwania.}
 {404}{}{Nauka.}
 {405}{}{Naprawa.}
 {406}{}{Medycyna.}
-{407}{}{U¿ycie broni.}
+{407}{}{UÅ¼ycie broni.}
 {408}{}{Argumenty Perswazji.}
-{410}{}{Po kilku godzinach czytania dowiadujesz siê wiêcej na temat nauki.}
-{411}{}{Po kilku godzinach czytania dowiadujesz siê wiêcej na temat naprawy maszyn.}
-{412}{}{Po kilku godzinach czytania dowiadujesz siê wiêcej na temat medycyny.}
-{413}{}{Po kilku godzinach czytania dowiadujesz siê wiêcej na temat pos³ugiwania siê broni¹.}
-{414}{}{Po kilku godzinach czytania dowiadujesz siê wiêcej na temat sztuki perswazji.}
-{420}{}{Po kilku godzinach czytania nie udaje ci siê nic wiêcej dowiedzieæ o nauce.}
-{421}{}{Po kilku godzinach czytania nie udaje ci siê nic wiêcej dowiedzieæ o naprawie maszyn.}
-{422}{}{Po kilku godzinach czytania nie udaje ci siê nic wiêcej dowiedzieæ o medycynie.}
-{423}{}{Po kilku godzinach czytania nie udaje ci siê nic wiêcej dowiedzieæ o strzelaniu z broni palnej.}
-{424}{}{Po kilku godzinach czytania nie udaje ci siê nic wiêcej dowiedzieæ o sztuce perswazji.}
-{430}{}{Wróæ.}
-{500}{}{Czytaj¹c dalsze artyku³y, dowiadujesz siê, ¿e GECK zosta³ opracowany przez Future-Tech, oddzia³ KrypTechu, i ¿e by³ standardowym wyposa¿eniem wszystkich Krypt Krypt-Techu. Mia³ byæ u¿yty po wyjœciu z Krypty, ¿eby u³atwiæ ¿ycie na powierzchni ziemi, zniszczonej przez wojnê atomow¹.}
-{501}{}{Czytaj¹c dalej odkrywasz, ¿e GECK nie jest takim cudownym urz¹dzeniem jak je przedstawiono w reklamie. “Podstawowy replikator”
- w³aœciwie jest niczym wiêcej jak systemem nawozów zawieraj¹cych nasiona roœlin jadalnych, suplementy gleby, oraz chemikalia maj¹ce
- zmieniæ ja³owe pustkowie w ¿yzn¹ ziemiê. Wed³ug tego co tu pisze, mo¿e “budowaæ podstawowe przedmioty”, wspomniane s¹ te¿ kody dla 
- urz¹dzeñ Krypty, pozwalaj¹ce im tworzyæ nowe przedmioty w dyspozytorach. GECK zawiera równie¿ schematy prostych emiterów pól si³owych, oraz plany wznoszenia z “piaskowca” murów i budynków.}
+{410}{}{Po kilku godzinach czytania dowiadujesz siÄ™ wiÄ™cej na temat nauki.}
+{411}{}{Po kilku godzinach czytania dowiadujesz siÄ™ wiÄ™cej na temat naprawy maszyn.}
+{412}{}{Po kilku godzinach czytania dowiadujesz siÄ™ wiÄ™cej na temat medycyny.}
+{413}{}{Po kilku godzinach czytania dowiadujesz siÄ™ wiÄ™cej na temat posÅ‚ugiwania siÄ™ broniÄ….}
+{414}{}{Po kilku godzinach czytania dowiadujesz siÄ™ wiÄ™cej na temat sztuki perswazji.}
+{420}{}{Po kilku godzinach czytania nie udaje ci siÄ™ nic wiÄ™cej dowiedzieÄ‡ o nauce.}
+{421}{}{Po kilku godzinach czytania nie udaje ci siÄ™ nic wiÄ™cej dowiedzieÄ‡ o naprawie maszyn.}
+{422}{}{Po kilku godzinach czytania nie udaje ci siÄ™ nic wiÄ™cej dowiedzieÄ‡ o medycynie.}
+{423}{}{Po kilku godzinach czytania nie udaje ci siÄ™ nic wiÄ™cej dowiedzieÄ‡ o strzelaniu z broni palnej.}
+{424}{}{Po kilku godzinach czytania nie udaje ci siÄ™ nic wiÄ™cej dowiedzieÄ‡ o sztuce perswazji.}
+{430}{}{WrÃ³Ä‡.}
+{500}{}{CzytajÄ…c dalsze artykuÅ‚y, dowiadujesz siÄ™, Å¼e GECK zostaÅ‚ opracowany przez Future-Tech, oddziaÅ‚ KrypTechu, i Å¼e byÅ‚ standardowym wyposaÅ¼eniem wszystkich Krypt Krypt-Techu. MiaÅ‚ byÄ‡ uÅ¼yty po wyjÅ›ciu z Krypty, Å¼eby uÅ‚atwiÄ‡ Å¼ycie na powierzchni ziemi, zniszczonej przez wojnÄ™ atomowÄ….}
+{501}{}{CzytajÄ…c dalej odkrywasz, Å¼e GECK nie jest takim cudownym urzÄ…dzeniem jak je przedstawiono w reklamie. â€œPodstawowy replikatorâ€
+ wÅ‚aÅ›ciwie jest niczym wiÄ™cej jak systemem nawozÃ³w zawierajÄ…cych nasiona roÅ›lin jadalnych, suplementy gleby, oraz chemikalia majÄ…ce
+ zmieniÄ‡ jaÅ‚owe pustkowie w Å¼yznÄ… ziemiÄ™. WedÅ‚ug tego co tu pisze, moÅ¼e â€œbudowaÄ‡ podstawowe przedmiotyâ€, wspomniane sÄ… teÅ¼ kody dla 
+ urzÄ…dzeÅ„ Krypty, pozwalajÄ…ce im tworzyÄ‡ nowe przedmioty w dyspozytorach. GECK zawiera rÃ³wnieÅ¼ schematy prostych emiterÃ³w pÃ³l siÅ‚owych, oraz plany wznoszenia z â€œpiaskowcaâ€ murÃ³w i budynkÃ³w.}
 {502}{}{[KONTYNUUJ]}
-{503}{}{Wygl¹da na to, ¿e GECK w trakcie u¿ywania zostaje roz³o¿ony na czêœci. Czytasz przyk³ad jak jego Ÿród³o zasilania dzia³aj¹ce na zasadzie zimnej fuzji, mo¿e zostaæ wykorzystane jako g³ówne Ÿród³o energii dla miasta. GECK zawiera nawet instrukcje jak wykorzystaæ
- elementy Krypty do budowy domów i instalacji obronnych dla nowej spo³ecznoœci. Koñcz¹c czytanie stwierdzasz, ¿e choæ nie jest to tak cudowne, magiczne urz¹dzenie jak uwa¿a Starsza, to znalezienie GECKa ci¹gle jest najlepsz¹ opcj¹ ratowania twojego plemienia.}
-{1000}{}{Skopiowa³eœ Holodysk AOŒ Botanicznego.}
-{2000}{}{Sformatowa³eœ bazê danynch Opactwa.}
+{503}{}{WyglÄ…da na to, Å¼e GECK w trakcie uÅ¼ywania zostaje rozÅ‚oÅ¼ony na czÄ™Å›ci. Czytasz przykÅ‚ad jak jego ÅºrÃ³dÅ‚o zasilania dziaÅ‚ajÄ…ce na zasadzie zimnej fuzji, moÅ¼e zostaÄ‡ wykorzystane jako gÅ‚Ã³wne ÅºrÃ³dÅ‚o energii dla miasta. GECK zawiera nawet instrukcje jak wykorzystaÄ‡
+ elementy Krypty do budowy domÃ³w i instalacji obronnych dla nowej spoÅ‚ecznoÅ›ci. KoÅ„czÄ…c czytanie stwierdzasz, Å¼e choÄ‡ nie jest to tak cudowne, magiczne urzÄ…dzenie jak uwaÅ¼a Starsza, to znalezienie GECKa ciÄ…gle jest najlepszÄ… opcjÄ… ratowania twojego plemienia.}
+{1000}{}{SkopiowaÅ‚eÅ› Holodysk AOÅš Botanicznego.}
+{2000}{}{SformatowaÅ‚eÅ› bazÄ™ danynch Opactwa.}

@@ -1,38 +1,38 @@
 {100}{}{Voici une sorte de panneau.}
 {101}{}{Tu vois le panneau d'affichage de Klamath.}
-{102}{}{Des petites annonces et des offres d'emploi sont punaisées sur le panneau. Certaines sont accrochées là depuis un certain temps.}
-{110}{}{Il y a plusieurs choses sur ce panneau : des petites annonces, des offres d'emploi et même un dessin. On dirait qu'ils ont été affichés il y a un certain temps.}
-{120}{}{Je vais voir ce dessin de plus près.}
+{102}{}{Des petites annonces et des offres d'emploi sont punaisÃ©es sur le panneau. Certaines sont accrochÃ©es lÃ  depuis un certain temps.}
+{110}{}{Il y a plusieurs choses sur ce panneau : des petites annonces, des offres d'emploi et mÃªme un dessin. On dirait qu'ils ont Ã©tÃ© affichÃ©s il y a un certain temps.}
+{120}{}{Je vais voir ce dessin de plus prÃ¨s.}
 {130}{}{Cool... On dirait un truc sur la bibine.}
-{140}{}{Quelque chose à propos d'un bain.}
-{150}{}{Quelqu'un qui veut acheter des peaux de lézards...}
+{140}{}{Quelque chose Ã  propos d'un bain.}
+{150}{}{Quelqu'un qui veut acheter des peaux de lÃ©zards...}
 {160}{}{Tiens, quelque chose sur les rats...}
 {170}{}{Des trucs sur des vieilleries du coin.}
 {180}{}{On dirait que quelqu'un a disparu.}
-{190}{}{[Terminé]}
-{210}{}{On dirait que ce dessin représente une Brahmine avec un grand X marqué dessus et l'inscription TORR griffonnée au dessous.}
+{190}{}{[TerminÃ©]}
+{210}{}{On dirait que ce dessin reprÃ©sente une Brahmine avec un grand X marquÃ© dessus et l'inscription TORR griffonnÃ©e au dessous.}
 {220}{}{Je vais jeter un coup d'oeil sur une autre affiche.}
 {230}{}{J'ai eu tous les renseignements que je voulais pour le moment.}
-{240}{}{La bibine, ça vous intéresse, pas vrai ? Cause jambe estropiée cherche personne rapide et consciencieuse pour ravitailler chaudière d'alambic. Demander Whiskey Bob chez M'dame Buckner. }
+{240}{}{La bibine, Ã§a vous intÃ©resse, pas vrai ? Cause jambe estropiÃ©e cherche personne rapide et consciencieuse pour ravitailler chaudiÃ¨re d'alambic. Demander Whiskey Bob chez M'dame Buckner. }
 {250}{}{Je vais jeter un coup d'oeil sur une autre affiche.}
 {260}{}{J'ai eu tous les renseignements que je voulais pour le moment.}
-{270}{}{Avez-vous vu Souriant, le trappeur ? Il mesure environ un mètre quatre-vingt-dix. Il est propre et (presque toujours) obéissant. Il a disparu dans le Nord, et il me manque quand même un peu. - Ardin Buckner.}
+{270}{}{Avez-vous vu Souriant, le trappeur ? Il mesure environ un mÃ¨tre quatre-vingt-dix. Il est propre et (presque toujours) obÃ©issant. Il a disparu dans le Nord, et il me manque quand mÃªme un peu. - Ardin Buckner.}
 {280}{}{Je vais jeter un coup d'oeil sur une autre affiche.}
 {290}{}{J'ai eu tous les renseignements que je voulais pour le moment.}
-{310}{}{Des super dollars pour des super peaux ! Vous avez des peaux de geckos ? J'ai des $ $ $. Les peaux de geckos dorés sont particulièrement appréciées. Venez me voir ! - Sajag, propriétaire et gérant de la Taverne du Gecko Doré.}
+{310}{}{Des super dollars pour des super peaux ! Vous avez des peaux de geckos ? J'ai des $ $ $. Les peaux de geckos dorÃ©s sont particuliÃ¨rement apprÃ©ciÃ©es. Venez me voir ! - Sajag, propriÃ©taire et gÃ©rant de la Taverne du Gecko DorÃ©.}
 {320}{}{Je vais jeter un coup d'oeil sur une autre affiche.}
 {330}{}{J'ai eu tous les renseignements que je voulais pour le moment.}
-{340}{}{Il y a bien trop de rats à Trapper Town ! Venez les chercher ! Vous en mangerez autant que vous pourrez ! -- Fin Picket.}
+{340}{}{Il y a bien trop de rats Ã  Trapper Town ! Venez les chercher ! Vous en mangerez autant que vous pourrez ! -- Fin Picket.}
 {350}{}{Je vais jeter un coup d'oeil sur une autre affiche.}
 {360}{}{J'ai eu tous les renseignements que je voulais pour le moment.}
-{370}{}{Vous vous sentez crasseux ? Rien de tel qu'un bon bain ! Trois options coquines au choix ! En vedette : la très belle et très talentueuse Jenny (jeune recrue de La Fosse). - Renseignements auprès de Sally La Fouine, aux Bains-douches.}
+{370}{}{Vous vous sentez crasseux ? Rien de tel qu'un bon bain ! Trois options coquines au choix ! En vedette : la trÃ¨s belle et trÃ¨s talentueuse Jenny (jeune recrue de La Fosse). - Renseignements auprÃ¨s de Sally La Fouine, aux Bains-douches.}
 {380}{}{Je vais jeter un coup d'oeil sur une autre affiche.}
 {390}{}{J'ai eu tous les renseignements que je voulais pour le moment.}
-{400}{}{Vraies antikités authentikes. On les fabrique plus comme avant. D'ailleurs, on les fabrique plus du tout ! Si vous cherchez des bons vieux machins, contactez Vic, le marchand - Quartier Est du centre-ville.}
+{400}{}{Vraies antikitÃ©s authentikes. On les fabrique plus comme avant. D'ailleurs, on les fabrique plus du tout ! Si vous cherchez des bons vieux machins, contactez Vic, le marchand - Quartier Est du centre-ville.}
 {410}{}{Je vais jeter un coup d'oeil sur une autre affiche.}
 {420}{}{J'ai eu tous les renseignements que je voulais pour le moment.}
-{430}{}{Tu vois un morceau de bois sur lequel des bouts de papier sont punaisés. Tous les papiers sauf un ont ces petites marques énervantes à forme d'insectes. Ouf ! Quelle fatigue ! Tu devrais trouver une activité moins éprouvante.}
-{440}{}{Torr... (Tu regardes la seule annonce qui te paraisse compréhensible.)}
-{450}{}{Okéé.}
-{460}{}{Un dessin qui représente le corps d'une Brahmine marqué d'un grand X. L'inscription TORR est griffonnée en dessous. (Pas aussi artistique qu'à Lascaux, mais le sens est assez clair.)}
-{470}{}{Eruu. (Eh bien, en clair, un pauvre gars nommé Torr a besoin d'aide pour ses Brahmines.)}
+{430}{}{Tu vois un morceau de bois sur lequel des bouts de papier sont punaisÃ©s. Tous les papiers sauf un ont ces petites marques Ã©nervantes Ã  forme d'insectes. Ouf ! Quelle fatigue ! Tu devrais trouver une activitÃ© moins Ã©prouvante.}
+{440}{}{Torr... (Tu regardes la seule annonce qui te paraisse comprÃ©hensible.)}
+{450}{}{OkÃ©Ã©.}
+{460}{}{Un dessin qui reprÃ©sente le corps d'une Brahmine marquÃ© d'un grand X. L'inscription TORR est griffonnÃ©e en dessous. (Pas aussi artistique qu'Ã  Lascaux, mais le sens est assez clair.)}
+{470}{}{Eruu. (Eh bien, en clair, un pauvre gars nommÃ© Torr a besoin d'aide pour ses Brahmines.)}

@@ -1,100 +1,100 @@
-{100}{}{Atyaég! Egy hihetetlenül formás és vonzó n?.}
+{100}{}{AtyaÃ©g! Egy hihetetlenÃ¼l formÃ¡s Ã©s vonzÃ³ n?.}
 {101}{}{You see Miria.}
-{102}{}{Nem tudod miért, de a 90-60-90-es méretek jutnak eszedbe.}
+{102}{}{Nem tudod miÃ©rt, de a 90-60-90-es mÃ©retek jutnak eszedbe.}
 {150}{}{Kurva!}
-{151}{}{Hogy mered idetolni a képed?}
-{152}{}{Hát ez nem normális dolog!}
-{153}{}{Remélem, ti ketten jól elvagytok.}
-{154}{}{Üdv nálunk. Miria vagyok.}
-{155}{}{Annyira örülök, hogy visszajöttél. Mit tehetnék érted?}
-{156}{}{Mit csinál itt, jóember?}
-{157}{}{Mit tudsz mondani a mészárszékr?l?}
-{158}{}{Hallottál jó kis pletykákat?}
+{151}{}{Hogy mered idetolni a kÃ©ped?}
+{152}{}{HÃ¡t ez nem normÃ¡lis dolog!}
+{153}{}{RemÃ©lem, ti ketten jÃ³l elvagytok.}
+{154}{}{Ãœdv nÃ¡lunk. Miria vagyok.}
+{155}{}{Annyira Ã¶rÃ¼lÃ¶k, hogy visszajÃ¶ttÃ©l. Mit tehetnÃ©k Ã©rted?}
+{156}{}{Mit csinÃ¡l itt, jÃ³ember?}
+{157}{}{Mit tudsz mondani a mÃ©szÃ¡rszÃ©kr?l?}
+{158}{}{HallottÃ¡l jÃ³ kis pletykÃ¡kat?}
 {159}{}{Hubba! Hubba!}
-{160}{}{Ha nem unatkoznék annyira, azt mondanám, nem. Na, mindegy, kérdezz csak.}
-{164}{}{Azt csiripelik a madarak, hogy Farrel lopta el az órát.}
-{165}{}{Miért lopta volna el Farrel az órát?}
-{166}{}{Farrel véletlenül nem Cornelius legjobb barátja?}
-{167}{}{Ha tudsz, mondj még pletykákat légyszi.}
-{168}{}{Mert a szegények hajlamosak lopni a megélhetésük érdekében. Farrel határozottan a szegény kategóriába tartozik, és ez megmagyarázná, hogy miután Cornelius órája elt?nt, képes volt új szerszámokat venni, }
-{170}{}{Feltehetek további kérdéseket?}
-{171}{}{Igen, azok ketten sülve-f?ve együtt voltak. Ezért gondolom, hogy Farrel lopta el az órát. Rajta kívül ki más lenne képes bejutni hozzá, hogy elemelje Cornelius óráját?}
-{174}{}{Semmi különöset nem tudok mondani róla. A mészárszék a családomé. Az emberek mindenhonnan idehozzák a brahminjaikat levágás céljából. Miután levágták ?ket, és a húst feldolgozták, a keresked?k megveszik és eladják a különböz? városok boltosainak. Nagyon uncsi munka, ha engem kérdezel.}
-{176}{}{A legjobb helyen jársz. Ez a város olyan mocskosul uncsi, hogy mást sem lehet itt csinálni, mint pletykálkodni és... [Egy darabig folyamatosan beszél valamit, aztán hirtelen visszazökkensz a kerékvágásba.]}
-{177}{}{Mit szeretnél még tudni?}
-{178}{}{Mit tudsz Cornelius elt?nt órájáról?}
-{179}{}{Említettél valamit Rose-ról?}
-{180}{}{Mi van ezzel a mutáns brahminnal?}
-{181}{}{Mesélj valamit Davin barátunkról.}
+{160}{}{Ha nem unatkoznÃ©k annyira, azt mondanÃ¡m, nem. Na, mindegy, kÃ©rdezz csak.}
+{164}{}{Azt csiripelik a madarak, hogy Farrel lopta el az Ã³rÃ¡t.}
+{165}{}{MiÃ©rt lopta volna el Farrel az Ã³rÃ¡t?}
+{166}{}{Farrel vÃ©letlenÃ¼l nem Cornelius legjobb barÃ¡tja?}
+{167}{}{Ha tudsz, mondj mÃ©g pletykÃ¡kat lÃ©gyszi.}
+{168}{}{Mert a szegÃ©nyek hajlamosak lopni a megÃ©lhetÃ©sÃ¼k Ã©rdekÃ©ben. Farrel hatÃ¡rozottan a szegÃ©ny kategÃ³riÃ¡ba tartozik, Ã©s ez megmagyarÃ¡znÃ¡, hogy miutÃ¡n Cornelius Ã³rÃ¡ja elt?nt, kÃ©pes volt Ãºj szerszÃ¡mokat venni, }
+{170}{}{Feltehetek tovÃ¡bbi kÃ©rdÃ©seket?}
+{171}{}{Igen, azok ketten sÃ¼lve-f?ve egyÃ¼tt voltak. EzÃ©rt gondolom, hogy Farrel lopta el az Ã³rÃ¡t. Rajta kÃ­vÃ¼l ki mÃ¡s lenne kÃ©pes bejutni hozzÃ¡, hogy elemelje Cornelius Ã³rÃ¡jÃ¡t?}
+{174}{}{Semmi kÃ¼lÃ¶nÃ¶set nem tudok mondani rÃ³la. A mÃ©szÃ¡rszÃ©k a csalÃ¡domÃ©. Az emberek mindenhonnan idehozzÃ¡k a brahminjaikat levÃ¡gÃ¡s cÃ©ljÃ¡bÃ³l. MiutÃ¡n levÃ¡gtÃ¡k ?ket, Ã©s a hÃºst feldolgoztÃ¡k, a keresked?k megveszik Ã©s eladjÃ¡k a kÃ¼lÃ¶nbÃ¶z? vÃ¡rosok boltosainak. Nagyon uncsi munka, ha engem kÃ©rdezel.}
+{176}{}{A legjobb helyen jÃ¡rsz. Ez a vÃ¡ros olyan mocskosul uncsi, hogy mÃ¡st sem lehet itt csinÃ¡lni, mint pletykÃ¡lkodni Ã©s... [Egy darabig folyamatosan beszÃ©l valamit, aztÃ¡n hirtelen visszazÃ¶kkensz a kerÃ©kvÃ¡gÃ¡sba.]}
+{177}{}{Mit szeretnÃ©l mÃ©g tudni?}
+{178}{}{Mit tudsz Cornelius elt?nt Ã³rÃ¡jÃ¡rÃ³l?}
+{179}{}{EmlÃ­tettÃ©l valamit Rose-rÃ³l?}
+{180}{}{Mi van ezzel a mutÃ¡ns brahminnal?}
+{181}{}{MesÃ©lj valamit Davin barÃ¡tunkrÃ³l.}
 {182}{}{Let's talk about something else.}
-{183}{}{Ah, Rose. A panzió tulajdonosa. Hát nem t?lem hallottad, de elgondolkodtál már valaha azon, minek ?rzi annyira a tyúkólját? Azt állítja, hogy a csirkéket védi a ragadozóktól, de ha közelebbr?l megnézed, olyan, mintha valaki inkább bent szeretne tartani valamit, nem kinn. Ezenkívül ki hallott már tízkilós tyúktojásokról?}
-{184}{}{Mesélj még pletykákat, ha tudsz!}
-{186}{}{Különös, de hallottam néhány tenyészt?t?l, hogy néha-néha valamelyik brahminjuk csak egyfej? borjat ellik. Nem semmi!}
-{189}{}{Ez családi téma. Nem pletykálkodom a saját családomról.}
-{192}{}{Rám gondolsz? Elvállalok fura munkákat itt is ott is. Egyikr?l sem érdemes beszélni [Végigfuttatja a szemét rajtad.]}
-{193}{}{Igazán szeretnék többet megtudni rólad.}
-{194}{}{Igazad van, elég a beszédb?l! Húzzunk bele! Tudom, hogy akarod.}
-{196}{}{Most tényleg meghatódtam. Soha senki nem akar rólam többet tudni. Mindig csak ugyanazt akarják: szex, szex, szex! Annyira fáraszt már, hogy folyton csak szexelek. Örülök, hogy te más vagy, mint a többi.}
+{183}{}{Ah, Rose. A panziÃ³ tulajdonosa. HÃ¡t nem t?lem hallottad, de elgondolkodtÃ¡l mÃ¡r valaha azon, minek ?rzi annyira a tyÃºkÃ³ljÃ¡t? Azt Ã¡llÃ­tja, hogy a csirkÃ©ket vÃ©di a ragadozÃ³ktÃ³l, de ha kÃ¶zelebbr?l megnÃ©zed, olyan, mintha valaki inkÃ¡bb bent szeretne tartani valamit, nem kinn. EzenkÃ­vÃ¼l ki hallott mÃ¡r tÃ­zkilÃ³s tyÃºktojÃ¡sokrÃ³l?}
+{184}{}{MesÃ©lj mÃ©g pletykÃ¡kat, ha tudsz!}
+{186}{}{KÃ¼lÃ¶nÃ¶s, de hallottam nÃ©hÃ¡ny tenyÃ©szt?t?l, hogy nÃ©ha-nÃ©ha valamelyik brahminjuk csak egyfej? borjat ellik. Nem semmi!}
+{189}{}{Ez csalÃ¡di tÃ©ma. Nem pletykÃ¡lkodom a sajÃ¡t csalÃ¡domrÃ³l.}
+{192}{}{RÃ¡m gondolsz? ElvÃ¡llalok fura munkÃ¡kat itt is ott is. Egyikr?l sem Ã©rdemes beszÃ©lni [VÃ©gigfuttatja a szemÃ©t rajtad.]}
+{193}{}{IgazÃ¡n szeretnÃ©k tÃ¶bbet megtudni rÃ³lad.}
+{194}{}{Igazad van, elÃ©g a beszÃ©db?l! HÃºzzunk bele! Tudom, hogy akarod.}
+{196}{}{Most tÃ©nyleg meghatÃ³dtam. Soha senki nem akar rÃ³lam tÃ¶bbet tudni. Mindig csak ugyanazt akarjÃ¡k: szex, szex, szex! Annyira fÃ¡raszt mÃ¡r, hogy folyton csak szexelek. Ã–rÃ¼lÃ¶k, hogy te mÃ¡s vagy, mint a tÃ¶bbi.}
 {197}{}{Te ribanc! Egy pillanatra azt hittem, emberb?l vagy.}
-{198}{}{Tudod, csak egy hétköznapi srác vagyok, mint bárki más. A barátaim azt mondják: "}
-{199}{}{, annyira király dolog, hogy ilyen hétköznapi fickó vagy." Igen, hétköznapi, ez a legjobb szó.}
-{200}{}{Igazából még sosem találkoztam hozzád hasonló érdekes emberrel.}
-{202}{}{Miben sántikálsz? Hova akarsz kilyukadni?}
-{203}{}{Asszem, tudod, mir?l beszélek, bébi. Sejted, hogy err?l van szó... [Mosolyogsz és elkezdesz levetk?zni.]}
-{204}{}{Felejtsd el! Sajnálom. Nem akartam sehova sem kilyukadni.}
-{205}{}{Hogy mersz ribancnak nevezni?! Elmondanám, hogy nagyon megválogatom, kivel fekszem le. Egyébként ebben a hónapban jó ha tíz vagy húsz emberrel feküdtem le. Azt hiszem, befejezhetjük a beszélgetést!}
-{206}{}{Csalódott vagyok. Ugyanolyan vagy te mint a többi, nem igaz?}
-{208}{}{Nem, nem hiszem. Fáraszt ez a beszélgetés, viszlát!}
-{209}{}{[Elpirul.] Hagyd abba, zavarba hozol. A legédesebb vagy, akivel valaha találkoztam. Miért nem jössz közelebb és ülsz mellém?}
-{210}{}{Asszem, ez már túl sok nekem. Nem tudnánk csak egyszer?en beszélgetni?}
+{198}{}{Tudod, csak egy hÃ©tkÃ¶znapi srÃ¡c vagyok, mint bÃ¡rki mÃ¡s. A barÃ¡taim azt mondjÃ¡k: "}
+{199}{}{, annyira kirÃ¡ly dolog, hogy ilyen hÃ©tkÃ¶znapi fickÃ³ vagy." Igen, hÃ©tkÃ¶znapi, ez a legjobb szÃ³.}
+{200}{}{IgazÃ¡bÃ³l mÃ©g sosem talÃ¡lkoztam hozzÃ¡d hasonlÃ³ Ã©rdekes emberrel.}
+{202}{}{Miben sÃ¡ntikÃ¡lsz? Hova akarsz kilyukadni?}
+{203}{}{Asszem, tudod, mir?l beszÃ©lek, bÃ©bi. Sejted, hogy err?l van szÃ³... [Mosolyogsz Ã©s elkezdesz levetk?zni.]}
+{204}{}{Felejtsd el! SajnÃ¡lom. Nem akartam sehova sem kilyukadni.}
+{205}{}{Hogy mersz ribancnak nevezni?! ElmondanÃ¡m, hogy nagyon megvÃ¡logatom, kivel fekszem le. EgyÃ©bkÃ©nt ebben a hÃ³napban jÃ³ ha tÃ­z vagy hÃºsz emberrel fekÃ¼dtem le. Azt hiszem, befejezhetjÃ¼k a beszÃ©lgetÃ©st!}
+{206}{}{CsalÃ³dott vagyok. Ugyanolyan vagy te mint a tÃ¶bbi, nem igaz?}
+{208}{}{Nem, nem hiszem. FÃ¡raszt ez a beszÃ©lgetÃ©s, viszlÃ¡t!}
+{209}{}{[Elpirul.] Hagyd abba, zavarba hozol. A legÃ©desebb vagy, akivel valaha talÃ¡lkoztam. MiÃ©rt nem jÃ¶ssz kÃ¶zelebb Ã©s Ã¼lsz mellÃ©m?}
+{210}{}{Asszem, ez mÃ¡r tÃºl sok nekem. Nem tudnÃ¡nk csak egyszer?en beszÃ©lgetni?}
 {211}{}{I thought you'd never ask. Why don't we get a little more comfortable?}
-{212}{}{Rendben! Tudod, mit akarok, bébi!}
-{213}{}{Ribanc vagy te a javából!}
-{214}{}{Ezt nem bírom tovább! Akarlak. [Lerángatja a ruháit, aztán a tiédet, és...]}
-{215}{}{[A világ már sosem lesz olyan, mint azel?tt.]}
-{216}{}{Jobb lenne, ha nem azt jelentené, amire gondolok.}
-{217}{}{Aúga!}
-{218}{}{Örgh?}
+{212}{}{Rendben! Tudod, mit akarok, bÃ©bi!}
+{213}{}{Ribanc vagy te a javÃ¡bÃ³l!}
+{214}{}{Ezt nem bÃ­rom tovÃ¡bb! Akarlak. [LerÃ¡ngatja a ruhÃ¡it, aztÃ¡n a tiÃ©det, Ã©s...]}
+{215}{}{[A vilÃ¡g mÃ¡r sosem lesz olyan, mint azel?tt.]}
+{216}{}{Jobb lenne, ha nem azt jelentenÃ©, amire gondolok.}
+{217}{}{AÃºga!}
+{218}{}{Ã–rgh?}
 {219}{}{Yup! That's what I thought. It's funny how Neanderthal and civilized speech crosses roads on
  this subject. [You don't even see it coming. But you're sure the red hand print on your face will
  disappear someday.]}
-{250}{}{Segíts, Apu! Vidd innen!}
+{250}{}{SegÃ­ts, Apu! Vidd innen!}
 {251}{}{T?nj el innen!}
-{260}{}{Segítség, Apu! Vidd el innen ezt a n?t!}
+{260}{}{SegÃ­tsÃ©g, Apu! Vidd el innen ezt a n?t!}
 {270}{}{Help! Get him away!}
 {280}{}{Help! Get her away!}
 {400}{}{Apuuu!}
 {401}{}{H?ha!}
 {402}{}{Miazhogy!}
 {410}{}{Ajjaj...}
-{411}{}{Izé... folytassa, kérem...}
+{411}{}{IzÃ©... folytassa, kÃ©rem...}
 {412}{}{Hogy a francba ne...}
-{413}{}{Izé... elfogadom...}
+{413}{}{IzÃ©... elfogadom...}
 {420}{}{Uncle Biff!}
-{450}{}{Szerintem apuval kéne beszélned.}
+{450}{}{Szerintem apuval kÃ©ne beszÃ©lned.}
 {470}{}{Uhhh, I think Uncle Biff's the one you should be talking too.}
-{500}{}{Nagyszer?, gondolom ez most azt jelenti, hogy nekem kell ezt a fosrakást vezetnem.}
-{1000}{}{Most mit csinálunk, bébi?}
-{1001}{}{Most mit csinálunk, drágám?}
-{1002}{}{Most mit csinálunk, cicabogár?}
-{1003}{}{Most mit csinálunk, kedvesem?}
-{1004}{}{Most mit csinálunk, cukorfalatom?}
-{1005}{}{Nem, nem, nem... Ne ilyen közel! Szeretném, ha néhány lépésre lemaradnál, ha együtt közlekedünk.}
-{1006}{}{Nyugi, bébi, csak maradjon köztünk egy kis hely, miközben sétálgatunk.}
-{1007}{}{Jobban belehúzok, édes húsom. Csak tudod, elég nehéz id?t szakítani egymásra ebben a mocsok világban.}
-{1008}{}{Az én cuccom a te cuccod.}
-{1009}{}{Oké, picinyem, de mindenképp meg kell hogy álljunk a páncélnál?}
-{1010}{}{Késekhez hasonló éles fegyverekre rá tudok indulni, de a géppisztolyok sem okoznak fejtörést, ha úgy hozza a sors. Persze jobb, ha nem vársz csodákat.}
-{1020}{}{Kicsit át kéne gondolnunk, milyen távolságban kövess engem.}
-{1100}{}{Teljesen felgyógyultam, és készen állok az útra.}
-{1200}{}{Most már szinte az összes sebem begyógyult.}
-{1300}{}{Ha úgy nézzük, tulajdonképpen meggyógyultam... persze ha van rá lehet?ség, nem ártana még némi gyógykezelés.}
-{1400}{}{Amennyire tudtam, elláttam magam, de még mindig elég csúnya sebeim vannak.}
+{500}{}{Nagyszer?, gondolom ez most azt jelenti, hogy nekem kell ezt a fosrakÃ¡st vezetnem.}
+{1000}{}{Most mit csinÃ¡lunk, bÃ©bi?}
+{1001}{}{Most mit csinÃ¡lunk, drÃ¡gÃ¡m?}
+{1002}{}{Most mit csinÃ¡lunk, cicabogÃ¡r?}
+{1003}{}{Most mit csinÃ¡lunk, kedvesem?}
+{1004}{}{Most mit csinÃ¡lunk, cukorfalatom?}
+{1005}{}{Nem, nem, nem... Ne ilyen kÃ¶zel! SzeretnÃ©m, ha nÃ©hÃ¡ny lÃ©pÃ©sre lemaradnÃ¡l, ha egyÃ¼tt kÃ¶zlekedÃ¼nk.}
+{1006}{}{Nyugi, bÃ©bi, csak maradjon kÃ¶ztÃ¼nk egy kis hely, mikÃ¶zben sÃ©tÃ¡lgatunk.}
+{1007}{}{Jobban belehÃºzok, Ã©des hÃºsom. Csak tudod, elÃ©g nehÃ©z id?t szakÃ­tani egymÃ¡sra ebben a mocsok vilÃ¡gban.}
+{1008}{}{Az Ã©n cuccom a te cuccod.}
+{1009}{}{OkÃ©, picinyem, de mindenkÃ©pp meg kell hogy Ã¡lljunk a pÃ¡ncÃ©lnÃ¡l?}
+{1010}{}{KÃ©sekhez hasonlÃ³ Ã©les fegyverekre rÃ¡ tudok indulni, de a gÃ©ppisztolyok sem okoznak fejtÃ¶rÃ©st, ha Ãºgy hozza a sors. Persze jobb, ha nem vÃ¡rsz csodÃ¡kat.}
+{1020}{}{Kicsit Ã¡t kÃ©ne gondolnunk, milyen tÃ¡volsÃ¡gban kÃ¶vess engem.}
+{1100}{}{Teljesen felgyÃ³gyultam, Ã©s kÃ©szen Ã¡llok az Ãºtra.}
+{1200}{}{Most mÃ¡r szinte az Ã¶sszes sebem begyÃ³gyult.}
+{1300}{}{Ha Ãºgy nÃ©zzÃ¼k, tulajdonkÃ©ppen meggyÃ³gyultam... persze ha van rÃ¡ lehet?sÃ©g, nem Ã¡rtana mÃ©g nÃ©mi gyÃ³gykezelÃ©s.}
+{1400}{}{Amennyire tudtam, ellÃ¡ttam magam, de mÃ©g mindig elÃ©g csÃºnya sebeim vannak.}
 {1500}{}{Nem, kicsim. Veled akarok menni.}
 {1600}{}{Persze, elteszem.}
 {1700}{}{}
-{1800}{}{Nem, nem, tündérbogár. Közel akarok lenni hozzád.}
-{1900}{}{De akkor nem lehetek a közeledben, édes szívem.}
+{1800}{}{Nem, nem, tÃ¼ndÃ©rbogÃ¡r. KÃ¶zel akarok lenni hozzÃ¡d.}
+{1900}{}{De akkor nem lehetek a kÃ¶zeledben, Ã©des szÃ­vem.}
 {2000}{}{I think I broke a limb, lover. Better take a look.}
 {2001}{}{I feel feverish, lover. I think I am radiated.}
 {2002}{}{I feel very sick, lover. I think I am poisoned.}

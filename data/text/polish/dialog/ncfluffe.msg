@@ -1,212 +1,212 @@
-{100}{}{Widzisz podnietkê.}
-{150}{}{Widzisz œrednio atrakcyjn¹ kobietê, która patrzy na ciebie taksuj¹cym wzrokiem.}
-{151}{}{Widzisz podnietkê. Chyba siê zastanawia, czy powinna ciê obs³u¿yæ.}
-{160}{}{Widzisz œrednio atrakcyjn¹ kobietê. Patrzy na ciebie, jakbyœ by³a jej rywalk¹.}
-{161}{}{Widzisz podnietkê. Patrzy na ciebie, jakbyœ by³a jej rywalk¹.}
+{100}{}{Widzisz podnietkÄ™.}
+{150}{}{Widzisz Å›rednio atrakcyjnÄ… kobietÄ™, ktÃ³ra patrzy na ciebie taksujÄ…cym wzrokiem.}
+{151}{}{Widzisz podnietkÄ™. Chyba siÄ™ zastanawia, czy powinna ciÄ™ obsÅ‚uÅ¼yÄ‡.}
+{160}{}{Widzisz Å›rednio atrakcyjnÄ… kobietÄ™. Patrzy na ciebie, jakbyÅ› byÅ‚a jej rywalkÄ….}
+{161}{}{Widzisz podnietkÄ™. Patrzy na ciebie, jakbyÅ› byÅ‚a jej rywalkÄ….}
 {200}{}{Ojej... to on. }
-{201}{}{Patrzcie! To najwiêkszy ogier na tym œwiecie.}
+{201}{}{Patrzcie! To najwiÄ™kszy ogier na tym Å›wiecie.}
 {202}{}{::Mdleje::}
-{203}{}{Podobno Bracia ciê szukaj¹. Maj¹ zrobiæ film na podstawie twoich przygód.}
+{203}{}{Podobno Bracia ciÄ™ szukajÄ…. MajÄ… zrobiÄ‡ film na podstawie twoich przygÃ³d.}
 {204}{}{O tak, }
 {205}{}{::Klaszcze::}
 {206}{}{::Wiwatuje::}
 {207}{}{Ojej... to ona. }
 {208}{}{Dobra robota, dziewczyno!}
-{209}{}{::Pokazuje ci wyci¹gniêty do góry kciuk::}
-{225}{}{Nie ma MOWY, ¿ebym prostowa³a temu czemuœ.}
-{226}{}{Jak mo¿esz korzystaæ z ³azienki z czymœ takim na grzbiecie?}
+{209}{}{::Pokazuje ci wyciÄ…gniÄ™ty do gÃ³ry kciuk::}
+{225}{}{Nie ma MOWY, Å¼ebym prostowaÅ‚a temu czemuÅ›.}
+{226}{}{Jak moÅ¼esz korzystaÄ‡ z Å‚azienki z czymÅ› takim na grzbiecie?}
 {227}{}{Co to - mega-wibrator?}
 {228}{}{Co to jest? Kondom gigant?}
-{235}{}{Potrzebujesz czegoœ, }
+{235}{}{Potrzebujesz czegoÅ›, }
 {236}{}{Tutaj jestem, }
 {237}{}{Patrzcie! To on!}
 {238}{}{To }
-{239}{}{Marzy mi siê taka scena: ja i }
-{240}{}{Ten ch³opak to dopiero wymiata.}
-{241}{}{On zawsze mo¿e mi zrobiæ purpurowego grzyba.}
-{242}{}{Masz tam w kroczu ma³¹ wredn¹ kobrê, wiesz?}
-{245}{}{Potrzebujesz czegoœ, }
-{246}{}{Jeœli zajmê siê dzisiaj jeszcze jednym aktorem, to siê porzygam.}
-{247}{}{Bycie podnietk¹ nie jest ³atwe.}
-{248}{}{Podobno w Rodzinach ostatnio znowu siê gotuje.}
-{249}{}{W zesz³ym tygodniu musia³am kopn¹æ Julesa w jego klejnoty rodowe.}
-{250}{}{Szkoda, ¿e bracia nie pozwol¹ mi zagraæ.}
-{251}{}{Nie mam pojêcia co Bracia Corsican w niej widz¹...}
+{239}{}{Marzy mi siÄ™ taka scena: ja i }
+{240}{}{Ten chÅ‚opak to dopiero wymiata.}
+{241}{}{On zawsze moÅ¼e mi zrobiÄ‡ purpurowego grzyba.}
+{242}{}{Masz tam w kroczu maÅ‚Ä… wrednÄ… kobrÄ™, wiesz?}
+{245}{}{Potrzebujesz czegoÅ›, }
+{246}{}{JeÅ›li zajmÄ™ siÄ™ dzisiaj jeszcze jednym aktorem, to siÄ™ porzygam.}
+{247}{}{Bycie podnietkÄ… nie jest Å‚atwe.}
+{248}{}{Podobno w Rodzinach ostatnio znowu siÄ™ gotuje.}
+{249}{}{W zeszÅ‚ym tygodniu musiaÅ‚am kopnÄ…Ä‡ Julesa w jego klejnoty rodowe.}
+{250}{}{Szkoda, Å¼e bracia nie pozwolÄ… mi zagraÄ‡.}
+{251}{}{Nie mam pojÄ™cia co Bracia Corsican w niej widzÄ…...}
 {255}{}{Ojej... to on. }
-{256}{}{Patrzcie na te miêœnie! Robi mi siê s³abo...}
-{257}{}{Zbudowany jak czo³g. Patrzcie tylko na to dzia³o.}
-{258}{}{Patrzcie jakie wielkie dzia³o ma ten chodz¹cy czo³g...}
-{259}{}{Jest mój...}
+{256}{}{Patrzcie na te miÄ™Å›nie! Robi mi siÄ™ sÅ‚abo...}
+{257}{}{Zbudowany jak czoÅ‚g. Patrzcie tylko na to dziaÅ‚o.}
+{258}{}{Patrzcie jakie wielkie dziaÅ‚o ma ten chodzÄ…cy czoÅ‚g...}
+{259}{}{Jest mÃ³j...}
 {260}{}{::Wzdycha::}
-{261}{}{Ten ch³opak to dopiero wymiata.}
-{262}{}{Masz tam w kroczu ma³¹ wredn¹ kobrê, wiesz?}
+{261}{}{Ten chÅ‚opak to dopiero wymiata.}
+{262}{}{Masz tam w kroczu maÅ‚Ä… wrednÄ… kobrÄ™, wiesz?}
 {270}{}{Ojej... to ona. }
-{271}{}{Witamy pani¹ w naszym studiu.}
-{272}{}{Wygl¹da tak... (dr¿y) ...niebezpiecznie.}
-{273}{}{Jest ca³kiem sexy.}
-{274}{}{Witam pani¹. Proszê daæ znaæ, jeœli bêdê mog³a w czymœ pomóc.}
+{271}{}{Witamy paniÄ… w naszym studiu.}
+{272}{}{WyglÄ…da tak... (drÅ¼y) ...niebezpiecznie.}
+{273}{}{Jest caÅ‚kiem sexy.}
+{274}{}{Witam paniÄ…. ProszÄ™ daÄ‡ znaÄ‡, jeÅ›li bÄ™dÄ™ mogÅ‚a w czymÅ› pomÃ³c.}
 {280}{}{Ojej... to on. }
 {281}{}{Witamy pana w naszym studiu.}
-{282}{}{Wygl¹da tak... (dr¿y) ...niebezpiecznie.}
-{283}{}{Jeœli ktoœ tu jest twardzielem, to w³aœnie on.}
-{284}{}{Ten ch³opak to dopiero wymiata.}
-{285}{}{Masz tam w kroczu ma³¹ wredn¹ kobrê, wiesz?}
+{282}{}{WyglÄ…da tak... (drÅ¼y) ...niebezpiecznie.}
+{283}{}{JeÅ›li ktoÅ› tu jest twardzielem, to wÅ‚aÅ›nie on.}
+{284}{}{Ten chÅ‚opak to dopiero wymiata.}
+{285}{}{Masz tam w kroczu maÅ‚Ä… wrednÄ… kobrÄ™, wiesz?}
 {290}{}{Ojej... to ona. }
-{291}{}{Witamy pani¹ w naszym studiu.}
-{292}{}{Wygl¹da tak... (dr¿y) ...niebezpiecznie.}
-{293}{}{Jest ca³kiem sexy.}
-{294}{}{Witam pani¹. Proszê daæ znaæ, jeœli bêdê mog³a w czymœ pomóc.}
-{300}{}{O kurde! To Myron! Uciekaæ!}
+{291}{}{Witamy paniÄ… w naszym studiu.}
+{292}{}{WyglÄ…da tak... (drÅ¼y) ...niebezpiecznie.}
+{293}{}{Jest caÅ‚kiem sexy.}
+{294}{}{Witam paniÄ…. ProszÄ™ daÄ‡ znaÄ‡, jeÅ›li bÄ™dÄ™ mogÅ‚a w czymÅ› pomÃ³c.}
+{300}{}{O kurde! To Myron! UciekaÄ‡!}
 {301}{}{Cholera! To Myron. Tylko spokojnie... on wyczuwa strach.}
 {302}{}{Lepiej trzymaj Myrona z dala ode mnie.}
-{303}{}{Myron, ty siê lepiej KURWA trzymaj z dala ode mnie.}
-{304}{}{Jeœli Myron ma tu pracowaæ, to ja st¹d spadam.}
-{305}{}{Myron, czy twój rekord to nadal ca³e piêæ sekund?}
-{306}{}{Myron, lepiej siê st¹d wynoœ, zanim bracia ciê zobacz¹.}
-{315}{}{Czy ci skórzani pajace nie wiedz¹, ¿e maj¹ tu przychodziæ w œrody?}
-{316}{}{Œwietnie. Jeszcze jeden numerek S&M.}
-{317}{}{Oooooch. Czarna skóra. To DOPIERO odmiana.}
-{318}{}{Nie bêdziemy potrzebowaæ skóry ani nikogo krêpowaæ a¿ do przysz³ego tygodnia.}
-{319}{}{Œwietnie, jeszcze jeden skórzany króliczek.}
-{320}{}{S³uchaj skórzany króliczku, casting jest w œrodê, dobra?}
-{325}{}{Jeœli zajmê siê dzisiaj jeszcze jednym aktorem, to siê porzygam.}
-{326}{}{Bycie podnietk¹ nie jest ³atwe.}
-{327}{}{Podobno w Rodzinach ostatnio znowu siê gotuje.}
-{328}{}{W zesz³ym tygodniu musia³am kopn¹æ Julesa w jego klejnoty rodowe.}
-{329}{}{Ten goœciu z koœci¹ w nosie jest nawet na swój sposób s³odki. W bardzo sadomasochistyczny sposób.}
-{330}{}{Kim jest ten facet z koœci¹ w nosie?}
-{331}{}{Popatrzcie na tego dzikusa z koœci¹ w nosie. Daleko zajdzie.}
-{332}{}{£ojejku, widzia³am ju¿ ró¿ne wypadki na scenie, ale nie ¿eby jakiemuœ facetowi koœæ utkwi³a w nosie.}
-{333}{}{Szkoda, ¿e bracia nie pozwol¹ mi zagraæ.}
-{334}{}{::Gapi siê na ciebie::}
-{335}{}{Œwietnie. JESZCZE jedna podnietka. S¹dz¹c po jej wygl¹dzie bêdzie tu pewnie pracowaæ za pó³ ceny.}
+{303}{}{Myron, ty siÄ™ lepiej KURWA trzymaj z dala ode mnie.}
+{304}{}{JeÅ›li Myron ma tu pracowaÄ‡, to ja stÄ…d spadam.}
+{305}{}{Myron, czy twÃ³j rekord to nadal caÅ‚e piÄ™Ä‡ sekund?}
+{306}{}{Myron, lepiej siÄ™ stÄ…d wynoÅ›, zanim bracia ciÄ™ zobaczÄ….}
+{315}{}{Czy ci skÃ³rzani pajace nie wiedzÄ…, Å¼e majÄ… tu przychodziÄ‡ w Å›rody?}
+{316}{}{Åšwietnie. Jeszcze jeden numerek S&M.}
+{317}{}{Oooooch. Czarna skÃ³ra. To DOPIERO odmiana.}
+{318}{}{Nie bÄ™dziemy potrzebowaÄ‡ skÃ³ry ani nikogo krÄ™powaÄ‡ aÅ¼ do przyszÅ‚ego tygodnia.}
+{319}{}{Åšwietnie, jeszcze jeden skÃ³rzany krÃ³liczek.}
+{320}{}{SÅ‚uchaj skÃ³rzany krÃ³liczku, casting jest w Å›rodÄ™, dobra?}
+{325}{}{JeÅ›li zajmÄ™ siÄ™ dzisiaj jeszcze jednym aktorem, to siÄ™ porzygam.}
+{326}{}{Bycie podnietkÄ… nie jest Å‚atwe.}
+{327}{}{Podobno w Rodzinach ostatnio znowu siÄ™ gotuje.}
+{328}{}{W zeszÅ‚ym tygodniu musiaÅ‚am kopnÄ…Ä‡ Julesa w jego klejnoty rodowe.}
+{329}{}{Ten goÅ›ciu z koÅ›ciÄ… w nosie jest nawet na swÃ³j sposÃ³b sÅ‚odki. W bardzo sadomasochistyczny sposÃ³b.}
+{330}{}{Kim jest ten facet z koÅ›ciÄ… w nosie?}
+{331}{}{Popatrzcie na tego dzikusa z koÅ›ciÄ… w nosie. Daleko zajdzie.}
+{332}{}{Åojejku, widziaÅ‚am juÅ¼ rÃ³Å¼ne wypadki na scenie, ale nie Å¼eby jakiemuÅ› facetowi koÅ›Ä‡ utkwiÅ‚a w nosie.}
+{333}{}{Szkoda, Å¼e bracia nie pozwolÄ… mi zagraÄ‡.}
+{334}{}{::Gapi siÄ™ na ciebie::}
+{335}{}{Åšwietnie. JESZCZE jedna podnietka. SÄ…dzÄ…c po jej wyglÄ…dzie bÄ™dzie tu pewnie pracowaÄ‡ za pÃ³Å‚ ceny.}
 {336}{}{Kim ona jest?}
-{337}{}{Kim jesteœ?}
-{345}{}{Jeœli zajmê siê dzisiaj jeszcze jednym aktorem, to siê porzygam.}
-{346}{}{Bycie podnietk¹ nie jest ³atwe.}
-{347}{}{Podobno w Rodzinach ostatnio znowu siê gotuje.}
-{348}{}{W zesz³ym tygodniu musia³am kopn¹æ Julesa w jego klejnoty rodowe.}
-{349}{}{Szkoda, ¿e bracia nie pozwol¹ mi zagraæ.}
-{350}{}{Œwietnie. JESZCZE jedna podnietka. S¹dz¹c po jej wygl¹dzie bêdzie tu pewnie pracowaæ za pó³ ceny.}
-{351}{}{::Gapi siê na ciebie::}
+{337}{}{Kim jesteÅ›?}
+{345}{}{JeÅ›li zajmÄ™ siÄ™ dzisiaj jeszcze jednym aktorem, to siÄ™ porzygam.}
+{346}{}{Bycie podnietkÄ… nie jest Å‚atwe.}
+{347}{}{Podobno w Rodzinach ostatnio znowu siÄ™ gotuje.}
+{348}{}{W zeszÅ‚ym tygodniu musiaÅ‚am kopnÄ…Ä‡ Julesa w jego klejnoty rodowe.}
+{349}{}{Szkoda, Å¼e bracia nie pozwolÄ… mi zagraÄ‡.}
+{350}{}{Åšwietnie. JESZCZE jedna podnietka. SÄ…dzÄ…c po jej wyglÄ…dzie bÄ™dzie tu pewnie pracowaÄ‡ za pÃ³Å‚ ceny.}
+{351}{}{::Gapi siÄ™ na ciebie::}
 {352}{}{Kim ona jest?}
-{353}{}{Kim jesteœ?}
-{360}{}{Enklawa? Prezydent? Opowiedz mi o tym wszystkim od pocz¹tku.}
-{361}{}{Tom French napisa³ moje skrypty. Ma takie g³adkie, delikatne d³onie.}
-{362}{}{Oni wci¹¿ prowadzili WOJNÊ?! Serio! Dobrze, ¿e te dranie dosta³y od ciebie porz¹dne lanie.}
-{363}{}{Ale z ciebie totalnie twarda sztuka. To znaczy, zaczynasz od prostego, wymachuj¹cego w³óczni¹ cz³owieka z wioski - bez obrazy - i idziesz przed siebie ratowaæ œwiat. Wymiatasz. Koniec, kropka.}
-{364}{}{Musisz koniecznie zagraæ jeszcze raz, najlepiej innym typem postaci.}
-{365}{}{Opowiedz mi wszystko o swojej walce z Enklaw¹... przyniosê ci zimne piwo.}
-{366}{}{Podobno Bracia ciê szukaj¹. Maj¹ zrobiæ film na podstawie twoich przygód.}
-{370}{}{Uuups. Chyba zgubi³am coœ w twoich spodniach. Mogê poszukaæ?}
-{371}{}{Um, pewnie nie masz ochoty na drinka, co? A co powiesz na zwyk³y seks bez zobowi¹zañ?}
-{372}{}{Jak ty to robisz, ¿e wci¹¿ jesteœ w formie?}
-{373}{}{Mogê prosiæ o autograf? Na piersiach?}
-{374}{}{Czy ktoœ ci pomaga, }
-{375}{}{Do takiej lufy, jak twoja, bêdzie mi potrzebna czyjaœ pomoc.}
-{376}{}{S³ysza³am, ¿e podobno mocno stoisz... na nogach.}
-{377}{}{S³ysza³am, ¿e masz wredny charakter, sk³onnoœæ do macania. Mi to nie przeszkadza.}
-{378}{}{Jestem taka szczêœliwa, ¿e ciê pozna³am! To znaczy, ³a³, ty jesteœ }
-{379}{}{Um, wiem, ¿e teraz akurat nie robi¹ ¿adnego filmu, ale mo¿e i tak potrzebujesz mojej pomocy?}
-{380}{}{Potrzebujesz kogoœ, kto by siê tym dla ciebie zaj¹³?}
-{381}{}{Potrzebujesz mokrej œcierki, co }
-{382}{}{By³eœ fantastyczny w Wielkich Jajach do Wynajêcia.}
-{383}{}{Widzia³am ciê w Przeminê³o z Viagr¹.}
-{384}{}{By³eœ œwietny w Trzech Dniach Kondoma.}
-{385}{}{Twoja rola w "Krypcie 69" by³a wspania³a. A nawet inspiruj¹ca.}
-{386}{}{Nie widzia³am tu braci... mo¿e zajrzyj do ich biura?}
-{387}{}{Czy mo¿esz porozmawiaæ z braæmi Corsican, ¿eby pozwolili mi zagraæ?}
-{388}{}{Podnietki maj¹ bardzo istotn¹ pracê polegaj¹c¹ na utrzymywaniu aktorów w gotowoœci.}
-{389}{}{Mo¿e znajdzie siê dla mnie rólka w twoim nowym filmie?}
-{390}{}{Nie chcê byæ ca³e ¿ycie podnietk¹. Naprawdê.}
-{391}{}{Robiê to tylko po to, ¿eby zap³aciæ za szko³ê.}
-{392}{}{Mój ch³opak nie wie, ¿e tu pracujê.}
-{393}{}{Praca z zamkniêtymi ustami? Opowiem ci o niej innym razem.}
-{394}{}{Mój ch³opak nie wie, ¿e tu pracujê.}
-{395}{}{Chcia³abym, ¿eby niektórzy aktorzy brali prysznic. Mam na myœli regularny przysznic.}
-{396}{}{Naprawdê chcia³abym graæ.}
-{397}{}{Moja dziewczyna nie wie, ¿e tu pracujê.}
-{398}{}{Mogê dostaæ twój autograf?}
-{399}{}{Um, nie masz ochoty na drinka, prawda? Oczywiœcie, jeœli w ogóle lubisz kobiety.}
-{400}{}{::Ignoruje ciê::}
-{420}{}{Mo¿e masz ochotê na parê rund w moim ³ó¿ku, mistrzu?}
-{421}{}{Wpuszczaj¹ ciê na ring z TAK¥ broni¹?!}
-{422}{}{Mo¿e potrzebujesz troskliwej, kobiecej opieki?}
-{423}{}{Przenosisz siê z boksu do porno? Ta sama bran¿a, inna scena.}
-{424}{}{Te¿ wchodzisz w ten interes? Witamy na pok³adzie.}
-{425}{}{Wchodzisz w interes? Przynajmniej nie musisz zaczynaæ z tej samej pozycji co ja.}
-{426}{}{Ja? Jestem podnietk¹. Czasami.}
-{427}{}{Podnietki maj¹ bardzo istotn¹ pracê polegaj¹c¹ na utrzymywaniu aktorów w gotowoœci.}
-{428}{}{Bracia mówi¹, ¿e jestem bez-cenna. To dlatego tyle ze mn¹ sypiaj¹.}
-{429}{}{Musisz wejœæ w porno. Masz do tego dobre cia³o.}
-{430}{}{Chcesz siê poboksowaæ?}
-{431}{}{Praca z zamkniêtymi ustami? Opowiem ci o niej innym razem.}
-{432}{}{Uwa¿aj na Prze¿uwacza. To prawdziwy cham. Próbowa³ kiedyœ odgryŸæ moje ucho.}
-{433}{}{Witam pani¹. Czy mogê pomóc... w *czymkolwiek*.}
-{434}{}{Jeœli szuka pani mi³ego towarzystwa...}
+{353}{}{Kim jesteÅ›?}
+{360}{}{Enklawa? Prezydent? Opowiedz mi o tym wszystkim od poczÄ…tku.}
+{361}{}{Tom French napisaÅ‚ moje skrypty. Ma takie gÅ‚adkie, delikatne dÅ‚onie.}
+{362}{}{Oni wciÄ…Å¼ prowadzili WOJNÄ˜?! Serio! Dobrze, Å¼e te dranie dostaÅ‚y od ciebie porzÄ…dne lanie.}
+{363}{}{Ale z ciebie totalnie twarda sztuka. To znaczy, zaczynasz od prostego, wymachujÄ…cego wÅ‚Ã³czniÄ… czÅ‚owieka z wioski - bez obrazy - i idziesz przed siebie ratowaÄ‡ Å›wiat. Wymiatasz. Koniec, kropka.}
+{364}{}{Musisz koniecznie zagraÄ‡ jeszcze raz, najlepiej innym typem postaci.}
+{365}{}{Opowiedz mi wszystko o swojej walce z EnklawÄ…... przyniosÄ™ ci zimne piwo.}
+{366}{}{Podobno Bracia ciÄ™ szukajÄ…. MajÄ… zrobiÄ‡ film na podstawie twoich przygÃ³d.}
+{370}{}{Uuups. Chyba zgubiÅ‚am coÅ› w twoich spodniach. MogÄ™ poszukaÄ‡?}
+{371}{}{Um, pewnie nie masz ochoty na drinka, co? A co powiesz na zwykÅ‚y seks bez zobowiÄ…zaÅ„?}
+{372}{}{Jak ty to robisz, Å¼e wciÄ…Å¼ jesteÅ› w formie?}
+{373}{}{MogÄ™ prosiÄ‡ o autograf? Na piersiach?}
+{374}{}{Czy ktoÅ› ci pomaga, }
+{375}{}{Do takiej lufy, jak twoja, bÄ™dzie mi potrzebna czyjaÅ› pomoc.}
+{376}{}{SÅ‚yszaÅ‚am, Å¼e podobno mocno stoisz... na nogach.}
+{377}{}{SÅ‚yszaÅ‚am, Å¼e masz wredny charakter, skÅ‚onnoÅ›Ä‡ do macania. Mi to nie przeszkadza.}
+{378}{}{Jestem taka szczÄ™Å›liwa, Å¼e ciÄ™ poznaÅ‚am! To znaczy, Å‚aÅ‚, ty jesteÅ› }
+{379}{}{Um, wiem, Å¼e teraz akurat nie robiÄ… Å¼adnego filmu, ale moÅ¼e i tak potrzebujesz mojej pomocy?}
+{380}{}{Potrzebujesz kogoÅ›, kto by siÄ™ tym dla ciebie zajÄ…Å‚?}
+{381}{}{Potrzebujesz mokrej Å›cierki, co }
+{382}{}{ByÅ‚eÅ› fantastyczny w Wielkich Jajach do WynajÄ™cia.}
+{383}{}{WidziaÅ‚am ciÄ™ w PrzeminÄ™Å‚o z ViagrÄ….}
+{384}{}{ByÅ‚eÅ› Å›wietny w Trzech Dniach Kondoma.}
+{385}{}{Twoja rola w "Krypcie 69" byÅ‚a wspaniaÅ‚a. A nawet inspirujÄ…ca.}
+{386}{}{Nie widziaÅ‚am tu braci... moÅ¼e zajrzyj do ich biura?}
+{387}{}{Czy moÅ¼esz porozmawiaÄ‡ z braÄ‡mi Corsican, Å¼eby pozwolili mi zagraÄ‡?}
+{388}{}{Podnietki majÄ… bardzo istotnÄ… pracÄ™ polegajÄ…cÄ… na utrzymywaniu aktorÃ³w w gotowoÅ›ci.}
+{389}{}{MoÅ¼e znajdzie siÄ™ dla mnie rÃ³lka w twoim nowym filmie?}
+{390}{}{Nie chcÄ™ byÄ‡ caÅ‚e Å¼ycie podnietkÄ…. NaprawdÄ™.}
+{391}{}{RobiÄ™ to tylko po to, Å¼eby zapÅ‚aciÄ‡ za szkoÅ‚Ä™.}
+{392}{}{MÃ³j chÅ‚opak nie wie, Å¼e tu pracujÄ™.}
+{393}{}{Praca z zamkniÄ™tymi ustami? Opowiem ci o niej innym razem.}
+{394}{}{MÃ³j chÅ‚opak nie wie, Å¼e tu pracujÄ™.}
+{395}{}{ChciaÅ‚abym, Å¼eby niektÃ³rzy aktorzy brali prysznic. Mam na myÅ›li regularny przysznic.}
+{396}{}{NaprawdÄ™ chciaÅ‚abym graÄ‡.}
+{397}{}{Moja dziewczyna nie wie, Å¼e tu pracujÄ™.}
+{398}{}{MogÄ™ dostaÄ‡ twÃ³j autograf?}
+{399}{}{Um, nie masz ochoty na drinka, prawda? OczywiÅ›cie, jeÅ›li w ogÃ³le lubisz kobiety.}
+{400}{}{::Ignoruje ciÄ™::}
+{420}{}{MoÅ¼e masz ochotÄ™ na parÄ™ rund w moim Å‚Ã³Å¼ku, mistrzu?}
+{421}{}{WpuszczajÄ… ciÄ™ na ring z TAKÄ„ broniÄ…?!}
+{422}{}{MoÅ¼e potrzebujesz troskliwej, kobiecej opieki?}
+{423}{}{Przenosisz siÄ™ z boksu do porno? Ta sama branÅ¼a, inna scena.}
+{424}{}{TeÅ¼ wchodzisz w ten interes? Witamy na pokÅ‚adzie.}
+{425}{}{Wchodzisz w interes? Przynajmniej nie musisz zaczynaÄ‡ z tej samej pozycji co ja.}
+{426}{}{Ja? Jestem podnietkÄ…. Czasami.}
+{427}{}{Podnietki majÄ… bardzo istotnÄ… pracÄ™ polegajÄ…cÄ… na utrzymywaniu aktorÃ³w w gotowoÅ›ci.}
+{428}{}{Bracia mÃ³wiÄ…, Å¼e jestem bez-cenna. To dlatego tyle ze mnÄ… sypiajÄ….}
+{429}{}{Musisz wejÅ›Ä‡ w porno. Masz do tego dobre ciaÅ‚o.}
+{430}{}{Chcesz siÄ™ poboksowaÄ‡?}
+{431}{}{Praca z zamkniÄ™tymi ustami? Opowiem ci o niej innym razem.}
+{432}{}{UwaÅ¼aj na PrzeÅ¼uwacza. To prawdziwy cham. PrÃ³bowaÅ‚ kiedyÅ› odgryÅºÄ‡ moje ucho.}
+{433}{}{Witam paniÄ…. Czy mogÄ™ pomÃ³c... w *czymkolwiek*.}
+{434}{}{JeÅ›li szuka pani miÅ‚ego towarzystwa...}
 {435}{}{Chce pani to co zwykle?}
-{450}{}{Witam pana. Czy mogê pomóc... w *czymkolwiek*.}
-{451}{}{Jeœli szukasz towarzyszki zabaw...}
-{452}{}{¯yczy pan sobie to co zwykle?}
-{453}{}{Potrzebujesz kogoœ, kto by siê tym dla ciebie zaj¹³?}
-{454}{}{Szepnij o mnie ciep³e s³ówko szefowi, dobrze?}
-{455}{}{Te¿ chcesz wejœæ w ten interes?}
-{456}{}{Musisz wejœæ w porno. Masz do tego dobre cia³o.}
-{457}{}{Praca z zamkniêtymi ustami? Opowiem ci o niej innym razem.}
-{458}{}{Witam pani¹. Czy mogê pomóc... w *czymkolwiek*.}
-{459}{}{Jeœli szuka pani mi³ego towarzystwa...}
+{450}{}{Witam pana. Czy mogÄ™ pomÃ³c... w *czymkolwiek*.}
+{451}{}{JeÅ›li szukasz towarzyszki zabaw...}
+{452}{}{Å»yczy pan sobie to co zwykle?}
+{453}{}{Potrzebujesz kogoÅ›, kto by siÄ™ tym dla ciebie zajÄ…Å‚?}
+{454}{}{Szepnij o mnie ciepÅ‚e sÅ‚Ã³wko szefowi, dobrze?}
+{455}{}{TeÅ¼ chcesz wejÅ›Ä‡ w ten interes?}
+{456}{}{Musisz wejÅ›Ä‡ w porno. Masz do tego dobre ciaÅ‚o.}
+{457}{}{Praca z zamkniÄ™tymi ustami? Opowiem ci o niej innym razem.}
+{458}{}{Witam paniÄ…. Czy mogÄ™ pomÃ³c... w *czymkolwiek*.}
+{459}{}{JeÅ›li szuka pani miÅ‚ego towarzystwa...}
 {460}{}{Chce pani to co zwykle?}
-{465}{}{Wybacz, dziêkujê. Lepszy seks mia³abym ze swoj¹ szmink¹.}
-{466}{}{Ty? Wybacz, ale NIGDY nie bêdê a¿ tak zdesperowana.}
-{467}{}{Uch, czy twój przyjaciel z koœci¹ w nosie nadrabia w ten sposób jakieœ braki?}
-{468}{}{Czy twój przyjaciel z koœci¹ w nosie kogoœ widzi?}
-{469}{}{Twój przyjaciel z koœci¹ w nosie jest nawet na swój sposób s³odki. W bardzo sadomasochistyczny sposób.}
-{470}{}{Kim jest twój uroczy przyjaciel z koœci¹ w nosie?}
-{471}{}{Powiedz swojemu przyjacielowi z koœci¹ w nosie, ¿e w tym przemyœle daleko zajdzie.}
-{472}{}{£ojejku, widzia³am ju¿ ró¿ne wypadki na scenie, ale nie ¿eby jakiemuœ facetowi koœæ utkwi³a w nosie.}
-{473}{}{Nie widzia³am tu braci... mo¿e zajrzyj do ich biura?}
-{474}{}{Podnietki maj¹ bardzo istotn¹ pracê polegaj¹c¹ na utrzymywaniu aktorów w gotowoœci.}
-{475}{}{Naprawdê chcia³abym graæ.}
-{476}{}{Nie chcê byæ ca³e ¿ycie podnietk¹. Naprawdê.}
-{477}{}{Mój ch³opak nie wie, ¿e tu pracujê.}
-{478}{}{Ktoœ ci pomaga?}
-{479}{}{Jeœli szukasz pracy, pogadaj z braæmi.}
-{480}{}{Robiê to tylko dlatego, ¿eby móc tu studiowaæ.}
-{481}{}{Avellone'a obs³u¿y³abym za darmo.}
-{482}{}{To nie to, ¿e nie chcê z tob¹ gadaæ ale... och, poczekaj, to jednak JEST to.}
-{483}{}{Muszê siê po³o¿yæ.}
-{484}{}{Praca z zamkniêtymi ustami? Opowiem ci o niej innym razem.}
+{465}{}{Wybacz, dziÄ™kujÄ™. Lepszy seks miaÅ‚abym ze swojÄ… szminkÄ….}
+{466}{}{Ty? Wybacz, ale NIGDY nie bÄ™dÄ™ aÅ¼ tak zdesperowana.}
+{467}{}{Uch, czy twÃ³j przyjaciel z koÅ›ciÄ… w nosie nadrabia w ten sposÃ³b jakieÅ› braki?}
+{468}{}{Czy twÃ³j przyjaciel z koÅ›ciÄ… w nosie kogoÅ› widzi?}
+{469}{}{TwÃ³j przyjaciel z koÅ›ciÄ… w nosie jest nawet na swÃ³j sposÃ³b sÅ‚odki. W bardzo sadomasochistyczny sposÃ³b.}
+{470}{}{Kim jest twÃ³j uroczy przyjaciel z koÅ›ciÄ… w nosie?}
+{471}{}{Powiedz swojemu przyjacielowi z koÅ›ciÄ… w nosie, Å¼e w tym przemyÅ›le daleko zajdzie.}
+{472}{}{Åojejku, widziaÅ‚am juÅ¼ rÃ³Å¼ne wypadki na scenie, ale nie Å¼eby jakiemuÅ› facetowi koÅ›Ä‡ utkwiÅ‚a w nosie.}
+{473}{}{Nie widziaÅ‚am tu braci... moÅ¼e zajrzyj do ich biura?}
+{474}{}{Podnietki majÄ… bardzo istotnÄ… pracÄ™ polegajÄ…cÄ… na utrzymywaniu aktorÃ³w w gotowoÅ›ci.}
+{475}{}{NaprawdÄ™ chciaÅ‚abym graÄ‡.}
+{476}{}{Nie chcÄ™ byÄ‡ caÅ‚e Å¼ycie podnietkÄ…. NaprawdÄ™.}
+{477}{}{MÃ³j chÅ‚opak nie wie, Å¼e tu pracujÄ™.}
+{478}{}{KtoÅ› ci pomaga?}
+{479}{}{JeÅ›li szukasz pracy, pogadaj z braÄ‡mi.}
+{480}{}{RobiÄ™ to tylko dlatego, Å¼eby mÃ³c tu studiowaÄ‡.}
+{481}{}{Avellone'a obsÅ‚uÅ¼yÅ‚abym za darmo.}
+{482}{}{To nie to, Å¼e nie chcÄ™ z tobÄ… gadaÄ‡ ale... och, poczekaj, to jednak JEST to.}
+{483}{}{MuszÄ™ siÄ™ poÅ‚oÅ¼yÄ‡.}
+{484}{}{Praca z zamkniÄ™tymi ustami? Opowiem ci o niej innym razem.}
 {485}{}{Nie masz problemu z filmami porno, prawda?}
-{486}{}{Jesteœ now¹ podnietk¹?}
-{487}{}{Masz rêcznik? Jeden z aktorów mia³... wypadek.}
-{488}{}{Tylko nie gryŸ aktorów, a na pewno dobrze ci pójdzie.}
-{489}{}{Chcia³abym, ¿eby niektórzy aktorzy brali prysznic. Mam na myœli regularny przysznic.}
-{490}{}{Um, jesteœ tu od niedawna?}
-{491}{}{S³ony lukier? Przyzwyczaj siê do niego.}
-{500}{}{Wybacz, dziêkujê. Lepszy seks mia³abym ze swoj¹ szmink¹.}
-{501}{}{Ty? Wybacz, ale NIGDY nie bêdê a¿ tak zdesperowana.}
-{502}{}{Nie widzia³am tu braci... mo¿e zajrzyj do ich biura?}
-{503}{}{Podnietki maj¹ bardzo istotn¹ pracê polegaj¹c¹ na utrzymywaniu aktorów w gotowoœci.}
-{504}{}{Naprawdê chcia³abym graæ.}
-{505}{}{Nie chcê byæ ca³e ¿ycie podnietk¹. Naprawdê.}
-{506}{}{Mój ch³opak nie wie, ¿e tu pracujê.}
-{507}{}{Ktoœ ci pomaga?}
-{508}{}{Jeœli szukasz pracy, pogadaj z braæmi.}
-{509}{}{Robiê to tylko dlatego, ¿eby móc tu studiowaæ.}
-{510}{}{Avellone'a obs³u¿y³abym za darmo.}
-{511}{}{To nie to, ¿e nie chcê z tob¹ gadaæ ale... och, poczekaj, to jednak JEST to.}
-{512}{}{Muszê siê po³o¿yæ.}
-{513}{}{Praca z zamkniêtymi ustami? Opowiem ci o niej innym razem.}
+{486}{}{JesteÅ› nowÄ… podnietkÄ…?}
+{487}{}{Masz rÄ™cznik? Jeden z aktorÃ³w miaÅ‚... wypadek.}
+{488}{}{Tylko nie gryÅº aktorÃ³w, a na pewno dobrze ci pÃ³jdzie.}
+{489}{}{ChciaÅ‚abym, Å¼eby niektÃ³rzy aktorzy brali prysznic. Mam na myÅ›li regularny przysznic.}
+{490}{}{Um, jesteÅ› tu od niedawna?}
+{491}{}{SÅ‚ony lukier? Przyzwyczaj siÄ™ do niego.}
+{500}{}{Wybacz, dziÄ™kujÄ™. Lepszy seks miaÅ‚abym ze swojÄ… szminkÄ….}
+{501}{}{Ty? Wybacz, ale NIGDY nie bÄ™dÄ™ aÅ¼ tak zdesperowana.}
+{502}{}{Nie widziaÅ‚am tu braci... moÅ¼e zajrzyj do ich biura?}
+{503}{}{Podnietki majÄ… bardzo istotnÄ… pracÄ™ polegajÄ…cÄ… na utrzymywaniu aktorÃ³w w gotowoÅ›ci.}
+{504}{}{NaprawdÄ™ chciaÅ‚abym graÄ‡.}
+{505}{}{Nie chcÄ™ byÄ‡ caÅ‚e Å¼ycie podnietkÄ…. NaprawdÄ™.}
+{506}{}{MÃ³j chÅ‚opak nie wie, Å¼e tu pracujÄ™.}
+{507}{}{KtoÅ› ci pomaga?}
+{508}{}{JeÅ›li szukasz pracy, pogadaj z braÄ‡mi.}
+{509}{}{RobiÄ™ to tylko dlatego, Å¼eby mÃ³c tu studiowaÄ‡.}
+{510}{}{Avellone'a obsÅ‚uÅ¼yÅ‚abym za darmo.}
+{511}{}{To nie to, Å¼e nie chcÄ™ z tobÄ… gadaÄ‡ ale... och, poczekaj, to jednak JEST to.}
+{512}{}{MuszÄ™ siÄ™ poÅ‚oÅ¼yÄ‡.}
+{513}{}{Praca z zamkniÄ™tymi ustami? Opowiem ci o niej innym razem.}
 {514}{}{Nie masz problemu z filmami porno, prawda?}
-{515}{}{Jesteœ now¹ podnietk¹?}
-{516}{}{Masz rêcznik? Jeden z aktorów mia³... wypadek.}
-{517}{}{Tylko nie gryŸ aktorów, a na pewno dobrze ci pójdzie.}
-{518}{}{Chcia³abym, ¿eby niektórzy aktorzy brali prysznic. Mam na myœli regularny przysznic.}
-{519}{}{Um, jesteœ tu od niedawna?}
-{520}{}{S³ony lukier? Przyzwyczaj siê do niego.}
-{1200}{}{. To dziêki tobie Enklawa leg³a w gruzach!}
-{1204}{}{! Enklawa nie mia³a szans!}
-{1207}{}{. To dziêki tobie Enklawa leg³a w gruzach!}
+{515}{}{JesteÅ› nowÄ… podnietkÄ…?}
+{516}{}{Masz rÄ™cznik? Jeden z aktorÃ³w miaÅ‚... wypadek.}
+{517}{}{Tylko nie gryÅº aktorÃ³w, a na pewno dobrze ci pÃ³jdzie.}
+{518}{}{ChciaÅ‚abym, Å¼eby niektÃ³rzy aktorzy brali prysznic. Mam na myÅ›li regularny przysznic.}
+{519}{}{Um, jesteÅ› tu od niedawna?}
+{520}{}{SÅ‚ony lukier? Przyzwyczaj siÄ™ do niego.}
+{1200}{}{. To dziÄ™ki tobie Enklawa legÅ‚a w gruzach!}
+{1204}{}{! Enklawa nie miaÅ‚a szans!}
+{1207}{}{. To dziÄ™ki tobie Enklawa legÅ‚a w gruzach!}
 {1235}{}{?}
 {1236}{}{!}
 {1238}{}{!}

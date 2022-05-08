@@ -1,57 +1,57 @@
-{100}{}{Ves a un necrófago más grande de lo normal.}
+{100}{}{Ves a un necrÃ³fago mÃ¡s grande de lo normal.}
 {101}{}{Ves a Zomak, conocido por algunos como El Destructor.}
-{102}{}{Ves a un necrófago grande y fornido cuyo rostro, bajo una frente fuertemente inclinada, refleja vastas reservas de estúpida superioridad.}
-{110}{}{¡Renuévate, Camarada! Soy Zomak. Hay quien me llama Zomak el Destructor. ¿Qué te trae por aquí?}
-{111}{}{¡Renuévate, Camarada! ¿Qué estás haciendo aquí? Dile a Zomak el Destructor qué te trae por aquí.}
-{112}{}{¡Reno!}
-{113}{}{¿Vaaaaaaaaale?}
-{114}{}{Tan sólo estoy echando un vistazo.}
-{115}{}{Deseo la Renovación.}
+{102}{}{Ves a un necrÃ³fago grande y fornido cuyo rostro, bajo una frente fuertemente inclinada, refleja vastas reservas de estÃºpida superioridad.}
+{110}{}{Â¡RenuÃ©vate, Camarada! Soy Zomak. Hay quien me llama Zomak el Destructor. Â¿QuÃ© te trae por aquÃ­?}
+{111}{}{Â¡RenuÃ©vate, Camarada! Â¿QuÃ© estÃ¡s haciendo aquÃ­? Dile a Zomak el Destructor quÃ© te trae por aquÃ­.}
+{112}{}{Â¡Reno!}
+{113}{}{Â¿Vaaaaaaaaale?}
+{114}{}{Tan sÃ³lo estoy echando un vistazo.}
+{115}{}{Deseo la RenovaciÃ³n.}
 {116}{}{He tomado el pasillo equivocado.}
-{120}{}{Deberías echarlo en algún otro lugar. O Zomak te hará ver las estrellas.}
-{130}{}{Entonces debes verlo a Él.}
-{131}{}{¿Él? ¿Dónde está ese Él?}
-{132}{}{No soy digno de verlo. Adiós.}
-{140}{}{Él es el garante de la iluminación. Él es quien promete Renovación a todos los que le siguen.}
-{141}{}{Bueno, estoy listo para la Renovación. ¿Dónde está?}
-{142}{}{A mí me pareces otro chiflado más. Me largo de aquí.}
-{150}{}{Bueno, está justo… ¡Oye!, De todos modos, ¿quién eres tú?}
-{151}{}{Sólo soy un trotamundos.}
+{120}{}{DeberÃ­as echarlo en algÃºn otro lugar. O Zomak te harÃ¡ ver las estrellas.}
+{130}{}{Entonces debes verlo a Ã‰l.}
+{131}{}{Â¿Ã‰l? Â¿DÃ³nde estÃ¡ ese Ã‰l?}
+{132}{}{No soy digno de verlo. AdiÃ³s.}
+{140}{}{Ã‰l es el garante de la iluminaciÃ³n. Ã‰l es quien promete RenovaciÃ³n a todos los que le siguen.}
+{141}{}{Bueno, estoy listo para la RenovaciÃ³n. Â¿DÃ³nde estÃ¡?}
+{142}{}{A mÃ­ me pareces otro chiflado mÃ¡s. Me largo de aquÃ­.}
+{150}{}{Bueno, estÃ¡ justoâ€¦ Â¡Oye!, De todos modos, Â¿quiÃ©n eres tÃº?}
+{151}{}{SÃ³lo soy un trotamundos.}
 {152}{}{Soy el Elegido.}
-{153}{}{Estoy aquí para mi Renovación anual.}
-{154}{}{Estará bien. Sólo tengo que hacerle un par de preguntas.}
-{160}{}{Bien, pues trota fuera de aquí.}
-{161}{}{Eh, de acuerdo. Adiós.}
-{170}{}{En ese caso está bien. Entra. Está en la siguiente estancia. No le hagas esperar.}
-{171}{}{No, iré directamente. Adiós.}
-{172}{}{Puede que vuelva más tarde. Adiós.}
-{180}{}{Puedes deberías elegir seguir vivo. Lárgate de aquí.}
+{153}{}{Estoy aquÃ­ para mi RenovaciÃ³n anual.}
+{154}{}{EstarÃ¡ bien. SÃ³lo tengo que hacerle un par de preguntas.}
+{160}{}{Bien, pues trota fuera de aquÃ­.}
+{161}{}{Eh, de acuerdo. AdiÃ³s.}
+{170}{}{En ese caso estÃ¡ bien. Entra. EstÃ¡ en la siguiente estancia. No le hagas esperar.}
+{171}{}{No, irÃ© directamente. AdiÃ³s.}
+{172}{}{Puede que vuelva mÃ¡s tarde. AdiÃ³s.}
+{180}{}{Puedes deberÃ­as elegir seguir vivo. LÃ¡rgate de aquÃ­.}
 {181}{}{Vale.}
-{200}{}{Sí, puedes Renovarte por completo ahí dentro.}
+{200}{}{SÃ­, puedes Renovarte por completo ahÃ­ dentro.}
 {201}{}{Vale.}
-{210}{}{¿Ook? ¿Qué quieres decir con eso? ¿Es que eres tonto?}
-{211}{}{¿Goop?}
-{220}{}{Lárgate de aquí. El Cerebro no tiene tiempo para los de tu clase.}
-{221}{}{Está bien. Me iré ahora.}
-{230}{}{Aquí abajo no hay nada excepto la guarida del Cerebro. Muchacho, eres tonto.}
-{231}{}{¿El Cerebro?}
-{232}{}{Sólo te estaba probando. Y lo has hecho bien. Ahora, déjame entrar.}
-{233}{}{Supongo que estoy confuso. Debe de ser toda esta radiación. Adiós.}
-{240}{}{Ups. Eh, aquí no hay nada. Nada de nada. Límitate a marcharte ahora.}
-{241}{}{¿Estás seguro de que aquí no hay nada?}
-{242}{}{De acuerdo. Adiós.}
-{250}{}{Que sí. Estoy seguro. Desaparece.}
-{251}{}{Bueno, si tú lo dices. Adiós.}
-{260}{}{Oh, je, je... sí. Lo sabía. Emm, bien, err, ¿he aprobado? }
-{261}{}{Desde luego. Ahora, déjame entrar.}
+{210}{}{Â¿Ook? Â¿QuÃ© quieres decir con eso? Â¿Es que eres tonto?}
+{211}{}{Â¿Goop?}
+{220}{}{LÃ¡rgate de aquÃ­. El Cerebro no tiene tiempo para los de tu clase.}
+{221}{}{EstÃ¡ bien. Me irÃ© ahora.}
+{230}{}{AquÃ­ abajo no hay nada excepto la guarida del Cerebro. Muchacho, eres tonto.}
+{231}{}{Â¿El Cerebro?}
+{232}{}{SÃ³lo te estaba probando. Y lo has hecho bien. Ahora, dÃ©jame entrar.}
+{233}{}{Supongo que estoy confuso. Debe de ser toda esta radiaciÃ³n. AdiÃ³s.}
+{240}{}{Ups. Eh, aquÃ­ no hay nada. Nada de nada. LÃ­mitate a marcharte ahora.}
+{241}{}{Â¿EstÃ¡s seguro de que aquÃ­ no hay nada?}
+{242}{}{De acuerdo. AdiÃ³s.}
+{250}{}{Que sÃ­. Estoy seguro. Desaparece.}
+{251}{}{Bueno, si tÃº lo dices. AdiÃ³s.}
+{260}{}{Oh, je, je... sÃ­. Lo sabÃ­a. Emm, bien, err, Â¿he aprobado? }
+{261}{}{Desde luego. Ahora, dÃ©jame entrar.}
 {262}{}{No, no lo has hecho, y ahora tengo que informar sobre ti.}
-{270}{}{Está bien. Puedes entrar.}
-{271}{}{De acuerdo. Adiós.}
-{280}{}{Tienes el símbolo. Entra.}
+{270}{}{EstÃ¡ bien. Puedes entrar.}
+{271}{}{De acuerdo. AdiÃ³s.}
+{280}{}{Tienes el sÃ­mbolo. Entra.}
 {281}{}{Entro.}
-{282}{}{¿El símbolo?}
-{283}{}{Paso de símbolos. Adiós.}
-{290}{}{Sí, el sagrado talismán de la Renovación. ¡Renovación, Camarada! ¡Renovación!}
-{291}{}{Sí, Reno también para ti. Adiós.}
-{300}{}{Renuévate, Hermano. Puedes pasar.}
-{301}{}{Renuévate, Hermana. Puedes pasar.}
+{282}{}{Â¿El sÃ­mbolo?}
+{283}{}{Paso de sÃ­mbolos. AdiÃ³s.}
+{290}{}{SÃ­, el sagrado talismÃ¡n de la RenovaciÃ³n. Â¡RenovaciÃ³n, Camarada! Â¡RenovaciÃ³n!}
+{291}{}{SÃ­, Reno tambiÃ©n para ti. AdiÃ³s.}
+{300}{}{RenuÃ©vate, Hermano. Puedes pasar.}
+{301}{}{RenuÃ©vate, Hermana. Puedes pasar.}

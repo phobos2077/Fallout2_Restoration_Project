@@ -1,20 +1,20 @@
-{100}{}{Você vê um mutante com o olhar turvo.}
-{101}{}{Você vê Elmo, o mutante bêbado.}
-{102}{}{Você vê um mutante com os olhos turvos que parece ter dificuldade em te encarar.}
-{103}{}{Oh, minha cabeça dói.}
-{104}{}{Por que eu sempre acordo na prisão?}
-{105}{}{Alguém faz essa sala parar de girar...}
+{100}{}{VocÃª vÃª um mutante com o olhar turvo.}
+{101}{}{VocÃª vÃª Elmo, o mutante bÃªbado.}
+{102}{}{VocÃª vÃª um mutante com os olhos turvos que parece ter dificuldade em te encarar.}
+{103}{}{Oh, minha cabeÃ§a dÃ³i.}
+{104}{}{Por que eu sempre acordo na prisÃ£o?}
+{105}{}{AlguÃ©m faz essa sala parar de girar...}
 {106}{}{Acho que vou vomitar.}
-{107}{}{Deusa da porcelana, ouça meu choro! Ooh, minha cabeça...}
+{107}{}{Deusa da porcelana, ouÃ§a meu choro! Ooh, minha cabeÃ§a...}
 {108}{}{Shhhhhh! Por favor! Shhhhh!}
-{109}{}{Alguém tem meus óculos escuros?}
-{110}{}{Marcus deve estar chateado por eu continuar bêbado desse jeito.}
-{111}{}{Tem uma breja aí, cara? É pra passar toda essa ressaca.}
+{109}{}{AlguÃ©m tem meus Ã³culos escuros?}
+{110}{}{Marcus deve estar chateado por eu continuar bÃªbado desse jeito.}
+{111}{}{Tem uma breja aÃ­, cara? Ã‰ pra passar toda essa ressaca.}
 {112}{}{Cara, estou com sede.}
-{113}{}{Nossa... um bourbon, um scotch e uma cerveja, e e do nada me vejo na prisão.}
-{114}{}{Não me mostre comida... não me mostre comida...}
-{115}{}{...não vá no canto... eu vomitei alí.}
-{116}{}{Cara... outra noite na gaiola bêbados.}
-{117}{}{Quer lutar? Estou meio bêbado.}
+{113}{}{Nossa... um bourbon, um scotch e uma cerveja, e e do nada me vejo na prisÃ£o.}
+{114}{}{NÃ£o me mostre comida... nÃ£o me mostre comida...}
+{115}{}{...nÃ£o vÃ¡ no canto... eu vomitei alÃ­.}
+{116}{}{Cara... outra noite na gaiola bÃªbados.}
+{117}{}{Quer lutar? Estou meio bÃªbado.}
 {118}{}{::zigzag:: ::cambaleando::}
-{119}{}{Eu te amo, cara que eu nem conheço!}
+{119}{}{Eu te amo, cara que eu nem conheÃ§o!}

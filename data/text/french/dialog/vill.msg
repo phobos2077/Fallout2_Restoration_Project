@@ -1,5 +1,5 @@
 {100}{}{Tu entres dans un petit village. Tu vois plein de rataupes partout. Ils n'attaquent pas, bizarrement.}
-{101}{}{Le village est vide on dirait. Une odeur de rataupe rôti se répand dans les airs.}
-{102}{}{Le village a beaucoup changé depuis ta dernière visite.}
-{103}{}{Il y a eu encore du changement depuis ta dernière visite. On dirait que l'enclos à rataupes a été remplacé par un mur.}
-{104}{}{Hé Ho ! Où est passé tout le monde ?}
+{101}{}{Le village est vide on dirait. Une odeur de rataupe rÃ´ti se rÃ©pand dans les airs.}
+{102}{}{Le village a beaucoup changÃ© depuis ta derniÃ¨re visite.}
+{103}{}{Il y a eu encore du changement depuis ta derniÃ¨re visite. On dirait que l'enclos Ã  rataupes a Ã©tÃ© remplacÃ© par un mur.}
+{104}{}{HÃ© Ho ! OÃ¹ est passÃ© tout le monde ?}

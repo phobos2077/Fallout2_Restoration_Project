@@ -1,94 +1,94 @@
-{100}{}{Widzisz kobietê z wiecznie wykrzywionym wyrazem twarzy.}
-{101}{}{Widzisz Liz, szefow¹ Sklepu Wielobran¿owego.}
-{102}{}{Widzisz kobietê w œrednim wieku, na twarzy ma wyryt¹ wiecznie skrzywion¹ minê. Chyba nale¿y do tych ludzi, którzy znajduj¹ perwersyjn¹ przyjemnoœæ w ciê¿kim ¿yciu.}
-{103}{}{Witaj, jestem Liz. Czego sobie ¿yczysz?}
+{100}{}{Widzisz kobietÄ™ z wiecznie wykrzywionym wyrazem twarzy.}
+{101}{}{Widzisz Liz, szefowÄ… Sklepu WielobranÅ¼owego.}
+{102}{}{Widzisz kobietÄ™ w Å›rednim wieku, na twarzy ma wyrytÄ… wiecznie skrzywionÄ… minÄ™. Chyba naleÅ¼y do tych ludzi, ktÃ³rzy znajdujÄ… perwersyjnÄ… przyjemnoÅ›Ä‡ w ciÄ™Å¼kim Å¼yciu.}
+{103}{}{Witaj, jestem Liz. Czego sobie Å¼yczysz?}
 {104}{}{Czego znowu?}
 {105}{}{Nggg! Nnnnnng!}
-{106}{}{Moja chceæ toFFFar!}
-{107}{}{Chcê coœ kupiæ.}
-{108}{}{Co mo¿esz mi powiedzieæ o tym mieœcie?}
-{109}{}{Chcê coœ zabiæ. Co jest w pobli¿u?}
+{106}{}{Moja chceÄ‡ toFFFar!}
+{107}{}{ChcÄ™ coÅ› kupiÄ‡.}
+{108}{}{Co moÅ¼esz mi powiedzieÄ‡ o tym mieÅ›cie?}
+{109}{}{ChcÄ™ coÅ› zabiÄ‡. Co jest w pobliÅ¼u?}
 {110}{}{Co z tymi spluwami w twojej piwnicy?}
-{111}{}{Jak rozumiem, masz mnóstwo broni. Trochê jej potrzebujê.}
+{111}{}{Jak rozumiem, masz mnÃ³stwo broni. TrochÄ™ jej potrzebujÄ™.}
 {112}{}{Nic nic.}
-{113}{}{O Bo¿e... nastêpne bezmózgie mutanckie dziecko. Kiedy ktoœ w koñcu po prostu je wszystkie powystrzela?}
+{113}{}{O BoÅ¼e... nastÄ™pne bezmÃ³zgie mutanckie dziecko. Kiedy ktoÅ› w koÅ„cu po prostu je wszystkie powystrzela?}
 {114}{}{Gurgl.}
-{115}{}{Mów powoli i zrozumiale, a zobaczymy, czy mogê ci pomóc.}
+{115}{}{MÃ³w powoli i zrozumiale, a zobaczymy, czy mogÄ™ ci pomÃ³c.}
 {116}{}{Nn! Tofar! Moja!}
 {117}{}{Do dzenia!}
-{118}{}{Chcesz coœ kupiæ?}
+{118}{}{Chcesz coÅ› kupiÄ‡?}
 {119}{}{Tak!}
 {120}{}{Nie nie nie.}
-{121}{}{W porz¹dku. Co chcesz?}
+{121}{}{W porzÄ…dku. Co chcesz?}
 {122}{}{Handluj.}
-{123}{}{Nie zapomnij o op³acie us³ugowej.}
+{123}{}{Nie zapomnij o opÅ‚acie usÅ‚ugowej.}
 {124}{}{Denkuje!}
-{125}{}{Chcesz coœ kupiæ? Dobrze. Oto co mam.}
+{125}{}{Chcesz coÅ› kupiÄ‡? Dobrze. Oto co mam.}
 {126}{}{Jeszcze jedno...}
-{127}{}{Dziêki. Trzymaj siê.}
-{128}{}{To ma³e, nudne miasteczko górnicze pe³ne ró¿nego rodzaju wyrzutków. Chcesz wycieczkê z przewodnikiem, pogadaj ze Stevem, albo kimœ tam.}
-{129}{}{£a³, nie w humorku co? Mam kilka innych pytañ.}
+{127}{}{DziÄ™ki. Trzymaj siÄ™.}
+{128}{}{To maÅ‚e, nudne miasteczko gÃ³rnicze peÅ‚ne rÃ³Å¼nego rodzaju wyrzutkÃ³w. Chcesz wycieczkÄ™ z przewodnikiem, pogadaj ze Stevem, albo kimÅ› tam.}
+{129}{}{ÅaÅ‚, nie w humorku co? Mam kilka innych pytaÅ„.}
 {130}{}{Dobra. Na razie.}
-{131}{}{Co chcesz zabiæ?}
+{131}{}{Co chcesz zabiÄ‡?}
 {132}{}{Radskorpiony, szczury, takie plugastwo. }
 {133}{}{Ach, okazyjnego humanoida.}
-{134}{}{Ciebie. Giñ, suko.}
-{135}{}{Z³ych.}
+{134}{}{Ciebie. GiÅ„, suko.}
+{135}{}{ZÅ‚ych.}
 {136}{}{Nikogo. Zapomnij o tym.}
-{137}{}{Kto ci o tym powiedzia³? To znaczy... oczywiœcie, ¿e nie! Nie rozœmieszaj mnie!}
-{138}{}{Uspokój siê. Jacob mi powiedzia³.}
-{139}{}{Ta, wiêc gadaj¹ o tym w ca³ym mieœcie i nie jest to ju¿ ¿adna tajemnica.}
-{140}{}{Twoja tajemnica jest bezpieczna. Mam j¹ z wiarygodnego Ÿród³a.}
-{141}{}{Mo¿esz spróbowaæ w jaskiniach albo w pobli¿u domów. Jestem pewna, ¿e tam jest mnóstwo potworów.}
-{142}{}{Dziêki. Na razie.}
-{143}{}{Humanoidzi, co? Jakiœ szczególny rodzaj humanoidów?}
+{137}{}{Kto ci o tym powiedziaÅ‚? To znaczy... oczywiÅ›cie, Å¼e nie! Nie rozÅ›mieszaj mnie!}
+{138}{}{UspokÃ³j siÄ™. Jacob mi powiedziaÅ‚.}
+{139}{}{Ta, wiÄ™c gadajÄ… o tym w caÅ‚ym mieÅ›cie i nie jest to juÅ¼ Å¼adna tajemnica.}
+{140}{}{Twoja tajemnica jest bezpieczna. Mam jÄ… z wiarygodnego ÅºrÃ³dÅ‚a.}
+{141}{}{MoÅ¼esz sprÃ³bowaÄ‡ w jaskiniach albo w pobliÅ¼u domÃ³w. Jestem pewna, Å¼e tam jest mnÃ³stwo potworÃ³w.}
+{142}{}{DziÄ™ki. Na razie.}
+{143}{}{Humanoidzi, co? JakiÅ› szczegÃ³lny rodzaj humanoidÃ³w?}
 {144}{}{Ludzie.}
 {145}{}{Ghule.}
 {146}{}{Mutanty.}
-{147}{}{Tylko ¿artujê.}
-{148}{}{Jaka jest twoja definicja z³ych?}
-{149}{}{Ktokolwiek, kogo nie lubiê. G³ównie ludzie.}
-{150}{}{Ktokolwiek, kto wejdzie mi w drogê.}
-{151}{}{To doœæ p³ynna definicja.}
-{152}{}{A, no có¿, je¿eli masz j¹ z wiarygodnego Ÿród³a, to owszem. Czy po³o¿ysz kres dominacji mutantów?}
+{147}{}{Tylko Å¼artujÄ™.}
+{148}{}{Jaka jest twoja definicja zÅ‚ych?}
+{149}{}{Ktokolwiek, kogo nie lubiÄ™. GÅ‚Ã³wnie ludzie.}
+{150}{}{Ktokolwiek, kto wejdzie mi w drogÄ™.}
+{151}{}{To doÅ›Ä‡ pÅ‚ynna definicja.}
+{152}{}{A, no cÃ³Å¼, jeÅ¼eli masz jÄ… z wiarygodnego ÅºrÃ³dÅ‚a, to owszem. Czy poÅ‚oÅ¼ysz kres dominacji mutantÃ³w?}
 {153}{}{Ta.}
 {154}{}{Nie.}
-{155}{}{Wiêc teraz chyba zajmê siê drobiazgami.}
+{155}{}{WiÄ™c teraz chyba zajmÄ™ siÄ™ drobiazgami.}
 {156}{}{[dalej]}
 {157}{}{Nie popieram zabijania w tym sklepie. Wynocha.}
 {158}{}{Jasne. Suka.}
-{159}{}{Ghule to po¿yteczni niewolnicy. Nie maj¹ na tyle w³asnego umys³u, aby byæ ludŸmi, ale nie warto ich tak¿e zabijaæ. Nie popieram zabijania ghuli.}
-{160}{}{Dobrze. Chcê czegoœ innego.}
-{161}{}{Dobra, dobra. Czeœæ.}
-{162}{}{Je¿eli tak ciê interesuje zabijanie mutantów, to mo¿e idŸ porozmawiaæ z aptekarzem Jacobem.}
-{163}{}{Jacobem, co? Zrobi siê.}
-{164}{}{Tak myœla³am. A teraz ruszaj st¹d.}
+{159}{}{Ghule to poÅ¼yteczni niewolnicy. Nie majÄ… na tyle wÅ‚asnego umysÅ‚u, aby byÄ‡ ludÅºmi, ale nie warto ich takÅ¼e zabijaÄ‡. Nie popieram zabijania ghuli.}
+{160}{}{Dobrze. ChcÄ™ czegoÅ› innego.}
+{161}{}{Dobra, dobra. CzeÅ›Ä‡.}
+{162}{}{JeÅ¼eli tak ciÄ™ interesuje zabijanie mutantÃ³w, to moÅ¼e idÅº porozmawiaÄ‡ z aptekarzem Jacobem.}
+{163}{}{Jacobem, co? Zrobi siÄ™.}
+{164}{}{Tak myÅ›laÅ‚am. A teraz ruszaj stÄ…d.}
 {165}{}{Jasne.}
-{166}{}{W takim razie przejdŸ przez ukryte przejœcie w pod³odze w moim pokoju, dostaniesz siê do warowni. Mam tam ma³y arsena³. IdŸ ju¿.}
-{167}{}{Dziêkujê.}
-{168}{}{Przypadkowo pozby³am siê wszelkiej broni poza t¹, któr¹ tu widzisz. Pomóc ci w czymœ jeszcze?}
+{166}{}{W takim razie przejdÅº przez ukryte przejÅ›cie w podÅ‚odze w moim pokoju, dostaniesz siÄ™ do warowni. Mam tam maÅ‚y arsenaÅ‚. IdÅº juÅ¼.}
+{167}{}{DziÄ™kujÄ™.}
+{168}{}{Przypadkowo pozbyÅ‚am siÄ™ wszelkiej broni poza tÄ…, ktÃ³rÄ… tu widzisz. PomÃ³c ci w czymÅ› jeszcze?}
 {169}{}{Tak.}
 {170}{}{Nie.}
-{171}{}{Nie bêdê ci nic sprzedawaæ. Wynocha z mojego sklepu.}
+{171}{}{Nie bÄ™dÄ™ ci nic sprzedawaÄ‡. Wynocha z mojego sklepu.}
 {172}{}{[dalej]}
-{173}{}{Sklep jest zamkniêty. Otwieramy o ósmej.}
-{174}{}{Hej! Uciekaj stamt¹d!}
-{175}{}{Wystarczy! Dostaniesz to, o co siê tak prosisz!}
-{178}{}{Niewa¿ne, czy masz to od samego Pana B.! Po prostu chcê mieæ cholern¹ pewnoœæ, ¿e nikt wiêcej siê o tym nie dowie.}
-{179}{}{Hej! Nie schodŸ tam!}
-{180}{}{Nie bêdê ciê wiêcej ostrzega³a. Trzymaj siê z dala od tamtego miejsca!}
-{181}{}{Wystarczy! ChodŸ tu!}
-{182}{}{Czym jeszcze chcesz mi zawracaæ g³owê?}
-{183}{}{Dziêkujê.}
+{173}{}{Sklep jest zamkniÄ™ty. Otwieramy o Ã³smej.}
+{174}{}{Hej! Uciekaj stamtÄ…d!}
+{175}{}{Wystarczy! Dostaniesz to, o co siÄ™ tak prosisz!}
+{178}{}{NiewaÅ¼ne, czy masz to od samego Pana B.! Po prostu chcÄ™ mieÄ‡ cholernÄ… pewnoÅ›Ä‡, Å¼e nikt wiÄ™cej siÄ™ o tym nie dowie.}
+{179}{}{Hej! Nie schodÅº tam!}
+{180}{}{Nie bÄ™dÄ™ ciÄ™ wiÄ™cej ostrzegaÅ‚a. Trzymaj siÄ™ z dala od tamtego miejsca!}
+{181}{}{Wystarczy! ChodÅº tu!}
+{182}{}{Czym jeszcze chcesz mi zawracaÄ‡ gÅ‚owÄ™?}
+{183}{}{DziÄ™kujÄ™.}
 {184}{}{[KONTYNUUJ]}
 {185}{}{Hej! Kto tam jest, do cholery?}
-{186}{}{Nie wiem, kim jesteœ, ale idê po ciebie.}
-{200}{}{Masz mo¿e dla mnie coœ specjalnego, czego nie ma na pó³kach?}
-{201}{}{W³aœciwie... tak, mam. Widok twojego wylinia³ego psa przypomnia³ mi o pewnej rzeczy, któr¹ kiedyœ znalaz³am. Interesowa³by ciê mo¿e pancerz dla niego? Powiedzmy za 2000$.}
-{202}{}{Jasne, ¿e tak!}
-{203}{}{Eee nie, ten pies i tak da rade ka¿demu. Ale dziêki. Zobaczmy co tam jeszcze masz.}
-{204}{}{[Patrzy na ciebie i twoich towarzyszy.] Niestety. Nie s¹dzê ¿ebym mia³a coœ co mog³oby ciê zainteresowaæ. To co widaæ to wszystko co mam do sprzedania.}
+{186}{}{Nie wiem, kim jesteÅ›, ale idÄ™ po ciebie.}
+{200}{}{Masz moÅ¼e dla mnie coÅ› specjalnego, czego nie ma na pÃ³Å‚kach?}
+{201}{}{WÅ‚aÅ›ciwie... tak, mam. Widok twojego wyliniaÅ‚ego psa przypomniaÅ‚ mi o pewnej rzeczy, ktÃ³rÄ… kiedyÅ› znalazÅ‚am. InteresowaÅ‚by ciÄ™ moÅ¼e pancerz dla niego? Powiedzmy za 2000$.}
+{202}{}{Jasne, Å¼e tak!}
+{203}{}{Eee nie, ten pies i tak da rade kaÅ¼demu. Ale dziÄ™ki. Zobaczmy co tam jeszcze masz.}
+{204}{}{[Patrzy na ciebie i twoich towarzyszy.] Niestety. Nie sÄ…dzÄ™ Å¼ebym miaÅ‚a coÅ› co mogÅ‚oby ciÄ™ zainteresowaÄ‡. To co widaÄ‡ to wszystko co mam do sprzedania.}
 {205}{}{No dobra zobaczmy to.}
-{206}{}{Mówiê przecie¿ 2000$. Wróæ z kas¹.}
-{207}{}{Dobra. Poka¿ co tam jeszcze masz.}
-{208}{}{W porz¹dku. Jeszcze tu wrócê.}
+{206}{}{MÃ³wiÄ™ przecieÅ¼ 2000$. WrÃ³Ä‡ z kasÄ….}
+{207}{}{Dobra. PokaÅ¼ co tam jeszcze masz.}
+{208}{}{W porzÄ…dku. Jeszcze tu wrÃ³cÄ™.}

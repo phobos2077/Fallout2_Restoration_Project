@@ -1,46 +1,46 @@
-{100}{}{Widzisz stra¿niczkê.}
-{150}{}{Stra¿nik pilnuje starego koœcio³a.}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{150}{}{StraÅ¼nik pilnuje starego koÅ›cioÅ‚a.}
 {151}{}{[ROZMAWIAJ]}
-{152}{}{Jak œmiesz siê tu znowu pokazywaæ!}
+{152}{}{Jak Å›miesz siÄ™ tu znowu pokazywaÄ‡!}
 {153}{}{[Zrobione.]}
-{154}{}{Hola! Nikt nie mo¿e wejœæ w nocy do magazynu Rodziny Wright!}
-{155}{}{Pan Wright wys³a³ mnie w pewnej sprawie. Jeœli nic o tym nie wiesz, to ju¿ twój problem.}
-{156}{}{Przyjdê jutro.}
-{157}{}{Muszê siê tam natychmiast dostaæ.}
-{158}{}{[Wygl¹da na zdenerwowanego] Przepraszam... nie wiedzia³em. Masz ze sob¹ jakieœ papiery?}
-{159}{}{Daj spokój! W ogóle potrafisz czytaæ?}
-{160}{}{Nie, ¿adnych mi nie da³.}
-{161}{}{Zostawi³em u jednego z moich ludzi. Zaraz przyniosê.}
-{162}{}{Nie mo¿esz wejœæ bez papierów.}
-{163}{}{Oto moje upowa¿nienie! Do ataku!}
-{164}{}{Jeszcze tu wrócê.}
-{165}{}{[Zak³opotany] Nie... ech... dobra, w³aŸ ju¿...}
-{166}{}{Dziêkujê.}
-{167}{}{No, tak ju¿ lepiej.}
+{154}{}{Hola! Nikt nie moÅ¼e wejÅ›Ä‡ w nocy do magazynu Rodziny Wright!}
+{155}{}{Pan Wright wysÅ‚aÅ‚ mnie w pewnej sprawie. JeÅ›li nic o tym nie wiesz, to juÅ¼ twÃ³j problem.}
+{156}{}{PrzyjdÄ™ jutro.}
+{157}{}{MuszÄ™ siÄ™ tam natychmiast dostaÄ‡.}
+{158}{}{[WyglÄ…da na zdenerwowanego] Przepraszam... nie wiedziaÅ‚em. Masz ze sobÄ… jakieÅ› papiery?}
+{159}{}{Daj spokÃ³j! W ogÃ³le potrafisz czytaÄ‡?}
+{160}{}{Nie, Å¼adnych mi nie daÅ‚.}
+{161}{}{ZostawiÅ‚em u jednego z moich ludzi. Zaraz przyniosÄ™.}
+{162}{}{Nie moÅ¼esz wejÅ›Ä‡ bez papierÃ³w.}
+{163}{}{Oto moje upowaÅ¼nienie! Do ataku!}
+{164}{}{Jeszcze tu wrÃ³cÄ™.}
+{165}{}{[ZakÅ‚opotany] Nie... ech... dobra, wÅ‚aÅº juÅ¼...}
+{166}{}{DziÄ™kujÄ™.}
+{167}{}{No, tak juÅ¼ lepiej.}
 {168}{}{Ludzie, czego wy chcecie?}
-{169}{}{Musimy wejœæ do œrodka.}
-{170}{}{Szef nas tu przys³a³.}
-{171}{}{Powinni mnie uprzedziæ, ¿e przyjdzie ca³a grupa. Spadajcie!}
-{172}{}{Twoja g³owa te¿ zaraz spadnie!}
-{173}{}{Dobra, dobra. Ju¿ nas nie ma.}
+{169}{}{Musimy wejÅ›Ä‡ do Å›rodka.}
+{170}{}{Szef nas tu przysÅ‚aÅ‚.}
+{171}{}{Powinni mnie uprzedziÄ‡, Å¼e przyjdzie caÅ‚a grupa. Spadajcie!}
+{172}{}{Twoja gÅ‚owa teÅ¼ zaraz spadnie!}
+{173}{}{Dobra, dobra. JuÅ¼ nas nie ma.}
 {174}{}{Jaki tu macie interes?}
-{175}{}{Muszê wejœæ do œrodka.}
-{176}{}{Szef mnie przys³a³ w interesach. Odsuñ siê!}
-{177}{}{Usun¹æ twoj¹ g³owê z szyi.}
-{178}{}{Przepraszam, pomyli³y mi siê domy.}
-{179}{}{Witaj znowu. Mo¿esz wejœæ.}
-{180}{}{Dziêkujê.}
-{181}{}{Hej, odpiernicz siê od tych drzwi!}
-{182}{}{Nie dotykaj tych drzwi. No chyba, ¿e szukasz k³opotów.}
-{183}{}{Jeœli zobaczê, ¿e dotykasz tych drzwi, dostaniesz kulkê w ³eb.}
+{175}{}{MuszÄ™ wejÅ›Ä‡ do Å›rodka.}
+{176}{}{Szef mnie przysÅ‚aÅ‚ w interesach. OdsuÅ„ siÄ™!}
+{177}{}{UsunÄ…Ä‡ twojÄ… gÅ‚owÄ™ z szyi.}
+{178}{}{Przepraszam, pomyliÅ‚y mi siÄ™ domy.}
+{179}{}{Witaj znowu. MoÅ¼esz wejÅ›Ä‡.}
+{180}{}{DziÄ™kujÄ™.}
+{181}{}{Hej, odpiernicz siÄ™ od tych drzwi!}
+{182}{}{Nie dotykaj tych drzwi. No chyba, Å¼e szukasz kÅ‚opotÃ³w.}
+{183}{}{JeÅ›li zobaczÄ™, Å¼e dotykasz tych drzwi, dostaniesz kulkÄ™ w Å‚eb.}
 {184}{}{Hej, co ty wyprawiasz?}
-{185}{}{Mam ciê doœæ.}
-{186}{}{Przepraszam. Ty mo¿esz wejœæ, ale twoi koledzy musz¹ poczekaæ na zewn¹trz.}
-{187}{}{Tylko jedna osoba mo¿e wejœæ.}
-{200}{}{Dobry wieczór.}
-{201}{}{Dzieñ dobry.}
-{202}{}{Dzieñ dobry.}
-{203}{}{Ju¿ koñczê robotê, dziêkujê.}
-{250}{}{Wiesz co, mam ju¿ doœæ tego twojego pieprzenia!}
-{251}{}{Wiesz co, mam dosyæ twojego pieprzenia!}
+{185}{}{Mam ciÄ™ doÅ›Ä‡.}
+{186}{}{Przepraszam. Ty moÅ¼esz wejÅ›Ä‡, ale twoi koledzy muszÄ… poczekaÄ‡ na zewnÄ…trz.}
+{187}{}{Tylko jedna osoba moÅ¼e wejÅ›Ä‡.}
+{200}{}{Dobry wieczÃ³r.}
+{201}{}{DzieÅ„ dobry.}
+{202}{}{DzieÅ„ dobry.}
+{203}{}{JuÅ¼ koÅ„czÄ™ robotÄ™, dziÄ™kujÄ™.}
+{250}{}{Wiesz co, mam juÅ¼ doÅ›Ä‡ tego twojego pieprzenia!}
+{251}{}{Wiesz co, mam dosyÄ‡ twojego pieprzenia!}
 {252}{}{[KONIEC]}

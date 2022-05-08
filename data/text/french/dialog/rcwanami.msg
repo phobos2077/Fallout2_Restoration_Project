@@ -1,4 +1,4 @@
-{100}{}{Tu aperçois un Wanamingo.}
-{101}{}{Le Wanamingo n'a pas l'air très ravi à la vue d'hôtes imprévus.}
+{100}{}{Tu aperÃ§ois un Wanamingo.}
+{101}{}{Le Wanamingo n'a pas l'air trÃ¨s ravi Ã  la vue d'hÃ´tes imprÃ©vus.}
 {102}{}{Tu vois la reine Wanamingo.}
-{103}{}{La reine Wanamingo n'a pas l'air très ravie à la vue d'hôtes imprévus.}
+{103}{}{La reine Wanamingo n'a pas l'air trÃ¨s ravie Ã  la vue d'hÃ´tes imprÃ©vus.}

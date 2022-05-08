@@ -1,9 +1,9 @@
-{100}{}{Ves al señora Peterson.}
-{101}{}{Ves a una mujer joven, bonita. Sonríe cuando te ve.}
-{200}{}{Bienvenido a la Abadía, amigo.}
+{100}{}{Ves al seÃ±ora Peterson.}
+{101}{}{Ves a una mujer joven, bonita. SonrÃ­e cuando te ve.}
+{200}{}{Bienvenido a la AbadÃ­a, amigo.}
 {201}{}{Habla con mi esposo si necesitas algo.}
-{202}{}{Un día precioso, ¿verdad?}
-{300}{}{Bienvenido a la Abadía, amigo.}
+{202}{}{Un dÃ­a precioso, Â¿verdad?}
+{300}{}{Bienvenido a la AbadÃ­a, amigo.}
 {301}{}{Habla con mi esposo si necesitas algo.}
-{302}{}{Una noche preciosa, ¿verdad?}
+{302}{}{Una noche preciosa, Â¿verdad?}
 {400}{}{No tengo nada que decirte. Por favor, vete.}

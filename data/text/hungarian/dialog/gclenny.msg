@@ -1,222 +1,222 @@
-{100}{}{Ez az id?sebb ghoul különösen kisnövés?.}
-{101}{}{? Lenny. Harold segédje.}
-{102}{}{Egy alacsony, id?sebb ghoult látsz. Nem nagyon jut ideje rád.}
-{110}{}{Üdv, a nevem Lenny. M'miben s'segíthetek?}
-{111}{}{Ü'üdv minálunk. Miben s'segíthetek?}
-{112}{}{Úgy hallottam, a Menedéklakó leszármazottja vagy. Tudnod kell, hogy én már találkoztam egyszer a Menedéklakóval.}
-{113}{}{Üdvözlet! N'nem t'tudom fölfogni, m'mennyire hasonlítasz a Menedéklakóra. M'mit t'tehetek érted?}
-{114}{}{Grenny? Hahó!}
-{115}{}{Mi a munkád?}
-{116}{}{Megsebesültem. Tudsz rajtam segíteni?}
-{117}{}{Az egyik társam megsebesült. Tudsz segíteni?}
-{118}{}{A barátaim megsebesültek. Számíthatunk a segítségedre?}
-{119}{}{Lenny, hallottál már valaha az Édenkert Létrehozást El?segít? Táskáról?}
-{120}{}{Te találkoztál az ?sömmel?}
-{121}{}{Csak körbejárok. Viszlát!}
+{100}{}{Ez az id?sebb ghoul kÃ¼lÃ¶nÃ¶sen kisnÃ¶vÃ©s?.}
+{101}{}{? Lenny. Harold segÃ©dje.}
+{102}{}{Egy alacsony, id?sebb ghoult lÃ¡tsz. Nem nagyon jut ideje rÃ¡d.}
+{110}{}{Ãœdv, a nevem Lenny. M'miben s'segÃ­thetek?}
+{111}{}{Ãœ'Ã¼dv minÃ¡lunk. Miben s'segÃ­thetek?}
+{112}{}{Ãšgy hallottam, a MenedÃ©klakÃ³ leszÃ¡rmazottja vagy. Tudnod kell, hogy Ã©n mÃ¡r talÃ¡lkoztam egyszer a MenedÃ©klakÃ³val.}
+{113}{}{ÃœdvÃ¶zlet! N'nem t'tudom fÃ¶lfogni, m'mennyire hasonlÃ­tasz a MenedÃ©klakÃ³ra. M'mit t'tehetek Ã©rted?}
+{114}{}{Grenny? HahÃ³!}
+{115}{}{Mi a munkÃ¡d?}
+{116}{}{MegsebesÃ¼ltem. Tudsz rajtam segÃ­teni?}
+{117}{}{Az egyik tÃ¡rsam megsebesÃ¼lt. Tudsz segÃ­teni?}
+{118}{}{A barÃ¡taim megsebesÃ¼ltek. SzÃ¡mÃ­thatunk a segÃ­tsÃ©gedre?}
+{119}{}{Lenny, hallottÃ¡l mÃ¡r valaha az Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡rÃ³l?}
+{120}{}{Te talÃ¡lkoztÃ¡l az ?sÃ¶mmel?}
+{121}{}{Csak kÃ¶rbejÃ¡rok. ViszlÃ¡t!}
 {122}{}{Can you provide healing?}
 {125}{}{Hogyne. Mi a bajod?}
-{126}{}{Hála az égnek, most rendben vagyok.}
+{126}{}{HÃ¡la az Ã©gnek, most rendben vagyok.}
 {130}{}{N'nem k'kellett volna elhagyni a faludat. M'menj haza!}
 {131}{}{Haza? Viszla...}
 {140}{}{M'menj haza!}
-{141}{}{N'nem tudok id?t sz'szakítani rád.}
-{142}{}{Gy'gyagyás. Menj el innen!}
-{150}{}{Az Édenkert L'létrehozást El?segít? T'táskát mondtad? Úgy hallottam, a Menedékekben van ilyesmi. Ennél többet én se tudok róla.}
-{151}{}{Megsebesültem. Tudsz rajtam segíteni?}
-{152}{}{Az egyik társam megsebesült. Tudsz segíteni?}
-{153}{}{Az ?söm, akit a Menedéklakóként tiszteltek, azt mondta, hogy a 13-as Menedék tartozik nekünk egy ilyennel. Meg kell találnom azt a táskát.}
-{154}{}{Úgy vélem, most elég lesz ennyi tudnivaló is. Sok szerencsét!}
-{160}{}{H'háát, leginkább H'haroldnak segítek. M'mikor az emberek megsérülnek, m'meggyógyítom ?ket.}
-{161}{}{Miben segítesz neki?}
-{162}{}{Feltennék még kérdéseket.}
-{163}{}{Az embereket gyógyítod?}
-{164}{}{Megsebesültem. Tudsz rajtam segíteni?}
-{165}{}{Az egyik társam megsebesült. Tudsz segíteni?}
-{166}{}{Ha megsebesültem, eszembe fogsz jutni. Köszi. Kés?bb még jövök.}
-{170}{}{Hadd v'vessek rá egy p'pillantást. Sz'szerintem t'tudok segíteni.}
-{171}{}{Mennyibe fog ez nekem kerülni?}
-{172}{}{Köszönet, Lenny. Ugye nem baj, ha kérdezek?}
-{173}{}{Kösz, Lenny, viszlát!}
-{174}{}{S'segíthetek rajtad. D'de 30 d'dollárod bánja. A k'kötszerért.}
-{175}{}{Most nem hinném, hogy segítségre szorulnék. Viszlát máskor.}
-{180}{}{Hát a b'barátodnak elkelne egy kis s'segítség.. R'rajta is s'segítek, ha kell.}
-{181}{}{Úgy t't?nik, hogy v'valami balhéba k'keveredtél. A t'társaidat is össze tudom t'tákolni.}
-{182}{}{Mennyibe fog ez nekem kerülni?}
-{183}{}{Kösz, Lenny. Mit szólnál, ha kérdeznék ezt-azt?}
-{184}{}{Kösz, Lenny. Viszlát!}
-{185}{}{A barátod m'megsérült. Harminc d'dollárért összetákolom neked. A p'pénz k'kötszerre kell.}
-{186}{}{Hát ti meg mibe k'keveredtetek? R'rátok férne egy kis gyógykezelés. Hatvan dollár l'lesz összevissza.}
-{187}{}{A b'barátod fittnek t?nik.}
+{141}{}{N'nem tudok id?t sz'szakÃ­tani rÃ¡d.}
+{142}{}{Gy'gyagyÃ¡s. Menj el innen!}
+{150}{}{Az Ã‰denkert L'lÃ©trehozÃ¡st El?segÃ­t? T'tÃ¡skÃ¡t mondtad? Ãšgy hallottam, a MenedÃ©kekben van ilyesmi. EnnÃ©l tÃ¶bbet Ã©n se tudok rÃ³la.}
+{151}{}{MegsebesÃ¼ltem. Tudsz rajtam segÃ­teni?}
+{152}{}{Az egyik tÃ¡rsam megsebesÃ¼lt. Tudsz segÃ­teni?}
+{153}{}{Az ?sÃ¶m, akit a MenedÃ©klakÃ³kÃ©nt tiszteltek, azt mondta, hogy a 13-as MenedÃ©k tartozik nekÃ¼nk egy ilyennel. Meg kell talÃ¡lnom azt a tÃ¡skÃ¡t.}
+{154}{}{Ãšgy vÃ©lem, most elÃ©g lesz ennyi tudnivalÃ³ is. Sok szerencsÃ©t!}
+{160}{}{H'hÃ¡Ã¡t, leginkÃ¡bb H'haroldnak segÃ­tek. M'mikor az emberek megsÃ©rÃ¼lnek, m'meggyÃ³gyÃ­tom ?ket.}
+{161}{}{Miben segÃ­tesz neki?}
+{162}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{163}{}{Az embereket gyÃ³gyÃ­tod?}
+{164}{}{MegsebesÃ¼ltem. Tudsz rajtam segÃ­teni?}
+{165}{}{Az egyik tÃ¡rsam megsebesÃ¼lt. Tudsz segÃ­teni?}
+{166}{}{Ha megsebesÃ¼ltem, eszembe fogsz jutni. KÃ¶szi. KÃ©s?bb mÃ©g jÃ¶vÃ¶k.}
+{170}{}{Hadd v'vessek rÃ¡ egy p'pillantÃ¡st. Sz'szerintem t'tudok segÃ­teni.}
+{171}{}{Mennyibe fog ez nekem kerÃ¼lni?}
+{172}{}{KÃ¶szÃ¶net, Lenny. Ugye nem baj, ha kÃ©rdezek?}
+{173}{}{KÃ¶sz, Lenny, viszlÃ¡t!}
+{174}{}{S'segÃ­thetek rajtad. D'de 30 d'dollÃ¡rod bÃ¡nja. A k'kÃ¶tszerÃ©rt.}
+{175}{}{Most nem hinnÃ©m, hogy segÃ­tsÃ©gre szorulnÃ©k. ViszlÃ¡t mÃ¡skor.}
+{180}{}{HÃ¡t a b'barÃ¡todnak elkelne egy kis s'segÃ­tsÃ©g.. R'rajta is s'segÃ­tek, ha kell.}
+{181}{}{Ãšgy t't?nik, hogy v'valami balhÃ©ba k'keveredtÃ©l. A t'tÃ¡rsaidat is Ã¶ssze tudom t'tÃ¡kolni.}
+{182}{}{Mennyibe fog ez nekem kerÃ¼lni?}
+{183}{}{KÃ¶sz, Lenny. Mit szÃ³lnÃ¡l, ha kÃ©rdeznÃ©k ezt-azt?}
+{184}{}{KÃ¶sz, Lenny. ViszlÃ¡t!}
+{185}{}{A barÃ¡tod m'megsÃ©rÃ¼lt. Harminc d'dollÃ¡rÃ©rt Ã¶sszetÃ¡kolom neked. A p'pÃ©nz k'kÃ¶tszerre kell.}
+{186}{}{HÃ¡t ti meg mibe k'keveredtetek? R'rÃ¡tok fÃ©rne egy kis gyÃ³gykezelÃ©s. Hatvan dollÃ¡r l'lesz Ã¶sszevissza.}
+{187}{}{A b'barÃ¡tod fittnek t?nik.}
 {190}{}{W'well. I didn't actually m'meet the V'vault Dweller. But I saw 'em. Once. }
-{191}{}{Láttad a Menedéklakót? Hol?}
-{192}{}{Ah, értem. Az a helyzet, hogy még egy rakás gyilkolnivalóm van. Üdv!}
-{200}{}{Hát a h'háború el?tt orvos v'voltam.}
-{201}{}{A háború el?tt? Az legalább százhatvan éve volt.}
-{202}{}{Hát ez megmagyarázza. Kösz. Viszlát máskor.}
+{191}{}{LÃ¡ttad a MenedÃ©klakÃ³t? Hol?}
+{192}{}{Ah, Ã©rtem. Az a helyzet, hogy mÃ©g egy rakÃ¡s gyilkolnivalÃ³m van. Ãœdv!}
+{200}{}{HÃ¡t a h'hÃ¡borÃº el?tt orvos v'voltam.}
+{201}{}{A hÃ¡borÃº el?tt? Az legalÃ¡bb szÃ¡zhatvan Ã©ve volt.}
+{202}{}{HÃ¡t ez megmagyarÃ¡zza. KÃ¶sz. ViszlÃ¡t mÃ¡skor.}
 {210}{}{That's t'true. B'but the radiation seems to have g'given us g'ghouls a longer life-span.
  'Course, it took almost everything else away.}
-{211}{}{Hogyhogy minden egyéb rovására?}
-{212}{}{Itt már senki nem tudja, mi a jó és mi a rossz. Viszlát!}
-{220}{}{Hát p'persze. Úgy n'nézünk ki, mint valami brutális sz'szörnyszülött. Még b'b?rünk sincs, az isten szerelmére...}
-{221}{}{Hát meglehet, hogy láttatok már jobb napokat is.}
-{222}{}{Igaz, ami igaz, így együtt nem mutattok valami vonzóan. Na, minden jót.}
-{230}{}{Nem b'bánt, hogy ezt mondod. Ha újra n'normális ember lehetnék, odaadnám azokat az éveket cs'cserébe.}
-{231}{}{Aligha hinném, hogy erre sok esély van. Szerintem.}
-{232}{}{Meghiszem azt. Na, viszlát!}
-{240}{}{Ha azok a m'menedékvárosi tökkelütöttek megosztanák velünk a gy'gyógyászati technológiájukat, biztos vagyok benne, hogy m'megszabadíthatnánk magunkat a s'sugárbetegségt?l.}
-{241}{}{Nem akarnak segíteni?}
-{242}{}{Asszem, épp eleget hallottam. Viszlát!}
-{250}{}{V'voltál Menedékvárosban? Akkor megmondhatnád, mekkora esélyét látod, hogy az a földhözragadt n'népség segítsen rajtunk. Sz'szerintem majd akkor segítenek, ha p'piros hó esik.}
-{251}{}{Sajnálattal hallom, de asszem, igazad van. Kérdeznék még egy s mást.}
-{252}{}{Sajnálattal hallom ezt. Most mennem kell.}
-{260}{}{N'nem. Az élet túl r'rövid, legalábbis a legtöbb ember sz'számára, -- he, he -- hogy érdemes legyen apróságok miatt aggódni. T'tudod mit mondok? Az egész annyi, mint a l'légypiszok. És még csak n'nem is kérek semmit a t'tanácsért.}
-{261}{}{Kösz, Lenny.}
+{211}{}{Hogyhogy minden egyÃ©b rovÃ¡sÃ¡ra?}
+{212}{}{Itt mÃ¡r senki nem tudja, mi a jÃ³ Ã©s mi a rossz. ViszlÃ¡t!}
+{220}{}{HÃ¡t p'persze. Ãšgy n'nÃ©zÃ¼nk ki, mint valami brutÃ¡lis sz'szÃ¶rnyszÃ¼lÃ¶tt. MÃ©g b'b?rÃ¼nk sincs, az isten szerelmÃ©re...}
+{221}{}{HÃ¡t meglehet, hogy lÃ¡ttatok mÃ¡r jobb napokat is.}
+{222}{}{Igaz, ami igaz, Ã­gy egyÃ¼tt nem mutattok valami vonzÃ³an. Na, minden jÃ³t.}
+{230}{}{Nem b'bÃ¡nt, hogy ezt mondod. Ha Ãºjra n'normÃ¡lis ember lehetnÃ©k, odaadnÃ¡m azokat az Ã©veket cs'cserÃ©be.}
+{231}{}{Aligha hinnÃ©m, hogy erre sok esÃ©ly van. Szerintem.}
+{232}{}{Meghiszem azt. Na, viszlÃ¡t!}
+{240}{}{Ha azok a m'menedÃ©kvÃ¡rosi tÃ¶kkelÃ¼tÃ¶ttek megosztanÃ¡k velÃ¼nk a gy'gyÃ³gyÃ¡szati technolÃ³giÃ¡jukat, biztos vagyok benne, hogy m'megszabadÃ­thatnÃ¡nk magunkat a s'sugÃ¡rbetegsÃ©gt?l.}
+{241}{}{Nem akarnak segÃ­teni?}
+{242}{}{Asszem, Ã©pp eleget hallottam. ViszlÃ¡t!}
+{250}{}{V'voltÃ¡l MenedÃ©kvÃ¡rosban? Akkor megmondhatnÃ¡d, mekkora esÃ©lyÃ©t lÃ¡tod, hogy az a fÃ¶ldhÃ¶zragadt n'nÃ©psÃ©g segÃ­tsen rajtunk. Sz'szerintem majd akkor segÃ­tenek, ha p'piros hÃ³ esik.}
+{251}{}{SajnÃ¡lattal hallom, de asszem, igazad van. KÃ©rdeznÃ©k mÃ©g egy s mÃ¡st.}
+{252}{}{SajnÃ¡lattal hallom ezt. Most mennem kell.}
+{260}{}{N'nem. Az Ã©let tÃºl r'rÃ¶vid, legalÃ¡bbis a legtÃ¶bb ember sz'szÃ¡mÃ¡ra, -- he, he -- hogy Ã©rdemes legyen aprÃ³sÃ¡gok miatt aggÃ³dni. T'tudod mit mondok? Az egÃ©sz annyi, mint a l'lÃ©gypiszok. Ã‰s mÃ©g csak n'nem is kÃ©rek semmit a t'tanÃ¡csÃ©rt.}
+{261}{}{KÃ¶sz, Lenny.}
 {270}{}{I'it w'was a long time ago. In a place called N'necropolis. A lot of us g'ghouls lived there.
  One day, I saw someone running through the city.}
 {271}{}{Rohan?}
-{272}{}{Na, asszem, egy darabig elég lesz a ködös mesékb?l. Majd még jövök talán.}
-{280}{}{Igen, ott futott. T'tudod, mi ghoulok már nem nagyon tudunk futni. Így hát amikor m'megláttam, rögtön tudtam, hogy egy idegenr?l v'van szó. Olyan közel futott el, hogy m'megérinthettem volna. Bárcsak cs'csatlakoztam volna a M'menedéklakóhoz...}
-{281}{}{Tényleg megfordult a fejedben, hogy mellé állsz?}
-{282}{}{Hát persze, az ?söm majd biztos egy ilyen nyúzott szörnypofával szeretett volna sétálgatni. Na, minden jót.}
-{283}{}{Igazság szerint szívesen meghallgattam volna az egész történetet, de van még elég dolgom. Minden jót!}
-{290}{}{Bizony. Egyszer az életben r'rámmosolyog a sz'szerencse, és jól elbaltázom.}
-{291}{}{Ezt most hogy kell értenem?}
-{292}{}{Az élet valóban nem habostorta. Viszont most megyek...}
-{300}{}{K'kés?bb hallottam, hogy a Menedéklakó megszerelte a v'vízrendszerünket. A M'menedéklakó megmentett minket. Mindannyiunkat. G'gondold végig! Nem tartotta vissza, hogy ghoulok v'vagyunk. Nem számított n'neki és emberszámba vett minket. Érdemesek v'voltunk, hogy valaki velünk is t'tör?djön.}
-{301}{}{A törzsünket az ?söm alapította. Nálunk ezt az eseményt nagy tisztelet övezi.}
-{302}{}{Hát engem csak az érdekel, hogy a törzsem megmeneküljön. A világ többi része oldja meg a saját problémáit. Ég veled.}
-{310}{}{Kés?bb hallottam, hogy a Menedéklakó k'kifüstölte a mutáns hadsereg f'forrását. A Menedéklakó mindannyiunkat m'megmentett. Embert, ghoult v'válogatás nélkül... Részese lehettem volna, de inamba szállt a b'bátorságom. Ezt sosem b'bocsátom meg m'magamnak.}
-{311}{}{Az ?söm nyomában járok. Mit szólnál, ha egy újabb esélyt kapnál az élett?l? Beállsz hozzám?}
-{312}{}{Biztos vagyok benne, hogy az itt végzett munka értékes és megbecsülnek érte. Jó érzés volt hallanom az ?sömr?l. Most azonban kérdeznék egy-két dolgot.}
-{313}{}{Hát legbelül elég sok ember gyáva kukac. Nem kell szégyellni, egyszer?en csak a gyengékhez tartozol. Na, üdv neked.}
-{314}{}{Gyakran megesik, hogy a jó út majd kiüti a szemünket, mégsem látjuk. Mindannyiunknak megvan a maga küldetése. Kösz, hogy felemlítetted az ?sömet, most viszont indulnom kell.}
-{320}{}{B'boldogabb vagyok, mint egy brahmin bika a t'tehenekkel teli k'karámban! M'megtisztel? lenne, ha csatlakozhatnék. Lehet, hogy öreg v'vagyok és nem tudok elég f'fürgén mozogni, meg túl sokat se igazán, de az b'biztos, hogy ha m'megsebesülnél, én összefércellek.}
-{321}{}{Örülök, hogy így döntöttél. Biztos vagyok, hogy az orvosi képességeid jól jönnek még.}
-{322}{}{Hmm, egy ilyen öreg embernek már nem kéne ennyire lelkesednie semmiért. Szerintem jobb lesz, ha ittmaradsz. Sajnálom, ég áldjon.}
-{330}{}{Van itt munkám elég, nem cs'csatlakozhatom.}
-{331}{}{Az ?södre bizony egy fikarcnyit sem hasonlítasz. Meggyalázod az emlékét!}
-{332}{}{M'még sok mindent kell t'tanulnod az életr?l. Amit eddig t'tanultál, nem nagyon t'tetszik nekem.}
-{333}{}{Hát nem vagyok feldobva, hogy visszautasítasz...}
-{334}{}{Nemááá! Azt hiszed, egy hozzád hasonló nagy rakás rohadó húsnak van bármi esélye is van, hogy ezt az atomtemet?nek is beill? várost elhagyja? Na, én most itt hagylak szépen...}
-{340}{}{Én s'segítek H'haroldnak a város irányításában. M'mindig akad egy cs'csomó p'papírmunka.}
-{341}{}{Mit mondtál, mi egyebet csinálsz itt?}
-{342}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
-{350}{}{N'nem volt elég pénzed... de azért s'segítettem. Nem t'tudom elnézni, ha emberek sz'szenvednek.}
-{351}{}{Nem tudom eléggé megköszönni, Lenny. Mindenesetre elárulhatnál még egy-két dolgot.}
-{352}{}{Kösz, Lenny. Leköteleztél. Viszlát!}
-{360}{}{Annyi ember él itt. M'megleszel a segítségem n'nélkül is. Legyen sz'szerencséd.}
-{370}{}{Sosem g'gondoltam volna, hogy megérem a n'napot, hogy sz'szégyellni fogom a tetteidet. M'megszégyeníted a Menedéklakó emlékét. Mennyé, mennyé, ne is lássalak.}
+{272}{}{Na, asszem, egy darabig elÃ©g lesz a kÃ¶dÃ¶s mesÃ©kb?l. Majd mÃ©g jÃ¶vÃ¶k talÃ¡n.}
+{280}{}{Igen, ott futott. T'tudod, mi ghoulok mÃ¡r nem nagyon tudunk futni. Ãgy hÃ¡t amikor m'meglÃ¡ttam, rÃ¶gtÃ¶n tudtam, hogy egy idegenr?l v'van szÃ³. Olyan kÃ¶zel futott el, hogy m'megÃ©rinthettem volna. BÃ¡rcsak cs'csatlakoztam volna a M'menedÃ©klakÃ³hoz...}
+{281}{}{TÃ©nyleg megfordult a fejedben, hogy mellÃ© Ã¡llsz?}
+{282}{}{HÃ¡t persze, az ?sÃ¶m majd biztos egy ilyen nyÃºzott szÃ¶rnypofÃ¡val szeretett volna sÃ©tÃ¡lgatni. Na, minden jÃ³t.}
+{283}{}{IgazsÃ¡g szerint szÃ­vesen meghallgattam volna az egÃ©sz tÃ¶rtÃ©netet, de van mÃ©g elÃ©g dolgom. Minden jÃ³t!}
+{290}{}{Bizony. Egyszer az Ã©letben r'rÃ¡mmosolyog a sz'szerencse, Ã©s jÃ³l elbaltÃ¡zom.}
+{291}{}{Ezt most hogy kell Ã©rtenem?}
+{292}{}{Az Ã©let valÃ³ban nem habostorta. Viszont most megyek...}
+{300}{}{K'kÃ©s?bb hallottam, hogy a MenedÃ©klakÃ³ megszerelte a v'vÃ­zrendszerÃ¼nket. A M'menedÃ©klakÃ³ megmentett minket. Mindannyiunkat. G'gondold vÃ©gig! Nem tartotta vissza, hogy ghoulok v'vagyunk. Nem szÃ¡mÃ­tott n'neki Ã©s emberszÃ¡mba vett minket. Ã‰rdemesek v'voltunk, hogy valaki velÃ¼nk is t'tÃ¶r?djÃ¶n.}
+{301}{}{A tÃ¶rzsÃ¼nket az ?sÃ¶m alapÃ­totta. NÃ¡lunk ezt az esemÃ©nyt nagy tisztelet Ã¶vezi.}
+{302}{}{HÃ¡t engem csak az Ã©rdekel, hogy a tÃ¶rzsem megmenekÃ¼ljÃ¶n. A vilÃ¡g tÃ¶bbi rÃ©sze oldja meg a sajÃ¡t problÃ©mÃ¡it. Ã‰g veled.}
+{310}{}{KÃ©s?bb hallottam, hogy a MenedÃ©klakÃ³ k'kifÃ¼stÃ¶lte a mutÃ¡ns hadsereg f'forrÃ¡sÃ¡t. A MenedÃ©klakÃ³ mindannyiunkat m'megmentett. Embert, ghoult v'vÃ¡logatÃ¡s nÃ©lkÃ¼l... RÃ©szese lehettem volna, de inamba szÃ¡llt a b'bÃ¡torsÃ¡gom. Ezt sosem b'bocsÃ¡tom meg m'magamnak.}
+{311}{}{Az ?sÃ¶m nyomÃ¡ban jÃ¡rok. Mit szÃ³lnÃ¡l, ha egy Ãºjabb esÃ©lyt kapnÃ¡l az Ã©lett?l? BeÃ¡llsz hozzÃ¡m?}
+{312}{}{Biztos vagyok benne, hogy az itt vÃ©gzett munka Ã©rtÃ©kes Ã©s megbecsÃ¼lnek Ã©rte. JÃ³ Ã©rzÃ©s volt hallanom az ?sÃ¶mr?l. Most azonban kÃ©rdeznÃ©k egy-kÃ©t dolgot.}
+{313}{}{HÃ¡t legbelÃ¼l elÃ©g sok ember gyÃ¡va kukac. Nem kell szÃ©gyellni, egyszer?en csak a gyengÃ©khez tartozol. Na, Ã¼dv neked.}
+{314}{}{Gyakran megesik, hogy a jÃ³ Ãºt majd kiÃ¼ti a szemÃ¼nket, mÃ©gsem lÃ¡tjuk. Mindannyiunknak megvan a maga kÃ¼ldetÃ©se. KÃ¶sz, hogy felemlÃ­tetted az ?sÃ¶met, most viszont indulnom kell.}
+{320}{}{B'boldogabb vagyok, mint egy brahmin bika a t'tehenekkel teli k'karÃ¡mban! M'megtisztel? lenne, ha csatlakozhatnÃ©k. Lehet, hogy Ã¶reg v'vagyok Ã©s nem tudok elÃ©g f'fÃ¼rgÃ©n mozogni, meg tÃºl sokat se igazÃ¡n, de az b'biztos, hogy ha m'megsebesÃ¼lnÃ©l, Ã©n Ã¶sszefÃ©rcellek.}
+{321}{}{Ã–rÃ¼lÃ¶k, hogy Ã­gy dÃ¶ntÃ¶ttÃ©l. Biztos vagyok, hogy az orvosi kÃ©pessÃ©geid jÃ³l jÃ¶nnek mÃ©g.}
+{322}{}{Hmm, egy ilyen Ã¶reg embernek mÃ¡r nem kÃ©ne ennyire lelkesednie semmiÃ©rt. Szerintem jobb lesz, ha ittmaradsz. SajnÃ¡lom, Ã©g Ã¡ldjon.}
+{330}{}{Van itt munkÃ¡m elÃ©g, nem cs'csatlakozhatom.}
+{331}{}{Az ?sÃ¶dre bizony egy fikarcnyit sem hasonlÃ­tasz. MeggyalÃ¡zod az emlÃ©kÃ©t!}
+{332}{}{M'mÃ©g sok mindent kell t'tanulnod az Ã©letr?l. Amit eddig t'tanultÃ¡l, nem nagyon t'tetszik nekem.}
+{333}{}{HÃ¡t nem vagyok feldobva, hogy visszautasÃ­tasz...}
+{334}{}{NemÃ¡Ã¡Ã¡! Azt hiszed, egy hozzÃ¡d hasonlÃ³ nagy rakÃ¡s rohadÃ³ hÃºsnak van bÃ¡rmi esÃ©lye is van, hogy ezt az atomtemet?nek is beill? vÃ¡rost elhagyja? Na, Ã©n most itt hagylak szÃ©pen...}
+{340}{}{Ã‰n s'segÃ­tek H'haroldnak a vÃ¡ros irÃ¡nyÃ­tÃ¡sÃ¡ban. M'mindig akad egy cs'csomÃ³ p'papÃ­rmunka.}
+{341}{}{Mit mondtÃ¡l, mi egyebet csinÃ¡lsz itt?}
+{342}{}{NagyjÃ¡bÃ³l ennyi informÃ¡ciÃ³ra lett volna szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{350}{}{N'nem volt elÃ©g pÃ©nzed... de azÃ©rt s'segÃ­tettem. Nem t'tudom elnÃ©zni, ha emberek sz'szenvednek.}
+{351}{}{Nem tudom elÃ©ggÃ© megkÃ¶szÃ¶nni, Lenny. Mindenesetre elÃ¡rulhatnÃ¡l mÃ©g egy-kÃ©t dolgot.}
+{352}{}{KÃ¶sz, Lenny. LekÃ¶teleztÃ©l. ViszlÃ¡t!}
+{360}{}{Annyi ember Ã©l itt. M'megleszel a segÃ­tsÃ©gem n'nÃ©lkÃ¼l is. Legyen sz'szerencsÃ©d.}
+{370}{}{Sosem g'gondoltam volna, hogy megÃ©rem a n'napot, hogy sz'szÃ©gyellni fogom a tetteidet. M'megszÃ©gyenÃ­ted a MenedÃ©klakÃ³ emlÃ©kÃ©t. MennyÃ©, mennyÃ©, ne is lÃ¡ssalak.}
 {371}{}{Y'know, I th'thought it w'would be nice to t'travel around with y'you. But you're j'jist an
  ornery and c'cantankerous as a bull b'brahmin with a c'cactus up its ass. And you don't s'smell much
  b'better, either. B'dee-ya, b'dee-ya, goodbye.}
-{372}{}{Sajnálom, hogy itthagysz, Lenny.}
-{373}{}{Nem bírsz ezzel mit kezdeni, mi? Jobb lenne, ha elhordanád a félig rohadt testedet, miel?tt észbekapok és végiggondolom, hogy megérsz-e egy töltényt vagy sem.}
-{374}{}{*böff* Hát persze. Nyilván van más dolgod, mint például naphosszat azon elmélkedni, milyen volt a rendes b?röd, amikor még nem úgy nézett ki, mint a három hónapos útszéli dög július tájékán. T?nés innen, kibaszott szörnyszülött!}
-{375}{}{Oké.}
+{372}{}{SajnÃ¡lom, hogy itthagysz, Lenny.}
+{373}{}{Nem bÃ­rsz ezzel mit kezdeni, mi? Jobb lenne, ha elhordanÃ¡d a fÃ©lig rohadt testedet, miel?tt Ã©szbekapok Ã©s vÃ©giggondolom, hogy megÃ©rsz-e egy tÃ¶ltÃ©nyt vagy sem.}
+{374}{}{*bÃ¶ff* HÃ¡t persze. NyilvÃ¡n van mÃ¡s dolgod, mint pÃ©ldÃ¡ul naphosszat azon elmÃ©lkedni, milyen volt a rendes b?rÃ¶d, amikor mÃ©g nem Ãºgy nÃ©zett ki, mint a hÃ¡rom hÃ³napos ÃºtszÃ©li dÃ¶g jÃºlius tÃ¡jÃ©kÃ¡n. T?nÃ©s innen, kibaszott szÃ¶rnyszÃ¼lÃ¶tt!}
+{375}{}{OkÃ©.}
 {380}{}{Wh'what d'do you w'want me to do?}
-{381}{}{Lenny, tudom, hogy kiteszel magadért, de légyszi menj el el?lem!}
-{382}{}{Szeretném, ha másképp harcolnál, Lenny.}
-{383}{}{Szeretném, ha itt várnál rám.}
-{384}{}{Felcser, gyógyítsd tenmagad!}
+{381}{}{Lenny, tudom, hogy kiteszel magadÃ©rt, de lÃ©gyszi menj el el?lem!}
+{382}{}{SzeretnÃ©m, ha mÃ¡skÃ©pp harcolnÃ¡l, Lenny.}
+{383}{}{SzeretnÃ©m, ha itt vÃ¡rnÃ¡l rÃ¡m.}
+{384}{}{Felcser, gyÃ³gyÃ­tsd tenmagad!}
 {385}{}{I need some healing, Lenny.}
-{386}{}{Néhány barátom orvosi kezelésre szorul.}
-{387}{}{Láss el bennünket.}
-{388}{}{Hogy ityeg a fityeg, öreg rája?}
-{389}{}{Most nincs szükségem másra, Lenny.}
-{400}{}{Harcoljak m'másképp?}
-{401}{}{Azt akarom, hogy változtassunk a távolságon.}
-{402}{}{Azt akarom, hogy a legjobb fegyveredet használd.}
-{403}{}{Azt akarom, hogy használd a legjobb véd?felszerelésedet.}
-{404}{}{Változtatni kéne a harcmodorodon.}
-{405}{}{Értem.}
-{410}{}{M'milyen messze álljak? Tudod, elég nehéz l'lépést t'tartanom.}
-{411}{}{Maradj a közvetlen közelemben.}
-{412}{}{Ne nagyon maradj le, állj egy kicsit hátrébb, de ne nagyon messze.}
-{413}{}{Jó lenne, ha jócskán lemaradnál.}
-{414}{}{Szeretném, ha felderítést végeznél.}
-{415}{}{Értem.}
+{386}{}{NÃ©hÃ¡ny barÃ¡tom orvosi kezelÃ©sre szorul.}
+{387}{}{LÃ¡ss el bennÃ¼nket.}
+{388}{}{Hogy ityeg a fityeg, Ã¶reg rÃ¡ja?}
+{389}{}{Most nincs szÃ¼ksÃ©gem mÃ¡sra, Lenny.}
+{400}{}{Harcoljak m'mÃ¡skÃ©pp?}
+{401}{}{Azt akarom, hogy vÃ¡ltoztassunk a tÃ¡volsÃ¡gon.}
+{402}{}{Azt akarom, hogy a legjobb fegyveredet hasznÃ¡ld.}
+{403}{}{Azt akarom, hogy hasznÃ¡ld a legjobb vÃ©d?felszerelÃ©sedet.}
+{404}{}{VÃ¡ltoztatni kÃ©ne a harcmodorodon.}
+{405}{}{Ã‰rtem.}
+{410}{}{M'milyen messze Ã¡lljak? Tudod, elÃ©g nehÃ©z l'lÃ©pÃ©st t'tartanom.}
+{411}{}{Maradj a kÃ¶zvetlen kÃ¶zelemben.}
+{412}{}{Ne nagyon maradj le, Ã¡llj egy kicsit hÃ¡trÃ©bb, de ne nagyon messze.}
+{413}{}{JÃ³ lenne, ha jÃ³cskÃ¡n lemaradnÃ¡l.}
+{414}{}{SzeretnÃ©m, ha felderÃ­tÃ©st vÃ©geznÃ©l.}
+{415}{}{Ã‰rtem.}
 {420}{}{Wh'what d'do you want me to d'do?}
-{421}{}{Mostantól h'harcolj védekezve.}
-{422}{}{Mostantól h'harcolj a megszokott módon.}
-{423}{}{Mostantól h'harcolj agresszíven.}
-{424}{}{Értem.}
-{430}{}{Sz'szerintem tudnál az öreg r'rókának tanítani új t'trükköket. Nagyon b'baba.}
-{431}{}{Valahogy n'nem t'tudok rájönni a nyitjára.}
-{432}{}{Oké.}
-{440}{}{Ah, rendben. Itt v'várok majd, amíg v'vissza nem jössz. Jó is lesz megpihentetni f'fájós tagjaimat.}
-{441}{}{Csak nyugodtan, Lenny. Még találkozunk.}
-{442}{}{Itt kéne várnod... ja és még valami...}
-{443}{}{Értem.}
-{450}{}{Kéne egy n'nagyobb f'fegyver nekem.}
-{451}{}{Használd a legjobb fegyvered, Lenny!}
-{461}{}{Vedd fel a legjobb véd?felszerelésedet, Lenny.}
-{462}{}{Lenny, miután felvetted a legjobb véd?felszerelésedet, akarok kérni valamit t?led.}
-{463}{}{Értem.}
-{470}{}{Ez jó ötlet. Már azon g'gondolkodtam, mikor állunk meg. Eléggé s'sajog mindenem.}
-{471}{}{Hadd vessek egy p'pillantást a s'sebeidre.}
-{472}{}{Nagyon úgy t?nik, v'valaki már megint az én s'segítségemre szorul.}
+{421}{}{MostantÃ³l h'harcolj vÃ©dekezve.}
+{422}{}{MostantÃ³l h'harcolj a megszokott mÃ³don.}
+{423}{}{MostantÃ³l h'harcolj agresszÃ­ven.}
+{424}{}{Ã‰rtem.}
+{430}{}{Sz'szerintem tudnÃ¡l az Ã¶reg r'rÃ³kÃ¡nak tanÃ­tani Ãºj t'trÃ¼kkÃ¶ket. Nagyon b'baba.}
+{431}{}{Valahogy n'nem t'tudok rÃ¡jÃ¶nni a nyitjÃ¡ra.}
+{432}{}{OkÃ©.}
+{440}{}{Ah, rendben. Itt v'vÃ¡rok majd, amÃ­g v'vissza nem jÃ¶ssz. JÃ³ is lesz megpihentetni f'fÃ¡jÃ³s tagjaimat.}
+{441}{}{Csak nyugodtan, Lenny. MÃ©g talÃ¡lkozunk.}
+{442}{}{Itt kÃ©ne vÃ¡rnod... ja Ã©s mÃ©g valami...}
+{443}{}{Ã‰rtem.}
+{450}{}{KÃ©ne egy n'nagyobb f'fegyver nekem.}
+{451}{}{HasznÃ¡ld a legjobb fegyvered, Lenny!}
+{461}{}{Vedd fel a legjobb vÃ©d?felszerelÃ©sedet, Lenny.}
+{462}{}{Lenny, miutÃ¡n felvetted a legjobb vÃ©d?felszerelÃ©sedet, akarok kÃ©rni valamit t?led.}
+{463}{}{Ã‰rtem.}
+{470}{}{Ez jÃ³ Ã¶tlet. MÃ¡r azon g'gondolkodtam, mikor Ã¡llunk meg. ElÃ©ggÃ© s'sajog mindenem.}
+{471}{}{Hadd vessek egy p'pillantÃ¡st a s'sebeidre.}
+{472}{}{Nagyon Ãºgy t?nik, v'valaki mÃ¡r megint az Ã©n s'segÃ­tsÃ©gemre szorul.}
 {473}{}{Ne fogd vissza magad, kezeld le magad!}
-{474}{}{Kezeld le magad, utána van még egy s más, amit meg kéne beszélnünk.}
-{475}{}{Kezelj le engem, légyszíves.}
-{476}{}{Kezelj le, aztán még van ez-az, amit meg kéne beszélnünk.}
-{477}{}{Gyerünk, kezelj le bennünket.}
-{478}{}{Kezelj le bennünket, aztán még meg kéne vitatnunk ezt-azt.}
-{479}{}{Értem.}
-{480}{}{Én nem t'tudok olyat. Nem v'vagyok én felderít?.}
-{481}{}{Értem, akkor vedd úgy, mintha nem is mondtam volna.}
-{490}{}{Közel m'maradok.}
-{491}{}{Maradj közel, Lenny!}
-{492}{}{Maradj közvetlenül a nyomomban, és még valamit meg kéne beszélnünk.}
-{493}{}{Értem.}
-{500}{}{G'gondolom, nem akarunk k'könny? célponttá v'válni.}
-{501}{}{Ne gyere ennyire rám, Lenny, azt akarom, hogy ha ránkl?nek, legalább dolgozzanak meg érte.}
-{502}{}{Ne lihegj a nyakamba, kérlek, ezenkívül beszélnünk kell még másról is.}
-{503}{}{Értem.}
-{510}{}{Legyen, egy k'kissé lemaradok. Úgy t't?nik egyébként, hogy az emberek leginkább téged akarnak h'holtan látni.}
-{511}{}{A saját biztonságod érdekében maradj le kissé! Semmi köze nincs a szagodhoz.}
-{512}{}{Miel?tt szétszóródunk, valamire meg akarlak kérni.}
-{513}{}{Értem.}
-{520}{}{Az évek s'során eléggé megtanultam t'tör?dni magammal.}
-{521}{}{Azt akarom, ha harcra kerül sor, légy óvatos.}
-{522}{}{Biztos akarok lenni, hogy semmi bajod nem esik. Antik darab vagy a fenébe is! Volna amúgy még valami itt...}
-{523}{}{Értem.}
-{530}{}{Csak úgy lehet megcsinálni.}
-{531}{}{Csak harcolj úgy, ahogy normálisan harcolnál, és nem lesz gond.}
-{532}{}{Kicsit maradj le és harcolj a megszokott módon. Ja és még valami...}
-{533}{}{Értem.}
-{540}{}{N'nem tudok én olyat. M'már az is szép t?lem, ha egyáltalán h'harcolni tudok.}
-{541}{}{Rendben. Felejtsük el...}
+{474}{}{Kezeld le magad, utÃ¡na van mÃ©g egy s mÃ¡s, amit meg kÃ©ne beszÃ©lnÃ¼nk.}
+{475}{}{Kezelj le engem, lÃ©gyszÃ­ves.}
+{476}{}{Kezelj le, aztÃ¡n mÃ©g van ez-az, amit meg kÃ©ne beszÃ©lnÃ¼nk.}
+{477}{}{GyerÃ¼nk, kezelj le bennÃ¼nket.}
+{478}{}{Kezelj le bennÃ¼nket, aztÃ¡n mÃ©g meg kÃ©ne vitatnunk ezt-azt.}
+{479}{}{Ã‰rtem.}
+{480}{}{Ã‰n nem t'tudok olyat. Nem v'vagyok Ã©n felderÃ­t?.}
+{481}{}{Ã‰rtem, akkor vedd Ãºgy, mintha nem is mondtam volna.}
+{490}{}{KÃ¶zel m'maradok.}
+{491}{}{Maradj kÃ¶zel, Lenny!}
+{492}{}{Maradj kÃ¶zvetlenÃ¼l a nyomomban, Ã©s mÃ©g valamit meg kÃ©ne beszÃ©lnÃ¼nk.}
+{493}{}{Ã‰rtem.}
+{500}{}{G'gondolom, nem akarunk k'kÃ¶nny? cÃ©lponttÃ¡ v'vÃ¡lni.}
+{501}{}{Ne gyere ennyire rÃ¡m, Lenny, azt akarom, hogy ha rÃ¡nkl?nek, legalÃ¡bb dolgozzanak meg Ã©rte.}
+{502}{}{Ne lihegj a nyakamba, kÃ©rlek, ezenkÃ­vÃ¼l beszÃ©lnÃ¼nk kell mÃ©g mÃ¡srÃ³l is.}
+{503}{}{Ã‰rtem.}
+{510}{}{Legyen, egy k'kissÃ© lemaradok. Ãšgy t't?nik egyÃ©bkÃ©nt, hogy az emberek leginkÃ¡bb tÃ©ged akarnak h'holtan lÃ¡tni.}
+{511}{}{A sajÃ¡t biztonsÃ¡god Ã©rdekÃ©ben maradj le kissÃ©! Semmi kÃ¶ze nincs a szagodhoz.}
+{512}{}{Miel?tt szÃ©tszÃ³rÃ³dunk, valamire meg akarlak kÃ©rni.}
+{513}{}{Ã‰rtem.}
+{520}{}{Az Ã©vek s'sorÃ¡n elÃ©ggÃ© megtanultam t'tÃ¶r?dni magammal.}
+{521}{}{Azt akarom, ha harcra kerÃ¼l sor, lÃ©gy Ã³vatos.}
+{522}{}{Biztos akarok lenni, hogy semmi bajod nem esik. Antik darab vagy a fenÃ©be is! Volna amÃºgy mÃ©g valami itt...}
+{523}{}{Ã‰rtem.}
+{530}{}{Csak Ãºgy lehet megcsinÃ¡lni.}
+{531}{}{Csak harcolj Ãºgy, ahogy normÃ¡lisan harcolnÃ¡l, Ã©s nem lesz gond.}
+{532}{}{Kicsit maradj le Ã©s harcolj a megszokott mÃ³don. Ja Ã©s mÃ©g valami...}
+{533}{}{Ã‰rtem.}
+{540}{}{N'nem tudok Ã©n olyat. M'mÃ¡r az is szÃ©p t?lem, ha egyÃ¡ltalÃ¡n h'harcolni tudok.}
+{541}{}{Rendben. FelejtsÃ¼k el...}
 {1000}{}{Wh'what d'do you w'want me to do?}
-{1100}{}{J'jól elvagyok.}
-{1200}{}{Van egy k'kisebb sérülésem, de oda se neki.}
-{1300}{}{Ez jó ötlet. Már azon g'gondolkodtam, mikor állunk meg. Eléggé s'sajog mindenem.}
-{1400}{}{Kezelés kell, k'különben elpatkolok...}
-{1500}{}{R'rendben. Itt várok, amíg v'vissza nem jössz. Amúgy is r'rámfért már egy k'kiadós pihen?.}
-{1600}{}{Oké.}
-{1700}{}{Közel m'maradok.}
-{1800}{}{G'gondolom, nem akarunk k'könny? célponttá v'válni.}
-{1900}{}{Legyen, egy k'kissé lemaradok. Úgy t't?nik egyébként, hogy az emberek leginkább téged akarnak h'holtan látni.}
-{2000}{}{Úgy látom, egy csomóan vannak m'ár itt. Nem kell n'neked az én segítségem. L'légy szerencsés.}
-{2100}{}{Sosem g'gondoltam volna, hogy megérem a n'napot, hogy sz'szégyellni fogom a tetteidet. M'megszégyeníted a Menedéklakó emlékét. Mennyé, mennyé, ne is lássalak.}
-{2200}{}{N'nem voltam benne b'biztos, hogy még visszajössz.}
-{2300}{}{Minek ez a hercehurca állandóan?}
-{2301}{}{Ó, sajnálom, elt?nök a képb?l.}
-{2302}{}{Megyek, megyek, megyek. Nem kell engem abajgatni. Bocs, nem akartam lábatlankodni.}
-{2303}{}{Sajnálom, egyszer?en n'nem tudok gyorsabban h'haladni. Már megyek is az útból...}
-{2304}{}{ó, értem. Húzok el az utadból...}
+{1100}{}{J'jÃ³l elvagyok.}
+{1200}{}{Van egy k'kisebb sÃ©rÃ¼lÃ©sem, de oda se neki.}
+{1300}{}{Ez jÃ³ Ã¶tlet. MÃ¡r azon g'gondolkodtam, mikor Ã¡llunk meg. ElÃ©ggÃ© s'sajog mindenem.}
+{1400}{}{KezelÃ©s kell, k'kÃ¼lÃ¶nben elpatkolok...}
+{1500}{}{R'rendben. Itt vÃ¡rok, amÃ­g v'vissza nem jÃ¶ssz. AmÃºgy is r'rÃ¡mfÃ©rt mÃ¡r egy k'kiadÃ³s pihen?.}
+{1600}{}{OkÃ©.}
+{1700}{}{KÃ¶zel m'maradok.}
+{1800}{}{G'gondolom, nem akarunk k'kÃ¶nny? cÃ©lponttÃ¡ v'vÃ¡lni.}
+{1900}{}{Legyen, egy k'kissÃ© lemaradok. Ãšgy t't?nik egyÃ©bkÃ©nt, hogy az emberek leginkÃ¡bb tÃ©ged akarnak h'holtan lÃ¡tni.}
+{2000}{}{Ãšgy lÃ¡tom, egy csomÃ³an vannak m'Ã¡r itt. Nem kell n'neked az Ã©n segÃ­tsÃ©gem. L'lÃ©gy szerencsÃ©s.}
+{2100}{}{Sosem g'gondoltam volna, hogy megÃ©rem a n'napot, hogy sz'szÃ©gyellni fogom a tetteidet. M'megszÃ©gyenÃ­ted a MenedÃ©klakÃ³ emlÃ©kÃ©t. MennyÃ©, mennyÃ©, ne is lÃ¡ssalak.}
+{2200}{}{N'nem voltam benne b'biztos, hogy mÃ©g visszajÃ¶ssz.}
+{2300}{}{Minek ez a hercehurca Ã¡llandÃ³an?}
+{2301}{}{Ã“, sajnÃ¡lom, elt?nÃ¶k a kÃ©pb?l.}
+{2302}{}{Megyek, megyek, megyek. Nem kell engem abajgatni. Bocs, nem akartam lÃ¡batlankodni.}
+{2303}{}{SajnÃ¡lom, egyszer?en n'nem tudok gyorsabban h'haladni. MÃ¡r megyek is az ÃºtbÃ³l...}
+{2304}{}{Ã³, Ã©rtem. HÃºzok el az utadbÃ³l...}
 {2305}{}{Ott fogok battyogni, ahol akarod.}
-{2306}{}{Nem akartam útban lenni.}
-{2307}{}{Ó, elnézést.}
-{3000}{}{Túl sok baj történik körülötted. Miel?tt valami történne velem, lelépek...}
-{3001}{}{Nem s'segítek egy gyerekgyilkosnak. Minden jót!}
-{3002}{}{Megrémítesz a v'vérszomjaddal, ezért többé nem akarok veled t'tartani.}
-{3003}{}{Egy r'rabszolgahajcsárral nekem nincs s'semmi dolgom. Minden jót n'neked.}
+{2306}{}{Nem akartam Ãºtban lenni.}
+{2307}{}{Ã“, elnÃ©zÃ©st.}
+{3000}{}{TÃºl sok baj tÃ¶rtÃ©nik kÃ¶rÃ¼lÃ¶tted. Miel?tt valami tÃ¶rtÃ©nne velem, lelÃ©pek...}
+{3001}{}{Nem s'segÃ­tek egy gyerekgyilkosnak. Minden jÃ³t!}
+{3002}{}{MegrÃ©mÃ­tesz a v'vÃ©rszomjaddal, ezÃ©rt tÃ¶bbÃ© nem akarok veled t'tartani.}
+{3003}{}{Egy r'rabszolgahajcsÃ¡rral nekem nincs s'semmi dolgom. Minden jÃ³t n'neked.}
 {3004}{}{You are a traitor! You destroyed our powerplant. I will not help you.}
-{3005}{}{Nem akarok én t?led semmit!}
-{4000}{}{Nos, rendben, de nehogy már itt h'hagyj engem egyedül!}
-{4001}{}{Rendben, ha szerinted ez jó ötlet.}
-{4002}{}{Hát nem nagyon sz'szeretem a fegyvereket, hacsak n'nincs rájuk éget? szükség. Szerintem egy k'kés nem okozna különösebb g'gondot, és tudok bánni a p'pisztollyal is, legalábbis régen tudtam. Ha nagyon r'rákényszerülnék, szerintem egy g'géppisztolytól sem jönnék zavarba. Bárcsak ne lennének olyan h'hangosak ezek a f'fegyverek. Gyógyító vagyok én, nem k'katona.}
-{4003}{}{Hát remélem, nem lesz rá szükségem!}
+{3005}{}{Nem akarok Ã©n t?led semmit!}
+{4000}{}{Nos, rendben, de nehogy mÃ¡r itt h'hagyj engem egyedÃ¼l!}
+{4001}{}{Rendben, ha szerinted ez jÃ³ Ã¶tlet.}
+{4002}{}{HÃ¡t nem nagyon sz'szeretem a fegyvereket, hacsak n'nincs rÃ¡juk Ã©get? szÃ¼ksÃ©g. Szerintem egy k'kÃ©s nem okozna kÃ¼lÃ¶nÃ¶sebb g'gondot, Ã©s tudok bÃ¡nni a p'pisztollyal is, legalÃ¡bbis rÃ©gen tudtam. Ha nagyon r'rÃ¡kÃ©nyszerÃ¼lnÃ©k, szerintem egy g'gÃ©ppisztolytÃ³l sem jÃ¶nnÃ©k zavarba. BÃ¡rcsak ne lennÃ©nek olyan h'hangosak ezek a f'fegyverek. GyÃ³gyÃ­tÃ³ vagyok Ã©n, nem k'katona.}
+{4003}{}{HÃ¡t remÃ©lem, nem lesz rÃ¡ szÃ¼ksÃ©gem!}
 {4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
 {5000}{}{I think I m'might have a b'broken limb.}
 {5001}{}{I think I m'might be r'radiated.}
@@ -239,7 +239,7 @@
 {6042}{}{Are they dangerous at all? Any side-effects to look out for?}
 {6043}{}{Do you think these could help Cassidy?}
 {6050}{}{They could be j'just the thing, now that you m'mention it. In fact, I think they w'would be. He'd hafta be careful about a c'coupla' things, though.}
-{6051}{}{Úgymint?}
+{6051}{}{Ãšgymint?}
 {6052}{}{I knew there'd be a catch.}
 {6060}{}{Nothin' that'd be likely to c'come up t'too often. They've been known to c'cause dizziness. And y'you shouldn't t'take 'em with g'grapefruit juice, though I d'don't think that's gonna be m'much of a p'problem, these days. Unless that's what those l'lumpy g'green things are supposed to be. Hmmm... (Lenny puts a hand to his chin and stares off into space).}
 {6061}{}{Lenny?}

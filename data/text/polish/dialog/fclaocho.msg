@@ -1,153 +1,153 @@
-{100}{}{Widzisz mê¿czyznê, który wygl¹da ca³kiem jak sklepikarz.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™, ktÃ³ry wyglÄ…da caÅ‚kiem jak sklepikarz.}
 {101}{}{Widzisz Lao Choua, sklepikarza.}
-{102}{}{Widzisz mê¿czyznê w funkcjonalnym, wygodnym ubraniu.}
-{103}{}{Witaj! Witaj w moim sklepie, Lataj¹cym Smoku 8.}
-{104}{}{Co mogê dla ciebie zrobiæ?}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ w funkcjonalnym, wygodnym ubraniu.}
+{103}{}{Witaj! Witaj w moim sklepie, LatajÄ…cym Smoku 8.}
+{104}{}{Co mogÄ™ dla ciebie zrobiÄ‡?}
 {105}{}{Da aggle oo!}
 {106}{}{Toffar!}
-{107}{}{Kim jesteœ?}
-{108}{}{Szukam pewnego sprzêtu.}
+{107}{}{Kim jesteÅ›?}
+{108}{}{Szukam pewnego sprzÄ™tu.}
 {109}{}{Szukam informacji.}
 {110}{}{Bywaj.}
-{111}{}{Chcesz coœ kupiæ?}
-{112}{}{[Pokiwaj g³ow¹.]}
-{113}{}{[Pokrêæ g³ow¹.]}
-{114}{}{A wiêc oto, co mam.}
+{111}{}{Chcesz coÅ› kupiÄ‡?}
+{112}{}{[Pokiwaj gÅ‚owÄ….]}
+{113}{}{[PokrÄ™Ä‡ gÅ‚owÄ….]}
+{114}{}{A wiÄ™c oto, co mam.}
 {115}{}{[dalej]}
-{116}{}{Có¿, obawiam siê wiêc, ¿e to ju¿ wszystko, co mogê dla ciebie zrobiæ. Mi³ego dnia.}
+{116}{}{CÃ³Å¼, obawiam siÄ™ wiÄ™c, Å¼e to juÅ¼ wszystko, co mogÄ™ dla ciebie zrobiÄ‡. MiÅ‚ego dnia.}
 {117}{}{[dalej]}
-{118}{}{Jestem Lao Chou. Prowadzê sklep wielobran¿owy, Lataj¹cy Smok 8. Znany jestem z wymiany... informacjami.}
+{118}{}{Jestem Lao Chou. ProwadzÄ™ sklep wielobranÅ¼owy, LatajÄ…cy Smok 8. Znany jestem z wymiany... informacjami.}
 {119}{}{Jakimi informacjami?}
-{120}{}{Rozumiem. Chcê coœ kupiæ.}
-{121}{}{W tym mieœcie ma³o dzieje siê takich spraw, o których bym nie wiedzia³. Oczywiœcie musisz znaæ odpowiednie pytanie do zadania, prawda? Co chcesz wiedzieæ?}
-{122}{}{Szukam jakichœ usprawnieñ do mojego sprzêtu.}
-{123}{}{Gdzie mogê zdobyæ plany lataczy?}
-{124}{}{Potrzebujê paliwa do PMV Valdeza.}
-{125}{}{Rozumiem, ¿e potrzebujê KD do tankowca, aby dostaæ siê do komputera na Valdezie.}
-{126}{}{Potrzebujê pewnych czêœci do PMV Valdeza.}
-{127}{}{Szukam œledziony.}
-{128}{}{Podobno jakieœ lataj¹ce maszyny przywioz³y tu pe³no ludzi z wioski.}
+{120}{}{Rozumiem. ChcÄ™ coÅ› kupiÄ‡.}
+{121}{}{W tym mieÅ›cie maÅ‚o dzieje siÄ™ takich spraw, o ktÃ³rych bym nie wiedziaÅ‚. OczywiÅ›cie musisz znaÄ‡ odpowiednie pytanie do zadania, prawda? Co chcesz wiedzieÄ‡?}
+{122}{}{Szukam jakichÅ› usprawnieÅ„ do mojego sprzÄ™tu.}
+{123}{}{Gdzie mogÄ™ zdobyÄ‡ plany lataczy?}
+{124}{}{PotrzebujÄ™ paliwa do PMV Valdeza.}
+{125}{}{Rozumiem, Å¼e potrzebujÄ™ KD do tankowca, aby dostaÄ‡ siÄ™ do komputera na Valdezie.}
+{126}{}{PotrzebujÄ™ pewnych czÄ™Å›ci do PMV Valdeza.}
+{127}{}{Szukam Å›ledziony.}
+{128}{}{Podobno jakieÅ› latajÄ…ce maszyny przywiozÅ‚y tu peÅ‚no ludzi z wioski.}
 {129}{}{Nic takiego. Na razie.}
-{130}{}{Porozmawiaj z Crockettem z obozu Centrologów. Jest ich g³ównym naukowcem.}
-{131}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{132}{}{Dziêki. Na razie.}
-{133}{}{Szukaj na pó³noc, w Navarro. Jest tam ukryta baza w pobli¿u stacji benzynowej.}
-{134}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{135}{}{Dziêki. Na razie.}
-{136}{}{Mo¿e warto by poszukaæ w starych Kryptach. Podobno s¹ skarbnic¹ informacji i technologii staro¿ytnych.}
-{137}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{138}{}{Dziêki. Na razie.}
-{139}{}{Œledziony? Cha cha! Tak, Chip z Valdeza straci³ œledzionê w trakcie jednej z partyjek gry karcianej. Sprzeda³em j¹ dr Wongowi. By³ ni¹ zafascynowany.}
-{140}{}{Dr Wong? Gdzie mogê go znaleŸæ?}
-{141}{}{Jak mo¿na straciæ œledzionê?}
-{142}{}{Dziêki. Potrzebujê wiêcej informacji.}
+{130}{}{Porozmawiaj z Crockettem z obozu CentrologÃ³w. Jest ich gÅ‚Ã³wnym naukowcem.}
+{131}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{132}{}{DziÄ™ki. Na razie.}
+{133}{}{Szukaj na pÃ³Å‚noc, w Navarro. Jest tam ukryta baza w pobliÅ¼u stacji benzynowej.}
+{134}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{135}{}{DziÄ™ki. Na razie.}
+{136}{}{MoÅ¼e warto by poszukaÄ‡ w starych Kryptach. Podobno sÄ… skarbnicÄ… informacji i technologii staroÅ¼ytnych.}
+{137}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{138}{}{DziÄ™ki. Na razie.}
+{139}{}{Åšledziony? Cha cha! Tak, Chip z Valdeza straciÅ‚ Å›ledzionÄ™ w trakcie jednej z partyjek gry karcianej. SprzedaÅ‚em jÄ… dr Wongowi. ByÅ‚ niÄ… zafascynowany.}
+{140}{}{Dr Wong? Gdzie mogÄ™ go znaleÅºÄ‡?}
+{141}{}{Jak moÅ¼na straciÄ‡ Å›ledzionÄ™?}
+{142}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
 {143}{}{Ach tak. Na razie.}
-{144}{}{Dr Wong jest g³ównym naukowcem Stalowego Pa³acu. Tam go szukaj.}
-{145}{}{Tak przy okazji, to jak mo¿na straciæ œledzionê?}
-{146}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{147}{}{Dziêki. Na razie.}
-{148}{}{By³ pijany. Bardzo, bardzo pijany. Ca³¹ noc mia³ obsesjê na punkcie swojej œledziony. No i j¹ postawi³.}
-{149}{}{Wiêc wzi¹³eœ jego ŒLEDZIONÊ?}
-{150}{}{Rozumiem. Mam tak¿e inne pytania.}
-{151}{}{Tak. Taki by³ zak³ad. On jest honorowym cz³owiekiem.}
-{152}{}{Rozumiem. Có¿, mam inne pytania.}
-{153}{}{Ale z ciebie chory, prymitywny drañ, nie?}
+{144}{}{Dr Wong jest gÅ‚Ã³wnym naukowcem Stalowego PaÅ‚acu. Tam go szukaj.}
+{145}{}{Tak przy okazji, to jak moÅ¼na straciÄ‡ Å›ledzionÄ™?}
+{146}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{147}{}{DziÄ™ki. Na razie.}
+{148}{}{ByÅ‚ pijany. Bardzo, bardzo pijany. CaÅ‚Ä… noc miaÅ‚ obsesjÄ™ na punkcie swojej Å›ledziony. No i jÄ… postawiÅ‚.}
+{149}{}{WiÄ™c wziÄ…Å‚eÅ› jego ÅšLEDZIONÄ˜?}
+{150}{}{Rozumiem. Mam takÅ¼e inne pytania.}
+{151}{}{Tak. Taki byÅ‚ zakÅ‚ad. On jest honorowym czÅ‚owiekiem.}
+{152}{}{Rozumiem. CÃ³Å¼, mam inne pytania.}
+{153}{}{Ale z ciebie chory, prymitywny draÅ„, nie?}
 {154}{}{Ta. Na razie.}
-{155}{}{Jesteœ osob¹ bez honoru. Nie chcê ciê mieæ w moim sklepie. Wróæ kiedy indziej.}
+{155}{}{JesteÅ› osobÄ… bez honoru. Nie chcÄ™ ciÄ™ mieÄ‡ w moim sklepie. WrÃ³Ä‡ kiedy indziej.}
 {156}{}{Jak chcesz.}
-{157}{}{Nie. Przyby³y z pó³nocy i przelecia³y nad nami, udaj¹c siê za morze.}
-{158}{}{Za horyzont? A jak do diab³a mam siê tam dostaæ?}
-{159}{}{Ta, no oczywiœcie. A teraz gadaj mi gdzie s¹, zanim otworzê ciê jak puszkê sardynek.}
-{160}{}{Có¿... ¿adna z naszych ³odzi nie jest w stanie przebyæ takiej odleg³oœci. Chyba ¿e...}
-{161}{}{Chyba ¿e...?}
-{162}{}{Dziêki za "pomoc". Idê zdobyæ jak¹œ rozs¹dn¹ radê.}
-{163}{}{...chyba ¿e uda ci siê zmusiæ ten stary tankowiec w dokach do dzia³ania. To stary statek, ale zapewne wci¹¿ jeszcze dzia³a, je¿eli trochê siê nad nim popracuje. Poproœ punków o wiêcej informacji.}
-{164}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{165}{}{Dziêki. Na razie.}
-{166}{}{Mówi siê, ¿e ostatnio Centrolodzy weszli w posiadanie du¿ej iloœci paliwa. Dogadaj siê z nimi.}
-{167}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{168}{}{Dziêki. Na razie.}
-{169}{}{Mo¿esz spróbowaæ popytaæ naukowców Shi w Stalowym Pa³acu. Byæ mo¿e bêd¹ ci w stanie pomóc z twoim zapotrzebowaniem na paliwo.}
-{170}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{171}{}{Dziêki. Na razie.}
-{172}{}{Jesteœ wrogiem mojego ludu. Giñ!}
-{173}{}{Zabicie UKC-9 by³o dobrym uczynkiem dla naszego ludu. Mam nadziejê, ¿e bêdê ci w stanie w jakiœ sposób pomóc.}
-{174}{}{Kim jesteœ?}
-{175}{}{Szukam pewnego sprzêtu.}
+{157}{}{Nie. PrzybyÅ‚y z pÃ³Å‚nocy i przeleciaÅ‚y nad nami, udajÄ…c siÄ™ za morze.}
+{158}{}{Za horyzont? A jak do diabÅ‚a mam siÄ™ tam dostaÄ‡?}
+{159}{}{Ta, no oczywiÅ›cie. A teraz gadaj mi gdzie sÄ…, zanim otworzÄ™ ciÄ™ jak puszkÄ™ sardynek.}
+{160}{}{CÃ³Å¼... Å¼adna z naszych Å‚odzi nie jest w stanie przebyÄ‡ takiej odlegÅ‚oÅ›ci. Chyba Å¼e...}
+{161}{}{Chyba Å¼e...?}
+{162}{}{DziÄ™ki za "pomoc". IdÄ™ zdobyÄ‡ jakÄ…Å› rozsÄ…dnÄ… radÄ™.}
+{163}{}{...chyba Å¼e uda ci siÄ™ zmusiÄ‡ ten stary tankowiec w dokach do dziaÅ‚ania. To stary statek, ale zapewne wciÄ…Å¼ jeszcze dziaÅ‚a, jeÅ¼eli trochÄ™ siÄ™ nad nim popracuje. PoproÅ› punkÃ³w o wiÄ™cej informacji.}
+{164}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{165}{}{DziÄ™ki. Na razie.}
+{166}{}{MÃ³wi siÄ™, Å¼e ostatnio Centrolodzy weszli w posiadanie duÅ¼ej iloÅ›ci paliwa. Dogadaj siÄ™ z nimi.}
+{167}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{168}{}{DziÄ™ki. Na razie.}
+{169}{}{MoÅ¼esz sprÃ³bowaÄ‡ popytaÄ‡ naukowcÃ³w Shi w Stalowym PaÅ‚acu. ByÄ‡ moÅ¼e bÄ™dÄ… ci w stanie pomÃ³c z twoim zapotrzebowaniem na paliwo.}
+{170}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{171}{}{DziÄ™ki. Na razie.}
+{172}{}{JesteÅ› wrogiem mojego ludu. GiÅ„!}
+{173}{}{Zabicie UKC-9 byÅ‚o dobrym uczynkiem dla naszego ludu. Mam nadziejÄ™, Å¼e bÄ™dÄ™ ci w stanie w jakiÅ› sposÃ³b pomÃ³c.}
+{174}{}{Kim jesteÅ›?}
+{175}{}{Szukam pewnego sprzÄ™tu.}
 {176}{}{Szukam informacji.}
 {177}{}{Bywaj.}
-{178}{}{Dostali je ju¿ od ciebie Centrolodzy, nie?}
-{179}{}{A tak... e... Mogê spytaæ o coœ innego?}
+{178}{}{Dostali je juÅ¼ od ciebie Centrolodzy, nie?}
+{179}{}{A tak... e... MogÄ™ spytaÄ‡ o coÅ› innego?}
 {180}{}{A tak... na razie.}
-{200}{}{Co jeszcze mo¿esz mi powiedzieæ o tankowcu.}
-{210}{}{Nawet jeœli uruchomisz komputer nawigacyjny tankowca i go zatankujesz ci¹gle bêdzie ci potrzebne du¿o szczêœcia ¿eby wyp³yn¹æ tym statkiem.}
-{211}{}{Co masz namyœli mówi¹c, ¿e potrzebuje 'du¿o szczêœcia'?}
-{220}{}{Mam na myœli, ¿e ta kupa z³omu jest starsza od wiêkszoœci ghuli. To bêdzie cud jeœli nie zatonie. To wszystko.}
-{221}{}{Mam wra¿enie, ¿e nie mówisz mi wszystkiego.}
-{230}{}{Mo¿e. [Uœmiecha siê.] A mo¿e pustkowie wpêdzi³o ciê w paranoje.}
-{231}{}{S³uchaj, muszê odnaleŸæ moje plemiê. Ci dranie którzy ich zabrali s¹ niebezpieczni, trzeba ich powstrzymaæ.}
-{232}{}{No, nie b¹dŸ taki. Co jest takiego specjalnego w tym tankowcu? Przecie¿ tylko rozmawiamy.}
-{233}{}{Jesteœ pewny? Sprawie, ¿e ci siê to op³aci.}
+{200}{}{Co jeszcze moÅ¼esz mi powiedzieÄ‡ o tankowcu.}
+{210}{}{Nawet jeÅ›li uruchomisz komputer nawigacyjny tankowca i go zatankujesz ciÄ…gle bÄ™dzie ci potrzebne duÅ¼o szczÄ™Å›cia Å¼eby wypÅ‚ynÄ…Ä‡ tym statkiem.}
+{211}{}{Co masz namyÅ›li mÃ³wiÄ…c, Å¼e potrzebuje 'duÅ¼o szczÄ™Å›cia'?}
+{220}{}{Mam na myÅ›li, Å¼e ta kupa zÅ‚omu jest starsza od wiÄ™kszoÅ›ci ghuli. To bÄ™dzie cud jeÅ›li nie zatonie. To wszystko.}
+{221}{}{Mam wraÅ¼enie, Å¼e nie mÃ³wisz mi wszystkiego.}
+{230}{}{MoÅ¼e. [UÅ›miecha siÄ™.] A moÅ¼e pustkowie wpÄ™dziÅ‚o ciÄ™ w paranoje.}
+{231}{}{SÅ‚uchaj, muszÄ™ odnaleÅºÄ‡ moje plemiÄ™. Ci dranie ktÃ³rzy ich zabrali sÄ… niebezpieczni, trzeba ich powstrzymaÄ‡.}
+{232}{}{No, nie bÄ…dÅº taki. Co jest takiego specjalnego w tym tankowcu? PrzecieÅ¼ tylko rozmawiamy.}
+{233}{}{JesteÅ› pewny? Sprawie, Å¼e ci siÄ™ to opÅ‚aci.}
 {234}{}{Nie mam czasu na twoje gierki. Do widzenia.}
-{240}{}{Phi. Oni s¹ niczym. Sam tankowiec to nic specjalnego. Po prostu, tak jak mówisz, du¿y, zardzewia³y tankowiec. Nasz okrêt podwodny, to ju¿ zupe³nie inna sprawa...}
-{241}{}{Okrêt podwodny?}
-{250}{}{No to, rozmawiajmy dalej. Ale nie ma niczego specjalnego w tankowcu. Na to daje ci moje s³owo.}
-{251}{}{Powiesz mi jak ci zap³acê?}
-{260}{}{Hmm... Ostatnio interes s³abo siê krêci. Przyda³oby mi siê wiêcej klientów. Albo, bardzo szczodra dotacja. Powiedzmy, 2000$?}
-{261}{}{Trzymaj. Ale lepiej ¿eby ta informacja by³a tyle warta.}
-{262}{}{1500$, to moje ostatnie s³owo.}
-{263}{}{Nie ma mowy. To za du¿o.}
-{270}{}{[Lao Chou chowa 2000$ do kieszeni.] Sam tankowiec to nic specjalnego. Po prostu, tak jak mówisz, du¿y, zardzewia³y tankowiec. Nasz okrêt podwodny, to ju¿ zupe³nie inna sprawa...}
-{271}{}{Okrêt podwodny?}
-{280}{}{W takim razie, nie mamy o czym rozmawiaæ.}
-{281}{}{Jesteœ pewien? Moja urocza ¿ona Miria na pewno ci to wynagrodzi.}
-{282}{}{¯egnaj.}
-{285}{}{Ostro siê targujesz. Dobrze, 1500$.}
-{286}{}{Trzymaj. Ale lepiej ¿eby ta informacja by³a tyle warta.}
-{287}{}{[Lao Chou chowa 1500$ do kieszeni.] Sam tankowiec to nic wyj¹tkowego. Po prostu, tak jak mówisz, du¿y, zardzewia³y tankowiec. Nasz okrêt podwodny, to ju¿ zupe³nie inna sprawa...}
-{288}{}{Okrêt podwodny?}
-{290}{}{Skoro tak, to ujmujesz, tkwiê w tym zakurzonym sklepie od d³u¿szego czasu. I trochê ju¿ minê³o od kiedy mia³em przyjemnoœæ cieszyæ siê towarzystwem tak czaruj¹cej kobiety jak ty.}
+{240}{}{Phi. Oni sÄ… niczym. Sam tankowiec to nic specjalnego. Po prostu, tak jak mÃ³wisz, duÅ¼y, zardzewiaÅ‚y tankowiec. Nasz okrÄ™t podwodny, to juÅ¼ zupeÅ‚nie inna sprawa...}
+{241}{}{OkrÄ™t podwodny?}
+{250}{}{No to, rozmawiajmy dalej. Ale nie ma niczego specjalnego w tankowcu. Na to daje ci moje sÅ‚owo.}
+{251}{}{Powiesz mi jak ci zapÅ‚acÄ™?}
+{260}{}{Hmm... Ostatnio interes sÅ‚abo siÄ™ krÄ™ci. PrzydaÅ‚oby mi siÄ™ wiÄ™cej klientÃ³w. Albo, bardzo szczodra dotacja. Powiedzmy, 2000$?}
+{261}{}{Trzymaj. Ale lepiej Å¼eby ta informacja byÅ‚a tyle warta.}
+{262}{}{1500$, to moje ostatnie sÅ‚owo.}
+{263}{}{Nie ma mowy. To za duÅ¼o.}
+{270}{}{[Lao Chou chowa 2000$ do kieszeni.] Sam tankowiec to nic specjalnego. Po prostu, tak jak mÃ³wisz, duÅ¼y, zardzewiaÅ‚y tankowiec. Nasz okrÄ™t podwodny, to juÅ¼ zupeÅ‚nie inna sprawa...}
+{271}{}{OkrÄ™t podwodny?}
+{280}{}{W takim razie, nie mamy o czym rozmawiaÄ‡.}
+{281}{}{JesteÅ› pewien? Moja urocza Å¼ona Miria na pewno ci to wynagrodzi.}
+{282}{}{Å»egnaj.}
+{285}{}{Ostro siÄ™ targujesz. Dobrze, 1500$.}
+{286}{}{Trzymaj. Ale lepiej Å¼eby ta informacja byÅ‚a tyle warta.}
+{287}{}{[Lao Chou chowa 1500$ do kieszeni.] Sam tankowiec to nic wyjÄ…tkowego. Po prostu, tak jak mÃ³wisz, duÅ¼y, zardzewiaÅ‚y tankowiec. Nasz okrÄ™t podwodny, to juÅ¼ zupeÅ‚nie inna sprawa...}
+{288}{}{OkrÄ™t podwodny?}
+{290}{}{Skoro tak, to ujmujesz, tkwiÄ™ w tym zakurzonym sklepie od dÅ‚uÅ¼szego czasu. I trochÄ™ juÅ¼ minÄ™Å‚o od kiedy miaÅ‚em przyjemnoÅ›Ä‡ cieszyÄ‡ siÄ™ towarzystwem tak czarujÄ…cej kobiety jak ty.}
 {291}{}{[KONTYNUUJ]}
-{300}{}{[Mijaj¹ godziny, a koñca nie widaæ. Zaczynasz podejrzewaæ, ¿e Lao Chou nie do koñca jest cz³owiekiem. W koñcu, tracisz przytomnoœæ.]}
-{301}{}{uum... Co siê sta³o?}
-{310}{}{Zemdla³aœ kiedy przeszliœmy do pozycji potrójnego lotosu i musia³em skoñczyæ siê zaspokajaæ kata szeroko-uœmiechniêtej-pandy.
- Ale umowa to umowa. W tankowcu nie ma nic specjalnego, to tylko, jak powiedzia³aœ, du¿y, zardzewia³y tankowiec. Ale nasz okrêt podwodny, to ju¿ zupe³nie inna sprawa...}
-{311}{}{Okrêt podwodny?}
-{330}{}{Ja... nie s¹dzê.}
-{331}{}{Nie próbuj z tym walczyæ. Chcesz mnie i dobrze o tym wiesz.}
-{340}{}{W³aœciwie, to nie. Nie jesteœ w moim typie.}
-{341}{}{Och, rozumiem. Nie interesuj¹ ciê kobiety.}
-{350}{}{Interesuj¹. Po prostu nie jesteœ dla mnie atrakcyjna. Mo¿e gdybym by³ pijany.}
-{351}{}{Musisz byæ œlepy. Zapomnij. Twoja strata.}
-{360}{}{Co proponujesz? Ach... có¿, tkwiê w tym zakurzonym sklepie od d³u¿szego czasu. Ujawniê wszystko co wiem w zamian za próbkê wdziêków twojej przyjació³ki.}
-{361}{}{Miria, kochanie... chyba bêdziesz musia³a, yyy, wypompowaæ informacje z tego goœcia.}
-{362}{}{¯artujê, staruszku. Chyba nie myœla³eœ, ¿e odst¹piê ci moj¹ ¿onê... Wychodzê.}
-{370}{}{[Czekasz na zewn¹trz, z wnêtrza Lataj¹cego Smoka 8 dobiegaj¹ ciê ciche jêki. Mija godzina, a potem kolejna. Dobijasz siê do drzwi, krzyczysz, "Poœpieszcie siê tam!" W koñcu, jêki przeradzaj¹ siê w dziki krzyk.]}
-{371}{}{[Dobijasz siê do drzwi.] Hej, co wy tam robicie!?}
-{380}{}{Uœmiechniêty Lao Chou wychodzi ze swojej sypialni, zak³adaj¹c jeszcze spodnie. Kilka chwil póŸniej Miria wychodzi z za niego, wygl¹da na przyæmion¹ i rozkojarzon¹ ale dog³êbnie zaspokojon¹] Twoja ¿ona jest wspania³a, ma wiêcej doœwiadczenia ni¿ na to wygl¹da.}
-{381}{}{Tak, ech, wiem. A teraz podci¹gnij wreszcie spodnie i powiedz mi co jest takiego wyj¹tkowego w tym przeklêtym tankowcu.}
-{390}{}{Nie ma w nim niczego wyj¹tkowego. To tylko, jak mówisz, du¿y, zardzewia³y tankowiec. Ale nasz okrêt podwodny, to ju¿ zupe³nie inna sprawa...}
-{391}{}{Okrêt podwodny?}
-{400}{}{Shi-Huang-Ti. Mój wielki pradziad, Ye Li, by³ jego kapitanem. Uwolni³ jego nuklearne ognie jak straszliwego smoka na wybrze¿e Kalifornii.}
+{300}{}{[MijajÄ… godziny, a koÅ„ca nie widaÄ‡. Zaczynasz podejrzewaÄ‡, Å¼e Lao Chou nie do koÅ„ca jest czÅ‚owiekiem. W koÅ„cu, tracisz przytomnoÅ›Ä‡.]}
+{301}{}{uum... Co siÄ™ staÅ‚o?}
+{310}{}{ZemdlaÅ‚aÅ› kiedy przeszliÅ›my do pozycji potrÃ³jnego lotosu i musiaÅ‚em skoÅ„czyÄ‡ siÄ™ zaspokajaÄ‡ kata szeroko-uÅ›miechniÄ™tej-pandy.
+ Ale umowa to umowa. W tankowcu nie ma nic specjalnego, to tylko, jak powiedziaÅ‚aÅ›, duÅ¼y, zardzewiaÅ‚y tankowiec. Ale nasz okrÄ™t podwodny, to juÅ¼ zupeÅ‚nie inna sprawa...}
+{311}{}{OkrÄ™t podwodny?}
+{330}{}{Ja... nie sÄ…dzÄ™.}
+{331}{}{Nie prÃ³buj z tym walczyÄ‡. Chcesz mnie i dobrze o tym wiesz.}
+{340}{}{WÅ‚aÅ›ciwie, to nie. Nie jesteÅ› w moim typie.}
+{341}{}{Och, rozumiem. Nie interesujÄ… ciÄ™ kobiety.}
+{350}{}{InteresujÄ…. Po prostu nie jesteÅ› dla mnie atrakcyjna. MoÅ¼e gdybym byÅ‚ pijany.}
+{351}{}{Musisz byÄ‡ Å›lepy. Zapomnij. Twoja strata.}
+{360}{}{Co proponujesz? Ach... cÃ³Å¼, tkwiÄ™ w tym zakurzonym sklepie od dÅ‚uÅ¼szego czasu. UjawniÄ™ wszystko co wiem w zamian za prÃ³bkÄ™ wdziÄ™kÃ³w twojej przyjaciÃ³Å‚ki.}
+{361}{}{Miria, kochanie... chyba bÄ™dziesz musiaÅ‚a, yyy, wypompowaÄ‡ informacje z tego goÅ›cia.}
+{362}{}{Å»artujÄ™, staruszku. Chyba nie myÅ›laÅ‚eÅ›, Å¼e odstÄ…piÄ™ ci mojÄ… Å¼onÄ™... WychodzÄ™.}
+{370}{}{[Czekasz na zewnÄ…trz, z wnÄ™trza LatajÄ…cego Smoka 8 dobiegajÄ… ciÄ™ ciche jÄ™ki. Mija godzina, a potem kolejna. Dobijasz siÄ™ do drzwi, krzyczysz, "PoÅ›pieszcie siÄ™ tam!" W koÅ„cu, jÄ™ki przeradzajÄ… siÄ™ w dziki krzyk.]}
+{371}{}{[Dobijasz siÄ™ do drzwi.] Hej, co wy tam robicie!?}
+{380}{}{UÅ›miechniÄ™ty Lao Chou wychodzi ze swojej sypialni, zakÅ‚adajÄ…c jeszcze spodnie. Kilka chwil pÃ³Åºniej Miria wychodzi z za niego, wyglÄ…da na przyÄ‡mionÄ… i rozkojarzonÄ… ale dogÅ‚Ä™bnie zaspokojonÄ…] Twoja Å¼ona jest wspaniaÅ‚a, ma wiÄ™cej doÅ›wiadczenia niÅ¼ na to wyglÄ…da.}
+{381}{}{Tak, ech, wiem. A teraz podciÄ…gnij wreszcie spodnie i powiedz mi co jest takiego wyjÄ…tkowego w tym przeklÄ™tym tankowcu.}
+{390}{}{Nie ma w nim niczego wyjÄ…tkowego. To tylko, jak mÃ³wisz, duÅ¼y, zardzewiaÅ‚y tankowiec. Ale nasz okrÄ™t podwodny, to juÅ¼ zupeÅ‚nie inna sprawa...}
+{391}{}{OkrÄ™t podwodny?}
+{400}{}{Shi-Huang-Ti. MÃ³j wielki pradziad, Ye Li, byÅ‚ jego kapitanem. UwolniÅ‚ jego nuklearne ognie jak straszliwego smoka na wybrzeÅ¼e Kalifornii.}
 {401}{}{Bez jaj.}
-{410}{}{Ku ironii, szwankuj¹cy pocisk narodu naszych w³asnych przodków zszed³ z kursu i eksplodowa³ nad oceanem blisko miejsca gdzie by³ okrêt podwodny. Wybuch uszkodzi³ systemy Shi-Huang-Ti, pozostawiaj¹c kapitana Ye Li i jego za³ogê dryfuj¹cych.}
-{411}{}{Karma was dopad³a.}
-{420}{}{Ale nadesz³o ocalenie. Po tygodniach dryfowania, okrêt osiad³ wreszcie na p³ytkich wodach zatoki San Francisco. To miasto sta³o siê naszym nowym domem. W koñcu naprawiliœmy Shi-Huang-Ti; jego systemy naprowadzania, jego broñ. Ma wystarczaj¹c¹ si³ê ognia, ¿eby zdmuchn¹æ ka¿dego potencjalnego intruza z powierzchni wody. Wiêc nawet jeœli uruchomisz ten stary tankowiec, nie pop³yniesz daleko, bo okrêt podwodny zniszczy ka¿dy nie-chiñski pojazd p³yn¹cy przez zatokê.}
-{421}{}{No to mo¿e byæ, problem. Wiêc jak dostanê siê na ten wasz okrêt podwodny?}
-{430}{}{Wp³aw. Albo motorówk¹ z doków. Ale jest strze¿ona, przez jednego z naszych najlepszych ¿o³nierzy, a on nie przepuœci obcego, jak ty.}
-{431}{}{Masz jakiœ pomys³ jak ko³o niego przejœæ, bez strzelania mu w twarz?}
-{440}{}{Ma œcis³y rozkaz pilnowaæ jej 24 godziny na dobê 7 dni w tygodniu. Nie przepuœci nikogo, bez podania w³aœciwego has³a.}
-{441}{}{Którego, jak przypuszczam, nie znasz?}
-{450}{}{To zale¿y. Jak przypuszczam, nie masz 10000$, ¿eby zapewniæ kontynuowanie prosperowania mojego sklepu?}
+{410}{}{Ku ironii, szwankujÄ…cy pocisk narodu naszych wÅ‚asnych przodkÃ³w zszedÅ‚ z kursu i eksplodowaÅ‚ nad oceanem blisko miejsca gdzie byÅ‚ okrÄ™t podwodny. Wybuch uszkodziÅ‚ systemy Shi-Huang-Ti, pozostawiajÄ…c kapitana Ye Li i jego zaÅ‚ogÄ™ dryfujÄ…cych.}
+{411}{}{Karma was dopadÅ‚a.}
+{420}{}{Ale nadeszÅ‚o ocalenie. Po tygodniach dryfowania, okrÄ™t osiadÅ‚ wreszcie na pÅ‚ytkich wodach zatoki San Francisco. To miasto staÅ‚o siÄ™ naszym nowym domem. W koÅ„cu naprawiliÅ›my Shi-Huang-Ti; jego systemy naprowadzania, jego broÅ„. Ma wystarczajÄ…cÄ… siÅ‚Ä™ ognia, Å¼eby zdmuchnÄ…Ä‡ kaÅ¼dego potencjalnego intruza z powierzchni wody. WiÄ™c nawet jeÅ›li uruchomisz ten stary tankowiec, nie popÅ‚yniesz daleko, bo okrÄ™t podwodny zniszczy kaÅ¼dy nie-chiÅ„ski pojazd pÅ‚ynÄ…cy przez zatokÄ™.}
+{421}{}{No to moÅ¼e byÄ‡, problem. WiÄ™c jak dostanÄ™ siÄ™ na ten wasz okrÄ™t podwodny?}
+{430}{}{WpÅ‚aw. Albo motorÃ³wkÄ… z dokÃ³w. Ale jest strzeÅ¼ona, przez jednego z naszych najlepszych Å¼oÅ‚nierzy, a on nie przepuÅ›ci obcego, jak ty.}
+{431}{}{Masz jakiÅ› pomysÅ‚ jak koÅ‚o niego przejÅ›Ä‡, bez strzelania mu w twarz?}
+{440}{}{Ma Å›cisÅ‚y rozkaz pilnowaÄ‡ jej 24 godziny na dobÄ™ 7 dni w tygodniu. Nie przepuÅ›ci nikogo, bez podania wÅ‚aÅ›ciwego hasÅ‚a.}
+{441}{}{KtÃ³rego, jak przypuszczam, nie znasz?}
+{450}{}{To zaleÅ¼y. Jak przypuszczam, nie masz 10000$, Å¼eby zapewniÄ‡ kontynuowanie prosperowania mojego sklepu?}
 {451}{}{Masz swoje 10000$.}
-{452}{}{Chyba oszala³eœ, za proste has³o . Nie zap³acê wiêcej ni¿ 5000$.}
+{452}{}{Chyba oszalaÅ‚eÅ›, za proste hasÅ‚o . Nie zapÅ‚acÄ™ wiÄ™cej niÅ¼ 5000$.}
 {453}{}{Nie ma szans.}
-{460}{}{Ach, stokrotne dziêki. Has³o brzmi XY8QIV2SHI. Inni mog¹ mnie po tym obserwowaæ, wiêc nie zapomnij has³a. Jeœli jeszcze kiedyœ bêdziemy o tym rozmawiaæ, to bêdê potrzebowa³ jeszcze wiêcej pieniêdzy na ³apówki.}
-{461}{}{Dziêkujê. Do widzenia.}
-{470}{}{Przyznaje, potrafisz siê targowaæ. W porz¹dku. przyjmuje twoj¹ ofertê. Has³o brzmi XY8QIV2SHI. Nie zapomnij, bo bêdzie trzeba za nie znowu zap³aciæ.}
-{471}{}{Dziêkujê. Do widzenia.}
-{480}{}{Nie obra¿aj mnie swoja mizern¹ ofert¹. 10000$. Bierzesz albo nie.}
+{460}{}{Ach, stokrotne dziÄ™ki. HasÅ‚o brzmi XY8QIV2SHI. Inni mogÄ… mnie po tym obserwowaÄ‡, wiÄ™c nie zapomnij hasÅ‚a. JeÅ›li jeszcze kiedyÅ› bÄ™dziemy o tym rozmawiaÄ‡, to bÄ™dÄ™ potrzebowaÅ‚ jeszcze wiÄ™cej pieniÄ™dzy na Å‚apÃ³wki.}
+{461}{}{DziÄ™kujÄ™. Do widzenia.}
+{470}{}{Przyznaje, potrafisz siÄ™ targowaÄ‡. W porzÄ…dku. przyjmuje twojÄ… ofertÄ™. HasÅ‚o brzmi XY8QIV2SHI. Nie zapomnij, bo bÄ™dzie trzeba za nie znowu zapÅ‚aciÄ‡.}
+{471}{}{DziÄ™kujÄ™. Do widzenia.}
+{480}{}{Nie obraÅ¼aj mnie swoja mizernÄ… ofertÄ…. 10000$. Bierzesz albo nie.}
 {481}{}{Dobra. Masz swoje 10000$.}
 {482}{}{Nie ma szans.}
-{490}{}{Twoja strata. Nie s¹dzê ¿ebyœmy mieli jeszcze o czym rozmawiaæ. Do widzenia.}
+{490}{}{Twoja strata. Nie sÄ…dzÄ™ Å¼ebyÅ›my mieli jeszcze o czym rozmawiaÄ‡. Do widzenia.}
 {491}{}{Bywaj.}

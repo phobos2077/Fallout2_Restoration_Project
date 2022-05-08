@@ -1,25 +1,25 @@
-{100}{}{Egy b?rp·ncÈlos, unatkozÛ embert l·tsz.}
+{100}{}{Egy b?rp√°nc√©los, unatkoz√≥ embert l√°tsz.}
 {101}{}{You see Max, the caravan guard.}
-{102}{}{Egy b?rp·ncÈlos, unatkozÛ embert l·tsz. A brahminb?zb?l, ami kˆr¸llengi, Ès a magabiztos j·r·s·bÛl egyÈrtelm?en l·tszik, hogy karav·nkÌsÈr?.}
-{103}{}{SegÌthetek valamiben?}
-{104}{}{÷rgh?}
-{105}{}{…nn dolgozni!}
+{102}{}{Egy b?rp√°nc√©los, unatkoz√≥ embert l√°tsz. A brahminb?zb?l, ami k√∂r√ºllengi, √©s a magabiztos j√°r√°s√°b√≥l egy√©rtelm?en l√°tszik, hogy karav√°nk√≠s√©r?.}
+{103}{}{Seg√≠thetek valamiben?}
+{104}{}{√ñrgh?}
+{105}{}{√ânn dolgozni!}
 {106}{}{Ki vagy te?}
-{107}{}{Mit tudsz nekem mondani ChadrÛl?}
-{108}{}{Nincs id? h¸lyegyerekekre. Bocs, haver, de keress m·st, akivel j·tszhatsz!}
+{107}{}{Mit tudsz nekem mondani Chadr√≥l?}
+{108}{}{Nincs id? h√ºlyegyerekekre. Bocs, haver, de keress m√°st, akivel j√°tszhatsz!}
 {109}{}{::szipp::}
 {110}{}{I'm Max. I'm one of the caravan guards.}
-{111}{}{Mit tudsz nekem mondani ChadrÛl?}
-{112}{}{Kˆsz. Viszl·t!}
+{111}{}{Mit tudsz nekem mondani Chadr√≥l?}
+{112}{}{K√∂sz. Viszl√°t!}
 {113}{}{Honestly? I don't care for the guy. Lately, he's been tossing around a lot of coin. I mean, sure, he's the
  caravan master, so it makes sense for him to take a larger cut--I understand that. But there's no way he should be
  *that* loaded. I think it'd be *real* interesting to take a peek at his records.}
 {114}{}{Marcus told me he suspects Chad of skimming some of the caravan money that supposed to be going to Broken Hills.
  I told him I'd look into it.}
-{115}{}{Kˆsz. Viszl·t!}
+{115}{}{K√∂sz. Viszl√°t!}
 {116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
-{117}{}{Viszl·t!}
-{118}{}{Itt az ellensÈg! Pusztulj!}
+{117}{}{Viszl√°t!}
+{118}{}{Itt az ellens√©g! Pusztulj!}
 {119}{}{Ajjaj!}
 {120}{}{[Lowers his voice and looks around.] That's gotta be it. In fact, I was a guard on the latest uranium run to
  Gecko, and I overheard Chad arguing with their ghoul rep. Apparently, Broken Hills had recently been jacking up the
@@ -29,7 +29,7 @@
 {122}{}{Are you insane? Chad's a powerful guy in this town and he's got a lot of friends. If I try to rat him out, there's a lot of people that'd hate me. Hell, I might even get killed.}
 {123}{}{Hmm, then perhaps I could say something to Marcus. I don't plan to stay around here too much longer anyway.}
 {124}{}{Hey, you do what you need to do, just don't drag me into it. In fact, we never had this conversation, OK?}
-{125}{}{Semmi baj. Viszl·t!}
+{125}{}{Semmi baj. Viszl√°t!}
 {126}{}{Actually, one more thing. I know Chad keeps records of all the transactions he makes. He's kind of a record freak.
  In fact, the guy's such a nut about it, I bet he even has records of all the money he's been skimming. The problem is,
  he keeps all the stuff locked up in his house on the other side of town, and there's no way you're getting in there--his

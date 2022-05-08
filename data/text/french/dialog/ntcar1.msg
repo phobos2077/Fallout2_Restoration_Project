@@ -1,4 +1,4 @@
-{100}{}{Hé ! Où est ma voiture ?!}
-{101}{}{Où est passée ma voiture... ?}
+{100}{}{HÃ© ! OÃ¹ est ma voiture ?!}
+{101}{}{OÃ¹ est passÃ©e ma voiture... ?}
 {110}{}{Euh, ho. Moi pas voir voiture ici !}
 {111}{}{Euh, ho. Moi perdu voiture...}

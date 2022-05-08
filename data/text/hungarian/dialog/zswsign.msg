@@ -1,5 +1,5 @@
-{100}{}{Egy körözési poszter, a kép durva szénrajz. A poszteren lév? kép nagyon ismer?s.}
-{101}{}{A felirat szövege.}
-{102}{}{Körözés! Élve vagy holtan. Gyerek gyilkosságért és mert egy rohadt féreg.  Vérdíj: Halva 10000$  vagy élve 5000$.}
-{103}{}{Körözés! Élve vagy holtan. Gyerek gyilkosságért.  Vérdíj: Holtan 10000$  vagy élve 5000$.}
-{104}{}{Körözés! Élve vagy halva. Mert egy rohadt féreg.  Vérdíj: Holtan 10000$  vagy élve 5000$.}
+{100}{}{Egy kÃ¶rÃ¶zÃ©si poszter, a kÃ©p durva szÃ©nrajz. A poszteren lÃ©v? kÃ©p nagyon ismer?s.}
+{101}{}{A felirat szÃ¶vege.}
+{102}{}{KÃ¶rÃ¶zÃ©s! Ã‰lve vagy holtan. Gyerek gyilkossÃ¡gÃ©rt Ã©s mert egy rohadt fÃ©reg.  VÃ©rdÃ­j: Halva 10000$  vagy Ã©lve 5000$.}
+{103}{}{KÃ¶rÃ¶zÃ©s! Ã‰lve vagy holtan. Gyerek gyilkossÃ¡gÃ©rt.  VÃ©rdÃ­j: Holtan 10000$  vagy Ã©lve 5000$.}
+{104}{}{KÃ¶rÃ¶zÃ©s! Ã‰lve vagy halva. Mert egy rohadt fÃ©reg.  VÃ©rdÃ­j: Holtan 10000$  vagy Ã©lve 5000$.}

@@ -1,81 +1,81 @@
-{100}{}{Oh la la ! Une très belle femme, très séduisante et vraiment bien foutue.}
+{100}{}{Oh la la ! Une trÃ¨s belle femme, trÃ¨s sÃ©duisante et vraiment bien foutue.}
 {101}{}{Tu vois Miria.}
-{102}{}{Tu n'es pas sûr, mais tu penses qu'elle fait bien du 90-60-90.}
+{102}{}{Tu n'es pas sÃ»r, mais tu penses qu'elle fait bien du 90-60-90.}
 {150}{}{Salope !}
-{151}{}{Comment oses-tu montrer à nouveau ta tronche ici !}
-{152}{}{C'est répugnant !}
-{153}{}{J'espère que vous êtes heureux ensemble.}
-{154}{}{Bien le bonjour à toi, étranger. Je m'appelle Miria.}
+{151}{}{Comment oses-tu montrer Ã  nouveau ta tronche ici !}
+{152}{}{C'est rÃ©pugnant !}
+{153}{}{J'espÃ¨re que vous Ãªtes heureux ensemble.}
+{154}{}{Bien le bonjour Ã  toi, Ã©tranger. Je m'appelle Miria.}
 {155}{}{Ca me fait tellement plaisir de te revoir. Alors, que puis-je faire pour toi ?}
 {156}{}{Que fais-tu dans le coin ?}
 {157}{}{Que peux-tu me dire sur l'abattoir ?}
-{158}{}{As-tu des informations intéressantes ?}
+{158}{}{As-tu des informations intÃ©ressantes ?}
 {159}{}{Waouh ! Houba !}
 {160}{}{Si je ne m'ennuyais pas autant, je te dirais non. Alors, pose-les tes questions.}
-{164}{}{On dit que Farrel a volé la montre.}
-{165}{}{Pourquoi Farrel aurait-il volé cette montre ?}
-{166}{}{Farrel n'est-il pas le meilleur ami de Cornélius ?}
+{164}{}{On dit que Farrel a volÃ© la montre.}
+{165}{}{Pourquoi Farrel aurait-il volÃ© cette montre ?}
+{166}{}{Farrel n'est-il pas le meilleur ami de CornÃ©lius ?}
 {167}{}{J'ai besoin d'entendre d'autres rumeurs.}
-{168}{}{Parce que les gens pauvres ont tendance à voler pour joindre les deux bouts. Farrel est vraiment tombé
- dans la misère. Cela pourrait expliquer comment il a pu acheter de nouveaux outils peu après la disparition
- de la montre de Cornélius.}
+{168}{}{Parce que les gens pauvres ont tendance Ã  voler pour joindre les deux bouts. Farrel est vraiment tombÃ©
+ dans la misÃ¨re. Cela pourrait expliquer comment il a pu acheter de nouveaux outils peu aprÃ¨s la disparition
+ de la montre de CornÃ©lius.}
 {170}{}{Puis-je vous poser encore quelques questions ?}
-{171}{}{Oui, ces deux-là s'entendaient comme larrons en foire. C'est bien pour ça que je soupçonne Farrel d'avoir
- volé la montre. Qui d'autre que lui aurait pu s'introduire aussi facilement pour voler cette montre ?}
-{174}{}{Je n'ai rien à dire. Ma famille dirige l'abattoir. Des gens des quatre coins du pays apportent leurs
- Brahmines pour les faire abattre. Une fois que c'est fait et que la viande a été préparée, nous la vendons aux
- marchands qui eux la vendent aux commerçants des villes. Si vous voulez mon avis, moi je trouve tout ça très ennuyeux.}
-{176}{}{Mais alors vous êtes au bon endroit ! Cette ville est tellement monotone, il n'y a rien d'autre à faire que
- raconter des commérages ici et... [Elle continue de parler pendant un moment avant que tu ne puisses en placer une.]}
+{171}{}{Oui, ces deux-lÃ  s'entendaient comme larrons en foire. C'est bien pour Ã§a que je soupÃ§onne Farrel d'avoir
+ volÃ© la montre. Qui d'autre que lui aurait pu s'introduire aussi facilement pour voler cette montre ?}
+{174}{}{Je n'ai rien Ã  dire. Ma famille dirige l'abattoir. Des gens des quatre coins du pays apportent leurs
+ Brahmines pour les faire abattre. Une fois que c'est fait et que la viande a Ã©tÃ© prÃ©parÃ©e, nous la vendons aux
+ marchands qui eux la vendent aux commerÃ§ants des villes. Si vous voulez mon avis, moi je trouve tout Ã§a trÃ¨s ennuyeux.}
+{176}{}{Mais alors vous Ãªtes au bon endroit ! Cette ville est tellement monotone, il n'y a rien d'autre Ã  faire que
+ raconter des commÃ©rages ici et... [Elle continue de parler pendant un moment avant que tu ne puisses en placer une.]}
 {177}{}{Que veux-tu savoir d'autre ?}
-{178}{}{Que sais-tu sur la montre qu'on a volée à Cornélius ?}
-{179}{}{Tu as dit quelque chose à propos de Rose.}
+{178}{}{Que sais-tu sur la montre qu'on a volÃ©e Ã  CornÃ©lius ?}
+{179}{}{Tu as dit quelque chose Ã  propos de Rose.}
 {180}{}{Quelle est cette histoire de Brahmine mutante ?}
 {181}{}{Parle-moi de Davin.}
 {182}{}{Allez, parlons d'autre chose.}
 {183}{}{Ah ! Rose. La proprio de l'Auberge. Bon, mais je ne t'ai rien dit, hein ! D'abord, ne t'es-tu
- jamais demandé pourquoi son poulailler est si bien protégé ? Elle prétend que c'est pour protéger ses poules des
- prédateurs. Mais à y regarder de plus près, on jurerait qu'elle cherche plutôt à enfermer quelque chose au lieu
- de l'empêcher d'entrer. Et en plus, a-t-on jamais vu des poules qui pondent des oeufs de six kilos ?!}
+ jamais demandÃ© pourquoi son poulailler est si bien protÃ©gÃ© ? Elle prÃ©tend que c'est pour protÃ©ger ses poules des
+ prÃ©dateurs. Mais Ã  y regarder de plus prÃ¨s, on jurerait qu'elle cherche plutÃ´t Ã  enfermer quelque chose au lieu
+ de l'empÃªcher d'entrer. Et en plus, a-t-on jamais vu des poules qui pondent des oeufs de six kilos ?!}
 {184}{}{Qu'as-tu d'autres comme ragot ?}
-{186}{}{C'est très étrange, mais j'ai entendu dire que certains éleveurs prétendent que de temps à autre une
- Brahmine donne naissance à un veau qui n'a qu'une seule tête ! C'est pas bizarre ça ?!}
+{186}{}{C'est trÃ¨s Ã©trange, mais j'ai entendu dire que certains Ã©leveurs prÃ©tendent que de temps Ã  autre une
+ Brahmine donne naissance Ã  un veau qui n'a qu'une seule tÃªte ! C'est pas bizarre Ã§a ?!}
 {189}{}{Il fait partie de la famille. Je ne colporte pas de rumeurs sur ma propre famille.}
-{192}{}{Qui moi ? Je fais des petits boulots ici et là. Il n'y a pas grand-chose à dire, vraiment. [Elle te
+{192}{}{Qui moi ? Je fais des petits boulots ici et lÃ . Il n'y a pas grand-chose Ã  dire, vraiment. [Elle te
  regarde en battant des cils.]}
-{193}{}{J'aimerais vraiment mieux te connaître.}
-{194}{}{Tu as raison. Nous avons assez parlé. C'est ça que tu attends alors, allons-y, passons un
- peu à l'action !}
-{196}{}{Ca me touche beaucoup. Personne n'essaie jamais de mieux me connaître. Tout ce qu'ils veulent c'est
- du cul, du cul, du cul ! J'en ai marre de cette sexualité bestiale ! Je suis tellement contente que tu sois
- différent des autres.}
-{197}{}{Sale pute ! J'ai bien cru que tu étais différente.}
-{198}{}{Tu sais, je suis quelqu'un d'ordinaire. Pourquoi mes amis disent-ils : «}
-{199}{}{ , tu es cool parce que tu es dans la norme, ordinaire quoi. » Voilà, la norme, l'ordinaire, c'est moi.}
-{200}{}{Hé bien, je n'ai jamais connu quelqu'un d'aussi intéressant que toi.}
+{193}{}{J'aimerais vraiment mieux te connaÃ®tre.}
+{194}{}{Tu as raison. Nous avons assez parlÃ©. C'est Ã§a que tu attends alors, allons-y, passons un
+ peu Ã  l'action !}
+{196}{}{Ca me touche beaucoup. Personne n'essaie jamais de mieux me connaÃ®tre. Tout ce qu'ils veulent c'est
+ du cul, du cul, du cul ! J'en ai marre de cette sexualitÃ© bestiale ! Je suis tellement contente que tu sois
+ diffÃ©rent des autres.}
+{197}{}{Sale pute ! J'ai bien cru que tu Ã©tais diffÃ©rente.}
+{198}{}{Tu sais, je suis quelqu'un d'ordinaire. Pourquoi mes amis disent-ils : Â«}
+{199}{}{ , tu es cool parce que tu es dans la norme, ordinaire quoi. Â» VoilÃ , la norme, l'ordinaire, c'est moi.}
+{200}{}{HÃ© bien, je n'ai jamais connu quelqu'un d'aussi intÃ©ressant que toi.}
 {202}{}{Un peu d'action ? Que sous-entends-tu ?}
-{203}{}{Tu sais très bien de quoi je parle, baby. Toi, tu sais ce que tu veux. [Tu souris et tu commences à te
- déshabiller.]}
+{203}{}{Tu sais trÃ¨s bien de quoi je parle, baby. Toi, tu sais ce que tu veux. [Tu souris et tu commences Ã  te
+ dÃ©shabiller.]}
 {204}{}{Je m'excuse, je n'avais pas du tout l'intention de sous-entendre quoi que ce soit.}
-{205}{}{Comment oses-tu m'insulter ? Laisse-moi te dire que je suis très difficile pour choisir ceux qui
- entrent dans mon lit. Pourquoi crois-tu que j'ai couché avec seulement 10 ou 20 personnes ce mois-ci ?! Je
- crois bien que cette conversation est ter-mi-née !}
-{206}{}{Quelle déception ! Tu es donc comme les autres alors ?}
+{205}{}{Comment oses-tu m'insulter ? Laisse-moi te dire que je suis trÃ¨s difficile pour choisir ceux qui
+ entrent dans mon lit. Pourquoi crois-tu que j'ai couchÃ© avec seulement 10 ou 20 personnes ce mois-ci ?! Je
+ crois bien que cette conversation est ter-mi-nÃ©e !}
+{206}{}{Quelle dÃ©ception ! Tu es donc comme les autres alors ?}
 {208}{}{Non, je ne crois pas. Allez, j'en ai marre de cette conversation. Au revoir.}
-{209}{}{[Elle rougit.] Arrête, tu m'embarrasses terriblement. Tu es la douceur incarnée. Pourquoi ne
- viens-tu pas t'asseoir à côté de moi ?}
+{209}{}{[Elle rougit.] ArrÃªte, tu m'embarrasses terriblement. Tu es la douceur incarnÃ©e. Pourquoi ne
+ viens-tu pas t'asseoir Ã  cÃ´tÃ© de moi ?}
 {210}{}{Je crois que cela va trop loin. Ne pouvons-nous pas seulement bavarder ?}
-{211}{}{J'ai bien cru que tu ne le demanderais jamais. Alors pourquoi ne pas nous mettre à l'aise ?}
-{212}{}{Génial, toi au moins tu sais c'que tu veux !}
+{211}{}{J'ai bien cru que tu ne le demanderais jamais. Alors pourquoi ne pas nous mettre Ã  l'aise ?}
+{212}{}{GÃ©nial, toi au moins tu sais c'que tu veux !}
 {213}{}{Tu n'es qu'une petite pute, hein ?!}
-{214}{}{Je n'en peux plus. Ton corps est si parfait. [Elle arrache ses vêtements, puis les tiens, et puis...]}
-{215}{}{[Ta vie ne sera jamais plus la même.]}
-{216}{}{Il vaudrait mieux que ça ne soit pas ce que je pense.}
+{214}{}{Je n'en peux plus. Ton corps est si parfait. [Elle arrache ses vÃªtements, puis les tiens, et puis...]}
+{215}{}{[Ta vie ne sera jamais plus la mÃªme.]}
+{216}{}{Il vaudrait mieux que Ã§a ne soit pas ce que je pense.}
 {217}{}{Aoooga !}
 {218}{}{Hein ?}
-{219}{}{Oui ! C'est bien ce que je pensais ! C'est drôle comme le langage du Néandertal et le langage civilisé
- se ressemblent quand on aborde ce sujet. [Tu ne l'as même pas vu venir... Mais c'est sûr, la marque rouge
- imprimée sur ton visage par une main vigoureuse disparaîtra un jour ou l'autre.]}
+{219}{}{Oui ! C'est bien ce que je pensais ! C'est drÃ´le comme le langage du NÃ©andertal et le langage civilisÃ©
+ se ressemblent quand on aborde ce sujet. [Tu ne l'as mÃªme pas vu venir... Mais c'est sÃ»r, la marque rouge
+ imprimÃ©e sur ton visage par une main vigoureuse disparaÃ®tra un jour ou l'autre.]}
 {250}{}{Papa, au secours ! Fais-le partir !}
 {251}{}{Allez, va-t-en !}
 {260}{}{Papa, au secours ! Fais-la partir !}
@@ -85,35 +85,35 @@
 {401}{}{Uh oh !}
 {402}{}{C'est bien mon cas !}
 {410}{}{Euh...}
-{411}{}{Uhhh... Continue s'il te plaît...}
+{411}{}{Uhhh... Continue s'il te plaÃ®t...}
 {412}{}{Je n'ai jamais...}
 {413}{}{Um... Moi oui !}
 {420}{}{Oncle Biff !}
-{450}{}{Uhhh, je crois que tu devrais parler avec mon père.}
-{470}{}{Heuu, je crois que tu devrais parler à mon oncle Biff.}
-{500}{}{Génial, je suppose que ça veut dire qu'il faut que je dirige ce merdier maintenant.}
+{450}{}{Uhhh, je crois que tu devrais parler avec mon pÃ¨re.}
+{470}{}{Heuu, je crois que tu devrais parler Ã  mon oncle Biff.}
+{500}{}{GÃ©nial, je suppose que Ã§a veut dire qu'il faut que je dirige ce merdier maintenant.}
 {1000}{}{Hmmm ?}
 {1001}{}{Oui, mon chou ?}
 {1002}{}{Y a-t-il quelque chose que tu... Veux que je fasse ?}
-{1003}{}{Peut-on le faire plus tard ? Je commence à avoir la migraine.}
+{1003}{}{Peut-on le faire plus tard ? Je commence Ã  avoir la migraine.}
 {1004}{}{Salut, mon p'tit coeur.}
-{1005}{}{Non, non, non... Pas à cette distance ! Il faut que tu restes un peu en arrière quand on se déplace.}
-{1006}{}{Hé, cool, relax, tu me laisses juste un peu d'espace quand on se balade.}
-{1007}{}{Je vais faire de mon mieux, mon petit chou à la crème. C'est juste un peu difficile de "nous" trouver
- du temps dans ce foutu désert.}
-{1008}{}{Mes oignons, c'est tes oignons. Même si je n'ai pas mon mot à dire, de toute façon. Hum.}
-{1009}{}{Ok, mon petit pain en sucre, mais faut-il vraiment qu'on s'arrête à l'armure ?}
-{1010}{}{Les Armes de Mêlée comme les couteaux, ça m'excite, mais je peux aussi me servir d'armes comme une mitraillette en un rien de temps s'il le faut. Mais, il faut pas s'attendre à ce que je touche quoi que ce soit.}
+{1005}{}{Non, non, non... Pas Ã  cette distance ! Il faut que tu restes un peu en arriÃ¨re quand on se dÃ©place.}
+{1006}{}{HÃ©, cool, relax, tu me laisses juste un peu d'espace quand on se balade.}
+{1007}{}{Je vais faire de mon mieux, mon petit chou Ã  la crÃ¨me. C'est juste un peu difficile de "nous" trouver
+ du temps dans ce foutu dÃ©sert.}
+{1008}{}{Mes oignons, c'est tes oignons. MÃªme si je n'ai pas mon mot Ã  dire, de toute faÃ§on. Hum.}
+{1009}{}{Ok, mon petit pain en sucre, mais faut-il vraiment qu'on s'arrÃªte Ã  l'armure ?}
+{1010}{}{Les Armes de MÃªlÃ©e comme les couteaux, Ã§a m'excite, mais je peux aussi me servir d'armes comme une mitraillette en un rien de temps s'il le faut. Mais, il faut pas s'attendre Ã  ce que je touche quoi que ce soit.}
 {1020}{}{Parlons un peu de la distance entre nous.}
-{1100}{}{Je suis totalement guérie, prête à partir.}
-{1200}{}{Il me reste à peine quelques égratignures. Ne t'en fais pas, mon canard.}
-{1300}{}{Je suis presque guérie, mais j'aimerais bien me faire soigner encore à l'occasion.}
-{1400}{}{Je me suis soignée autant que j'ai pu, mais je suis encore pas mal esquintée.}
+{1100}{}{Je suis totalement guÃ©rie, prÃªte Ã  partir.}
+{1200}{}{Il me reste Ã  peine quelques Ã©gratignures. Ne t'en fais pas, mon canard.}
+{1300}{}{Je suis presque guÃ©rie, mais j'aimerais bien me faire soigner encore Ã  l'occasion.}
+{1400}{}{Je me suis soignÃ©e autant que j'ai pu, mais je suis encore pas mal esquintÃ©e.}
 {1500}{}{Non mon chou, je veux venir avec toi.}
 {1600}{}{Certainement, je le range.}
 {1700}{}{}
-{1800}{}{Non, non, mon coeur. J'ai besoin de rester près de toi.}
-{1900}{}{Mais alors je ne serai plus tout près de toi, mon amour.}
-{2000}{}{Je pense que je me suis cassé un membre. Il vaudrait mieux regarder.}
-{2001}{}{Je me sens fiévreuse mon amour. Je pense que je suis irradiée.}
-{2002}{}{Je me sens vraiment malade, mon ange. Je pense que je suis empoisonné.}
+{1800}{}{Non, non, mon coeur. J'ai besoin de rester prÃ¨s de toi.}
+{1900}{}{Mais alors je ne serai plus tout prÃ¨s de toi, mon amour.}
+{2000}{}{Je pense que je me suis cassÃ© un membre. Il vaudrait mieux regarder.}
+{2001}{}{Je me sens fiÃ©vreuse mon amour. Je pense que je suis irradiÃ©e.}
+{2002}{}{Je me sens vraiment malade, mon ange. Je pense que je suis empoisonnÃ©.}

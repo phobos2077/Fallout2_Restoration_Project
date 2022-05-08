@@ -1,68 +1,68 @@
-{100}{}{Widzisz kogoœ w pomiêtym habicie.}
+{100}{}{Widzisz kogoÅ› w pomiÄ™tym habicie.}
 {101}{}{To kolejny zakapturzony Centrolog.}
-{102}{}{Wygl¹da na kogoœ nosz¹cego habit.}
-{103}{}{Kim jesteœ? Co tu robisz?}
-{104}{}{Nie powinno ciê tu byæ, prawda?}
-{105}{}{Patrzcie! Miêcho!}
-{106}{}{Hej! Kto wpuœci³ tutaj miêcho?}
-{107}{}{Nie mo¿esz tak chodziæ bez eskorty.}
-{108}{}{Ach! Zak³ócasz moje neurodyny!}
-{109}{}{OdejdŸ, niewierny!}
-{110}{}{Nie mów do mnie - jestem zajêt¹ osob¹.}
-{111}{}{Hej! Sma¿ysz moje neurodyny!}
-{112}{}{Mo¿e bardziej bêdê ciê lubiæ, jeœli poddasz siê uszeregowaniu.}
-{113}{}{Gwiezdny Ojciec bêdzie ciê kochaæ, jeœli tylko mu na to pozwolisz.}
-{114}{}{Czy nie chcesz zobaczyæ Quetzel? Do³¹cz do nas!}
-{115}{}{IdŸ porozmawiaæ z UKC-7 i do³¹cz do nas!}
-{116}{}{Wiesz, wœród Centrologów s¹ tak¿e gwiazdy.}
-{117}{}{Juan Cruz i Vikki Goldman s¹ s³awni! Dlatego siê przy³¹czy³em.}
-{118}{}{Za³o¿ê siê, ¿e gwiazdy porozmawiaj¹ z tob¹, jeœli zachowasz siê mi³o i otwarcie.}
+{102}{}{WyglÄ…da na kogoÅ› noszÄ…cego habit.}
+{103}{}{Kim jesteÅ›? Co tu robisz?}
+{104}{}{Nie powinno ciÄ™ tu byÄ‡, prawda?}
+{105}{}{Patrzcie! MiÄ™cho!}
+{106}{}{Hej! Kto wpuÅ›ciÅ‚ tutaj miÄ™cho?}
+{107}{}{Nie moÅ¼esz tak chodziÄ‡ bez eskorty.}
+{108}{}{Ach! ZakÅ‚Ã³casz moje neurodyny!}
+{109}{}{OdejdÅº, niewierny!}
+{110}{}{Nie mÃ³w do mnie - jestem zajÄ™tÄ… osobÄ….}
+{111}{}{Hej! SmaÅ¼ysz moje neurodyny!}
+{112}{}{MoÅ¼e bardziej bÄ™dÄ™ ciÄ™ lubiÄ‡, jeÅ›li poddasz siÄ™ uszeregowaniu.}
+{113}{}{Gwiezdny Ojciec bÄ™dzie ciÄ™ kochaÄ‡, jeÅ›li tylko mu na to pozwolisz.}
+{114}{}{Czy nie chcesz zobaczyÄ‡ Quetzel? DoÅ‚Ä…cz do nas!}
+{115}{}{IdÅº porozmawiaÄ‡ z UKC-7 i doÅ‚Ä…cz do nas!}
+{116}{}{Wiesz, wÅ›rÃ³d CentrologÃ³w sÄ… takÅ¼e gwiazdy.}
+{117}{}{Juan Cruz i Vikki Goldman sÄ… sÅ‚awni! Dlatego siÄ™ przyÅ‚Ä…czyÅ‚em.}
+{118}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e gwiazdy porozmawiajÄ… z tobÄ…, jeÅ›li zachowasz siÄ™ miÅ‚o i otwarcie.}
 {119}{}{Uwielbiam Centrum.}
-{120}{}{Lubiê byæ Centrologiem.}
-{121}{}{Chcê pobudziæ mój potencja³.}
-{122}{}{Có¿, po prawdzie, to wci¹¿ uczê siê nowomowy.}
+{120}{}{LubiÄ™ byÄ‡ Centrologiem.}
+{121}{}{ChcÄ™ pobudziÄ‡ mÃ³j potencjaÅ‚.}
+{122}{}{CÃ³Å¼, po prawdzie, to wciÄ…Å¼ uczÄ™ siÄ™ nowomowy.}
 {123}{}{Wielbcie Centrum!}
-{124}{}{Wielbcie Wielkie Ko³o!}
+{124}{}{Wielbcie Wielkie KoÅ‚o!}
 {125}{}{Wyruszamy na Quetzel!}
-{126}{}{Ju¿ nie mogê siê doczekaæ powrotu do domu do gwiazd.}
-{127}{}{Proszê, nie przeszkadzaj mi, koncentrujê moje neurodyny.}
-{128}{}{Proszê, nie deszereguj moich neurodyn.}
-{138}{}{O nie! Przeœladowca!}
-{139}{}{Pogañskie nasienie!}
-{140}{}{OdejdŸ ode mnie, miêcho!}
-{141}{}{Widaæ, ¿e masz z³e neurodyny!}
-{142}{}{Nie! Nie kalaj mnie swoj¹ nienawiœci¹!}
-{143}{}{Stra¿! Stra¿! Barbarzyñca jest tutaj!}
+{126}{}{JuÅ¼ nie mogÄ™ siÄ™ doczekaÄ‡ powrotu do domu do gwiazd.}
+{127}{}{ProszÄ™, nie przeszkadzaj mi, koncentrujÄ™ moje neurodyny.}
+{128}{}{ProszÄ™, nie deszereguj moich neurodyn.}
+{138}{}{O nie! PrzeÅ›ladowca!}
+{139}{}{PogaÅ„skie nasienie!}
+{140}{}{OdejdÅº ode mnie, miÄ™cho!}
+{141}{}{WidaÄ‡, Å¼e masz zÅ‚e neurodyny!}
+{142}{}{Nie! Nie kalaj mnie swojÄ… nienawiÅ›ciÄ…!}
+{143}{}{StraÅ¼! StraÅ¼! BarbarzyÅ„ca jest tutaj!}
 {144}{}{Nie dotykaj mnie!}
-{145}{}{Ratunku! Stra¿e!}
-{146}{}{Wróg naszego ludu!}
-{147}{}{Znowu zst¹pi³y na nas czarne chmury!}
+{145}{}{Ratunku! StraÅ¼e!}
+{146}{}{WrÃ³g naszego ludu!}
+{147}{}{Znowu zstÄ…piÅ‚y na nas czarne chmury!}
 {148}{}{Gwiezdny Ojcze! Uratuj mnie przed poganinem!}
-{149}{}{Ktoœ ukarze ciê za twoj¹ perfidnoœæ!}
+{149}{}{KtoÅ› ukarze ciÄ™ za twojÄ… perfidnoÅ›Ä‡!}
 {150}{}{Uwielbiam Centrum.}
-{151}{}{Lubiê byæ Centrologiem.}
-{152}{}{Chcê pobudziæ mój potencja³.}
-{153}{}{Có¿, po prawdzie, to wci¹¿ uczê siê nowomowy.}
+{151}{}{LubiÄ™ byÄ‡ Centrologiem.}
+{152}{}{ChcÄ™ pobudziÄ‡ mÃ³j potencjaÅ‚.}
+{153}{}{CÃ³Å¼, po prawdzie, to wciÄ…Å¼ uczÄ™ siÄ™ nowomowy.}
 {154}{}{Wielbcie Centrum!}
-{155}{}{Wielbcie Wielkie Ko³o!}
+{155}{}{Wielbcie Wielkie KoÅ‚o!}
 {156}{}{Wyruszamy na Quetzel!}
-{157}{}{Ju¿ nie mogê siê doczekaæ powrotu do domu do gwiazd.}
-{158}{}{Nied³ugo zostanê uszeregowany.}
-{159}{}{Czekam, a¿ UKC-9 znowu przemówi!}
-{160}{}{Mam nadziejê, ¿e moje neurodyny s¹ w porz¹dku.}
-{161}{}{Chcê byæ wy¿szym Uszeregowanym Kandydatem Centrum!}
-{162}{}{Czas skoncentrowaæ siê nad w³asnym rozwojem.}
+{157}{}{JuÅ¼ nie mogÄ™ siÄ™ doczekaÄ‡ powrotu do domu do gwiazd.}
+{158}{}{NiedÅ‚ugo zostanÄ™ uszeregowany.}
+{159}{}{Czekam, aÅ¼ UKC-9 znowu przemÃ³wi!}
+{160}{}{Mam nadziejÄ™, Å¼e moje neurodyny sÄ… w porzÄ…dku.}
+{161}{}{ChcÄ™ byÄ‡ wyÅ¼szym Uszeregowanym Kandydatem Centrum!}
+{162}{}{Czas skoncentrowaÄ‡ siÄ™ nad wÅ‚asnym rozwojem.}
 {163}{}{"Prawdziwa" nauka to tylko kupa bzdur.}
-{164}{}{Nie s³uchaj tego, co mówi¹ "naukowcy".}
-{165}{}{Tylko Centrum i UKC-9 maj¹ odpowiedŸ.}
-{178}{}{Wielbcie Gwiezdnego Ojca! W koñcu wyruszamy do gwiazd!}
+{164}{}{Nie sÅ‚uchaj tego, co mÃ³wiÄ… "naukowcy".}
+{165}{}{Tylko Centrum i UKC-9 majÄ… odpowiedÅº.}
+{178}{}{Wielbcie Gwiezdnego Ojca! W koÅ„cu wyruszamy do gwiazd!}
 {179}{}{Planeto Quetzel, oto nadchodzimy!}
-{180}{}{Ca³a ta ciê¿ka praca wreszcie przynosi rezultaty!}
-{181}{}{Moje neurodyny s¹ w tej chwili ca³kowicie zrelaksowane!}
-{182}{}{Lepiej szybko siê uszeregujê zanim odlecimy.}
+{180}{}{CaÅ‚a ta ciÄ™Å¼ka praca wreszcie przynosi rezultaty!}
+{181}{}{Moje neurodyny sÄ… w tej chwili caÅ‚kowicie zrelaksowane!}
+{182}{}{Lepiej szybko siÄ™ uszeregujÄ™ zanim odlecimy.}
 {183}{}{Ooch! Gwiezdny Ojciec! Gwiezdny Ojciec!}
-{184}{}{Czujê podniecenie przed odlotem!}
+{184}{}{CzujÄ™ podniecenie przed odlotem!}
 {185}{}{Kiedy odlatujemy?}
-{186}{}{Za³o¿ê siê, ¿e starsi UKC nie s¹ tak podenerwowani.}
+{186}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e starsi UKC nie sÄ… tak podenerwowani.}
 {187}{}{Rany... gwiazdy. Nareszcie.}
-{188}{}{W koñcu nie bêdê ju¿ nigdy musieæ nosiæ kapelusz z folii!}
+{188}{}{W koÅ„cu nie bÄ™dÄ™ juÅ¼ nigdy musieÄ‡ nosiÄ‡ kapelusz z folii!}

@@ -1,430 +1,430 @@
 {100}{}{Widzisz Dexa.}
-{101}{}{Widzisz przystojnego, zadbanego mê¿czyznê. Poni¿ej robi¹cych wra¿enie u³o¿onych na ¿elu w³osów, widzisz jego oczy b³yszcz¹ce urokiem... a mo¿e szaleñstwem.}
-{200}{}{[Kiedy podchodzisz do komory kriogenicznej, zauwa¿asz narcystycznie wygl¹daj¹cego faceta skulonego na pod³odze. Podci¹ga kolana i przyciska je do klatki. Siedzi tam przez kilka chwil, patrz¹c pusto przed siebie dr¿¹c z zimna i szczekaj¹c zêbami. Wygl¹da, ¿e stopniowo siê uspokaja.]}
+{101}{}{Widzisz przystojnego, zadbanego mÄ™Å¼czyznÄ™. PoniÅ¼ej robiÄ…cych wraÅ¼enie uÅ‚oÅ¼onych na Å¼elu wÅ‚osÃ³w, widzisz jego oczy bÅ‚yszczÄ…ce urokiem... a moÅ¼e szaleÅ„stwem.}
+{200}{}{[Kiedy podchodzisz do komory kriogenicznej, zauwaÅ¼asz narcystycznie wyglÄ…dajÄ…cego faceta skulonego na podÅ‚odze. PodciÄ…ga kolana i przyciska je do klatki. Siedzi tam przez kilka chwil, patrzÄ…c pusto przed siebie drÅ¼Ä…c z zimna i szczekajÄ…c zÄ™bami. WyglÄ…da, Å¼e stopniowo siÄ™ uspokaja.]}
 {201}{}{O, witam?}
-{210}{}{[Odwraca g³owê w twoim kierunku i podnosi siê na nogi. Obserwuje ciê dok³adnie, potem rzuca spojrzenie na otoczenie niczym przera¿one zwierze. Kiedy jego spojrzenie wraca na ciebie, uspokaja siê, jego wspomnienia powoli do niego wracaj¹. Szybko zmienia siê jego postawa, jest teraz spokojny i pewny siebie, mimo swojej nagoœci.] Nie poznaje ciê, koleœ. Nie masz nic przeciwko ¿ebym siê ubra³?}
-{211}{}{Myœlê, ¿e nie zaszkodzi...}
-{212}{}{Nie s¹dzê ¿eby to by³...}
-{220}{}{Oczywiœcie, ¿e nie masz nic przeciwko. Dziêki, koleœ. [Przechodzi obok ciebie i otwiera szafkê. Swobodnie ubiera siê w dobrze skrojony garnitur, potem chowa do kieszeni resztê zawartoœci szafki. Wyci¹ga grzebieñ kieszonkowy i zaczyna czesaæ i uk³adaæ swoje w³osy z precyzj¹ profesjonalisty.] Wiêc, gdzie jest doktorek?}
-{221}{}{Doktorek? A, pewnie gdzieœ tu jest. W³aœciwie to myœlê, ¿e ju¿ tu idzie, wiêc ja ju¿ sobie pójdê, ¿eby wam nie przeszkadzaæ jak bêdziecie nadrabiali zaleg³oœci. Czeœæ!}
-{222}{}{Có¿, to mo¿e byæ dla ciebie wstrz¹saj¹ce, ale by³eœ zamro¿ony bardzo d³ugo. Kimkolwiek by³ "doktorek", na pewno ju¿ nie ¿yje. Jeœli by³ twoim przyjacielem, to przykro mi.}
-{223}{}{Nie chcê ciê dobijaæ, ale by³eœ zamro¿ony *naprawdê* d³ugo. Jestem pewien, ¿e twój przyjaciel, "doktorek", ju¿ od dawna nie ¿yje.}
-{224}{}{S³uchaj, ch³opczyku. Nie uwolni³em twojego psychotycznego ty³ka ¿eby móc odpowiadaæ na twoje g³upie pytania i patrzeæ jak siê pogr¹¿asz. Pozwalam ci ¿yæ tylko tak d³ugo ¿ebyœ móg³ przekazaæ mi wszelkie przydatne informacje jakie mo¿esz mieæ. Wiêc zacznij mówiæ. Im wiêcej mi mo¿esz powiedzieæ, tym d³u¿ej po¿yjesz.}
-{230}{}{[Jego opanowanie znika, a oczy rozpala furia.] Wydaje ci siê, ¿e mo¿esz straszyæ MNIE? Czy ty masz w ogóle pojêcie z kim rozmawiasz? Tylko tu podejdŸ a poka¿ê ci do czego jestem zdolny!}
+{210}{}{[Odwraca gÅ‚owÄ™ w twoim kierunku i podnosi siÄ™ na nogi. Obserwuje ciÄ™ dokÅ‚adnie, potem rzuca spojrzenie na otoczenie niczym przeraÅ¼one zwierze. Kiedy jego spojrzenie wraca na ciebie, uspokaja siÄ™, jego wspomnienia powoli do niego wracajÄ…. Szybko zmienia siÄ™ jego postawa, jest teraz spokojny i pewny siebie, mimo swojej nagoÅ›ci.] Nie poznaje ciÄ™, koleÅ›. Nie masz nic przeciwko Å¼ebym siÄ™ ubraÅ‚?}
+{211}{}{MyÅ›lÄ™, Å¼e nie zaszkodzi...}
+{212}{}{Nie sÄ…dzÄ™ Å¼eby to byÅ‚...}
+{220}{}{OczywiÅ›cie, Å¼e nie masz nic przeciwko. DziÄ™ki, koleÅ›. [Przechodzi obok ciebie i otwiera szafkÄ™. Swobodnie ubiera siÄ™ w dobrze skrojony garnitur, potem chowa do kieszeni resztÄ™ zawartoÅ›ci szafki. WyciÄ…ga grzebieÅ„ kieszonkowy i zaczyna czesaÄ‡ i ukÅ‚adaÄ‡ swoje wÅ‚osy z precyzjÄ… profesjonalisty.] WiÄ™c, gdzie jest doktorek?}
+{221}{}{Doktorek? A, pewnie gdzieÅ› tu jest. WÅ‚aÅ›ciwie to myÅ›lÄ™, Å¼e juÅ¼ tu idzie, wiÄ™c ja juÅ¼ sobie pÃ³jdÄ™, Å¼eby wam nie przeszkadzaÄ‡ jak bÄ™dziecie nadrabiali zalegÅ‚oÅ›ci. CzeÅ›Ä‡!}
+{222}{}{CÃ³Å¼, to moÅ¼e byÄ‡ dla ciebie wstrzÄ…sajÄ…ce, ale byÅ‚eÅ› zamroÅ¼ony bardzo dÅ‚ugo. Kimkolwiek byÅ‚ "doktorek", na pewno juÅ¼ nie Å¼yje. JeÅ›li byÅ‚ twoim przyjacielem, to przykro mi.}
+{223}{}{Nie chcÄ™ ciÄ™ dobijaÄ‡, ale byÅ‚eÅ› zamroÅ¼ony *naprawdÄ™* dÅ‚ugo. Jestem pewien, Å¼e twÃ³j przyjaciel, "doktorek", juÅ¼ od dawna nie Å¼yje.}
+{224}{}{SÅ‚uchaj, chÅ‚opczyku. Nie uwolniÅ‚em twojego psychotycznego tyÅ‚ka Å¼eby mÃ³c odpowiadaÄ‡ na twoje gÅ‚upie pytania i patrzeÄ‡ jak siÄ™ pogrÄ…Å¼asz. Pozwalam ci Å¼yÄ‡ tylko tak dÅ‚ugo Å¼ebyÅ› mÃ³gÅ‚ przekazaÄ‡ mi wszelkie przydatne informacje jakie moÅ¼esz mieÄ‡. WiÄ™c zacznij mÃ³wiÄ‡. Im wiÄ™cej mi moÅ¼esz powiedzieÄ‡, tym dÅ‚uÅ¼ej poÅ¼yjesz.}
+{230}{}{[Jego opanowanie znika, a oczy rozpala furia.] Wydaje ci siÄ™, Å¼e moÅ¼esz straszyÄ‡ MNIE? Czy ty masz w ogÃ³le pojÄ™cie z kim rozmawiasz? Tylko tu podejdÅº a pokaÅ¼Ä™ ci do czego jestem zdolny!}
 {231}{}{[Gotowe.]}
-{240}{}{[Dex szczerzy siê do ciebie, ods³aniaj¹c zestaw idealnych zêbów produktu przedwojennej stomatologii dla ciebie wygl¹daj¹ dziwnie w ca³ej swojej per³owej symetrii.]  Doktorek, moim przyjacielem? [Uniós³ brew.] Ty naprawdê nie wiesz kim jestem, co?}
-{241}{}{Uch, nie zupe³nie. Odbywa³em pewien rodzaj wêdrówki po tym dziwnym obiekcie, pomajstrowa³em trochê przy tej rzeczy i tak siê sta³o, ¿e trafi³em na ciebie. W ka¿dym razie dlaczego by³eœ zamro¿ony?}
-{242}{}{Có¿, wed³ug komputera, jesteœ Dex, narcystycznym, socjopatycznym, seryjnym morderc¹ z przed wielkiej ciszy. Odmrozi³em ciê tylko po to ¿eby ciê ubiæ jak chorego psa , którym jesteœ.}
-{243}{}{Uch, nie zupe³nie. Na pewno jesteœ ca³kowicie normalnym goœciem, który zosta³ zamro¿ony z ca³kowicie naturalnych i s³usznych powodów. Do cholery, w koñcu co ja tam wiem? Ja siê tylko w³óczê po tym dziwnym miejscu, bawiê siê sprzêtami i przy okazji ciê rozmrozi³em.}
-{250}{}{[Dex jeszcze raz rozejrza³ siê po pokoju i zagwizda³.] To miejsce naprawdê zesz³o na psy. Mówisz, ¿e jak d³ugo mnie nie by³o?}
-{251}{}{Minê³o ponad sto piêædziesi¹t lat odk¹d Wielka Cisza przynios³a zag³adê Staro¿ytnym... *twojemu* ludowi.}
-{260}{}{Wielka Cisza? Staro¿ytni? Mo¿e oszczêdzisz mi gównianych przenoœni i po prostu powiesz co siê sta³o?}
-{261}{}{Wielk¹ Cisz¹ mój lud nazywa koniec twojego œwiata. Kiedy wielki ogieñ spa³ z nieba i spali³ ziemiê. Wkrótce przekonasz siê, ¿e œwiat w niczym nie przypomina ju¿ tego który zna³eœ.}
-{270}{}{Bez jaj, wiêc naprawdê zrzucili bomby, co? Czyli projekt Krypt nie by³ jednak marnotrawstwem pieniêdzy podatników.}
-{271}{}{Czekaj, wiesz o Œwiêtych Kryptach?}
-{280}{}{Czy o nich wiem? Cholera, mieszka³em ko³o krypty w Chicago. Widzia³em nawet jak koñcz¹ budowê. A potem oczywiœcie zaczêli robiæ te przeklête próbne alarmy... [Przerywa i patrzy na ciebie z rozbawieniem.] Ty to naprawdê ³ykn¹³eœ, co?}
-{281}{}{MÓW DALEJ O KRYPTACH!}
-{282}{}{Có¿, widzisz, zosta³em wybrany przez mój lud abym odnalaz³ Kryptê. Tam, mam nadziejê uda mi siê znaleŸæ G.E.C.K. i u¿yæ jego mocy, aby ocaliæ moj¹ wioskê. Cokolwiek co mo¿esz mi powiedzieæ o Kryptach mo¿e pomóc mi w moim zadaniu.}
-{283}{}{Có¿, widzisz, zosta³em wybrany przez mój lud abym odnalaz³ Kryptê. Wielokrotnie ryzykowa³em ¿ycie ¿eby odnaleŸæ Œwiêt¹ Kryptê i w koñcu mi siê to uda³o. Jestem ciekaw co ty mo¿esz o nich wiedzieæ.}
-{290}{}{Wiesz co ci powiem, koleœ. Potrzebujesz pomocy przy szukaniu Kryty, a ja potrzebuje kogoœ kto poka¿e mi co i jak w tym szalonym œwiecie. Co ty na to... wspólniku?}
-{291}{}{Hmm, twoja wiedza o staro¿ytnych mo¿e mi siê przydaæ... Ale, có¿, szczerze to czyta³em o tobie w tamtym komputerze i nie jestem pewien czy chcê podró¿owaæ z kimœ takim.}
-{292}{}{Nie mam czasu ¿eby ci "pokazaæ co i jak". Jestem pewien, ¿e sam sobie œwietnie poradzisz, "koleœ".}
-{293}{}{A ja na to, umowa stoi... wspólniku.}
-{294}{}{Nie za bardzo pasuje mi przemierzaæ pustkowia w towarzystwie maniakalnego mordercy. Wiêc radŸ sobie sam - koleœ. I nie martw siê, jestem pewien, ¿e ktoœ taki jak ty sobie poradzi. [Szyderczy œmiech.]}
-{300}{}{Co, czekaj. Niech zgadnê, czyta³eœ, ¿e jestem jakimœ stukniêtym morderc¹, tak? Có¿ koleœ, mam dal ciebie dwa s³owa: Gówno. Prawda. Nie wierz w ani jedno s³owo.}
-{301}{}{Ale to nie ma sensu, po co mieliby k³amaæ?}
-{302}{}{Jasne gówno prawda, ale to co ty mówisz i myœlê, ¿e najwy¿szy czas ¿ebym ciê uciszy³, na dobre.}
-{310}{}{Hej, wiem, ¿e nie brzmi to zbyt sensownie, ale czy rozejrza³eœ siê po tym miejscu? Niewielu tu sensownych rzeczy. Nikt nie wie co siê roi³o w popieprzonych mózgach tych naukowców. }
-{311}{}{Hmm... tu masz racje. Nie mówiê, ¿e ci wierze... ale s¹dzê, ¿e przynajmniej mogê ciê wys³uchaæ.}
-{312}{}{Ta, tu siê zgodzê. Mów dalej...}
-{320}{}{W porz¹dku, widzisz, to wszystko to czêœæ ich "eksperymentu". Ci szaleni popieprzeni naukowcy robili badania "natury ludzkiego z³a" czy coœ takiego. Wszczepiali mi wspomnienia maniakalnego mordercy ¿eby zobaczyæ jaki bêd¹ mia³y wp³yw na normalnego cz³owieka. A przynajmniej tyle uda³o mi siê ustaliæ.}
-{321}{}{Có¿... je¿eli to prawda, to okropne co z tob¹ robili. Ale dlaczego wybrali w³aœnie ciebie do tego eksperymentu?}
-{322}{}{Cz³owieku to chore co z tob¹ zrobili. W ka¿dym razie, masz ju¿ to za sob¹, to ju¿ przesz³oœæ. Ci szaleni naukowcy ju¿ dawno nie ¿yj¹ i nie bêd¹ mogli kontynuowaæ swoich eksperymentów. ChodŸ ze mn¹ wynosimy siê st¹d.}
-{330}{}{Eh, widzisz i tu robi siê zabawnie. *Ja* sam do *nich* przyszed³em. Odpowiedzia³em na ich og³oszenie, obiecali wysokie wynagrodzenie dla zdrowych ochotników. Potrzebowa³em kasy i có¿, okaza³o siê to moim najwiêkszym ¿yciowym b³êdem. Nie mogê ci nawet opowiedzieæ jaki horror mi wszczepili. [Jego oczy siê zeszkli³y od ³ez na samo wspomnienie. Wzi¹³ g³êboki oddech i otar³ ³zy z oczu.] W ka¿dym razie dziêki, kolego, uwolni³eœ mnie od tego koszmaru.}
-{331}{}{Co. Có¿, Cieszê siê, ¿e mog³em pomóc... Tak myœlê.}
-{332}{}{W³aœciwie, dupku, twój koszmar w³aœnie siê zacz¹³, bo nie wie¿e w ani jedno twoje s³owo.}
-{340}{}{Wiêc jak bêdzie, koleœ? Spó³a? Nie tylko poczujesz siê bardziej odjazdowy bêd¹c w moim towarzystwie, ale te¿ radzê sobie w walce. Cholera, poradzê sobie nawet solo, ale nie mam pojêcia co siê tam na mnie teraz czai. Wszystko co wiem to, ¿e pierwsze drzewo pod jakim bêdê siê chcia³ odszczaæ mo¿e siê otworzyæ i odgryŸæ mi fujarê.}
-{341}{}{Dobra, mo¿esz ze mn¹ podró¿owaæ, ale bêdê ciê mia³ na oku. Tylko pomyœlisz o przekroczeniu granicy to ciê zdejmê.}
-{342}{}{Pewnie, myœlê, ¿e mo¿emy. Witaj w dru¿ynie, Dex.}
-{343}{}{To by³a zabawna historyjka i ca³kiem niez³y z ciebie aktor, co czyni ciê jeszcze bardziej niebezpiecznym. Myœlê, ¿e zrobiê przys³ugê pustkowiu i ciê usunê zanim zrobisz wiêcej szkód.}
-{350}{}{[Uœmiech Dexa blednie, a oczy staj¹ siê zamglone. Po chwili, zaczyna mówiæ unikaj¹c twojego spojrzenia.]
- By³em jednym z ich chorych eksperymentów. Oni zrobili mi... coœ strasznego. [Potrz¹sa g³ow¹, a potem patrzy na ciebie z poprzednim uœmieszkiem.]
- Wola³bym o tym nie mówiæ, chyba rozumiesz? A tak przy okazji, nazywam siê Dex.}
-{351}{}{Przykro mi to s³yszeæ, Dex. Ale, teraz to ju¿ przesz³oœæ. Naprawdê, *naprawdê* odleg³a przesz³oœæ.}
-{352}{}{S³uchaj, Dex, mo¿liwe, ¿e móg³bym ci pomóc, ale muszê wiedzieæ z kim mam do czynienia. Co dok³adnie ci zrobili?}
-{360}{}{[Dex jeszcze raz rozejrza³ siê po pomieszczeni i zagwizda³.] Bez ¿artów. To miejsce naprawdê zesz³o na psy. Mówisz, ¿e ile czasu minê³o?}
-{370}{}{W porz¹dku, ale naprawdê musisz to wiedzieæ? Dobra. W³aœciwie to ci popieprzeni, szaleni naukowcy prowadzili badania nad "natur¹ ludzkiego z³a", albo tego typu gównem.
- Wszczepili mi wspomnienia jakiegoœ maniaka bo chcieli sprawdziæ jaki to bêdzie mia³o wp³yw na osobowoœæ przyzwoitego, praworz¹dnego goœcia, takiego jak ja. A w ka¿dym razie, tyle uda³o mi siê ustaliæ.}
-{371}{}{No dobra rozumiem. Wiêc *jaki* to mia³o wp³yw na ciebie? }
-{372}{}{Nie wiem, mam jakieœ koszmary, dobra? S³uchaj, by³em zamro¿ony kto wie jak d³ugo i nie mam ochoty na jakieœ pieprzone przes³uchanie.
- Doktorek te¿ by³ taki wredny... Dobrze s³ysza³em, nie ¿yje? W³aœciwie to jak d³ugo mnie nie by³o? To miejsce wygl¹da jak gówno.}
-{400}{}{[Kiedy podchodzisz do komory kriogenicznej, zauwa¿asz przystojnego mê¿czyznê skulonego na pod³odze. Podci¹ga kolana i przyciska je do klatki. Siedzi tam przez kilka chwil, patrz¹c pusto przed siebie dr¿¹c z zimna i szczekaj¹c zêbami. Wygl¹da, ¿e stopniowo siê uspokaja.]}
+{240}{}{[Dex szczerzy siÄ™ do ciebie, odsÅ‚aniajÄ…c zestaw idealnych zÄ™bÃ³w produktu przedwojennej stomatologii dla ciebie wyglÄ…dajÄ… dziwnie w caÅ‚ej swojej perÅ‚owej symetrii.]  Doktorek, moim przyjacielem? [UniÃ³sÅ‚ brew.] Ty naprawdÄ™ nie wiesz kim jestem, co?}
+{241}{}{Uch, nie zupeÅ‚nie. OdbywaÅ‚em pewien rodzaj wÄ™drÃ³wki po tym dziwnym obiekcie, pomajstrowaÅ‚em trochÄ™ przy tej rzeczy i tak siÄ™ staÅ‚o, Å¼e trafiÅ‚em na ciebie. W kaÅ¼dym razie dlaczego byÅ‚eÅ› zamroÅ¼ony?}
+{242}{}{CÃ³Å¼, wedÅ‚ug komputera, jesteÅ› Dex, narcystycznym, socjopatycznym, seryjnym mordercÄ… z przed wielkiej ciszy. OdmroziÅ‚em ciÄ™ tylko po to Å¼eby ciÄ™ ubiÄ‡ jak chorego psa , ktÃ³rym jesteÅ›.}
+{243}{}{Uch, nie zupeÅ‚nie. Na pewno jesteÅ› caÅ‚kowicie normalnym goÅ›ciem, ktÃ³ry zostaÅ‚ zamroÅ¼ony z caÅ‚kowicie naturalnych i sÅ‚usznych powodÃ³w. Do cholery, w koÅ„cu co ja tam wiem? Ja siÄ™ tylko wÅ‚Ã³czÄ™ po tym dziwnym miejscu, bawiÄ™ siÄ™ sprzÄ™tami i przy okazji ciÄ™ rozmroziÅ‚em.}
+{250}{}{[Dex jeszcze raz rozejrzaÅ‚ siÄ™ po pokoju i zagwizdaÅ‚.] To miejsce naprawdÄ™ zeszÅ‚o na psy. MÃ³wisz, Å¼e jak dÅ‚ugo mnie nie byÅ‚o?}
+{251}{}{MinÄ™Å‚o ponad sto piÄ™Ä‡dziesiÄ…t lat odkÄ…d Wielka Cisza przyniosÅ‚a zagÅ‚adÄ™ StaroÅ¼ytnym... *twojemu* ludowi.}
+{260}{}{Wielka Cisza? StaroÅ¼ytni? MoÅ¼e oszczÄ™dzisz mi gÃ³wnianych przenoÅ›ni i po prostu powiesz co siÄ™ staÅ‚o?}
+{261}{}{WielkÄ… CiszÄ… mÃ³j lud nazywa koniec twojego Å›wiata. Kiedy wielki ogieÅ„ spaÅ‚ z nieba i spaliÅ‚ ziemiÄ™. WkrÃ³tce przekonasz siÄ™, Å¼e Å›wiat w niczym nie przypomina juÅ¼ tego ktÃ³ry znaÅ‚eÅ›.}
+{270}{}{Bez jaj, wiÄ™c naprawdÄ™ zrzucili bomby, co? Czyli projekt Krypt nie byÅ‚ jednak marnotrawstwem pieniÄ™dzy podatnikÃ³w.}
+{271}{}{Czekaj, wiesz o ÅšwiÄ™tych Kryptach?}
+{280}{}{Czy o nich wiem? Cholera, mieszkaÅ‚em koÅ‚o krypty w Chicago. WidziaÅ‚em nawet jak koÅ„czÄ… budowÄ™. A potem oczywiÅ›cie zaczÄ™li robiÄ‡ te przeklÄ™te prÃ³bne alarmy... [Przerywa i patrzy na ciebie z rozbawieniem.] Ty to naprawdÄ™ Å‚yknÄ…Å‚eÅ›, co?}
+{281}{}{MÃ“W DALEJ O KRYPTACH!}
+{282}{}{CÃ³Å¼, widzisz, zostaÅ‚em wybrany przez mÃ³j lud abym odnalazÅ‚ KryptÄ™. Tam, mam nadziejÄ™ uda mi siÄ™ znaleÅºÄ‡ G.E.C.K. i uÅ¼yÄ‡ jego mocy, aby ocaliÄ‡ mojÄ… wioskÄ™. Cokolwiek co moÅ¼esz mi powiedzieÄ‡ o Kryptach moÅ¼e pomÃ³c mi w moim zadaniu.}
+{283}{}{CÃ³Å¼, widzisz, zostaÅ‚em wybrany przez mÃ³j lud abym odnalazÅ‚ KryptÄ™. Wielokrotnie ryzykowaÅ‚em Å¼ycie Å¼eby odnaleÅºÄ‡ ÅšwiÄ™tÄ… KryptÄ™ i w koÅ„cu mi siÄ™ to udaÅ‚o. Jestem ciekaw co ty moÅ¼esz o nich wiedzieÄ‡.}
+{290}{}{Wiesz co ci powiem, koleÅ›. Potrzebujesz pomocy przy szukaniu Kryty, a ja potrzebuje kogoÅ› kto pokaÅ¼e mi co i jak w tym szalonym Å›wiecie. Co ty na to... wspÃ³lniku?}
+{291}{}{Hmm, twoja wiedza o staroÅ¼ytnych moÅ¼e mi siÄ™ przydaÄ‡... Ale, cÃ³Å¼, szczerze to czytaÅ‚em o tobie w tamtym komputerze i nie jestem pewien czy chcÄ™ podrÃ³Å¼owaÄ‡ z kimÅ› takim.}
+{292}{}{Nie mam czasu Å¼eby ci "pokazaÄ‡ co i jak". Jestem pewien, Å¼e sam sobie Å›wietnie poradzisz, "koleÅ›".}
+{293}{}{A ja na to, umowa stoi... wspÃ³lniku.}
+{294}{}{Nie za bardzo pasuje mi przemierzaÄ‡ pustkowia w towarzystwie maniakalnego mordercy. WiÄ™c radÅº sobie sam - koleÅ›. I nie martw siÄ™, jestem pewien, Å¼e ktoÅ› taki jak ty sobie poradzi. [Szyderczy Å›miech.]}
+{300}{}{Co, czekaj. Niech zgadnÄ™, czytaÅ‚eÅ›, Å¼e jestem jakimÅ› stukniÄ™tym mordercÄ…, tak? CÃ³Å¼ koleÅ›, mam dal ciebie dwa sÅ‚owa: GÃ³wno. Prawda. Nie wierz w ani jedno sÅ‚owo.}
+{301}{}{Ale to nie ma sensu, po co mieliby kÅ‚amaÄ‡?}
+{302}{}{Jasne gÃ³wno prawda, ale to co ty mÃ³wisz i myÅ›lÄ™, Å¼e najwyÅ¼szy czas Å¼ebym ciÄ™ uciszyÅ‚, na dobre.}
+{310}{}{Hej, wiem, Å¼e nie brzmi to zbyt sensownie, ale czy rozejrzaÅ‚eÅ› siÄ™ po tym miejscu? Niewielu tu sensownych rzeczy. Nikt nie wie co siÄ™ roiÅ‚o w popieprzonych mÃ³zgach tych naukowcÃ³w. }
+{311}{}{Hmm... tu masz racje. Nie mÃ³wiÄ™, Å¼e ci wierze... ale sÄ…dzÄ™, Å¼e przynajmniej mogÄ™ ciÄ™ wysÅ‚uchaÄ‡.}
+{312}{}{Ta, tu siÄ™ zgodzÄ™. MÃ³w dalej...}
+{320}{}{W porzÄ…dku, widzisz, to wszystko to czÄ™Å›Ä‡ ich "eksperymentu". Ci szaleni popieprzeni naukowcy robili badania "natury ludzkiego zÅ‚a" czy coÅ› takiego. Wszczepiali mi wspomnienia maniakalnego mordercy Å¼eby zobaczyÄ‡ jaki bÄ™dÄ… miaÅ‚y wpÅ‚yw na normalnego czÅ‚owieka. A przynajmniej tyle udaÅ‚o mi siÄ™ ustaliÄ‡.}
+{321}{}{CÃ³Å¼... jeÅ¼eli to prawda, to okropne co z tobÄ… robili. Ale dlaczego wybrali wÅ‚aÅ›nie ciebie do tego eksperymentu?}
+{322}{}{CzÅ‚owieku to chore co z tobÄ… zrobili. W kaÅ¼dym razie, masz juÅ¼ to za sobÄ…, to juÅ¼ przeszÅ‚oÅ›Ä‡. Ci szaleni naukowcy juÅ¼ dawno nie Å¼yjÄ… i nie bÄ™dÄ… mogli kontynuowaÄ‡ swoich eksperymentÃ³w. ChodÅº ze mnÄ… wynosimy siÄ™ stÄ…d.}
+{330}{}{Eh, widzisz i tu robi siÄ™ zabawnie. *Ja* sam do *nich* przyszedÅ‚em. OdpowiedziaÅ‚em na ich ogÅ‚oszenie, obiecali wysokie wynagrodzenie dla zdrowych ochotnikÃ³w. PotrzebowaÅ‚em kasy i cÃ³Å¼, okazaÅ‚o siÄ™ to moim najwiÄ™kszym Å¼yciowym bÅ‚Ä™dem. Nie mogÄ™ ci nawet opowiedzieÄ‡ jaki horror mi wszczepili. [Jego oczy siÄ™ zeszkliÅ‚y od Å‚ez na samo wspomnienie. WziÄ…Å‚ gÅ‚Ä™boki oddech i otarÅ‚ Å‚zy z oczu.] W kaÅ¼dym razie dziÄ™ki, kolego, uwolniÅ‚eÅ› mnie od tego koszmaru.}
+{331}{}{Co. CÃ³Å¼, CieszÄ™ siÄ™, Å¼e mogÅ‚em pomÃ³c... Tak myÅ›lÄ™.}
+{332}{}{WÅ‚aÅ›ciwie, dupku, twÃ³j koszmar wÅ‚aÅ›nie siÄ™ zaczÄ…Å‚, bo nie wieÅ¼e w ani jedno twoje sÅ‚owo.}
+{340}{}{WiÄ™c jak bÄ™dzie, koleÅ›? SpÃ³Å‚a? Nie tylko poczujesz siÄ™ bardziej odjazdowy bÄ™dÄ…c w moim towarzystwie, ale teÅ¼ radzÄ™ sobie w walce. Cholera, poradzÄ™ sobie nawet solo, ale nie mam pojÄ™cia co siÄ™ tam na mnie teraz czai. Wszystko co wiem to, Å¼e pierwsze drzewo pod jakim bÄ™dÄ™ siÄ™ chciaÅ‚ odszczaÄ‡ moÅ¼e siÄ™ otworzyÄ‡ i odgryÅºÄ‡ mi fujarÄ™.}
+{341}{}{Dobra, moÅ¼esz ze mnÄ… podrÃ³Å¼owaÄ‡, ale bÄ™dÄ™ ciÄ™ miaÅ‚ na oku. Tylko pomyÅ›lisz o przekroczeniu granicy to ciÄ™ zdejmÄ™.}
+{342}{}{Pewnie, myÅ›lÄ™, Å¼e moÅ¼emy. Witaj w druÅ¼ynie, Dex.}
+{343}{}{To byÅ‚a zabawna historyjka i caÅ‚kiem niezÅ‚y z ciebie aktor, co czyni ciÄ™ jeszcze bardziej niebezpiecznym. MyÅ›lÄ™, Å¼e zrobiÄ™ przysÅ‚ugÄ™ pustkowiu i ciÄ™ usunÄ™ zanim zrobisz wiÄ™cej szkÃ³d.}
+{350}{}{[UÅ›miech Dexa blednie, a oczy stajÄ… siÄ™ zamglone. Po chwili, zaczyna mÃ³wiÄ‡ unikajÄ…c twojego spojrzenia.]
+ ByÅ‚em jednym z ich chorych eksperymentÃ³w. Oni zrobili mi... coÅ› strasznego. [PotrzÄ…sa gÅ‚owÄ…, a potem patrzy na ciebie z poprzednim uÅ›mieszkiem.]
+ WolaÅ‚bym o tym nie mÃ³wiÄ‡, chyba rozumiesz? A tak przy okazji, nazywam siÄ™ Dex.}
+{351}{}{Przykro mi to sÅ‚yszeÄ‡, Dex. Ale, teraz to juÅ¼ przeszÅ‚oÅ›Ä‡. NaprawdÄ™, *naprawdÄ™* odlegÅ‚a przeszÅ‚oÅ›Ä‡.}
+{352}{}{SÅ‚uchaj, Dex, moÅ¼liwe, Å¼e mÃ³gÅ‚bym ci pomÃ³c, ale muszÄ™ wiedzieÄ‡ z kim mam do czynienia. Co dokÅ‚adnie ci zrobili?}
+{360}{}{[Dex jeszcze raz rozejrzaÅ‚ siÄ™ po pomieszczeni i zagwizdaÅ‚.] Bez Å¼artÃ³w. To miejsce naprawdÄ™ zeszÅ‚o na psy. MÃ³wisz, Å¼e ile czasu minÄ™Å‚o?}
+{370}{}{W porzÄ…dku, ale naprawdÄ™ musisz to wiedzieÄ‡? Dobra. WÅ‚aÅ›ciwie to ci popieprzeni, szaleni naukowcy prowadzili badania nad "naturÄ… ludzkiego zÅ‚a", albo tego typu gÃ³wnem.
+ Wszczepili mi wspomnienia jakiegoÅ› maniaka bo chcieli sprawdziÄ‡ jaki to bÄ™dzie miaÅ‚o wpÅ‚yw na osobowoÅ›Ä‡ przyzwoitego, praworzÄ…dnego goÅ›cia, takiego jak ja. A w kaÅ¼dym razie, tyle udaÅ‚o mi siÄ™ ustaliÄ‡.}
+{371}{}{No dobra rozumiem. WiÄ™c *jaki* to miaÅ‚o wpÅ‚yw na ciebie? }
+{372}{}{Nie wiem, mam jakieÅ› koszmary, dobra? SÅ‚uchaj, byÅ‚em zamroÅ¼ony kto wie jak dÅ‚ugo i nie mam ochoty na jakieÅ› pieprzone przesÅ‚uchanie.
+ Doktorek teÅ¼ byÅ‚ taki wredny... Dobrze sÅ‚yszaÅ‚em, nie Å¼yje? WÅ‚aÅ›ciwie to jak dÅ‚ugo mnie nie byÅ‚o? To miejsce wyglÄ…da jak gÃ³wno.}
+{400}{}{[Kiedy podchodzisz do komory kriogenicznej, zauwaÅ¼asz przystojnego mÄ™Å¼czyznÄ™ skulonego na podÅ‚odze. PodciÄ…ga kolana i przyciska je do klatki. Siedzi tam przez kilka chwil, patrzÄ…c pusto przed siebie drÅ¼Ä…c z zimna i szczekajÄ…c zÄ™bami. WyglÄ…da, Å¼e stopniowo siÄ™ uspokaja.]}
 {401}{}{O, witam?}
-{410}{}{[Odwraca g³owê w twoim kierunku i podnosi siê na nogi. Obserwuje ciê dok³adnie, potem rzuca spojrzenie na otoczenie niczym przera¿one zwierze. Kiedy jego spojrzenie wraca na ciebie, uspokaja siê, jego wspomnienia powoli do niego wracaj¹. Szybko zmienia siê jego postawa, jest teraz spokojny i pewny siebie, mimo swojej nagoœci.] Czeœæ lala, wiem ¿e niez³y ze mnie widok, ale jest tu Ÿdziebko zimno. Nie masz nic przeciwko ¿ebym siê ubra³?}
-{411}{}{Myœlê, ¿e nie zaszkodzi...}
-{412}{}{Nie s¹dzê ¿eby to by³...}
-{420}{}{Oczywiœcie, ¿e nie masz nic przeciwko. Dziêki, ma³a. [Przechodzi obok ciebie delikatnie klepi¹c ciê w pupê i otwiera szafkê. Swobodnie ubiera siê w dobrze skrojony garnitur, potem chowa do kieszeni resztê zawartoœci szafki. Wyci¹ga grzebieñ kieszonkowy i zaczyna czesaæ i uk³adaæ swoje w³osy z precyzj¹ profesjonalisty.] Chyba ciê tu wczeœniej nie widzia³em, lala, a nie s¹dzê ¿ebym zapomnia³ taka buŸkê. Nazywam siê Dex, ale to ju¿ pewnie wiesz. Mogê poznaæ twoje imiê?}
+{410}{}{[Odwraca gÅ‚owÄ™ w twoim kierunku i podnosi siÄ™ na nogi. Obserwuje ciÄ™ dokÅ‚adnie, potem rzuca spojrzenie na otoczenie niczym przeraÅ¼one zwierze. Kiedy jego spojrzenie wraca na ciebie, uspokaja siÄ™, jego wspomnienia powoli do niego wracajÄ…. Szybko zmienia siÄ™ jego postawa, jest teraz spokojny i pewny siebie, mimo swojej nagoÅ›ci.] CzeÅ›Ä‡ lala, wiem Å¼e niezÅ‚y ze mnie widok, ale jest tu Åºdziebko zimno. Nie masz nic przeciwko Å¼ebym siÄ™ ubraÅ‚?}
+{411}{}{MyÅ›lÄ™, Å¼e nie zaszkodzi...}
+{412}{}{Nie sÄ…dzÄ™ Å¼eby to byÅ‚...}
+{420}{}{OczywiÅ›cie, Å¼e nie masz nic przeciwko. DziÄ™ki, maÅ‚a. [Przechodzi obok ciebie delikatnie klepiÄ…c ciÄ™ w pupÄ™ i otwiera szafkÄ™. Swobodnie ubiera siÄ™ w dobrze skrojony garnitur, potem chowa do kieszeni resztÄ™ zawartoÅ›ci szafki. WyciÄ…ga grzebieÅ„ kieszonkowy i zaczyna czesaÄ‡ i ukÅ‚adaÄ‡ swoje wÅ‚osy z precyzjÄ… profesjonalisty.] Chyba ciÄ™ tu wczeÅ›niej nie widziaÅ‚em, lala, a nie sÄ…dzÄ™ Å¼ebym zapomniaÅ‚ taka buÅºkÄ™. Nazywam siÄ™ Dex, ale to juÅ¼ pewnie wiesz. MogÄ™ poznaÄ‡ twoje imiÄ™?}
 {421}{}{Jestem }
-{422}{}{. Ale zanim siê jeszcze bardziej spoufalisz, powinieneœ wiedzieæ, ¿e mam tak¹ zasadê, ¿e nie spotykam siê z mê¿czyznami o reputacji mordercy, którzy byli zamro¿eni przez ponad sto piêædziesi¹t lat. A jak dotkniesz mojego ty³ka jeszcze raz to wyrwê ci fiuta, zrozumia³eœ?}
+{422}{}{. Ale zanim siÄ™ jeszcze bardziej spoufalisz, powinieneÅ› wiedzieÄ‡, Å¼e mam takÄ… zasadÄ™, Å¼e nie spotykam siÄ™ z mÄ™Å¼czyznami o reputacji mordercy, ktÃ³rzy byli zamroÅ¼eni przez ponad sto piÄ™Ä‡dziesiÄ…t lat. A jak dotkniesz mojego tyÅ‚ka jeszcze raz to wyrwÄ™ ci fiuta, zrozumiaÅ‚eÅ›?}
 {423}{}{Jestem }
-{424}{}{, mi³o ciê poznaæ, Dex. Nawet nie mogê sobie wyobraziæ jak siê czujesz budz¹c siê po ponad stu piêædziesiêciu latach kriogenicznego snu.}
-{425}{}{Ta, oczywiœcie, ¿e... nie, ty popieprzony zboku. Odmrozi³am ciê tylko po to ¿eby ciê uœpiæ jak chorego psa, którym jesteœ.}
-{426}{}{Zapomnij o imionach. Co powiesz na zdjêcie z powrotem tych ubrañ i pokazanie mi z czego s¹ zrobieni przed wojenni mê¿czyŸni.}
-{430}{}{[Uœmiechn¹³ siê do ciebie i zacz¹³ rozbieraæ.] Dziewczyno, jesteœ w moim typie. Przygotuj siê na doœwiadczenie Dexa, Ksiêcia sexu.}
+{424}{}{, miÅ‚o ciÄ™ poznaÄ‡, Dex. Nawet nie mogÄ™ sobie wyobraziÄ‡ jak siÄ™ czujesz budzÄ…c siÄ™ po ponad stu piÄ™Ä‡dziesiÄ™ciu latach kriogenicznego snu.}
+{425}{}{Ta, oczywiÅ›cie, Å¼e... nie, ty popieprzony zboku. OdmroziÅ‚am ciÄ™ tylko po to Å¼eby ciÄ™ uÅ›piÄ‡ jak chorego psa, ktÃ³rym jesteÅ›.}
+{426}{}{Zapomnij o imionach. Co powiesz na zdjÄ™cie z powrotem tych ubraÅ„ i pokazanie mi z czego sÄ… zrobieni przed wojenni mÄ™Å¼czyÅºni.}
+{430}{}{[UÅ›miechnÄ…Å‚ siÄ™ do ciebie i zaczÄ…Å‚ rozbieraÄ‡.] Dziewczyno, jesteÅ› w moim typie. Przygotuj siÄ™ na doÅ›wiadczenie Dexa, KsiÄ™cia sexu.}
 {431}{}{[Dalej.]}
-{440}{}{[Po kilku godzinach intensywnego uprawiania mi³oœci na pod³odze laboratorium, oboje padacie zmêczeni. [Dex trzyma niewielki przedmiot przy twoich ustach.] A teraz krzycz, ma³a. [W chwili kiedy orientujesz siê, ¿e jest to ludzkie ucho, czujesz ostrze przeszywaj¹ce twoj¹ pierœ. Krzyczysz kiedy ostrze cofa siê tylko po to aby zostaæ z powrotem wbite...]}
+{440}{}{[Po kilku godzinach intensywnego uprawiania miÅ‚oÅ›ci na podÅ‚odze laboratorium, oboje padacie zmÄ™czeni. [Dex trzyma niewielki przedmiot przy twoich ustach.] A teraz krzycz, maÅ‚a. [W chwili kiedy orientujesz siÄ™, Å¼e jest to ludzkie ucho, czujesz ostrze przeszywajÄ…ce twojÄ… pierÅ›. Krzyczysz kiedy ostrze cofa siÄ™ tylko po to aby zostaÄ‡ z powrotem wbite...]}
 {441}{}{[Koniec.]}
-{450}{}{Jak, ¿e niby co? Wróæ trochê, cukiereczku. Powiedzia³aœ w³aœnie sto piêædziesi¹t lat? [Potrz¹sa g³ow¹ z niedowierzaniem.]
- Nie-kurde-wiarygodne. [Sprawdza swoje odbicie w lustrze.] Ale musisz przyznaæ, wygl¹dam zabójczo jak na mój wiek.
- [Dex szczerzy siê do ciebie, ods³aniaj¹c zestaw idealnych zêbów produktu przedwojennej stomatologii dla ciebie wygl¹daj¹ dziwnie w ca³ej swojej per³owej symetrii.]}
-{451}{}{Pewnie niektóre dziewczyny mog¹ uwa¿aæ ciê za atrakcyjnego, ale wygl¹da , ¿e jesteœ zimnokrwistym, psychopatycznym morderc¹, co, jak wiesz, tak jakby przyæmiewa ca³y twój urok.}
-{452}{}{Tak, jesteœ bardzo atrakcyjny, ale szczerze to jestem trochê nerwowa rozmawiaj¹c z tob¹ po tym co przeczyta³am w twoich aktach.}
-{453}{}{Dobra, to przyprawia mnie o md³oœci. Zobaczmy czy bêdzie z ciebie taki przystojniak jak w³aduje ci kilka kul w twarz.}
-{454}{}{NieŸle jak na cz³owieka lodu. A w³aœciwie, czemu by³eœ tam zamro¿ony?}
-{455}{}{Eh, nie jesteœ w moim typie. A w³aœciwie, czemu by³eœ tam zamro¿ony?}
-{456}{}{Dobra, to przyprawia mnie o md³oœci. Zobaczmy czy bêdzie z ciebie taki przystojniak jak w³aduje ci kilka kul w twarz.}
-{460}{}{Okej, sk¹d wziê³aœ te bzdury o "psychopatycznym mordercy"?}
-{461}{}{Nie próbuj na mnie swoich sztuczek. Czyta³am o tobie w tamtym komputerze.}
-{462}{}{Ten komputer ma coœ w rodzaju twojej biografii, a jest ona doœæ przera¿aj¹ca.}
-{463}{}{Mogê to wyczuæ. Pewien rodzaj wibracji od ciebie.}
-{464}{}{Nawet nie próbuj tych swoich sztuczek na mnie. Znam ludzi takich jak ty.}
-{470}{}{Ach tak, teraz to ma sens. S³uchaj, nie przejmuj siê tym, to nie to co myœlisz. Zaraz ci wszystko wyjaœniê. Ale najpierw, czy mog³abyœ mi powiedzieæ co siê wydarzy³o odk¹d mnie zamro¿ono? Mam na myœli, ¿e to miejsce zesz³o na psy, a ty wygl¹dasz dla mnie jak byœ wysz³a z jakiegoœ opowiadania SF.}
-{471}{}{Minê³o ponad sto piêædziesi¹t lat odk¹d Wielka Cisza przynios³a zag³adê Staro¿ytnym... *twojemu* ludowi.}
-{475}{}{Wielka Cisza? Staro¿ytni? Mo¿e oszczêdzisz mi gównianych przenoœni i po prostu powiesz co siê sta³o?}
-{476}{}{Wielk¹ Cisz¹ mój lud nazywa koniec twojego œwiata. Kiedy wielki ogieñ spa³ z nieba i spali³ ziemiê. Wkrótce przekonasz siê, ¿e œwiat w niczym nie przypomina ju¿ tego który zna³eœ. }
-{480}{}{Bez jaj, wiêc naprawdê zrzucili bomby, co? Czyli projekt Krypt nie by³ jednak marnotrawstwem pieniêdzy podatników.}
-{481}{}{Czekaj, wiesz o Œwiêtych Kryptach?}
-{490}{}{Czy o nich wiem? Cholera, mieszka³em ko³o krypty w Chicago. Widzia³em nawet jak koñcz¹ budowê. A potem oczywiœcie zaczêli robiæ te przeklête próbne alarmy... [Przerywa i patrzy na ciebie z rozbawieniem.] Ma³a, ty to naprawdê ³yknê³aœ, co?}
-{491}{}{MÓW DALEJ O KRYPTACH!}
-{492}{}{Có¿, widzisz, zosta³em wybrany przez mój lud abym odnalaz³ Kryptê. Tam, mam nadziejê uda mi siê znaleŸæ G.E.C.K. i u¿yæ jego mocy, aby ocaliæ moj¹ wioskê. Cokolwiek co mo¿esz mi powiedzieæ o Kryptach mo¿e pomóc mi w moim zadaniu.}
-{493}{}{Có¿, widzisz, zosta³am wybrana przez mój lud abym odnalaz³a Kryptê. Wielokrotnie ryzykowa³am ¿ycie ¿eby odnaleŸæ Œwiêt¹ Kryptê i w koñcu mi siê to uda³o. Jestem ciekawa co ty o nich mo¿esz wiedzieæ.}
-{500}{}{Wiesz co ci powiem, ma³a. Potrzebujesz pomocy przy szukaniu Kryty, a ja potrzebuje kogoœ kto poka¿e mi co i jak w tym szalonym œwiecie. Co ty na to... wspólniczko?}
-{501}{}{A ja na to, umowa stoi... wspólniku.}
-{502}{}{Hmm, twoja wiedza o staro¿ytnych mo¿e mi siê przydaæ... Ale, có¿, szczerze to czyta³am o tobie w tamtym komputerze i nie jestem pewna czy chcê podró¿owaæ z kimœ takim...}
-{503}{}{Nie za bardzo pasuje mi przemierzaæ pustkowia w towarzystwie maniakalnego mordercy. Wiêc radŸ sobie sam - ma³y. I nie martw siê, jestem pewna, ¿e ktoœ taki jak ty sobie poradzi. [Szyderczy œmiech.]}
-{510}{}{Hej, jak ju¿ mówi³em, mogê to wyjaœniæ. Wszystko co o mnie czyta³aœ jes gówno warte. Nie wierz w ani jedno s³owo.}
-{511}{}{Hej, jak ju¿ mówi³em, mogê to wyjaœniæ. Te z³e wibracje jakie odemnie czujesz to efekt eksperymentów jakie tu na mnie prowadzili.}
+{450}{}{Jak, Å¼e niby co? WrÃ³Ä‡ trochÄ™, cukiereczku. PowiedziaÅ‚aÅ› wÅ‚aÅ›nie sto piÄ™Ä‡dziesiÄ…t lat? [PotrzÄ…sa gÅ‚owÄ… z niedowierzaniem.]
+ Nie-kurde-wiarygodne. [Sprawdza swoje odbicie w lustrze.] Ale musisz przyznaÄ‡, wyglÄ…dam zabÃ³jczo jak na mÃ³j wiek.
+ [Dex szczerzy siÄ™ do ciebie, odsÅ‚aniajÄ…c zestaw idealnych zÄ™bÃ³w produktu przedwojennej stomatologii dla ciebie wyglÄ…dajÄ… dziwnie w caÅ‚ej swojej perÅ‚owej symetrii.]}
+{451}{}{Pewnie niektÃ³re dziewczyny mogÄ… uwaÅ¼aÄ‡ ciÄ™ za atrakcyjnego, ale wyglÄ…da , Å¼e jesteÅ› zimnokrwistym, psychopatycznym mordercÄ…, co, jak wiesz, tak jakby przyÄ‡miewa caÅ‚y twÃ³j urok.}
+{452}{}{Tak, jesteÅ› bardzo atrakcyjny, ale szczerze to jestem trochÄ™ nerwowa rozmawiajÄ…c z tobÄ… po tym co przeczytaÅ‚am w twoich aktach.}
+{453}{}{Dobra, to przyprawia mnie o mdÅ‚oÅ›ci. Zobaczmy czy bÄ™dzie z ciebie taki przystojniak jak wÅ‚aduje ci kilka kul w twarz.}
+{454}{}{NieÅºle jak na czÅ‚owieka lodu. A wÅ‚aÅ›ciwie, czemu byÅ‚eÅ› tam zamroÅ¼ony?}
+{455}{}{Eh, nie jesteÅ› w moim typie. A wÅ‚aÅ›ciwie, czemu byÅ‚eÅ› tam zamroÅ¼ony?}
+{456}{}{Dobra, to przyprawia mnie o mdÅ‚oÅ›ci. Zobaczmy czy bÄ™dzie z ciebie taki przystojniak jak wÅ‚aduje ci kilka kul w twarz.}
+{460}{}{Okej, skÄ…d wziÄ™Å‚aÅ› te bzdury o "psychopatycznym mordercy"?}
+{461}{}{Nie prÃ³buj na mnie swoich sztuczek. CzytaÅ‚am o tobie w tamtym komputerze.}
+{462}{}{Ten komputer ma coÅ› w rodzaju twojej biografii, a jest ona doÅ›Ä‡ przeraÅ¼ajÄ…ca.}
+{463}{}{MogÄ™ to wyczuÄ‡. Pewien rodzaj wibracji od ciebie.}
+{464}{}{Nawet nie prÃ³buj tych swoich sztuczek na mnie. Znam ludzi takich jak ty.}
+{470}{}{Ach tak, teraz to ma sens. SÅ‚uchaj, nie przejmuj siÄ™ tym, to nie to co myÅ›lisz. Zaraz ci wszystko wyjaÅ›niÄ™. Ale najpierw, czy mogÅ‚abyÅ› mi powiedzieÄ‡ co siÄ™ wydarzyÅ‚o odkÄ…d mnie zamroÅ¼ono? Mam na myÅ›li, Å¼e to miejsce zeszÅ‚o na psy, a ty wyglÄ…dasz dla mnie jak byÅ› wyszÅ‚a z jakiegoÅ› opowiadania SF.}
+{471}{}{MinÄ™Å‚o ponad sto piÄ™Ä‡dziesiÄ…t lat odkÄ…d Wielka Cisza przyniosÅ‚a zagÅ‚adÄ™ StaroÅ¼ytnym... *twojemu* ludowi.}
+{475}{}{Wielka Cisza? StaroÅ¼ytni? MoÅ¼e oszczÄ™dzisz mi gÃ³wnianych przenoÅ›ni i po prostu powiesz co siÄ™ staÅ‚o?}
+{476}{}{WielkÄ… CiszÄ… mÃ³j lud nazywa koniec twojego Å›wiata. Kiedy wielki ogieÅ„ spaÅ‚ z nieba i spaliÅ‚ ziemiÄ™. WkrÃ³tce przekonasz siÄ™, Å¼e Å›wiat w niczym nie przypomina juÅ¼ tego ktÃ³ry znaÅ‚eÅ›. }
+{480}{}{Bez jaj, wiÄ™c naprawdÄ™ zrzucili bomby, co? Czyli projekt Krypt nie byÅ‚ jednak marnotrawstwem pieniÄ™dzy podatnikÃ³w.}
+{481}{}{Czekaj, wiesz o ÅšwiÄ™tych Kryptach?}
+{490}{}{Czy o nich wiem? Cholera, mieszkaÅ‚em koÅ‚o krypty w Chicago. WidziaÅ‚em nawet jak koÅ„czÄ… budowÄ™. A potem oczywiÅ›cie zaczÄ™li robiÄ‡ te przeklÄ™te prÃ³bne alarmy... [Przerywa i patrzy na ciebie z rozbawieniem.] MaÅ‚a, ty to naprawdÄ™ Å‚yknÄ™Å‚aÅ›, co?}
+{491}{}{MÃ“W DALEJ O KRYPTACH!}
+{492}{}{CÃ³Å¼, widzisz, zostaÅ‚em wybrany przez mÃ³j lud abym odnalazÅ‚ KryptÄ™. Tam, mam nadziejÄ™ uda mi siÄ™ znaleÅºÄ‡ G.E.C.K. i uÅ¼yÄ‡ jego mocy, aby ocaliÄ‡ mojÄ… wioskÄ™. Cokolwiek co moÅ¼esz mi powiedzieÄ‡ o Kryptach moÅ¼e pomÃ³c mi w moim zadaniu.}
+{493}{}{CÃ³Å¼, widzisz, zostaÅ‚am wybrana przez mÃ³j lud abym odnalazÅ‚a KryptÄ™. Wielokrotnie ryzykowaÅ‚am Å¼ycie Å¼eby odnaleÅºÄ‡ ÅšwiÄ™tÄ… KryptÄ™ i w koÅ„cu mi siÄ™ to udaÅ‚o. Jestem ciekawa co ty o nich moÅ¼esz wiedzieÄ‡.}
+{500}{}{Wiesz co ci powiem, maÅ‚a. Potrzebujesz pomocy przy szukaniu Kryty, a ja potrzebuje kogoÅ› kto pokaÅ¼e mi co i jak w tym szalonym Å›wiecie. Co ty na to... wspÃ³lniczko?}
+{501}{}{A ja na to, umowa stoi... wspÃ³lniku.}
+{502}{}{Hmm, twoja wiedza o staroÅ¼ytnych moÅ¼e mi siÄ™ przydaÄ‡... Ale, cÃ³Å¼, szczerze to czytaÅ‚am o tobie w tamtym komputerze i nie jestem pewna czy chcÄ™ podrÃ³Å¼owaÄ‡ z kimÅ› takim...}
+{503}{}{Nie za bardzo pasuje mi przemierzaÄ‡ pustkowia w towarzystwie maniakalnego mordercy. WiÄ™c radÅº sobie sam - maÅ‚y. I nie martw siÄ™, jestem pewna, Å¼e ktoÅ› taki jak ty sobie poradzi. [Szyderczy Å›miech.]}
+{510}{}{Hej, jak juÅ¼ mÃ³wiÅ‚em, mogÄ™ to wyjaÅ›niÄ‡. Wszystko co o mnie czytaÅ‚aÅ› jes gÃ³wno warte. Nie wierz w ani jedno sÅ‚owo.}
+{511}{}{Hej, jak juÅ¼ mÃ³wiÅ‚em, mogÄ™ to wyjaÅ›niÄ‡. Te zÅ‚e wibracje jakie odemnie czujesz to efekt eksperymentÃ³w jakie tu na mnie prowadzili.}
 {512}{}{Ale to nie ma sensu, co niby ci takiego zrobili?}
-{513}{}{Gówno prawda. Myœlê, ¿e najwy¿szy czas ciê uciszyæ, na dobre.}
-{514}{}{Ale to nie ma sensu, po co mieliby k³amaæ?}
-{515}{}{Gówno warte to s¹ TWOJE s³owa, nie wierze ci ani trochê, czas ciê uciszyæ na dobre.}
-{520}{}{Hej, wiem, ¿e nie brzmi to zbyt sensownie, ale czy rozejrza³aœ siê po tym miejscu? Niewielu tu sensownych rzeczy. Nikt nie wie co siê roi³o w popieprzonych mózgach tych naukowców.}
-{521}{}{Hmm... tu masz racje. Nie mówiê, ¿e ci wierze... ale s¹dzê, ¿e przynajmniej mogê ciê wys³uchaæ.}
-{522}{}{Ta, tu siê zgodzê. Mów dalej...}
-{530}{}{W porz¹dku, widzisz, to wszystko to czêœæ ich "eksperymentu". Ci szaleni popieprzeni naukowcy robili badania "natury ludzkiego z³a" czy coœ takiego. Wszczepiali mi wspomnienia maniakalnego mordercy ¿eby zobaczyæ jaki bêd¹ mia³y wp³yw na normalnego cz³owieka. A przynajmniej tyle uda³o mi siê ustaliæ.}
-{531}{}{Có¿... je¿eli to prawda, to okropne co z tob¹ robili. Ale dlaczego wybrali w³aœnie ciebie do tego eksperymentu?}
-{532}{}{O³, biedne maleñstwo. W ka¿dym razie, masz ju¿ to za sob¹, to ju¿ przesz³oœæ. Ci szaleni naukowcy ju¿ dawno nie ¿yj¹ i nie bêd¹ mogli ciê wiêcej krzywdziæ. ChodŸ ze mn¹, wynosimy siê st¹d.}
-{540}{}{Eh, widzisz i tu robi siê zabawnie. *Ja* sam do *nich* przyszed³em. Odpowiedzia³em na ich og³oszenie, obiecali wysokie wynagrodzenie dla zdrowych ochotników. Potrzebowa³em kasy i có¿, okaza³o siê to moim najwiêkszym ¿yciowym b³êdem. Nie mogê ci nawet opowiedzieæ jaki horror mi wszczepili. [Jego oczy siê zeszkli³y od ³ez na samo wspomnienie. Wzi¹³ g³êboki oddech i otar³ ³zy z oczu.] W ka¿dym razie dziêki tobie, }
+{513}{}{GÃ³wno prawda. MyÅ›lÄ™, Å¼e najwyÅ¼szy czas ciÄ™ uciszyÄ‡, na dobre.}
+{514}{}{Ale to nie ma sensu, po co mieliby kÅ‚amaÄ‡?}
+{515}{}{GÃ³wno warte to sÄ… TWOJE sÅ‚owa, nie wierze ci ani trochÄ™, czas ciÄ™ uciszyÄ‡ na dobre.}
+{520}{}{Hej, wiem, Å¼e nie brzmi to zbyt sensownie, ale czy rozejrzaÅ‚aÅ› siÄ™ po tym miejscu? Niewielu tu sensownych rzeczy. Nikt nie wie co siÄ™ roiÅ‚o w popieprzonych mÃ³zgach tych naukowcÃ³w.}
+{521}{}{Hmm... tu masz racje. Nie mÃ³wiÄ™, Å¼e ci wierze... ale sÄ…dzÄ™, Å¼e przynajmniej mogÄ™ ciÄ™ wysÅ‚uchaÄ‡.}
+{522}{}{Ta, tu siÄ™ zgodzÄ™. MÃ³w dalej...}
+{530}{}{W porzÄ…dku, widzisz, to wszystko to czÄ™Å›Ä‡ ich "eksperymentu". Ci szaleni popieprzeni naukowcy robili badania "natury ludzkiego zÅ‚a" czy coÅ› takiego. Wszczepiali mi wspomnienia maniakalnego mordercy Å¼eby zobaczyÄ‡ jaki bÄ™dÄ… miaÅ‚y wpÅ‚yw na normalnego czÅ‚owieka. A przynajmniej tyle udaÅ‚o mi siÄ™ ustaliÄ‡.}
+{531}{}{CÃ³Å¼... jeÅ¼eli to prawda, to okropne co z tobÄ… robili. Ale dlaczego wybrali wÅ‚aÅ›nie ciebie do tego eksperymentu?}
+{532}{}{OÅ‚, biedne maleÅ„stwo. W kaÅ¼dym razie, masz juÅ¼ to za sobÄ…, to juÅ¼ przeszÅ‚oÅ›Ä‡. Ci szaleni naukowcy juÅ¼ dawno nie Å¼yjÄ… i nie bÄ™dÄ… mogli ciÄ™ wiÄ™cej krzywdziÄ‡. ChodÅº ze mnÄ…, wynosimy siÄ™ stÄ…d.}
+{540}{}{Eh, widzisz i tu robi siÄ™ zabawnie. *Ja* sam do *nich* przyszedÅ‚em. OdpowiedziaÅ‚em na ich ogÅ‚oszenie, obiecali wysokie wynagrodzenie dla zdrowych ochotnikÃ³w. PotrzebowaÅ‚em kasy i cÃ³Å¼, okazaÅ‚o siÄ™ to moim najwiÄ™kszym Å¼yciowym bÅ‚Ä™dem. Nie mogÄ™ ci nawet opowiedzieÄ‡ jaki horror mi wszczepili. [Jego oczy siÄ™ zeszkliÅ‚y od Å‚ez na samo wspomnienie. WziÄ…Å‚ gÅ‚Ä™boki oddech i otarÅ‚ Å‚zy z oczu.] W kaÅ¼dym razie dziÄ™ki tobie, }
 {541}{}{, jestem wreszcie wolny od tego koszmaru.}
-{542}{}{Co. Có¿, Cieszê siê, ¿e mog³em pomóc... Tak myœlê.}
-{543}{}{W³aœciwie, dupku, twój koszmar w³aœnie siê zacz¹³, bo nie wie¿e w ani jedno twoje s³owo.}
-{550}{}{Wiêc, jak bêdzie, ma³a? Spó³a? Nie tylko dobrze wygl¹dam, ale te¿ radzê sobie w walce. Cholera, poradzê sobie nawet solo, ale nie mam pojêcia co siê tam na mnie teraz czai. Wszystko co wiem to, ¿e pierwsze drzewo pod jakim bêdê siê chcia³ odszczaæ mo¿e siê otworzyæ i odgryŸæ mi fujarê.}
-{551}{}{Dobra, mo¿esz ze mn¹ podró¿owaæ, ale bêdê ciê mia³a na oku. Tylko pomyœlisz o przekroczeniu granicy to ciê zdejmê. }
-{552}{}{Pewnie, myœlê, ¿e mo¿emy. Witaj w dru¿ynie, Dex.}
-{553}{}{To by³a zabawna historyjka i ca³kiem niez³y z ciebie aktor, co czyni ciê jeszcze bardziej niebezpiecznym. Myœlê, ¿e zrobiê przys³ugê pustkowiu i ciê usunê zanim zrobisz wiêcej szkód.}
-{554}{}{A ja na to umowa stoi... wspólniku. }
-{555}{}{Có¿, s¹dzê, ¿e twoja wiedza o staro¿ytnych mo¿e mi siê przydaæ... myœlê, ¿e umowa stoi.}
-{556}{}{Naprawdê nie mam czasu ¿eby ci "pokazaæ co i jak". Jestem pewna, ¿e sam sobie œwietnie poradzisz, "ma³y".}
-{560}{}{[Uœmiech Dexa blednie, a oczy staj¹ siê zamglone. Po chwili, zaczyna mówiæ, ale unika twojego spojrzenia.]
- By³em jednym z ich chorych eksperymentów. Oni zrobili mi... coœ strasznego. [Potrz¹sa g³ow¹, a potem patrzy na ciebie z poprzednim uœmieszkiem.]
- Ale o wiele bardzie wola³bym porozmawiaæ o tobie, ma³a.}
-{561}{}{No dobra, pomyœlmy... urodzi³am siê i wychowa³am w wiosce, która nazywa siê Arroyo. Moja matka jest starsz¹ wioski i jesteœmy w prostej linii potomkami Przybysza z Kry—}
-{562}{}{S³uchaj, Dex, mo¿liwe, ¿e móg³bym ci pomóc, ale muszê wiedzieæ z kim mam do czynienia. Co dok³adnie ci zrobili?}
-{570}{}{£o³, to naprawdê interesuj¹ce, ma³a i nie mogê siê doczekaæ, kiedy us³yszê coœ wiêcej o tobie. Szczerze. Ale mo¿e najpierw, opowiesz mi co siê tu do cholery sta³o, odk¹d wsadzili mnie do lodu.
- Mam na myœli, no wiesz, to miejsce zesz³o na psy, a ty wygl¹dasz jakbyœ wysz³a z jakiejœ przygodowej opowieœci SF.}
-{580}{}{W porz¹dku, ale naprawdê musisz to wiedzieæ? Dobra. W³aœciwie to ci popieprzeni, szaleni naukowcy prowadzili badania nad "natur¹ ludzkiego z³a", albo tego typu gównem.
- Wszczepili mi wspomnienia jakiegoœ maniaka bo chcieli sprawdziæ jaki to bêdzie mia³o wp³yw na osobowoœæ przyzwoitego, praworz¹dnego goœcia, takiego jak ja. A w ka¿dym razie, tyle uda³o mi siê ustaliæ.}
-{581}{}{No dobra rozumiem. Wiêc, *jaki* to mia³o wp³yw na ciebie?}
-{582}{}{Nie wiem, mam jakieœ koszmary, dobra? S³uchaj s³odziutka, wiele przeszed³em i nie jestem teraz w nastroju na... pieprzone przes³uchanie, dobra?
- Odpowiedzia³em na twoje pytania, a teraz mo¿e mi wreszcie powiesz co siê tu do cholery sta³o, odk¹d wsadzili mnie do lodu. Mam na myœli, no wiesz, to miejsce zesz³o na psy, a ty wygl¹dasz jakbyœ wysz³a z jakiejœ przygodowej opowieœci SF.}
-{600}{}{[Kiedy podchodzisz do komory kriogenicznej, zauwa¿asz ciotowato wygl¹daj¹cego faceta skulonego na pod³odze. Podci¹ga kolana i przyciska je do klatki. Siedzi tam przez kilka chwil, patrz¹c pusto przed siebie dr¿¹c z zimna i szczekaj¹c zêbami. Wygl¹da, ¿e stopniowo siê uspokaja.]}
-{601}{}{Yyy, czeœæ...}
-{610}{}{[Odwraca g³owê w twoim kierunku i podnosi siê na nogi. Obserwuje ciê dok³adnie, potem rzuca spojrzenie na otoczenie niczym przera¿one zwierze. Kiedy jego spojrzenie wraca na ciebie, uspokaja siê, jego wspomnienia powoli do niego wracaj¹. Szybko zmienia siê jego postawa, jest teraz spokojny i pewny siebie, mimo swojej nagoœci.] Nie poznaje ciê, koleœ. Nie masz nic przeciwko ¿ebym siê ubra³?}
-{611}{}{Myœlê, ¿e nie zaszkodzi...}
-{612}{}{Nie s¹dzê ¿eby to by³...}
-{620}{}{Oczywiœcie, ¿e nie masz nic przeciwko. Dziêki, koleœ. [Przechodzi obok ciebie i otwiera szafkê. Swobodnie ubiera siê w dobrze skrojony garnitur, potem chowa do kieszeni resztê zawartoœci szafki. Wyci¹ga grzebieñ kieszonkowy i zaczyna czesaæ i uk³adaæ swoje w³osy z precyzj¹ profesjonalisty.] Wiêc, gdzie jest doktorek?}
-{621}{}{A sk¹d mam to wiedzieæ. Kimkolwiek by³ "doktorek", na pewno ju¿ nie ¿yje. Widzisz zgrywa³eœ sopel lodu przez BARDZO d³ugi czas.}
-{622}{}{S³uchaj, ch³opczyku. Nie uwolni³em twojego psychotycznego ty³ka ¿eby móc odpowiadaæ na twoje g³upie pytania i patrzeæ jak siê pogr¹¿asz. Pozwalam ci ¿yæ tylko tak d³ugo ¿ebyœ móg³ przekazaæ mi wszelkie przydatne informacje jakie mo¿esz mieæ. Wiêc zacznij mówiæ. Im wiêcej mi mo¿esz powiedzieæ, tym d³u¿ej po¿yjesz.}
-{630}{}{Naprawdê? [Przygl¹da ci siê zaciekawiony.] Nie wygl¹dasz na kogoœ st¹d, koleœ, jednak zdecydowa³eœ siê mnie uwolniæ, chcia³bym wiedzieæ dlaczego. Zak³adam, ¿e wiesz kim jestem?}
-{631}{}{Ta, jesteœ Dex, prawda? Jeœli to co o tobie czyta³em jest prawd¹, to niez³y z ciebie skurwysyn. A mi siê to podoba.}
-{632}{}{Có¿, wed³ug komputera, jesteœ Dex, narcystycznym, socjopatycznym, seryjnym morderc¹ z przed wielkiej ciszy. Odmrozi³em ciê tylko po to ¿eby ciê ubiæ jak chorego psa , którym jesteœ.}
-{633}{}{Nie mam pojêcia, ale czuje od ciebie ten rodzaj z³ych wibracji, który lubiê.}
-{640}{}{[Jego opanowanie znika, a oczy rozpala furia.] Wydaje ci siê, ¿e mo¿esz straszyæ MNIE? Czy ty masz w ogóle pojêcie z kim rozmawiasz? Tylko tu podejdŸ a poka¿ê ci do czego jestem zdolny!}
+{542}{}{Co. CÃ³Å¼, CieszÄ™ siÄ™, Å¼e mogÅ‚em pomÃ³c... Tak myÅ›lÄ™.}
+{543}{}{WÅ‚aÅ›ciwie, dupku, twÃ³j koszmar wÅ‚aÅ›nie siÄ™ zaczÄ…Å‚, bo nie wieÅ¼e w ani jedno twoje sÅ‚owo.}
+{550}{}{WiÄ™c, jak bÄ™dzie, maÅ‚a? SpÃ³Å‚a? Nie tylko dobrze wyglÄ…dam, ale teÅ¼ radzÄ™ sobie w walce. Cholera, poradzÄ™ sobie nawet solo, ale nie mam pojÄ™cia co siÄ™ tam na mnie teraz czai. Wszystko co wiem to, Å¼e pierwsze drzewo pod jakim bÄ™dÄ™ siÄ™ chciaÅ‚ odszczaÄ‡ moÅ¼e siÄ™ otworzyÄ‡ i odgryÅºÄ‡ mi fujarÄ™.}
+{551}{}{Dobra, moÅ¼esz ze mnÄ… podrÃ³Å¼owaÄ‡, ale bÄ™dÄ™ ciÄ™ miaÅ‚a na oku. Tylko pomyÅ›lisz o przekroczeniu granicy to ciÄ™ zdejmÄ™. }
+{552}{}{Pewnie, myÅ›lÄ™, Å¼e moÅ¼emy. Witaj w druÅ¼ynie, Dex.}
+{553}{}{To byÅ‚a zabawna historyjka i caÅ‚kiem niezÅ‚y z ciebie aktor, co czyni ciÄ™ jeszcze bardziej niebezpiecznym. MyÅ›lÄ™, Å¼e zrobiÄ™ przysÅ‚ugÄ™ pustkowiu i ciÄ™ usunÄ™ zanim zrobisz wiÄ™cej szkÃ³d.}
+{554}{}{A ja na to umowa stoi... wspÃ³lniku. }
+{555}{}{CÃ³Å¼, sÄ…dzÄ™, Å¼e twoja wiedza o staroÅ¼ytnych moÅ¼e mi siÄ™ przydaÄ‡... myÅ›lÄ™, Å¼e umowa stoi.}
+{556}{}{NaprawdÄ™ nie mam czasu Å¼eby ci "pokazaÄ‡ co i jak". Jestem pewna, Å¼e sam sobie Å›wietnie poradzisz, "maÅ‚y".}
+{560}{}{[UÅ›miech Dexa blednie, a oczy stajÄ… siÄ™ zamglone. Po chwili, zaczyna mÃ³wiÄ‡, ale unika twojego spojrzenia.]
+ ByÅ‚em jednym z ich chorych eksperymentÃ³w. Oni zrobili mi... coÅ› strasznego. [PotrzÄ…sa gÅ‚owÄ…, a potem patrzy na ciebie z poprzednim uÅ›mieszkiem.]
+ Ale o wiele bardzie wolaÅ‚bym porozmawiaÄ‡ o tobie, maÅ‚a.}
+{561}{}{No dobra, pomyÅ›lmy... urodziÅ‚am siÄ™ i wychowaÅ‚am w wiosce, ktÃ³ra nazywa siÄ™ Arroyo. Moja matka jest starszÄ… wioski i jesteÅ›my w prostej linii potomkami Przybysza z Kryâ€”}
+{562}{}{SÅ‚uchaj, Dex, moÅ¼liwe, Å¼e mÃ³gÅ‚bym ci pomÃ³c, ale muszÄ™ wiedzieÄ‡ z kim mam do czynienia. Co dokÅ‚adnie ci zrobili?}
+{570}{}{ÅoÅ‚, to naprawdÄ™ interesujÄ…ce, maÅ‚a i nie mogÄ™ siÄ™ doczekaÄ‡, kiedy usÅ‚yszÄ™ coÅ› wiÄ™cej o tobie. Szczerze. Ale moÅ¼e najpierw, opowiesz mi co siÄ™ tu do cholery staÅ‚o, odkÄ…d wsadzili mnie do lodu.
+ Mam na myÅ›li, no wiesz, to miejsce zeszÅ‚o na psy, a ty wyglÄ…dasz jakbyÅ› wyszÅ‚a z jakiejÅ› przygodowej opowieÅ›ci SF.}
+{580}{}{W porzÄ…dku, ale naprawdÄ™ musisz to wiedzieÄ‡? Dobra. WÅ‚aÅ›ciwie to ci popieprzeni, szaleni naukowcy prowadzili badania nad "naturÄ… ludzkiego zÅ‚a", albo tego typu gÃ³wnem.
+ Wszczepili mi wspomnienia jakiegoÅ› maniaka bo chcieli sprawdziÄ‡ jaki to bÄ™dzie miaÅ‚o wpÅ‚yw na osobowoÅ›Ä‡ przyzwoitego, praworzÄ…dnego goÅ›cia, takiego jak ja. A w kaÅ¼dym razie, tyle udaÅ‚o mi siÄ™ ustaliÄ‡.}
+{581}{}{No dobra rozumiem. WiÄ™c, *jaki* to miaÅ‚o wpÅ‚yw na ciebie?}
+{582}{}{Nie wiem, mam jakieÅ› koszmary, dobra? SÅ‚uchaj sÅ‚odziutka, wiele przeszedÅ‚em i nie jestem teraz w nastroju na... pieprzone przesÅ‚uchanie, dobra?
+ OdpowiedziaÅ‚em na twoje pytania, a teraz moÅ¼e mi wreszcie powiesz co siÄ™ tu do cholery staÅ‚o, odkÄ…d wsadzili mnie do lodu. Mam na myÅ›li, no wiesz, to miejsce zeszÅ‚o na psy, a ty wyglÄ…dasz jakbyÅ› wyszÅ‚a z jakiejÅ› przygodowej opowieÅ›ci SF.}
+{600}{}{[Kiedy podchodzisz do komory kriogenicznej, zauwaÅ¼asz ciotowato wyglÄ…dajÄ…cego faceta skulonego na podÅ‚odze. PodciÄ…ga kolana i przyciska je do klatki. Siedzi tam przez kilka chwil, patrzÄ…c pusto przed siebie drÅ¼Ä…c z zimna i szczekajÄ…c zÄ™bami. WyglÄ…da, Å¼e stopniowo siÄ™ uspokaja.]}
+{601}{}{Yyy, czeÅ›Ä‡...}
+{610}{}{[Odwraca gÅ‚owÄ™ w twoim kierunku i podnosi siÄ™ na nogi. Obserwuje ciÄ™ dokÅ‚adnie, potem rzuca spojrzenie na otoczenie niczym przeraÅ¼one zwierze. Kiedy jego spojrzenie wraca na ciebie, uspokaja siÄ™, jego wspomnienia powoli do niego wracajÄ…. Szybko zmienia siÄ™ jego postawa, jest teraz spokojny i pewny siebie, mimo swojej nagoÅ›ci.] Nie poznaje ciÄ™, koleÅ›. Nie masz nic przeciwko Å¼ebym siÄ™ ubraÅ‚?}
+{611}{}{MyÅ›lÄ™, Å¼e nie zaszkodzi...}
+{612}{}{Nie sÄ…dzÄ™ Å¼eby to byÅ‚...}
+{620}{}{OczywiÅ›cie, Å¼e nie masz nic przeciwko. DziÄ™ki, koleÅ›. [Przechodzi obok ciebie i otwiera szafkÄ™. Swobodnie ubiera siÄ™ w dobrze skrojony garnitur, potem chowa do kieszeni resztÄ™ zawartoÅ›ci szafki. WyciÄ…ga grzebieÅ„ kieszonkowy i zaczyna czesaÄ‡ i ukÅ‚adaÄ‡ swoje wÅ‚osy z precyzjÄ… profesjonalisty.] WiÄ™c, gdzie jest doktorek?}
+{621}{}{A skÄ…d mam to wiedzieÄ‡. Kimkolwiek byÅ‚ "doktorek", na pewno juÅ¼ nie Å¼yje. Widzisz zgrywaÅ‚eÅ› sopel lodu przez BARDZO dÅ‚ugi czas.}
+{622}{}{SÅ‚uchaj, chÅ‚opczyku. Nie uwolniÅ‚em twojego psychotycznego tyÅ‚ka Å¼eby mÃ³c odpowiadaÄ‡ na twoje gÅ‚upie pytania i patrzeÄ‡ jak siÄ™ pogrÄ…Å¼asz. Pozwalam ci Å¼yÄ‡ tylko tak dÅ‚ugo Å¼ebyÅ› mÃ³gÅ‚ przekazaÄ‡ mi wszelkie przydatne informacje jakie moÅ¼esz mieÄ‡. WiÄ™c zacznij mÃ³wiÄ‡. Im wiÄ™cej mi moÅ¼esz powiedzieÄ‡, tym dÅ‚uÅ¼ej poÅ¼yjesz.}
+{630}{}{NaprawdÄ™? [PrzyglÄ…da ci siÄ™ zaciekawiony.] Nie wyglÄ…dasz na kogoÅ› stÄ…d, koleÅ›, jednak zdecydowaÅ‚eÅ› siÄ™ mnie uwolniÄ‡, chciaÅ‚bym wiedzieÄ‡ dlaczego. ZakÅ‚adam, Å¼e wiesz kim jestem?}
+{631}{}{Ta, jesteÅ› Dex, prawda? JeÅ›li to co o tobie czytaÅ‚em jest prawdÄ…, to niezÅ‚y z ciebie skurwysyn. A mi siÄ™ to podoba.}
+{632}{}{CÃ³Å¼, wedÅ‚ug komputera, jesteÅ› Dex, narcystycznym, socjopatycznym, seryjnym mordercÄ… z przed wielkiej ciszy. OdmroziÅ‚em ciÄ™ tylko po to Å¼eby ciÄ™ ubiÄ‡ jak chorego psa , ktÃ³rym jesteÅ›.}
+{633}{}{Nie mam pojÄ™cia, ale czuje od ciebie ten rodzaj zÅ‚ych wibracji, ktÃ³ry lubiÄ™.}
+{640}{}{[Jego opanowanie znika, a oczy rozpala furia.] Wydaje ci siÄ™, Å¼e moÅ¼esz straszyÄ‡ MNIE? Czy ty masz w ogÃ³le pojÄ™cie z kim rozmawiasz? Tylko tu podejdÅº a pokaÅ¼Ä™ ci do czego jestem zdolny!}
 {641}{}{[Gotowe.]}
-{650}{}{[Dex szczerzy siê do ciebie, ods³aniaj¹c zestaw idealnych zêbów produktu przedwojennej stomatologii dla ciebie wygl¹daj¹ dziwnie w ca³ej swojej per³owej symetrii.] Wiedzia³em, ¿e jest coœ co mi siê w tobie podoba. Masz dobry gust. Ale nie przypuszczam ¿ebyœ by³ te¿ fanem Króla?}
+{650}{}{[Dex szczerzy siÄ™ do ciebie, odsÅ‚aniajÄ…c zestaw idealnych zÄ™bÃ³w produktu przedwojennej stomatologii dla ciebie wyglÄ…dajÄ… dziwnie w caÅ‚ej swojej perÅ‚owej symetrii.] WiedziaÅ‚em, Å¼e jest coÅ› co mi siÄ™ w tobie podoba. Masz dobry gust. Ale nie przypuszczam Å¼ebyÅ› byÅ‚ teÅ¼ fanem KrÃ³la?}
 {651}{}{Yyy.... [Puste spojrzenie.]}
-{652}{}{Pewnie, ¿e tak, uwielbiam to... jak to nazywasz... Król? Ta, jestem wielkim fanem.}
-{660}{}{Niewa¿ne, koleœ. [Dex jeszcze raz rozejrza³ siê po pokoju i zagwizda³.] To miejsce zesz³o na psy. Mówisz, ¿e ile czasu minê³o?}
-{661}{}{Minê³o ponad sto piêædziesi¹t lat odk¹d Wielka Cisza przynios³a zag³adê Staro¿ytnym... *twojemu* ludowi.}
-{665}{}{Wielka Cisza? Staro¿ytni? Mo¿e oszczêdzisz mi gównianych przenoœni i po prostu powiesz co siê sta³o?}
-{666}{}{Wielk¹ Cisz¹ mój lud nazywa koniec twojego œwiata. Kiedy wielki ogieñ spa³ z nieba i spali³ ziemiê. Wkrótce przekonasz siê, ¿e œwiat w niczym nie przypomina ju¿ tego który zna³eœ.}
-{670}{}{Bez jaj, wiêc naprawdê zrzucili bomby, co? Czyli projekt Krypt nie by³ jednak marnotrawstwem pieniêdzy podatników.}
+{652}{}{Pewnie, Å¼e tak, uwielbiam to... jak to nazywasz... KrÃ³l? Ta, jestem wielkim fanem.}
+{660}{}{NiewaÅ¼ne, koleÅ›. [Dex jeszcze raz rozejrzaÅ‚ siÄ™ po pokoju i zagwizdaÅ‚.] To miejsce zeszÅ‚o na psy. MÃ³wisz, Å¼e ile czasu minÄ™Å‚o?}
+{661}{}{MinÄ™Å‚o ponad sto piÄ™Ä‡dziesiÄ…t lat odkÄ…d Wielka Cisza przyniosÅ‚a zagÅ‚adÄ™ StaroÅ¼ytnym... *twojemu* ludowi.}
+{665}{}{Wielka Cisza? StaroÅ¼ytni? MoÅ¼e oszczÄ™dzisz mi gÃ³wnianych przenoÅ›ni i po prostu powiesz co siÄ™ staÅ‚o?}
+{666}{}{WielkÄ… CiszÄ… mÃ³j lud nazywa koniec twojego Å›wiata. Kiedy wielki ogieÅ„ spaÅ‚ z nieba i spaliÅ‚ ziemiÄ™. WkrÃ³tce przekonasz siÄ™, Å¼e Å›wiat w niczym nie przypomina juÅ¼ tego ktÃ³ry znaÅ‚eÅ›.}
+{670}{}{Bez jaj, wiÄ™c naprawdÄ™ zrzucili bomby, co? Czyli projekt Krypt nie byÅ‚ jednak marnotrawstwem pieniÄ™dzy podatnikÃ³w.}
 {671}{}{Czekaj, wiesz o Kryptach?}
-{680}{}{Czy o nich wiem? Cholera, zabi³em moj¹ pierwsz¹ dziwkê niedaleko Krypty w Chicago. Co to by³y za dni... [Przerywa i patrzy na ciebie z rozbawieniem.] Ty to naprawdê ³ykn¹³eœ, co?}
-{681}{}{MÓW DALEJ O KRYPTACH!}
-{682}{}{Có¿, powinienem szukaæ Krypty dla mojego plemienia. Kiedy ju¿ j¹ znajdê mam stamt¹d wzi¹æ G.E.C.K., który ma uratowaæ moj¹ wioskê. Cokolwiek co mo¿esz mi powiedzieæ o Kryptach mo¿e mi cholernie u³atwiæ zadanie.}
-{683}{}{Có¿, widzisz, zosta³em wybrany przez mój lud abym odnalaz³ Kryptê. Wielokrotnie ryzykowa³em ¿ycie ¿eby odnaleŸæ przeklêt¹ Œwiêt¹ Kryptê i w koñcu mi siê to uda³o. Jestem ciekaw co ty mo¿esz o nich wiedzieæ.}
-{690}{}{Wiesz co ci powiem, koleœ. Potrzebujesz pomocy przy szukaniu Kryty, a ja potrzebuje kogoœ kto poka¿e mi co i jak w tym szalonym œwiecie. Co ty na to... wspólniku?}
-{691}{}{Cholera, nie musisz mnie przekonywaæ. Z chêci¹ ciê z sob¹ zabiorê, tylko po to ¿eby zobaczyæ twoje rêkodzie³o osobiœcie.}
-{692}{}{No nie wiem, Dex. Powiedzmy, ¿e ciê z sob¹ zabiorê i dotrzemy do wzglêdnego bezpieczeñstwa osiedla. Na miejscu, jak¹ mam pewnoœæ, ¿e nie spróbujesz mi poder¿n¹æ gard³a przy pierwszej nadarzaj¹cej siê sposobnoœci?}
-{700}{}{Na pierwszy rzut oka widaæ, ¿e sam nie jesteœ œwiêty, wiec mogê zapytaæ o to samo. Ale ¿eby odpowiedzieæ na twoje pytanie, nie zabijecie ciê bo to mnie kurwa nie urz¹dza. Bêdê z tob¹ szczery, }
-{701}{}{, gówno mnie obchodz¹ inni, dla mnie wa¿ny jestem tylko JA. Je¿eli œwiat jest tak popieprzony jak mówisz, to trzymaj¹c siê ciebie mam najwiêksz¹ szansê prze¿ycia. Nic prostszego ni¿ to, prawda?}
-{702}{}{S³usznie. Ruszajmy.}
-{703}{}{Ale z ciebie pojeb. W kulki sobie z tob¹ lecê, Dex. Nigdy nie zamierza³em ciê z sob¹ zabieraæ. Po prostu chcia³em siê trochê poœmiaæ zanim rozwalê ci ³eb.}
-{800}{}{[Kiedy podchodzisz do komory kriogenicznej, zauwa¿asz ciotowato wygl¹daj¹cego faceta skulonego na pod³odze. Podci¹ga kolana i przyciska je do klatki. Siedzi tam przez kilka chwil, patrz¹c pusto przed siebie dr¿¹c z zimna i szczekaj¹c zêbami. Wygl¹da, ¿e stopniowo siê uspokaja.]}
-{801}{}{Yyy, czeœæ...}
-{810}{}{[Odwraca g³owê w twoim kierunku i podnosi siê na nogi. Obserwuje ciê dok³adnie, potem rzuca spojrzenie na otoczenie niczym przera¿one zwierze. Kiedy jego spojrzenie wraca na ciebie, uspokaja siê, jego wspomnienia powoli do niego wracaj¹. Szybko zmienia siê jego postawa, jest teraz spokojny i pewny siebie, mimo swojej nagoœci.] Czeœæ lala, wiem ¿e niez³y ze mnie widok, ale jest tu Ÿdziebko zimno. Nie masz nic przeciwko ¿ebym siê ubra³?}
-{811}{}{Myœlê, ¿e nie zaszkodzi...}
-{812}{}{Nie s¹dzê ¿eby to by³...}
-{820}{}{Oczywiœcie, ¿e nie masz nic przeciwko. Dziêki, ma³a. [Przechodzi obok ciebie delikatnie klepi¹c ciê w ty³ek i otwiera szafkê. Swobodnie ubiera siê w dobrze skrojony garnitur, potem chowa do kieszeni resztê zawartoœci szafki. Wyci¹ga grzebieñ kieszonkowy i zaczyna czesaæ i uk³adaæ swoje w³osy z precyzj¹ profesjonalisty.] Chyba ciê tu wczeœniej nie widzia³em, lala, a nie s¹dzê ¿ebym zapomnia³ taka buŸkê. Nazywam siê Dex, ale to ju¿ pewnie wiesz. Mogê poznaæ twoje imiê?}
+{680}{}{Czy o nich wiem? Cholera, zabiÅ‚em mojÄ… pierwszÄ… dziwkÄ™ niedaleko Krypty w Chicago. Co to byÅ‚y za dni... [Przerywa i patrzy na ciebie z rozbawieniem.] Ty to naprawdÄ™ Å‚yknÄ…Å‚eÅ›, co?}
+{681}{}{MÃ“W DALEJ O KRYPTACH!}
+{682}{}{CÃ³Å¼, powinienem szukaÄ‡ Krypty dla mojego plemienia. Kiedy juÅ¼ jÄ… znajdÄ™ mam stamtÄ…d wziÄ…Ä‡ G.E.C.K., ktÃ³ry ma uratowaÄ‡ mojÄ… wioskÄ™. Cokolwiek co moÅ¼esz mi powiedzieÄ‡ o Kryptach moÅ¼e mi cholernie uÅ‚atwiÄ‡ zadanie.}
+{683}{}{CÃ³Å¼, widzisz, zostaÅ‚em wybrany przez mÃ³j lud abym odnalazÅ‚ KryptÄ™. Wielokrotnie ryzykowaÅ‚em Å¼ycie Å¼eby odnaleÅºÄ‡ przeklÄ™tÄ… ÅšwiÄ™tÄ… KryptÄ™ i w koÅ„cu mi siÄ™ to udaÅ‚o. Jestem ciekaw co ty moÅ¼esz o nich wiedzieÄ‡.}
+{690}{}{Wiesz co ci powiem, koleÅ›. Potrzebujesz pomocy przy szukaniu Kryty, a ja potrzebuje kogoÅ› kto pokaÅ¼e mi co i jak w tym szalonym Å›wiecie. Co ty na to... wspÃ³lniku?}
+{691}{}{Cholera, nie musisz mnie przekonywaÄ‡. Z chÄ™ciÄ… ciÄ™ z sobÄ… zabiorÄ™, tylko po to Å¼eby zobaczyÄ‡ twoje rÄ™kodzieÅ‚o osobiÅ›cie.}
+{692}{}{No nie wiem, Dex. Powiedzmy, Å¼e ciÄ™ z sobÄ… zabiorÄ™ i dotrzemy do wzglÄ™dnego bezpieczeÅ„stwa osiedla. Na miejscu, jakÄ… mam pewnoÅ›Ä‡, Å¼e nie sprÃ³bujesz mi poderÅ¼nÄ…Ä‡ gardÅ‚a przy pierwszej nadarzajÄ…cej siÄ™ sposobnoÅ›ci?}
+{700}{}{Na pierwszy rzut oka widaÄ‡, Å¼e sam nie jesteÅ› Å›wiÄ™ty, wiec mogÄ™ zapytaÄ‡ o to samo. Ale Å¼eby odpowiedzieÄ‡ na twoje pytanie, nie zabijecie ciÄ™ bo to mnie kurwa nie urzÄ…dza. BÄ™dÄ™ z tobÄ… szczery, }
+{701}{}{, gÃ³wno mnie obchodzÄ… inni, dla mnie waÅ¼ny jestem tylko JA. JeÅ¼eli Å›wiat jest tak popieprzony jak mÃ³wisz, to trzymajÄ…c siÄ™ ciebie mam najwiÄ™kszÄ… szansÄ™ przeÅ¼ycia. Nic prostszego niÅ¼ to, prawda?}
+{702}{}{SÅ‚usznie. Ruszajmy.}
+{703}{}{Ale z ciebie pojeb. W kulki sobie z tobÄ… lecÄ™, Dex. Nigdy nie zamierzaÅ‚em ciÄ™ z sobÄ… zabieraÄ‡. Po prostu chciaÅ‚em siÄ™ trochÄ™ poÅ›miaÄ‡ zanim rozwalÄ™ ci Å‚eb.}
+{800}{}{[Kiedy podchodzisz do komory kriogenicznej, zauwaÅ¼asz ciotowato wyglÄ…dajÄ…cego faceta skulonego na podÅ‚odze. PodciÄ…ga kolana i przyciska je do klatki. Siedzi tam przez kilka chwil, patrzÄ…c pusto przed siebie drÅ¼Ä…c z zimna i szczekajÄ…c zÄ™bami. WyglÄ…da, Å¼e stopniowo siÄ™ uspokaja.]}
+{801}{}{Yyy, czeÅ›Ä‡...}
+{810}{}{[Odwraca gÅ‚owÄ™ w twoim kierunku i podnosi siÄ™ na nogi. Obserwuje ciÄ™ dokÅ‚adnie, potem rzuca spojrzenie na otoczenie niczym przeraÅ¼one zwierze. Kiedy jego spojrzenie wraca na ciebie, uspokaja siÄ™, jego wspomnienia powoli do niego wracajÄ…. Szybko zmienia siÄ™ jego postawa, jest teraz spokojny i pewny siebie, mimo swojej nagoÅ›ci.] CzeÅ›Ä‡ lala, wiem Å¼e niezÅ‚y ze mnie widok, ale jest tu Åºdziebko zimno. Nie masz nic przeciwko Å¼ebym siÄ™ ubraÅ‚?}
+{811}{}{MyÅ›lÄ™, Å¼e nie zaszkodzi...}
+{812}{}{Nie sÄ…dzÄ™ Å¼eby to byÅ‚...}
+{820}{}{OczywiÅ›cie, Å¼e nie masz nic przeciwko. DziÄ™ki, maÅ‚a. [Przechodzi obok ciebie delikatnie klepiÄ…c ciÄ™ w tyÅ‚ek i otwiera szafkÄ™. Swobodnie ubiera siÄ™ w dobrze skrojony garnitur, potem chowa do kieszeni resztÄ™ zawartoÅ›ci szafki. WyciÄ…ga grzebieÅ„ kieszonkowy i zaczyna czesaÄ‡ i ukÅ‚adaÄ‡ swoje wÅ‚osy z precyzjÄ… profesjonalisty.] Chyba ciÄ™ tu wczeÅ›niej nie widziaÅ‚em, lala, a nie sÄ…dzÄ™ Å¼ebym zapomniaÅ‚ taka buÅºkÄ™. Nazywam siÄ™ Dex, ale to juÅ¼ pewnie wiesz. MogÄ™ poznaÄ‡ twoje imiÄ™?}
 {821}{}{Jestem }
-{822}{}{. Ale zanim siê jeszcze bardziej spoufalisz, powinieneœ wiedzieæ, ¿e mam tak¹ zasadê, ¿e nie spotykam siê z mê¿czyznami o reputacji mordercy, którzy byli zamro¿eni przez ponad sto piêædziesi¹t lat. A jak dotkniesz mojego ty³ka jeszcze raz to wyrwê ci fiuta, zrozumia³eœ?}
+{822}{}{. Ale zanim siÄ™ jeszcze bardziej spoufalisz, powinieneÅ› wiedzieÄ‡, Å¼e mam takÄ… zasadÄ™, Å¼e nie spotykam siÄ™ z mÄ™Å¼czyznami o reputacji mordercy, ktÃ³rzy byli zamroÅ¼eni przez ponad sto piÄ™Ä‡dziesiÄ…t lat. A jak dotkniesz mojego tyÅ‚ka jeszcze raz to wyrwÄ™ ci fiuta, zrozumiaÅ‚eÅ›?}
 {823}{}{Jestem }
-{824}{}{, mi³o ciê poznaæ, Dex. Nawet nie mogê sobie wyobraziæ jak siê czujesz budz¹c siê po ponad stu piêædziesiêciu latach kriogenicznego snu..}
-{825}{}{Ta, oczywiœcie, ¿e... nie, ty popieprzony zboku. Odmrozi³am ciê tylko po to ¿eby ciê uœpiæ jak chorego psa, którym jesteœ.}
-{826}{}{Zapomnij o imionach. Co powiesz na zdjêcie z powrotem tych ubrañ i pokazanie mi z czego s¹ zrobieni przed wojenni mê¿czyŸni.}
-{830}{}{[Uœmiechn¹³ siê do ciebie i zacz¹³ rozbieraæ.] Dziewczyno, jesteœ w moim typie. Przygotuj siê na doœwiadczenie Dexa, Ksiêcia sexu.}
-{831}{}{[Po kilku godzinach intensywnego uprawiania seksu na pod³odze laboratorium, oboje padacie zmêczeni. Zauwa¿asz, ¿e Dex ostro¿nie siêga do ukrytego no¿a. Szybko ³apiesz go za jaja.]}
-{832}{}{Dotknij tego no¿a, a zamieniê ciê w Ksiê¿niczkê. A poza tym po co to psuæ? Razem mo¿emy mieæ jeszcze niez³y ubaw.}
-{833}{}{Ja... myœlê, ¿e siê zakocha³em. [Dex do³¹cza do twojej dru¿yny.]}
-{840}{}{Jak, ¿e niby co? Wróæ trochê, cukiereczku. Powiedzia³aœ w³aœnie sto piêædziesi¹t lat? [Potrz¹sa g³ow¹ z niedowierzaniem.]
- Nie-kurde-wiarygodne. [Sprawdza swoje odbicie w lustrze.] Ale musisz przyznaæ, wygl¹dam zabójczo jak na mój wiek.
- [Dex szczerzy siê do ciebie, ods³aniaj¹c zestaw idealnych zêbów produktu przedwojennej stomatologii dla ciebie wygl¹daj¹ dziwnie w ca³ej swojej per³owej symetrii.]}
-{841}{}{Pewnie, niektóre dziewczyny mog¹ uwa¿aæ ciê za atrakcyjnego, ale na pewno ich zapa³ szybko studzi ta twoja mania zabijania.}
-{842}{}{Dobra, to przyprawia mnie o md³oœci. Zobaczmy czy bêdzie z ciebie taki przystojniak jak w³aduje ci kilka kul w twarz.}
-{843}{}{Pewnie, niektóre dziewczyny mog¹ uwa¿aæ ciê za atrakcyjnego, ale na pewno ich zapa³ szybko studz¹ z³e wibracje psychotycznego mordercy, które czuæ od ciebie.}
-{844}{}{NieŸle jak na cz³owieka lodu. A w³aœciwie, czemu by³eœ tam zamro¿ony?}
-{845}{}{Eh, nie jesteœ w moim typie. A w³aœciwie, czemu by³eœ tam zamro¿ony?}
-{846}{}{Dobra, to przyprawia mnie o md³oœci. Zobaczmy czy bêdzie z ciebie taki przystojniak jak w³aduje ci kilka kul w twarz.}
-{850}{}{Có¿, zwykle zauwa¿aj¹ to dopiero kiedy jest ju¿ za póŸno. Ale poza tym... [Dex jeszcze raz rozejrza³ siê po pomieszczeniu i zagwizda³.]
- To miejsce naprawdê zesz³o na psy. Wiêc, co mnie ominê³o?}
-{851}{}{Minê³o ponad sto piêædziesi¹t lat odk¹d Wielka Cisza przynios³a zag³adê Staro¿ytnym... *twojemu* ludowi.}
-{855}{}{Wielka Cisza? Staro¿ytni? Mo¿e oszczêdzisz mi gównianych przenoœni i po prostu powiesz co siê sta³o?}
-{856}{}{Wielk¹ Cisz¹ mój lud nazywa koniec twojego œwiata. Kiedy wielki ogieñ spa³ z nieba i spali³ ziemiê. Wkrótce przekonasz siê, ¿e œwiat w niczym nie przypomina ju¿ tego który zna³eœ.}
-{860}{}{Bez jaj, wiêc naprawdê zrzucili bomby, co? Czyli projekt Krypt nie by³ jednak marnotrawstwem pieniêdzy podatników.}
+{824}{}{, miÅ‚o ciÄ™ poznaÄ‡, Dex. Nawet nie mogÄ™ sobie wyobraziÄ‡ jak siÄ™ czujesz budzÄ…c siÄ™ po ponad stu piÄ™Ä‡dziesiÄ™ciu latach kriogenicznego snu..}
+{825}{}{Ta, oczywiÅ›cie, Å¼e... nie, ty popieprzony zboku. OdmroziÅ‚am ciÄ™ tylko po to Å¼eby ciÄ™ uÅ›piÄ‡ jak chorego psa, ktÃ³rym jesteÅ›.}
+{826}{}{Zapomnij o imionach. Co powiesz na zdjÄ™cie z powrotem tych ubraÅ„ i pokazanie mi z czego sÄ… zrobieni przed wojenni mÄ™Å¼czyÅºni.}
+{830}{}{[UÅ›miechnÄ…Å‚ siÄ™ do ciebie i zaczÄ…Å‚ rozbieraÄ‡.] Dziewczyno, jesteÅ› w moim typie. Przygotuj siÄ™ na doÅ›wiadczenie Dexa, KsiÄ™cia sexu.}
+{831}{}{[Po kilku godzinach intensywnego uprawiania seksu na podÅ‚odze laboratorium, oboje padacie zmÄ™czeni. ZauwaÅ¼asz, Å¼e Dex ostroÅ¼nie siÄ™ga do ukrytego noÅ¼a. Szybko Å‚apiesz go za jaja.]}
+{832}{}{Dotknij tego noÅ¼a, a zamieniÄ™ ciÄ™ w KsiÄ™Å¼niczkÄ™. A poza tym po co to psuÄ‡? Razem moÅ¼emy mieÄ‡ jeszcze niezÅ‚y ubaw.}
+{833}{}{Ja... myÅ›lÄ™, Å¼e siÄ™ zakochaÅ‚em. [Dex doÅ‚Ä…cza do twojej druÅ¼yny.]}
+{840}{}{Jak, Å¼e niby co? WrÃ³Ä‡ trochÄ™, cukiereczku. PowiedziaÅ‚aÅ› wÅ‚aÅ›nie sto piÄ™Ä‡dziesiÄ…t lat? [PotrzÄ…sa gÅ‚owÄ… z niedowierzaniem.]
+ Nie-kurde-wiarygodne. [Sprawdza swoje odbicie w lustrze.] Ale musisz przyznaÄ‡, wyglÄ…dam zabÃ³jczo jak na mÃ³j wiek.
+ [Dex szczerzy siÄ™ do ciebie, odsÅ‚aniajÄ…c zestaw idealnych zÄ™bÃ³w produktu przedwojennej stomatologii dla ciebie wyglÄ…dajÄ… dziwnie w caÅ‚ej swojej perÅ‚owej symetrii.]}
+{841}{}{Pewnie, niektÃ³re dziewczyny mogÄ… uwaÅ¼aÄ‡ ciÄ™ za atrakcyjnego, ale na pewno ich zapaÅ‚ szybko studzi ta twoja mania zabijania.}
+{842}{}{Dobra, to przyprawia mnie o mdÅ‚oÅ›ci. Zobaczmy czy bÄ™dzie z ciebie taki przystojniak jak wÅ‚aduje ci kilka kul w twarz.}
+{843}{}{Pewnie, niektÃ³re dziewczyny mogÄ… uwaÅ¼aÄ‡ ciÄ™ za atrakcyjnego, ale na pewno ich zapaÅ‚ szybko studzÄ… zÅ‚e wibracje psychotycznego mordercy, ktÃ³re czuÄ‡ od ciebie.}
+{844}{}{NieÅºle jak na czÅ‚owieka lodu. A wÅ‚aÅ›ciwie, czemu byÅ‚eÅ› tam zamroÅ¼ony?}
+{845}{}{Eh, nie jesteÅ› w moim typie. A wÅ‚aÅ›ciwie, czemu byÅ‚eÅ› tam zamroÅ¼ony?}
+{846}{}{Dobra, to przyprawia mnie o mdÅ‚oÅ›ci. Zobaczmy czy bÄ™dzie z ciebie taki przystojniak jak wÅ‚aduje ci kilka kul w twarz.}
+{850}{}{CÃ³Å¼, zwykle zauwaÅ¼ajÄ… to dopiero kiedy jest juÅ¼ za pÃ³Åºno. Ale poza tym... [Dex jeszcze raz rozejrzaÅ‚ siÄ™ po pomieszczeniu i zagwizdaÅ‚.]
+ To miejsce naprawdÄ™ zeszÅ‚o na psy. WiÄ™c, co mnie ominÄ™Å‚o?}
+{851}{}{MinÄ™Å‚o ponad sto piÄ™Ä‡dziesiÄ…t lat odkÄ…d Wielka Cisza przyniosÅ‚a zagÅ‚adÄ™ StaroÅ¼ytnym... *twojemu* ludowi.}
+{855}{}{Wielka Cisza? StaroÅ¼ytni? MoÅ¼e oszczÄ™dzisz mi gÃ³wnianych przenoÅ›ni i po prostu powiesz co siÄ™ staÅ‚o?}
+{856}{}{WielkÄ… CiszÄ… mÃ³j lud nazywa koniec twojego Å›wiata. Kiedy wielki ogieÅ„ spaÅ‚ z nieba i spaliÅ‚ ziemiÄ™. WkrÃ³tce przekonasz siÄ™, Å¼e Å›wiat w niczym nie przypomina juÅ¼ tego ktÃ³ry znaÅ‚eÅ›.}
+{860}{}{Bez jaj, wiÄ™c naprawdÄ™ zrzucili bomby, co? Czyli projekt Krypt nie byÅ‚ jednak marnotrawstwem pieniÄ™dzy podatnikÃ³w.}
 {861}{}{Czekaj, wiesz o Kryptach?}
-{870}{}{Czy o nich wiem? Cholera, zabi³em moj¹ pierwsz¹ dziwkê niedaleko Krypty w Chicago. Co to by³y za dni... [Przerywa i patrzy na ciebie z rozbawieniem.] Ma³a, ty to naprawdê ³yknê³aœ, co?}
-{871}{}{MÓW DALEJ O KRYPTACH!}
-{872}{}{Có¿, powinnam szukaæ Krypty dla mojego plemienia. Kiedy ju¿ j¹ znajdê mam stamt¹d wzi¹æ G.E.C.K., który ma uratowaæ moj¹ wioskê. Cokolwiek co mo¿esz mi powiedzieæ o Kryptach mo¿e mi cholernie u³atwiæ zadanie.}
-{873}{}{Có¿, widzisz, zosta³am wybrana przez mój lud abym odnalaz³a Kryptê. Wielokrotnie ryzykowa³am ¿ycie ¿eby odnaleŸæ te przeklêt¹ Œwiêt¹ Kryptê i w koñcu mi siê to uda³o. Jestem ciekawa co ty o nich mo¿esz wiedzieæ.}
-{880}{}{Wiesz co ci powiem, ma³a. Potrzebujesz pomocy przy szukaniu Kryty, a ja potrzebuje kogoœ kto poka¿e mi co i jak w tym szalonym œwiecie. Co ty na to... wspólniczko?}
-{881}{}{Cholera, nie musisz mnie przekonywaæ. Z chêci¹ ciê z sob¹ zabiorê, tylko po to ¿eby zobaczyæ twoje rêkodzie³o osobiœcie.}
-{882}{}{No nie wiem, Dex. Powiedzmy, ¿e ciê z sob¹ zabiorê i dotrzemy do wzglêdnego bezpieczeñstwa osiedla. Na miejscu, jak¹ mam pewnoœæ, ¿e nie spróbujesz mi poder¿n¹æ gard³a przy pierwszej nadarzaj¹cej siê sposobnoœci?}
-{883}{}{A ja na to, umowa stoi... wspólniku.}
-{884}{}{Có¿, s¹dzê, ¿e twoja wiedza o staro¿ytnych mo¿e mi siê przydaæ... myœlê, ¿e umowa stoi.}
-{885}{}{Naprawdê nie mam czasu ¿eby ci "pokazaæ co i jak". Jestem pewna, ¿e sam sobie œwietnie poradzisz, "ma³y".}
-{890}{}{Na pierwszy rzut oka widaæ, ¿e sama nie jesteœ œwiêta, wiec mogê zapytaæ o to samo. Ale ¿eby odpowiedzieæ na twoje pytanie, nie zabijecie ciê bo to mnie kurwa nie urz¹dza. Bêdê z tob¹ szczery, }
-{891}{}{, gówno mnie obchodz¹ inni, dla mnie wa¿ny jestem tylko JA. Je¿eli œwiat jest tak popieprzony jak mówisz, to trzymaj¹c siê ciebie mam najwiêksz¹ szansê prze¿ycia. Nic prostszego ni¿ to, prawda?}
-{892}{}{S³usznie. Ruszajmy.}
-{893}{}{Ale z ciebie przyg³up. W kulki sobie z tob¹ lecê Dex. Nigdy nie zamierza³am ciê z sob¹ zabieraæ. Po prostu chcia³am siê trochê zabawiæ zanim rozwalê ci ³eb.}
-{900}{}{Zaraz do tego przejdziemy. Ale mo¿e najpierw, opowiesz mi co siê tu do cholery sta³o, odk¹d wsadzili mnie do lodu. Mam na myœli, no wiesz, to miejsce zesz³o na psy, a ty wygl¹dasz jakbyœ wysz³a z jakiejœ przygodowej opowieœci SF.}
-{1000}{}{Co s³ychaæ?}
-{1001}{}{[Dex podnosi na ciebie brew.] Zar¿niemy coœ?}
-{1002}{}{Mów do mnie.}
-{1003}{}{[Dex uœmiecha siê.] Jak leci, koleœ?}
-{1004}{}{Potrzebujesz czegoœ?}
-{1005}{}{Co Dex mo¿e dla ciebie zabiæ yyy... tzn. zrobiæ?}
-{1010}{}{Co s³ychaæ?}
-{1011}{}{[Dex podnosi na ciebie brew.] Zar¿niemy coœ, ma³a?}
-{1012}{}{Powiedz coœ, ma³a.}
-{1013}{}{[Dex uœmiecha siê.] Lala, jak leci?}
-{1014}{}{Potrzebujesz czegoœ? Czegokolwiek? [Dex siê szczerzy.]}
-{1015}{}{Co Dex mo¿e dla ciebie zrobiæ, ma³a?}
-{1100}{}{Mo¿emy siê toczyæ dalej?}
-{1101}{}{Ruszamy st¹d, czy co?}
-{1102}{}{Gotowi? A¿ mnie nosi ¿eby st¹d iœæ. Zw³aszcza, ¿e ju¿ kogoœ szukaj¹.}
-{1103}{}{Jednak nie mo¿esz siê beze mnie obyæ co?}
-{1104}{}{Idziemy? Nie mam w zwyczaju czekaæ na innych.}
-{1105}{}{Daj spokój. By³em zamro¿ony przez ponad sto piêædziesi¹t lat. Chcê siê rozruszaæ.}
-{1106}{}{Zaczynam siê niecierpliwiæ.}
-{1110}{}{Mo¿esz mnie ju¿ ze sob¹ zabraæ?}
+{870}{}{Czy o nich wiem? Cholera, zabiÅ‚em mojÄ… pierwszÄ… dziwkÄ™ niedaleko Krypty w Chicago. Co to byÅ‚y za dni... [Przerywa i patrzy na ciebie z rozbawieniem.] MaÅ‚a, ty to naprawdÄ™ Å‚yknÄ™Å‚aÅ›, co?}
+{871}{}{MÃ“W DALEJ O KRYPTACH!}
+{872}{}{CÃ³Å¼, powinnam szukaÄ‡ Krypty dla mojego plemienia. Kiedy juÅ¼ jÄ… znajdÄ™ mam stamtÄ…d wziÄ…Ä‡ G.E.C.K., ktÃ³ry ma uratowaÄ‡ mojÄ… wioskÄ™. Cokolwiek co moÅ¼esz mi powiedzieÄ‡ o Kryptach moÅ¼e mi cholernie uÅ‚atwiÄ‡ zadanie.}
+{873}{}{CÃ³Å¼, widzisz, zostaÅ‚am wybrana przez mÃ³j lud abym odnalazÅ‚a KryptÄ™. Wielokrotnie ryzykowaÅ‚am Å¼ycie Å¼eby odnaleÅºÄ‡ te przeklÄ™tÄ… ÅšwiÄ™tÄ… KryptÄ™ i w koÅ„cu mi siÄ™ to udaÅ‚o. Jestem ciekawa co ty o nich moÅ¼esz wiedzieÄ‡.}
+{880}{}{Wiesz co ci powiem, maÅ‚a. Potrzebujesz pomocy przy szukaniu Kryty, a ja potrzebuje kogoÅ› kto pokaÅ¼e mi co i jak w tym szalonym Å›wiecie. Co ty na to... wspÃ³lniczko?}
+{881}{}{Cholera, nie musisz mnie przekonywaÄ‡. Z chÄ™ciÄ… ciÄ™ z sobÄ… zabiorÄ™, tylko po to Å¼eby zobaczyÄ‡ twoje rÄ™kodzieÅ‚o osobiÅ›cie.}
+{882}{}{No nie wiem, Dex. Powiedzmy, Å¼e ciÄ™ z sobÄ… zabiorÄ™ i dotrzemy do wzglÄ™dnego bezpieczeÅ„stwa osiedla. Na miejscu, jakÄ… mam pewnoÅ›Ä‡, Å¼e nie sprÃ³bujesz mi poderÅ¼nÄ…Ä‡ gardÅ‚a przy pierwszej nadarzajÄ…cej siÄ™ sposobnoÅ›ci?}
+{883}{}{A ja na to, umowa stoi... wspÃ³lniku.}
+{884}{}{CÃ³Å¼, sÄ…dzÄ™, Å¼e twoja wiedza o staroÅ¼ytnych moÅ¼e mi siÄ™ przydaÄ‡... myÅ›lÄ™, Å¼e umowa stoi.}
+{885}{}{NaprawdÄ™ nie mam czasu Å¼eby ci "pokazaÄ‡ co i jak". Jestem pewna, Å¼e sam sobie Å›wietnie poradzisz, "maÅ‚y".}
+{890}{}{Na pierwszy rzut oka widaÄ‡, Å¼e sama nie jesteÅ› Å›wiÄ™ta, wiec mogÄ™ zapytaÄ‡ o to samo. Ale Å¼eby odpowiedzieÄ‡ na twoje pytanie, nie zabijecie ciÄ™ bo to mnie kurwa nie urzÄ…dza. BÄ™dÄ™ z tobÄ… szczery, }
+{891}{}{, gÃ³wno mnie obchodzÄ… inni, dla mnie waÅ¼ny jestem tylko JA. JeÅ¼eli Å›wiat jest tak popieprzony jak mÃ³wisz, to trzymajÄ…c siÄ™ ciebie mam najwiÄ™kszÄ… szansÄ™ przeÅ¼ycia. Nic prostszego niÅ¼ to, prawda?}
+{892}{}{SÅ‚usznie. Ruszajmy.}
+{893}{}{Ale z ciebie przygÅ‚up. W kulki sobie z tobÄ… lecÄ™ Dex. Nigdy nie zamierzaÅ‚am ciÄ™ z sobÄ… zabieraÄ‡. Po prostu chciaÅ‚am siÄ™ trochÄ™ zabawiÄ‡ zanim rozwalÄ™ ci Å‚eb.}
+{900}{}{Zaraz do tego przejdziemy. Ale moÅ¼e najpierw, opowiesz mi co siÄ™ tu do cholery staÅ‚o, odkÄ…d wsadzili mnie do lodu. Mam na myÅ›li, no wiesz, to miejsce zeszÅ‚o na psy, a ty wyglÄ…dasz jakbyÅ› wyszÅ‚a z jakiejÅ› przygodowej opowieÅ›ci SF.}
+{1000}{}{Co sÅ‚ychaÄ‡?}
+{1001}{}{[Dex podnosi na ciebie brew.] ZarÅ¼niemy coÅ›?}
+{1002}{}{MÃ³w do mnie.}
+{1003}{}{[Dex uÅ›miecha siÄ™.] Jak leci, koleÅ›?}
+{1004}{}{Potrzebujesz czegoÅ›?}
+{1005}{}{Co Dex moÅ¼e dla ciebie zabiÄ‡ yyy... tzn. zrobiÄ‡?}
+{1010}{}{Co sÅ‚ychaÄ‡?}
+{1011}{}{[Dex podnosi na ciebie brew.] ZarÅ¼niemy coÅ›, maÅ‚a?}
+{1012}{}{Powiedz coÅ›, maÅ‚a.}
+{1013}{}{[Dex uÅ›miecha siÄ™.] Lala, jak leci?}
+{1014}{}{Potrzebujesz czegoÅ›? Czegokolwiek? [Dex siÄ™ szczerzy.]}
+{1015}{}{Co Dex moÅ¼e dla ciebie zrobiÄ‡, maÅ‚a?}
+{1100}{}{MoÅ¼emy siÄ™ toczyÄ‡ dalej?}
+{1101}{}{Ruszamy stÄ…d, czy co?}
+{1102}{}{Gotowi? AÅ¼ mnie nosi Å¼eby stÄ…d iÅ›Ä‡. ZwÅ‚aszcza, Å¼e juÅ¼ kogoÅ› szukajÄ….}
+{1103}{}{Jednak nie moÅ¼esz siÄ™ beze mnie obyÄ‡ co?}
+{1104}{}{Idziemy? Nie mam w zwyczaju czekaÄ‡ na innych.}
+{1105}{}{Daj spokÃ³j. ByÅ‚em zamroÅ¼ony przez ponad sto piÄ™Ä‡dziesiÄ…t lat. ChcÄ™ siÄ™ rozruszaÄ‡.}
+{1106}{}{Zaczynam siÄ™ niecierpliwiÄ‡.}
+{1110}{}{MoÅ¼esz mnie juÅ¼ ze sobÄ… zabraÄ‡?}
 {1111}{}{Ruszajmy.}
 {1112}{}{Nie, jeszcze nie.}
-{1200}{}{Wiêc, co mo¿esz mi powiedzieæ o Kryptach?}
-{1201}{}{A teraz, pamiêtasz coœ o Kryptach?}
-{1202}{}{Czy jest coœ u¿ytecznego co mo¿esz mi powiedzieæ o czasach przed Wielk¹ Cisz¹?}
-{1210}{}{Dobra, pomyœlmy... Uch. Wiesz co? Mój umys³ jest ci¹gle zamglony co do szczegó³ów. Musisz mnie zapytaæ póŸniej.}
+{1200}{}{WiÄ™c, co moÅ¼esz mi powiedzieÄ‡ o Kryptach?}
+{1201}{}{A teraz, pamiÄ™tasz coÅ› o Kryptach?}
+{1202}{}{Czy jest coÅ› uÅ¼ytecznego co moÅ¼esz mi powiedzieÄ‡ o czasach przed WielkÄ… CiszÄ…?}
+{1210}{}{Dobra, pomyÅ›lmy... Uch. Wiesz co? MÃ³j umysÅ‚ jest ciÄ…gle zamglony co do szczegÃ³Å‚Ã³w. Musisz mnie zapytaÄ‡ pÃ³Åºniej.}
 {1211}{}{Hmm. No dobra.}
 {1220}{}{Krypty... Krypty... Nie, jeszcze nie.}
 {1221}{}{Hmm. No dobra.}
-{1230}{}{Tak, w³aœciwie, pamiêtam, ¿e... Czekaj, niewa¿ne, wylecia³o mi z g³owy.}
+{1230}{}{Tak, wÅ‚aÅ›ciwie, pamiÄ™tam, Å¼e... Czekaj, niewaÅ¼ne, wyleciaÅ‚o mi z gÅ‚owy.}
 {1231}{}{Hmm. No dobra.}
-{1240}{}{Dobra, mieszka³em ko³o Krypty w Chicago. Czy to mo¿e Ci w czymœ pomóc?}
-{1241}{}{Wiesz czy by³ tam G.E.C.K.?}
-{1242}{}{Jestem pewny, ¿e tak. W³aœciwie to chyba wszystkie go mia³y.}
-{1243}{}{W porz¹dku, wreszcie cos mamy. Mo¿esz mi powiedzieæ gdzie jest ta Krypta?}
-{1244}{}{¯aden problem. Jakieœ 3219 kilometrów w tamt¹ stronê. [Dex pokazuje na wschód.]}
-{1245}{}{Aha, no dobra. Niewa¿ne.}
-{1250}{}{By³ sobie taki facet, wspanialszy od innych, nazywaliœmy go, "Król". By³ przystojny o niepowtarzalnym stylu, wspania³ej fryzurze i g³osie ze z³ota. Zwyk³ym ruchem miednicy móg³ zap³odniæ ka¿d¹ kobietê w zasiêgu wzroku. By³ czczony jak bóg przez ludzi na ca³ym œwiecie. On by³ moim ojcem.}
-{1251}{}{Interesuj¹ce...}
-{1260}{}{Byli te¿ nieœmiertelni, którzy ¿yli pomiêdzy zwyk³ymi ludŸmi. Musi walczyæ ze sob¹ na miecze, mo¿e zostaæ tylko jeden ¿eby siêgn¹æ po "Nagrodê".}
-{1261}{}{Czekaj. Skoro byli nieœmiertelni, to jak moli siê nawzajem zabijaæ?}
-{1262}{}{Mo¿na ich by³o zabiæ odcinaj¹c im g³owê. Kiedy jeden nieœmiertelny pozbawi³ g³owy drugiego, zaczyna³o siê lokalne trzêsienie ziemi i wygrany przejmowa³ moce zabitego przeciwnika.}
-{1263}{}{Co dok³adnie rozumiesz przez "moce"?}
-{1264}{}{Yyy, moce do walki? Fizyczn¹ si³ê? Tego nie wiem, to by³o niejasne.}
-{1265}{}{Interesuj¹ce...}
-{1270}{}{By³y te¿ ogromne jaszczurki, niektóre wiêksze od budynków, na których jeŸdzili ludzie. Nazywaliœmy je dinozaurami i uwa¿a³o siê je za najlepszych przyjació³ cz³owieka.}
-{1271}{}{£a³, a ty mia³eœ takiego?}
-{1272}{}{Oczywiœcie. JeŸdzi³em na Tyranozaurze, najwredniejszym z najwiêkszych jaszczurów. Tylko, ¿e mój by³ bardziej zajebisty od innych bo mia³ skrzyd³a. W³aœciwie to by³ smokiem.}
-{1273}{}{Interesuj¹ce...}
-{1280}{}{W roku 2011, nast¹pi³o Przebudzenie i d³ugo nieobecne magiczne istoty, jak Orki, Elfy, Trole i Krasnoludy powróci³y, razem z magi¹ na ziemiê. Magia i technologia zderzy³y siê w mrocznym œwiecie wojen korporacyjnych prowadzonych w cieniu przeludnionych metropolii.}
-{1281}{}{£a³, co siê sta³o z tymi magicznymi istotami?}
-{1282}{}{Myœlê, ¿e zginê³y kiedy spad³y bomby. Chocia¿ wygl¹da na to, ¿e w okolicy zosta³o trochê Krasnoludów, Troli i Zombich.}
-{1283}{}{Interesuj¹ce...}
-{1290}{}{By³a te¿ jedna gigantyczna jaszczurka nazywana God¿ill¹. God¿illa na zmianê terroryzowa³a Japoniê i ratowa³a j¹ przed kosmicznymi najeŸdŸcami. By³a jeszcze jedna gigantyczna jaszczurka nazywana Tarrasque. Myœlê, ¿e by³y kuzynkami.}
-{1291}{}{£a³, i co siê z nimi sta³o?}
-{1292}{}{God¿illa zosta³a zabita przez Ferris Bueller. A do walki z Tarrasque, wys³aliœmy olbrzymiego robota. Robot uderzy³ Tarrasque tak mocno, ¿e rozpad³ siê na tysi¹ce ma³ych Tarrasque, które rozproszy³y siê po ca³ej Kaliforni.}
-{1293}{}{Interesuj¹ce...}
-{1300}{}{W tamtych czasach ziemia by³a pe³na gor¹cych laseczek, a ja pobi³em œwiatowy rekord partnerek seksualnych.}
-{1301}{}{Rozumiem. Wiesz co, Dex, niektóre z tych rzeczy o których mówisz s¹ trochê... naci¹gane. Mam takie dziwne wra¿enie, ¿e k³amiesz.}
-{1302}{}{Hej, a co mo¿e to ty jesteœ z tamtych czasów, co? Nie, to ja wtedy ¿y³em. Wiêc ja tu jestem ekspertem w tych sprawach? Zaufaj mi to wszystko prawda. Ale wiesz co, skoro nie zamierzasz mi wierzyæ to nic ci ju¿ wiêcej nie opowiem.}
-{1303}{}{Co? Szkoda, do tej pory twoje opowieœci by³y taaakie pomocne.}
+{1240}{}{Dobra, mieszkaÅ‚em koÅ‚o Krypty w Chicago. Czy to moÅ¼e Ci w czymÅ› pomÃ³c?}
+{1241}{}{Wiesz czy byÅ‚ tam G.E.C.K.?}
+{1242}{}{Jestem pewny, Å¼e tak. WÅ‚aÅ›ciwie to chyba wszystkie go miaÅ‚y.}
+{1243}{}{W porzÄ…dku, wreszcie cos mamy. MoÅ¼esz mi powiedzieÄ‡ gdzie jest ta Krypta?}
+{1244}{}{Å»aden problem. JakieÅ› 3219 kilometrÃ³w w tamtÄ… stronÄ™. [Dex pokazuje na wschÃ³d.]}
+{1245}{}{Aha, no dobra. NiewaÅ¼ne.}
+{1250}{}{ByÅ‚ sobie taki facet, wspanialszy od innych, nazywaliÅ›my go, "KrÃ³l". ByÅ‚ przystojny o niepowtarzalnym stylu, wspaniaÅ‚ej fryzurze i gÅ‚osie ze zÅ‚ota. ZwykÅ‚ym ruchem miednicy mÃ³gÅ‚ zapÅ‚odniÄ‡ kaÅ¼dÄ… kobietÄ™ w zasiÄ™gu wzroku. ByÅ‚ czczony jak bÃ³g przez ludzi na caÅ‚ym Å›wiecie. On byÅ‚ moim ojcem.}
+{1251}{}{InteresujÄ…ce...}
+{1260}{}{Byli teÅ¼ nieÅ›miertelni, ktÃ³rzy Å¼yli pomiÄ™dzy zwykÅ‚ymi ludÅºmi. Musi walczyÄ‡ ze sobÄ… na miecze, moÅ¼e zostaÄ‡ tylko jeden Å¼eby siÄ™gnÄ…Ä‡ po "NagrodÄ™".}
+{1261}{}{Czekaj. Skoro byli nieÅ›miertelni, to jak moli siÄ™ nawzajem zabijaÄ‡?}
+{1262}{}{MoÅ¼na ich byÅ‚o zabiÄ‡ odcinajÄ…c im gÅ‚owÄ™. Kiedy jeden nieÅ›miertelny pozbawiÅ‚ gÅ‚owy drugiego, zaczynaÅ‚o siÄ™ lokalne trzÄ™sienie ziemi i wygrany przejmowaÅ‚ moce zabitego przeciwnika.}
+{1263}{}{Co dokÅ‚adnie rozumiesz przez "moce"?}
+{1264}{}{Yyy, moce do walki? FizycznÄ… siÅ‚Ä™? Tego nie wiem, to byÅ‚o niejasne.}
+{1265}{}{InteresujÄ…ce...}
+{1270}{}{ByÅ‚y teÅ¼ ogromne jaszczurki, niektÃ³re wiÄ™ksze od budynkÃ³w, na ktÃ³rych jeÅºdzili ludzie. NazywaliÅ›my je dinozaurami i uwaÅ¼aÅ‚o siÄ™ je za najlepszych przyjaciÃ³Å‚ czÅ‚owieka.}
+{1271}{}{ÅaÅ‚, a ty miaÅ‚eÅ› takiego?}
+{1272}{}{OczywiÅ›cie. JeÅºdziÅ‚em na Tyranozaurze, najwredniejszym z najwiÄ™kszych jaszczurÃ³w. Tylko, Å¼e mÃ³j byÅ‚ bardziej zajebisty od innych bo miaÅ‚ skrzydÅ‚a. WÅ‚aÅ›ciwie to byÅ‚ smokiem.}
+{1273}{}{InteresujÄ…ce...}
+{1280}{}{W roku 2011, nastÄ…piÅ‚o Przebudzenie i dÅ‚ugo nieobecne magiczne istoty, jak Orki, Elfy, Trole i Krasnoludy powrÃ³ciÅ‚y, razem z magiÄ… na ziemiÄ™. Magia i technologia zderzyÅ‚y siÄ™ w mrocznym Å›wiecie wojen korporacyjnych prowadzonych w cieniu przeludnionych metropolii.}
+{1281}{}{ÅaÅ‚, co siÄ™ staÅ‚o z tymi magicznymi istotami?}
+{1282}{}{MyÅ›lÄ™, Å¼e zginÄ™Å‚y kiedy spadÅ‚y bomby. ChociaÅ¼ wyglÄ…da na to, Å¼e w okolicy zostaÅ‚o trochÄ™ KrasnoludÃ³w, Troli i Zombich.}
+{1283}{}{InteresujÄ…ce...}
+{1290}{}{ByÅ‚a teÅ¼ jedna gigantyczna jaszczurka nazywana GodÅ¼illÄ…. GodÅ¼illa na zmianÄ™ terroryzowaÅ‚a JaponiÄ™ i ratowaÅ‚a jÄ… przed kosmicznymi najeÅºdÅºcami. ByÅ‚a jeszcze jedna gigantyczna jaszczurka nazywana Tarrasque. MyÅ›lÄ™, Å¼e byÅ‚y kuzynkami.}
+{1291}{}{ÅaÅ‚, i co siÄ™ z nimi staÅ‚o?}
+{1292}{}{GodÅ¼illa zostaÅ‚a zabita przez Ferris Bueller. A do walki z Tarrasque, wysÅ‚aliÅ›my olbrzymiego robota. Robot uderzyÅ‚ Tarrasque tak mocno, Å¼e rozpadÅ‚ siÄ™ na tysiÄ…ce maÅ‚ych Tarrasque, ktÃ³re rozproszyÅ‚y siÄ™ po caÅ‚ej Kaliforni.}
+{1293}{}{InteresujÄ…ce...}
+{1300}{}{W tamtych czasach ziemia byÅ‚a peÅ‚na gorÄ…cych laseczek, a ja pobiÅ‚em Å›wiatowy rekord partnerek seksualnych.}
+{1301}{}{Rozumiem. Wiesz co, Dex, niektÃ³re z tych rzeczy o ktÃ³rych mÃ³wisz sÄ… trochÄ™... naciÄ…gane. Mam takie dziwne wraÅ¼enie, Å¼e kÅ‚amiesz.}
+{1302}{}{Hej, a co moÅ¼e to ty jesteÅ› z tamtych czasÃ³w, co? Nie, to ja wtedy Å¼yÅ‚em. WiÄ™c ja tu jestem ekspertem w tych sprawach? Zaufaj mi to wszystko prawda. Ale wiesz co, skoro nie zamierzasz mi wierzyÄ‡ to nic ci juÅ¼ wiÄ™cej nie opowiem.}
+{1303}{}{Co? Szkoda, do tej pory twoje opowieÅ›ci byÅ‚y taaakie pomocne.}
 {1400}{}{Po prostu mi powiedz gdzie mnie chcesz.}
-{1401}{}{Po prostu mi powiedz gdzie mnie chcesz, ma³a.}
-{1402}{}{¯aden problem. Nie chcia³bym nikogo stresowaæ. [Dex szczerzy siê.]}
-{1403}{}{Pewnie. Skoro uwa¿asz, ¿e musisz mnie mieæ na oku, mi to nie przeszkadza.}
-{1404}{}{Pewnie. To zrozumia³e, ¿e ciê¿ko siê przy mnie skoncentrowaæ. [Dex szczerzy siê.]}
+{1401}{}{Po prostu mi powiedz gdzie mnie chcesz, maÅ‚a.}
+{1402}{}{Å»aden problem. Nie chciaÅ‚bym nikogo stresowaÄ‡. [Dex szczerzy siÄ™.]}
+{1403}{}{Pewnie. Skoro uwaÅ¼asz, Å¼e musisz mnie mieÄ‡ na oku, mi to nie przeszkadza.}
+{1404}{}{Pewnie. To zrozumiaÅ‚e, Å¼e ciÄ™Å¼ko siÄ™ przy mnie skoncentrowaÄ‡. [Dex szczerzy siÄ™.]}
 {1405}{}{[Dex podnosi na ciebie brew i mruga do ciebie.]}
 {1406}{}{Nie ma sprawy.}
-{1500}{}{[Dex uœmiecha siê z³owieszczo.] Co? Nie ufasz mi, kiedy jestem uzbrojony? [Dex œmieje siê.] Jasna sprawa, skoro ma ciê to uspokoiæ.}
-{1600}{}{Yyy, pewnie. Ale ¿eby by³o jasne, pamiêtasz, ¿e wolê laseczki... prawda?}
-{1601}{}{W porz¹siu. [Dex zdejmuje zbroje i zaczyna siê rozbieraæ z ubrania. Zatrzymuje siê kiedy zauwa¿a twoje spojrzenie.] Hej, lala wysy³asz mi mieszane sygna³y. Dex nie lubi kiedy siê z nim pogrywa. Tylko zbroja, dobra.}
-{1700}{}{Có¿, potrafiê czyniæ cuda z no¿em. To jak sztuka. Jest coœ wyj¹tkowego w sposobie w jaki ostrze tnie cia³o, wiesz co mam na myœli?}
-{1701}{}{Ta... jasne. Jest jeszcze coœ czym potrafisz siê pos³ugiwaæ? I tym razem odpowiadaj¹c nie hamuj siê przed byciem mniej upiornym.}
-{1702}{}{Dobra, mój Wuj by³ jednym z tych twardog³owych wojskowych. Nauczy³ mnie pos³ugiwaæ siê pistoletami i pistoletami maszynowymi, a nawet mia³em okazje pobawiæ siê dzia³aj¹cymi prototypami broni energetycznej. Myœla³, ¿e pójdê w jego œlady i zostanê marionetk¹ Wujka Sama, ale ja, hmm... no có¿ powiedzmy, ¿e poszed³em inn¹ drog¹.}
-{1703}{}{Tak ju¿ lepiej. Coœ jeszcze?}
-{1704}{}{By³em znany z tego, ¿e st³uk³em parê ty³ków starymi dobrymi kastetami. Kiedy by³em nastolatkiem, próbowa³em swoich si³ w Karate przez jakiœ czas, ale nie mog³em znieœæ tych g³odnych kawa³ków o byciu bardziej zdyscyplinowanym, wiêc powiedzia³em im ¿eby siê odpieprzyli. Chcesz wiedzieæ coœ jeszcze?}
-{1705}{}{Powinno wystarczyæ. Dziêki.}
+{1500}{}{[Dex uÅ›miecha siÄ™ zÅ‚owieszczo.] Co? Nie ufasz mi, kiedy jestem uzbrojony? [Dex Å›mieje siÄ™.] Jasna sprawa, skoro ma ciÄ™ to uspokoiÄ‡.}
+{1600}{}{Yyy, pewnie. Ale Å¼eby byÅ‚o jasne, pamiÄ™tasz, Å¼e wolÄ™ laseczki... prawda?}
+{1601}{}{W porzÄ…siu. [Dex zdejmuje zbroje i zaczyna siÄ™ rozbieraÄ‡ z ubrania. Zatrzymuje siÄ™ kiedy zauwaÅ¼a twoje spojrzenie.] Hej, lala wysyÅ‚asz mi mieszane sygnaÅ‚y. Dex nie lubi kiedy siÄ™ z nim pogrywa. Tylko zbroja, dobra.}
+{1700}{}{CÃ³Å¼, potrafiÄ™ czyniÄ‡ cuda z noÅ¼em. To jak sztuka. Jest coÅ› wyjÄ…tkowego w sposobie w jaki ostrze tnie ciaÅ‚o, wiesz co mam na myÅ›li?}
+{1701}{}{Ta... jasne. Jest jeszcze coÅ› czym potrafisz siÄ™ posÅ‚ugiwaÄ‡? I tym razem odpowiadajÄ…c nie hamuj siÄ™ przed byciem mniej upiornym.}
+{1702}{}{Dobra, mÃ³j Wuj byÅ‚ jednym z tych twardogÅ‚owych wojskowych. NauczyÅ‚ mnie posÅ‚ugiwaÄ‡ siÄ™ pistoletami i pistoletami maszynowymi, a nawet miaÅ‚em okazje pobawiÄ‡ siÄ™ dziaÅ‚ajÄ…cymi prototypami broni energetycznej. MyÅ›laÅ‚, Å¼e pÃ³jdÄ™ w jego Å›lady i zostanÄ™ marionetkÄ… Wujka Sama, ale ja, hmm... no cÃ³Å¼ powiedzmy, Å¼e poszedÅ‚em innÄ… drogÄ….}
+{1703}{}{Tak juÅ¼ lepiej. CoÅ› jeszcze?}
+{1704}{}{ByÅ‚em znany z tego, Å¼e stÅ‚ukÅ‚em parÄ™ tyÅ‚kÃ³w starymi dobrymi kastetami. Kiedy byÅ‚em nastolatkiem, prÃ³bowaÅ‚em swoich siÅ‚ w Karate przez jakiÅ› czas, ale nie mogÅ‚em znieÅ›Ä‡ tych gÅ‚odnych kawaÅ‚kÃ³w o byciu bardziej zdyscyplinowanym, wiÄ™c powiedziaÅ‚em im Å¼eby siÄ™ odpieprzyli. Chcesz wiedzieÄ‡ coÅ› jeszcze?}
+{1705}{}{Powinno wystarczyÄ‡. DziÄ™ki.}
 {1800}{}{Dobra, jestem gotowy do drogi.}
-{1801}{}{Bywa³o lepiej, ale sobie poradzê.}
-{1802}{}{Nie czujê siê za dobrze.}
-{1803}{}{Chyba Król mnie wzywa. Widzê œwiat³o...}
-{1900}{}{¯aden problem. Ale pamiêtaj beze mnie nie jesteœ ju¿ taki fajny. Tak tylko mówiê...}
-{1901}{}{Jasne, do zobaczenia póŸniej.}
-{1902}{}{Jasne, poczekam. Ale jeœli nie wrócisz, to zacznê ciê szukaæ, a kiedy ciê znajdê to nie bêdzie przyjemne.}
-{1903}{}{W porz¹dku, przynajmniej dopóki nie sp³awiasz mnie ¿eby zrobiæ miejsce dla jakiegoœ dupka. Bo obiecuje ci jestem najlepszy w ka¿dy wyobra¿alny sposób.}
+{1801}{}{BywaÅ‚o lepiej, ale sobie poradzÄ™.}
+{1802}{}{Nie czujÄ™ siÄ™ za dobrze.}
+{1803}{}{Chyba KrÃ³l mnie wzywa. WidzÄ™ Å›wiatÅ‚o...}
+{1900}{}{Å»aden problem. Ale pamiÄ™taj beze mnie nie jesteÅ› juÅ¼ taki fajny. Tak tylko mÃ³wiÄ™...}
+{1901}{}{Jasne, do zobaczenia pÃ³Åºniej.}
+{1902}{}{Jasne, poczekam. Ale jeÅ›li nie wrÃ³cisz, to zacznÄ™ ciÄ™ szukaÄ‡, a kiedy ciÄ™ znajdÄ™ to nie bÄ™dzie przyjemne.}
+{1903}{}{W porzÄ…dku, przynajmniej dopÃ³ki nie spÅ‚awiasz mnie Å¼eby zrobiÄ‡ miejsce dla jakiegoÅ› dupka. Bo obiecuje ci jestem najlepszy w kaÅ¼dy wyobraÅ¼alny sposÃ³b.}
 {1904}{}{Nie ma sprawy.}
-{1905}{}{¯aden problem, ma³a.}
-{1906}{}{W porz¹dku, przynajmniej dopóki nie sp³awiasz mnie ¿eby zrobiæ miejsce dla jakiegoœ dupka. Bo obiecuje ci jestem najlepszy w ka¿dy wyobra¿alny sposób.}
-{1907}{}{Robi ci siê przy mnie gor¹co i to ci przeszkadza, tak? Rozumiem.}
-{2000}{}{Mój sprzêt, co z nim?}
-{2001}{}{Patrz, wiem, ¿e by³em w lodzie bardzo d³ugo, ale wierz mi, WSZYSTKO dzia³a jak nale¿y. Jak chcesz, mogê ci to udowodniæ tu i teraz. [Dex urywa kiedy zauwa¿a twój wzrok.] A, rozumiem chodzi ci o *inny* sprzêt. Co z nim?}
-{2010}{}{Trochê przy tobie t³oczno. Daj mi znaæ jak siê to zmieni.}
-{2020}{}{Za cholerê nie bêdê z tob¹ podró¿owa³. Jaka morda, brzydka, ¿e ja pierdolê.}
-{2030}{}{Toczmy siê dalej.}
-{2031}{}{Najwy¿szy czas, ruszajmy.}
-{3000}{}{Dobra, opowiedz mi swoj¹ historie?}
-{3001}{}{Co, chcesz us³yszeæ o mim ¿yciu? S³uchaj, wiem, ¿e jestem fascynuj¹cy, ale nie mam ochoty staæ tu ca³y dzieñ i mówiæ o sobie. Zaschnie mi w ustach, a tu nie ma za du¿o wody, no wiesz sytuacja raczej nie do pozazdroszczenia. Ale chyba mogê ci to streœciæ jeœli ciê to tak bardzo interesuje... W³aœciwie, to lubiê mówiæ o sobie. Chcesz streszczenie czy pe³n¹ wersjê ze szczegó³ami?}
+{1905}{}{Å»aden problem, maÅ‚a.}
+{1906}{}{W porzÄ…dku, przynajmniej dopÃ³ki nie spÅ‚awiasz mnie Å¼eby zrobiÄ‡ miejsce dla jakiegoÅ› dupka. Bo obiecuje ci jestem najlepszy w kaÅ¼dy wyobraÅ¼alny sposÃ³b.}
+{1907}{}{Robi ci siÄ™ przy mnie gorÄ…co i to ci przeszkadza, tak? Rozumiem.}
+{2000}{}{MÃ³j sprzÄ™t, co z nim?}
+{2001}{}{Patrz, wiem, Å¼e byÅ‚em w lodzie bardzo dÅ‚ugo, ale wierz mi, WSZYSTKO dziaÅ‚a jak naleÅ¼y. Jak chcesz, mogÄ™ ci to udowodniÄ‡ tu i teraz. [Dex urywa kiedy zauwaÅ¼a twÃ³j wzrok.] A, rozumiem chodzi ci o *inny* sprzÄ™t. Co z nim?}
+{2010}{}{TrochÄ™ przy tobie tÅ‚oczno. Daj mi znaÄ‡ jak siÄ™ to zmieni.}
+{2020}{}{Za cholerÄ™ nie bÄ™dÄ™ z tobÄ… podrÃ³Å¼owaÅ‚. Jaka morda, brzydka, Å¼e ja pierdolÄ™.}
+{2030}{}{Toczmy siÄ™ dalej.}
+{2031}{}{NajwyÅ¼szy czas, ruszajmy.}
+{3000}{}{Dobra, opowiedz mi swojÄ… historie?}
+{3001}{}{Co, chcesz usÅ‚yszeÄ‡ o mim Å¼yciu? SÅ‚uchaj, wiem, Å¼e jestem fascynujÄ…cy, ale nie mam ochoty staÄ‡ tu caÅ‚y dzieÅ„ i mÃ³wiÄ‡ o sobie. Zaschnie mi w ustach, a tu nie ma za duÅ¼o wody, no wiesz sytuacja raczej nie do pozazdroszczenia. Ale chyba mogÄ™ ci to streÅ›ciÄ‡ jeÅ›li ciÄ™ to tak bardzo interesuje... WÅ‚aÅ›ciwie, to lubiÄ™ mÃ³wiÄ‡ o sobie. Chcesz streszczenie czy peÅ‚nÄ… wersjÄ™ ze szczegÃ³Å‚ami?}
 {3002}{}{Streszczenie.}
-{3003}{}{Dawaj ca³¹, ze szczegó³ami.}
-{3004}{}{Nie wa¿ne, przesta³o mnie to interesowaæ.}
-{3010}{}{Dobra, w³aœciwie to od ma³ego lubi³em zabijaæ ró¿ne rzeczy. Móg³bym mówiæ o moim dzieciñstwie i moich gównianych rodzicach, analizowaæ dlaczego tak to lubiê, ale nie potrzebuje wymówek. Po prostu robiê to bo potrafiê i jest to dla mnie œwietna zabawa. Jeszcze zanim skoñczy³em szesnaœcie lat dni spêdza³em jako znany ³amacz serc, a noce jako rozpruwacz m³odych pracuj¹cych dziewcz¹t z Chicago.}
-{3011}{}{Aha. Mów dalej.}
-{3012}{}{Pewnego dnia przy³apa³em moj¹ dziewczynê robi¹c¹ ty³kiem co umia³a najlepiej z innym goœciem. Zat³uk³em oboje, podpali³em mieszkanie i uciek³em z Chicago. Nastêpne dziesiêæ lat spêdzi³em podró¿uj¹c po kraju, uwodz¹c i morduj¹c dziewczyny. W koñcu mnie z³apali, a mój proces zrobi³ ze mnie bardzo znan¹ osobê.}
+{3003}{}{Dawaj caÅ‚Ä…, ze szczegÃ³Å‚ami.}
+{3004}{}{Nie waÅ¼ne, przestaÅ‚o mnie to interesowaÄ‡.}
+{3010}{}{Dobra, wÅ‚aÅ›ciwie to od maÅ‚ego lubiÅ‚em zabijaÄ‡ rÃ³Å¼ne rzeczy. MÃ³gÅ‚bym mÃ³wiÄ‡ o moim dzieciÅ„stwie i moich gÃ³wnianych rodzicach, analizowaÄ‡ dlaczego tak to lubiÄ™, ale nie potrzebuje wymÃ³wek. Po prostu robiÄ™ to bo potrafiÄ™ i jest to dla mnie Å›wietna zabawa. Jeszcze zanim skoÅ„czyÅ‚em szesnaÅ›cie lat dni spÄ™dzaÅ‚em jako znany Å‚amacz serc, a noce jako rozpruwacz mÅ‚odych pracujÄ…cych dziewczÄ…t z Chicago.}
+{3011}{}{Aha. MÃ³w dalej.}
+{3012}{}{Pewnego dnia przyÅ‚apaÅ‚em mojÄ… dziewczynÄ™ robiÄ…cÄ… tyÅ‚kiem co umiaÅ‚a najlepiej z innym goÅ›ciem. ZatÅ‚ukÅ‚em oboje, podpaliÅ‚em mieszkanie i uciekÅ‚em z Chicago. NastÄ™pne dziesiÄ™Ä‡ lat spÄ™dziÅ‚em podrÃ³Å¼ujÄ…c po kraju, uwodzÄ…c i mordujÄ…c dziewczyny. W koÅ„cu mnie zÅ‚apali, a mÃ³j proces zrobiÅ‚ ze mnie bardzo znanÄ… osobÄ™.}
 {3013}{}{A potem?}
-{3014}{}{Potem jedna z moich nowych fanek, Alicja, pomog³a mi uciec. We dwójkê pojechaliœmy na trzy tygodniow¹ wycieczkê po kraju, morduj¹c dowoli, a¿ w koñcu zdjêto nas w strzelaninie. PóŸniej z jakiœ powodów, Ktoœ kaza³ mnie pozszywaæ i przeprowadziæ na mnie te wszystkie testy. I tak skoñczy³em w AOŒ, gdzie le¿a³em zamro¿ony.}
-{3015}{}{Dziêki za opowieœæ.}
-{3020}{}{Hmm zobaczmy... Moja mama by³a narkomank¹ i dziwk¹, a ojciec na³ogowym alkoholikiem. Na szczêœcie chocia¿ dziadka mia³em w porz¹dku jak na staruszka. Wprowadzi³ mnie w muzykê Króla. Niestety zabra³a go Nowa Plaga, kiedy mia³em siedem lat. Kiedy mia³em lat dziesiêæ, widzia³em z szafy jak mój ojciec katuje na œmieræ moj¹ matkê za to, ¿e zapomnia³a nakarmiæ naszego psa, Kapitana Robeenie.}
-{3021}{}{Nie zbyt mi³y pocz¹tek. Mów dalej.}
-{3022}{}{Suka powinna pamiêtaæ, ¿e psa trzeba nakarmiæ. Mów dalej.}
-{3023}{}{Ojca zabrali, a mnie wys³ali pod opiekê mojego wuja i ciotki. Wiesz, ju¿ by³em wtedy ma³ym czarcim pomiotem, a mój wujek, bêd¹cy wojskowym, myœla³, ¿e naprostuje mnie na têpi¹cego Czerwonych ¿o³nierza, jak swojego syna, którego straci³. Stara³ siê jak móg³, ale zemnie by³ uparty skurwysyn.}
-{3024}{}{Aha. Mów dalej.}
-{3025}{}{W ka¿dym razie, wiele razy siê przeprowadzaliœmy, dopiero kiedy poszed³em do szko³y œredniej osiedliœmy na sta³e w Chicago. To wtedy zacz¹³em wymykaæ siê noc¹ mordowaæ dziwki. Zabija³em ró¿ne rzeczy odk¹d pamiêtam, ale zabijanie zwierz¹t s¹siadów nie by³o nawet w po³owie tak zabawne, wiesz?}
+{3014}{}{Potem jedna z moich nowych fanek, Alicja, pomogÅ‚a mi uciec. We dwÃ³jkÄ™ pojechaliÅ›my na trzy tygodniowÄ… wycieczkÄ™ po kraju, mordujÄ…c dowoli, aÅ¼ w koÅ„cu zdjÄ™to nas w strzelaninie. PÃ³Åºniej z jakiÅ› powodÃ³w, KtoÅ› kazaÅ‚ mnie pozszywaÄ‡ i przeprowadziÄ‡ na mnie te wszystkie testy. I tak skoÅ„czyÅ‚em w AOÅš, gdzie leÅ¼aÅ‚em zamroÅ¼ony.}
+{3015}{}{DziÄ™ki za opowieÅ›Ä‡.}
+{3020}{}{Hmm zobaczmy... Moja mama byÅ‚a narkomankÄ… i dziwkÄ…, a ojciec naÅ‚ogowym alkoholikiem. Na szczÄ™Å›cie chociaÅ¼ dziadka miaÅ‚em w porzÄ…dku jak na staruszka. WprowadziÅ‚ mnie w muzykÄ™ KrÃ³la. Niestety zabraÅ‚a go Nowa Plaga, kiedy miaÅ‚em siedem lat. Kiedy miaÅ‚em lat dziesiÄ™Ä‡, widziaÅ‚em z szafy jak mÃ³j ojciec katuje na Å›mierÄ‡ mojÄ… matkÄ™ za to, Å¼e zapomniaÅ‚a nakarmiÄ‡ naszego psa, Kapitana Robeenie.}
+{3021}{}{Nie zbyt miÅ‚y poczÄ…tek. MÃ³w dalej.}
+{3022}{}{Suka powinna pamiÄ™taÄ‡, Å¼e psa trzeba nakarmiÄ‡. MÃ³w dalej.}
+{3023}{}{Ojca zabrali, a mnie wysÅ‚ali pod opiekÄ™ mojego wuja i ciotki. Wiesz, juÅ¼ byÅ‚em wtedy maÅ‚ym czarcim pomiotem, a mÃ³j wujek, bÄ™dÄ…cy wojskowym, myÅ›laÅ‚, Å¼e naprostuje mnie na tÄ™piÄ…cego Czerwonych Å¼oÅ‚nierza, jak swojego syna, ktÃ³rego straciÅ‚. StaraÅ‚ siÄ™ jak mÃ³gÅ‚, ale zemnie byÅ‚ uparty skurwysyn.}
+{3024}{}{Aha. MÃ³w dalej.}
+{3025}{}{W kaÅ¼dym razie, wiele razy siÄ™ przeprowadzaliÅ›my, dopiero kiedy poszedÅ‚em do szkoÅ‚y Å›redniej osiedliÅ›my na staÅ‚e w Chicago. To wtedy zaczÄ…Å‚em wymykaÄ‡ siÄ™ nocÄ… mordowaÄ‡ dziwki. ZabijaÅ‚em rÃ³Å¼ne rzeczy odkÄ…d pamiÄ™tam, ale zabijanie zwierzÄ…t sÄ…siadÃ³w nie byÅ‚o nawet w poÅ‚owie tak zabawne, wiesz?}
 {3026}{}{Jasne.}
-{3027}{}{Wiêc by³o ca³kiem s³odko, przez wiêkszoœæ czasu. To znaczy nienawidzi³em wuja i ciotki, ale za to w szkole by³em Panem Popularnym. Ka¿dy facet chcia³ byæ moim kumplem, a ka¿da panna by³a gotowa dla mnie roz³o¿yæ nogi. Za wyj¹tkiem jednej, Vicky. Musia³em siê naprawdê postaraæ. Zadziwiaj¹ce, wiem, ale w koñcu mi siê uda³o i zosta³a moj¹ dziewczyn¹.}
-{3028}{}{A jednoczeœnie przez ca³y ten czas noc¹ bawi³eœ siê w seryjnego mordercê?}
-{3029}{}{Naprawdê nie obchodz¹ mnie twoje szkolne mi³oœci. Zapomnij, mam doœæ twojej historyjki.}
-{3030}{}{Ta. [Uœmiecha siê.] Co to by³y za dni. Naprawdê by³em wtedy szczêœliwy, wiesz? Kiedy skoñczyliœmy szko³ê, Vicky i ja znaleŸliœmy sobie przytulne gniazdko i przez jakiœ czas by³o naprawdê super. Ale ta dziwka musia³a wszystko zepsuæ puszczaj¹c siê za moimi plecami.}
-{3031}{}{Jak œmia³a.}
-{3032}{}{Przy³apa³em j¹ w trakcie i coœ we mnie pêk³o. Zrobi³em siê naprawdê brutalny. Ponios³o mnie i by³em nieostro¿ny, nie by³o ju¿ jak tego zakamuflowaæ. Wiêc po tym jak z nimi skoñczy³em podpali³em mieszkanie i uciek³em z miasta. Du¿o podró¿owa³em, przelecia³em sporo panienek wiêkszoœæ z nich zostawiaj¹c martwych. Nie by³o tak Ÿle, wiesz? Zajê³o im to dziesiêæ lat, ale w koñcu d³ugie ramiê sprawiedliwoœci mnie dosiêg³o.}
+{3027}{}{WiÄ™c byÅ‚o caÅ‚kiem sÅ‚odko, przez wiÄ™kszoÅ›Ä‡ czasu. To znaczy nienawidziÅ‚em wuja i ciotki, ale za to w szkole byÅ‚em Panem Popularnym. KaÅ¼dy facet chciaÅ‚ byÄ‡ moim kumplem, a kaÅ¼da panna byÅ‚a gotowa dla mnie rozÅ‚oÅ¼yÄ‡ nogi. Za wyjÄ…tkiem jednej, Vicky. MusiaÅ‚em siÄ™ naprawdÄ™ postaraÄ‡. ZadziwiajÄ…ce, wiem, ale w koÅ„cu mi siÄ™ udaÅ‚o i zostaÅ‚a mojÄ… dziewczynÄ….}
+{3028}{}{A jednoczeÅ›nie przez caÅ‚y ten czas nocÄ… bawiÅ‚eÅ› siÄ™ w seryjnego mordercÄ™?}
+{3029}{}{NaprawdÄ™ nie obchodzÄ… mnie twoje szkolne miÅ‚oÅ›ci. Zapomnij, mam doÅ›Ä‡ twojej historyjki.}
+{3030}{}{Ta. [UÅ›miecha siÄ™.] Co to byÅ‚y za dni. NaprawdÄ™ byÅ‚em wtedy szczÄ™Å›liwy, wiesz? Kiedy skoÅ„czyliÅ›my szkoÅ‚Ä™, Vicky i ja znaleÅºliÅ›my sobie przytulne gniazdko i przez jakiÅ› czas byÅ‚o naprawdÄ™ super. Ale ta dziwka musiaÅ‚a wszystko zepsuÄ‡ puszczajÄ…c siÄ™ za moimi plecami.}
+{3031}{}{Jak Å›miaÅ‚a.}
+{3032}{}{PrzyÅ‚apaÅ‚em jÄ… w trakcie i coÅ› we mnie pÄ™kÅ‚o. ZrobiÅ‚em siÄ™ naprawdÄ™ brutalny. PoniosÅ‚o mnie i byÅ‚em nieostroÅ¼ny, nie byÅ‚o juÅ¼ jak tego zakamuflowaÄ‡. WiÄ™c po tym jak z nimi skoÅ„czyÅ‚em podpaliÅ‚em mieszkanie i uciekÅ‚em z miasta. DuÅ¼o podrÃ³Å¼owaÅ‚em, przeleciaÅ‚em sporo panienek wiÄ™kszoÅ›Ä‡ z nich zostawiajÄ…c martwych. Nie byÅ‚o tak Åºle, wiesz? ZajÄ™Å‚o im to dziesiÄ™Ä‡ lat, ale w koÅ„cu dÅ‚ugie ramiÄ™ sprawiedliwoÅ›ci mnie dosiÄ™gÅ‚o.}
 {3033}{}{Oho. I co dalej?}
-{3034}{}{Trafi³em pod s¹d, proces zamieni³ siê w medialn¹ farsê. Panienkom siê podoba³o bo niez³y ze mnie przystojniak, a wszystkim innym dlatego, ¿e by³a to niez³a odmiana od wiadomoœci o Nowej Pladze i polityce. Wiêc pomyœla³em, ¿e dam im niez³y pokaz.}
-{3035}{}{I co zrobi³eœ?}
-{3036}{}{Có¿ zdoby³em wówczas mnóstwo fanów, ale jedna by³a szczególna, prawdziwa laska, Alicja. Mówi³a, ¿e mnie kocha, i ¿e zrobi dla mnie wszystko. Wiêc w czasie procesu, pomog³a mi uciec. Plan mo¿e nie by³ idealny, ale miêliœmy wystarczaj¹co szczêœcia ¿eby siê uda³o. A potem wszystko oszala³o... Na pewno nic ci siê o nas nie obi³o o uszy?}
-{3037}{}{Na pewno, nie. Mów dalej.}
-{3038}{}{Nie nigdy i mam nadziejê, ¿e ju¿ o tym nie us³yszê. Zapomnij, nudzi mnie to.}
-{3039}{}{Teraz kiedy by³em z Alicj¹, ciê¿ko by³o porzuciæ stare nawyki uwodzenia i zarzynania kobiet. Zamiast tego zaczêliœmy razem zabijaæ ka¿dego kto siê nawin¹³. Nie wa¿ne jak m³oda czy stara by³a ofiara zabijaliœmy bez faworyzowania. Ale zabijaj¹c w ten sposób, bez umiaru byliœmy ³atwi do namierzenia. W trzy tygodnie zapêdzili nas w kozi róg. Zastrzelili mnie i Alicje, rozchlapali jej mózg po ulicy.}
+{3034}{}{TrafiÅ‚em pod sÄ…d, proces zamieniÅ‚ siÄ™ w medialnÄ… farsÄ™. Panienkom siÄ™ podobaÅ‚o bo niezÅ‚y ze mnie przystojniak, a wszystkim innym dlatego, Å¼e byÅ‚a to niezÅ‚a odmiana od wiadomoÅ›ci o Nowej Pladze i polityce. WiÄ™c pomyÅ›laÅ‚em, Å¼e dam im niezÅ‚y pokaz.}
+{3035}{}{I co zrobiÅ‚eÅ›?}
+{3036}{}{CÃ³Å¼ zdobyÅ‚em wÃ³wczas mnÃ³stwo fanÃ³w, ale jedna byÅ‚a szczegÃ³lna, prawdziwa laska, Alicja. MÃ³wiÅ‚a, Å¼e mnie kocha, i Å¼e zrobi dla mnie wszystko. WiÄ™c w czasie procesu, pomogÅ‚a mi uciec. Plan moÅ¼e nie byÅ‚ idealny, ale miÄ™liÅ›my wystarczajÄ…co szczÄ™Å›cia Å¼eby siÄ™ udaÅ‚o. A potem wszystko oszalaÅ‚o... Na pewno nic ci siÄ™ o nas nie obiÅ‚o o uszy?}
+{3037}{}{Na pewno, nie. MÃ³w dalej.}
+{3038}{}{Nie nigdy i mam nadziejÄ™, Å¼e juÅ¼ o tym nie usÅ‚yszÄ™. Zapomnij, nudzi mnie to.}
+{3039}{}{Teraz kiedy byÅ‚em z AlicjÄ…, ciÄ™Å¼ko byÅ‚o porzuciÄ‡ stare nawyki uwodzenia i zarzynania kobiet. Zamiast tego zaczÄ™liÅ›my razem zabijaÄ‡ kaÅ¼dego kto siÄ™ nawinÄ…Å‚. Nie waÅ¼ne jak mÅ‚oda czy stara byÅ‚a ofiara zabijaliÅ›my bez faworyzowania. Ale zabijajÄ…c w ten sposÃ³b, bez umiaru byliÅ›my Å‚atwi do namierzenia. W trzy tygodnie zapÄ™dzili nas w kozi rÃ³g. Zastrzelili mnie i Alicje, rozchlapali jej mÃ³zg po ulicy.}
 {3040}{}{Rozumiem. I co dalej?}
-{3041}{}{By³em pewny, ¿e umrê, ale wtedy wkroczy³ ten Goœciu i mnie zabra³. Wyleczyli mnie w stu procentach, a potem zaczêli testy, próbuj¹c siê dowiedzieæ co sprawi³o, ¿e taki by³em... W ka¿dym razie resztê znasz. No i zasch³o mi w gardle. Cholera, mia³em nadzieje, ¿e tego uniknê.}
-{3042}{}{Dziêki za opowieœæ.}
-{3100}{}{Jakieœ rady, jakie mo¿esz mi daæ?}
+{3041}{}{ByÅ‚em pewny, Å¼e umrÄ™, ale wtedy wkroczyÅ‚ ten GoÅ›ciu i mnie zabraÅ‚. Wyleczyli mnie w stu procentach, a potem zaczÄ™li testy, prÃ³bujÄ…c siÄ™ dowiedzieÄ‡ co sprawiÅ‚o, Å¼e taki byÅ‚em... W kaÅ¼dym razie resztÄ™ znasz. No i zaschÅ‚o mi w gardle. Cholera, miaÅ‚em nadzieje, Å¼e tego uniknÄ™.}
+{3042}{}{DziÄ™ki za opowieÅ›Ä‡.}
+{3100}{}{JakieÅ› rady, jakie moÅ¼esz mi daÄ‡?}
 {3101}{}{Rady? Jakiego typu?}
-{3102}{}{Có¿. Myœlê, ¿e masz pewne umiejêtnoœci.}
-{3103}{}{Och, mam *wiele* ró¿nych umiejêtnoœci. Ale jeœli szukasz rady... [Patrzy na ciebie, a potem przytakuje.] A co mi tam, do cholery. Pozwól, ¿e podpowiem ci co robiæ ¿eby panienki s³a³y ci siê do stóp. Musisz zacz¹æ od...}
-{3104}{}{Chcesz zobaczyæ co potrafiê? Mogê ci pokazaæ kiedy tylko zechcesz, cukiereczku. Ale jeœli szukasz rady... [Patrzy na ciebie, a potem przytakuje.] A co mi tam, do cholery. Pozwól, ¿e podpowiem ci co robiæ ¿eby faceci jedli Ci z rêki. Pierwsza rzecz jak¹ musisz zrobiæ...}
-{3105}{}{Proszê bardzo. Ale nie zdradŸ nikomu tych paru sekretów postêpowania z ludŸmi, o których ci powiedzia³em.}
-{3106}{}{Dziêkujê.}
-{4000}{}{Cz³owieku uwielbiam tê post-nuklearn¹ przysz³oœæ.}
-{4001}{}{No chodŸ. Czas na trochê... przemocy.}
-{4002}{}{ZnajdŸmy wiêcej ³adnych dziewczyn ¿eby... yyy, popodziwiaæ.}
-{4003}{}{Poszukamy wiêcej cielesnej wiedzy.}
-{4004}{}{Czy kiedykolwiek roz³o¿y³eœ dziewczynê na ³ó¿ku ¿eby j¹ rozp³ataæ? Mówiê ci, piêkno absolutne.}
-{4005}{}{Naprawdê muszê coœ rozp³ataæ, szybko...}
-{4006}{}{Mog³oby siê wydawaæ, ¿e zw³oki w ³ó¿ku s¹ okropne, ale zdziwi³byœ siê.}
-{4007}{}{[Œpiewa.] Wbi³em topór w ³eb mojej dziewczyny, skoñczy siê to odsiadk¹... tak dobrze wygl¹da³a w czerwieni...[Œpiewa]}
-{4008}{}{[Œpiewa.] bo jestem z³yyyyy, na drugie imiê mam, nieszczêœcie...[Œpiewa]}
-{4009}{}{Uda³o ci siê odkopaæ mój garnitur? To s³odkie maleñstwo zosta³o uszyte w Grand Rapids, w Michigan.}
-{4010}{}{Wiêc... jak myœlisz gdzie na pustkowiach maj¹ ¿el do w³osów?}
-{4011}{}{Wiem, ¿e to brzmi obrzydliwie, ale nie krytykuj jajników sma¿onych w g³êbokim oleju dopóki ich nie spróbujesz.}
-{4012}{}{[Wyci¹ga kieszonkowy grzebieñ i uk³ada w³osy.]}
-{4020}{}{Hej. Ja tu kurde krwawiê.}
-{4021}{}{Cz³owieku, nie jest ze mn¹ dobrze.}
-{4022}{}{ZaprowadŸ mnie do cholernego lekarza.}
-{4023}{}{Bêdziesz tak staæ i patrzeæ jak siê wykrwawiam na œmieræ czy jednak coœ z tym zrobisz?}
-{4030}{}{Trochê siê tutaj dziwnie czuje...}
-{4031}{}{Hej, czuje siê trochê napromieniowany. Jeœli nie jest to promieniowanie tego typu co daje super moce, to siê zdenerwujê.}
-{4040}{}{Wiesz co, Ÿle na mnie wp³ywasz.}
-{4041}{}{Staram siê trzymaæ z daleka od tego syfu. Ale skoro nalegasz...}
-{4042}{}{Moje cia³o jest œwi¹tyni¹, ale ten jeden raz nie zaszkodzi.}
-{4043}{}{Jeœli to spowoduje jakieœ trwa³e uszkodzenia, to ciê potnê.}
-{4045}{}{Czujê siê ju¿ du¿o lepiej.}
-{4046}{}{Du¿o lepiej.}
-{4050}{}{Hej! Uwa¿aj na w³osy.}
-{4051}{}{Hej, nie popêdzaj perfekcji.}
-{4060}{}{Wiesz, ¿e to nie to samo kiedy ich krew jest ci¹gle ciep³a?}
-{4061}{}{Mam nadziejê, ¿e robiliœcie notatki.}
-{4062}{}{Dziewczyny sta³y siê doœæ przera¿aj¹ce, po koñcu œwiata... Jak dla mnie bomba.}
-{4063}{}{...i dlatego laseczki zwyk³y nazywaæ mnie "Dex, Ksi¹¿ê Seksu".}
-{4070}{}{Czujê md³oœci. Chyba, ktoœ mnie otru³.}
-{4071}{}{Czujê siê jak bym mia³ wyrzygaæ wnêtrznoœci.}
-{4080}{}{Nie mogê ruszaæ t¹ koñczyn¹. Potrzebuje pomocy medycznej.}
-{4081}{}{Chyba w³aœnie straci³em czucie w tej koñczynie. Czy to Ÿle?}
-{4090}{}{W³aœnie zrobi³o siê trochê, niewyraŸnie. Gdzie wszyscy poszli?}
-{4091}{}{Chyba krew zaczê³a mi wyp³ywaæ oczami.}
-{4100}{}{Wiêc, tatua¿e na twarzy, co? Chyba jak bym by³ tak paskudny jak ten koœciano-nosy, tutaj, te¿ wola³bym to zamalowaæ.}
-{4101}{}{Hej, wytatuowana twarzy. Jesteœ kanibalem, czy coœ? Mo¿e moglibyœmy wymieniæ siê przepisami.}
-{4102}{}{Odnoszê wra¿enie, ¿e ten twój kumpel Sulik nie mo¿e mnie znieœæ. Mo¿e czas go sprzedaæ?}
-{4110}{}{A teraz serio, o co chodzi z tym przysadzistym, ³ysym kolesiem? Trzymasz go z litoœci czy co?}
-{4111}{}{Wiêc Vic, s³ysza³em, ¿e masz odlotow¹ córkê. Powinieneœ mnie jej przedstawiæ.}
-{4120}{}{Miria, s³odziutka, naprawdê powinniœmy spêdziæ trochê czasu sam na sam.}
-{4121}{}{Zgadujê, ¿e Miri¹ bêdziemy siê zajmowaæ na zmianê, co?}
+{3102}{}{CÃ³Å¼. MyÅ›lÄ™, Å¼e masz pewne umiejÄ™tnoÅ›ci.}
+{3103}{}{Och, mam *wiele* rÃ³Å¼nych umiejÄ™tnoÅ›ci. Ale jeÅ›li szukasz rady... [Patrzy na ciebie, a potem przytakuje.] A co mi tam, do cholery. PozwÃ³l, Å¼e podpowiem ci co robiÄ‡ Å¼eby panienki sÅ‚aÅ‚y ci siÄ™ do stÃ³p. Musisz zaczÄ…Ä‡ od...}
+{3104}{}{Chcesz zobaczyÄ‡ co potrafiÄ™? MogÄ™ ci pokazaÄ‡ kiedy tylko zechcesz, cukiereczku. Ale jeÅ›li szukasz rady... [Patrzy na ciebie, a potem przytakuje.] A co mi tam, do cholery. PozwÃ³l, Å¼e podpowiem ci co robiÄ‡ Å¼eby faceci jedli Ci z rÄ™ki. Pierwsza rzecz jakÄ… musisz zrobiÄ‡...}
+{3105}{}{ProszÄ™ bardzo. Ale nie zdradÅº nikomu tych paru sekretÃ³w postÄ™powania z ludÅºmi, o ktÃ³rych ci powiedziaÅ‚em.}
+{3106}{}{DziÄ™kujÄ™.}
+{4000}{}{CzÅ‚owieku uwielbiam tÄ™ post-nuklearnÄ… przyszÅ‚oÅ›Ä‡.}
+{4001}{}{No chodÅº. Czas na trochÄ™... przemocy.}
+{4002}{}{ZnajdÅºmy wiÄ™cej Å‚adnych dziewczyn Å¼eby... yyy, popodziwiaÄ‡.}
+{4003}{}{Poszukamy wiÄ™cej cielesnej wiedzy.}
+{4004}{}{Czy kiedykolwiek rozÅ‚oÅ¼yÅ‚eÅ› dziewczynÄ™ na Å‚Ã³Å¼ku Å¼eby jÄ… rozpÅ‚ataÄ‡? MÃ³wiÄ™ ci, piÄ™kno absolutne.}
+{4005}{}{NaprawdÄ™ muszÄ™ coÅ› rozpÅ‚ataÄ‡, szybko...}
+{4006}{}{MogÅ‚oby siÄ™ wydawaÄ‡, Å¼e zwÅ‚oki w Å‚Ã³Å¼ku sÄ… okropne, ale zdziwiÅ‚byÅ› siÄ™.}
+{4007}{}{[Åšpiewa.] WbiÅ‚em topÃ³r w Å‚eb mojej dziewczyny, skoÅ„czy siÄ™ to odsiadkÄ…... tak dobrze wyglÄ…daÅ‚a w czerwieni...[Åšpiewa]}
+{4008}{}{[Åšpiewa.] bo jestem zÅ‚yyyyy, na drugie imiÄ™ mam, nieszczÄ™Å›cie...[Åšpiewa]}
+{4009}{}{UdaÅ‚o ci siÄ™ odkopaÄ‡ mÃ³j garnitur? To sÅ‚odkie maleÅ„stwo zostaÅ‚o uszyte w Grand Rapids, w Michigan.}
+{4010}{}{WiÄ™c... jak myÅ›lisz gdzie na pustkowiach majÄ… Å¼el do wÅ‚osÃ³w?}
+{4011}{}{Wiem, Å¼e to brzmi obrzydliwie, ale nie krytykuj jajnikÃ³w smaÅ¼onych w gÅ‚Ä™bokim oleju dopÃ³ki ich nie sprÃ³bujesz.}
+{4012}{}{[WyciÄ…ga kieszonkowy grzebieÅ„ i ukÅ‚ada wÅ‚osy.]}
+{4020}{}{Hej. Ja tu kurde krwawiÄ™.}
+{4021}{}{CzÅ‚owieku, nie jest ze mnÄ… dobrze.}
+{4022}{}{ZaprowadÅº mnie do cholernego lekarza.}
+{4023}{}{BÄ™dziesz tak staÄ‡ i patrzeÄ‡ jak siÄ™ wykrwawiam na Å›mierÄ‡ czy jednak coÅ› z tym zrobisz?}
+{4030}{}{TrochÄ™ siÄ™ tutaj dziwnie czuje...}
+{4031}{}{Hej, czuje siÄ™ trochÄ™ napromieniowany. JeÅ›li nie jest to promieniowanie tego typu co daje super moce, to siÄ™ zdenerwujÄ™.}
+{4040}{}{Wiesz co, Åºle na mnie wpÅ‚ywasz.}
+{4041}{}{Staram siÄ™ trzymaÄ‡ z daleka od tego syfu. Ale skoro nalegasz...}
+{4042}{}{Moje ciaÅ‚o jest Å›wiÄ…tyniÄ…, ale ten jeden raz nie zaszkodzi.}
+{4043}{}{JeÅ›li to spowoduje jakieÅ› trwaÅ‚e uszkodzenia, to ciÄ™ potnÄ™.}
+{4045}{}{CzujÄ™ siÄ™ juÅ¼ duÅ¼o lepiej.}
+{4046}{}{DuÅ¼o lepiej.}
+{4050}{}{Hej! UwaÅ¼aj na wÅ‚osy.}
+{4051}{}{Hej, nie popÄ™dzaj perfekcji.}
+{4060}{}{Wiesz, Å¼e to nie to samo kiedy ich krew jest ciÄ…gle ciepÅ‚a?}
+{4061}{}{Mam nadziejÄ™, Å¼e robiliÅ›cie notatki.}
+{4062}{}{Dziewczyny staÅ‚y siÄ™ doÅ›Ä‡ przeraÅ¼ajÄ…ce, po koÅ„cu Å›wiata... Jak dla mnie bomba.}
+{4063}{}{...i dlatego laseczki zwykÅ‚y nazywaÄ‡ mnie "Dex, KsiÄ…Å¼Ä™ Seksu".}
+{4070}{}{CzujÄ™ mdÅ‚oÅ›ci. Chyba, ktoÅ› mnie otruÅ‚.}
+{4071}{}{CzujÄ™ siÄ™ jak bym miaÅ‚ wyrzygaÄ‡ wnÄ™trznoÅ›ci.}
+{4080}{}{Nie mogÄ™ ruszaÄ‡ tÄ… koÅ„czynÄ…. Potrzebuje pomocy medycznej.}
+{4081}{}{Chyba wÅ‚aÅ›nie straciÅ‚em czucie w tej koÅ„czynie. Czy to Åºle?}
+{4090}{}{WÅ‚aÅ›nie zrobiÅ‚o siÄ™ trochÄ™, niewyraÅºnie. Gdzie wszyscy poszli?}
+{4091}{}{Chyba krew zaczÄ™Å‚a mi wypÅ‚ywaÄ‡ oczami.}
+{4100}{}{WiÄ™c, tatuaÅ¼e na twarzy, co? Chyba jak bym byÅ‚ tak paskudny jak ten koÅ›ciano-nosy, tutaj, teÅ¼ wolaÅ‚bym to zamalowaÄ‡.}
+{4101}{}{Hej, wytatuowana twarzy. JesteÅ› kanibalem, czy coÅ›? MoÅ¼e moglibyÅ›my wymieniÄ‡ siÄ™ przepisami.}
+{4102}{}{OdnoszÄ™ wraÅ¼enie, Å¼e ten twÃ³j kumpel Sulik nie moÅ¼e mnie znieÅ›Ä‡. MoÅ¼e czas go sprzedaÄ‡?}
+{4110}{}{A teraz serio, o co chodzi z tym przysadzistym, Å‚ysym kolesiem? Trzymasz go z litoÅ›ci czy co?}
+{4111}{}{WiÄ™c Vic, sÅ‚yszaÅ‚em, Å¼e masz odlotowÄ… cÃ³rkÄ™. PowinieneÅ› mnie jej przedstawiÄ‡.}
+{4120}{}{Miria, sÅ‚odziutka, naprawdÄ™ powinniÅ›my spÄ™dziÄ‡ trochÄ™ czasu sam na sam.}
+{4121}{}{ZgadujÄ™, Å¼e MiriÄ… bÄ™dziemy siÄ™ zajmowaÄ‡ na zmianÄ™, co?}
 {4122}{}{[Puszcza oczko do Mirii.]}
-{4123}{}{[Uœmiecha siê do Mirii.]}
-{4124}{}{Mirio, potrzebujesz mê¿czyzny twojej klasy. No wiesz, takiego jak ja.}
-{4125}{}{[Wywija no¿em w stronê Mirii. Uœmiecha siê.]}
-{4130}{}{Mam pomys³ zastrzelmy Davina i wrzuæmy go do rowu.}
-{4131}{}{Za³ó¿my, czysto hipotetycznie, ¿e Davin dziwnym trafem bêdzie mia³ rano poderzniête gard³o. Nikomu go nie bêdzie szkoda, prawda?}
-{4140}{}{Hej Cassidy, powinieneœ spróbowaæ Psycho. S³ysza³em, ¿e nawet w³osy od tego odrastaj¹.}
-{4141}{}{Hej, Cassidy czemu nie chlejesz wiêcej tej swojej wódy? Wygl¹da, ¿e ³adnie ciê postarzy³a.}
-{4142}{}{To ¿a³osne kiedy ktoœ tak stary jak Cassidy, tak kurczowo trzyma siê ¿ycia. Gdybym to ja by³ na jego miejscu, ju¿ dawno poca³owa³bym lufê strzelby i skoñczy³ z sob¹.}
-{4150}{}{Porzuæmy te chodz¹ce zw³oki.}
-{4151}{}{Dobra, chyba ten kawa³ z zabraniem Lennego trwa ju¿ za d³ugo, nie s¹dzisz?}
-{4152}{}{Jak do cholery mam podrywaæ panienki kiedy Lenny wszêdzie za nami ³azi?}
-{4160}{}{A wiêc, Marcus kiedy zmieni³eœ siê w przyjaŸnie nastawionego fizycznego?}
-{4161}{}{Hej Marcus, nie masz czasem jakiegoœ miasta, którym masz zarz¹dzaæ, czy coœ?}
-{4170}{}{Myron trzymaj siê, jestem pewny, ¿e któregoœ dnia twoje j¹dra siê st¹pi¹.}
-{4171}{}{G³¹b chyba karykaturuje mój styl.}
-{4172}{}{Myron jest jak jeden wielki pryszcz, tylko czeka ¿eby daæ mu wycisk.}
-{4180}{}{Przynajmniej Goris jest na tyle przyzwoity ¿eby siê zakryæ.}
-{4181}{}{Œwietne przebranie, Goris, brawo. Wygl¹dasz jak typowy garbaty dziwol¹g.}
-{4200}{}{A¿ jestem ciekaw, jakie s¹ te wioskowe dziewczyny.}
-{4210}{}{Dziwki... wszêdzie dziwki. Ju¿ mi siê tu podoba.}
-{4220}{}{To miejsce siê po prostu domaga odrobiny chaosu.}
-{4230}{}{Za du¿o tu policji. Wed³ug mnie czas siê st¹d ulotniæ.}
-{4240}{}{Œwietnie, wiêcej dziwade³. Lepiej tu nie zostawaæ d³u¿ej ni¿ trzeba.}
-{4250}{}{Marnujemy tu czas. Kobiety Zombi mnie nie krêc¹. Generalnie to nie lubiê dziewczyn, które wygl¹daj¹ na martwe ZANIM z nimi zacznê.}
-{4260}{}{Serio. Po co do jasnej cholery w ogóle marnujemy tu czas?}
-{4270}{}{Nie s¹dzê ¿ebym z w³asnej woli chcia³ marnowaæ wiêcej mojego czasu w tej placówce.}
-{5000}{}{[Obraca g³owê w twoj¹ stronê i podnosi siê na nogi. Kiedy na ciebie patrzy nagle jego oczy otwieraj¹ siê coraz szerzej i zaczyna ³apaæ oddech.]}
+{4123}{}{[UÅ›miecha siÄ™ do Mirii.]}
+{4124}{}{Mirio, potrzebujesz mÄ™Å¼czyzny twojej klasy. No wiesz, takiego jak ja.}
+{4125}{}{[Wywija noÅ¼em w stronÄ™ Mirii. UÅ›miecha siÄ™.]}
+{4130}{}{Mam pomysÅ‚ zastrzelmy Davina i wrzuÄ‡my go do rowu.}
+{4131}{}{ZaÅ‚Ã³Å¼my, czysto hipotetycznie, Å¼e Davin dziwnym trafem bÄ™dzie miaÅ‚ rano poderzniÄ™te gardÅ‚o. Nikomu go nie bÄ™dzie szkoda, prawda?}
+{4140}{}{Hej Cassidy, powinieneÅ› sprÃ³bowaÄ‡ Psycho. SÅ‚yszaÅ‚em, Å¼e nawet wÅ‚osy od tego odrastajÄ….}
+{4141}{}{Hej, Cassidy czemu nie chlejesz wiÄ™cej tej swojej wÃ³dy? WyglÄ…da, Å¼e Å‚adnie ciÄ™ postarzyÅ‚a.}
+{4142}{}{To Å¼aÅ‚osne kiedy ktoÅ› tak stary jak Cassidy, tak kurczowo trzyma siÄ™ Å¼ycia. Gdybym to ja byÅ‚ na jego miejscu, juÅ¼ dawno pocaÅ‚owaÅ‚bym lufÄ™ strzelby i skoÅ„czyÅ‚ z sobÄ….}
+{4150}{}{PorzuÄ‡my te chodzÄ…ce zwÅ‚oki.}
+{4151}{}{Dobra, chyba ten kawaÅ‚ z zabraniem Lennego trwa juÅ¼ za dÅ‚ugo, nie sÄ…dzisz?}
+{4152}{}{Jak do cholery mam podrywaÄ‡ panienki kiedy Lenny wszÄ™dzie za nami Å‚azi?}
+{4160}{}{A wiÄ™c, Marcus kiedy zmieniÅ‚eÅ› siÄ™ w przyjaÅºnie nastawionego fizycznego?}
+{4161}{}{Hej Marcus, nie masz czasem jakiegoÅ› miasta, ktÃ³rym masz zarzÄ…dzaÄ‡, czy coÅ›?}
+{4170}{}{Myron trzymaj siÄ™, jestem pewny, Å¼e ktÃ³regoÅ› dnia twoje jÄ…dra siÄ™ stÄ…piÄ….}
+{4171}{}{GÅ‚Ä…b chyba karykaturuje mÃ³j styl.}
+{4172}{}{Myron jest jak jeden wielki pryszcz, tylko czeka Å¼eby daÄ‡ mu wycisk.}
+{4180}{}{Przynajmniej Goris jest na tyle przyzwoity Å¼eby siÄ™ zakryÄ‡.}
+{4181}{}{Åšwietne przebranie, Goris, brawo. WyglÄ…dasz jak typowy garbaty dziwolÄ…g.}
+{4200}{}{AÅ¼ jestem ciekaw, jakie sÄ… te wioskowe dziewczyny.}
+{4210}{}{Dziwki... wszÄ™dzie dziwki. JuÅ¼ mi siÄ™ tu podoba.}
+{4220}{}{To miejsce siÄ™ po prostu domaga odrobiny chaosu.}
+{4230}{}{Za duÅ¼o tu policji. WedÅ‚ug mnie czas siÄ™ stÄ…d ulotniÄ‡.}
+{4240}{}{Åšwietnie, wiÄ™cej dziwadeÅ‚. Lepiej tu nie zostawaÄ‡ dÅ‚uÅ¼ej niÅ¼ trzeba.}
+{4250}{}{Marnujemy tu czas. Kobiety Zombi mnie nie krÄ™cÄ…. Generalnie to nie lubiÄ™ dziewczyn, ktÃ³re wyglÄ…dajÄ… na martwe ZANIM z nimi zacznÄ™.}
+{4260}{}{Serio. Po co do jasnej cholery w ogÃ³le marnujemy tu czas?}
+{4270}{}{Nie sÄ…dzÄ™ Å¼ebym z wÅ‚asnej woli chciaÅ‚ marnowaÄ‡ wiÄ™cej mojego czasu w tej placÃ³wce.}
+{5000}{}{[Obraca gÅ‚owÄ™ w twojÄ… stronÄ™ i podnosi siÄ™ na nogi. Kiedy na ciebie patrzy nagle jego oczy otwierajÄ… siÄ™ coraz szerzej i zaczyna Å‚apaÄ‡ oddech.]}
 {5001}{}{[KONIEC]}
 {5002}{}{O cholera!}

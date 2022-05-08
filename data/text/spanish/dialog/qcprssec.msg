@@ -1,18 +1,18 @@
 {100}{}{Ves algo apetitoso: una secretaria rubia con un vestido corto.}
 {101}{}{Ves a la secretaria "personal" y privada del Presidente.}
-{102}{}{Ves una atractiva becaria, eh, secretaria. Su pelo está ligeramente alborotado.}
-{103}{}{¿Sí? ¿Qué buscas, cariño?}
+{102}{}{Ves una atractiva becaria, eh, secretaria. Su pelo estÃ¡ ligeramente alborotado.}
+{103}{}{Â¿SÃ­? Â¿QuÃ© buscas, cariÃ±o?}
 {104}{}{Otra vez no, acabo de limpiar el vestido.}
-{105}{}{Entonces, ¿qué está dispuesto a hacer el Señor Importante?}
+{105}{}{Entonces, Â¿quÃ© estÃ¡ dispuesto a hacer el SeÃ±or Importante?}
 {106}{}{Ellos no lo llaman *Dick* Richardson para nuthin'.}
-{107}{}{Yo también sé mecanografiar.}
-{108}{}{Deberías llamar antes de entrar de ese modo.}
+{107}{}{Yo tambiÃ©n sÃ© mecanografiar.}
+{108}{}{DeberÃ­as llamar antes de entrar de ese modo.}
 {109}{}{Necesito un elixir bucal.}
-{110}{}{¿Dónde está esa esponja?}
+{110}{}{Â¿DÃ³nde estÃ¡ esa esponja?}
 {111}{}{Creo que es hora de un aumento.}
-{112}{}{¿Esos agentes del Servicio Secreto tienen que estar siempre revoloteando de ese modo?}
-{113}{}{Vuelve más tarde. Voy a estar ocupada.}
+{112}{}{Â¿Esos agentes del Servicio Secreto tienen que estar siempre revoloteando de ese modo?}
+{113}{}{Vuelve mÃ¡s tarde. Voy a estar ocupada.}
 {114}{}{Creo que no voy a lavar ese vestido; va a ser manoseado.}
 {115}{}{El Presidente dice que soy la mejor besando.}
-{116}{}{¿No me estarás chantajeando, verdad?}
-{117}{}{¿Dónde están mis rodilleras? Je, je, sólo bromeaba.}
+{116}{}{Â¿No me estarÃ¡s chantajeando, verdad?}
+{117}{}{Â¿DÃ³nde estÃ¡n mis rodilleras? Je, je, sÃ³lo bromeaba.}

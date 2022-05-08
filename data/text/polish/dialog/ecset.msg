@@ -1,16 +1,16 @@
 {100}{}{Widzisz... Seta.}
-{101}{}{Widzisz rozk³adaj¹cego siê ghula z wystaj¹cymi z czaszki œrubkami i zêbatkami. Ciê¿ko powiedzieæ, czy jest zniedo³ê¿nia³y, czy nie.}
-{102}{}{Widzisz Seta. Mówi sam do siebie.}
-{103}{}{Widzisz Seta. Mówi sam do siebie.}
-{104}{}{"Gryz¹ ziemiê!"}
-{105}{}{"Gryz¹ ziemiê!"}
-{106}{}{"Gryz¹ ziemiê... A¿ serce roœnie".}
+{101}{}{Widzisz rozkÅ‚adajÄ…cego siÄ™ ghula z wystajÄ…cymi z czaszki Å›rubkami i zÄ™batkami. CiÄ™Å¼ko powiedzieÄ‡, czy jest zniedoÅ‚Ä™Å¼niaÅ‚y, czy nie.}
+{102}{}{Widzisz Seta. MÃ³wi sam do siebie.}
+{103}{}{Widzisz Seta. MÃ³wi sam do siebie.}
+{104}{}{"GryzÄ… ziemiÄ™!"}
+{105}{}{"GryzÄ… ziemiÄ™!"}
+{106}{}{"GryzÄ… ziemiÄ™... AÅ¼ serce roÅ›nie".}
 {107}{}{He, he.}
-{108}{}{Gryz¹!}
-{109}{}{Ziemiê!}
-{110}{}{Gryz¹ ziemiê!}
-{111}{}{He he. Rz¹dzê Necropolis.}
-{112}{}{Normale. Wszêdzie normale.}
-{113}{}{Nazywam siê Set. A ty Weltschmerz.}
+{108}{}{GryzÄ…!}
+{109}{}{ZiemiÄ™!}
+{110}{}{GryzÄ… ziemiÄ™!}
+{111}{}{He he. RzÄ…dzÄ™ Necropolis.}
+{112}{}{Normale. WszÄ™dzie normale.}
+{113}{}{Nazywam siÄ™ Set. A ty Weltschmerz.}
 {114}{}{Chi, chi.}
-{115}{}{Ziemiê. Gryz¹. Ziemiê gryz¹!}
+{115}{}{ZiemiÄ™. GryzÄ…. ZiemiÄ™ gryzÄ…!}

@@ -1,169 +1,169 @@
-{100}{}{Widzisz postaæ w habicie.}
+{100}{}{Widzisz postaÄ‡ w habicie.}
 {101}{}{Widzisz Gorisa, uczonego.}
-{102}{}{Widzisz humanoidaln¹ postaæ ubran¹ w habit z kapturem i d³ugimi rêkawami. W jego postawie jest coœ nienaturalnego, ale nie masz pewnoœci, co dok³adnie.}
-{103}{}{Witaj, jestem Goris. Nie poznajê ciê - jesteœ tu od niedawna?}
+{102}{}{Widzisz humanoidalnÄ… postaÄ‡ ubranÄ… w habit z kapturem i dÅ‚ugimi rÄ™kawami. W jego postawie jest coÅ› nienaturalnego, ale nie masz pewnoÅ›ci, co dokÅ‚adnie.}
+{103}{}{Witaj, jestem Goris. Nie poznajÄ™ ciÄ™ - jesteÅ› tu od niedawna?}
 {104}{}{Ja}
-{105}{}{Ja iœæ.}
+{105}{}{Ja iÅ›Ä‡.}
 {106}{}{Tak, a bo co?}
 {107}{}{Witaj. Jestem}
-{108}{}{Witaj Gorisie. Gruthar powiedzia³, ¿e warto do ciebie zajrzeæ. On chyba myœli, ¿e jesteœ cz³owiekiem, który zna odpowiedzi na wiele pytañ.}
-{109}{}{Czy mogê zadaæ ci kilka pytañ?}
-{110}{}{Przepraszam, muszê ju¿ iœæ.}
-{111}{}{Mi³o mi ciê widzieæ,}
-{112}{}{Wiêc rozmawia³eœ ju¿ z Grutharem. Jego opinia o mnie jest raczej przesadna. W rzeczywistoœci nie wiem nawet po³owy tego, co jemu siê wydaje. Poza tym...}
-{113}{}{A wiêc jesteœ z zewn¹trz! Widzia³em kilkoro z was. Niektórzy zostaj¹ tu, w Krypcie, ale ty wygl¹dasz inaczej. Sprawiasz wra¿enie kogoœ bardziej "wyroœniêtego", jeœli wiesz, co mam na myœli. Za³o¿ê siê, ¿e znasz wiele miejsc i masz na koncie wiele sukcesów. Mam racjê?}
-{114}{}{Uch... "wyroœniêtego"?}
-{115}{}{Ja iœæ.}
-{116}{}{Wybacz, ale chyba ju¿ pójdê.}
-{117}{}{Tak, zdarzy³o mi siê kilka przygód. Wiesz co, gdybyœ odpowiedzia³ mi na kilka pytañ, móg³byœ w zamian us³yszeæ ode mnie co nieco o moich przygodach.}
-{118}{}{Nie twój interes.}
-{119}{}{Mogê ci zadaæ jeszcze parê pytañ?}
-{120}{}{Umowa stoi! Z chêci¹ wys³ucham wszystkiego, co mi powiesz.}
-{121}{}{Poza tym nie móg³bym odmówiæ ¿adnemu z przyjació³ Gruthara.}
-{122}{}{Co chcesz wiedzieæ?}
+{108}{}{Witaj Gorisie. Gruthar powiedziaÅ‚, Å¼e warto do ciebie zajrzeÄ‡. On chyba myÅ›li, Å¼e jesteÅ› czÅ‚owiekiem, ktÃ³ry zna odpowiedzi na wiele pytaÅ„.}
+{109}{}{Czy mogÄ™ zadaÄ‡ ci kilka pytaÅ„?}
+{110}{}{Przepraszam, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{111}{}{MiÅ‚o mi ciÄ™ widzieÄ‡,}
+{112}{}{WiÄ™c rozmawiaÅ‚eÅ› juÅ¼ z Grutharem. Jego opinia o mnie jest raczej przesadna. W rzeczywistoÅ›ci nie wiem nawet poÅ‚owy tego, co jemu siÄ™ wydaje. Poza tym...}
+{113}{}{A wiÄ™c jesteÅ› z zewnÄ…trz! WidziaÅ‚em kilkoro z was. NiektÃ³rzy zostajÄ… tu, w Krypcie, ale ty wyglÄ…dasz inaczej. Sprawiasz wraÅ¼enie kogoÅ› bardziej "wyroÅ›niÄ™tego", jeÅ›li wiesz, co mam na myÅ›li. ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e znasz wiele miejsc i masz na koncie wiele sukcesÃ³w. Mam racjÄ™?}
+{114}{}{Uch... "wyroÅ›niÄ™tego"?}
+{115}{}{Ja iÅ›Ä‡.}
+{116}{}{Wybacz, ale chyba juÅ¼ pÃ³jdÄ™.}
+{117}{}{Tak, zdarzyÅ‚o mi siÄ™ kilka przygÃ³d. Wiesz co, gdybyÅ› odpowiedziaÅ‚ mi na kilka pytaÅ„, mÃ³gÅ‚byÅ› w zamian usÅ‚yszeÄ‡ ode mnie co nieco o moich przygodach.}
+{118}{}{Nie twÃ³j interes.}
+{119}{}{MogÄ™ ci zadaÄ‡ jeszcze parÄ™ pytaÅ„?}
+{120}{}{Umowa stoi! Z chÄ™ciÄ… wysÅ‚ucham wszystkiego, co mi powiesz.}
+{121}{}{Poza tym nie mÃ³gÅ‚bym odmÃ³wiÄ‡ Å¼adnemu z przyjaciÃ³Å‚ Gruthara.}
+{122}{}{Co chcesz wiedzieÄ‡?}
 {123}{}{Co tutaj robisz?}
-{124}{}{Jesteœ wiêŸniem?}
-{125}{}{Od jak dawna tu jesteœ?}
-{126}{}{Co mo¿esz mi powiedzieæ o tutejszych szponach œmierci?}
-{127}{}{Czy wiesz, co sta³o siê z ludŸmi, którzy ¿yli w tej Krypcie wczeœniej?}
-{128}{}{Co mo¿esz mi powiedzieæ o Grutharze?}
-{129}{}{Czy s¹dzisz, ¿e szpony œmierci s¹ zagro¿eniem dla ludzi?}
-{130}{}{Czy masz jakieœ informacje o tej Enklawie, o której wspomina³eœ?}
+{124}{}{JesteÅ› wiÄ™Åºniem?}
+{125}{}{Od jak dawna tu jesteÅ›?}
+{126}{}{Co moÅ¼esz mi powiedzieÄ‡ o tutejszych szponach Å›mierci?}
+{127}{}{Czy wiesz, co staÅ‚o siÄ™ z ludÅºmi, ktÃ³rzy Å¼yli w tej Krypcie wczeÅ›niej?}
+{128}{}{Co moÅ¼esz mi powiedzieÄ‡ o Grutharze?}
+{129}{}{Czy sÄ…dzisz, Å¼e szpony Å›mierci sÄ… zagroÅ¼eniem dla ludzi?}
+{130}{}{Czy masz jakieÅ› informacje o tej Enklawie, o ktÃ³rej wspominaÅ‚eÅ›?}
 {131}{}{Co wiesz o tym wirusie?}
-{132}{}{Wspomina³eœ, ¿e chcia³byœ podró¿owaæ. Co ty na to, ¿eby siê do mnie przy³¹czyæ?}
-{133}{}{Przykro mi, ale muszê ju¿ iœæ.}
-{134}{}{Hmm... Jestem zaskoczony, ¿e Gruthar ci o mnie nie wspomina³. A zreszt¹. }
-{135}{}{Jestem kimœ w rodzaju ucznia. Staram siê nauczyæ tyle, ile siê da, o œwiecie i kulturach, które siê wykszta³ci³y. W tej chwili badam kulturê, któr¹ stworzy³y szpony œmierci i porównujê j¹ z przebiegiem rozwoju kultury ludzi w podobnych okolicznoœciach. Zdoby³em ju¿ praktycznie ca³¹ wiedzê, jak¹ st¹d potrzebowa³em. Bardzo pomog³oby mi w badaniach, gdybym móg³ trochê popodró¿owaæ. Jednak¿e nie chcê wyruszaæ w pojedynkê, co chyba rozumiesz bez s³ów.}
-{136}{}{Ciekawe. Mogê zadaæ ci jeszcze kilka pytañ?}
-{137}{}{A wiêc jesteœ uczonym. W dzisiejszym œwiecie to du¿e osi¹gniêcie.}
-{138}{}{Ale nudy. A zreszt¹... to twoje ¿ycie, wiêc marnuj je tak, jak chcesz. Potrzebujê jednak wiêcej informacji.}
-{139}{}{Nie, mogê odejœæ w ka¿dej chwili. Nie zrobi³em tego, poniewa¿ nie chcê podró¿owaæ samotnie. Jestem ca³kiem twardy i umiem dbaæ o siebie, ale gdyby coœ siê sta³o, wci¹¿ by³bym tylko samotn¹ osob¹ w samym œrodku pustyni.}
+{132}{}{WspominaÅ‚eÅ›, Å¼e chciaÅ‚byÅ› podrÃ³Å¼owaÄ‡. Co ty na to, Å¼eby siÄ™ do mnie przyÅ‚Ä…czyÄ‡?}
+{133}{}{Przykro mi, ale muszÄ™ juÅ¼ iÅ›Ä‡.}
+{134}{}{Hmm... Jestem zaskoczony, Å¼e Gruthar ci o mnie nie wspominaÅ‚. A zresztÄ…. }
+{135}{}{Jestem kimÅ› w rodzaju ucznia. Staram siÄ™ nauczyÄ‡ tyle, ile siÄ™ da, o Å›wiecie i kulturach, ktÃ³re siÄ™ wyksztaÅ‚ciÅ‚y. W tej chwili badam kulturÄ™, ktÃ³rÄ… stworzyÅ‚y szpony Å›mierci i porÃ³wnujÄ™ jÄ… z przebiegiem rozwoju kultury ludzi w podobnych okolicznoÅ›ciach. ZdobyÅ‚em juÅ¼ praktycznie caÅ‚Ä… wiedzÄ™, jakÄ… stÄ…d potrzebowaÅ‚em. Bardzo pomogÅ‚oby mi w badaniach, gdybym mÃ³gÅ‚ trochÄ™ popodrÃ³Å¼owaÄ‡. JednakÅ¼e nie chcÄ™ wyruszaÄ‡ w pojedynkÄ™, co chyba rozumiesz bez sÅ‚Ã³w.}
+{136}{}{Ciekawe. MogÄ™ zadaÄ‡ ci jeszcze kilka pytaÅ„?}
+{137}{}{A wiÄ™c jesteÅ› uczonym. W dzisiejszym Å›wiecie to duÅ¼e osiÄ…gniÄ™cie.}
+{138}{}{Ale nudy. A zresztÄ…... to twoje Å¼ycie, wiÄ™c marnuj je tak, jak chcesz. PotrzebujÄ™ jednak wiÄ™cej informacji.}
+{139}{}{Nie, mogÄ™ odejÅ›Ä‡ w kaÅ¼dej chwili. Nie zrobiÅ‚em tego, poniewaÅ¼ nie chcÄ™ podrÃ³Å¼owaÄ‡ samotnie. Jestem caÅ‚kiem twardy i umiem dbaÄ‡ o siebie, ale gdyby coÅ› siÄ™ staÅ‚o, wciÄ…Å¼ byÅ‚bym tylko samotnÄ… osobÄ… w samym Å›rodku pustyni.}
 {140}{}{Rozumiem.}
-{141}{}{Ach, za du¿y z ciebie leszczu, ¿eby sobie samemu poradziæ. Kumam.}
-{142}{}{Te¿ nie lubiê podró¿owaæ samotnie, wiêc nie winiê ciê za to.}
-{143}{}{Uch... w sumie od kilku miesiêcy. Jakiœ czas temu przyby³em tu znad wybrze¿a.}
-{144}{}{Ach, a wiêc ty te¿ jesteœ tu ca³kiem nowy. Jeœli nie masz nic przeciwko, chcê wiedzieæ wiêcej.}
-{145}{}{Ta odpowiedŸ nie zajê³a ci zbyt wiele czasu. Powiesz mi coœ jeszcze?}
-{146}{}{Rozumiem. Muszê zadaæ ci jeszcze kilka pytañ.}
-{147}{}{Jak na pewno ju¿ wiesz, to nie s¹ te wasze zwyk³e szpony œmierci. Ich inteligencja zosta³a zwiêkszona za pomoc¹ œrodków, których nie rozumiej¹. Zosta³o to dokonane przez grupê ludzi znan¹ jako "Enklawa". Wygl¹da na to, ¿e Enklawa potrzebowa³a armii i wybra³a szpony œmierci ze wzglêdu na ich okrucieñstwo, si³ê fizyczn¹ i... no, chyba rozumiesz. W ka¿dym razie, jedyn¹ rzecz¹, której brakowa³o szponom œmierci, by³a inteligencja. Powinny byæ wystarczaj¹co sprytne, by rozumieæ skomplikowane rozkazy, ale nie a¿ tak inteligentne, by stanowiæ zagro¿enie dla "tych z góry".}
-{148}{}{To brzmi jak najwiêksza kupa gówna w moim ¿yciu!}
-{149}{}{To niesamowite. Wygl¹da na to, ¿e masz ogromn¹ wiedzê. Mo¿esz powiedzieæ coœ jeszcze?}
+{141}{}{Ach, za duÅ¼y z ciebie leszczu, Å¼eby sobie samemu poradziÄ‡. Kumam.}
+{142}{}{TeÅ¼ nie lubiÄ™ podrÃ³Å¼owaÄ‡ samotnie, wiÄ™c nie winiÄ™ ciÄ™ za to.}
+{143}{}{Uch... w sumie od kilku miesiÄ™cy. JakiÅ› czas temu przybyÅ‚em tu znad wybrzeÅ¼a.}
+{144}{}{Ach, a wiÄ™c ty teÅ¼ jesteÅ› tu caÅ‚kiem nowy. JeÅ›li nie masz nic przeciwko, chcÄ™ wiedzieÄ‡ wiÄ™cej.}
+{145}{}{Ta odpowiedÅº nie zajÄ™Å‚a ci zbyt wiele czasu. Powiesz mi coÅ› jeszcze?}
+{146}{}{Rozumiem. MuszÄ™ zadaÄ‡ ci jeszcze kilka pytaÅ„.}
+{147}{}{Jak na pewno juÅ¼ wiesz, to nie sÄ… te wasze zwykÅ‚e szpony Å›mierci. Ich inteligencja zostaÅ‚a zwiÄ™kszona za pomocÄ… Å›rodkÃ³w, ktÃ³rych nie rozumiejÄ…. ZostaÅ‚o to dokonane przez grupÄ™ ludzi znanÄ… jako "Enklawa". WyglÄ…da na to, Å¼e Enklawa potrzebowaÅ‚a armii i wybraÅ‚a szpony Å›mierci ze wzglÄ™du na ich okrucieÅ„stwo, siÅ‚Ä™ fizycznÄ… i... no, chyba rozumiesz. W kaÅ¼dym razie, jedynÄ… rzeczÄ…, ktÃ³rej brakowaÅ‚o szponom Å›mierci, byÅ‚a inteligencja. Powinny byÄ‡ wystarczajÄ…co sprytne, by rozumieÄ‡ skomplikowane rozkazy, ale nie aÅ¼ tak inteligentne, by stanowiÄ‡ zagroÅ¼enie dla "tych z gÃ³ry".}
+{148}{}{To brzmi jak najwiÄ™ksza kupa gÃ³wna w moim Å¼yciu!}
+{149}{}{To niesamowite. WyglÄ…da na to, Å¼e masz ogromnÄ… wiedzÄ™. MoÅ¼esz powiedzieÄ‡ coÅ› jeszcze?}
 {150}{}{Hmm... dobra.}
-{151}{}{[westchnienie] Zostali pojmani przez Enklawê. Gruthar i jego stado zostali zmuszeni do udzia³u w tym porwaniu. Nie mieli ¿adnego wyboru, gdy¿ byli w tym czasie niewolnikami. Los tych ludzi bardzo zaci¹¿y³ na umyœle Gruthara. Nigdy sobie nie wybaczy³ swojego udzia³u w tej sprawie. Ludzie zostali wziêci ¿ywcem, ale kto wie, co siê z nimi sta³o potem?}
-{152}{}{[Westchnienie] Zostali pojmani przez grupê o nazwie "Enklawa". Gruthar i jego stado zostali zmuszeni do udzia³u w tym porwaniu. Nie mieli ¿adnego wyboru, gdy¿ byli w tym czasie niewolnikami. Los tych ludzi bardzo zaci¹¿y³ na umyœle Gruthara. Nigdy sobie nie wybaczy³ swojego udzia³u w tej sprawie. Ludzie zostali wziêci ¿ywcem, ale kto wie, co siê z nimi sta³o potem?}
-{153}{}{Hmm... muszê zadaæ ci jeszcze kilka pytañ.}
-{154}{}{To by³o pewne, ¿e szpony œmierci s¹ za to w jakiœ sposób odpowiedzialne! Potrzebujê jednak jeszcze paru informacji.}
-{155}{}{Czasem obiektywne okolicznoœci spoza naszego zasiêgu zmuszaj¹ nas do robienia okropnych rzeczy. Gruthar powinien sobie wybaczyæ.}
-{156}{}{Gruthar nie jest takim potworem, na jakiego wygl¹da. Wspaniale troszczy siê o nas wszystkich tutaj i robi wszystko, by zapewniæ nam bezpieczeñstwo i przetrwanie. Wszyscy powierzyliœmy mu nasze ¿ycie. Nie wiem, co jeszcze móg³bym o nim powiedzieæ. Najlepiej samemu poznaæ go bardziej dog³êbnie i wyrobiæ sobie w³asny os¹d.}
-{157}{}{Nie bêdê podejmowaæ pochopnych s¹dów o nim. On zas³uguje na coœ lepszego.}
-{158}{}{Pewnie. Pogadajmy o czymœ innym.}
-{159}{}{On jest szponem œmierci. Trudno mi uwierzyæ, by mia³ jakieœ szlachetne cechy charakteru.}
-{160}{}{Prawdê mówi¹c... maj¹ w sobie du¿y potencja³, szczególnie jeœli weŸmiemy pod uwagê ich now¹ inteligencjê. Jednak¿e nie s¹dzê, by Gruthar i jego stado stanowili zagro¿enie. Wydaje siê, ¿e oni wszyscy ponad wszystko szanuj¹ ¿ycie i wolnoœæ osobist¹. Z drugiej strony nie oczekujê, ¿e mi uwierzysz na s³owo. Poprosi³bym ciê, byœ oceni³ to samodzielnie. ¯yje tu wiele innych osób, od których mo¿esz uzyskaæ odpowiedŸ na swoje w¹tpliwoœci.}
-{161}{}{Tylko kretyn móg³by nie zauwa¿yæ potencjalnego zagro¿enia, jakie przedstawiaj¹ sob¹ te szpony œmierci!}
-{162}{}{Dziêki za radê, popytam siê innych. Czy mogê jednak zadaæ ci jeszcze kilka pytañ?}
-{163}{}{Hmm... dobrze, co powiesz na jeszcze kilka pytañ?}
-{164}{}{Nie, tylko to, co ju¿ ci powiedzia³em. Zaczekaj, jest jeszcze coœ. Enklawa okazywa³a zainteresowanie jakimiœ ruinami na zachód st¹d. Nie wiem, dlaczego. To chyba wszystko.}
-{165}{}{Ka¿dy ma³y skrawek informacji jest przydatny i dziêkujê ci za niego.}
-{166}{}{To jest dla mnie bardzo wa¿ny temat, a ty mnie zawiod³eœ!}
+{151}{}{[westchnienie] Zostali pojmani przez EnklawÄ™. Gruthar i jego stado zostali zmuszeni do udziaÅ‚u w tym porwaniu. Nie mieli Å¼adnego wyboru, gdyÅ¼ byli w tym czasie niewolnikami. Los tych ludzi bardzo zaciÄ…Å¼yÅ‚ na umyÅ›le Gruthara. Nigdy sobie nie wybaczyÅ‚ swojego udziaÅ‚u w tej sprawie. Ludzie zostali wziÄ™ci Å¼ywcem, ale kto wie, co siÄ™ z nimi staÅ‚o potem?}
+{152}{}{[Westchnienie] Zostali pojmani przez grupÄ™ o nazwie "Enklawa". Gruthar i jego stado zostali zmuszeni do udziaÅ‚u w tym porwaniu. Nie mieli Å¼adnego wyboru, gdyÅ¼ byli w tym czasie niewolnikami. Los tych ludzi bardzo zaciÄ…Å¼yÅ‚ na umyÅ›le Gruthara. Nigdy sobie nie wybaczyÅ‚ swojego udziaÅ‚u w tej sprawie. Ludzie zostali wziÄ™ci Å¼ywcem, ale kto wie, co siÄ™ z nimi staÅ‚o potem?}
+{153}{}{Hmm... muszÄ™ zadaÄ‡ ci jeszcze kilka pytaÅ„.}
+{154}{}{To byÅ‚o pewne, Å¼e szpony Å›mierci sÄ… za to w jakiÅ› sposÃ³b odpowiedzialne! PotrzebujÄ™ jednak jeszcze paru informacji.}
+{155}{}{Czasem obiektywne okolicznoÅ›ci spoza naszego zasiÄ™gu zmuszajÄ… nas do robienia okropnych rzeczy. Gruthar powinien sobie wybaczyÄ‡.}
+{156}{}{Gruthar nie jest takim potworem, na jakiego wyglÄ…da. Wspaniale troszczy siÄ™ o nas wszystkich tutaj i robi wszystko, by zapewniÄ‡ nam bezpieczeÅ„stwo i przetrwanie. Wszyscy powierzyliÅ›my mu nasze Å¼ycie. Nie wiem, co jeszcze mÃ³gÅ‚bym o nim powiedzieÄ‡. Najlepiej samemu poznaÄ‡ go bardziej dogÅ‚Ä™bnie i wyrobiÄ‡ sobie wÅ‚asny osÄ…d.}
+{157}{}{Nie bÄ™dÄ™ podejmowaÄ‡ pochopnych sÄ…dÃ³w o nim. On zasÅ‚uguje na coÅ› lepszego.}
+{158}{}{Pewnie. Pogadajmy o czymÅ› innym.}
+{159}{}{On jest szponem Å›mierci. Trudno mi uwierzyÄ‡, by miaÅ‚ jakieÅ› szlachetne cechy charakteru.}
+{160}{}{PrawdÄ™ mÃ³wiÄ…c... majÄ… w sobie duÅ¼y potencjaÅ‚, szczegÃ³lnie jeÅ›li weÅºmiemy pod uwagÄ™ ich nowÄ… inteligencjÄ™. JednakÅ¼e nie sÄ…dzÄ™, by Gruthar i jego stado stanowili zagroÅ¼enie. Wydaje siÄ™, Å¼e oni wszyscy ponad wszystko szanujÄ… Å¼ycie i wolnoÅ›Ä‡ osobistÄ…. Z drugiej strony nie oczekujÄ™, Å¼e mi uwierzysz na sÅ‚owo. PoprosiÅ‚bym ciÄ™, byÅ› oceniÅ‚ to samodzielnie. Å»yje tu wiele innych osÃ³b, od ktÃ³rych moÅ¼esz uzyskaÄ‡ odpowiedÅº na swoje wÄ…tpliwoÅ›ci.}
+{161}{}{Tylko kretyn mÃ³gÅ‚by nie zauwaÅ¼yÄ‡ potencjalnego zagroÅ¼enia, jakie przedstawiajÄ… sobÄ… te szpony Å›mierci!}
+{162}{}{DziÄ™ki za radÄ™, popytam siÄ™ innych. Czy mogÄ™ jednak zadaÄ‡ ci jeszcze kilka pytaÅ„?}
+{163}{}{Hmm... dobrze, co powiesz na jeszcze kilka pytaÅ„?}
+{164}{}{Nie, tylko to, co juÅ¼ ci powiedziaÅ‚em. Zaczekaj, jest jeszcze coÅ›. Enklawa okazywaÅ‚a zainteresowanie jakimiÅ› ruinami na zachÃ³d stÄ…d. Nie wiem, dlaczego. To chyba wszystko.}
+{165}{}{KaÅ¼dy maÅ‚y skrawek informacji jest przydatny i dziÄ™kujÄ™ ci za niego.}
+{166}{}{To jest dla mnie bardzo waÅ¼ny temat, a ty mnie zawiodÅ‚eÅ›!}
 {167}{}{Rozumiem.}
-{168}{}{To siê chyba nazywa wirus FEV. Enklawa prowadzi, albo prowadzi³a, szeroko zakrojone badania na jego temat. Przykro mi, ale nie wiem nic wiêcej.}
-{169}{}{Nic nie szkodzi. Wróæmy do innych spraw.}
-{170}{}{Powinno ci byæ przykro. Powiedziano mi, ¿e jesteœ studni¹ wiedzy!}
-{171}{}{By³eœ Gorisie nawet bardziej ni¿ pomocny.}
-{172}{}{Dotrzyma³em swojej czêœci umowy i odpowiedzia³em na wszystkie twoje pytania. A teraz mo¿e, zgodnie z obietnic¹, opowiesz mi kilka historii o swoich przygodach?}
-{173}{}{Z przyjemnoœci¹. Bardzo mi³o mi siê z tob¹ rozmawia.}
-{174}{}{Obietnic¹? Jak¹ obietnic¹?}
+{168}{}{To siÄ™ chyba nazywa wirus FEV. Enklawa prowadzi, albo prowadziÅ‚a, szeroko zakrojone badania na jego temat. Przykro mi, ale nie wiem nic wiÄ™cej.}
+{169}{}{Nic nie szkodzi. WrÃ³Ä‡my do innych spraw.}
+{170}{}{Powinno ci byÄ‡ przykro. Powiedziano mi, Å¼e jesteÅ› studniÄ… wiedzy!}
+{171}{}{ByÅ‚eÅ› Gorisie nawet bardziej niÅ¼ pomocny.}
+{172}{}{DotrzymaÅ‚em swojej czÄ™Å›ci umowy i odpowiedziaÅ‚em na wszystkie twoje pytania. A teraz moÅ¼e, zgodnie z obietnicÄ…, opowiesz mi kilka historii o swoich przygodach?}
+{173}{}{Z przyjemnoÅ›ciÄ…. Bardzo miÅ‚o mi siÄ™ z tobÄ… rozmawia.}
+{174}{}{ObietnicÄ…? JakÄ… obietnicÄ…?}
 {175}{}{Jasne.}
-{176}{}{[Goris zastanawia siê, a ty masz wra¿enie, ¿e podlegasz szczegó³owemu badaniu] Podró¿owanie z tob¹ by³oby dla mnie zaszczytem!}
-{177}{}{[Goris zastanawia siê, a ty masz wra¿enie, ¿e podlegasz szczegó³owemu badaniu] Przykro mi, ale nie s¹dzê ¿ebyœmy wyznawali te same idea³y. Wspólne przedsiêwziêcie nie by³oby w naszym interesie.}
-{178}{}{dobra, przegra³eœ.}
-{179}{}{Rozumiem. Mo¿e póŸniej zmienisz zdanie.}
-{180}{}{Co? Jesteœ za dobry jak na moje towarzystwo? Wal siê!}
+{176}{}{[Goris zastanawia siÄ™, a ty masz wraÅ¼enie, Å¼e podlegasz szczegÃ³Å‚owemu badaniu] PodrÃ³Å¼owanie z tobÄ… byÅ‚oby dla mnie zaszczytem!}
+{177}{}{[Goris zastanawia siÄ™, a ty masz wraÅ¼enie, Å¼e podlegasz szczegÃ³Å‚owemu badaniu] Przykro mi, ale nie sÄ…dzÄ™ Å¼ebyÅ›my wyznawali te same ideaÅ‚y. WspÃ³lne przedsiÄ™wziÄ™cie nie byÅ‚oby w naszym interesie.}
+{178}{}{dobra, przegraÅ‚eÅ›.}
+{179}{}{Rozumiem. MoÅ¼e pÃ³Åºniej zmienisz zdanie.}
+{180}{}{Co? JesteÅ› za dobry jak na moje towarzystwo? Wal siÄ™!}
 {181}{}{Dobrze, rozumiem to.}
-{182}{}{Nie mam ci nic do powiedzenia. Nie przeszkadzaj mi wiêcej.}
-{183}{}{Prosi³em ciê ju¿: nie przeszkadzaj mi wiêcej. Byæ mo¿e przemoc jest jedynym jêzykiem, który rozumiesz.}
+{182}{}{Nie mam ci nic do powiedzenia. Nie przeszkadzaj mi wiÄ™cej.}
+{183}{}{ProsiÅ‚em ciÄ™ juÅ¼: nie przeszkadzaj mi wiÄ™cej. ByÄ‡ moÅ¼e przemoc jest jedynym jÄ™zykiem, ktÃ³ry rozumiesz.}
 {184}{}{}
-{185}{}{Jasne, wiesz, obie¿yœwiat... ktoœ wykszta³cony... ktoœ doœwiadczony... nie masz pojêcia, o czym mówiê, prawda? }
-{186}{}{Jedzenie wyroœniête, nie ja.}
-{187}{}{Moja iœæ ju¿}
-{188}{}{Och hmm. Twoje IQ jest byæ mo¿e mniejsze ni¿ twój rozmiar buta, ale z pewnoœci¹ masz w sobie coœ, co pozwoli³o ci prze¿yæ tak d³ugo... no dobra, mo¿e tak. Ja chce iœæ st¹d. Ja chce chodziæ z ty. Dobrze?}
-{189}{}{Och hmm. Twoje IQ jest byæ mo¿e mniejsze ni¿ twój rozmiar buta, ale z pewnoœci¹ masz w sobie coœ, co pozwoli³o ci prze¿yæ tak d³ugo... to musi byæ ten g³ówny w¹tek, który w tobie wyczuwam. A zreszt¹. Do widzenia.}
+{185}{}{Jasne, wiesz, obieÅ¼yÅ›wiat... ktoÅ› wyksztaÅ‚cony... ktoÅ› doÅ›wiadczony... nie masz pojÄ™cia, o czym mÃ³wiÄ™, prawda? }
+{186}{}{Jedzenie wyroÅ›niÄ™te, nie ja.}
+{187}{}{Moja iÅ›Ä‡ juÅ¼}
+{188}{}{Och hmm. Twoje IQ jest byÄ‡ moÅ¼e mniejsze niÅ¼ twÃ³j rozmiar buta, ale z pewnoÅ›ciÄ… masz w sobie coÅ›, co pozwoliÅ‚o ci przeÅ¼yÄ‡ tak dÅ‚ugo... no dobra, moÅ¼e tak. Ja chce iÅ›Ä‡ stÄ…d. Ja chce chodziÄ‡ z ty. Dobrze?}
+{189}{}{Och hmm. Twoje IQ jest byÄ‡ moÅ¼e mniejsze niÅ¼ twÃ³j rozmiar buta, ale z pewnoÅ›ciÄ… masz w sobie coÅ›, co pozwoliÅ‚o ci przeÅ¼yÄ‡ tak dÅ‚ugo... to musi byÄ‡ ten gÅ‚Ã³wny wÄ…tek, ktÃ³ry w tobie wyczuwam. A zresztÄ…. Do widzenia.}
 {190}{}{Uch... dobra.}
-{191}{}{Ja iœæ.}
-{192}{}{Przykro mi, nie chcê mieszaæ siê w twoje prywatne sprawy.}
-{193}{}{Jasne, postaraj siê, ¿eby tego znowu nie zrobiæ!}
-{194}{}{Cokolwiek. Potrzebujê od ciebie kilku informacji.}
-{195}{}{Przepraszam Goris. Trochê mi dziœ szwankuj¹ nerwy. Pragnê zadaæ ci kilka pytañ, o ile nie masz nic przeciwko.}
-{196}{}{Przytrafi³o ci siê kilka interesuj¹cych rzeczy. Jesteœ tym, z czego robi siê bohaterów i zazdroszczê ci tego.}
-{197}{}{No có¿... jesteœ chodz¹cym zwiastunem rzezi i chyba lepiej bêdzie, jeœli sobie pójdê. Dziêki i na razie!}
-{198}{}{Dziêkujê Gorisie.}
-{199}{}{Witaj znów. Jak leci?}
-{200}{}{Ty iœæ ja?}
-{201}{}{Uch... ja zgubiæ. Ja iœæ.}
+{191}{}{Ja iÅ›Ä‡.}
+{192}{}{Przykro mi, nie chcÄ™ mieszaÄ‡ siÄ™ w twoje prywatne sprawy.}
+{193}{}{Jasne, postaraj siÄ™, Å¼eby tego znowu nie zrobiÄ‡!}
+{194}{}{Cokolwiek. PotrzebujÄ™ od ciebie kilku informacji.}
+{195}{}{Przepraszam Goris. TrochÄ™ mi dziÅ› szwankujÄ… nerwy. PragnÄ™ zadaÄ‡ ci kilka pytaÅ„, o ile nie masz nic przeciwko.}
+{196}{}{PrzytrafiÅ‚o ci siÄ™ kilka interesujÄ…cych rzeczy. JesteÅ› tym, z czego robi siÄ™ bohaterÃ³w i zazdroszczÄ™ ci tego.}
+{197}{}{No cÃ³Å¼... jesteÅ› chodzÄ…cym zwiastunem rzezi i chyba lepiej bÄ™dzie, jeÅ›li sobie pÃ³jdÄ™. DziÄ™ki i na razie!}
+{198}{}{DziÄ™kujÄ™ Gorisie.}
+{199}{}{Witaj znÃ³w. Jak leci?}
+{200}{}{Ty iÅ›Ä‡ ja?}
+{201}{}{Uch... ja zgubiÄ‡. Ja iÅ›Ä‡.}
 {202}{}{Tak tylko wpadam przelotem. Na razie.}
-{203}{}{Hej, szukam towarzysza podró¿y. Co ty na to?}
-{204}{}{Co mogê dla ciebie zrobiæ,}
-{205}{}{Ty z³y! Czemu nie mówi?}
-{206}{}{Jesteœ szponem œmierci? Czy jest jakiœ powód, dla którego nie wspomnia³eœ mi o tym?}
-{207}{}{Jak to powiedzieæ... z³y ty zabiæ, nie rozmawiaæ. Ja nie mówiæ ty ¿eby ty widzi ja dobry. Nie zabiæ ja. Mo¿e ja zostaæ ty?}
-{208}{}{Przykro mi, ¿e ciê oszuka³em, ale ludzie maj¹ w zwyczaju strzelaæ na sam widok szpona œmierci. Odnios³em wra¿enie, ¿e by³oby dla mnie korzystne ukryæ moj¹ to¿samoœæ tak, aby daæ ci mo¿liwoœæ samodzielnie siê przekonaæ, ¿e jesteœmy w tym przedsiêwziêciu po tej samej stronie. Jeœli chcesz, ¿ebym odszed³, odejdê. Wola³bym jednak zostaæ i pomóc ci wype³niæ twoje zadanie. Chcê pokazaæ, ¿e ludzie i szpony œmierci mog¹ dzia³aæ wspólnie jako przyjaciele, nie wrogowie.}
-{209}{}{Ja nie lubi, ty iœæ.}
-{210}{}{Dobra, ty zostaæ.}
-{211}{}{Przykro mi, ale nie lubiê jak siê mnie oszukuje. Powinieneœ odejœæ.}
-{212}{}{Rozumiem, dlaczego odczu³eœ koniecznoœæ ukrycia swojej to¿samoœci. Myœlê, ¿e mo¿emy wspó³pracowaæ, wiêc proszê ciê, abyœ zosta³ - ale Gorisie, nie oszukuj mnie wiêcej.}
+{203}{}{Hej, szukam towarzysza podrÃ³Å¼y. Co ty na to?}
+{204}{}{Co mogÄ™ dla ciebie zrobiÄ‡,}
+{205}{}{Ty zÅ‚y! Czemu nie mÃ³wi?}
+{206}{}{JesteÅ› szponem Å›mierci? Czy jest jakiÅ› powÃ³d, dla ktÃ³rego nie wspomniaÅ‚eÅ› mi o tym?}
+{207}{}{Jak to powiedzieÄ‡... zÅ‚y ty zabiÄ‡, nie rozmawiaÄ‡. Ja nie mÃ³wiÄ‡ ty Å¼eby ty widzi ja dobry. Nie zabiÄ‡ ja. MoÅ¼e ja zostaÄ‡ ty?}
+{208}{}{Przykro mi, Å¼e ciÄ™ oszukaÅ‚em, ale ludzie majÄ… w zwyczaju strzelaÄ‡ na sam widok szpona Å›mierci. OdniosÅ‚em wraÅ¼enie, Å¼e byÅ‚oby dla mnie korzystne ukryÄ‡ mojÄ… toÅ¼samoÅ›Ä‡ tak, aby daÄ‡ ci moÅ¼liwoÅ›Ä‡ samodzielnie siÄ™ przekonaÄ‡, Å¼e jesteÅ›my w tym przedsiÄ™wziÄ™ciu po tej samej stronie. JeÅ›li chcesz, Å¼ebym odszedÅ‚, odejdÄ™. WolaÅ‚bym jednak zostaÄ‡ i pomÃ³c ci wypeÅ‚niÄ‡ twoje zadanie. ChcÄ™ pokazaÄ‡, Å¼e ludzie i szpony Å›mierci mogÄ… dziaÅ‚aÄ‡ wspÃ³lnie jako przyjaciele, nie wrogowie.}
+{209}{}{Ja nie lubi, ty iÅ›Ä‡.}
+{210}{}{Dobra, ty zostaÄ‡.}
+{211}{}{Przykro mi, ale nie lubiÄ™ jak siÄ™ mnie oszukuje. PowinieneÅ› odejÅ›Ä‡.}
+{212}{}{Rozumiem, dlaczego odczuÅ‚eÅ› koniecznoÅ›Ä‡ ukrycia swojej toÅ¼samoÅ›ci. MyÅ›lÄ™, Å¼e moÅ¼emy wspÃ³Å‚pracowaÄ‡, wiÄ™c proszÄ™ ciÄ™, abyÅ› zostaÅ‚ - ale Gorisie, nie oszukuj mnie wiÄ™cej.}
 {213}{}{. Ja tu niedawna.}
 {214}{}{. Tak, przybywam spoza Krypty.}
 {215}{}{.}
 {216}{}{?}
-{217}{}{Wiêc Enklawa zaczê³a m¹ciæ coœ z wirusem, czy coœ takiego i wstrzyknê³a go szponom œmierci. Ten wirus potrafi³ zmieniaæ ludzi w jakieœ nadrzêdne istoty, wiêc Enklawa chcia³a zobaczyæ, co zrobi³by szponom œmierci. No có¿, efektem by³y szpony œmierci tak inteligentne, ¿e zorientowa³y siê, ¿e ich przeznaczeniem jest niewola. A wiêc udawa³y g³upotê, a¿ uda³o im siê wydostaæ na wolnoœæ. I oto tu s¹!}
-{218}{}{Jestem przeciwko atakowaniu szponów œmierci.}
-{219}{}{Nagle poczu³em, ¿e moje stado ma k³opoty. Przykro mi, ¿e ciê opuszczam, ale muszê dowiedzieæ, siê co z mymi braæmi.}
-{220}{}{W porz¹dku.}
-{221}{}{Kamery bezpieczeñstwa zarejestrowa³y wszystko, co tu siê sta³o. Lepiej pójdŸ to zobaczyæ.}
-{222}{}{Widzisz szarego szpona œmierci. To Goris.}
-{223}{}{Widzisz humanoidaln¹ postaæ ubran¹ w habit z kapturem i d³ugimi rêkawami. To Goris.}
+{217}{}{WiÄ™c Enklawa zaczÄ™Å‚a mÄ…ciÄ‡ coÅ› z wirusem, czy coÅ› takiego i wstrzyknÄ™Å‚a go szponom Å›mierci. Ten wirus potrafiÅ‚ zmieniaÄ‡ ludzi w jakieÅ› nadrzÄ™dne istoty, wiÄ™c Enklawa chciaÅ‚a zobaczyÄ‡, co zrobiÅ‚by szponom Å›mierci. No cÃ³Å¼, efektem byÅ‚y szpony Å›mierci tak inteligentne, Å¼e zorientowaÅ‚y siÄ™, Å¼e ich przeznaczeniem jest niewola. A wiÄ™c udawaÅ‚y gÅ‚upotÄ™, aÅ¼ udaÅ‚o im siÄ™ wydostaÄ‡ na wolnoÅ›Ä‡. I oto tu sÄ…!}
+{218}{}{Jestem przeciwko atakowaniu szponÃ³w Å›mierci.}
+{219}{}{Nagle poczuÅ‚em, Å¼e moje stado ma kÅ‚opoty. Przykro mi, Å¼e ciÄ™ opuszczam, ale muszÄ™ dowiedzieÄ‡, siÄ™ co z mymi braÄ‡mi.}
+{220}{}{W porzÄ…dku.}
+{221}{}{Kamery bezpieczeÅ„stwa zarejestrowaÅ‚y wszystko, co tu siÄ™ staÅ‚o. Lepiej pÃ³jdÅº to zobaczyÄ‡.}
+{222}{}{Widzisz szarego szpona Å›mierci. To Goris.}
+{223}{}{Widzisz humanoidalnÄ… postaÄ‡ ubranÄ… w habit z kapturem i dÅ‚ugimi rÄ™kawami. To Goris.}
 {1000}{}{Tak }
-{1001}{}{Ty leczyæ siê.}
-{1002}{}{Ty tu czekaæ. Ja wróciæ i zabraæ.}
-{1003}{}{Uch... tera ¿adna broñ. Dobra?}
-{1008}{}{Ty Sz'mieræ? Czemu ty nie mówi?}
+{1001}{}{Ty leczyÄ‡ siÄ™.}
+{1002}{}{Ty tu czekaÄ‡. Ja wrÃ³ciÄ‡ i zabraÄ‡.}
+{1003}{}{Uch... tera Å¼adna broÅ„. Dobra?}
+{1008}{}{Ty Sz'mierÄ‡? Czemu ty nie mÃ³wi?}
 {1009}{}{Wszystko.}
-{1010}{}{Myœlê, ¿e to dobra pora, ¿eby siê podleczyæ.}
-{1011}{}{Poczekaj tu a¿ wrócê, dobrze?}
-{1012}{}{Upewnij siê, ¿e nie masz pod rêk¹ ¿adnej broni, dobrze?}
+{1010}{}{MyÅ›lÄ™, Å¼e to dobra pora, Å¼eby siÄ™ podleczyÄ‡.}
+{1011}{}{Poczekaj tu aÅ¼ wrÃ³cÄ™, dobrze?}
+{1012}{}{Upewnij siÄ™, Å¼e nie masz pod rÄ™kÄ… Å¼adnej broni, dobrze?}
 {1016}{}{Ruszajmy.}
-{1017}{}{Jesteœ szponem œmierci? Czy jest jakiœ powód, dla którego nie wspomnia³eœ mi o tym wczeœniej?}
+{1017}{}{JesteÅ› szponem Å›mierci? Czy jest jakiÅ› powÃ³d, dla ktÃ³rego nie wspomniaÅ‚eÅ› mi o tym wczeÅ›niej?}
 {1018}{}{To tyle. Przynajmniej na razie.}
-{1019}{}{Jestem zdrowy i mogê ruszaæ,}
-{1020}{}{Jestem prawie ca³kowicie wyleczony,}
-{1021}{}{Jestem z grubsza wyleczony, ale przyda³aby mi siê jakaœ pomoc, gdy tylko bêdziemy mieli ku temu okazjê,}
-{1022}{}{Uleczy³em siê na tyle, na ile mog³em, ale wci¹¿ jestem mocno poharatany,}
-{1041}{}{Bêdê tu na ciebie czeka³, a¿ po mnie wrócisz,}
-{1060}{}{Postaram siê wygl¹daæ tak niepozornie, jak tylko siê da,}
-{1064}{}{Ty staæ blisko.}
-{1065}{}{Ty nie odchodziæ.}
-{1066}{}{Ty za blisko. Ty siê odsun¹æ.}
-{1073}{}{B¹dŸ blisko mnie.}
-{1074}{}{Nie odchodŸ za daleko.}
-{1075}{}{Musimy siê trochê rozsun¹æ.}
+{1019}{}{Jestem zdrowy i mogÄ™ ruszaÄ‡,}
+{1020}{}{Jestem prawie caÅ‚kowicie wyleczony,}
+{1021}{}{Jestem z grubsza wyleczony, ale przydaÅ‚aby mi siÄ™ jakaÅ› pomoc, gdy tylko bÄ™dziemy mieli ku temu okazjÄ™,}
+{1022}{}{UleczyÅ‚em siÄ™ na tyle, na ile mogÅ‚em, ale wciÄ…Å¼ jestem mocno poharatany,}
+{1041}{}{BÄ™dÄ™ tu na ciebie czekaÅ‚, aÅ¼ po mnie wrÃ³cisz,}
+{1060}{}{Postaram siÄ™ wyglÄ…daÄ‡ tak niepozornie, jak tylko siÄ™ da,}
+{1064}{}{Ty staÄ‡ blisko.}
+{1065}{}{Ty nie odchodziÄ‡.}
+{1066}{}{Ty za blisko. Ty siÄ™ odsunÄ…Ä‡.}
+{1073}{}{BÄ…dÅº blisko mnie.}
+{1074}{}{Nie odchodÅº za daleko.}
+{1075}{}{Musimy siÄ™ trochÄ™ rozsunÄ…Ä‡.}
 {1078}{}{To tyle. Przynajmniej na razie.}
-{1079}{}{Bêdê siê trzyma³ tak blisko, jak tylko siê da,}
-{1098}{}{Odsunê siê trochê, ¿eby daæ ci trochê oddechu,}
-{1117}{}{Bêdê siê ciebie trzymaæ, ale zrobiê ci trochê miejsca,}
+{1079}{}{BÄ™dÄ™ siÄ™ trzymaÅ‚ tak blisko, jak tylko siÄ™ da,}
+{1098}{}{OdsunÄ™ siÄ™ trochÄ™, Å¼eby daÄ‡ ci trochÄ™ oddechu,}
+{1117}{}{BÄ™dÄ™ siÄ™ ciebie trzymaÄ‡, ale zrobiÄ™ ci trochÄ™ miejsca,}
 {1136}{}{Przykro mi,}
-{1137}{}{Wiele siê nauczy³em z naszych wspólnych podró¿y. Chêtnie pójdê z tob¹, }
+{1137}{}{Wiele siÄ™ nauczyÅ‚em z naszych wspÃ³lnych podrÃ³Å¼y. ChÄ™tnie pÃ³jdÄ™ z tobÄ…, }
 {1156}{}{? }
 {1157}{}{. }
-{1158}{}{, ale¿ masz ze sob¹ zbyt wiele osób. Poczekam tu, a¿ zwolni siê miejsce.}
-{1159}{}{Myœlê, ¿e lepiej poradzê sobie samodzielnie.}
-{1160}{}{Twoja nie kto ja chce byæ blisko ja iœæ.}
-{1161}{}{Chcê pomœciæ mych braci.}
-{1162}{}{Dobrze. Zróbmy to.}
-{1163}{}{Mo¿e powinieneœ zrobiæ to na w³asn¹ rêkê.}
-{1164}{}{Ty racja my zabijaæ.}
-{1165}{}{Ty iœæ sam.}
-{1166}{}{Zmieñmy odleg³oœæ miêdzy nami.}
-{1167}{}{Ja myœli ty musi ruszaæ inaczej.}
-{2000}{}{Chyba mam z³aman¹ koñczynê. Niezbêdna bêdzie pomoc medyczna.}
-{2001}{}{S¹dzê, ¿e cierpiê z powodu napromieniowania. Czy masz mo¿e coœ, czym mo¿esz mi pomóc?}
-{2002}{}{S¹dzê, ¿e cierpiê z powodu zatrucia. Czy masz mo¿e coœ, czym mo¿esz mi pomóc?}
+{1158}{}{, aleÅ¼ masz ze sobÄ… zbyt wiele osÃ³b. Poczekam tu, aÅ¼ zwolni siÄ™ miejsce.}
+{1159}{}{MyÅ›lÄ™, Å¼e lepiej poradzÄ™ sobie samodzielnie.}
+{1160}{}{Twoja nie kto ja chce byÄ‡ blisko ja iÅ›Ä‡.}
+{1161}{}{ChcÄ™ pomÅ›ciÄ‡ mych braci.}
+{1162}{}{Dobrze. ZrÃ³bmy to.}
+{1163}{}{MoÅ¼e powinieneÅ› zrobiÄ‡ to na wÅ‚asnÄ… rÄ™kÄ™.}
+{1164}{}{Ty racja my zabijaÄ‡.}
+{1165}{}{Ty iÅ›Ä‡ sam.}
+{1166}{}{ZmieÅ„my odlegÅ‚oÅ›Ä‡ miÄ™dzy nami.}
+{1167}{}{Ja myÅ›li ty musi ruszaÄ‡ inaczej.}
+{2000}{}{Chyba mam zÅ‚amanÄ… koÅ„czynÄ™. NiezbÄ™dna bÄ™dzie pomoc medyczna.}
+{2001}{}{SÄ…dzÄ™, Å¼e cierpiÄ™ z powodu napromieniowania. Czy masz moÅ¼e coÅ›, czym moÅ¼esz mi pomÃ³c?}
+{2002}{}{SÄ…dzÄ™, Å¼e cierpiÄ™ z powodu zatrucia. Czy masz moÅ¼e coÅ›, czym moÅ¼esz mi pomÃ³c?}

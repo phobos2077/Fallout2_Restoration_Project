@@ -1,3 +1,3 @@
-{100}{}{Nie tego siÍ spodziewa≥em po tych nasionach!}
-{101}{}{To pomoøe rozwiπzaÊ problem z wyøywieniem.}
-{102}{}{Po tygodniu przyúpieszonego wzrostu, kukurydza obros≥a ca≥y obszar zasiewu.}
+{100}{}{Nie tego siƒô spodziewa≈Çem po tych nasionach!}
+{101}{}{To pomo≈ºe rozwiƒÖzaƒá problem z wy≈ºywieniem.}
+{102}{}{Po tygodniu przy≈õpieszonego wzrostu, kukurydza obros≈Ça ca≈Çy obszar zasiewu.}

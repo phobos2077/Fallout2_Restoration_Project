@@ -4,7 +4,7 @@
 {200}{}{Halt! Do not attempt to come any closer. Identify yourself, intruder.}
 {201}{}{I'm the Chosen One of Arroyo. I'm exploring the EPA.}
 {202}{}{I'm not an intruder and now I need to be leaving.}
-{203}{}{…n }
+{203}{}{√ân }
 {204}{}{, and I'm not trying to intrude, I'm just exploring.}
 {210}{}{Exploring!? Exploring... MY... EPA!? How dare you have the audacity to break in here and just casually wander around! Vollidiot! I have a half a mind to arrest you and toss your ass in the petting zoo -- give them freakshows a real feast!}
 {211}{}{No, wait! I'm not doing you any harm! Let me explain...}
@@ -15,9 +15,9 @@
 {231}{}{Alright. First off, I'm not a Chinese spy -- I'm what you might call a tribal. I've been chosen to embark on a perilous quest so that I might save my tribe from destruction. I only entered this complex in hope of scavenging something that could aid me in my quest.}
 {232}{}{Fuck off. Seriously, you're a *hologram*. The worst you can do is try and shout me to death, which you seem to be giving your best shot. As for those scrap heaps you call robots, I might be a little more intimidated if I saw any around here that actually work.}
 {240}{}{Scavenge! You Pissnelke! How dare you discredit the name of the EPA in this way! Nobody so much as removes a piece of paper from this building without my say so! However, to have entered this far into the EPA would require some skill... perhaps I could find a use for you after all. }
-{241}{}{Nah·t...}
+{241}{}{Nah√°t...}
 {242}{}{No, I think I'll just scavenge some more and go. Bye!}
-{250}{}{Insolence! Such insolence from a Blˆdes Arschloch! When I began my training, insolence was to be punished. And punished we were! Mark my words scheisskopf, that forked tongue of yours will one day be the death of you.}
+{250}{}{Insolence! Such insolence from a Bl√∂des Arschloch! When I began my training, insolence was to be punished. And punished we were! Mark my words scheisskopf, that forked tongue of yours will one day be the death of you.}
 {251}{}{Maybe it will, maybe it will. And if that day were ever to come, I shall deal with it then and there. What is certain, is it will not come from you. You're a nobody. You have nothing left to rule over, which is why you cover up your sadness with anger. How long have the robots failed to respond to you?}
 {260}{}{Well, as you may already have guessed, the robots no longer work here at the EPA. The computer consoles no longer register my verbal commands and I don't have a body to activate the console. I... I can't properly secure anything. Could you fix the robot control computer for me? I need the ability to command the robots for... well, for things.}
 {261}{}{Well why not? I'll see what I can do.}
@@ -35,9 +35,9 @@
 {320}{}{Excellent! Brilliant! I can crush those fools now! The EPA will be cleansed once more! Alright, now I have something for you. [Speaking to the robots] Get yer metal ass in gear and come give this civie a reward for serving this great nation!
  [A robot wheels over to you and holds out a keycard. Once you take the card, you watch it wheel back out of the room. Somehow, you get the impression that these robots would have been
  happier if you'd left them inactive.] Be on your way now. You are dismissed.}
-{321}{}{Kˆszi.}
+{321}{}{K√∂szi.}
 {322}{}{Dismissed? What am I, a guardsman? Later, old timer.}
-{330}{}{Ne Èrj hozz·m!}
+{330}{}{Ne √©rj hozz√°m!}
 {331}{}{I want nothing more to do with you.}
 {332}{}{MACH ES DIR SELBER!!}
 {333}{}{I'm busy right now.}
@@ -54,9 +54,9 @@
 {344}{}{If I was in charge, things would actually get done around here!}
 {345}{}{Halt die Schnauze!}
 {400}{}{Arrest me? You're a hologram. You can't even touch me.}
-{401}{}{I see I got a goddamn Klugscheiﬂer on my hands! You think I can't beat the piss out of a Warmduscher like you? Well, maybe I can't, but that's what the damn robots are for! Now I'm running out of patience real fast. You best start explaining yourself. How do I know you're not a Chinese spy?}
+{401}{}{I see I got a goddamn Klugschei√üer on my hands! You think I can't beat the piss out of a Warmduscher like you? Well, maybe I can't, but that's what the damn robots are for! Now I'm running out of patience real fast. You best start explaining yourself. How do I know you're not a Chinese spy?}
 {410}{}{You the one that brought the robot control computer back online?}
-{411}{}{Õgy van!}
+{411}{}{√çgy van!}
 {412}{}{Uh... maybe.}
 {413}{}{Nope. Wasn't me.}
 {420}{}{Quatsch! You're the only flesh and blood being around, so I damn well know it was you.}

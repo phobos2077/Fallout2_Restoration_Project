@@ -1,5 +1,5 @@
-{100}{}{¡Por favor, no me hagas daño!}
-{101}{}{¿Eres tú mi nueva ama?}
-{102}{}{Por favor, libérame.}
+{100}{}{Â¡Por favor, no me hagas daÃ±o!}
+{101}{}{Â¿Eres tÃº mi nueva ama?}
+{102}{}{Por favor, libÃ©rame.}
 {103}{}{Quiero ser libre.}
-{104}{}{¡Corre!}
+{104}{}{Â¡Corre!}

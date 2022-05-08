@@ -1,14 +1,14 @@
-{100}{}{Csaló Urat látod.}
-{101}{}{Még mindig egy megrögzött csalónak látszik.}
-{200}{}{Helló, én Csaló Úr vagyok. Miben segíthetek?}
-{201}{}{Elrabolnád a törzsemet?}
-{202}{}{Megadná nekem a Shi küldetését?}
-{203}{}{Megadná nekem Elron küldetését?}
-{204}{}{Megadná nekem a Testvériség küldetését?}
-{205}{}{Intézd úgy, mintha már lettem volna a Katonai Bázison.}
-{206}{}{Elraboltam a törzsedet.}
-{207}{}{Megadtam a Shi küldetését.}
-{208}{}{Megadtam Elron küldetését.}
-{209}{}{Megadtam a Testvériség küldetését.}
-{210}{}{Már voltál a Katonai Bázison.}
-{211}{}{Köszönöm, Csaló Úr!}
+{100}{}{CsalÃ³ Urat lÃ¡tod.}
+{101}{}{MÃ©g mindig egy megrÃ¶gzÃ¶tt csalÃ³nak lÃ¡tszik.}
+{200}{}{HellÃ³, Ã©n CsalÃ³ Ãšr vagyok. Miben segÃ­thetek?}
+{201}{}{ElrabolnÃ¡d a tÃ¶rzsemet?}
+{202}{}{MegadnÃ¡ nekem a Shi kÃ¼ldetÃ©sÃ©t?}
+{203}{}{MegadnÃ¡ nekem Elron kÃ¼ldetÃ©sÃ©t?}
+{204}{}{MegadnÃ¡ nekem a TestvÃ©risÃ©g kÃ¼ldetÃ©sÃ©t?}
+{205}{}{IntÃ©zd Ãºgy, mintha mÃ¡r lettem volna a Katonai BÃ¡zison.}
+{206}{}{Elraboltam a tÃ¶rzsedet.}
+{207}{}{Megadtam a Shi kÃ¼ldetÃ©sÃ©t.}
+{208}{}{Megadtam Elron kÃ¼ldetÃ©sÃ©t.}
+{209}{}{Megadtam a TestvÃ©risÃ©g kÃ¼ldetÃ©sÃ©t.}
+{210}{}{MÃ¡r voltÃ¡l a Katonai BÃ¡zison.}
+{211}{}{KÃ¶szÃ¶nÃ¶m, CsalÃ³ Ãšr!}

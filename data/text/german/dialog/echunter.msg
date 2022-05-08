@@ -1,8 +1,8 @@
-{100}{}{Du siehst einen Jäger.}
-{101}{}{Du bist hier willkommen, Auserwähltes Wesen.}
+{100}{}{Du siehst einen JÃ¤ger.}
+{101}{}{Du bist hier willkommen, AuserwÃ¤hltes Wesen.}
 {102}{}{Hast du das heilige GECK gefunden?}
-{103}{}{Komm bald mit dem GECK zurück.}
-{104}{}{Mögen deine Reisen ohne Gefahr verlaufen.}
-{105}{}{Bring uns zurück, was uns gehört.}
-{106}{}{Du musst dich beeilen, Auserwähltes Wesen.}
-{107}{}{Wir schließen dich in unsre Gebete ein, Auserwähltes Wesen.}
+{103}{}{Komm bald mit dem GECK zurÃ¼ck.}
+{104}{}{MÃ¶gen deine Reisen ohne Gefahr verlaufen.}
+{105}{}{Bring uns zurÃ¼ck, was uns gehÃ¶rt.}
+{106}{}{Du musst dich beeilen, AuserwÃ¤hltes Wesen.}
+{107}{}{Wir schlieÃŸen dich in unsre Gebete ein, AuserwÃ¤hltes Wesen.}

@@ -1,2 +1,2 @@
-{100}{}{Tu vois une boîte marquée « Objets trouvés ».}
-{110}{}{Tu vois une boîte marquée « Objets trouvés ».}
+{100}{}{Tu vois une boÃ®te marquÃ©e Â« Objets trouvÃ©s Â».}
+{110}{}{Tu vois une boÃ®te marquÃ©e Â« Objets trouvÃ©s Â».}

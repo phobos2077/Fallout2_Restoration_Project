@@ -1,8 +1,8 @@
-{100}{}{? Feargus, az unokaöcséd, szokás szerint nyafog valamiért.}
-{101}{}{Ahh!!! Kérlek, javítsd meg a kutat!}
-{102}{}{Ahh!!! Nagyon szomjas vagyok, de a kút tönkrement!}
-{103}{}{Ahh!!! Meg kellene javítani a kutat!}
-{104}{}{Kösz, hogy megjavítottad a kutat!}
-{105}{}{Légy óvatos!}
-{106}{}{Megjavítottad a kutat. Te vagy a kiválasztott!}
-{200}{}{Feargus, az unokaöcséd.}
+{100}{}{? Feargus, az unokaÃ¶csÃ©d, szokÃ¡s szerint nyafog valamiÃ©rt.}
+{101}{}{Ahh!!! KÃ©rlek, javÃ­tsd meg a kutat!}
+{102}{}{Ahh!!! Nagyon szomjas vagyok, de a kÃºt tÃ¶nkrement!}
+{103}{}{Ahh!!! Meg kellene javÃ­tani a kutat!}
+{104}{}{KÃ¶sz, hogy megjavÃ­tottad a kutat!}
+{105}{}{LÃ©gy Ã³vatos!}
+{106}{}{MegjavÃ­tottad a kutat. Te vagy a kivÃ¡lasztott!}
+{200}{}{Feargus, az unokaÃ¶csÃ©d.}

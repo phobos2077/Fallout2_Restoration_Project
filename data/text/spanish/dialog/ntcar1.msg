@@ -1,4 +1,4 @@
-{100}{}{¡Eh! ¡¿Dónde está mi coche?!}
-{101}{}{¿Dónde ha ido mi coche...?}
-{110}{}{Oh, oh. ¡No veo coche aquí!}
+{100}{}{Â¡Eh! Â¡Â¿DÃ³nde estÃ¡ mi coche?!}
+{101}{}{Â¿DÃ³nde ha ido mi coche...?}
+{110}{}{Oh, oh. Â¡No veo coche aquÃ­!}
 {111}{}{Uh, oh. Perdido coche...}

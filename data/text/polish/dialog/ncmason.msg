@@ -1,201 +1,201 @@
 {100}{}{Widzisz Masona.}
-{150}{}{Widzisz potê¿nie zbudowanego, ³ysiej¹cego mê¿czyznê w œrednim wieku.}
-{151}{}{Widzisz Masona, który przygl¹da ci siê uwa¿nie.}
-{200}{}{Co tu robisz na górze?}
-{205}{}{Proszê, spójrzcie tylko na tê zgrajê dupków.}
-{210}{}{Dotknij raz jeszcze tych drzwi, a zrobiê z ciebie pochodniê.}
-{215}{}{Mo¿esz wejœæ... TYM razem.}
-{220}{}{W³azisz, gdzie ciê nie prosz¹, dzikusie. Spadaj.}
-{221}{}{To nie jakieœ studio pornograficzne. Spadaj.}
-{222}{}{Hej, pi¹cha, co ty tutaj robisz? Nie wiesz, którêdy na ring? Zmiataj st¹d.}
-{223}{}{Sp³ywaj.}
-{224}{}{Oog dostaæ misja}
-{225}{}{OdejdŸ}
+{150}{}{Widzisz potÄ™Å¼nie zbudowanego, Å‚ysiejÄ…cego mÄ™Å¼czyznÄ™ w Å›rednim wieku.}
+{151}{}{Widzisz Masona, ktÃ³ry przyglÄ…da ci siÄ™ uwaÅ¼nie.}
+{200}{}{Co tu robisz na gÃ³rze?}
+{205}{}{ProszÄ™, spÃ³jrzcie tylko na tÄ™ zgrajÄ™ dupkÃ³w.}
+{210}{}{Dotknij raz jeszcze tych drzwi, a zrobiÄ™ z ciebie pochodniÄ™.}
+{215}{}{MoÅ¼esz wejÅ›Ä‡... TYM razem.}
+{220}{}{WÅ‚azisz, gdzie ciÄ™ nie proszÄ…, dzikusie. Spadaj.}
+{221}{}{To nie jakieÅ› studio pornograficzne. Spadaj.}
+{222}{}{Hej, piÄ…cha, co ty tutaj robisz? Nie wiesz, ktÃ³rÄ™dy na ring? Zmiataj stÄ…d.}
+{223}{}{SpÅ‚ywaj.}
+{224}{}{Oog dostaÄ‡ misja}
+{225}{}{OdejdÅº}
 {226}{}{Co jest za tymi drzwiami?}
-{227}{}{Chcê siê zobaczyæ z panem Salvatore.}
-{228}{}{Czy mogê ciê zapytaæ, sk¹d macie te pistolety laserowe?}
-{229}{}{Podobno to wy, Salvatore, otruliœcie dzieciaka Wrightów.}
-{230}{}{No dobrze, ju¿ sobie idê.}
-{240}{}{Sp³ywaj st¹d bezmózga pa³o. Drugi raz tego nie powiem.}
+{227}{}{ChcÄ™ siÄ™ zobaczyÄ‡ z panem Salvatore.}
+{228}{}{Czy mogÄ™ ciÄ™ zapytaÄ‡, skÄ…d macie te pistolety laserowe?}
+{229}{}{Podobno to wy, Salvatore, otruliÅ›cie dzieciaka WrightÃ³w.}
+{230}{}{No dobrze, juÅ¼ sobie idÄ™.}
+{240}{}{SpÅ‚ywaj stÄ…d bezmÃ³zga paÅ‚o. Drugi raz tego nie powiem.}
 {241}{}{Drugi raz CO?}
-{250}{}{¯ycie jest pe³ne rozczarowañ. A teraz SPADAJ, capiche?}
-{251}{}{(Sarkastycznie) Za tymi drzwiami? Tymi tutaj? Jak to, to przecie¿ pokój pana SALVATORE. A teraz SP£YWAJ.}
-{252}{}{Chcê siê widzieæ z panem Salvatore. Chcê dostaæ pracê.}
-{253}{}{S³uchaj pierdo³o... chcesz jutro jeszcze mieæ tê pracê? Mam informacjê o jednej z rodzin z Reno, któr¹ pan Salvatore bêdzie chcia³ poznaæ. Wiêc daj mi siê z nim zobaczyæ TERAZ.}
-{254}{}{Sk¹d macie te pistolety laserowe?}
+{250}{}{Å»ycie jest peÅ‚ne rozczarowaÅ„. A teraz SPADAJ, capiche?}
+{251}{}{(Sarkastycznie) Za tymi drzwiami? Tymi tutaj? Jak to, to przecieÅ¼ pokÃ³j pana SALVATORE. A teraz SPÅYWAJ.}
+{252}{}{ChcÄ™ siÄ™ widzieÄ‡ z panem Salvatore. ChcÄ™ dostaÄ‡ pracÄ™.}
+{253}{}{SÅ‚uchaj pierdoÅ‚o... chcesz jutro jeszcze mieÄ‡ tÄ™ pracÄ™? Mam informacjÄ™ o jednej z rodzin z Reno, ktÃ³rÄ… pan Salvatore bÄ™dzie chciaÅ‚ poznaÄ‡. WiÄ™c daj mi siÄ™ z nim zobaczyÄ‡ TERAZ.}
+{254}{}{SkÄ…d macie te pistolety laserowe?}
 {265}{}{}
-{266}{}{Ch³opie, musisz byæ g³upszy od OS£A, ¿eby tak do mnie gadaæ. Jeszcze jedno s³owo, JEDNO s³owo i sfajczysz siê na miejscu.}
-{267}{}{Dziewczyno, musisz byæ g³upsza od OS£A, ¿eby tak do mnie gadaæ. Jeszcze jedno s³owo, JEDNO s³owo i sfajczysz siê na miejscu.}
-{268}{}{MÓWIÊ, ¿e chcê siê zobaczyæ z panem Salvatore.}
-{270}{}{(OdejdŸ w ciszy.)}
-{275}{}{(Purpurowieje na twarzy. Nagle zaczyna mówiæ w powietrze) Przepraszam pana, panie Salvatore, tu Mason.}
-{276}{}{Ten... mê¿czyzna... twierdzi, ¿e wie coœ, o czym chcia³by pan us³yszeæ.}
-{277}{}{Ta... kobieta... twierdzi, ¿e wie coœ, o czym chcia³by pan us³yszeæ.}
+{266}{}{ChÅ‚opie, musisz byÄ‡ gÅ‚upszy od OSÅA, Å¼eby tak do mnie gadaÄ‡. Jeszcze jedno sÅ‚owo, JEDNO sÅ‚owo i sfajczysz siÄ™ na miejscu.}
+{267}{}{Dziewczyno, musisz byÄ‡ gÅ‚upsza od OSÅA, Å¼eby tak do mnie gadaÄ‡. Jeszcze jedno sÅ‚owo, JEDNO sÅ‚owo i sfajczysz siÄ™ na miejscu.}
+{268}{}{MÃ“WIÄ˜, Å¼e chcÄ™ siÄ™ zobaczyÄ‡ z panem Salvatore.}
+{270}{}{(OdejdÅº w ciszy.)}
+{275}{}{(Purpurowieje na twarzy. Nagle zaczyna mÃ³wiÄ‡ w powietrze) Przepraszam pana, panie Salvatore, tu Mason.}
+{276}{}{Ten... mÄ™Å¼czyzna... twierdzi, Å¼e wie coÅ›, o czym chciaÅ‚by pan usÅ‚yszeÄ‡.}
+{277}{}{Ta... kobieta... twierdzi, Å¼e wie coÅ›, o czym chciaÅ‚by pan usÅ‚yszeÄ‡.}
 {278}{}{(Poczekaj...)}
-{279}{}{(Zaatakuj Masona, zanim dokoñczy.)}
-{285}{}{S³uchaj, dzikusie, mo¿e nikt ci tego nie POWIEDZIA£, ale to jest siedziba pana Salvatore. MOJA praca polega na pilnowaniu, ¿eby takie rozszczekane psy jak ty nie zawraca³y g³owy szefowi. A teraz spadaj do swojej wioski i ugotuj sobie na kolacjê jednego ze swoich ziomków.}
-{295}{}{Te pistolety? Aajaj, kurczê, nie umiem powiedzieæ. Zwyczajnie zapomnia³em. (Krzywi siê) S³uchaj, dzikusie. Albo zaraz st¹d sp³yniesz, albo zrobiê sobie z ciebie pochodniê. Spadaj.}
-{298}{}{Dobra! Ju¿ idê, idê.}
-{299}{}{WyjdŸ cicho.}
-{305}{}{OSTRZEGA£EM ciê je³opo, teraz ciê za... (Nagle Mason przestaje mówiæ i s³ucha czegoœ, czego ty nie s³yszysz. Po chwili zaciska zêby. Pan Salvatore mówi, ¿e mo¿esz wejœæ... }
-{306}{}{Och, ju¿ idê. Ale najpierw ciê zabijê.}
-{307}{}{Dziêki pacanie, nie zapomnê wspomnieæ panu Salvatore o twoich manierach.}
+{279}{}{(Zaatakuj Masona, zanim dokoÅ„czy.)}
+{285}{}{SÅ‚uchaj, dzikusie, moÅ¼e nikt ci tego nie POWIEDZIAÅ, ale to jest siedziba pana Salvatore. MOJA praca polega na pilnowaniu, Å¼eby takie rozszczekane psy jak ty nie zawracaÅ‚y gÅ‚owy szefowi. A teraz spadaj do swojej wioski i ugotuj sobie na kolacjÄ™ jednego ze swoich ziomkÃ³w.}
+{295}{}{Te pistolety? Aajaj, kurczÄ™, nie umiem powiedzieÄ‡. Zwyczajnie zapomniaÅ‚em. (Krzywi siÄ™) SÅ‚uchaj, dzikusie. Albo zaraz stÄ…d spÅ‚yniesz, albo zrobiÄ™ sobie z ciebie pochodniÄ™. Spadaj.}
+{298}{}{Dobra! JuÅ¼ idÄ™, idÄ™.}
+{299}{}{WyjdÅº cicho.}
+{305}{}{OSTRZEGAÅEM ciÄ™ jeÅ‚opo, teraz ciÄ™ za... (Nagle Mason przestaje mÃ³wiÄ‡ i sÅ‚ucha czegoÅ›, czego ty nie sÅ‚yszysz. Po chwili zaciska zÄ™by. Pan Salvatore mÃ³wi, Å¼e moÅ¼esz wejÅ›Ä‡... }
+{306}{}{Och, juÅ¼ idÄ™. Ale najpierw ciÄ™ zabijÄ™.}
+{307}{}{DziÄ™ki pacanie, nie zapomnÄ™ wspomnieÄ‡ panu Salvatore o twoich manierach.}
 {308}{}{No to trudno.}
-{315}{}{(Mason ciê zatrzymuje) S³uchaj ch³opcze... (Nachyla siê, zni¿a g³os) ...kilka podstawowych zasad. }
-{316}{}{S³uchaj dziewczyno... (Nachyla siê, zni¿a g³os) ...kilka podstawowych zasad. }
-{317}{}{Nie marnuj czasu pana Salvatore, nie wciskaj mu ¿adnego kitu, albo siê z tob¹ policzê.}
+{315}{}{(Mason ciÄ™ zatrzymuje) SÅ‚uchaj chÅ‚opcze... (Nachyla siÄ™, zniÅ¼a gÅ‚os) ...kilka podstawowych zasad. }
+{316}{}{SÅ‚uchaj dziewczyno... (Nachyla siÄ™, zniÅ¼a gÅ‚os) ...kilka podstawowych zasad. }
+{317}{}{Nie marnuj czasu pana Salvatore, nie wciskaj mu Å¼adnego kitu, albo siÄ™ z tobÄ… policzÄ™.}
 {318}{}{Zrozumiano.}
-{319}{}{Jasne, jasne, jak chcesz. ZejdŸ mi z drogi.}
-{325}{}{(Mason znów ciê zatrzymuje) Jeszcze nie SKOÑCZY£EM. Oka¿ mu SZACUNEK. Ci¹gle mów do niego "panie Salvatore", a kiedy on mówi do ciebie, ty *zamknij siê i s³uchaj*. Rozumiesz?}
-{327}{}{To twoja ostatnia szansa, Mason. ZejdŸ mi kurde z drogi.}
-{335}{}{Pewnego dnia ty i ja ostatecznie rozwi¹¿emy ten twój problem ze zwierzchnoœci¹.}
-{336}{}{Ja nie mam ¿adnych problemów. Wszystko jest w porz¹dku.}
-{337}{}{Wal siê.}
-{345}{}{No dobra, mam tego DOSYÆ! Tego ju¿ za wiele... (chrzêst k³ykci) ...a teraz bêdziesz cierpieæ.}
-{346}{}{Cierpieæ? William?}
-{347}{}{Zatañczmy.}
-{348}{}{Nie, TO TY bêdziesz CIERPIEÆ! S£YSZYSZ MNIE MASON?! TO TY BÊDZISZ TUTAJ CIER...}
-{355}{}{Jesteœ w sam¹ porê ch³opcze. }
-{356}{}{Jesteœ w sam¹ porê dziewczyno. }
-{357}{}{Jesteœ w sam¹ porê. Nie wiem, po co pan Salvatore zatrudnia takie pornoœmieci, ale nie bêdê go o to pyta³. }
-{358}{}{Ten w³óczêga, który okrad³ pana Salvatore, nazywa siê Lloyd. Pan Salvatore pragnie jego œmierci i chce swoje pieni¹dze z powrotem. Kiedy wykonasz robotê, zg³oœ siê do MNIE, zrozumiano? Dasz sobie z tym radê?}
-{359}{}{Gdzie znajdê tego Lloyda?}
-{360}{}{Jak wygl¹da ten Lloyd?}
-{361}{}{Ile ukrad³?}
+{319}{}{Jasne, jasne, jak chcesz. ZejdÅº mi z drogi.}
+{325}{}{(Mason znÃ³w ciÄ™ zatrzymuje) Jeszcze nie SKOÅƒCZYÅEM. OkaÅ¼ mu SZACUNEK. CiÄ…gle mÃ³w do niego "panie Salvatore", a kiedy on mÃ³wi do ciebie, ty *zamknij siÄ™ i sÅ‚uchaj*. Rozumiesz?}
+{327}{}{To twoja ostatnia szansa, Mason. ZejdÅº mi kurde z drogi.}
+{335}{}{Pewnego dnia ty i ja ostatecznie rozwiÄ…Å¼emy ten twÃ³j problem ze zwierzchnoÅ›ciÄ….}
+{336}{}{Ja nie mam Å¼adnych problemÃ³w. Wszystko jest w porzÄ…dku.}
+{337}{}{Wal siÄ™.}
+{345}{}{No dobra, mam tego DOSYÄ†! Tego juÅ¼ za wiele... (chrzÄ™st kÅ‚ykci) ...a teraz bÄ™dziesz cierpieÄ‡.}
+{346}{}{CierpieÄ‡? William?}
+{347}{}{ZataÅ„czmy.}
+{348}{}{Nie, TO TY bÄ™dziesz CIERPIEÄ†! SÅYSZYSZ MNIE MASON?! TO TY BÄ˜DZISZ TUTAJ CIER...}
+{355}{}{JesteÅ› w samÄ… porÄ™ chÅ‚opcze. }
+{356}{}{JesteÅ› w samÄ… porÄ™ dziewczyno. }
+{357}{}{JesteÅ› w samÄ… porÄ™. Nie wiem, po co pan Salvatore zatrudnia takie pornoÅ›mieci, ale nie bÄ™dÄ™ go o to pytaÅ‚. }
+{358}{}{Ten wÅ‚Ã³czÄ™ga, ktÃ³ry okradÅ‚ pana Salvatore, nazywa siÄ™ Lloyd. Pan Salvatore pragnie jego Å›mierci i chce swoje pieniÄ…dze z powrotem. Kiedy wykonasz robotÄ™, zgÅ‚oÅ› siÄ™ do MNIE, zrozumiano? Dasz sobie z tym radÄ™?}
+{359}{}{Gdzie znajdÄ™ tego Lloyda?}
+{360}{}{Jak wyglÄ…da ten Lloyd?}
+{361}{}{Ile ukradÅ‚?}
 {362}{}{Czemu TY nie tropisz Lloyda?}
-{364}{}{Jasne. Dziêki, Mason.}
-{365}{}{Poradzê sobie. A teraz siê odsuñ i daj mi wzi¹æ siê do roboty.}
-{366}{}{"Sprawa" Lloyda jest ju¿ rozwi¹zana.}
-{367}{}{Kto by³ krupierem przy stole przy którym Lloyd wygra³ pieni¹dze?}
-{375}{}{Tak? Na przyk³ad?}
-{381}{}{To wszystko, co chcê wiedzieæ. Dziêki, Mason.}
-{382}{}{To wszystko, co chcê wiedzieæ. A teraz siê odsuñ i daj mi wzi¹æ siê do roboty, Mason.}
-{390}{}{To gnida, wiêc szukanie go to TWOJA robota ch³opczyku. }
-{391}{}{To gnida, wiêc szukanie go to TWOJA robota dziewczynko. }
-{392}{}{SprawdŸ knajpy wzd³u¿ Alei Dziewic. Byæ mo¿e Lloyd gdzieœ tam siê ukrywa.}
-{393}{}{Mam kilka innych pytañ...}
-{400}{}{Lloyd? Do diab³a... jest œredniego wzrostu, bia³y, br¹zowe w³osy. Ostatnim razem jak go widzia³em, mia³ brunatn¹ koszulê i ciemnobr¹zow¹ chustkê. Od tamtej pory pewnie nie zmieni³ ubrania.}
-{401}{}{Wiesz, to dziwne, ale ten opis pasuje do MNÓSTWA ludzi, których spotykam od mojego wyjazdu z Arroyo.}
-{410}{}{Ha! Mnie to mówisz. Imiona to teraz chyba jedyny sposób, ¿eby ludzi od siebie odró¿niæ. Myœla³by kto, ¿e na ca³ym œwiecie jest tylko dziesiêæ rodzajów ludzi. (Pochyla siê) Tak sobie myœlê, ¿e w przesz³oœci by³ jakiœ du¿y wypadek z klonowaniem.}
-{420}{}{Oko³o tysi¹ca dolców. I s³uchaj, to dla pana Salvatore betka, ale on ma uraz do ludzi, którzy mu zabieraj¹ COKOLWIEK. Na twoim miejscu pamiêta³bym o tym. Pan Salvatore bêdzie chcia³ dostaæ z powrotem wszystko, CO DO dolara.}
-{430}{}{Mam oczy szeroko otwarte, ale Lloyd jest teraz bardzo ostro¿ny i trzyma siê z daleka... w ka¿dym razie od Salvatore. Za³o¿ê siê, ¿e szef doszed³ do wniosku, ¿e tobie mo¿e siê bardziej poszczêœciæ, bo jesteœ tu od niedawna i w ogóle.}
+{364}{}{Jasne. DziÄ™ki, Mason.}
+{365}{}{PoradzÄ™ sobie. A teraz siÄ™ odsuÅ„ i daj mi wziÄ…Ä‡ siÄ™ do roboty.}
+{366}{}{"Sprawa" Lloyda jest juÅ¼ rozwiÄ…zana.}
+{367}{}{Kto byÅ‚ krupierem przy stole przy ktÃ³rym Lloyd wygraÅ‚ pieniÄ…dze?}
+{375}{}{Tak? Na przykÅ‚ad?}
+{381}{}{To wszystko, co chcÄ™ wiedzieÄ‡. DziÄ™ki, Mason.}
+{382}{}{To wszystko, co chcÄ™ wiedzieÄ‡. A teraz siÄ™ odsuÅ„ i daj mi wziÄ…Ä‡ siÄ™ do roboty, Mason.}
+{390}{}{To gnida, wiÄ™c szukanie go to TWOJA robota chÅ‚opczyku. }
+{391}{}{To gnida, wiÄ™c szukanie go to TWOJA robota dziewczynko. }
+{392}{}{SprawdÅº knajpy wzdÅ‚uÅ¼ Alei Dziewic. ByÄ‡ moÅ¼e Lloyd gdzieÅ› tam siÄ™ ukrywa.}
+{393}{}{Mam kilka innych pytaÅ„...}
+{400}{}{Lloyd? Do diabÅ‚a... jest Å›redniego wzrostu, biaÅ‚y, brÄ…zowe wÅ‚osy. Ostatnim razem jak go widziaÅ‚em, miaÅ‚ brunatnÄ… koszulÄ™ i ciemnobrÄ…zowÄ… chustkÄ™. Od tamtej pory pewnie nie zmieniÅ‚ ubrania.}
+{401}{}{Wiesz, to dziwne, ale ten opis pasuje do MNÃ“STWA ludzi, ktÃ³rych spotykam od mojego wyjazdu z Arroyo.}
+{410}{}{Ha! Mnie to mÃ³wisz. Imiona to teraz chyba jedyny sposÃ³b, Å¼eby ludzi od siebie odrÃ³Å¼niÄ‡. MyÅ›laÅ‚by kto, Å¼e na caÅ‚ym Å›wiecie jest tylko dziesiÄ™Ä‡ rodzajÃ³w ludzi. (Pochyla siÄ™) Tak sobie myÅ›lÄ™, Å¼e w przeszÅ‚oÅ›ci byÅ‚ jakiÅ› duÅ¼y wypadek z klonowaniem.}
+{420}{}{OkoÅ‚o tysiÄ…ca dolcÃ³w. I sÅ‚uchaj, to dla pana Salvatore betka, ale on ma uraz do ludzi, ktÃ³rzy mu zabierajÄ… COKOLWIEK. Na twoim miejscu pamiÄ™taÅ‚bym o tym. Pan Salvatore bÄ™dzie chciaÅ‚ dostaÄ‡ z powrotem wszystko, CO DO dolara.}
+{430}{}{Mam oczy szeroko otwarte, ale Lloyd jest teraz bardzo ostroÅ¼ny i trzyma siÄ™ z daleka... w kaÅ¼dym razie od Salvatore. ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e szef doszedÅ‚ do wniosku, Å¼e tobie moÅ¼e siÄ™ bardziej poszczÄ™Å›ciÄ‡, bo jesteÅ› tu od niedawna i w ogÃ³le.}
 {431}{}{Jasne, pewnie. Spad...}
 {432}{}{Mam kilka innych pyt...}
-{433}{}{No dobrze, pójdê siê roz...}
+{433}{}{No dobrze, pÃ³jdÄ™ siÄ™ roz...}
 {440}{}{No to trudno.}
-{442}{}{To wszystko, co chcê wiedzieæ. A teraz siê odsuñ i daj mi wzi¹æ siê do roboty.}
-{465}{}{Czy sprawa Lloyda jest ju¿ za³atwiona?}
-{466}{}{(Krzywi siê) LEPIEJ miej dla mnie jakieœ dobre wieœci. Sprawa Lloyda za³atwiona?}
-{467}{}{(Krzywi siê) LEPIEJ miej jakieœ dobre wieœci dla pana Salvatore, albo przeœpisz siê z radskorpionami.}
-{468}{}{Nie, jeszcze nie. Mam jeszcze kilka pytañ o Lloyda...}
+{442}{}{To wszystko, co chcÄ™ wiedzieÄ‡. A teraz siÄ™ odsuÅ„ i daj mi wziÄ…Ä‡ siÄ™ do roboty.}
+{465}{}{Czy sprawa Lloyda jest juÅ¼ zaÅ‚atwiona?}
+{466}{}{(Krzywi siÄ™) LEPIEJ miej dla mnie jakieÅ› dobre wieÅ›ci. Sprawa Lloyda zaÅ‚atwiona?}
+{467}{}{(Krzywi siÄ™) LEPIEJ miej jakieÅ› dobre wieÅ›ci dla pana Salvatore, albo przeÅ›pisz siÄ™ z radskorpionami.}
+{468}{}{Nie, jeszcze nie. Mam jeszcze kilka pytaÅ„ o Lloyda...}
 {470}{}{Tak.}
-{472}{}{Nie, myœlê, ¿e uciek³ z miasta razem z gotówk¹.}
-{473}{}{Jeszcze nie. Przepraszam za k³opot.}
-{480}{}{Nie tak szybko. Wyra¿ê siê BARDZO jasno, tak ¿ebym mia³ pewnoœæ, ¿e mnie rozumiesz: nie rozmawiaj ze mn¹ wiêcej, póki nie znajdziesz Lloyda. Albo siê wœcieknê. A teraz bierz siê do ROBOTY.}
-{481}{}{Dobra ju¿, dobra...}
-{482}{}{IdŸ siê utop, Mason.}
-{490}{}{Mówi³em, ¿e masz nie wracaæ, póki nie znajdziesz Lloyda... MÓWI£EM ci. (Stuka siê w g³owê) Nie masz w ogóle rozumu?! Pewnie tak, skoro znowu ze mn¹ rozmawiasz. ZGINIESZ.}
-{491}{}{No chodŸ tu, pierdo³o.}
-{492}{}{No spróbuj.}
-{493}{}{Nie, TO TY nie masz rozumu i ZGINIESZ! S£YSZYSZ MNIE MASON?! TO TY ZARAZ ZGI...}
-{500}{}{(Gapi siê na ciebie z niedowierzaniem) Nie uda³o ci siê. Da³em ci ³atw¹ robotê, a tobie siê NIE UDA£O. }
-{501}{}{Musisz byæ NAJG£UPSZYM skurwysynem na ca³ej ziemi. }
-{502}{}{Musisz byæ NAJG£UPSZ¥ suk¹ na ca³ej ziemi. }
-{503}{}{(Uœmiecha siê szyderczo i siêga po broñ) Czas umrzeæ, dzikusie.}
-{506}{}{Nie, TO TY zaraz UMRZESZ! S£YSZYSZ MNIE MASON?! TO TY ZARAZ TUTAJ UM...}
-{514}{}{No to by³o tak OD RAZU, ptasi mó¿d¿ku! IdŸ do pana Salvatore i mu o tym opowiedz.}
-{515}{}{(Kiwa g³ow¹ lekko siê marszcz¹c) No dobra... idŸ do pana Salvatore i mu o tym opowiedz.}
-{516}{}{Och, NAPRAWDÊ? Czy w³aœnie TO mam zrobiæ? Dziêki, Mason. Bez ciebie to nawet nie wiem, jak otworzyæ drzwi. Raany. Idiota.}
+{472}{}{Nie, myÅ›lÄ™, Å¼e uciekÅ‚ z miasta razem z gotÃ³wkÄ….}
+{473}{}{Jeszcze nie. Przepraszam za kÅ‚opot.}
+{480}{}{Nie tak szybko. WyraÅ¼Ä™ siÄ™ BARDZO jasno, tak Å¼ebym miaÅ‚ pewnoÅ›Ä‡, Å¼e mnie rozumiesz: nie rozmawiaj ze mnÄ… wiÄ™cej, pÃ³ki nie znajdziesz Lloyda. Albo siÄ™ wÅ›cieknÄ™. A teraz bierz siÄ™ do ROBOTY.}
+{481}{}{Dobra juÅ¼, dobra...}
+{482}{}{IdÅº siÄ™ utop, Mason.}
+{490}{}{MÃ³wiÅ‚em, Å¼e masz nie wracaÄ‡, pÃ³ki nie znajdziesz Lloyda... MÃ“WIÅEM ci. (Stuka siÄ™ w gÅ‚owÄ™) Nie masz w ogÃ³le rozumu?! Pewnie tak, skoro znowu ze mnÄ… rozmawiasz. ZGINIESZ.}
+{491}{}{No chodÅº tu, pierdoÅ‚o.}
+{492}{}{No sprÃ³buj.}
+{493}{}{Nie, TO TY nie masz rozumu i ZGINIESZ! SÅYSZYSZ MNIE MASON?! TO TY ZARAZ ZGI...}
+{500}{}{(Gapi siÄ™ na ciebie z niedowierzaniem) Nie udaÅ‚o ci siÄ™. DaÅ‚em ci Å‚atwÄ… robotÄ™, a tobie siÄ™ NIE UDAÅO. }
+{501}{}{Musisz byÄ‡ NAJGÅUPSZYM skurwysynem na caÅ‚ej ziemi. }
+{502}{}{Musisz byÄ‡ NAJGÅUPSZÄ„ sukÄ… na caÅ‚ej ziemi. }
+{503}{}{(UÅ›miecha siÄ™ szyderczo i siÄ™ga po broÅ„) Czas umrzeÄ‡, dzikusie.}
+{506}{}{Nie, TO TY zaraz UMRZESZ! SÅYSZYSZ MNIE MASON?! TO TY ZARAZ TUTAJ UM...}
+{514}{}{No to byÅ‚o tak OD RAZU, ptasi mÃ³Å¼dÅ¼ku! IdÅº do pana Salvatore i mu o tym opowiedz.}
+{515}{}{(Kiwa gÅ‚owÄ… lekko siÄ™ marszczÄ…c) No dobra... idÅº do pana Salvatore i mu o tym opowiedz.}
+{516}{}{Och, NAPRAWDÄ˜? Czy wÅ‚aÅ›nie TO mam zrobiÄ‡? DziÄ™ki, Mason. Bez ciebie to nawet nie wiem, jak otworzyÄ‡ drzwi. Raany. Idiota.}
 {517}{}{Dobrze.}
 {520}{}{Jak tam twoja robota?}
-{525}{}{Pan Salvatore na ciebie czeka. IdŸ do niego.}
-{530}{}{No dobra. Zostaniesz jednoosobowym urzêdem podatkowym. Sprawa jest prosta: odwiedŸ Aptekê Renesco w Pasa¿u Handlowym, zbierz haracz, 1000 dolców, a potem przynieœ go tutaj.}
-{531}{}{W porz¹dku... coœ jeszcze?}
-{535}{}{Masz ju¿ ten haracz?}
-{536}{}{(Marszczy siê) Masz ju¿ ten haracz?}
-{537}{}{(Krzywi siê) Tym razem LEPIEJ miej pieni¹dze, je³opo. Pan Salvatore czeka.}
-{539}{}{A od kogo mam go zebraæ?}
-{540}{}{Renesco wciska mi kit. Mówi, ¿e zap³aci³ ju¿ dwa tygodnie temu i nie powinien p³aciæ za nastêpny miesi¹c.}
+{525}{}{Pan Salvatore na ciebie czeka. IdÅº do niego.}
+{530}{}{No dobra. Zostaniesz jednoosobowym urzÄ™dem podatkowym. Sprawa jest prosta: odwiedÅº AptekÄ™ Renesco w PasaÅ¼u Handlowym, zbierz haracz, 1000 dolcÃ³w, a potem przynieÅ› go tutaj.}
+{531}{}{W porzÄ…dku... coÅ› jeszcze?}
+{535}{}{Masz juÅ¼ ten haracz?}
+{536}{}{(Marszczy siÄ™) Masz juÅ¼ ten haracz?}
+{537}{}{(Krzywi siÄ™) Tym razem LEPIEJ miej pieniÄ…dze, jeÅ‚opo. Pan Salvatore czeka.}
+{539}{}{A od kogo mam go zebraÄ‡?}
+{540}{}{Renesco wciska mi kit. MÃ³wi, Å¼e zapÅ‚aciÅ‚ juÅ¼ dwa tygodnie temu i nie powinien pÅ‚aciÄ‡ za nastÄ™pny miesiÄ…c.}
 {542}{}{Uch... mam. Oto forsa.}
-{543}{}{Renesco da³ mi pieni¹dze, ale nie mam ich przy sobie...}
-{544}{}{Prawie, Mason. Nastêpnym razem bêdê je mieæ.}
-{546}{}{Mam tu przy sobie ten twój haracz... trupie.}
-{555}{}{*Apteka Renesco*. W zachodniej dzielnicy. Tysi¹c dolców. A teraz ju¿ idŸ.}
-{556}{}{To wszystko, co muszê wiedzieæ. A teraz, Mason, odsuñ siê i daj mi wzi¹æ siê do roboty.}
-{565}{}{Nie tak szybko. Tym razem wyra¿ê siê BARDZO jasno: nie rozmawiaj ze mn¹, póki nie zbierzesz tych pieniêdzy od Renesco. Albo siê wœcieknê. A teraz bierz siê do ROBOTY.}
-{575}{}{Mówi³em ci, ¿e masz nie wracaæ bez pieniêdzy... MÓWI£EM ci. (Stuka siê w g³owê) Rozumu nie masz?! Pewnie nie, skoro znowu ze mn¹ rozmawiasz. ZGINIESZ.}
-{585}{}{(Oczy Masona siê zwê¿aj¹) No to kurwa co? Dowiedzia³ siê, dla kogo pracujesz?}
+{543}{}{Renesco daÅ‚ mi pieniÄ…dze, ale nie mam ich przy sobie...}
+{544}{}{Prawie, Mason. NastÄ™pnym razem bÄ™dÄ™ je mieÄ‡.}
+{546}{}{Mam tu przy sobie ten twÃ³j haracz... trupie.}
+{555}{}{*Apteka Renesco*. W zachodniej dzielnicy. TysiÄ…c dolcÃ³w. A teraz juÅ¼ idÅº.}
+{556}{}{To wszystko, co muszÄ™ wiedzieÄ‡. A teraz, Mason, odsuÅ„ siÄ™ i daj mi wziÄ…Ä‡ siÄ™ do roboty.}
+{565}{}{Nie tak szybko. Tym razem wyraÅ¼Ä™ siÄ™ BARDZO jasno: nie rozmawiaj ze mnÄ…, pÃ³ki nie zbierzesz tych pieniÄ™dzy od Renesco. Albo siÄ™ wÅ›cieknÄ™. A teraz bierz siÄ™ do ROBOTY.}
+{575}{}{MÃ³wiÅ‚em ci, Å¼e masz nie wracaÄ‡ bez pieniÄ™dzy... MÃ“WIÅEM ci. (Stuka siÄ™ w gÅ‚owÄ™) Rozumu nie masz?! Pewnie nie, skoro znowu ze mnÄ… rozmawiasz. ZGINIESZ.}
+{585}{}{(Oczy Masona siÄ™ zwÄ™Å¼ajÄ…) No to kurwa co? DowiedziaÅ‚ siÄ™, dla kogo pracujesz?}
 {586}{}{Tak.}
-{587}{}{Có¿, nie.}
-{595}{}{A czy ZOBACZY£, dla kogo pracujesz?}
-{596}{}{Zobaczy³?}
-{598}{}{Uch, nie. Nastêpnym razem mu poka¿ê.}
-{605}{}{Co, mam ciê prowadziæ za R¥CZKÊ?! Najprostsza kurde robota na œwiecie, a ty przychodzisz do mnie i p³aczesz "May-son, May-son, ten i ten nie chce zap³aciæ swojego haraczu".}
+{587}{}{CÃ³Å¼, nie.}
+{595}{}{A czy ZOBACZYÅ, dla kogo pracujesz?}
+{596}{}{ZobaczyÅ‚?}
+{598}{}{Uch, nie. NastÄ™pnym razem mu pokaÅ¼Ä™.}
+{605}{}{Co, mam ciÄ™ prowadziÄ‡ za RÄ„CZKÄ˜?! Najprostsza kurde robota na Å›wiecie, a ty przychodzisz do mnie i pÅ‚aczesz "May-son, May-son, ten i ten nie chce zapÅ‚aciÄ‡ swojego haraczu".}
 {606}{}{Poczekaj no...}
-{615}{}{(Na twój widok Mason uœmiecha siê szyderczo) To tylko to bezmózgie skurwielstwo, którego szuka³em. }
-{617}{}{Nie mo¿na zbieraæ haraczu od trupów. (Siêga po broñ) Teraz MOCNO ci siê dostanie.}
-{618}{}{Spoko, ju¿ i tak zaczyna³ mnie to mêczyæ...}
-{619}{}{Nie, to TOBIE siê zaraz MOCNO DOSTANIE! S£YSZYSZ MNIE MASON?! TO TOBIE SIÊ ZARAZ MOC...}
-{625}{}{(Mason kiwa g³ow¹, wydaje siê rozczarowany) He. A myœla³em, ¿e ostatnim razem wszystko ju¿ z Renesco wyci¹gnêliœmy. No dobra, wiêc idŸ... zanieœ j¹ szefowi. (Marszczy brwi.) Teraz.}
-{635}{}{Wynoœ siê st¹d. Pan Salvatore nie chce ju¿ robiæ z tob¹ interesów.}
-{640}{}{No dobra, szef mówi, ¿e pójdziesz z nami popilnowaæ naszej ma³ej TRANSAKCJI. PrzyjdŸ uzbrojony... nie bierz ¿adnych pistoletów na wodê... a potem wróæ tu zdaæ mi raport.}
-{642}{}{Pan Salvatore powiedzia³, ¿e mia³eœ daæ mi pistolet laserowy.}
+{615}{}{(Na twÃ³j widok Mason uÅ›miecha siÄ™ szyderczo) To tylko to bezmÃ³zgie skurwielstwo, ktÃ³rego szukaÅ‚em. }
+{617}{}{Nie moÅ¼na zbieraÄ‡ haraczu od trupÃ³w. (SiÄ™ga po broÅ„) Teraz MOCNO ci siÄ™ dostanie.}
+{618}{}{Spoko, juÅ¼ i tak zaczynaÅ‚ mnie to mÄ™czyÄ‡...}
+{619}{}{Nie, to TOBIE siÄ™ zaraz MOCNO DOSTANIE! SÅYSZYSZ MNIE MASON?! TO TOBIE SIÄ˜ ZARAZ MOC...}
+{625}{}{(Mason kiwa gÅ‚owÄ…, wydaje siÄ™ rozczarowany) He. A myÅ›laÅ‚em, Å¼e ostatnim razem wszystko juÅ¼ z Renesco wyciÄ…gnÄ™liÅ›my. No dobra, wiÄ™c idÅº... zanieÅ› jÄ… szefowi. (Marszczy brwi.) Teraz.}
+{635}{}{WynoÅ› siÄ™ stÄ…d. Pan Salvatore nie chce juÅ¼ robiÄ‡ z tobÄ… interesÃ³w.}
+{640}{}{No dobra, szef mÃ³wi, Å¼e pÃ³jdziesz z nami popilnowaÄ‡ naszej maÅ‚ej TRANSAKCJI. PrzyjdÅº uzbrojony... nie bierz Å¼adnych pistoletÃ³w na wodÄ™... a potem wrÃ³Ä‡ tu zdaÄ‡ mi raport.}
+{642}{}{Pan Salvatore powiedziaÅ‚, Å¼e miaÅ‚eÅ› daÄ‡ mi pistolet laserowy.}
 {643}{}{A co to za transakcja?}
-{644}{}{Mogê iœæ ju¿ teraz. ChodŸmy.}
-{645}{}{Daj mi chwilkê na przygotowanie siê. Zaraz wrócê.}
-{655}{}{Tia, podobno. Masz... ale nie baw siê nim. Jeœli skrzywdzisz nim KOGOKOLWIEK, to ciê zastrzelê.}
-{656}{}{Mo¿esz mnie nauczyæ, jak siê tym pos³ugiwaæ?}
-{658}{}{W porz¹dku, mogê ju¿ iœæ. ChodŸmy.}
-{665}{}{(Uœmiecha siê z sarkazmem) Jeœli szef ci nie powiedzia³, to nie musisz wiedzieæ. Wiêc zamknij japê... i nikomu te¿ o tym nie mów, albo sprawiê, ¿e nigdy ju¿ nic nie powiesz.}
-{675}{}{No to chodŸmy.}
-{676}{}{IdŸ na pustyniê razem z nim i innymi Salvatore...}
-{685}{}{Ale siê poœpiesz. Mamy tylko 24 godziny czasu na ubicie tego interesu. Jak siê spóŸnisz, to sprawiê, ¿e zgnijesz na Golgocie.}
-{686}{}{Nic siê nie bój. Na pewno przyjdê.}
-{695}{}{Nie starczy ci ju¿ tej poobiedniej drzemki? Mo¿e TERAZ mo¿esz ju¿ iœæ?}
-{696}{}{A co to w³aœciwie za transakcja?}
-{697}{}{Tak. Zróbmy to.}
-{698}{}{Potrzebujê jeszcze trochê czasu, nied³ugo wrócê.}
-{699}{}{Czy mo¿esz mnie nauczyæ, jak u¿ywaæ tego pistoletu?}
-{705}{}{Od DAWNA korci³o mnie, ¿eby ciê zabiæ... OSTRZEGA£EM ciê, co siê stanie, jeœli siê spóŸnisz.}
-{706}{}{No to ciê kurwa przepraszam, ¿e nie mam zegarka.}
-{707}{}{Nie TO CIEBIE OSTRZEGANO! S£YSZYSZ MNIE MASON?! TO CIEBIE OSTRZEG...}
-{715}{}{Dlaczego zawsze, jak coœ do ciebie mówiê, ty masz jakieœ pytania?! Pos³uchaj: DRUGIEJ stronie tej transakcji nic nie zrobi¹ nasze miotacze œwiat³¹, no nie? Wiêc dobrze by by³o mieæ przy sobie coœ INNEGO.}
-{725}{}{(Odchrz¹kuje) DO licha... zobacz, po pierwsze, trzymaj go TAK. (Poprawia twój chwyt) A teraz spójrz, komora jest tutaj... (Po godzinie i dziêki odrobinie æwiczeñ poprawiasz swoje umiejêtnoœci w zakresie broni energetycznych)}
-{726}{}{No to po co potrzeba mi czegoœ innego? Te pistolety sprawiaj¹ wra¿enie doœæ potê¿nych.}
-{728}{}{No dobra, mogê ju¿ iœæ. ChodŸmy.}
-{729}{}{No dobra. Daj mi trochê czasu na przygotowanie siê, nied³ugo wrócê.}
-{735}{}{(Odkas³uje) Hej, witaj... }
-{736}{}{WeŸ przedmioty.}
-{745}{}{Poza tym my, Salvatore... mamy specjalne POROZUMIENIE z pann¹ Kitty w Kocim Pazurze. I z Eldridge'em w sklepie z broni¹... i z Renesco. (Mruga okiem) Baw siê dobrze.}
-{746}{}{Dziêki, Mason.}
-{747}{}{Jejku, Mason, dziêki... tylko nastêpnym razem zwracaj siê do mnie "proszê pana", dobrze? Odpowiada³oby mi to. HA HA HA HA HA HA...}
-{748}{}{Jejku, Mason, dziêki... tylko nastêpnym razem zwracaj siê do mnie "proszê pani", dobrze? Odpowiada³oby mi to. HA HA HA HA HA HA...}
+{644}{}{MogÄ™ iÅ›Ä‡ juÅ¼ teraz. ChodÅºmy.}
+{645}{}{Daj mi chwilkÄ™ na przygotowanie siÄ™. Zaraz wrÃ³cÄ™.}
+{655}{}{Tia, podobno. Masz... ale nie baw siÄ™ nim. JeÅ›li skrzywdzisz nim KOGOKOLWIEK, to ciÄ™ zastrzelÄ™.}
+{656}{}{MoÅ¼esz mnie nauczyÄ‡, jak siÄ™ tym posÅ‚ugiwaÄ‡?}
+{658}{}{W porzÄ…dku, mogÄ™ juÅ¼ iÅ›Ä‡. ChodÅºmy.}
+{665}{}{(UÅ›miecha siÄ™ z sarkazmem) JeÅ›li szef ci nie powiedziaÅ‚, to nie musisz wiedzieÄ‡. WiÄ™c zamknij japÄ™... i nikomu teÅ¼ o tym nie mÃ³w, albo sprawiÄ™, Å¼e nigdy juÅ¼ nic nie powiesz.}
+{675}{}{No to chodÅºmy.}
+{676}{}{IdÅº na pustyniÄ™ razem z nim i innymi Salvatore...}
+{685}{}{Ale siÄ™ poÅ›piesz. Mamy tylko 24 godziny czasu na ubicie tego interesu. Jak siÄ™ spÃ³Åºnisz, to sprawiÄ™, Å¼e zgnijesz na Golgocie.}
+{686}{}{Nic siÄ™ nie bÃ³j. Na pewno przyjdÄ™.}
+{695}{}{Nie starczy ci juÅ¼ tej poobiedniej drzemki? MoÅ¼e TERAZ moÅ¼esz juÅ¼ iÅ›Ä‡?}
+{696}{}{A co to wÅ‚aÅ›ciwie za transakcja?}
+{697}{}{Tak. ZrÃ³bmy to.}
+{698}{}{PotrzebujÄ™ jeszcze trochÄ™ czasu, niedÅ‚ugo wrÃ³cÄ™.}
+{699}{}{Czy moÅ¼esz mnie nauczyÄ‡, jak uÅ¼ywaÄ‡ tego pistoletu?}
+{705}{}{Od DAWNA korciÅ‚o mnie, Å¼eby ciÄ™ zabiÄ‡... OSTRZEGAÅEM ciÄ™, co siÄ™ stanie, jeÅ›li siÄ™ spÃ³Åºnisz.}
+{706}{}{No to ciÄ™ kurwa przepraszam, Å¼e nie mam zegarka.}
+{707}{}{Nie TO CIEBIE OSTRZEGANO! SÅYSZYSZ MNIE MASON?! TO CIEBIE OSTRZEG...}
+{715}{}{Dlaczego zawsze, jak coÅ› do ciebie mÃ³wiÄ™, ty masz jakieÅ› pytania?! PosÅ‚uchaj: DRUGIEJ stronie tej transakcji nic nie zrobiÄ… nasze miotacze Å›wiatÅ‚Ä…, no nie? WiÄ™c dobrze by byÅ‚o mieÄ‡ przy sobie coÅ› INNEGO.}
+{725}{}{(OdchrzÄ…kuje) DO licha... zobacz, po pierwsze, trzymaj go TAK. (Poprawia twÃ³j chwyt) A teraz spÃ³jrz, komora jest tutaj... (Po godzinie i dziÄ™ki odrobinie Ä‡wiczeÅ„ poprawiasz swoje umiejÄ™tnoÅ›ci w zakresie broni energetycznych)}
+{726}{}{No to po co potrzeba mi czegoÅ› innego? Te pistolety sprawiajÄ… wraÅ¼enie doÅ›Ä‡ potÄ™Å¼nych.}
+{728}{}{No dobra, mogÄ™ juÅ¼ iÅ›Ä‡. ChodÅºmy.}
+{729}{}{No dobra. Daj mi trochÄ™ czasu na przygotowanie siÄ™, niedÅ‚ugo wrÃ³cÄ™.}
+{735}{}{(OdkasÅ‚uje) Hej, witaj... }
+{736}{}{WeÅº przedmioty.}
+{745}{}{Poza tym my, Salvatore... mamy specjalne POROZUMIENIE z pannÄ… Kitty w Kocim Pazurze. I z Eldridge'em w sklepie z broniÄ…... i z Renesco. (Mruga okiem) Baw siÄ™ dobrze.}
+{746}{}{DziÄ™ki, Mason.}
+{747}{}{Jejku, Mason, dziÄ™ki... tylko nastÄ™pnym razem zwracaj siÄ™ do mnie "proszÄ™ pana", dobrze? OdpowiadaÅ‚oby mi to. HA HA HA HA HA HA...}
+{748}{}{Jejku, Mason, dziÄ™ki... tylko nastÄ™pnym razem zwracaj siÄ™ do mnie "proszÄ™ pani", dobrze? OdpowiadaÅ‚oby mi to. HA HA HA HA HA HA...}
 {755}{}{Witam... pana.}
-{756}{}{Witam... pani¹.}
-{765}{}{(Mason przestaje mówiæ, nas³uchuj¹c czegoœ, czego nie mo¿esz dos³yszeæ. Po chwili zaciska zêby) Pan Salvatore mówi, ¿e mo¿esz wejœæ, }
-{766}{}{Dziêki je³opie. Na pewno wspomnê panu Salvatore o twoich manierach.}
-{775}{}{(Jego oczy siê zwê¿aj¹) Oczywiœcie, jeœli INSYNUUJESZ, ¿e nie wykonujê swojej ROBOTY, to mo¿emy przedyskutowaæ to na miejscu, w cztery oczy. Pan Salvatore nie zapyta, co siê z tob¹ sta³o.}
-{776}{}{Nie insynuujê, ¿e nie wykonujesz swojej roboty, jebusie. MÓWIÊ ci to.}
-{777}{}{Uspokój siê. Pytam tylko z ciekawoœci.}
-{778}{}{Ta rozmowa zaczyna mnie ju¿ nudziæ. Idê sobie.}
-{785}{}{Nie pozwól, ¿eby ci dziadyga wciska³ kit... jeœli bêdzie próbowa³, powiedz mu, ¿e pracujesz dla Salvatore. To powinno rozwiaæ wszelkie w¹tpliwoœci. Rozumiesz?}
-{786}{}{Tak. A teraz odsuñ siê i daj mi wzi¹æ siê do roboty.}
-{795}{}{DOROŒNIJ ch³opcze i *zajmij siê tym*.}
-{796}{}{Powinienem siê domyœliæ, ¿e tak bêdzie, jak siê wyœle kobietê do mêskiej roboty. Przestañ siê *puszczaæ* i *zajmij siê tym*.}
-{797}{}{W porz¹dku, zajmê siê tym. BARDZO mi pomog³eœ, Mason.}
-{798}{}{W porz¹dku, zajmê siê tym.}
-{799}{}{Och, zajmê siê tym. Zaczynaj¹c od ciebie.}
-{805}{}{Biedny pan Salvatore... by³ ju¿ bardzo stary. Pewnie w koñcu do¿y³ swych ostatnich dni.}
-{806}{}{*Sniff*... pan Salvatore... by³ dla mnie jak tata.}
-{807}{}{Kocha³em tego starego, œwiszcz¹cego kalekê. Teraz on ju¿ nie ¿yje i ju¿ nigdy siê nie dowie, co do niego czu³em.}
-{815}{}{(Na twój widok wykrzywia siê w szyderczym grymasie) S³ysza³em, ¿e Renesco mia³ "wypadek". Ludzie na ulicy mówi¹, ¿e masz z tym coœ wspólnego. Mo¿e nie wiesz, dzikusie, ¿e by³ jednym z NASZYCH. Myœlê, ¿e coœ siê nam od ciebie zale¿y... trochê krwi.}
-{818}{}{Nie, TO TY zaraz odejdziesz na EMERYTURÊ! S£YSZYSZ MNIE MASON?! TO TY ZARAZ PRZEJDZIESZ NA EME...}
-{825}{}{(Twarz Masona nabiera kamiennego wyrazu, po czym jego rêka wêdruje w kierunku broni.)}
-{826}{}{Nie s¹dzê, ¿eby zabicie MNIE mia³o okazaæ siê równie proste jak trucie tego dzieciaka...}
-{835}{}{Niewa¿ne. Ta robota zosta³a odwo³ana. Zmiataj st¹d.}
-{840}{}{Dobrze, ¿e w koñcu tu jesteœ. Szef chce siê z tob¹ widzieæ.}
-{900}{}{Ma na imiê Nikki. Jest na dole, na zapleczu. (Mason patrzy gdzieœ w dal.) Cz³owieku, ona ma idealny ty³eczek.}
-{901}{}{Mam kilka innych pytañ...}
+{756}{}{Witam... paniÄ….}
+{765}{}{(Mason przestaje mÃ³wiÄ‡, nasÅ‚uchujÄ…c czegoÅ›, czego nie moÅ¼esz dosÅ‚yszeÄ‡. Po chwili zaciska zÄ™by) Pan Salvatore mÃ³wi, Å¼e moÅ¼esz wejÅ›Ä‡, }
+{766}{}{DziÄ™ki jeÅ‚opie. Na pewno wspomnÄ™ panu Salvatore o twoich manierach.}
+{775}{}{(Jego oczy siÄ™ zwÄ™Å¼ajÄ…) OczywiÅ›cie, jeÅ›li INSYNUUJESZ, Å¼e nie wykonujÄ™ swojej ROBOTY, to moÅ¼emy przedyskutowaÄ‡ to na miejscu, w cztery oczy. Pan Salvatore nie zapyta, co siÄ™ z tobÄ… staÅ‚o.}
+{776}{}{Nie insynuujÄ™, Å¼e nie wykonujesz swojej roboty, jebusie. MÃ“WIÄ˜ ci to.}
+{777}{}{UspokÃ³j siÄ™. Pytam tylko z ciekawoÅ›ci.}
+{778}{}{Ta rozmowa zaczyna mnie juÅ¼ nudziÄ‡. IdÄ™ sobie.}
+{785}{}{Nie pozwÃ³l, Å¼eby ci dziadyga wciskaÅ‚ kit... jeÅ›li bÄ™dzie prÃ³bowaÅ‚, powiedz mu, Å¼e pracujesz dla Salvatore. To powinno rozwiaÄ‡ wszelkie wÄ…tpliwoÅ›ci. Rozumiesz?}
+{786}{}{Tak. A teraz odsuÅ„ siÄ™ i daj mi wziÄ…Ä‡ siÄ™ do roboty.}
+{795}{}{DOROÅšNIJ chÅ‚opcze i *zajmij siÄ™ tym*.}
+{796}{}{Powinienem siÄ™ domyÅ›liÄ‡, Å¼e tak bÄ™dzie, jak siÄ™ wyÅ›le kobietÄ™ do mÄ™skiej roboty. PrzestaÅ„ siÄ™ *puszczaÄ‡* i *zajmij siÄ™ tym*.}
+{797}{}{W porzÄ…dku, zajmÄ™ siÄ™ tym. BARDZO mi pomogÅ‚eÅ›, Mason.}
+{798}{}{W porzÄ…dku, zajmÄ™ siÄ™ tym.}
+{799}{}{Och, zajmÄ™ siÄ™ tym. ZaczynajÄ…c od ciebie.}
+{805}{}{Biedny pan Salvatore... byÅ‚ juÅ¼ bardzo stary. Pewnie w koÅ„cu doÅ¼yÅ‚ swych ostatnich dni.}
+{806}{}{*Sniff*... pan Salvatore... byÅ‚ dla mnie jak tata.}
+{807}{}{KochaÅ‚em tego starego, Å›wiszczÄ…cego kalekÄ™. Teraz on juÅ¼ nie Å¼yje i juÅ¼ nigdy siÄ™ nie dowie, co do niego czuÅ‚em.}
+{815}{}{(Na twÃ³j widok wykrzywia siÄ™ w szyderczym grymasie) SÅ‚yszaÅ‚em, Å¼e Renesco miaÅ‚ "wypadek". Ludzie na ulicy mÃ³wiÄ…, Å¼e masz z tym coÅ› wspÃ³lnego. MoÅ¼e nie wiesz, dzikusie, Å¼e byÅ‚ jednym z NASZYCH. MyÅ›lÄ™, Å¼e coÅ› siÄ™ nam od ciebie zaleÅ¼y... trochÄ™ krwi.}
+{818}{}{Nie, TO TY zaraz odejdziesz na EMERYTURÄ˜! SÅYSZYSZ MNIE MASON?! TO TY ZARAZ PRZEJDZIESZ NA EME...}
+{825}{}{(Twarz Masona nabiera kamiennego wyrazu, po czym jego rÄ™ka wÄ™druje w kierunku broni.)}
+{826}{}{Nie sÄ…dzÄ™, Å¼eby zabicie MNIE miaÅ‚o okazaÄ‡ siÄ™ rÃ³wnie proste jak trucie tego dzieciaka...}
+{835}{}{NiewaÅ¼ne. Ta robota zostaÅ‚a odwoÅ‚ana. Zmiataj stÄ…d.}
+{840}{}{Dobrze, Å¼e w koÅ„cu tu jesteÅ›. Szef chce siÄ™ z tobÄ… widzieÄ‡.}
+{900}{}{Ma na imiÄ™ Nikki. Jest na dole, na zapleczu. (Mason patrzy gdzieÅ› w dal.) CzÅ‚owieku, ona ma idealny tyÅ‚eczek.}
+{901}{}{Mam kilka innych pytaÅ„...}
 {1305}{}{.}
-{5735}{}{. Pan Salvatore rozes³a³ wieœci o twoim awansie. Brawka. Mam tu dla ciebie trochê dupereli... zobaczmy... (wrêcza ci pe³ne rêce uzbrojenia) ObchodŸ siê z tym ostro¿nie...}
+{5735}{}{. Pan Salvatore rozesÅ‚aÅ‚ wieÅ›ci o twoim awansie. Brawka. Mam tu dla ciebie trochÄ™ dupereli... zobaczmy... (wrÄ™cza ci peÅ‚ne rÄ™ce uzbrojenia) ObchodÅº siÄ™ z tym ostroÅ¼nie...}
 {5765}{}{.}

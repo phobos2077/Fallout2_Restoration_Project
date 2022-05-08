@@ -1,2 +1,2 @@
-{100}{}{¡Oh, Dios mío, es Bess!}
+{100}{}{Â¡Oh, Dios mÃ­o, es Bess!}
 {101}{}{Este brahmin te resulta vagamente familiar.}

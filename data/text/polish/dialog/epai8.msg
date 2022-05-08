@@ -1,5 +1,5 @@
-{100}{}{Wydaje ci siê, ¿e jest jakiœ problem z t¹ wind¹.}
-{101}{}{Ta winda zdecydowanie nie dzia³a. Musisz znaleŸæ inny sposób, ¿eby siê dostaæ do œrodka.}
+{100}{}{Wydaje ci siÄ™, Å¼e jest jakiÅ› problem z tÄ… windÄ….}
+{101}{}{Ta winda zdecydowanie nie dziaÅ‚a. Musisz znaleÅºÄ‡ inny sposÃ³b, Å¼eby siÄ™ dostaÄ‡ do Å›rodka.}
 {102}{}{Widzisz uszkodzone drzwi windy.}
-{103}{}{Po dok³adniejszych oglêdzinach stwierdzasz, ¿e nie ma kabiny windy a drzwi s¹ zaciête.}
-{104}{}{Nie ma mo¿liwoœci, ¿eby to naprawiæ.}
+{103}{}{Po dokÅ‚adniejszych oglÄ™dzinach stwierdzasz, Å¼e nie ma kabiny windy a drzwi sÄ… zaciÄ™te.}
+{104}{}{Nie ma moÅ¼liwoÅ›ci, Å¼eby to naprawiÄ‡.}

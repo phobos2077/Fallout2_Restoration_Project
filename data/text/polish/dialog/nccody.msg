@@ -1,98 +1,98 @@
 {125}{}{Widzisz Cody'ego.}
-{175}{}{Widzisz obdart¹ sierotê. Na resztkach jego postrzêpionej koszuli ktoœ nabazgra³ "Cody".}
-{176}{}{Widzisz Cody'ego, który posêpnie gapi siê na ciebie.}
-{177}{}{Widzisz Cody'ego. Z takim wzrokiem ka¿da góra ust¹pi³aby mu z drogi.}
-{178}{}{Widzisz Cody'ego. Ktoœ nabazgra³ jego imiê na resztkach jego postrzêpionej koszuli.}
-{200}{}{(Kiedy podchodzisz, dziecko gapi siê na ciebie posêpnym wzrokiem... z ledwoœci¹ dostrzegasz jego twarz. Na jego koszuli ktos nabazgra³ "Cody".)}
-{201}{}{(Kiedy podchodzisz, Cody posêpnie siê na ciebie gapi.}
-{202}{}{Koci koci ³apci}
-{203}{}{Pogap siê na niego}
-{204}{}{ zgubiæ samochód. }
+{175}{}{Widzisz obdartÄ… sierotÄ™. Na resztkach jego postrzÄ™pionej koszuli ktoÅ› nabazgraÅ‚ "Cody".}
+{176}{}{Widzisz Cody'ego, ktÃ³ry posÄ™pnie gapi siÄ™ na ciebie.}
+{177}{}{Widzisz Cody'ego. Z takim wzrokiem kaÅ¼da gÃ³ra ustÄ…piÅ‚aby mu z drogi.}
+{178}{}{Widzisz Cody'ego. KtoÅ› nabazgraÅ‚ jego imiÄ™ na resztkach jego postrzÄ™pionej koszuli.}
+{200}{}{(Kiedy podchodzisz, dziecko gapi siÄ™ na ciebie posÄ™pnym wzrokiem... z ledwoÅ›ciÄ… dostrzegasz jego twarz. Na jego koszuli ktos nabazgraÅ‚ "Cody".)}
+{201}{}{(Kiedy podchodzisz, Cody posÄ™pnie siÄ™ na ciebie gapi.}
+{202}{}{Koci koci Å‚apci}
+{203}{}{Pogap siÄ™ na niego}
+{204}{}{ zgubiÄ‡ samochÃ³d. }
 {205}{}{Cody, czy }
-{206}{}{OdejdŸ}
-{207}{}{Hej, Cody. Wszystko w porz¹dku? Chcesz mo¿e coœ do jedzenia?}
-{208}{}{Hej, Cody. Spragniony? Chcesz siê czegoœ napiæ?}
-{209}{}{Gdzie s¹ twoi rodzice?}
-{210}{}{Hej, Cody. Widzia³eœ mój samochód?}
-{211}{}{Cody, czy móg³byœ mnie teraz zaprowadziæ do mojego samochodu?}
-{212}{}{Cody, czy móg³byœ zaprowadziæ mnie do tam, gdzie znajduje siê mój samochód?}
-{213}{}{Cody, czy móg³byœ zabraæ mnie tam, gdzi eby³ mój samochód?}
-{214}{}{Mo¿esz mi powiedzieæ, kto go ukrad³?}
-{215}{}{¯egnaj.}
+{206}{}{OdejdÅº}
+{207}{}{Hej, Cody. Wszystko w porzÄ…dku? Chcesz moÅ¼e coÅ› do jedzenia?}
+{208}{}{Hej, Cody. Spragniony? Chcesz siÄ™ czegoÅ› napiÄ‡?}
+{209}{}{Gdzie sÄ… twoi rodzice?}
+{210}{}{Hej, Cody. WidziaÅ‚eÅ› mÃ³j samochÃ³d?}
+{211}{}{Cody, czy mÃ³gÅ‚byÅ› mnie teraz zaprowadziÄ‡ do mojego samochodu?}
+{212}{}{Cody, czy mÃ³gÅ‚byÅ› zaprowadziÄ‡ mnie do tam, gdzie znajduje siÄ™ mÃ³j samochÃ³d?}
+{213}{}{Cody, czy mÃ³gÅ‚byÅ› zabraÄ‡ mnie tam, gdzi ebyÅ‚ mÃ³j samochÃ³d?}
+{214}{}{MoÅ¼esz mi powiedzieÄ‡, kto go ukradÅ‚?}
+{215}{}{Å»egnaj.}
 {220}{}{(Cody pokazuje ci palec i ucieka.)}
 {221}{}{(Cody robi wielkie oczy i ucieka.)}
 {223}{}{ZABIJE TY ZABIJE TY ZABIJE TY ZABIJE...}
-{224}{}{Mo¿e innym razem.}
-{225}{}{Ma³y gówniarz...}
-{230}{}{(Cody nadal siê na ciebie gapi.)}
-{231}{}{Uch, wszystko w porz¹dku Cody?}
-{239}{}{No, na razie, Cody. Trzym siê.}
-{251}{}{Hej, Cody. Chcesz trochê nuka coli?}
-{252}{}{Chcesz bimbru? Moja mama zawsze mówi³a, ¿e nigdy nie jest za wczeœnie, ¿eby zacz¹æ. Uch, to znaczy, tak mówi³a, kiedy by³a trzeŸwa.}
-{253}{}{Mam tu trochê Jetu. Chcesz? Wujek }
-{254}{}{Mam tu trochê Jetu. Chcesz? Cioca }
-{255}{}{Hej, Cody... co powiesz na odrobinê potê¿nych metaamfetamin? Móg³byœ sam z³apaæ i zjeœæ jakiegoœ zwierza. Mo¿e nawet inne dzieci.}
-{256}{}{Uch, tego, trzym siê Cody.}
+{224}{}{MoÅ¼e innym razem.}
+{225}{}{MaÅ‚y gÃ³wniarz...}
+{230}{}{(Cody nadal siÄ™ na ciebie gapi.)}
+{231}{}{Uch, wszystko w porzÄ…dku Cody?}
+{239}{}{No, na razie, Cody. Trzym siÄ™.}
+{251}{}{Hej, Cody. Chcesz trochÄ™ nuka coli?}
+{252}{}{Chcesz bimbru? Moja mama zawsze mÃ³wiÅ‚a, Å¼e nigdy nie jest za wczeÅ›nie, Å¼eby zaczÄ…Ä‡. Uch, to znaczy, tak mÃ³wiÅ‚a, kiedy byÅ‚a trzeÅºwa.}
+{253}{}{Mam tu trochÄ™ Jetu. Chcesz? Wujek }
+{254}{}{Mam tu trochÄ™ Jetu. Chcesz? Cioca }
+{255}{}{Hej, Cody... co powiesz na odrobinÄ™ potÄ™Å¼nych metaamfetamin? MÃ³gÅ‚byÅ› sam zÅ‚apaÄ‡ i zjeÅ›Ä‡ jakiegoÅ› zwierza. MoÅ¼e nawet inne dzieci.}
+{256}{}{Uch, tego, trzym siÄ™ Cody.}
 {257}{}{Przykro mi dzieciaku, ale chyba nic dla ciebie nie mam.}
 {261}{}{Chcesz owoca?}
-{262}{}{Chcesz kawa³ek iguany? Mmmmmm dobre.}
-{263}{}{Hej, Cody. Mam trochê pyszne... eee, jadalnego... suszonego miêsa Duntonów? Mmmmmm... yyy... dobre.}
+{262}{}{Chcesz kawaÅ‚ek iguany? Mmmmmm dobre.}
+{263}{}{Hej, Cody. Mam trochÄ™ pyszne... eee, jadalnego... suszonego miÄ™sa DuntonÃ³w? Mmmmmm... yyy... dobre.}
 {270}{}{(Cody chwyta podarunek i ucieka.)}
-{271}{}{::Pomrucz pod nosem na temat wychowania dzisiejszej m³odzie¿y.::}
+{271}{}{::Pomrucz pod nosem na temat wychowania dzisiejszej mÅ‚odzieÅ¼y.::}
 {272}{}{Nie ma za co...!}
-{273}{}{Raaany. Wredny drañ.}
-{274}{}{Trzeba by³o sprzedaæ niewdziêcznika do niewoli... hmmmm, chwileczkê...}
-{280}{}{(Cody kiwa g³ow¹!)}
-{281}{}{(Ku twemu zdziwieniu Cody kiwa g³ow¹.)}
+{273}{}{Raaany. Wredny draÅ„.}
+{274}{}{Trzeba byÅ‚o sprzedaÄ‡ niewdziÄ™cznika do niewoli... hmmmm, chwileczkÄ™...}
+{280}{}{(Cody kiwa gÅ‚owÄ…!)}
+{281}{}{(Ku twemu zdziwieniu Cody kiwa gÅ‚owÄ….)}
 {282}{}{To jest }
-{283}{}{To dobrze wiedzieæ, gdzie jest samochód }
-{284}{}{Naprawdê?! Mo¿esz mi pokazaæ gdzie on jest?}
-{286}{}{Dziêki, tak tylko pytam z ciekawoœci. Wrócê.}
-{290}{}{(Cody ze strachem rzuca okiem na Julesa, który gapi siê na was z naprzeciwka.)}
-{291}{}{(Cody ze strachem rzuca okiem na murzyna, który gapi siê na was z naprzeciwka.)}
-{292}{}{Och, SERIO... a wiêc wygl¹da na to, ¿e moja piêœæ i Jules musz¹ chwilkê pogadaæ.}
-{293}{}{Och, SERIO... a wiesz Cody, co siê teraz stanie? }
-{294}{}{Och, serio? No, póŸniej siê nim zajmê. Zabierzesz mnie teraz do samochodu?}
+{283}{}{To dobrze wiedzieÄ‡, gdzie jest samochÃ³d }
+{284}{}{NaprawdÄ™?! MoÅ¼esz mi pokazaÄ‡ gdzie on jest?}
+{286}{}{DziÄ™ki, tak tylko pytam z ciekawoÅ›ci. WrÃ³cÄ™.}
+{290}{}{(Cody ze strachem rzuca okiem na Julesa, ktÃ³ry gapi siÄ™ na was z naprzeciwka.)}
+{291}{}{(Cody ze strachem rzuca okiem na murzyna, ktÃ³ry gapi siÄ™ na was z naprzeciwka.)}
+{292}{}{Och, SERIO... a wiÄ™c wyglÄ…da na to, Å¼e moja piÄ™Å›Ä‡ i Jules muszÄ… chwilkÄ™ pogadaÄ‡.}
+{293}{}{Och, SERIO... a wiesz Cody, co siÄ™ teraz stanie? }
+{294}{}{Och, serio? No, pÃ³Åºniej siÄ™ nim zajmÄ™. Zabierzesz mnie teraz do samochodu?}
 {300}{}{(Cody wzrusza ramionami.)}
-{301}{}{Mo¿esz mnie teraz zabraæ do mojego samochodu?}
+{301}{}{MoÅ¼esz mnie teraz zabraÄ‡ do mojego samochodu?}
 {302}{}{Tak tylko pytam. Na razie.}
-{310}{}{(Cody znowu kiwa g³ow¹ i zaczyna biec przed siebie.)}
+{310}{}{(Cody znowu kiwa gÅ‚owÄ… i zaczyna biec przed siebie.)}
 {311}{}{(Biegnij za nim.)}
-{312}{}{Ojejciu, ja za tobie... ooooch, patrz jaki piasek! Taki br¹zowy! Uch... gdzie byæ Cody?}
-{313}{}{Cody, zaczekaj! Teraz nie chcê tam iœæ... muszê najpierw zaj¹æ siê cyzmœ innym. Wrócê za nied³ugo.}
-{320}{}{(Kiedy podchodzisz, dziecko gapi siê na ciebie. Jest ubrane w ³achmany, a spod tego ca³ego brudu z ledwoœci¹ dostrzegasz jego twarz. Kiedy siê do niego zbli¿asz, jego wzrok pada na twoje czo³o, oczy wytrzeszczaj¹ siê, po czym dzieciak ucieka.)}
-{321}{}{(Z daleka wydaje siê, ¿e dzieciak ubrany jest w ³achmany. Jednak kiedy podchodzisz do niego maj¹c na sobie Zbrojê Wspomagan¹, on wytrzeszcza na ciebie oczy i ucieka.)}
+{312}{}{Ojejciu, ja za tobie... ooooch, patrz jaki piasek! Taki brÄ…zowy! Uch... gdzie byÄ‡ Cody?}
+{313}{}{Cody, zaczekaj! Teraz nie chcÄ™ tam iÅ›Ä‡... muszÄ™ najpierw zajÄ…Ä‡ siÄ™ cyzmÅ› innym. WrÃ³cÄ™ za niedÅ‚ugo.}
+{320}{}{(Kiedy podchodzisz, dziecko gapi siÄ™ na ciebie. Jest ubrane w Å‚achmany, a spod tego caÅ‚ego brudu z ledwoÅ›ciÄ… dostrzegasz jego twarz. Kiedy siÄ™ do niego zbliÅ¼asz, jego wzrok pada na twoje czoÅ‚o, oczy wytrzeszczajÄ… siÄ™, po czym dzieciak ucieka.)}
+{321}{}{(Z daleka wydaje siÄ™, Å¼e dzieciak ubrany jest w Å‚achmany. Jednak kiedy podchodzisz do niego majÄ…c na sobie ZbrojÄ™ WspomaganÄ…, on wytrzeszcza na ciebie oczy i ucieka.)}
 {322}{}{Pa pa}
-{324}{}{Trzeba by³o sprzedaæ drania w niewolê... hmmm, momencik...}
-{330}{}{(Z daleka wydaje siê, ¿e dzieciak ubrany jest w ³achmany. Jednak kiedy do niego podchodzisz, wytrzeszcza na ciebie oczy i ucieka.)}
-{340}{}{(Z daleka wydaje siê, ¿e dzieciak ubrany jest w ³achmany, jednak widz¹c zbli¿aj¹cego siê Marcusa wytrzeszcza na niego oczy i ucieka.)}
-{350}{}{(Z daleka wydaje siê, ¿e dzieciak ubrany jest w ³achmany, jednak widz¹c zbli¿aj¹cego siê Lenny'ego wytrzeszcza na niego oczy i ucieka.)}
-{360}{}{(Kiedy podchodzisz, Cody przestaje siê w ciebie wpatrywaæ i mruga oczami. Po chwili lekko siê uœmiecha.)}
-{361}{}{(Kiedy podchodzisz, dziecko posêpnie siê na ciebie gapi... spod tego sa³ego brudu z ledwoœci¹ dostrzegasz jego twarz. Na resztkach jego koszuli ktoœ nabazgra³ "Cody". Kiedy podchodzisz, ch³opiec przestaje siê wpatrywaæ i lekko siê uœmiecha.)}
+{324}{}{Trzeba byÅ‚o sprzedaÄ‡ drania w niewolÄ™... hmmm, momencik...}
+{330}{}{(Z daleka wydaje siÄ™, Å¼e dzieciak ubrany jest w Å‚achmany. Jednak kiedy do niego podchodzisz, wytrzeszcza na ciebie oczy i ucieka.)}
+{340}{}{(Z daleka wydaje siÄ™, Å¼e dzieciak ubrany jest w Å‚achmany, jednak widzÄ…c zbliÅ¼ajÄ…cego siÄ™ Marcusa wytrzeszcza na niego oczy i ucieka.)}
+{350}{}{(Z daleka wydaje siÄ™, Å¼e dzieciak ubrany jest w Å‚achmany, jednak widzÄ…c zbliÅ¼ajÄ…cego siÄ™ Lenny'ego wytrzeszcza na niego oczy i ucieka.)}
+{360}{}{(Kiedy podchodzisz, Cody przestaje siÄ™ w ciebie wpatrywaÄ‡ i mruga oczami. Po chwili lekko siÄ™ uÅ›miecha.)}
+{361}{}{(Kiedy podchodzisz, dziecko posÄ™pnie siÄ™ na ciebie gapi... spod tego saÅ‚ego brudu z ledwoÅ›ciÄ… dostrzegasz jego twarz. Na resztkach jego koszuli ktoÅ› nabazgraÅ‚ "Cody". Kiedy podchodzisz, chÅ‚opiec przestaje siÄ™ wpatrywaÄ‡ i lekko siÄ™ uÅ›miecha.)}
 {362}{}{Heeej Codii}
 {363}{}{Paa-aa Codii}
-{364}{}{Jak siê masz, Cody?}
-{365}{}{Hej, Cody, w³aœnie wracam z ratowania œwiata. Cz³owieku, ale to by³a MÊCZARNIA. Kto by pomyœla³, ¿e prezydent oka¿e siê takim draniem? Fiuu. A co u ciebie?}
-{366}{}{Id¹c têdy przysz³o mi na myœl, ¿e przyjdê siê przywitaæ. Uwa¿aj na siebie w tym mieœcie, dobrze?}
-{370}{}{(Cody wci¹¿ siê do ciebie uœmiecha.)}
-{371}{}{(Cody nadal siê do ciebie uœmiecha.)}
-{372}{}{(Cody uœmiecha siê.)}
-{375}{}{Jak siê masz Cody? Wszystko dobrze?}
-{377}{}{Id¹c têdy przysz³o mi na myœl, ¿e przyjdê siê przywitaæ. Uwa¿aj na siebie w tym mieœcie, dobrze?}
-{380}{}{(Cody mruga oczami i mamrocze coœ pod nosem.)}
-{381}{}{Hê? Sso ty mówiæ?}
-{382}{}{Co takiego, Cody? Co powiedzia³eœ?}
-{390}{}{(Cody mruga oczami i mamrocze jeszcze raz to samo. Z ledwoœci¹ mo¿esz go zrozumieæ, ale wydaje ci siê, ¿e powiedzia³ "dziêkujê ci".)}
-{391}{}{(Cody mruga oczami i mamrocze jeszcze raz to samo. Z ledwoœci¹ mo¿esz go zrozumieæ, ale wydaje ci siê, ¿e powiedzia³ "wal siê".)}
-{392}{}{Dziêki CI Codii. Byz takich Bee Nuff jak ty, ja by ¿yæ w BARDZO nudna œwiat.}
-{393}{}{JA TY ZABIÆ JA TY ZABIÆ}
-{394}{}{Ej, nie ma sprawy Cody. Ratowanie œwiata mam chyba we krwi. Uwa¿aj na siebie, s³yszysz?}
-{395}{}{Ty ma³y wypierdku! Zabijê ciê! Zabijê...!}
-{1204}{}{ smutno. Ty widzieæ }
-{1205}{}{ mo¿e teraz pójœæ z tob¹ po samochód? Prooooszê?}
+{364}{}{Jak siÄ™ masz, Cody?}
+{365}{}{Hej, Cody, wÅ‚aÅ›nie wracam z ratowania Å›wiata. CzÅ‚owieku, ale to byÅ‚a MÄ˜CZARNIA. Kto by pomyÅ›laÅ‚, Å¼e prezydent okaÅ¼e siÄ™ takim draniem? Fiuu. A co u ciebie?}
+{366}{}{IdÄ…c tÄ™dy przyszÅ‚o mi na myÅ›l, Å¼e przyjdÄ™ siÄ™ przywitaÄ‡. UwaÅ¼aj na siebie w tym mieÅ›cie, dobrze?}
+{370}{}{(Cody wciÄ…Å¼ siÄ™ do ciebie uÅ›miecha.)}
+{371}{}{(Cody nadal siÄ™ do ciebie uÅ›miecha.)}
+{372}{}{(Cody uÅ›miecha siÄ™.)}
+{375}{}{Jak siÄ™ masz Cody? Wszystko dobrze?}
+{377}{}{IdÄ…c tÄ™dy przyszÅ‚o mi na myÅ›l, Å¼e przyjdÄ™ siÄ™ przywitaÄ‡. UwaÅ¼aj na siebie w tym mieÅ›cie, dobrze?}
+{380}{}{(Cody mruga oczami i mamrocze coÅ› pod nosem.)}
+{381}{}{HÄ™? Sso ty mÃ³wiÄ‡?}
+{382}{}{Co takiego, Cody? Co powiedziaÅ‚eÅ›?}
+{390}{}{(Cody mruga oczami i mamrocze jeszcze raz to samo. Z ledwoÅ›ciÄ… moÅ¼esz go zrozumieÄ‡, ale wydaje ci siÄ™, Å¼e powiedziaÅ‚ "dziÄ™kujÄ™ ci".)}
+{391}{}{(Cody mruga oczami i mamrocze jeszcze raz to samo. Z ledwoÅ›ciÄ… moÅ¼esz go zrozumieÄ‡, ale wydaje ci siÄ™, Å¼e powiedziaÅ‚ "wal siÄ™".)}
+{392}{}{DziÄ™ki CI Codii. Byz takich Bee Nuff jak ty, ja by Å¼yÄ‡ w BARDZO nudna Å›wiat.}
+{393}{}{JA TY ZABIÄ† JA TY ZABIÄ†}
+{394}{}{Ej, nie ma sprawy Cody. Ratowanie Å›wiata mam chyba we krwi. UwaÅ¼aj na siebie, sÅ‚yszysz?}
+{395}{}{Ty maÅ‚y wypierdku! ZabijÄ™ ciÄ™! ZabijÄ™...!}
+{1204}{}{ smutno. Ty widzieÄ‡ }
+{1205}{}{ moÅ¼e teraz pÃ³jÅ›Ä‡ z tobÄ… po samochÃ³d? ProoooszÄ™?}
 {1254}{}{?}
-{1282}{}{! Gdzie! Gdzie! Poka¿! Poka¿! Proooszê? Dobrze? Hê?}
-{1283}{}{... och, zobacz! Œwieci siê! (OdejdŸ.)}
-{1293}{}{ bêdzie siê teraz gniewaæ, bo z³y pan ukrad³ samochód. }
-{2204}{}{ samochód?}
-{2293}{}{ wyœle teraz swoj¹ pi¹chê na krótki spacerek naprzeciwko i zapozna j¹ bli¿ej ze z³ym panem.}
+{1282}{}{! Gdzie! Gdzie! PokaÅ¼! PokaÅ¼! ProooszÄ™? Dobrze? HÄ™?}
+{1283}{}{... och, zobacz! Åšwieci siÄ™! (OdejdÅº.)}
+{1293}{}{ bÄ™dzie siÄ™ teraz gniewaÄ‡, bo zÅ‚y pan ukradÅ‚ samochÃ³d. }
+{2204}{}{ samochÃ³d?}
+{2293}{}{ wyÅ›le teraz swojÄ… piÄ…chÄ™ na krÃ³tki spacerek naprzeciwko i zapozna jÄ… bliÅ¼ej ze zÅ‚ym panem.}

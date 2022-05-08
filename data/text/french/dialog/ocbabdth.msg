@@ -1,5 +1,5 @@
-{100}{}{Tu vois un bébé Griffemort.}
-{101}{}{Tu vois un bébé Griffemort.}
+{100}{}{Tu vois un bÃ©bÃ© Griffemort.}
+{101}{}{Tu vois un bÃ©bÃ© Griffemort.}
 {102}{}{On dirait un Griffemort version miniature, avec les griffes et tout.}
 {103}{}{<Sqwiii> <Rrr>}
 {104}{}{<Maaamaa>}

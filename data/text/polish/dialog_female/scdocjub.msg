@@ -1,146 +1,146 @@
-{100}{}{Widzisz starszego jegomoœcia sprawiaj¹cego mi³e wra¿enie.}
+{100}{}{Widzisz starszego jegomoÅ›cia sprawiajÄ…cego miÅ‚e wraÅ¼enie.}
 {101}{}{To dr Jubilee.}
-{102}{}{To stary cz³owiek ze œnie¿nobia³¹ brod¹ i lekko nieobecnym spojrzeniu.}
-{103}{}{Jestem dr Jubilee. Co siê sta³o, m³ody cz³owieku?}
-{104}{}{Co siê sta³o, m³ody cz³owieku?}
+{102}{}{To stary czÅ‚owiek ze Å›nieÅ¼nobiaÅ‚Ä… brodÄ… i lekko nieobecnym spojrzeniu.}
+{103}{}{Jestem dr Jubilee. Co siÄ™ staÅ‚o, mÅ‚ody czÅ‚owieku?}
+{104}{}{Co siÄ™ staÅ‚o, mÅ‚ody czÅ‚owieku?}
 {105}{}{Moja ranne.}
-{106}{}{Potrzebujê lekarza.}
-{107}{}{A nie mo¿esz po prostu wzi¹æ jakichœ pigu³ek czy co, ¿eby przestaæ mnie ju¿ mêczyæ tym marudzeniem?}
-{108}{}{Do diab³a, ledwo krwawisz.}
-{109}{}{No nie wiem. Chyba nie dam rady jej uratowaæ. Pewnie bêdziemy musieli amputowaæ tê nogê.}
-{110}{}{Chyba ¿artujesz.}
+{106}{}{PotrzebujÄ™ lekarza.}
+{107}{}{A nie moÅ¼esz po prostu wziÄ…Ä‡ jakichÅ› piguÅ‚ek czy co, Å¼eby przestaÄ‡ mnie juÅ¼ mÄ™czyÄ‡ tym marudzeniem?}
+{108}{}{Do diabÅ‚a, ledwo krwawisz.}
+{109}{}{No nie wiem. Chyba nie dam rady jej uratowaÄ‡. Pewnie bÄ™dziemy musieli amputowaÄ‡ tÄ™ nogÄ™.}
+{110}{}{Chyba Å¼artujesz.}
 {111}{}{Ha-ha.}
-{112}{}{Ju¿ lepiej synku.}
+{112}{}{JuÅ¼ lepiej synku.}
 {113}{}{Znowu.}
-{114}{}{Dziêki doktorze. Mo¿e móg³byœ wspomóc mnie odpowiedzi¹ na kilka pytañ?}
-{115}{}{¯egnaj.}
-{116}{}{To bêdzie kosztowaæ 50$.}
+{114}{}{DziÄ™ki doktorze. MoÅ¼e mÃ³gÅ‚byÅ› wspomÃ³c mnie odpowiedziÄ… na kilka pytaÅ„?}
+{115}{}{Å»egnaj.}
+{116}{}{To bÄ™dzie kosztowaÄ‡ 50$.}
 {117}{}{Po prostu mnie wylecz.}
-{118}{}{Nie zostanê tu ani chwili.}
-{119}{}{Ty zrób ja lepiej.}
-{120}{}{Moja iœæ ju¿}
-{121}{}{Nie. Nigdy nie ¿artujê. Bêdzie najlepiej, jeœli odetnê tê nogê, zanim wda siê zaka¿enie.}
-{122}{}{Nie ma mowy, ¿ebyœ cokolwiek odcina³, zrozumiano?}
-{123}{}{Dosyæ tego, wychodzê.}
-{124}{}{Jak chcesz, ale jeœli zacznie ropieæ, to nie miej do mnie pretensji.}
-{125}{}{To nie jest darmowy szpital. Bêdziesz potrzebowaæ gotówki zanim zabiorê siê za cokolwiek.}
-{126}{}{No wiêc, co mogê dla ciebie zrobiæ?}
-{127}{}{Wal œmia³o.}
+{118}{}{Nie zostanÄ™ tu ani chwili.}
+{119}{}{Ty zrÃ³b ja lepiej.}
+{120}{}{Moja iÅ›Ä‡ juÅ¼}
+{121}{}{Nie. Nigdy nie Å¼artujÄ™. BÄ™dzie najlepiej, jeÅ›li odetnÄ™ tÄ™ nogÄ™, zanim wda siÄ™ zakaÅ¼enie.}
+{122}{}{Nie ma mowy, Å¼ebyÅ› cokolwiek odcinaÅ‚, zrozumiano?}
+{123}{}{DosyÄ‡ tego, wychodzÄ™.}
+{124}{}{Jak chcesz, ale jeÅ›li zacznie ropieÄ‡, to nie miej do mnie pretensji.}
+{125}{}{To nie jest darmowy szpital. BÄ™dziesz potrzebowaÄ‡ gotÃ³wki zanim zabiorÄ™ siÄ™ za cokolwiek.}
+{126}{}{No wiÄ™c, co mogÄ™ dla ciebie zrobiÄ‡?}
+{127}{}{Wal Å›miaÅ‚o.}
 {128}{}{Krypty 13?}
-{129}{}{Wiesz mo¿e gdzie trzeba szukaæ Krypty 13?}
-{130}{}{Ktoœ kiedyœ przy mnie mówi³, ¿e pan Westin ma siê nie najlepiej. To prawda? Martwiê siê, ¿e coœ mog³oby mu siê staæ. Jest mi winien trochê pieniêdzy.}
-{131}{}{Jest taki koleœ, Peklowany Bob, który twierdzi, ¿e ukrad³eœ mu mapê. O co biega?}
-{132}{}{Szukam pracy. Wiesz coœ o jakiejœ?}
-{133}{}{Doktorze, nie wiesz przypadkiem czegoœ o tej grupie, która walczy z tymi niegodziwymi ³owcami niewolników, co?}
-{134}{}{Nie masz siê czym martwiæ. Jeœli tylko nie nadwyrê¿y swojego organizmu, prze¿yje nas wszystkich. Oczywiœcie o ile bêdzie przestrzega³ moich zaleceñ i bra³ swoje lekarstwa.}
-{135}{}{Có¿, dobrze wiedzieæ. Jest jeszcze coœ, nad czym siê zastanawiam.}
-{136}{}{Dziêki doktorze.}
-{137}{}{Ten stary pijak! Jedyna rzecz, jak¹ kiedykolwiek od niego wzi¹³em, to mój obraz, "Aksamitny Elvii" - w zastêpstwie pieniêdzy.}
-{138}{}{Aksamitny Elvii? Czy mogê go zobaczyæ?}
-{139}{}{Niezupe³nie mapa, co? No, pozwól, ¿e zajmê twoje szare komórki czymœ innym.}
-{140}{}{No, muszê siê ju¿ zbieraæ.}
-{141}{}{Nikt mi o niej nie wspomina³ od czasu, gdy przyniesiono tu starego Peklowanego. Udar. Trz¹s³ siê w gor¹czce przez trzy dni, wrzeszcz¹c ci¹gle o tym, jak znalaz³ Kryptê 13 i tê ca³¹ jego Rdzenn¹ ¯y³ê.}
-{142}{}{Rdzenn¹ ¯y³ê?}
+{129}{}{Wiesz moÅ¼e gdzie trzeba szukaÄ‡ Krypty 13?}
+{130}{}{KtoÅ› kiedyÅ› przy mnie mÃ³wiÅ‚, Å¼e pan Westin ma siÄ™ nie najlepiej. To prawda? MartwiÄ™ siÄ™, Å¼e coÅ› mogÅ‚oby mu siÄ™ staÄ‡. Jest mi winien trochÄ™ pieniÄ™dzy.}
+{131}{}{Jest taki koleÅ›, Peklowany Bob, ktÃ³ry twierdzi, Å¼e ukradÅ‚eÅ› mu mapÄ™. O co biega?}
+{132}{}{Szukam pracy. Wiesz coÅ› o jakiejÅ›?}
+{133}{}{Doktorze, nie wiesz przypadkiem czegoÅ› o tej grupie, ktÃ³ra walczy z tymi niegodziwymi Å‚owcami niewolnikÃ³w, co?}
+{134}{}{Nie masz siÄ™ czym martwiÄ‡. JeÅ›li tylko nie nadwyrÄ™Å¼y swojego organizmu, przeÅ¼yje nas wszystkich. OczywiÅ›cie o ile bÄ™dzie przestrzegaÅ‚ moich zaleceÅ„ i braÅ‚ swoje lekarstwa.}
+{135}{}{CÃ³Å¼, dobrze wiedzieÄ‡. Jest jeszcze coÅ›, nad czym siÄ™ zastanawiam.}
+{136}{}{DziÄ™ki doktorze.}
+{137}{}{Ten stary pijak! Jedyna rzecz, jakÄ… kiedykolwiek od niego wziÄ…Å‚em, to mÃ³j obraz, "Aksamitny Elvii" - w zastÄ™pstwie pieniÄ™dzy.}
+{138}{}{Aksamitny Elvii? Czy mogÄ™ go zobaczyÄ‡?}
+{139}{}{NiezupeÅ‚nie mapa, co? No, pozwÃ³l, Å¼e zajmÄ™ twoje szare komÃ³rki czymÅ› innym.}
+{140}{}{No, muszÄ™ siÄ™ juÅ¼ zbieraÄ‡.}
+{141}{}{Nikt mi o niej nie wspominaÅ‚ od czasu, gdy przyniesiono tu starego Peklowanego. Udar. TrzÄ…sÅ‚ siÄ™ w gorÄ…czce przez trzy dni, wrzeszczÄ…c ciÄ…gle o tym, jak znalazÅ‚ KryptÄ™ 13 i tÄ™ caÅ‚Ä… jego RdzennÄ… Å»yÅ‚Ä™.}
+{142}{}{RdzennÄ… Å»yÅ‚Ä™?}
 {143}{}{Gdzie to jest?}
 {144}{}{Gdzie Krypta?}
-{145}{}{Nie umiem ci powiedzieæ. Peklowany zawsze twierdzi³, ¿e ma mapê, ale nikt nigdy jej nie widzia³.}
+{145}{}{Nie umiem ci powiedzieÄ‡. Peklowany zawsze twierdziÅ‚, Å¼e ma mapÄ™, ale nikt nigdy jej nie widziaÅ‚.}
 {146}{}{Peklowany?}
-{147}{}{Pytaæ jeszcze.}
-{148}{}{No có¿, zawsze to trochê wiêcej informacji, ni¿ wczeœniej.}
-{149}{}{Bardzo du¿¹ po prostu. Peklowany to stary poszukiwacz uranu - œciœlej mówi¹c, pijak. ¯yje sobie teraz na posiad³oœci Westina.}
+{147}{}{PytaÄ‡ jeszcze.}
+{148}{}{No cÃ³Å¼, zawsze to trochÄ™ wiÄ™cej informacji, niÅ¼ wczeÅ›niej.}
+{149}{}{Bardzo duÅ¼Ä… po prostu. Peklowany to stary poszukiwacz uranu - Å›ciÅ›lej mÃ³wiÄ…c, pijak. Å»yje sobie teraz na posiadÅ‚oÅ›ci Westina.}
 {150}{}{Kolejne pytanie...}
-{151}{}{Dziêki za opowieœæ.}
-{152}{}{W³aœciwie to mia³em wielk¹ nadziejê, ¿e dostanê za niego trochê pieniêdzy. Puszczê go za $}
-{153}{}{Mo¿e póŸniej, mam jeszcze jedno pytanie...}
-{154}{}{Mo¿e póŸniej, muszê ju¿ iœæ.}
-{155}{}{Peklowany to stary poszukiwacz uranu. ¯yje sobie teraz na posiad³oœci Westina.}
+{151}{}{DziÄ™ki za opowieÅ›Ä‡.}
+{152}{}{WÅ‚aÅ›ciwie to miaÅ‚em wielkÄ… nadziejÄ™, Å¼e dostanÄ™ za niego trochÄ™ pieniÄ™dzy. PuszczÄ™ go za $}
+{153}{}{MoÅ¼e pÃ³Åºniej, mam jeszcze jedno pytanie...}
+{154}{}{MoÅ¼e pÃ³Åºniej, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{155}{}{Peklowany to stary poszukiwacz uranu. Å»yje sobie teraz na posiadÅ‚oÅ›ci Westina.}
 {156}{}{Kolejne pytanie...}
-{157}{}{Dziêki za opowieœæ.}
-{158}{}{Najlepiej pójdŸ z tym do prezydent Tandi. S³ysza³em, ¿e szuka osoby o specjalnych kwalifikacjach.}
+{157}{}{DziÄ™ki za opowieÅ›Ä‡.}
+{158}{}{Najlepiej pÃ³jdÅº z tym do prezydent Tandi. SÅ‚yszaÅ‚em, Å¼e szuka osoby o specjalnych kwalifikacjach.}
 {159}{}{Kolejne pytanie...}
-{160}{}{Dziêkujê.}
-{161}{}{Mo¿e wiem... jest taka grupa skierowana przeciwko niewolnictwu i - no, tak¿e przeciwko wiêkszoœci innych wystêpków. Mo¿na ich czasem spotkaæ w tym du¿ym sklepie, jak d³ubi¹ przy samochodzie.}
+{160}{}{DziÄ™kujÄ™.}
+{161}{}{MoÅ¼e wiem... jest taka grupa skierowana przeciwko niewolnictwu i - no, takÅ¼e przeciwko wiÄ™kszoÅ›ci innych wystÄ™pkÃ³w. MoÅ¼na ich czasem spotkaÄ‡ w tym duÅ¼ym sklepie, jak dÅ‚ubiÄ… przy samochodzie.}
 {162}{}{Kolejne pytanie...}
-{163}{}{Dziêkujê.}
-{164}{}{Hej, zabieraj siê od tego, æwoku!}
-{165}{}{Uwa¿aj z tym! Ju¿ niewielka dawka mo¿e ci zaszkodziæ.}
-{166}{}{Od³ó¿ to! Mo¿esz sobie tym zrobiæ powa¿n¹ krzywdê.}
-{167}{}{Te leki s¹ dla pana Westina, a nie dla ciebie. Od³ó¿ je.}
-{168}{}{Odsuñ siê stamt¹d. Widzisz, muszê byæ ostro¿ny. Nie chcia³bym, ¿eby pan Westin dosta³ teraz niew³aœciwe leki.}
-{169}{}{Uwa¿aj! Dopiero co odmierzy³em dawkê dla pana Westina.}
-{170}{}{Jestem dr Jubilee. Co siê sta³o, m³oda damo?}
-{171}{}{Co siê sta³o, m³oda damo?}
-{172}{}{Ju¿ lepiej, m³oda damo.}
-{173}{}{M³oda damo, nie masz siê czym martwiæ. Jeœli tylko nie nadwyrê¿y swojego organizmu, prze¿yje nas wszystkich. Oczywiœcie o ile bêdzie przestrzega³ moich zaleceñ i bra³ swoje lekarstwa.}
+{163}{}{DziÄ™kujÄ™.}
+{164}{}{Hej, zabieraj siÄ™ od tego, Ä‡woku!}
+{165}{}{UwaÅ¼aj z tym! JuÅ¼ niewielka dawka moÅ¼e ci zaszkodziÄ‡.}
+{166}{}{OdÅ‚Ã³Å¼ to! MoÅ¼esz sobie tym zrobiÄ‡ powaÅ¼nÄ… krzywdÄ™.}
+{167}{}{Te leki sÄ… dla pana Westina, a nie dla ciebie. OdÅ‚Ã³Å¼ je.}
+{168}{}{OdsuÅ„ siÄ™ stamtÄ…d. Widzisz, muszÄ™ byÄ‡ ostroÅ¼ny. Nie chciaÅ‚bym, Å¼eby pan Westin dostaÅ‚ teraz niewÅ‚aÅ›ciwe leki.}
+{169}{}{UwaÅ¼aj! Dopiero co odmierzyÅ‚em dawkÄ™ dla pana Westina.}
+{170}{}{Jestem dr Jubilee. Co siÄ™ staÅ‚o, mÅ‚oda damo?}
+{171}{}{Co siÄ™ staÅ‚o, mÅ‚oda damo?}
+{172}{}{JuÅ¼ lepiej, mÅ‚oda damo.}
+{173}{}{MÅ‚oda damo, nie masz siÄ™ czym martwiÄ‡. JeÅ›li tylko nie nadwyrÄ™Å¼y swojego organizmu, przeÅ¼yje nas wszystkich. OczywiÅ›cie o ile bÄ™dzie przestrzegaÅ‚ moich zaleceÅ„ i braÅ‚ swoje lekarstwa.}
 {174}{}{Pewnie. Oto $}
-{175}{}{Dziêki, usi³owa³em wyci¹gn¹æ te pieni¹dze od Peklowanego, ale ten ³¹jdak nigdy ich nie ma.}
+{175}{}{DziÄ™ki, usiÅ‚owaÅ‚em wyciÄ…gnÄ…Ä‡ te pieniÄ…dze od Peklowanego, ale ten Å‚Ä…jdak nigdy ich nie ma.}
 {176}{}{.}
 {200}{}{Hej tam, }
 {201}{}{synu! }
 {202}{}{panienko! }
-{203}{}{Nie mo¿esz ingerowaæ w takie rzeczy! Mierzê dawki leków dla pana Westin'a i nie chcia³bym mu podaæ niew³aœciwego lekarstwa. Co ty u licha sobie myœlisz?}
-{204}{}{Chcia³am tylko przyjrzeæ siê tabletkom z tamtej pó³ki.}
-{205}{}{Oh, nie chcia³em przeszkadzaæ. Wydawa³o mi siê, ¿e to jest na sprzeda¿.}
+{203}{}{Nie moÅ¼esz ingerowaÄ‡ w takie rzeczy! MierzÄ™ dawki lekÃ³w dla pana Westin'a i nie chciaÅ‚bym mu podaÄ‡ niewÅ‚aÅ›ciwego lekarstwa. Co ty u licha sobie myÅ›lisz?}
+{204}{}{ChciaÅ‚am tylko przyjrzeÄ‡ siÄ™ tabletkom z tamtej pÃ³Å‚ki.}
+{205}{}{Oh, nie chciaÅ‚em przeszkadzaÄ‡. WydawaÅ‚o mi siÄ™, Å¼e to jest na sprzedaÅ¼.}
 {206}{}{Wybacz. To po prostu ten nieodparty przymus grzebania w cudzych rzeczach.}
-{207}{}{Szczerze? Nie spodziewa³em siê, ¿e jesteœ a¿ tak spostrzegawczy. Chyba bêdê musia³ improwizowaæ.}
-{210}{}{Czym mogê s³u¿yæ? (Doc Jubilee k³ania siê ch³odno) Zgadujê, ¿e przynosisz ze sob¹ jakieœ choróbsko.}
-{211}{}{I masz racjê. Mój przyjaciel Cassidy. Starszy facet. Ma s³abe serce, a podró¿ przez pustkowia jest dla niego coraz wiêkszym wyzwaniem.}
-{212}{}{Muszê stwierdziæ, ¿e masz racjê. Bêde szczery, chorobê odziedziczy³em po ojcu. A przynajmniej tak mi mówi³.}
+{207}{}{Szczerze? Nie spodziewaÅ‚em siÄ™, Å¼e jesteÅ› aÅ¼ tak spostrzegawczy. Chyba bÄ™dÄ™ musiaÅ‚ improwizowaÄ‡.}
+{210}{}{Czym mogÄ™ sÅ‚uÅ¼yÄ‡? (Doc Jubilee kÅ‚ania siÄ™ chÅ‚odno) ZgadujÄ™, Å¼e przynosisz ze sobÄ… jakieÅ› chorÃ³bsko.}
+{211}{}{I masz racjÄ™. MÃ³j przyjaciel Cassidy. Starszy facet. Ma sÅ‚abe serce, a podrÃ³Å¼ przez pustkowia jest dla niego coraz wiÄ™kszym wyzwaniem.}
+{212}{}{MuszÄ™ stwierdziÄ‡, Å¼e masz racjÄ™. BÄ™de szczery, chorobÄ™ odziedziczyÅ‚em po ojcu. A przynajmniej tak mi mÃ³wiÅ‚.}
 {213}{}{Och, nie, nic takiego. Jestem po prostu ciekawski.}
-{220}{}{Có¿, nie mogê ci pomóc. To jest prywatna klinika, a nie apteka. Mo¿esz spróbowaæ u Duppo, na pó³noc st¹d.}
+{220}{}{CÃ³Å¼, nie mogÄ™ ci pomÃ³c. To jest prywatna klinika, a nie apteka. MoÅ¼esz sprÃ³bowaÄ‡ u Duppo, na pÃ³Å‚noc stÄ…d.}
 {221}{}{To brzmi jak to, czego szukam. Do widzenia.}
-{222}{}{PóŸniej to sprawdzê. W miêdzyczasie jednak chcia³bym zadaæ kilka pytañ, o ile nie masz nic przeciwko?}
-{223}{}{Nie, myœlê, ¿e trafi³em we w³aœciwe miejsce. Widzê, ¿e odwalasz tutaj dobr¹ robotê. Poyœla³em, ¿e mogê ofiarowaæ ci darowiznê.}
-{230}{}{[Marszczy brwi] Powinieneœ z kimœ o tym porozmawiaæ. Niestety, ja nie jestem odpowiednim typem lekarza. Wszystko co musisz wiedzieæ o tej pó³ce, to to, ¿e jeœli coœ pomieszasz lub nie zastosujesz siê do pewnych zaleceñ, jakiœ biedny facet bêdzie zobowi¹zany do koñca ¿ycia wiæ siê z bólu, o ile w ogóle prze¿yje. Najlepiej trzymaj rêce przy sobie.}
-{231}{}{Robi siê, doktorze. Ale, uh, powiedzmy, ¿e mam kumpla, któremu niektóre z tych pigu³ek naprawdê mog³yby pomóc. Pomyœla³em, ¿e mo¿e sprzedasz mi jakieœ?}
+{222}{}{PÃ³Åºniej to sprawdzÄ™. W miÄ™dzyczasie jednak chciaÅ‚bym zadaÄ‡ kilka pytaÅ„, o ile nie masz nic przeciwko?}
+{223}{}{Nie, myÅ›lÄ™, Å¼e trafiÅ‚em we wÅ‚aÅ›ciwe miejsce. WidzÄ™, Å¼e odwalasz tutaj dobrÄ… robotÄ™. PoyÅ›laÅ‚em, Å¼e mogÄ™ ofiarowaÄ‡ ci darowiznÄ™.}
+{230}{}{[Marszczy brwi] PowinieneÅ› z kimÅ› o tym porozmawiaÄ‡. Niestety, ja nie jestem odpowiednim typem lekarza. Wszystko co musisz wiedzieÄ‡ o tej pÃ³Å‚ce, to to, Å¼e jeÅ›li coÅ› pomieszasz lub nie zastosujesz siÄ™ do pewnych zaleceÅ„, jakiÅ› biedny facet bÄ™dzie zobowiÄ…zany do koÅ„ca Å¼ycia wiÄ‡ siÄ™ z bÃ³lu, o ile w ogÃ³le przeÅ¼yje. Najlepiej trzymaj rÄ™ce przy sobie.}
+{231}{}{Robi siÄ™, doktorze. Ale, uh, powiedzmy, Å¼e mam kumpla, ktÃ³remu niektÃ³re z tych piguÅ‚ek naprawdÄ™ mogÅ‚yby pomÃ³c. PomyÅ›laÅ‚em, Å¼e moÅ¼e sprzedasz mi jakieÅ›?}
 {240}{}{Awww, }
 {241}{}{Synu, }
 {242}{}{Panienko, }
-{243}{}{chcia³bym ci pomóc, ale póki co nie przyjmujê nowych pacjentów, rada ma mnie w garœci. Nie mogê sprzedawaæ ¿adnych pigu³ek. Ludzie radnego Westin'a powinni odebraæ leki w przeci¹gu }
+{243}{}{chciaÅ‚bym ci pomÃ³c, ale pÃ³ki co nie przyjmujÄ™ nowych pacjentÃ³w, rada ma mnie w garÅ›ci. Nie mogÄ™ sprzedawaÄ‡ Å¼adnych piguÅ‚ek. Ludzie radnego Westin'a powinni odebraÄ‡ leki w przeciÄ…gu }
 {244}{}{ dni, }
 {245}{}{ dnia, }
-{246}{}{wiêc nie mam póki co innej mo¿liwoœci. Zamierzam poœwiêciæ swój czas na wczeœniejsze wymieszanie kolejnej partii medykamentów.}
-{247}{}{Rozumiem. Mo¿e znajdê przyzwoitego farmaceutê gdzie indziej. Jeœli to nie problem, chcia³bym siê czegoœ dowiedzieæ, a mianowicie gdzie mogê znaleŸæ inne leki, jak przeciwdzia³aæ chorobie? Niezbyt czêsto mam do czynienia z medycyn¹, dlatego jest to dla mnie bardzo wa¿ne.}
-{248}{}{W tej dziedzinie mam pewne braki. W ka¿dym razie, powiem co wiem. Ze starych komiksów dowiedzia³em siê o Kardamonie. Ponoæ jest dobry na problemy sercowe. Wystarczy pokroiæ jego grube, twarde liœcie i spo¿ywaæ je dwa razy dziennie. Brak ruchu pogarsza stan chorego serca. Krótkie serie æwiczeñ przynajmniej raz na dzieñ s¹ priorytetem, ale nie spinaj siê nazbyt, twoje serce mo¿e tego nie wytrzymaæ.}
-{250}{}{Przykro mi przyjacielu, ale obawiam siê, ¿e te tabletki s¹ dla radnego Westin'a. Póki co nie mogê równie¿ przyjmowaæ ¿adnych nowych pacjentów, wiêc nie jestem w stanie wypisaæ ci recepty. A teraz proszê, odejdŸ ju¿ od tej pó³ki i nie próbuj g³upstw. Recepty mog³yby siê pomieszaæ, a wtedy ktoœ móg³by dostaæ nie te leki co trzeba i dokonaæ ¿ywota w bardzo nieprzyjemny sposób.}
-{260}{}{Postawmy sprawê jasno }
+{246}{}{wiÄ™c nie mam pÃ³ki co innej moÅ¼liwoÅ›ci. Zamierzam poÅ›wiÄ™ciÄ‡ swÃ³j czas na wczeÅ›niejsze wymieszanie kolejnej partii medykamentÃ³w.}
+{247}{}{Rozumiem. MoÅ¼e znajdÄ™ przyzwoitego farmaceutÄ™ gdzie indziej. JeÅ›li to nie problem, chciaÅ‚bym siÄ™ czegoÅ› dowiedzieÄ‡, a mianowicie gdzie mogÄ™ znaleÅºÄ‡ inne leki, jak przeciwdziaÅ‚aÄ‡ chorobie? Niezbyt czÄ™sto mam do czynienia z medycynÄ…, dlatego jest to dla mnie bardzo waÅ¼ne.}
+{248}{}{W tej dziedzinie mam pewne braki. W kaÅ¼dym razie, powiem co wiem. Ze starych komiksÃ³w dowiedziaÅ‚em siÄ™ o Kardamonie. PonoÄ‡ jest dobry na problemy sercowe. Wystarczy pokroiÄ‡ jego grube, twarde liÅ›cie i spoÅ¼ywaÄ‡ je dwa razy dziennie. Brak ruchu pogarsza stan chorego serca. KrÃ³tkie serie Ä‡wiczeÅ„ przynajmniej raz na dzieÅ„ sÄ… priorytetem, ale nie spinaj siÄ™ nazbyt, twoje serce moÅ¼e tego nie wytrzymaÄ‡.}
+{250}{}{Przykro mi przyjacielu, ale obawiam siÄ™, Å¼e te tabletki sÄ… dla radnego Westin'a. PÃ³ki co nie mogÄ™ rÃ³wnieÅ¼ przyjmowaÄ‡ Å¼adnych nowych pacjentÃ³w, wiÄ™c nie jestem w stanie wypisaÄ‡ ci recepty. A teraz proszÄ™, odejdÅº juÅ¼ od tej pÃ³Å‚ki i nie prÃ³buj gÅ‚upstw. Recepty mogÅ‚yby siÄ™ pomieszaÄ‡, a wtedy ktoÅ› mÃ³gÅ‚by dostaÄ‡ nie te leki co trzeba i dokonaÄ‡ Å¼ywota w bardzo nieprzyjemny sposÃ³b.}
+{260}{}{Postawmy sprawÄ™ jasno }
 {261}{}{drogi kolego. }
-{262}{}{droga kole¿anko. }
-{263}{}{Co rozumiesz przez s³owo "darowizna?"}
-{264}{}{Wk³ad pieniê¿ny na rzecz rozwoju oœrodka, oczywiœcie, dobrze by³oby mieæ PUBLICZN¥ klinikê w pobli¿u, powiedzmy, hmm... 150 dolarów? Mo¿esz przeliczyæ je na zapleczu. To zajmiê chwilê, prawda?}
-{265}{}{Uh, myœlê, ¿e lepiej bêdzie jak pogadam z moim ksiêgowym, zanim cokolwiek zrobiê. Do zobaczenia, doktorze.}
-{270}{}{Nie mogê tego zrobiæ, móg³bym mieæ z tego wzglêdu pewne nieprzyjemnoœci. Tabletki s¹ dla radnego Westin'a. Jego ludzie nie s¹ nazbyt mili, a po leki powinni zg³osiæ siê w przeci¹gu }
+{262}{}{droga koleÅ¼anko. }
+{263}{}{Co rozumiesz przez sÅ‚owo "darowizna?"}
+{264}{}{WkÅ‚ad pieniÄ™Å¼ny na rzecz rozwoju oÅ›rodka, oczywiÅ›cie, dobrze byÅ‚oby mieÄ‡ PUBLICZNÄ„ klinikÄ™ w pobliÅ¼u, powiedzmy, hmm... 150 dolarÃ³w? MoÅ¼esz przeliczyÄ‡ je na zapleczu. To zajmiÄ™ chwilÄ™, prawda?}
+{265}{}{Uh, myÅ›lÄ™, Å¼e lepiej bÄ™dzie jak pogadam z moim ksiÄ™gowym, zanim cokolwiek zrobiÄ™. Do zobaczenia, doktorze.}
+{270}{}{Nie mogÄ™ tego zrobiÄ‡, mÃ³gÅ‚bym mieÄ‡ z tego wzglÄ™du pewne nieprzyjemnoÅ›ci. Tabletki sÄ… dla radnego Westin'a. Jego ludzie nie sÄ… nazbyt mili, a po leki powinni zgÅ‚osiÄ‡ siÄ™ w przeciÄ…gu }
 {271}{}{ dni, }
 {272}{}{ dnia, }
-{273}{}{braknie mi czasu na zorganizowanie kolejnej partii. Jestem pewien, ¿e znajdziesz farmaceutê, który ma mniej pracy i wiêcej czasu.}
-{274}{}{Rozumiem. Có¿ i tak dziêki.}
-{280}{}{(Doktor Jubilee gapi siê na ciebie przez chwilê) Aw, nie dasz mi spokoju, prawda? Nie dasz. (Spogl¹da na ciebie znowu, kiwa g³ow¹ i wypuszcza powietrze z policzków) Hmmm, przyjacielu. Tak czy owak nie by³obym lekarzem, gdybym pozwoli³ ci st¹d odejœæ bez co najmniej kilku wskazówek.}
-{281}{}{Zobaczmy... na pocz¹tek, co nale¿y przestaæ robiæ... Dobrze, a wiêc rzucamy picie, palenie, nie jemy czerwonego miêsa, odk³adamy wszelak¹ chemiê na bok. Staramy siê poœwiêcaæ pó³ godziny dziennie na ³agodne æwiczenia. Wszystko co robimy, robimy spokojnie, bez nerwów. ¯ycie to nie wyœcig, w którym chcemy byæ pierwsi na mecie. Prawdê mówi¹c, nikt nie s³ucha tych rzeczy, ale przynajmniej bêdê móg³ zasn¹æ spokojnie.}
-{282}{}{I najwa¿niejsze trzeba znaleŸæ ci dobrego chemika i zapewniæ regularne dostawy Triproxinilu. Tri-prox-i-nil. Rustkowie nie oferuje takich luksusów jak zawartoœæ tamtej pó³ki, ale jeœli ju¿ uda ci siê znaleŸæ coœ konkretnego to zalecana dawka wynosi 30 miligramów dwa razy dziennie.}
-{283}{}{Po za¿yciu leków pij spor¹ iloœæ wody. Dla jasnoœci, trzymaj siê z dala od tej wiagry z Nowego Reno, ³apiesz? Te tabletki marnie ze sob¹ wspó³graj¹. Facet bierze jedn¹ tabletkê, podczas gdy jest pod dzia³aniem innej, a jego ma³y John Thomas przestajê byæ miêczakiem i staje siê takim twardzielem, ¿e po krótkiej chwili nie czujesz go wcale, nad¹¿asz?}
-{284}{}{(Do siebie) Hmm, to mo¿e siê udaæ. Taa. Mo¿e by tak pokombinowaæ z inhibitorem PDE-5...}
-{285}{}{Jeœli w Nowym Reno uda ci siê porozmawiaæ z jednym z handlarzy, stwierdzi on, ¿e jego towar uodparnia serce na niemal ka¿dy rodzaj trucizny jakiej zechcecie spróbowaæ. Nie chcê ciê ok³amywaæ - nie mam pewnosci, ale byæ mo¿e jest w tym ziarno prawdy. Z drugiej jednak strony ci handlarze zrobi¹ wszystko ¿eby tylko coœ ci sprzedaæ. Jesteœ ju¿ doros³y, wiêc nie zamierzam oferowaæ ci swoich wyk³adów na ten temat, ale niestety tak jest.}
-{286}{}{Wielkie dziêki, doktorze. Nawet nie masz pojêcia, jak bardzo mi pomog³eœ. B¹dŸ zdrów.}
-{287}{}{Tri-prox-i-nil tak, wia-gra nie. Hehe. Bêdê o tym pamiêtaæ. Do zobaczenia, doktorku.}
-{290}{}{Myœlisz, ¿e masz do czynienia ze zwyk³ym tanim chirurgiem, }
+{273}{}{braknie mi czasu na zorganizowanie kolejnej partii. Jestem pewien, Å¼e znajdziesz farmaceutÄ™, ktÃ³ry ma mniej pracy i wiÄ™cej czasu.}
+{274}{}{Rozumiem. CÃ³Å¼ i tak dziÄ™ki.}
+{280}{}{(Doktor Jubilee gapi siÄ™ na ciebie przez chwilÄ™) Aw, nie dasz mi spokoju, prawda? Nie dasz. (SpoglÄ…da na ciebie znowu, kiwa gÅ‚owÄ… i wypuszcza powietrze z policzkÃ³w) Hmmm, przyjacielu. Tak czy owak nie byÅ‚obym lekarzem, gdybym pozwoliÅ‚ ci stÄ…d odejÅ›Ä‡ bez co najmniej kilku wskazÃ³wek.}
+{281}{}{Zobaczmy... na poczÄ…tek, co naleÅ¼y przestaÄ‡ robiÄ‡... Dobrze, a wiÄ™c rzucamy picie, palenie, nie jemy czerwonego miÄ™sa, odkÅ‚adamy wszelakÄ… chemiÄ™ na bok. Staramy siÄ™ poÅ›wiÄ™caÄ‡ pÃ³Å‚ godziny dziennie na Å‚agodne Ä‡wiczenia. Wszystko co robimy, robimy spokojnie, bez nerwÃ³w. Å»ycie to nie wyÅ›cig, w ktÃ³rym chcemy byÄ‡ pierwsi na mecie. PrawdÄ™ mÃ³wiÄ…c, nikt nie sÅ‚ucha tych rzeczy, ale przynajmniej bÄ™dÄ™ mÃ³gÅ‚ zasnÄ…Ä‡ spokojnie.}
+{282}{}{I najwaÅ¼niejsze trzeba znaleÅºÄ‡ ci dobrego chemika i zapewniÄ‡ regularne dostawy Triproxinilu. Tri-prox-i-nil. Rustkowie nie oferuje takich luksusÃ³w jak zawartoÅ›Ä‡ tamtej pÃ³Å‚ki, ale jeÅ›li juÅ¼ uda ci siÄ™ znaleÅºÄ‡ coÅ› konkretnego to zalecana dawka wynosi 30 miligramÃ³w dwa razy dziennie.}
+{283}{}{Po zaÅ¼yciu lekÃ³w pij sporÄ… iloÅ›Ä‡ wody. Dla jasnoÅ›ci, trzymaj siÄ™ z dala od tej wiagry z Nowego Reno, Å‚apiesz? Te tabletki marnie ze sobÄ… wspÃ³Å‚grajÄ…. Facet bierze jednÄ… tabletkÄ™, podczas gdy jest pod dziaÅ‚aniem innej, a jego maÅ‚y John Thomas przestajÄ™ byÄ‡ miÄ™czakiem i staje siÄ™ takim twardzielem, Å¼e po krÃ³tkiej chwili nie czujesz go wcale, nadÄ…Å¼asz?}
+{284}{}{(Do siebie) Hmm, to moÅ¼e siÄ™ udaÄ‡. Taa. MoÅ¼e by tak pokombinowaÄ‡ z inhibitorem PDE-5...}
+{285}{}{JeÅ›li w Nowym Reno uda ci siÄ™ porozmawiaÄ‡ z jednym z handlarzy, stwierdzi on, Å¼e jego towar uodparnia serce na niemal kaÅ¼dy rodzaj trucizny jakiej zechcecie sprÃ³bowaÄ‡. Nie chcÄ™ ciÄ™ okÅ‚amywaÄ‡ - nie mam pewnosci, ale byÄ‡ moÅ¼e jest w tym ziarno prawdy. Z drugiej jednak strony ci handlarze zrobiÄ… wszystko Å¼eby tylko coÅ› ci sprzedaÄ‡. JesteÅ› juÅ¼ dorosÅ‚y, wiÄ™c nie zamierzam oferowaÄ‡ ci swoich wykÅ‚adÃ³w na ten temat, ale niestety tak jest.}
+{286}{}{Wielkie dziÄ™ki, doktorze. Nawet nie masz pojÄ™cia, jak bardzo mi pomogÅ‚eÅ›. BÄ…dÅº zdrÃ³w.}
+{287}{}{Tri-prox-i-nil tak, wia-gra nie. Hehe. BÄ™dÄ™ o tym pamiÄ™taÄ‡. Do zobaczenia, doktorku.}
+{290}{}{MyÅ›lisz, Å¼e masz do czynienia ze zwykÅ‚ym tanim chirurgiem, }
 {291}{}{Synu, }
 {292}{}{dziewuszko, }
-{293}{}{prawda? Otó¿ nie. Jestem dobrze przeszkolonym lekarzem - specjalist¹, dzia³am na rzecz medycyny RNK, a to jest warte o wiele wiêcej.}
-{294}{}{Przepraszam. Oczywiœcie, lekarz twojego kalibru przyjmuje darowizny tylko w wysokoœci nie mniejszej ni¿ 250 dolarów.}
-{295}{}{(Zwiesi³a g³owê.) S³uchaj, naprawdê mi przykro. Nie jestem z siebie dumna, normalnie nigdy wczeœniej tego nie próbowa³am, ale bêdê szczera: Desperacko potrzebujê tych pigu³ek.}
-{296}{}{Przepraszam za k³opot. Myœlê, ¿e lepiej bêdzie jak ju¿ sobie pójdê, zanim pogorszê swoj¹ sytuacjê.}
-{300}{}{(Doktor Jubilee zaczyna siê czerwieniæ.) Chyba siê nie zrozumieliœmy}
-{301}{}{ ch³opcze. }
+{293}{}{prawda? OtÃ³Å¼ nie. Jestem dobrze przeszkolonym lekarzem - specjalistÄ…, dziaÅ‚am na rzecz medycyny RNK, a to jest warte o wiele wiÄ™cej.}
+{294}{}{Przepraszam. OczywiÅ›cie, lekarz twojego kalibru przyjmuje darowizny tylko w wysokoÅ›ci nie mniejszej niÅ¼ 250 dolarÃ³w.}
+{295}{}{(ZwiesiÅ‚a gÅ‚owÄ™.) SÅ‚uchaj, naprawdÄ™ mi przykro. Nie jestem z siebie dumna, normalnie nigdy wczeÅ›niej tego nie prÃ³bowaÅ‚am, ale bÄ™dÄ™ szczera: Desperacko potrzebujÄ™ tych piguÅ‚ek.}
+{296}{}{Przepraszam za kÅ‚opot. MyÅ›lÄ™, Å¼e lepiej bÄ™dzie jak juÅ¼ sobie pÃ³jdÄ™, zanim pogorszÄ™ swojÄ… sytuacjÄ™.}
+{300}{}{(Doktor Jubilee zaczyna siÄ™ czerwieniÄ‡.) Chyba siÄ™ nie zrozumieliÅ›my}
+{301}{}{ chÅ‚opcze. }
 {302}{}{ dziewcze. }
-{303}{}{S³uchaj uwa¿nie: Jestem lekarzem RNK. Ta praca jest dla mnie œwiêtym obowi¹zkiem, sk³adaj¹c uroczyst¹ przysiêg¹ podj¹³em siê tego trudnego i wymagaj¹cego zadania, a teraz ty przychodzisz tu, rzucasz pieni¹dze na stó³ i prosisz abym naaszcza³ na s³owa swojej przysiêgi. Poproœ mnie o to jeszcze raz, a naprawdê bêdziesz potrzebowaæ pomocy lekarza. Chwytasz?}
-{304}{}{Dobra, chwytam. Skoro jesteœ tak dobrym doktorkiem jak ci siê wydaje, byæ mo¿e bêdziesz w stanie siê pozszywaæ po tym co ci teraz zrobiê.}
-{305}{}{Spokojnie, doktorze. Nie chcia³em wchodziæ panu na odcisk. Lepiej ju¿ sobiê pójdê.}
-{310}{}{Zastanawia³em siê nad tabletkami, które masz na tamtej pó³ce. Mo¿esz mi coœ o nich powiedzieæ, doktorze?}
-{311}{}{Jesteœ pewien, ¿e nie mo¿esz mi paru sprzedaæ?}
-{320}{}{Niestety, ludzie radnego Westin'a zobowi¹zali siê odebraæ leki w przeci¹gu }
+{303}{}{SÅ‚uchaj uwaÅ¼nie: Jestem lekarzem RNK. Ta praca jest dla mnie Å›wiÄ™tym obowiÄ…zkiem, skÅ‚adajÄ…c uroczystÄ… przysiÄ™gÄ… podjÄ…Å‚em siÄ™ tego trudnego i wymagajÄ…cego zadania, a teraz ty przychodzisz tu, rzucasz pieniÄ…dze na stÃ³Å‚ i prosisz abym naaszczaÅ‚ na sÅ‚owa swojej przysiÄ™gi. PoproÅ› mnie o to jeszcze raz, a naprawdÄ™ bÄ™dziesz potrzebowaÄ‡ pomocy lekarza. Chwytasz?}
+{304}{}{Dobra, chwytam. Skoro jesteÅ› tak dobrym doktorkiem jak ci siÄ™ wydaje, byÄ‡ moÅ¼e bÄ™dziesz w stanie siÄ™ pozszywaÄ‡ po tym co ci teraz zrobiÄ™.}
+{305}{}{Spokojnie, doktorze. Nie chciaÅ‚em wchodziÄ‡ panu na odcisk. Lepiej juÅ¼ sobiÄ™ pÃ³jdÄ™.}
+{310}{}{ZastanawiaÅ‚em siÄ™ nad tabletkami, ktÃ³re masz na tamtej pÃ³Å‚ce. MoÅ¼esz mi coÅ› o nich powiedzieÄ‡, doktorze?}
+{311}{}{JesteÅ› pewien, Å¼e nie moÅ¼esz mi paru sprzedaÄ‡?}
+{320}{}{Niestety, ludzie radnego Westin'a zobowiÄ…zali siÄ™ odebraÄ‡ leki w przeciÄ…gu }
 {321}{}{ dni, }
 {322}{}{ dnia, }
-{323}{}{a ja jestem zbyt zajêty by móc wydaæ w tym czasie kolejn¹ partiê.}
-{324}{}{(Mruczy do siebie.) Gdzie ja, do cholery, przesia³em te pigu³ki dla Westin'a. Bez nich jego serce d³ugo nie poci¹gnie. (Patrzy w górê) Oh, przepraszam. Jest coœ co mogê dla ciebie zrobiæ?}
-{325}{}{Mówi³eœ coœ o tabletkach na serce. Chcia³bym siê od ciebie dowiedzieæ czegoœ wiêcej na temat tych leków.}
-{330}{}{(Mruczy do siebie.) Nie mogê w to uwierzyæ, Westin nie ¿yje. To nie mog³a byæ moja wina, przecie¿ dok³adnie dawkowa³em pigu³ki. (Patrzy w górê) Oh, przepraszam. Jest coœ co mogê dla ciebie zrobiæ?}
+{323}{}{a ja jestem zbyt zajÄ™ty by mÃ³c wydaÄ‡ w tym czasie kolejnÄ… partiÄ™.}
+{324}{}{(Mruczy do siebie.) Gdzie ja, do cholery, przesiaÅ‚em te piguÅ‚ki dla Westin'a. Bez nich jego serce dÅ‚ugo nie pociÄ…gnie. (Patrzy w gÃ³rÄ™) Oh, przepraszam. Jest coÅ› co mogÄ™ dla ciebie zrobiÄ‡?}
+{325}{}{MÃ³wiÅ‚eÅ› coÅ› o tabletkach na serce. ChciaÅ‚bym siÄ™ od ciebie dowiedzieÄ‡ czegoÅ› wiÄ™cej na temat tych lekÃ³w.}
+{330}{}{(Mruczy do siebie.) Nie mogÄ™ w to uwierzyÄ‡, Westin nie Å¼yje. To nie mogÅ‚a byÄ‡ moja wina, przecieÅ¼ dokÅ‚adnie dawkowaÅ‚em piguÅ‚ki. (Patrzy w gÃ³rÄ™) Oh, przepraszam. Jest coÅ› co mogÄ™ dla ciebie zrobiÄ‡?}

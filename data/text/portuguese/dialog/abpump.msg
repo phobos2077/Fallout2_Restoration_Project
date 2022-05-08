@@ -1,14 +1,14 @@
-{100}{}{Você vê uma bomba de água.}
-{101}{}{Você vê uma bomba de água realmente velha que parece estar quebrada.}
-{102}{}{A bomba de água está funcionando bem agora.}
-{103}{}{Você vai precisar mais do que apenas suas mãos para corrigir esta máquina. Talvez algumas ferramentas de ajuda com a instalação desta peça.}
-{104}{}{Você reparou a bomba de água.}
-{105}{}{Você não conseguiu reparar a bomba.}
-{106}{}{Você descobre o que há de errado com a bomba de água.}
-{200}{}{Você abre a máquina e olhar para dentro. Você vê um monte de enferrujadas engrenagens e motores. Um dos motores está quebrado.}
+{100}{}{VocÃª vÃª uma bomba de Ã¡gua.}
+{101}{}{VocÃª vÃª uma bomba de Ã¡gua realmente velha que parece estar quebrada.}
+{102}{}{A bomba de Ã¡gua estÃ¡ funcionando bem agora.}
+{103}{}{VocÃª vai precisar mais do que apenas suas mÃ£os para corrigir esta mÃ¡quina. Talvez algumas ferramentas de ajuda com a instalaÃ§Ã£o desta peÃ§a.}
+{104}{}{VocÃª reparou a bomba de Ã¡gua.}
+{105}{}{VocÃª nÃ£o conseguiu reparar a bomba.}
+{106}{}{VocÃª descobre o que hÃ¡ de errado com a bomba de Ã¡gua.}
+{200}{}{VocÃª abre a mÃ¡quina e olhar para dentro. VocÃª vÃª um monte de enferrujadas engrenagens e motores. Um dos motores estÃ¡ quebrado.}
 {201}{}{Liga-o por um dia.}
 {202}{}{Investigar mais.}
-{203}{}{Após uma inspeção mais próxima, você vê que a rachadura não é a causa do problema, mas sim
-  A conexão para onde os fios vão. Os conectores parecem queimados ao longo dos anos de uso. Está precisando de
-um motor totalmente novo, bem como um novo conjunto de fios para que esta máquina funcione novamente.}
+{203}{}{ApÃ³s uma inspeÃ§Ã£o mais prÃ³xima, vocÃª vÃª que a rachadura nÃ£o Ã© a causa do problema, mas sim
+Â  A conexÃ£o para onde os fios vÃ£o. Os conectores parecem queimados ao longo dos anos de uso. EstÃ¡ precisando de
+um motor totalmente novo, bem como um novo conjunto de fios para que esta mÃ¡quina funcione novamente.}
 {204}{}{Sair.}

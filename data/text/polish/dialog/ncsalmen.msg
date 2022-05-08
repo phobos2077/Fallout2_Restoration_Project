@@ -1,128 +1,128 @@
 {100}{}{Widzisz jednego z ludzi rodziny Salvatore.}
-{150}{}{Widzisz dobrze zbudowanego, zasêpionego mê¿czyznê. Patrzy beznamiêtnie przed siebie. W d³oni trzyma dziwnie wygl¹daj¹cy pistolet.}
-{151}{}{Widzisz dobrze zbudowanego, zasêpionego mê¿czyznê. Patrzy beznamiêtnie przed siebie.}
-{152}{}{Widzisz jednego z ludzi Salvatore. Wygl¹da na bardzo spiêtego.}
+{150}{}{Widzisz dobrze zbudowanego, zasÄ™pionego mÄ™Å¼czyznÄ™. Patrzy beznamiÄ™tnie przed siebie. W dÅ‚oni trzyma dziwnie wyglÄ…dajÄ…cy pistolet.}
+{151}{}{Widzisz dobrze zbudowanego, zasÄ™pionego mÄ™Å¼czyznÄ™. Patrzy beznamiÄ™tnie przed siebie.}
+{152}{}{Widzisz jednego z ludzi Salvatore. WyglÄ…da na bardzo spiÄ™tego.}
 {153}{}{Widzisz jednego z ludzi Salvatore. Patrzy przed siebie ponurym spojrzeniem.}
-{154}{}{Widzisz jednego z ludzi Salvatore. Wygl¹da na silnego, zabójczego i... bardzo œpi¹cego.}
-{155}{}{Widzisz jednego z ludzi Salvatore. Wygl¹da na silnego, zabójczego i... bardzo znudzonego.}
-{160}{}{::K³ania siê z szacunkiem::}
-{161}{}{Trzeba mieæ nie lada odwagê, ¿eby tak stawiæ czo³a Enklawie.}
+{154}{}{Widzisz jednego z ludzi Salvatore. WyglÄ…da na silnego, zabÃ³jczego i... bardzo Å›piÄ…cego.}
+{155}{}{Widzisz jednego z ludzi Salvatore. WyglÄ…da na silnego, zabÃ³jczego i... bardzo znudzonego.}
+{160}{}{::KÅ‚ania siÄ™ z szacunkiem::}
+{161}{}{Trzeba mieÄ‡ nie lada odwagÄ™, Å¼eby tak stawiÄ‡ czoÅ‚a Enklawie.}
 {162}{}{Tommy Twardziel to przy tobie pestka.}
-{163}{}{Plotka g³osi, ¿e to tobie zawdziêczamy zniszczenie Enklawy. To zaszczyt ciê poznaæ.}
-{164}{}{Mo¿e zagrasz ponownie inn¹ postaci¹, co?}
-{170}{}{Czemu siê tak skradasz?}
-{171}{}{Co to za podchody? Ktoœ ciê szuka?}
-{172}{}{Starasz siê nie rzucaæ w oczy?}
-{173}{}{Czemu siê tak skradasz? Ktoœ ciê goni?}
-{180}{}{Hej, przecie¿ to }
-{181}{}{Zgubi³eœ siê, koleœ? Lepiej szybko st¹d spadaj.}
-{182}{}{Ten goœæ a¿ prosi siê o k³opoty...}
-{183}{}{Wynoœ siê st¹d. I to ju¿.}
-{184}{}{Wynoœ siê st¹d natychmiast, no chyba, ¿e szukasz k³opotów.}
-{185}{}{Hej, przecie¿ to }
-{186}{}{Zgubi³aœ siê, dziewczynko? Lepiej szybko st¹d spadaj.}
-{187}{}{Ta panna a¿ siê prosi o k³opoty...}
-{195}{}{Nie mo¿esz tu wejœæ z broni¹.}
-{196}{}{Od³ó¿ tê broñ.}
-{200}{}{Przykro mi panienko, ale nie mo¿esz siê tu wa³êsaæ z broni¹.}
-{201}{}{Przyro mi panienko, ale musisz od³o¿yæ broñ.}
-{205}{}{Hej, ty! £owco! Natychmiast schowaj tê broñ.}
-{206}{}{Nie tolerujemy tu uzbrojonych ludzi, £owco.}
-{207}{}{Od³ó¿ tê broñ, £owco.}
-{208}{}{Schowaj tê broñ, £owco.}
-{210}{}{Hej, ty! £owco! Przestañ siê tu skradaæ!}
-{215}{}{Hej, ty! Natychmiast schowaj tê broñ.}
-{216}{}{Nie wpuszczamy tu ludzi z broni¹.}
-{217}{}{Natychmiast od³ó¿ tê broñ.}
-{218}{}{Natychmiast schowaj tê broñ.}
-{220}{}{Hej, ty! Przestañ siê tak skradaæ!}
-{225}{}{Nie wpuszczamy tu robotów. Zabieraj go st¹d natychmiast.}
-{226}{}{¯adnych robotów. Zabieraj go st¹d.}
-{230}{}{Nie wpuszczamy tu mutantów. Zabieraj go st¹d natychmiast.}
-{231}{}{Nie chcemy tu mutantów. Wynoœcie siê st¹d, ale ju¿!}
-{235}{}{Jak sobie radzisz w toalecie z ca³ym tym ¿elastwem na sobie?}
+{163}{}{Plotka gÅ‚osi, Å¼e to tobie zawdziÄ™czamy zniszczenie Enklawy. To zaszczyt ciÄ™ poznaÄ‡.}
+{164}{}{MoÅ¼e zagrasz ponownie innÄ… postaciÄ…, co?}
+{170}{}{Czemu siÄ™ tak skradasz?}
+{171}{}{Co to za podchody? KtoÅ› ciÄ™ szuka?}
+{172}{}{Starasz siÄ™ nie rzucaÄ‡ w oczy?}
+{173}{}{Czemu siÄ™ tak skradasz? KtoÅ› ciÄ™ goni?}
+{180}{}{Hej, przecieÅ¼ to }
+{181}{}{ZgubiÅ‚eÅ› siÄ™, koleÅ›? Lepiej szybko stÄ…d spadaj.}
+{182}{}{Ten goÅ›Ä‡ aÅ¼ prosi siÄ™ o kÅ‚opoty...}
+{183}{}{WynoÅ› siÄ™ stÄ…d. I to juÅ¼.}
+{184}{}{WynoÅ› siÄ™ stÄ…d natychmiast, no chyba, Å¼e szukasz kÅ‚opotÃ³w.}
+{185}{}{Hej, przecieÅ¼ to }
+{186}{}{ZgubiÅ‚aÅ› siÄ™, dziewczynko? Lepiej szybko stÄ…d spadaj.}
+{187}{}{Ta panna aÅ¼ siÄ™ prosi o kÅ‚opoty...}
+{195}{}{Nie moÅ¼esz tu wejÅ›Ä‡ z broniÄ….}
+{196}{}{OdÅ‚Ã³Å¼ tÄ™ broÅ„.}
+{200}{}{Przykro mi panienko, ale nie moÅ¼esz siÄ™ tu waÅ‚Ä™saÄ‡ z broniÄ….}
+{201}{}{Przyro mi panienko, ale musisz odÅ‚oÅ¼yÄ‡ broÅ„.}
+{205}{}{Hej, ty! Åowco! Natychmiast schowaj tÄ™ broÅ„.}
+{206}{}{Nie tolerujemy tu uzbrojonych ludzi, Åowco.}
+{207}{}{OdÅ‚Ã³Å¼ tÄ™ broÅ„, Åowco.}
+{208}{}{Schowaj tÄ™ broÅ„, Åowco.}
+{210}{}{Hej, ty! Åowco! PrzestaÅ„ siÄ™ tu skradaÄ‡!}
+{215}{}{Hej, ty! Natychmiast schowaj tÄ™ broÅ„.}
+{216}{}{Nie wpuszczamy tu ludzi z broniÄ….}
+{217}{}{Natychmiast odÅ‚Ã³Å¼ tÄ™ broÅ„.}
+{218}{}{Natychmiast schowaj tÄ™ broÅ„.}
+{220}{}{Hej, ty! PrzestaÅ„ siÄ™ tak skradaÄ‡!}
+{225}{}{Nie wpuszczamy tu robotÃ³w. Zabieraj go stÄ…d natychmiast.}
+{226}{}{Å»adnych robotÃ³w. Zabieraj go stÄ…d.}
+{230}{}{Nie wpuszczamy tu mutantÃ³w. Zabieraj go stÄ…d natychmiast.}
+{231}{}{Nie chcemy tu mutantÃ³w. WynoÅ›cie siÄ™ stÄ…d, ale juÅ¼!}
+{235}{}{Jak sobie radzisz w toalecie z caÅ‚ym tym Å¼elastwem na sobie?}
 {240}{}{Sir.}
 {241}{}{Witam, sir.}
 {242}{}{Nic nowego, sir.}
-{243}{}{Potrzebuje pan czegoœ, sir?}
-{244}{}{Jeœli ktoœ pana wkurzy, sir, proszê daæ nam znaæ.}
-{245}{}{Niech pan uwa¿a na Tommy'ego Twardziela. Ma du¿¹ fujarê i ma³y rozumek.}
-{246}{}{Pan Salvatore choruje odk¹d tu pracujê. Jest bardzo stary.}
-{247}{}{Dziêki tym nowym pistoletom wyrobiliœmy sobie œwietn¹ pozycjê w Nowym reno.}
-{248}{}{Te nowe pistolety wygl¹daj¹ trochê dziwnie, ale s¹ bardzo ³atwe w u¿yciu.}
-{249}{}{Zastrzeli³em tym nowym pistoletem jednego z pajaców Bishopa. Wypali³o wielk¹ dziurê I w goœciu I w œcianie, o któr¹ siê opiera³.}
-{250}{}{¯aden z ch³opców nie ma pojêcia sk¹d wziê³y siê te nowe pistoletu. O niektóre rzeczy lepiej nie pytaæ.}
-{251}{}{Od czasu Masakry pozosta³e rodziny omijaj¹ nas z daleka.}
-{252}{}{Odk¹d zdobyliœmy te nowe pistolety, pozosta³e rodziny trzymaj¹ siê z dala od nas. Wiedz¹, co im grozi.}
-{253}{}{Te nowe pistolety wystrzeliwuj¹ takie promienie. Wypalaj¹ dziury dos³ownie we wszystkim.}
-{254}{}{Rodzina Salvatore zawsze by³a dla mnie bardzo dobra. Nigdy nie narzeka³em.}
-{255}{}{Ci od Bishopa strasznie du¿o gadaj¹. Salvatore ma³o mówi¹, ale du¿o robi¹.}
-{256}{}{Na pó³nocnym froncie ci¹gle spokój.}
-{257}{}{Widzia³em dziœ paru goœci od Bishopa. Omijali mnie szerokim ³ukiem. Chyba wreszcie zm¹drzeli.}
-{258}{}{Strasznie dziœ cicho.}
+{243}{}{Potrzebuje pan czegoÅ›, sir?}
+{244}{}{JeÅ›li ktoÅ› pana wkurzy, sir, proszÄ™ daÄ‡ nam znaÄ‡.}
+{245}{}{Niech pan uwaÅ¼a na Tommy'ego Twardziela. Ma duÅ¼Ä… fujarÄ™ i maÅ‚y rozumek.}
+{246}{}{Pan Salvatore choruje odkÄ…d tu pracujÄ™. Jest bardzo stary.}
+{247}{}{DziÄ™ki tym nowym pistoletom wyrobiliÅ›my sobie Å›wietnÄ… pozycjÄ™ w Nowym reno.}
+{248}{}{Te nowe pistolety wyglÄ…dajÄ… trochÄ™ dziwnie, ale sÄ… bardzo Å‚atwe w uÅ¼yciu.}
+{249}{}{ZastrzeliÅ‚em tym nowym pistoletem jednego z pajacÃ³w Bishopa. WypaliÅ‚o wielkÄ… dziurÄ™ I w goÅ›ciu I w Å›cianie, o ktÃ³rÄ… siÄ™ opieraÅ‚.}
+{250}{}{Å»aden z chÅ‚opcÃ³w nie ma pojÄ™cia skÄ…d wziÄ™Å‚y siÄ™ te nowe pistoletu. O niektÃ³re rzeczy lepiej nie pytaÄ‡.}
+{251}{}{Od czasu Masakry pozostaÅ‚e rodziny omijajÄ… nas z daleka.}
+{252}{}{OdkÄ…d zdobyliÅ›my te nowe pistolety, pozostaÅ‚e rodziny trzymajÄ… siÄ™ z dala od nas. WiedzÄ…, co im grozi.}
+{253}{}{Te nowe pistolety wystrzeliwujÄ… takie promienie. WypalajÄ… dziury dosÅ‚ownie we wszystkim.}
+{254}{}{Rodzina Salvatore zawsze byÅ‚a dla mnie bardzo dobra. Nigdy nie narzekaÅ‚em.}
+{255}{}{Ci od Bishopa strasznie duÅ¼o gadajÄ…. Salvatore maÅ‚o mÃ³wiÄ…, ale duÅ¼o robiÄ….}
+{256}{}{Na pÃ³Å‚nocnym froncie ciÄ…gle spokÃ³j.}
+{257}{}{WidziaÅ‚em dziÅ› paru goÅ›ci od Bishopa. Omijali mnie szerokim Å‚ukiem. Chyba wreszcie zmÄ…drzeli.}
+{258}{}{Strasznie dziÅ› cicho.}
 {259}{}{Psze pani.}
-{260}{}{Witam pani¹.}
+{260}{}{Witam paniÄ….}
 {261}{}{Nic nowego, psze pani.}
-{262}{}{Potrzebuje pani czegoœ?}
-{263}{}{Jeœli ktoœ pani¹ wkurzy, proszê daæ nam znaæ.}
-{275}{}{Spadaj st¹d, albo bêd¹ k³opoty.}
-{276}{}{Nie r¿nij g³upa. Uciekaj st¹d, póki mo¿esz.}
-{277}{}{Jak st¹d szybko nie pójdziesz, poleje siê krew.}
+{262}{}{Potrzebuje pani czegoÅ›?}
+{263}{}{JeÅ›li ktoÅ› paniÄ… wkurzy, proszÄ™ daÄ‡ nam znaÄ‡.}
+{275}{}{Spadaj stÄ…d, albo bÄ™dÄ… kÅ‚opoty.}
+{276}{}{Nie rÅ¼nij gÅ‚upa. Uciekaj stÄ…d, pÃ³ki moÅ¼esz.}
+{277}{}{Jak stÄ…d szybko nie pÃ³jdziesz, poleje siÄ™ krew.}
 {278}{}{Nie wiem, czego tu szukasz }
-{279}{}{Nie wiem, co ty sobie wyobra¿asz, }
-{280}{}{Lepiej bêdzie, jak szybko st¹d pójdziesz.}
-{285}{}{Kto ciê nauczy³ tak walczyæ?}
-{286}{}{Wiesz co? Rodzinie Salvatore przyda³by siê ktoœ taki jak ty.}
-{287}{}{Pogadaj z Masonem. Znajdzie dla ciebie jak¹œ robotê.}
-{288}{}{Jeœli znudzi ci siê bycie bokserem zajrzyj do nas - na pewno znajdzie siê dla ciebie robota.}
-{289}{}{Postawi³em na ciebie $20!}
-{290}{}{Hej, mistrzu! Ta ostatnia walka by³a œwietna!}
-{291}{}{Widzieliœmy twoj¹ ostatni¹ walkê. Masz cholernie mocny prawy sierpowy.}
+{279}{}{Nie wiem, co ty sobie wyobraÅ¼asz, }
+{280}{}{Lepiej bÄ™dzie, jak szybko stÄ…d pÃ³jdziesz.}
+{285}{}{Kto ciÄ™ nauczyÅ‚ tak walczyÄ‡?}
+{286}{}{Wiesz co? Rodzinie Salvatore przydaÅ‚by siÄ™ ktoÅ› taki jak ty.}
+{287}{}{Pogadaj z Masonem. Znajdzie dla ciebie jakÄ…Å› robotÄ™.}
+{288}{}{JeÅ›li znudzi ci siÄ™ bycie bokserem zajrzyj do nas - na pewno znajdzie siÄ™ dla ciebie robota.}
+{289}{}{PostawiÅ‚em na ciebie $20!}
+{290}{}{Hej, mistrzu! Ta ostatnia walka byÅ‚a Å›wietna!}
+{291}{}{WidzieliÅ›my twojÄ… ostatniÄ… walkÄ™. Masz cholernie mocny prawy sierpowy.}
 {292}{}{Ile wyciskasz?}
 {293}{}{Gdzie pakujesz?}
-{294}{}{Uwa¿aj na Masticatora. On ma s³aboœæ do uszu.}
-{295}{}{Postawi³bym ci drinka, ale przepuœci³em ca³¹ forsê stawiaj¹c na twojego przeciwnika.}
-{305}{}{Mogê coœ dla ciebie zrobiæ?}
-{306}{}{Nie jesteœ u siebie w studiu, kochasiu.}
-{307}{}{Zabieraj siê st¹d, kochasiu.}
-{310}{}{Bardzo mi przykro... naprawdê... ale nie mam teraz czasu na rozmowê. Mo¿e wpadniesz tu jak skoñczê pracê?}
+{294}{}{UwaÅ¼aj na Masticatora. On ma sÅ‚aboÅ›Ä‡ do uszu.}
+{295}{}{PostawiÅ‚bym ci drinka, ale przepuÅ›ciÅ‚em caÅ‚Ä… forsÄ™ stawiajÄ…c na twojego przeciwnika.}
+{305}{}{MogÄ™ coÅ› dla ciebie zrobiÄ‡?}
+{306}{}{Nie jesteÅ› u siebie w studiu, kochasiu.}
+{307}{}{Zabieraj siÄ™ stÄ…d, kochasiu.}
+{310}{}{Bardzo mi przykro... naprawdÄ™... ale nie mam teraz czasu na rozmowÄ™. MoÅ¼e wpadniesz tu jak skoÅ„czÄ™ pracÄ™?}
 {311}{}{Strasznie mi przykro, ale nie mam teraz czasu.}
-{312}{}{Hej, rozpraszasz mnie, s³onko.}
-{313}{}{Nie mogê ci pomóc.}
-{314}{}{Podobno Tommy Twardziel chcia³by ciê widzieæ w swoim prywatnym filmie.}
-{315}{}{Nie teraz, s³onko. Pracujê.}
-{316}{}{Chêtnie bym pogada³, ale szef mo¿e patrzeæ.}
-{325}{}{Natychmiast schowaj tê broñ, £owco.}
-{326}{}{Nie tolerujemy tu uzbrojonych ludzi, £owco.}
-{327}{}{Od³ó¿ tê broñ, £owco.}
-{330}{}{Przestañ siê tak skradaæ, £owco.}
-{331}{}{Jeœli nie przestaniesz siê skradaæ bêd¹ k³opoty.}
-{332}{}{Przez takie skradanie siê mo¿na ³atwo zgin¹æ.}
-{335}{}{Natychmiast schowaj tê broñ.}
-{336}{}{Nie wpuszczamy tu ludzi z broni¹.}
-{337}{}{Natychmiast od³ó¿ tê broñ.}
-{338}{}{Natychmiast schowaj tê broñ.}
-{340}{}{Przestañ siê tak skradaæ, albo bêd¹ k³opoty.}
-{345}{}{Jeœli chcesz sprzedaæ jakichœ niewolników pogadaj lepiej z Masonem.}
-{346}{}{Salvatore nie potrzebuj¹ ju¿ wiêcej niewolników.}
-{347}{}{Nie mam czasu na pogawêdki.}
-{348}{}{Nie mogê ci pomóc.}
-{349}{}{S³uchaj, nie mam czasu. Jak chcesz sobie pogadaæ, przejdŸ siê do Alei Dziewic i poszukaj towarzystwa.}
-{355}{}{Jeœli chcesz sprzedaæ jakichœ niewolników, pogadaj z szefem.}
-{356}{}{Szef chyba nie potrzebuje wiêcej niewolników, ale nie zaszkodzi, jak z nim porozmawiasz.}
+{312}{}{Hej, rozpraszasz mnie, sÅ‚onko.}
+{313}{}{Nie mogÄ™ ci pomÃ³c.}
+{314}{}{Podobno Tommy Twardziel chciaÅ‚by ciÄ™ widzieÄ‡ w swoim prywatnym filmie.}
+{315}{}{Nie teraz, sÅ‚onko. PracujÄ™.}
+{316}{}{ChÄ™tnie bym pogadaÅ‚, ale szef moÅ¼e patrzeÄ‡.}
+{325}{}{Natychmiast schowaj tÄ™ broÅ„, Åowco.}
+{326}{}{Nie tolerujemy tu uzbrojonych ludzi, Åowco.}
+{327}{}{OdÅ‚Ã³Å¼ tÄ™ broÅ„, Åowco.}
+{330}{}{PrzestaÅ„ siÄ™ tak skradaÄ‡, Åowco.}
+{331}{}{JeÅ›li nie przestaniesz siÄ™ skradaÄ‡ bÄ™dÄ… kÅ‚opoty.}
+{332}{}{Przez takie skradanie siÄ™ moÅ¼na Å‚atwo zginÄ…Ä‡.}
+{335}{}{Natychmiast schowaj tÄ™ broÅ„.}
+{336}{}{Nie wpuszczamy tu ludzi z broniÄ….}
+{337}{}{Natychmiast odÅ‚Ã³Å¼ tÄ™ broÅ„.}
+{338}{}{Natychmiast schowaj tÄ™ broÅ„.}
+{340}{}{PrzestaÅ„ siÄ™ tak skradaÄ‡, albo bÄ™dÄ… kÅ‚opoty.}
+{345}{}{JeÅ›li chcesz sprzedaÄ‡ jakichÅ› niewolnikÃ³w pogadaj lepiej z Masonem.}
+{346}{}{Salvatore nie potrzebujÄ… juÅ¼ wiÄ™cej niewolnikÃ³w.}
+{347}{}{Nie mam czasu na pogawÄ™dki.}
+{348}{}{Nie mogÄ™ ci pomÃ³c.}
+{349}{}{SÅ‚uchaj, nie mam czasu. Jak chcesz sobie pogadaÄ‡, przejdÅº siÄ™ do Alei Dziewic i poszukaj towarzystwa.}
+{355}{}{JeÅ›li chcesz sprzedaÄ‡ jakichÅ› niewolnikÃ³w, pogadaj z szefem.}
+{356}{}{Szef chyba nie potrzebuje wiÄ™cej niewolnikÃ³w, ale nie zaszkodzi, jak z nim porozmawiasz.}
 {360}{}{Szukasz pracy? Pogadaj z Masonem.}
-{361}{}{Jeœli szukasz pracy, musisz porozmawiaæ z Masonem.}
-{365}{}{S³uchaj, nie mam czasu. Jak chcesz sobie pogadaæ, przejdŸ siê do Alei Dziewic i poszukaj towarzystwa.}
-{366}{}{Nie mam czasu na pogawêdki.}
-{367}{}{Nie mogê ci pomóc.}
-{368}{}{Przykro mi, nie mogê ci pomóc.}
-{369}{}{Nie teraz, s³onko. Pracujê.}
-{370}{}{Chêtnie bym pogada³, ale szef mo¿e patrzeæ.}
-{371}{}{S³uchaj, nie mam czasu na gadanie o pierdo³ach.}
-{380}{}{Lepiej, ¿eby ten ghul szybko siê st¹d wyniós³.}
-{381}{}{Jeœli ten ghul natychmiast st¹d nie zniknie, bêdzie po nim.}
-{382}{}{Ten ghul a¿ prosi siê o k³opoty. Zabieraj go st¹d.}
-{1180}{}{. Jeœli zaraz st¹d nie zniknie, bêdzie po nim...}
-{1185}{}{. Jeœli zaraz st¹d nie zniknie, bêdzie po niej...}
+{361}{}{JeÅ›li szukasz pracy, musisz porozmawiaÄ‡ z Masonem.}
+{365}{}{SÅ‚uchaj, nie mam czasu. Jak chcesz sobie pogadaÄ‡, przejdÅº siÄ™ do Alei Dziewic i poszukaj towarzystwa.}
+{366}{}{Nie mam czasu na pogawÄ™dki.}
+{367}{}{Nie mogÄ™ ci pomÃ³c.}
+{368}{}{Przykro mi, nie mogÄ™ ci pomÃ³c.}
+{369}{}{Nie teraz, sÅ‚onko. PracujÄ™.}
+{370}{}{ChÄ™tnie bym pogadaÅ‚, ale szef moÅ¼e patrzeÄ‡.}
+{371}{}{SÅ‚uchaj, nie mam czasu na gadanie o pierdoÅ‚ach.}
+{380}{}{Lepiej, Å¼eby ten ghul szybko siÄ™ stÄ…d wyniÃ³sÅ‚.}
+{381}{}{JeÅ›li ten ghul natychmiast stÄ…d nie zniknie, bÄ™dzie po nim.}
+{382}{}{Ten ghul aÅ¼ prosi siÄ™ o kÅ‚opoty. Zabieraj go stÄ…d.}
+{1180}{}{. JeÅ›li zaraz stÄ…d nie zniknie, bÄ™dzie po nim...}
+{1185}{}{. JeÅ›li zaraz stÄ…d nie zniknie, bÄ™dzie po niej...}
 {1278}{}{, ale tutaj tego nie znajdziesz.}
-{1279}{}{, ale lepiej st¹d spadaj.}
+{1279}{}{, ale lepiej stÄ…d spadaj.}

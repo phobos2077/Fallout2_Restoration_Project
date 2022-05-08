@@ -1,49 +1,49 @@
-{100}{}{Widzisz mutanta w zakurzonym ubraniu, trzymaj¹cego kilof.}
-{101}{}{Widzisz mutanta górnika.}
-{102}{}{Widzisz mutanta w zakurzonym ubraniu, trzymaj¹cego kilof. Z odcisków na rêkach i zmêczonej twarzy wnioskujesz, ¿e ten mutant musi byæ górnikiem. Wygl¹da na zmêczonego i nieco sko³owanego.}
+{100}{}{Widzisz mutanta w zakurzonym ubraniu, trzymajÄ…cego kilof.}
+{101}{}{Widzisz mutanta gÃ³rnika.}
+{102}{}{Widzisz mutanta w zakurzonym ubraniu, trzymajÄ…cego kilof. Z odciskÃ³w na rÄ™kach i zmÄ™czonej twarzy wnioskujesz, Å¼e ten mutant musi byÄ‡ gÃ³rnikiem. WyglÄ…da na zmÄ™czonego i nieco skoÅ‚owanego.}
 {103}{}{Czego?}
 {104}{}{Ag-ag! Ooo!}
 {105}{}{Ork! Ooky!}
 {106}{}{Dalo?}
 {107}{}{Dalo!}
-{108}{}{Jest tu coœ do roboty?}
-{109}{}{Kim jesteœ?}
-{110}{}{O, kurcze. Idiota. Dotknê³a ciê radiacja, co? Nie rozumiem ciê. Nie mogê ci pomóc.}
-{111}{}{Powiedzia³em, ¿e nie mogê ci pomóc! IdŸ naprzykrzaæ siê komuœ innemu!}
-{112}{}{Co mo¿na robiæ? Có¿, kopalnia jest zamkniêta, bo nie mamy dzia³aj¹cego oczyszczacza powietrza. Jest saloon. S¹ goœcie od karawan, no i sklep wielobran¿owy. To chyba wszystko. Chwila... o czym to mówiliœmy?}
-{113}{}{Z kim mam porozmawiaæ o kopalni?}
+{108}{}{Jest tu coÅ› do roboty?}
+{109}{}{Kim jesteÅ›?}
+{110}{}{O, kurcze. Idiota. DotknÄ™Å‚a ciÄ™ radiacja, co? Nie rozumiem ciÄ™. Nie mogÄ™ ci pomÃ³c.}
+{111}{}{PowiedziaÅ‚em, Å¼e nie mogÄ™ ci pomÃ³c! IdÅº naprzykrzaÄ‡ siÄ™ komuÅ› innemu!}
+{112}{}{Co moÅ¼na robiÄ‡? CÃ³Å¼, kopalnia jest zamkniÄ™ta, bo nie mamy dziaÅ‚ajÄ…cego oczyszczacza powietrza. Jest saloon. SÄ… goÅ›cie od karawan, no i sklep wielobranÅ¼owy. To chyba wszystko. Chwila... o czym to mÃ³wiliÅ›my?}
+{113}{}{Z kim mam porozmawiaÄ‡ o kopalni?}
 {114}{}{Gdzie jest saloon?}
-{115}{}{Gdzie s¹ te karawany?}
+{115}{}{Gdzie sÄ… te karawany?}
 {116}{}{Gdzie jest ten sklep?}
-{117}{}{Dziêki. Na razie.}
-{118}{}{Jednym z górników. Chcesz kogoœ wa¿nego?}
+{117}{}{DziÄ™ki. Na razie.}
+{118}{}{Jednym z gÃ³rnikÃ³w. Chcesz kogoÅ› waÅ¼nego?}
 {119}{}{Tak.}
 {120}{}{Nie.}
 {121}{}{Bywaj.}
-{122}{}{Szychami w mieœcie s¹ Marcus, który jest kimœ w rodzaju burmistrza i szeryfa, Zaius, sztygar, no i Chad, który prowadzi karawany. Barman Phil jest chyba przywódc¹ ghuli... je¿eli w ogóle mo¿na mówiæ o ich przywódcy. Jeszcze raz, jak twoja godnoœæ?}
-{123}{}{Gdzie mogê znaleŸæ Marcusa?}
-{124}{}{Gdzie mogê znaleŸæ Zaiusa?}
-{125}{}{Gdzie mogê znaleŸæ Camerona?}
-{126}{}{Gdzie mogê znaleŸæ Chada?}
-{127}{}{Gdzie mogê znaleŸæ Phila?}
-{128}{}{Dziêki. Na razie.}
-{129}{}{Je¿eli s¹dzisz, ¿e mo¿esz pomóc przy kopalni, to idŸ pogadaæ z Zaiusem. Zazwyczaj jest w budce sztygara na zewn¹trz kopalni. Jest w z³ym humorze z powodu zepsutego oczyszczacza powietrza. Jeszcze coœ?}
-{130}{}{Ghul Phil prowadzi saloon. Jest kimœ w rodzaju reprezentanta ghuli w mieœcie. Mo¿esz go znaleŸæ na po³udnie od banku. Jeszcze coœ?}
-{131}{}{Chad prowadzi karawany ze swojego miejsca w po³udniowo-zachodniej czêœci miasta. Coœ jeszcze?}
-{132}{}{Liz, porz¹dna kobieta, prowadzi sklep wielobran¿owy tu¿ obok banku. Jeszcze coœ?}
-{133}{}{A wiêc dobrze. Na razie.}
-{134}{}{Cameron jest przywódc¹ tutejszych normalnych ludzi. Mutantów i ghuli niezbyt lubi, ale dobrze nas traktuje. Jest politykiem, wiêc zazwyczaj znajdziesz go w banku lub w saloonie. Czasami nawet mo¿esz go znaleŸæ pracuj¹cego u kowala. Jeszcze co? I w ogóle gdzie jestem? A tak... wiêc... coœ jeszcze?}
-{135}{}{Marcus jest naszym przywódc¹. Pomaga³ za³o¿yæ Broken Hills. Zazwyczaj mo¿esz go znaleŸæ w Banku lub
- w wiêzieniu. Jeszcze coœ?}
-{136}{}{Co za chciwoœæ! Czy wiesz, jak ciê¿ko pracujemy? Mam nadziejê, ¿e skiœniesz.}
-{137}{}{Dziêki za rudê!}
-{138}{}{Nie mogê uwierzyæ, ¿e kopalnia wylecia³a w powietrze. Teraz wszyscy umrzemy z g³odu. Ta kopalnia by³a jedyn¹ rzecz¹, która podtrzymywa³a to miasto. Có¿, przynajmniej mogê siê starzeæ ju¿ bez ¿adnej pracy...}
-{139}{}{Ty gnido! Giñ!}
-{140}{}{Dziêki za przywrócenie dla nas kopalni do u¿ywalnoœci. Naprawdê mamy u ciebie za to d³ug. Co mogê dla ciebie zrobiæ?}
-{141}{}{Kim jesteœ?}
-{142}{}{Co mo¿na tutaj robiæ?}
+{122}{}{Szychami w mieÅ›cie sÄ… Marcus, ktÃ³ry jest kimÅ› w rodzaju burmistrza i szeryfa, Zaius, sztygar, no i Chad, ktÃ³ry prowadzi karawany. Barman Phil jest chyba przywÃ³dcÄ… ghuli... jeÅ¼eli w ogÃ³le moÅ¼na mÃ³wiÄ‡ o ich przywÃ³dcy. Jeszcze raz, jak twoja godnoÅ›Ä‡?}
+{123}{}{Gdzie mogÄ™ znaleÅºÄ‡ Marcusa?}
+{124}{}{Gdzie mogÄ™ znaleÅºÄ‡ Zaiusa?}
+{125}{}{Gdzie mogÄ™ znaleÅºÄ‡ Camerona?}
+{126}{}{Gdzie mogÄ™ znaleÅºÄ‡ Chada?}
+{127}{}{Gdzie mogÄ™ znaleÅºÄ‡ Phila?}
+{128}{}{DziÄ™ki. Na razie.}
+{129}{}{JeÅ¼eli sÄ…dzisz, Å¼e moÅ¼esz pomÃ³c przy kopalni, to idÅº pogadaÄ‡ z Zaiusem. Zazwyczaj jest w budce sztygara na zewnÄ…trz kopalni. Jest w zÅ‚ym humorze z powodu zepsutego oczyszczacza powietrza. Jeszcze coÅ›?}
+{130}{}{Ghul Phil prowadzi saloon. Jest kimÅ› w rodzaju reprezentanta ghuli w mieÅ›cie. MoÅ¼esz go znaleÅºÄ‡ na poÅ‚udnie od banku. Jeszcze coÅ›?}
+{131}{}{Chad prowadzi karawany ze swojego miejsca w poÅ‚udniowo-zachodniej czÄ™Å›ci miasta. CoÅ› jeszcze?}
+{132}{}{Liz, porzÄ…dna kobieta, prowadzi sklep wielobranÅ¼owy tuÅ¼ obok banku. Jeszcze coÅ›?}
+{133}{}{A wiÄ™c dobrze. Na razie.}
+{134}{}{Cameron jest przywÃ³dcÄ… tutejszych normalnych ludzi. MutantÃ³w i ghuli niezbyt lubi, ale dobrze nas traktuje. Jest politykiem, wiÄ™c zazwyczaj znajdziesz go w banku lub w saloonie. Czasami nawet moÅ¼esz go znaleÅºÄ‡ pracujÄ…cego u kowala. Jeszcze co? I w ogÃ³le gdzie jestem? A tak... wiÄ™c... coÅ› jeszcze?}
+{135}{}{Marcus jest naszym przywÃ³dcÄ…. PomagaÅ‚ zaÅ‚oÅ¼yÄ‡ Broken Hills. Zazwyczaj moÅ¼esz go znaleÅºÄ‡ w Banku lub
+ w wiÄ™zieniu. Jeszcze coÅ›?}
+{136}{}{Co za chciwoÅ›Ä‡! Czy wiesz, jak ciÄ™Å¼ko pracujemy? Mam nadziejÄ™, Å¼e skiÅ›niesz.}
+{137}{}{DziÄ™ki za rudÄ™!}
+{138}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e kopalnia wyleciaÅ‚a w powietrze. Teraz wszyscy umrzemy z gÅ‚odu. Ta kopalnia byÅ‚a jedynÄ… rzeczÄ…, ktÃ³ra podtrzymywaÅ‚a to miasto. CÃ³Å¼, przynajmniej mogÄ™ siÄ™ starzeÄ‡ juÅ¼ bez Å¼adnej pracy...}
+{139}{}{Ty gnido! GiÅ„!}
+{140}{}{DziÄ™ki za przywrÃ³cenie dla nas kopalni do uÅ¼ywalnoÅ›ci. NaprawdÄ™ mamy u ciebie za to dÅ‚ug. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{141}{}{Kim jesteÅ›?}
+{142}{}{Co moÅ¼na tutaj robiÄ‡?}
 {143}{}{Nic nic.}
-{144}{}{Mamy u ciebie d³ug za uratowanie nas przed tymi draniami z RNK. Dziêkujê, przyjacielu. Co mogê dla ciebie zrobiæ?}
-{145}{}{Kim jesteœ?}
-{146}{}{Co mo¿na tutaj robiæ?}
+{144}{}{Mamy u ciebie dÅ‚ug za uratowanie nas przed tymi draniami z RNK. DziÄ™kujÄ™, przyjacielu. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{145}{}{Kim jesteÅ›?}
+{146}{}{Co moÅ¼na tutaj robiÄ‡?}
 {147}{}{Nic nic.}

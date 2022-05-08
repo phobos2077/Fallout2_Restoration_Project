@@ -1,70 +1,70 @@
-{100}{}{Egy Polgárt látsz világoskék kezeslábasban, ami olyan, mint a Menedéklakó ruhája, csak nincs szám a hátán.}
-{101}{}{Menedékváros egy Polgárát látod.}
-{102}{}{Egy Polgárt látsz világoskék kezeslábasban, ami olyan, mint a Menedéklakó ruhája, csak nincs szám a hátán.}
+{100}{}{Egy PolgÃ¡rt lÃ¡tsz vilÃ¡goskÃ©k kezeslÃ¡basban, ami olyan, mint a MenedÃ©klakÃ³ ruhÃ¡ja, csak nincs szÃ¡m a hÃ¡tÃ¡n.}
+{101}{}{MenedÃ©kvÃ¡ros egy PolgÃ¡rÃ¡t lÃ¡tod.}
+{102}{}{Egy PolgÃ¡rt lÃ¡tsz vilÃ¡goskÃ©k kezeslÃ¡basban, ami olyan, mint a MenedÃ©klakÃ³ ruhÃ¡ja, csak nincs szÃ¡m a hÃ¡tÃ¡n.}
 {103}{}{::tapsol::}
-{104}{}{Itt a h?s! Nézzétek!}
-{105}{}{Atya ég! Itt a h?s, Menedékvárosban!}
-{106}{}{Jó napot, Kapitány.}
-{107}{}{Menedékváros mindenek felett, Kapitány.}
-{108}{}{Marad vacsorára, Kapitány?}
-{109}{}{Jó napot, Polgártárs!}
-{110}{}{Menedékváros mindenek felett, Polgártárs.}
-{111}{}{Maradsz vacsorára?}
-{112}{}{Egy mutáns! ?rség! ?rség!!!}
-{113}{}{Egy ghoul! ?rség! ?rség!!!}
-{114}{}{Kérlek, töröld meg a lábad, miel?tt belépsz a házba!}
-{115}{}{Te ki vagy? Meghívtunk volna?}
-{116}{}{Segíthetek?}
-{117}{}{Ti, Kívülállók annyira modortalanok vagytok.}
-{118}{}{Tipikus Kívülálló viselkedés. Betolakodtok ide.}
-{119}{}{Hallottam bátor tetteidr?l. Nagy szolgálatot tettél Menedékvárosnak és az egész világnak.}
-{120}{}{Az Enklávé elleni harcod nagy hatással volt még az Els? Polgárra is.}
-{121}{}{Azt hallottam, hogy egészen San... Fran... ciscóig jutottál. Igaz ez?}
-{122}{}{Tán Menedékvárosnak kellene üdvözölnie a Kívülállókat ?}
-{123}{}{Tényleg igaz? A régi világ kormánya még mindig háborúzik?}
-{124}{}{Fel kéne jegyezned az utazásaidat Menedékváros központi számítógépébe, hogy mások is olvashassanak róla.}
-{125}{}{Itt mindig szívesen látunk téged, h?s.}
-{126}{}{Fel kéne jegyezned az Enklávé elleni h?stetteidet egy szép, rendezett listába.}
-{127}{}{*Ásít*... hmmmm? Igen? Mi van?}
-{128}{}{Kicsit kés? van már a látogatáshoz.}
-{129}{}{A LEGTÖBB Polgárnak ilyenkor már aludnia kéne.}
-{130}{}{Aludni? Nem, már nem.}
-{131}{}{Kérlek... gyere vissza holnap,  akkor lesz egy teljes napom listakészítésre.}
-{132}{}{Jó napot, Kapitány.}
-{133}{}{Menedékváros mindenek felett, Kapitány.}
-{134}{}{Marad vacsorára, Kapitány? A szolgánk pompás gulyást készített.}
-{135}{}{Néhány fánkot, Kapitány?}
-{136}{}{Valami baj van, Kapitány?}
-{137}{}{Remélem egyetlen mocskos Kívülálló sem okoz gondot magának, Kapitány.}
-{138}{}{Vinne egy kis harapnivalót az ?rségnek, Kapitány?}
-{139}{}{Jó napot, Polgártárs!}
-{140}{}{Menedékváros mindenek felett, Polgártárs.}
-{141}{}{Polgárként kötelességem, hogy listákat készítsek és  karbantartsam ?ket.}
-{142}{}{Kérlek, maradj vacsorára, Polgártárs! A szolgánk  pompás gulyást készített.}
-{143}{}{A nap nagyobb részét egy hosszú lista betáplálásával és ellen?rzésével töltöttem. Imádok listákat készíteni.}
-{144}{}{A Lista Hivatalban dolgozom. A legtöbben ott dolgozunk. Mi itt Menedékvárosban imádunk listákat készíteni.}
-{145}{}{A mai nap nagy részét a Lista Hivatalban töltöttem. Kiváló, értékes, produktív munka volt.}
-{146}{}{Hallottam, hogy sokat utaztál a pusztaságban. Hogy élted túl a megpróbáltatásokat a piszkos Kívülállók között?}
-{147}{}{Óóóó...! Te vagy az új Polgár. Isten hozott Menedékvárosban!}
-{148}{}{Szükséged van egy helyre ahol megpihenhetsz amíg a városban vagy?}
-{149}{}{A Tanács tör?dik velünk.}
-{150}{}{Nagyon ügyelnünk kell, hogy gyönyör? városunkat tisztán tartsuk.}
-{151}{}{Minden család kap egy szobát a közös házban.}
-{152}{}{A város mindent megad nekünk, amire csak szükségünk van.}
-{153}{}{A szolgák? Csak alantas feladatokra használjuk ?ket.}
-{154}{}{Szereznem kell egy szolgát a raktár kitakarításához.}
-{155}{}{Egy szolgának még maradnia kell, nincs rendesen kigyomlálva a kert.}
-{156}{}{A tegnapi Tanácsülés nagyon produktív volt. Rengeteg listát készítettünk. Mi itt Menedékvárosban imádunk listákkal foglalkozni.}
+{104}{}{Itt a h?s! NÃ©zzÃ©tek!}
+{105}{}{Atya Ã©g! Itt a h?s, MenedÃ©kvÃ¡rosban!}
+{106}{}{JÃ³ napot, KapitÃ¡ny.}
+{107}{}{MenedÃ©kvÃ¡ros mindenek felett, KapitÃ¡ny.}
+{108}{}{Marad vacsorÃ¡ra, KapitÃ¡ny?}
+{109}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{110}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs.}
+{111}{}{Maradsz vacsorÃ¡ra?}
+{112}{}{Egy mutÃ¡ns! ?rsÃ©g! ?rsÃ©g!!!}
+{113}{}{Egy ghoul! ?rsÃ©g! ?rsÃ©g!!!}
+{114}{}{KÃ©rlek, tÃ¶rÃ¶ld meg a lÃ¡bad, miel?tt belÃ©psz a hÃ¡zba!}
+{115}{}{Te ki vagy? MeghÃ­vtunk volna?}
+{116}{}{SegÃ­thetek?}
+{117}{}{Ti, KÃ­vÃ¼lÃ¡llÃ³k annyira modortalanok vagytok.}
+{118}{}{Tipikus KÃ­vÃ¼lÃ¡llÃ³ viselkedÃ©s. Betolakodtok ide.}
+{119}{}{Hallottam bÃ¡tor tetteidr?l. Nagy szolgÃ¡latot tettÃ©l MenedÃ©kvÃ¡rosnak Ã©s az egÃ©sz vilÃ¡gnak.}
+{120}{}{Az EnklÃ¡vÃ© elleni harcod nagy hatÃ¡ssal volt mÃ©g az Els? PolgÃ¡rra is.}
+{121}{}{Azt hallottam, hogy egÃ©szen San... Fran... ciscÃ³ig jutottÃ¡l. Igaz ez?}
+{122}{}{TÃ¡n MenedÃ©kvÃ¡rosnak kellene Ã¼dvÃ¶zÃ¶lnie a KÃ­vÃ¼lÃ¡llÃ³kat ?}
+{123}{}{TÃ©nyleg igaz? A rÃ©gi vilÃ¡g kormÃ¡nya mÃ©g mindig hÃ¡borÃºzik?}
+{124}{}{Fel kÃ©ne jegyezned az utazÃ¡saidat MenedÃ©kvÃ¡ros kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©pÃ©be, hogy mÃ¡sok is olvashassanak rÃ³la.}
+{125}{}{Itt mindig szÃ­vesen lÃ¡tunk tÃ©ged, h?s.}
+{126}{}{Fel kÃ©ne jegyezned az EnklÃ¡vÃ© elleni h?stetteidet egy szÃ©p, rendezett listÃ¡ba.}
+{127}{}{*ÃsÃ­t*... hmmmm? Igen? Mi van?}
+{128}{}{Kicsit kÃ©s? van mÃ¡r a lÃ¡togatÃ¡shoz.}
+{129}{}{A LEGTÃ–BB PolgÃ¡rnak ilyenkor mÃ¡r aludnia kÃ©ne.}
+{130}{}{Aludni? Nem, mÃ¡r nem.}
+{131}{}{KÃ©rlek... gyere vissza holnap,  akkor lesz egy teljes napom listakÃ©szÃ­tÃ©sre.}
+{132}{}{JÃ³ napot, KapitÃ¡ny.}
+{133}{}{MenedÃ©kvÃ¡ros mindenek felett, KapitÃ¡ny.}
+{134}{}{Marad vacsorÃ¡ra, KapitÃ¡ny? A szolgÃ¡nk pompÃ¡s gulyÃ¡st kÃ©szÃ­tett.}
+{135}{}{NÃ©hÃ¡ny fÃ¡nkot, KapitÃ¡ny?}
+{136}{}{Valami baj van, KapitÃ¡ny?}
+{137}{}{RemÃ©lem egyetlen mocskos KÃ­vÃ¼lÃ¡llÃ³ sem okoz gondot magÃ¡nak, KapitÃ¡ny.}
+{138}{}{Vinne egy kis harapnivalÃ³t az ?rsÃ©gnek, KapitÃ¡ny?}
+{139}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{140}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs.}
+{141}{}{PolgÃ¡rkÃ©nt kÃ¶telessÃ©gem, hogy listÃ¡kat kÃ©szÃ­tsek Ã©s  karbantartsam ?ket.}
+{142}{}{KÃ©rlek, maradj vacsorÃ¡ra, PolgÃ¡rtÃ¡rs! A szolgÃ¡nk  pompÃ¡s gulyÃ¡st kÃ©szÃ­tett.}
+{143}{}{A nap nagyobb rÃ©szÃ©t egy hosszÃº lista betÃ¡plÃ¡lÃ¡sÃ¡val Ã©s ellen?rzÃ©sÃ©vel tÃ¶ltÃ¶ttem. ImÃ¡dok listÃ¡kat kÃ©szÃ­teni.}
+{144}{}{A Lista Hivatalban dolgozom. A legtÃ¶bben ott dolgozunk. Mi itt MenedÃ©kvÃ¡rosban imÃ¡dunk listÃ¡kat kÃ©szÃ­teni.}
+{145}{}{A mai nap nagy rÃ©szÃ©t a Lista Hivatalban tÃ¶ltÃ¶ttem. KivÃ¡lÃ³, Ã©rtÃ©kes, produktÃ­v munka volt.}
+{146}{}{Hallottam, hogy sokat utaztÃ¡l a pusztasÃ¡gban. Hogy Ã©lted tÃºl a megprÃ³bÃ¡ltatÃ¡sokat a piszkos KÃ­vÃ¼lÃ¡llÃ³k kÃ¶zÃ¶tt?}
+{147}{}{Ã“Ã³Ã³Ã³...! Te vagy az Ãºj PolgÃ¡r. Isten hozott MenedÃ©kvÃ¡rosban!}
+{148}{}{SzÃ¼ksÃ©ged van egy helyre ahol megpihenhetsz amÃ­g a vÃ¡rosban vagy?}
+{149}{}{A TanÃ¡cs tÃ¶r?dik velÃ¼nk.}
+{150}{}{Nagyon Ã¼gyelnÃ¼nk kell, hogy gyÃ¶nyÃ¶r? vÃ¡rosunkat tisztÃ¡n tartsuk.}
+{151}{}{Minden csalÃ¡d kap egy szobÃ¡t a kÃ¶zÃ¶s hÃ¡zban.}
+{152}{}{A vÃ¡ros mindent megad nekÃ¼nk, amire csak szÃ¼ksÃ©gÃ¼nk van.}
+{153}{}{A szolgÃ¡k? Csak alantas feladatokra hasznÃ¡ljuk ?ket.}
+{154}{}{Szereznem kell egy szolgÃ¡t a raktÃ¡r kitakarÃ­tÃ¡sÃ¡hoz.}
+{155}{}{Egy szolgÃ¡nak mÃ©g maradnia kell, nincs rendesen kigyomlÃ¡lva a kert.}
+{156}{}{A tegnapi TanÃ¡csÃ¼lÃ©s nagyon produktÃ­v volt. Rengeteg listÃ¡t kÃ©szÃ­tettÃ¼nk. Mi itt MenedÃ©kvÃ¡rosban imÃ¡dunk listÃ¡kkal foglalkozni.}
 {157}{}{Igen?}
-{158}{}{Elnézést, segíthetek?}
-{159}{}{Úgy helyénvaló, ha megkérdezed a házigazdát, miel?tt a házába lépsz.}
-{160}{}{Kérlek, töröld meg a lábad, miel?tt belépsz a házba!}
-{161}{}{Te ki vagy? Meghívtunk volna?}
-{162}{}{Segíthetek?}
-{163}{}{Ti, Kívülállók annyira modortalanok vagytok.}
-{164}{}{A város mindent megad nekünk, amire csak szükségünk van.}
-{165}{}{A szolgák? Csak alantas feladatokra használjuk ?ket.}
-{166}{}{Szereznem kell egy szolgát a raktár kitakarításához.}
-{167}{}{Egy szolgának még maradnia kell, nincs rendesen kigyomlálva a kert.}
-{168}{}{Igen, érzem... izé ... látom, hogy te Kívülálló vagy.}
-{169}{}{Te Kívülálló vagy? Milyen érdekes.}
+{158}{}{ElnÃ©zÃ©st, segÃ­thetek?}
+{159}{}{Ãšgy helyÃ©nvalÃ³, ha megkÃ©rdezed a hÃ¡zigazdÃ¡t, miel?tt a hÃ¡zÃ¡ba lÃ©psz.}
+{160}{}{KÃ©rlek, tÃ¶rÃ¶ld meg a lÃ¡bad, miel?tt belÃ©psz a hÃ¡zba!}
+{161}{}{Te ki vagy? MeghÃ­vtunk volna?}
+{162}{}{SegÃ­thetek?}
+{163}{}{Ti, KÃ­vÃ¼lÃ¡llÃ³k annyira modortalanok vagytok.}
+{164}{}{A vÃ¡ros mindent megad nekÃ¼nk, amire csak szÃ¼ksÃ©gÃ¼nk van.}
+{165}{}{A szolgÃ¡k? Csak alantas feladatokra hasznÃ¡ljuk ?ket.}
+{166}{}{Szereznem kell egy szolgÃ¡t a raktÃ¡r kitakarÃ­tÃ¡sÃ¡hoz.}
+{167}{}{Egy szolgÃ¡nak mÃ©g maradnia kell, nincs rendesen kigyomlÃ¡lva a kert.}
+{168}{}{Igen, Ã©rzem... izÃ© ... lÃ¡tom, hogy te KÃ­vÃ¼lÃ¡llÃ³ vagy.}
+{169}{}{Te KÃ­vÃ¼lÃ¡llÃ³ vagy? Milyen Ã©rdekes.}

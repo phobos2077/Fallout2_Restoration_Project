@@ -1,16 +1,16 @@
-{100}{}{Você vê um guarda.}
-{101}{}{Você vê um guarda do Becky's Casino Bar.}
-{150}{}{Ele parece estar olhando a multidão para ladrões.}
+{100}{}{VocÃª vÃª um guarda.}
+{101}{}{VocÃª vÃª um guarda do Becky's Casino Bar.}
+{150}{}{Ele parece estar olhando a multidÃ£o para ladrÃµes.}
 {151}{}{Ela parece estar atenta a todos na sala.}
-{200}{}{Agora você vai buscar.}
-{201}{}{Você não está fugindo desta vez.}
-{210}{}{Desculpe, Becky não quer incomodar os clientes.}
-{211}{}{Espero que você esteja se divertindo.}
-{212}{}{Tenha certeza, temos uma política de tolerância zero para o roubo.}
-{213}{}{Você está segura dentro destas paredes.}
+{200}{}{Agora vocÃª vai buscar.}
+{201}{}{VocÃª nÃ£o estÃ¡ fugindo desta vez.}
+{210}{}{Desculpe, Becky nÃ£o quer incomodar os clientes.}
+{211}{}{Espero que vocÃª esteja se divertindo.}
+{212}{}{Tenha certeza, temos uma polÃ­tica de tolerÃ¢ncia zero para o roubo.}
+{213}{}{VocÃª estÃ¡ segura dentro destas paredes.}
 {214}{}{Rebecca tem as melhores bebidas.}
-{215}{}{Rebecca é a melhor chefe que já tive.}
-{216}{}{Você está com sorte hoje? Blackjack é o meu jogo.}
-{217}{}{Becky está logo ali, se precisar de alguma coisa.}
-{218}{}{As mesas de Rebecca são honestas, então tente sua sorte.}
-{230}{}{Nós não toleramos isso aqui.}
+{215}{}{Rebecca Ã© a melhor chefe que jÃ¡ tive.}
+{216}{}{VocÃª estÃ¡ com sorte hoje? Blackjack Ã© o meu jogo.}
+{217}{}{Becky estÃ¡ logo ali, se precisar de alguma coisa.}
+{218}{}{As mesas de Rebecca sÃ£o honestas, entÃ£o tente sua sorte.}
+{230}{}{NÃ³s nÃ£o toleramos isso aqui.}

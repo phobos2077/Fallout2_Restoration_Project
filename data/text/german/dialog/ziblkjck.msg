@@ -7,7 +7,7 @@
 {106}{}{Was Blecktschek?}
 {107}{}{Tut mir leid, anscheinend hast du nicht mal den Mindesteinsatz. Komm wieder, wenn du mehr
  Geld hast.}
-{108}{}{OK, alle Mindesteinsätze wurden abgegeben.}
+{108}{}{OK, alle MindesteinsÃ¤tze wurden abgegeben.}
 {109}{}{[Spiel]}
 {110}{}{Das ist ein Blackjack-Tisch. Mindesteinsatz $}
 {111}{}{.}
@@ -15,7 +15,7 @@
 {113}{}{, }
 {114}{}{; }
 {115}{}{ und }
-{116}{}{ für }
+{116}{}{ fÃ¼r }
 {117}{}{. Blackjack}
 {118}{}{. Pleite}
 {119}{}{.}
@@ -29,7 +29,7 @@
 {126}{}{Das Spiel ist unentschieden.}
 {127}{}{Klar, kein Problem.}
 {128}{}{Ich zeig dir mein Limit.}
-{129}{}{Du darfst hier nicht länger spielen. Bitte geh.}
+{129}{}{Du darfst hier nicht lÃ¤nger spielen. Bitte geh.}
 {130}{}{Ohhh, tut mir leid.}
 {131}{}{Du gewinnst $}
 {132}{}{.}
@@ -37,7 +37,7 @@
 {202}{}{zwei}
 {203}{}{drei}
 {204}{}{vier}
-{205}{}{fünf}
+{205}{}{fÃ¼nf}
 {206}{}{sechs}
 {207}{}{sieben}
 {208}{}{acht}
@@ -45,7 +45,7 @@
 {210}{}{zehn}
 {211}{}{Bube}
 {212}{}{Dame}
-{213}{}{König}
+{213}{}{KÃ¶nig}
 {251}{}{Herz}
 {252}{}{Karo}
 {253}{}{Pik}

@@ -1,16 +1,16 @@
-{100}{}{Du siehst jemanden in Militäruniform.}
-{101}{}{Du siehst jemanden in Militäruniform.}
-{102}{}{Du siehst jemanden in Militäruniform, doch das ist eher ein Techniker als ein Soldat.}
+{100}{}{Du siehst jemanden in MilitÃ¤runiform.}
+{101}{}{Du siehst jemanden in MilitÃ¤runiform.}
+{102}{}{Du siehst jemanden in MilitÃ¤runiform, doch das ist eher ein Techniker als ein Soldat.}
 {103}{}{Hey, wie geht's so?}
 {104}{}{'Roger, ich hab dich auf dem Schirm' - tut mir leid, aber ich bin mitten bei der Arbeit.}
 {105}{}{Ich kann gerade nicht sprechen.}
 {106}{}{Sieh dich ruhig um, aber fass nichts an.}
-{107}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Lass dich ausrüsten!}
+{107}{}{Bist du verrÃ¼ckt, hier ohne Uniform herumzulaufen? Lass dich ausrÃ¼sten!}
 {108}{}{Wenn der Sergeant dich ohne Uniform erwischt, kannst du deinen Kopf unterm Arm tragen.}
-{109}{}{Warum trägst du keine Uniform? }
-{110}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}
+{109}{}{Warum trÃ¤gst du keine Uniform? }
+{110}{}{Heiliger Strohsack! Wir werden Ã¼berfallen! Alarm!}
 {111}{}{Eindringlinge! Ruft die Wache!}
-{112}{}{Wache! Eindringlinge bei der Luftverkehrsüberwachung!}
+{112}{}{Wache! Eindringlinge bei der LuftverkehrsÃ¼berwachung!}
 {113}{}{Was ist los? Werden wir angegriffen?}
 {114}{}{Warum der Alarm? Was ist los?}
 {115}{}{Was ist denn hier los?}

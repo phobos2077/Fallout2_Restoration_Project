@@ -1,10 +1,10 @@
-{100}{}{Você vê um terminal de computador.}
-{101}{}{Você vê o terminal de computador de Darion.}
-{102}{}{Você vê um terminal de computador padrão. Parece estar funcional e pronto para entrada.}
-{103}{}{Você acessar o computador e verificar rapidamente todos os arquivos disponíveis. Entre algumas diário pessoal
-entradas, você pode encontrar vários relatórios detalhados sobre o NCR. Parece que há um espião em seu conselho.
-Copiar os relatórios para um holodisk.}
-{104}{}{Você está tendo dificuldade para acessar os arquivos.}
+{100}{}{VocÃª vÃª um terminal de computador.}
+{101}{}{VocÃª vÃª o terminal de computador de Darion.}
+{102}{}{VocÃª vÃª um terminal de computador padrÃ£o. Parece estar funcional e pronto para entrada.}
+{103}{}{VocÃª acessar o computador e verificar rapidamente todos os arquivos disponÃ­veis. Entre algumas diÃ¡rio pessoal
+entradas, vocÃª pode encontrar vÃ¡rios relatÃ³rios detalhados sobre o NCR. Parece que hÃ¡ um espiÃ£o em seu conselho.
+Copiar os relatÃ³rios para um holodisk.}
+{104}{}{VocÃª estÃ¡ tendo dificuldade para acessar os arquivos.}
 {105}{}{Feito.}
-{106}{}{além da informação sobre o espião NCR, o computador não contém informações úteis.}
+{106}{}{alÃ©m da informaÃ§Ã£o sobre o espiÃ£o NCR, o computador nÃ£o contÃ©m informaÃ§Ãµes Ãºteis.}
 {107}{}{Feito.}

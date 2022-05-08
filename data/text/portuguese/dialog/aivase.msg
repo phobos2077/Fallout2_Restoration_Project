@@ -1,2 +1,2 @@
-{100}{}{Você vê um vaso simples.}
-{101}{}{Você vê um vaso de argila ao sol.}
+{100}{}{VocÃª vÃª um vaso simples.}
+{101}{}{VocÃª vÃª um vaso de argila ao sol.}

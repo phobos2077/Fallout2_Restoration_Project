@@ -1,9 +1,9 @@
-{100}{}{Egy pálinkaf?z?t látsz.}
-{101}{}{Csakis a legjobb min?ség? alkoholt áruljuk. Érdekli?}
-{102}{}{Aha, lássuk, milye van!}
+{100}{}{Egy pÃ¡linkaf?z?t lÃ¡tsz.}
+{101}{}{Csakis a legjobb min?sÃ©g? alkoholt Ã¡ruljuk. Ã‰rdekli?}
+{102}{}{Aha, lÃ¡ssuk, milye van!}
 {103}{}{Nem.}
 {104}{}{Ah...}
 {105}{}{Akkor kopjon le! Dolgunk van.}
 {106}{}{Ellen?riztem, hogy az alkohol elegye pont megfelel?.}
 {107}{}{Baka. BAka BAKA!}
-{108}{}{Köszönöm, öröm önnel üzletet kötni.}
+{108}{}{KÃ¶szÃ¶nÃ¶m, Ã¶rÃ¶m Ã¶nnel Ã¼zletet kÃ¶tni.}

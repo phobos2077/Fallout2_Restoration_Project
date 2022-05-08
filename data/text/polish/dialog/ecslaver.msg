@@ -1,11 +1,11 @@
-{100}{}{Za tych powinniœmy dostaæ uczciw¹ cenê.}
-{101}{}{Staraj siê nie uszkodziæ towaru.}
-{102}{}{Bêdzie z ciebie œwietny niewolnik.}
+{100}{}{Za tych powinniÅ›my dostaÄ‡ uczciwÄ… cenÄ™.}
+{101}{}{Staraj siÄ™ nie uszkodziÄ‡ towaru.}
+{102}{}{BÄ™dzie z ciebie Å›wietny niewolnik.}
 {103}{}{Nie dobrze.}
-{104}{}{Odwrót!}
-{105}{}{Mo¿e przerzucê siê na handel meblami.}
-{106}{}{£owcy niewolników nie walcz¹ miêdzy sob¹.}
-{107}{}{Gildia siê o wszystkim dowie!}
+{104}{}{OdwrÃ³t!}
+{105}{}{MoÅ¼e przerzucÄ™ siÄ™ na handel meblami.}
+{106}{}{Åowcy niewolnikÃ³w nie walczÄ… miÄ™dzy sobÄ….}
+{107}{}{Gildia siÄ™ o wszystkim dowie!}
 {108}{}{Co tu robisz?}
 {109}{}{Jak leci?}
 {110}{}{Jak tam polowanie?}

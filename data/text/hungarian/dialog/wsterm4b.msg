@@ -1,48 +1,48 @@
-{100}{}{Sz·mÌtÛgÈp-termin·l.}
+{100}{}{Sz√°m√≠t√≥g√©p-termin√°l.}
 {101}{}{It controls the Vault-Tec organ extraction unit.}
-{102}{}{KÈptelen vagy elolvasni, mi van a kÈperny?re Ìrva.}
-{103}{}{‹dvˆzli ÷nt a MenedÈk-Tek Ultramodern Szervelt·volÌtÛ BerendezÈse. Az oper·ciÛhoz kÈrem, tegye be a donort a m?t?be, fordÌtsa el a t·rcs·t a megfelel? faj nevÈre, Ès v·lassza ki, milyen szervet szeretne elt·volÌtani!}
-{104}{}{Kiv·lasztod a Fajt}
-{105}{}{Kiv·lasztod a Szervet}
-{106}{}{KilÈpÈs.}
+{102}{}{K√©ptelen vagy elolvasni, mi van a k√©perny?re √≠rva.}
+{103}{}{√údv√∂zli √ñnt a Mened√©k-Tek Ultramodern Szervelt√°vol√≠t√≥ Berendez√©se. Az oper√°ci√≥hoz k√©rem, tegye be a donort a m?t?be, ford√≠tsa el a t√°rcs√°t a megfelel? faj nev√©re, √©s v√°lassza ki, milyen szervet szeretne elt√°vol√≠tani!}
+{104}{}{Kiv√°lasztod a Fajt}
+{105}{}{Kiv√°lasztod a Szervet}
+{106}{}{Kil√©p√©s.}
 {107}{}{Agrr!}
-{108}{}{[A t·rcs·n a kˆvetkez? fajok szerepelnek:]
+{108}{}{[A t√°rcs√°n a k√∂vetkez? fajok szerepelnek:]
                          Kutya
                                                                    Macska
-                                                                  Mad·r
-                                                                   R·gcs·lÛ
-                                                                Ember [B·r ez az utÛbbi csak bele van karcolva a konzolba...]}
+                                                                  Mad√°r
+                                                                   R√°gcs√°l√≥
+                                                                Ember [B√°r ez az ut√≥bbi csak bele van karcolva a konzolba...]}
 {109}{}{}
 {110}{}{}
 {111}{}{}
 {112}{}{}
 {113}{}{}
-{114}{}{Kiv·lasztod a Kuty·t}
-{115}{}{Kiv·lasztod a Macsk·t}
-{116}{}{Kiv·lasztod a Madarat}
-{117}{}{Kiv·lasztod a R·gcs·lÛt}
-{118}{}{Kiv·lasztod az Embert}
+{114}{}{Kiv√°lasztod a Kuty√°t}
+{115}{}{Kiv√°lasztod a Macsk√°t}
+{116}{}{Kiv√°lasztod a Madarat}
+{117}{}{Kiv√°lasztod a R√°gcs√°l√≥t}
+{118}{}{Kiv√°lasztod az Embert}
 {119}{}{[Scratch a new name onto console.]}
-{120}{}{KilÈpÈs.}
-{121}{}{[Felveszel egy darab fÈmet Ès elt?n?dsz, hogy mit is kellene belevÈsni a konzolba.]}
+{120}{}{Kil√©p√©s.}
+{121}{}{[Felveszel egy darab f√©met √©s elt?n?dsz, hogy mit is kellene belev√©sni a konzolba.]}
 {122}{}{Carve the word 'Mutant' onto console.}
 {123}{}{Carve the word 'Deathclaw' onto console.}
-{124}{}{KilÈpÈs.}
+{124}{}{Kil√©p√©s.}
 {125}{}{Current Selection: }
 {126}{}{Faj: }
 {127}{}{Szerv: }
-{128}{}{Kiv·lasztod a Fajt}
-{129}{}{Kiv·lasztod a Szervet}
-{130}{}{Az elt·volÌt·s megkezdÈse.}
-{131}{}{KilÈpÈs.}
-{132}{}{[A t·rcs·n l·thatÛ szervek list·ja:]
-                                   SzÌv
+{128}{}{Kiv√°lasztod a Fajt}
+{129}{}{Kiv√°lasztod a Szervet}
+{130}{}{Az elt√°vol√≠t√°s megkezd√©se.}
+{131}{}{Kil√©p√©s.}
+{132}{}{[A t√°rcs√°n l√°that√≥ szervek list√°ja:]
+                                   Sz√≠v
                                                                      Agy
                                                                       Vese
-                                                                    M·j
-                                                                      T¸d?
-                                                                     VakbÈl
-                                                                  VastagbÈl [Csak bele van karcolva]}
+                                                                    M√°j
+                                                                      T√ºd?
+                                                                     Vakb√©l
+                                                                  Vastagb√©l [Csak bele van karcolva]}
 {133}{}{}
 {134}{}{}
 {135}{}{}
@@ -50,21 +50,21 @@
 {137}{}{}
 {138}{}{}
 {139}{}{}
-{140}{}{A SzÌvet v·lasztod}
-{141}{}{Az Agyat v·lasztod}
-{142}{}{A VesÈt v·lasztod}
-{143}{}{A M·jat v·lasztod}
-{144}{}{A T¸d?t v·lasztod}
-{145}{}{A Vakbelet v·lasztod}
-{146}{}{A Vastagbelet v·lasztod}
-{147}{}{KilÈpÈs.}
+{140}{}{A Sz√≠vet v√°lasztod}
+{141}{}{Az Agyat v√°lasztod}
+{142}{}{A Ves√©t v√°lasztod}
+{143}{}{A M√°jat v√°lasztod}
+{144}{}{A T√ºd?t v√°lasztod}
+{145}{}{A Vakbelet v√°lasztod}
+{146}{}{A Vastagbelet v√°lasztod}
+{147}{}{Kil√©p√©s.}
 {148}{}{A donor nincs jelen a m?t?ben.}
 {149}{}{Extraction failed.}
 {150}{}{Extraction completed.}
 {151}{}{Extraction completed.
                                            Thank you for using Vault-Tec. Please see our catalog for our complete line of Vault-Tec products.}
 {152}{}{}
-{153}{}{KilÈpÈs.}
+{153}{}{Kil√©p√©s.}
 {154}{}{Extraction failed-- local sensor overload.}
 {155}{}{Extraction failed-- unable to initialize procedure for subject physiology.}
 {170}{}{Human }
@@ -81,4 +81,4 @@
 {184}{}{Lung }
 {185}{}{Appendix }
 {186}{}{Colon }
-{200}{}{ kÈptelen elolvasni, mi van a kÈperny?re Ìrva.}
+{200}{}{ k√©ptelen elolvasni, mi van a k√©perny?re √≠rva.}

@@ -1,7 +1,7 @@
-{100}{}{Widzisz szafkê na ksi¹¿ki u¿ywan¹ do przechowywania ró¿nych rzeczy.}
-{101}{}{Przed tob¹ stoi stara szafka na ksi¹¿ki. Wygl¹da na wystarczaj¹co wytrzyma³¹, aby na jej pó³kach przechowywaæ przedmioty.}
-{195}{}{Ta szafka na ksi¹¿ki nie ma chyba zamontowanych pu³apek.}
-{200}{}{ s¹dzi, ¿e w tej szafce nie ma pu³apek.}
-{206}{}{Ej, nie rób tam tego!}
+{100}{}{Widzisz szafkÄ™ na ksiÄ…Å¼ki uÅ¼ywanÄ… do przechowywania rÃ³Å¼nych rzeczy.}
+{101}{}{Przed tobÄ… stoi stara szafka na ksiÄ…Å¼ki. WyglÄ…da na wystarczajÄ…co wytrzymaÅ‚Ä…, aby na jej pÃ³Å‚kach przechowywaÄ‡ przedmioty.}
+{195}{}{Ta szafka na ksiÄ…Å¼ki nie ma chyba zamontowanych puÅ‚apek.}
+{200}{}{ sÄ…dzi, Å¼e w tej szafce nie ma puÅ‚apek.}
+{206}{}{Ej, nie rÃ³b tam tego!}
 {207}{}{Zostaw te cholerne szafki, zanim wyegzekwuje pewne dotkliwe sankcje na twojej dupie!}
-{208}{}{Nie rób tego.}
+{208}{}{Nie rÃ³b tego.}

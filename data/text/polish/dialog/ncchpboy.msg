@@ -1,75 +1,75 @@
 {150}{}{Widzisz pobrudzonego smarem mechanika.}
-{151}{}{Widzisz jednego z Ch³opaków ze Z³odziejskiej Dziupli.}
-{152}{}{Widzisz mechanika o chytrym wygl¹dzie. Spod tego ca³ego smaru i oleju z trudnoœci¹ dostrzegasz rysy jego twarzy.}
-{200}{}{O kurde. *Glup* Zobaczcie, co tu wesz³o.}
-{201}{}{Proszê, proszê, czy¿ to nie pan Jebany Dzbanek Od Kawy?}
-{202}{}{Jest tam ktoœ w œrodku?}
-{203}{}{Chcesz czegoœ? Piwa? Wody? Ciacho?}
-{204}{}{Mam nadziejê, ¿e wszystko w porz¹dku u pana... albo pani. Czymkolwiek tam jesteœ.}
-{205}{}{Co z³ego, to T-Ray. Radzi³bym zajrzeæ do niego.}
-{206}{}{Czy to jakiœ nowy samochód?}
-{207}{}{Nie chcemy ¿adnych k³opotów.}
+{151}{}{Widzisz jednego z ChÅ‚opakÃ³w ze ZÅ‚odziejskiej Dziupli.}
+{152}{}{Widzisz mechanika o chytrym wyglÄ…dzie. Spod tego caÅ‚ego smaru i oleju z trudnoÅ›ciÄ… dostrzegasz rysy jego twarzy.}
+{200}{}{O kurde. *Glup* Zobaczcie, co tu weszÅ‚o.}
+{201}{}{ProszÄ™, proszÄ™, czyÅ¼ to nie pan Jebany Dzbanek Od Kawy?}
+{202}{}{Jest tam ktoÅ› w Å›rodku?}
+{203}{}{Chcesz czegoÅ›? Piwa? Wody? Ciacho?}
+{204}{}{Mam nadziejÄ™, Å¼e wszystko w porzÄ…dku u pana... albo pani. Czymkolwiek tam jesteÅ›.}
+{205}{}{Co zÅ‚ego, to T-Ray. RadziÅ‚bym zajrzeÄ‡ do niego.}
+{206}{}{Czy to jakiÅ› nowy samochÃ³d?}
+{207}{}{Nie chcemy Å¼adnych kÅ‚opotÃ³w.}
 {208}{}{Pewnie szukasz T-Raya. Jest na zapleczu.}
-{220}{}{No no no, wiiiitaj, m³oda damo. Cholernie niez³e dajesz przedstawienia.}
-{221}{}{Och. Nie mamy tu wielu goœci. W czym mo¿emy pomóc komuœ takiemu jak panna }
-{222}{}{Jak ci siê uda³o zrobiæ ten numer z nogami nad g³ow¹?}
-{223}{}{Czy to prawdziwe cycki? Mogê sprawdziæ?}
-{224}{}{Czy nie by³by to zbyt du¿y k³opot, gdybyœ zajrza³a mi pod maskê?}
-{225}{}{Ach, do diab³a, wygl¹dam jak kupa œmieci, a ty tu przychodzisz. Niech siê panienka nie przejmuje tym smarem.}
-{226}{}{Szukasz talentów? T-Ray jest na zapleczu, wiêc nie zawracaj sobie g³owy zagl¹daniem tam.}
-{227}{}{Wiedzia³em, ¿e powinienem siê dzisiaj umyæ...}
-{228}{}{Sprawdziæ ci poziom oleju? H³e h³e.}
-{229}{}{Chcesz zobaczyæ moj¹ ma³¹ smarownicê?}
-{230}{}{::Gwi¿d¿e::}
-{231}{}{Kurde. Same zakrêty, a ja nie mam hamulców.}
-{232}{}{No no no, wiiiitaj, m³oda damo.}
-{233}{}{Och. Nie mamy tu wielu goœci. W czym mo¿emy pomóc takiej pannie jak ty?}
-{234}{}{Masz ochotê na odrobinê namiêtnej mi³oœci? T-Ray jest na zapleczu, wiêc nie zawracaj sobie g³owy zagl¹daniem tam.}
-{245}{}{Widzieliœmy twoj¹ ostatni¹ walkê. Masz cholernie mocny prawy sierpowy.}
-{246}{}{Bêdziesz jeszcze walczyæ? Stawiam na ciebie 30 dolców.}
-{247}{}{Jak na kogoœ, kto zdoby³ pas mistrzowski, nie wygl¹dasz zbyt groŸnie.}
+{220}{}{No no no, wiiiitaj, mÅ‚oda damo. Cholernie niezÅ‚e dajesz przedstawienia.}
+{221}{}{Och. Nie mamy tu wielu goÅ›ci. W czym moÅ¼emy pomÃ³c komuÅ› takiemu jak panna }
+{222}{}{Jak ci siÄ™ udaÅ‚o zrobiÄ‡ ten numer z nogami nad gÅ‚owÄ…?}
+{223}{}{Czy to prawdziwe cycki? MogÄ™ sprawdziÄ‡?}
+{224}{}{Czy nie byÅ‚by to zbyt duÅ¼y kÅ‚opot, gdybyÅ› zajrzaÅ‚a mi pod maskÄ™?}
+{225}{}{Ach, do diabÅ‚a, wyglÄ…dam jak kupa Å›mieci, a ty tu przychodzisz. Niech siÄ™ panienka nie przejmuje tym smarem.}
+{226}{}{Szukasz talentÃ³w? T-Ray jest na zapleczu, wiÄ™c nie zawracaj sobie gÅ‚owy zaglÄ…daniem tam.}
+{227}{}{WiedziaÅ‚em, Å¼e powinienem siÄ™ dzisiaj umyÄ‡...}
+{228}{}{SprawdziÄ‡ ci poziom oleju? HÅ‚e hÅ‚e.}
+{229}{}{Chcesz zobaczyÄ‡ mojÄ… maÅ‚Ä… smarownicÄ™?}
+{230}{}{::GwiÅ¼dÅ¼e::}
+{231}{}{Kurde. Same zakrÄ™ty, a ja nie mam hamulcÃ³w.}
+{232}{}{No no no, wiiiitaj, mÅ‚oda damo.}
+{233}{}{Och. Nie mamy tu wielu goÅ›ci. W czym moÅ¼emy pomÃ³c takiej pannie jak ty?}
+{234}{}{Masz ochotÄ™ na odrobinÄ™ namiÄ™tnej miÅ‚oÅ›ci? T-Ray jest na zapleczu, wiÄ™c nie zawracaj sobie gÅ‚owy zaglÄ…daniem tam.}
+{245}{}{WidzieliÅ›my twojÄ… ostatniÄ… walkÄ™. Masz cholernie mocny prawy sierpowy.}
+{246}{}{BÄ™dziesz jeszcze walczyÄ‡? Stawiam na ciebie 30 dolcÃ³w.}
+{247}{}{Jak na kogoÅ›, kto zdobyÅ‚ pas mistrzowski, nie wyglÄ…dasz zbyt groÅºnie.}
 {248}{}{Ile wyciskasz?}
 {249}{}{Gdzie pakujesz?}
-{250}{}{Uwa¿aj na Masticatora. On ma s³aboœæ do uszu.}
+{250}{}{UwaÅ¼aj na Masticatora. On ma sÅ‚aboÅ›Ä‡ do uszu.}
 {251}{}{Chcesz piwko? Zwykle zostawiamy je sobie do popicia w czasie pracy.}
-{252}{}{T-Ray mówi, ¿e ¿aden z ciebie miêœniak. Dam ci 5 dolców jeœli pójdziesz na zaplecze i walniesz mu pi¹chê.}
-{253}{}{T-Ray mówi, ¿e masz szklan¹ szczêkê. Jeœli chcesz z nim pogadaæ, to jest na zapleczu.}
-{254}{}{Ten ca³y Prze¿uwacz to cienias. Uch, ale nie mów mu, ¿e tak go nazwa³em.}
-{265}{}{Mam nadziejê, ¿e u pani wszystko w porz¹dku.}
-{266}{}{Nie chcieliœmy pani obraziæ.}
-{267}{}{O kurde. *Glup* Zobaczcie, co tu wesz³o.}
-{268}{}{Co mo¿emy dla ciebie zrobiæ, }
-{269}{}{Chcesz czegoœ? Piwa? Wody? Ciacho?}
-{270}{}{Co z³ego, to T-Ray. Radzi³bym zajrzeæ do niego.}
-{271}{}{Pozdrów od nas swojego szefa.}
+{252}{}{T-Ray mÃ³wi, Å¼e Å¼aden z ciebie miÄ™Å›niak. Dam ci 5 dolcÃ³w jeÅ›li pÃ³jdziesz na zaplecze i walniesz mu piÄ…chÄ™.}
+{253}{}{T-Ray mÃ³wi, Å¼e masz szklanÄ… szczÄ™kÄ™. JeÅ›li chcesz z nim pogadaÄ‡, to jest na zapleczu.}
+{254}{}{Ten caÅ‚y PrzeÅ¼uwacz to cienias. Uch, ale nie mÃ³w mu, Å¼e tak go nazwaÅ‚em.}
+{265}{}{Mam nadziejÄ™, Å¼e u pani wszystko w porzÄ…dku.}
+{266}{}{Nie chcieliÅ›my pani obraziÄ‡.}
+{267}{}{O kurde. *Glup* Zobaczcie, co tu weszÅ‚o.}
+{268}{}{Co moÅ¼emy dla ciebie zrobiÄ‡, }
+{269}{}{Chcesz czegoÅ›? Piwa? Wody? Ciacho?}
+{270}{}{Co zÅ‚ego, to T-Ray. RadziÅ‚bym zajrzeÄ‡ do niego.}
+{271}{}{PozdrÃ³w od nas swojego szefa.}
 {272}{}{Pewnie szukasz T-Raya. Jest na zapleczu.}
-{273}{}{Mam nadziejê, ¿e u pana wszystko w porz¹dku.}
-{274}{}{Nie chcieliœmy pana obraziæ.}
-{300}{}{Sorki za to nieporozumienie z Kr¹¿ownikiem szos.}
-{301}{}{Nie wiedzieliœmy, ¿e to by³ twój Kr¹¿ownik szos.}
-{302}{}{Tia, Kr¹¿ownik szos jest niez³y, ale wola³bym Omni.}
-{303}{}{Chcesz sprzedaæ Kr¹¿ownik szos?}
+{273}{}{Mam nadziejÄ™, Å¼e u pana wszystko w porzÄ…dku.}
+{274}{}{Nie chcieliÅ›my pana obraziÄ‡.}
+{300}{}{Sorki za to nieporozumienie z KrÄ…Å¼ownikiem szos.}
+{301}{}{Nie wiedzieliÅ›my, Å¼e to byÅ‚ twÃ³j KrÄ…Å¼ownik szos.}
+{302}{}{Tia, KrÄ…Å¼ownik szos jest niezÅ‚y, ale wolaÅ‚bym Omni.}
+{303}{}{Chcesz sprzedaÄ‡ KrÄ…Å¼ownik szos?}
 {304}{}{Przyj nasmarowana burzo, przyj.}
-{305}{}{Smar jest tym w³aœnie tym s³owem... dum dum dum dum...}
-{306}{}{Kr¹¿ownik szos to uroczy wózek. Chrystus dobrze wiedzia³, co robi.}
-{307}{}{T-Ray znowu "pracuje" na zapleczu. Cholerny leñ.}
-{308}{}{Rzygaæ mi siê chce od s³uchania wykrêtów T-Raya.}
-{309}{}{T-Ray znowu ogl¹da³ siê za moj¹ kobiet¹.}
-{310}{}{T-Ray spa³ z moj¹ siostr¹. I z moj¹ matk¹. I z moim psem.}
-{311}{}{T-Ray jest bardziej napalony ni¿ czterog³owa koza.}
+{305}{}{Smar jest tym wÅ‚aÅ›nie tym sÅ‚owem... dum dum dum dum...}
+{306}{}{KrÄ…Å¼ownik szos to uroczy wÃ³zek. Chrystus dobrze wiedziaÅ‚, co robi.}
+{307}{}{T-Ray znowu "pracuje" na zapleczu. Cholerny leÅ„.}
+{308}{}{RzygaÄ‡ mi siÄ™ chce od sÅ‚uchania wykrÄ™tÃ³w T-Raya.}
+{309}{}{T-Ray znowu oglÄ…daÅ‚ siÄ™ za mojÄ… kobietÄ….}
+{310}{}{T-Ray spaÅ‚ z mojÄ… siostrÄ…. I z mojÄ… matkÄ…. I z moim psem.}
+{311}{}{T-Ray jest bardziej napalony niÅ¼ czterogÅ‚owa koza.}
 {312}{}{T-Ray jest na zapleczu. Przy telefonie.}
-{313}{}{Silnik wci¹¿ w dobrym stanie.}
-{314}{}{Wnêtrze œmierdzi jakby siê ktoœ w nim zesra³.}
-{315}{}{Wnêtrze œmierdzi gekonami.}
-{316}{}{Niez³y wózek, ale wola³bym Omni.}
-{317}{}{Ten Kr¹¿ownik szos ma pe³ny system analogowy, 800+ koni mechanicznych, przyspiesza od 0 do 60 mil w mniej ni¿ sekundê.}
-{318}{}{Szybki? Kr¹¿ownik szos przyspiesza od 0 do 60 mil w mniej ni¿ sekundê.}
-{319}{}{Ten Kr¹¿ownik szos ma kopa: w sumie 800+.}
-{320}{}{Wolno ci tu byæ?}
-{321}{}{¯al mi tego idioty, który zostawi³ tam ten Kr¹¿ownik szos bez opieki.}
-{322}{}{Bez obawy. Kr¹¿ownik szos ma pe³ny system analogowy, ¿adnych komputerów. ¯adnego z tych udziwnieñ.}
-{330}{}{Zabierz ³apy, albo ci je utnê. Zrozumiano?}
-{331}{}{KURDE, odwal siê od tego samochodu.}
-{332}{}{Twoje ¿ycie nie jest warte wiêcej ni¿ ten samochód. Dotknij go jeszcze raz, a ci to udowodniê.}
+{313}{}{Silnik wciÄ…Å¼ w dobrym stanie.}
+{314}{}{WnÄ™trze Å›mierdzi jakby siÄ™ ktoÅ› w nim zesraÅ‚.}
+{315}{}{WnÄ™trze Å›mierdzi gekonami.}
+{316}{}{NiezÅ‚y wÃ³zek, ale wolaÅ‚bym Omni.}
+{317}{}{Ten KrÄ…Å¼ownik szos ma peÅ‚ny system analogowy, 800+ koni mechanicznych, przyspiesza od 0 do 60 mil w mniej niÅ¼ sekundÄ™.}
+{318}{}{Szybki? KrÄ…Å¼ownik szos przyspiesza od 0 do 60 mil w mniej niÅ¼ sekundÄ™.}
+{319}{}{Ten KrÄ…Å¼ownik szos ma kopa: w sumie 800+.}
+{320}{}{Wolno ci tu byÄ‡?}
+{321}{}{Å»al mi tego idioty, ktÃ³ry zostawiÅ‚ tam ten KrÄ…Å¼ownik szos bez opieki.}
+{322}{}{Bez obawy. KrÄ…Å¼ownik szos ma peÅ‚ny system analogowy, Å¼adnych komputerÃ³w. Å»adnego z tych udziwnieÅ„.}
+{330}{}{Zabierz Å‚apy, albo ci je utnÄ™. Zrozumiano?}
+{331}{}{KURDE, odwal siÄ™ od tego samochodu.}
+{332}{}{Twoje Å¼ycie nie jest warte wiÄ™cej niÅ¼ ten samochÃ³d. Dotknij go jeszcze raz, a ci to udowodniÄ™.}
 {5221}{}{?}
 {5268}{}{?}

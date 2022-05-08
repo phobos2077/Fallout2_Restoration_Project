@@ -10,7 +10,7 @@
 {205}{}{I heard what happened to Metzger. Great job!}
 {300}{}{It's a slaver, attack!}
 {301}{}{Shit, we are under attack!}
-{400}{}{Saudações, amigo.}
+{400}{}{SaudaÃ§Ãµes, amigo.}
 {401}{}{This is private property. Don't loiter too long.}
 {402}{}{You like slavers? I sure hope not... for your sake.}
 {500}{}{What the!? Slavers? How the hell did they find us? We must defend ourselves. Attack!}

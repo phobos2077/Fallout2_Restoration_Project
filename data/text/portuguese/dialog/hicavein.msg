@@ -1,2 +1,2 @@
-{100}{}{A mina foi destruÌda.}
-{101}{}{A explos„o do purificador de ar causou o colapso de toda a mina.}
+{100}{}{A mina foi destru√≠da.}
+{101}{}{A explos√£o do purificador de ar causou o colapso de toda a mina.}

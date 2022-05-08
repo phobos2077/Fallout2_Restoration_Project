@@ -1,8 +1,8 @@
-{100}{}{Egy földfoglalót látsz.}
-{101}{}{Bill, a földfoglalók egyike.}
-{102}{}{Egy középkorú, viseltes ruhát hordó férfit látsz.}
-{103}{}{Sajnálom, idegen, nincs id?m veled csevegni.}
-{104}{}{Hé, mondtam, hogy nincs id?m csevegni. Kérlek, menj el!}
-{105}{}{Köszönöm, hogy segítettél Rebeccának. Igazán kedves volt t?led.}
-{106}{}{Hagyj békén! Nem jelentek veszélyt számodra.}
-{107}{}{Oké, oké ... megyek már, megyek.}
+{100}{}{Egy fÃ¶ldfoglalÃ³t lÃ¡tsz.}
+{101}{}{Bill, a fÃ¶ldfoglalÃ³k egyike.}
+{102}{}{Egy kÃ¶zÃ©pkorÃº, viseltes ruhÃ¡t hordÃ³ fÃ©rfit lÃ¡tsz.}
+{103}{}{SajnÃ¡lom, idegen, nincs id?m veled csevegni.}
+{104}{}{HÃ©, mondtam, hogy nincs id?m csevegni. KÃ©rlek, menj el!}
+{105}{}{KÃ¶szÃ¶nÃ¶m, hogy segÃ­tettÃ©l RebeccÃ¡nak. IgazÃ¡n kedves volt t?led.}
+{106}{}{Hagyj bÃ©kÃ©n! Nem jelentek veszÃ©lyt szÃ¡modra.}
+{107}{}{OkÃ©, okÃ© ... megyek mÃ¡r, megyek.}

@@ -1,4 +1,4 @@
-{100}{}{Widzisz stra¿niczkê.}
-{101}{}{Widzisz wygl¹daj¹cego na twardziela stra¿nika karawany.}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{101}{}{Widzisz wyglÄ…dajÄ…cego na twardziela straÅ¼nika karawany.}
 {200}{}{Rozmawiaj z szefem.}
-{201}{}{Ja tu tylko pilnujê. Rozmawiaj z tym, który tu rozkazuje.}
+{201}{}{Ja tu tylko pilnujÄ™. Rozmawiaj z tym, ktÃ³ry tu rozkazuje.}

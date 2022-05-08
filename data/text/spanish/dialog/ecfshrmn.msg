@@ -1,24 +1,24 @@
 {100}{}{Ves a un pescador.}
 {101}{}{Llegas justo a tiempo para ser testigo de las bendiciones de la Diosa del Mar.}
-{102}{}{[M¡S]}
+{102}{}{[M√ÅS]}
 {103}{}{}
 {104}{}{Justo antes de una gran tormenta arrojamos nuestras lanzas al mar para mostrar nuestro valor contra los elementos. Si hemos probado ser dignos, la Diosa nos recompensa con fruta.}
-{105}{}{Cuando la temporada de las tormentas comienza, lanzamos flores de broquia al mar con la marea. DespuÈs de que la Diosa use su magia, nos devuelve las flores de broquia convertidas en raÌces de xandria.}
-{106}{}{Cada aÒo rendimos tributo a la Diosa del Mar ofreciÈndole raÌces de xandria. Si la Diosa nos considera dignos, transforma esas raÌces de xandria en flores de broquia.}
-{107}{}{Tras una gran cosecha, rendimos tributo a la Diosa del Mar para que ella nos vigile y proteja. Cada aÒo recompensa nuestra piedad entreg·ndonos lanzas junto con la marea como seÒal de su protecciÛn.}
-{108}{}{øPuedo ver quÈ es lo que te ha otorgado la Diosa?}
+{105}{}{Cuando la temporada de las tormentas comienza, lanzamos flores de broquia al mar con la marea. Despu√©s de que la Diosa use su magia, nos devuelve las flores de broquia convertidas en ra√≠ces de xandria.}
+{106}{}{Cada a√±o rendimos tributo a la Diosa del Mar ofreci√©ndole ra√≠ces de xandria. Si la Diosa nos considera dignos, transforma esas ra√≠ces de xandria en flores de broquia.}
+{107}{}{Tras una gran cosecha, rendimos tributo a la Diosa del Mar para que ella nos vigile y proteja. Cada a√±o recompensa nuestra piedad entreg√°ndonos lanzas junto con la marea como se√±al de su protecci√≥n.}
+{108}{}{¬øPuedo ver qu√© es lo que te ha otorgado la Diosa?}
 {109}{}{Ug}
-{110}{}{Esto es lo que la gran Diosa nos ha otorgado este aÒo. Compartiremos encantados sus bendiciones contigo, por un precio.}
-{111}{}{Chatarra [10 dÛlares]}
-{112}{}{Pistola L·ser [10000 dÛlares]}
-{113}{}{Lanza afilada [40 dÛlares]}
-{114}{}{Fruta [5 dÛlares]}
-{115}{}{Xandria [20 dÛlares]}
-{116}{}{Broquia [10 dÛlares]}
-{117}{}{AdiÛs.}
-{118}{}{[SeÒala en la direcciÛn del mar]. Camina hacia allÌ. La Diosa desea conocerte en persona.}
+{110}{}{Esto es lo que la gran Diosa nos ha otorgado este a√±o. Compartiremos encantados sus bendiciones contigo, por un precio.}
+{111}{}{Chatarra [10 d√≥lares]}
+{112}{}{Pistola L√°ser [10000 d√≥lares]}
+{113}{}{Lanza afilada [40 d√≥lares]}
+{114}{}{Fruta [5 d√≥lares]}
+{115}{}{Xandria [20 d√≥lares]}
+{116}{}{Broquia [10 d√≥lares]}
+{117}{}{Adi√≥s.}
+{118}{}{[Se√±ala en la direcci√≥n del mar]. Camina hacia all√≠. La Diosa desea conocerte en persona.}
 {119}{}{[Fin]}
-{120}{}{Que las bendiciones de la Diosa estÈn contigo.}
+{120}{}{Que las bendiciones de la Diosa est√©n contigo.}
 {121}{}{[Fin]}
-{122}{}{[Frunce el ceÒo cuando no puedes darle la suma requerida]. Quiz·s la prÛxima vez.}
+{122}{}{[Frunce el ce√±o cuando no puedes darle la suma requerida]. Quiz√°s la pr√≥xima vez.}
 {123}{}{[Fin]}

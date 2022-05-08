@@ -1,63 +1,63 @@
-{100}{}{Ez az alacsony ember könyvet tart a kezében.}
-{101}{}{Joseph, a gyógyfüvész.}
-{102}{}{Ez az alacsony ember egy könyvet tart a kezében, melynek címe: "Gyógyfüvek és Orvosi Felhasználásuk."}
-{103}{}{Üdv, Joseph vagyok, a gyógyfüvész. Miben segíthetek?}
-{104}{}{Van bibi. Te gyógyít?}
-{105}{}{Itt viszket. Te gyógyít?}
-{106}{}{Én fáj, te gyógyít?}
-{107}{}{Van kérdés. Oké?}
-{108}{}{Bocs, én megy.}
-{109}{}{Megsérültem. Meg tudnál gyógyítani?}
-{110}{}{Beteg vagyok. Meg tudnál gyógyítani?}
-{111}{}{Súlyosan megsérültem. Tudsz segíteni?}
-{112}{}{Fel szeretnék tenni néhány kérdést.}
-{113}{}{Csak beköszöntem.}
-{114}{}{Igen, természetesen. Hmmmm... Ebb?l be kell venned párat. Ezt a balzsamot pedig a sebre kenem. Most feküdj nyugodtan, és pihenj pár órát!}
-{115}{}{Én köszön. Szia.}
-{116}{}{Kösz, doki! Sokkal jobban vagyok.}
-{117}{}{Igen, természetesen. Hm... ez el fog tartani egy darabig, szóval itt kell maradnod éjszakára. Ebb?l vegyél be párat, ezt pedig idd meg, -mindet!-. Tudom, nem a legfinomabb. Most feküdj le, majd reggel fölkeltelek!}
-{118}{}{Én lenni jól. Szia.}
-{119}{}{Kösz. Ez bevált.}
-{120}{}{Sajnálom, de nem vagyok orvos, így m?teni sem tudok. Menj el egy nagyobb városba, és keress fel egy sebészt! Próbáld az Új Kaliforniai Köztársaságot. Keletre van innen.}
-{121}{}{Oké. Viszlát!}
-{122}{}{Rendben. Azért kösz.}
-{123}{}{Mit szeretnél tudni?}
+{100}{}{Ez az alacsony ember kÃ¶nyvet tart a kezÃ©ben.}
+{101}{}{Joseph, a gyÃ³gyfÃ¼vÃ©sz.}
+{102}{}{Ez az alacsony ember egy kÃ¶nyvet tart a kezÃ©ben, melynek cÃ­me: "GyÃ³gyfÃ¼vek Ã©s Orvosi FelhasznÃ¡lÃ¡suk."}
+{103}{}{Ãœdv, Joseph vagyok, a gyÃ³gyfÃ¼vÃ©sz. Miben segÃ­thetek?}
+{104}{}{Van bibi. Te gyÃ³gyÃ­t?}
+{105}{}{Itt viszket. Te gyÃ³gyÃ­t?}
+{106}{}{Ã‰n fÃ¡j, te gyÃ³gyÃ­t?}
+{107}{}{Van kÃ©rdÃ©s. OkÃ©?}
+{108}{}{Bocs, Ã©n megy.}
+{109}{}{MegsÃ©rÃ¼ltem. Meg tudnÃ¡l gyÃ³gyÃ­tani?}
+{110}{}{Beteg vagyok. Meg tudnÃ¡l gyÃ³gyÃ­tani?}
+{111}{}{SÃºlyosan megsÃ©rÃ¼ltem. Tudsz segÃ­teni?}
+{112}{}{Fel szeretnÃ©k tenni nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{113}{}{Csak bekÃ¶szÃ¶ntem.}
+{114}{}{Igen, termÃ©szetesen. Hmmmm... Ebb?l be kell venned pÃ¡rat. Ezt a balzsamot pedig a sebre kenem. Most fekÃ¼dj nyugodtan, Ã©s pihenj pÃ¡r Ã³rÃ¡t!}
+{115}{}{Ã‰n kÃ¶szÃ¶n. Szia.}
+{116}{}{KÃ¶sz, doki! Sokkal jobban vagyok.}
+{117}{}{Igen, termÃ©szetesen. Hm... ez el fog tartani egy darabig, szÃ³val itt kell maradnod Ã©jszakÃ¡ra. Ebb?l vegyÃ©l be pÃ¡rat, ezt pedig idd meg, -mindet!-. Tudom, nem a legfinomabb. Most fekÃ¼dj le, majd reggel fÃ¶lkeltelek!}
+{118}{}{Ã‰n lenni jÃ³l. Szia.}
+{119}{}{KÃ¶sz. Ez bevÃ¡lt.}
+{120}{}{SajnÃ¡lom, de nem vagyok orvos, Ã­gy m?teni sem tudok. Menj el egy nagyobb vÃ¡rosba, Ã©s keress fel egy sebÃ©szt! PrÃ³bÃ¡ld az Ãšj Kaliforniai KÃ¶ztÃ¡rsasÃ¡got. Keletre van innen.}
+{121}{}{OkÃ©. ViszlÃ¡t!}
+{122}{}{Rendben. AzÃ©rt kÃ¶sz.}
+{123}{}{Mit szeretnÃ©l tudni?}
 {124}{}{Te lenni rab?}
 {125}{}{Te menni innen, ha akar?}
-{126}{}{Mit tudsz a karmokról?}
-{127}{}{Milyen itt élni?}
-{128}{}{Én menni mostan.}
+{126}{}{Mit tudsz a karmokrÃ³l?}
+{127}{}{Milyen itt Ã©lni?}
+{128}{}{Ã‰n menni mostan.}
 {129}{}{Rab vagy?}
-{130}{}{Bármikor távozhatsz?}
-{131}{}{Mit tudnál mondani a halálkarmokról?}
-{132}{}{Hogy kerültél ide?}
-{133}{}{Kösz az infót. Most már megyek.}
-{134}{}{Nem, nem vagyok rab. Azért maradtam, mert szükség van rám. Már megszoktam, hogy pár betegem halálkarom.}
-{135}{}{Oké. Még kérdezni.}
-{136}{}{Kösz. Viszlát!}
+{130}{}{BÃ¡rmikor tÃ¡vozhatsz?}
+{131}{}{Mit tudnÃ¡l mondani a halÃ¡lkarmokrÃ³l?}
+{132}{}{Hogy kerÃ¼ltÃ©l ide?}
+{133}{}{KÃ¶sz az infÃ³t. Most mÃ¡r megyek.}
+{134}{}{Nem, nem vagyok rab. AzÃ©rt maradtam, mert szÃ¼ksÃ©g van rÃ¡m. MÃ¡r megszoktam, hogy pÃ¡r betegem halÃ¡lkarom.}
+{135}{}{OkÃ©. MÃ©g kÃ©rdezni.}
+{136}{}{KÃ¶sz. ViszlÃ¡t!}
 {137}{}{Ez nagyon rendes t?led.}
-{138}{}{Értem.}
-{139}{}{Nem értek egyet, de végül is a te életed.}
-{140}{}{Igen, és gyakran meg is teszem. Id?r?l-id?re ki kell mennem néhány gyógyfüvet szedni, és még sosem akadályoztak meg ebben. Id?nként elgondolkoztam, követnek-e a halálkarmok, és ha megpróbálnék elszökni, vajon megakadályoznák-e. Egy nap kipróbáltam a gyakorlatban.}
-{141}{}{Én érteni. Menni mostan.}
-{142}{}{Kell még kérdés.}
-{143}{}{Ez elég nagy butaság volt, szerencsés vagy, hogy még élsz.}
+{138}{}{Ã‰rtem.}
+{139}{}{Nem Ã©rtek egyet, de vÃ©gÃ¼l is a te Ã©leted.}
+{140}{}{Igen, Ã©s gyakran meg is teszem. Id?r?l-id?re ki kell mennem nÃ©hÃ¡ny gyÃ³gyfÃ¼vet szedni, Ã©s mÃ©g sosem akadÃ¡lyoztak meg ebben. Id?nkÃ©nt elgondolkoztam, kÃ¶vetnek-e a halÃ¡lkarmok, Ã©s ha megprÃ³bÃ¡lnÃ©k elszÃ¶kni, vajon megakadÃ¡lyoznÃ¡k-e. Egy nap kiprÃ³bÃ¡ltam a gyakorlatban.}
+{141}{}{Ã‰n Ã©rteni. Menni mostan.}
+{142}{}{Kell mÃ©g kÃ©rdÃ©s.}
+{143}{}{Ez elÃ©g nagy butasÃ¡g volt, szerencsÃ©s vagy, hogy mÃ©g Ã©lsz.}
 {144}{}{Rendben.}
-{145}{}{Jó ötlet. Örömmel látom, hogy bevált.}
-{146}{}{Hát, lássuk csak... a Halálkarmok mutáns Jackson féle Kaméleonok, legalábbis a tülkös változat. Még mindig sok hasonlóság van köztük, de a különbség nagyjából ugyanannyi. A mutációs faktor irdatlanul magas. Ez a faj nagyon intelligens, körülbelül egy nyolc éves gyerek szintjén állnak, de némelyikük egy feln?tt emberét is eléri. Gyorsan tanulnak, és képesek absztrakt gondolkodásra valamint érvelésre is.}
-{147}{}{Öö... ha te mondod.}
+{145}{}{JÃ³ Ã¶tlet. Ã–rÃ¶mmel lÃ¡tom, hogy bevÃ¡lt.}
+{146}{}{HÃ¡t, lÃ¡ssuk csak... a HalÃ¡lkarmok mutÃ¡ns Jackson fÃ©le KamÃ©leonok, legalÃ¡bbis a tÃ¼lkÃ¶s vÃ¡ltozat. MÃ©g mindig sok hasonlÃ³sÃ¡g van kÃ¶ztÃ¼k, de a kÃ¼lÃ¶nbsÃ©g nagyjÃ¡bÃ³l ugyanannyi. A mutÃ¡ciÃ³s faktor irdatlanul magas. Ez a faj nagyon intelligens, kÃ¶rÃ¼lbelÃ¼l egy nyolc Ã©ves gyerek szintjÃ©n Ã¡llnak, de nÃ©melyikÃ¼k egy feln?tt emberÃ©t is elÃ©ri. Gyorsan tanulnak, Ã©s kÃ©pesek absztrakt gondolkodÃ¡sra valamint Ã©rvelÃ©sre is.}
+{147}{}{Ã–Ã¶... ha te mondod.}
 {148}{}{Menni kell.}
 {149}{}{Aha.}
-{150}{}{H?, leny?göz a tudásod.}
-{151}{}{Ez nekem kínai.}
-{152}{}{Épp füveket gy?jtögettem, amikor hirtelen egy hang szólt hozzám a sötétb?l. "Figyeltelek téged - mondta - , és tudom, hogy gyógyító vagy. Eléggé elhivatottnak érzed magad, hogy egy számodra idegent meggyógyíts? Valakit, akit mások netán ellenségnek tartanának?"}
-{153}{}{Ööhh.}
-{154}{}{Kösz. Én menni most.}
-{155}{}{Milyen kár, hogy itt vagy, pedig másokat is gyógyíthatnál.}
-{156}{}{Te aztán igazán elhivatott ember vagy, aki megérdemli mások elismerését.}
-{157}{}{Érdekes.}
-{158}{}{Nem segítek a magadfajtának. Eredj innen!}
-{159}{}{Elutaztam egy másik városba, és miel?tt eljöttem volna, legalább egy hétig maradtam. Amikor visszatértem, tárt karokkal üdvözöltek. Gruthar, a falka vezet?je, személyesen köszönte meg a visszatérésemet. Teljesen a saját akaratomból vagyok itt.}
-{160}{}{A halálkarmoknak nincsenek hangszálaik, mégis képesek utánozni a beszédet, nagyjából egy papagáj módjára. A pontos m?ködést még meg kell vizsgálnom, így err?l nem szolgálhatok több információval. Társadalmi szempontból csoportosan él? állatok, nagyon, de nagyon szigorú viselkedésformákkal. A falka kölcsönös beleegyezésével egy ún. "alfa hím" vezeti ?ket. Elképeszt?en h?ek a falkához, inkább családként kezelik, minthogy emberi mintára különálló családjaik lennének.}
-{161}{}{A jó és rossz iránti érzékük nagyon fejlett. Szigorú erkölcsi kódex szerint élnek, amit az egész falka betart. Sosem oldják meg problémáikat er?szakkal, legalábbis én még nem láttam rá példát. Itt nem követnek el 'f?benjáró b?nöket', tehát nem tudom, hogy kezelik az ilyesmit. Hmmm... Ez minden, ami eszembe jutott. Remélem, a hasznodra válik.}
-{162}{}{Azt válaszoltam, hogy mindenféle életet tisztelek, és mindent megtennék, hogy meggyógyítsam a sérültet, függetlenül attól, kir?l vagy mir?l van szó. Azt hittem, hogy valami tolvaj vagy fosztogató, aki megsérült és orvosra van szüksége. Képzelheted, hogy meglep?dtem, amikor néhány halálkarom lépett el? a sötétb?l az egyik sérült társukkal. Valaki nagyon csúnyán megl?tte. Megmondtam nekik, hogy helyben nem tudok mit tenni vele, tehát bekötötték a szemem és idevezettek. Azóta élek itt.}
+{150}{}{H?, leny?gÃ¶z a tudÃ¡sod.}
+{151}{}{Ez nekem kÃ­nai.}
+{152}{}{Ã‰pp fÃ¼veket gy?jtÃ¶gettem, amikor hirtelen egy hang szÃ³lt hozzÃ¡m a sÃ¶tÃ©tb?l. "Figyeltelek tÃ©ged - mondta - , Ã©s tudom, hogy gyÃ³gyÃ­tÃ³ vagy. ElÃ©ggÃ© elhivatottnak Ã©rzed magad, hogy egy szÃ¡modra idegent meggyÃ³gyÃ­ts? Valakit, akit mÃ¡sok netÃ¡n ellensÃ©gnek tartanÃ¡nak?"}
+{153}{}{Ã–Ã¶hh.}
+{154}{}{KÃ¶sz. Ã‰n menni most.}
+{155}{}{Milyen kÃ¡r, hogy itt vagy, pedig mÃ¡sokat is gyÃ³gyÃ­thatnÃ¡l.}
+{156}{}{Te aztÃ¡n igazÃ¡n elhivatott ember vagy, aki megÃ©rdemli mÃ¡sok elismerÃ©sÃ©t.}
+{157}{}{Ã‰rdekes.}
+{158}{}{Nem segÃ­tek a magadfajtÃ¡nak. Eredj innen!}
+{159}{}{Elutaztam egy mÃ¡sik vÃ¡rosba, Ã©s miel?tt eljÃ¶ttem volna, legalÃ¡bb egy hÃ©tig maradtam. Amikor visszatÃ©rtem, tÃ¡rt karokkal Ã¼dvÃ¶zÃ¶ltek. Gruthar, a falka vezet?je, szemÃ©lyesen kÃ¶szÃ¶nte meg a visszatÃ©rÃ©semet. Teljesen a sajÃ¡t akaratombÃ³l vagyok itt.}
+{160}{}{A halÃ¡lkarmoknak nincsenek hangszÃ¡laik, mÃ©gis kÃ©pesek utÃ¡nozni a beszÃ©det, nagyjÃ¡bÃ³l egy papagÃ¡j mÃ³djÃ¡ra. A pontos m?kÃ¶dÃ©st mÃ©g meg kell vizsgÃ¡lnom, Ã­gy err?l nem szolgÃ¡lhatok tÃ¶bb informÃ¡ciÃ³val. TÃ¡rsadalmi szempontbÃ³l csoportosan Ã©l? Ã¡llatok, nagyon, de nagyon szigorÃº viselkedÃ©sformÃ¡kkal. A falka kÃ¶lcsÃ¶nÃ¶s beleegyezÃ©sÃ©vel egy Ãºn. "alfa hÃ­m" vezeti ?ket. ElkÃ©peszt?en h?ek a falkÃ¡hoz, inkÃ¡bb csalÃ¡dkÃ©nt kezelik, minthogy emberi mintÃ¡ra kÃ¼lÃ¶nÃ¡llÃ³ csalÃ¡djaik lennÃ©nek.}
+{161}{}{A jÃ³ Ã©s rossz irÃ¡nti Ã©rzÃ©kÃ¼k nagyon fejlett. SzigorÃº erkÃ¶lcsi kÃ³dex szerint Ã©lnek, amit az egÃ©sz falka betart. Sosem oldjÃ¡k meg problÃ©mÃ¡ikat er?szakkal, legalÃ¡bbis Ã©n mÃ©g nem lÃ¡ttam rÃ¡ pÃ©ldÃ¡t. Itt nem kÃ¶vetnek el 'f?benjÃ¡rÃ³ b?nÃ¶ket', tehÃ¡t nem tudom, hogy kezelik az ilyesmit. Hmmm... Ez minden, ami eszembe jutott. RemÃ©lem, a hasznodra vÃ¡lik.}
+{162}{}{Azt vÃ¡laszoltam, hogy mindenfÃ©le Ã©letet tisztelek, Ã©s mindent megtennÃ©k, hogy meggyÃ³gyÃ­tsam a sÃ©rÃ¼ltet, fÃ¼ggetlenÃ¼l attÃ³l, kir?l vagy mir?l van szÃ³. Azt hittem, hogy valami tolvaj vagy fosztogatÃ³, aki megsÃ©rÃ¼lt Ã©s orvosra van szÃ¼ksÃ©ge. KÃ©pzelheted, hogy meglep?dtem, amikor nÃ©hÃ¡ny halÃ¡lkarom lÃ©pett el? a sÃ¶tÃ©tb?l az egyik sÃ©rÃ¼lt tÃ¡rsukkal. Valaki nagyon csÃºnyÃ¡n megl?tte. Megmondtam nekik, hogy helyben nem tudok mit tenni vele, tehÃ¡t bekÃ¶tÃ¶ttÃ©k a szemem Ã©s idevezettek. AzÃ³ta Ã©lek itt.}

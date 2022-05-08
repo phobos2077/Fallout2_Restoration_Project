@@ -1,1 +1,1 @@
-{100}{}{Ez itt egy Im·dkozÛs·ska.}
+{100}{}{Ez itt egy Im√°dkoz√≥s√°ska.}

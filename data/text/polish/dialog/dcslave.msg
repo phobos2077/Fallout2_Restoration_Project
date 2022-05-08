@@ -1,141 +1,141 @@
-{100}{}{Widzisz wielkiego, prymitywnie wygl¹daj¹cego cz³owieka.}
-{125}{}{Ma liczne rany i siniaki na ca³ym ciele.}
-{150}{}{Widzisz smuk³¹, prymitywn¹ kobietê.}
-{175}{}{Wygl¹da jakby by³a bita.}
-{200}{}{Widzisz poranionego cz³owieka.}
-{225}{}{Wygl¹da na wycieñczonego.}
-{250}{}{Widzisz brankê.}
-{275}{}{Jest bardzo brudna i chyba bardzo g³odna.}
-{300}{}{Proszê, nie rób nam krzywdy!}
-{301}{}{Jesteœmy wolni?}
-{302}{}{Nie ma czasu na rozmowy. Musicie uciekaæ.}
-{303}{}{Dziêkujê za pomoc.}
-{304}{}{Bardzo ci dziêkujê!}
-{305}{}{Jesteœ wys³annikiem Niebios.}
-{306}{}{Co robisz? Powinniœmy uciekaæ.}
-{307}{}{Pomó¿ nam uciec.}
-{320}{}{Ty z³y!}
-{321}{}{My nie mówiæ z ty.}
-{322}{}{My siê uwolniæ.}
-{323}{}{Ty nie zatrzymaæ nas.}
-{324}{}{Ty ³owco niewolników!}
-{325}{}{£owcy niewolników, dlaczego to robicie?}
-{326}{}{Jak mo¿esz pracowaæ dla tych ludzi?}
-{327}{}{Nie jesteœmy dzikusami!}
-{328}{}{Nie macie ¿adnych zasad moralnych?}
-{329}{}{Co z nami bêdzie?}
-{330}{}{Co zrobiliœmy Ÿle?}
-{331}{}{Zostaw nas w spokoju, ³owco!}
-{332}{}{Nie rób mi krzywdy!}
-{333}{}{OdejdŸ ode mnie!}
+{100}{}{Widzisz wielkiego, prymitywnie wyglÄ…dajÄ…cego czÅ‚owieka.}
+{125}{}{Ma liczne rany i siniaki na caÅ‚ym ciele.}
+{150}{}{Widzisz smukÅ‚Ä…, prymitywnÄ… kobietÄ™.}
+{175}{}{WyglÄ…da jakby byÅ‚a bita.}
+{200}{}{Widzisz poranionego czÅ‚owieka.}
+{225}{}{WyglÄ…da na wycieÅ„czonego.}
+{250}{}{Widzisz brankÄ™.}
+{275}{}{Jest bardzo brudna i chyba bardzo gÅ‚odna.}
+{300}{}{ProszÄ™, nie rÃ³b nam krzywdy!}
+{301}{}{JesteÅ›my wolni?}
+{302}{}{Nie ma czasu na rozmowy. Musicie uciekaÄ‡.}
+{303}{}{DziÄ™kujÄ™ za pomoc.}
+{304}{}{Bardzo ci dziÄ™kujÄ™!}
+{305}{}{JesteÅ› wysÅ‚annikiem Niebios.}
+{306}{}{Co robisz? PowinniÅ›my uciekaÄ‡.}
+{307}{}{PomÃ³Å¼ nam uciec.}
+{320}{}{Ty zÅ‚y!}
+{321}{}{My nie mÃ³wiÄ‡ z ty.}
+{322}{}{My siÄ™ uwolniÄ‡.}
+{323}{}{Ty nie zatrzymaÄ‡ nas.}
+{324}{}{Ty Å‚owco niewolnikÃ³w!}
+{325}{}{Åowcy niewolnikÃ³w, dlaczego to robicie?}
+{326}{}{Jak moÅ¼esz pracowaÄ‡ dla tych ludzi?}
+{327}{}{Nie jesteÅ›my dzikusami!}
+{328}{}{Nie macie Å¼adnych zasad moralnych?}
+{329}{}{Co z nami bÄ™dzie?}
+{330}{}{Co zrobiliÅ›my Åºle?}
+{331}{}{Zostaw nas w spokoju, Å‚owco!}
+{332}{}{Nie rÃ³b mi krzywdy!}
+{333}{}{OdejdÅº ode mnie!}
 {350}{}{Twoja kto?}
-{351}{}{Nie jesteœ ³owc¹ niewolników.}
-{352}{}{Nie jesteœ ranny?}
+{351}{}{Nie jesteÅ› Å‚owcÄ… niewolnikÃ³w.}
+{352}{}{Nie jesteÅ› ranny?}
 {353}{}{Przyjaciel?}
-{354}{}{Pomo¿esz?}
-{355}{}{Co z nami bêdzie?}
-{356}{}{Ciebie te¿ z³apali?}
-{357}{}{Nie jesteœmy dzikusami!}
-{358}{}{Myœl¹, ¿e kim s¹?}
-{359}{}{Proszê pomó¿ nam!}
-{360}{}{Uwolnij mnie st¹d.}
-{380}{}{Nie mo¿ecie nas tu trzymaæ!}
+{354}{}{PomoÅ¼esz?}
+{355}{}{Co z nami bÄ™dzie?}
+{356}{}{Ciebie teÅ¼ zÅ‚apali?}
+{357}{}{Nie jesteÅ›my dzikusami!}
+{358}{}{MyÅ›lÄ…, Å¼e kim sÄ…?}
+{359}{}{ProszÄ™ pomÃ³Å¼ nam!}
+{360}{}{Uwolnij mnie stÄ…d.}
+{380}{}{Nie moÅ¼ecie nas tu trzymaÄ‡!}
 {381}{}{Nie ma mowy!}
-{382}{}{Nie jesteœmy Ÿli!}
-{383}{}{Pomo¿ecie?}
+{382}{}{Nie jesteÅ›my Åºli!}
+{383}{}{PomoÅ¼ecie?}
 {384}{}{Uwolnij nas!}
 {385}{}{Nie lubicie nas. Dlaczego?}
-{386}{}{Z³e miejsce.}
-{387}{}{Czemu Ÿli ludzie to robi¹?}
-{388}{}{Nie jesteœmy niewolnikami!}
-{389}{}{Nic wam nie zrobiliœmy.}
+{386}{}{ZÅ‚e miejsce.}
+{387}{}{Czemu Åºli ludzie to robiÄ…?}
+{388}{}{Nie jesteÅ›my niewolnikami!}
+{389}{}{Nic wam nie zrobiliÅ›my.}
 {390}{}{Bunt!}
 {391}{}{Co dalej?}
 {392}{}{Krzyczymy?}
 {393}{}{Kto walczy?}
-{394}{}{Co siê dzieje?}
-{395}{}{Coœ siê sta³o?}
-{396}{}{Czy ktoœ nam pomo¿e?!}
-{397}{}{Hej! Czy ktoœ mnie s³yszy?}
-{398}{}{To jest z³e!}
-{399}{}{Nie mo¿emy nic zrobiæ!}
-{400}{}{Uciekajmy st¹d!}
-{401}{}{Czy ktoœ mo¿e nas uwolniæ!}
+{394}{}{Co siÄ™ dzieje?}
+{395}{}{CoÅ› siÄ™ staÅ‚o?}
+{396}{}{Czy ktoÅ› nam pomoÅ¼e?!}
+{397}{}{Hej! Czy ktoÅ› mnie sÅ‚yszy?}
+{398}{}{To jest zÅ‚e!}
+{399}{}{Nie moÅ¼emy nic zrobiÄ‡!}
+{400}{}{Uciekajmy stÄ…d!}
+{401}{}{Czy ktoÅ› moÅ¼e nas uwolniÄ‡!}
 {402}{}{Za jakie grzechy?}
-{403}{}{Nie zrobiliœmy nic z³ego.}
-{404}{}{Nie zas³ugujemy na taki los.}
-{405}{}{To wy powinniœcie byæ na naszym miejscu!}
-{406}{}{Pomó¿ nam!}
-{407}{}{Wypuœæ mnie!}
-{408}{}{Nie jesteœmy niewolnikami!}
-{409}{}{Nie jesteœmy dzicy! Wypuœæcie nas!}
-{410}{}{Co siê dzieje?}
-{411}{}{Czy jest tu ktoœ, kto nas uratuje?}
+{403}{}{Nie zrobiliÅ›my nic zÅ‚ego.}
+{404}{}{Nie zasÅ‚ugujemy na taki los.}
+{405}{}{To wy powinniÅ›cie byÄ‡ na naszym miejscu!}
+{406}{}{PomÃ³Å¼ nam!}
+{407}{}{WypuÅ›Ä‡ mnie!}
+{408}{}{Nie jesteÅ›my niewolnikami!}
+{409}{}{Nie jesteÅ›my dzicy! WypuÅ›Ä‡cie nas!}
+{410}{}{Co siÄ™ dzieje?}
+{411}{}{Czy jest tu ktoÅ›, kto nas uratuje?}
 {412}{}{Tutaj!}
 {413}{}{Pomocy! Nie zostawiajcie nas!}
-{414}{}{Czy wszystkich nas wystrzelaj¹?}
-{415}{}{Co siê tu dzieje?}
+{414}{}{Czy wszystkich nas wystrzelajÄ…?}
+{415}{}{Co siÄ™ tu dzieje?}
 {420}{}{Aaa!}
 {421}{}{Uga!}
-{422}{}{Nie zatrzymujcie siê!}
+{422}{}{Nie zatrzymujcie siÄ™!}
 {423}{}{Tak!}
-{424}{}{Ucieknê st¹d tak daleko, jak tylko mo¿na.}
+{424}{}{UcieknÄ™ stÄ…d tak daleko, jak tylko moÅ¼na.}
 {425}{}{Szybciej!}
-{426}{}{Wolnoœæ! Nareszcie wolnoœæ!}
-{440}{}{Co to za strza³y? Czego chcesz?}
-{441}{}{Hej! Co to za strza³y? £owcy nie ¿yj¹?}
-{442}{}{Hej! Co to za strza³y? Co siê dzieje?}
-{443}{}{To by³o przyjêcie po¿egnalne dla Metzgera i jego bandy.}
-{444}{}{Och, nic takiego. Po prostu macie o jeden problem mniej. Czeœæ.}
-{445}{}{Jesteœcie wolni. Metzger ju¿ nic wam nie zrobi.}
-{446}{}{Jesteœcie wolni.}
-{447}{}{ przyjaciel. On zabi³ Mezgura. Mo¿ecie teraz iœæ.}
-{448}{}{ przyjació³ka. Ona zabi³a Mezgura. Mo¿ecie teraz iœæ.}
-{460}{}{On umar³? Dziêki ci! Uciekamy, szybko. ¯egnaj.}
-{461}{}{Co? Metzger nie ¿yje? Och, dziêkujê! Lepiej uciekajmy zanim przyjd¹ jego kumple. Jeszcze raz wielkie dziêki.}
-{462}{}{Nie ma za co. A teraz zwiewajcie st¹d szybko.}
-{463}{}{Trzymaj siê.}
-{464}{}{Ca³a przyjemnoœæ po mojej stronie.}
-{470}{}{Czekaj, jeszcze jedna sprawa. Szukam pewnej konkretnej osoby, a jej tu nie widzê. Wiesz gdzie inni niewolnicy mog¹ byæ trzymani?}
-{471}{}{Du¿y obóz niedaleko. (Plemienny pokazuje na po³udniowy-zachód) Dwa ksiê¿yce st¹d.}
-{472}{}{Jest obóz dwa dni drogi na po³udniowy-zachód st¹d. Tam trafi³em najpierw.}
-{473}{}{Dziêkujê ci. A teraz uciekajcie st¹d.}
-{474}{}{Dziêkujê. Trzymaj siê.}
-{475}{}{Czekaj. Ja patrzeæ za ktoœ. Gdzie wiêcej niewolnik?}
-{476}{}{Dzienks. Iœæ teraz!}
+{426}{}{WolnoÅ›Ä‡! Nareszcie wolnoÅ›Ä‡!}
+{440}{}{Co to za strzaÅ‚y? Czego chcesz?}
+{441}{}{Hej! Co to za strzaÅ‚y? Åowcy nie Å¼yjÄ…?}
+{442}{}{Hej! Co to za strzaÅ‚y? Co siÄ™ dzieje?}
+{443}{}{To byÅ‚o przyjÄ™cie poÅ¼egnalne dla Metzgera i jego bandy.}
+{444}{}{Och, nic takiego. Po prostu macie o jeden problem mniej. CzeÅ›Ä‡.}
+{445}{}{JesteÅ›cie wolni. Metzger juÅ¼ nic wam nie zrobi.}
+{446}{}{JesteÅ›cie wolni.}
+{447}{}{ przyjaciel. On zabiÅ‚ Mezgura. MoÅ¼ecie teraz iÅ›Ä‡.}
+{448}{}{ przyjaciÃ³Å‚ka. Ona zabiÅ‚a Mezgura. MoÅ¼ecie teraz iÅ›Ä‡.}
+{460}{}{On umarÅ‚? DziÄ™ki ci! Uciekamy, szybko. Å»egnaj.}
+{461}{}{Co? Metzger nie Å¼yje? Och, dziÄ™kujÄ™! Lepiej uciekajmy zanim przyjdÄ… jego kumple. Jeszcze raz wielkie dziÄ™ki.}
+{462}{}{Nie ma za co. A teraz zwiewajcie stÄ…d szybko.}
+{463}{}{Trzymaj siÄ™.}
+{464}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie.}
+{470}{}{Czekaj, jeszcze jedna sprawa. Szukam pewnej konkretnej osoby, a jej tu nie widzÄ™. Wiesz gdzie inni niewolnicy mogÄ… byÄ‡ trzymani?}
+{471}{}{DuÅ¼y obÃ³z niedaleko. (Plemienny pokazuje na poÅ‚udniowy-zachÃ³d) Dwa ksiÄ™Å¼yce stÄ…d.}
+{472}{}{Jest obÃ³z dwa dni drogi na poÅ‚udniowy-zachÃ³d stÄ…d. Tam trafiÅ‚em najpierw.}
+{473}{}{DziÄ™kujÄ™ ci. A teraz uciekajcie stÄ…d.}
+{474}{}{DziÄ™kujÄ™. Trzymaj siÄ™.}
+{475}{}{Czekaj. Ja patrzeÄ‡ za ktoÅ›. Gdzie wiÄ™cej niewolnik?}
+{476}{}{Dzienks. IÅ›Ä‡ teraz!}
 {480}{}{Czego chcesz?}
 {481}{}{Czego chcesz?}
-{482}{}{Och, nic, zupe³nie nic.}
-{500}{}{Hê?}
-{501}{}{Mniejsza o to. Jesteœcie wolni. Metzger nie ¿yje.}
-{510}{}{¯e co? Wolni? li ludzie odeszli? Wynosimy siê st¹d! Dziêkujê. Mo¿na na ciebie liczyæ! ¯egnaj!}
-{511}{}{Wolni? Co? Wszyscy nie ¿yj¹? Dziêkujê ci z ca³ego serca! Lepiej uciekajmy st¹d, póki jeszcze mo¿emy. Jeszcze raz wielkie dziêki, Niebo nam ciê zes³a³o!}
-{520}{}{Niech ciê szlag!}
-{521}{}{Bêdziesz sma¿yæ siê w piekle!}
-{522}{}{Zap³acisz za to.}
-{523}{}{Masz jeszcze czelnoœæ odzywaæ siê do mnie?}
+{482}{}{Och, nic, zupeÅ‚nie nic.}
+{500}{}{HÄ™?}
+{501}{}{Mniejsza o to. JesteÅ›cie wolni. Metzger nie Å¼yje.}
+{510}{}{Å»e co? Wolni? Å¹li ludzie odeszli? Wynosimy siÄ™ stÄ…d! DziÄ™kujÄ™. MoÅ¼na na ciebie liczyÄ‡! Å»egnaj!}
+{511}{}{Wolni? Co? Wszyscy nie Å¼yjÄ…? DziÄ™kujÄ™ ci z caÅ‚ego serca! Lepiej uciekajmy stÄ…d, pÃ³ki jeszcze moÅ¼emy. Jeszcze raz wielkie dziÄ™ki, Niebo nam ciÄ™ zesÅ‚aÅ‚o!}
+{520}{}{Niech ciÄ™ szlag!}
+{521}{}{BÄ™dziesz smaÅ¼yÄ‡ siÄ™ w piekle!}
+{522}{}{ZapÅ‚acisz za to.}
+{523}{}{Masz jeszcze czelnoÅ›Ä‡ odzywaÄ‡ siÄ™ do mnie?}
 {524}{}{Zostaw mnie w spokoju.}
-{525}{}{Nie chcê z tob¹ rozmawiaæ.}
-{526}{}{Jak tak mo¿na?!}
-{527}{}{Nie chcê ciê ju¿ nigdy widzieæ na oczy.}
-{528}{}{Ty siê ju¿ nigdy nie zmienisz.}
-{529}{}{Daj mi spokój, jeœli ³aska.}
-{530}{}{Po tym wszystkim... zostaw mnie chocia¿ w spokoju.}
-{531}{}{Po prostu zejdŸ mi z drogi.}
-{532}{}{Nadal nie mam ochoty gadaæ z kimœ takim jak ty.}
+{525}{}{Nie chcÄ™ z tobÄ… rozmawiaÄ‡.}
+{526}{}{Jak tak moÅ¼na?!}
+{527}{}{Nie chcÄ™ ciÄ™ juÅ¼ nigdy widzieÄ‡ na oczy.}
+{528}{}{Ty siÄ™ juÅ¼ nigdy nie zmienisz.}
+{529}{}{Daj mi spokÃ³j, jeÅ›li Å‚aska.}
+{530}{}{Po tym wszystkim... zostaw mnie chociaÅ¼ w spokoju.}
+{531}{}{Po prostu zejdÅº mi z drogi.}
+{532}{}{Nadal nie mam ochoty gadaÄ‡ z kimÅ› takim jak ty.}
 {533}{}{Zostaw mnie w spokoju.}
 {534}{}{Mowy nie ma.}
-{535}{}{Myœlisz, ¿e teraz bêdzie ci siê ¿y³o lepiej?}
-{600}{}{Mo¿emy odejœæ?}
-{601}{}{Nic siê nam nie stanie?}
+{535}{}{MyÅ›lisz, Å¼e teraz bÄ™dzie ci siÄ™ Å¼yÅ‚o lepiej?}
+{600}{}{MoÅ¼emy odejÅ›Ä‡?}
+{601}{}{Nic siÄ™ nam nie stanie?}
 {602}{}{Chodu!}
 {603}{}{Dom!}
 {604}{}{Wolni?}
-{605}{}{Hê?}
+{605}{}{HÄ™?}
 {606}{}{Co?}
-{607}{}{Ktoœ powiedzia³ wolni?}
-{608}{}{Ju¿ mnie tu nie ma!}
-{609}{}{ChodŸmy!}
-{610}{}{Ludzie! Jesteœmy wolni!}
+{607}{}{KtoÅ› powiedziaÅ‚ wolni?}
+{608}{}{JuÅ¼ mnie tu nie ma!}
+{609}{}{ChodÅºmy!}
+{610}{}{Ludzie! JesteÅ›my wolni!}
 {611}{}{Huuuuurrrraaaaaa!}
-{700}{}{Udaj³o ci siê uwolniæ niewolników.}
+{700}{}{UdajÅ‚o ci siÄ™ uwolniÄ‡ niewolnikÃ³w.}

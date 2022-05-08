@@ -1,1 +1,1 @@
-{100}{}{Születésed helyén, Arroyóban vagy.}
+{100}{}{SzÃ¼letÃ©sed helyÃ©n, ArroyÃ³ban vagy.}

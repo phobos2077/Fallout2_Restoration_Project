@@ -1,159 +1,159 @@
 {100}{}{Widzisz Skeeva, asystenta Wallace'a.}
-{101}{}{Widzisz wymizerowanego, m³odego mê¿czyznê, ciskaj¹cego naoko³o gniewne spojrzenia.}
+{101}{}{Widzisz wymizerowanego, mÅ‚odego mÄ™Å¼czyznÄ™, ciskajÄ…cego naokoÅ‚o gniewne spojrzenia.}
 {102}{}{Widzisz Skeeva, asystenta Wallace'a.}
-{103}{}{Widzisz wymizerowanego, m³odego mê¿czyznê, ciskaj¹cego naoko³o gniewne spojrzenia.}
-{104}{}{Hej, masz mo¿e jakieœ pozosta³oœci po Horriganie? Móg³bym opyliæ je po piêædziesi¹t, albo i po sto dolców, odpali³bym ci od tego jakieœ 10%.}
+{103}{}{Widzisz wymizerowanego, mÅ‚odego mÄ™Å¼czyznÄ™, ciskajÄ…cego naokoÅ‚o gniewne spojrzenia.}
+{104}{}{Hej, masz moÅ¼e jakieÅ› pozostaÅ‚oÅ›ci po Horriganie? MÃ³gÅ‚bym opyliÄ‡ je po piÄ™Ä‡dziesiÄ…t, albo i po sto dolcÃ³w, odpaliÅ‚bym ci od tego jakieÅ› 10%.}
 {105}{}{Spadaj.}
-{106}{}{Odczep siê. Nie bêdê z tob¹ gadaæ.}
-{107}{}{Och, eee, czeœæ Kapitanie. £adny dzisiaj dzieñ, prawda?}
-{108}{}{Proszê, proszê, czy to nie nasz nowy Obywatel?}
+{106}{}{Odczep siÄ™. Nie bÄ™dÄ™ z tobÄ… gadaÄ‡.}
+{107}{}{Och, eee, czeÅ›Ä‡ Kapitanie. Åadny dzisiaj dzieÅ„, prawda?}
+{108}{}{ProszÄ™, proszÄ™, czy to nie nasz nowy Obywatel?}
 {109}{}{Siemanko, "Obywatelu".}
-{110}{}{Nie mo¿esz w³aziæ tu z tym mutantem.}
-{111}{}{Nie mo¿esz w³aziæ tu z tym ghulem.}
-{112}{}{W nocy nie masz tu czego szukaæ. PrzyjdŸ rano.}
-{113}{}{S³uchaj, przybyszu, jeœli masz coœ do oclenia, to idŸ na zaplecze do Wallace'a, dobra? On pomo¿e ci wype³niæ wszystkie potrzebne formularze.}
-{114}{}{Formu³a ¿re?}
-{115}{}{OdejdŸ bez s³owa.}
+{110}{}{Nie moÅ¼esz wÅ‚aziÄ‡ tu z tym mutantem.}
+{111}{}{Nie moÅ¼esz wÅ‚aziÄ‡ tu z tym ghulem.}
+{112}{}{W nocy nie masz tu czego szukaÄ‡. PrzyjdÅº rano.}
+{113}{}{SÅ‚uchaj, przybyszu, jeÅ›li masz coÅ› do oclenia, to idÅº na zaplecze do Wallace'a, dobra? On pomoÅ¼e ci wypeÅ‚niÄ‡ wszystkie potrzebne formularze.}
+{114}{}{FormuÅ‚a Å¼re?}
+{115}{}{OdejdÅº bez sÅ‚owa.}
 {116}{}{Eee... co to za miejsce?}
-{117}{}{Dobrze. Dziêki.}
-{118}{}{To jest Biuro CELNE. Przeczytaj napis na zewn¹trz. Jeœli nie masz nic do oclenia, to co tutaj robisz?}
+{117}{}{Dobrze. DziÄ™ki.}
+{118}{}{To jest Biuro CELNE. Przeczytaj napis na zewnÄ…trz. JeÅ›li nie masz nic do oclenia, to co tutaj robisz?}
 {119}{}{Szukam Krypty.}
-{120}{}{Szukam sposobu na dostanie siê do œrodka.}
-{121}{}{Poniewa¿ jesteœcie Biurem Celnym i tak dalej, zastanawia³o mnie, czy móg³byœ mi 'poradziæ', jak mo¿na wnieœæ do miasta pewne towary.}
-{122}{}{W niczym. Nie chcê ci przeszkadzaæ.}
-{123}{}{Krypty? Jest wewn¹trz, w mieœcie. A co, chcia³oby siê przejœæ przez bramê, co?}
+{120}{}{Szukam sposobu na dostanie siÄ™ do Å›rodka.}
+{121}{}{PoniewaÅ¼ jesteÅ›cie Biurem Celnym i tak dalej, zastanawiaÅ‚o mnie, czy mÃ³gÅ‚byÅ› mi 'poradziÄ‡', jak moÅ¼na wnieÅ›Ä‡ do miasta pewne towary.}
+{122}{}{W niczym. Nie chcÄ™ ci przeszkadzaÄ‡.}
+{123}{}{Krypty? Jest wewnÄ…trz, w mieÅ›cie. A co, chciaÅ‚oby siÄ™ przejÅ›Ä‡ przez bramÄ™, co?}
 {124}{}{Tak.}
-{125}{}{Nie, tylko siê rozgl¹dam. Dziêki.}
-{126}{}{Có¿, mo¿esz pójœæ do mojego szefa - Wallace'a i SPRÓBOWAÆ dostaæ pozwolenie na wejœcie, ale to strata czasu. On nigdy nikogo nie wpuszcza. Oczywiœcie, s¹ równie¿ inne sposoby...}
+{125}{}{Nie, tylko siÄ™ rozglÄ…dam. DziÄ™ki.}
+{126}{}{CÃ³Å¼, moÅ¼esz pÃ³jÅ›Ä‡ do mojego szefa - Wallace'a i SPRÃ“BOWAÄ† dostaÄ‡ pozwolenie na wejÅ›cie, ale to strata czasu. On nigdy nikogo nie wpuszcza. OczywiÅ›cie, sÄ… rÃ³wnieÅ¼ inne sposoby...}
 {127}{}{Jakiego rodzaju inne sposoby?}
-{128}{}{Dziêki. Pójdê zobaczyæ siê z Wallacem.}
-{129}{}{Poradziæ? No wiesz, porady s¹ drogie, przybyszu. Masz pieni¹dze?}
+{128}{}{DziÄ™ki. PÃ³jdÄ™ zobaczyÄ‡ siÄ™ z Wallacem.}
+{129}{}{PoradziÄ‡? No wiesz, porady sÄ… drogie, przybyszu. Masz pieniÄ…dze?}
 {130}{}{Daj mu $50.}
 {131}{}{Daj mu $75.}
 {132}{}{Daj mu $100.}
-{133}{}{Pewnie nie dosyæ, ¿eby zawracaæ ci g³owê. Wrócê, jak siê trochê dorobiê.}
-{134}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{135}{}{No wiêc, mo¿esz zrobiæ kilka rzeczy. Jedna z nich, to zostaæ Obywatelem. Obywateli siê nie przeszukuje. Oczywiœcie, twoje szanse zostania Obywatelem s¹ prawie ¿adne.}
+{133}{}{Pewnie nie dosyÄ‡, Å¼eby zawracaÄ‡ ci gÅ‚owÄ™. WrÃ³cÄ™, jak siÄ™ trochÄ™ dorobiÄ™.}
+{134}{}{NiewaÅ¼ne. MoÅ¼e pÃ³Åºniej pogadamy.}
+{135}{}{No wiÄ™c, moÅ¼esz zrobiÄ‡ kilka rzeczy. Jedna z nich, to zostaÄ‡ Obywatelem. Obywateli siÄ™ nie przeszukuje. OczywiÅ›cie, twoje szanse zostania Obywatelem sÄ… prawie Å¼adne.}
 {136}{}{Dlaczego?}
-{137}{}{Co jeszcze da siê zrobiæ?}
-{138}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{139}{}{Jeœli nie jesteœ urodzonym Obywatelem, to ¿eby nim zostaæ, musisz zdaæ egzamin. Ilu obcych zda³o egzamin na Obywatela? Zero. Ile wynosz¹ twoje szanse? Mniej ni¿ zero.}
+{137}{}{Co jeszcze da siÄ™ zrobiÄ‡?}
+{138}{}{NiewaÅ¼ne. MoÅ¼e pÃ³Åºniej pogadamy.}
+{139}{}{JeÅ›li nie jesteÅ› urodzonym Obywatelem, to Å¼eby nim zostaÄ‡, musisz zdaÄ‡ egzamin. Ilu obcych zdaÅ‚o egzamin na Obywatela? Zero. Ile wynoszÄ… twoje szanse? Mniej niÅ¼ zero.}
 {140}{}{Na czym polega egzamin?}
-{141}{}{Co jeszcze mo¿na zrobiæ dla ominiêcia kontroli celnej?}
-{142}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{143}{}{Gregory, Prokonsul, ka¿e rozwi¹zaæ "test" ka¿demu obcemu, który chce zostaæ Obywatelem. Ten test mierzy ich inteligencjê, spostrzegawczoœæ, no, a poza tym, trzeba mieæ te¿ kupê szczêœcia, ¿eby przez niego przebrn¹æ. Wiêkszoœæ Obywateli mia³aby z nim k³opoty.}
-{144}{}{Co sprawia, ¿e egzamin jest tak trudny?}
-{145}{}{Co oprócz zostania Obywatelem mo¿na zrobiæ, by omin¹æ kontrolê celn¹?}
-{146}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{147}{}{Wiêkszoœæ obcych nie umie czytaæ, nie zna siê na trygonometrii i nie potrafi przeliterowaæ s³owa "Konstantynopolitañczykowianeczka". Reszty mo¿na siê domyœleæ. To jest tylko taka przykrywka, ¿eby obcy nie mogli zostawaæ Obywatelami.}
-{148}{}{Co oprócz zostania Obywatelem mo¿na zrobiæ, by omin¹æ kontrolê celn¹?}
-{149}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{150}{}{Przemyæ towar za pomoc¹ niewolników... to znaczy "S³u¿¹cych". Widzisz, mentalnoœæ Kryptopolis jest taka, ¿e nikomu tutaj nie przyjdzie do g³owy, ¿e ktoœ móg³by powierzyæ S³u¿¹cemu coœ wa¿nego... albo podejrzanego. SprawdŸ to sobie.}
-{151}{}{Jakieœ inne mo¿liwoœci?}
-{152}{}{Rozumiem. Dziêki.}
-{153}{}{W sumie to MO¯ESZ zostaæ Obywatelem... nieoficjalnie.}
-{154}{}{O czym ty mówisz?}
-{155}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{156}{}{Jeœli masz kasê, mogê zdradziæ wiêcej. W przeciwnym razie...}
-{157}{}{Mam pieni¹dze. Co sprzedajesz?}
-{158}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{159}{}{Za dwieœcie dolców papiery s¹ twoje.}
-{160}{}{Za dwieœcie dolców mogê zrobiæ z ciebie pe³noprawnego Obywatela. Bêdziesz mieæ wolny wstêp za bramê, bez ¿adnych przykroœci. W ci¹gu piêciu minut mogê wydrukowaæ wszystkie dokumenty i zarejestrowaæ twój numer identyfikacyjny.}
-{161}{}{A co, gdybym powiedzia³ komuœ, ¿e wciskasz ludziom lewe obywatelstwo?}
-{162}{}{Brzmi nieŸle. Oto $200.}
-{163}{}{Hmm, $200 to trochê du¿o. Mam tylko 150.}
-{164}{}{Nie mam teraz kasy na tego rodzaju wydatki. Mo¿e kiedy indziej.}
-{165}{}{Nie, dziêki. Mo¿e innym razem.}
-{166}{}{To proste. NIE UWIERZ¥ ci. Ty jesteœ z zewn¹trz, a ja jestem Obywatelem. Zgadnij, komu uwierz¹?}
-{167}{}{W takim razie kupiê te papiery.}
-{168}{}{Kupiê papiery... ale za 150, nie za 200.}
-{169}{}{Có¿, $200 to dla mnie trochê za du¿o. Mo¿e wrócê, jak bêdê mieæ wiêcej wolnej kasy.}
-{170}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{171}{}{Hmmm. No dobra, mam dziœ ochotê na trochê dobroczynnoœci. Ale nie mów ¿adnemu ze swoich obcych przyjació³, ¿e sprzeda³em ci je tak tanio.}
+{141}{}{Co jeszcze moÅ¼na zrobiÄ‡ dla ominiÄ™cia kontroli celnej?}
+{142}{}{NiewaÅ¼ne. MoÅ¼e pÃ³Åºniej pogadamy.}
+{143}{}{Gregory, Prokonsul, kaÅ¼e rozwiÄ…zaÄ‡ "test" kaÅ¼demu obcemu, ktÃ³ry chce zostaÄ‡ Obywatelem. Ten test mierzy ich inteligencjÄ™, spostrzegawczoÅ›Ä‡, no, a poza tym, trzeba mieÄ‡ teÅ¼ kupÄ™ szczÄ™Å›cia, Å¼eby przez niego przebrnÄ…Ä‡. WiÄ™kszoÅ›Ä‡ Obywateli miaÅ‚aby z nim kÅ‚opoty.}
+{144}{}{Co sprawia, Å¼e egzamin jest tak trudny?}
+{145}{}{Co oprÃ³cz zostania Obywatelem moÅ¼na zrobiÄ‡, by ominÄ…Ä‡ kontrolÄ™ celnÄ…?}
+{146}{}{NiewaÅ¼ne. MoÅ¼e pÃ³Åºniej pogadamy.}
+{147}{}{WiÄ™kszoÅ›Ä‡ obcych nie umie czytaÄ‡, nie zna siÄ™ na trygonometrii i nie potrafi przeliterowaÄ‡ sÅ‚owa "KonstantynopolitaÅ„czykowianeczka". Reszty moÅ¼na siÄ™ domyÅ›leÄ‡. To jest tylko taka przykrywka, Å¼eby obcy nie mogli zostawaÄ‡ Obywatelami.}
+{148}{}{Co oprÃ³cz zostania Obywatelem moÅ¼na zrobiÄ‡, by ominÄ…Ä‡ kontrolÄ™ celnÄ…?}
+{149}{}{NiewaÅ¼ne. MoÅ¼e pÃ³Åºniej pogadamy.}
+{150}{}{PrzemyÄ‡ towar za pomocÄ… niewolnikÃ³w... to znaczy "SÅ‚uÅ¼Ä…cych". Widzisz, mentalnoÅ›Ä‡ Kryptopolis jest taka, Å¼e nikomu tutaj nie przyjdzie do gÅ‚owy, Å¼e ktoÅ› mÃ³gÅ‚by powierzyÄ‡ SÅ‚uÅ¼Ä…cemu coÅ› waÅ¼nego... albo podejrzanego. SprawdÅº to sobie.}
+{151}{}{JakieÅ› inne moÅ¼liwoÅ›ci?}
+{152}{}{Rozumiem. DziÄ™ki.}
+{153}{}{W sumie to MOÅ»ESZ zostaÄ‡ Obywatelem... nieoficjalnie.}
+{154}{}{O czym ty mÃ³wisz?}
+{155}{}{NiewaÅ¼ne. MoÅ¼e pÃ³Åºniej pogadamy.}
+{156}{}{JeÅ›li masz kasÄ™, mogÄ™ zdradziÄ‡ wiÄ™cej. W przeciwnym razie...}
+{157}{}{Mam pieniÄ…dze. Co sprzedajesz?}
+{158}{}{NiewaÅ¼ne. MoÅ¼e pÃ³Åºniej pogadamy.}
+{159}{}{Za dwieÅ›cie dolcÃ³w papiery sÄ… twoje.}
+{160}{}{Za dwieÅ›cie dolcÃ³w mogÄ™ zrobiÄ‡ z ciebie peÅ‚noprawnego Obywatela. BÄ™dziesz mieÄ‡ wolny wstÄ™p za bramÄ™, bez Å¼adnych przykroÅ›ci. W ciÄ…gu piÄ™ciu minut mogÄ™ wydrukowaÄ‡ wszystkie dokumenty i zarejestrowaÄ‡ twÃ³j numer identyfikacyjny.}
+{161}{}{A co, gdybym powiedziaÅ‚ komuÅ›, Å¼e wciskasz ludziom lewe obywatelstwo?}
+{162}{}{Brzmi nieÅºle. Oto $200.}
+{163}{}{Hmm, $200 to trochÄ™ duÅ¼o. Mam tylko 150.}
+{164}{}{Nie mam teraz kasy na tego rodzaju wydatki. MoÅ¼e kiedy indziej.}
+{165}{}{Nie, dziÄ™ki. MoÅ¼e innym razem.}
+{166}{}{To proste. NIE UWIERZÄ„ ci. Ty jesteÅ› z zewnÄ…trz, a ja jestem Obywatelem. Zgadnij, komu uwierzÄ…?}
+{167}{}{W takim razie kupiÄ™ te papiery.}
+{168}{}{KupiÄ™ papiery... ale za 150, nie za 200.}
+{169}{}{CÃ³Å¼, $200 to dla mnie trochÄ™ za duÅ¼o. MoÅ¼e wrÃ³cÄ™, jak bÄ™dÄ™ mieÄ‡ wiÄ™cej wolnej kasy.}
+{170}{}{NiewaÅ¼ne. MoÅ¼e pÃ³Åºniej pogadamy.}
+{171}{}{Hmmm. No dobra, mam dziÅ› ochotÄ™ na trochÄ™ dobroczynnoÅ›ci. Ale nie mÃ³w Å¼adnemu ze swoich obcych przyjaciÃ³Å‚, Å¼e sprzedaÅ‚em ci je tak tanio.}
 {172}{}{Dobrze.}
 {173}{}{Po prostu daj mi te cholerne papiery.}
-{174}{}{Dobra, ju¿ wszystko gotowe. Oto twoje papiery... "Obywatelu". I nikomu o tym nie mów, W SZCZEGÓLNOŒCI Wallace'owi, dobrze?}
-{175}{}{Nie ma sprawy. Nigdy nie zrobi³bym czegoœ takiego tak wspania³emu Obywatelowi jak ty, szczególnie teraz, kiedy dowód twoich nielegalnych poczynañ le¿y sobie w mojej kieszeni.}
+{174}{}{Dobra, juÅ¼ wszystko gotowe. Oto twoje papiery... "Obywatelu". I nikomu o tym nie mÃ³w, W SZCZEGÃ“LNOÅšCI Wallace'owi, dobrze?}
+{175}{}{Nie ma sprawy. Nigdy nie zrobiÅ‚bym czegoÅ› takiego tak wspaniaÅ‚emu Obywatelowi jak ty, szczegÃ³lnie teraz, kiedy dowÃ³d twoich nielegalnych poczynaÅ„ leÅ¼y sobie w mojej kieszeni.}
 {176}{}{Kumam. Nie ma sprawy.}
-{177}{}{Co do...?! Nikt ci nie uwierzy, przybyszu! Moje s³owo przewa¿y nad twoim!}
-{178}{}{Normalnie tak by by³o. Ale te papiery mówi¹ same za siebie. I bêd¹ mówiæ, chyba ¿e zap³acisz za ich milczenie.}
-{179}{}{Oczywiœcie. Na razie.}
+{177}{}{Co do...?! Nikt ci nie uwierzy, przybyszu! Moje sÅ‚owo przewaÅ¼y nad twoim!}
+{178}{}{Normalnie tak by byÅ‚o. Ale te papiery mÃ³wiÄ… same za siebie. I bÄ™dÄ… mÃ³wiÄ‡, chyba Å¼e zapÅ‚acisz za ich milczenie.}
+{179}{}{OczywiÅ›cie. Na razie.}
 {180}{}{Ja... co... ty brudny...}
-{181}{}{Uwa¿aj... radzê pilnowaæ jêzyka.}
-{182}{}{S³odkie gadki nic ci nie pomog¹ Skeev.}
-{183}{}{No dobra, mam TROCHÊ uzbieranej kasy. Masz. WeŸ to... trzysta dolców. Teraz bêdziesz cicho?}
-{184}{}{Tak to sobie t³umacz. Na razie.}
-{185}{}{¯aden problem. Bêdê cicho.}
-{186}{}{Dwie stówy, albo figa, przybyszu. Tylko tak mo¿esz dostaæ siê za bramê.}
-{187}{}{Myœlê, ¿e spróbujê za³atwiæ to oficjalnie.}
-{188}{}{Nie, dziêkujê.}
-{189}{}{Ha! ¯yczê szczêœcia, przybyszu. ¯eby dostaæ Przepustkê Dzienn¹ od Wallace'a, musia³byœ wyrwaæ mu j¹ z jego sztywnych, martwych paluszków.}
-{190}{}{Spróbujê i tak.}
-{191}{}{Jeœli bêdzie trzeba...}
-{192}{}{Czy¿by ktoœ zmieni³ zdanie?}
+{181}{}{UwaÅ¼aj... radzÄ™ pilnowaÄ‡ jÄ™zyka.}
+{182}{}{SÅ‚odkie gadki nic ci nie pomogÄ… Skeev.}
+{183}{}{No dobra, mam TROCHÄ˜ uzbieranej kasy. Masz. WeÅº to... trzysta dolcÃ³w. Teraz bÄ™dziesz cicho?}
+{184}{}{Tak to sobie tÅ‚umacz. Na razie.}
+{185}{}{Å»aden problem. BÄ™dÄ™ cicho.}
+{186}{}{Dwie stÃ³wy, albo figa, przybyszu. Tylko tak moÅ¼esz dostaÄ‡ siÄ™ za bramÄ™.}
+{187}{}{MyÅ›lÄ™, Å¼e sprÃ³bujÄ™ zaÅ‚atwiÄ‡ to oficjalnie.}
+{188}{}{Nie, dziÄ™kujÄ™.}
+{189}{}{Ha! Å»yczÄ™ szczÄ™Å›cia, przybyszu. Å»eby dostaÄ‡ PrzepustkÄ™ DziennÄ… od Wallace'a, musiaÅ‚byÅ› wyrwaÄ‡ mu jÄ… z jego sztywnych, martwych paluszkÃ³w.}
+{190}{}{SprÃ³bujÄ™ i tak.}
+{191}{}{JeÅ›li bÄ™dzie trzeba...}
+{192}{}{CzyÅ¼by ktoÅ› zmieniÅ‚ zdanie?}
 {193}{}{Znowu ty. Czego chcesz?}
 {194}{}{Vant? Vant!}
-{195}{}{OdejdŸ bez s³owa.}
+{195}{}{OdejdÅº bez sÅ‚owa.}
 {196}{}{Co to za miejsce?}
-{197}{}{Chcia³bym dostaæ siê do miasta.}
-{198}{}{Chcê kupiæ te fa³szywe papiery, które wczeœniej mi oferowa³eœ.}
-{199}{}{Mam zamiar donieœæ na ciebie, ¿e sprzedajesz fa³szywe obywatelstwa.}
-{200}{}{Poniewa¿ jesteœcie Biurem Celnym i tak dalej, zastanawia³o mnie, czy móg³byœ mi 'poradziæ', jak mo¿na wnieœæ do miasta pewne towary.}
-{201}{}{Niewa¿ne.}
-{202}{}{S³uchaj przyg³upie, spadaj st¹d, albo zawo³am stra¿e.}
-{203}{}{S³uchaj przyg³upie, wyp... Hmmm. Chwileczkê, a mo¿e...}
+{197}{}{ChciaÅ‚bym dostaÄ‡ siÄ™ do miasta.}
+{198}{}{ChcÄ™ kupiÄ‡ te faÅ‚szywe papiery, ktÃ³re wczeÅ›niej mi oferowaÅ‚eÅ›.}
+{199}{}{Mam zamiar donieÅ›Ä‡ na ciebie, Å¼e sprzedajesz faÅ‚szywe obywatelstwa.}
+{200}{}{PoniewaÅ¼ jesteÅ›cie Biurem Celnym i tak dalej, zastanawiaÅ‚o mnie, czy mÃ³gÅ‚byÅ› mi 'poradziÄ‡', jak moÅ¼na wnieÅ›Ä‡ do miasta pewne towary.}
+{201}{}{NiewaÅ¼ne.}
+{202}{}{SÅ‚uchaj przygÅ‚upie, spadaj stÄ…d, albo zawoÅ‚am straÅ¼e.}
+{203}{}{SÅ‚uchaj przygÅ‚upie, wyp... Hmmm. ChwileczkÄ™, a moÅ¼e...}
 {204}{}{Hurnh?}
-{205}{}{OdejdŸ bez s³owa.}
-{206}{}{ChodŸ tu na chwilkê przyg³upie. Musisz kogoœ poznaæ.}
+{205}{}{OdejdÅº bez sÅ‚owa.}
+{206}{}{ChodÅº tu na chwilkÄ™ przygÅ‚upie. Musisz kogoÅ› poznaÄ‡.}
 {207}{}{Obra.}
-{208}{}{Nuh-uh JA ZOSTAÆ}
-{209}{}{Barkusie, znalaz³em tego obcego, gdy pêta³ siê po pustkowiach. Wygl¹da na dobry materia³ na S³u¿¹cego.}
-{210}{}{Barkusie, znalaz³em tê bandê, gdy pêtali siê po pustkowiach. Ten obcy tutaj wygl¹da na dobry materia³ na S³u¿¹cego.}
+{208}{}{Nuh-uh JA ZOSTAÄ†}
+{209}{}{Barkusie, znalazÅ‚em tego obcego, gdy pÄ™taÅ‚ siÄ™ po pustkowiach. WyglÄ…da na dobry materiaÅ‚ na SÅ‚uÅ¼Ä…cego.}
+{210}{}{Barkusie, znalazÅ‚em tÄ™ bandÄ™, gdy pÄ™tali siÄ™ po pustkowiach. Ten obcy tutaj wyglÄ…da na dobry materiaÅ‚ na SÅ‚uÅ¼Ä…cego.}
 {211}{}{2 sekundy}
-{212}{}{Musisz ¯ARTOWAÆ. To to jest przecie¿ ca³kiem bezmózgie.}
-{213}{}{1 Sekunda, nie za³atwiaj jeszcze Bakusa.}
+{212}{}{Musisz Å»ARTOWAÄ†. To to jest przecieÅ¼ caÅ‚kiem bezmÃ³zgie.}
+{213}{}{1 Sekunda, nie zaÅ‚atwiaj jeszcze Bakusa.}
 {214}{}{Cal-Kiem-Martwe! Buuuum!}
 {215}{}{2 sekundy}
-{216}{}{Daj spokój. Potrzebujesz kogoœ do pracy w Krypcie, no nie?}
-{217}{}{1 Sekunda, nie za³atwiaj jeszcze Bakusa.}
+{216}{}{Daj spokÃ³j. Potrzebujesz kogoÅ› do pracy w Krypcie, no nie?}
+{217}{}{1 Sekunda, nie zaÅ‚atwiaj jeszcze Bakusa.}
 {218}{}{Krypa! Gechkk!}
 {219}{}{2 sekundy}
-{220}{}{Có¿... hmmm. Domyœlam siê, ¿e chcesz znaleŸne?}
+{220}{}{CÃ³Å¼... hmmm. DomyÅ›lam siÄ™, Å¼e chcesz znaleÅºne?}
 {221}{}{2 sekundy}
-{222}{}{A czy obcy jedz¹ swoje odchody? PEWNIE, ¿e chcê znaleŸne.}
-{223}{}{1 Sekunda, nie za³atwiaj Skeeva.}
-{224}{}{LeŸne? WyleŸneee!}
+{222}{}{A czy obcy jedzÄ… swoje odchody? PEWNIE, Å¼e chcÄ™ znaleÅºne.}
+{223}{}{1 Sekunda, nie zaÅ‚atwiaj Skeeva.}
+{224}{}{LeÅºne? WyleÅºneee!}
 {225}{}{1 Sekunda}
-{226}{}{No dobrze. Wyœlê go do Krypty. MO¯E bêdzie w stanie wysprz¹taæ magazyny.}
-{227}{}{Heej. Jak uda³o ci siê uciec?}
-{228}{}{Heej. Jak uda³o ci siê uciec? Lepiej wracaj do œrodka, zanim Barkus siê wœcieknie. No ju¿...}
+{226}{}{No dobrze. WyÅ›lÄ™ go do Krypty. MOÅ»E bÄ™dzie w stanie wysprzÄ…taÄ‡ magazyny.}
+{227}{}{Heej. Jak udaÅ‚o ci siÄ™ uciec?}
+{228}{}{Heej. Jak udaÅ‚o ci siÄ™ uciec? Lepiej wracaj do Å›rodka, zanim Barkus siÄ™ wÅ›cieknie. No juÅ¼...}
 {229}{}{Ob-raa}
-{230}{}{OdejdŸ bez s³owa.}
-{231}{}{Jak ju¿ wspomina³em, mogê zrobiæ z ciebie pe³noprawnego Obywatela za $200. Bêdziesz mieæ wolny wstêp za bramê, bez ¿adnych przykroœci. W ci¹gu piêciu minut mogê wydrukowaæ wszystkie dokumenty i zarejestrowaæ twój numer identyfikacyjny.}
-{232}{}{Co trzeba zrobiæ, ¿eby zostaæ prawdziwym Obywatelem?}
-{233}{}{No i co? Mogê pójœæ do niego i powiedzieæ, ¿e sprzedajesz lewe obywatelstwa.}
-{234}{}{Mam tak¹ nadziejê. Potrafiê dzia³aæ ca³kiem przekonuj¹co.}
+{230}{}{OdejdÅº bez sÅ‚owa.}
+{231}{}{Jak juÅ¼ wspominaÅ‚em, mogÄ™ zrobiÄ‡ z ciebie peÅ‚noprawnego Obywatela za $200. BÄ™dziesz mieÄ‡ wolny wstÄ™p za bramÄ™, bez Å¼adnych przykroÅ›ci. W ciÄ…gu piÄ™ciu minut mogÄ™ wydrukowaÄ‡ wszystkie dokumenty i zarejestrowaÄ‡ twÃ³j numer identyfikacyjny.}
+{232}{}{Co trzeba zrobiÄ‡, Å¼eby zostaÄ‡ prawdziwym Obywatelem?}
+{233}{}{No i co? MogÄ™ pÃ³jÅ›Ä‡ do niego i powiedzieÄ‡, Å¼e sprzedajesz lewe obywatelstwa.}
+{234}{}{Mam takÄ… nadziejÄ™. PotrafiÄ™ dziaÅ‚aÄ‡ caÅ‚kiem przekonujÄ…co.}
 {235}{}{Jeszcze zobaczymy.}
-{236}{}{Ha! Chcia³bym to zobaczyæ. Wallace nigdy ci nie uwierzy.}
-{237}{}{Och, myœlê, ¿e jednak uwierzy, gdy zobaczy te fa³szywe papiery, które mi da³eœ. Oczywiœcie, jeœli masz trochê kasy, mo¿emy zrobiæ z tego nasz¹ ma³¹ tajemnicê.}
+{236}{}{Ha! ChciaÅ‚bym to zobaczyÄ‡. Wallace nigdy ci nie uwierzy.}
+{237}{}{Och, myÅ›lÄ™, Å¼e jednak uwierzy, gdy zobaczy te faÅ‚szywe papiery, ktÃ³re mi daÅ‚eÅ›. OczywiÅ›cie, jeÅ›li masz trochÄ™ kasy, moÅ¼emy zrobiÄ‡ z tego naszÄ… maÅ‚Ä… tajemnicÄ™.}
 {238}{}{Jeszcze zobaczymy.}
-{239}{}{W takim razie kupiê te papiery.}
-{240}{}{Có¿, $200 to dla mnie trochê za du¿o. Mo¿e wrócê, jak bêdê mieæ wiêcej wolnej kasy.}
-{241}{}{Nie, dziêki. Mo¿e innym razem.}
-{242}{}{Co trzeba zrobiæ, ¿eby zostaæ prawdziwym Obywatelem?}
-{243}{}{Hmmm. Jeszcze raz - ile chcia³eœ za to obywatelstwo?}
-{244}{}{Jeœli bêdzie trzeba wyrywaæ j¹ z jego martwych palców, zrobiê to.}
-{245}{}{Jak siê zostaje prawdziwym Obywatelem?}
-{246}{}{Nic, niewa¿ne.}
-{247}{}{Nie, dziêki. Mo¿e innym razem.}
-{248}{}{Jeœli nie jesteœ urodzonym Obywatelem, to ¿eby nim zostaæ, musisz zdaæ egzamin. Ilu obcych zda³o egzamin na Obywatela? Zero. Ile wynosz¹ twoje szanse? Mniej ni¿ zero.}
+{239}{}{W takim razie kupiÄ™ te papiery.}
+{240}{}{CÃ³Å¼, $200 to dla mnie trochÄ™ za duÅ¼o. MoÅ¼e wrÃ³cÄ™, jak bÄ™dÄ™ mieÄ‡ wiÄ™cej wolnej kasy.}
+{241}{}{Nie, dziÄ™ki. MoÅ¼e innym razem.}
+{242}{}{Co trzeba zrobiÄ‡, Å¼eby zostaÄ‡ prawdziwym Obywatelem?}
+{243}{}{Hmmm. Jeszcze raz - ile chciaÅ‚eÅ› za to obywatelstwo?}
+{244}{}{JeÅ›li bÄ™dzie trzeba wyrywaÄ‡ jÄ… z jego martwych palcÃ³w, zrobiÄ™ to.}
+{245}{}{Jak siÄ™ zostaje prawdziwym Obywatelem?}
+{246}{}{Nic, niewaÅ¼ne.}
+{247}{}{Nie, dziÄ™ki. MoÅ¼e innym razem.}
+{248}{}{JeÅ›li nie jesteÅ› urodzonym Obywatelem, to Å¼eby nim zostaÄ‡, musisz zdaÄ‡ egzamin. Ilu obcych zdaÅ‚o egzamin na Obywatela? Zero. Ile wynoszÄ… twoje szanse? Mniej niÅ¼ zero.}
 {249}{}{Na czym polega egzamin?}
 {250}{}{Rozumiem. Jeszcze raz - ile za te papiery?}
-{251}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
-{252}{}{Gregory, Prokonsul, ka¿e rozwi¹zaæ "test" ka¿demu obcemu, który chce zostaæ Obywatelem. Ten test mierzy ich inteligencjê, spostrzegawczoœæ, no, a poza tym, trzeba mieæ te¿ kupê szczêœcia, ¿eby przez niego przebrn¹æ. Wiêkszoœæ Obywateli mia³aby z nim k³opoty.}
-{253}{}{Co sprawia, ¿e egzamin jest tak trudny?}
+{251}{}{NiewaÅ¼ne. MoÅ¼e pÃ³Åºniej pogadamy.}
+{252}{}{Gregory, Prokonsul, kaÅ¼e rozwiÄ…zaÄ‡ "test" kaÅ¼demu obcemu, ktÃ³ry chce zostaÄ‡ Obywatelem. Ten test mierzy ich inteligencjÄ™, spostrzegawczoÅ›Ä‡, no, a poza tym, trzeba mieÄ‡ teÅ¼ kupÄ™ szczÄ™Å›cia, Å¼eby przez niego przebrnÄ…Ä‡. WiÄ™kszoÅ›Ä‡ Obywateli miaÅ‚aby z nim kÅ‚opoty.}
+{253}{}{Co sprawia, Å¼e egzamin jest tak trudny?}
 {254}{}{Rozumiem. Jeszcze raz - ile za te papiery?}
-{255}{}{Hmmm. Mo¿e póŸniej pogadamy.}
-{256}{}{Wiêkszoœæ obcych nie umie czytaæ, nie zna siê na trygonometrii i nie potrafi przeliterowaæ s³owa "Konstantynopolitañczykowianeczka". Reszty mo¿na siê domyœleæ. To jest tylko taka przykrywka, ¿eby obcy nie mogli zostawaæ Obywatelami.}
+{255}{}{Hmmm. MoÅ¼e pÃ³Åºniej pogadamy.}
+{256}{}{WiÄ™kszoÅ›Ä‡ obcych nie umie czytaÄ‡, nie zna siÄ™ na trygonometrii i nie potrafi przeliterowaÄ‡ sÅ‚owa "KonstantynopolitaÅ„czykowianeczka". Reszty moÅ¼na siÄ™ domyÅ›leÄ‡. To jest tylko taka przykrywka, Å¼eby obcy nie mogli zostawaÄ‡ Obywatelami.}
 {257}{}{Rozumiem. Jeszcze raz - ile za te papiery?}
-{258}{}{Hmmm. Mo¿e póŸniej pogadamy.}
+{258}{}{Hmmm. MoÅ¼e pÃ³Åºniej pogadamy.}

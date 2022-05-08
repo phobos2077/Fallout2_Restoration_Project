@@ -10,30 +10,30 @@
 {109}{}{Arrombamento}
 {110}{}{Roubo}
 {111}{}{Armadilhas}
-{112}{}{Ciência}
+{112}{}{CiÃªncia}
 {113}{}{Reparo}
 {114}{}{Persuadir}
-{115}{}{Negociação}
+{115}{}{NegociaÃ§Ã£o}
 {116}{}{Jogos}
-{117}{}{Sobrevivência}
+{117}{}{SobrevivÃªncia}
 {200}{}{O uso, cuidados e conhecimentos gerais de pequenas armas de fogo - pistolas, SMGs e rifles.}
-{201}{}{O uso e manutenção das grandes armas - metralhadoras, lança-foguetes, lança-chamas e tal.}
-{202}{}{O cuidado e a alimentação de armas de energia.  Como armar e manejar armas que usam tecnologia a laser ou plasma.}
-{203}{}{Uma combinação de artes marciais, boxe e outras artes corpo a corpo.  Combata com as mãos e os pés.}
-{204}{}{É o uso de armas de mão, ou combate corpo a corpo - facas, marretas, lanças, tacos e assim por diante.}
-{205}{}{A habilidade de lançar varias armas como: facas, lanças e granadas.}
-{206}{}{Habilidade de cura geral.  Usado para curar pequenos cortes, escoriações e outros problemas menores.  Durante o jogo, o uso de primeiros socorros pode curar mais pontos de vida ao longo do tempo do que apenas descansar.}
-{207}{}{Para cura de grandes feridas e membros aleijados.  Sem essa habilidade, levará muito mais tempo para restaurar o uso destes mesmos membros.}
-{208}{}{Movimento silencioso e capacidade de passar despercebido.  Se for bem-sucedido, será muito mais difícil te localizar.  Você não pode correr e se esgueirar ao mesmo tempo.}
-{209}{}{A habilidade de abrir fechaduras sem a chave adequada. O uso de gazua ou gazuas eletrônicas aumentará muito essa habilidade.}
+{201}{}{O uso e manutenÃ§Ã£o das grandes armas - metralhadoras, lanÃ§a-foguetes, lanÃ§a-chamas e tal.}
+{202}{}{O cuidado e a alimentaÃ§Ã£o de armas de energia.  Como armar e manejar armas que usam tecnologia a laser ou plasma.}
+{203}{}{Uma combinaÃ§Ã£o de artes marciais, boxe e outras artes corpo a corpo.  Combata com as mÃ£os e os pÃ©s.}
+{204}{}{Ã‰ o uso de armas de mÃ£o, ou combate corpo a corpo - facas, marretas, lanÃ§as, tacos e assim por diante.}
+{205}{}{A habilidade de lanÃ§ar varias armas como: facas, lanÃ§as e granadas.}
+{206}{}{Habilidade de cura geral.  Usado para curar pequenos cortes, escoriaÃ§Ãµes e outros problemas menores.  Durante o jogo, o uso de primeiros socorros pode curar mais pontos de vida ao longo do tempo do que apenas descansar.}
+{207}{}{Para cura de grandes feridas e membros aleijados.  Sem essa habilidade, levarÃ¡ muito mais tempo para restaurar o uso destes mesmos membros.}
+{208}{}{Movimento silencioso e capacidade de passar despercebido.  Se for bem-sucedido, serÃ¡ muito mais difÃ­cil te localizar.  VocÃª nÃ£o pode correr e se esgueirar ao mesmo tempo.}
+{209}{}{A habilidade de abrir fechaduras sem a chave adequada. O uso de gazua ou gazuas eletrÃ´nicas aumentarÃ¡ muito essa habilidade.}
 {210}{}{A habilidade de de tomar as coisas dos outros.  Pode ser usado para roubar pessoas ou lugares.}
-{211}{}{A localização e remoção de armadilhas.  Também a colocação de explosivos para fins de demolição.}
-{212}{}{Abrange uma variedade de habilidades de alta tecnologia, como computadores, biologia, física e geologia.}
-{213}{}{A aplicação prática da habilidade ciência para a fixação de equipamentos quebrados, máquinas e eletrônicos.}
-{214}{}{Capacidade de se comunicar de maneira prática e eficiente.  A habilidade de convencer os outros de que seu raciocinio está correto. A capacidade de mentir e não ser pego.}
-{215}{}{Trocas e tarefas relacionadas ao comércio.  A habilidade de conseguir melhores preços para os itens que você vende e preços menores para os itens que compra.}
-{216}{}{O conhecimento e as habilidades práticas relacionadas às apostas.  A habilidade com cartas, dados e outros jogos.}
-{217}{}{Conhecimento prático ao ar livre e a capacidade de viver da terra. O conhecimento das plantas e animais.}
+{211}{}{A localizaÃ§Ã£o e remoÃ§Ã£o de armadilhas.  TambÃ©m a colocaÃ§Ã£o de explosivos para fins de demoliÃ§Ã£o.}
+{212}{}{Abrange uma variedade de habilidades de alta tecnologia, como computadores, biologia, fÃ­sica e geologia.}
+{213}{}{A aplicaÃ§Ã£o prÃ¡tica da habilidade ciÃªncia para a fixaÃ§Ã£o de equipamentos quebrados, mÃ¡quinas e eletrÃ´nicos.}
+{214}{}{Capacidade de se comunicar de maneira prÃ¡tica e eficiente.  A habilidade de convencer os outros de que seu raciocinio estÃ¡ correto. A capacidade de mentir e nÃ£o ser pego.}
+{215}{}{Trocas e tarefas relacionadas ao comÃ©rcio.  A habilidade de conseguir melhores preÃ§os para os itens que vocÃª vende e preÃ§os menores para os itens que compra.}
+{216}{}{O conhecimento e as habilidades prÃ¡ticas relacionadas Ã s apostas.  A habilidade com cartas, dados e outros jogos.}
+{217}{}{Conhecimento prÃ¡tico ao ar livre e a capacidade de viver da terra. O conhecimento das plantas e animais.}
 {300}{}{+ (4 x AG)}
 {301}{}{+ (2 x AG)}
 {302}{}{+ (2 x AG)}
@@ -53,44 +53,44 @@
 {316}{}{+ (5 x SO)}
 {317}{}{+ (2 x (RE + IN))}
 {500}{}{Cura %d pontos de vida.}
-{501}{}{Você parece saudável.}
-{502}{}{%s parece saudável.}
-{503}{}{Não consegue curar nada.}
+{501}{}{VocÃª parece saudÃ¡vel.}
+{502}{}{%s parece saudÃ¡vel.}
+{503}{}{NÃ£o consegue curar nada.}
 {505}{}{Ganhou %d XP por usar suas habilidades.}
-{510}{}{\nskill_use: habilidade usada não é válida.}
-{512}{}{Você não pode curar os mortos.}
+{510}{}{\nskill_use: habilidade usada nÃ£o Ã© vÃ¡lida.}
+{512}{}{VocÃª nÃ£o pode curar os mortos.}
 {513}{}{Deixe os mortos em paz.}
-{514}{}{Ele está morto, deixe-o em paz.}
-{520}{}{Você se cura %s.}
-{521}{}{Você cura %s.}
-{525}{}{Você não conseguem se curar %s.}
-{526}{}{Você não consegue cura-lo %s.}
+{514}{}{Ele estÃ¡ morto, deixe-o em paz.}
+{520}{}{VocÃª se cura %s.}
+{521}{}{VocÃª cura %s.}
+{525}{}{VocÃª nÃ£o conseguem se curar %s.}
+{526}{}{VocÃª nÃ£o consegue cura-lo %s.}
 {530}{}{olho ferido}
-{531}{}{braço esquerdo mutilado}
-{532}{}{braço direito mutilado}
+{531}{}{braÃ§o esquerdo mutilado}
+{532}{}{braÃ§o direito mutilado}
 {533}{}{perna direita mutilado}
 {534}{}{perna esquerda mutilado}
-{550}{}{Você falha em arrombar a fechadura.}
-{551}{}{Você não encontrar nenhuma armadilha.}
-{552}{}{Você não aprende nada.}
-{553}{}{Você não pode reparar isso.}
-{570}{}{Você foi pego roubando o %s.}
-{571}{}{Você rouba %s.}
-{572}{}{Você foi pego plantando %s.}
-{573}{}{Você planta %s.}
-{590}{}{Você já forçou a sua capacidade com essa habilidade. Espere um pouco.}
-{591}{}{Você está muito cansado.}
-{592}{}{O cansaço pode matá-lo.}
-{600}{}{Não tem habilidade suficiente para curar ossos quebrados.}
-{601}{}{Impossível reparar Unidade robótica.}
+{550}{}{VocÃª falha em arrombar a fechadura.}
+{551}{}{VocÃª nÃ£o encontrar nenhuma armadilha.}
+{552}{}{VocÃª nÃ£o aprende nada.}
+{553}{}{VocÃª nÃ£o pode reparar isso.}
+{570}{}{VocÃª foi pego roubando o %s.}
+{571}{}{VocÃª rouba %s.}
+{572}{}{VocÃª foi pego plantando %s.}
+{573}{}{VocÃª planta %s.}
+{590}{}{VocÃª jÃ¡ forÃ§ou a sua capacidade com essa habilidade. Espere um pouco.}
+{591}{}{VocÃª estÃ¡ muito cansado.}
+{592}{}{O cansaÃ§o pode matÃ¡-lo.}
+{600}{}{NÃ£o tem habilidade suficiente para curar ossos quebrados.}
+{601}{}{ImpossÃ­vel reparar Unidade robÃ³tica.}
 {1000}{}{Me deixe ajudar.}
 {1001}{}{Eu posso fazer isso.}
 {1002}{}{Eu entendi.}
 {1003}{}{Fico feliz em ajudar.}
 {1004}{}{Tudo bem.}
 {1005}{}{Eu vou tentar.}
-{1100}{}{Se você tiver problemas, me avise.}
-{1101}{}{Você entendeu?}
-{1102}{}{Se é isso que você quer.}
-{1103}{}{Vá em frente e tenta.}
-{1104}{}{Vá em frente.}
+{1100}{}{Se vocÃª tiver problemas, me avise.}
+{1101}{}{VocÃª entendeu?}
+{1102}{}{Se Ã© isso que vocÃª quer.}
+{1103}{}{VÃ¡ em frente e tenta.}
+{1104}{}{VÃ¡ em frente.}

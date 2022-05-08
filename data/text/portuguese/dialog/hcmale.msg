@@ -1,96 +1,96 @@
-{100}{}{Você vê um bípede macho da espécie homo sapiens.}
-{101}{}{Você vê um residente.}
-{102}{}{Você vê um residente. Ele é sujo, mas mantém uma postura confiante.}
-{131}{}{Todos os mutantes... mortos... não posso acreditar.}
+{100}{}{VocÃª vÃª um bÃ­pede macho da espÃ©cie homo sapiens.}
+{101}{}{VocÃª vÃª um residente.}
+{102}{}{VocÃª vÃª um residente. Ele Ã© sujo, mas mantÃ©m uma postura confiante.}
+{131}{}{Todos os mutantes... mortos... nÃ£o posso acreditar.}
 {132}{}{Quem faria algo assim?}
 {133}{}{De onde veio esse veneno?}
-{134}{}{Com todos os mutantes mortos, vamos precisar da proteção da NCR.}
-{135}{}{Quero me vingar de todos os desgraçados responsáveis.}
-{136}{}{Quem podemos matar como vingança?}
-{137}{}{A NCR tem um exército? Quem vai nos proteger agora?}
-{138}{}{Acho que agora não precisamos nos preocupar com possíveis revoltas de mutantes...}
-{139}{}{Pobre Marcus... quem vai se nosso líder?}
-{147}{}{Não há lugar seguro agora?}
+{134}{}{Com todos os mutantes mortos, vamos precisar da proteÃ§Ã£o da NCR.}
+{135}{}{Quero me vingar de todos os desgraÃ§ados responsÃ¡veis.}
+{136}{}{Quem podemos matar como vinganÃ§a?}
+{137}{}{A NCR tem um exÃ©rcito? Quem vai nos proteger agora?}
+{138}{}{Acho que agora nÃ£o precisamos nos preocupar com possÃ­veis revoltas de mutantes...}
+{139}{}{Pobre Marcus... quem vai se nosso lÃ­der?}
+{147}{}{NÃ£o hÃ¡ lugar seguro agora?}
 {148}{}{Quando os bandidos se tornaram algo comum?}
-{149}{}{Estou pensando em me mudar... não é mais seguro aqui.}
-{150}{}{Ouvi dizer que Franc e Manson são verdadeiros odiadores de mutantes.}
-{151}{}{Fico feliz por eles terem saído... Queria saber onde eles estão agora.}
-{152}{}{Franc e Manson são venenosos. Esta cidade nunca mais será a mesma enquanto eles não forem pegos.}
-{153}{}{Quem mataria aqueles guardas? Isso é desumano.}
-{154}{}{Eu não posso acreditar que essa cidade costumava ser tão tranquila.}
-{155}{}{Como você conseguiu convencer os guardas a deixar esses dois desgraçados saírem?}
-{156}{}{Obrigado por liberar Franc e Manson. Eles não estavam causando nenhum problema real.}
-{157}{}{Onde estão Franc e Manson agora? Eles precisam muito voltar para a cadeia.}
-{158}{}{Alguns dos meus melhores amigos são mutantes e ghouls...}
-{159}{}{Eu gostaria de ter mais algumas lâmpadas.}
-{160}{}{Que cheiro é esse?}
+{149}{}{Estou pensando em me mudar... nÃ£o Ã© mais seguro aqui.}
+{150}{}{Ouvi dizer que Franc e Manson sÃ£o verdadeiros odiadores de mutantes.}
+{151}{}{Fico feliz por eles terem saÃ­do... Queria saber onde eles estÃ£o agora.}
+{152}{}{Franc e Manson sÃ£o venenosos. Esta cidade nunca mais serÃ¡ a mesma enquanto eles nÃ£o forem pegos.}
+{153}{}{Quem mataria aqueles guardas? Isso Ã© desumano.}
+{154}{}{Eu nÃ£o posso acreditar que essa cidade costumava ser tÃ£o tranquila.}
+{155}{}{Como vocÃª conseguiu convencer os guardas a deixar esses dois desgraÃ§ados saÃ­rem?}
+{156}{}{Obrigado por liberar Franc e Manson. Eles nÃ£o estavam causando nenhum problema real.}
+{157}{}{Onde estÃ£o Franc e Manson agora? Eles precisam muito voltar para a cadeia.}
+{158}{}{Alguns dos meus melhores amigos sÃ£o mutantes e ghouls...}
+{159}{}{Eu gostaria de ter mais algumas lÃ¢mpadas.}
+{160}{}{Que cheiro Ã© esse?}
 {161}{}{Estou preocupado que a NCR tente nos enganar.}
-{162}{}{Você acha que New Reno seria um bom lugar para morar?}
-{163}{}{Eu não tenho nada contra mutantes, mas eles têm uma aparência bem zuada.}
-{164}{}{Eu diria "bom trabalho", mas provavelmente você me entregaria.}
-{165}{}{Jacob e Aileen odiavam mutantes, é? Eles pareciam tão legais.}
+{162}{}{VocÃª acha que New Reno seria um bom lugar para morar?}
+{163}{}{Eu nÃ£o tenho nada contra mutantes, mas eles tÃªm uma aparÃªncia bem zuada.}
+{164}{}{Eu diria "bom trabalho", mas provavelmente vocÃª me entregaria.}
+{165}{}{Jacob e Aileen odiavam mutantes, Ã©? Eles pareciam tÃ£o legais.}
 {166}{}{Venha... Aileen?}
-{167}{}{Eu não posso acreditar que as relações humano/mutante decaíram tanto.}
+{167}{}{Eu nÃ£o posso acreditar que as relaÃ§Ãµes humano/mutante decaÃ­ram tanto.}
 {168}{}{Marcus deve estar pistola com os humanos agora.}
 {169}{}{Acho que seria melhor para todos os humanos relaxarem e respirarem calmamente por um tempo.}
-{170}{}{Ouvi dizer que os mutantes estão se reunindo para destruir os humanos!}
+{170}{}{Ouvi dizer que os mutantes estÃ£o se reunindo para destruir os humanos!}
 {171}{}{O que os ghouls pensam sobre tudo isso?}
-{172}{}{A mina... destruída ... agora nossas casas não valem nada. }
+{172}{}{A mina... destruÃ­da ... agora nossas casas nÃ£o valem nada. }
 {173}{}{Estamos acabados.}
-{174}{}{Esse é o fim de Broken Hills.}
+{174}{}{Esse Ã© o fim de Broken Hills.}
 {175}{}{Eu vou para a NCR.}
 {176}{}{Quem faria uma coisa dessas?}
 {177}{}{Meu Deus... a mina...}
-{178}{}{Onde está a justiça desse mundo?}
-{179}{}{Acho que vou me matar. Sem a mina, não posso me sustentar.}
-{180}{}{Oh querida... a vida é difícil.}
-{181}{}{Uau .. Eu nunca conheci ninguém forte o suficiente para vencer Francis.}
-{182}{}{Você é muito forte!}
-{183}{}{Você é realmente durão, hein?}
-{184}{}{Às vezes me sinto como uma bola-8 mágica. Eu só falo coisas aleatórias e saio.}
-{185}{}{Você já lutou contra um deathclaw?}
-{186}{}{Você é tão inteligente quanto forte?}
-{187}{}{Francis parece que está feliz ultimamente.}
-{188}{}{Francis parece radiante. Meteu com alguém?}
-{189}{}{Olá, gimp!}
-{190}{}{Você ainda anda ereto?}
+{178}{}{Onde estÃ¡ a justiÃ§a desse mundo?}
+{179}{}{Acho que vou me matar. Sem a mina, nÃ£o posso me sustentar.}
+{180}{}{Oh querida... a vida Ã© difÃ­cil.}
+{181}{}{Uau .. Eu nunca conheci ninguÃ©m forte o suficiente para vencer Francis.}
+{182}{}{VocÃª Ã© muito forte!}
+{183}{}{VocÃª Ã© realmente durÃ£o, hein?}
+{184}{}{Ã€s vezes me sinto como uma bola-8 mÃ¡gica. Eu sÃ³ falo coisas aleatÃ³rias e saio.}
+{185}{}{VocÃª jÃ¡ lutou contra um deathclaw?}
+{186}{}{VocÃª Ã© tÃ£o inteligente quanto forte?}
+{187}{}{Francis parece que estÃ¡ feliz ultimamente.}
+{188}{}{Francis parece radiante. Meteu com alguÃ©m?}
+{189}{}{OlÃ¡, gimp!}
+{190}{}{VocÃª ainda anda ereto?}
 {191}{}{Francis te machucou?}
-{192}{}{Você tem uma pequena mancha, ali.}
-{193}{}{Como você pode estúpido ao ponto de lutar contra Francis com suas possibilidades?}
-{194}{}{Espero que você tenha gostado tanto quanto Francis.}
-{198}{}{Fico feliz em ter você na cidade.}
+{192}{}{VocÃª tem uma pequena mancha, ali.}
+{193}{}{Como vocÃª pode estÃºpido ao ponto de lutar contra Francis com suas possibilidades?}
+{194}{}{Espero que vocÃª tenha gostado tanto quanto Francis.}
+{198}{}{Fico feliz em ter vocÃª na cidade.}
 {199}{}{Vai ficar um pouco por aqui?}
-{200}{}{Eu espero que você goste disso aqui!}
-{201}{}{Você está fazendo um bom trabalho. Já pensou em ser xerife?}
+{200}{}{Eu espero que vocÃª goste disso aqui!}
+{201}{}{VocÃª estÃ¡ fazendo um bom trabalho. JÃ¡ pensou em ser xerife?}
 {202}{}{A cidade parece muito mais bonita ultimamente.}
-{203}{}{Parece que as coisas finalmente estão começando a se ajustar.}
+{203}{}{Parece que as coisas finalmente estÃ£o comeÃ§ando a se ajustar.}
 {204}{}{Afaste-se de mim, canalha.}
-{205}{}{Eu não me associo com sua espécie.}
-{206}{}{Quem deixou você?}
-{207}{}{Não sei por que não te expulsam da cidade.}
+{205}{}{Eu nÃ£o me associo com sua espÃ©cie.}
+{206}{}{Quem deixou vocÃª?}
+{207}{}{NÃ£o sei por que nÃ£o te expulsam da cidade.}
 {208}{}{Por favor, me deixe em paz.}
-{209}{}{Não me incomode.}
-{210}{}{Eu não posso te ajudar. Vá embora.}
+{209}{}{NÃ£o me incomode.}
+{210}{}{Eu nÃ£o posso te ajudar. VÃ¡ embora.}
 {211}{}{Morra no deserto, idiota.}
-{212}{}{Vá embora.}
+{212}{}{VÃ¡ embora.}
 {213}{}{Socorro!}
-{214}{}{Ele está aqui!}
+{214}{}{Ele estÃ¡ aqui!}
 {215}{}{Aaaaaaaaaaah!}
 {216}{}{Traidor!}
 {217}{}{Canalha!}
 {218}{}{Deixe-me em paz!}
-{219}{}{Não! Não! Não!}
-{220}{}{Não me toque!}
-{221}{}{Não me machucar!}
+{219}{}{NÃ£o! NÃ£o! NÃ£o!}
+{220}{}{NÃ£o me toque!}
+{221}{}{NÃ£o me machucar!}
 {250}{}{Essas pobres pessoas.}
 {251}{}{Quem caiu da escada de Jacob?}
-{252}{}{Olha só o que o deserto trouxe.}
-{253}{}{Alguns dos meus melhores amigos são mutantes e ghouls...}
-{254}{}{Eu gostaria de ter mais algumas lâmpadas.}
-{255}{}{Que cheiro é esse?}
+{252}{}{Olha sÃ³ o que o deserto trouxe.}
+{253}{}{Alguns dos meus melhores amigos sÃ£o mutantes e ghouls...}
+{254}{}{Eu gostaria de ter mais algumas lÃ¢mpadas.}
+{255}{}{Que cheiro Ã© esse?}
 {256}{}{Estou preocupado que a NCR tente nos enganar.}
-{257}{}{Você acha que New Reno seria um bom lugar para morar?}
-{258}{}{Eu não tenho nada contra mutantes, mas eles têm uma aparência bem zuada.}
-{259}{}{A vida é dura. O licor barato de Phil não deveria ser.}
-{260}{}{Eu não acredito naquele morfético. }
+{257}{}{VocÃª acha que New Reno seria um bom lugar para morar?}
+{258}{}{Eu nÃ£o tenho nada contra mutantes, mas eles tÃªm uma aparÃªncia bem zuada.}
+{259}{}{A vida Ã© dura. O licor barato de Phil nÃ£o deveria ser.}
+{260}{}{Eu nÃ£o acredito naquele morfÃ©tico. }
 {261}{}{O bafo do meu gato cheira a comida de gato.}

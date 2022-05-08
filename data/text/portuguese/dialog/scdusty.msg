@@ -25,7 +25,7 @@
 {124}{}{Obrigado.}
 {125}{}{Would you like a drink?}
 {126}{}{Com certeza.}
-{127}{}{Não.}
+{127}{}{NÃ£o.}
 {128}{}{Let me buy you a drink! I've been wanting to smack him around for years!}
 {129}{}{I've got some questions.}
 {130}{}{Good! Bye.}

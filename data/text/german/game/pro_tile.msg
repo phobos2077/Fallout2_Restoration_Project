@@ -935,4 +935,4 @@
 {388400}{}{Dach}
 {388500}{}{Dach}
 {388600}{}{Dach}
-{388700}{}{Dachentlüftung}
+{388700}{}{DachentlÃ¼ftung}

@@ -1,266 +1,266 @@
-{100}{}{Ez itt egy jókép? fekete fickó... illetve, nem egészen. Ez itt T-Ray.}
-{150}{}{Egy nagyon izmos férfihez van szerencséd. Vastag szemüveget hord, ezenkív?l könnyed szakállal és modorral rendelkezik.}
-{151}{}{Ez itt T-Ray. Elég jól mutat a farmerszerkójában.}
-{152}{}{? T-Ray. Néha feszegetni kezdi az izmait, és a bicpeszét tapogatva mormogja: "francba".}
-{153}{}{Az igazi T-Ray alig-alig érezhet? a felvett modor mögött.}
-{200}{}{Hé, nem az én hibám, hogy az óvszer, amit használtunk, lyukas volt.}
-{201}{}{H?ha! Én ugyan nem fecsegtem senkinek arról, ami köztünk volt. Tényleg! Valaki más lehetett.}
-{202}{}{FRANCBA, asszony! Miután megdöntöttelek, mész és megmented a világot! Ez a T-Ray azért tud valamit, nem igaz?!}
-{210}{}{Mondogatom mindenkinek, hogy te meg én együtt voltunk. Meg hogy ha én kérek valamit, olyan, mintha te parancsolnál rám.}
-{211}{}{Szerencsés vagy, hogy éppen ott voltam, és megmentettem az irhádat. Az Enklávé megevett volna REGGELIRE.}
-{212}{}{Hela, h?söm. Ugye elmondod mindenkinek, hogy T-Ray a barátod?}
-{220}{}{Azta, egy felséges személy jár köztünk. Hatalmas h?s jött el hozzánk.}
-{221}{}{Hát beugorhattál volna, miel?tt mész és megcsinálod azt a sok szarságot. Segíthettem volna kinyúvasztani az Elnököt.}
-{222}{}{Nekem is oda kellett volna mennem az Enklávéhoz. Kár, hogy minden id?met elvitte a telefonálás.}
-{230}{}{Hány lóer?s az az izé ott rajtad?}
-{231}{}{Hogy mész fürdeni, ha ez a fémvacak rajtad van?}
-{232}{}{Van rá esély, hogy egy kicsit kipróbáljam azt a páncélt? Nem akarom lenyúlni, csak kölcsönvenni.}
-{250}{}{Már megint itt van az a fickó és el akar nyomni!}
-{251}{}{Igen, az Impala jó autó, de egy Omni-val nem ér fel.}
-{252}{}{Bármikor is szeretkezünk, olyan, mint a forró láva...}
-{253}{}{A mindenit, ennek az autónak sürg?sen kell egy sárgaréz rendszámtábla-keret.}
-{254}{}{A motorja még mindig pöpec.}
-{255}{}{Az utastérnek olyan szaga van, mintha beleszartak volna.}
-{256}{}{Az utastérnek olyan szaga van, mint a gekkó seggének.}
-{257}{}{Szerinted mi a büdös fenének kellhet egy autó?}
-{258}{}{A kocsinak nem k? m?ködni, hogy elvigyen, ahova akarod, fogodadumát?}
-{259}{}{Gyors kocsival nem tudok szolgálni, gyors szexszel igen.}
+{100}{}{Ez itt egy jÃ³kÃ©p? fekete fickÃ³... illetve, nem egÃ©szen. Ez itt T-Ray.}
+{150}{}{Egy nagyon izmos fÃ©rfihez van szerencsÃ©d. Vastag szemÃ¼veget hord, ezenkÃ­v?l kÃ¶nnyed szakÃ¡llal Ã©s modorral rendelkezik.}
+{151}{}{Ez itt T-Ray. ElÃ©g jÃ³l mutat a farmerszerkÃ³jÃ¡ban.}
+{152}{}{? T-Ray. NÃ©ha feszegetni kezdi az izmait, Ã©s a bicpeszÃ©t tapogatva mormogja: "francba".}
+{153}{}{Az igazi T-Ray alig-alig Ã©rezhet? a felvett modor mÃ¶gÃ¶tt.}
+{200}{}{HÃ©, nem az Ã©n hibÃ¡m, hogy az Ã³vszer, amit hasznÃ¡ltunk, lyukas volt.}
+{201}{}{H?ha! Ã‰n ugyan nem fecsegtem senkinek arrÃ³l, ami kÃ¶ztÃ¼nk volt. TÃ©nyleg! Valaki mÃ¡s lehetett.}
+{202}{}{FRANCBA, asszony! MiutÃ¡n megdÃ¶ntÃ¶ttelek, mÃ©sz Ã©s megmented a vilÃ¡got! Ez a T-Ray azÃ©rt tud valamit, nem igaz?!}
+{210}{}{Mondogatom mindenkinek, hogy te meg Ã©n egyÃ¼tt voltunk. Meg hogy ha Ã©n kÃ©rek valamit, olyan, mintha te parancsolnÃ¡l rÃ¡m.}
+{211}{}{SzerencsÃ©s vagy, hogy Ã©ppen ott voltam, Ã©s megmentettem az irhÃ¡dat. Az EnklÃ¡vÃ© megevett volna REGGELIRE.}
+{212}{}{Hela, h?sÃ¶m. Ugye elmondod mindenkinek, hogy T-Ray a barÃ¡tod?}
+{220}{}{Azta, egy felsÃ©ges szemÃ©ly jÃ¡r kÃ¶ztÃ¼nk. Hatalmas h?s jÃ¶tt el hozzÃ¡nk.}
+{221}{}{HÃ¡t beugorhattÃ¡l volna, miel?tt mÃ©sz Ã©s megcsinÃ¡lod azt a sok szarsÃ¡got. SegÃ­thettem volna kinyÃºvasztani az ElnÃ¶kÃ¶t.}
+{222}{}{Nekem is oda kellett volna mennem az EnklÃ¡vÃ©hoz. KÃ¡r, hogy minden id?met elvitte a telefonÃ¡lÃ¡s.}
+{230}{}{HÃ¡ny lÃ³er?s az az izÃ© ott rajtad?}
+{231}{}{Hogy mÃ©sz fÃ¼rdeni, ha ez a fÃ©mvacak rajtad van?}
+{232}{}{Van rÃ¡ esÃ©ly, hogy egy kicsit kiprÃ³bÃ¡ljam azt a pÃ¡ncÃ©lt? Nem akarom lenyÃºlni, csak kÃ¶lcsÃ¶nvenni.}
+{250}{}{MÃ¡r megint itt van az a fickÃ³ Ã©s el akar nyomni!}
+{251}{}{Igen, az Impala jÃ³ autÃ³, de egy Omni-val nem Ã©r fel.}
+{252}{}{BÃ¡rmikor is szeretkezÃ¼nk, olyan, mint a forrÃ³ lÃ¡va...}
+{253}{}{A mindenit, ennek az autÃ³nak sÃ¼rg?sen kell egy sÃ¡rgarÃ©z rendszÃ¡mtÃ¡bla-keret.}
+{254}{}{A motorja mÃ©g mindig pÃ¶pec.}
+{255}{}{Az utastÃ©rnek olyan szaga van, mintha beleszartak volna.}
+{256}{}{Az utastÃ©rnek olyan szaga van, mint a gekkÃ³ seggÃ©nek.}
+{257}{}{Szerinted mi a bÃ¼dÃ¶s fenÃ©nek kellhet egy autÃ³?}
+{258}{}{A kocsinak nem k? m?kÃ¶dni, hogy elvigyen, ahova akarod, fogodadumÃ¡t?}
+{259}{}{Gyors kocsival nem tudok szolgÃ¡lni, gyors szexszel igen.}
 {260}{}{Nem hiszem el, hogy ekkora dorongom van.}
-{261}{}{Akkora l?csöm van, mint egy kétfej? brahminnak.}
-{262}{}{A Highwaymanbe abszolút analóg rendszert építettek, több, mint 800 lóer?s, nulláról százra kevesebb, mint egy másodperc alatt gyorsul.}
-{263}{}{Hogy gyors-e? A Highwayman egy másodpercnél is kevesebb id? alatt gyorsul nulláról százra.}
-{264}{}{A Highwaymanben aztán van izom. Több, mint 800 lóer?s!}
-{265}{}{A Highwaymanbe semmiféle számítógépet nem raktak, teljesen analóg a rendszer. Sallangmentes úgy ahogy kell.}
-{266}{}{A Highywayman dögös kocsi. A Chryslus mindig is tudta, mit?l döglik a légy.}
-{267}{}{Beszerelek bármit.}
-{268}{}{Ha be akarsz szeretletetni valamit, csak szólj!}
+{261}{}{Akkora l?csÃ¶m van, mint egy kÃ©tfej? brahminnak.}
+{262}{}{A Highwaymanbe abszolÃºt analÃ³g rendszert Ã©pÃ­tettek, tÃ¶bb, mint 800 lÃ³er?s, nullÃ¡rÃ³l szÃ¡zra kevesebb, mint egy mÃ¡sodperc alatt gyorsul.}
+{263}{}{Hogy gyors-e? A Highwayman egy mÃ¡sodpercnÃ©l is kevesebb id? alatt gyorsul nullÃ¡rÃ³l szÃ¡zra.}
+{264}{}{A Highwaymanben aztÃ¡n van izom. TÃ¶bb, mint 800 lÃ³er?s!}
+{265}{}{A Highwaymanbe semmifÃ©le szÃ¡mÃ­tÃ³gÃ©pet nem raktak, teljesen analÃ³g a rendszer. Sallangmentes Ãºgy ahogy kell.}
+{266}{}{A Highywayman dÃ¶gÃ¶s kocsi. A Chryslus mindig is tudta, mit?l dÃ¶glik a lÃ©gy.}
+{267}{}{Beszerelek bÃ¡rmit.}
+{268}{}{Ha be akarsz szeretletetni valamit, csak szÃ³lj!}
 {275}{}{Ki vagy te? Mit dolgod itt?}
-{276}{}{A mindenit, nézzétek már ki jött közénk... asszem, a badizás végre kifizet?dik. Mit tehetünk érted, édesem?}
-{277}{}{Már megint te vagy? MOST ÉPPEN mit akarsz?}
-{278}{}{Fenébe, asszony... már megint te vagy? Most éppen mit akarsz? Nem akarom lépten-nyomon azt a baromságot hallgatni, hogy t?lem lettél terhes...}
+{276}{}{A mindenit, nÃ©zzÃ©tek mÃ¡r ki jÃ¶tt kÃ¶zÃ©nk... asszem, a badizÃ¡s vÃ©gre kifizet?dik. Mit tehetÃ¼nk Ã©rted, Ã©desem?}
+{277}{}{MÃ¡r megint te vagy? MOST Ã‰PPEN mit akarsz?}
+{278}{}{FenÃ©be, asszony... mÃ¡r megint te vagy? Most Ã©ppen mit akarsz? Nem akarom lÃ©pten-nyomon azt a baromsÃ¡got hallgatni, hogy t?lem lettÃ©l terhes...}
 {279}{}{}
 {280}{}{ tesz amit }
-{281}{}{ lát jónak}
-{282}{}{Elpályázol}
+{281}{}{ lÃ¡t jÃ³nak}
+{282}{}{ElpÃ¡lyÃ¡zol}
 {283}{}{Honnan szedted azt a Highwaymant? Nagyon tetszik az a kocsi.}
-{284}{}{A garázsban álló kocsi az ENYÉM!}
-{285}{}{Szóval te loptad el a kocsimat, seggarc?}
+{284}{}{A garÃ¡zsban Ã¡llÃ³ kocsi az ENYÃ‰M!}
+{285}{}{SzÃ³val te loptad el a kocsimat, seggarc?}
 {286}{}{Bishop embere vagyok, }
-{287}{}{Bishop egyik embere vagyok. A kocsiért jöttem.}
-{288}{}{Azért jöttem, hogy begy?jtsem Mr. Bishop ingyen aksijait.}
+{287}{}{Bishop egyik embere vagyok. A kocsiÃ©rt jÃ¶ttem.}
+{288}{}{AzÃ©rt jÃ¶ttem, hogy begy?jtsem Mr. Bishop ingyen aksijait.}
 {289}{}{Fel tudod tuningolni a Highwaymant?}
-{290}{}{Vásárolhatok néhány aksit t?led?}
-{291}{}{Semmi-semmi. Most épp lépnem kell.}
-{300}{}{Ez NEM a fürd?szoba, EMBER, az hóttuti, hogy ide be nem teszed a lábad. Na, lódulj!}
-{301}{}{Ez NEM a fürd?szoba, BÉBI, az hóttuti, hogy ide be nem teszed a lábad. Na, lódulj!}
-{302}{}{Itt akarsz NYOMULNI??? Hát... (Végigmér.) ...ha egy férfinek meg kell tenni valamit, hát meg kell tenni. Na, akkó repüjjünk rá a témára!}
-{303}{}{[Bólogatsz]}
+{290}{}{VÃ¡sÃ¡rolhatok nÃ©hÃ¡ny aksit t?led?}
+{291}{}{Semmi-semmi. Most Ã©pp lÃ©pnem kell.}
+{300}{}{Ez NEM a fÃ¼rd?szoba, EMBER, az hÃ³ttuti, hogy ide be nem teszed a lÃ¡bad. Na, lÃ³dulj!}
+{301}{}{Ez NEM a fÃ¼rd?szoba, BÃ‰BI, az hÃ³ttuti, hogy ide be nem teszed a lÃ¡bad. Na, lÃ³dulj!}
+{302}{}{Itt akarsz NYOMULNI??? HÃ¡t... (VÃ©gigmÃ©r.) ...ha egy fÃ©rfinek meg kell tenni valamit, hÃ¡t meg kell tenni. Na, akkÃ³ repÃ¼jjÃ¼nk rÃ¡ a tÃ©mÃ¡ra!}
+{303}{}{[BÃ³logatsz]}
 {304}{}{[Ingatod a fejed]}
-{306}{}{Rárepültök a témára...}
-{307}{}{Ööö, kösz de mégsem. Meggondoltam magam. Csá...}
+{306}{}{RÃ¡repÃ¼ltÃ¶k a tÃ©mÃ¡ra...}
+{307}{}{Ã–Ã¶Ã¶, kÃ¶sz de mÃ©gsem. Meggondoltam magam. CsÃ¡...}
 {320}{}{Aiight then...}
-{321}{}{Öh-öh-öh}
-{330}{}{Á, szóval csak játszadozol itt az öreg T-Ray bácsival? Rendben van. T?nés, asszony... az id?met jobb ribancokra is el tudom költeni.}
-{331}{}{A zid? sohasoha megnem áll... a pillanyat e lillan, tovaszáááál }
-{333}{}{Ha még képes vagy esetleg kutyákat befogni, akkor nyugodtan csinálj velük bármit, ami eszedbe jut. Na, légy jó, és szobatiszta!}
-{334}{}{Az, hogy kutyákkal is szexelsz, egyáltalán nem lep meg. Na, csá...}
-{340}{}{A Highwaymanre gondolsz, odakinn? Hát az a kocsi eszméletlenül bejön. Pazar darab mondhatom, nemrég szerváltuk... gondoltuk, feldobjuk kicsit, ráhajítunk kisebb tuningokat, aztán eladjuk az öreg Bishopnak.}
-{341}{}{Miféle kisebb "tuningokról" beszél a szád?}
-{342}{}{BISHOPNAK akartátok eladni? Na, figyelj, idióta... Bishop megh... öö, úgy értem, az én ajánlatom is van olyan jó, mint a Bishopé.}
-{343}{}{BISHOPNAK akarjátok eladni? Francba! Az én ajánlatom is van olyan jó, mint Bishopé, s?t még rá is tudok dobni egy lapáttal.}
-{344}{}{Micsoda véletlen egybeesés! Én egész véletlenül Bishop embere vagyok, }
-{346}{}{Az a nagy helyzet, hogy te azt az autót senkinek nem fogod eladni. Ugyanis az az enyém.}
-{347}{}{Jó üzletnek t?nik. Kés?bb még találkozunk.}
-{360}{}{A motort kissé felzizzentjük, kitakarítjuk az utasteret, rárakunk egy sárgaréz rendszámtáblát, és hogy legyen hely benne, kihajítunk egy-két szart, ami csak a helyet foglalja a csomagtartóban. Ha kész, egészen szép summát lehet leakasztani Mr. Bishopról.}
-{361}{}{BISHOPNAK akarjátok eladni? Az én ajánlatom is van olyan jó, mint Bishopé, s?t még rá is tudok dobni egy lapáttal.}
-{362}{}{Micsoda véletlen egybeesés! Én egész véletlenül Bishop egyik embere vagyok: }
-{365}{}{Jól hangzik. Kés?bb találkozunk.}
-{375}{}{Rá akarsz licitálni BISHOP ajánlatára? Nagy lér?l van ám szó, ember! Tömérdek dolcsiról. Ezenkívül ? a renói nagykutyák egyike, ha nem tudnád. Elviszem én neki a gépet, tudod... csurran-cseppen még más is.}
-{376}{}{Rá akarsz licitálni BISHOP ajánlatára? Nagy lér?l van ám szó, asszony! Tömérdek dolcsiról. Ezenkívül ? a renói nagykutyák egyike, ha nem tudnád. Elviszem én neki a gépet, tudod... csurran-cseppen még más is.}
+{321}{}{Ã–h-Ã¶h-Ã¶h}
+{330}{}{Ã, szÃ³val csak jÃ¡tszadozol itt az Ã¶reg T-Ray bÃ¡csival? Rendben van. T?nÃ©s, asszony... az id?met jobb ribancokra is el tudom kÃ¶lteni.}
+{331}{}{A zid? sohasoha megnem Ã¡ll... a pillanyat e lillan, tovaszÃ¡Ã¡Ã¡Ã¡l }
+{333}{}{Ha mÃ©g kÃ©pes vagy esetleg kutyÃ¡kat befogni, akkor nyugodtan csinÃ¡lj velÃ¼k bÃ¡rmit, ami eszedbe jut. Na, lÃ©gy jÃ³, Ã©s szobatiszta!}
+{334}{}{Az, hogy kutyÃ¡kkal is szexelsz, egyÃ¡ltalÃ¡n nem lep meg. Na, csÃ¡...}
+{340}{}{A Highwaymanre gondolsz, odakinn? HÃ¡t az a kocsi eszmÃ©letlenÃ¼l bejÃ¶n. Pazar darab mondhatom, nemrÃ©g szervÃ¡ltuk... gondoltuk, feldobjuk kicsit, rÃ¡hajÃ­tunk kisebb tuningokat, aztÃ¡n eladjuk az Ã¶reg Bishopnak.}
+{341}{}{MifÃ©le kisebb "tuningokrÃ³l" beszÃ©l a szÃ¡d?}
+{342}{}{BISHOPNAK akartÃ¡tok eladni? Na, figyelj, idiÃ³ta... Bishop megh... Ã¶Ã¶, Ãºgy Ã©rtem, az Ã©n ajÃ¡nlatom is van olyan jÃ³, mint a BishopÃ©.}
+{343}{}{BISHOPNAK akarjÃ¡tok eladni? Francba! Az Ã©n ajÃ¡nlatom is van olyan jÃ³, mint BishopÃ©, s?t mÃ©g rÃ¡ is tudok dobni egy lapÃ¡ttal.}
+{344}{}{Micsoda vÃ©letlen egybeesÃ©s! Ã‰n egÃ©sz vÃ©letlenÃ¼l Bishop embere vagyok, }
+{346}{}{Az a nagy helyzet, hogy te azt az autÃ³t senkinek nem fogod eladni. Ugyanis az az enyÃ©m.}
+{347}{}{JÃ³ Ã¼zletnek t?nik. KÃ©s?bb mÃ©g talÃ¡lkozunk.}
+{360}{}{A motort kissÃ© felzizzentjÃ¼k, kitakarÃ­tjuk az utasteret, rÃ¡rakunk egy sÃ¡rgarÃ©z rendszÃ¡mtÃ¡blÃ¡t, Ã©s hogy legyen hely benne, kihajÃ­tunk egy-kÃ©t szart, ami csak a helyet foglalja a csomagtartÃ³ban. Ha kÃ©sz, egÃ©szen szÃ©p summÃ¡t lehet leakasztani Mr. BishoprÃ³l.}
+{361}{}{BISHOPNAK akarjÃ¡tok eladni? Az Ã©n ajÃ¡nlatom is van olyan jÃ³, mint BishopÃ©, s?t mÃ©g rÃ¡ is tudok dobni egy lapÃ¡ttal.}
+{362}{}{Micsoda vÃ©letlen egybeesÃ©s! Ã‰n egÃ©sz vÃ©letlenÃ¼l Bishop egyik embere vagyok: }
+{365}{}{JÃ³l hangzik. KÃ©s?bb talÃ¡lkozunk.}
+{375}{}{RÃ¡ akarsz licitÃ¡lni BISHOP ajÃ¡nlatÃ¡ra? Nagy lÃ©r?l van Ã¡m szÃ³, ember! TÃ¶mÃ©rdek dolcsirÃ³l. EzenkÃ­vÃ¼l ? a renÃ³i nagykutyÃ¡k egyike, ha nem tudnÃ¡d. Elviszem Ã©n neki a gÃ©pet, tudod... csurran-cseppen mÃ©g mÃ¡s is.}
+{376}{}{RÃ¡ akarsz licitÃ¡lni BISHOP ajÃ¡nlatÃ¡ra? Nagy lÃ©r?l van Ã¡m szÃ³, asszony! TÃ¶mÃ©rdek dolcsirÃ³l. EzenkÃ­vÃ¼l ? a renÃ³i nagykutyÃ¡k egyike, ha nem tudnÃ¡d. Elviszem Ã©n neki a gÃ©pet, tudod... csurran-cseppen mÃ©g mÃ¡s is.}
 {377}{}{I'm listening...}
-{378}{}{1000 dolcsi esetleg megváltoztatná az álláspontodat?}
-{379}{}{750 dolcsi esetleg megváltoztatná az álláspontodat?}
-{380}{}{500 dolcsi esetleg megváltoztatná az álláspontodat?}
-{381}{}{Az a helyzet, hogy most nincs nálam elég pénz, hogy megfelel? ajánlatot tehessek...}
-{382}{}{Mit szólnál egy kis etyepetyéhez, T-Ray? Soha jobb dologban nem lesz részed.}
-{383}{}{Az ajánlatom a következ?: Ha most azonnal visszaadod az autómat, nem szabdallak darabokra. Na?}
+{378}{}{1000 dolcsi esetleg megvÃ¡ltoztatnÃ¡ az Ã¡llÃ¡spontodat?}
+{379}{}{750 dolcsi esetleg megvÃ¡ltoztatnÃ¡ az Ã¡llÃ¡spontodat?}
+{380}{}{500 dolcsi esetleg megvÃ¡ltoztatnÃ¡ az Ã¡llÃ¡spontodat?}
+{381}{}{Az a helyzet, hogy most nincs nÃ¡lam elÃ©g pÃ©nz, hogy megfelel? ajÃ¡nlatot tehessek...}
+{382}{}{Mit szÃ³lnÃ¡l egy kis etyepetyÃ©hez, T-Ray? Soha jobb dologban nem lesz rÃ©szed.}
+{383}{}{Az ajÃ¡nlatom a kÃ¶vetkez?: Ha most azonnal visszaadod az autÃ³mat, nem szabdallak darabokra. Na?}
 {384}{}{Felejtsd el... most mennem kell.}
-{395}{}{Ember, ez az összeg egy új öltönyre nem elég, nemhogy arra az autóra! }
-{396}{}{Asszony, ez az összeg egy új öltönyre nem elég, nemhogy arra az autóra! }
-{397}{}{Nyilván azt gondolod, az autók olcsók.}
-{398}{}{Akkor tárgyaljuk újra a dolgot.}
-{399}{}{Figyelj, most nem tudok ajánlatot tenni, de ha egyszer összekaparom a pénzt...}
-{401}{}{Nem, de az életed igen. Ha most azonnal visszaadod az autómat, nem szabdallak darabokra.}
-{402}{}{Most nincs erre id?m. Viszlát!}
-{420}{}{Még mit nem! Már van egy kutyám, amit megfarkalhatok, és nem akarok kutyamenhelyet nyitni. Ha rádnézek, mindjárt látszik, hogy nincs semmid, ami felkelthetné az érdekl?désemet.}
-{421}{}{Te tudod... Viszont hadd nézzem meg az árudat...}
-{422}{}{Tudod mit? Tököm kivan már veled, meg a hülyeségeddel! Annyi cafatkára foglak most szabdalni, hogy saját hentesüzletet nyithatsz magadból.}
-{423}{}{Akkor jó. Most mennem kell.}
-{436}{}{Elég a huzavonából! Most azonnal add vissza az autómat, különben...}
-{437}{}{Még mit nem! Annyi cafatkára foglak most szabdalni, hogy saját hentesüzletet nyithatsz magadból.}
-{445}{}{(Szemét végigfuttatja a testeden.) Hát nem tudom, hogy megéred-e a fáradságot, asszony. Mi éppen egy HIGHWAYMAN sorsáról beszélünk ám...}
-{446}{}{Ó, érek én annyit. S?t, többet.}
-{455}{}{Hát lehet, hogy hülye vagyok... de legyen. Játszadozunk kicsit, aztán viheted a Highwaymant, ahova akarod.}
-{456}{}{Akkor mire várunk?}
-{457}{}{Elég a huzavonából! Add vissza az autómat, különben...}
-{458}{}{Meggondoltam magam. Inkább megöllek.}
+{395}{}{Ember, ez az Ã¶sszeg egy Ãºj Ã¶ltÃ¶nyre nem elÃ©g, nemhogy arra az autÃ³ra! }
+{396}{}{Asszony, ez az Ã¶sszeg egy Ãºj Ã¶ltÃ¶nyre nem elÃ©g, nemhogy arra az autÃ³ra! }
+{397}{}{NyilvÃ¡n azt gondolod, az autÃ³k olcsÃ³k.}
+{398}{}{Akkor tÃ¡rgyaljuk Ãºjra a dolgot.}
+{399}{}{Figyelj, most nem tudok ajÃ¡nlatot tenni, de ha egyszer Ã¶sszekaparom a pÃ©nzt...}
+{401}{}{Nem, de az Ã©leted igen. Ha most azonnal visszaadod az autÃ³mat, nem szabdallak darabokra.}
+{402}{}{Most nincs erre id?m. ViszlÃ¡t!}
+{420}{}{MÃ©g mit nem! MÃ¡r van egy kutyÃ¡m, amit megfarkalhatok, Ã©s nem akarok kutyamenhelyet nyitni. Ha rÃ¡dnÃ©zek, mindjÃ¡rt lÃ¡tszik, hogy nincs semmid, ami felkelthetnÃ© az Ã©rdekl?dÃ©semet.}
+{421}{}{Te tudod... Viszont hadd nÃ©zzem meg az Ã¡rudat...}
+{422}{}{Tudod mit? TÃ¶kÃ¶m kivan mÃ¡r veled, meg a hÃ¼lyesÃ©geddel! Annyi cafatkÃ¡ra foglak most szabdalni, hogy sajÃ¡t hentesÃ¼zletet nyithatsz magadbÃ³l.}
+{423}{}{Akkor jÃ³. Most mennem kell.}
+{436}{}{ElÃ©g a huzavonÃ¡bÃ³l! Most azonnal add vissza az autÃ³mat, kÃ¼lÃ¶nben...}
+{437}{}{MÃ©g mit nem! Annyi cafatkÃ¡ra foglak most szabdalni, hogy sajÃ¡t hentesÃ¼zletet nyithatsz magadbÃ³l.}
+{445}{}{(SzemÃ©t vÃ©gigfuttatja a testeden.) HÃ¡t nem tudom, hogy megÃ©red-e a fÃ¡radsÃ¡got, asszony. Mi Ã©ppen egy HIGHWAYMAN sorsÃ¡rÃ³l beszÃ©lÃ¼nk Ã¡m...}
+{446}{}{Ã“, Ã©rek Ã©n annyit. S?t, tÃ¶bbet.}
+{455}{}{HÃ¡t lehet, hogy hÃ¼lye vagyok... de legyen. JÃ¡tszadozunk kicsit, aztÃ¡n viheted a Highwaymant, ahova akarod.}
+{456}{}{Akkor mire vÃ¡runk?}
+{457}{}{ElÃ©g a huzavonÃ¡bÃ³l! Add vissza az autÃ³mat, kÃ¼lÃ¶nben...}
+{458}{}{Meggondoltam magam. InkÃ¡bb megÃ¶llek.}
 {459}{}{Felejtsd el! Mennem kell...}
-{470}{}{Figyelj, miért fecsérled itt az id?met? Ha nincs zséd, ne akarj üzletelni. Van nekem jobb dolgom is, mint egy olcsójánossal diskurálni.}
-{471}{}{Itt csak egyetlen olcsó dolog van, az pedig a te kis tyúkszaros életed. Ha most rögtön visszaadod az autómat, nem szabdallak miszlikbe.}
-{472}{}{Hát tudod, ez volt az utolsó esélyed. Most meg foglak ÖLNI!}
-{485}{}{Márminthogy a TE autód? }
-{486}{}{Ember, neked fogalmad sincs, mir?l beszélsz! }
-{487}{}{Asszony, neked fogalmad sincs, mir?l beszélsz! }
-{488}{}{Az a Highwayman hulladék volt, valaki csak úgy otthagyta. Most már a mienk. Ha van valami KÖZÖD hozzá, itt és most letárgyalhatjuk...}
-{489}{}{Igen, van némi közöm hozzá. Na, most lesz nemulass, Rontó-Bontó gyerek...}
-{490}{}{Mit akarsz csinálni az autóval?}
-{491}{}{Nem, ne vacakoljunk! Tied lehet az a francos Highwayman. Amúgy egy kalap szart nem ér. Túl sok elektromos bizbasz van benne, b?zlik, mint egy gekkó, a csomagtér kicsi... neked biztos megfelel. Na, ég veled.}
-{492}{}{Nem, egyel?re nincs közöm hozzá... egyel?re. Viszlát!}
-{500}{}{Eszem megáll! *Kalap szart nem ér?* *B?zlik, mint egy gekkó?* }
-{501}{}{Embör, milyen Jetet nyomtál magadba? }
-{502}{}{Asszony, milyen Jetet nyomtál magadba? }
-{503}{}{Ez egy HIGHWAYMAN! Többet tud ez, mint egy hétköznapi autó, és ha egyszer megbuherálom, úgy fog duruzsolni, mint egy n? az ágyamban.}
-{504}{}{Elegem van a baromságaidból. Nesze, itt van egy kis ólom, Rontó-Bontó gyerek...}
-{505}{}{Mit akarsz megbütykölni az autón?}
-{506}{}{Legyen úgy, ahogy mondod. Én már itt sem vagyok.}
-{520}{}{Igen, pont ERRE gondoltam. Jobb, ha hazaszaladsz, miel?tt a Mamád aggódni kezdene.}
-{521}{}{Igazából a te ANYUKÁDNAK kell mindjárt aggódni.}
-{522}{}{Hagyod és csendben távozol.}
-{530}{}{Akkor jó. Nyélbe ütöttük. (Gyorsan átszámolja a pénzt, és zsebre vágja.) A Highwayman mostantól a tied. Persze nincs benne nafta, és a különleges ketyerék, amiket be akartam szerelni, szintén hiányoznak bel?le...}
-{531}{}{Milyen ketyerékr?l beszélsz?}
-{532}{}{Kivagyok ett?l a sok baszakodástól! Itt van egy kis ólom, Rontó-Bontó gyerek...}
-{533}{}{Ó, már így is OLYAN sokat kaptam t?led. Most viszont lépnem kell.}
-{540}{}{(T-Ray letörli magáról az izzadságot.) A büdös életbe, asszony! Tied lett a Highwayman! Persze a különleges ketyerék, amiket bele akartam rakni, nincsenek benne...}
-{541}{}{*Pöj-pöj* Miféle ketyerékr?l... *Pöj-pöj* ...beszélsz te itt nekem?}
-{542}{}{Elegem van ebb?l... *Pöj-pöj* ...a sok baromságból. Nesze... *zihálsz*... egy kis ólom, Rontó-Bontó gyerek...}
-{543}{}{Az autó... *Pöj-pöj* ...újra az enyém, és... *Pöj-pöj* ...én többet hozzád nem nyúlok. Már... lépek is...}
-{550}{}{Hát hogyne! A generátort felzizzentjük, a motort feltuningoljuk, kitakarítjuk az utasteret - ráfér egy kis tör?dés -, aztán rárakunk egy sárgaréz rendszámtáblát, és kihajítunk egy keveset a sok szarból, ami csak a helyet foglalja a csomagtartóban. 500 dolcsi lesz.}
-{551}{}{Hát tudod, felzizzentjük a generátort, feltuningoljuk a motort, kitakarítjuk az utasteret - ráfér egy kis tör?dés -, aztán rárakunk egy sárgaréz rendszámtáblát, és kihajítunk egy keveset a sok szarból, ami csak a helyet foglalja a csomagtartóban. Érdekel a dolog? Csak 500 dolcsiba kerül.}
-{552}{}{Hogyne érdekelne, itt van az 500 dolcsi.}
-{553}{}{Mit szólnál 300-hoz?}
-{554}{}{Most nincs nálam annyi. Mi lenne, ha visszajönnék, ha megszereztem a pénzt?}
-{555}{}{Mi lenne, ha még szerelmeskednénk egy kicsit?}
-{556}{}{A testem nem jöhet szóba? Nem mutatsz iránta érdekl?dést?}
-{558}{}{Tököm kivan a baromságaidtól! Nesze, egyél ólmot, Rontó-Bontó gyerek...}
-{559}{}{Többet nem fogsz a kocsimhoz nyúlni! Most pedig leléptem...}
-{575}{}{Legyen. (Átveszi a pénzt.) Már minden kész. És még egy szót: ha valaha is kell hozzá valami, csak gyere hozzám, és megoldjuk.}
-{576}{}{Láthatnám, hogy milyen árutok van?}
-{577}{}{Akkor jó. Köszönöm. Kés?bb találkozunk, T-Ray.}
-{590}{}{(A fejét rázza.) Nem, annyi nem elég. 500 vagy semmi.}
-{615}{}{Hát hogyne! Már minden oké vele. És még valamit: ha valaha aksira lenne szükséged, csak gyere hozzám, megoldjuk!}
-{616}{}{Az a helyzet, hogy most azonnal kéne egy-két aksi.}
-{617}{}{Hát elkelne egy két aksi, de van egy ötletem. Nem akarok pénzzel fizetni... érdekelne esetleg valami... MÁSFAJTA fizetség?}
-{619}{}{Akkor jó. Kés?bb találkozunk.}
-{630}{}{(Vállat von.) Most egy darab aksink sincs... egy vagy két hét múlva gyere vissza, talán akkorra elk?kerül néhány. Amúgy... ez ne zavarja az üzletmenetünket...}
+{470}{}{Figyelj, miÃ©rt fecsÃ©rled itt az id?met? Ha nincs zsÃ©d, ne akarj Ã¼zletelni. Van nekem jobb dolgom is, mint egy olcsÃ³jÃ¡nossal diskurÃ¡lni.}
+{471}{}{Itt csak egyetlen olcsÃ³ dolog van, az pedig a te kis tyÃºkszaros Ã©leted. Ha most rÃ¶gtÃ¶n visszaadod az autÃ³mat, nem szabdallak miszlikbe.}
+{472}{}{HÃ¡t tudod, ez volt az utolsÃ³ esÃ©lyed. Most meg foglak Ã–LNI!}
+{485}{}{MÃ¡rminthogy a TE autÃ³d? }
+{486}{}{Ember, neked fogalmad sincs, mir?l beszÃ©lsz! }
+{487}{}{Asszony, neked fogalmad sincs, mir?l beszÃ©lsz! }
+{488}{}{Az a Highwayman hulladÃ©k volt, valaki csak Ãºgy otthagyta. Most mÃ¡r a mienk. Ha van valami KÃ–ZÃ–D hozzÃ¡, itt Ã©s most letÃ¡rgyalhatjuk...}
+{489}{}{Igen, van nÃ©mi kÃ¶zÃ¶m hozzÃ¡. Na, most lesz nemulass, RontÃ³-BontÃ³ gyerek...}
+{490}{}{Mit akarsz csinÃ¡lni az autÃ³val?}
+{491}{}{Nem, ne vacakoljunk! Tied lehet az a francos Highwayman. AmÃºgy egy kalap szart nem Ã©r. TÃºl sok elektromos bizbasz van benne, b?zlik, mint egy gekkÃ³, a csomagtÃ©r kicsi... neked biztos megfelel. Na, Ã©g veled.}
+{492}{}{Nem, egyel?re nincs kÃ¶zÃ¶m hozzÃ¡... egyel?re. ViszlÃ¡t!}
+{500}{}{Eszem megÃ¡ll! *Kalap szart nem Ã©r?* *B?zlik, mint egy gekkÃ³?* }
+{501}{}{EmbÃ¶r, milyen Jetet nyomtÃ¡l magadba? }
+{502}{}{Asszony, milyen Jetet nyomtÃ¡l magadba? }
+{503}{}{Ez egy HIGHWAYMAN! TÃ¶bbet tud ez, mint egy hÃ©tkÃ¶znapi autÃ³, Ã©s ha egyszer megbuherÃ¡lom, Ãºgy fog duruzsolni, mint egy n? az Ã¡gyamban.}
+{504}{}{Elegem van a baromsÃ¡gaidbÃ³l. Nesze, itt van egy kis Ã³lom, RontÃ³-BontÃ³ gyerek...}
+{505}{}{Mit akarsz megbÃ¼tykÃ¶lni az autÃ³n?}
+{506}{}{Legyen Ãºgy, ahogy mondod. Ã‰n mÃ¡r itt sem vagyok.}
+{520}{}{Igen, pont ERRE gondoltam. Jobb, ha hazaszaladsz, miel?tt a MamÃ¡d aggÃ³dni kezdene.}
+{521}{}{IgazÃ¡bÃ³l a te ANYUKÃDNAK kell mindjÃ¡rt aggÃ³dni.}
+{522}{}{Hagyod Ã©s csendben tÃ¡vozol.}
+{530}{}{Akkor jÃ³. NyÃ©lbe Ã¼tÃ¶ttÃ¼k. (Gyorsan Ã¡tszÃ¡molja a pÃ©nzt, Ã©s zsebre vÃ¡gja.) A Highwayman mostantÃ³l a tied. Persze nincs benne nafta, Ã©s a kÃ¼lÃ¶nleges ketyerÃ©k, amiket be akartam szerelni, szintÃ©n hiÃ¡nyoznak bel?le...}
+{531}{}{Milyen ketyerÃ©kr?l beszÃ©lsz?}
+{532}{}{Kivagyok ett?l a sok baszakodÃ¡stÃ³l! Itt van egy kis Ã³lom, RontÃ³-BontÃ³ gyerek...}
+{533}{}{Ã“, mÃ¡r Ã­gy is OLYAN sokat kaptam t?led. Most viszont lÃ©pnem kell.}
+{540}{}{(T-Ray letÃ¶rli magÃ¡rÃ³l az izzadsÃ¡got.) A bÃ¼dÃ¶s Ã©letbe, asszony! Tied lett a Highwayman! Persze a kÃ¼lÃ¶nleges ketyerÃ©k, amiket bele akartam rakni, nincsenek benne...}
+{541}{}{*PÃ¶j-pÃ¶j* MifÃ©le ketyerÃ©kr?l... *PÃ¶j-pÃ¶j* ...beszÃ©lsz te itt nekem?}
+{542}{}{Elegem van ebb?l... *PÃ¶j-pÃ¶j* ...a sok baromsÃ¡gbÃ³l. Nesze... *zihÃ¡lsz*... egy kis Ã³lom, RontÃ³-BontÃ³ gyerek...}
+{543}{}{Az autÃ³... *PÃ¶j-pÃ¶j* ...Ãºjra az enyÃ©m, Ã©s... *PÃ¶j-pÃ¶j* ...Ã©n tÃ¶bbet hozzÃ¡d nem nyÃºlok. MÃ¡r... lÃ©pek is...}
+{550}{}{HÃ¡t hogyne! A generÃ¡tort felzizzentjÃ¼k, a motort feltuningoljuk, kitakarÃ­tjuk az utasteret - rÃ¡fÃ©r egy kis tÃ¶r?dÃ©s -, aztÃ¡n rÃ¡rakunk egy sÃ¡rgarÃ©z rendszÃ¡mtÃ¡blÃ¡t, Ã©s kihajÃ­tunk egy keveset a sok szarbÃ³l, ami csak a helyet foglalja a csomagtartÃ³ban. 500 dolcsi lesz.}
+{551}{}{HÃ¡t tudod, felzizzentjÃ¼k a generÃ¡tort, feltuningoljuk a motort, kitakarÃ­tjuk az utasteret - rÃ¡fÃ©r egy kis tÃ¶r?dÃ©s -, aztÃ¡n rÃ¡rakunk egy sÃ¡rgarÃ©z rendszÃ¡mtÃ¡blÃ¡t, Ã©s kihajÃ­tunk egy keveset a sok szarbÃ³l, ami csak a helyet foglalja a csomagtartÃ³ban. Ã‰rdekel a dolog? Csak 500 dolcsiba kerÃ¼l.}
+{552}{}{Hogyne Ã©rdekelne, itt van az 500 dolcsi.}
+{553}{}{Mit szÃ³lnÃ¡l 300-hoz?}
+{554}{}{Most nincs nÃ¡lam annyi. Mi lenne, ha visszajÃ¶nnÃ©k, ha megszereztem a pÃ©nzt?}
+{555}{}{Mi lenne, ha mÃ©g szerelmeskednÃ©nk egy kicsit?}
+{556}{}{A testem nem jÃ¶het szÃ³ba? Nem mutatsz irÃ¡nta Ã©rdekl?dÃ©st?}
+{558}{}{TÃ¶kÃ¶m kivan a baromsÃ¡gaidtÃ³l! Nesze, egyÃ©l Ã³lmot, RontÃ³-BontÃ³ gyerek...}
+{559}{}{TÃ¶bbet nem fogsz a kocsimhoz nyÃºlni! Most pedig lelÃ©ptem...}
+{575}{}{Legyen. (Ãtveszi a pÃ©nzt.) MÃ¡r minden kÃ©sz. Ã‰s mÃ©g egy szÃ³t: ha valaha is kell hozzÃ¡ valami, csak gyere hozzÃ¡m, Ã©s megoldjuk.}
+{576}{}{LÃ¡thatnÃ¡m, hogy milyen Ã¡rutok van?}
+{577}{}{Akkor jÃ³. KÃ¶szÃ¶nÃ¶m. KÃ©s?bb talÃ¡lkozunk, T-Ray.}
+{590}{}{(A fejÃ©t rÃ¡zza.) Nem, annyi nem elÃ©g. 500 vagy semmi.}
+{615}{}{HÃ¡t hogyne! MÃ¡r minden okÃ© vele. Ã‰s mÃ©g valamit: ha valaha aksira lenne szÃ¼ksÃ©ged, csak gyere hozzÃ¡m, megoldjuk!}
+{616}{}{Az a helyzet, hogy most azonnal kÃ©ne egy-kÃ©t aksi.}
+{617}{}{HÃ¡t elkelne egy kÃ©t aksi, de van egy Ã¶tletem. Nem akarok pÃ©nzzel fizetni... Ã©rdekelne esetleg valami... MÃSFAJTA fizetsÃ©g?}
+{619}{}{Akkor jÃ³. KÃ©s?bb talÃ¡lkozunk.}
+{630}{}{(VÃ¡llat von.) Most egy darab aksink sincs... egy vagy kÃ©t hÃ©t mÃºlva gyere vissza, talÃ¡n akkorra elk?kerÃ¼l nÃ©hÃ¡ny. AmÃºgy... ez ne zavarja az Ã¼zletmenetÃ¼nket...}
 {631}{}{Rendben.}
-{632}{}{Bocs, de csak akkor ha ténylegesen üzletr?l van szó. Máskor találkozunk, T-Ray.}
-{640}{}{A fenébe, te szajha! Még öt perc sem telt el az utolsó szeretkezésünk óta. Meg akarsz ölni?}
+{632}{}{Bocs, de csak akkor ha tÃ©nylegesen Ã¼zletr?l van szÃ³. MÃ¡skor talÃ¡lkozunk, T-Ray.}
+{640}{}{A fenÃ©be, te szajha! MÃ©g Ã¶t perc sem telt el az utolsÃ³ szeretkezÃ©sÃ¼nk Ã³ta. Meg akarsz Ã¶lni?}
 {641}{}{Now, hold on...}
-{642}{}{Ugyan már! Fel akarok tölt?dni, és ezt csak t?led kaphatom meg!}
-{643}{}{Akkor hagyjuk. Legyen úgy.}
-{650}{}{Még mit nem! Már van egy kutyám, amit megfarkalhatok, és nem akarok kutyamenhelyet nyitni. Ha rádnézek, mindjárt látszik, hogy nincs semmid, ami felkelthetné az érdekl?désemet. Ha fel akarod dobni a Highwaymant, akkor 500 dollárod bánja.}
-{651}{}{Legyen. Itt az 500 dollárod.}
-{653}{}{Mondok én valamit! Tököm kivan a baromságaiddal. Most lenyomlak, mint a bélyeget!}
-{660}{}{(Miel?tt elfordulnál, megállít.) Várj egy pillanatot, asszony! Azt nem mondtam, hogy nem vagyok benne egy kis szexelésben. Térjünk a tárgyra!}
-{661}{}{(Végigmér.) ...ha egy férfinek meg kell tenni valamit, hát meg kell tenni. Na, akkó repüjjünk rá a témára!}
-{662}{}{Akkor "rárepültök a témára".}
-{663}{}{Inkább ne, meggondoltam magam. Csá.}
-{670}{}{Nahát, a nagy h?s besétált T-Ray kis kuckójába! Üdvözlet, üdvözlet... }
-{671}{}{Hé, édesem! A világ lenyomása után jöttél Ray-hez egy kis kikapcsolódásra? }
-{672}{}{Szóval... van valamim az autódba, ami talán érdekelhet... mármint ha még mindig megvan a kocsi.}
+{642}{}{Ugyan mÃ¡r! Fel akarok tÃ¶lt?dni, Ã©s ezt csak t?led kaphatom meg!}
+{643}{}{Akkor hagyjuk. Legyen Ãºgy.}
+{650}{}{MÃ©g mit nem! MÃ¡r van egy kutyÃ¡m, amit megfarkalhatok, Ã©s nem akarok kutyamenhelyet nyitni. Ha rÃ¡dnÃ©zek, mindjÃ¡rt lÃ¡tszik, hogy nincs semmid, ami felkelthetnÃ© az Ã©rdekl?dÃ©semet. Ha fel akarod dobni a Highwaymant, akkor 500 dollÃ¡rod bÃ¡nja.}
+{651}{}{Legyen. Itt az 500 dollÃ¡rod.}
+{653}{}{Mondok Ã©n valamit! TÃ¶kÃ¶m kivan a baromsÃ¡gaiddal. Most lenyomlak, mint a bÃ©lyeget!}
+{660}{}{(Miel?tt elfordulnÃ¡l, megÃ¡llÃ­t.) VÃ¡rj egy pillanatot, asszony! Azt nem mondtam, hogy nem vagyok benne egy kis szexelÃ©sben. TÃ©rjÃ¼nk a tÃ¡rgyra!}
+{661}{}{(VÃ©gigmÃ©r.) ...ha egy fÃ©rfinek meg kell tenni valamit, hÃ¡t meg kell tenni. Na, akkÃ³ repÃ¼jjÃ¼nk rÃ¡ a tÃ©mÃ¡ra!}
+{662}{}{Akkor "rÃ¡repÃ¼ltÃ¶k a tÃ©mÃ¡ra".}
+{663}{}{InkÃ¡bb ne, meggondoltam magam. CsÃ¡.}
+{670}{}{NahÃ¡t, a nagy h?s besÃ©tÃ¡lt T-Ray kis kuckÃ³jÃ¡ba! ÃœdvÃ¶zlet, Ã¼dvÃ¶zlet... }
+{671}{}{HÃ©, Ã©desem! A vilÃ¡g lenyomÃ¡sa utÃ¡n jÃ¶ttÃ©l Ray-hez egy kis kikapcsolÃ³dÃ¡sra? }
+{672}{}{SzÃ³val... van valamim az autÃ³dba, ami talÃ¡n Ã©rdekelhet... mÃ¡rmint ha mÃ©g mindig megvan a kocsi.}
 {673}{}{Miaz a'}
 {675}{}{Mi lenne az?}
-{690}{}{A fenébe, asszony! Még öt perc sem telt el az utolsó szeretkezésünk óta. Meg akarsz ölni?}
-{691}{}{Már MEGINT akarod? A fene egye meg, asszony! Hát már sosem csukódnak össze a lábaid?}
+{690}{}{A fenÃ©be, asszony! MÃ©g Ã¶t perc sem telt el az utolsÃ³ szeretkezÃ©sÃ¼nk Ã³ta. Meg akarsz Ã¶lni?}
+{691}{}{MÃ¡r MEGINT akarod? A fene egye meg, asszony! HÃ¡t mÃ¡r sosem csukÃ³dnak Ã¶ssze a lÃ¡baid?}
 {692}{}{Nos...}
-{693}{}{Ugyan már! Lazítani akarok, és ezt csak t?led kaphatom meg.}
-{710}{}{(Végigtanulmányoz, és összevonja a szemöldökét) Hát "persze", hogy az vagy! Én ismerem Bishop összes emberét, és te nem tartozol közéjük. (Az ajtó felé biccent.) T?nés innen, miel?tt kijövök a sodromból!}
-{711}{}{ÉN Bishop egyik embere vagyok. Most intézzük a dolgokat, vagy mifene?}
+{693}{}{Ugyan mÃ¡r! LazÃ­tani akarok, Ã©s ezt csak t?led kaphatom meg.}
+{710}{}{(VÃ©gigtanulmÃ¡nyoz, Ã©s Ã¶sszevonja a szemÃ¶ldÃ¶kÃ©t) HÃ¡t "persze", hogy az vagy! Ã‰n ismerem Bishop Ã¶sszes emberÃ©t, Ã©s te nem tartozol kÃ¶zÃ©jÃ¼k. (Az ajtÃ³ felÃ© biccent.) T?nÃ©s innen, miel?tt kijÃ¶vÃ¶k a sodrombÃ³l!}
+{711}{}{Ã‰N Bishop egyik embere vagyok. Most intÃ©zzÃ¼k a dolgokat, vagy mifene?}
 {712}{}{Megyek, megyek...}
-{720}{}{(Rádbámul) Persze, hogy intézzük! Elintézzük. Reméljük nincs családod, aki visszavárna...}
-{721}{}{De neked ugye van családod, akik majd összeszedik a darabjaidat?}
-{730}{}{(Megtanulmányoz.) Szóval Bishop egyik em-b?re volnál?! Aligha hiszem... egy kicsit magasabbnak, és egy kicsit... (szkeptikusnak t?nik) ...tökösebbnek kéne lenned.}
-{731}{}{(Megtanulmányoz.) Te lennél }
-{732}{}{Az vagyok, aki vagyok! Belém akarsz kötni?}
-{733}{}{Én }
-{734}{}{Ne higgy el mindent, amit hallasz! Beszéljünk inkább Mr. Bishop autójáról!}
-{735}{}{Na, felejtsük el ezt a beszélgetést! Leléptem...}
-{745}{}{(Mintha megadná magát, felemeli a kezét.) Na, na, na... csak poénkodtam!}
-{746}{}{Beszéljünk akkor Mr. Bishop autójáról!}
-{747}{}{Legközelebb vigyázz a szádra! Most lépnem kell.}
-{755}{}{Jóvan, jóvan... itt az ajánlat: megcsinálunk minden tuningot, megturbózzuk kicsit, és pronto elvisszük Mr. Bishopnak. Hogy mi legyen az ár... (Vállat von és mosolyog) ...a kérdés az, hogy lehet ezek után árat adni a Highwaymanre?}
+{720}{}{(RÃ¡dbÃ¡mul) Persze, hogy intÃ©zzÃ¼k! ElintÃ©zzÃ¼k. RemÃ©ljÃ¼k nincs csalÃ¡dod, aki visszavÃ¡rna...}
+{721}{}{De neked ugye van csalÃ¡dod, akik majd Ã¶sszeszedik a darabjaidat?}
+{730}{}{(MegtanulmÃ¡nyoz.) SzÃ³val Bishop egyik em-b?re volnÃ¡l?! Aligha hiszem... egy kicsit magasabbnak, Ã©s egy kicsit... (szkeptikusnak t?nik) ...tÃ¶kÃ¶sebbnek kÃ©ne lenned.}
+{731}{}{(MegtanulmÃ¡nyoz.) Te lennÃ©l }
+{732}{}{Az vagyok, aki vagyok! BelÃ©m akarsz kÃ¶tni?}
+{733}{}{Ã‰n }
+{734}{}{Ne higgy el mindent, amit hallasz! BeszÃ©ljÃ¼nk inkÃ¡bb Mr. Bishop autÃ³jÃ¡rÃ³l!}
+{735}{}{Na, felejtsÃ¼k el ezt a beszÃ©lgetÃ©st! LelÃ©ptem...}
+{745}{}{(Mintha megadnÃ¡ magÃ¡t, felemeli a kezÃ©t.) Na, na, na... csak poÃ©nkodtam!}
+{746}{}{BeszÃ©ljÃ¼nk akkor Mr. Bishop autÃ³jÃ¡rÃ³l!}
+{747}{}{LegkÃ¶zelebb vigyÃ¡zz a szÃ¡dra! Most lÃ©pnem kell.}
+{755}{}{JÃ³van, jÃ³van... itt az ajÃ¡nlat: megcsinÃ¡lunk minden tuningot, megturbÃ³zzuk kicsit, Ã©s pronto elvisszÃ¼k Mr. Bishopnak. Hogy mi legyen az Ã¡r... (VÃ¡llat von Ã©s mosolyog) ...a kÃ©rdÃ©s az, hogy lehet ezek utÃ¡n Ã¡rat adni a Highwaymanre?}
 {756}{}{Folytasd!}
-{757}{}{Nincs id?m a hülyeségekre. Add el? a költségeket!}
-{758}{}{Igazad van. Ez neked nem oké. Magammal viszem az autót, és Mr. Bishop enged tovább tevékenykedni.}
-{759}{}{Erre most nincs id?m. Ráadásul dolgom is akadt...}
-{770}{}{Hát ami azt illeti, ez a Highwayman... minden kétséget kizáróan az utolsó m?köd? darab... legalább 3000 dolcsit ér... de tudod mit? (Rádkacsint) Az állapotát figyelembe véve hajlandó vagyok 2700-ért megválni t?le. Ja és a járulékos juttatásokról is beszélhetnénk: klubtagsági, szabad bejárás a bordélyba...}
-{771}{}{2700? Legyen. Itt a pénzed.}
-{772}{}{Mr. Bishop 1500 dollárt akar érte adni.}
-{773}{}{2700? Nem, nem... Mr. Bishop 900 dollárt hajlandó érte adni.}
-{774}{}{Van egy ellenajánlatom. Ingyen elviszem az autót, és Mr. Bishop továbbra is engedi, hogy itt tevékenykedjetek.}
-{775}{}{Elmondom Mr. Bishopnak és visszajövök a válasszal.}
-{780}{}{(T-Ray pislog, aztán, ahogy átnyújtod a pénzt, lassan, szélesen elmosolyogja magát.) Hát szeretem, ha az üzletet gyorsan és egyszer?en tudjuk nyélbe ütni. Öröm, ha együtt üzletelünk, öröm... és mi a helyzet a járulékos juttatásokkal...?}
-{781}{}{Err?l Mr. Bishoppal kell beszélned. Mr. Bishopnak volna egy utolsó kérése amúgy. Ingyen aksikat akar. Én lennék a szállító.}
-{782}{}{A juttatásokról beszélj Mr. Bishoppal személyesen. Ne feledkezz meg jó alaposan felfegyverezni magad és hangosan követelni, amit akarsz. Nagyon tiszteli az olyan embereket.}
-{783}{}{Ezekr?l a járulékos juttatásokról Mr. Bishoppal személyesen kéne beszélned. Viszlát!}
-{790}{}{Ember, ebb?l a pénzb?l egy rendes ruhát nem tudnék venni! }
-{791}{}{Asszony, ebb?l a pénzb?l egy rendes ruhát nem tudnék venni! }
-{792}{}{Mi? Bishop azt hiszi, hogy az autók semmi pénzbe kerülnek?}
-{793}{}{Tán azon morfondírozol, hogy esetleg... nem fair eljárásban részesülsz?}
-{794}{}{Mr. Bishop 1500 dolláros ajánlata máris nagylelk?. A következ? ajánlatnak nem fogsz örülni.}
-{795}{}{Akkor talán egy 900 dolláros ajánlat jobban tetszene neked. Mr. Bishop nagyon meg lesz elégedve, hogy ilyen olcsón lehet nálatok vásárolni.}
-{797}{}{Mivel a nagylelk? ajánlatot elutasítottad, arra kaptam felhatalmazást, hogy fizetség nélkül vegyem át az autót.}
-{798}{}{Fáraszt ez a beszélgetés. Kés?bb visszajövök.}
+{757}{}{Nincs id?m a hÃ¼lyesÃ©gekre. Add el? a kÃ¶ltsÃ©geket!}
+{758}{}{Igazad van. Ez neked nem okÃ©. Magammal viszem az autÃ³t, Ã©s Mr. Bishop enged tovÃ¡bb tevÃ©kenykedni.}
+{759}{}{Erre most nincs id?m. RÃ¡adÃ¡sul dolgom is akadt...}
+{770}{}{HÃ¡t ami azt illeti, ez a Highwayman... minden kÃ©tsÃ©get kizÃ¡rÃ³an az utolsÃ³ m?kÃ¶d? darab... legalÃ¡bb 3000 dolcsit Ã©r... de tudod mit? (RÃ¡dkacsint) Az Ã¡llapotÃ¡t figyelembe vÃ©ve hajlandÃ³ vagyok 2700-Ã©rt megvÃ¡lni t?le. Ja Ã©s a jÃ¡rulÃ©kos juttatÃ¡sokrÃ³l is beszÃ©lhetnÃ©nk: klubtagsÃ¡gi, szabad bejÃ¡rÃ¡s a bordÃ©lyba...}
+{771}{}{2700? Legyen. Itt a pÃ©nzed.}
+{772}{}{Mr. Bishop 1500 dollÃ¡rt akar Ã©rte adni.}
+{773}{}{2700? Nem, nem... Mr. Bishop 900 dollÃ¡rt hajlandÃ³ Ã©rte adni.}
+{774}{}{Van egy ellenajÃ¡nlatom. Ingyen elviszem az autÃ³t, Ã©s Mr. Bishop tovÃ¡bbra is engedi, hogy itt tevÃ©kenykedjetek.}
+{775}{}{Elmondom Mr. Bishopnak Ã©s visszajÃ¶vÃ¶k a vÃ¡lasszal.}
+{780}{}{(T-Ray pislog, aztÃ¡n, ahogy Ã¡tnyÃºjtod a pÃ©nzt, lassan, szÃ©lesen elmosolyogja magÃ¡t.) HÃ¡t szeretem, ha az Ã¼zletet gyorsan Ã©s egyszer?en tudjuk nyÃ©lbe Ã¼tni. Ã–rÃ¶m, ha egyÃ¼tt Ã¼zletelÃ¼nk, Ã¶rÃ¶m... Ã©s mi a helyzet a jÃ¡rulÃ©kos juttatÃ¡sokkal...?}
+{781}{}{Err?l Mr. Bishoppal kell beszÃ©lned. Mr. Bishopnak volna egy utolsÃ³ kÃ©rÃ©se amÃºgy. Ingyen aksikat akar. Ã‰n lennÃ©k a szÃ¡llÃ­tÃ³.}
+{782}{}{A juttatÃ¡sokrÃ³l beszÃ©lj Mr. Bishoppal szemÃ©lyesen. Ne feledkezz meg jÃ³ alaposan felfegyverezni magad Ã©s hangosan kÃ¶vetelni, amit akarsz. Nagyon tiszteli az olyan embereket.}
+{783}{}{Ezekr?l a jÃ¡rulÃ©kos juttatÃ¡sokrÃ³l Mr. Bishoppal szemÃ©lyesen kÃ©ne beszÃ©lned. ViszlÃ¡t!}
+{790}{}{Ember, ebb?l a pÃ©nzb?l egy rendes ruhÃ¡t nem tudnÃ©k venni! }
+{791}{}{Asszony, ebb?l a pÃ©nzb?l egy rendes ruhÃ¡t nem tudnÃ©k venni! }
+{792}{}{Mi? Bishop azt hiszi, hogy az autÃ³k semmi pÃ©nzbe kerÃ¼lnek?}
+{793}{}{TÃ¡n azon morfondÃ­rozol, hogy esetleg... nem fair eljÃ¡rÃ¡sban rÃ©szesÃ¼lsz?}
+{794}{}{Mr. Bishop 1500 dollÃ¡ros ajÃ¡nlata mÃ¡ris nagylelk?. A kÃ¶vetkez? ajÃ¡nlatnak nem fogsz Ã¶rÃ¼lni.}
+{795}{}{Akkor talÃ¡n egy 900 dollÃ¡ros ajÃ¡nlat jobban tetszene neked. Mr. Bishop nagyon meg lesz elÃ©gedve, hogy ilyen olcsÃ³n lehet nÃ¡latok vÃ¡sÃ¡rolni.}
+{797}{}{Mivel a nagylelk? ajÃ¡nlatot elutasÃ­tottad, arra kaptam felhatalmazÃ¡st, hogy fizetsÃ©g nÃ©lkÃ¼l vegyem Ã¡t az autÃ³t.}
+{798}{}{FÃ¡raszt ez a beszÃ©lgetÃ©s. KÃ©s?bb visszajÃ¶vÃ¶k.}
 {810}{}{Kilencsz... te viccelsz, ember? }
 {811}{}{Kilencsz... te viccelsz, asszony? }
-{812}{}{Elég a szarakodásból! Ez egy HIGHWAYMAN! Nem gyártják már sehol a világon, felfogtad? A többi család annyit fizetne érte, amit az a sóher gyökér Bishop sosem fog...}
+{812}{}{ElÃ©g a szarakodÃ¡sbÃ³l! Ez egy HIGHWAYMAN! Nem gyÃ¡rtjÃ¡k mÃ¡r sehol a vilÃ¡gon, felfogtad? A tÃ¶bbi csalÃ¡d annyit fizetne Ã©rte, amit az a sÃ³her gyÃ¶kÃ©r Bishop sosem fog...}
 {814}{}{Mr. Bishop has made a GENEROUS offer of 900 chips. You won't like the next offer.}
-{816}{}{Szóval a többi családdal is üzletelsz? Mr. Bishop bizonyára nagy érdekl?dést fog eziránt tanúsítani.}
-{817}{}{Már elnézést... minek nevezted Mr. Bishopot?}
-{818}{}{Kezdek kilenni ett?l. Kés?bb beszélünk.}
-{830}{}{(T-Ray megdermed. Egy pillanatra azt gondolod, hogy nekedugrik, aztán lenyugszik.) Ember, ez nem tisztességes üzlet. }
-{831}{}{(T-Ray megdermed. Egy pillanatra azt gondolod, hogy nekedugrik, aztán lenyugszik.) Asszony, ez nem tisztességes üzlet. }
-{832}{}{Mit tettem Bishop ellen, hogy ezt érdemlem? He?}
-{834}{}{Ezt Mr. Bishoppal rendezd le! Majd el felejtettem... Mr. Bishopnak volna még egy kérése. Ingyen aksikra van szüksége. Én lennék a szállító.}
-{835}{}{Hát nem volt semmi. ? nem szeret téged túlságosan. Amúgy örülök, hogy üzletelhetünk.}
-{845}{}{Nem, nem, semmi ilyesmi...! Én és Mr. Bishop között nincs nézeteltérés. Jól bánt velem, ezt nyugodtan el is mondhatod neki... de... mégis... mi a helyzet a járulékos juttatásokkal, amiket említettem...?}
-{846}{}{Ezt Mr. Bishoppal kell megbeszélned. Mr. Bishopnak lenne egy utolsó kérése egyébként. Ingyen aksikat szeretne t?led. Én lennék a szállító.}
-{847}{}{A juttatásokról Mr. Bishoppal kell beszélned. Ne feledkezz meg jó alaposan felfegyverezni magad és hangosan követelni, amit akarsz. Nagyon tiszteli az olyan embereket.}
-{855}{}{(T-Ray arcáról lefagy a mosoly.) Hogyne... persze, persze... nem probléma.}
-{856}{}{Kiváló! Akkor most add ide az összes aksit, amid van!}
-{857}{}{(Távozol.)}
-{865}{}{Rendben, rendben... hé, mondd meg a f?nöködnek, hogy aksikat is vehet t?lem. Minden nap szoktam találni újakat.}
-{866}{}{Valóban? Akkor nézzük, mid van raktáron.}
-{875}{}{Most nincs egy darab aksink sem. A közelmúltban szétkapott autókból szart se tudtunk kiszedni. Adj egy vagy két hetet, oksa?}
-{876}{}{Rendben. Halasszuk a dolgot. Átmenetileg. Viszlát!}
-{885}{}{(T-Ray behúzza egy kicsit a vállát.) Rende', rendbe'. Tessék. Ennyi van most nálam.}
-{886}{}{Legyen úgy. Két héten belül visszajövök a következ? adagért. Készítsd el? Mr. Bishop számára!}
-{896}{}{Rendben. Kés?bb visszajövök.}
-{905}{}{Persze, van néhány.}
-{906}{}{Megnézhetem a készletedet?}
-{907}{}{Hát igazán elkelne egy, de nem akarok érte fizetni. Van valami EGYÉB... amivel fizethetnék?}
-{909}{}{Csak benéztem. Még látjuk egymást.}
-{915}{}{Gravi-szárnyak! Ezek a kis aranyos szerkenty?k keresztülrepítenek a pusztaságon, és energia-visszanyer? chip is van bennük, szóval nem nagyon eszik a naftát. Hogy tetszik? Elfogadnád?}
-{916}{}{Én teccik én elvisz}
-{918}{}{Jól hangzik, jöhet.}
-{919}{}{Most nem. Azért jöttem, hogy magammal vigyem Mr. Bishop ingyen aksijait.}
-{920}{}{Most nem. Fel tudod tuningolni a Highwaymant a gravi-szárnyak nélkül?}
-{921}{}{Most nem. Inkább vennék t?led egy-két aksit.}
-{922}{}{Nem, mostanság nem. Talán máskor. Viszlát!}
-{930}{}{(T-Ray eltölt egy vagy két órát a m?helyben. Amikor újra el?t?nik, a gravi-szárnyak ott pompáznak az autón.)}
-{931}{}{Köszi, T-Ray. Igazán nagyra értékelem. Megyek és kipróbálom.}
-{940}{}{Érezd magad otthon, h?söm.}
-{941}{}{Ami az enyém, az a tied is. Mondd el mindenkinek, hogy ezt t?lem hallottad!}
-{942}{}{Fenébe! Megmented a világot, és még mindig mások szarával foglalkozol?}
-{950}{}{Hagyd békén azt a szart!}
-{951}{}{Ha legközelebb hozzányúlsz ahhoz a szarhoz, kicsit bántalmazni foglak!}
-{1000}{}{Er?szak nélkül visszavetted az autódat.}
-{1001}{}{Sikeresen lépre csaltad T-Rayt.}
-{1002}{}{Kaptál egy ingyen csomag autóaksit.}
-{1100}{}{Túl... sok... szex... fel... fogok... robbanni...}
-{2000}{}{Szereztél egy aksit a Highwaymanhez.}
+{816}{}{SzÃ³val a tÃ¶bbi csalÃ¡ddal is Ã¼zletelsz? Mr. Bishop bizonyÃ¡ra nagy Ã©rdekl?dÃ©st fog ezirÃ¡nt tanÃºsÃ­tani.}
+{817}{}{MÃ¡r elnÃ©zÃ©st... minek nevezted Mr. Bishopot?}
+{818}{}{Kezdek kilenni ett?l. KÃ©s?bb beszÃ©lÃ¼nk.}
+{830}{}{(T-Ray megdermed. Egy pillanatra azt gondolod, hogy nekedugrik, aztÃ¡n lenyugszik.) Ember, ez nem tisztessÃ©ges Ã¼zlet. }
+{831}{}{(T-Ray megdermed. Egy pillanatra azt gondolod, hogy nekedugrik, aztÃ¡n lenyugszik.) Asszony, ez nem tisztessÃ©ges Ã¼zlet. }
+{832}{}{Mit tettem Bishop ellen, hogy ezt Ã©rdemlem? He?}
+{834}{}{Ezt Mr. Bishoppal rendezd le! Majd el felejtettem... Mr. Bishopnak volna mÃ©g egy kÃ©rÃ©se. Ingyen aksikra van szÃ¼ksÃ©ge. Ã‰n lennÃ©k a szÃ¡llÃ­tÃ³.}
+{835}{}{HÃ¡t nem volt semmi. ? nem szeret tÃ©ged tÃºlsÃ¡gosan. AmÃºgy Ã¶rÃ¼lÃ¶k, hogy Ã¼zletelhetÃ¼nk.}
+{845}{}{Nem, nem, semmi ilyesmi...! Ã‰n Ã©s Mr. Bishop kÃ¶zÃ¶tt nincs nÃ©zeteltÃ©rÃ©s. JÃ³l bÃ¡nt velem, ezt nyugodtan el is mondhatod neki... de... mÃ©gis... mi a helyzet a jÃ¡rulÃ©kos juttatÃ¡sokkal, amiket emlÃ­tettem...?}
+{846}{}{Ezt Mr. Bishoppal kell megbeszÃ©lned. Mr. Bishopnak lenne egy utolsÃ³ kÃ©rÃ©se egyÃ©bkÃ©nt. Ingyen aksikat szeretne t?led. Ã‰n lennÃ©k a szÃ¡llÃ­tÃ³.}
+{847}{}{A juttatÃ¡sokrÃ³l Mr. Bishoppal kell beszÃ©lned. Ne feledkezz meg jÃ³ alaposan felfegyverezni magad Ã©s hangosan kÃ¶vetelni, amit akarsz. Nagyon tiszteli az olyan embereket.}
+{855}{}{(T-Ray arcÃ¡rÃ³l lefagy a mosoly.) Hogyne... persze, persze... nem problÃ©ma.}
+{856}{}{KivÃ¡lÃ³! Akkor most add ide az Ã¶sszes aksit, amid van!}
+{857}{}{(TÃ¡vozol.)}
+{865}{}{Rendben, rendben... hÃ©, mondd meg a f?nÃ¶kÃ¶dnek, hogy aksikat is vehet t?lem. Minden nap szoktam talÃ¡lni Ãºjakat.}
+{866}{}{ValÃ³ban? Akkor nÃ©zzÃ¼k, mid van raktÃ¡ron.}
+{875}{}{Most nincs egy darab aksink sem. A kÃ¶zelmÃºltban szÃ©tkapott autÃ³kbÃ³l szart se tudtunk kiszedni. Adj egy vagy kÃ©t hetet, oksa?}
+{876}{}{Rendben. Halasszuk a dolgot. Ãtmenetileg. ViszlÃ¡t!}
+{885}{}{(T-Ray behÃºzza egy kicsit a vÃ¡llÃ¡t.) Rende', rendbe'. TessÃ©k. Ennyi van most nÃ¡lam.}
+{886}{}{Legyen Ãºgy. KÃ©t hÃ©ten belÃ¼l visszajÃ¶vÃ¶k a kÃ¶vetkez? adagÃ©rt. KÃ©szÃ­tsd el? Mr. Bishop szÃ¡mÃ¡ra!}
+{896}{}{Rendben. KÃ©s?bb visszajÃ¶vÃ¶k.}
+{905}{}{Persze, van nÃ©hÃ¡ny.}
+{906}{}{MegnÃ©zhetem a kÃ©szletedet?}
+{907}{}{HÃ¡t igazÃ¡n elkelne egy, de nem akarok Ã©rte fizetni. Van valami EGYÃ‰B... amivel fizethetnÃ©k?}
+{909}{}{Csak benÃ©ztem. MÃ©g lÃ¡tjuk egymÃ¡st.}
+{915}{}{Gravi-szÃ¡rnyak! Ezek a kis aranyos szerkenty?k keresztÃ¼lrepÃ­tenek a pusztasÃ¡gon, Ã©s energia-visszanyer? chip is van bennÃ¼k, szÃ³val nem nagyon eszik a naftÃ¡t. Hogy tetszik? ElfogadnÃ¡d?}
+{916}{}{Ã‰n teccik Ã©n elvisz}
+{918}{}{JÃ³l hangzik, jÃ¶het.}
+{919}{}{Most nem. AzÃ©rt jÃ¶ttem, hogy magammal vigyem Mr. Bishop ingyen aksijait.}
+{920}{}{Most nem. Fel tudod tuningolni a Highwaymant a gravi-szÃ¡rnyak nÃ©lkÃ¼l?}
+{921}{}{Most nem. InkÃ¡bb vennÃ©k t?led egy-kÃ©t aksit.}
+{922}{}{Nem, mostansÃ¡g nem. TalÃ¡n mÃ¡skor. ViszlÃ¡t!}
+{930}{}{(T-Ray eltÃ¶lt egy vagy kÃ©t Ã³rÃ¡t a m?helyben. Amikor Ãºjra el?t?nik, a gravi-szÃ¡rnyak ott pompÃ¡znak az autÃ³n.)}
+{931}{}{KÃ¶szi, T-Ray. IgazÃ¡n nagyra Ã©rtÃ©kelem. Megyek Ã©s kiprÃ³bÃ¡lom.}
+{940}{}{Ã‰rezd magad otthon, h?sÃ¶m.}
+{941}{}{Ami az enyÃ©m, az a tied is. Mondd el mindenkinek, hogy ezt t?lem hallottad!}
+{942}{}{FenÃ©be! Megmented a vilÃ¡got, Ã©s mÃ©g mindig mÃ¡sok szarÃ¡val foglalkozol?}
+{950}{}{Hagyd bÃ©kÃ©n azt a szart!}
+{951}{}{Ha legkÃ¶zelebb hozzÃ¡nyÃºlsz ahhoz a szarhoz, kicsit bÃ¡ntalmazni foglak!}
+{1000}{}{Er?szak nÃ©lkÃ¼l visszavetted az autÃ³dat.}
+{1001}{}{Sikeresen lÃ©pre csaltad T-Rayt.}
+{1002}{}{KaptÃ¡l egy ingyen csomag autÃ³aksit.}
+{1100}{}{TÃºl... sok... szex... fel... fogok... robbanni...}
+{2000}{}{SzereztÃ©l egy aksit a Highwaymanhez.}
 {2010}{}{Megtuningoltattad a Highwaymant.}
-{5286}{}{. A kocsiért jöttem.}
-{5731}{}{?!!! Én azt hallottam, hogy }
-{5733}{}{vagyok. Belém akarsz kötni?}
-{6731}{}{ egy kicsit magasabb, és egy kicsit... (szkeptikus arcot vág) ...tökösebb.}
+{5286}{}{. A kocsiÃ©rt jÃ¶ttem.}
+{5731}{}{?!!! Ã‰n azt hallottam, hogy }
+{5733}{}{vagyok. BelÃ©m akarsz kÃ¶tni?}
+{6731}{}{ egy kicsit magasabb, Ã©s egy kicsit... (szkeptikus arcot vÃ¡g) ...tÃ¶kÃ¶sebb.}

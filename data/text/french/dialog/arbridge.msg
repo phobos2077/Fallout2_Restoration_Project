@@ -1,1 +1,1 @@
-{100}{}{Tu te trouves sur le grand pont séparant ton village de l'immense Désert.}
+{100}{}{Tu te trouves sur le grand pont sÃ©parant ton village de l'immense DÃ©sert.}

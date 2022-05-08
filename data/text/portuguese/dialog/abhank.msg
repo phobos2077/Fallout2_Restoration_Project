@@ -1,48 +1,48 @@
-{100}{}{Você vê Hank.}
-{101}{}{Você vê um monge gorduroso.}
-{102}{}{Ele está mexendo com uma calma.}
-{200}{}{Ei, amigo. Você tem um isqueiro?}
-{201}{}{Sim. [Ofereça seu isqueiro para ele.]}
-{202}{}{Isso é perfeito. Obrigado!}
-{203}{}{Por curiosidade, o que exatamente você está fazendo aqui?}
-{204}{}{Com certeza. Desde que você me trouxe um isqueiro, aqui está em casa.}
+{100}{}{VocÃª vÃª Hank.}
+{101}{}{VocÃª vÃª um monge gorduroso.}
+{102}{}{Ele estÃ¡ mexendo com uma calma.}
+{200}{}{Ei, amigo. VocÃª tem um isqueiro?}
+{201}{}{Sim. [OfereÃ§a seu isqueiro para ele.]}
+{202}{}{Isso Ã© perfeito. Obrigado!}
+{203}{}{Por curiosidade, o que exatamente vocÃª estÃ¡ fazendo aqui?}
+{204}{}{Com certeza. Desde que vocÃª me trouxe um isqueiro, aqui estÃ¡ em casa.}
 {205}{}{[Beber.]}
-{206}{}{Eu mudei de idéia, eu não quero álcool. Tchau.}
-{207}{}{(Você se sente confortável e relaxado depois de engolir o vinho.)}
-{208}{}{Dê outro, Hank.}
+{206}{}{Eu mudei de idÃ©ia, eu nÃ£o quero Ã¡lcool. Tchau.}
+{207}{}{(VocÃª se sente confortÃ¡vel e relaxado depois de engolir o vinho.)}
+{208}{}{DÃª outro, Hank.}
 {209}{}{Eu irei agora, tchau.}
-{210}{}{(De repente você se sente como merda, então a sua visão começa a diluir-se. Você cai no chão...)}
+{210}{}{(De repente vocÃª se sente como merda, entÃ£o a sua visÃ£o comeÃ§a a diluir-se. VocÃª cai no chÃ£o...)}
 {211}{}{[FEITO]}
-{212}{}{Não, Desculpe.}
-{213}{}{Olá, novamente.}
+{212}{}{NÃ£o, Desculpe.}
+{213}{}{OlÃ¡, novamente.}
 {214}{}{Oi e tchau.}
-{215}{}{Este não será gratuito. Vai custar-lhe $ 20.}
-{216}{}{Com certeza. Aqui está o dinheiro.}
-{217}{}{Nah, eu tive o suficiente. Talvez da próxima vez.}
-{218}{}{(Ele pega o dinheiro.) Tudo bem então, aqui está a bebida.}
+{215}{}{Este nÃ£o serÃ¡ gratuito. Vai custar-lhe $ 20.}
+{216}{}{Com certeza. Aqui estÃ¡ o dinheiro.}
+{217}{}{Nah, eu tive o suficiente. Talvez da prÃ³xima vez.}
+{218}{}{(Ele pega o dinheiro.) Tudo bem entÃ£o, aqui estÃ¡ a bebida.}
 {219}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {220}{}{Alguma sorte encontrando um isqueiro?}
-{250}{}{Eu gostaria de comprar alguns dos álcools que você faz aqui.}
+{250}{}{Eu gostaria de comprar alguns dos Ã¡lcools que vocÃª faz aqui.}
 {251}{}{Basta olhar em volta. Cuidado.}
 {252}{}{Com certeza. $20 uma garrafa.}
-{253}{}{[Segurá-lo.]}
+{253}{}{[SegurÃ¡-lo.]}
 {300}{}{Onde coloquei meu isqueiro?}
 {301}{}{Eu preciso de um isqueiro.}
-{302}{}{ALGUÉM PODERIA ME TRAZER UM ISQUEIRO!?}
-{303}{}{Uh, olá.}
-{304}{}{Desculpe, eu não posso conversar com você agora.}
+{302}{}{ALGUÃ‰M PODERIA ME TRAZER UM ISQUEIRO!?}
+{303}{}{Uh, olÃ¡.}
+{304}{}{Desculpe, eu nÃ£o posso conversar com vocÃª agora.}
 {400}{}{Ooh, olhe para todas aquelas belas estrelas!}
-{500}{}{Olá. Precisa de algo?}
-{501}{}{Ei, obrigado novamente pelo isqueiro. É melhor do que o meu antigo.}
-{600}{}{Nós fabricamos nosso próprio álcool aqui no mosteiro. Algumas das coisas mais poderosas que você experimentará nos Resíduos.}
+{500}{}{OlÃ¡. Precisa de algo?}
+{501}{}{Ei, obrigado novamente pelo isqueiro. Ã‰ melhor do que o meu antigo.}
+{600}{}{NÃ³s fabricamos nosso prÃ³prio Ã¡lcool aqui no mosteiro. Algumas das coisas mais poderosas que vocÃª experimentarÃ¡ nos ResÃ­duos.}
 {601}{}{Se importa se eu tentar?}
 {602}{}{Soa interessante. Eu devo ir.}
-{700}{}{Isso é ruim. Perdi o meu recentemente e não consigo achar isso em qualquer lugar. Se você conseguir uma única,
-  Eu ficaria feliz em tirar de suas mãos.}
-{701}{}{Certo. Se me deparar, eu vou deixar você saber. Tchau.}
+{700}{}{Isso Ã© ruim. Perdi o meu recentemente e nÃ£o consigo achar isso em qualquer lugar. Se vocÃª conseguir uma Ãºnica,
+Â  Eu ficaria feliz em tirar de suas mÃ£os.}
+{701}{}{Certo. Se me deparar, eu vou deixar vocÃª saber. Tchau.}
 {702}{}{Desculpa. Sou um colecionador e mantenho tudo o que encontro. Tchau.}
-{800}{}{Is-queiro? Eu tenho o criador de fogo. Ele queimou-me muitas vezes. (Você segurar um isqueiro.)}
-{810}{}{Sim, isso é o que eu preciso. Você vai dar para mim?}
-{811}{}{Otay. Eu não gosto disso.}
-{812}{}{Eu não dou a você.}
-{820}{}{Você não vá queima-se também. Tchau!}
+{800}{}{Is-queiro? Eu tenho o criador de fogo. Ele queimou-me muitas vezes. (VocÃª segurar um isqueiro.)}
+{810}{}{Sim, isso Ã© o que eu preciso. VocÃª vai dar para mim?}
+{811}{}{Otay. Eu nÃ£o gosto disso.}
+{812}{}{Eu nÃ£o dou a vocÃª.}
+{820}{}{VocÃª nÃ£o vÃ¡ queima-se tambÃ©m. Tchau!}

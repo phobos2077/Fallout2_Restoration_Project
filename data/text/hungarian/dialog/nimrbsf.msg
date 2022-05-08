@@ -1,12 +1,12 @@
-{100}{}{Az el?tted látható széfet masszívan beleer?sítették a falba. Az ajtaja csukva van.}
-{150}{}{Az el?tted látható széfet masszívan beleer?sítették a falba. Az ajtaja nyitva van.}
+{100}{}{Az el?tted lÃ¡thatÃ³ szÃ©fet masszÃ­van beleer?sÃ­tettÃ©k a falba. Az ajtaja csukva van.}
+{150}{}{Az el?tted lÃ¡thatÃ³ szÃ©fet masszÃ­van beleer?sÃ­tettÃ©k a falba. Az ajtaja nyitva van.}
 {200}{}{(There is a little door in the wall. A very, very small person must live inside! There is a doorknob with numbers on it in the middle of the door.)}
-{220}{}{(Kattanásokat hallasz, és a széf már nyitva is van.)}
-{230}{}{(Tüzetesebb szemlél?dést követ?en találsz egy apró plasztikbombát, amit a széf alá er?sítettek. Úgy állították be, hogy akkor robbanjon, ha valaki rossz számot üt be. Az egészet vékony réteg gipsz fedte, hogy nehezebb legyen megtalálni.)}
-{240}{}{(Jónéhány percig tekergeted a tárcsát, de nem jutsz vele semmire.)}
-{250}{}{(Nem találtál semmiféle csapdát a széfen.)}
-{260}{}{(Elfordítod a gombot... mire hirtelen kattanásokat hallasz, és az ajtó kinyílik!)}
-{270}{}{(Elfordítod a gombot, de az apró ajtó nem nyílik!)}
-{290}{}{(Nem hallasz senkit, és cseng?t sem látsz. Talán nincs is otthon senki.)}
-{300}{}{(Sebészi pontossággal hatástalanítod az indítószerkezetet, és kihúzod a plasztikbombát a falból. A csapda mostantól hatástalan.)}
-{310}{}{(Sebészi precizitással szétkapod az indítószerkezetet, és átállítod a kombinációs kallantyút. A széf tulajdonosa meg fog lep?dni, ha legközelebb kinyitja.)}
+{220}{}{(KattanÃ¡sokat hallasz, Ã©s a szÃ©f mÃ¡r nyitva is van.)}
+{230}{}{(TÃ¼zetesebb szemlÃ©l?dÃ©st kÃ¶vet?en talÃ¡lsz egy aprÃ³ plasztikbombÃ¡t, amit a szÃ©f alÃ¡ er?sÃ­tettek. Ãšgy Ã¡llÃ­tottÃ¡k be, hogy akkor robbanjon, ha valaki rossz szÃ¡mot Ã¼t be. Az egÃ©szet vÃ©kony rÃ©teg gipsz fedte, hogy nehezebb legyen megtalÃ¡lni.)}
+{240}{}{(JÃ³nÃ©hÃ¡ny percig tekergeted a tÃ¡rcsÃ¡t, de nem jutsz vele semmire.)}
+{250}{}{(Nem talÃ¡ltÃ¡l semmifÃ©le csapdÃ¡t a szÃ©fen.)}
+{260}{}{(ElfordÃ­tod a gombot... mire hirtelen kattanÃ¡sokat hallasz, Ã©s az ajtÃ³ kinyÃ­lik!)}
+{270}{}{(ElfordÃ­tod a gombot, de az aprÃ³ ajtÃ³ nem nyÃ­lik!)}
+{290}{}{(Nem hallasz senkit, Ã©s cseng?t sem lÃ¡tsz. TalÃ¡n nincs is otthon senki.)}
+{300}{}{(SebÃ©szi pontossÃ¡ggal hatÃ¡stalanÃ­tod az indÃ­tÃ³szerkezetet, Ã©s kihÃºzod a plasztikbombÃ¡t a falbÃ³l. A csapda mostantÃ³l hatÃ¡stalan.)}
+{310}{}{(SebÃ©szi precizitÃ¡ssal szÃ©tkapod az indÃ­tÃ³szerkezetet, Ã©s Ã¡tÃ¡llÃ­tod a kombinÃ¡ciÃ³s kallantyÃºt. A szÃ©f tulajdonosa meg fog lep?dni, ha legkÃ¶zelebb kinyitja.)}

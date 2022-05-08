@@ -38,11 +38,11 @@
 {259}{}{Te encuentras con una caravana.}
 {260}{}{Te encuentras con una caravana.}
 {261}{}{Te encuentras con un viajero.}
-{300}{}{Te encuentras con restos del ejÈrcito del Maestro.}
+{300}{}{Te encuentras con restos del ej√©rcito del Maestro.}
 {301}{}{Te encuentras con bandidos.}
-{302}{}{Te encuentras con Rangers de la RNC combatiendo contra restos del ejÈrcito del Maestro.}
+{302}{}{Te encuentras con Rangers de la RNC combatiendo contra restos del ej√©rcito del Maestro.}
 {303}{}{Te encuentras con Rangers de la RNC luchando contra bandidos.}
-{304}{}{Te encuentras con granjeros eludiendo a restos del ejÈrcito del Maestro.}
+{304}{}{Te encuentras con granjeros eludiendo a restos del ej√©rcito del Maestro.}
 {305}{}{Te encuentras con granjeros eludiendo a bandidos.}
 {306}{}{Te encuentras con Rangers de la RNC.}
 {307}{}{Te encuentras con granjeros.}
@@ -118,23 +118,23 @@
 {608}{}{Te encuentras con una caravana.}
 {609}{}{Te encuentras con una caravana.}
 {650}{}{Te encuentras con aliens y Garras mortales.}
-{651}{}{Te encuentras con centauros y nÛmadas.}
+{651}{}{Te encuentras con centauros y n√≥madas.}
 {652}{}{Te encuentras con geckos de fuego.}
 {653}{}{Te encuentras con aliens.}
 {654}{}{Te encuentras con Garras mortales.}
 {655}{}{Te encuentras con geckos de fuego.}
 {656}{}{Te encuentras con aliens.}
 {657}{}{Te encuentras con centauros.}
-{658}{}{Te encuentras con nÛmadas.}
+{658}{}{Te encuentras con n√≥madas.}
 {700}{}{Te encuentras con algunos Yakuza.}
 {701}{}{Te encuentras con una banda.}
 {702}{}{Te encuentras con algunos lobos.}
-{703}{}{Te encuentras con algunos g·ngsters luchando contra algunos Yakuza.}
-{704}{}{Te encuentras con algunos g·ngsters luchando contra una banda.}
-{705}{}{Te encuentras con algunos g·ngsters.}
+{703}{}{Te encuentras con algunos g√°ngsters luchando contra algunos Yakuza.}
+{704}{}{Te encuentras con algunos g√°ngsters luchando contra una banda.}
+{705}{}{Te encuentras con algunos g√°ngsters.}
 {706}{}{Te encuentras con un viajero.}
-{750}{}{Te encuentras con una caravana eludiendo a restos del ejÈrcito del Maestro.}
-{751}{}{Te encuentras con una caravana luchando contra restos del ejÈrcito del Maestro.}
+{750}{}{Te encuentras con una caravana eludiendo a restos del ej√©rcito del Maestro.}
+{751}{}{Te encuentras con una caravana luchando contra restos del ej√©rcito del Maestro.}
 {752}{}{Te encuentras con una caravana luchando contra Garras mortales.}
 {753}{}{Te encuentras con una caravana.}
 {754}{}{Te encuentras con una caravana.}

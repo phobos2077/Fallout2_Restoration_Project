@@ -2,100 +2,100 @@
 {101}{}{Ves a Chip. Parece estar mejor.}
 {102}{}{Ves a un vagabundo calvo. Parece bastante recuperado.}
 {103}{}{Ooh, mis tripas... ay, ay, ay.}
-{104}{}{¿Tipas?}
-{105}{}{¿Qué hay?}
-{106}{}{¿Qué es lo que te pasa?}
-{107}{}{¿Te duele algo? Ja ja ja.}
-{108}{}{¿Quién eres?}
-{109}{}{¿Tienes alguna información que darme sobre mi pueblo?}
-{110}{}{Oooh, mis tripas. Me duele. Por favor, déjame solo.}
+{104}{}{Â¿Tipas?}
+{105}{}{Â¿QuÃ© hay?}
+{106}{}{Â¿QuÃ© es lo que te pasa?}
+{107}{}{Â¿Te duele algo? Ja ja ja.}
+{108}{}{Â¿QuiÃ©n eres?}
+{109}{}{Â¿Tienes alguna informaciÃ³n que darme sobre mi pueblo?}
+{110}{}{Oooh, mis tripas. Me duele. Por favor, dÃ©jame solo.}
 {111}{}{Vale.}
-{112}{}{¿Que qué me pasa? Te lo diré: que la semana pasada me emborraché, empecé a apostar con Lao Chou, y perdí. Tenía tal cogorza que aposté mi bazo. Ahora lo tiene él, y yo lo necesito.}
-{113}{}{¿APOSTASTE tu bazo?}
+{112}{}{Â¿Que quÃ© me pasa? Te lo dirÃ©: que la semana pasada me emborrachÃ©, empecÃ© a apostar con Lao Chou, y perdÃ­. TenÃ­a tal cogorza que apostÃ© mi bazo. Ahora lo tiene Ã©l, y yo lo necesito.}
+{113}{}{Â¿APOSTASTE tu bazo?}
 {114}{}{Eso no es bueno.}
 {115}{}{Debes de ser un tonto de primera.}
-{116}{}{Sí, bueno, necesito algo de información en lugar de tus lloriqueos.}
+{116}{}{SÃ­, bueno, necesito algo de informaciÃ³n en lugar de tus lloriqueos.}
 {117}{}{::jadea:: Que te jodan.}
 {118}{}{::jadea:: Vete a la mierda.}
-{119}{}{Sí, lo que sea.}
-{120}{}{Oye, he cambiado de opinión. Quiero ayudar.}
-{121}{}{Sí, lo aposté. ¡Estaba borracho! Además, creo que Lao Chou deslizó un poco de Jet en mi bebida. Necesito mi bazo porque ahora me están atacando las infecciones.}
+{119}{}{SÃ­, lo que sea.}
+{120}{}{Oye, he cambiado de opiniÃ³n. Quiero ayudar.}
+{121}{}{SÃ­, lo apostÃ©. Â¡Estaba borracho! AdemÃ¡s, creo que Lao Chou deslizÃ³ un poco de Jet en mi bebida. Necesito mi bazo porque ahora me estÃ¡n atacando las infecciones.}
 {122}{}{Oye, lo perdiste. Es tu problema. Vive con ello.}
-{123}{}{Bueno, qué demonios, veré qué se puede hacer.}
-{124}{}{Sí, así es. Necesito mi bazo porque ahora me están atacando las infecciones.}
+{123}{}{Bueno, quÃ© demonios, verÃ© quÃ© se puede hacer.}
+{124}{}{SÃ­, asÃ­ es. Necesito mi bazo porque ahora me estÃ¡n atacando las infecciones.}
 {125}{}{Oye, lo perdiste. Es tu problema. Vive con ello.}
-{126}{}{Bueno, qué demonios, veré qué se puede hacer.}
+{126}{}{Bueno, quÃ© demonios, verÃ© quÃ© se puede hacer.}
 {127}{}{Realmente te lo agradezco. Ve a hablar con Lao Chou, el comerciante, y dile que necesito mi bazo de vuelta.}
-{128}{}{Volveré.}
+{128}{}{VolverÃ©.}
 {129}{}{Soy Chip. Y me retuerzo de dolor.}
-{130}{}{¿Qué es lo que te pasa?}
-{131}{}{¿Te duele algo? Ja ja ja.}
+{130}{}{Â¿QuÃ© es lo que te pasa?}
+{131}{}{Â¿Te duele algo? Ja ja ja.}
 {132}{}{Eso no es bueno. Hasta luego.}
-{133}{}{¿Información? ¿Me retuerzo de dolor y tú quieres información?}
-{134}{}{¿Qué es lo que te pasa?}
-{135}{}{¿Te duele algo? Ja ja ja.}
-{136}{}{Olvídalo.}
-{137}{}{¿Ya has encontrado mi bazo?}
-{138}{}{Sí. Lo tiene el doctor Wong Yi Tze, y te lo devolverá. Ve a hablar con él sobre ello.}
-{139}{}{Sí. Comprueba el cadáver del doctor Wong.}
+{133}{}{Â¿InformaciÃ³n? Â¿Me retuerzo de dolor y tÃº quieres informaciÃ³n?}
+{134}{}{Â¿QuÃ© es lo que te pasa?}
+{135}{}{Â¿Te duele algo? Ja ja ja.}
+{136}{}{OlvÃ­dalo.}
+{137}{}{Â¿Ya has encontrado mi bazo?}
+{138}{}{SÃ­. Lo tiene el doctor Wong Yi Tze, y te lo devolverÃ¡. Ve a hablar con Ã©l sobre ello.}
+{139}{}{SÃ­. Comprueba el cadÃ¡ver del doctor Wong.}
 {140}{}{Parece ser que el doctor Wong Yi Tze lo tiene. No me lo quiere dar.}
-{141}{}{Me enteré de dónde está, pero creo que el doctor Wong se lo ha comido.}
-{142}{}{No, aún no. Pero lo haré.}
+{141}{}{Me enterÃ© de dÃ³nde estÃ¡, pero creo que el doctor Wong se lo ha comido.}
+{142}{}{No, aÃºn no. Pero lo harÃ©.}
 {143}{}{No. En realidad no lo estoy buscando.}
-{144}{}{Está bien. ::jadea:: Antes de nada, quizá deberíamos buscar una forma de reponérmelo. Habla sobre ello con el Doctor Fung, ¿de acuerdo? Gracias.}
+{144}{}{EstÃ¡ bien. ::jadea:: Antes de nada, quizÃ¡ deberÃ­amos buscar una forma de reponÃ©rmelo. Habla sobre ello con el Doctor Fung, Â¿de acuerdo? Gracias.}
 {145}{}{De acuerdo.}
 {146}{}{No.}
-{147}{}{Agradezco de veras lo que estás haciendo por mí. No lo olvidaré.}
+{147}{}{Agradezco de veras lo que estÃ¡s haciendo por mÃ­. No lo olvidarÃ©.}
 {148}{}{No hay problema.}
 {149}{}{Amigo, realmente no puedo ir a los lugares sin mucho esfuerzo. Si usted no puede ayudarme, estoy jodido.}
-{150}{}{Bien. Iré a hablar con Fung.}
+{150}{}{Bien. IrÃ© a hablar con Fung.}
 {151}{}{Bien. De todos modos ya me importas una mierda.}
-{152}{}{Si pudieras hacer algo al respecto... matarlo, o convencerlo, o algo... moriré sin él.}
-{153}{}{Sé lo que podemos hacer.}
-{154}{}{Lo siento, amigo... creo que estás jodido. No puedo ayudarte.}
-{155}{}{Sin bazo, moriré. De todos modos, gracias por tu ayuda.}
-{156}{}{Lo encontré. Ve a los aposentos del doctor Wong.}
-{157}{}{Oh, lo cubriré. Ve con Fung.}
+{152}{}{Si pudieras hacer algo al respecto... matarlo, o convencerlo, o algo... morirÃ© sin Ã©l.}
+{153}{}{SÃ© lo que podemos hacer.}
+{154}{}{Lo siento, amigo... creo que estÃ¡s jodido. No puedo ayudarte.}
+{155}{}{Sin bazo, morirÃ©. De todos modos, gracias por tu ayuda.}
+{156}{}{Lo encontrÃ©. Ve a los aposentos del doctor Wong.}
+{157}{}{Oh, lo cubrirÃ©. Ve con Fung.}
 {158}{}{No hay problema. Buena suerte.}
-{159}{}{¿Has hablado con Fung?}
-{160}{}{Sí, y dice que te lo colocará gratuitamente.}
-{161}{}{Sí, y cobra 1.000 dólares.}
+{159}{}{Â¿Has hablado con Fung?}
+{160}{}{SÃ­, y dice que te lo colocarÃ¡ gratuitamente.}
+{161}{}{SÃ­, y cobra 1.000 dÃ³lares.}
 {162}{}{}
-{163}{}{Caray. Tienes contactos de alto nivel. Vuelve dentro de un día y veré cómo puedo ayudarte.}
+{163}{}{Caray. Tienes contactos de alto nivel. Vuelve dentro de un dÃ­a y verÃ© cÃ³mo puedo ayudarte.}
 {164}{}{Me parece bien.}
-{165}{}{¿Puedes cubrirlo?}
-{166}{}{Sí, supongo.}
+{165}{}{Â¿Puedes cubrirlo?}
+{166}{}{SÃ­, supongo.}
 {167}{}{No.}
-{168}{}{Realmente te agradezco esto. Vuelve dentro de un día y veré cómo puedo ayudarte.}
+{168}{}{Realmente te agradezco esto. Vuelve dentro de un dÃ­a y verÃ© cÃ³mo puedo ayudarte.}
 {169}{}{Ponte bien.}
 {170}{}{No me lo puedo permitir. Supongo que voy a morir.}
-{171}{}{Oh, está bien, lo cubriré.}
+{171}{}{Oh, estÃ¡ bien, lo cubrirÃ©.}
 {172}{}{Mala suerte. Estoy en bancarrota.}
-{173}{}{Ni te imaginas lo bien que me encuentro. Ahora, ¿qué es lo que querías de mí?}
-{174}{}{¿Cómo puedo dirigir este barco?}
-{175}{}{¿Dónde está mi gente? ¿Lo sabes?}
+{173}{}{Ni te imaginas lo bien que me encuentro. Ahora, Â¿quÃ© es lo que querÃ­as de mÃ­?}
+{174}{}{Â¿CÃ³mo puedo dirigir este barco?}
+{175}{}{Â¿DÃ³nde estÃ¡ mi gente? Â¿Lo sabes?}
 {176}{}{Necesito un trabajito con computadoras.}
-{177}{}{Ahora mismo nada, gracias. Adiós.}
-{178}{}{Habla con el capitán. Vive en su cabina, arriba.}
-{179}{}{Gracias. Más preguntas...}
-{180}{}{Gracias. Adiós.}
-{181}{}{Se dice que se los llevaron al oeste, a través del océano. Tu mejor apuesta es poner en marcha este cacharro.}
-{182}{}{Gracias. Más preguntas...}
-{183}{}{Gracias. Adiós.}
-{184}{}{¿Un trabajito con computadoras? Si no te lo pueden hacer los Shi o los Hubologistas, tendrás que hablar con Badger. Es una lumbrera.}
-{185}{}{Gracias. Más preguntas...}
-{186}{}{Gracias. Adiós.}
+{177}{}{Ahora mismo nada, gracias. AdiÃ³s.}
+{178}{}{Habla con el capitÃ¡n. Vive en su cabina, arriba.}
+{179}{}{Gracias. MÃ¡s preguntas...}
+{180}{}{Gracias. AdiÃ³s.}
+{181}{}{Se dice que se los llevaron al oeste, a travÃ©s del ocÃ©ano. Tu mejor apuesta es poner en marcha este cacharro.}
+{182}{}{Gracias. MÃ¡s preguntas...}
+{183}{}{Gracias. AdiÃ³s.}
+{184}{}{Â¿Un trabajito con computadoras? Si no te lo pueden hacer los Shi o los Hubologistas, tendrÃ¡s que hablar con Badger. Es una lumbrera.}
+{185}{}{Gracias. MÃ¡s preguntas...}
+{186}{}{Gracias. AdiÃ³s.}
 {187}{}{Mierda. Habla con los Hubologistas o con los Shi. Con Badger muerto, no tengo ni idea.}
-{188}{}{Gracias. Más preguntas...}
-{189}{}{Gracias. Adiós.}
+{188}{}{Gracias. MÃ¡s preguntas...}
+{189}{}{Gracias. AdiÃ³s.}
 {190}{}{Cabronazo.}
-{191}{}{Vas a necesitar más analgésicos.}
-{192}{}{Montón de mierda. Te voy a dar una paliza.}
+{191}{}{Vas a necesitar mÃ¡s analgÃ©sicos.}
+{192}{}{MontÃ³n de mierda. Te voy a dar una paliza.}
 {193}{}{Ves a un vagabundo calvo.}
 {194}{}{Ves a Chip. Parece sufrir mucho dolor.}
 {195}{}{Ves a un vagabundo calvo. Se sujeta un costado con la mano y jadea de dolor.}
-{196}{}{Está bien. Hablaré con Fung.}
-{197}{}{¿Ha habido suerte con lo de mi bazo?}
-{198}{}{Sí, y quería 1.000 dólares... pero ya los pagué yo.}
+{196}{}{EstÃ¡ bien. HablarÃ© con Fung.}
+{197}{}{Â¿Ha habido suerte con lo de mi bazo?}
+{198}{}{SÃ­, y querÃ­a 1.000 dÃ³lares... pero ya los paguÃ© yo.}
 {199}{}{Gracias por toda tu ayuda, colega.}
-{200}{}{Amigo, he oído que encontraste mi bazo. ¿Has hablado con el doctor Fung sobre lo de volver a colocármelo?}
+{200}{}{Amigo, he oÃ­do que encontraste mi bazo. Â¿Has hablado con el doctor Fung sobre lo de volver a colocÃ¡rmelo?}

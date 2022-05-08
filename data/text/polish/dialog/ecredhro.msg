@@ -1,18 +1,18 @@
-{100}{}{Widzisz... model rudow³osej bohaterki.}
-{101}{}{Widzisz niezwykle piêkn¹, rudow³os¹ kobietê w kombinezonie Krypty 13. Ze z³oœci¹ wpatruje siê w horyzont.}
-{102}{}{Widzisz model rudow³osej bohaterki. Wypatruje czegoœ na horyzoncie.}
-{103}{}{Widzisz model rudow³osej bohaterki. Wypatruje czegoœ na horyzoncie.}
-{104}{}{Nie mogê uwierzyæ, ¿e nie zatrudnili mnie w Fallout 1.}
-{105}{}{Zamiast tego wybrali tê czarnow³os¹ puszczalsk¹. Jak mogli!}
-{106}{}{Czarnow³osa bohaterka? Ju¿ bardziej sztampowo byæ nie mog³o. Nuda.}
-{107}{}{Rudzielce s¹ tysi¹æ razy bardziej interesuj¹ce.}
-{108}{}{Ta czarnow³osa dosta³a robotê tylko dlatego, ¿e przespa³a siê z *wszystkimi* grafikami z zespo³u.}
+{100}{}{Widzisz... model rudowÅ‚osej bohaterki.}
+{101}{}{Widzisz niezwykle piÄ™knÄ…, rudowÅ‚osÄ… kobietÄ™ w kombinezonie Krypty 13. Ze zÅ‚oÅ›ciÄ… wpatruje siÄ™ w horyzont.}
+{102}{}{Widzisz model rudowÅ‚osej bohaterki. Wypatruje czegoÅ› na horyzoncie.}
+{103}{}{Widzisz model rudowÅ‚osej bohaterki. Wypatruje czegoÅ› na horyzoncie.}
+{104}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e nie zatrudnili mnie w Fallout 1.}
+{105}{}{Zamiast tego wybrali tÄ™ czarnowÅ‚osÄ… puszczalskÄ…. Jak mogli!}
+{106}{}{CzarnowÅ‚osa bohaterka? JuÅ¼ bardziej sztampowo byÄ‡ nie mogÅ‚o. Nuda.}
+{107}{}{Rudzielce sÄ… tysiÄ…Ä‡ razy bardziej interesujÄ…ce.}
+{108}{}{Ta czarnowÅ‚osa dostaÅ‚a robotÄ™ tylko dlatego, Å¼e przespaÅ‚a siÄ™ z *wszystkimi* grafikami z zespoÅ‚u.}
 {109}{}{I z programistami.}
-{110}{}{I z szefem projektu. Ch³opami tak ³atwo manipulowaæ. Poka¿ im trochê cia³a, a zaczn¹ ci jeœæ z rêki.}
-{111}{}{No i skoñczy³am jako "statysta-BN" w Krypcie 13. Chryste, to by³ dopiero koszmar.}
-{112}{}{Dziwiê siê, ¿e wyposa¿yli tê laluniê w jakieœ ciuchy.}
-{113}{}{W koñcu nie by³y jej szczególnie potrzebne podczas castingu.}
+{110}{}{I z szefem projektu. ChÅ‚opami tak Å‚atwo manipulowaÄ‡. PokaÅ¼ im trochÄ™ ciaÅ‚a, a zacznÄ… ci jeÅ›Ä‡ z rÄ™ki.}
+{111}{}{No i skoÅ„czyÅ‚am jako "statysta-BN" w Krypcie 13. Chryste, to byÅ‚ dopiero koszmar.}
+{112}{}{DziwiÄ™ siÄ™, Å¼e wyposaÅ¼yli tÄ™ laluniÄ™ w jakieÅ› ciuchy.}
+{113}{}{W koÅ„cu nie byÅ‚y jej szczegÃ³lnie potrzebne podczas castingu.}
 {114}{}{*Wzdycha*}
-{115}{}{Nienawidzê mê¿czyzn.}
-{116}{}{No, mo¿e poza tym niesamowitym Scottym Evertsem.}
-{117}{}{On chyba siê za mn¹ wstawi³. I wystarczy³o siê z nim przespaæ tylko kilka razy.}
+{115}{}{NienawidzÄ™ mÄ™Å¼czyzn.}
+{116}{}{No, moÅ¼e poza tym niesamowitym Scottym Evertsem.}
+{117}{}{On chyba siÄ™ za mnÄ… wstawiÅ‚. I wystarczyÅ‚o siÄ™ z nim przespaÄ‡ tylko kilka razy.}

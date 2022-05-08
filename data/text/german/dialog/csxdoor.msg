@@ -1,2 +1,2 @@
-{100}{}{Um diese Tür zu öffnen, braucht man einen Sicherheitsschlüssel.}
-{101}{}{Du benutzt den Sicherheitsschlüssel und öffnest die Tür.}
+{100}{}{Um diese TÃ¼r zu Ã¶ffnen, braucht man einen SicherheitsschlÃ¼ssel.}
+{101}{}{Du benutzt den SicherheitsschlÃ¼ssel und Ã¶ffnest die TÃ¼r.}

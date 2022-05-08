@@ -1,7 +1,7 @@
 {100}{}{You see the casino pit boss.}
 {150}{}{You see a well-dressed man. He is surveying the casino.}
 {151}{}{You see a pit boss. He is surveying the casino.}
-{200}{}{Uh…you'll need to remove that armor.}
+{200}{}{Uhâ€¦you'll need to remove that armor.}
 {201}{}{Uh, sir... or ma'am... you'll need to remove that armor.}
 {202}{}{Sir... ma'am... you can't wear that in the casino.}
 {205}{}{Uh, perche' si muove cosi' silenziosamente, signore?}
@@ -26,7 +26,7 @@
 {260}{}{Dolcezza, con un corpo come quello, non riusciresti a passare inosservata nemmeno in un ospizio per ciechi.}
 {265}{}{Selvaggio, farai meglio a mettere via quell'arma IMMEDIATAMENTE.}
 {270}{}{Selvaggio, farai meglio a smetterla di muoverti furtivamente... SUBITO.}
-{275}{}{Ehi, ehi…Myron! Era da un po' che non ti si vedeva fuori dal laboratorio.}
+{275}{}{Ehi, ehiâ€¦Myron! Era da un po' che non ti si vedeva fuori dal laboratorio.}
 {276}{}{Sei qui per provare un po' della nuova merce, Myron?}
 {277}{}{Ehi! Entra, Myron.}
 {280}{}{Shoot. What d'you want to know?}
@@ -52,12 +52,12 @@
 {304}{}{-Allontanati-}
 {305}{}{Non dovrei chiacchierare mentre sono in servizio, ma sono contento che tu abbia distrutto l'Enclave.}
 {306}{}{Ehi, }
-{310}{}{Need some more chips at table three…}
+{310}{}{Need some more chips at table threeâ€¦}
 {311}{}{Good crowd today...}
-{315}{}{Yeah, yer Mom said I was special, too. Now take a hike…maybe she's along Virgin street somewhere.}
+{315}{}{Yeah, yer Mom said I was special, too. Now take a hikeâ€¦maybe she's along Virgin street somewhere.}
 {316}{}{Oh goodie! Bye bye}
 {317}{}{-Allontanati-}
-{320}{}{Need some more chips at table three…}
+{320}{}{Need some more chips at table threeâ€¦}
 {321}{}{Good crowd tonight...}
 {325}{}{I'm the pit boss. Now what can I do for you?}
 {326}{}{I run the floor of the casino here. You need anything, just ask.}
@@ -121,7 +121,7 @@
 {415}{}{Her name was Nikki. She used to work here but she took off not too long ago. Just packed her shit and bailed.}
 {416}{}{Do you mind if I ask you some other questions...}
 {417}{}{Interessante. Grazie per l'informazione.}
-{425}{}{Sure, be good for business. Dressing room's in the back…}
+{425}{}{Sure, be good for business. Dressing room's in the backâ€¦}
 {426}{}{Excellent. I'll be on stage in a few minutes...}
 {427}{}{Non adesso. Avrei delle altre domande...}
 {428}{}{Not right now, but I'll be back.}
@@ -191,7 +191,7 @@
 {1355}{}{ Family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
 {1356}{}{ Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
 {1361}{}{. Love your films.}
-{1365}{}{That guy? Old Man McGee? Crazy sumabitch…he's been playing that machine there for the past few years, waiting for the big jackpot. His life fortune must be sitting in that thing, but it won't give him a single chip.}
+{1365}{}{That guy? Old Man McGee? Crazy sumabitchâ€¦he's been playing that machine there for the past few years, waiting for the big jackpot. His life fortune must be sitting in that thing, but it won't give him a single chip.}
 {1366}{}{That guy? Old Man McGee? Crazy sumabitch, that's for sure. Heh.
  Sure was pissed about you winning his fortune. I'd be careful around him.}
 {1367}{}{Is the machine rigged?}

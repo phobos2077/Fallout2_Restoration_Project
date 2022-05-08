@@ -1,110 +1,110 @@
-{100}{}{Widzisz kolejnego ghula. Wygl¹da jakby by³ czymœ zajêty.}
+{100}{}{Widzisz kolejnego ghula. WyglÄ…da jakby byÅ‚ czymÅ› zajÄ™ty.}
 {101}{}{Widzisz Gordona z Gecko.}
-{102}{}{Widzisz bardzo porz¹dnie ubranego ghula. W³osy ma przylizane do ty³u.}
-{110}{}{Nie mam czasu na rozmowê z g³upimi ludŸmi.}
-{111}{}{Mam masê wa¿nych rzeczy do zrobienia. Wynoœ siê.}
-{112}{}{Nie masz rozumu tak samo jak ca³a reszta.}
-{113}{}{To nie jest pokój, w którym odbywaj¹ siê zajêcia wyrównawcze z czytania.}
-{114}{}{S¹dzê, ¿e wœród g³adkoskórków jest zbyt wiele ma³¿eñstw miêdzy kuzynami.}
+{102}{}{Widzisz bardzo porzÄ…dnie ubranego ghula. WÅ‚osy ma przylizane do tyÅ‚u.}
+{110}{}{Nie mam czasu na rozmowÄ™ z gÅ‚upimi ludÅºmi.}
+{111}{}{Mam masÄ™ waÅ¼nych rzeczy do zrobienia. WynoÅ› siÄ™.}
+{112}{}{Nie masz rozumu tak samo jak caÅ‚a reszta.}
+{113}{}{To nie jest pokÃ³j, w ktÃ³rym odbywajÄ… siÄ™ zajÄ™cia wyrÃ³wnawcze z czytania.}
+{114}{}{SÄ…dzÄ™, Å¼e wÅ›rÃ³d gÅ‚adkoskÃ³rkÃ³w jest zbyt wiele maÅ‚Å¼eÅ„stw miÄ™dzy kuzynami.}
 {120}{}{Witaj. Jestem Gordon. Gordon z Gecko.}
 {121}{}{Witaj ponownie }
-{122}{}{Czeœæ, Gordon. Jestem }
-{123}{}{Mi³o mi ciê poznaæ Gordon. Mam na imiê }
-{124}{}{Przypomnij mi Gordon, czego uda³o ci siê tu dokonaæ.}
-{125}{}{Odwiedzam po prostu starych znajomych. Fajnie ciê znowu widzieæ. No to czeœæ.}
+{122}{}{CzeÅ›Ä‡, Gordon. Jestem }
+{123}{}{MiÅ‚o mi ciÄ™ poznaÄ‡ Gordon. Mam na imiÄ™ }
+{124}{}{Przypomnij mi Gordon, czego udaÅ‚o ci siÄ™ tu dokonaÄ‡.}
+{125}{}{Odwiedzam po prostu starych znajomych. Fajnie ciÄ™ znowu widzieÄ‡. No to czeÅ›Ä‡.}
 {130}{}{Szukam okazji.}
-{131}{}{Okazji? Na przyk³ad jakich okazji?}
+{131}{}{Okazji? Na przykÅ‚ad jakich okazji?}
 {135}{}{Szukam metod maksymalizacji mojego potencjalnego zysku.}
-{136}{}{Hmm, dla mnie to brzmi jak zach³annoœæ.}
-{140}{}{Jestem zach³anny. Ale wiêkszoœæ ludzi niew³aœciwie pojmuje zach³annoœæ, a jest ona potê¿n¹ si³¹ napêdow¹. Jak pokazuje historia, najwiêksze osi¹gniêcia gatunku ludzkiego s¹ zas³ug¹ ludzi, którzy chcieli poprawiæ swoj¹ pozycjê. Napêdzani zach³annoœci¹. Zach³annoœæ, z braku lepszego s³owa, jest dobra.}
-{141}{}{W tej sprawie muszê Gordonie uwierzyæ ci na s³owo. Ale co zach³annoœæ ma wspólnego z Gecko?}
-{150}{}{Jak na razie niewiele. Ale w zach³annoœci le¿y ratunek dla Gecko. Znajdujê siê w posiadaniu pewnych informacji istotnych dla ocalenia tego miasta, ale nikt nie chce mnie wys³uchaæ.}
-{151}{}{Có¿ to za informacje?}
-{160}{}{No wiec... Obliczy³em, ¿e gdyby nasz reaktor pracowa³ w³aœciwie, to moglibyœmy wytwarzaæ du¿o wiêcej energii. O wiele wiêcej ni¿ potrzebuje Gecko.}
+{136}{}{Hmm, dla mnie to brzmi jak zachÅ‚annoÅ›Ä‡.}
+{140}{}{Jestem zachÅ‚anny. Ale wiÄ™kszoÅ›Ä‡ ludzi niewÅ‚aÅ›ciwie pojmuje zachÅ‚annoÅ›Ä‡, a jest ona potÄ™Å¼nÄ… siÅ‚Ä… napÄ™dowÄ…. Jak pokazuje historia, najwiÄ™ksze osiÄ…gniÄ™cia gatunku ludzkiego sÄ… zasÅ‚ugÄ… ludzi, ktÃ³rzy chcieli poprawiÄ‡ swojÄ… pozycjÄ™. NapÄ™dzani zachÅ‚annoÅ›ciÄ…. ZachÅ‚annoÅ›Ä‡, z braku lepszego sÅ‚owa, jest dobra.}
+{141}{}{W tej sprawie muszÄ™ Gordonie uwierzyÄ‡ ci na sÅ‚owo. Ale co zachÅ‚annoÅ›Ä‡ ma wspÃ³lnego z Gecko?}
+{150}{}{Jak na razie niewiele. Ale w zachÅ‚annoÅ›ci leÅ¼y ratunek dla Gecko. ZnajdujÄ™ siÄ™ w posiadaniu pewnych informacji istotnych dla ocalenia tego miasta, ale nikt nie chce mnie wysÅ‚uchaÄ‡.}
+{151}{}{CÃ³Å¼ to za informacje?}
+{160}{}{No wiec... ObliczyÅ‚em, Å¼e gdyby nasz reaktor pracowaÅ‚ wÅ‚aÅ›ciwie, to moglibyÅ›my wytwarzaÄ‡ duÅ¼o wiÄ™cej energii. O wiele wiÄ™cej niÅ¼ potrzebuje Gecko.}
 {161}{}{I...?}
-{170}{}{Teraz, kiedy dziêki twojej pomocy uda³o siê naprawiæ nasz¹ elektrowniê atomow¹, mam o wiele wiêksz¹ szansê na to, ¿e dostanê to czego chcê, ¿e uda mi siê zmaksymalizowaæ swój potencja³.}
-{171}{}{Zmaksymalizowaæ potencja³? Co masz na myœli?}
+{170}{}{Teraz, kiedy dziÄ™ki twojej pomocy udaÅ‚o siÄ™ naprawiÄ‡ naszÄ… elektrowniÄ™ atomowÄ…, mam o wiele wiÄ™kszÄ… szansÄ™ na to, Å¼e dostanÄ™ to czego chcÄ™, Å¼e uda mi siÄ™ zmaksymalizowaÄ‡ swÃ³j potencjaÅ‚.}
+{171}{}{ZmaksymalizowaÄ‡ potencjaÅ‚? Co masz na myÅ›li?}
 {172}{}{To znowu Ty, Gordon?}
-{180}{}{Dowiedzia³em siê równie¿, z bardzo wiarygodnego Ÿród³a, ¿e Kryptopolis nie mo¿e siê rozrastaæ bez dodatkowego Ÿród³a energii.}
-{181}{}{Kryptopolis nie mo¿e siê rozrastaæ?}
-{182}{}{"Bardzo wiarygodne Ÿród³o", tak? A któ¿ to taki?}
-{190}{}{Kryptopolis ma doœæ energii, ¿eby zaspokajaæ swoje obecne potrzeby, o ile bêdzie ostro¿ne. Ale ich elektrownia nie zosta³a zaprojektowana na zwiêkszone obci¹¿enie, jakie nak³ada miasto. W tej chwili osi¹ga ju¿ szczyt swojej wydajnoœci. Bez dodatkowego Ÿród³a energii miasto nie mo¿e siê rozwijaæ.}
-{191}{}{Nie rozumiem, w czym to mia³oby tobie pomóc.}
-{200}{}{No wiêc, je¿eli nasza elektrownia bêdzie pracowaæ lepiej, to bêdziemy mogli wymieniæ nadmiar energii na ich techniki medyczne.}
+{180}{}{DowiedziaÅ‚em siÄ™ rÃ³wnieÅ¼, z bardzo wiarygodnego ÅºrÃ³dÅ‚a, Å¼e Kryptopolis nie moÅ¼e siÄ™ rozrastaÄ‡ bez dodatkowego ÅºrÃ³dÅ‚a energii.}
+{181}{}{Kryptopolis nie moÅ¼e siÄ™ rozrastaÄ‡?}
+{182}{}{"Bardzo wiarygodne ÅºrÃ³dÅ‚o", tak? A ktÃ³Å¼ to taki?}
+{190}{}{Kryptopolis ma doÅ›Ä‡ energii, Å¼eby zaspokajaÄ‡ swoje obecne potrzeby, o ile bÄ™dzie ostroÅ¼ne. Ale ich elektrownia nie zostaÅ‚a zaprojektowana na zwiÄ™kszone obciÄ…Å¼enie, jakie nakÅ‚ada miasto. W tej chwili osiÄ…ga juÅ¼ szczyt swojej wydajnoÅ›ci. Bez dodatkowego ÅºrÃ³dÅ‚a energii miasto nie moÅ¼e siÄ™ rozwijaÄ‡.}
+{191}{}{Nie rozumiem, w czym to miaÅ‚oby tobie pomÃ³c.}
+{200}{}{No wiÄ™c, jeÅ¼eli nasza elektrownia bÄ™dzie pracowaÄ‡ lepiej, to bÄ™dziemy mogli wymieniÄ‡ nadmiar energii na ich techniki medyczne.}
 {201}{}{No i?}
-{210}{}{Bez naszej energii Kryptopolis wypali swój reaktor w ci¹gu piêtnastu lat. Je¿eli nasz reaktor nie zostanie naprawiony, to nie przetrwa nawet po³owy tego czasu. Bez ich technik medycznych wszyscy ghule i tak wymr¹ w ci¹gu nastêpnych dwudziestu lat. Wszyscy strac¹ je¿eli Gecko i Kryptopolis nie bêd¹ wspó³pracowa³y.}
-{211}{}{A wiêc ty jesteœ dobrym Samarytaninem, tak? Jakoœ tego nie kupujê.}
-{220}{}{Ani trochê. Jestem kryty. Idealnie bêdê siê nadawa³ na stanowisko administratora tego projektu. Zach³annoœæ to moja si³a napêdowa, ale tysi¹ce istnieñ zostan¹ dziêki niej ocalone. Zach³annoœæ jest dobra. A przynajmniej by³aby dobra, gdyby uda³o mi siê zmusiæ kogoœ z Kryptopolis do przejrzenia moich ekonomicznych wyliczeñ.}
-{221}{}{Nie wydaje mi siê, ¿ebyœ nadawa³ siê na stanowisko administratora czegokolwiek.}
-{222}{}{Hmm, byæ mo¿e bêdê w stanie pokazaæ te dane komuœ z Kryptopolis.}
-{223}{}{Za³o¿ê siê, ¿e radny McClure z Kryptopolis z radoœci¹ pozna³by te dane. On wygl¹da na cz³owieka, którym w wiêkszym stopniu ni¿ bigoteria rz¹dzi zdrowy rozsadek.}
-{224}{}{Œwietna historia Gordon. Jesteœ po prostu najlepszy. (chichot) Muszê to zapamiêtaæ... Na razie.}
-{230}{}{Podsumujê dane ekonomiczne dotycz¹ce Gecko i z³o¿ê raport Haroldowi. Ale on zazwyczaj mnie nie s³ucha.}
-{231}{}{Przykro mi to s³yszeæ. Jakie dane ekonomiczne?}
-{232}{}{Hmm, na pewno Harold jest bardzo zajêty. Do zobaczenia.}
-{240}{}{Pewnej nocy s³ysza³em g³os. Dochodzi³ z dziury reaktora. G³os cieni. Na pocz¹tku nie wiedzia³em co o tym myœleæ, ale to co mówi³ g³os by³o bardzo sensowne. Wszystkie dane, które poda³, s¹ prawdziwe. Nie wiem kim lub czym ten g³os jest, ale sprawy wygl¹daj¹ dok³adnie tak jak to opisa³.}
-{241}{}{O czym mówi³ g³os?}
-{250}{}{Mówi³ g³ównie o maksymalizowaniu potencjalnego zysku. Mojego potencjalnego zysku.}
-{251}{}{Twojego potencjalnego zysku. Wygl¹da na to, ¿e jesteœ po prostu zach³anny.}
-{260}{}{Mówi³ g³ównie o maksymalizowaniu potencjalnego zysku. Mojego potencjalnego zysku.}
-{261}{}{Twojego potencjalnego zysku. Wygl¹da na to, ¿e jesteœ po prostu zach³anny.}
+{210}{}{Bez naszej energii Kryptopolis wypali swÃ³j reaktor w ciÄ…gu piÄ™tnastu lat. JeÅ¼eli nasz reaktor nie zostanie naprawiony, to nie przetrwa nawet poÅ‚owy tego czasu. Bez ich technik medycznych wszyscy ghule i tak wymrÄ… w ciÄ…gu nastÄ™pnych dwudziestu lat. Wszyscy stracÄ… jeÅ¼eli Gecko i Kryptopolis nie bÄ™dÄ… wspÃ³Å‚pracowaÅ‚y.}
+{211}{}{A wiÄ™c ty jesteÅ› dobrym Samarytaninem, tak? JakoÅ› tego nie kupujÄ™.}
+{220}{}{Ani trochÄ™. Jestem kryty. Idealnie bÄ™dÄ™ siÄ™ nadawaÅ‚ na stanowisko administratora tego projektu. ZachÅ‚annoÅ›Ä‡ to moja siÅ‚a napÄ™dowa, ale tysiÄ…ce istnieÅ„ zostanÄ… dziÄ™ki niej ocalone. ZachÅ‚annoÅ›Ä‡ jest dobra. A przynajmniej byÅ‚aby dobra, gdyby udaÅ‚o mi siÄ™ zmusiÄ‡ kogoÅ› z Kryptopolis do przejrzenia moich ekonomicznych wyliczeÅ„.}
+{221}{}{Nie wydaje mi siÄ™, Å¼ebyÅ› nadawaÅ‚ siÄ™ na stanowisko administratora czegokolwiek.}
+{222}{}{Hmm, byÄ‡ moÅ¼e bÄ™dÄ™ w stanie pokazaÄ‡ te dane komuÅ› z Kryptopolis.}
+{223}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e radny McClure z Kryptopolis z radoÅ›ciÄ… poznaÅ‚by te dane. On wyglÄ…da na czÅ‚owieka, ktÃ³rym w wiÄ™kszym stopniu niÅ¼ bigoteria rzÄ…dzi zdrowy rozsadek.}
+{224}{}{Åšwietna historia Gordon. JesteÅ› po prostu najlepszy. (chichot) MuszÄ™ to zapamiÄ™taÄ‡... Na razie.}
+{230}{}{PodsumujÄ™ dane ekonomiczne dotyczÄ…ce Gecko i zÅ‚oÅ¼Ä™ raport Haroldowi. Ale on zazwyczaj mnie nie sÅ‚ucha.}
+{231}{}{Przykro mi to sÅ‚yszeÄ‡. Jakie dane ekonomiczne?}
+{232}{}{Hmm, na pewno Harold jest bardzo zajÄ™ty. Do zobaczenia.}
+{240}{}{Pewnej nocy sÅ‚yszaÅ‚em gÅ‚os. DochodziÅ‚ z dziury reaktora. GÅ‚os cieni. Na poczÄ…tku nie wiedziaÅ‚em co o tym myÅ›leÄ‡, ale to co mÃ³wiÅ‚ gÅ‚os byÅ‚o bardzo sensowne. Wszystkie dane, ktÃ³re podaÅ‚, sÄ… prawdziwe. Nie wiem kim lub czym ten gÅ‚os jest, ale sprawy wyglÄ…dajÄ… dokÅ‚adnie tak jak to opisaÅ‚.}
+{241}{}{O czym mÃ³wiÅ‚ gÅ‚os?}
+{250}{}{MÃ³wiÅ‚ gÅ‚Ã³wnie o maksymalizowaniu potencjalnego zysku. Mojego potencjalnego zysku.}
+{251}{}{Twojego potencjalnego zysku. WyglÄ…da na to, Å¼e jesteÅ› po prostu zachÅ‚anny.}
+{260}{}{MÃ³wiÅ‚ gÅ‚Ã³wnie o maksymalizowaniu potencjalnego zysku. Mojego potencjalnego zysku.}
+{261}{}{Twojego potencjalnego zysku. WyglÄ…da na to, Å¼e jesteÅ› po prostu zachÅ‚anny.}
 {270}{}{Dlaczego?}
-{271}{}{Ja po prostu nie kupuje twojego pomys³u, ¿e zach³annoœæ jest dobra. Myœlê, ¿e po prostu sprzedasz po kawa³ku to, czym masz zamiar administrowaæ i uciekniesz z fors¹. ¯egnam.}
-{272}{}{Poniewa¿ pomin¹³eœ najistotniejsza czêœæ planu. Swojego partnera, to znaczy mnie.}
-{280}{}{Mam wszystkie dane ekonomiczne zapisane na dysku. Chêtnie ci go dam, je¿eli obiecasz, ¿e poka¿esz go komuœ z Kryptopolis. Komuœ, kto bêdzie w stanie zrozumieæ i wykorzystaæ dane, które ten dysk zawiera. Ale zachowaj ostro¿noœæ... Nie ka¿dy bêdzie zadowolony z tego, ¿e rozmawiasz z nami, ghulami.}
-{281}{}{Myœlê, ¿e nie mam ochoty wlec ze sob¹ twojego dysku. Ale dziêki za wszystko. Do widzenia.}
-{282}{}{Dobra, wezmê twój dysk. Czujê, ¿e uda mi siê przekazaæ go w dobre rêce. Do widzenia.}
-{290}{}{Phi, nie potrzebujê twojej pomocy. Jesteœ tylko dzikusem.}
-{291}{}{A wiec, jak widzê, nie wszyscy bigoci mieszkaj¹ w Kryptopolis, prawda Gordon, staruszku? ¯egnam pana.}
-{300}{}{Nasza elektrownia ca³y czas ledwie dzia³a. Nie mo¿esz jeszcze zanieœæ tych informacji do
+{271}{}{Ja po prostu nie kupuje twojego pomysÅ‚u, Å¼e zachÅ‚annoÅ›Ä‡ jest dobra. MyÅ›lÄ™, Å¼e po prostu sprzedasz po kawaÅ‚ku to, czym masz zamiar administrowaÄ‡ i uciekniesz z forsÄ…. Å»egnam.}
+{272}{}{PoniewaÅ¼ pominÄ…Å‚eÅ› najistotniejsza czÄ™Å›Ä‡ planu. Swojego partnera, to znaczy mnie.}
+{280}{}{Mam wszystkie dane ekonomiczne zapisane na dysku. ChÄ™tnie ci go dam, jeÅ¼eli obiecasz, Å¼e pokaÅ¼esz go komuÅ› z Kryptopolis. KomuÅ›, kto bÄ™dzie w stanie zrozumieÄ‡ i wykorzystaÄ‡ dane, ktÃ³re ten dysk zawiera. Ale zachowaj ostroÅ¼noÅ›Ä‡... Nie kaÅ¼dy bÄ™dzie zadowolony z tego, Å¼e rozmawiasz z nami, ghulami.}
+{281}{}{MyÅ›lÄ™, Å¼e nie mam ochoty wlec ze sobÄ… twojego dysku. Ale dziÄ™ki za wszystko. Do widzenia.}
+{282}{}{Dobra, wezmÄ™ twÃ³j dysk. CzujÄ™, Å¼e uda mi siÄ™ przekazaÄ‡ go w dobre rÄ™ce. Do widzenia.}
+{290}{}{Phi, nie potrzebujÄ™ twojej pomocy. JesteÅ› tylko dzikusem.}
+{291}{}{A wiec, jak widzÄ™, nie wszyscy bigoci mieszkajÄ… w Kryptopolis, prawda Gordon, staruszku? Å»egnam pana.}
+{300}{}{Nasza elektrownia caÅ‚y czas ledwie dziaÅ‚a. Nie moÅ¼esz jeszcze zanieÅ›Ä‡ tych informacji do
  Kryptopolis.}
-{301}{}{Nie s¹dzê, ¿eby ludzie w Kryptopolis byli sk³onni ogl¹daæ dane przygotowane przez ghuli.}
-{302}{}{Nie, jeszcze nie... ale zrobiê to. Do widzenia.}
-{303}{}{Dostarczenie tych danych do Kryptopolis to tylko pierwszy z wielu kroków jakie musz¹ byæ zrobione. Nasza elektrownia atomowa ci¹gle ledwo dzia³a i trzeba j¹ naprawiæ.}
-{304}{}{Biorê siê za to. Do widzenia.}
-{305}{}{Taa. Mo¿e innym razem.}
-{310}{}{Dziêki za naprawienie naszej elektrowni. Nastêpny krok planu Gordona z Gecko poszed³ g³adko. Zach³annoœæ to wspania³a rzecz. Powinna rozpieraæ ciê duma, ¿e jesteœ czêœci¹ tego wszystkiego.}
-{311}{}{Zach³annoœæ jest dobra, jasne, Gordon. Mam w³asne plany, nad których realizacj¹ muszê popracowaæ. Do widzenia.}
-{320}{}{Jesteœmy zgubieni. Wszyscy jesteœmy zgubieni. Nic nas ju¿ nie uratuje. OdejdŸ.}
-{321}{}{Nie zbli¿aj siê o mnie.}
-{322}{}{W porz¹dku. Do widzenia.}
-{330}{}{Naprawdê wiele ci zawdziêczam. Teraz mogê sobie pozwoliæ na wszystko, czego zawsze pragn¹³em i to na koszt Gecko i Kryptopolis. Jak tylko zostanê zatwierdzony jako nowy zarz¹dca. Taaajessst, Harold wy³azi w tej chwili ze skóry.}
-{331}{}{Taa, jasne. Co tam sobie chcesz Gordon (przewracasz oczami). Myœlê, ¿e sobie ju¿ pójdê.}
-{332}{}{Uwa¿aj na siebie, Gordon. Zazwyczaj spada siê znacznie szybciej, ni¿ wspina na górê. Do widzenia.}
-{340}{}{Widzê, ¿e masz symbol. Czy przybywasz tu po informacje?}
+{301}{}{Nie sÄ…dzÄ™, Å¼eby ludzie w Kryptopolis byli skÅ‚onni oglÄ…daÄ‡ dane przygotowane przez ghuli.}
+{302}{}{Nie, jeszcze nie... ale zrobiÄ™ to. Do widzenia.}
+{303}{}{Dostarczenie tych danych do Kryptopolis to tylko pierwszy z wielu krokÃ³w jakie muszÄ… byÄ‡ zrobione. Nasza elektrownia atomowa ciÄ…gle ledwo dziaÅ‚a i trzeba jÄ… naprawiÄ‡.}
+{304}{}{BiorÄ™ siÄ™ za to. Do widzenia.}
+{305}{}{Taa. MoÅ¼e innym razem.}
+{310}{}{DziÄ™ki za naprawienie naszej elektrowni. NastÄ™pny krok planu Gordona z Gecko poszedÅ‚ gÅ‚adko. ZachÅ‚annoÅ›Ä‡ to wspaniaÅ‚a rzecz. Powinna rozpieraÄ‡ ciÄ™ duma, Å¼e jesteÅ› czÄ™Å›ciÄ… tego wszystkiego.}
+{311}{}{ZachÅ‚annoÅ›Ä‡ jest dobra, jasne, Gordon. Mam wÅ‚asne plany, nad ktÃ³rych realizacjÄ… muszÄ™ popracowaÄ‡. Do widzenia.}
+{320}{}{JesteÅ›my zgubieni. Wszyscy jesteÅ›my zgubieni. Nic nas juÅ¼ nie uratuje. OdejdÅº.}
+{321}{}{Nie zbliÅ¼aj siÄ™ o mnie.}
+{322}{}{W porzÄ…dku. Do widzenia.}
+{330}{}{NaprawdÄ™ wiele ci zawdziÄ™czam. Teraz mogÄ™ sobie pozwoliÄ‡ na wszystko, czego zawsze pragnÄ…Å‚em i to na koszt Gecko i Kryptopolis. Jak tylko zostanÄ™ zatwierdzony jako nowy zarzÄ…dca. Taaajessst, Harold wyÅ‚azi w tej chwili ze skÃ³ry.}
+{331}{}{Taa, jasne. Co tam sobie chcesz Gordon (przewracasz oczami). MyÅ›lÄ™, Å¼e sobie juÅ¼ pÃ³jdÄ™.}
+{332}{}{UwaÅ¼aj na siebie, Gordon. Zazwyczaj spada siÄ™ znacznie szybciej, niÅ¼ wspina na gÃ³rÄ™. Do widzenia.}
+{340}{}{WidzÄ™, Å¼e masz symbol. Czy przybywasz tu po informacje?}
 {341}{}{Symbol?}
 {342}{}{Informacje?}
-{343}{}{Oczywiœcie. Noszê symbol z dum¹ i natychmiast potrzebujê informacji.}
-{344}{}{Cœœœ. Nie w tej chwili bracie. Jesteœmy obserwowani. Do widzenia.}
-{350}{}{Nosisz symbol odnowy. Nale¿ysz do naszego bractwa. Odnowa, towarzysze! Odnowa!}
+{343}{}{OczywiÅ›cie. NoszÄ™ symbol z dumÄ… i natychmiast potrzebujÄ™ informacji.}
+{344}{}{CÅ›Å›Å›. Nie w tej chwili bracie. JesteÅ›my obserwowani. Do widzenia.}
+{350}{}{Nosisz symbol odnowy. NaleÅ¼ysz do naszego bractwa. Odnowa, towarzysze! Odnowa!}
 {351}{}{Tak, jestem z wami. Odnoga, eee... Odnowa!}
-{352}{}{Zosta³o to znalezione przeze mnie niedawno. Co to jest?}
-{353}{}{To by³o przy trupie. Co to do cholery jest?}
-{360}{}{Czy wys³a³ ciê po dysk z danymi?}
-{361}{}{Tak, oczywiœcie, jestem tu po dysk. Przeka¿ mi go natychmiast.}
+{352}{}{ZostaÅ‚o to znalezione przeze mnie niedawno. Co to jest?}
+{353}{}{To byÅ‚o przy trupie. Co to do cholery jest?}
+{360}{}{Czy wysÅ‚aÅ‚ ciÄ™ po dysk z danymi?}
+{361}{}{Tak, oczywiÅ›cie, jestem tu po dysk. PrzekaÅ¼ mi go natychmiast.}
 {362}{}{Jaki dysk?}
-{370}{}{Dobrze. Nigdy nie ma nas zbyt wielu. Wiêcej towarzyszy oznacza wiêksz¹ szansê na to, ¿e stary Gordon dostanie to czego chce. Czy przybywasz tu po dysk?}
+{370}{}{Dobrze. Nigdy nie ma nas zbyt wielu. WiÄ™cej towarzyszy oznacza wiÄ™kszÄ… szansÄ™ na to, Å¼e stary Gordon dostanie to czego chce. Czy przybywasz tu po dysk?}
 {371}{}{Jaki dysk?}
-{372}{}{Myœlê, ¿e mózg ci siê usma¿y³ od promieniowania. Wychodzê. Do widzenia.}
-{380}{}{Oto on, ale nie pozwól, ¿eby niew³aœciwe osoby dowiedzia³y siê, ¿e go masz. Daj go tylko i wy³¹cznie radnemu McClure'owi z Kryptopolis.}
-{381}{}{Tak, oczywiœcie. Eee, Odnowa, bracie.}
-{382}{}{Nie mam zamiaru nosiæ ¿adnego dysku ghuli do Kryptopolis. Za coœ takiego zatknêliby moja g³owê na tyczce. ¯egnam.}
-{390}{}{To dysk z danymi ekonomicznymi, które pokazuj¹, ¿e Gecko i Kryptopolis musz¹ wspó³pracowaæ, aby którekolwiek z nich mog³o przetrwaæ. Czy wy wszyscy g³adkoskórki macie takie ma³e mó¿d¿ki?}
-{391}{}{Aaa, ten dysk. Jasne, oczywiœcie ¿e go wezmê.}
-{392}{}{To brzmi bardzo skomplikowanie. To za wiele dla tak ograniczonego cz³owieka jak ja. Do widzenia.}
-{400}{}{Ale¿ oczywiœcie. (Mruga porozumiewawczo). My wszyscy "znaleŸliœmy" symbol. Odnowa towarzysze! Czy przybywasz tu po dysk?}
+{372}{}{MyÅ›lÄ™, Å¼e mÃ³zg ci siÄ™ usmaÅ¼yÅ‚ od promieniowania. WychodzÄ™. Do widzenia.}
+{380}{}{Oto on, ale nie pozwÃ³l, Å¼eby niewÅ‚aÅ›ciwe osoby dowiedziaÅ‚y siÄ™, Å¼e go masz. Daj go tylko i wyÅ‚Ä…cznie radnemu McClure'owi z Kryptopolis.}
+{381}{}{Tak, oczywiÅ›cie. Eee, Odnowa, bracie.}
+{382}{}{Nie mam zamiaru nosiÄ‡ Å¼adnego dysku ghuli do Kryptopolis. Za coÅ› takiego zatknÄ™liby moja gÅ‚owÄ™ na tyczce. Å»egnam.}
+{390}{}{To dysk z danymi ekonomicznymi, ktÃ³re pokazujÄ…, Å¼e Gecko i Kryptopolis muszÄ… wspÃ³Å‚pracowaÄ‡, aby ktÃ³rekolwiek z nich mogÅ‚o przetrwaÄ‡. Czy wy wszyscy gÅ‚adkoskÃ³rki macie takie maÅ‚e mÃ³Å¼dÅ¼ki?}
+{391}{}{Aaa, ten dysk. Jasne, oczywiÅ›cie Å¼e go wezmÄ™.}
+{392}{}{To brzmi bardzo skomplikowanie. To za wiele dla tak ograniczonego czÅ‚owieka jak ja. Do widzenia.}
+{400}{}{AleÅ¼ oczywiÅ›cie. (Mruga porozumiewawczo). My wszyscy "znaleÅºliÅ›my" symbol. Odnowa towarzysze! Czy przybywasz tu po dysk?}
 {401}{}{Tak. Czy ty go masz?}
 {402}{}{Jaki dysk?}
-{403}{}{Nie, tak naprawdê to nie. Myœlê, ¿e sobie ju¿ pójdê. Do widzenia.}
-{410}{}{Przy trupie? Który z nas zmar³?}
-{411}{}{To znaczy, mam na myœli to, ¿e ktoœ mi go da³.}
-{412}{}{Który z was zmar³? Wy wszyscy jesteœcie martwi. Przeklête ghule. Jeden z twoich przyjació³ ghuli mi to da³.}
-{413}{}{Tak w³aœciwie to powinieneœ zapytaæ, który z was jeszcze nie zgin¹³ z mojej rêki. A tak przy okazji - kolej na ciebie.}
-{414}{}{Nie, Ÿle mnie zrozumia³eœ, bracie. Chcê powiedzieæ, ¿e jestem teraz w waszej trupie, eee... zespole, sekcie, eee .... Odnowa bracie!}
-{420}{}{Fakty mówi¹ same za siebie. Je¿eli uda ci siê pokazaæ te dane komuœ posiadaj¹cemu otwarty umyœl, to one same go przekonaj¹.}
-{421}{}{A wiêc dobrze. Spróbujê. Do widzenia.}
-{422}{}{Pomyœlê o tym. Do zobaczenia.}
-{500}{}{. Czym siê zajmujesz?}
+{403}{}{Nie, tak naprawdÄ™ to nie. MyÅ›lÄ™, Å¼e sobie juÅ¼ pÃ³jdÄ™. Do widzenia.}
+{410}{}{Przy trupie? KtÃ³ry z nas zmarÅ‚?}
+{411}{}{To znaczy, mam na myÅ›li to, Å¼e ktoÅ› mi go daÅ‚.}
+{412}{}{KtÃ³ry z was zmarÅ‚? Wy wszyscy jesteÅ›cie martwi. PrzeklÄ™te ghule. Jeden z twoich przyjaciÃ³Å‚ ghuli mi to daÅ‚.}
+{413}{}{Tak wÅ‚aÅ›ciwie to powinieneÅ› zapytaÄ‡, ktÃ³ry z was jeszcze nie zginÄ…Å‚ z mojej rÄ™ki. A tak przy okazji - kolej na ciebie.}
+{414}{}{Nie, Åºle mnie zrozumiaÅ‚eÅ›, bracie. ChcÄ™ powiedzieÄ‡, Å¼e jestem teraz w waszej trupie, eee... zespole, sekcie, eee .... Odnowa bracie!}
+{420}{}{Fakty mÃ³wiÄ… same za siebie. JeÅ¼eli uda ci siÄ™ pokazaÄ‡ te dane komuÅ› posiadajÄ…cemu otwarty umyÅ›l, to one same go przekonajÄ….}
+{421}{}{A wiÄ™c dobrze. SprÃ³bujÄ™. Do widzenia.}
+{422}{}{PomyÅ›lÄ™ o tym. Do zobaczenia.}
+{500}{}{. Czym siÄ™ zajmujesz?}
 {501}{}{. Do zobaczenia Gordon.}
 {502}{}{.}
-{600}{}{Dziêki za informacje Gordon. Do widzenia.}
+{600}{}{DziÄ™ki za informacje Gordon. Do widzenia.}

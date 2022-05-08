@@ -1,3 +1,3 @@
-{100}{}{Jesteœ przy jaskini znajduj¹cej siê w zboczu jednej z gór.}
-{101}{}{Widzisz okrêg rozsypuj¹cych siê chatek. Po œrodku jest otwór w³azowy  z drabin¹ prowadz¹ca pod ziemiê.}
-{102}{}{Uda³o ci siê z³amaæ potêgê NajeŸdŸców. Ju¿ nie bêd¹ w stanie nêkaæ okolicznych miejscowoœci.}
+{100}{}{JesteÅ› przy jaskini znajdujÄ…cej siÄ™ w zboczu jednej z gÃ³r.}
+{101}{}{Widzisz okrÄ™g rozsypujÄ…cych siÄ™ chatek. Po Å›rodku jest otwÃ³r wÅ‚azowy  z drabinÄ… prowadzÄ…ca pod ziemiÄ™.}
+{102}{}{UdaÅ‚o ci siÄ™ zÅ‚amaÄ‡ potÄ™gÄ™ NajeÅºdÅºcÃ³w. JuÅ¼ nie bÄ™dÄ… w stanie nÄ™kaÄ‡ okolicznych miejscowoÅ›ci.}

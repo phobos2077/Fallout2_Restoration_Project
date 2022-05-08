@@ -1,12 +1,12 @@
-{100}{}{Ah! Még egy újonc.}
+{100}{}{Ah! MÃ©g egy Ãºjonc.}
 {101}{}{Csatlakozz, vagy pusztulj el!}
-{102}{}{Itt bármit elérhetsz.}
-{103}{}{Kevesen vagyunk, büszkék vagyunk, zsoldosok vagyunk.}
-{104}{}{Csatlakozz hozzánk!}
-{105}{}{Te kis "E" kategóriás...}
-{106}{}{Ideje máshol körülnézni!}
-{107}{}{Menj, csatlakozz a Haditengerészethez!}
+{102}{}{Itt bÃ¡rmit elÃ©rhetsz.}
+{103}{}{Kevesen vagyunk, bÃ¼szkÃ©k vagyunk, zsoldosok vagyunk.}
+{104}{}{Csatlakozz hozzÃ¡nk!}
+{105}{}{Te kis "E" kategÃ³riÃ¡s...}
+{106}{}{Ideje mÃ¡shol kÃ¶rÃ¼lnÃ©zni!}
+{107}{}{Menj, csatlakozz a HaditengerÃ©szethez!}
 {108}{}{A fene!}
-{109}{}{Azta! Nézd csak, mennyi az id?, mennem kell!}
-{110}{}{Újonc.}
+{109}{}{Azta! NÃ©zd csak, mennyi az id?, mennem kell!}
+{110}{}{Ãšjonc.}
 {111}{}{?rmester.}

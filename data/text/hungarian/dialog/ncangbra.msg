@@ -1,14 +1,14 @@
 {100}{}{Ez itt egy makrancos brahmin.}
-{150}{}{Ez itt egy jól megtermett, makrancos brahmin. Egy ideje nem ehetett, a szemei pedig vérben forognak.}
-{151}{}{Ez itt egy jól megtermett, makrancos brahmin. Egy ideje nem ehetett, a szemei pedig vérben forognak. Nagyon betegnek t?nik. Talán van rá mód, hogy segíts rajta.}
+{150}{}{Ez itt egy jÃ³l megtermett, makrancos brahmin. Egy ideje nem ehetett, a szemei pedig vÃ©rben forognak.}
+{151}{}{Ez itt egy jÃ³l megtermett, makrancos brahmin. Egy ideje nem ehetett, a szemei pedig vÃ©rben forognak. Nagyon betegnek t?nik. TalÃ¡n van rÃ¡ mÃ³d, hogy segÃ­ts rajta.}
 {198}{}{::Rnnnrrrrr?::}
 {199}{}{::Hrrnnnnr?::}
-{200}{}{Múú}
-{201}{}{Múúúúúúúúú}
-{202}{}{Múúúú}
+{200}{}{MÃºÃº}
+{201}{}{MÃºÃºÃºÃºÃºÃºÃºÃºÃº}
+{202}{}{MÃºÃºÃºÃº}
 {203}{}{::Rnnr::}
 {204}{}{::Rnnnrrrrr!!!::}
 {205}{}{::Gnnnnnrrrr!!!::}
 {206}{}{::Hrrnnnnr!!!::}
-{225}{}{Kihúztál valamit, ami beszorult a brahmin beleibe.}
-{235}{}{Valami beszorult a brahmin belei közé, de nem tudod megragadni.}
+{225}{}{KihÃºztÃ¡l valamit, ami beszorult a brahmin beleibe.}
+{235}{}{Valami beszorult a brahmin belei kÃ¶zÃ©, de nem tudod megragadni.}

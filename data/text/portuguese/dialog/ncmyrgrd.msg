@@ -1,4 +1,4 @@
-{100}{}{VocÍ vÍ um guarda.}
+{100}{}{Voc√™ v√™ um guarda.}
 {150}{}{You see a bored-looking guard. He looks like he would rather be anywhere else.}
 {151}{}{You see one of Myron's bored-looking guards.}
 {152}{}{You see one of Myron's bored-looking guards. He looks like he would rather be anywhere else.}
@@ -13,21 +13,21 @@
 {218}{}{Don't go too far, Myron.}
 {225}{}{Ei, }
 {230}{}{It's one of the }
-{235}{}{VocÍ tem muito cojones em vir aqui. Sugiro que v· embora.}
+{235}{}{Voc√™ tem muito cojones em vir aqui. Sugiro que v√° embora.}
 {236}{}{You look like a }
 {240}{}{Ain't you better be getting back to your }
 {241}{}{You look like a }
-{245}{}{Guarda essa arma... A n„o ser que vocÍ PROCURE problemas.}
+{245}{}{Guarda essa arma... A n√£o ser que voc√™ PROCURE problemas.}
 {250}{}{Intruso!}
 {260}{}{Tire essa lixeira rolante daqui.}
-{261}{}{RobÙs n„o s„o permitidos aqui. Caia fora.}
-{262}{}{Esse robÙ vai virar sucata se ficar aqui.}
+{261}{}{Rob√¥s n√£o s√£o permitidos aqui. Caia fora.}
+{262}{}{Esse rob√¥ vai virar sucata se ficar aqui.}
 {270}{}{I *thought* I smelled mutant. Get him outta here 'fore we get mad.}
-{271}{}{Gostas de mutantes? O lugar dele È L¡ FORA. Ou ent„o...}
+{271}{}{Gostas de mutantes? O lugar dele √© L√Å FORA. Ou ent√£o...}
 {272}{}{Esse mutante quer virar alvo de tiro? Continue aqui e ele vai ter o desejo realizado.}
 {280}{}{Eu *pensei* sentir cheiro de algo podre. Tire esse seu ghoul daqui.}
 {281}{}{Get that stinky ghoul mother fucker outta here. Now.}
-{282}{}{Se esse ghoul n„o sair daqui em um minuto, vai ficar mais morto do que j· est·.}
+{282}{}{Se esse ghoul n√£o sair daqui em um minuto, vai ficar mais morto do que j√° est√°.}
 {290}{}{::Whoa.:: Check THAT out.}
 {291}{}{Hey, chica, you looking for some company?}
 {292}{}{Wanna waste some time with us, chica?}
@@ -44,7 +44,7 @@
 {323}{}{(The guard smiles, looks you up and down.) Got an appointment with Myron, chica?}
 {324}{}{Quero a paz mundial}
 {325}{}{Me want to go past door}
-{326}{}{Quem vocÍ.}
+{326}{}{Quem voc√™.}
 {327}{}{Cai fora}
 {328}{}{Off-Limits? What's behind that door?}
 {329}{}{I'm here to see Myron.}
@@ -57,11 +57,11 @@
  of the cages.}
 {351}{}{EU QUERO PAZ MUNDIAL EU QUERO PAZ MUNDIAL}
 {352}{}{ME SAY ME WANT TO GO PAST DOOR}
-{353}{}{QUEM VOC .}
+{353}{}{QUEM VOC√ä.}
 {354}{}{[Shamble off]}
 {360}{}{(Readies weapon.) I'm gonna enjoy this. I ain't beaten a slave for at least an hour...}
 {361}{}{(Readies weapon.) I'm gonna enjoy this. I ain't killed no one for two days...}
-{362}{}{VOC  SER¡ UMA PESSOA FERIDA.}
+{362}{}{VOC√ä SER√Å UMA PESSOA FERIDA.}
 {363}{}{ SMASH}
 {364}{}{[Try and run.]}
 {365}{}{Pal, you're about to get the ass whipping of a life time.}

@@ -5,8 +5,8 @@
 {112}{}{(Guardando il cane negli occhi) Grrrr! Arrrrrgh! Grrrrrrrr!}
 {113}{}{Hmm, sembri molto arrabbiato. Ma scommetto che in realta' vuoi solo un po' d'attenzione.}
 {114}{}{Sei solo affamato, vero, piccolo? Fammi vedere se ho un po' di carne succulenta da darti.}
-{120}{}{Woof! (Il cane balza in avanti mostrando i denti -— strappa il pezzo di carne dalle tue mani protese -— mangia rumorosamente il pezzo di carne)}
-{121}{}{Woof! (Il bastardino afferra felice il delizioso pezzo di carne secca, lasciando cadere una chiave che probabilmente aveva in bocca -— raccogli la chiave.)}
+{120}{}{Woof! (Il cane balza in avanti mostrando i denti -â€” strappa il pezzo di carne dalle tue mani protese -â€” mangia rumorosamente il pezzo di carne)}
+{121}{}{Woof! (Il bastardino afferra felice il delizioso pezzo di carne secca, lasciando cadere una chiave che probabilmente aveva in bocca -â€” raccogli la chiave.)}
 {122}{}{Mmm, buono.}
 {123}{}{Ah, poveretto, dovevi essere proprio affamato. (Accarezzando la testa del cane)}
 {130}{}{Grrr. Woof! Woof!}

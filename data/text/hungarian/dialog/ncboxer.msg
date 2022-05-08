@@ -1,96 +1,96 @@
-{100}{}{Bokszoló.}
-{150}{}{Egy fekete fickót látsz iszonyat izmokkal. Úgy néz ki, mint aki épp most fejezte be az edzést.}
-{151}{}{Egy óriási fekete embert látsz magad el?tt. Nem viccelek, tényleg ÓRIÁSI.}
-{152}{}{Úgy néz ki, mint aki épp most fejezte be az edzést.}
-{153}{}{Ezt az embert majdnem összetévesztetted egy kisebb heggyel.}
-{154}{}{? aztán nagy. Nagggyon-naaaaagy.}
-{155}{}{Csukott szájjal vigyorog rád.}
-{156}{}{Úgy néz ki, mint aki épp most fejezte be az edzést.}
-{157}{}{Ezt az embert majdnem összetévesztetted egy kisebb heggyel.}
-{158}{}{? aztán nagy. Nagggyon-naaaaagy.}
-{159}{}{Csukott szájjal vigyorog rád.}
-{160}{}{Egy láthatatlan ellenfelet ütöget és a foga közt fenyegetéseket szór a leveg?be.}
-{161}{}{Egy pillanatra megzavarodik, mintha elfelejtette volna, fiú-e vagy lány, aztán elmosolyodik és megvakarja a fejét.}
-{162}{}{Guggolásokat végez.}
-{163}{}{Egy jókora fehér fickót látsz. A karjai olyanok, mint a fatörzs.}
-{164}{}{Egy nagyon izmos fehér férfihez van szerencséd. Miközben az izmait feszegeti, jól elvan magában.}
-{165}{}{Egy nagyon izmos fehér férfihez van szerencséd. Úgy néz rád, mint egy bokszzsákra.}
-{166}{}{Egy láthatatlan ellenfelet ütöget és a foga közt fenyegetéseket szór a leveg?be.}
-{167}{}{Egy pillanatra megzavarodik, mintha elfelejtette volna, fiú-e vagy lány, aztán elmosolyodik és megvakarja a fejét.}
-{168}{}{Úgy néz rád, mint egy bokszzsákra.}
+{100}{}{BokszolÃ³.}
+{150}{}{Egy fekete fickÃ³t lÃ¡tsz iszonyat izmokkal. Ãšgy nÃ©z ki, mint aki Ã©pp most fejezte be az edzÃ©st.}
+{151}{}{Egy Ã³riÃ¡si fekete embert lÃ¡tsz magad el?tt. Nem viccelek, tÃ©nyleg Ã“RIÃSI.}
+{152}{}{Ãšgy nÃ©z ki, mint aki Ã©pp most fejezte be az edzÃ©st.}
+{153}{}{Ezt az embert majdnem Ã¶sszetÃ©vesztetted egy kisebb heggyel.}
+{154}{}{? aztÃ¡n nagy. Nagggyon-naaaaagy.}
+{155}{}{Csukott szÃ¡jjal vigyorog rÃ¡d.}
+{156}{}{Ãšgy nÃ©z ki, mint aki Ã©pp most fejezte be az edzÃ©st.}
+{157}{}{Ezt az embert majdnem Ã¶sszetÃ©vesztetted egy kisebb heggyel.}
+{158}{}{? aztÃ¡n nagy. Nagggyon-naaaaagy.}
+{159}{}{Csukott szÃ¡jjal vigyorog rÃ¡d.}
+{160}{}{Egy lÃ¡thatatlan ellenfelet Ã¼tÃ¶get Ã©s a foga kÃ¶zt fenyegetÃ©seket szÃ³r a leveg?be.}
+{161}{}{Egy pillanatra megzavarodik, mintha elfelejtette volna, fiÃº-e vagy lÃ¡ny, aztÃ¡n elmosolyodik Ã©s megvakarja a fejÃ©t.}
+{162}{}{GuggolÃ¡sokat vÃ©gez.}
+{163}{}{Egy jÃ³kora fehÃ©r fickÃ³t lÃ¡tsz. A karjai olyanok, mint a fatÃ¶rzs.}
+{164}{}{Egy nagyon izmos fehÃ©r fÃ©rfihez van szerencsÃ©d. MikÃ¶zben az izmait feszegeti, jÃ³l elvan magÃ¡ban.}
+{165}{}{Egy nagyon izmos fehÃ©r fÃ©rfihez van szerencsÃ©d. Ãšgy nÃ©z rÃ¡d, mint egy bokszzsÃ¡kra.}
+{166}{}{Egy lÃ¡thatatlan ellenfelet Ã¼tÃ¶get Ã©s a foga kÃ¶zt fenyegetÃ©seket szÃ³r a leveg?be.}
+{167}{}{Egy pillanatra megzavarodik, mintha elfelejtette volna, fiÃº-e vagy lÃ¡ny, aztÃ¡n elmosolyodik Ã©s megvakarja a fejÃ©t.}
+{168}{}{Ãšgy nÃ©z rÃ¡d, mint egy bokszzsÃ¡kra.}
 {200}{}{Hnffff}
 {201}{}{Hnrggg}
-{202}{}{::Befeszít::}
-{203}{}{::Az ökölvívó rémült szemekkel néz rád::}
+{202}{}{::BefeszÃ­t::}
+{203}{}{::Az Ã¶kÃ¶lvÃ­vÃ³ rÃ©mÃ¼lt szemekkel nÃ©z rÃ¡d::}
 {204}{}{Egenuram?}
-{205}{}{Nem adod k?csön a fhogsorod?}
-{206}{}{Kell a fekvenyomó pad?}
+{205}{}{Nem adod k?csÃ¶n a fhogsorod?}
+{206}{}{Kell a fekvenyomÃ³ pad?}
 {207}{}{Aha.}
-{208}{}{::Hülyén bólogat mindenre, amit mondasz::}
-{209}{}{Te lenni nagy. Én pici.}
-{210}{}{Te szívós. Én gyenge}
-{211}{}{Éhes lenni.}
-{212}{}{Én nem szeret beszéd}
-{213}{}{Te vagy jó szagúúú}
+{208}{}{::HÃ¼lyÃ©n bÃ³logat mindenre, amit mondasz::}
+{209}{}{Te lenni nagy. Ã‰n pici.}
+{210}{}{Te szÃ­vÃ³s. Ã‰n gyenge}
+{211}{}{Ã‰hes lenni.}
+{212}{}{Ã‰n nem szeret beszÃ©d}
+{213}{}{Te vagy jÃ³ szagÃºÃºÃº}
 {214}{}{Szagod olyan, mint Maminak}
-{215}{}{Elég duma. Menni ágyba.}
-{216}{}{::Csukott szájjal mosolyog::}
-{217}{}{::Vakaródzik::}
-{218}{}{::Befeszít::}
+{215}{}{ElÃ©g duma. Menni Ã¡gyba.}
+{216}{}{::Csukott szÃ¡jjal mosolyog::}
+{217}{}{::VakarÃ³dzik::}
+{218}{}{::BefeszÃ­t::}
 {219}{}{Horkant}
-{220}{}{Bunyózunk?}
+{220}{}{BunyÃ³zunk?}
 {221}{}{?r?jj meg ?r?jj meg ?r?jj meg}
-{222}{}{Fóó-kussz Fóó-kussz}
-{223}{}{Legyé önkritikkás!}
-{224}{}{Ne hagyd magad beszorítani!!}
-{225}{}{Kell a fekvenyomó!}
+{222}{}{FÃ³Ã³-kussz FÃ³Ã³-kussz}
+{223}{}{LegyÃ© Ã¶nkritikkÃ¡s!}
+{224}{}{Ne hagyd magad beszorÃ­tani!!}
+{225}{}{Kell a fekvenyomÃ³!}
 {226}{}{Te lenni kicsi.}
-{227}{}{Én nem szeret beszéd}
-{300}{}{Örnhhh}
+{227}{}{Ã‰n nem szeret beszÃ©d}
+{300}{}{Ã–rnhhh}
 {301}{}{Anfff}
 {302}{}{Hrghhh}
 {303}{}{Nfff}
 {304}{}{Hrggg}
-{305}{}{Úúf}
-{310}{}{Lassú vagy!}
-{311}{}{Nem talált!}
-{312}{}{Úgy ütsz, mint a nagyanyám!}
-{313}{}{Övön alul ne üss!}
-{314}{}{Ez nem vót rossz!}
+{305}{}{ÃšÃºf}
+{310}{}{LassÃº vagy!}
+{311}{}{Nem talÃ¡lt!}
+{312}{}{Ãšgy Ã¼tsz, mint a nagyanyÃ¡m!}
+{313}{}{Ã–vÃ¶n alul ne Ã¼ss!}
+{314}{}{Ez nem vÃ³t rossz!}
 {315}{}{Ennyit tucc?}
-{320}{}{Most szépen ottmaradsz, ahol vagy!}
-{321}{}{Kiütöttelek, mint szart!}
-{322}{}{Na, hogy hívják Apukádat?}
-{323}{}{Ha meghal, hát meghal...}
-{330}{}{Akár versenyz? is lehettem volna!}
+{320}{}{Most szÃ©pen ottmaradsz, ahol vagy!}
+{321}{}{KiÃ¼tÃ¶ttelek, mint szart!}
+{322}{}{Na, hogy hÃ­vjÃ¡k ApukÃ¡dat?}
+{323}{}{Ha meghal, hÃ¡t meghal...}
+{330}{}{AkÃ¡r versenyz? is lehettem volna!}
 {331}{}{Hogy tud egy ilyen... ahhhhh...}
 {332}{}{Ez lecsapott, vazze...}
-{333}{}{Óóóhh, hozzatok egy hordágyat...}
+{333}{}{Ã“Ã³Ã³hh, hozzatok egy hordÃ¡gyat...}
 {334}{}{Asszem, most fekszem itt egy darabig...}
-{335}{}{Nem fáj, nem fáj, nem fáj...}
+{335}{}{Nem fÃ¡j, nem fÃ¡j, nem fÃ¡j...}
 {340}{}{Ezt kapd ki!}
-{341}{}{Akarsz még egy ilyet?!}
+{341}{}{Akarsz mÃ©g egy ilyet?!}
 {342}{}{Kurva!}
 {343}{}{Most megvagy!}
-{344}{}{Reggelire kommandósokat eszek.}
-{345}{}{Adokénneked!}
+{344}{}{Reggelire kommandÃ³sokat eszek.}
+{345}{}{AdokÃ©nneked!}
 {346}{}{Most meghalsz!}
-{347}{}{SZUPER... NUKLEÁRIS... TORNÁDÓÖKÖL...}
+{347}{}{SZUPER... NUKLEÃRIS... TORNÃDÃ“Ã–KÃ–L...}
 {350}{}{Na, mi van, kis Hamed!}
-{351}{}{Mindjárt padlót fogsz!}
-{352}{}{Fasírtot csinálok bel?led!}
-{353}{}{Kitöröm a nyakad!}
-{354}{}{Úgy bunyózol, mint egy csöves!}
-{355}{}{Nincs vér a pucádban!}
-{356}{}{Csöves vagy te, a legrosszabb fajta!}
+{351}{}{MindjÃ¡rt padlÃ³t fogsz!}
+{352}{}{FasÃ­rtot csinÃ¡lok bel?led!}
+{353}{}{KitÃ¶rÃ¶m a nyakad!}
+{354}{}{Ãšgy bunyÃ³zol, mint egy csÃ¶ves!}
+{355}{}{Nincs vÃ©r a pucÃ¡dban!}
+{356}{}{CsÃ¶ves vagy te, a legrosszabb fajta!}
 {357}{}{Elporollak, mint a sz?nyeget!}
-{360}{}{Ne is reménykedj a visszavágóban!}
-{361}{}{Az ütésed lepkefing!}
+{360}{}{Ne is remÃ©nykedj a visszavÃ¡gÃ³ban!}
+{361}{}{Az Ã¼tÃ©sed lepkefing!}
 {362}{}{Tedd fel a kezed...}
-{363}{}{Ne lazíts!}
-{364}{}{Ne hagyd magad beszorítani!!}
-{365}{}{Legyen önkritikád!}
-{366}{}{Na, üssél mán, Mick!}
-{367}{}{Ne feledd, az ütésnek ülnie kell!}
-{368}{}{Már hármat látok bel?le!}
+{363}{}{Ne lazÃ­ts!}
+{364}{}{Ne hagyd magad beszorÃ­tani!!}
+{365}{}{Legyen Ã¶nkritikÃ¡d!}
+{366}{}{Na, Ã¼ssÃ©l mÃ¡n, Mick!}
+{367}{}{Ne feledd, az Ã¼tÃ©snek Ã¼lnie kell!}
+{368}{}{MÃ¡r hÃ¡rmat lÃ¡tok bel?le!}
 {400}{}{He is sweating profusely.}

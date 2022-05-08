@@ -1,78 +1,78 @@
-{100}{}{Widzisz smuk³ego mê¿czyznê w d³ugich szatach. Zdaje siê byæ g³êboko zamyœlony.}
+{100}{}{Widzisz smukÅ‚ego mÄ™Å¼czyznÄ™ w dÅ‚ugich szatach. Zdaje siÄ™ byÄ‡ gÅ‚Ä™boko zamyÅ›lony.}
 {101}{}{Widzisz Opiekuna Kaplicy.}
-{102}{}{Widzisz smuk³ego mê¿czyznê w d³ugich szatach. Ma chyba ponad 40 lat i mi³¹ powierzchownoœæ. NajwyraŸniej medytuje.}
-{103}{}{Witaj. Nazywam siê Gordon i jestem Opiekunem Kaplicy. W czym mogê ci pomóc?}
+{102}{}{Widzisz smukÅ‚ego mÄ™Å¼czyznÄ™ w dÅ‚ugich szatach. Ma chyba ponad 40 lat i miÅ‚Ä… powierzchownoÅ›Ä‡. NajwyraÅºniej medytuje.}
+{103}{}{Witaj. Nazywam siÄ™ Gordon i jestem Opiekunem Kaplicy. W czym mogÄ™ ci pomÃ³c?}
 {104}{}{Kaplica?}
 {105}{}{Moja zapytuje?}
-{106}{}{Uch... nie pamiêta. Pa.}
-{107}{}{Mi³o mi ciê poznaæ, Gordon. Jestem}
-{108}{}{To ma byæ kaplica? Ktokolwiek jest tu czczony, musi przewracaæ siê w grocie na sam¹ myœl o niej!}
-{109}{}{Nie bêdê ci przeszkadzaæ. Pójdê ju¿ sobie.}
-{110}{}{Tak. Tak, kaplica jest miejscem kultu, gdzie oddaje siê czeœæ bogu, œwiêtemu lub innej potê¿nej istocie.}
+{106}{}{Uch... nie pamiÄ™ta. Pa.}
+{107}{}{MiÅ‚o mi ciÄ™ poznaÄ‡, Gordon. Jestem}
+{108}{}{To ma byÄ‡ kaplica? Ktokolwiek jest tu czczony, musi przewracaÄ‡ siÄ™ w grocie na samÄ… myÅ›l o niej!}
+{109}{}{Nie bÄ™dÄ™ ci przeszkadzaÄ‡. PÃ³jdÄ™ juÅ¼ sobie.}
+{110}{}{Tak. Tak, kaplica jest miejscem kultu, gdzie oddaje siÄ™ czeÅ›Ä‡ bogu, Å›wiÄ™temu lub innej potÄ™Å¼nej istocie.}
 {111}{}{Ach. OK. Moja zapyta?}
 {112}{}{Dobra. Na razie.}
-{113}{}{Oczywiœcie.}
-{114}{}{Co chcesz wiedzieæ?}
+{113}{}{OczywiÅ›cie.}
+{114}{}{Co chcesz wiedzieÄ‡?}
 {115}{}{Komu kaplica?}
-{116}{}{Jak d³ugo ty tu?}
-{117}{}{Szpomy z³e?}
-{118}{}{Czemu ty zostaæ?}
-{119}{}{Moja iœæ ju¿}
-{120}{}{Komu poœwiêcona jest ta œwi¹tynia?}
-{121}{}{Od jak dawna tu jesteœ?}
-{122}{}{Mo¿esz mi opowiedzieæ o szponach œmierci?}
-{123}{}{Dlaczego st¹d nie odejdziesz?}
-{124}{}{Dziêki, Gordon. Do widzenia.}
-{125}{}{Tê kaplicê poœwiêcono bezimiennemu bohaterowi zwanemu po prostu jako Przybysz z Krypty. Jemu, lub jej, zawdziêczaj¹ ¿ycie ludzie zamieszkuj¹cy Pustkowie kilkadziesi¹t lat temu. Nie wiemy co sta³o siê póŸniej z tym zbawc¹ ludzkoœci, ale pamiêæ o nim, lub niej, przetrwa na zawsze w naszych sercach.}
-{126}{}{To mi³e.}
-{127}{}{Moja dziêkuje. Papa.}
-{128}{}{Co to ma byæ - jakiœ dowcip?! Kaplica poœwiêcona komuœ, kogo imienia nawet nie pamiêtacie!}
-{129}{}{Rozumiem. Có¿, mam jeszcze kilka pytañ.}
-{130}{}{To bardzo szlachetne, Gordon. Mogê ciê jeszcze o coœ zapytaæ?}
-{131}{}{Spêdzi³em w tej Krypcie ca³e swoje ¿ycie. Jestem Opiekunem Kaplicy od dzieciñstwa.}
+{116}{}{Jak dÅ‚ugo ty tu?}
+{117}{}{Szpomy zÅ‚e?}
+{118}{}{Czemu ty zostaÄ‡?}
+{119}{}{Moja iÅ›Ä‡ juÅ¼}
+{120}{}{Komu poÅ›wiÄ™cona jest ta Å›wiÄ…tynia?}
+{121}{}{Od jak dawna tu jesteÅ›?}
+{122}{}{MoÅ¼esz mi opowiedzieÄ‡ o szponach Å›mierci?}
+{123}{}{Dlaczego stÄ…d nie odejdziesz?}
+{124}{}{DziÄ™ki, Gordon. Do widzenia.}
+{125}{}{TÄ™ kaplicÄ™ poÅ›wiÄ™cono bezimiennemu bohaterowi zwanemu po prostu jako Przybysz z Krypty. Jemu, lub jej, zawdziÄ™czajÄ… Å¼ycie ludzie zamieszkujÄ…cy Pustkowie kilkadziesiÄ…t lat temu. Nie wiemy co staÅ‚o siÄ™ pÃ³Åºniej z tym zbawcÄ… ludzkoÅ›ci, ale pamiÄ™Ä‡ o nim, lub niej, przetrwa na zawsze w naszych sercach.}
+{126}{}{To miÅ‚e.}
+{127}{}{Moja dziÄ™kuje. Papa.}
+{128}{}{Co to ma byÄ‡ - jakiÅ› dowcip?! Kaplica poÅ›wiÄ™cona komuÅ›, kogo imienia nawet nie pamiÄ™tacie!}
+{129}{}{Rozumiem. CÃ³Å¼, mam jeszcze kilka pytaÅ„.}
+{130}{}{To bardzo szlachetne, Gordon. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{131}{}{SpÄ™dziÅ‚em w tej Krypcie caÅ‚e swoje Å¼ycie. Jestem Opiekunem Kaplicy od dzieciÅ„stwa.}
 {132}{}{Ty tu zanim Szpomy?}
-{133}{}{Ach. Musi wiedzieæ wiêcej.}
-{134}{}{Musi ju¿ iœæ.}
-{135}{}{Jesteœ niezwyk³ym cz³owiekiem. Mogê ciê jeszcze o coœ zapytaæ?}
-{136}{}{To rzeczywiœcie bardzo d³ugo. Mogê ciê jeszcze o coœ zapytaæ?}
-{137}{}{To twoje ¿ycie - marnuj je, jeœli chcesz.}
-{138}{}{To znaczy, ¿e by³eœ tu, kiedy przyby³y szpony œmierci?}
-{139}{}{Nie, nie by³em. Opuœci³em Kryptê kilka miesiêcy temu, ¿eby odwiedziæ pomnik Przybysza z Krypty, wzniesiony na g³ównym placu RNK (tak nazywa siê czasem Republikê Nowej Kalifornii, na wschód st¹d). Kiedy wróci³em do domu szpony ju¿ tu by³y. Oczywiœcie by³em w szoku, ale nie wierzê, ¿eby to one by³y odpowiedzialne za to, co sta³o siê z moimi ziomkami. Jeœli interesuje ciê przybycie szponów do Krypty, porozmawiaj z Gorisem. Znajdziesz go w bibliotece.}
-{140}{}{Dobra, dziêki.}
-{141}{}{W porz¹dku. Na razie.}
-{142}{}{Bêdê o tym pamiêtaæ.}
-{143}{}{Nie musisz mi mówiæ gdzie mam chodziæ i z kim rozmawiaæ.}
-{144}{}{Dziêkujê za pomoc. Mam jeszcze kilka pytañ.}
-{145}{}{Mieszkam ze szponami œmierci ju¿ od kilku miesiêcy. To szlachetne istoty. Traktuj¹ pozosta³ych mieszkañców Krypty bardzo przyjaŸnie. Ufam im, a z czasem i ty nauczysz siê im ufaæ.}
+{133}{}{Ach. Musi wiedzieÄ‡ wiÄ™cej.}
+{134}{}{Musi juÅ¼ iÅ›Ä‡.}
+{135}{}{JesteÅ› niezwykÅ‚ym czÅ‚owiekiem. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{136}{}{To rzeczywiÅ›cie bardzo dÅ‚ugo. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{137}{}{To twoje Å¼ycie - marnuj je, jeÅ›li chcesz.}
+{138}{}{To znaczy, Å¼e byÅ‚eÅ› tu, kiedy przybyÅ‚y szpony Å›mierci?}
+{139}{}{Nie, nie byÅ‚em. OpuÅ›ciÅ‚em KryptÄ™ kilka miesiÄ™cy temu, Å¼eby odwiedziÄ‡ pomnik Przybysza z Krypty, wzniesiony na gÅ‚Ã³wnym placu RNK (tak nazywa siÄ™ czasem RepublikÄ™ Nowej Kalifornii, na wschÃ³d stÄ…d). Kiedy wrÃ³ciÅ‚em do domu szpony juÅ¼ tu byÅ‚y. OczywiÅ›cie byÅ‚em w szoku, ale nie wierzÄ™, Å¼eby to one byÅ‚y odpowiedzialne za to, co staÅ‚o siÄ™ z moimi ziomkami. JeÅ›li interesuje ciÄ™ przybycie szponÃ³w do Krypty, porozmawiaj z Gorisem. Znajdziesz go w bibliotece.}
+{140}{}{Dobra, dziÄ™ki.}
+{141}{}{W porzÄ…dku. Na razie.}
+{142}{}{BÄ™dÄ™ o tym pamiÄ™taÄ‡.}
+{143}{}{Nie musisz mi mÃ³wiÄ‡ gdzie mam chodziÄ‡ i z kim rozmawiaÄ‡.}
+{144}{}{DziÄ™kujÄ™ za pomoc. Mam jeszcze kilka pytaÅ„.}
+{145}{}{Mieszkam ze szponami Å›mierci juÅ¼ od kilku miesiÄ™cy. To szlachetne istoty. TraktujÄ… pozostaÅ‚ych mieszkaÅ„cÃ³w Krypty bardzo przyjaÅºnie. Ufam im, a z czasem i ty nauczysz siÄ™ im ufaÄ‡.}
 {146}{}{Uch... dobra.}
-{147}{}{Humph. Moja ju¿ iœæ.}
-{148}{}{Chwilowo uwierzê ci na s³owo.}
-{149}{}{Jeœli chcesz - ufaj tym jaszczurkom. Póki co, ja zachowam moje sceptyczne nastawienie.}
-{150}{}{Dziêkujê. Interesuje mnie coœ jeszcze.}
-{151}{}{Moje miejsce jest tutaj, w Kaplicy. Nie chcê st¹d odchodziæ.}
+{147}{}{Humph. Moja juÅ¼ iÅ›Ä‡.}
+{148}{}{Chwilowo uwierzÄ™ ci na sÅ‚owo.}
+{149}{}{JeÅ›li chcesz - ufaj tym jaszczurkom. PÃ³ki co, ja zachowam moje sceptyczne nastawienie.}
+{150}{}{DziÄ™kujÄ™. Interesuje mnie coÅ› jeszcze.}
+{151}{}{Moje miejsce jest tutaj, w Kaplicy. Nie chcÄ™ stÄ…d odchodziÄ‡.}
 {152}{}{Ach.}
-{153}{}{Moja ju¿ iœæ.}
-{154}{}{W porz¹dku.}
-{155}{}{Jesteœ albo bardzo oddany, albo bardzo g³upi. Osobiœcie stawiam na to drugie!}
+{153}{}{Moja juÅ¼ iÅ›Ä‡.}
+{154}{}{W porzÄ…dku.}
+{155}{}{JesteÅ› albo bardzo oddany, albo bardzo gÅ‚upi. OsobiÅ›cie stawiam na to drugie!}
 {156}{}{Twoje oddanie jest godne podziwu.}
-{157}{}{Jesteœ nieuprzejm¹ i wulgarn¹ osob¹. Szkoda, ¿e nie ma z nami któregoœ ze stra¿ników. Mo¿e nauczy³by ciê trochê og³ady.}
-{158}{}{Uprzedza³em ciê ju¿, ¿e nie bêdê tolerowa³ takiego zachowania. Widzê, ¿e lekcja posz³a na marne. (Gordon odwraca siê w stronê drzwi) Stra¿! Proszê do Kaplicy!}
-{159}{}{Có¿ za upór. (Gordon daje znak stra¿nikowi) Proszê st¹d wyprowadziæ tego œmiecia.}
-{160}{}{Dawaj tu tego przydupasa! W mgnieniu oka skopiê ty³ki wam obu.}
+{157}{}{JesteÅ› nieuprzejmÄ… i wulgarnÄ… osobÄ…. Szkoda, Å¼e nie ma z nami ktÃ³regoÅ› ze straÅ¼nikÃ³w. MoÅ¼e nauczyÅ‚by ciÄ™ trochÄ™ ogÅ‚ady.}
+{158}{}{UprzedzaÅ‚em ciÄ™ juÅ¼, Å¼e nie bÄ™dÄ™ tolerowaÅ‚ takiego zachowania. WidzÄ™, Å¼e lekcja poszÅ‚a na marne. (Gordon odwraca siÄ™ w stronÄ™ drzwi) StraÅ¼! ProszÄ™ do Kaplicy!}
+{159}{}{CÃ³Å¼ za upÃ³r. (Gordon daje znak straÅ¼nikowi) ProszÄ™ stÄ…d wyprowadziÄ‡ tego Å›miecia.}
+{160}{}{Dawaj tu tego przydupasa! W mgnieniu oka skopiÄ™ tyÅ‚ki wam obu.}
 {161}{}{Przepraszam za moje zachowanie.}
-{162}{}{Najmocniej przepraszam, Gordon. Trochê mnie ponios³o.}
-{163}{}{Przepraszam. Ci¹gle siê zapominam. Wybacz mi.}
+{162}{}{Najmocniej przepraszam, Gordon. TrochÄ™ mnie poniosÅ‚o.}
+{163}{}{Przepraszam. CiÄ…gle siÄ™ zapominam. Wybacz mi.}
 {164}{}{Uuuups, przepraszam.}
-{165}{}{Od jakiegoœ czasu mam wielk¹ ochotê na skopanie ty³ków paru jaszczurom!}
-{166}{}{Stra¿! Do Kaplicy!}
+{165}{}{Od jakiegoÅ› czasu mam wielkÄ… ochotÄ™ na skopanie tyÅ‚kÃ³w paru jaszczurom!}
+{166}{}{StraÅ¼! Do Kaplicy!}
 {167}{}{}
 {168}{}{}
-{169}{}{Ach, to znowu ty. Có¿, kaza³em ciê usun¹æ wtedy - zrobiê to i teraz. Stra¿! Do Kaplicy! Ten œmieæ znów tu jest!}
+{169}{}{Ach, to znowu ty. CÃ³Å¼, kazaÅ‚em ciÄ™ usunÄ…Ä‡ wtedy - zrobiÄ™ to i teraz. StraÅ¼! Do Kaplicy! Ten Å›mieÄ‡ znÃ³w tu jest!}
 {170}{}{}
 {171}{}{}
-{172}{}{Witaj ponownie. Co mogê dla ciebie zrobiæ?}
-{173}{}{Zapytaæ?}
-{174}{}{Moja ju¿ tu byæ? Przeprasza. Ju¿ iœæ.}
-{175}{}{Chcê ciê jeszcze o coœ zapytaæ.}
-{176}{}{Nie, chcê siê tylko przywitaæ.}
-{177}{}{. Czy mogê ciê o coœ zapytaæ?}
+{172}{}{Witaj ponownie. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{173}{}{ZapytaÄ‡?}
+{174}{}{Moja juÅ¼ tu byÄ‡? Przeprasza. JuÅ¼ iÅ›Ä‡.}
+{175}{}{ChcÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{176}{}{Nie, chcÄ™ siÄ™ tylko przywitaÄ‡.}
+{177}{}{. Czy mogÄ™ ciÄ™ o coÅ› zapytaÄ‡?}

@@ -1,9 +1,9 @@
-{100}{}{Ves a un anciano frágil hombre.}
+{100}{}{Ves a un anciano frÃ¡gil hombre.}
 {101}{}{Es el vicepresidente Carlson.}
-{102}{}{Aunque físicamente débil, sus ojos revelan una poderosa fuerza moral. Es un hombre con determinación.}
-{103}{}{¿Qué estás haciendo aquí? ¡Guardias!}
-{104}{}{Tú no eres uno de mis hombres. ¡Guardias!}
-{105}{}{¡Fuera de aquí!}
-{106}{}{Estoy increíblemente ocupado. Por favor, vuelve en otro momento.}
-{107}{}{Mira, no quiero parecer maleducado, pero necesito más tiempo para trabajar.}
+{102}{}{Aunque fÃ­sicamente dÃ©bil, sus ojos revelan una poderosa fuerza moral. Es un hombre con determinaciÃ³n.}
+{103}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­? Â¡Guardias!}
+{104}{}{TÃº no eres uno de mis hombres. Â¡Guardias!}
+{105}{}{Â¡Fuera de aquÃ­!}
+{106}{}{Estoy increÃ­blemente ocupado. Por favor, vuelve en otro momento.}
+{107}{}{Mira, no quiero parecer maleducado, pero necesito mÃ¡s tiempo para trabajar.}
 {108}{}{Lo siento, no tengo tiempo para reunirme contigo en este momento.}

@@ -1,13 +1,13 @@
-{100}{}{Un système d'aération, produisant et distribuant de l'air propre et traité dans tout le complexe de l'abri. Tu entends une légère vibration provenant de la ventilation.}
-{101}{}{Tu vois une bouche d'aération.}
-{102}{}{Un système d'aération, produisant et distribuant de l'air propre et traité dans tout le complexe de l'abri. Tu entends une légère vibration provenant de la ventilation.}
-{103}{}{C'est un système d'aération, produisant de l'air propre et traité, dans tout le complexe de l'abri.}
-{104}{}{Tu vois une bouche d'aération.}
-{105}{}{C'est un système d'aération, produisant de l'air propre et traité, dans tout le complexe de l'abri.}
+{100}{}{Un systÃ¨me d'aÃ©ration, produisant et distribuant de l'air propre et traitÃ© dans tout le complexe de l'abri. Tu entends une lÃ©gÃ¨re vibration provenant de la ventilation.}
+{101}{}{Tu vois une bouche d'aÃ©ration.}
+{102}{}{Un systÃ¨me d'aÃ©ration, produisant et distribuant de l'air propre et traitÃ© dans tout le complexe de l'abri. Tu entends une lÃ©gÃ¨re vibration provenant de la ventilation.}
+{103}{}{C'est un systÃ¨me d'aÃ©ration, produisant de l'air propre et traitÃ©, dans tout le complexe de l'abri.}
+{104}{}{Tu vois une bouche d'aÃ©ration.}
+{105}{}{C'est un systÃ¨me d'aÃ©ration, produisant de l'air propre et traitÃ©, dans tout le complexe de l'abri.}
 {106}{}{::Vibration::}
-{107}{}{A priori, tu ne vois rien d'anormal dans cette bouche d'aération.}
-{108}{}{Tu ouvres la bouche d'aération et tu cherches la source de la vibration. Tu repères quelque chose à l'intérieur et tu l'en retires.}
-{109}{}{On dirait que quelqu'un a caché ça dans la bouche d'aération.}
-{110}{}{Tu ouvres la bouche d'aération et tu cherches l'origine du blocage. Tu repères quelque chose à l'intérieur et tu l'en retires.}
-{111}{}{On dirait que quelqu'un a caché ça dans la bouche d'aération.}
-{112}{}{Moi trouvé ça dans bouche aération.}
+{107}{}{A priori, tu ne vois rien d'anormal dans cette bouche d'aÃ©ration.}
+{108}{}{Tu ouvres la bouche d'aÃ©ration et tu cherches la source de la vibration. Tu repÃ¨res quelque chose Ã  l'intÃ©rieur et tu l'en retires.}
+{109}{}{On dirait que quelqu'un a cachÃ© Ã§a dans la bouche d'aÃ©ration.}
+{110}{}{Tu ouvres la bouche d'aÃ©ration et tu cherches l'origine du blocage. Tu repÃ¨res quelque chose Ã  l'intÃ©rieur et tu l'en retires.}
+{111}{}{On dirait que quelqu'un a cachÃ© Ã§a dans la bouche d'aÃ©ration.}
+{112}{}{Moi trouvÃ© Ã§a dans bouche aÃ©ration.}

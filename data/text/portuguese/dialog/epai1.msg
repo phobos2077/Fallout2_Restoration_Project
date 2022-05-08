@@ -1,11 +1,11 @@
-{100}{}{Você vê um panfleto.}
+{100}{}{VocÃª vÃª um panfleto.}
 {101}{}{}
-{102}{}{Este é um folheto introdutório distribuído no início dos passeios.}
-{200}{}{Bem-vindo à EPA! Ao visitar nossas instalações, não fique alarmado com a visão de pessoas translúcidas
-  vagando pelos corredores. Eles não são fantasmas - eles são nossa nova e amigável equipe de hologramas! Pense neles como programas de computador
-  Força humana dada através da magia e das maravilhas da ciência! Eles ficariam felizes em responder quaisquer perguntas que você pudesse ter,
-  então por favor, não hesite em abordá-los. ATENÇÃO! Os hologramas existem através de um cristal suspenso com anti-gravimétrico
-  propriedades. Estes podem ser altamente voláteis se forem adulterados, por isso, por sua própria segurança, não tente tocar em qualquer
-  dos hologramas. Obrigado e aproveite o seu passeio!}
+{102}{}{Este Ã© um folheto introdutÃ³rio distribuÃ­do no inÃ­cio dos passeios.}
+{200}{}{Bem-vindo Ã  EPA! Ao visitar nossas instalaÃ§Ãµes, nÃ£o fique alarmado com a visÃ£o de pessoas translÃºcidas
+Â  vagando pelos corredores. Eles nÃ£o sÃ£o fantasmas - eles sÃ£o nossa nova e amigÃ¡vel equipe de hologramas! Pense neles como programas de computador
+Â  ForÃ§a humana dada atravÃ©s da magia e das maravilhas da ciÃªncia! Eles ficariam felizes em responder quaisquer perguntas que vocÃª pudesse ter,
+Â  entÃ£o por favor, nÃ£o hesite em abordÃ¡-los. ATENÃ‡ÃƒO! Os hologramas existem atravÃ©s de um cristal suspenso com anti-gravimÃ©trico
+Â  propriedades. Estes podem ser altamente volÃ¡teis se forem adulterados, por isso, por sua prÃ³pria seguranÃ§a, nÃ£o tente tocar em qualquer
+Â  dos hologramas. Obrigado e aproveite o seu passeio!}
 {201}{}{FIM}
-{202}{}{Você precisa tirar isso do inventário primeiro.}
+{202}{}{VocÃª precisa tirar isso do inventÃ¡rio primeiro.}

@@ -1,1 +1,1 @@
-{100}{}{Kogo uda³o ci siê wkurzyæ, ¿e wpakowa³ ciê w coœ takiego?}
+{100}{}{Kogo udaÅ‚o ci siÄ™ wkurzyÄ‡, Å¼e wpakowaÅ‚ ciÄ™ w coÅ› takiego?}

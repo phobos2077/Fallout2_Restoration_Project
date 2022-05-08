@@ -1,4 +1,4 @@
-{100}{}{Você vê um escravista.}
+{100}{}{VocÃª vÃª um escravista.}
 {101}{}{This slaver looks like one mean dude.}
 {102}{}{This slaver looks like one mean woman.}
 {200}{}{Excellent work. Ready to move on?}

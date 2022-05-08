@@ -1,3 +1,3 @@
-1:Alors que l'amélioration du réacteur de la centrale de Gecko gratifia la ville d'un surplus d'énergie.
-2:La Cité de l'Abri, elle, était incapable de s'étendre, faute de ressources énergétiques suffisantes. Cédant à des pressions internes, son Conseil fut alors contraint de prendre le pouvoir à Gecko afin de contrôler le réacteur.
-3:Les goules pacifiques de Gecko devinrent des esclaves et passèrent le reste de leur existence au service de la Cité de l'Abri.
+1:Alors que l'amÃ©lioration du rÃ©acteur de la centrale de Gecko gratifia la ville d'un surplus d'Ã©nergie.
+2:La CitÃ© de l'Abri, elle, Ã©tait incapable de s'Ã©tendre, faute de ressources Ã©nergÃ©tiques suffisantes. CÃ©dant Ã  des pressions internes, son Conseil fut alors contraint de prendre le pouvoir Ã  Gecko afin de contrÃ´ler le rÃ©acteur.
+3:Les goules pacifiques de Gecko devinrent des esclaves et passÃ¨rent le reste de leur existence au service de la CitÃ© de l'Abri.

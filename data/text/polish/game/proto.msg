@@ -1,30 +1,30 @@
 {10}{}{<Nic>}
-{100}{}{szk³o}
+{100}{}{szkÅ‚o}
 {101}{}{metal}
 {102}{}{plastyk}
 {103}{}{drewno}
 {104}{}{ziemia}
-{105}{}{kamieñ}
+{105}{}{kamieÅ„}
 {106}{}{cement}
-{107}{}{skóra}
+{107}{}{skÃ³ra}
 {150}{}{pancerz}
 {151}{}{pojemnik}
 {152}{}{specyfik}
-{153}{}{broñ}
+{153}{}{broÅ„}
 {154}{}{amn.}
 {155}{}{inny obiekt}
 {156}{}{klucz}
 {200}{}{portal}
 {201}{}{schody}
 {202}{}{winda}
-{203}{}{spód drabinki}
+{203}{}{spÃ³d drabinki}
 {204}{}{szczyt drabinki}
-{205}{}{domyœlna sceneria}
+{205}{}{domyÅ›lna sceneria}
 {250}{}{konwencjonalne}
 {251}{}{laser}
-{252}{}{ogieñ}
+{252}{}{ogieÅ„}
 {253}{}{plazma}
-{254}{}{elektrycznoœæ}
+{254}{}{elektrycznoÅ›Ä‡}
 {255}{}{EMP}
 {256}{}{wybuchy}
 {300}{}{brak}
@@ -40,18 +40,18 @@
 {310}{}{14 mm}
 {311}{}{12}
 {312}{}{9mm}
-{313}{}{œrut}
+{313}{}{Å›rut}
 {314}{}{0,45 cala}
 {315}{}{2 mm}
 {316}{}{4.7mm bezmagazynkowy}
-{317}{}{HN ig³owiec}
+{317}{}{HN igÅ‚owiec}
 {318}{}{7.62mm}
 {350}{}{Kaukaska}
-{351}{}{Afrykañska}
-{400}{}{dwunóg}
-{401}{}{czworonóg}
+{351}{}{AfrykaÅ„ska}
+{400}{}{dwunÃ³g}
+{401}{}{czworonÃ³g}
 {402}{}{robot}
-{450}{}{Mê¿czyŸni}
+{450}{}{MÄ™Å¼czyÅºni}
 {451}{}{Kobiety}
 {452}{}{Dzieci}
 {453}{}{Super mutanty}
@@ -59,127 +59,127 @@
 {455}{}{Braminy}
 {456}{}{Radskorpiony}
 {457}{}{Szczury}
-{458}{}{W³óczêdzy}
+{458}{}{WÅ‚Ã³czÄ™dzy}
 {459}{}{Centaury}
 {460}{}{Roboty}
 {461}{}{Psy}
 {462}{}{Modliszki}
-{463}{}{Szpony œmierci}
-{464}{}{roœlina}
-{465}{}{Ten wiersz pokazuje liczbê homo sapiens p³ci mêskiej, którzy zginêli z twojej rêki w trakcie twoich przygód.}
-{466}{}{Ten wiersz pokazuje liczbê homo sapiens p³ci ¿eñskiej, które zginê³y z twojej rêki w trakcie twoich przygód.}
-{467}{}{Ten wiersz pokazuje liczbê dzieci, które zginê³y z twojej rêki w trakcie twoich przygód. Bydlê z ciebie.}
-{468}{}{Liczba super mutantów, których uda³o ci siê zg³adziæ w trakcie twoich przygód.}
-{469}{}{Ten wiersz pokazuje liczbê mutantów - ghuli p³ci mêskiej i ¿eñskiej, którzy zginê³y z twojej rêki w trakcie twoich przygód.}
-{470}{}{Ten wiersz pokazuje liczbê bramin (zmutowanych krów), które zosta³y przez ciebie poszatkowane w trakcie twoich podró¿y.}
-{471}{}{Liczba zmutowanych skorpionów, które zosta³y przez ciebie uœmiercone w trakcie twojej przygody.}
-{472}{}{Liczba szczurów, które zginê³y z twojej rêki. Obejmuje szczury wszelkich odmian.}
-{473}{}{To liczba mutantów - w³óczêgów, które zosta³y przez ciebie uœmiercone.}
-{474}{}{Liczba upolowanych przez ciebie mutantów - centaurów.}
-{475}{}{To liczba robotów, które uda³o ci siê zniszczyæ lub zdemontowaæ.}
-{476}{}{£¹czna liczba psów pos³anych przez ciebie do Wielkiej Psiarni w Niebiosach.}
-{477}{}{Ten wiersz pokazuje ³¹czn¹ liczbê martwych modliszek i podobnych do nich, du¿ych, zmutowanych owadów, które do tej pory uda³o ci siê rozmaœliæ.}
-{478}{}{Ten wiersz zaœwiadcza o liczbie zabitych przez ciebie szponów œmierci i ich potomstwa.}
-{479}{}{Liczba roœlin, których walka o œwiat³o s³oneczne dobieg³a dziêki tobie koñca!}
+{463}{}{Szpony Å›mierci}
+{464}{}{roÅ›lina}
+{465}{}{Ten wiersz pokazuje liczbÄ™ homo sapiens pÅ‚ci mÄ™skiej, ktÃ³rzy zginÄ™li z twojej rÄ™ki w trakcie twoich przygÃ³d.}
+{466}{}{Ten wiersz pokazuje liczbÄ™ homo sapiens pÅ‚ci Å¼eÅ„skiej, ktÃ³re zginÄ™Å‚y z twojej rÄ™ki w trakcie twoich przygÃ³d.}
+{467}{}{Ten wiersz pokazuje liczbÄ™ dzieci, ktÃ³re zginÄ™Å‚y z twojej rÄ™ki w trakcie twoich przygÃ³d. BydlÄ™ z ciebie.}
+{468}{}{Liczba super mutantÃ³w, ktÃ³rych udaÅ‚o ci siÄ™ zgÅ‚adziÄ‡ w trakcie twoich przygÃ³d.}
+{469}{}{Ten wiersz pokazuje liczbÄ™ mutantÃ³w - ghuli pÅ‚ci mÄ™skiej i Å¼eÅ„skiej, ktÃ³rzy zginÄ™Å‚y z twojej rÄ™ki w trakcie twoich przygÃ³d.}
+{470}{}{Ten wiersz pokazuje liczbÄ™ bramin (zmutowanych krÃ³w), ktÃ³re zostaÅ‚y przez ciebie poszatkowane w trakcie twoich podrÃ³Å¼y.}
+{471}{}{Liczba zmutowanych skorpionÃ³w, ktÃ³re zostaÅ‚y przez ciebie uÅ›miercone w trakcie twojej przygody.}
+{472}{}{Liczba szczurÃ³w, ktÃ³re zginÄ™Å‚y z twojej rÄ™ki. Obejmuje szczury wszelkich odmian.}
+{473}{}{To liczba mutantÃ³w - wÅ‚Ã³czÄ™gÃ³w, ktÃ³re zostaÅ‚y przez ciebie uÅ›miercone.}
+{474}{}{Liczba upolowanych przez ciebie mutantÃ³w - centaurÃ³w.}
+{475}{}{To liczba robotÃ³w, ktÃ³re udaÅ‚o ci siÄ™ zniszczyÄ‡ lub zdemontowaÄ‡.}
+{476}{}{ÅÄ…czna liczba psÃ³w posÅ‚anych przez ciebie do Wielkiej Psiarni w Niebiosach.}
+{477}{}{Ten wiersz pokazuje Å‚Ä…cznÄ… liczbÄ™ martwych modliszek i podobnych do nich, duÅ¼ych, zmutowanych owadÃ³w, ktÃ³re do tej pory udaÅ‚o ci siÄ™ rozmaÅ›liÄ‡.}
+{478}{}{Ten wiersz zaÅ›wiadcza o liczbie zabitych przez ciebie szponÃ³w Å›mierci i ich potomstwa.}
+{479}{}{Liczba roÅ›lin, ktÃ³rych walka o Å›wiatÅ‚o sÅ‚oneczne dobiegÅ‚a dziÄ™ki tobie koÅ„ca!}
 {480}{}{Widzisz: %s.}
 {485}{}{Przeszukujesz: %s.}
 {486}{}{Zamykasz: %s.}
-{487}{}{Zamkniête. Potrzebujesz klucza lub wytrychu.}
+{487}{}{ZamkniÄ™te. Potrzebujesz klucza lub wytrychu.}
 {490}{}{Widzisz: %s.}
-{491}{}{Te zw³oki to %s.}
-{492}{}{Te szcz¹tki to %s.}
-{493}{}{Nie wiedzisz niczego niezwyk³ego.}
+{491}{}{Te zwÅ‚oki to %s.}
+{492}{}{Te szczÄ…tki to %s.}
+{493}{}{Nie wiedzisz niczego niezwykÅ‚ego.}
 {500}{}{jest martwa.}
 {501}{}{jest prawie martwa.}
-{502}{}{odnios³a powa¿ne obra¿enia.}
+{502}{}{odniosÅ‚a powaÅ¼ne obraÅ¼enia.}
 {503}{}{jest lekko ranna.}
-{504}{}{jest w pe³ni si³.}
+{504}{}{jest w peÅ‚ni siÅ‚.}
 {510}{}{Mod. KP: %d}
 {511}{}{Mod. OO: %d}
 {512}{}{Mod. Obr.: %d/%d}
-{518}{}{Wygl¹dasz na osobê, która %s}
+{518}{}{WyglÄ…dasz na osobÄ™, ktÃ³ra %s}
 {519}{}{%s %s}
-{520}{}{Wygl¹dasz na osobê, która %s}
+{520}{}{WyglÄ…dasz na osobÄ™, ktÃ³ra %s}
 {521}{}{%s %s}
-{522}{}{Wygl¹da na istotê, która %s}
-{523}{}{Wygl¹da na istotê, która %s}
-{524}{}{Wygl¹da na istotê, która %s}
+{522}{}{WyglÄ…da na istotÄ™, ktÃ³ra %s}
+{523}{}{WyglÄ…da na istotÄ™, ktÃ³ra %s}
+{524}{}{WyglÄ…da na istotÄ™, ktÃ³ra %s}
 {525}{}{%s ma %d/%d PW.}
 {526}{}{Amn.: %d/%d (%s).}
-{530}{}{ Na dodatek ma okaleczone koñczyny.}
-{531}{}{ Ma jednak okaleczone koñczyny.}
-{532}{}{ Na dodatek masz okaleczone koñczyny.}
-{533}{}{ Masz jednak okaleczone koñczyny.}
+{530}{}{ Na dodatek ma okaleczone koÅ„czyny.}
+{531}{}{ Ma jednak okaleczone koÅ„czyny.}
+{532}{}{ Na dodatek masz okaleczone koÅ„czyny.}
+{533}{}{ Masz jednak okaleczone koÅ„czyny.}
 {535}{}{Ma %d/%d PW.}
 {536}{}{Ma %d/%d PW.}
 {537}{}{Ma %d/%d PW.}
-{540}{}{Wa¿y %d fnt.}
-{541}{}{Wa¿y %d fnt.}
+{540}{}{WaÅ¼y %d fnt.}
+{541}{}{WaÅ¼y %d fnt.}
 {544}{}{, }
 {545}{}{.}
-{546}{}{ Broñ, któr¹ dysponuje, to %s.}
-{547}{}{ Broñ, któr¹ dysponuje, to %s z ³adunkiem wystarczaj¹cym do oddania %d/%d strza³ów (jest nim %s).}
-{548}{}{Nie wygl¹da na to, ¿eby ten samochód by³ sprawny.}
-{549}{}{Samochód ma jeszcze %d%% mocy.}
-{550}{}{\nB³¹d: lookup_val poza zasiêgiem!}
-{551}{}{\nB³¹d: obj_examine: proto_ptr nie powiod³o siê!}
-{580}{}{U¿ywasz obiektu: %s.}
-{581}{}{U¿ywasz obiektu: %s na: %s.}
+{546}{}{ BroÅ„, ktÃ³rÄ… dysponuje, to %s.}
+{547}{}{ BroÅ„, ktÃ³rÄ… dysponuje, to %s z Å‚adunkiem wystarczajÄ…cym do oddania %d/%d strzaÅ‚Ã³w (jest nim %s).}
+{548}{}{Nie wyglÄ…da na to, Å¼eby ten samochÃ³d byÅ‚ sprawny.}
+{549}{}{SamochÃ³d ma jeszcze %d%% mocy.}
+{550}{}{\nBÅ‚Ä…d: lookup_val poza zasiÄ™giem!}
+{551}{}{\nBÅ‚Ä…d: obj_examine: proto_ptr nie powiodÅ‚o siÄ™!}
+{580}{}{UÅ¼ywasz obiektu: %s.}
+{581}{}{UÅ¼ywasz obiektu: %s na: %s.}
 {582}{}{To niczego nie robi.}
-{583}{}{Ku swojej konsternacji uœwiadamiasz sobie, ¿e to ju¿ tylko truch³o.}
-{584}{}{Gdy przyklêkasz, uœwiadamiasz sobie, ¿e to ju¿ tylko zw³oki.}
-{585}{}{Niestety, jest ju¿ za póŸno.}
-{586}{}{To nie zadzia³a na trupa...}
-{587}{}{Zapalasz flarê.}
-{588}{}{Flara jest ju¿ zapalona.}
+{583}{}{Ku swojej konsternacji uÅ›wiadamiasz sobie, Å¼e to juÅ¼ tylko truchÅ‚o.}
+{584}{}{Gdy przyklÄ™kasz, uÅ›wiadamiasz sobie, Å¼e to juÅ¼ tylko zwÅ‚oki.}
+{585}{}{Niestety, jest juÅ¼ za pÃ³Åºno.}
+{586}{}{To nie zadziaÅ‚a na trupa...}
+{587}{}{Zapalasz flarÄ™.}
+{588}{}{Flara jest juÅ¼ zapalona.}
 {589}{}{Ustawiasz zapalnik czasowy.}
-{590}{}{Zapalnik czasowy ju¿ tyka!}
-{595}{}{Zasilasz samochód wiêksz¹ iloœci¹ mocy.}
-{596}{}{Samochód nie potrzebuje wiêcej mocy.}
-{597}{}{Drzwi s¹ najwyraŸniej zablokowane.}
+{590}{}{Zapalnik czasowy juÅ¼ tyka!}
+{595}{}{Zasilasz samochÃ³d wiÄ™kszÄ… iloÅ›ciÄ… mocy.}
+{596}{}{SamochÃ³d nie potrzebuje wiÄ™cej mocy.}
+{597}{}{Drzwi sÄ… najwyraÅºniej zablokowane.}
 {620}{}{Zdobywasz %d PD za zabicie: %s.}
 {621}{}{%s zdobywasz %d PD.}
-{622}{}{Za pokonanie swoich wrogów}
-{623}{}{Za zg³adzenie swoich przeciwników}
-{624}{}{Odnosisz zwyciêstwo w walce i}
-{625}{}{Za zmiecenie swoich przeciwników z powierzchni ziemi}
+{622}{}{Za pokonanie swoich wrogÃ³w}
+{623}{}{Za zgÅ‚adzenie swoich przeciwnikÃ³w}
+{624}{}{Odnosisz zwyciÄ™stwo w walce i}
+{625}{}{Za zmiecenie swoich przeciwnikÃ³w z powierzchni ziemi}
 {626}{}{Wychodzisz z tej walki bez jednego zadrapania, za co}
 {650}{}{[dalej]}
 {651}{}{[KONTYNUUJ]}
-{652}{}{Wiêcej}
-{653}{}{[Wróæ.]}
+{652}{}{WiÄ™cej}
+{653}{}{[WrÃ³Ä‡.]}
 {654}{}{Wstecz.}
-{655}{}{Mój dom}
+{655}{}{MÃ³j dom}
 {656}{}{Eee...}
-{660}{}{Nie jesteœ w stanie niczego tam dojrzeæ.}
+{660}{}{Nie jesteÅ› w stanie niczego tam dojrzeÄ‡.}
 {661}{}{Zbyt daleko.}
-{670}{}{W porz¹dku.}
+{670}{}{W porzÄ…dku.}
 {671}{}{Jasne.}
-{672}{}{Jak sobie ¿yczysz.}
+{672}{}{Jak sobie Å¼yczysz.}
 {673}{}{Jasne.}
-{674}{}{Spróbujê.}
-{675}{}{Nie mogê tego zrobiæ.}
-{676}{}{Nie s¹dzê, zebym da³ radê to zrobiæ.}
+{674}{}{SprÃ³bujÄ™.}
+{675}{}{Nie mogÄ™ tego zrobiÄ‡.}
+{676}{}{Nie sÄ…dzÄ™, zebym daÅ‚ radÄ™ to zrobiÄ‡.}
 {677}{}{Haaaaaau}
 {678}{}{Hau!}
-{700}{}{Masz za ma³o PA.}
-{800}{}{Czytasz tê ksi¹¿kê od deski do deski.}
-{801}{}{Nie uczysz siê niczego nowego.}
+{700}{}{Masz za maÅ‚o PA.}
+{800}{}{Czytasz tÄ™ ksiÄ…Å¼kÄ™ od deski do deski.}
+{801}{}{Nie uczysz siÄ™ niczego nowego.}
 {802}{}{Poznajesz nowe informacje naukowe.}
-{803}{}{Uczysz siê wiele na temat naprawy urz¹dzeñ elektronicznych.}
-{804}{}{Uczysz siê nowych sposobów leczenia ran.}
-{805}{}{Uczysz siê lepiej pos³ugiwaæ broni¹ paln¹.}
-{806}{}{Uczysz siê wiele na temat sztuki przetrwania w dziczy.}
-{900}{}{W torbie lekarskiej skoñczy³y siê materia³y.}
-{901}{}{W zestawie pierwszej pomocy skoñczy³y siê materia³y.}
-{902}{}{Nie mo¿esz tego zrobiæ podczas walki.}
-{903}{}{Ta osoba nie zamierza z tob¹ handlowaæ.}
+{803}{}{Uczysz siÄ™ wiele na temat naprawy urzÄ…dzeÅ„ elektronicznych.}
+{804}{}{Uczysz siÄ™ nowych sposobÃ³w leczenia ran.}
+{805}{}{Uczysz siÄ™ lepiej posÅ‚ugiwaÄ‡ broniÄ… palnÄ….}
+{806}{}{Uczysz siÄ™ wiele na temat sztuki przetrwania w dziczy.}
+{900}{}{W torbie lekarskiej skoÅ„czyÅ‚y siÄ™ materiaÅ‚y.}
+{901}{}{W zestawie pierwszej pomocy skoÅ„czyÅ‚y siÄ™ materiaÅ‚y.}
+{902}{}{Nie moÅ¼esz tego zrobiÄ‡ podczas walki.}
+{903}{}{Ta osoba nie zamierza z tobÄ… handlowaÄ‡.}
 {904}{}{Nie ma ci nic do powiedzenia.}
-{905}{}{Nie jesteœ w stanie podnieœæ tego przedmiotu. Twoje obci¹¿enie jest ju¿ maksymalne.}
-{910}{}{W Torbie Paramedyka skoñczy³y siê zapasy.}
-{911}{}{W Torbie Pierwszej Pomocy skoñczy³y siê zapasy.}
-{913}{}{Ta istota nie mo¿e niczego nosiæ.}
-{1450}{}{Mê¿czyŸni}
+{905}{}{Nie jesteÅ› w stanie podnieÅ›Ä‡ tego przedmiotu. Twoje obciÄ…Å¼enie jest juÅ¼ maksymalne.}
+{910}{}{W Torbie Paramedyka skoÅ„czyÅ‚y siÄ™ zapasy.}
+{911}{}{W Torbie Pierwszej Pomocy skoÅ„czyÅ‚y siÄ™ zapasy.}
+{913}{}{Ta istota nie moÅ¼e niczego nosiÄ‡.}
+{1450}{}{MÄ™Å¼czyÅºni}
 {1451}{}{Kobiety}
 {1452}{}{Dzieci}
 {1453}{}{Super mutanty}
@@ -187,33 +187,33 @@
 {1455}{}{Braminy}
 {1456}{}{Radskorpiony}
 {1457}{}{Szczury}
-{1458}{}{W³óczêdzy}
+{1458}{}{WÅ‚Ã³czÄ™dzy}
 {1459}{}{Centaury}
 {1460}{}{Roboty}
 {1461}{}{Psy}
 {1462}{}{Modliszki}
-{1463}{}{Szpony œmierci}
-{1464}{}{Roœliny}
+{1463}{}{Szpony Å›mierci}
+{1464}{}{RoÅ›liny}
 {1465}{}{Gekony}
 {1466}{}{Kosmici}
-{1467}{}{Olbrzymie mrówki}
-{1468}{}{Boss koñcowy}
-{1469}{}{Ten wiersz pokazuje liczbê homo sapiens p³ci mêskiej, którzy zginêli z twojej rêki w trakcie twoich przygód.}
-{1470}{}{Ten wiersz pokazuje liczbê homo sapiens p³ci ¿eñskiej, które zginê³y z twojej rêki w trakcie twoich przygód.}
-{1471}{}{Ten wiersz pokazuje liczbê dzieci, które zginê³y z twojej rêki w trakcie twoich przygód. Bydlê z ciebie.}
-{1472}{}{Liczba super mutantów, których uda³o ci siê zg³adziæ w trakcie twoich przygód.}
-{1473}{}{Ten wiersz pokazuje liczbê mutantów - ghuli p³ci mêskiej i ¿eñskiej, którzy zginê³y z twojej rêki w trakcie twoich przygód.}
-{1474}{}{Ten wiersz pokazuje liczbê bramin (zmutowanych krów), które zosta³y przez ciebie poszatkowane w trakcie twoich podró¿y.}
-{1475}{}{Liczba zmutowanych skorpionów, które zosta³y przez ciebie uœmiercone w trakcie twojej przygody.}
-{1476}{}{Liczba szczurów, które zginê³y z twojej rêki. Obejmuje szczury wszelkich odmian.}
-{1477}{}{To liczba mutantów - w³óczêgów, które zosta³y przez ciebie uœmiercone.}
-{1478}{}{Liczba upolowanych przez ciebie mutantów - centaurów.}
-{1479}{}{To liczba robotów, które uda³o ci siê zniszczyæ lub zdemontowaæ.}
-{1480}{}{£¹czna liczba psów pos³anych przez ciebie do Wielkiej Psiarni w Niebiosach.}
-{1481}{}{Ten wiersz pokazuje ³¹czn¹ liczbê martwych modliszek i podobnych do nich, du¿ych, zmutowanych owadów, które do tej pory uda³o ci siê rozmaœliæ.}
-{1482}{}{Ten wiersz zaœwiadcza o liczbie zabitych przez ciebie szponów œmierci i ich potomstwa.}
-{1483}{}{Liczba roœlin, których odwieczn¹ walka o œwiat³o s³oneczne zosta³a przez ciebie przerwana!}
-{1484}{}{Liczba jaszczurek, które zosta³y zmiecione przez ciebie z powierzchni Ziemi.}
-{1485}{}{Liczba kosmitów, którzy wybrali zdecydowanie z³y moment na wycieczkê na twoj¹ planetê.}
-{1486}{}{£¹czna liczba zmutowanych owadów, które dziêki tobie przesta³y istnieæ.}
-{1487}{}{Liczba wszystkich genetycznie zmodyfikowanych, ludobójczych, maniakalnych ochroniarzy - cyborgów, które zosta³y przez ciebie zg³adzone.}
+{1467}{}{Olbrzymie mrÃ³wki}
+{1468}{}{Boss koÅ„cowy}
+{1469}{}{Ten wiersz pokazuje liczbÄ™ homo sapiens pÅ‚ci mÄ™skiej, ktÃ³rzy zginÄ™li z twojej rÄ™ki w trakcie twoich przygÃ³d.}
+{1470}{}{Ten wiersz pokazuje liczbÄ™ homo sapiens pÅ‚ci Å¼eÅ„skiej, ktÃ³re zginÄ™Å‚y z twojej rÄ™ki w trakcie twoich przygÃ³d.}
+{1471}{}{Ten wiersz pokazuje liczbÄ™ dzieci, ktÃ³re zginÄ™Å‚y z twojej rÄ™ki w trakcie twoich przygÃ³d. BydlÄ™ z ciebie.}
+{1472}{}{Liczba super mutantÃ³w, ktÃ³rych udaÅ‚o ci siÄ™ zgÅ‚adziÄ‡ w trakcie twoich przygÃ³d.}
+{1473}{}{Ten wiersz pokazuje liczbÄ™ mutantÃ³w - ghuli pÅ‚ci mÄ™skiej i Å¼eÅ„skiej, ktÃ³rzy zginÄ™Å‚y z twojej rÄ™ki w trakcie twoich przygÃ³d.}
+{1474}{}{Ten wiersz pokazuje liczbÄ™ bramin (zmutowanych krÃ³w), ktÃ³re zostaÅ‚y przez ciebie poszatkowane w trakcie twoich podrÃ³Å¼y.}
+{1475}{}{Liczba zmutowanych skorpionÃ³w, ktÃ³re zostaÅ‚y przez ciebie uÅ›miercone w trakcie twojej przygody.}
+{1476}{}{Liczba szczurÃ³w, ktÃ³re zginÄ™Å‚y z twojej rÄ™ki. Obejmuje szczury wszelkich odmian.}
+{1477}{}{To liczba mutantÃ³w - wÅ‚Ã³czÄ™gÃ³w, ktÃ³re zostaÅ‚y przez ciebie uÅ›miercone.}
+{1478}{}{Liczba upolowanych przez ciebie mutantÃ³w - centaurÃ³w.}
+{1479}{}{To liczba robotÃ³w, ktÃ³re udaÅ‚o ci siÄ™ zniszczyÄ‡ lub zdemontowaÄ‡.}
+{1480}{}{ÅÄ…czna liczba psÃ³w posÅ‚anych przez ciebie do Wielkiej Psiarni w Niebiosach.}
+{1481}{}{Ten wiersz pokazuje Å‚Ä…cznÄ… liczbÄ™ martwych modliszek i podobnych do nich, duÅ¼ych, zmutowanych owadÃ³w, ktÃ³re do tej pory udaÅ‚o ci siÄ™ rozmaÅ›liÄ‡.}
+{1482}{}{Ten wiersz zaÅ›wiadcza o liczbie zabitych przez ciebie szponÃ³w Å›mierci i ich potomstwa.}
+{1483}{}{Liczba roÅ›lin, ktÃ³rych odwiecznÄ… walka o Å›wiatÅ‚o sÅ‚oneczne zostaÅ‚a przez ciebie przerwana!}
+{1484}{}{Liczba jaszczurek, ktÃ³re zostaÅ‚y zmiecione przez ciebie z powierzchni Ziemi.}
+{1485}{}{Liczba kosmitÃ³w, ktÃ³rzy wybrali zdecydowanie zÅ‚y moment na wycieczkÄ™ na twojÄ… planetÄ™.}
+{1486}{}{ÅÄ…czna liczba zmutowanych owadÃ³w, ktÃ³re dziÄ™ki tobie przestaÅ‚y istnieÄ‡.}
+{1487}{}{Liczba wszystkich genetycznie zmodyfikowanych, ludobÃ³jczych, maniakalnych ochroniarzy - cyborgÃ³w, ktÃ³re zostaÅ‚y przez ciebie zgÅ‚adzone.}

@@ -1,1 +1,1 @@
-{100}{}{Widzisz szpona œmierci.}
+{100}{}{Widzisz szpona Å›mierci.}

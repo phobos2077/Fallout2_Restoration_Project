@@ -1,1 +1,1 @@
-{100}{}{Vous remarquez une échelle qui descend à l'intérieur du trou noir.}
+{100}{}{Vous remarquez une Ã©chelle qui descend Ã  l'intÃ©rieur du trou noir.}

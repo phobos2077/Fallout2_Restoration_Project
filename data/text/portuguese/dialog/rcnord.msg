@@ -24,5 +24,5 @@
  the world. At least we allowed you to travel safely. Goodbye.}
 {120}{}{Ook?}
 {121}{}{Damn shame that Stanwell got himself killed off. My name's Nording. I'll settle the debt.}
-{122}{}{Hã, valeu.}
+{122}{}{HÃ£, valeu.}
 {123}{}{Damn shame that Stanwell got himself killed off.}

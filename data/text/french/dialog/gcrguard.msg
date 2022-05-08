@@ -1,61 +1,61 @@
-{100}{}{Tu vois quelqu'un à la peau gravement brûlée. On dirait qu'il monte la garde ici.}
+{100}{}{Tu vois quelqu'un Ã  la peau gravement brÃ»lÃ©e. On dirait qu'il monte la garde ici.}
 {101}{}{Tu vois une Goule se conduisant comme un garde.}
-{102}{}{Tu vois une personne dont la peau semble avoir été brûlée par des radiations. L'intensité des radiations aurait dû la tuer, mais elle semble relativement en forme. On dirait qu'elle monte la garde.}
-{110}{}{Tu ferais mieux de ne pas recommencer à essayer de voler.}
+{102}{}{Tu vois une personne dont la peau semble avoir Ã©tÃ© brÃ»lÃ©e par des radiations. L'intensitÃ© des radiations aurait dÃ» la tuer, mais elle semble relativement en forme. On dirait qu'elle monte la garde.}
+{110}{}{Tu ferais mieux de ne pas recommencer Ã  essayer de voler.}
 {111}{}{Toutes les Peaudouces sont pareilles. Je te conseille de ne plus essayer de voler quoi que ce soit.}
-{112}{}{T'as peut-être mis quelque chose dans ma poche ?}
-{113}{}{Arrête ça ou sinon je te règle ton compte.}
+{112}{}{T'as peut-Ãªtre mis quelque chose dans ma poche ?}
+{113}{}{ArrÃªte Ã§a ou sinon je te rÃ¨gle ton compte.}
 {114}{}{A ta place, je ne m'aviserais pas de recommencer.}
 {115}{}{Je commencerais par te couper les mains.}
 {116}{}{C'est pas toi le gentil ?}
-{117}{}{Je cherche juste une raison. T'en as une à me donner ?}
-{120}{}{Bon sang, mais qu'est-ce que t'as à rôder par ici ?}
-{121}{}{Si tu veux essayer d'entrer en douce, tu vas devoir faire preuve de plus de discrétion.}
-{122}{}{Oh, t'es du genre à te faufiler toi.}
-{123}{}{Tu te débrouilles pas mal. Euh...}
-{124}{}{Mais, marche normalement imbécile !}
-{125}{}{Encore un évadé du Ministère des Démarches Stupides.}
-{126}{}{Je te vois, en fait, je suis en train de t'exploser la tête.}
+{117}{}{Je cherche juste une raison. T'en as une Ã  me donner ?}
+{120}{}{Bon sang, mais qu'est-ce que t'as Ã  rÃ´der par ici ?}
+{121}{}{Si tu veux essayer d'entrer en douce, tu vas devoir faire preuve de plus de discrÃ©tion.}
+{122}{}{Oh, t'es du genre Ã  te faufiler toi.}
+{123}{}{Tu te dÃ©brouilles pas mal. Euh...}
+{124}{}{Mais, marche normalement imbÃ©cile !}
+{125}{}{Encore un Ã©vadÃ© du MinistÃ¨re des DÃ©marches Stupides.}
+{126}{}{Je te vois, en fait, je suis en train de t'exploser la tÃªte.}
 {127}{}{Ca veut dire que tu peux pas me voir non plus ?}
-{128}{}{Qu'est-ce que c'était ? C'est pas un jeu et ça demande une concentration totale.}
+{128}{}{Qu'est-ce que c'Ã©tait ? C'est pas un jeu et Ã§a demande une concentration totale.}
 {129}{}{Euh, essaies-tu vraiment de plus faire de bruit ?}
-{130}{}{Cette porte mène à une zone interdite. Tu dois posséder une carte d'accès jaune pour y entrer.}
-{131}{}{Tu dois disposer d'une autorisation jaune pour entrer là.}
-{132}{}{Adresse-toi à Harold si tu veux une carte d'accès jaune.}
-{133}{}{Pas de carte, pas d'entrée.}
-{134}{}{Tu peux pas franchir cette porte sans carte d'accès jaune.}
+{130}{}{Cette porte mÃ¨ne Ã  une zone interdite. Tu dois possÃ©der une carte d'accÃ¨s jaune pour y entrer.}
+{131}{}{Tu dois disposer d'une autorisation jaune pour entrer lÃ .}
+{132}{}{Adresse-toi Ã  Harold si tu veux une carte d'accÃ¨s jaune.}
+{133}{}{Pas de carte, pas d'entrÃ©e.}
+{134}{}{Tu peux pas franchir cette porte sans carte d'accÃ¨s jaune.}
 {140}{}{Je suis content de voir que tu as l'autorisation.}
 {141}{}{Salut, Peaudouce.}
-{142}{}{Si quelque chose tourne mal, nous saurons à qui nous en prendre.}
-{143}{}{Tu devrais faire attention là-dedans. Il fait un peu trop chaud pour les gens de ton espèce.}
-{144}{}{Eh bien, cette carte semble être la bonne.}
-{150}{}{Pas de carte, pas d'entrée.}
+{142}{}{Si quelque chose tourne mal, nous saurons Ã  qui nous en prendre.}
+{143}{}{Tu devrais faire attention lÃ -dedans. Il fait un peu trop chaud pour les gens de ton espÃ¨ce.}
+{144}{}{Eh bien, cette carte semble Ãªtre la bonne.}
+{150}{}{Pas de carte, pas d'entrÃ©e.}
 {151}{}{C'est une zone interdite.}
-{152}{}{Il vaut mieux se tenir à carreau là-dedans.}
-{153}{}{Tu as besoin d'une carte d'accès rouge pour franchir cette porte.}
-{154}{}{Tu devrais demander à Harold une carte d'accès rouge pour pouvoir entrer ici.}
-{160}{}{Tu ferais mieux de faire attention à l'intérieur.}
-{161}{}{Bienvenue dans la zone de contrôle.}
-{162}{}{Ne touche à rien de ce qui se trouve là-dedans.}
+{152}{}{Il vaut mieux se tenir Ã  carreau lÃ -dedans.}
+{153}{}{Tu as besoin d'une carte d'accÃ¨s rouge pour franchir cette porte.}
+{154}{}{Tu devrais demander Ã  Harold une carte d'accÃ¨s rouge pour pouvoir entrer ici.}
+{160}{}{Tu ferais mieux de faire attention Ã  l'intÃ©rieur.}
+{161}{}{Bienvenue dans la zone de contrÃ´le.}
+{162}{}{Ne touche Ã  rien de ce qui se trouve lÃ -dedans.}
 {163}{}{Si quelque chose tourne mal pour toi, nous viendrons te chercher.}
-{164}{}{En cas de problème, ce sera de ta faute.}
+{164}{}{En cas de problÃ¨me, ce sera de ta faute.}
 {170}{}{Quelle surprise de voir un Peaudouce comme toi ici !}
-{171}{}{On dirait que tu commences à bronzer légèrement.}
+{171}{}{On dirait que tu commences Ã  bronzer lÃ©gÃ¨rement.}
 {172}{}{Hum, j'aime ce bruit de fuite en fond sonore, pas toi ?}
-{173}{}{Ne touche à rien ici.}
+{173}{}{Ne touche Ã  rien ici.}
 {174}{}{Ne ballade pas tes mains et tout se passera bien.}
 {180}{}{On ne prend rien sans autorisation.}
 {181}{}{Tu ne peux rien prendre de ce qui se trouve ici sans demande d'autorisation.}
-{182}{}{Adresse-toi à Jérémy ou à Harold si tu veux quelque chose.}
+{182}{}{Adresse-toi Ã  JÃ©rÃ©my ou Ã  Harold si tu veux quelque chose.}
 {183}{}{Rien ne sort d'ici sans autorisation.}
-{184}{}{Pas d'autorisation, pas de pièce.}
-{190}{}{Fais gaffe où tu marches, Peaudouce.}
+{184}{}{Pas d'autorisation, pas de piÃ¨ce.}
+{190}{}{Fais gaffe oÃ¹ tu marches, Peaudouce.}
 {191}{}{Ne crains-tu pas les radiations ici ?}
-{192}{}{Fais attention où tu marches ici.}
+{192}{}{Fais attention oÃ¹ tu marches ici.}
 {193}{}{Si quelque chose tourne mal, nous viendrons te chercher en premier.}
-{194}{}{Fais un sourire aux caméras de sécurité.}
+{194}{}{Fais un sourire aux camÃ©ras de sÃ©curitÃ©.}
 {200}{}{Bon sang, mais que fais-tu avec cette porte ?}
 {201}{}{Laisse tomber et sors d'ici.}
-{202}{}{Mince alors, ça ne ressemble pas à une carte d'accès.}
+{202}{}{Mince alors, Ã§a ne ressemble pas Ã  une carte d'accÃ¨s.}
 {203}{}{Si tu recommences, on devra te tuer.}
-{204}{}{Tu dois être encore plus bête que t'en as l'air pour oser faire ça sous notre nez.}
+{204}{}{Tu dois Ãªtre encore plus bÃªte que t'en as l'air pour oser faire Ã§a sous notre nez.}

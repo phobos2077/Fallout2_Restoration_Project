@@ -1,13 +1,13 @@
-{100}{}{¡Por la Unidad!}
-{101}{}{¡Acabad con ellos, caballeros!}
-{102}{}{¡Matad a los intrusos!}
-{103}{}{¡Proteged la ciudad!}
-{104}{}{¡Vamos! ¡Vamos! ¡Vamos!}
-{105}{}{¡Mirad! ¡Bandidos!}
-{106}{}{¡Larguémonos de aquí!}
-{107}{}{Oh, amigo... justo cuando pensaba que estábamos a salvo. ¡No más! ¡No más!}
-{108}{}{¡Correeeed!}
+{100}{}{Â¡Por la Unidad!}
+{101}{}{Â¡Acabad con ellos, caballeros!}
+{102}{}{Â¡Matad a los intrusos!}
+{103}{}{Â¡Proteged la ciudad!}
+{104}{}{Â¡Vamos! Â¡Vamos! Â¡Vamos!}
+{105}{}{Â¡Mirad! Â¡Bandidos!}
+{106}{}{Â¡LarguÃ©monos de aquÃ­!}
+{107}{}{Oh, amigo... justo cuando pensaba que estÃ¡bamos a salvo. Â¡No mÃ¡s! Â¡No mÃ¡s!}
+{108}{}{Â¡Correeeed!}
 {109}{}{Trata a nuestra gente con respeto.}
 {110}{}{No quebrantes la ley.}
-{111}{}{Si estás pensando en causar problemas, acuérdate de nosotros. Pórtate bien y Marcus se portará bien.}
-{112}{}{En Broken Hills somos gente pacífica, pero sabemos cómo luchar.}
+{111}{}{Si estÃ¡s pensando en causar problemas, acuÃ©rdate de nosotros. PÃ³rtate bien y Marcus se portarÃ¡ bien.}
+{112}{}{En Broken Hills somos gente pacÃ­fica, pero sabemos cÃ³mo luchar.}

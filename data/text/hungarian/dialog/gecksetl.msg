@@ -1,1 +1,1 @@
-{100}{}{Megérkeztél Gekkóba.}
+{100}{}{MegÃ©rkeztÃ©l GekkÃ³ba.}

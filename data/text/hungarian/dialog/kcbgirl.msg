@@ -1,63 +1,63 @@
-{100}{}{Egy fiatal és vonzó n?t látsz.}
-{101}{}{Egy fürd?kísér?t látsz.}
-{102}{}{? Nagyorrú Sally lányainak egyike.}
-{103}{}{Egy unatkozó n?t látsz.}
-{104}{}{Egy n?t látsz, aki téged méreget.}
-{105}{}{Ez a n? már képzeletben levetk?ztetett.}
+{100}{}{Egy fiatal Ã©s vonzÃ³ n?t lÃ¡tsz.}
+{101}{}{Egy fÃ¼rd?kÃ­sÃ©r?t lÃ¡tsz.}
+{102}{}{? NagyorrÃº Sally lÃ¡nyainak egyike.}
+{103}{}{Egy unatkozÃ³ n?t lÃ¡tsz.}
+{104}{}{Egy n?t lÃ¡tsz, aki tÃ©ged mÃ©reget.}
+{105}{}{Ez a n? mÃ¡r kÃ©pzeletben levetk?ztetett.}
 {106}{}{Egy fiatal n?.}
-{110}{}{Egy fiatal és vonzó n?t látsz. Az arcát valami fehér por borítja.}
-{111}{}{Egy dúskebl?, középkorú n?t látsz.}
-{112}{}{Egy lenge öltözet?, vonzó n?t látsz.}
-{113}{}{Ez a n? mintha téged vizsgálgatna a tekintetével. ÉS közben fura grimaszokat vág.}
+{110}{}{Egy fiatal Ã©s vonzÃ³ n?t lÃ¡tsz. Az arcÃ¡t valami fehÃ©r por borÃ­tja.}
+{111}{}{Egy dÃºskebl?, kÃ¶zÃ©pkorÃº n?t lÃ¡tsz.}
+{112}{}{Egy lenge Ã¶ltÃ¶zet?, vonzÃ³ n?t lÃ¡tsz.}
+{113}{}{Ez a n? mintha tÃ©ged vizsgÃ¡lgatna a tekintetÃ©vel. Ã‰S kÃ¶zben fura grimaszokat vÃ¡g.}
 {120}{}{Ez gyorsan ment.}
-{121}{}{Régen volt már, édesem?}
-{122}{}{Talán legközelebb tovább bírod.}
+{121}{}{RÃ©gen volt mÃ¡r, Ã©desem?}
+{122}{}{TalÃ¡n legkÃ¶zelebb tovÃ¡bb bÃ­rod.}
 {123}{}{Ugye tudod, hogy ez nem verseny?}
-{124}{}{Csak nem "Szélvész" a beceneved?}
-{125}{}{Ha minden kuncsaftom ilyen gyors lenne, sokkal korábban mehetnék haza.}
-{126}{}{Sokkal izgalmasabb ám, ha megvárod míg segítek.}
-{127}{}{Legalább megvárhattad volna, amíg levetk?z?m.}
-{130}{}{Ez nagyon jó volt. Te aztán igazi férfi vagy!}
-{131}{}{Ez különleges volt. Csodálatos vagy. Következ?!}
-{132}{}{Ez az, bébi, még sosem volt ilyen jó! (ásít)}
-{133}{}{Te vagy a legjobb! Remélem, hamarosan találkozunk.}
-{134}{}{Biztos vagyok benne, hogy egy törzsbéli lányt nagyon boldoggá fogsz tenni.}
-{135}{}{Dehogy édesem, a méret egyáltalán nem számít. Igazán aranyos volt.}
-{136}{}{Hát nem vagy tele éget? szerelemmel.}
-{137}{}{Milyen aranyos kis fickód van odalenn.}
-{140}{}{A méret a lényeg! Az élet édes rejtélye... }
-{141}{}{Ha legközelebb jössz, túlórázni fogok.}
-{142}{}{Te aztán elveszed ami jár.}
-{143}{}{Azt hiszem, ezután inkább hazamegyek.}
-{144}{}{Ez igen! Neked is beremegett a föld?}
-{145}{}{Na, most már tudom, mit érezhetett Catherine, a Nagy.}
-{150}{}{Hát, a pénz az pénz.}
-{151}{}{Ez, ömm, érdekes volt.}
-{152}{}{Ez igazán különleges volt. Következ?!}
-{153}{}{Nem, nem használhatod a kölnimet.}
-{154}{}{Hát, legalább a bajszod kisebb, mint a többi ügyfelemnek.}
-{155}{}{Biztos, hogy lány vagy?}
+{124}{}{Csak nem "SzÃ©lvÃ©sz" a beceneved?}
+{125}{}{Ha minden kuncsaftom ilyen gyors lenne, sokkal korÃ¡bban mehetnÃ©k haza.}
+{126}{}{Sokkal izgalmasabb Ã¡m, ha megvÃ¡rod mÃ­g segÃ­tek.}
+{127}{}{LegalÃ¡bb megvÃ¡rhattad volna, amÃ­g levetk?z?m.}
+{130}{}{Ez nagyon jÃ³ volt. Te aztÃ¡n igazi fÃ©rfi vagy!}
+{131}{}{Ez kÃ¼lÃ¶nleges volt. CsodÃ¡latos vagy. KÃ¶vetkez?!}
+{132}{}{Ez az, bÃ©bi, mÃ©g sosem volt ilyen jÃ³! (Ã¡sÃ­t)}
+{133}{}{Te vagy a legjobb! RemÃ©lem, hamarosan talÃ¡lkozunk.}
+{134}{}{Biztos vagyok benne, hogy egy tÃ¶rzsbÃ©li lÃ¡nyt nagyon boldoggÃ¡ fogsz tenni.}
+{135}{}{Dehogy Ã©desem, a mÃ©ret egyÃ¡ltalÃ¡n nem szÃ¡mÃ­t. IgazÃ¡n aranyos volt.}
+{136}{}{HÃ¡t nem vagy tele Ã©get? szerelemmel.}
+{137}{}{Milyen aranyos kis fickÃ³d van odalenn.}
+{140}{}{A mÃ©ret a lÃ©nyeg! Az Ã©let Ã©des rejtÃ©lye... }
+{141}{}{Ha legkÃ¶zelebb jÃ¶ssz, tÃºlÃ³rÃ¡zni fogok.}
+{142}{}{Te aztÃ¡n elveszed ami jÃ¡r.}
+{143}{}{Azt hiszem, ezutÃ¡n inkÃ¡bb hazamegyek.}
+{144}{}{Ez igen! Neked is beremegett a fÃ¶ld?}
+{145}{}{Na, most mÃ¡r tudom, mit Ã©rezhetett Catherine, a Nagy.}
+{150}{}{HÃ¡t, a pÃ©nz az pÃ©nz.}
+{151}{}{Ez, Ã¶mm, Ã©rdekes volt.}
+{152}{}{Ez igazÃ¡n kÃ¼lÃ¶nleges volt. KÃ¶vetkez?!}
+{153}{}{Nem, nem hasznÃ¡lhatod a kÃ¶lnimet.}
+{154}{}{HÃ¡t, legalÃ¡bb a bajszod kisebb, mint a tÃ¶bbi Ã¼gyfelemnek.}
+{155}{}{Biztos, hogy lÃ¡ny vagy?}
 {160}{}{Ez kellemes volt.}
-{161}{}{Ez más volt, mint szokott, de nem rossz értelemben.}
-{162}{}{Azt hiszem, ezt még egyszer ki fogom próbálni.}
-{163}{}{Ezt munka után is csinálhatnánk.}
-{164}{}{Ez finom volt, édesem.}
-{165}{}{Ez igen! Innent?l kezdve más lesz az életem.}
-{166}{}{Nem is tudtam, hogy így is lehet.}
-{170}{}{Beszélj Nagyorrú Sallyvel!}
-{171}{}{Hát nem édes?}
-{172}{}{Imádlak!}
-{173}{}{Majd látogass meg néha!}
-{174}{}{Tudod, hogy kell fütyülni, ugye?}
-{175}{}{Tiszta voltam mint a hó, de aztán elkapott a sodrás.}
-{176}{}{(Farkas üvöltés)}
-{177}{}{Hé, tigris!}
-{178}{}{Hé, bééébi...}
-{179}{}{Beszélj Sallyvel, ha izgalomra vágysz!}
-{180}{}{(dudorászik)}
-{181}{}{Rádférne egy mosás.}
-{182}{}{Ó, egy törzsbéli. Imádom a különlegességeket.}
-{183}{}{Általában nem vállalok törzsbélieket.}
-{184}{}{Tetszik, amit látsz, bébi?}
-{185}{}{Kívánsz?}
-{186}{}{Ha játszani akarsz, fizess!}
+{161}{}{Ez mÃ¡s volt, mint szokott, de nem rossz Ã©rtelemben.}
+{162}{}{Azt hiszem, ezt mÃ©g egyszer ki fogom prÃ³bÃ¡lni.}
+{163}{}{Ezt munka utÃ¡n is csinÃ¡lhatnÃ¡nk.}
+{164}{}{Ez finom volt, Ã©desem.}
+{165}{}{Ez igen! Innent?l kezdve mÃ¡s lesz az Ã©letem.}
+{166}{}{Nem is tudtam, hogy Ã­gy is lehet.}
+{170}{}{BeszÃ©lj NagyorrÃº Sallyvel!}
+{171}{}{HÃ¡t nem Ã©des?}
+{172}{}{ImÃ¡dlak!}
+{173}{}{Majd lÃ¡togass meg nÃ©ha!}
+{174}{}{Tudod, hogy kell fÃ¼tyÃ¼lni, ugye?}
+{175}{}{Tiszta voltam mint a hÃ³, de aztÃ¡n elkapott a sodrÃ¡s.}
+{176}{}{(Farkas Ã¼vÃ¶ltÃ©s)}
+{177}{}{HÃ©, tigris!}
+{178}{}{HÃ©, bÃ©Ã©Ã©bi...}
+{179}{}{BeszÃ©lj Sallyvel, ha izgalomra vÃ¡gysz!}
+{180}{}{(dudorÃ¡szik)}
+{181}{}{RÃ¡dfÃ©rne egy mosÃ¡s.}
+{182}{}{Ã“, egy tÃ¶rzsbÃ©li. ImÃ¡dom a kÃ¼lÃ¶nlegessÃ©geket.}
+{183}{}{ÃltalÃ¡ban nem vÃ¡llalok tÃ¶rzsbÃ©lieket.}
+{184}{}{Tetszik, amit lÃ¡tsz, bÃ©bi?}
+{185}{}{KÃ­vÃ¡nsz?}
+{186}{}{Ha jÃ¡tszani akarsz, fizess!}

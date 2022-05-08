@@ -1,26 +1,26 @@
 {100}{}{Widzisz boksera.}
 {101}{}{Widzisz Pete'a "Huragana" McKneely'ego.}
-{150}{}{Widzisz mocno umiêœnionego bia³ego mê¿czyznê. Wygl¹da na tak os³abionego, ¿e mo¿na by go po³o¿yæ kawa³kiem pizzy.}
-{151}{}{Jego szczêka lœni jak szk³o.}
-{152}{}{Wygl¹da jak by mia³ na ringu nie ustaæ 7 sekund.}
-{153}{}{Wygl¹da jak by go mo¿na by³o znokautowaæ kawa³kiem pizzy.}
+{150}{}{Widzisz mocno umiÄ™Å›nionego biaÅ‚ego mÄ™Å¼czyznÄ™. WyglÄ…da na tak osÅ‚abionego, Å¼e moÅ¼na by go poÅ‚oÅ¼yÄ‡ kawaÅ‚kiem pizzy.}
+{151}{}{Jego szczÄ™ka lÅ›ni jak szkÅ‚o.}
+{152}{}{WyglÄ…da jak by miaÅ‚ na ringu nie ustaÄ‡ 7 sekund.}
+{153}{}{WyglÄ…da jak by go moÅ¼na byÅ‚o znokautowaÄ‡ kawaÅ‚kiem pizzy.}
 {200}{}{*Hnffff*}
 {201}{}{*Hnrggg*}
-{202}{}{::Napina miêœnie::}
+{202}{}{::Napina miÄ™Å›nie::}
 {203}{}{Jestem wypluty.}
-{204}{}{Mam ju¿ doœæ.}
-{205}{}{*Fffiuuu* ciê¿ki dzieñ.}
-{206}{}{Pakowanie zawsze mnie mêczy.}
-{207}{}{Te walki mnie wyczerpuj¹.}
-{208}{}{Lepiej pójdê wyg³adziæ moj¹ szklan¹ szczêkê.}
-{300}{}{::Bokser spogl¹da na ciebie i zas³ania szczêkê.::}
-{301}{}{::Bokser spogl¹da na ciebie i pociera szczêkê.::}
-{302}{}{Pakowanie zawsze mnie mêczy.}
-{303}{}{Nic mi nie bêdzie, jeœli mój menad¿er zdo³a wejœæ na ring i zatrzymaæ walkê.}
-{304}{}{Jestem Pete. Pete "Pora¿ka" McKneely.}
-{305}{}{Lubiê pizza, ale muszê uwa¿aæ na skórkê.}
-{306}{}{Dziœ rano otworzy³em drzwi i powia³ taki wiatr, ¿e mnie wywia³o.}
-{307}{}{Te walki mnie wyczerpuj¹.}
-{308}{}{Lepiej pójdê wyg³adziæ moj¹ szklan¹ szczêkê.}
-{309}{}{Jeœli bêdê dalej trenowa³, wytrzymam w ringu DZIESIÊÆ sekund.}
-{310}{}{Mo¿e i wytrzymujê w ringu tylko siedem sekund, ale w ³ó¿ku wytrzymujê ca³e DZIESIÊÆ.}
+{204}{}{Mam juÅ¼ doÅ›Ä‡.}
+{205}{}{*Fffiuuu* ciÄ™Å¼ki dzieÅ„.}
+{206}{}{Pakowanie zawsze mnie mÄ™czy.}
+{207}{}{Te walki mnie wyczerpujÄ….}
+{208}{}{Lepiej pÃ³jdÄ™ wygÅ‚adziÄ‡ mojÄ… szklanÄ… szczÄ™kÄ™.}
+{300}{}{::Bokser spoglÄ…da na ciebie i zasÅ‚ania szczÄ™kÄ™.::}
+{301}{}{::Bokser spoglÄ…da na ciebie i pociera szczÄ™kÄ™.::}
+{302}{}{Pakowanie zawsze mnie mÄ™czy.}
+{303}{}{Nic mi nie bÄ™dzie, jeÅ›li mÃ³j menadÅ¼er zdoÅ‚a wejÅ›Ä‡ na ring i zatrzymaÄ‡ walkÄ™.}
+{304}{}{Jestem Pete. Pete "PoraÅ¼ka" McKneely.}
+{305}{}{LubiÄ™ pizza, ale muszÄ™ uwaÅ¼aÄ‡ na skÃ³rkÄ™.}
+{306}{}{DziÅ› rano otworzyÅ‚em drzwi i powiaÅ‚ taki wiatr, Å¼e mnie wywiaÅ‚o.}
+{307}{}{Te walki mnie wyczerpujÄ….}
+{308}{}{Lepiej pÃ³jdÄ™ wygÅ‚adziÄ‡ mojÄ… szklanÄ… szczÄ™kÄ™.}
+{309}{}{JeÅ›li bÄ™dÄ™ dalej trenowaÅ‚, wytrzymam w ringu DZIESIÄ˜Ä† sekund.}
+{310}{}{MoÅ¼e i wytrzymujÄ™ w ringu tylko siedem sekund, ale w Å‚Ã³Å¼ku wytrzymujÄ™ caÅ‚e DZIESIÄ˜Ä†.}

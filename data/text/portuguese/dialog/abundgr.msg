@@ -1,1 +1,1 @@
-{100}{}{Você entra numa caverna escura. Você ouve criaturas curiosas.}
+{100}{}{VocÃª entra numa caverna escura. VocÃª ouve criaturas curiosas.}

@@ -1,2 +1,2 @@
-{100}{}{Usuwasz œwiñstwo z wentylatora i ostrza zaczynaj¹ siê krêciæ. Czujesz jak powietrze w pobli¿u siê poprawia.}
-{101}{}{Usuwasz œwiñstwo z wentylatora i ostrza zaczynaj¹ siê krêciæ. Teraz mo¿na tu bezpiecznie przebywaæ, przynajmniej w tej czêœci pomieszczenia.}
+{100}{}{Usuwasz Å›wiÅ„stwo z wentylatora i ostrza zaczynajÄ… siÄ™ krÄ™ciÄ‡. Czujesz jak powietrze w pobliÅ¼u siÄ™ poprawia.}
+{101}{}{Usuwasz Å›wiÅ„stwo z wentylatora i ostrza zaczynajÄ… siÄ™ krÄ™ciÄ‡. Teraz moÅ¼na tu bezpiecznie przebywaÄ‡, przynajmniej w tej czÄ™Å›ci pomieszczenia.}

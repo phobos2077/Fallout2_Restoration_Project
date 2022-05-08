@@ -1,33 +1,33 @@
 {100}{}{Du siehst einen Forscher.}
-{101}{}{Du siehst einen Angehörigen des Enklave-Forschungsteams.}
+{101}{}{Du siehst einen AngehÃ¶rigen des Enklave-Forschungsteams.}
 {102}{}{Du siehst ein Mitglied des Chemie-Corps der Vereinigten Staaten.}
-{103}{}{Wenn diese Ergebnisse bloß Sinn ergäben.}
+{103}{}{Wenn diese Ergebnisse bloÃŸ Sinn ergÃ¤ben.}
 {104}{}{Das ist Mist!}
 {105}{}{Diese Daten sind konsistent.}
-{106}{}{Diese Punkte ergeben eine schöne Kurve.}
+{106}{}{Diese Punkte ergeben eine schÃ¶ne Kurve.}
 {107}{}{Wie hoch ist die Standardabweichung?}
 {108}{}{Ich warte darauf, dass diese Verbindungen ins Gleichgewicht kommen.}
 {109}{}{Dieses Spektrometer ist im Eimer.}
-{110}{}{Wo sind bloß die Techniker, wenn man sie mal braucht?}
+{110}{}{Wo sind bloÃŸ die Techniker, wenn man sie mal braucht?}
 {111}{}{Ich habe gerade das IR-Spektrometer kalibriert.}
 {112}{}{Wie lief die Rekristallisierung?}
 {113}{}{Die Synthese ist fertig, Doktor.}
 {114}{}{Ausgezeichnet.}
-{115}{}{Das Projekt läuft nach Plan.}
+{115}{}{Das Projekt lÃ¤uft nach Plan.}
 {116}{}{Ausgezeichnete Ergebnisse.}
 {117}{}{Was denn jetzt noch?}
-{118}{}{Strahlung würde meine Arbeit total versauen.}
-{119}{}{Nur eine Übung.}
+{118}{}{Strahlung wÃ¼rde meine Arbeit total versauen.}
+{119}{}{Nur eine Ãœbung.}
 {120}{}{Ich kann meine Arbeit jetzt nicht alleine lassen.}
 {121}{}{Zum Schutzraum schaffe ich es nie.}
-{122}{}{Mir ist ein bisschen übel.}
+{122}{}{Mir ist ein bisschen Ã¼bel.}
 {123}{}{Was glauben die, wie ich ohne Strom arbeiten soll?}
 {124}{}{Das versaut mir mein Experiment so richtig.}
 {125}{}{Das ist zu viel.}
 {126}{}{Die sollten uns wirklich warnen, wenn sie die Notsysteme testen.}
 {127}{}{Meine Lungen brennen.}
 {128}{}{Ich seh nichts mehr, wer hat das Licht ausgemacht?}
-{129}{}{(hust, röchel, hust)}
+{129}{}{(hust, rÃ¶chel, hust)}
 {130}{}{(spuck, hust)}
 {131}{}{Meine Kehle blutet!}
 {132}{}{Meine Augen brennen!}
@@ -36,17 +36,17 @@
 {135}{}{Ohhhh neeeiiiiin.}
 {136}{}{Ich sehe das Licht... Ich komme, Mutti.}
 {137}{}{Ich sehe niemanden.}
-{138}{}{Muss wieder so eine Sicherheitsübung sein.}
-{139}{}{Haben die Soldaten diese Übungen denn nie satt?}
+{138}{}{Muss wieder so eine SicherheitsÃ¼bung sein.}
+{139}{}{Haben die Soldaten diese Ãœbungen denn nie satt?}
 {140}{}{Nicht schon wieder, schon das zweite Mal in diesem Monat.}
-{141}{}{Diese Hohlköpfe stehen mir bis hier.}
-{142}{}{Die *müssen* sich einfach wichtig fühlen.}
-{143}{}{Was für eine Zeitverschwendung.}
-{144}{}{Als ob's hier Eindringlinge gäbe.}
+{141}{}{Diese HohlkÃ¶pfe stehen mir bis hier.}
+{142}{}{Die *mÃ¼ssen* sich einfach wichtig fÃ¼hlen.}
+{143}{}{Was fÃ¼r eine Zeitverschwendung.}
+{144}{}{Als ob's hier Eindringlinge gÃ¤be.}
 {145}{}{Wo soll ein Eindringling denn wohl herkommen?}
-{146}{}{Als ob wir einen Eindringling nicht schon von weitem sähen.}
+{146}{}{Als ob wir einen Eindringling nicht schon von weitem sÃ¤hen.}
 {147}{}{Na klasse, wieder ein Fehlalarm.}
-{148}{}{Für den Mist hab ich keine Zeit.}
+{148}{}{FÃ¼r den Mist hab ich keine Zeit.}
 {149}{}{Was willst du?}
 {150}{}{Siehst du nicht, dass ich arbeite?}
 {151}{}{Hau ab. Ich hab zu tun.}

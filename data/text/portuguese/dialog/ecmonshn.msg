@@ -1,9 +1,9 @@
-{100}{}{Você vê uma lua brilhante.}
-{101}{}{Nós vendemos apenas a mais alta qualidade de licor. Você está interessado?}
-{102}{}{Sim, vamos ver o que você tem.}
-{103}{}{Não.}
+{100}{}{VocÃª vÃª uma lua brilhante.}
+{101}{}{NÃ³s vendemos apenas a mais alta qualidade de licor. VocÃª estÃ¡ interessado?}
+{102}{}{Sim, vamos ver o que vocÃª tem.}
+{103}{}{NÃ£o.}
 {104}{}{Ug.}
-{105}{}{Então saia! Estamos ocupados.}
-{106}{}{Certifico-me de que a mistura de álcool esteja correta.}
+{105}{}{EntÃ£o saia! Estamos ocupados.}
+{106}{}{Certifico-me de que a mistura de Ã¡lcool esteja correta.}
 {107}{}{Baka. BAka BAka!}
-{108}{}{Graças pelo negócio.}
+{108}{}{GraÃ§as pelo negÃ³cio.}

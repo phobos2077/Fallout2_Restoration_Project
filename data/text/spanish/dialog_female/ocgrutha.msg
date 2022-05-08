@@ -1,173 +1,173 @@
-{100}{}{Ves una enorme Garra mortal. La criatura tiene enormes músculos, dientes afilados, y garras.}
-{101}{}{Ves a Gruthar, líder de las Garras mortales.}
-{102}{}{Ves la Garra mortal más impresionante que podrías imaginar. La criatura debe ser única en su especie.}
-{103}{}{No me temas, humano. No tengo la intención de hacerte daño. Soy Gruthar, el líder de este grupo de Garras mortales. ¿Para qué has venido?}
-{104}{}{¿Para qué has venido?}
+{100}{}{Ves una enorme Garra mortal. La criatura tiene enormes mÃºsculos, dientes afilados, y garras.}
+{101}{}{Ves a Gruthar, lÃ­der de las Garras mortales.}
+{102}{}{Ves la Garra mortal mÃ¡s impresionante que podrÃ­as imaginar. La criatura debe ser Ãºnica en su especie.}
+{103}{}{No me temas, humano. No tengo la intenciÃ³n de hacerte daÃ±o. Soy Gruthar, el lÃ­der de este grupo de Garras mortales. Â¿Para quÃ© has venido?}
+{104}{}{Â¿Para quÃ© has venido?}
 {105}{}{Eh...}
-{106}{}{¡Para patearte el culo!}
-{107}{}{¿Cómo es posible que una Garra mortal pueda hablar... y tan bien?}
-{108}{}{Quiero saber lo que ocurrió con la gente que vivía aquí.}
-{109}{}{Estoy buscando algo llamado GECK. Me dijeron que podría encontrar uno aquí.}
+{106}{}{Â¡Para patearte el culo!}
+{107}{}{Â¿CÃ³mo es posible que una Garra mortal pueda hablar... y tan bien?}
+{108}{}{Quiero saber lo que ocurriÃ³ con la gente que vivÃ­a aquÃ­.}
+{109}{}{Estoy buscando algo llamado GECK. Me dijeron que podrÃ­a encontrar uno aquÃ­.}
 {110}{}{Me han pedido que elimine una guarida de peligrosas Garras mortales...}
-{111}{}{Investigo incursiones en los ranchos de brahmines locales. ¿Sabes algo de esto?}
+{111}{}{Investigo incursiones en los ranchos de brahmines locales. Â¿Sabes algo de esto?}
 {112}{}{Creo que debo irme ahora.}
-{113}{}{Tú no eres tonto, humano. Puedo ver la verdad en tus ojos. Por favor, no intentes engañarme.
+{113}{}{TÃº no eres tonto, humano. Puedo ver la verdad en tus ojos. Por favor, no intentes engaÃ±arme.
  No tengo paciencia para tales juegos.}
-{114}{}{Muy bien. Si deseas comportarte como un idiota, que así sea. Vuelve conmigo si cambias
- de opinión.}
-{115}{}{Mis disculpas. Pareces ser intelectualmente desafiante. No eres una amenaza para mí o la manada.
- Eres bienvenido aquí, y puedes considerar este lugar una zona segura de las amenazas del mundo exterior. No hagas daño a nadie, mantente
- lejos de los problemas, y siempre seras bienvenido aquí.}
-{116}{}{Perdóname. No quiero ser grosero, pero no veo que esto sea relevante en nuestra conversación.
- Puedo hablar en tu lengua, y leer vuestros textos escritos. ¿Qué más hay que decir?}
+{114}{}{Muy bien. Si deseas comportarte como un idiota, que asÃ­ sea. Vuelve conmigo si cambias
+ de opiniÃ³n.}
+{115}{}{Mis disculpas. Pareces ser intelectualmente desafiante. No eres una amenaza para mÃ­ o la manada.
+ Eres bienvenido aquÃ­, y puedes considerar este lugar una zona segura de las amenazas del mundo exterior. No hagas daÃ±o a nadie, mantente
+ lejos de los problemas, y siempre seras bienvenido aquÃ­.}
+{116}{}{PerdÃ³name. No quiero ser grosero, pero no veo que esto sea relevante en nuestra conversaciÃ³n.
+ Puedo hablar en tu lengua, y leer vuestros textos escritos. Â¿QuÃ© mÃ¡s hay que decir?}
 {117}{}{Ya veo.}
-{118}{}{No quiero husmear, pero seguramente entiendes mi interés en este asunto.}
-{119}{}{Sí, bueno, ¿puedes decidir qué es relevante y qué no?}
-{120}{}{Sí, sí puedo. Muy bien. Si nos despedimos como amigos, humano, deberías hablar con Goris. Él
- tiene más conocimientos sobre este tema que yo. Normalmente se le puede encontrar en la biblioteca del Refugio.}
+{118}{}{No quiero husmear, pero seguramente entiendes mi interÃ©s en este asunto.}
+{119}{}{SÃ­, bueno, Â¿puedes decidir quÃ© es relevante y quÃ© no?}
+{120}{}{SÃ­, sÃ­ puedo. Muy bien. Si nos despedimos como amigos, humano, deberÃ­as hablar con Goris. Ã‰l
+ tiene mÃ¡s conocimientos sobre este tema que yo. Normalmente se le puede encontrar en la biblioteca del Refugio.}
 {121}{}{Gracias. Voy a buscar a Goris.}
-{122}{}{No tengo la intención de añadir una Garra mortal a mi lista de amigos. ¡Adiós!}
+{122}{}{No tengo la intenciÃ³n de aÃ±adir una Garra mortal a mi lista de amigos. Â¡AdiÃ³s!}
 {123}{}{De acuerdo.}
 {124}{}{Se fueron, humano. No los matamos y arrebatamos su hogar. Esa no es nuestra forma de actuar.
  Entiendo que no quieras creerme, pero espero que me juzgues por mis acciones hacia ti y
  no por miedos o prejuicios.}
-{125}{}{Oye, ¿quizá te imaginas que te voy a patear el culo?}
+{125}{}{Oye, Â¿quizÃ¡ te imaginas que te voy a patear el culo?}
 {126}{}{Pareces un ser honorable, Gruthar.}
-{127}{}{Sí, supongo.}
-{128}{}{Un geck. No es más que un pequeño lagarto... no, espera... eso es un gecko. Lo siento, pero no sé lo que
+{127}{}{SÃ­, supongo.}
+{128}{}{Un geck. No es mÃ¡s que un pequeÃ±o lagarto... no, espera... eso es un gecko. Lo siento, pero no sÃ© lo que
  es un geck, ni donde se puede encontrar.}
-{129}{}{Sí, creo que mencionaste eso antes. No sé lo que es un geck, ni donde puedes
+{129}{}{SÃ­, creo que mencionaste eso antes. No sÃ© lo que es un geck, ni donde puedes
  encontrarlo.}
-{130}{}{¿Me dejas entrar para buscarlo?}
-{131}{}{Oye, ese comentario sobre un lagarto pequeño ha sido realmente divertido. ¿Es un pariente tuyo?}
-{132}{}{Es obvio que hablar contigo es una pérdida de tiempo. Adiós.}
-{133}{}{Para ser honestos, no sé exactamente lo que es. ¿Te importaría si
+{130}{}{Â¿Me dejas entrar para buscarlo?}
+{131}{}{Oye, ese comentario sobre un lagarto pequeÃ±o ha sido realmente divertido. Â¿Es un pariente tuyo?}
+{132}{}{Es obvio que hablar contigo es una pÃ©rdida de tiempo. AdiÃ³s.}
+{133}{}{Para ser honestos, no sÃ© exactamente lo que es. Â¿Te importarÃ­a si
  lo buscara?}
 {134}{}{Lo siento, pero no permito a nadie vagar por estos pasillos. Soy responsable de la
- seguridad de todos los que viven aquí y debo ser cauto. Sin embargo, buscaré ese geck, y si lo
- encuentro, te lo haré saber.}
+ seguridad de todos los que viven aquÃ­ y debo ser cauto. Sin embargo, buscarÃ© ese geck, y si lo
+ encuentro, te lo harÃ© saber.}
 {135}{}{Lo siento, pero no permito a nadie vagar por estos pasillos. Soy responsable de la
- seguridad de todos los que viven aquí y debo ser cauto.}
-{136}{}{A ver. No es que tú seas el dueño del lugar. ¡Quizá vaya a echar un vistazo, te guste o no!}
-{137}{}{Lo entiendo, Gruthar, y respetaré tu deseo de privacidad.}
-{138}{}{Entiendo tus reparos. No me conoces lo suficiente como para confiar en mí. ¿Y si te ayudara
- de alguna manera, me permitiríais a cambio echar un vistazo?}
-{139}{}{(Gruthar te observa intensamente durante un momento) ¿Estarías interesado en ayudarnos? Sí, no
- noto maldad en ti. Muy bien, depositaré mi confianza en ti.}
+ seguridad de todos los que viven aquÃ­ y debo ser cauto.}
+{136}{}{A ver. No es que tÃº seas el dueÃ±o del lugar. Â¡QuizÃ¡ vaya a echar un vistazo, te guste o no!}
+{137}{}{Lo entiendo, Gruthar, y respetarÃ© tu deseo de privacidad.}
+{138}{}{Entiendo tus reparos. No me conoces lo suficiente como para confiar en mÃ­. Â¿Y si te ayudara
+ de alguna manera, me permitirÃ­ais a cambio echar un vistazo?}
+{139}{}{(Gruthar te observa intensamente durante un momento) Â¿EstarÃ­as interesado en ayudarnos? SÃ­, no
+ noto maldad en ti. Muy bien, depositarÃ© mi confianza en ti.}
 {140}{}{(Gruthar te observa intensamente durante un momento). Creo que no. Puedo sentir la maldad dentro de ti, humano. No puedo arriesgar las vidas de quienes protejo por darte una oportunidad.}
 {141}{}{Gracias.}
-{142}{}{Muy bien. Creo que una lobotomía a base de balas es una solución viable a mi problema.}
+{142}{}{Muy bien. Creo que una lobotomÃ­a a base de balas es una soluciÃ³n viable a mi problema.}
 {143}{}{Siento que lo veas de esa manera, Gruthar.}
-{144}{}{Entonces me iré.}
-{145}{}{Hay máquinas aquí, máquinas construidas por humanos. Las manos de una Garra mortal no pueden usar estas
- máquinas. Sin embargo, había una máquina que entiende las preguntas. Le pedía que hiciera funcionar las otras máquinas
- y obedecía. Esta máquina ya no me escucha. Ya no hace funcionar las demás máquinas. Nos estamos quedando
+{144}{}{Entonces me irÃ©.}
+{145}{}{Hay mÃ¡quinas aquÃ­, mÃ¡quinas construidas por humanos. Las manos de una Garra mortal no pueden usar estas
+ mÃ¡quinas. Sin embargo, habÃ­a una mÃ¡quina que entiende las preguntas. Le pedÃ­a que hiciera funcionar las otras mÃ¡quinas
+ y obedecÃ­a. Esta mÃ¡quina ya no me escucha. Ya no hace funcionar las demÃ¡s mÃ¡quinas. Nos estamos quedando
  sin comida ni agua. He ordenado irrumpir en las tierras humanas para poder sobrevivir. No estoy orgulloso
- de ello y querría ponerle fin. Si reparas esta máquina, podré alimentar a mi manada de
- nuevo. Con gusto detendré las incursiones. ¿Aceptarías este trato?}
-{146}{}{Lo siento, no tengo ni idea de cómo arreglar tal cosa.}
-{147}{}{No soy una técnico, pero puedo intentarlo.}
-{148}{}{Hmm... parece que el módulo de reconocimiento de voz ha fallado. Vamos a echarle un vistazo.}
-{149}{}{He cambiado de opinión. Creo que tendré que pensarlo un poco más.}
-{150}{}{Haré lo que pueda para ayudaros.}
+ de ello y querrÃ­a ponerle fin. Si reparas esta mÃ¡quina, podrÃ© alimentar a mi manada de
+ nuevo. Con gusto detendrÃ© las incursiones. Â¿AceptarÃ­as este trato?}
+{146}{}{Lo siento, no tengo ni idea de cÃ³mo arreglar tal cosa.}
+{147}{}{No soy una tÃ©cnico, pero puedo intentarlo.}
+{148}{}{Hmm... parece que el mÃ³dulo de reconocimiento de voz ha fallado. Vamos a echarle un vistazo.}
+{149}{}{He cambiado de opiniÃ³n. Creo que tendrÃ© que pensarlo un poco mÃ¡s.}
+{150}{}{HarÃ© lo que pueda para ayudaros.}
 {151}{}{Me niego a ayudar a unas Garras mortales.}
-{152}{}{Gracias. La máquina está en el centro de mando del Refugio, en el tercer nivel. Si puedes repararla, por favor, hazlo. Estoy depositando mi confianza en ti. Por favor no la traiciones. Eres bienvenida aquí.}
-{153}{}{No te decepcionaré, Gruthar. Tienes mi palabra.}
-{154}{}{Gracias. Me pondré a ello.}
+{152}{}{Gracias. La mÃ¡quina estÃ¡ en el centro de mando del Refugio, en el tercer nivel. Si puedes repararla, por favor, hazlo. Estoy depositando mi confianza en ti. Por favor no la traiciones. Eres bienvenida aquÃ­.}
+{153}{}{No te decepcionarÃ©, Gruthar. Tienes mi palabra.}
+{154}{}{Gracias. Me pondrÃ© a ello.}
 {155}{}{Es cierto que nace uno cada minuto...}
-{156}{}{Ya veo... Bien, las Garras mortales son peligrosas por naturaleza y se debe tener mucho cuidado al encontrárselas en el Yermo. Sin embargo, estoy seguro de que has notado que nosotros somos una excepción. Mi manada no representa amenaza alguna a ti o vuestras comunidades humanas. Hemos evolucionado más allá de nuestros primos salvajes y simplemente deseamos estar solos.}
+{156}{}{Ya veo... Bien, las Garras mortales son peligrosas por naturaleza y se debe tener mucho cuidado al encontrÃ¡rselas en el Yermo. Sin embargo, estoy seguro de que has notado que nosotros somos una excepciÃ³n. Mi manada no representa amenaza alguna a ti o vuestras comunidades humanas. Hemos evolucionado mÃ¡s allÃ¡ de nuestros primos salvajes y simplemente deseamos estar solos.}
 {157}{}{Eh... ya.}
-{158}{}{Tu elevado intelecto podría convertirte en más que una amenaza que la Garra mortal promedio, Gruthar.}
+{158}{}{Tu elevado intelecto podrÃ­a convertirte en mÃ¡s que una amenaza que la Garra mortal promedio, Gruthar.}
 {159}{}{Ya veo que no sois los salvajes asesinos que las otras Garras mortales conocidas.}
 {160}{}{He pasado muchas noches sin dormir, sumido en mis pensamientos, reflexionando sobre tales cuestiones. Finalmente he
- llegado a la conclusión de que las cargas y responsabilidades asociadas al don de la inteligencia
- son incontables. Sólo hay dos opciones para cualquier ser pensante. Puede aceptar la vida como
- le viene y hacer lo mejor posible para uno mismo y los demás, o simplemente dejar de ser. Yo he elegido aceptar
- los desafíos de la vida. Si eso me convierte en una amenaza para la humanidad, entonces compadezco la pequeña mente que así
+ llegado a la conclusiÃ³n de que las cargas y responsabilidades asociadas al don de la inteligencia
+ son incontables. SÃ³lo hay dos opciones para cualquier ser pensante. Puede aceptar la vida como
+ le viene y hacer lo mejor posible para uno mismo y los demÃ¡s, o simplemente dejar de ser. Yo he elegido aceptar
+ los desafÃ­os de la vida. Si eso me convierte en una amenaza para la humanidad, entonces compadezco la pequeÃ±a mente que asÃ­
  piensa...}
-{161}{}{Sí, bueno... puede que tenga una mente pequeña, pero lo que sí tengo es un arma GRANDE.}
-{162}{}{No podría estar más de acuerdo. No creo que seas una amenaza, Gruthar.}
-{163}{}{Eh... sí. Lo que has dicho.}
-{164}{}{(Gruthar se detiene y parece considerar cuidadosamente su respuesta). Siento decir que se me ordenaron los ataques a tierras humanas. Soy responsable de las vidas de muchos. Nos quedábamos sin comida, agua, y otros suministros. Hasta que la situación se corrija, necesito tomar lo que, como Garra mortal, no se puede pedir a los humanos.}
-{165}{}{¡Excelente, ahora que sé cual es la fuente de los ataques, la eliminaré!}
-{166}{}{Lamento oír eso. ¿Hay alguna forma en que pueda ayudarte para que puedas detener
+{161}{}{SÃ­, bueno... puede que tenga una mente pequeÃ±a, pero lo que sÃ­ tengo es un arma GRANDE.}
+{162}{}{No podrÃ­a estar mÃ¡s de acuerdo. No creo que seas una amenaza, Gruthar.}
+{163}{}{Eh... sÃ­. Lo que has dicho.}
+{164}{}{(Gruthar se detiene y parece considerar cuidadosamente su respuesta). Siento decir que se me ordenaron los ataques a tierras humanas. Soy responsable de las vidas de muchos. Nos quedÃ¡bamos sin comida, agua, y otros suministros. Hasta que la situaciÃ³n se corrija, necesito tomar lo que, como Garra mortal, no se puede pedir a los humanos.}
+{165}{}{Â¡Excelente, ahora que sÃ© cual es la fuente de los ataques, la eliminarÃ©!}
+{166}{}{Lamento oÃ­r eso. Â¿Hay alguna forma en que pueda ayudarte para que puedas detener
  los ataques?}
-{167}{}{De momento he oído suficiente. Necesito más tiempo para reflexionar.}
+{167}{}{De momento he oÃ­do suficiente. Necesito mÃ¡s tiempo para reflexionar.}
 {168}{}{Ya veo...}
-{169}{}{Me disgusta tu decisión, pero la acepto. Puedes irte, pero por favor regresa si
+{169}{}{Me disgusta tu decisiÃ³n, pero la acepto. Puedes irte, pero por favor regresa si
  lo reconsideras.}
 {170}{}{Hecho.}
 {171}{}{Hola }
-{172}{}{No. Pero llegaré a ello.}
-{173}{}{Lo siento, Gruthar. El módulo de voz estaba mal. Voy a tener que ir a buscar uno.}
-{174}{}{No entiendo el funcionamiento de tales cosas pero confío en ti,}
+{172}{}{No. Pero llegarÃ© a ello.}
+{173}{}{Lo siento, Gruthar. El mÃ³dulo de voz estaba mal. Voy a tener que ir a buscar uno.}
+{174}{}{No entiendo el funcionamiento de tales cosas pero confÃ­o en ti,}
 {175}{}{Hecho.}
-{176}{}{Volveré, tienes mi palabra.}
+{176}{}{VolverÃ©, tienes mi palabra.}
 {177}{}{Hola }
 {178}{}{No, sigo buscando.}
-{179}{}{¡Sí, y aquí está!}
+{179}{}{Â¡SÃ­, y aquÃ­ estÃ¡!}
 {180}{}{}
-{181}{}{Me has devuelto la fe en los humanos. Te doy las gracias por todo lo que has hecho por la manada. ¿Hay
+{181}{}{Me has devuelto la fe en los humanos. Te doy las gracias por todo lo que has hecho por la manada. Â¿Hay
  algo que pueda hacer por ti en agradecimiento?}
-{182}{}{Dijiste que si encontrabas un GECK aquí me lo harías saber. ¿Lo has hecho?}
-{183}{}{Sí, estoy buscando un GECK. Me dijeron que podría encontrarlo aquí. ¿Sabes dónde está?}
+{182}{}{Dijiste que si encontrabas un GECK aquÃ­ me lo harÃ­as saber. Â¿Lo has hecho?}
+{183}{}{SÃ­, estoy buscando un GECK. Me dijeron que podrÃ­a encontrarlo aquÃ­. Â¿Sabes dÃ³nde estÃ¡?}
 {184}{}{No, gracias. Tengo todo lo que necesito.}
-{185}{}{Ah, déjame ver. [Él se va, a continuación, devuelve un momento más tarde, torpemente agarrando algún tipo de carcasa metálica en sus grandes garras.] Sí, hubo un geck en la bóveda de la sala de almacenamiento. Es la suya con muchas gracias.}
-{186}{}{Sí, había un GECK en el almacén del Refugio. Sin embargo, se perdió. Lamento no poder dártelo como recompensa por tu generosa ayuda.}
-{187}{}{¡Gracias!}
-{188}{}{Eh... está bien. Intentaré encontrar uno en algún otro lugar.}
-{189}{}{Hola de nuevo, humana. Espero que no tengas la intención de hacerte la tonta conmigo.}
+{185}{}{Ah, dÃ©jame ver. [Ã‰l se va, a continuaciÃ³n, devuelve un momento mÃ¡s tarde, torpemente agarrando algÃºn tipo de carcasa metÃ¡lica en sus grandes garras.] SÃ­, hubo un geck en la bÃ³veda de la sala de almacenamiento. Es la suya con muchas gracias.}
+{186}{}{SÃ­, habÃ­a un GECK en el almacÃ©n del Refugio. Sin embargo, se perdiÃ³. Lamento no poder dÃ¡rtelo como recompensa por tu generosa ayuda.}
+{187}{}{Â¡Gracias!}
+{188}{}{Eh... estÃ¡ bien. IntentarÃ© encontrar uno en algÃºn otro lugar.}
+{189}{}{Hola de nuevo, humana. Espero que no tengas la intenciÃ³n de hacerte la tonta conmigo.}
 {190}{}{Quiero disculparme y volver a empezar, Gruthar.}
 {191}{}{Lo siento, tengo que irme.}
 {192}{}{Uh, yo siento.}
-{193}{}{Saludos, humana. ¿Lo has reconsiderado? ¿Me ayudarás?}
-{194}{}{Demonios, no. Sólo quería escuchar un poco más cómo maltratas el lenguaje.}
+{193}{}{Saludos, humana. Â¿Lo has reconsiderado? Â¿Me ayudarÃ¡s?}
+{194}{}{Demonios, no. SÃ³lo querÃ­a escuchar un poco mÃ¡s cÃ³mo maltratas el lenguaje.}
 {195}{}{No, creo que no.}
-{196}{}{Sí, Gruthar. Te ayudaré.}
-{197}{}{Saludos, amiga. ¿Ya has examinado la máquina?}
-{198}{}{Aún no, pero me pondré a ello.}
-{199}{}{Hola, amiga mía. Has salvado a la manada y te damos las gracias.}
+{196}{}{SÃ­, Gruthar. Te ayudarÃ©.}
+{197}{}{Saludos, amiga. Â¿Ya has examinado la mÃ¡quina?}
+{198}{}{AÃºn no, pero me pondrÃ© a ello.}
+{199}{}{Hola, amiga mÃ­a. Has salvado a la manada y te damos las gracias.}
 {200}{}{}
 {201}{}{}
-{202}{}{¡Muere, humana traicionera!}
+{202}{}{Â¡Muere, humana traicionera!}
 {203}{}{}
 {204}{}{}
 {205}{}{No tengo nada contra ti, humano, y nada quiero tener. Estoy intentando comportarme contigo civilizadamente.
- ¡Por favor, devuélveme esa cortesía!}
+ Â¡Por favor, devuÃ©lveme esa cortesÃ­a!}
 {206}{}{De acuerdo, hablemos entonces.}
-{207}{}{Eres una Garra mortal y eso significa pena de muerte... ¡para ti, quiero decir!}
+{207}{}{Eres una Garra mortal y eso significa pena de muerte... Â¡para ti, quiero decir!}
 {208}{}{Lo siento, Gruthar. Hablemos.}
 {209}{}{Lo que sea. Me largo.}
-{210}{}{No. Yo soy el líder aquí, así que yo decido. ¡Si esto no te gusta, puedes volver a tus tierras humanas!}
-{211}{}{¡Chúpamela!}
-{212}{}{Está bien, me iré ahora.}
-{213}{}{Por supuesto, Gruthar. Me olvidé por un momento.}
-{214}{}{Te aseguro que no intentaba hacerme el gracioso o jugar contigo. Por favor, perdóname si te he dado
- esa impresión. Te ayudaría si pudiera.}
+{210}{}{No. Yo soy el lÃ­der aquÃ­, asÃ­ que yo decido. Â¡Si esto no te gusta, puedes volver a tus tierras humanas!}
+{211}{}{Â¡ChÃºpamela!}
+{212}{}{EstÃ¡ bien, me irÃ© ahora.}
+{213}{}{Por supuesto, Gruthar. Me olvidÃ© por un momento.}
+{214}{}{Te aseguro que no intentaba hacerme el gracioso o jugar contigo. Por favor, perdÃ³name si te he dado
+ esa impresiÃ³n. Te ayudarÃ­a si pudiera.}
 {215}{}{Bien, gracias.}
-{216}{}{Lo siento, no pretendía actuar con tal impertinencia.}
+{216}{}{Lo siento, no pretendÃ­a actuar con tal impertinencia.}
 {217}{}{Deja la pose civilizada, 'amigo'. No funciona conmigo.}
-{218}{}{(Gruthar emite una serie de gruñidos guturales). Puede que no sea dueño de este lugar, humano, pero es mi hogar
- y el de otros que me han confiado su protección. ¡No me fuerces hasta el punto de que uno de los
+{218}{}{(Gruthar emite una serie de gruÃ±idos guturales). Puede que no sea dueÃ±o de este lugar, humano, pero es mi hogar
+ y el de otros que me han confiado su protecciÃ³n. Â¡No me fuerces hasta el punto de que uno de los
  dos se arrepienta!}
-{219}{}{Lo siento; he sido descortés y me he extralimitado.}
-{220}{}{¡Que te jodan, a ti y a todos los que son como tú!}
-{221}{}{¡Eh, eh! Me largo de aquí.}
-{222}{}{Gracias. Por favor, ve a la sala de control y reemplaza el módulo.}
-{223}{}{¡Considéralo hecho!}
+{219}{}{Lo siento; he sido descortÃ©s y me he extralimitado.}
+{220}{}{Â¡Que te jodan, a ti y a todos los que son como tÃº!}
+{221}{}{Â¡Eh, eh! Me largo de aquÃ­.}
+{222}{}{Gracias. Por favor, ve a la sala de control y reemplaza el mÃ³dulo.}
+{223}{}{Â¡ConsidÃ©ralo hecho!}
 {224}{}{}
-{225}{}{No eres bienvenida aquí en este momento. Puedes irte.}
-{226}{}{Adiós.}
-{227}{}{Adiós.}
+{225}{}{No eres bienvenida aquÃ­ en este momento. Puedes irte.}
+{226}{}{AdiÃ³s.}
+{227}{}{AdiÃ³s.}
 {228}{}{Hecho.}
-{229}{}{Disculpas aceptadas, humana. ¡Que tengas un buen día!}
+{229}{}{Disculpas aceptadas, humana. Â¡Que tengas un buen dÃ­a!}
 {230}{}{Hecho.}
-{231}{}{. ¿Has examinado la máquina?}
-{232}{}{. Esperaré tu regreso.}
-{233}{}{. ¿Has encontrado la pieza para reparar la máquina?}
-{234}{}{Eh, está bien.}
-{235}{}{Espero que estés disfrutando de tu estancia.}
-{236}{}{Desafortunadamente, tuve que llegar a esto. Les permití seguir sanos y salvo, siempre y cuando no supusieran una amenaza para la manada. Él eligió su camino. Espero que lo entiendas.}
-{237}{}{Tú malo.}
+{231}{}{. Â¿Has examinado la mÃ¡quina?}
+{232}{}{. EsperarÃ© tu regreso.}
+{233}{}{. Â¿Has encontrado la pieza para reparar la mÃ¡quina?}
+{234}{}{Eh, estÃ¡ bien.}
+{235}{}{Espero que estÃ©s disfrutando de tu estancia.}
+{236}{}{Desafortunadamente, tuve que llegar a esto. Les permitÃ­ seguir sanos y salvo, siempre y cuando no supusieran una amenaza para la manada. Ã‰l eligiÃ³ su camino. Espero que lo entiendas.}
+{237}{}{TÃº malo.}
 {238}{}{Entiendo, Gruthar.}
-{239}{}{Sí. Matt no bueno.}
+{239}{}{SÃ­. Matt no bueno.}

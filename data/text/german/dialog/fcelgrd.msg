@@ -4,33 +4,33 @@
 {103}{}{Einbrecher!}
 {104}{}{Schnappt euch den Eindringling!}
 {105}{}{Hierher! Hierher!}
-{106}{}{Deine Zeit ist gekommen Ungläubiger! Das Große Rad wird dich überrollen!}
-{107}{}{Wir sind die Wächter. Jetzt sollst du sterben.}
-{108}{}{Sternenvater, führe mich ans Ziel.}
-{109}{}{Du hast gegen unsere Gesetze verstoßen!}
-{110}{}{Wenn die Anwälte nichts erreichen, dann unsere Waffen.}
+{106}{}{Deine Zeit ist gekommen UnglÃ¤ubiger! Das GroÃŸe Rad wird dich Ã¼berrollen!}
+{107}{}{Wir sind die WÃ¤chter. Jetzt sollst du sterben.}
+{108}{}{Sternenvater, fÃ¼hre mich ans Ziel.}
+{109}{}{Du hast gegen unsere Gesetze verstoÃŸen!}
+{110}{}{Wenn die AnwÃ¤lte nichts erreichen, dann unsere Waffen.}
 {111}{}{Wir sind der lange Arm des Hub-Gesetzes.}
-{112}{}{Übeltäter!}
+{112}{}{ÃœbeltÃ¤ter!}
 {113}{}{Vorsicht.}
 {114}{}{Pass auf, Outsider.}
 {115}{}{Fass nichts an, was du nicht darfst.}
 {116}{}{Wenn du aus der Reihe tanzt, machen wir Hackfleisch aus dir.}
-{117}{}{Sei äußerst vorsichtig.}
+{117}{}{Sei Ã¤uÃŸerst vorsichtig.}
 {118}{}{Wir sind das Gesetz des Hub. Brich es nicht.}
 {119}{}{Ich bin AHS-4.}
 {120}{}{Ich werde dich schon "anpassen", wenn du dich nicht benimmst.}
-{121}{}{Das Große Rad hat mir den Segen erteilt.}
-{122}{}{Ich grüße dich, Wanderer.}
-{123}{}{Sei gegrüßt,}
+{121}{}{Das GroÃŸe Rad hat mir den Segen erteilt.}
+{122}{}{Ich grÃ¼ÃŸe dich, Wanderer.}
+{123}{}{Sei gegrÃ¼ÃŸt,}
 {124}{}{Wir sind froh, dich bei uns zu haben.}
-{125}{}{Kümmere dich um deine Angelegenheiten.}
-{126}{}{Stör die Leute nicht, die sich konzentrieren wollen.}
-{127}{}{Du bist willkommen... dort drüben.}
-{128}{}{Der Hub hat uns damit beauftragt, seine Schäfchen zu bewachen.}
-{129}{}{Der Sternenvater wacht über dich. Darum hat er dich zu uns geführt.}
+{125}{}{KÃ¼mmere dich um deine Angelegenheiten.}
+{126}{}{StÃ¶r die Leute nicht, die sich konzentrieren wollen.}
+{127}{}{Du bist willkommen... dort drÃ¼ben.}
+{128}{}{Der Hub hat uns damit beauftragt, seine SchÃ¤fchen zu bewachen.}
+{129}{}{Der Sternenvater wacht Ã¼ber dich. Darum hat er dich zu uns gefÃ¼hrt.}
 {130}{}{Wir sind AHS-9 treu ergeben.}
 {131}{}{Gehorche.}
 {132}{}{Schlafe.}
-{133}{}{Iß und trink.}
+{133}{}{IÃŸ und trink.}
 {134}{}{Wir haben nur dein Bestes im Sinn.}
 {135}{}{.}

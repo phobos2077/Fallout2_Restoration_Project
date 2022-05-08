@@ -1,135 +1,135 @@
 {100}{}{Ves a un joven monje con gafas.}
 {101}{}{Ves al Hermano Jason.}
 {102}{}{Este monje parece estar meditando.}
-{200}{}{[El joven monje rápidamente coloca una baraja de cartas "Trágicas" cuando te acercas.] ¿Qué quieres?}
-{201}{}{Nada de usted. Adiós.}
-{202}{}{Quiero saber por qué me ocultaste ese mazo de cartas.}
-{210}{}{No sé de lo que estás hablando. No tengo ninguna baraja de cartas.}
-{211}{}{No me mientas. Te vi guardarlo en tu bolsillo. Solo quería saber por qué.}
-{212}{}{Sí, lo que sea. Nos vemos.}
-{220}{}{Mira, no le digas a nadie, ¿de acuerdo? No se supone que debemos "usar" las reliquias de antes de la guerra, solo venerarlas. Pero estos trágicos
-  las cartas son muy buenas. [Parece perderse en otro mundo mientras mira amorosamente la cubierta. Después de un momento,
-  él te mira.] Oh, lo siento. Soy el hermano Jason por cierto. Yo, uh, ¿no crees que juegas Tragic?}
-{221}{}{¡¡¡TRAIGA EL CATERING!!!}
-{222}{}{Demonios sí, me encanta Tragic el Catering.}
-{223}{}{Lo he intentado, pero no es para mí.}
-{224}{}{Solía ser adicto al infierno para ese juego. Intento alejarme de eso ahora.}
+{200}{}{[El joven monje rÃ¡pidamente coloca una baraja de cartas "TrÃ¡gicas" cuando te acercas.] Â¿QuÃ© quieres?}
+{201}{}{Nada de usted. AdiÃ³s.}
+{202}{}{Quiero saber por quÃ© me ocultaste ese mazo de cartas.}
+{210}{}{No sÃ© de lo que estÃ¡s hablando. No tengo ninguna baraja de cartas.}
+{211}{}{No me mientas. Te vi guardarlo en tu bolsillo. Solo querÃ­a saber por quÃ©.}
+{212}{}{SÃ­, lo que sea. Nos vemos.}
+{220}{}{Mira, no le digas a nadie, Â¿de acuerdo? No se supone que debemos "usar" las reliquias de antes de la guerra, solo venerarlas. Pero estos trÃ¡gicos
+Â  las cartas son muy buenas. [Parece perderse en otro mundo mientras mira amorosamente la cubierta. DespuÃ©s de un momento,
+Â  Ã©l te mira.] Oh, lo siento. Soy el hermano Jason por cierto. Yo, uh, Â¿no crees que juegas Tragic?}
+{221}{}{Â¡Â¡Â¡TRAIGA EL CATERING!!!}
+{222}{}{Demonios sÃ­, me encanta Tragic el Catering.}
+{223}{}{Lo he intentado, pero no es para mÃ­.}
+{224}{}{SolÃ­a ser adicto al infierno para ese juego. Intento alejarme de eso ahora.}
 {225}{}{No.}
-{226}{}{Diablos no ¿Te veo como un perdedor patético?}
-{230}{}{Oye, jódete, gilipollas. Déjame en paz.}
-{231}{}{Oye, jódete, puta. Déjame en paz.}
-{232}{}{Me encantaría, pero estoy abrumado por el deseo de hacerte un gran daño corporal.}
-{233}{}{De acuerdo entonces. Adiós.}
-{234}{}{Mira, lo siento. Eso fue grosero de mi parte Simplemente no soy fanático de Tragic.}
-{240}{}{Ah, amigo, me encantaría jugar contra ti, pero es demasiado arriesgado. No quiero que me los quiten. Eso es lo que odio
-  sobre este lugar Estamos sentados en una maldita mina de oro de cosas increíbles de antes de la guerra, pero nos estamos prohibiendo
-  de caer en eso. No tiene ningún sentido. Es jodidamente idiota.}
-{241}{}{Ah, hombre, sé a qué te refieres. Ojalá pudiera jugar más yo mismo, pero es demasiado arriesgado. No quiero que me los quiten.
-  Eso es lo que odio de este lugar. Estamos sentados en una maldita mina de oro de cosas increíbles de antes de la guerra, pero estamos
-  prohibiéndonos complacernos en ello. No tiene ningún sentido. Es jodidamente idiota.}
-{242}{}{[Él se ríe.] Tenemos un adicto en nuestras manos aquí, ya veo. Ojalá pudiera jugar más yo mismo, pero es demasiado arriesgado.
-  No quiero que me los quiten. Eso es lo que odio de este lugar. Estamos sentados en una maldita mina de oro de cosas increíbles
-  desde antes de la guerra, pero nos estamos prohibiendo que nos entreguemos a ella. No tiene ningún sentido. Es jodidamente idiota.}
-{243}{}{No importa, no podríamos jugar de todos modos, es demasiado arriesgado. No quiero que me los quiten. Eso es lo
-  Odio este lugar Estamos sentados en una maldita mina de oro de cosas increíbles de antes de la guerra, pero nos estamos prohibiendo
-  de caer en eso. No tiene ningún sentido. Es jodidamente idiota.}
-{244}{}{Sí, eso no suena estúpido.}
-{245}{}{Si no está de acuerdo con los ideales de su pedido, ¿por qué es monje?}
-{250}{}{¿Crees que * elegí * ser un monje? Nací en este estilo de vida de mierda. Solo desearía que los demás se despertaran y
-  vemos lo estúpido que es no aprovechar todas estas cosas dulces que hemos coleccionado. Pero no, están perfectamente contentos con
-  adorar y catalogar las reliquias, pero nunca hacer nada útil con ellas. Como dije, es jodidamente idiota.}
-{251}{}{Tienes razón, eso suena muy estúpido.}
-{252}{}{Tan idiota como yo sentada aquí escuchándote perra sobre tu vida. Adiós.}
-{253}{}{Si crees que es tan estúpido, ¿por qué no haces algo para intentar cambiar las cosas?}
-{260}{}{¡Finalmente, alguien que está de acuerdo conmigo! Mira, tengo esta idea, y tal vez podrías ayudarme. Ya ves, los monjes
-  aquí pasaron * años * transcribiendo información de preguerra en nuestra base de datos informática. Si alguien fuera a "accidentalmente"
-  Formatear la base de datos, perderían todo ese trabajo. Creo que algo así podría sorprenderlos de nuevo a sus sentidos y nosotros
-  podría finalmente abandonar esta estúpida forma de vida. ¿Entonces que dices?}
+{226}{}{Diablos no Â¿Te veo como un perdedor patÃ©tico?}
+{230}{}{Oye, jÃ³dete, gilipollas. DÃ©jame en paz.}
+{231}{}{Oye, jÃ³dete, puta. DÃ©jame en paz.}
+{232}{}{Me encantarÃ­a, pero estoy abrumado por el deseo de hacerte un gran daÃ±o corporal.}
+{233}{}{De acuerdo entonces. AdiÃ³s.}
+{234}{}{Mira, lo siento. Eso fue grosero de mi parte Simplemente no soy fanÃ¡tico de Tragic.}
+{240}{}{Ah, amigo, me encantarÃ­a jugar contra ti, pero es demasiado arriesgado. No quiero que me los quiten. Eso es lo que odio
+Â  sobre este lugar Estamos sentados en una maldita mina de oro de cosas increÃ­bles de antes de la guerra, pero nos estamos prohibiendo
+Â  de caer en eso. No tiene ningÃºn sentido. Es jodidamente idiota.}
+{241}{}{Ah, hombre, sÃ© a quÃ© te refieres. OjalÃ¡ pudiera jugar mÃ¡s yo mismo, pero es demasiado arriesgado. No quiero que me los quiten.
+Â  Eso es lo que odio de este lugar. Estamos sentados en una maldita mina de oro de cosas increÃ­bles de antes de la guerra, pero estamos
+Â  prohibiÃ©ndonos complacernos en ello. No tiene ningÃºn sentido. Es jodidamente idiota.}
+{242}{}{[Ã‰l se rÃ­e.] Tenemos un adicto en nuestras manos aquÃ­, ya veo. OjalÃ¡ pudiera jugar mÃ¡s yo mismo, pero es demasiado arriesgado.
+Â  No quiero que me los quiten. Eso es lo que odio de este lugar. Estamos sentados en una maldita mina de oro de cosas increÃ­bles
+Â  desde antes de la guerra, pero nos estamos prohibiendo que nos entreguemos a ella. No tiene ningÃºn sentido. Es jodidamente idiota.}
+{243}{}{No importa, no podrÃ­amos jugar de todos modos, es demasiado arriesgado. No quiero que me los quiten. Eso es lo
+Â  Odio este lugar Estamos sentados en una maldita mina de oro de cosas increÃ­bles de antes de la guerra, pero nos estamos prohibiendo
+Â  de caer en eso. No tiene ningÃºn sentido. Es jodidamente idiota.}
+{244}{}{SÃ­, eso no suena estÃºpido.}
+{245}{}{Si no estÃ¡ de acuerdo con los ideales de su pedido, Â¿por quÃ© es monje?}
+{250}{}{Â¿Crees que * elegÃ­ * ser un monje? NacÃ­ en este estilo de vida de mierda. Solo desearÃ­a que los demÃ¡s se despertaran y
+Â  vemos lo estÃºpido que es no aprovechar todas estas cosas dulces que hemos coleccionado. Pero no, estÃ¡n perfectamente contentos con
+Â  adorar y catalogar las reliquias, pero nunca hacer nada Ãºtil con ellas. Como dije, es jodidamente idiota.}
+{251}{}{Tienes razÃ³n, eso suena muy estÃºpido.}
+{252}{}{Tan idiota como yo sentada aquÃ­ escuchÃ¡ndote perra sobre tu vida. AdiÃ³s.}
+{253}{}{Si crees que es tan estÃºpido, Â¿por quÃ© no haces algo para intentar cambiar las cosas?}
+{260}{}{Â¡Finalmente, alguien que estÃ¡ de acuerdo conmigo! Mira, tengo esta idea, y tal vez podrÃ­as ayudarme. Ya ves, los monjes
+Â  aquÃ­ pasaron * aÃ±os * transcribiendo informaciÃ³n de preguerra en nuestra base de datos informÃ¡tica. Si alguien fuera a "accidentalmente"
+Â  Formatear la base de datos, perderÃ­an todo ese trabajo. Creo que algo asÃ­ podrÃ­a sorprenderlos de nuevo a sus sentidos y nosotros
+Â  podrÃ­a finalmente abandonar esta estÃºpida forma de vida. Â¿Entonces que dices?}
 {261}{}{Digo que es una idea terrible y que he terminado de hablar contigo.}
-{262}{}{¿Borrar años de trabajo duro de otra persona? Suena divertido. Lo haré.}
-{263}{}{¿Por qué no lo formateas tú mismo?}
-{264}{}{Si lo odias aquí, ¿por qué no te vas?}
-{270}{}{De hecho, tengo una idea de cómo cambiar las cosas. Tal vez usted podría ayudarme. Usted ve, los monjes aquí tienen
-  pasó * años * transcribiendo información de preguerra en nuestra base de datos informática. Si alguien fuera a formatear "accidentalmente" el
-  base de datos, perderían todo ese trabajo. Creo que algo así podría impresionarlos y finalmente podríamos hacerlo.
-  renunciar a esta estúpida forma de vida. ¿Entonces que dices?}
+{262}{}{Â¿Borrar aÃ±os de trabajo duro de otra persona? Suena divertido. Lo harÃ©.}
+{263}{}{Â¿Por quÃ© no lo formateas tÃº mismo?}
+{264}{}{Si lo odias aquÃ­, Â¿por quÃ© no te vas?}
+{270}{}{De hecho, tengo una idea de cÃ³mo cambiar las cosas. Tal vez usted podrÃ­a ayudarme. Usted ve, los monjes aquÃ­ tienen
+Â  pasÃ³ * aÃ±os * transcribiendo informaciÃ³n de preguerra en nuestra base de datos informÃ¡tica. Si alguien fuera a formatear "accidentalmente" el
+Â  base de datos, perderÃ­an todo ese trabajo. Creo que algo asÃ­ podrÃ­a impresionarlos y finalmente podrÃ­amos hacerlo.
+Â  renunciar a esta estÃºpida forma de vida. Â¿Entonces que dices?}
 {271}{}{Digo que es una idea terrible y que he terminado de hablar contigo.}
-{272}{}{¿Borrar cientos de años del trabajo duro de otra persona? Suena divertido. Lo haré.}
-{273}{}{¿Por qué no lo formateas tú mismo?}
-{274}{}{Si lo odias aquí, ¿por qué no te vas?}
-{280}{}{¿Me estás tomando el pelo? Me crucificarían si hiciera eso. Sin embargo, eres un aventurero experimentado. Demonios, apuesto
-  podrías masacrar a todos aquí sin romper a sudar. ¿Lo harás o tienes miedo de un grupo de monjes pacifistas?}
-{281}{}{No te tengo miedo. Lo haré.}
-{282}{}{Está bien. Lo haré. }
-{283}{}{No, en lugar creo que voy a probar tu teoría de la masacre. Comenzando por ti.}
-{284}{}{Pasaré. Ese no es mi estilo. Adiós.}
-{285}{}{No, no voy a hacerlo. Si lo odias aquí, ¿por qué no te vas?}
-{286}{}{A menos que hayas cambiado de opinión sobre ayudarme, vete a la mierda.}
-{287}{}{Está bien. Lo haré. }
-{288}{}{No, no voy a hacerlo. Si lo odias aquí, ¿por qué no te vas?}
-{290}{}{¿Vas a? ¿Seriamente? Oh hombre, eso es increíble. Pero primero, tendrás que tener acceso, porque son bastante protectores
-  de la base de datos. Aunque no debería ser demasiado difícil, estos monjes son bastante confiados. Van a estar enojados como el infierno cuando
-  lo formateas, pero todos son unos cuantos débiles, así que no te preocupes por eso. Solo trata de no matar a nadie, no quiero cosas
-  para salir demasiado de control, ¿sabes?}
-{291}{}{Por supuesto. ¿Algo más?}
-{292}{}{No hago promesas. ¿Algo más?}
-{300}{}{Simplemente formatee y luego despegue, porque no lo van a querer por aquí. Ni siquiera te molestes en venir a contarme
-  lo hiciste, porque tendré que actuar tan enojado como todos los demás o sospecharán que algo está pasando. Gracias de nuevo por
-  haciendo esto. Es por su propio bien.}
-{301}{}{Lo que tu digas. Adiós.}
-{310}{}{¿Estas loco? Nunca he estado en los desechos, pero tengo una muy buena idea de lo que es. Carné de identidad
-  Sería afortunado de hacer si cincuenta yardas antes de que un radscorpion empujara un aguijón de un pie de largo en mi trasero. O peor, me capturarían
-  y torturado por una pandilla de atacantes maníacos * o * las tribus caníbales me comerían vivo. Lo que sea. Solo sé que si
-  Salí de aquí, estaría jodido. Entonces no, estoy atascado aquí.}
-{311}{}{Oye, no es * que * malo por ahí ... En realidad, tienes razón. Probablemente ni siquiera llegarías a Gecko.
-  Al menos, no sin ayuda. Pero, ¿y si dijera que te acompañaría?}
-{312}{}{Apesta ser tú. Adiós.}
-{313}{}{Mantenga sus esperanzas. Estoy seguro de que hay una ciudad cercana a la que sería seguro viajar.}
-{315}{}{Sí, bueno, si encuentras uno, avísame.}
-{316}{}{Lo haré. Adiós.}
-{320}{}{Para Gecko? Esa es la ciudad ghoul, ¿verdad? Gracias pero no gracias.}
-{321}{}{Oye, los ghouls son realmente muy amigables. Además, conozco a uno en particular que ama un buen juego de Tragic.}
+{272}{}{Â¿Borrar cientos de aÃ±os del trabajo duro de otra persona? Suena divertido. Lo harÃ©.}
+{273}{}{Â¿Por quÃ© no lo formateas tÃº mismo?}
+{274}{}{Si lo odias aquÃ­, Â¿por quÃ© no te vas?}
+{280}{}{Â¿Me estÃ¡s tomando el pelo? Me crucificarÃ­an si hiciera eso. Sin embargo, eres un aventurero experimentado. Demonios, apuesto
+Â  podrÃ­as masacrar a todos aquÃ­ sin romper a sudar. Â¿Lo harÃ¡s o tienes miedo de un grupo de monjes pacifistas?}
+{281}{}{No te tengo miedo. Lo harÃ©.}
+{282}{}{EstÃ¡ bien. Lo harÃ©. }
+{283}{}{No, en lugar creo que voy a probar tu teorÃ­a de la masacre. Comenzando por ti.}
+{284}{}{PasarÃ©. Ese no es mi estilo. AdiÃ³s.}
+{285}{}{No, no voy a hacerlo. Si lo odias aquÃ­, Â¿por quÃ© no te vas?}
+{286}{}{A menos que hayas cambiado de opiniÃ³n sobre ayudarme, vete a la mierda.}
+{287}{}{EstÃ¡ bien. Lo harÃ©. }
+{288}{}{No, no voy a hacerlo. Si lo odias aquÃ­, Â¿por quÃ© no te vas?}
+{290}{}{Â¿Vas a? Â¿Seriamente? Oh hombre, eso es increÃ­ble. Pero primero, tendrÃ¡s que tener acceso, porque son bastante protectores
+Â  de la base de datos. Aunque no deberÃ­a ser demasiado difÃ­cil, estos monjes son bastante confiados. Van a estar enojados como el infierno cuando
+Â  lo formateas, pero todos son unos cuantos dÃ©biles, asÃ­ que no te preocupes por eso. Solo trata de no matar a nadie, no quiero cosas
+Â  para salir demasiado de control, Â¿sabes?}
+{291}{}{Por supuesto. Â¿Algo mÃ¡s?}
+{292}{}{No hago promesas. Â¿Algo mÃ¡s?}
+{300}{}{Simplemente formatee y luego despegue, porque no lo van a querer por aquÃ­. Ni siquiera te molestes en venir a contarme
+Â  lo hiciste, porque tendrÃ© que actuar tan enojado como todos los demÃ¡s o sospecharÃ¡n que algo estÃ¡ pasando. Gracias de nuevo por
+Â  haciendo esto. Es por su propio bien.}
+{301}{}{Lo que tu digas. AdiÃ³s.}
+{310}{}{Â¿Estas loco? Nunca he estado en los desechos, pero tengo una muy buena idea de lo que es. CarnÃ© de identidad
+Â  SerÃ­a afortunado de hacer si cincuenta yardas antes de que un radscorpion empujara un aguijÃ³n de un pie de largo en mi trasero. O peor, me capturarÃ­an
+Â  y torturado por una pandilla de atacantes manÃ­acos * o * las tribus canÃ­bales me comerÃ­an vivo. Lo que sea. Solo sÃ© que si
+Â  SalÃ­ de aquÃ­, estarÃ­a jodido. Entonces no, estoy atascado aquÃ­.}
+{311}{}{Oye, no es * que * malo por ahÃ­ ... En realidad, tienes razÃ³n. Probablemente ni siquiera llegarÃ­as a Gecko.
+Â  Al menos, no sin ayuda. Pero, Â¿y si dijera que te acompaÃ±arÃ­a?}
+{312}{}{Apesta ser tÃº. AdiÃ³s.}
+{313}{}{Mantenga sus esperanzas. Estoy seguro de que hay una ciudad cercana a la que serÃ­a seguro viajar.}
+{315}{}{SÃ­, bueno, si encuentras uno, avÃ­same.}
+{316}{}{Lo harÃ©. AdiÃ³s.}
+{320}{}{Para Gecko? Esa es la ciudad ghoul, Â¿verdad? Gracias pero no gracias.}
+{321}{}{Oye, los ghouls son realmente muy amigables. AdemÃ¡s, conozco a uno en particular que ama un buen juego de Tragic.}
 {322}{}{Hey, los demonios no son realmente muy amable.}
 {323}{}{Hey, yo escucho a los ghouls en realidad, hay muy amable.}
 {324}{}{Bien. Como quieras. Adios.}
-{330}{}{No mierda, otro Trágico jugador? Hmm, ese tipo de cambios, las cosas... me pregunto si él tendría un Black Dahlia
-el comercio. Bien. Yo voy a ir, si usted me acompañara.}
+{330}{}{No mierda, otro TrÃ¡gico jugador? Hmm, ese tipo de cambios, las cosas... me pregunto si Ã©l tendrÃ­a un Black Dahlia
+el comercio. Bien. Yo voy a ir, si usted me acompaÃ±ara.}
 {331}{}{Vamos.}
 {332}{}{Muy bien, pero tengo que tener cuidado de algunas cosas primero. Voy a dejar que usted sabe que cuando yo estoy listo para ir.}
-{340}{}{Ah, sí? Eso no cambia el hecho de que se parecen a los brahmanes mierda. No, gracias.}
+{340}{}{Ah, sÃ­? Eso no cambia el hecho de que se parecen a los brahmanes mierda. No, gracias.}
 {341}{}{Bien. Como quieras. Adios.}
-{350}{}{¿Qué quieres?}
-{351}{}{Solo quería decir hola. Nos vemos.}
-{352}{}{He cambiado de opinión. Formataré la computadora por ti.}
-{353}{}{Hey, usted puede desear reconsiderar mi oferta para llevarte a Gecko, porque sé
-hay alguien que le gusta un buen juego de Trágico.}
-{354}{}{Hey, yo conozco a alguien que en Gecko que le gusta un buen juego de Trágico. Yo podría llevarte allí.}
-{360}{}{Estamos listos para ir aún? Me muero de ganas de saber qué tipo de Trágico tarjetas de este tipo tiene.}
+{350}{}{Â¿QuÃ© quieres?}
+{351}{}{Solo querÃ­a decir hola. Nos vemos.}
+{352}{}{He cambiado de opiniÃ³n. FormatarÃ© la computadora por ti.}
+{353}{}{Hey, usted puede desear reconsiderar mi oferta para llevarte a Gecko, porque sÃ©
+hay alguien que le gusta un buen juego de TrÃ¡gico.}
+{354}{}{Hey, yo conozco a alguien que en Gecko que le gusta un buen juego de TrÃ¡gico. Yo podrÃ­a llevarte allÃ­.}
+{360}{}{Estamos listos para ir aÃºn? Me muero de ganas de saber quÃ© tipo de TrÃ¡gico tarjetas de este tipo tiene.}
 {361}{}{De acuerdo, vamos.}
-{362}{}{Aún no. Te lo haré saber.}
-{370}{}{[Al llegar a Gecko de introducir el joven monje a Wooz. Se golpeó rápidamente y comenzar a comparar su
-Trágico cubiertas de tarjeta. Estás a punto de salir cuando el Hermano Jason tira de sí mismo, lejos de la Trágica suficiente para tener una palabra con usted.]}
-{371}{}{[MÁS]}
-{372}{}{¡Mierda, Wooz * tiene * una Dahlia Negra! Solo eso ha hecho que este viaje valga la pena. Claro, los demonios son feos
-  como el infierno, pero encontré que si me quito las gafas, entonces son un poco tolerables. De todos modos, muchas gracias por traerme. Aquí,
-  Yo, "tomé prestado" esto de la Obra Memorable de la Abadía, sorprendentemente es una de las pocas reliquias tecnológicas que aún funciona.
-  [Él te da un Stealth Boy.] Nos vemos.}
-{373}{}{Gracias. Adiós.}
-{374}{}{Estoy feliz de no tener que oírte más perra. Bye.}
+{362}{}{AÃºn no. Te lo harÃ© saber.}
+{370}{}{[Al llegar a Gecko de introducir el joven monje a Wooz. Se golpeÃ³ rÃ¡pidamente y comenzar a comparar su
+TrÃ¡gico cubiertas de tarjeta. EstÃ¡s a punto de salir cuando el Hermano Jason tira de sÃ­ mismo, lejos de la TrÃ¡gica suficiente para tener una palabra con usted.]}
+{371}{}{[MÃS]}
+{372}{}{Â¡Mierda, Wooz * tiene * una Dahlia Negra! Solo eso ha hecho que este viaje valga la pena. Claro, los demonios son feos
+Â  como el infierno, pero encontrÃ© que si me quito las gafas, entonces son un poco tolerables. De todos modos, muchas gracias por traerme. AquÃ­,
+Â  Yo, "tomÃ© prestado" esto de la Obra Memorable de la AbadÃ­a, sorprendentemente es una de las pocas reliquias tecnolÃ³gicas que aÃºn funciona.
+Â  [Ã‰l te da un Stealth Boy.] Nos vemos.}
+{373}{}{Gracias. AdiÃ³s.}
+{374}{}{Estoy feliz de no tener que oÃ­rte mÃ¡s perra. Bye.}
 {380}{}{Santa mierda, Wooz *no* tienen un Negro Dahlia! Que solo ha hecho que este viaje valga la pena. Seguro, los ghouls son feos
-como el infierno, pero me pareció que si me quito mis gafas, es algo tolerable. De todos modos, muchas gracias por traerme aquí.
-Aquí, [Él busca en su bolsillo, luego frunce el ceño.] ¿qué es el infierno? Podría jurar que lo tenía. Uh, lo siento, pero me parece fuera de lugar
-su recompensa, por lo que tendrá que hacer con un simple gracias. Ya nos veremos.}
-{381}{}{Oh, eh, no te preocupes. Sólo me alegro de podría ayudar. Adiós.}
-{382}{}{Estoy feliz de no tener que oírte más perra. Bye.}
-{400}{}{No puede hablar... debe construir más potente de la cubierta...}
-{500}{}{Déjame tranquilo.}
+como el infierno, pero me pareciÃ³ que si me quito mis gafas, es algo tolerable. De todos modos, muchas gracias por traerme aquÃ­.
+AquÃ­, [Ã‰l busca en su bolsillo, luego frunce el ceÃ±o.] Â¿quÃ© es el infierno? PodrÃ­a jurar que lo tenÃ­a. Uh, lo siento, pero me parece fuera de lugar
+su recompensa, por lo que tendrÃ¡ que hacer con un simple gracias. Ya nos veremos.}
+{381}{}{Oh, eh, no te preocupes. SÃ³lo me alegro de podrÃ­a ayudar. AdiÃ³s.}
+{382}{}{Estoy feliz de no tener que oÃ­rte mÃ¡s perra. Bye.}
+{400}{}{No puede hablar... debe construir mÃ¡s potente de la cubierta...}
+{500}{}{DÃ©jame tranquilo.}
 {501}{}{Vete.}
 {502}{}{Vete a la mierda.}
-{600}{}{Oh, hey, es usted. Alguien explotó el reactor en Gecko y todos los demonios de la izquierda. No hay razón para que me quede allí,
-así que me fui y regresé aquí. Por suerte para mí, el de los monjes no a la pregunta de mi ausencia, así que no tengo ningún problema para salir.
-Esto es una mierda, aunque, yo pensé que iba a tener una nueva vida haciendo lo que me gusta. [Suspira profundamente]}
-{601}{}{Siento oír eso. Ya nos veremos.}
-{602}{}{Así es la vida. Un minuto estás en la cima del mundo y en el siguiente instante en que está boca abajo en el barro. Vivir y aprender. Bye.}
-{610}{}{Supongo que sólo tengo que acostumbrarme a este lugar.}
+{600}{}{Oh, hey, es usted. Alguien explotÃ³ el reactor en Gecko y todos los demonios de la izquierda. No hay razÃ³n para que me quede allÃ­,
+asÃ­ que me fui y regresÃ© aquÃ­. Por suerte para mÃ­, el de los monjes no a la pregunta de mi ausencia, asÃ­ que no tengo ningÃºn problema para salir.
+Esto es una mierda, aunque, yo pensÃ© que iba a tener una nueva vida haciendo lo que me gusta. [Suspira profundamente]}
+{601}{}{Siento oÃ­r eso. Ya nos veremos.}
+{602}{}{AsÃ­ es la vida. Un minuto estÃ¡s en la cima del mundo y en el siguiente instante en que estÃ¡ boca abajo en el barro. Vivir y aprender. Bye.}
+{610}{}{Supongo que sÃ³lo tengo que acostumbrarme a este lugar.}
 {1000}{}{De forma segura escolta Hermano Jason a su nuevo hogar.}

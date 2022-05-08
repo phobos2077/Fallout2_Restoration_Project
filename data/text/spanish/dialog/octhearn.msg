@@ -1,46 +1,46 @@
-{100}{}{Ves a una Garra mortal. Te observa con ojos extrañamente inteligentes.}
+{100}{}{Ves a una Garra mortal. Te observa con ojos extraÃ±amente inteligentes.}
 {101}{}{Ves a Thearn, la Garra mortal.}
-{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
+{102}{}{Ves a la tÃ­pica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas
  garras.}
-{103}{}{Tú perdonar. No hablar bien. Yo intentar hablar contigo.}
-{104}{}{¿Que quieres qué?}
-{105}{}{¿Quién tú?}
-{106}{}{¿Qué haces?}
-{107}{}{¿Cómo de listo tú?}
+{103}{}{TÃº perdonar. No hablar bien. Yo intentar hablar contigo.}
+{104}{}{Â¿Que quieres quÃ©?}
+{105}{}{Â¿QuiÃ©n tÃº?}
+{106}{}{Â¿QuÃ© haces?}
+{107}{}{Â¿CÃ³mo de listo tÃº?}
 {108}{}{Yo irme ahora.}
-{109}{}{¿Quién eres?}
-{110}{}{¿Qué estás haciendo aquí?}
-{111}{}{No te ofendas pero, ¿cuánta inteligencia tienes?}
-{112}{}{Bueno, tan sólo pasando el tiempo.}
-{113}{}{Yo Thearn. ¿Quién tú?}
+{109}{}{Â¿QuiÃ©n eres?}
+{110}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{111}{}{No te ofendas pero, Â¿cuÃ¡nta inteligencia tienes?}
+{112}{}{Bueno, tan sÃ³lo pasando el tiempo.}
+{113}{}{Yo Thearn. Â¿QuiÃ©n tÃº?}
 {114}{}{Yo }
 {115}{}{Marcho.}
 {116}{}{Me tengo que ir.}
 {117}{}{Es un placer conocerte, Thearn. Soy}
 {118}{}{Entendido.}
-{119}{}{Ahora que lo pienso, no me importa una mierda quién eres.}
+{119}{}{Ahora que lo pienso, no me importa una mierda quiÃ©n eres.}
 {120}{}{Yo proteger estancia. Seguridad de manada ser objetivo.}
 {121}{}{Oh... Uh...}
-{122}{}{¿Guardia? ¿Qué?}
+{122}{}{Â¿Guardia? Â¿QuÃ©?}
 {123}{}{Vale. Yo voy.}
-{124}{}{Bien, sigue con ello. Me iré ahora.}
-{125}{}{¡Estás haciendo un gran trabajo!}
-{126}{}{¿Te llamas a ti mismo guardia? ¡Ja!}
-{127}{}{¿De qué estás protegiendo la estancia?}
+{124}{}{Bien, sigue con ello. Me irÃ© ahora.}
+{125}{}{Â¡EstÃ¡s haciendo un gran trabajo!}
+{126}{}{Â¿Te llamas a ti mismo guardia? Â¡Ja!}
+{127}{}{Â¿De quÃ© estÃ¡s protegiendo la estancia?}
 {128}{}{Intrusos. Humanos, Garras mortales, cualquier cosa. Si amenazar manada, yo atacar.}
 {129}{}{Ah.}
 {130}{}{Ya veo.}
-{131}{}{Me sorprendería que fueras lo bastante listo como para distinguir un amigo de un enemigo.}
+{131}{}{Me sorprenderÃ­a que fueras lo bastante listo como para distinguir un amigo de un enemigo.}
 {132}{}{Lo siento por cualquier intruso que pase sobre ti.}
 {133}{}{No importa. Ya nos veremos.}
-{134}{}{¿Cómo juzgar? No saber. Algunas cosas entender mucho. Algunas cosas entender poco. Casi todas las cosas
+{134}{}{Â¿CÃ³mo juzgar? No saber. Algunas cosas entender mucho. Algunas cosas entender poco. Casi todas las cosas
  no entender.}
-{135}{}{Tú, yo, iguales.}
-{136}{}{Sí, bueno, eso también me describe a mí.}
-{137}{}{Lo estás haciendo bien.}
+{135}{}{TÃº, yo, iguales.}
+{136}{}{SÃ­, bueno, eso tambiÃ©n me describe a mÃ­.}
+{137}{}{Lo estÃ¡s haciendo bien.}
 {138}{}{En otras palabras, eres un idiota.}
-{139}{}{Tú amigo de manada. Tú salvar manada al arreglar máquina.}
-{140}{}{Hola otra vez. Todavía seguir de guardia aquí.}
+{139}{}{TÃº amigo de manada. TÃº salvar manada al arreglar mÃ¡quina.}
+{140}{}{Hola otra vez. TodavÃ­a seguir de guardia aquÃ­.}
 {141}{}{}
-{142}{}{¡Arrrrrrrrrgggh! ¡Morir!}
+{142}{}{Â¡Arrrrrrrrrgggh! Â¡Morir!}
 {143}{}{.}

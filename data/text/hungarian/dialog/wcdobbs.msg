@@ -1,27 +1,27 @@
 {100}{}{You see a man dressed in standard military combat armor.}
-{101}{}{Egészségesnek t?nik, de kicsit zavarodott.}
-{102}{}{Ó, a fejem!}
+{101}{}{EgÃ©szsÃ©gesnek t?nik, de kicsit zavarodott.}
+{102}{}{Ã“, a fejem!}
 {103}{}{Ki vagy te?}
 {104}{}{Ug!}
-{105}{}{É-én Dobbs... ?rvezet? vagyok, Els? Hadosztály.}
-{106}{}{Aztán el tudnád-e mondani nekem, hogy kerültél ide?}
-{107}{}{Viszlát!}
-{108}{}{Persze... csatában voltam. Igen, egy ütközetben. Csak a fegyverek zaját és a robbanásokat hallottam minden irányból. Emberek haldokoltak. Rémült voltam, de tovább kellett harcolnom. Aztán jött az a vakító fény...}
-{109}{}{Utána mi történt?}
-{110}{}{Viszlát!}
-{111}{}{A következ? dolog, amire emlékszem, hogy látom a testemet... fölülr?l. Hallottam, hogy az orvosok szerint végem van, aztán a testemet egy csomó hulla közé lökték.}
-{112}{}{És aztán mi történt?}
-{113}{}{Viszlát!}
-{114}{}{Jött néhány ember és a testemet egy laboratóriumba cipelték. Arról beszélgettek körülöttem, hogy megpróbálják regenerálni a testemet. Bele akartak tenni egy folyadékba, amit Bio-Med Gélnek neveztek.}
-{115}{}{És aztán?}
-{116}{}{Viszlát!}
-{117}{}{Aztán itt ébredtem fel. Most mennem kell! Vissza kell térnem az egységemhez.}
-{118}{}{Viszlát!}
+{105}{}{Ã‰-Ã©n Dobbs... ?rvezet? vagyok, Els? HadosztÃ¡ly.}
+{106}{}{AztÃ¡n el tudnÃ¡d-e mondani nekem, hogy kerÃ¼ltÃ©l ide?}
+{107}{}{ViszlÃ¡t!}
+{108}{}{Persze... csatÃ¡ban voltam. Igen, egy Ã¼tkÃ¶zetben. Csak a fegyverek zajÃ¡t Ã©s a robbanÃ¡sokat hallottam minden irÃ¡nybÃ³l. Emberek haldokoltak. RÃ©mÃ¼lt voltam, de tovÃ¡bb kellett harcolnom. AztÃ¡n jÃ¶tt az a vakÃ­tÃ³ fÃ©ny...}
+{109}{}{UtÃ¡na mi tÃ¶rtÃ©nt?}
+{110}{}{ViszlÃ¡t!}
+{111}{}{A kÃ¶vetkez? dolog, amire emlÃ©kszem, hogy lÃ¡tom a testemet... fÃ¶lÃ¼lr?l. Hallottam, hogy az orvosok szerint vÃ©gem van, aztÃ¡n a testemet egy csomÃ³ hulla kÃ¶zÃ© lÃ¶ktÃ©k.}
+{112}{}{Ã‰s aztÃ¡n mi tÃ¶rtÃ©nt?}
+{113}{}{ViszlÃ¡t!}
+{114}{}{JÃ¶tt nÃ©hÃ¡ny ember Ã©s a testemet egy laboratÃ³riumba cipeltÃ©k. ArrÃ³l beszÃ©lgettek kÃ¶rÃ¼lÃ¶ttem, hogy megprÃ³bÃ¡ljÃ¡k regenerÃ¡lni a testemet. Bele akartak tenni egy folyadÃ©kba, amit Bio-Med GÃ©lnek neveztek.}
+{115}{}{Ã‰s aztÃ¡n?}
+{116}{}{ViszlÃ¡t!}
+{117}{}{AztÃ¡n itt Ã©bredtem fel. Most mennem kell! Vissza kell tÃ©rnem az egysÃ©gemhez.}
+{118}{}{ViszlÃ¡t!}
 {200}{}{Hol vagyok?}
-{201}{}{Fáj a fejem.}
-{202}{}{Miért vagyok csupa ragacs?}
-{300}{}{Újra csatlakoznom kell az egységemhez!}
-{301}{}{Ó, ne! Engedély nélküli eltávozással fognak vádolni!}
+{201}{}{FÃ¡j a fejem.}
+{202}{}{MiÃ©rt vagyok csupa ragacs?}
+{300}{}{Ãšjra csatlakoznom kell az egysÃ©gemhez!}
+{301}{}{Ã“, ne! EngedÃ©ly nÃ©lkÃ¼li eltÃ¡vozÃ¡ssal fognak vÃ¡dolni!}
 {302}{}{Merre van a frontvonal?}
-{303}{}{Ezt érted teszem, Jonny.}
-{400}{}{Dobbs közlegény els? kézb?l tapasztalja meg a Poszt-Kriogén Szindróma áldatlan hatását...}
+{303}{}{Ezt Ã©rted teszem, Jonny.}
+{400}{}{Dobbs kÃ¶zlegÃ©ny els? kÃ©zb?l tapasztalja meg a Poszt-KriogÃ©n SzindrÃ³ma Ã¡ldatlan hatÃ¡sÃ¡t...}

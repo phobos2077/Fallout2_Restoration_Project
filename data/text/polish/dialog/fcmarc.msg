@@ -1,68 +1,68 @@
-{100}{}{Widzisz przyjacielsko wygl¹daj¹cego punka.}
+{100}{}{Widzisz przyjacielsko wyglÄ…dajÄ…cego punka.}
 {101}{}{Widzisz Marka.}
-{102}{}{Widzisz przyjacielsko wygl¹daj¹cego punka.}
-{103}{}{Ty œcierwo - czemu nam to robisz!?}
-{104}{}{Co mogê dla ciebie zrobiæ, kozak?}
-{105}{}{Co mogê dla ciebie zrobiæ, kozak?}
+{102}{}{Widzisz przyjacielsko wyglÄ…dajÄ…cego punka.}
+{103}{}{Ty Å›cierwo - czemu nam to robisz!?}
+{104}{}{Co mogÄ™ dla ciebie zrobiÄ‡, kozak?}
+{105}{}{Co mogÄ™ dla ciebie zrobiÄ‡, kozak?}
 {106}{}{Ooch! Ooch! Aach!}
-{107}{}{Kim jesteœ?}
+{107}{}{Kim jesteÅ›?}
 {108}{}{Co to za miejsce?}
-{109}{}{Kto tu rz¹dzi?}
+{109}{}{Kto tu rzÄ…dzi?}
 {110}{}{Nic takiego. Na razie.}
-{111}{}{Hmm. Nie, sorry, w tym ci nie pomogê. Mo¿e spróbuj u kogoœ innego.}
-{112}{}{Êki?}
-{113}{}{Jestem Mark, tutejszy m¹drala i wszystkowiedz¹cy. [uœmiecha siê]}
+{111}{}{Hmm. Nie, sorry, w tym ci nie pomogÄ™. MoÅ¼e sprÃ³buj u kogoÅ› innego.}
+{112}{}{Ä˜ki?}
+{113}{}{Jestem Mark, tutejszy mÄ…drala i wszystkowiedzÄ…cy. [uÅ›miecha siÄ™]}
 {114}{}{A. Mam inne pytania.}
 {115}{}{Bywaj.}
-{116}{}{To statek marynarki Posejdona Valdez - zwany te¿ PMV Valdez. Jak chcesz wiêcej informacji o Valdezie, to najlepiej pogadaæ z Kapitanem.}
+{116}{}{To statek marynarki Posejdona Valdez - zwany teÅ¼ PMV Valdez. Jak chcesz wiÄ™cej informacji o Valdezie, to najlepiej pogadaÄ‡ z Kapitanem.}
 {117}{}{Kapitanem? Kto to taki?}
 {118}{}{Mam inne pytania.}
 {119}{}{Bywaj.}
-{120}{}{Szefuje? Nikt nami nie rz¹dzi.}
-{121}{}{Wiêc sk¹d siê wszyscy wziêliœcie?}
-{122}{}{W takim razie mam do ciebie te¿ inne pytania.}
+{120}{}{Szefuje? Nikt nami nie rzÄ…dzi.}
+{121}{}{WiÄ™c skÄ…d siÄ™ wszyscy wziÄ™liÅ›cie?}
+{122}{}{W takim razie mam do ciebie teÅ¼ inne pytania.}
 {123}{}{Bywaj.}
-{124}{}{Kapitan to taki twardy wojskowy. Siedzi na górze i pilnuje tu wszystkiego. Ma wszechstronn¹ wiedzê o tym statku.}
-{125}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{126}{}{Dziêki. Na razie.}
-{127}{}{Ach, z ca³ego pustkowia. S³yszeliœmy ró¿ne rzeczy o San Francisco, przekazane nam przez starszych. Niektórzy z nas maj¹ przodków, którzy mieszkali tu przed wielk¹ wojn¹. Chcesz o tym us³yszeæ wiêcej?}
+{124}{}{Kapitan to taki twardy wojskowy. Siedzi na gÃ³rze i pilnuje tu wszystkiego. Ma wszechstronnÄ… wiedzÄ™ o tym statku.}
+{125}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{126}{}{DziÄ™ki. Na razie.}
+{127}{}{Ach, z caÅ‚ego pustkowia. SÅ‚yszeliÅ›my rÃ³Å¼ne rzeczy o San Francisco, przekazane nam przez starszych. NiektÃ³rzy z nas majÄ… przodkÃ³w, ktÃ³rzy mieszkali tu przed wielkÄ… wojnÄ…. Chcesz o tym usÅ‚yszeÄ‡ wiÄ™cej?}
 {128}{}{Tak.}
-{129}{}{Nie, ale chcê ciê zapytaæ o coœ jeszcze.}
+{129}{}{Nie, ale chcÄ™ ciÄ™ zapytaÄ‡ o coÅ› jeszcze.}
 {130}{}{Nie, to wszystko.}
-{131}{}{Jesteœmy band¹ muzyków, technicznych maniaków, artystów. Pomyœleliœmy sobie, ¿e wrócimy do miejsca s³awnego z artystycznej i osobistej swobody. Ja tu jestem, ¿eby dokonaæ prokreacji. Chcesz us³yszeæ wiêcej?}
+{131}{}{JesteÅ›my bandÄ… muzykÃ³w, technicznych maniakÃ³w, artystÃ³w. PomyÅ›leliÅ›my sobie, Å¼e wrÃ³cimy do miejsca sÅ‚awnego z artystycznej i osobistej swobody. Ja tu jestem, Å¼eby dokonaÄ‡ prokreacji. Chcesz usÅ‚yszeÄ‡ wiÄ™cej?}
 {132}{}{Tak.}
-{133}{}{Nie, ale chcê ciê zapytaæ o coœ jeszcze.}
+{133}{}{Nie, ale chcÄ™ ciÄ™ zapytaÄ‡ o coÅ› jeszcze.}
 {134}{}{Nie, to wszystko.}
-{135}{}{Có¿, gdy ju¿ tu dotarliœmy, postanowiliœmy, ¿e zamieszkamy tutaj, dopóki albo nie znajdziemy sposobu na ruszenie tego tankowca, albo nie wymyœlimy czegoœ innego.}
-{136}{}{Wymyœliliœcie, jak go poruszyæ?}
+{135}{}{CÃ³Å¼, gdy juÅ¼ tu dotarliÅ›my, postanowiliÅ›my, Å¼e zamieszkamy tutaj, dopÃ³ki albo nie znajdziemy sposobu na ruszenie tego tankowca, albo nie wymyÅ›limy czegoÅ› innego.}
+{136}{}{WymyÅ›liliÅ›cie, jak go poruszyÄ‡?}
 {137}{}{Powiedz mi o Centrologach.}
 {138}{}{Powiedz mi o Shi.}
 {139}{}{Mam inne pytania.}
-{140}{}{Dziêki. Na razie.}
-{141}{}{S¹dzê, ¿e Kapitan znalaz³ rozwi¹zanie - ale najpierw potrzebowalibyœmy paru elementów. Jeœli mam byæ z tob¹ szczery, to daliœmy sobie spokój ze zdobyciem ich samodzielnie - mamy teraz inne plany.}
+{140}{}{DziÄ™ki. Na razie.}
+{141}{}{SÄ…dzÄ™, Å¼e Kapitan znalazÅ‚ rozwiÄ…zanie - ale najpierw potrzebowalibyÅ›my paru elementÃ³w. JeÅ›li mam byÄ‡ z tobÄ… szczery, to daliÅ›my sobie spokÃ³j ze zdobyciem ich samodzielnie - mamy teraz inne plany.}
 {142}{}{Jakie?}
-{143}{}{Gdzie mogê znaleŸæ Kapitana?}
-{144}{}{Chcê zapytaæ o coœ innego.}
+{143}{}{Gdzie mogÄ™ znaleÅºÄ‡ Kapitana?}
+{144}{}{ChcÄ™ zapytaÄ‡ o coÅ› innego.}
 {145}{}{Bywaj.}
-{146}{}{S¹ szaleni. Nie ufaj im - chyba ¿e masz s³abo na umyœle, albo lubisz, jak ciê ktoœ wci¹¿ kantuje. S¹ zainteresowani tylko twoim szmalem i dusz¹, a bardzo prawdopodobne, ¿e zniszcz¹ pierwsze, aby zdobyæ drugie. Widzia³em to ju¿ wiele razy.}
-{147}{}{Czy wymyœliliœcie ju¿, jak poruszyæ tankowiec?}
+{146}{}{SÄ… szaleni. Nie ufaj im - chyba Å¼e masz sÅ‚abo na umyÅ›le, albo lubisz, jak ciÄ™ ktoÅ› wciÄ…Å¼ kantuje. SÄ… zainteresowani tylko twoim szmalem i duszÄ…, a bardzo prawdopodobne, Å¼e zniszczÄ… pierwsze, aby zdobyÄ‡ drugie. WidziaÅ‚em to juÅ¼ wiele razy.}
+{147}{}{Czy wymyÅ›liliÅ›cie juÅ¼, jak poruszyÄ‡ tankowiec?}
 {148}{}{Powiedz mi o Shi.}
 {149}{}{Mam inne pytania.}
 {150}{}{Bywaj.}
-{151}{}{Ogólnie mówi¹c nie s¹ Ÿli. S¹ trochê nieufni wobec obcych, ale znowu w dzisiejszych czasach nie jest to zawsze taka z³a cecha charakteru. Maj¹ pewne dziwne zwyczaje i œmiesznie mówi¹, ale s¹ w porz¹dku.}
-{152}{}{Czy wymyœliliœcie ju¿, jak poruszyæ tankowiec?}
+{151}{}{OgÃ³lnie mÃ³wiÄ…c nie sÄ… Åºli. SÄ… trochÄ™ nieufni wobec obcych, ale znowu w dzisiejszych czasach nie jest to zawsze taka zÅ‚a cecha charakteru. MajÄ… pewne dziwne zwyczaje i Å›miesznie mÃ³wiÄ…, ale sÄ… w porzÄ…dku.}
+{152}{}{Czy wymyÅ›liliÅ›cie juÅ¼, jak poruszyÄ‡ tankowiec?}
 {153}{}{Powiedz mi o Centrologach.}
 {154}{}{Mam inne pytania.}
 {155}{}{Bywaj.}
-{156}{}{Chcesz poznaæ nasze plany? Chcemy podró¿owaæ tak d³ugo, a¿ znajdziemy miejsce nie spieprzone jeszcze przez ludzk¹ chciwoœæ, a wtedy spróbujemy za³o¿yæ lepsze spo³eczeñstwo.}
-{157}{}{A wiecie jak to zrobiæ?}
+{156}{}{Chcesz poznaÄ‡ nasze plany? Chcemy podrÃ³Å¼owaÄ‡ tak dÅ‚ugo, aÅ¼ znajdziemy miejsce nie spieprzone jeszcze przez ludzkÄ… chciwoÅ›Ä‡, a wtedy sprÃ³bujemy zaÅ‚oÅ¼yÄ‡ lepsze spoÅ‚eczeÅ„stwo.}
+{157}{}{A wiecie jak to zrobiÄ‡?}
 {158}{}{Mam inne pytania.}
-{159}{}{Dziêki. Na razie.}
-{160}{}{Mamy nadziejê zrobiæ to unikaj¹c pomy³ek spo³eczeñstwa. Do diab³a, przecie¿ nie mo¿e byæ ju¿ gorzej.}
-{161}{}{Czy wymyœliliœcie ju¿, jak poruszyæ tankowiec?}
+{159}{}{DziÄ™ki. Na razie.}
+{160}{}{Mamy nadziejÄ™ zrobiÄ‡ to unikajÄ…c pomyÅ‚ek spoÅ‚eczeÅ„stwa. Do diabÅ‚a, przecieÅ¼ nie moÅ¼e byÄ‡ juÅ¼ gorzej.}
+{161}{}{Czy wymyÅ›liliÅ›cie juÅ¼, jak poruszyÄ‡ tankowiec?}
 {162}{}{Powiedz mi o Centrologach.}
 {163}{}{Powiedz mi o Shi.}
 {164}{}{Mam inne pytania.}
-{165}{}{Dziêki. Na razie.}
-{166}{}{By³a tu mo¿e gdzieœ w pobli¿u dziewczyna Borsuka?}
-{167}{}{Chyba jest na dole. Po pó³nocnej stronie tego pok³adu jest otwór w pod³odze.}
+{165}{}{DziÄ™ki. Na razie.}
+{166}{}{ByÅ‚a tu moÅ¼e gdzieÅ› w pobliÅ¼u dziewczyna Borsuka?}
+{167}{}{Chyba jest na dole. Po pÃ³Å‚nocnej stronie tego pokÅ‚adu jest otwÃ³r w podÅ‚odze.}

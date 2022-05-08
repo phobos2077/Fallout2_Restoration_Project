@@ -1,7 +1,7 @@
-{100}{}{Você vê um camponês.}
-{101}{}{Você vê um camponês.}
-{102}{}{Olá.}
-{103}{}{Bom dia pra você.}
+{100}{}{VocÃª vÃª um camponÃªs.}
+{101}{}{VocÃª vÃª um camponÃªs.}
+{102}{}{OlÃ¡.}
+{103}{}{Bom dia pra vocÃª.}
 {104}{}{Welcome to our village.}
 {105}{}{The monsters protect us.}
 {106}{}{Welcome.}

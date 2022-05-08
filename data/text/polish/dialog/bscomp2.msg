@@ -1,8 +1,8 @@
 {100}{}{Widzisz terminal komputerowy.}
 {101}{}{Widzisz komputerowy terminal Dariona.}
-{102}{}{Widzisz standardowy terminal komputerowy. Wygl¹da na to, ¿e jest w pe³ni sprawny i oczekuje na komendy.}
-{103}{}{Logujesz siê do komputera i szybko przegl¹dasz wszystkie dostêpne pliki. Poœród osobistych wpisów do dziennika znajdujesz kilka dok³adnych raportów dotycz¹cych RNK. Wygl¹da na to, ¿e w ich radzie znajduje siê szpieg. Kopiujesz raporty na holodysk.}
-{104}{}{Masz pewne problemy z dostêpem do danych.}
+{102}{}{Widzisz standardowy terminal komputerowy. WyglÄ…da na to, Å¼e jest w peÅ‚ni sprawny i oczekuje na komendy.}
+{103}{}{Logujesz siÄ™ do komputera i szybko przeglÄ…dasz wszystkie dostÄ™pne pliki. PoÅ›rÃ³d osobistych wpisÃ³w do dziennika znajdujesz kilka dokÅ‚adnych raportÃ³w dotyczÄ…cych RNK. WyglÄ…da na to, Å¼e w ich radzie znajduje siÄ™ szpieg. Kopiujesz raporty na holodysk.}
+{104}{}{Masz pewne problemy z dostÄ™pem do danych.}
 {105}{}{Zrobione.}
-{106}{}{Poza informacj¹ o szpiegu w RNK komputer ten nie zawiera ju¿ ¿adnych u¿ytecznych informacji.}
+{106}{}{Poza informacjÄ… o szpiegu w RNK komputer ten nie zawiera juÅ¼ Å¼adnych uÅ¼ytecznych informacji.}
 {107}{}{Zrobione.}

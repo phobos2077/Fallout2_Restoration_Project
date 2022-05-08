@@ -1,1 +1,1 @@
-{100}{}{Jesteú w dzielnicy Mieszkalnej Nory.}
+{100}{}{Jeste≈õ w dzielnicy Mieszkalnej Nory.}

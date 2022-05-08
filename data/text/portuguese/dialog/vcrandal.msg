@@ -8,8 +8,8 @@
 {107}{}{An intruder! Guards! Guards!}
 {108}{}{Wh-?! A mutant! Guards!}
 {109}{}{Wh-? A ghoul! Guards!}
-{110}{}{Bom dia, Capit„o.}
-{111}{}{Vault City prevails, Capit„o.}
+{110}{}{Bom dia, Capit√£o.}
+{111}{}{Vault City prevails, Capit√£o.}
 {112}{}{Bom dia, Citizen.}
 {113}{}{Vault City prevails, Citizen.}
 {114}{}{Need to send distribution charts to Sub-Amenities Offices A and B...}
@@ -46,12 +46,12 @@
 {145}{}{Well, if you had access to our Vault Central Computer, you might be able to find some mention of some other Vaults. But only Citizens are allowed in the Vault.}
 {146}{}{Tanques}
 {147}{}{Mind if I ask you something else?}
-{148}{}{Obrigado pela informaÁ„o.}
+{148}{}{Obrigado pela informa√ß√£o.}
 {149}{}{Hey there, welcome back. Anything I can do for you?}
 {150}{}{Sure. What's on your mind?}
 {151}{}{Gechkk?}
 {152}{}{Desliga}
-{153}{}{Que lugar È esse mesmo?}
+{153}{}{Que lugar √© esse mesmo?}
 {154}{}{Do you happen to have a GECK in stock?}
 {155}{}{Valerie over at the maintenance shed could use a new wrench and some pliers.}
 {156}{}{Councilor McClure said you'd have a... uh, hydro-magneto-thingie that I could have for the Gecko power plant.}
@@ -109,7 +109,7 @@
 {208}{}{Got it. Thanks for the part.}
 {209}{}{Yeah, the First Citizen said you'd be stopping by... Captain. (Winks.) Let me tell you, Captain, you've got a BEAUTY waiting for you.}
 {210}{}{Yeah, the First Citizen said you'd be stopping by. Well, let me tell you, friend, you got a BEAUTY waiting for you.}
-{211}{}{O que È?}
+{211}{}{O que √©?}
 {212}{}{Actually, keep it for me. I'll pick it up later.}
 {213}{}{Nothing less than a Heckler and Koch G11, one of the best assault weapons ever made...(hefts weapon, passes it to you)...fires a 4.7 mm caseless cartridge, 50-round magazine. When it talks, people listen.}
 {214}{}{I'll bet. Thanks.}

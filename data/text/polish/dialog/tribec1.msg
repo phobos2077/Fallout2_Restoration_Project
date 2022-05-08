@@ -1,184 +1,184 @@
 {100}{}{Widzisz wojownika.}
-{101}{}{Widzisz Kroma, przywódcê wojowników plemienia.}
-{102}{}{Widzisz ogromnego, umiêœnionego wojownika. Jego opalona skóra nosi œlady wielu bitw.}
-{200}{}{[Miêœnie tego opalonego olbrzyma wygl¹daj¹ jak wykute z granitu. Spod grzywy czarnych w³osów, przewierca ciê swoimi niebieskimi oczyma.] Jestem Krom, przywódca wojowników tego plemienia. Kim jesteœ i co ciê do nas sprowadza?}
-{201}{}{[Miêœnie tego opalonego olbrzyma wygl¹daj¹ jak wykute z granitu. Z pod grzywy swoich kruczoczarnych w³osów, swymi b³yszcz¹cymi, niebieskimi oczyma bezwstydnie b³¹dzi po twoim ciele.] Jestem Krom, przywódca wojowników plemienia. Na bogów, dziewczyno, twoja uroda mo¿e sprowadziæ na mê¿czyznê szaleñstwo.}
+{101}{}{Widzisz Kroma, przywÃ³dcÄ™ wojownikÃ³w plemienia.}
+{102}{}{Widzisz ogromnego, umiÄ™Å›nionego wojownika. Jego opalona skÃ³ra nosi Å›lady wielu bitw.}
+{200}{}{[MiÄ™Å›nie tego opalonego olbrzyma wyglÄ…dajÄ… jak wykute z granitu. Spod grzywy czarnych wÅ‚osÃ³w, przewierca ciÄ™ swoimi niebieskimi oczyma.] Jestem Krom, przywÃ³dca wojownikÃ³w tego plemienia. Kim jesteÅ› i co ciÄ™ do nas sprowadza?}
+{201}{}{[MiÄ™Å›nie tego opalonego olbrzyma wyglÄ…dajÄ… jak wykute z granitu. Z pod grzywy swoich kruczoczarnych wÅ‚osÃ³w, swymi bÅ‚yszczÄ…cymi, niebieskimi oczyma bezwstydnie bÅ‚Ä…dzi po twoim ciele.] Jestem Krom, przywÃ³dca wojownikÃ³w plemienia. Na bogÃ³w, dziewczyno, twoja uroda moÅ¼e sprowadziÄ‡ na mÄ™Å¼czyznÄ™ szaleÅ„stwo.}
 {202}{}{Jestem }
-{203}{}{, próbuje ocaliæ moja wioskê, Arroyo, przed pewn¹ zag³ad¹.}
+{203}{}{, prÃ³buje ocaliÄ‡ moja wioskÄ™, Arroyo, przed pewnÄ… zagÅ‚adÄ….}
 {204}{}{Jestem }
-{205}{}{, moj¹ misj¹ by³o ocaliæ moj¹ wioskê, Arroyo, przed pewn¹ zag³ad¹. Ale moja misja jest ju¿ wype³niona.}
-{206}{}{Jestem prostym podró¿nikiem, nic wiêcej. Muszê ruszaæ dalej.}
-{207}{}{[Uœmiechasz siê.] Dziêkuje, Krom.}
-{208}{}{Dziêki, ale skup swój wzrok tutaj. Dobra, wielkoludzie?}
-{209}{}{OszczêdŸ mi swoich komplementów, dobra, oblechu? Nie mam zamiaru siê z tob¹ przespaæ. Cholera, nie mam ochoty nawet z tob¹ gadaæ. Czeœæ.}
-{210}{}{Arroyo, a tak, jedno z pó³nocnych plemion. Ale o co chodzi z t¹ “pewna zag³ad¹” o której mówisz? Twoja wioska jest dobrze ufortyfikowana przez du¿y kanion, prawda? Z pewnoœci¹ mo¿ecie siê obroniæ przed wrogimi plemionami i najeŸdŸcami.}
-{211}{}{Zagro¿enie nie przychodzi z zewn¹trz. Moje plemiê wymiera. Cierpimy z powodu straszliwej suszy moja wioska jest skazana na uschniêcie i œmieræ o ile nie znajdê œwiêtego GECKa na czas.}
-{212}{}{Zagro¿enie nie przychodzi z zewn¹trz. Moje plemiê wymiera. Cierpimy z powodu straszliwej suszy moja wioska jest skazana na uschniêcie i œmieræ je¿eli nie u¿yjemy znalezionego przeze mnie GECKa.}
-{220}{}{A tak, Generator Ekosystemy Cudownej Krainy, czyta³em o nim w starych tekstach. [Uœmiecha siê ponuro.] To niefortunne, ¿e twoje plemiê jest w trudnych chwilach, ale g³upot¹ jest pok³adaæ wszelkie nadzieje w jakimœ “magicznym artefakcie” sprzed Wielkiej Ciszy. Nie wydaje ci siê, ¿e wioska wys³a³a ciê z tak g³upim pos³annictwem, bo chcieli siê ciebie pozbyæ?}
-{221}{}{A tak, Generator Ekosystemy Cudownej Krainy, czyta³em o nim w starych tekstach. [Uœmiecha siê ponuro.] To niefortunne, ¿e twoje plemiê jest w trudnych chwilach, ale g³upot¹ jest pok³adaæ wszelkie nadzieje w jakimœ “magicznym artefakcie” sprzed Wielkiej Ciszy. Sk¹d ta pewnoœæ, ¿e to urz¹dzenie ocali twoich lud?}
-{222}{}{Oczywiœcie, ¿e nie. Uda³o mi siê pokonaæ Œwi¹tyniê Prób zdobywaj¹c w ten sposób respekt i tytu³ Dziecka Przeznaczenia. Dlatego to ja muszê wype³niæ t¹ misjê, dlatego, ¿e uda³o mi siê udowodniæ swoj¹ wartoœæ. A teraz, powiedz mi co czyta³eœ na temat GECKa?}
-{223}{}{Próbujesz mnie obraziæ? Ja jestem Dzieckiem Przeznaczenia. Przeproœ, albo sprowadzê ciê na ziemiê.}
-{224}{}{Nie wiem na pewno, ale zbyt wiele siê wydarzy³o ¿eby teraz rezygnowaæ. Zrobiê cokolwiek bêdzie trzeba, nie wa¿ne jak szalone i niebezpieczne mo¿e siê to komuœ wydawaæ.}
-{230}{}{[Z rezygnacj¹ wzrusza swoimi muskularnymi ramionami.] Jeszcze jeden be³kot Staro¿ytnych leniwych naukowców, mówi¹cy o zast¹pieniu starej wypróbowanej metody cz³owieka zmagaj¹cego siê z niewybaczaj¹c¹ ziemi¹, wykuwaj¹cego swoje istnienie w pocie i krwi. Ale jeœli na prawdê wierzysz, ¿e takie urz¹dzenie jest wasz¹ jedyn¹ nadziej¹, sugerowa³bym poszukaæ Krypt Staro¿ytnych. Podró¿owa³em wiele i daleko, ale sam nigdy ¿adnej z nich nie znalaz³em. Z drugiej strony, specjalnie ich nie szuka³em.}
-{231}{}{Starsza mojej wioski uwa¿a, ¿e znalezienie GECKa daje najwiêksze szanse na uratowanie wioski. To zadanie powierzono mi i zamierzam je wype³niæ. Ale, dziêki za wskazówkê.}
-{232}{}{Mówisz poszukaæ Krypty? £a³, có¿ za *wspania³a* rada, szkoda, ¿e nikt mi jej wczeœniej nie da³. Dziêki, za tê jak¿e cenn¹ wskazówkê.}
-{240}{}{[Wybuch gromkim œmiechem, a potem, z prêdkoœci¹ niewyobra¿aln¹ u kogoœ z jego ogromna postur¹, chwyta za w³ócznie i przystawia ci szpic grotu do gard³a.] Dziecko Przeznaczenia, co? Chyba przeznaczenia na karmê dla psów? Jeœli g³upiec twojego pokroju jest najlepszym co ma do zaoferowania twoja wioska, to ich zguba wydaje siê nieunikniona. A teraz, znikaj z mojego widoku. A je¿eli zaczniesz sprawiaæ jakiekolwiek k³opoty, roz³upiê ci czaszkê.}
-{241}{}{[Wybucha gromkim œmiechem, a potem daje ci klapsa w ty³ek rêka sprawiaj¹c¹ wra¿enie zdolnej do mia¿d¿enia g³azów.] Masz w sobie ogieñ dziewczyno. Podoba mi siê to. Mo¿e moglibyœmy jakoœ wykorzystaæ ten ogieñ skoro ju¿ tu jesteœ. Co ty na to?}
-{242}{}{Dobra, w porz¹dku, ju¿ idê.}
+{205}{}{, mojÄ… misjÄ… byÅ‚o ocaliÄ‡ mojÄ… wioskÄ™, Arroyo, przed pewnÄ… zagÅ‚adÄ…. Ale moja misja jest juÅ¼ wypeÅ‚niona.}
+{206}{}{Jestem prostym podrÃ³Å¼nikiem, nic wiÄ™cej. MuszÄ™ ruszaÄ‡ dalej.}
+{207}{}{[UÅ›miechasz siÄ™.] DziÄ™kuje, Krom.}
+{208}{}{DziÄ™ki, ale skup swÃ³j wzrok tutaj. Dobra, wielkoludzie?}
+{209}{}{OszczÄ™dÅº mi swoich komplementÃ³w, dobra, oblechu? Nie mam zamiaru siÄ™ z tobÄ… przespaÄ‡. Cholera, nie mam ochoty nawet z tobÄ… gadaÄ‡. CzeÅ›Ä‡.}
+{210}{}{Arroyo, a tak, jedno z pÃ³Å‚nocnych plemion. Ale o co chodzi z tÄ… â€œpewna zagÅ‚adÄ…â€ o ktÃ³rej mÃ³wisz? Twoja wioska jest dobrze ufortyfikowana przez duÅ¼y kanion, prawda? Z pewnoÅ›ciÄ… moÅ¼ecie siÄ™ obroniÄ‡ przed wrogimi plemionami i najeÅºdÅºcami.}
+{211}{}{ZagroÅ¼enie nie przychodzi z zewnÄ…trz. Moje plemiÄ™ wymiera. Cierpimy z powodu straszliwej suszy moja wioska jest skazana na uschniÄ™cie i Å›mierÄ‡ o ile nie znajdÄ™ Å›wiÄ™tego GECKa na czas.}
+{212}{}{ZagroÅ¼enie nie przychodzi z zewnÄ…trz. Moje plemiÄ™ wymiera. Cierpimy z powodu straszliwej suszy moja wioska jest skazana na uschniÄ™cie i Å›mierÄ‡ jeÅ¼eli nie uÅ¼yjemy znalezionego przeze mnie GECKa.}
+{220}{}{A tak, Generator Ekosystemy Cudownej Krainy, czytaÅ‚em o nim w starych tekstach. [UÅ›miecha siÄ™ ponuro.] To niefortunne, Å¼e twoje plemiÄ™ jest w trudnych chwilach, ale gÅ‚upotÄ… jest pokÅ‚adaÄ‡ wszelkie nadzieje w jakimÅ› â€œmagicznym artefakcieâ€ sprzed Wielkiej Ciszy. Nie wydaje ci siÄ™, Å¼e wioska wysÅ‚aÅ‚a ciÄ™ z tak gÅ‚upim posÅ‚annictwem, bo chcieli siÄ™ ciebie pozbyÄ‡?}
+{221}{}{A tak, Generator Ekosystemy Cudownej Krainy, czytaÅ‚em o nim w starych tekstach. [UÅ›miecha siÄ™ ponuro.] To niefortunne, Å¼e twoje plemiÄ™ jest w trudnych chwilach, ale gÅ‚upotÄ… jest pokÅ‚adaÄ‡ wszelkie nadzieje w jakimÅ› â€œmagicznym artefakcieâ€ sprzed Wielkiej Ciszy. SkÄ…d ta pewnoÅ›Ä‡, Å¼e to urzÄ…dzenie ocali twoich lud?}
+{222}{}{OczywiÅ›cie, Å¼e nie. UdaÅ‚o mi siÄ™ pokonaÄ‡ ÅšwiÄ…tyniÄ™ PrÃ³b zdobywajÄ…c w ten sposÃ³b respekt i tytuÅ‚ Dziecka Przeznaczenia. Dlatego to ja muszÄ™ wypeÅ‚niÄ‡ tÄ… misjÄ™, dlatego, Å¼e udaÅ‚o mi siÄ™ udowodniÄ‡ swojÄ… wartoÅ›Ä‡. A teraz, powiedz mi co czytaÅ‚eÅ› na temat GECKa?}
+{223}{}{PrÃ³bujesz mnie obraziÄ‡? Ja jestem Dzieckiem Przeznaczenia. PrzeproÅ›, albo sprowadzÄ™ ciÄ™ na ziemiÄ™.}
+{224}{}{Nie wiem na pewno, ale zbyt wiele siÄ™ wydarzyÅ‚o Å¼eby teraz rezygnowaÄ‡. ZrobiÄ™ cokolwiek bÄ™dzie trzeba, nie waÅ¼ne jak szalone i niebezpieczne moÅ¼e siÄ™ to komuÅ› wydawaÄ‡.}
+{230}{}{[Z rezygnacjÄ… wzrusza swoimi muskularnymi ramionami.] Jeszcze jeden beÅ‚kot StaroÅ¼ytnych leniwych naukowcÃ³w, mÃ³wiÄ…cy o zastÄ…pieniu starej wyprÃ³bowanej metody czÅ‚owieka zmagajÄ…cego siÄ™ z niewybaczajÄ…cÄ… ziemiÄ…, wykuwajÄ…cego swoje istnienie w pocie i krwi. Ale jeÅ›li na prawdÄ™ wierzysz, Å¼e takie urzÄ…dzenie jest waszÄ… jedynÄ… nadziejÄ…, sugerowaÅ‚bym poszukaÄ‡ Krypt StaroÅ¼ytnych. PodrÃ³Å¼owaÅ‚em wiele i daleko, ale sam nigdy Å¼adnej z nich nie znalazÅ‚em. Z drugiej strony, specjalnie ich nie szukaÅ‚em.}
+{231}{}{Starsza mojej wioski uwaÅ¼a, Å¼e znalezienie GECKa daje najwiÄ™ksze szanse na uratowanie wioski. To zadanie powierzono mi i zamierzam je wypeÅ‚niÄ‡. Ale, dziÄ™ki za wskazÃ³wkÄ™.}
+{232}{}{MÃ³wisz poszukaÄ‡ Krypty? ÅaÅ‚, cÃ³Å¼ za *wspaniaÅ‚a* rada, szkoda, Å¼e nikt mi jej wczeÅ›niej nie daÅ‚. DziÄ™ki, za tÄ™ jakÅ¼e cennÄ… wskazÃ³wkÄ™.}
+{240}{}{[Wybuch gromkim Å›miechem, a potem, z prÄ™dkoÅ›ciÄ… niewyobraÅ¼alnÄ… u kogoÅ› z jego ogromna posturÄ…, chwyta za wÅ‚Ã³cznie i przystawia ci szpic grotu do gardÅ‚a.] Dziecko Przeznaczenia, co? Chyba przeznaczenia na karmÄ™ dla psÃ³w? JeÅ›li gÅ‚upiec twojego pokroju jest najlepszym co ma do zaoferowania twoja wioska, to ich zguba wydaje siÄ™ nieunikniona. A teraz, znikaj z mojego widoku. A jeÅ¼eli zaczniesz sprawiaÄ‡ jakiekolwiek kÅ‚opoty, rozÅ‚upiÄ™ ci czaszkÄ™.}
+{241}{}{[Wybucha gromkim Å›miechem, a potem daje ci klapsa w tyÅ‚ek rÄ™ka sprawiajÄ…cÄ… wraÅ¼enie zdolnej do miaÅ¼dÅ¼enia gÅ‚azÃ³w.] Masz w sobie ogieÅ„ dziewczyno. Podoba mi siÄ™ to. MoÅ¼e moglibyÅ›my jakoÅ› wykorzystaÄ‡ ten ogieÅ„ skoro juÅ¼ tu jesteÅ›. Co ty na to?}
+{242}{}{Dobra, w porzÄ…dku, juÅ¼ idÄ™.}
 {243}{}{Nikt mi nie grozi, NIKT, dupku!}
-{244}{}{IdŸ do diab³a. Wychodzê. Czeœæ.}
+{244}{}{IdÅº do diabÅ‚a. WychodzÄ™. CzeÅ›Ä‡.}
 {245}{}{Nikt mnie nie dotyka. Dupku! [Atakujesz.]}
-{246}{}{Jeœli bêdziesz trzyma³ ³apy przy sobie, to *mo¿e* rozwa¿ê czy wam pomóc.}
-{247}{}{To zale¿y. [Uœmiechasz siê uwodzicielsko.] Co masz na myœli, olbrzymie? [Mrugasz do niego.]}
-{250}{}{Sztuka sarkazmu nie jest mi obca. Zabierz swój przem¹drza³y jêzyk gdzieindziej, zanim ci go wyrwê.}
-{251}{}{Dobra, w porz¹dku, ju¿ idê.}
+{246}{}{JeÅ›li bÄ™dziesz trzymaÅ‚ Å‚apy przy sobie, to *moÅ¼e* rozwaÅ¼Ä™ czy wam pomÃ³c.}
+{247}{}{To zaleÅ¼y. [UÅ›miechasz siÄ™ uwodzicielsko.] Co masz na myÅ›li, olbrzymie? [Mrugasz do niego.]}
+{250}{}{Sztuka sarkazmu nie jest mi obca. Zabierz swÃ³j przemÄ…drzaÅ‚y jÄ™zyk gdzieindziej, zanim ci go wyrwÄ™.}
+{251}{}{Dobra, w porzÄ…dku, juÅ¼ idÄ™.}
 {252}{}{Nikt mi nie grozi, NIKT, dupku!}
-{260}{}{Jesteœ uparty. Na Bogów, myœlê, ¿e móg³bym ciê polubiæ. [Wykrzywia usta w uœmiechu i klepie ciê w plecy rêk¹ sprawiaj¹c¹ wra¿enie zdolnej mia¿d¿yæ g³azy.] Skoro ju¿ tu jesteœ, mo¿e móg³byœ trochê pomóc przy jednej czy dwóch sprawach. Co ty na to?}
-{261}{}{Jesteœ uparta. Na Bogów dziewczyno, myœlê, ¿e móg³bym ciê polubiæ. [Wykrzywi usta w uœmiechu i klepie ciê w poœladek rêk¹ sprawiaj¹c¹ wra¿enie zdolnej mia¿d¿yæ g³azy.] Skoro ju¿ tu jesteœ, mo¿e mog³abyœ trochê pomóc przy jednej czy dwóch sprawach. Co ty na to?}
-{262}{}{Jasne, mogê trochê pomóc zanim wyruszê dalej. Co jest do zrobienia?}
-{263}{}{Przeprasza, ale naprawdê nie mam na to czasu. W³aœciwie, to ju¿ muszê iœæ. Czeœæ.}
-{264}{}{Jasne, mogê trochê pomóc zanim wyruszê dalej. Co jest do zrobienia?}
-{265}{}{Jeœli bêdziesz trzyma³ ³apy przy sobie, to *mo¿e* rozwa¿ê czy wam pomóc.}
-{266}{}{Przeprasza, ale naprawdê nie mam na to czasu. W³aœciwie, to ju¿ muszê iœæ. Czeœæ.}
+{260}{}{JesteÅ› uparty. Na BogÃ³w, myÅ›lÄ™, Å¼e mÃ³gÅ‚bym ciÄ™ polubiÄ‡. [Wykrzywia usta w uÅ›miechu i klepie ciÄ™ w plecy rÄ™kÄ… sprawiajÄ…cÄ… wraÅ¼enie zdolnej miaÅ¼dÅ¼yÄ‡ gÅ‚azy.] Skoro juÅ¼ tu jesteÅ›, moÅ¼e mÃ³gÅ‚byÅ› trochÄ™ pomÃ³c przy jednej czy dwÃ³ch sprawach. Co ty na to?}
+{261}{}{JesteÅ› uparta. Na BogÃ³w dziewczyno, myÅ›lÄ™, Å¼e mÃ³gÅ‚bym ciÄ™ polubiÄ‡. [Wykrzywi usta w uÅ›miechu i klepie ciÄ™ w poÅ›ladek rÄ™kÄ… sprawiajÄ…cÄ… wraÅ¼enie zdolnej miaÅ¼dÅ¼yÄ‡ gÅ‚azy.] Skoro juÅ¼ tu jesteÅ›, moÅ¼e mogÅ‚abyÅ› trochÄ™ pomÃ³c przy jednej czy dwÃ³ch sprawach. Co ty na to?}
+{262}{}{Jasne, mogÄ™ trochÄ™ pomÃ³c zanim wyruszÄ™ dalej. Co jest do zrobienia?}
+{263}{}{Przeprasza, ale naprawdÄ™ nie mam na to czasu. WÅ‚aÅ›ciwie, to juÅ¼ muszÄ™ iÅ›Ä‡. CzeÅ›Ä‡.}
+{264}{}{Jasne, mogÄ™ trochÄ™ pomÃ³c zanim wyruszÄ™ dalej. Co jest do zrobienia?}
+{265}{}{JeÅ›li bÄ™dziesz trzymaÅ‚ Å‚apy przy sobie, to *moÅ¼e* rozwaÅ¼Ä™ czy wam pomÃ³c.}
+{266}{}{Przeprasza, ale naprawdÄ™ nie mam na to czasu. WÅ‚aÅ›ciwie, to juÅ¼ muszÄ™ iÅ›Ä‡. CzeÅ›Ä‡.}
 {267}{}{Nikt mnie nie dotyka. Dupku! [Atakujesz.]}
-{268}{}{To zale¿y. [Uœmiechasz siê uwodzicielsko.] Co masz na myœli, olbrzymie? [Mrugasz do niego.]}
-{270}{}{[Na jego twarzy pojawia siê wilczy uœmieszek. Mimo poznaczonego bliznami, szorstkiego wygl¹du, posiada swój urok.] Powiedz mi, dziewczyno, jak masz na imiê i co sprowadza ciê do naszej wioski?}
-{280}{}{[Chêtnie. [Patrzy ci w oczy, na jego twarzy pojawia siê wilczy uœmieszek. Mimo poznaczonego bliznami, szorstkiego wygl¹du, posiada swój urok.] Powiedz mi, dziewczyno, jak masz na imiê i co sprowadza ciê do naszej wioski?}
-{290}{}{[Na twarz Kroma pojawia siê wilczy uœmieszek, bierze ciê w swoje mocarne ramiona.]}
-{291}{}{[Bierzecie siê do tego.]}
-{292}{}{Co! Puszczaj, Ÿle mnie zrozumia³eœ!}
-{300}{}{Do diab³a z tob¹, kusicielko! IdŸ ze swoim uwodzenie gdzieindziej. Nie mam czasu ¿eby go z tob¹ marnowaæ.}
-{301}{}{Tak, to sam siê pieprz. Czeœæ.}
-{302}{}{Dobra, dobra. Czeœæ.}
-{310}{}{[Kilka godzin mija wam na gor¹cej, brutalnej namiêtnoœci. W koñcu wyczerpani, k³adziecie siê na pod³odze chaty Kroma. Krom le¿y u twego boku, oczyma po¿eraj¹c kszta³ty twojego cia³a.] Na bogów, dziewczyno, jesteœ niesamowita!}
-{311}{}{Dziêki. Sam jesteœ nienajgorszy.}
-{312}{}{Oczywiœcie, ¿e jestem. W koñcu jestem Dzieckiem Przeznaczenia.}
-{320}{}{[Krom dziwnie siê do ciebie uœmiecha.] Bogowie wiedz¹, ¿e sprawi³aœ dla mnie cuda, dziewczyno, ale mo¿e by³abyœ zainteresowana ¿eby pomóc reszcie plemienia?}
-{321}{}{Jasne, myœlê, ¿e mog³abym trochê pomóc. Co chcesz ¿ebym zrobi³a?}
-{322}{}{Chcia³abym pomóc, ale naprawdê muszê ju¿ ruszaæ. Przepraszam.}
-{323}{}{Chcesz ¿ebym da³a dupy reszcie plemienia? Za jak¹ dziewczynê ty mnie uwa¿asz?}
-{330}{}{[Krom wybucha gromkim œmiechem.] Na Bogów nie, dziewczyno! Chocia¿ to mog³oby zdzia³aæ cuda dla morale moich wojowników, to nie cierpiê siê dzieliæ taka s³odycz¹ jak Ty. Nie, mam dla ciebie znacznie bardziej przyziemne zadanie, jeœli chcesz oczywiœcie.}
-{331}{}{To zale¿y. Co chcesz ¿ebym zrobi³a?}
-{340}{}{[Przygl¹da ci siê, przez chwilê sprawiaj¹c wra¿anie, ¿e coœ rozwa¿a.] Wkrótce mam siê spotkaæ z jednym z tych cywilizowanych handlarzy - niski, t³usty, jednooki, pod³y cz³owieczek, któremu ufam niemal tak samo jak g³odnemu radskorpionowi. Do tej pory nas nie oszuka³, ale mam pewne przeczucia co do nastêpnego spotkania.}
+{268}{}{To zaleÅ¼y. [UÅ›miechasz siÄ™ uwodzicielsko.] Co masz na myÅ›li, olbrzymie? [Mrugasz do niego.]}
+{270}{}{[Na jego twarzy pojawia siÄ™ wilczy uÅ›mieszek. Mimo poznaczonego bliznami, szorstkiego wyglÄ…du, posiada swÃ³j urok.] Powiedz mi, dziewczyno, jak masz na imiÄ™ i co sprowadza ciÄ™ do naszej wioski?}
+{280}{}{[ChÄ™tnie. [Patrzy ci w oczy, na jego twarzy pojawia siÄ™ wilczy uÅ›mieszek. Mimo poznaczonego bliznami, szorstkiego wyglÄ…du, posiada swÃ³j urok.] Powiedz mi, dziewczyno, jak masz na imiÄ™ i co sprowadza ciÄ™ do naszej wioski?}
+{290}{}{[Na twarz Kroma pojawia siÄ™ wilczy uÅ›mieszek, bierze ciÄ™ w swoje mocarne ramiona.]}
+{291}{}{[Bierzecie siÄ™ do tego.]}
+{292}{}{Co! Puszczaj, Åºle mnie zrozumiaÅ‚eÅ›!}
+{300}{}{Do diabÅ‚a z tobÄ…, kusicielko! IdÅº ze swoim uwodzenie gdzieindziej. Nie mam czasu Å¼eby go z tobÄ… marnowaÄ‡.}
+{301}{}{Tak, to sam siÄ™ pieprz. CzeÅ›Ä‡.}
+{302}{}{Dobra, dobra. CzeÅ›Ä‡.}
+{310}{}{[Kilka godzin mija wam na gorÄ…cej, brutalnej namiÄ™tnoÅ›ci. W koÅ„cu wyczerpani, kÅ‚adziecie siÄ™ na podÅ‚odze chaty Kroma. Krom leÅ¼y u twego boku, oczyma poÅ¼erajÄ…c ksztaÅ‚ty twojego ciaÅ‚a.] Na bogÃ³w, dziewczyno, jesteÅ› niesamowita!}
+{311}{}{DziÄ™ki. Sam jesteÅ› nienajgorszy.}
+{312}{}{OczywiÅ›cie, Å¼e jestem. W koÅ„cu jestem Dzieckiem Przeznaczenia.}
+{320}{}{[Krom dziwnie siÄ™ do ciebie uÅ›miecha.] Bogowie wiedzÄ…, Å¼e sprawiÅ‚aÅ› dla mnie cuda, dziewczyno, ale moÅ¼e byÅ‚abyÅ› zainteresowana Å¼eby pomÃ³c reszcie plemienia?}
+{321}{}{Jasne, myÅ›lÄ™, Å¼e mogÅ‚abym trochÄ™ pomÃ³c. Co chcesz Å¼ebym zrobiÅ‚a?}
+{322}{}{ChciaÅ‚abym pomÃ³c, ale naprawdÄ™ muszÄ™ juÅ¼ ruszaÄ‡. Przepraszam.}
+{323}{}{Chcesz Å¼ebym daÅ‚a dupy reszcie plemienia? Za jakÄ… dziewczynÄ™ ty mnie uwaÅ¼asz?}
+{330}{}{[Krom wybucha gromkim Å›miechem.] Na BogÃ³w nie, dziewczyno! ChociaÅ¼ to mogÅ‚oby zdziaÅ‚aÄ‡ cuda dla morale moich wojownikÃ³w, to nie cierpiÄ™ siÄ™ dzieliÄ‡ taka sÅ‚odyczÄ… jak Ty. Nie, mam dla ciebie znacznie bardziej przyziemne zadanie, jeÅ›li chcesz oczywiÅ›cie.}
+{331}{}{To zaleÅ¼y. Co chcesz Å¼ebym zrobiÅ‚a?}
+{340}{}{[PrzyglÄ…da ci siÄ™, przez chwilÄ™ sprawiajÄ…c wraÅ¼anie, Å¼e coÅ› rozwaÅ¼a.] WkrÃ³tce mam siÄ™ spotkaÄ‡ z jednym z tych cywilizowanych handlarzy - niski, tÅ‚usty, jednooki, podÅ‚y czÅ‚owieczek, ktÃ³remu ufam niemal tak samo jak gÅ‚odnemu radskorpionowi. Do tej pory nas nie oszukaÅ‚, ale mam pewne przeczucia co do nastÄ™pnego spotkania.}
 {341}{}{Dlaczego?}
-{342}{}{Jakoœ siê w tym nie widzê. Do czego zmierzasz?}
-{350}{}{Kiedy ostatnio rozmawialiœmy, wspomnia³ coœ, ¿e nastêpnym razem przyniesie mi coœ cudownego, i ¿e powinienem zabraæ wszystkie skóry z³otych gekonów na nastêpne spotkanie. Nie wiem jaki cudowny przedmiot mia³ na myœli, ale najprawdopodobniej bêdzie to jakieœ cywilizacyjne œwiecide³ko, które pewnie ma nadzieje, bêdê na tyle naiwny kupiæ za znacznie wiêcej ni¿ jest ono warte. Dlatego chcê wys³aæ ciebie.}
+{342}{}{JakoÅ› siÄ™ w tym nie widzÄ™. Do czego zmierzasz?}
+{350}{}{Kiedy ostatnio rozmawialiÅ›my, wspomniaÅ‚ coÅ›, Å¼e nastÄ™pnym razem przyniesie mi coÅ› cudownego, i Å¼e powinienem zabraÄ‡ wszystkie skÃ³ry zÅ‚otych gekonÃ³w na nastÄ™pne spotkanie. Nie wiem jaki cudowny przedmiot miaÅ‚ na myÅ›li, ale najprawdopodobniej bÄ™dzie to jakieÅ› cywilizacyjne Å›wiecideÅ‚ko, ktÃ³re pewnie ma nadzieje, bÄ™dÄ™ na tyle naiwny kupiÄ‡ za znacznie wiÄ™cej niÅ¼ jest ono warte. Dlatego chcÄ™ wysÅ‚aÄ‡ ciebie.}
 {351}{}{Dlaczego mnie?}
-{352}{}{Przepraszam, ale chyba sobie darujê. Czeœæ.}
-{360}{}{Poniewa¿ jesteœ taki jak my, jesteœ dzikusem, jak nas nazywaj¹, ale ja wiem, ¿e mia³eœ ostatnio sporo do czynienia z cywilizowanym œwiatem. Je¿eli bêdzie chcia³ nas oszukaæ, prêdzej to zauwa¿ysz ni¿ ja. Poza tym, mam co do ciebie dobre przeczucia, a nauczy³em siê ufaæ moim instynktom.}
-{361}{}{Poniewa¿ jesteœ taka jak my, jesteœ dzikusk¹, jak nas nazywaj¹, ale ja wiem, ¿e mia³aœ ostatnio sporo do czynienia z cywilizowanym œwiatem. Je¿eli bêdzie chcia³ nas oszukaæ, prêdzej to zauwa¿ysz ni¿ ja. Poza tym, mam co do ciebie dziewczyno, dobre przeczucia, a nauczy³em siê ufaæ moim instynktom.}
-{362}{}{Dobra. Bierzmy siê za to.}
-{363}{}{Dobra. Ale daj mi chwilê na przygotowania.}
-{364}{}{Jeœli ci pomogê, co z tego bêdzie dla mnie?}
-{370}{}{[Parskn¹³ œmiechem.] Oferuje ci goœcinnoœæ naszego plemienia i szansê zrobienia na mnie wra¿enia. Nie obiecujê niczego wiêcej.}
-{371}{}{Dobra. Bierzmy siê za to.}
-{372}{}{Dobra. Ale daj mi chwilê na przygotowania.}
-{373}{}{Nie interesuje mnie to. Czeœæ.}
-{375}{}{Mo¿emy ruszaæ?}
+{352}{}{Przepraszam, ale chyba sobie darujÄ™. CzeÅ›Ä‡.}
+{360}{}{PoniewaÅ¼ jesteÅ› taki jak my, jesteÅ› dzikusem, jak nas nazywajÄ…, ale ja wiem, Å¼e miaÅ‚eÅ› ostatnio sporo do czynienia z cywilizowanym Å›wiatem. JeÅ¼eli bÄ™dzie chciaÅ‚ nas oszukaÄ‡, prÄ™dzej to zauwaÅ¼ysz niÅ¼ ja. Poza tym, mam co do ciebie dobre przeczucia, a nauczyÅ‚em siÄ™ ufaÄ‡ moim instynktom.}
+{361}{}{PoniewaÅ¼ jesteÅ› taka jak my, jesteÅ› dzikuskÄ…, jak nas nazywajÄ…, ale ja wiem, Å¼e miaÅ‚aÅ› ostatnio sporo do czynienia z cywilizowanym Å›wiatem. JeÅ¼eli bÄ™dzie chciaÅ‚ nas oszukaÄ‡, prÄ™dzej to zauwaÅ¼ysz niÅ¼ ja. Poza tym, mam co do ciebie dziewczyno, dobre przeczucia, a nauczyÅ‚em siÄ™ ufaÄ‡ moim instynktom.}
+{362}{}{Dobra. Bierzmy siÄ™ za to.}
+{363}{}{Dobra. Ale daj mi chwilÄ™ na przygotowania.}
+{364}{}{JeÅ›li ci pomogÄ™, co z tego bÄ™dzie dla mnie?}
+{370}{}{[ParsknÄ…Å‚ Å›miechem.] Oferuje ci goÅ›cinnoÅ›Ä‡ naszego plemienia i szansÄ™ zrobienia na mnie wraÅ¼enia. Nie obiecujÄ™ niczego wiÄ™cej.}
+{371}{}{Dobra. Bierzmy siÄ™ za to.}
+{372}{}{Dobra. Ale daj mi chwilÄ™ na przygotowania.}
+{373}{}{Nie interesuje mnie to. CzeÅ›Ä‡.}
+{375}{}{MoÅ¼emy ruszaÄ‡?}
 {376}{}{Jeszcze nie.}
-{377}{}{Dobra. Bierzmy siê za to.}
-{380}{}{Decyzja nale¿y do ciebie.}
-{390}{}{[Krom sprawdza nowo zakupione dla plemienia stimpaki.] Myœlê, ¿e oka¿¹ siê ca³kiem u¿yteczne. [Zbli¿a jeden ze stimpaków do nosa, w¹cha i siê wzdryga. Wyciska odrobinê czerwonego p³ynu na rêkê i ostro¿nie kosztuje.] Przeklêci bogowie! One s¹ wype³nione krwi¹ bramin! Jednooki skurwiel nas wykiwa³. Teraz pewnie ma z nas niez³y ubaw ciesz¹c siê swoimi nowymi z³otymi skórami.}
-{391}{}{Przepraszam za to. Nie uda³o mi siê rozpoznaæ, ¿e to podróbki.}
-{392}{}{Trudno. ¯yj i ucz siê.}
-{400}{}{Jeœli kiedykolwiek jeszcze zobaczê tego k³amliwego psa z przyjemnoœci¹ roz³upiê mu czaszkê. A teraz jeœli mi wybaczysz mam trochê fiolek braminiej krwi do rozdysponowania. Mo¿e szaman bêdzie mia³ z nich jakiœ po¿ytek.}
-{410}{}{[Uœmiecha siê ponuro.] Nie obchodzi³ mnie ten paskudny skurczybyk, ale na bogów, nie chcia³em ¿eby go zabiæ. Jasne, teraz jego towary s¹ do wziêcia za darmo, ale jeœli rozejdzie siê wiadomoœæ, o tym ¿e przyby³ tu pohandlowaæ i nigdy nie wróci³, znajdziemy siê na czarnej liœcie handlarzy.}
-{411}{}{[Uœmiecha siê ponuro.] Nie obchodzi³ mnie ten paskudny skurczybyk, ale na bogów, dziewczyno, nie chcia³em ¿eby go zabiæ. Jasne, teraz jego towary s¹ do wziêcia za darmo, ale jeœli rozejdzie siê wiadomoœæ, o tym ¿e przyby³ tu pohandlowaæ i nigdy nie wróci³, znajdziemy siê na czarnej liœcie handlarzy.}
-{412}{}{Przepraszam, chyba mnie ponios³o.}
-{413}{}{By³ cywilizowanym oszustem i zas³u¿y³ na to.}
+{377}{}{Dobra. Bierzmy siÄ™ za to.}
+{380}{}{Decyzja naleÅ¼y do ciebie.}
+{390}{}{[Krom sprawdza nowo zakupione dla plemienia stimpaki.] MyÅ›lÄ™, Å¼e okaÅ¼Ä… siÄ™ caÅ‚kiem uÅ¼yteczne. [ZbliÅ¼a jeden ze stimpakÃ³w do nosa, wÄ…cha i siÄ™ wzdryga. Wyciska odrobinÄ™ czerwonego pÅ‚ynu na rÄ™kÄ™ i ostroÅ¼nie kosztuje.] PrzeklÄ™ci bogowie! One sÄ… wypeÅ‚nione krwiÄ… bramin! Jednooki skurwiel nas wykiwaÅ‚. Teraz pewnie ma z nas niezÅ‚y ubaw cieszÄ…c siÄ™ swoimi nowymi zÅ‚otymi skÃ³rami.}
+{391}{}{Przepraszam za to. Nie udaÅ‚o mi siÄ™ rozpoznaÄ‡, Å¼e to podrÃ³bki.}
+{392}{}{Trudno. Å»yj i ucz siÄ™.}
+{400}{}{JeÅ›li kiedykolwiek jeszcze zobaczÄ™ tego kÅ‚amliwego psa z przyjemnoÅ›ciÄ… rozÅ‚upiÄ™ mu czaszkÄ™. A teraz jeÅ›li mi wybaczysz mam trochÄ™ fiolek braminiej krwi do rozdysponowania. MoÅ¼e szaman bÄ™dzie miaÅ‚ z nich jakiÅ› poÅ¼ytek.}
+{410}{}{[UÅ›miecha siÄ™ ponuro.] Nie obchodziÅ‚ mnie ten paskudny skurczybyk, ale na bogÃ³w, nie chciaÅ‚em Å¼eby go zabiÄ‡. Jasne, teraz jego towary sÄ… do wziÄ™cia za darmo, ale jeÅ›li rozejdzie siÄ™ wiadomoÅ›Ä‡, o tym Å¼e przybyÅ‚ tu pohandlowaÄ‡ i nigdy nie wrÃ³ciÅ‚, znajdziemy siÄ™ na czarnej liÅ›cie handlarzy.}
+{411}{}{[UÅ›miecha siÄ™ ponuro.] Nie obchodziÅ‚ mnie ten paskudny skurczybyk, ale na bogÃ³w, dziewczyno, nie chciaÅ‚em Å¼eby go zabiÄ‡. Jasne, teraz jego towary sÄ… do wziÄ™cia za darmo, ale jeÅ›li rozejdzie siÄ™ wiadomoÅ›Ä‡, o tym Å¼e przybyÅ‚ tu pohandlowaÄ‡ i nigdy nie wrÃ³ciÅ‚, znajdziemy siÄ™ na czarnej liÅ›cie handlarzy.}
+{412}{}{Przepraszam, chyba mnie poniosÅ‚o.}
+{413}{}{ByÅ‚ cywilizowanym oszustem i zasÅ‚uÅ¼yÅ‚ na to.}
 {414}{}{Ups.}
-{420}{}{Widzê, ¿e pomyli³em siê powierzaj¹c ci to zadanie. Bêdê mia³ ciê na oku póki jesteœ w naszej wiosce. A teraz, zajmijmy siê tym ba³aganem i ruszajmy dalej.}
-{430}{}{K³amliwy gnój dosta³ na co zas³u¿y³. Niech jego los bêdzie nauczk¹ na przysz³oœæ dla handlarzy, którzy chc¹ wy³udziæ nasze dobra. Dobra robota. Widzê, ¿e m¹drze zrobi³em ufaj¹c ci. Mo¿esz z nami zostaæ i traktuj nasze plemiê jak swoje. Ale, pamiêtaj mogê siê jeszcze kiedyœ zwróciæ do ciebie o pomoc. A teraz, chodŸmy zostawmy te zw³oki by gni³y w s³oñcu.}
-{431}{}{K³amliwy gnój dosta³ na co zas³u¿y³. Niech jego los bêdzie nauczk¹ na przysz³oœæ dla handlarzy, którzy chc¹ wy³udziæ nasze dobra. Dobrze siê spisa³aœ zauwa¿aj¹c to oszustwo. Piêkna, spostrzegawcza i zabójcza, na Bogów, dziewczyno, nic Ci nie brakuje. Mo¿esz z nami zostaæ i traktuj nasze plemiê jak swoje. Ale, pamiêtaj mogê siê jeszcze kiedyœ zwróciæ do ciebie o pomoc. A teraz, chodŸmy zostawmy te zw³oki by gni³y w s³oñcu.}
-{440}{}{Nie winiê ciê. Sam mia³em z³e przeczucia co do tego zakupu. Przyznaje te stimpaki bardzo by siê przyda³y, ale radziliœmy sobie bez nich i dalej bêdziemy. Teraz, mo¿esz z nami zostaæ i traktowaæ nasze plemiê jak swoje. Ale pamiêtaj, mogê siê jeszcze kiedyœ do ciebie zwróciæ. Dziêkuje za twoj¹ pomoc.}
-{441}{}{Nie winiê ciê, ¿e nie dobi³aœ targu. Sam mia³em z³e przeczucia co do tego zakupu. Przyznaje te stimpaki bardzo by siê przyda³y, ale radziliœmy sobie bez nich i dalej bêdziemy. Mo¿esz z nami zostaæ dziewczyno i traktuj nasze plemiê jak swoje. Ale pamiêtaj, mogê siê jeszcze kiedyœ do ciebie zwróciæ. Dziêkuje za twoj¹ pomoc.}
+{420}{}{WidzÄ™, Å¼e pomyliÅ‚em siÄ™ powierzajÄ…c ci to zadanie. BÄ™dÄ™ miaÅ‚ ciÄ™ na oku pÃ³ki jesteÅ› w naszej wiosce. A teraz, zajmijmy siÄ™ tym baÅ‚aganem i ruszajmy dalej.}
+{430}{}{KÅ‚amliwy gnÃ³j dostaÅ‚ na co zasÅ‚uÅ¼yÅ‚. Niech jego los bÄ™dzie nauczkÄ… na przyszÅ‚oÅ›Ä‡ dla handlarzy, ktÃ³rzy chcÄ… wyÅ‚udziÄ‡ nasze dobra. Dobra robota. WidzÄ™, Å¼e mÄ…drze zrobiÅ‚em ufajÄ…c ci. MoÅ¼esz z nami zostaÄ‡ i traktuj nasze plemiÄ™ jak swoje. Ale, pamiÄ™taj mogÄ™ siÄ™ jeszcze kiedyÅ› zwrÃ³ciÄ‡ do ciebie o pomoc. A teraz, chodÅºmy zostawmy te zwÅ‚oki by gniÅ‚y w sÅ‚oÅ„cu.}
+{431}{}{KÅ‚amliwy gnÃ³j dostaÅ‚ na co zasÅ‚uÅ¼yÅ‚. Niech jego los bÄ™dzie nauczkÄ… na przyszÅ‚oÅ›Ä‡ dla handlarzy, ktÃ³rzy chcÄ… wyÅ‚udziÄ‡ nasze dobra. Dobrze siÄ™ spisaÅ‚aÅ› zauwaÅ¼ajÄ…c to oszustwo. PiÄ™kna, spostrzegawcza i zabÃ³jcza, na BogÃ³w, dziewczyno, nic Ci nie brakuje. MoÅ¼esz z nami zostaÄ‡ i traktuj nasze plemiÄ™ jak swoje. Ale, pamiÄ™taj mogÄ™ siÄ™ jeszcze kiedyÅ› zwrÃ³ciÄ‡ do ciebie o pomoc. A teraz, chodÅºmy zostawmy te zwÅ‚oki by gniÅ‚y w sÅ‚oÅ„cu.}
+{440}{}{Nie winiÄ™ ciÄ™. Sam miaÅ‚em zÅ‚e przeczucia co do tego zakupu. Przyznaje te stimpaki bardzo by siÄ™ przydaÅ‚y, ale radziliÅ›my sobie bez nich i dalej bÄ™dziemy. Teraz, moÅ¼esz z nami zostaÄ‡ i traktowaÄ‡ nasze plemiÄ™ jak swoje. Ale pamiÄ™taj, mogÄ™ siÄ™ jeszcze kiedyÅ› do ciebie zwrÃ³ciÄ‡. DziÄ™kuje za twojÄ… pomoc.}
+{441}{}{Nie winiÄ™ ciÄ™, Å¼e nie dobiÅ‚aÅ› targu. Sam miaÅ‚em zÅ‚e przeczucia co do tego zakupu. Przyznaje te stimpaki bardzo by siÄ™ przydaÅ‚y, ale radziliÅ›my sobie bez nich i dalej bÄ™dziemy. MoÅ¼esz z nami zostaÄ‡ dziewczyno i traktuj nasze plemiÄ™ jak swoje. Ale pamiÄ™taj, mogÄ™ siÄ™ jeszcze kiedyÅ› do ciebie zwrÃ³ciÄ‡. DziÄ™kuje za twojÄ… pomoc.}
 {442}{}{Nie ma sprawy.}
-{443}{}{Ca³a przyjemnoœæ po mojej stronie.}
-{444}{}{Dobra, dobra. Czeœæ.}
-{450}{}{Je¿eli jeszcze raz zobaczê tego k³amliwego psa, z wielk¹ przyjemnoœci¹ roz³upie mu czaszkê. Dobra robota z przejrzeniem jego oszustwa. M¹drze post¹pi³em, ufaj¹c ci. Mo¿esz z nami zostaæ i traktuj nasze plemiê jak swoje. Ale pamiêtaj, mogê ciê jeszcze kiedyœ wezwaæ. Dziêkuje Ci za pomoc.}
-{451}{}{Je¿eli jeszcze raz zobaczê tego k³amliwego psa, z wielk¹ przyjemnoœci¹ roz³upie mu czaszkê. Dobrze siê spisa³aœ zauwa¿aj¹c to oszustwo. Widzê, ¿e m¹drze post¹pi³em ufaj¹c ci, dziewczyno. Mo¿esz z nami zostaæ i traktuj nasze plemiê jak swoje. Ale pamiêtaj, mogê ciê jeszcze kiedyœ wezwaæ. Dziêkuje Ci za pomoc.}
+{443}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie.}
+{444}{}{Dobra, dobra. CzeÅ›Ä‡.}
+{450}{}{JeÅ¼eli jeszcze raz zobaczÄ™ tego kÅ‚amliwego psa, z wielkÄ… przyjemnoÅ›ciÄ… rozÅ‚upie mu czaszkÄ™. Dobra robota z przejrzeniem jego oszustwa. MÄ…drze postÄ…piÅ‚em, ufajÄ…c ci. MoÅ¼esz z nami zostaÄ‡ i traktuj nasze plemiÄ™ jak swoje. Ale pamiÄ™taj, mogÄ™ ciÄ™ jeszcze kiedyÅ› wezwaÄ‡. DziÄ™kuje Ci za pomoc.}
+{451}{}{JeÅ¼eli jeszcze raz zobaczÄ™ tego kÅ‚amliwego psa, z wielkÄ… przyjemnoÅ›ciÄ… rozÅ‚upie mu czaszkÄ™. Dobrze siÄ™ spisaÅ‚aÅ› zauwaÅ¼ajÄ…c to oszustwo. WidzÄ™, Å¼e mÄ…drze postÄ…piÅ‚em ufajÄ…c ci, dziewczyno. MoÅ¼esz z nami zostaÄ‡ i traktuj nasze plemiÄ™ jak swoje. Ale pamiÄ™taj, mogÄ™ ciÄ™ jeszcze kiedyÅ› wezwaÄ‡. DziÄ™kuje Ci za pomoc.}
 {452}{}{Nie ma sprawy.}
-{453}{}{Ca³a przyjemnoœæ po mojej stronie.}
-{454}{}{Dobra, dobra. Czeœæ.}
-{460}{}{[Kiedy podchodzisz olbrzym kiwa g³ow¹ na powitanie.] Witaj z powrotem, przyjacielu. Potrzebujesz czegoœ?}
-{461}{}{[Ogromny wojownik uœmiecha siê obserwuj¹c jak podchodzisz.] Na bogów, prawie zapomnia³em jak cudownie piêkna jesteœ. Potrzebujesz czegoœ, dziewczyno?}
-{462}{}{Mogê zadaæ ci kilka pytañ.}
-{463}{}{Nie, przepraszam, nie ten namiot. Muszê iœæ.}
-{464}{}{[Uœmiechasz siê uwodzicielsko.] O tak, wielkoludzie. Potrzebujê czegoœ, i to bardzo. [Puszczasz mu oczko.]}
+{453}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie.}
+{454}{}{Dobra, dobra. CzeÅ›Ä‡.}
+{460}{}{[Kiedy podchodzisz olbrzym kiwa gÅ‚owÄ… na powitanie.] Witaj z powrotem, przyjacielu. Potrzebujesz czegoÅ›?}
+{461}{}{[Ogromny wojownik uÅ›miecha siÄ™ obserwujÄ…c jak podchodzisz.] Na bogÃ³w, prawie zapomniaÅ‚em jak cudownie piÄ™kna jesteÅ›. Potrzebujesz czegoÅ›, dziewczyno?}
+{462}{}{MogÄ™ zadaÄ‡ ci kilka pytaÅ„.}
+{463}{}{Nie, przepraszam, nie ten namiot. MuszÄ™ iÅ›Ä‡.}
+{464}{}{[UÅ›miechasz siÄ™ uwodzicielsko.] O tak, wielkoludzie. PotrzebujÄ™ czegoÅ›, i to bardzo. [Puszczasz mu oczko.]}
 {470}{}{Spoko.}
-{471}{}{Wygl¹dasz jakbyœ wiele przeszed³. Interesuje mnie twoja historia?}
-{472}{}{Co mo¿esz mi powiedzieæ o tej wiosce?}
-{473}{}{Potrzebujesz mo¿e mojej pomocy przy czymœ?}
-{474}{}{Hmm, to dziwne. Wylecia³o mi z g³owy. Wrócê jak sobie przypomnê. Czeœæ.}
-{480}{}{[Krom siê œmieje.] Tak, mo¿na tak powiedzieæ, wiele w ¿yciu przeszed³em. Urodzi³em siê i zosta³em wychowany w plemieniu na dalekiej pó³nocy, jeszcze dalej na pó³noc ni¿ twoje. Mia³em piêtnaœcie lat kiedy moja wioska zosta³a zaatakowana przez barbarzyñców. Obudzi³em siê tego dnia jako ch³opiec, ale zanim s³oñce zasz³o nad t¹ ponur¹ scen¹, wywalczy³em sobie drogê do mêskoœci. Wszyscy mê¿czyŸni, kobiety i dzieci zginê³y, prze¿y³em tylko ja. Ach, ale czym¿e jest ¿ycie bez bitw i konfliktów? £ami¹ cz³owieka, albo czyni¹ go twardym jak stal. Noszê moje blizny z dum¹.}
-{481}{}{I co zrobi³eœ potem?}
-{482}{}{Dobra, to mi wystarczy. Pozwól, ¿e zapytam o coœ innego.}
-{490}{}{U³o¿y³em cia³a w stos i patrzy³em jak p³on¹ do nocy. PóŸniej zebra³em co mog³em i ruszy³em na wêdrówkê. Spêdzi³em trochê czasu w ró¿nych plemionach; walczy³em w wielu bitwach. Przez krótki czas ¿y³em wœród “cywilizowanych” ludzi, ale szybko siê nimi zmêczy³em. Zbyt wielu chciwych, zdradzieckich, leniwych psubratów chowaj¹cych siê za swoimi karabinami. Ja wole walkê cia³a i stali. Jestem prostym cz³owiekiem. Daj mi bitw, uczt, wina i kobiet. Có¿ jeszcze liczy siê w tym ponurym œwiecie?}
-{491}{}{Wiêc jak skoñczy³eœ tutaj?}
-{500}{}{Trafi³em tu kilka lat temu. To plemiê mnie przyjê³o i dobrze traktowa³o. Zaproponowali, ¿e uczyni¹ mnie przywódc¹ ich wojowników, na co oczywiœcie przysta³em. Podoba mi siê tutaj, na brzegu Wielkiej S³onej Wody. Ale czuje rosn¹c¹ we mnie ¿¹dzê podró¿y. Pewnego dnia, ju¿ wkrótce, ruszê dalej na spotkanie tego co jeszcze Bogowie maj¹ dla mnie w zanadrzu.}
-{501}{}{Dziêki za opowieœæ. Mogê zapytaæ o coœ innego?}
-{502}{}{Dziêki za opowieœæ. Czeœæ.}
-{510}{}{Pomyœlmy. . . Wiêkszoœæ mieszkañców tej wioski pochodzi z trzech mniejszych plemion, które postanowi³y siê zjednoczyæ w obawie o wymarcie. To stworzy³o interesuj¹c¹ mieszankê kultur i dialektów. A co najwa¿niejsze stworzy³o dobra mieszankê kobiet. Poza tym, nie ma wiele do powiedzenia. To prosta wioska zmagaj¹ca siê by wkuæ swoje proste jestestwo.}
-{511}{}{W porz¹dku, dziêkujê. Mogê zapytaæ o coœ jeszcze?}
-{512}{}{W porz¹dku, dziêki. Czeœæ.}
-{520}{}{W³aœciwie, to mamy problem ze studni¹. Jeœli chcesz pomóc, porozmawiaj z Merlim powie ci dok³adniej o co chodzi.}
-{521}{}{W porz¹dku, dziêki. Czeœæ.}
-{522}{}{W porz¹dku, mo¿e tak zrobiê. Ale najpierw, czy mogê zapytaæ o coœ innego?}
-{530}{}{Dobrze ciê znowu widzieæ, przyjacielu. Jeœli masz chwilê, znowu przyda³aby mi siê twoja pomoc.}
-{531}{}{Mi³o ciê znowu widzieæ, dziewczyno. Jeœli masz chwilê, mog³abyœ mi w czymœ pomóc.}
+{471}{}{WyglÄ…dasz jakbyÅ› wiele przeszedÅ‚. Interesuje mnie twoja historia?}
+{472}{}{Co moÅ¼esz mi powiedzieÄ‡ o tej wiosce?}
+{473}{}{Potrzebujesz moÅ¼e mojej pomocy przy czymÅ›?}
+{474}{}{Hmm, to dziwne. WyleciaÅ‚o mi z gÅ‚owy. WrÃ³cÄ™ jak sobie przypomnÄ™. CzeÅ›Ä‡.}
+{480}{}{[Krom siÄ™ Å›mieje.] Tak, moÅ¼na tak powiedzieÄ‡, wiele w Å¼yciu przeszedÅ‚em. UrodziÅ‚em siÄ™ i zostaÅ‚em wychowany w plemieniu na dalekiej pÃ³Å‚nocy, jeszcze dalej na pÃ³Å‚noc niÅ¼ twoje. MiaÅ‚em piÄ™tnaÅ›cie lat kiedy moja wioska zostaÅ‚a zaatakowana przez barbarzyÅ„cÃ³w. ObudziÅ‚em siÄ™ tego dnia jako chÅ‚opiec, ale zanim sÅ‚oÅ„ce zaszÅ‚o nad tÄ… ponurÄ… scenÄ…, wywalczyÅ‚em sobie drogÄ™ do mÄ™skoÅ›ci. Wszyscy mÄ™Å¼czyÅºni, kobiety i dzieci zginÄ™Å‚y, przeÅ¼yÅ‚em tylko ja. Ach, ale czymÅ¼e jest Å¼ycie bez bitw i konfliktÃ³w? ÅamiÄ… czÅ‚owieka, albo czyniÄ… go twardym jak stal. NoszÄ™ moje blizny z dumÄ….}
+{481}{}{I co zrobiÅ‚eÅ› potem?}
+{482}{}{Dobra, to mi wystarczy. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{490}{}{UÅ‚oÅ¼yÅ‚em ciaÅ‚a w stos i patrzyÅ‚em jak pÅ‚onÄ… do nocy. PÃ³Åºniej zebraÅ‚em co mogÅ‚em i ruszyÅ‚em na wÄ™drÃ³wkÄ™. SpÄ™dziÅ‚em trochÄ™ czasu w rÃ³Å¼nych plemionach; walczyÅ‚em w wielu bitwach. Przez krÃ³tki czas Å¼yÅ‚em wÅ›rÃ³d â€œcywilizowanychâ€ ludzi, ale szybko siÄ™ nimi zmÄ™czyÅ‚em. Zbyt wielu chciwych, zdradzieckich, leniwych psubratÃ³w chowajÄ…cych siÄ™ za swoimi karabinami. Ja wole walkÄ™ ciaÅ‚a i stali. Jestem prostym czÅ‚owiekiem. Daj mi bitw, uczt, wina i kobiet. CÃ³Å¼ jeszcze liczy siÄ™ w tym ponurym Å›wiecie?}
+{491}{}{WiÄ™c jak skoÅ„czyÅ‚eÅ› tutaj?}
+{500}{}{TrafiÅ‚em tu kilka lat temu. To plemiÄ™ mnie przyjÄ™Å‚o i dobrze traktowaÅ‚o. Zaproponowali, Å¼e uczyniÄ… mnie przywÃ³dcÄ… ich wojownikÃ³w, na co oczywiÅ›cie przystaÅ‚em. Podoba mi siÄ™ tutaj, na brzegu Wielkiej SÅ‚onej Wody. Ale czuje rosnÄ…cÄ… we mnie Å¼Ä…dzÄ™ podrÃ³Å¼y. Pewnego dnia, juÅ¼ wkrÃ³tce, ruszÄ™ dalej na spotkanie tego co jeszcze Bogowie majÄ… dla mnie w zanadrzu.}
+{501}{}{DziÄ™ki za opowieÅ›Ä‡. MogÄ™ zapytaÄ‡ o coÅ› innego?}
+{502}{}{DziÄ™ki za opowieÅ›Ä‡. CzeÅ›Ä‡.}
+{510}{}{PomyÅ›lmy. . . WiÄ™kszoÅ›Ä‡ mieszkaÅ„cÃ³w tej wioski pochodzi z trzech mniejszych plemion, ktÃ³re postanowiÅ‚y siÄ™ zjednoczyÄ‡ w obawie o wymarcie. To stworzyÅ‚o interesujÄ…cÄ… mieszankÄ™ kultur i dialektÃ³w. A co najwaÅ¼niejsze stworzyÅ‚o dobra mieszankÄ™ kobiet. Poza tym, nie ma wiele do powiedzenia. To prosta wioska zmagajÄ…ca siÄ™ by wkuÄ‡ swoje proste jestestwo.}
+{511}{}{W porzÄ…dku, dziÄ™kujÄ™. MogÄ™ zapytaÄ‡ o coÅ› jeszcze?}
+{512}{}{W porzÄ…dku, dziÄ™ki. CzeÅ›Ä‡.}
+{520}{}{WÅ‚aÅ›ciwie, to mamy problem ze studniÄ…. JeÅ›li chcesz pomÃ³c, porozmawiaj z Merlim powie ci dokÅ‚adniej o co chodzi.}
+{521}{}{W porzÄ…dku, dziÄ™ki. CzeÅ›Ä‡.}
+{522}{}{W porzÄ…dku, moÅ¼e tak zrobiÄ™. Ale najpierw, czy mogÄ™ zapytaÄ‡ o coÅ› innego?}
+{530}{}{Dobrze ciÄ™ znowu widzieÄ‡, przyjacielu. JeÅ›li masz chwilÄ™, znowu przydaÅ‚aby mi siÄ™ twoja pomoc.}
+{531}{}{MiÅ‚o ciÄ™ znowu widzieÄ‡, dziewczyno. JeÅ›li masz chwilÄ™, mogÅ‚abyÅ› mi w czymÅ› pomÃ³c.}
 {532}{}{Jasne. Czego potrzebujesz?}
-{533}{}{Przepraszam, ale mam coœ do zrobienia. Mo¿e póŸniej.}
-{540}{}{Dwóch naszych myœliwych, Serin i Jerem, nie wróci³o z terenów ³owieckich, ludzie zaczynaj¹ siê o nich niepokoiæ. To dwóch naszych najlepszych wojowników, nawet nie chce myœleæ, ¿e mog³o im siê coœ przydarzyæ. Sam poszed³ bym ich poszukaæ, ale je¿eli mieszkañcy zobacz¹, ¿e zajmuje siê tym osobiœcie, to obawiam siê i¿ przyjm¹, ¿e sta³o siê najgorsze. A nie chcia³bym straszyæ ludzi, póki nie wiem co siê naprawdê dzieje. Wiêc, poszukasz ich dla mnie?}
-{541}{}{W porz¹dku, ale gdzie mam ich szukaæ?}
-{542}{}{Przepraszam, ale nie mam czasu ich szukaæ. Poza tym, na pewno nied³ugo wróc¹. Czeœæ.}
-{543}{}{Nie jestem tu po to ¿eby opiekowaæ siê twoimi wojownikami. Czeœæ.}
-{550}{}{SprawdŸ nasze tereny ³owieckie, na pó³nocy. Najszybsza droga prowadzi tam przez jaskinie na zachodzie, zaraz przy Wielkiej S³onej Wodzie. Normalnie, odradza³bym tê drogê, bo grozi zawaleniem, ale liczy siê ka¿da chwila. Po prostu w jaskini st¹paj ostro¿nie, to nic Ci siê nie stanie.}
-{551}{}{W porz¹dku. Bêdê siê œpieszyæ z poszukiwaniami.}
-{552}{}{Czekaj, chcesz mnie wys³aæ przez jaskinie, która grozi zawaleniem? Hmm. . . Cholerka, w³aœnie coœ mi siê przypomnia³o! Przecie¿ muszê ratowaæ swoje plemiê! Przepraszam, muszê lecieæ.}
-{560}{}{Czy przynosisz wieœci o zaginionych myœliwych?}
-{561}{}{Jeszcze nie. Ale ci¹gle szukam.}
-{562}{}{Taa, s¹ w jaskini. Obaj nie ¿yj¹.}
-{570}{}{[Krom przytakn¹³, przygnêbiony.] Jak?}
-{571}{}{Zasypani w jaskini. Jednego zmia¿d¿y³y kamienie; drugiego przygwoŸdzi³y do ziemi, potem gekon ze¿ar³ go ¿ywcem. To by³o doœæ brutalne.}
-{580}{}{Zasypani w jaskini. Przeklêci Bogowie! Nienawidzê traciæ ludzi w ten sposób. Powinni zgin¹æ w boju, jak prawdziwi wojownicy, którymi byli. [Potrz¹sa g³ow¹.] Ich strata to potê¿ny cios dla plemienia. Mimo wszystko, dziêkujê. Nie potrzebujê ju¿ twojej pomocy.}
-{581}{}{Jasne, kiedy chcesz. Czeœæ.}
-{582}{}{Na pewno byli wspania³ymi ludŸmi. Czeœæ.}
-{590}{}{Dziêkujê za znalezienie myœliwych. Starta Jerema jest wielka, gdy¿ by³ uzdolnionym wojownikiem. Powinien by³ zgin¹æ w boju, a nie zasypany przez cholerne kamienie. W ka¿dym razie, Serin wróci do zdrowia, dziêki tobie, przyjacielu. Zawsze bêdziemy Ciê tu mi³o witaæ.}
-{591}{}{Dziêkujê za znalezienie myœliwych. Starta Jerema jest wielka, gdy¿ by³ uzdolnionym wojownikiem. Powinien by³ zgin¹æ w boju, a nie zasypany przez cholerne kamienie. W ka¿dym razie, Serin wróci do zdrowia, dziêki tobie, dziewczyno. Zawsze bêdziesz tu mile widziana.}
-{592}{}{Dziêki. Trzymaj siê, Krom.}
-{800}{}{Moja plemiê, Arroyo, potrzebuje pomoc. Ja pomóc. Ja Dziecko Przeznaczenia.}
-{801}{}{[Krom siê œmieje.] Tak, na pewno jesteœ specjalnym dzieckiem. [Z uœmiechem czochra ciê po g³owie rêk¹ sprawiaj¹c¹ wra¿enie zdolnej do mia¿d¿enia g³azów.] Lubisz pomagaæ, co? Chcesz byæ specjalnym pomocnikiem naszej wioski?}
-{802}{}{Ja pomóc! Co ty potrzebuje?}
-{803}{}{Nie-e. Ja pomóc Arroyo. Nie mieæ czasu pomóc inni. Czee!}
-{810}{}{Potrzebujemy k³uj¹c¹ broñ. [Pokazuje na w³óczniê.] Piêciu w³óczni, takich jak ta. [Pokazuje na wyci¹gniêtych palcach.] *Piêæ*. Potrzebujemy te¿ *dziesiêciu*, to dwa razy tyle, no¿y. [Wyci¹ga nó¿ i ci pokazuje.] O takich, dobra? Piêæ w³óczni, niewa¿ne jak ostrych. I dziesiêæ normalnych no¿y. Rozumiesz?}
-{811}{}{Dobrze. Ja iœæ, znaleŸæ k³uj¹ce rzeczy.}
-{812}{}{Ja mieæ wiele k³uj¹ce rzeczy. Ja nie potrzebowaæ tyle.}
-{820}{}{I co, zmieniasz zdanie? Chcesz byæ specjalnym pomocnikiem plemienia?}
+{533}{}{Przepraszam, ale mam coÅ› do zrobienia. MoÅ¼e pÃ³Åºniej.}
+{540}{}{DwÃ³ch naszych myÅ›liwych, Serin i Jerem, nie wrÃ³ciÅ‚o z terenÃ³w Å‚owieckich, ludzie zaczynajÄ… siÄ™ o nich niepokoiÄ‡. To dwÃ³ch naszych najlepszych wojownikÃ³w, nawet nie chce myÅ›leÄ‡, Å¼e mogÅ‚o im siÄ™ coÅ› przydarzyÄ‡. Sam poszedÅ‚ bym ich poszukaÄ‡, ale jeÅ¼eli mieszkaÅ„cy zobaczÄ…, Å¼e zajmuje siÄ™ tym osobiÅ›cie, to obawiam siÄ™ iÅ¼ przyjmÄ…, Å¼e staÅ‚o siÄ™ najgorsze. A nie chciaÅ‚bym straszyÄ‡ ludzi, pÃ³ki nie wiem co siÄ™ naprawdÄ™ dzieje. WiÄ™c, poszukasz ich dla mnie?}
+{541}{}{W porzÄ…dku, ale gdzie mam ich szukaÄ‡?}
+{542}{}{Przepraszam, ale nie mam czasu ich szukaÄ‡. Poza tym, na pewno niedÅ‚ugo wrÃ³cÄ…. CzeÅ›Ä‡.}
+{543}{}{Nie jestem tu po to Å¼eby opiekowaÄ‡ siÄ™ twoimi wojownikami. CzeÅ›Ä‡.}
+{550}{}{SprawdÅº nasze tereny Å‚owieckie, na pÃ³Å‚nocy. Najszybsza droga prowadzi tam przez jaskinie na zachodzie, zaraz przy Wielkiej SÅ‚onej Wodzie. Normalnie, odradzaÅ‚bym tÄ™ drogÄ™, bo grozi zawaleniem, ale liczy siÄ™ kaÅ¼da chwila. Po prostu w jaskini stÄ…paj ostroÅ¼nie, to nic Ci siÄ™ nie stanie.}
+{551}{}{W porzÄ…dku. BÄ™dÄ™ siÄ™ Å›pieszyÄ‡ z poszukiwaniami.}
+{552}{}{Czekaj, chcesz mnie wysÅ‚aÄ‡ przez jaskinie, ktÃ³ra grozi zawaleniem? Hmm. . . Cholerka, wÅ‚aÅ›nie coÅ› mi siÄ™ przypomniaÅ‚o! PrzecieÅ¼ muszÄ™ ratowaÄ‡ swoje plemiÄ™! Przepraszam, muszÄ™ lecieÄ‡.}
+{560}{}{Czy przynosisz wieÅ›ci o zaginionych myÅ›liwych?}
+{561}{}{Jeszcze nie. Ale ciÄ…gle szukam.}
+{562}{}{Taa, sÄ… w jaskini. Obaj nie Å¼yjÄ….}
+{570}{}{[Krom przytaknÄ…Å‚, przygnÄ™biony.] Jak?}
+{571}{}{Zasypani w jaskini. Jednego zmiaÅ¼dÅ¼yÅ‚y kamienie; drugiego przygwoÅºdziÅ‚y do ziemi, potem gekon zeÅ¼arÅ‚ go Å¼ywcem. To byÅ‚o doÅ›Ä‡ brutalne.}
+{580}{}{Zasypani w jaskini. PrzeklÄ™ci Bogowie! NienawidzÄ™ traciÄ‡ ludzi w ten sposÃ³b. Powinni zginÄ…Ä‡ w boju, jak prawdziwi wojownicy, ktÃ³rymi byli. [PotrzÄ…sa gÅ‚owÄ….] Ich strata to potÄ™Å¼ny cios dla plemienia. Mimo wszystko, dziÄ™kujÄ™. Nie potrzebujÄ™ juÅ¼ twojej pomocy.}
+{581}{}{Jasne, kiedy chcesz. CzeÅ›Ä‡.}
+{582}{}{Na pewno byli wspaniaÅ‚ymi ludÅºmi. CzeÅ›Ä‡.}
+{590}{}{DziÄ™kujÄ™ za znalezienie myÅ›liwych. Starta Jerema jest wielka, gdyÅ¼ byÅ‚ uzdolnionym wojownikiem. Powinien byÅ‚ zginÄ…Ä‡ w boju, a nie zasypany przez cholerne kamienie. W kaÅ¼dym razie, Serin wrÃ³ci do zdrowia, dziÄ™ki tobie, przyjacielu. Zawsze bÄ™dziemy CiÄ™ tu miÅ‚o witaÄ‡.}
+{591}{}{DziÄ™kujÄ™ za znalezienie myÅ›liwych. Starta Jerema jest wielka, gdyÅ¼ byÅ‚ uzdolnionym wojownikiem. Powinien byÅ‚ zginÄ…Ä‡ w boju, a nie zasypany przez cholerne kamienie. W kaÅ¼dym razie, Serin wrÃ³ci do zdrowia, dziÄ™ki tobie, dziewczyno. Zawsze bÄ™dziesz tu mile widziana.}
+{592}{}{DziÄ™ki. Trzymaj siÄ™, Krom.}
+{800}{}{Moja plemiÄ™, Arroyo, potrzebuje pomoc. Ja pomÃ³c. Ja Dziecko Przeznaczenia.}
+{801}{}{[Krom siÄ™ Å›mieje.] Tak, na pewno jesteÅ› specjalnym dzieckiem. [Z uÅ›miechem czochra ciÄ™ po gÅ‚owie rÄ™kÄ… sprawiajÄ…cÄ… wraÅ¼enie zdolnej do miaÅ¼dÅ¼enia gÅ‚azÃ³w.] Lubisz pomagaÄ‡, co? Chcesz byÄ‡ specjalnym pomocnikiem naszej wioski?}
+{802}{}{Ja pomÃ³c! Co ty potrzebuje?}
+{803}{}{Nie-e. Ja pomÃ³c Arroyo. Nie mieÄ‡ czasu pomÃ³c inni. Czee!}
+{810}{}{Potrzebujemy kÅ‚ujÄ…cÄ… broÅ„. [Pokazuje na wÅ‚Ã³czniÄ™.] PiÄ™ciu wÅ‚Ã³czni, takich jak ta. [Pokazuje na wyciÄ…gniÄ™tych palcach.] *PiÄ™Ä‡*. Potrzebujemy teÅ¼ *dziesiÄ™ciu*, to dwa razy tyle, noÅ¼y. [WyciÄ…ga nÃ³Å¼ i ci pokazuje.] O takich, dobra? PiÄ™Ä‡ wÅ‚Ã³czni, niewaÅ¼ne jak ostrych. I dziesiÄ™Ä‡ normalnych noÅ¼y. Rozumiesz?}
+{811}{}{Dobrze. Ja iÅ›Ä‡, znaleÅºÄ‡ kÅ‚ujÄ…ce rzeczy.}
+{812}{}{Ja mieÄ‡ wiele kÅ‚ujÄ…ce rzeczy. Ja nie potrzebowaÄ‡ tyle.}
+{820}{}{I co, zmieniasz zdanie? Chcesz byÄ‡ specjalnym pomocnikiem plemienia?}
 {821}{}{Ja specjalne. Ja wielka pomoc dla plemie.}
-{830}{}{Masz wszystko o co ciê prosi³em?}
-{831}{}{Ja znaleŸæ.}
-{832}{}{Ja ci¹gle szukaæ.}
-{840}{}{[Krom szybko przegl¹da broñ, a potem z uœmiechem poklepuje ciê po g³owie.] œwietna robota. Dziêkuje ci. A teraz biegnij i trzymaj siê z daleka od k³opotów.}
+{830}{}{Masz wszystko o co ciÄ™ prosiÅ‚em?}
+{831}{}{Ja znaleÅºÄ‡.}
+{832}{}{Ja ciÄ…gle szukaÄ‡.}
+{840}{}{[Krom szybko przeglÄ…da broÅ„, a potem z uÅ›miechem poklepuje ciÄ™ po gÅ‚owie.] Å›wietna robota. DziÄ™kuje ci. A teraz biegnij i trzymaj siÄ™ z daleka od kÅ‚opotÃ³w.}
 {841}{}{Na razie!}
-{850}{}{[Krom czochra twoje w³osy.] Tu jest mój specjalny pomocnik. A teraz biegnij i trzymaj siê z daleka od k³opotów.}
+{850}{}{[Krom czochra twoje wÅ‚osy.] Tu jest mÃ³j specjalny pomocnik. A teraz biegnij i trzymaj siÄ™ z daleka od kÅ‚opotÃ³w.}
 {851}{}{Na razie!}
-{860}{}{Chcesz sprawdziæ swoje szczêœcie, tak?}
-{861}{}{Nie, skopaæ ci dupê.}
-{862}{}{Nie, chcê tylko przeprosiæ za moje wczeœniejsze zachowanie.}
-{863}{}{Nie, ju¿ wychodzê.}
-{870}{}{Hmm, wygl¹da, ¿e mam dzisiaj nastrój do wybaczania, przyjacielu. A teraz, co mogê dla ciebie zrobiæ?}
-{871}{}{Nie lubiê kiedy dziewczyna siê ze mn¹ droczy, ale na Bogów, jak móg³bym byæ z³y na tak¹ boginiê jak ty? A teraz, có¿ móg³bym dla ciebie zrobiæ?}
-{872}{}{Niewa¿ne. Czeœæ.}
-{1000}{}{[Olbrzym kiwa z szacunkiem g³ow¹.] Niech mnie kule... jeœli to nie wielki, bohater pustkowi. To by³ naprawdê imponuj¹cy wyczyn, pos³aæ te psubraty z Enklawy do piek³a. W³aœciwie to, historie o twoich czynach zainspirowa³y mnie do powrotu na pustkowia w poszukiwaniu przygód.}
-{1001}{}{Gdzie pójdziesz?}
-{1002}{}{Zamierzasz tak po prostu odejœæ? Przecie¿ jesteœ przywódc¹ wojowników plemienia.}
-{1003}{}{Œwietnie. Powodzenia w twojej podró¿y, Krom.}
-{1010}{}{[Wzruszy³ swoimi szerokimi ramionami.] Myœlê, ¿e wschód bêdzie równie dobrym kierunkiem, jak ka¿dy inny. Tak, pójdê na wschód i zobaczê co mnie tam czeka.}
-{1020}{}{Po prostu wybior¹ innego wojownika na to miejsce. A poza tym, przywódcy wojowników przewa¿nie nie ¿yj¹ d³u¿ej ni¿ parê lat, wiêc myœlê, ¿e zas³u¿y³em na emeryturê.}
-{2000}{}{Uda³o ci siê zaopatrzyæ Plemiê w wiêcej broni.}
-{2500}{}{Padasz ofiar¹ oszustwa Roya.}
+{860}{}{Chcesz sprawdziÄ‡ swoje szczÄ™Å›cie, tak?}
+{861}{}{Nie, skopaÄ‡ ci dupÄ™.}
+{862}{}{Nie, chcÄ™ tylko przeprosiÄ‡ za moje wczeÅ›niejsze zachowanie.}
+{863}{}{Nie, juÅ¼ wychodzÄ™.}
+{870}{}{Hmm, wyglÄ…da, Å¼e mam dzisiaj nastrÃ³j do wybaczania, przyjacielu. A teraz, co mogÄ™ dla ciebie zrobiÄ‡?}
+{871}{}{Nie lubiÄ™ kiedy dziewczyna siÄ™ ze mnÄ… droczy, ale na BogÃ³w, jak mÃ³gÅ‚bym byÄ‡ zÅ‚y na takÄ… boginiÄ™ jak ty? A teraz, cÃ³Å¼ mÃ³gÅ‚bym dla ciebie zrobiÄ‡?}
+{872}{}{NiewaÅ¼ne. CzeÅ›Ä‡.}
+{1000}{}{[Olbrzym kiwa z szacunkiem gÅ‚owÄ….] Niech mnie kule... jeÅ›li to nie wielki, bohater pustkowi. To byÅ‚ naprawdÄ™ imponujÄ…cy wyczyn, posÅ‚aÄ‡ te psubraty z Enklawy do piekÅ‚a. WÅ‚aÅ›ciwie to, historie o twoich czynach zainspirowaÅ‚y mnie do powrotu na pustkowia w poszukiwaniu przygÃ³d.}
+{1001}{}{Gdzie pÃ³jdziesz?}
+{1002}{}{Zamierzasz tak po prostu odejÅ›Ä‡? PrzecieÅ¼ jesteÅ› przywÃ³dcÄ… wojownikÃ³w plemienia.}
+{1003}{}{Åšwietnie. Powodzenia w twojej podrÃ³Å¼y, Krom.}
+{1010}{}{[WzruszyÅ‚ swoimi szerokimi ramionami.] MyÅ›lÄ™, Å¼e wschÃ³d bÄ™dzie rÃ³wnie dobrym kierunkiem, jak kaÅ¼dy inny. Tak, pÃ³jdÄ™ na wschÃ³d i zobaczÄ™ co mnie tam czeka.}
+{1020}{}{Po prostu wybiorÄ… innego wojownika na to miejsce. A poza tym, przywÃ³dcy wojownikÃ³w przewaÅ¼nie nie Å¼yjÄ… dÅ‚uÅ¼ej niÅ¼ parÄ™ lat, wiÄ™c myÅ›lÄ™, Å¼e zasÅ‚uÅ¼yÅ‚em na emeryturÄ™.}
+{2000}{}{UdaÅ‚o ci siÄ™ zaopatrzyÄ‡ PlemiÄ™ w wiÄ™cej broni.}
+{2500}{}{Padasz ofiarÄ… oszustwa Roya.}
 {2501}{}{Niepotrzebnie zabijasz kupca.}
-{2502}{}{Ujawniasz oszustwo Roya i upewniasz siê, ¿e nigdy ju¿ nikogo nie oszuka.}
+{2502}{}{Ujawniasz oszustwo Roya i upewniasz siÄ™, Å¼e nigdy juÅ¼ nikogo nie oszuka.}
 {2503}{}{Rezygnujesz z handlu z Royem.}
 {2504}{}{Ujawniasz oszustwo Roya.}
-{3000}{}{Przepadnij przeklêty ³owco niewolników!}
+{3000}{}{Przepadnij przeklÄ™ty Å‚owco niewolnikÃ³w!}

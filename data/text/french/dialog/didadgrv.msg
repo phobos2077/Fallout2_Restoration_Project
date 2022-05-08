@@ -1,1 +1,1 @@
-{101}{}{"M. Christopher Winslow" est gravé sur la pierre tombale.}
+{101}{}{"M. Christopher Winslow" est gravÃ© sur la pierre tombale.}

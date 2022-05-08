@@ -7,7 +7,7 @@
 {106}{}{Go on now. Git, ya dang idjit!}
 {107}{}{Get out before you mess up the floor.}
 {108}{}{Hello there, friend. Name's Josh Laurance. I own this place.}
-{109}{}{O que posso fazer por você?}
+{109}{}{O que posso fazer por vocÃª?}
 {110}{}{What is this place, exactly?}
 {111}{}{I'd like to buy a drink.}
 {112}{}{I'd like to buy a round for everyone here.}
@@ -27,7 +27,7 @@
 {125}{}{How do I arrange for funeral services?}
 {126}{}{I'll make sure to stay away from your bathtub gin.}
 {127}{}{Certainly. That'll be $5.}
-{128}{}{Aqui está o seu dinheiro.}
+{128}{}{Aqui estÃ¡ o seu dinheiro.}
 {129}{}{I guess I don't want a beer right now after all. Let me ask you about something, though.}
 {130}{}{That's generous of you. That'll be $50 for a round of beer for everyone here. Hey, I'm a poet
  and didn't know it.}
@@ -58,7 +58,7 @@
 {150}{}{That's ridiculous. Where'd you hear that?}
 {151}{}{I dunno 'xactly. But it's a fact sure as fiddlin'. Why else would you all file your teeth into
  points? Huh? Answer me that!}
-{152}{}{Eu não lixei meus dentes em... Oh, esquece. Deixe-me perguntar sobre outra coisa.}
+{152}{}{Eu nÃ£o lixei meus dentes em... Oh, esquece. Deixe-me perguntar sobre outra coisa.}
 {153}{}{Thankee kindly. Anything else for you?}
 {154}{}{Actually, there was something else.}
 {155}{}{Nope, that'll do it for now. Thanks, Josh.}

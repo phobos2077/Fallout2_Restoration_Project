@@ -1,6 +1,6 @@
-{100}{}{Acesso não autorizado solicitado. Bloqueando Porta.}
-{101}{}{Autorização Concedida. Desbloquear a porta.}
-{102}{}{A porta já está desbloqueada.}
-{103}{}{Você vê uma porta para a Ala de Segurança.}
-{104}{}{Você vê uma porta blindada para a Ala de Segurança.}
-{200}{}{Não existe nenhum bloqueio para escolher.}
+{100}{}{Acesso nÃ£o autorizado solicitado. Bloqueando Porta.}
+{101}{}{AutorizaÃ§Ã£o Concedida. Desbloquear a porta.}
+{102}{}{A porta jÃ¡ estÃ¡ desbloqueada.}
+{103}{}{VocÃª vÃª uma porta para a Ala de SeguranÃ§a.}
+{104}{}{VocÃª vÃª uma porta blindada para a Ala de SeguranÃ§a.}
+{200}{}{NÃ£o existe nenhum bloqueio para escolher.}

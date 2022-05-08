@@ -1,30 +1,30 @@
 {100}{}{Tu vois un terminal informatique.}
 {101}{}{Un petit autocollant porte la mention "I*tel inside".}
-{102}{}{[Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.]}
-{103}{}{Terminal de contrôle                                                       Projet : Expérience de synthèse organique et robotique}
+{102}{}{[Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.]}
+{103}{}{Terminal de contrÃ´le                                                       Projet : ExpÃ©rience de synthÃ¨se organique et robotique}
 {104}{}{}
-{105}{}{Vérification des systèmes.}
+{105}{}{VÃ©rification des systÃ¨mes.}
 {106}{}{[Activer robot]}
 {107}{}{[Quitter]}
 {108}{}{Argh ?}
-{109}{}{[Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.]}
+{109}{}{[Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.]}
 {110}{}{[Terminer programme]}
 {111}{}{[Quitter]}
 {112}{}{Arg.}
-{113}{}{Veuillez patienter...                                                           Corps Robot - Ok                                                   Réservoirs de gel Biomed - Pleins                                       Appareil de stockage organique - Présent                          Prêt à activer}
-{114}{}{Veuillez patienter...                                                           Corps Robot - Ok                                                   Réservoirs de gel Biomed - Pleins                                       Appareil de stockage organique - Non présent                    Activation non recommandée}
-{115}{}{Veuillez patienter...                                                           Corps Robot - Remplacer motivateur                                                   Réservoirs de gel Biomed - Pleins                                       Appareil de stockage organique - Présent                    Activation non recommandée}
-{116}{}{Veuillez patienter...                                                           Corps robot - Remplacer motivateur                                                   Réservoirs de gel Biomed - Pleins                                       Appareil de stockage organique - Non présent                    Activation non recommandée}
-{117}{}{Veuillez patienter...                                                           Corps robot - Ok                                                   Réservoirs de gel Biomed - à remplir                                       Appareil de stockage organique - Présent                    Activation non recommandée}
-{118}{}{Veuillez patienter...                                                           Corps robot - Ok                                                   Réservoirs de gel Biomed - à remplir                                       Appareil de stockage organique - Non présent                    Activation non recommandée}
-{119}{}{Veuillez patienter...                                                           Corps robot - Remplacer motivateur                                                   Réservoirs de gel Biomed - à remplir                                       Appareil de stockage organique - Présent                    Activation non recommandée}
-{120}{}{Veuillez patienter...                                                           Corps robot - Remplacer motivateur                                                   Réservoirs de gel Biomed - à remplir                                       Appareil de stockage organique - Non présent                    Activation non recommandée}
+{113}{}{Veuillez patienter...                                                           Corps Robot - Ok                                                   RÃ©servoirs de gel Biomed - Pleins                                       Appareil de stockage organique - PrÃ©sent                          PrÃªt Ã  activer}
+{114}{}{Veuillez patienter...                                                           Corps Robot - Ok                                                   RÃ©servoirs de gel Biomed - Pleins                                       Appareil de stockage organique - Non prÃ©sent                    Activation non recommandÃ©e}
+{115}{}{Veuillez patienter...                                                           Corps Robot - Remplacer motivateur                                                   RÃ©servoirs de gel Biomed - Pleins                                       Appareil de stockage organique - PrÃ©sent                    Activation non recommandÃ©e}
+{116}{}{Veuillez patienter...                                                           Corps robot - Remplacer motivateur                                                   RÃ©servoirs de gel Biomed - Pleins                                       Appareil de stockage organique - Non prÃ©sent                    Activation non recommandÃ©e}
+{117}{}{Veuillez patienter...                                                           Corps robot - Ok                                                   RÃ©servoirs de gel Biomed - Ã  remplir                                       Appareil de stockage organique - PrÃ©sent                    Activation non recommandÃ©e}
+{118}{}{Veuillez patienter...                                                           Corps robot - Ok                                                   RÃ©servoirs de gel Biomed - Ã  remplir                                       Appareil de stockage organique - Non prÃ©sent                    Activation non recommandÃ©e}
+{119}{}{Veuillez patienter...                                                           Corps robot - Remplacer motivateur                                                   RÃ©servoirs de gel Biomed - Ã  remplir                                       Appareil de stockage organique - PrÃ©sent                    Activation non recommandÃ©e}
+{120}{}{Veuillez patienter...                                                           Corps robot - Remplacer motivateur                                                   RÃ©servoirs de gel Biomed - Ã  remplir                                       Appareil de stockage organique - Non prÃ©sent                    Activation non recommandÃ©e}
 {121}{}{}
 {122}{}{}
 {124}{}{}
-{153}{}{[Lancer séquence de démarrage]}
+{153}{}{[Lancer sÃ©quence de dÃ©marrage]}
 {154}{}{[Quitter]}
-{155}{}{Sécurité désengagée                                                  Unité en fonctionnement}
+{155}{}{SÃ©curitÃ© dÃ©sengagÃ©e                                                  UnitÃ© en fonctionnement}
 {156}{}{}
 {157}{}{}
 {158}{}{}
@@ -33,13 +33,13 @@
 {161}{}{}
 {162}{}{}
 {163}{}{}
-{164}{}{Initialisation de la séquence de démarrage}
+{164}{}{Initialisation de la sÃ©quence de dÃ©marrage}
 {165}{}{                                   Niveau d'alimentation - nominal}
 {166}{}{                                              Taux de sync. - 75 %}
-{167}{}{                                               L'unité est opérationnelle}
+{167}{}{                                               L'unitÃ© est opÃ©rationnelle}
 {170}{}{                                              Taux de sync. - 50 %}
 {174}{}{                                              Taux de sync. - 10 %}
 {176}{}{[Quitter]}
 {200}{}{ est incapable de lire ce qu'affiche le moniteur.}
-{300}{}{L'ordinateur semble disposer d'un mécanisme de sécurité.}
-{500}{}{Initialisation de la séquence de démarrage                                   Niveau d'alimentation - nominal                                          Programme interrompu                                               Téléchargement...                                                  Continuer programme                                                    Taux sync. - 100 %                                                   Unité opérationnelle}
+{300}{}{L'ordinateur semble disposer d'un mÃ©canisme de sÃ©curitÃ©.}
+{500}{}{Initialisation de la sÃ©quence de dÃ©marrage                                   Niveau d'alimentation - nominal                                          Programme interrompu                                               TÃ©lÃ©chargement...                                                  Continuer programme                                                    Taux sync. - 100 %                                                   UnitÃ© opÃ©rationnelle}

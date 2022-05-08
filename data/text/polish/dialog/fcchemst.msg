@@ -1,75 +1,75 @@
-{100}{}{Widzisz mê¿czyznê Shi o wykrzywionej minie.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ Shi o wykrzywionej minie.}
 {101}{}{Widzisz doktora Jing Tie Gahnga.}
-{102}{}{Widzisz mê¿czyznê Shi w laboratoryjnym kitlu.}
-{103}{}{Kim jesteœ? Co tutaj robisz?}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ Shi w laboratoryjnym kitlu.}
+{103}{}{Kim jesteÅ›? Co tutaj robisz?}
 {104}{}{Co?}
-{105}{}{Kim jesteœ?}
+{105}{}{Kim jesteÅ›?}
 {106}{}{Jestem}
-{107}{}{Nie twój interes.}
-{108}{}{Nikim. W³aœnie wychodzê.}
-{109}{}{To nie jest twoje miejsce, je¿eli jesteœ imbecylem. Uciekaj st¹d, zanim wezwê stra¿e.}
-{110}{}{Ty naprawdê mnie nie rozumiesz, co? Mo¿e zrozumiesz stra¿ników. Stra¿e! Intruz!}
+{107}{}{Nie twÃ³j interes.}
+{108}{}{Nikim. WÅ‚aÅ›nie wychodzÄ™.}
+{109}{}{To nie jest twoje miejsce, jeÅ¼eli jesteÅ› imbecylem. Uciekaj stÄ…d, zanim wezwÄ™ straÅ¼e.}
+{110}{}{Ty naprawdÄ™ mnie nie rozumiesz, co? MoÅ¼e zrozumiesz straÅ¼nikÃ³w. StraÅ¼e! Intruz!}
 {111}{}{[dalej]}
-{112}{}{Jestem Jing Tie Gahng. Jestem szefem laboratorium chemicznego Stalowego Pa³acu... a ty przerywasz mi wa¿n¹ pracê. WyjdŸ proszê. JU¯ - zanim zawo³am stra¿e.}
-{113}{}{No to wo³aj, starcze.}
-{114}{}{Dobrze, ju¿ dobrze. Wychodzê.}
-{115}{}{Có¿,}
-{116}{}{Tak. Jestem tu, aby zdobyæ paliwo dla Tankowca Posejdon.}
-{117}{}{Interesuje mnie, czym siê tu zajmujesz.}
-{118}{}{Jestem tu, aby zdobyæ paliwo dla Centrologów.}
-{119}{}{Nie. W tej chwili wychodzê.}
-{120}{}{A, ale widzisz, to jest mój interes. To moje laboratorium. A teraz, czego tutaj szukasz.}
-{121}{}{Jestem tu, aby zdobyæ paliwo do Tankowca Posejdon.}
-{122}{}{Interesuje mnie, czym siê tu zajmujesz.}
-{123}{}{Jestem tu, aby zdobyæ paliwo dla Centrologów.}
-{124}{}{Nie. W tej chwili wychodzê.}
-{125}{}{Chcesz paliwo do tankowca? Ja chcê wzmocniony pancerz wspomagany. Jak pamiêtam jeden z Centrologów, nazwiskiem Crockett, zna sposób na ulepszenie zwyk³ego pancerza wspomaganego. Zdob¹dŸ dla mnie taki ubiór, a ja zobaczê, co da siê zrobiæ z paliwem.}
-{126}{}{Zrobiê to.}
-{127}{}{Nie mogê nic obiecywaæ.}
-{128}{}{W³aœnie mam takie coœ przy sobie.}
-{129}{}{Tworzê podzespo³y i urz¹dzenia dla Cesarza i jego doradcy, Kena Lee. Pracujê nad pochodnymi paliwa oraz polimerów, które zdolne by³yby wytrzymaæ bardzo silny atak. Oczywiœcie to nie ma dla ciebie wiêkszego znaczenia, jako ¿e, w wiêkszoœci, s¹ to rozwa¿ania teoretyczne}
-{130}{}{Otó¿ ma to dla mnie znaczenie. Potrzebujê paliwa do Tankowca Posejdon.}
-{131}{}{Za³o¿ê siê, ¿e mia³oby to znaczenie dla Centrologów. Chc¹ paliwa.}
-{132}{}{Jeszcze nie ma. Ale nied³ugo tu wrócê.}
-{133}{}{Chc¹ paliwa, co? Có¿, abstrahuj¹c od tego, jacy s¹ denerwuj¹cy, maj¹ te¿ swoje pomys³y. S³ysza³em, ¿e wynaleŸli proces, w którym pancerz wspomagany mo¿e staæ siê jeszcze bardziej niezniszczalny. Je¿eli przeprowadz¹ taki proces dla mnie, gotowy jestem przes³aæ im rurami paliwo. Domyœlam siê, ¿e jest ono do tej ich zabawki - statku kosmicznego. Poszukaj u nich Crocketta i porozmawiaj z nim o tym.}
-{134}{}{Zrobiê to.}
-{135}{}{Nie mogê nic obiecywaæ.}
-{136}{}{W³aœnie mam takie coœ przy sobie.}
-{137}{}{Nawet gdybym chcia³ ci pomóc, to nie móg³bym. Nasze rezerwy paliwowe wyczerpa³y siê. Mo¿e lepiej poprosiæ o pomoc Centrologów. Do widzenia.}
-{138}{}{Och. Wiêc to by by³o na tyle.}
-{139}{}{To jest niemo¿liwe. Nasze zapasy paliwa ju¿ zniknê³y. Nawet gdybym chcia³ pomóc Centrologom, czego nie chcê, nie móg³bym. Do widzenia.}
+{112}{}{Jestem Jing Tie Gahng. Jestem szefem laboratorium chemicznego Stalowego PaÅ‚acu... a ty przerywasz mi waÅ¼nÄ… pracÄ™. WyjdÅº proszÄ™. JUÅ» - zanim zawoÅ‚am straÅ¼e.}
+{113}{}{No to woÅ‚aj, starcze.}
+{114}{}{Dobrze, juÅ¼ dobrze. WychodzÄ™.}
+{115}{}{CÃ³Å¼,}
+{116}{}{Tak. Jestem tu, aby zdobyÄ‡ paliwo dla Tankowca Posejdon.}
+{117}{}{Interesuje mnie, czym siÄ™ tu zajmujesz.}
+{118}{}{Jestem tu, aby zdobyÄ‡ paliwo dla CentrologÃ³w.}
+{119}{}{Nie. W tej chwili wychodzÄ™.}
+{120}{}{A, ale widzisz, to jest mÃ³j interes. To moje laboratorium. A teraz, czego tutaj szukasz.}
+{121}{}{Jestem tu, aby zdobyÄ‡ paliwo do Tankowca Posejdon.}
+{122}{}{Interesuje mnie, czym siÄ™ tu zajmujesz.}
+{123}{}{Jestem tu, aby zdobyÄ‡ paliwo dla CentrologÃ³w.}
+{124}{}{Nie. W tej chwili wychodzÄ™.}
+{125}{}{Chcesz paliwo do tankowca? Ja chcÄ™ wzmocniony pancerz wspomagany. Jak pamiÄ™tam jeden z CentrologÃ³w, nazwiskiem Crockett, zna sposÃ³b na ulepszenie zwykÅ‚ego pancerza wspomaganego. ZdobÄ…dÅº dla mnie taki ubiÃ³r, a ja zobaczÄ™, co da siÄ™ zrobiÄ‡ z paliwem.}
+{126}{}{ZrobiÄ™ to.}
+{127}{}{Nie mogÄ™ nic obiecywaÄ‡.}
+{128}{}{WÅ‚aÅ›nie mam takie coÅ› przy sobie.}
+{129}{}{TworzÄ™ podzespoÅ‚y i urzÄ…dzenia dla Cesarza i jego doradcy, Kena Lee. PracujÄ™ nad pochodnymi paliwa oraz polimerÃ³w, ktÃ³re zdolne byÅ‚yby wytrzymaÄ‡ bardzo silny atak. OczywiÅ›cie to nie ma dla ciebie wiÄ™kszego znaczenia, jako Å¼e, w wiÄ™kszoÅ›ci, sÄ… to rozwaÅ¼ania teoretyczne}
+{130}{}{OtÃ³Å¼ ma to dla mnie znaczenie. PotrzebujÄ™ paliwa do Tankowca Posejdon.}
+{131}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e miaÅ‚oby to znaczenie dla CentrologÃ³w. ChcÄ… paliwa.}
+{132}{}{Jeszcze nie ma. Ale niedÅ‚ugo tu wrÃ³cÄ™.}
+{133}{}{ChcÄ… paliwa, co? CÃ³Å¼, abstrahujÄ…c od tego, jacy sÄ… denerwujÄ…cy, majÄ… teÅ¼ swoje pomysÅ‚y. SÅ‚yszaÅ‚em, Å¼e wynaleÅºli proces, w ktÃ³rym pancerz wspomagany moÅ¼e staÄ‡ siÄ™ jeszcze bardziej niezniszczalny. JeÅ¼eli przeprowadzÄ… taki proces dla mnie, gotowy jestem przesÅ‚aÄ‡ im rurami paliwo. DomyÅ›lam siÄ™, Å¼e jest ono do tej ich zabawki - statku kosmicznego. Poszukaj u nich Crocketta i porozmawiaj z nim o tym.}
+{134}{}{ZrobiÄ™ to.}
+{135}{}{Nie mogÄ™ nic obiecywaÄ‡.}
+{136}{}{WÅ‚aÅ›nie mam takie coÅ› przy sobie.}
+{137}{}{Nawet gdybym chciaÅ‚ ci pomÃ³c, to nie mÃ³gÅ‚bym. Nasze rezerwy paliwowe wyczerpaÅ‚y siÄ™. MoÅ¼e lepiej poprosiÄ‡ o pomoc CentrologÃ³w. Do widzenia.}
+{138}{}{Och. WiÄ™c to by byÅ‚o na tyle.}
+{139}{}{To jest niemoÅ¼liwe. Nasze zapasy paliwa juÅ¼ zniknÄ™Å‚y. Nawet gdybym chciaÅ‚ pomÃ³c Centrologom, czego nie chcÄ™, nie mÃ³gÅ‚bym. Do widzenia.}
 {140}{}{Dobra. Na razie.}
-{141}{}{Dobrze. A wiêc pozwól mi wróciæ do mojej pracy.}
+{141}{}{Dobrze. A wiÄ™c pozwÃ³l mi wrÃ³ciÄ‡ do mojej pracy.}
 {142}{}{[dalej]}
-{143}{}{Nie mo¿esz tego zrobiæ? Wiêc nie mogê sprzedaæ ci paliwa. A teraz odejdŸ. Jestem zajêty.}
+{143}{}{Nie moÅ¼esz tego zrobiÄ‡? WiÄ™c nie mogÄ™ sprzedaÄ‡ ci paliwa. A teraz odejdÅº. Jestem zajÄ™ty.}
 {144}{}{[dalej]}
-{145}{}{Masz wzmocniony pancerz wspomagany? Doskonale! Jak mam ci zap³aciæ?}
-{146}{}{Przeœlij w zamian paliwo do Centrologów.}
-{147}{}{Przeœlij paliwo do Tankowca Posejdon.}
-{148}{}{A mo¿e trochê pieni¹¿ków. Chyba $}
-{149}{}{Jednak chcê j¹ zatrzymaæ.}
-{150}{}{Uwa¿aj to za za³atwione. Nied³ugo wszystko ustawiê. A teraz, jeœli wybaczysz, chcia³bym ju¿ wróciæ do mojej pracy.}
-{151}{}{Dziêki. Na razie.}
-{152}{}{A¿ tyle? Ech! Jednak za tak potê¿ny pancerz wspomagany do przestudiowania... zgoda. Oto twoje pieni¹dze.}
-{153}{}{Dziêki. Na razie.}
-{154}{}{Chcesz go zatrzymaæ? Dobrze. Je¿eli zmienisz zdanie, daj mi znaæ.}
-{155}{}{Tak zrobiê. Do widzenia.}
+{145}{}{Masz wzmocniony pancerz wspomagany? Doskonale! Jak mam ci zapÅ‚aciÄ‡?}
+{146}{}{PrzeÅ›lij w zamian paliwo do CentrologÃ³w.}
+{147}{}{PrzeÅ›lij paliwo do Tankowca Posejdon.}
+{148}{}{A moÅ¼e trochÄ™ pieniÄ…Å¼kÃ³w. Chyba $}
+{149}{}{Jednak chcÄ™ jÄ… zatrzymaÄ‡.}
+{150}{}{UwaÅ¼aj to za zaÅ‚atwione. NiedÅ‚ugo wszystko ustawiÄ™. A teraz, jeÅ›li wybaczysz, chciaÅ‚bym juÅ¼ wrÃ³ciÄ‡ do mojej pracy.}
+{151}{}{DziÄ™ki. Na razie.}
+{152}{}{AÅ¼ tyle? Ech! Jednak za tak potÄ™Å¼ny pancerz wspomagany do przestudiowania... zgoda. Oto twoje pieniÄ…dze.}
+{153}{}{DziÄ™ki. Na razie.}
+{154}{}{Chcesz go zatrzymaÄ‡? Dobrze. JeÅ¼eli zmienisz zdanie, daj mi znaÄ‡.}
+{155}{}{Tak zrobiÄ™. Do widzenia.}
 {156}{}{Marne szanse. Na razie.}
-{157}{}{Stra¿e! Stra¿e! Intruz wróci³! Zabiæ go!}
-{158}{}{Czy uda³o ci siê rozmówiæ z Centrologiem, który nazywa siê Crockett, i zdobyæ pancerz?}
+{157}{}{StraÅ¼e! StraÅ¼e! Intruz wrÃ³ciÅ‚! ZabiÄ‡ go!}
+{158}{}{Czy udaÅ‚o ci siÄ™ rozmÃ³wiÄ‡ z Centrologiem, ktÃ³ry nazywa siÄ™ Crockett, i zdobyÄ‡ pancerz?}
 {159}{}{Nie, jeszcze nie.}
-{160}{}{No to po co ci¹gle wracasz i zawracasz mi g³owê?}
-{161}{}{Bo mam kilka pytañ.}
-{162}{}{Nie mam pojêcia. Do zobaczenia.}
-{163}{}{Nie wystawiaj mojej cierpliwoœci na próbê.}
+{160}{}{No to po co ciÄ…gle wracasz i zawracasz mi gÅ‚owÄ™?}
+{161}{}{Bo mam kilka pytaÅ„.}
+{162}{}{Nie mam pojÄ™cia. Do zobaczenia.}
+{163}{}{Nie wystawiaj mojej cierpliwoÅ›ci na prÃ³bÄ™.}
 {164}{}{Czego chcesz?}
-{165}{}{Czym siê tutaj zajmujesz?}
-{166}{}{Jestem tu, aby zdobyæ paliwo do Tankowca Posejdon.}
-{167}{}{Jestem tu, aby zdobyæ paliwo dla Centrologów.}
+{165}{}{Czym siÄ™ tutaj zajmujesz?}
+{166}{}{Jestem tu, aby zdobyÄ‡ paliwo do Tankowca Posejdon.}
+{167}{}{Jestem tu, aby zdobyÄ‡ paliwo dla CentrologÃ³w.}
 {168}{}{Nic takiego. Przepraszam.}
-{169}{}{Nie mamy w tej chwili paliwa. Nie mogê ci pomóc w niczym innym. Jestem zbyt zajêty tym pancerzem. Mi³ego dnia ¿yczê.}
+{169}{}{Nie mamy w tej chwili paliwa. Nie mogÄ™ ci pomÃ³c w niczym innym. Jestem zbyt zajÄ™ty tym pancerzem. MiÅ‚ego dnia Å¼yczÄ™.}
 {170}{}{Bywaj.}
-{171}{}{. Tylko siê rozgl¹dam.}
-{172}{}{, masz tutaj jakiœ interes?}
-{173}{}{ by wystarczy³o.}
-{174}{}{Mam wszystko, czego potrzebujê. Jeœli musisz, to porozmawiaj z Wongiem.}
+{171}{}{. Tylko siÄ™ rozglÄ…dam.}
+{172}{}{, masz tutaj jakiÅ› interes?}
+{173}{}{ by wystarczyÅ‚o.}
+{174}{}{Mam wszystko, czego potrzebujÄ™. JeÅ›li musisz, to porozmawiaj z Wongiem.}

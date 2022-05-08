@@ -1,5 +1,5 @@
-{100}{}{Você vê uma velha e enferrujada, ventoinha.}
-{101}{}{Você poderia facilmente travar esse ventilador com algum pedaço de metal.}
+{100}{}{VocÃª vÃª uma velha e enferrujada, ventoinha.}
+{101}{}{VocÃª poderia facilmente travar esse ventilador com algum pedaÃ§o de metal.}
 {102}{}{Existe um poste de metal que bloqueia o ventilador.}
-{200}{}{Você bloqueia o poste no ventilador. Você ouve raspagem de metal e o ventilador pára. Isso faz um clangor
-  ruído, pois tenta girar suas lâminas agora atoladas.}
+{200}{}{VocÃª bloqueia o poste no ventilador. VocÃª ouve raspagem de metal e o ventilador pÃ¡ra. Isso faz um clangor
+Â  ruÃ­do, pois tenta girar suas lÃ¢minas agora atoladas.}

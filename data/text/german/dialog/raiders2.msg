@@ -1,4 +1,4 @@
-{100}{}{Du hast eine dunkle Höhle an der Seite eines Berges betreten.}
-{101}{}{Du bist in einer Reihe von pechschwarzen Höhlen. In der Dunkelheit kannst Du das Klackern von Skorpionen hören.}
-{102}{}{Diese Höhlen scheinen als Kasernen für eine Gangsterbande zu dienen.}
+{100}{}{Du hast eine dunkle HÃ¶hle an der Seite eines Berges betreten.}
+{101}{}{Du bist in einer Reihe von pechschwarzen HÃ¶hlen. In der Dunkelheit kannst Du das Klackern von Skorpionen hÃ¶ren.}
+{102}{}{Diese HÃ¶hlen scheinen als Kasernen fÃ¼r eine Gangsterbande zu dienen.}
 {103}{}{Du hast das Versteck der Gangster gefunden.}

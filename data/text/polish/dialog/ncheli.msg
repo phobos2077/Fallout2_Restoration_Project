@@ -1,11 +1,11 @@
-{100}{}{Widzisz kilka skrzyñ wype³nionych chemikaliami.}
-{150}{}{Widzisz kilka skrzyñ wype³nionych chemikaliami. Nie jesteœ w stanie rozpoznaæ tych sybstancji, ale zapakowano je *bardzo* ostro¿nie.}
+{100}{}{Widzisz kilka skrzyÅ„ wypeÅ‚nionych chemikaliami.}
+{150}{}{Widzisz kilka skrzyÅ„ wypeÅ‚nionych chemikaliami. Nie jesteÅ› w stanie rozpoznaÄ‡ tych sybstancji, ale zapakowano je *bardzo* ostroÅ¼nie.}
 {175}{}{Widzisz latacz.}
-{199}{}{Widzisz latacz... zaawansowan¹ odmianê œmig³owca. Niestety nie masz pojêcia jak go obs³u¿yæ. }
-{200}{}{(Przez tych facetów przechodz¹ mnie ciarki...)}
-{250}{}{Patrz! Ktoœ nas obserwuje!}
-{300}{}{Nie zbli¿aj siê do tych opancerzonych goœci, bo ciê potn¹ na plasterki.}
-{350}{}{Do licha! Co ty robisz je³opo?!}
-{400}{}{[Tu s¹ chyba drzwi. Otworzyæ i wejœæ do œrodka?]}
-{450}{}{[Drzwi zamykaj¹ siê za twoimi plecami, a latacz startuje! Nie mo¿esz otworzyæ drzwi!]}
-{500}{}{Te skrzynki s¹ wype³nione ciê¿kimi, metalowymi butlami. Bior¹c pod uwagê ostro¿noœæ z jak¹ je zapakowano podejrzewasz, ¿e zawieraj¹ jakieœ niebezpieczne substancje chemiczne.}
+{199}{}{Widzisz latacz... zaawansowanÄ… odmianÄ™ Å›migÅ‚owca. Niestety nie masz pojÄ™cia jak go obsÅ‚uÅ¼yÄ‡. }
+{200}{}{(Przez tych facetÃ³w przechodzÄ… mnie ciarki...)}
+{250}{}{Patrz! KtoÅ› nas obserwuje!}
+{300}{}{Nie zbliÅ¼aj siÄ™ do tych opancerzonych goÅ›ci, bo ciÄ™ potnÄ… na plasterki.}
+{350}{}{Do licha! Co ty robisz jeÅ‚opo?!}
+{400}{}{[Tu sÄ… chyba drzwi. OtworzyÄ‡ i wejÅ›Ä‡ do Å›rodka?]}
+{450}{}{[Drzwi zamykajÄ… siÄ™ za twoimi plecami, a latacz startuje! Nie moÅ¼esz otworzyÄ‡ drzwi!]}
+{500}{}{Te skrzynki sÄ… wypeÅ‚nione ciÄ™Å¼kimi, metalowymi butlami. BiorÄ…c pod uwagÄ™ ostroÅ¼noÅ›Ä‡ z jakÄ… je zapakowano podejrzewasz, Å¼e zawierajÄ… jakieÅ› niebezpieczne substancje chemiczne.}

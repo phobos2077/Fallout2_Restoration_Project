@@ -1,40 +1,40 @@
 {100}{}{Curtis. }
-{101}{}{Egy alacsony, barna hajú fiút látsz. Kétségbeesetten sír.}
+{101}{}{Egy alacsony, barna hajÃº fiÃºt lÃ¡tsz. KÃ©tsÃ©gbeesetten sÃ­r.}
 {102}{}{Curtis. }
-{103}{}{Egy alacsony, barna hajú fiút látsz. Kétségbeesetten sír.}
-{104}{}{Egy alacsony, barna hajú fiút látsz. Már sokkal vidámabbnak t?nik.}
+{103}{}{Egy alacsony, barna hajÃº fiÃºt lÃ¡tsz. KÃ©tsÃ©gbeesetten sÃ­r.}
+{104}{}{Egy alacsony, barna hajÃº fiÃºt lÃ¡tsz. MÃ¡r sokkal vidÃ¡mabbnak t?nik.}
 {105}{}{Curtis. }
-{106}{}{Egy alacsony, barna hajú fiút látsz. Már sokkal vidámabbnak t?nik.}
+{106}{}{Egy alacsony, barna hajÃº fiÃºt lÃ¡tsz. MÃ¡r sokkal vidÃ¡mabbnak t?nik.}
 {107}{}{*Szipp*}
-{108}{}{Kér egy kis teát, Mr. Nixon?}
-{109}{}{Természetesen, kedves Curtis!}
+{108}{}{KÃ©r egy kis teÃ¡t, Mr. Nixon?}
+{109}{}{TermÃ©szetesen, kedves Curtis!}
 {110}{}{Parancsoljon. Nagyon finom, igya meg!}
-{111}{}{Köszönöm, Curtis.}
-{112}{}{ÉN köszönöm, Mr. Nixon.}
-{113}{}{Szeretnéd visszaadni a papa villáskulcsát?}
-{114}{}{Nem, Mr. Nixon. A papa mérges lesz ha megtudja, hogy elástuk.}
-{115}{}{Ott van a kövek alatt, a bár mögött.}
-{116}{}{NEM! A papa mérges lesz. Legjobb ha hazudunk, Mr. Nixon.}
-{117}{}{Elvesztettem a barátomat. Mr. Nixonnak hívják.}
-{118}{}{Mr. Nixon kék pólót hord, nagy az orra és nagyon-nagyon picike.}
-{119}{}{Nem láttad Mr. Nixont? Elvesztettem.}
-{120}{}{Kösz, hogy megtaláltad Mr. Nixont! ? is nagyon hálás!}
-{121}{}{Az a mutáns félelmetes!}
-{122}{}{Az a ghoul félelmetes!}
-{123}{}{Az a fémkutya mindjárt felfal, Vidd innen!}
-{124}{}{Nem láttad Mr. Nixont? Elvesztettem.}
+{111}{}{KÃ¶szÃ¶nÃ¶m, Curtis.}
+{112}{}{Ã‰N kÃ¶szÃ¶nÃ¶m, Mr. Nixon.}
+{113}{}{SzeretnÃ©d visszaadni a papa villÃ¡skulcsÃ¡t?}
+{114}{}{Nem, Mr. Nixon. A papa mÃ©rges lesz ha megtudja, hogy elÃ¡stuk.}
+{115}{}{Ott van a kÃ¶vek alatt, a bÃ¡r mÃ¶gÃ¶tt.}
+{116}{}{NEM! A papa mÃ©rges lesz. Legjobb ha hazudunk, Mr. Nixon.}
+{117}{}{Elvesztettem a barÃ¡tomat. Mr. Nixonnak hÃ­vjÃ¡k.}
+{118}{}{Mr. Nixon kÃ©k pÃ³lÃ³t hord, nagy az orra Ã©s nagyon-nagyon picike.}
+{119}{}{Nem lÃ¡ttad Mr. Nixont? Elvesztettem.}
+{120}{}{KÃ¶sz, hogy megtalÃ¡ltad Mr. Nixont! ? is nagyon hÃ¡lÃ¡s!}
+{121}{}{Az a mutÃ¡ns fÃ©lelmetes!}
+{122}{}{Az a ghoul fÃ©lelmetes!}
+{123}{}{Az a fÃ©mkutya mindjÃ¡rt felfal, Vidd innen!}
+{124}{}{Nem lÃ¡ttad Mr. Nixont? Elvesztettem.}
 {125}{}{Eeeez Nikkszon?}
 {126}{}{[Elcsoszogsz]}
-{127}{}{Róla beszélsz? Már keresett ám téged.}
-{128}{}{Mr. Nixon itt van nálam, de tudod mit? Azt hiszem, meg kell büntetni, amiért egyedül elcsatangolt. Egy kis csonkítás talán megteszi. Akkor el?ször is letépem a lábát... azután...}
+{127}{}{RÃ³la beszÃ©lsz? MÃ¡r keresett Ã¡m tÃ©ged.}
+{128}{}{Mr. Nixon itt van nÃ¡lam, de tudod mit? Azt hiszem, meg kell bÃ¼ntetni, amiÃ©rt egyedÃ¼l elcsatangolt. Egy kis csonkÃ­tÃ¡s talÃ¡n megteszi. Akkor el?szÃ¶r is letÃ©pem a lÃ¡bÃ¡t... azutÃ¡n...}
 {129}{}{Nekem most mennem kell, szia.}
-{130}{}{Megtaláltad? Megtaláltad Mr. Nixont!}
+{130}{}{MegtalÃ¡ltad? MegtalÃ¡ltad Mr. Nixont!}
 {131}{}{Szijaa Misztrr Nikkszon}
-{132}{}{Naná, hogy meg, nem ment messzire. Máskor jobban vigyázz rá, rendben?}
-{133}{}{NE! NEEEEEE... !!! Kérlek! Hagyd abba! Hagyd abbaaaaa...}
-{134}{}{Upsz, azt hiszem, Mr. Nixon kicsit gyengébb, mint gondoltam. Vacak egy tákolmány ez, kölyök. Szétmállott a kezemben.}
-{135}{}{Mr. Nixon visszatér a sírból és meg fog ÖLNI!}
-{136}{}{Mr. Nixon életed végéig kísérteni fog!}
-{137}{}{Mire megnövök, te már öreg leszel és majd én fogom kitépni a lábaidat.}
-{138}{}{Mr. Nixon, hát visszajöttél Curtis-hez?}
-{139}{}{Megtanítottad Curtis-nek, hogy az élet kegyetlen és igazságtalan.}
+{132}{}{NanÃ¡, hogy meg, nem ment messzire. MÃ¡skor jobban vigyÃ¡zz rÃ¡, rendben?}
+{133}{}{NE! NEEEEEE... !!! KÃ©rlek! Hagyd abba! Hagyd abbaaaaa...}
+{134}{}{Upsz, azt hiszem, Mr. Nixon kicsit gyengÃ©bb, mint gondoltam. Vacak egy tÃ¡kolmÃ¡ny ez, kÃ¶lyÃ¶k. SzÃ©tmÃ¡llott a kezemben.}
+{135}{}{Mr. Nixon visszatÃ©r a sÃ­rbÃ³l Ã©s meg fog Ã–LNI!}
+{136}{}{Mr. Nixon Ã©leted vÃ©gÃ©ig kÃ­sÃ©rteni fog!}
+{137}{}{Mire megnÃ¶vÃ¶k, te mÃ¡r Ã¶reg leszel Ã©s majd Ã©n fogom kitÃ©pni a lÃ¡baidat.}
+{138}{}{Mr. Nixon, hÃ¡t visszajÃ¶ttÃ©l Curtis-hez?}
+{139}{}{MegtanÃ­tottad Curtis-nek, hogy az Ã©let kegyetlen Ã©s igazsÃ¡gtalan.}

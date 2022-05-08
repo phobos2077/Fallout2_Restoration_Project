@@ -1,3 +1,3 @@
-{100}{}{To nie dzia³a.}
-{101}{}{Nie jesteœ w stanie domyœliæ siê, które przyciski nale¿y naciskaæ.}
-{102}{}{Komputer zosta³ zniszczony.}
+{100}{}{To nie dziaÅ‚a.}
+{101}{}{Nie jesteÅ› w stanie domyÅ›liÄ‡ siÄ™, ktÃ³re przyciski naleÅ¼y naciskaÄ‡.}
+{102}{}{Komputer zostaÅ‚ zniszczony.}

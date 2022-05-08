@@ -1,1 +1,1 @@
-{100}{}{Tu as obtenu des conseils précieux sur la façon d'utiliser les armes à énergie.}
+{100}{}{Tu as obtenu des conseils prÃ©cieux sur la faÃ§on d'utiliser les armes Ã  Ã©nergie.}

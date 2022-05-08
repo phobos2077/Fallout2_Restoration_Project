@@ -1,93 +1,93 @@
 {100}{}{Widzisz komika.}
-{150}{}{Widzisz beznadziejnego komika. Ma tremê i to widaæ.}
-{200}{}{Jest teraz zbyt zajêty swoim wystêpem, ¿eby rozmawiaæ.}
-{1000}{}{No... uch... czemu radskorpion przeszed³ przez ulicê?}
-{1001}{}{¯eby uciec od takiego DUPKA jakby ty!}
-{1002}{}{Mówiê wam, zabijmy go!}
-{1003}{}{Bo radskorpion... yyy, on chcia³ uciec przed cz¹steczkami opadu radioaktywnego...}
-{1004}{}{Jesteœ do kitu!}
-{1005}{}{ID SIÊ JEBAÆ!}
-{1006}{}{Uch, widzicie, dowcip polega na tym, ¿e skoro on ju¿ by³ mutantem, to nie musia³ przechodziæ przez ulicê, wiêc... yyy...}
+{150}{}{Widzisz beznadziejnego komika. Ma tremÄ™ i to widaÄ‡.}
+{200}{}{Jest teraz zbyt zajÄ™ty swoim wystÄ™pem, Å¼eby rozmawiaÄ‡.}
+{1000}{}{No... uch... czemu radskorpion przeszedÅ‚ przez ulicÄ™?}
+{1001}{}{Å»eby uciec od takiego DUPKA jakby ty!}
+{1002}{}{MÃ³wiÄ™ wam, zabijmy go!}
+{1003}{}{Bo radskorpion... yyy, on chciaÅ‚ uciec przed czÄ…steczkami opadu radioaktywnego...}
+{1004}{}{JesteÅ› do kitu!}
+{1005}{}{IDÅ¹ SIÄ˜ JEBAÄ†!}
+{1006}{}{Uch, widzicie, dowcip polega na tym, Å¼e skoro on juÅ¼ byÅ‚ mutantem, to nie musiaÅ‚ przechodziÄ‡ przez ulicÄ™, wiÄ™c... yyy...}
 {1007}{}{}
-{2000}{}{He he. Gecko... ghule, no nie? Ghule... ludzie, ale¿ one ŒMIERDZ¥.}
-{2001}{}{Sam œmierdzisz!}
-{2002}{}{Tego faceta powinni wypuszczaæ tylko w sobotnie wieczory!}
-{2003}{}{Uch... he he... no wiêc, yyy, ghule, no nie, brzydko pachn¹. No wiêc, yyy...}
-{2004}{}{Czy mówi³em ju¿, ¿e ghule œmierdz¹?}
-{2005}{}{Um, no wiêc spotykam tego ghula, no nie i siê pytam: "Czy wy ch³opaki nie jesteœcie zazdroœni o to, ¿e nie œmierdzê?"}
+{2000}{}{He he. Gecko... ghule, no nie? Ghule... ludzie, aleÅ¼ one ÅšMIERDZÄ„.}
+{2001}{}{Sam Å›mierdzisz!}
+{2002}{}{Tego faceta powinni wypuszczaÄ‡ tylko w sobotnie wieczory!}
+{2003}{}{Uch... he he... no wiÄ™c, yyy, ghule, no nie, brzydko pachnÄ…. No wiÄ™c, yyy...}
+{2004}{}{Czy mÃ³wiÅ‚em juÅ¼, Å¼e ghule Å›mierdzÄ…?}
+{2005}{}{Um, no wiÄ™c spotykam tego ghula, no nie i siÄ™ pytam: "Czy wy chÅ‚opaki nie jesteÅ›cie zazdroÅ›ni o to, Å¼e nie Å›mierdzÄ™?"}
 {2006}{}{On na to: "Nie. Yyy, czemu pytasz?"}
-{2007}{}{Ja mu na to, ¿e pytam, bo jesteœcie ZIELONI.}
-{2008}{}{Uch... zieloni z zazdroœci. Kumacie?}
+{2007}{}{Ja mu na to, Å¼e pytam, bo jesteÅ›cie ZIELONI.}
+{2008}{}{Uch... zieloni z zazdroÅ›ci. Kumacie?}
 {2010}{}{Buuu!}
 {2011}{}{}
-{3000}{}{No wiêc... by³a sobie jedna prostytutka, no nie, taka g³upia szmata...}
+{3000}{}{No wiÄ™c... byÅ‚a sobie jedna prostytutka, no nie, taka gÅ‚upia szmata...}
 {3001}{}{Twoja stara to szmata!!}
-{3002}{}{"Szmata"? Po przedstwieniu zat³ukê ciê na œmieræ!}
-{3003}{}{No i... yyy... ona mówi, no nie, ona mówi: "Czy masz tam w kieszeni gekona, czy jesteœ po prostu napalony?"}
-{3006}{}{Uch... czy wspomina³em, ¿e to by³ gekon ziej¹cy ogniem? He he.}
+{3002}{}{"Szmata"? Po przedstwieniu zatÅ‚ukÄ™ ciÄ™ na Å›mierÄ‡!}
+{3003}{}{No i... yyy... ona mÃ³wi, no nie, ona mÃ³wi: "Czy masz tam w kieszeni gekona, czy jesteÅ› po prostu napalony?"}
+{3006}{}{Uch... czy wspominaÅ‚em, Å¼e to byÅ‚ gekon ziejÄ…cy ogniem? He he.}
 {3007}{}{}
 {4000}{}{Latacze?}
 {4001}{}{Lata co?}
 {4002}{}{O czym u licha gada ten facet?}
-{4003}{}{Co powiecie na te ma³e torebki z orzeszkami ziemnymi, które podaj¹ w czasie lotu?}
-{4004}{}{Co powiecie na to salami, które tam podaj¹?}
-{4005}{}{O co... w tym w ogóle chodzi?}
+{4003}{}{Co powiecie na te maÅ‚e torebki z orzeszkami ziemnymi, ktÃ³re podajÄ… w czasie lotu?}
+{4004}{}{Co powiecie na to salami, ktÃ³re tam podajÄ…?}
+{4005}{}{O co... w tym w ogÃ³le chodzi?}
 {4006}{}{}
 {5000}{}{Opcjonalne Traity?}
 {5001}{}{*Zieeew*}
-{5002}{}{No wiecie, na przyk³ad jinks. Ktoœ je tu ostatnio widzia³?}
-{5003}{}{Czy ktokolwiek widzia³ ostatnio twojego ma³ego fiutka?}
-{5004}{}{Uch... myœlicie, ¿e zanjdzie siê ktoœ, kto powie: "hej, chcê mieæ wiêcej krytycznych pora¿ek"?}
-{5005}{}{Kim... s¹ ci ludzie?}
-{5006}{}{Hej, ktoœ mi ju¿ kiedyœ to opowiada³.}
+{5002}{}{No wiecie, na przykÅ‚ad jinks. KtoÅ› je tu ostatnio widziaÅ‚?}
+{5003}{}{Czy ktokolwiek widziaÅ‚ ostatnio twojego maÅ‚ego fiutka?}
+{5004}{}{Uch... myÅ›licie, Å¼e zanjdzie siÄ™ ktoÅ›, kto powie: "hej, chcÄ™ mieÄ‡ wiÄ™cej krytycznych poraÅ¼ek"?}
+{5005}{}{Kim... sÄ… ci ludzie?}
+{5006}{}{Hej, ktoÅ› mi juÅ¼ kiedyÅ› to opowiadaÅ‚.}
 {5007}{}{}
 {6000}{}{Radskorpiony?}
 {6001}{}{Co jest w nich takiego radosnego?}
-{6002}{}{To skrót od RADIOAKTYWNOŒCI, dupku.}
-{6003}{}{Kim s¹ ci ludzie, którym siê wydaje, ¿e zmutowane skorpiony...}
-{6004}{}{S¹ takie radosne?}
-{6005}{}{Jesteœ do kitu!}
+{6002}{}{To skrÃ³t od RADIOAKTYWNOÅšCI, dupku.}
+{6003}{}{Kim sÄ… ci ludzie, ktÃ³rym siÄ™ wydaje, Å¼e zmutowane skorpiony...}
+{6004}{}{SÄ… takie radosne?}
+{6005}{}{JesteÅ› do kitu!}
 {6006}{}{}
 {7000}{}{Kretoszczury?}
 {7001}{}{O ludzie...}
 {7002}{}{Co jest nie tak z tymi rzeczami?}
-{7003}{}{Czy one s¹ kretami...}
-{7004}{}{Czy mo¿e...}
-{7005}{}{S¹ SZCZURAMI?}
-{7006}{}{A co ze œwinioszczurami?}
+{7003}{}{Czy one sÄ… kretami...}
+{7004}{}{Czy moÅ¼e...}
+{7005}{}{SÄ… SZCZURAMI?}
+{7006}{}{A co ze Å›winioszczurami?}
 {7007}{}{Co z nimi?}
 {7008}{}{Uch... jasne, a o co w tym chodzi?}
 {7009}{}{}
 {8000}{}{Super mutanty?}
-{8001}{}{Czy ten pajac nigdy nie przestaje opowiadaæ te g³upie dowcipy?}
+{8001}{}{Czy ten pajac nigdy nie przestaje opowiadaÄ‡ te gÅ‚upie dowcipy?}
 {8002}{}{Co jest w nich takiego SUPER?}
-{8003}{}{Kiedy ostatnio widzieliœcie supermutanta...}
-{8004}{}{Œci¹gaj¹cego kota z drzewa?}
+{8003}{}{Kiedy ostatnio widzieliÅ›cie supermutanta...}
+{8004}{}{ÅšciÄ…gajÄ…cego kota z drzewa?}
 {8005}{}{Nigdy! A wiecie dlaczego?}
 {8006}{}{*Zieeew*}
-{8007}{}{Uch... bo supermutanty nie ratuj¹ kotów...}
-{8008}{}{Zabijaj¹ je bez litoœci!}
-{8009}{}{Gdyby tak ktoœ zabi³ ciebie bez litszmnmhm...}
+{8007}{}{Uch... bo supermutanty nie ratujÄ… kotÃ³w...}
+{8008}{}{ZabijajÄ… je bez litoÅ›ci!}
+{8009}{}{Gdyby tak ktoÅ› zabiÅ‚ ciebie bez litszmnmhm...}
 {8010}{}{Kto je nazywa SUPER mutantami?}
-{8011}{}{Kim s¹ ci ludzie?}
-{8012}{}{To pewnie ci sami, którzy ciê zatrudnili!}
+{8011}{}{Kim sÄ… ci ludzie?}
+{8012}{}{To pewnie ci sami, ktÃ³rzy ciÄ™ zatrudnili!}
 {8013}{}{}
 {9000}{}{A co z tym pajacem, Myronem?}
-{9001}{}{Czy on mówi o mnie?}
-{9002}{}{Mówiê wam, co za wariat! Rodzice trzymali go chyba w piwnicy przez CA£E ¿ycie.}
+{9001}{}{Czy on mÃ³wi o mnie?}
+{9002}{}{MÃ³wiÄ™ wam, co za wariat! Rodzice trzymali go chyba w piwnicy przez CAÅE Å¼ycie.}
 {9003}{}{*Ha* *Ha* *Ha*}
 {9004}{}{Hej!}
-{9005}{}{No có¿ Myron, JESTEŒ pajacem.}
-{9006}{}{Nie przejmuj siê Myron. On po prostu stara siê byæ zabawny.}
-{9007}{}{Pewnie, masz ch³opoie szczêœcie, ¿e ci jeszcze nie skopa³em ty³ka!}
+{9005}{}{No cÃ³Å¼ Myron, JESTEÅš pajacem.}
+{9006}{}{Nie przejmuj siÄ™ Myron. On po prostu stara siÄ™ byÄ‡ zabawny.}
+{9007}{}{Pewnie, masz chÅ‚opoie szczÄ™Å›cie, Å¼e ci jeszcze nie skopaÅ‚em tyÅ‚ka!}
 {9008}{}{}
-{10000}{}{No wiêc, s³yszeliœcie ju¿ o tej g³upiej córce Bishopa, której ktoœ zrobi³ dziecko?}
+{10000}{}{No wiÄ™c, sÅ‚yszeliÅ›cie juÅ¼ o tej gÅ‚upiej cÃ³rce Bishopa, ktÃ³rej ktoÅ› zrobiÅ‚ dziecko?}
 {10001}{}{*Klap* *klap* *klap*}
 {10002}{}{::Gwizd::}
-{10003}{}{Zadziwiaj¹ce!}
-{11000}{}{He he. S³yszeliœcie ten dowcip o dzikusie, który wykosi³ Enklawê?}
-{11001}{}{Ten dzikus by³ taaaaak g³upi, ¿e, uch, ten dzikus, no wiêc... uch, wysadzi³ ich platformê.}
+{10003}{}{ZadziwiajÄ…ce!}
+{11000}{}{He he. SÅ‚yszeliÅ›cie ten dowcip o dzikusie, ktÃ³ry wykosiÅ‚ EnklawÄ™?}
+{11001}{}{Ten dzikus byÅ‚ taaaaak gÅ‚upi, Å¼e, uch, ten dzikus, no wiÄ™c... uch, wysadziÅ‚ ich platformÄ™.}
 {11002}{}{BUUM!}
-{11003}{}{Czy mówi³em, ¿e ten dzikus by³ g³upi?}
-{11004}{}{To ty jesteœ g³upi!}
+{11003}{}{Czy mÃ³wiÅ‚em, Å¼e ten dzikus byÅ‚ gÅ‚upi?}
+{11004}{}{To ty jesteÅ› gÅ‚upi!}
 {11005}{}{}

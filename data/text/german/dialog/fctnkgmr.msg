@@ -1,15 +1,15 @@
-{100}{}{Du siehst einen Händler.}
-{101}{}{Du siehst Cal, den Waffenhändler.}
+{100}{}{Du siehst einen HÃ¤ndler.}
+{101}{}{Du siehst Cal, den WaffenhÃ¤ndler.}
 {102}{}{Du siehst einen gelangweilt, aber freundlich wirkenden Mann.}
 {103}{}{Guten Tag, der Herr. Womit kann ich dienen?}
-{104}{}{Guten Tag, Fräulein. Womit kann ich dienen?}
+{104}{}{Guten Tag, FrÃ¤ulein. Womit kann ich dienen?}
 {105}{}{Ich wollen Information.}
 {106}{}{Was du haben?}
 {107}{}{Nein, ich gehen.}
 {108}{}{Ich brauche einige Informationen.}
 {109}{}{Klar, zeig mir was du hast.}
 {110}{}{Macht nichts.}
-{111}{}{Ich verkaufe keine Informationen. Ich handle mit Waffen. Möchtest du einen Blick auf
+{111}{}{Ich verkaufe keine Informationen. Ich handle mit Waffen. MÃ¶chtest du einen Blick auf
  meine Ware werfen?}
 {112}{}{Ja.}
 {113}{}{Nein.}
@@ -18,7 +18,7 @@
 {116}{}{Darf es sonst noch was sein?}
 {117}{}{Ja.}
 {118}{}{Nein.}
-{119}{}{Dann wünsche ich noch einen schönen Tag.}
+{119}{}{Dann wÃ¼nsche ich noch einen schÃ¶nen Tag.}
 {120}{}{OK.}
 {121}{}{Hallo, wieder da? Brauchst du Nachschub?}
 {122}{}{Ja.}

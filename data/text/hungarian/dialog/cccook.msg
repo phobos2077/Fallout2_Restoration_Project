@@ -1,86 +1,86 @@
-{100}{}{Szakács.}
-{101}{}{Cookie, a szakács.}
-{102}{}{Egy fickót látsz páncélban, amihez egy kuktasapkát és kötényt visel.}
-{103}{}{Üdv, katona! Valami kajcsit keresel, vagy csak dumálni akarsz?}
-{104}{}{Én akarni kaja!}
-{105}{}{Én akarja csak beszélni.}
-{106}{}{Hát, nem esne rosszul valami harapnivaló.}
-{107}{}{Dumáljunk egy kicsit!}
-{108}{}{Ott van, ni! Most zsindelyes szar van terítéken. A hó és a repül? szar meg amott van. Adhatok valami mást?}
+{100}{}{SzakÃ¡cs.}
+{101}{}{Cookie, a szakÃ¡cs.}
+{102}{}{Egy fickÃ³t lÃ¡tsz pÃ¡ncÃ©lban, amihez egy kuktasapkÃ¡t Ã©s kÃ¶tÃ©nyt visel.}
+{103}{}{Ãœdv, katona! Valami kajcsit keresel, vagy csak dumÃ¡lni akarsz?}
+{104}{}{Ã‰n akarni kaja!}
+{105}{}{Ã‰n akarja csak beszÃ©lni.}
+{106}{}{HÃ¡t, nem esne rosszul valami harapnivalÃ³.}
+{107}{}{DumÃ¡ljunk egy kicsit!}
+{108}{}{Ott van, ni! Most zsindelyes szar van terÃ­tÃ©ken. A hÃ³ Ã©s a repÃ¼l? szar meg amott van. Adhatok valami mÃ¡st?}
 {109}{}{Mit te akarol etetni nekem?}
-{110}{}{Szar? Hó? Milyen rohadt kaják ezek?}
-{111}{}{Áh, bocs, biztos új vagy a seregben. Ne vedd sértésnek, amit mondtam, csak mi így hívjuk itt a dolgokat. A zsindelyes szar marhaszelet tükörtojással, a hó és a repül? szar a só és a bors másik neve.}
-{112}{}{Áh, köszönni. Mi beszélni míg zaba megy.}
-{113}{}{Vettem a lapot, köszi. Dumcsizzunk egy kicsit, amíg eszem!}
-{114}{}{Mir?l akarsz dumálni?}
-{115}{}{Mi itt történik?}
-{116}{}{Merre gépmadár tervek lenni?}
-{118}{}{Merre lenni f?bázis?}
-{119}{}{Vissza kell nekünk most menni ?rhelyre. Köszönni.}
+{110}{}{Szar? HÃ³? Milyen rohadt kajÃ¡k ezek?}
+{111}{}{Ãh, bocs, biztos Ãºj vagy a seregben. Ne vedd sÃ©rtÃ©snek, amit mondtam, csak mi Ã­gy hÃ­vjuk itt a dolgokat. A zsindelyes szar marhaszelet tÃ¼kÃ¶rtojÃ¡ssal, a hÃ³ Ã©s a repÃ¼l? szar a sÃ³ Ã©s a bors mÃ¡sik neve.}
+{112}{}{Ãh, kÃ¶szÃ¶nni. Mi beszÃ©lni mÃ­g zaba megy.}
+{113}{}{Vettem a lapot, kÃ¶szi. Dumcsizzunk egy kicsit, amÃ­g eszem!}
+{114}{}{Mir?l akarsz dumÃ¡lni?}
+{115}{}{Mi itt tÃ¶rtÃ©nik?}
+{116}{}{Merre gÃ©pmadÃ¡r tervek lenni?}
+{118}{}{Merre lenni f?bÃ¡zis?}
+{119}{}{Vissza kell nekÃ¼nk most menni ?rhelyre. KÃ¶szÃ¶nni.}
 {120}{}{Mi ez a hely?}
-{121}{}{A gépmadarak érdekelnének. Ha a terveket akarom megnézni, merre keressem ?ket?}
+{121}{}{A gÃ©pmadarak Ã©rdekelnÃ©nek. Ha a terveket akarom megnÃ©zni, merre keressem ?ket?}
 {123}{}{Where's the Enclave main base located?}
-{124}{}{Köszönöm. Vissza kell mennem az ?rhelyemre.}
-{125}{}{A pletykák érdekelnek? Hallok én mindenr?l, tudom, hogy mennek a dolgok a szervízben, a laborokban, vagy épp honnan fúj a szél a katonák között.}
+{124}{}{KÃ¶szÃ¶nÃ¶m. Vissza kell mennem az ?rhelyemre.}
+{125}{}{A pletykÃ¡k Ã©rdekelnek? Hallok Ã©n mindenr?l, tudom, hogy mennek a dolgok a szervÃ­zben, a laborokban, vagy Ã©pp honnan fÃºj a szÃ©l a katonÃ¡k kÃ¶zÃ¶tt.}
 {126}{}{Mir?l akarsz hallani?}
 {127}{}{Mi lenni szerel?kkel?}
-{128}{}{Mi lenni kutatókkal?}
-{129}{}{Mi lenni katonákkal?}
-{130}{}{Másvalamit?}
-{131}{}{Én hallani eleget.}
-{132}{}{Mi a helyzet a szerel?knél?}
-{133}{}{Mi folyik a kutatóknál?}
-{134}{}{Hogy vannak a katonáink?}
-{135}{}{Bármi egyéb?}
-{136}{}{Köszönöm, eleget hallottam.}
-{137}{}{Raul, a gépmadár-mérnök nem kedveli Quincyt, a szerel?k f?nökét. ?k ketten mindig összevesznek, bár nem hiszem, hogy szakmai kérdésekben. Raul egy arrogáns seggfej, viszont Quincy jó csávó. Remélem, ? gy?z a végén.}
-{138}{}{Oké.}
+{128}{}{Mi lenni kutatÃ³kkal?}
+{129}{}{Mi lenni katonÃ¡kkal?}
+{130}{}{MÃ¡svalamit?}
+{131}{}{Ã‰n hallani eleget.}
+{132}{}{Mi a helyzet a szerel?knÃ©l?}
+{133}{}{Mi folyik a kutatÃ³knÃ¡l?}
+{134}{}{Hogy vannak a katonÃ¡ink?}
+{135}{}{BÃ¡rmi egyÃ©b?}
+{136}{}{KÃ¶szÃ¶nÃ¶m, eleget hallottam.}
+{137}{}{Raul, a gÃ©pmadÃ¡r-mÃ©rnÃ¶k nem kedveli Quincyt, a szerel?k f?nÃ¶kÃ©t. ?k ketten mindig Ã¶sszevesznek, bÃ¡r nem hiszem, hogy szakmai kÃ©rdÃ©sekben. Raul egy arrogÃ¡ns seggfej, viszont Quincy jÃ³ csÃ¡vÃ³. RemÃ©lem, ? gy?z a vÃ©gÃ©n.}
+{138}{}{OkÃ©.}
 {139}{}{Jaja, veszem, veszem.}
-{140}{}{Az orvosi labort kisajátította egy Enklávés tojásfej, az a Schrebber. Elmehetne a kurva anyjába, nem tör?dik senkivel és semmivel! Valami kísérleteket végez odalent, de nem tudom miféléket. Azt viszont tudom, hogy a laborból állandóan kisz?r?d? zajok úgy felbaszták a parancsnokot, hogy hangszigeteltette a szobát.}
-{141}{}{Értem.}
+{140}{}{Az orvosi labort kisajÃ¡tÃ­totta egy EnklÃ¡vÃ©s tojÃ¡sfej, az a Schrebber. Elmehetne a kurva anyjÃ¡ba, nem tÃ¶r?dik senkivel Ã©s semmivel! Valami kÃ­sÃ©rleteket vÃ©gez odalent, de nem tudom mifÃ©lÃ©ket. Azt viszont tudom, hogy a laborbÃ³l Ã¡llandÃ³an kisz?r?d? zajok Ãºgy felbasztÃ¡k a parancsnokot, hogy hangszigeteltette a szobÃ¡t.}
+{141}{}{Ã‰rtem.}
 {142}{}{That's interesting. }
-{143}{}{Óh, románcról beszél mindenki, barátom! Az egyik számítógép-zseni beleesett a labor el?tt posztoló ?rbe. Mindenféle becenevet kitalál neki, "Csacsifül", meg ilyen baromságok.}
+{143}{}{Ã“h, romÃ¡ncrÃ³l beszÃ©l mindenki, barÃ¡tom! Az egyik szÃ¡mÃ­tÃ³gÃ©p-zseni beleesett a labor el?tt posztolÃ³ ?rbe. MindenfÃ©le becenevet kitalÃ¡l neki, "CsacsifÃ¼l", meg ilyen baromsÃ¡gok.}
 {144}{}{Nem semmi.}
-{145}{}{Na, ennyi volt mára, de ha hallok valami újat, feltétlen tájékoztatlak. Veled igazán jókat lehet dumálni. És ezekr?l legalább annyira szeretek beszélni, mint amennyire hallgatni ?ket.}
-{146}{}{Köszi.}
-{147}{}{Miért érdekel ez téged? Eh, nem az én dolgom, végül is. Quincy tartja ?ket valahol a szervizben. Legalábbis én így tudom.}
-{148}{}{Oké.}
-{149}{}{Hová vonszolni?}
-{150}{}{Értem.}
+{145}{}{Na, ennyi volt mÃ¡ra, de ha hallok valami Ãºjat, feltÃ©tlen tÃ¡jÃ©koztatlak. Veled igazÃ¡n jÃ³kat lehet dumÃ¡lni. Ã‰s ezekr?l legalÃ¡bb annyira szeretek beszÃ©lni, mint amennyire hallgatni ?ket.}
+{146}{}{KÃ¶szi.}
+{147}{}{MiÃ©rt Ã©rdekel ez tÃ©ged? Eh, nem az Ã©n dolgom, vÃ©gÃ¼l is. Quincy tartja ?ket valahol a szervizben. LegalÃ¡bbis Ã©n Ã­gy tudom.}
+{148}{}{OkÃ©.}
+{149}{}{HovÃ¡ vonszolni?}
+{150}{}{Ã‰rtem.}
 {151}{}{Where's that?}
-{152}{}{A bázis észak-keleti csücskénél, haver. Nem lehet eltéveszteni.}
-{153}{}{Oké. Kösz.}
-{156}{}{Meglep, hogy nem tudod, te biztos valami helybéli lehetsz. A f?bázis ennek az istenverte óceánnak az istenverte közepén van. Nem, nem pontosan a közepén, na mindegy. Az egyetlen mód, hogy eljuss oda, ha hajóval vagy gépmadárral mész. Viszont azt a hajót faszán fel kell ám tankolni, haver! Meg valami FBK is kell hozzá.}
+{152}{}{A bÃ¡zis Ã©szak-keleti csÃ¼cskÃ©nÃ©l, haver. Nem lehet eltÃ©veszteni.}
+{153}{}{OkÃ©. KÃ¶sz.}
+{156}{}{Meglep, hogy nem tudod, te biztos valami helybÃ©li lehetsz. A f?bÃ¡zis ennek az istenverte Ã³ceÃ¡nnak az istenverte kÃ¶zepÃ©n van. Nem, nem pontosan a kÃ¶zepÃ©n, na mindegy. Az egyetlen mÃ³d, hogy eljuss oda, ha hajÃ³val vagy gÃ©pmadÃ¡rral mÃ©sz. Viszont azt a hajÃ³t faszÃ¡n fel kell Ã¡m tankolni, haver! Meg valami FBK is kell hozzÃ¡.}
 {157}{}{FBK?}
-{158}{}{Igen, egy kódkártya. Fedélzeti Biztonsági Kódkártya. A bázisparancsnok ?rzi valahol a szekrényében. Enélkül nem tudsz hozzáférni a hajó bizonyos részeihez. Jó dolog, mert távol tartja a San Francisco-i hívatlan vendégeket.}
-{159}{}{Jó ötlet.}
+{158}{}{Igen, egy kÃ³dkÃ¡rtya. FedÃ©lzeti BiztonsÃ¡gi KÃ³dkÃ¡rtya. A bÃ¡zisparancsnok ?rzi valahol a szekrÃ©nyÃ©ben. EnÃ©lkÃ¼l nem tudsz hozzÃ¡fÃ©rni a hajÃ³ bizonyos rÃ©szeihez. JÃ³ dolog, mert tÃ¡vol tartja a San Francisco-i hÃ­vatlan vendÃ©geket.}
+{159}{}{JÃ³ Ã¶tlet.}
 {160}{}{Hol lenni parancsnok iroda?}
-{161}{}{Ez jó ötlet, Cookie.}
-{162}{}{Szóval hol van a parancsnok irodája?}
-{163}{}{Menj le a lifttel az alsó szintre, kövesd a folyosót a f? találkozási helyig, aztán csak menj egyenesen.}
-{164}{}{Köszi.}
-{165}{}{Üdv, katona! Ezúttal zaba vagy duma lesz?}
+{161}{}{Ez jÃ³ Ã¶tlet, Cookie.}
+{162}{}{SzÃ³val hol van a parancsnok irodÃ¡ja?}
+{163}{}{Menj le a lifttel az alsÃ³ szintre, kÃ¶vesd a folyosÃ³t a f? talÃ¡lkozÃ¡si helyig, aztÃ¡n csak menj egyenesen.}
+{164}{}{KÃ¶szi.}
+{165}{}{Ãœdv, katona! EzÃºttal zaba vagy duma lesz?}
 {166}{}{Kaja.}
 {167}{}{Duma.}
-{168}{}{Csak benézni.}
-{169}{}{Kösz, egyik sem. Csak benéztem.}
-{170}{}{Nesze. Döglött, f?tt, és azonosíthatatlan. Jó étvágyat!}
-{171}{}{Uhm... köszi.}
+{168}{}{Csak benÃ©zni.}
+{169}{}{KÃ¶sz, egyik sem. Csak benÃ©ztem.}
+{170}{}{Nesze. DÃ¶glÃ¶tt, f?tt, Ã©s azonosÃ­thatatlan. JÃ³ Ã©tvÃ¡gyat!}
+{171}{}{Uhm... kÃ¶szi.}
 {172}{}{Son, I can tell from the smell that you're not wearin' one of them powered armor suits.
  If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
 {173}{}{Little lady, I can tell from the smell that you're not wearin' one of them powered armor suits.
  If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
-{174}{}{Hová vonszolni?}
-{175}{}{Oké.}
+{174}{}{HovÃ¡ vonszolni?}
+{175}{}{OkÃ©.}
 {176}{}{Where's that?}
-{177}{}{Majd elintézem.}
-{178}{}{Menj le a lifttel egyel lejjebb, aztán kövesd a folyosót a f? elágazásig, utána menj balra és menj be az els? ajtón.}
-{179}{}{Köszi.}
-{180}{}{Szent szar! Én csak egy szakács vagyok! Ráadásul vak is. Meg nem is látok itt semmi behatolót!}
-{181}{}{Köszi.}
-{182}{}{Kibaszott szirénák. Mindig ez a zenebona megy, ha megszólalnak.}
-{183}{}{Mi a fene történik már megint?! Leégett a bableves?}
-{184}{}{Bárcsak csöndes szirénáink lennének, hogy basszák meg! Megfájdul a fejem ett?l a szartól!}
-{185}{}{Addig fogom pirítani a segged, amíg aranybarna nem lesz, utána felszolgálom.}
-{186}{}{Most aztán benne vagy a slamasztikában! Hah! Csak vicceltem.}
-{187}{}{Csöbörb?l vödörbe...}
+{177}{}{Majd elintÃ©zem.}
+{178}{}{Menj le a lifttel egyel lejjebb, aztÃ¡n kÃ¶vesd a folyosÃ³t a f? elÃ¡gazÃ¡sig, utÃ¡na menj balra Ã©s menj be az els? ajtÃ³n.}
+{179}{}{KÃ¶szi.}
+{180}{}{Szent szar! Ã‰n csak egy szakÃ¡cs vagyok! RÃ¡adÃ¡sul vak is. Meg nem is lÃ¡tok itt semmi behatolÃ³t!}
+{181}{}{KÃ¶szi.}
+{182}{}{Kibaszott szirÃ©nÃ¡k. Mindig ez a zenebona megy, ha megszÃ³lalnak.}
+{183}{}{Mi a fene tÃ¶rtÃ©nik mÃ¡r megint?! LeÃ©gett a bableves?}
+{184}{}{BÃ¡rcsak csÃ¶ndes szirÃ©nÃ¡ink lennÃ©nek, hogy basszÃ¡k meg! MegfÃ¡jdul a fejem ett?l a szartÃ³l!}
+{185}{}{Addig fogom pirÃ­tani a segged, amÃ­g aranybarna nem lesz, utÃ¡na felszolgÃ¡lom.}
+{186}{}{Most aztÃ¡n benne vagy a slamasztikÃ¡ban! Hah! Csak vicceltem.}
+{187}{}{CsÃ¶bÃ¶rb?l vÃ¶dÃ¶rbe...}

@@ -1,65 +1,65 @@
-{100}{}{Widzisz ³ysiej¹cego mê¿czyznê w kitlu labolatoryjnym.}
-{101}{}{Widzisz Toma Murraya, przewodnicz¹cego Komisji Energii Atomowej.}
-{102}{}{Widzisz bardzo nerwowego cz³owieka w nieskazitelnie czystym kitlu labolatoryjnym.}
-{103}{}{Moja maszyna! Moja piêkna maszyna zniszczona. (Chlip, chlip)}
-{104}{}{Jesteœmy zgubieni.}
-{105}{}{Bez komputera reaktor siê stopi!}
-{106}{}{Nie potrafiê nawet p³ywaæ.}
-{107}{}{Mo¿e uda mi siê go naprawiæ...}
+{100}{}{Widzisz Å‚ysiejÄ…cego mÄ™Å¼czyznÄ™ w kitlu labolatoryjnym.}
+{101}{}{Widzisz Toma Murraya, przewodniczÄ…cego Komisji Energii Atomowej.}
+{102}{}{Widzisz bardzo nerwowego czÅ‚owieka w nieskazitelnie czystym kitlu labolatoryjnym.}
+{103}{}{Moja maszyna! Moja piÄ™kna maszyna zniszczona. (Chlip, chlip)}
+{104}{}{JesteÅ›my zgubieni.}
+{105}{}{Bez komputera reaktor siÄ™ stopi!}
+{106}{}{Nie potrafiÄ™ nawet pÅ‚ywaÄ‡.}
+{107}{}{MoÅ¼e uda mi siÄ™ go naprawiÄ‡...}
 {108}{}{Co to za alarm?}
-{109}{}{Co tu siê dzieje?}
+{109}{}{Co tu siÄ™ dzieje?}
 {110}{}{Bez paniki. BEZ PANIKI!!!!!!!!!!!!}
 {111}{}{OK, spokojnie. }
-{112}{}{Mo¿e to tylko æwiczenia.}
-{113}{}{Wróæ do [detention level].}
-{114}{}{Naprawdê widaæ ró¿nicê.}
+{112}{}{MoÅ¼e to tylko Ä‡wiczenia.}
+{113}{}{WrÃ³Ä‡ do [detention level].}
+{114}{}{NaprawdÄ™ widaÄ‡ rÃ³Å¼nicÄ™.}
 {115}{}{Bystrzak z ciebie.}
-{116}{}{Twój mózg nie pracuje zbyt szybko, co?}
-{117}{}{Jeœli siê przydasz, obiecujê, ¿e dostaniesz ciastko, gdy wrócisz do celi.}
-{118}{}{Ty tam, nie mo¿esz nosiæ tego tutaj.}
-{119}{}{Bêdê nosiæ swój pancerz tam, gdzie chcê.}
-{120}{}{Och, przepraszam, sir. Lepiej ju¿ pójdê.}
-{121}{}{Bêdziesz nosiæ, tak? W takim razie bêdê musia³ to zg³osiæ.}
-{122}{}{No, dalej. Zrób mi przyjemnoœæ.}
-{123}{}{Och, proszê, nie rób tego. Ju¿ sobie idê, do widzenia.}
-{124}{}{Jestem Tom Murray, przewodnicz¹cy Komisji Energii Atomowej. Nadzorujê pracê naszej elektrowni atomowej. Kim do cholery jesteœ i co tu robisz?}
+{116}{}{TwÃ³j mÃ³zg nie pracuje zbyt szybko, co?}
+{117}{}{JeÅ›li siÄ™ przydasz, obiecujÄ™, Å¼e dostaniesz ciastko, gdy wrÃ³cisz do celi.}
+{118}{}{Ty tam, nie moÅ¼esz nosiÄ‡ tego tutaj.}
+{119}{}{BÄ™dÄ™ nosiÄ‡ swÃ³j pancerz tam, gdzie chcÄ™.}
+{120}{}{Och, przepraszam, sir. Lepiej juÅ¼ pÃ³jdÄ™.}
+{121}{}{BÄ™dziesz nosiÄ‡, tak? W takim razie bÄ™dÄ™ musiaÅ‚ to zgÅ‚osiÄ‡.}
+{122}{}{No, dalej. ZrÃ³b mi przyjemnoÅ›Ä‡.}
+{123}{}{Och, proszÄ™, nie rÃ³b tego. JuÅ¼ sobie idÄ™, do widzenia.}
+{124}{}{Jestem Tom Murray, przewodniczÄ…cy Komisji Energii Atomowej. NadzorujÄ™ pracÄ™ naszej elektrowni atomowej. Kim do cholery jesteÅ› i co tu robisz?}
 {125}{}{Czego znowu chcesz, do cholery?}
-{126}{}{Muszê wy³¹czyæ reaktor atomowy.}
-{127}{}{Ciekawi mnie tylko, jak dzia³a reaktor.}
-{128}{}{Muszê ciê zabiæ.}
-{129}{}{Pomocy! Ratunku! Pomó¿cie mi!}
+{126}{}{MuszÄ™ wyÅ‚Ä…czyÄ‡ reaktor atomowy.}
+{127}{}{Ciekawi mnie tylko, jak dziaÅ‚a reaktor.}
+{128}{}{MuszÄ™ ciÄ™ zabiÄ‡.}
+{129}{}{Pomocy! Ratunku! PomÃ³Å¼cie mi!}
 {130}{}{Intruzi! Alarm!}
-{131}{}{Ratujcie ¿ycie! Dzikusy na wolnoœci!}
-{132}{}{Stra¿e! Poooomoocyyy!}
+{131}{}{Ratujcie Å¼ycie! Dzikusy na wolnoÅ›ci!}
+{132}{}{StraÅ¼e! Poooomoocyyy!}
 {133}{}{Intruzi! Alarm! Intruzi!}
-{134}{}{Wy³¹czyæ? Nie wy³¹czysz *mojego* reaktora.}
-{135}{}{W³aœnie, ¿e wy³¹czê. Lepiej powiedz mi jak, albo wy³¹czê go raz na zawsze.}
-{136}{}{Wy³¹czyæ? Przepraszam, chcê dowiedzieæ siê tylko, jak dzia³a ta elektrownia.}
-{137}{}{Och, jest twój? Trzeba by³o tak od razu. W takim razie do widzenia.}
-{138}{}{Wiesz co? Zrobiê to. Ale jeœli wy³¹czysz go za szybko, przegrzeje siê.}
-{139}{}{Nie obchodzi mnie to. Po prostu go wy³¹cz, albo ciê wypatroszê.}
-{140}{}{To brzmi groŸnie. Dobra, zapomnij o tym. Na razie.}
-{141}{}{Blefujesz. Nie oœmielisz siê.}
-{142}{}{W³aœnie, ¿e tak. Jeœli mi nie pomo¿esz, bêdziesz martwy.}
-{143}{}{Widzê, ¿e nie przejawiasz chêci wspó³pracy. Có¿, nie mogê pozwoliæ ci na w³¹czenie alarmu. }
-{144}{}{Hej, to tylko ¿arty. Jak w³aœciwie dzia³a twój reaktor?}
-{145}{}{Tak, chyba masz racjê. Lepiej siê nie odzywaj przez chwilê, gdy st¹d odejdê. Do widzenia.}
-{146}{}{Dobra, dobra. Zrobiê to. Tylko spokojnie. Ale mówiê ci - przegrzeje siê, gdy tylko od³¹czê przewody izoluj¹ce. Jeœli wy³¹czymy go w ten sposób, bêdziemy musieli uciekaæ naprawdê szybko, albo zacz¹æ uczyæ siê chiñskiego.}
-{147}{}{Dobra, mniejsza z tym. Po prostu wy³¹cz to cholerstwo!}
-{148}{}{To brzmi groŸnie. Mo¿e poszukam innego sposobu. Nie chcê niczego tu niszczyæ. Do widzenia.}
-{149}{}{Nie zamierzam ryzykowaæ ¿ycia wszystkich tutaj. Nie ma mowy. }
-{150}{}{Przykro mi to s³yszeæ. W takim razie bêdê musia³ ciê zabiæ. Nic osobistego.}
-{151}{}{W jaki sposób narazi to ¿ycie innych? Jak to w³aœciwie dzia³a?}
-{152}{}{Chyba muszê poszukaæ innego sposobu wy³¹czenia zasilania. Lepiej nie ha³asuj, gdy st¹d pójdê.}
-{153}{}{W porz¹dku. Dobra, uch, przesun¹æ to na zielone. (Przez parê minut przestawia coœ w panelu sterowania, mówi¹c do siebie) Dobra, zrobione, ale na pewno nie bêdzie to stabilne zbyt d³ugo.}
-{154}{}{Dobrze post¹pi³eœ. Muszê ju¿ iœæ. Lepiej b¹dŸ przez chwilê cicho.}
-{155}{}{Dobra robota. Teraz muszê ciê zabiæ. Przykro mi, ale nie mogê zostawiæ œwiadków.}
-{156}{}{Muszê ju¿ iœæ. Do widzenia.}
-{157}{}{Nie sterujê wszystkim w reaktorze. Centralny komputer na pó³noc od reaktora kontroluje wiêkszoœæ jego funkcji. Gdyby go nie by³o, nie mielibyœmy pr¹du.}
-{158}{}{¯adnego?}
-{159}{}{Có¿, niezbyt wiele. Œwiat³o, podtrzymywanie ¿ycia i systemy obronne dzia³a³yby przez jakiœ czas, ale pola si³owe i inne urz¹dzenia wymagaj¹ce du¿ej iloœci energii zosta³yby wy³¹czone.}
-{160}{}{To by was chyba rzeczywiœcie zniszczy³o.}
-{161}{}{Có¿, nie by³oby to zbyt mi³e. Wszystkie zewnêtrzne wyjœcia zosta³yby automatycznie zamkniête, bez mo¿liwoœci otwarcia ich, a¿ do przywrócenia zasilania. To kwestia bezpieczeñstwa.}
-{162}{}{Interesuj¹ce. Czy mogê spytaæ o coœ jeszcze?}
-{163}{}{To wszystko, czego mi potrzeba. By³eœ mi bardzo pomocny. Lepiej b¹dŸ cicho, gdy sobie pójdê.}
-{164}{}{Dziêki. Szkoda, ¿e tego nie do¿yjesz.}
+{134}{}{WyÅ‚Ä…czyÄ‡? Nie wyÅ‚Ä…czysz *mojego* reaktora.}
+{135}{}{WÅ‚aÅ›nie, Å¼e wyÅ‚Ä…czÄ™. Lepiej powiedz mi jak, albo wyÅ‚Ä…czÄ™ go raz na zawsze.}
+{136}{}{WyÅ‚Ä…czyÄ‡? Przepraszam, chcÄ™ dowiedzieÄ‡ siÄ™ tylko, jak dziaÅ‚a ta elektrownia.}
+{137}{}{Och, jest twÃ³j? Trzeba byÅ‚o tak od razu. W takim razie do widzenia.}
+{138}{}{Wiesz co? ZrobiÄ™ to. Ale jeÅ›li wyÅ‚Ä…czysz go za szybko, przegrzeje siÄ™.}
+{139}{}{Nie obchodzi mnie to. Po prostu go wyÅ‚Ä…cz, albo ciÄ™ wypatroszÄ™.}
+{140}{}{To brzmi groÅºnie. Dobra, zapomnij o tym. Na razie.}
+{141}{}{Blefujesz. Nie oÅ›mielisz siÄ™.}
+{142}{}{WÅ‚aÅ›nie, Å¼e tak. JeÅ›li mi nie pomoÅ¼esz, bÄ™dziesz martwy.}
+{143}{}{WidzÄ™, Å¼e nie przejawiasz chÄ™ci wspÃ³Å‚pracy. CÃ³Å¼, nie mogÄ™ pozwoliÄ‡ ci na wÅ‚Ä…czenie alarmu. }
+{144}{}{Hej, to tylko Å¼arty. Jak wÅ‚aÅ›ciwie dziaÅ‚a twÃ³j reaktor?}
+{145}{}{Tak, chyba masz racjÄ™. Lepiej siÄ™ nie odzywaj przez chwilÄ™, gdy stÄ…d odejdÄ™. Do widzenia.}
+{146}{}{Dobra, dobra. ZrobiÄ™ to. Tylko spokojnie. Ale mÃ³wiÄ™ ci - przegrzeje siÄ™, gdy tylko odÅ‚Ä…czÄ™ przewody izolujÄ…ce. JeÅ›li wyÅ‚Ä…czymy go w ten sposÃ³b, bÄ™dziemy musieli uciekaÄ‡ naprawdÄ™ szybko, albo zaczÄ…Ä‡ uczyÄ‡ siÄ™ chiÅ„skiego.}
+{147}{}{Dobra, mniejsza z tym. Po prostu wyÅ‚Ä…cz to cholerstwo!}
+{148}{}{To brzmi groÅºnie. MoÅ¼e poszukam innego sposobu. Nie chcÄ™ niczego tu niszczyÄ‡. Do widzenia.}
+{149}{}{Nie zamierzam ryzykowaÄ‡ Å¼ycia wszystkich tutaj. Nie ma mowy. }
+{150}{}{Przykro mi to sÅ‚yszeÄ‡. W takim razie bÄ™dÄ™ musiaÅ‚ ciÄ™ zabiÄ‡. Nic osobistego.}
+{151}{}{W jaki sposÃ³b narazi to Å¼ycie innych? Jak to wÅ‚aÅ›ciwie dziaÅ‚a?}
+{152}{}{Chyba muszÄ™ poszukaÄ‡ innego sposobu wyÅ‚Ä…czenia zasilania. Lepiej nie haÅ‚asuj, gdy stÄ…d pÃ³jdÄ™.}
+{153}{}{W porzÄ…dku. Dobra, uch, przesunÄ…Ä‡ to na zielone. (Przez parÄ™ minut przestawia coÅ› w panelu sterowania, mÃ³wiÄ…c do siebie) Dobra, zrobione, ale na pewno nie bÄ™dzie to stabilne zbyt dÅ‚ugo.}
+{154}{}{Dobrze postÄ…piÅ‚eÅ›. MuszÄ™ juÅ¼ iÅ›Ä‡. Lepiej bÄ…dÅº przez chwilÄ™ cicho.}
+{155}{}{Dobra robota. Teraz muszÄ™ ciÄ™ zabiÄ‡. Przykro mi, ale nie mogÄ™ zostawiÄ‡ Å›wiadkÃ³w.}
+{156}{}{MuszÄ™ juÅ¼ iÅ›Ä‡. Do widzenia.}
+{157}{}{Nie sterujÄ™ wszystkim w reaktorze. Centralny komputer na pÃ³Å‚noc od reaktora kontroluje wiÄ™kszoÅ›Ä‡ jego funkcji. Gdyby go nie byÅ‚o, nie mielibyÅ›my prÄ…du.}
+{158}{}{Å»adnego?}
+{159}{}{CÃ³Å¼, niezbyt wiele. ÅšwiatÅ‚o, podtrzymywanie Å¼ycia i systemy obronne dziaÅ‚aÅ‚yby przez jakiÅ› czas, ale pola siÅ‚owe i inne urzÄ…dzenia wymagajÄ…ce duÅ¼ej iloÅ›ci energii zostaÅ‚yby wyÅ‚Ä…czone.}
+{160}{}{To by was chyba rzeczywiÅ›cie zniszczyÅ‚o.}
+{161}{}{CÃ³Å¼, nie byÅ‚oby to zbyt miÅ‚e. Wszystkie zewnÄ™trzne wyjÅ›cia zostaÅ‚yby automatycznie zamkniÄ™te, bez moÅ¼liwoÅ›ci otwarcia ich, aÅ¼ do przywrÃ³cenia zasilania. To kwestia bezpieczeÅ„stwa.}
+{162}{}{InteresujÄ…ce. Czy mogÄ™ spytaÄ‡ o coÅ› jeszcze?}
+{163}{}{To wszystko, czego mi potrzeba. ByÅ‚eÅ› mi bardzo pomocny. Lepiej bÄ…dÅº cicho, gdy sobie pÃ³jdÄ™.}
+{164}{}{DziÄ™ki. Szkoda, Å¼e tego nie doÅ¼yjesz.}

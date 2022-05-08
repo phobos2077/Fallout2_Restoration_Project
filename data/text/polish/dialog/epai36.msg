@@ -1,30 +1,30 @@
 {100}{}{Widzisz komputer.}
-{150}{}{Proszê wybraæ jedn¹ z poni¿szych opcji.}
+{150}{}{ProszÄ™ wybraÄ‡ jednÄ… z poniÅ¼szych opcji.}
 {151}{}{Informacja.}
-{152}{}{Dostêp dla pracowników.}
-{160}{}{Proszê wybraæ jedn¹ z poni¿szych opcji.}
-{161}{}{Opuœæ pola si³owe.}
-{162}{}{[Wróæ.]}
-{170}{}{Aby opuœciæ pola si³owe, proszê wprowadziæ has³o dostêpu. (Jeœli has³o zosta³o stracone lub zapomniane, proszê zwróciæ siê do Hologramu 40011, Dyrektorki do spraw Public Relations.)}
+{152}{}{DostÄ™p dla pracownikÃ³w.}
+{160}{}{ProszÄ™ wybraÄ‡ jednÄ… z poniÅ¼szych opcji.}
+{161}{}{OpuÅ›Ä‡ pola siÅ‚owe.}
+{162}{}{[WrÃ³Ä‡.]}
+{170}{}{Aby opuÅ›ciÄ‡ pola siÅ‚owe, proszÄ™ wprowadziÄ‡ hasÅ‚o dostÄ™pu. (JeÅ›li hasÅ‚o zostaÅ‚o stracone lub zapomniane, proszÄ™ zwrÃ³ciÄ‡ siÄ™ do Hologramu 40011, Dyrektorki do spraw Public Relations.)}
 {171}{}{ABRE}
-{172}{}{[Wróæ.]}
-{180}{}{Dziêkujê. Pola si³owe s¹ teraz wy³¹czone.}
+{172}{}{[WrÃ³Ä‡.]}
+{180}{}{DziÄ™kujÄ™. Pola siÅ‚owe sÄ… teraz wyÅ‚Ä…czone.}
 {181}{}{[dalej]}
-{200}{}{Witam w Ma³ym Zoo AOŒ! Tutaj bêdziecie mieli przyjemnoœæ dotkn¹æ tych unikatowych stworzeñ, które wygl¹daj¹ jak potwornie zdeformowani ludzie! A to dlatego, ¿e te obrzydliwe bestie s¹ rezultatem ekscytuj¹cych eksperymentów w których nasi genialni naukowcy próbuj¹ po³¹czyæ DNA ludzi i zwierz¹t!}
+{200}{}{Witam w MaÅ‚ym Zoo AOÅš! Tutaj bÄ™dziecie mieli przyjemnoÅ›Ä‡ dotknÄ…Ä‡ tych unikatowych stworzeÅ„, ktÃ³re wyglÄ…dajÄ… jak potwornie zdeformowani ludzie! A to dlatego, Å¼e te obrzydliwe bestie sÄ… rezultatem ekscytujÄ…cych eksperymentÃ³w w ktÃ³rych nasi genialni naukowcy prÃ³bujÄ… poÅ‚Ä…czyÄ‡ DNA ludzi i zwierzÄ…t!}
 {201}{}{[KONTYNUUJ]}
-{210}{}{W teorii, ta nowa dziedzina nauki mo¿e nam pozwoliæ w przysz³oœci stworzyæ “Super Osobê”. WyobraŸcie sobie amerykañskiego ¿o³nierza który ma wzrok or³a, szybkoœæ pantery i si³ê ma³py! WyobraŸcie sobie jaki ten “Super ¯o³nierz” budzi³by strach w sercach komuchów! Brzmi to jak fikcja popularnonaukowa, ale wkrótce, mo¿e siê to staæ naukowym faktem!}
+{210}{}{W teorii, ta nowa dziedzina nauki moÅ¼e nam pozwoliÄ‡ w przyszÅ‚oÅ›ci stworzyÄ‡ â€œSuper OsobÄ™â€. WyobraÅºcie sobie amerykaÅ„skiego Å¼oÅ‚nierza ktÃ³ry ma wzrok orÅ‚a, szybkoÅ›Ä‡ pantery i siÅ‚Ä™ maÅ‚py! WyobraÅºcie sobie jaki ten â€œSuper Å»oÅ‚nierzâ€ budziÅ‚by strach w sercach komuchÃ³w! Brzmi to jak fikcja popularnonaukowa, ale wkrÃ³tce, moÅ¼e siÄ™ to staÄ‡ naukowym faktem!}
 {211}{}{[KONTYNUUJ]}
-{220}{}{Stwory, które tu widzicie s¹ rezultatem eksperymentów, które nie zupe³nie zakoñczy³y siê sukcesem. Ale zamiast dokonaæ eutanazji tych odra¿aj¹cych pora¿ek, uznaliœmy, ¿e bêdzie zabawniej umieœciæ je w zoo do g³askania. Nie martwcie siê, pomimo ich przera¿aj¹cego wygl¹du, nie powinny byæ agresywne, przynajmniej dopóki s¹ dobrze karmione. Z dum¹ informuje, ¿e w ostatnim roku zanotowaliœmy tylko trzy ofiary œmiertelne wœród odwiedzaj¹cych!}
+{220}{}{Stwory, ktÃ³re tu widzicie sÄ… rezultatem eksperymentÃ³w, ktÃ³re nie zupeÅ‚nie zakoÅ„czyÅ‚y siÄ™ sukcesem. Ale zamiast dokonaÄ‡ eutanazji tych odraÅ¼ajÄ…cych poraÅ¼ek, uznaliÅ›my, Å¼e bÄ™dzie zabawniej umieÅ›ciÄ‡ je w zoo do gÅ‚askania. Nie martwcie siÄ™, pomimo ich przeraÅ¼ajÄ…cego wyglÄ…du, nie powinny byÄ‡ agresywne, przynajmniej dopÃ³ki sÄ… dobrze karmione. Z dumÄ… informuje, Å¼e w ostatnim roku zanotowaliÅ›my tylko trzy ofiary Å›miertelne wÅ›rÃ³d odwiedzajÄ…cych!}
 {221}{}{[Wyloguj.]}
-{300}{}{Przedstawiam wam, nasz najnowszy okaz! Ta dziwnie wygl¹daj¹ce mackowate kreatury, które zobaczycie w tej klatce mog¹ wygl¹daæ na przybyszy z kosmosu, ale to nie obcy, w rzeczywistoœci, zostali stworzeni dok³adnie tutaj w Ameryce! Jak z pewnoœci¹ siê domyœlacie, nie zostali stworzeni przez matkê naturê, tylko przez naukê!}
+{300}{}{Przedstawiam wam, nasz najnowszy okaz! Ta dziwnie wyglÄ…dajÄ…ce mackowate kreatury, ktÃ³re zobaczycie w tej klatce mogÄ… wyglÄ…daÄ‡ na przybyszy z kosmosu, ale to nie obcy, w rzeczywistoÅ›ci, zostali stworzeni dokÅ‚adnie tutaj w Ameryce! Jak z pewnoÅ›ciÄ… siÄ™ domyÅ›lacie, nie zostali stworzeni przez matkÄ™ naturÄ™, tylko przez naukÄ™!}
 {301}{}{[KONTYNUUJ]}
-{310}{}{W³aœnie tak, te nieustraszone potwory zosta³y zaprojektowane przez amerykañskich naukowców w œciœle tajnych laboratoriach, jako najnowsza broñ w walce o wolnoœæ. Ich potê¿ne macki i ostre zêby zosta³y zaprojektowane specjalnie do rozrywania wrogów Ameryki. Ich macki znakomicie nadaj¹ siê równie¿ do kopania, aby komuchy nie by³y bezpieczne nawet w swoich podziemnych bunkrach! Ponadto, ci nieustêpliwi zabójcy, maj¹ skórê tak grub¹, ¿e kulom ciê¿ko j¹ przebiæ!}
+{310}{}{WÅ‚aÅ›nie tak, te nieustraszone potwory zostaÅ‚y zaprojektowane przez amerykaÅ„skich naukowcÃ³w w Å›ciÅ›le tajnych laboratoriach, jako najnowsza broÅ„ w walce o wolnoÅ›Ä‡. Ich potÄ™Å¼ne macki i ostre zÄ™by zostaÅ‚y zaprojektowane specjalnie do rozrywania wrogÃ³w Ameryki. Ich macki znakomicie nadajÄ… siÄ™ rÃ³wnieÅ¼ do kopania, aby komuchy nie byÅ‚y bezpieczne nawet w swoich podziemnych bunkrach! Ponadto, ci nieustÄ™pliwi zabÃ³jcy, majÄ… skÃ³rÄ™ tak grubÄ…, Å¼e kulom ciÄ™Å¼ko jÄ… przebiÄ‡!}
 {311}{}{[KONTYNUUJ]}
-{320}{}{Patrzycie na przysz³oœæ biologicznych dzia³añ wojennych! Ale nie martwcie siê, te wredne maszyny do zabijania nie mog¹ was dostaæ, jako ¿e s¹ bezpiecznie zamkniête w solidnie zabezpieczonych klatkach. Musicie nam wybaczyæ s³abe oœwietlenie, ale ci goœcie najlepiej czuj¹ siê w ch³odnych, ciemnych miejscach, a chyba nie chcielibyœcie ich dra¿niæ, prawda?}
+{320}{}{Patrzycie na przyszÅ‚oÅ›Ä‡ biologicznych dziaÅ‚aÅ„ wojennych! Ale nie martwcie siÄ™, te wredne maszyny do zabijania nie mogÄ… was dostaÄ‡, jako Å¼e sÄ… bezpiecznie zamkniÄ™te w solidnie zabezpieczonych klatkach. Musicie nam wybaczyÄ‡ sÅ‚abe oÅ›wietlenie, ale ci goÅ›cie najlepiej czujÄ… siÄ™ w chÅ‚odnych, ciemnych miejscach, a chyba nie chcielibyÅ›cie ich draÅ¼niÄ‡, prawda?}
 {321}{}{[Wyloguj.]}
-{400}{}{Tutaj widzicie roœliny niepodobne do niczego co widzieliœcie przedtem! Ten ekscytuj¹cy nowy gatunek, wywodz¹cy siê od rosiczki, zosta³ specjalnie zaprojektowany przez naszych genialnych naukowców aby przetrwaæ w œwiecie zniszczonym wojna nuklearn¹. Dlaczego mielibyœmy tego chcieæ? To proste.}
+{400}{}{Tutaj widzicie roÅ›liny niepodobne do niczego co widzieliÅ›cie przedtem! Ten ekscytujÄ…cy nowy gatunek, wywodzÄ…cy siÄ™ od rosiczki, zostaÅ‚ specjalnie zaprojektowany przez naszych genialnych naukowcÃ³w aby przetrwaÄ‡ w Å›wiecie zniszczonym wojna nuklearnÄ…. Dlaczego mielibyÅ›my tego chcieÄ‡? To proste.}
 {401}{}{[KONTYNUUJ]}
-{410}{}{Po globalnej wojnie atomowej, zdaniem naukowców, wiêkszoœæ Ziemi stanie siê wyschniêtym pustkowiem. ¯yciu roœlinnemu bêdzie niezwykle trudno przetrwaæ w tak ciê¿kich warunkach œrodowiskowych. A teraz wyobraŸcie sobie nas opuszczaj¹cych bezpieczeñstwo Krypt firmy KrypTech tylko po to aby odkryæ, ¿e wszystkie roœliny wymar³y! To oznacza koniec sa³atek dla Mamy, koniec trawników dla Billego i Rovera do zabawy w aportowanie.}
+{410}{}{Po globalnej wojnie atomowej, zdaniem naukowcÃ³w, wiÄ™kszoÅ›Ä‡ Ziemi stanie siÄ™ wyschniÄ™tym pustkowiem. Å»yciu roÅ›linnemu bÄ™dzie niezwykle trudno przetrwaÄ‡ w tak ciÄ™Å¼kich warunkach Å›rodowiskowych. A teraz wyobraÅºcie sobie nas opuszczajÄ…cych bezpieczeÅ„stwo Krypt firmy KrypTech tylko po to aby odkryÄ‡, Å¼e wszystkie roÅ›liny wymarÅ‚y! To oznacza koniec saÅ‚atek dla Mamy, koniec trawnikÃ³w dla Billego i Rovera do zabawy w aportowanie.}
 {411}{}{[KONTYNUUJ]}
-{420}{}{Brzmi okropnie, prawda? Ale nie martwcie siê. Te roœliny mog¹ byæ rozwi¹zaniem tego problemu. Zamiast polegaæ na ¿yznej ziemi i opadach deszczu, mog¹ zdobywaæ sk³adniki od¿ywcze przez zabijanie i jedzenie zwierz¹t, tak jak ludzie! Wszystko dziêki cudom nauki!}
+{420}{}{Brzmi okropnie, prawda? Ale nie martwcie siÄ™. Te roÅ›liny mogÄ… byÄ‡ rozwiÄ…zaniem tego problemu. Zamiast polegaÄ‡ na Å¼yznej ziemi i opadach deszczu, mogÄ… zdobywaÄ‡ skÅ‚adniki odÅ¼ywcze przez zabijanie i jedzenie zwierzÄ…t, tak jak ludzie! Wszystko dziÄ™ki cudom nauki!}
 {421}{}{[Wyloguj.]}

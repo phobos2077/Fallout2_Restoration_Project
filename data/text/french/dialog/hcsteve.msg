@@ -1,49 +1,49 @@
 {100}{}{Tu vois un homme souriant portant une armure en cuir noir.}
-{101}{}{Tu vois Steve, l'hôte d'accueil des Collines Brisées.}
-{102}{}{Tu vois un homme avenant portant une armure en cuir noir. On dirait qu'il reste là toute la journée à attendre quelqu'un à qui parler.}
-{103}{}{Salut ! Je m'appelle Steve. Je peux te donner toutes les informations que tu souhaites sur notre bonne ville. Je peux t'indiquer un lieu, ou t'aider de quelque manière que ce soit !}
+{101}{}{Tu vois Steve, l'hÃ´te d'accueil des Collines BrisÃ©es.}
+{102}{}{Tu vois un homme avenant portant une armure en cuir noir. On dirait qu'il reste lÃ  toute la journÃ©e Ã  attendre quelqu'un Ã  qui parler.}
+{103}{}{Salut ! Je m'appelle Steve. Je peux te donner toutes les informations que tu souhaites sur notre bonne ville. Je peux t'indiquer un lieu, ou t'aider de quelque maniÃ¨re que ce soit !}
 {104}{}{Heu...}
-{105}{}{Toline Disé ?}
+{105}{}{Toline DisÃ© ?}
 {106}{}{Parle-moi de cet endroit.}
 {107}{}{Qui vit ici ?}
 {108}{}{Qui est le responsable ici ?}
 {109}{}{Quelles sont les nouvelles ?}
 {110}{}{Quels services proposez-vous ici ?}
-{111}{}{Non. Désolé.}
-{112}{}{Mon Dieu. Encore un pauvre enfant du désert. Rentre. Tu verras, on est aussi accueillants que les autres villes du désert.}
+{111}{}{Non. DÃ©solÃ©.}
+{112}{}{Mon Dieu. Encore un pauvre enfant du dÃ©sert. Rentre. Tu verras, on est aussi accueillants que les autres villes du dÃ©sert.}
 {113}{}{Mecccccccccci !}
 {114}{}{Bonne chance. Et au revoir.}
 {115}{}{O r'voir !}
-{116}{}{Collines Brisées. Une ville minière. On extrait des trucs. Et on les vend.}
+{116}{}{Collines BrisÃ©es. Une ville miniÃ¨re. On extrait des trucs. Et on les vend.}
 {117}{}{Xtrai ?}
 {118}{}{Pend !}
-{119}{}{C'est ça. Du sol. On a une mine. Mais je pense pas qu'ils aient du boulot pour toi là-bas. Si tu cherches du travail, vois avec l'armateur.}
-{120}{}{Oh-ké.}
+{119}{}{C'est Ã§a. Du sol. On a une mine. Mais je pense pas qu'ils aient du boulot pour toi lÃ -bas. Si tu cherches du travail, vois avec l'armateur.}
+{120}{}{Oh-kÃ©.}
 {121}{}{Vendez des trucs ?}
-{122}{}{On vend ce qu'on extrait aux autres villes du coin. Elles en ont besoin. Si tu veux vendre quelque chose, tu peux parler à de nombreux marchands ici. Mais je dois continuer à bosser. Sois cool et fais attention ici, Ok ?}
-{123}{}{Oh-ké ! Saluuut !}
-{124}{}{Je dois continuer à travailler. Sois cool et fais attention, Ok ?}
-{125}{}{Encore toi ? Bien, tu sais ce que t'as à faire. Tiens-toi bien et fais attention à toi !}
-{126}{}{Oh-ké ! Saaaaaalut !}
-{127}{}{Range tes armes. Tu n'obtiendras pas de réponse de ma part si tu continues à les brandir comme ça.}
-{128}{}{On est une petite communauté minière. Elle a été fondée il y a plusieurs décennies par notre shérif, Marcus, et un homme du nom de Jacob. Ils ont choisi ce site car il est proche des gisements d'uranium. Tu veux en savoir plus ?}
+{122}{}{On vend ce qu'on extrait aux autres villes du coin. Elles en ont besoin. Si tu veux vendre quelque chose, tu peux parler Ã  de nombreux marchands ici. Mais je dois continuer Ã  bosser. Sois cool et fais attention ici, Ok ?}
+{123}{}{Oh-kÃ© ! Saluuut !}
+{124}{}{Je dois continuer Ã  travailler. Sois cool et fais attention, Ok ?}
+{125}{}{Encore toi ? Bien, tu sais ce que t'as Ã  faire. Tiens-toi bien et fais attention Ã  toi !}
+{126}{}{Oh-kÃ© ! Saaaaaalut !}
+{127}{}{Range tes armes. Tu n'obtiendras pas de rÃ©ponse de ma part si tu continues Ã  les brandir comme Ã§a.}
+{128}{}{On est une petite communautÃ© miniÃ¨re. Elle a Ã©tÃ© fondÃ©e il y a plusieurs dÃ©cennies par notre shÃ©rif, Marcus, et un homme du nom de Jacob. Ils ont choisi ce site car il est proche des gisements d'uranium. Tu veux en savoir plus ?}
 {129}{}{Oui.}
 {130}{}{Non.}
-{131}{}{Ici, les humains, les mutants et les Goules vivent ensemble. On ne connaît pas les tensions raciales qui sont le fléau de la Cité de l'Abri. Nous sommes tous égaux.}
+{131}{}{Ici, les humains, les mutants et les Goules vivent ensemble. On ne connaÃ®t pas les tensions raciales qui sont le flÃ©au de la CitÃ© de l'Abri. Nous sommes tous Ã©gaux.}
 {132}{}{Vous vivez avec des mutants ? Vous ne savez donc pas que ce sont des monstres ?}
 {133}{}{Egaux ?}
 {134}{}{Merci. Au revoir.}
-{135}{}{Si tu veux un nom, le Shérif Marcus est responsable de la ville. Il a participé à sa fondation, et il nous aide à traverser nos crises. Mais en fait, tout le monde ici a son mot à dire.}
-{136}{}{Ca me paraît impossible à gérer.}
-{137}{}{Un bon moyen de gérer les choses, il me semble.}
+{135}{}{Si tu veux un nom, le ShÃ©rif Marcus est responsable de la ville. Il a participÃ© Ã  sa fondation, et il nous aide Ã  traverser nos crises. Mais en fait, tout le monde ici a son mot Ã  dire.}
+{136}{}{Ca me paraÃ®t impossible Ã  gÃ©rer.}
+{137}{}{Un bon moyen de gÃ©rer les choses, il me semble.}
 {138}{}{Continue.}
-{139}{}{Celui qui a créé la ville est encore au pouvoir ? Il doit être vraiment très vieux.}
+{139}{}{Celui qui a crÃ©Ã© la ville est encore au pouvoir ? Il doit Ãªtre vraiment trÃ¨s vieux.}
 {140}{}{Merci. Au revoir.}
 {141}{}{Si on oublie que les mutants sont tous MORTS et que cette ville est CONDAMNEE...}
-{142}{}{Si on oublie que les mutants sont tous morts et que notre ressource principale est détruite...}
-{143}{}{Si on oublie l'héroïsme dont tu as fait preuve en démasquant la corruption en notre sein...}
-{144}{}{Si on oublie qu'on a un cancer qui se développe avec l'évasion de Franc et de Manson...}
-{145}{}{Si on oublie la trahison de Chad et la façon dont tu as rendu la justice (et nous te sommes tous reconnaissants)...}
+{142}{}{Si on oublie que les mutants sont tous morts et que notre ressource principale est dÃ©truite...}
+{143}{}{Si on oublie l'hÃ©roÃ¯sme dont tu as fait preuve en dÃ©masquant la corruption en notre sein...}
+{144}{}{Si on oublie qu'on a un cancer qui se dÃ©veloppe avec l'Ã©vasion de Franc et de Manson...}
+{145}{}{Si on oublie la trahison de Chad et la faÃ§on dont tu as rendu la justice (et nous te sommes tous reconnaissants)...}
 {146}{}{Pas grand-chose, en fait.}
 {147}{}{J'ai d'autres questions.}
 {148}{}{Salut.}
@@ -56,52 +56,52 @@
 {155}{}{Parle-moi de cet endroit.}
 {156}{}{Qui vit ici ?}
 {157}{}{Quels services proposez-vous ici ?}
-{158}{}{Pas de problème.}
-{159}{}{Nous vivons du raffinage du minerai extrait des collines, et de sa vente aux communautés voisines comme la Cité de l'Abri, Gecko et la République de Nouvelle Californie. On en utilise aussi pour notre propre énergie. Quoi d'autre ?}
+{158}{}{Pas de problÃ¨me.}
+{159}{}{Nous vivons du raffinage du minerai extrait des collines, et de sa vente aux communautÃ©s voisines comme la CitÃ© de l'Abri, Gecko et la RÃ©publique de Nouvelle Californie. On en utilise aussi pour notre propre Ã©nergie. Quoi d'autre ?}
 {160}{}{Oui.}
 {161}{}{Non.}
-{162}{}{Nous sommes tous égaux. Nous sommes tous issus d'humains et avons tous la même âme derrière notre apparence. Dire que quelqu'un est mauvais à cause de son aspect est un signe d'ignorance.}
+{162}{}{Nous sommes tous Ã©gaux. Nous sommes tous issus d'humains et avons tous la mÃªme Ã¢me derriÃ¨re notre apparence. Dire que quelqu'un est mauvais Ã  cause de son aspect est un signe d'ignorance.}
 {163}{}{Tu me traites d'inculte ?}
 {164}{}{C'est vrai.}
-{165}{}{Pas nécessairement. Qui sait ce que le virus qui a entraîné sa mutation a fait à son esprit ?}
+{165}{}{Pas nÃ©cessairement. Qui sait ce que le virus qui a entraÃ®nÃ© sa mutation a fait Ã  son esprit ?}
 {166}{}{Allez va, salut.}
-{167}{}{Pour nous, ça marche tout à fait bien. Et puis, Marcus est éminemment juste.}
-{168}{}{Où puis-je le trouver Marcus ?}
+{167}{}{Pour nous, Ã§a marche tout Ã  fait bien. Et puis, Marcus est Ã©minemment juste.}
+{168}{}{OÃ¹ puis-je le trouver Marcus ?}
 {169}{}{Salut.}
 {170}{}{Il est vieux. Mais il tient le coup. C'est un mutant, et il semble que c'est une race qui vit plus longtemps que les autres.}
-{171}{}{Vous laissez un MUTANT aux commandes ? Vous êtes tarés ou quoi ?}
-{172}{}{Ah vraiment ? J'aurais pensé que la plupart étaient déjà morts...}
-{173}{}{Un shérif mutant, hein ? J'imagine que la plupart des gens d'ici respectent bien la loi... Ca doit pas mal fonctionner.}
+{171}{}{Vous laissez un MUTANT aux commandes ? Vous Ãªtes tarÃ©s ou quoi ?}
+{172}{}{Ah vraiment ? J'aurais pensÃ© que la plupart Ã©taient dÃ©jÃ  morts...}
+{173}{}{Un shÃ©rif mutant, hein ? J'imagine que la plupart des gens d'ici respectent bien la loi... Ca doit pas mal fonctionner.}
 {174}{}{Salut.}
-{175}{}{On vivote et on crée notre propre version de la civilisation, en essayant à tout prix de ne pas capituler devant la Cité de l'Abri ou RNC : on ne veut pas de leur style de gouvernement. C'est tout.}
-{176}{}{Génial. J'ai d'autres questions.}
+{175}{}{On vivote et on crÃ©e notre propre version de la civilisation, en essayant Ã  tout prix de ne pas capituler devant la CitÃ© de l'Abri ou RNC : on ne veut pas de leur style de gouvernement. C'est tout.}
+{176}{}{GÃ©nial. J'ai d'autres questions.}
 {177}{}{Merci. Au revoir.}
-{178}{}{Si tu continues à croire dur comme fer que tu peux juger quelqu'un d'après son apparence, alors oui. Tu es indéniablement inculte.}
+{178}{}{Si tu continues Ã  croire dur comme fer que tu peux juger quelqu'un d'aprÃ¨s son apparence, alors oui. Tu es indÃ©niablement inculte.}
 {179}{}{Va te faire voir, mon vieux. C'est TOI l'inculte.}
 {180}{}{Bon d'accord. Tu dois avoir raison.}
-{181}{}{C'est tout ce que je voulais dire. Bienvenue aux Collines Brisées.}
+{181}{}{C'est tout ce que je voulais dire. Bienvenue aux Collines BrisÃ©es.}
 {182}{}{[Attendre]}
 {183}{}{Salut.}
-{184}{}{Si les mutants nous voulaient du mal, ce serait déjà fait. Ils ne vont pas vivre éternellement. En fait, la plupart sont aujourd'hui séniles. Le fait de créer une communauté ne va pas les aider à atteindre leurs buts.}
+{184}{}{Si les mutants nous voulaient du mal, ce serait dÃ©jÃ  fait. Ils ne vont pas vivre Ã©ternellement. En fait, la plupart sont aujourd'hui sÃ©niles. Le fait de crÃ©er une communautÃ© ne va pas les aider Ã  atteindre leurs buts.}
 {185}{}{Tu as raison.}
-{186}{}{Ils sont tout de même mauvais.}
+{186}{}{Ils sont tout de mÃªme mauvais.}
 {187}{}{Salut.}
-{188}{}{Plus je te parle et plus j'ai l'impression de devenir bête. Avec une telle attitude, tu n'as pas vraiment ta place aux Collines. Maintenant, excuse-moi. J'ai du travail.}
+{188}{}{Plus je te parle et plus j'ai l'impression de devenir bÃªte. Avec une telle attitude, tu n'as pas vraiment ta place aux Collines. Maintenant, excuse-moi. J'ai du travail.}
 {189}{}{Ordure.}
-{190}{}{Crève !}
-{191}{}{On a une mine, une raffinerie, une taverne, un hôtel (qui d'ailleurs n'a plus de propriétaire, les gens y séjournent gratuitement), un hôpital, un magasin et une pharmacie. On fait pousser notre nourriture.}
-{192}{}{Très bien. J'ai d'autres questions.}
+{190}{}{CrÃ¨ve !}
+{191}{}{On a une mine, une raffinerie, une taverne, un hÃ´tel (qui d'ailleurs n'a plus de propriÃ©taire, les gens y sÃ©journent gratuitement), un hÃ´pital, un magasin et une pharmacie. On fait pousser notre nourriture.}
+{192}{}{TrÃ¨s bien. J'ai d'autres questions.}
 {193}{}{Salut.}
-{194}{}{Oui, la plupart sont morts. Les mutants étant stériles... Du moins c'est ce que j'ai cru comprendre... Ils disparaissent. Ceux qui restent semblent devenir séniles aussi. Mais pas Marcus. Lui il est toujours aussi vif.}
-{195}{}{Où puis-je trouver Marcus ?}
+{194}{}{Oui, la plupart sont morts. Les mutants Ã©tant stÃ©riles... Du moins c'est ce que j'ai cru comprendre... Ils disparaissent. Ceux qui restent semblent devenir sÃ©niles aussi. Mais pas Marcus. Lui il est toujours aussi vif.}
+{195}{}{OÃ¹ puis-je trouver Marcus ?}
 {196}{}{J'ai d'autres questions.}
 {197}{}{Salut.}
-{198}{}{Marcus, sûr que tu ne veux pas rester et nous gouverner encore un peu ?}
-{199}{}{Marcus : c'est sans avenir. Vous vous débrouillerez très bien sans moi.}
+{198}{}{Marcus, sÃ»r que tu ne veux pas rester et nous gouverner encore un peu ?}
+{199}{}{Marcus : c'est sans avenir. Vous vous dÃ©brouillerez trÃ¨s bien sans moi.}
 {200}{}{[Plus]}
-{201}{}{Tu es indésirable ici. Tu as déjà fait assez de mal.}
-{202}{}{[Terminé]}
-{300}{}{En général Marcus est à la prison ou à la banque (une prison plus stricte). Parfois il est à la taverne ou chez lui, mais en général tu le trouveras au travail.}
+{201}{}{Tu es indÃ©sirable ici. Tu as dÃ©jÃ  fait assez de mal.}
+{202}{}{[TerminÃ©]}
+{300}{}{En gÃ©nÃ©ral Marcus est Ã  la prison ou Ã  la banque (une prison plus stricte). Parfois il est Ã  la taverne ou chez lui, mais en gÃ©nÃ©ral tu le trouveras au travail.}
 {301}{}{Quelle poisse !}
 {302}{}{Merde !}
 {303}{}{Hourra !}

@@ -1,31 +1,31 @@
 {100}{}{? a csapos.}
 {101}{}{? Slim, a csapos.}
-{102}{}{Ez az ember csapos. Kötényt visel és egy poharat tart a kezében. Folyamatos köpködés és egy mocskos törülköz? segítségével egyfolytában törölgeti. Az a fajta fickó, akit senkit?l nem veszi be a maszlagot.}
-{103}{}{Slim vagyok. Mit szeretnél?}
-{104}{}{Én akar információ.}
+{102}{}{Ez az ember csapos. KÃ¶tÃ©nyt visel Ã©s egy poharat tart a kezÃ©ben. Folyamatos kÃ¶pkÃ¶dÃ©s Ã©s egy mocskos tÃ¶rÃ¼lkÃ¶z? segÃ­tsÃ©gÃ©vel egyfolytÃ¡ban tÃ¶rÃ¶lgeti. Az a fajta fickÃ³, akit senkit?l nem veszi be a maszlagot.}
+{103}{}{Slim vagyok. Mit szeretnÃ©l?}
+{104}{}{Ã‰n akar informÃ¡ciÃ³.}
 {105}{}{Mid van?}
-{106}{}{Nem, én menni.}
-{107}{}{Információt szeretnék.}
+{106}{}{Nem, Ã©n menni.}
+{107}{}{InformÃ¡ciÃ³t szeretnÃ©k.}
 {108}{}{Show me what you've got.}
-{109}{}{Semmit, inkább megyek.}
-{110}{}{Szóval információt? Én nem vagyok könyvtár és ez a hely nem számítógép-terem. Igyál vagy t?nj innen! Adjak piát vagy sem?}
+{109}{}{Semmit, inkÃ¡bb megyek.}
+{110}{}{SzÃ³val informÃ¡ciÃ³t? Ã‰n nem vagyok kÃ¶nyvtÃ¡r Ã©s ez a hely nem szÃ¡mÃ­tÃ³gÃ©p-terem. IgyÃ¡l vagy t?nj innen! Adjak piÃ¡t vagy sem?}
 {111}{}{Igen.}
 {112}{}{Nem.}
-{113}{}{Remek. Ha ez a szar nem öl meg, akkor semmi.}
+{113}{}{Remek. Ha ez a szar nem Ã¶l meg, akkor semmi.}
 {114}{}{}
-{115}{}{Oké.}
+{115}{}{OkÃ©.}
 {116}{}{Ez neked van?}
 {117}{}{Igen.}
 {118}{}{Nem.}
-{119}{}{Akkor kés?bb.}
+{119}{}{Akkor kÃ©s?bb.}
 {120}{}{}
-{121}{}{Oké.}
-{122}{}{Üdv minálunk. Kéne egy kis pia?}
+{121}{}{OkÃ©.}
+{122}{}{Ãœdv minÃ¡lunk. KÃ©ne egy kis pia?}
 {123}{}{Igen.}
 {124}{}{Nem.}
-{125}{}{Zárva vagyok. Menj el!}
+{125}{}{ZÃ¡rva vagyok. Menj el!}
 {126}{}{}
-{127}{}{Oké.}
-{128}{}{Számodra én nem vagyok nyitva! Takarodj a boltomból!}
+{127}{}{OkÃ©.}
+{128}{}{SzÃ¡modra Ã©n nem vagyok nyitva! Takarodj a boltombÃ³l!}
 {129}{}{}
-{130}{}{Oké.}
+{130}{}{OkÃ©.}

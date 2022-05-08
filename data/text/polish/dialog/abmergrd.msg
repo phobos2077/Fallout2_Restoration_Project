@@ -1,4 +1,4 @@
-{100}{}{Widzisz stra¿niczkê.}
-{101}{}{Wygl¹da na miêœniaka najêtego przez handlarzy.}
-{102}{}{Gadaj z szefem je¿eli czegoœ potrzebujesz.}
-{103}{}{Nie sprawiaj k³opotów. S³yszysz?}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{101}{}{WyglÄ…da na miÄ™Å›niaka najÄ™tego przez handlarzy.}
+{102}{}{Gadaj z szefem jeÅ¼eli czegoÅ› potrzebujesz.}
+{103}{}{Nie sprawiaj kÅ‚opotÃ³w. SÅ‚yszysz?}

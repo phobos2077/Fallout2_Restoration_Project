@@ -1,2 +1,2 @@
-{100}{}{Diese Leichen sehen ziemlich künstlich aus. Es sind bloß Puppen, die mit Brahmin-Gedärmen behängt sind.}
+{100}{}{Diese Leichen sehen ziemlich kÃ¼nstlich aus. Es sind bloÃŸ Puppen, die mit Brahmin-GedÃ¤rmen behÃ¤ngt sind.}
 {101}{}{Irgendwas stimmt hier nicht.}

@@ -1,217 +1,217 @@
 {100}{}{Ves a uno de los hijos de Wright.}
-{150}{}{Ves a un niño pequeño con el pelo negro, con una olla en la cabeza. Está apuntando con su dedo a algunos imaginarios agentes del Enclave y haciendo ruidos de disparos.}
+{150}{}{Ves a un niÃ±o pequeÃ±o con el pelo negro, con una olla en la cabeza. EstÃ¡ apuntando con su dedo a algunos imaginarios agentes del Enclave y haciendo ruidos de disparos.}
 {151}{}{Ves a uno de los hijos de Wright con una olla en la cabeza.}
-{152}{}{Ves a uno de los hijos de Wright con una olla en la cabeza. Está apuntando con su dedo a algunos imaginarios agentes del Enclave y haciendo ruidos de disparos.}
-{200}{}{Ves a un niño pequeño con el pelo negro, con una olla en la cabeza.}
-{201}{}{Ves a un niño pequeño con el pelo negro, con una olla en la cabeza. Está haciendo ruidos de zumbido como un avispón.}
-{210}{}{¡Mírame, soy el descendiente del Morador del Refugio! ¡Alabemos al Refugio!}
-{211}{}{¡Quiero la misión de buscar el Refugio 13!}
-{212}{}{¡Blam blam! ¡Morid, capullos del Enclave!}
-{213}{}{¡Cuidado, aquí viene el Enclave!}
-{214}{}{¡Pow! ¡Pow! ¡Tomad esto, capullos del Enclave!}
-{215}{}{¡Siempre has sido el Morador del Refugio!}
-{216}{}{Intentas matar a todo el mundo con un virus, ¿eh? ¡Cómase esto, señor Presidente!}
-{217}{}{¡Cómase esto, señor Presidente!}
-{218}{}{¡Quiero ser el Morador del Refugio en el próximo juego!}
-{219}{}{¡Nuh-uh! ¡Me fallar, simpatizante del Presidente!}
-{220}{}{Uh-uh! ¡Te tengo! ¡Te tengo!}
-{221}{}{¡Acabo de volar por los aires el Enclave! ¡Boooooom!}
-{222}{}{¡Rápido! ¡Todo el mundo al petrolero!}
-{223}{}{¡Comed esto, caras de culo del Enclave!}
-{224}{}{¡Te mataré bien muerto, simpatizante del Enclave!}
-{225}{}{Los hijop... eso del Enclave van a probar mi munición.}
-{226}{}{¡Tenía puesta mi armadura mejorada! ¡Esa bala rebotó!}
-{227}{}{¡Muere, cara de Enclave!}
-{228}{}{Aighhhhhhhh… me han herido…}
-{240}{}{¡Mírame, soy el insecto de metal! Bzzzzzz}
+{152}{}{Ves a uno de los hijos de Wright con una olla en la cabeza. EstÃ¡ apuntando con su dedo a algunos imaginarios agentes del Enclave y haciendo ruidos de disparos.}
+{200}{}{Ves a un niÃ±o pequeÃ±o con el pelo negro, con una olla en la cabeza.}
+{201}{}{Ves a un niÃ±o pequeÃ±o con el pelo negro, con una olla en la cabeza. EstÃ¡ haciendo ruidos de zumbido como un avispÃ³n.}
+{210}{}{Â¡MÃ­rame, soy el descendiente del Morador del Refugio! Â¡Alabemos al Refugio!}
+{211}{}{Â¡Quiero la misiÃ³n de buscar el Refugio 13!}
+{212}{}{Â¡Blam blam! Â¡Morid, capullos del Enclave!}
+{213}{}{Â¡Cuidado, aquÃ­ viene el Enclave!}
+{214}{}{Â¡Pow! Â¡Pow! Â¡Tomad esto, capullos del Enclave!}
+{215}{}{Â¡Siempre has sido el Morador del Refugio!}
+{216}{}{Intentas matar a todo el mundo con un virus, Â¿eh? Â¡CÃ³mase esto, seÃ±or Presidente!}
+{217}{}{Â¡CÃ³mase esto, seÃ±or Presidente!}
+{218}{}{Â¡Quiero ser el Morador del Refugio en el prÃ³ximo juego!}
+{219}{}{Â¡Nuh-uh! Â¡Me fallar, simpatizante del Presidente!}
+{220}{}{Uh-uh! Â¡Te tengo! Â¡Te tengo!}
+{221}{}{Â¡Acabo de volar por los aires el Enclave! Â¡Boooooom!}
+{222}{}{Â¡RÃ¡pido! Â¡Todo el mundo al petrolero!}
+{223}{}{Â¡Comed esto, caras de culo del Enclave!}
+{224}{}{Â¡Te matarÃ© bien muerto, simpatizante del Enclave!}
+{225}{}{Los hijop... eso del Enclave van a probar mi municiÃ³n.}
+{226}{}{Â¡TenÃ­a puesta mi armadura mejorada! Â¡Esa bala rebotÃ³!}
+{227}{}{Â¡Muere, cara de Enclave!}
+{228}{}{Aighhhhhhhhâ€¦ me han heridoâ€¦}
+{240}{}{Â¡MÃ­rame, soy el insecto de metal! Bzzzzzz}
 {241}{}{Blam blam!}
-{242}{}{¡Cuidado, aquí llega el insecto de metal!}
-{243}{}{¡Toma esto!}
-{244}{}{¡Siempre has sido el insecto de metal!}
+{242}{}{Â¡Cuidado, aquÃ­ llega el insecto de metal!}
+{243}{}{Â¡Toma esto!}
+{244}{}{Â¡Siempre has sido el insecto de metal!}
 {245}{}{Bang bang!}
-{246}{}{¡Quiero ser el insecto de metal en el próximo juego!}
-{247}{}{¡No, no! ¡Has fallado!}
-{248}{}{Uh-uh! ¡Te tengo! ¡Te tengo!}
+{246}{}{Â¡Quiero ser el insecto de metal en el prÃ³ximo juego!}
+{247}{}{Â¡No, no! Â¡Has fallado!}
+{248}{}{Uh-uh! Â¡Te tengo! Â¡Te tengo!}
 {249}{}{Bzzzzzzz}
-{250}{}{¡Te mataré bien muerto!}
+{250}{}{Â¡Te matarÃ© bien muerto!}
 {251}{}{Zooommmm}
 {252}{}{El hijop-pata va a probar mi metal.}
-{253}{}{¡Tenía activado mi campo de fuerza!}
-{254}{}{¡Muere, cara de Salvatore!}
-{255}{}{Aighhhhhhhh… me han herido…}
-{270}{}{Hecho de menos a Albóndiga de Fallout 1.}
-{271}{}{¿Crees que habrá un Fallout 3? ¡Quiero ser el héroe en él!}
+{253}{}{Â¡TenÃ­a activado mi campo de fuerza!}
+{254}{}{Â¡Muere, cara de Salvatore!}
+{255}{}{Aighhhhhhhhâ€¦ me han heridoâ€¦}
+{270}{}{Hecho de menos a AlbÃ³ndiga de Fallout 1.}
+{271}{}{Â¿Crees que habrÃ¡ un Fallout 3? Â¡Quiero ser el hÃ©roe en Ã©l!}
 {272}{}{Fallout 2, ofrecido en respuesta a la gran demanda de nadie.}
-{273}{}{El Enclave puede besar mi culo de siete años. Qué idiotas.}
-{274}{}{El Enclave eran unos auténticos capullos, ¿eh? Jolines.}
-{275}{}{¿Te asustaste cuando te encontraste con el Presidente? ¿Tenía grandes colmillos y garras?}
-{276}{}{Ojalá pudiera haberte ayudado a destruir el Enclave. Yo… no me habría asustado. Oh, oh.}
-{277}{}{¡Oye! }
+{273}{}{El Enclave puede besar mi culo de siete aÃ±os. QuÃ© idiotas.}
+{274}{}{El Enclave eran unos autÃ©nticos capullos, Â¿eh? Jolines.}
+{275}{}{Â¿Te asustaste cuando te encontraste con el Presidente? Â¿TenÃ­a grandes colmillos y garras?}
+{276}{}{OjalÃ¡ pudiera haberte ayudado a destruir el Enclave. Yoâ€¦ no me habrÃ­a asustado. Oh, oh.}
+{277}{}{Â¡Oye! }
 {278}{}{}
-{279}{}{¡Gracias por salvarnos, }
-{280}{}{Quiero salvar el mundo como tú cuando sea mayor.}
-{281}{}{¿Puedo ser un héroe como tú cuando sea mayor?}
+{279}{}{Â¡Gracias por salvarnos, }
+{280}{}{Quiero salvar el mundo como tÃº cuando sea mayor.}
+{281}{}{Â¿Puedo ser un hÃ©roe como tÃº cuando sea mayor?}
 {282}{}{Quiero ser }
-{300}{}{¡Aighhhh! ¡Es uno de los de la gente metálica! ¡Corred!}
-{301}{}{¡Es uno de los de la gente metálica! ¡Nos han encontrado! ¡Corred!}
-{302}{}{¡Perdón! ¡Perdón! ¡No nos lleves en tu insecto de metal! ¡Por favor!}
-{310}{}{Será mejor que corras antes de que mi papá te vea.}
-{311}{}{Será mejor que corras antes de que mis hermanos te vean.}
-{312}{}{Eres una persona mala. Mejor que te marches antes de que grite que estás aquí.}
-{320}{}{(El niño deja de hacer el zumbido y se levanta la olla para mirarte).}
-{321}{}{¿Puede }
-{322}{}{Peeerdon. Creía yo que eres una olla adiooos}
-{323}{}{¿Por qué tienes una olla en la cabeza?}
-{324}{}{¿A qué estás jugando?}
-{325}{}{¿Dónde están tus padres?}
+{300}{}{Â¡Aighhhh! Â¡Es uno de los de la gente metÃ¡lica! Â¡Corred!}
+{301}{}{Â¡Es uno de los de la gente metÃ¡lica! Â¡Nos han encontrado! Â¡Corred!}
+{302}{}{Â¡PerdÃ³n! Â¡PerdÃ³n! Â¡No nos lleves en tu insecto de metal! Â¡Por favor!}
+{310}{}{SerÃ¡ mejor que corras antes de que mi papÃ¡ te vea.}
+{311}{}{SerÃ¡ mejor que corras antes de que mis hermanos te vean.}
+{312}{}{Eres una persona mala. Mejor que te marches antes de que grite que estÃ¡s aquÃ­.}
+{320}{}{(El niÃ±o deja de hacer el zumbido y se levanta la olla para mirarte).}
+{321}{}{Â¿Puede }
+{322}{}{Peeerdon. CreÃ­a yo que eres una olla adiooos}
+{323}{}{Â¿Por quÃ© tienes una olla en la cabeza?}
+{324}{}{Â¿A quÃ© estÃ¡s jugando?}
+{325}{}{Â¿DÃ³nde estÃ¡n tus padres?}
 {326}{}{(Juguemos).}
-{330}{}{Bueno… vale. (Te mira de arriba abajo). ¡Pero YO soy el insecto de metal en este juego!}
-{331}{}{Vaaale, pequeña persona abeja}
-{332}{}{ dice que sí a eso.}
-{333}{}{Qué es incesto?}
-{334}{}{¡No! }
-{335}{}{Ooooh… ¿qué hay aquí?}
-{340}{}{(El hombre pequeñito se vuelve a poner la olla en la cabeza, y vuelve a hacer un zumbido).}
-{341}{}{Estás un rato con él haciendo zumbidos.}
+{330}{}{Buenoâ€¦ vale. (Te mira de arriba abajo). Â¡Pero YO soy el insecto de metal en este juego!}
+{331}{}{Vaaale, pequeÃ±a persona abeja}
+{332}{}{ dice que sÃ­ a eso.}
+{333}{}{QuÃ© es incesto?}
+{334}{}{Â¡No! }
+{335}{}{Oooohâ€¦ Â¿quÃ© hay aquÃ­?}
+{340}{}{(El hombre pequeÃ±ito se vuelve a poner la olla en la cabeza, y vuelve a hacer un zumbido).}
+{341}{}{EstÃ¡s un rato con Ã©l haciendo zumbidos.}
 {342}{}{Dejas de balbucear}
 {343}{}{(Te marchas).}
-{350}{}{¡INSECTO, est-tupido! ¡VIMOS uno cuando estuvimos en el desierto! Era tan grande… (toma una gran bocanada de aire) ¡tan grande como una CASA!
- Y dentro había PERSONAS de metal.}
+{350}{}{Â¡INSECTO, est-tupido! Â¡VIMOS uno cuando estuvimos en el desierto! Era tan grandeâ€¦ (toma una gran bocanada de aire) Â¡tan grande como una CASA!
+ Y dentro habÃ­a PERSONAS de metal.}
 {351}{}{Oh-no}
 {352}{}{No llamas a yo estupidido}
 {353}{}{No dispares. }
 {354}{}{Mientes a }
-{355}{}{ ha matado a montón de gente pequeñita y chillona como tú… ¿igual tú eres lo siguiente?}
+{355}{}{ ha matado a montÃ³n de gente pequeÃ±ita y chillona como tÃºâ€¦ Â¿igual tÃº eres lo siguiente?}
 {356}{}{[Te alejas]}
 {360}{}{UH-HUH. Lo vimos.}
 {362}{}{Uh-uh-uh-uh}
 {363}{}{Huh-huh-huh-huh}
 {364}{}{Te alejas y haces "uhhh" como si fueras otro.}
-{370}{}{Uh-huh! ¡Te lo demostraré! Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
-{371}{}{Uh-huh! ¡Te lo demostraré! Varios de nosotros vamos a ir allí esta noche. }
-{372}{}{¿Quieres venir? (La persona pequeña te mira de reojo). Pero tienes que ser muuuy silencioso. Muuuuuuy silencioso.}
+{370}{}{Uh-huh! Â¡Te lo demostrarÃ©! Varios de nosotros vamos a ir allÃ­ cuando oscurezca MUCHO. }
+{371}{}{Uh-huh! Â¡Te lo demostrarÃ©! Varios de nosotros vamos a ir allÃ­ esta noche. }
+{372}{}{Â¿Quieres venir? (La persona pequeÃ±a te mira de reojo). Pero tienes que ser muuuy silencioso. Muuuuuuy silencioso.}
 {373}{}{Vaaaale [Le sigues].}
-{374}{}{Vaaaale, voy con… oooooh, ¿y esa arena de ahí?}
-{380}{}{No me gustas. ¡Eres un gran estúpido! (te saca la lengua). ¡Vete de aquí, estúpido!}
-{381}{}{¡NO LLAMAS A YO ESTUPIDIDO! ¡TU ESTUPIDIDO! ¡TU ESTUPIDIDO!}
-{382}{}{¡No dispares! ¡No dispares a }
-{383}{}{Te enjugas las lágrimas y te vas}
-{384}{}{De acuerdo… esta vez. Tómalo con calma con el Jet, muchacho.}
-{390}{}{(Tuerce la vista). Suenas como mi mamá y mi papá cuando van a la cama.}
-{391}{}{¿Dónde ves tu incesto? Quiero ver también}
-{400}{}{¡No miento, estúpido! Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
-{401}{}{¡No miento, estúpido! Varios de nosotros vamos a ir allí esta noche. }
+{374}{}{Vaaaale, voy conâ€¦ oooooh, Â¿y esa arena de ahÃ­?}
+{380}{}{No me gustas. Â¡Eres un gran estÃºpido! (te saca la lengua). Â¡Vete de aquÃ­, estÃºpido!}
+{381}{}{Â¡NO LLAMAS A YO ESTUPIDIDO! Â¡TU ESTUPIDIDO! Â¡TU ESTUPIDIDO!}
+{382}{}{Â¡No dispares! Â¡No dispares a }
+{383}{}{Te enjugas las lÃ¡grimas y te vas}
+{384}{}{De acuerdoâ€¦ esta vez. TÃ³malo con calma con el Jet, muchacho.}
+{390}{}{(Tuerce la vista). Suenas como mi mamÃ¡ y mi papÃ¡ cuando van a la cama.}
+{391}{}{Â¿DÃ³nde ves tu incesto? Quiero ver tambiÃ©n}
+{400}{}{Â¡No miento, estÃºpido! Varios de nosotros vamos a ir allÃ­ cuando oscurezca MUCHO. }
+{401}{}{Â¡No miento, estÃºpido! Varios de nosotros vamos a ir allÃ­ esta noche. }
 {403}{}{NO me llames estupidido, ESTUPIDIDO.}
 {404}{}{Uh-huh [Le sigues].}
-{405}{}{Vaaaale, voy con… oooooh, ¿y esa arena de ahí?}
-{410}{}{Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
-{411}{}{Varios de nosotros vamos a ir allí esta noche. }
-{412}{}{¿Quieres venir? (Te mira de reojo). Pero tienes que ser muuuy silencioso. Muuuuuuy silencioso.}
-{420}{}{¡No es una olla, ESTÚPIDO! ¡Es mi casco!}
+{405}{}{Vaaaale, voy conâ€¦ oooooh, Â¿y esa arena de ahÃ­?}
+{410}{}{Varios de nosotros vamos a ir allÃ­ cuando oscurezca MUCHO. }
+{411}{}{Varios de nosotros vamos a ir allÃ­ esta noche. }
+{412}{}{Â¿Quieres venir? (Te mira de reojo). Pero tienes que ser muuuy silencioso. Muuuuuuy silencioso.}
+{420}{}{Â¡No es una olla, ESTÃšPIDO! Â¡Es mi casco!}
 {421}{}{Vaya, perdona, temible guerrero con casco.}
-{422}{}{VUELVE a llamarme estúpido, mierdecilla, y veremos qué tal te protege ese 'casco' de los golpes en la cabeza.}
+{422}{}{VUELVE a llamarme estÃºpido, mierdecilla, y veremos quÃ© tal te protege ese 'casco' de los golpes en la cabeza.}
 {423}{}{[Dejas que juegue con su "casco"].}
-{430}{}{(Te mira con sospecha). ¿Qué quieres?}
-{432}{}{Sólo quería saber a qué clase de juego estás jugando. ¡Parece divertido!}
-{433}{}{Eh… ¿dónde están tus padres?}
+{430}{}{(Te mira con sospecha). Â¿QuÃ© quieres?}
+{432}{}{SÃ³lo querÃ­a saber a quÃ© clase de juego estÃ¡s jugando. Â¡Parece divertido!}
+{433}{}{Ehâ€¦ Â¿dÃ³nde estÃ¡n tus padres?}
 {434}{}{Nada.}
-{440}{}{(El hombre pequeño se pone blanco, da un paso atrás, se da la vuelta y echa a correr, gritando como un loco).}
-{441}{}{(El chico se pone blanco, da un paso atrás, se da la vuelta y echa a correr, gritando como un loco).}
-{442}{}{Jee Jee... ¡Corre, hombre pequeño! ¡CORRE!}
-{443}{}{Gamberrete…}
+{440}{}{(El hombre pequeÃ±o se pone blanco, da un paso atrÃ¡s, se da la vuelta y echa a correr, gritando como un loco).}
+{441}{}{(El chico se pone blanco, da un paso atrÃ¡s, se da la vuelta y echa a correr, gritando como un loco).}
+{442}{}{Jee Jee... Â¡Corre, hombre pequeÃ±o! Â¡CORRE!}
+{443}{}{Gamberreteâ€¦}
 {450}{}{A insectos de metal y soldados. }
-{451}{}{(Mira tu equipamiento, y se fija en una de tus pistolas). ¿Puedo jugar con tu arma?}
+{451}{}{(Mira tu equipamiento, y se fija en una de tus pistolas). Â¿Puedo jugar con tu arma?}
 {452}{}{No, no... es demasiado peligroso jugar con ella, jovencito.}
-{453}{}{No. Te podrías sacar un ojo.}
-{454}{}{Bueno, claro que puedes, pequeña cabeza de olla. Aquí tienes. (Le das una pistola descargada).}
-{455}{}{Bueno, claro que puedes, pequeña cabeza de olla. Aquí tienes. (Le das una pistola cargada).}
-{456}{}{¿"Insectos de metal"?}
-{457}{}{Oh, vale. Sólo era curiosidad.}
-{458}{}{Nooooo... creo que será mejor que me vaya.}
-{470}{}{(Te mira). ¡Vamos, sé cómo usar armas como esa! ¡Soy de la Familia Wright! ¡Déjame verla! Porfaaaa.}
-{471}{}{Oye: en las manos equivocadas, una pistola es un arma mortal. Bien, quiero decir que SIEMPRE es un arma mortal, pero en las manos equivocadas… es, eh… más mortal… espera, déjame empezar de nuevo.}
-{472}{}{Oye, si tu familia confiara en que puedes usar un arma, te habría dado una. Olvídalo.}
+{453}{}{No. Te podrÃ­as sacar un ojo.}
+{454}{}{Bueno, claro que puedes, pequeÃ±a cabeza de olla. AquÃ­ tienes. (Le das una pistola descargada).}
+{455}{}{Bueno, claro que puedes, pequeÃ±a cabeza de olla. AquÃ­ tienes. (Le das una pistola cargada).}
+{456}{}{Â¿"Insectos de metal"?}
+{457}{}{Oh, vale. SÃ³lo era curiosidad.}
+{458}{}{Nooooo... creo que serÃ¡ mejor que me vaya.}
+{470}{}{(Te mira). Â¡Vamos, sÃ© cÃ³mo usar armas como esa! Â¡Soy de la Familia Wright! Â¡DÃ©jame verla! Porfaaaa.}
+{471}{}{Oye: en las manos equivocadas, una pistola es un arma mortal. Bien, quiero decir que SIEMPRE es un arma mortal, pero en las manos equivocadasâ€¦ es, ehâ€¦ mÃ¡s mortalâ€¦ espera, dÃ©jame empezar de nuevo.}
+{472}{}{Oye, si tu familia confiara en que puedes usar un arma, te habrÃ­a dado una. OlvÃ­dalo.}
 {473}{}{Como si eres de la Familia Malote, no vas a tener este arma.}
-{474}{}{Bueno, está bien. [Le das una pistola descargada].}
-{475}{}{Bueno, está bien. [Le das una pistola cargada].}
-{476}{}{Olvídalo. Ve a jugar con tus amigos.}
-{485}{}{¡Sí, insectos de metal! ¡VIMOS uno cuando estuvimos en el desierto! Era tan grande… (toma una gran bocanada de aire) ¡tan grande como
- una CASA! Y dentro había PERSONAS de metal.}
-{486}{}{¡En serio! ¡Vaya! ¿Dónde lo viste?}
-{487}{}{¡Mientes!}
-{488}{}{No te creo. Estás mintiendo.}
-{489}{}{Será mejor que te lo tomes con calma con el Jet, muchacho. Esa porquería te matará. Nos vemos.}
-{490}{}{¿En serio? Eso es asombroso. Puede que tenga que ir por allí en algún momento y verlo por mí mismo. Adiós.}
-{500}{}{En el desierto. (Te mira de reojo con sospecha). Pero probablemente ya no vuelva por allí.}
-{501}{}{¿Estás seguro de que no querrías enseñármelo de todos modos?}
-{502}{}{De todos modos, ¿me puedes enseñar dónde lo viste?}
-{503}{}{Oh, está bien. Ya nos veremos.}
-{510}{}{En el desierto (mira a su alrededor y comienza a susurrar). Varios de nosotros vamos a ir allí cuando oscurezca MUCHO. }
-{511}{}{En el desierto (mira a su alrededor y comienza a susurrar). Varios de nosotros vamos a ir allí esta noche. }
-{513}{}{Nunca me quedo quieto cuando voy a por algo. Pero por esta vez…}
-{514}{}{Estaré tranquilo. Vamos, MacDuff.}
-{515}{}{Eh, no creo que vieras a ningún 'insecto de metal'. Lo que era realmente es un helicóptero.}
-{516}{}{Esta noche no, gracias. Mañana por la mañana temprano.}
-{530}{}{¿Eh? (Frunce el ceño y se ajusta la olla en la cabeza). ¿Qué es un hielo-cóptero?}
-{531}{}{Es una… máquina voladora. Puede llevar dentro personas y mercancías.}
-{532}{}{Un helicóptero es... supongo que lo más aproximado a algo que te resulte familiar sería un 'automóvil'. Un helicóptero es como
- un automóvil capaz de elevarse sobre la tierra y flotar usando unas cuchillas giratorias. El motor del
- helicóptero gira las cuchillas tan rápido que hace que flote. ¿No es increíble?}
-{533}{}{No importa. Simplemente no vagabundees de nuevo por las afueras de la ciudad. Podrías hacer que te mataran.}
-{540}{}{¡NO miento! ¡Lo VIMOS en el desierto! (Te mira malhumorado).}
-{541}{}{Hmmm. Quizá ESTÉS diciendo la verdad. ¿Puedes mostrarme dónde lo viste?}
-{542}{}{Vale, te creo. ¿Me enseñarás dónde lo viste?}
+{474}{}{Bueno, estÃ¡ bien. [Le das una pistola descargada].}
+{475}{}{Bueno, estÃ¡ bien. [Le das una pistola cargada].}
+{476}{}{OlvÃ­dalo. Ve a jugar con tus amigos.}
+{485}{}{Â¡SÃ­, insectos de metal! Â¡VIMOS uno cuando estuvimos en el desierto! Era tan grandeâ€¦ (toma una gran bocanada de aire) Â¡tan grande como
+ una CASA! Y dentro habÃ­a PERSONAS de metal.}
+{486}{}{Â¡En serio! Â¡Vaya! Â¿DÃ³nde lo viste?}
+{487}{}{Â¡Mientes!}
+{488}{}{No te creo. EstÃ¡s mintiendo.}
+{489}{}{SerÃ¡ mejor que te lo tomes con calma con el Jet, muchacho. Esa porquerÃ­a te matarÃ¡. Nos vemos.}
+{490}{}{Â¿En serio? Eso es asombroso. Puede que tenga que ir por allÃ­ en algÃºn momento y verlo por mÃ­ mismo. AdiÃ³s.}
+{500}{}{En el desierto. (Te mira de reojo con sospecha). Pero probablemente ya no vuelva por allÃ­.}
+{501}{}{Â¿EstÃ¡s seguro de que no querrÃ­as enseÃ±Ã¡rmelo de todos modos?}
+{502}{}{De todos modos, Â¿me puedes enseÃ±ar dÃ³nde lo viste?}
+{503}{}{Oh, estÃ¡ bien. Ya nos veremos.}
+{510}{}{En el desierto (mira a su alrededor y comienza a susurrar). Varios de nosotros vamos a ir allÃ­ cuando oscurezca MUCHO. }
+{511}{}{En el desierto (mira a su alrededor y comienza a susurrar). Varios de nosotros vamos a ir allÃ­ esta noche. }
+{513}{}{Nunca me quedo quieto cuando voy a por algo. Pero por esta vezâ€¦}
+{514}{}{EstarÃ© tranquilo. Vamos, MacDuff.}
+{515}{}{Eh, no creo que vieras a ningÃºn 'insecto de metal'. Lo que era realmente es un helicÃ³ptero.}
+{516}{}{Esta noche no, gracias. MaÃ±ana por la maÃ±ana temprano.}
+{530}{}{Â¿Eh? (Frunce el ceÃ±o y se ajusta la olla en la cabeza). Â¿QuÃ© es un hielo-cÃ³ptero?}
+{531}{}{Es unaâ€¦ mÃ¡quina voladora. Puede llevar dentro personas y mercancÃ­as.}
+{532}{}{Un helicÃ³ptero es... supongo que lo mÃ¡s aproximado a algo que te resulte familiar serÃ­a un 'automÃ³vil'. Un helicÃ³ptero es como
+ un automÃ³vil capaz de elevarse sobre la tierra y flotar usando unas cuchillas giratorias. El motor del
+ helicÃ³ptero gira las cuchillas tan rÃ¡pido que hace que flote. Â¿No es increÃ­ble?}
+{533}{}{No importa. Simplemente no vagabundees de nuevo por las afueras de la ciudad. PodrÃ­as hacer que te mataran.}
+{540}{}{Â¡NO miento! Â¡Lo VIMOS en el desierto! (Te mira malhumorado).}
+{541}{}{Hmmm. QuizÃ¡ ESTÃ‰S diciendo la verdad. Â¿Puedes mostrarme dÃ³nde lo viste?}
+{542}{}{Vale, te creo. Â¿Me enseÃ±arÃ¡s dÃ³nde lo viste?}
 {543}{}{Vale, vale. No importa. Vuelve a jugar a tu juego.}
-{550}{}{NO miento! ¡Lo VIMOS en el desierto! ¡Puedo DEMOSTRARLO! (Te mira fijamente). Varios de nosotros vamos a ir allí cuando oscurezca un poco. }
-{551}{}{NO miento! ¡Lo VIMOS en el desierto! ¡Puedo DEMOSTRARLO! (Te mira fijamente). Varios de nosotros vamos a ir allí esta noche. }
-{552}{}{Ven conmigo, y te lo enseñaré. (Se burla). Si no estás ASUSTADO.}
+{550}{}{NO miento! Â¡Lo VIMOS en el desierto! Â¡Puedo DEMOSTRARLO! (Te mira fijamente). Varios de nosotros vamos a ir allÃ­ cuando oscurezca un poco. }
+{551}{}{NO miento! Â¡Lo VIMOS en el desierto! Â¡Puedo DEMOSTRARLO! (Te mira fijamente). Varios de nosotros vamos a ir allÃ­ esta noche. }
+{552}{}{Ven conmigo, y te lo enseÃ±arÃ©. (Se burla). Si no estÃ¡s ASUSTADO.}
 {556}{}{No, gracias. Vuelve a jugar a tu juego.}
-{560}{}{(Tomas el arma más hecha polvo de tu inventario y se la das al niño. Sonríe y la mantiene en alto, admirándola). ¡MI pistola! ¡Genial! }
-{561}{}{¡Y sé dónde conseguir munición para ella!}
-{562}{}{Eh, no te la puedes quedar. Sólo es un préstamo...}
-{563}{}{Toda para ti. Y ahora háblame de esos insectos de metal…}
-{564}{}{Cargada y lista, muchacho. Oye... ¿por qué no se la vas a enseñar a tu papá? Asegúrate de moverla delante de él y tirar de ese pequeño
- interruptor que tiene ahí.}
-{565}{}{Claro que sí. Disfruta. Nos vemos luego.}
-{570}{}{¡Miserable tribal! ¡Es mía! ¡Tú me la diste! ¡Es mi pistola!}
-{571}{}{¡Devuélvela, mierdecilla!}
-{572}{}{No, es mía. Hice daño a mucha gente por ese arma. ¿Puedo por favoooooor recuperarla?}
-{573}{}{Oh, diablos. Este mundo post-holocausto no podría ser peor. Vete y juego con ella.}
-{580}{}{¡Oh, no! (Sale corriendo con tu arma).}
-{581}{}{¡Vuelve aquí, mierdecilla!}
-{590}{}{¡De acuerdo! (Sale corriendo).}
-{591}{}{Bien, a ESTE pequeño acto de maldad podría llevarle su tiempo dar sus frutos… será mejor que me vaya de la zona y vuelva más tarde.}
+{560}{}{(Tomas el arma mÃ¡s hecha polvo de tu inventario y se la das al niÃ±o. SonrÃ­e y la mantiene en alto, admirÃ¡ndola). Â¡MI pistola! Â¡Genial! }
+{561}{}{Â¡Y sÃ© dÃ³nde conseguir municiÃ³n para ella!}
+{562}{}{Eh, no te la puedes quedar. SÃ³lo es un prÃ©stamo...}
+{563}{}{Toda para ti. Y ahora hÃ¡blame de esos insectos de metalâ€¦}
+{564}{}{Cargada y lista, muchacho. Oye... Â¿por quÃ© no se la vas a enseÃ±ar a tu papÃ¡? AsegÃºrate de moverla delante de Ã©l y tirar de ese pequeÃ±o
+ interruptor que tiene ahÃ­.}
+{565}{}{Claro que sÃ­. Disfruta. Nos vemos luego.}
+{570}{}{Â¡Miserable tribal! Â¡Es mÃ­a! Â¡TÃº me la diste! Â¡Es mi pistola!}
+{571}{}{Â¡DevuÃ©lvela, mierdecilla!}
+{572}{}{No, es mÃ­a. Hice daÃ±o a mucha gente por ese arma. Â¿Puedo por favoooooor recuperarla?}
+{573}{}{Oh, diablos. Este mundo post-holocausto no podrÃ­a ser peor. Vete y juego con ella.}
+{580}{}{Â¡Oh, no! (Sale corriendo con tu arma).}
+{581}{}{Â¡Vuelve aquÃ­, mierdecilla!}
+{590}{}{Â¡De acuerdo! (Sale corriendo).}
+{591}{}{Bien, a ESTE pequeÃ±o acto de maldad podrÃ­a llevarle su tiempo dar sus frutosâ€¦ serÃ¡ mejor que me vaya de la zona y vuelva mÃ¡s tarde.}
 {592}{}{[Abandonas los alrededores con calma, mientras silbas aparentando inocencia].}
-{600}{}{(Se encoge de hombros). Papá está en casa, y mamá está en la iglesia.}
-{603}{}{De acuerdo. Sólo era curiosidad. Gracias.}
+{600}{}{(Se encoge de hombros). PapÃ¡ estÃ¡ en casa, y mamÃ¡ estÃ¡ en la iglesia.}
+{603}{}{De acuerdo. SÃ³lo era curiosidad. Gracias.}
 {610}{}{(El chico se vuelve a colocar la olla sobre la cabeza, y vuelve a hacer ruidos de zumbido).}
 {620}{}{(El chico se encoge de hombros. Se vuelve a colocar la olla sobre la cabeza, y vuelve a hacer ruidos de zumbido).}
 {630}{}{(Niega con la cabeza. El chico se vuelve a colocar la olla sobre la cabeza, y vuelve a hacer ruidos de zumbido).}
-{631}{}{Eh, está bien.}
-{632}{}{Gamberrete… ya veremos si te salvo cuando salve al mundo...}
+{631}{}{Eh, estÃ¡ bien.}
+{632}{}{Gamberreteâ€¦ ya veremos si te salvo cuando salve al mundo...}
 {640}{}{Esperas hasta que oscurece un poco...}
 {641}{}{Esperas hasta que oscurece...}
 {642}{}{[... y entonces sigues a los chicos al desierto].}
-{700}{}{¡ALÉJATE DE MÍ!}
+{700}{}{Â¡ALÃ‰JATE DE MÃ!}
 {701}{}{Ahhh...}
 {702}{}{Ayudadme, ayudadme...}
-{703}{}{PERSONA MALA! ¡ALÉJATE!}
-{704}{}{¡ALÉJATE DE MÍ!}
-{710}{}{Oiga, gracias por un arma tan genial, señor.}
-{711}{}{¿Te dije que me encanta mi arma nueva que me diste?}
-{712}{}{Oiga, gracias por un arma tan genial, señora.}
-{720}{}{¿Alguno de vosotros, capullos, se ha hecho con mi arma, la que me dio este tipo?}
-{721}{}{¿A dónde ha ido mi arma?}
-{722}{}{Sé que me diste un arma, ¿qué haría con ella?}
-{723}{}{¿Alguno de vosotros, capullos, se ha hecho con mi arma, la que me dio esta señora?}
-{5277}{}{¡Cuéntanos la historia del Enclave! Porfaaaa.}
+{703}{}{PERSONA MALA! Â¡ALÃ‰JATE!}
+{704}{}{Â¡ALÃ‰JATE DE MÃ!}
+{710}{}{Oiga, gracias por un arma tan genial, seÃ±or.}
+{711}{}{Â¿Te dije que me encanta mi arma nueva que me diste?}
+{712}{}{Oiga, gracias por un arma tan genial, seÃ±ora.}
+{720}{}{Â¿Alguno de vosotros, capullos, se ha hecho con mi arma, la que me dio este tipo?}
+{721}{}{Â¿A dÃ³nde ha ido mi arma?}
+{722}{}{SÃ© que me diste un arma, Â¿quÃ© harÃ­a con ella?}
+{723}{}{Â¿Alguno de vosotros, capullos, se ha hecho con mi arma, la que me dio esta seÃ±ora?}
+{5277}{}{Â¡CuÃ©ntanos la historia del Enclave! Porfaaaa.}
 {5278}{}{! Yaaaaay!}
 {5279}{}{!}
 {5282}{}{ cuando sea mayor.}
 {5321}{}{ jugar tambieeen?}
 {5334}{}{ quiere ser incesto!}
 {5353}{}{ no quiere disparar.}
-{5354}{}{. Tú BURLAS de }
+{5354}{}{. TÃº BURLAS de }
 {5382}{}{! }
 {6354}{}{. }
 {6382}{}{ APLASTA!}

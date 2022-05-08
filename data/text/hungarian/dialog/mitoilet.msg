@@ -1,1 +1,1 @@
-{100}{}{Észrevettél egy létrát ami levezet a sötétbe.}
+{100}{}{Ã‰szrevettÃ©l egy lÃ©trÃ¡t ami levezet a sÃ¶tÃ©tbe.}

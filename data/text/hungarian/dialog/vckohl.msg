@@ -1,95 +1,95 @@
-{100}{}{Kohl F?könyvtáros.}
-{101}{}{Egy intelligens tekintet? férfit látsz, aki kifogástalanul vasalt menedékvárosi ruhát visel.}
-{102}{}{Kohl F?könyvtáros.}
-{103}{}{Egy intelligens tekintet? férfit látsz, aki kifogástalanul vasalt menedékvárosi ruhát visel.}
-{104}{}{Biztosra veszem, hogy h?stetteit bejegyzik majd a menedékvárosi adattárba.}
-{105}{}{Egy betolakodó! Segítség! ?rség!!!}
-{106}{}{Szavamra! Egy mutáns! ?rség! ?rség!!!}
-{107}{}{Istenem, ez egy ghoul! ?rség ! ?rség!!!}
-{108}{}{Az Információs Iroda este zárva tart. Kérem, jöjjön vissza holnap!}
-{109}{}{Sajnálom, zárva vagyunk. Hazamegyek, miután lajstromba vettem ezeket a könyveket.}
+{100}{}{Kohl F?kÃ¶nyvtÃ¡ros.}
+{101}{}{Egy intelligens tekintet? fÃ©rfit lÃ¡tsz, aki kifogÃ¡stalanul vasalt menedÃ©kvÃ¡rosi ruhÃ¡t visel.}
+{102}{}{Kohl F?kÃ¶nyvtÃ¡ros.}
+{103}{}{Egy intelligens tekintet? fÃ©rfit lÃ¡tsz, aki kifogÃ¡stalanul vasalt menedÃ©kvÃ¡rosi ruhÃ¡t visel.}
+{104}{}{Biztosra veszem, hogy h?stetteit bejegyzik majd a menedÃ©kvÃ¡rosi adattÃ¡rba.}
+{105}{}{Egy betolakodÃ³! SegÃ­tsÃ©g! ?rsÃ©g!!!}
+{106}{}{Szavamra! Egy mutÃ¡ns! ?rsÃ©g! ?rsÃ©g!!!}
+{107}{}{Istenem, ez egy ghoul! ?rsÃ©g ! ?rsÃ©g!!!}
+{108}{}{Az InformÃ¡ciÃ³s Iroda este zÃ¡rva tart. KÃ©rem, jÃ¶jjÃ¶n vissza holnap!}
+{109}{}{SajnÃ¡lom, zÃ¡rva vagyunk. Hazamegyek, miutÃ¡n lajstromba vettem ezeket a kÃ¶nyveket.}
 {110}{}{Pssssssszt!}
-{111}{}{Halkabban, kérem!}
+{111}{}{Halkabban, kÃ©rem!}
 {112}{}{Pssssssszt!}
-{113}{}{Legyen szíves, ne hangoskodjon!}
-{114}{}{Üdvözlöm a kedves látogatót. Miben segíthetek?}
-{115}{}{Ügyü-gügyü!}
+{113}{}{Legyen szÃ­ves, ne hangoskodjon!}
+{114}{}{ÃœdvÃ¶zlÃ¶m a kedves lÃ¡togatÃ³t. Miben segÃ­thetek?}
+{115}{}{ÃœgyÃ¼-gÃ¼gyÃ¼!}
 {116}{}{[Elcsoszogsz]}
-{117}{}{Mi ez a hely tulajdonképpen?}
+{117}{}{Mi ez a hely tulajdonkÃ©ppen?}
 {118}{}{Bocs, hogy zavartalak.}
 {119}{}{Pardon?}
 {120}{}{Humm... humm.}
 {121}{}{[Elcsoszogsz]}
-{122}{}{Ó, egek... ön bizonyára az egyik szolga. Ha szépen megkérem, visszamegy Mr. Barkushoz? Különben nagyon dühös lesz ám!}
-{123}{}{Okééé!}
-{124}{}{Ez Menedékváros Információs Irodája, vagy ha közérthet?en akarok fogalmazni, egy könyvtár. Ezt kereste?}
-{125}{}{Pontosan. Feltehetek önnek egy kérdést?}
-{126}{}{Könyvtár? Remek. Szükségem van könyvekre, használati útmutatókra.}
-{127}{}{Sajnos nem. Elnézést a zavarásért.}
-{128}{}{Szörnyen sajnálom, de már nincsenek könyveink. Digitális formába átírták, majd a Komfort Hivatalba szállították ?ket. Kérem, ott érdekl?djön!}
-{129}{}{Hova kerültek a digitális kópiák?}
-{130}{}{Szomorúan hallom, szeretem a könyveket. Mind elvitték?}
-{131}{}{Értem. Feltehetek egy kérdést?}
-{132}{}{Köszönöm a segítséget.}
-{133}{}{Üdvözlöm a kedves látogatót. Miben segíthetek?}
-{134}{}{Szívesen segítek, ha tudok.}
-{135}{}{Mi ez a hely tulajdonképpen?}
-{136}{}{Tudja, merre találhatnék egy ÉLET-et?}
-{137}{}{A Menedéket keresem.}
-{138}{}{Kösz, egyel?re elleszek magam is.}
-{139}{}{ÉLET? Pontosan mire gondolt?}
-{140}{}{Igazából magam sem tudom. Ahogy a falum elöljárója mondaná, ez egy ?si csoda, ami felvirágoztatja a közösségünket. Én azért egy kicsit szkeptikus vagyok.}
-{141}{}{Igazából magam sem tudom.}
-{142}{}{Kérdezhetek valami mást?}
-{143}{}{Értem, viszlát!}
-{144}{}{Itt van a közelben, t?lünk keletre. A bejáratát az utca végén találja, egy nagy lyuk a hegyoldalban.}
-{145}{}{Vannak máshol is Menedékek?}
-{146}{}{Kérdezhetek valami mást?}
-{147}{}{Köszönöm az útbaigazítást.}
-{148}{}{Más Menedékek? Nem is tudom. Lehet, hogy építettek ilyeneket, de én még egyet se láttam. Talán a központi számítógépben talál róluk adatokat.}
+{122}{}{Ã“, egek... Ã¶n bizonyÃ¡ra az egyik szolga. Ha szÃ©pen megkÃ©rem, visszamegy Mr. Barkushoz? KÃ¼lÃ¶nben nagyon dÃ¼hÃ¶s lesz Ã¡m!}
+{123}{}{OkÃ©Ã©Ã©!}
+{124}{}{Ez MenedÃ©kvÃ¡ros InformÃ¡ciÃ³s IrodÃ¡ja, vagy ha kÃ¶zÃ©rthet?en akarok fogalmazni, egy kÃ¶nyvtÃ¡r. Ezt kereste?}
+{125}{}{Pontosan. Feltehetek Ã¶nnek egy kÃ©rdÃ©st?}
+{126}{}{KÃ¶nyvtÃ¡r? Remek. SzÃ¼ksÃ©gem van kÃ¶nyvekre, hasznÃ¡lati ÃºtmutatÃ³kra.}
+{127}{}{Sajnos nem. ElnÃ©zÃ©st a zavarÃ¡sÃ©rt.}
+{128}{}{SzÃ¶rnyen sajnÃ¡lom, de mÃ¡r nincsenek kÃ¶nyveink. DigitÃ¡lis formÃ¡ba Ã¡tÃ­rtÃ¡k, majd a Komfort Hivatalba szÃ¡llÃ­tottÃ¡k ?ket. KÃ©rem, ott Ã©rdekl?djÃ¶n!}
+{129}{}{Hova kerÃ¼ltek a digitÃ¡lis kÃ³piÃ¡k?}
+{130}{}{SzomorÃºan hallom, szeretem a kÃ¶nyveket. Mind elvittÃ©k?}
+{131}{}{Ã‰rtem. Feltehetek egy kÃ©rdÃ©st?}
+{132}{}{KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get.}
+{133}{}{ÃœdvÃ¶zlÃ¶m a kedves lÃ¡togatÃ³t. Miben segÃ­thetek?}
+{134}{}{SzÃ­vesen segÃ­tek, ha tudok.}
+{135}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{136}{}{Tudja, merre talÃ¡lhatnÃ©k egy Ã‰LET-et?}
+{137}{}{A MenedÃ©ket keresem.}
+{138}{}{KÃ¶sz, egyel?re elleszek magam is.}
+{139}{}{Ã‰LET? Pontosan mire gondolt?}
+{140}{}{IgazÃ¡bÃ³l magam sem tudom. Ahogy a falum elÃ¶ljÃ¡rÃ³ja mondanÃ¡, ez egy ?si csoda, ami felvirÃ¡goztatja a kÃ¶zÃ¶ssÃ©gÃ¼nket. Ã‰n azÃ©rt egy kicsit szkeptikus vagyok.}
+{141}{}{IgazÃ¡bÃ³l magam sem tudom.}
+{142}{}{KÃ©rdezhetek valami mÃ¡st?}
+{143}{}{Ã‰rtem, viszlÃ¡t!}
+{144}{}{Itt van a kÃ¶zelben, t?lÃ¼nk keletre. A bejÃ¡ratÃ¡t az utca vÃ©gÃ©n talÃ¡lja, egy nagy lyuk a hegyoldalban.}
+{145}{}{Vannak mÃ¡shol is MenedÃ©kek?}
+{146}{}{KÃ©rdezhetek valami mÃ¡st?}
+{147}{}{KÃ¶szÃ¶nÃ¶m az ÃºtbaigazÃ­tÃ¡st.}
+{148}{}{MÃ¡s MenedÃ©kek? Nem is tudom. Lehet, hogy Ã©pÃ­tettek ilyeneket, de Ã©n mÃ©g egyet se lÃ¡ttam. TalÃ¡n a kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©pben talÃ¡l rÃ³luk adatokat.}
 {149}{}{Hogy juthatok be oda?}
-{150}{}{Kérdezhetek valami mást?}
-{151}{}{Köszönöm az információkat.}
-{152}{}{Értem. Nos, talán a Menedék központi számítógépében talál róla információkat. A legtöbb adatot ott tároljuk.}
+{150}{}{KÃ©rdezhetek valami mÃ¡st?}
+{151}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{152}{}{Ã‰rtem. Nos, talÃ¡n a MenedÃ©k kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©pÃ©ben talÃ¡l rÃ³la informÃ¡ciÃ³kat. A legtÃ¶bb adatot ott tÃ¡roljuk.}
 {153}{}{Hogy juthatok be oda?}
-{154}{}{Kérdezhetek valami mást?}
-{155}{}{Köszönöm az információkat.}
-{156}{}{Ön a város egyik Polgára, nemdebár? Mint ilyen, jogosult a belépésre.}
-{157}{}{Amennyiben ön Polgár, természetesen használhatja a terminált.}
-{158}{}{A Menedéket kizárólag Polgárok látogathatják. Ha gondolja, végigcsinálhatja a Polgársági tesztet, vagy ami még jobb, beszéljen Lynette Els? Polgárral! Biztos vagyok benne, hogy az ön esetében kivételt tesz majd.}
-{159}{}{Már elnézést, de én Polgár vagyok.}
-{160}{}{Kérdezhetek valami mást?}
-{161}{}{Köszönöm az információkat.}
+{154}{}{KÃ©rdezhetek valami mÃ¡st?}
+{155}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{156}{}{Ã–n a vÃ¡ros egyik PolgÃ¡ra, nemdebÃ¡r? Mint ilyen, jogosult a belÃ©pÃ©sre.}
+{157}{}{Amennyiben Ã¶n PolgÃ¡r, termÃ©szetesen hasznÃ¡lhatja a terminÃ¡lt.}
+{158}{}{A MenedÃ©ket kizÃ¡rÃ³lag PolgÃ¡rok lÃ¡togathatjÃ¡k. Ha gondolja, vÃ©gigcsinÃ¡lhatja a PolgÃ¡rsÃ¡gi tesztet, vagy ami mÃ©g jobb, beszÃ©ljen Lynette Els? PolgÃ¡rral! Biztos vagyok benne, hogy az Ã¶n esetÃ©ben kivÃ©telt tesz majd.}
+{159}{}{MÃ¡r elnÃ©zÃ©st, de Ã©n PolgÃ¡r vagyok.}
+{160}{}{KÃ©rdezhetek valami mÃ¡st?}
+{161}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
 {162}{}{Yes, well, everything is being transcribed because... hmmm. This is a somewhat delicate matter, but I believe my post here
  in Vault City has become obsolete.}
-{163}{}{Feleslegessé? Ezt hogy érti?}
-{164}{}{Feleslegessé? Ugyan miért?}
-{165}{}{Kérdeznék valami mást.}
-{166}{}{Sajnálom, most mennem kell.}
-{167}{}{Azt jelenti, hogy többé nincs szükség a munkámra. Így lesz a legjobb.}
-{168}{}{A tervek szerint összekötnék a terminálokat a Listaszerverrel és az Információs Adattárral. Ha ez megtörténik, az Információs Iroda és én... feleslegessé válunk. Talán így lesz a legjobb. Tényleg.}
+{163}{}{FeleslegessÃ©? Ezt hogy Ã©rti?}
+{164}{}{FeleslegessÃ©? Ugyan miÃ©rt?}
+{165}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{166}{}{SajnÃ¡lom, most mennem kell.}
+{167}{}{Azt jelenti, hogy tÃ¶bbÃ© nincs szÃ¼ksÃ©g a munkÃ¡mra. Ãgy lesz a legjobb.}
+{168}{}{A tervek szerint Ã¶sszekÃ¶tnÃ©k a terminÃ¡lokat a Listaszerverrel Ã©s az InformÃ¡ciÃ³s AdattÃ¡rral. Ha ez megtÃ¶rtÃ©nik, az InformÃ¡ciÃ³s Iroda Ã©s Ã©n... feleslegessÃ© vÃ¡lunk. TalÃ¡n Ã­gy lesz a legjobb. TÃ©nyleg.}
 {169}{}{Biztos?}
-{170}{}{Kérdeznék valami mást.}
-{171}{}{Sajnálom, most mennem kell.}
-{172}{}{Természetesen. Az Els? Polgár ritkán téved az ilyen dolgokban. Egyébként meg hallottam, hogy  vár rám egy állás a Lista Hivatalban. Ennek ellenére sajnálom itthagyni ezt a helyet, úgy a szívemhez n?tt. Nem is beszélve a könyvekr?l...}
-{173}{}{Megértem önt. Imádom a könyveket és én is ragaszkodnék hozzájuk.}
-{174}{}{Megértem önt. Imádom a könyveket és én is ragaszkodnék hozzájuk.}
-{175}{}{Kérdeznék valami mást.}
-{176}{}{Sajnálom, most mennem kell.}
-{177}{}{Tudja, nekem semmi bajom a digitális kiadással, de van valami izgalmas abban, ahogy az ember egy könyvet lapozgat. Ön bizonyára érti, mir?l beszélek.}
+{170}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{171}{}{SajnÃ¡lom, most mennem kell.}
+{172}{}{TermÃ©szetesen. Az Els? PolgÃ¡r ritkÃ¡n tÃ©ved az ilyen dolgokban. EgyÃ©bkÃ©nt meg hallottam, hogy  vÃ¡r rÃ¡m egy Ã¡llÃ¡s a Lista Hivatalban. Ennek ellenÃ©re sajnÃ¡lom itthagyni ezt a helyet, Ãºgy a szÃ­vemhez n?tt. Nem is beszÃ©lve a kÃ¶nyvekr?l...}
+{173}{}{MegÃ©rtem Ã¶nt. ImÃ¡dom a kÃ¶nyveket Ã©s Ã©n is ragaszkodnÃ©k hozzÃ¡juk.}
+{174}{}{MegÃ©rtem Ã¶nt. ImÃ¡dom a kÃ¶nyveket Ã©s Ã©n is ragaszkodnÃ©k hozzÃ¡juk.}
+{175}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{176}{}{SajnÃ¡lom, most mennem kell.}
+{177}{}{Tudja, nekem semmi bajom a digitÃ¡lis kiadÃ¡ssal, de van valami izgalmas abban, ahogy az ember egy kÃ¶nyvet lapozgat. Ã–n bizonyÃ¡ra Ã©rti, mir?l beszÃ©lek.}
 {178}{}{Igen?}
-{179}{}{Kérdeznék valami mást.}
-{180}{}{Sajnálom, most mennem kell.}
-{181}{}{Hát... nem tagadom, félretettem néhány kötetet. Randalnak nem fog hiányozni és... szeretném önnek ajándékozni. Biztos vagyok benne, hogy jó kezekbe kerül.}
-{182}{}{Ez nagyon megtisztel?. Köszönettel elfogadom.}
+{179}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{180}{}{SajnÃ¡lom, most mennem kell.}
+{181}{}{HÃ¡t... nem tagadom, fÃ©lretettem nÃ©hÃ¡ny kÃ¶tetet. Randalnak nem fog hiÃ¡nyozni Ã©s... szeretnÃ©m Ã¶nnek ajÃ¡ndÃ©kozni. Biztos vagyok benne, hogy jÃ³ kezekbe kerÃ¼l.}
+{182}{}{Ez nagyon megtisztel?. KÃ¶szÃ¶nettel elfogadom.}
 {183}{}{Rendben. Megyek, hozom ?ket.}
 {184}{}{Rendben.}
-{185}{}{Tessék. Remélem, ön értékelni fogja és a hasznára válnak majd. Ezek a kedvenceim. Egy kicsit technikai jelleg?ek, de kit?n? munkák.}
-{186}{}{Hálásan köszönöm, ígérem, vigyázok rájuk. Nem bánná, ha feltennék még néhány kérdést?}
-{187}{}{Köszönöm szépen, de most már mennem kell.}
-{188}{}{Egy számítógépbe táplálták a Menedék harmadik szintjén. Pontosan már nem emlékszem melyikbe, de biztos nem a központi mag mellettiekbe.}
-{189}{}{Az összes könyvet elvitték?}
+{185}{}{TessÃ©k. RemÃ©lem, Ã¶n Ã©rtÃ©kelni fogja Ã©s a hasznÃ¡ra vÃ¡lnak majd. Ezek a kedvenceim. Egy kicsit technikai jelleg?ek, de kit?n? munkÃ¡k.}
+{186}{}{HÃ¡lÃ¡san kÃ¶szÃ¶nÃ¶m, Ã­gÃ©rem, vigyÃ¡zok rÃ¡juk. Nem bÃ¡nnÃ¡, ha feltennÃ©k mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{187}{}{KÃ¶szÃ¶nÃ¶m szÃ©pen, de most mÃ¡r mennem kell.}
+{188}{}{Egy szÃ¡mÃ­tÃ³gÃ©pbe tÃ¡plÃ¡ltÃ¡k a MenedÃ©k harmadik szintjÃ©n. Pontosan mÃ¡r nem emlÃ©kszem melyikbe, de biztos nem a kÃ¶zponti mag mellettiekbe.}
+{189}{}{Az Ã¶sszes kÃ¶nyvet elvittÃ©k?}
 {190}{}{Hogy juthatok be oda?}
-{191}{}{Értem. Lenne még egy kérdésem.}
-{192}{}{Köszönöm.}
-{193}{}{Nagyszer?! Bravó!}
+{191}{}{Ã‰rtem. Lenne mÃ©g egy kÃ©rdÃ©sem.}
+{192}{}{KÃ¶szÃ¶nÃ¶m.}
+{193}{}{Nagyszer?! BravÃ³!}

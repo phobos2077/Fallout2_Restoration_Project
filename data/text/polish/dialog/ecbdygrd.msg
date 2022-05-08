@@ -1,10 +1,10 @@
-{100}{}{Widzisz mê¿czyznê olbrzymiej postury.}
-{101}{}{Widzisz mê¿czyznê olbrzymiej postury.}
-{102}{}{To istny olbrzym. Pewnie zjada takich jak ty na œniadanie.}
-{103}{}{Pójdziesz z nami starcze.}
-{104}{}{Zostawcie nas w spokoju. Nigdy nie poprê twoich prze³o¿onych!}
-{105}{}{Nie bêdê ciê prosi³ drugi raz. Ruszaj siê, albo pos³u¿ysz za przyk³ad dla innych.}
-{106}{}{Nigdy! Niech to, co wiem, zginie wraz ze mn¹!}
-{107}{}{Jak sobie ¿yczysz. Zabiæ ich!}
-{108}{}{To nie twoja sprawa. OdejdŸ st¹d.}
-{109}{}{Wydaje siê, ¿e ci ludzie spotkali ciê w z³ym miejscu o z³ej porze.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ olbrzymiej postury.}
+{101}{}{Widzisz mÄ™Å¼czyznÄ™ olbrzymiej postury.}
+{102}{}{To istny olbrzym. Pewnie zjada takich jak ty na Å›niadanie.}
+{103}{}{PÃ³jdziesz z nami starcze.}
+{104}{}{Zostawcie nas w spokoju. Nigdy nie poprÄ™ twoich przeÅ‚oÅ¼onych!}
+{105}{}{Nie bÄ™dÄ™ ciÄ™ prosiÅ‚ drugi raz. Ruszaj siÄ™, albo posÅ‚uÅ¼ysz za przykÅ‚ad dla innych.}
+{106}{}{Nigdy! Niech to, co wiem, zginie wraz ze mnÄ…!}
+{107}{}{Jak sobie Å¼yczysz. ZabiÄ‡ ich!}
+{108}{}{To nie twoja sprawa. OdejdÅº stÄ…d.}
+{109}{}{Wydaje siÄ™, Å¼e ci ludzie spotkali ciÄ™ w zÅ‚ym miejscu o zÅ‚ej porze.}

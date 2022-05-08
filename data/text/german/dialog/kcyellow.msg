@@ -1,23 +1,23 @@
-{100}{}{Du siehst einen großen, räudigen, gelbbraunen Hund mit wildem Blick.}
+{100}{}{Du siehst einen groÃŸen, rÃ¤udigen, gelbbraunen Hund mit wildem Blick.}
 {101}{}{Du siehst einen gelben Hund.}
 {110}{}{Grrrrrr. Wuff! Wuff! Grrrrrr....}
 {111}{}{Wuff, Arf, Arf?}
 {112}{}{(In die Augen des Hundes starrend) Grrrr! Arrrrrgh! Grrrrrrrr!}
 {113}{}{Hmm, ich wette, du knurrst so, weil du was willst.}
-{114}{}{Du hast einfach nur Hunger, was, alter Junge? Lass mich mal sehen, ob ich was von dem leckeren Dunton-Dörrfleisch für dich hab.}
-{120}{}{Wuff! (Der Hund springt mit gefletschten Zähnen nach vorn - er schnappt das Fleisch aus deiner ausgestreckten Hand und frisst das Fleisch ziemlich geräuschvoll)}
-{121}{}{Wuff! (Der gelbe Hund schnappt zufrieden nach dem leckeren Dörrfleisch und verliert dabei einen Schlüssel, den er im Maul gehabt haben muss - du hebst den Schlüssel auf)}
+{114}{}{Du hast einfach nur Hunger, was, alter Junge? Lass mich mal sehen, ob ich was von dem leckeren Dunton-DÃ¶rrfleisch fÃ¼r dich hab.}
+{120}{}{Wuff! (Der Hund springt mit gefletschten ZÃ¤hnen nach vorn - er schnappt das Fleisch aus deiner ausgestreckten Hand und frisst das Fleisch ziemlich gerÃ¤uschvoll)}
+{121}{}{Wuff! (Der gelbe Hund schnappt zufrieden nach dem leckeren DÃ¶rrfleisch und verliert dabei einen SchlÃ¼ssel, den er im Maul gehabt haben muss - du hebst den SchlÃ¼ssel auf)}
 {122}{}{Mmm, Fleischchen}
-{123}{}{Ah, armer Junge, du musst ja wirklich hungrig gewesen sein. (Den Kopf des Hundes tätschelnd.)}
+{123}{}{Ah, armer Junge, du musst ja wirklich hungrig gewesen sein. (Den Kopf des Hundes tÃ¤tschelnd.)}
 {130}{}{Grrr. Wuff! Wuff!}
 {131}{}{Arf-arf Hundchen. Heh, heh.}
 {132}{}{Wiedersehn, Hundchen.}
-{133}{}{Tut mir leid, hab heut nichts für Hundchen dabei.}
-{134}{}{Husch! Verschwinde von hier, du elender Köter.}
+{133}{}{Tut mir leid, hab heut nichts fÃ¼r Hundchen dabei.}
+{134}{}{Husch! Verschwinde von hier, du elender KÃ¶ter.}
 {140}{}{Wuff, wuff. Wuff-wuff!}
 {141}{}{Wuff, wuff? Eru?}
 {142}{}{Gutes Hundchen, guter Junge.}
-{143}{}{Du hast Hunger, was, mein Junge? Ich wette, du möchtest was von Duntons delikatem Dörrfleisch. Mal schaun, ob ich was für dich hab. }
+{143}{}{Du hast Hunger, was, mein Junge? Ich wette, du mÃ¶chtest was von Duntons delikatem DÃ¶rrfleisch. Mal schaun, ob ich was fÃ¼r dich hab. }
 {200}{}{Wuff! (Japs, japs, japs - sabber!)}
 {201}{}{Wuff-wuff}
 {202}{}{Arf!}

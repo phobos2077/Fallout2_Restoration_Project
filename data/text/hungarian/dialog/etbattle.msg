@@ -1,1 +1,1 @@
-{100}{}{Úgy t?nik, itt valamiféle csata volt nem is olyan rég. Hatalmas vérengzés történhetett.}
+{100}{}{Ãšgy t?nik, itt valamifÃ©le csata volt nem is olyan rÃ©g. Hatalmas vÃ©rengzÃ©s tÃ¶rtÃ©nhetett.}

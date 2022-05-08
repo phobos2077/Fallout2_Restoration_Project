@@ -1,103 +1,103 @@
-{100}{}{Ves a un científico.}
+{100}{}{Ves a un cientÃ­fico.}
 {101}{}{Ves al doctor Schreber.}
 {102}{}{Ves a un hombre calvo con una bata de laboratorio.}
-{103}{}{Espero que tengas una buena razón para interrumpir mi trabajo, soldado.}
+{103}{}{Espero que tengas una buena razÃ³n para interrumpir mi trabajo, soldado.}
 {104}{}{Yo querer preguntar cosas.}
-{105}{}{No, mi volver más tarde.}
-{106}{}{Muy bien. Tengo que vivir con vosotros, soldados, así que debería hacer un esfuerzo para entenderme contigo.}
-{107}{}{¿Qué quieres saber?}
-{108}{}{¿Quién tú?}
-{109}{}{¿Qué haces?}
-{110}{}{¿Qué es este lugar?}
-{111}{}{¿Por qué habitación no hacer ruido?}
-{112}{}{¿Por qué Garra mortal en otro cuarto?}
-{113}{}{¿Por qué perrito en puerta no mover ni nada?}
+{105}{}{No, mi volver mÃ¡s tarde.}
+{106}{}{Muy bien. Tengo que vivir con vosotros, soldados, asÃ­ que deberÃ­a hacer un esfuerzo para entenderme contigo.}
+{107}{}{Â¿QuÃ© quieres saber?}
+{108}{}{Â¿QuiÃ©n tÃº?}
+{109}{}{Â¿QuÃ© haces?}
+{110}{}{Â¿QuÃ© es este lugar?}
+{111}{}{Â¿Por quÃ© habitaciÃ³n no hacer ruido?}
+{112}{}{Â¿Por quÃ© Garra mortal en otro cuarto?}
+{113}{}{Â¿Por quÃ© perrito en puerta no mover ni nada?}
 {114}{}{Yo irme.}
-{115}{}{¿Quién eres?}
-{116}{}{¿Qué haces aquí?}
-{117}{}{¿Qué lugar es éste?}
-{118}{}{¿Por qué esta habitación está insonorizada?}
-{119}{}{¿Por qué tienes un Garra mortal en la otra habitación?}
-{120}{}{¿Qué le ocurre al perro de la puerta?}
+{115}{}{Â¿QuiÃ©n eres?}
+{116}{}{Â¿QuÃ© haces aquÃ­?}
+{117}{}{Â¿QuÃ© lugar es Ã©ste?}
+{118}{}{Â¿Por quÃ© esta habitaciÃ³n estÃ¡ insonorizada?}
+{119}{}{Â¿Por quÃ© tienes un Garra mortal en la otra habitaciÃ³n?}
+{120}{}{Â¿QuÃ© le ocurre al perro de la puerta?}
 {121}{}{Debo irme.}
-{122}{}{Mi nombre es Schreber, doctor Schreber. Soy el médico de la base, entre otras cosas. No me importa tu nombre, soldado. Todos los reclutas parecéis iguales con esa armadura.}
+{122}{}{Mi nombre es Schreber, doctor Schreber. Soy el mÃ©dico de la base, entre otras cosas. No me importa tu nombre, soldado. Todos los reclutas parecÃ©is iguales con esa armadura.}
 {123}{}{Vale.}
 {124}{}{Entendido.}
-{125}{}{Trabajo como médico de la base pero eso es sólo algo secundario, un hobby. Realmente, soy un genetista.}
-{126}{}{Qué ser eso?}
-{127}{}{¿Qué es un genetista?}
+{125}{}{Trabajo como mÃ©dico de la base pero eso es sÃ³lo algo secundario, un hobby. Realmente, soy un genetista.}
+{126}{}{QuÃ© ser eso?}
+{127}{}{Â¿QuÃ© es un genetista?}
 {128}{}{Creo que no tienes la capacidad intelectual suficiente para entender mi trabajo, soldado. Digamos que yo modifico a la gente y a los animales.}
-{129}{}{Sí... claro.}
-{130}{}{Sí... Debo preguntarte un par de cosas más.}
-{131}{}{Este era el pabellón médico de la base. Sin embargo, sentía que mis experimentos tenían preferencia sobre las insignificantes necesidades médicas de los soldados, así que lo convertí en un laboratorio.}
-{132}{}{Qué... bien.}
-{133}{}{Eso está bien. Cuéntame más.}
-{134}{}{¿Que por qué la habitación no hace ruido? Oh, ¡te refieres a la insonorización! Durante mis investigaciones realicé... experimentos en sujetos de prueba. A veces gritaban un... poco, pero el comandante de la base lo encontraba perturbador, así que insonorizó la sala.}
-{135}{}{Durante mis investigaciones realicé... experimentos en sujetos de prueba. A veces gritaban... un poco, pero el comandante de la base lo encontraba perturbador, así que insonorizó la sala.}
+{129}{}{SÃ­... claro.}
+{130}{}{SÃ­... Debo preguntarte un par de cosas mÃ¡s.}
+{131}{}{Este era el pabellÃ³n mÃ©dico de la base. Sin embargo, sentÃ­a que mis experimentos tenÃ­an preferencia sobre las insignificantes necesidades mÃ©dicas de los soldados, asÃ­ que lo convertÃ­ en un laboratorio.}
+{132}{}{QuÃ©... bien.}
+{133}{}{Eso estÃ¡ bien. CuÃ©ntame mÃ¡s.}
+{134}{}{Â¿Que por quÃ© la habitaciÃ³n no hace ruido? Oh, Â¡te refieres a la insonorizaciÃ³n! Durante mis investigaciones realicÃ©... experimentos en sujetos de prueba. A veces gritaban un... poco, pero el comandante de la base lo encontraba perturbador, asÃ­ que insonorizÃ³ la sala.}
+{135}{}{Durante mis investigaciones realicÃ©... experimentos en sujetos de prueba. A veces gritaban... un poco, pero el comandante de la base lo encontraba perturbador, asÃ­ que insonorizÃ³ la sala.}
 {136}{}{Oh...}
 {137}{}{Ya veo.}
-{138}{}{¿Grande, marrón, y feo? Es un experimento que he completado recientemente. Su exterminación ya ha sido programada.}
-{139}{}{¿Qué es ez-per-mi-nia-ción?}
-{140}{}{¿Por qué vas a matarlo?}
-{141}{}{Oh, Dios... no eres muy avispado, ¿verdad? Matar, aniquilar, acabar, sacrificar... ¿Lo pillas?}
-{142}{}{Lo pillo. ¿Por qué matar Garra?}
-{143}{}{El Enclave ha estado buscando soldados baratos y prescindibles. Estamos interesados en las Garras mortales porque han desarrollado blindaje y armas propias, y porque son malas como demonios. Tan sólo necesitan ser más listas para poder entender ordenes, pero no lo suficiente como para que tengan voluntad propia. ¿Me sigues?}
-{144}{}{Oh... sí.}
-{145}{}{Sí, te sigo.}
-{146}{}{Bien, ¡tuvimos éxito! Conseguimos aumentar su inteligencia. Sin embargo, empecé a sospechar que tuvimos demasiado éxito. Puede que fueran bastante más listas de lo que pensamos. Así que cuando me transfirieron aquí me traje una de ellas conmigo para poder probar mi teoría.}
-{147}{}{¿Y?}
-{148}{}{¡Tenía razón! Las Garras mortales han estado jugando a hacerse las tontas, a la expectativa, e intentando aprender lo máximo posible de nosotros. ¡Incluso pueden imitar el habla humana! He llegado a tener una conversación de verdad con ese amigo de ahí.}
-{149}{}{De todas formas, el hecho de que puedan ser capaces de concebir un plan como ese y mantener el engaño es prueba de lo peligrosas que son.}
-{150}{}{¿Qué pensar hacer ahora?}
-{151}{}{Entonces, ¿qué planeas hacer ahora?}
-{152}{}{Voy a escribir un informe con mis descubrimientos y transmitirlo al Enclave. Por supuesto recomendaré el exterminio de toda la raza de Garras mortales. Son una amenaza demasiado peligrosa.}
-{153}{}{Comprendo. Tengo preguntar más.}
-{154}{}{Uh... ¿Tu seguro cuarto insonorizado?}
-{155}{}{¡Yo quiero matar Garra mortal por ti!}
-{156}{}{Eh, ¿me dejas que mate a la Garra mortal?}
-{157}{}{Interesante. ¿Puedo hacerte otras preguntas?}
-{158}{}{Dime Doc, ¿estás seguro de que esta sala está insonorizada?}
-{159}{}{Por supuesto que estoy seguro. Si no, al comandante le daría un ataque. ¿Por qué?}
+{138}{}{Â¿Grande, marrÃ³n, y feo? Es un experimento que he completado recientemente. Su exterminaciÃ³n ya ha sido programada.}
+{139}{}{Â¿QuÃ© es ez-per-mi-nia-ciÃ³n?}
+{140}{}{Â¿Por quÃ© vas a matarlo?}
+{141}{}{Oh, Dios... no eres muy avispado, Â¿verdad? Matar, aniquilar, acabar, sacrificar... Â¿Lo pillas?}
+{142}{}{Lo pillo. Â¿Por quÃ© matar Garra?}
+{143}{}{El Enclave ha estado buscando soldados baratos y prescindibles. Estamos interesados en las Garras mortales porque han desarrollado blindaje y armas propias, y porque son malas como demonios. Tan sÃ³lo necesitan ser mÃ¡s listas para poder entender ordenes, pero no lo suficiente como para que tengan voluntad propia. Â¿Me sigues?}
+{144}{}{Oh... sÃ­.}
+{145}{}{SÃ­, te sigo.}
+{146}{}{Bien, Â¡tuvimos Ã©xito! Conseguimos aumentar su inteligencia. Sin embargo, empecÃ© a sospechar que tuvimos demasiado Ã©xito. Puede que fueran bastante mÃ¡s listas de lo que pensamos. AsÃ­ que cuando me transfirieron aquÃ­ me traje una de ellas conmigo para poder probar mi teorÃ­a.}
+{147}{}{Â¿Y?}
+{148}{}{Â¡TenÃ­a razÃ³n! Las Garras mortales han estado jugando a hacerse las tontas, a la expectativa, e intentando aprender lo mÃ¡ximo posible de nosotros. Â¡Incluso pueden imitar el habla humana! He llegado a tener una conversaciÃ³n de verdad con ese amigo de ahÃ­.}
+{149}{}{De todas formas, el hecho de que puedan ser capaces de concebir un plan como ese y mantener el engaÃ±o es prueba de lo peligrosas que son.}
+{150}{}{Â¿QuÃ© pensar hacer ahora?}
+{151}{}{Entonces, Â¿quÃ© planeas hacer ahora?}
+{152}{}{Voy a escribir un informe con mis descubrimientos y transmitirlo al Enclave. Por supuesto recomendarÃ© el exterminio de toda la raza de Garras mortales. Son una amenaza demasiado peligrosa.}
+{153}{}{Comprendo. Tengo preguntar mÃ¡s.}
+{154}{}{Uh... Â¿Tu seguro cuarto insonorizado?}
+{155}{}{Â¡Yo quiero matar Garra mortal por ti!}
+{156}{}{Eh, Â¿me dejas que mate a la Garra mortal?}
+{157}{}{Interesante. Â¿Puedo hacerte otras preguntas?}
+{158}{}{Dime Doc, Â¿estÃ¡s seguro de que esta sala estÃ¡ insonorizada?}
+{159}{}{Por supuesto que estoy seguro. Si no, al comandante le darÃ­a un ataque. Â¿Por quÃ©?}
 {160}{}{Por nada.}
-{161}{}{¡Así otros no oyen gritos cuando mato a tú!}
-{162}{}{Sólo tenía curiosidad.}
-{163}{}{No querría que nadie te oyera gritar mientras experimento contigo.}
-{164}{}{¿Otra vez de vuelta? ¿Qué puedo hacer por ti esta vez?}
-{165}{}{¿Tu seguro cuarto insonorizado?}
-{166}{}{Necesitar preguntar más.}
+{161}{}{Â¡AsÃ­ otros no oyen gritos cuando mato a tÃº!}
+{162}{}{SÃ³lo tenÃ­a curiosidad.}
+{163}{}{No querrÃ­a que nadie te oyera gritar mientras experimento contigo.}
+{164}{}{Â¿Otra vez de vuelta? Â¿QuÃ© puedo hacer por ti esta vez?}
+{165}{}{Â¿Tu seguro cuarto insonorizado?}
+{166}{}{Necesitar preguntar mÃ¡s.}
 {167}{}{Nada. Digo hola.}
-{168}{}{¿Estás seguro de que esta sala está insonorizada?}
-{169}{}{Quería preguntarte algo más.}
-{170}{}{Nada, sólo pasaba a saludar.}
-{171}{}{Por supuesto que estoy seguro. Si no, al comandante le daría un ataque. ¿Por qué?}
+{168}{}{Â¿EstÃ¡s seguro de que esta sala estÃ¡ insonorizada?}
+{169}{}{QuerÃ­a preguntarte algo mÃ¡s.}
+{170}{}{Nada, sÃ³lo pasaba a saludar.}
+{171}{}{Por supuesto que estoy seguro. Si no, al comandante le darÃ­a un ataque. Â¿Por quÃ©?}
 {172}{}{Por nada.}
-{173}{}{¡Así otros no oyen gritos cuando mato a tú!}
-{174}{}{Sólo tenía curiosidad.}
-{175}{}{No querría que nadie te oyera gritar mientras experimento contigo.}
-{176}{}{Te invito a que lo hagas. Está en la sala de al lado.}
-{177}{}{¡Gracias!}
-{178}{}{Ese es K-9, mi perro. Decidí ver si podría aumentar cibernéticamente su inteligencia. Funcionó, pero le dio un ataque de moralidad, así que decidió que ni yo ni mi trabajo le gustaban, y me mordió.}
-{179}{}{Como castigo, le incapacité las patas, aunque dejando funcional gran parte de él. Ahora, lo tengo ahí sentado para que observe todas las cosas desagradables que hago.}
+{173}{}{Â¡AsÃ­ otros no oyen gritos cuando mato a tÃº!}
+{174}{}{SÃ³lo tenÃ­a curiosidad.}
+{175}{}{No querrÃ­a que nadie te oyera gritar mientras experimento contigo.}
+{176}{}{Te invito a que lo hagas. EstÃ¡ en la sala de al lado.}
+{177}{}{Â¡Gracias!}
+{178}{}{Ese es K-9, mi perro. DecidÃ­ ver si podrÃ­a aumentar cibernÃ©ticamente su inteligencia. FuncionÃ³, pero le dio un ataque de moralidad, asÃ­ que decidiÃ³ que ni yo ni mi trabajo le gustaban, y me mordiÃ³.}
+{179}{}{Como castigo, le incapacitÃ© las patas, aunque dejando funcional gran parte de Ã©l. Ahora, lo tengo ahÃ­ sentado para que observe todas las cosas desagradables que hago.}
 {180}{}{Oh...}
-{181}{}{¿Poder arreglar?}
+{181}{}{Â¿Poder arreglar?}
 {182}{}{Ya veo.}
-{183}{}{¿Se puede arreglar?}
-{184}{}{Oh, sí. Le retiré el circuito de la unidad motriz y se lo dí a Raúl, en Mantenimiento. Siempre podría volver a ponérselo. Quizás algún día lo haga para ver si ha cambiado de actitud.}
+{183}{}{Â¿Se puede arreglar?}
+{184}{}{Oh, sÃ­. Le retirÃ© el circuito de la unidad motriz y se lo dÃ­ a RaÃºl, en Mantenimiento. Siempre podrÃ­a volver a ponÃ©rselo. QuizÃ¡s algÃºn dÃ­a lo haga para ver si ha cambiado de actitud.}
 {185}{}{Vale.}
 {186}{}{De acuerdo.}
-{187}{}{¿Eres un civil?}
-{188}{}{Este es el laboratorio médico. La armería esta en el pasillo, recto y a tu izquierda.}
-{189}{}{¿Por qué no llevas puesto el uniforme?}
-{190}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}
-{191}{}{¡Intrusos! ¡Avisad a los guardias!}
-{192}{}{¡Guardias! ¡Intrusos en el laboratorio médico!}
-{193}{}{¿Qué pasa? ¿Nos atacan?}
-{194}{}{¿A qué viene la alerta? ¿Qué está ocurriendo?}
-{195}{}{¿Qué carajo está pasando?}
+{187}{}{Â¿Eres un civil?}
+{188}{}{Este es el laboratorio mÃ©dico. La armerÃ­a esta en el pasillo, recto y a tu izquierda.}
+{189}{}{Â¿Por quÃ© no llevas puesto el uniforme?}
+{190}{}{Â¡Ay, carajo! Â¡Nos invaden! Â¡Alerta!}
+{191}{}{Â¡Intrusos! Â¡Avisad a los guardias!}
+{192}{}{Â¡Guardias! Â¡Intrusos en el laboratorio mÃ©dico!}
+{193}{}{Â¿QuÃ© pasa? Â¿Nos atacan?}
+{194}{}{Â¿A quÃ© viene la alerta? Â¿QuÃ© estÃ¡ ocurriendo?}
+{195}{}{Â¿QuÃ© carajo estÃ¡ pasando?}
 {196}{}{No soy hostil, no me dispares.}
-{197}{}{No me alisté para luchar, así que déjame tranquilo.}
-{198}{}{¡Maldición! ¡Soy un doctor, no un soldado!}
-{200}{}{[MÁS]}
-{201}{}{Me gustaría hacerte algunas preguntas.}
+{197}{}{No me alistÃ© para luchar, asÃ­ que dÃ©jame tranquilo.}
+{198}{}{Â¡MaldiciÃ³n! Â¡Soy un doctor, no un soldado!}
+{200}{}{[MÃS]}
+{201}{}{Me gustarÃ­a hacerte algunas preguntas.}
 {202}{}{Ahora no. Siento molestar.}
 {800}{}{Has matado al doctor Schreber.}

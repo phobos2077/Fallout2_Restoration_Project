@@ -1,4 +1,4 @@
-{100}{}{Has entrado en una oscura cueva en la ladera de la montaÒa.}
-{101}{}{Est·s en un complejo de oscuras cuevas. En la oscuridad, puedes oÌr el entrechocar de las pinzas de los escorpiones.}
+{100}{}{Has entrado en una oscura cueva en la ladera de la monta√±a.}
+{101}{}{Est√°s en un complejo de oscuras cuevas. En la oscuridad, puedes o√≠r el entrechocar de las pinzas de los escorpiones.}
 {102}{}{Parece como si estas cuevas sirvieran de base para un grupo de Saqueadores.}
 {103}{}{Has encontrado la guarida de los Saqueadores.}

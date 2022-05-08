@@ -1,192 +1,192 @@
-{100}{}{Ves a un necrófago particularmente descuidado.}
+{100}{}{Ves a un necrÃ³fago particularmente descuidado.}
 {101}{}{Ves a Festus, el supervisor de la central nuclear.}
-{102}{}{Ves a un necrófago que parece abatido, con aspecto particularmente rancio. Huele como una
+{102}{}{Ves a un necrÃ³fago que parece abatido, con aspecto particularmente rancio. Huele como una
  herida infectada.}
-{110}{}{¿Eres la más estúpida que pudieron conseguir? Ja, ja, ja.}
-{111}{}{¿Eres tonta o qué? Ja, ja, ja. Te pareces a uno de esos de Ciudad Refugio.}
-{112}{}{Bien, eres bastante estúpida, ¿no? Deberías dirigirte a Ciudad Refugio.}
-{113}{}{Tengo muchas cosas importantes que hacer. ¿Por qué no vuelves a Ciudad Refugio, que es a donde perteneces?}
-{114}{}{Ja, ja, ja. Menuda mirada de estúpido la tuya.}
-{120}{}{Muy buenas. Soy Festus. Dirijo todo el reactor. Sin mí, la ciudad al completo estaría perdida. Soy un tipo muy ocupado. Me hacen trabajar demasiado por aquí.}
-{121}{}{Tengo mucho que hacer aquí. Desde luego, podría tomar un descanso. Pero, como ya sabrás, nadie más puede manejar la central nuclear. Controlo el poder del átomo, ¿sabes? Es algo que agotaría a cualquiera.}
-{122}{}{¿Qué haces aquí?}
-{123}{}{Por lo que sé, el reactor no funciona demasiado bien. ¿Es cierto?}
-{124}{}{¿Por qué pareces -y hueles- como si te estuvieras cayendo a pedazos?}
-{125}{}{Bien, no quiero abusar de tu precioso tiempo. Seguiré mi camino. Adiós.}
+{110}{}{Â¿Eres la mÃ¡s estÃºpida que pudieron conseguir? Ja, ja, ja.}
+{111}{}{Â¿Eres tonta o quÃ©? Ja, ja, ja. Te pareces a uno de esos de Ciudad Refugio.}
+{112}{}{Bien, eres bastante estÃºpida, Â¿no? DeberÃ­as dirigirte a Ciudad Refugio.}
+{113}{}{Tengo muchas cosas importantes que hacer. Â¿Por quÃ© no vuelves a Ciudad Refugio, que es a donde perteneces?}
+{114}{}{Ja, ja, ja. Menuda mirada de estÃºpido la tuya.}
+{120}{}{Muy buenas. Soy Festus. Dirijo todo el reactor. Sin mÃ­, la ciudad al completo estarÃ­a perdida. Soy un tipo muy ocupado. Me hacen trabajar demasiado por aquÃ­.}
+{121}{}{Tengo mucho que hacer aquÃ­. Desde luego, podrÃ­a tomar un descanso. Pero, como ya sabrÃ¡s, nadie mÃ¡s puede manejar la central nuclear. Controlo el poder del Ã¡tomo, Â¿sabes? Es algo que agotarÃ­a a cualquiera.}
+{122}{}{Â¿QuÃ© haces aquÃ­?}
+{123}{}{Por lo que sÃ©, el reactor no funciona demasiado bien. Â¿Es cierto?}
+{124}{}{Â¿Por quÃ© pareces -y hueles- como si te estuvieras cayendo a pedazos?}
+{125}{}{Bien, no quiero abusar de tu precioso tiempo. SeguirÃ© mi camino. AdiÃ³s.}
 {130}{}{Estoy seguro de que tengo al reactor funcionando de maravilla ahora. Mira que soy bueno.}
-{131}{}{El reactor está funcionando bastante bien ahora, cierto. Aún se podría afinar un poquito, pero diría que de todas formas es un buen trabajo.}
-{132}{}{¿Más trabajo? ¿Qué quieres decir?}
-{133}{}{Bueno, nada es perfecto. Adiós, Festus.}
-{141}{}{Bien, superviso la central nuclear. En realidad, diría que lo dirijo todo yo solo.}
-{142}{}{Pues sí, yo lo dirijo todo... en calidad de supervisor. Todo lo hago yo. Sería imposible si no fuera tan condenadamente bueno en ello. Es una bendición, desde luego...}
-{143}{}{¿Todo lo haces tú? ¿Entonces qué está haciendo toda esa gente en las otras estancias?}
-{144}{}{Entonces debes saber bastante sobre la energía nuclear.}
-{145}{}{Bien, no quiero distraerte de tu trabajo. Adiós.}
-{150}{}{Derrochadores. Todos ellos. No entienden realmente lo que hay que hacer. Sólo hacen bulto. Me fastidia que crean saber algo sobre centrales nucleares. Coño, si no fuera por mí...}
-{151}{}{Hmm. ¿Qué dijiste que hacías aquí?}
-{152}{}{Ah, sí. Bueno, será mejor que me vaya. Adiós.}
-{160}{}{¿Que si sé bastante sobre energía nuclear? Bueno, casi la inventé. Sé más sobre energía nuclear que cualquier persona viva. si se trata de energía nuclear, yo soy tu hombre.}
-{161}{}{Hmm. ¿Qué dijiste que hacías aquí?}
-{162}{}{Ah, sí. Bueno, será mejor que me vaya. Adiós.}
-{170}{}{Verás, desde luego yo dirijo todo este lugar. Es bastante difícil. Pero tengo muchos años de experiencia. Soy todo un profesional cuando se trata de dirigir centrales nucleares.}
+{131}{}{El reactor estÃ¡ funcionando bastante bien ahora, cierto. AÃºn se podrÃ­a afinar un poquito, pero dirÃ­a que de todas formas es un buen trabajo.}
+{132}{}{Â¿MÃ¡s trabajo? Â¿QuÃ© quieres decir?}
+{133}{}{Bueno, nada es perfecto. AdiÃ³s, Festus.}
+{141}{}{Bien, superviso la central nuclear. En realidad, dirÃ­a que lo dirijo todo yo solo.}
+{142}{}{Pues sÃ­, yo lo dirijo todo... en calidad de supervisor. Todo lo hago yo. SerÃ­a imposible si no fuera tan condenadamente bueno en ello. Es una bendiciÃ³n, desde luego...}
+{143}{}{Â¿Todo lo haces tÃº? Â¿Entonces quÃ© estÃ¡ haciendo toda esa gente en las otras estancias?}
+{144}{}{Entonces debes saber bastante sobre la energÃ­a nuclear.}
+{145}{}{Bien, no quiero distraerte de tu trabajo. AdiÃ³s.}
+{150}{}{Derrochadores. Todos ellos. No entienden realmente lo que hay que hacer. SÃ³lo hacen bulto. Me fastidia que crean saber algo sobre centrales nucleares. CoÃ±o, si no fuera por mÃ­...}
+{151}{}{Hmm. Â¿QuÃ© dijiste que hacÃ­as aquÃ­?}
+{152}{}{Ah, sÃ­. Bueno, serÃ¡ mejor que me vaya. AdiÃ³s.}
+{160}{}{Â¿Que si sÃ© bastante sobre energÃ­a nuclear? Bueno, casi la inventÃ©. SÃ© mÃ¡s sobre energÃ­a nuclear que cualquier persona viva. si se trata de energÃ­a nuclear, yo soy tu hombre.}
+{161}{}{Hmm. Â¿QuÃ© dijiste que hacÃ­as aquÃ­?}
+{162}{}{Ah, sÃ­. Bueno, serÃ¡ mejor que me vaya. AdiÃ³s.}
+{170}{}{VerÃ¡s, desde luego yo dirijo todo este lugar. Es bastante difÃ­cil. Pero tengo muchos aÃ±os de experiencia. Soy todo un profesional cuando se trata de dirigir centrales nucleares.}
 {171}{}{Debes de ser muy bueno en tu trabajo.}
-{172}{}{Estoy segura de que lo eres. Eh, será mejor que me marche ya. Adiós.}
-{180}{}{Casi todo el mundo cree que es sencillo. Se piensan que cualquiera puede manejar un reactor atómico. Pero no es algo para gente inexperta o débiles de corazón. ¡Yo controlo el poder el átomo aquí!}
+{172}{}{Estoy segura de que lo eres. Eh, serÃ¡ mejor que me marche ya. AdiÃ³s.}
+{180}{}{Casi todo el mundo cree que es sencillo. Se piensan que cualquiera puede manejar un reactor atÃ³mico. Pero no es algo para gente inexperta o dÃ©biles de corazÃ³n. Â¡Yo controlo el poder el Ã¡tomo aquÃ­!}
 {181}{}{Estoy impresionada.}
-{182}{}{Vale, dejémoslo aquí. Adiós.}
-{190}{}{Estaría bien tener algo de ayuda. Pero, verás, nadie más está cualificado para hacer lo que yo. Ni siquiera entienden los conceptos básicos de lo que hago.}
-{191}{}{Cómo podría alguien esperanza para mantenerse al día con usted?}
-{192}{}{Eres realmente especial, no hay duda de ello. Adiós.}
-{200}{}{Sabes que lo soy. Creo que tú entiendes realmente este tipo de cuestiones. Si no estuviera tan ocupado por aquí dirigiría todo Gecko. Y déjame decirte que lo haría muy bien.}
-{201}{}{¿También dirigirías la ciudad?}
-{202}{}{¡Arrrrrgh! Me marcho. Eso hago. No intentes detenerme. ¡Adiós!}
-{210}{}{Bueno, no habría que comerciar con el uranio de Broken Hills. Lo intercambiaríamos por energía, en vez de ello. Ellos podrían dirigir su ciudad usando el poder del átomo.}
-{211}{}{¿No tendrías que supervisar líneas de alimentación a través de millas y millas de peligroso desierto?}
-{212}{}{¿Hueles eso? ¿Eso que apesta? Será mejor que me vaya. Adiós.}
-{220}{}{Bueno, supongo que sí. Entonces les haríamos comprarnos baterías gigantes. Sí, eso es lo bonito de todo esto. Entonces ellos también tendrían que comprarnos las baterías. Y eso sólo sería el comienzo: tengo otros grandes planes, como...}
-{221}{}{¿También eres un político? Es increíble que tu talento abarque tantos campos.}
-{222}{}{¿Algo se está pudriendo por aquí? Creo que necesito algo de aire fresco. Adiós.}
-{230}{}{Sólo soy polifacético. En serio, soy muy bueno en todo lo que intento. Rara vez hay alguien mejor. Por supuesto, prefiero dirigir la central nuclar. Pero, si quisiera, podría hacer cualquier cosa.}
-{231}{}{No me puedo creer que haya alguien en Gecko que no aprecie tu auténtico valor. Voy a contárselo ahora mismo. Adiós.}
+{182}{}{Vale, dejÃ©moslo aquÃ­. AdiÃ³s.}
+{190}{}{EstarÃ­a bien tener algo de ayuda. Pero, verÃ¡s, nadie mÃ¡s estÃ¡ cualificado para hacer lo que yo. Ni siquiera entienden los conceptos bÃ¡sicos de lo que hago.}
+{191}{}{CÃ³mo podrÃ­a alguien esperanza para mantenerse al dÃ­a con usted?}
+{192}{}{Eres realmente especial, no hay duda de ello. AdiÃ³s.}
+{200}{}{Sabes que lo soy. Creo que tÃº entiendes realmente este tipo de cuestiones. Si no estuviera tan ocupado por aquÃ­ dirigirÃ­a todo Gecko. Y dÃ©jame decirte que lo harÃ­a muy bien.}
+{201}{}{Â¿TambiÃ©n dirigirÃ­as la ciudad?}
+{202}{}{Â¡Arrrrrgh! Me marcho. Eso hago. No intentes detenerme. Â¡AdiÃ³s!}
+{210}{}{Bueno, no habrÃ­a que comerciar con el uranio de Broken Hills. Lo intercambiarÃ­amos por energÃ­a, en vez de ello. Ellos podrÃ­an dirigir su ciudad usando el poder del Ã¡tomo.}
+{211}{}{Â¿No tendrÃ­as que supervisar lÃ­neas de alimentaciÃ³n a travÃ©s de millas y millas de peligroso desierto?}
+{212}{}{Â¿Hueles eso? Â¿Eso que apesta? SerÃ¡ mejor que me vaya. AdiÃ³s.}
+{220}{}{Bueno, supongo que sÃ­. Entonces les harÃ­amos comprarnos baterÃ­as gigantes. SÃ­, eso es lo bonito de todo esto. Entonces ellos tambiÃ©n tendrÃ­an que comprarnos las baterÃ­as. Y eso sÃ³lo serÃ­a el comienzo: tengo otros grandes planes, como...}
+{221}{}{Â¿TambiÃ©n eres un polÃ­tico? Es increÃ­ble que tu talento abarque tantos campos.}
+{222}{}{Â¿Algo se estÃ¡ pudriendo por aquÃ­? Creo que necesito algo de aire fresco. AdiÃ³s.}
+{230}{}{SÃ³lo soy polifacÃ©tico. En serio, soy muy bueno en todo lo que intento. Rara vez hay alguien mejor. Por supuesto, prefiero dirigir la central nuclar. Pero, si quisiera, podrÃ­a hacer cualquier cosa.}
+{231}{}{No me puedo creer que haya alguien en Gecko que no aprecie tu autÃ©ntico valor. Voy a contÃ¡rselo ahora mismo. AdiÃ³s.}
 {232}{}{He de escapar. Desvanecerme. Marcharme.}
-{240}{}{¿Que te trae a esta parte de mi reactor nuclear?}
+{240}{}{Â¿Que te trae a esta parte de mi reactor nuclear?}
 {241}{}{Bien, tengo una pieza que puedes usar para reparar el reactor.}
-{242}{}{Eh, sólo estaba mirando. Adiós.}
-{250}{}{Verás, en realidad no estoy seguro de que esa sea la pieza correcta. Quizá deberías llevarla de vuelta a Ciudad Refugio para comprobarlo. No creo que pueda ayudarte con esto, después de todo.}
+{242}{}{Eh, sÃ³lo estaba mirando. AdiÃ³s.}
+{250}{}{VerÃ¡s, en realidad no estoy seguro de que esa sea la pieza correcta. QuizÃ¡ deberÃ­as llevarla de vuelta a Ciudad Refugio para comprobarlo. No creo que pueda ayudarte con esto, despuÃ©s de todo.}
 {251}{}{Estoy segura de que es la pieza adecuada. Tengo mucha confianza en tu capacidad.}
-{252}{}{Supongo que tienes razón. Será mejor que encuentre otra forma de instalar la pieza.}
-{260}{}{No creo que a esa gente de Ciudad Refugio les gustemos demasiado. No instalaría esto pensando que pudiera ser una trampa. ¡Quizás parece la pieza adecuada, y realmente es una bomba! No puedes engañarme tan fácilmente. No voy a instalar esa cosa.}
-{261}{}{Con tu pericia técnica, si fuera una bomba, ya lo habrías notado. Por favor, limítate
+{252}{}{Supongo que tienes razÃ³n. SerÃ¡ mejor que encuentre otra forma de instalar la pieza.}
+{260}{}{No creo que a esa gente de Ciudad Refugio les gustemos demasiado. No instalarÃ­a esto pensando que pudiera ser una trampa. Â¡QuizÃ¡s parece la pieza adecuada, y realmente es una bomba! No puedes engaÃ±arme tan fÃ¡cilmente. No voy a instalar esa cosa.}
+{261}{}{Con tu pericia tÃ©cnica, si fuera una bomba, ya lo habrÃ­as notado. Por favor, limÃ­tate
  a instalarla.}
-{262}{}{Supongo que tienes razón. Será mejor que encuentre otra forma de instalar la pieza.}
-{270}{}{De acuerdo, aquí estoy. Pero sigo sin estar seguro de que esa sea la pieza adecuada, o de que no se trate de algún tipo de trampa. Verás, soy demasiado valioso como para correr riesgos. Tal vez debería dejar que algún otro hiciera esto... más tarde... mucho más tarde.}
-{271}{}{Se tiene que hacer ahora. Y tú eres el único que puede hacerlo bien. ¡Venga, todo Gecko depende de ti!}
-{272}{}{Supongo que tienes razón. Será mejor que encuentre otra forma de instalar la pieza.}
-{300}{}{Bien, desde luego utiliza un montón de uranio. Y pierde otro montón. Verás, pedí a alguien para arreglarlo, pero nadie me escucha.}
-{301}{}{He oído que está filtrando radiación al agua subterránea. ¿Eso es cierto?}
-{302}{}{Creía que tú eras el experto. ¿Por qué no lo arreglas? ¿No es precisamente lo que haces aquí, de todas formas?}
-{310}{}{Bien, es posible, pero no creo que vaya a hacer daño de ningún tipo. Sucede bajo tierra, después de todo.}
-{311}{}{Creo que te equivocas. Ciudad Refugio se ha estado quejando de que vuestra central nuclear está contaminando su agua con radiación.}
-{312}{}{Bueno, si tú lo dices. Adiós.}
-{320}{}{Imposible. Nadie sabría más sobre ello que yo. Sólo están buscando a alguien para culparle de sus problemas. Ni siquiera utilizamos el mismo acuífero.}
-{321}{}{Pareces estar seguro. Pero ellos también lo estaban.}
-{330}{}{Bueno, son un montón de novatos cuando hablamos de energía nuclear. Aquí el verdadero experto soy yo. Puedo asegurarte que lo que yo digo va a misa. Aunque ya no haya misas.}
-{331}{}{En fin, supongo que sabes de lo que estás hablando. Adiós.}
-{332}{}{No estoy tan segura como tú. Adiós.}
-{340}{}{¿Te sobra un regulador hidroeléctrico magnetosférico?}
-{341}{}{¿Y ya sabes lo que es?}
-{342}{}{Desde luego. ¿Listo para instalarlo?}
-{350}{}{Sorprendido? Nunca dudes de mi conocimiento acerca de las plantas de energía atómica. Yo sé todo lo que hay que saber acerca de ellos.}
-{351}{}{Bueno, pues ya que sabes lo que es, sabrás cómo instalarlo.}
-{352}{}{Creo que ya te he escuchado demasiado. Adiós.}
-{360}{}{Por supuesto que sí. Es algo sencillísimo para alguien de mi experiencia y talento. Me destetaron con reguladores magnetosféricos, ¿sabes?}
-{361}{}{Pues qué bien. ¿Lo puedes instalar por mí?}
-{370}{}{Bien, supongo que podría instalarlo. Ciertamente soy el único que puede hacerlo bien. Instalar un regulador hidroeléctrico magnetosférico es bastante complicado.}
-{371}{}{Aquí está el regulador. Sabía que podía contar contigo.}
-{372}{}{Pensándolo bien, creo que será mejor que encuentre otra forma de hacerlo. Adiós.}
-{380}{}{Supongo que podría instalarlo. Pero, verás, instalar un regulador hidroeléctrico magnetosférico es bastante complicado. Y peligroso. No es que tema por mí, pero, ¿quién podría dirigir la central nuclear si algo me sucediera? Lo siento, pero no puedo ayudarte.}
-{381}{}{Debería haber sabido que te acobardarías. Adiós.}
+{262}{}{Supongo que tienes razÃ³n. SerÃ¡ mejor que encuentre otra forma de instalar la pieza.}
+{270}{}{De acuerdo, aquÃ­ estoy. Pero sigo sin estar seguro de que esa sea la pieza adecuada, o de que no se trate de algÃºn tipo de trampa. VerÃ¡s, soy demasiado valioso como para correr riesgos. Tal vez deberÃ­a dejar que algÃºn otro hiciera esto... mÃ¡s tarde... mucho mÃ¡s tarde.}
+{271}{}{Se tiene que hacer ahora. Y tÃº eres el Ãºnico que puede hacerlo bien. Â¡Venga, todo Gecko depende de ti!}
+{272}{}{Supongo que tienes razÃ³n. SerÃ¡ mejor que encuentre otra forma de instalar la pieza.}
+{300}{}{Bien, desde luego utiliza un montÃ³n de uranio. Y pierde otro montÃ³n. VerÃ¡s, pedÃ­ a alguien para arreglarlo, pero nadie me escucha.}
+{301}{}{He oÃ­do que estÃ¡ filtrando radiaciÃ³n al agua subterrÃ¡nea. Â¿Eso es cierto?}
+{302}{}{CreÃ­a que tÃº eras el experto. Â¿Por quÃ© no lo arreglas? Â¿No es precisamente lo que haces aquÃ­, de todas formas?}
+{310}{}{Bien, es posible, pero no creo que vaya a hacer daÃ±o de ningÃºn tipo. Sucede bajo tierra, despuÃ©s de todo.}
+{311}{}{Creo que te equivocas. Ciudad Refugio se ha estado quejando de que vuestra central nuclear estÃ¡ contaminando su agua con radiaciÃ³n.}
+{312}{}{Bueno, si tÃº lo dices. AdiÃ³s.}
+{320}{}{Imposible. Nadie sabrÃ­a mÃ¡s sobre ello que yo. SÃ³lo estÃ¡n buscando a alguien para culparle de sus problemas. Ni siquiera utilizamos el mismo acuÃ­fero.}
+{321}{}{Pareces estar seguro. Pero ellos tambiÃ©n lo estaban.}
+{330}{}{Bueno, son un montÃ³n de novatos cuando hablamos de energÃ­a nuclear. AquÃ­ el verdadero experto soy yo. Puedo asegurarte que lo que yo digo va a misa. Aunque ya no haya misas.}
+{331}{}{En fin, supongo que sabes de lo que estÃ¡s hablando. AdiÃ³s.}
+{332}{}{No estoy tan segura como tÃº. AdiÃ³s.}
+{340}{}{Â¿Te sobra un regulador hidroelÃ©ctrico magnetosfÃ©rico?}
+{341}{}{Â¿Y ya sabes lo que es?}
+{342}{}{Desde luego. Â¿Listo para instalarlo?}
+{350}{}{Sorprendido? Nunca dudes de mi conocimiento acerca de las plantas de energÃ­a atÃ³mica. Yo sÃ© todo lo que hay que saber acerca de ellos.}
+{351}{}{Bueno, pues ya que sabes lo que es, sabrÃ¡s cÃ³mo instalarlo.}
+{352}{}{Creo que ya te he escuchado demasiado. AdiÃ³s.}
+{360}{}{Por supuesto que sÃ­. Es algo sencillÃ­simo para alguien de mi experiencia y talento. Me destetaron con reguladores magnetosfÃ©ricos, Â¿sabes?}
+{361}{}{Pues quÃ© bien. Â¿Lo puedes instalar por mÃ­?}
+{370}{}{Bien, supongo que podrÃ­a instalarlo. Ciertamente soy el Ãºnico que puede hacerlo bien. Instalar un regulador hidroelÃ©ctrico magnetosfÃ©rico es bastante complicado.}
+{371}{}{AquÃ­ estÃ¡ el regulador. SabÃ­a que podÃ­a contar contigo.}
+{372}{}{PensÃ¡ndolo bien, creo que serÃ¡ mejor que encuentre otra forma de hacerlo. AdiÃ³s.}
+{380}{}{Supongo que podrÃ­a instalarlo. Pero, verÃ¡s, instalar un regulador hidroelÃ©ctrico magnetosfÃ©rico es bastante complicado. Y peligroso. No es que tema por mÃ­, pero, Â¿quiÃ©n podrÃ­a dirigir la central nuclear si algo me sucediera? Lo siento, pero no puedo ayudarte.}
+{381}{}{DeberÃ­a haber sabido que te acobardarÃ­as. AdiÃ³s.}
 {390}{}{Ahora mismo no puedo ayudarte. Estoy demasiado ocupado.}
-{391}{}{Vuelve la próxima semana. Tal vez tenga tiempo para entonces.}
-{392}{}{Eh, de todos modos tienes la pieza equivocada. Sí, eso es.}
+{391}{}{Vuelve la prÃ³xima semana. Tal vez tenga tiempo para entonces.}
+{392}{}{Eh, de todos modos tienes la pieza equivocada. SÃ­, eso es.}
 {393}{}{Lo siento, estoy demasiado ocupado para ayudarte.}
-{394}{}{No puedo defraudar a Gecko poniéndome a mí mismo en peligro.}
-{400}{}{Oh, sí. Je, je. Claro, es la pieza adecuada. Es sólo, eh, un modelo más primitivo del que suelo usar. Eso es todo.}
-{401}{}{Bien. Entonces adelante e instálalo.}
-{410}{}{Supongo que harían algo mejor que intentar engañarme a mí con una bomba. Estoy seguro de que saben exactamente con quién están tratando.}
-{411}{}{A menudo hablaron de ti en Ciudad Refugio. Por lo general, en un tono reverencial. Y ahora, limítate a instalar
+{394}{}{No puedo defraudar a Gecko poniÃ©ndome a mÃ­ mismo en peligro.}
+{400}{}{Oh, sÃ­. Je, je. Claro, es la pieza adecuada. Es sÃ³lo, eh, un modelo mÃ¡s primitivo del que suelo usar. Eso es todo.}
+{401}{}{Bien. Entonces adelante e instÃ¡lalo.}
+{410}{}{Supongo que harÃ­an algo mejor que intentar engaÃ±arme a mÃ­ con una bomba. Estoy seguro de que saben exactamente con quiÃ©n estÃ¡n tratando.}
+{411}{}{A menudo hablaron de ti en Ciudad Refugio. Por lo general, en un tono reverencial. Y ahora, limÃ­tate a instalar
  la puta pieza.}
-{420}{}{De acuerdo, ya está. ¡Oye! Lo hice. Realmente soy bueno.}
+{420}{}{De acuerdo, ya estÃ¡. Â¡Oye! Lo hice. Realmente soy bueno.}
 {421}{}{Maldita sea, soy bueno.}
-{422}{}{Fue difícil, pero lo hice. Soy un héroe.}
+{422}{}{Fue difÃ­cil, pero lo hice. Soy un hÃ©roe.}
 {423}{}{Merezco un aumento de sueldo por el trabajo que he hecho.}
 {424}{}{Gecko me debe mucho ahora.}
-{425}{}{¿Me viste ahí fuera? Ni siquiera vacilé un segundo.}
-{430}{}{¿Qué quieres?}
-{431}{}{He oído que tú te encargas de los pedidos de piezas y necesito una.}
-{432}{}{Sólo me preguntaba qué haces aquí. }
-{440}{}{¿Tú? ¿Qué es lo que tú necesitas?}
-{441}{}{Bien, los chicos de esa otra habitación la necesitan. Pero les dije que quería conseguirla yo sólo
- para poder verte en acción.}
-{442}{}{Sólo necesito una. Venga, pórtate como un colega. Dame sólo una. ¿De acuerdo?}
-{443}{}{Creo que será mejor que me des una. Trabajando en una central nuclear, a veces las personas tienen accidentes. ¿Me comprendes?}
-{444}{}{Necesito un for... oye, ¿eso que parpadea en rojo es un activador Fershlubiner como-se-llame?}
-{450}{}{Bien, de acuerdo. Aquí está tu formulario de solicitud de piezas. Supongo que tienes tus razones para necesitarlo.}
-{451}{}{Bien, de acuerdo. Aquí está tu… ¿eh? ¿Dónde he puesto ese maldito papel? Tiene que estar por alguna parte… Hmm, supongo que no puedo encontrarlo ahora. Pero aparecerá.}
-{452}{}{Gracias. Adiós.}
-{453}{}{Oh, en fin. Entonces quizá vuelva más tarde. Adiós.}
-{460}{}{No me importa lo que quieras. Esos formularios de solicitud de piezas sólo son para usos oficiales. Se confían sólo al personal clave. Pero eso yo los tengo. ¿Me captas? Sólo personal clave. }
-{461}{}{Que sí, que te capto. Adiós.}
-{462}{}{Bien, ya recibirás lo tuyo. Tal vez hoy no, pero pronto. Adiós.}
-{470}{}{Eh, bueno, se supone que debe ser así. Tengo mucho e importante trabajo que hacer. Si eso es todo lo que querías...}
+{425}{}{Â¿Me viste ahÃ­ fuera? Ni siquiera vacilÃ© un segundo.}
+{430}{}{Â¿QuÃ© quieres?}
+{431}{}{He oÃ­do que tÃº te encargas de los pedidos de piezas y necesito una.}
+{432}{}{SÃ³lo me preguntaba quÃ© haces aquÃ­. }
+{440}{}{Â¿TÃº? Â¿QuÃ© es lo que tÃº necesitas?}
+{441}{}{Bien, los chicos de esa otra habitaciÃ³n la necesitan. Pero les dije que querÃ­a conseguirla yo sÃ³lo
+ para poder verte en acciÃ³n.}
+{442}{}{SÃ³lo necesito una. Venga, pÃ³rtate como un colega. Dame sÃ³lo una. Â¿De acuerdo?}
+{443}{}{Creo que serÃ¡ mejor que me des una. Trabajando en una central nuclear, a veces las personas tienen accidentes. Â¿Me comprendes?}
+{444}{}{Necesito un for... oye, Â¿eso que parpadea en rojo es un activador Fershlubiner como-se-llame?}
+{450}{}{Bien, de acuerdo. AquÃ­ estÃ¡ tu formulario de solicitud de piezas. Supongo que tienes tus razones para necesitarlo.}
+{451}{}{Bien, de acuerdo. AquÃ­ estÃ¡ tuâ€¦ Â¿eh? Â¿DÃ³nde he puesto ese maldito papel? Tiene que estar por alguna parteâ€¦ Hmm, supongo que no puedo encontrarlo ahora. Pero aparecerÃ¡.}
+{452}{}{Gracias. AdiÃ³s.}
+{453}{}{Oh, en fin. Entonces quizÃ¡ vuelva mÃ¡s tarde. AdiÃ³s.}
+{460}{}{No me importa lo que quieras. Esos formularios de solicitud de piezas sÃ³lo son para usos oficiales. Se confÃ­an sÃ³lo al personal clave. Pero eso yo los tengo. Â¿Me captas? SÃ³lo personal clave. }
+{461}{}{Que sÃ­, que te capto. AdiÃ³s.}
+{462}{}{Bien, ya recibirÃ¡s lo tuyo. Tal vez hoy no, pero pronto. AdiÃ³s.}
+{470}{}{Eh, bueno, se supone que debe ser asÃ­. Tengo mucho e importante trabajo que hacer. Si eso es todo lo que querÃ­as...}
 {471}{}{Bueno, en realidad necesito un formulario de solicitud de piezas.}
-{472}{}{Después de todo, no necesito nada más. Adiós.}
-{480}{}{¿Qué quieres decir? Oh, en fin, supongo que he estado trabajando demasiado últimamente. En realidad no he tenido tiempo de cuidar de mí mismo como debería. Tal vez la radiación sólo me afecta de forma un poco diferente.}
-{481}{}{Eh, bueno... tal vez deberías considerar el ducharte o algo, por el bien de tu apariencia.}
-{490}{}{Sí, creo que debo hacerlo. Pero cada vez que me ducho, se me cae un montón de piel y todas las costras se
- abren. Y otra cosa, mis uñas se desgarran y...}
-{491}{}{¡Espera! ¡Alto! Creo que ye he oído más que suficiente. Eh, retrocedamos un poco.}
-{500}{}{Festus se marcha y después vuelve. Aún lleva la pieza.}
+{472}{}{DespuÃ©s de todo, no necesito nada mÃ¡s. AdiÃ³s.}
+{480}{}{Â¿QuÃ© quieres decir? Oh, en fin, supongo que he estado trabajando demasiado Ãºltimamente. En realidad no he tenido tiempo de cuidar de mÃ­ mismo como deberÃ­a. Tal vez la radiaciÃ³n sÃ³lo me afecta de forma un poco diferente.}
+{481}{}{Eh, bueno... tal vez deberÃ­as considerar el ducharte o algo, por el bien de tu apariencia.}
+{490}{}{SÃ­, creo que debo hacerlo. Pero cada vez que me ducho, se me cae un montÃ³n de piel y todas las costras se
+ abren. Y otra cosa, mis uÃ±as se desgarran y...}
+{491}{}{Â¡Espera! Â¡Alto! Creo que ye he oÃ­do mÃ¡s que suficiente. Eh, retrocedamos un poco.}
+{500}{}{Festus se marcha y despuÃ©s vuelve. AÃºn lleva la pieza.}
 {510}{}{[HECHO]}
 {520}{}{Festus te devuelve la pieza.}
-{530}{}{Festus se marcha y después vuelve. Parece muy contento por algo.}
+{530}{}{Festus se marcha y despuÃ©s vuelve. Parece muy contento por algo.}
 {600}{}{Tengo un disco de datos del reactor que puede ayudarte a optimizar el reactor.}
-{610}{}{De acuerdo, dámelo y veré qué puedo hacer.}
-{620}{}{Aquí están.}
+{610}{}{De acuerdo, dÃ¡melo y verÃ© quÃ© puedo hacer.}
+{620}{}{AquÃ­ estÃ¡n.}
 {630}{}{No, creo que de momento me lo voy a quedar.}
 {640}{}{De acuerdo. Tiene buena pinta. Gracias por toda tu ayuda.}
 {650}{}{Desde luego. No hay problema.}
 {700}{}{Has convencido a Festus para que te ayude con la central nuclear.}
-{800}{}{Quiero decir que ahora el reactor está funcionando, pero seguro que podría hacerlo mejor. Y me refiero a mejor pero de largo, si tuviéramos una pizca más de datos. Así que si pudieras
- conseguir los datos de optimización, cocinaríamos con gas, eh, bueno, ya sabes a qué me refiero.}
-{801}{}{¿Datos de optimización? ¿De dónde podría obtenerlos?}
-{802}{}{Bueno, probablemente podrías conseguir la información de la computadora central de
+{800}{}{Quiero decir que ahora el reactor estÃ¡ funcionando, pero seguro que podrÃ­a hacerlo mejor. Y me refiero a mejor pero de largo, si tuviÃ©ramos una pizca mÃ¡s de datos. AsÃ­ que si pudieras
+ conseguir los datos de optimizaciÃ³n, cocinarÃ­amos con gas, eh, bueno, ya sabes a quÃ© me refiero.}
+{801}{}{Â¿Datos de optimizaciÃ³n? Â¿De dÃ³nde podrÃ­a obtenerlos?}
+{802}{}{Bueno, probablemente podrÃ­as conseguir la informaciÃ³n de la computadora central de
  Ciudad Refugio.}
-{803}{}{Está bien, déjame ver lo que puedo hacer.}
+{803}{}{EstÃ¡ bien, dÃ©jame ver lo que puedo hacer.}
 {804}{}{Hmm, es una idea.}
-{805}{}{Eso sólo sucederá cuando un perro de papel persiga con éxito a un gato
- de amianto por todo el infierno. Adiós, Festus.}
-{806}{}{Apuesto a que un tipo listo como tú podría colarse allí y usar un
- holodisco con la información del rendimiento del reactor en la computadora central. Y después
- traer el disco de vuelta aquí. Eso sería todo. Lo haría yo mismo, pero soy demasiado
- valioso como para marcharme, incluso aunque sea sólo un rato.}
+{805}{}{Eso sÃ³lo sucederÃ¡ cuando un perro de papel persiga con Ã©xito a un gato
+ de amianto por todo el infierno. AdiÃ³s, Festus.}
+{806}{}{Apuesto a que un tipo listo como tÃº podrÃ­a colarse allÃ­ y usar un
+ holodisco con la informaciÃ³n del rendimiento del reactor en la computadora central. Y despuÃ©s
+ traer el disco de vuelta aquÃ­. Eso serÃ­a todo. Lo harÃ­a yo mismo, pero soy demasiado
+ valioso como para marcharme, incluso aunque sea sÃ³lo un rato.}
 {807}{}{Odio dejar un trabajo a medio hacer.}
-{808}{}{Hmm, no creo que pueda salir de aquí con eso. Lo siento, Festus. Adiós.}
-{809}{}{Eso podría funcionar. Supongo que algo de mi inteligencia se te está
- contagiando. Bien, bien. Oye, deberías ir a llevárselo a un tipo llamado McClure. Por
- lo que he oído, es el único por allí que prestaría oídos algo más que los preciosos 
+{808}{}{Hmm, no creo que pueda salir de aquÃ­ con eso. Lo siento, Festus. AdiÃ³s.}
+{809}{}{Eso podrÃ­a funcionar. Supongo que algo de mi inteligencia se te estÃ¡
+ contagiando. Bien, bien. Oye, deberÃ­as ir a llevÃ¡rselo a un tipo llamado McClure. Por
+ lo que he oÃ­do, es el Ãºnico por allÃ­ que prestarÃ­a oÃ­dos algo mÃ¡s que los preciosos 
  ciudadanos de Ciudad Refugio.}
 {810}{}{El concejal McClure es el hombre con el que tratar. De acuerdo, gracias por el consejo. Supongo entonces que
- lo haré.}
-{811}{}{Dios santo, me encantaría que me encerraran en Ciudad Refugio por ser un simpatizante de mutantes. No
- gracias, Festus. Estás solo en esto. Adiós.}
-{812}{}{Ese es el espíritu. Esperaba que dijeras eso. Fantástico. Tan solo usa este disco
- en la computadora central de Ciudad Refugio y después regresa aquí. Usaremos menos uranio, el
- núcleo no tendrá tantas pérdidas, y la dichosa Ciudad Refugio no tendrá ninguna razón para exterminarnos.}
-{813}{}{Desde luego no quiero ver cómo destruyen Gecko. Lo haré.}
-{814}{}{No creo que pueda hacerlo. Lo siento, Festus. Adiós.}
-{815}{}{Por supuesto, desearía perder mi tiempo e ir a hacerlo yo mismo, pero no puedo. Todo lo que puedo decir es
- gracias, muchacho. Nos harás un gran favor. (sniff, sniff) Hazme sentir
+ lo harÃ©.}
+{811}{}{Dios santo, me encantarÃ­a que me encerraran en Ciudad Refugio por ser un simpatizante de mutantes. No
+ gracias, Festus. EstÃ¡s solo en esto. AdiÃ³s.}
+{812}{}{Ese es el espÃ­ritu. Esperaba que dijeras eso. FantÃ¡stico. Tan solo usa este disco
+ en la computadora central de Ciudad Refugio y despuÃ©s regresa aquÃ­. Usaremos menos uranio, el
+ nÃºcleo no tendrÃ¡ tantas pÃ©rdidas, y la dichosa Ciudad Refugio no tendrÃ¡ ninguna razÃ³n para exterminarnos.}
+{813}{}{Desde luego no quiero ver cÃ³mo destruyen Gecko. Lo harÃ©.}
+{814}{}{No creo que pueda hacerlo. Lo siento, Festus. AdiÃ³s.}
+{815}{}{Por supuesto, desearÃ­a perder mi tiempo e ir a hacerlo yo mismo, pero no puedo. Todo lo que puedo decir es
+ gracias, muchacho. Nos harÃ¡s un gran favor. (sniff, sniff) Hazme sentir
  orgulloso.}
-{816}{}{Bueno, será mejor marcharse. Adiós, Festus. Volveré con los datos que necesitas lo
+{816}{}{Bueno, serÃ¡ mejor marcharse. AdiÃ³s, Festus. VolverÃ© con los datos que necesitas lo
  antes posible.}
-{817}{}{No haraganees por aquí. Consigue esos datos.}
-{818}{}{No te quedes ahí parada. El reactor no va a funcionar para siempre.}
-{819}{}{Muévete y consigue esos datos de optimización, como dijiste que harías.}
-{820}{}{Tendremos tiempo de sobra para charlar *después* de optimizar el reactor.}
+{817}{}{No haraganees por aquÃ­. Consigue esos datos.}
+{818}{}{No te quedes ahÃ­ parada. El reactor no va a funcionar para siempre.}
+{819}{}{MuÃ©vete y consigue esos datos de optimizaciÃ³n, como dijiste que harÃ­as.}
+{820}{}{Tendremos tiempo de sobra para charlar *despuÃ©s* de optimizar el reactor.}
 {821}{}{Ve a Ciudad Refugio y negocia con McClure lo del disco para los datos del reactor que necesitamos.
- ¿De acuerdo?}
+ Â¿De acuerdo?}
 {822}{}{Venga. Consigue ese disco de McClure.}
-{823}{}{¿Ciudad Refugio? ¿Un trabajo a medio hacer? ¿Hay un hueco en eso que tienes entre ambas orejas?}
-{824}{}{¡Aprisa!}
-{825}{}{Gracias por conseguir los datos que necesitábamos de Ciudad Refugio para optimizar esta vieja bestia goteante.
- Eres un tipo astuto, no lo niegues, campeón. Ha sido un trabajo casi tan bueno como si lo hubiera hecho yo mismo.
- Por supuesto... si es que llegas a *terminarlo*, cojones, así que usa ese disco en el terminal de control del robot.
- ¿Me has entendido? Bien, pues a ello entonces.}
-{826}{}{Bien, no quería dejar el trabajo a medio hacer. Adiós, Festus.}
-{827}{}{Sí, apuesto a que lo hubieras hecho. Ulceroso charlatán. Adiós.}
-{828}{}{Eres una maravilla. No hay duda de ello. Sabía que lo harías.}
+{823}{}{Â¿Ciudad Refugio? Â¿Un trabajo a medio hacer? Â¿Hay un hueco en eso que tienes entre ambas orejas?}
+{824}{}{Â¡Aprisa!}
+{825}{}{Gracias por conseguir los datos que necesitÃ¡bamos de Ciudad Refugio para optimizar esta vieja bestia goteante.
+ Eres un tipo astuto, no lo niegues, campeÃ³n. Ha sido un trabajo casi tan bueno como si lo hubiera hecho yo mismo.
+ Por supuesto... si es que llegas a *terminarlo*, cojones, asÃ­ que usa ese disco en el terminal de control del robot.
+ Â¿Me has entendido? Bien, pues a ello entonces.}
+{826}{}{Bien, no querÃ­a dejar el trabajo a medio hacer. AdiÃ³s, Festus.}
+{827}{}{SÃ­, apuesto a que lo hubieras hecho. Ulceroso charlatÃ¡n. AdiÃ³s.}
+{828}{}{Eres una maravilla. No hay duda de ello. SabÃ­a que lo harÃ­as.}
 {829}{}{Me has hecho sentir orgulloso.}
-{830}{}{Gracias. Ahora déjame volver a mi importante trabajo.}
-{831}{}{Sigue así y puede que algún día llegues a ser alguien como yo.}
-{900}{}{¿Acaso no ves que estoy ocupado?}
+{830}{}{Gracias. Ahora dÃ©jame volver a mi importante trabajo.}
+{831}{}{Sigue asÃ­ y puede que algÃºn dÃ­a llegues a ser alguien como yo.}
+{900}{}{Â¿Acaso no ves que estoy ocupado?}

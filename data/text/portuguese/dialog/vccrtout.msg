@@ -2,12 +2,12 @@
 {101}{}{Life doesn't seem very prosperous for this person.}
 {102}{}{Yeah, whaddya lookin' at?}
 {103}{}{Nice day... for somebody.}
-{104}{}{Eu n„o ficaria por aqui se fosse vocÍ.}
+{104}{}{Eu n√£o ficaria por aqui se fosse voc√™.}
 {105}{}{Wish I could get into the city.}
 {106}{}{Onde foi parar o dinheiro que eu tinha...?}
 {107}{}{Nice duds.}
 {108}{}{Nice place... if you can handle the law.}
-{109}{}{Pelo menos eu n„o estou no deserto...}
+{109}{}{Pelo menos eu n√£o estou no deserto...}
 {110}{}{Keep on movin'.}
 {111}{}{Money's running short...}
 {112}{}{You get yourself outta here, y'hear?}
@@ -16,6 +16,6 @@
 {115}{}{Back off.}
 {116}{}{Keep on moving.}
 {117}{}{Keep to yourself.}
-{118}{}{NÛs n„o precisamos de tua gente por aqui.}
+{118}{}{N√≥s n√£o precisamos de tua gente por aqui.}
 {119}{}{The gate's right over there. Make yourself scarce.}
 {120}{}{Desert trash...}

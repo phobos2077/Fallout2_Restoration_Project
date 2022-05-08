@@ -1,105 +1,105 @@
-{100}{}{Você vê um pequeno terminal de computador.}
-{101}{}{Você vê o terminal do computador da Abadia.}
-{102}{}{Você verá um pequeno terminal de computador. Parece ser funcional.}
-{103}{}{Você acessa o computador e verifica todos os arquivos disponíveis. Você encontra alguns arquivos contendo as palavras-chave "GECK" e "Vault".}
-{104}{}{Leia GECK informações.}
-{105}{}{Leia informações do Vault.}
-{106}{}{ERRO! cartão de acesso não encontrado. Por favor, insira o cartão de acesso no slot de criptografia.}
-{107}{}{(Você insere o cartão de acesso no slot) BEEP !, cartão de acesso aceito. LOADING Winblows 2075 ...... FEITO.}
+{100}{}{VocÃª vÃª um pequeno terminal de computador.}
+{101}{}{VocÃª vÃª o terminal do computador da Abadia.}
+{102}{}{VocÃª verÃ¡ um pequeno terminal de computador. Parece ser funcional.}
+{103}{}{VocÃª acessa o computador e verifica todos os arquivos disponÃ­veis. VocÃª encontra alguns arquivos contendo as palavras-chave "GECK" e "Vault".}
+{104}{}{Leia GECK informaÃ§Ãµes.}
+{105}{}{Leia informaÃ§Ãµes do Vault.}
+{106}{}{ERRO! cartÃ£o de acesso nÃ£o encontrado. Por favor, insira o cartÃ£o de acesso no slot de criptografia.}
+{107}{}{(VocÃª insere o cartÃ£o de acesso no slot) BEEP !, cartÃ£o de acesso aceito. LOADING Winblows 2075 ...... FEITO.}
 {108}{}{Entrada do comando.}
-{109}{}{Verificação de arquivos para qualquer informação sobre o GECK ou VAULT 13.}
+{109}{}{VerificaÃ§Ã£o de arquivos para qualquer informaÃ§Ã£o sobre o GECK ou VAULT 13.}
 {110}{}{Acesso a outros arquivos.}
 {111}{}{Jogar Pedra Papel Tesoura.}
 {112}{}{Voltar.}
-{113}{}{Fim de sessão.}
+{113}{}{Fim de sessÃ£o.}
 {114}{}{[CONTINUAR]}
-{115}{}{Você pode encontrar alguns arquivos que contêm as palavras-chave "GECK" e "Vault".}
+{115}{}{VocÃª pode encontrar alguns arquivos que contÃªm as palavras-chave "GECK" e "Vault".}
 {116}{}{Procurar arquivos pertencentes a "GECK".}
 {117}{}{Procurar arquivos pertencentes a "Vault".}
-{118}{}{O programa de pesquisa parece ser um pouco difícil para você.}
-{119}{}{Seus olhos se expandem e seu coração se acelera quando você descobre o que parece ser um anúncio antigo para um Kit de Criação do Jardim do Éden. 
-O anúncio retrata um cara de desenhos animados sorridente em um terno de Vault segurando um grande caso que diz, "Survival Kit". Está
-  quase como se o bastardo sorridente estivesse zombando de você.}
-{120}{}{Você navega sobre os arquivos, que contêm principalmente propaganda do governo para a forma como a vida maravilhosa nos Vaults seria.
-  Você aprendeu que em meados do século 21, o governo dos EUA encomendou a Vault-Tec para construir 122 Vaults em todo os Estados Unidos.
-  Essas bóias deveriam servir de abrigo para até 1.000 cidadãos dos EUA no caso de um holocausto nuclear. Dentro dos limites seguros
-  dos Vaults subterrâneos, os Moradores do Vault podiam viver uma existência luxuosa enquanto esperavam o sinal informando-os de que a
-  O mundo da superfície é mais uma vez habitável.}
-{121}{}{Ao pesquisar pelo sistema, você encontra centenas de livros e revistas digitalizados categorizados no disco rígido. Você
-  nem saberia por onde começar a procurar algo de uso.}
-{122}{}{Ao pesquisar pelo sistema, você encontra centenas de livros e revistas digitalizados categorizados no disco rígido. Desde já
-  Você é habilidoso em como as informações geralmente são armazenadas, talvez a pesquisa por tópico produza algo de uso.}
+{118}{}{O programa de pesquisa parece ser um pouco difÃ­cil para vocÃª.}
+{119}{}{Seus olhos se expandem e seu coraÃ§Ã£o se acelera quando vocÃª descobre o que parece ser um anÃºncio antigo para um Kit de CriaÃ§Ã£o do Jardim do Ã‰den. 
+O anÃºncio retrata um cara de desenhos animados sorridente em um terno de Vault segurando um grande caso que diz, "Survival Kit". EstÃ¡
+Â  quase como se o bastardo sorridente estivesse zombando de vocÃª.}
+{120}{}{VocÃª navega sobre os arquivos, que contÃªm principalmente propaganda do governo para a forma como a vida maravilhosa nos Vaults seria.
+Â  VocÃª aprendeu que em meados do sÃ©culo 21, o governo dos EUA encomendou a Vault-Tec para construir 122 Vaults em todo os Estados Unidos.
+Â  Essas bÃ³ias deveriam servir de abrigo para atÃ© 1.000 cidadÃ£os dos EUA no caso de um holocausto nuclear. Dentro dos limites seguros
+Â  dos Vaults subterrÃ¢neos, os Moradores do Vault podiam viver uma existÃªncia luxuosa enquanto esperavam o sinal informando-os de que a
+Â  O mundo da superfÃ­cie Ã© mais uma vez habitÃ¡vel.}
+{121}{}{Ao pesquisar pelo sistema, vocÃª encontra centenas de livros e revistas digitalizados categorizados no disco rÃ­gido. VocÃª
+Â  nem saberia por onde comeÃ§ar a procurar algo de uso.}
+{122}{}{Ao pesquisar pelo sistema, vocÃª encontra centenas de livros e revistas digitalizados categorizados no disco rÃ­gido. Desde jÃ¡
+Â  VocÃª Ã© habilidoso em como as informaÃ§Ãµes geralmente sÃ£o armazenadas, talvez a pesquisa por tÃ³pico produza algo de uso.}
 {123}{}{[MAIS]}
-{124}{}{De acordo com o anúncio, o kit inclui uma "Unidade de Replicador Base", que "replica alimentos e itens básicos necessários para a construção
-  do seu novo mundo ", um" Holodisc Reader with Library ", que" inclui seleções da Biblioteca do Congresso, conjunto completo de enciclopédias,
-  e outras informações que salvam vidas, todas contidas em quatrocentos e sessenta holodiscs úteis! "e até contém uma" lanterna de caneta miniatura "!
-  Certamente, esse dispositivo milagroso é exatamente o que você precisa para salvar sua vila moribunda.}
+{124}{}{De acordo com o anÃºncio, o kit inclui uma "Unidade de Replicador Base", que "replica alimentos e itens bÃ¡sicos necessÃ¡rios para a construÃ§Ã£o
+Â  do seu novo mundo ", um" Holodisc Reader with Library ", que" inclui seleÃ§Ãµes da Biblioteca do Congresso, conjunto completo de enciclopÃ©dias,
+Â  e outras informaÃ§Ãµes que salvam vidas, todas contidas em quatrocentos e sessenta holodiscs Ãºteis! "e atÃ© contÃ©m uma" lanterna de caneta miniatura "!
+Â  Certamente, esse dispositivo milagroso Ã© exatamente o que vocÃª precisa para salvar sua vila moribunda.}
 {125}{}{Ler mais.}
-{126}{}{Você continua navegando nos arquivos, mas a única menção que você encontra do Vault 13, simplesmente afirma que está localizado na Califórnia,
-  o que não ajuda muito.}
-{130}{}{Adicionar informações.}
-{131}{}{[Você não tem nada para adicionar.] Para trás.}
-{132}{}{Entrada Botony informações.}
-{133}{}{Insira informações [Blah].}
+{126}{}{VocÃª continua navegando nos arquivos, mas a Ãºnica menÃ§Ã£o que vocÃª encontra do Vault 13, simplesmente afirma que estÃ¡ localizado na CalifÃ³rnia,
+Â  o que nÃ£o ajuda muito.}
+{130}{}{Adicionar informaÃ§Ãµes.}
+{131}{}{[VocÃª nÃ£o tem nada para adicionar.] Para trÃ¡s.}
+{132}{}{Entrada Botony informaÃ§Ãµes.}
+{133}{}{Insira informaÃ§Ãµes [Blah].}
 {140}{}{Leia o arquivo de Ajuda / Sobre.}
-{141}{}{Parabéns pela instalação do Winblows 2075 com sucesso! Esta versão é a versão mais avançada do Winblows até à data.
-  Com a probabilidade de apenas uma falha por milhão de chamadas de função confirmadas, nossos técnicos estão confiantes de que Winblows é perfeito
-  para qualquer ambiente corporativo. A adição mais recente ao Winblows 2075 é uma base de código melhorada e ajustada que agora só desperdiça 15%
-  dos seus ciclos de CPU na administração em segundo plano, em oposição às versões anteriores, que desperdiçariam até 25% de seus ciclos de CPU.
-  Claro, muita consideração do usuário foi colocada nesta última versão. Tal como acontece com versões anteriores do Winblows, o comum
-  Os comandos de Pesquisar, Adicionar, Mover, Excluir e Formato estão disponíveis para o usuário.}
-{142}{}{Formatação de sistema de arquivo, incluindo todos os bancos de dados de backup no host e as máquinas da rede.}
+{141}{}{ParabÃ©ns pela instalaÃ§Ã£o do Winblows 2075 com sucesso! Esta versÃ£o Ã© a versÃ£o mais avanÃ§ada do Winblows atÃ© Ã  data.
+Â  Com a probabilidade de apenas uma falha por milhÃ£o de chamadas de funÃ§Ã£o confirmadas, nossos tÃ©cnicos estÃ£o confiantes de que Winblows Ã© perfeito
+Â  para qualquer ambiente corporativo. A adiÃ§Ã£o mais recente ao Winblows 2075 Ã© uma base de cÃ³digo melhorada e ajustada que agora sÃ³ desperdiÃ§a 15%
+Â  dos seus ciclos de CPU na administraÃ§Ã£o em segundo plano, em oposiÃ§Ã£o Ã s versÃµes anteriores, que desperdiÃ§ariam atÃ© 25% de seus ciclos de CPU.
+Â  Claro, muita consideraÃ§Ã£o do usuÃ¡rio foi colocada nesta Ãºltima versÃ£o. Tal como acontece com versÃµes anteriores do Winblows, o comum
+Â  Os comandos de Pesquisar, Adicionar, Mover, Excluir e Formato estÃ£o disponÃ­veis para o usuÃ¡rio.}
+{142}{}{FormataÃ§Ã£o de sistema de arquivo, incluindo todos os bancos de dados de backup no host e as mÃ¡quinas da rede.}
 {143}{}{Voltar.}
-{144}{}{Formatação backup de banco de dados...SUCESSO...a Formatação do sistema de arquivos atual...ESPERA...Aviso: Não foi um erro grave.
+{144}{}{FormataÃ§Ã£o backup de banco de dados...SUCESSO...a FormataÃ§Ã£o do sistema de arquivos atual...ESPERA...Aviso: NÃ£o foi um erro grave.
 Por favor stand by...}
 {145}{}{Esperar.}
-{146}{}{... Erro do sistema: a operação foi concluída com sucesso ... (Um som gritante começa a emanar do interior do computador e de outros próximos.}
+{146}{}{... Erro do sistema: a operaÃ§Ã£o foi concluÃ­da com sucesso ... (Um som gritante comeÃ§a a emanar do interior do computador e de outros prÃ³ximos.}
 {147}{}{[Ir embora.]}
-{148}{}{Erro: Teclado Não encontrado. Por favor, pressione qualquer tecla para reinicializar.}
-{150}{}{Carregando Agência de Proteção Ambiental Botânica informações do disco...Upload completo. Tenha um bom dia.}
-{200}{}{Pedra, Papel, Tesoura V. 0.3. Selecione uma opção.}
+{148}{}{Erro: Teclado NÃ£o encontrado. Por favor, pressione qualquer tecla para reinicializar.}
+{150}{}{Carregando AgÃªncia de ProteÃ§Ã£o Ambiental BotÃ¢nica informaÃ§Ãµes do disco...Upload completo. Tenha um bom dia.}
+{200}{}{Pedra, Papel, Tesoura V. 0.3. Selecione uma opÃ§Ã£o.}
 {201}{}{Selecione ROCK.}
 {202}{}{Selecione o PAPEL.}
 {203}{}{Selecione uma TESOURA.}
 {204}{}{Voltar para o menu principal.}
-{205}{}{O terminal faz a seleção ... Calculando ..... Terminal ganha!}
-{206}{}{O Terminal faz a selecção.....Cálculo.....Usuário ganha!}
-{207}{}{O Terminal faz a selecção.....Cálculo.....Desenhar!}
-{300}{}{(A tela do computador mostra vários padrões de cores.)}
+{205}{}{O terminal faz a seleÃ§Ã£o ... Calculando ..... Terminal ganha!}
+{206}{}{O Terminal faz a selecÃ§Ã£o.....CÃ¡lculo.....UsuÃ¡rio ganha!}
+{207}{}{O Terminal faz a selecÃ§Ã£o.....CÃ¡lculo.....Desenhar!}
+{300}{}{(A tela do computador mostra vÃ¡rios padrÃµes de cores.)}
 {301}{}{Ohhh! Cores bonitas.}
 {302}{}{Desliga.}
 {400}{}{Ler mais.}
 {401}{}{Voltar ao menu.}
-{402}{}{Pesquisar por tópico.}
+{402}{}{Pesquisar por tÃ³pico.}
 {403}{}{Por favor insira um assunto para pesquisar.}
-{404}{}{Ciência.}
+{404}{}{CiÃªncia.}
 {405}{}{Reparo.}
 {406}{}{Medicina.}
 {407}{}{Uso Da Arma.}
-{408}{}{Os Argumentos De Persuasão.}
-{410}{}{Depois de algumas horas de leitura, você aprende mais sobre a arte da ciência.}
-{411}{}{Depois de algumas horas de leitura você aprender mais sobre a arte de reparo de máquinas.}
-{412}{}{Depois de algumas horas de leitura você aprender mais sobre a arte da medicina.}
-{413}{}{Depois de algumas horas de leitura você aprender mais sobre a arte de defender-se com uma arma.}
-{414}{}{Depois de algumas horas de leitura você aprender mais sobre a arte da persuasão.}
-{420}{}{Depois de algumas horas de leitura você aprende nada de novo sobre a arte da ciência.}
-{421}{}{Depois de algumas horas de leitura você aprende nada de novo sobre a arte de reparo de máquinas.}
-{422}{}{Depois de algumas horas de leitura você aprende nada de novo sobre a arte da medicina.}
-{423}{}{Depois de algumas horas de leitura você aprende nada de novo sobre a arte de disparar uma arma.}
-{424}{}{Depois de algumas horas de leitura você aprende nada de novo sobre a arte da persuasão.}
+{408}{}{Os Argumentos De PersuasÃ£o.}
+{410}{}{Depois de algumas horas de leitura, vocÃª aprende mais sobre a arte da ciÃªncia.}
+{411}{}{Depois de algumas horas de leitura vocÃª aprender mais sobre a arte de reparo de mÃ¡quinas.}
+{412}{}{Depois de algumas horas de leitura vocÃª aprender mais sobre a arte da medicina.}
+{413}{}{Depois de algumas horas de leitura vocÃª aprender mais sobre a arte de defender-se com uma arma.}
+{414}{}{Depois de algumas horas de leitura vocÃª aprender mais sobre a arte da persuasÃ£o.}
+{420}{}{Depois de algumas horas de leitura vocÃª aprende nada de novo sobre a arte da ciÃªncia.}
+{421}{}{Depois de algumas horas de leitura vocÃª aprende nada de novo sobre a arte de reparo de mÃ¡quinas.}
+{422}{}{Depois de algumas horas de leitura vocÃª aprende nada de novo sobre a arte da medicina.}
+{423}{}{Depois de algumas horas de leitura vocÃª aprende nada de novo sobre a arte de disparar uma arma.}
+{424}{}{Depois de algumas horas de leitura vocÃª aprende nada de novo sobre a arte da persuasÃ£o.}
 {430}{}{Voltar.}
-{500}{}{Ao ler mais artigos, você aprendeu que o GECK foi desenvolvido pela Future-Tec, uma divisão da Vault-Tec, e que
-  Era uma questão padrão em todos os cofres Vault-Tec. Estava destinada a ser usada na saída de um Vault, para ajudar a restabelecer a vida
-  nos ambientes hostis de um mundo devastado pela guerra nuclear.}
-{501}{}{Ao ler mais, você descobre que o GECK não é o dispositivo milagroso que o anúncio fez pareser. O "Replicador Base"
-  na verdade é nada mais do que um sistema de fertilizantes contendo sementes de alimentos, suplementos de solo e produtos químicos especificamente projetados para
-  virar terra árida em solo fértil. A afirmação de que ele pode "criar itens básicos" realmente alude a novos códigos que prevê para as
-  Máquinas do Vault, permitindo que eles criem novos itens dos dispensadores. O GECK também contém esquemas para campos de força básicos
-  e a construção de paredes e prédios de "areia-crete".}
+{500}{}{Ao ler mais artigos, vocÃª aprendeu que o GECK foi desenvolvido pela Future-Tec, uma divisÃ£o da Vault-Tec, e que
+Â  Era uma questÃ£o padrÃ£o em todos os cofres Vault-Tec. Estava destinada a ser usada na saÃ­da de um Vault, para ajudar a restabelecer a vida
+Â  nos ambientes hostis de um mundo devastado pela guerra nuclear.}
+{501}{}{Ao ler mais, vocÃª descobre que o GECK nÃ£o Ã© o dispositivo milagroso que o anÃºncio fez pareser. O "Replicador Base"
+Â  na verdade Ã© nada mais do que um sistema de fertilizantes contendo sementes de alimentos, suplementos de solo e produtos quÃ­micos especificamente projetados para
+Â  virar terra Ã¡rida em solo fÃ©rtil. A afirmaÃ§Ã£o de que ele pode "criar itens bÃ¡sicos" realmente alude a novos cÃ³digos que prevÃª para as
+Â  MÃ¡quinas do Vault, permitindo que eles criem novos itens dos dispensadores. O GECK tambÃ©m contÃ©m esquemas para campos de forÃ§a bÃ¡sicos
+Â  e a construÃ§Ã£o de paredes e prÃ©dios de "areia-crete".}
 {502}{}{[MAIS]}
-{503}{}{Parece que o próprio GECK deve ser desmontado durante o seu uso. Você lê um exemplo de como é a fusão a frio
-  A fonte de energia destina-se a ser usada para a produção de energia principal da cidade. O GECK ainda contém instruções sobre desmontagem de seções do
-  Vault para criar casas e estruturas defensivas para a nova comunidade. Quando você termina de ler os arquivos, você decide que, embora
-  Não seja o dispositivo mágico que o Ancião parece pensar, encontrar um GECK ainda é sua melhor opção se você quiser salvar sua tribo.}
-{1000}{}{Você faz o upload do EPA Botânica Holodisk.}
-{2000}{}{Você formata os bancos de dados de livros da Abadia.}
+{503}{}{Parece que o prÃ³prio GECK deve ser desmontado durante o seu uso. VocÃª lÃª um exemplo de como Ã© a fusÃ£o a frio
+Â  A fonte de energia destina-se a ser usada para a produÃ§Ã£o de energia principal da cidade. O GECK ainda contÃ©m instruÃ§Ãµes sobre desmontagem de seÃ§Ãµes do
+Â  Vault para criar casas e estruturas defensivas para a nova comunidade. Quando vocÃª termina de ler os arquivos, vocÃª decide que, embora
+Â  NÃ£o seja o dispositivo mÃ¡gico que o AnciÃ£o parece pensar, encontrar um GECK ainda Ã© sua melhor opÃ§Ã£o se vocÃª quiser salvar sua tribo.}
+{1000}{}{VocÃª faz o upload do EPA BotÃ¢nica Holodisk.}
+{2000}{}{VocÃª formata os bancos de dados de livros da Abadia.}

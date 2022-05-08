@@ -1,16 +1,16 @@
-{100}{}{allo en Bio-almacenamiento!}
-{101}{}{Brecha de contenci髇 en Nivel 4.}
+{100}{}{隆Fallo en Bio-almacenamiento!}
+{101}{}{Brecha de contenci贸n en Nivel 4.}
 {102}{}{Nivel 4 contaminado.}
-{103}{}{Sellos de riesgo biol骻ico comprometidos en Nivel 3.}
-{104}{}{Brecha de contenci髇 en Nivel 3.}
+{103}{}{Sellos de riesgo biol贸gico comprometidos en Nivel 3.}
+{104}{}{Brecha de contenci贸n en Nivel 3.}
 {105}{}{Nivel 3 contaminado.}
-{106}{}{Sellos de riesgo biol骻ico comprometidos en Nivel 2.}
-{107}{}{Brecha de contenci髇 en Nivel 2.}
+{106}{}{Sellos de riesgo biol贸gico comprometidos en Nivel 2.}
+{107}{}{Brecha de contenci贸n en Nivel 2.}
 {108}{}{Nivel 2 contaminado.}
-{109}{}{Sellos de riesgo biol骻ico comprometidos en Nivel 1.}
-{110}{}{Brecha de contenci髇 en Nivel 1.}
+{109}{}{Sellos de riesgo biol贸gico comprometidos en Nivel 1.}
+{110}{}{Brecha de contenci贸n en Nivel 1.}
 {111}{}{Nivel 1 contaminado.}
 {112}{}{ minutos y }
-{113}{}{ segundos para evacuaci髇.}
+{113}{}{ segundos para evacuaci贸n.}
 {114}{}{ minutos y }
-{115}{}{ segundos para evacuaci髇.}
+{115}{}{ segundos para evacuaci贸n.}

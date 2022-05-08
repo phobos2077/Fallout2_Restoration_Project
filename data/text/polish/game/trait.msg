@@ -1,32 +1,32 @@
 {100}{}{Szybki metabolizm}
-{101}{}{Miêœniak}
+{101}{}{MiÄ™Å›niak}
 {102}{}{Drobna postura}
-{103}{}{Jednorêcznoœæ}
+{103}{}{JednorÄ™cznoÅ›Ä‡}
 {104}{}{Finezja}
 {105}{}{Kamikadze}
-{106}{}{Ciê¿ka rêka}
+{106}{}{CiÄ™Å¼ka rÄ™ka}
 {107}{}{Szybki cyngiel}
 {108}{}{Krwawa jatka}
 {109}{}{Fatum}
-{110}{}{Dobrotliwoœæ}
-{111}{}{Zale¿noœæ od Narkotyków}
-{112}{}{Odpornoœæ na Narkotyki}
+{110}{}{DobrotliwoÅ›Ä‡}
+{111}{}{ZaleÅ¼noÅ›Ä‡ od NarkotykÃ³w}
+{112}{}{OdpornoÅ›Ä‡ na Narkotyki}
 {113}{}{Seksapil}
 {114}{}{Kujon}
 {115}{}{Zdolniacha}
-{200}{}{Przemiana materii w twoim organizmie przebiega dwukrotnie szybciej ni¿ u przeciêtnego cz³owieka. Oznacza to, ¿e masz o wiele ni¿sz¹ odpornoœæ na promieniowanie i trucizny, ale ³atwiej zdrowiejesz.}
-{201}{}{Poruszasz siê nieco wolniej, ale za to masz imponuj¹c¹ posturê. Mo¿e nie uderzasz zbyt czêsto, lecz gdy ju¿ to zrobisz, przeciwnicy to rzeczywiœcie odczuwaj¹! Liczba twoich punktów akcji ulega zmniejszeniu, ale twoja si³a roœnie.}
-{202}{}{Nie dorównujesz gabarytami innym mieszkañcom Krypty, ale za to twój ciê¿ar ciê nie spowalnia. Nie jesteœ w stanie zbyt wiele udŸwign¹æ, lecz zyskujesz na zrêcznoœci.}
-{203}{}{Jedna z twoich r¹k jest skrajnie dominuj¹ca. Celujesz w broniach jednorêcznych, lecz obs³uga broni dwurêcznych sprawia ci k³opot.}
-{204}{}{Twoje ataki wykazuj¹ wiele finezji. Zwykle nie wyrz¹dzasz nimi zbyt wielkich szkód, lecz za to czêœciej zadajesz trafienia krytyczne.}
-{205}{}{Nie zwracasz uwagi na ¿adne zagro¿enia, wiêc w trakcie walki dzia³asz du¿o szybciej ni¿ inni. Obni¿a to klasê pancerza do wartoœci tego, co okrywa twoje cia³o, lecz twoja inicjatywa znacz¹co wzrasta.}
-{206}{}{Uderzasz mocniej, co nie znaczy, ¿e lepiej. Twoje ataki s¹ bardzo brutalne, lecz brakuje im finezji. Rzadko przydarza ci siê zadaæ trafienie krytyczne, choæ w walce wrêcz zawsze wyrz¹dzasz przeciwnikom wiêcej szkód.}
-{207}{}{Nie masz czasu na celowanie w konkretne czêœci cia³a wrogów, gdy¿ atakujesz szybciej ni¿ zwykli œmiertelnicy. U¿ycie broni palnej kosztuje ciê ka¿dorazowo o 1 punkt akcji mniej.}
-{208}{}{Za spraw¹ jakiegoœ dziwnego zrz¹dzenia losu otaczaj¹ce ciê osoby gin¹ niezwykle gwa³town¹ œmierci¹. Zawsze ogl¹dasz zgony w mo¿liwie najstraszliwszym wydaniu.}
-{209}{}{Zaleta: wszyscy wokó³ ciebie doznaj¹ w czasie walki wiêcej krytycznych niepowodzeñ. Wada: to samo przydarza siê tobie!}
-{210}{}{W okresie dorastania twoje studia skupia³y siê na umiejêtnoœciach cywilnych. Co za tym idzie, na pocz¹tku wyprawy dysponujesz s³abymi umiejêtnoœciami bojowymi, ale znasz siê na udzielaniu pierwszej pomocy, leczeniu, retoryce oraz handlu.}
-{211}{}{£atwo uzale¿niasz siê od narkotyków. Ryzyko wpadniêcia w na³óg jest dwukrotnie wy¿sze ni¿ przeciêtne, ale z drugiej strony twój organizm szybciej zwalcza ich negatywne efekty.}
-{212}{}{Narkotyki oddzia³ywuj¹ na ciebie tylko przez po³owê standardowego czasu, ale ryzyko, ¿e siê od nich uzale¿nisz, równie¿ wynosi tylko 50% normy.}
-{213}{}{Masz "to coœ". £atwo przyci¹gasz uwagê przedstawicieli p³ci przeciwnej, ale w zwi¹zku z tym szybko wzbudzasz zazdroœæ przedstawicieli w³asnej...}
-{214}{}{W rodzinnej Krypcie uda³o ci siê poœwiêciæ na naukê wiêcej czasu ni¿ innym, wiêc wyprawê zaczynasz z wy¿szym poziomem umiejêtnoœci. P³acisz za to wolniejszym tempem nabywania nowych profitów - co 4 poziomy.}
-{215}{}{Masz wiêksze wrodzone zdolnoœci ni¿ ogó³ œredniaków, wiêc nie poœwiêcasz szczególnej uwagi nauce. Ka¿dy ze wspó³czynników jest wy¿szy o 1 pkt, lecz wszystkie umiejêtnoœci s¹ ni¿sze o 10%, a przy awansach dostajesz o 5 pkt. mniej.}
+{200}{}{Przemiana materii w twoim organizmie przebiega dwukrotnie szybciej niÅ¼ u przeciÄ™tnego czÅ‚owieka. Oznacza to, Å¼e masz o wiele niÅ¼szÄ… odpornoÅ›Ä‡ na promieniowanie i trucizny, ale Å‚atwiej zdrowiejesz.}
+{201}{}{Poruszasz siÄ™ nieco wolniej, ale za to masz imponujÄ…cÄ… posturÄ™. MoÅ¼e nie uderzasz zbyt czÄ™sto, lecz gdy juÅ¼ to zrobisz, przeciwnicy to rzeczywiÅ›cie odczuwajÄ…! Liczba twoich punktÃ³w akcji ulega zmniejszeniu, ale twoja siÅ‚a roÅ›nie.}
+{202}{}{Nie dorÃ³wnujesz gabarytami innym mieszkaÅ„com Krypty, ale za to twÃ³j ciÄ™Å¼ar ciÄ™ nie spowalnia. Nie jesteÅ› w stanie zbyt wiele udÅºwignÄ…Ä‡, lecz zyskujesz na zrÄ™cznoÅ›ci.}
+{203}{}{Jedna z twoich rÄ…k jest skrajnie dominujÄ…ca. Celujesz w broniach jednorÄ™cznych, lecz obsÅ‚uga broni dwurÄ™cznych sprawia ci kÅ‚opot.}
+{204}{}{Twoje ataki wykazujÄ… wiele finezji. Zwykle nie wyrzÄ…dzasz nimi zbyt wielkich szkÃ³d, lecz za to czÄ™Å›ciej zadajesz trafienia krytyczne.}
+{205}{}{Nie zwracasz uwagi na Å¼adne zagroÅ¼enia, wiÄ™c w trakcie walki dziaÅ‚asz duÅ¼o szybciej niÅ¼ inni. ObniÅ¼a to klasÄ™ pancerza do wartoÅ›ci tego, co okrywa twoje ciaÅ‚o, lecz twoja inicjatywa znaczÄ…co wzrasta.}
+{206}{}{Uderzasz mocniej, co nie znaczy, Å¼e lepiej. Twoje ataki sÄ… bardzo brutalne, lecz brakuje im finezji. Rzadko przydarza ci siÄ™ zadaÄ‡ trafienie krytyczne, choÄ‡ w walce wrÄ™cz zawsze wyrzÄ…dzasz przeciwnikom wiÄ™cej szkÃ³d.}
+{207}{}{Nie masz czasu na celowanie w konkretne czÄ™Å›ci ciaÅ‚a wrogÃ³w, gdyÅ¼ atakujesz szybciej niÅ¼ zwykli Å›miertelnicy. UÅ¼ycie broni palnej kosztuje ciÄ™ kaÅ¼dorazowo o 1 punkt akcji mniej.}
+{208}{}{Za sprawÄ… jakiegoÅ› dziwnego zrzÄ…dzenia losu otaczajÄ…ce ciÄ™ osoby ginÄ… niezwykle gwaÅ‚townÄ… Å›mierciÄ…. Zawsze oglÄ…dasz zgony w moÅ¼liwie najstraszliwszym wydaniu.}
+{209}{}{Zaleta: wszyscy wokÃ³Å‚ ciebie doznajÄ… w czasie walki wiÄ™cej krytycznych niepowodzeÅ„. Wada: to samo przydarza siÄ™ tobie!}
+{210}{}{W okresie dorastania twoje studia skupiaÅ‚y siÄ™ na umiejÄ™tnoÅ›ciach cywilnych. Co za tym idzie, na poczÄ…tku wyprawy dysponujesz sÅ‚abymi umiejÄ™tnoÅ›ciami bojowymi, ale znasz siÄ™ na udzielaniu pierwszej pomocy, leczeniu, retoryce oraz handlu.}
+{211}{}{Åatwo uzaleÅ¼niasz siÄ™ od narkotykÃ³w. Ryzyko wpadniÄ™cia w naÅ‚Ã³g jest dwukrotnie wyÅ¼sze niÅ¼ przeciÄ™tne, ale z drugiej strony twÃ³j organizm szybciej zwalcza ich negatywne efekty.}
+{212}{}{Narkotyki oddziaÅ‚ywujÄ… na ciebie tylko przez poÅ‚owÄ™ standardowego czasu, ale ryzyko, Å¼e siÄ™ od nich uzaleÅ¼nisz, rÃ³wnieÅ¼ wynosi tylko 50% normy.}
+{213}{}{Masz "to coÅ›". Åatwo przyciÄ…gasz uwagÄ™ przedstawicieli pÅ‚ci przeciwnej, ale w zwiÄ…zku z tym szybko wzbudzasz zazdroÅ›Ä‡ przedstawicieli wÅ‚asnej...}
+{214}{}{W rodzinnej Krypcie udaÅ‚o ci siÄ™ poÅ›wiÄ™ciÄ‡ na naukÄ™ wiÄ™cej czasu niÅ¼ innym, wiÄ™c wyprawÄ™ zaczynasz z wyÅ¼szym poziomem umiejÄ™tnoÅ›ci. PÅ‚acisz za to wolniejszym tempem nabywania nowych profitÃ³w - co 4 poziomy.}
+{215}{}{Masz wiÄ™ksze wrodzone zdolnoÅ›ci niÅ¼ ogÃ³Å‚ Å›redniakÃ³w, wiÄ™c nie poÅ›wiÄ™casz szczegÃ³lnej uwagi nauce. KaÅ¼dy ze wspÃ³Å‚czynnikÃ³w jest wyÅ¼szy o 1 pkt, lecz wszystkie umiejÄ™tnoÅ›ci sÄ… niÅ¼sze o 10%, a przy awansach dostajesz o 5 pkt. mniej.}

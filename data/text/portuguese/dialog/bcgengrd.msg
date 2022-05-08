@@ -1,46 +1,46 @@
-{100}{}{Você vê um incursor dos Khan.}
-{101}{}{Você vê um incursor dos Khan.}
-{102}{}{Você vê uma pessoa de aparência difícil com armaduras, armas e uma má atitude. Deve ser um Khan.}
-{103}{}{O que ... eu não acho que eu conheço você. Quem diabos é você?}
+{100}{}{VocÃª vÃª um incursor dos Khan.}
+{101}{}{VocÃª vÃª um incursor dos Khan.}
+{102}{}{VocÃª vÃª uma pessoa de aparÃªncia difÃ­cil com armaduras, armas e uma mÃ¡ atitude. Deve ser um Khan.}
+{103}{}{O que ... eu nÃ£o acho que eu conheÃ§o vocÃª. Quem diabos Ã© vocÃª?}
 {104}{}{Eu tenho o meu ID aqui! Deixe-me te mostrar.}
 {105}{}{O nome do... umm... Pat, e eu sou novo aqui.}
-{106}{}{Tudo bem, sábichão. Dê o seu melhor tiro.}
-{107}{}{Oh sim. Desculpa. Não o reconheci no início. Continue com seu negócio.}
-{108}{}{Ei, eu não sou tão estúpido quanto você pensa. }
-{109}{}{Você não está morto ainda? Merda.}
-{110}{}{Cara, Darion não me paga o suficiente para ficar por aqui e não fazer nada.}
-{111}{}{Às vezes eu sento e penso absolutamente em nada.}
-{112}{}{Eu geralmente não ligo para o que ninguém pensa.}
-{113}{}{Ignorância é uma benção... eu acho.}
-{114}{}{Quando a próxima caravana está passando? Eu poderia ter alguma ação.}
+{106}{}{Tudo bem, sÃ¡bichÃ£o. DÃª o seu melhor tiro.}
+{107}{}{Oh sim. Desculpa. NÃ£o o reconheci no inÃ­cio. Continue com seu negÃ³cio.}
+{108}{}{Ei, eu nÃ£o sou tÃ£o estÃºpido quanto vocÃª pensa. }
+{109}{}{VocÃª nÃ£o estÃ¡ morto ainda? Merda.}
+{110}{}{Cara, Darion nÃ£o me paga o suficiente para ficar por aqui e nÃ£o fazer nada.}
+{111}{}{Ã€s vezes eu sento e penso absolutamente em nada.}
+{112}{}{Eu geralmente nÃ£o ligo para o que ninguÃ©m pensa.}
+{113}{}{IgnorÃ¢ncia Ã© uma benÃ§Ã£o... eu acho.}
+{114}{}{Quando a prÃ³xima caravana estÃ¡ passando? Eu poderia ter alguma aÃ§Ã£o.}
 {115}{}{Eu poderia dar uma pausa.}
 {116}{}{Maldita seja, ainda machuco daquela cadela Chrissy chutando-me.}
 {117}{}{Ei, nunca recebemos sangue novo por aqui.}
-{118}{}{Então, quando vamos sair desse lugar estúpido?}
-{119}{}{Eu não sei sobre você, mas eu acho que isso é uma merda.}
-{120}{}{Não há nada para matar por aqui.}
-{121}{}{Onde está a maldita casa de banho?}
-{122}{}{Ei, nós nunca vamos fazer uma pausa aqui. Não existe alguma lei ou algo assim?}
-{123}{}{Deveríamos começar um governo como nos velhos tempos.}
-{124}{}{Cara, eu me pergunto o que era ser presidente naquela época?}
-{125}{}{Eu aposto que você poderia fazer qualquer coisa que você quisesse, se você fosse Presidente.}
+{118}{}{EntÃ£o, quando vamos sair desse lugar estÃºpido?}
+{119}{}{Eu nÃ£o sei sobre vocÃª, mas eu acho que isso Ã© uma merda.}
+{120}{}{NÃ£o hÃ¡ nada para matar por aqui.}
+{121}{}{Onde estÃ¡ a maldita casa de banho?}
+{122}{}{Ei, nÃ³s nunca vamos fazer uma pausa aqui. NÃ£o existe alguma lei ou algo assim?}
+{123}{}{DeverÃ­amos comeÃ§ar um governo como nos velhos tempos.}
+{124}{}{Cara, eu me pergunto o que era ser presidente naquela Ã©poca?}
+{125}{}{Eu aposto que vocÃª poderia fazer qualquer coisa que vocÃª quisesse, se vocÃª fosse Presidente.}
 {126}{}{Eu acho que meu pai estaria orgulhoso de mim hoje. Muito ruim, eu o matei.}
 {127}{}{EU ODEIO RATOS! ODEIO, ODEIO, ODEIO!}
-{128}{}{Ei, é a armadura nova que você tem? Como você avalia a obtenção de novas armaduras?}
-{129}{}{Este maldito cheiro de cofre. Você não odeia isso?}
-{130}{}{Ei, para quem é que devemos manter o olho aberto?}
-{131}{}{Tudo o que faço é ficar de pé, ficar de pé, ficar de pé.}
-{132}{}{Eu acho que devemos desperdiçar todos os altos e dizer ao inferno com esse lugar.}
-{133}{}{O que diabos é o seu problema com os ratos?}
-{134}{}{Você já puxou uma das pernas de um rato?}
+{128}{}{Ei, Ã© a armadura nova que vocÃª tem? Como vocÃª avalia a obtenÃ§Ã£o de novas armaduras?}
+{129}{}{Este maldito cheiro de cofre. VocÃª nÃ£o odeia isso?}
+{130}{}{Ei, para quem Ã© que devemos manter o olho aberto?}
+{131}{}{Tudo o que faÃ§o Ã© ficar de pÃ©, ficar de pÃ©, ficar de pÃ©.}
+{132}{}{Eu acho que devemos desperdiÃ§ar todos os altos e dizer ao inferno com esse lugar.}
+{133}{}{O que diabos Ã© o seu problema com os ratos?}
+{134}{}{VocÃª jÃ¡ puxou uma das pernas de um rato?}
 {135}{}{Eu gosto de armas, yeah! ARMAS QUE EU GOSTO! ARMAS DE FOGO: EU REALMENTE, REALMENTE GOSTO DELAS!}
-{136}{}{Ei, alguém está me ouvindo?}
-{137}{}{Oh, bem, eu acabei de falar para me manter são, de qualquer maneira.}
-{138}{}{Ei, alguém se lembra do que estava em Long Island Ice Tea?}
+{136}{}{Ei, alguÃ©m estÃ¡ me ouvindo?}
+{137}{}{Oh, bem, eu acabei de falar para me manter sÃ£o, de qualquer maneira.}
+{138}{}{Ei, alguÃ©m se lembra do que estava em Long Island Ice Tea?}
 {139}{}{Sim, vodka, rum, tequila, triple sec, cal, e Nuka.}
 {140}{}{Ei, olha - as luzes acenderam. O que...}
 {141}{}{Darion disse que conseguiria as malditas luzes fixadas. Eu acho que ele passou.}
-{142}{}{Eu não acho que o gerador apenas se conserte, não é?}
+{142}{}{Eu nÃ£o acho que o gerador apenas se conserte, nÃ£o Ã©?}
 {143}{}{Que foi meio estranho, agora eu consigo ver. Jesus, esse lugar parece uma merda!}
-{144}{}{Wow, é brilhante aqui. Onde está o controle do atenuador de iluminação?}
+{144}{}{Wow, Ã© brilhante aqui. Onde estÃ¡ o controle do atenuador de iluminaÃ§Ã£o?}
 {145}{}{Morra!}

@@ -128,8 +128,8 @@
 {227}{}{Grazie, ripensero' a quello che mi hai detto. Vorrei chiederti qualcos'altro, pero'.}
 {228}{}{Dovro' pensarci su. Addio.}
 {229}{}{Hmmm... Puo' darsi che abbia la soluzione per i suoi problemi. [Consegni a Lou l'antidoto per il jet]}
-{230}{}{Cosa diavolo è questa roba?}
-{231}{}{Questa "roba" le ripulirà l'organismo da quella merda. La prossima volta che ordina qualcosa da bere, allunga il suo drink con questo.}
+{230}{}{Cosa diavolo Ã¨ questa roba?}
+{231}{}{Questa "roba" le ripulirÃ  l'organismo da quella merda. La prossima volta che ordina qualcosa da bere, allunga il suo drink con questo.}
 {232}{}{Beh... d'accordo. Allora, c'e' qualcos'altro che ti serve?}
 {233}{}{Vorrei prendere qualcosa.}
 {234}{}{Che cosa succede di bello in citta'?}

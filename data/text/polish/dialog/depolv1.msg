@@ -1,16 +1,16 @@
 {100}{}{Awaria biomagazynu!}
-{101}{}{Poziom 4 zagroøony ca≥kowitym skaøeniem.}
-{102}{}{Poziom 4 skaøony.}
-{103}{}{åluzy antybiologiczne poziomu 3 zawiod≥y.}
-{104}{}{Poziom 3 zagroøony ca≥kowitym skaøeniem.}
-{105}{}{Poziom 3 skaøony.}
-{106}{}{åluzy antybiologiczne poziomu 2 zawiod≥y.}
-{107}{}{Poziom 2 zagroøony ca≥kowitym skaøeniem.}
-{108}{}{Poziom 2 skaøony.}
-{109}{}{åluzy antybiologiczne poziomu 1 zawiod≥y.}
-{110}{}{Poziom 1 zagroøony ca≥kowitym skaøeniem.}
-{111}{}{Poziom 1 skaøony.}
+{101}{}{Poziom 4 zagro≈ºony ca≈Çkowitym ska≈ºeniem.}
+{102}{}{Poziom 4 ska≈ºony.}
+{103}{}{≈öluzy antybiologiczne poziomu 3 zawiod≈Çy.}
+{104}{}{Poziom 3 zagro≈ºony ca≈Çkowitym ska≈ºeniem.}
+{105}{}{Poziom 3 ska≈ºony.}
+{106}{}{≈öluzy antybiologiczne poziomu 2 zawiod≈Çy.}
+{107}{}{Poziom 2 zagro≈ºony ca≈Çkowitym ska≈ºeniem.}
+{108}{}{Poziom 2 ska≈ºony.}
+{109}{}{≈öluzy antybiologiczne poziomu 1 zawiod≈Çy.}
+{110}{}{Poziom 1 zagro≈ºony ca≈Çkowitym ska≈ºeniem.}
+{111}{}{Poziom 1 ska≈ºony.}
 {112}{}{ minut i }
-{113}{}{ sekund na ewakuacjÍ.}
+{113}{}{ sekund na ewakuacjƒô.}
 {114}{}{ minuta i }
-{115}{}{ sekund na ewakuacjÍ.}
+{115}{}{ sekund na ewakuacjƒô.}

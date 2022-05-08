@@ -1,6 +1,6 @@
-{100}{}{Háziasított brahmin.}
-{101}{}{A brahmin másik feje a sugárzás eredménye.}
-{102}{}{Semmi különöset nem veszel észre a brahminon.}
-{103}{}{A brahminokkal nem sok mindenr?l lehet társalogni.}
-{104}{}{Nincs jobb dolgod, mint itt állni és egy kétfej? tehénhez beszélni?}
-{105}{}{A brahminok a tehenek mutáns változatai.}
+{100}{}{HÃ¡ziasÃ­tott brahmin.}
+{101}{}{A brahmin mÃ¡sik feje a sugÃ¡rzÃ¡s eredmÃ©nye.}
+{102}{}{Semmi kÃ¼lÃ¶nÃ¶set nem veszel Ã©szre a brahminon.}
+{103}{}{A brahminokkal nem sok mindenr?l lehet tÃ¡rsalogni.}
+{104}{}{Nincs jobb dolgod, mint itt Ã¡llni Ã©s egy kÃ©tfej? tehÃ©nhez beszÃ©lni?}
+{105}{}{A brahminok a tehenek mutÃ¡ns vÃ¡ltozatai.}

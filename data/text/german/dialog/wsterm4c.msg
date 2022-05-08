@@ -1,10 +1,10 @@
 {100}{}{Ein Computerterminal.}
-{101}{}{Steuerungsterminal für das Biolager.}
+{101}{}{Steuerungsterminal fÃ¼r das Biolager.}
 {102}{}{Du kannst nicht lesen, was auf dem Monitor steht.}
 {103}{}{Biolager                                             
-                      Hauptmenü                                  
-                                        – Entnehmen                                         
-                  – Einlagern}
+                      HauptmenÃ¼                                  
+                                        â€“ Entnehmen                                         
+                  â€“ Einlagern}
 {104}{}{}
 {105}{}{}
 {106}{}{}
@@ -17,19 +17,19 @@
 {113}{}{}
 {114}{}{Urk}
 {115}{}{Beenden}
-{116}{}{Entnahmemenü:                                
+{116}{}{EntnahmemenÃ¼:                                
                                             Viren                                          
                           Organe                                     
                              Leichen}
 {117}{}{}
 {118}{}{}
 {119}{}{}
-{120}{}{Viren auswählen}
-{121}{}{Organe auswählen}
-{122}{}{Leichen auswählen}
-{123}{}{Zurück zum Hauptmenü}
+{120}{}{Viren auswÃ¤hlen}
+{121}{}{Organe auswÃ¤hlen}
+{122}{}{Leichen auswÃ¤hlen}
+{123}{}{ZurÃ¼ck zum HauptmenÃ¼}
 {124}{}{Beenden}
-{125}{}{Menü: Viren                                                
+{125}{}{MenÃ¼: Viren                                                
               Milzbrand                                      
                          Pest (Variante 238)                            
                       Pocken (Variante 1025)                     
@@ -45,16 +45,16 @@
 {133}{}{Pocken holen}
 {134}{}{Ebola-Virus holen}
 {135}{}{Hantavirus holen}
-{137}{}{Zurück zum Entnahmemenü}
+{137}{}{ZurÃ¼ck zum EntnahmemenÃ¼}
 {138}{}{Beenden}
-{139}{}{[Du siehst, wie der Roboter sich durch die Gänge bewegt, in denen das biologische
- Material aufbewahrt wird. Er kehrt mit einer kleinen Phiole zurück und legt sie in einer Öffnung
+{139}{}{[Du siehst, wie der Roboter sich durch die GÃ¤nge bewegt, in denen das biologische
+ Material aufbewahrt wird. Er kehrt mit einer kleinen Phiole zurÃ¼ck und legt sie in einer Ã–ffnung
  in der Wand ab. Du beobachtest fasziniert, wie die Phiole aus der abgeschirmten Umgebung des
- Lagers in den Raum überführt wird, in dem du dich befindest. Deine Faszination
- schlägt in Entsetzen um, als die Phiole zu Boden fällt und zerbricht. Wegrennen wäre vermutlich
+ Lagers in den Raum Ã¼berfÃ¼hrt wird, in dem du dich befindest. Deine Faszination
+ schlÃ¤gt in Entsetzen um, als die Phiole zu Boden fÃ¤llt und zerbricht. Wegrennen wÃ¤re vermutlich
  keine schlechte Idee.]}
 {140}{}{Beenden}
-{141}{}{Menü: Organe                                        
+{141}{}{MenÃ¼: Organe                                        
                     Herz                                                             
         Gehirn                                         
                           Niere                                             
@@ -70,58 +70,58 @@
 {149}{}{Niere holen}
 {150}{}{Leber holen}
 {151}{}{Lunge holen}
-{152}{}{Zurück zum Entnahmemenü}
+{152}{}{ZurÃ¼ck zum EntnahmemenÃ¼}
 {153}{}{Beenden}
-{154}{}{Warnung! Aufbewahrungsapparat gestört. [Laut Bildschirm- anzeige sind die
- Aufbewahrungsanlagen für diese Organe seit geraumer Zeit ausgefallen. Es wäre sinnlos,
+{154}{}{Warnung! Aufbewahrungsapparat gestÃ¶rt. [Laut Bildschirm- anzeige sind die
+ Aufbewahrungsanlagen fÃ¼r diese Organe seit geraumer Zeit ausgefallen. Es wÃ¤re sinnlos,
  sich die Organe zu holen, es sei denn, du planst eine Eintopf-Orgie.]}
 {155}{}{}
-{156}{}{Zurück zum Menü: Organe}
-{157}{}{Zurück zum Entnahmemenü}
+{156}{}{ZurÃ¼ck zum MenÃ¼: Organe}
+{157}{}{ZurÃ¼ck zum EntnahmemenÃ¼}
 {158}{}{Beenden}
-{159}{}{Warnung! Aufbewahrungsapparat gestört. Aufbewahrungstanks 101-104. Einstellungen müssen
- korrigiert werden. [Damit die Gehirne gerettet werden können, müssen hochpräzise Berechnungen
- durchgeführt werden. Zahllose Formeln und Messungen huschen über den Bildschirm. Das Ganze sieht
+{159}{}{Warnung! Aufbewahrungsapparat gestÃ¶rt. Aufbewahrungstanks 101-104. Einstellungen mÃ¼ssen
+ korrigiert werden. [Damit die Gehirne gerettet werden kÃ¶nnen, mÃ¼ssen hochprÃ¤zise Berechnungen
+ durchgefÃ¼hrt werden. Zahllose Formeln und Messungen huschen Ã¼ber den Bildschirm. Das Ganze sieht
  furchtbar technisch aus.]}
 {160}{}{}
 {161}{}{}
 {162}{}{}
 {163}{}{Versuche Anpassungen vorzunehmen}
-{164}{}{Zurück zum Entnahmemenü}
-{165}{}{Zu einem späteren Zeitpunkt noch mal versuchen.}
+{164}{}{ZurÃ¼ck zum EntnahmemenÃ¼}
+{165}{}{Zu einem spÃ¤teren Zeitpunkt noch mal versuchen.}
 {166}{}{[Wegen deiner Ungeschicklichkeit sterben alle Gehirne ab. Dass du die Temperatur auf 
- 98,6 °C erhöht hast, war wohl doch ein bisschen viel des Guten. Wissenschaft war noch nie deine
- Stärke.]}
+ 98,6 Â°C erhÃ¶ht hast, war wohl doch ein bisschen viel des Guten. Wissenschaft war noch nie deine
+ StÃ¤rke.]}
 {167}{}{Beenden}
 {168}{}{[Offensichtlich probierst du nach dem Motto "Aus Fehlern wird man klug" einfach alle
- Möglichkeiten aus. Auf diese Weise schaffst du es, immerhin eins von vier Gehirnen zu retten.
- Tja, Wissenschaft ist sowieso was für Fachidioten.]}
+ MÃ¶glichkeiten aus. Auf diese Weise schaffst du es, immerhin eins von vier Gehirnen zu retten.
+ Tja, Wissenschaft ist sowieso was fÃ¼r Fachidioten.]}
 {169}{}{Gehirn holen}
-{170}{}{[Durch Beschreiten des goldenen Mittelweges gelingt es dir, fünfzig Prozent der Gehirne
+{170}{}{[Durch Beschreiten des goldenen Mittelweges gelingt es dir, fÃ¼nfzig Prozent der Gehirne
  zu retten. Deine Methode weist dich nicht gerade als waschechten Wissenschaftler aus.]}
 {171}{}{Gehirn holen}
-{172}{}{[Klarer Fall: Du weißt, was du tust. Du hast nur einen einzigen Fehler gemacht und
+{172}{}{[Klarer Fall: Du weiÃŸt, was du tust. Du hast nur einen einzigen Fehler gemacht und
  konntest somit drei von vier Gehirnen retten. Es hat sich gelohnt, dass du immer brav deine
  Wissenschaftsmagazine gelesen hast.]}
 {173}{}{Gehirn holen}
-{174}{}{[Du konntest die Krise mit ein paar schnellen Tasteneingaben abwenden und alle Gehirne retten. Die Wissenschaft ist eindeutig mehr als nur ein Steckenpferd für dich.]}
+{174}{}{[Du konntest die Krise mit ein paar schnellen Tasteneingaben abwenden und alle Gehirne retten. Die Wissenschaft ist eindeutig mehr als nur ein Steckenpferd fÃ¼r dich.]}
 {175}{}{Gehirn holen}
-{176}{}{Gehirn entnehmen:   · Anomales Gehirn
-                                                       · Schimpansengehirn
-                                                  · Menschliches Gehirn
-                                                 · Kybernetisches Gehirn}
-{177}{}{Gehirn entnehmen:   · Anomales Gehirn
-                                                       · Schimpansengehirn
-                                                  · Menschliches Gehirn
-                                                 · Kybernetisches Gehirn - tot}
-{178}{}{Gehirn entnehmen:   · Anomales Gehirn
-                                                       · Schimpansengehirn
-                                                  · Menschliches Gehirn - tot
-                                         · Kybernetisches Gehirn - tot}
-{179}{}{Gehirn entnehmen:   · Anomales Gehirn
-                                                       · Schimpansengehirn - tot
-                                           · Menschliches Gehirn - tot
-                                         · Kybernetisches Gehirn - tot}
+{176}{}{Gehirn entnehmen:   Â· Anomales Gehirn
+                                                       Â· Schimpansengehirn
+                                                  Â· Menschliches Gehirn
+                                                 Â· Kybernetisches Gehirn}
+{177}{}{Gehirn entnehmen:   Â· Anomales Gehirn
+                                                       Â· Schimpansengehirn
+                                                  Â· Menschliches Gehirn
+                                                 Â· Kybernetisches Gehirn - tot}
+{178}{}{Gehirn entnehmen:   Â· Anomales Gehirn
+                                                       Â· Schimpansengehirn
+                                                  Â· Menschliches Gehirn - tot
+                                         Â· Kybernetisches Gehirn - tot}
+{179}{}{Gehirn entnehmen:   Â· Anomales Gehirn
+                                                       Â· Schimpansengehirn - tot
+                                           Â· Menschliches Gehirn - tot
+                                         Â· Kybernetisches Gehirn - tot}
 {180}{}{}
 {185}{}{}
 {189}{}{}
@@ -130,39 +130,39 @@
 {197}{}{Schimpansengehirn}
 {198}{}{Menschliches Gehirn}
 {199}{}{Kybernetisches Gehirn}
-{200}{}{[Laut Bildschirmanzeige ist das Gehirn am Leben. Die Gehirnströme liegen jedoch erheblich
+{200}{}{[Laut Bildschirmanzeige ist das Gehirn am Leben. Die GehirnstrÃ¶me liegen jedoch erheblich
  unter Normal.] Holen?}
 {201}{}{}
 {202}{}{Ja}
 {203}{}{Nein}
 {204}{}{[Die Gehirnwellen sind aktiv, weichen jedoch von denen eines menschlichen Gehirns ab.]
  Holen?}
-{208}{}{[Gehirnaktivität entspricht dem menschlichen Durchschnitt.] Holen?}
-{212}{}{[Die Gehirnaktivität entspricht in keiner Weisen den Vorgaben! Ihrem Aussehen nach zu 
+{208}{}{[GehirnaktivitÃ¤t entspricht dem menschlichen Durchschnitt.] Holen?}
+{212}{}{[Die GehirnaktivitÃ¤t entspricht in keiner Weisen den Vorgaben! Ihrem Aussehen nach zu 
 urteilen, sind die Signale teils digitalen, teils menschlichen Ursprungs.] Holen?}
-{216}{}{[Der Roboter macht sich unverzüglich auf den Weg, das von dir angeforderte Gehirn
- herbeizuschaffen. Als er zurückkehrt, hast du den Eindruck, dass es Probleme gibt. Dieser
- Eindruck bestätigt sich auf krasse Weise, als der Roboter plötzlich explodiert. Aber du hattest
- Glück: Er hat das Gehirn noch rechtzeitig abgeliefert.]}
+{216}{}{[Der Roboter macht sich unverzÃ¼glich auf den Weg, das von dir angeforderte Gehirn
+ herbeizuschaffen. Als er zurÃ¼ckkehrt, hast du den Eindruck, dass es Probleme gibt. Dieser
+ Eindruck bestÃ¤tigt sich auf krasse Weise, als der Roboter plÃ¶tzlich explodiert. Aber du hattest
+ GlÃ¼ck: Er hat das Gehirn noch rechtzeitig abgeliefert.]}
 {217}{}{Beenden}
-{218}{}{Menü: Leiche holen... Gefreiter Dobbs}
+{218}{}{MenÃ¼: Leiche holen... Gefreiter Dobbs}
 {219}{}{}
 {220}{}{Gefreiten Dobbs holen}
-{221}{}{Zurück zum Entnahmemenü}
+{221}{}{ZurÃ¼ck zum EntnahmemenÃ¼}
 {222}{}{Beenden}
 {223}{}{[Laut Bildschirmanzeige ist Gefreiter Dobbs am Leben! Er befindet sich in einem Tank mit
  experimentellem Bio-Gel zur Wiederbelebung.] Holen?}
 {224}{}{}
 {225}{}{Ja}
 {226}{}{Nein}
-{227}{}{[Gefreiter Dobbs liegt nun zu deinen Füßen, aber zu deiner Überraschung steht er auf und
- beginnt zu dir zu sprechen. Merkwürdig - er sieht nicht sonderlich lebendig aus.]}
+{227}{}{[Gefreiter Dobbs liegt nun zu deinen FÃ¼ÃŸen, aber zu deiner Ãœberraschung steht er auf und
+ beginnt zu dir zu sprechen. MerkwÃ¼rdig - er sieht nicht sonderlich lebendig aus.]}
 {228}{}{Beenden}
 {229}{}{Es befinden sich derzeit keine Leichen in Aufbewahrung.}
-{230}{}{Zurück zum Entnahmemenü}
+{230}{}{ZurÃ¼ck zum EntnahmemenÃ¼}
 {231}{}{Beenden}
-{232}{}{[Zwar sind laut Bildschirmanzeige alle Aufbewahrungs- behälter voll, doch es sind eindeutig
- leere zu sehen. Scheint ein Programmfehler zu sein. Das kennt man ja zur Genüge.]}
-{233}{}{Zurück zum Hauptmenü}
+{232}{}{[Zwar sind laut Bildschirmanzeige alle Aufbewahrungs- behÃ¤lter voll, doch es sind eindeutig
+ leere zu sehen. Scheint ein Programmfehler zu sein. Das kennt man ja zur GenÃ¼ge.]}
+{233}{}{ZurÃ¼ck zum HauptmenÃ¼}
 {234}{}{Beenden }
 {300}{}{ kann nicht lesen, was auf dem Monitor steht.}

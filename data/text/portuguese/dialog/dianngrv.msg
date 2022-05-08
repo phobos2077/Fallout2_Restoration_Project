@@ -1,2 +1,2 @@
-{101}{}{O nome na lápide diz: "Anna Winslow".}
-{200}{}{Você coloca os ossos de Anna para descansar.}
+{101}{}{O nome na lÃ¡pide diz: "Anna Winslow".}
+{200}{}{VocÃª coloca os ossos de Anna para descansar.}

@@ -1,13 +1,13 @@
 {100}{}{Du siehst Angela Bishop.}
 {101}{}{Du siehst die schreiende Angela Bishop.}
 {150}{}{Du siehst eine attraktive junge Frau in enger Lederkleidung.}
-{151}{}{Du siehst Angela Bishop. Als sie deinen Blick bemerkt, leckt sie sich langsam über die Lippen.}
+{151}{}{Du siehst Angela Bishop. Als sie deinen Blick bemerkt, leckt sie sich langsam Ã¼ber die Lippen.}
 {152}{}{Du siehst Angela Bishop. Sie starrt dich angewidert an.}
-{175}{}{Du siehst eine attraktive junge Frau in enger Lederkleidung. Sie sieht zu intellektuell für eine Prostituierte aus.}
+{175}{}{Du siehst eine attraktive junge Frau in enger Lederkleidung. Sie sieht zu intellektuell fÃ¼r eine Prostituierte aus.}
 {176}{}{Du siehst Angela Bishop. Sie grinst dich an.}
-{200}{}{Mein Vater BRINGT DICH UM, wenn er hört, wie du mich behandelt hast.}
-{205}{}{Ich weiß, dass du es warst. Ich finde schon noch einen Weg, dir das mit meinem Vater heimzuzahlen.}
-{210}{}{Hmmpf. Wenn das nicht die große Heldin ist.}
+{200}{}{Mein Vater BRINGT DICH UM, wenn er hÃ¶rt, wie du mich behandelt hast.}
+{205}{}{Ich weiÃŸ, dass du es warst. Ich finde schon noch einen Weg, dir das mit meinem Vater heimzuzahlen.}
+{210}{}{Hmmpf. Wenn das nicht die groÃŸe Heldin ist.}
 {215}{}{Wie zum Teufel gehst du mit dem Ding aufs Klo.}
 {220}{}{Mir ist LANGWEILIG.}
 {221}{}{Hey da.}
@@ -17,123 +17,123 @@
 {225}{}{Hmmmm.}
 {226}{}{Sieh mal einer an...}
 {230}{}{Mir ist LANGWEILIG.}
-{231}{}{Sieht wie eine von Papis neuen Prostituierten aus…}
-{232}{}{Eine von Papis billigen Schlampen…}
-{240}{}{DICH hab ich ja noch nie hier gesehen. Wie heißt du, Fremdling (Grinst) Ach was soll's, ich will es gar nicht wissen. Ist dir auch so langweilig wie mir?}
+{231}{}{Sieht wie eine von Papis neuen Prostituierten ausâ€¦}
+{232}{}{Eine von Papis billigen Schlampenâ€¦}
+{240}{}{DICH hab ich ja noch nie hier gesehen. Wie heiÃŸt du, Fremdling (Grinst) Ach was soll's, ich will es gar nicht wissen. Ist dir auch so langweilig wie mir?}
 {241}{}{Du schon wieder. Jetzt gelangweilt?}
 {242}{}{Jam jam ich mag Jams}
-{243}{}{Bin mal mit jemandem gereist, der hieß Jam, hat mir immer in den Rücken geschossen}
+{243}{}{Bin mal mit jemandem gereist, der hieÃŸ Jam, hat mir immer in den RÃ¼cken geschossen}
 {244}{}{Auch langwellig}
 {245}{}{Neeeein ich gehen muss}
 {246}{}{Nein.}
 {247}{}{Ja.}
 {248}{}{Warum siehst du mich so an?}
 {249}{}{OK, mir ist vielleicht langweilig. Wieso denn, Prinzessin, brauchst du ein bisschen Aufregung?}
-{250}{}{Eigentlich nicht. Ich muss nämlich schon woanders sein.}
+{250}{}{Eigentlich nicht. Ich muss nÃ¤mlich schon woanders sein.}
 {260}{}{Oho, das wird ja RICHTIG interessant. Komm mal mit, ich zeig dir mein Zimmer.}
-{261}{}{OK, schöne Frau.}
-{262}{}{Äh...wir spielen?}
+{261}{}{OK, schÃ¶ne Frau.}
+{262}{}{Ã„h...wir spielen?}
 {263}{}{Ich nix gehn.}
 {270}{}{Doch, das wirst du. Komm schon.}
 {271}{}{Ich kommen}
 {272}{}{Gerne spielen. Aber nur mit mir}
-{280}{}{Genau…}
+{280}{}{Genauâ€¦}
 {281}{}{[Folge ihr.]}
 {290}{}{Och, komm schon! Bittebittebitte! Ich will dir wirklich mein Zimmer zeigen. Dauert nur eine Sekunde, das verspreche ich.}
-{291}{}{Nein! Nicht gehen! Nicht zwingen! Nicht zu bösem Zimmer! Nein!}
+{291}{}{Nein! Nicht gehen! Nicht zwingen! Nicht zu bÃ¶sem Zimmer! Nein!}
 {292}{}{OK, OK, OK. Nicht traurig sein. Gehn mit}
 {293}{}{ICH GEHN NIX REDEN}
-{300}{}{Jetzt reicht's, du bist ja zurückgeblieben! Raus hier! ::Idiot.::}
-{310}{}{Bist du NEU hier oder was? Ich heiße Angela BISHOP. Mein Vater ist das Familienoberhaupt der Bishops. }
-{311}{}{Du arbeitest für ihn, also arbeitest du für MICH. }
+{300}{}{Jetzt reicht's, du bist ja zurÃ¼ckgeblieben! Raus hier! ::Idiot.::}
+{310}{}{Bist du NEU hier oder was? Ich heiÃŸe Angela BISHOP. Mein Vater ist das Familienoberhaupt der Bishops. }
+{311}{}{Du arbeitest fÃ¼r ihn, also arbeitest du fÃ¼r MICH. }
 {312}{}{Du tust besser das, was ich dir sage und ich sage dir jetzt, dass Du mit mir kommen sollst. Und zwar sofort.}
 {313}{}{Du hast recht: Dein Vater IST das Oberhaupt der Familie Bishop. Deswegen gehen wir auch nirgendwohin.}
-{314}{}{Also, wenn du hier die große Mackerin raushängen lässt...los dann.}
-{315}{}{Ist ja nicht so, dass ich nicht GESCHMEICHELT wäre, aber...}
+{314}{}{Also, wenn du hier die groÃŸe Mackerin raushÃ¤ngen lÃ¤sst...los dann.}
+{315}{}{Ist ja nicht so, dass ich nicht GESCHMEICHELT wÃ¤re, aber...}
 {316}{}{Nein. Das habe schon beim ersten Mal ernst gemeint.}
-{317}{}{Keine Chance, Süße. Geh jetzt besser, bevor du den Hintern versohlt bekommst.}
-{318}{}{Jetzt hör mal gut zu, Prinzessin: Ich gebe hier die Befehle und du führst sie aus, klar.}
+{317}{}{Keine Chance, SÃ¼ÃŸe. Geh jetzt besser, bevor du den Hintern versohlt bekommst.}
+{318}{}{Jetzt hÃ¶r mal gut zu, Prinzessin: Ich gebe hier die Befehle und du fÃ¼hrst sie aus, klar.}
 {320}{}{Wenn dir langweilig ist, Prinzessin...dreh an deiner Kniescheibe, bis du Radio Moskau reinkriegst. Ich bin jetzt weg hier.}
-{330}{}{Dir wird es noch leid tun, mich abgewiesen zu haben. Papi wird jetzt ALLE möglichen Sachen über dich zu hören kriegen. Wart's nur ab.}
-{340}{}{Aha? Ich kriege endlich eine Reaktion zu sehen? (Macht einen Schritt in deine Richtung, sagt mit tiefer Stimme) Ist es HART für dich?}
+{330}{}{Dir wird es noch leid tun, mich abgewiesen zu haben. Papi wird jetzt ALLE mÃ¶glichen Sachen Ã¼ber dich zu hÃ¶ren kriegen. Wart's nur ab.}
+{340}{}{Aha? Ich kriege endlich eine Reaktion zu sehen? (Macht einen Schritt in deine Richtung, sagt mit tiefer Stimme) Ist es HART fÃ¼r dich?}
 {341}{}{Eigentlich nicht.}
-{342}{}{Mädchen, du bedeutest Ärger. Am besten hören wir jetzt sofort damit auf.}
-{343}{}{Entschuldige bitte. Würdest du ein Stückchen zurück gehen?}
-{344}{}{Ja, wird ganz schön hart. Kannst du mir da helfen?}
+{342}{}{MÃ¤dchen, du bedeutest Ã„rger. Am besten hÃ¶ren wir jetzt sofort damit auf.}
+{343}{}{Entschuldige bitte. WÃ¼rdest du ein StÃ¼ckchen zurÃ¼ck gehen?}
+{344}{}{Ja, wird ganz schÃ¶n hart. Kannst du mir da helfen?}
 {345}{}{Nein, ich muss jetzt weg.}
-{350}{}{(Macht noch einen Schritt auf dich zu, berührt dich fast) Ich WILL aber nicht. Was willst du denn dagegen machen?}
-{352}{}{Nichts. Los, einen Schritt zurück. Ich hab jetzt keine Lust.}
-{353}{}{Ruhe jetzt. Ich hab KEINE Lust auf deine Kleinmädchenlaunen, ist das klar?}
+{350}{}{(Macht noch einen Schritt auf dich zu, berÃ¼hrt dich fast) Ich WILL aber nicht. Was willst du denn dagegen machen?}
+{352}{}{Nichts. Los, einen Schritt zurÃ¼ck. Ich hab jetzt keine Lust.}
+{353}{}{Ruhe jetzt. Ich hab KEINE Lust auf deine KleinmÃ¤dchenlaunen, ist das klar?}
 {354}{}{Was willst DU denn dagegen machen? Du redest viel, kannst du denn auch handeln?}
 {360}{}{Wirst du ja sehen. }
-{361}{}{Hör mal zu: Ich habe ein bisschen Jet in meinem Zimmer...und NICHT diesen Mist für billige Prostituierten und Jeties. Willst du mal fliegen?}
+{361}{}{HÃ¶r mal zu: Ich habe ein bisschen Jet in meinem Zimmer...und NICHT diesen Mist fÃ¼r billige Prostituierten und Jeties. Willst du mal fliegen?}
 {362}{}{Klar. Schnall dich an, Baby.}
 {363}{}{Ich flieg mal mit.}
-{364}{}{Weiß dein Vater, dass du diesen Mist nimmst?}
-{365}{}{Ich hab's mir anders überlegt. Nein danke.}
-{366}{}{Nee, ich wollte nur mal sehen, ob du wirklich so ein Miststück bist, wie ich dachte. Bis dann, Prinzessin.}
-{370}{}{Pass bloß auf, wie du mit mir redest. Ich bin Angela BISHOP und mein Vater ist Oberhaupt der Bishops. Entweder zeigst du mir denselben Respekt wie ihm oder du kannst dich in Stücken von der Wand abkratzen lassen, VERSTANDEN?}
+{364}{}{WeiÃŸ dein Vater, dass du diesen Mist nimmst?}
+{365}{}{Ich hab's mir anders Ã¼berlegt. Nein danke.}
+{366}{}{Nee, ich wollte nur mal sehen, ob du wirklich so ein MiststÃ¼ck bist, wie ich dachte. Bis dann, Prinzessin.}
+{370}{}{Pass bloÃŸ auf, wie du mit mir redest. Ich bin Angela BISHOP und mein Vater ist Oberhaupt der Bishops. Entweder zeigst du mir denselben Respekt wie ihm oder du kannst dich in StÃ¼cken von der Wand abkratzen lassen, VERSTANDEN?}
 {371}{}{Ja, aber ich verstehe, dass dir mal jemand die Meinung sagen muss, PRINZESSIN und das werde ich jetzt tun.}
-{372}{}{Verstanden. Schön, dass wir diese Familienzugehörigkeit jetzt aufgeklärt haben.}
-{373}{}{Ganz ruhig. Ich hab ja nur Spaß gemacht.}
+{372}{}{Verstanden. SchÃ¶n, dass wir diese FamilienzugehÃ¶rigkeit jetzt aufgeklÃ¤rt haben.}
+{373}{}{Ganz ruhig. Ich hab ja nur SpaÃŸ gemacht.}
 {374}{}{Vergiss das mal.}
 {375}{}{Vergiss diesen Mist. Ich bin hier weg.}
-{380}{}{Du arrogantes Schw-! Ich sollte Papi eigentlich sofort erzählen, was du da zu mir gesagt hast.}
+{380}{}{Du arrogantes Schw-! Ich sollte Papi eigentlich sofort erzÃ¤hlen, was du da zu mir gesagt hast.}
 {381}{}{Warum machst du's dann nicht? Ich halt dich nicht auf, Prinzessin.}
-{382}{}{Das glaube ich nicht. Du willst ja nur sehen, was ich für ein Mann bin.}
-{383}{}{Hören wir lieber damit auf, bevor noch jemandem was passiert.}
+{382}{}{Das glaube ich nicht. Du willst ja nur sehen, was ich fÃ¼r ein Mann bin.}
+{383}{}{HÃ¶ren wir lieber damit auf, bevor noch jemandem was passiert.}
 {384}{}{Ja, warum machst du das nicht? Ich hab Besseres zu tun.}
-{385}{}{Vergiss doch diesen Schulmädchenmüll. Ich bin hier weg.}
+{385}{}{Vergiss doch diesen SchulmÃ¤dchenmÃ¼ll. Ich bin hier weg.}
 {390}{}{Du...Du bist ja nur eine ZEITVERSCHWENDUNG.}
-{391}{}{Und ich verschwende meine Zeit nicht länger mit dir, verwöhntes Balg.}
-{392}{}{Süßer, du könntest dir meine Zeit gar nicht LEISTEN.}
+{391}{}{Und ich verschwende meine Zeit nicht lÃ¤nger mit dir, verwÃ¶hntes Balg.}
+{392}{}{SÃ¼ÃŸer, du kÃ¶nntest dir meine Zeit gar nicht LEISTEN.}
 {393}{}{Beruht auf Gegenseitigkeit.}
 {394}{}{Das hab ich mir auch schon gedacht. Ich bin jetzt weg hier.}
-{400}{}{Ach ja? Was bist du denn für ein Mann? ZEIGST du's mir mal?}
+{400}{}{Ach ja? Was bist du denn fÃ¼r ein Mann? ZEIGST du's mir mal?}
 {401}{}{Klar. Los, wir gehen in dein Zimmer und da zeig ich dir mal, was ein richtiger Mann ist.}
-{402}{}{Nee, ich wollte nur mal sehen, was für ein Miststück du wirklich bist. Bis später vielleicht, Baby.}
+{402}{}{Nee, ich wollte nur mal sehen, was fÃ¼r ein MiststÃ¼ck du wirklich bist. Bis spÃ¤ter vielleicht, Baby.}
 {410}{}{Ja, du solltest nur wissen, wie die Dinge hier stehen. (Mustert dich von oben bis unten.)}
-{411}{}{Äh...}
-{413}{}{[Du stehst unbehaglich da, während sie dich anstarrt.]}
+{411}{}{Ã„h...}
+{413}{}{[Du stehst unbehaglich da, wÃ¤hrend sie dich anstarrt.]}
 {420}{}{Alles klar... (Mustert dich von oben bis unten.)}
 {422}{}{OK, also...}
 {430}{}{Das ist ihm egal. Also, willst du jetzt mit mir fliegen oder nicht?}
 {432}{}{Alles klar. Sollen wir dann in dein Zimmer gehen?}
-{433}{}{Hör mal, können wir nicht einfach Freunde sein?}
+{433}{}{HÃ¶r mal, kÃ¶nnen wir nicht einfach Freunde sein?}
 {434}{}{Nein, ich mach mich lieber auf den Weg.}
-{435}{}{Nee. Wenn ich eine Prostituierte wollte, dann würd ich mir eine richtige nehmen. Bis später.}
+{435}{}{Nee. Wenn ich eine Prostituierte wollte, dann wÃ¼rd ich mir eine richtige nehmen. Bis spÃ¤ter.}
 {440}{}{WAS hast du da zu mir gesagt?}
 {441}{}{Nichts. Komm, wir gehen in dein Zimmer.}
-{442}{}{Ich hab gesagt, "können wir nicht einfach Freunde sein?"}
+{442}{}{Ich hab gesagt, "kÃ¶nnen wir nicht einfach Freunde sein?"}
 {443}{}{Nichts. Ich mach mich jetzt am besten auf den Weg.}
-{450}{}{Ach hallo, du bist's...wir hatten ja viel Spaß, bevor du der Enklave eins drübergegeben hast. Willst du die alten Zeiten mal wieder aufleben lassen?}
+{450}{}{Ach hallo, du bist's...wir hatten ja viel SpaÃŸ, bevor du der Enklave eins drÃ¼bergegeben hast. Willst du die alten Zeiten mal wieder aufleben lassen?}
 {451}{}{Du schon wieder. Willst wohl Zeit verschwenden?}
 {452}{}{Nicht jetzt.}
 {453}{}{Alles klar. Dann gehen wir jetzt in dein Zimmer.}
-{460}{}{Ich hab gehört, was du mit der Enklave angestellt hast, }
+{460}{}{Ich hab gehÃ¶rt, was du mit der Enklave angestellt hast, }
 {462}{}{Schon gut, schon gut: }
 {463}{}{SEHR beeindruckend. Ich glaube, du bist genau der Richtige, um mir bei meinem ...Problem zu helfen. }
 {464}{}{Ich Probleme}
 {465}{}{Nur du kannzt Waldbrende ferhindern}
 {466}{}{Verzieh dich}
-{467}{}{Was für ein Problem denn?}
+{467}{}{Was fÃ¼r ein Problem denn?}
 {468}{}{Nein, lieber nicht. Ich geh jetzt lieber.}
-{469}{}{Dafür hab ich keine Zeit. Ich bin jetzt hier weg.}
-{480}{}{Hör mal zu, ich habe dieses hervorragende Jet in meinem Zimmer und kann das nicht alles selbst aufbrauchen.}
+{469}{}{DafÃ¼r hab ich keine Zeit. Ich bin jetzt hier weg.}
+{480}{}{HÃ¶r mal zu, ich habe dieses hervorragende Jet in meinem Zimmer und kann das nicht alles selbst aufbrauchen.}
 {481}{}{Ach?}
 {482}{}{Und warum ist das ein Problem?}
-{483}{}{Äh...Ich glaube nicht, dass ich dafür geeig...}
+{483}{}{Ã„h...Ich glaube nicht, dass ich dafÃ¼r geeig...}
 {490}{}{DICH hab ich ja hier noch nie gesehen. Bist du eine von Papis neuen Prostituierten?}
-{491}{}{Hää?}
+{491}{}{HÃ¤Ã¤?}
 {493}{}{Nein. Du?}
 {494}{}{Nein, ich kam nur gerade vorbei.}
-{495}{}{Du musst die Tochter von Bishop sein. Ich arbeite für deinen Vater, Miss Bishop.}
-{496}{}{Ich ARBEITE für deinen Vater, ich bin einer von seinen Männern.}
-{497}{}{Übrigens ARBEITE ich für ihn, und zwar als einer seiner Vollzugsleute.}
+{495}{}{Du musst die Tochter von Bishop sein. Ich arbeite fÃ¼r deinen Vater, Miss Bishop.}
+{496}{}{Ich ARBEITE fÃ¼r deinen Vater, ich bin einer von seinen MÃ¤nnern.}
+{497}{}{Ãœbrigens ARBEITE ich fÃ¼r ihn, und zwar als einer seiner Vollzugsleute.}
 {499}{}{Ich bin keine Prostituierte, aber ich habe gerade mit einer gesprochen.}
-{510}{}{Hmm, wie ich sehe, hat Papi seine Einstellungskriterien nicht geändert. Pass hier bloß auf, Schätzchen, sonst passiert dir noch was.}
+{510}{}{Hmm, wie ich sehe, hat Papi seine Einstellungskriterien nicht geÃ¤ndert. Pass hier bloÃŸ auf, SchÃ¤tzchen, sonst passiert dir noch was.}
 {511}{}{Okiie! Tanki!}
-{520}{}{Geht ganz schön schnell durch die Eingeweide, was? Bleib nicht zu lang, Dirnchen, sonst passiert dir was.}
+{520}{}{Geht ganz schÃ¶n schnell durch die Eingeweide, was? Bleib nicht zu lang, Dirnchen, sonst passiert dir was.}
 {521}{}{Wie du willst.}
 {522}{}{Dirne...}
 {531}{}{Jaja, du brauchst jemanden, der dich in die Schranken weist Prinzessin, und da komme ich wohl genau richtig.}
@@ -141,61 +141,61 @@
 {534}{}{Ich geh jetzt lieber.}
 {535}{}{Ich bin hier weg.}
 {540}{}{Ich hab dich eine Dirne GENANNT, oder? Wo ist denn der Unterschied zwischen dem was du machst und dem was ich tue?}
-{541}{}{Vollzügler, Dirne...wo ist denn da der Unterschied?}
-{542}{}{Da gibt's einen großen Unterschied. Soll ich ihn dir beibringen, du verzogene kleine Dirne?}
-{543}{}{Kein großer Unterschied, Miss Bishop.}
+{541}{}{VollzÃ¼gler, Dirne...wo ist denn da der Unterschied?}
+{542}{}{Da gibt's einen groÃŸen Unterschied. Soll ich ihn dir beibringen, du verzogene kleine Dirne?}
+{543}{}{Kein groÃŸer Unterschied, Miss Bishop.}
 {544}{}{Tut mir leid, Miss Bishop, ich habe im Moment keine Zeit zum Reden.}
 {550}{}{Mach einen Schritt in meine Richtung und du bist tot.}
 {551}{}{Wetten dass? Dabei verlierst du bestimmt.}
 {552}{}{Das werden wir ja sehen. Ich bin hier weg.}
-{560}{}{Du...wenn du mich einmal anfasst, erfährt Papi sofort davon.}
+{560}{}{Du...wenn du mich einmal anfasst, erfÃ¤hrt Papi sofort davon.}
 {561}{}{Das ist ihm egal.}
-{563}{}{Jetzt mal ganz ruhig. Ich hab ja nur Spaß gemacht, OK?}
+{563}{}{Jetzt mal ganz ruhig. Ich hab ja nur SpaÃŸ gemacht, OK?}
 {564}{}{Jaja, mal sehen.}
 {570}{}{Doch...das wird er. Das wirst du schon sehen.}
 {571}{}{Raus hier, du kleine Dirne. Und zwar sofort.}
-{573}{}{Ganz ruhig. Ich hab ja nur Spaß gemacht.}
-{580}{}{(Sie grinst dich höhnisch an, dreht sich um und stürmt davon.)}
+{573}{}{Ganz ruhig. Ich hab ja nur SpaÃŸ gemacht.}
+{580}{}{(Sie grinst dich hÃ¶hnisch an, dreht sich um und stÃ¼rmt davon.)}
 {581}{}{[Verschwinde]}
-{590}{}{(Sie starrt dich weiterhin an, ist aber etwas unsicher geworden. Sie beißt sich auf die Lippe und geht schnell weg.)}
+{590}{}{(Sie starrt dich weiterhin an, ist aber etwas unsicher geworden. Sie beiÃŸt sich auf die Lippe und geht schnell weg.)}
 {591}{}{Ja, dachte ich mir schon.}
-{600}{}{(Spuckt dir vor die Füße.) Ja, war ich auch. (Grinst dich nochmals höhnisch an und geht dann weg.)}
-{610}{}{'Kein großer Unterschied, Miss Bishop.' Und ich dachte schon, meine Mutter sei Papis einziger Sklave. Geh mir bloß aus den Augen.}
-{620}{}{'Schon verstanden, Miss Bishop.' Und ich dachte schon, meine Mutter sei Papis einziger Sklave. Geh mir bloß aus den Augen.}
-{630}{}{'TUT MIR LEID, Miss Bishop, ich habe im Moment keine Zeit zum Reden.' Und ich dachte schon, meine Mutter sei Papis einziger Sklave. Geh mir bloß aus den Augen.}
-{640}{}{Ja, geh nur. Papi wird jetzt ALLE möglichen Sachen über dich zu hören kriegen. Wart's nur ab. }
+{600}{}{(Spuckt dir vor die FÃ¼ÃŸe.) Ja, war ich auch. (Grinst dich nochmals hÃ¶hnisch an und geht dann weg.)}
+{610}{}{'Kein groÃŸer Unterschied, Miss Bishop.' Und ich dachte schon, meine Mutter sei Papis einziger Sklave. Geh mir bloÃŸ aus den Augen.}
+{620}{}{'Schon verstanden, Miss Bishop.' Und ich dachte schon, meine Mutter sei Papis einziger Sklave. Geh mir bloÃŸ aus den Augen.}
+{630}{}{'TUT MIR LEID, Miss Bishop, ich habe im Moment keine Zeit zum Reden.' Und ich dachte schon, meine Mutter sei Papis einziger Sklave. Geh mir bloÃŸ aus den Augen.}
+{640}{}{Ja, geh nur. Papi wird jetzt ALLE mÃ¶glichen Sachen Ã¼ber dich zu hÃ¶ren kriegen. Wart's nur ab. }
 {641}{}{(Dreht sich um.)}
-{642}{}{Du erzählst dem guten alten Papi auch nur ein einziges Wort, dann fliegst du im hohen Bogen vom höchsten Haus in New Reno. Und wenn man dann den kleinen Zettel findet, den ich da hinterlasse, werden alle von einem Selbstmord reden. Das wäre ja eine SCHRECKLICHE Tragödie. In der Kirche wird sicher viel geweint werden.}
+{642}{}{Du erzÃ¤hlst dem guten alten Papi auch nur ein einziges Wort, dann fliegst du im hohen Bogen vom hÃ¶chsten Haus in New Reno. Und wenn man dann den kleinen Zettel findet, den ich da hinterlasse, werden alle von einem Selbstmord reden. Das wÃ¤re ja eine SCHRECKLICHE TragÃ¶die. In der Kirche wird sicher viel geweint werden.}
 {643}{}{(Du gehst.)}
-{650}{}{Oh nein, diese Wette würdest DU verlieren, Miststück. Versuch's doch.}
+{650}{}{Oh nein, diese Wette wÃ¼rdest DU verlieren, MiststÃ¼ck. Versuch's doch.}
 {651}{}{[Greif sie an.]}
 {652}{}{[Lass los.]}
 {660}{}{Bleib mir vom Hals. Ich hab dir nichts zu sagen.}
-{661}{}{Papi wird jetzt ALLE möglichen Sachen über dich zu hören kriegen. Wart's nur ab.}
-{670}{}{Nicht nur das, aber wenn ich Jet nehme, werde ich völlig WILD und habe mich kaum unter Kontrolle. Ich brauch jemanden, der dann auf mich aufpasst, damit ich nichts...Verrücktes mache.}
+{661}{}{Papi wird jetzt ALLE mÃ¶glichen Sachen Ã¼ber dich zu hÃ¶ren kriegen. Wart's nur ab.}
+{670}{}{Nicht nur das, aber wenn ich Jet nehme, werde ich vÃ¶llig WILD und habe mich kaum unter Kontrolle. Ich brauch jemanden, der dann auf mich aufpasst, damit ich nichts...VerrÃ¼cktes mache.}
 {671}{}{Da bin ich dabei. Also los.}
-{672}{}{Wenn man ein Held ist, muss man auch manchmal schöne junge Frauen vor sich selbst schützen, koste es, was es wolle. Gehen wir.}
-{673}{}{Ich glaube, dass du mich mit jemandem verwechselst, der es in Erwägung ziehen würde, dich anzufassen.}
-{680}{}{Du siehst Angela Bishop, die gerade schläft. Sie schnarcht leise, ihre Haare sind zerzaust und sie hat ein breites Lächeln im Gesicht.}
+{672}{}{Wenn man ein Held ist, muss man auch manchmal schÃ¶ne junge Frauen vor sich selbst schÃ¼tzen, koste es, was es wolle. Gehen wir.}
+{673}{}{Ich glaube, dass du mich mit jemandem verwechselst, der es in ErwÃ¤gung ziehen wÃ¼rde, dich anzufassen.}
+{680}{}{Du siehst Angela Bishop, die gerade schlÃ¤ft. Sie schnarcht leise, ihre Haare sind zerzaust und sie hat ein breites LÃ¤cheln im Gesicht.}
 {690}{}{Du siehst eine junge Frau in enger Lederkleidung, die sich die Lunge aus dem Hals schreit.}
 {700}{}{Zzxxssnnn...oh, }
 {701}{}{Zzzzz...}
 {800}{}{Vergewaltigung! Hilfe!}
 {801}{}{Hilfe, er hat mich angegriffen! Hilfe!}
 {802}{}{Hilfe! Vergewaltigung!}
-{810}{}{(Angela führt dich zu ihrem Zimmer im dritten Stock. Dort öffnet sie eine kleine Tür in der Wand, nimmt eine seltsam aussehende Plastikflasche heraus und bietet sie dir an.) Willst du auch was, Schätzchen? Das ist mehr als genug, damit wir beide fliegen können.}
-{811}{}{(Angela führt dich zu ihrem Zimmer im dritten Stock. Dort öffnet sie einen Wandsafe, nimmt etwas Jet heraus und bietet dir etwas an.) Willst du auch was, Baby? Das ist mehr als genug, damit wir beide fliegen können.}
+{810}{}{(Angela fÃ¼hrt dich zu ihrem Zimmer im dritten Stock. Dort Ã¶ffnet sie eine kleine TÃ¼r in der Wand, nimmt eine seltsam aussehende Plastikflasche heraus und bietet sie dir an.) Willst du auch was, SchÃ¤tzchen? Das ist mehr als genug, damit wir beide fliegen kÃ¶nnen.}
+{811}{}{(Angela fÃ¼hrt dich zu ihrem Zimmer im dritten Stock. Dort Ã¶ffnet sie einen Wandsafe, nimmt etwas Jet heraus und bietet dir etwas an.) Willst du auch was, Baby? Das ist mehr als genug, damit wir beide fliegen kÃ¶nnen.}
 {812}{}{Mh-hmm}
 {813}{}{Mmmmh-mmhh}
-{820}{}{Mmmmmmm... (Angela inhaliert etwas Jet und lächelt langsam.) Mmmmmm-mmmmm...warum kommst du nicht einen Moment rüber? (Angela setzt sich aufs Bett und nimmt noch einen Zug.) Wenn du dich beeilst, kannst du mir noch ein bisschen Jet aus dem Mund saugen...}
+{820}{}{Mmmmmmm... (Angela inhaliert etwas Jet und lÃ¤chelt langsam.) Mmmmmm-mmmmm...warum kommst du nicht einen Moment rÃ¼ber? (Angela setzt sich aufs Bett und nimmt noch einen Zug.) Wenn du dich beeilst, kannst du mir noch ein bisschen Jet aus dem Mund saugen...}
 {821}{}{Tja, wenn du das so sagst... warum nicht.}
-{822}{}{Nein danke. Ich würde mich wahrscheinlich übergeben, wenn ich was von dem Mist inhaliere...oder hier noch viel länger bleibe.}
-{830}{}{(Angelas Augen sprühen vor Zorn. Sie springt vom Bett und schreit aus vollem Hals!) Vergewaltigung! Hilfe! Vergewaltigung!}
-{831}{}{Psst! Wenn nich' ruhig, lässt George mich nich' mit Kaninchen spiel'n! Schhh!}
+{822}{}{Nein danke. Ich wÃ¼rde mich wahrscheinlich Ã¼bergeben, wenn ich was von dem Mist inhaliere...oder hier noch viel lÃ¤nger bleibe.}
+{830}{}{(Angelas Augen sprÃ¼hen vor Zorn. Sie springt vom Bett und schreit aus vollem Hals!) Vergewaltigung! Hilfe! Vergewaltigung!}
+{831}{}{Psst! Wenn nich' ruhig, lÃ¤sst George mich nich' mit Kaninchen spiel'n! Schhh!}
 {832}{}{Nich' schrei'n! Nich' schrei'n!}
 {833}{}{Verdammt noch mal! Ich hasse dieses Spiel.}
 {1460}{}{. }
 {1461}{}{. Ich hab deinen letzten Film gesehen. }
-{1462}{}{. Ich hab von deinen Erfolgen im Ring gehört. }
-{1700}{}{, oooooh… zzxnhzzz}
+{1462}{}{. Ich hab von deinen Erfolgen im Ring gehÃ¶rt. }
+{1700}{}{, ooooohâ€¦ zzxnhzzz}
 {1701}{}{, schon wieder? Ooooh... }

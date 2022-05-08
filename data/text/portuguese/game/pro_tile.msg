@@ -1,4 +1,4 @@
-{100}{}{Título apagado}
+{100}{}{TÃ­tulo apagado}
 {200}{}{}
 {300}{}{}
 {400}{}{}
@@ -878,35 +878,35 @@
 {376200}{}{Telhado}
 {376300}{}{Telhado}
 {376400}{}{Telhado}
-{379100}{}{Tubulações do telhado}
-{379200}{}{Tubulações do telhado}
-{379300}{}{Tubulações do telhado}
-{379400}{}{Tubulações do telhado}
-{379500}{}{Tubulações do telhado}
-{379600}{}{Tubulações do telhado}
-{379700}{}{Tubulações do telhado}
-{379800}{}{Tubulações do telhado}
-{379900}{}{Tubulações do telhado}
-{380000}{}{Tubulações do telhado}
-{380100}{}{Tubulações do telhado}
-{380200}{}{Tubulações do telhado}
-{380300}{}{Tubulações do telhado}
-{380400}{}{Tubulações do telhado}
-{380500}{}{Tubulações do telhado}
-{380600}{}{Tubulações do telhado}
-{380700}{}{Tubulações do telhado}
-{380800}{}{Tubulações do telhado}
-{380900}{}{Tubulações do telhado}
-{381000}{}{Tubulações do telhado}
-{381100}{}{Tubulações do telhado}
-{381200}{}{Tubulações do telhado}
-{381300}{}{Tubulações do telhado}
-{381400}{}{Tubulações do telhado}
-{381500}{}{Tubulações do telhado}
-{381600}{}{Tubulações do telhado}
-{381700}{}{Tubulações do telhado}
-{381800}{}{Tubulações do telhado}
-{381900}{}{Tubulações do telhado}
+{379100}{}{TubulaÃ§Ãµes do telhado}
+{379200}{}{TubulaÃ§Ãµes do telhado}
+{379300}{}{TubulaÃ§Ãµes do telhado}
+{379400}{}{TubulaÃ§Ãµes do telhado}
+{379500}{}{TubulaÃ§Ãµes do telhado}
+{379600}{}{TubulaÃ§Ãµes do telhado}
+{379700}{}{TubulaÃ§Ãµes do telhado}
+{379800}{}{TubulaÃ§Ãµes do telhado}
+{379900}{}{TubulaÃ§Ãµes do telhado}
+{380000}{}{TubulaÃ§Ãµes do telhado}
+{380100}{}{TubulaÃ§Ãµes do telhado}
+{380200}{}{TubulaÃ§Ãµes do telhado}
+{380300}{}{TubulaÃ§Ãµes do telhado}
+{380400}{}{TubulaÃ§Ãµes do telhado}
+{380500}{}{TubulaÃ§Ãµes do telhado}
+{380600}{}{TubulaÃ§Ãµes do telhado}
+{380700}{}{TubulaÃ§Ãµes do telhado}
+{380800}{}{TubulaÃ§Ãµes do telhado}
+{380900}{}{TubulaÃ§Ãµes do telhado}
+{381000}{}{TubulaÃ§Ãµes do telhado}
+{381100}{}{TubulaÃ§Ãµes do telhado}
+{381200}{}{TubulaÃ§Ãµes do telhado}
+{381300}{}{TubulaÃ§Ãµes do telhado}
+{381400}{}{TubulaÃ§Ãµes do telhado}
+{381500}{}{TubulaÃ§Ãµes do telhado}
+{381600}{}{TubulaÃ§Ãµes do telhado}
+{381700}{}{TubulaÃ§Ãµes do telhado}
+{381800}{}{TubulaÃ§Ãµes do telhado}
+{381900}{}{TubulaÃ§Ãµes do telhado}
 {385900}{}{Telhado}
 {386000}{}{Telhado}
 {386100}{}{Telhado}
@@ -935,4 +935,4 @@
 {388400}{}{Telhado}
 {388500}{}{Telhado}
 {388600}{}{Telhado}
-{388700}{}{Ventilação de teto}
+{388700}{}{VentilaÃ§Ã£o de teto}

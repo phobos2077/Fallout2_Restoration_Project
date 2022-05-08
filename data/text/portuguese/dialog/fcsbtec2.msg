@@ -1,30 +1,30 @@
-{100}{}{Você vê uma pessoa com um pijama engraçado. Ele parece preocupado.}
-{101}{}{Você vê um técnico de submarino Shi.}
-{150}{}{Uh, o que você está fazendo se esgueirando por aí?}
-{151}{}{Você é algum tipo de espião?}
-{200}{}{Seria mais fácil se meu chinês fosse melhor...}
-{201}{}{Erro de E/S!? Como pode um sistema de orientação ter um erro de E/S!?}
-{202}{}{001100010010011110100001101101110011? Mas onde foi parar meu código de erro gráfico...}
+{100}{}{VocÃª vÃª uma pessoa com um pijama engraÃ§ado. Ele parece preocupado.}
+{101}{}{VocÃª vÃª um tÃ©cnico de submarino Shi.}
+{150}{}{Uh, o que vocÃª estÃ¡ fazendo se esgueirando por aÃ­?}
+{151}{}{VocÃª Ã© algum tipo de espiÃ£o?}
+{200}{}{Seria mais fÃ¡cil se meu chinÃªs fosse melhor...}
+{201}{}{Erro de E/S!? Como pode um sistema de orientaÃ§Ã£o ter um erro de E/S!?}
+{202}{}{001100010010011110100001101101110011? Mas onde foi parar meu cÃ³digo de erro grÃ¡fico...}
 {203}{}{Gostaria que o banco de dados IFF ainda funcionasse. Isso facilitaria muito.}
-{300}{}{O que você quer, lao wai? Não percebeu que estou tentando reconfigurar os sistemas de segmentação aqui?}
-{301}{}{Na verdade, é para isso que estou aqui. Eu tenho novas especificações para os sistemas, verificadas pelo Imperador, uh,
- pessoalmente. Você pode inseri-los? Você parece que tem mais conhecimento sobre esse subsistema.}
-{302}{}{É por isso que estou aqui, posso te ajudar na configuração dos sistemas. Parece que a conexão entre o subsistema
- de navegação da marinha e o transponder IFF finalmente morreu, então você tem que achar uma solução alternativa. De importa de eu te ajudar?}
-{303}{}{Desculpe incomodá-lo.}
-{310}{}{Oh, faz muito tempo que espero por essas novas especificações! Você deveria ter estado aqui há uma semana, no entanto, quando eu estava trabalhando no que restou da batalha do banco de dados. Agora tenho que abri-lo novamente... Bem, essa é a vida de um técnico, fazer o que.}
+{300}{}{O que vocÃª quer, lao wai? NÃ£o percebeu que estou tentando reconfigurar os sistemas de segmentaÃ§Ã£o aqui?}
+{301}{}{Na verdade, Ã© para isso que estou aqui. Eu tenho novas especificaÃ§Ãµes para os sistemas, verificadas pelo Imperador, uh,
+ pessoalmente. VocÃª pode inseri-los? VocÃª parece que tem mais conhecimento sobre esse subsistema.}
+{302}{}{Ã‰ por isso que estou aqui, posso te ajudar na configuraÃ§Ã£o dos sistemas. Parece que a conexÃ£o entre o subsistema
+ de navegaÃ§Ã£o da marinha e o transponder IFF finalmente morreu, entÃ£o vocÃª tem que achar uma soluÃ§Ã£o alternativa. De importa de eu te ajudar?}
+{303}{}{Desculpe incomodÃ¡-lo.}
+{310}{}{Oh, faz muito tempo que espero por essas novas especificaÃ§Ãµes! VocÃª deveria ter estado aqui hÃ¡ uma semana, no entanto, quando eu estava trabalhando no que restou da batalha do banco de dados. Agora tenho que abri-lo novamente... Bem, essa Ã© a vida de um tÃ©cnico, fazer o que.}
 {311}{}{Divirta-se. Vou ver o que mais precisa de reparo.}
-{320}{}{Eu mal te conheço! Pelo que sei lao wai, você pode ser algum tipo de espião estrangeiro, querendo desativar esse submarino, para que seu plano de viajar pelos mares para lugares estranhos possa ser concluído sem que os torpedos afundem seu barco! Tenho certeza de que Ken Lee não deixaria um estranho embarcar no Shi-Huang-Ti com intenções erradas, sinto muito, mas não posso aceitar essas coordenadas a menos que as obtenha pessoalmente de nosso líder.}
-{321}{}{Bem, posso pelo menos ajudá-lo a configurar o submarino? Tenho alguma experiência com sistemas de computadores antigos, o suficiente para entender como um sistema de lâmpada a vácuo de 200 anos pode se recusar a obedecer seu mestre.}
-{322}{}{Tudo bem, desculpe incomodá-lo.}
-{330}{}{Acho que posso aproveitar sua ajuda, aqui, tente. [A tecnologia Shi permite que você faça a entrada. Depois de alguns momentos se acostumando com a IU, você começa a trabalhar. Poucos minutos depois, você não só conseguiu reconfigurar os parâmetros de direcionamento, para que o submarino não afunde o tanque, mas também remove uma falha no sistema, evitando que os técnicos acessem o subsistema facilmente.]}
-{331}{}{Ok, prontinho. Consertei o sistema. Não deve acontecer nenhum problema agora. Espero que te ajude em seu trabalho.}
-{340}{}{Obrigado por sua ajuda, é difícil encontrar um bom técnico de informática hoje em dia.}
-{350}{}{Desculpe mas não. Você pode quebrar algo e nós perderemos o subsistema para sempre e eu * não * vou configurar os módulos de aquisição de alvo de torpedo manualmente. Portanto, a menos que você tenha algo * importante * para mim, me deixe voltar ao meu trabalho.}
-{351}{}{Pode deixar que eu faço. Tenho novos parâmetros de mira para os torpedos, verificados com o próprio imperador. Você é o assistente de computador residente, então acho que posso confiar para você fazer isso.}
-{352}{}{Desculpe incomodá-lo.}
-{360}{}{Não, não preciso de ajuda ou de dados novos. Estou aqui para trabalhar e você está me estorvando, então suma ou vou mandar que *sumam* com você daqui!}
-{361}{}{Desculpe incomodá-lo.}
+{320}{}{Eu mal te conheÃ§o! Pelo que sei lao wai, vocÃª pode ser algum tipo de espiÃ£o estrangeiro, querendo desativar esse submarino, para que seu plano de viajar pelos mares para lugares estranhos possa ser concluÃ­do sem que os torpedos afundem seu barco! Tenho certeza de que Ken Lee nÃ£o deixaria um estranho embarcar no Shi-Huang-Ti com intenÃ§Ãµes erradas, sinto muito, mas nÃ£o posso aceitar essas coordenadas a menos que as obtenha pessoalmente de nosso lÃ­der.}
+{321}{}{Bem, posso pelo menos ajudÃ¡-lo a configurar o submarino? Tenho alguma experiÃªncia com sistemas de computadores antigos, o suficiente para entender como um sistema de lÃ¢mpada a vÃ¡cuo de 200 anos pode se recusar a obedecer seu mestre.}
+{322}{}{Tudo bem, desculpe incomodÃ¡-lo.}
+{330}{}{Acho que posso aproveitar sua ajuda, aqui, tente. [A tecnologia Shi permite que vocÃª faÃ§a a entrada. Depois de alguns momentos se acostumando com a IU, vocÃª comeÃ§a a trabalhar. Poucos minutos depois, vocÃª nÃ£o sÃ³ conseguiu reconfigurar os parÃ¢metros de direcionamento, para que o submarino nÃ£o afunde o tanque, mas tambÃ©m remove uma falha no sistema, evitando que os tÃ©cnicos acessem o subsistema facilmente.]}
+{331}{}{Ok, prontinho. Consertei o sistema. NÃ£o deve acontecer nenhum problema agora. Espero que te ajude em seu trabalho.}
+{340}{}{Obrigado por sua ajuda, Ã© difÃ­cil encontrar um bom tÃ©cnico de informÃ¡tica hoje em dia.}
+{350}{}{Desculpe mas nÃ£o. VocÃª pode quebrar algo e nÃ³s perderemos o subsistema para sempre e eu * nÃ£o * vou configurar os mÃ³dulos de aquisiÃ§Ã£o de alvo de torpedo manualmente. Portanto, a menos que vocÃª tenha algo * importante * para mim, me deixe voltar ao meu trabalho.}
+{351}{}{Pode deixar que eu faÃ§o. Tenho novos parÃ¢metros de mira para os torpedos, verificados com o prÃ³prio imperador. VocÃª Ã© o assistente de computador residente, entÃ£o acho que posso confiar para vocÃª fazer isso.}
+{352}{}{Desculpe incomodÃ¡-lo.}
+{360}{}{NÃ£o, nÃ£o preciso de ajuda ou de dados novos. Estou aqui para trabalhar e vocÃª estÃ¡ me estorvando, entÃ£o suma ou vou mandar que *sumam* com vocÃª daqui!}
+{361}{}{Desculpe incomodÃ¡-lo.}
 {370}{}{Eai, estou ocupado aqui.}
 {371}{}{Desculpe, estou trabalhando.}
-{400}{}{Você enganou o técnico para desativar o submarino.}
+{400}{}{VocÃª enganou o tÃ©cnico para desativar o submarino.}

@@ -1,12 +1,12 @@
 {100}{}{Widzisz... Tandi.}
-{101}{}{Widzisz milutk¹, dziewczynê o kruczoczarnych w³osach z poci¹gaj¹cym wyrazem oczu. Spogl¹da marzycielsko w dal.}
-{102}{}{Widzisz Tandi. Spogl¹da marzycielsko w dal.}
-{103}{}{Widzisz Tandi. Spogl¹da marzycielsko w dal.}
-{104}{}{Czeœæ! Jesteœ potomkiem bohatera jedynki Fallouta? £a³! Jestem Tandi! Witaj!}
-{105}{}{Nie chcia³am tego tak po prostu pokazaæ po sobie, ale twój dziadek by³ bardzo milutki. [Wzdycha.]}
-{106}{}{Ian? Chyba ci¹gle jest gdzieœ w Falloucie 2. Mo¿e w Kryptopolis?}
-{107}{}{Tak naprawdê, to podobno i *ja* jestem gdzieœ w Falloucie 2. Jednak nie chcê iœæ siebie poszukaæ... mog³oby to nas obydwie przestraszyæ na amen.}
-{108}{}{Przepraszam, ¿e nie mia³am lepszych umiejêtnoœci bojowych w jedynce Fallouta. Chyba nie wychodzi³am za czêsto z domu.}
-{109}{}{S³uchaj... czy ty i Tycho nadal jesteœcie w kontakcie?}
-{110}{}{A wiêc by³ taki b³¹d, ¿e jak ju¿ by³am uratowana z r¹k najeŸdŸców i odprowadzona do taty, to czasami odbija³a mu palma. Kurcze, to by³o s³abe!}
-{111}{}{Przy³¹czy³abym siê do ciebie, ale czekam, a¿ pojawi siê tu mój tata, Aradesh. Mia³ do³¹czyæ do mnie kilka wersji temu.}
+{101}{}{Widzisz milutkÄ…, dziewczynÄ™ o kruczoczarnych wÅ‚osach z pociÄ…gajÄ…cym wyrazem oczu. SpoglÄ…da marzycielsko w dal.}
+{102}{}{Widzisz Tandi. SpoglÄ…da marzycielsko w dal.}
+{103}{}{Widzisz Tandi. SpoglÄ…da marzycielsko w dal.}
+{104}{}{CzeÅ›Ä‡! JesteÅ› potomkiem bohatera jedynki Fallouta? ÅaÅ‚! Jestem Tandi! Witaj!}
+{105}{}{Nie chciaÅ‚am tego tak po prostu pokazaÄ‡ po sobie, ale twÃ³j dziadek byÅ‚ bardzo milutki. [Wzdycha.]}
+{106}{}{Ian? Chyba ciÄ…gle jest gdzieÅ› w Falloucie 2. MoÅ¼e w Kryptopolis?}
+{107}{}{Tak naprawdÄ™, to podobno i *ja* jestem gdzieÅ› w Falloucie 2. Jednak nie chcÄ™ iÅ›Ä‡ siebie poszukaÄ‡... mogÅ‚oby to nas obydwie przestraszyÄ‡ na amen.}
+{108}{}{Przepraszam, Å¼e nie miaÅ‚am lepszych umiejÄ™tnoÅ›ci bojowych w jedynce Fallouta. Chyba nie wychodziÅ‚am za czÄ™sto z domu.}
+{109}{}{SÅ‚uchaj... czy ty i Tycho nadal jesteÅ›cie w kontakcie?}
+{110}{}{A wiÄ™c byÅ‚ taki bÅ‚Ä…d, Å¼e jak juÅ¼ byÅ‚am uratowana z rÄ…k najeÅºdÅºcÃ³w i odprowadzona do taty, to czasami odbijaÅ‚a mu palma. Kurcze, to byÅ‚o sÅ‚abe!}
+{111}{}{PrzyÅ‚Ä…czyÅ‚abym siÄ™ do ciebie, ale czekam, aÅ¼ pojawi siÄ™ tu mÃ³j tata, Aradesh. MiaÅ‚ doÅ‚Ä…czyÄ‡ do mnie kilka wersji temu.}

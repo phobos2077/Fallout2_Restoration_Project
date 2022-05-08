@@ -5,5 +5,5 @@
 {104}{}{Mach lieber, dass du weiterkommst, Kumpel. Wenn die uns beim Reden erwischen, geht's uns
  beiden schlecht.}
 {105}{}{Verdammter Barkus, hat mich hier eingesperrt. Wenn ich den zu fassen kriege...}
-{106}{}{Ich wünschte, ich wäre nie nach Vault City gekommen. "Freie Stadt"... so'n Quatsch.}
+{106}{}{Ich wÃ¼nschte, ich wÃ¤re nie nach Vault City gekommen. "Freie Stadt"... so'n Quatsch.}
 {107}{}{Wenigstens ist das Essen ganz gut.}

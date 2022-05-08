@@ -1,48 +1,48 @@
-{100}{}{Ez az ember er?páncélt visel.}
+{100}{}{Ez az ember er?pÃ¡ncÃ©lt visel.}
 {101}{}{Arthur, Uther Pendragon fia.}
 {102}{}{Lenn van a slicce...}
-{103}{}{Üdv néktek, utazók! Arthur vagyok, Uther Pendragon fia, az Acél Testvériségének tagja. A Szent Antiókiai Kézigránát nyomában járunk. Láttátok vala?}
-{104}{}{A szent miatúrót keresed?}
+{103}{}{Ãœdv nÃ©ktek, utazÃ³k! Arthur vagyok, Uther Pendragon fia, az AcÃ©l TestvÃ©risÃ©gÃ©nek tagja. A Szent AntiÃ³kiai KÃ©zigrÃ¡nÃ¡t nyomÃ¡ban jÃ¡runk. LÃ¡ttÃ¡tok vala?}
+{104}{}{A szent miatÃºrÃ³t keresed?}
 {105}{}{Player Response}
 {106}{}{Unga.}
-{107}{}{Nincs id? a beszédre! Szent küldetésben járunk.}
-{108}{}{A Szent Antiókiai Kézigránát nyomában járunk.}
-{109}{}{Az Acél Testvérisége számára!}
-{110}{}{Hmm... Afrikai vagy Európai fecske?}
-{111}{}{Hékás! Az nem a tied ám!}
+{107}{}{Nincs id? a beszÃ©dre! Szent kÃ¼ldetÃ©sben jÃ¡runk.}
+{108}{}{A Szent AntiÃ³kiai KÃ©zigrÃ¡nÃ¡t nyomÃ¡ban jÃ¡runk.}
+{109}{}{Az AcÃ©l TestvÃ©risÃ©ge szÃ¡mÃ¡ra!}
+{110}{}{Hmm... Afrikai vagy EurÃ³pai fecske?}
+{111}{}{HÃ©kÃ¡s! Az nem a tied Ã¡m!}
 {112}{}{Figyelmeztetlek! Csak semmi meggondolatlan mozdulat!}
 {113}{}{Na, ami sok az sok!}
-{114}{}{A Szent Antiókiai Kézigránát a létez? legjobb kézb?l használatos, él?er?t pusztító harci eszköz a maga nemében.}
+{114}{}{A Szent AntiÃ³kiai KÃ©zigrÃ¡nÃ¡t a lÃ©tez? legjobb kÃ©zb?l hasznÃ¡latos, Ã©l?er?t pusztÃ­tÃ³ harci eszkÃ¶z a maga nemÃ©ben.}
 {115}{}{Why do you search for such a terrible weapon?}
-{116}{}{Mi, az Acél Testvériségének tagjai azt a célt t?ztük ki magunk elé, hogy megleljük ?seink leghatásosabb fegyverét és eltüntetjük azok el?l, akik csak visszaélnének az Antiókiai Szent Kézigránát erejével.}
-{117}{}{Miért?}
+{116}{}{Mi, az AcÃ©l TestvÃ©risÃ©gÃ©nek tagjai azt a cÃ©lt t?ztÃ¼k ki magunk elÃ©, hogy megleljÃ¼k ?seink leghatÃ¡sosabb fegyverÃ©t Ã©s eltÃ¼ntetjÃ¼k azok el?l, akik csak visszaÃ©lnÃ©nek az AntiÃ³kiai Szent KÃ©zigrÃ¡nÃ¡t erejÃ©vel.}
+{117}{}{MiÃ©rt?}
 {118}{}{Well... because the Brotherhood of Steel is dedicated to protecting the weak and defenseless, and
  this thing could really hurt someone.}
-{119}{}{Miért?}
-{120}{}{Ööö... mert ezt diktálja a jó erkölcs.}
-{121}{}{Miért?}
-{122}{}{Min... öö... na figyelj ide, nekünk sok dolgunk van. Akarsz segíteni, avagy sem? Láttad az Antiókiai Szent Kézigránátot, avagy sem?}
+{119}{}{MiÃ©rt?}
+{120}{}{Ã–Ã¶Ã¶... mert ezt diktÃ¡lja a jÃ³ erkÃ¶lcs.}
+{121}{}{MiÃ©rt?}
+{122}{}{Min... Ã¶Ã¶... na figyelj ide, nekÃ¼nk sok dolgunk van. Akarsz segÃ­teni, avagy sem? LÃ¡ttad az AntiÃ³kiai Szent KÃ©zigrÃ¡nÃ¡tot, avagy sem?}
 {123}{}{Igen.}
 {124}{}{Nem.}
-{125}{}{Akkor miért nem ezzel kezdted? Ha elmondod, merre van, itthagyunk, és mehetsz a dolgodra!}
-{126}{}{[A hasadra ütsz, és elmutatsz valamerre...]}
+{125}{}{Akkor miÃ©rt nem ezzel kezdted? Ha elmondod, merre van, itthagyunk, Ã©s mehetsz a dolgodra!}
+{126}{}{[A hasadra Ã¼tsz, Ã©s elmutatsz valamerre...]}
 {127}{}{Right then. Thank you for your help. Something for your trouble.}
 {128}{}{Wait! I am also on a quest. I seek the holy GECK. Have you seen it?}
-{129}{}{Na, jó, nincs sok értelme, hogy folytassuk ezt a beszélgetést. Útnak indulunk.}
-{130}{}{[vége]}
+{129}{}{Na, jÃ³, nincs sok Ã©rtelme, hogy folytassuk ezt a beszÃ©lgetÃ©st. Ãštnak indulunk.}
+{130}{}{[vÃ©ge]}
 {131}{}{Mocskos paraszt!}
-{132}{}{[vége]}
-{133}{}{ÉLET-et mondtál? Ami azt illeti, van itt nálunk kett?, egy harmadik már fölösleges lenne. Amúgy köszönjük.}
-{134}{}{Hát, ha már kett? van nektek, az egyiket akár oda is adhatnátok.}
-{135}{}{Nem-nem. Ez lehetetlen. Ilyen könnyen azért nem fogod befejezni a küldetésed. Van még épp elég, szerezz egyet magadnak! [Ugyanabba az irányba mutat, amerre az útmutatásod szerint az Antiókiai Szent Kézigránát található.]}
-{136}{}{[vége]}
-{200}{}{Beszélsz a király nyelvén?}
-{201}{}{Hellóóó.}
-{202}{}{Hé, itt vagyok!}
-{203}{}{Ha egy pillanatra zavarhatnálak...}
+{132}{}{[vÃ©ge]}
+{133}{}{Ã‰LET-et mondtÃ¡l? Ami azt illeti, van itt nÃ¡lunk kett?, egy harmadik mÃ¡r fÃ¶lÃ¶sleges lenne. AmÃºgy kÃ¶szÃ¶njÃ¼k.}
+{134}{}{HÃ¡t, ha mÃ¡r kett? van nektek, az egyiket akÃ¡r oda is adhatnÃ¡tok.}
+{135}{}{Nem-nem. Ez lehetetlen. Ilyen kÃ¶nnyen azÃ©rt nem fogod befejezni a kÃ¼ldetÃ©sed. Van mÃ©g Ã©pp elÃ©g, szerezz egyet magadnak! [Ugyanabba az irÃ¡nyba mutat, amerre az ÃºtmutatÃ¡sod szerint az AntiÃ³kiai Szent KÃ©zigrÃ¡nÃ¡t talÃ¡lhatÃ³.]}
+{136}{}{[vÃ©ge]}
+{200}{}{BeszÃ©lsz a kirÃ¡ly nyelvÃ©n?}
+{201}{}{HellÃ³Ã³Ã³.}
+{202}{}{HÃ©, itt vagyok!}
+{203}{}{Ha egy pillanatra zavarhatnÃ¡lak...}
 {204}{}{Ahem.}
-{205}{}{Ugyan már, ne nézz már át rajtam, mint a kirakaton!}
-{206}{}{Légysziiii! Valami nagyon fontosat kell kérdeznem.}
-{207}{}{Az a helyzet, hogy folytatnunk kell a kutatást az Antiókiai Szent kézigránát nyomában. Jer, Balfi!}
+{205}{}{Ugyan mÃ¡r, ne nÃ©zz mÃ¡r Ã¡t rajtam, mint a kirakaton!}
+{206}{}{LÃ©gysziiii! Valami nagyon fontosat kell kÃ©rdeznem.}
+{207}{}{Az a helyzet, hogy folytatnunk kell a kutatÃ¡st az AntiÃ³kiai Szent kÃ©zigrÃ¡nÃ¡t nyomÃ¡ban. Jer, Balfi!}
 {300}{}{Our quest has been fulfilled!}
 {301}{}{Arthur, at your service.}

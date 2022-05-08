@@ -1,5 +1,5 @@
-{100}{}{Você vê um robô.}
-{101}{}{Você vê o robô de manutenção e reparo do reator.}
-{102}{}{Você vê um robô. Parece ser funcional.}
-{200}{}{O robô consertou a usina.}
-{300}{}{Você programou o robô para iniciar uma fusão nuclear descontrolada.}
+{100}{}{VocÃª vÃª um robÃ´.}
+{101}{}{VocÃª vÃª o robÃ´ de manutenÃ§Ã£o e reparo do reator.}
+{102}{}{VocÃª vÃª um robÃ´. Parece ser funcional.}
+{200}{}{O robÃ´ consertou a usina.}
+{300}{}{VocÃª programou o robÃ´ para iniciar uma fusÃ£o nuclear descontrolada.}

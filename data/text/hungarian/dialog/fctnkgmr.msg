@@ -1,29 +1,29 @@
-{100}{}{Egy keresked?t látsz.}
-{101}{}{? Cal, az unatkozó fegyverkeresked?.}
-{102}{}{Egy unatkozó, de barátságos férfit látsz.}
-{103}{}{Jó napot magának, uram. Segíthetek valamiben?}
-{104}{}{Jó napot magának, hölgyem. Segíthetek valamiben?}
-{105}{}{Én akar információ.}
+{100}{}{Egy keresked?t lÃ¡tsz.}
+{101}{}{? Cal, az unatkozÃ³ fegyverkeresked?.}
+{102}{}{Egy unatkozÃ³, de barÃ¡tsÃ¡gos fÃ©rfit lÃ¡tsz.}
+{103}{}{JÃ³ napot magÃ¡nak, uram. SegÃ­thetek valamiben?}
+{104}{}{JÃ³ napot magÃ¡nak, hÃ¶lgyem. SegÃ­thetek valamiben?}
+{105}{}{Ã‰n akar informÃ¡ciÃ³.}
 {106}{}{Mid van?}
-{107}{}{Nem, én menni.}
-{108}{}{Információt szeretnék.}
+{107}{}{Nem, Ã©n menni.}
+{108}{}{InformÃ¡ciÃ³t szeretnÃ©k.}
 {109}{}{Hogyne, mutasd, mid van!}
-{110}{}{Értem.}
-{111}{}{Nincs eladó információm. Csak fegyverekkel foglalkozom. Akarja látni az árumat?}
+{110}{}{Ã‰rtem.}
+{111}{}{Nincs eladÃ³ informÃ¡ciÃ³m. Csak fegyverekkel foglalkozom. Akarja lÃ¡tni az Ã¡rumat?}
 {112}{}{Igen.}
 {113}{}{Nem.}
-{114}{}{Szerintem meg lesz elégedve az árummal. Gondosan nézzen körül!}
-{115}{}{Oké.}
-{116}{}{Lesz még valami más?}
+{114}{}{Szerintem meg lesz elÃ©gedve az Ã¡rummal. Gondosan nÃ©zzen kÃ¶rÃ¼l!}
+{115}{}{OkÃ©.}
+{116}{}{Lesz mÃ©g valami mÃ¡s?}
 {117}{}{Igen.}
 {118}{}{Nem.}
-{119}{}{Akkor legyen jó napja!}
-{120}{}{Oké.}
-{121}{}{Üdv újra nálunk. Megint vásárolhatnékja van?}
+{119}{}{Akkor legyen jÃ³ napja!}
+{120}{}{OkÃ©.}
+{121}{}{Ãœdv Ãºjra nÃ¡lunk. Megint vÃ¡sÃ¡rolhatnÃ©kja van?}
 {122}{}{Igen.}
 {123}{}{Nem.}
-{124}{}{Sajnálom, de zárva vagyunk. Kábé nyolckor nyitok. Jöjjön vissza akkor, ha akar valamit!}
-{125}{}{Oké.}
-{126}{}{Magának nem adok el semmit. T?njön el a boltomból!}
-{127}{}{Oké.}
-{128}{}{Remélem, hamarosan megjön a szállítmány.}
+{124}{}{SajnÃ¡lom, de zÃ¡rva vagyunk. KÃ¡bÃ© nyolckor nyitok. JÃ¶jjÃ¶n vissza akkor, ha akar valamit!}
+{125}{}{OkÃ©.}
+{126}{}{MagÃ¡nak nem adok el semmit. T?njÃ¶n el a boltombÃ³l!}
+{127}{}{OkÃ©.}
+{128}{}{RemÃ©lem, hamarosan megjÃ¶n a szÃ¡llÃ­tmÃ¡ny.}

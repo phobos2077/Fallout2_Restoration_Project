@@ -1,8 +1,8 @@
-1:Kiválasztott?
-2:Kiválasztott?
+1:KivÃ¡lasztott?
+2:KivÃ¡lasztott?
 3:Hallasz?
 4:[A] falu [haldoklik].
-5:[Mindannyiunk] jöv?jével együtt.
-6:Lényegében már alig maradt [id?nk].
+5:[Mindannyiunk] jÃ¶v?jÃ©vel egyÃ¼tt.
+6:LÃ©nyegÃ©ben mÃ¡r alig maradt [id?nk].
 7:Siess.
 8:Sie-...

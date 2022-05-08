@@ -5,4 +5,4 @@
 {104}{}{Diese Maschine funktioniert bereits ausgezeichnet.}
 {105}{}{Es scheint zu kompliziert zu sein, diese Maschine zu reparieren.}
 {106}{}{Wonach such ich hier eigentlich?}
-{107}{}{Selbst mit deinen Werkzeugen hast du nicht die nötigen Fähigkeiten, um die Maschine zu reparieren.}
+{107}{}{Selbst mit deinen Werkzeugen hast du nicht die nÃ¶tigen FÃ¤higkeiten, um die Maschine zu reparieren.}

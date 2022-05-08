@@ -1,159 +1,159 @@
 {100}{}{Ves a Lydia.}
-{101}{}{Ves a una mujer de pelo castaño vestida con uniforme marrón y una armadura metálica. Parece la camarera.}
+{101}{}{Ves a una mujer de pelo castaÃ±o vestida con uniforme marrÃ³n y una armadura metÃ¡lica. Parece la camarera.}
 {102}{}{Ves a Lydia.}
-{103}{}{Ves a una mujer de pelo castaño vestida con uniforme marrón y una armadura metálica. Parece la camarera.}
-{104}{}{¡Bienvenida! ¿Te apetece una bebida, Elegida?}
-{105}{}{¡Bienvenida, Elegida! Por favor, siéntate en el bar.}
-{106}{}{¡Por favor! ¡Siéntate, descansa un poco!}
-{107}{}{¡Es la Elegida! ¡Que todo el mundo atienda a la HEROÍNA de Fallout 2!}
-{108}{}{Que le vaya bien, capitán.}
-{109}{}{Ciudad Refugio prevalece, capitán.}
+{103}{}{Ves a una mujer de pelo castaÃ±o vestida con uniforme marrÃ³n y una armadura metÃ¡lica. Parece la camarera.}
+{104}{}{Â¡Bienvenida! Â¿Te apetece una bebida, Elegida?}
+{105}{}{Â¡Bienvenida, Elegida! Por favor, siÃ©ntate en el bar.}
+{106}{}{Â¡Por favor! Â¡SiÃ©ntate, descansa un poco!}
+{107}{}{Â¡Es la Elegida! Â¡Que todo el mundo atienda a la HEROÃNA de Fallout 2!}
+{108}{}{Que le vaya bien, capitÃ¡n.}
+{109}{}{Ciudad Refugio prevalece, capitÃ¡n.}
 {110}{}{Que te vaya bien, Ciudadana.}
 {111}{}{Ciudad Refugio prevalece, Ciudadana.}
-{112}{}{¡Un mutante! ¡Guardias! ¡Guardias!}
-{113}{}{¡Un necrófago! ¡Guardias! ¡Guardias!}
-{114}{}{Hemos cerrado. Vuelve por la mañana.}
-{115}{}{Lo siento, pero la última ronda fue hace un rato. Vuelve por la mañana.}
-{116}{}{Hemos cerrado. En cuanto termine esta lista de nuestras existencias, echaré el cierre.}
-{117}{}{¡Hola, Elegida! Precisamente estábamos hablando de tus aventuras... ¿puedo traerte algo de beber?}
+{112}{}{Â¡Un mutante! Â¡Guardias! Â¡Guardias!}
+{113}{}{Â¡Un necrÃ³fago! Â¡Guardias! Â¡Guardias!}
+{114}{}{Hemos cerrado. Vuelve por la maÃ±ana.}
+{115}{}{Lo siento, pero la Ãºltima ronda fue hace un rato. Vuelve por la maÃ±ana.}
+{116}{}{Hemos cerrado. En cuanto termine esta lista de nuestras existencias, echarÃ© el cierre.}
+{117}{}{Â¡Hola, Elegida! Precisamente estÃ¡bamos hablando de tus aventuras... Â¿puedo traerte algo de beber?}
 {118}{}{Estrella-estrellita dame botellita}
 {119}{}{Dejas de balbucear}
-{120}{}{¿Qué hay para tomar?}
-{121}{}{Entiendo. Estaba buscando más información...}
-{122}{}{Tengo el cargamento de alcohol que querías.}
+{120}{}{Â¿QuÃ© hay para tomar?}
+{121}{}{Entiendo. Estaba buscando mÃ¡s informaciÃ³n...}
+{122}{}{Tengo el cargamento de alcohol que querÃ­as.}
 {123}{}{Hoy nada, gracias.}
-{124}{}{Uh... así que apesto. Eh, gracias de nuevo por salvar el mundo y todo eso.}
-{125}{}{¡Estalla-estallita hazme estrellita!}
+{124}{}{Uh... asÃ­ que apesto. Eh, gracias de nuevo por salvar el mundo y todo eso.}
+{125}{}{Â¡Estalla-estallita hazme estrellita!}
 {126}{}{Dejas de balbucear}
-{127}{}{Mira, quizá hayas salvado el mundo y todo eso, pero poeta no eres. Ahora, déjalo estar.}
-{128}{}{¡Estalla-estalla estola-estola!}
+{127}{}{Mira, quizÃ¡ hayas salvado el mundo y todo eso, pero poeta no eres. Ahora, dÃ©jalo estar.}
+{128}{}{Â¡Estalla-estalla estola-estola!}
 {129}{}{Dejas de balbucear}
-{130}{}{Mira, tómate eso y sal de aquí, ¿de acuerdo? Te mantendrá la boca ocupada por un tiempo.}
+{130}{}{Mira, tÃ³mate eso y sal de aquÃ­, Â¿de acuerdo? Te mantendrÃ¡ la boca ocupada por un tiempo.}
 {131}{}{Gracita estrellita mi botellita}
 {132}{}{Dejas de balbucear}
-{133}{}{Eh... ¿qué puedo hacer por usted, capitán?}
-{134}{}{¿Qué puedo hacer por ti, Ciudadana?}
-{135}{}{¿Sí? ¿Puedo ayudarte?}
-{136}{}{¿Tu? ¿Too? ¿Joo? Jooos. O-jooos es que todos miran a mí}
+{133}{}{Eh... Â¿quÃ© puedo hacer por usted, capitÃ¡n?}
+{134}{}{Â¿QuÃ© puedo hacer por ti, Ciudadana?}
+{135}{}{Â¿SÃ­? Â¿Puedo ayudarte?}
+{136}{}{Â¿Tu? Â¿Too? Â¿Joo? Jooos. O-jooos es que todos miran a mÃ­}
 {137}{}{Dejas de balbucear}
-{138}{}{¿Qué hay para tomar?}
-{139}{}{Entiendo. Estaba buscando más información...}
-{140}{}{Tengo el cargamento de alcohol que querías.}
+{138}{}{Â¿QuÃ© hay para tomar?}
+{139}{}{Entiendo. Estaba buscando mÃ¡s informaciÃ³n...}
+{140}{}{Tengo el cargamento de alcohol que querÃ­as.}
 {141}{}{Hoy nada, gracias.}
-{142}{}{Eso es quizá lo más fascinante que he oído nunca. Espera... quiero que los guardias también lo escuchen.}
-{143}{}{¿Too? Tú. Tu-tu-tu. Tú y yo dosss}
+{142}{}{Eso es quizÃ¡ lo mÃ¡s fascinante que he oÃ­do nunca. Espera... quiero que los guardias tambiÃ©n lo escuchen.}
+{143}{}{Â¿Too? TÃº. Tu-tu-tu. TÃº y yo dosss}
 {144}{}{Dejas de balbucear}
-{145}{}{Tenemos cerveza sintética y licor...vodka-H, derivados W y W2 de tequila. Oh, y agua. Y leche de brahmin. La cerveza y el licor cuestan diez pavos, el agua y la leche tres.}
-{146}{}{¿Como...?}
-{147}{}{Eh, ¿no tienes nada de alcohol de verdad?}
-{148}{}{Podría tomar una cerveza sintética.}
-{149}{}{Un poco de vodka sintético caería más que bien.}
-{150}{}{Un tequila W2 sería genial.}
-{151}{}{Un poco de agua estaría muy bien.}
+{145}{}{Tenemos cerveza sintÃ©tica y licor...vodka-H, derivados W y W2 de tequila. Oh, y agua. Y leche de brahmin. La cerveza y el licor cuestan diez pavos, el agua y la leche tres.}
+{146}{}{Â¿Como...?}
+{147}{}{Eh, Â¿no tienes nada de alcohol de verdad?}
+{148}{}{PodrÃ­a tomar una cerveza sintÃ©tica.}
+{149}{}{Un poco de vodka sintÃ©tico caerÃ­a mÃ¡s que bien.}
+{150}{}{Un tequila W2 serÃ­a genial.}
+{151}{}{Un poco de agua estarÃ­a muy bien.}
 {152}{}{Leche de brahmin.}
-{153}{}{En realidad, buscaba algo de información.}
-{154}{}{Volveré cuando tenga más dinero.}
+{153}{}{En realidad, buscaba algo de informaciÃ³n.}
+{154}{}{VolverÃ© cuando tenga mÃ¡s dinero.}
 {155}{}{Creo que voy a pasar, gracias.}
-{156}{}{La leche de brahmin no está lista para tomar... bueno, no exactamente. Tendría que salir y conseguir algo muy rápido.}
-{157}{}{Está bien. No me importa esperar. Me encanta tomar un refrescante vaso de leche. Mmmmm-mmm. Eso estaría más que bien.}
-{158}{}{Entonces creo que intentaré otra cosa.}
-{159}{}{No importa, entonces. Verás, estas buscando algo de información...}
-{160}{}{Olvídalo. Volveré en algún otro momento.}
-{161}{}{Aquí está. ¿Algo más?}
-{162}{}{Eh, ¿no tienes nada de alcohol de verdad?}
-{163}{}{Podría tomar una cerveza sintética.}
-{164}{}{Un poco de vodka sintético caería más que bien.}
-{165}{}{Un tequila W2 sería genial.}
-{166}{}{Un poco de agua estaría muy bien.}
+{156}{}{La leche de brahmin no estÃ¡ lista para tomar... bueno, no exactamente. TendrÃ­a que salir y conseguir algo muy rÃ¡pido.}
+{157}{}{EstÃ¡ bien. No me importa esperar. Me encanta tomar un refrescante vaso de leche. Mmmmm-mmm. Eso estarÃ­a mÃ¡s que bien.}
+{158}{}{Entonces creo que intentarÃ© otra cosa.}
+{159}{}{No importa, entonces. VerÃ¡s, estas buscando algo de informaciÃ³n...}
+{160}{}{OlvÃ­dalo. VolverÃ© en algÃºn otro momento.}
+{161}{}{AquÃ­ estÃ¡. Â¿Algo mÃ¡s?}
+{162}{}{Eh, Â¿no tienes nada de alcohol de verdad?}
+{163}{}{PodrÃ­a tomar una cerveza sintÃ©tica.}
+{164}{}{Un poco de vodka sintÃ©tico caerÃ­a mÃ¡s que bien.}
+{165}{}{Un tequila W2 serÃ­a genial.}
+{166}{}{Un poco de agua estarÃ­a muy bien.}
 {167}{}{Leche de brahmin.}
-{168}{}{En realidad, buscaba algo de información.}
-{169}{}{Volveré cuando tenga más dinero.}
+{168}{}{En realidad, buscaba algo de informaciÃ³n.}
+{169}{}{VolverÃ© cuando tenga mÃ¡s dinero.}
 {170}{}{Creo que voy a pasar, gracias.}
-{171}{}{¿Oh? ¿Como qué?}
-{172}{}{¿Quién está a cargo de Ciudad Refugio?}
-{173}{}{¿Dónde está el Refugio?}
-{174}{}{¿Puedes hablarme de la esclavitud en Ciudad Refugio?}
-{175}{}{¿Tiene Ciudad Refugio mucho contacto con el mundo exterior?}
-{176}{}{¿Qué tienes para tomar?}
-{177}{}{Tengo el cargamento de alcohol que querías.}
-{178}{}{De acuerdo entonces. Buenos días.}
-{179}{}{Eh, la Primer Ciudadano Lynette... tú eres Ciudadana, ¿verdad?}
-{180}{}{La Primer Ciudadano Lynette. Está en el edificio del Consejo, al norte, por si necesitas hablar con ella.}
-{181}{}{Quería saber otra cosa...}
-{182}{}{De acuerdo. Iré a hablar con ella, entonces.}
-{183}{}{Eh, es el gran agujero en la falda de la montaña al este de aquí... dime, tú eres una Ciudadana, ¿verdad?}
-{184}{}{Es ese gran agujero de la montaña que hay al este de aquí. No tiene pérdida. Aunque no podrás entrar a menos que seas un Ciudadano.}
-{185}{}{Quería saber otra cosa...}
+{171}{}{Â¿Oh? Â¿Como quÃ©?}
+{172}{}{Â¿QuiÃ©n estÃ¡ a cargo de Ciudad Refugio?}
+{173}{}{Â¿DÃ³nde estÃ¡ el Refugio?}
+{174}{}{Â¿Puedes hablarme de la esclavitud en Ciudad Refugio?}
+{175}{}{Â¿Tiene Ciudad Refugio mucho contacto con el mundo exterior?}
+{176}{}{Â¿QuÃ© tienes para tomar?}
+{177}{}{Tengo el cargamento de alcohol que querÃ­as.}
+{178}{}{De acuerdo entonces. Buenos dÃ­as.}
+{179}{}{Eh, la Primer Ciudadano Lynette... tÃº eres Ciudadana, Â¿verdad?}
+{180}{}{La Primer Ciudadano Lynette. EstÃ¡ en el edificio del Consejo, al norte, por si necesitas hablar con ella.}
+{181}{}{QuerÃ­a saber otra cosa...}
+{182}{}{De acuerdo. IrÃ© a hablar con ella, entonces.}
+{183}{}{Eh, es el gran agujero en la falda de la montaÃ±a al este de aquÃ­... dime, tÃº eres una Ciudadana, Â¿verdad?}
+{184}{}{Es ese gran agujero de la montaÃ±a que hay al este de aquÃ­. No tiene pÃ©rdida. Aunque no podrÃ¡s entrar a menos que seas un Ciudadano.}
+{185}{}{QuerÃ­a saber otra cosa...}
 {186}{}{Pero yo soy una Ciudadana.}
-{187}{}{Sí, sólo siguiendo las orientaciones, gracias. Iré a echar un vistazo.}
-{188}{}{Hmmm. Gracias por la información.}
-{189}{}{Claro que lo eres. Yo tendría cuidado de a quién le dices eso, "Ciudadana". Alguien podría reconocer esos documentos robados que has conseguido de ese chupasangres de Skeev. Así que mantén la cabeza baja, ¿de acuerdo?}
-{190}{}{Eh, de acuerdo. Verás, quería saber algo más...}
-{191}{}{Oh. Bien, olvídalo.}
-{192}{}{Mira, lo primero que debo decirte es que mejor que no uses la palabra "esclavitud" por aquí, o te meterás en un auténtico montón de problemas. Se les llama "siervos", no esclavos. Es sólo un consejo.}
-{193}{}{Me lo apunto. Verás, quería saber algo más...}
-{194}{}{Gracias. Lo tendré presente.}
-{195}{}{No mucho. La mayor parte del contacto que tenemos con extranjeros proviene de los comerciantes que viajan por la ruta de caravanas del Gran Círculo y que proceden de Broken Hills, Nuevo Reno, y Redding. El único otro lugar fuera de la ruta de caravanas que yo conozco es Gecko.}
-{196}{}{Háblame de Broken Hills.}
-{197}{}{Háblame de Nuevo Reno.}
-{198}{}{Háblame de Redding.}
-{199}{}{Háblame de Gecko.}
-{200}{}{Quería saber otra cosa...}
-{201}{}{Gracias por la información.}
-{202}{}{Se trata de una comunidad minera como Redding, sólo que localizada bastante lejos hacia el sur. Obtenemos la mayoría de nuestros envíos de uranio de allí.}
-{203}{}{Háblame de Nuevo Reno.}
-{204}{}{Háblame de Redding.}
-{205}{}{Háblame de Gecko.}
-{206}{}{Quería saber otra cosa...}
-{207}{}{Gracias por la información.}
-{208}{}{Un largo camino hacia el suroeste. He oído informes contradictorios acerca de Reno. Algunos comerciantes, especialmente los esclavistas, adoran aquello. Otros... no. Una ciudad con mucho resplandor... y muchos problemas, por lo que he oído.}
-{209}{}{Háblame de Broken Hills.}
-{210}{}{Háblame de Redding.}
-{211}{}{Háblame de Gecko.}
-{212}{}{Quería saber otra cosa...}
-{213}{}{Gracias por la información.}
+{187}{}{SÃ­, sÃ³lo siguiendo las orientaciones, gracias. IrÃ© a echar un vistazo.}
+{188}{}{Hmmm. Gracias por la informaciÃ³n.}
+{189}{}{Claro que lo eres. Yo tendrÃ­a cuidado de a quiÃ©n le dices eso, "Ciudadana". Alguien podrÃ­a reconocer esos documentos robados que has conseguido de ese chupasangres de Skeev. AsÃ­ que mantÃ©n la cabeza baja, Â¿de acuerdo?}
+{190}{}{Eh, de acuerdo. VerÃ¡s, querÃ­a saber algo mÃ¡s...}
+{191}{}{Oh. Bien, olvÃ­dalo.}
+{192}{}{Mira, lo primero que debo decirte es que mejor que no uses la palabra "esclavitud" por aquÃ­, o te meterÃ¡s en un autÃ©ntico montÃ³n de problemas. Se les llama "siervos", no esclavos. Es sÃ³lo un consejo.}
+{193}{}{Me lo apunto. VerÃ¡s, querÃ­a saber algo mÃ¡s...}
+{194}{}{Gracias. Lo tendrÃ© presente.}
+{195}{}{No mucho. La mayor parte del contacto que tenemos con extranjeros proviene de los comerciantes que viajan por la ruta de caravanas del Gran CÃ­rculo y que proceden de Broken Hills, Nuevo Reno, y Redding. El Ãºnico otro lugar fuera de la ruta de caravanas que yo conozco es Gecko.}
+{196}{}{HÃ¡blame de Broken Hills.}
+{197}{}{HÃ¡blame de Nuevo Reno.}
+{198}{}{HÃ¡blame de Redding.}
+{199}{}{HÃ¡blame de Gecko.}
+{200}{}{QuerÃ­a saber otra cosa...}
+{201}{}{Gracias por la informaciÃ³n.}
+{202}{}{Se trata de una comunidad minera como Redding, sÃ³lo que localizada bastante lejos hacia el sur. Obtenemos la mayorÃ­a de nuestros envÃ­os de uranio de allÃ­.}
+{203}{}{HÃ¡blame de Nuevo Reno.}
+{204}{}{HÃ¡blame de Redding.}
+{205}{}{HÃ¡blame de Gecko.}
+{206}{}{QuerÃ­a saber otra cosa...}
+{207}{}{Gracias por la informaciÃ³n.}
+{208}{}{Un largo camino hacia el suroeste. He oÃ­do informes contradictorios acerca de Reno. Algunos comerciantes, especialmente los esclavistas, adoran aquello. Otros... no. Una ciudad con mucho resplandor... y muchos problemas, por lo que he oÃ­do.}
+{209}{}{HÃ¡blame de Broken Hills.}
+{210}{}{HÃ¡blame de Redding.}
+{211}{}{HÃ¡blame de Gecko.}
+{212}{}{QuerÃ­a saber otra cosa...}
+{213}{}{Gracias por la informaciÃ³n.}
 {214}{}{Es un pueblo minero que se encuentra lejos, hacia el oeste. No hemos visto demasiadas caravanas suyas recientemente, y eso tiene a algunos de los cabecillas algo preocupados. Especialmente al alto concejal McClure.}
-{215}{}{Háblame de Broken Hills.}
-{216}{}{Háblame de Nuevo Reno.}
-{217}{}{Háblame de Gecko.}
-{218}{}{Quería saber otra cosa...}
-{219}{}{Gracias por la información.}
-{220}{}{Un pueblo de necrófagos a menos de un día de viaje en dirección nordeste, por lo que tengo entendido. Se rumorea que cazan a cualquier viajero que entra en su territorio. Mejor no acercarse.}
-{221}{}{Háblame de Broken Hills.}
-{222}{}{Háblame de Nuevo Reno.}
-{223}{}{Háblame de Redding.}
-{224}{}{Quería saber otra cosa...}
-{225}{}{Gracias por la información.}
-{226}{}{¿Por qué? ¿Estás buscando algo con más empuje que estas bebidas sintéticas?}
-{227}{}{Tal vez. Realmente no se puede comparar el beber alcohol sintético con el auténtico.}
-{228}{}{Desde luego, no. En realidad estaba buscando algo de información...}
+{215}{}{HÃ¡blame de Broken Hills.}
+{216}{}{HÃ¡blame de Nuevo Reno.}
+{217}{}{HÃ¡blame de Gecko.}
+{218}{}{QuerÃ­a saber otra cosa...}
+{219}{}{Gracias por la informaciÃ³n.}
+{220}{}{Un pueblo de necrÃ³fagos a menos de un dÃ­a de viaje en direcciÃ³n nordeste, por lo que tengo entendido. Se rumorea que cazan a cualquier viajero que entra en su territorio. Mejor no acercarse.}
+{221}{}{HÃ¡blame de Broken Hills.}
+{222}{}{HÃ¡blame de Nuevo Reno.}
+{223}{}{HÃ¡blame de Redding.}
+{224}{}{QuerÃ­a saber otra cosa...}
+{225}{}{Gracias por la informaciÃ³n.}
+{226}{}{Â¿Por quÃ©? Â¿EstÃ¡s buscando algo con mÃ¡s empuje que estas bebidas sintÃ©ticas?}
+{227}{}{Tal vez. Realmente no se puede comparar el beber alcohol sintÃ©tico con el autÃ©ntico.}
+{228}{}{Desde luego, no. En realidad estaba buscando algo de informaciÃ³n...}
 {229}{}{Hoy no.}
-{230}{}{Eso seguro. Solía tener una... bueno, conocí a un comerciante que tenía una botella de Maddog 30/30. Algo amargo... después de beberlo no sentía la lengua, pero era algo refrescantemente distinto.}
-{231}{}{¿Qué ocurrió con el cargamento de este "comerciante"?}
-{232}{}{Entiendo. Estaba buscando más información...}
+{230}{}{Eso seguro. SolÃ­a tener una... bueno, conocÃ­ a un comerciante que tenÃ­a una botella de Maddog 30/30. Algo amargo... despuÃ©s de beberlo no sentÃ­a la lengua, pero era algo refrescantemente distinto.}
+{231}{}{Â¿QuÃ© ocurriÃ³ con el cargamento de este "comerciante"?}
+{232}{}{Entiendo. Estaba buscando mÃ¡s informaciÃ³n...}
 {233}{}{Ya veo. Bueno, me ha alegrado hablar contigo.}
-{234}{}{Estaba borracho. O eso escuché. Había varios "amigos" en Ciudad Refugio que ayudaron a este comerciante a beberse el cargamento. Estaban dispuestos a pagar un buen precio por tener material de verdad para intercambiar.}
-{235}{}{Apuesto a que sí. ¿Sabes? Probablemente yo podría conseguir algo más de auténtico material con facilidad. He viajado mucho por el Yermo, y conseguir un cargamento de alcohol no es nada del otro mundo.}
-{236}{}{Entiendo. Estaba buscando más información...}
+{234}{}{Estaba borracho. O eso escuchÃ©. HabÃ­a varios "amigos" en Ciudad Refugio que ayudaron a este comerciante a beberse el cargamento. Estaban dispuestos a pagar un buen precio por tener material de verdad para intercambiar.}
+{235}{}{Apuesto a que sÃ­. Â¿Sabes? Probablemente yo podrÃ­a conseguir algo mÃ¡s de autÃ©ntico material con facilidad. He viajado mucho por el Yermo, y conseguir un cargamento de alcohol no es nada del otro mundo.}
+{236}{}{Entiendo. Estaba buscando mÃ¡s informaciÃ³n...}
 {237}{}{Ya veo. Bueno, me ha alegrado hablar contigo.}
-{238}{}{¿Es así? Bien, si estabas planteando la necesidad de auténtico alcohol, entonces yo podría hacer que valiera la pena. Si puedes guardar silencio acerca de nuestro trato. Y conseguir el contrabando más allá de las puertas.}
-{239}{}{¿Cuánto alcohol auténtico necesitarías?}
-{240}{}{Verás, diez botellas de licor de calidad, y otras diez botellas de cerveza. Y nada de esa mierda radiactiva que he oído viene de Gecko. Tan solo el viejo y bueno alcohol, ¿de acuerdo?}
-{241}{}{Resulta que tengo esa cantidad justo aquí.}
-{242}{}{Podría conseguir algo. Ahora, buscaba algo de información...}
-{243}{}{Hmmmm. Pensaré en ello y volveré.}
-{244}{}{¡Excelente! Aquí hay algo para ti... el doble de la cantidad habitual por esta mercancía. Y esta transacción nunca ha ocurrido, ¿de acuerdo?}
-{245}{}{No hay problema. Oye, buscaba algo de información...}
+{238}{}{Â¿Es asÃ­? Bien, si estabas planteando la necesidad de autÃ©ntico alcohol, entonces yo podrÃ­a hacer que valiera la pena. Si puedes guardar silencio acerca de nuestro trato. Y conseguir el contrabando mÃ¡s allÃ¡ de las puertas.}
+{239}{}{Â¿CuÃ¡nto alcohol autÃ©ntico necesitarÃ­as?}
+{240}{}{VerÃ¡s, diez botellas de licor de calidad, y otras diez botellas de cerveza. Y nada de esa mierda radiactiva que he oÃ­do viene de Gecko. Tan solo el viejo y bueno alcohol, Â¿de acuerdo?}
+{241}{}{Resulta que tengo esa cantidad justo aquÃ­.}
+{242}{}{PodrÃ­a conseguir algo. Ahora, buscaba algo de informaciÃ³n...}
+{243}{}{Hmmmm. PensarÃ© en ello y volverÃ©.}
+{244}{}{Â¡Excelente! AquÃ­ hay algo para ti... el doble de la cantidad habitual por esta mercancÃ­a. Y esta transacciÃ³n nunca ha ocurrido, Â¿de acuerdo?}
+{245}{}{No hay problema. Oye, buscaba algo de informaciÃ³n...}
 {246}{}{Gracias. Es un placer hacer negocios contigo.}
-{247}{}{No, esos brebajes del Yermo que por ahí llaman alcohol son ilegales aquí, en Ciudad Refugio. Y no quiero ni saber cómo los preparan. Y ahora, ¿querías algo de beber, capitán...?}
-{248}{}{No hay nada malo en un poco de alcohol de verdad de vez en cuando. Desde luego, tu percepción sufre, pero lo puedes hacer cuando tienes demasiado polvo curativo.}
-{249}{}{Conseguiré algo más, entonces.}
-{250}{}{Entonces no importa. Estaba buscando más información...}
+{247}{}{No, esos brebajes del Yermo que por ahÃ­ llaman alcohol son ilegales aquÃ­, en Ciudad Refugio. Y no quiero ni saber cÃ³mo los preparan. Y ahora, Â¿querÃ­as algo de beber, capitÃ¡n...?}
+{248}{}{No hay nada malo en un poco de alcohol de verdad de vez en cuando. Desde luego, tu percepciÃ³n sufre, pero lo puedes hacer cuando tienes demasiado polvo curativo.}
+{249}{}{ConseguirÃ© algo mÃ¡s, entonces.}
+{250}{}{Entonces no importa. Estaba buscando mÃ¡s informaciÃ³n...}
 {251}{}{Ya veo. Gracias de todos modos.}
-{252}{}{Yo no sé nada de eso. Aquí sólo sirvo alcohol sintético. Si ha metido alcohol auténtico en Ciudad Refugio, no sé nada al respecto.}
-{253}{}{Entonces no importa. Estaba buscando algo de información...}
+{252}{}{Yo no sÃ© nada de eso. AquÃ­ sÃ³lo sirvo alcohol sintÃ©tico. Si ha metido alcohol autÃ©ntico en Ciudad Refugio, no sÃ© nada al respecto.}
+{253}{}{Entonces no importa. Estaba buscando algo de informaciÃ³n...}
 {254}{}{Ya veo. Gracias de todos modos.}
-{255}{}{Ya... veo. Bien, eh, ten cuidado ahora. ¿De acuerdo?}
+{255}{}{Ya... veo. Bien, eh, ten cuidado ahora. Â¿De acuerdo?}
 {256}{}{Gracita estrellita mi botellita}
 {257}{}{Dejas de balbucear}
 {258}{}{Zzzzzzzz.}

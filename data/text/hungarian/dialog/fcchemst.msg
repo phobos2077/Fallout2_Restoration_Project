@@ -1,75 +1,75 @@
-{100}{}{Ez itt egy savanyú kép? Shi férfi.}
+{100}{}{Ez itt egy savanyÃº kÃ©p? Shi fÃ©rfi.}
 {101}{}{You see Dr. Jing Tie Gahng.}
-{102}{}{Egy fehér köpenyes Shi férfihez van szerencséd.}
+{102}{}{Egy fehÃ©r kÃ¶penyes Shi fÃ©rfihez van szerencsÃ©d.}
 {103}{}{Maga kicsoda? Mit akar itt?}
 {104}{}{Mi?}
 {105}{}{MAGA kicsoda?}
-{106}{}{Én}
-{107}{}{Semmi közöd hozzá.}
-{108}{}{Semmit. Itthagyom magát.}
-{109}{}{Ha elmebeteg, akkor nem idevaló. Menjen innen, miel?tt hívom az ?rséget!}
-{110}{}{Úgy látszik, maga tényleg nem ért a szóból! Talán majd az ?rség jobb észre téríti. ?rség! Behatoló!}
+{106}{}{Ã‰n}
+{107}{}{Semmi kÃ¶zÃ¶d hozzÃ¡.}
+{108}{}{Semmit. Itthagyom magÃ¡t.}
+{109}{}{Ha elmebeteg, akkor nem idevalÃ³. Menjen innen, miel?tt hÃ­vom az ?rsÃ©get!}
+{110}{}{Ãšgy lÃ¡tszik, maga tÃ©nyleg nem Ã©rt a szÃ³bÃ³l! TalÃ¡n majd az ?rsÃ©g jobb Ã©szre tÃ©rÃ­ti. ?rsÃ©g! BehatolÃ³!}
 {111}{}{[DONE]}
-{112}{}{Jing Tie Gahng vagyok, az Acélpalota vegyi laboratóriumának vezet?je... maga épp egy fontos munkafolyamatot zavart meg. Kérem, távozzon! MOST AZONNAL... miel?tt hívom az ?rséget!}
-{113}{}{Hívja csak ?ket, vénember!}
-{114}{}{Jó, jó, már megyek is.}
-{115}{}{Nézze,}
-{116}{}{Igen. Azért jöttem, hogy üzemanyagot szerezzek a Poseidon Olaj Tanker számára.}
-{117}{}{Szeretném megtudni, mivel foglalkozik itt.}
-{118}{}{Azért jöttem, hogy üzemanyagot szerezzek a Hubologisták számára.}
-{119}{}{Nem adom el?. Már megyek is...}
-{120}{}{Már hogyne volna közöm hozzá! Ez itt az én laborom. Most pedig adja el?, mit keres itt!}
-{121}{}{Azért jöttem, hogy üzemanyagot szerezzek a Poseidon Olaj Tanker számára.}
-{122}{}{Szeretném megtudni, mivel foglalkozik itt.}
-{123}{}{Azért jöttem, hogy üzemanyagot szerezzek a Hubologisták számára.}
-{124}{}{Nem adom el?. Már megyek is...}
+{112}{}{Jing Tie Gahng vagyok, az AcÃ©lpalota vegyi laboratÃ³riumÃ¡nak vezet?je... maga Ã©pp egy fontos munkafolyamatot zavart meg. KÃ©rem, tÃ¡vozzon! MOST AZONNAL... miel?tt hÃ­vom az ?rsÃ©get!}
+{113}{}{HÃ­vja csak ?ket, vÃ©nember!}
+{114}{}{JÃ³, jÃ³, mÃ¡r megyek is.}
+{115}{}{NÃ©zze,}
+{116}{}{Igen. AzÃ©rt jÃ¶ttem, hogy Ã¼zemanyagot szerezzek a Poseidon Olaj Tanker szÃ¡mÃ¡ra.}
+{117}{}{SzeretnÃ©m megtudni, mivel foglalkozik itt.}
+{118}{}{AzÃ©rt jÃ¶ttem, hogy Ã¼zemanyagot szerezzek a HubologistÃ¡k szÃ¡mÃ¡ra.}
+{119}{}{Nem adom el?. MÃ¡r megyek is...}
+{120}{}{MÃ¡r hogyne volna kÃ¶zÃ¶m hozzÃ¡! Ez itt az Ã©n laborom. Most pedig adja el?, mit keres itt!}
+{121}{}{AzÃ©rt jÃ¶ttem, hogy Ã¼zemanyagot szerezzek a Poseidon Olaj Tanker szÃ¡mÃ¡ra.}
+{122}{}{SzeretnÃ©m megtudni, mivel foglalkozik itt.}
+{123}{}{AzÃ©rt jÃ¶ttem, hogy Ã¼zemanyagot szerezzek a HubologistÃ¡k szÃ¡mÃ¡ra.}
+{124}{}{Nem adom el?. MÃ¡r megyek is...}
 {125}{}{You want fuel for the tanker? I want hardened power armor. I understand a Hubologist, one called Crockett, has a process whereby a regular suit of power armor can be upgraded. Get me such a suit and I will divert the fuel for you.}
-{126}{}{Úgy lesz.}
-{127}{}{Nem ígérhetek semmit.}
-{128}{}{Épp itt van nálam egy.}
-{129}{}{M?anyagokat és berendezéseket gyártok az Uralkodónak és az Uralkodó tanácsadójának, Ken Leenek. Jelen pillanatban olyan üzemanyag származékokon és polimereken dolgozom, amelyek egy komoly támadást is elviselnek. Persze nyilván ez nem nagyon érdekli magát, hiszen egyel?re csak elméletben léteznek.}
-{130}{}{Az a helyzet, hogy érdekel a dolog. Üzemanyagot szeretnék a Poseidon Olaj Tankerbe.}
-{131}{}{Le merném fogadni, hogy a Hubologistákat érdekelné. Üzemanyagra fáj a foguk.}
-{132}{}{Egyel?re valóban nem. Kés?bb viszont lehet. Majd még jövök!}
+{126}{}{Ãšgy lesz.}
+{127}{}{Nem Ã­gÃ©rhetek semmit.}
+{128}{}{Ã‰pp itt van nÃ¡lam egy.}
+{129}{}{M?anyagokat Ã©s berendezÃ©seket gyÃ¡rtok az UralkodÃ³nak Ã©s az UralkodÃ³ tanÃ¡csadÃ³jÃ¡nak, Ken Leenek. Jelen pillanatban olyan Ã¼zemanyag szÃ¡rmazÃ©kokon Ã©s polimereken dolgozom, amelyek egy komoly tÃ¡madÃ¡st is elviselnek. Persze nyilvÃ¡n ez nem nagyon Ã©rdekli magÃ¡t, hiszen egyel?re csak elmÃ©letben lÃ©teznek.}
+{130}{}{Az a helyzet, hogy Ã©rdekel a dolog. Ãœzemanyagot szeretnÃ©k a Poseidon Olaj Tankerbe.}
+{131}{}{Le mernÃ©m fogadni, hogy a HubologistÃ¡kat Ã©rdekelnÃ©. Ãœzemanyagra fÃ¡j a foguk.}
+{132}{}{Egyel?re valÃ³ban nem. KÃ©s?bb viszont lehet. Majd mÃ©g jÃ¶vÃ¶k!}
 {133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
-{134}{}{Úgy lesz.}
-{135}{}{Nem ígérhetek semmit.}
-{136}{}{Épp itt van nálam egy.}
-{137}{}{Még ha akarnék is segíteni, nem tudok. Az üzemanyag tartalékaink kimerültek. Talán a Hubologistáknál kéne érdekl?dnie. Viszlátásra.}
-{138}{}{Aha, hát akkor ennyi lenne.}
-{139}{}{Ez a lehetetlen határát súrolja. Az üzemanyag tartalékaink kimerültek. Még ha akarnék is segíteni a Hubologistáknak - ami távol áll t?lem -, nem tehetnék semmit. Viszlátásra.}
-{140}{}{Oké. Viszlát!}
-{141}{}{Jó. Akkor hadd tegyem a dolgomat.}
+{134}{}{Ãšgy lesz.}
+{135}{}{Nem Ã­gÃ©rhetek semmit.}
+{136}{}{Ã‰pp itt van nÃ¡lam egy.}
+{137}{}{MÃ©g ha akarnÃ©k is segÃ­teni, nem tudok. Az Ã¼zemanyag tartalÃ©kaink kimerÃ¼ltek. TalÃ¡n a HubologistÃ¡knÃ¡l kÃ©ne Ã©rdekl?dnie. ViszlÃ¡tÃ¡sra.}
+{138}{}{Aha, hÃ¡t akkor ennyi lenne.}
+{139}{}{Ez a lehetetlen hatÃ¡rÃ¡t sÃºrolja. Az Ã¼zemanyag tartalÃ©kaink kimerÃ¼ltek. MÃ©g ha akarnÃ©k is segÃ­teni a HubologistÃ¡knak - ami tÃ¡vol Ã¡ll t?lem -, nem tehetnÃ©k semmit. ViszlÃ¡tÃ¡sra.}
+{140}{}{OkÃ©. ViszlÃ¡t!}
+{141}{}{JÃ³. Akkor hadd tegyem a dolgomat.}
 {142}{}{[DONE]}
-{143}{}{Nem tudja megcsinálni? Akkor mondjon le az üzemanyagtól is! Távozzék, most dolgom van!}
+{143}{}{Nem tudja megcsinÃ¡lni? Akkor mondjon le az Ã¼zemanyagtÃ³l is! TÃ¡vozzÃ©k, most dolgom van!}
 {144}{}{[DONE]}
-{145}{}{Van magánál egy meger?sített er?páncél? Kiváló! Milyen fizetségre gondolt?}
-{146}{}{Ezért cserébe, kérem, irányítsa át az üzemanyagot a Hubologisták számára!}
-{147}{}{Irányítsa át az üzemanyagot a Hubologisták számára!}
-{148}{}{Mit szólna egy kis pénzhez? Mondjuk }
-{149}{}{Úgy döntöttem, hogy inkább megtartom.}
-{150}{}{Vegye elintézettnek! Rövidesen megcsinálom a változtatásokat. Most pedig, ha megbocsát, vár a munka...}
-{151}{}{Kösz. Viszlát!}
-{152}{}{Ilyen sokat? Ah! Hát egy ilyen fejlett páncél tanulmányozásáért... jól van. Itt a pénze.}
-{153}{}{Köszönöm. Viszlát!}
-{154}{}{Meg akarja tartani? Helyes. Ha meggondolta magát, csak szóljon!}
-{155}{}{Felkeresem. Viszlát!}
-{156}{}{Aligha. Viszlát!}
-{157}{}{?rség! ?rség! Visszajött a kívülálló! Megölni!}
+{145}{}{Van magÃ¡nÃ¡l egy meger?sÃ­tett er?pÃ¡ncÃ©l? KivÃ¡lÃ³! Milyen fizetsÃ©gre gondolt?}
+{146}{}{EzÃ©rt cserÃ©be, kÃ©rem, irÃ¡nyÃ­tsa Ã¡t az Ã¼zemanyagot a HubologistÃ¡k szÃ¡mÃ¡ra!}
+{147}{}{IrÃ¡nyÃ­tsa Ã¡t az Ã¼zemanyagot a HubologistÃ¡k szÃ¡mÃ¡ra!}
+{148}{}{Mit szÃ³lna egy kis pÃ©nzhez? Mondjuk }
+{149}{}{Ãšgy dÃ¶ntÃ¶ttem, hogy inkÃ¡bb megtartom.}
+{150}{}{Vegye elintÃ©zettnek! RÃ¶videsen megcsinÃ¡lom a vÃ¡ltoztatÃ¡sokat. Most pedig, ha megbocsÃ¡t, vÃ¡r a munka...}
+{151}{}{KÃ¶sz. ViszlÃ¡t!}
+{152}{}{Ilyen sokat? Ah! HÃ¡t egy ilyen fejlett pÃ¡ncÃ©l tanulmÃ¡nyozÃ¡sÃ¡Ã©rt... jÃ³l van. Itt a pÃ©nze.}
+{153}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{154}{}{Meg akarja tartani? Helyes. Ha meggondolta magÃ¡t, csak szÃ³ljon!}
+{155}{}{Felkeresem. ViszlÃ¡t!}
+{156}{}{Aligha. ViszlÃ¡t!}
+{157}{}{?rsÃ©g! ?rsÃ©g! VisszajÃ¶tt a kÃ­vÃ¼lÃ¡llÃ³! MegÃ¶lni!}
 {158}{}{Have you spoken to this Hubologist who calls himself Crockett, and gotten the armor?}
-{159}{}{Nem, még nem.}
-{160}{}{Akkor miért zaklat folyton feleslegesen?}
-{161}{}{Azért, mert kérdezni akarok egy s mást.}
-{162}{}{Fogalmam sincs. Viszlát!}
-{163}{}{Ne tegye próbára a türelmemet!}
+{159}{}{Nem, mÃ©g nem.}
+{160}{}{Akkor miÃ©rt zaklat folyton feleslegesen?}
+{161}{}{AzÃ©rt, mert kÃ©rdezni akarok egy s mÃ¡st.}
+{162}{}{Fogalmam sincs. ViszlÃ¡t!}
+{163}{}{Ne tegye prÃ³bÃ¡ra a tÃ¼relmemet!}
 {164}{}{Mit akarsz?}
-{165}{}{Mi a munkád?}
-{166}{}{Azért jöttem, hogy üzemanyagot szerezzek a Poseidon Olaj Tankerbe.}
-{167}{}{Azért jöttem, hogy üzemanyagot szerezzek a Hubologisták számára.}
-{168}{}{Semmit. Elnézést.}
-{169}{}{Teljesen kifogytunk az üzemanyagból. Másban nem tudok segíteni. Ez a páncél túlságosan leköt. Viszlát!}
-{170}{}{Viszlát!}
-{171}{}{. Csak körülnézek itt.}
-{172}{}{, meg kell kérdeznem, van-e itt valami dolga.}
-{173}{}{ dollár megfelel? lenne.}
-{174}{}{Annyi van, amennyi szükséges. Beszéljen Wonggal, ha elengedhetetlen!}
+{165}{}{Mi a munkÃ¡d?}
+{166}{}{AzÃ©rt jÃ¶ttem, hogy Ã¼zemanyagot szerezzek a Poseidon Olaj Tankerbe.}
+{167}{}{AzÃ©rt jÃ¶ttem, hogy Ã¼zemanyagot szerezzek a HubologistÃ¡k szÃ¡mÃ¡ra.}
+{168}{}{Semmit. ElnÃ©zÃ©st.}
+{169}{}{Teljesen kifogytunk az Ã¼zemanyagbÃ³l. MÃ¡sban nem tudok segÃ­teni. Ez a pÃ¡ncÃ©l tÃºlsÃ¡gosan lekÃ¶t. ViszlÃ¡t!}
+{170}{}{ViszlÃ¡t!}
+{171}{}{. Csak kÃ¶rÃ¼lnÃ©zek itt.}
+{172}{}{, meg kell kÃ©rdeznem, van-e itt valami dolga.}
+{173}{}{ dollÃ¡r megfelel? lenne.}
+{174}{}{Annyi van, amennyi szÃ¼ksÃ©ges. BeszÃ©ljen Wonggal, ha elengedhetetlen!}

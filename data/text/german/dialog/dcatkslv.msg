@@ -1,38 +1,38 @@
 {100}{}{Dieser Mann sieht ziemlich stark und wachsam aus.}
-{101}{}{Sie scheint kräftig zu sein, trotz ihrer Größe.}
-{200}{}{Er sieht furchtbar dünn und ärgerlich aus.}
-{201}{}{Dieser sieht ziemlich kräftig aus. }
+{101}{}{Sie scheint krÃ¤ftig zu sein, trotz ihrer GrÃ¶ÃŸe.}
+{200}{}{Er sieht furchtbar dÃ¼nn und Ã¤rgerlich aus.}
+{201}{}{Dieser sieht ziemlich krÃ¤ftig aus. }
 {202}{}{Seine Bewegungen deuten auf Schnelligkeit hin.}
-{210}{}{Sie sieht aus, als hätte sie noch nie gebadet.}
-{211}{}{Sie sieht wie eine starke Kämpferin aus.}
-{212}{}{Der hier sieht aus, als machte er nicht viel Ärger.}
+{210}{}{Sie sieht aus, als hÃ¤tte sie noch nie gebadet.}
+{211}{}{Sie sieht wie eine starke KÃ¤mpferin aus.}
+{212}{}{Der hier sieht aus, als machte er nicht viel Ã„rger.}
 {245}{}{Leise! Sie nah.}
-{246}{}{Töten schlechte Männer.}
+{246}{}{TÃ¶ten schlechte MÃ¤nner.}
 {247}{}{Nicht nehmen Familie von mir.}
-{248}{}{Ich beschützen Familie.}
-{249}{}{Dürfen uns nicht finden.}
+{248}{}{Ich beschÃ¼tzen Familie.}
+{249}{}{DÃ¼rfen uns nicht finden.}
 {250}{}{Sie schlechte Leute.}
-{260}{}{Die Sklavenhändler kommen. Alle ruhig.}
+{260}{}{Die SklavenhÃ¤ndler kommen. Alle ruhig.}
 {261}{}{Mach dich fertig. Jetzt sind sie ganz nah.}
 {262}{}{Ohne Kampf ergeb ich mich nicht.}
 {263}{}{Sie werden uns niemals versklaven.}
-{264}{}{Diese Sklavenhändler werden dafür zahlen.}
-{265}{}{Kein Sklavenhändler wird meine Familie kriegen.}
+{264}{}{Diese SklavenhÃ¤ndler werden dafÃ¼r zahlen.}
+{265}{}{Kein SklavenhÃ¤ndler wird meine Familie kriegen.}
 {300}{}{Du sterben!}
-{301}{}{Ich töten!}
+{301}{}{Ich tÃ¶ten!}
 {302}{}{Du nicht weh tun Familie!}
 {303}{}{Du nicht nehmen Familie!}
-{304}{}{Ich beschützen!}
+{304}{}{Ich beschÃ¼tzen!}
 {305}{}{Ich dich verletzen!}
 {306}{}{Du zahlen!}
 {307}{}{Stirb!}
 {308}{}{Ich werde dir weh tun.}
-{350}{}{Du wirst meine Familie nicht kriegen, Sklavenhändler!}
+{350}{}{Du wirst meine Familie nicht kriegen, SklavenhÃ¤ndler!}
 {351}{}{Stirb, Sklavenschwein!}
-{352}{}{Dafür wirst du bezahlen, Bastard!}
-{353}{}{Für meine Familie kämpfe ich bis zum Tod.}
+{352}{}{DafÃ¼r wirst du bezahlen, Bastard!}
+{353}{}{FÃ¼r meine Familie kÃ¤mpfe ich bis zum Tod.}
 {354}{}{Damit kommst du nicht durch!}
 {355}{}{Du wirst hier nicht mit meinen Freunden weggehen.}
-{356}{}{Dafür krieg ich dich.}
-{357}{}{Verdammte Sklavenhändler!}
-{358}{}{Dafür werdet ihr bezahlen!}
+{356}{}{DafÃ¼r krieg ich dich.}
+{357}{}{Verdammte SklavenhÃ¤ndler!}
+{358}{}{DafÃ¼r werdet ihr bezahlen!}

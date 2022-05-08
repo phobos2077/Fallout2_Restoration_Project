@@ -1,67 +1,67 @@
-{100}{}{Widzisz farmera w ³achmanach.}
+{100}{}{Widzisz farmera w Å‚achmanach.}
 {101}{}{Widzisz Smitha.}
-{102}{}{Chyba wczeœniej ciê tu nie widzia³em. Jestem Smith. Mogê ci w czymœ pomóc?}
-{103}{}{Chcesz jeszcze czegoœ?}
+{102}{}{Chyba wczeÅ›niej ciÄ™ tu nie widziaÅ‚em. Jestem Smith. MogÄ™ ci w czymÅ› pomÃ³c?}
+{103}{}{Chcesz jeszcze czegoÅ›?}
 {104}{}{Opowiedz mi o Kryptopolis?}
-{105}{}{Czym siê zajmujesz?}
+{105}{}{Czym siÄ™ zajmujesz?}
 {106}{}{Szukam Krypty.}
-{107}{}{Pomogê ci z tym p³ugiem.}
-{108}{}{Twoja ¿ona mówi, ¿e sprawy nie uk³adaj¹ siê najlepiej.}
+{107}{}{PomogÄ™ ci z tym pÅ‚ugiem.}
+{108}{}{Twoja Å¼ona mÃ³wi, Å¼e sprawy nie ukÅ‚adajÄ… siÄ™ najlepiej.}
 {109}{}{Nie. Na razie.}
 {110}{}{Um... Waga Nu-kik?}
 {111}{}{Dobra, to co tu widzisz to nie jest prawdziwe Kryptopolis... stoisz na obszarze Podmurza.}
-{112}{}{Dlaczego nie ¿yjesz wewn¹trz miasta?}
-{113}{}{Czym siê tutaj zajmujesz?}
-{114}{}{Mogê zapytaæ ciê o coœ innego?}
-{115}{}{Dziêki. Do zobaczenia.}
-{116}{}{Razem z rodzin¹ pracujemy na farmie tutaj, na Podmurzu. Jakoœ przêdziemy. Nie wiem, jak d³ugo jeszcze.}
-{117}{}{Na czym polega k³opot?}
-{118}{}{Dlaczego nie ¿yjesz wewn¹trz miasta?}
-{119}{}{Mogê zapytaæ ciê o coœ innego?}
-{120}{}{Taaa, przysz³y ciê¿kie czasy. Trzymaj siê.}
-{121}{}{Prawda, nêdza woko³o. Muszê ju¿ iœæ.}
-{122}{}{Mówisz o Krypcie wewn¹trz miasta? Widzia³em tylko jedn¹... wewn¹trz, za brama... Myœlê, ¿e to o ni¹ ci chodzi. Musisz jednak wiedzieæ, ¿e tylko obywatele mog¹ tam wchodziæ.}
-{123}{}{Mogê zapytaæ ciê o coœ innego?}
-{124}{}{Dziêki za wskazówki. Powodzenia.}
-{125}{}{Ja i moja rodzina - nie takich ludzi tam wpuszczaj¹. Wiêc ¿yjemy tu, pod ich ochron¹.}
-{126}{}{Dlaczego nie pozwalaj¹ wam ¿yæ w mieœcie?}
-{127}{}{Ochron¹? Co masz dok³adnie na myœli? }
-{128}{}{Mogê zapytaæ ciê o coœ innego?}
-{129}{}{Taa. Dziêki za poœwiêcony czas. Powodzenia.}
-{130}{}{Nie do ¿ycia. ¯y³y sobie mo¿na wypruæ bez p³ugu. Próbujemy z ¿on¹ jakoœ sobie radziæ, ale bez p³ugu przyjdzie nam zdechn¹æ.}
-{131}{}{Mogê pomóc?}
-{132}{}{Mogê zapytaæ ciê o coœ innego?}
-{133}{}{Taa, przykro mi to s³yszeæ. Na razie.}
+{112}{}{Dlaczego nie Å¼yjesz wewnÄ…trz miasta?}
+{113}{}{Czym siÄ™ tutaj zajmujesz?}
+{114}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{115}{}{DziÄ™ki. Do zobaczenia.}
+{116}{}{Razem z rodzinÄ… pracujemy na farmie tutaj, na Podmurzu. JakoÅ› przÄ™dziemy. Nie wiem, jak dÅ‚ugo jeszcze.}
+{117}{}{Na czym polega kÅ‚opot?}
+{118}{}{Dlaczego nie Å¼yjesz wewnÄ…trz miasta?}
+{119}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{120}{}{Taaa, przyszÅ‚y ciÄ™Å¼kie czasy. Trzymaj siÄ™.}
+{121}{}{Prawda, nÄ™dza wokoÅ‚o. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{122}{}{MÃ³wisz o Krypcie wewnÄ…trz miasta? WidziaÅ‚em tylko jednÄ…... wewnÄ…trz, za brama... MyÅ›lÄ™, Å¼e to o niÄ… ci chodzi. Musisz jednak wiedzieÄ‡, Å¼e tylko obywatele mogÄ… tam wchodziÄ‡.}
+{123}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{124}{}{DziÄ™ki za wskazÃ³wki. Powodzenia.}
+{125}{}{Ja i moja rodzina - nie takich ludzi tam wpuszczajÄ…. WiÄ™c Å¼yjemy tu, pod ich ochronÄ….}
+{126}{}{Dlaczego nie pozwalajÄ… wam Å¼yÄ‡ w mieÅ›cie?}
+{127}{}{OchronÄ…? Co masz dokÅ‚adnie na myÅ›li? }
+{128}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{129}{}{Taa. DziÄ™ki za poÅ›wiÄ™cony czas. Powodzenia.}
+{130}{}{Nie do Å¼ycia. Å»yÅ‚y sobie moÅ¼na wypruÄ‡ bez pÅ‚ugu. PrÃ³bujemy z Å¼onÄ… jakoÅ› sobie radziÄ‡, ale bez pÅ‚ugu przyjdzie nam zdechnÄ…Ä‡.}
+{131}{}{MogÄ™ pomÃ³c?}
+{132}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{133}{}{Taa, przykro mi to sÅ‚yszeÄ‡. Na razie.}
 {134}{}{Jasne.}
-{135}{}{Hmm, jesteœmy z pustkowi... jak ty. Wszystko na co mo¿emy liczyæ, to ochrona Kryptopolis.}
+{135}{}{Hmm, jesteÅ›my z pustkowi... jak ty. Wszystko na co moÅ¼emy liczyÄ‡, to ochrona Kryptopolis.}
 {136}{}{Jaki rodzaj ochrony?}
-{137}{}{Mogê zapytaæ ciê o coœ innego?}
-{138}{}{Dziêki. Do zobaczenia.}
-{139}{}{Trzymaj¹ nas z dala od dzikusów z zewn¹trz, ale to trochê kosztuje. A bez p³ugu... rozumiesz, nie ma jak zwi¹zaæ koniec z koñcem.}
-{140}{}{Mogê jakoœ pomóc z tym p³ugiem?}
-{141}{}{Mogê zapytaæ ciê o coœ innego?}
-{142}{}{Taa, przykro mi to s³yszeæ. Na razie.}
-{143}{}{Nie rozmawiamy z ludŸmi twojego pokroju.}
-{144}{}{Mary, trzymaj siê od tego z daleka.}
-{145}{}{Pomagasz ludziom takim jak my? Nie mo¿emy wiele zaoferowaæ, ale gwarantujemy ci nasz¹ dozgonn¹ wdziêcznoœæ.}
-{146}{}{Hola! Jeœli nie mo¿esz zap³aciæ, to ja nie mogê ci pomóc.}
-{147}{}{Nie ma problemu. Lubiê pomagaæ.}
-{148}{}{Mogê zapytaæ ciê o coœ innego?}
-{149}{}{Bêdê musia³ o tym pomyœleæ. Na razie.}
-{150}{}{Dobrze. Zaoszczêdziliœmy oko³o sto piêtnaœcie dolców. Jeœli móg³byœ pomóc... Ale nie bêdziemy zdolni uregulowaæ naszej nastêpnej p³atnoœci jeœli nie zdobêdziemy p³ugu do nastêpnego tygodnia.}
-{151}{}{Wezmê pieni¹dze.}
-{152}{}{Nie martw siê o pieni¹dze. Pomogê ci tak czy inaczej.}
-{153}{}{Nie wydaje mi siê... Nie mogê ci pomóc. Na razie.}
-{154}{}{Du¿e dziêki uprzejmy przybyszu, nigdy ci tego nie zapomnimy.}
-{155}{}{Nie wiesz gdzie mo¿na znaleŸæ taki p³ug?}
-{156}{}{Jest jeden blisko sklepu z broni¹. Harry móg³by go sprzedaæ.}
-{157}{}{W porz¹dku, poszukam go.}
-{158}{}{Uda³o ci siê znaleŸæ p³ug?}
+{137}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{138}{}{DziÄ™ki. Do zobaczenia.}
+{139}{}{TrzymajÄ… nas z dala od dzikusÃ³w z zewnÄ…trz, ale to trochÄ™ kosztuje. A bez pÅ‚ugu... rozumiesz, nie ma jak zwiÄ…zaÄ‡ koniec z koÅ„cem.}
+{140}{}{MogÄ™ jakoÅ› pomÃ³c z tym pÅ‚ugiem?}
+{141}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{142}{}{Taa, przykro mi to sÅ‚yszeÄ‡. Na razie.}
+{143}{}{Nie rozmawiamy z ludÅºmi twojego pokroju.}
+{144}{}{Mary, trzymaj siÄ™ od tego z daleka.}
+{145}{}{Pomagasz ludziom takim jak my? Nie moÅ¼emy wiele zaoferowaÄ‡, ale gwarantujemy ci naszÄ… dozgonnÄ… wdziÄ™cznoÅ›Ä‡.}
+{146}{}{Hola! JeÅ›li nie moÅ¼esz zapÅ‚aciÄ‡, to ja nie mogÄ™ ci pomÃ³c.}
+{147}{}{Nie ma problemu. LubiÄ™ pomagaÄ‡.}
+{148}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{149}{}{BÄ™dÄ™ musiaÅ‚ o tym pomyÅ›leÄ‡. Na razie.}
+{150}{}{Dobrze. ZaoszczÄ™dziliÅ›my okoÅ‚o sto piÄ™tnaÅ›cie dolcÃ³w. JeÅ›li mÃ³gÅ‚byÅ› pomÃ³c... Ale nie bÄ™dziemy zdolni uregulowaÄ‡ naszej nastÄ™pnej pÅ‚atnoÅ›ci jeÅ›li nie zdobÄ™dziemy pÅ‚ugu do nastÄ™pnego tygodnia.}
+{151}{}{WezmÄ™ pieniÄ…dze.}
+{152}{}{Nie martw siÄ™ o pieniÄ…dze. PomogÄ™ ci tak czy inaczej.}
+{153}{}{Nie wydaje mi siÄ™... Nie mogÄ™ ci pomÃ³c. Na razie.}
+{154}{}{DuÅ¼e dziÄ™ki uprzejmy przybyszu, nigdy ci tego nie zapomnimy.}
+{155}{}{Nie wiesz gdzie moÅ¼na znaleÅºÄ‡ taki pÅ‚ug?}
+{156}{}{Jest jeden blisko sklepu z broniÄ…. Harry mÃ³gÅ‚by go sprzedaÄ‡.}
+{157}{}{W porzÄ…dku, poszukam go.}
+{158}{}{UdaÅ‚o ci siÄ™ znaleÅºÄ‡ pÅ‚ug?}
 {159}{}{Nie, jeszcze nie.}
-{160}{}{Nie wydaje mi siê, ¿eby by³ tu jakiœ mo¿liwy do zdobycia.}
-{161}{}{Hmm. Jeszcze trochê mo¿emy bez niego popracowaæ. Ale nie d³ugo.}
-{162}{}{Mój ojciec kaza³ mi siê trzymaæ z daleka od takich ludzi jak ty... Wynoœ siê. Won!}
-{163}{}{Jesteœ bardzo uprzejmy. Dziêki. Tu jest coœ, co da³ mi ojciec zanim zmar³. Teraz chroni¹ nas stra¿nicy wiêc tego nie potrzebujemy... ale tobie mo¿e siê przydaæ. Mo¿e dziêki temu uda ci siê zrobiæ jeszcze coœ dobrego.}
-{164}{}{Du¿e dziêki. Z pewnoœci¹ bardzo mi siê przyda. Uwa¿aj na siebie.}
-{165}{}{Dziêkujemy za pomoc przybyszu. Dziêkujemy bardzo.}
-{166}{}{Znalaz³eœ p³ug dla pana Smith i jego rodziny.}
+{160}{}{Nie wydaje mi siÄ™, Å¼eby byÅ‚ tu jakiÅ› moÅ¼liwy do zdobycia.}
+{161}{}{Hmm. Jeszcze trochÄ™ moÅ¼emy bez niego popracowaÄ‡. Ale nie dÅ‚ugo.}
+{162}{}{MÃ³j ojciec kazaÅ‚ mi siÄ™ trzymaÄ‡ z daleka od takich ludzi jak ty... WynoÅ› siÄ™. Won!}
+{163}{}{JesteÅ› bardzo uprzejmy. DziÄ™ki. Tu jest coÅ›, co daÅ‚ mi ojciec zanim zmarÅ‚. Teraz chroniÄ… nas straÅ¼nicy wiÄ™c tego nie potrzebujemy... ale tobie moÅ¼e siÄ™ przydaÄ‡. MoÅ¼e dziÄ™ki temu uda ci siÄ™ zrobiÄ‡ jeszcze coÅ› dobrego.}
+{164}{}{DuÅ¼e dziÄ™ki. Z pewnoÅ›ciÄ… bardzo mi siÄ™ przyda. UwaÅ¼aj na siebie.}
+{165}{}{DziÄ™kujemy za pomoc przybyszu. DziÄ™kujemy bardzo.}
+{166}{}{ZnalazÅ‚eÅ› pÅ‚ug dla pana Smith i jego rodziny.}

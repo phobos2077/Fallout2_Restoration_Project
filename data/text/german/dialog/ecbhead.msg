@@ -1,37 +1,37 @@
-{100}{}{Du siehst ein großes Steinmonument, das scheinbar...vor sich hinmurmelt.}
-{101}{}{Du siehst ein Steinmonument. Es ist der Kopf des Vaultbewohners. Eine ziemlich schmeichelhafte Ähnlichkeit, obwohl du bezweifelst, dass der Kopf des Vaultbewohners tatsächlich so groß war.}
-{102}{}{Du siehst ein großes Steinmonument.}
-{103}{}{Du siehst ein Steinmonument. Es ist der Kopf des Vaultbewohners. Eine ziemlich schmeichelhafte Ähnlichkeit, obwohl du bezweifelst, dass der Kopf des Vaultbewohners tatsächlich so groß war.}
+{100}{}{Du siehst ein groÃŸes Steinmonument, das scheinbar...vor sich hinmurmelt.}
+{101}{}{Du siehst ein Steinmonument. Es ist der Kopf des Vaultbewohners. Eine ziemlich schmeichelhafte Ã„hnlichkeit, obwohl du bezweifelst, dass der Kopf des Vaultbewohners tatsÃ¤chlich so groÃŸ war.}
+{102}{}{Du siehst ein groÃŸes Steinmonument.}
+{103}{}{Du siehst ein Steinmonument. Es ist der Kopf des Vaultbewohners. Eine ziemlich schmeichelhafte Ã„hnlichkeit, obwohl du bezweifelst, dass der Kopf des Vaultbewohners tatsÃ¤chlich so groÃŸ war.}
 {104}{}{Verdammte Touristen...}
-{105}{}{"Ich bin das Auserwählte Wesen". Was'n Scheiss.}
-{106}{}{Wenn ich du wär, "Auserwähltes Wesen", würd ich hier lieber verschwinden.}
+{105}{}{"Ich bin das AuserwÃ¤hlte Wesen". Was'n Scheiss.}
+{106}{}{Wenn ich du wÃ¤r, "AuserwÃ¤hltes Wesen", wÃ¼rd ich hier lieber verschwinden.}
 {107}{}{Zzzzzz Snzzzzz Zzzzzzzzzz}
 {108}{}{ZZZZZZZzzzzzzzz}
 {109}{}{Zsnzzz...*schnaub*...zzzzsZZZZZ}
 {110}{}{Zzssnnnnnzzzzz}
 {111}{}{ZZZZzzzzzZZZZZ}
-{112}{}{Wenn ich nur sehen könnt, was da hinter mir ist.}
-{113}{}{Wenn nur einer käme und den Rest von mir ausgraben würde...}
+{112}{}{Wenn ich nur sehen kÃ¶nnt, was da hinter mir ist.}
+{113}{}{Wenn nur einer kÃ¤me und den Rest von mir ausgraben wÃ¼rde...}
 {114}{}{Ich bin sicher, diese steinefressenden Ameisen werden jeden Moment da sein und mich fressen.}
-{115}{}{"Ein großer Steinkopf sein! Die Welt sehn!" Was für ein Mist.}
-{116}{}{Es ist mir schleierhaft, wie ich hier in der Wüste gelandet bin.}
-{117}{}{Ich weiß immer noch nicht, wieso ich hier in der Wüste stehn muss während dieser andere Kopf im Dorf rumsteht.}
-{118}{}{Ich mein, er wird verehrt und gesäubert und angebetet...und ich muss den ganzen Tag auf Sand starren.}
+{115}{}{"Ein groÃŸer Steinkopf sein! Die Welt sehn!" Was fÃ¼r ein Mist.}
+{116}{}{Es ist mir schleierhaft, wie ich hier in der WÃ¼ste gelandet bin.}
+{117}{}{Ich weiÃŸ immer noch nicht, wieso ich hier in der WÃ¼ste stehn muss wÃ¤hrend dieser andere Kopf im Dorf rumsteht.}
+{118}{}{Ich mein, er wird verehrt und gesÃ¤ubert und angebetet...und ich muss den ganzen Tag auf Sand starren.}
 {119}{}{Die Jungs auf der Osterinsel haben's echt gut.}
 {120}{}{Stonehenge hat bestimmt viel mehr Besucher als ich.}
 {121}{}{Hrnnfff...uh-uh, Mama...heut ist keine Schule...Zsnzzzzz}
 {122}{}{Zzzsnnnzzzz...Ich will noch nich' aufstehn....Zzznnsss}
-{123}{}{Zzsssccs...äh?}
+{123}{}{Zzsssccs...Ã¤h?}
 {124}{}{Wa--?}
 {125}{}{NIMM DEINE PFOTEN WEG!}
-{126}{}{Der Spieler sollte sich umdrehen, ein paar Schritte zurückgehen, sich dann erneut umdrehen und das Monument ansehen.}
-{127}{}{*Ähem*}
-{128}{}{WER WAGT ES, SICH DEM HEILIGEN KOPF DES VAULTBEWOHNERS ZU NÄHERN?!}
-{129}{}{Ich, das Auserwählte Wesen.}
+{126}{}{Der Spieler sollte sich umdrehen, ein paar Schritte zurÃ¼ckgehen, sich dann erneut umdrehen und das Monument ansehen.}
+{127}{}{*Ã„hem*}
+{128}{}{WER WAGT ES, SICH DEM HEILIGEN KOPF DES VAULTBEWOHNERS ZU NÃ„HERN?!}
+{129}{}{Ich, das AuserwÃ¤hlte Wesen.}
 {130}{}{HA HA HA HA HA HA!}
-{131}{}{*DU*?! DAS AUSERWÄHLTE WESEN?!}
-{132}{}{DU BIST JA NICHT GRÖSSER ALS MEIN FINGER!}
-{133}{}{DU BIST *NICHT* DAS AUSERWÄHLTE WESEN.}
+{131}{}{*DU*?! DAS AUSERWÃ„HLTE WESEN?!}
+{132}{}{DU BIST JA NICHT GRÃ–SSER ALS MEIN FINGER!}
+{133}{}{DU BIST *NICHT* DAS AUSERWÃ„HLTE WESEN.}
 {134}{}{Doch, bin ich.}
 {135}{}{NEIN, BIST DU NICHT.}
 {136}{}{Doch, bin ich.}
@@ -43,7 +43,7 @@
 {142}{}{Uh...huh...}
 {143}{}{UH...GENUG DAVON!}
 {144}{}{SEHR GUT! DU HAST DIE PROBE BESTANDEN!}
-{145}{}{DU *BIST* DAS AUSERWÄHLTE WESEN!}
+{145}{}{DU *BIST* DAS AUSERWÃ„HLTE WESEN!}
 {146}{}{NIMM DAS!}
 {147}{}{JETZT VERSCHWINDE!}
 {148}{}{He, danke!}
@@ -54,9 +54,9 @@
 {153}{}{Idiot.}
 {154}{}{WAS?! VON MIR STEHLEN, JA?!}
 {155}{}{STIRB!}
-{156}{}{Spieler wird mit der Plasma-Todesanimation aufgelöst.}
-{200}{}{(12 Stunden später)}
-{1129}{}{Ich, das Auserwählte Wesen.}
+{156}{}{Spieler wird mit der Plasma-Todesanimation aufgelÃ¶st.}
+{200}{}{(12 Stunden spÃ¤ter)}
+{1129}{}{Ich, das AuserwÃ¤hlte Wesen.}
 {1134}{}{Doch, bin ich..}
 {1136}{}{Doch, bin ich.!}
 {1138}{}{A-ha.}

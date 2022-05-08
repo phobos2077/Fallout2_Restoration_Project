@@ -1,1 +1,1 @@
-{100}{}{Você recuperou o K-9 motivador.}
+{100}{}{VocÃª recuperou o K-9 motivador.}

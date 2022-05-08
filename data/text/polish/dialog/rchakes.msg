@@ -1,49 +1,49 @@
-{100}{}{Widzisz wysokiego mê¿czyznê z olbrzymim, bezkszta³tnym brzuchem.}
+{100}{}{Widzisz wysokiego mÄ™Å¼czyznÄ™ z olbrzymim, bezksztaÅ‚tnym brzuchem.}
 {101}{}{Widzisz Hakeswilla, pracownika kopalni Morningstar.}
-{102}{}{Widzisz mê¿czyznê z po¿ó³k³¹ skór¹, szram¹ na szyi i pokaŸnych rozmiarów brzuchem.}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ z poÅ¼Ã³Å‚kÅ‚Ä… skÃ³rÄ…, szramÄ… na szyi i pokaÅºnych rozmiarÃ³w brzuchem.}
 {103}{}{Zaraz, zaraz... Co ty robisz?}
-{104}{}{Hakeswill da ci nauczkê, oj da.}
-{105}{}{Wszyscy jesteœciê cholerne dranie.}
+{104}{}{Hakeswill da ci nauczkÄ™, oj da.}
+{105}{}{Wszyscy jesteÅ›ciÄ™ cholerne dranie.}
 {106}{}{Szanuj starszych.}
-{107}{}{Kochasz swoj¹ matkê?}
+{107}{}{Kochasz swojÄ… matkÄ™?}
 {108}{}{Spadaj, ty...}
 {109}{}{Nie ma tu dla ciebie miejsca.}
-{110}{}{Wiemy, co robiæ z takimi jak ty.}
-{111}{}{Na co siê gapisz?}
-{112}{}{Spadaj, zanim stracê cierpliwoœæ!}
-{113}{}{Kiedyœ ciê dopadnê, jak nie bêdziesz patrzeæ.}
-{114}{}{Nie zabijesz mnie. Ju¿ nie raz próbowano.}
-{115}{}{Wyjdê st¹d! Zobaczysz!}
-{116}{}{Ta suka sama siê o to prosi³a!}
-{117}{}{To, co zrobi³em tej kurwie to nic w porównaniu z tym, co zrobiê tobie!}
-{118}{}{Trzymam têpego gwoŸdzia specjalnie dla ciebie.}
-{119}{}{Jestem, kurwa, zajebiœcie niepokonany! W³aœnie tak. Dlugo mnie tu nie utrzymacie!}
-{120}{}{M¹drala, co?}
+{110}{}{Wiemy, co robiÄ‡ z takimi jak ty.}
+{111}{}{Na co siÄ™ gapisz?}
+{112}{}{Spadaj, zanim stracÄ™ cierpliwoÅ›Ä‡!}
+{113}{}{KiedyÅ› ciÄ™ dopadnÄ™, jak nie bÄ™dziesz patrzeÄ‡.}
+{114}{}{Nie zabijesz mnie. JuÅ¼ nie raz prÃ³bowano.}
+{115}{}{WyjdÄ™ stÄ…d! Zobaczysz!}
+{116}{}{Ta suka sama siÄ™ o to prosiÅ‚a!}
+{117}{}{To, co zrobiÅ‚em tej kurwie to nic w porÃ³wnaniu z tym, co zrobiÄ™ tobie!}
+{118}{}{Trzymam tÄ™pego gwoÅºdzia specjalnie dla ciebie.}
+{119}{}{Jestem, kurwa, zajebiÅ›cie niepokonany! WÅ‚aÅ›nie tak. Dlugo mnie tu nie utrzymacie!}
+{120}{}{MÄ…drala, co?}
 {121}{}{Matka Obidiaha kocha go.}
-{122}{}{Nastêpnym razem zajmê siê Lou.}
-{123}{}{Jesteœ bystrzejszy, ni¿ na to wygl¹dasz.}
-{124}{}{Cholerne kurwy, wszystkie s¹ dok³adnie takie same. Gdzie moja brzytwa?}
-{125}{}{S³yszê, ¿e ktoœ chcia³by pogadaæ ze starym Hakeswillem. Ktoœ zg³osi³ siê na ochotnika, by ukaraæ Obidiaha. To ty?}
-{126}{}{Szukam górnika, który poci¹³ jedn¹ z dziewczyn Lou. Zdaje siê, ¿e siê przyzna³eœ!}
-{127}{}{Wymierzê ci sprawiedliwoœæ samemu. Sprawiedliwoœæ kaliber 10mm...}
-{128}{}{Byæ mo¿e. Co o tym wiesz?}
-{129}{}{Ale¿ sk¹d. Nigdy bym tego nie zrobi³. Do widzenia.}
-{130}{}{Pochlasta³em tê dziwkê! Pope³ni³a du¿y b³¹d.}
-{131}{}{B³¹d?}
-{132}{}{Nie dbam o to, co ci zrobi³a. Jesteœ wariatem, a ja ciê za³atwiê.}
-{133}{}{To ty pope³ni³eœ b³¹d, pojebie! Zabieram ciê do paki, gdzie ciê os¹dz¹ i powiesz¹.}
-{134}{}{Zabierasz mnie do paki? Dobra, pójdê... Nie ma co robiæ ba³aganu. Dziwka dosta³a, na co zas³u¿y³a. Nie zabijesz mnie. Jestem niepokonany, a ty mo¿esz ju¿ zacz¹æ uwa¿aæ. Masz oczy z ty³u g³owy?}
-{135}{}{Potrafiê siê sob¹ zaj¹æ. Na razie to ja jestem tu szeryfem i zabieram ciê do paki.}
-{136}{}{Chocia¿... Mam lepszy pomys³! Czemu nie zaoszczêdziæ mieszkañcom Redding czasu oraz k³opotów i po prostu rozwaliæ ciê na miejcu?}
-{137}{}{Chyba nie bêdê na razie denerwowaæ innych górników z Morningstar. Na razie wypuszczê ciê z ostrze¿eniem. Ale jeœli zrobisz to jeszcze raz...}
-{138}{}{Dziêkujê panu. Tak proszê pana, Obidiah bêdzie uwa¿a³, panie w³adzo. Dziêkujê.}
-{139}{}{Dziêkujê pani. Tak proszê pani, Obidiah bêdzie uwa¿a³, proszê pani oficer. Dziêkujê.}
-{140}{}{Po prostu uwa¿aj. Obyœ wiêcej nie robi³ takich numerów. Do widzenia.}
-{141}{}{Naœmiewa³a siê z mojej mamusi. Nikt nie naœmiewa siê z mamusi Hakeswilla. Ona jest jedyn¹ dobr¹ osob¹ w tym ca³ym gnij¹cym œwiecie.}
-{142}{}{Niewa¿ne, dlaczego to zrobi³eœ. Pójdziesz ze mn¹. Natychmiast!}
-{143}{}{Twoja mama powinna zastosowaæ lepsze œrodki antykoncepcyjne.}
-{144}{}{Naœmiewa³a siê z twojej matki? Kurczê, nie powinna tego robiæ. Ale i tak przesadzi³eœ.}
-{145}{}{Mo¿e i tak. Ale i ja, i moi kumple z kopalni uwa¿amy, ¿e to, co zrobi³a nie by³o w porz¹dku, to by³o zupe³nie nie w porz¹dku. Ale obiecujê, ¿e ju¿ wiêcej tego nie zrobiê.}
-{146}{}{Hmmm... Powinieneœ zostaæ aresztowany za pochlastanie twarzy tej dziewczyny - ale... dopóki nie robisz tego ci¹gle... Tym razem puszczê ciê.}
-{147}{}{£awnicy raczej siê tym nie przejm¹... Idziesz ze mn¹.}
-{148}{}{Jeœli inni górnicy bêd¹ te¿ mieli jakieœ dziwne pomys³y, to zapewne wiele naucz¹ siê z bolesnego przyk³adu, jakim za chwilê siê staniesz.}
+{122}{}{NastÄ™pnym razem zajmÄ™ siÄ™ Lou.}
+{123}{}{JesteÅ› bystrzejszy, niÅ¼ na to wyglÄ…dasz.}
+{124}{}{Cholerne kurwy, wszystkie sÄ… dokÅ‚adnie takie same. Gdzie moja brzytwa?}
+{125}{}{SÅ‚yszÄ™, Å¼e ktoÅ› chciaÅ‚by pogadaÄ‡ ze starym Hakeswillem. KtoÅ› zgÅ‚osiÅ‚ siÄ™ na ochotnika, by ukaraÄ‡ Obidiaha. To ty?}
+{126}{}{Szukam gÃ³rnika, ktÃ³ry pociÄ…Å‚ jednÄ… z dziewczyn Lou. Zdaje siÄ™, Å¼e siÄ™ przyznaÅ‚eÅ›!}
+{127}{}{WymierzÄ™ ci sprawiedliwoÅ›Ä‡ samemu. SprawiedliwoÅ›Ä‡ kaliber 10mm...}
+{128}{}{ByÄ‡ moÅ¼e. Co o tym wiesz?}
+{129}{}{AleÅ¼ skÄ…d. Nigdy bym tego nie zrobiÅ‚. Do widzenia.}
+{130}{}{PochlastaÅ‚em tÄ™ dziwkÄ™! PopeÅ‚niÅ‚a duÅ¼y bÅ‚Ä…d.}
+{131}{}{BÅ‚Ä…d?}
+{132}{}{Nie dbam o to, co ci zrobiÅ‚a. JesteÅ› wariatem, a ja ciÄ™ zaÅ‚atwiÄ™.}
+{133}{}{To ty popeÅ‚niÅ‚eÅ› bÅ‚Ä…d, pojebie! Zabieram ciÄ™ do paki, gdzie ciÄ™ osÄ…dzÄ… i powieszÄ….}
+{134}{}{Zabierasz mnie do paki? Dobra, pÃ³jdÄ™... Nie ma co robiÄ‡ baÅ‚aganu. Dziwka dostaÅ‚a, na co zasÅ‚uÅ¼yÅ‚a. Nie zabijesz mnie. Jestem niepokonany, a ty moÅ¼esz juÅ¼ zaczÄ…Ä‡ uwaÅ¼aÄ‡. Masz oczy z tyÅ‚u gÅ‚owy?}
+{135}{}{PotrafiÄ™ siÄ™ sobÄ… zajÄ…Ä‡. Na razie to ja jestem tu szeryfem i zabieram ciÄ™ do paki.}
+{136}{}{ChociaÅ¼... Mam lepszy pomysÅ‚! Czemu nie zaoszczÄ™dziÄ‡ mieszkaÅ„com Redding czasu oraz kÅ‚opotÃ³w i po prostu rozwaliÄ‡ ciÄ™ na miejcu?}
+{137}{}{Chyba nie bÄ™dÄ™ na razie denerwowaÄ‡ innych gÃ³rnikÃ³w z Morningstar. Na razie wypuszczÄ™ ciÄ™ z ostrzeÅ¼eniem. Ale jeÅ›li zrobisz to jeszcze raz...}
+{138}{}{DziÄ™kujÄ™ panu. Tak proszÄ™ pana, Obidiah bÄ™dzie uwaÅ¼aÅ‚, panie wÅ‚adzo. DziÄ™kujÄ™.}
+{139}{}{DziÄ™kujÄ™ pani. Tak proszÄ™ pani, Obidiah bÄ™dzie uwaÅ¼aÅ‚, proszÄ™ pani oficer. DziÄ™kujÄ™.}
+{140}{}{Po prostu uwaÅ¼aj. ObyÅ› wiÄ™cej nie robiÅ‚ takich numerÃ³w. Do widzenia.}
+{141}{}{NaÅ›miewaÅ‚a siÄ™ z mojej mamusi. Nikt nie naÅ›miewa siÄ™ z mamusi Hakeswilla. Ona jest jedynÄ… dobrÄ… osobÄ… w tym caÅ‚ym gnijÄ…cym Å›wiecie.}
+{142}{}{NiewaÅ¼ne, dlaczego to zrobiÅ‚eÅ›. PÃ³jdziesz ze mnÄ…. Natychmiast!}
+{143}{}{Twoja mama powinna zastosowaÄ‡ lepsze Å›rodki antykoncepcyjne.}
+{144}{}{NaÅ›miewaÅ‚a siÄ™ z twojej matki? KurczÄ™, nie powinna tego robiÄ‡. Ale i tak przesadziÅ‚eÅ›.}
+{145}{}{MoÅ¼e i tak. Ale i ja, i moi kumple z kopalni uwaÅ¼amy, Å¼e to, co zrobiÅ‚a nie byÅ‚o w porzÄ…dku, to byÅ‚o zupeÅ‚nie nie w porzÄ…dku. Ale obiecujÄ™, Å¼e juÅ¼ wiÄ™cej tego nie zrobiÄ™.}
+{146}{}{Hmmm... PowinieneÅ› zostaÄ‡ aresztowany za pochlastanie twarzy tej dziewczyny - ale... dopÃ³ki nie robisz tego ciÄ…gle... Tym razem puszczÄ™ ciÄ™.}
+{147}{}{Åawnicy raczej siÄ™ tym nie przejmÄ…... Idziesz ze mnÄ….}
+{148}{}{JeÅ›li inni gÃ³rnicy bÄ™dÄ… teÅ¼ mieli jakieÅ› dziwne pomysÅ‚y, to zapewne wiele nauczÄ… siÄ™ z bolesnego przykÅ‚adu, jakim za chwilÄ™ siÄ™ staniesz.}

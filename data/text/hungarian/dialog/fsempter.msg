@@ -1,82 +1,82 @@
-{100}{}{Egy számítógép-terminált látsz.}
-{101}{}{? az Uralkodó Számítógép-terminál.}
-{102}{}{A számítógép interfészeként egy beépített érint?s képerny? szolgál. Az oldalán ez áll: "Uralkodó v8.8" számítógép-terminál.}
-{103}{}{Üdvözöljük! Kérem, adja meg a jelszavát, hogy ellen?rizhessük a személyazonosságát!}
-{104}{}{::összevissza beírsz valamit::}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz.}
+{101}{}{? az UralkodÃ³ SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l.}
+{102}{}{A szÃ¡mÃ­tÃ³gÃ©p interfÃ©szekÃ©nt egy beÃ©pÃ­tett Ã©rint?s kÃ©perny? szolgÃ¡l. Az oldalÃ¡n ez Ã¡ll: "UralkodÃ³ v8.8" szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l.}
+{103}{}{ÃœdvÃ¶zÃ¶ljÃ¼k! KÃ©rem, adja meg a jelszavÃ¡t, hogy ellen?rizhessÃ¼k a szemÃ©lyazonossÃ¡gÃ¡t!}
+{104}{}{::Ã¶sszevissza beÃ­rsz valamit::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{TIUASPO-Lo-Shi-S12908}
-{108}{}{::meghekkeled a számítógépet::}
-{109}{}{Kilépés.}
-{110}{}{Személyazonosság ellen?rizve.}
-{111}{}{Mely funkciót szeretné elérni?}
+{108}{}{::meghekkeled a szÃ¡mÃ­tÃ³gÃ©pet::}
+{109}{}{KilÃ©pÃ©s.}
+{110}{}{SzemÃ©lyazonossÃ¡g ellen?rizve.}
+{111}{}{Mely funkciÃ³t szeretnÃ© elÃ©rni?}
 {112}{}{Diagnosztika.}
-{113}{}{Adatbázis.}
-{114}{}{El?rejelzés.}
+{113}{}{AdatbÃ¡zis.}
+{114}{}{El?rejelzÃ©s.}
 {115}{}{Semelyiket.}
-{116}{}{Kérem, beszéljen a rendszergazdával! Viszlát!}
-{117}{}{::meghekkeled a számítógépet::}
-{118}{}{::távozol::}
-{119}{}{Behatolót érzékeltem. Lekapcsolás. Legyen jó napja!}
+{116}{}{KÃ©rem, beszÃ©ljen a rendszergazdÃ¡val! ViszlÃ¡t!}
+{117}{}{::meghekkeled a szÃ¡mÃ­tÃ³gÃ©pet::}
+{118}{}{::tÃ¡vozol::}
+{119}{}{BehatolÃ³t Ã©rzÃ©keltem. LekapcsolÃ¡s. Legyen jÃ³ napja!}
 {120}{}{[DONE]}
-{121}{}{Diagnosztikai funkciók?}
-{122}{}{Hálózati szken}
-{123}{}{Merevlemez formázása}
-{124}{}{Merevlemez integritásának ellen?rzése.}
+{121}{}{Diagnosztikai funkciÃ³k?}
+{122}{}{HÃ¡lÃ³zati szken}
+{123}{}{Merevlemez formÃ¡zÃ¡sa}
+{124}{}{Merevlemez integritÃ¡sÃ¡nak ellen?rzÃ©se.}
 {125}{}{Vissza.}
-{126}{}{Melyik adatbázishoz szeretne hozzáférni?}
-{127}{}{Biológia.}
-{128}{}{Vegyészet.}
+{126}{}{Melyik adatbÃ¡zishoz szeretne hozzÃ¡fÃ©rni?}
+{127}{}{BiolÃ³gia.}
+{128}{}{VegyÃ©szet.}
 {129}{}{Fizika.}
-{130}{}{Történelem.}
+{130}{}{TÃ¶rtÃ©nelem.}
 {131}{}{Vissza.}
-{132}{}{A Shi város gyermekei veszélyben vannak. 50% esély van rá, hogy gyilkos jár köztük.}
-{133}{}{A Shi város egyre nagyobb veszélyben. 75% esély van rá, hogy baj éri a lakosokat.}
-{134}{}{A Hubologista ?rhajó-kilövésnek 95% esélye van, hogy cs?döt mond. Tényez?k: Nincs üzemanyag, elégtelen tömít?gy?r?, gyenge vezetés, kezdeményezés hiánya.}
-{135}{}{15% esély van arra, hogy a "Kiválasztott" sikeresen végrehajtja a küldetését.}
-{136}{}{Az adatok azt jelzik, hogy az "Enklávé" sokkal er?sebb, mint azt korábban hittük. Ne közelítse meg ?ket!}
+{132}{}{A Shi vÃ¡ros gyermekei veszÃ©lyben vannak. 50% esÃ©ly van rÃ¡, hogy gyilkos jÃ¡r kÃ¶ztÃ¼k.}
+{133}{}{A Shi vÃ¡ros egyre nagyobb veszÃ©lyben. 75% esÃ©ly van rÃ¡, hogy baj Ã©ri a lakosokat.}
+{134}{}{A Hubologista ?rhajÃ³-kilÃ¶vÃ©snek 95% esÃ©lye van, hogy cs?dÃ¶t mond. TÃ©nyez?k: Nincs Ã¼zemanyag, elÃ©gtelen tÃ¶mÃ­t?gy?r?, gyenge vezetÃ©s, kezdemÃ©nyezÃ©s hiÃ¡nya.}
+{135}{}{15% esÃ©ly van arra, hogy a "KivÃ¡lasztott" sikeresen vÃ©grehajtja a kÃ¼ldetÃ©sÃ©t.}
+{136}{}{Az adatok azt jelzik, hogy az "EnklÃ¡vÃ©" sokkal er?sebb, mint azt korÃ¡bban hittÃ¼k. Ne kÃ¶zelÃ­tse meg ?ket!}
 {137}{}{Chances of submarine reappearing in this game: 100%}
-{138}{}{A tanker csavargóinak 0% százalék esélye van, hogy a raktérben küls? segítség nélkül megszüntessék a szörny-járást. Segítségnyújtás testhezállóságának kiszámítása folyamatban.}
-{139}{}{Adat: A Poseidon Olaj Tanker alkalmatlan az útra. Több adatra van szükség.}
-{140}{}{Nem feldolgozható. Több adatra van szükség.}
-{141}{}{[TOVÁBB]}
+{138}{}{A tanker csavargÃ³inak 0% szÃ¡zalÃ©k esÃ©lye van, hogy a raktÃ©rben kÃ¼ls? segÃ­tsÃ©g nÃ©lkÃ¼l megszÃ¼ntessÃ©k a szÃ¶rny-jÃ¡rÃ¡st. SegÃ­tsÃ©gnyÃºjtÃ¡s testhezÃ¡llÃ³sÃ¡gÃ¡nak kiszÃ¡mÃ­tÃ¡sa folyamatban.}
+{139}{}{Adat: A Poseidon Olaj Tanker alkalmatlan az Ãºtra. TÃ¶bb adatra van szÃ¼ksÃ©g.}
+{140}{}{Nem feldolgozhatÃ³. TÃ¶bb adatra van szÃ¼ksÃ©g.}
+{141}{}{[TOVÃBB]}
 {142}{}{Vissza.}
-{143}{}{Biológia állomás: Aktív}
-{144}{}{Biológia állomás: Inaktív}
-{145}{}{Vegyészeti állomás: Aktív}
-{146}{}{Vegyészeti állomás: Inaktív}
-{147}{}{Fizika állomás: Aktív}
-{148}{}{Fizika állomás: Inaktív}
-{149}{}{Biológiai állomás deaktiválása.}
-{150}{}{Vegyészeti állomás deaktiválása.}
-{151}{}{Fizika állomás deaktiválása.}
-{152}{}{Hozzáférés a biológiai állomáshoz.}
-{153}{}{Hozzáférés a vegyészeti állomáshoz.}
-{154}{}{Hozzáférés a fizika állomáshoz.}
-{155}{}{Biológiai állomás aktiválása.}
-{156}{}{Vegyészeti állomás aktiválása.}
-{157}{}{Fizika állomás aktiválása.}
+{143}{}{BiolÃ³gia Ã¡llomÃ¡s: AktÃ­v}
+{144}{}{BiolÃ³gia Ã¡llomÃ¡s: InaktÃ­v}
+{145}{}{VegyÃ©szeti Ã¡llomÃ¡s: AktÃ­v}
+{146}{}{VegyÃ©szeti Ã¡llomÃ¡s: InaktÃ­v}
+{147}{}{Fizika Ã¡llomÃ¡s: AktÃ­v}
+{148}{}{Fizika Ã¡llomÃ¡s: InaktÃ­v}
+{149}{}{BiolÃ³giai Ã¡llomÃ¡s deaktivÃ¡lÃ¡sa.}
+{150}{}{VegyÃ©szeti Ã¡llomÃ¡s deaktivÃ¡lÃ¡sa.}
+{151}{}{Fizika Ã¡llomÃ¡s deaktivÃ¡lÃ¡sa.}
+{152}{}{HozzÃ¡fÃ©rÃ©s a biolÃ³giai Ã¡llomÃ¡shoz.}
+{153}{}{HozzÃ¡fÃ©rÃ©s a vegyÃ©szeti Ã¡llomÃ¡shoz.}
+{154}{}{HozzÃ¡fÃ©rÃ©s a fizika Ã¡llomÃ¡shoz.}
+{155}{}{BiolÃ³giai Ã¡llomÃ¡s aktivÃ¡lÃ¡sa.}
+{156}{}{VegyÃ©szeti Ã¡llomÃ¡s aktivÃ¡lÃ¡sa.}
+{157}{}{Fizika Ã¡llomÃ¡s aktivÃ¡lÃ¡sa.}
 {158}{}{Vissza.}
-{159}{}{Meghajtó formázása: Minden adat megsemmisül. Akarja folytatni?}
+{159}{}{MeghajtÃ³ formÃ¡zÃ¡sa: Minden adat megsemmisÃ¼l. Akarja folytatni?}
 {160}{}{Igen.}
 {161}{}{Nem.}
-{162}{}{A rendszer funkcionális integritása 92%. Az Uralkodó-Számítógép páncélozott magja 100%. Az adat integritása 100%. Az el?rejelz? egység enyhe feszültségingadozásoktól szenved - el?relátható javítási id? 6 nap. El?rejelzés 15%-os készültségben.}
+{162}{}{A rendszer funkcionÃ¡lis integritÃ¡sa 92%. Az UralkodÃ³-SzÃ¡mÃ­tÃ³gÃ©p pÃ¡ncÃ©lozott magja 100%. Az adat integritÃ¡sa 100%. Az el?rejelz? egysÃ©g enyhe feszÃ¼ltsÃ©gingadozÃ¡soktÃ³l szenved - el?relÃ¡thatÃ³ javÃ­tÃ¡si id? 6 nap. El?rejelzÃ©s 15%-os kÃ©szÃ¼ltsÃ©gben.}
 {163}{}{Vissza.}
-{164}{}{Biztos, hogy le akarja formázni ezt az egységet? A folyamat visszafordíthatatlan.}
+{164}{}{Biztos, hogy le akarja formÃ¡zni ezt az egysÃ©get? A folyamat visszafordÃ­thatatlan.}
 {165}{}{Igen.}
 {166}{}{Nem.}
-{167}{}{Formázás... formázás... formázás kész. Az újraindítás el?tt teljes telepítés szükséges. Lekapcsolás... lekapcsolás... kész...}
+{167}{}{FormÃ¡zÃ¡s... formÃ¡zÃ¡s... formÃ¡zÃ¡s kÃ©sz. Az ÃºjraindÃ­tÃ¡s el?tt teljes telepÃ­tÃ©s szÃ¼ksÃ©ges. LekapcsolÃ¡s... lekapcsolÃ¡s... kÃ©sz...}
 {168}{}{[DONE]}
 {169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
 {170}{}{Botanika program.}
 {171}{}{Genetikai program.}
 {172}{}{Xeno program.}
 {173}{}{Vissza.}
-{174}{}{(Körülbelül húsz perc elteltével az alábbiakat találod: A növények sugárzás-ellenállásának kezdeti eredményei nem túl kecsegtet?ek. A Dr. Sheng által kifejlesztett sugárzásálló növények kellemetlen mellékhatással bírnak, túlságosan veszélyesek. Shen ragaszkodik hozzá, hogy folytassák a megadott irányvonalat és vessék be a genetikai vívmányokat is.)}
+{174}{}{(KÃ¶rÃ¼lbelÃ¼l hÃºsz perc elteltÃ©vel az alÃ¡bbiakat talÃ¡lod: A nÃ¶vÃ©nyek sugÃ¡rzÃ¡s-ellenÃ¡llÃ¡sÃ¡nak kezdeti eredmÃ©nyei nem tÃºl kecsegtet?ek. A Dr. Sheng Ã¡ltal kifejlesztett sugÃ¡rzÃ¡sÃ¡llÃ³ nÃ¶vÃ©nyek kellemetlen mellÃ©khatÃ¡ssal bÃ­rnak, tÃºlsÃ¡gosan veszÃ©lyesek. Shen ragaszkodik hozzÃ¡, hogy folytassÃ¡k a megadott irÃ¡nyvonalat Ã©s vessÃ©k be a genetikai vÃ­vmÃ¡nyokat is.)}
 {175}{}{Genetikai program.}
 {176}{}{Xeno program.}
 {177}{}{Vissza.}
-{178}{}{(Körülbelül húsz perc múltán összerakod a szerzett információt: A FEV vírus alapjait felhasználva Dr. Long Wang sikeresen hozott létre mutáns katonákat. Egy szérumot is készített hozzá, amely érdekes eredményeket produkált egyes rágcsálókban. Beadta magának, mire elt?nt egy bugyborékoló tócsában. Ezt követ?en Dr. Sheng hírzárlatot rendelt el. Dr. Long halálával a stafétabotot Dr. Sheng vette át, aki minden tudását a sugárzásálló növények kutatására koncentrálta.)}
+{178}{}{(KÃ¶rÃ¼lbelÃ¼l hÃºsz perc mÃºltÃ¡n Ã¶sszerakod a szerzett informÃ¡ciÃ³t: A FEV vÃ­rus alapjait felhasznÃ¡lva Dr. Long Wang sikeresen hozott lÃ©tre mutÃ¡ns katonÃ¡kat. Egy szÃ©rumot is kÃ©szÃ­tett hozzÃ¡, amely Ã©rdekes eredmÃ©nyeket produkÃ¡lt egyes rÃ¡gcsÃ¡lÃ³kban. Beadta magÃ¡nak, mire elt?nt egy bugyborÃ©kolÃ³ tÃ³csÃ¡ban. Ezt kÃ¶vet?en Dr. Sheng hÃ­rzÃ¡rlatot rendelt el. Dr. Long halÃ¡lÃ¡val a stafÃ©tabotot Dr. Sheng vette Ã¡t, aki minden tudÃ¡sÃ¡t a sugÃ¡rzÃ¡sÃ¡llÃ³ nÃ¶vÃ©nyek kutatÃ¡sÃ¡ra koncentrÃ¡lta.)}
 {179}{}{Botanika program.}
 {180}{}{Xeno program.}
 {181}{}{Vissza.}
@@ -84,44 +84,44 @@
 {183}{}{Botanika program.}
 {184}{}{Genetikai program.}
 {185}{}{Vissza.}
-{186}{}{Vegyészeti adatbázis: Üzemanyag és származékok - Polimerek}
-{187}{}{Üzemanyag és származékok.}
+{186}{}{VegyÃ©szeti adatbÃ¡zis: Ãœzemanyag Ã©s szÃ¡rmazÃ©kok - Polimerek}
+{187}{}{Ãœzemanyag Ã©s szÃ¡rmazÃ©kok.}
 {188}{}{Polimerek.}
 {189}{}{Vissza.}
 {190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
-{191}{}{(Átvizsgálsz egy hatalmas vegyi képleteket és laborfeljegyzéseket felvonultató adathalmazt. Nem sok lövésed van róla, hogy ez a sok adat mit is jelent.)}
-{192}{}{Üzemanyag átirányítása a Poseidon tankerbe.}
-{193}{}{Üzemanyag átirányítása a Hubologistáknak.}
+{191}{}{(ÃtvizsgÃ¡lsz egy hatalmas vegyi kÃ©pleteket Ã©s laborfeljegyzÃ©seket felvonultatÃ³ adathalmazt. Nem sok lÃ¶vÃ©sed van rÃ³la, hogy ez a sok adat mit is jelent.)}
+{192}{}{Ãœzemanyag Ã¡tirÃ¡nyÃ­tÃ¡sa a Poseidon tankerbe.}
+{193}{}{Ãœzemanyag Ã¡tirÃ¡nyÃ­tÃ¡sa a HubologistÃ¡knak.}
 {194}{}{Vissza.}
-{195}{}{(Miután temérdek ábrán és technikai értekezésen átgázoltál, felfedezed, hogy a Shik egy új típusó polimer alapú harci páncél kifejlesztésén dolgoznak, mely mind a t?znek, mind a lövedékeknek ellenáll. A befejezést?l még mindig évekre tart. Mindemellett említéseket olvasol egy bizonyos új fegyverzetr?l, és gyártási lehet?ségekr?l. A Shik szemlátomást el vannak látva tervekkel a jöv?t illet?en.)}
+{195}{}{(MiutÃ¡n temÃ©rdek Ã¡brÃ¡n Ã©s technikai Ã©rtekezÃ©sen Ã¡tgÃ¡zoltÃ¡l, felfedezed, hogy a Shik egy Ãºj tÃ­pusÃ³ polimer alapÃº harci pÃ¡ncÃ©l kifejlesztÃ©sÃ©n dolgoznak, mely mind a t?znek, mind a lÃ¶vedÃ©keknek ellenÃ¡ll. A befejezÃ©st?l mÃ©g mindig Ã©vekre tart. Mindemellett emlÃ­tÃ©seket olvasol egy bizonyos Ãºj fegyverzetr?l, Ã©s gyÃ¡rtÃ¡si lehet?sÃ©gekr?l. A Shik szemlÃ¡tomÃ¡st el vannak lÃ¡tva tervekkel a jÃ¶v?t illet?en.)}
 {196}{}{Vissza.}
-{197}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
+{197}{}{Az Ã¼zemanyag Ã¡tirÃ¡nyÃ­tva a kÃ©rt helyre. TÃ¡rolÃ³ = Ãœres. Program bezÃ¡rÃ¡sa.}
 {198}{}{[DONE]}
-{199}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
+{199}{}{Az Ã¼zemanyag Ã¡tirÃ¡nyÃ­tva a kÃ©rt helyre. TÃ¡rolÃ³ = Ãœres. Program bezÃ¡rÃ¡sa.}
 {200}{}{[DONE]}
-{201}{}{Fizika adatbázis: Felfedezés - Teória}
+{201}{}{Fizika adatbÃ¡zis: FelfedezÃ©s - TeÃ³ria}
 {202}{}{Exploration.}
 {203}{}{Theory.}
 {204}{}{Vissza.}
-{205}{}{"A gépmadár terveinek közelmúltbeli megszerzésével hatalmas lépést tettünk egy repül? járm? gyakorlati megvalósítása felé. Az év végére várjuk a m?köd? prototípus elkészülését, két éven belül pedig megkezd?dhet a tömeggyártás." - Dr. Wong}
-{206}{}{::tervek lemásolása:: Vissza.}
+{205}{}{"A gÃ©pmadÃ¡r terveinek kÃ¶zelmÃºltbeli megszerzÃ©sÃ©vel hatalmas lÃ©pÃ©st tettÃ¼nk egy repÃ¼l? jÃ¡rm? gyakorlati megvalÃ³sÃ­tÃ¡sa felÃ©. Az Ã©v vÃ©gÃ©re vÃ¡rjuk a m?kÃ¶d? prototÃ­pus elkÃ©szÃ¼lÃ©sÃ©t, kÃ©t Ã©ven belÃ¼l pedig megkezd?dhet a tÃ¶meggyÃ¡rtÃ¡s." - Dr. Wong}
+{206}{}{::tervek lemÃ¡solÃ¡sa:: Vissza.}
 {207}{}{Vissza.}
-{208}{}{"Még mindig dolgozunk egy leveg?ben közleked? járm? használható modelljén. Az eddig elkészült tervek egyike sem bizonyult biztonságosnak, aerodinamikusnak. Talán ha hozzáférhetnénk az ?sök terveihez..." - Dr. Wong}
+{208}{}{"MÃ©g mindig dolgozunk egy leveg?ben kÃ¶zleked? jÃ¡rm? hasznÃ¡lhatÃ³ modelljÃ©n. Az eddig elkÃ©szÃ¼lt tervek egyike sem bizonyult biztonsÃ¡gosnak, aerodinamikusnak. TalÃ¡n ha hozzÃ¡fÃ©rhetnÃ©nk az ?sÃ¶k terveihez..." - Dr. Wong}
 {209}{}{Vissza.}
-{210}{}{(Miután keresztülrágtad magad a bemutatkozáson és a matematikán, felfedezed, hogy a Shik, az ?sök ?rutazási teóriáit alapul véve, újra nukleáris energia kifejlesztésén munkálkodnak. Ezzel fityiszt mutatnak a Hubologistáknak és megzabolázzák a nap, a szél és a tenger energiáját. Legalábbis a jegyzetek tanúsága szerint.)}
+{210}{}{(MiutÃ¡n keresztÃ¼lrÃ¡gtad magad a bemutatkozÃ¡son Ã©s a matematikÃ¡n, felfedezed, hogy a Shik, az ?sÃ¶k ?rutazÃ¡si teÃ³riÃ¡it alapul vÃ©ve, Ãºjra nukleÃ¡ris energia kifejlesztÃ©sÃ©n munkÃ¡lkodnak. Ezzel fityiszt mutatnak a HubologistÃ¡knak Ã©s megzabolÃ¡zzÃ¡k a nap, a szÃ©l Ã©s a tenger energiÃ¡jÃ¡t. LegalÃ¡bbis a jegyzetek tanÃºsÃ¡ga szerint.)}
 {211}{}{Vissza.}
-{212}{}{Állomás aktiválva.}
+{212}{}{ÃllomÃ¡s aktivÃ¡lva.}
 {213}{}{Vissza.}
-{214}{}{A számítógép-terminálnak nemigen van interfésze ilyesmihez.}
-{215}{}{A számítógép-terminál nem m?ködik.}
-{216}{}{Ellenséges beavatkozás a rendszerben! Támadási parancs érvényesítve!}
-{217}{}{Megtámadni a behatolót!}
-{218}{}{Itt az id?, hogy megfizess a tetteidért, lao wai!}
-{219}{}{Áruló van a sorainkban!}
-{220}{}{Geo-Lokáció.}
-{221}{}{Mit szeretne lokalizálni?}
+{214}{}{A szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lnak nemigen van interfÃ©sze ilyesmihez.}
+{215}{}{A szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l nem m?kÃ¶dik.}
+{216}{}{EllensÃ©ges beavatkozÃ¡s a rendszerben! TÃ¡madÃ¡si parancs Ã©rvÃ©nyesÃ­tve!}
+{217}{}{MegtÃ¡madni a behatolÃ³t!}
+{218}{}{Itt az id?, hogy megfizess a tetteidÃ©rt, lao wai!}
+{219}{}{ÃrulÃ³ van a sorainkban!}
+{220}{}{Geo-LokÃ¡ciÃ³.}
+{221}{}{Mit szeretne lokalizÃ¡lni?}
 {222}{}{A falubelieimet.}
-{223}{}{97% számszer?sített esély - a falusiak az Enklávé komplexum jelenlegi koordinátáján találhatók.}
+{223}{}{97% szÃ¡mszer?sÃ­tett esÃ©ly - a falusiak az EnklÃ¡vÃ© komplexum jelenlegi koordinÃ¡tÃ¡jÃ¡n talÃ¡lhatÃ³k.}
 {230}{}{[The screen flashes for a second before switching to a monochromatic display filled with Chinese symbols.
  After a few moments, the screen clears and displays a list of contents. Most of the files are ancient and corrupted,
  but there are several that seem to be still intact.]}
@@ -241,7 +241,7 @@ Warning! Uplink to CIN central Beijing server unavailable. Retrieving archived d
  contained within operational directives. May our souls return to this Earth.}
 {401}{}{::back::}
 {410}{}{From: Central Command                                            All forces in position. Transmitting final confirmation
- codes. Operation Youmíng is go.}
+ codes. Operation YoumÃ­ng is go.}
 {411}{}{::back::}
 {420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
                                                 CIN Beijing...		offline
@@ -250,7 +250,7 @@ Warning! Uplink to CIN central Beijing server unavailable. Retrieving archived d
                                         Warning: No connection to external serves could be made.}
 {421}{}{That's disappointing...}
 {430}{}{Scanning local drives...}
-{431}{}{[FOLYTATÁS]}
+{431}{}{[FOLYTATÃS]}
 {440}{}{One accessible file found. [It seems most of the archives are corrupted. However, the mainframe manages to
  retrieve an intact file.]}
 {441}{}{Personal log: Li Ye, Admiral, Captain}

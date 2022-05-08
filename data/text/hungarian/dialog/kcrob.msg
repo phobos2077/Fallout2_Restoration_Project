@@ -1,3 +1,3 @@
-{100}{}{Egy robotot l·tszt.}
-{101}{}{Ez a robot jÛkora rong·lÛd·st Èlt t˙l. A k¸lsejÈt horpad·sok, horzsol·sok Ès s·r borÌtja.}
+{100}{}{Egy robotot l√°tszt.}
+{101}{}{Ez a robot j√≥kora rong√°l√≥d√°st √©lt t√∫l. A k√ºlsej√©t horpad√°sok, horzsol√°sok √©s s√°r bor√≠tja.}
 {102}{}{}

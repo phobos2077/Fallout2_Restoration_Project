@@ -1,28 +1,28 @@
-{100}{}{Egy számkombinációs zárral ellátott széfet látsz a falra szerelve. Be van csukva.}
-{101}{}{Egy számkombinációs zárral ellátott széfet látsz a falra szerelve. Nyitva van.}
-{120}{}{Amint épp nekiállsz a széf zárjának megberheléséhez, észreveszed, hogy a széf alatt egy drót fut végig a falban. Nagyon úgy t?nik, hogy csapdával látták el ezt a vackot.}
-{121}{}{A széfen még mindig rajta van a csapda.}
-{150}{}{Halk kattanásokat követ?en a széf zárja megadja magát.}
-{160}{}{Véletlenszer?en elkezded tekergetni a kombinációs zárat, amikor a tárcsa hirtelen megakad egy számnál... kattanásokat hallasz, aztán a széf zárja engedni kezd.}
-{170}{}{Percekig tekereted a számokat a záron, de semmire sem jutsz.}
-{171}{}{Percekig tekergeted a számzárat, de hiába.}
-{180}{}{Találtál egy csapdát a széfen, de sikeresen hatástalanítottad.}
-{181}{}{A széfre szerelt csapdát sikeresen hatástalanítottad.}
-{190}{}{Találtál egy csapdát a széfen, de nem sikerült hatástalanítanod.}
-{200}{}{Szerinted nincs csapda a széfre szerelve.}
-{201}{}{Nem sikerült hatástalanítanod a széfre szerelt csapdát.}
-{220}{}{Minden bizonnyal tanácsos lenne újraélesíteni a széfet egy kis plasztikkal vagy dinamittal.}
-{230}{}{A széf kombinációját sikerült megváltoztatni... hehehe...}
-{231}{}{A széf kombinációját sikerült megváltoztatni... már megint...}
-{240}{}{Nincs meg a tudásod, hogy a kombinációt megváltoztasd.}
-{241}{}{ nem rendelkezik a megfelel? tudással, hogy megváltoztassa a kombinációt.}
-{250}{}{A széfet be kéne csukni.}
-{260}{}{A széfen már van egy csapda.}
-{270}{}{Nem sikerült csapdát szerelned a széfre.}
-{271}{}{ elügyetlenkedte a csapda felszerelését a széfre.}
-{280}{}{A széfre szerelt csapdát sikerült újraélesíteni.}
-{290}{}{Miközben csapda után kutatsz a széf környékén, felrobban az egész...}
-{291}{}{Miközben a csapdát hatástalanítottad, a rossz drótot húztad meg.}
-{300}{}{Az emeletr?l tompa robbanást hallasz.}
+{100}{}{Egy szÃ¡mkombinÃ¡ciÃ³s zÃ¡rral ellÃ¡tott szÃ©fet lÃ¡tsz a falra szerelve. Be van csukva.}
+{101}{}{Egy szÃ¡mkombinÃ¡ciÃ³s zÃ¡rral ellÃ¡tott szÃ©fet lÃ¡tsz a falra szerelve. Nyitva van.}
+{120}{}{Amint Ã©pp nekiÃ¡llsz a szÃ©f zÃ¡rjÃ¡nak megberhelÃ©sÃ©hez, Ã©szreveszed, hogy a szÃ©f alatt egy drÃ³t fut vÃ©gig a falban. Nagyon Ãºgy t?nik, hogy csapdÃ¡val lÃ¡ttÃ¡k el ezt a vackot.}
+{121}{}{A szÃ©fen mÃ©g mindig rajta van a csapda.}
+{150}{}{Halk kattanÃ¡sokat kÃ¶vet?en a szÃ©f zÃ¡rja megadja magÃ¡t.}
+{160}{}{VÃ©letlenszer?en elkezded tekergetni a kombinÃ¡ciÃ³s zÃ¡rat, amikor a tÃ¡rcsa hirtelen megakad egy szÃ¡mnÃ¡l... kattanÃ¡sokat hallasz, aztÃ¡n a szÃ©f zÃ¡rja engedni kezd.}
+{170}{}{Percekig tekereted a szÃ¡mokat a zÃ¡ron, de semmire sem jutsz.}
+{171}{}{Percekig tekergeted a szÃ¡mzÃ¡rat, de hiÃ¡ba.}
+{180}{}{TalÃ¡ltÃ¡l egy csapdÃ¡t a szÃ©fen, de sikeresen hatÃ¡stalanÃ­tottad.}
+{181}{}{A szÃ©fre szerelt csapdÃ¡t sikeresen hatÃ¡stalanÃ­tottad.}
+{190}{}{TalÃ¡ltÃ¡l egy csapdÃ¡t a szÃ©fen, de nem sikerÃ¼lt hatÃ¡stalanÃ­tanod.}
+{200}{}{Szerinted nincs csapda a szÃ©fre szerelve.}
+{201}{}{Nem sikerÃ¼lt hatÃ¡stalanÃ­tanod a szÃ©fre szerelt csapdÃ¡t.}
+{220}{}{Minden bizonnyal tanÃ¡csos lenne ÃºjraÃ©lesÃ­teni a szÃ©fet egy kis plasztikkal vagy dinamittal.}
+{230}{}{A szÃ©f kombinÃ¡ciÃ³jÃ¡t sikerÃ¼lt megvÃ¡ltoztatni... hehehe...}
+{231}{}{A szÃ©f kombinÃ¡ciÃ³jÃ¡t sikerÃ¼lt megvÃ¡ltoztatni... mÃ¡r megint...}
+{240}{}{Nincs meg a tudÃ¡sod, hogy a kombinÃ¡ciÃ³t megvÃ¡ltoztasd.}
+{241}{}{ nem rendelkezik a megfelel? tudÃ¡ssal, hogy megvÃ¡ltoztassa a kombinÃ¡ciÃ³t.}
+{250}{}{A szÃ©fet be kÃ©ne csukni.}
+{260}{}{A szÃ©fen mÃ¡r van egy csapda.}
+{270}{}{Nem sikerÃ¼lt csapdÃ¡t szerelned a szÃ©fre.}
+{271}{}{ elÃ¼gyetlenkedte a csapda felszerelÃ©sÃ©t a szÃ©fre.}
+{280}{}{A szÃ©fre szerelt csapdÃ¡t sikerÃ¼lt ÃºjraÃ©lesÃ­teni.}
+{290}{}{MikÃ¶zben csapda utÃ¡n kutatsz a szÃ©f kÃ¶rnyÃ©kÃ©n, felrobban az egÃ©sz...}
+{291}{}{MikÃ¶zben a csapdÃ¡t hatÃ¡stalanÃ­tottad, a rossz drÃ³tot hÃºztad meg.}
+{300}{}{Az emeletr?l tompa robbanÃ¡st hallasz.}
 {400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
  if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}

@@ -1,85 +1,85 @@
-{100}{}{Você vê Buffy, um membro dos aldeões não lavados.}
-{101}{}{Você vê Doombot, um membro dos Aldeões não Lavados.}
-{102}{}{Você vê Panoply, um membro dos Aldeões não Lavados.}
-{103}{}{Você vê Lerk, um membro dos Aldeões não Lavados.}
-{104}{}{Você vê Ymir, um membro dos Aldeões não Lavados.}
-{105}{}{Você vê Iguana Eater, um membro dos Aldeões não Lavados.}
-{106}{}{Você vê Night Owl, um membro dos Aldeões não Lavados.}
-{107}{}{Você vê Shadow Dancer, um membro dos Aldeões não Lavados.}
-{108}{}{Você vê Amish Commando, um membro dos Aldeões não Lavados.}
-{109}{}{Você vê Alexand o Killer Bee, um membro dos Aldeões não Lavados.}
-{110}{}{Você vê Hatchetman, um membro dos Aldeões não Lavados.}
-{111}{}{Você vê BlueCross, um membro dos Aldeões não Lavados.}
-{113}{}{Você vê Buffy, uma líder de torcida muito bonita, inteligente e alegre. Primeira mulher dos aldeões não lavados.}
-{114}{}{Você vê Doombot, Deusa do som e irmã de Buffy. Ela parece muito com Marie Osmond.}
-{115}{}{Você vê Panoply, uma menina tipo duende, cujos olhos traem um pequeno caso de demência.}
-{116}{}{Você vê Lerk, Líder da equipe de SWAT não lavada - Artista dos aldeões não lavados - Tree Talker.}
-{117}{}{Você vê Ymir, o abaixo do poeta e membro co-fundador da Poetry Bastards - Village Educator.}
-{118}{}{Você vê Iguana Eater, Alto Senhor de Smeet Lite.}
-{119}{}{Você vê Night Owl, ele que observa o sono - co-fundador dos bastões de poesia.}
-{120}{}{Você vê Shadow Dancer, Gothics Poetry Bastard - Curiosamente, ele se parece muito com Kevin Bacon.}
-{121}{}{Você vê o Amish Comando, Comissário de Trauma de Força Explícita, Subcomandante da Equipa de SWAT não lavado.}
-{122}{}{Você vê Alexand the Killer Bee, uma variedade gentil e inteligente de abelhas assassinas - Head Scribe Of The Unwashed Villagers.}
-{123}{}{Você vê Hatchetman, Gunsmith of the Unwashed - Starter of fires - Keeper of the Shadowrun lore.}
-{124}{}{Você vê BlueCross, Low Priest of the Unwashed - Director de fabricação.}
-{200}{}{Aldeões não Lavados salvam o dia, mais uma vez!}
-{201}{}{A morte é boa demais para ele.}
+{100}{}{VocÃª vÃª Buffy, um membro dos aldeÃµes nÃ£o lavados.}
+{101}{}{VocÃª vÃª Doombot, um membro dos AldeÃµes nÃ£o Lavados.}
+{102}{}{VocÃª vÃª Panoply, um membro dos AldeÃµes nÃ£o Lavados.}
+{103}{}{VocÃª vÃª Lerk, um membro dos AldeÃµes nÃ£o Lavados.}
+{104}{}{VocÃª vÃª Ymir, um membro dos AldeÃµes nÃ£o Lavados.}
+{105}{}{VocÃª vÃª Iguana Eater, um membro dos AldeÃµes nÃ£o Lavados.}
+{106}{}{VocÃª vÃª Night Owl, um membro dos AldeÃµes nÃ£o Lavados.}
+{107}{}{VocÃª vÃª Shadow Dancer, um membro dos AldeÃµes nÃ£o Lavados.}
+{108}{}{VocÃª vÃª Amish Commando, um membro dos AldeÃµes nÃ£o Lavados.}
+{109}{}{VocÃª vÃª Alexand o Killer Bee, um membro dos AldeÃµes nÃ£o Lavados.}
+{110}{}{VocÃª vÃª Hatchetman, um membro dos AldeÃµes nÃ£o Lavados.}
+{111}{}{VocÃª vÃª BlueCross, um membro dos AldeÃµes nÃ£o Lavados.}
+{113}{}{VocÃª vÃª Buffy, uma lÃ­der de torcida muito bonita, inteligente e alegre. Primeira mulher dos aldeÃµes nÃ£o lavados.}
+{114}{}{VocÃª vÃª Doombot, Deusa do som e irmÃ£ de Buffy. Ela parece muito com Marie Osmond.}
+{115}{}{VocÃª vÃª Panoply, uma menina tipo duende, cujos olhos traem um pequeno caso de demÃªncia.}
+{116}{}{VocÃª vÃª Lerk, LÃ­der da equipe de SWAT nÃ£o lavada - Artista dos aldeÃµes nÃ£o lavados - Tree Talker.}
+{117}{}{VocÃª vÃª Ymir, o abaixo do poeta e membro co-fundador da Poetry Bastards - Village Educator.}
+{118}{}{VocÃª vÃª Iguana Eater, Alto Senhor de Smeet Lite.}
+{119}{}{VocÃª vÃª Night Owl, ele que observa o sono - co-fundador dos bastÃµes de poesia.}
+{120}{}{VocÃª vÃª Shadow Dancer, Gothics Poetry Bastard - Curiosamente, ele se parece muito com Kevin Bacon.}
+{121}{}{VocÃª vÃª o Amish Comando, ComissÃ¡rio de Trauma de ForÃ§a ExplÃ­cita, Subcomandante da Equipa de SWAT nÃ£o lavado.}
+{122}{}{VocÃª vÃª Alexand the Killer Bee, uma variedade gentil e inteligente de abelhas assassinas - Head Scribe Of The Unwashed Villagers.}
+{123}{}{VocÃª vÃª Hatchetman, Gunsmith of the Unwashed - Starter of fires - Keeper of the Shadowrun lore.}
+{124}{}{VocÃª vÃª BlueCross, Low Priest of the Unwashed - Director de fabricaÃ§Ã£o.}
+{200}{}{AldeÃµes nÃ£o Lavados salvam o dia, mais uma vez!}
+{201}{}{A morte Ã© boa demais para ele.}
 {202}{}{E ficar morto!}
-{203}{}{A aldeia está segura, mais uma vez!}
+{203}{}{A aldeia estÃ¡ segura, mais uma vez!}
 {204}{}{Protegemos os inocentes e mantemos a paz.}
-{205}{}{E nós vamos patrulhar os resíduos. Mantendo-o salvo dos spammers.}
-{206}{}{Junte-se a nós em algum momento!}
-{207}{}{A separação é doce tristeza....}
-{208}{}{E o Diabo veio e viu como terrível a bondade era ....}
-{209}{}{Payback é uma puta, não é?}
+{205}{}{E nÃ³s vamos patrulhar os resÃ­duos. Mantendo-o salvo dos spammers.}
+{206}{}{Junte-se a nÃ³s em algum momento!}
+{207}{}{A separaÃ§Ã£o Ã© doce tristeza....}
+{208}{}{E o Diabo veio e viu como terrÃ­vel a bondade era ....}
+{209}{}{Payback Ã© uma puta, nÃ£o Ã©?}
 {210}{}{Grim finalmente encontrou um uso - fertilizante.}
-{211}{}{Isso é o que você obtém para usar sabão ...}
+{211}{}{Isso Ã© o que vocÃª obtÃ©m para usar sabÃ£o ...}
 {212}{}{Estamos fora daqui!}
-{213}{}{'Esta casa está limpa.'}
-{214}{}{Posso puxá-lo com uma vara para ter certeza?}
-{215}{}{Não espere por nós!}
+{213}{}{'Esta casa estÃ¡ limpa.'}
+{214}{}{Posso puxÃ¡-lo com uma vara para ter certeza?}
+{215}{}{NÃ£o espere por nÃ³s!}
 {216}{}{Um trabalho sujo, e eu realmente gosto dele!}
 {217}{}{De volta a patrulha!}
-{218}{}{Os aldeões sem lavagem. Manter a paz em uma terra desolada.}
+{218}{}{Os aldeÃµes sem lavagem. Manter a paz em uma terra desolada.}
 {219}{}{Ele tem o que ele merecia.}
-{220}{}{Eu vou corrê-lo!}
-{300}{}{Sabão? Nós não precisamos de nenhuma degola sabão!}
+{220}{}{Eu vou corrÃª-lo!}
+{300}{}{SabÃ£o? NÃ³s nÃ£o precisamos de nenhuma degola sabÃ£o!}
 {301}{}{Rally sem lavar! Destrua o Spammer!}
 {302}{}{A morte para o Spammer!}
-{303}{}{Este é, por ameaçar a vida das pessoas!}
-{304}{}{Agora você morrerá, Grim Reaper.}
-{305}{}{Você está indo de volta 'down under'!}
-{306}{}{O pool genético, precisa de um pouco de cloro.}
+{303}{}{Este Ã©, por ameaÃ§ar a vida das pessoas!}
+{304}{}{Agora vocÃª morrerÃ¡, Grim Reaper.}
+{305}{}{VocÃª estÃ¡ indo de volta 'down under'!}
+{306}{}{O pool genÃ©tico, precisa de um pouco de cloro.}
 {307}{}{Pagar de volta o tempo!}
-{308}{}{Agora você está indo para obtê-lo.}
-{309}{}{Os Aldeões não Lavados estão aqui para proteger as pessoas de escória como você!}
+{308}{}{Agora vocÃª estÃ¡ indo para obtÃª-lo.}
+{309}{}{Os AldeÃµes nÃ£o Lavados estÃ£o aqui para proteger as pessoas de escÃ³ria como vocÃª!}
 {310}{}{Deixar as pessoas em paz!}
 {311}{}{O poder da SUJEIRA!}
-{312}{}{Podemos ser Sujos, mas nós estamos aqui para limpar!}
-{313}{}{Você não pode escapar a nós neste momento!}
+{312}{}{Podemos ser Sujos, mas nÃ³s estamos aqui para limpar!}
+{313}{}{VocÃª nÃ£o pode escapar a nÃ³s neste momento!}
 {314}{}{Proteja o escolhido das idiotices do Spammer!}
-{315}{}{Escolhido! Junte-se a nós!}
-{316}{}{NÃO-LAVADA VINGANÇA!}
-{317}{}{Você nunca será um "não lavado" idiota infantil!}
-{318}{}{Você não tem uma chance!}
-{319}{}{Ainda não terminamos!}
+{315}{}{Escolhido! Junte-se a nÃ³s!}
+{316}{}{NÃƒO-LAVADA VINGANÃ‡A!}
+{317}{}{VocÃª nunca serÃ¡ um "nÃ£o lavado" idiota infantil!}
+{318}{}{VocÃª nÃ£o tem uma chance!}
+{319}{}{Ainda nÃ£o terminamos!}
 {320}{}{Eu estive esperando por esse dia por um looooongo tempo.}
-{400}{}{Isso é por me ameaçar!}
-{401}{}{Como eu tenho certeza! Você não machucaria uma garota, machucaria?}
-{402}{}{A vingança é um prato melhor servido frio.'}
-{403}{}{Eu sou Buffy... você é torrada.}
-{405}{}{Ninguém ameaça Doombot!}
+{400}{}{Isso Ã© por me ameaÃ§ar!}
+{401}{}{Como eu tenho certeza! VocÃª nÃ£o machucaria uma garota, machucaria?}
+{402}{}{A vinganÃ§a Ã© um prato melhor servido frio.'}
+{403}{}{Eu sou Buffy... vocÃª Ã© torrada.}
+{405}{}{NinguÃ©m ameaÃ§a Doombot!}
 {406}{}{Grim Buster!}
-{410}{}{Apenas um guanabana poderia comparar com o sabor desta vitória...}
-{415}{}{A vila é um lugar feliz, mas você fez isso com muita, muita raiva.}
-{420}{}{Você envergonhou nosso país com suas ações pela última vez!}
-{430}{}{Eu vou colocar você para dormir para o bem!}
-{435}{}{Estamos todos indo para o inferno, e eu estou dirigindo o ônibus.}
+{410}{}{Apenas um guanabana poderia comparar com o sabor desta vitÃ³ria...}
+{415}{}{A vila Ã© um lugar feliz, mas vocÃª fez isso com muita, muita raiva.}
+{420}{}{VocÃª envergonhou nosso paÃ­s com suas aÃ§Ãµes pela Ãºltima vez!}
+{430}{}{Eu vou colocar vocÃª para dormir para o bem!}
+{435}{}{Estamos todos indo para o inferno, e eu estou dirigindo o Ã´nibus.}
 {436}{}{Venha meu filho, me deixar levar sua dor para longe.}
-{437}{}{Você está morto. Você só não sabe disso ainda.}
+{437}{}{VocÃª estÃ¡ morto. VocÃª sÃ³ nÃ£o sabe disso ainda.}
 {440}{}{Obter algum!}
-{441}{}{Você quer um pouco disso?}
-{442}{}{Não o rosto, não o rosto!}
-{445}{}{Dante ainda não escreveu sobre o inferno, eu estou mandando você para...}
-{450}{}{Armas! Armas! Armas! Onde estão as minhas armas!}
+{441}{}{VocÃª quer um pouco disso?}
+{442}{}{NÃ£o o rosto, nÃ£o o rosto!}
+{445}{}{Dante ainda nÃ£o escreveu sobre o inferno, eu estou mandando vocÃª para...}
+{450}{}{Armas! Armas! Armas! Onde estÃ£o as minhas armas!}
 {451}{}{Ok, sim. Eu sou louco. Lide com isso.}

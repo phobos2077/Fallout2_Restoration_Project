@@ -18,11 +18,11 @@
 {204}{}{Congratulazioni per aver schiacciato l'Enclave, }
 {205}{}{Congratulazioni per aver schiacciato l'Enclave, }
 {215}{}{Uh-oh. Fate strada.}
-{216}{}{Il solo guardare quell'uomo…ehm...donna…ehm...coso... insomma, di QUALSIASI cosa si tratti, mi da' i brividi.}
+{216}{}{Il solo guardare quell'uomoâ€¦ehm...donnaâ€¦ehm...coso... insomma, di QUALSIASI cosa si tratti, mi da' i brividi.}
 {217}{}{Credi che quel coso sia qui per far la festa a qualcuno?}
 {218}{}{E' la furia dell'inferno in carne ed ossa. Ehm, sotto la corazza, naturalmente.}
 {219}{}{Non intralciate il cammino di quel coso.}
-{220}{}{Che aspetto minaccioso…}
+{220}{}{Che aspetto minacciosoâ€¦}
 {221}{}{*Gulp*}
 {222}{}{Credo che quel Sig. Robot mi stesse scansionando.}
 {223}{}{Credo che quel carro armato su due gambe mi abbia appena rivolto lo sguardo della morte. Io taglio la corda.}
@@ -86,7 +86,7 @@
 {305}{}{Credete che voglia dare una lezione a qualcuno?}
 {306}{}{Uh-oh. Fate strada.}
 {307}{}{E' la furia dell'inferno fatta persona.}
-{308}{}{Che aspetto minaccioso…}
+{308}{}{Che aspetto minacciosoâ€¦}
 {309}{}{*Gulp*}
 {310}{}{La Femme Nikita...}
 {311}{}{Il solo guardarla mi mette i brividi.}
@@ -96,15 +96,15 @@
 {315}{}{Ho sentito dire che ha eliminato tre assassini solo nella giornata di ieri.}
 {316}{}{Guarda che tette! Ehm, volevo dire... che te-tterribile donna.}
 {320}{}{Come mai ci sono cosi' tanti schiavisti in giro, ultimamente?}
-{321}{}{Non ho mai visto quello schiavista, prima d'ora…}
-{322}{}{Mi domando se lo schiavista sia diretto alle Stalle…}
-{323}{}{Mi domando se quello schiavista abbia della merce…}
+{321}{}{Non ho mai visto quello schiavista, prima d'oraâ€¦}
+{322}{}{Mi domando se lo schiavista sia diretto alle Stalleâ€¦}
+{323}{}{Mi domando se quello schiavista abbia della merceâ€¦}
 {324}{}{Sei diretto alle Stalle, schiavista?}
-{325}{}{Un ALTRO schiavista. Mordino deve aver trovato una miniera d'oro, da qualche parte…}
+{325}{}{Un ALTRO schiavista. Mordino deve aver trovato una miniera d'oro, da qualche parteâ€¦}
 {326}{}{Quello schiavista ha un biglietto di sola andata per il Golgotha.}
-{327}{}{La puzza che veniva dal Golgotha era terribile stanotte…}
+{327}{}{La puzza che veniva dal Golgotha era terribile stanotteâ€¦}
 {328}{}{Dannati schiavisti...}
-{329}{}{Per tutte le malesorti…}
+{329}{}{Per tutte le malesortiâ€¦}
 {330}{}{Ho sentito che e' arrivato un nuovo gruppo di schiavi.}
 {331}{}{Hanno portato un nuovo carico di schiave, giu' al bordello.}
 {332}{}{Congiunzione, Giunzione.}
@@ -114,25 +114,25 @@
 {336}{}{Ottimo. Un altro giocatore della domenica.}
 {337}{}{Il Banco era contro di me.}
 {338}{}{La Fortuna e' contro di me.}
-{339}{}{Sono contento che abbiano rovinato quel tipo…}
-{340}{}{Lurido puzzone…}
-{341}{}{Gli schiavisti si comportano come se fossero i padroni…}
+{339}{}{Sono contento che abbiano rovinato quel tipoâ€¦}
+{340}{}{Lurido puzzoneâ€¦}
+{341}{}{Gli schiavisti si comportano come se fossero i padroniâ€¦}
 {342}{}{Il Casino' ha avuto pieta' di me.}
-{343}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempi…}
+{343}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempiâ€¦}
 {344}{}{L'atmosfera a Reno sta diventando rovente, e' ora di andarsene.}
 {345}{}{La figlia di Bishop e' assolutamente fuori controllo.}
-{346}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predica…}
+{346}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predicaâ€¦}
 {347}{}{Ho visto Tully svenuto per strada. Di nuovo.}
 {348}{}{Dannata spazzatura del Den.}
 {349}{}{Devo andarmene da questa citta'.}
 {350}{}{Ho visto un altro morto per overdose, stamattina. Migliaia di mosche che volavano sulla sua bocca. E lui SORRIDEVA.}
-{351}{}{Ho PROVATO a smettere, ma…}
-{352}{}{Schiavisti, state in guardia quando venite in questa citta'…}
+{351}{}{Ho PROVATO a smettere, maâ€¦}
+{352}{}{Schiavisti, state in guardia quando venite in questa citta'â€¦}
 {353}{}{Odio questa fottutissima citta'.}
 {354}{}{Sono rimasto in questa citta' per troppo tempo.}
-{355}{}{Questa citta' e' splendida…se si escludono i turisti.}
-{356}{}{Questa citta' e' splendida…se si escludono gli schiavisti.}
-{357}{}{Questa citta' e' splendida…se si escludono i papponi e le troie.}
+{355}{}{Questa citta' e' splendidaâ€¦se si escludono i turisti.}
+{356}{}{Questa citta' e' splendidaâ€¦se si escludono gli schiavisti.}
+{357}{}{Questa citta' e' splendidaâ€¦se si escludono i papponi e le troie.}
 {365}{}{E' una specie di slot machine quella cosa che ti sta seguendo?}
 {366}{}{E' per caso una robo-slot machine?}
 {367}{}{Quel robot conosce forse tutti i trucchi...? Uh... trucchi magici, intendo.}
@@ -152,9 +152,9 @@
 {393}{}{Quanti selvaggi hanno intenzione di arrivare in citta'?}
 {394}{}{Un altro primate.}
 {395}{}{Quel ragazzo ha un biglietto di sola andata per il Golgotha.}
-{396}{}{La puzza che veniva dal Golgotha era terribile stanotte…}
+{396}{}{La puzza che veniva dal Golgotha era terribile stanotteâ€¦}
 {397}{}{Dannati turisti.}
-{398}{}{Per tutte le malesorti…}
+{398}{}{Per tutte le malesortiâ€¦}
 {399}{}{Ho sentito che e' arrivato un nuovo gruppo di schiavi.}
 {400}{}{Congiunzione, Giunzione.}
 {401}{}{Sto mettendo su un bel gruzzolo.}
@@ -162,25 +162,25 @@
 {403}{}{Dannati imbroglioni...}
 {404}{}{Il Banco era contro di me.}
 {405}{}{La Fortuna e' contro di me.}
-{406}{}{Sono contento che abbiano rovinato quel tipo…}
-{407}{}{Lurido puzzone…}
+{406}{}{Sono contento che abbiano rovinato quel tipoâ€¦}
+{407}{}{Lurido puzzoneâ€¦}
 {408}{}{Il Casino' ha avuto pieta' di me.}
-{409}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempi…}
+{409}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempiâ€¦}
 {410}{}{L'atmosfera a Reno sta diventando rovente, e' ora di andarsene.}
 {411}{}{La figlia di Bishop e' assolutamente fuori controllo.}
-{412}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predica…}
+{412}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predicaâ€¦}
 {413}{}{Ho visto Tully svenuto per strada. Di nuovo.}
 {414}{}{Dannato selvaggio.}
 {415}{}{Quel tipo non e' di queste parti.}
 {416}{}{Devo andarmene da questa citta'.}
 {417}{}{Ho visto un altro morto per overdose, stamattina. Migliaia di mosche che volavano sulla sua bocca. E lui SORRIDEVA.}
-{418}{}{Ho PROVATO a smettere, ma…}
+{418}{}{Ho PROVATO a smettere, maâ€¦}
 {419}{}{Perche' rischiare per ottenere un risultato simile?}
 {420}{}{Odio questa fottutissima citta'.}
 {421}{}{Sono rimasto in questa citta' per troppo tempo.}
-{422}{}{Questa citta' e' splendida…se si escludono i turisti.}
-{423}{}{Questa citta' e' splendida…se si escludono gli schiavisti.}
-{424}{}{Questa citta' e' splendida…se si escludono i papponi e le troie.}
+{422}{}{Questa citta' e' splendidaâ€¦se si escludono i turisti.}
+{423}{}{Questa citta' e' splendidaâ€¦se si escludono gli schiavisti.}
+{424}{}{Questa citta' e' splendidaâ€¦se si escludono i papponi e le troie.}
 {425}{}{La vendi, la tua donna?}
 {426}{}{Quanto vuoi per quella donna che hai li' con te?}
 {427}{}{Quella donna che hai li' con te e' davvero carina.}
@@ -190,15 +190,15 @@
 {431}{}{Stanotte si fa festa!}
 {432}{}{La signora Bishop ha davvero un gran bel culo.}
 {450}{}{La signora Bishop ha davvero un gran bel culo.}
-{451}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predica…}
+{451}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predicaâ€¦}
 {452}{}{Perfetto. Ecco un tipico bullo di tribu'.}
 {453}{}{Quanti selvaggi hanno intenzione di arrivare in citta'?}
 {454}{}{Un altro primate.}
 {455}{}{Quel selvaggio ha un biglietto di sola andata per il Golgotha.}
-{456}{}{La puzza che veniva dal Golgotha era terribile stanotte…}
-{457}{}{Non saprebbe trovarsi il culo in una tempesta di sabbia…}
+{456}{}{La puzza che veniva dal Golgotha era terribile stanotteâ€¦}
+{457}{}{Non saprebbe trovarsi il culo in una tempesta di sabbiaâ€¦}
 {458}{}{Dannati turisti.}
-{459}{}{Per tutte le malesorti…}
+{459}{}{Per tutte le malesortiâ€¦}
 {460}{}{Ho sentito che e' arrivato un nuovo gruppo di schiavi.}
 {461}{}{Congiunzione, Giunzione.}
 {462}{}{Sto mettendo su un bel gruzzolo.}
@@ -207,10 +207,10 @@
 {465}{}{Ottimo. Un altro giocatore della domenica.}
 {466}{}{Il Banco era contro di me.}
 {467}{}{La Fortuna e' contro di me.}
-{468}{}{Sono contento che abbiano rovinato quel tipo…}
-{469}{}{Lurido puzzone…}
+{468}{}{Sono contento che abbiano rovinato quel tipoâ€¦}
+{469}{}{Lurido puzzoneâ€¦}
 {470}{}{Il Casino' ha avuto pieta' di me.}
-{471}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempi…}
+{471}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempiâ€¦}
 {472}{}{L'atmosfera a Reno sta diventando rovente, e' ora di andarsene.}
 {473}{}{La figlia di Bishop e' assolutamente fuori controllo.}
 {474}{}{Ho visto Tully svenuto per strada. Di nuovo.}
@@ -218,15 +218,15 @@
 {476}{}{Quel tipo non e' di queste parti.}
 {477}{}{Devo andarmene da questa citta'.}
 {478}{}{Ho visto un altro morto per overdose, stamattina. Migliaia di mosche che volavano sulla sua bocca. E lui SORRIDEVA.}
-{479}{}{Ho PROVATO a smettere, ma…}
+{479}{}{Ho PROVATO a smettere, maâ€¦}
 {480}{}{Perche' rischiare per ottenere un risultato simile?}
 {481}{}{Odio questa fottutissima citta'.}
 {482}{}{Sono rimasto in questa citta' per troppo tempo.}
-{483}{}{Questa citta' e' splendida…se si escludono i turisti.}
-{484}{}{Questa citta' e' splendida…se si escludono gli schiavisti.}
-{485}{}{Questa citta' e' splendida…se si escludono i papponi e le troie.}
-{486}{}{Potrei farmi un giretto in centro per vedere se c'e' qualche faccia nuova in citta'…}
-{487}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predica…}
+{483}{}{Questa citta' e' splendidaâ€¦se si escludono i turisti.}
+{484}{}{Questa citta' e' splendidaâ€¦se si escludono gli schiavisti.}
+{485}{}{Questa citta' e' splendidaâ€¦se si escludono i papponi e le troie.}
+{486}{}{Potrei farmi un giretto in centro per vedere se c'e' qualche faccia nuova in citta'â€¦}
+{487}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predicaâ€¦}
 {490}{}{Sei stato grande ad incenerire il culo a quei bastardi dell'Enclave! Cosi' si fa!}
 {491}{}{L'ho sempre saputo che il Presidente voleva farci fuori tutti.}
 {492}{}{Il Presidente era vivo? Quando si sono tenute le ultime elezioni?}
@@ -245,12 +245,12 @@
 {511}{}{Mi scusi, le stavo intralciando il passo? Lascero' la citta'.}
 {512}{}{Mi scusi, stavo respirando la sua aria? La smetto subito.}
 {513}{}{::Bussa sull'armatura:: C'e' nessuno li' dentro?}
-{514}{}{"Pericolo, Will Robinson! Pericolo, Will Robinson!" Eh-eh. Uh…stavo solo scherzando.}
+{514}{}{"Pericolo, Will Robinson! Pericolo, Will Robinson!" Eh-eh. Uhâ€¦stavo solo scherzando.}
 {515}{}{Beeeeella, quest'armatura. Ha l'aria condizionata?}
 {516}{}{Non hai caldo li' dentro?}
 {517}{}{Hai perso il cuore, uomo di latta?}
-{518}{}{Uh, salve, signore…signora…qualunque cosa tu sia.}
-{519}{}{Qualcosa non va, signore…signora…qualunque cosa tu sia?}
+{518}{}{Uh, salve, signoreâ€¦signoraâ€¦qualunque cosa tu sia.}
+{519}{}{Qualcosa non va, signoreâ€¦signoraâ€¦qualunque cosa tu sia?}
 {520}{}{Sei un nuovo tipo di arcade game deambulante?}
 {521}{}{Sei una di quelle nuove console che stanno per uscire?}
 {522}{}{No, NON ho intenzione di oliarti le giunture.}
@@ -284,25 +284,25 @@
 {582}{}{Mi scusi, le stavo intralciando il passo? Lascero' la citta'.}
 {583}{}{Mi scusi, stavo respirando la sua aria? La smetto subito.}
 {584}{}{Porga i miei omaggi al boss.}
-{585}{}{Senta, per favore…non voglio guai.}
+{585}{}{Senta, per favoreâ€¦non voglio guai.}
 {586}{}{Salve, signora. Come va?}
 {587}{}{Qualcosa non va, signora?}
 {600}{}{Come mai ci sono cosi' tanti schiavisti in giro, ultimamente?}
-{601}{}{Non ti ho mai visto prima…}
+{601}{}{Non ti ho mai visto primaâ€¦}
 {602}{}{Se hai degli schiavi da vendere, prova dai Mordino.}
 {603}{}{Stai andando alle Stalle? La maggior parte degli schiavi sono tenuti laggiu'.}
 {604}{}{Fammi vedere la tua merce.}
 {605}{}{Se hai degli schiavi da vendere, fai un salto dai Mordino.}
 {606}{}{Odio questa fottutissima citta'.}
 {607}{}{Sono rimasto in questa citta' per troppo tempo.}
-{608}{}{Questa citta' e' splendida…se si escludono i turisti.}
-{609}{}{Questa citta' e' splendida…se si escludono gli schiavisti.}
-{610}{}{Questa citta' e' splendida…se si escludono i papponi e le troie.}
+{608}{}{Questa citta' e' splendidaâ€¦se si escludono i turisti.}
+{609}{}{Questa citta' e' splendidaâ€¦se si escludono gli schiavisti.}
+{610}{}{Questa citta' e' splendidaâ€¦se si escludono i papponi e le troie.}
 {611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {612}{}{Il Golgotha e' a sud di Reno, nel deserto.}
 {613}{}{Saro' anche povero, ma non mi manca lo spirito.}
 {614}{}{Non sono povero, ho solo una sfortuna nera.}
-{615}{}{La puzza che veniva dal Golgotha era terribile stanotte…}
+{615}{}{La puzza che veniva dal Golgotha era terribile stanotteâ€¦}
 {616}{}{Cavoli! Vedi che ero sopra di 53 dollari, allora...}
 {617}{}{Farai meglio a stare in guardia quando sei in citta', o ti farai un viaggio di sola andata al Golgotha.}
 {618}{}{New Reno non sarebbe un brutto posto se non fosse per tutti quei dannati turisti.}
@@ -313,17 +313,17 @@
 {623}{}{Un giocatore della domenica e' uno che viene in citta' e punta ai tavoli solo un paio di dollari.}
 {624}{}{Il Banco era contro di me.}
 {625}{}{La Fortuna e' contro di me.}
-{626}{}{Sono contento che abbiano rovinato quel tipo…}
-{627}{}{Lurido puzzone…}
+{626}{}{Sono contento che abbiano rovinato quel tipoâ€¦}
+{627}{}{Lurido puzzoneâ€¦}
 {628}{}{Cosa vuoi?}
-{629}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempi…}
+{629}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempiâ€¦}
 {630}{}{L'atmosfera a Reno sta diventando rovente, e' ora di andarsene.}
 {631}{}{La figlia di Bishop e' assolutamente fuori controllo.}
-{632}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predica…}
+{632}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predicaâ€¦}
 {633}{}{Ho visto Tully svenuto per strada. Di nuovo.}
 {634}{}{Devo andarmene da questa citta'.}
 {635}{}{Ho visto un altro morto per overdose, stamattina. Migliaia di mosche che volavano sulla sua bocca. E lui SORRIDEVA.}
-{636}{}{Ho PROVATO a smettere, ma…}
+{636}{}{Ho PROVATO a smettere, maâ€¦}
 {637}{}{Smettila di disturbarmi.}
 {638}{}{Senti, adesso non ho tempo per parlare con te.}
 {650}{}{Il tuo amico ha un osso nel naso.}
@@ -335,14 +335,14 @@
 {656}{}{Non voglio assolutamente sapere cosa abbia fatto il tuo amico per avere un osso infilato nel naso.}
 {657}{}{Odio questa fottutissima citta'.}
 {658}{}{Sono rimasto in questa citta' per troppo tempo.}
-{659}{}{Questa citta' e' splendida…se si escludono i turisti.}
-{660}{}{Questa citta' e' splendida…se si escludono gli schiavisti.}
-{661}{}{Questa citta' e' splendida…se si escludono i papponi e le troie.}
+{659}{}{Questa citta' e' splendidaâ€¦se si escludono i turisti.}
+{660}{}{Questa citta' e' splendidaâ€¦se si escludono gli schiavisti.}
+{661}{}{Questa citta' e' splendidaâ€¦se si escludono i papponi e le troie.}
 {662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {663}{}{Il Golgotha e' a sud di Reno, nel deserto.}
 {664}{}{Saro' anche povero, ma non mi manca lo spirito.}
 {665}{}{Non sono povero, ho solo una sfortuna nera.}
-{666}{}{La puzza che veniva dal Golgotha era terribile stanotte…}
+{666}{}{La puzza che veniva dal Golgotha era terribile stanotteâ€¦}
 {667}{}{Cavoli! Vedi che ero sopra di 53 dollari, allora...}
 {668}{}{Farai meglio a stare in guardia quando sei in citta', o ti farai un viaggio di sola andata al Golgotha.}
 {669}{}{New Reno non sarebbe un brutto posto se non fosse per tutti quei dannati turisti.}
@@ -353,17 +353,17 @@
 {674}{}{Un giocatore della domenica e' uno che viene in citta' e punta ai tavoli solo un paio di dollari.}
 {675}{}{Il Banco era contro di me.}
 {676}{}{La Fortuna e' contro di me.}
-{677}{}{Sono contento che abbiano rovinato quel tipo…}
-{678}{}{Lurido puzzone…}
+{677}{}{Sono contento che abbiano rovinato quel tipoâ€¦}
+{678}{}{Lurido puzzoneâ€¦}
 {679}{}{Cosa vuoi?}
-{680}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempi…}
+{680}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempiâ€¦}
 {681}{}{L'atmosfera a Reno sta diventando rovente, e' ora di andarsene.}
 {682}{}{La figlia di Bishop e' assolutamente fuori controllo.}
-{683}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predica…}
+{683}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predicaâ€¦}
 {684}{}{Ho visto Tully svenuto per strada. Di nuovo.}
 {685}{}{Devo andarmene da questa citta'.}
 {686}{}{Ho visto un altro morto per overdose, stamattina. Migliaia di mosche che volavano sulla sua bocca. E lui SORRIDEVA.}
-{687}{}{Ho PROVATO a smettere, ma…}
+{687}{}{Ho PROVATO a smettere, maâ€¦}
 {688}{}{Smettila di disturbarmi.}
 {689}{}{Senti, adesso non ho tempo per parlare con te.}
 {690}{}{Lei e' tua "moglie", eh? Me la presti per un'oretta o due?}
@@ -384,7 +384,7 @@
 {707}{}{Quanti selvaggi hanno intenzione di arrivare in citta'?}
 {708}{}{Di' al resto della tua tribu' di starsene a casa.}
 {709}{}{Un altro primate? Voi selvaggi vi moltiplicate come mantidi.}
-{710}{}{La puzza che veniva dal Golgotha era terribile stanotte…}
+{710}{}{La puzza che veniva dal Golgotha era terribile stanotteâ€¦}
 {711}{}{Cavoli! Vedi che ero sopra di 53 dollari, allora...}
 {712}{}{Farai meglio a stare in guardia quando sei in citta', o ti farai un viaggio di sola andata al Golgotha.}
 {713}{}{New Reno non sarebbe un brutto posto se non fosse per tutti quei dannati turisti.}
@@ -397,21 +397,21 @@
 {720}{}{Un giocatore della domenica e' uno che viene in citta' e punta ai tavoli solo un paio di dollari.}
 {721}{}{Il Banco era contro di me.}
 {722}{}{La Fortuna e' contro di me.}
-{723}{}{Sono contento che abbiano rovinato quel tipo…}
-{724}{}{Lurido puzzone…}
+{723}{}{Sono contento che abbiano rovinato quel tipoâ€¦}
+{724}{}{Lurido puzzoneâ€¦}
 {725}{}{Cosa vuoi?}
-{726}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempi…}
+{726}{}{Sfortuna, malafede, non sono bei tempi, non sono bei tempiâ€¦}
 {727}{}{L'atmosfera a Reno sta diventando rovente, e' ora di andarsene.}
 {728}{}{La figlia di Bishop e' assolutamente fuori controllo.}
-{729}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predica…}
+{729}{}{Se quelli dell'Associazione Sobrieta' mi fanno ancora la predicaâ€¦}
 {730}{}{Ho visto Tully svenuto per strada. Di nuovo.}
 {731}{}{Devo andarmene da questa citta'.}
 {732}{}{Ho visto un altro morto per overdose, stamattina. Migliaia di mosche che volavano sulla sua bocca. E lui SORRIDEVA.}
-{733}{}{Ho PROVATO a smettere, ma…}
+{733}{}{Ho PROVATO a smettere, maâ€¦}
 {734}{}{Smettila di disturbarmi.}
 {735}{}{Senti, adesso non ho tempo per parlare con te.}
-{736}{}{Potrei farmi un giretto in centro per vedere se c'e' qualche faccia nuova in citta'…}
-{737}{}{Sono contento che abbiano rovinato quello stronzo…}
+{736}{}{Potrei farmi un giretto in centro per vedere se c'e' qualche faccia nuova in citta'â€¦}
+{737}{}{Sono contento che abbiano rovinato quello stronzoâ€¦}
 {1203}{}{!}
 {1204}{}{! Sei forte! Sei FORTE!}
 {1205}{}{! Sei il MIGLIORE!}

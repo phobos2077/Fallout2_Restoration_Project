@@ -1,11 +1,11 @@
-{100}{}{A lények észak-keletr?l jöttek. Nem lehet nehéz követni a nyomaikat vissza a fészkükig. (Észak-keletre van a Kilép? mez?)}
-{101}{}{Azta, ez baromi unalmas. Remélem, történik valami.}
+{100}{}{A lÃ©nyek Ã©szak-keletr?l jÃ¶ttek. Nem lehet nehÃ©z kÃ¶vetni a nyomaikat vissza a fÃ©szkÃ¼kig. (Ã‰szak-keletre van a KilÃ©p? mez?)}
+{101}{}{Azta, ez baromi unalmas. RemÃ©lem, tÃ¶rtÃ©nik valami.}
 {102}{}{Mennyi lehet az id??...}
 {103}{}{Hmmm, ez unalmas.}
 {104}{}{Zzzz...Zzz... huhh, ha...?}
-{105}{}{Nézd - ember ?riz brahmin.}
-{106}{}{Gruthar mondani, mi menni. Nem bántani ember.}
-{107}{}{Nézd! Ez}
+{105}{}{NÃ©zd - ember ?riz brahmin.}
+{106}{}{Gruthar mondani, mi menni. Nem bÃ¡ntani ember.}
+{107}{}{NÃ©zd! Ez}
 {108}{}{. Mi megy.}
-{109}{}{Furcsa. Rossz dolgok beszélni?}
-{110}{}{Beszél? Halálkarmok. Ez furcsa...}
+{109}{}{Furcsa. Rossz dolgok beszÃ©lni?}
+{110}{}{BeszÃ©l? HalÃ¡lkarmok. Ez furcsa...}

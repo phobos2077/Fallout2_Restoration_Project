@@ -1,82 +1,82 @@
-{100}{}{Egy szemüveget visel?, vékony fiatalember.}
-{101}{}{? Günther, Tandi elnökn? titkára. Legalábbis az ajtóra biggyesztett tábla tanúsága szerint.}
-{102}{}{Nagyon hivatalosnak és elfoglaltnak t?nik. Olyan típus, aki bürokratának születik, és ezért mindenki utálja.}
-{103}{}{Segíthetek?}
-{104}{}{Már megint maga az?}
-{105}{}{Öööö - munka. Dolgozza Tandi.}
+{100}{}{Egy szemÃ¼veget visel?, vÃ©kony fiatalember.}
+{101}{}{? GÃ¼nther, Tandi elnÃ¶kn? titkÃ¡ra. LegalÃ¡bbis az ajtÃ³ra biggyesztett tÃ¡bla tanÃºsÃ¡ga szerint.}
+{102}{}{Nagyon hivatalosnak Ã©s elfoglaltnak t?nik. Olyan tÃ­pus, aki bÃ¼rokratÃ¡nak szÃ¼letik, Ã©s ezÃ©rt mindenki utÃ¡lja.}
+{103}{}{SegÃ­thetek?}
+{104}{}{MÃ¡r megint maga az?}
+{105}{}{Ã–Ã¶Ã¶Ã¶ - munka. Dolgozza Tandi.}
 {106}{}{Ki vagy te?}
-{107}{}{Tandi elnökn?höz jöttem munka ügyében.}
-{108}{}{Elnézést, rossz irodába jöttem.}
-{109}{}{Munkát szeretne?}
-{110}{}{Akkor próbálkozzunk újra! Segít Tandinak? Munkát akar Tanditól?}
+{107}{}{Tandi elnÃ¶kn?hÃ¶z jÃ¶ttem munka Ã¼gyÃ©ben.}
+{108}{}{ElnÃ©zÃ©st, rossz irodÃ¡ba jÃ¶ttem.}
+{109}{}{MunkÃ¡t szeretne?}
+{110}{}{Akkor prÃ³bÃ¡lkozzunk Ãºjra! SegÃ­t Tandinak? MunkÃ¡t akar TanditÃ³l?}
 {111}{}{Igenigenigenigen!}
-{112}{}{Tandi munka. Én akarja.}
-{113}{}{Mit te csinál?}
-{114}{}{Ööööö... én öl, én öl... nagyon!}
-{115}{}{Ööööö... én ravasz. Törzsf? mongya gyerekesz?. Két agy lenni nekem. Ravasz lenni.}
-{116}{}{Maga nem vállalhatja el az elnökn? által felajánlott munkát!}
+{112}{}{Tandi munka. Ã‰n akarja.}
+{113}{}{Mit te csinÃ¡l?}
+{114}{}{Ã–Ã¶Ã¶Ã¶Ã¶... Ã©n Ã¶l, Ã©n Ã¶l... nagyon!}
+{115}{}{Ã–Ã¶Ã¶Ã¶Ã¶... Ã©n ravasz. TÃ¶rzsf? mongya gyerekesz?. KÃ©t agy lenni nekem. Ravasz lenni.}
+{116}{}{Maga nem vÃ¡llalhatja el az elnÃ¶kn? Ã¡ltal felajÃ¡nlott munkÃ¡t!}
 {117}{}{Nem?}
-{118}{}{Óh... rendbe'...}
+{118}{}{Ã“h... rendbe'...}
 {119}{}{Right. I'm not sure that's what she's looking for. Oh well, she said send them all in. You go. Talk Tandi now.}
-{120}{}{NEM! Te lenni lágyagyú. Elnök biztos ravasz, két szótagú szókat beszélje! Te nem lenni elnök.}
-{121}{}{Óh. Mit én csináljam?}
-{122}{}{Én nem szeresse tégedet. Üvöltöl. Rossz ember!}
-{123}{}{Günthernek hívnak, én vagyok Tandi elnökn? személyi titkára. Mit tehetek magáért?}
-{124}{}{A 13-as Menedéket keresem.}
-{125}{}{Egy ÉLET-et keresek.}
-{126}{}{Tudomásomra jutott, hogy az elnökn? szeretne megcsináltatni valami munkát.}
-{127}{}{Az Elnökn? asszony már nem fogad senkit a 13-as Menedék ügyében. Túlságosan elfoglalt, hogy minden egyes földmér?vel szóba álljon.}
-{128}{}{Hogy? Nem értem.}
+{120}{}{NEM! Te lenni lÃ¡gyagyÃº. ElnÃ¶k biztos ravasz, kÃ©t szÃ³tagÃº szÃ³kat beszÃ©lje! Te nem lenni elnÃ¶k.}
+{121}{}{Ã“h. Mit Ã©n csinÃ¡ljam?}
+{122}{}{Ã‰n nem szeresse tÃ©gedet. ÃœvÃ¶ltÃ¶l. Rossz ember!}
+{123}{}{GÃ¼nthernek hÃ­vnak, Ã©n vagyok Tandi elnÃ¶kn? szemÃ©lyi titkÃ¡ra. Mit tehetek magÃ¡Ã©rt?}
+{124}{}{A 13-as MenedÃ©ket keresem.}
+{125}{}{Egy Ã‰LET-et keresek.}
+{126}{}{TudomÃ¡somra jutott, hogy az elnÃ¶kn? szeretne megcsinÃ¡ltatni valami munkÃ¡t.}
+{127}{}{Az ElnÃ¶kn? asszony mÃ¡r nem fogad senkit a 13-as MenedÃ©k Ã¼gyÃ©ben. TÃºlsÃ¡gosan elfoglalt, hogy minden egyes fÃ¶ldmÃ©r?vel szÃ³ba Ã¡lljon.}
+{128}{}{Hogy? Nem Ã©rtem.}
 {129}{}{What about a GECK? She might know something about that?}
-{130}{}{Beszélik, hogy esetleg valami megbízatást lehetne itt kapni.}
-{131}{}{Maga egyszer?en hasznavehetetlen. Le is léptem...}
-{132}{}{Akkor javaslom, hogy olvassa el az odakinn lév? plakátot. Minden jót magának!}
-{133}{}{Fogalmam sincs, mir?l beszél. Fel tud tenni valami értékelhet? kérdést?}
-{134}{}{A 13-as Menedéket keresem.}
-{135}{}{Tudomásomra jutott, hogy az elnökn? szeretne megcsináltatni valami munkát.}
-{136}{}{Értem.}
-{137}{}{Ah, igen... Azt mondta, bárkit, aki ez ügyben jelentkezik, küldjek be hozzá. Már jeleztem az érkezését. Fáradjon be a jobbra lév? ajtón!}
-{138}{}{Az Elnökn? Asszony végzett? Hogy mentek a dolgok?}
-{139}{}{Jól. Én mondja viszlátot.}
+{130}{}{BeszÃ©lik, hogy esetleg valami megbÃ­zatÃ¡st lehetne itt kapni.}
+{131}{}{Maga egyszer?en hasznavehetetlen. Le is lÃ©ptem...}
+{132}{}{Akkor javaslom, hogy olvassa el az odakinn lÃ©v? plakÃ¡tot. Minden jÃ³t magÃ¡nak!}
+{133}{}{Fogalmam sincs, mir?l beszÃ©l. Fel tud tenni valami Ã©rtÃ©kelhet? kÃ©rdÃ©st?}
+{134}{}{A 13-as MenedÃ©ket keresem.}
+{135}{}{TudomÃ¡somra jutott, hogy az elnÃ¶kn? szeretne megcsinÃ¡ltatni valami munkÃ¡t.}
+{136}{}{Ã‰rtem.}
+{137}{}{Ah, igen... Azt mondta, bÃ¡rkit, aki ez Ã¼gyben jelentkezik, kÃ¼ldjek be hozzÃ¡. MÃ¡r jeleztem az Ã©rkezÃ©sÃ©t. FÃ¡radjon be a jobbra lÃ©v? ajtÃ³n!}
+{138}{}{Az ElnÃ¶kn? Asszony vÃ©gzett? Hogy mentek a dolgok?}
+{139}{}{JÃ³l. Ã‰n mondja viszlÃ¡tot.}
 {140}{}{Nem volt rossz. Most mennem kell.}
-{141}{}{Azért van itt, hogy a 15-ös Menedék sorsáról tárgyaljon?}
+{141}{}{AzÃ©rt van itt, hogy a 15-Ã¶s MenedÃ©k sorsÃ¡rÃ³l tÃ¡rgyaljon?}
 {142}{}{Igen.}
 {143}{}{Nem.}
-{144}{}{Sajnálom, de az Elnökn? Asszony most nagyon elfoglalt. Miért nem jön akkor vissza, ha végzett a feladattal?}
-{145}{}{Oké.}
-{146}{}{Kiváló! Máris bemehet.}
-{147}{}{Mocsokláda! ?rség! Bérgyilkos!}
-{148}{}{Ilyen hamar visszajött? Mi a helyzet?}
+{144}{}{SajnÃ¡lom, de az ElnÃ¶kn? Asszony most nagyon elfoglalt. MiÃ©rt nem jÃ¶n akkor vissza, ha vÃ©gzett a feladattal?}
+{145}{}{OkÃ©.}
+{146}{}{KivÃ¡lÃ³! MÃ¡ris bemehet.}
+{147}{}{MocsoklÃ¡da! ?rsÃ©g! BÃ©rgyilkos!}
+{148}{}{Ilyen hamar visszajÃ¶tt? Mi a helyzet?}
 {149}{}{Jut-alom.}
-{150}{}{Az elnökn? jutalomban akarja részesíteni.}
-{151}{}{Kész-péz.}
-{152}{}{Azért jöttem, hogy átvegyem a fizetségem.}
-{153}{}{A maguk elnökn?je szerint egy beépült kém van a soraik között. Egy Feargus nev? egyén.}
+{150}{}{Az elnÃ¶kn? jutalomban akarja rÃ©szesÃ­teni.}
+{151}{}{KÃ©sz-pÃ©z.}
+{152}{}{AzÃ©rt jÃ¶ttem, hogy Ã¡tvegyem a fizetsÃ©gem.}
+{153}{}{A maguk elnÃ¶kn?je szerint egy beÃ©pÃ¼lt kÃ©m van a soraik kÃ¶zÃ¶tt. Egy Feargus nev? egyÃ©n.}
 {154}{}{Semmi.}
-{155}{}{Természetesen felhívta rá a figyelmemet. Tessék, fogadja el ezt a 6000 dollárt, és az ÚKK köszönetét, egyenesen az Elnökn?t?l. Most azonban dolgom van. Minden jót!}
-{156}{}{Nézzük csak... a szerz?dés szerint 500 dollár jár magának. Parancsoljon...}
-{157}{}{Az igazság az, hogy utasított az összeg módosítására. Úgy t?nik, egy kis bónusszal gazdagodott. Tessék, 900 dollár és az ÚKK köszönete. Most azonban dolgom van. Minden jót!}
-{158}{}{A maguk elnökn?je szerint egy beépült kém van a soraik között. Egy Feargus nev? egyén.}
-{159}{}{Viszlát!}
-{160}{}{Feargus? Képtelen vagyok elhinni!}
-{161}{}{Nézze meg ezt a hololemezt!}
+{155}{}{TermÃ©szetesen felhÃ­vta rÃ¡ a figyelmemet. TessÃ©k, fogadja el ezt a 6000 dollÃ¡rt, Ã©s az ÃšKK kÃ¶szÃ¶netÃ©t, egyenesen az ElnÃ¶kn?t?l. Most azonban dolgom van. Minden jÃ³t!}
+{156}{}{NÃ©zzÃ¼k csak... a szerz?dÃ©s szerint 500 dollÃ¡r jÃ¡r magÃ¡nak. Parancsoljon...}
+{157}{}{Az igazsÃ¡g az, hogy utasÃ­tott az Ã¶sszeg mÃ³dosÃ­tÃ¡sÃ¡ra. Ãšgy t?nik, egy kis bÃ³nusszal gazdagodott. TessÃ©k, 900 dollÃ¡r Ã©s az ÃšKK kÃ¶szÃ¶nete. Most azonban dolgom van. Minden jÃ³t!}
+{158}{}{A maguk elnÃ¶kn?je szerint egy beÃ©pÃ¼lt kÃ©m van a soraik kÃ¶zÃ¶tt. Egy Feargus nev? egyÃ©n.}
+{159}{}{ViszlÃ¡t!}
+{160}{}{Feargus? KÃ©ptelen vagyok elhinni!}
+{161}{}{NÃ©zze meg ezt a hololemezt!}
 {162}{}{Teljesen mindegy. Indulok...}
-{163}{}{A fenébe! Komolynak t?nik. Majd utána nézünk az esetnek. Fogadjon el 4000 dollárt az információért!}
-{164}{}{Vérdíjat nem fogadok el. Ég áldja...}
-{165}{}{Köszönöm. Szép napot!}
-{166}{}{Ó, maga az? Nézze, ez most nem a legjobb alkalom. Azt hiszem, az Elnökn? Asszony nem szeretné, ha maga bármibe is belefolyna. Köszönöm, és legyen jó napja!}
-{167}{}{Megpróbálom érthet?en elmagyarázni. Az elnökn? nem akar találkozni magával. Sem most, sem máskor. Megkapta a pénzét, most már távozhat!}
-{171}{}{Én menni elfele.}
-{172}{}{Abszolúte semmit.}
-{173}{}{Szemétláda! ?rség! Bérgyilkos!}
-{174}{}{Voltam a 15-ös Menedékben és beszélnem kell ezügyben a f?nökével.}
-{175}{}{Én kellje beszé'ni 15-ös Menelék ügy.}
-{176}{}{Tudnia kell, hogy egy beépült kém van a soraik között, egy F. kezd?bet?s.}
+{163}{}{A fenÃ©be! Komolynak t?nik. Majd utÃ¡na nÃ©zÃ¼nk az esetnek. Fogadjon el 4000 dollÃ¡rt az informÃ¡ciÃ³Ã©rt!}
+{164}{}{VÃ©rdÃ­jat nem fogadok el. Ã‰g Ã¡ldja...}
+{165}{}{KÃ¶szÃ¶nÃ¶m. SzÃ©p napot!}
+{166}{}{Ã“, maga az? NÃ©zze, ez most nem a legjobb alkalom. Azt hiszem, az ElnÃ¶kn? Asszony nem szeretnÃ©, ha maga bÃ¡rmibe is belefolyna. KÃ¶szÃ¶nÃ¶m, Ã©s legyen jÃ³ napja!}
+{167}{}{MegprÃ³bÃ¡lom Ã©rthet?en elmagyarÃ¡zni. Az elnÃ¶kn? nem akar talÃ¡lkozni magÃ¡val. Sem most, sem mÃ¡skor. Megkapta a pÃ©nzÃ©t, most mÃ¡r tÃ¡vozhat!}
+{171}{}{Ã‰n menni elfele.}
+{172}{}{AbszolÃºte semmit.}
+{173}{}{SzemÃ©tlÃ¡da! ?rsÃ©g! BÃ©rgyilkos!}
+{174}{}{Voltam a 15-Ã¶s MenedÃ©kben Ã©s beszÃ©lnem kell ezÃ¼gyben a f?nÃ¶kÃ©vel.}
+{175}{}{Ã‰n kellje beszÃ©'ni 15-Ã¶s MenelÃ©k Ã¼gy.}
+{176}{}{Tudnia kell, hogy egy beÃ©pÃ¼lt kÃ©m van a soraik kÃ¶zÃ¶tt, egy F. kezd?bet?s.}
 {177}{}{Me also find spy. Ferrrgus.}
 {178}{}{Me no lie. Lookie. (You hand him the disk.)}
-{179}{}{Köszkee.}
-{500}{}{Megvan az okunk, miért tartjuk zárva az ajtókat.}
-{501}{}{Meg kell kérnem, hogy távozzon!}
-{502}{}{Ez az utolsó figyelmeztetés. Távozzon, miel?tt el kéne távolíttatnom!}
-{503}{}{?rség... szíveskedjenek móresre tanítani ezt az illet?t!}
+{179}{}{KÃ¶szkee.}
+{500}{}{Megvan az okunk, miÃ©rt tartjuk zÃ¡rva az ajtÃ³kat.}
+{501}{}{Meg kell kÃ©rnem, hogy tÃ¡vozzon!}
+{502}{}{Ez az utolsÃ³ figyelmeztetÃ©s. TÃ¡vozzon, miel?tt el kÃ©ne tÃ¡volÃ­ttatnom!}
+{503}{}{?rsÃ©g... szÃ­veskedjenek mÃ³resre tanÃ­tani ezt az illet?t!}
 {510}{}{Well, wait a minute. I have more to discuss with your boss about Vault 15.}

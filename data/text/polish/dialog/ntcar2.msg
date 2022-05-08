@@ -1,9 +1,9 @@
-{100}{}{Samochód by³ zaparkowany dok³adnie tutaj!}
-{101}{}{Ja przysiêgaæ ja zaparkowaæ tutaj!}
-{150}{}{Gdy zbli¿asz siê do miejsca, gdzie by³ zaparkowany wóz, zauwa¿asz niewyraŸne œlady kó³ prowadz¹ce na pó³noc.}
-{151}{}{Widzisz œlady kó³ prowadz¹ce na pó³noc.}
-{152}{}{Widzisz œlady kó³!}
-{153}{}{(Iœæ za œlady!)}
-{154}{}{(Nie iœæ za œlady.)}
-{155}{}{(IdŸ po œladach.)}
+{100}{}{SamochÃ³d byÅ‚ zaparkowany dokÅ‚adnie tutaj!}
+{101}{}{Ja przysiÄ™gaÄ‡ ja zaparkowaÄ‡ tutaj!}
+{150}{}{Gdy zbliÅ¼asz siÄ™ do miejsca, gdzie byÅ‚ zaparkowany wÃ³z, zauwaÅ¼asz niewyraÅºne Å›lady kÃ³Å‚ prowadzÄ…ce na pÃ³Å‚noc.}
+{151}{}{Widzisz Å›lady kÃ³Å‚ prowadzÄ…ce na pÃ³Å‚noc.}
+{152}{}{Widzisz Å›lady kÃ³Å‚!}
+{153}{}{(IÅ›Ä‡ za Å›lady!)}
+{154}{}{(Nie iÅ›Ä‡ za Å›lady.)}
+{155}{}{(IdÅº po Å›ladach.)}
 {156}{}{(Zignoruj je.)}

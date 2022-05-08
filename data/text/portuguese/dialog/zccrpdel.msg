@@ -123,9 +123,9 @@
 {683}{}{Aposta na vantagem 8}
 {684}{}{Aposta na vantagem 9}
 {685}{}{Aposta na vantagem 10}
-{700}{}{Aposta de vantagem n„o devolvida.}
+{700}{}{Aposta de vantagem n√£o devolvida.}
 {701}{}{Jogue}
-{702}{}{N„o}
+{702}{}{N√£o}
 {710}{}{Dado 1:}
 {711}{}{Dado 2:}
 {712}{}{Sorry, I have to leave.}

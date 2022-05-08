@@ -1,122 +1,122 @@
-{100}{}{Ves a un viejo huesudo con un lápiz enganchado tras la oreja y unos anteojos en la punta de la nariz.}
+{100}{}{Ves a un viejo huesudo con un lÃ¡piz enganchado tras la oreja y unos anteojos en la punta de la nariz.}
 {101}{}{Es Vortis, el propietario de este centro de esclavos.}
-{102}{}{Tiene como unos tres dientes. Sus dedos y su camisa están manchados de tinta azul. Tiene un tatuaje de esclavista realmente desteñido en la frente.}
-{103}{}{Y.. ¿qué es lo que quiere?}
-{104}{}{Amigo, bienvenido a El Portal de Vortis. ¿En qué puedo ayudarte?}
-{105}{}{Estás empezando a cansarme.}
-{106}{}{Este lugar es MI lugar y yo, Vortis, dirijo un negocio honesto y legítimo y no importa lo que nadie de la RNC te diga. Ya que la RNC no permite esclavos entre sus muros, yo cuido de ellos para los tipos que tienen negocios en el interior.}
-{107}{}{¿Qué pasa contigo, eres tonto? Este es un centro de esclavos. Tengo licencia para ello.}
+{102}{}{Tiene como unos tres dientes. Sus dedos y su camisa estÃ¡n manchados de tinta azul. Tiene un tatuaje de esclavista realmente desteÃ±ido en la frente.}
+{103}{}{Y.. Â¿quÃ© es lo que quiere?}
+{104}{}{Amigo, bienvenido a El Portal de Vortis. Â¿En quÃ© puedo ayudarte?}
+{105}{}{EstÃ¡s empezando a cansarme.}
+{106}{}{Este lugar es MI lugar y yo, Vortis, dirijo un negocio honesto y legÃ­timo y no importa lo que nadie de la RNC te diga. Ya que la RNC no permite esclavos entre sus muros, yo cuido de ellos para los tipos que tienen negocios en el interior.}
+{107}{}{Â¿QuÃ© pasa contigo, eres tonto? Este es un centro de esclavos. Tengo licencia para ello.}
 {108}{}{}
-{109}{}{Sólo necesito hacer unas preguntas.}
+{109}{}{SÃ³lo necesito hacer unas preguntas.}
 {110}{}{Estoy buscando trabajo.}
-{111}{}{¿Eh?}
-{112}{}{¿No es letrina? Marcho ya.}
-{113}{}{¿Qué se hace en este lugar?}
+{111}{}{Â¿Eh?}
+{112}{}{Â¿No es letrina? Marcho ya.}
+{113}{}{Â¿QuÃ© se hace en este lugar?}
 {114}{}{Nada. Lugar equivocado.}
-{115}{}{Oh, mira: un buenazo que ayuda a cruzar la calle a las ancianitas. ¡Muchachos, escoltad a este hipócrita modelo de virtud santificada fuera de mi vista!}
+{115}{}{Oh, mira: un buenazo que ayuda a cruzar la calle a las ancianitas. Â¡Muchachos, escoltad a este hipÃ³crita modelo de virtud santificada fuera de mi vista!}
 {116}{}{Hay que joderse.}
-{117}{}{¿Bien?}
+{117}{}{Â¿Bien?}
 {118}{}{Estoy buscando el Refugio 13.}
-{119}{}{¿Tienes un GECK?}
-{120}{}{¿Qué me puedes contar de esta ciudad?}
-{121}{}{¡Eres escoria esclavista! ¿Por qué no debería matarte?}
-{122}{}{He oído hablar de esos tipos... los Rangers de Nueva California. ¿Te han dado algún problema?}
-{123}{}{¿Te importa si echo una vistazo por aquí?}
-{124}{}{¿Trabajo? Bien... podría haber algo. ¿Has oído hablar los Rangers de Nueva California?}
-{125}{}{Sí.}
+{119}{}{Â¿Tienes un GECK?}
+{120}{}{Â¿QuÃ© me puedes contar de esta ciudad?}
+{121}{}{Â¡Eres escoria esclavista! Â¿Por quÃ© no deberÃ­a matarte?}
+{122}{}{He oÃ­do hablar de esos tipos... los Rangers de Nueva California. Â¿Te han dado algÃºn problema?}
+{123}{}{Â¿Te importa si echo una vistazo por aquÃ­?}
+{124}{}{Â¿Trabajo? Bien... podrÃ­a haber algo. Â¿Has oÃ­do hablar los Rangers de Nueva California?}
+{125}{}{SÃ­.}
 {126}{}{No.}
 {127}{}{Que te jodan. Muchachos, escoltad a esta molesta escoria fuera de mi vista.}
-{128}{}{¡Chúpamela!}
-{129}{}{¡Refugio! Lárgate de aquí. Ese maldito lugar es un mito. Refugio 13, mis cojones.}
+{128}{}{Â¡ChÃºpamela!}
+{129}{}{Â¡Refugio! LÃ¡rgate de aquÃ­. Ese maldito lugar es un mito. Refugio 13, mis cojones.}
 {130}{}{Otra pregunta...}
 {131}{}{Bien, gracias por nada.}
-{132}{}{¿Un qué? Bueno, lo que quiera que sea, no lo tengo.}
+{132}{}{Â¿Un quÃ©? Bueno, lo que quiera que sea, no lo tengo.}
 {133}{}{Otra pregunta...}
 {134}{}{Bien, gracias por nada.}
-{135}{}{República de Nueva California: nada más que tipejos moderados y comerciantes. No les gusta un pelo ni los esclavistas ni la esclavitud, pero qué puñetas, ese es mi negocio.}
+{135}{}{RepÃºblica de Nueva California: nada mÃ¡s que tipejos moderados y comerciantes. No les gusta un pelo ni los esclavistas ni la esclavitud, pero quÃ© puÃ±etas, ese es mi negocio.}
 {136}{}{Otra pregunta...}
 {137}{}{Gracias, tengo que irme.}
-{138}{}{Alguien te ha tomado el pelo. No tengo problemas con nadie: especialmente ninguno con los Rangers. Tengo todos los requisitos legales, así que no tienen nada contra mí.}
+{138}{}{Alguien te ha tomado el pelo. No tengo problemas con nadie: especialmente ninguno con los Rangers. Tengo todos los requisitos legales, asÃ­ que no tienen nada contra mÃ­.}
 {139}{}{Otra pregunta...}
-{140}{}{Lo que tú digas. Me marcho.}
-{141}{}{Sí, tengo mis opiniones acerca de los Rangers. ¿Estás buscando trabajo?}
-{142}{}{Sí.}
+{140}{}{Lo que tÃº digas. Me marcho.}
+{141}{}{SÃ­, tengo mis opiniones acerca de los Rangers. Â¿EstÃ¡s buscando trabajo?}
+{142}{}{SÃ­.}
 {143}{}{No.}
-{144}{}{¡No, no puedes ir a husmear, tonto del culo! ¡Esto no es un museo!}
+{144}{}{Â¡No, no puedes ir a husmear, tonto del culo! Â¡Esto no es un museo!}
 {145}{}{Otra pregunta...}
 {146}{}{Eres demasiado susceptible para mi gusto. Me marcho.}
-{147}{}{Pues bien, deberías saber que ciertos tipos los ven como un problema potencial. Sería extremadamente útil que tuviéramos un mapa de sus pisos francos por todo el norte: Nuevo Reno, Klamath, donde sea. Estaría dispuesto a pagar, digamos, 500 dólares por algo así. ¿Crees que me lo podrías conseguir?}
+{147}{}{Pues bien, deberÃ­as saber que ciertos tipos los ven como un problema potencial. SerÃ­a extremadamente Ãºtil que tuviÃ©ramos un mapa de sus pisos francos por todo el norte: Nuevo Reno, Klamath, donde sea. EstarÃ­a dispuesto a pagar, digamos, 500 dÃ³lares por algo asÃ­. Â¿Crees que me lo podrÃ­as conseguir?}
 {148}{}{Claro.}
 {149}{}{Creo que no.}
-{150}{}{Entonces déjame que te cuente. Estos Rangers tienen metido en la cabeza el eliminar la esclavitud y a los esclavistas... por la fuerza. Han estado provocando una gran cantidad de problemas a los que nos dedicamos a ello.}
+{150}{}{Entonces dÃ©jame que te cuente. Estos Rangers tienen metido en la cabeza el eliminar la esclavitud y a los esclavistas... por la fuerza. Han estado provocando una gran cantidad de problemas a los que nos dedicamos a ello.}
 {151}{}{Trabajan en secreto, especialmente por el norte.}
-{152}{}{Joder, ¿te lo tengo que explicar todo? Atacan a los esclavistas, liberan a las existencias, y los dirigen al sur, a las tierras de la RNC en las que la esclavitud es ilegal. ¿Te interesa entonces?}
-{153}{}{¡Nada de "y"! ¿Quieres el trabajo o no?}
-{154}{}{¿Y?}
-{155}{}{Entonces, ¿qué quieres que haga?}
-{156}{}{Correcto. Cuando consiga un mapa, vendré por aquí.}
-{157}{}{¿Dónde voy a encontrar un mapa?}
-{158}{}{De acuerdo, aunque tengo algunas preguntas más.}
-{159}{}{Estoy en ello. Te veré entonces.}
-{160}{}{¿¡Cómo diablos voy a saberlo!? Si lo supiera, lo tendría, ¿no te parece? Mira, se supone que hay una célula en la ciudad. Encuéntrala y mira a ver lo que puedes hacer.}
-{161}{}{Sólo unas pocas preguntas más.}
-{162}{}{De acuerdo. Volveré.}
-{163}{}{Ya has vuelto. ¿Conseguiste ese mapa?}
-{164}{}{Sí.}
+{152}{}{Joder, Â¿te lo tengo que explicar todo? Atacan a los esclavistas, liberan a las existencias, y los dirigen al sur, a las tierras de la RNC en las que la esclavitud es ilegal. Â¿Te interesa entonces?}
+{153}{}{Â¡Nada de "y"! Â¿Quieres el trabajo o no?}
+{154}{}{Â¿Y?}
+{155}{}{Entonces, Â¿quÃ© quieres que haga?}
+{156}{}{Correcto. Cuando consiga un mapa, vendrÃ© por aquÃ­.}
+{157}{}{Â¿DÃ³nde voy a encontrar un mapa?}
+{158}{}{De acuerdo, aunque tengo algunas preguntas mÃ¡s.}
+{159}{}{Estoy en ello. Te verÃ© entonces.}
+{160}{}{Â¿Â¡CÃ³mo diablos voy a saberlo!? Si lo supiera, lo tendrÃ­a, Â¿no te parece? Mira, se supone que hay una cÃ©lula en la ciudad. EncuÃ©ntrala y mira a ver lo que puedes hacer.}
+{161}{}{SÃ³lo unas pocas preguntas mÃ¡s.}
+{162}{}{De acuerdo. VolverÃ©.}
+{163}{}{Ya has vuelto. Â¿Conseguiste ese mapa?}
+{164}{}{SÃ­.}
 {165}{}{No.}
-{166}{}{¡Todavía estoy esperando que termines el primer trabajo!}
-{167}{}{Oh, sí, lo olvidé.}
+{166}{}{Â¡TodavÃ­a estoy esperando que termines el primer trabajo!}
+{167}{}{Oh, sÃ­, lo olvidÃ©.}
 {168}{}{No desde que hiciste tu trabajo. Gracias.}
-{169}{}{Sólo un par de preguntas.}
-{170}{}{No hay problema. Adiós.}
+{169}{}{SÃ³lo un par de preguntas.}
+{170}{}{No hay problema. AdiÃ³s.}
 {171}{}{Buen trabajo. Ahora lo mejor que puedes hacer es esfumarte, por si esos Rangers se enteran.}
 {172}{}{Un placer hacer negocios contigo.}
-{173}{}{¡Pero no andes por aquí, imbécil! Alguien podría sospechar.}
+{173}{}{Â¡Pero no andes por aquÃ­, imbÃ©cil! Alguien podrÃ­a sospechar.}
 {174}{}{Vale, ya lo pillo.}
-{175}{}{¡Qué cojones? ¡Guardias! ¡Tenemos un intruso!}
-{176}{}{Entra ahí y te vuelo la puta cabeza. ¿Lo pillas?}
-{177}{}{Es tarde y hemos cerrado. Vuelve por la mañana.}
-{200}{}{Buen trabajo. Una cosa más, aunque. Eres un esclavista, ¿verdad? ¿Cómo 'bout you echar una mano y limpie esas casas de seguridad para mí. Yo podría
+{175}{}{Â¡QuÃ© cojones? Â¡Guardias! Â¡Tenemos un intruso!}
+{176}{}{Entra ahÃ­ y te vuelo la puta cabeza. Â¿Lo pillas?}
+{177}{}{Es tarde y hemos cerrado. Vuelve por la maÃ±ana.}
+{200}{}{Buen trabajo. Una cosa mÃ¡s, aunque. Eres un esclavista, Â¿verdad? Â¿CÃ³mo 'bout you echar una mano y limpie esas casas de seguridad para mÃ­. Yo podrÃ­a
  usted paga por el trabajo - por ejemplo, de $1000.}
-{201}{}{Buen trabajo. Una cosa más, aunque. Te ves como un medio sonuvabith. ¿Cómo 'bout you de borrar esas casas de seguridad para mí. Hay una recompensa por ello - por ejemplo, de $1000.}
+{201}{}{Buen trabajo. Una cosa mÃ¡s, aunque. Te ves como un medio sonuvabith. Â¿CÃ³mo 'bout you de borrar esas casas de seguridad para mÃ­. Hay una recompensa por ello - por ejemplo, de $1000.}
 {202}{}{Claro.}
 {203}{}{No estoy interesado.}
-{204}{}{Excelente. Aquí, permítanme marca de estas coordenadas en el mapa cosita. Informe cuando haya terminado.}
-{205}{}{Su pérdida. Ahora usted mejor hacerte escasos, en el caso de los Rangers siempre sabios.}
-{206}{}{De acuerdo. Adiós.}
-{207}{}{En realidad, ¿crees que podrías enviar a algunos de sus hombres conmigo? Esto podría hacer que las cosas vayan un infierno de mucho más rápido, y más garantía de éxito.}
-{210}{}{Ya estás de vuelta. ¿Limpie los Rangers' casas de seguridad?}
-{211}{}{El infierno sí lo hice. Pedazo de la torta.}
-{212}{}{No todavía. Todavía estoy trabajando en ello.}
-{215}{}{De verdad? Caliente maldito. Esta es la mejor noticia que he escuchado hasta ahora. Este va a ser un golpe bastante duro para los Rangers. Buen trabajo. Aquí está tu paga. Ahora usted mejor hacerte escasos, los Rangers en la ciudad que de seguro te busca.}
+{204}{}{Excelente. AquÃ­, permÃ­tanme marca de estas coordenadas en el mapa cosita. Informe cuando haya terminado.}
+{205}{}{Su pÃ©rdida. Ahora usted mejor hacerte escasos, en el caso de los Rangers siempre sabios.}
+{206}{}{De acuerdo. AdiÃ³s.}
+{207}{}{En realidad, Â¿crees que podrÃ­as enviar a algunos de sus hombres conmigo? Esto podrÃ­a hacer que las cosas vayan un infierno de mucho mÃ¡s rÃ¡pido, y mÃ¡s garantÃ­a de Ã©xito.}
+{210}{}{Ya estÃ¡s de vuelta. Â¿Limpie los Rangers' casas de seguridad?}
+{211}{}{El infierno sÃ­ lo hice. Pedazo de la torta.}
+{212}{}{No todavÃ­a. TodavÃ­a estoy trabajando en ello.}
+{215}{}{De verdad? Caliente maldito. Esta es la mejor noticia que he escuchado hasta ahora. Este va a ser un golpe bastante duro para los Rangers. Buen trabajo. AquÃ­ estÃ¡ tu paga. Ahora usted mejor hacerte escasos, los Rangers en la ciudad que de seguro te busca.}
 {216}{}{Deje que em miren ... yo no tengo miedo. Gracias por el dinero.}
-{217}{}{Mejor me fuera de la ciudad, a continuación,. Nos vemos más tarde.}
+{217}{}{Mejor me fuera de la ciudad, a continuaciÃ³n,. Nos vemos mÃ¡s tarde.}
 {218}{}{Parece que todo lo que hago se las arregla para mear a alguien. Estoy acostumbrado a que ahora. Bye.}
 {220}{}{El infierno no. Yo no soy redondeo alguno de los chicos para este. Si usted siente que no puede manejar, y luego dejar.}
-{221}{}{Yo nunca dije que no podía manejarlo. Yo sólo pensaba que sus hombres le gustaría unirse a la diversión. Pero lo que sea, me va a manejar en el mío propio, no hay problema. Voy a informar de cuando yo estoy hecho.}
-{222}{}{Bien, usted puede contar de mí, idiota. Yo no voy a ser tu perro. Bye.}
-{223}{}{Usted me llama pollo? Nadie me llama así y la vida!}
-{225}{}{Bien, bien. Creo que puede reunir a algunos niños para que te ayuden en esto. Ellos se encontrarán en el camino. Estás listo para empezar
+{221}{}{Yo nunca dije que no podÃ­a manejarlo. Yo sÃ³lo pensaba que sus hombres le gustarÃ­a unirse a la diversiÃ³n. Pero lo que sea, me va a manejar en el mÃ­o propio, no hay problema. Voy a informar de cuando yo estoy hecho.}
+{222}{}{Bien, usted puede contar de mÃ­, idiota. Yo no voy a ser tu perro. Bye.}
+{223}{}{Usted me llama pollo? Nadie me llama asÃ­ y la vida!}
+{225}{}{Bien, bien. Creo que puede reunir a algunos niÃ±os para que te ayuden en esto. Ellos se encontrarÃ¡n en el camino. EstÃ¡s listo para empezar
  ahora?}
 {226}{}{Dame un poco de tiempo. Voy a estar de vuelta cuando estoy listo.}
-{227}{}{Nací listo. Vamos a arrasar.}
+{227}{}{NacÃ­ listo. Vamos a arrasar.}
 {228}{}{Yo estoy listo. Vamos a ir.}
-{229}{}{Creo que voy a pasar todo esto. He perdido el interés. Bye.}
-{230}{}{Estás listo para la raid, o está usted aquí para perder más de mi tiempo?}
-{231}{}{Necesito más tiempo.}
+{229}{}{Creo que voy a pasar todo esto. He perdido el interÃ©s. Bye.}
+{230}{}{EstÃ¡s listo para la raid, o estÃ¡ usted aquÃ­ para perder mÃ¡s de mi tiempo?}
+{231}{}{Necesito mÃ¡s tiempo.}
 {232}{}{Yo estoy listo. Vamos a ir.}
 {240}{}{Limpie el Rangers " casas de seguridad. Se trata de un golpe bastante duro para los Rangers en su lucha contra la esclavitud.}
 {241}{}{Estoy buscando para comprar algunos esclavos.}
-{250}{}{Así que puto agradable. Nosotros no vendemos aquí. Metzger en el norte, en el estudio puede ayudar con eso.}
-{251}{}{Yo he estado allí y su acción no fue hasta mis estándares.}
-{252}{}{A ver cómo me mató Metzger, no sé cómo va a ser útil para mí. Creo que me voy a matar en su lugar.}
-{260}{}{Bueno, ¿no eres exigente con la mierda. Te das cuenta de que su acción no se limita a la Madriguera, ¿verdad? Él tiene su propio corral donde los esclavos se cayó.}
-{261}{}{Interesante. ¿Cómo puedo llegar a este otro lugar?}
-{270}{}{Qué, ¿crees que puedes conseguir lo que coño quieres gratis? $1000. Lo tomas o lo dejas.}
-{271}{}{Qué, ¿crees que puedes conseguir lo que coño quieres gratis? Además, el cieno virtuosidad. No me gusta eso. $2000. Lo tomas o lo dejas.}
-{272}{}{Muy bien, aquí.}
+{250}{}{AsÃ­ que puto agradable. Nosotros no vendemos aquÃ­. Metzger en el norte, en el estudio puede ayudar con eso.}
+{251}{}{Yo he estado allÃ­ y su acciÃ³n no fue hasta mis estÃ¡ndares.}
+{252}{}{A ver cÃ³mo me matÃ³ Metzger, no sÃ© cÃ³mo va a ser Ãºtil para mÃ­. Creo que me voy a matar en su lugar.}
+{260}{}{Bueno, Â¿no eres exigente con la mierda. Te das cuenta de que su acciÃ³n no se limita a la Madriguera, Â¿verdad? Ã‰l tiene su propio corral donde los esclavos se cayÃ³.}
+{261}{}{Interesante. Â¿CÃ³mo puedo llegar a este otro lugar?}
+{270}{}{QuÃ©, Â¿crees que puedes conseguir lo que coÃ±o quieres gratis? $1000. Lo tomas o lo dejas.}
+{271}{}{QuÃ©, Â¿crees que puedes conseguir lo que coÃ±o quieres gratis? AdemÃ¡s, el cieno virtuosidad. No me gusta eso. $2000. Lo tomas o lo dejas.}
+{272}{}{Muy bien, aquÃ­.}
 {273}{}{No importa.}
 {274}{}{Voy a hacer lo que yo quiera. Y creo que me voy a matar ahora.}
-{275}{}{Volveré cuando tenga más dinero.}
-{280}{}{[Señala en el mapa la ubicación de la esclavista campamento.] Es por ahí. Ahora, ¿qué otra cosa vas a perder mi tiempo con?}
+{275}{}{VolverÃ© cuando tenga mÃ¡s dinero.}
+{280}{}{[SeÃ±ala en el mapa la ubicaciÃ³n de la esclavista campamento.] Es por ahÃ­. Ahora, Â¿quÃ© otra cosa vas a perder mi tiempo con?}
 {281}{}{Tengo lo que necesito. Bye.}

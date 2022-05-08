@@ -1,64 +1,64 @@
-{100}{}{Egy alacsony, nagy bajuszú embert látsz.}
-{101}{}{Nagy Ananiás.}
-{102}{}{Egy alacsony, nagy bajuszú embert látsz. Eléggé sejtelmes tekintettel néz rád.}
-{103}{}{Te ott! Mi dolgod van neked az egykor Nagy Ananiással. }
+{100}{}{Egy alacsony, nagy bajuszÃº embert lÃ¡tsz.}
+{101}{}{Nagy AnaniÃ¡s.}
+{102}{}{Egy alacsony, nagy bajuszÃº embert lÃ¡tsz. ElÃ©ggÃ© sejtelmes tekintettel nÃ©z rÃ¡d.}
+{103}{}{Te ott! Mi dolgod van neked az egykor Nagy AnaniÃ¡ssal. }
 {104}{}{Takarodj a szemem el?l!}
-{105}{}{Mást boltját tedd tönkre!}
-{106}{}{Tolj ki valaki mással!}
-{107}{}{Már megtetted velem a legrosszabbat.}
-{108}{}{Menj innen, már éppen eléggé megsértettél!}
-{109}{}{Olyan éhes vagyok.}
-{110}{}{Hogyan fogom etetni a családomat?}
-{111}{}{Akkora szíved van, mint egy gyíknak.}
-{112}{}{Nekem, barátom, igazi MÚMIÁM VAN! Az egyiptomi sivatagból egyenesen a Pusztaságba! Csak hogy te magad is lásd!}
-{113}{}{Oké, felcsigáztál! Mennyibe kerül, hogy lássam azt az aszott hullát?}
+{105}{}{MÃ¡st boltjÃ¡t tedd tÃ¶nkre!}
+{106}{}{Tolj ki valaki mÃ¡ssal!}
+{107}{}{MÃ¡r megtetted velem a legrosszabbat.}
+{108}{}{Menj innen, mÃ¡r Ã©ppen elÃ©ggÃ© megsÃ©rtettÃ©l!}
+{109}{}{Olyan Ã©hes vagyok.}
+{110}{}{Hogyan fogom etetni a csalÃ¡domat?}
+{111}{}{Akkora szÃ­ved van, mint egy gyÃ­knak.}
+{112}{}{Nekem, barÃ¡tom, igazi MÃšMIÃM VAN! Az egyiptomi sivatagbÃ³l egyenesen a PusztasÃ¡gba! Csak hogy te magad is lÃ¡sd!}
+{113}{}{OkÃ©, felcsigÃ¡ztÃ¡l! Mennyibe kerÃ¼l, hogy lÃ¡ssam azt az aszott hullÃ¡t?}
 {114}{}{(to yourself) Hmm, a mummy would kinda describe the way a ghoul looks. OK, I'd like to take a look -- how much?}
-{115}{}{Épp elég hullát láttam már! Viszlát!}
-{116}{}{Üdv, isten hozott, légy a vendégem! A Nagy Ananiás vagyok (kicsit meghajol hozzá, és szóvirágokkal kábít). Közeli s távoli földek misztériumait tárom a világ elé. Nem evilági misztériumokat... hanem Másvilágiakat.}
-{117}{}{Azért jöttél, hogy megismerd a Nagy Ananiás másvilági rejtélyeit?}
-{118}{}{Milyen rejtélyekre számíthatok?}
-{119}{}{Ó, jó, hogy találkoztunk, Mr. Nagy Ánusz... vagy mi...}
-{120}{}{Hmm, a rejtélyekt?l sosem tudok aludni, jobb ha megyek. Viszlát!}
-{121}{}{Lépj közelebb!}
-{127}{}{A mai napon, a bels? szobában, csak itt, csakis önöknek... Egy Hammi-siíta-tatlan Egyiptomi Múmiát láthatnak.}
-{128}{}{Múmia?}
-{129}{}{Múmia? Hmm, er?sen csodálkoznék, ha az lenne... Nem-nem, ilyen hülye senki nem lehet...}
-{130}{}{Nem érdekelnek az ilyesmik. Félek a hulláktól.}
-{131}{}{El az útból, feltartod a fizet? vendégeket!}
-{132}{}{Szerintem ez nem neked való.}
-{133}{}{Mért nem húzod el a törzsi arcodat máshova?}
-{134}{}{Ez tényleg nem neked való.}
-{135}{}{Értem... hmmm, mit szólnál, ha most szépen EL- (mutat) MENNÉL!}
-{136}{}{Egy hozzád hasonló embernek, akir?l lerí, hogy vagy valaki, örömmel mutatnám be ezt az egyedülálló és történelmi példányt, mindössze 25 dollárért.}
-{137}{}{Oké. Kicsengetem a dohányt. Most pedig... mutasd azt a Múmiát!}
-{138}{}{Nem akarok ennyit költeni. Azt hiszem, túlélem anélkül is, hogy látnám ezt az izét. Minden jót!}
-{139}{}{Csak nyisd fel a szarkofág tetejét és a csodálatos múmia teljes ókori pompájában fog megmutatkozni számodra! Viszont kérlek, ne nyúlj hozzá, és ne fényképezz vakuval!}
+{115}{}{Ã‰pp elÃ©g hullÃ¡t lÃ¡ttam mÃ¡r! ViszlÃ¡t!}
+{116}{}{Ãœdv, isten hozott, lÃ©gy a vendÃ©gem! A Nagy AnaniÃ¡s vagyok (kicsit meghajol hozzÃ¡, Ã©s szÃ³virÃ¡gokkal kÃ¡bÃ­t). KÃ¶zeli s tÃ¡voli fÃ¶ldek misztÃ©riumait tÃ¡rom a vilÃ¡g elÃ©. Nem evilÃ¡gi misztÃ©riumokat... hanem MÃ¡svilÃ¡giakat.}
+{117}{}{AzÃ©rt jÃ¶ttÃ©l, hogy megismerd a Nagy AnaniÃ¡s mÃ¡svilÃ¡gi rejtÃ©lyeit?}
+{118}{}{Milyen rejtÃ©lyekre szÃ¡mÃ­thatok?}
+{119}{}{Ã“, jÃ³, hogy talÃ¡lkoztunk, Mr. Nagy Ãnusz... vagy mi...}
+{120}{}{Hmm, a rejtÃ©lyekt?l sosem tudok aludni, jobb ha megyek. ViszlÃ¡t!}
+{121}{}{LÃ©pj kÃ¶zelebb!}
+{127}{}{A mai napon, a bels? szobÃ¡ban, csak itt, csakis Ã¶nÃ¶knek... Egy Hammi-siÃ­ta-tatlan Egyiptomi MÃºmiÃ¡t lÃ¡thatnak.}
+{128}{}{MÃºmia?}
+{129}{}{MÃºmia? Hmm, er?sen csodÃ¡lkoznÃ©k, ha az lenne... Nem-nem, ilyen hÃ¼lye senki nem lehet...}
+{130}{}{Nem Ã©rdekelnek az ilyesmik. FÃ©lek a hullÃ¡ktÃ³l.}
+{131}{}{El az ÃºtbÃ³l, feltartod a fizet? vendÃ©geket!}
+{132}{}{Szerintem ez nem neked valÃ³.}
+{133}{}{MÃ©rt nem hÃºzod el a tÃ¶rzsi arcodat mÃ¡shova?}
+{134}{}{Ez tÃ©nyleg nem neked valÃ³.}
+{135}{}{Ã‰rtem... hmmm, mit szÃ³lnÃ¡l, ha most szÃ©pen EL- (mutat) MENNÃ‰L!}
+{136}{}{Egy hozzÃ¡d hasonlÃ³ embernek, akir?l lerÃ­, hogy vagy valaki, Ã¶rÃ¶mmel mutatnÃ¡m be ezt az egyedÃ¼lÃ¡llÃ³ Ã©s tÃ¶rtÃ©nelmi pÃ©ldÃ¡nyt, mindÃ¶ssze 25 dollÃ¡rÃ©rt.}
+{137}{}{OkÃ©. Kicsengetem a dohÃ¡nyt. Most pedig... mutasd azt a MÃºmiÃ¡t!}
+{138}{}{Nem akarok ennyit kÃ¶lteni. Azt hiszem, tÃºlÃ©lem anÃ©lkÃ¼l is, hogy lÃ¡tnÃ¡m ezt az izÃ©t. Minden jÃ³t!}
+{139}{}{Csak nyisd fel a szarkofÃ¡g tetejÃ©t Ã©s a csodÃ¡latos mÃºmia teljes Ã³kori pompÃ¡jÃ¡ban fog megmutatkozni szÃ¡modra! Viszont kÃ©rlek, ne nyÃºlj hozzÃ¡, Ã©s ne fÃ©nykÃ©pezz vakuval!}
 {140}{}{Nagyszer?!}
-{141}{}{És íme, itt van! A Múmia! (a szarkofág fedele kinyílik és azonmód feltárul egy aszalódott hulla. Jobban megnézve egy közönséges ghoulra hasonlít, akit egy rosszul festett, repedezett, papírmasé szarkofágba dugtak.)}
-{142}{}{És íme, itt van! Bemutatom a MÚMIÁT! (a kripta-szer? ajtó kitárul, és feltárul a Hammi-siíta-tatlan egyiptomi múmia egy színarany kinézet? szarkofágban.)}
-{143}{}{Hé, várjunk már! Ez nem múmia! Ez egy ghoul. WOODY! Hé, WOODY! Te vagy az?}
-{144}{}{Ez nekem nagyon úgy t?nik, mintha ghoul lenne.}
-{145}{}{Ez múmia? Nem tudom elhinni, hogy 25 dollárt fizettem hat lábnyi húsmasszáért. Viszlát!}
-{146}{}{Azta, ez csodálatos... fogjuk rá... (figyelmesen nézegeted a Múmiát egy darabig). Köszönöm, minden jót!}
+{141}{}{Ã‰s Ã­me, itt van! A MÃºmia! (a szarkofÃ¡g fedele kinyÃ­lik Ã©s azonmÃ³d feltÃ¡rul egy aszalÃ³dott hulla. Jobban megnÃ©zve egy kÃ¶zÃ¶nsÃ©ges ghoulra hasonlÃ­t, akit egy rosszul festett, repedezett, papÃ­rmasÃ© szarkofÃ¡gba dugtak.)}
+{142}{}{Ã‰s Ã­me, itt van! Bemutatom a MÃšMIÃT! (a kripta-szer? ajtÃ³ kitÃ¡rul, Ã©s feltÃ¡rul a Hammi-siÃ­ta-tatlan egyiptomi mÃºmia egy szÃ­narany kinÃ©zet? szarkofÃ¡gban.)}
+{143}{}{HÃ©, vÃ¡rjunk mÃ¡r! Ez nem mÃºmia! Ez egy ghoul. WOODY! HÃ©, WOODY! Te vagy az?}
+{144}{}{Ez nekem nagyon Ãºgy t?nik, mintha ghoul lenne.}
+{145}{}{Ez mÃºmia? Nem tudom elhinni, hogy 25 dollÃ¡rt fizettem hat lÃ¡bnyi hÃºsmasszÃ¡Ã©rt. ViszlÃ¡t!}
+{146}{}{Azta, ez csodÃ¡latos... fogjuk rÃ¡... (figyelmesen nÃ©zegeted a MÃºmiÃ¡t egy darabig). KÃ¶szÃ¶nÃ¶m, minden jÃ³t!}
 {147}{}{(the Mummy, snorts, stretches languidly, and then looks at you with a sleepy blink to its eyes) Hello. (he says, sleepily)}
-{148}{}{Szent szar! Ez Woody! Fuss, Woody, fuss! Na, jó, csak bicegj! Menj, Woody, menj!}
-{149}{}{Biztosítalak, hogy a múmia tényleg, teljesen hammi-siíta-tatlan.}
-{150}{}{Aligha hiszek én neked! Tegyünk egy próbát! WOODY! Hé, WOODY! Te vagy az?}
-{151}{}{Ha te mondod. Nekem csak egy átlagos ghoulnak t?nik. Viszlát!}
-{152}{}{(Woody - merthogy az el?tted kissé kótyagosan álló alak nyilvánvalóan Woody és nem egy múmia -, megragadja a papírmasé szarkofág szélét, felsikolt, és az ajtó felé rohan. Ahogy távozik, csak egy tekerg?z? WC-papír "múmia-gyolcsot", és egy sietve kinyögött "Köszi szépen, Idegen"-t hagy maga után.)}
-{153}{}{Hah! Tudtam! Neked befellegzett ebben a városban. Többé már nem a Nagy Ananiás vagy, csak egy nagy segg.}
-{154}{}{Menj, Woody, menj! Haha! Tudtam én!!!}
-{155}{}{(A Nagy Ananiás megvonja a vállát) Tudtam, hogy inkább az egyfej? brahmint kellett volna megszereznem. Na, most mehetünk vissza a rajztáblához...}
-{156}{}{Egyfej? brahmin? Ugyan, ki hinné el! Viszlát, te Csaló!}
-{157}{}{Felébresztetted Woody-t, a ghoult és kiszabadítottad a szerz?déses múmia szerepéb?l.}
-{158}{}{Azt hiszem, inkább kísértet históriákat hallgatok.}
-{200}{}{Olyan dolgokat tudok, amit halandó emberek nem tudhatnak. Áááááá! Nyarloth... ó, bocsánat (hehe). Kicsit elragadtattam magam. Vannak történeteim helyben kísért? szellemekr?l, valamint van egy Hammi-siíta-tatlan Egy-ip-tomi Múmiám, amit szemügyre is vehetsz ebben a gyönyör? szarkofágban. }
-{201}{}{Mondj valamit a múmiáról! Majd meghalok a kiváncsiságtól...}
-{202}{}{Meg kell hallgatnom azt a kísértet históriát. Öö, kapok egy csésze forró kakaót is mellé?}
-{203}{}{Nem hinném, hogy van elfecsérelni való id?m, akármit is akarsz rám sózni.}
-{300}{}{Rendben... (közelebb lép) volt egyszer egy nagy királyn?, aki meghódította a környez? városokat. A trónját egy különleges nyakék segítségével volt képes meg?rizni, amit állandóan viselt. Jó cucc, mi?}
-{301}{}{Nem rossz! Tehát ennek a hercegn?nek volt egy mágikus nyakéke. Folytasd csak! Egyszer?en majd szétvet a kiváncsiság... (ásítasz).}
-{302}{}{Oké. Azt hiszem, épp eleget hallottam. Viszlát!}
-{400}{}{Jól van akkor, nem szaporítom a szót... Tehát a gonosz varázsló megmérgezte a hercegn?t, és elvette az amulettjét. Azóta is a mellettünk lev? szobában bolyong. Egész pontosan a b?vös óra tájékán. Ezért is tartom zárva az ajtót. Rém ijeszt?, mi?}
-{401}{}{Szóval a nyakék nélküli hercegn? a szomszédos lerombolt szobában tartózkodik? Jól sejtem? NEM LÉTEZIK, hogy *ilyesmit* akarsz nekem beadni! Inkább mesélj az állítólagos idióta múmiádról!}
-{402}{}{Oké. Azt hiszem, épp eleget hallottam. Viszlát!}
+{148}{}{Szent szar! Ez Woody! Fuss, Woody, fuss! Na, jÃ³, csak bicegj! Menj, Woody, menj!}
+{149}{}{BiztosÃ­talak, hogy a mÃºmia tÃ©nyleg, teljesen hammi-siÃ­ta-tatlan.}
+{150}{}{Aligha hiszek Ã©n neked! TegyÃ¼nk egy prÃ³bÃ¡t! WOODY! HÃ©, WOODY! Te vagy az?}
+{151}{}{Ha te mondod. Nekem csak egy Ã¡tlagos ghoulnak t?nik. ViszlÃ¡t!}
+{152}{}{(Woody - merthogy az el?tted kissÃ© kÃ³tyagosan Ã¡llÃ³ alak nyilvÃ¡nvalÃ³an Woody Ã©s nem egy mÃºmia -, megragadja a papÃ­rmasÃ© szarkofÃ¡g szÃ©lÃ©t, felsikolt, Ã©s az ajtÃ³ felÃ© rohan. Ahogy tÃ¡vozik, csak egy tekerg?z? WC-papÃ­r "mÃºmia-gyolcsot", Ã©s egy sietve kinyÃ¶gÃ¶tt "KÃ¶szi szÃ©pen, Idegen"-t hagy maga utÃ¡n.)}
+{153}{}{Hah! Tudtam! Neked befellegzett ebben a vÃ¡rosban. TÃ¶bbÃ© mÃ¡r nem a Nagy AnaniÃ¡s vagy, csak egy nagy segg.}
+{154}{}{Menj, Woody, menj! Haha! Tudtam Ã©n!!!}
+{155}{}{(A Nagy AnaniÃ¡s megvonja a vÃ¡llÃ¡t) Tudtam, hogy inkÃ¡bb az egyfej? brahmint kellett volna megszereznem. Na, most mehetÃ¼nk vissza a rajztÃ¡blÃ¡hoz...}
+{156}{}{Egyfej? brahmin? Ugyan, ki hinnÃ© el! ViszlÃ¡t, te CsalÃ³!}
+{157}{}{FelÃ©bresztetted Woody-t, a ghoult Ã©s kiszabadÃ­tottad a szerz?dÃ©ses mÃºmia szerepÃ©b?l.}
+{158}{}{Azt hiszem, inkÃ¡bb kÃ­sÃ©rtet histÃ³riÃ¡kat hallgatok.}
+{200}{}{Olyan dolgokat tudok, amit halandÃ³ emberek nem tudhatnak. ÃÃ¡Ã¡Ã¡Ã¡Ã¡! Nyarloth... Ã³, bocsÃ¡nat (hehe). Kicsit elragadtattam magam. Vannak tÃ¶rtÃ©neteim helyben kÃ­sÃ©rt? szellemekr?l, valamint van egy Hammi-siÃ­ta-tatlan Egy-ip-tomi MÃºmiÃ¡m, amit szemÃ¼gyre is vehetsz ebben a gyÃ¶nyÃ¶r? szarkofÃ¡gban. }
+{201}{}{Mondj valamit a mÃºmiÃ¡rÃ³l! Majd meghalok a kivÃ¡ncsisÃ¡gtÃ³l...}
+{202}{}{Meg kell hallgatnom azt a kÃ­sÃ©rtet histÃ³riÃ¡t. Ã–Ã¶, kapok egy csÃ©sze forrÃ³ kakaÃ³t is mellÃ©?}
+{203}{}{Nem hinnÃ©m, hogy van elfecsÃ©relni valÃ³ id?m, akÃ¡rmit is akarsz rÃ¡m sÃ³zni.}
+{300}{}{Rendben... (kÃ¶zelebb lÃ©p) volt egyszer egy nagy kirÃ¡lyn?, aki meghÃ³dÃ­totta a kÃ¶rnyez? vÃ¡rosokat. A trÃ³njÃ¡t egy kÃ¼lÃ¶nleges nyakÃ©k segÃ­tsÃ©gÃ©vel volt kÃ©pes meg?rizni, amit Ã¡llandÃ³an viselt. JÃ³ cucc, mi?}
+{301}{}{Nem rossz! TehÃ¡t ennek a hercegn?nek volt egy mÃ¡gikus nyakÃ©ke. Folytasd csak! Egyszer?en majd szÃ©tvet a kivÃ¡ncsisÃ¡g... (Ã¡sÃ­tasz).}
+{302}{}{OkÃ©. Azt hiszem, Ã©pp eleget hallottam. ViszlÃ¡t!}
+{400}{}{JÃ³l van akkor, nem szaporÃ­tom a szÃ³t... TehÃ¡t a gonosz varÃ¡zslÃ³ megmÃ©rgezte a hercegn?t, Ã©s elvette az amulettjÃ©t. AzÃ³ta is a mellettÃ¼nk lev? szobÃ¡ban bolyong. EgÃ©sz pontosan a b?vÃ¶s Ã³ra tÃ¡jÃ©kÃ¡n. EzÃ©rt is tartom zÃ¡rva az ajtÃ³t. RÃ©m ijeszt?, mi?}
+{401}{}{SzÃ³val a nyakÃ©k nÃ©lkÃ¼li hercegn? a szomszÃ©dos lerombolt szobÃ¡ban tartÃ³zkodik? JÃ³l sejtem? NEM LÃ‰TEZIK, hogy *ilyesmit* akarsz nekem beadni! InkÃ¡bb mesÃ©lj az Ã¡llÃ­tÃ³lagos idiÃ³ta mÃºmiÃ¡drÃ³l!}
+{402}{}{OkÃ©. Azt hiszem, Ã©pp eleget hallottam. ViszlÃ¡t!}

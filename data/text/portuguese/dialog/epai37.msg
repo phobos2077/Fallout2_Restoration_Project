@@ -1,50 +1,50 @@
-{100}{}{Você vê um Auto-Doc modificado.}
-{101}{}{Este Auto-Doc parece ter sido modificado para executar modificações de aparência experimental.}
-{200}{}{[A máquina aborda você enquanto você se aproxima.] Bem-vindo, sujeito do teste. Obrigado por oferecer sua carne para
-  Ciência. Por favor, entre em mim e podemos começar.}
-{201}{}{Whoa, eu nunca disse que estava oferecendo nada. Agora, antes de entrar em qualquer lugar, por que você não me diz exatamente o que você faz?}
+{100}{}{VocÃª vÃª um Auto-Doc modificado.}
+{101}{}{Este Auto-Doc parece ter sido modificado para executar modificaÃ§Ãµes de aparÃªncia experimental.}
+{200}{}{[A mÃ¡quina aborda vocÃª enquanto vocÃª se aproxima.] Bem-vindo, sujeito do teste. Obrigado por oferecer sua carne para
+Â  CiÃªncia. Por favor, entre em mim e podemos comeÃ§ar.}
+{201}{}{Whoa, eu nunca disse que estava oferecendo nada. Agora, antes de entrar em qualquer lugar, por que vocÃª nÃ£o me diz exatamente o que vocÃª faz?}
 {202}{}{[Dar de ombros.] Tudo bem. [Entre no dispositivo.]}
-{203}{}{Você me confunde com outra pessoa. Tchau.}
-{300}{}{Bem-vindo de volta, sujeito de teste. Por favor, entre em mim e podemos começar.}
-{301}{}{Antes de entrar em qualquer lugar, por que você não me diz exatamente o que você faz?}
+{203}{}{VocÃª me confunde com outra pessoa. Tchau.}
+{300}{}{Bem-vindo de volta, sujeito de teste. Por favor, entre em mim e podemos comeÃ§ar.}
+{301}{}{Antes de entrar em qualquer lugar, por que vocÃª nÃ£o me diz exatamente o que vocÃª faz?}
 {302}{}{Tudo bem. [Entre no dispositivo.]}
-{303}{}{Eu não penso assim. Tchau.}
-{400}{}{Eu sou o protótipo mais novo da tecnologia Auto-Doc, desenvolvido pelo Dr. Wood. Eu me especializo em corpo extremo
-  modificação - a melhor reforma. Não há necessidade de estar nervoso, pois a taxa de mortalidade do paciente é significativamente menor
-  do que o protótipo anterior. Não seja tímido, entre em mim e podemos começar.}
-{401}{}{Você não vai me tocar. Tchau.}
+{303}{}{Eu nÃ£o penso assim. Tchau.}
+{400}{}{Eu sou o protÃ³tipo mais novo da tecnologia Auto-Doc, desenvolvido pelo Dr. Wood. Eu me especializo em corpo extremo
+Â  modificaÃ§Ã£o - a melhor reforma. NÃ£o hÃ¡ necessidade de estar nervoso, pois a taxa de mortalidade do paciente Ã© significativamente menor
+Â  do que o protÃ³tipo anterior. NÃ£o seja tÃ­mido, entre em mim e podemos comeÃ§ar.}
+{401}{}{VocÃª nÃ£o vai me tocar. Tchau.}
 {402}{}{Eu adoraria, mas eu realmente preciso ir. Desculpe.}
 {403}{}{Tudo bem. [Entre no dispositivo.]}
-{410}{}{Por favor, faça a sua seleção. Devido ao fato de ser um dos primeiros protótipos, eu só posso oferecer-lhe um número limitado de opções. Desculpe.}
-{411}{}{Alterar gênero.}
-{412}{}{Alterar Raça. (Atualmente apenas de branco a afro-americano ou vice-versa).}
+{410}{}{Por favor, faÃ§a a sua seleÃ§Ã£o. Devido ao fato de ser um dos primeiros protÃ³tipos, eu sÃ³ posso oferecer-lhe um nÃºmero limitado de opÃ§Ãµes. Desculpe.}
+{411}{}{Alterar gÃªnero.}
+{412}{}{Alterar RaÃ§a. (Atualmente apenas de branco a afro-americano ou vice-versa).}
 {413}{}{Alterar Penteado (Cabelo Regular).}
 {414}{}{Alterar Penteado (Cabelo Longo).}
 {415}{}{Alterar Penteado (Careca).}
 {416}{}{Alterar Penteado (Cabelo Loiro).}
 {417}{}{Alterar Penteado (Cabelo Vermelho).}
-{418}{}{Pensando bem, na verdade não tenho tempo para isso agora. Tchau.}
-{500}{}{Este procedimento vai demorar quatro semanas para se recuperar e tem 50% de chance de morte. Quer começar agora?}
-{501}{}{Vamos lá.}
+{418}{}{Pensando bem, na verdade nÃ£o tenho tempo para isso agora. Tchau.}
+{500}{}{Este procedimento vai demorar quatro semanas para se recuperar e tem 50% de chance de morte. Quer comeÃ§ar agora?}
+{501}{}{Vamos lÃ¡.}
 {502}{}{Sim. Finalmente, eu posso ser a pessoa que eu sempre estive por dentro.}
 {503}{}{Eh, talvez mais tarde. Tchau.}
 {504}{}{Deixe-me escolher outro procedimento.}
 {505}{}{De jeito nenhum! Estou fora daqui!}
-{510}{}{Excelente escolha. Este procedimento vai levar duas semanas para se recuperar e tem 25% de chance de morte. Quer começar agora?}
-{511}{}{Vamos lá.}
+{510}{}{Excelente escolha. Este procedimento vai levar duas semanas para se recuperar e tem 25% de chance de morte. Quer comeÃ§ar agora?}
+{511}{}{Vamos lÃ¡.}
 {512}{}{Sim. Finalmente, eu posso ser a pessoa que eu sempre estive por dentro.}
 {513}{}{Eh, talvez mais tarde. Tchau.}
 {514}{}{Deixe-me escolher outro procedimento.}
 {515}{}{De jeito nenhum! Estou fora daqui!}
-{520}{}{Excelente escolha. Este procedimento irá demorar um dia para você se recuperar e tem 1% de chance de morte. Quer começar agora?}
-{521}{}{Vamos lá.}
+{520}{}{Excelente escolha. Este procedimento irÃ¡ demorar um dia para vocÃª se recuperar e tem 1% de chance de morte. Quer comeÃ§ar agora?}
+{521}{}{Vamos lÃ¡.}
 {522}{}{Sim. Finalmente, eu posso ser a pessoa que eu sempre estive por dentro.}
 {523}{}{Eh, talvez mais tarde. Tchau.}
 {524}{}{Deixe-me escolher outro procedimento.}
 {525}{}{De jeito nenhum! Estou fora daqui!}
-{600}{}{Parabéns! O experimento foi um sucesso. Obrigado e desfrute o novo você.}
+{600}{}{ParabÃ©ns! O experimento foi um sucesso. Obrigado e desfrute o novo vocÃª.}
 {601}{}{[Sair.]}
-{650}{}{Desculpe, este procedimento não está actualmente disponível para o sexo feminino.}
+{650}{}{Desculpe, este procedimento nÃ£o estÃ¡ actualmente disponÃ­vel para o sexo feminino.}
 {700}{}{Me desculpe, mas algo foi terrivelmente errado com o procedimento. Pedimos desculpas por este inconveniente, mas agradecemos
-  você por se voluntariar pela causa da ciência.}
+Â  vocÃª por se voluntariar pela causa da ciÃªncia.}
 {701}{}{Oh, merda...}

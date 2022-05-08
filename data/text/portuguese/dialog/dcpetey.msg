@@ -1,73 +1,73 @@
-{100}{}{Você vê um viciado em drogas.}
-{101}{}{Você vê Petey.}
-{150}{}{Este aqui é um pobre viciado em drogas.}
+{100}{}{VocÃª vÃª um viciado em drogas.}
+{101}{}{VocÃª vÃª Petey.}
+{150}{}{Este aqui Ã© um pobre viciado em drogas.}
 {151}{}{Petey aqui parece que ele poderia usar alguma ajuda.}
 {152}{}{[falar]}
-{155}{}{[tosse, tosse] Qualquer mudança de reposição para Petey?}
-{156}{}{Certo, aqui vamos nós.}
-{157}{}{Não, fique longe de mim.}
+{155}{}{[tosse, tosse] Qualquer mudanÃ§a de reposiÃ§Ã£o para Petey?}
+{156}{}{Certo, aqui vamos nÃ³s.}
+{157}{}{NÃ£o, fique longe de mim.}
 {158}{}{Peewee?}
-{159}{}{Você está pior do que eu. [tosse] Obrigado de qualquer forma.}
+{159}{}{VocÃª estÃ¡ pior do que eu. [tosse] Obrigado de qualquer forma.}
 {160}{}{Desculpe, tchau.}
-{161}{}{Duh, você é bem-vindo, uh-huh, sim.}
-{162}{}{Talvez da próxima vez. Obrigado de qualquer forma. [tosse]}
+{161}{}{Duh, vocÃª Ã© bem-vindo, uh-huh, sim.}
+{162}{}{Talvez da prÃ³xima vez. Obrigado de qualquer forma. [tosse]}
 {163}{}{[feito]}
-{164}{}{Muito obrigado. [tosse] tão, tão, Tão muito.}
-{165}{}{Você é bem-vindo.}
+{164}{}{Muito obrigado. [tosse] tÃ£o, tÃ£o, TÃ£o muito.}
+{165}{}{VocÃª Ã© bem-vindo.}
 {166}{}{Sim, sim.}
-{167}{}{Senhor, [tosse] você pode ajudar um pobre homem baixo em sua sorte?}
-{168}{}{Aqui está $5.}
-{169}{}{Hoje não.}
+{167}{}{Senhor, [tosse] vocÃª pode ajudar um pobre homem baixo em sua sorte?}
+{168}{}{Aqui estÃ¡ $5.}
+{169}{}{Hoje nÃ£o.}
 {170}{}{Arrume um emprego.}
-{171}{}{Gentil senhora, por favor, ajude [tosse], pobre, faminto que é [tosse] demasiado doentes para trabalhar.}
-{172}{}{Coitadinho de você, aqui tem $5.}
-{173}{}{Eu faço questão de não dar dinheiro para mendigos.}
-{174}{}{Não.}
-{175}{}{Desculpe, eu não tenho nenhum dinheiro comigo.}
-{200}{}{E aí cara; me dê algum dinheiro?}
-{201}{}{Poupe alguma mudança, senhor amável?}
-{202}{}{Ei, você pode me ajudar com alguns dólares?}
-{203}{}{Você acha que pode me ajudar com os dólares de esmola?}
-{204}{}{Você acha que você poderia me emprestar algum dinheiro?}
-{205}{}{De reposição de alguma mudança, gentil senhora?}
-{206}{}{Ei, senhora; não poupar algum dinheiro?}
+{171}{}{Gentil senhora, por favor, ajude [tosse], pobre, faminto que Ã© [tosse] demasiado doentes para trabalhar.}
+{172}{}{Coitadinho de vocÃª, aqui tem $5.}
+{173}{}{Eu faÃ§o questÃ£o de nÃ£o dar dinheiro para mendigos.}
+{174}{}{NÃ£o.}
+{175}{}{Desculpe, eu nÃ£o tenho nenhum dinheiro comigo.}
+{200}{}{E aÃ­ cara; me dÃª algum dinheiro?}
+{201}{}{Poupe alguma mudanÃ§a, senhor amÃ¡vel?}
+{202}{}{Ei, vocÃª pode me ajudar com alguns dÃ³lares?}
+{203}{}{VocÃª acha que pode me ajudar com os dÃ³lares de esmola?}
+{204}{}{VocÃª acha que vocÃª poderia me emprestar algum dinheiro?}
+{205}{}{De reposiÃ§Ã£o de alguma mudanÃ§a, gentil senhora?}
+{206}{}{Ei, senhora; nÃ£o poupar algum dinheiro?}
 {220}{}{Por favor, ajude-me, senhor.}
-{221}{}{Ahhh, dói.}
-{222}{}{Eu preciso de ajuda. Dói ruim.}
+{221}{}{Ahhh, dÃ³i.}
+{222}{}{Eu preciso de ajuda. DÃ³i ruim.}
 {223}{}{Senhora, pode me ajuda?}
 {225}{}{Aprecio muito isso.}
-{226}{}{Hey, o que você pensa que está fazendo?}
-{230}{}{Uma sensação tão boa.}
+{226}{}{Hey, o que vocÃª pensa que estÃ¡ fazendo?}
+{230}{}{Uma sensaÃ§Ã£o tÃ£o boa.}
 {231}{}{Uhhh...}
 {232}{}{[risadinha]}
 {233}{}{Ei...}
 {234}{}{Booommm...}
 {235}{}{Oh yeah...}
-{300}{}{Não posso acreditar que alguém tenha matado Tubby ...}
+{300}{}{NÃ£o posso acreditar que alguÃ©m tenha matado Tubby ...}
 {301}{}{O que diabos aconteceu com Tubby?}
 {302}{}{Ah, por que Tubby teve que morrer.}
 {303}{}{Ahhh...}
-{304}{}{Na verdade, não gostava desse idiota.}
+{304}{}{Na verdade, nÃ£o gostava desse idiota.}
 {305}{}{Flick morreu...uma Porcaria.}
 {306}{}{O que aconteceu para Flick?}
 {307}{}{Eu sinto falta de Flick...}
 {310}{}{Ei Tubby, I..uhhh..precisa de alguma ajuda aqui.}
 {311}{}{EI TUBBY!}
-{312}{}{Olá.}
+{312}{}{OlÃ¡.}
 {313}{}{HEY!}
 {314}{}{Ei Flick, I..uhhh..precisa de alguma ajuda aqui.}
 {315}{}{HEY FLICK!}
-{320}{}{Ei, Tubby, você pode me ligar? Eu tenho dinheiro.}
+{320}{}{Ei, Tubby, vocÃª pode me ligar? Eu tenho dinheiro.}
 {321}{}{Ummm, Tubby, eu tenho um pouco de dinheiro.}
 {322}{}{Uhhh...}
-{323}{}{Eu preciso de uma correção cara.}
-{324}{}{Ei, Flick; você pode me ligar? Eu tenho dinheiro.}
+{323}{}{Eu preciso de uma correÃ§Ã£o cara.}
+{324}{}{Ei, Flick; vocÃª pode me ligar? Eu tenho dinheiro.}
 {325}{}{Ummm, Flick, eu tenho um pouco de dinheiro.}
 {330}{}{Uhhh... Obrigado mais uma vez, Tubby.}
-{331}{}{Você é um amigo, Tubby.}
-{332}{}{Eu prometo. Eu vou chutar o amanhã.}
-{333}{}{Você é um amigo.}
+{331}{}{VocÃª Ã© um amigo, Tubby.}
+{332}{}{Eu prometo. Eu vou chutar o amanhÃ£.}
+{333}{}{VocÃª Ã© um amigo.}
 {334}{}{Uhhh ... Obrigado novamente, Flick.}
-{335}{}{Você é um amigo, Flick.}
+{335}{}{VocÃª Ã© um amigo, Flick.}
 {340}{}{Aqui. Agora bata, seu drogado.}
 {341}{}{Pegue e saia.}

@@ -16,51 +16,51 @@
 {115}{}{Next Level:}
 {116}{}{PUNTOS PJ.}
 {117}{}{HABILIDADES}
-{118}{}{°Debes usar todos los puntos de personaje}
+{118}{}{¬°Debes usar todos los puntos de personaje}
 {119}{}{antes de comenzar el juego!}
 {120}{}{Puntos de personaje}
-{121}{}{Cantidad de puntos de personaje que se pueden aÒadir a los atributos b·sicos.}
+{121}{}{Cantidad de puntos de personaje que se pueden a√±adir a los atributos b√°sicos.}
 {122}{}{Nuevo nivel}
 {123}{}{La cantidad de puntos de experiencia necesarios para alcanzar el siguiente nivel.}
 {124}{}{Rasgos extra}
 {125}{}{Karma}
 {126}{}{Muertes}
-{127}{}{Los rasgos extra aÒaden habilidades adicionales. Cada 3 niveles de experiencia, podr·s elegir un nuevo extra.}
+{127}{}{Los rasgos extra a√±aden habilidades adicionales. Cada 3 niveles de experiencia, podr√°s elegir un nuevo extra.}
 {128}{}{Estos son los efectos de las elecciones tomadas durante el juego.}
 {129}{}{Un contador que registra la cantidad y tipo de criaturas a las que has dado muerte o has visto morir.}
 {130}{}{Puntos de habilidad}
-{131}{}{Usa puntos de habilidad para incrementar el nivel de una habilidad. Cuanto m·s mejores en una habilidad, m·s puntos costar· incrementarla. Dominar una habilidad puede llevar mucho tiempo y esfuerzo.}
-{132}{}{Al m·ximo nivel.}
+{131}{}{Usa puntos de habilidad para incrementar el nivel de una habilidad. Cuanto m√°s mejores en una habilidad, m√°s puntos costar√° incrementarla. Dominar una habilidad puede llevar mucho tiempo y esfuerzo.}
+{132}{}{Al m√°ximo nivel.}
 {133}{}{Imposible aumentarlo.}
-{134}{}{Al mÌnimo nivel.}
+{134}{}{Al m√≠nimo nivel.}
 {135}{}{Imposible reducirlo.}
 {136}{}{No hay puntos disponibles.}
 {137}{}{Base:}
 {138}{}{HAB. DEST.}
 {139}{}{RASGOS OPCIONALES}
-{140}{}{°Ya tienes el m·ximos de}
+{140}{}{¬°Ya tienes el m√°ximos de}
 {141}{}{habilidades destacadas!}
-{142}{}{°Debes seleccionar todas las habilidades}
+{142}{}{¬°Debes seleccionar todas las habilidades}
 {143}{}{antes de comenzar el juego!}
 {144}{}{Habilidades destacadas}
-{145}{}{Habilidades destacadas son habilidades en las que tu personaje se especializa. Cada Habilidad destacada gana un 20% y aumenta el doble de r·pido. Debes elegir 3 de ellas.}
+{145}{}{Habilidades destacadas son habilidades en las que tu personaje se especializa. Cada Habilidad destacada gana un 20% y aumenta el doble de r√°pido. Debes elegir 3 de ellas.}
 {146}{}{Rasgos opcionales}
-{147}{}{Los rasgos opcionales describen a tu personaje con m·s detalle. Todos los rasgos tienen efectos positivos y negativos. Debes elegir dos.}
-{148}{}{°Ya tienes el m·ximos de}
+{147}{}{Los rasgos opcionales describen a tu personaje con m√°s detalle. Todos los rasgos tienen efectos positivos y negativos. Debes elegir dos.}
+{148}{}{¬°Ya tienes el m√°ximos de}
 {149}{}{dos rasgos!}
 {150}{}{Habilidades}
-{151}{}{Las habilidades son conocimiento aprendido. Se incrementan por la experiencia o por eventos especiales durante el curso del juego. Cuanto m·s alto sea el nivel, mejor eres en esa habilidad..}
+{151}{}{Las habilidades son conocimiento aprendido. Se incrementan por la experiencia o por eventos especiales durante el curso del juego. Cuanto m√°s alto sea el nivel, mejor eres en esa habilidad..}
 {152}{}{ESCOGE UN EXTRA}
 {153}{}{ELIGE UN NUEVO RASGO}
 {154}{}{ELIMINA UN RASGO}
 {155}{}{ESCOGE UNA HABILIDAD DESTACADA}
 {156}{}{RASGOS}
-{157}{}{°Todas las estadÌsticas deben estar entre 1 y 10}
+{157}{}{¬°Todas las estad√≠sticas deben estar entre 1 y 10}
 {158}{}{antes de comenzar el juego!}
-{160}{}{AtenciÛn: No has cambiado el nombre de tu}
-{161}{}{personaje. øQuieres usarlo de todos modos?}
+{160}{}{Atenci√≥n: No has cambiado el nombre de tu}
+{161}{}{personaje. ¬øQuieres usarlo de todos modos?}
 {175}{}{Sig Niv:}
-{200}{}{PÈsimo}
+{200}{}{P√©simo}
 {201}{}{Malo}
 {202}{}{Pobre}
 {203}{}{Justo}
@@ -71,29 +71,29 @@
 {208}{}{Exclnt}
 {209}{}{Heroico}
 {300}{editor}{Salud}
-{301}{}{Ptos acciÛn}
+{301}{}{Ptos acci√≥n}
 {302}{editor}{Clase de armad.}
-{303}{}{DaÒo desarmado}
-{304}{}{DaÒo a MelÈ}
-{305}{}{Resist daÒo}
+{303}{}{Da√±o desarmado}
+{304}{}{Da√±o a Mel√©}
+{305}{}{Resist da√±o}
 {306}{}{Resis veneno}
-{307}{}{Resis radiaciÛn}
-{308}{editor}{Cp. de reacciÛn}
-{309}{editor}{Rtm. de curaciÛn}
-{310}{editor}{Pb. de crÌticos}
-{311}{editor}{Peso m·ximo}
+{307}{}{Resis radiaci√≥n}
+{308}{editor}{Cp. de reacci√≥n}
+{309}{editor}{Rtm. de curaci√≥n}
+{310}{editor}{Pb. de cr√≠ticos}
+{311}{editor}{Peso m√°ximo}
 {312}{}{Envenenado}
 {313}{}{Irradiado}
-{314}{}{Ojo daÒado}
+{314}{}{Ojo da√±ado}
 {315}{}{Brazo dcho. roto}
 {316}{}{Brazo izdo. roto}
 {317}{}{Pierna dcha. rota}
 {318}{}{Pierna izda. rota}
-{400}{}{Tu personaje ha sido envenenado. El veneno te causar· daÒo durante un tiempo, hasta que te cures o abandone tu organismo.}
-{401}{}{Tu personaje ha sido irradiado. Cuanta m·s radiaciÛn, m·s mortal ser· el efecto.}
-{402}{}{Tu personaje ha sido gravemente herido en un ojo. Esto afectar· a tu PercepciÛn.}
-{403}{}{Tu brazo derecho ha sido gravemente herido y no responde bien. Si un brazo se rompe, no podr·s usar armas de dos manos. Si ambos brazos se rompen, no podr·s usar armas.}
-{404}{}{Tu brazo izquierdo ha sido gravemente herido y no responde bien. Si un brazo se rompe, no podr·s usar armas de dos manos. Si ambos brazos se rompen, no podr·s usar armas.}
+{400}{}{Tu personaje ha sido envenenado. El veneno te causar√° da√±o durante un tiempo, hasta que te cures o abandone tu organismo.}
+{401}{}{Tu personaje ha sido irradiado. Cuanta m√°s radiaci√≥n, m√°s mortal ser√° el efecto.}
+{402}{}{Tu personaje ha sido gravemente herido en un ojo. Esto afectar√° a tu Percepci√≥n.}
+{403}{}{Tu brazo derecho ha sido gravemente herido y no responde bien. Si un brazo se rompe, no podr√°s usar armas de dos manos. Si ambos brazos se rompen, no podr√°s usar armas.}
+{404}{}{Tu brazo izquierdo ha sido gravemente herido y no responde bien. Si un brazo se rompe, no podr√°s usar armas de dos manos. Si ambos brazos se rompen, no podr√°s usar armas.}
 {405}{}{Tu personaje tiene la pierna derecha rota.}
 {406}{}{Tu personaje tiene la pierna izquierda rota.}
 {500}{}{Enero}
@@ -113,17 +113,17 @@
 {602}{}{IMPRIMIR}
 {603}{}{BORRAR}
 {604}{}{HECHO}
-{605}{}{øEst·s seguro que quieres borrar}
+{605}{}{¬øEst√°s seguro que quieres borrar}
 {606}{}{el personaje actual?}
-{607}{}{ fue guardado con Èxito.}
-{608}{}{ fue cargado con Èxito.}
+{607}{}{ fue guardado con √©xito.}
+{608}{}{ fue cargado con √©xito.}
 {609}{}{ya existe.}
-{610}{}{øQuieres sobreescribir?}
+{610}{}{¬øQuieres sobreescribir?}
 {611}{}{Error guardando }
 {612}{}{Error cargando }
-{613}{}{Archivo personaje no v·lido.}
-{614}{}{Datos personaje no v·lidos.}
-{615}{}{°Error leyendo lista archivos!}
+{613}{}{Archivo personaje no v√°lido.}
+{614}{}{Datos personaje no v√°lidos.}
+{615}{}{¬°Error leyendo lista archivos!}
 {616}{}{IMPRIMIR}
 {617}{}{JUGADOR}
 {618}{}{BLANK.GCD}
@@ -165,9 +165,9 @@
 {655}{}{                                      Total Weight:}
 {656}{}{ ::: Adicciones :::}
 {657}{}{ ::: Reputation :::}
-{1000}{}{ReputaciÛn (General) }
+{1000}{}{Reputaci√≥n (General) }
 {1001}{}{Berserker}
-{1002}{}{CampeÛn}
+{1002}{}{Campe√≥n}
 {1003}{}{Infanticida}
 {1004}{}{Adicto a la Nuka-Cola}
 {1005}{}{Adicto a los esteroides}
@@ -178,9 +178,9 @@
 {1010}{}{Adicto al Jet}
 {1011}{}{Adicto al Tragic}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
-{1013}{}{GigolÛ}
-{1014}{}{CampeÛn de Boxeo}
-{1015}{}{NinfomanÌaco}
+{1013}{}{Gigol√≥}
+{1014}{}{Campe√≥n de Boxeo}
+{1015}{}{Ninfoman√≠aco}
 {1016}{}{Profanador de Tumbas}
 {1017}{}{Iniciado: Salvatore}
 {1018}{}{Casado}
@@ -192,59 +192,59 @@
 {1024}{}{Iniciado: Wright}
 {1025}{}{Divorciado}
 {1026}{}{Fumador}
-{1100}{}{Esta estadÌstica representa tu reputaciÛn general. Cuanto m·s alto sea el n˙mero, m·s conocido y respetado ser·s. Si es negativa, ser·s odiado por algunos debido a tus malvadas acciones.}
-{1101}{}{Has matado a un gran n˙mero de gente. Esto generalmente no es algo bueno por lo que ser conocido. Sin embargo, gustar·s m·s a los malos.}
-{1102}{}{Tus acciones te han revelado como el campeÛn de la gente. Tu guerra contra el mal y la villanÌa es largamente conocida. La gente honorable te respetar· m·s.}
-{1103}{}{Has matado a niÒos, el futuro del Yermo. Esto es considerado como algo realmente malo. Mala, mala persona.}
+{1100}{}{Esta estad√≠stica representa tu reputaci√≥n general. Cuanto m√°s alto sea el n√∫mero, m√°s conocido y respetado ser√°s. Si es negativa, ser√°s odiado por algunos debido a tus malvadas acciones.}
+{1101}{}{Has matado a un gran n√∫mero de gente. Esto generalmente no es algo bueno por lo que ser conocido. Sin embargo, gustar√°s m√°s a los malos.}
+{1102}{}{Tus acciones te han revelado como el campe√≥n de la gente. Tu guerra contra el mal y la villan√≠a es largamente conocida. La gente honorable te respetar√° m√°s.}
+{1103}{}{Has matado a ni√±os, el futuro del Yermo. Esto es considerado como algo realmente malo. Mala, mala persona.}
 {1104}{}{Disfrutas sin parar del sabor de Nuka-Cola, el refresco del mundo post-nuclear.}
-{1105}{}{Eres adicto a los esteroides. Debes tomarlos regularmente o sufrir·s los efectos de la abstinencia.}
-{1106}{}{Eres adicto a los mentats. Debes tomarlos regularmente o sufrir·s los efectos de la abstinencia.}
-{1107}{}{Eres adicto al psico. Si no lo tomas regularmente, sufrir·s. Si lo tomas, sufrir·n los dem·s.}
+{1105}{}{Eres adicto a los esteroides. Debes tomarlos regularmente o sufrir√°s los efectos de la abstinencia.}
+{1106}{}{Eres adicto a los mentats. Debes tomarlos regularmente o sufrir√°s los efectos de la abstinencia.}
+{1107}{}{Eres adicto al psico. Si no lo tomas regularmente, sufrir√°s. Si lo tomas, sufrir√°n los dem√°s.}
 {1108}{}{Eres adicto al Rad-Away. Si bien no pone en peligro tu vida, debes tomarlo con regularidad.}
-{1109}{}{Tienes un problema con el alcohol. Realmente tienes un grave problema con tus h·bitos de bebida.}
+{1109}{}{Tienes un problema con el alcohol. Realmente tienes un grave problema con tus h√°bitos de bebida.}
 {1110}{}{Eres adicto al Jet. Debes tomarlo regularmente.}
-{1111}{}{Tr·gicamente, eres adicto al juego Tragic: The Catering. Est·s constantemente buscando nuevas cartas.}
+{1111}{}{Tr√°gicamente, eres adicto al juego Tragic: The Catering. Est√°s constantemente buscando nuevas cartas.}
 {1112}{}{TEMPORARY - What is this?}
-{1113}{}{Sabes de sexo y de sus prolegÛmenos. Sabes como complacer a un miembro del sexo opuesto y dejarle con ganas de m·s.}
-{1114}{}{Eres el campeÛn de los pesos pesados del norte de California. Te has ganado fama, respeto, el amor de miles... y un bonus a tu resistencia y habilidad sin armas.}
-{1115}{}{Seamos honestos: Te tirarÌas a cualquier cosa que andara sobre dos piernas. Y a veces, ni eso te echarÌa atr·s.}
-{1116}{}{"Est·n muertos, no les importar·" se ha convertido en tu lema. Excavar los restos de los dem·s es algo m·s que un hobby para ti.}
+{1113}{}{Sabes de sexo y de sus proleg√≥menos. Sabes como complacer a un miembro del sexo opuesto y dejarle con ganas de m√°s.}
+{1114}{}{Eres el campe√≥n de los pesos pesados del norte de California. Te has ganado fama, respeto, el amor de miles... y un bonus a tu resistencia y habilidad sin armas.}
+{1115}{}{Seamos honestos: Te tirar√≠as a cualquier cosa que andara sobre dos piernas. Y a veces, ni eso te echar√≠a atr√°s.}
+{1116}{}{"Est√°n muertos, no les importar√°" se ha convertido en tu lema. Excavar los restos de los dem√°s es algo m√°s que un hobby para ti.}
 {1117}{}{Eres un mafioso de la familia Salvatore. Eres conocido, respetado, y te sientan genial los sombreros.}
 {1118}{}{Te han cazado. Oye, es tu problema, no el nuestro.}
-{1119}{}{Eres una gran, brillante y resplandeciente estrella. Tus hazaÒas sexuales son bien conocidas a lo largo de todo Nuevo Reno.}
-{1120}{}{Has sido marcado como un miembro del gremio de esclavistas. El tatuaje en tu frente hace tu profesiÛn evidente a cualquiera que lo ve.}
-{1121}{}{Tienes que salir m·s por ahÌ. Tus experiencias sexuales han sido... demasiado bidimensionales.}
+{1119}{}{Eres una gran, brillante y resplandeciente estrella. Tus haza√±as sexuales son bien conocidas a lo largo de todo Nuevo Reno.}
+{1120}{}{Has sido marcado como un miembro del gremio de esclavistas. El tatuaje en tu frente hace tu profesi√≥n evidente a cualquiera que lo ve.}
+{1121}{}{Tienes que salir m√°s por ah√≠. Tus experiencias sexuales han sido... demasiado bidimensionales.}
 {1122}{}{Eres un mafioso de la Familia Bishop. Eres conocido, respetado, y te sientan genial los sombreros.}
 {1123}{}{Eres un mafioso de la Familia Mordino. Eres conocido, respetado, y te sientan genial los sombreros.}
 {1124}{}{Eres un mafioso de la Familia Wright. Eres conocido, respetado, y te sientan genial los sombreros.}
-{1125}{}{Tu esposa ya no est· contigo. Espero que estÈs contento.}
-{1126}{}{Usted es un fumador. Dicen que va a matar ya, pero no est· muerto todavÌa. Y de todos modos, es una buena manera de ver la maldita fresco en un mundo post-apocalÌptico.}
+{1125}{}{Tu esposa ya no est√° contigo. Espero que est√©s contento.}
+{1126}{}{Usted es un fumador. Dicen que va a matar ya, pero no est√° muerto todav√≠a. Y de todos modos, es una buena manera de ver la maldita fresco en un mundo post-apocal√≠ptico.}
 {2000}{}{Idolatrado}
 {2001}{}{Querido}
 {2002}{}{Aceptado}
 {2003}{}{Neutral}
-{2004}{}{Antip·tico}
+{2004}{}{Antip√°tico}
 {2005}{}{Odiado}
 {2006}{}{Vilipendiado}
-{2100}{}{Todo el mundo aquÌ querrÌa ser como t˙. Eres el hijo predilecto y tomado como un ejemplo brillante de lo que una persona deberÌa ser.}
-{2101}{}{En esta zona, la gente te seÒala y te saluda donde quiera que vas. Todo el mundo ha oÌdo hablar de ti, y les ha gustado lo que han oÌdo.}
-{2102}{}{Aunque no te reciban con los brazos abiertos, la mayorÌa de la gente al menos te guiÒar· el ojo en muestra de reconocimiento. Te has hecho un sitio aquÌ.}
-{2103}{}{Aunque normalmente son suspicaces hacia los extranjeros, la gente de esta zona todavÌa no se ha hecho una idea clara acerca de ti.}
+{2100}{}{Todo el mundo aqu√≠ querr√≠a ser como t√∫. Eres el hijo predilecto y tomado como un ejemplo brillante de lo que una persona deber√≠a ser.}
+{2101}{}{En esta zona, la gente te se√±ala y te saluda donde quiera que vas. Todo el mundo ha o√≠do hablar de ti, y les ha gustado lo que han o√≠do.}
+{2102}{}{Aunque no te reciban con los brazos abiertos, la mayor√≠a de la gente al menos te gui√±ar√° el ojo en muestra de reconocimiento. Te has hecho un sitio aqu√≠.}
+{2103}{}{Aunque normalmente son suspicaces hacia los extranjeros, la gente de esta zona todav√≠a no se ha hecho una idea clara acerca de ti.}
 {2104}{}{Tan solo eres otro extranjero. Probablemente nada bueno.}
 {2105}{}{Has dado prueba a la gente de esta zona de que su desconfianza inicial hacia ti estaba bien fundada. La gente te mira y se susurran los unos a los otros cuando te ven llegar. Saben que eres mala gente.}
 {2106}{}{Mirando y murmurando, algunos cruzan la calle para evitar cruzarse contigo, mientras otros escupen y vuelven la cara cuando te ven acercarte. Eres lo peor que se ha arrastrado en esta zona.}
 {3000}{}{Salvador de los Condenados}
-{3001}{}{Guardi·n del Yermo}
+{3001}{}{Guardi√°n del Yermo}
 {3002}{}{Escudo de Esperanza}
 {3003}{}{Defensor}
 {3004}{}{Vagabundo}
 {3005}{}{Traidor}
-{3006}{}{Espada de DesesperaciÛn}
+{3006}{}{Espada de Desesperaci√≥n}
 {3007}{}{Azote del Yermo}
 {3008}{}{Semilla del Diablo}
-{4000}{}{ReputaciÛn}
+{4000}{}{Reputaci√≥n}
 {4001}{}{Adicciones}
-{4100}{}{Representa tu reputaciÛn en un lugar concreto.}
+{4100}{}{Representa tu reputaci√≥n en un lugar concreto.}
 {4101}{}{Cosas a las que te has vuelto adicto.}
 {5000}{}{Sorry, you can only print your}
 {5001}{}{character in the full version.}

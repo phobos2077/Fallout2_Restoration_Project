@@ -1,1 +1,1 @@
-{100}{}{Parece que murió de deshidratación.}
+{100}{}{Parece que muriÃ³ de deshidrataciÃ³n.}

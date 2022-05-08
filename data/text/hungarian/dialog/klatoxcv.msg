@@ -1,1 +1,1 @@
-{100}{}{Beléptél a Toxikus Barlangokba.}
+{100}{}{BelÃ©ptÃ©l a Toxikus Barlangokba.}

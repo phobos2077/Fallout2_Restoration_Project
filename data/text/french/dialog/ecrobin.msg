@@ -1,10 +1,10 @@
 {100}{}{Un homme en SuperArmure.}
 {101}{}{Sieur Robin.}
-{102}{}{Il semble prêt à courir.}
-{103}{}{Sieur Robin, à votre service.}
+{102}{}{Il semble prÃªt Ã  courir.}
+{103}{}{Sieur Robin, Ã  votre service.}
 {104}{}{Tu ne vas pas me faire mal, hein ?}
 {105}{}{Pas besoin d'utiliser la violence, hein ?}
-{106}{}{Va-t'en s'il te plaît.}
-{200}{}{Hé, tes mains sont glacées !}
+{106}{}{Va-t'en s'il te plaÃ®t.}
+{200}{}{HÃ©, tes mains sont glacÃ©es !}
 {201}{}{Cela ne t'appartient pas.}
-{202}{}{Hé, c'est à moi !}
+{202}{}{HÃ©, c'est Ã  moi !}

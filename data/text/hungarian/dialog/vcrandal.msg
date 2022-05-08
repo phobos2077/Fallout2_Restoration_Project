@@ -1,130 +1,130 @@
 {100}{}{Randal, a Komfort Hivatal vezet?je.}
-{101}{}{Egy középkorú embert látsz ritkuló, fekete hajjal.}
+{101}{}{Egy kÃ¶zÃ©pkorÃº embert lÃ¡tsz ritkulÃ³, fekete hajjal.}
 {102}{}{Randal, a Komfort Hivatal vezet?je.}
-{103}{}{Egy középkorú embert látsz ritkuló, fekete hajjal.}
-{104}{}{Gratulálok,}
-{105}{}{ imádtam, ahogy elbántál azokkal az Enklávés seggfejekkel.}
-{106}{}{Úgy hallom, délen néhány nagykutyának szétrúgtad a seggét. Csak így tovább!}
-{107}{}{Behatoló! ?rség! ?rség!!!}
-{108}{}{Mi a... ?! Egy mutáns! ?rség!}
-{109}{}{Mi a...?! Egy ghoul! ?rség!}
-{110}{}{Jó napot, Kapitány.}
-{111}{}{Menedékváros mindenek felett, Kapitány.}
-{112}{}{Jó napot, Polgártárs!}
-{113}{}{Menedékváros mindenek felett, Polgártárs.}
-{114}{}{Néhány kimutatást kell még majd küldenünk az A és B Komfort Osztálynak.}
-{115}{}{Leltárba kell venni a legújabb felszereléseket és fel kell vinni az adatokat a lista szerverre.}
-{116}{}{Hiányzik a DOS. Ezzel az új operációs rendszerrel sokkal nehezebb az adatokat kezelni.}
-{117}{}{Az Els? Polgárnak még mindig kellenek azok a felszerelés listák.}
-{118}{}{Bocsánat, de már zárva vagyunk. Gyere vissza holnap reggel!}
-{119}{}{Zárva vagyunk. Csak rögzítem még ezeket a listákat, miel?tt hazamegyek.}
-{120}{}{Üdvözöllek, idegen! Mindig örülök, ha új arcot látok. A nevem Randal, én vagyok a Komfort Hivatal vezet?je.}
-{121}{}{ÉLhett}
-{122}{}{Neeeeem-öm}
+{103}{}{Egy kÃ¶zÃ©pkorÃº embert lÃ¡tsz ritkulÃ³, fekete hajjal.}
+{104}{}{GratulÃ¡lok,}
+{105}{}{ imÃ¡dtam, ahogy elbÃ¡ntÃ¡l azokkal az EnklÃ¡vÃ©s seggfejekkel.}
+{106}{}{Ãšgy hallom, dÃ©len nÃ©hÃ¡ny nagykutyÃ¡nak szÃ©trÃºgtad a seggÃ©t. Csak Ã­gy tovÃ¡bb!}
+{107}{}{BehatolÃ³! ?rsÃ©g! ?rsÃ©g!!!}
+{108}{}{Mi a... ?! Egy mutÃ¡ns! ?rsÃ©g!}
+{109}{}{Mi a...?! Egy ghoul! ?rsÃ©g!}
+{110}{}{JÃ³ napot, KapitÃ¡ny.}
+{111}{}{MenedÃ©kvÃ¡ros mindenek felett, KapitÃ¡ny.}
+{112}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{113}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs.}
+{114}{}{NÃ©hÃ¡ny kimutatÃ¡st kell mÃ©g majd kÃ¼ldenÃ¼nk az A Ã©s B Komfort OsztÃ¡lynak.}
+{115}{}{LeltÃ¡rba kell venni a legÃºjabb felszerelÃ©seket Ã©s fel kell vinni az adatokat a lista szerverre.}
+{116}{}{HiÃ¡nyzik a DOS. Ezzel az Ãºj operÃ¡ciÃ³s rendszerrel sokkal nehezebb az adatokat kezelni.}
+{117}{}{Az Els? PolgÃ¡rnak mÃ©g mindig kellenek azok a felszerelÃ©s listÃ¡k.}
+{118}{}{BocsÃ¡nat, de mÃ¡r zÃ¡rva vagyunk. Gyere vissza holnap reggel!}
+{119}{}{ZÃ¡rva vagyunk. Csak rÃ¶gzÃ­tem mÃ©g ezeket a listÃ¡kat, miel?tt hazamegyek.}
+{120}{}{ÃœdvÃ¶zÃ¶llek, idegen! Mindig Ã¶rÃ¼lÃ¶k, ha Ãºj arcot lÃ¡tok. A nevem Randal, Ã©n vagyok a Komfort Hivatal vezet?je.}
+{121}{}{Ã‰Lhett}
+{122}{}{Neeeeem-Ã¶m}
 {123}{}{[Elcsoszogsz]}
 {124}{}{Komfort Hivatal?!}
-{125}{}{Kösz, csak körülnéztem.}
-{126}{}{ÉLET? Az Édenkert Létrehozást El?segít? Táskáról beszélsz? Egy szürke aktatáskának kinéz? valamir?l?}
-{127}{}{KEEEL ÉLhettt!}
+{125}{}{KÃ¶sz, csak kÃ¶rÃ¼lnÃ©ztem.}
+{126}{}{Ã‰LET? Az Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡rÃ³l beszÃ©lsz? Egy szÃ¼rke aktatÃ¡skÃ¡nak kinÃ©z? valamir?l?}
+{127}{}{KEEEL Ã‰Lhettt!}
 {128}{}{[Elcsoszogsz]}
-{129}{}{IGEN!!! Kaphatnék egyet?}
-{130}{}{Kérdezhetnék valami mást?}
-{131}{}{Értem, most mennem kell. Viszlát!}
-{132}{}{Sajnálom, barátom, de a miénk már nincs meg. Menedékváros létrehozásánál felhasználtuk.}
-{133}{}{KEEEL ÉLhettt!}
+{129}{}{IGEN!!! KaphatnÃ©k egyet?}
+{130}{}{KÃ©rdezhetnÃ©k valami mÃ¡st?}
+{131}{}{Ã‰rtem, most mennem kell. ViszlÃ¡t!}
+{132}{}{SajnÃ¡lom, barÃ¡tom, de a miÃ©nk mÃ¡r nincs meg. MenedÃ©kvÃ¡ros lÃ©trehozÃ¡sÃ¡nÃ¡l felhasznÃ¡ltuk.}
+{133}{}{KEEEL Ã‰Lhettt!}
 {134}{}{[Elcsoszogsz]}
-{135}{}{Ó, hogy bassza meg...  már bocsánat. Nem tudsz egy helyet, ahol még találhatnék?}
-{136}{}{Kérdezhetnék valami mást?}
-{137}{}{Értem, most mennem kell. Viszlát!}
-{138}{}{Hmmm... nos... a probléma a következ?. Az ÉLET egy régi technológia... háború el?tti, hogy egész pontos legyek. Nem terem az ilyen minden bokorban. Kizárólag Menedékeknek volt ilyen felszerelésük.}
-{139}{}{KEEL Mendnék.}
+{135}{}{Ã“, hogy bassza meg...  mÃ¡r bocsÃ¡nat. Nem tudsz egy helyet, ahol mÃ©g talÃ¡lhatnÃ©k?}
+{136}{}{KÃ©rdezhetnÃ©k valami mÃ¡st?}
+{137}{}{Ã‰rtem, most mennem kell. ViszlÃ¡t!}
+{138}{}{Hmmm... nos... a problÃ©ma a kÃ¶vetkez?. Az Ã‰LET egy rÃ©gi technolÃ³gia... hÃ¡borÃº el?tti, hogy egÃ©sz pontos legyek. Nem terem az ilyen minden bokorban. KizÃ¡rÃ³lag MenedÃ©keknek volt ilyen felszerelÃ©sÃ¼k.}
+{139}{}{KEEL MendnÃ©k.}
 {140}{}{[Elcsoszogsz]}
-{141}{}{Segítenél? Hol találok még Menedékeket?}
-{142}{}{Kérdezhetnék valami mást?}
-{143}{}{Értem, most mennem kell. Viszlát!}
-{144}{}{Én a helyedben a Menedék Központi Számítógépében keresném, az majd talán kiadja a koordinátákat. ?szintén szólva kétlem, de próbálkozni azért még lehet.}
-{145}{}{Én a helyedben a Menedék Központi Számítógépében keresném, az majd talán kiadja a koordinátákat. Sajnos oda csak Polgárok léphetnek be.}
-{146}{}{Köszönöm.}
-{147}{}{Kérdezhetnék valami mást?}
-{148}{}{Köszönöm az információkat.}
-{149}{}{Megint itt vagy? Tehetek érted valamit?}
-{150}{}{Miben segíthetek?}
-{151}{}{Élhett?}
+{141}{}{SegÃ­tenÃ©l? Hol talÃ¡lok mÃ©g MenedÃ©keket?}
+{142}{}{KÃ©rdezhetnÃ©k valami mÃ¡st?}
+{143}{}{Ã‰rtem, most mennem kell. ViszlÃ¡t!}
+{144}{}{Ã‰n a helyedben a MenedÃ©k KÃ¶zponti SzÃ¡mÃ­tÃ³gÃ©pÃ©ben keresnÃ©m, az majd talÃ¡n kiadja a koordinÃ¡tÃ¡kat. ?szintÃ©n szÃ³lva kÃ©tlem, de prÃ³bÃ¡lkozni azÃ©rt mÃ©g lehet.}
+{145}{}{Ã‰n a helyedben a MenedÃ©k KÃ¶zponti SzÃ¡mÃ­tÃ³gÃ©pÃ©ben keresnÃ©m, az majd talÃ¡n kiadja a koordinÃ¡tÃ¡kat. Sajnos oda csak PolgÃ¡rok lÃ©phetnek be.}
+{146}{}{KÃ¶szÃ¶nÃ¶m.}
+{147}{}{KÃ©rdezhetnÃ©k valami mÃ¡st?}
+{148}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{149}{}{Megint itt vagy? Tehetek Ã©rted valamit?}
+{150}{}{Miben segÃ­thetek?}
+{151}{}{Ã‰lhett?}
 {152}{}{[Elcsoszogsz]}
-{153}{}{Mi is ez a hely tulajdonképpen?}
-{154}{}{Egy ÉLET nev? szerkezetet keresek. Van nektek ilyen?}
-{155}{}{Valerie-nek a karbantartó részlegr?l szüksége lenne egy új villáskulcsra és kombinált fogóra.}
+{153}{}{Mi is ez a hely tulajdonkÃ©ppen?}
+{154}{}{Egy Ã‰LET nev? szerkezetet keresek. Van nektek ilyen?}
+{155}{}{Valerie-nek a karbantartÃ³ rÃ©szlegr?l szÃ¼ksÃ©ge lenne egy Ãºj villÃ¡skulcsra Ã©s kombinÃ¡lt fogÃ³ra.}
 {156}{}{Councilor McClure said you'd have a... uh, hydro-magneto-thingie that I could have for the Gecko power plant.}
 {157}{}{Councilor McClure said you'd have a hydroelectric magnetosphere regulator in stock that I could have.}
-{158}{}{Az Els? Polgár küldött, hogy átvegyem a jutalmamat.}
-{159}{}{Kösz, csak körülnéztem.}
-{160}{}{Igen, Komfort Hivatal, de ha úgy jobban tetszik, ez egy raktár. Olyan felszereléseket tárolunk, ami a Polgárok életét megkönnyíti. Például "csináld magad" útmutatókat, szerszámokat, stimpakkokat, gyógyászati felszereléseket.}
-{161}{}{Így már értem. Megnézhetném, mi van raktáron?}
-{162}{}{Nincs egy ÉLETED?}
-{163}{}{Valerie-nek a karbantartó részlegr?l szüksége lenne egy új villáskulcsra és kombinált fogóra.}
+{158}{}{Az Els? PolgÃ¡r kÃ¼ldÃ¶tt, hogy Ã¡tvegyem a jutalmamat.}
+{159}{}{KÃ¶sz, csak kÃ¶rÃ¼lnÃ©ztem.}
+{160}{}{Igen, Komfort Hivatal, de ha Ãºgy jobban tetszik, ez egy raktÃ¡r. Olyan felszerelÃ©seket tÃ¡rolunk, ami a PolgÃ¡rok Ã©letÃ©t megkÃ¶nnyÃ­ti. PÃ©ldÃ¡ul "csinÃ¡ld magad" ÃºtmutatÃ³kat, szerszÃ¡mokat, stimpakkokat, gyÃ³gyÃ¡szati felszerelÃ©seket.}
+{161}{}{Ãgy mÃ¡r Ã©rtem. MegnÃ©zhetnÃ©m, mi van raktÃ¡ron?}
+{162}{}{Nincs egy Ã‰LETED?}
+{163}{}{Valerie-nek a karbantartÃ³ rÃ©szlegr?l szÃ¼ksÃ©ge lenne egy Ãºj villÃ¡skulcsra Ã©s kombinÃ¡lt fogÃ³ra.}
 {164}{}{Councilor McClure said you'd have a... uh, hydro-magneto-thingie that I could have for the Gecko power plant.}
 {165}{}{Councilor McClure said you'd have a hydroelectric magnetosphere regulator in stock that I could have.}
-{166}{}{Az Els? Polgár küldött, hogy átvegyem a jutalmamat.}
-{167}{}{Igen, köszönöm. Feltehetek egy kérdést?}
-{168}{}{Értem, most mennem kell. Viszlát!}
-{169}{}{Bocsáss meg, de a szabályzat szerint itt csak Polgárok vásárolhatnak. Félre ne értsd, semmi bajom veled, de tudod a szabály az szabály. Szerintem nézz be Boldog Harry boltjába, elég nagy árukészlettel rendelkezik.}
-{170}{}{Bocsáss meg, de a szabályzat szerint itt csak Polgárok vásárolhatnak. Félre ne értsd, semmi bajom veled, de tudod a szabály az szabály. Szerintem nézz be Boldog Harry boltjába, elég nagy árukészlettel rendelkezik.}
-{171}{}{Hogy válhatok teljes jogú Polgárrá?}
-{172}{}{De hisz én Polgár vagyok!}
-{173}{}{Nézd, a pénzem ugyanolyan jó, mint bármely Polgáré.}
+{166}{}{Az Els? PolgÃ¡r kÃ¼ldÃ¶tt, hogy Ã¡tvegyem a jutalmamat.}
+{167}{}{Igen, kÃ¶szÃ¶nÃ¶m. Feltehetek egy kÃ©rdÃ©st?}
+{168}{}{Ã‰rtem, most mennem kell. ViszlÃ¡t!}
+{169}{}{BocsÃ¡ss meg, de a szabÃ¡lyzat szerint itt csak PolgÃ¡rok vÃ¡sÃ¡rolhatnak. FÃ©lre ne Ã©rtsd, semmi bajom veled, de tudod a szabÃ¡ly az szabÃ¡ly. Szerintem nÃ©zz be Boldog Harry boltjÃ¡ba, elÃ©g nagy Ã¡rukÃ©szlettel rendelkezik.}
+{170}{}{BocsÃ¡ss meg, de a szabÃ¡lyzat szerint itt csak PolgÃ¡rok vÃ¡sÃ¡rolhatnak. FÃ©lre ne Ã©rtsd, semmi bajom veled, de tudod a szabÃ¡ly az szabÃ¡ly. Szerintem nÃ©zz be Boldog Harry boltjÃ¡ba, elÃ©g nagy Ã¡rukÃ©szlettel rendelkezik.}
+{171}{}{Hogy vÃ¡lhatok teljes jogÃº PolgÃ¡rrÃ¡?}
+{172}{}{De hisz Ã©n PolgÃ¡r vagyok!}
+{173}{}{NÃ©zd, a pÃ©nzem ugyanolyan jÃ³, mint bÃ¡rmely PolgÃ¡rÃ©.}
 {174}{}{Councilor McClure said you'd have a hydroelectric magnetosphere regulator in stock that I could have.}
-{175}{}{Az Els? Polgár küldött, hogy átvegyem a jutalmamat.}
-{176}{}{Igen, köszönöm. Feltehetek egy kérdést?}
-{177}{}{Remek. Viszlát!}
-{178}{}{Ki kell töltened egy Polgársági tesztet. Gregory F?biztosnál bárki próbát tehet, de ha elfogadsz egy baráti jótanácsot, el?bb beszélj Lynette-el, az Els? Polgárral! ? eligazít a helyi dolgokban.}
-{179}{}{Hol találom?}
-{180}{}{Értem. Kérdezhetnék valami mást?}
-{181}{}{Köszönöm. Megkeresem és beszélek vele.}
-{182}{}{A Tanács Épületében. Ha kilépsz az ajtón, jobbra kell fordulnod, majd egyenesen át a parkon. A város legészakibb épülete az.}
-{183}{}{Értem. Kérdezhetnék valami mást?}
-{184}{}{Köszönöm. Megkeresem és beszélek vele.}
-{185}{}{Valóban? Nem emlékszem rád, de egy pillanat alatt tisztázhatjuk a dolgot. Nálad vannak a papírjaid?}
-{186}{}{Hoppsz... hát nem otthon felejtettem?}
-{187}{}{Természetesen, Polgártárs. Parancsolj!}
-{188}{}{Hogy rohan az id?? Nekem is azt kell tennem. Viszlát!}
-{189}{}{Akkor most szépen áthúzom a leolvasón és megbizonyosodunk róla, hogy minden rendben van-e. Egy pillanat az egész.}
-{190}{}{Mi van?! Ácsi! Nem kell itt semmit, sehol huzigálni, okés? Még elkopik. Na... add csak szépen vissza azokat a papírokat!}
-{191}{}{Most jut eszembe, hogy halaszthatatlan dolgom akadt. Visszakaphatnám a papírjaimat?}
-{192}{}{Köszönöm, Polgártárs, türelmesen várok.}
+{175}{}{Az Els? PolgÃ¡r kÃ¼ldÃ¶tt, hogy Ã¡tvegyem a jutalmamat.}
+{176}{}{Igen, kÃ¶szÃ¶nÃ¶m. Feltehetek egy kÃ©rdÃ©st?}
+{177}{}{Remek. ViszlÃ¡t!}
+{178}{}{Ki kell tÃ¶ltened egy PolgÃ¡rsÃ¡gi tesztet. Gregory F?biztosnÃ¡l bÃ¡rki prÃ³bÃ¡t tehet, de ha elfogadsz egy barÃ¡ti jÃ³tanÃ¡csot, el?bb beszÃ©lj Lynette-el, az Els? PolgÃ¡rral! ? eligazÃ­t a helyi dolgokban.}
+{179}{}{Hol talÃ¡lom?}
+{180}{}{Ã‰rtem. KÃ©rdezhetnÃ©k valami mÃ¡st?}
+{181}{}{KÃ¶szÃ¶nÃ¶m. Megkeresem Ã©s beszÃ©lek vele.}
+{182}{}{A TanÃ¡cs Ã‰pÃ¼letÃ©ben. Ha kilÃ©psz az ajtÃ³n, jobbra kell fordulnod, majd egyenesen Ã¡t a parkon. A vÃ¡ros legÃ©szakibb Ã©pÃ¼lete az.}
+{183}{}{Ã‰rtem. KÃ©rdezhetnÃ©k valami mÃ¡st?}
+{184}{}{KÃ¶szÃ¶nÃ¶m. Megkeresem Ã©s beszÃ©lek vele.}
+{185}{}{ValÃ³ban? Nem emlÃ©kszem rÃ¡d, de egy pillanat alatt tisztÃ¡zhatjuk a dolgot. NÃ¡lad vannak a papÃ­rjaid?}
+{186}{}{Hoppsz... hÃ¡t nem otthon felejtettem?}
+{187}{}{TermÃ©szetesen, PolgÃ¡rtÃ¡rs. Parancsolj!}
+{188}{}{Hogy rohan az id?? Nekem is azt kell tennem. ViszlÃ¡t!}
+{189}{}{Akkor most szÃ©pen Ã¡thÃºzom a leolvasÃ³n Ã©s megbizonyosodunk rÃ³la, hogy minden rendben van-e. Egy pillanat az egÃ©sz.}
+{190}{}{Mi van?! Ãcsi! Nem kell itt semmit, sehol huzigÃ¡lni, okÃ©s? MÃ©g elkopik. Na... add csak szÃ©pen vissza azokat a papÃ­rokat!}
+{191}{}{Most jut eszembe, hogy halaszthatatlan dolgom akadt. VisszakaphatnÃ¡m a papÃ­rjaimat?}
+{192}{}{KÃ¶szÃ¶nÃ¶m, PolgÃ¡rtÃ¡rs, tÃ¼relmesen vÃ¡rok.}
 {193}{}{Nos... hmmm... rendben.}
-{194}{}{Nem bánod, ha felteszek néhány kérdést?}
-{195}{}{Mennem kell, viszlát!}
-{196}{}{Úgy látom, minden a legnagyobb rendben van... itt vannak a papírjaid. Tehát mit tehetek érted?}
-{197}{}{Megnézném, mi van raktáron.}
-{198}{}{Feltehetek egy kérdést?}
-{199}{}{Kösz, csak körülnéztem.}
-{200}{}{Szóval... te Polgár vagy.}
+{194}{}{Nem bÃ¡nod, ha felteszek nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{195}{}{Mennem kell, viszlÃ¡t!}
+{196}{}{Ãšgy lÃ¡tom, minden a legnagyobb rendben van... itt vannak a papÃ­rjaid. TehÃ¡t mit tehetek Ã©rted?}
+{197}{}{MegnÃ©znÃ©m, mi van raktÃ¡ron.}
+{198}{}{Feltehetek egy kÃ©rdÃ©st?}
+{199}{}{KÃ¶sz, csak kÃ¶rÃ¼lnÃ©ztem.}
+{200}{}{SzÃ³val... te PolgÃ¡r vagy.}
 {201}{}{Igen mondta, hogy beugrasz majd.}
 {202}{}{Rendben.}
-{203}{}{Hagyjuk, majd kés?bb visszajövök érte.}
-{204}{}{Itt van, tessék, egy Hi-Mag. Úgy néz ki mint egy láva lámpa, nem? Ó... és vigyázz rá... nagyon törékeny.}
-{205}{}{Megnézhetem, mi van raktáron?}
-{206}{}{Nem bánod, ha felteszek néhány kérdést?}
-{207}{}{Kösz. Azt hiszem, gyönyörködni fogok benne még egy darabig, miel?tt elvinném a gekkói er?m?be.}
-{208}{}{Megvan. Kösz az alkatrészt.}
-{209}{}{Igen, az Els? Polgár mondta, hogy benézel majd ide, Kapitány...[kacsint]... hogy is mondjam,... egy igazi SZÉPSÉG vár rád.}
-{210}{}{Igen, az Els? Polgár mondta, hogy benézel majd. Hogy is mondjam, barátom... egy igazi SZÉPSÉG vár rád.}
+{203}{}{Hagyjuk, majd kÃ©s?bb visszajÃ¶vÃ¶k Ã©rte.}
+{204}{}{Itt van, tessÃ©k, egy Hi-Mag. Ãšgy nÃ©z ki mint egy lÃ¡va lÃ¡mpa, nem? Ã“... Ã©s vigyÃ¡zz rÃ¡... nagyon tÃ¶rÃ©keny.}
+{205}{}{MegnÃ©zhetem, mi van raktÃ¡ron?}
+{206}{}{Nem bÃ¡nod, ha felteszek nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{207}{}{KÃ¶sz. Azt hiszem, gyÃ¶nyÃ¶rkÃ¶dni fogok benne mÃ©g egy darabig, miel?tt elvinnÃ©m a gekkÃ³i er?m?be.}
+{208}{}{Megvan. KÃ¶sz az alkatrÃ©szt.}
+{209}{}{Igen, az Els? PolgÃ¡r mondta, hogy benÃ©zel majd ide, KapitÃ¡ny...[kacsint]... hogy is mondjam,... egy igazi SZÃ‰PSÃ‰G vÃ¡r rÃ¡d.}
+{210}{}{Igen, az Els? PolgÃ¡r mondta, hogy benÃ©zel majd. Hogy is mondjam, barÃ¡tom... egy igazi SZÃ‰PSÃ‰G vÃ¡r rÃ¡d.}
 {211}{}{Mi a fene ez?}
-{212}{}{Tudod, mit? Tedd félre nekem, majd kés?bb beugrok érte!}
-{213}{}{Nem más mint egy Heckler and Koch G11, az egyik legjobb támadó fegyver, amit valaha is készítettek... (átnyújtja neked a fegyvert)... 4,7 mm-es hüvely nélküli töltények, 50-töltényes tár. Ha ez beszél, az emberek hallgatnak.}
-{214}{}{Abban biztos vagyok. Köszönöm.}
-{215}{}{Szívesen. Plusz... van itt még néhány repeszgránát is. Tekintsd úgy, mint személyes köszönetnyilvánítást t?lem, amiért elintézted azokat a seggfejeket.}
-{216}{}{Remek! Megnézhetném, mi van még raktáron?}
-{217}{}{Kérdezhetek valami mást?}
-{218}{}{Kösz. Biztos jó hasznát veszem majd.}
+{212}{}{Tudod, mit? Tedd fÃ©lre nekem, majd kÃ©s?bb beugrok Ã©rte!}
+{213}{}{Nem mÃ¡s mint egy Heckler and Koch G11, az egyik legjobb tÃ¡madÃ³ fegyver, amit valaha is kÃ©szÃ­tettek... (Ã¡tnyÃºjtja neked a fegyvert)... 4,7 mm-es hÃ¼vely nÃ©lkÃ¼li tÃ¶ltÃ©nyek, 50-tÃ¶ltÃ©nyes tÃ¡r. Ha ez beszÃ©l, az emberek hallgatnak.}
+{214}{}{Abban biztos vagyok. KÃ¶szÃ¶nÃ¶m.}
+{215}{}{SzÃ­vesen. Plusz... van itt mÃ©g nÃ©hÃ¡ny repeszgrÃ¡nÃ¡t is. Tekintsd Ãºgy, mint szemÃ©lyes kÃ¶szÃ¶netnyilvÃ¡nÃ­tÃ¡st t?lem, amiÃ©rt elintÃ©zted azokat a seggfejeket.}
+{216}{}{Remek! MegnÃ©zhetnÃ©m, mi van mÃ©g raktÃ¡ron?}
+{217}{}{KÃ©rdezhetek valami mÃ¡st?}
+{218}{}{KÃ¶sz. Biztos jÃ³ hasznÃ¡t veszem majd.}
 {219}{}{Akkor rendben vagyunk?}
-{220}{}{Igen, köszönöm. Feltehetek egy kérdést?}
-{221}{}{Igen, de most mennem kell. Viszlát!}
-{222}{}{Igen, tudom. Még mindig várok a kérvény listákra, hogy rendbe rakjam a szervert. Nem tudok mit mondani. A dolgok néha id?t vesznek igénybe.}
-{223}{}{Értem. Kérdezhetnék valami mást?}
-{224}{}{Akkor talán máshol nézek utána azoknak a cuccoknak.}
+{220}{}{Igen, kÃ¶szÃ¶nÃ¶m. Feltehetek egy kÃ©rdÃ©st?}
+{221}{}{Igen, de most mennem kell. ViszlÃ¡t!}
+{222}{}{Igen, tudom. MÃ©g mindig vÃ¡rok a kÃ©rvÃ©ny listÃ¡kra, hogy rendbe rakjam a szervert. Nem tudok mit mondani. A dolgok nÃ©ha id?t vesznek igÃ©nybe.}
+{223}{}{Ã‰rtem. KÃ©rdezhetnÃ©k valami mÃ¡st?}
+{224}{}{Akkor talÃ¡n mÃ¡shol nÃ©zek utÃ¡na azoknak a cuccoknak.}
 {225}{}{!}
-{226}{}{, he? Várj egy percet, mindjárt hozom neked a Hidroelektromos magento... izé... a Hi-Mag -ot.}
-{227}{}{, jól mondom? Várj egy percet, mindjárt hozom neked a Hidroelektromos magento... izé... a Hi-Mag-ot.}
-{228}{}{Köszi.}
-{229}{}{[tovább]}
+{226}{}{, he? VÃ¡rj egy percet, mindjÃ¡rt hozom neked a Hidroelektromos magento... izÃ©... a Hi-Mag -ot.}
+{227}{}{, jÃ³l mondom? VÃ¡rj egy percet, mindjÃ¡rt hozom neked a Hidroelektromos magento... izÃ©... a Hi-Mag-ot.}
+{228}{}{KÃ¶szi.}
+{229}{}{[tovÃ¡bb]}

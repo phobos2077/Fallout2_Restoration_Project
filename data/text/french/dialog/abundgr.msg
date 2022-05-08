@@ -1,1 +1,1 @@
-{100}{}{Tu entres dans une grotte sombre. Tu entends des créatures bouger autour de toi.}
+{100}{}{Tu entres dans une grotte sombre. Tu entends des crÃ©atures bouger autour de toi.}

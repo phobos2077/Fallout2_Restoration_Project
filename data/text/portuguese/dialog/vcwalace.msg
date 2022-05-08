@@ -1,276 +1,276 @@
-{100}{}{Você vê o Wallace.}
-{101}{}{Você vê um homem magro com a cara fechada. Ele está vestindo uma Vault suit bruscamente apertada.}
-{102}{}{Você vê o Wallace, oficial do Vault City's Customs.}
-{103}{}{Você vê um homem magro com a cara fechada. Ele está vestindo uma Vault suit bruscamente apertada.}
-{104}{}{Nós ouvimos falar sobre suas heróicas façanhas. Por ordem do Conselho, você... e suas companhias... têm a permissão para entrar em Vault City quando quiserem.}
-{105}{}{O  Customs Office fecha durante a noite. Volte pela manhã.}
+{100}{}{VocÃª vÃª o Wallace.}
+{101}{}{VocÃª vÃª um homem magro com a cara fechada. Ele estÃ¡ vestindo uma Vault suit bruscamente apertada.}
+{102}{}{VocÃª vÃª o Wallace, oficial do Vault City's Customs.}
+{103}{}{VocÃª vÃª um homem magro com a cara fechada. Ele estÃ¡ vestindo uma Vault suit bruscamente apertada.}
+{104}{}{NÃ³s ouvimos falar sobre suas herÃ³icas faÃ§anhas. Por ordem do Conselho, vocÃª... e suas companhias... tÃªm a permissÃ£o para entrar em Vault City quando quiserem.}
+{105}{}{O  Customs Office fecha durante a noite. Volte pela manhÃ£.}
 {106}{}{O  Customs Office fecha durante a noite. Vou voltar pra casa depois de tabelar todas estas listas.}
-{107}{}{Não tenho nada a dizer para alguém que viaja com... ghouls. A espécie deve ficar em Courtyard.}
-{108}{}{Não tenho nada a dizer para alguém que viaja com... mutantes. A espécie deve ficar em Courtyard.}
-{109}{}{Olá, capitão. Há algo em que eu possa ajudar?}
-{110}{}{Olá, Citizen. Há algo em que eu possa ajudar?}
-{111}{}{Olá, viajante. Vaul City saúda sua chegada. Há algo em que eu possa ajudar?}
+{107}{}{NÃ£o tenho nada a dizer para alguÃ©m que viaja com... ghouls. A espÃ©cie deve ficar em Courtyard.}
+{108}{}{NÃ£o tenho nada a dizer para alguÃ©m que viaja com... mutantes. A espÃ©cie deve ficar em Courtyard.}
+{109}{}{OlÃ¡, capitÃ£o. HÃ¡ algo em que eu possa ajudar?}
+{110}{}{OlÃ¡, Citizen. HÃ¡ algo em que eu possa ajudar?}
+{111}{}{OlÃ¡, viajante. Vaul City saÃºda sua chegada. HÃ¡ algo em que eu possa ajudar?}
 {112}{}{Frazz-urb-luuw!}
 {113}{}{Desliga}
-{114}{}{Quem é você?}
-{115}{}{O que é este lugar?}
-{116}{}{Eu acredito que seu assistente, Skeev, esteja envolvido em práticas ilegais.}
+{114}{}{Quem Ã© vocÃª?}
+{115}{}{O que Ã© este lugar?}
+{116}{}{Eu acredito que seu assistente, Skeev, esteja envolvido em prÃ¡ticas ilegais.}
 {117}{}{Nada por hoje, valeu.}
 {118}{}{Bem, acho que vou ter que conversar com os  guardas de Courtyard. Eles parecem estar deixando qualque forasteiro entrar na cidade ultimamente.}
 {119}{}{Dayz. Daze? Daiseeee.}
 {120}{}{Desliga}
 {121}{}{Idiota.}
-{122}{}{"Daiseee," você disse? Que fascinante. Por que você não volta para Courtyard e conta tudo sobre isso para o resto dos seus amigos forasteiros?}
+{122}{}{"Daiseee," vocÃª disse? Que fascinante. Por que vocÃª nÃ£o volta para Courtyard e conta tudo sobre isso para o resto dos seus amigos forasteiros?}
 {123}{}{Beleza!}
-{124}{}{Na verdade, agora que pensei no assunto, talvez seja melhor você deixar suas armas e armaduras por aqui. Só pela segurança de Vault City.}
+{124}{}{Na verdade, agora que pensei no assunto, talvez seja melhor vocÃª deixar suas armas e armaduras por aqui. SÃ³ pela seguranÃ§a de Vault City.}
 {125}{}{Uh-kuh}
-{126}{}{Melhor tirar a armadura primeiro, aí voc... ei... o que é isso que está vestindo debaixo da armadura?}
+{126}{}{Melhor tirar a armadura primeiro, aÃ­ voc... ei... o que Ã© isso que estÃ¡ vestindo debaixo da armadura?}
 {127}{}{Hnuh?}
-{128}{}{Por q--? Por que... você está vestindo uma vault suit original!}
-{129}{}{É. Valt sut é quente. Igual a mamãe.}
-{130}{}{Sim, eu estou. E você não vai acreditar no que tive que passar pra pegar essa MERDA dessa coisa --}
-{131}{}{Aqui, pegue esse Day Pass e vá falar com nossa First Citizen - Estou certo de que ele terá muitas perguntas para você.}
+{128}{}{Por q--? Por que... vocÃª estÃ¡ vestindo uma vault suit original!}
+{129}{}{Ã‰. Valt sut Ã© quente. Igual a mamÃ£e.}
+{130}{}{Sim, eu estou. E vocÃª nÃ£o vai acreditar no que tive que passar pra pegar essa MERDA dessa coisa --}
+{131}{}{Aqui, pegue esse Day Pass e vÃ¡ falar com nossa First Citizen - Estou certo de que ele terÃ¡ muitas perguntas para vocÃª.}
 {132}{}{Uh-kuh.}
-{133}{}{Valeu. Uh, acho que eu também tenho algumas perguntas pra ela.}
-{134}{}{O que *você* quer?}
+{133}{}{Valeu. Uh, acho que eu tambÃ©m tenho algumas perguntas pra ela.}
+{134}{}{O que *vocÃª* quer?}
 {135}{}{Cidadeeee? Mim ir dentro?}
 {136}{}{Hewooo?}
 {137}{}{Desliga}
 {138}{}{Eu gostaria de entrar na cidade,}
 {139}{}{Eu gostaria de lhe fazer algumas perguntas...}
-{140}{}{Não importa.}
+{140}{}{NÃ£o importa.}
 {141}{}{Pare de me amolar, seu tolo}
-{142}{}{Mim não tolu. VOCÊ TOLU.}
+{142}{}{Mim nÃ£o tolu. VOCÃŠ TOLU.}
 {143}{}{Desliga}
-{144}{}{Olha, talvez nós possamos trabalhar algo por fora...?}
-{145}{}{Uh, tchau, então.}
-{146}{}{Você foi expulso de Vault City por alguma razão, forasteiro. Sem segunda chance.}
+{144}{}{Olha, talvez nÃ³s possamos trabalhar algo por fora...?}
+{145}{}{Uh, tchau, entÃ£o.}
+{146}{}{VocÃª foi expulso de Vault City por alguma razÃ£o, forasteiro. Sem segunda chance.}
 {147}{}{Outra? O que aconteceu com a primeira?}
 {148}{}{MIM ENTRAR. AGORA.}
-{149}{}{Pufavô?}
+{149}{}{PufavÃ´?}
 {150}{}{Desliga}
-{151}{}{Olha, tudo não passou de um desentendimento.}
-{152}{}{Bem, você não poderia me dar outra?}
-{153}{}{Deixe pra lá então.}
-{154}{}{Esqueça.}
+{151}{}{Olha, tudo nÃ£o passou de um desentendimento.}
+{152}{}{Bem, vocÃª nÃ£o poderia me dar outra?}
+{153}{}{Deixe pra lÃ¡ entÃ£o.}
+{154}{}{EsqueÃ§a.}
 {155}{}{Eu posso. Mas cada Day Pass tem um custo de $50 depois de dado o primeiro.}
-{156}{}{Tudo bem. Aqui está o dinheiro.}
+{156}{}{Tudo bem. Aqui estÃ¡ o dinheiro.}
 {157}{}{De nada. Nem preciso disso tanto assim.}
-{158}{}{De nada então. Eu voltarei quando tiver mais algum dinheiro.}
-{159}{}{Aqui está. POR FAVOR tente manter este com você todo o tempo.Eu não quero ficar distribuindo múltiplos Day Passes pra todo mundo..}
+{158}{}{De nada entÃ£o. Eu voltarei quando tiver mais algum dinheiro.}
+{159}{}{Aqui estÃ¡. POR FAVOR tente manter este com vocÃª todo o tempo.Eu nÃ£o quero ficar distribuindo mÃºltiplos Day Passes pra todo mundo..}
 {160}{}{I had some other questions I wanted to ask you.}
 {161}{}{Entendido. Valeu.}
-{162}{}{Meu nome é Wallace. Sou o oficial do Customs Office de Vault City. Eu acomodo aqueles que desejam fazer negócios conosco.}
+{162}{}{Meu nome Ã© Wallace. Sou o oficial do Customs Office de Vault City. Eu acomodo aqueles que desejam fazer negÃ³cios conosco.}
 {163}{}{Eu gostaria de entrar em Vault City.}
 {164}{}{"Acomoda?" Como assim?}
-{165}{}{Entendo. Obrigado pela informação.}
-{166}{}{Se você quer entrar em Vault City, precisa ter uma boa razão.Somente um Citizen da Vault tem o direito de ir e vir quando quiserem. Todos os outros devem procurar por um Day Pass.}
-{167}{}{O que é um Day Pass?}
-{168}{}{É muito importante que você me deixe falar com o seu líder.}
+{165}{}{Entendo. Obrigado pela informaÃ§Ã£o.}
+{166}{}{Se vocÃª quer entrar em Vault City, precisa ter uma boa razÃ£o.Somente um Citizen da Vault tem o direito de ir e vir quando quiserem. Todos os outros devem procurar por um Day Pass.}
+{167}{}{O que Ã© um Day Pass?}
+{168}{}{Ã‰ muito importante que vocÃª me deixe falar com o seu lÃ­der.}
 {169}{}{Uh, mas eu sou um Citizen. Aqui, olhe.}
-{170}{}{Entendo. Obrigado pela informação.}
-{171}{}{Este é o Customs Office de Vault City. Somos responsáveis em registrar todas as mercadorias que chegam até nós pelas caravanas e em supervisionar todas as transações. Todos os mercadores devem passar pelo Customs Office antes de entrarem na cidade.}
+{170}{}{Entendo. Obrigado pela informaÃ§Ã£o.}
+{171}{}{Este Ã© o Customs Office de Vault City. Somos responsÃ¡veis em registrar todas as mercadorias que chegam atÃ© nÃ³s pelas caravanas e em supervisionar todas as transaÃ§Ãµes. Todos os mercadores devem passar pelo Customs Office antes de entrarem na cidade.}
 {172}{}{Eu gostaria de entrar em Vault City.}
-{173}{}{Que mercadorias vocês recebem das caravanas?}
-{174}{}{Entendo. Obrigado pela informação.}
-{175}{}{Uh... você tem certeza?}
-{176}{}{Qu-? Quem é VOCÊ para acusar um Citizen de Vault City sobre qualquer coisa???}
+{173}{}{Que mercadorias vocÃªs recebem das caravanas?}
+{174}{}{Entendo. Obrigado pela informaÃ§Ã£o.}
+{175}{}{Uh... vocÃª tem certeza?}
+{176}{}{Qu-? Quem Ã© VOCÃŠ para acusar um Citizen de Vault City sobre qualquer coisa???}
 {177}{}{Bem, ele me vendeu esta Cidadania falsa. Aqui, olhe.}
-{178}{}{Deixe pra lá. Eu devo ter me enganado.}
+{178}{}{Deixe pra lÃ¡. Eu devo ter me enganado.}
 {179}{}{Aqueles que precisam negociar diretamente com os mercadores ou com a First Citizen recebem o Day Pass. Somente os que o possuem podem entrar na cidade.}
-{180}{}{Excelente! Você mencionou justamente com quem eu preciso falar. Eu preciso falar com essa First Citizen. É urgente.}
+{180}{}{Excelente! VocÃª mencionou justamente com quem eu preciso falar. Eu preciso falar com essa First Citizen. Ã‰ urgente.}
 {181}{}{Bem, eu preciso falar com a First Citizen.}
-{182}{}{Quem é a First Citizen?}
-{183}{}{O que você faz, exatamente?}
-{184}{}{Obrigado pela informação. Adeus.}
-{185}{}{Bem, é claro. Todos desejam uma audiência com a First Citizen. Infelizmente o tempo dela é só para as matérias de maior importância.}
-{186}{}{Você não parece importante o suficiente para gastar o tempo dela, eu receio.}
-{187}{}{Por isso é vital que eu fale com ela. Tenho certeza de que deixarei claroi o quão eficiente o Customs Office está funcionando. Mas se você não pode me ajudar...}
-{188}{}{A informação que eu possuo é realmente importante. É sério.}
-{189}{}{Se eu fosse você, abaixaria o tom de voz. Eu disse que preciso falar com ela. Agora.}
-{190}{}{Deixe pra lá, então.}
-{191}{}{Oh, tenha certeza de que eu entregarei as notícias pessoalmente à First Citizen.}
-{192}{}{Bem, eu não disse que não poderia ajudá-lo, é só que... bem... qual o motivo da sua visita?}
-{193}{}{Uh... eu tenho uma informação que... poderia estabelecer uma rede de computadores de... hum, todas as vaults pelo país. É isso.}
-{194}{}{Eu poderia contar pessoalmente a você, Oficial, gostaria muito. Mas só pode ser dito a First Citizen. Por isso é vital que eu fale com ela.}
-{195}{}{Bem... é... uh, só que, é importante. Eu mencionei que é muito importante?}
+{182}{}{Quem Ã© a First Citizen?}
+{183}{}{O que vocÃª faz, exatamente?}
+{184}{}{Obrigado pela informaÃ§Ã£o. Adeus.}
+{185}{}{Bem, Ã© claro. Todos desejam uma audiÃªncia com a First Citizen. Infelizmente o tempo dela Ã© sÃ³ para as matÃ©rias de maior importÃ¢ncia.}
+{186}{}{VocÃª nÃ£o parece importante o suficiente para gastar o tempo dela, eu receio.}
+{187}{}{Por isso Ã© vital que eu fale com ela. Tenho certeza de que deixarei claroi o quÃ£o eficiente o Customs Office estÃ¡ funcionando. Mas se vocÃª nÃ£o pode me ajudar...}
+{188}{}{A informaÃ§Ã£o que eu possuo Ã© realmente importante. Ã‰ sÃ©rio.}
+{189}{}{Se eu fosse vocÃª, abaixaria o tom de voz. Eu disse que preciso falar com ela. Agora.}
+{190}{}{Deixe pra lÃ¡, entÃ£o.}
+{191}{}{Oh, tenha certeza de que eu entregarei as notÃ­cias pessoalmente Ã  First Citizen.}
+{192}{}{Bem, eu nÃ£o disse que nÃ£o poderia ajudÃ¡-lo, Ã© sÃ³ que... bem... qual o motivo da sua visita?}
+{193}{}{Uh... eu tenho uma informaÃ§Ã£o que... poderia estabelecer uma rede de computadores de... hum, todas as vaults pelo paÃ­s. Ã‰ isso.}
+{194}{}{Eu poderia contar pessoalmente a vocÃª, Oficial, gostaria muito. Mas sÃ³ pode ser dito a First Citizen. Por isso Ã© vital que eu fale com ela.}
+{195}{}{Bem... Ã©... uh, sÃ³ que, Ã© importante. Eu mencionei que Ã© muito importante?}
 {196}{}{Uma... rede entre as Vaults?}
-{197}{}{Hmmmm. Bem... hmmmm. Isso é MUITO irregular...}
-{198}{}{Sim. Uma rede... de, uh, Vaults. Sabe, hum, poucos sabem disso... mas Vault City não foi a única Vault a sobreviver. Existem outros. Uma rede, pra conversar.}
-{199}{}{Eu não te atrapalharia se fosse um assunto de extrema urgência, oficial. Tenha certeza que contarei o quão eficiente você foi para a First Citizen.}
-{200}{}{Deixe pra lá. Eu tenho outras perguntas que gostaria de fazer...}
-{201}{}{Esqueça. Eu volto outra hora.}
-{202}{}{Bem... isso certamente parece ser do interesse da First Citizen. Aqui está o seu Day Pass. Só funciona durante o dia.- à noite você será convidado a sair da cidade. Os Citizens também tem o direito de cancelar os privilégio do Day Pass a qualquer hora, então comporte-se.}
+{197}{}{Hmmmm. Bem... hmmmm. Isso Ã© MUITO irregular...}
+{198}{}{Sim. Uma rede... de, uh, Vaults. Sabe, hum, poucos sabem disso... mas Vault City nÃ£o foi a Ãºnica Vault a sobreviver. Existem outros. Uma rede, pra conversar.}
+{199}{}{Eu nÃ£o te atrapalharia se fosse um assunto de extrema urgÃªncia, oficial. Tenha certeza que contarei o quÃ£o eficiente vocÃª foi para a First Citizen.}
+{200}{}{Deixe pra lÃ¡. Eu tenho outras perguntas que gostaria de fazer...}
+{201}{}{EsqueÃ§a. Eu volto outra hora.}
+{202}{}{Bem... isso certamente parece ser do interesse da First Citizen. Aqui estÃ¡ o seu Day Pass. SÃ³ funciona durante o dia.- Ã  noite vocÃª serÃ¡ convidado a sair da cidade. Os Citizens tambÃ©m tem o direito de cancelar os privilÃ©gio do Day Pass a qualquer hora, entÃ£o comporte-se.}
 {203}{}{Entendido. Posso fazer mais algumas perguntas?}
 {204}{}{Obrigado.}
-{205}{}{Não gaste mais o meu tempo, forasteiro. Saia.}
+{205}{}{NÃ£o gaste mais o meu tempo, forasteiro. Saia.}
 {206}{}{Sugiro que saia agora, ou eu chamo os guardas.}
-{207}{}{NÃO ocê SAIR ou mim BATER VOCÊ}
+{207}{}{NÃƒO ocÃª SAIR ou mim BATER VOCÃŠ}
 {208}{}{Desliga}
-{209}{}{Eu não vou a lugar algum. Quer tentar me pegar, vá em frente.}
+{209}{}{Eu nÃ£o vou a lugar algum. Quer tentar me pegar, vÃ¡ em frente.}
 {210}{}{Tudo bem, tudo certo.}
-{211}{}{E onde, se posso perguntar, você conseguiu essa Cidadania fraudulenta? Esses números de série são de um mesmo citizen que teve os papéis roubados no mês passado.}
-{212}{}{Se eu te contar, você vai me dar um Day Pass?}
+{211}{}{E onde, se posso perguntar, vocÃª conseguiu essa Cidadania fraudulenta? Esses nÃºmeros de sÃ©rie sÃ£o de um mesmo citizen que teve os papÃ©is roubados no mÃªs passado.}
+{212}{}{Se eu te contar, vocÃª vai me dar um Day Pass?}
 {213}{}{Foi o seu assistente, Skeev. Ele vendeu pra mim.}
-{214}{}{Não sei do que você está falando. Eu sou um Citizen.}
-{215}{}{Hmmmm... muito bem. Se me contar, eu te dou um Day Pass. Agora, onde você conseguiu estes papéis?}
+{214}{}{NÃ£o sei do que vocÃª estÃ¡ falando. Eu sou um Citizen.}
+{215}{}{Hmmmm... muito bem. Se me contar, eu te dou um Day Pass. Agora, onde vocÃª conseguiu estes papÃ©is?}
 {216}{}{Foi o seu assistente, Skeev. Ele vendeu pra mim.}
-{217}{}{Mudei de idéia. Não vou te contar nada.}
-{218}{}{Seu forasteiro degenerado. Não sou um qualquer para ser feito de bobo! Você nunca vai pisar na nossa cidade agora! Saia antes que eu chame os guardas!}
-{219}{}{Vá em frente, chame-os. Eu me entendo com eles depois de massacrar você.}
+{217}{}{Mudei de idÃ©ia. NÃ£o vou te contar nada.}
+{218}{}{Seu forasteiro degenerado. NÃ£o sou um qualquer para ser feito de bobo! VocÃª nunca vai pisar na nossa cidade agora! Saia antes que eu chame os guardas!}
+{219}{}{VÃ¡ em frente, chame-os. Eu me entendo com eles depois de massacrar vocÃª.}
 {220}{}{Estou saindo. Por enquanto.}
-{221}{}{Skeev? É assim que eu sou pago após tratá-lo como um filho! Ele será punido, isso eu garanto a você.}
+{221}{}{Skeev? Ã‰ assim que eu sou pago apÃ³s tratÃ¡-lo como um filho! Ele serÃ¡ punido, isso eu garanto a vocÃª.}
 {222}{}{Pelos meus problemas, eu poderia ter um Day Pass?}
 {223}{}{Claro. Posso fazer mais algumas perguntas?}
 {224}{}{Sem problemas. Tchau.}
 {225}{}{Skeev? Aquele infeliz ingrato! Isso deve ser tratado imediatamente!}
 {226}{}{Sem problemas. Posso fazer mais algumas perguntas?}
-{227}{}{Ooooooh, estou com medo. Agradeço pelo Day Pass, parceiro.}
+{227}{}{Ooooooh, estou com medo. AgradeÃ§o pelo Day Pass, parceiro.}
 {228}{}{Entendido. Valeu.}
-{229}{}{Muito bem, você ganhou. Aqui está. O Day Pass só é válido durante o dia; a noite, você será convidade a sair da cidade. Os Citizens também tem o direito de cancelar os privilégio do Day Pass a qualquer momento, então comporte-se.}
+{229}{}{Muito bem, vocÃª ganhou. Aqui estÃ¡. O Day Pass sÃ³ Ã© vÃ¡lido durante o dia; a noite, vocÃª serÃ¡ convidade a sair da cidade. Os Citizens tambÃ©m tem o direito de cancelar os privilÃ©gio do Day Pass a qualquer momento, entÃ£o comporte-se.}
 {230}{}{Entendi. Hum, poderia fazer mais algumas perguntas?}
 {231}{}{Entendido. Valeu.}
-{232}{}{Desculpe. A menos que você tenha uma boa razão eu não posso ajudá-lo.}
-{233}{}{Uh... mas eu tenho uma razão de urgência. Sério.}
-{234}{}{Certo... Eu tenho outras perguntas pra você...}
+{232}{}{Desculpe. A menos que vocÃª tenha uma boa razÃ£o eu nÃ£o posso ajudÃ¡-lo.}
+{233}{}{Uh... mas eu tenho uma razÃ£o de urgÃªncia. SÃ©rio.}
+{234}{}{Certo... Eu tenho outras perguntas pra vocÃª...}
 {235}{}{Mas eu sou o descendente do Vault Dweller original!}
-{236}{}{Não faz mal. Tchau.}
-{237}{}{Que IDIOTA da minha parte. Eu deveria saber que alguém da SUA educação superior veio do estoque do Vault Dweller. Bah! Não gaste mais o meu tempo, forasteiro.}
-{238}{}{Você vai me deixar entrar e vai ser agora, ou a próxima coisa que vai ser descartada aqui é você.}
+{236}{}{NÃ£o faz mal. Tchau.}
+{237}{}{Que IDIOTA da minha parte. Eu deveria saber que alguÃ©m da SUA educaÃ§Ã£o superior veio do estoque do Vault Dweller. Bah! NÃ£o gaste mais o meu tempo, forasteiro.}
+{238}{}{VocÃª vai me deixar entrar e vai ser agora, ou a prÃ³xima coisa que vai ser descartada aqui Ã© vocÃª.}
 {239}{}{Muito bem, estou saindo.}
-{240}{}{Muito bem. O que você quer saber?}
-{241}{}{Olá, capitão. Há algo em que eu possa ajudar?}
-{242}{}{Olá, Citizen. Há algo em que eu possa ajudar?}
-{243}{}{Você de novo. Há algo que deseja, ou...?}
-{244}{}{É claro, Capitão. O que mais você quer saber?}
-{245}{}{É claro, Citizen. O que mais você quer saber?}
+{240}{}{Muito bem. O que vocÃª quer saber?}
+{241}{}{OlÃ¡, capitÃ£o. HÃ¡ algo em que eu possa ajudar?}
+{242}{}{OlÃ¡, Citizen. HÃ¡ algo em que eu possa ajudar?}
+{243}{}{VocÃª de novo. HÃ¡ algo que deseja, ou...?}
+{244}{}{Ã‰ claro, CapitÃ£o. O que mais vocÃª quer saber?}
+{245}{}{Ã‰ claro, Citizen. O que mais vocÃª quer saber?}
 {246}{}{O que mais gostaria de saber?}
 {247}{}{Frazz-urb-luuw!}
 {248}{}{Desliga}
-{249}{}{O que é este lugar?}
-{250}{}{Que tipo de carregamentos vocês recebem por aqui?}
-{251}{}{Seu assistente, Skeev, está envolvido em práticas ilegais.}
+{249}{}{O que Ã© este lugar?}
+{250}{}{Que tipo de carregamentos vocÃªs recebem por aqui?}
+{251}{}{Seu assistente, Skeev, estÃ¡ envolvido em prÃ¡ticas ilegais.}
 {252}{}{Poss pegar outro Day Pass?}
 {253}{}{Eu descobri a causa dos carregamentos atrasados de Redding.}
 {254}{}{Eu achei o acampamento dos Raiders.}
 {255}{}{Eu achei o acampamento dos Raiders e acabei com todos eles.}
-{256}{}{O que você pode me dizer sobre o seu líder?}
+{256}{}{O que vocÃª pode me dizer sobre o seu lÃ­der?}
 {257}{}{Nada por hoje, valeu.}
 {258}{}{Nada mais por hoje, valeu.}
-{259}{}{Depende de que caravana estamos falando. Recebemos carregamentos de vários lugars... Servos de Den, urânio de Broken Hills e minério de metal de Redding.}
-{260}{}{O que você pode me dizer sobre Den?}
-{261}{}{O que você pode me dizer sobre Broken Hills?}
-{262}{}{O que você pode me dizer sobre Redding?}
+{259}{}{Depende de que caravana estamos falando. Recebemos carregamentos de vÃ¡rios lugars... Servos de Den, urÃ¢nio de Broken Hills e minÃ©rio de metal de Redding.}
+{260}{}{O que vocÃª pode me dizer sobre Den?}
+{261}{}{O que vocÃª pode me dizer sobre Broken Hills?}
+{262}{}{O que vocÃª pode me dizer sobre Redding?}
 {263}{}{Posso te fazer outra pergunta?}
-{264}{}{Entendo. Obrigado pela informação.}
-{265}{}{É uma... comunidade ao oeste daqui. Nós compramos Servos de seus mercadores freqüentemente. É um lugar muito ruim, pelo que eu ouvi.}
-{266}{}{Estou certo de que um... proprietário de Servos... assim como você sabe muito mais desse lugar do que eu.}
-{267}{}{Um lugar encantador, realmente. Assassinos, ladrões... a gentalha forasteira de sempre. Um lugar onde alguém como você se sentiria em casa.}
-{268}{}{O que você pode me dizer sobre Broken Hills?}
-{269}{}{O que você pode me dizer sobre Redding?}
-{270}{}{Eu tenho outras perguntas pra você...}
-{271}{}{Obrigado pela informação.}
+{264}{}{Entendo. Obrigado pela informaÃ§Ã£o.}
+{265}{}{Ã‰ uma... comunidade ao oeste daqui. NÃ³s compramos Servos de seus mercadores freqÃ¼entemente. Ã‰ um lugar muito ruim, pelo que eu ouvi.}
+{266}{}{Estou certo de que um... proprietÃ¡rio de Servos... assim como vocÃª sabe muito mais desse lugar do que eu.}
+{267}{}{Um lugar encantador, realmente. Assassinos, ladrÃµes... a gentalha forasteira de sempre. Um lugar onde alguÃ©m como vocÃª se sentiria em casa.}
+{268}{}{O que vocÃª pode me dizer sobre Broken Hills?}
+{269}{}{O que vocÃª pode me dizer sobre Redding?}
+{270}{}{Eu tenho outras perguntas pra vocÃª...}
+{271}{}{Obrigado pela informaÃ§Ã£o.}
 {272}{}{Hum... Tchau.}
 {273}{}{*Muito agradecido, mesmo..* Adeus.}
-{274}{}{Broken Hills é uma cidade mineira ao sul daqui. Pelo que sei, mutantes mineram urânio e vendem aqui pelas caranvanas.}
-{275}{}{Eles são um pouco trapaceiros, mas legais o suficiente... bem, legais para forasteiros. Sem ofensas.}
-{276}{}{Só por curiosidade, quanto vocês pagam pelo seu urânio?}
-{277}{}{O que você pode me dizer sobre Den?}
-{278}{}{O que você pode me dizer sobre Redding?}
-{279}{}{Ah, claro... olha, eu tenho mais algumas perguntas pra você...}
+{274}{}{Broken Hills Ã© uma cidade mineira ao sul daqui. Pelo que sei, mutantes mineram urÃ¢nio e vendem aqui pelas caranvanas.}
+{275}{}{Eles sÃ£o um pouco trapaceiros, mas legais o suficiente... bem, legais para forasteiros. Sem ofensas.}
+{276}{}{SÃ³ por curiosidade, quanto vocÃªs pagam pelo seu urÃ¢nio?}
+{277}{}{O que vocÃª pode me dizer sobre Den?}
+{278}{}{O que vocÃª pode me dizer sobre Redding?}
+{279}{}{Ah, claro... olha, eu tenho mais algumas perguntas pra vocÃª...}
 {280}{}{Tchau.}
-{281}{}{É uma cidade mineira a oeste daqui. As caravanas de lá eram muito boas de se negociar, mas recentemente os carregamentos de minério diminuíram consideravelmente. Isso nos preocupou um pouco... nós temos naquele minério um bom negócio.}
-{282}{}{Eu sei porque os carregamentos de Redding deminuíram.}
-{283}{}{O que você pode me dizer sobre Den?}
-{284}{}{O que você pode me dizer sobre Broken Hills?}
+{281}{}{Ã‰ uma cidade mineira a oeste daqui. As caravanas de lÃ¡ eram muito boas de se negociar, mas recentemente os carregamentos de minÃ©rio diminuÃ­ram consideravelmente. Isso nos preocupou um pouco... nÃ³s temos naquele minÃ©rio um bom negÃ³cio.}
+{282}{}{Eu sei porque os carregamentos de Redding deminuÃ­ram.}
+{283}{}{O que vocÃª pode me dizer sobre Den?}
+{284}{}{O que vocÃª pode me dizer sobre Broken Hills?}
 {285}{}{Entendo. Eu tenho outras perguntas...}
-{286}{}{Obrigado pela informação. Adeus.}
-{287}{}{Você sabe? Mas essa é uma excelente notícia! Por favor, vá falar com o Vereador McClure agora mesmo.}
-{288}{}{Você sabe? Mas essa é uma excelente notícia! Deixe-me dá-lo um Day Pass para que você possa falar com o Vereador McClure. O Pass só é útil durante o dia; pela noite você será convidado a sair. Agora vá.}
+{286}{}{Obrigado pela informaÃ§Ã£o. Adeus.}
+{287}{}{VocÃª sabe? Mas essa Ã© uma excelente notÃ­cia! Por favor, vÃ¡ falar com o Vereador McClure agora mesmo.}
+{288}{}{VocÃª sabe? Mas essa Ã© uma excelente notÃ­cia! Deixe-me dÃ¡-lo um Day Pass para que vocÃª possa falar com o Vereador McClure. O Pass sÃ³ Ã© Ãºtil durante o dia; pela noite vocÃª serÃ¡ convidado a sair. Agora vÃ¡.}
 {289}{}{Posso te fazer outra pergunta antes de ir?}
 {290}{}{Eu vou fazer isso.}
 {291}{}{Vou falar com ele agora mesmo.}
-{292}{}{Engraçado você mencionar isso. O preço vem aumentando ultimamente... nada que não possamos pagar,
- mas... Nós certamente conseguimos um negócio melhor do que Gecko. Aqueles ratos sujos precisam do urânio
- muito mais do que nós.}
-{293}{}{O que você pode me dizer sobre Den?}
-{294}{}{O que você pode me dizer sobre Redding?}
+{292}{}{EngraÃ§ado vocÃª mencionar isso. O preÃ§o vem aumentando ultimamente... nada que nÃ£o possamos pagar,
+ mas... NÃ³s certamente conseguimos um negÃ³cio melhor do que Gecko. Aqueles ratos sujos precisam do urÃ¢nio
+ muito mais do que nÃ³s.}
+{293}{}{O que vocÃª pode me dizer sobre Den?}
+{294}{}{O que vocÃª pode me dizer sobre Redding?}
 {295}{}{Entendo. Eu tenho outras perguntas...}
-{296}{}{Hmmm. Interessante. Agradeço a informação.}
-{297}{}{Nossa First Citizen se chama Joanne Lynette. Ela fez muitas coisas boas para nossa cidade em seus dez anos de serviço.}
+{296}{}{Hmmm. Interessante. AgradeÃ§o a informaÃ§Ã£o.}
+{297}{}{Nossa First Citizen se chama Joanne Lynette. Ela fez muitas coisas boas para nossa cidade em seus dez anos de serviÃ§o.}
 {298}{}{Como?}
-{299}{}{Ela manteve nossa cidade com muita reputação no mundo exterior. Até com NCR nos pressionando para nos juntarmos a
- República e com os ataques raiders, ela manteve nossa cidade forte. Agora há os problemas com Gecko...}
-{300}{}{O que é NCR?}
-{301}{}{Quem são estes raiders?}
+{299}{}{Ela manteve nossa cidade com muita reputaÃ§Ã£o no mundo exterior. AtÃ© com NCR nos pressionando para nos juntarmos a
+ RepÃºblica e com os ataques raiders, ela manteve nossa cidade forte. Agora hÃ¡ os problemas com Gecko...}
+{300}{}{O que Ã© NCR?}
+{301}{}{Quem sÃ£o estes raiders?}
 {302}{}{Qual o problema com Gecko?}
 {303}{}{Posso fazer mais algumas perguntas?}
 {304}{}{Sinto muito em ouvir isso. Talvez eu possa escutar mais sobre isso alguma outra hora.}
-{305}{}{NCR significa "New California Republic." Eles afirmam que estão tentando unificar toda a California
- em um Governo, mas nós podemos ver além da sua patética estratagema.}
-{306}{}{"Estratagema?" Isso é um tipo de arma que NCR t--?}
+{305}{}{NCR significa "New California Republic." Eles afirmam que estÃ£o tentando unificar toda a California
+ em um Governo, mas nÃ³s podemos ver alÃ©m da sua patÃ©tica estratagema.}
+{306}{}{"Estratagema?" Isso Ã© um tipo de arma que NCR t--?}
 {307}{}{Estratagema? Tem certeza?}
-{308}{}{Mesmo que ele estivessem falando sinceramente, por que nós iríamos querer dividir nossos recursos com os assassinos
- e ladrões que vivem fora desses muros? Eu acho que *não.*}
-{309}{}{Entendo. O que você disse sobre os raiders antes?}
+{308}{}{Mesmo que ele estivessem falando sinceramente, por que nÃ³s irÃ­amos querer dividir nossos recursos com os assassinos
+ e ladrÃµes que vivem fora desses muros? Eu acho que *nÃ£o.*}
+{309}{}{Entendo. O que vocÃª disse sobre os raiders antes?}
 {310}{}{Que problemas Vault City vem tendo com Gecko?}
 {311}{}{Posso fazer mais algumas perguntas?}
-{312}{}{Isso é um pouco mais do que eu precisava saber. Tchau.}
-{313}{}{Recentemente nós sofremos um impetuoso ataque brutal dos raider. Nós tivemos ataques no
- passado, mas não dessa maneira. Temo que esses raiders possam abrir uma brecha em nossas torres laser de defesa.}
-{314}{}{Vocês não precisam se preocupar mais com esses raiders. Eu acabei com todos eles.}
-{315}{}{O que você pode me dizer sobre esses raiders?}
-{316}{}{Uh, desculpe por ouvir isso. O que você disse sobre NCR mesmo?}
+{312}{}{Isso Ã© um pouco mais do que eu precisava saber. Tchau.}
+{313}{}{Recentemente nÃ³s sofremos um impetuoso ataque brutal dos raider. NÃ³s tivemos ataques no
+ passado, mas nÃ£o dessa maneira. Temo que esses raiders possam abrir uma brecha em nossas torres laser de defesa.}
+{314}{}{VocÃªs nÃ£o precisam se preocupar mais com esses raiders. Eu acabei com todos eles.}
+{315}{}{O que vocÃª pode me dizer sobre esses raiders?}
+{316}{}{Uh, desculpe por ouvir isso. O que vocÃª disse sobre NCR mesmo?}
 {317}{}{Que problemas Vault City vem tendo com Gecko?}
-{318}{}{Eles parecem ser um problemão. Desejo sorte a vocês.}
-{319}{}{Não muito. Nós não estamos conseguindo achar de onde eles estão atirando. Nossos Citizen Sargento Stark
- sabe mais sobre isso, mas ele está no Corrections Center dentro da cidade.}
-{320}{}{Se eu localizar esses raiders, você me deixa entrar na cidade?}
+{318}{}{Eles parecem ser um problemÃ£o. Desejo sorte a vocÃªs.}
+{319}{}{NÃ£o muito. NÃ³s nÃ£o estamos conseguindo achar de onde eles estÃ£o atirando. Nossos Citizen Sargento Stark
+ sabe mais sobre isso, mas ele estÃ¡ no Corrections Center dentro da cidade.}
+{320}{}{Se eu localizar esses raiders, vocÃª me deixa entrar na cidade?}
 {321}{}{Eu tenho mais algumas perguntas...}
 {322}{}{Eu vou tentar descobrir algo sobre esses raiders.}
-{323}{}{Obrigado pela informação.}
-{324}{}{Certamente. Se você achar o acampamento-base dos raides, eu lhe darei um Day Pass.}
+{323}{}{Obrigado pela informaÃ§Ã£o.}
+{324}{}{Certamente. Se vocÃª achar o acampamento-base dos raides, eu lhe darei um Day Pass.}
 {325}{}{Verei o que posso fazer. Mas antes, eu tenho outras perguntas...}
-{326}{}{É um trato. Tchau.}
-{327}{}{Você sabe? Mas essas são excelentes notícias! Por favor vá falar com a First Citizen agora mesmo.}
-{328}{}{Você sabe? Mas essas são excelentes notícias! Deixe-me dá-lo um Day Pass para que você possa contar a First Citizen.
- Aqui está. O pass só é útil durante o dia; pela noite você será convidado a sair da cidade. Agora vá.}
+{326}{}{Ã‰ um trato. Tchau.}
+{327}{}{VocÃª sabe? Mas essas sÃ£o excelentes notÃ­cias! Por favor vÃ¡ falar com a First Citizen agora mesmo.}
+{328}{}{VocÃª sabe? Mas essas sÃ£o excelentes notÃ­cias! Deixe-me dÃ¡-lo um Day Pass para que vocÃª possa contar a First Citizen.
+ Aqui estÃ¡. O pass sÃ³ Ã© Ãºtil durante o dia; pela noite vocÃª serÃ¡ convidado a sair da cidade. Agora vÃ¡.}
 {329}{}{Antes de ir, posso fazer outra pergunta?}
 {330}{}{Eu irei fazer isso.}
 {331}{}{Obrigado. Adeus.}
-{332}{}{Oh, uh, esta não é minha função. Você deve falar com a First Citizen sobre estes assuntos.}
-{333}{}{O que você estava dizendo sobre NCR?}
-{334}{}{O que você estava dizendo sobre os raiders?}
+{332}{}{Oh, uh, esta nÃ£o Ã© minha funÃ§Ã£o. VocÃª deve falar com a First Citizen sobre estes assuntos.}
+{333}{}{O que vocÃª estava dizendo sobre NCR?}
+{334}{}{O que vocÃª estava dizendo sobre os raiders?}
 {335}{}{Ham, certo... posso fazer mais algumas perguntas?}
-{336}{}{Entendo. Bem, agradeço pela informação.}
-{337}{}{UM GECK? Bem, isso não significa nada pra mim... e se não significa nada pra mim, certamente não significa
- nada para a First Citizen. Agora o que era AQUILO que você gostaria de falar com a First Citizen ou
+{336}{}{Entendo. Bem, agradeÃ§o pela informaÃ§Ã£o.}
+{337}{}{UM GECK? Bem, isso nÃ£o significa nada pra mim... e se nÃ£o significa nada pra mim, certamente nÃ£o significa
+ nada para a First Citizen. Agora o que era AQUILO que vocÃª gostaria de falar com a First Citizen ou
  era outra coisa?}
 {338}{}{Estou procurando por um GECK para salvar a minha vila.}
-{339}{}{Olha, deixa eu entrar, e eu deixo você continuar respirando.}
-{340}{}{Não faz mal. Talvez nos falemos mais tarde.}
+{339}{}{Olha, deixa eu entrar, e eu deixo vocÃª continuar respirando.}
+{340}{}{NÃ£o faz mal. Talvez nos falemos mais tarde.}
 {341}{}{Obrigado pela sua ajuda, forasteiro.}
-{342}{}{Bem, como eu prometi, aqui está seu Day Pass... mas você pisa fora da linha, e eu a revogo. Você entendeu?}
-{343}{}{Oh, uh… bem, eu sou um mercador. Eu planejo uma troca com outros mercadores na cidade. Posso adquirur um com você?}
-{344}{}{Você é um mercador? Certo. E o que você está vendendo? Minério? Uma daquelas peles de lagartos fedorentos? }
-{345}{}{(Olha para as suas companias.) Ou você está procurando vender Servos?}
+{342}{}{Bem, como eu prometi, aqui estÃ¡ seu Day Pass... mas vocÃª pisa fora da linha, e eu a revogo. VocÃª entendeu?}
+{343}{}{Oh, uhâ€¦ bem, eu sou um mercador. Eu planejo uma troca com outros mercadores na cidade. Posso adquirur um com vocÃª?}
+{344}{}{VocÃª Ã© um mercador? Certo. E o que vocÃª estÃ¡ vendendo? MinÃ©rio? Uma daquelas peles de lagartos fedorentos? }
+{345}{}{(Olha para as suas companias.) Ou vocÃª estÃ¡ procurando vender Servos?}
 {346}{}{Sim, eu estou querendo vender Servos na cidade.}
 {347}{}{Eu estou vendendo aquelas... ham... peles fedidas de Gecko. }
-{348}{}{Na verdade, eu tenho ótimas peles de Golden Gecko comigo. }
-{349}{}{Estou vendendo minério de ouro.}
-{350}{}{Estou vendendo minério de urânio.}
-{351}{}{Eu não tenho nenhuma dessas coisas aí... ainda. Talvez eu volte.}
+{348}{}{Na verdade, eu tenho Ã³timas peles de Golden Gecko comigo. }
+{349}{}{Estou vendendo minÃ©rio de ouro.}
+{350}{}{Estou vendendo minÃ©rio de urÃ¢nio.}
+{351}{}{Eu nÃ£o tenho nenhuma dessas coisas aÃ­... ainda. Talvez eu volte.}
 {352}{}{Na verdade, eu me enganei. Desculpe por incomodar.}
-{353}{}{Hmmmm. Bem, vamos ver o que você tem. Assim que eu inspecionar o seu estoque, processo os papéis para o seu Day Pass. }
-{354}{}{Certo. Ham, tudo o que tenho é uma amostra do me estoque aqui. O resto está... ham, em minha caravana. Fora da cidade. }
+{353}{}{Hmmmm. Bem, vamos ver o que vocÃª tem. Assim que eu inspecionar o seu estoque, processo os papÃ©is para o seu Day Pass. }
+{354}{}{Certo. Ham, tudo o que tenho Ã© uma amostra do me estoque aqui. O resto estÃ¡... ham, em minha caravana. Fora da cidade. }
 {355}{}{Hmmmm. Muito bem.}
-{356}{}{Bem, essa amostra é adrequada.}
-{357}{}{HÁ um Day Pass tributário para mercadores, quinhentos dólares. Isso inclui todos os privilégios diários dentro
- dos muros de Vault City e é válido por cinco anos após a data de emissão.}
+{356}{}{Bem, essa amostra Ã© adrequada.}
+{357}{}{HÃ um Day Pass tributÃ¡rio para mercadores, quinhentos dÃ³lares. Isso inclui todos os privilÃ©gios diÃ¡rios dentro
+ dos muros de Vault City e Ã© vÃ¡lido por cinco anos apÃ³s a data de emissÃ£o.}
 {358}{}{Certo. Eu aceito.}
-{359}{}{Hmmm... Está um pouco caro. Vou deixar pra lá por enquanto.}
-{360}{}{Quinhentos dólares é um pouco mais do que eu posso ceder agora. Talvez outra hora.}
-{361}{}{Excelente. Aqui está... de novo, só é válido durante o dia - pela noite você será convidade a sair da cidade. Citizens também têm o direito de cancelar os privilégios do Day Pass a qualquer momento, então controle-se.}
+{359}{}{Hmmm... EstÃ¡ um pouco caro. Vou deixar pra lÃ¡ por enquanto.}
+{360}{}{Quinhentos dÃ³lares Ã© um pouco mais do que eu posso ceder agora. Talvez outra hora.}
+{361}{}{Excelente. Aqui estÃ¡... de novo, sÃ³ Ã© vÃ¡lido durante o dia - pela noite vocÃª serÃ¡ convidade a sair da cidade. Citizens tambÃ©m tÃªm o direito de cancelar os privilÃ©gios do Day Pass a qualquer momento, entÃ£o controle-se.}
 {362}{}{Entendido. Posso fazer mais algumas perguntas?}
 {363}{}{Obrigado.}
 {1255}{}{Encontrei o acampamento dos invasores e convenci seu guia a nao ajuda-los. Eles nao serao capazes de encontrar seu caminho sem ele.}

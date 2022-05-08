@@ -23,19 +23,19 @@
 {122}{}{Squa?}
 {123}{}{I am not a man!}
 {124}{}{O que fazer?}
-{125}{}{O que é este lugar?}
+{125}{}{O que Ã© este lugar?}
 {126}{}{Nothing. Thought you were somebody else. Bye.}
 {127}{}{Whoa, man, I warned you. Bad place. Bad folks around here. Heard stuff from your transport got jacked.}
 {128}{}{Brak?}
 {129}{}{How did you know?}
 {130}{}{Great. Thanks. Fine.}
 {131}{}{Doofus will perform, man. Not even a fly is gonna land his shit on your au-to-mo-bile!}
-{132}{}{O que é este lugar?}
+{132}{}{O que Ã© este lugar?}
 {133}{}{Good. Shut up.}
 {134}{}{If you ain't got the jack, just get the fuck out of here! I got important things to do.}
 {135}{}{Hey man, Doofus warned you.}
 {136}{}{Fuck you. I am not answering your questions.}
-{137}{}{O que é este lugar?}
+{137}{}{O que Ã© este lugar?}
 {138}{}{Adeus.}
 {139}{}{Tchau-tchau.}
 {140}{}{Whoa, thought communication! I'm picking up mental vibes! Okay, let me try... uhhh.... Uhhh...}
@@ -66,7 +66,7 @@
 {165}{}{That's right, man. Go see Merk. He's always got things that need doing.}
 {166}{}{Go bye-bye!}
 {167}{}{Oh man, you blew it! Merk's not going to be happy when he hears this.}
-{168}{}{Tchau seu nóia. }
+{168}{}{Tchau seu nÃ³ia. }
 {169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
 {170}{}{You lie, me kill.}
 {171}{}{Don't be lying. I'll be back if you are.}

@@ -1,1 +1,1 @@
-{100}{}{Ez egy gy?rött papírfecni, amire a CSAJKOVSZKIJ szót írták.}
+{100}{}{Ez egy gy?rÃ¶tt papÃ­rfecni, amire a CSAJKOVSZKIJ szÃ³t Ã­rtÃ¡k.}

@@ -1,1 +1,1 @@
-{100}{}{No hay ninguna manera en que podría abrir la puerta.}
+{100}{}{No hay ninguna manera en que podrÃ­a abrir la puerta.}

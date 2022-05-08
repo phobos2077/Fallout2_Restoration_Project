@@ -1,23 +1,23 @@
-{100}{}{Egy alacsony, mosolygÛs fÈrfit l·tsz.}
+{100}{}{Egy alacsony, mosolyg√≥s f√©rfit l√°tsz.}
 {101}{}{Boldog Harry, a bolt tulaja.}
-{102}{}{‹dvˆzˆllek, bar·tom! Mondd, mit tehetek Èrted?}
-{103}{}{V·s·rolni szeretnÈk. L·thatn·m a kÌn·latot?}
-{104}{}{Van kint egy eke. EladÛ?}
-{105}{}{…n vesz}
-{106}{}{Kˆsz, egyel?re elleszek magam is.}
-{107}{}{Sajn·lom bar·tom, nem tudok segÌteni.}
-{108}{}{TermÈszetesen, nyolcsz·zÈrt a tiÈd lehet. BiztosÌthatlak, pomp·s darab.}
-{109}{}{Nyolcsz·z?! Hatsz·zat adok Èrte.}
+{102}{}{√údv√∂z√∂llek, bar√°tom! Mondd, mit tehetek √©rted?}
+{103}{}{V√°s√°rolni szeretn√©k. L√°thatn√°m a k√≠n√°latot?}
+{104}{}{Van kint egy eke. Elad√≥?}
+{105}{}{√ân vesz}
+{106}{}{K√∂sz, egyel?re elleszek magam is.}
+{107}{}{Sajn√°lom bar√°tom, nem tudok seg√≠teni.}
+{108}{}{Term√©szetesen, nyolcsz√°z√©rt a ti√©d lehet. Biztos√≠thatlak, pomp√°s darab.}
+{109}{}{Nyolcsz√°z?! Hatsz√°zat adok √©rte.}
 {110}{}{Rendben van, megveszem.}
-{111}{}{Nyolcsz·z? Rendben, mindj·rt hozom a pÈnzt.}
-{112}{}{Az t˙l sok! Smith-Èk pusztuljanak csak Èhen!}
-{113}{}{Nagyszer? [elteszi a pÈnzt]. H·zhozsz·llÌt·st is kÈrsz? Ingyen van.}
-{114}{}{H·zhozsz·llÌt·s? Ingyen? Remek! KÈrlek, vitesd el Smith-Èkhez!}
-{115}{}{Sajn·lom, bar·tom. Nyolcsz·z az ·ra, egy centtel se kevesebb.}
-{119}{}{Ez sajnos nem lesz elÈg, bar·tom!}
-{120}{}{…rtem. Hamarosan visszajˆvˆk a teljes ˆsszeggel.}
-{121}{}{Rendben van, azonnal intÈzkedem. Mindent a kedves vev?Èrt.}
-{122}{}{Azt hiszed, csak ˙gy elviheted? Piszkos csirkefogÛ! ?rsÈg! ?rsÈg!!!}
+{111}{}{Nyolcsz√°z? Rendben, mindj√°rt hozom a p√©nzt.}
+{112}{}{Az t√∫l sok! Smith-√©k pusztuljanak csak √©hen!}
+{113}{}{Nagyszer? [elteszi a p√©nzt]. H√°zhozsz√°ll√≠t√°st is k√©rsz? Ingyen van.}
+{114}{}{H√°zhozsz√°ll√≠t√°s? Ingyen? Remek! K√©rlek, vitesd el Smith-√©khez!}
+{115}{}{Sajn√°lom, bar√°tom. Nyolcsz√°z az √°ra, egy centtel se kevesebb.}
+{119}{}{Ez sajnos nem lesz el√©g, bar√°tom!}
+{120}{}{√ârtem. Hamarosan visszaj√∂v√∂k a teljes √∂sszeggel.}
+{121}{}{Rendben van, azonnal int√©zkedem. Mindent a kedves vev?√©rt.}
+{122}{}{Azt hiszed, csak √∫gy elviheted? Piszkos csirkefog√≥! ?rs√©g! ?rs√©g!!!}
 {123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}
 {124}{}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard.
  [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you
@@ -25,7 +25,7 @@
 {125}{}{Sure. Here's the money.}
 {126}{}{500? Damn. I hope I get reimbursed for this. Fine, here is the money.}
 {127}{}{Thanks for the business. Take care.}
-{128}{}{Viszl·t!}
+{128}{}{Viszl√°t!}
 {129}{}{Connar sent me for the goods.}
 {130}{}{[Harry's eyes dart around quickly, he seems a bit nervous] Yes, sure. Just a moment...}
 {131}{}{[Harry brings you the rifles.] Here, take em. That'll be ten thousand, and let's make this snappy.}
@@ -36,7 +36,7 @@
 {136}{}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
 {137}{}{Excellent. But remember, you didn't buy these weapons here.}
 {138}{}{It's a deal. Bye.}
-{139}{}{[TOV¡BB]}
+{139}{}{[TOV√ÅBB]}
 {140}{}{Well then, wait a bit until I get the money.}
 {141}{}{Well, have you brought the money?}
 {142}{}{What if I just give you five grand?}
@@ -45,7 +45,7 @@
 {145}{}{Damn! Who could possibly have turned me in?!}
 {146}{}{Hey! What was I imprisoned for?}
 {147}{}{Well, at least the food's not bad.}
-{148}{}{Mit b·mulsz?}
+{148}{}{Mit b√°mulsz?}
 {149}{}{What will happen to my shop now?}
 {200}{}{$500? Hey, maybe you could give me some kind of discount, I mean, you and Dave are friends, right?}
 {201}{}{To tell you the truth, I never really cared for the fella. $500 for the motor. Take it or leave it.}

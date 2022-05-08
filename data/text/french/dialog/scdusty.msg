@@ -1,32 +1,32 @@
 {100}{}{Tu vois un type chauve et courtaud qui essuie un verre.}
 {101}{}{Voici le barman.}
-{102}{}{Il a un air bourru, un nez crochu et des oreilles en pointe. Il pourrait avoir été boxeur dans le passé.}
+{102}{}{Il a un air bourru, un nez crochu et des oreilles en pointe. Il pourrait avoir Ã©tÃ© boxeur dans le passÃ©.}
 {103}{}{Que puis-je te servir ?}
-{104}{}{C'est toi qui as dit à Jack de laisser tomber, hein ? C'est du bon boulot. Alors, que veux-tu ?}
+{104}{}{C'est toi qui as dit Ã  Jack de laisser tomber, hein ? C'est du bon boulot. Alors, que veux-tu ?}
 {105}{}{Certainement.}
 {106}{}{Boire.}
-{107}{}{Qui c'est le gros là-bas ?}
+{107}{}{Qui c'est le gros lÃ -bas ?}
 {108}{}{Que peut-on faire dans cette ville ?}
 {109}{}{Salut.}
-{110}{}{C'est Hoss, le garçon de la Présidente Tandi. Quand il boit, il est pas commode. Je ne m'approcherais pas de lui si j'étais toi.}
-{111}{}{C'était Hoss, le fils de la Présidente Tandi. Tu lui as filé une sacrée raclée !}
-{112}{}{La présidente Tandi ?}
+{110}{}{C'est Hoss, le garÃ§on de la PrÃ©sidente Tandi. Quand il boit, il est pas commode. Je ne m'approcherais pas de lui si j'Ã©tais toi.}
+{111}{}{C'Ã©tait Hoss, le fils de la PrÃ©sidente Tandi. Tu lui as filÃ© une sacrÃ©e raclÃ©e !}
+{112}{}{La prÃ©sidente Tandi ?}
 {113}{}{C'est un dur, hein ? Merci.}
-{114}{}{Pas grand-chose. Si tu cherches la bagarre, va boire ailleurs, au Rawhide par exemple. Si tu cherches du boulot, va chez Westin, à l'Ouest de la ville. J'ai aussi entendu dire que Tandi cherchait un spécialiste.}
-{115}{}{Un spécialiste ?}
-{116}{}{La présidente Tandi ?}
+{114}{}{Pas grand-chose. Si tu cherches la bagarre, va boire ailleurs, au Rawhide par exemple. Si tu cherches du boulot, va chez Westin, Ã  l'Ouest de la ville. J'ai aussi entendu dire que Tandi cherchait un spÃ©cialiste.}
+{115}{}{Un spÃ©cialiste ?}
+{116}{}{La prÃ©sidente Tandi ?}
 {117}{}{Merci.}
-{118}{}{La fille du président Aradesh, le fondateur de la RNC. Elle est présidente depuis des années. Elle fait du bon boulot.}
-{119}{}{Et elle cherche un spécialiste ? Quel genre ?}
+{118}{}{La fille du prÃ©sident Aradesh, le fondateur de la RNC. Elle est prÃ©sidente depuis des annÃ©es. Elle fait du bon boulot.}
+{119}{}{Et elle cherche un spÃ©cialiste ? Quel genre ?}
 {120}{}{Qui c'est le gros ?}
 {121}{}{Merci.}
-{122}{}{Je sais pas. Gunther, son bras droit, doit savoir. Il est dans la Salle du Congrès.}
+{122}{}{Je sais pas. Gunther, son bras droit, doit savoir. Il est dans la Salle du CongrÃ¨s.}
 {123}{}{Qui c'est le gros ?}
 {124}{}{Merci.}
 {125}{}{Un autre verre ?}
 {126}{}{Certainement.}
 {127}{}{Non.}
-{128}{}{Je t'offre un verre ! J'attends ça depuis des années !}
-{129}{}{J'ai quelques questions à te poser.}
+{128}{}{Je t'offre un verre ! J'attends Ã§a depuis des annÃ©es !}
+{129}{}{J'ai quelques questions Ã  te poser.}
 {130}{}{Bon ! Salut.}
-{131}{}{Tu as bien botté le cul de Hoss ! Que puis-je pour toi ?}
+{131}{}{Tu as bien bottÃ© le cul de Hoss ! Que puis-je pour toi ?}

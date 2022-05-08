@@ -1,118 +1,118 @@
-{100}{}{Sei gegrüßt, Mensch. Ich bin der Krieger Xarn. Bist du mein Henker?}
+{100}{}{Sei gegrÃ¼ÃŸt, Mensch. Ich bin der Krieger Xarn. Bist du mein Henker?}
 {101}{}{Ja.}
 {102}{}{Nein, ich hier dich retten.}
 {103}{}{Nix wissen. Ich wissen wollen, warum du hier.}
 {104}{}{Ja, das bin ich.}
 {105}{}{Nein, ich bin hier, um dich zu retten.}
-{106}{}{Ich weiß nicht. Ich würde gerne wissen, warum du hier bist.}
+{106}{}{Ich weiÃŸ nicht. Ich wÃ¼rde gerne wissen, warum du hier bist.}
 {107}{}{So sei es. Ich werde aber nicht leise gehen, Mensch. An diesen Kampf soll man sich einmal
  erinnern!}
 {108}{}{OK.}
 {109}{}{Warte. Ich Meinung anders. Warum du hier?}
 {110}{}{Ich bin bereit, das Schlachtfest beginnt.}
 {111}{}{Einen Augenblick, warum bist du hier?}
-{112}{}{Es fällt schwer zu glauben, dass mich ein Soldat der Enklave retten will. Wahrscheinlicher
- ist, dass du mir Hoffnung geben willst, um sie später zu zerschmettern.}
+{112}{}{Es fÃ¤llt schwer zu glauben, dass mich ein Soldat der Enklave retten will. Wahrscheinlicher
+ ist, dass du mir Hoffnung geben willst, um sie spÃ¤ter zu zerschmettern.}
 {113}{}{Nein. Ich hier dich retten. EHRLICH.}
 {114}{}{Pass auf, ich bin wirklich hier, um dich zu retten!}
-{115}{}{Du bist meine letzte Hoffnung, deswegen vertraue ich dir. Diese Tür da drüben führt zu
- einem Lüftungsschacht, der einen Ausgang in den Wäldern über uns besitzt. Es sollte mir möglich
- sein, den Schacht emporzuklettern und in die Freiheit zu gelangen. Doch die Tür ist fest
- verschlossen und kann nur mit einem Sicherheitsschlüssel geöffnet werden. Finde den Schlüssel,
- öffne die Tür und gib mir meine Freiheit.}
+{115}{}{Du bist meine letzte Hoffnung, deswegen vertraue ich dir. Diese TÃ¼r da drÃ¼ben fÃ¼hrt zu
+ einem LÃ¼ftungsschacht, der einen Ausgang in den WÃ¤ldern Ã¼ber uns besitzt. Es sollte mir mÃ¶glich
+ sein, den Schacht emporzuklettern und in die Freiheit zu gelangen. Doch die TÃ¼r ist fest
+ verschlossen und kann nur mit einem SicherheitsschlÃ¼ssel geÃ¶ffnet werden. Finde den SchlÃ¼ssel,
+ Ã¶ffne die TÃ¼r und gib mir meine Freiheit.}
 {116}{}{OK, ich tun.}
-{117}{}{Ich denken nach über.}
+{117}{}{Ich denken nach Ã¼ber.}
 {118}{}{Klar, mach ich.}
-{119}{}{Ich denk darüber nach.}
+{119}{}{Ich denk darÃ¼ber nach.}
 {120}{}{(Xarn sieht dich einen Augenblick lang aufmerksam an) Also gut. Die Enklave schuf mein
  Volk als Kriegssklaven. Sie verbesserten unseren Intellekt in der Hoffnung, dass wir ihre Befehle
- besser verstehen würden, ohne unseren Status als Sklaven zu erkennen. Sie sind gescheitert. Wir
+ besser verstehen wÃ¼rden, ohne unseren Status als Sklaven zu erkennen. Sie sind gescheitert. Wir
  sind viel intelligenter als sie glauben.}
 {121}{}{Wir beschlossen, uns solange dumm zu stellen, bis wir unsere Freiheit erlangen konnten.
- Unsere Gelegenheit kam, als die Enklave beschloss, uns außerhalb ihres Einflussgebiets, hier auf
- dem Festland, zu testen. Doktor Schreber war gegen die Entscheidung, wurde aber überstimmt.}
+ Unsere Gelegenheit kam, als die Enklave beschloss, uns auÃŸerhalb ihres Einflussgebiets, hier auf
+ dem Festland, zu testen. Doktor Schreber war gegen die Entscheidung, wurde aber Ã¼berstimmt.}
 {122}{}{Er akzeptierte die Entscheidung der Enklave nicht, setzte sich zu dieser Basis ab, fing
- mich ein und führt seitdem Experimente an mir durch, um mein wahres Wesen zu erkunden. Das ist
+ mich ein und fÃ¼hrt seitdem Experimente an mir durch, um mein wahres Wesen zu erkunden. Das ist
  ihm auch gelungen. Wenn er seine Erkenntnisse der Enklave mitteilt, wird mein Volk gejagt und
  abgeschlachtet. Ich muss fliehen und mein Volk warnen.}
-{123}{}{(Xarn sieht dich einen Augenblick lang aufmerksam an) Ich habe dir nichts zu erzählen,
- Mensch. Ich spüre die Finsternis deiner Seele.}
-{124}{}{Wenn Doktor so böse, warum du nicht töten?}
-{125}{}{Du zur Hölle. Ich dich töten.}
+{123}{}{(Xarn sieht dich einen Augenblick lang aufmerksam an) Ich habe dir nichts zu erzÃ¤hlen,
+ Mensch. Ich spÃ¼re die Finsternis deiner Seele.}
+{124}{}{Wenn Doktor so bÃ¶se, warum du nicht tÃ¶ten?}
+{125}{}{Du zur HÃ¶lle. Ich dich tÃ¶ten.}
 {126}{}{Wenn dieser Typ so eine Bedrohung ist, warum bringst du ihn nicht einfach um?}
-{127}{}{Kümmer dich um deine eigene Seele — die braucht das jetzt nötiger. Stirb, Deathclaw!}
-{128}{}{(Seufz) Vor kurzem begann ich, solch einen Plan in Erwägung zu ziehen, obwohl es nicht
+{127}{}{KÃ¼mmer dich um deine eigene Seele â€” die braucht das jetzt nÃ¶tiger. Stirb, Deathclaw!}
+{128}{}{(Seufz) Vor kurzem begann ich, solch einen Plan in ErwÃ¤gung zu ziehen, obwohl es nicht
  meinem Wesen entspricht. Ich bin sicher, dass der Doktor dies bemerkte, da er mich seither nicht
- mehr persönlich besucht. Diese Entscheidung ist mir also abgenommen.}
+ mehr persÃ¶nlich besucht. Diese Entscheidung ist mir also abgenommen.}
 {129}{}{Du nix Sorge. Doktor tot. Er nix machen Bericht.}
-{130}{}{Ich danken für Geschichte.}
+{130}{}{Ich danken fÃ¼r Geschichte.}
 {131}{}{Du musst dir keine Sorgen machen. Der Doc ist tot, und er hat keinen Bericht erstattet.}
-{132}{}{Danke für die Geschichte. Das war interessant.}
-{133}{}{Es tut mir leid, von seinem Tod zu erfahren, doch es ist besser so. Ich möchte dich
+{132}{}{Danke fÃ¼r die Geschichte. Das war interessant.}
+{133}{}{Es tut mir leid, von seinem Tod zu erfahren, doch es ist besser so. Ich mÃ¶chte dich
  bitten, mir bei der Flucht von hier zu helfen. Tust du das?}
 {134}{}{Ja, ich tun.}
-{135}{}{Ich denken nach über.}
+{135}{}{Ich denken nach Ã¼ber.}
 {136}{}{Nein, ich glauben nicht.}
 {137}{}{Ja, das werde ich.}
-{138}{}{Nein, aber ich denke darüber nach.}
+{138}{}{Nein, aber ich denke darÃ¼ber nach.}
 {139}{}{Nein, ich glaube nicht.}
 {140}{}{Also gut... Ich warte hier, bis du zu einer Entscheidung kommst.}
 {141}{}{Fertig.}
 {142}{}{Also gut... Deine Entscheidung macht mich traurig, doch es ist deine Wahl. Wenn du deine
- Meinung änderst, ich bin hier.}
-{143}{}{Tschüss.}
+ Meinung Ã¤nderst, ich bin hier.}
+{143}{}{TschÃ¼ss.}
 {144}{}{Wiedersehn.}
-{145}{}{Ich möchte dich bitten, mir bei der Flucht von hier zu helfen. Tust du das?}
+{145}{}{Ich mÃ¶chte dich bitten, mir bei der Flucht von hier zu helfen. Tust du das?}
 {146}{}{Ja, ich tun.}
-{147}{}{Ich denken nach über.}
+{147}{}{Ich denken nach Ã¼ber.}
 {148}{}{Nein, ich glauben nicht.}
 {149}{}{Ja, das werde ich.}
-{150}{}{Nein, aber ich denke darüber nach.}
+{150}{}{Nein, aber ich denke darÃ¼ber nach.}
 {151}{}{Nein, ich glaube nicht.}
-{152}{}{Hallo. Bist du bereit für unseren Kampf?}
-{153}{}{Nix wollen Kampf, wollen hören deine Geschichte.}
+{152}{}{Hallo. Bist du bereit fÃ¼r unseren Kampf?}
+{153}{}{Nix wollen Kampf, wollen hÃ¶ren deine Geschichte.}
 {154}{}{Nix wollen Kampf. Ich hier dich retten.}
 {155}{}{Nein. Ich gehn.}
 {156}{}{Ja. Ich bereit.}
-{157}{}{Ich möchte gar nicht kämpfen. Kann ich statt dessen deine Geschichte hören?}
-{158}{}{Ich bin hier, um dich zu retten, nicht zum Kämpfen.}
+{157}{}{Ich mÃ¶chte gar nicht kÃ¤mpfen. Kann ich statt dessen deine Geschichte hÃ¶ren?}
+{158}{}{Ich bin hier, um dich zu retten, nicht zum KÃ¤mpfen.}
 {159}{}{Nein. Ich gehe jetzt.}
 {160}{}{In Ordnung, bringen wir's hinter uns.}
-{161}{}{Hallo. Hast du deine Meinung geändert? Hilfst du mir?}
+{161}{}{Hallo. Hast du deine Meinung geÃ¤ndert? Hilfst du mir?}
 {162}{}{Ja.}
 {163}{}{Nein.}
-{164}{}{Hallo. Hast du deine Meinung geändert? Hilfst du mir?}
+{164}{}{Hallo. Hast du deine Meinung geÃ¤ndert? Hilfst du mir?}
 {165}{}{Ja.}
 {166}{}{Nein. Ich noch denken.}
 {167}{}{Nein. Ich nix helfen.}
-{168}{}{Nein, ich denke noch darüber nach.}
+{168}{}{Nein, ich denke noch darÃ¼ber nach.}
 {169}{}{Ich will dir nicht helfen.}
-{170}{}{Hallo. Hast du den Schlüssel zur Tür gefunden?}
-{171}{}{Ja, ich öffnen für dich.}
+{170}{}{Hallo. Hast du den SchlÃ¼ssel zur TÃ¼r gefunden?}
+{171}{}{Ja, ich Ã¶ffnen fÃ¼r dich.}
 {172}{}{Ich noch suchen.}
-{173}{}{Ja, ich hab ihn. Ich mach die Tür für dich auf.}
+{173}{}{Ja, ich hab ihn. Ich mach die TÃ¼r fÃ¼r dich auf.}
 {174}{}{Ich suche noch.}
 {175}{}{Danke. Das werde ich dir nie vergessen.}
 {176}{}{Gemacht gern.}
 {177}{}{Gern geschehen.}
-{178}{}{Nochmals Danke, mein Freund. Ich werde das nie wiedergutmachen können.}
-{179}{}{Sei gegrüßt, Mensch. In der Basis herrscht höchste Alarmstufe. Bist du vielleicht der Grund dafür?}
-{180}{}{Hallo. In der Basis herrscht höchste Alarmstufe. Bist du der Grund dafür?}
+{178}{}{Nochmals Danke, mein Freund. Ich werde das nie wiedergutmachen kÃ¶nnen.}
+{179}{}{Sei gegrÃ¼ÃŸt, Mensch. In der Basis herrscht hÃ¶chste Alarmstufe. Bist du vielleicht der Grund dafÃ¼r?}
+{180}{}{Hallo. In der Basis herrscht hÃ¶chste Alarmstufe. Bist du der Grund dafÃ¼r?}
 {181}{}{Ja, ich Grund. Wer du, warum du wollen wissen?}
 {182}{}{Ja, ich Grund. Warum?}
-{183}{}{Ich bin Xarn, Rudelkrieger. Wenn du erlaubst, schließe ich mich dir an und kämpfe an deiner Seite für
- unsere Freiheit. Gemeinsam haben wir eine Chance; alleine... wer weiß?}
-{184}{}{Dann erlaube mir, mich dir anzuschließen und an deiner Seite zu kämpfen. Gemeinsam können
- wir die Freiheit vielleicht erlangen; alleine... wer weiß?}
-{185}{}{Bevor ich entscheiden, du erzählen warum du hier.}
-{186}{}{Äh...OK. Du kommen. Wir kämpfen raus zusammen.}
+{183}{}{Ich bin Xarn, Rudelkrieger. Wenn du erlaubst, schlieÃŸe ich mich dir an und kÃ¤mpfe an deiner Seite fÃ¼r
+ unsere Freiheit. Gemeinsam haben wir eine Chance; alleine... wer weiÃŸ?}
+{184}{}{Dann erlaube mir, mich dir anzuschlieÃŸen und an deiner Seite zu kÃ¤mpfen. Gemeinsam kÃ¶nnen
+ wir die Freiheit vielleicht erlangen; alleine... wer weiÃŸ?}
+{185}{}{Bevor ich entscheiden, du erzÃ¤hlen warum du hier.}
+{186}{}{Ã„h...OK. Du kommen. Wir kÃ¤mpfen raus zusammen.}
 {187}{}{Du alleine. Ich weg.}
-{188}{}{Bevor ich eine Entscheidung treffe, würde ich gerne wissen, warum du hier bist.}
-{189}{}{Fein. Wir sind ein Team. Schärf die Krallen und rein ins Vergnügen!}
+{188}{}{Bevor ich eine Entscheidung treffe, wÃ¼rde ich gerne wissen, warum du hier bist.}
+{189}{}{Fein. Wir sind ein Team. SchÃ¤rf die Krallen und rein ins VergnÃ¼gen!}
 {190}{}{Du bist allein, Kumpel. Ich hau ab.}
-{191}{}{Äh...OK. Du kommen. Wir kämpfen raus zusammen.}
+{191}{}{Ã„h...OK. Du kommen. Wir kÃ¤mpfen raus zusammen.}
 {192}{}{Du alleine. Ich weg.}
-{193}{}{Fein. Wir sind ein Team. Schärf die Krallen und rein ins Vergnügen!}
+{193}{}{Fein. Wir sind ein Team. SchÃ¤rf die Krallen und rein ins VergnÃ¼gen!}
 {194}{}{Du bist allein, Kumpel. Ich hau ab.}
 {195}{}{Ich danke dir, Mensch. Wir werden es der Enklave zeigen! Es lebe Gruthars Rudel!
  Grrrrrrrhh!}
@@ -121,29 +121,29 @@
 {201}{}{Ja. Wer bist du?}
 {202}{}{Ja. Warum?}
 {300}{}{Also gut. Die Enklave schuf mein Volk als Kriegssklaven. Sie verbesserten unseren
- Intellekt in der Hoffnung, dass wir ihre Befehle besser verstehen würden, ohne unseren Status als
+ Intellekt in der Hoffnung, dass wir ihre Befehle besser verstehen wÃ¼rden, ohne unseren Status als
  Sklaven zu erkennen. Sie sind gescheitert. Wir sind viel intelligenter als sie glauben.}
 {301}{}{Wir beschlossen, uns solange dumm zu stellen, bis wir unsere Freiheit erlangen konnten.
- Unsere Gelegenheit kam, als die Enklave beschloss, uns außerhalb ihres Einflussgebietes, hier auf
- dem Festland, zu testen. Doktor Schreber war gegen die Entscheidung, wurde aber überstimmt.}
+ Unsere Gelegenheit kam, als die Enklave beschloss, uns auÃŸerhalb ihres Einflussgebietes, hier auf
+ dem Festland, zu testen. Doktor Schreber war gegen die Entscheidung, wurde aber Ã¼berstimmt.}
 {302}{}{Er akzeptierte die Entscheidung der Enklave nicht, setzte sich zu dieser Basis ab, fing
- mich ein und führt seitdem Experimente an mir durch, um mein wahres Wesen zu erkunden. Das ist
+ mich ein und fÃ¼hrt seitdem Experimente an mir durch, um mein wahres Wesen zu erkunden. Das ist
  ihm auch gelungen. Wenn er seine Erkenntnisse der Enklave mitteilt, wird mein Volk gejagt und
  abgeschlachtet. Ich muss fliehen und mein Volk warnen.}
 {500}{}{Du bist ein wahrer Rudelsbruder. Vielleicht treffen wir uns in friedlicheren Zeiten
  wieder. Ich muss nun gehen, um mein Volk auf den Krieg vorzubereiten.}
-{501}{}{Ich reiß dir deine Glieder aus und prügele dich damit.}
-{502}{}{Stirb, verräterischer Mensch!}
+{501}{}{Ich reiÃŸ dir deine Glieder aus und prÃ¼gele dich damit.}
+{502}{}{Stirb, verrÃ¤terischer Mensch!}
 {503}{}{Das wird dir viel mehr weh tun als mir.}
 {600}{}{Gemeinsam zermalmen wir unsere Feinde.}
 {601}{}{Du lockst sie her und ich hau sie um.}
-{602}{}{Jetzt werden Köpfe rollen.}
+{602}{}{Jetzt werden KÃ¶pfe rollen.}
 {700}{}{Du siehst eine Deathclaw. Sie blickt dich mit seltsam intelligenten Augen an.}
 {701}{}{Du siehst Xarn, die Deathclaw.}
-{702}{}{Du siehst eine typische Deathclaw. Das Wesen ist riesig, mit einem kräftigen Körper,
- scharfen Zähnen und langen Klauen.}
-{800}{}{Du hast Xarn getötet.}
+{702}{}{Du siehst eine typische Deathclaw. Das Wesen ist riesig, mit einem krÃ¤ftigen KÃ¶rper,
+ scharfen ZÃ¤hnen und langen Klauen.}
+{800}{}{Du hast Xarn getÃ¶tet.}
 {810}{}{Du hast Xarn befreit.}
-{820}{}{Du hast dich mit Xarn verbündet.}
-{900}{}{Nein. Ich hier dich retten. EHRLICH. Ich hab schon Tür zum gehen aufgmacht. Geh.}
-{901}{}{Schau, ich bin wirklich hier um dich zu retten! Ich habe bereits die andere Tür geöffnet. Es steht dir frei zu gehen.}
+{820}{}{Du hast dich mit Xarn verbÃ¼ndet.}
+{900}{}{Nein. Ich hier dich retten. EHRLICH. Ich hab schon TÃ¼r zum gehen aufgmacht. Geh.}
+{901}{}{Schau, ich bin wirklich hier um dich zu retten! Ich habe bereits die andere TÃ¼r geÃ¶ffnet. Es steht dir frei zu gehen.}

@@ -1,72 +1,72 @@
-{100}{}{Egy mogorva embert látsz menedékruhában.}
-{101}{}{Egy fogoly a 13-as Menedékb?l.}
-{102}{}{Egy nagyon sápadt embert látsz, aki menedékruhát visel.}
-{103}{}{Törzsed egyik tagját látod.}
+{100}{}{Egy mogorva embert lÃ¡tsz menedÃ©kruhÃ¡ban.}
+{101}{}{Egy fogoly a 13-as MenedÃ©kb?l.}
+{102}{}{Egy nagyon sÃ¡padt embert lÃ¡tsz, aki menedÃ©kruhÃ¡t visel.}
+{103}{}{TÃ¶rzsed egyik tagjÃ¡t lÃ¡tod.}
 {104}{}{You see a fellow tribe member.}
-{105}{}{A törzsed egyik tagját látod. Elég ramatyul néz ki.}
-{106}{}{Ez a hely túl rozsdás ahhoz, hogy menedék legyen.}
-{107}{}{Azt hiszem, ez az óceán hangja.}
-{108}{}{Beszéltél már Martin Frobisherrel?}
-{109}{}{Beszélned kellene Martinnal.}
-{110}{}{Martin a mi vezet?nk és szószólónk, vele kellene beszélned!}
-{111}{}{Mr. Frobisher az els? cellában van.}
-{112}{}{Még csak szórakoztató videóik sincsenek!}
-{113}{}{Követelem, hogy beszélhessek valakivel! Az élelem min?sége felháborító!}
-{114}{}{Remek, most félmeztelen barbárokkal fenyegetnek bennünket.}
-{115}{}{Megszöktél?}
-{116}{}{Hogy jutottál ki?}
-{117}{}{Olyan vagy, mint a Kiválasztott.}
-{118}{}{Te vagy... te vagy az, Kiválasztott?}
-{119}{}{Beszélned kellene a Bölccsel!}
-{120}{}{A Bölcs azt mondta, hogy megmentesz bennünket!}
-{121}{}{Beszéltél már a Törzsf?vel?}
-{122}{}{A Bölcs az els? cellában van. Beszélned kellene vele!}
-{123}{}{Beszélj a Bölccsel!}
-{124}{}{Szabadíts ki minket!}
-{125}{}{Juttass ki innen bennünket!}
-{126}{}{Már nem tudom elviselni ezeket a falakat.}
-{127}{}{Úgy vágyom már a szél érintését az arcomon!}
-{128}{}{Szabadíts ki bennünket, Kiválasztott!}
-{129}{}{A Kiválasztott itt van!}
-{130}{}{Szabadíts ki bennünket!}
-{131}{}{Tedd, amit a Bölcs mondott!}
-{132}{}{Szabadíts ki bennünket, miel?tt a gonosz szellemek visszajönnek!}
-{133}{}{Segíts rajtunk, Kiválasztott!}
-{134}{}{Hála az isteneknek! A Kiválasztott megérkezett!}
-{135}{}{Segíts rajtunk!}
-{136}{}{Szabadíts ki!}
-{137}{}{Eljöttél,}
-{138}{}{Tudod, mit kell tenned, szóval tedd!}
-{139}{}{Mozgás!}
-{140}{}{Juttass ki innen bennünket!}
-{141}{}{Vágd el az energia ellátást!}
-{142}{}{Szabadíts ki bennünet!}
-{143}{}{Menj, vigyél ki bennünket!}
-{144}{}{Kérlek, segíts rajtunk!}
-{145}{}{Te vagy az egyetlen reményünk.}
-{146}{}{Kérlek, már nem húzom itt sokáig!}
-{147}{}{Nem akarok újabb gyógyszert! Neeeeeeeem!}
-{148}{}{A szellemek védelme alatt állunk!}
-{149}{}{Hol vannak a szellemek, amikor szükség van rájuk?}
-{150}{}{Segíts rajtunk!}
-{151}{}{Szabadíts ki minket!}
+{105}{}{A tÃ¶rzsed egyik tagjÃ¡t lÃ¡tod. ElÃ©g ramatyul nÃ©z ki.}
+{106}{}{Ez a hely tÃºl rozsdÃ¡s ahhoz, hogy menedÃ©k legyen.}
+{107}{}{Azt hiszem, ez az Ã³ceÃ¡n hangja.}
+{108}{}{BeszÃ©ltÃ©l mÃ¡r Martin Frobisherrel?}
+{109}{}{BeszÃ©lned kellene Martinnal.}
+{110}{}{Martin a mi vezet?nk Ã©s szÃ³szÃ³lÃ³nk, vele kellene beszÃ©lned!}
+{111}{}{Mr. Frobisher az els? cellÃ¡ban van.}
+{112}{}{MÃ©g csak szÃ³rakoztatÃ³ videÃ³ik sincsenek!}
+{113}{}{KÃ¶vetelem, hogy beszÃ©lhessek valakivel! Az Ã©lelem min?sÃ©ge felhÃ¡borÃ­tÃ³!}
+{114}{}{Remek, most fÃ©lmeztelen barbÃ¡rokkal fenyegetnek bennÃ¼nket.}
+{115}{}{MegszÃ¶ktÃ©l?}
+{116}{}{Hogy jutottÃ¡l ki?}
+{117}{}{Olyan vagy, mint a KivÃ¡lasztott.}
+{118}{}{Te vagy... te vagy az, KivÃ¡lasztott?}
+{119}{}{BeszÃ©lned kellene a BÃ¶lccsel!}
+{120}{}{A BÃ¶lcs azt mondta, hogy megmentesz bennÃ¼nket!}
+{121}{}{BeszÃ©ltÃ©l mÃ¡r a TÃ¶rzsf?vel?}
+{122}{}{A BÃ¶lcs az els? cellÃ¡ban van. BeszÃ©lned kellene vele!}
+{123}{}{BeszÃ©lj a BÃ¶lccsel!}
+{124}{}{SzabadÃ­ts ki minket!}
+{125}{}{Juttass ki innen bennÃ¼nket!}
+{126}{}{MÃ¡r nem tudom elviselni ezeket a falakat.}
+{127}{}{Ãšgy vÃ¡gyom mÃ¡r a szÃ©l Ã©rintÃ©sÃ©t az arcomon!}
+{128}{}{SzabadÃ­ts ki bennÃ¼nket, KivÃ¡lasztott!}
+{129}{}{A KivÃ¡lasztott itt van!}
+{130}{}{SzabadÃ­ts ki bennÃ¼nket!}
+{131}{}{Tedd, amit a BÃ¶lcs mondott!}
+{132}{}{SzabadÃ­ts ki bennÃ¼nket, miel?tt a gonosz szellemek visszajÃ¶nnek!}
+{133}{}{SegÃ­ts rajtunk, KivÃ¡lasztott!}
+{134}{}{HÃ¡la az isteneknek! A KivÃ¡lasztott megÃ©rkezett!}
+{135}{}{SegÃ­ts rajtunk!}
+{136}{}{SzabadÃ­ts ki!}
+{137}{}{EljÃ¶ttÃ©l,}
+{138}{}{Tudod, mit kell tenned, szÃ³val tedd!}
+{139}{}{MozgÃ¡s!}
+{140}{}{Juttass ki innen bennÃ¼nket!}
+{141}{}{VÃ¡gd el az energia ellÃ¡tÃ¡st!}
+{142}{}{SzabadÃ­ts ki bennÃ¼net!}
+{143}{}{Menj, vigyÃ©l ki bennÃ¼nket!}
+{144}{}{KÃ©rlek, segÃ­ts rajtunk!}
+{145}{}{Te vagy az egyetlen remÃ©nyÃ¼nk.}
+{146}{}{KÃ©rlek, mÃ¡r nem hÃºzom itt sokÃ¡ig!}
+{147}{}{Nem akarok Ãºjabb gyÃ³gyszert! Neeeeeeeem!}
+{148}{}{A szellemek vÃ©delme alatt Ã¡llunk!}
+{149}{}{Hol vannak a szellemek, amikor szÃ¼ksÃ©g van rÃ¡juk?}
+{150}{}{SegÃ­ts rajtunk!}
+{151}{}{SzabadÃ­ts ki minket!}
 {152}{}{Haza akarok menni!}
-{153}{}{El?ször az aszály, most meg ezek.}
+{153}{}{El?szÃ¶r az aszÃ¡ly, most meg ezek.}
 {154}{}{T?t ne! Csak t?t ne, neeeeeeeeee!}
-{155}{}{Nem bírom tovább! Körbezárnak a falak!}
-{156}{}{Hüp, hüp}
+{155}{}{Nem bÃ­rom tovÃ¡bb! KÃ¶rbezÃ¡rnak a falak!}
+{156}{}{HÃ¼p, hÃ¼p}
 {157}{}{Engedjetek el minket!}
-{158}{}{A bölcs vigyáz ránk.}
-{159}{}{Mivel bántottuk meg ezeket a gonosz szellemeket?}
-{160}{}{Nem is érdekel.}
+{158}{}{A bÃ¶lcs vigyÃ¡z rÃ¡nk.}
+{159}{}{Mivel bÃ¡ntottuk meg ezeket a gonosz szellemeket?}
+{160}{}{Nem is Ã©rdekel.}
 {161}{}{Hol van Martin?}
-{162}{}{Ez egyáltalán nem Menedék!}
-{163}{}{Vigyél ki bennünket innen!}
-{164}{}{Hahó! Helló!}
-{165}{}{Követelem, hogy engedjenek ki!}
-{166}{}{Amerikai polgár vagyok, és látni akarom a parancsnokot!}
+{162}{}{Ez egyÃ¡ltalÃ¡n nem MenedÃ©k!}
+{163}{}{VigyÃ©l ki bennÃ¼nket innen!}
+{164}{}{HahÃ³! HellÃ³!}
+{165}{}{KÃ¶vetelem, hogy engedjenek ki!}
+{166}{}{Amerikai polgÃ¡r vagyok, Ã©s lÃ¡tni akarom a parancsnokot!}
 {167}{}{Engedjetek ki!}
 {168}{}{Ez olyan unalmas.}
-{169}{}{Nem! Csak több gyógyszert ne! Nem veszem be!}
-{170}{}{Nem tarthatnak itt örökké, nem igaz?}
-{171}{}{Nincs vége a háborúnak?}
+{169}{}{Nem! Csak tÃ¶bb gyÃ³gyszert ne! Nem veszem be!}
+{170}{}{Nem tarthatnak itt Ã¶rÃ¶kkÃ©, nem igaz?}
+{171}{}{Nincs vÃ©ge a hÃ¡borÃºnak?}

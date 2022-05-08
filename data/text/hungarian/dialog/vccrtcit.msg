@@ -1,16 +1,16 @@
-{100}{}{Egy menedékvárosi Polgárt látsz.}
-{101}{}{Üdvözöllek, Polgártárs.}
-{102}{}{Csodaszép ez a mai nap, nemdebár?}
-{103}{}{A tegnapi tanácsülés nagyon eredményes volt. Rengeteg listát készítettünk. Rengeteget.}
-{104}{}{Nem várhatok tovább, vissza kell mennem a városba. }
-{105}{}{Jó napot, Polgártárs!}
-{106}{}{Bocsánat.}
+{100}{}{Egy menedÃ©kvÃ¡rosi PolgÃ¡rt lÃ¡tsz.}
+{101}{}{ÃœdvÃ¶zÃ¶llek, PolgÃ¡rtÃ¡rs.}
+{102}{}{CsodaszÃ©p ez a mai nap, nemdebÃ¡r?}
+{103}{}{A tegnapi tanÃ¡csÃ¼lÃ©s nagyon eredmÃ©nyes volt. Rengeteg listÃ¡t kÃ©szÃ­tettÃ¼nk. Rengeteget.}
+{104}{}{Nem vÃ¡rhatok tovÃ¡bb, vissza kell mennem a vÃ¡rosba. }
+{105}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{106}{}{BocsÃ¡nat.}
 {107}{}{Utamban vagy.}
-{108}{}{Miért nem mész ki a többiekkel?}
-{109}{}{Tartana egy kis távolságot, kérem?}
+{108}{}{MiÃ©rt nem mÃ©sz ki a tÃ¶bbiekkel?}
+{109}{}{Tartana egy kis tÃ¡volsÃ¡got, kÃ©rem?}
 {110}{}{Maradj csak ott!}
-{111}{}{Kérem, menjen odébb!}
+{111}{}{KÃ©rem, menjen odÃ©bb!}
 {112}{}{Takarodj ki innen!}
-{113}{}{Vigyázz magadra, vagy hívom az ?röket.}
+{113}{}{VigyÃ¡zz magadra, vagy hÃ­vom az ?rÃ¶ket.}
 {114}{}{Figyellek...}
-{115}{}{Kívülállók, mint te...}
+{115}{}{KÃ­vÃ¼lÃ¡llÃ³k, mint te...}

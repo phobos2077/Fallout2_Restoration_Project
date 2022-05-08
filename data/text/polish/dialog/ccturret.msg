@@ -1,3 +1,3 @@
-{100}{}{Widzisz wie¿yczkê plazmow¹.}
-{101}{}{Widzisz wie¿yczkê plazmow¹ Mk II.}
-{102}{}{Znak na wie¿yczce ostrzega, ¿e nieostro¿ne obchodzenie siê z ni¹ grozi œmierci¹.}
+{100}{}{Widzisz wieÅ¼yczkÄ™ plazmowÄ….}
+{101}{}{Widzisz wieÅ¼yczkÄ™ plazmowÄ… Mk II.}
+{102}{}{Znak na wieÅ¼yczce ostrzega, Å¼e nieostroÅ¼ne obchodzenie siÄ™ z niÄ… grozi Å›mierciÄ….}

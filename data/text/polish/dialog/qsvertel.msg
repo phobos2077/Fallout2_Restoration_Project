@@ -1,3 +1,3 @@
 {100}{}{Wybierz poziom statku.}
-{101}{}{Rampa roz³adunkowa Lataczy.}
-{102}{}{Hala przyjêæ.}
+{101}{}{Rampa rozÅ‚adunkowa Lataczy.}
+{102}{}{Hala przyjÄ™Ä‡.}

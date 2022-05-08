@@ -1,11 +1,11 @@
-{100}{}{Du siehst jemanden, der eine Kampfrüstung trägt.}
+{100}{}{Du siehst jemanden, der eine KampfrÃ¼stung trÃ¤gt.}
 {101}{}{Du siehst eine Wache.}
 {102}{}{Er scheint, hier zu stehen und darauf zu warten, dass etwas passiert.}
 {103}{}{Ja, ja. Beweg' dich.}
-{104}{}{Pass auf, dass Du nett zu Mr. Buster bist, damit wir keine Munition verschwenden müssen.}
-{105}{}{Ich bin hier, um in Hintern zu treten und Kaugummi zu kauen. Gut für Dich, dass ich einen Streifen übrig hab.}
+{104}{}{Pass auf, dass Du nett zu Mr. Buster bist, damit wir keine Munition verschwenden mÃ¼ssen.}
+{105}{}{Ich bin hier, um in Hintern zu treten und Kaugummi zu kauen. Gut fÃ¼r Dich, dass ich einen Streifen Ã¼brig hab.}
 {106}{}{Was zum Teufel guckst du so? Verzieh dich.}
 {107}{}{Hey, das ist nicht so mein Ding. Du kannst ruhig etwas Abstand halten.}
-{108}{}{Yeah, komm schön zu Papa. Warum treffen wir uns nicht später auf nen Drink?}
-{109}{}{Süße, bevor ich dich nochmal angucke, mache ich es lieber mit 'nem Brahmin.}
+{108}{}{Yeah, komm schÃ¶n zu Papa. Warum treffen wir uns nicht spÃ¤ter auf nen Drink?}
+{109}{}{SÃ¼ÃŸe, bevor ich dich nochmal angucke, mache ich es lieber mit 'nem Brahmin.}
 {110}{}{Schnell etwas kaufen und dann nichts wie raus hier.}

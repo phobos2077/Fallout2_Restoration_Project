@@ -1,6 +1,6 @@
 {100}{}{Ves a un forastero con ganas de ayudar.}
 {101}{}{Ves a un forastero misterioso.}
-{102}{}{Os ayudaré.}
+{102}{}{Os ayudarÃ©.}
 {103}{}{No hablo mucho.}
-{104}{}{Parece que te vendría bien algo de asistencia.}
-{105}{}{¡A rockear!}
+{104}{}{Parece que te vendrÃ­a bien algo de asistencia.}
+{105}{}{Â¡A rockear!}

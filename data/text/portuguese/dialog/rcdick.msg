@@ -2,7 +2,7 @@
 {101}{}{You see Athabaska Dick.}
 {102}{}{This man looks like a miner who would know his way around a pit.}
 {103}{}{You're too dumb for mine-work.}
-{104}{}{Saudações da cidade grande.}
+{104}{}{SaudaÃ§Ãµes da cidade grande.}
 {105}{}{Your skylight leaks a little, don't it?}
 {106}{}{You're 'bout as smart as bait.}
 {107}{}{I've used shovels with more brains 'an you.}
@@ -46,13 +46,13 @@
  shit anymore.}
 {136}{}{I ain't never felt so washed up and raggedy in all my born days.}
 {137}{}{Dick, what do you do here?}
-{138}{}{Ei Dick... o que está acontecendo na cidade ultimamente?}
+{138}{}{Ei Dick... o que estÃ¡ acontecendo na cidade ultimamente?}
 {139}{}{Hear any interesting rumors?}
 {140}{}{What's At-the-basket mean?}
-{141}{}{Qual é o problema com você?}
+{141}{}{Qual Ã© o problema com vocÃª?}
 {142}{}{What happened to you?}
 {143}{}{I work a spell now and then here at the Morningstar. They can always use experienced help.}
-{144}{}{Deixa eu te perguntar outra coisa, então.}
+{144}{}{Deixa eu te perguntar outra coisa, entÃ£o.}
 {145}{}{I understand. Well, that's all I needed to know. Goodbye.}
 {146}{}{Well, not much lately except about them goll-dang Wanamingos.}
 {147}{}{Want-a-mongols? What the heck is that?}
@@ -61,7 +61,7 @@
 {150}{}{Atha-baska, Athabaska. That's not so dang hard to say, is it? Criminy. That's just my nickname.
  Do you really want to know how I got my nickname?}
 {151}{}{Uh, not really. Let me ask you something else.}
-{152}{}{Acho que é tudo que preciso saber. Adeus.}
+{152}{}{Acho que Ã© tudo que preciso saber. Adeus.}
 {153}{}{Key-rist! I'm sicker 'an a dog and I've been yelling at my feet for days now... ever since I had
  that last hit of Jet. Something must've gone bad with that batch. If'n I survive this, I ain't never
  gonna have Jet again.}
@@ -97,7 +97,7 @@
 {176}{}{Well, not right now it ain't. Haven't you heard anything I've said? It's filled with them damn
  Wanamingos. But if'n someone was to clean the place out - well that'd be a brahmin of a differ'nt
  color. Heck, you wouldn't even have to kill all of 'em.}
-{177}{}{O que você quer dizer?}
+{177}{}{O que vocÃª quer dizer?}
 {178}{}{Brahmin of a different color? Is that like a pink pachyderm? I'm going to leave you and your
  delirium alone now. Goodbye.}
 {179}{}{Well, there's some stuff in there that the owners of the Morningstar and the Kokoweef mines here

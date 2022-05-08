@@ -1,10 +1,10 @@
-{100}{}{Die Kühlmittel- steuerungskonsole.}
-{101}{}{Du siehst die Kühlmittel- steuerungskonsole.}
-{102}{}{Diese Konsole hat viele Schaltflächen, Knöpfe und Räder.}
-{110}{}{Du hast Schwierigkeiten, das Rad zum Ausschalten des Kühlungsventils zu drehen.}
-{111}{}{Mit großer Mühe schaffst du es, das Rad für das Kühlungsventil einmal zu drehen.}
-{112}{}{Mit großer Mühe schaffst du es, das Rad für das Kühlungsventil zweimal zu drehen.}
-{113}{}{Hört sich an, als hättest du das Ventil geschlossen.}
+{100}{}{Die KÃ¼hlmittel- steuerungskonsole.}
+{101}{}{Du siehst die KÃ¼hlmittel- steuerungskonsole.}
+{102}{}{Diese Konsole hat viele SchaltflÃ¤chen, KnÃ¶pfe und RÃ¤der.}
+{110}{}{Du hast Schwierigkeiten, das Rad zum Ausschalten des KÃ¼hlungsventils zu drehen.}
+{111}{}{Mit groÃŸer MÃ¼he schaffst du es, das Rad fÃ¼r das KÃ¼hlungsventil einmal zu drehen.}
+{112}{}{Mit groÃŸer MÃ¼he schaffst du es, das Rad fÃ¼r das KÃ¼hlungsventil zweimal zu drehen.}
+{113}{}{HÃ¶rt sich an, als hÃ¤ttest du das Ventil geschlossen.}
 {120}{}{Du hast was vergessen.}
 {121}{}{Nichts passiert.}
 {122}{}{Du hast den Reaktor repariert.}

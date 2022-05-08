@@ -1,16 +1,16 @@
-{100}{}{Widzisz ¿a³osnego spamera.}
+{100}{}{Widzisz Å¼aÅ‚osnego spamera.}
 {110}{}{Nie widzisz nic ciekawego.}
-{120}{}{A kiedy bêdzie wersja na Maca?!}
-{121}{}{A kiedy bêdzie gra przez sieæ?!}
-{122}{}{Nienawidzê was! Nienawidzê was wszystkich!}
+{120}{}{A kiedy bÄ™dzie wersja na Maca?!}
+{121}{}{A kiedy bÄ™dzie gra przez sieÄ‡?!}
+{122}{}{NienawidzÄ™ was! NienawidzÄ™ was wszystkich!}
 {123}{}{Aaa!}
-{124}{}{Mo¿ecie mnie poca³owaæ w...!}
-{125}{}{Jestem wielki Grim Reaper, nie mo¿ecie mnie zabiæ. Dobre, nie?}
-{126}{}{A bêdzie jakiœ czo³g?!}
-{127}{}{A bêdzie mo¿na siê naparzaæ bambusow¹ pa³¹?!}
-{128}{}{Nie krzywdŸ mnie.}
-{129}{}{Nie chcia³em byæ takim strasznym palantem!}
-{130}{}{No co wy! Grozi³em wam œmierci¹ tak... dla jaj.}
+{124}{}{MoÅ¼ecie mnie pocaÅ‚owaÄ‡ w...!}
+{125}{}{Jestem wielki Grim Reaper, nie moÅ¼ecie mnie zabiÄ‡. Dobre, nie?}
+{126}{}{A bÄ™dzie jakiÅ› czoÅ‚g?!}
+{127}{}{A bÄ™dzie moÅ¼na siÄ™ naparzaÄ‡ bambusowÄ… paÅ‚Ä…?!}
+{128}{}{Nie krzywdÅº mnie.}
+{129}{}{Nie chciaÅ‚em byÄ‡ takim strasznym palantem!}
+{130}{}{No co wy! GroziÅ‚em wam Å›mierciÄ… tak... dla jaj.}
 {131}{}{Przepraszam, Buffy!}
-{132}{}{Przepraszam, Niedomyci! Chcia³em tylko, ¿eby mnie wreszcie ktoœ zauwa¿y³.}
-{133}{}{Gra przez sieæ! Gra przez sieæ!}
+{132}{}{Przepraszam, Niedomyci! ChciaÅ‚em tylko, Å¼eby mnie wreszcie ktoÅ› zauwaÅ¼yÅ‚.}
+{133}{}{Gra przez sieÄ‡! Gra przez sieÄ‡!}

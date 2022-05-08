@@ -1,2 +1,2 @@
-{100}{}{Vous jouez avec le Restoration Project créé par Killap. Version 2.3.3u. Version française par fallout-generation.com. Merci de l'avoir installé !}
-{101}{}{Vous jouez avec le Restoration Project créé par Killap. Version 2.3.3u. Version française par fallout-generation.com. Merci de l'avoir installé !}
+{100}{}{Vous jouez avec le Restoration Project crÃ©Ã© par Killap. Version 2.3.3u. Version franÃ§aise par fallout-generation.com. Merci de l'avoir installÃ© !}
+{101}{}{Vous jouez avec le Restoration Project crÃ©Ã© par Killap. Version 2.3.3u. Version franÃ§aise par fallout-generation.com. Merci de l'avoir installÃ© !}

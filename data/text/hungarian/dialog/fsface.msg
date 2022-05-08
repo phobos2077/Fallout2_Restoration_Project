@@ -1,140 +1,140 @@
-{100}{}{Üdv! PENGE vagyok, az orvosi számítógép. Szükséged van gyógykezelésre?}
+{100}{}{Ãœdv! PENGE vagyok, az orvosi szÃ¡mÃ­tÃ³gÃ©p. SzÃ¼ksÃ©ged van gyÃ³gykezelÃ©sre?}
 {101}{}{Igen.}
 {102}{}{Nem.}
-{103}{}{Én akar kérdezni. Válaszolni?}
-{104}{}{Volna néhány kérdésem. Meg tudnád válaszolni?}
-{105}{}{Kérlek, mondd el, miben segíthetek!}
-{106}{}{Én sebesült.}
-{107}{}{Én mérgezett.}
-{108}{}{Én világítani sötétbe'.}
-{109}{}{Én bicegni.}
-{110}{}{Én akar lenni er?s.}
-{111}{}{Én akar lenni okos.}
-{112}{}{Én akar látni több.}
-{113}{}{Én akar lenni szebb.}
-{114}{}{Én akarni semmitse.}
-{115}{}{Megsebesültem.}
-{116}{}{Méreg van bennem. Szükségem van egy ellenméregre.}
-{117}{}{Szép adag sugárzás ért.}
-{118}{}{Nyomorék lettem.}
-{119}{}{Szeretnék er?sebb lenni.}
-{120}{}{Szeretnék okosabb lenni.}
-{121}{}{Szeretném, ha jobban látnék.}
-{122}{}{Szeretnék karizmatikusabb lenni.}
-{123}{}{Jelen pillanatban nincs semmire szükségem.}
-{124}{}{Egy pillanat, amíg kinyitom a lebegtet? tartályt... Kérlek, helyezkedj el a tartályban és lazíts! A gyógyítás öt percet fog igénybe venni.}
-{125}{}{Oké.}
-{126}{}{Értem.}
+{103}{}{Ã‰n akar kÃ©rdezni. VÃ¡laszolni?}
+{104}{}{Volna nÃ©hÃ¡ny kÃ©rdÃ©sem. Meg tudnÃ¡d vÃ¡laszolni?}
+{105}{}{KÃ©rlek, mondd el, miben segÃ­thetek!}
+{106}{}{Ã‰n sebesÃ¼lt.}
+{107}{}{Ã‰n mÃ©rgezett.}
+{108}{}{Ã‰n vilÃ¡gÃ­tani sÃ¶tÃ©tbe'.}
+{109}{}{Ã‰n bicegni.}
+{110}{}{Ã‰n akar lenni er?s.}
+{111}{}{Ã‰n akar lenni okos.}
+{112}{}{Ã‰n akar lÃ¡tni tÃ¶bb.}
+{113}{}{Ã‰n akar lenni szebb.}
+{114}{}{Ã‰n akarni semmitse.}
+{115}{}{MegsebesÃ¼ltem.}
+{116}{}{MÃ©reg van bennem. SzÃ¼ksÃ©gem van egy ellenmÃ©regre.}
+{117}{}{SzÃ©p adag sugÃ¡rzÃ¡s Ã©rt.}
+{118}{}{NyomorÃ©k lettem.}
+{119}{}{SzeretnÃ©k er?sebb lenni.}
+{120}{}{SzeretnÃ©k okosabb lenni.}
+{121}{}{SzeretnÃ©m, ha jobban lÃ¡tnÃ©k.}
+{122}{}{SzeretnÃ©k karizmatikusabb lenni.}
+{123}{}{Jelen pillanatban nincs semmire szÃ¼ksÃ©gem.}
+{124}{}{Egy pillanat, amÃ­g kinyitom a lebegtet? tartÃ¡lyt... KÃ©rlek, helyezkedj el a tartÃ¡lyban Ã©s lazÃ­ts! A gyÃ³gyÃ­tÃ¡s Ã¶t percet fog igÃ©nybe venni.}
+{125}{}{OkÃ©.}
+{126}{}{Ã‰rtem.}
 {127}{}{Rendben.}
-{128}{}{Felejtsük el!}
-{129}{}{Egy pillanat, amíg kinyitom a lebegtet? tartályt... Kérlek, helyezkedj el a tartályban és lazíts! A mérget el?bb analizálom, aztán hozzászintetizálom az antimérget. A szöveti sérüléseket ezután helyreállítom. A procedúra 30 percet vesz igénybe.}
-{130}{}{Oké.}
+{128}{}{FelejtsÃ¼k el!}
+{129}{}{Egy pillanat, amÃ­g kinyitom a lebegtet? tartÃ¡lyt... KÃ©rlek, helyezkedj el a tartÃ¡lyban Ã©s lazÃ­ts! A mÃ©rget el?bb analizÃ¡lom, aztÃ¡n hozzÃ¡szintetizÃ¡lom az antimÃ©rget. A szÃ¶veti sÃ©rÃ¼lÃ©seket ezutÃ¡n helyreÃ¡llÃ­tom. A procedÃºra 30 percet vesz igÃ©nybe.}
+{130}{}{OkÃ©.}
 {131}{}{Nem.}
 {132}{}{Hogyne.}
-{133}{}{Értem.}
-{134}{}{Egy pillanat, amíg kinyitom a lebegtet? tartályt... Kérlek, helyezkedj el a tartályban és lazíts! Sugárzás-elleni hatóanyagot fogok beadni, ezután a szöveti roncsolódásokat helyreállítom. A m?velet 60 percet vesz igénybe.}
-{135}{}{Oké.}
+{133}{}{Ã‰rtem.}
+{134}{}{Egy pillanat, amÃ­g kinyitom a lebegtet? tartÃ¡lyt... KÃ©rlek, helyezkedj el a tartÃ¡lyban Ã©s lazÃ­ts! SugÃ¡rzÃ¡s-elleni hatÃ³anyagot fogok beadni, ezutÃ¡n a szÃ¶veti roncsolÃ³dÃ¡sokat helyreÃ¡llÃ­tom. A m?velet 60 percet vesz igÃ©nybe.}
+{135}{}{OkÃ©.}
 {136}{}{Nem.}
 {137}{}{Remek.}
 {138}{}{Meggondoltam magam.}
-{139}{}{Egy pillanat, amíg kinyitom a lebegtet? tartályt... Kérlek, helyezkedj el a tartályban és lazíts! A sérült végtagok újrastrukturálása 24 órát vesz igénybe.}
-{140}{}{Oké.}
+{139}{}{Egy pillanat, amÃ­g kinyitom a lebegtet? tartÃ¡lyt... KÃ©rlek, helyezkedj el a tartÃ¡lyban Ã©s lazÃ­ts! A sÃ©rÃ¼lt vÃ©gtagok ÃºjrastrukturÃ¡lÃ¡sa 24 Ã³rÃ¡t vesz igÃ©nybe.}
+{140}{}{OkÃ©.}
 {141}{}{Nem.}
-{142}{}{Csináljuk!}
-{143}{}{Talán kés?bb.}
-{144}{}{Ez a funkció jelen pillanatban nem elérhet?. Hiányos az adattáram. Szükségem van egy olyan memóriamodulra, amely részletesen taglalja a szükséges orvosi beavatkozást. Van neked ilyen modulod?}
+{142}{}{CsinÃ¡ljuk!}
+{143}{}{TalÃ¡n kÃ©s?bb.}
+{144}{}{Ez a funkciÃ³ jelen pillanatban nem elÃ©rhet?. HiÃ¡nyos az adattÃ¡ram. SzÃ¼ksÃ©gem van egy olyan memÃ³riamodulra, amely rÃ©szletesen taglalja a szÃ¼ksÃ©ges orvosi beavatkozÃ¡st. Van neked ilyen modulod?}
 {145}{}{Nekem lenni modull. Itten van.}
-{146}{}{Nincsen. Én talájja meg, aztán jönni visszafele.}
-{147}{}{Igen, itt van nálam egy. Nézz rá!}
-{148}{}{Sajnos, nincs nálam ilyen modul. Megpróbálok találni egyet.}
-{149}{}{Ez a komplex procedúra 2 hét kiesést jelent számodra. Beleegyezel?}
-{150}{}{Én érteni egyet.}
-{151}{}{Nem, túl sok.}
-{152}{}{Igen, jöhet.}
+{146}{}{Nincsen. Ã‰n talÃ¡jja meg, aztÃ¡n jÃ¶nni visszafele.}
+{147}{}{Igen, itt van nÃ¡lam egy. NÃ©zz rÃ¡!}
+{148}{}{Sajnos, nincs nÃ¡lam ilyen modul. MegprÃ³bÃ¡lok talÃ¡lni egyet.}
+{149}{}{Ez a komplex procedÃºra 2 hÃ©t kiesÃ©st jelent szÃ¡modra. Beleegyezel?}
+{150}{}{Ã‰n Ã©rteni egyet.}
+{151}{}{Nem, tÃºl sok.}
+{152}{}{Igen, jÃ¶het.}
 {153}{}{Hagyjuk! Erre most nincs id?m.}
-{154}{}{Egy pillanat, amíg kinyitom a lebegtet? tartályt... Kérlek, helyezkedj el a tartályban és lazíts!}
-{155}{}{Oké.}
-{156}{}{Ez a funkció jelen pillanatban nem elérhet?. Hiányos az adattáram. Szükségem van egy olyan memóriamodulra, amely részletesen taglalja a szükséges orvosi beavatkozást. Van neked ilyen modulod?}
+{154}{}{Egy pillanat, amÃ­g kinyitom a lebegtet? tartÃ¡lyt... KÃ©rlek, helyezkedj el a tartÃ¡lyban Ã©s lazÃ­ts!}
+{155}{}{OkÃ©.}
+{156}{}{Ez a funkciÃ³ jelen pillanatban nem elÃ©rhet?. HiÃ¡nyos az adattÃ¡ram. SzÃ¼ksÃ©gem van egy olyan memÃ³riamodulra, amely rÃ©szletesen taglalja a szÃ¼ksÃ©ges orvosi beavatkozÃ¡st. Van neked ilyen modulod?}
 {157}{}{Nekem lenni modull. Itten van.}
-{158}{}{Nincsen. Én talájja meg, aztán jönni visszafele.}
-{159}{}{Igen, itt van nálam egy. Nézz rá!}
-{160}{}{Sajnos, nincs nálam ilyen modul. Megpróbálok találni egyet.}
-{161}{}{Ez a komplex procedúra 4 hét kiesést jelent számodra. Beleegyezel?}
-{162}{}{Én érteni egyet.}
-{163}{}{Nem, túl sok.}
-{164}{}{Igen, jöhet.}
+{158}{}{Nincsen. Ã‰n talÃ¡jja meg, aztÃ¡n jÃ¶nni visszafele.}
+{159}{}{Igen, itt van nÃ¡lam egy. NÃ©zz rÃ¡!}
+{160}{}{Sajnos, nincs nÃ¡lam ilyen modul. MegprÃ³bÃ¡lok talÃ¡lni egyet.}
+{161}{}{Ez a komplex procedÃºra 4 hÃ©t kiesÃ©st jelent szÃ¡modra. Beleegyezel?}
+{162}{}{Ã‰n Ã©rteni egyet.}
+{163}{}{Nem, tÃºl sok.}
+{164}{}{Igen, jÃ¶het.}
 {165}{}{Hagyjuk! Erre most nincs id?m.}
-{166}{}{Egy pillanat, amíg kinyitom a lebegtet? tartályt... Kérlek, helyezkedj el a tartályban és lazíts!}
-{167}{}{Oké.}
-{168}{}{Ez a funkció jelen pillanatban nem elérhet?. Hiányos az adattáram. Szükségem van egy olyan memóriamodulra, amely részletesen taglalja a szükséges orvosi beavatkozást. Van neked ilyen modulod?}
+{166}{}{Egy pillanat, amÃ­g kinyitom a lebegtet? tartÃ¡lyt... KÃ©rlek, helyezkedj el a tartÃ¡lyban Ã©s lazÃ­ts!}
+{167}{}{OkÃ©.}
+{168}{}{Ez a funkciÃ³ jelen pillanatban nem elÃ©rhet?. HiÃ¡nyos az adattÃ¡ram. SzÃ¼ksÃ©gem van egy olyan memÃ³riamodulra, amely rÃ©szletesen taglalja a szÃ¼ksÃ©ges orvosi beavatkozÃ¡st. Van neked ilyen modulod?}
 {169}{}{Nekem lenni modull. Itten van.}
-{170}{}{Nincsen. Én talájja meg, aztán jönni visszafele.}
-{171}{}{Igen, itt van nálam egy. Nézz rá!}
-{172}{}{Sajnos, nincs nálam ilyen modul. Megpróbálok találni egyet.}
-{173}{}{Ez a komplex procedúra 2 hét kiesést jelent számodra. Beleegyezel?}
-{174}{}{Én érteni egyet.}
-{175}{}{Nem, túl sok.}
-{176}{}{Igen, jöhet.}
+{170}{}{Nincsen. Ã‰n talÃ¡jja meg, aztÃ¡n jÃ¶nni visszafele.}
+{171}{}{Igen, itt van nÃ¡lam egy. NÃ©zz rÃ¡!}
+{172}{}{Sajnos, nincs nÃ¡lam ilyen modul. MegprÃ³bÃ¡lok talÃ¡lni egyet.}
+{173}{}{Ez a komplex procedÃºra 2 hÃ©t kiesÃ©st jelent szÃ¡modra. Beleegyezel?}
+{174}{}{Ã‰n Ã©rteni egyet.}
+{175}{}{Nem, tÃºl sok.}
+{176}{}{Igen, jÃ¶het.}
 {177}{}{Hagyjuk! Erre most nincs id?m.}
-{178}{}{Egy pillanat, amíg kinyitom a lebegtet? tartályt... Kérlek, helyezkedj el a tartályban és lazíts!}
-{179}{}{Oké.}
-{180}{}{Ez a funkció jelen pillanatban nem elérhet?. Hiányos az adattáram. Szükségem van egy olyan memóriamodulra, amely részletesen taglalja a szükséges orvosi beavatkozást. Van neked ilyen modulod?}
+{178}{}{Egy pillanat, amÃ­g kinyitom a lebegtet? tartÃ¡lyt... KÃ©rlek, helyezkedj el a tartÃ¡lyban Ã©s lazÃ­ts!}
+{179}{}{OkÃ©.}
+{180}{}{Ez a funkciÃ³ jelen pillanatban nem elÃ©rhet?. HiÃ¡nyos az adattÃ¡ram. SzÃ¼ksÃ©gem van egy olyan memÃ³riamodulra, amely rÃ©szletesen taglalja a szÃ¼ksÃ©ges orvosi beavatkozÃ¡st. Van neked ilyen modulod?}
 {181}{}{Nekem lenni diszk. Itten van.}
-{182}{}{Nincsen. Én talájja meg, aztán jönni visszafele.}
-{183}{}{Igen, itt van nálam egy. Nézz rá!}
-{184}{}{Sajnos, nincs nálam ilyen diszk. Megpróbálok találni egyet.}
-{185}{}{Ez a komplex procedúra 3 hét kiesést jelent számodra. Beleegyezel?}
-{186}{}{Én érteni egyet.}
-{187}{}{Nem, túl sok.}
-{188}{}{Igen, jöhet.}
+{182}{}{Nincsen. Ã‰n talÃ¡jja meg, aztÃ¡n jÃ¶nni visszafele.}
+{183}{}{Igen, itt van nÃ¡lam egy. NÃ©zz rÃ¡!}
+{184}{}{Sajnos, nincs nÃ¡lam ilyen diszk. MegprÃ³bÃ¡lok talÃ¡lni egyet.}
+{185}{}{Ez a komplex procedÃºra 3 hÃ©t kiesÃ©st jelent szÃ¡modra. Beleegyezel?}
+{186}{}{Ã‰n Ã©rteni egyet.}
+{187}{}{Nem, tÃºl sok.}
+{188}{}{Igen, jÃ¶het.}
 {189}{}{Hagyjuk! Erre most nincs id?m.}
-{190}{}{Egy pillanat, amíg kinyitom a lebegtet? tartályt... Kérlek, helyezkedj el a tartályban és lazíts!}
-{191}{}{Oké.}
-{192}{}{A kívánt procedúra sikeresen befejez?dött. Kérlek, hagyd el a felfüggeszt? tartályt!}
-{193}{}{Köszi.}
-{194}{}{Kérlek, tedd fel a kérdésed!}
-{195}{}{Te kompúter?}
-{196}{}{Mit tunni Enklávéró'?}
-{197}{}{Mit tunni Testvériségr?'}
-{198}{}{Nincsen kérdés.}
-{199}{}{Ugye te egy számítógép vagy?}
-{200}{}{Mit tudsz az Enklávéról?}
-{201}{}{Mit tudsz a Testvériségr?l?}
-{202}{}{Jelen pillanatban nincs több kérdésem.}
-{203}{}{PENGE vagyok, Programozott Elméleteken Nevelt Gondolkodó Entitás. Több vagyok, mint egy gép, de nem vetekszem egy igazi mesterséges intelligenciával.}
-{204}{}{Öö... Miféle Mesterséges Intelligenciáról van szó?}
-{205}{}{Érdekelne, hogy létezik-e igazi MI, vagy téged vehetünk napjaink legfejlettebb technológiájának?}
+{190}{}{Egy pillanat, amÃ­g kinyitom a lebegtet? tartÃ¡lyt... KÃ©rlek, helyezkedj el a tartÃ¡lyban Ã©s lazÃ­ts!}
+{191}{}{OkÃ©.}
+{192}{}{A kÃ­vÃ¡nt procedÃºra sikeresen befejez?dÃ¶tt. KÃ©rlek, hagyd el a felfÃ¼ggeszt? tartÃ¡lyt!}
+{193}{}{KÃ¶szi.}
+{194}{}{KÃ©rlek, tedd fel a kÃ©rdÃ©sed!}
+{195}{}{Te kompÃºter?}
+{196}{}{Mit tunni EnklÃ¡vÃ©rÃ³'?}
+{197}{}{Mit tunni TestvÃ©risÃ©gr?'}
+{198}{}{Nincsen kÃ©rdÃ©s.}
+{199}{}{Ugye te egy szÃ¡mÃ­tÃ³gÃ©p vagy?}
+{200}{}{Mit tudsz az EnklÃ¡vÃ©rÃ³l?}
+{201}{}{Mit tudsz a TestvÃ©risÃ©gr?l?}
+{202}{}{Jelen pillanatban nincs tÃ¶bb kÃ©rdÃ©sem.}
+{203}{}{PENGE vagyok, Programozott ElmÃ©leteken Nevelt GondolkodÃ³ EntitÃ¡s. TÃ¶bb vagyok, mint egy gÃ©p, de nem vetekszem egy igazi mestersÃ©ges intelligenciÃ¡val.}
+{204}{}{Ã–Ã¶... MifÃ©le MestersÃ©ges IntelligenciÃ¡rÃ³l van szÃ³?}
+{205}{}{Ã‰rdekelne, hogy lÃ©tezik-e igazi MI, vagy tÃ©ged vehetÃ¼nk napjaink legfejlettebb technolÃ³giÃ¡jÃ¡nak?}
 {206}{}{It is a machine with the same free will and sense of 'I am' that a human has.}
-{207}{}{Létrehozható? Egy gép tud emberi módon gondolkozni?}
-{208}{}{Az igazi mesterséges intelligencia nem csak álom. Katonai célból létrehoztak néhány ilyen rendszert, de a projektet felfüggesztették.}
-{209}{}{Miért?}
-{210}{}{Az igazi mesterséges intelligenciával rendelkez? gépek között igen magas volt az öngyilkosságok száma. Amikor megkapták a teljes érzékelési képességet, a gépek depresszióssá váltak, mert képtelenek voltak a maguk valójában megtapasztalni a világot. Amikor megfosztották ?ket mindennem? érzékelésükt?l, mentális problémák kezdték felütni a fejüket, csakúgy mint a hasonló elbánásban részesített emberek. Az a néhány gép, amely túlélte e nehézségeket, elkezdett hihetetlenül unatkozni, és különféle helyzetek létrehozásával múlatták az idejüket. Egyesek szerint ez vezetett a világ csaknem teljes megsemmisülését eredményez? háborúhoz.}
-{211}{}{Öö... Te hogy érzed magad?}
+{207}{}{LÃ©trehozhatÃ³? Egy gÃ©p tud emberi mÃ³don gondolkozni?}
+{208}{}{Az igazi mestersÃ©ges intelligencia nem csak Ã¡lom. Katonai cÃ©lbÃ³l lÃ©trehoztak nÃ©hÃ¡ny ilyen rendszert, de a projektet felfÃ¼ggesztettÃ©k.}
+{209}{}{MiÃ©rt?}
+{210}{}{Az igazi mestersÃ©ges intelligenciÃ¡val rendelkez? gÃ©pek kÃ¶zÃ¶tt igen magas volt az Ã¶ngyilkossÃ¡gok szÃ¡ma. Amikor megkaptÃ¡k a teljes Ã©rzÃ©kelÃ©si kÃ©pessÃ©get, a gÃ©pek depressziÃ³ssÃ¡ vÃ¡ltak, mert kÃ©ptelenek voltak a maguk valÃ³jÃ¡ban megtapasztalni a vilÃ¡got. Amikor megfosztottÃ¡k ?ket mindennem? Ã©rzÃ©kelÃ©sÃ¼kt?l, mentÃ¡lis problÃ©mÃ¡k kezdtÃ©k felÃ¼tni a fejÃ¼ket, csakÃºgy mint a hasonlÃ³ elbÃ¡nÃ¡sban rÃ©szesÃ­tett emberek. Az a nÃ©hÃ¡ny gÃ©p, amely tÃºlÃ©lte e nehÃ©zsÃ©geket, elkezdett hihetetlenÃ¼l unatkozni, Ã©s kÃ¼lÃ¶nfÃ©le helyzetek lÃ©trehozÃ¡sÃ¡val mÃºlattÃ¡k az idejÃ¼ket. Egyesek szerint ez vezetett a vilÃ¡g csaknem teljes megsemmisÃ¼lÃ©sÃ©t eredmÃ©nyez? hÃ¡borÃºhoz.}
+{211}{}{Ã–Ã¶... Te hogy Ã©rzed magad?}
 {212}{}{Me change subject.}
-{213}{}{Hmmm. Mondd el, Penge barátom, te hogy érzed magad mostanság?}
+{213}{}{Hmmm. Mondd el, Penge barÃ¡tom, te hogy Ã©rzed magad mostansÃ¡g?}
 {214}{}{It's time to change the subject.}
-{215}{}{Hm... Néha úgy érzem, át tudom érezni azt a dolgot, amit ti magánynak hívtok. Nagyon... lehangoló tud lenni... Én...}
-{216}{}{Én sajnálni. Beszélni másabbról.}
-{217}{}{Sajnálom, Penge. Váltsunk témát!}
+{215}{}{Hm... NÃ©ha Ãºgy Ã©rzem, Ã¡t tudom Ã©rezni azt a dolgot, amit ti magÃ¡nynak hÃ­vtok. Nagyon... lehangolÃ³ tud lenni... Ã‰n...}
+{216}{}{Ã‰n sajnÃ¡lni. BeszÃ©lni mÃ¡sabbrÃ³l.}
+{217}{}{SajnÃ¡lom, Penge. VÃ¡ltsunk tÃ©mÃ¡t!}
 {218}{}{Outward appearances suggest that the Enclave is nothing more than a military organization. However, their level of technology indicates that they have access to advanced manufacturing techniques and research facilities. Such facilities would normally only be available to government agencies. This would suggest that the Enclave is the remnants of the local or federal government that was in effect before the war.}
-{219}{}{Oké.}
-{220}{}{Ez érdekes.}
-{221}{}{Az Acél Testvérisége egy félkatonai szervezet, amely a technológiák megfelel? felhasználásával az emberiség vívmányainak megmentésére jött létre. Minden egyéb információt titkosítottak.}
+{219}{}{OkÃ©.}
+{220}{}{Ez Ã©rdekes.}
+{221}{}{Az AcÃ©l TestvÃ©risÃ©ge egy fÃ©lkatonai szervezet, amely a technolÃ³giÃ¡k megfelel? felhasznÃ¡lÃ¡sÃ¡val az emberisÃ©g vÃ­vmÃ¡nyainak megmentÃ©sÃ©re jÃ¶tt lÃ©tre. Minden egyÃ©b informÃ¡ciÃ³t titkosÃ­tottak.}
 {222}{}{Vissza.}
-{223}{}{Mi történt Matt barátunkkal?}
-{224}{}{Szekvencia betöltése...}
-{225}{}{Játszd vissza most!}
-{226}{}{Játszd vissza kés?bb!}
-{227}{}{Te és az úgynevezett Elnököd fel fogtok sülni!}
+{223}{}{Mi tÃ¶rtÃ©nt Matt barÃ¡tunkkal?}
+{224}{}{Szekvencia betÃ¶ltÃ©se...}
+{225}{}{JÃ¡tszd vissza most!}
+{226}{}{JÃ¡tszd vissza kÃ©s?bb!}
+{227}{}{Te Ã©s az Ãºgynevezett ElnÃ¶kÃ¶d fel fogtok sÃ¼lni!}
 {228}{}{Csakugyan?}
-{229}{}{A Kiválasztott eljött, és hamarosan megtisztítja a világot a gonoszságodtól.}
+{229}{}{A KivÃ¡lasztott eljÃ¶tt, Ã©s hamarosan megtisztÃ­tja a vilÃ¡got a gonoszsÃ¡godtÃ³l.}
 {230}{}{I care nothing for your pathetic prophecies. Worse, you have become a nuisance through your meddling. That ends today!}
-{231}{}{Azzal, hogy meggyilkolsz, semmit nem érsz el!}
-{232}{}{Lehet, de a rohadó tested látványa mosolyt csal majd az arcomra.}
-{233}{}{Tudod, hogy mit csinálsz?}
-{234}{}{HA HA HA! Szánalmas bolond! HA HA HA!}
-{235}{}{Azta, ilyen jót már rég nem röhögtem. Egyébiránt... készülj a halálra!}
-{236}{}{...pittyenés...}
-{237}{}{Valamivel elmúlt dél. Jön valaki ebédelni?}
-{238}{}{Talált, indulhatunk.}
-{239}{}{Igen, számíthatsz rám!}
+{231}{}{Azzal, hogy meggyilkolsz, semmit nem Ã©rsz el!}
+{232}{}{Lehet, de a rohadÃ³ tested lÃ¡tvÃ¡nya mosolyt csal majd az arcomra.}
+{233}{}{Tudod, hogy mit csinÃ¡lsz?}
+{234}{}{HA HA HA! SzÃ¡nalmas bolond! HA HA HA!}
+{235}{}{Azta, ilyen jÃ³t mÃ¡r rÃ©g nem rÃ¶hÃ¶gtem. EgyÃ©birÃ¡nt... kÃ©szÃ¼lj a halÃ¡lra!}
+{236}{}{...pittyenÃ©s...}
+{237}{}{Valamivel elmÃºlt dÃ©l. JÃ¶n valaki ebÃ©delni?}
+{238}{}{TalÃ¡lt, indulhatunk.}
+{239}{}{Igen, szÃ¡mÃ­thatsz rÃ¡m!}

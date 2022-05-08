@@ -84,7 +84,7 @@
 {213}{}{}
 {214}{}{}
 {215}{}{Ponte}
-{216}{}{Ponte destruída}
+{216}{}{Ponte destruÃ­da}
 {217}{}{}
 {218}{}{West Side}
 {219}{}{}
@@ -304,7 +304,7 @@
 {433}{}{Coast}
 {434}{}{Downtown}
 {435}{}{Basement}
-{436}{}{Não usado}
+{436}{}{NÃ£o usado}
 {437}{}{Residential}
 {438}{}{Underground}
 {439}{}{Mine}
@@ -449,9 +449,9 @@
 {578}{}{Temple Entrance}
 {579}{}{Temple Entrance}
 {580}{}{Temple Entrance}
-{581}{}{Ponte destruída}
-{582}{}{Ponte destruída}
-{583}{}{Ponte destruída}
+{581}{}{Ponte destruÃ­da}
+{582}{}{Ponte destruÃ­da}
+{583}{}{Ponte destruÃ­da}
 {584}{}{Detention Cells}
 {585}{}{Detention Cells}
 {586}{}{Detention Cells}
@@ -627,7 +627,7 @@
 {1537}{}{Cafe of Broken Dreams}
 {1538}{}{Paladins}
 {1539}{}{Vorpal Rat Cave}
-{1540}{}{Guardião para Sempre}
+{1540}{}{GuardiÃ£o para Sempre}
 {1541}{}{Toxic Waste Dump}
 {1542}{}{Pariahs}
 {1543}{}{Mad Brahmin}

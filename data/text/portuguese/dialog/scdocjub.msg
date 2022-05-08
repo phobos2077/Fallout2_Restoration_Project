@@ -4,7 +4,7 @@
 {103}{}{I'm Doc Jubilee. What's wrong, young man?}
 {104}{}{What's wrong, young man?}
 {105}{}{Estou ferido.}
-{106}{}{Eu preciso de um médico.}
+{106}{}{Eu preciso de um mÃ©dico.}
 {107}{}{Can't you just take some pills or something and stop bothering me with this twaddle?}
 {108}{}{Hell, you're hardly bleeding.}
 {109}{}{I don't know. Don't think I can save it. We may have to cut that leg off.}
@@ -49,13 +49,13 @@
 {148}{}{Well, that's more than what I had before.}
 {149}{}{The big one. Saltbeef's an old uranium prospector - more accurately, a drunk. Lives out on the Westin spread these days.}
 {150}{}{Another question...}
-{151}{}{Obrigado pela história.}
+{151}{}{Obrigado pela histÃ³ria.}
 {152}{}{Well, I was really hoping to get some money for it. I'll let it go for $}
 {153}{}{Maybe later, another question...}
 {154}{}{Maybe later, I have to go.}
 {155}{}{Saltbeef's an old uranium prospector. Lives out on the Westin spread these days.}
 {156}{}{Another question...}
-{157}{}{Obrigado pela história.}
+{157}{}{Obrigado pela histÃ³ria.}
 {158}{}{You best go talk to President Tandi. I've heard she's looking for a special type of person.}
 {159}{}{Another question...}
 {160}{}{Obrigado.}

@@ -1,48 +1,48 @@
 {100}{}{Tu vois un terminal d'ordinateur.}
 {101}{}{Tu vois un ordinateur des Hubologistes.}
-{102}{}{Tu vois un ordinateur. Il semble en état de marche même s'il a l'air très vieux.}
-{103}{}{Cette unité n'accepte pas les commandes. Au revoir.}
-{104}{}{[Tu as beau essayer, tu ne parviens pas à casser le code de cryptage de cet ordinateur.]}
-{105}{}{[Se déconnecter]}
+{102}{}{Tu vois un ordinateur. Il semble en Ã©tat de marche mÃªme s'il a l'air trÃ¨s vieux.}
+{103}{}{Cette unitÃ© n'accepte pas les commandes. Au revoir.}
+{104}{}{[Tu as beau essayer, tu ne parviens pas Ã  casser le code de cryptage de cet ordinateur.]}
+{105}{}{[Se dÃ©connecter]}
 {106}{}{Bienvenue sur HubLink.}
 {107}{}{Veuillez entrer vos commandes.}
-{108}{}{Accéder à la base de données.}
-{109}{}{Commandes d'accès.}
-{110}{}{[Se déconnecter]}
-{111}{}{Sélectionner la base de données.}
+{108}{}{AccÃ©der Ã  la base de donnÃ©es.}
+{109}{}{Commandes d'accÃ¨s.}
+{110}{}{[Se dÃ©connecter]}
+{111}{}{SÃ©lectionner la base de donnÃ©es.}
 {112}{}{Rechercher.}
 {113}{}{Objectifs futurs.}
 {114}{}{Finances.}
 {115}{}{[Retour]}
-{116}{}{[Après une lecture pénible de tout un charabia religieux, tu découvres que les Hubologistes auraient mis au point un processus permettant de renforcer les SuperArmures. Ils ont également trouvé un mode de calcul des trajectoires de lancement, des orbites et des destinations spatiales. De plus, ils semblent travailler sur le contrôle météorologique.]}
+{116}{}{[AprÃ¨s une lecture pÃ©nible de tout un charabia religieux, tu dÃ©couvres que les Hubologistes auraient mis au point un processus permettant de renforcer les SuperArmures. Ils ont Ã©galement trouvÃ© un mode de calcul des trajectoires de lancement, des orbites et des destinations spatiales. De plus, ils semblent travailler sur le contrÃ´le mÃ©tÃ©orologique.]}
 {117}{}{[Retour]}
-{118}{}{[Déconnexion]}
-{119}{}{[Tu as passé près d'une demi-heure à lire les objectifs que AHS-9 essaie d'atteindre. Outre l'illumination et la réunion avec le Père Etoile, il semble n'avoir aucun scrupule à détruire les humains qui n'ont pas rallié sa cause dès le début. Il est un peu givré.]}
+{118}{}{[DÃ©connexion]}
+{119}{}{[Tu as passÃ© prÃ¨s d'une demi-heure Ã  lire les objectifs que AHS-9 essaie d'atteindre. Outre l'illumination et la rÃ©union avec le PÃ¨re Etoile, il semble n'avoir aucun scrupule Ã  dÃ©truire les humains qui n'ont pas ralliÃ© sa cause dÃ¨s le dÃ©but. Il est un peu givrÃ©.]}
 {120}{}{[Retour]}
-{121}{}{[Déconnexion]}
-{122}{}{[L'Eglise d'Hubol semble incroyablement riche. L'approche standard consiste à demander aux nouvelles recrues de faire don à l'Eglise de tous leurs biens terrestres en témoignage de leur bonne foi. Lorsque les Hubologistes ne le demandent pas, ce n'est pas bon signe. Ils ont caché un butin colossal quelque part dans le désert mais tu ne parviens pas à en trouver les coordonnées exactes.]}
+{121}{}{[DÃ©connexion]}
+{122}{}{[L'Eglise d'Hubol semble incroyablement riche. L'approche standard consiste Ã  demander aux nouvelles recrues de faire don Ã  l'Eglise de tous leurs biens terrestres en tÃ©moignage de leur bonne foi. Lorsque les Hubologistes ne le demandent pas, ce n'est pas bon signe. Ils ont cachÃ© un butin colossal quelque part dans le dÃ©sert mais tu ne parviens pas Ã  en trouver les coordonnÃ©es exactes.]}
 {123}{}{[Retour]}
-{124}{}{[Déconnexion]}
-{125}{}{Commandes accessibles. Sélectionner opération.}
+{124}{}{[DÃ©connexion]}
+{125}{}{Commandes accessibles. SÃ©lectionner opÃ©ration.}
 {126}{}{Formater le disque dur.}
-{127}{}{Vérification de l'état du système.}
+{127}{}{VÃ©rification de l'Ã©tat du systÃ¨me.}
 {128}{}{[Retour]}
-{129}{}{[Déconnexion]}
-{130}{}{Opération limitée. Veuillez consulter l'administrateur système. Déconnexion en cours. Au revoir.}
-{131}{}{[Terminé]}
-{132}{}{On dirait qu'il n'existe aucune interface pour ça.}
-{133}{}{HSS Quetzel ravitaillé en carburant et prêt à décoller.}
-{134}{}{HSS Quetzel non ravitaillé.}
-{135}{}{Ordinateur central opérationnel. Pipeline opérationnel. Stations de recherche opérationnelles. Centre de réparations opérationnel. Caméras opérationnelles.}
+{129}{}{[DÃ©connexion]}
+{130}{}{OpÃ©ration limitÃ©e. Veuillez consulter l'administrateur systÃ¨me. DÃ©connexion en cours. Au revoir.}
+{131}{}{[TerminÃ©]}
+{132}{}{On dirait qu'il n'existe aucune interface pour Ã§a.}
+{133}{}{HSS Quetzel ravitaillÃ© en carburant et prÃªt Ã  dÃ©coller.}
+{134}{}{HSS Quetzel non ravitaillÃ©.}
+{135}{}{Ordinateur central opÃ©rationnel. Pipeline opÃ©rationnel. Stations de recherche opÃ©rationnelles. Centre de rÃ©parations opÃ©rationnel. CamÃ©ras opÃ©rationnelles.}
 {136}{}{[Retour]}
-{137}{}{[Se déconnecter]}
-{200}{}{[L'Eglise d'Hubol semble incroyablement riche. L'approche standard consiste à demander aux nouvelles recrues de faire don à l'Eglise de tous leurs biens terrestres en témoignage de leur bonne foi. Lorsque les Hubologistes ne le demandent pas, ce n'est pas bon signe. Ils ont caché un butin colossal quelque part dans le désert. Après quelques piratages et de complexes calculs mathématiques, tu réussis à déterminer les coordonnées de son emplacement. Tu les notes dans ton Pip-Boy.]}
-{201}{}{[L'Eglise d'Hubol semble incroyablement riche. L'approche standard consiste à demander aux nouvelles recrues de faire don à l'Eglise de tous leurs biens terrestres en témoignage de leur bonne foi. Lorsque les Hubologistes ne le demandent pas, ce n'est pas bon signe. Ils ont caché un butin colossal quelque part dans le désert. Tu en as déjà déterminé l'emplacement.]}
+{137}{}{[Se dÃ©connecter]}
+{200}{}{[L'Eglise d'Hubol semble incroyablement riche. L'approche standard consiste Ã  demander aux nouvelles recrues de faire don Ã  l'Eglise de tous leurs biens terrestres en tÃ©moignage de leur bonne foi. Lorsque les Hubologistes ne le demandent pas, ce n'est pas bon signe. Ils ont cachÃ© un butin colossal quelque part dans le dÃ©sert. AprÃ¨s quelques piratages et de complexes calculs mathÃ©matiques, tu rÃ©ussis Ã  dÃ©terminer les coordonnÃ©es de son emplacement. Tu les notes dans ton Pip-Boy.]}
+{201}{}{[L'Eglise d'Hubol semble incroyablement riche. L'approche standard consiste Ã  demander aux nouvelles recrues de faire don Ã  l'Eglise de tous leurs biens terrestres en tÃ©moignage de leur bonne foi. Lorsque les Hubologistes ne le demandent pas, ce n'est pas bon signe. Ils ont cachÃ© un butin colossal quelque part dans le dÃ©sert. Tu en as dÃ©jÃ  dÃ©terminÃ© l'emplacement.]}
 {210}{}{[Pirater l'ordinateur]}
-{211}{}{[Après un certain temps, tu as obtenu le plein accès à l'unité centrale. Tu peux désormais faire ce que tu veux.]}
-{212}{}{[Formater l'unité centrale]}
-{213}{}{Initialisation de la procédure de formatage... Initialisation... Formatage... Formatage effectué... Fermeture du programme en cours. Au revoir.}
-{220}{}{Tu formates l'unité centrale des Hubologistes.}
-{250}{}{Transférer carburant vers pétrolier Poséidon.}
-{251}{}{Carburant correctement transféré. Réservoirs de stockage = vides. Fermeture du programme en cours.}
-{252}{}{[Terminé]}
+{211}{}{[AprÃ¨s un certain temps, tu as obtenu le plein accÃ¨s Ã  l'unitÃ© centrale. Tu peux dÃ©sormais faire ce que tu veux.]}
+{212}{}{[Formater l'unitÃ© centrale]}
+{213}{}{Initialisation de la procÃ©dure de formatage... Initialisation... Formatage... Formatage effectuÃ©... Fermeture du programme en cours. Au revoir.}
+{220}{}{Tu formates l'unitÃ© centrale des Hubologistes.}
+{250}{}{TransfÃ©rer carburant vers pÃ©trolier PosÃ©idon.}
+{251}{}{Carburant correctement transfÃ©rÃ©. RÃ©servoirs de stockage = vides. Fermeture du programme en cours.}
+{252}{}{[TerminÃ©]}

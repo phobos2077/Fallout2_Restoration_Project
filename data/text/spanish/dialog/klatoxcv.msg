@@ -1,1 +1,1 @@
-{100}{}{Has llegado a las cuevas tóxicas.}
+{100}{}{Has llegado a las cuevas tÃ³xicas.}

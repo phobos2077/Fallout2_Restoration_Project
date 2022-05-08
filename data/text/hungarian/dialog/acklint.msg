@@ -1,25 +1,25 @@
-{100}{}{Klint, az egyik törzsbéli barátod.}
+{100}{}{Klint, az egyik tÃ¶rzsbÃ©li barÃ¡tod.}
 {101}{}{? Klint.}
-{102}{}{Egy ifjú embert látsz duzzadó izmokkal és merész arckifejezéssel.}
-{103}{}{Üdvözöllek, }
-{104}{}{. Még nem teljesítetted a Törzsf? próbáját, ezért nem engedhetlek itt át.}
-{105}{}{Öö...}
+{102}{}{Egy ifjÃº embert lÃ¡tsz duzzadÃ³ izmokkal Ã©s merÃ©sz arckifejezÃ©ssel.}
+{103}{}{ÃœdvÃ¶zÃ¶llek, }
+{104}{}{. MÃ©g nem teljesÃ­tetted a TÃ¶rzsf? prÃ³bÃ¡jÃ¡t, ezÃ©rt nem engedhetlek itt Ã¡t.}
+{105}{}{Ã–Ã¶...}
 {106}{}{De vissza kell mennem a faluba.}
-{107}{}{Feltennék néhány kérdést.}
-{108}{}{Rendben, visszamegyek megcsinálni a próbát.}
-{109}{}{(sóhajtás) }
-{110}{}{. Bemész a templomba. Megcsinálod a tesztet. És nem jössz vissza, amíg nem csináltad meg. Engedelmeskedsz a Törzsf?nek. Menj!}
-{111}{}{Én menni elfele.}
-{112}{}{Bocsáss meg, }
+{107}{}{FeltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{108}{}{Rendben, visszamegyek megcsinÃ¡lni a prÃ³bÃ¡t.}
+{109}{}{(sÃ³hajtÃ¡s) }
+{110}{}{. BemÃ©sz a templomba. MegcsinÃ¡lod a tesztet. Ã‰s nem jÃ¶ssz vissza, amÃ­g nem csinÃ¡ltad meg. Engedelmeskedsz a TÃ¶rzsf?nek. Menj!}
+{111}{}{Ã‰n menni elfele.}
+{112}{}{BocsÃ¡ss meg, }
 {113}{}{, but I cannot allow you to pass. If you wish to return to the village you may do so only by passing the trial set before you.}
-{114}{}{Értem. Akkor azt hiszem, megyek is.}
-{115}{}{Feltehetnék néhány kérdést?}
-{116}{}{Egyszer?en szétrúghatnám a segged és visszajuthatnék a faluba.}
-{117}{}{Bocsáss meg, de nem válaszolhatok a kérdéseidre. El?ször ki kell állnod a próbát.}
+{114}{}{Ã‰rtem. Akkor azt hiszem, megyek is.}
+{115}{}{FeltehetnÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{116}{}{Egyszer?en szÃ©trÃºghatnÃ¡m a segged Ã©s visszajuthatnÃ©k a faluba.}
+{117}{}{BocsÃ¡ss meg, de nem vÃ¡laszolhatok a kÃ©rdÃ©seidre. El?szÃ¶r ki kell Ã¡llnod a prÃ³bÃ¡t.}
 {118}{}{Rendben.}
-{119}{}{Ezt az obeliszket itt mögöttem csak két ember tudná elmozdítani. Egyedül neked nem sikerülne. Nem áll szándékomban segíteni, amíg ki nem állod a Törzsf? próbáját.}
+{119}{}{Ezt az obeliszket itt mÃ¶gÃ¶ttem csak kÃ©t ember tudnÃ¡ elmozdÃ­tani. EgyedÃ¼l neked nem sikerÃ¼lne. Nem Ã¡ll szÃ¡ndÃ©komban segÃ­teni, amÃ­g ki nem Ã¡llod a TÃ¶rzsf? prÃ³bÃ¡jÃ¡t.}
 {120}{}{Igazad van.}
-{121}{}{Üdvözöllek, Kiválasztott! Jó látni téged. Mit tehetek érted?}
-{122}{}{Én csak mond üdv. Egész ennyi.}
-{123}{}{Csak elköszönni jöttem. Hamarosan indulok, és végrehajtom a küldetést.}
-{124}{}{Talán az ?seink szelleme majd megvéd, Kiválasztott. Minden jót a küldetésedhez.}
+{121}{}{ÃœdvÃ¶zÃ¶llek, KivÃ¡lasztott! JÃ³ lÃ¡tni tÃ©ged. Mit tehetek Ã©rted?}
+{122}{}{Ã‰n csak mond Ã¼dv. EgÃ©sz ennyi.}
+{123}{}{Csak elkÃ¶szÃ¶nni jÃ¶ttem. Hamarosan indulok, Ã©s vÃ©grehajtom a kÃ¼ldetÃ©st.}
+{124}{}{TalÃ¡n az ?seink szelleme majd megvÃ©d, KivÃ¡lasztott. Minden jÃ³t a kÃ¼ldetÃ©sedhez.}

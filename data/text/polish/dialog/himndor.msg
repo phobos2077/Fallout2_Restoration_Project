@@ -1,5 +1,5 @@
 {100}{}{Widzisz solidne metalowe drzwi.}
-{101}{}{To s¹ drzwi stosowane w skarbcach banków. Wytrzymaj¹ kilka bezpoœrednich eksplozji. S¹ zamkniête.}
-{102}{}{To s¹ drzwi stosowane w skarbcach banków. Wytrzymaj¹ kilka bezpoœrednich eksplozji. S¹ otwarte.}
-{110}{}{Eksplozja gruchocze drzwi. Mimo, ¿e powa¿nie os³abione, drzwi pozostaj¹ na miejscu.}
-{111}{}{Drzwi eksploduj¹. Nic po nich nie zostaje.}
+{101}{}{To sÄ… drzwi stosowane w skarbcach bankÃ³w. WytrzymajÄ… kilka bezpoÅ›rednich eksplozji. SÄ… zamkniÄ™te.}
+{102}{}{To sÄ… drzwi stosowane w skarbcach bankÃ³w. WytrzymajÄ… kilka bezpoÅ›rednich eksplozji. SÄ… otwarte.}
+{110}{}{Eksplozja gruchocze drzwi. Mimo, Å¼e powaÅ¼nie osÅ‚abione, drzwi pozostajÄ… na miejscu.}
+{111}{}{Drzwi eksplodujÄ…. Nic po nich nie zostaje.}

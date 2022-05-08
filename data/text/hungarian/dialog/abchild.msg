@@ -2,7 +2,7 @@
 {101}{}{The child appears to be happy.}
 {200}{}{Ty??!}
 {201}{}{This place is nice.}
-{202}{}{Láttad már a láthatatlan barátom?}
+{202}{}{LÃ¡ttad mÃ¡r a lÃ¡thatatlan barÃ¡tom?}
 {203}{}{You smell!}
 {204}{}{Hi!}
 {500}{}{Mamiii!}

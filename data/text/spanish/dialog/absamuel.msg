@@ -1,58 +1,58 @@
-{100}{}{Ves al guardián del cementerio del monasterio.}
-{101}{}{Ves al hermano Samuel, el guardián del cementerio.}
+{100}{}{Ves al guardiÃ¡n del cementerio del monasterio.}
+{101}{}{Ves al hermano Samuel, el guardiÃ¡n del cementerio.}
 {102}{}{Se ve borracho y un poco adormilado.}
-{200}{}{* hickup * Por qué, 'aquí, mi nombre es Samuel. ¿Qué, uh, * hickup * te trae por aquí?}
+{200}{}{* hickup * Por quÃ©, 'aquÃ­, mi nombre es Samuel. Â¿QuÃ©, uh, * hickup * te trae por aquÃ­?}
 {201}{}{*hipo* Hola de nuevo.}
-{202}{}{Solo voy a echar un vistazo. ¿Tiendes a este cementerio?}
-{203}{}{¿Conoces a un Padre Tully?}
-{204}{}{Padre Tully, ¿dices? [Parece que se está metiendo en el cerebro tratando de recordar.] Sí ... yo * hickup * 'cuerdo a Tully. ¿Cómo está ese chico de todos modos? No lo he visto desde que fue expulsado hace mucho tiempo * hipo * hace mucho tiempo. [Sonríe borracho mientras reflexiona.] Muchacho, era un pitido. Él y yo juntos, * hickup * qué combo.}
-{205}{}{Ahora vive en Nuevo Reno, predicando la buena palabra, er, algo así. Sabes, ustedes dos se parecen mucho.}
-{206}{}{Nuevo Reno, ¿eh? [Se apoya en su pala, saca un pequeño frasco y toma un gran trago.] Lo acepto diciendo que él * hickup * estar de cabeza de esa manera. Me alegra que haya llegado allí de forma segura. Siempre * hickup * me gustaba ese tipo. Un verdadero pitido. Si tu lo ves de nuevo, dile que El viejo Sammy todavía está vivo y que está pateando}
-{207}{}{Lo haré. Aunque tengo algunas preguntas más.}
-{208}{}{Lo haré. Cuídate, Sam.}
+{202}{}{Solo voy a echar un vistazo. Â¿Tiendes a este cementerio?}
+{203}{}{Â¿Conoces a un Padre Tully?}
+{204}{}{Padre Tully, Â¿dices? [Parece que se estÃ¡ metiendo en el cerebro tratando de recordar.] SÃ­ ... yo * hickup * 'cuerdo a Tully. Â¿CÃ³mo estÃ¡ ese chico de todos modos? No lo he visto desde que fue expulsado hace mucho tiempo * hipo * hace mucho tiempo. [SonrÃ­e borracho mientras reflexiona.] Muchacho, era un pitido. Ã‰l y yo juntos, * hickup * quÃ© combo.}
+{205}{}{Ahora vive en Nuevo Reno, predicando la buena palabra, er, algo asÃ­. Sabes, ustedes dos se parecen mucho.}
+{206}{}{Nuevo Reno, Â¿eh? [Se apoya en su pala, saca un pequeÃ±o frasco y toma un gran trago.] Lo acepto diciendo que Ã©l * hickup * estar de cabeza de esa manera. Me alegra que haya llegado allÃ­ de forma segura. Siempre * hickup * me gustaba ese tipo. Un verdadero pitido. Si tu lo ves de nuevo, dile que El viejo Sammy todavÃ­a estÃ¡ vivo y que estÃ¡ pateando}
+{207}{}{Lo harÃ©. Aunque tengo algunas preguntas mÃ¡s.}
+{208}{}{Lo harÃ©. CuÃ­date, Sam.}
 {209}{}{No importa. Lamento molestarte.}
-{210}{}{En realidad, solo iba a decir que él envía sus saludos. Me aseguraré de decirle que también dices hola. Sin embargo tengo algunas otras preguntas.}
-{211}{}{En realidad, solo iba a decir que él envía sus saludos. Me aseguraré de decirle que también dices hola. Cuídate Sam.}
-{300}{}{¿Qué quieres *hipo* saber?}
-{301}{}{¿Eres el guardián del cementerio?}
-{302}{}{¿Qué puedes contarme acerca de la Abadía?}
-{303}{}{¿Puedo ayudarle en algo?}
-{400}{}{Sí, * hickup * Cuido de estas tumbas aquí. Nadie más quiere * hickup * hacerlo, así que El viejo Sammy consiguió su trabajo. No es tan malo como uno podría pensar. Tiene sus ... ventajas, si sabes a lo que me refiero. [Sonríe descuidadamente y mueve sus pobladas cejas hacia ti]}
-{401}{}{No. No sé a lo que te refieres y no quiero saberlo. Adiós.}
-{402}{}{No. No sé a lo que te refieres. Pero déjeme preguntarle otra cosa.}
-{403}{}{No. No sé a lo que quires decir, pero tengo curiosidad mórbida...}
-{404}{}{Demonios, sí lo hago. Nada me excita como un cadáver podrido.}
-{410}{}{Por qué, voy a estar al aire libre, y no hay nadie para decirle al viejo Sammy cuando ya ha tenido suficiente. Yo * sé * cuando ya he tenido suficiente ... ¡cuando ya no queda! [Él se ríe, lo que rápidamente se convierte en una horrible tos. Después de toser un pulmón o dos, él te sonríe.]}
-{411}{}{Eh, *por supuesto* eso es lo que quería decir. [Suspiro de alivio]. Sin embargo, permíteme preguntarte otra cosa.}
-{420}{}{[Sus ojos se abren por sorpresa y instantáneamente parece estar sobrio.] ¡Eso no es lo que quería decir, tú... tú ¡MONSTRUO! ¡DEMONIO!
- ¡Aléjate de mí! }
-{421}{}{Lo que sea, viejo borracho de mierda. No sabes de lo que te estás perdiendo.}
-{430}{}{¡Demonio asqueroso! ¡Fuera!}
-{500}{}{La Abadía, bueno, este lugar * hickup * ha sido mi 'ogar por la mayor parte de mi vida. Todo mundo 'quí * hickup * es agradable, y cualquier persona es bienvenida, siempre y cuando * hickup * no cause problemas. Yo, yo mismo, no paso demasiado tiempo en el mona- * hickup * -monasterio, pero sé que nuestros lectores tienen todo tipo de información que se ha recopilado durante los últimos años. Tal vez algunos de ellos * hickup * pueden ser de alguna utilidad para usted.}
-{501}{}{¿No pasas mucho tiempo en la iglesia? Eres un monje, ¿verdad?}
-{502}{}{[Sonríe, revelando una dentadura llena de dientes podridos.] Bueno, * hickup * digamos que los otros monjes no toman * hickup * muy amablemente a mi, eh, bebiendo habitualmente.}
-{503}{}{Tiene sentido, supongo. Tengo algunas preguntas más.}
-{504}{}{Supongo que sí. Ya nos veremos, Sammy.}
+{210}{}{En realidad, solo iba a decir que Ã©l envÃ­a sus saludos. Me asegurarÃ© de decirle que tambiÃ©n dices hola. Sin embargo tengo algunas otras preguntas.}
+{211}{}{En realidad, solo iba a decir que Ã©l envÃ­a sus saludos. Me asegurarÃ© de decirle que tambiÃ©n dices hola. CuÃ­date Sam.}
+{300}{}{Â¿QuÃ© quieres *hipo* saber?}
+{301}{}{Â¿Eres el guardiÃ¡n del cementerio?}
+{302}{}{Â¿QuÃ© puedes contarme acerca de la AbadÃ­a?}
+{303}{}{Â¿Puedo ayudarle en algo?}
+{400}{}{SÃ­, * hickup * Cuido de estas tumbas aquÃ­. Nadie mÃ¡s quiere * hickup * hacerlo, asÃ­ que El viejo Sammy consiguiÃ³ su trabajo. No es tan malo como uno podrÃ­a pensar. Tiene sus ... ventajas, si sabes a lo que me refiero. [SonrÃ­e descuidadamente y mueve sus pobladas cejas hacia ti]}
+{401}{}{No. No sÃ© a lo que te refieres y no quiero saberlo. AdiÃ³s.}
+{402}{}{No. No sÃ© a lo que te refieres. Pero dÃ©jeme preguntarle otra cosa.}
+{403}{}{No. No sÃ© a lo que quires decir, pero tengo curiosidad mÃ³rbida...}
+{404}{}{Demonios, sÃ­ lo hago. Nada me excita como un cadÃ¡ver podrido.}
+{410}{}{Por quÃ©, voy a estar al aire libre, y no hay nadie para decirle al viejo Sammy cuando ya ha tenido suficiente. Yo * sÃ© * cuando ya he tenido suficiente ... Â¡cuando ya no queda! [Ã‰l se rÃ­e, lo que rÃ¡pidamente se convierte en una horrible tos. DespuÃ©s de toser un pulmÃ³n o dos, Ã©l te sonrÃ­e.]}
+{411}{}{Eh, *por supuesto* eso es lo que querÃ­a decir. [Suspiro de alivio]. Sin embargo, permÃ­teme preguntarte otra cosa.}
+{420}{}{[Sus ojos se abren por sorpresa y instantÃ¡neamente parece estar sobrio.] Â¡Eso no es lo que querÃ­a decir, tÃº... tÃº Â¡MONSTRUO! Â¡DEMONIO!
+ Â¡AlÃ©jate de mÃ­! }
+{421}{}{Lo que sea, viejo borracho de mierda. No sabes de lo que te estÃ¡s perdiendo.}
+{430}{}{Â¡Demonio asqueroso! Â¡Fuera!}
+{500}{}{La AbadÃ­a, bueno, este lugar * hickup * ha sido mi 'ogar por la mayor parte de mi vida. Todo mundo 'quÃ­ * hickup * es agradable, y cualquier persona es bienvenida, siempre y cuando * hickup * no cause problemas. Yo, yo mismo, no paso demasiado tiempo en el mona- * hickup * -monasterio, pero sÃ© que nuestros lectores tienen todo tipo de informaciÃ³n que se ha recopilado durante los Ãºltimos aÃ±os. Tal vez algunos de ellos * hickup * pueden ser de alguna utilidad para usted.}
+{501}{}{Â¿No pasas mucho tiempo en la iglesia? Eres un monje, Â¿verdad?}
+{502}{}{[SonrÃ­e, revelando una dentadura llena de dientes podridos.] Bueno, * hickup * digamos que los otros monjes no toman * hickup * muy amablemente a mi, eh, bebiendo habitualmente.}
+{503}{}{Tiene sentido, supongo. Tengo algunas preguntas mÃ¡s.}
+{504}{}{Supongo que sÃ­. Ya nos veremos, Sammy.}
 {505}{}{Ya veo. Mira, debo irme.}
-{600}{}{Hmm ... * hickup * déjame ... déjame ver un minuto. Sí, podría tener algo, si estás preparado.}
-{601}{}{Eh, olvídelo, Sam. Debo irme ahora.}
-{602}{}{Claro, Sam, qué necesitas?}
-{603}{}{Bueno, en los últimos días, he visto * hickup * que algunas de estas tumbas están siendo desenterradas. Ahora, quien sea que esté haciendo esto no parece llegar tan lejos, pero es un * hickup * un dolor para mí volver a llenarlos.}
-{604}{}{Hmm, ¿has intentado averiguar quién ha estado haciendo esto?}
-{605}{}{Claro *hickup* que lo intenté. Una noche me quedé hasta la medianoche o así y nadie apareció. Debo haberme quedado dormido poco después. Demasiado beber, supongo. [Sonríe, saca su frasco y toma un fuerte trago.] Entonces, ¿qué *hickup* dices? ¿Quieres ayudar?}
-{606}{}{De acuerdo, veré lo que puedo hacer. ¿Sabes also más que pueda ayudarme?}
-{607}{}{Bueno, ahora que lo mencionas, recuerdo * hickup * que el Sr. Peterson dijo algo acerca de escuchar algunos ruidos que vienen de su campo. Él podría saber algo sobre esto. Él y esa bonita pequeña esposa viven allí mismo. [Señala el edificio al sur del cementerio.]}
-{608}{}{Sé lo que podemos hacer.}
+{600}{}{Hmm ... * hickup * dÃ©jame ... dÃ©jame ver un minuto. SÃ­, podrÃ­a tener algo, si estÃ¡s preparado.}
+{601}{}{Eh, olvÃ­delo, Sam. Debo irme ahora.}
+{602}{}{Claro, Sam, quÃ© necesitas?}
+{603}{}{Bueno, en los Ãºltimos dÃ­as, he visto * hickup * que algunas de estas tumbas estÃ¡n siendo desenterradas. Ahora, quien sea que estÃ© haciendo esto no parece llegar tan lejos, pero es un * hickup * un dolor para mÃ­ volver a llenarlos.}
+{604}{}{Hmm, Â¿has intentado averiguar quiÃ©n ha estado haciendo esto?}
+{605}{}{Claro *hickup* que lo intentÃ©. Una noche me quedÃ© hasta la medianoche o asÃ­ y nadie apareciÃ³. Debo haberme quedado dormido poco despuÃ©s. Demasiado beber, supongo. [SonrÃ­e, saca su frasco y toma un fuerte trago.] Entonces, Â¿quÃ© *hickup* dices? Â¿Quieres ayudar?}
+{606}{}{De acuerdo, verÃ© lo que puedo hacer. Â¿Sabes also mÃ¡s que pueda ayudarme?}
+{607}{}{Bueno, ahora que lo mencionas, recuerdo * hickup * que el Sr. Peterson dijo algo acerca de escuchar algunos ruidos que vienen de su campo. Ã‰l podrÃ­a saber algo sobre esto. Ã‰l y esa bonita pequeÃ±a esposa viven allÃ­ mismo. [SeÃ±ala el edificio al sur del cementerio.]}
+{608}{}{SÃ© lo que podemos hacer.}
 {609}{}{Creo que voy a pasar. Debo irme.}
-{700}{}{He cuidado de la situación de excavación de las tumbas. No deberíais tener más problemas aquí.}
-{701}{}{Bueno, esas son *hickup* buenas noticias. Me alegro de no caer en más tumbas *hickup* abiertas. Gracias por la ayuda.}
+{700}{}{He cuidado de la situaciÃ³n de excavaciÃ³n de las tumbas. No deberÃ­ais tener mÃ¡s problemas aquÃ­.}
+{701}{}{Bueno, esas son *hickup* buenas noticias. Me alegro de no caer en mÃ¡s tumbas *hickup* abiertas. Gracias por la ayuda.}
 {702}{}{Encantado de ayudar. Aunque tengo algunas preguntas.}
-{703}{}{Bueno, cuídate, entonces.}
-{704}{}{No creo que las tumbas abiertas sean la verdadera razón por la que caes Samuel, pero tomatelo con calma ahora.}
+{703}{}{Bueno, cuÃ­date, entonces.}
+{704}{}{No creo que las tumbas abiertas sean la verdadera razÃ³n por la que caes Samuel, pero tomatelo con calma ahora.}
 {1000}{}{*Silbas*}
 {1001}{}{*Cof* *Cof*}
 {1002}{}{*Se aclara la garganta*}
 {1003}{}{*Cof*}
 {1004}{}{*Suspiro*}
 {1005}{}{*Hickup*}
-{2000}{}{Ha sido un *hipo* largo día. Vuelve por l'mañana.}
+{2000}{}{Ha sido un *hipo* largo dÃ­a. Vuelve por l'maÃ±ana.}

@@ -7,8 +7,8 @@
 {202}{}{::Aboiment::}
 {205}{}{Ouaf}
 {206}{}{Ouaf Ouaf}
-{210}{}{Les chiens semblent avoir été dressés pour protéger la cabane.}
+{210}{}{Les chiens semblent avoir Ã©tÃ© dressÃ©s pour protÃ©ger la cabane.}
 {211}{}{Toutou m'aime pas.}
 {212}{}{Gentil le toutou, gentil !}
-{250}{}{Ce chien pourrait sûrement te mettre en morceaux.}
-{300}{}{Tu as tué tous les chiens qui attaquaient les Brahmines.}
+{250}{}{Ce chien pourrait sÃ»rement te mettre en morceaux.}
+{300}{}{Tu as tuÃ© tous les chiens qui attaquaient les Brahmines.}

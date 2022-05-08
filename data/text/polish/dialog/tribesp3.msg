@@ -1,1 +1,1 @@
-{100}{}{Po prawej widzisz grupkê szczurów ucztuj¹cych na ciele m³odej dziewczyny. Wygl¹da jakby umar³a straszliw¹ œmierci¹, jej cia³o jest przeciête na pó³.}
+{100}{}{Po prawej widzisz grupkÄ™ szczurÃ³w ucztujÄ…cych na ciele mÅ‚odej dziewczyny. WyglÄ…da jakby umarÅ‚a straszliwÄ… Å›mierciÄ…, jej ciaÅ‚o jest przeciÄ™te na pÃ³Å‚.}

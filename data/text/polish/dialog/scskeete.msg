@@ -1,88 +1,88 @@
-{100}{}{Widzisz mizernie wygl¹daj¹cego ch³ystka.}
-{101}{}{To Doofus, dozorca samochodów.}
-{102}{}{Ten facet to ma³e potargane zió³ko z mnóstwem tików i skurczy. Niew¹tpliwie jest to ofiara jakiegoœ na³ogu.}
-{103}{}{Cz³owieku, jaki wspania³y wóz, naprawdê niez³y! Och, cz³owieku, jestem tym, kogo szukasz - popilnujê samochodu, uchroniê go przed pluskwami. Tylko piêæ dolców. Piêæ dolców i Doofus zabiera siê za robotê! Nigdy nie œpiê - cz³owieku, 24 godziny, zawsze na nogach.}
-{104}{}{Cz³owieku, jestem dozorc¹ samochodów. Pilnujê ich - 5$. Nikt ich nawet nie tknie, bo Doofus stoi na stra¿y.}
-{105}{}{Jasne, cz³owieku, oczywiœcie.}
-{106}{}{Wiêc jak, cz³owieku, chcesz mojej ochrony?}
-{107}{}{Dobrze. Zrób.}
-{108}{}{Nie. Ty nie ruszaæ.}
-{109}{}{Nie mów do mnie ci¹gle "cz³owieku"!}
+{100}{}{Widzisz mizernie wyglÄ…dajÄ…cego chÅ‚ystka.}
+{101}{}{To Doofus, dozorca samochodÃ³w.}
+{102}{}{Ten facet to maÅ‚e potargane ziÃ³Å‚ko z mnÃ³stwem tikÃ³w i skurczy. NiewÄ…tpliwie jest to ofiara jakiegoÅ› naÅ‚ogu.}
+{103}{}{CzÅ‚owieku, jaki wspaniaÅ‚y wÃ³z, naprawdÄ™ niezÅ‚y! Och, czÅ‚owieku, jestem tym, kogo szukasz - popilnujÄ™ samochodu, uchroniÄ™ go przed pluskwami. Tylko piÄ™Ä‡ dolcÃ³w. PiÄ™Ä‡ dolcÃ³w i Doofus zabiera siÄ™ za robotÄ™! Nigdy nie Å›piÄ™ - czÅ‚owieku, 24 godziny, zawsze na nogach.}
+{104}{}{CzÅ‚owieku, jestem dozorcÄ… samochodÃ³w. PilnujÄ™ ich - 5$. Nikt ich nawet nie tknie, bo Doofus stoi na straÅ¼y.}
+{105}{}{Jasne, czÅ‚owieku, oczywiÅ›cie.}
+{106}{}{WiÄ™c jak, czÅ‚owieku, chcesz mojej ochrony?}
+{107}{}{Dobrze. ZrÃ³b.}
+{108}{}{Nie. Ty nie ruszaÄ‡.}
+{109}{}{Nie mÃ³w do mnie ciÄ…gle "czÅ‚owieku"!}
 {110}{}{Co to za miejsce?}
 {111}{}{Zgoda. 5$ - pilnuj samochodu.}
-{112}{}{Zmiataj œmieciu!}
-{113}{}{Hola, cz³owieku, gadasz jak jakiœ olbrzym! Czy to takie fajne, czy co?}
+{112}{}{Zmiataj Å›mieciu!}
+{113}{}{Hola, czÅ‚owieku, gadasz jak jakiÅ› olbrzym! Czy to takie fajne, czy co?}
 {114}{}{Gurg?}
-{115}{}{Nie mów do mnie ci¹gle "cz³owieku"!}
+{115}{}{Nie mÃ³w do mnie ciÄ…gle "czÅ‚owieku"!}
 {116}{}{Co to za miejsce?}
-{117}{}{No w³aœnie. Jestem strasznie potê¿nym olbrzymem! Bêdziesz mi pos³uszny.}
-{118}{}{Bezu¿yteczny æpunie - zmiataj st¹d!}
-{119}{}{Cz³owieku, czego chcesz od Doofusa?}
-{120}{}{Hola, widzieliœmy siê ju¿ kiedyœ? Co mogê dla ciebie zrobiæ?}
-{121}{}{Jasne, cz³owieku, oczywiœcie.}
+{117}{}{No wÅ‚aÅ›nie. Jestem strasznie potÄ™Å¼nym olbrzymem! BÄ™dziesz mi posÅ‚uszny.}
+{118}{}{BezuÅ¼yteczny Ä‡punie - zmiataj stÄ…d!}
+{119}{}{CzÅ‚owieku, czego chcesz od Doofusa?}
+{120}{}{Hola, widzieliÅ›my siÄ™ juÅ¼ kiedyÅ›? Co mogÄ™ dla ciebie zrobiÄ‡?}
+{121}{}{Jasne, czÅ‚owieku, oczywiÅ›cie.}
 {122}{}{Squa?}
-{123}{}{Nie mów do mnie ci¹gle "cz³owieku"!}
+{123}{}{Nie mÃ³w do mnie ciÄ…gle "czÅ‚owieku"!}
 {124}{}{Co tutaj robisz?}
 {125}{}{Co to za miejsce?}
-{126}{}{Nic nic. Wydawa³o mi siê, ¿e jesteœ kimœ innym. Na razie.}
-{127}{}{Hejo, cz³owieku, ostrzega³em ciê. To z³e miejsce. Ró¿ni Ÿli goœcie tu ¿yj¹. S³ysza³em, ¿e twój wózek ma awariê.}
+{126}{}{Nic nic. WydawaÅ‚o mi siÄ™, Å¼e jesteÅ› kimÅ› innym. Na razie.}
+{127}{}{Hejo, czÅ‚owieku, ostrzegaÅ‚em ciÄ™. To zÅ‚e miejsce. RÃ³Å¼ni Åºli goÅ›cie tu Å¼yjÄ…. SÅ‚yszaÅ‚em, Å¼e twÃ³j wÃ³zek ma awariÄ™.}
 {128}{}{Brak?}
-{129}{}{Sk¹d to wiesz?}
-{130}{}{Œwietnie. Dziêki. Fajnie.}
-{131}{}{Cz³owieku, Doofus siê postara. Nawet mucha siê nie zesra na twoim au-to-mo-bilu!}
+{129}{}{SkÄ…d to wiesz?}
+{130}{}{Åšwietnie. DziÄ™ki. Fajnie.}
+{131}{}{CzÅ‚owieku, Doofus siÄ™ postara. Nawet mucha siÄ™ nie zesra na twoim au-to-mo-bilu!}
 {132}{}{Co to za miejsce?}
-{133}{}{Dobrze. Zamknij siê.}
-{134}{}{Jeœli nie masz lewara, to wypierdalaj st¹d! Mam wa¿ne rzeczy do za³atwienia.}
-{135}{}{Hej, cz³owieku, Doofus ciê ostrzega³.}
-{136}{}{Odwal siê. Nie bêdê odpowiadaæ na twoje pytania.}
+{133}{}{Dobrze. Zamknij siÄ™.}
+{134}{}{JeÅ›li nie masz lewara, to wypierdalaj stÄ…d! Mam waÅ¼ne rzeczy do zaÅ‚atwienia.}
+{135}{}{Hej, czÅ‚owieku, Doofus ciÄ™ ostrzegaÅ‚.}
+{136}{}{Odwal siÄ™. Nie bÄ™dÄ™ odpowiadaÄ‡ na twoje pytania.}
 {137}{}{Co to za miejsce?}
-{138}{}{¯egnaj.}
+{138}{}{Å»egnaj.}
 {139}{}{Pa pa.}
-{140}{}{Hola, jaka ostra wypowiedŸ! Odbieram jakieœ mentalne wibracje! Dobra, spróbujmy... uch.... uuuch...}
+{140}{}{Hola, jaka ostra wypowiedÅº! Odbieram jakieÅ› mentalne wibracje! Dobra, sprÃ³bujmy... uch.... uuuch...}
 {141}{}{Tak?}
 {142}{}{Nie?}
-{143}{}{Jesteœ cholernym œwirem! Zmiatam st¹d.}
-{144}{}{To jest RNK - wielka, potê¿na, praworz¹dna, absolutnie i zawsze poprawna Republika Nowej Kalifornii. To oni s¹ tymi, którzy poprowadz¹ ludzi takich jak my przez pustkowia, wprost do nowej, nieskazitelnej przysz³oœci. Kumasz to?}
-{145}{}{Dokoñczmy ju¿ ten interes.}
-{146}{}{Jasne, dziêki. Do widzenia.}
+{143}{}{JesteÅ› cholernym Å›wirem! Zmiatam stÄ…d.}
+{144}{}{To jest RNK - wielka, potÄ™Å¼na, praworzÄ…dna, absolutnie i zawsze poprawna Republika Nowej Kalifornii. To oni sÄ… tymi, ktÃ³rzy poprowadzÄ… ludzi takich jak my przez pustkowia, wprost do nowej, nieskazitelnej przyszÅ‚oÅ›ci. Kumasz to?}
+{145}{}{DokoÅ„czmy juÅ¼ ten interes.}
+{146}{}{Jasne, dziÄ™ki. Do widzenia.}
 {147}{}{Gurg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
-{150}{}{W³aœnie - cz³owieku, b¹dŸ pos³uszny olbrzymowi. Tak w³aœnie powinno byæ. Co mam zrobiæ, olbrzymie?}
-{151}{}{Cz³owieku, to du¿o. Olbrzymie, jestem Doofus, dozorca samochodów i powinienem pilnowaæ samochodów, które ludzie tu przywo¿¹, ale, no wiesz, mam taki... k³opot, widzisz, ¿e czasem potrzebujê trochê dodatkowych pieniêdzy i takich tam, rozumiesz?}
-{152}{}{Taa, w³aœnie. No wiêc czasem mam trochê braków i mam te¿ swoje potrzeby, rozumiesz, tak jakby robiê siê chory, wiêc muszê zebraæ trochê kapsli czy co, wiêc pójdê pogadaæ z Merkiem.}
-{153}{}{Cz³owieku, Merk to swój cz³owiek. Mo¿na siê u niego rozerwaæ i w ogóle. Czasem pozwoli mi pospaæ w Rawhide jak ju¿ pozamykaj¹. Ale potem on chce, ¿ebym mu oddawa³ ma³e przys³ugi.}
-{154}{}{Zmierzam do tego - ³ojej, cz³owieku, jakie kolory! Merk czasem chcê ró¿ne rzeczy z samochodów, których pilnujê. Ale ja go oszukujê!}
-{155}{}{Widzisz, ja biorê tylko z tych samochodów, za które mi nie zap³acono, ¿ebym ich pilnowa³. On myœli, ¿e okradam klientów, ale ja tego nie robiê. Cz³owieku, muszê rzuciæ gadanie. Czasem mam zwidy... och, cz³owieku te œwiat³a. Wszystko zaczyna siê œwieciæ.}
+{150}{}{WÅ‚aÅ›nie - czÅ‚owieku, bÄ…dÅº posÅ‚uszny olbrzymowi. Tak wÅ‚aÅ›nie powinno byÄ‡. Co mam zrobiÄ‡, olbrzymie?}
+{151}{}{CzÅ‚owieku, to duÅ¼o. Olbrzymie, jestem Doofus, dozorca samochodÃ³w i powinienem pilnowaÄ‡ samochodÃ³w, ktÃ³re ludzie tu przywoÅ¼Ä…, ale, no wiesz, mam taki... kÅ‚opot, widzisz, Å¼e czasem potrzebujÄ™ trochÄ™ dodatkowych pieniÄ™dzy i takich tam, rozumiesz?}
+{152}{}{Taa, wÅ‚aÅ›nie. No wiÄ™c czasem mam trochÄ™ brakÃ³w i mam teÅ¼ swoje potrzeby, rozumiesz, tak jakby robiÄ™ siÄ™ chory, wiÄ™c muszÄ™ zebraÄ‡ trochÄ™ kapsli czy co, wiÄ™c pÃ³jdÄ™ pogadaÄ‡ z Merkiem.}
+{153}{}{CzÅ‚owieku, Merk to swÃ³j czÅ‚owiek. MoÅ¼na siÄ™ u niego rozerwaÄ‡ i w ogÃ³le. Czasem pozwoli mi pospaÄ‡ w Rawhide jak juÅ¼ pozamykajÄ…. Ale potem on chce, Å¼ebym mu oddawaÅ‚ maÅ‚e przysÅ‚ugi.}
+{154}{}{Zmierzam do tego - Å‚ojej, czÅ‚owieku, jakie kolory! Merk czasem chcÄ™ rÃ³Å¼ne rzeczy z samochodÃ³w, ktÃ³rych pilnujÄ™. Ale ja go oszukujÄ™!}
+{155}{}{Widzisz, ja biorÄ™ tylko z tych samochodÃ³w, za ktÃ³re mi nie zapÅ‚acono, Å¼ebym ich pilnowaÅ‚. On myÅ›li, Å¼e okradam klientÃ³w, ale ja tego nie robiÄ™. CzÅ‚owieku, muszÄ™ rzuciÄ‡ gadanie. Czasem mam zwidy... och, czÅ‚owieku te Å›wiatÅ‚a. Wszystko zaczyna siÄ™ Å›wieciÄ‡.}
 {156}{}{Daj mi wszystkie swoje rzeczy.}
 {157}{}{Powiedz mi, co wiesz.}
-{158}{}{Wystarczy, ju¿ wiêcej nie dam rady.}
-{159}{}{Och, zamknij siê, durne gówno!}
+{158}{}{Wystarczy, juÅ¼ wiÄ™cej nie dam rady.}
+{159}{}{Och, zamknij siÄ™, durne gÃ³wno!}
 {160}{}{Pa pa.}
-{161}{}{Och, no wiesz. Czasem s³yszê ró¿ne rzeczy. Du¿o s³yszê. Nie zawsze zapamiêtujê wszystko jak trzeba.}
-{162}{}{50 dolców mówi, ¿e pamiêtasz wszystko jak trzeba.}
-{163}{}{Przypomnij sobie, albo ci odstrzelê ten jebany ³eb.}
-{164}{}{Wal siê. Nie mam czasu na pogaduszki z æpunami.}
-{165}{}{Dok³adnie, cz³owieku. IdŸ do Merka. On zawsze ma coœ, co wymaga zrobienia.}
-{166}{}{IdŸ pa pa!}
-{167}{}{Och, cz³owieku, zepsu³eœ to! Merk nie bêdzie zadowolony, gdy siê dowie.}
-{168}{}{¯egnaj, æpunie.}
-{169}{}{Dobrze ju¿! S³uchaj, to by³a za³oga Merka. £upili samochody ostatniej nocy. Rozpytaj siê, to ich znajdziesz.}
-{170}{}{Ty ³gaæ, ja zabiæ.}
-{171}{}{Lepiej, ¿ebyœ nie k³ama³. Jeœli k³amiesz, wrócê tu.}
-{172}{}{Pewnie. Ca³y siê trzêsê ze strachu.}
-{173}{}{50 dolców mówi, ¿e pamiêtasz wszystko jak trzeba.}
-{174}{}{Odwal siê, ma³y cz³owieczku.}
-{175}{}{Odwal siê. Zmiatam st¹d.}
-{176}{}{Potrzebujesz, ¿eby popilnowaæ wozu? Nie ma sprawy. Zrobiê to.}
-{177}{}{Hej, samochodów pilnuje, wózki, wózki, wózki na ulicach...}
-{178}{}{Widzia³em NA ULICACH WÓZKI... wózki wózki, wózki na ulicach...}
-{179}{}{Na ulicach eR eN Ka wózki... wózki wózki, wózki na ulicach...}
-{180}{}{Mam piosenkê o tym. Chcesz - zaœpiewam. Pos³uchaj to idzie tak:}
-{181}{}{Uwaga! Na ulicach wózki! WÓZKI WÓZKI wózki pilnuje ja...}
-{182}{}{Nó¿ki?! Taak, nó¿ek te¿ mogê pilnowaæ. Czy ktoœ ma NÓ¯KÊ? Nie mam nó¿ki, po¿arli j¹ moi wspó³towarzysze...}
-{183}{}{LUBIÊ NÓ¯KI TO S£OWO BRZMI JAK WÓZKI A TO JEST TO CZEGO PILNUJÊ!}
-{184}{}{Ty lubisz wózki, JA JE PILNUJÊ jak jastrz¹b o ma³ych oczach jak pere³ki.}
-{185}{}{Nigdy nie odchodŸ s mojej ziemi ja pilowywujê ludzie gadaj¹, ale ja tylko pilnujê i pilnujê}
-{186}{}{Taak, wszystko w porz¹dku. TAAK, W PORZ¥DKU, taak.}
-{187}{}{Pewnie, koleœ, weŸ wszystko.}
+{161}{}{Och, no wiesz. Czasem sÅ‚yszÄ™ rÃ³Å¼ne rzeczy. DuÅ¼o sÅ‚yszÄ™. Nie zawsze zapamiÄ™tujÄ™ wszystko jak trzeba.}
+{162}{}{50 dolcÃ³w mÃ³wi, Å¼e pamiÄ™tasz wszystko jak trzeba.}
+{163}{}{Przypomnij sobie, albo ci odstrzelÄ™ ten jebany Å‚eb.}
+{164}{}{Wal siÄ™. Nie mam czasu na pogaduszki z Ä‡punami.}
+{165}{}{DokÅ‚adnie, czÅ‚owieku. IdÅº do Merka. On zawsze ma coÅ›, co wymaga zrobienia.}
+{166}{}{IdÅº pa pa!}
+{167}{}{Och, czÅ‚owieku, zepsuÅ‚eÅ› to! Merk nie bÄ™dzie zadowolony, gdy siÄ™ dowie.}
+{168}{}{Å»egnaj, Ä‡punie.}
+{169}{}{Dobrze juÅ¼! SÅ‚uchaj, to byÅ‚a zaÅ‚oga Merka. Åupili samochody ostatniej nocy. Rozpytaj siÄ™, to ich znajdziesz.}
+{170}{}{Ty Å‚gaÄ‡, ja zabiÄ‡.}
+{171}{}{Lepiej, Å¼ebyÅ› nie kÅ‚amaÅ‚. JeÅ›li kÅ‚amiesz, wrÃ³cÄ™ tu.}
+{172}{}{Pewnie. CaÅ‚y siÄ™ trzÄ™sÄ™ ze strachu.}
+{173}{}{50 dolcÃ³w mÃ³wi, Å¼e pamiÄ™tasz wszystko jak trzeba.}
+{174}{}{Odwal siÄ™, maÅ‚y czÅ‚owieczku.}
+{175}{}{Odwal siÄ™. Zmiatam stÄ…d.}
+{176}{}{Potrzebujesz, Å¼eby popilnowaÄ‡ wozu? Nie ma sprawy. ZrobiÄ™ to.}
+{177}{}{Hej, samochodÃ³w pilnuje, wÃ³zki, wÃ³zki, wÃ³zki na ulicach...}
+{178}{}{WidziaÅ‚em NA ULICACH WÃ“ZKI... wÃ³zki wÃ³zki, wÃ³zki na ulicach...}
+{179}{}{Na ulicach eR eN Ka wÃ³zki... wÃ³zki wÃ³zki, wÃ³zki na ulicach...}
+{180}{}{Mam piosenkÄ™ o tym. Chcesz - zaÅ›piewam. PosÅ‚uchaj to idzie tak:}
+{181}{}{Uwaga! Na ulicach wÃ³zki! WÃ“ZKI WÃ“ZKI wÃ³zki pilnuje ja...}
+{182}{}{NÃ³Å¼ki?! Taak, nÃ³Å¼ek teÅ¼ mogÄ™ pilnowaÄ‡. Czy ktoÅ› ma NÃ“Å»KÄ˜? Nie mam nÃ³Å¼ki, poÅ¼arli jÄ… moi wspÃ³Å‚towarzysze...}
+{183}{}{LUBIÄ˜ NÃ“Å»KI TO SÅOWO BRZMI JAK WÃ“ZKI A TO JEST TO CZEGO PILNUJÄ˜!}
+{184}{}{Ty lubisz wÃ³zki, JA JE PILNUJÄ˜ jak jastrzÄ…b o maÅ‚ych oczach jak pereÅ‚ki.}
+{185}{}{Nigdy nie odchodÅº s mojej ziemi ja pilowywujÄ™ ludzie gadajÄ…, ale ja tylko pilnujÄ™ i pilnujÄ™}
+{186}{}{Taak, wszystko w porzÄ…dku. TAAK, W PORZÄ„DKU, taak.}
+{187}{}{Pewnie, koleÅ›, weÅº wszystko.}

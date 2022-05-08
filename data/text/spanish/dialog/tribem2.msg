@@ -1,2 +1,2 @@
-{100}{}{Entrar en el lado oeste de la aldea. Las tribus con las cañas de pescar moverse.}
-{101}{}{Usted entrar en una pequeña cueva. Oye una conmoción más en la cueva.}
+{100}{}{Entrar en el lado oeste de la aldea. Las tribus con las caÃ±as de pescar moverse.}
+{101}{}{Usted entrar en una pequeÃ±a cueva. Oye una conmociÃ³n mÃ¡s en la cueva.}

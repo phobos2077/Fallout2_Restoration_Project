@@ -16,19 +16,19 @@
 {15}{}{Dmg:}
 {16}{}{Rng:}
 {17}{}{Mun:}
-{18}{}{(não equipado)}
-{19}{}{Você não tem pontos de ação suficiente para usar o inventário.}
+{18}{}{(nÃ£o equipado)}
+{19}{}{VocÃª nÃ£o tem pontos de aÃ§Ã£o suficiente para usar o inventÃ¡rio.}
 {20}{}{Peso:}
 {21}{}{MOVER ITENS}
 {22}{}{TUDO}
 {23}{}{AJUSTAR TEMPORIZADOR}
 {24}{}{Dano desarmado:}
-{25}{}{Você não pode pegar isso. Você carrega a capacidade máxima de peso.}
-{26}{}{Não há espaço libre para esse item.}
-{27}{}{OK, isso é um bom negócio.}
-{28}{}{Não, sua oferta não é boa o suficiente.}
-{29}{}{Você ganha %d Pontos de experiência por usar com sucesso sua sua habilidade de roubar.}
+{25}{}{VocÃª nÃ£o pode pegar isso. VocÃª carrega a capacidade mÃ¡xima de peso.}
+{26}{}{NÃ£o hÃ¡ espaÃ§o libre para esse item.}
+{27}{}{OK, isso Ã© um bom negÃ³cio.}
+{28}{}{NÃ£o, sua oferta nÃ£o Ã© boa o suficiente.}
+{29}{}{VocÃª ganha %d Pontos de experiÃªncia por usar com sucesso sua sua habilidade de roubar.}
 {30}{}{Peso}
-{31}{}{Você não pode carregar tanto peso.}
-{32}{}{Isso é muito para carregar..}
-{50}{}{Você não encontra nada de interessante.}
+{31}{}{VocÃª nÃ£o pode carregar tanto peso.}
+{32}{}{Isso Ã© muito para carregar..}
+{50}{}{VocÃª nÃ£o encontra nada de interessante.}

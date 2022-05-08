@@ -1,5 +1,5 @@
 {100}{}{Rose prepara le omelette migliori del mondo.}
-{101}{}{Psst… Sta' alla larga dalle frittelle di brahmin.}
+{101}{}{Psstâ€¦ Sta' alla larga dalle frittelle di brahmin.}
 {102}{}{Faccio un salto da Rose ogni volta che posso.}
 {103}{}{Hai assaggiato le omelette di Rose?}
 {110}{}{Non senti anche tu una strana puzza?}

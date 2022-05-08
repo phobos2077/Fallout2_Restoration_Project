@@ -1,18 +1,18 @@
-{100}{}{Widzisz nieco pulchnaw¹, blond-sekretarkê w obcis³ej sukience.}
-{101}{}{Widzisz *osobist¹*, prywatn¹ sekretarkê Prezydenta.}
-{102}{}{Widzisz pulchn¹, ale wci¹¿ atrakcyjn¹ sta¿ystkê... Eee, sekretarkê. Ma nieco zmierzwione w³osy.}
-{103}{}{Tka? Czym mogê s³u¿yæ, skarbie?}
-{104}{}{Nie teraz! W³aœnie skoñczy³am czyœciæ sukienkê.}
-{105}{}{No i co porabia Pan Wa¿niak?}
-{106}{}{Nie bez powodu mówi¹, ¿e jest *prê¿nym * politykiem.}
-{107}{}{A w³aœnie, ¿e umiem pisaæ na maszynie.}
-{108}{}{A zapukaæ to nie³aska.}
-{109}{}{Muszê umyæ zêby.}
-{110}{}{Gdzie ta œciereczka?}
-{111}{}{Chyba najwy¿szy czas na podwy¿kê.}
-{112}{}{Czy ci agenci specjalni musz¹ wszêdzie wsadzaæ nos?}
-{113}{}{Wróæ póŸniej. Za chwilê bêdê mia³a pe³ne... rêce roboty.}
-{114}{}{Tym razem nie wypiorê sukienki. Kiedyœ mo¿e mi siê to przydaæ.}
-{115}{}{Prezydent mówi, ¿e nikt nie ca³uje tak jak ja.}
+{100}{}{Widzisz nieco pulchnawÄ…, blond-sekretarkÄ™ w obcisÅ‚ej sukience.}
+{101}{}{Widzisz *osobistÄ…*, prywatnÄ… sekretarkÄ™ Prezydenta.}
+{102}{}{Widzisz pulchnÄ…, ale wciÄ…Å¼ atrakcyjnÄ… staÅ¼ystkÄ™... Eee, sekretarkÄ™. Ma nieco zmierzwione wÅ‚osy.}
+{103}{}{Tka? Czym mogÄ™ sÅ‚uÅ¼yÄ‡, skarbie?}
+{104}{}{Nie teraz! WÅ‚aÅ›nie skoÅ„czyÅ‚am czyÅ›ciÄ‡ sukienkÄ™.}
+{105}{}{No i co porabia Pan WaÅ¼niak?}
+{106}{}{Nie bez powodu mÃ³wiÄ…, Å¼e jest *prÄ™Å¼nym * politykiem.}
+{107}{}{A wÅ‚aÅ›nie, Å¼e umiem pisaÄ‡ na maszynie.}
+{108}{}{A zapukaÄ‡ to nieÅ‚aska.}
+{109}{}{MuszÄ™ umyÄ‡ zÄ™by.}
+{110}{}{Gdzie ta Å›ciereczka?}
+{111}{}{Chyba najwyÅ¼szy czas na podwyÅ¼kÄ™.}
+{112}{}{Czy ci agenci specjalni muszÄ… wszÄ™dzie wsadzaÄ‡ nos?}
+{113}{}{WrÃ³Ä‡ pÃ³Åºniej. Za chwilÄ™ bÄ™dÄ™ miaÅ‚a peÅ‚ne... rÄ™ce roboty.}
+{114}{}{Tym razem nie wypiorÄ™ sukienki. KiedyÅ› moÅ¼e mi siÄ™ to przydaÄ‡.}
+{115}{}{Prezydent mÃ³wi, Å¼e nikt nie caÅ‚uje tak jak ja.}
 {116}{}{Chyba mnie nie nagrywasz, co?}
-{117}{}{Gdzie s¹ moje ochraniacze na kolana? He he, tylko ¿artujê.}
+{117}{}{Gdzie sÄ… moje ochraniacze na kolana? He he, tylko Å¼artujÄ™.}

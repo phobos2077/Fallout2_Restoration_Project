@@ -1,6 +1,6 @@
-{100}{}{Przyznano dostêp z poziomu }
-{101}{}{Dostêp zabroniony.}
-{102}{}{Nieznany wzór siatkówki.}
-{103}{}{Naruszenie bezpieczeñstwa na poziomie }
-{104}{}{Przyznano dostêp z poziomu 4.}
-{105}{}{Naruszenie bezpieczeñstwa na poziomie 4.}
+{100}{}{Przyznano dostÄ™p z poziomu }
+{101}{}{DostÄ™p zabroniony.}
+{102}{}{Nieznany wzÃ³r siatkÃ³wki.}
+{103}{}{Naruszenie bezpieczeÅ„stwa na poziomie }
+{104}{}{Przyznano dostÄ™p z poziomu 4.}
+{105}{}{Naruszenie bezpieczeÅ„stwa na poziomie 4.}

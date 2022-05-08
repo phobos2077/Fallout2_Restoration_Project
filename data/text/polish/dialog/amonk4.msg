@@ -1,18 +1,18 @@
 {100}{}{Widzisz mnicha.}
-{101}{}{Ten mnich wygl¹da na handlarza.}
+{101}{}{Ten mnich wyglÄ…da na handlarza.}
 {200}{}{Witaj.}
-{201}{}{Pokój, tobie.}
-{202}{}{£adna pogoda.}
-{203}{}{IdŸ, pobaw siê gdzie indziej.}
-{300}{}{Witaj, jak mogê pomóc?}
-{301}{}{Co mo¿esz mi powiedzieæ o twoim zakonie?}
+{201}{}{PokÃ³j, tobie.}
+{202}{}{Åadna pogoda.}
+{203}{}{IdÅº, pobaw siÄ™ gdzie indziej.}
+{300}{}{Witaj, jak mogÄ™ pomÃ³c?}
+{301}{}{Co moÅ¼esz mi powiedzieÄ‡ o twoim zakonie?}
 {302}{}{Pohandlujmy.}
 {303}{}{Bywaj.}
-{400}{}{Nasz¹ œwiêt¹ misj¹ jest zbieraæ i przechowywaæ œwiête relikwie zapomnianej przesz³oœci. Ka¿dy jest tu mile widziany pod warunkiem, ¿e niczego nie uszkodzi.}
-{401}{}{Kto jest waszym przywódc¹?}
+{400}{}{NaszÄ… Å›wiÄ™tÄ… misjÄ… jest zbieraÄ‡ i przechowywaÄ‡ Å›wiÄ™te relikwie zapomnianej przeszÅ‚oÅ›ci. KaÅ¼dy jest tu mile widziany pod warunkiem, Å¼e niczego nie uszkodzi.}
+{401}{}{Kto jest waszym przywÃ³dcÄ…?}
 {402}{}{Jakiego rodzaju relikwie?}
-{403}{}{Mo¿na go znaleŸæ na trzecim piêtrze. Je¿eli chcesz dowiedzieæ siê wiêcej o naszym zakonie, to z nim musisz porozmawiaæ.}
-{404}{}{Wszelkiego, ale wiêkszoœæ naszej Arki Pamiêci stanowi¹ tomy staro¿ytnych ksi¹g. Tak wiele informacji mo¿na uzyskaæ z tych tekstów. Naszym zadaniem jest przechowanie tej wiedzy aby przysz³e pokolenia mog³y jej u¿yæ do budowy nowego œwiata pokoju i szczêœliwoœci.}
-{405}{}{W porz¹dku.}
-{406}{}{W porz¹dku.}
-{500}{}{Przestañ!}
+{403}{}{MoÅ¼na go znaleÅºÄ‡ na trzecim piÄ™trze. JeÅ¼eli chcesz dowiedzieÄ‡ siÄ™ wiÄ™cej o naszym zakonie, to z nim musisz porozmawiaÄ‡.}
+{404}{}{Wszelkiego, ale wiÄ™kszoÅ›Ä‡ naszej Arki PamiÄ™ci stanowiÄ… tomy staroÅ¼ytnych ksiÄ…g. Tak wiele informacji moÅ¼na uzyskaÄ‡ z tych tekstÃ³w. Naszym zadaniem jest przechowanie tej wiedzy aby przyszÅ‚e pokolenia mogÅ‚y jej uÅ¼yÄ‡ do budowy nowego Å›wiata pokoju i szczÄ™Å›liwoÅ›ci.}
+{405}{}{W porzÄ…dku.}
+{406}{}{W porzÄ…dku.}
+{500}{}{PrzestaÅ„!}

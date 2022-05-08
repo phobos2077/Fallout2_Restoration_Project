@@ -109,13 +109,13 @@
  feeling about you girl, and I've learned to trust my instincts.}
 {362}{}{Alright. Let's do this.}
 {363}{}{Alright, but give me a moment to get ready.}
-{364}{}{Se eu a ajudar, o que h· para mim?}
+{364}{}{Se eu a ajudar, o que h√° para mim?}
 {370}{}{[He chuckles.] I offer the hospitality of our tribe and the opportunity to impress me. I promise no more than that.}
 {371}{}{Alright. Let's do this.}
 {372}{}{Alright, but give me a moment to get ready.}
-{373}{}{N„o interessado. Tchau.}
+{373}{}{N√£o interessado. Tchau.}
 {375}{}{Are you ready to go?}
-{376}{}{Ainda n„o.}
+{376}{}{Ainda n√£o.}
 {377}{}{Alright. Let's do this.}
 {380}{}{It's up to you to decide.}
 {390}{}{[Krom examines one of the tribe's newly acquired stimpaks.] These should prove to be quite useful. [He brings
@@ -147,7 +147,7 @@
 {441}{}{I don't blame you for not making the trade. I had bad feeling about the deal as well. I admit those stimpaks would
  have proven useful, but we've been getting by without them, and we'll continue to do so. You're welcome to stay among us
  girl, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{442}{}{N„o h· problema.}
+{442}{}{N√£o h√° problema.}
 {443}{}{My pleasure.}
 {444}{}{Seja o que for. Tchau.}
 {450}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
@@ -156,7 +156,7 @@
 {451}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
  in spotting his deceit. I see I made a wise choice in trusting you, girl. You're welcome to stay among us, and treat our
  tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{452}{}{N„o h· problema.}
+{452}{}{N√£o h√° problema.}
 {453}{}{My pleasure.}
 {454}{}{Seja o que for. Tchau.}
 {460}{}{[The giant warrior nods a greeting as you approach.] Welcome back, friend. Do you need something?}
@@ -197,7 +197,7 @@
 {522}{}{Alright, maybe I'll do that. But first, could I ask you something else?}
 {530}{}{Good to see you, friend. If you've got a moment, I could use your assistance again.}
 {531}{}{Good to see you again, girl. If you've got a moment, I could use your assistance.}
-{532}{}{Com certeza. O que vocÍ precisa?}
+{532}{}{Com certeza. O que voc√™ precisa?}
 {533}{}{Sorry, I'm busy now. Perhaps later.}
 {540}{}{Two of our hunters, Serin and Jerem, have not yet returned from the hunting ground and some people are starting to worry. They're two of our best warriors, and I'd hate to think something has happened to them. I'd go search for them myself, but if the villagers saw me take such a personal interest in the matter, I fear they'd assume the worst. I'd rather not get people riled up until I know what's going on. So, will you seek them out for me?}
 {541}{}{Alright, but where should I look?}
@@ -246,7 +246,7 @@
 {863}{}{No, I was just leaving.}
 {870}{}{Ah, it seems I'm in a forgiving mood today, friend. Now what can I do for you?}
 {871}{}{I don't like being toyed with girl, but by the gods, how could I stay mad at a goddess like you? Now, what can I do for you?}
-{872}{}{Deixa pra l·. Tchau.}
+{872}{}{Deixa pra l√°. Tchau.}
 {1000}{}{[The giant warrior nods respectfully to you.] Well, if it isn't the great hero of the wastes. That was a pretty
  impressive feat, sending them Enclave dogs to hell like that. In fact, hearing tales of your exploits has inspired me to
  head back out into the wastes myself.}

@@ -1,1 +1,1 @@
-{100}{}{Hier unten herrscht ein überwältigender Gestank nach Methan. Ein winziger Funke würde dieses Loch bis zum Mond blasen.}
+{100}{}{Hier unten herrscht ein Ã¼berwÃ¤ltigender Gestank nach Methan. Ein winziger Funke wÃ¼rde dieses Loch bis zum Mond blasen.}

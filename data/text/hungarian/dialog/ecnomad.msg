@@ -1,12 +1,12 @@
 {100}{}{You see a nomad.}
-{101}{}{Helló, újnak látszol a környéken.}
-{102}{}{A f?nökkel kellene beszélned.}
-{103}{}{Azt hiszem, ma nincs olyan forróság, mint tegnap.}
-{104}{}{Na, és milyen az élet a városban?}
+{101}{}{HellÃ³, Ãºjnak lÃ¡tszol a kÃ¶rnyÃ©ken.}
+{102}{}{A f?nÃ¶kkel kellene beszÃ©lned.}
+{103}{}{Azt hiszem, ma nincs olyan forrÃ³sÃ¡g, mint tegnap.}
+{104}{}{Na, Ã©s milyen az Ã©let a vÃ¡rosban?}
 {105}{}{Hitetlen!}
-{106}{}{Miért támadsz ránk?!}
-{107}{}{Az életem árán is megvédelmezem a törzset!}
-{108}{}{Hogy mered megsérteni a vendégszeretetünket?!}
+{106}{}{MiÃ©rt tÃ¡madsz rÃ¡nk?!}
+{107}{}{Az Ã©letem Ã¡rÃ¡n is megvÃ©delmezem a tÃ¶rzset!}
+{108}{}{Hogy mered megsÃ©rteni a vendÃ©gszeretetÃ¼nket?!}
 {109}{}{Hordd el magad!}
 {110}{}{Hagyj minket!}
-{111}{}{Mi békés törzs vagyunk.}
+{111}{}{Mi bÃ©kÃ©s tÃ¶rzs vagyunk.}

@@ -1,26 +1,26 @@
 {100}{}{You see a Fisherman.}
-{101}{}{Épp id?ben érkeztél, hogy saját szemeddel lásd a Tenger Istenn?jének áldását.}
-{102}{}{[TOVÁBB]}
+{101}{}{Ã‰pp id?ben Ã©rkeztÃ©l, hogy sajÃ¡t szemeddel lÃ¡sd a Tenger Istenn?jÃ©nek Ã¡ldÃ¡sÃ¡t.}
+{102}{}{[TOVÃBB]}
 {103}{}{}
-{104}{}{Minden nagy vihar el?tt lándzsákat hajítunk a tengerbe, hogy megmutassuk az elemeknek a bátorságunkat. Ha méltónak találtatunk, az Istenn? gyümölccsel ajándékoz meg minket.}
+{104}{}{Minden nagy vihar el?tt lÃ¡ndzsÃ¡kat hajÃ­tunk a tengerbe, hogy megmutassuk az elemeknek a bÃ¡torsÃ¡gunkat. Ha mÃ©ltÃ³nak talÃ¡ltatunk, az Istenn? gyÃ¼mÃ¶lccsel ajÃ¡ndÃ©koz meg minket.}
 {105}{}{When the season of storms begins, we throw Broc flowers out on the sea with the tide. After
  the Goddess works her magic, she returns the Broc flowers as the rare Xander root. }
 {106}{}{We offer tribute to the Goddess of the Sea each year in the form of Xander root. If the
  Goddess deems us worthy, she will turn the Xander root into Broc flowers. }
-{107}{}{Minden aratás után áldozatot mutatunk be a Tenger Istenn?jének, hogy vigyázzon ránk és védjen minket. Áhítatunkat minden évben lándzsákkal jutalmazza, melyeket a hullámok vetnek partra. Ez a jel, hogy figyelni fog ránk.}
-{108}{}{Láthatnám, mivel ajándékozott meg titeket az Istenn??}
+{107}{}{Minden aratÃ¡s utÃ¡n Ã¡ldozatot mutatunk be a Tenger Istenn?jÃ©nek, hogy vigyÃ¡zzon rÃ¡nk Ã©s vÃ©djen minket. ÃhÃ­tatunkat minden Ã©vben lÃ¡ndzsÃ¡kkal jutalmazza, melyeket a hullÃ¡mok vetnek partra. Ez a jel, hogy figyelni fog rÃ¡nk.}
+{108}{}{LÃ¡thatnÃ¡m, mivel ajÃ¡ndÃ©kozott meg titeket az Istenn??}
 {109}{}{Ah...}
-{110}{}{Itt láthatod, ami a magasságos istenn? ebben az évben adott nekünk. Szívesen megosztjuk veled az ? áldását, megfelel? ellenértékért.}
+{110}{}{Itt lÃ¡thatod, ami a magassÃ¡gos istenn? ebben az Ã©vben adott nekÃ¼nk. SzÃ­vesen megosztjuk veled az ? Ã¡ldÃ¡sÃ¡t, megfelel? ellenÃ©rtÃ©kÃ©rt.}
 {111}{}{Junk [$10]}
-{112}{}{Lézerpisztoly [10000]}
+{112}{}{LÃ©zerpisztoly [10000]}
 {113}{}{Sharpened sticks [$40]}
 {114}{}{Fruit [$5]}
 {115}{}{Xander [$20]}
 {116}{}{Broc [$10]}
-{117}{}{Viszlát!}
-{118}{}{[A tenger felé mutat.] Menj egyenesen el?re! Az Istenn? személyesen akar találkozni veled.}
-{119}{}{[Vége]}
-{120}{}{A Tenger Istenn?jének áldása kísérjen utadon!}
-{121}{}{[Vége]}
+{117}{}{ViszlÃ¡t!}
+{118}{}{[A tenger felÃ© mutat.] Menj egyenesen el?re! Az Istenn? szemÃ©lyesen akar talÃ¡lkozni veled.}
+{119}{}{[VÃ©ge]}
+{120}{}{A Tenger Istenn?jÃ©nek Ã¡ldÃ¡sa kÃ­sÃ©rjen utadon!}
+{121}{}{[VÃ©ge]}
 {122}{}{[He frowns as you fail to produce the required sum of money.] Perhaps another time, then.}
-{123}{}{[Vége]}
+{123}{}{[VÃ©ge]}

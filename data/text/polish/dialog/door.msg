@@ -1,131 +1,131 @@
 {100}{}{Widzisz drewniane drzwi.}
 {101}{}{Widzisz metalowe drzwi.}
-{102}{}{Widzisz solidne drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem) i chronione ³adunkiem wybuchowym ukrytym we framudze. Mo¿e uda ci siê je sforsowaæ.}
-{103}{}{Widzisz solidne drzwi zamkniête na zamek i chronione ³adunkiem wybuchowym ukrytym we framudze. Mo¿e uda ci siê je sforsowaæ.}
-{104}{}{Widzisz solidne drzwi bez widocznego zamka. S¹ chronione ³adunkiem wybuchowym ukrytym we framudze. Mo¿e uda ci siê je sforsowaæ.}
-{105}{}{Widzisz solidne drzwi zamkniête na stary, pordzewia³y zamek i chronione ³adunkiem wybuchowym ukrytym we framudze. Mo¿e uda ci siê je sforsowaæ.}
-{106}{}{Widzisz solidne drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem) i chronione pu³apk¹ ukryt¹ we framudze. Mo¿e uda ci siê je sforsowaæ.}
-{107}{}{Widzisz solidne drzwi zamkniête na zamek i chronione pu³apk¹ ukryt¹ we framudze. Mo¿e uda ci siê je sforsowaæ.}
-{108}{}{Widzisz solidne drzwi bez widocznego zamka. S¹ chronione pu³apk¹ ukryt¹ we framudze. Mo¿e uda ci siê je sforsowaæ.}
-{109}{}{Widzisz solidne drzwi zamkniête na stary, pordzewia³y zamek i chronione pu³apk¹ ukryt¹ we framudze. Mo¿e uda ci siê je sforsowaæ.}
-{110}{}{Widzisz solidne drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem). Dostrzegasz przeciêty drut we framudze drzwi. Mo¿e uda ci siê je sforsowaæ.}
-{111}{}{Widzisz solidne drzwi zamkniête na zamek. Dostrzegasz przerwany drut we framudze drzwi. Mo¿e uda ci siê je sforsowaæ.}
-{112}{}{Widzisz solidne drzwi bez widocznego zamka. Dostrzegasz przerwany drut we framudze drzwi. Mo¿e uda ci siê je sforsowaæ.}
-{113}{}{Widzisz solidne drzwi zamkniête na stary, pordzewia³y zamek. Dostrzegasz przeciêty drut we framudze drzwi. Mo¿e uda ci siê je sforsowaæ.}
-{114}{}{Widzisz solidne drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem). Mo¿e uda ci siê je sforsowaæ.}
-{115}{}{Widzisz solidne drzwi zamkniête na zamek. Mo¿e uda ci siê je sforsowaæ.}
-{116}{}{Widzisz solidne drzwi bez widocznego zamka. Mo¿e uda ci siê je sforsowaæ.}
-{117}{}{Widzisz solidne drzwi zamkniête na stary, pordzewia³y zamek. Mo¿e uda ci siê je sforsowaæ.}
-{118}{}{Widzisz solidne drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem) i chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{119}{}{Widzisz solidne drzwi zamkniête na zamek i chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{120}{}{Widzisz solidne drzwi bez widocznego zamka. S¹ chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{121}{}{Widzisz solidne drzwi zamkniête na stary, pordzewia³y zamek i chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{122}{}{Widzisz solidne drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem) i chronione pu³apk¹ ukryt¹ we framudze.}
-{123}{}{Widzisz solidne drzwi zamkniête na zamek i chronione pu³apk¹ ukryt¹ we framudze.}
-{124}{}{Widzisz solidne drzwi bez widocznego zamka. S¹ chronione pu³apk¹ ukryt¹ we framudze.}
-{125}{}{Widzisz solidne drzwi zamkniête na stary, pordzewia³y zamek i chronione pu³apk¹ ukryt¹ we framudze.}
-{126}{}{Widzisz solidne drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem). Dostrzegasz przeciêty drut we framudze drzwi.}
-{127}{}{Widzisz solidne drzwi zamkniête na zamek. Dostrzegasz przerwany drut we framudze drzwi.}
+{102}{}{Widzisz solidne drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem) i chronione Å‚adunkiem wybuchowym ukrytym we framudze. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{103}{}{Widzisz solidne drzwi zamkniÄ™te na zamek i chronione Å‚adunkiem wybuchowym ukrytym we framudze. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{104}{}{Widzisz solidne drzwi bez widocznego zamka. SÄ… chronione Å‚adunkiem wybuchowym ukrytym we framudze. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{105}{}{Widzisz solidne drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek i chronione Å‚adunkiem wybuchowym ukrytym we framudze. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{106}{}{Widzisz solidne drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem) i chronione puÅ‚apkÄ… ukrytÄ… we framudze. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{107}{}{Widzisz solidne drzwi zamkniÄ™te na zamek i chronione puÅ‚apkÄ… ukrytÄ… we framudze. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{108}{}{Widzisz solidne drzwi bez widocznego zamka. SÄ… chronione puÅ‚apkÄ… ukrytÄ… we framudze. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{109}{}{Widzisz solidne drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek i chronione puÅ‚apkÄ… ukrytÄ… we framudze. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{110}{}{Widzisz solidne drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem). Dostrzegasz przeciÄ™ty drut we framudze drzwi. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{111}{}{Widzisz solidne drzwi zamkniÄ™te na zamek. Dostrzegasz przerwany drut we framudze drzwi. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{112}{}{Widzisz solidne drzwi bez widocznego zamka. Dostrzegasz przerwany drut we framudze drzwi. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{113}{}{Widzisz solidne drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek. Dostrzegasz przeciÄ™ty drut we framudze drzwi. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{114}{}{Widzisz solidne drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem). MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{115}{}{Widzisz solidne drzwi zamkniÄ™te na zamek. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{116}{}{Widzisz solidne drzwi bez widocznego zamka. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{117}{}{Widzisz solidne drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{118}{}{Widzisz solidne drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem) i chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{119}{}{Widzisz solidne drzwi zamkniÄ™te na zamek i chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{120}{}{Widzisz solidne drzwi bez widocznego zamka. SÄ… chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{121}{}{Widzisz solidne drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek i chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{122}{}{Widzisz solidne drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem) i chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{123}{}{Widzisz solidne drzwi zamkniÄ™te na zamek i chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{124}{}{Widzisz solidne drzwi bez widocznego zamka. SÄ… chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{125}{}{Widzisz solidne drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek i chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{126}{}{Widzisz solidne drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem). Dostrzegasz przeciÄ™ty drut we framudze drzwi.}
+{127}{}{Widzisz solidne drzwi zamkniÄ™te na zamek. Dostrzegasz przerwany drut we framudze drzwi.}
 {128}{}{Widzisz solidne drzwi bez widocznego zamka. Dostrzegasz przerwany drut we framudze drzwi.}
-{129}{}{Widzisz solidne drzwi zamkniête na stary, pordzewia³y zamek. Dostrzegasz przeciêty drut we framudze drzwi.}
-{130}{}{Widzisz solidne drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem).}
-{131}{}{Widzisz solidne drzwi zamkniête na zamek.}
+{129}{}{Widzisz solidne drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek. Dostrzegasz przeciÄ™ty drut we framudze drzwi.}
+{130}{}{Widzisz solidne drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem).}
+{131}{}{Widzisz solidne drzwi zamkniÄ™te na zamek.}
 {132}{}{Widzisz solidne drzwi bez widocznego zamka.}
-{133}{}{Widzisz solidne drzwi zamkniête na stary, pordzewia³y zamek.}
-{134}{}{Widzisz uszkodzone drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem) i chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{135}{}{Widzisz uszkodzone drzwi zamkniête na zamek i chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{136}{}{Widzisz uszkodzone drzwi bez widocznego zamka. S¹ chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{137}{}{Widzisz uszkodzone drzwi zamkniête na stary, pordzewia³y zamek i chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{138}{}{Widzisz uszkodzone drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem) i chronione pu³apk¹ ukryt¹ we framudze.}
-{139}{}{Widzisz uszkodzone drzwi zamkniête na zamek i chronione pu³apk¹ ukryt¹ we framudze.}
-{140}{}{Widzisz uszkodzone drzwi bez widocznego zamka. S¹ chronione pu³apk¹ ukryt¹ we framudze.}
-{141}{}{Widzisz uszkodzone drzwi zamkniête na stary, pordzewia³y zamek i chronione pu³apk¹ ukryt¹ we framudze.}
-{142}{}{Widzisz uszkodzone drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem). Dostrzegasz przeciêty drut we framudze drzwi.}
-{143}{}{Widzisz uszkodzone drzwi zamkniête na zamek. Dostrzegasz przerwany drut we framudze drzwi.}
+{133}{}{Widzisz solidne drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek.}
+{134}{}{Widzisz uszkodzone drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem) i chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{135}{}{Widzisz uszkodzone drzwi zamkniÄ™te na zamek i chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{136}{}{Widzisz uszkodzone drzwi bez widocznego zamka. SÄ… chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{137}{}{Widzisz uszkodzone drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek i chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{138}{}{Widzisz uszkodzone drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem) i chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{139}{}{Widzisz uszkodzone drzwi zamkniÄ™te na zamek i chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{140}{}{Widzisz uszkodzone drzwi bez widocznego zamka. SÄ… chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{141}{}{Widzisz uszkodzone drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek i chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{142}{}{Widzisz uszkodzone drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem). Dostrzegasz przeciÄ™ty drut we framudze drzwi.}
+{143}{}{Widzisz uszkodzone drzwi zamkniÄ™te na zamek. Dostrzegasz przerwany drut we framudze drzwi.}
 {144}{}{Widzisz uszkodzone drzwi bez widocznego zamka. Dostrzegasz przerwany drut we framudze drzwi.}
-{145}{}{Widzisz uszkodzone drzwi zamkniête na stary, pordzewia³y zamek. Dostrzegasz przeciêty drut we framudze drzwi.}
-{146}{}{Widzisz uszkodzone drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem).}
-{147}{}{Widzisz uszkodzone drzwi zamkniête na zamek.}
+{145}{}{Widzisz uszkodzone drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek. Dostrzegasz przeciÄ™ty drut we framudze drzwi.}
+{146}{}{Widzisz uszkodzone drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem).}
+{147}{}{Widzisz uszkodzone drzwi zamkniÄ™te na zamek.}
 {148}{}{Widzisz uszkodzone drzwi bez widocznego zamka.}
-{149}{}{Widzisz uszkodzone drzwi zamkniête na stary, pordzewia³y zamek.}
-{150}{}{Widzisz stare drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem) i chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{151}{}{Widzisz stare drzwi zamkniête na zamek i chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{152}{}{Widzisz stare drzwi bez widocznego zamka. S¹ chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{153}{}{Widzisz stare drzwi zamkniête na pordzewia³y zamek i chronione ³adunkiem wybuchowym ukrytym we framudze.}
-{154}{}{Widzisz stare drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem) i chronione pu³apk¹ ukryt¹ we framudze.}
-{155}{}{Widzisz stare drzwi zamkniête na zamek i chronione pu³apk¹ ukryt¹ we framudze.}
-{156}{}{Widzisz stare drzwi bez widocznego zamka. S¹ chronione pu³apk¹ ukryt¹ we framudze.}
-{157}{}{Widzisz stare drzwi zamkniête na pordzewia³y zamek i chronione pu³apk¹ ukryt¹ we framudze.}
-{158}{}{Widzisz stare drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem). Dostrzegasz przeciêty drut we framudze drzwi.}
-{159}{}{Widzisz stare drzwi zamkniête na zamek. Dostrzegasz przerwany drut we framudze drzwi.}
+{149}{}{Widzisz uszkodzone drzwi zamkniÄ™te na stary, pordzewiaÅ‚y zamek.}
+{150}{}{Widzisz stare drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem) i chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{151}{}{Widzisz stare drzwi zamkniÄ™te na zamek i chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{152}{}{Widzisz stare drzwi bez widocznego zamka. SÄ… chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{153}{}{Widzisz stare drzwi zamkniÄ™te na pordzewiaÅ‚y zamek i chronione Å‚adunkiem wybuchowym ukrytym we framudze.}
+{154}{}{Widzisz stare drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem) i chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{155}{}{Widzisz stare drzwi zamkniÄ™te na zamek i chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{156}{}{Widzisz stare drzwi bez widocznego zamka. SÄ… chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{157}{}{Widzisz stare drzwi zamkniÄ™te na pordzewiaÅ‚y zamek i chronione puÅ‚apkÄ… ukrytÄ… we framudze.}
+{158}{}{Widzisz stare drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem). Dostrzegasz przeciÄ™ty drut we framudze drzwi.}
+{159}{}{Widzisz stare drzwi zamkniÄ™te na zamek. Dostrzegasz przerwany drut we framudze drzwi.}
 {160}{}{Widzisz stare drzwi bez widocznego zamka. Dostrzegasz przerwany drut we framudze drzwi.}
-{161}{}{Widzisz stare drzwi zamkniête na pordzewia³y zamek. Dostrzegasz przerwany drut we framudze drzwi.}
-{162}{}{Widzisz stare drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem).}
-{163}{}{Widzisz stare drzwi zamkniête na zamek.}
+{161}{}{Widzisz stare drzwi zamkniÄ™te na pordzewiaÅ‚y zamek. Dostrzegasz przerwany drut we framudze drzwi.}
+{162}{}{Widzisz stare drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem).}
+{163}{}{Widzisz stare drzwi zamkniÄ™te na zamek.}
 {164}{}{Widzisz stare drzwi bez widocznego zamka.}
-{165}{}{Widzisz stare drzwi zamkniête na pordzewia³y zamek.}
-{166}{}{Uaktywniasz pu³apkê i odnosisz }
-{167}{}{ punktów obra¿eñ.}
-{168}{}{ uaktywnia pu³apkê i odnosi }
-{169}{}{ punktów obra¿eñ.}
-{170}{}{Zrêcznie otwierasz zamek na drzwiach.}
-{171}{}{Przez twój brak umiejêtnoœci zamek zosta³ powa¿nie uszkodzony.}
-{172}{}{Nie uda³o ci siê otworzyæ drzwi.}
-{173}{}{ zrêcznie otwiera drzwi.}
+{165}{}{Widzisz stare drzwi zamkniÄ™te na pordzewiaÅ‚y zamek.}
+{166}{}{Uaktywniasz puÅ‚apkÄ™ i odnosisz }
+{167}{}{ punktÃ³w obraÅ¼eÅ„.}
+{168}{}{ uaktywnia puÅ‚apkÄ™ i odnosi }
+{169}{}{ punktÃ³w obraÅ¼eÅ„.}
+{170}{}{ZrÄ™cznie otwierasz zamek na drzwiach.}
+{171}{}{Przez twÃ³j brak umiejÄ™tnoÅ›ci zamek zostaÅ‚ powaÅ¼nie uszkodzony.}
+{172}{}{Nie udaÅ‚o ci siÄ™ otworzyÄ‡ drzwi.}
+{173}{}{ zrÄ™cznie otwiera drzwi.}
 {174}{}{ nieporadnie poczyna sobie z zamkiem i wreszcie go psuje.}
-{175}{}{ nie mo¿e otworzyæ drzwi.}
-{176}{}{Wy³amujesz zamek z drzwi.}
-{177}{}{Nadwerê¿asz siê próbuj¹c wy³amaæ zamek i odnosisz jeden punkt obra¿eñ.}
-{178}{}{Nadwerê¿asz siê próbuj¹c wy³amaæ zamek i odnosisz }
-{179}{}{ punktów obra¿eñ.}
-{180}{}{Brakuje ci si³, ¿eby wy³amaæ ten zamek.}
-{181}{}{ wy³amuje zamek z drzwi.}
-{182}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek z drzwi i odnosi jeden punkt obra¿eñ.}
-{183}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek i odnosi }
-{184}{}{ punktów obra¿eñ.}
-{185}{}{ nie ma doœæ si³ by wy³amaæ zamek.}
-{186}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek i odnosi jeden punkt obra¿eñ.}
-{187}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek i odnosi }
-{188}{}{ punktów obra¿eñ.}
-{189}{}{Zrêcznie zamykasz drzwi.}
-{190}{}{Nie uda³o ci siê zamkn¹æ drzwi.}
-{191}{}{ zrêcznie zamyka drzwi.}
-{192}{}{ nie mo¿e zamkn¹æ drzwi.}
-{193}{}{Drzwi nie zosta³y nawet zarysowane.}
-{194}{}{Odkrywasz pu³apkê na drzwiach.}
-{195}{}{Nie widzisz ¿adnej pu³apki.}
-{196}{}{Sprawnie rozbrajasz pu³apkê.}
-{198}{}{Nie uda³o ci siê rozbroiæ pu³apki.}
-{199}{}{ znajduje pu³apkê na drzwiach.}
-{200}{}{ nie widzi ¿adnej pu³apki.}
-{201}{}{ sprawnie rozbraja pu³apkê.}
-{202}{}{ nie mo¿e rozbroiæ pu³apki.}
-{203}{}{Drzwi zdaj¹ siê byæ zamkniête.}
-{204}{}{Dostrzegasz pu³apkê w zepsutym zamku.}
-{205}{}{ dostrzega pu³apkê w zepsutym zamku.}
-{206}{}{Nie mo¿esz umieœciæ pu³apki na tych drzwiach, poniewa¿
- s¹ otwarte.}
-{207}{}{ nie mo¿e umieœciæ pu³apki na tych drzwiach, poniewa¿
- s¹ otwarte.}
-{208}{}{Sprawnie umieszczasz pu³apkê na drzwiach.}
-{209}{}{Nie udaje ci siê poprawnie za³o¿yæ pu³apki na drzwi.}
-{210}{}{ sprawnie umieszcza pu³apkê na drzwiach.}
-{211}{}{ nie jest w stanie poprawnie za³o¿yæ pu³apki na drzwi.}
+{175}{}{ nie moÅ¼e otworzyÄ‡ drzwi.}
+{176}{}{WyÅ‚amujesz zamek z drzwi.}
+{177}{}{NadwerÄ™Å¼asz siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosisz jeden punkt obraÅ¼eÅ„.}
+{178}{}{NadwerÄ™Å¼asz siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosisz }
+{179}{}{ punktÃ³w obraÅ¼eÅ„.}
+{180}{}{Brakuje ci siÅ‚, Å¼eby wyÅ‚amaÄ‡ ten zamek.}
+{181}{}{ wyÅ‚amuje zamek z drzwi.}
+{182}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek z drzwi i odnosi jeden punkt obraÅ¼eÅ„.}
+{183}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosi }
+{184}{}{ punktÃ³w obraÅ¼eÅ„.}
+{185}{}{ nie ma doÅ›Ä‡ siÅ‚ by wyÅ‚amaÄ‡ zamek.}
+{186}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosi jeden punkt obraÅ¼eÅ„.}
+{187}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosi }
+{188}{}{ punktÃ³w obraÅ¼eÅ„.}
+{189}{}{ZrÄ™cznie zamykasz drzwi.}
+{190}{}{Nie udaÅ‚o ci siÄ™ zamknÄ…Ä‡ drzwi.}
+{191}{}{ zrÄ™cznie zamyka drzwi.}
+{192}{}{ nie moÅ¼e zamknÄ…Ä‡ drzwi.}
+{193}{}{Drzwi nie zostaÅ‚y nawet zarysowane.}
+{194}{}{Odkrywasz puÅ‚apkÄ™ na drzwiach.}
+{195}{}{Nie widzisz Å¼adnej puÅ‚apki.}
+{196}{}{Sprawnie rozbrajasz puÅ‚apkÄ™.}
+{198}{}{Nie udaÅ‚o ci siÄ™ rozbroiÄ‡ puÅ‚apki.}
+{199}{}{ znajduje puÅ‚apkÄ™ na drzwiach.}
+{200}{}{ nie widzi Å¼adnej puÅ‚apki.}
+{201}{}{ sprawnie rozbraja puÅ‚apkÄ™.}
+{202}{}{ nie moÅ¼e rozbroiÄ‡ puÅ‚apki.}
+{203}{}{Drzwi zdajÄ… siÄ™ byÄ‡ zamkniÄ™te.}
+{204}{}{Dostrzegasz puÅ‚apkÄ™ w zepsutym zamku.}
+{205}{}{ dostrzega puÅ‚apkÄ™ w zepsutym zamku.}
+{206}{}{Nie moÅ¼esz umieÅ›ciÄ‡ puÅ‚apki na tych drzwiach, poniewaÅ¼
+ sÄ… otwarte.}
+{207}{}{ nie moÅ¼e umieÅ›ciÄ‡ puÅ‚apki na tych drzwiach, poniewaÅ¼
+ sÄ… otwarte.}
+{208}{}{Sprawnie umieszczasz puÅ‚apkÄ™ na drzwiach.}
+{209}{}{Nie udaje ci siÄ™ poprawnie zaÅ‚oÅ¼yÄ‡ puÅ‚apki na drzwi.}
+{210}{}{ sprawnie umieszcza puÅ‚apkÄ™ na drzwiach.}
+{211}{}{ nie jest w stanie poprawnie zaÅ‚oÅ¼yÄ‡ puÅ‚apki na drzwi.}
 {300}{}{Otwierasz drzwi.}
 {301}{}{Zamykasz drzwi.}
-{302}{}{Nie mo¿esz zakluczyæ otwartych drzwi.}
+{302}{}{Nie moÅ¼esz zakluczyÄ‡ otwartych drzwi.}
 {303}{}{Ten klucz nie pasuje do zamka.}
-{320}{}{Nie mo¿na zamkn¹æ tych drzwi na klucz.}
-{330}{}{Te drzwi siê zaciê³y. Nie mo¿na ich zamkn¹æ.}
+{320}{}{Nie moÅ¼na zamknÄ…Ä‡ tych drzwi na klucz.}
+{330}{}{Te drzwi siÄ™ zaciÄ™Å‚y. Nie moÅ¼na ich zamknÄ…Ä‡.}
 {400}{}{Otwierasz drzwi.}
-{414}{}{Widzisz solidne drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem). Mo¿e uda ci siê je sforsowaæ.}
-{415}{}{Widzisz solidne drzwi zamkniête na zamek. Mo¿e uda ci siê je sforsowaæ.}
-{416}{}{Widzisz solidne drzwi bez widocznego zamka. Mo¿e uda ci siê je sforsowaæ.}
-{417}{}{Widzisz solidne drzwi. Mo¿e uda ci siê je sforsowaæ.}
-{500}{}{Te drzwi s¹ zbyt solidne by mo¿na je by³o sforsowaæ.}
-{501}{}{Chyba najpierw musisz uruchomiæ generator.}
+{414}{}{Widzisz solidne drzwi zamkniÄ™te na zamek (ktÃ³ry moÅ¼esz otworzyÄ‡ wytrychem). MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{415}{}{Widzisz solidne drzwi zamkniÄ™te na zamek. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{416}{}{Widzisz solidne drzwi bez widocznego zamka. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{417}{}{Widzisz solidne drzwi. MoÅ¼e uda ci siÄ™ je sforsowaÄ‡.}
+{500}{}{Te drzwi sÄ… zbyt solidne by moÅ¼na je byÅ‚o sforsowaÄ‡.}
+{501}{}{Chyba najpierw musisz uruchomiÄ‡ generator.}
 {502}{}{Widzisz drzwi do windy.}
-{503}{}{Do otwarcia tych drzwi potrzeba specjalnego urz¹dzenia elektronicznego.}
-{601}{}{To jest otwarte, g³upku.}
-{610}{}{Ponosisz spektakularn¹ pora¿kê, ³adunek wybuchowy wybucha przedwczeœnie.}
-{611}{}{ zawodzi spektakularnie, ³adunek wybuchowy wybucha przedwczeœnie.}
+{503}{}{Do otwarcia tych drzwi potrzeba specjalnego urzÄ…dzenia elektronicznego.}
+{601}{}{To jest otwarte, gÅ‚upku.}
+{610}{}{Ponosisz spektakularnÄ… poraÅ¼kÄ™, Å‚adunek wybuchowy wybucha przedwczeÅ›nie.}
+{611}{}{ zawodzi spektakularnie, Å‚adunek wybuchowy wybucha przedwczeÅ›nie.}

@@ -1,9 +1,9 @@
 {100}{}{Ves a Jordan, jugando con su lanza como de costumbre.}
 {101}{}{Ves a Jordan, jugando con su lanza como de costumbre.}
-{102}{}{¡Buena suerte! Debo volver a mi entrenamiento.}
-{103}{}{Hola, Elegido. Veo que necesitas algo de entrenamiento. ¿Puedo serte de ayuda?}
+{102}{}{Â¡Buena suerte! Debo volver a mi entrenamiento.}
+{103}{}{Hola, Elegido. Veo que necesitas algo de entrenamiento. Â¿Puedo serte de ayuda?}
 {104}{}{Claro.}
 {105}{}{No, gracias}
-{106}{}{Esto nos llevará un rato.}
-{107}{}{Bueno, has aprendido lo que sé sobre lanzas.}
-{108}{}{Gracias Jordan, esto me ayudará mucho.}
+{106}{}{Esto nos llevarÃ¡ un rato.}
+{107}{}{Bueno, has aprendido lo que sÃ© sobre lanzas.}
+{108}{}{Gracias Jordan, esto me ayudarÃ¡ mucho.}

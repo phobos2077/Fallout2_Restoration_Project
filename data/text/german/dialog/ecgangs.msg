@@ -6,4 +6,4 @@
 {105}{}{Hau ab!}
 {106}{}{Das wirst du bereuen!}
 {107}{}{Harter Brocken!}
-{108}{}{Nächstes Mal.}
+{108}{}{NÃ¤chstes Mal.}

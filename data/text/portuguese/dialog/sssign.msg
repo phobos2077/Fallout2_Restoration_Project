@@ -1,4 +1,4 @@
-{100}{}{Você vê um quadro de avisos.}
+{100}{}{VocÃª vÃª um quadro de avisos.}
 {101}{}{You see a bulletin board with the posted laws of the NCR.}
 {102}{}{This is a typical bulletin board with several sheets of paper tacked to it. Prominent among the notices are the laws of the NCR.}
 {103}{}{Welcome to the New California Republic! Before entering our fair city please take a moment to familiarize yourself with the following rules and regulations.}

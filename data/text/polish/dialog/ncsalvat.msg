@@ -4,165 +4,165 @@
 {200}{}{*Kaszle*}
 {201}{}{::Fiuu::}
 {202}{}{*Kaszle* *Kaszle*}
-{210}{}{Stra¿! Stra... *eghym* *eghymhym*... Stra¿!}
-{215}{}{(Salvatore zwraca siê do ciebie z kamiennym wyrazem twarzy. Patrzy na ciebie przez u³amek sekundy, po czym wykonuje dziwny ruch rêk¹. W mgnieniu oka w kasynie rozlega siê wycie alarmu.)}
-{216}{}{Auuuuæ! Wy³¹cz wycie! Uszy bol¹! USZY BOL¥!}
-{217}{}{MY NIE MO¯E MÓWIÆ, GDY WYJE. WY£¥CZ, MY ROZMAWIAÆ}
-{218}{}{OKALECZÊ ciê, staruszku! Nigdy ju¿ nie bêdziesz chodziæ!}
-{219}{}{Nale¿a³o najpierw poprosiæ o pozwolenie...}
+{210}{}{StraÅ¼! Stra... *eghym* *eghymhym*... StraÅ¼!}
+{215}{}{(Salvatore zwraca siÄ™ do ciebie z kamiennym wyrazem twarzy. Patrzy na ciebie przez uÅ‚amek sekundy, po czym wykonuje dziwny ruch rÄ™kÄ…. W mgnieniu oka w kasynie rozlega siÄ™ wycie alarmu.)}
+{216}{}{AuuuuÄ‡! WyÅ‚Ä…cz wycie! Uszy bolÄ…! USZY BOLÄ„!}
+{217}{}{MY NIE MOÅ»E MÃ“WIÄ†, GDY WYJE. WYÅÄ„CZ, MY ROZMAWIAÄ†}
+{218}{}{OKALECZÄ˜ ciÄ™, staruszku! Nigdy juÅ¼ nie bÄ™dziesz chodziÄ‡!}
+{219}{}{NaleÅ¼aÅ‚o najpierw poprosiÄ‡ o pozwolenie...}
 {220}{}{Kurwa!}
-{221}{}{Ech, proszê mi powiedzieæ, ¿e to by³a obs³uga hotelowa.}
-{230}{}{(Starszy cz³owiek przygl¹da ci siê. Twarz ma mizern¹, pokryt¹ plamami. Trzyma maskê do oddychania, która jest po³¹czona z butl¹ tlenow¹, stoj¹c¹ przy jego boku.) Czego... Czego chcesz ode mnie?}
+{221}{}{Ech, proszÄ™ mi powiedzieÄ‡, Å¼e to byÅ‚a obsÅ‚uga hotelowa.}
+{230}{}{(Starszy czÅ‚owiek przyglÄ…da ci siÄ™. Twarz ma mizernÄ…, pokrytÄ… plamami. Trzyma maskÄ™ do oddychania, ktÃ³ra jest poÅ‚Ä…czona z butlÄ… tlenowÄ…, stojÄ…cÄ… przy jego boku.) Czego... Czego chcesz ode mnie?}
 {231}{}{Ja chce... ja nie wiem co chce.}
 {232}{}{Ja chce}
 {233}{}{Ja }
-{234}{}{[OdejdŸ]}
+{234}{}{[OdejdÅº]}
 {235}{}{Mam dla pana informacje.}
 {236}{}{Mam dla pana informacje, panie Salvatore.}
 {237}{}{Szukam pracy.}
-{238}{}{Panie Salvatore, ma pan opiniê cz³owieka potê¿nego i sprawiedliwego. Chcê pracowaæ dla pana.}
-{239}{}{Chcê wiedzieæ, sk¹d bierzecie miotacze œwiat³a.}
-{240}{}{Prawda jest taka, ¿e otru³ pan syna pana Wrighta. Dlaczego?}
-{241}{}{Chyba pomyli³em pokoje. Proszê wybaczyæ.}
-{250}{}{Poda³em ci powody, dla których ch³opak zgin¹³. To nie mo¿e opuœciæ tego pokoju. (Salvatore robi dziwny ruch rêk¹. W mgnieniu oka w kasynie rozlega siê wycie alarmu.)}
-{251}{}{(Salvatore przez u³amek sekundy przygl¹da ci siê ze wstrêtem, po czym robi dziwny ruch rêk¹. W mgnieniu oka w kasynie rozlega siê wycie alarmu.)}
-{254}{}{OKALECZÊ ciê, staruszku! Nigdy ju¿ nie bêdziesz chodziæ!}
-{270}{}{(Bierze g³êboki oddech przez maskê, po czy potrz¹sa g³ow¹) Nie wiesz nic... co mog³oby mi siê przydaæ, }
-{271}{}{Hmm, o ile dobrze pamiêtam, nie przedstawiono nas sobie. Sk¹d zna pan moje imiê?}
-{272}{}{Eee, okay. Wiêc... szukam pracy.}
-{276}{}{W³aœciwie to chyba zasz³a pomy³ka. Nie ten pokój. Przepraszam.}
-{290}{}{(Przygl¹da ci siê w ciszy przez minutê. Jest albo rozbawiony, albo zirytowany twoim pytaniem... trudno stwierdziæ.) Znów, }
+{238}{}{Panie Salvatore, ma pan opiniÄ™ czÅ‚owieka potÄ™Å¼nego i sprawiedliwego. ChcÄ™ pracowaÄ‡ dla pana.}
+{239}{}{ChcÄ™ wiedzieÄ‡, skÄ…d bierzecie miotacze Å›wiatÅ‚a.}
+{240}{}{Prawda jest taka, Å¼e otruÅ‚ pan syna pana Wrighta. Dlaczego?}
+{241}{}{Chyba pomyliÅ‚em pokoje. ProszÄ™ wybaczyÄ‡.}
+{250}{}{PodaÅ‚em ci powody, dla ktÃ³rych chÅ‚opak zginÄ…Å‚. To nie moÅ¼e opuÅ›ciÄ‡ tego pokoju. (Salvatore robi dziwny ruch rÄ™kÄ…. W mgnieniu oka w kasynie rozlega siÄ™ wycie alarmu.)}
+{251}{}{(Salvatore przez uÅ‚amek sekundy przyglÄ…da ci siÄ™ ze wstrÄ™tem, po czym robi dziwny ruch rÄ™kÄ…. W mgnieniu oka w kasynie rozlega siÄ™ wycie alarmu.)}
+{254}{}{OKALECZÄ˜ ciÄ™, staruszku! Nigdy juÅ¼ nie bÄ™dziesz chodziÄ‡!}
+{270}{}{(Bierze gÅ‚Ä™boki oddech przez maskÄ™, po czy potrzÄ…sa gÅ‚owÄ…) Nie wiesz nic... co mogÅ‚oby mi siÄ™ przydaÄ‡, }
+{271}{}{Hmm, o ile dobrze pamiÄ™tam, nie przedstawiono nas sobie. SkÄ…d zna pan moje imiÄ™?}
+{272}{}{Eee, okay. WiÄ™c... szukam pracy.}
+{276}{}{WÅ‚aÅ›ciwie to chyba zaszÅ‚a pomyÅ‚ka. Nie ten pokÃ³j. Przepraszam.}
+{290}{}{(PrzyglÄ…da ci siÄ™ w ciszy przez minutÄ™. Jest albo rozbawiony, albo zirytowany twoim pytaniem... trudno stwierdziÄ‡.) ZnÃ³w, }
 {291}{}{Eee... hmmm. Wiec, yyy, szukam pracy.}
-{305}{}{(Bierze oddech przez maskê tlenowej, po czym uœmiecha siê nieznacznie) No tak... A DLACZEGO mia³bym ciê zatrudniæ?}
-{306}{}{A dlaczego nie? Przyjmê jakakolwiek pracê. Jestem bardzo pracowity i mam wiele umiejêtnoœci.}
-{307}{}{Czy ja powiedzia³em, ¿e szukam pracy? Chcia³em powiedzieæ, ¿e szukam drzwi.}
-{315}{}{(Bierze oddech przez maskê tlenow¹, po czym uœmiecha siê nieznacznie) No tak. Ale wymagam... dowodu twojej lojalnoœci. Próbkê twojej... dobrej woli.}
-{316}{}{Ja mam najpierw coœ zrobiæ dla ciebie? Na przyk³ad co?}
+{305}{}{(Bierze oddech przez maskÄ™ tlenowej, po czym uÅ›miecha siÄ™ nieznacznie) No tak... A DLACZEGO miaÅ‚bym ciÄ™ zatrudniÄ‡?}
+{306}{}{A dlaczego nie? PrzyjmÄ™ jakakolwiek pracÄ™. Jestem bardzo pracowity i mam wiele umiejÄ™tnoÅ›ci.}
+{307}{}{Czy ja powiedziaÅ‚em, Å¼e szukam pracy? ChciaÅ‚em powiedzieÄ‡, Å¼e szukam drzwi.}
+{315}{}{(Bierze oddech przez maskÄ™ tlenowÄ…, po czym uÅ›miecha siÄ™ nieznacznie) No tak. Ale wymagam... dowodu twojej lojalnoÅ›ci. PrÃ³bkÄ™ twojej... dobrej woli.}
+{316}{}{Ja mam najpierw coÅ› zrobiÄ‡ dla ciebie? Na przykÅ‚ad co?}
 {317}{}{Czego pan ode mnie oczekuje, panie Salvatore?}
-{325}{}{(Nieznacznie krêci g³ow¹) Twoja naiwnoœæ jest... nie na miejscu. S³owa s¹ niewystarczaj¹ce: Chcesz pracowaæ dla Louisa Salvatore? Muszê wiêc wiedzieæ, jak bardzo mogê na tobie polegaæ.}
-{326}{}{Mo¿e pan na mnie LICZYÆ.}
-{327}{}{Proszê mi pozwoliæ to udowodniæ, panie Salvatore. Proszê mi wyznaczyæ jakieœ zadanie.}
-{335}{}{(Bierze g³êboki oddech przez maskê tlenow¹) Jest pewien... cz³owiek... który u¿y³ swoich... umiejêtnoœci karcianych, by mnie okraœæ. Chodzi o... niewielka sumê, ale OBRA¯ONO mnie. Masz go zabiæ i odzyskaæ skradzione pieni¹dze.}
-{336}{}{Kim jest ten z³odziej?}
-{338}{}{Ile panu ukrad³?}
-{339}{}{To mo¿e byæ trochê trudne: czy dostanê jedn¹ z tych broni laserowych, których u¿ywa pañska rodzina?}
-{340}{}{Nie zabijam na zlecenie. Chyba ju¿ pójdê.}
-{350}{}{Mason poda ci... szczegó³y. (Kiwa g³ow¹) IdŸ ju¿.}
+{325}{}{(Nieznacznie krÄ™ci gÅ‚owÄ…) Twoja naiwnoÅ›Ä‡ jest... nie na miejscu. SÅ‚owa sÄ… niewystarczajÄ…ce: Chcesz pracowaÄ‡ dla Louisa Salvatore? MuszÄ™ wiÄ™c wiedzieÄ‡, jak bardzo mogÄ™ na tobie polegaÄ‡.}
+{326}{}{MoÅ¼e pan na mnie LICZYÄ†.}
+{327}{}{ProszÄ™ mi pozwoliÄ‡ to udowodniÄ‡, panie Salvatore. ProszÄ™ mi wyznaczyÄ‡ jakieÅ› zadanie.}
+{335}{}{(Bierze gÅ‚Ä™boki oddech przez maskÄ™ tlenowÄ…) Jest pewien... czÅ‚owiek... ktÃ³ry uÅ¼yÅ‚ swoich... umiejÄ™tnoÅ›ci karcianych, by mnie okraÅ›Ä‡. Chodzi o... niewielka sumÄ™, ale OBRAÅ»ONO mnie. Masz go zabiÄ‡ i odzyskaÄ‡ skradzione pieniÄ…dze.}
+{336}{}{Kim jest ten zÅ‚odziej?}
+{338}{}{Ile panu ukradÅ‚?}
+{339}{}{To moÅ¼e byÄ‡ trochÄ™ trudne: czy dostanÄ™ jednÄ… z tych broni laserowych, ktÃ³rych uÅ¼ywa paÅ„ska rodzina?}
+{340}{}{Nie zabijam na zlecenie. Chyba juÅ¼ pÃ³jdÄ™.}
+{350}{}{Mason poda ci... szczegÃ³Å‚y. (Kiwa gÅ‚owÄ…) IdÅº juÅ¼.}
 {351}{}{Dobrze.}
-{352}{}{Dziêkujê, panie Salvatore. Zapytam Masona.}
-{360}{}{W taki razie nie jesteœ dla mnie... u¿yteczny. WyjdŸ.}
-{361}{}{Proszê poczekaæ... zmieni³em zdanie. Zrobiê to.}
-{362}{}{WyjdŸ cicho.}
-{370}{}{(Mru¿y oczy. Jego g³os zmienia siê w œwist) ::Jeszcze siê nie WYKAZA£ES.:: Teraz idŸ do Masona. On poda ci... szczegó³y twojego zadania.}
-{371}{}{W porz¹dku. Na razie broñ nie bêdzie mi niezbêdna.}
-{372}{}{Rozumiem, panie Salvatore. Proszê mi wybaczyæ. Pójdê do Masona.}
-{373}{}{Jeœli mnie pan wystarczaj¹co nie uzbroi, zadanie nie bêdzie mo¿liwe do wykonania.}
-{380}{}{Porozmawiaj z Masonem. On poda ci... szczegó³y twojego zadania.}
-{385}{}{(Salvatore przygl¹da ci siê, bierze oddech przez maskê tlenow¹) Czy... usun¹³eœ z³odzieja?}
-{386}{}{Nie... Lloyd uciek³ z miasta i zabra³ pieni¹dze.}
-{387}{}{Tak. Wilki najprawdopodobniej rozszarpuj¹ w³aœnie jego zw³oki.}
+{352}{}{DziÄ™kujÄ™, panie Salvatore. Zapytam Masona.}
+{360}{}{W taki razie nie jesteÅ› dla mnie... uÅ¼yteczny. WyjdÅº.}
+{361}{}{ProszÄ™ poczekaÄ‡... zmieniÅ‚em zdanie. ZrobiÄ™ to.}
+{362}{}{WyjdÅº cicho.}
+{370}{}{(MruÅ¼y oczy. Jego gÅ‚os zmienia siÄ™ w Å›wist) ::Jeszcze siÄ™ nie WYKAZAÅES.:: Teraz idÅº do Masona. On poda ci... szczegÃ³Å‚y twojego zadania.}
+{371}{}{W porzÄ…dku. Na razie broÅ„ nie bÄ™dzie mi niezbÄ™dna.}
+{372}{}{Rozumiem, panie Salvatore. ProszÄ™ mi wybaczyÄ‡. PÃ³jdÄ™ do Masona.}
+{373}{}{JeÅ›li mnie pan wystarczajÄ…co nie uzbroi, zadanie nie bÄ™dzie moÅ¼liwe do wykonania.}
+{380}{}{Porozmawiaj z Masonem. On poda ci... szczegÃ³Å‚y twojego zadania.}
+{385}{}{(Salvatore przyglÄ…da ci siÄ™, bierze oddech przez maskÄ™ tlenowÄ…) Czy... usunÄ…Å‚eÅ› zÅ‚odzieja?}
+{386}{}{Nie... Lloyd uciekÅ‚ z miasta i zabraÅ‚ pieniÄ…dze.}
+{387}{}{Tak. Wilki najprawdopodobniej rozszarpujÄ… wÅ‚aÅ›nie jego zwÅ‚oki.}
 {388}{}{Jeszcze nie.}
-{389}{}{Nie, panie Salvatore. Lloyd uciek³ z miasta i zabra³ pieni¹dze}
-{390}{}{Tak. Dosta³ nauczkê, panie Salvatore.}
+{389}{}{Nie, panie Salvatore. Lloyd uciekÅ‚ z miasta i zabraÅ‚ pieniÄ…dze}
+{390}{}{Tak. DostaÅ‚ nauczkÄ™, panie Salvatore.}
 {391}{}{Jeszcze nie, panie Salvatore.}
-{400}{}{Jeszcze... Mason mówi³, ¿e zadanie ju¿ rozpoczête.}
-{401}{}{Wiêc, tak, ale...}
-{405}{}{(Sk³ada palce) A... pieni¹dze. Czy masz pieni¹dze?}
-{406}{}{Nie, nie uda³o mi siê ich odnaleŸæ.}
-{407}{}{Nie, Lloyd zd¹¿y³ ju¿ je wydaæ.}
+{400}{}{Jeszcze... Mason mÃ³wiÅ‚, Å¼e zadanie juÅ¼ rozpoczÄ™te.}
+{401}{}{WiÄ™c, tak, ale...}
+{405}{}{(SkÅ‚ada palce) A... pieniÄ…dze. Czy masz pieniÄ…dze?}
+{406}{}{Nie, nie udaÅ‚o mi siÄ™ ich odnaleÅºÄ‡.}
+{407}{}{Nie, Lloyd zdÄ…Å¼yÅ‚ juÅ¼ je wydaÄ‡.}
 {408}{}{Tak.}
-{410}{}{Nie, panie Salvatore, nie uda³o mi siê ich odnaleŸæ.}
-{411}{}{Nie, panie Salvatore, Lloyd zd¹¿y³ ju¿ je wydaæ.}
+{410}{}{Nie, panie Salvatore, nie udaÅ‚o mi siÄ™ ich odnaleÅºÄ‡.}
+{411}{}{Nie, panie Salvatore, Lloyd zdÄ…Å¼yÅ‚ juÅ¼ je wydaÄ‡.}
 {412}{}{Tak, panie Salvatore.}
-{420}{}{Twoim zadaniem by³o odzyskaæ skradzione pieni¹dze. Nie zrobi³eœ tego?}
-{421}{}{Wiêc, nie, poniewa¿...}
-{422}{}{Mam pieni¹dze...}
-{423}{}{Wiêc, widzi pan, ja nie...}
-{430}{}{Wezmê je teraz.}
+{420}{}{Twoim zadaniem byÅ‚o odzyskaÄ‡ skradzione pieniÄ…dze. Nie zrobiÅ‚eÅ› tego?}
+{421}{}{WiÄ™c, nie, poniewaÅ¼...}
+{422}{}{Mam pieniÄ…dze...}
+{423}{}{WiÄ™c, widzi pan, ja nie...}
+{430}{}{WezmÄ™ je teraz.}
 {431}{}{Nie mam ich przy sobie...}
-{432}{}{Daj mu 250 kawa³ków.}
-{433}{}{Daj mu 500 kawa³ków.}
-{434}{}{Daj mu 750 kawa³ków.}
-{435}{}{Daj mu 1000 kawa³ków.}
-{436}{}{Daj mu 1000 kawa³ków. (To jest w³aœciwa suma.)}
-{437}{}{(Spróbuj szczêœcia.)}
-{450}{}{Ta suma... nie jest w³aœciwa. Mo¿e nie wiesz, ile mi skradziono. Albo robisz mi nadziejê. W przeciwnym razie...}
-{451}{}{Och, musia³a nast¹piæ pomy³ka...}
-{455}{}{(Salvatore patrzy jak wyci¹gasz rêkê z pieniêdzmi, ale nie ma zamiaru wzi¹æ ich od ciebie) Poczekaj... nale¿y ci siê po³owa.}
-{456}{}{Hej, dziêki.}
-{468}{}{Dziêkujê, panie Salvatore.}
-{475}{}{(Pan Salvatore bierze oddech przez maskê) Mam kolejn¹... sprawê, która wymaga twojej uwagi.}
-{476}{}{Pewnie, czemu nie? Co to za praca - kolejne zabójstwo?}
-{477}{}{Bardzo mnie interesuje praca, panie Salvatore. Co mam zrobiæ?}
-{478}{}{Nie, koñczê z tym. Robiê sobie d³u¿sz¹ przerwê.}
-{479}{}{Nie chcê wiêcej pracy, panie Salvatore. Muszê ju¿ iœæ.}
-{485}{}{Pewien cz³owiek z mojego... rejonu nie p³aci mi... podatku... za us³ugi, które mu oferuje. Œci¹gnij te pieni¹dze. Jeœli bêdzie protestowa³, poinformuj go, ¿e jesteœ moim... reprezentantem w tej sprawie. O szczegó³ach porozmawiaj z Masonem.}
-{487}{}{Tak, panie Salvatore. Ju¿ do niego idê.}
-{488}{}{Nie, dziêki, nie œci¹gam haraczy.}
-{495}{}{Ty mnie... ok³amujesz. Wiem, ¿e on ci¹gle ¿yje.}
-{500}{}{Czy sprawa jest za³atwiona?}
-{501}{}{Tak, panie Salvatore, mam pieni¹dze, które kaza³ pan odebraæ.}
+{432}{}{Daj mu 250 kawaÅ‚kÃ³w.}
+{433}{}{Daj mu 500 kawaÅ‚kÃ³w.}
+{434}{}{Daj mu 750 kawaÅ‚kÃ³w.}
+{435}{}{Daj mu 1000 kawaÅ‚kÃ³w.}
+{436}{}{Daj mu 1000 kawaÅ‚kÃ³w. (To jest wÅ‚aÅ›ciwa suma.)}
+{437}{}{(SprÃ³buj szczÄ™Å›cia.)}
+{450}{}{Ta suma... nie jest wÅ‚aÅ›ciwa. MoÅ¼e nie wiesz, ile mi skradziono. Albo robisz mi nadziejÄ™. W przeciwnym razie...}
+{451}{}{Och, musiaÅ‚a nastÄ…piÄ‡ pomyÅ‚ka...}
+{455}{}{(Salvatore patrzy jak wyciÄ…gasz rÄ™kÄ™ z pieniÄ™dzmi, ale nie ma zamiaru wziÄ…Ä‡ ich od ciebie) Poczekaj... naleÅ¼y ci siÄ™ poÅ‚owa.}
+{456}{}{Hej, dziÄ™ki.}
+{468}{}{DziÄ™kujÄ™, panie Salvatore.}
+{475}{}{(Pan Salvatore bierze oddech przez maskÄ™) Mam kolejnÄ…... sprawÄ™, ktÃ³ra wymaga twojej uwagi.}
+{476}{}{Pewnie, czemu nie? Co to za praca - kolejne zabÃ³jstwo?}
+{477}{}{Bardzo mnie interesuje praca, panie Salvatore. Co mam zrobiÄ‡?}
+{478}{}{Nie, koÅ„czÄ™ z tym. RobiÄ™ sobie dÅ‚uÅ¼szÄ… przerwÄ™.}
+{479}{}{Nie chcÄ™ wiÄ™cej pracy, panie Salvatore. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{485}{}{Pewien czÅ‚owiek z mojego... rejonu nie pÅ‚aci mi... podatku... za usÅ‚ugi, ktÃ³re mu oferuje. ÅšciÄ…gnij te pieniÄ…dze. JeÅ›li bÄ™dzie protestowaÅ‚, poinformuj go, Å¼e jesteÅ› moim... reprezentantem w tej sprawie. O szczegÃ³Å‚ach porozmawiaj z Masonem.}
+{487}{}{Tak, panie Salvatore. JuÅ¼ do niego idÄ™.}
+{488}{}{Nie, dziÄ™ki, nie Å›ciÄ…gam haraczy.}
+{495}{}{Ty mnie... okÅ‚amujesz. Wiem, Å¼e on ciÄ…gle Å¼yje.}
+{500}{}{Czy sprawa jest zaÅ‚atwiona?}
+{501}{}{Tak, panie Salvatore, mam pieniÄ…dze, ktÃ³re kazaÅ‚ pan odebraÄ‡.}
 {502}{}{Jasne, 'haracz' jest tutaj.}
-{503}{}{Jeszcze nie. Staruch jeszcze nie oddal mi pieniêdzy.}
-{504}{}{Jeszcze nie, panie Salvatore. Kiedy wrócê, bêdê mieæ te pieni¹dze.}
-{515}{}{Mason mówi³, ¿e zadanie ju¿ wykonane. Czy to nieprawda?}
+{503}{}{Jeszcze nie. Staruch jeszcze nie oddal mi pieniÄ™dzy.}
+{504}{}{Jeszcze nie, panie Salvatore. Kiedy wrÃ³cÄ™, bÄ™dÄ™ mieÄ‡ te pieniÄ…dze.}
+{515}{}{Mason mÃ³wiÅ‚, Å¼e zadanie juÅ¼ wykonane. Czy to nieprawda?}
 {525}{}{Bardzo dobrze. (Czeka)}
-{527}{}{Daj mu 900 kawa³ków.}
-{528}{}{Daj mu 800 kawa³ków.}
-{529}{}{Prawdê mówi¹c, nie mam pieniêdzy PRZY sobie...}
-{540}{}{Ta suma... nie jest w³aœciwa. Mo¿e nie wiesz, ile mi skradziono. Albo robisz mi nadziejê. W przeciwnym razie...}
-{545}{}{(Salvatore kiwa g³ow¹, kiedy dajesz mu pieni¹dze) Bardzo... dobrze. 25% jest twoje.}
-{546}{}{(Salvatore kiwa g³ow¹, kiedy dajesz mu pieni¹dze) Dobrze. 10% jest twoje.}
-{555}{}{(Bierze oddech przez maskê) To wszystko, czego od ciebie oczekiwa³em. Na razie nie potrzebujê twoich... us³ug. (Zmierza do drzwi) Teraz wyjdŸ.}
+{527}{}{Daj mu 900 kawaÅ‚kÃ³w.}
+{528}{}{Daj mu 800 kawaÅ‚kÃ³w.}
+{529}{}{PrawdÄ™ mÃ³wiÄ…c, nie mam pieniÄ™dzy PRZY sobie...}
+{540}{}{Ta suma... nie jest wÅ‚aÅ›ciwa. MoÅ¼e nie wiesz, ile mi skradziono. Albo robisz mi nadziejÄ™. W przeciwnym razie...}
+{545}{}{(Salvatore kiwa gÅ‚owÄ…, kiedy dajesz mu pieniÄ…dze) Bardzo... dobrze. 25% jest twoje.}
+{546}{}{(Salvatore kiwa gÅ‚owÄ…, kiedy dajesz mu pieniÄ…dze) Dobrze. 10% jest twoje.}
+{555}{}{(Bierze oddech przez maskÄ™) To wszystko, czego od ciebie oczekiwaÅ‚em. Na razie nie potrzebujÄ™ twoich... usÅ‚ug. (Zmierza do drzwi) Teraz wyjdÅº.}
 {556}{}{Uch... dobra.}
-{557}{}{Czy mogê dostaæ jeden z tych laserowych pistoletów jako czêœæ mojej zap³aty?}
-{565}{}{(Bierze g³êboki oddech przez maskê) Mam kolejn¹... sprawê, w której mo¿esz mi pomóc.}
+{557}{}{Czy mogÄ™ dostaÄ‡ jeden z tych laserowych pistoletÃ³w jako czÄ™Å›Ä‡ mojej zapÅ‚aty?}
+{565}{}{(Bierze gÅ‚Ä™boki oddech przez maskÄ™) Mam kolejnÄ…... sprawÄ™, w ktÃ³rej moÅ¼esz mi pomÃ³c.}
 {566}{}{Pewnie, czemu nie? Co to za praca - kolejny haracz?}
-{568}{}{Nie, koñczê ze œci¹ganiem haraczy. Robiê sobie d³u¿sza przerwê.}
-{575}{}{Wkrótce bêdzie mia³a miejsce... delikatna transakcja. Potrzebujê dodatkowego... stra¿nika, który zadba, by wszystko posz³o g³adko. Porozmawiasz z Masonem i zrobisz dok³adnie to, co ci powie.}
+{568}{}{Nie, koÅ„czÄ™ ze Å›ciÄ…ganiem haraczy. RobiÄ™ sobie dÅ‚uÅ¼sza przerwÄ™.}
+{575}{}{WkrÃ³tce bÄ™dzie miaÅ‚a miejsce... delikatna transakcja. PotrzebujÄ™ dodatkowego... straÅ¼nika, ktÃ³ry zadba, by wszystko poszÅ‚o gÅ‚adko. Porozmawiasz z Masonem i zrobisz dokÅ‚adnie to, co ci powie.}
 {576}{}{Co to za transakcja?}
-{577}{}{Gdzie bêdzie mia³a miejsce ta transakcja?}
-{578}{}{Czy dostanê jedn¹ z tych broni laserowych?}
-{579}{}{Nie mogê panu teraz pomóc, panie Salvatore. Muszê ju¿ iœæ.}
-{585}{}{Mason zna wszystkie... szczegó³y. IdŸ ju¿.}
-{595}{}{Taaak. Tym razem tak. Ale bêdziesz mieæ tak¿e inne uzbrojenie. Porozmawiaj z Masonem o szczegó³ach. Da ci jeden z "miotaczy œwiat³a".}
-{596}{}{W takim razie w porz¹dku.}
-{605}{}{Usi¹dŸ, }
+{577}{}{Gdzie bÄ™dzie miaÅ‚a miejsce ta transakcja?}
+{578}{}{Czy dostanÄ™ jednÄ… z tych broni laserowych?}
+{579}{}{Nie mogÄ™ panu teraz pomÃ³c, panie Salvatore. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{585}{}{Mason zna wszystkie... szczegÃ³Å‚y. IdÅº juÅ¼.}
+{595}{}{Taaak. Tym razem tak. Ale bÄ™dziesz mieÄ‡ takÅ¼e inne uzbrojenie. Porozmawiaj z Masonem o szczegÃ³Å‚ach. Da ci jeden z "miotaczy Å›wiatÅ‚a".}
+{596}{}{W takim razie w porzÄ…dku.}
+{605}{}{UsiÄ…dÅº, }
 {607}{}{To dla mnie zaszczyt, panie Salvatore.}
-{608}{}{Nie mogê. Mam inne zobowi¹zania. Mimo to, dziêkujê za propozycje.}
-{610}{}{To dla mnie zaszczyt, panie Salvatore, ale nie mogê. Mam zobowi¹zania wobec innej rodziny... konkretnie mojej matki.}
-{615}{}{To... niedobrze. Nie mogê ryzykowaæ, ¿e nie dochowasz... milczenia o tym, co by³o na pustyni. ¯egnaj, }
-{616}{}{Hola! Poczekaj chwilê...!}
-{617}{}{Tak? Tylko spróbuj coœ zrobiæ, Starcze.}
-{620}{}{Bardzo dobrze. Musisz wybraæ sobie imiê...}
+{608}{}{Nie mogÄ™. Mam inne zobowiÄ…zania. Mimo to, dziÄ™kujÄ™ za propozycje.}
+{610}{}{To dla mnie zaszczyt, panie Salvatore, ale nie mogÄ™. Mam zobowiÄ…zania wobec innej rodziny... konkretnie mojej matki.}
+{615}{}{To... niedobrze. Nie mogÄ™ ryzykowaÄ‡, Å¼e nie dochowasz... milczenia o tym, co byÅ‚o na pustyni. Å»egnaj, }
+{616}{}{Hola! Poczekaj chwilÄ™...!}
+{617}{}{Tak? Tylko sprÃ³buj coÅ› zrobiÄ‡, Starcze.}
+{620}{}{Bardzo dobrze. Musisz wybraÄ‡ sobie imiÄ™...}
 {621}{}{Co pan powie na...}
-{630}{}{(Kiwa g³ow¹) To... dobre imiê. Teraz idŸ, porozmawiaj z Masonem. Bêdzie mia³... coœ dla ciebie.}
-{640}{}{Pozdrawiam ciê, }
-{645}{}{Nie potrzebujê wiêcej twoich us³ug, }
+{630}{}{(Kiwa gÅ‚owÄ…) To... dobre imiÄ™. Teraz idÅº, porozmawiaj z Masonem. BÄ™dzie miaÅ‚... coÅ› dla ciebie.}
+{640}{}{Pozdrawiam ciÄ™, }
+{645}{}{Nie potrzebujÄ™ wiÄ™cej twoich usÅ‚ug, }
 {650}{}{...}
 {651}{}{...hurkkk...}
 {652}{}{...*hasp*... ja... *khyh*... *ysssz*...}
 {653}{}{...nie... ja... *hurrkkk*}
-{654}{}{...pomocy... *hasp*... proszê...}
-{655}{}{...litoœci... b³agam...}
+{654}{}{...pomocy... *hasp*... proszÄ™...}
+{655}{}{...litoÅ›ci... bÅ‚agam...}
 {656}{}{*yzzzzzzzz*}
 {657}{}{...ja...}
 {658}{}{...ja...}
-{659}{}{::Przestaje oddychaæ.::}
-{660}{}{Heh-heh. Uwielbiam zabijaæ starych ludzi.}
-{675}{}{(Pan Salvatore patrzy na ciebie przez d³u¿szy czas w milczeniu, po czym mówi) My, rodzina Salvatore... bêdziemy rz¹dziæ Nowym Reno. Jeœli dziecko musi zgin¹æ, by tak siê sta³o, to... zginie. Nie ma innego powodu.}
-{676}{}{Co zabójstwo syna Wrighta ma coœ do rz¹dów w Nowym Reno? To nie ma SENSU.}
-{677}{}{Zabi³eœ czyjegoœ SYNA, Salvatore. Równie dobrze mog³eœ podpisaæ swój wyrok œmierci...}
-{678}{}{Aha. Po prostu mnie to ciekawi³o.}
-{800}{}{Szef Salvatore zosta³ przez ciebie zamordowany.}
-{825}{}{Szef Salvatore zosta³ przez ciebie wykoñczony.}
-{850}{}{Sytuacja Lloyda zosta³a przez ciebie rozwi¹zana.}
-{875}{}{Haracz pana Salvatore zosta³ przez ciebie œci¹gniêty.}
-{900}{}{Mianowano ciê cz³owiekiem rodziny Salvatore.}
-{925}{}{Tajna transakcja zosta³a przez ciebie dopilnowana.}
-{5233}{}{! Ktoœ ty}
+{659}{}{::Przestaje oddychaÄ‡.::}
+{660}{}{Heh-heh. Uwielbiam zabijaÄ‡ starych ludzi.}
+{675}{}{(Pan Salvatore patrzy na ciebie przez dÅ‚uÅ¼szy czas w milczeniu, po czym mÃ³wi) My, rodzina Salvatore... bÄ™dziemy rzÄ…dziÄ‡ Nowym Reno. JeÅ›li dziecko musi zginÄ…Ä‡, by tak siÄ™ staÅ‚o, to... zginie. Nie ma innego powodu.}
+{676}{}{Co zabÃ³jstwo syna Wrighta ma coÅ› do rzÄ…dÃ³w w Nowym Reno? To nie ma SENSU.}
+{677}{}{ZabiÅ‚eÅ› czyjegoÅ› SYNA, Salvatore. RÃ³wnie dobrze mogÅ‚eÅ› podpisaÄ‡ swÃ³j wyrok Å›mierci...}
+{678}{}{Aha. Po prostu mnie to ciekawiÅ‚o.}
+{800}{}{Szef Salvatore zostaÅ‚ przez ciebie zamordowany.}
+{825}{}{Szef Salvatore zostaÅ‚ przez ciebie wykoÅ„czony.}
+{850}{}{Sytuacja Lloyda zostaÅ‚a przez ciebie rozwiÄ…zana.}
+{875}{}{Haracz pana Salvatore zostaÅ‚ przez ciebie Å›ciÄ…gniÄ™ty.}
+{900}{}{Mianowano ciÄ™ czÅ‚owiekiem rodziny Salvatore.}
+{925}{}{Tajna transakcja zostaÅ‚a przez ciebie dopilnowana.}
+{5233}{}{! KtoÅ› ty}
 {5270}{}{. Czego... czego CHCESZ ode mnie?}
 {5290}{}{: Czego... chcesz ode mnie?}
-{5605}{}{. Wszystko o co prosi³em zosta³o zrobione. Chcia³bym mieæ ciê w rodzinie Salvatore jako... mojego cz³owieka.}
+{5605}{}{. Wszystko o co prosiÅ‚em zostaÅ‚o zrobione. ChciaÅ‚bym mieÄ‡ ciÄ™ w rodzinie Salvatore jako... mojego czÅ‚owieka.}
 {5640}{}{.}
 {5645}{}{.}

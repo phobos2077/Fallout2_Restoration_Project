@@ -1,4 +1,4 @@
-{100}{}{Egy lepárlót látsz.}
-{101}{}{Ááhhh, szóval Becky-nek van egy lepárlója. Jobb lesz, ha ezt közlöm Frankie-vel.}
-{102}{}{Szétzúzott lepárló.}
-{103}{}{A lepárló megsemmisült.}
+{100}{}{Egy lepÃ¡rlÃ³t lÃ¡tsz.}
+{101}{}{ÃÃ¡hhh, szÃ³val Becky-nek van egy lepÃ¡rlÃ³ja. Jobb lesz, ha ezt kÃ¶zlÃ¶m Frankie-vel.}
+{102}{}{SzÃ©tzÃºzott lepÃ¡rlÃ³.}
+{103}{}{A lepÃ¡rlÃ³ megsemmisÃ¼lt.}

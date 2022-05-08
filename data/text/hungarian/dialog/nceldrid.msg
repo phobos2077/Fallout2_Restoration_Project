@@ -1,178 +1,178 @@
 {100}{}{? Eldridge.}
-{150}{}{Ennek a fickónak tiszta olaj a ruhája, és állig fel van fegyverezve. Miközben a falon elhelyezked? fegyvergy?jteményét szemrevételezi, álmodozva mosolyog.}
-{151}{}{Ez a fickó Eldridge. Miközben a falon elhelyezked? fegyvergy?jteményét szemrevételezi, álmodozva mosolyog.}
-{200}{}{Fogadd gratulációimat. A h?sünk vagy! Nagy dolgot m?veltél!}
-{201}{}{::Fegyverével a leveg?be l?, és örömében nagyokat ordít:: Az Enklávénak ANNYI! ANNYI! ANNYI! Jihíjj!}
-{202}{}{::Bimm-bamm, az Enklávé kész, az Enklévé kész...::}
-{203}{}{Az Enklávé tökéletesen jó okot szolgáltat arra, hogy az átlagemberek fegyvert viseljenek.}
-{204}{}{Ha legközelebb az Enklávéhoz mész, ne felejts el beugrani hozzám... Én majd gondoskodom róla, hogy legyen t?zer? a háznál!}
-{210}{}{Szent gatyamadzag! Ez egy Energia Páncél!}
-{211}{}{Aztaaaa. ::Megdörzsöli a szemét:: Jól látok, az egy Energia Páncél?}
-{212}{}{Valaki csípjen már meg! Az tényleg egy Energia Páncél?}
-{213}{}{Tapossátok meg a síromat és pisáljátok le az els?szülöttemet, ha az nem egy Energia Páncél! Itt Renóban!}
-{214}{}{Barátom, nem adod el azt az Energia Páncélt?!! Hé! Van odabenn valaki?}
-{220}{}{A 9 mm-es NEM ROSSZ, de a .233-asnak van megállító ereje.}
-{221}{}{Minden vágyam egy Red Ryder BB puska.}
-{222}{}{Remélem, hogy el?ttem senki nem szerez egy turbó plazma puskát.}
-{223}{}{Kíváncsi vagyok, a Salvatore család honnan szerzi azokat a lézerfegyvereket.}
-{224}{}{Múlt éjjel már megint plazmafegyverekkel álmodtam...}
-{225}{}{El kéne már vinni az új puskal?szer-szállítmányt a Wrightéknak.}
-{226}{}{Remélem, a Mordinóknak van elég suskájuk, hogy kifizessék a számlát.}
-{227}{}{Hogy mit tud az a fegyver? Simán átviszi a fémfalat is.}
-{228}{}{Az a srác egy zseni... Els?re nemigen látszana...}
-{229}{}{Asszem, ki kéne vinnem a kutyákat, miel?tt telehugyozzák az egész helyiséget.}
-{230}{}{A Mosdatlan Falusiak egyre több fegyvert halmoznak fel... kemény kis társaság.}
-{231}{}{Bárcsak valaki megpróbálna kirabolni... jól lepuffanthatnám.}
-{232}{}{Le kéne mosni a polcokat...}
-{233}{}{Alig bírom kivárni a jöv? hetet. Megyünk rossz fiúkat vadászni...}
-{234}{}{Van géppisztolyom, pisztolyom, dinamitom, gránátom... az emberek mégis kardokat meg számszeríjakat akarnak.}
-{240}{}{Üdv, h?söm! Rohadt kemény munkát végeztél az Enklávéval... megmentetted az irhánkat, bizony, én pedig hálával tartozom. A nevem Eldridge. Azért jöttél, hogy telepakold a fegyvertokodat valami jó kis "vassal"?}
-{241}{}{Üdv, fiatalúr... Eldridge-nek hívnak. Azért jöttél, hogy telepakold a fegyvertokodat valami jó kis "vassal"?}
-{242}{}{Üdvözlet, utazó... Eldridge-nek hívnak. Azért jöttél, hogy telepakold a fegyvertokodat valami jó kis "vassal"?}
-{243}{}{Örhhhh? Tökködet?}
-{244}{}{Attól függ, mit árulsz.}
-{250}{}{Üdv nálunk újra, h?söm! Rohadt kemény munkát végeztél az Enklávéval... megmentetted az irhánkat... bizony... én pedig hálával tartozom. }
-{251}{}{Ha valami megtetszene, csak szólj, és kitalálunk valami *speciális* árengedményt a számodra, rendbe'?}
+{150}{}{Ennek a fickÃ³nak tiszta olaj a ruhÃ¡ja, Ã©s Ã¡llig fel van fegyverezve. MikÃ¶zben a falon elhelyezked? fegyvergy?jtemÃ©nyÃ©t szemrevÃ©telezi, Ã¡lmodozva mosolyog.}
+{151}{}{Ez a fickÃ³ Eldridge. MikÃ¶zben a falon elhelyezked? fegyvergy?jtemÃ©nyÃ©t szemrevÃ©telezi, Ã¡lmodozva mosolyog.}
+{200}{}{Fogadd gratulÃ¡ciÃ³imat. A h?sÃ¼nk vagy! Nagy dolgot m?veltÃ©l!}
+{201}{}{::FegyverÃ©vel a leveg?be l?, Ã©s Ã¶rÃ¶mÃ©ben nagyokat ordÃ­t:: Az EnklÃ¡vÃ©nak ANNYI! ANNYI! ANNYI! JihÃ­jj!}
+{202}{}{::Bimm-bamm, az EnklÃ¡vÃ© kÃ©sz, az EnklÃ©vÃ© kÃ©sz...::}
+{203}{}{Az EnklÃ¡vÃ© tÃ¶kÃ©letesen jÃ³ okot szolgÃ¡ltat arra, hogy az Ã¡tlagemberek fegyvert viseljenek.}
+{204}{}{Ha legkÃ¶zelebb az EnklÃ¡vÃ©hoz mÃ©sz, ne felejts el beugrani hozzÃ¡m... Ã‰n majd gondoskodom rÃ³la, hogy legyen t?zer? a hÃ¡znÃ¡l!}
+{210}{}{Szent gatyamadzag! Ez egy Energia PÃ¡ncÃ©l!}
+{211}{}{Aztaaaa. ::MegdÃ¶rzsÃ¶li a szemÃ©t:: JÃ³l lÃ¡tok, az egy Energia PÃ¡ncÃ©l?}
+{212}{}{Valaki csÃ­pjen mÃ¡r meg! Az tÃ©nyleg egy Energia PÃ¡ncÃ©l?}
+{213}{}{TapossÃ¡tok meg a sÃ­romat Ã©s pisÃ¡ljÃ¡tok le az els?szÃ¼lÃ¶ttemet, ha az nem egy Energia PÃ¡ncÃ©l! Itt RenÃ³ban!}
+{214}{}{BarÃ¡tom, nem adod el azt az Energia PÃ¡ncÃ©lt?!! HÃ©! Van odabenn valaki?}
+{220}{}{A 9 mm-es NEM ROSSZ, de a .233-asnak van megÃ¡llÃ­tÃ³ ereje.}
+{221}{}{Minden vÃ¡gyam egy Red Ryder BB puska.}
+{222}{}{RemÃ©lem, hogy el?ttem senki nem szerez egy turbÃ³ plazma puskÃ¡t.}
+{223}{}{KÃ­vÃ¡ncsi vagyok, a Salvatore csalÃ¡d honnan szerzi azokat a lÃ©zerfegyvereket.}
+{224}{}{MÃºlt Ã©jjel mÃ¡r megint plazmafegyverekkel Ã¡lmodtam...}
+{225}{}{El kÃ©ne mÃ¡r vinni az Ãºj puskal?szer-szÃ¡llÃ­tmÃ¡nyt a WrightÃ©knak.}
+{226}{}{RemÃ©lem, a MordinÃ³knak van elÃ©g suskÃ¡juk, hogy kifizessÃ©k a szÃ¡mlÃ¡t.}
+{227}{}{Hogy mit tud az a fegyver? SimÃ¡n Ã¡tviszi a fÃ©mfalat is.}
+{228}{}{Az a srÃ¡c egy zseni... Els?re nemigen lÃ¡tszana...}
+{229}{}{Asszem, ki kÃ©ne vinnem a kutyÃ¡kat, miel?tt telehugyozzÃ¡k az egÃ©sz helyisÃ©get.}
+{230}{}{A Mosdatlan Falusiak egyre tÃ¶bb fegyvert halmoznak fel... kemÃ©ny kis tÃ¡rsasÃ¡g.}
+{231}{}{BÃ¡rcsak valaki megprÃ³bÃ¡lna kirabolni... jÃ³l lepuffanthatnÃ¡m.}
+{232}{}{Le kÃ©ne mosni a polcokat...}
+{233}{}{Alig bÃ­rom kivÃ¡rni a jÃ¶v? hetet. MegyÃ¼nk rossz fiÃºkat vadÃ¡szni...}
+{234}{}{Van gÃ©ppisztolyom, pisztolyom, dinamitom, grÃ¡nÃ¡tom... az emberek mÃ©gis kardokat meg szÃ¡mszerÃ­jakat akarnak.}
+{240}{}{Ãœdv, h?sÃ¶m! Rohadt kemÃ©ny munkÃ¡t vÃ©geztÃ©l az EnklÃ¡vÃ©val... megmentetted az irhÃ¡nkat, bizony, Ã©n pedig hÃ¡lÃ¡val tartozom. A nevem Eldridge. AzÃ©rt jÃ¶ttÃ©l, hogy telepakold a fegyvertokodat valami jÃ³ kis "vassal"?}
+{241}{}{Ãœdv, fiatalÃºr... Eldridge-nek hÃ­vnak. AzÃ©rt jÃ¶ttÃ©l, hogy telepakold a fegyvertokodat valami jÃ³ kis "vassal"?}
+{242}{}{ÃœdvÃ¶zlet, utazÃ³... Eldridge-nek hÃ­vnak. AzÃ©rt jÃ¶ttÃ©l, hogy telepakold a fegyvertokodat valami jÃ³ kis "vassal"?}
+{243}{}{Ã–rhhhh? TÃ¶kkÃ¶det?}
+{244}{}{AttÃ³l fÃ¼gg, mit Ã¡rulsz.}
+{250}{}{Ãœdv nÃ¡lunk Ãºjra, h?sÃ¶m! Rohadt kemÃ©ny munkÃ¡t vÃ©geztÃ©l az EnklÃ¡vÃ©val... megmentetted az irhÃ¡nkat... bizony... Ã©n pedig hÃ¡lÃ¡val tartozom. }
+{251}{}{Ha valami megtetszene, csak szÃ³lj, Ã©s kitalÃ¡lunk valami *speciÃ¡lis* Ã¡rengedmÃ©nyt a szÃ¡modra, rendbe'?}
 {252}{}{Reeendicsekk}
-{253}{}{Elpályázol}
-{254}{}{Nagyszer?! Láthatnám az árudat?}
-{255}{}{Nem tudom, tudnál-e segíteni... valami különlegeset keresek.}
-{256}{}{A f?nököm... }
-{257}{}{Jules azt mondta, ha fegyvert akarok magamnak, hozzád jöjjek.}
-{258}{}{A Salvatore klán nálad vásárolja a fényhozóit?}
-{259}{}{Meghoztam a lézerpisztolyt, amit ígértem.}
-{260}{}{Foglalkozol fegyverek tuningolásával?}
-{261}{}{Akkor kés?bb még beugrom egy mustrára.}
-{262}{}{Kiváló... láthatnám a különlegességeidet?}
-{270}{}{Itt a New Reno-i fegyverboltban áruljuk a legújabb személyi véd?felszereléseket, amelyekkel bármilyen parasztikus vadbarmot ott helyben kinyúvaszthatsz. (Gonoszul mosolyog.)}
-{272}{}{Üdv nálunk újra, barátom. Segíthetek?}
-{273}{}{Úgymint?}
-{274}{}{Cucc én szeret cucc te szeret cucc?}
-{276}{}{Akkor te vagy az én emberem. Vethetnék egy pillantást a készletedre?}
-{277}{}{Megnézhetném az árudat?}
-{283}{}{Tudsz fegyvereket módosítani vagy tuningolni?}
-{284}{}{Most nem vagyok vev? semmire, köszi.}
-{285}{}{Kösz, egyel?re elleszek magam is.}
+{253}{}{ElpÃ¡lyÃ¡zol}
+{254}{}{Nagyszer?! LÃ¡thatnÃ¡m az Ã¡rudat?}
+{255}{}{Nem tudom, tudnÃ¡l-e segÃ­teni... valami kÃ¼lÃ¶nlegeset keresek.}
+{256}{}{A f?nÃ¶kÃ¶m... }
+{257}{}{Jules azt mondta, ha fegyvert akarok magamnak, hozzÃ¡d jÃ¶jjek.}
+{258}{}{A Salvatore klÃ¡n nÃ¡lad vÃ¡sÃ¡rolja a fÃ©nyhozÃ³it?}
+{259}{}{Meghoztam a lÃ©zerpisztolyt, amit Ã­gÃ©rtem.}
+{260}{}{Foglalkozol fegyverek tuningolÃ¡sÃ¡val?}
+{261}{}{Akkor kÃ©s?bb mÃ©g beugrom egy mustrÃ¡ra.}
+{262}{}{KivÃ¡lÃ³... lÃ¡thatnÃ¡m a kÃ¼lÃ¶nlegessÃ©geidet?}
+{270}{}{Itt a New Reno-i fegyverboltban Ã¡ruljuk a legÃºjabb szemÃ©lyi vÃ©d?felszerelÃ©seket, amelyekkel bÃ¡rmilyen parasztikus vadbarmot ott helyben kinyÃºvaszthatsz. (Gonoszul mosolyog.)}
+{272}{}{Ãœdv nÃ¡lunk Ãºjra, barÃ¡tom. SegÃ­thetek?}
+{273}{}{Ãšgymint?}
+{274}{}{Cucc Ã©n szeret cucc te szeret cucc?}
+{276}{}{Akkor te vagy az Ã©n emberem. VethetnÃ©k egy pillantÃ¡st a kÃ©szletedre?}
+{277}{}{MegnÃ©zhetnÃ©m az Ã¡rudat?}
+{283}{}{Tudsz fegyvereket mÃ³dosÃ­tani vagy tuningolni?}
+{284}{}{Most nem vagyok vev? semmire, kÃ¶szi.}
+{285}{}{KÃ¶sz, egyel?re elleszek magam is.}
 {286}{}{Can I see your special stock?}
-{300}{}{Valami jó kis fényes tárgyat esetleg? Gyerünk, biztos van itt valami, amit?l összefut a nyál a szádban!}
-{301}{}{Öö... hogyne, hogyne. (Kritikus szemmel néz rád.) Al, a rabszolgám jut eszembe rólad. Akarod látni az árunkat, barátom.}
+{300}{}{Valami jÃ³ kis fÃ©nyes tÃ¡rgyat esetleg? GyerÃ¼nk, biztos van itt valami, amit?l Ã¶sszefut a nyÃ¡l a szÃ¡dban!}
+{301}{}{Ã–Ã¶... hogyne, hogyne. (Kritikus szemmel nÃ©z rÃ¡d.) Al, a rabszolgÃ¡m jut eszembe rÃ³lad. Akarod lÃ¡tni az Ã¡runkat, barÃ¡tom.}
 {302}{}{Eggen}
-{303}{}{Én akkar walami nem szokvány}
+{303}{}{Ã‰n akkar walami nem szokvÃ¡ny}
 {304}{}{Nehm}
-{310}{}{Nocsak, Jules küldött hozzám? }
-{311}{}{Itt az ideje, hogy az a lusta disznó megcsinálja a munkáját... szóval mit tehetek érted, miszter?}
-{312}{}{Itt az ideje, hogy az a lusta disznó megcsinálja a munkáját... szóval mit tehetek érted, kisasszony?}
-{330}{}{Nem, nem... régen benne voltunk az ilyesmiben, de... (Fájdalmas arcot vág.) ...hát, történt egy kis baleset... és nem akarjuk, hogy újra megessen. Valami egyebet adhatok?}
-{331}{}{Rendben van. Valami más érdekelne...}
-{340}{}{Hogy a francba ne tudnék? Mit akarsz kikupálni?}
-{341}{}{Tudsz valamit csinálni ezekkel a pisztolyokkal?}
-{342}{}{Az egyik puskámra elkelne ez-az.}
-{343}{}{Tudsz valamit csinálni ezzel az ösztökével?}
-{344}{}{Na, mindegy. Inkább más érdekelne...}
-{345}{}{Tulképpen most semmi különöset nem akarok.}
-{350}{}{(Észreveszi a magnumodat.) Rátehetek a magnumodra egy gyorstölt?t? Az ára }
-{351}{}{Ott van az a Desert Eagle... ha akarod, rárakhatok egy kib?vített tárat. Az ára }
-{352}{}{Rakd rá a magnumomra a gyors-utántölt?t.}
-{353}{}{Csináld meg a tárb?vít?t erre a Desert Eagle-re!}
-{354}{}{Igazság szerint egy másik fegyverre gondoltam...}
-{355}{}{Inkább kérdeznék valamit.}
+{310}{}{Nocsak, Jules kÃ¼ldÃ¶tt hozzÃ¡m? }
+{311}{}{Itt az ideje, hogy az a lusta disznÃ³ megcsinÃ¡lja a munkÃ¡jÃ¡t... szÃ³val mit tehetek Ã©rted, miszter?}
+{312}{}{Itt az ideje, hogy az a lusta disznÃ³ megcsinÃ¡lja a munkÃ¡jÃ¡t... szÃ³val mit tehetek Ã©rted, kisasszony?}
+{330}{}{Nem, nem... rÃ©gen benne voltunk az ilyesmiben, de... (FÃ¡jdalmas arcot vÃ¡g.) ...hÃ¡t, tÃ¶rtÃ©nt egy kis baleset... Ã©s nem akarjuk, hogy Ãºjra megessen. Valami egyebet adhatok?}
+{331}{}{Rendben van. Valami mÃ¡s Ã©rdekelne...}
+{340}{}{Hogy a francba ne tudnÃ©k? Mit akarsz kikupÃ¡lni?}
+{341}{}{Tudsz valamit csinÃ¡lni ezekkel a pisztolyokkal?}
+{342}{}{Az egyik puskÃ¡mra elkelne ez-az.}
+{343}{}{Tudsz valamit csinÃ¡lni ezzel az Ã¶sztÃ¶kÃ©vel?}
+{344}{}{Na, mindegy. InkÃ¡bb mÃ¡s Ã©rdekelne...}
+{345}{}{TulkÃ©ppen most semmi kÃ¼lÃ¶nÃ¶set nem akarok.}
+{350}{}{(Ã‰szreveszi a magnumodat.) RÃ¡tehetek a magnumodra egy gyorstÃ¶lt?t? Az Ã¡ra }
+{351}{}{Ott van az a Desert Eagle... ha akarod, rÃ¡rakhatok egy kib?vÃ­tett tÃ¡rat. Az Ã¡ra }
+{352}{}{Rakd rÃ¡ a magnumomra a gyors-utÃ¡ntÃ¶lt?t.}
+{353}{}{CsinÃ¡ld meg a tÃ¡rb?vÃ­t?t erre a Desert Eagle-re!}
+{354}{}{IgazsÃ¡g szerint egy mÃ¡sik fegyverre gondoltam...}
+{355}{}{InkÃ¡bb kÃ©rdeznÃ©k valamit.}
 {356}{}{Dolgom van, mennem kell.}
-{357}{}{Ez túl sokba kerül. Visszajövök, ha megszedtem magam.}
-{365}{}{(Megtanulmányozza a puskáidat, és bólogat.) }
-{366}{}{Arra a vadászpuskára tudnék szerelni egy teleszkópot. Az ára }
-{367}{}{Látom van egy gépkarabélyod... tudnék rá rakni egy kib?vített tárat. Az ára }
-{368}{}{Van egy éjjellátó teleszkópom, amit rárakhatnék az FN FAL-ra. Az ára }
-{369}{}{Legyen... szerelj rá egy teleszkópot a Colt vadászpuskára.}
-{370}{}{Rendben, tegyél egy tárb?vít?t az AK-112 gépkarabélyra.}
-{371}{}{Jöhet az éjjellátó az FN FAL-ra.}
-{385}{}{Szeretnéd egy kicsit feldobni az ösztökédet? Mit szólnál egy túltölt?höz. Az ára }
+{357}{}{Ez tÃºl sokba kerÃ¼l. VisszajÃ¶vÃ¶k, ha megszedtem magam.}
+{365}{}{(MegtanulmÃ¡nyozza a puskÃ¡idat, Ã©s bÃ³logat.) }
+{366}{}{Arra a vadÃ¡szpuskÃ¡ra tudnÃ©k szerelni egy teleszkÃ³pot. Az Ã¡ra }
+{367}{}{LÃ¡tom van egy gÃ©pkarabÃ©lyod... tudnÃ©k rÃ¡ rakni egy kib?vÃ­tett tÃ¡rat. Az Ã¡ra }
+{368}{}{Van egy Ã©jjellÃ¡tÃ³ teleszkÃ³pom, amit rÃ¡rakhatnÃ©k az FN FAL-ra. Az Ã¡ra }
+{369}{}{Legyen... szerelj rÃ¡ egy teleszkÃ³pot a Colt vadÃ¡szpuskÃ¡ra.}
+{370}{}{Rendben, tegyÃ©l egy tÃ¡rb?vÃ­t?t az AK-112 gÃ©pkarabÃ©lyra.}
+{371}{}{JÃ¶het az Ã©jjellÃ¡tÃ³ az FN FAL-ra.}
+{385}{}{SzeretnÃ©d egy kicsit feldobni az Ã¶sztÃ¶kÃ©det? Mit szÃ³lnÃ¡l egy tÃºltÃ¶lt?hÃ¶z. Az Ã¡ra }
 {386}{}{Hogyne.}
-{395}{}{(Eldridge átveszi a fegyvert, és kritikus szemmel megvizsgálja.) Oké... várnod kell egy kicsit, megnézem, mit tehetek. (Elt?nik a hátsó helyiségben.)}
-{396}{}{Oké.}
-{400}{}{(Vársz...)}
-{401}{}{Várakozol...}
-{405}{}{(És még mindig vársz...)}
-{406}{}{Düm dü düm dü düm...}
-{410}{}{(Már éppen le akarsz lépni, amikor hirtelenjében Eldridge visszatér.) Bocs a várakozásért... tessék. Ez egy kicsit megdobja az esélyeidet, ha egy faszkalap elédlépne a sötétben.}
-{411}{}{Köszönöm. Esetleg más fegyveremre is ránéznél?}
-{412}{}{Köszi. Térjünk akkor másra...}
-{413}{}{Köszi. Megyek és kipróbálom.}
-{420}{}{Óh... szóval egy válogatós kuncsafthoz van szerencsénk, mi? Hát van rá eset, hogy egy-egy jobb darab is becsusszan a városba.. vegyük ezt itt például. (Valami nagyon furcsát tart eléd.) Hamisítatlan háború el?tti technológia. Na, mit szólassssz? }
-{423}{}{Öö... mi ez az izé? Megnézhetem közelebbr?l?}
-{424}{}{Hát hogyismondjam... Asszem, valami más érdekelne...}
-{425}{}{Nem dobogtatja meg a szívem. Amúgy kösz.}
-{430}{}{(A kérdéses tárgy egy m?anyag lap, tele lyukakkal, és fémcsíkokkal a felszínén. Néhány furcsa jelet is rávéstek. Valamiféle mechanikus kinézet? mirelit kajára emlékeztet, ezért összefut a nyál a szádban.)}
-{431}{}{(Úgy néz ki, mint egy nyomtatott áramkör. Elég poros, de még jó állapotban van. Valószín?leg egy alkatrész. A ráírt felirat szerint ez egy: "MenedékTek hangfelismer? modul.")}
-{432}{}{(Ez egy összetett nyomtatott áramkör. Memóriakártyát is szereltek rá, az oldalán pedig egy csomó számítógépes csatlakozót látsz. Be- és kimenetek. A ráírt felirat szerint ez egy: "MenedékTek hangfelismer? modul.")}
-{433}{}{Én akar fini lapka}
-{434}{}{Én akar valamás}
-{435}{}{Én akarja menni}
-{436}{}{"MenedékTek?" Ez fontos tárgynak t?nik. Mennyibe kerül?}
-{437}{}{Na, végre... mennyibe kerül ez a modul?}
-{438}{}{Kösz nem kérem, nézzünk valami mást...}
-{439}{}{Ma nem, kösz.}
-{450}{}{Háromezer pénz. Kell vagy nem?}
-{451}{}{Utoljára is csak annyit tudok mondani: háromezer pénz. Kell vagy nem?}
+{395}{}{(Eldridge Ã¡tveszi a fegyvert, Ã©s kritikus szemmel megvizsgÃ¡lja.) OkÃ©... vÃ¡rnod kell egy kicsit, megnÃ©zem, mit tehetek. (Elt?nik a hÃ¡tsÃ³ helyisÃ©gben.)}
+{396}{}{OkÃ©.}
+{400}{}{(VÃ¡rsz...)}
+{401}{}{VÃ¡rakozol...}
+{405}{}{(Ã‰s mÃ©g mindig vÃ¡rsz...)}
+{406}{}{DÃ¼m dÃ¼ dÃ¼m dÃ¼ dÃ¼m...}
+{410}{}{(MÃ¡r Ã©ppen le akarsz lÃ©pni, amikor hirtelenjÃ©ben Eldridge visszatÃ©r.) Bocs a vÃ¡rakozÃ¡sÃ©rt... tessÃ©k. Ez egy kicsit megdobja az esÃ©lyeidet, ha egy faszkalap elÃ©dlÃ©pne a sÃ¶tÃ©tben.}
+{411}{}{KÃ¶szÃ¶nÃ¶m. Esetleg mÃ¡s fegyveremre is rÃ¡nÃ©znÃ©l?}
+{412}{}{KÃ¶szi. TÃ©rjÃ¼nk akkor mÃ¡sra...}
+{413}{}{KÃ¶szi. Megyek Ã©s kiprÃ³bÃ¡lom.}
+{420}{}{Ã“h... szÃ³val egy vÃ¡logatÃ³s kuncsafthoz van szerencsÃ©nk, mi? HÃ¡t van rÃ¡ eset, hogy egy-egy jobb darab is becsusszan a vÃ¡rosba.. vegyÃ¼k ezt itt pÃ©ldÃ¡ul. (Valami nagyon furcsÃ¡t tart elÃ©d.) HamisÃ­tatlan hÃ¡borÃº el?tti technolÃ³gia. Na, mit szÃ³lassssz? }
+{423}{}{Ã–Ã¶... mi ez az izÃ©? MegnÃ©zhetem kÃ¶zelebbr?l?}
+{424}{}{HÃ¡t hogyismondjam... Asszem, valami mÃ¡s Ã©rdekelne...}
+{425}{}{Nem dobogtatja meg a szÃ­vem. AmÃºgy kÃ¶sz.}
+{430}{}{(A kÃ©rdÃ©ses tÃ¡rgy egy m?anyag lap, tele lyukakkal, Ã©s fÃ©mcsÃ­kokkal a felszÃ­nÃ©n. NÃ©hÃ¡ny furcsa jelet is rÃ¡vÃ©stek. ValamifÃ©le mechanikus kinÃ©zet? mirelit kajÃ¡ra emlÃ©keztet, ezÃ©rt Ã¶sszefut a nyÃ¡l a szÃ¡dban.)}
+{431}{}{(Ãšgy nÃ©z ki, mint egy nyomtatott Ã¡ramkÃ¶r. ElÃ©g poros, de mÃ©g jÃ³ Ã¡llapotban van. ValÃ³szÃ­n?leg egy alkatrÃ©sz. A rÃ¡Ã­rt felirat szerint ez egy: "MenedÃ©kTek hangfelismer? modul.")}
+{432}{}{(Ez egy Ã¶sszetett nyomtatott Ã¡ramkÃ¶r. MemÃ³riakÃ¡rtyÃ¡t is szereltek rÃ¡, az oldalÃ¡n pedig egy csomÃ³ szÃ¡mÃ­tÃ³gÃ©pes csatlakozÃ³t lÃ¡tsz. Be- Ã©s kimenetek. A rÃ¡Ã­rt felirat szerint ez egy: "MenedÃ©kTek hangfelismer? modul.")}
+{433}{}{Ã‰n akar fini lapka}
+{434}{}{Ã‰n akar valamÃ¡s}
+{435}{}{Ã‰n akarja menni}
+{436}{}{"MenedÃ©kTek?" Ez fontos tÃ¡rgynak t?nik. Mennyibe kerÃ¼l?}
+{437}{}{Na, vÃ©gre... mennyibe kerÃ¼l ez a modul?}
+{438}{}{KÃ¶sz nem kÃ©rem, nÃ©zzÃ¼nk valami mÃ¡st...}
+{439}{}{Ma nem, kÃ¶sz.}
+{450}{}{HÃ¡romezer pÃ©nz. Kell vagy nem?}
+{451}{}{UtoljÃ¡ra is csak annyit tudok mondani: hÃ¡romezer pÃ©nz. Kell vagy nem?}
 {452}{}{Oki-doki}
-{454}{}{Elkapod a torkát és elveszed a mechanikus mirelit kaját}
+{454}{}{Elkapod a torkÃ¡t Ã©s elveszed a mechanikus mirelit kajÃ¡t}
 {455}{}{Nemk?}
-{457}{}{Öö, hát ez egy kicsit drágácska... Mit szólnál mondjuk ezeröthöz?}
-{458}{}{Kösz nem. Térjünk valami másra...}
+{457}{}{Ã–Ã¶, hÃ¡t ez egy kicsit drÃ¡gÃ¡cska... Mit szÃ³lnÃ¡l mondjuk ezerÃ¶thÃ¶z?}
+{458}{}{KÃ¶sz nem. TÃ©rjÃ¼nk valami mÃ¡sra...}
 {459}{}{Itthagyom.}
-{470}{}{Legyen kétezerötszáz. Ez az utsó ajánlatom.}
-{471}{}{Rendben, rendben. Itt van, tessék.}
-{472}{}{Akkor felejtsd el! Térjünk valami másra...}
-{473}{}{Akkor nem kérem, kösz. Viszlát!}
-{474}{}{Ez túl sok nekem. Beszéljünk róla máskor, ha van elég pénzem.}
-{480}{}{(Mosolyog, és miközben leperkálod a pénzt, a kezét dörzsölgeti.) Tessék, a tied. Bármi egyéb? }
-{481}{}{(Gondolkodik egy kicsit, fürkész?en néz rád, aztán bólint.) Legyen... egy igazi rabló vagy, de nem számít. (Átnyújtja a modult, és bezsebeli a pénzét.) }
-{482}{}{Másvalamit?}
-{485}{}{Igen-igen, nézzünk valami egyebet...}
-{486}{}{Ma már nem, kösz...}
-{495}{}{(Meglepetten pislog, aztán elneveti magát.) Hah! Nem, nem... azok a fegyverek azért más tészta, hidd el! Persze hazudnék, ha azt mondanám, hogy nem fogadnék el egy olyat... megnézném a hatótávját, az erejét, a t?zgyorsaságát... (Elnéz a semmibe és nagyot sóhajt.)}
-{496}{}{Mi lenne, ha szereznék egyet?}
-{497}{}{Hát tényleg jó lenne szerválni egyet. Na, térjünk valami másra...}
-{498}{}{Hát... mindenképp meg akartam kérdezni. Kösz, Eldridge.}
-{505}{}{(Rádkacsint, mintha nem tudná eldönteni, bízhat-e benned, vagy sem.) Nem mondanék nemet... ha f? alatt szereznél egyet. Fizetnék a fáradságodért... (Összevonja a szemöldökét.) ...feltéve ha nem sántikálsz rosszban.}
-{506}{}{Nem fáradság ez nekem... itt van egy nálam. Tessék.}
-{507}{}{Rendben, hozok egyet, de miel?tt mennék, valamit akarok még...}
-{508}{}{Vedd úgy, hogy nem is említettem. Talán tudsz nekem segíteni valami másban...}
-{509}{}{Legyen! Szerválok egyet, és elhozom neked.}
-{510}{}{Nem tudok ígérni semmit... VELEM sajnos együtt jár a baj. Na, viszlát, Eldridge.}
-{520}{}{Heh, most már az én farkammal is verheted a csalánt! }
-{521}{}{Azt a büdös mindenségit! Állom a szavam, fogadd el ezt a fáradságodért. }
-{522}{}{(Átveszi a pisztolyt, és ad egy rakás pénzt.) A fenébe... nagyon furán néz ki ez itten... (Megvizsgálja a csövét.) Hmmm...}
-{523}{}{Valami mást akartam inkább...}
-{524}{}{Öröm veled üzletelni, Eldridge. Leld benne örömöd!}
-{530}{}{(Eldridge végigmér, és a hangja azonnal tisztelettudóbbá válik.) Hogyne, persze. Hadd mutassam meg a különlegességeimet... persze diszkontáron adom ?ket.}
-{532}{}{Tulajdonképpen egész más érdekel...}
-{533}{}{Hagyjuk. Majd máskor visszajövök.}
-{545}{}{Ti kutyák most azonnal befogjátok a pofátokat, he!?}
-{546}{}{Pofát befogni, ugató banda!}
-{547}{}{Inkább éjszaka ugatnátok! Pofa be!}
-{548}{}{Packard! Buck! Missy! Fogjátok be a cs?rötöket, mert odamegyek!}
-{549}{}{Még egy vakkantás és odamegyek!}
-{550}{}{Nyavalyás kutyák!}
-{560}{}{Szerinted be van kötve a szemem?}
-{561}{}{Veszed le a kezed arról az ajtóról!}
-{562}{}{Ne tapizd azt az ajtót még egyszer!}
-{563}{}{Ha még egyszer hozzáérsz ahhoz az ajtóhoz, többet nem fogsz semmihez nyúlkálni!}
-{564}{}{Vicces, hogy aki utoljára hozzáért ahhoz az ajtóhoz, most a Golgotán pihenget. Ne nyúlj hozzá többször!}
-{575}{}{Neked ott semmi dolgod! T?nés! T?nés onnan!}
-{576}{}{Te nem mehetsz oda be! T?nés kifelé!}
-{577}{}{Húzzál onnan kifelé, miel?tt szitává lyuggatlak!}
-{578}{}{Ha nem mész onnan, céltáblának foglak használni!}
-{600}{}{Zárva vagyunk, haver... }
-{601}{}{Zárva vagyunk, kisasszony... }
-{610}{}{Felajánlom, hogy addig húzz onnan kifelé, amíg szarrá nem l?lek.}
-{700}{}{Rohadt kutyák! Hátra kell mennem aludni.}
-{701}{}{Idióta kutyái... Holnap az lesz az els?, hogy mindannyiótokat elaltatlak...}
+{470}{}{Legyen kÃ©tezerÃ¶tszÃ¡z. Ez az utsÃ³ ajÃ¡nlatom.}
+{471}{}{Rendben, rendben. Itt van, tessÃ©k.}
+{472}{}{Akkor felejtsd el! TÃ©rjÃ¼nk valami mÃ¡sra...}
+{473}{}{Akkor nem kÃ©rem, kÃ¶sz. ViszlÃ¡t!}
+{474}{}{Ez tÃºl sok nekem. BeszÃ©ljÃ¼nk rÃ³la mÃ¡skor, ha van elÃ©g pÃ©nzem.}
+{480}{}{(Mosolyog, Ã©s mikÃ¶zben leperkÃ¡lod a pÃ©nzt, a kezÃ©t dÃ¶rzsÃ¶lgeti.) TessÃ©k, a tied. BÃ¡rmi egyÃ©b? }
+{481}{}{(Gondolkodik egy kicsit, fÃ¼rkÃ©sz?en nÃ©z rÃ¡d, aztÃ¡n bÃ³lint.) Legyen... egy igazi rablÃ³ vagy, de nem szÃ¡mÃ­t. (ÃtnyÃºjtja a modult, Ã©s bezsebeli a pÃ©nzÃ©t.) }
+{482}{}{MÃ¡svalamit?}
+{485}{}{Igen-igen, nÃ©zzÃ¼nk valami egyebet...}
+{486}{}{Ma mÃ¡r nem, kÃ¶sz...}
+{495}{}{(Meglepetten pislog, aztÃ¡n elneveti magÃ¡t.) Hah! Nem, nem... azok a fegyverek azÃ©rt mÃ¡s tÃ©szta, hidd el! Persze hazudnÃ©k, ha azt mondanÃ¡m, hogy nem fogadnÃ©k el egy olyat... megnÃ©znÃ©m a hatÃ³tÃ¡vjÃ¡t, az erejÃ©t, a t?zgyorsasÃ¡gÃ¡t... (ElnÃ©z a semmibe Ã©s nagyot sÃ³hajt.)}
+{496}{}{Mi lenne, ha szereznÃ©k egyet?}
+{497}{}{HÃ¡t tÃ©nyleg jÃ³ lenne szervÃ¡lni egyet. Na, tÃ©rjÃ¼nk valami mÃ¡sra...}
+{498}{}{HÃ¡t... mindenkÃ©pp meg akartam kÃ©rdezni. KÃ¶sz, Eldridge.}
+{505}{}{(RÃ¡dkacsint, mintha nem tudnÃ¡ eldÃ¶nteni, bÃ­zhat-e benned, vagy sem.) Nem mondanÃ©k nemet... ha f? alatt szereznÃ©l egyet. FizetnÃ©k a fÃ¡radsÃ¡godÃ©rt... (Ã–sszevonja a szemÃ¶ldÃ¶kÃ©t.) ...feltÃ©ve ha nem sÃ¡ntikÃ¡lsz rosszban.}
+{506}{}{Nem fÃ¡radsÃ¡g ez nekem... itt van egy nÃ¡lam. TessÃ©k.}
+{507}{}{Rendben, hozok egyet, de miel?tt mennÃ©k, valamit akarok mÃ©g...}
+{508}{}{Vedd Ãºgy, hogy nem is emlÃ­tettem. TalÃ¡n tudsz nekem segÃ­teni valami mÃ¡sban...}
+{509}{}{Legyen! SzervÃ¡lok egyet, Ã©s elhozom neked.}
+{510}{}{Nem tudok Ã­gÃ©rni semmit... VELEM sajnos egyÃ¼tt jÃ¡r a baj. Na, viszlÃ¡t, Eldridge.}
+{520}{}{Heh, most mÃ¡r az Ã©n farkammal is verheted a csalÃ¡nt! }
+{521}{}{Azt a bÃ¼dÃ¶s mindensÃ©git! Ãllom a szavam, fogadd el ezt a fÃ¡radsÃ¡godÃ©rt. }
+{522}{}{(Ãtveszi a pisztolyt, Ã©s ad egy rakÃ¡s pÃ©nzt.) A fenÃ©be... nagyon furÃ¡n nÃ©z ki ez itten... (MegvizsgÃ¡lja a csÃ¶vÃ©t.) Hmmm...}
+{523}{}{Valami mÃ¡st akartam inkÃ¡bb...}
+{524}{}{Ã–rÃ¶m veled Ã¼zletelni, Eldridge. Leld benne Ã¶rÃ¶mÃ¶d!}
+{530}{}{(Eldridge vÃ©gigmÃ©r, Ã©s a hangja azonnal tisztelettudÃ³bbÃ¡ vÃ¡lik.) Hogyne, persze. Hadd mutassam meg a kÃ¼lÃ¶nlegessÃ©geimet... persze diszkontÃ¡ron adom ?ket.}
+{532}{}{TulajdonkÃ©ppen egÃ©sz mÃ¡s Ã©rdekel...}
+{533}{}{Hagyjuk. Majd mÃ¡skor visszajÃ¶vÃ¶k.}
+{545}{}{Ti kutyÃ¡k most azonnal befogjÃ¡tok a pofÃ¡tokat, he!?}
+{546}{}{PofÃ¡t befogni, ugatÃ³ banda!}
+{547}{}{InkÃ¡bb Ã©jszaka ugatnÃ¡tok! Pofa be!}
+{548}{}{Packard! Buck! Missy! FogjÃ¡tok be a cs?rÃ¶tÃ¶ket, mert odamegyek!}
+{549}{}{MÃ©g egy vakkantÃ¡s Ã©s odamegyek!}
+{550}{}{NyavalyÃ¡s kutyÃ¡k!}
+{560}{}{Szerinted be van kÃ¶tve a szemem?}
+{561}{}{Veszed le a kezed arrÃ³l az ajtÃ³rÃ³l!}
+{562}{}{Ne tapizd azt az ajtÃ³t mÃ©g egyszer!}
+{563}{}{Ha mÃ©g egyszer hozzÃ¡Ã©rsz ahhoz az ajtÃ³hoz, tÃ¶bbet nem fogsz semmihez nyÃºlkÃ¡lni!}
+{564}{}{Vicces, hogy aki utoljÃ¡ra hozzÃ¡Ã©rt ahhoz az ajtÃ³hoz, most a GolgotÃ¡n pihenget. Ne nyÃºlj hozzÃ¡ tÃ¶bbszÃ¶r!}
+{575}{}{Neked ott semmi dolgod! T?nÃ©s! T?nÃ©s onnan!}
+{576}{}{Te nem mehetsz oda be! T?nÃ©s kifelÃ©!}
+{577}{}{HÃºzzÃ¡l onnan kifelÃ©, miel?tt szitÃ¡vÃ¡ lyuggatlak!}
+{578}{}{Ha nem mÃ©sz onnan, cÃ©ltÃ¡blÃ¡nak foglak hasznÃ¡lni!}
+{600}{}{ZÃ¡rva vagyunk, haver... }
+{601}{}{ZÃ¡rva vagyunk, kisasszony... }
+{610}{}{FelajÃ¡nlom, hogy addig hÃºzz onnan kifelÃ©, amÃ­g szarrÃ¡ nem l?lek.}
+{700}{}{Rohadt kutyÃ¡k! HÃ¡tra kell mennem aludni.}
+{701}{}{IdiÃ³ta kutyÃ¡i... Holnap az lesz az els?, hogy mindannyiÃ³tokat elaltatlak...}
 {702}{}{Would you dogs shut up! Nobody's stupid enough to break into a gun store!}
-{800}{}{Szereztél egy lézerpisztolyt Eldridge számára.}
+{800}{}{SzereztÃ©l egy lÃ©zerpisztolyt Eldridge szÃ¡mÃ¡ra.}
 {801}{}{Hey, do I look like some magician to you? You are gonna need the gun if you wanna upgrade it. Now get out of here and go find one I can upgrade... Sheesh!}
 {802}{}{Come back when you got the money.}
-{1340}{}{Hogy a francba ne tudnék? (Ránéz a cuccaidra.) Az a baj, hogy nincs nálad semmi, amit megbütykölhetnék. Ha hozol valami sz?z... illetve... "közönséges" pisztolyt vagy puskát, akkor talán segíthetek.}
-{1345}{}{Rendben. Térjünk valami másra...}
-{1346}{}{Úgy lesz. Na, üdv...}
-{5256}{}{ ...azt mondta, hogy nézzek be, és hogy majd te "egyenesbe hozol engem".}
+{1340}{}{Hogy a francba ne tudnÃ©k? (RÃ¡nÃ©z a cuccaidra.) Az a baj, hogy nincs nÃ¡lad semmi, amit megbÃ¼tykÃ¶lhetnÃ©k. Ha hozol valami sz?z... illetve... "kÃ¶zÃ¶nsÃ©ges" pisztolyt vagy puskÃ¡t, akkor talÃ¡n segÃ­thetek.}
+{1345}{}{Rendben. TÃ©rjÃ¼nk valami mÃ¡sra...}
+{1346}{}{Ãšgy lesz. Na, Ã¼dv...}
+{5256}{}{ ...azt mondta, hogy nÃ©zzek be, Ã©s hogy majd te "egyenesbe hozol engem".}
 {5500}{}{ vagyok.}

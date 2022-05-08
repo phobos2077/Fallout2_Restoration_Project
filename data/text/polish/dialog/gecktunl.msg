@@ -1,1 +1,1 @@
-{100}{}{Przed tob¹ podziemne tunele Gecko.}
+{100}{}{Przed tobÄ… podziemne tunele Gecko.}

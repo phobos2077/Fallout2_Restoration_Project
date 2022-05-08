@@ -1,63 +1,63 @@
-{100}{}{Ezen az emberen az ÚKK rend?rség jelvényét látod.}
-{101}{}{? Jack, az ÚKK rendfenntartó er?inek helyettes megbízottja.}
-{102}{}{Ez az ember úgy fel van húzva, mint az óra rugója. Állandóan összeszorítja az állkapcsát, a homlokán kidagadnak az erek, és a vidámság szikrája sem fedezhet? fel rajta.}
-{103}{}{Nem akarom hallani a bajodat! Zavarj vele valaki mást!}
-{104}{}{Ezt nekem nem kell elszenvednem... sem t?led, sem mástól.}
-{105}{}{Az átkozott ex-feleségem mindenemet elvette.}
-{106}{}{Hülyét csinált bel?lem. Senki nem csinálhat hülyét Jackb?l.}
-{107}{}{Napokon belül megmutatom neki. Mindenkinek megmutatom...}
-{108}{}{Mit nézel??? Takarodj!}
-{109}{}{A franc vinne el! Én Jack vagyok! Az emberek jobb, ha rám figyelnek!}
-{110}{}{Van egy bombám idebent, úgyhogy ne próbálkozz semmivel!}
-{111}{}{Az emberek mindig kinevetik Jacket, Gyakós Jacknek nevezik... majd az nevet, aki utoljára nevet!}
-{112}{}{Háromig számolok és ha Mira nem lesz itt akkora, felrobbantom ezt a kócerájt. Egy...}
+{100}{}{Ezen az emberen az ÃšKK rend?rsÃ©g jelvÃ©nyÃ©t lÃ¡tod.}
+{101}{}{? Jack, az ÃšKK rendfenntartÃ³ er?inek helyettes megbÃ­zottja.}
+{102}{}{Ez az ember Ãºgy fel van hÃºzva, mint az Ã³ra rugÃ³ja. ÃllandÃ³an Ã¶sszeszorÃ­tja az Ã¡llkapcsÃ¡t, a homlokÃ¡n kidagadnak az erek, Ã©s a vidÃ¡msÃ¡g szikrÃ¡ja sem fedezhet? fel rajta.}
+{103}{}{Nem akarom hallani a bajodat! Zavarj vele valaki mÃ¡st!}
+{104}{}{Ezt nekem nem kell elszenvednem... sem t?led, sem mÃ¡stÃ³l.}
+{105}{}{Az Ã¡tkozott ex-felesÃ©gem mindenemet elvette.}
+{106}{}{HÃ¼lyÃ©t csinÃ¡lt bel?lem. Senki nem csinÃ¡lhat hÃ¼lyÃ©t Jackb?l.}
+{107}{}{Napokon belÃ¼l megmutatom neki. Mindenkinek megmutatom...}
+{108}{}{Mit nÃ©zel??? Takarodj!}
+{109}{}{A franc vinne el! Ã‰n Jack vagyok! Az emberek jobb, ha rÃ¡m figyelnek!}
+{110}{}{Van egy bombÃ¡m idebent, Ãºgyhogy ne prÃ³bÃ¡lkozz semmivel!}
+{111}{}{Az emberek mindig kinevetik Jacket, GyakÃ³s Jacknek nevezik... majd az nevet, aki utoljÃ¡ra nevet!}
+{112}{}{HÃ¡romig szÃ¡molok Ã©s ha Mira nem lesz itt akkora, felrobbantom ezt a kÃ³cerÃ¡jt. Egy...}
 {113}{}{Kett?..}
-{114}{}{Három...}
-{115}{}{Mit akarsz? Mit bámulsz?}
-{116}{}{Hagyj békén, megértetted?}
-{117}{}{Átkozott exem! Minden az ? hibája!}
-{118}{}{Állj hátrébb! Bomba van nálam!}
-{119}{}{Ne csináld ezt, Jack! Mindig van jobb megoldás!}
-{120}{}{Öhh - állj!}
+{114}{}{HÃ¡rom...}
+{115}{}{Mit akarsz? Mit bÃ¡mulsz?}
+{116}{}{Hagyj bÃ©kÃ©n, megÃ©rtetted?}
+{117}{}{Ãtkozott exem! Minden az ? hibÃ¡ja!}
+{118}{}{Ãllj hÃ¡trÃ©bb! Bomba van nÃ¡lam!}
+{119}{}{Ne csinÃ¡ld ezt, Jack! Mindig van jobb megoldÃ¡s!}
+{120}{}{Ã–hh - Ã¡llj!}
 {121}{}{Ja, persze. Mit tudsz te err?l?}
-{122}{}{Tudom, hogy néha rosszul néznek ki a dolgok, de a robbantgatás nem old meg semmit.}
-{123}{}{Semmit! Szart se tudok a problémáidról. Talán jobb lesz, ha elmondod!}
-{124}{}{Mi ez?... Valami trükk? El akarod vonni Jack figyelmét, amíg a haverok ide nem jönnek megölni?}
-{125}{}{Ki akar megölni?}
-{126}{}{Ne aggódj, senki sem akar bántani!}
-{127}{}{A volt nejem, az az átkozott kurva, Mira. Holtan akar látni.}
-{128}{}{Hát akkor hagyd a törvényre! Ne így próbáld orvosolni a problémát, Jack!}
-{129}{}{Igazad van. Felbérelt, hogy öljelek meg. Tehát mit mondasz? Van hozzáf?znivalód, Jack?}
+{122}{}{Tudom, hogy nÃ©ha rosszul nÃ©znek ki a dolgok, de a robbantgatÃ¡s nem old meg semmit.}
+{123}{}{Semmit! Szart se tudok a problÃ©mÃ¡idrÃ³l. TalÃ¡n jobb lesz, ha elmondod!}
+{124}{}{Mi ez?... Valami trÃ¼kk? El akarod vonni Jack figyelmÃ©t, amÃ­g a haverok ide nem jÃ¶nnek megÃ¶lni?}
+{125}{}{Ki akar megÃ¶lni?}
+{126}{}{Ne aggÃ³dj, senki sem akar bÃ¡ntani!}
+{127}{}{A volt nejem, az az Ã¡tkozott kurva, Mira. Holtan akar lÃ¡tni.}
+{128}{}{HÃ¡t akkor hagyd a tÃ¶rvÃ©nyre! Ne Ã­gy prÃ³bÃ¡ld orvosolni a problÃ©mÃ¡t, Jack!}
+{129}{}{Igazad van. FelbÃ©relt, hogy Ã¶ljelek meg. TehÃ¡t mit mondasz? Van hozzÃ¡f?znivalÃ³d, Jack?}
 {130}{}{Ki a franc az a Mira?}
-{131}{}{Rendben, te rohadék! Essünk túl rajta!}
-{132}{}{Ez vicc! Én vagyok a törvény. Nézd milyen jót tett.}
+{131}{}{Rendben, te rohadÃ©k! EssÃ¼nk tÃºl rajta!}
+{132}{}{Ez vicc! Ã‰n vagyok a tÃ¶rvÃ©ny. NÃ©zd milyen jÃ³t tett.}
 {133}{}{Gondolkodj el ezen Jack!}
-{134}{}{Tehát ha felrobbantod az er?m?vet, azzal elintézed Mirát?}
-{135}{}{Mint ahogy már mondtam, az exem. Rajtakaptam f?vel-fával és most azt mondja, én vagyok a rossz fiú. Megf?zte a bíróságot, hogy minden az övé legyen, és még mindig ki akar velem cseszni.}
-{136}{}{Hú... ez kemény. Nagyon igazságtalan. }
+{134}{}{TehÃ¡t ha felrobbantod az er?m?vet, azzal elintÃ©zed MirÃ¡t?}
+{135}{}{Mint ahogy mÃ¡r mondtam, az exem. Rajtakaptam f?vel-fÃ¡val Ã©s most azt mondja, Ã©n vagyok a rossz fiÃº. Megf?zte a bÃ­rÃ³sÃ¡got, hogy minden az Ã¶vÃ© legyen, Ã©s mÃ©g mindig ki akar velem cseszni.}
+{136}{}{HÃº... ez kemÃ©ny. Nagyon igazsÃ¡gtalan. }
 {137}{}{Visszaszerezheted. Az id? mindent megold. Teljesen el fog felejteni.}
-{138}{}{Hát persze... nem! Francba, nem tudom. Csinálni fogok valamit. Megmutatom az embereknek, hogy nem léphetnek csak úgy át Jacken. }
-{139}{}{Ismernek, Jack. Nézz rájuk. Felrobbantod magad és soha többé nem fognak tisztelni.}
-{140}{}{Át kéne gondolnod ezt a dolgot! Ha felrobbantod ezt a helyet, alapot adsz a szavainak.}
-{141}{}{Nem viccelek, Sherlock! A népek most szépen rám fognak figyelni.}
-{142}{}{Senki sem fog rád hallgatni egy bombával a kezedben. Tedd le, gyere ki, és mindent rendbe teszünk!}
+{138}{}{HÃ¡t persze... nem! Francba, nem tudom. CsinÃ¡lni fogok valamit. Megmutatom az embereknek, hogy nem lÃ©phetnek csak Ãºgy Ã¡t Jacken. }
+{139}{}{Ismernek, Jack. NÃ©zz rÃ¡juk. Felrobbantod magad Ã©s soha tÃ¶bbÃ© nem fognak tisztelni.}
+{140}{}{Ãt kÃ©ne gondolnod ezt a dolgot! Ha felrobbantod ezt a helyet, alapot adsz a szavainak.}
+{141}{}{Nem viccelek, Sherlock! A nÃ©pek most szÃ©pen rÃ¡m fognak figyelni.}
+{142}{}{Senki sem fog rÃ¡d hallgatni egy bombÃ¡val a kezedben. Tedd le, gyere ki, Ã©s mindent rendbe teszÃ¼nk!}
 {143}{}{Look, think this through. Blow this place up and folks will say, "Jack took the weak way. Let himself get pushed around by his ex-wife." She wins, you lose.}
-{144}{}{Tényleg így gondolod?}
-{145}{}{Igen, Jack. Ez így igaz, ahogy mondom.}
-{146}{}{Persze. Hazudok én szerinted?}
+{144}{}{TÃ©nyleg Ã­gy gondolod?}
+{145}{}{Igen, Jack. Ez Ã­gy igaz, ahogy mondom.}
+{146}{}{Persze. Hazudok Ã©n szerinted?}
 {147}{}{Nem tudom.}
 {148}{}{Ne hagyd nyernyi, Jack!}
-{149}{}{Itt a lehet?ség. Állj a sarkadra! Lökd ki a nyeregb?l!}
-{150}{}{Cseszd meg! Torkig vagy ezzel! Nem is aggódsz értem!}
-{151}{}{A fenébe, lehet, hogy igazad van. Amúgy se volt valami jó ötlet.}
+{149}{}{Itt a lehet?sÃ©g. Ãllj a sarkadra! LÃ¶kd ki a nyeregb?l!}
+{150}{}{Cseszd meg! Torkig vagy ezzel! Nem is aggÃ³dsz Ã©rtem!}
+{151}{}{A fenÃ©be, lehet, hogy igazad van. AmÃºgy se volt valami jÃ³ Ã¶tlet.}
 {152}{}{Biztos lehetsz, hogy megtettem volna.}
-{153}{}{Átkozott Mira, most majd meg kapja.}
-{154}{}{Az emberek mostantól tudják, hogy ki is az a Jack.}
-{155}{}{Csak maradj nyugton! Nem akarlak bántani!}
-{156}{}{Ez téged nem érint!}
-{157}{}{Gyerünk, ölj csak meg! Érdekel is engem...}
-{158}{}{Ez nem a te dolgod. Hagyj békén!}
-{159}{}{Felrobbanok vagy megölsz. Mi a különbség?}
-{160}{}{Nem próbállak bántalmazni! Csak azt akarom, hogy emlékezzenek...}
-{161}{}{Amiért elboronáltad a Hubologista ügyét Merk számára, }
+{153}{}{Ãtkozott Mira, most majd meg kapja.}
+{154}{}{Az emberek mostantÃ³l tudjÃ¡k, hogy ki is az a Jack.}
+{155}{}{Csak maradj nyugton! Nem akarlak bÃ¡ntani!}
+{156}{}{Ez tÃ©ged nem Ã©rint!}
+{157}{}{GyerÃ¼nk, Ã¶lj csak meg! Ã‰rdekel is engem...}
+{158}{}{Ez nem a te dolgod. Hagyj bÃ©kÃ©n!}
+{159}{}{Felrobbanok vagy megÃ¶lsz. Mi a kÃ¼lÃ¶nbsÃ©g?}
+{160}{}{Nem prÃ³bÃ¡llak bÃ¡ntalmazni! Csak azt akarom, hogy emlÃ©kezzenek...}
+{161}{}{AmiÃ©rt elboronÃ¡ltad a Hubologista Ã¼gyÃ©t Merk szÃ¡mÃ¡ra, }
 {162}{}{ experience points for taking care of Jack for Mira.}

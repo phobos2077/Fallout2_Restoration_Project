@@ -38,17 +38,17 @@
 {3600}{}{Stahlmauerende}
 {3700}{}{Stahlmauerende}
 {3800}{}{Stahlmauerende}
-{3900}{}{Türöffnung}
-{4000}{}{Türöffnung}
-{4100}{}{Türöffnung}
-{4200}{}{Türöffnung}
-{4300}{}{Türöffnung}
-{4400}{}{Türöffnung}
-{4500}{}{Türöffnung}
-{4600}{}{Türöffnung}
-{4700}{}{Türöffnung}
-{4800}{}{Türöffnung}
-{4900}{}{Türöffnung}
+{3900}{}{TÃ¼rÃ¶ffnung}
+{4000}{}{TÃ¼rÃ¶ffnung}
+{4100}{}{TÃ¼rÃ¶ffnung}
+{4200}{}{TÃ¼rÃ¶ffnung}
+{4300}{}{TÃ¼rÃ¶ffnung}
+{4400}{}{TÃ¼rÃ¶ffnung}
+{4500}{}{TÃ¼rÃ¶ffnung}
+{4600}{}{TÃ¼rÃ¶ffnung}
+{4700}{}{TÃ¼rÃ¶ffnung}
+{4800}{}{TÃ¼rÃ¶ffnung}
+{4900}{}{TÃ¼rÃ¶ffnung}
 {5000}{}{Wand}
 {5100}{}{Wand}
 {5200}{}{Wand}
@@ -58,7 +58,7 @@
 {5600}{}{Rohr}
 {5700}{}{Rohr}
 {5800}{}{Rohr}
-{5900}{}{Ausrüstung}
+{5900}{}{AusrÃ¼stung}
 {5901}{}{}
 {6000}{}{Rohre}
 {6100}{}{Rohr}
@@ -75,10 +75,10 @@
 {7200}{}{Rohr}
 {7300}{}{Rohr}
 {7400}{}{Rohr}
-{7500}{}{Ausrüstung}
+{7500}{}{AusrÃ¼stung}
 {7501}{}{}
 {7600}{}{Rohre}
-{7700}{}{Ausrüstung}
+{7700}{}{AusrÃ¼stung}
 {7701}{}{}
 {7800}{}{Rohr}
 {7900}{}{Rohre}
@@ -88,12 +88,12 @@
 {8300}{}{Rohr}
 {8400}{}{Rohr}
 {8500}{}{Dings}
-{8600}{}{Hölzerne Einzäunung}
-{8700}{}{Hölzerne Einzäunung}
-{8800}{}{Hölzerne Einzäunung}
-{8900}{}{Hölzerne Einzäunung}
-{9000}{}{Hölzerne Einzäunung}
-{9100}{}{Hölzerne Einzäunung}
+{8600}{}{HÃ¶lzerne EinzÃ¤unung}
+{8700}{}{HÃ¶lzerne EinzÃ¤unung}
+{8800}{}{HÃ¶lzerne EinzÃ¤unung}
+{8900}{}{HÃ¶lzerne EinzÃ¤unung}
+{9000}{}{HÃ¶lzerne EinzÃ¤unung}
+{9100}{}{HÃ¶lzerne EinzÃ¤unung}
 {9200}{}{Wand}
 {9300}{}{Wand}
 {9400}{}{Wand}
@@ -143,18 +143,18 @@
 {13800}{}{Blechwand}
 {13900}{}{Blechwand}
 {14000}{}{Blechwand}
-{14100}{}{Hölzerne Einzäunung}
-{14200}{}{Hölzerne Einzäunung}
-{14300}{}{Hölzerne Einzäunung}
-{14400}{}{Hölzerne Einzäunung}
-{14500}{}{Hölzerne Einzäunung}
-{14600}{}{Hölzerne Einzäunung}
-{14700}{}{Hölzerne Einzäunung}
-{14800}{}{Hölzerne Einzäunung}
-{14900}{}{Hölzerne Einzäunung}
-{15000}{}{Hölzerne Einzäunung}
-{15100}{}{Hölzerne Einzäunung}
-{15200}{}{Hölzerne Einzäunung}
+{14100}{}{HÃ¶lzerne EinzÃ¤unung}
+{14200}{}{HÃ¶lzerne EinzÃ¤unung}
+{14300}{}{HÃ¶lzerne EinzÃ¤unung}
+{14400}{}{HÃ¶lzerne EinzÃ¤unung}
+{14500}{}{HÃ¶lzerne EinzÃ¤unung}
+{14600}{}{HÃ¶lzerne EinzÃ¤unung}
+{14700}{}{HÃ¶lzerne EinzÃ¤unung}
+{14800}{}{HÃ¶lzerne EinzÃ¤unung}
+{14900}{}{HÃ¶lzerne EinzÃ¤unung}
+{15000}{}{HÃ¶lzerne EinzÃ¤unung}
+{15100}{}{HÃ¶lzerne EinzÃ¤unung}
+{15200}{}{HÃ¶lzerne EinzÃ¤unung}
 {15300}{}{Blechwand}
 {15400}{}{Blechwand}
 {15500}{}{Stein Mauer}
@@ -163,89 +163,89 @@
 {15800}{}{Stein Mauer}
 {15900}{}{Stein Mauer}
 {16000}{}{Stein Mauer}
-{16100}{}{Schutzgeländer}
-{16200}{}{Schutzgeländer}
-{16300}{}{Schutzgeländer}
-{16400}{}{Schutzgeländer}
-{16500}{}{Schutzgeländer}
-{16600}{}{Schutzgeländer}
-{16700}{}{Schutzgeländer}
-{16800}{}{Schutzgeländer}
-{16900}{}{Schutzgeländer}
-{17000}{}{Schutzgeländer}
-{17100}{}{Schutzgeländer}
-{17200}{}{Schutzgeländer}
-{17300}{}{Schutzgeländer}
-{17400}{}{Höhlenwand}
-{17500}{}{Höhlenwand}
-{17600}{}{Höhlenwand}
-{17700}{}{Höhlenwand}
-{17800}{}{Höhlenwand}
-{17900}{}{Höhlenwand}
-{18000}{}{Höhlenwand}
-{18100}{}{Höhlenwand}
-{18200}{}{Höhlenwand}
-{18300}{}{Höhlenwand}
-{18400}{}{Höhlenwand}
-{18500}{}{Höhlenwand}
-{18600}{}{Höhlenwand}
-{18700}{}{Höhlenwand}
-{18800}{}{Höhlenwand}
-{18900}{}{Höhlenwand}
-{19000}{}{Höhlenwand}
-{19100}{}{Höhlenwand}
-{19200}{}{Höhlenwand}
-{19300}{}{Höhlenwand}
-{19400}{}{Höhlenwand}
-{19500}{}{Höhlenwand}
-{19600}{}{Höhlenwand}
-{19700}{}{Höhlenwand}
-{19800}{}{Höhlenwand}
-{19900}{}{Höhlenwand}
-{20000}{}{Höhlenwand}
-{20100}{}{Höhlenwand}
-{20200}{}{Höhlenwand}
-{20300}{}{Höhlenwand}
-{20400}{}{Höhlenwand}
-{20500}{}{Höhlenwand}
-{20600}{}{Höhlenwand}
-{20700}{}{Höhlenwand}
-{20800}{}{Höhlenwand}
-{20900}{}{Höhlenwand}
-{21000}{}{Höhlenwand}
-{21100}{}{Höhlenwand}
-{21200}{}{Höhlenwand}
-{21300}{}{Höhlenwand}
-{21400}{}{Höhlenwand}
-{21500}{}{Höhlenwand}
-{21600}{}{Höhlenwand}
-{21700}{}{Höhlenwand}
-{21800}{}{Höhlenwand}
-{21900}{}{Höhlenwand}
-{22000}{}{Höhlenwand}
-{22100}{}{Höhlenwand}
-{22200}{}{Höhlenwand}
-{22300}{}{Höhlenwand}
-{22400}{}{Höhlenwand}
-{22500}{}{Höhlenwand}
-{22600}{}{Höhlenwand}
-{22700}{}{Höhlenwand}
-{22800}{}{Höhlenwand}
-{22900}{}{Höhlenwand}
-{23000}{}{Höhlenwand}
-{23100}{}{Höhlenwand}
-{23200}{}{Höhlenwand}
-{23300}{}{Höhlenwand}
-{23400}{}{Höhlenwand}
-{23500}{}{Höhlenwand}
-{23600}{}{Höhlenwand}
-{23700}{}{Höhlenwand}
-{23800}{}{Höhlenwand}
-{23900}{}{Höhlenwand}
-{24000}{}{Höhlenwand}
-{24100}{}{Höhlenwand}
-{24200}{}{Höhlenwand}
-{24300}{}{Höhlenwand}
+{16100}{}{SchutzgelÃ¤nder}
+{16200}{}{SchutzgelÃ¤nder}
+{16300}{}{SchutzgelÃ¤nder}
+{16400}{}{SchutzgelÃ¤nder}
+{16500}{}{SchutzgelÃ¤nder}
+{16600}{}{SchutzgelÃ¤nder}
+{16700}{}{SchutzgelÃ¤nder}
+{16800}{}{SchutzgelÃ¤nder}
+{16900}{}{SchutzgelÃ¤nder}
+{17000}{}{SchutzgelÃ¤nder}
+{17100}{}{SchutzgelÃ¤nder}
+{17200}{}{SchutzgelÃ¤nder}
+{17300}{}{SchutzgelÃ¤nder}
+{17400}{}{HÃ¶hlenwand}
+{17500}{}{HÃ¶hlenwand}
+{17600}{}{HÃ¶hlenwand}
+{17700}{}{HÃ¶hlenwand}
+{17800}{}{HÃ¶hlenwand}
+{17900}{}{HÃ¶hlenwand}
+{18000}{}{HÃ¶hlenwand}
+{18100}{}{HÃ¶hlenwand}
+{18200}{}{HÃ¶hlenwand}
+{18300}{}{HÃ¶hlenwand}
+{18400}{}{HÃ¶hlenwand}
+{18500}{}{HÃ¶hlenwand}
+{18600}{}{HÃ¶hlenwand}
+{18700}{}{HÃ¶hlenwand}
+{18800}{}{HÃ¶hlenwand}
+{18900}{}{HÃ¶hlenwand}
+{19000}{}{HÃ¶hlenwand}
+{19100}{}{HÃ¶hlenwand}
+{19200}{}{HÃ¶hlenwand}
+{19300}{}{HÃ¶hlenwand}
+{19400}{}{HÃ¶hlenwand}
+{19500}{}{HÃ¶hlenwand}
+{19600}{}{HÃ¶hlenwand}
+{19700}{}{HÃ¶hlenwand}
+{19800}{}{HÃ¶hlenwand}
+{19900}{}{HÃ¶hlenwand}
+{20000}{}{HÃ¶hlenwand}
+{20100}{}{HÃ¶hlenwand}
+{20200}{}{HÃ¶hlenwand}
+{20300}{}{HÃ¶hlenwand}
+{20400}{}{HÃ¶hlenwand}
+{20500}{}{HÃ¶hlenwand}
+{20600}{}{HÃ¶hlenwand}
+{20700}{}{HÃ¶hlenwand}
+{20800}{}{HÃ¶hlenwand}
+{20900}{}{HÃ¶hlenwand}
+{21000}{}{HÃ¶hlenwand}
+{21100}{}{HÃ¶hlenwand}
+{21200}{}{HÃ¶hlenwand}
+{21300}{}{HÃ¶hlenwand}
+{21400}{}{HÃ¶hlenwand}
+{21500}{}{HÃ¶hlenwand}
+{21600}{}{HÃ¶hlenwand}
+{21700}{}{HÃ¶hlenwand}
+{21800}{}{HÃ¶hlenwand}
+{21900}{}{HÃ¶hlenwand}
+{22000}{}{HÃ¶hlenwand}
+{22100}{}{HÃ¶hlenwand}
+{22200}{}{HÃ¶hlenwand}
+{22300}{}{HÃ¶hlenwand}
+{22400}{}{HÃ¶hlenwand}
+{22500}{}{HÃ¶hlenwand}
+{22600}{}{HÃ¶hlenwand}
+{22700}{}{HÃ¶hlenwand}
+{22800}{}{HÃ¶hlenwand}
+{22900}{}{HÃ¶hlenwand}
+{23000}{}{HÃ¶hlenwand}
+{23100}{}{HÃ¶hlenwand}
+{23200}{}{HÃ¶hlenwand}
+{23300}{}{HÃ¶hlenwand}
+{23400}{}{HÃ¶hlenwand}
+{23500}{}{HÃ¶hlenwand}
+{23600}{}{HÃ¶hlenwand}
+{23700}{}{HÃ¶hlenwand}
+{23800}{}{HÃ¶hlenwand}
+{23900}{}{HÃ¶hlenwand}
+{24000}{}{HÃ¶hlenwand}
+{24100}{}{HÃ¶hlenwand}
+{24200}{}{HÃ¶hlenwand}
+{24300}{}{HÃ¶hlenwand}
 {24400}{}{Holzwand}
 {24500}{}{Holzwand}
 {24600}{}{Holzwand}
@@ -489,15 +489,15 @@
 {48400}{}{Bar}
 {48500}{}{Bar}
 {48600}{}{Bar}
-{48700}{}{Hölzerne Einzäunung}
-{48800}{}{Hölzerne Einzäunung}
-{48900}{}{Türrahmen}
-{49000}{}{Türrahmen}
-{49100}{}{Türrahmen}
-{49200}{}{Türrahmen}
-{49300}{}{Türrahmen}
-{49400}{}{Türrahmen}
-{49500}{}{Türrahmen}
+{48700}{}{HÃ¶lzerne EinzÃ¤unung}
+{48800}{}{HÃ¶lzerne EinzÃ¤unung}
+{48900}{}{TÃ¼rrahmen}
+{49000}{}{TÃ¼rrahmen}
+{49100}{}{TÃ¼rrahmen}
+{49200}{}{TÃ¼rrahmen}
+{49300}{}{TÃ¼rrahmen}
+{49400}{}{TÃ¼rrahmen}
+{49500}{}{TÃ¼rrahmen}
 {49600}{}{Wand}
 {49700}{}{Wand}
 {49800}{}{Wand}
@@ -564,8 +564,8 @@
 {55900}{}{Wand}
 {56000}{}{Wand}
 {56100}{}{Wand}
-{56200}{}{Türöffnung}
-{56300}{}{Türöffnung}
+{56200}{}{TÃ¼rÃ¶ffnung}
+{56300}{}{TÃ¼rÃ¶ffnung}
 {56400}{}{Fenster}
 {56500}{}{Wand}
 {56600}{}{Wand}
@@ -582,10 +582,10 @@
 {57700}{}{Wand}
 {57800}{}{Wand}
 {57900}{}{Wand}
-{58000}{}{Türöffnung}
+{58000}{}{TÃ¼rÃ¶ffnung}
 {58100}{}{Wand}
-{58200}{}{Türöffnung}
-{58300}{}{Türöffnung}
+{58200}{}{TÃ¼rÃ¶ffnung}
+{58300}{}{TÃ¼rÃ¶ffnung}
 {58400}{}{Fenster}
 {58500}{}{Wand}
 {58600}{}{Wand}
@@ -662,10 +662,10 @@
 {65700}{}{Wand}
 {65800}{}{Wand}
 {65900}{}{Wand}
-{66000}{}{Türöffnung}
-{66100}{}{Türöffnung}
-{66200}{}{Türöffnung}
-{66300}{}{Türöffnung}
+{66000}{}{TÃ¼rÃ¶ffnung}
+{66100}{}{TÃ¼rÃ¶ffnung}
+{66200}{}{TÃ¼rÃ¶ffnung}
+{66300}{}{TÃ¼rÃ¶ffnung}
 {66400}{}{Fenster}
 {66500}{}{Fenster}
 {66600}{}{Wand}
@@ -703,16 +703,16 @@
 {69800}{}{Wand}
 {69900}{}{Wand}
 {70000}{}{Wand}
-{70100}{}{Türöffnung}
+{70100}{}{TÃ¼rÃ¶ffnung}
 {70200}{}{Wand}
-{70300}{}{Türöffnung}
-{70400}{}{Türöffnung}
-{70500}{}{Türöffnung}
+{70300}{}{TÃ¼rÃ¶ffnung}
+{70400}{}{TÃ¼rÃ¶ffnung}
+{70500}{}{TÃ¼rÃ¶ffnung}
 {70600}{}{Wand}
-{70700}{}{Türöffnung}
-{70800}{}{Türöffnung}
-{70900}{}{Türöffnung}
-{71000}{}{Türöffnung}
+{70700}{}{TÃ¼rÃ¶ffnung}
+{70800}{}{TÃ¼rÃ¶ffnung}
+{70900}{}{TÃ¼rÃ¶ffnung}
+{71000}{}{TÃ¼rÃ¶ffnung}
 {71100}{}{Wand}
 {71200}{}{Wand}
 {71300}{}{Wand}
@@ -744,12 +744,12 @@
 {73900}{}{Wand}
 {74000}{}{Wand}
 {74100}{}{Wand}
-{74200}{}{Türöffnung}
-{74300}{}{Türöffnung}
-{74400}{}{Türöffnung}
-{74500}{}{Türöffnung}
+{74200}{}{TÃ¼rÃ¶ffnung}
+{74300}{}{TÃ¼rÃ¶ffnung}
+{74400}{}{TÃ¼rÃ¶ffnung}
+{74500}{}{TÃ¼rÃ¶ffnung}
 {74600}{}{Wand}
-{74700}{}{Türöffnung}
+{74700}{}{TÃ¼rÃ¶ffnung}
 {74800}{}{Wand}
 {74900}{}{Wand}
 {75000}{}{Wand}
@@ -792,16 +792,16 @@
 {78700}{}{Wand}
 {78800}{}{Wand}
 {78900}{}{Wand}
-{79000}{}{Türöffnung}
-{79100}{}{Türöffnung}
-{79200}{}{Türöffnung}
-{79300}{}{Türöffnung}
-{79400}{}{Türöffnung}
-{79500}{}{Türöffnung}
-{79600}{}{Türöffnung}
-{79700}{}{Türöffnung}
-{79800}{}{Türöffnung}
-{79900}{}{Türöffnung}
+{79000}{}{TÃ¼rÃ¶ffnung}
+{79100}{}{TÃ¼rÃ¶ffnung}
+{79200}{}{TÃ¼rÃ¶ffnung}
+{79300}{}{TÃ¼rÃ¶ffnung}
+{79400}{}{TÃ¼rÃ¶ffnung}
+{79500}{}{TÃ¼rÃ¶ffnung}
+{79600}{}{TÃ¼rÃ¶ffnung}
+{79700}{}{TÃ¼rÃ¶ffnung}
+{79800}{}{TÃ¼rÃ¶ffnung}
+{79900}{}{TÃ¼rÃ¶ffnung}
 {80000}{}{Zaun}
 {80100}{}{Zaun}
 {80200}{}{Zaun}
@@ -847,23 +847,23 @@
 {84200}{}{Fenster}
 {84300}{}{Wand}
 {84400}{}{Pfeiler}
-{84500}{}{Türöffnung}
-{84600}{}{Türöffnung}
+{84500}{}{TÃ¼rÃ¶ffnung}
+{84600}{}{TÃ¼rÃ¶ffnung}
 {84700}{}{Wand}
 {84800}{}{Wand}
 {84900}{}{Wand}
 {85000}{}{Wand}
 {85100}{}{Wand}
-{85200}{}{Türöffnung}
-{85300}{}{Türöffnung}
-{85400}{}{Türöffnung}
-{85500}{}{Türöffnung}
+{85200}{}{TÃ¼rÃ¶ffnung}
+{85300}{}{TÃ¼rÃ¶ffnung}
+{85400}{}{TÃ¼rÃ¶ffnung}
+{85500}{}{TÃ¼rÃ¶ffnung}
 {85600}{}{Wand}
 {85700}{}{Wand}
 {85800}{}{Wand}
 {85900}{}{Wand}
-{86000}{}{Türöffnung}
-{86100}{}{Türöffnung}
+{86000}{}{TÃ¼rÃ¶ffnung}
+{86100}{}{TÃ¼rÃ¶ffnung}
 {86200}{}{Wand}
 {86300}{}{Wand}
 {86400}{}{Wand}
@@ -871,12 +871,12 @@
 {86600}{}{Wand}
 {86700}{}{Wand}
 {86800}{}{Wand}
-{86900}{}{Türöffnung}
-{87000}{}{Türöffnung}
+{86900}{}{TÃ¼rÃ¶ffnung}
+{87000}{}{TÃ¼rÃ¶ffnung}
 {87100}{}{Wand}
 {87200}{}{Wand}
-{87300}{}{Türöffnung}
-{87400}{}{Türöffnung}
+{87300}{}{TÃ¼rÃ¶ffnung}
+{87400}{}{TÃ¼rÃ¶ffnung}
 {87500}{}{Wand}
 {87600}{}{Wand}
 {87700}{}{Wand}
@@ -992,7 +992,7 @@
 {98500}{}{LKW}
 {98600}{}{LKW}
 {98700}{}{LKW}
-{98800}{}{Höhlenwand}
+{98800}{}{HÃ¶hlenwand}
 {98900}{}{Wand}
 {99000}{}{Wand}
 {99100}{}{Wand}
@@ -1022,11 +1022,11 @@
 {101500}{}{Wand}
 {101600}{}{Wand}
 {101700}{}{Wand}
-{101800}{}{Türöffnung}
+{101800}{}{TÃ¼rÃ¶ffnung}
 {101900}{}{Wand}
-{102000}{}{Türöffnung}
-{102100}{}{Türöffnung}
-{102200}{}{Türöffnung}
+{102000}{}{TÃ¼rÃ¶ffnung}
+{102100}{}{TÃ¼rÃ¶ffnung}
+{102200}{}{TÃ¼rÃ¶ffnung}
 {102300}{}{Wand}
 {102400}{}{Wand}
 {102500}{}{Wand}
@@ -1037,12 +1037,12 @@
 {103000}{}{Wand}
 {103100}{}{Wand}
 {103200}{}{Wand}
-{103300}{}{Türöffnung}
-{103400}{}{Türöffnung}
-{103500}{}{Türöffnung}
-{103600}{}{Türöffnung}
-{103700}{}{Türöffnung}
-{103800}{}{Türöffnung}
+{103300}{}{TÃ¼rÃ¶ffnung}
+{103400}{}{TÃ¼rÃ¶ffnung}
+{103500}{}{TÃ¼rÃ¶ffnung}
+{103600}{}{TÃ¼rÃ¶ffnung}
+{103700}{}{TÃ¼rÃ¶ffnung}
+{103800}{}{TÃ¼rÃ¶ffnung}
 {103900}{}{Wand}
 {104000}{}{Wand}
 {104100}{}{Wand}
@@ -1066,8 +1066,8 @@
 {105900}{}{Wand}
 {106000}{}{Wand}
 {106100}{}{Wand}
-{106200}{}{Türöffnung}
-{106300}{}{Türöffnung}
+{106200}{}{TÃ¼rÃ¶ffnung}
+{106300}{}{TÃ¼rÃ¶ffnung}
 {106400}{}{Wand}
 {106500}{}{Wand}
 {106600}{}{Wand}
@@ -1131,14 +1131,14 @@
 {112400}{}{Wand}
 {112500}{}{Wand}
 {112600}{}{Wand}
-{112700}{}{Türöffnung}
+{112700}{}{TÃ¼rÃ¶ffnung}
 {112800}{}{Wand}
 {112900}{}{Wand}
-{113000}{}{Türöffnung}
+{113000}{}{TÃ¼rÃ¶ffnung}
 {113100}{}{Wand}
-{113200}{}{Türöffnung}
-{113300}{}{Türöffnung}
-{113400}{}{Türöffnung}
+{113200}{}{TÃ¼rÃ¶ffnung}
+{113300}{}{TÃ¼rÃ¶ffnung}
+{113400}{}{TÃ¼rÃ¶ffnung}
 {113500}{}{Schutzschildgenerator}
 {113600}{}{Schutzschildgenerator}
 {113700}{}{Schutzschildgenerator}
@@ -1166,8 +1166,8 @@
 {115200}{}{Wassertank}
 {115300}{}{Wassertank}
 {115400}{}{Wand}
-{115500}{}{Zerstörter Eingang}
-{115600}{}{Zerstörter Eingang}
+{115500}{}{ZerstÃ¶rter Eingang}
+{115600}{}{ZerstÃ¶rter Eingang}
 {115700}{}{Wand}
 {115800}{}{Wand}
 {115900}{}{Wand}
@@ -1185,9 +1185,9 @@
 {117100}{}{Wand}
 {117200}{}{Wand}
 {117300}{}{Wand}
-{117400}{}{Türöffnung}
-{117500}{}{Türöffnung}
-{117600}{}{Türöffnung}
+{117400}{}{TÃ¼rÃ¶ffnung}
+{117500}{}{TÃ¼rÃ¶ffnung}
+{117600}{}{TÃ¼rÃ¶ffnung}
 {117700}{}{Wand}
 {117800}{}{Wand}
 {117900}{}{Wand}
@@ -1212,35 +1212,35 @@
 {119800}{}{Wand}
 {119900}{}{Wand}
 {120000}{}{Wand}
-{120100}{}{Geländerbefestigung}
-{120200}{}{Geländerbefestigung}
-{120300}{}{Geländerbefestigung}
-{120400}{}{Geländerbefestigung}
-{120500}{}{Geländerbefestigung}
-{120600}{}{Geländerbefestigung}
-{120700}{}{Geländerbefestigung}
-{120800}{}{Geländerbefestigung}
-{120900}{}{Geländerbefestigung}
-{121000}{}{Geländerbefestigung}
-{121100}{}{Geländerbefestigung}
-{121200}{}{Geländerbefestigung}
-{121300}{}{Geländerbefestigung}
-{121400}{}{Geländerbefestigung}
-{121500}{}{Geländerbefestigung}
-{121600}{}{Geländerbefestigung}
-{121700}{}{Geländerbefestigung}
-{121800}{}{Geländerbefestigung}
-{121900}{}{Geländerbefestigung}
-{122000}{}{Geländerbefestigung}
-{122100}{}{Geländerbefestigung}
-{122200}{}{Geländerbefestigung}
-{122300}{}{Geländerbefestigung}
-{122400}{}{Geländerbefestigung}
-{122500}{}{Geländerbefestigung}
-{122600}{}{Geländerbefestigung}
-{122700}{}{Türöffnung}
-{122800}{}{Türöffnung}
-{122900}{}{Säule}
+{120100}{}{GelÃ¤nderbefestigung}
+{120200}{}{GelÃ¤nderbefestigung}
+{120300}{}{GelÃ¤nderbefestigung}
+{120400}{}{GelÃ¤nderbefestigung}
+{120500}{}{GelÃ¤nderbefestigung}
+{120600}{}{GelÃ¤nderbefestigung}
+{120700}{}{GelÃ¤nderbefestigung}
+{120800}{}{GelÃ¤nderbefestigung}
+{120900}{}{GelÃ¤nderbefestigung}
+{121000}{}{GelÃ¤nderbefestigung}
+{121100}{}{GelÃ¤nderbefestigung}
+{121200}{}{GelÃ¤nderbefestigung}
+{121300}{}{GelÃ¤nderbefestigung}
+{121400}{}{GelÃ¤nderbefestigung}
+{121500}{}{GelÃ¤nderbefestigung}
+{121600}{}{GelÃ¤nderbefestigung}
+{121700}{}{GelÃ¤nderbefestigung}
+{121800}{}{GelÃ¤nderbefestigung}
+{121900}{}{GelÃ¤nderbefestigung}
+{122000}{}{GelÃ¤nderbefestigung}
+{122100}{}{GelÃ¤nderbefestigung}
+{122200}{}{GelÃ¤nderbefestigung}
+{122300}{}{GelÃ¤nderbefestigung}
+{122400}{}{GelÃ¤nderbefestigung}
+{122500}{}{GelÃ¤nderbefestigung}
+{122600}{}{GelÃ¤nderbefestigung}
+{122700}{}{TÃ¼rÃ¶ffnung}
+{122800}{}{TÃ¼rÃ¶ffnung}
+{122900}{}{SÃ¤ule}
 {123000}{}{Wand}
 {123100}{}{Wand}
 {123200}{}{Wand}
@@ -1249,31 +1249,31 @@
 {123500}{}{Wand}
 {123600}{}{Wand}
 {123700}{}{Wand}
-{123800}{}{Türöffnung}
-{123900}{}{Türöffnung}
-{124000}{}{Türöffnung}
-{124100}{}{Türöffnung}
-{124200}{}{Holzstütze}
-{124300}{}{Holzstütze}
-{124400}{}{Holzstütze}
-{124500}{}{Holzstütze}
-{124600}{}{Holzstütze}
-{124700}{}{Holzstütze}
-{124800}{}{Holzstütze}
-{124900}{}{Holzstütze}
-{125000}{}{Holzstütze}
-{125100}{}{Holzstütze}
-{125200}{}{Holzstütze}
+{123800}{}{TÃ¼rÃ¶ffnung}
+{123900}{}{TÃ¼rÃ¶ffnung}
+{124000}{}{TÃ¼rÃ¶ffnung}
+{124100}{}{TÃ¼rÃ¶ffnung}
+{124200}{}{HolzstÃ¼tze}
+{124300}{}{HolzstÃ¼tze}
+{124400}{}{HolzstÃ¼tze}
+{124500}{}{HolzstÃ¼tze}
+{124600}{}{HolzstÃ¼tze}
+{124700}{}{HolzstÃ¼tze}
+{124800}{}{HolzstÃ¼tze}
+{124900}{}{HolzstÃ¼tze}
+{125000}{}{HolzstÃ¼tze}
+{125100}{}{HolzstÃ¼tze}
+{125200}{}{HolzstÃ¼tze}
 {125300}{}{Wand}
 {125400}{}{Wand}
 {125500}{}{Wand}
 {125600}{}{Wand}
-{125700}{}{Türöffnung}
-{125800}{}{Türöffnung}
-{125900}{}{Türöffnung}
-{126000}{}{Türöffnung}
-{126100}{}{Türöffnung}
-{126200}{}{Türöffnung}
+{125700}{}{TÃ¼rÃ¶ffnung}
+{125800}{}{TÃ¼rÃ¶ffnung}
+{125900}{}{TÃ¼rÃ¶ffnung}
+{126000}{}{TÃ¼rÃ¶ffnung}
+{126100}{}{TÃ¼rÃ¶ffnung}
+{126200}{}{TÃ¼rÃ¶ffnung}
 {126300}{}{Wand}
 {126400}{}{Wand}
 {126500}{}{Wand}
@@ -1281,18 +1281,18 @@
 {126700}{}{Wand}
 {126800}{}{Wand}
 {126900}{}{Wand}
-{127000}{}{Hölzerne Einzäunung}
-{127100}{}{Hölzerne Einzäunung}
-{127200}{}{Hölzerne Einzäunung}
-{127300}{}{Hölzerne Einzäunung}
-{127400}{}{Hölzerne Einzäunung}
-{127500}{}{Hölzerne Einzäunung}
-{127600}{}{Hölzerne Einzäunung}
-{127700}{}{Hölzerne Einzäunung}
-{127800}{}{Hölzerne Einzäunung}
-{127900}{}{Hölzerne Einzäunung}
-{128000}{}{Hölzerne Einzäunung}
-{128100}{}{Hölzerne Einzäunung}
+{127000}{}{HÃ¶lzerne EinzÃ¤unung}
+{127100}{}{HÃ¶lzerne EinzÃ¤unung}
+{127200}{}{HÃ¶lzerne EinzÃ¤unung}
+{127300}{}{HÃ¶lzerne EinzÃ¤unung}
+{127400}{}{HÃ¶lzerne EinzÃ¤unung}
+{127500}{}{HÃ¶lzerne EinzÃ¤unung}
+{127600}{}{HÃ¶lzerne EinzÃ¤unung}
+{127700}{}{HÃ¶lzerne EinzÃ¤unung}
+{127800}{}{HÃ¶lzerne EinzÃ¤unung}
+{127900}{}{HÃ¶lzerne EinzÃ¤unung}
+{128000}{}{HÃ¶lzerne EinzÃ¤unung}
+{128100}{}{HÃ¶lzerne EinzÃ¤unung}
 {128200}{}{Zaun}
 {128300}{}{Tor}
 {128400}{}{Tor}
@@ -1393,12 +1393,12 @@
 {137900}{}{Wand}
 {138000}{}{Wand}
 {138100}{}{Wand}
-{138200}{}{Hölzerne Einzäunung}
-{138300}{}{Hölzerne Einzäunung}
-{138400}{}{Hölzerne Einzäunung}
-{138500}{}{Hölzerne Einzäunung}
-{138600}{}{Hölzerne Einzäunung}
-{138700}{}{Hölzerne Einzäunung}
+{138200}{}{HÃ¶lzerne EinzÃ¤unung}
+{138300}{}{HÃ¶lzerne EinzÃ¤unung}
+{138400}{}{HÃ¶lzerne EinzÃ¤unung}
+{138500}{}{HÃ¶lzerne EinzÃ¤unung}
+{138600}{}{HÃ¶lzerne EinzÃ¤unung}
+{138700}{}{HÃ¶lzerne EinzÃ¤unung}
 {138800}{}{Wand}
 {138900}{}{Wand}
 {139000}{}{Wand}
@@ -1419,7 +1419,7 @@
 {140500}{}{Wand}
 {140600}{}{Wand}
 {140700}{}{Wand}
-{140800}{}{Säule}
+{140800}{}{SÃ¤ule}
 {140900}{}{Wand}
 {141000}{}{Wand}
 {141100}{}{Wand}
@@ -1529,7 +1529,7 @@
 {151500}{}{Wand}
 {151600}{}{Wand}
 {151700}{}{Wand}
-{151800}{}{Säule}
+{151800}{}{SÃ¤ule}
 {151900}{}{Wand}
 {152000}{}{Wand}
 {152100}{}{Wand}
@@ -1538,10 +1538,10 @@
 {152400}{}{Wand}
 {152500}{}{Mineneingang}
 {152600}{}{Mineneingang}
-{152700}{}{Türöffnung}
-{152800}{}{Türöffnung}
-{152900}{}{Türöffnung}
-{153000}{}{Türöffnung}
+{152700}{}{TÃ¼rÃ¶ffnung}
+{152800}{}{TÃ¼rÃ¶ffnung}
+{152900}{}{TÃ¼rÃ¶ffnung}
+{153000}{}{TÃ¼rÃ¶ffnung}
 {153100}{}{Wand}
 {153200}{}{Wand}
 {153300}{}{Steinpfeiler}
@@ -1569,22 +1569,22 @@
 {155500}{}{Wand}
 {155600}{}{Wand}
 {155700}{}{Schutzschildgenerator}
-{155800}{}{Türöffnung}
-{155900}{}{Türöffnung}
-{156000}{}{Türöffnung}
-{156100}{}{Türöffnung}
-{156200}{}{Türöffnung}
-{156300}{}{Türöffnung}
-{156400}{}{Türöffnung}
-{156500}{}{Türöffnung}
-{156600}{}{Türöffnung}
-{156700}{}{Türöffnung}
-{156800}{}{Türöffnung}
-{156900}{}{Türöffnung}
-{157000}{}{Türöffnung}
-{157100}{}{Türöffnung}
-{157200}{}{Türöffnung}
-{157300}{}{Türöffnung}
+{155800}{}{TÃ¼rÃ¶ffnung}
+{155900}{}{TÃ¼rÃ¶ffnung}
+{156000}{}{TÃ¼rÃ¶ffnung}
+{156100}{}{TÃ¼rÃ¶ffnung}
+{156200}{}{TÃ¼rÃ¶ffnung}
+{156300}{}{TÃ¼rÃ¶ffnung}
+{156400}{}{TÃ¼rÃ¶ffnung}
+{156500}{}{TÃ¼rÃ¶ffnung}
+{156600}{}{TÃ¼rÃ¶ffnung}
+{156700}{}{TÃ¼rÃ¶ffnung}
+{156800}{}{TÃ¼rÃ¶ffnung}
+{156900}{}{TÃ¼rÃ¶ffnung}
+{157000}{}{TÃ¼rÃ¶ffnung}
+{157100}{}{TÃ¼rÃ¶ffnung}
+{157200}{}{TÃ¼rÃ¶ffnung}
+{157300}{}{TÃ¼rÃ¶ffnung}
 {157400}{}{Wand}
 {157500}{}{Schutzschildgenerator}
 {157600}{}{Wand}
@@ -1598,12 +1598,12 @@
 {158400}{}{Schutzschildgenerator}
 {158500}{}{Wand}
 {158600}{}{Wand}
-{158700}{}{Türöffnung}
-{158800}{}{Türöffnung}
-{158900}{}{Türöffnung}
-{159000}{}{Türöffnung}
-{159100}{}{Türöffnung}
-{159200}{}{Türöffnung}
+{158700}{}{TÃ¼rÃ¶ffnung}
+{158800}{}{TÃ¼rÃ¶ffnung}
+{158900}{}{TÃ¼rÃ¶ffnung}
+{159000}{}{TÃ¼rÃ¶ffnung}
+{159100}{}{TÃ¼rÃ¶ffnung}
+{159200}{}{TÃ¼rÃ¶ffnung}
 {159300}{}{Wand}
 {159400}{}{Wand}
 {159500}{}{Wand}
@@ -1631,10 +1631,10 @@
 {161700}{}{Wand}
 {161800}{}{Wand}
 {161900}{}{Wand}
-{162000}{}{Türöffnung}
-{162100}{}{Türöffnung}
-{162200}{}{Türöffnung}
-{162300}{}{Türöffnung}
+{162000}{}{TÃ¼rÃ¶ffnung}
+{162100}{}{TÃ¼rÃ¶ffnung}
+{162200}{}{TÃ¼rÃ¶ffnung}
+{162300}{}{TÃ¼rÃ¶ffnung}
 {162400}{}{Wand}
 {162500}{}{Wand}
 {162600}{}{Wand}
@@ -1642,8 +1642,8 @@
 {162800}{}{Wand}
 {162900}{}{Wand}
 {163000}{}{Wand}
-{163100}{}{Türöffnung}
-{163200}{}{Türöffnung}
+{163100}{}{TÃ¼rÃ¶ffnung}
+{163200}{}{TÃ¼rÃ¶ffnung}
 {163300}{}{Wand}
 {163400}{}{Wand}
 {163500}{}{Wand}
@@ -1684,10 +1684,10 @@
 {167000}{}{Wand}
 {167100}{}{Wand}
 {167200}{}{Wand}
-{167300}{}{Säule}
-{167400}{}{Säule}
-{167500}{}{Säule}
-{167600}{}{Säule}
+{167300}{}{SÃ¤ule}
+{167400}{}{SÃ¤ule}
+{167500}{}{SÃ¤ule}
+{167600}{}{SÃ¤ule}
 {167700}{}{Wand}
 {167800}{}{Wand}
 {167900}{}{Wand}
@@ -1719,30 +1719,30 @@
 {170700}{}{Wand}
 {170800}{}{Wand}
 {170900}{}{Wand}
-{171000}{}{Türöffnung}
-{171100}{}{Türöffnung}
+{171000}{}{TÃ¼rÃ¶ffnung}
+{171100}{}{TÃ¼rÃ¶ffnung}
 {171200}{}{Wand}
 {171300}{}{Wand}
-{171400}{}{Türöffnung}
-{171500}{}{Türöffnung}
+{171400}{}{TÃ¼rÃ¶ffnung}
+{171500}{}{TÃ¼rÃ¶ffnung}
 {171600}{}{Wand}
 {171700}{}{Wand}
-{171800}{}{Türöffnung}
-{171900}{}{Türöffnung}
+{171800}{}{TÃ¼rÃ¶ffnung}
+{171900}{}{TÃ¼rÃ¶ffnung}
 {172000}{}{Wand}
-{172100}{}{rostiges Stahlgeländer}
-{172200}{}{rostiges Stahlgeländer}
-{172300}{}{rostiges Stahlgeländer}
-{172400}{}{rostiges Stahlgeländer}
-{172500}{}{rostiges Stahlgeländer}
-{172600}{}{rostiges Stahlgeländer}
-{172700}{}{rostiges Stahlgeländer}
-{172800}{}{rostiges Stahlgeländer}
-{172900}{}{rostiges Stahlgeländer}
-{173000}{}{rostiges Stahlgeländer}
-{173100}{}{rostiges Stahlgeländer}
-{173200}{}{rostiges Stahlgeländer}
-{173300}{}{rostiges Stahlgeländer}
+{172100}{}{rostiges StahlgelÃ¤nder}
+{172200}{}{rostiges StahlgelÃ¤nder}
+{172300}{}{rostiges StahlgelÃ¤nder}
+{172400}{}{rostiges StahlgelÃ¤nder}
+{172500}{}{rostiges StahlgelÃ¤nder}
+{172600}{}{rostiges StahlgelÃ¤nder}
+{172700}{}{rostiges StahlgelÃ¤nder}
+{172800}{}{rostiges StahlgelÃ¤nder}
+{172900}{}{rostiges StahlgelÃ¤nder}
+{173000}{}{rostiges StahlgelÃ¤nder}
+{173100}{}{rostiges StahlgelÃ¤nder}
+{173200}{}{rostiges StahlgelÃ¤nder}
+{173300}{}{rostiges StahlgelÃ¤nder}
 {173400}{}{Wand}
 {173500}{}{Wand}
 {173600}{}{Wand}
@@ -1796,7 +1796,7 @@
 {178400}{}{Wand}
 {178500}{}{Schutzschildgenerator}
 {178600}{}{Schutzschildgenerator}
-{178700}{}{rostiges Stahlgeländer}
+{178700}{}{rostiges StahlgelÃ¤nder}
 {178800}{}{Wand}
 {178900}{}{Wand}
 {179000}{}{Schutzschildgenerator}
@@ -1811,28 +1811,28 @@
 {179900}{}{Interne U-Boot-Wand}
 {180000}{}{Interne U-Boot-Wand}
 {180100}{}{Interne U-Boot-Wand}
-{180200}{}{U-Boot-Hülle}
-{180300}{}{U-Boot-Hülle}
-{180400}{}{U-Boot-Hülle}
-{180500}{}{U-Boot-Hülle}
-{180600}{}{U-Boot-Hülle}
-{180700}{}{U-Boot-Hülle}
-{180800}{}{U-Boot-Hülle}
-{180900}{}{U-Boot-Hülle}
-{181000}{}{U-Boot-Hülle}
-{181100}{}{U-Boot-Hülle}
+{180200}{}{U-Boot-HÃ¼lle}
+{180300}{}{U-Boot-HÃ¼lle}
+{180400}{}{U-Boot-HÃ¼lle}
+{180500}{}{U-Boot-HÃ¼lle}
+{180600}{}{U-Boot-HÃ¼lle}
+{180700}{}{U-Boot-HÃ¼lle}
+{180800}{}{U-Boot-HÃ¼lle}
+{180900}{}{U-Boot-HÃ¼lle}
+{181000}{}{U-Boot-HÃ¼lle}
+{181100}{}{U-Boot-HÃ¼lle}
 {181200}{}{Interne U-Boot-Wand}
 {181300}{}{Interne U-Boot-Wand}
 {181400}{}{Interne U-Boot-Wand}
-{181500}{}{U-Boot-Hülle}
-{181600}{}{U-Boot-Hülle}
-{181700}{}{U-Boot-Hülle}
-{181800}{}{U-Boot-Hülle}
-{181900}{}{U-Boot-Hülle}
-{182000}{}{U-Boot-Hülle}
-{182100}{}{U-Boot-Hülle}
-{182200}{}{U-Boot-Hülle}
-{182300}{}{U-Boot-Hülle}
+{181500}{}{U-Boot-HÃ¼lle}
+{181600}{}{U-Boot-HÃ¼lle}
+{181700}{}{U-Boot-HÃ¼lle}
+{181800}{}{U-Boot-HÃ¼lle}
+{181900}{}{U-Boot-HÃ¼lle}
+{182000}{}{U-Boot-HÃ¼lle}
+{182100}{}{U-Boot-HÃ¼lle}
+{182200}{}{U-Boot-HÃ¼lle}
+{182300}{}{U-Boot-HÃ¼lle}
 {182400}{}{Interne U-Boot-Wand}
 {182500}{}{Interne U-Boot-Wand}
 {182600}{}{Interne U-Boot-Wand}
@@ -1844,60 +1844,60 @@
 {183200}{}{Interne U-Boot-Wand}
 {183300}{}{Wand}
 {183400}{}{Wand}
-{183500}{}{Verstrahlte Höhlenwand}
-{183600}{}{Verstrahlte Höhlenwand}
-{183700}{}{Verstrahlte Höhlenwand}
-{183800}{}{Verstrahlte Höhlenwand}
-{183900}{}{Verstrahlte Höhlenwand}
-{184000}{}{Verstrahlte Höhlenwand}
-{184100}{}{Verstrahlte Höhlenwand}
-{184200}{}{Verstrahlte Höhlenwand}
-{184300}{}{Verstrahlte Höhlenwand}
-{184400}{}{Verstrahlte Höhlenwand}
-{184500}{}{Verstrahlte Höhlenwand}
-{184600}{}{Verstrahlte Höhlenwand}
-{184700}{}{Verstrahlte Höhlenwand}
-{184800}{}{Verstrahlte Höhlenwand}
-{184900}{}{Verstrahlte Höhlenwand}
-{185000}{}{Verstrahlte Höhlenwand}
-{185100}{}{Verstrahlte Höhlenwand}
-{185200}{}{Verstrahlte Höhlenwand}
-{185300}{}{Verstrahlte Höhlenwand}
-{185400}{}{Verstrahlte Höhlenwand}
-{185500}{}{Verstrahlte Höhlenwand}
-{185600}{}{Verstrahlte Höhlenwand}
-{185700}{}{Verstrahlte Höhlenwand}
-{185800}{}{Verstrahlte Höhlenwand}
-{185900}{}{Verstrahlte Höhlenwand}
-{186000}{}{Verstrahlte Höhlenwand}
-{186100}{}{Verstrahlte Höhlenwand}
-{186200}{}{Verstrahlte Höhlenwand}
-{186300}{}{Verstrahlte Höhlenwand}
-{186400}{}{Verstrahlte Höhlenwand}
-{186500}{}{Verstrahlte Höhlenwand}
-{186600}{}{Verstrahlte Höhlenwand}
-{186700}{}{Verstrahlte Höhlenwand}
-{186800}{}{Verstrahlte Höhlenwand}
-{186900}{}{Verstrahlte Höhlenwand}
-{187000}{}{Verstrahlte Höhlenwand}
-{187100}{}{Verstrahlte Höhlenwand}
-{187200}{}{Verstrahlte Höhlenwand}
-{187300}{}{Verstrahlte Höhlenwand}
-{187400}{}{Verstrahlte Höhlenwand}
-{187500}{}{Verstrahlte Höhlenwand}
-{187600}{}{Verstrahlte Höhlenwand}
-{187700}{}{Verstrahlte Höhlenwand}
-{187800}{}{Verstrahlte Höhlenwand}
-{187900}{}{Verstrahlte Höhlenwand}
-{188000}{}{Verstrahlte Höhlenwand}
-{188100}{}{Verstrahlte Höhlenwand}
-{188200}{}{Verstrahlte Höhlenwand}
-{188300}{}{Verstrahlte Höhlenwand}
-{188400}{}{Verstrahlte Höhlenwand}
-{188500}{}{Verstrahlte Höhlenwand}
-{188600}{}{Verstrahlte Höhlenwand}
-{188700}{}{Türöffnung}
-{188800}{}{Türöffnung}
+{183500}{}{Verstrahlte HÃ¶hlenwand}
+{183600}{}{Verstrahlte HÃ¶hlenwand}
+{183700}{}{Verstrahlte HÃ¶hlenwand}
+{183800}{}{Verstrahlte HÃ¶hlenwand}
+{183900}{}{Verstrahlte HÃ¶hlenwand}
+{184000}{}{Verstrahlte HÃ¶hlenwand}
+{184100}{}{Verstrahlte HÃ¶hlenwand}
+{184200}{}{Verstrahlte HÃ¶hlenwand}
+{184300}{}{Verstrahlte HÃ¶hlenwand}
+{184400}{}{Verstrahlte HÃ¶hlenwand}
+{184500}{}{Verstrahlte HÃ¶hlenwand}
+{184600}{}{Verstrahlte HÃ¶hlenwand}
+{184700}{}{Verstrahlte HÃ¶hlenwand}
+{184800}{}{Verstrahlte HÃ¶hlenwand}
+{184900}{}{Verstrahlte HÃ¶hlenwand}
+{185000}{}{Verstrahlte HÃ¶hlenwand}
+{185100}{}{Verstrahlte HÃ¶hlenwand}
+{185200}{}{Verstrahlte HÃ¶hlenwand}
+{185300}{}{Verstrahlte HÃ¶hlenwand}
+{185400}{}{Verstrahlte HÃ¶hlenwand}
+{185500}{}{Verstrahlte HÃ¶hlenwand}
+{185600}{}{Verstrahlte HÃ¶hlenwand}
+{185700}{}{Verstrahlte HÃ¶hlenwand}
+{185800}{}{Verstrahlte HÃ¶hlenwand}
+{185900}{}{Verstrahlte HÃ¶hlenwand}
+{186000}{}{Verstrahlte HÃ¶hlenwand}
+{186100}{}{Verstrahlte HÃ¶hlenwand}
+{186200}{}{Verstrahlte HÃ¶hlenwand}
+{186300}{}{Verstrahlte HÃ¶hlenwand}
+{186400}{}{Verstrahlte HÃ¶hlenwand}
+{186500}{}{Verstrahlte HÃ¶hlenwand}
+{186600}{}{Verstrahlte HÃ¶hlenwand}
+{186700}{}{Verstrahlte HÃ¶hlenwand}
+{186800}{}{Verstrahlte HÃ¶hlenwand}
+{186900}{}{Verstrahlte HÃ¶hlenwand}
+{187000}{}{Verstrahlte HÃ¶hlenwand}
+{187100}{}{Verstrahlte HÃ¶hlenwand}
+{187200}{}{Verstrahlte HÃ¶hlenwand}
+{187300}{}{Verstrahlte HÃ¶hlenwand}
+{187400}{}{Verstrahlte HÃ¶hlenwand}
+{187500}{}{Verstrahlte HÃ¶hlenwand}
+{187600}{}{Verstrahlte HÃ¶hlenwand}
+{187700}{}{Verstrahlte HÃ¶hlenwand}
+{187800}{}{Verstrahlte HÃ¶hlenwand}
+{187900}{}{Verstrahlte HÃ¶hlenwand}
+{188000}{}{Verstrahlte HÃ¶hlenwand}
+{188100}{}{Verstrahlte HÃ¶hlenwand}
+{188200}{}{Verstrahlte HÃ¶hlenwand}
+{188300}{}{Verstrahlte HÃ¶hlenwand}
+{188400}{}{Verstrahlte HÃ¶hlenwand}
+{188500}{}{Verstrahlte HÃ¶hlenwand}
+{188600}{}{Verstrahlte HÃ¶hlenwand}
+{188700}{}{TÃ¼rÃ¶ffnung}
+{188800}{}{TÃ¼rÃ¶ffnung}
 {188900}{}{Wand}
 {189000}{}{Wand}
 {189100}{}{Wand}
@@ -1949,8 +1949,8 @@
 {193700}{}{Fenster}
 {193800}{}{Fenster}
 {193900}{}{Fenster}
-{194000}{}{Türöffnung}
-{194100}{}{Türöffnung}
-{194200}{}{Türöffnung}
-{194300}{}{Türöffnung}
-{194400}{}{Türöffnung}
+{194000}{}{TÃ¼rÃ¶ffnung}
+{194100}{}{TÃ¼rÃ¶ffnung}
+{194200}{}{TÃ¼rÃ¶ffnung}
+{194300}{}{TÃ¼rÃ¶ffnung}
+{194400}{}{TÃ¼rÃ¶ffnung}

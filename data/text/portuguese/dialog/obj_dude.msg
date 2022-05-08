@@ -5,10 +5,10 @@
 {130}{}{Your shoes feel really tight; those bunions are really getting inflamed.}
 {140}{}{That nasty bunion on each foot seems to have turned into an extra toe. But at least that
  persistent, burning itch has gone away.}
-{141}{}{Oh, meu Deus, é Bess!}
-{150}{}{Você ganhou }
+{141}{}{Oh, meu Deus, Ã© Bess!}
+{150}{}{VocÃª ganhou }
 {151}{}{ experience points for getting the GECK.}
-{400}{}{Você não pode entender muita coisa do texto, mas as ilustrações são bastante informativas.}
+{400}{}{VocÃª nÃ£o pode entender muita coisa do texto, mas as ilustraÃ§Ãµes sÃ£o bastante informativas.}
 {500}{}{You have become addicted to alcohol. The thirst for alcohol will soon consume you.}
 {600}{}{Something doesn't feel quite right in your stomach.}
 {601}{}{You feel an intense pressure in your stomach.}

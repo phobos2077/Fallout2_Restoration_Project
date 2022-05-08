@@ -1,7 +1,7 @@
 {100}{}{Tu vois une porte en bois.}
-{101}{}{Cette porte est en bois très solide. On dirait qu'elle possède un nouveau système de verrouillage.}
-{102}{}{Cette porte est bien fermée.}
-{103}{}{En utilisant la technique que Max t'a appris, tu défais prudemment le mécanisme de la serrure et tu arrives très facilement à la crocheter.}
-{104}{}{La serrure paraît différente... Tu décides de la laisser comme ça.}
-{105}{}{Tu t'apprêtes à crocheter la serrure quand tu aperçois un petit loquet dans le système du mécanisme. Si tu l'avais soulevé, tu n'aurais jamais pu réussir à la crocheter. Tu parviens à l'enlever et quelques secondes plus tard tu as finalement réussi à ouvrir la porte.}
-{106}{}{Ca n'occasionne même pas une égratignure à la porte.}
+{101}{}{Cette porte est en bois trÃ¨s solide. On dirait qu'elle possÃ¨de un nouveau systÃ¨me de verrouillage.}
+{102}{}{Cette porte est bien fermÃ©e.}
+{103}{}{En utilisant la technique que Max t'a appris, tu dÃ©fais prudemment le mÃ©canisme de la serrure et tu arrives trÃ¨s facilement Ã  la crocheter.}
+{104}{}{La serrure paraÃ®t diffÃ©rente... Tu dÃ©cides de la laisser comme Ã§a.}
+{105}{}{Tu t'apprÃªtes Ã  crocheter la serrure quand tu aperÃ§ois un petit loquet dans le systÃ¨me du mÃ©canisme. Si tu l'avais soulevÃ©, tu n'aurais jamais pu rÃ©ussir Ã  la crocheter. Tu parviens Ã  l'enlever et quelques secondes plus tard tu as finalement rÃ©ussi Ã  ouvrir la porte.}
+{106}{}{Ca n'occasionne mÃªme pas une Ã©gratignure Ã  la porte.}

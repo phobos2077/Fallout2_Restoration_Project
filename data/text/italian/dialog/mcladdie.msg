@@ -13,7 +13,7 @@
 {158}{}{Jonny e' caduto nel pozzo, Laddie?}
 {159}{}{Cosa c'e', ragazzo? Stai cercando di dirmi qualcosa?}
 {160}{}{Grrrr! [Laddie ti morde con cattiveria.]}
-{161}{}{[Hmm… Per qualche ragione non gli piaci.]}
+{161}{}{[Hmmâ€¦ Per qualche ragione non gli piaci.]}
 {162}{}{Woof! Woof! Woof! [Laddie ti salta addosso e inizia a leccarti la faccia.]}
 {163}{}{[Che bel cagnolino.]}
 {164}{}{Woof? [Puoi quasi sentire il cane ridere di te.]}
@@ -33,7 +33,7 @@
 {182}{}{E' andato verso est?}
 {183}{}{E' andato verso ovest?}
 {186}{}{Woof?}
-{187}{}{Okay, Okay… Forse da qualche altra parte, allora?}
+{187}{}{Okay, Okayâ€¦ Forse da qualche altra parte, allora?}
 {190}{}{Stava giocando a cowboy e indiani quando e' caduto accidentalmente nel pozzo e tu vuoi che io prenda una corda e scenda li' sotto per salvarlo. Okay, andiamo, Laddie. [Sbalorditivo!]}
 {191}{}{Stava giocando a cowboy e indiani quando e' caduto accidentalmente nel pozzo e tu vuoi che io usi la mia corda e scenda li' sotto per salvarlo. Okay, andiamo, Laddie. [Sbalorditivo!]}
 {195}{}{OK, prendero' una corda e scendero' sul fondo del pozzo per salvare Jonny.}

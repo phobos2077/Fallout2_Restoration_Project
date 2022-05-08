@@ -8,20 +8,20 @@
 {107}{}{Uh, I really don't know what you're talking about.}
 {108}{}{So you're the itch Merk wants scratched!}
 {109}{}{Sim.}
-{110}{}{Não.}
+{110}{}{NÃ£o.}
 {111}{}{I just want to be alone.}
 {112}{}{Hello? Anybody there?}
 {113}{}{Guh.}
 {114}{}{No-body here.}
 {115}{}{Oh dear, a Level One. Still trapped in primitive state. Perhaps a zeta-scan alignment would help. Would you like that?}
 {116}{}{Zay-ta!}
-{117}{}{Não!}
+{117}{}{NÃ£o!}
 {118}{}{Please don't mock the Church of Hubology. It's oppressors like you who make things hard for the rest of us. Oh, dear. I'm all turbulent!}
 {119}{}{Chosen One? Don't you mean AHS-One? Just what text are you working from?}
 {120}{}{It's simple. I am the Chosen One because that is what must be.}
 {121}{}{AHS one?}
 {122}{}{That's what my Elder says I am.}
-{123}{}{Do que você está falando?}
+{123}{}{Do que vocÃª estÃ¡ falando?}
 {124}{}{Can we just get to the part where you sprinkle holy water on me or something?}
 {125}{}{Oh. Well, are you seeking true understanding and spiritual peace? We can help.}
 {126}{}{No, I'm looking for a GECK.}
@@ -50,7 +50,7 @@
 {149}{}{Aligned Hub Seeker. You are obviously not Enlightened.}
 {150}{}{A primitive belief - but you show signs of great promise. We can show you the higher path. Would you like to know more?}
 {151}{}{Sim.}
-{152}{}{Não.}
+{152}{}{NÃ£o.}
 {153}{}{I can't help you with that. However, our scientists in San Francisco might know something. Perhaps you should travel there.}
 {154}{}{By purging you of the negative psychic energy that keeps you in an oppressive state. Only then can you be Enlightened!}
 {155}{}{Neurodynes are the psychic centers of the body. They become polluted by the spiritual remnants of the people who died in the War. Their psi-energies imprint into our neurodynes at birth and hold us in an oppressive state. Alignment erases these imprints.}
@@ -80,7 +80,7 @@
 {178}{}{Were you asleep during indoctrination? Hmmph - you are not one of the Enlightened!}
 {179}{}{So you're saying there's some higher power who creates us with a purpose and then just abandons us? I can't believe any being would be so callous. Come, embrace the Church of Hubology. Let us show you the true way.}
 {180}{}{What true way?}
-{181}{}{Não, obrigado.}
+{181}{}{NÃ£o, obrigado.}
 {182}{}{Without control of your own life, though, what's the point? Nothing you do has any value. Did you choose to get up this morning? No, you're just a puppet by your own philosophy. Now, we at the church of Hubology have a true answer.}
 {183}{}{Which is?}
 {184}{}{Sure you do.}
@@ -88,7 +88,7 @@
 {186}{}{How?}
 {187}{}{Oh, get out of my face.}
 {188}{}{Vault 13? Our scientists have been searching for it somewhere to the west. That is all I know. Are you sure you don't want an alignment?}
-{189}{}{Claro, porque não.}
+{189}{}{Claro, porque nÃ£o.}
 {190}{}{No thanks. I'm fine.}
 {191}{}{I tell you, spreading the word of Hubology out here is harder than you can imagine! AHS-9 just doesn't understand the difficulty. In fact, I've written it all down. Say, would you be willing to deliver it to AHS-9 in San Francisco? I can't promise any reward, but I know AHS-9 will appreciate it.}
 {192}{}{Sure, why not?}
@@ -117,5 +117,5 @@
 {215}{}{Intruder! Do you plan to desecrate this place? Out!}
 {216}{}{Wonderful, sister. So what level are you?}
 {217}{}{. I'm sure if I keep wandering and killing random creatures I'll hit level 99 in no time.}
-{218}{}{Você ganhou }
+{218}{}{VocÃª ganhou }
 {219}{}{ experience points for "taking care of" the Hubologist for Merk.}

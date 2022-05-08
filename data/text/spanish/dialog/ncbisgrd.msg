@@ -1,144 +1,144 @@
 {100}{}{Ves a uno de los guardaespaldas de Bishop.}
 {150}{}{Ves a un hombre de apariencia fuerte con una armadura de cuero. Numerosas cicatrices y heridas de arma
  cubren su cuerpo.}
-{151}{}{Ves a uno de los guardaespaldas de Bishop. Está explorando la zona y acariciando su arma.}
-{200}{}{¡Oye! }
-{201}{}{! ¡Qué forma de patearle el culo al Enclave!}
-{205}{}{¿Cómo diablos vas al retrete con esa cosa puesta?}
-{210}{}{¿Bishop te espera, }
+{151}{}{Ves a uno de los guardaespaldas de Bishop. EstÃ¡ explorando la zona y acariciando su arma.}
+{200}{}{Â¡Oye! }
+{201}{}{! Â¡QuÃ© forma de patearle el culo al Enclave!}
+{205}{}{Â¿CÃ³mo diablos vas al retrete con esa cosa puesta?}
+{210}{}{Â¿Bishop te espera, }
 {211}{}{? Adelante. No se te ocurra mostrar esa arma en su presencia.}
-{215}{}{Eh, oye… Bishop te espera, ¿no, }
+{215}{}{Eh, oyeâ€¦ Bishop te espera, Â¿no, }
 {216}{}{? Adelante. Y deja de andar a hurtadillas.}
 {221}{}{? Adelante.}
-{225}{}{Estás entrando en el lugar EQUIVOCADO, tarado.}
-{226}{}{Vaya, mira las pelotas de acero de este hijo de puta... lárgate, chico, antes de que te peguemos un tiro.}
-{227}{}{Este tipo busca problemas…}
-{228}{}{Mejor será que te vayas, }
+{225}{}{EstÃ¡s entrando en el lugar EQUIVOCADO, tarado.}
+{226}{}{Vaya, mira las pelotas de acero de este hijo de puta... lÃ¡rgate, chico, antes de que te peguemos un tiro.}
+{227}{}{Este tipo busca problemasâ€¦}
+{228}{}{Mejor serÃ¡ que te vayas, }
 {229}{}{Vaya, pero si es }
 {230}{}{Oigo a }
-{231}{}{No creía que fueras miembros de la Familia }
-{232}{}{Estás entrando en el lugar EQUIVOCADO, zorra.}
-{233}{}{Vaya, mira cómo se pavonea esta golfa...}
-{234}{}{Lárgate, muchacha. Antes de que te pequemos un tiro.}
-{235}{}{Esta zorra busca problemas…}
+{231}{}{No creÃ­a que fueras miembros de la Familia }
+{232}{}{EstÃ¡s entrando en el lugar EQUIVOCADO, zorra.}
+{233}{}{Vaya, mira cÃ³mo se pavonea esta golfa...}
+{234}{}{LÃ¡rgate, muchacha. Antes de que te pequemos un tiro.}
+{235}{}{Esta zorra busca problemasâ€¦}
 {236}{}{Oigo a }
-{245}{}{Eh, campeón. Nada de armas aquí, ¿vale?}
-{246}{}{¡Eh, campeón! Guarda el arma.}
+{245}{}{Eh, campeÃ³n. Nada de armas aquÃ­, Â¿vale?}
+{246}{}{Â¡Eh, campeÃ³n! Guarda el arma.}
 {247}{}{Oye, }
-{255}{}{¿Por qué estás andando a hurtadillas?}
-{256}{}{¿Estás intentando evitar a tus fans?}
-{257}{}{Eh, ¿por qué tanto secretismo?}
-{265}{}{Tú, }
-{266}{}{Tú, }
-{275}{}{Tú, guaperas. Nada de armas aquí, ¿lo pillas?}
+{255}{}{Â¿Por quÃ© estÃ¡s andando a hurtadillas?}
+{256}{}{Â¿EstÃ¡s intentando evitar a tus fans?}
+{257}{}{Eh, Â¿por quÃ© tanto secretismo?}
+{265}{}{TÃº, }
+{266}{}{TÃº, }
+{275}{}{TÃº, guaperas. Nada de armas aquÃ­, Â¿lo pillas?}
 {276}{}{Oye, }
-{277}{}{Tú, }
-{278}{}{Preciosa, no puedes llevar armas aquí. Je je... ya eres bastante mortífera tal cual.}
+{277}{}{TÃº, }
+{278}{}{Preciosa, no puedes llevar armas aquÃ­. Je je... ya eres bastante mortÃ­fera tal cual.}
 {279}{}{Oye, }
-{285}{}{Cariño, con un cuerpo como ese, no podrás andar a hurtadillas por ninguna parte.}
-{290}{}{Me encantan las películas, }
+{285}{}{CariÃ±o, con un cuerpo como ese, no podrÃ¡s andar a hurtadillas por ninguna parte.}
+{290}{}{Me encantan las pelÃ­culas, }
 {291}{}{Me encantaste en Grandes Pelotas de Fuego.}
 {292}{}{Me encantaste en El Indomable Will Follador.}
 {293}{}{Soy un gran fan de tu trabajo en Calientahontas.}
 {294}{}{::silbidos::}
-{300}{}{¿Estás buscando llenar una tumba en el Gólgota, esclavista? Guarda eso.}
-{301}{}{Guarda ese arma, esclavista, o te usaré para mis prácticas de tiro.}
+{300}{}{Â¿EstÃ¡s buscando llenar una tumba en el GÃ³lgota, esclavista? Guarda eso.}
+{301}{}{Guarda ese arma, esclavista, o te usarÃ© para mis prÃ¡cticas de tiro.}
 {302}{}{Esclavista, mejor que te guardes ese arma YA.}
-{305}{}{¿Estás buscando llenar una tumba en el Gólgota, esclavista? Deja de andar a hurtadillas.}
-{306}{}{Deja de andar a hurtadillas, esclavista, o te usaré para mis prácticas de tiro.}
+{305}{}{Â¿EstÃ¡s buscando llenar una tumba en el GÃ³lgota, esclavista? Deja de andar a hurtadillas.}
+{306}{}{Deja de andar a hurtadillas, esclavista, o te usarÃ© para mis prÃ¡cticas de tiro.}
 {307}{}{Tal vez lo mejor sea que te vuelvas a la escuela ninja, esclavista: y ahora deja de andar a hurtadillas.}
 {308}{}{Esclavista, mejor que dejes de andar a hurtadillas YA.}
-{315}{}{¿Estás buscando llenar una tumba en el Gólgota, tribal? Guarda eso.}
-{316}{}{Guarda ese arma, tribal, o te usaré para mis prácticas de tiro.}
-{317}{}{Tribal, será mejor que guardes ese arma AHORA mismo.}
-{325}{}{¿Estás buscando llenar una tumba en el Gólgota, tribal? Deja de andar a hurtadillas.}
-{326}{}{Deja de andar a hurtadillas, tribal, o te usaré para mis prácticas de tiro.}
+{315}{}{Â¿EstÃ¡s buscando llenar una tumba en el GÃ³lgota, tribal? Guarda eso.}
+{316}{}{Guarda ese arma, tribal, o te usarÃ© para mis prÃ¡cticas de tiro.}
+{317}{}{Tribal, serÃ¡ mejor que guardes ese arma AHORA mismo.}
+{325}{}{Â¿EstÃ¡s buscando llenar una tumba en el GÃ³lgota, tribal? Deja de andar a hurtadillas.}
+{326}{}{Deja de andar a hurtadillas, tribal, o te usarÃ© para mis prÃ¡cticas de tiro.}
 {327}{}{Tal vez lo mejor sea que te vuelvas a la escuela ninja, tribal: y ahora deja de andar a hurtadillas.}
-{328}{}{Tribal, será mejor que dejes esa mierda de andar a hurtadillas AHORA mismo.}
-{335}{}{Saca a ese robot de aquí. Ya.}
-{336}{}{Saca a ese robot de aquí antes de que lo convirtamos en un barril para hacer hogueras.}
-{337}{}{Ese robot se va a convertir en un montón de piezas si sigue aquí.}
-{345}{}{Me ha *parecido* oler a mutante. Mejor que saques de aquí a ese culo amarillento. Ahora.}
-{346}{}{¿Tu amigo mutante y tú buscáis que os peguen un tiro? Largo de aquí.}
-{347}{}{Mejor será que ese mutante salga de aquí ahora mismo, o colgaremos su cabeza de una pared.}
-{355}{}{Me ha *parecido* oler algo podrido. Saca a ese necrófago fuera de aquí.}
-{356}{}{Saca de aquí a ese apestoso necrófago. Ahora.}
-{357}{}{Si ese necrófago no sale de aquí en un minuto, va a estar más muerto aún.}
-{365}{}{¿Viste la pelea de anoche?}
-{366}{}{Voy al bar después del trabajo.}
-{370}{}{Puedes subir si quieres. Bishop la ha palmado, así que también puedes usar la mesa de billar.}
-{375}{}{¿Qué quieres, amigo? Que sea rápido.}
-{376}{}{¿Qué quieres, guapa? Que sea rápido.}
-{377}{}{Otra vez tú. ¿Qué demonios quieres ahora?}
+{328}{}{Tribal, serÃ¡ mejor que dejes esa mierda de andar a hurtadillas AHORA mismo.}
+{335}{}{Saca a ese robot de aquÃ­. Ya.}
+{336}{}{Saca a ese robot de aquÃ­ antes de que lo convirtamos en un barril para hacer hogueras.}
+{337}{}{Ese robot se va a convertir en un montÃ³n de piezas si sigue aquÃ­.}
+{345}{}{Me ha *parecido* oler a mutante. Mejor que saques de aquÃ­ a ese culo amarillento. Ahora.}
+{346}{}{Â¿Tu amigo mutante y tÃº buscÃ¡is que os peguen un tiro? Largo de aquÃ­.}
+{347}{}{Mejor serÃ¡ que ese mutante salga de aquÃ­ ahora mismo, o colgaremos su cabeza de una pared.}
+{355}{}{Me ha *parecido* oler algo podrido. Saca a ese necrÃ³fago fuera de aquÃ­.}
+{356}{}{Saca de aquÃ­ a ese apestoso necrÃ³fago. Ahora.}
+{357}{}{Si ese necrÃ³fago no sale de aquÃ­ en un minuto, va a estar mÃ¡s muerto aÃºn.}
+{365}{}{Â¿Viste la pelea de anoche?}
+{366}{}{Voy al bar despuÃ©s del trabajo.}
+{370}{}{Puedes subir si quieres. Bishop la ha palmado, asÃ­ que tambiÃ©n puedes usar la mesa de billar.}
+{375}{}{Â¿QuÃ© quieres, amigo? Que sea rÃ¡pido.}
+{376}{}{Â¿QuÃ© quieres, guapa? Que sea rÃ¡pido.}
+{377}{}{Otra vez tÃº. Â¿QuÃ© demonios quieres ahora?}
 {378}{}{Quiero paz mundial.}
 {379}{}{Quiero subir por escaleras}
-{380}{}{Quien tú.}
+{380}{}{Quien tÃº.}
 {381}{}{[Te alejas]}
-{382}{}{¿Qué hay en esas escaleras?}
-{383}{}{Estoy aquí para ver al señor Bishop.}
-{384}{}{Estoy aquí para ver al señor Bishop. Tengo para él un maletín del señor Moore.}
-{385}{}{Perdón, me parece que he tomado el camino equivocado. Me marcharé ahora.}
-{390}{}{¿Tienes asuntos que tratar escaleras arriba, amigo?}
-{391}{}{¿Tienes asuntos que tratar escaleras arriba, muchacha?}
-{405}{}{Caray, eres un estúpido hijo de puta, ¿verdad? }
-{406}{}{Caray, eres una zorra estúpida, ¿verdad? }
-{407}{}{Mira, sal de aquí antes de que te saquemos el resto de tu cerebro.}
+{382}{}{Â¿QuÃ© hay en esas escaleras?}
+{383}{}{Estoy aquÃ­ para ver al seÃ±or Bishop.}
+{384}{}{Estoy aquÃ­ para ver al seÃ±or Bishop. Tengo para Ã©l un maletÃ­n del seÃ±or Moore.}
+{385}{}{PerdÃ³n, me parece que he tomado el camino equivocado. Me marcharÃ© ahora.}
+{390}{}{Â¿Tienes asuntos que tratar escaleras arriba, amigo?}
+{391}{}{Â¿Tienes asuntos que tratar escaleras arriba, muchacha?}
+{405}{}{Caray, eres un estÃºpido hijo de puta, Â¿verdad? }
+{406}{}{Caray, eres una zorra estÃºpida, Â¿verdad? }
+{407}{}{Mira, sal de aquÃ­ antes de que te saquemos el resto de tu cerebro.}
 {408}{}{QUIERO PAZ EN MUNDO QUIERO PAZ MUNDIAL.}
 {409}{}{DIGO QUE QUIERO SUBIR ESCALERAS}
 {410}{}{QUIEN TU.}
-{411}{}{[Arrástrate]}
-{412}{}{Déjame pasar.}
-{414}{}{Está bien. Me marcho.}
+{411}{}{[ArrÃ¡strate]}
+{412}{}{DÃ©jame pasar.}
+{414}{}{EstÃ¡ bien. Me marcho.}
 {420}{}{Tarado, acabas de ganar un billete a un mundo de dolor.}
 {421}{}{Zorra, acabas de ganar un billete a un mundo de dolor.}
 {422}{}{TU SERAS PERSONA HERIDO.}
-{423}{}{ sólo quiere estar SOLO pero el MUNDO duele }
-{424}{}{ así que }
-{425}{}{ MASACRAR DÉBILES HUMANOS}
+{423}{}{ sÃ³lo quiere estar SOLO pero el MUNDO duele }
+{424}{}{ asÃ­ que }
+{425}{}{ MASACRAR DÃ‰BILES HUMANOS}
 {426}{}{[Gritas y buscas cobertura]}
-{427}{}{[En silencio te preparas para hacer algo de daño]}
-{428}{}{¡¿Queréis un poco de ESTO, chicos?! ¡¿QUERÉIS MÁS?! Entonces VENID, patéticos HIJOS DE
+{427}{}{[En silencio te preparas para hacer algo de daÃ±o]}
+{428}{}{Â¡Â¿QuerÃ©is un poco de ESTO, chicos?! Â¡Â¿QUERÃ‰IS MÃS?! Entonces VENID, patÃ©ticos HIJOS DE
  PUT --}
 {435}{}{Si no lo sabes, es que no NECESITAS saberlo. Desaparece.}
-{445}{}{Pues mala cosa, porque Bishop tomó la autopista hacia el cielo no hace mucho. Y ahora lárgate.}
-{446}{}{¿Estás sordo? El puñetero John Bishop está jodidamente MUERTO, ¿vale? Ahora sal de aquí antes de que te unas a él.}
-{447}{}{Mira, necesito subir, sólo un segundo.}
-{448}{}{Está bien, me marcho.}
-{455}{}{No, conozco la agenda del señor Bishop, y tú no estás en ella.}
-{456}{}{Me está esperando. Dile que estoy aquí.}
-{458}{}{De acuerdo entonces. Adiós.}
-{465}{}{Está bien, amigo. ¿Cuál es tu nombre? Lo comprobaré con el jefe.}
-{466}{}{Está bien, muchacha. ¿Cuál es tu nombre? Lo comprobaré con el jefe.}
+{445}{}{Pues mala cosa, porque Bishop tomÃ³ la autopista hacia el cielo no hace mucho. Y ahora lÃ¡rgate.}
+{446}{}{Â¿EstÃ¡s sordo? El puÃ±etero John Bishop estÃ¡ jodidamente MUERTO, Â¿vale? Ahora sal de aquÃ­ antes de que te unas a Ã©l.}
+{447}{}{Mira, necesito subir, sÃ³lo un segundo.}
+{448}{}{EstÃ¡ bien, me marcho.}
+{455}{}{No, conozco la agenda del seÃ±or Bishop, y tÃº no estÃ¡s en ella.}
+{456}{}{Me estÃ¡ esperando. Dile que estoy aquÃ­.}
+{458}{}{De acuerdo entonces. AdiÃ³s.}
+{465}{}{EstÃ¡ bien, amigo. Â¿CuÃ¡l es tu nombre? Lo comprobarÃ© con el jefe.}
+{466}{}{EstÃ¡ bien, muchacha. Â¿CuÃ¡l es tu nombre? Lo comprobarÃ© con el jefe.}
 {467}{}{Soy }
 {468}{}{.}
-{469}{}{No necesitas mi nombre. Simplemente déjame verlo.}
-{471}{}{Olvídalo. No necesitas comprobarlo… me marcharé.}
+{469}{}{No necesitas mi nombre. Simplemente dÃ©jame verlo.}
+{471}{}{OlvÃ­dalo. No necesitas comprobarloâ€¦ me marcharÃ©.}
 {475}{}{(El guardia retrocede, abre un panel de una de las paredes y susurra algo.  Espera un minuto, escucha, y luego regresa a tu lado.) }
-{476}{}{No te conoce. Piérdete, chaval. Estás haciéndonos perder el tiempo.}
-{477}{}{No te conoce. Piérdete, muchacha. Estás haciéndonos perder el tiempo.}
+{476}{}{No te conoce. PiÃ©rdete, chaval. EstÃ¡s haciÃ©ndonos perder el tiempo.}
+{477}{}{No te conoce. PiÃ©rdete, muchacha. EstÃ¡s haciÃ©ndonos perder el tiempo.}
 {478}{}{Dejadme verlo. Ahora.}
-{479}{}{Dile que tengo un maletín para él... del señor Moore.}
-{480}{}{Olvídalo entonces.}
+{479}{}{Dile que tengo un maletÃ­n para Ã©l... del seÃ±or Moore.}
+{480}{}{OlvÃ­dalo entonces.}
 {490}{}{(El guardia retrocede, abre un panel de una de las paredes y susurra algo. Espera un minuto, escucha, luego regresa a tu lado y se encoge de hombros) Dice que puedes subir.}
 {491}{}{De acuerdo.}
-{495}{}{Tú, }
+{495}{}{TÃº, }
 {496}{}{! }
-{497}{}{¿El señor Bishop te espera?}
-{498}{}{Sí. ¿Puedo subir? Tenemos asuntos que tratar.}
+{497}{}{Â¿El seÃ±or Bishop te espera?}
+{498}{}{SÃ­. Â¿Puedo subir? Tenemos asuntos que tratar.}
 {499}{}{No, ahora mismo no. Cuidaos, muchachos.}
 {505}{}{Claro, sube, }
 {506}{}{. }
-{507}{}{La próxima vez, ni te molestes en preguntar… simplemente sube.}
+{507}{}{La prÃ³xima vez, ni te molestes en preguntarâ€¦ simplemente sube.}
 {508}{}{Gracias.}
 {1228}{}{. Ahora.}
-{1229}{}{. ¿Tu familia no te va a echar de menos?}
-{1230}{}{ son un grupo de nenazas. ¿Qué opinas?}
-{1231}{}{ no tuvo tiempo de hacer mucho más que besarle el culo a sus jefes.}
+{1229}{}{. Â¿Tu familia no te va a echar de menos?}
+{1230}{}{ son un grupo de nenazas. Â¿QuÃ© opinas?}
+{1231}{}{ no tuvo tiempo de hacer mucho mÃ¡s que besarle el culo a sus jefes.}
 {1236}{}{ son un grupo de nenazas. Ahora veo que es cierto.}
-{1247}{}{! No puedes tener las armas a la vista por aquí, ¿entendido?}
-{1265}{}{. ¿Estás teniendo cuidado por ahí?}
-{1266}{}{. ¿Qué tal lo llevas?}
-{1276}{}{! No puedes tener las armas a la vista por aquí, ¿entendido?}
+{1247}{}{! No puedes tener las armas a la vista por aquÃ­, Â¿entendido?}
+{1265}{}{. Â¿EstÃ¡s teniendo cuidado por ahÃ­?}
+{1266}{}{. Â¿QuÃ© tal lo llevas?}
+{1276}{}{! No puedes tener las armas a la vista por aquÃ­, Â¿entendido?}
 {1277}{}{! Guarda ese arma.}
-{1279}{}{! Puedes enseñar las tetas, pero no puedes mostrar armas aquí, ¿entendido?}
+{1279}{}{! Puedes enseÃ±ar las tetas, pero no puedes mostrar armas aquÃ­, Â¿entendido?}
 {1290}{}{!}

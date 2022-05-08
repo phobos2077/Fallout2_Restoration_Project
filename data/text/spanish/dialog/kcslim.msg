@@ -1,123 +1,123 @@
 {100}{}{Ves a un trampero larguirucho.}
 {101}{}{Ves a Picket 'el flaco', el jefe del barrio de los tramperos.}
-{110}{}{Bueno, señor, tenga cuidado no acabe devorado por esas ratas... pero acabará así si sigue molestándolas. Tan sólo procure no traer ninguna con usted.}
-{111}{}{Bueno, señorita, tenga cuidado no acabe devorada por esas ratas... pero acabará así si sigue molestándolas. Tan sólo procure no traer ninguna con usted.}
-{112}{}{No te preocupes. No lo haré.}
+{110}{}{Bueno, seÃ±or, tenga cuidado no acabe devorado por esas ratas... pero acabarÃ¡ asÃ­ si sigue molestÃ¡ndolas. Tan sÃ³lo procure no traer ninguna con usted.}
+{111}{}{Bueno, seÃ±orita, tenga cuidado no acabe devorada por esas ratas... pero acabarÃ¡ asÃ­ si sigue molestÃ¡ndolas. Tan sÃ³lo procure no traer ninguna con usted.}
+{112}{}{No te preocupes. No lo harÃ©.}
 {113}{}{No, gracias a ti.}
 {114}{}{Eh, vale.}
 {120}{}{No quiero tener nada que ver con esos bichos. Les dejo tranquilos y espero que ellos hagan lo mismo conmigo. Ten cuidado.}
-{130}{}{Ten cuidado. Parece que cuando más te adentras, más grandes se vuelven.}
+{130}{}{Ten cuidado. Parece que cuando mÃ¡s te adentras, mÃ¡s grandes se vuelven.}
 {140}{}{Hola, tribal. Me llamo Picket 'el flaco' y puedo hablarte sobre el barrio de los tramperos. No queremos problemas.}
 {141}{}{Saludos, amigo. Un buen detalle por tu parte el venir a visitarnos. Me llamo Picket 'el flaco'. Hablo en nombre del barrio de los tramperos.}
 {142}{}{Saludos, Flaco. Me llamo }
-{143}{}{. ¿Por qué le llamáis a este sitio barrio de los tramperos?}
-{144}{}{¿Sabes dónde podría encontrar algo llamado Kit de Creación del Jardín del Edén?}
-{145}{}{Encantado de conocerle, señor Picket. Tan sólo echaba un vistazo por aquí. Adiós.}
+{143}{}{. Â¿Por quÃ© le llamÃ¡is a este sitio barrio de los tramperos?}
+{144}{}{Â¿Sabes dÃ³nde podrÃ­a encontrar algo llamado Kit de CreaciÃ³n del JardÃ­n del EdÃ©n?}
+{145}{}{Encantado de conocerle, seÃ±or Picket. Tan sÃ³lo echaba un vistazo por aquÃ­. AdiÃ³s.}
 {150}{}{Hola, me llamo Picket 'el flaco'. Hablo en nombre de esta parte del pueblo.}
 {151}{}{Uuu.}
 {152}{}{Ahh, pueblo.}
-{153}{}{(te señalas a ti mismo) Yo }
+{153}{}{(te seÃ±alas a ti mismo) Yo }
 {154}{}{, yo hambre.}
-{160}{}{Vaya, parece que la recepción de tu antena no pilla todos los canales, ¿eh? Bueno, te diré el qué. Aquí hay una llave de la puerta que hay detrás de mí. Hay toda clase de ratas ahí detrás: incluso se supone que una enorme. Debes ir ahí y matar a todas las condenadas ratas que puedas comer. ¿Qué te parece?}
-{161}{}{Esa rata enorme que estaba molestando a todo el mundo en los alrededores parece haber desaparecido. Pero no creo que un tonto como tú haya tenido algo que ver con ello.}
+{160}{}{Vaya, parece que la recepciÃ³n de tu antena no pilla todos los canales, Â¿eh? Bueno, te dirÃ© el quÃ©. AquÃ­ hay una llave de la puerta que hay detrÃ¡s de mÃ­. Hay toda clase de ratas ahÃ­ detrÃ¡s: incluso se supone que una enorme. Debes ir ahÃ­ y matar a todas las condenadas ratas que puedas comer. Â¿QuÃ© te parece?}
+{161}{}{Esa rata enorme que estaba molestando a todo el mundo en los alrededores parece haber desaparecido. Pero no creo que un tonto como tÃº haya tenido algo que ver con ello.}
 {162}{}{Vale. Je, je, matar ratas. Je, je, je.}
-{163}{}{¡No! ¡Ratas asustaaaan! No. Yo marcho.}
-{170}{}{¿Qué demonios quieres ahora?}
-{171}{}{Hola. ¿Cómo puedo ayudarte?}
+{163}{}{Â¡No! Â¡Ratas asustaaaan! No. Yo marcho.}
+{170}{}{Â¿QuÃ© demonios quieres ahora?}
+{171}{}{Hola. Â¿CÃ³mo puedo ayudarte?}
 {172}{}{Creo que necesito una llave para llegar a la parte norte del barrio de los tramperos.}
 {173}{}{Tengo algunas preguntas para ti.}
-{174}{}{No necesito nada más. Adiós.}
-{180}{}{Esta parte del pueblo es donde todos los tramperos vivimos cuando no estamos cazando geckos. El único problema son las ratas de la parte norte. Pero hemos hecho una barricada bastante buena en la mayoría de las entradas a esa parte.}
-{181}{}{¿Que querías saber?}
-{182}{}{¿Vas alguna vez a la zona norte?}
-{183}{}{Háblame de la caza de geckos.}
-{184}{}{¿Sabes algo sobre el Kit de Creación del Jardín del Edén?}
-{185}{}{Tenéis un montón de coches por aquí.}
-{186}{}{¿Ratas? Háblame de las ratas.}
-{187}{}{Gracias por la información. No creo que por ahora necesite nada más. Adiós.}
-{190}{}{Oh, quieres decir un GECK, ¿eh? Bueno, vi un anuncio en una de esas revistas viejas. Pero no creo que exista ninguno. Al menos no por esta zona.}
-{191}{}{¿De verdad? Ya, entonces hablemos de otra cosa.}
+{174}{}{No necesito nada mÃ¡s. AdiÃ³s.}
+{180}{}{Esta parte del pueblo es donde todos los tramperos vivimos cuando no estamos cazando geckos. El Ãºnico problema son las ratas de la parte norte. Pero hemos hecho una barricada bastante buena en la mayorÃ­a de las entradas a esa parte.}
+{181}{}{Â¿Que querÃ­as saber?}
+{182}{}{Â¿Vas alguna vez a la zona norte?}
+{183}{}{HÃ¡blame de la caza de geckos.}
+{184}{}{Â¿Sabes algo sobre el Kit de CreaciÃ³n del JardÃ­n del EdÃ©n?}
+{185}{}{TenÃ©is un montÃ³n de coches por aquÃ­.}
+{186}{}{Â¿Ratas? HÃ¡blame de las ratas.}
+{187}{}{Gracias por la informaciÃ³n. No creo que por ahora necesite nada mÃ¡s. AdiÃ³s.}
+{190}{}{Oh, quieres decir un GECK, Â¿eh? Bueno, vi un anuncio en una de esas revistas viejas. Pero no creo que exista ninguno. Al menos no por esta zona.}
+{191}{}{Â¿De verdad? Ya, entonces hablemos de otra cosa.}
 {192}{}{Oh, vale; eso es todo lo que quiera saber. Gracias.}
-{200}{}{¿Quieres la llave a la parte norte del barrio de los tramperos? ¿Y para qué la quieres?}
-{201}{}{¿Aún quieres la llave? ¿Y para qué?}
-{202}{}{Soy un explorador; quiero explorar todos los sitios que pueda. Además, quizás haya un GECK abandonado en alguna estantería.}
+{200}{}{Â¿Quieres la llave a la parte norte del barrio de los tramperos? Â¿Y para quÃ© la quieres?}
+{201}{}{Â¿AÃºn quieres la llave? Â¿Y para quÃ©?}
+{202}{}{Soy un explorador; quiero explorar todos los sitios que pueda. AdemÃ¡s, quizÃ¡s haya un GECK abandonado en alguna estanterÃ­a.}
 {203}{}{Voy a ayudarte con tu problema con las ratas.}
-{204}{}{Tan sólo quiero llegar a ese coche al otro lado de la valla.}
-{205}{}{Estaría dispuesto a darte cualquier cosa por esa llave. De verdad que quiero cruzar al otro lado del barrio de los tramperos.}
-{206}{}{Después de todo, no quiero esa llave. Parece que sea un sitio bastante peligroso.}
-{210}{}{Bien, de acuerdo, aquí esta la llave. Tan sólo intenta no crear muchos problemas, y asegúrate de cerrar la puerta tras de ti.}
-{211}{}{¡Qué divertido! Me hacía falta eso, dulzura. Tan sólo ten cuidado de que nada le pase a ese trasero que tienes. (je, je, je)}
+{204}{}{Tan sÃ³lo quiero llegar a ese coche al otro lado de la valla.}
+{205}{}{EstarÃ­a dispuesto a darte cualquier cosa por esa llave. De verdad que quiero cruzar al otro lado del barrio de los tramperos.}
+{206}{}{DespuÃ©s de todo, no quiero esa llave. Parece que sea un sitio bastante peligroso.}
+{210}{}{Bien, de acuerdo, aquÃ­ esta la llave. Tan sÃ³lo intenta no crear muchos problemas, y asegÃºrate de cerrar la puerta tras de ti.}
+{211}{}{Â¡QuÃ© divertido! Me hacÃ­a falta eso, dulzura. Tan sÃ³lo ten cuidado de que nada le pase a ese trasero que tienes. (je, je, je)}
 {212}{}{Gracias por la llave, Flaco. Antes de irme, tengo una pregunta que hacerte.}
-{213}{}{Gracias, Flaco. Me aseguraré de cerrar la puerta tras de mí. Adiós.}
-{220}{}{Si quieres la llave, vas a tener que comprármela.}
+{213}{}{Gracias, Flaco. Me asegurarÃ© de cerrar la puerta tras de mÃ­. AdiÃ³s.}
+{220}{}{Si quieres la llave, vas a tener que comprÃ¡rmela.}
 {221}{}{No me importa comprar la llave.}
-{222}{}{No quiero comprarte la llave. No te costará nada si me la prestas. Me aseguraré de cerrar la puerta tras de mí.}
-{223}{}{Si me dejas la llave, te aseguro de que habrá menos ratas de las que preocuparse después de que la use.}
-{224}{}{No quiero la llave. Adiós.}
-{230}{}{Ya has conseguido lo que querías. Ahora ten cuidado.}
+{222}{}{No quiero comprarte la llave. No te costarÃ¡ nada si me la prestas. Me asegurarÃ© de cerrar la puerta tras de mÃ­.}
+{223}{}{Si me dejas la llave, te aseguro de que habrÃ¡ menos ratas de las que preocuparse despuÃ©s de que la use.}
+{224}{}{No quiero la llave. AdiÃ³s.}
+{230}{}{Ya has conseguido lo que querÃ­as. Ahora ten cuidado.}
 {231}{}{Gracias.}
 {232}{}{Eres duro en los negocios. Espero que valiera la pena.}
-{240}{}{Bien, supongo que no necesito esta llave tanto como tú, ¿no? ¿Estás seguro de que tienes todo lo que quieres?}
-{241}{}{Ups; sabía que necesitaba algo más.}
+{240}{}{Bien, supongo que no necesito esta llave tanto como tÃº, Â¿no? Â¿EstÃ¡s seguro de que tienes todo lo que quieres?}
+{241}{}{Ups; sabÃ­a que necesitaba algo mÃ¡s.}
 {242}{}{Eh, Flaco, hay un par de cosas que quiero preguntarte.}
-{243}{}{No quiero nada más. Gracias de todos modos.}
-{250}{}{Hemos bloqueado todas las entradas a la parte norte del barrio excepto una. Tengo la llave de esa entrada... por si acaso alguien, por alguna razón, quisiera entrar allí. No puedo imaginarme porque nadie querría hacerlo; desde luego, yo no lo haría.}
+{243}{}{No quiero nada mÃ¡s. Gracias de todos modos.}
+{250}{}{Hemos bloqueado todas las entradas a la parte norte del barrio excepto una. Tengo la llave de esa entrada... por si acaso alguien, por alguna razÃ³n, quisiera entrar allÃ­. No puedo imaginarme porque nadie querrÃ­a hacerlo; desde luego, yo no lo harÃ­a.}
 {251}{}{Interesante, hablemos de otra cosa.}
-{252}{}{Me interesaría conseguir esa llave.}
-{253}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
-{260}{}{Te interesa la caza, ¿eh? (Te mira de arriba a abajo)}
-{261}{}{[MÁS]}
-{270}{}{Yo no lo intentaría si fuera tú. Podrías ensuciarte las manos y salirte callos (je, je, je) ¿Algo más que quieras saber?}
+{252}{}{Me interesarÃ­a conseguir esa llave.}
+{253}{}{Eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{260}{}{Te interesa la caza, Â¿eh? (Te mira de arriba a abajo)}
+{261}{}{[MÃS]}
+{270}{}{Yo no lo intentarÃ­a si fuera tÃº. PodrÃ­as ensuciarte las manos y salirte callos (je, je, je) Â¿Algo mÃ¡s que quieras saber?}
 {271}{}{Bueno, no quiero ensuciarme las manos. Hablemos de otra cosa.}
-{272}{}{Ojala fuera un trampero tan habilidoso como tú. Apuesto a que podrías enseñarme un montón.}
-{273}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
-{280}{}{Bien, parece que podrías arreglártelas tú solo. Los geckos son de dos tipos, normales o dorados. Los normales son fáciles de atrapar y cazar, pero los dorados valen mucho más dinero.}
-{281}{}{Háblame de los geckos dorados.}
-{282}{}{Interesante. Cuéntame más cosas.}
-{283}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
-{290}{}{Los dorados son escurridizos y el doble de feroces que los normales. Además, una vez que te muerden se agarran y te roen la carne hasta el hueso. Y eso sin contar su veneno. Pero sus pieles son realmente bonitas, así que valen mucho más. }
-{291}{}{Cuéntame más.}
-{300}{}{Un trampero verdaderamente bueno, llamado Smiley, fue al norte en busca de donde quiera que vengan. Estaba convencido de que todos venían de un mismo lugar. La cosa es que nadie sabe de él desde hace un par de meses.}
-{301}{}{¿Qué crees que le ha ocurrido?}
-{310}{}{Quizás encontró de dónde venían y se los comió a todos. (je, je, je) Pero te diré una cosa; el corazón de la señora Buckner se quedó roto cuando no volvió. Verás, él era su pretendiente. La señora Buckner es la que lleva Casa Buckner, ya sabes.}
-{311}{}{Interesante. Cuéntame más cosas.}
-{312}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
-{320}{}{Tenemos un montón de coches. Todos están esperando a que sus dueños vuelvan de hacer las compras. La cosa es que, nunca volvieron. Aunque ni uno de ellos funciona. Hay una absoluta belleza de modelo 'Highwayman' de la marca Chrysalis Motors justo al este de aquí, pero todavía no he averiguado como llegar hasta él.}
-{321}{}{¿Un Highwayman? Interesante. Cuéntame más cosas.}
-{322}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
-{330}{}{Suelen saber bastante bien si las asas con un poco de hierbas. Pero la mayoría de las veces pueden ser un completo asco, y se están volviendo peores. Hemos puesto barricadas en la parte norte... del barrio de los tramperos, quiero decir... pero se están colando de todos modos. Hay una puerta a la parte norte, justo aquí, pero la tengo cerrada.}
-{331}{}{En casa, mamá solía freírlas con un poco de mantequilla, pero cuéntame más de los ataques de las ratas.}
-{332}{}{Interesante. Cuéntame otra cosa.}
-{333}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
-{335}{}{Suelen saber bastante bien si las asas con un poco de hierbas. Pero la mayoría de las veces pueden ser un completo asco, y están empeorando. Hemos puesto barricadas en la parte norte del barrio pero se están colando de todos modos. Hay una puerta a la parte norte, justo aquí, pero la tengo cerrada.}
-{336}{}{Bueno, solía haber un problema realmente grande con las ratas por los alrededores, pero últimamente, no hay tantas como antes. Es como si todas se hubieran acojonado y se hubieran largado de aquí.}
-{337}{}{En casa, mamá solía freírlas con un poco de mantequilla, pero cuéntame más de los ataques de las ratas.}
-{340}{}{La gente ha estado desapareciendo. Sólo los lentos o enfermos, por ahora. Por supuesto, no se detienen a cocinar su comida como nosotros. Tan sólo la roen hasta dejar unos pocos trozos sanguinolentos de pelo y trapos. Al menos eso es todo lo que solemos encontrar por la mañana. Incluso he oído hablar de que hay una especie de Dios Rata gigante que les dice lo que deben de hacer.}
-{341}{}{Interesante. Quizás alguien debería hacer algo al respecto. Dime, ¿tienes una llave a la parte norte del barrio de los tramperos?}
-{342}{}{Interesante. Cuéntame otra cosa.}
-{343}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
-{350}{}{Vaya, no es que seas una preciosidad, pero hace mucho tiempo que no... Supongo que puedo darte la llave siempre que tú me des lo que yo quiero. (je, je, je)}
-{351}{}{Vaya, pero si eres una preciosidad, ¿no? Estoy seguro que puedo darte esa llave que tanto quieres. Tú solo dame lo que yo quiero. (je, je, je)}
-{352}{}{Vale, pero espero que te llamen 'Flaco' sólo por tu altura.}
-{353}{}{Eh, eso no es exactamente lo que tenía en mente.}
-{354}{}{Borra esa sonrisa de tu cara. Será mejor que me vaya antes de que resultes herido. Adiós.}
-{360}{}{Podría enseñarte algunas cosas sobre la supervivencia en el Yermo. Pero te va a costar 100 dólares.}
-{361}{}{Siempre me alegra compartir lo que sé con los demás. Podría enseñarte algunas cosas por sólo 50 dólares.}
-{362}{}{Bueno, entonces será mejor que tengas un montón de cosas que enseñarme.}
-{363}{}{Eso es un montón de dinero. Mejor hablemos de otras cosas.}
-{364}{}{No creo que necesite aprender nada nuevo. Adiós.}
-{370}{}{Tu tribu son principalmente granjeros, ¿no? No creo que pueda enseñarte una maldita cosa. }
-{371}{}{Ya soy tan bueno, ¿eh? Bien, entonces hablemos de otra cosa.}
-{372}{}{Entonces creo que me iré. Adiós.}
-{380}{}{Sí, deberías haber aprendido tres o cuatro cosas sobre la vida en el Yermo. Espero que puedas darles buen uso. Recuerda lo de la mierda...}
-{381}{}{Es cierto. La mierda vieja no sabe de la misma forma que la fresca. Gracias, Flaco. Ahora háblame más de esos geckos.}
-{382}{}{Gracias por los consejos, Flaco, pero sigo pensando que oler la mierda es más que suficiente. Tenia otra pregunta en mente.}
-{383}{}{Gracias por la información, Flaco. Iré a ponerla en práctica ahora mismo. Adiós.}
-{390}{}{Háblame de esas ratas.}
+{272}{}{Ojala fuera un trampero tan habilidoso como tÃº. Apuesto a que podrÃ­as enseÃ±arme un montÃ³n.}
+{273}{}{Eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{280}{}{Bien, parece que podrÃ­as arreglÃ¡rtelas tÃº solo. Los geckos son de dos tipos, normales o dorados. Los normales son fÃ¡ciles de atrapar y cazar, pero los dorados valen mucho mÃ¡s dinero.}
+{281}{}{HÃ¡blame de los geckos dorados.}
+{282}{}{Interesante. CuÃ©ntame mÃ¡s cosas.}
+{283}{}{Eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{290}{}{Los dorados son escurridizos y el doble de feroces que los normales. AdemÃ¡s, una vez que te muerden se agarran y te roen la carne hasta el hueso. Y eso sin contar su veneno. Pero sus pieles son realmente bonitas, asÃ­ que valen mucho mÃ¡s. }
+{291}{}{CuÃ©ntame mÃ¡s.}
+{300}{}{Un trampero verdaderamente bueno, llamado Smiley, fue al norte en busca de donde quiera que vengan. Estaba convencido de que todos venÃ­an de un mismo lugar. La cosa es que nadie sabe de Ã©l desde hace un par de meses.}
+{301}{}{Â¿QuÃ© crees que le ha ocurrido?}
+{310}{}{QuizÃ¡s encontrÃ³ de dÃ³nde venÃ­an y se los comiÃ³ a todos. (je, je, je) Pero te dirÃ© una cosa; el corazÃ³n de la seÃ±ora Buckner se quedÃ³ roto cuando no volviÃ³. VerÃ¡s, Ã©l era su pretendiente. La seÃ±ora Buckner es la que lleva Casa Buckner, ya sabes.}
+{311}{}{Interesante. CuÃ©ntame mÃ¡s cosas.}
+{312}{}{Eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{320}{}{Tenemos un montÃ³n de coches. Todos estÃ¡n esperando a que sus dueÃ±os vuelvan de hacer las compras. La cosa es que, nunca volvieron. Aunque ni uno de ellos funciona. Hay una absoluta belleza de modelo 'Highwayman' de la marca Chrysalis Motors justo al este de aquÃ­, pero todavÃ­a no he averiguado como llegar hasta Ã©l.}
+{321}{}{Â¿Un Highwayman? Interesante. CuÃ©ntame mÃ¡s cosas.}
+{322}{}{Eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{330}{}{Suelen saber bastante bien si las asas con un poco de hierbas. Pero la mayorÃ­a de las veces pueden ser un completo asco, y se estÃ¡n volviendo peores. Hemos puesto barricadas en la parte norte... del barrio de los tramperos, quiero decir... pero se estÃ¡n colando de todos modos. Hay una puerta a la parte norte, justo aquÃ­, pero la tengo cerrada.}
+{331}{}{En casa, mamÃ¡ solÃ­a freÃ­rlas con un poco de mantequilla, pero cuÃ©ntame mÃ¡s de los ataques de las ratas.}
+{332}{}{Interesante. CuÃ©ntame otra cosa.}
+{333}{}{Eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{335}{}{Suelen saber bastante bien si las asas con un poco de hierbas. Pero la mayorÃ­a de las veces pueden ser un completo asco, y estÃ¡n empeorando. Hemos puesto barricadas en la parte norte del barrio pero se estÃ¡n colando de todos modos. Hay una puerta a la parte norte, justo aquÃ­, pero la tengo cerrada.}
+{336}{}{Bueno, solÃ­a haber un problema realmente grande con las ratas por los alrededores, pero Ãºltimamente, no hay tantas como antes. Es como si todas se hubieran acojonado y se hubieran largado de aquÃ­.}
+{337}{}{En casa, mamÃ¡ solÃ­a freÃ­rlas con un poco de mantequilla, pero cuÃ©ntame mÃ¡s de los ataques de las ratas.}
+{340}{}{La gente ha estado desapareciendo. SÃ³lo los lentos o enfermos, por ahora. Por supuesto, no se detienen a cocinar su comida como nosotros. Tan sÃ³lo la roen hasta dejar unos pocos trozos sanguinolentos de pelo y trapos. Al menos eso es todo lo que solemos encontrar por la maÃ±ana. Incluso he oÃ­do hablar de que hay una especie de Dios Rata gigante que les dice lo que deben de hacer.}
+{341}{}{Interesante. QuizÃ¡s alguien deberÃ­a hacer algo al respecto. Dime, Â¿tienes una llave a la parte norte del barrio de los tramperos?}
+{342}{}{Interesante. CuÃ©ntame otra cosa.}
+{343}{}{Eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{350}{}{Vaya, no es que seas una preciosidad, pero hace mucho tiempo que no... Supongo que puedo darte la llave siempre que tÃº me des lo que yo quiero. (je, je, je)}
+{351}{}{Vaya, pero si eres una preciosidad, Â¿no? Estoy seguro que puedo darte esa llave que tanto quieres. TÃº solo dame lo que yo quiero. (je, je, je)}
+{352}{}{Vale, pero espero que te llamen 'Flaco' sÃ³lo por tu altura.}
+{353}{}{Eh, eso no es exactamente lo que tenÃ­a en mente.}
+{354}{}{Borra esa sonrisa de tu cara. SerÃ¡ mejor que me vaya antes de que resultes herido. AdiÃ³s.}
+{360}{}{PodrÃ­a enseÃ±arte algunas cosas sobre la supervivencia en el Yermo. Pero te va a costar 100 dÃ³lares.}
+{361}{}{Siempre me alegra compartir lo que sÃ© con los demÃ¡s. PodrÃ­a enseÃ±arte algunas cosas por sÃ³lo 50 dÃ³lares.}
+{362}{}{Bueno, entonces serÃ¡ mejor que tengas un montÃ³n de cosas que enseÃ±arme.}
+{363}{}{Eso es un montÃ³n de dinero. Mejor hablemos de otras cosas.}
+{364}{}{No creo que necesite aprender nada nuevo. AdiÃ³s.}
+{370}{}{Tu tribu son principalmente granjeros, Â¿no? No creo que pueda enseÃ±arte una maldita cosa. }
+{371}{}{Ya soy tan bueno, Â¿eh? Bien, entonces hablemos de otra cosa.}
+{372}{}{Entonces creo que me irÃ©. AdiÃ³s.}
+{380}{}{SÃ­, deberÃ­as haber aprendido tres o cuatro cosas sobre la vida en el Yermo. Espero que puedas darles buen uso. Recuerda lo de la mierda...}
+{381}{}{Es cierto. La mierda vieja no sabe de la misma forma que la fresca. Gracias, Flaco. Ahora hÃ¡blame mÃ¡s de esos geckos.}
+{382}{}{Gracias por los consejos, Flaco, pero sigo pensando que oler la mierda es mÃ¡s que suficiente. Tenia otra pregunta en mente.}
+{383}{}{Gracias por la informaciÃ³n, Flaco. IrÃ© a ponerla en prÃ¡ctica ahora mismo. AdiÃ³s.}
+{390}{}{HÃ¡blame de esas ratas.}
 {400}{}{Le has dado una buena a esas ratas.}
-{401}{}{Hola. Me alegra vivir en un há-bi-tat libre de ratas.}
-{402}{}{Sí. Hay menos ratas que nunca.}
-{403}{}{Me pregunto que le habrá pasado a esas ratas.}
+{401}{}{Hola. Me alegra vivir en un hÃ¡-bi-tat libre de ratas.}
+{402}{}{SÃ­. Hay menos ratas que nunca.}
+{403}{}{Me pregunto que le habrÃ¡ pasado a esas ratas.}
 {404}{}{Que se vaya al diablo esa basura roedora.}
-{405}{}{Tú eres un flautista mágico, ¿no? Gracias.}
-{406}{}{Ni de broma. Tan sólo te daré esta llave a cambio de algo. No hay más que hablar.}
+{405}{}{TÃº eres un flautista mÃ¡gico, Â¿no? Gracias.}
+{406}{}{Ni de broma. Tan sÃ³lo te darÃ© esta llave a cambio de algo. No hay mÃ¡s que hablar.}

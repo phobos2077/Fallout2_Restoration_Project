@@ -1,1 +1,1 @@
-{100}{}{Jesteú w Dzielnicy Rady w Kryptopolis.}
+{100}{}{Jeste≈õ w Dzielnicy Rady w Kryptopolis.}

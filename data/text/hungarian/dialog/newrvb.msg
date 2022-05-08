@@ -1,45 +1,45 @@
-{100}{}{Megérkeztél a New Renót körülvev? sivatagba.}
-{110}{}{Egy rakás ládát látsz, melyekbe vegyi anyagokat pakoltak.}
-{120}{}{Egy rakás ládát látsz, melyekbe vegyi anyagokat pakoltak. Nem tudod ?ket beazonosítani, de a csomagolás *szerfelett* gondos.}
-{130}{}{Ez itt egy Gépmadár.}
-{140}{}{Ez itt egy Gépmadár... a helikopter továbbfejlesztett változata. Sajnos g?zöd sincs, hogy lehetne elvezetni.}
-{150}{}{Sajnos g?zöd sincs, hogy lehetne elvezetni.}
-{200}{}{(Ezekt?l a srácoktól összecsinálom magam...)}
-{201}{}{(Pofa be! Ott jönnek.)}
-{202}{}{*Zzttt* Maguknál van az igényelt áru? *Zzzttt*}
-{203}{}{Igen, az összes vegyi anyag itt van. Ha gondolja, ellen?rizze le!}
-{204}{}{*Zztttt* Erre nincs szükség. *Zzzttt*}
-{205}{}{*Zztttt* Azt tudja, mi történik abban az esetben, ha a vegyi anyagok min?sége nem üti meg a kívánt mértéket? *Zzzttt*}
-{206}{}{Hogyne, természetesen. Ööö... és maguk hozták a fényhozókat...?}
-{207}{}{*Zztttt* A lézerfegyverek a rakodóterünkben vannak. *Zzzttt*}
+{100}{}{MegÃ©rkeztÃ©l a New RenÃ³t kÃ¶rÃ¼lvev? sivatagba.}
+{110}{}{Egy rakÃ¡s lÃ¡dÃ¡t lÃ¡tsz, melyekbe vegyi anyagokat pakoltak.}
+{120}{}{Egy rakÃ¡s lÃ¡dÃ¡t lÃ¡tsz, melyekbe vegyi anyagokat pakoltak. Nem tudod ?ket beazonosÃ­tani, de a csomagolÃ¡s *szerfelett* gondos.}
+{130}{}{Ez itt egy GÃ©pmadÃ¡r.}
+{140}{}{Ez itt egy GÃ©pmadÃ¡r... a helikopter tovÃ¡bbfejlesztett vÃ¡ltozata. Sajnos g?zÃ¶d sincs, hogy lehetne elvezetni.}
+{150}{}{Sajnos g?zÃ¶d sincs, hogy lehetne elvezetni.}
+{200}{}{(Ezekt?l a srÃ¡coktÃ³l Ã¶sszecsinÃ¡lom magam...)}
+{201}{}{(Pofa be! Ott jÃ¶nnek.)}
+{202}{}{*Zzttt* MaguknÃ¡l van az igÃ©nyelt Ã¡ru? *Zzzttt*}
+{203}{}{Igen, az Ã¶sszes vegyi anyag itt van. Ha gondolja, ellen?rizze le!}
+{204}{}{*Zztttt* Erre nincs szÃ¼ksÃ©g. *Zzzttt*}
+{205}{}{*Zztttt* Azt tudja, mi tÃ¶rtÃ©nik abban az esetben, ha a vegyi anyagok min?sÃ©ge nem Ã¼ti meg a kÃ­vÃ¡nt mÃ©rtÃ©ket? *Zzzttt*}
+{206}{}{Hogyne, termÃ©szetesen. Ã–Ã¶Ã¶... Ã©s maguk hoztÃ¡k a fÃ©nyhozÃ³kat...?}
+{207}{}{*Zztttt* A lÃ©zerfegyverek a rakodÃ³terÃ¼nkben vannak. *Zzzttt*}
 {208}{}{*Zztttt* To ensure your cooperation, we will transmit the arming sequence for them
  once the chemicals are loaded. *Zzzttt*}
-{209}{}{Ööö... hát... akkor rendben. Rakodás indul, fiúk...}
-{210}{}{*Zztttt* Megállni! *Zztttt*}
-{211}{}{*Zztttt* A rakományt mi pakoljuk át. *Zztttt*}
-{212}{}{Öö, rendben... rendben. Természetesen. Adjatok helyet, fiúk!}
-{213}{}{Kész! Itt rendben vagyunk. A többi ?rnek irány vissza Renóba! Ott találkozunk.}
-{250}{}{Odanézzetek! Valaki kifigyelt bennünket!}
-{251}{}{Megölni!}
-{252}{}{Úgy t?nik, valaki kémkedik utánunk...!}
-{253}{}{*Zztttt* Küldetés lefújva! A rakomány vészhelyzeti kódját aktiváltam. *Zztttt*}
-{254}{}{*Zztttt* Küzdjék le az ellenséges er?ket, aztán irány a bázis! *Zztttt*}
-{300}{}{Nem kéne közel menni azokhoz a páncélozott faszikhoz! Mindent szecskává aprítanak.}
+{209}{}{Ã–Ã¶Ã¶... hÃ¡t... akkor rendben. RakodÃ¡s indul, fiÃºk...}
+{210}{}{*Zztttt* MegÃ¡llni! *Zztttt*}
+{211}{}{*Zztttt* A rakomÃ¡nyt mi pakoljuk Ã¡t. *Zztttt*}
+{212}{}{Ã–Ã¶, rendben... rendben. TermÃ©szetesen. Adjatok helyet, fiÃºk!}
+{213}{}{KÃ©sz! Itt rendben vagyunk. A tÃ¶bbi ?rnek irÃ¡ny vissza RenÃ³ba! Ott talÃ¡lkozunk.}
+{250}{}{OdanÃ©zzetek! Valaki kifigyelt bennÃ¼nket!}
+{251}{}{MegÃ¶lni!}
+{252}{}{Ãšgy t?nik, valaki kÃ©mkedik utÃ¡nunk...!}
+{253}{}{*Zztttt* KÃ¼ldetÃ©s lefÃºjva! A rakomÃ¡ny vÃ©szhelyzeti kÃ³djÃ¡t aktivÃ¡ltam. *Zztttt*}
+{254}{}{*Zztttt* KÃ¼zdjÃ©k le az ellensÃ©ges er?ket, aztÃ¡n irÃ¡ny a bÃ¡zis! *Zztttt*}
+{300}{}{Nem kÃ©ne kÃ¶zel menni azokhoz a pÃ¡ncÃ©lozott faszikhoz! Mindent szecskÃ¡vÃ¡ aprÃ­tanak.}
 {301}{}{Menj vissza a helyedre!}
-{302}{}{Ne izegj-mozogj... azok a páncélos fickók nem nagyon szeretik ezt!}
-{350}{}{Francba! Mit csinálsz, faszkalap?}
-{351}{}{Menjen vissza a posztjára! Mi a jó francot csinál maga...?!}
-{352}{}{*Zztttt* Küldetés lefújva! A rakomány vészhelyzeti kódját aktiváltam. *Zztttt*}
-{353}{}{*Zztttt* Küzdjék le az ellenséges er?ket, aztán irány a bázis! *Zztttt*}
-{400}{}{[Úgy t?nik, ez egy ajtó. Kinyitod és bemászol?]}
+{302}{}{Ne izegj-mozogj... azok a pÃ¡ncÃ©los fickÃ³k nem nagyon szeretik ezt!}
+{350}{}{Francba! Mit csinÃ¡lsz, faszkalap?}
+{351}{}{Menjen vissza a posztjÃ¡ra! Mi a jÃ³ francot csinÃ¡l maga...?!}
+{352}{}{*Zztttt* KÃ¼ldetÃ©s lefÃºjva! A rakomÃ¡ny vÃ©szhelyzeti kÃ³djÃ¡t aktivÃ¡ltam. *Zztttt*}
+{353}{}{*Zztttt* KÃ¼zdjÃ©k le az ellensÃ©ges er?ket, aztÃ¡n irÃ¡ny a bÃ¡zis! *Zztttt*}
+{400}{}{[Ãšgy t?nik, ez egy ajtÃ³. Kinyitod Ã©s bemÃ¡szol?]}
 {401}{}{Ja}
-{402}{}{Elpályázol}
-{403}{}{Beszállsz a Gépmadárba.}
-{404}{}{Békén hagyom.}
+{402}{}{ElpÃ¡lyÃ¡zol}
+{403}{}{BeszÃ¡llsz a GÃ©pmadÃ¡rba.}
+{404}{}{BÃ©kÃ©n hagyom.}
 {450}{}{[Once you climb inside the cargo hold, the door seals behind you! You attempt to force it open, but it won't
  budge. As you try to think of a way out, you hear the armored soldiers board the Vertibird, which then takes off with
  you trapped inside!]}
 {451}{}{Ajjaj}
-{452}{}{Ó, a francba...}
-{500}{}{A ládák csupa nehézfém tartállyal vannak tele. A csomagolás gondosságából ítélve azt gyanítod, hogy valami veszélyes vegyianyagról lehet szó.}
-{550}{}{A helyzet kevéssé alkalmas arra, hogy beszélgetésbe elegyedj.}
+{452}{}{Ã“, a francba...}
+{500}{}{A lÃ¡dÃ¡k csupa nehÃ©zfÃ©m tartÃ¡llyal vannak tele. A csomagolÃ¡s gondossÃ¡gÃ¡bÃ³l Ã­tÃ©lve azt gyanÃ­tod, hogy valami veszÃ©lyes vegyianyagrÃ³l lehet szÃ³.}
+{550}{}{A helyzet kevÃ©ssÃ© alkalmas arra, hogy beszÃ©lgetÃ©sbe elegyedj.}

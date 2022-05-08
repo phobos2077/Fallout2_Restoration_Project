@@ -1,1 +1,1 @@
-{100}{}{Este armario es bloquear electrónicamente. No hay manera de desbloquearlo desde aquí.}
+{100}{}{Este armario es bloquear electrÃ³nicamente. No hay manera de desbloquearlo desde aquÃ­.}

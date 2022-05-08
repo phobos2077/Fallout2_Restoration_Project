@@ -1,2 +1,2 @@
-{100}{}{Tu vois une épitaphe.}
-{101}{}{Ci-gît le grand Per : auteur, créateur des guides, collectionneur de cailloux. Hélas, il est mort une pierre trop tôt.}
+{100}{}{Tu vois une Ã©pitaphe.}
+{101}{}{Ci-gÃ®t le grand Per : auteur, crÃ©ateur des guides, collectionneur de cailloux. HÃ©las, il est mort une pierre trop tÃ´t.}

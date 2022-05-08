@@ -1,72 +1,72 @@
-{100}{}{Widzisz starego cz³owieka.}
+{100}{}{Widzisz starego czÅ‚owieka.}
 {101}{}{Widzisz Corneliusa.}
-{102}{}{Poza odrobinê niespokojnym wyrazem twarzy nie ma w nim nic niezwyk³ego.}
-{150}{}{Witaj w Pensjonacie Rose. Mam na imiê Rose - znaczy... Cornelius - i prowadzê ten pensjonat. W czym mogê ci pomóc?}
-{151}{}{Jeœli prowadzisz pensjonat, dlaczego nazywa siê Pensjonat ROSE?}
-{152}{}{Szukam z³otego zegarka.}
-{153}{}{Czym siê tutaj zajmujesz?}
+{102}{}{Poza odrobinÄ™ niespokojnym wyrazem twarzy nie ma w nim nic niezwykÅ‚ego.}
+{150}{}{Witaj w Pensjonacie Rose. Mam na imiÄ™ Rose - znaczy... Cornelius - i prowadzÄ™ ten pensjonat. W czym mogÄ™ ci pomÃ³c?}
+{151}{}{JeÅ›li prowadzisz pensjonat, dlaczego nazywa siÄ™ Pensjonat ROSE?}
+{152}{}{Szukam zÅ‚otego zegarka.}
+{153}{}{Czym siÄ™ tutaj zajmujesz?}
 {154}{}{Kim jest Rose?}
 {155}{}{Szukam pokoju.}
-{156}{}{Pytania? Czy ja ciebie o coœ pyta³em? Witam, mam na imiê Cornelius.}
-{162}{}{Potrzebujesz powa¿nej pomocy, stary cz³owieku.}
-{163}{}{Farrel trzyma twój zegarek w sejfie. Powieœmy go.}
-{164}{}{Twój zegarek by³ w domu Farrela. Mia³eœ racjê, Farrel jest z³odziejem.}
-{165}{}{Zdaje siê, ¿e jakiœ pracowity szczur zwia³ z twoim zegarkiem - by³ w jego gnieŸdzie.}
-{166}{}{Czo³em! Czy myœmy siê ju¿ spotkali?}
-{176}{}{Mój Bo¿e! Ktoœ zabi³ mojego najlepszego przyjaciela, Farrela! Ca³e miasto szuka mordercy. Jak go znajdziemy, to zlinczujemy psubrata!}
-{177}{}{Zosta³ zabity przeze mnie. Co masz zamiar z tym zrobiæ, pomylony starcze?}
-{178}{}{Rany! Która to ju¿ godzina. Muszê lecieæ.}
-{179}{}{Rose jest moj¹ ¿on¹. Nazwa³em to miejsce jej imieniem. Wiesz, ¿e jestem ¿onaty?}
-{180}{}{Mogê zadaæ jeszcze kilka pytañ?}
-{181}{}{DLACZEGO NIE SPYTASZ TEGO NIEDOBREGO FARRELA!? MO¯E SPRZEDA CI ZEGAREK, KTÓRY MI UKRAD£! Teraz, jeœli pozwolisz, jestem nieco zajêty. Muszê ogoliæ braminê.}
-{182}{}{Prowadzê ten motel. Taak, to miejsce ju¿ by siê dawno rozlecia³o, gdyby nie ja. A wychodek? Najczystszy wychodek, w jakim zdarzy³o ci siê byæ. To moja robota.}
+{156}{}{Pytania? Czy ja ciebie o coÅ› pytaÅ‚em? Witam, mam na imiÄ™ Cornelius.}
+{162}{}{Potrzebujesz powaÅ¼nej pomocy, stary czÅ‚owieku.}
+{163}{}{Farrel trzyma twÃ³j zegarek w sejfie. PowieÅ›my go.}
+{164}{}{TwÃ³j zegarek byÅ‚ w domu Farrela. MiaÅ‚eÅ› racjÄ™, Farrel jest zÅ‚odziejem.}
+{165}{}{Zdaje siÄ™, Å¼e jakiÅ› pracowity szczur zwiaÅ‚ z twoim zegarkiem - byÅ‚ w jego gnieÅºdzie.}
+{166}{}{CzoÅ‚em! Czy myÅ›my siÄ™ juÅ¼ spotkali?}
+{176}{}{MÃ³j BoÅ¼e! KtoÅ› zabiÅ‚ mojego najlepszego przyjaciela, Farrela! CaÅ‚e miasto szuka mordercy. Jak go znajdziemy, to zlinczujemy psubrata!}
+{177}{}{ZostaÅ‚ zabity przeze mnie. Co masz zamiar z tym zrobiÄ‡, pomylony starcze?}
+{178}{}{Rany! KtÃ³ra to juÅ¼ godzina. MuszÄ™ lecieÄ‡.}
+{179}{}{Rose jest mojÄ… Å¼onÄ…. NazwaÅ‚em to miejsce jej imieniem. Wiesz, Å¼e jestem Å¼onaty?}
+{180}{}{MogÄ™ zadaÄ‡ jeszcze kilka pytaÅ„?}
+{181}{}{DLACZEGO NIE SPYTASZ TEGO NIEDOBREGO FARRELA!? MOÅ»E SPRZEDA CI ZEGAREK, KTÃ“RY MI UKRADÅ! Teraz, jeÅ›li pozwolisz, jestem nieco zajÄ™ty. MuszÄ™ ogoliÄ‡ braminÄ™.}
+{182}{}{ProwadzÄ™ ten motel. Taak, to miejsce juÅ¼ by siÄ™ dawno rozleciaÅ‚o, gdyby nie ja. A wychodek? Najczystszy wychodek, w jakim zdarzyÅ‚o ci siÄ™ byÄ‡. To moja robota.}
 {183}{}{Co ma czysty wychodek do prowadzenia motelu?}
-{184}{}{Rose to moja ¿ona. Prowadzi kuchniê. Nigdzie nie znajdziesz lepszego jedzenia. Rose, jest taka piêkna. Kiedyœ siê z ni¹ o¿eniê.}
-{185}{}{Czy nie powiedzia³eœ przed chwil¹, ¿e Rose jest twoj¹ ¿on¹?}
-{186}{}{Ja mam pokój. Œpiê tam. A ty gdzie œpisz?}
-{187}{}{Chyba siê nie rozumiemy. Chcê wynaj¹æ pokój na noc.}
-{188}{}{Jakiœ czas temu, nie pamiêtam kiedy... mój najlepszy przyjaciel od 30... a mo¿e 40 lat? Niewa¿ne, wa¿ne jest to, ¿e ukrad³ mój cenny, z³oty zegarek. By³ on przekazywany w mojej rodzinie od piêciu, nie - szeœciu, eee... czterech pokoleñ. Tak, dok³adnie pamiêtam, po³o¿y³em go na moim biurku. I kiedy popatrzy³em na stó³ kuchenny, ju¿ go nie by³o.}
-{189}{}{Dobrze, odnajdê ten zegarek.}
-{190}{}{Próbowa³eœ szukaæ na swoim biurku?}
-{191}{}{Pomo¿esz mi? Wspaniale! IdŸ, pobij Farrela i odzyskaj mój zegarek. Prawdopodobnie dobrze go ukry³. Zrób z jego domu wióry i znajdŸ zegarek.}
-{192}{}{O czym ty mówisz?}
-{193}{}{S³uchaj, nie chcê siê w to mieszaæ.}
-{194}{}{Zabiæ Farrela, odzyskaæ zegarek... kapujê. Zaraz wracam.}
-{195}{}{Zabiæ Farrela? Kto chce zabiæ Farrela? To mój najlepszy kumpel! Osobiœcie powieszê ³ajdaka, który spróbuje zabiæ Farrela.}
-{196}{}{Przyjmujê robotê i oczekujê zap³aty po jej wykonaniu.}
-{197}{}{Nie wytrzymam tego d³u¿ej. Wychodzê.}
-{198}{}{Oczywiœcie, zap³acê ci. Jak tylko skoñczysz wymiataæ stodo³ê, przyjdŸ do mnie.}
-{199}{}{Mam zegarek. To by³ z³oty zegarek. Zastanawiam siê, gdzie go podzia³em?}
-{200}{}{Tak, tak, tak. Szuka³em ju¿ w szufladzie ze skarpetkami. Tam te¿ go nie ma.}
-{201}{}{Porozgl¹dam siê za tym zegarkiem, dopóki jestem w mieœcie.}
-{202}{}{Nie ma sposobu, aby poratowaæ takiego starego szaleñca, jak ty. Wynoszê siê st¹d.}
-{203}{}{Wiedzia³em, ¿e nie mogê mu ufaæ! Powieszê go za uszy, a¿ odda mi mój zegarek.}
-{204}{}{Tam nic nie ma. Szeryf Jo i ja ju¿ tam zagl¹daliœmy.}
-{206}{}{Zrobi³ to? Wiedzia³em! Dam mu nauczkê, której nie zapomni nigdy. Lepiej zostañ tu, bo mo¿esz przypadkiem oberwaæ.}
-{207}{}{To mój zegarek! Co ty z nim robisz? Oddawaj go! [Wyrywa ci zegarek z r¹k.] Lepiej sobie ju¿ idŸ. Niezbyt dobrze traktujemy tu z³odziei.}
-{208}{}{I masz tu, cz³owieku, wdziêcznoœæ.}
-{209}{}{Musisz spróbowaæ omletów Rose. S¹ przepyszne.}
-{210}{}{Widzia³em Jonny'ego bawi¹cego siê przy studni ze swym psem, Laddiem. Co za mi³e dziecko.}
-{211}{}{Nie idŸ na Nawiedzona Farmê, no chyba, ¿e ju¿ ci siê znudzi³o ¿ycie.}
-{212}{}{Miria to mi³a dziewczyna. Kiedy by³a ma³a, bawiliœmy siê razem w doktora.}
-{213}{}{Davin to mi³y dzieciak. Ciekawe, czemu nie jest w ogóle podobny do swego ojca?}
-{214}{}{Siedzê sobie pewnego razu na kibelku, a tu ze œcieku wy³azi ogromny pies. O ma³o nie zesra³em siê na œmieræ.}
-{215}{}{Grisham to mi³y goœæ. Sprzedaje nam resztki dla kurczaka giganta.}
-{216}{}{Trzymaj siê z dala od szopy z drobiem! Prawie straci³em rêkê podczas karmienia tego czegoœ.}
-{217}{}{Psy Rose s¹ dzikie, ale rzucam im trochê suszonego miêsa i nie zwracaj¹ ju¿ na mnie uwagi.}
-{218}{}{Farrel jest moim najlepszym kumplem na ca³ym œwiecie.}
-{219}{}{Laddie to m¹dry pies. Ca³y czas z nim rozmawiam.}
-{220}{}{S³ysza³em, ¿e Grisham chce po¿eniæ swoje dzieci. Ciekaw jestem, czy Rose mia³aby coœ przeciwko, gdybym wzi¹³ sobie drug¹ ¿onê.}
-{222}{}{Pokiemon tazos? Co w³aœciwie sta³o siê z t¹ gr¹? No có¿, muszê iœæ. Mo¿e zagramy póŸniej.}
-{223}{}{ZNALAZ£EM MORDERCÊ! PRZYZNA£ SIÊ, ¯E ZABI£ FARRELA! BIERZMY GO!}
-{224}{}{ZNALAZ£EM MORDERCZYNIÊ! PRZYZNA£A SIÊ, ¯E ZABI£A FARRELA! BIERZMY J¥!}
-{225}{}{Moja zabiæ Farrel.}
-{300}{}{[Hmmm... Zdaje siê, ¿e trzeba znaleŸæ pewne s³owa - klucze.] Rose... Pokój... Prowadziæ...}
+{184}{}{Rose to moja Å¼ona. Prowadzi kuchniÄ™. Nigdzie nie znajdziesz lepszego jedzenia. Rose, jest taka piÄ™kna. KiedyÅ› siÄ™ z niÄ… oÅ¼eniÄ™.}
+{185}{}{Czy nie powiedziaÅ‚eÅ› przed chwilÄ…, Å¼e Rose jest twojÄ… Å¼onÄ…?}
+{186}{}{Ja mam pokÃ³j. ÅšpiÄ™ tam. A ty gdzie Å›pisz?}
+{187}{}{Chyba siÄ™ nie rozumiemy. ChcÄ™ wynajÄ…Ä‡ pokÃ³j na noc.}
+{188}{}{JakiÅ› czas temu, nie pamiÄ™tam kiedy... mÃ³j najlepszy przyjaciel od 30... a moÅ¼e 40 lat? NiewaÅ¼ne, waÅ¼ne jest to, Å¼e ukradÅ‚ mÃ³j cenny, zÅ‚oty zegarek. ByÅ‚ on przekazywany w mojej rodzinie od piÄ™ciu, nie - szeÅ›ciu, eee... czterech pokoleÅ„. Tak, dokÅ‚adnie pamiÄ™tam, poÅ‚oÅ¼yÅ‚em go na moim biurku. I kiedy popatrzyÅ‚em na stÃ³Å‚ kuchenny, juÅ¼ go nie byÅ‚o.}
+{189}{}{Dobrze, odnajdÄ™ ten zegarek.}
+{190}{}{PrÃ³bowaÅ‚eÅ› szukaÄ‡ na swoim biurku?}
+{191}{}{PomoÅ¼esz mi? Wspaniale! IdÅº, pobij Farrela i odzyskaj mÃ³j zegarek. Prawdopodobnie dobrze go ukryÅ‚. ZrÃ³b z jego domu wiÃ³ry i znajdÅº zegarek.}
+{192}{}{O czym ty mÃ³wisz?}
+{193}{}{SÅ‚uchaj, nie chcÄ™ siÄ™ w to mieszaÄ‡.}
+{194}{}{ZabiÄ‡ Farrela, odzyskaÄ‡ zegarek... kapujÄ™. Zaraz wracam.}
+{195}{}{ZabiÄ‡ Farrela? Kto chce zabiÄ‡ Farrela? To mÃ³j najlepszy kumpel! OsobiÅ›cie powieszÄ™ Å‚ajdaka, ktÃ³ry sprÃ³buje zabiÄ‡ Farrela.}
+{196}{}{PrzyjmujÄ™ robotÄ™ i oczekujÄ™ zapÅ‚aty po jej wykonaniu.}
+{197}{}{Nie wytrzymam tego dÅ‚uÅ¼ej. WychodzÄ™.}
+{198}{}{OczywiÅ›cie, zapÅ‚acÄ™ ci. Jak tylko skoÅ„czysz wymiataÄ‡ stodoÅ‚Ä™, przyjdÅº do mnie.}
+{199}{}{Mam zegarek. To byÅ‚ zÅ‚oty zegarek. Zastanawiam siÄ™, gdzie go podziaÅ‚em?}
+{200}{}{Tak, tak, tak. SzukaÅ‚em juÅ¼ w szufladzie ze skarpetkami. Tam teÅ¼ go nie ma.}
+{201}{}{PorozglÄ…dam siÄ™ za tym zegarkiem, dopÃ³ki jestem w mieÅ›cie.}
+{202}{}{Nie ma sposobu, aby poratowaÄ‡ takiego starego szaleÅ„ca, jak ty. WynoszÄ™ siÄ™ stÄ…d.}
+{203}{}{WiedziaÅ‚em, Å¼e nie mogÄ™ mu ufaÄ‡! PowieszÄ™ go za uszy, aÅ¼ odda mi mÃ³j zegarek.}
+{204}{}{Tam nic nie ma. Szeryf Jo i ja juÅ¼ tam zaglÄ…daliÅ›my.}
+{206}{}{ZrobiÅ‚ to? WiedziaÅ‚em! Dam mu nauczkÄ™, ktÃ³rej nie zapomni nigdy. Lepiej zostaÅ„ tu, bo moÅ¼esz przypadkiem oberwaÄ‡.}
+{207}{}{To mÃ³j zegarek! Co ty z nim robisz? Oddawaj go! [Wyrywa ci zegarek z rÄ…k.] Lepiej sobie juÅ¼ idÅº. Niezbyt dobrze traktujemy tu zÅ‚odziei.}
+{208}{}{I masz tu, czÅ‚owieku, wdziÄ™cznoÅ›Ä‡.}
+{209}{}{Musisz sprÃ³bowaÄ‡ omletÃ³w Rose. SÄ… przepyszne.}
+{210}{}{WidziaÅ‚em Jonny'ego bawiÄ…cego siÄ™ przy studni ze swym psem, Laddiem. Co za miÅ‚e dziecko.}
+{211}{}{Nie idÅº na Nawiedzona FarmÄ™, no chyba, Å¼e juÅ¼ ci siÄ™ znudziÅ‚o Å¼ycie.}
+{212}{}{Miria to miÅ‚a dziewczyna. Kiedy byÅ‚a maÅ‚a, bawiliÅ›my siÄ™ razem w doktora.}
+{213}{}{Davin to miÅ‚y dzieciak. Ciekawe, czemu nie jest w ogÃ³le podobny do swego ojca?}
+{214}{}{SiedzÄ™ sobie pewnego razu na kibelku, a tu ze Å›cieku wyÅ‚azi ogromny pies. O maÅ‚o nie zesraÅ‚em siÄ™ na Å›mierÄ‡.}
+{215}{}{Grisham to miÅ‚y goÅ›Ä‡. Sprzedaje nam resztki dla kurczaka giganta.}
+{216}{}{Trzymaj siÄ™ z dala od szopy z drobiem! Prawie straciÅ‚em rÄ™kÄ™ podczas karmienia tego czegoÅ›.}
+{217}{}{Psy Rose sÄ… dzikie, ale rzucam im trochÄ™ suszonego miÄ™sa i nie zwracajÄ… juÅ¼ na mnie uwagi.}
+{218}{}{Farrel jest moim najlepszym kumplem na caÅ‚ym Å›wiecie.}
+{219}{}{Laddie to mÄ…dry pies. CaÅ‚y czas z nim rozmawiam.}
+{220}{}{SÅ‚yszaÅ‚em, Å¼e Grisham chce poÅ¼eniÄ‡ swoje dzieci. Ciekaw jestem, czy Rose miaÅ‚aby coÅ› przeciwko, gdybym wziÄ…Å‚ sobie drugÄ… Å¼onÄ™.}
+{222}{}{Pokiemon tazos? Co wÅ‚aÅ›ciwie staÅ‚o siÄ™ z tÄ… grÄ…? No cÃ³Å¼, muszÄ™ iÅ›Ä‡. MoÅ¼e zagramy pÃ³Åºniej.}
+{223}{}{ZNALAZÅEM MORDERCÄ˜! PRZYZNAÅ SIÄ˜, Å»E ZABIÅ FARRELA! BIERZMY GO!}
+{224}{}{ZNALAZÅEM MORDERCZYNIÄ˜! PRZYZNAÅA SIÄ˜, Å»E ZABIÅA FARRELA! BIERZMY JÄ„!}
+{225}{}{Moja zabiÄ‡ Farrel.}
+{300}{}{[Hmmm... Zdaje siÄ™, Å¼e trzeba znaleÅºÄ‡ pewne sÅ‚owa - klucze.] Rose... PokÃ³j... ProwadziÄ‡...}
 {301}{}{Uuga.}
-{501}{}{Zawsze wiedzia³em, ¿e to ty jesteœ z³odziejem!}
-{502}{}{Jak mog³eœ zrobiæ coœ takiego swojemu najlepszemu przyjacielowi!}
-{503}{}{Zabijê ciê!}
-{504}{}{Zawieszê sobie twoj¹ g³owê na œcianie!}
-{550}{}{Wydaje siê, ¿e jest teraz trochê zajêty.}
-{600}{}{Uda³o ci siê zwróciæ zegarek Corneliusowi.}
-{650}{}{Uda³o ci siê rozwi¹zaæ spór pomiêdzy Corneliusem i Farrelem.}
+{501}{}{Zawsze wiedziaÅ‚em, Å¼e to ty jesteÅ› zÅ‚odziejem!}
+{502}{}{Jak mogÅ‚eÅ› zrobiÄ‡ coÅ› takiego swojemu najlepszemu przyjacielowi!}
+{503}{}{ZabijÄ™ ciÄ™!}
+{504}{}{ZawieszÄ™ sobie twojÄ… gÅ‚owÄ™ na Å›cianie!}
+{550}{}{Wydaje siÄ™, Å¼e jest teraz trochÄ™ zajÄ™ty.}
+{600}{}{UdaÅ‚o ci siÄ™ zwrÃ³ciÄ‡ zegarek Corneliusowi.}
+{650}{}{UdaÅ‚o ci siÄ™ rozwiÄ…zaÄ‡ spÃ³r pomiÄ™dzy Corneliusem i Farrelem.}

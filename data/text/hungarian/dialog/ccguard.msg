@@ -1,20 +1,20 @@
-{100}{}{Egy fényes bádogembert látsz.}
-{101}{}{Egy katonát látsz, aki er?páncélt visel.}
-{102}{}{Egy katonát látsz (szerinted) az er?páncél új verziójában.}
-{103}{}{El tudod ezt képzelni? Már megint csellóra osztottak be!}
-{104}{}{Úgy szól a pletyka, hogy az öreg visszamegy SF-be.}
-{105}{}{Picsába ezzel a várakozással! Azt mondom, irtsuk ki az összes primitív barmot és legyünk már túl ezen az egészen!}
-{106}{}{Van tüzed? Ja várj, mindegy. Már megtaláltam.}
-{107}{}{Este nagy kockázást nyomunk a hangár mögött. Csak a parancsnok meg ne tudja!}
-{108}{}{Ki a...? <zzzt> Behatolók!}
-{109}{}{Te ott! Állj meg!}
-{110}{}{Behatoló a bázison!}
-{111}{}{Várj, te... -ah, semmi, bocs.}
-{112}{}{Figyelj, remélem, tudod magad azonosítani. Ett?l a hamis riadótól mindenkinek viszket az ujja a ravaszon.}
-{113}{}{Ugye te idevaló vagy?! Ezekt?l a hamis riadóktól meg?rülök!}
-{114}{}{Ott vannak a behatolók! Kapjátok el ?ket!}
-{115}{}{Ott van egy behatoló!}
-{116}{}{Ott van, ni! Ne hagyjátok meglépni!}
-{117}{}{Megtámadtak bennünket! Küldjetek er?sítést!}
-{118}{}{Ne engedjétek, hogy eljusson a kapuig!}
+{100}{}{Egy fÃ©nyes bÃ¡dogembert lÃ¡tsz.}
+{101}{}{Egy katonÃ¡t lÃ¡tsz, aki er?pÃ¡ncÃ©lt visel.}
+{102}{}{Egy katonÃ¡t lÃ¡tsz (szerinted) az er?pÃ¡ncÃ©l Ãºj verziÃ³jÃ¡ban.}
+{103}{}{El tudod ezt kÃ©pzelni? MÃ¡r megint csellÃ³ra osztottak be!}
+{104}{}{Ãšgy szÃ³l a pletyka, hogy az Ã¶reg visszamegy SF-be.}
+{105}{}{PicsÃ¡ba ezzel a vÃ¡rakozÃ¡ssal! Azt mondom, irtsuk ki az Ã¶sszes primitÃ­v barmot Ã©s legyÃ¼nk mÃ¡r tÃºl ezen az egÃ©szen!}
+{106}{}{Van tÃ¼zed? Ja vÃ¡rj, mindegy. MÃ¡r megtalÃ¡ltam.}
+{107}{}{Este nagy kockÃ¡zÃ¡st nyomunk a hangÃ¡r mÃ¶gÃ¶tt. Csak a parancsnok meg ne tudja!}
+{108}{}{Ki a...? <zzzt> BehatolÃ³k!}
+{109}{}{Te ott! Ãllj meg!}
+{110}{}{BehatolÃ³ a bÃ¡zison!}
+{111}{}{VÃ¡rj, te... -ah, semmi, bocs.}
+{112}{}{Figyelj, remÃ©lem, tudod magad azonosÃ­tani. Ett?l a hamis riadÃ³tÃ³l mindenkinek viszket az ujja a ravaszon.}
+{113}{}{Ugye te idevalÃ³ vagy?! Ezekt?l a hamis riadÃ³ktÃ³l meg?rÃ¼lÃ¶k!}
+{114}{}{Ott vannak a behatolÃ³k! KapjÃ¡tok el ?ket!}
+{115}{}{Ott van egy behatolÃ³!}
+{116}{}{Ott van, ni! Ne hagyjÃ¡tok meglÃ©pni!}
+{117}{}{MegtÃ¡madtak bennÃ¼nket! KÃ¼ldjetek er?sÃ­tÃ©st!}
+{118}{}{Ne engedjÃ©tek, hogy eljusson a kapuig!}
 {119}{}{Pusztulj, te korcs!}

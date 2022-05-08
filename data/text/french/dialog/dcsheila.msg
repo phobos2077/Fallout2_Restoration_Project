@@ -1,25 +1,25 @@
-{100}{}{Tu vois une prostituée.}
-{150}{}{Tu vois une prostituée tout ce qu'il y a de plus banal.}
+{100}{}{Tu vois une prostituÃ©e.}
+{150}{}{Tu vois une prostituÃ©e tout ce qu'il y a de plus banal.}
 {152}{}{[PARLER]}
-{153}{}{Hé, je fais pas les nanas !}
+{153}{}{HÃ©, je fais pas les nanas !}
 {154}{}{Peu importe.}
 {155}{}{Pardon.}
 {156}{}{M'man ?}
-{157}{}{Hé, ça coûte plus cher si tu as de la compagnie.}
-{158}{}{Hé, ils vont où je vais.}
+{157}{}{HÃ©, Ã§a coÃ»te plus cher si tu as de la compagnie.}
+{158}{}{HÃ©, ils vont oÃ¹ je vais.}
 {159}{}{Je les veux avec moi.}
 {160}{}{Je reviendrai.}
 {161}{}{M'man ?}
-{162}{}{Oh, oui mon chou. Mais où étais-tu, toute ma vie j'ai attendu que tu viennes ?}
+{162}{}{Oh, oui mon chou. Mais oÃ¹ Ã©tais-tu, toute ma vie j'ai attendu que tu viennes ?}
 {163}{}{Juste ici mon chou.}
 {164}{}{C'est combien, petite soeur ?}
 {165}{}{Hum, faut que je file. Salut.}
 {166}{}{Ouaiiis !}
-{167}{}{Je les aime gros et bêtes.}
+{167}{}{Je les aime gros et bÃªtes.}
 {168}{}{C'est moi !}
-{169}{}{Aïaïaï !}
+{169}{}{AÃ¯aÃ¯aÃ¯ !}
 {170}{}{Oh. Non. Salut.}
-{171}{}{Quel grand garçon tu fais !}
+{171}{}{Quel grand garÃ§on tu fais !}
 {172}{}{Tu imposes, je dispose !}
 {173}{}{Oui, m'dame.}
 {174}{}{Il faut que je parte.}
@@ -33,22 +33,22 @@
 {183}{}{Je reviendrai.}
 {184}{}{T'en vaux pas la peine.}
 {185}{}{Hou la !}
-{186}{}{Tu étais fantastique !}
+{186}{}{Tu Ã©tais fantastique !}
 {187}{}{Comme toujours mon chou.}
 {188}{}{Peu importe.}
 {189}{}{Toi aussi !}
 {190}{}{Moi astique !}
-{191}{}{Tu étais super !}
+{191}{}{Tu Ã©tais super !}
 {192}{}{Merci. Toi aussi.}
 {193}{}{Hum...}
 {194}{}{Ouais.}
 {195}{}{Super !}
-{196}{}{Voilà, terminé. Salut.}
+{196}{}{VoilÃ , terminÃ©. Salut.}
 {197}{}{C'est tout ?}
 {198}{}{Bon. Salut.}
-{199}{}{C'était bon.}
+{199}{}{C'Ã©tait bon.}
 {200}{}{Salut.}
-{201}{}{J'ai déjà eu à faire à des mauvais coups, mais j'ai l'impression qu'après ça, c'est toi qui m'dois quelque chose.}
+{201}{}{J'ai dÃ©jÃ  eu Ã  faire Ã  des mauvais coups, mais j'ai l'impression qu'aprÃ¨s Ã§a, c'est toi qui m'dois quelque chose.}
 {202}{}{On peut pas dire que tu valais l'argent que tu demandes.}
 {203}{}{Je vais te manquer.}
 {204}{}{Salut.}
@@ -61,16 +61,16 @@
 {211}{}{Salut.}
 {212}{}{Salut.}
 {213}{}{C'est $ }
-{214}{}{ la séance. On paie d'avance.}
+{214}{}{ la sÃ©ance. On paie d'avance.}
 {215}{}{Suis-moi.}
 {216}{}{J'attends.}
-{217}{}{Je vais pas attendre dans cette pièce froide toute la journée !}
-{218}{}{Tu veux bien te dépêcher ?}
-{219}{}{Dernière chance.}
+{217}{}{Je vais pas attendre dans cette piÃ¨ce froide toute la journÃ©e !}
+{218}{}{Tu veux bien te dÃ©pÃªcher ?}
+{219}{}{DerniÃ¨re chance.}
 {220}{}{Bon. Je vais pas attendre ici plus longtemps.}
 {221}{}{Allez, allez.}
 {222}{}{Tu t'excites ou quoi ?}
 {223}{}{Suis-moi.}
-{224}{}{Hé coco, pas touche à la marchandise !}
+{224}{}{HÃ© coco, pas touche Ã  la marchandise !}
 {225}{}{Bas les pattes, j'suis pas ton jouet !}
-{230}{}{Tu sais, j'en ai eu des mauvaises baises, mais celle-là, c'était la pire de toutes.}
+{230}{}{Tu sais, j'en ai eu des mauvaises baises, mais celle-lÃ , c'Ã©tait la pire de toutes.}

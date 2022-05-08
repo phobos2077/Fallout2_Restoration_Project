@@ -1,62 +1,62 @@
-{100}{}{Widzisz ogromny czarny ¿elazny sejf.}
-{101}{}{Widzisz czarne kwadratowe coœ z du¿ym nosem.}
-{200}{}{Widzisz du¿e, czarne, metalowe, kwadratowe coœ z nochalem na przodzie.}
-{201}{}{Widzisz ogromny czarny ¿elazny sejf, który wygl¹da na o wiele za ciê¿ki do poruszenia. Na przodzie jest pokrêt³o kombinacyjne.}
-{202}{}{Cze pud³o moja }
+{100}{}{Widzisz ogromny czarny Å¼elazny sejf.}
+{101}{}{Widzisz czarne kwadratowe coÅ› z duÅ¼ym nosem.}
+{200}{}{Widzisz duÅ¼e, czarne, metalowe, kwadratowe coÅ› z nochalem na przodzie.}
+{201}{}{Widzisz ogromny czarny Å¼elazny sejf, ktÃ³ry wyglÄ…da na o wiele za ciÄ™Å¼ki do poruszenia. Na przodzie jest pokrÄ™tÅ‚o kombinacyjne.}
+{202}{}{Cze pudÅ‚o moja }
 {203}{}{ twoja?}
-{204}{}{Zakrêæ jego kinolem.}
-{205}{}{OdejdŸ}
-{206}{}{Hmmmm. Mo¿e liczby na tych trzech nieœmiertelnikach mog¹ otworzyæ sejf...}
-{207}{}{Pokrêæ pokrêt³em, przys³uchaj siê klikaniu.}
-{208}{}{Zakrêæ pokrêt³em w przypadkowy sposób.}
-{209}{}{SprawdŸ, czy nie ma pu³apek.}
+{204}{}{ZakrÄ™Ä‡ jego kinolem.}
+{205}{}{OdejdÅº}
+{206}{}{Hmmmm. MoÅ¼e liczby na tych trzech nieÅ›miertelnikach mogÄ… otworzyÄ‡ sejf...}
+{207}{}{PokrÄ™Ä‡ pokrÄ™tÅ‚em, przysÅ‚uchaj siÄ™ klikaniu.}
+{208}{}{ZakrÄ™Ä‡ pokrÄ™tÅ‚em w przypadkowy sposÃ³b.}
+{209}{}{SprawdÅº, czy nie ma puÅ‚apek.}
 {210}{}{Zostaw sejf w spokoju.}
-{220}{}{S³ychaæ KER-KLANK. Mechanizm w sejfie jest teraz otwarty.}
+{220}{}{SÅ‚ychaÄ‡ KER-KLANK. Mechanizm w sejfie jest teraz otwarty.}
 {221}{}{Mechanizm sejfu jest otwarty.}
-{222}{}{Nos obraca siê w twoim rêku! Wygl¹da na to, ¿e mo¿esz otworzyæ twarz, jeœli chcesz.}
-{223}{}{Du¿e, metalowe, kwadratowe coœ chyba da siê otworzyæ.}
-{224}{}{Otwórz twarz.}
-{225}{}{OdejdŸ}
+{222}{}{Nos obraca siÄ™ w twoim rÄ™ku! WyglÄ…da na to, Å¼e moÅ¼esz otworzyÄ‡ twarz, jeÅ›li chcesz.}
+{223}{}{DuÅ¼e, metalowe, kwadratowe coÅ› chyba da siÄ™ otworzyÄ‡.}
+{224}{}{OtwÃ³rz twarz.}
+{225}{}{OdejdÅº}
 {226}{}{Obrabuj sejf.}
 {227}{}{Zostaw sejf w spokoju.}
-{235}{}{Dok³adniejsze oglêdziny sejfu ujawniaj¹ czarny drut biegn¹cy w ziemiê tu¿ za sejfem. Odgarniaj¹c kurz odkrywasz, ¿e lont biegnie do laski dynamitu z do³¹czonym zegarem.}
-{236}{}{Hmmmm. Mo¿e liczby na tych trzech nieœmiertelnikach mog¹ otworzyæ sejf...}
-{237}{}{Spróbuj rozbroiæ pu³apkê.}
+{235}{}{DokÅ‚adniejsze oglÄ™dziny sejfu ujawniajÄ… czarny drut biegnÄ…cy w ziemiÄ™ tuÅ¼ za sejfem. OdgarniajÄ…c kurz odkrywasz, Å¼e lont biegnie do laski dynamitu z doÅ‚Ä…czonym zegarem.}
+{236}{}{Hmmmm. MoÅ¼e liczby na tych trzech nieÅ›miertelnikach mogÄ… otworzyÄ‡ sejf...}
+{237}{}{SprÃ³buj rozbroiÄ‡ puÅ‚apkÄ™.}
 {238}{}{Zostaw sejf w spokoju.}
-{250}{}{Obracasz powoli pokrêt³o przez kilka minut, ale nic z tego nie wychodzi.}
-{251}{}{Hmmmm. Mo¿e liczby na tych trzech nieœmiertelnikach mog¹ otworzyæ sejf...}
-{252}{}{Pokrêæ pokrêt³em, przys³uchaj siê klikaniu.}
-{253}{}{Zakrêæ pokrêt³em w przypadkowy sposób.}
+{250}{}{Obracasz powoli pokrÄ™tÅ‚o przez kilka minut, ale nic z tego nie wychodzi.}
+{251}{}{Hmmmm. MoÅ¼e liczby na tych trzech nieÅ›miertelnikach mogÄ… otworzyÄ‡ sejf...}
+{252}{}{PokrÄ™Ä‡ pokrÄ™tÅ‚em, przysÅ‚uchaj siÄ™ klikaniu.}
+{253}{}{ZakrÄ™Ä‡ pokrÄ™tÅ‚em w przypadkowy sposÃ³b.}
 {254}{}{Zostaw sejf w spokoju.}
-{275}{}{Nie znajdujesz przy sejfie ¿adnych pu³apek.}
-{276}{}{Hmmmm. Mo¿e liczby na tych trzech nieœmiertelnikach mog¹ otworzyæ sejf...}
-{277}{}{Pokrêæ pokrêt³em, przys³uchaj siê klikaniu.}
-{278}{}{Zakrêæ pokrêt³em w przypadkowy sposób.}
-{279}{}{Jeszcze raz poszukaj pu³apek.}
+{275}{}{Nie znajdujesz przy sejfie Å¼adnych puÅ‚apek.}
+{276}{}{Hmmmm. MoÅ¼e liczby na tych trzech nieÅ›miertelnikach mogÄ… otworzyÄ‡ sejf...}
+{277}{}{PokrÄ™Ä‡ pokrÄ™tÅ‚em, przysÅ‚uchaj siÄ™ klikaniu.}
+{278}{}{ZakrÄ™Ä‡ pokrÄ™tÅ‚em w przypadkowy sposÃ³b.}
+{279}{}{Jeszcze raz poszukaj puÅ‚apek.}
 {280}{}{Zostaw sejf w spokoju.}
-{290}{}{Obracasz wajch¹... gdy nagle s³yszysz KER-KLANK. Mechanizm sejfu jest teraz otwarty!}
-{291}{}{Obracasz w przypadkowy sposób pokrêt³em, gdy nagle pokrêt³o za³apuje numer... s³yszysz KER-KLANK. Mechanizm sejfu jest teraz otwarty!}
+{290}{}{Obracasz wajchÄ…... gdy nagle sÅ‚yszysz KER-KLANK. Mechanizm sejfu jest teraz otwarty!}
+{291}{}{Obracasz w przypadkowy sposÃ³b pokrÄ™tÅ‚em, gdy nagle pokrÄ™tÅ‚o zaÅ‚apuje numer... sÅ‚yszysz KER-KLANK. Mechanizm sejfu jest teraz otwarty!}
 {292}{}{Halo? Halllooo? Jezt ta kto?}
-{293}{}{Przestañ siê szczerzyæ i zrzucaj majteczki...}
-{294}{}{Ta, ma siê wyczucie...}
-{305}{}{Obracasz wajch¹, ale ma³e drzwi nie chc¹ siê otworzyæ!}
-{306}{}{Obracasz pokrêt³o przez kilka minut, ale nic siê nie dzieje.}
-{307}{}{Halllooo? Halllo pud³o...}
+{293}{}{PrzestaÅ„ siÄ™ szczerzyÄ‡ i zrzucaj majteczki...}
+{294}{}{Ta, ma siÄ™ wyczucie...}
+{305}{}{Obracasz wajchÄ…, ale maÅ‚e drzwi nie chcÄ… siÄ™ otworzyÄ‡!}
+{306}{}{Obracasz pokrÄ™tÅ‚o przez kilka minut, ale nic siÄ™ nie dzieje.}
+{307}{}{Halllooo? Halllo pudÅ‚o...}
 {308}{}{Dalej obracaj kinolem.}
-{309}{}{OdejdŸ}
-{310}{}{Hmmmm. Mo¿e liczby na tych trzech nieœmiertelnikach mog¹ otworzyæ sejf...}
-{311}{}{Pokrêæ pokrêt³em, przys³uchaj siê klikaniu.}
-{312}{}{Zakrêæ pokrêt³em w przypadkowy sposób.}
+{309}{}{OdejdÅº}
+{310}{}{Hmmmm. MoÅ¼e liczby na tych trzech nieÅ›miertelnikach mogÄ… otworzyÄ‡ sejf...}
+{311}{}{PokrÄ™Ä‡ pokrÄ™tÅ‚em, przysÅ‚uchaj siÄ™ klikaniu.}
+{312}{}{ZakrÄ™Ä‡ pokrÄ™tÅ‚em w przypadkowy sposÃ³b.}
 {313}{}{Zostaw sejf w spokoju.}
-{320}{}{Coœ nie odpowiada.}
-{321}{}{Czarne kwadratowe coœ chyba ciê nie zauwa¿a.}
-{322}{}{Metalowe pud³o ignoruje ciê.}
-{323}{}{Czeeeeœæ? Moja }
+{320}{}{CoÅ› nie odpowiada.}
+{321}{}{Czarne kwadratowe coÅ› chyba ciÄ™ nie zauwaÅ¼a.}
+{322}{}{Metalowe pudÅ‚o ignoruje ciÄ™.}
+{323}{}{CzeeeeÅ›Ä‡? Moja }
 {324}{}{ Tyyyyyy?}
-{325}{}{Zakrêæ jego kinolem.}
-{326}{}{OdejdŸ}
-{340}{}{Z chirurgiczn¹ precyzj¹ wyci¹gasz lont i dynamit spod ziemi. Pu³apka jest teraz rozbrojona.}
-{341}{}{A teraz otworzyæ sejf...}
+{325}{}{ZakrÄ™Ä‡ jego kinolem.}
+{326}{}{OdejdÅº}
+{340}{}{Z chirurgicznÄ… precyzjÄ… wyciÄ…gasz lont i dynamit spod ziemi. PuÅ‚apka jest teraz rozbrojona.}
+{341}{}{A teraz otworzyÄ‡ sejf...}
 {342}{}{Zostaw sejf w spokoju.}
-{343}{}{Nie masz czasu, aby zaj¹æ siê sejfem w trakcie walki.}
-{344}{}{Uda³o ci siê otworzyæ sejf najeŸdŸców.}
+{343}{}{Nie masz czasu, aby zajÄ…Ä‡ siÄ™ sejfem w trakcie walki.}
+{344}{}{UdaÅ‚o ci siÄ™ otworzyÄ‡ sejf najeÅºdÅºcÃ³w.}

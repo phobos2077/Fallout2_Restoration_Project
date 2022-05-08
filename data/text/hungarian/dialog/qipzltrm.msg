@@ -1,5 +1,5 @@
-{100}{}{Egy terminál.}
-{101}{}{Vélhet?leg ez a terminál vezérli az ajtókat ezen a részen.}
-{102}{}{Nyíló ajtók hangját hallod.}
-{110}{}{Valamit sikerült hatástalani.}
-{120}{}{Az elektromos padló kisül.}
+{100}{}{Egy terminÃ¡l.}
+{101}{}{VÃ©lhet?leg ez a terminÃ¡l vezÃ©rli az ajtÃ³kat ezen a rÃ©szen.}
+{102}{}{NyÃ­lÃ³ ajtÃ³k hangjÃ¡t hallod.}
+{110}{}{Valamit sikerÃ¼lt hatÃ¡stalani.}
+{120}{}{Az elektromos padlÃ³ kisÃ¼l.}

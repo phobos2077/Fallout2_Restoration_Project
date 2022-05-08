@@ -1,77 +1,77 @@
-{100}{}{Widzisz przypakowanego, muskularnego mê¿czyznê z krótkimi w³osami.}
-{101}{}{Widzisz Jamesa Hoffy'ego, przywódcê karawany.}
-{102}{}{Widzisz mê¿czyznê z wieloma bliznami, typowego wyrachowanego twardziela...}
-{103}{}{No dalej, zmiataj st¹d.}
+{100}{}{Widzisz przypakowanego, muskularnego mÄ™Å¼czyznÄ™ z krÃ³tkimi wÅ‚osami.}
+{101}{}{Widzisz Jamesa Hoffy'ego, przywÃ³dcÄ™ karawany.}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ z wieloma bliznami, typowego wyrachowanego twardziela...}
+{103}{}{No dalej, zmiataj stÄ…d.}
 {104}{}{Tu nie jest instytucja charytatywna. Wynocha.}
-{105}{}{Tak w ogóle, to kto ciê wypuœci³ z domu?!?}
+{105}{}{Tak w ogÃ³le, to kto ciÄ™ wypuÅ›ciÅ‚ z domu?!?}
 {106}{}{Jest tam kto?}
-{107}{}{Nie masz nawet tyle inteligencji, by chrz¹kaæ, nie?}
-{108}{}{Kurcze... po prostu idŸ sobie ju¿...}
-{109}{}{Nie mam czasu dla g³upków.}
-{110}{}{Podobno by³y u ciebie jakieœ problemy z kilkoma karawanami. Ka¿dy ma czasem problemy - byle nie za czêsto.}
-{111}{}{S³ysza³em, ¿e karawaniarstwo to dla ciebie nie pierwszyzna. To dobrze. Zawsze przyda siê kilku dobrych stra¿ników.}
-{112}{}{Kim jesteœ?}
-{113}{}{Czy wkrótce wyje¿d¿aj¹ jakieœ karawany?}
-{114}{}{Dok¹d zazwyczaj wyje¿d¿aj¹ karawany z Redding?}
-{115}{}{S³ysza³eœ mo¿e ostatnio jakieœ wieœci o mieœcie?}
-{116}{}{S³ysza³eœ kiedyœ o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
-{117}{}{Dziêki, ¿e mi o tym powiedzia³eœ. Do widzenia.}
-{118}{}{Witam, nazywam siê James Hoffy, ale zazwyczaj mówi¹ na mnie Jimmy. Organizujê karawany w okolicy}
-{119}{}{Czego szukasz, hê?}
-{120}{}{Czy wkrótce wyje¿d¿aj¹ jakieœ karawany?}
-{121}{}{Dok¹d zazwyczaj wyje¿d¿aj¹ karawany z Redding?}
-{122}{}{S³ysza³eœ mo¿e ostatnio jakieœ wieœci o mieœcie?}
-{123}{}{S³ysza³eœ kiedyœ o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
-{124}{}{Tak tylko patrzê, Jimmy. Dziêki, na razie!}
-{125}{}{Tak naprawdê to nie wiem. Zapytaj prowadz¹cych karawany. Zazwyczaj znajdzie siê jakaœ 1-szego, 11-tego i 21-szego ka¿dego miesi¹ca. Tak jest najlepiej. Bo widzisz, tak to wygl¹da w praktyce: Gdy karawana jest w mieœcie i szuka pomocników, to prowadz¹cy rozbija namiot na po³udnie od mojego zamku. Tak jest najlepiej.}
+{107}{}{Nie masz nawet tyle inteligencji, by chrzÄ…kaÄ‡, nie?}
+{108}{}{Kurcze... po prostu idÅº sobie juÅ¼...}
+{109}{}{Nie mam czasu dla gÅ‚upkÃ³w.}
+{110}{}{Podobno byÅ‚y u ciebie jakieÅ› problemy z kilkoma karawanami. KaÅ¼dy ma czasem problemy - byle nie za czÄ™sto.}
+{111}{}{SÅ‚yszaÅ‚em, Å¼e karawaniarstwo to dla ciebie nie pierwszyzna. To dobrze. Zawsze przyda siÄ™ kilku dobrych straÅ¼nikÃ³w.}
+{112}{}{Kim jesteÅ›?}
+{113}{}{Czy wkrÃ³tce wyjeÅ¼dÅ¼ajÄ… jakieÅ› karawany?}
+{114}{}{DokÄ…d zazwyczaj wyjeÅ¼dÅ¼ajÄ… karawany z Redding?}
+{115}{}{SÅ‚yszaÅ‚eÅ› moÅ¼e ostatnio jakieÅ› wieÅ›ci o mieÅ›cie?}
+{116}{}{SÅ‚yszaÅ‚eÅ› kiedyÅ› o czymÅ›, co nazywa siÄ™ Generator Ekosystemu Cudownej Krainy?}
+{117}{}{DziÄ™ki, Å¼e mi o tym powiedziaÅ‚eÅ›. Do widzenia.}
+{118}{}{Witam, nazywam siÄ™ James Hoffy, ale zazwyczaj mÃ³wiÄ… na mnie Jimmy. OrganizujÄ™ karawany w okolicy}
+{119}{}{Czego szukasz, hÄ™?}
+{120}{}{Czy wkrÃ³tce wyjeÅ¼dÅ¼ajÄ… jakieÅ› karawany?}
+{121}{}{DokÄ…d zazwyczaj wyjeÅ¼dÅ¼ajÄ… karawany z Redding?}
+{122}{}{SÅ‚yszaÅ‚eÅ› moÅ¼e ostatnio jakieÅ› wieÅ›ci o mieÅ›cie?}
+{123}{}{SÅ‚yszaÅ‚eÅ› kiedyÅ› o czymÅ›, co nazywa siÄ™ Generator Ekosystemu Cudownej Krainy?}
+{124}{}{Tak tylko patrzÄ™, Jimmy. DziÄ™ki, na razie!}
+{125}{}{Tak naprawdÄ™ to nie wiem. Zapytaj prowadzÄ…cych karawany. Zazwyczaj znajdzie siÄ™ jakaÅ› 1-szego, 11-tego i 21-szego kaÅ¼dego miesiÄ…ca. Tak jest najlepiej. Bo widzisz, tak to wyglÄ…da w praktyce: Gdy karawana jest w mieÅ›cie i szuka pomocnikÃ³w, to prowadzÄ…cy rozbija namiot na poÅ‚udnie od mojego zamku. Tak jest najlepiej.}
 {126}{}{Twojego zamku? O co ci chodzi?}
-{127}{}{Okej... Idê z nimi pogadaæ. Na razie! Dziêki!}
-{128}{}{JeŸdzimy z karawanami wszêdzie. Mówiê ci, wiêksz¹ czêœæ z³ota wywozimy do Kryptopolis, czêœæ do Nowego Reno (ciekawe miasteczko, rozumiesz...), a reszta jedzie do tej cholernej, sztywnej RNK.}
+{127}{}{Okej... IdÄ™ z nimi pogadaÄ‡. Na razie! DziÄ™ki!}
+{128}{}{JeÅºdzimy z karawanami wszÄ™dzie. MÃ³wiÄ™ ci, wiÄ™kszÄ… czÄ™Å›Ä‡ zÅ‚ota wywozimy do Kryptopolis, czÄ™Å›Ä‡ do Nowego Reno (ciekawe miasteczko, rozumiesz...), a reszta jedzie do tej cholernej, sztywnej RNK.}
 {129}{}{Co wiesz na temat Kryptopolis?}
 {130}{}{Co wiesz na temat Nowego Reno?}
 {131}{}{Co wiesz na temat RNK?}
-{132}{}{Mogê ciê zapytaæ o coœ jeszcze?}
-{133}{}{To wszystko, co chcê na razie wiedzieæ. Dziêkujê, do widzenia.}
-{134}{}{A czym¿e innym jest dom? Kurczê... Wychowali ciê w namiocie czy co?}
+{132}{}{MogÄ™ ciÄ™ zapytaÄ‡ o coÅ› jeszcze?}
+{133}{}{To wszystko, co chcÄ™ na razie wiedzieÄ‡. DziÄ™kujÄ™, do widzenia.}
+{134}{}{A czymÅ¼e innym jest dom? KurczÄ™... Wychowali ciÄ™ w namiocie czy co?}
 {135}{}{W zasadzie... Tak!}
-{136}{}{Mam tego doœæ, cholerny zarozumialcze. Spadam.}
-{137}{}{A... No tak. To wiele wyjaœnia. Ha, ha.}
-{138}{}{Skoro ju¿ to sobie wyjaœniliœmy, pozwól, ¿e o coœ ciê spytam.}
-{139}{}{Tak, ale¿ oczywiœcie. Do widzenia.}
-{140}{}{Kryptopolis [Jimmy pluje pogardliwie]. Tia... Opowiem ci o tych skurwysynach. Pierdolone dranie, czuj¹ siê lepszymi od wszystkich. Daj¹ nam lekarstwa tylko dlatego, ¿e potrzebuj¹ naszego z³ota. Gdyby nie ono, to pozwoliliby nam wszystkim zdechn¹æ. Za d³ugo bym z nimi nie siedzia³. Ale jeœli chcesz tam jechaæ, to Ben Wade wyje¿d¿a tam 1-szego ka¿dego miesi¹ca.}
+{136}{}{Mam tego doÅ›Ä‡, cholerny zarozumialcze. Spadam.}
+{137}{}{A... No tak. To wiele wyjaÅ›nia. Ha, ha.}
+{138}{}{Skoro juÅ¼ to sobie wyjaÅ›niliÅ›my, pozwÃ³l, Å¼e o coÅ› ciÄ™ spytam.}
+{139}{}{Tak, aleÅ¼ oczywiÅ›cie. Do widzenia.}
+{140}{}{Kryptopolis [Jimmy pluje pogardliwie]. Tia... Opowiem ci o tych skurwysynach. Pierdolone dranie, czujÄ… siÄ™ lepszymi od wszystkich. DajÄ… nam lekarstwa tylko dlatego, Å¼e potrzebujÄ… naszego zÅ‚ota. Gdyby nie ono, to pozwoliliby nam wszystkim zdechnÄ…Ä‡. Za dÅ‚ugo bym z nimi nie siedziaÅ‚. Ale jeÅ›li chcesz tam jechaÄ‡, to Ben Wade wyjeÅ¼dÅ¼a tam 1-szego kaÅ¼dego miesiÄ…ca.}
 {141}{}{Co wiesz na temat Nowego Reno?}
 {142}{}{Co wiesz na temat RNK?}
-{143}{}{Dziêki. Pozwól, ¿e spytam o coœ innego.}
-{144}{}{To wszystko, co chcê na razie wiedzieæ. Dziêkujê, do widzenia.}
-{145}{}{To siê nazywa miasto! Pamiêtaj tylko, by zachowaæ g³upie komentarze dla siebie i mieæ gnata w pogotowiu. Sporo ostatnio tam walcz¹. Gdyby te wszystkie rodziny zaczê³y ze soba wspó³pracowaæ, to Nowe Reno by³oby naprawdê potêg¹! Ale na razie nie zanosi siê na to... Jeœli chcesz siê tam dostaæ, to do³¹cz do Savinelliego - wyje¿d¿a 21-szego ka¿dego miesi¹ca.}
+{143}{}{DziÄ™ki. PozwÃ³l, Å¼e spytam o coÅ› innego.}
+{144}{}{To wszystko, co chcÄ™ na razie wiedzieÄ‡. DziÄ™kujÄ™, do widzenia.}
+{145}{}{To siÄ™ nazywa miasto! PamiÄ™taj tylko, by zachowaÄ‡ gÅ‚upie komentarze dla siebie i mieÄ‡ gnata w pogotowiu. Sporo ostatnio tam walczÄ…. Gdyby te wszystkie rodziny zaczÄ™Å‚y ze soba wspÃ³Å‚pracowaÄ‡, to Nowe Reno byÅ‚oby naprawdÄ™ potÄ™gÄ…! Ale na razie nie zanosi siÄ™ na to... JeÅ›li chcesz siÄ™ tam dostaÄ‡, to doÅ‚Ä…cz do Savinelliego - wyjeÅ¼dÅ¼a 21-szego kaÅ¼dego miesiÄ…ca.}
 {146}{}{Co wiesz na temat Kryptopolis?}
 {147}{}{Co wiesz na temat RNK?}
-{148}{}{Dziêki. Pozwól, ¿e spytam o coœ innego.}
-{149}{}{To wszystko, co chcê na razie wiedzieæ. Dziêkujê, do widzenia.}
-{150}{}{Republika Nowej Kalifornii jest po prostu pe³na dobrotliwych skurwysynków. Ustawili sobie wszystko po swojemu, ³adnie i prawid³owo. Miejscami a¿ za prawid³owo. S¹ najbardziej praworz¹dn¹ grupk¹ ludzi, jak¹ mo¿na spotkaæ. Stanwell jeŸdzi tam ze swoj¹ karawan¹ 11-tego ka¿dego miesi¹ca.}
+{148}{}{DziÄ™ki. PozwÃ³l, Å¼e spytam o coÅ› innego.}
+{149}{}{To wszystko, co chcÄ™ na razie wiedzieÄ‡. DziÄ™kujÄ™, do widzenia.}
+{150}{}{Republika Nowej Kalifornii jest po prostu peÅ‚na dobrotliwych skurwysynkÃ³w. Ustawili sobie wszystko po swojemu, Å‚adnie i prawidÅ‚owo. Miejscami aÅ¼ za prawidÅ‚owo. SÄ… najbardziej praworzÄ…dnÄ… grupkÄ… ludzi, jakÄ… moÅ¼na spotkaÄ‡. Stanwell jeÅºdzi tam ze swojÄ… karawanÄ… 11-tego kaÅ¼dego miesiÄ…ca.}
 {151}{}{Co wiesz na temat Kryptopolis?}
 {152}{}{Co wiesz na temat Nowego Reno?}
-{153}{}{Dziêki. Pozwól, ¿e spytam o coœ innego.}
-{154}{}{To wszystko, co chcê na razie wiedzieæ. Dziêkujê, do widzenia.}
-{155}{}{Generator Ekosystemu Cudownej Krainy? Nie bardzo... Na pewno nie ma go tutaj. Mo¿esz spróbowaæ w jakiejœ Krypcie. Tam powinni mieæ ró¿ne tek-nie-logiczne rzeczy.}
-{156}{}{Muszê spróbowaæ. Pozwól, ¿e spytam ciê jeszcze o coœ.}
-{157}{}{Dziêki za radê. Do widzenia.}
-{158}{}{Ta, s³ysza³em, ¿e dopadli kogoœ, by znalaz³ procesor do maszyny odkrywkowej w kopalni Wanamingo.}
-{159}{}{S³ysza³em, ¿e szeryf znalaz³ kogoœ od mokrej roboty.}
-{160}{}{Nie za wiele siê dzieje. To co zwykle, kopanie, karawany i inne takie.}
-{161}{}{Tia, ten ktoœ to ja... coœ siê nie podoba?}
-{162}{}{Ktoœ musi utrzymaæ porz¹dek w tym zawszonym mieœcie.}
-{163}{}{Pozwól, ¿e o coœ ciê spytam.}
-{164}{}{Tak tylko sprawdzam. Dziêki i na razie.}
-{165}{}{Nie ma problemu. Ale wiesz, ¿e mieszasz siê w politykê, robi¹c to?}
+{153}{}{DziÄ™ki. PozwÃ³l, Å¼e spytam o coÅ› innego.}
+{154}{}{To wszystko, co chcÄ™ na razie wiedzieÄ‡. DziÄ™kujÄ™, do widzenia.}
+{155}{}{Generator Ekosystemu Cudownej Krainy? Nie bardzo... Na pewno nie ma go tutaj. MoÅ¼esz sprÃ³bowaÄ‡ w jakiejÅ› Krypcie. Tam powinni mieÄ‡ rÃ³Å¼ne tek-nie-logiczne rzeczy.}
+{156}{}{MuszÄ™ sprÃ³bowaÄ‡. PozwÃ³l, Å¼e spytam ciÄ™ jeszcze o coÅ›.}
+{157}{}{DziÄ™ki za radÄ™. Do widzenia.}
+{158}{}{Ta, sÅ‚yszaÅ‚em, Å¼e dopadli kogoÅ›, by znalazÅ‚ procesor do maszyny odkrywkowej w kopalni Wanamingo.}
+{159}{}{SÅ‚yszaÅ‚em, Å¼e szeryf znalazÅ‚ kogoÅ› od mokrej roboty.}
+{160}{}{Nie za wiele siÄ™ dzieje. To co zwykle, kopanie, karawany i inne takie.}
+{161}{}{Tia, ten ktoÅ› to ja... coÅ› siÄ™ nie podoba?}
+{162}{}{KtoÅ› musi utrzymaÄ‡ porzÄ…dek w tym zawszonym mieÅ›cie.}
+{163}{}{PozwÃ³l, Å¼e o coÅ› ciÄ™ spytam.}
+{164}{}{Tak tylko sprawdzam. DziÄ™ki i na razie.}
+{165}{}{Nie ma problemu. Ale wiesz, Å¼e mieszasz siÄ™ w politykÄ™, robiÄ…c to?}
 {166}{}{Co to znaczy?}
-{167}{}{Ale¿ tak, oczywiœcie. Do widzenia.}
-{168}{}{No, bo zale¿nie od tego, komu oddasz ten procesor, ten dorobi siê naprawdê ciê¿kiej kasy, a drugi pójdzie z torbami.}
+{167}{}{AleÅ¼ tak, oczywiÅ›cie. Do widzenia.}
+{168}{}{No, bo zaleÅ¼nie od tego, komu oddasz ten procesor, ten dorobi siÄ™ naprawdÄ™ ciÄ™Å¼kiej kasy, a drugi pÃ³jdzie z torbami.}
 {169}{}{I...?}
 {170}{}{Tak to jest w kapitalizmie, przyjacielu. Do zobaczenia.}
-{171}{}{Jeœli dostanie go kopalnia Morningstar, to w mieœcie pojawi siê du¿o wiêcej Jetu. Z kolei jeœli dasz procesor Marge LeBarge z kopalni Kokoweef, to w mieœcie pojawi siê du¿o pajaców z RNK. W ka¿dym razie ktoœ wygra, a ktoœ inny przegra.}
-{172}{}{Jeœli nie ja, to i tak ktoœ inny to zrobi. Powiedz mi jeszcze coœ...}
-{173}{}{Tak to ju¿ jest na œwiecie. Do widzenia.}
-{174}{}{Dopóki to mnie nie dotyczy, to w porz¹dku...}
-{175}{}{Pozwól, ¿e o coœ ciê spytam.}
+{171}{}{JeÅ›li dostanie go kopalnia Morningstar, to w mieÅ›cie pojawi siÄ™ duÅ¼o wiÄ™cej Jetu. Z kolei jeÅ›li dasz procesor Marge LeBarge z kopalni Kokoweef, to w mieÅ›cie pojawi siÄ™ duÅ¼o pajacÃ³w z RNK. W kaÅ¼dym razie ktoÅ› wygra, a ktoÅ› inny przegra.}
+{172}{}{JeÅ›li nie ja, to i tak ktoÅ› inny to zrobi. Powiedz mi jeszcze coÅ›...}
+{173}{}{Tak to juÅ¼ jest na Å›wiecie. Do widzenia.}
+{174}{}{DopÃ³ki to mnie nie dotyczy, to w porzÄ…dku...}
+{175}{}{PozwÃ³l, Å¼e o coÅ› ciÄ™ spytam.}
 {176}{}{Tak tylko sprawdzam. Na razie.}

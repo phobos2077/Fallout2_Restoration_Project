@@ -1,7 +1,7 @@
-1:Está feito.
-2:Vault 13 pertence à Unidade e ao Mestre.
+1:EstÃ¡ feito.
+2:Vault 13 pertence Ã  Unidade e ao Mestre.
 3:Seu conhecimento das defesas do Vault salvou muitas vidas mutantes durante o ataque.
-4:Você pessoalmente fez a morte final quando você tirou a vida do Supervisor.
-5:Você certamente se tornará um dos melhores soldados da Unidade, e suas habilidades o verão recompensado no futuro.
-6:Você está feliz.
-7:Mas não resta a menor dúvida de que poderia ter sido...
+4:VocÃª pessoalmente fez a morte final quando vocÃª tirou a vida do Supervisor.
+5:VocÃª certamente se tornarÃ¡ um dos melhores soldados da Unidade, e suas habilidades o verÃ£o recompensado no futuro.
+6:VocÃª estÃ¡ feliz.
+7:Mas nÃ£o resta a menor dÃºvida de que poderia ter sido...

@@ -1,126 +1,126 @@
-{100}{}{Egy fehér munkaköpenyt visel?, ráncos öregember.}
+{100}{}{Egy fehÃ©r munkakÃ¶penyt visel?, rÃ¡ncos Ã¶regember.}
 {101}{}{? Dr. Fung.}
-{102}{}{Egy fehér munkaköpenyt visel?, ráncos öregember.}
-{103}{}{Segíthetek valamiben?}
-{104}{}{Aú! Ajjaj! Ajjajjajj!}
-{105}{}{Igen... megsérültem és úgy látom, maga orvos.}
-{106}{}{Igen. Szükségem van egy orvosra a barátom számára.}
-{107}{}{Van stimpakkja? Szeretnék vásárolni néhányat.}
+{102}{}{Egy fehÃ©r munkakÃ¶penyt visel?, rÃ¡ncos Ã¶regember.}
+{103}{}{SegÃ­thetek valamiben?}
+{104}{}{AÃº! Ajjaj! Ajjajjajj!}
+{105}{}{Igen... megsÃ©rÃ¼ltem Ã©s Ãºgy lÃ¡tom, maga orvos.}
+{106}{}{Igen. SzÃ¼ksÃ©gem van egy orvosra a barÃ¡tom szÃ¡mÃ¡ra.}
+{107}{}{Van stimpakkja? SzeretnÃ©k vÃ¡sÃ¡rolni nÃ©hÃ¡nyat.}
 {108}{}{Ki vagy te?}
-{109}{}{Van egy barátom, aki elhagyta a lépét. Tudna segíteni neki?}
-{110}{}{Mit tudsz mondani nekem err?l a városról?}
-{111}{}{Viszlát!}
-{112}{}{Hadd nézzek rá! Hmm. Igen. Ez persze pénzbe kerül.}
+{109}{}{Van egy barÃ¡tom, aki elhagyta a lÃ©pÃ©t. Tudna segÃ­teni neki?}
+{110}{}{Mit tudsz mondani nekem err?l a vÃ¡rosrÃ³l?}
+{111}{}{ViszlÃ¡t!}
+{112}{}{Hadd nÃ©zzek rÃ¡! Hmm. Igen. Ez persze pÃ©nzbe kerÃ¼l.}
 {113}{}{Mennyi?}
-{114}{}{Felejtsük el!}
-{115}{}{Tudok gyógyítani... de pénzbe kerül, gondolom megérti.}
+{114}{}{FelejtsÃ¼k el!}
+{115}{}{Tudok gyÃ³gyÃ­tani... de pÃ©nzbe kerÃ¼l, gondolom megÃ©rti.}
 {116}{}{Mennyi?}
-{117}{}{Felejtsük el!}
-{118}{}{Hogy ki vagyok? Dr. Fung. Tanítok és gyógyítok.}
+{117}{}{FelejtsÃ¼k el!}
+{118}{}{Hogy ki vagyok? Dr. Fung. TanÃ­tok Ã©s gyÃ³gyÃ­tok.}
 {119}{}{Dr. Fung? Ismeri Holliday dokit?}
-{120}{}{Örülök, hogy találkoztunk. Gyógykezelésre van szükségem.}
-{121}{}{Az egyik barátomnak elkelne egy kis gyógykezelés.}
-{122}{}{Értem. Köszönöm, viszlát!}
-{123}{}{Holliday-t? Hogyne! Én tanítottam mindenre! Hol él most?}
+{120}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk. GyÃ³gykezelÃ©sre van szÃ¼ksÃ©gem.}
+{121}{}{Az egyik barÃ¡tomnak elkelne egy kis gyÃ³gykezelÃ©s.}
+{122}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m, viszlÃ¡t!}
+{123}{}{Holliday-t? Hogyne! Ã‰n tanÃ­tottam mindenre! Hol Ã©l most?}
 {124}{}{Broken Hillsben.}
-{125}{}{Szóval hazament... Remélem, békére lelt azon a helyen.}
-{126}{}{Szerintem igen. Hadd kérdezzek egy-két dolgot!}
-{127}{}{Minden bizonnyal. Most azonban mennem kell. Viszlát!}
-{128}{}{Ez száz dollárjába fog kerülni.}
+{125}{}{SzÃ³val hazament... RemÃ©lem, bÃ©kÃ©re lelt azon a helyen.}
+{126}{}{Szerintem igen. Hadd kÃ©rdezzek egy-kÃ©t dolgot!}
+{127}{}{Minden bizonnyal. Most azonban mennem kell. ViszlÃ¡t!}
+{128}{}{Ez szÃ¡z dollÃ¡rjÃ¡ba fog kerÃ¼lni.}
 {129}{}{Kifizetem.}
-{130}{}{Felejtsük el!}
-{131}{}{Hm, ez bizony komoly. 200 dollárt kérek.}
+{130}{}{FelejtsÃ¼k el!}
+{131}{}{Hm, ez bizony komoly. 200 dollÃ¡rt kÃ©rek.}
 {132}{}{Kifizetem.}
-{133}{}{Felejtsük el!}
-{134}{}{Ezek aztán komoly sebek ám! 300 dollárt kérek a kezelésükre.}
+{133}{}{FelejtsÃ¼k el!}
+{134}{}{Ezek aztÃ¡n komoly sebek Ã¡m! 300 dollÃ¡rt kÃ©rek a kezelÃ©sÃ¼kre.}
 {135}{}{Kifizetem.}
-{136}{}{Felejtsük el!}
-{137}{}{Ekkora sérülésért legalább 400 dollárt kell kérnem.}
+{136}{}{FelejtsÃ¼k el!}
+{137}{}{Ekkora sÃ©rÃ¼lÃ©sÃ©rt legalÃ¡bb 400 dollÃ¡rt kell kÃ©rnem.}
 {138}{}{Kifizetem.}
-{139}{}{Felejtsük el!}
-{140}{}{Üljön le! Jobb, ha meg is kapaszkodik, ugyanis a törött végtagok rendbehozása 600 dollárt kóstál.}
+{139}{}{FelejtsÃ¼k el!}
+{140}{}{ÃœljÃ¶n le! Jobb, ha meg is kapaszkodik, ugyanis a tÃ¶rÃ¶tt vÃ©gtagok rendbehozÃ¡sa 600 dollÃ¡rt kÃ³stÃ¡l.}
 {141}{}{Kifizetem.}
-{142}{}{Felejtsük el!}
-{158}{}{Micsoda? Nincs magánál pénz? Maga szerint mib?l élnék, ha ingyen gyógyítanék?}
-{159}{}{Van eladó stimpakkja?}
-{160}{}{Kösz nem.}
-{161}{}{Öröm volt üzletelni magával.}
-{162}{}{Köszi.}
-{163}{}{Sajnálatos módon az ön ajánlata elfogadhatatlan.}
-{164}{}{És ehhez mit szól?}
-{165}{}{Ennél többet nem ajánlok. Ég magával!}
-{166}{}{Megsérült? Ej-ej. Egy ?si gyógykezelés majd elmúlasztja.}
-{167}{}{O-ké!}
+{142}{}{FelejtsÃ¼k el!}
+{158}{}{Micsoda? Nincs magÃ¡nÃ¡l pÃ©nz? Maga szerint mib?l Ã©lnÃ©k, ha ingyen gyÃ³gyÃ­tanÃ©k?}
+{159}{}{Van eladÃ³ stimpakkja?}
+{160}{}{KÃ¶sz nem.}
+{161}{}{Ã–rÃ¶m volt Ã¼zletelni magÃ¡val.}
+{162}{}{KÃ¶szi.}
+{163}{}{SajnÃ¡latos mÃ³don az Ã¶n ajÃ¡nlata elfogadhatatlan.}
+{164}{}{Ã‰s ehhez mit szÃ³l?}
+{165}{}{EnnÃ©l tÃ¶bbet nem ajÃ¡nlok. Ã‰g magÃ¡val!}
+{166}{}{MegsÃ©rÃ¼lt? Ej-ej. Egy ?si gyÃ³gykezelÃ©s majd elmÃºlasztja.}
+{167}{}{O-kÃ©!}
 {168}{}{}
-{169}{}{Kész vagyunk. Most már elmehet, de vigyázzon magára!}
-{170}{}{Köfi!}
-{171}{}{Többet akar?}
-{172}{}{Gyógyításra lenne szükségem.}
-{173}{}{A barátomnak gyógykezelésre van szüksége.}
+{169}{}{KÃ©sz vagyunk. Most mÃ¡r elmehet, de vigyÃ¡zzon magÃ¡ra!}
+{170}{}{KÃ¶fi!}
+{171}{}{TÃ¶bbet akar?}
+{172}{}{GyÃ³gyÃ­tÃ¡sra lenne szÃ¼ksÃ©gem.}
+{173}{}{A barÃ¡tomnak gyÃ³gykezelÃ©sre van szÃ¼ksÃ©ge.}
 {174}{}{Ki vagy te?}
 {175}{}{Mondj valamit err?l a helyr?l!}
-{176}{}{Van egy barátom, aki elhagyta a lépét. Tudna segíteni neki?}
-{177}{}{Nem. Azért köszönöm.}
-{178}{}{A lehet? legjobb emberhez jött. A hosszú vagy a rövid történetet szeretné hallani?}
-{179}{}{A hosszút.}
-{180}{}{A rövidet.}
-{181}{}{Egyiket sem. Ellenben volna néhány kérdésem.}
-{182}{}{Amikor a rakéták elpusztították a világot, népünk a Shih-huang-ti tengeralattjárón érkezett ide. Mi, a Shik, egy szekta segítségével újjáépítettük San Franciscót. Ez volna a rövid változat.}
-{183}{}{És mi a helyzet a hosszú változattal?}
-{184}{}{Köszi. Hadd kérdezzek egy s mást!}
-{185}{}{Köszi.}
-{186}{}{A hosszú változat a következ?: A népünk egy Shih-huang-ti nev? tengeralattjáró legénységét?l származik. Amikor hullani kezdtek a rakéták a Nagy Világégésben, a tengeralattjáró irányítórendszere felmondta a szolgálatot és napokig sötétségben sodródtunk a nyílt tengeren.}
-{187}{}{-tovább-}
-{188}{}{Kis id? múltán partot értünk, éppen San Francisco romjainál. A város nagy része elpusztult a háborúban. A romok közé visszamerészked? néhány túlél? segítségével elkezdtük az újjáépítést.}
-{189}{}{-tovább-}
-{190}{}{Abból dolgoztunk, amit találtunk, tudósainkat és technológiánkat megcsodálhatja a világ. Újjáépítjük a civilizációt, de nem úgy, ahogy az a szörny?séges Mester tette.}
-{191}{}{Értem. Volna még néhány kérdésem.}
-{192}{}{Kösz. Viszlát!}
-{193}{}{Hát persze. És mivel ön Holliday doki ismer?se... pusztán barátságból. Mondja el a lépét hiányoló barátjának, hogy jöjjön ide, és kap egyet.}
-{194}{}{Köszönöm! Hadd kérdezzek még valamit.}
-{195}{}{Köszönöm!}
-{196}{}{Igen. Ezer dollárért meg tudom csinálni. Nem kevesebbért. Elfogadja?}
+{176}{}{Van egy barÃ¡tom, aki elhagyta a lÃ©pÃ©t. Tudna segÃ­teni neki?}
+{177}{}{Nem. AzÃ©rt kÃ¶szÃ¶nÃ¶m.}
+{178}{}{A lehet? legjobb emberhez jÃ¶tt. A hosszÃº vagy a rÃ¶vid tÃ¶rtÃ©netet szeretnÃ© hallani?}
+{179}{}{A hosszÃºt.}
+{180}{}{A rÃ¶videt.}
+{181}{}{Egyiket sem. Ellenben volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{182}{}{Amikor a rakÃ©tÃ¡k elpusztÃ­tottÃ¡k a vilÃ¡got, nÃ©pÃ¼nk a Shih-huang-ti tengeralattjÃ¡rÃ³n Ã©rkezett ide. Mi, a Shik, egy szekta segÃ­tsÃ©gÃ©vel ÃºjjÃ¡Ã©pÃ­tettÃ¼k San FranciscÃ³t. Ez volna a rÃ¶vid vÃ¡ltozat.}
+{183}{}{Ã‰s mi a helyzet a hosszÃº vÃ¡ltozattal?}
+{184}{}{KÃ¶szi. Hadd kÃ©rdezzek egy s mÃ¡st!}
+{185}{}{KÃ¶szi.}
+{186}{}{A hosszÃº vÃ¡ltozat a kÃ¶vetkez?: A nÃ©pÃ¼nk egy Shih-huang-ti nev? tengeralattjÃ¡rÃ³ legÃ©nysÃ©gÃ©t?l szÃ¡rmazik. Amikor hullani kezdtek a rakÃ©tÃ¡k a Nagy VilÃ¡gÃ©gÃ©sben, a tengeralattjÃ¡rÃ³ irÃ¡nyÃ­tÃ³rendszere felmondta a szolgÃ¡latot Ã©s napokig sÃ¶tÃ©tsÃ©gben sodrÃ³dtunk a nyÃ­lt tengeren.}
+{187}{}{-tovÃ¡bb-}
+{188}{}{Kis id? mÃºltÃ¡n partot Ã©rtÃ¼nk, Ã©ppen San Francisco romjainÃ¡l. A vÃ¡ros nagy rÃ©sze elpusztult a hÃ¡borÃºban. A romok kÃ¶zÃ© visszamerÃ©szked? nÃ©hÃ¡ny tÃºlÃ©l? segÃ­tsÃ©gÃ©vel elkezdtÃ¼k az ÃºjjÃ¡Ã©pÃ­tÃ©st.}
+{189}{}{-tovÃ¡bb-}
+{190}{}{AbbÃ³l dolgoztunk, amit talÃ¡ltunk, tudÃ³sainkat Ã©s technolÃ³giÃ¡nkat megcsodÃ¡lhatja a vilÃ¡g. ÃšjjÃ¡Ã©pÃ­tjÃ¼k a civilizÃ¡ciÃ³t, de nem Ãºgy, ahogy az a szÃ¶rny?sÃ©ges Mester tette.}
+{191}{}{Ã‰rtem. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{192}{}{KÃ¶sz. ViszlÃ¡t!}
+{193}{}{HÃ¡t persze. Ã‰s mivel Ã¶n Holliday doki ismer?se... pusztÃ¡n barÃ¡tsÃ¡gbÃ³l. Mondja el a lÃ©pÃ©t hiÃ¡nyolÃ³ barÃ¡tjÃ¡nak, hogy jÃ¶jjÃ¶n ide, Ã©s kap egyet.}
+{194}{}{KÃ¶szÃ¶nÃ¶m! Hadd kÃ©rdezzek mÃ©g valamit.}
+{195}{}{KÃ¶szÃ¶nÃ¶m!}
+{196}{}{Igen. Ezer dollÃ¡rÃ©rt meg tudom csinÃ¡lni. Nem kevesebbÃ©rt. Elfogadja?}
 {197}{}{Igen.}
 {198}{}{Nem.}
-{199}{}{Mondja meg a barátjának, és kap egyet!}
-{200}{}{Köszi. Hadd kérdezzek egy s mást!}
-{201}{}{Köszi.}
-{202}{}{Amíg nincs magánál ezer dollár, semmit nem tehetek érte. Jó napot!}
-{203}{}{Minden jót!}
-{204}{}{A népem ellenségeit nem látom el. Mélyen sajnálom.}
-{205}{}{Igen tisztelt uram! Melegen ajánlom, hogy keresse fel a szektája orvosait!}
-{206}{}{Mit tud mondani a páncél-beültetésekr?l?}
+{199}{}{Mondja meg a barÃ¡tjÃ¡nak, Ã©s kap egyet!}
+{200}{}{KÃ¶szi. Hadd kÃ©rdezzek egy s mÃ¡st!}
+{201}{}{KÃ¶szi.}
+{202}{}{AmÃ­g nincs magÃ¡nÃ¡l ezer dollÃ¡r, semmit nem tehetek Ã©rte. JÃ³ napot!}
+{203}{}{Minden jÃ³t!}
+{204}{}{A nÃ©pem ellensÃ©geit nem lÃ¡tom el. MÃ©lyen sajnÃ¡lom.}
+{205}{}{Igen tisztelt uram! Melegen ajÃ¡nlom, hogy keresse fel a szektÃ¡ja orvosait!}
+{206}{}{Mit tud mondani a pÃ¡ncÃ©l-beÃ¼ltetÃ©sekr?l?}
 {207}{}{I helped write the article on armor implants. All it takes is my expertise and your materials. What types of implants do you desire?}
 {208}{}{What types are there?}
-{209}{}{A b?r alá ültethet? implantokra.}
-{210}{}{A b?r alá ültethet? implantok felturbózására.}
+{209}{}{A b?r alÃ¡ Ã¼ltethet? implantokra.}
+{210}{}{A b?r alÃ¡ Ã¼ltethet? implantok felturbÃ³zÃ¡sÃ¡ra.}
 {211}{}{A F?nix implantra.}
-{212}{}{A F?nix implant felturbózására.}
-{213}{}{Öö... inkább felejtsük el! Volna még néhány kérdésem helyette.}
-{214}{}{Most egyik sem érdekel. Viszlát!}
-{215}{}{Vannak dermális implantjaink, amelyek a becsapódásos sérülések ellen védenek. Ha kedve szottyanna hozzá, fel is turbózhatjuk. Ezenkívül van F?nix implantunk is, amely a h? ellen véd. Ezt szintén feldobhatjuk egy fejlesztéssel. Ha érdeklik ezek a plusszok, el?ször az alaprendszert kell beépíteni. És miel?tt megkérdezné, IGEN, mind a négy operációra igényt tarthat.}
-{216}{}{Nagyszer?! Jöhetnek a dermális implantok.}
-{217}{}{Akarom a dermális implantokat.}
-{218}{}{Befizetnék a dermális turbózásra.}
-{219}{}{Szeretném a F?nix implantot.}
-{220}{}{Itt az id?, hogy beruházzak egy F?nix turbózásra.}
-{221}{}{Öö... inkább felejtsük el! Volna még néhány kérdésem helyette.}
-{222}{}{Most egyik sem érdekel. Viszlát!}
-{223}{}{Kiváló. Szükségem van egy harci páncélzatra, és hát ugye 5500 dollárra. Két napig tart majd az átállás, és meg kell fogadnia, hogy nem piszkálja a varratokat.}
-{224}{}{Csináljuk!}
-{225}{}{Na, akkor hagyjuk! Isten áldja!}
-{226}{}{Szóval a dermális kiegészít?t kéri? Ez jónéhány napot elvesz majd az életéb?l, 33000 dollárja és egy harci páncélja fogja bánni, valamint szép számú vadonatúj sebhellyel lesz gazdagabb, amiket az életben el nem tüntet majd magáról.}
-{227}{}{Na és? Belefér.}
-{228}{}{Hmm. Ez túl nagy ár, elment a kedvem t?le. Na, isten áldja!}
-{229}{}{Ha nem gond magának a 8500 dollár, a néhány nap kényszerpihen? és hogy meg kell válnia egy harci páncéltól, akár bele is foghatunk az operációba.}
-{230}{}{Kötözzön le, doki! Készen állok!}
-{231}{}{Hát ez egy kicsit drágácska. Hadd jöjjek vissza máskor!}
-{232}{}{Ez bizony komoly operáció. Rá fog menni a "jó megjelenése", egy harci páncélja, és 49000 dollárja. Hajlandó belefektetni a dologba?}
-{233}{}{Francba, miért ne! Csináljuk!}
-{234}{}{Az igen! Eléggé... hogyismondjam... drága. Kés?bb visszajövök.}
-{235}{}{::megrázza a fejét:: Ne játszadozzon velem! Probléma van a szükséges hozzávalókkal. Legközelebb jobban figyeljen oda, mit mondok! Most menjen, és csak akkor jöjjön vissza, ha már minden rendelkezésére áll.}
-{236}{}{Oké.}
-{237}{}{Tessék, kész vagyunk! Mostantól fogva ön... fel van turbózva. Emlékeztetném, hogy ne piszkálja a varratokat, hacsak nem akar valami szörny? sebhelyet a mostantól egyébként sem túl gyönyör? kinézetéhez!}
-{238}{}{Köszönöm, doki. Isten áldja!}
-{239}{}{Megvan a pénz a lépre.}
-{240}{}{Újra érdeklik az implantok?}
+{212}{}{A F?nix implant felturbÃ³zÃ¡sÃ¡ra.}
+{213}{}{Ã–Ã¶... inkÃ¡bb felejtsÃ¼k el! Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem helyette.}
+{214}{}{Most egyik sem Ã©rdekel. ViszlÃ¡t!}
+{215}{}{Vannak dermÃ¡lis implantjaink, amelyek a becsapÃ³dÃ¡sos sÃ©rÃ¼lÃ©sek ellen vÃ©denek. Ha kedve szottyanna hozzÃ¡, fel is turbÃ³zhatjuk. EzenkÃ­vÃ¼l van F?nix implantunk is, amely a h? ellen vÃ©d. Ezt szintÃ©n feldobhatjuk egy fejlesztÃ©ssel. Ha Ã©rdeklik ezek a plusszok, el?szÃ¶r az alaprendszert kell beÃ©pÃ­teni. Ã‰s miel?tt megkÃ©rdeznÃ©, IGEN, mind a nÃ©gy operÃ¡ciÃ³ra igÃ©nyt tarthat.}
+{216}{}{Nagyszer?! JÃ¶hetnek a dermÃ¡lis implantok.}
+{217}{}{Akarom a dermÃ¡lis implantokat.}
+{218}{}{BefizetnÃ©k a dermÃ¡lis turbÃ³zÃ¡sra.}
+{219}{}{SzeretnÃ©m a F?nix implantot.}
+{220}{}{Itt az id?, hogy beruhÃ¡zzak egy F?nix turbÃ³zÃ¡sra.}
+{221}{}{Ã–Ã¶... inkÃ¡bb felejtsÃ¼k el! Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem helyette.}
+{222}{}{Most egyik sem Ã©rdekel. ViszlÃ¡t!}
+{223}{}{KivÃ¡lÃ³. SzÃ¼ksÃ©gem van egy harci pÃ¡ncÃ©lzatra, Ã©s hÃ¡t ugye 5500 dollÃ¡rra. KÃ©t napig tart majd az Ã¡tÃ¡llÃ¡s, Ã©s meg kell fogadnia, hogy nem piszkÃ¡lja a varratokat.}
+{224}{}{CsinÃ¡ljuk!}
+{225}{}{Na, akkor hagyjuk! Isten Ã¡ldja!}
+{226}{}{SzÃ³val a dermÃ¡lis kiegÃ©szÃ­t?t kÃ©ri? Ez jÃ³nÃ©hÃ¡ny napot elvesz majd az Ã©letÃ©b?l, 33000 dollÃ¡rja Ã©s egy harci pÃ¡ncÃ©lja fogja bÃ¡nni, valamint szÃ©p szÃ¡mÃº vadonatÃºj sebhellyel lesz gazdagabb, amiket az Ã©letben el nem tÃ¼ntet majd magÃ¡rÃ³l.}
+{227}{}{Na Ã©s? BelefÃ©r.}
+{228}{}{Hmm. Ez tÃºl nagy Ã¡r, elment a kedvem t?le. Na, isten Ã¡ldja!}
+{229}{}{Ha nem gond magÃ¡nak a 8500 dollÃ¡r, a nÃ©hÃ¡ny nap kÃ©nyszerpihen? Ã©s hogy meg kell vÃ¡lnia egy harci pÃ¡ncÃ©ltÃ³l, akÃ¡r bele is foghatunk az operÃ¡ciÃ³ba.}
+{230}{}{KÃ¶tÃ¶zzÃ¶n le, doki! KÃ©szen Ã¡llok!}
+{231}{}{HÃ¡t ez egy kicsit drÃ¡gÃ¡cska. Hadd jÃ¶jjek vissza mÃ¡skor!}
+{232}{}{Ez bizony komoly operÃ¡ciÃ³. RÃ¡ fog menni a "jÃ³ megjelenÃ©se", egy harci pÃ¡ncÃ©lja, Ã©s 49000 dollÃ¡rja. HajlandÃ³ belefektetni a dologba?}
+{233}{}{Francba, miÃ©rt ne! CsinÃ¡ljuk!}
+{234}{}{Az igen! ElÃ©ggÃ©... hogyismondjam... drÃ¡ga. KÃ©s?bb visszajÃ¶vÃ¶k.}
+{235}{}{::megrÃ¡zza a fejÃ©t:: Ne jÃ¡tszadozzon velem! ProblÃ©ma van a szÃ¼ksÃ©ges hozzÃ¡valÃ³kkal. LegkÃ¶zelebb jobban figyeljen oda, mit mondok! Most menjen, Ã©s csak akkor jÃ¶jjÃ¶n vissza, ha mÃ¡r minden rendelkezÃ©sÃ©re Ã¡ll.}
+{236}{}{OkÃ©.}
+{237}{}{TessÃ©k, kÃ©sz vagyunk! MostantÃ³l fogva Ã¶n... fel van turbÃ³zva. EmlÃ©keztetnÃ©m, hogy ne piszkÃ¡lja a varratokat, hacsak nem akar valami szÃ¶rny? sebhelyet a mostantÃ³l egyÃ©bkÃ©nt sem tÃºl gyÃ¶nyÃ¶r? kinÃ©zetÃ©hez!}
+{238}{}{KÃ¶szÃ¶nÃ¶m, doki. Isten Ã¡ldja!}
+{239}{}{Megvan a pÃ©nz a lÃ©pre.}
+{240}{}{Ãšjra Ã©rdeklik az implantok?}

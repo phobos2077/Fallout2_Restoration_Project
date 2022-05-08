@@ -1,4 +1,4 @@
-{100}{}{TÉCNICAS}
+{100}{}{TÃ‰CNICAS}
 {101}{}{CANCELAR}
 {102}{}{SIGILO}
 {103}{}{GANZUA}

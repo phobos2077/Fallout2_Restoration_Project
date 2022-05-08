@@ -1,2 +1,2 @@
-{100}{}{A gekkó gúnyosan rádvigyorog.}
-{101}{}{A gekkó gúnyosan rávigyorgott, mondja }
+{100}{}{A gekkÃ³ gÃºnyosan rÃ¡dvigyorog.}
+{101}{}{A gekkÃ³ gÃºnyosan rÃ¡vigyorgott, mondja }

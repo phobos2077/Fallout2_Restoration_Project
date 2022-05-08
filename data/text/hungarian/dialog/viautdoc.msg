@@ -1,11 +1,11 @@
-{100}{}{Egy Auto-dokit látsz.}
-{101}{}{Egy rozoga Auto-dokit látsz. Kora ellenére jól m?ködik, hála a hathatós segítségednek.}
-{102}{}{Egy Auto-dokit látsz.}
-{103}{}{Egy rozoga Auto-dokit látsz. Kora ellenére jól m?ködik, hála a hathatós segítségednek.}
-{104}{}{Egy lepattant Auto-dokit látsz. Kattog, betegesen zúg és d?l bel?le a forróság.}
-{105}{}{Egy Auto-dokit látsz.}
-{106}{}{Egy lepattant Auto-dokit látsz. Kattog, betegesen zúg és d?l bel?le a forróság.}
-{107}{}{Ez a kiöregedett Auto-doki igencsak javításra szorul. Úgy t?nik, pár évtized eltelt az utolsó karbantartás óta.}
-{108}{}{Nem olyan nagy a baj, mint gondoltad. Csak néhány  kábelt kellett kicserélni és letisztítani a diagnosztikai táblát. Semmiség volt az egész.}
-{109}{}{Megvizsgáltad az Auto-dokit, de nem derült ki, mi lehet a baja.}
-{110}{}{Már megjavítottad az Auto-dokit. Szépen m?ködik, ha minden igaz.}
+{100}{}{Egy Auto-dokit lÃ¡tsz.}
+{101}{}{Egy rozoga Auto-dokit lÃ¡tsz. Kora ellenÃ©re jÃ³l m?kÃ¶dik, hÃ¡la a hathatÃ³s segÃ­tsÃ©gednek.}
+{102}{}{Egy Auto-dokit lÃ¡tsz.}
+{103}{}{Egy rozoga Auto-dokit lÃ¡tsz. Kora ellenÃ©re jÃ³l m?kÃ¶dik, hÃ¡la a hathatÃ³s segÃ­tsÃ©gednek.}
+{104}{}{Egy lepattant Auto-dokit lÃ¡tsz. Kattog, betegesen zÃºg Ã©s d?l bel?le a forrÃ³sÃ¡g.}
+{105}{}{Egy Auto-dokit lÃ¡tsz.}
+{106}{}{Egy lepattant Auto-dokit lÃ¡tsz. Kattog, betegesen zÃºg Ã©s d?l bel?le a forrÃ³sÃ¡g.}
+{107}{}{Ez a kiÃ¶regedett Auto-doki igencsak javÃ­tÃ¡sra szorul. Ãšgy t?nik, pÃ¡r Ã©vtized eltelt az utolsÃ³ karbantartÃ¡s Ã³ta.}
+{108}{}{Nem olyan nagy a baj, mint gondoltad. Csak nÃ©hÃ¡ny  kÃ¡belt kellett kicserÃ©lni Ã©s letisztÃ­tani a diagnosztikai tÃ¡blÃ¡t. SemmisÃ©g volt az egÃ©sz.}
+{109}{}{MegvizsgÃ¡ltad az Auto-dokit, de nem derÃ¼lt ki, mi lehet a baja.}
+{110}{}{MÃ¡r megjavÃ­tottad az Auto-dokit. SzÃ©pen m?kÃ¶dik, ha minden igaz.}

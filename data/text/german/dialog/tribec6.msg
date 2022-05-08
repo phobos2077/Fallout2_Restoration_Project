@@ -1,23 +1,23 @@
 {100}{}{Brauchst du etwas?}
 {101}{}{Ja. Ich wundere mich gerade, wen du da bewachst?}
-{102}{}{Meinst du mich? Äh, ich brauch nichts. Tschüss.}
+{102}{}{Meinst du mich? Ã„h, ich brauch nichts. TschÃ¼ss.}
 {103}{}{Wen du bewachen?}
 {104}{}{Wiedersehn!}
-{110}{}{Ich bewache unseren heiligen Stammesführer. Er, der mit den Seelen wandert. Eine Ehre ihn zu bewachen. Ich halte Unerwüchte, wie dich, von ihm fern. Nun geh.}
+{110}{}{Ich bewache unseren heiligen StammesfÃ¼hrer. Er, der mit den Seelen wandert. Eine Ehre ihn zu bewachen. Ich halte UnerwÃ¼chte, wie dich, von ihm fern. Nun geh.}
 {111}{}{[Fertig]}
-{120}{}{Ich sagte doch, du sollst gehen, aber du hörst einfach nicht. Ich setze die Geister der Raserei frei, wenn die Leute nicht hören wollen. Nimm die Beine in die Hand und verschwinde.}
+{120}{}{Ich sagte doch, du sollst gehen, aber du hÃ¶rst einfach nicht. Ich setze die Geister der Raserei frei, wenn die Leute nicht hÃ¶ren wollen. Nimm die Beine in die Hand und verschwinde.}
 {121}{}{[Fertig]}
-{130}{}{Hab von deinen guten Taten gehört. Vergib mir, dass ich so ein Rüpel war, Freund. Geh hinein, er wartet schon auf dich.}
-{131}{}{Hab von deinen guten Taten gehört, Freund. Geh hinein, er wartet schon auf dich.}
+{130}{}{Hab von deinen guten Taten gehÃ¶rt. Vergib mir, dass ich so ein RÃ¼pel war, Freund. Geh hinein, er wartet schon auf dich.}
+{131}{}{Hab von deinen guten Taten gehÃ¶rt, Freund. Geh hinein, er wartet schon auf dich.}
 {132}{}{Danke.}
 {133}{}{Hui.}
-{140}{}{Ich grüße dich, Freund.}
+{140}{}{Ich grÃ¼ÃŸe dich, Freund.}
 {141}{}{Wie laufen die Dinge, Krieger?}
 {142}{}{Jetzt geh schon rein.}
-{143}{}{Seid gegrüßt, Krieger.}
-{144}{}{Schön dich wieder zu sehn, Freund.}
-{260}{}{Versuch mich zu töten, Sklavenhändler!}
-{300}{}{Du siehst einen kräftigen Wilden.}
-{301}{}{Du siehst den Wächter vom Stammesführer.}
+{143}{}{Seid gegrÃ¼ÃŸt, Krieger.}
+{144}{}{SchÃ¶n dich wieder zu sehn, Freund.}
+{260}{}{Versuch mich zu tÃ¶ten, SklavenhÃ¤ndler!}
+{300}{}{Du siehst einen krÃ¤ftigen Wilden.}
+{301}{}{Du siehst den WÃ¤chter vom StammesfÃ¼hrer.}
 {302}{}{Dieser Mann beobachtet dich mit einem eindringenden Blick. Ganz sicher bewacht er irgendwas wichtiges.}
 {500}{}{Du wirst hier immer willkommen sein, Held.}

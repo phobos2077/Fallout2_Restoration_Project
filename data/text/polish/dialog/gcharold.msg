@@ -1,222 +1,222 @@
-{100}{}{Widzisz wyj¹tkowo ³ykowatego ghula.}
+{100}{}{Widzisz wyjÄ…tkowo Å‚ykowatego ghula.}
 {101}{}{Widzisz Harolda.}
-{102}{}{Widzisz bardzo starego, ale wci¹¿ ¿wawego ghula.}
-{103}{hld1a}{Muszê ci to rzec, stary Harold sam jezd niezbyt szybki. Gadaj¹c ze sob¹ nigdy nie doszlibyœmy do koñca.}
-{104}{hld1b}{Aach, czy¿ to nie s³odkie? Wisz, ja nie mam czasu, ¿eby próbowaæ ciê zrozumiæ.}
+{102}{}{Widzisz bardzo starego, ale wciÄ…Å¼ Å¼wawego ghula.}
+{103}{hld1a}{MuszÄ™ ci to rzec, stary Harold sam jezd niezbyt szybki. GadajÄ…c ze sobÄ… nigdy nie doszlibyÅ›my do koÅ„ca.}
+{104}{hld1b}{Aach, czyÅ¼ to nie sÅ‚odkie? Wisz, ja nie mam czasu, Å¼eby prÃ³bowaÄ‡ ciÄ™ zrozumiÄ‡.}
 {105}{hld1c}{He he, nie ma co, dajesz do pieca.}
-{106}{hld2a}{Hejka g³adkoskórku. Harold jestem. Trzymam to miasto na nogach.}
-{107}{hld2a1}{Czegó¿ ci trza, m³odziku?}
-{108}{hld2b}{No no, Boziu-niech-skonam, g³adkoskórku. Pomaganie nam z t¹ nasz¹ elektrowni¹ to wielka przys³uga. Harold jestem. Trzymam to miasto na nogach.}
-{109}{hld2c}{Wielce¿ mi³o to z twojej strony, ¿e pomagasz nam z t¹ nasz¹ elektrowni¹ atomow¹. Jesteœmy twoimi¿ d³u¿nikami. No wiêc, có¿ mo¿e zrobiæ dla ciebe ten¿e stary, pokrêcony truposz?}
-{110}{hld2d}{Coœ¿e w sobie masz. Zupe³nie jak orygina³. Có¿ mo¿e stary Harold dla ciebie¿ zrobiæ, Przybyszu z Krypty?}
-{111}{hld2e}{Czy¿ nie doœæ ci ju¿ naszej krzywdy, g³adkoskórku? Czegó¿ chcesz tym razem?}
-{112}{}{G³adkoskórek? Czemu mnie tak nazwa³eœ?}
+{106}{hld2a}{Hejka gÅ‚adkoskÃ³rku. Harold jestem. Trzymam to miasto na nogach.}
+{107}{hld2a1}{CzegÃ³Å¼ ci trza, mÅ‚odziku?}
+{108}{hld2b}{No no, Boziu-niech-skonam, gÅ‚adkoskÃ³rku. Pomaganie nam z tÄ… naszÄ… elektrowniÄ… to wielka przysÅ‚uga. Harold jestem. Trzymam to miasto na nogach.}
+{109}{hld2c}{WielceÅ¼ miÅ‚o to z twojej strony, Å¼e pomagasz nam z tÄ… naszÄ… elektrowniÄ… atomowÄ…. JesteÅ›my twoimiÅ¼ dÅ‚uÅ¼nikami. No wiÄ™c, cÃ³Å¼ moÅ¼e zrobiÄ‡ dla ciebe tenÅ¼e stary, pokrÄ™cony truposz?}
+{110}{hld2d}{CoÅ›Å¼e w sobie masz. ZupeÅ‚nie jak oryginaÅ‚. CÃ³Å¼ moÅ¼e stary Harold dla ciebieÅ¼ zrobiÄ‡, Przybyszu z Krypty?}
+{111}{hld2e}{CzyÅ¼ nie doÅ›Ä‡ ci juÅ¼ naszej krzywdy, gÅ‚adkoskÃ³rku? CzegÃ³Å¼ chcesz tym razem?}
+{112}{}{GÅ‚adkoskÃ³rek? Czemu mnie tak nazwaÅ‚eÅ›?}
 {113}{}{Przybysz z Krypty? Nie jestem Przybyszem z Krypty.}
-{114}{}{Witaj Haroldzie. Czym siê tutaj zajmujesz?}
-{115}{}{Jest tu jakieœ miejsce, gdzie mo¿na by wymieniæ towary i zaopatrzyæ siê?}
-{116}{}{Czy to coœ, co wyrasta z twojej g³owy, to drzewo?}
-{117}{}{Na pewno wiesz czy istnieje coœ takiego jak Generator Ekosystemu Cudownej Krainy.}
-{118}{}{Haroldzie, czy móg³byœ mi powiedzieæ, gdzie tu siê mo¿na wyleczyæ?}
-{119}{}{Wiem, ¿e pewnie wci¹¿ jesteœ wkurzony, ale mówi³eœ coœ o Mistrzu. Mój przodek go zabi³.}
-{120}{}{Witaj Harold. Tylko tak przelotnie zagl¹dam. Do widzenia.}
-{121}{hld3}{Co-cokolwiek potrzeba, by utrzymaæ to miejsce w jednym kawa³ku. Bardziej to s³u¿y jemu ni¿ mnie.}
-{122}{}{Czy to miejsce siê rozlatuje?}
-{123}{}{Nie wygl¹dasz dobrze.}
-{124}{hld3a}{Tia, ale œwietnie siê trzymam jak na kogoœ martwego! Nigdy nie nudzi mnie mina tych, którym to powiadam.}
-{125}{}{Ach tak... a wiêc mówisz, ¿e to miejsce siê rozlatuje?}
-{126}{}{Martwego, powiadasz? Có¿, w takim razie trzymasz siê œwietnie. Jak to dobrze, ¿e mo¿esz odpowiedzieæ na moje nastêpne pytanie.}
-{127}{hld4a}{No, mniej wiêcej. Nasz reaktor atomowy jezd odrobinkie... wra¿liwy. Ludzie, których tu mam do pilnowania go, maj¹ dobre chêci, ale... có¿, nie s¹ najostrzejszymi narzêdziami w tej szufladzie. Jeœli wiesz o co mi chodzi.}
-{128}{hld4b}{No, ju¿ jest lepiej odk¹d uda³o ci siê naprawiæ nasz reaktor. Nigdy¿em bym nie uwierzy³, ¿e ktoœ móg³by zmusiæ tych¿e idiontów z Kryptopolis, ¿eby nam pomogli.}
-{129}{hld4c}{Wiesz, nie jest ju¿ tak Ÿle. Najpierw naprawiasz nam elektrowniê, potem przynosisz nam informacje potrzebne, ¿eby by³a jak nowa. Boziu-niech-skonam, prawdziwy¿ z ciebie skarb!}
+{114}{}{Witaj Haroldzie. Czym siÄ™ tutaj zajmujesz?}
+{115}{}{Jest tu jakieÅ› miejsce, gdzie moÅ¼na by wymieniÄ‡ towary i zaopatrzyÄ‡ siÄ™?}
+{116}{}{Czy to coÅ›, co wyrasta z twojej gÅ‚owy, to drzewo?}
+{117}{}{Na pewno wiesz czy istnieje coÅ› takiego jak Generator Ekosystemu Cudownej Krainy.}
+{118}{}{Haroldzie, czy mÃ³gÅ‚byÅ› mi powiedzieÄ‡, gdzie tu siÄ™ moÅ¼na wyleczyÄ‡?}
+{119}{}{Wiem, Å¼e pewnie wciÄ…Å¼ jesteÅ› wkurzony, ale mÃ³wiÅ‚eÅ› coÅ› o Mistrzu. MÃ³j przodek go zabiÅ‚.}
+{120}{}{Witaj Harold. Tylko tak przelotnie zaglÄ…dam. Do widzenia.}
+{121}{hld3}{Co-cokolwiek potrzeba, by utrzymaÄ‡ to miejsce w jednym kawaÅ‚ku. Bardziej to sÅ‚uÅ¼y jemu niÅ¼ mnie.}
+{122}{}{Czy to miejsce siÄ™ rozlatuje?}
+{123}{}{Nie wyglÄ…dasz dobrze.}
+{124}{hld3a}{Tia, ale Å›wietnie siÄ™ trzymam jak na kogoÅ› martwego! Nigdy nie nudzi mnie mina tych, ktÃ³rym to powiadam.}
+{125}{}{Ach tak... a wiÄ™c mÃ³wisz, Å¼e to miejsce siÄ™ rozlatuje?}
+{126}{}{Martwego, powiadasz? CÃ³Å¼, w takim razie trzymasz siÄ™ Å›wietnie. Jak to dobrze, Å¼e moÅ¼esz odpowiedzieÄ‡ na moje nastÄ™pne pytanie.}
+{127}{hld4a}{No, mniej wiÄ™cej. Nasz reaktor atomowy jezd odrobinkie... wraÅ¼liwy. Ludzie, ktÃ³rych tu mam do pilnowania go, majÄ… dobre chÄ™ci, ale... cÃ³Å¼, nie sÄ… najostrzejszymi narzÄ™dziami w tej szufladzie. JeÅ›li wiesz o co mi chodzi.}
+{128}{hld4b}{No, juÅ¼ jest lepiej odkÄ…d udaÅ‚o ci siÄ™ naprawiÄ‡ nasz reaktor. NigdyÅ¼em bym nie uwierzyÅ‚, Å¼e ktoÅ› mÃ³gÅ‚by zmusiÄ‡ tychÅ¼e idiontÃ³w z Kryptopolis, Å¼eby nam pomogli.}
+{129}{hld4c}{Wiesz, nie jest juÅ¼ tak Åºle. Najpierw naprawiasz nam elektrowniÄ™, potem przynosisz nam informacje potrzebne, Å¼eby byÅ‚a jak nowa. Boziu-niech-skonam, prawdziwyÅ¼ z ciebie skarb!}
 {130}{}{Co to znaczy?}
-{131}{}{To nie by³oby mi³e, gdyby Kryptopolis zniszczy³o wasze miasto.}
-{132}{}{No wiesz, to nie by³oby mi³e, gdyby Kryptopolis zniszczy³o wasze miasto. Poza tym naprawianie waszej elektrowni by³o równie¿ w ich najlepszym interesie.}
-{133}{}{Naprawianie waszego reaktora le¿y w interesie Kryptopolis, wiêc wyci¹gniêcie od nich danych optymalizacyjnych nie by³o takie trudne.}
-{134}{}{Nie lubiê zostawiaæ roboty zrobionej tylko w po³owie.}
-{135}{}{By³oby bardzo mi³o zostaæ i pogadaæ z tob¹, ale s¹ rzeczy, które muszê zrobiæ i miejsca, które muszê odwiedziæ. Do widzenia.}
-{136}{hld5}{No wiêc, technicznie rzecz ujmuj¹c to... to jezd takie¿ ma³e coœ.}
+{131}{}{To nie byÅ‚oby miÅ‚e, gdyby Kryptopolis zniszczyÅ‚o wasze miasto.}
+{132}{}{No wiesz, to nie byÅ‚oby miÅ‚e, gdyby Kryptopolis zniszczyÅ‚o wasze miasto. Poza tym naprawianie waszej elektrowni byÅ‚o rÃ³wnieÅ¼ w ich najlepszym interesie.}
+{133}{}{Naprawianie waszego reaktora leÅ¼y w interesie Kryptopolis, wiÄ™c wyciÄ…gniÄ™cie od nich danych optymalizacyjnych nie byÅ‚o takie trudne.}
+{134}{}{Nie lubiÄ™ zostawiaÄ‡ roboty zrobionej tylko w poÅ‚owie.}
+{135}{}{ByÅ‚oby bardzo miÅ‚o zostaÄ‡ i pogadaÄ‡ z tobÄ…, ale sÄ… rzeczy, ktÃ³re muszÄ™ zrobiÄ‡ i miejsca, ktÃ³re muszÄ™ odwiedziÄ‡. Do widzenia.}
+{136}{hld5}{No wiÄ™c, technicznie rzecz ujmujÄ…c to... to jezd takieÅ¼ maÅ‚e coÅ›.}
 {137}{}{No dobra, a co to robi?}
-{138}{hld6}{Te¿ trza ci trochê czasu, ¿eby siê naostrzyæ, co? Chodzi mi o to, ¿e nie s¹ zbyt bystrzy. Oto przyk³ad. Któregoœ dnia dostajê raport mówi¹cy, ¿e zawór g³ównego zespo³u ch³odz¹cego powinien zostaæ zakrêcony. To by zrobi³o takie¿ roztopienie rdzenia, ¿e ca³y Wielki Kanion wygl¹da³by jak ma³pi gaj.}
-{139}{}{To brzmi groŸnie.}
-{140}{hld7}{O taak, to by by³o groŸne. No, wszystko zosta³o naprawione na czas, ale byliœmy bliscy zejœcia. Potrzeba im kogoœ, co by ich pilnowa³.}
-{141}{}{Na szczêœcie jesteœ tu, ¿eby im pomóc.}
-{142}{hld8}{Któ¿ by pomyœla³, ¿e zrobiê to jak trzeba? Tym niemniej je¿eli szybko nie dostaniemy Hydroelektrycznego Regulatora Magnetosfery, to bêd¹ k³opoty.}
-{143}{}{A co to u licha jest Hydra-negoregutor-magnacoœtam?}
-{144}{}{Hmm, rzeczywiœcie, to brzmi jak prawdziwy problem. Pozwól, ¿e zapytam ciê o coœ innego.}
-{145}{}{K³opoty? Jakiego rodzaju k³opoty?}
-{146}{}{Có¿, doœæ ju¿ chyba zmarnowano twojego czasu. ¯egnam.}
-{147}{hld9}{Do diab³a, gdyby¿ nie ty, to ci oni idioci z Kryptopolis by nas ¿esz tu uko³ysali do wielkiej, d³uugiej drzemki.}
-{148}{}{Nie mo¿na by³o pozwoliæ Kryptopolis na zabicie was wszystkich.}
-{149}{}{Mi³o by³o pomóc, Haroldzie. Pozwól jednak, ¿e zapytam o coœ innego. }
-{150}{hld11a}{Strasznie¿ to mi³o od ciebie. Niewielu g³adkoskórków zrobi³oby to dla miasta, gdzie roi siê od ghuli. Tak jakby przypomina mi to pewnogo¿ g³adoskórka, którego zna³em, kupê lat temu.}
+{138}{hld6}{TeÅ¼ trza ci trochÄ™ czasu, Å¼eby siÄ™ naostrzyÄ‡, co? Chodzi mi o to, Å¼e nie sÄ… zbyt bystrzy. Oto przykÅ‚ad. KtÃ³regoÅ› dnia dostajÄ™ raport mÃ³wiÄ…cy, Å¼e zawÃ³r gÅ‚Ã³wnego zespoÅ‚u chÅ‚odzÄ…cego powinien zostaÄ‡ zakrÄ™cony. To by zrobiÅ‚o takieÅ¼ roztopienie rdzenia, Å¼e caÅ‚y Wielki Kanion wyglÄ…daÅ‚by jak maÅ‚pi gaj.}
+{139}{}{To brzmi groÅºnie.}
+{140}{hld7}{O taak, to by byÅ‚o groÅºne. No, wszystko zostaÅ‚o naprawione na czas, ale byliÅ›my bliscy zejÅ›cia. Potrzeba im kogoÅ›, co by ich pilnowaÅ‚.}
+{141}{}{Na szczÄ™Å›cie jesteÅ› tu, Å¼eby im pomÃ³c.}
+{142}{hld8}{KtÃ³Å¼ by pomyÅ›laÅ‚, Å¼e zrobiÄ™ to jak trzeba? Tym niemniej jeÅ¼eli szybko nie dostaniemy Hydroelektrycznego Regulatora Magnetosfery, to bÄ™dÄ… kÅ‚opoty.}
+{143}{}{A co to u licha jest Hydra-negoregutor-magnacoÅ›tam?}
+{144}{}{Hmm, rzeczywiÅ›cie, to brzmi jak prawdziwy problem. PozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{145}{}{KÅ‚opoty? Jakiego rodzaju kÅ‚opoty?}
+{146}{}{CÃ³Å¼, doÅ›Ä‡ juÅ¼ chyba zmarnowano twojego czasu. Å»egnam.}
+{147}{hld9}{Do diabÅ‚a, gdybyÅ¼ nie ty, to ci oni idioci z Kryptopolis by nas Å¼esz tu ukoÅ‚ysali do wielkiej, dÅ‚uugiej drzemki.}
+{148}{}{Nie moÅ¼na byÅ‚o pozwoliÄ‡ Kryptopolis na zabicie was wszystkich.}
+{149}{}{MiÅ‚o byÅ‚o pomÃ³c, Haroldzie. PozwÃ³l jednak, Å¼e zapytam o coÅ› innego. }
+{150}{hld11a}{StrasznieÅ¼ to miÅ‚o od ciebie. Niewielu gÅ‚adkoskÃ³rkÃ³w zrobiÅ‚oby to dla miasta, gdzie roi siÄ™ od ghuli. Tak jakby przypomina mi to pewnogoÅ¼ gÅ‚adoskÃ³rka, ktÃ³rego znaÅ‚em, kupÄ™ lat temu.}
 {151}{hld11b}{Wiesz, bardzo przypominasz Przybysza z Krypty.}
-{152}{}{Innego g³adoskórka? Co masz na myœli?}
-{153}{}{Dziêki. Mam nadziejê, ¿e dorównam mojemu przodkowi. Póki jednak tu jestem, pozwól, ¿e zapytam o coœ, co mog³oby mi pomóc.}
-{154}{}{Mi³o by³o pomóc. Pozwól jednak, ¿e zapytam o coœ innego.}
-{155}{}{Wiesz, to naprawdê zwyk³a, codzienna robota. No, ale muszê ju¿ lecieæ. Wiesz, ludzie do uratowania, potwory do ukatrupienia, katastrofy do zapobie¿enia i takie tam. Do widzenia.}
-{156}{hld14}{Tniesz têp¹ stron¹ no¿a, czy¿ nie? Nie wygl¹dasz jak pomarañczowa pestka wystawiona przez ca³y dzieñ na s³oñce. Twoja skóra wci¹¿ jest g³adka i zdrowa.}
-{157}{}{Tu mnie masz. Postaram siê, ¿eby nastêpne pytanie by³o m¹drzejsze.}
-{158}{}{Och. Rzeczywiœcie. Hej, pozwól, ¿e zapytam o coœ jeszcze.}
-{159}{}{Lepiej, ¿ebyœ nie mia³ ¿adnych œmiesznych pomys³ów na temat mojej g³adkiej skóry.}
-{160}{}{Uch, no có¿, lepiej ju¿ pójdê. ¯egnam.}
-{161}{hld15}{Œmiesznych pomys³ów? Masz na myœli obdarcie ciê za ¿ycia zardzewia³ym, têpym, starym no¿em i przyszycie twojej wci¹¿ ciep³ej, wilgotnej, lœni¹cej, och-jak-cudownie-g³adkiej skóry do mojego szorstkiego, rozk³adaj¹cego siê, ociekaj¹cego œluzem cielska?}
-{162}{}{Hej! Ty siê lepiej do diab³a trzymaj ode mnie z daleka. Wynoszê siê st¹d, póki jeszcze wci¹¿ mam swoj¹ skórê!}
-{163}{}{W³aœnie, dok³adnie to mam na myœli. Dobrze to uj¹³eœ.}
-{164}{hld16}{Noo, w takiem razie nie masz o co siê martwiæ... nie mogê nigdzie znaleŸæ mojego no¿a.}
-{165}{}{Co ty na to, ¿e zmieniê temat zadaj¹c kolejne pytanie?}
-{166}{}{Wiesz co, lepiej trzymaj swoje brudne graby z dala od mojej skóry. ¯egnam.}
-{167}{hld17}{Wiêcej skóóry! Muszê mieæ wiêcej skóóry! (krztusi siê ze œmiechu) Co¿e¿ siê sta³o? Twoje¿ poczucie humoru zgubi³o siem gdzieœ na pustyni?}
-{168}{}{Mam na g³owie du¿o spraw, nie? Potrzebujê kilku informacji.}
-{169}{}{Chyba lepiej bêdzie, jeœli pójdê go poszukac. Do widzenia.}
-{170}{hld18}{W³aœnie puœci³em wielkiego b¹ka, a mimo to wci¹¿ czujê twój smród. Czemu¿ sobie st¹d nie wybêdziesz?}
-{171}{}{Dobrze, ale najpierw chcê przeprosiæ za moje wczeœniejsze zachowanie.}
-{172}{}{W³ó¿ sobie tam skarpetê, ty stary, œmierdz¹cy ghulu. ¯egnam.}
-{173}{hld19}{To jezd dobry pocz¹tek, ale musisz postaraæ siê bardziej.}
-{174}{}{Nie wiem co jeszcze powiedzieæ. Chyba po prostu nie radzê sobie z rzeczami, które s¹ dla mnie nowe. Przykro mi.}
-{175}{}{No dobrze, co powiesz na to? Gdyby trafi³o mi siê miêso w po³owie tak brzydkie jak ty, to nale¿a³oby je spaliæ by uchroniæ padlino¿erców przez zatruciem siê nim. ¯egnam.}
-{176}{hld20a}{Ju¿ dobrze. Ale lepiej przestañ byæ taki cymba³.}
-{177}{hld20b}{Coœ ci powiem dziecko. £adnie siê starasz, ale wci¹¿ z ciebie kawa³ idionty. Mo¿e to bêdzie dla ciebie nauczk¹. Ju¿ ciê tu nie ma.}
-{178}{}{Przepraszam. Teraz, kiedy ju¿ to omówiliœmy, pozwól, ¿e ciê o coœ zapytam.}
-{179}{}{W porz¹dku. Do widzenia.}
-{180}{hld21a}{Wolê ju¿ wygl¹daæ tak, ni¿ wygl¹daæ jak ty i musieæ byæ tob¹. Jesteœ cymba³. Do diab³a, wynoœ siê st¹d. }
-{181}{hld21b}{Jesteœ jak ten wredny robal, co wgryza siê w palec i nie daje siê strz¹sn¹æ. Ale ja siê ca³y czas trzêsê... Och, s³uchaj, po prostu st¹d zmiataj!}
-{182}{hld21c}{Proszê proszê, popatrzcie, co te¿ wiatr tu przywia³. Moja ulubiona kupa ³ajna. Dlaczegó¿ nie pole¿ysz sobie gdzieœ indziej?}
-{183}{hld21d}{Chceta wiedzieæ, jak trzymaæ idiontê w niepewnoœci?}
-{184}{hld21e}{Hej, mia³em nadziejê, ¿e siê pojawisz. Przyznano ci nagrodê dla najwiêkszegó¿ pacana. Urz¹dzili bal na twoj¹ czeœæ dziesiêæ mil na pó³noc od miasta. Lepiej siê poœpiesz.}
+{152}{}{Innego gÅ‚adoskÃ³rka? Co masz na myÅ›li?}
+{153}{}{DziÄ™ki. Mam nadziejÄ™, Å¼e dorÃ³wnam mojemu przodkowi. PÃ³ki jednak tu jestem, pozwÃ³l, Å¼e zapytam o coÅ›, co mogÅ‚oby mi pomÃ³c.}
+{154}{}{MiÅ‚o byÅ‚o pomÃ³c. PozwÃ³l jednak, Å¼e zapytam o coÅ› innego.}
+{155}{}{Wiesz, to naprawdÄ™ zwykÅ‚a, codzienna robota. No, ale muszÄ™ juÅ¼ lecieÄ‡. Wiesz, ludzie do uratowania, potwory do ukatrupienia, katastrofy do zapobieÅ¼enia i takie tam. Do widzenia.}
+{156}{hld14}{Tniesz tÄ™pÄ… stronÄ… noÅ¼a, czyÅ¼ nie? Nie wyglÄ…dasz jak pomaraÅ„czowa pestka wystawiona przez caÅ‚y dzieÅ„ na sÅ‚oÅ„ce. Twoja skÃ³ra wciÄ…Å¼ jest gÅ‚adka i zdrowa.}
+{157}{}{Tu mnie masz. Postaram siÄ™, Å¼eby nastÄ™pne pytanie byÅ‚o mÄ…drzejsze.}
+{158}{}{Och. RzeczywiÅ›cie. Hej, pozwÃ³l, Å¼e zapytam o coÅ› jeszcze.}
+{159}{}{Lepiej, Å¼ebyÅ› nie miaÅ‚ Å¼adnych Å›miesznych pomysÅ‚Ã³w na temat mojej gÅ‚adkiej skÃ³ry.}
+{160}{}{Uch, no cÃ³Å¼, lepiej juÅ¼ pÃ³jdÄ™. Å»egnam.}
+{161}{hld15}{Åšmiesznych pomysÅ‚Ã³w? Masz na myÅ›li obdarcie ciÄ™ za Å¼ycia zardzewiaÅ‚ym, tÄ™pym, starym noÅ¼em i przyszycie twojej wciÄ…Å¼ ciepÅ‚ej, wilgotnej, lÅ›niÄ…cej, och-jak-cudownie-gÅ‚adkiej skÃ³ry do mojego szorstkiego, rozkÅ‚adajÄ…cego siÄ™, ociekajÄ…cego Å›luzem cielska?}
+{162}{}{Hej! Ty siÄ™ lepiej do diabÅ‚a trzymaj ode mnie z daleka. WynoszÄ™ siÄ™ stÄ…d, pÃ³ki jeszcze wciÄ…Å¼ mam swojÄ… skÃ³rÄ™!}
+{163}{}{WÅ‚aÅ›nie, dokÅ‚adnie to mam na myÅ›li. Dobrze to ujÄ…Å‚eÅ›.}
+{164}{hld16}{Noo, w takiem razie nie masz o co siÄ™ martwiÄ‡... nie mogÄ™ nigdzie znaleÅºÄ‡ mojego noÅ¼a.}
+{165}{}{Co ty na to, Å¼e zmieniÄ™ temat zadajÄ…c kolejne pytanie?}
+{166}{}{Wiesz co, lepiej trzymaj swoje brudne graby z dala od mojej skÃ³ry. Å»egnam.}
+{167}{hld17}{WiÄ™cej skÃ³Ã³ry! MuszÄ™ mieÄ‡ wiÄ™cej skÃ³Ã³ry! (krztusi siÄ™ ze Å›miechu) CoÅ¼eÅ¼ siÄ™ staÅ‚o? TwojeÅ¼ poczucie humoru zgubiÅ‚o siem gdzieÅ› na pustyni?}
+{168}{}{Mam na gÅ‚owie duÅ¼o spraw, nie? PotrzebujÄ™ kilku informacji.}
+{169}{}{Chyba lepiej bÄ™dzie, jeÅ›li pÃ³jdÄ™ go poszukac. Do widzenia.}
+{170}{hld18}{WÅ‚aÅ›nie puÅ›ciÅ‚em wielkiego bÄ…ka, a mimo to wciÄ…Å¼ czujÄ™ twÃ³j smrÃ³d. CzemuÅ¼ sobie stÄ…d nie wybÄ™dziesz?}
+{171}{}{Dobrze, ale najpierw chcÄ™ przeprosiÄ‡ za moje wczeÅ›niejsze zachowanie.}
+{172}{}{WÅ‚Ã³Å¼ sobie tam skarpetÄ™, ty stary, Å›mierdzÄ…cy ghulu. Å»egnam.}
+{173}{hld19}{To jezd dobry poczÄ…tek, ale musisz postaraÄ‡ siÄ™ bardziej.}
+{174}{}{Nie wiem co jeszcze powiedzieÄ‡. Chyba po prostu nie radzÄ™ sobie z rzeczami, ktÃ³re sÄ… dla mnie nowe. Przykro mi.}
+{175}{}{No dobrze, co powiesz na to? Gdyby trafiÅ‚o mi siÄ™ miÄ™so w poÅ‚owie tak brzydkie jak ty, to naleÅ¼aÅ‚oby je spaliÄ‡ by uchroniÄ‡ padlinoÅ¼ercÃ³w przez zatruciem siÄ™ nim. Å»egnam.}
+{176}{hld20a}{JuÅ¼ dobrze. Ale lepiej przestaÅ„ byÄ‡ taki cymbaÅ‚.}
+{177}{hld20b}{CoÅ› ci powiem dziecko. Åadnie siÄ™ starasz, ale wciÄ…Å¼ z ciebie kawaÅ‚ idionty. MoÅ¼e to bÄ™dzie dla ciebie nauczkÄ…. JuÅ¼ ciÄ™ tu nie ma.}
+{178}{}{Przepraszam. Teraz, kiedy juÅ¼ to omÃ³wiliÅ›my, pozwÃ³l, Å¼e ciÄ™ o coÅ› zapytam.}
+{179}{}{W porzÄ…dku. Do widzenia.}
+{180}{hld21a}{WolÄ™ juÅ¼ wyglÄ…daÄ‡ tak, niÅ¼ wyglÄ…daÄ‡ jak ty i musieÄ‡ byÄ‡ tobÄ…. JesteÅ› cymbaÅ‚. Do diabÅ‚a, wynoÅ› siÄ™ stÄ…d. }
+{181}{hld21b}{JesteÅ› jak ten wredny robal, co wgryza siÄ™ w palec i nie daje siÄ™ strzÄ…snÄ…Ä‡. Ale ja siÄ™ caÅ‚y czas trzÄ™sÄ™... Och, sÅ‚uchaj, po prostu stÄ…d zmiataj!}
+{182}{hld21c}{ProszÄ™ proszÄ™, popatrzcie, co teÅ¼ wiatr tu przywiaÅ‚. Moja ulubiona kupa Å‚ajna. DlaczegÃ³Å¼ nie poleÅ¼ysz sobie gdzieÅ› indziej?}
+{183}{hld21d}{Chceta wiedzieÄ‡, jak trzymaÄ‡ idiontÄ™ w niepewnoÅ›ci?}
+{184}{hld21e}{Hej, miaÅ‚em nadziejÄ™, Å¼e siÄ™ pojawisz. Przyznano ci nagrodÄ™ dla najwiÄ™kszegÃ³Å¼ pacana. UrzÄ…dzili bal na twojÄ… czeÅ›Ä‡ dziesiÄ™Ä‡ mil na pÃ³Å‚noc od miasta. Lepiej siÄ™ poÅ›piesz.}
 {185}{hld26}{Ich najlepszy interes? Co przez to rozumiesz?}
-{186}{}{No wiêc, zgodnie z pewnymi posiadanymi przeze mnie danymi ekonomicznymi, pozycja Kryptopolis bardzo by siê wzmocni³a, gdyby pomogli naprawiæ wasz¹ elektrowniê.}
-{187}{}{Mam na myœli, ¿e zawsze lepiej jest jakoœ u³o¿yæ siê z innymi.}
+{186}{}{No wiÄ™c, zgodnie z pewnymi posiadanymi przeze mnie danymi ekonomicznymi, pozycja Kryptopolis bardzo by siÄ™ wzmocniÅ‚a, gdyby pomogli naprawiÄ‡ waszÄ… elektrowniÄ™.}
+{187}{}{Mam na myÅ›li, Å¼e zawsze lepiej jest jakoÅ› uÅ‚oÅ¼yÄ‡ siÄ™ z innymi.}
 {188}{}{Uhm, nic takiego.}
-{189}{}{O kurczê, jest du¿o póŸniej, ni¿ mi siê wydawa³o. Lepiej ju¿ pójdê. Do widzenia.}
-{190}{hld27}{Dane ekonomiczne? Nie zdarzy³o ci siê chyba daæ im te informacje, o kt-których Gordon tyle¿ rozpowiada, co?}
-{191}{}{Uch, zdarzy³o mi siê, a co?}
-{192}{}{Uch, nie, oczywiœcie, ¿e nie.}
-{193}{hld28}{Tia, jasne, jezdem pewien, ¿e jakiœ cymba³, bardzo podobny do ciebie, powiedzia³ to samo o Mistrzu.}
-{194}{}{Zapowiada siê na œwietn¹ historiê. ¯a³ujê, ¿e nie mam czasu jej wys³uchaæ, ale naprawdê muszê ju¿ iœæ.}
-{195}{}{O Mistrzu? Mój przodek go zabi³!}
-{196}{hld29}{Nic takiego, co? Nie kupujê tego¿. Regularnie wpuszczasz nas w maliny. Czemu¿ nie wydelegujesz siem st¹d, ¿ebym móg³ to przemyœleæ?}
+{189}{}{O kurczÄ™, jest duÅ¼o pÃ³Åºniej, niÅ¼ mi siÄ™ wydawaÅ‚o. Lepiej juÅ¼ pÃ³jdÄ™. Do widzenia.}
+{190}{hld27}{Dane ekonomiczne? Nie zdarzyÅ‚o ci siÄ™ chyba daÄ‡ im te informacje, o kt-ktÃ³rych Gordon tyleÅ¼ rozpowiada, co?}
+{191}{}{Uch, zdarzyÅ‚o mi siÄ™, a co?}
+{192}{}{Uch, nie, oczywiÅ›cie, Å¼e nie.}
+{193}{hld28}{Tia, jasne, jezdem pewien, Å¼e jakiÅ› cymbaÅ‚, bardzo podobny do ciebie, powiedziaÅ‚ to samo o Mistrzu.}
+{194}{}{Zapowiada siÄ™ na Å›wietnÄ… historiÄ™. Å»aÅ‚ujÄ™, Å¼e nie mam czasu jej wysÅ‚uchaÄ‡, ale naprawdÄ™ muszÄ™ juÅ¼ iÅ›Ä‡.}
+{195}{}{O Mistrzu? MÃ³j przodek go zabiÅ‚!}
+{196}{hld29}{Nic takiego, co? Nie kupujÄ™ tegoÅ¼. Regularnie wpuszczasz nas w maliny. CzemuÅ¼ nie wydelegujesz siem stÄ…d, Å¼ebym mÃ³gÅ‚ to przemyÅ›leÄ‡?}
 {197}{}{Uch, przepraszam.}
-{198}{}{Jassne. Czemu w³aœnie tego nie zrobiæ? Raany, tak to jest jak siê próbuje komuœ pomóc....}
-{199}{hld30}{A co?! Teraz Kryptopolis wie, ile dok³adnie potrzeba nam rudy z Broken Hills. Mogliby odci¹æ wszystkie dostawy, a wtedy bylibyœmy skoñczeni.}
-{200}{}{Och, nie mo¿e byæ a¿ tak Ÿle. Zrobili na mnie wra¿enie rozs¹dnych ludzi.}
-{201}{}{Nie przysz³o mi do g³owy, ¿e mogliby u¿yæ tych informacji w takich celach. Przykro mi. Do widzenia.}
-{202}{hld31}{No, mam nadziejê. Ci idioci w Kryptopolis nienawidz¹ ghuli. Odciêliby nasze dostawy rudy z Broken Hills w jedn¹ krótk¹ chwilê. Potem zaczêliby stawiaæ warunki. Niebawem Gecko zamieni³oby siê w obóz niewolników.}
-{203}{}{Och, na pewno by tego nie zrobili. Wydaj¹ siê ca³kiem rozs¹dni.}
-{204}{}{Có¿, w takim razie œwietnie, ¿e niczego w tym rodzaju siê ode mnie nie dowiedzieli. He, he. Hej, pozwól, ¿e zapytam o coœ innego.}
-{205}{}{No, ka¿demu czasem trafia siê gówno. Wam te¿. Do widzenia.}
-{206}{hld32}{Rozs¹dni? Rozs¹dni! Pewnie, jestem pewien, ¿e o Mistrzu ludzie mówili to samo. Co za cymba³. Do diab³a, wynoœ siê st¹d. Wynocha!}
-{207}{}{Mo¿e maj¹ racjê. Mo¿e ju¿ czas, ¿eby skoñczyæ z takimi palantami jak wy. ¯egnam.}
+{198}{}{Jassne. Czemu wÅ‚aÅ›nie tego nie zrobiÄ‡? Raany, tak to jest jak siÄ™ prÃ³buje komuÅ› pomÃ³c....}
+{199}{hld30}{A co?! Teraz Kryptopolis wie, ile dokÅ‚adnie potrzeba nam rudy z Broken Hills. Mogliby odciÄ…Ä‡ wszystkie dostawy, a wtedy bylibyÅ›my skoÅ„czeni.}
+{200}{}{Och, nie moÅ¼e byÄ‡ aÅ¼ tak Åºle. Zrobili na mnie wraÅ¼enie rozsÄ…dnych ludzi.}
+{201}{}{Nie przyszÅ‚o mi do gÅ‚owy, Å¼e mogliby uÅ¼yÄ‡ tych informacji w takich celach. Przykro mi. Do widzenia.}
+{202}{hld31}{No, mam nadziejÄ™. Ci idioci w Kryptopolis nienawidzÄ… ghuli. OdciÄ™liby nasze dostawy rudy z Broken Hills w jednÄ… krÃ³tkÄ… chwilÄ™. Potem zaczÄ™liby stawiaÄ‡ warunki. Niebawem Gecko zamieniÅ‚oby siÄ™ w obÃ³z niewolnikÃ³w.}
+{203}{}{Och, na pewno by tego nie zrobili. WydajÄ… siÄ™ caÅ‚kiem rozsÄ…dni.}
+{204}{}{CÃ³Å¼, w takim razie Å›wietnie, Å¼e niczego w tym rodzaju siÄ™ ode mnie nie dowiedzieli. He, he. Hej, pozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{205}{}{No, kaÅ¼demu czasem trafia siÄ™ gÃ³wno. Wam teÅ¼. Do widzenia.}
+{206}{hld32}{RozsÄ…dni? RozsÄ…dni! Pewnie, jestem pewien, Å¼e o Mistrzu ludzie mÃ³wili to samo. Co za cymbaÅ‚. Do diabÅ‚a, wynoÅ› siÄ™ stÄ…d. Wynocha!}
+{207}{}{MoÅ¼e majÄ… racjÄ™. MoÅ¼e juÅ¼ czas, Å¼eby skoÅ„czyÄ‡ z takimi palantami jak wy. Å»egnam.}
 {208}{}{Uch, no, ja uch, no tak. Do widzenia.}
-{209}{hld33}{Mo¿e spróbuj z Woozem w Harfie. Nie mo¿esz przegapiæ tego miejsca - to dok³adnie naprzeciwko.}
-{210}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
-{211}{}{Dziêki, to wszystko, czego mi by³o potrzeba. Do widzenia.}
-{212}{hld34}{Zazdroœæ ciê bierze? Nazywa siê Herbert. Rozmawiam z nim, kiedy czujê siê samotny... he he. Tylko¿ ¿artujê... nazywa siê Bob!}
-{213}{}{Jasne... a wiêc mo¿e ty albo Bob bêdziecie znali odpowiedŸ na nastêpne pytanie.}
-{214}{}{Dziêki. To wszystko, co na razie potrzebujê wiedzieæ. Do widzenia.}
-{215}{hld35}{Generator Ekosystemu Cudownej Krainy? GECK, tak? Wydaje mi siê, ¿e Krypty mia³y takie urz¹dzenia. Nie mam zielonego pojêcia, gdzie¿ teraz mo¿na znaleŸæ cóœ takiego.}
-{216}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
-{217}{}{Dziêki, to wszystko, czego mi by³o potrzeba. Do widzenia.}
-{218}{hld36}{Po prostu pogadaj z moim asystentem Lennym. On ciê równo oporz¹dzi.}
-{219}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
-{220}{}{Dziêki, to wszystko, czego mi by³o potrzeba. Do widzenia.}
-{221}{hld37}{Taki jeden inszy g³adkoskórek. Mia³em dla niego du¿o szacunku.}
-{222}{}{Kto to by³?}
-{223}{hld38}{Có¿, pewnie pamiêta³bym, gdybym nie by³ martwy. Nigdy mi siê nie nudzi ten dowcip. }
-{224}{}{Mo¿e tobie nie...}
-{225}{hld38a}{No, szczerze mówi¹c, nie pamiêtam imienia. Ale oni mieli takie œmieszne stroje. Coœ jakoby ten, który ty masz na sobie.}
-{226}{}{Noszê Kombinezon Mieszkañca Krypty, którego u¿ywa³ mój przodek. To totem s³u¿¹cy mi w mojej œwiêtej misji.}
-{227}{}{Och, ten staroæ?}
+{209}{hld33}{MoÅ¼e sprÃ³buj z Woozem w Harfie. Nie moÅ¼esz przegapiÄ‡ tego miejsca - to dokÅ‚adnie naprzeciwko.}
+{210}{}{DziÄ™kujÄ™. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{211}{}{DziÄ™ki, to wszystko, czego mi byÅ‚o potrzeba. Do widzenia.}
+{212}{hld34}{ZazdroÅ›Ä‡ ciÄ™ bierze? Nazywa siÄ™ Herbert. Rozmawiam z nim, kiedy czujÄ™ siÄ™ samotny... he he. TylkoÅ¼ Å¼artujÄ™... nazywa siÄ™ Bob!}
+{213}{}{Jasne... a wiÄ™c moÅ¼e ty albo Bob bÄ™dziecie znali odpowiedÅº na nastÄ™pne pytanie.}
+{214}{}{DziÄ™ki. To wszystko, co na razie potrzebujÄ™ wiedzieÄ‡. Do widzenia.}
+{215}{hld35}{Generator Ekosystemu Cudownej Krainy? GECK, tak? Wydaje mi siÄ™, Å¼e Krypty miaÅ‚y takie urzÄ…dzenia. Nie mam zielonego pojÄ™cia, gdzieÅ¼ teraz moÅ¼na znaleÅºÄ‡ cÃ³Å› takiego.}
+{216}{}{DziÄ™kujÄ™. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{217}{}{DziÄ™ki, to wszystko, czego mi byÅ‚o potrzeba. Do widzenia.}
+{218}{hld36}{Po prostu pogadaj z moim asystentem Lennym. On ciÄ™ rÃ³wno oporzÄ…dzi.}
+{219}{}{DziÄ™kujÄ™. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{220}{}{DziÄ™ki, to wszystko, czego mi byÅ‚o potrzeba. Do widzenia.}
+{221}{hld37}{Taki jeden inszy gÅ‚adkoskÃ³rek. MiaÅ‚em dla niego duÅ¼o szacunku.}
+{222}{}{Kto to byÅ‚?}
+{223}{hld38}{CÃ³Å¼, pewnie pamiÄ™taÅ‚bym, gdybym nie byÅ‚ martwy. Nigdy mi siÄ™ nie nudzi ten dowcip. }
+{224}{}{MoÅ¼e tobie nie...}
+{225}{hld38a}{No, szczerze mÃ³wiÄ…c, nie pamiÄ™tam imienia. Ale oni mieli takie Å›mieszne stroje. CoÅ› jakoby ten, ktÃ³ry ty masz na sobie.}
+{226}{}{NoszÄ™ Kombinezon MieszkaÅ„ca Krypty, ktÃ³rego uÅ¼ywaÅ‚ mÃ³j przodek. To totem sÅ‚uÅ¼Ä…cy mi w mojej Å›wiÄ™tej misji.}
+{227}{}{Och, ten staroÄ‡?}
 {228}{hld38b}{Bez jaj?}
-{229}{}{Noszê Kombinezon Mieszkañca Krypty, którego u¿ywa³ mój przodek. To totem s³u¿¹cy mi w mojej œwiêtej misji.}
+{229}{}{NoszÄ™ Kombinezon MieszkaÅ„ca Krypty, ktÃ³rego uÅ¼ywaÅ‚ mÃ³j przodek. To totem sÅ‚uÅ¼Ä…cy mi w mojej Å›wiÄ™tej misji.}
 {230}{}{Bez jaj, Harold.}
-{231}{hld39}{A wiêc to tak? No, no, no. To t³umaczy to i tamto. Zastanawia³em siê, czemu tak bardzo siem przypominacie. Jednak nie straci³em jeszcze ostatniej klepki.}
-{232}{}{Naprawdê jesteœmy podobni?}
-{233}{}{Opowiedz mi, jaki by³ Przybysz z Krypty.}
-{234}{hld40}{Tia, wygl¹da³ dok³adnie tak samo. Kiedy tak o tym myœlê, to te¿ mia³ numer 13.}
-{235}{}{W³aœciwie to jest kombinezon mojego przodka, Przybysza z Krypty.}
-{236}{hld41}{Jest pewne podobieñstwo. W ka¿dym razie na tyle, na ile pamiêtam. Wiesz, twój przodek uratowa³ ca³e okropne mnóstwo z nas.}
-{237}{}{Przybysz z Krypty uratowa³ wszystkich ghuli?}
-{238}{}{Dziêki. Mi³o wiedzieæ. S³uchaj, muszê jeszcze gdzieœ skoczyæ. PóŸniej siê zobaczymy.}
-{239}{hld42}{Pochopnie wnioskujesz dziecko. Ktoœ ci kiedyœ za to odstrzeli ty³ek. Wszystkich z nas. Uratowa³ ka¿dego dwunogiego palanta ¿yj¹cego na tej cholernej planecie.}
-{240}{}{Nie zdawaliœmy sobie z tego sprawy.}
-{241}{}{Chyba ju¿ doœæ s³uchania tego. ¯egnam.}
-{242}{hld43}{No. To tera ju¿ sobie zdajecie. A co siê potem sta³o? Zamiast podziêkowaæ, te cholerne wielkie-i-wspania³e Krypciusie wykopali Przybysza z Krypty na zbity pysk. Zawsze siê zastanawia³em, co siê z nim potem sta³o.}
-{243}{}{Mogê powiedzieæ ci, co siê sta³o.}
-{244}{}{Starczy tych wspomnieñ. Pozwól, ¿e zapytam o coœ jeszcze.}
-{245}{hld44}{Pewnie, chêtnie o tym pos³ucham.}
-{246}{}{Legenda Przybysza z Krypty zaczyna siê w chwili, gdy zosta³ wyrzucony z Krypty na suche Pustkowia.... [Opowiadasz Haroldowi historiê swojego przodka] ...i w³aœnie dlatego szukam teraz Krypty 13.}
-{247}{hld45}{Dziêki za opowieœæ. Naprawdê by³em ciekaw przez te wszystkie lata. Ty te¿ masz swój kawa³ek roboty do zrobienia. Hmm, wiesz....}
+{231}{hld39}{A wiÄ™c to tak? No, no, no. To tÅ‚umaczy to i tamto. ZastanawiaÅ‚em siÄ™, czemu tak bardzo siem przypominacie. Jednak nie straciÅ‚em jeszcze ostatniej klepki.}
+{232}{}{NaprawdÄ™ jesteÅ›my podobni?}
+{233}{}{Opowiedz mi, jaki byÅ‚ Przybysz z Krypty.}
+{234}{hld40}{Tia, wyglÄ…daÅ‚ dokÅ‚adnie tak samo. Kiedy tak o tym myÅ›lÄ™, to teÅ¼ miaÅ‚ numer 13.}
+{235}{}{WÅ‚aÅ›ciwie to jest kombinezon mojego przodka, Przybysza z Krypty.}
+{236}{hld41}{Jest pewne podobieÅ„stwo. W kaÅ¼dym razie na tyle, na ile pamiÄ™tam. Wiesz, twÃ³j przodek uratowaÅ‚ caÅ‚e okropne mnÃ³stwo z nas.}
+{237}{}{Przybysz z Krypty uratowaÅ‚ wszystkich ghuli?}
+{238}{}{DziÄ™ki. MiÅ‚o wiedzieÄ‡. SÅ‚uchaj, muszÄ™ jeszcze gdzieÅ› skoczyÄ‡. PÃ³Åºniej siÄ™ zobaczymy.}
+{239}{hld42}{Pochopnie wnioskujesz dziecko. KtoÅ› ci kiedyÅ› za to odstrzeli tyÅ‚ek. Wszystkich z nas. UratowaÅ‚ kaÅ¼dego dwunogiego palanta Å¼yjÄ…cego na tej cholernej planecie.}
+{240}{}{Nie zdawaliÅ›my sobie z tego sprawy.}
+{241}{}{Chyba juÅ¼ doÅ›Ä‡ sÅ‚uchania tego. Å»egnam.}
+{242}{hld43}{No. To tera juÅ¼ sobie zdajecie. A co siÄ™ potem staÅ‚o? Zamiast podziÄ™kowaÄ‡, te cholerne wielkie-i-wspaniaÅ‚e Krypciusie wykopali Przybysza z Krypty na zbity pysk. Zawsze siÄ™ zastanawiaÅ‚em, co siÄ™ z nim potem staÅ‚o.}
+{243}{}{MogÄ™ powiedzieÄ‡ ci, co siÄ™ staÅ‚o.}
+{244}{}{Starczy tych wspomnieÅ„. PozwÃ³l, Å¼e zapytam o coÅ› jeszcze.}
+{245}{hld44}{Pewnie, chÄ™tnie o tym posÅ‚ucham.}
+{246}{}{Legenda Przybysza z Krypty zaczyna siÄ™ w chwili, gdy zostaÅ‚ wyrzucony z Krypty na suche Pustkowia.... [Opowiadasz Haroldowi historiÄ™ swojego przodka] ...i wÅ‚aÅ›nie dlatego szukam teraz Krypty 13.}
+{247}{hld45}{DziÄ™ki za opowieÅ›Ä‡. NaprawdÄ™ byÅ‚em ciekaw przez te wszystkie lata. Ty teÅ¼ masz swÃ³j kawaÅ‚ek roboty do zrobienia. Hmm, wiesz....}
 {248}{}{Tak?}
-{249}{}{Zabieram ci ju¿ i tak zbyt du¿o czasu. Lepiej pójdê. Do widzenia.}
-{250}{hld46a}{Wiesz, trzyma³em to na wypadek deszczu, ale wychodzi na to, ¿e bêdziesz ich¿e potrzebowaæ bardziej ni¿ ja kiedykolwiek. Masz, weŸ to.}
-{251}{hld46b}{Chcia³em daæ ci trochê œrodków leczniczych, ale niech mnie szlag trafi, jeœli ju¿ tego nie zrobi³em. Mówiem ci, staroœæ nie sprzyja pamiêci.}
-{252}{}{Dziêki. Pozwól jednak, ¿e ciê o coœ zapytam.}
-{253}{}{Dziêki za wszystko. Lepiej jednak ju¿ pójdê. Do widzenia.}
-{254}{hld48a}{Bez sprawnego Hydroelektrycznego Regulatora Magnetosfery nasze promieniotwórcze ch³odziwo przecieka do wód gruntowych. To z kolei oznacza, ¿e ktokolwiek siê tej wody napije, nie bêdzie ju¿ potrzebowa³ nocnej lampki, gdy mu siê w œrodku nocy zachce siusiu. Poza tym potrzebujemy wiêcej paliwa, bo nasza elektrownia nie spala go zbyt wydajnie.}
-{255}{hld48b}{Potrzebujemy Hydroelektrycznego Regulatora Magnetosfery i to szybko, albo bêda prawdziwe k³opoty.}
-{256}{}{Brzmi groŸnie. Gdzie mo¿na by zdobyæ ten Hydro Negoregulocoœ-czy-jakoœtak?}
-{257}{}{Co siê stanie, jeœli nie zdobêdziecie tej czêœci?}
+{249}{}{Zabieram ci juÅ¼ i tak zbyt duÅ¼o czasu. Lepiej pÃ³jdÄ™. Do widzenia.}
+{250}{hld46a}{Wiesz, trzymaÅ‚em to na wypadek deszczu, ale wychodzi na to, Å¼e bÄ™dziesz ichÅ¼e potrzebowaÄ‡ bardziej niÅ¼ ja kiedykolwiek. Masz, weÅº to.}
+{251}{hld46b}{ChciaÅ‚em daÄ‡ ci trochÄ™ Å›rodkÃ³w leczniczych, ale niech mnie szlag trafi, jeÅ›li juÅ¼ tego nie zrobiÅ‚em. MÃ³wiem ci, staroÅ›Ä‡ nie sprzyja pamiÄ™ci.}
+{252}{}{DziÄ™ki. PozwÃ³l jednak, Å¼e ciÄ™ o coÅ› zapytam.}
+{253}{}{DziÄ™ki za wszystko. Lepiej jednak juÅ¼ pÃ³jdÄ™. Do widzenia.}
+{254}{hld48a}{Bez sprawnego Hydroelektrycznego Regulatora Magnetosfery nasze promieniotwÃ³rcze chÅ‚odziwo przecieka do wÃ³d gruntowych. To z kolei oznacza, Å¼e ktokolwiek siÄ™ tej wody napije, nie bÄ™dzie juÅ¼ potrzebowaÅ‚ nocnej lampki, gdy mu siÄ™ w Å›rodku nocy zachce siusiu. Poza tym potrzebujemy wiÄ™cej paliwa, bo nasza elektrownia nie spala go zbyt wydajnie.}
+{255}{hld48b}{Potrzebujemy Hydroelektrycznego Regulatora Magnetosfery i to szybko, albo bÄ™da prawdziwe kÅ‚opoty.}
+{256}{}{Brzmi groÅºnie. Gdzie moÅ¼na by zdobyÄ‡ ten Hydro NegoregulocoÅ›-czy-jakoÅ›tak?}
+{257}{}{Co siÄ™ stanie, jeÅ›li nie zdobÄ™dziecie tej czÄ™Å›ci?}
 {258}{}{Od kogo kupujecie paliwo?}
-{259}{}{Przykro mi to s³yszeæ. Pozwól, ¿e zapytam o coœ innego.}
-{260}{}{Chyba na razie zostawiê ciê z twoimi problemami. Do widzenia.}
-{261}{hld49}{No wiêc, jestem pewien, ¿e te uparte œwinie z Kryptopolis maj¹ coœ takiego. Nie to, ¿eby siê chcieli podzieliæ. Do licha, nawet gdybyœmy mieli jedn¹ z tych rzeczy, nie jestem taki pewien, czy Festus umia³by to zainstalowaæ.}
-{262}{}{Kryptopolis nie da³oby wam tej czêœci? Nawet gdyby oznacza³o to, ¿e wody gruntowe nie bêd¹ zanieczyszczone?}
-{263}{}{Wygl¹da na to, ¿e masz mnóstwo k³opotów. Do widzenia.}
-{264}{hld50}{Jeœli go nie zdobêdziemy, mo¿na siê za³o¿yæ, ¿e te dranie z Kryptopolis wy³¹cz¹ nasz¹ elektrowniê. Na zawsze.}
-{265}{}{I co siê wtedy z wami stanie?}
-{266}{hld51}{Zdobywamy nasze paliwo w Broken Hills. To taka osada górnicza na po³udnie st¹d.}
-{267}{}{Ciekawe. Gdzie mo¿na by zdobyæ ten Hydro Negoregulocoœ-czy-jakoœtak?}
-{268}{}{Co siê stanie, jeœli nie zdobêdziecie tej Hydro-czêœci?}
-{269}{}{Hmm, chyba lepiej bêdzie, jeœli pozwolê ci poradziæ sobie z tym samodzielnie. Do widzenia.}
-{270}{hld52}{Zrobimy sobie d³uuga drzemkê. Kryptopolis nie gra fair. Jeœli nie zdobêdziemy tej czêœci, to oni po prostu przyjd¹ tu i zabij¹ nas wszystkich. No, ale przynajmniej bêdê mia³ ju¿ drzewo do posadzenia na grobie.}
-{271}{}{Jak siê nazywa³a ta czêœæ?}
-{272}{}{Wychodzi na to, ¿e naprawdê potrzebujecie tego Hydro-czegoœ. Pozwól, ¿e teraz zapytam ciê o coœ innego.}
-{273}{}{Brzmi niebezpiecznie. Muszê lecieæ zobaczyæ, co siê da z tym zrobiæ. Na razie.}
-{274}{hld53}{Pomogliby nam tylko gdyby myœleli, ¿e to le¿y w ich najlepszym interesie. No w³aœnie. Nie ma co liczyæ, ¿e to siê przydarzy.}
-{275}{}{Hmm, pewnie masz racjê. Jednak gdyby ktoœ móg³ przekonaæ ich, ¿e powinni wam pomóc...}
-{276}{hld54}{Strzelaj¹ na sam widok ghuli. To nieco komplikuje protokó³ dyplomatyczny.}
-{277}{}{Zastanawiam siê, czy ktoœ inny móg³by im o tym powiedzieæ.}
+{259}{}{Przykro mi to sÅ‚yszeÄ‡. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{260}{}{Chyba na razie zostawiÄ™ ciÄ™ z twoimi problemami. Do widzenia.}
+{261}{hld49}{No wiÄ™c, jestem pewien, Å¼e te uparte Å›winie z Kryptopolis majÄ… coÅ› takiego. Nie to, Å¼eby siÄ™ chcieli podzieliÄ‡. Do licha, nawet gdybyÅ›my mieli jednÄ… z tych rzeczy, nie jestem taki pewien, czy Festus umiaÅ‚by to zainstalowaÄ‡.}
+{262}{}{Kryptopolis nie daÅ‚oby wam tej czÄ™Å›ci? Nawet gdyby oznaczaÅ‚o to, Å¼e wody gruntowe nie bÄ™dÄ… zanieczyszczone?}
+{263}{}{WyglÄ…da na to, Å¼e masz mnÃ³stwo kÅ‚opotÃ³w. Do widzenia.}
+{264}{hld50}{JeÅ›li go nie zdobÄ™dziemy, moÅ¼na siÄ™ zaÅ‚oÅ¼yÄ‡, Å¼e te dranie z Kryptopolis wyÅ‚Ä…czÄ… naszÄ… elektrowniÄ™. Na zawsze.}
+{265}{}{I co siÄ™ wtedy z wami stanie?}
+{266}{hld51}{Zdobywamy nasze paliwo w Broken Hills. To taka osada gÃ³rnicza na poÅ‚udnie stÄ…d.}
+{267}{}{Ciekawe. Gdzie moÅ¼na by zdobyÄ‡ ten Hydro NegoregulocoÅ›-czy-jakoÅ›tak?}
+{268}{}{Co siÄ™ stanie, jeÅ›li nie zdobÄ™dziecie tej Hydro-czÄ™Å›ci?}
+{269}{}{Hmm, chyba lepiej bÄ™dzie, jeÅ›li pozwolÄ™ ci poradziÄ‡ sobie z tym samodzielnie. Do widzenia.}
+{270}{hld52}{Zrobimy sobie dÅ‚uuga drzemkÄ™. Kryptopolis nie gra fair. JeÅ›li nie zdobÄ™dziemy tej czÄ™Å›ci, to oni po prostu przyjdÄ… tu i zabijÄ… nas wszystkich. No, ale przynajmniej bÄ™dÄ™ miaÅ‚ juÅ¼ drzewo do posadzenia na grobie.}
+{271}{}{Jak siÄ™ nazywaÅ‚a ta czÄ™Å›Ä‡?}
+{272}{}{Wychodzi na to, Å¼e naprawdÄ™ potrzebujecie tego Hydro-czegoÅ›. PozwÃ³l, Å¼e teraz zapytam ciÄ™ o coÅ› innego.}
+{273}{}{Brzmi niebezpiecznie. MuszÄ™ lecieÄ‡ zobaczyÄ‡, co siÄ™ da z tym zrobiÄ‡. Na razie.}
+{274}{hld53}{Pomogliby nam tylko gdyby myÅ›leli, Å¼e to leÅ¼y w ich najlepszym interesie. No wÅ‚aÅ›nie. Nie ma co liczyÄ‡, Å¼e to siÄ™ przydarzy.}
+{275}{}{Hmm, pewnie masz racjÄ™. Jednak gdyby ktoÅ› mÃ³gÅ‚ przekonaÄ‡ ich, Å¼e powinni wam pomÃ³c...}
+{276}{hld54}{StrzelajÄ… na sam widok ghuli. To nieco komplikuje protokÃ³Å‚ dyplomatyczny.}
+{277}{}{Zastanawiam siÄ™, czy ktoÅ› inny mÃ³gÅ‚by im o tym powiedzieÄ‡.}
 {278}{}{W rzeczy samej. Mam teraz inne pytanie.}
-{279}{}{Hej, nigdy nic nie wiadomo. Przyjdê do ciebie póŸniej.}
-{280}{}{Na pó³noc st¹d}
-{281}{}{Na pó³nocny zachód st¹d}
-{282}{}{Na zachód st¹d}
-{283}{}{Na po³udniowy zachód st¹d}
-{284}{}{Na po³udnie st¹d}
-{285}{}{Na po³udniowy wschód st¹d}
-{286}{}{Na wschód st¹d}
-{287}{}{Na pó³nocny wschód st¹d}
+{279}{}{Hej, nigdy nic nie wiadomo. PrzyjdÄ™ do ciebie pÃ³Åºniej.}
+{280}{}{Na pÃ³Å‚noc stÄ…d}
+{281}{}{Na pÃ³Å‚nocny zachÃ³d stÄ…d}
+{282}{}{Na zachÃ³d stÄ…d}
+{283}{}{Na poÅ‚udniowy zachÃ³d stÄ…d}
+{284}{}{Na poÅ‚udnie stÄ…d}
+{285}{}{Na poÅ‚udniowy wschÃ³d stÄ…d}
+{286}{}{Na wschÃ³d stÄ…d}
+{287}{}{Na pÃ³Å‚nocny wschÃ³d stÄ…d}
 {288}{}{Nie rozumiem.}
 {289}{}{Nie wiem.}
 {290}{}{To boli.}
-{291}{}{To naprawdê boli.}
-{292}{}{To musi boleæ.}
+{291}{}{To naprawdÄ™ boli.}
+{292}{}{To musi boleÄ‡.}
 {293}{}{Nic o tym nie wiem.}
 {294}{}{Tak}
 {295}{}{Nie}
-{296}{}{Czemu odzywasz siê do mnie w taki sposób?}
-{297}{}{To niemi³e z twojej strony.}
-{298}{}{Dziêkujê. }
+{296}{}{Czemu odzywasz siÄ™ do mnie w taki sposÃ³b?}
+{297}{}{To niemiÅ‚e z twojej strony.}
+{298}{}{DziÄ™kujÄ™. }
 {299}{}{To dobrze.}
 {300}{}{To niedobrze.}
 {301}{}{Mam dobre przeczucia co do tego.}
-{302}{}{Mam z³e przeczucia co do tego.}
-{303}{}{Ci ludzie s¹ szaleni.}
-{304}{}{Niczego siê nie dowiedzia³em.}
-{305}{}{Uda³o mi siê czegoœ nauczyæ.}
-{306}{}{Czy wszyscy tutaj s¹ szaleni?}
-{307}{}{Musi byæ inny sposób.}
-{308}{}{ChodŸ za mn¹.}
-{309}{}{Spróbuj tego.}
-{310}{}{ChodŸ tu.}
-{311}{}{Bojê siê.}
-{312}{}{Martwiê siê.}
-{313}{}{Uda³o mi siê coœ znaleŸæ.}
+{302}{}{Mam zÅ‚e przeczucia co do tego.}
+{303}{}{Ci ludzie sÄ… szaleni.}
+{304}{}{Niczego siÄ™ nie dowiedziaÅ‚em.}
+{305}{}{UdaÅ‚o mi siÄ™ czegoÅ› nauczyÄ‡.}
+{306}{}{Czy wszyscy tutaj sÄ… szaleni?}
+{307}{}{Musi byÄ‡ inny sposÃ³b.}
+{308}{}{ChodÅº za mnÄ….}
+{309}{}{SprÃ³buj tego.}
+{310}{}{ChodÅº tu.}
+{311}{}{BojÄ™ siÄ™.}
+{312}{}{MartwiÄ™ siÄ™.}
+{313}{}{UdaÅ‚o mi siÄ™ coÅ› znaleÅºÄ‡.}
 {314}{}{I got lucky.}
-{315}{}{Trzeba to naprawiæ.}
-{316}{}{Trzeba to w³¹czyæ.}
-{317}{}{Trzeba to otworzyæ.}
-{318}{}{Trzeba to otworzyæ.}
-{319}{}{Trzeba bêdzie tu wróciæ.}
-{320}{}{Nie k³amiê. Reaktor bêdzie naprawiony. W ten czy inny sposób. Hmm, zastanawiam siê czy uda³o by mi siê przekonaæ Festusa ¿eby to zrobi³. Zobaczymy, czeœæ.}
-{321}{}{Hej Harold, mam czêœæ, której potrzebowa³eœ do naprawy reaktora. Idê do elektrowni; postaram siê ¿eby zosta³a zamontowana. Wrócê jak to za³atwiê. Czeœæ.}
+{315}{}{Trzeba to naprawiÄ‡.}
+{316}{}{Trzeba to wÅ‚Ä…czyÄ‡.}
+{317}{}{Trzeba to otworzyÄ‡.}
+{318}{}{Trzeba to otworzyÄ‡.}
+{319}{}{Trzeba bÄ™dzie tu wrÃ³ciÄ‡.}
+{320}{}{Nie kÅ‚amiÄ™. Reaktor bÄ™dzie naprawiony. W ten czy inny sposÃ³b. Hmm, zastanawiam siÄ™ czy udaÅ‚o by mi siÄ™ przekonaÄ‡ Festusa Å¼eby to zrobiÅ‚. Zobaczymy, czeÅ›Ä‡.}
+{321}{}{Hej Harold, mam czÄ™Å›Ä‡, ktÃ³rej potrzebowaÅ‚eÅ› do naprawy reaktora. IdÄ™ do elektrowni; postaram siÄ™ Å¼eby zostaÅ‚a zamontowana. WrÃ³cÄ™ jak to zaÅ‚atwiÄ™. CzeÅ›Ä‡.}

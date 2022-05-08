@@ -1,3 +1,3 @@
-{100}{}{Po oko³o kwadransie, rozchybotana motorówka dop³ywa do rdzewiej¹cego kiosku okrêtu podwodnego, wystaj¹cego z wody u wybrze¿y San Francisco. P³ytkie wody s¹ mêtne, ale wyraŸnie widzisz zarys masywnego kad³uba.}
-{101}{}{Ekipa techniczna Shi szybko wysiada i znika w okrêcie.}
-{102}{}{Kiedy jesteœ ju¿ w bezpiecznej odleg³oœci od okrêtu podwodnego, potê¿na eksplozja rozbrzmiewa w powietrzu, wysy³aj¹c galony wody we wszystkich kierunkach. Spogl¹dasz za siebie i widzisz, ¿e w miejscu kiosku okrêtu nie pozosta³o ju¿ absolutnie nic.}
+{100}{}{Po okoÅ‚o kwadransie, rozchybotana motorÃ³wka dopÅ‚ywa do rdzewiejÄ…cego kiosku okrÄ™tu podwodnego, wystajÄ…cego z wody u wybrzeÅ¼y San Francisco. PÅ‚ytkie wody sÄ… mÄ™tne, ale wyraÅºnie widzisz zarys masywnego kadÅ‚uba.}
+{101}{}{Ekipa techniczna Shi szybko wysiada i znika w okrÄ™cie.}
+{102}{}{Kiedy jesteÅ› juÅ¼ w bezpiecznej odlegÅ‚oÅ›ci od okrÄ™tu podwodnego, potÄ™Å¼na eksplozja rozbrzmiewa w powietrzu, wysyÅ‚ajÄ…c galony wody we wszystkich kierunkach. SpoglÄ…dasz za siebie i widzisz, Å¼e w miejscu kiosku okrÄ™tu nie pozostaÅ‚o juÅ¼ absolutnie nic.}

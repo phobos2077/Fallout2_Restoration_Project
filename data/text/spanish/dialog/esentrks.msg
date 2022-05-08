@@ -1,1 +1,1 @@
-{100}{}{La colocaciÛn del explosivo no ha sido suficiente para despejar la entrada de la cueva. Quiz·s haya un mÈtodo mejor.}
+{100}{}{La colocaci√≥n del explosivo no ha sido suficiente para despejar la entrada de la cueva. Quiz√°s haya un m√©todo mejor.}

@@ -1,7 +1,7 @@
 {100}{}{Essen!}
 {101}{}{Gib uns zu essen!}
 {102}{}{Wir haben Hunger!}
-{103}{}{Etwas Geld für die Armen.}
+{103}{}{Etwas Geld fÃ¼r die Armen.}
 {104}{}{Helft uns!}
 {105}{}{Essen!}
 {106}{}{Ich habe so einen Hunger.}

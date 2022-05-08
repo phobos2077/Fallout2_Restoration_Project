@@ -1,51 +1,51 @@
-{100}{}{Egy mutánst látsz koszos ruhában. Kezében csákányt tart.}
-{101}{}{Egy mutáns bányász.}
-{102}{}{Egy mutánst látsz koszos ruhában. Kezében jókora csákány. A tenyerén lév? b?rkeményedésekb?l és a fáradt ábrázatából arra következtetsz, hogy egy bányászhoz van szerencséd. Fáradtnak és zavarodottnak t?nik.}
+{100}{}{Egy mutÃ¡nst lÃ¡tsz koszos ruhÃ¡ban. KezÃ©ben csÃ¡kÃ¡nyt tart.}
+{101}{}{Egy mutÃ¡ns bÃ¡nyÃ¡sz.}
+{102}{}{Egy mutÃ¡nst lÃ¡tsz koszos ruhÃ¡ban. KezÃ©ben jÃ³kora csÃ¡kÃ¡ny. A tenyerÃ©n lÃ©v? b?rkemÃ©nyedÃ©sekb?l Ã©s a fÃ¡radt Ã¡brÃ¡zatÃ¡bÃ³l arra kÃ¶vetkeztetsz, hogy egy bÃ¡nyÃ¡szhoz van szerencsÃ©d. FÃ¡radtnak Ã©s zavarodottnak t?nik.}
 {103}{}{Mit akarsz?}
-{104}{}{Ag-ag! Úúú!}
-{105}{}{Ork! Úkí!}
+{104}{}{Ag-ag! ÃšÃºÃº!}
+{105}{}{Ork! ÃškÃ­!}
 {106}{}{Dallo?}
 {107}{}{Dallo!}
-{108}{}{Mit lehet itt csinálni?}
+{108}{}{Mit lehet itt csinÃ¡lni?}
 {109}{}{Ki vagy te?}
-{110}{}{Óh, szuper. Egy hülyegyerek. Kaptál egy kis sugárzást mi, haver? Nem értelek, szóval nem tudok segíteni se.}
-{111}{}{Mondtam, hogy nem tudok segíteni. Menj, idétlenkedj valaki másnak!}
+{110}{}{Ã“h, szuper. Egy hÃ¼lyegyerek. KaptÃ¡l egy kis sugÃ¡rzÃ¡st mi, haver? Nem Ã©rtelek, szÃ³val nem tudok segÃ­teni se.}
+{111}{}{Mondtam, hogy nem tudok segÃ­teni. Menj, idÃ©tlenkedj valaki mÃ¡snak!}
 {112}{}{What's there to do? Well, the mine's shut down because we haven't got an air purifier that
  works. There's the saloon. There's the caravaneers, and there's the general store. That's about it.
  Wait... what were we talking about?}
-{113}{}{Kivel beszélhetek a bányáról?}
+{113}{}{Kivel beszÃ©lhetek a bÃ¡nyÃ¡rÃ³l?}
 {114}{}{Merre van az a kocsma?}
-{115}{}{Hol vannak a karavánosok?}
-{116}{}{Hol találom a boltot?}
-{117}{}{Kösz. Viszlát!}
+{115}{}{Hol vannak a karavÃ¡nosok?}
+{116}{}{Hol talÃ¡lom a boltot?}
+{117}{}{KÃ¶sz. ViszlÃ¡t!}
 {118}{}{Just one of the miners. Do you want someone important?}
 {119}{}{Igen.}
 {120}{}{Nem.}
-{121}{}{Viszlát!}
-{122}{}{Hát, a város irányítói Marcus, aki afféle seriff és polgármester egy személyben, Zaius, aki a bánya munkavezet?je és Chad, aki a karavánokat felügyeli. Phil, a kocsmáros, pedig a ghoulok vezet?je, asszem... ha egyáltalán van vezet?jük. Ki is vagy te?}
-{123}{}{Hol találom Marcust?}
-{124}{}{Hol találom Zaiust?}
-{125}{}{Hol találom Cameront?}
+{121}{}{ViszlÃ¡t!}
+{122}{}{HÃ¡t, a vÃ¡ros irÃ¡nyÃ­tÃ³i Marcus, aki affÃ©le seriff Ã©s polgÃ¡rmester egy szemÃ©lyben, Zaius, aki a bÃ¡nya munkavezet?je Ã©s Chad, aki a karavÃ¡nokat felÃ¼gyeli. Phil, a kocsmÃ¡ros, pedig a ghoulok vezet?je, asszem... ha egyÃ¡ltalÃ¡n van vezet?jÃ¼k. Ki is vagy te?}
+{123}{}{Hol talÃ¡lom Marcust?}
+{124}{}{Hol talÃ¡lom Zaiust?}
+{125}{}{Hol talÃ¡lom Cameront?}
 {126}{}{Merre van Chad?}
 {127}{}{Merre van Phil?}
-{128}{}{Kösz. Viszlát!}
-{129}{}{Ha úgy gondolod, hogy tudnál segíteni a bányánál, akkor beszélj Zaiusszal! Többnyire a munkavezet? házában van a bánya mellett. Elég rosszkedv?, mert elromlott a bánya légtisztítója. Van más kérdésed?}
-{130}{}{Phil, a ghoul, vezeti a kocsmát. ? amolyan szószólója a városi ghouloknak. Megtalálhatod a banktól keletre. Kiváncsi vagy még valamire?}
-{131}{}{Chad irányítja a karavánokat a város dél-nyugati részén. Más kérdés?}
-{132}{}{Liz elég rendes, ember létére, ? vezeti a vegyesboltot a banktól nyugatra. Egyéb kérdés?}
-{133}{}{Rendben. Viszlát!}
-{134}{}{Cameron a normális emberek vezet?je. Nem szereti túlzottan a mutánsokat és a ghoulokat, de rendesen bánik velünk. ? amolyan politikus, szóval vagy a bankban van, vagy a kocsmában. Néha a kovácsm?helyben dolgozik. Más kérdés? Amúgy hol tartottam? Ja igen... szóval... van még kérdésed?}
+{128}{}{KÃ¶sz. ViszlÃ¡t!}
+{129}{}{Ha Ãºgy gondolod, hogy tudnÃ¡l segÃ­teni a bÃ¡nyÃ¡nÃ¡l, akkor beszÃ©lj Zaiusszal! TÃ¶bbnyire a munkavezet? hÃ¡zÃ¡ban van a bÃ¡nya mellett. ElÃ©g rosszkedv?, mert elromlott a bÃ¡nya lÃ©gtisztÃ­tÃ³ja. Van mÃ¡s kÃ©rdÃ©sed?}
+{130}{}{Phil, a ghoul, vezeti a kocsmÃ¡t. ? amolyan szÃ³szÃ³lÃ³ja a vÃ¡rosi ghouloknak. MegtalÃ¡lhatod a banktÃ³l keletre. KivÃ¡ncsi vagy mÃ©g valamire?}
+{131}{}{Chad irÃ¡nyÃ­tja a karavÃ¡nokat a vÃ¡ros dÃ©l-nyugati rÃ©szÃ©n. MÃ¡s kÃ©rdÃ©s?}
+{132}{}{Liz elÃ©g rendes, ember lÃ©tÃ©re, ? vezeti a vegyesboltot a banktÃ³l nyugatra. EgyÃ©b kÃ©rdÃ©s?}
+{133}{}{Rendben. ViszlÃ¡t!}
+{134}{}{Cameron a normÃ¡lis emberek vezet?je. Nem szereti tÃºlzottan a mutÃ¡nsokat Ã©s a ghoulokat, de rendesen bÃ¡nik velÃ¼nk. ? amolyan politikus, szÃ³val vagy a bankban van, vagy a kocsmÃ¡ban. NÃ©ha a kovÃ¡csm?helyben dolgozik. MÃ¡s kÃ©rdÃ©s? AmÃºgy hol tartottam? Ja igen... szÃ³val... van mÃ©g kÃ©rdÃ©sed?}
 {135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
  the jail. Anything else?}
-{136}{}{Kapzsi gané! Tudod, milyen keményen dolgozunk? Rohadj meg!}
-{137}{}{Kösz az ércet!}
-{138}{}{Nem hiszem el, hogy felrobbant a bánya. Mind éhen fogunk dögleni! A bánya tartotta fent a várost. Hmm, legalább nem kell többet dolgoznom...}
-{139}{}{Megdöglesz, te gané!}
-{140}{}{Kösz, hogy helyrehoztad a bányát. Soha nem felejtjük el. Mit tehetek érted?}
+{136}{}{Kapzsi ganÃ©! Tudod, milyen kemÃ©nyen dolgozunk? Rohadj meg!}
+{137}{}{KÃ¶sz az Ã©rcet!}
+{138}{}{Nem hiszem el, hogy felrobbant a bÃ¡nya. Mind Ã©hen fogunk dÃ¶gleni! A bÃ¡nya tartotta fent a vÃ¡rost. Hmm, legalÃ¡bb nem kell tÃ¶bbet dolgoznom...}
+{139}{}{MegdÃ¶glesz, te ganÃ©!}
+{140}{}{KÃ¶sz, hogy helyrehoztad a bÃ¡nyÃ¡t. Soha nem felejtjÃ¼k el. Mit tehetek Ã©rted?}
 {141}{}{Ki vagy te?}
-{142}{}{Mit lehet ebben a városban csinálni?}
+{142}{}{Mit lehet ebben a vÃ¡rosban csinÃ¡lni?}
 {143}{}{Semmi.}
-{144}{}{Jövünk neked eggyel, amiért megmentettél minket azoktól az ÚKK-s mocskoktól. Kösz, haver! Tehetek érted valamit?}
+{144}{}{JÃ¶vÃ¼nk neked eggyel, amiÃ©rt megmentettÃ©l minket azoktÃ³l az ÃšKK-s mocskoktÃ³l. KÃ¶sz, haver! Tehetek Ã©rted valamit?}
 {145}{}{Ki vagy te?}
-{146}{}{Mit lehet ebben a városban csinálni?}
+{146}{}{Mit lehet ebben a vÃ¡rosban csinÃ¡lni?}
 {147}{}{Semmi.}

@@ -1,19 +1,19 @@
 {100}{}{Tu vois un chercheur.}
-{101}{}{Reste où tu es ! Généralement, je ne tends pas d'embuscade aux étrangers mais j'ai besoin de provisions et je ne peux pas quitter ma concession. On fait un échange rapide ?}
+{101}{}{Reste oÃ¹ tu es ! GÃ©nÃ©ralement, je ne tends pas d'embuscade aux Ã©trangers mais j'ai besoin de provisions et je ne peux pas quitter ma concession. On fait un Ã©change rapide ?}
 {102}{}{Certainement.}
-{103}{}{Je n'ai rien à échanger. Je regrette.}
+{103}{}{Je n'ai rien Ã  Ã©changer. Je regrette.}
 {104}{}{Booga.}
-{105}{}{Quel pot ! Tu ne peux pas parler, hein ? Tu ne peux raconter à personne où se trouve ma concession ! Faisons du troc.}
+{105}{}{Quel pot ! Tu ne peux pas parler, hein ? Tu ne peux raconter Ã  personne oÃ¹ se trouve ma concession ! Faisons du troc.}
 {106}{}{[Troquer]}
-{107}{}{Allez, casse-toi. Et t'as pas intérêt à aller raconter où se trouve ma concession !}
+{107}{}{Allez, casse-toi. Et t'as pas intÃ©rÃªt Ã  aller raconter oÃ¹ se trouve ma concession !}
 {108}{}{[Fin]}
 {109}{}{Passe donc ton chemin.}
-{110}{}{On n'a plus rien à se dire.}
+{110}{}{On n'a plus rien Ã  se dire.}
 {111}{}{Pars !}
 {112}{}{Allez les gars, attrapez-les !}
-{113}{}{Je ne peux pas te laisser raconter à tout le monde où se trouve ma concession.}
+{113}{}{Je ne peux pas te laisser raconter Ã  tout le monde oÃ¹ se trouve ma concession.}
 {114}{}{Pourquoi m'attaquer ?}
 {115}{}{Maintenant, je dois te tuer.}
 {116}{}{Je voulais seulement quelques provisions.}
 {117}{}{Tu n'auras pas ma concession !}
-{118}{}{Pitié !}
+{118}{}{PitiÃ© !}

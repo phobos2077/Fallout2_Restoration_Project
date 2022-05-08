@@ -1,56 +1,56 @@
 {100}{}{Ves una Garra mortal.}
 {101}{}{Ves a Kerith, la Garra mortal madre.}
-{102}{}{Ves a la típica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas garras. Parece hembra pero no puedes asegurarlo. Notas las cicatrices de varias heridas en su torso.}
+{102}{}{Ves a la tÃ­pica Garra mortal. La criatura es grande, con un cuerpo poderoso, dientes afilados, y largas garras. Parece hembra pero no puedes asegurarlo. Notas las cicatrices de varias heridas en su torso.}
 {103}{}{Un visitante humano es un hecho inesperado pero no por ello menos bienvenido. Soy Kerith.}
-{104}{}{¿Puedo ayudarte en algo?}
-{105}{}{¿Tú madre de Garras?}
-{106}{}{¿Quién padre de Garras?}
-{107}{}{Puerta jodida. ¿Por qué?}
-{108}{}{¿Quién hizo habitación de nido?}
+{104}{}{Â¿Puedo ayudarte en algo?}
+{105}{}{Â¿TÃº madre de Garras?}
+{106}{}{Â¿QuiÃ©n padre de Garras?}
+{107}{}{Puerta jodida. Â¿Por quÃ©?}
+{108}{}{Â¿QuiÃ©n hizo habitaciÃ³n de nido?}
 {109}{}{Yo irme ahora.}
-{110}{}{Así que, ¿eres la Garra mortal madre?}
-{111}{}{¿Quién es el Garra mortal padre?}
-{112}{}{¿Qué le pasó a la puerta? Parece haber tenido días mejores.}
-{113}{}{¿Quién construyó este criadero?}
-{114}{}{Me iré ahora.}
-{115}{}{Sí. Actualmente soy la madre de la manada. Cuando mis huevos hayan eclosionado, las otras madres tendrán su turno.}
+{110}{}{AsÃ­ que, Â¿eres la Garra mortal madre?}
+{111}{}{Â¿QuiÃ©n es el Garra mortal padre?}
+{112}{}{Â¿QuÃ© le pasÃ³ a la puerta? Parece haber tenido dÃ­as mejores.}
+{113}{}{Â¿QuiÃ©n construyÃ³ este criadero?}
+{114}{}{Me irÃ© ahora.}
+{115}{}{SÃ­. Actualmente soy la madre de la manada. Cuando mis huevos hayan eclosionado, las otras madres tendrÃ¡n su turno.}
 {116}{}{Vale.}
 {117}{}{Otras madres?}
 {118}{}{Ya veo.}
-{119}{}{¿Existen otras madres?}
-{120}{}{Sí, claro que hay otras. De ocurrirme algo, una será la elegida para cubrir mi puesto.
+{119}{}{Â¿Existen otras madres?}
+{120}{}{SÃ­, claro que hay otras. De ocurrirme algo, una serÃ¡ la elegida para cubrir mi puesto.
  La manada debe sobrevivir.}
 {121}{}{Uh, entiendo.}
 {122}{}{Entendido.}
-{123}{}{Gruthar, el líder de la manada, fecundó estos huevos. Es Gruthar quien decide quién se apareará y
- quién no. La manada se hará fuerte gracias a Gruthar.}
-{124}{}{Eh, está bien.}
+{123}{}{Gruthar, el lÃ­der de la manada, fecundÃ³ estos huevos. Es Gruthar quien decide quiÃ©n se aparearÃ¡ y
+ quiÃ©n no. La manada se harÃ¡ fuerte gracias a Gruthar.}
+{124}{}{Eh, estÃ¡ bien.}
 {125}{}{Hmmm. Ya veo. Una crianza selectiva para mejorar la especie.}
-{126}{}{Ese es un recuerdo desagradable. Un humano traicionero se coló aquí y plantó una bomba entre los huevos
- mientras yo dormía. Por suerte no fue muy cauto al marcharse y me desperté y encontré la bomba. No había
- tiempo suficiente como para encargarme de ella apropiadamente, así que la lancé contra la puerta y me interpuse entre
+{126}{}{Ese es un recuerdo desagradable. Un humano traicionero se colÃ³ aquÃ­ y plantÃ³ una bomba entre los huevos
+ mientras yo dormÃ­a. Por suerte no fue muy cauto al marcharse y me despertÃ© y encontrÃ© la bomba. No habÃ­a
+ tiempo suficiente como para encargarme de ella apropiadamente, asÃ­ que la lancÃ© contra la puerta y me interpuse entre
  ella y los huevos. Los huevos y yo sobrevivimos. La puerta no.}
-{127}{}{¿Qué pasó a humano?}
-{128}{}{¿Cómo hizo con el guardia de fuera?}
-{129}{}{Más preguntas.}
-{130}{}{¿Qué le pasó a la persona que hizo eso?}
-{131}{}{¿Cómo consiguió esta persona sortear al guardia de ahí afuera?}
-{132}{}{Tengo más preguntas.}
-{133}{}{Su nombre es Matt, y está prisionero aquí. Personalmente, lo prefiero muerto... pero Gruthar no lo permitiría. No veo la lógica en esto, pero la palabra de Gruthar es ley y debe obedecerse. Si hablas con este humano, ten cuidado. ¡No puede confiarse en él!}
-{134}{}{¿Cómo hizo con el guardia de fuera?}
+{127}{}{Â¿QuÃ© pasÃ³ a humano?}
+{128}{}{Â¿CÃ³mo hizo con el guardia de fuera?}
+{129}{}{MÃ¡s preguntas.}
+{130}{}{Â¿QuÃ© le pasÃ³ a la persona que hizo eso?}
+{131}{}{Â¿CÃ³mo consiguiÃ³ esta persona sortear al guardia de ahÃ­ afuera?}
+{132}{}{Tengo mÃ¡s preguntas.}
+{133}{}{Su nombre es Matt, y estÃ¡ prisionero aquÃ­. Personalmente, lo prefiero muerto... pero Gruthar no lo permitirÃ­a. No veo la lÃ³gica en esto, pero la palabra de Gruthar es ley y debe obedecerse. Si hablas con este humano, ten cuidado. Â¡No puede confiarse en Ã©l!}
+{134}{}{Â¿CÃ³mo hizo con el guardia de fuera?}
 {135}{}{Vale.}
-{136}{}{¿Cómo consiguió esta persona sortear al guardia de ahí afuera?}
+{136}{}{Â¿CÃ³mo consiguiÃ³ esta persona sortear al guardia de ahÃ­ afuera?}
 {137}{}{Vale.}
-{138}{}{El guardia lo pusimos después de ocurrir el incidente. Entonces éramos más confiados. Ahora somos más cuidadosos.}
-{139}{}{¿Qué pasó a humano?}
+{138}{}{El guardia lo pusimos despuÃ©s de ocurrir el incidente. Entonces Ã©ramos mÃ¡s confiados. Ahora somos mÃ¡s cuidadosos.}
+{139}{}{Â¿QuÃ© pasÃ³ a humano?}
 {140}{}{Lo pillo.}
-{141}{}{¿Qué le pasó a esta persona?}
+{141}{}{Â¿QuÃ© le pasÃ³ a esta persona?}
 {142}{}{Ya veo.}
-{143}{}{Nosotros hicimos la parte de la cueva, y un amigo humano instaló la puerta. Obtuvo las piezas de un asentamiento
- al nordeste de aquí.}
-{144}{}{Está bien.}
-{145}{}{Eso está bien.}
-{146}{}{Hola de nuevo. Es un placer verte. ¿En qué puedo ayudarte?}
-{147}{}{Sólo digo hola. Marcho ahora.}
-{148}{}{Sólo pasaba a decir hola. Me marcho ahora.}
+{143}{}{Nosotros hicimos la parte de la cueva, y un amigo humano instalÃ³ la puerta. Obtuvo las piezas de un asentamiento
+ al nordeste de aquÃ­.}
+{144}{}{EstÃ¡ bien.}
+{145}{}{Eso estÃ¡ bien.}
+{146}{}{Hola de nuevo. Es un placer verte. Â¿En quÃ© puedo ayudarte?}
+{147}{}{SÃ³lo digo hola. Marcho ahora.}
+{148}{}{SÃ³lo pasaba a decir hola. Me marcho ahora.}
 {149}{}{Me entristece el tener que matarte.}

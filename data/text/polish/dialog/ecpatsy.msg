@@ -1,4 +1,4 @@
-{100}{}{Mê¿czyzna.}
+{100}{}{MÄ™Å¼czyzna.}
 {101}{}{Patsy.}
-{102}{}{Stuka dwiema po³ówkami orzecha kokosowego.}
+{102}{}{Stuka dwiema poÅ‚Ã³wkami orzecha kokosowego.}
 {103}{}{Klip! Klap!}

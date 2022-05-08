@@ -1,1 +1,1 @@
-{100}{}{Un pedazo de papel doblado con la palabra 'TCHAIKOVSKY' escrita en él.}
+{100}{}{Un pedazo de papel doblado con la palabra 'TCHAIKOVSKY' escrita en Ã©l.}

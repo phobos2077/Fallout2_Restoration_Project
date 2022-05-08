@@ -1,54 +1,54 @@
-{100}{}{Ves al dueño de la tienda.}
+{100}{}{Ves al dueÃ±o de la tienda.}
 {101}{}{Ves a Tubby.}
-{150}{}{Este es el dueño de la tienda.}
-{151}{}{Este es Tubby, el dueño de la tienda.}
+{150}{}{Este es el dueÃ±o de la tienda.}
+{151}{}{Este es Tubby, el dueÃ±o de la tienda.}
 {152}{}{[HABLAR]}
-{153}{}{Preferiría que te marcharas con tus asuntos a otro lado.}
+{153}{}{PreferirÃ­a que te marcharas con tus asuntos a otro lado.}
 {154}{}{Eres un hombre de negocios. Hagamos negocios.}
 {155}{}{Quiero hacerte una pregunta.}
-{156}{}{Adiós.}
-{157}{}{Me alegro tanto de verte de nuevo. ¿Qué puedo hacer hoy por ti?}
+{156}{}{AdiÃ³s.}
+{157}{}{Me alegro tanto de verte de nuevo. Â¿QuÃ© puedo hacer hoy por ti?}
 {158}{}{Vamos a hacer negocios.}
-{159}{}{¿Puedo preguntarte una cosa?}
-{160}{}{Ahora mismo nada. Adiós.}
-{161}{}{Hola y bienvenido a la tienda de Tubby. Soy el dueño. ¿Puedo ayudarte?}
-{162}{}{Sí, quiero comerciar.}
-{163}{}{Necesito información.}
-{164}{}{Adiós.}
-{165}{}{Hola, señorita. Mis amigos me llaman Tubby y te doy la bienvenida a mi tienda. ¿En qué puedo ayudarte?}
+{159}{}{Â¿Puedo preguntarte una cosa?}
+{160}{}{Ahora mismo nada. AdiÃ³s.}
+{161}{}{Hola y bienvenido a la tienda de Tubby. Soy el dueÃ±o. Â¿Puedo ayudarte?}
+{162}{}{SÃ­, quiero comerciar.}
+{163}{}{Necesito informaciÃ³n.}
+{164}{}{AdiÃ³s.}
+{165}{}{Hola, seÃ±orita. Mis amigos me llaman Tubby y te doy la bienvenida a mi tienda. Â¿En quÃ© puedo ayudarte?}
 {166}{}{Quiero comprar algunas cosas.}
-{167}{}{Necesito información.}
-{168}{}{Adiós.}
-{169}{}{En vez de eso, preferiría que te largaras.}
-{170}{}{Adiós.}
-{171}{}{¿Qué es lo que quieres saber?}
-{172}{}{¿Quién está al mando en el pueblo?}
-{173}{}{¿Por qué todo el mundo vende drogas?}
-{174}{}{¿Sabes dónde se encuentra el Refugio 13?}
-{175}{}{Me gustaría hacer negocios.}
-{176}{}{Olvídalo . Adiós}
-{177}{}{Oh, Dios. Creo que tenemos un problema de comunicación. Por favor, guiña el ojo si quieres comprar o vender algo.}
-{178}{}{[Guiñas el ojo].}
+{167}{}{Necesito informaciÃ³n.}
+{168}{}{AdiÃ³s.}
+{169}{}{En vez de eso, preferirÃ­a que te largaras.}
+{170}{}{AdiÃ³s.}
+{171}{}{Â¿QuÃ© es lo que quieres saber?}
+{172}{}{Â¿QuiÃ©n estÃ¡ al mando en el pueblo?}
+{173}{}{Â¿Por quÃ© todo el mundo vende drogas?}
+{174}{}{Â¿Sabes dÃ³nde se encuentra el Refugio 13?}
+{175}{}{Me gustarÃ­a hacer negocios.}
+{176}{}{OlvÃ­dalo . AdiÃ³s}
+{177}{}{Oh, Dios. Creo que tenemos un problema de comunicaciÃ³n. Por favor, guiÃ±a el ojo si quieres comprar o vender algo.}
+{178}{}{[GuiÃ±as el ojo].}
 {179}{}{Adioooos.}
-{180}{}{Nadie, me temo. La Guarida es un lugar anárquico donde se aplican las teorías de la evolución darwinianas. Sólo los más fuertes, rápidos o inteligentes sobreviven. Estoy seguro de que hallarás tu lugar aquí.}
+{180}{}{Nadie, me temo. La Guarida es un lugar anÃ¡rquico donde se aplican las teorÃ­as de la evoluciÃ³n darwinianas. SÃ³lo los mÃ¡s fuertes, rÃ¡pidos o inteligentes sobreviven. Estoy seguro de que hallarÃ¡s tu lugar aquÃ­.}
 {181}{}{Um, gracias.}
-{182}{}{Vale. Las drogas son la base del sistema económico de esta ciudad, al igual una otra ciudad puede usar grano o oro. Redding es un otro ejemplo de cuidad alimentada por drogas. Malditos mineros están demasiado drogado todo el tiempo para hacer cualquier trabajo real. Nunca he estado allí, pero es un par de días al sureste de aquí si quieres verlo.}
+{182}{}{Vale. Las drogas son la base del sistema econÃ³mico de esta ciudad, al igual una otra ciudad puede usar grano o oro. Redding es un otro ejemplo de cuidad alimentada por drogas. Malditos mineros estÃ¡n demasiado drogado todo el tiempo para hacer cualquier trabajo real. Nunca he estado allÃ­, pero es un par de dÃ­as al sureste de aquÃ­ si quieres verlo.}
 {183}{}{Gracias.}
-{184}{}{He oído hablar de un lugar llamado Ciudad Refugio. Desgraciadamente, no puedo indicarte la dirección hasta allí. Verás, muy poca de la gente del pueblo puede costearse los tratamientos médicos que ofrecen, así que la mayoría nunca ha ido allí.}
+{184}{}{He oÃ­do hablar de un lugar llamado Ciudad Refugio. Desgraciadamente, no puedo indicarte la direcciÃ³n hasta allÃ­. VerÃ¡s, muy poca de la gente del pueblo puede costearse los tratamientos mÃ©dicos que ofrecen, asÃ­ que la mayorÃ­a nunca ha ido allÃ­.}
 {185}{}{De acuerdo. Gracias.}
-{186}{}{Esa no es la clase de información que le DARÍA a cualquiera.}
-{187}{}{¿Qué tal si cien pavos te hacen cambiar de idea?}
-{188}{}{Qué tal si te doy 50 dólares y me lo cuentas.}
-{189}{}{¿Qué me dices? Tú me das la información y yo no te abro un nuevo agujero en la cabeza.}
+{186}{}{Esa no es la clase de informaciÃ³n que le DARÃA a cualquiera.}
+{187}{}{Â¿QuÃ© tal si cien pavos te hacen cambiar de idea?}
+{188}{}{QuÃ© tal si te doy 50 dÃ³lares y me lo cuentas.}
+{189}{}{Â¿QuÃ© me dices? TÃº me das la informaciÃ³n y yo no te abro un nuevo agujero en la cabeza.}
 {190}{}{No importa.}
-{191}{}{Bueno, ¿puedo preguntarte otra cosa, entonces?}
-{192}{}{Claro, el dinero PODRÍA hacerme cambiar de idea. ¡Pero no lo tienes!}
-{193}{}{Debo habérmelo dejado en alguna parte. Voy a buscarlo.}
+{191}{}{Bueno, Â¿puedo preguntarte otra cosa, entonces?}
+{192}{}{Claro, el dinero PODRÃA hacerme cambiar de idea. Â¡Pero no lo tienes!}
+{193}{}{Debo habÃ©rmelo dejado en alguna parte. Voy a buscarlo.}
 {194}{}{Creo que esto no va a ser suficiente.}
-{500}{}{Claro Petey. Estaré ahí en un segundo.}
-{501}{}{¡Aguanta, Petey!}
+{500}{}{Claro Petey. EstarÃ© ahÃ­ en un segundo.}
+{501}{}{Â¡Aguanta, Petey!}
 {502}{}{Ya voy, ya voy.}
-{510}{}{Aquí tienes, Petey.}
-{511}{}{Sabes, Petey, deberías dejar esta mierda.}
-{512}{}{Toma esto y lárgate de aquí, Petey.}
+{510}{}{AquÃ­ tienes, Petey.}
+{511}{}{Sabes, Petey, deberÃ­as dejar esta mierda.}
+{512}{}{Toma esto y lÃ¡rgate de aquÃ­, Petey.}
 {520}{}{Un placer hacer negocios contigo.}

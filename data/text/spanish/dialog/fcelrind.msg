@@ -1,68 +1,68 @@
-{100}{}{Ves a alguien con una túnica flexible.}
-{101}{}{Es otro Hubologista con túnica.}
-{102}{}{Parece alguien que lleva puesta una túnica.}
-{103}{}{¿Quién eres? ¿Qué estás haciendo aquí?}
-{104}{}{Se supone que no puedes estar aquí, ¿no?}
-{105}{}{¡Mirad! Carne marginada!}
-{106}{}{¡Eh! ¿Quién ha dejado entrar a esa carne marginada?}
-{107}{}{No deberías pasearte por ahí sin escolta.}
-{108}{}{¡Ahh! ¡Estás desordenando mis neurodinas!}
-{109}{}{¡Aléjate, infiel!}
+{100}{}{Ves a alguien con una tÃºnica flexible.}
+{101}{}{Es otro Hubologista con tÃºnica.}
+{102}{}{Parece alguien que lleva puesta una tÃºnica.}
+{103}{}{Â¿QuiÃ©n eres? Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{104}{}{Se supone que no puedes estar aquÃ­, Â¿no?}
+{105}{}{Â¡Mirad! Carne marginada!}
+{106}{}{Â¡Eh! Â¿QuiÃ©n ha dejado entrar a esa carne marginada?}
+{107}{}{No deberÃ­as pasearte por ahÃ­ sin escolta.}
+{108}{}{Â¡Ahh! Â¡EstÃ¡s desordenando mis neurodinas!}
+{109}{}{Â¡AlÃ©jate, infiel!}
 {110}{}{No me hables: soy una persona ocupada.}
-{111}{}{¡Oye! ¡Estás socavando mis neurodinas!}
-{112}{}{Quizá me gustarías más si estuvieras alineado.}
-{113}{}{El Padre Estelar te amará si se lo permites.}
-{114}{}{¿No quieres ver Quetzel? ¡Únete a nosotros!}
-{115}{}{¡Ve a hablar con AHS-7 y únete!}
+{111}{}{Â¡Oye! Â¡EstÃ¡s socavando mis neurodinas!}
+{112}{}{QuizÃ¡ me gustarÃ­as mÃ¡s si estuvieras alineado.}
+{113}{}{El Padre Estelar te amarÃ¡ si se lo permites.}
+{114}{}{Â¿No quieres ver Quetzel? Â¡Ãšnete a nosotros!}
+{115}{}{Â¡Ve a hablar con AHS-7 y Ãºnete!}
 {116}{}{Tenemos celebridades que son Hubologistas, sabes.}
-{117}{}{¡Juan Cruz y Vikki Goldman son famosos! Por eso me uní.}
-{118}{}{Apuesto a que las celebridades hablarán contigo si eres agradable y buen tipo.}
+{117}{}{Â¡Juan Cruz y Vikki Goldman son famosos! Por eso me unÃ­.}
+{118}{}{Apuesto a que las celebridades hablarÃ¡n contigo si eres agradable y buen tipo.}
 {119}{}{Amo a Hub.}
 {120}{}{Me gusta ser un Hubologista.}
 {121}{}{Quiero accionar mi potencialidad.}
-{122}{}{A decir verdad aún estoy aprendiendo la jerga.}
-{123}{}{¡Alabado sea el Eje!}
-{124}{}{¡Alabada sea la Gran Rueda!}
-{125}{}{¡Nos vamos a ir a Quetzel!}
+{122}{}{A decir verdad aÃºn estoy aprendiendo la jerga.}
+{123}{}{Â¡Alabado sea el Eje!}
+{124}{}{Â¡Alabada sea la Gran Rueda!}
+{125}{}{Â¡Nos vamos a ir a Quetzel!}
 {126}{}{Estoy deseando ir al hogar de las estrellas.}
 {127}{}{Por favor, no me molestes; estoy concentrando mis neurodinas.}
 {128}{}{Por favor, no desalinees mis neurodinas.}
-{138}{}{¡Oh, no! ¡El perseguidor!}
-{139}{}{¡El primer no-iluminado!}
-{140}{}{¡Aléjate de mí, malvado trozo de carne!}
-{141}{}{¡Obviamente tienes algunas malas neurodinas!}
-{142}{}{¡No! ¡No me contamines con tu odio!}
-{143}{}{¡Guardias! ¡Guardias! ¡El bárbaro está aquí!}
-{144}{}{¡No me toques!}
-{145}{}{¡Ayuda! ¡Guardias!}
-{146}{}{¡El enemigo de nuestra gente!}
-{147}{}{¡La oscuridad vuelve a cernirse sobre nosotros!}
-{148}{}{¡Padre Estelar! ¡Líbrame del pagano!}
-{149}{}{¡Alguien te castigará por tu perfidia!}
+{138}{}{Â¡Oh, no! Â¡El perseguidor!}
+{139}{}{Â¡El primer no-iluminado!}
+{140}{}{Â¡AlÃ©jate de mÃ­, malvado trozo de carne!}
+{141}{}{Â¡Obviamente tienes algunas malas neurodinas!}
+{142}{}{Â¡No! Â¡No me contamines con tu odio!}
+{143}{}{Â¡Guardias! Â¡Guardias! Â¡El bÃ¡rbaro estÃ¡ aquÃ­!}
+{144}{}{Â¡No me toques!}
+{145}{}{Â¡Ayuda! Â¡Guardias!}
+{146}{}{Â¡El enemigo de nuestra gente!}
+{147}{}{Â¡La oscuridad vuelve a cernirse sobre nosotros!}
+{148}{}{Â¡Padre Estelar! Â¡LÃ­brame del pagano!}
+{149}{}{Â¡Alguien te castigarÃ¡ por tu perfidia!}
 {150}{}{Amo a Hub.}
 {151}{}{Me gusta ser un Hubologista.}
 {152}{}{Quiero accionar mi potencialidad.}
-{153}{}{A decir verdad aún estoy aprendiendo la jerga.}
+{153}{}{A decir verdad aÃºn estoy aprendiendo la jerga.}
 {154}{}{Alabado sea el Eje!}
-{155}{}{¡Alabada sea la Gran Rueda!}
-{156}{}{¡Nos vamos a ir a Quetzel!}
+{155}{}{Â¡Alabada sea la Gran Rueda!}
+{156}{}{Â¡Nos vamos a ir a Quetzel!}
 {157}{}{Estoy deseando ir al hogar de las estrellas.}
 {158}{}{Estoy a punto gracias a un alineamiento.}
-{159}{}{¡Estoy esperando escuchar a AHS-9 hablar de nuevo!}
-{160}{}{Espero que mis neurodinas estén todas bien.}
-{161}{}{¡Quiero ser un AHS más elevado!}
+{159}{}{Â¡Estoy esperando escuchar a AHS-9 hablar de nuevo!}
+{160}{}{Espero que mis neurodinas estÃ©n todas bien.}
+{161}{}{Â¡Quiero ser un AHS mÃ¡s elevado!}
 {162}{}{Es hora de concentrarme en mi crecimiento personal.}
-{163}{}{La ciencia "auténtica" no es más que un montón de mentiras.}
-{164}{}{No escuches lo que esos "científicos" te digan.}
-{165}{}{Sólo Hub y AHS-9 poseen la respuesta.}
-{178}{}{¡Alabado sea el Padre Estelar! ¡Por fin nos iremos a las estrellas!}
-{179}{}{¡Planeta Quetzel, allá vamos!}
-{180}{}{¡Todo ese duro trabajo finalmente ha tenido su recompensa!}
-{181}{}{¡Mis neurodinas están totalmente relajadas ahora!}
-{182}{}{Será mejor que me alinee antes de que despeguemos.}
-{183}{}{¡Ooh! ¡El Padre Estelar! ¡El Padre Estelar!}
+{163}{}{La ciencia "autÃ©ntica" no es mÃ¡s que un montÃ³n de mentiras.}
+{164}{}{No escuches lo que esos "cientÃ­ficos" te digan.}
+{165}{}{SÃ³lo Hub y AHS-9 poseen la respuesta.}
+{178}{}{Â¡Alabado sea el Padre Estelar! Â¡Por fin nos iremos a las estrellas!}
+{179}{}{Â¡Planeta Quetzel, allÃ¡ vamos!}
+{180}{}{Â¡Todo ese duro trabajo finalmente ha tenido su recompensa!}
+{181}{}{Â¡Mis neurodinas estÃ¡n totalmente relajadas ahora!}
+{182}{}{SerÃ¡ mejor que me alinee antes de que despeguemos.}
+{183}{}{Â¡Ooh! Â¡El Padre Estelar! Â¡El Padre Estelar!}
 {184}{}{Siento palpitaciones por el despegue!}
-{185}{}{¿Cuándo nos vamos?}
-{186}{}{Apuesto a que los AHS más altos no están nerviosos.}
+{185}{}{Â¿CuÃ¡ndo nos vamos?}
+{186}{}{Apuesto a que los AHS mÃ¡s altos no estÃ¡n nerviosos.}
 {187}{}{Vaya... las estrellas. Por fin.}
-{188}{}{¡Ya no tendré que llevar un sombrero de papel de aluminio nunca más!}
+{188}{}{Â¡Ya no tendrÃ© que llevar un sombrero de papel de aluminio nunca mÃ¡s!}

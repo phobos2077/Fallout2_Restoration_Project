@@ -1,11 +1,11 @@
-{100}{}{Du¿y facio - spluwa - stoi tu. Pilnuje.}
-{101}{}{Ci¹gle widzisz stra¿nika.}
-{102}{}{Na czole ma tatua¿ ³owcy niewolników, co nie przyczynia siê do tego, aby wygl¹da³ inteligentniej.}
-{103}{}{Gadaj z Panem Vortisem, nie ze mn¹.}
+{100}{}{DuÅ¼y facio - spluwa - stoi tu. Pilnuje.}
+{101}{}{CiÄ…gle widzisz straÅ¼nika.}
+{102}{}{Na czole ma tatuaÅ¼ Å‚owcy niewolnikÃ³w, co nie przyczynia siÄ™ do tego, aby wyglÄ…daÅ‚ inteligentniej.}
+{103}{}{Gadaj z Panem Vortisem, nie ze mnÄ….}
 {104}{}{Uch...}
-{105}{}{Jakiœ problem? To do Vortisa.}
-{106}{}{Jak bêdziesz fikaæ, to ja tu siê tym zajmê. Kapewu?}
-{107}{}{Có¿, mamy se intruza.}
-{108}{}{Podnieœcie alarm! Intruz w posiad³oœci!}
-{109}{}{Panie Vortis - NajeŸdŸcy!}
-{110}{}{A to by³ du¿y b³¹d.}
+{105}{}{JakiÅ› problem? To do Vortisa.}
+{106}{}{Jak bÄ™dziesz fikaÄ‡, to ja tu siÄ™ tym zajmÄ™. Kapewu?}
+{107}{}{CÃ³Å¼, mamy se intruza.}
+{108}{}{PodnieÅ›cie alarm! Intruz w posiadÅ‚oÅ›ci!}
+{109}{}{Panie Vortis - NajeÅºdÅºcy!}
+{110}{}{A to byÅ‚ duÅ¼y bÅ‚Ä…d.}

@@ -1,7 +1,7 @@
-{100}{}{Widzisz mê¿czyznê w dziwnej zbroi.}
-{101}{}{Widzisz mê¿czyznê w dziwnej zbroi.}
-{102}{}{Jego zbroja wygl¹da nieŸle zardzewia³¹.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ w dziwnej zbroi.}
+{101}{}{Widzisz mÄ™Å¼czyznÄ™ w dziwnej zbroi.}
+{102}{}{Jego zbroja wyglÄ…da nieÅºle zardzewiaÅ‚Ä….}
 {103}{}{Smar.}
-{104}{}{Wielkie dziêki. Nie wyobra¿asz sobie jak d³ugo tu tkwiê. WeŸ to za twoj¹ pomoc. Muszê ju¿ iœæ.}
-{105}{}{Uch, dziêki.}
-{106}{}{Muszê lecieæ. Zobaczymy siê innym razem.}
+{104}{}{Wielkie dziÄ™ki. Nie wyobraÅ¼asz sobie jak dÅ‚ugo tu tkwiÄ™. WeÅº to za twojÄ… pomoc. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{105}{}{Uch, dziÄ™ki.}
+{106}{}{MuszÄ™ lecieÄ‡. Zobaczymy siÄ™ innym razem.}

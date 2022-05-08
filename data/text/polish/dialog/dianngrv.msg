@@ -1,2 +1,2 @@
-{101}{}{Napis na nagrobku g≥osi: "Anna Winslow".}
-{200}{}{Koúci Anny zosta≥y z≥oøone w grobie.}
+{101}{}{Napis na nagrobku g≈Çosi: "Anna Winslow".}
+{200}{}{Ko≈õci Anny zosta≈Çy z≈Ço≈ºone w grobie.}

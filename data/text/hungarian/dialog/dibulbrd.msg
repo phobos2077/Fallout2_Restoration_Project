@@ -1,40 +1,40 @@
-{100}{}{Hirdet?tábla.}
-{150}{}{Úgy t?nik, van rajta pár üzenet.}
-{200}{}{Rejtek Hírek: Fenntartja: Rebecca Kaszinó Bárja, Rejtek legjobb piái itt találhatók. }
-{201}{}{Rejtek Hírek: Fenntartja: Rebecca Kaszinó Bárja...}
-{202}{}{[Egy ismeretlen odafirkált valamit a tábla szélére.]}
-{203}{}{[Ennek a hirdetésnek egy részét letépték.]}
-{204}{}{Rabszolga-Céh}
-{205}{}{Bárok & Szerencsejátékok}
-{206}{}{Kajálda}
-{207}{}{Üzletek}
+{100}{}{Hirdet?tÃ¡bla.}
+{150}{}{Ãšgy t?nik, van rajta pÃ¡r Ã¼zenet.}
+{200}{}{Rejtek HÃ­rek: Fenntartja: Rebecca KaszinÃ³ BÃ¡rja, Rejtek legjobb piÃ¡i itt talÃ¡lhatÃ³k. }
+{201}{}{Rejtek HÃ­rek: Fenntartja: Rebecca KaszinÃ³ BÃ¡rja...}
+{202}{}{[Egy ismeretlen odafirkÃ¡lt valamit a tÃ¡bla szÃ©lÃ©re.]}
+{203}{}{[Ennek a hirdetÃ©snek egy rÃ©szÃ©t letÃ©ptÃ©k.]}
+{204}{}{Rabszolga-CÃ©h}
+{205}{}{BÃ¡rok & SzerencsejÃ¡tÃ©kok}
+{206}{}{KajÃ¡lda}
+{207}{}{Ãœzletek}
 {225}{}{The Slaver's Guild is the best and only supplier of slaves in the wastes.}
-{250}{}{Állásért, vásárlásért és eladásért, beszélj Metzgerrel!}
-{275}{}{A Rabszolga-Céh a város keleti felében található, Becky és Frankie bárjain túl.}
-{300}{}{A megn?tt kereslet miatt jelen pillanatban nem adnak el magánembereknek.}
-{325}{}{[Kett?t látsz felsorolva]}
-{350}{}{Rebecca Kaszinó Bárjában mind a szerencsejátékot, mind az olcsó italokat megtalálod.}
-{375}{}{Innen egyenesen keletre találsz minket. Ahogy belépsz a városba, az els? épület balra. Gyere el bátran!}
-{400}{}{Becky egy kurva és vizezett a piája! Csaló és hazug! [Az írás alig olvasható.]}
-{401}{}{[Az ide ragasztott üzenet gondosan le lett tépve.]}
-{425}{}{[Szavak szavak... szavak...] Bár... [szavak...] Rejtekben.}
-{426}{}{Nagyon zavarónak találod és meg is fájdult t?le a fejed.}
-{450}{}{Frankie egy bárt, fogadót, és 'élvezetes' üzletet vezet a város keleti felén.}
-{475}{}{A Mama étterme egyedülálló Rejtekben. A város keleti felén, délre a Rabszolga-Céht?l megtalálod.}
-{500}{}{[Úgy t?nik, valaki megpróbálta felgyújtani. Egyik hirdetés sem olvasható.]}
-{525}{}{[Három üzlet hirdetését olvashatod.]}
+{250}{}{ÃllÃ¡sÃ©rt, vÃ¡sÃ¡rlÃ¡sÃ©rt Ã©s eladÃ¡sÃ©rt, beszÃ©lj Metzgerrel!}
+{275}{}{A Rabszolga-CÃ©h a vÃ¡ros keleti felÃ©ben talÃ¡lhatÃ³, Becky Ã©s Frankie bÃ¡rjain tÃºl.}
+{300}{}{A megn?tt kereslet miatt jelen pillanatban nem adnak el magÃ¡nembereknek.}
+{325}{}{[Kett?t lÃ¡tsz felsorolva]}
+{350}{}{Rebecca KaszinÃ³ BÃ¡rjÃ¡ban mind a szerencsejÃ¡tÃ©kot, mind az olcsÃ³ italokat megtalÃ¡lod.}
+{375}{}{Innen egyenesen keletre talÃ¡lsz minket. Ahogy belÃ©psz a vÃ¡rosba, az els? Ã©pÃ¼let balra. Gyere el bÃ¡tran!}
+{400}{}{Becky egy kurva Ã©s vizezett a piÃ¡ja! CsalÃ³ Ã©s hazug! [Az Ã­rÃ¡s alig olvashatÃ³.]}
+{401}{}{[Az ide ragasztott Ã¼zenet gondosan le lett tÃ©pve.]}
+{425}{}{[Szavak szavak... szavak...] BÃ¡r... [szavak...] Rejtekben.}
+{426}{}{Nagyon zavarÃ³nak talÃ¡lod Ã©s meg is fÃ¡jdult t?le a fejed.}
+{450}{}{Frankie egy bÃ¡rt, fogadÃ³t, Ã©s 'Ã©lvezetes' Ã¼zletet vezet a vÃ¡ros keleti felÃ©n.}
+{475}{}{A Mama Ã©tterme egyedÃ¼lÃ¡llÃ³ Rejtekben. A vÃ¡ros keleti felÃ©n, dÃ©lre a Rabszolga-CÃ©ht?l megtalÃ¡lod.}
+{500}{}{[Ãšgy t?nik, valaki megprÃ³bÃ¡lta felgyÃºjtani. Egyik hirdetÃ©s sem olvashatÃ³.]}
+{525}{}{[HÃ¡rom Ã¼zlet hirdetÃ©sÃ©t olvashatod.]}
 {550}{}{Tubby sells all sorts of items, but primarily drugs and ammo.}
-{575}{}{Tubby a hirdet?táblától nyugatra található. Ahogy belépsz a városba, az els? épület jobbra.}
-{600}{}{Flick számtalan cuccot árul az "irodájában". A hely innen egyenesen délre van.}
-{625}{}{Smitty a helyi szerel?. Néha elad egy-két dolgot.}
-{650}{}{Smitty a roncstelepen található, a város dél-nyugati sarkában.}
-{1000}{}{[folytatás]}
-{1010}{}{Hol található?}
-{1020}{}{Kilépés}
+{575}{}{Tubby a hirdet?tÃ¡blÃ¡tÃ³l nyugatra talÃ¡lhatÃ³. Ahogy belÃ©psz a vÃ¡rosba, az els? Ã©pÃ¼let jobbra.}
+{600}{}{Flick szÃ¡mtalan cuccot Ã¡rul az "irodÃ¡jÃ¡ban". A hely innen egyenesen dÃ©lre van.}
+{625}{}{Smitty a helyi szerel?. NÃ©ha elad egy-kÃ©t dolgot.}
+{650}{}{Smitty a roncstelepen talÃ¡lhatÃ³, a vÃ¡ros dÃ©l-nyugati sarkÃ¡ban.}
+{1000}{}{[folytatÃ¡s]}
+{1010}{}{Hol talÃ¡lhatÃ³?}
+{1020}{}{KilÃ©pÃ©s}
 {1030}{}{Flick}
 {1040}{}{Frankie}
-{1050}{}{Rebecca Kaszinó Bárja}
+{1050}{}{Rebecca KaszinÃ³ BÃ¡rja}
 {1060}{}{Vissza a f? oldalra}
 {1070}{}{Smitty}
-{1080}{}{Különleges hirdetés:}
+{1080}{}{KÃ¼lÃ¶nleges hirdetÃ©s:}
 {1090}{}{Tubby}

@@ -11,8 +11,8 @@
 {110}{}{Access other files.}
 {111}{}{Play Rock Paper Scissors.}
 {112}{}{Vissza.}
-{113}{}{KilÈpÈs.}
-{114}{}{[FOLYTAT¡S]}
+{113}{}{Kil√©p√©s.}
+{114}{}{[FOLYTAT√ÅS]}
 {115}{}{You find some files containing the keywords "GECK" and "Vault".}
 {116}{}{Browse files pertaining to "GECK".}
 {117}{}{Browse files pertaining to "Vault".}
@@ -29,7 +29,7 @@
  wouldn't even know where to begin searching for something of use.}
 {122}{}{As you search through the system you find hundreds of digitized books and magazines categorized on the hard drive. Since
  you are skilled in how information is usually stored, perhaps searching by topic would yield something of use.}
-{123}{}{[TOV¡BB]}
+{123}{}{[TOV√ÅBB]}
 {124}{}{According to the ad, the kit includes a "Base Replicator Unit", which "replicates food and basic items needed for building
  your new world", a "Holodisc Reader with Library", which "includes selections from the Library of Congress, complete set of encyclopedias,
  and other life saving information, all contained on four-hundred and sixty handy holodiscs!" and it even contains a "Miniature Pen Flashlight!"
@@ -52,7 +52,7 @@
 {143}{}{Vissza.}
 {144}{}{Formatting backup database... SUCCESS... Formatting current file system... WAITING... Warning: There has been a catastrophic error.
  Please stand by...}
-{145}{}{V·rj!}
+{145}{}{V√°rj!}
 {146}{}{...System Error: The operation completed successfully...(A screeching sound begins to emanate from inside the computer and others nearby.}
 {147}{}{[Walk Away.]}
 {148}{}{Error: No keyboard found. Please press any key to reboot.}
@@ -67,7 +67,7 @@
 {207}{}{Terminal makes selection.....Calculating.....Draw!}
 {300}{}{(The computer screen shows various color patterns.)}
 {301}{}{Ohhh! Pretty colors.}
-{302}{}{[Elp·ly·zol]}
+{302}{}{[Elp√°ly√°zol]}
 {400}{}{Read more.}
 {401}{}{Return to menu.}
 {402}{}{Search by topic.}
@@ -96,7 +96,7 @@
  turn arid wasteland into fertile soil. Its claim that it can "build basic items" actually alludes to new codes it provides for the
  Vault's machines, allowing them to create new items from the dispensers. The GECK also contains schematics for basic force fields
  and the construction of "sand-crete" walls and buildings.}
-{502}{}{[TOV¡BB]}
+{502}{}{[TOV√ÅBB]}
 {503}{}{It seems the GECK itself is meant to be disassembled over the course of its use. You read an example of how its cold fusion
  power source is intended be used for main city power production. The GECK even contains instructions on disassembling sections of the
  Vault to create homes and defensive structures for the new community. As you finish reading over the files, you decide that even though

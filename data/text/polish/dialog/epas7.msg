@@ -1,4 +1,4 @@
-{100}{}{W powietrzu unosi siê potworny smród, który a¿ pali boleœnie w p³ucach.}
-{101}{}{Lepiej znaleŸæ maskê przeciwgazow¹.}
-{102}{}{Brzmi to jakby wentylatory na prawej œcianie by³y zatkane.}
-{103}{}{Brzmi to jakby wentylatory na koñcu tego pomieszczenia by³y zatkane.}
+{100}{}{W powietrzu unosi siÄ™ potworny smrÃ³d, ktÃ³ry aÅ¼ pali boleÅ›nie w pÅ‚ucach.}
+{101}{}{Lepiej znaleÅºÄ‡ maskÄ™ przeciwgazowÄ….}
+{102}{}{Brzmi to jakby wentylatory na prawej Å›cianie byÅ‚y zatkane.}
+{103}{}{Brzmi to jakby wentylatory na koÅ„cu tego pomieszczenia byÅ‚y zatkane.}

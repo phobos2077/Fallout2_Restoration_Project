@@ -1,4 +1,4 @@
-{100}{}{Você vê um terminal.}
+{100}{}{VocÃª vÃª um terminal.}
 {101}{}{This is a computer terminal. It is often used to control other objects.}
 {200}{}{This terminal appears to control the doors on this cell block.}
 {201}{}{Invalid code sequence.}

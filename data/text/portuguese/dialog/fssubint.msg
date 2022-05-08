@@ -1,4 +1,4 @@
-{100}{}{Você tropeça e se corta em um pedaço de metal exposto.}
+{100}{}{VocÃª tropeÃ§a e se corta em um pedaÃ§o de metal exposto.}
 {101}{}{Alguns fios velhos acertam seu rosto.}
-{102}{}{Seu pé cai na grade enferrujada. Você se liberta, mas machuca sua perna.}
-{103}{}{O fedor de ferrugem e decomposição é insuportável. Você tem dificuldade para respirar livremente e bate em um vergalhão exposto. Ai.}
+{102}{}{Seu pÃ© cai na grade enferrujada. VocÃª se liberta, mas machuca sua perna.}
+{103}{}{O fedor de ferrugem e decomposiÃ§Ã£o Ã© insuportÃ¡vel. VocÃª tem dificuldade para respirar livremente e bate em um vergalhÃ£o exposto. Ai.}

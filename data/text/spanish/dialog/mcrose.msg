@@ -1,79 +1,79 @@
-{100}{}{Ves a una simpática gordita.}
+{100}{}{Ves a una simpÃ¡tica gordita.}
 {101}{}{Ves a Rose.}
-{102}{}{Su pelo gris está recogido en un moño suelto, y camina con un ligero balanceo. No puedes evitar sentirte a gusto junto a ella.}
+{102}{}{Su pelo gris estÃ¡ recogido en un moÃ±o suelto, y camina con un ligero balanceo. No puedes evitar sentirte a gusto junto a ella.}
 {150}{}{Lo siento, hemos cerrado. Un familiar ha fallecido. [sniff]}
-{151}{}{¡Eh! Soy la única que tiene permiso para rebuscar en la caja de objetos perdidos.}
-{152}{}{¡Estoy empezando a pensar que eres un ladrón!}
-{153}{}{¡Ladrón! ¡Ladrón! ¡Ladrón!}
-{154}{}{Bienvenido a la Posada de Rose. Vaya, si eres un joven bien fornido. ¿Qué puede hacer hoy Rose por ti?}
-{155}{}{Bienvenida a la Posada de Rose. Vaya, qué chica más bonita eres. ¿Qué puede hacer hoy Rose por ti?}
-{156}{}{¡Tengo hambre! ¿Qué tienes para comer?}
-{157}{}{Me gustaría alquilar una habitación para esta noche.}
-{158}{}{Debes oír muchas cosas trabajando aquí. ¿Te importa si te hago algunas preguntas?}
+{151}{}{Â¡Eh! Soy la Ãºnica que tiene permiso para rebuscar en la caja de objetos perdidos.}
+{152}{}{Â¡Estoy empezando a pensar que eres un ladrÃ³n!}
+{153}{}{Â¡LadrÃ³n! Â¡LadrÃ³n! Â¡LadrÃ³n!}
+{154}{}{Bienvenido a la Posada de Rose. Vaya, si eres un joven bien fornido. Â¿QuÃ© puede hacer hoy Rose por ti?}
+{155}{}{Bienvenida a la Posada de Rose. Vaya, quÃ© chica mÃ¡s bonita eres. Â¿QuÃ© puede hacer hoy Rose por ti?}
+{156}{}{Â¡Tengo hambre! Â¿QuÃ© tienes para comer?}
+{157}{}{Me gustarÃ­a alquilar una habitaciÃ³n para esta noche.}
+{158}{}{Debes oÃ­r muchas cosas trabajando aquÃ­. Â¿Te importa si te hago algunas preguntas?}
 {159}{}{[Juntas tus labios con un sonoro "POP"]}
-{160}{}{¡Me alegro de que hayas vuelto! ¿Qué puedo hacer por ti?}
-{165}{}{¡Oh, Dios! Eres tú. Todo el mundo está hablando de cómo has arriesgado tu vida por nosotros, y de que has resuelto el misterio de la Granja Fantasma. Que sepas que siempre serás bienvenido aquí, y por supuesto todas tus comidas corren a cuenta de la casa. También puedes rebuscar en la caja de objetos perdidos y quedarte cualquier cosa que quieras como premio especial.}
-{166}{}{¡Es el héroe de Modoc! Bienvenido.}
-{167}{}{Ahora mismo me encantaría probar una de tus deliciosas tortillas.}
-{168}{}{Me gusta oír eso. Un jovencito que está creciendo necesita comer para estar fuerte, y puedo ver que no has estado comiendo bien. Tú sólo siéntate aquí y echa un vistazo al menú.}
-{169}{}{Y eso deberías hacer. ¿Cuando fue la última vez que comiste bien, jovencita? Porque estás más delgada que un palo. Tan sólo échale un vistazo al menú y dile a a Rose qué te gustaría comer.}
-{170}{}{Fritos de Brahmin. [5 dólares]}
-{171}{}{Tortilla del Yermo. [25 dólares]}
-{172}{}{Agua. [1.000 dólares]}
-{173}{}{Perritos calientes de brahmin. [5 dólares]}
-{174}{}{Hamburguesas de can. [7 dólares]}
-{175}{}{Filete del Pastor. [3 dólares]}
+{160}{}{Â¡Me alegro de que hayas vuelto! Â¿QuÃ© puedo hacer por ti?}
+{165}{}{Â¡Oh, Dios! Eres tÃº. Todo el mundo estÃ¡ hablando de cÃ³mo has arriesgado tu vida por nosotros, y de que has resuelto el misterio de la Granja Fantasma. Que sepas que siempre serÃ¡s bienvenido aquÃ­, y por supuesto todas tus comidas corren a cuenta de la casa. TambiÃ©n puedes rebuscar en la caja de objetos perdidos y quedarte cualquier cosa que quieras como premio especial.}
+{166}{}{Â¡Es el hÃ©roe de Modoc! Bienvenido.}
+{167}{}{Ahora mismo me encantarÃ­a probar una de tus deliciosas tortillas.}
+{168}{}{Me gusta oÃ­r eso. Un jovencito que estÃ¡ creciendo necesita comer para estar fuerte, y puedo ver que no has estado comiendo bien. TÃº sÃ³lo siÃ©ntate aquÃ­ y echa un vistazo al menÃº.}
+{169}{}{Y eso deberÃ­as hacer. Â¿Cuando fue la Ãºltima vez que comiste bien, jovencita? Porque estÃ¡s mÃ¡s delgada que un palo. Tan sÃ³lo Ã©chale un vistazo al menÃº y dile a a Rose quÃ© te gustarÃ­a comer.}
+{170}{}{Fritos de Brahmin. [5 dÃ³lares]}
+{171}{}{Tortilla del Yermo. [25 dÃ³lares]}
+{172}{}{Agua. [1.000 dÃ³lares]}
+{173}{}{Perritos calientes de brahmin. [5 dÃ³lares]}
+{174}{}{Hamburguesas de can. [7 dÃ³lares]}
+{175}{}{Filete del Pastor. [3 dÃ³lares]}
 {176}{}{No, gracias; ahora mismo no tengo hambre.}
-{177}{}{Oh, lo siento, pero no parece que tengas suficiente dinero. ¿Por qué no vuelves más tarde?}
-{178}{}{¡Pero tengo hambre! Quizás pueda pedir algo más barato.}
-{179}{}{¡Espera! ¿Puedo hacerte unas pocas preguntas?}
-{180}{}{Vuelves a por más, ya veo. De verdad que te gusta el brahmin frito. Lo siento; como ya tienes el récord, no puedes participar en el concurso hasta que alguien bata tu marca.}
-{181}{}{Que sean fritos de brahmin, pues. Tenemos un concurso de quién puede comer más fritos de brahmin; hasta ahora, el récord está en 36. Si lo bates, no tendrás que pagar la cuenta. Te veo capaz de batir el récord sin problemas. ¿Te interesa intentarlo?}
-{182}{}{Está bien. Estoy deseando pagar para comer tu delicioso escroto frito de brahmin.}
-{183}{}{Estoy tan hambriento que podría doblar esa puntuación. Tráelo.}
-{184}{}{No gracias; sólo quiero uno, por favor.}
-{185}{}{Oh, eso es magnifico. Cada pedido consta de 10 piezas. Tendré que pedirte el dinero por adelantado. Te lo devolveré tan pronto rompas el récord. Serán 20 dólares, por favor.}
-{186}{}{No tengo tanto dinero. ¿Podría intentarlo más tarde? Sólo quiero un pedido, Gracias.}
-{187}{}{Claro, lo tendré de vuelta cuando rompa el récord.}
-{188}{}{[Rose se guarda el dinero y vuelve con una multitud de platos de fritos de brahmin. No son como esperabas. Parecen ser del tamaño de pelotas de golf, cubiertos con una pasta y fritos en aceite hasta dorarse. Pruebas un pequeño bocado de uno de ellos. ¡Son deliciosos! Comienzas a comértelos con entusiasmo].}
-{189}{}{[Al llegar al frito numero 34, comienzas a sentir los efectos de haber comido en exceso. Una multitud se ha reunido para presenciar el intento de batir el histórico récord. En un intento de recuperar la compostura, empiezas una conversación con Rose].}
-{190}{}{[Te metes un frito en la boca]. "Mmff… splt… mnch…" No hables con la boca llena, querido. [Te lo tragas].}
-{191}{}{¿Cómo los preparas? Si no es secreto, claro. Conozco a alguna gente en casa a los que les encantarían.}
-{192}{}{Oh, no es ningún secreto. Tan sólo tienes que sumergirlos en pasta, añadir algo de sal y freírlos en grasa. [Te metes otro más en la boca].}
-{193}{}{¿Y como preparas la carne de brahmin? Tiene una textura única. [Te metes otro más en la boca. ¡Están buenos!]}
-{194}{}{¡Ese es el 37! ¡Has batido el récord! [¡La multitud te vitorea!]}
+{177}{}{Oh, lo siento, pero no parece que tengas suficiente dinero. Â¿Por quÃ© no vuelves mÃ¡s tarde?}
+{178}{}{Â¡Pero tengo hambre! QuizÃ¡s pueda pedir algo mÃ¡s barato.}
+{179}{}{Â¡Espera! Â¿Puedo hacerte unas pocas preguntas?}
+{180}{}{Vuelves a por mÃ¡s, ya veo. De verdad que te gusta el brahmin frito. Lo siento; como ya tienes el rÃ©cord, no puedes participar en el concurso hasta que alguien bata tu marca.}
+{181}{}{Que sean fritos de brahmin, pues. Tenemos un concurso de quiÃ©n puede comer mÃ¡s fritos de brahmin; hasta ahora, el rÃ©cord estÃ¡ en 36. Si lo bates, no tendrÃ¡s que pagar la cuenta. Te veo capaz de batir el rÃ©cord sin problemas. Â¿Te interesa intentarlo?}
+{182}{}{EstÃ¡ bien. Estoy deseando pagar para comer tu delicioso escroto frito de brahmin.}
+{183}{}{Estoy tan hambriento que podrÃ­a doblar esa puntuaciÃ³n. TrÃ¡elo.}
+{184}{}{No gracias; sÃ³lo quiero uno, por favor.}
+{185}{}{Oh, eso es magnifico. Cada pedido consta de 10 piezas. TendrÃ© que pedirte el dinero por adelantado. Te lo devolverÃ© tan pronto rompas el rÃ©cord. SerÃ¡n 20 dÃ³lares, por favor.}
+{186}{}{No tengo tanto dinero. Â¿PodrÃ­a intentarlo mÃ¡s tarde? SÃ³lo quiero un pedido, Gracias.}
+{187}{}{Claro, lo tendrÃ© de vuelta cuando rompa el rÃ©cord.}
+{188}{}{[Rose se guarda el dinero y vuelve con una multitud de platos de fritos de brahmin. No son como esperabas. Parecen ser del tamaÃ±o de pelotas de golf, cubiertos con una pasta y fritos en aceite hasta dorarse. Pruebas un pequeÃ±o bocado de uno de ellos. Â¡Son deliciosos! Comienzas a comÃ©rtelos con entusiasmo].}
+{189}{}{[Al llegar al frito numero 34, comienzas a sentir los efectos de haber comido en exceso. Una multitud se ha reunido para presenciar el intento de batir el histÃ³rico rÃ©cord. En un intento de recuperar la compostura, empiezas una conversaciÃ³n con Rose].}
+{190}{}{[Te metes un frito en la boca]. "Mmffâ€¦ spltâ€¦ mnchâ€¦" No hables con la boca llena, querido. [Te lo tragas].}
+{191}{}{Â¿CÃ³mo los preparas? Si no es secreto, claro. Conozco a alguna gente en casa a los que les encantarÃ­an.}
+{192}{}{Oh, no es ningÃºn secreto. Tan sÃ³lo tienes que sumergirlos en pasta, aÃ±adir algo de sal y freÃ­rlos en grasa. [Te metes otro mÃ¡s en la boca].}
+{193}{}{Â¿Y como preparas la carne de brahmin? Tiene una textura Ãºnica. [Te metes otro mÃ¡s en la boca. Â¡EstÃ¡n buenos!]}
+{194}{}{Â¡Ese es el 37! Â¡Has batido el rÃ©cord! [Â¡La multitud te vitorea!]}
 {195}{}{[Te sientes como si hubieras recuperado el aliento y te metes otro frito en la boca].}
-{196}{}{[La multitud grita, "¡38!"] Bueno, lo que hace su sabor tan especial es que tienes que hacerte con ellos mientras el brahmin todavía está vivo. Agarras al brahmin por el escroto y se lo cortas de una tajada. Tienes que tener cuidado; el brahmin suele enfadarse.}
+{196}{}{[La multitud grita, "Â¡38!"] Bueno, lo que hace su sabor tan especial es que tienes que hacerte con ellos mientras el brahmin todavÃ­a estÃ¡ vivo. Agarras al brahmin por el escroto y se lo cortas de una tajada. Tienes que tener cuidado; el brahmin suele enfadarse.}
 {197}{}{[El frito de brahmin numero 38 debe viajar a la velocidad de la luz cuando de repente sale disparado de tu boca].}
-{198}{}{Oh, no podemos contar ese último, ¡pero has dejado el récord en 37! Aquí está tu dinero. ¡Enhorabuena!}
+{198}{}{Oh, no podemos contar ese Ãºltimo, Â¡pero has dejado el rÃ©cord en 37! AquÃ­ estÃ¡ tu dinero. Â¡Enhorabuena!}
 {199}{}{[Te sientes enfermo].}
-{200}{}{Ah, esa es mi especialidad. Espero que estés hambriento; te garantizo que nunca has probado una tortilla como ésta en ninguna parte. [Se marcha y vuelve con la mayor tortilla que hayas visto en tu maldita vida].}
-{201}{}{[Te sientes revitalizado después de semejante comilona].}
-{202}{}{[Desaparece rápidamente tras la barra y vuelve con tu pedido].}
-{203}{}{¿Puedo hacerte algunas preguntas?}
-{204}{}{Lo siento, cariño. Estoy muy ocupada atendiendo a los clientes. Quizás si pidieras algo tendría tiempo para charlar contigo entre pedido y pedido.}
-{205}{}{En ese caso, me estoy muriendo de hambre. ¿Qué tienes para comer?}
-{206}{}{Claro, pero sé rápido, cariño. No quiero hacer esperar a los demás clientes.}
-{207}{}{¿Qué puedes contarme del reloj perdido de Cornelius?}
-{208}{}{¿Alguna vez has oído hablar de un GECK?}
-{209}{}{¿Qué es lo que sabes de la Granja Fantasma?}
-{210}{}{Nunca había visto una tortilla del tamaño de la que me has servido. ¿Qué clase de animal pone un huevo tan grande?}
-{211}{}{¿De que está hecha la hamburguesa de can?}
-{212}{}{¡Oh querido! ¿Has estado hablando con mi marido Cornelius? Todo este asunto del reloj es horrible. Cornelius ha hecho que todo el pueblo crea que su mejor amigo, Farrel, le robó el reloj. Si has hablado con él, estoy segura de que habrás notado que su mente no funciona adecuadamente. Estoy muy segura de que el pobrecito se dejó el reloj en alguna parte y se le olvidó donde.}
-{213}{}{Si no necesitas nada más, tengo otros clientes a los que servir.}
-{214}{}{¿Puedo hacerte más preguntas?}
-{215}{}{Un momento, todavía tengo hambre.}
-{216}{}{¿Has dicho GECK? No, no puedo decir que lo haya hecho. He oído hablar de una buena receta de sopa que requiere tres geckos. Pero no, nunca he oído nada de algo llamado GECK.}
-{217}{}{[Se estremece involuntariamente] ¡No te acerques ahí! He oído historias de viajeros acerca de cuerpos pudriéndose, clavados en estacas, y de formas brillantes que se movían por los campos en mitad de la noche. No sé cuanto de esto es verdad, pero sé que hace un tiempo Karl se trasladó allí y no se le ha vuelto a ver.}
-{218}{}{Ah, te has comido la tortilla del Yermo. ¿Deliciosa, no? Alguna gente dice que tiene propiedades curativas. [Mira alrededor nerviosamente] ¡Oh! Algunos clientes acaban de entrar. Ahora vuelvo. [Hmm… No llegó a responder a tu pregunta].}
-{220}{}{Nuestras hamburguesas están hechas de nada más y nada menos que la más selecta y sabrosa carne de perro de primera calidad. La carne es triturada y convertida en pastelillos de media libra. Y para darle ese humeante sabor único, es asada a la parrilla lentamente sobre estiércol de brahmin.}
-{221}{}{Pobrecito. Pareces muy hambriento. Siéntate y deja que Rose te haga algo para comer. [Se marcha y vuelve con una gran tortilla]. Ahora, no te muevas del sitio hasta que te la hayas terminado entera.}
+{200}{}{Ah, esa es mi especialidad. Espero que estÃ©s hambriento; te garantizo que nunca has probado una tortilla como Ã©sta en ninguna parte. [Se marcha y vuelve con la mayor tortilla que hayas visto en tu maldita vida].}
+{201}{}{[Te sientes revitalizado despuÃ©s de semejante comilona].}
+{202}{}{[Desaparece rÃ¡pidamente tras la barra y vuelve con tu pedido].}
+{203}{}{Â¿Puedo hacerte algunas preguntas?}
+{204}{}{Lo siento, cariÃ±o. Estoy muy ocupada atendiendo a los clientes. QuizÃ¡s si pidieras algo tendrÃ­a tiempo para charlar contigo entre pedido y pedido.}
+{205}{}{En ese caso, me estoy muriendo de hambre. Â¿QuÃ© tienes para comer?}
+{206}{}{Claro, pero sÃ© rÃ¡pido, cariÃ±o. No quiero hacer esperar a los demÃ¡s clientes.}
+{207}{}{Â¿QuÃ© puedes contarme del reloj perdido de Cornelius?}
+{208}{}{Â¿Alguna vez has oÃ­do hablar de un GECK?}
+{209}{}{Â¿QuÃ© es lo que sabes de la Granja Fantasma?}
+{210}{}{Nunca habÃ­a visto una tortilla del tamaÃ±o de la que me has servido. Â¿QuÃ© clase de animal pone un huevo tan grande?}
+{211}{}{Â¿De que estÃ¡ hecha la hamburguesa de can?}
+{212}{}{Â¡Oh querido! Â¿Has estado hablando con mi marido Cornelius? Todo este asunto del reloj es horrible. Cornelius ha hecho que todo el pueblo crea que su mejor amigo, Farrel, le robÃ³ el reloj. Si has hablado con Ã©l, estoy segura de que habrÃ¡s notado que su mente no funciona adecuadamente. Estoy muy segura de que el pobrecito se dejÃ³ el reloj en alguna parte y se le olvidÃ³ donde.}
+{213}{}{Si no necesitas nada mÃ¡s, tengo otros clientes a los que servir.}
+{214}{}{Â¿Puedo hacerte mÃ¡s preguntas?}
+{215}{}{Un momento, todavÃ­a tengo hambre.}
+{216}{}{Â¿Has dicho GECK? No, no puedo decir que lo haya hecho. He oÃ­do hablar de una buena receta de sopa que requiere tres geckos. Pero no, nunca he oÃ­do nada de algo llamado GECK.}
+{217}{}{[Se estremece involuntariamente] Â¡No te acerques ahÃ­! He oÃ­do historias de viajeros acerca de cuerpos pudriÃ©ndose, clavados en estacas, y de formas brillantes que se movÃ­an por los campos en mitad de la noche. No sÃ© cuanto de esto es verdad, pero sÃ© que hace un tiempo Karl se trasladÃ³ allÃ­ y no se le ha vuelto a ver.}
+{218}{}{Ah, te has comido la tortilla del Yermo. Â¿Deliciosa, no? Alguna gente dice que tiene propiedades curativas. [Mira alrededor nerviosamente] Â¡Oh! Algunos clientes acaban de entrar. Ahora vuelvo. [Hmmâ€¦ No llegÃ³ a responder a tu pregunta].}
+{220}{}{Nuestras hamburguesas estÃ¡n hechas de nada mÃ¡s y nada menos que la mÃ¡s selecta y sabrosa carne de perro de primera calidad. La carne es triturada y convertida en pastelillos de media libra. Y para darle ese humeante sabor Ãºnico, es asada a la parrilla lentamente sobre estiÃ©rcol de brahmin.}
+{221}{}{Pobrecito. Pareces muy hambriento. SiÃ©ntate y deja que Rose te haga algo para comer. [Se marcha y vuelve con una gran tortilla]. Ahora, no te muevas del sitio hasta que te la hayas terminado entera.}
 {222}{}{Lo siento, estamos llenos. Una gran caravana ha alquilado todas las habitaciones.}
-{225}{}{¿De verdad!? Debes estar realmente sediento. He subido el precio para desalentar a los clientes de pedirla. Beber agua es algo excepcional aquí, con la falta de lluvia y el pozo secándose. ¿Aún la quieres?}
-{226}{}{¡Sí! Necesito agua desesperadamente.}
+{225}{}{Â¿De verdad!? Debes estar realmente sediento. He subido el precio para desalentar a los clientes de pedirla. Beber agua es algo excepcional aquÃ­, con la falta de lluvia y el pozo secÃ¡ndose. Â¿AÃºn la quieres?}
+{226}{}{Â¡SÃ­! Necesito agua desesperadamente.}
 {227}{}{La verdad es que realmente tengo hambre.}
-{228}{}{Lo siento, hemos dejado de servir tortillas. Algún loco se coló en nuestro gallinero y mató a la... gallina.}
-{229}{}{Estoy hambriento de verdad, así que veamos qué más tienes.}
-{230}{}{De verdad que estaba buscando tu mundialmente famosa tortilla. Supongo que me quedaré con las ganas.}
-{231}{}{¡Ahh! ¡Ga-lleeeee-ta!}
-{300}{}{[Vuelve rápidamente con un vaso con una sustancia liquida de color marrón. Parece que haya más tierra que agua en el vaso. Sin embargo, estás tan sediento que de todos modos te lo bebes]. Te he traído una galletita para que te la comas con eso, cariñito.}
+{228}{}{Lo siento, hemos dejado de servir tortillas. AlgÃºn loco se colÃ³ en nuestro gallinero y matÃ³ a la... gallina.}
+{229}{}{Estoy hambriento de verdad, asÃ­ que veamos quÃ© mÃ¡s tienes.}
+{230}{}{De verdad que estaba buscando tu mundialmente famosa tortilla. Supongo que me quedarÃ© con las ganas.}
+{231}{}{Â¡Ahh! Â¡Ga-lleeeee-ta!}
+{300}{}{[Vuelve rÃ¡pidamente con un vaso con una sustancia liquida de color marrÃ³n. Parece que haya mÃ¡s tierra que agua en el vaso. Sin embargo, estÃ¡s tan sediento que de todos modos te lo bebes]. Te he traÃ­do una galletita para que te la comas con eso, cariÃ±ito.}

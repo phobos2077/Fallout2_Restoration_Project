@@ -1,3 +1,3 @@
 {20}{}{Przerwa}
-{21}{}{Próba, raz, dwa, ja!}
+{21}{}{PrÃ³ba, raz, dwa, ja!}
 {22}{}{Taa. Akurat!}

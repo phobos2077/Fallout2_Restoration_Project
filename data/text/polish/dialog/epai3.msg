@@ -1,35 +1,35 @@
-{100}{}{Widzisz pracuj¹cy komputer.}
-{101}{}{Widzisz tajny Naukowo Badawczy Superkomputer AOŒ.}
-{102}{}{Witaj w Naukowo Badawczym Superkomputerze AOŒ. B³¹d przy inicjalizacji szybkiego dostêpu. Proszê szukaæ konkretnych informacji.}
-{103}{}{Szukaj czegoœ co wygl¹da na wa¿ne.}
+{100}{}{Widzisz pracujÄ…cy komputer.}
+{101}{}{Widzisz tajny Naukowo Badawczy Superkomputer AOÅš.}
+{102}{}{Witaj w Naukowo Badawczym Superkomputerze AOÅš. BÅ‚Ä…d przy inicjalizacji szybkiego dostÄ™pu. ProszÄ™ szukaÄ‡ konkretnych informacji.}
+{103}{}{Szukaj czegoÅ› co wyglÄ…da na waÅ¼ne.}
 {104}{}{Wyloguj.}
-{105}{}{Po pó³ godziny przegl¹dania plików udaje ci siê znaleŸæ cztery, które mog¹ ci siê przydaæ. Proszê dokonaæ wyboru.}
-{106}{}{Otwórz plik: Historia FEV.}
-{107}{}{Otwórz plik: Lekarstwo na epilepsjê.}
+{105}{}{Po pÃ³Å‚ godziny przeglÄ…dania plikÃ³w udaje ci siÄ™ znaleÅºÄ‡ cztery, ktÃ³re mogÄ… ci siÄ™ przydaÄ‡. ProszÄ™ dokonaÄ‡ wyboru.}
+{106}{}{OtwÃ³rz plik: Historia FEV.}
+{107}{}{OtwÃ³rz plik: Lekarstwo na epilepsjÄ™.}
 {108}{}{Szukaj dalej.}
-{109}{}{Proszê dokonaæ wyboru.}
-{110}{}{Narastaj¹ce napiêcia miêdzy Stanami Zjednoczonymi, a Chinami, rozbudzi³y obawy frontowych umys³ów wœród naszych wojskowych oficjeli przed u¿yciem przez Chiny broni biologicznej na amerykañskich ¿o³nierzach. Rezultatem tego by³o zlecenie, West Techowi, g³ównemu kontraktowemu wytwórcy zaawansowanych rozwi¹zañ obronnych, przygotowania odpowiedzi na to zagro¿enie. Wkrótce, West Tech rozpocz¹³ prace nad Projektem Zwiêkszania Odpornoœci Wirusowej (ZOW), z zamiarem poprawienia odpornoœci ¿o³nierzy poprzez modyfikacje ich DNA. Podczas testów ZOW w 2076, wyst¹pi³y nieprzewidziane efekty uboczne u badanych osobników. Zwierzêta, na których prowadzono eksperymenty zaczê³y rosn¹æ w zastraszaj¹cym tempie, zwiêkszy³a siê te¿ ich aktywnoœæ mózgowa.}
+{109}{}{ProszÄ™ dokonaÄ‡ wyboru.}
+{110}{}{NarastajÄ…ce napiÄ™cia miÄ™dzy Stanami Zjednoczonymi, a Chinami, rozbudziÅ‚y obawy frontowych umysÅ‚Ã³w wÅ›rÃ³d naszych wojskowych oficjeli przed uÅ¼yciem przez Chiny broni biologicznej na amerykaÅ„skich Å¼oÅ‚nierzach. Rezultatem tego byÅ‚o zlecenie, West Techowi, gÅ‚Ã³wnemu kontraktowemu wytwÃ³rcy zaawansowanych rozwiÄ…zaÅ„ obronnych, przygotowania odpowiedzi na to zagroÅ¼enie. WkrÃ³tce, West Tech rozpoczÄ…Å‚ prace nad Projektem ZwiÄ™kszania OdpornoÅ›ci Wirusowej (ZOW), z zamiarem poprawienia odpornoÅ›ci Å¼oÅ‚nierzy poprzez modyfikacje ich DNA. Podczas testÃ³w ZOW w 2076, wystÄ…piÅ‚y nieprzewidziane efekty uboczne u badanych osobnikÃ³w. ZwierzÄ™ta, na ktÃ³rych prowadzono eksperymenty zaczÄ™Å‚y rosnÄ…Ä‡ w zastraszajÄ…cym tempie, zwiÄ™kszyÅ‚a siÄ™ teÅ¼ ich aktywnoÅ›Ä‡ mÃ³zgowa.}
 {111}{}{[KONTYNUUJ]}
-{112}{}{Dostrzegaj¹c w tym potencja³, armia przejê³a projekt i przemianowa³a go na FEV-Wirus Wymuszonej Ewolucji. Oprócz zwiêkszenia samej odpornoœci, FEV równie¿ znacznie podnosi si³ê i inteligencjê czyni¹c z ¿o³nierzy "supermanów". Kiedy testy na zwierzêtach doprowadzi³y do sensownych wniosków, badania nad FEV zosta³y przeniesione do obecnego miejsca ich prowadzenia, Bazy Wojskowej Mariposa. Tam, jak siê dowiedzieliœmy, testy przesz³y na kolejny poziom, kiedy rozpoczêto tajne badania na wojskowych wiêŸniach. Z niecierpliwoœci¹ oczekujemy wyników tych ekscytuj¹cych eksperymentów.}
-{113}{}{Wróæ.}
-{120}{}{Jeden z naszych naukowców, dr Hodkin, podczas badañ reakcji ludzkiego mózgu na komunikacjê werbaln¹ dokona³ wspania³ego odkrycia. Okazuje siê, ¿e powtarzaj¹c w odpowiedniej kolejnoœci i z okreœlon¹ intonacj¹ pewne litery, mo¿na u s³uchaj¹cego wyleczyæ schorzenia neurologiczne takie jak autyzm i epilepsja. Do tego raportu do³¹czony jest dok³adny zapis ci¹gu liter (wraz z opisem intonacji) u¿ytych przez dr Hodkina w jego eksperymentach. To cudowna nowina i wspania³y pocz¹tek dalszych badañ nad leczeniem zaburzeñ neurologicznych.}
-{121}{}{Hmm, to mo¿e siê przydaæ. Zanotuj ci¹g i szukaj dalej.}
-{130}{}{Nie znajdujesz ju¿ nic interesuj¹cego.}
+{112}{}{DostrzegajÄ…c w tym potencjaÅ‚, armia przejÄ™Å‚a projekt i przemianowaÅ‚a go na FEV-Wirus Wymuszonej Ewolucji. OprÃ³cz zwiÄ™kszenia samej odpornoÅ›ci, FEV rÃ³wnieÅ¼ znacznie podnosi siÅ‚Ä™ i inteligencjÄ™ czyniÄ…c z Å¼oÅ‚nierzy "supermanÃ³w". Kiedy testy na zwierzÄ™tach doprowadziÅ‚y do sensownych wnioskÃ³w, badania nad FEV zostaÅ‚y przeniesione do obecnego miejsca ich prowadzenia, Bazy Wojskowej Mariposa. Tam, jak siÄ™ dowiedzieliÅ›my, testy przeszÅ‚y na kolejny poziom, kiedy rozpoczÄ™to tajne badania na wojskowych wiÄ™Åºniach. Z niecierpliwoÅ›ciÄ… oczekujemy wynikÃ³w tych ekscytujÄ…cych eksperymentÃ³w.}
+{113}{}{WrÃ³Ä‡.}
+{120}{}{Jeden z naszych naukowcÃ³w, dr Hodkin, podczas badaÅ„ reakcji ludzkiego mÃ³zgu na komunikacjÄ™ werbalnÄ… dokonaÅ‚ wspaniaÅ‚ego odkrycia. Okazuje siÄ™, Å¼e powtarzajÄ…c w odpowiedniej kolejnoÅ›ci i z okreÅ›lonÄ… intonacjÄ… pewne litery, moÅ¼na u sÅ‚uchajÄ…cego wyleczyÄ‡ schorzenia neurologiczne takie jak autyzm i epilepsja. Do tego raportu doÅ‚Ä…czony jest dokÅ‚adny zapis ciÄ…gu liter (wraz z opisem intonacji) uÅ¼ytych przez dr Hodkina w jego eksperymentach. To cudowna nowina i wspaniaÅ‚y poczÄ…tek dalszych badaÅ„ nad leczeniem zaburzeÅ„ neurologicznych.}
+{121}{}{Hmm, to moÅ¼e siÄ™ przydaÄ‡. Zanotuj ciÄ…g i szukaj dalej.}
+{130}{}{Nie znajdujesz juÅ¼ nic interesujÄ…cego.}
 {131}{}{Nadal nic nie znajdujesz.}
-{132}{}{Mo¿e, je¿eli jeszcze trochê poszukasz, to coœ znajdziesz?}
-{133}{}{Mo¿e jeszcze raz wszystko przeszukasz?}
-{134}{}{Po bardzo d³ugim i mêcz¹cym szukaniu, znajdujesz ukryty plik.}
-{135}{}{Otwórz plik: Projekt Masowej Fluoryzacji.}
-{136}{}{Kontynuuj¹c starania, aby uczyniæ obywateli Stanów Zjednoczonych ³atwiejszymi do kontrolowania, dodano roztworu fluoru do wszelkich dostêpnych Ÿróde³ wody pitnej; odnios³o to natychmiastowy skutek. Testy efektów d³ugoterminowych potwierdzi³y spadek inteligencji i zwiêkszenie uleg³oœci u wszystkich badanych obiektów. Dodatkowo, zaobserwowano trwa³e uszkodzenie pewnych partii mózgu, utrudniaj¹c osobie bêd¹cej po wp³ywem roztworu obronê swojej wolnoœci i powoduj¹c tym wiêksz¹ uleg³oœæ wobec w³adz.}
+{132}{}{MoÅ¼e, jeÅ¼eli jeszcze trochÄ™ poszukasz, to coÅ› znajdziesz?}
+{133}{}{MoÅ¼e jeszcze raz wszystko przeszukasz?}
+{134}{}{Po bardzo dÅ‚ugim i mÄ™czÄ…cym szukaniu, znajdujesz ukryty plik.}
+{135}{}{OtwÃ³rz plik: Projekt Masowej Fluoryzacji.}
+{136}{}{KontynuujÄ…c starania, aby uczyniÄ‡ obywateli StanÃ³w Zjednoczonych Å‚atwiejszymi do kontrolowania, dodano roztworu fluoru do wszelkich dostÄ™pnych ÅºrÃ³deÅ‚ wody pitnej; odniosÅ‚o to natychmiastowy skutek. Testy efektÃ³w dÅ‚ugoterminowych potwierdziÅ‚y spadek inteligencji i zwiÄ™kszenie ulegÅ‚oÅ›ci u wszystkich badanych obiektÃ³w. Dodatkowo, zaobserwowano trwaÅ‚e uszkodzenie pewnych partii mÃ³zgu, utrudniajÄ…c osobie bÄ™dÄ…cej po wpÅ‚ywem roztworu obronÄ™ swojej wolnoÅ›ci i powodujÄ…c tym wiÄ™kszÄ… ulegÅ‚oÅ›Ä‡ wobec wÅ‚adz.}
 {137}{}{[KONTYNUUJ]}
-{138}{}{Jako obiekt do naszych najnowszych badañ, wybraliœmy Genera³a J. Rippera. Na pocz¹tku wydawa³ siê nieœwiadomy celu badania, ale póŸniej zacz¹³ coœ podejrzewaæ. Mia³ obsesjê na punkcie frazy "cenne dla organizmu p³yny" i zacz¹³ unikaæ picia napojów nieznanego pochodzenia. Zaprzesta³ nawet kontaktów seksualnych obawiaj¹c siê, ¿e kobiety szukaj¹ "esencji ¿ycia".}
-{139}{}{Wróæ.}
-{150}{}{Otwórz plik: Zmiana P³ci.}
-{151}{}{Otwórz plik: Zawirusowane Muszki Owocówki.}
-{160}{}{Doktor Glen Wood og³osi³, ¿e dokona³ ogromnego prze³omu w dziedzinie zmiany p³ci, jak twierdzi ma to zrewolucjonizowaæ metody wywiadowcze naszego kraju. Prosta procedura ma zmieniaæ mê¿czyznê w kobietê i odwrotnie. Doktor Wood nalega, aby byæ pierwszym który przejdzie t¹ radykalna zmianê. Prosi by po operacji zwracaæ siê do niego, lub niej, dr Glenda.}
-{170}{}{Zmutowane muszki owocówki z powodzeniem przenosz¹ teraz wirus. Zanim jednak, zrzucimy je na teren innych krajów, muszki owocówki zostan¹ najpierw przetestowane na ma³ej odizolowanej Amerykañskiej spo³ecznoœci, gdzie bêdziemy mogli obserwowaæ efekty w œrodowisku nie laboratoryjnym.  Nieuniknione straty wœród ludnoœci cywilnej s¹ oczywiœcie przykre, ale ofiary s¹ niezbêdne. Poza tym, to honor dla ka¿dego prawdziwego Amerykanina, poœwiêciæ ¿ycie dla dobra naszego wspania³ego narodu.}
-{200}{}{Poznajesz prawdziwy powód fluoryzacji wody.}
+{138}{}{Jako obiekt do naszych najnowszych badaÅ„, wybraliÅ›my GeneraÅ‚a J. Rippera. Na poczÄ…tku wydawaÅ‚ siÄ™ nieÅ›wiadomy celu badania, ale pÃ³Åºniej zaczÄ…Å‚ coÅ› podejrzewaÄ‡. MiaÅ‚ obsesjÄ™ na punkcie frazy "cenne dla organizmu pÅ‚yny" i zaczÄ…Å‚ unikaÄ‡ picia napojÃ³w nieznanego pochodzenia. ZaprzestaÅ‚ nawet kontaktÃ³w seksualnych obawiajÄ…c siÄ™, Å¼e kobiety szukajÄ… "esencji Å¼ycia".}
+{139}{}{WrÃ³Ä‡.}
+{150}{}{OtwÃ³rz plik: Zmiana PÅ‚ci.}
+{151}{}{OtwÃ³rz plik: Zawirusowane Muszki OwocÃ³wki.}
+{160}{}{Doktor Glen Wood ogÅ‚osiÅ‚, Å¼e dokonaÅ‚ ogromnego przeÅ‚omu w dziedzinie zmiany pÅ‚ci, jak twierdzi ma to zrewolucjonizowaÄ‡ metody wywiadowcze naszego kraju. Prosta procedura ma zmieniaÄ‡ mÄ™Å¼czyznÄ™ w kobietÄ™ i odwrotnie. Doktor Wood nalega, aby byÄ‡ pierwszym ktÃ³ry przejdzie tÄ… radykalna zmianÄ™. Prosi by po operacji zwracaÄ‡ siÄ™ do niego, lub niej, dr Glenda.}
+{170}{}{Zmutowane muszki owocÃ³wki z powodzeniem przenoszÄ… teraz wirus. Zanim jednak, zrzucimy je na teren innych krajÃ³w, muszki owocÃ³wki zostanÄ… najpierw przetestowane na maÅ‚ej odizolowanej AmerykaÅ„skiej spoÅ‚ecznoÅ›ci, gdzie bÄ™dziemy mogli obserwowaÄ‡ efekty w Å›rodowisku nie laboratoryjnym.  Nieuniknione straty wÅ›rÃ³d ludnoÅ›ci cywilnej sÄ… oczywiÅ›cie przykre, ale ofiary sÄ… niezbÄ™dne. Poza tym, to honor dla kaÅ¼dego prawdziwego Amerykanina, poÅ›wiÄ™ciÄ‡ Å¼ycie dla dobra naszego wspaniaÅ‚ego narodu.}
+{200}{}{Poznajesz prawdziwy powÃ³d fluoryzacji wody.}
 {311}{}{Buczenie....}
 {312}{}{Biip!!}
-{313}{}{£omot...}
-{1311}{}{Nie poddawaj siê. Na pewno coœ znajdziesz.}
+{313}{}{Åomot...}
+{1311}{}{Nie poddawaj siÄ™. Na pewno coÅ› znajdziesz.}

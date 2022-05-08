@@ -1,1 +1,1 @@
-{100}{}{Caraca, isso é uma falta de material!}
+{100}{}{Caraca, isso Ã© uma falta de material!}

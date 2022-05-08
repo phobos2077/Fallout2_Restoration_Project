@@ -1,13 +1,13 @@
-{100}{}{Jeœæ!}
-{101}{}{Daj nam jeœæ!}
-{102}{}{Jesteœmy g³odni!}
-{103}{}{Rzuæ grosik tym, którym siê tak dobrze nie powodzi.}
-{104}{}{Pomó¿ nam!}
-{105}{}{Jeœæ!}
-{106}{}{Jestem taki g³odny.}
-{107}{}{Moje dzieci g³oduj¹.}
+{100}{}{JeÅ›Ä‡!}
+{101}{}{Daj nam jeÅ›Ä‡!}
+{102}{}{JesteÅ›my gÅ‚odni!}
+{103}{}{RzuÄ‡ grosik tym, ktÃ³rym siÄ™ tak dobrze nie powodzi.}
+{104}{}{PomÃ³Å¼ nam!}
+{105}{}{JeÅ›Ä‡!}
+{106}{}{Jestem taki gÅ‚odny.}
+{107}{}{Moje dzieci gÅ‚odujÄ….}
 {108}{}{Nikt o nas nie dba.}
 {109}{}{Nie zabijaj mnie!}
-{110}{}{Chcê tylko coœ do jedzenia.}
+{110}{}{ChcÄ™ tylko coÅ› do jedzenia.}
 {111}{}{Wybacz mi.}
-{112}{}{Nêdzarz bierze przedmiot.}
+{112}{}{NÄ™dzarz bierze przedmiot.}

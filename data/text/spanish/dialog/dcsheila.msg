@@ -1,76 +1,76 @@
 {100}{}{Ves a una prostituta.}
 {150}{}{Una prostituta corriente y moliente.}
 {152}{}{[HABLAR]}
-{153}{}{Eh, ¡no lo hago con chicas!}
+{153}{}{Eh, Â¡no lo hago con chicas!}
 {154}{}{Lo que sea.}
 {155}{}{Lo siento.}
-{156}{}{¿Mamá?}
-{157}{}{Eh, te costará más si traes audiencia contigo.}
+{156}{}{Â¿MamÃ¡?}
+{157}{}{Eh, te costarÃ¡ mÃ¡s si traes audiencia contigo.}
 {158}{}{Eh, ellos vienen donde voy yo.}
-{159}{}{Quiero que estén conmigo.}
-{160}{}{Volveré.}
-{161}{}{¿Mamá?}
-{162}{}{Oh, chico. ¿Dónde has estado toda mi vida?}
-{163}{}{Justo aquí, nena.}
-{164}{}{¿Cuanto, hermana??}
-{165}{}{Um, tengo que irme. Adiós.}
-{166}{}{¡Yeehhee!}
+{159}{}{Quiero que estÃ©n conmigo.}
+{160}{}{VolverÃ©.}
+{161}{}{Â¿MamÃ¡?}
+{162}{}{Oh, chico. Â¿DÃ³nde has estado toda mi vida?}
+{163}{}{Justo aquÃ­, nena.}
+{164}{}{Â¿Cuanto, hermana??}
+{165}{}{Um, tengo que irme. AdiÃ³s.}
+{166}{}{Â¡Yeehhee!}
 {167}{}{Mmmm, me gustan grandes y tontitos.}
-{168}{}{¡Ese soy yo!}
-{169}{}{¡Fuki Fuki!}
-{170}{}{Oh. No. Adiós.}
-{171}{}{¡Qué chico más grande eres!}
+{168}{}{Â¡Ese soy yo!}
+{169}{}{Â¡Fuki Fuki!}
+{170}{}{Oh. No. AdiÃ³s.}
+{171}{}{Â¡QuÃ© chico mÃ¡s grande eres!}
 {172}{}{Como a ti te gustan.}
-{173}{}{Sí, señora.}
+{173}{}{SÃ­, seÃ±ora.}
 {174}{}{Tengo que irme.}
-{176}{}{¡SI!}
-{177}{}{No. Adiós.}
-{178}{}{Volverás.}
+{176}{}{Â¡SI!}
+{177}{}{No. AdiÃ³s.}
+{178}{}{VolverÃ¡s.}
 {179}{}{Ya veremos.}
 {180}{}{Um, no.}
 {181}{}{[babeas]}
-{182}{}{No tienes suficiente dinero. Piérdete, cariño.}
-{183}{}{Volveré.}
+{182}{}{No tienes suficiente dinero. PiÃ©rdete, cariÃ±o.}
+{183}{}{VolverÃ©.}
 {184}{}{No lo vales, guapa.}
-{185}{}{¡Wah!}
-{186}{}{¡Eres increíble!}
+{185}{}{Â¡Wah!}
+{186}{}{Â¡Eres increÃ­ble!}
 {187}{}{Siempre lo soy, nena.}
 {188}{}{Lo que sea.}
-{189}{}{Tú también lo eres.}
-{190}{}{¡In-e-ible Yooooooo!}
-{191}{}{¡Ha sido genial!}
-{192}{}{Gracias. Tú también has estado genial.}
+{189}{}{TÃº tambiÃ©n lo eres.}
+{190}{}{Â¡In-e-ible Yooooooo!}
+{191}{}{Â¡Ha sido genial!}
+{192}{}{Gracias. TÃº tambiÃ©n has estado genial.}
 {193}{}{Hmm.}
-{194}{}{Sí.}
-{195}{}{¡Genial!}
-{196}{}{Vale, ya está. Adiós.}
-{197}{}{¿Es eso?}
-{198}{}{Vale. Adiós.}
+{194}{}{SÃ­.}
+{195}{}{Â¡Genial!}
+{196}{}{Vale, ya estÃ¡. AdiÃ³s.}
+{197}{}{Â¿Es eso?}
+{198}{}{Vale. AdiÃ³s.}
 {199}{}{Ha estado bien.}
-{200}{}{Adiós.}
+{200}{}{AdiÃ³s.}
 {201}{}{No me pagan lo suficiente para esto.}
 {202}{}{De todas formas no es que valgas el dinero que cuestas.}
-{203}{}{Tú te lo pierdes.}
-{204}{}{Adiós.}
-{205}{}{¿No fuki fuki?}
+{203}{}{TÃº te lo pierdes.}
+{204}{}{AdiÃ³s.}
+{205}{}{Â¿No fuki fuki?}
 {206}{}{Vuelve cuando quieras.}
-{207}{}{Vale. Adiós.}
-{208}{}{Sí, claro.}
-{209}{}{¡Whoo!}
+{207}{}{Vale. AdiÃ³s.}
+{208}{}{SÃ­, claro.}
+{209}{}{Â¡Whoo!}
 {210}{}{Nos vemos.}
-{211}{}{Adiós.}
-{212}{}{Adiós.}
-{213}{}{Te costará }
-{214}{}{dólares por una sesión. Primero paga.}
-{215}{}{Sígueme.}
+{211}{}{AdiÃ³s.}
+{212}{}{AdiÃ³s.}
+{213}{}{Te costarÃ¡ }
+{214}{}{dÃ³lares por una sesiÃ³n. Primero paga.}
+{215}{}{SÃ­gueme.}
 {216}{}{Estoy esperando.}
-{217}{}{No voy a quedarme parada en esta habitación todo el día.}
-{218}{}{¿Podrías darte prisa?}
-{219}{}{Última oportunidad.}
-{220}{}{Bien; no pienso esperar más.}
+{217}{}{No voy a quedarme parada en esta habitaciÃ³n todo el dÃ­a.}
+{218}{}{Â¿PodrÃ­as darte prisa?}
+{219}{}{Ãšltima oportunidad.}
+{220}{}{Bien; no pienso esperar mÃ¡s.}
 {221}{}{Vamos, vamos.}
-{222}{}{¿Llevas una pistola en el bolsillo o es que te alegras de verme?}
-{223}{}{Sígueme.}
-{224}{}{Eh, amigo, las manos fuera de la mercancía.}
-{225}{}{¡Para ya! No soy ningún juguete.}
-{230}{}{¿Qué...? ¿Era tu primera vez?}
+{222}{}{Â¿Llevas una pistola en el bolsillo o es que te alegras de verme?}
+{223}{}{SÃ­gueme.}
+{224}{}{Eh, amigo, las manos fuera de la mercancÃ­a.}
+{225}{}{Â¡Para ya! No soy ningÃºn juguete.}
+{230}{}{Â¿QuÃ©...? Â¿Era tu primera vez?}

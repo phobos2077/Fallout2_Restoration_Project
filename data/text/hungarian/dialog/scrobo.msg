@@ -1,48 +1,48 @@
-{100}{}{Egy furcsa, félig kutya, félig fém dolgot látsz. Úgy látszik, be van kapcsolva.}
+{100}{}{Egy furcsa, fÃ©lig kutya, fÃ©lig fÃ©m dolgot lÃ¡tsz. Ãšgy lÃ¡tszik, be van kapcsolva.}
 {101}{}{Ez itt egy Roboeb! Mindenki kedvence!}
-{102}{}{Ez a valami vagy egy szörny?séges módon összetákolt kutya-gép kombináció vagy teljes mértékben gép és csak küls?re néz ki kutyának. Nehéz megmondani.}
-{103}{}{Arf! <katt> Vaúú!}
+{102}{}{Ez a valami vagy egy szÃ¶rny?sÃ©ges mÃ³don Ã¶sszetÃ¡kolt kutya-gÃ©p kombinÃ¡ciÃ³ vagy teljes mÃ©rtÃ©kben gÃ©p Ã©s csak kÃ¼ls?re nÃ©z ki kutyÃ¡nak. NehÃ©z megmondani.}
+{103}{}{Arf! <katt> VaÃºÃº!}
 {104}{}{...bzzzzzz...}
 {105}{}{.whirrrrr... Nem vagyok kutyuli.}
 {106}{}{Grrrrrrrrrrrrrrrr--}
-{107}{}{Vau! Va-va-va-<katt>vaúú.}
+{107}{}{Vau! Va-va-va-<katt>vaÃºÃº.}
 {108}{}{<sprzzzt> Meow... error.}
 {109}{}{UgatUgatUgatUgatUgatUgatUgat!}
 {110}{}{Grrr...}
-{111}{}{Háúúúúúú! <kitt-katt> Háúúúú!}
+{111}{}{HÃ¡ÃºÃºÃºÃºÃºÃº! <kitt-katt> HÃ¡ÃºÃºÃºÃº!}
 {112}{}{Yipe! Yipe! Yipe!}
-{113}{}{Veszély! Veszély!}
+{113}{}{VeszÃ©ly! VeszÃ©ly!}
 {114}{}{Rowf! <tick-tick-tick> Rowf!}
-{115}{}{<whirrr> Nem madár, nem repül?, nem is béka, csak én magam - Roboeb!<katt>}
+{115}{}{<whirrr> Nem madÃ¡r, nem repÃ¼l?, nem is bÃ©ka, csak Ã©n magam - Roboeb!<katt>}
 {116}{}{Rooby-Doo!}
 {117}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
-{118}{}{Vaúú!}
+{118}{}{VaÃºÃº!}
 {119}{}{GRRR-ROWF!}
 {120}{}{Arf-arf-arf-arf-arf-arf-arf!}
-{121}{}{Oké}
-{122}{}{Nincs kedvem újra csatlakozni hozzád. Viszlát!}
+{121}{}{OkÃ©}
+{122}{}{Nincs kedvem Ãºjra csatlakozni hozzÃ¡d. ViszlÃ¡t!}
 {123}{}{Rowf? <bang> Raggy?}
 {124}{}{Hogy vagy?}
-{125}{}{Kérlek, várj itt, amíg vissza nem jövök!}
-{126}{}{Mára ennyi.}
+{125}{}{KÃ©rlek, vÃ¡rj itt, amÃ­g vissza nem jÃ¶vÃ¶k!}
+{126}{}{MÃ¡ra ennyi.}
 {127}{}{<katt> nyaff}
-{128}{}{Értem.}
-{129}{}{Oké}
+{128}{}{Ã‰rtem.}
+{129}{}{OkÃ©}
 {130}{}{HP:}
-{131}{}{A kiberebet most nem lehet tovább javítani.}
+{131}{}{A kiberebet most nem lehet tovÃ¡bb javÃ­tani.}
 {132}{}{A kibereb egy kicsit jobban van.}
-{133}{}{A kibereb most már teljesen ép.}
-{1000}{}{Vau! Va-va-va-<katt>vaúú?}
-{1100}{}{Arf! <katt> Vaúú!}
+{133}{}{A kibereb most mÃ¡r teljesen Ã©p.}
+{1000}{}{Vau! Va-va-va-<katt>vaÃºÃº?}
+{1100}{}{Arf! <katt> VaÃºÃº!}
 {1200}{}{Rowf? <bang> Raggy?}
 {1300}{}{<katt> nyaff.}
-{1400}{}{Háúúúúúú! <kitt-katt> Háúúúú!}
+{1400}{}{HÃ¡ÃºÃºÃºÃºÃºÃº! <kitt-katt> HÃ¡ÃºÃºÃºÃº!}
 {1500}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
 {1600}{}{Persze, elteszem.}
-{1700}{}{Arf-arf távolág: közel.}
-{1800}{}{Arf-arf távolág: közepes.}
-{1900}{}{Arf-arf távolág: messze.}
+{1700}{}{Arf-arf tÃ¡volÃ¡g: kÃ¶zel.}
+{1800}{}{Arf-arf tÃ¡volÃ¡g: kÃ¶zepes.}
+{1900}{}{Arf-arf tÃ¡volÃ¡g: messze.}
 {2000}{}{.whirrrrr... Nem vagyok kutyuli.}
 {2100}{}{GRRR-ROWF!}
-{2200}{}{Vau! Va-va-va-<katt>vaúú?}
+{2200}{}{Vau! Va-va-va-<katt>vaÃºÃº?}
 {2204}{}{Ok, you're at a good distance for now.}

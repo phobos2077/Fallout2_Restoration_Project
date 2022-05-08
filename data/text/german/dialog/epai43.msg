@@ -1,2 +1,2 @@
-{200}{}{Der Spind will sich nicht öffnen. Ein Code wird benötigt.}
-{201}{}{Du gibst den Code ein, und die Tür schwingt auf.}
+{200}{}{Der Spind will sich nicht Ã¶ffnen. Ein Code wird benÃ¶tigt.}
+{201}{}{Du gibst den Code ein, und die TÃ¼r schwingt auf.}

@@ -1,89 +1,89 @@
-{200}{}{Híd}
+{200}{}{HÃ­d}
 {201}{}{Falu}
-{202}{}{Templom bejárata}
+{202}{}{Templom bejÃ¡rata}
 {203}{}{Vadon}
 {204}{}{Templom}
 {210}{}{Nyugati oldal}
 {211}{}{Keleti oldal}
 {212}{}{Lakonegyed}
-{220}{}{Belváros}
+{220}{}{BelvÃ¡ros}
 {221}{}{Premvadasz Varos}
-{222}{}{Patkánybarlang}
-{223}{}{Vadászmez?}
+{222}{}{PatkÃ¡nybarlang}
+{223}{}{VadÃ¡szmez?}
 {224}{}{Legel?}
 {225}{}{Kanyon}
 {230}{}{F? utca}
-{231}{}{Panzió}
+{231}{}{PanziÃ³}
 {232}{}{Grisham brahmin legeloje}
 {233}{}{Farrel kertje}
 {234}{}{Pocegodor}
-{235}{}{Városi kút}
-{240}{}{El?város}
+{235}{}{VÃ¡rosi kÃºt}
+{240}{}{El?vÃ¡ros}
 {241}{}{Belvaros}
 {242}{}{Varoshaza}
-{243}{}{Menedék}
-{250}{}{Település}
+{243}{}{MenedÃ©k}
+{250}{}{TelepÃ¼lÃ©s}
 {251}{}{Er?m?}
 {252}{}{Roncstelep}
-{253}{}{Alagút}
-{260}{}{Belváros}
-{261}{}{Lakónegyed}
+{253}{}{AlagÃºt}
+{260}{}{BelvÃ¡ros}
+{261}{}{LakÃ³negyed}
 {270}{}{Sz?z utca}
 {271}{}{2. utca}
 {272}{}{Kereskedelmi negyed}
 {273}{}{Keleti oldal}
-{274}{}{Rontó-Bontó}
-{275}{}{Boksz aréna}
-{276}{}{Gépmadár}
+{274}{}{RontÃ³-BontÃ³}
+{275}{}{Boksz arÃ©na}
+{276}{}{GÃ©pmadÃ¡r}
 {280}{}{Harcmez?}
 {281}{}{1. szint: Szemelyzet}
 {282}{}{2. szint: Raktar}
 {283}{}{3. szint: Robottechnikai labor}
 {284}{}{4. szint: Biologiai kutato labor}
 {290}{}{A Birtok}
-{291}{}{Földfoglalók}
-{292}{}{Földfoglalók}
-{293}{}{a 15-ös Menedék}
-{294}{}{Keleti bejárat}
-{300}{}{Bazár}
+{291}{}{FÃ¶ldfoglalÃ³k}
+{292}{}{FÃ¶ldfoglalÃ³k}
+{293}{}{a 15-Ã¶s MenedÃ©k}
+{294}{}{Keleti bejÃ¡rat}
+{300}{}{BazÃ¡r}
 {301}{}{Tanacs}
-{302}{}{Belváros}
-{303}{}{Városháza}
+{302}{}{BelvÃ¡ros}
+{303}{}{VÃ¡roshÃ¡za}
 {304}{}{Westin farm}
 {305}{}{Legel?}
-{310}{}{Barlangbejárat}
+{310}{}{BarlangbejÃ¡rat}
 {311}{}{13-as Menedek}
-{320}{}{Bejárat}
+{320}{}{BejÃ¡rat}
 {321}{}{1. szint}
 {322}{}{2. szint}
 {323}{}{3. szint}
 {324}{}{4. szint}
-{330}{}{Belváros}
+{330}{}{BelvÃ¡ros}
 {331}{}{Nagy Wanamingo Banya}
-{332}{}{Wanamingo bánya}
+{332}{}{Wanamingo bÃ¡nya}
 {333}{}{Banyasztabor}
 {334}{}{Belvarosi alagutak}
 {335}{}{Banya alagutak}
-{340}{}{Kínai negyed}
+{340}{}{KÃ­nai negyed}
 {341}{}{Dokk}
 {342}{}{Tanker}
 {343}{}{Ursiklo kultere}
-{344}{}{?rhajó belseje}
+{344}{}{?rhajÃ³ belseje}
 {345}{}{Hubologistak}
 {346}{}{Shi templom}
-{350}{}{Benzinkút}
+{350}{}{BenzinkÃºt}
 {351}{}{Bejarat}
 {360}{}{Dokk}
 {361}{}{Borton kozpont}
-{362}{}{Foellenség}
+{362}{}{FoellensÃ©g}
 {363}{}{Barakk}
-{364}{}{Elnöki szint}
+{364}{}{ElnÃ¶ki szint}
 {365}{}{Reaktor}
 {366}{}{Csapda-terem}
-{370}{}{Bejárat}
+{370}{}{BejÃ¡rat}
 {380}{}{Woodland}
 {381}{}{Tribe}
-{390}{}{Bejárat}
+{390}{}{BejÃ¡rat}
 {391}{}{Ducts}
 {392}{}{Utilities}
 {393}{}{Level One}
@@ -92,12 +92,12 @@
 {396}{}{Warehouse}
 {400}{}{Kisertet farm}
 {401}{}{Fobarlang}
-{402}{}{Földalatti tó}
+{402}{}{FÃ¶ldalatti tÃ³}
 {410}{}{Kifogyott az uzemanyag}
-{420}{}{Lerombolt híd}
+{420}{}{Lerombolt hÃ­d}
 {430}{}{Toxikus barlang}
 {440}{}{Rejtek rabszolga-hajtas}
-{450}{}{Kút}
+{450}{}{KÃºt}
 {451}{}{Szirt}
 {452}{}{Barlang bejarat}
 {460}{}{Sivatag}
@@ -120,14 +120,14 @@
 {477}{}{Barlang}
 {478}{}{Hegy}
 {479}{}{Hegy}
-{480}{}{Romos város}
-{481}{}{Romos város}
-{482}{}{Romos város}
-{483}{}{Romos város}
-{484}{}{Romos város}
-{485}{}{Romos város}
-{486}{}{Romos város}
-{487}{}{Romos város}
+{480}{}{Romos vÃ¡ros}
+{481}{}{Romos vÃ¡ros}
+{482}{}{Romos vÃ¡ros}
+{483}{}{Romos vÃ¡ros}
+{484}{}{Romos vÃ¡ros}
+{485}{}{Romos vÃ¡ros}
+{486}{}{Romos vÃ¡ros}
+{487}{}{Romos vÃ¡ros}
 {490}{}{Partvonal}
 {491}{}{Partvonal}
 {492}{}{Partvonal}
@@ -139,12 +139,12 @@
 {498}{}{Partvonal}
 {499}{}{Partvonal}
 {500}{}{Golgota}
-{510}{}{Lezuhant bálna}
+{510}{}{Lezuhant bÃ¡lna}
 {520}{}{Badogember}
 {521}{}{Nagy fej}
-{530}{}{Lezuhant ?rhajó}
+{530}{}{Lezuhant ?rhajÃ³}
 {540}{}{Sivatag}
-{550}{}{Híd}
+{550}{}{HÃ­d}
 {560}{}{Szettort Almok Kavezoja}
 {570}{}{Sivatag}
 {580}{}{Barlang}
@@ -154,7 +154,7 @@
 {620}{}{Brahmin csorda}
 {630}{}{Sivatag}
 {631}{}{Hegy}
-{640}{}{13-as Menedék bejárata}
+{640}{}{13-as MenedÃ©k bejÃ¡rata}
 {650}{}{Barlang}
 {660}{}{Partvonal}
 {661}{}{Partvonal}
@@ -172,1742 +172,1742 @@
 {710}{}{Umbra Tribe}
 {1000}{}{Sivatag}
 {1001}{}{Hegyek}
-{1002}{}{Város}
+{1002}{}{VÃ¡ros}
 {1003}{}{Part}
 {1004}{}{Ismeretlen}
-{1500}{}{10000 tapasztalati pontot kaptál!}
+{1500}{}{10000 tapasztalati pontot kaptÃ¡l!}
 {1501}{}{Romok}
-{1502}{}{Az autó lemerült.}
+{1502}{}{Az autÃ³ lemerÃ¼lt.}
 {1503}{}{This is a car. It doesn't look like it's running.}
-{2998}{}{Mindig jön valami...}
-{2999}{}{Közelebb húzódsz?}
-{3000}{}{Egy csapat fosztogató.}
-{3001}{}{Néhány radskorpió.}
-{3002}{}{Hatalmas patkányok.}
-{3003}{}{Egy keresked? és csoportja.}
+{2998}{}{Mindig jÃ¶n valami...}
+{2999}{}{KÃ¶zelebb hÃºzÃ³dsz?}
+{3000}{}{Egy csapat fosztogatÃ³.}
+{3001}{}{NÃ©hÃ¡ny radskorpiÃ³.}
+{3002}{}{Hatalmas patkÃ¡nyok.}
+{3003}{}{Egy keresked? Ã©s csoportja.}
 {3004}{}{<Special>}
-{3050}{}{Egy csapat fosztogató.}
-{3051}{}{Néhány imádkozó-sáska.}
-{3052}{}{Egy csapat gekkó.}
-{3053}{}{Egy csoport vakondpatkány.}
-{3054}{}{Egy csoport radskorpió.}
-{3055}{}{Egy falka óriáspatkány.}
-{3056}{}{Egy keresked? és csoportja.}
+{3050}{}{Egy csapat fosztogatÃ³.}
+{3051}{}{NÃ©hÃ¡ny imÃ¡dkozÃ³-sÃ¡ska.}
+{3052}{}{Egy csapat gekkÃ³.}
+{3053}{}{Egy csoport vakondpatkÃ¡ny.}
+{3054}{}{Egy csoport radskorpiÃ³.}
+{3055}{}{Egy falka Ã³riÃ¡spatkÃ¡ny.}
+{3056}{}{Egy keresked? Ã©s csoportja.}
 {3057}{}{<Special>}
-{3100}{}{Egy csapat fosztogató.}
-{3101}{}{Egy csoport radskorpió.}
-{3102}{}{Egy falka óriáspatkány.}
-{3103}{}{Egy keresked? és csoportja.}
+{3100}{}{Egy csapat fosztogatÃ³.}
+{3101}{}{Egy csoport radskorpiÃ³.}
+{3102}{}{Egy falka Ã³riÃ¡spatkÃ¡ny.}
+{3103}{}{Egy keresked? Ã©s csoportja.}
 {3104}{}{<Special>}
-{3150}{}{Egy csapat fosztogató.}
-{3200}{}{Egy csapat fosztogató.}
-{3250}{}{Egy csapat fosztogató.}
+{3150}{}{Egy csapat fosztogatÃ³.}
+{3200}{}{Egy csapat fosztogatÃ³.}
+{3250}{}{Egy csapat fosztogatÃ³.}
 {3300}{}{Egy csapat harcos}
-{3301}{}{Egy csapat kannibál.}
-{3302}{}{Néhány húsev? növény és néhány ezüstgekkó.}
-{3303}{}{Egy csoport ezüstgekkó.}
-{3304}{}{Néhány fejvadász.}
-{3305}{}{Néhány fejvadász.}
-{3306}{}{Néhány fejvadász.}
-{3307}{}{Néhány fejvadász.}
-{3308}{}{Néhány fejvadász.}
-{3309}{}{Néhány fejvadász.}
-{3310}{}{Néhány fejvadász.}
-{3311}{}{Néhány fejvadász.}
-{3312}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3313}{}{Egy csoport radskorpió.}
-{3314}{}{Néhány húsev? növény.}
-{3315}{}{Egy falka disznópatkány.}
-{3316}{}{Egy falka patkány.}
-{3317}{}{Egy kannibálokkal csatázó vadászcsapat.}
+{3301}{}{Egy csapat kannibÃ¡l.}
+{3302}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny Ã©s nÃ©hÃ¡ny ezÃ¼stgekkÃ³.}
+{3303}{}{Egy csoport ezÃ¼stgekkÃ³.}
+{3304}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3305}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3306}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3307}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3308}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3309}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3310}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3311}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3312}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3313}{}{Egy csoport radskorpiÃ³.}
+{3314}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny.}
+{3315}{}{Egy falka disznÃ³patkÃ¡ny.}
+{3316}{}{Egy falka patkÃ¡ny.}
+{3317}{}{Egy kannibÃ¡lokkal csatÃ¡zÃ³ vadÃ¡szcsapat.}
 {3318}{}{Egy csapat hangya.}
 {3319}{}{A hunting party fighting some radscorpions.}
-{3320}{}{Egy kis falka disznópatkány.}
-{3321}{}{Egy kis csoport radskorpió.}
+{3320}{}{Egy kis falka disznÃ³patkÃ¡ny.}
+{3321}{}{Egy kis csoport radskorpiÃ³.}
 {3322}{}{Egy kis csapat hangya.}
-{3323}{}{Egy vadászcsapat.}
-{3324}{}{Néhány nomád.}
-{3325}{}{Egy hidat ?rz? fickó.}
-{3326}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{3323}{}{Egy vadÃ¡szcsapat.}
+{3324}{}{NÃ©hÃ¡ny nomÃ¡d.}
+{3325}{}{Egy hidat ?rz? fickÃ³.}
+{3326}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {3327}{}{A band of angry outcasts.}
 {3350}{}{Toxic waste dump.}
-{3351}{}{Egy magányos kutya.}
+{3351}{}{Egy magÃ¡nyos kutya.}
 {3352}{}{Egy brahmincsorda.}
 {3353}{}{Egy csapat harcos}
-{3354}{}{Néhány fejvadász.}
-{3355}{}{Néhány fejvadász.}
-{3356}{}{Néhány fejvadász.}
-{3357}{}{Néhány fejvadász.}
-{3358}{}{Néhány fejvadász.}
-{3359}{}{Néhány fejvadász.}
-{3360}{}{Néhány fejvadász.}
-{3361}{}{Néhány fejvadász.}
-{3362}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3363}{}{Egy csapat kannibál.}
-{3364}{}{Néhány húsev? növény és néhány ezüstgekkó.}
-{3365}{}{Egy csoport ezüstgekkó.}
-{3366}{}{Egy csoport radskorpió.}
-{3367}{}{Néhány húsev? növény.}
-{3368}{}{Egy falka disznópatkány.}
-{3369}{}{Egy falka patkány.}
-{3370}{}{Egy kannibálokkal csatázó vadászcsapat.}
+{3354}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3355}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3356}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3357}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3358}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3359}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3360}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3361}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3362}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3363}{}{Egy csapat kannibÃ¡l.}
+{3364}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny Ã©s nÃ©hÃ¡ny ezÃ¼stgekkÃ³.}
+{3365}{}{Egy csoport ezÃ¼stgekkÃ³.}
+{3366}{}{Egy csoport radskorpiÃ³.}
+{3367}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny.}
+{3368}{}{Egy falka disznÃ³patkÃ¡ny.}
+{3369}{}{Egy falka patkÃ¡ny.}
+{3370}{}{Egy kannibÃ¡lokkal csatÃ¡zÃ³ vadÃ¡szcsapat.}
 {3371}{}{Egy csapat hangya.}
 {3372}{}{A hunting party fighting some radscorpions.}
-{3373}{}{Egy kis falka disznópatkány.}
-{3374}{}{Egy kis csoport radskorpió.}
+{3373}{}{Egy kis falka disznÃ³patkÃ¡ny.}
+{3374}{}{Egy kis csoport radskorpiÃ³.}
 {3375}{}{Egy kis csapat hangya.}
-{3376}{}{Egy vadászcsapat.}
-{3377}{}{Néhány nomád.}
-{3378}{}{Egy bálna maradványai.}
+{3376}{}{Egy vadÃ¡szcsapat.}
+{3377}{}{NÃ©hÃ¡ny nomÃ¡d.}
+{3378}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {3379}{}{Egy hatalmas k?fej.}
-{3380}{}{Egy lezuhant ?rrepül?.}
-{3381}{}{?rz? portál.}
-{3382}{}{Arthur király lovagjai.}
+{3380}{}{Egy lezuhant ?rrepÃ¼l?.}
+{3381}{}{?rz? portÃ¡l.}
+{3382}{}{Arthur kirÃ¡ly lovagjai.}
 {3383}{}{A tin woodsman.}
-{3384}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
+{3384}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
 {3385}{}{A band of angry outcasts.}
 {3400}{}{Egy csapat harcos}
-{3401}{}{Egy csapat kannibál.}
-{3402}{}{Néhány húsev? növény és néhány ezüstgekkó.}
-{3403}{}{Egy csoport ezüstgekkó.}
-{3404}{}{Néhány fejvadász.}
-{3405}{}{Néhány fejvadász.}
-{3406}{}{Néhány fejvadász.}
-{3407}{}{Néhány fejvadász.}
-{3408}{}{Néhány fejvadász.}
-{3409}{}{Néhány fejvadász.}
-{3410}{}{Néhány fejvadász.}
-{3411}{}{Néhány fejvadász.}
-{3412}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3413}{}{Egy csoport radskorpió.}
-{3414}{}{Néhány húsev? növény.}
-{3415}{}{Egy falka disznópatkány.}
-{3416}{}{Egy falka patkány.}
-{3417}{}{Egy kannibálokkal csatázó vadászcsapat.}
+{3401}{}{Egy csapat kannibÃ¡l.}
+{3402}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny Ã©s nÃ©hÃ¡ny ezÃ¼stgekkÃ³.}
+{3403}{}{Egy csoport ezÃ¼stgekkÃ³.}
+{3404}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3405}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3406}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3407}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3408}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3409}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3410}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3411}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3412}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3413}{}{Egy csoport radskorpiÃ³.}
+{3414}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny.}
+{3415}{}{Egy falka disznÃ³patkÃ¡ny.}
+{3416}{}{Egy falka patkÃ¡ny.}
+{3417}{}{Egy kannibÃ¡lokkal csatÃ¡zÃ³ vadÃ¡szcsapat.}
 {3418}{}{Egy csapat hangya.}
 {3419}{}{A hunting party fighting some radscorpions.}
-{3420}{}{Egy kis falka disznópatkány.}
-{3421}{}{Egy kis csoport radskorpió.}
+{3420}{}{Egy kis falka disznÃ³patkÃ¡ny.}
+{3421}{}{Egy kis csoport radskorpiÃ³.}
 {3422}{}{Egy kis csapat hangya.}
-{3423}{}{Egy vadászcsapat.}
-{3424}{}{Néhány nomád.}
+{3423}{}{Egy vadÃ¡szcsapat.}
+{3424}{}{NÃ©hÃ¡ny nomÃ¡d.}
 {3425}{}{A band of angry outcasts.}
 {3450}{}{Toxic waste dump.}
-{3451}{}{Egy magányos kutya.}
+{3451}{}{Egy magÃ¡nyos kutya.}
 {3452}{}{Egy brahmincsorda.}
-{3453}{}{Néhány szám?z?tt.}
-{3454}{}{Néhány fejvadász.}
-{3455}{}{Néhány fejvadász.}
-{3456}{}{Néhány fejvadász.}
-{3457}{}{Néhány fejvadász.}
-{3458}{}{Néhány fejvadász.}
-{3459}{}{Néhány fejvadász.}
-{3460}{}{Néhány fejvadász.}
-{3461}{}{Néhány fejvadász.}
-{3462}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
+{3453}{}{NÃ©hÃ¡ny szÃ¡m?z?tt.}
+{3454}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3455}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3456}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3457}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3458}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3459}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3460}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3461}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3462}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
 {3463}{}{Egy csapat szent ember.}
 {3464}{}{Some geckos hiding amongst spore plants.}
-{3465}{}{Néhány gekkó.}
-{3466}{}{Néhány húsev? növény között rejt?z? radskorpió.}
-{3467}{}{Néhány húsev? növény.}
-{3468}{}{Egy radskorpió család.}
-{3469}{}{Egy csoport vakondpatkány.}
-{3470}{}{Egy csapat harcosok ellen küzd? szent ember.}
+{3465}{}{NÃ©hÃ¡ny gekkÃ³.}
+{3466}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny kÃ¶zÃ¶tt rejt?z? radskorpiÃ³.}
+{3467}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny.}
+{3468}{}{Egy radskorpiÃ³ csalÃ¡d.}
+{3469}{}{Egy csoport vakondpatkÃ¡ny.}
+{3470}{}{Egy csapat harcosok ellen kÃ¼zd? szent ember.}
 {3471}{}{A band of nomads.}
-{3472}{}{Egy bálna maradványai.}
+{3472}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {3473}{}{Egy hatalmas k?fej.}
-{3474}{}{Egy lezuhant ?rrepül?.}
-{3475}{}{?rz? portál.}
-{3476}{}{Arthur király lovagjai.}
+{3474}{}{Egy lezuhant ?rrepÃ¼l?.}
+{3475}{}{?rz? portÃ¡l.}
+{3476}{}{Arthur kirÃ¡ly lovagjai.}
 {3477}{}{A tin woodsman.}
-{3478}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
+{3478}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
 {3479}{}{A band of angry outcasts.}
-{3500}{}{Néhány szám?z?tt.}
+{3500}{}{NÃ©hÃ¡ny szÃ¡m?z?tt.}
 {3501}{}{Egy csapat szent ember.}
-{3502}{}{Néhány fejvadász.}
-{3503}{}{Néhány fejvadász.}
-{3504}{}{Néhány fejvadász.}
-{3505}{}{Néhány fejvadász.}
-{3506}{}{Néhány fejvadász.}
-{3507}{}{Néhány fejvadász.}
-{3508}{}{Néhány fejvadász.}
-{3509}{}{Néhány fejvadász.}
-{3510}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3511}{}{Néhány húsev? növény között rejt?z? ezüstgekkó.}
-{3512}{}{Néhány gekkó.}
-{3513}{}{Néhány húsev? növény között rejt?z? radskorpió.}
-{3514}{}{Néhány húsev? növény.}
-{3515}{}{Egy radskorpió család.}
-{3516}{}{Egy csoport vakondpatkány.}
-{3517}{}{Egy csapat harcosok ellen küzd? szent ember.}
+{3502}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3503}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3504}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3505}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3506}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3507}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3508}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3509}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3510}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3511}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny kÃ¶zÃ¶tt rejt?z? ezÃ¼stgekkÃ³.}
+{3512}{}{NÃ©hÃ¡ny gekkÃ³.}
+{3513}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny kÃ¶zÃ¶tt rejt?z? radskorpiÃ³.}
+{3514}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny.}
+{3515}{}{Egy radskorpiÃ³ csalÃ¡d.}
+{3516}{}{Egy csoport vakondpatkÃ¡ny.}
+{3517}{}{Egy csapat harcosok ellen kÃ¼zd? szent ember.}
 {3518}{}{A band of nomads.}
-{3519}{}{Egy hidat ?rz? fickó.}
-{3520}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{3519}{}{Egy hidat ?rz? fickÃ³.}
+{3520}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {3521}{}{A band of angry outcasts.}
-{3550}{}{Mérgez?-hulladék lerakat.}
-{3551}{}{Egy magányos kutya.}
+{3550}{}{MÃ©rgez?-hulladÃ©k lerakat.}
+{3551}{}{Egy magÃ¡nyos kutya.}
 {3552}{}{Egy brahmincsorda.}
-{3553}{}{Egy csoport aranygekkó és egy radskorpió család.}
-{3554}{}{Néhány bandita.}
-{3555}{}{Egy csoport hajléktalan.}
-{3556}{}{Egy csoport aranygekkó.}
-{3557}{}{Néhány fejvadász.}
-{3558}{}{Néhány fejvadász.}
-{3559}{}{Néhány fejvadász.}
-{3560}{}{Néhány fejvadász.}
-{3561}{}{Néhány fejvadász.}
-{3562}{}{Néhány fejvadász.}
-{3563}{}{Néhány fejvadász.}
-{3564}{}{Néhány fejvadász.}
-{3565}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3566}{}{Egy radskorpió család.}
-{3567}{}{Néhány húsev? növény.}
-{3568}{}{Néhány aranygekkókkal küzd? bandita.}
-{3569}{}{Néhány gekkókkal küzd? farmer.}
-{3570}{}{Néhány aranygekkókkal küzd? farmer.}
-{3571}{}{Néhány aranygekkókkal küzd? prémvadász.}
-{3572}{}{Néhány banditákkal harcoló prémvadász.}
-{3573}{}{Egy csoport gekkóra vadászó prémvadász.}
-{3574}{}{Néhány hajléktalanokat mészárló bandita.}
-{3575}{}{Néhány hajléktalanok ellen küzd? farmer.}
-{3576}{}{Néhány banditákkal harcoló farmer.}
+{3553}{}{Egy csoport aranygekkÃ³ Ã©s egy radskorpiÃ³ csalÃ¡d.}
+{3554}{}{NÃ©hÃ¡ny bandita.}
+{3555}{}{Egy csoport hajlÃ©ktalan.}
+{3556}{}{Egy csoport aranygekkÃ³.}
+{3557}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3558}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3559}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3560}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3561}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3562}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3563}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3564}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3565}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3566}{}{Egy radskorpiÃ³ csalÃ¡d.}
+{3567}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny.}
+{3568}{}{NÃ©hÃ¡ny aranygekkÃ³kkal kÃ¼zd? bandita.}
+{3569}{}{NÃ©hÃ¡ny gekkÃ³kkal kÃ¼zd? farmer.}
+{3570}{}{NÃ©hÃ¡ny aranygekkÃ³kkal kÃ¼zd? farmer.}
+{3571}{}{NÃ©hÃ¡ny aranygekkÃ³kkal kÃ¼zd? prÃ©mvadÃ¡sz.}
+{3572}{}{NÃ©hÃ¡ny banditÃ¡kkal harcolÃ³ prÃ©mvadÃ¡sz.}
+{3573}{}{Egy csoport gekkÃ³ra vadÃ¡szÃ³ prÃ©mvadÃ¡sz.}
+{3574}{}{NÃ©hÃ¡ny hajlÃ©ktalanokat mÃ©szÃ¡rlÃ³ bandita.}
+{3575}{}{NÃ©hÃ¡ny hajlÃ©ktalanok ellen kÃ¼zd? farmer.}
+{3576}{}{NÃ©hÃ¡ny banditÃ¡kkal harcolÃ³ farmer.}
 {3577}{}{Some farmers fending off some radscorpions.}
 {3578}{}{Some trappers fighting some radscorpions.}
-{3579}{}{Néhány disznópatkányokkal küzd? prémvadász.}
-{3580}{}{Néhány disznópatkányok ellen küzd? farmer.}
-{3581}{}{Néhány farmer.}
-{3582}{}{Egy csoport prémvadász.}
-{3583}{}{Egy bálna maradványai.}
+{3579}{}{NÃ©hÃ¡ny disznÃ³patkÃ¡nyokkal kÃ¼zd? prÃ©mvadÃ¡sz.}
+{3580}{}{NÃ©hÃ¡ny disznÃ³patkÃ¡nyok ellen kÃ¼zd? farmer.}
+{3581}{}{NÃ©hÃ¡ny farmer.}
+{3582}{}{Egy csoport prÃ©mvadÃ¡sz.}
+{3583}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {3584}{}{Egy hatalmas k?fej.}
-{3585}{}{Egy lezuhant ?rrepül?.}
-{3586}{}{?rz? portál.}
-{3587}{}{Arthur király lovagjai.}
-{3588}{}{Egy bádogember.}
-{3589}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{3600}{}{Egy csoport aranygekkó és egy radskorpió család.}
-{3601}{}{Néhány bandita.}
-{3602}{}{Egy csoport hajléktalan.}
-{3603}{}{Egy csoport aranygekkó.}
-{3604}{}{Néhány fejvadász.}
-{3605}{}{Néhány fejvadász.}
-{3606}{}{Néhány fejvadász.}
-{3607}{}{Néhány fejvadász.}
-{3608}{}{Néhány fejvadász.}
-{3609}{}{Néhány fejvadász.}
-{3610}{}{Néhány fejvadász.}
-{3611}{}{Néhány fejvadász.}
-{3612}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3613}{}{Egy radskorpió család.}
-{3614}{}{Néhány húsev? növény.}
-{3615}{}{Néhány aranygekkókkal küzd? bandita.}
-{3616}{}{Néhány gekkókkal küzd? farmer.}
-{3617}{}{Néhány aranygekkókkal küzd? farmer.}
-{3618}{}{Néhány aranygekkókkal küzd? prémvadász.}
-{3619}{}{Néhány banditákkal harcoló prémvadász.}
-{3620}{}{Egy csoport gekkóra vadászó prémvadász.}
-{3621}{}{Néhány hajléktalanokat mészárló bandita.}
-{3622}{}{Néhány hajléktalanok ellen küzd? farmer.}
-{3623}{}{Néhány banditákkal harcoló farmer.}
+{3585}{}{Egy lezuhant ?rrepÃ¼l?.}
+{3586}{}{?rz? portÃ¡l.}
+{3587}{}{Arthur kirÃ¡ly lovagjai.}
+{3588}{}{Egy bÃ¡dogember.}
+{3589}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{3600}{}{Egy csoport aranygekkÃ³ Ã©s egy radskorpiÃ³ csalÃ¡d.}
+{3601}{}{NÃ©hÃ¡ny bandita.}
+{3602}{}{Egy csoport hajlÃ©ktalan.}
+{3603}{}{Egy csoport aranygekkÃ³.}
+{3604}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3605}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3606}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3607}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3608}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3609}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3610}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3611}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3612}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3613}{}{Egy radskorpiÃ³ csalÃ¡d.}
+{3614}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny.}
+{3615}{}{NÃ©hÃ¡ny aranygekkÃ³kkal kÃ¼zd? bandita.}
+{3616}{}{NÃ©hÃ¡ny gekkÃ³kkal kÃ¼zd? farmer.}
+{3617}{}{NÃ©hÃ¡ny aranygekkÃ³kkal kÃ¼zd? farmer.}
+{3618}{}{NÃ©hÃ¡ny aranygekkÃ³kkal kÃ¼zd? prÃ©mvadÃ¡sz.}
+{3619}{}{NÃ©hÃ¡ny banditÃ¡kkal harcolÃ³ prÃ©mvadÃ¡sz.}
+{3620}{}{Egy csoport gekkÃ³ra vadÃ¡szÃ³ prÃ©mvadÃ¡sz.}
+{3621}{}{NÃ©hÃ¡ny hajlÃ©ktalanokat mÃ©szÃ¡rlÃ³ bandita.}
+{3622}{}{NÃ©hÃ¡ny hajlÃ©ktalanok ellen kÃ¼zd? farmer.}
+{3623}{}{NÃ©hÃ¡ny banditÃ¡kkal harcolÃ³ farmer.}
 {3624}{}{Some farmers fending off some radscorpions.}
 {3625}{}{Some trappers fighting some radscorpions.}
-{3626}{}{Néhány disznópatkányokkal küzd? prémvadász.}
-{3627}{}{Néhány disznópatkányok ellen küzd? farmer.}
-{3628}{}{Néhány farmer.}
-{3629}{}{Egy csoport prémvadász.}
-{3630}{}{Egy hidat ?rz? fickó.}
-{3631}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{3626}{}{NÃ©hÃ¡ny disznÃ³patkÃ¡nyokkal kÃ¼zd? prÃ©mvadÃ¡sz.}
+{3627}{}{NÃ©hÃ¡ny disznÃ³patkÃ¡nyok ellen kÃ¼zd? farmer.}
+{3628}{}{NÃ©hÃ¡ny farmer.}
+{3629}{}{Egy csoport prÃ©mvadÃ¡sz.}
+{3630}{}{Egy hidat ?rz? fickÃ³.}
+{3631}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {3632}{}{A band of angry outcasts.}
 {3650}{}{Toxic waste dump.}
-{3651}{}{Egy magányos kutya.}
+{3651}{}{Egy magÃ¡nyos kutya.}
 {3652}{}{Egy brahmincsorda.}
-{3653}{}{Egy keresked? és néhány ör.}
-{3654}{}{Néhány fejvadász.}
-{3655}{}{Néhány fejvadász.}
-{3656}{}{Néhány fejvadász.}
-{3657}{}{Néhány fejvadász.}
-{3658}{}{Néhány fejvadász.}
-{3659}{}{Néhány fejvadász.}
-{3660}{}{Néhány fejvadász.}
-{3661}{}{Néhány fejvadász.}
-{3662}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3663}{}{Néhány prémvadász.}
-{3664}{}{Egy banditák ellen harcoló keresked?csapat.}
-{3665}{}{Néhány banditákkal harcoló prémvadász.}
-{3666}{}{Egy radskorpiókkal küzd? keresked?csapat.}
-{3667}{}{Néhány radskorpiókra vadászó prémvadász.}
-{3668}{}{Egy csoport radskorpió.}
-{3669}{}{Egy vakondpatkány család.}
-{3670}{}{Néhány bandita.}
-{3671}{}{Egy aranygekkóra vadászó prémvadász csapat.}
+{3653}{}{Egy keresked? Ã©s nÃ©hÃ¡ny Ã¶r.}
+{3654}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3655}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3656}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3657}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3658}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3659}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3660}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3661}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3662}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3663}{}{NÃ©hÃ¡ny prÃ©mvadÃ¡sz.}
+{3664}{}{Egy banditÃ¡k ellen harcolÃ³ keresked?csapat.}
+{3665}{}{NÃ©hÃ¡ny banditÃ¡kkal harcolÃ³ prÃ©mvadÃ¡sz.}
+{3666}{}{Egy radskorpiÃ³kkal kÃ¼zd? keresked?csapat.}
+{3667}{}{NÃ©hÃ¡ny radskorpiÃ³kra vadÃ¡szÃ³ prÃ©mvadÃ¡sz.}
+{3668}{}{Egy csoport radskorpiÃ³.}
+{3669}{}{Egy vakondpatkÃ¡ny csalÃ¡d.}
+{3670}{}{NÃ©hÃ¡ny bandita.}
+{3671}{}{Egy aranygekkÃ³ra vadÃ¡szÃ³ prÃ©mvadÃ¡sz csapat.}
 {3672}{}{Some radscorpions fighting some golden geckos.}
 {3673}{}{Some radscorpions attacking some molerats and pig rats.}
-{3674}{}{Egy keresked?csapattal és néhány prémvadásszal harcoló fosztogató banda.}
-{3675}{}{Néhány aranygekkó.}
-{3676}{}{Egy mutáns patkányok ellen küzd? prémvadász csapat.}
-{3677}{}{Egy mutáns patkányokkal harcoló keresked?csapat.}
-{3678}{}{Egy bálna maradványai.}
+{3674}{}{Egy keresked?csapattal Ã©s nÃ©hÃ¡ny prÃ©mvadÃ¡sszal harcolÃ³ fosztogatÃ³ banda.}
+{3675}{}{NÃ©hÃ¡ny aranygekkÃ³.}
+{3676}{}{Egy mutÃ¡ns patkÃ¡nyok ellen kÃ¼zd? prÃ©mvadÃ¡sz csapat.}
+{3677}{}{Egy mutÃ¡ns patkÃ¡nyokkal harcolÃ³ keresked?csapat.}
+{3678}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {3679}{}{Egy hatalmas k?fej.}
-{3680}{}{Egy lezuhant ?rrepül?.}
-{3681}{}{?rz? portál.}
-{3682}{}{Arthur király lovagjai.}
+{3680}{}{Egy lezuhant ?rrepÃ¼l?.}
+{3681}{}{?rz? portÃ¡l.}
+{3682}{}{Arthur kirÃ¡ly lovagjai.}
 {3683}{}{A tin woodsman.}
-{3684}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
+{3684}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
 {3685}{}{A band of angry outcasts.}
 {3700}{}{Toxic waste dump.}
-{3701}{}{Egy magányos kutya.}
+{3701}{}{Egy magÃ¡nyos kutya.}
 {3702}{}{Egy brahmincsorda.}
-{3703}{}{Egy csapat útonálló.}
-{3704}{}{Néhány fejvadász.}
-{3705}{}{Néhány fejvadász.}
-{3706}{}{Néhány fejvadász.}
-{3707}{}{Néhány fejvadász.}
-{3708}{}{Néhány fejvadász.}
-{3709}{}{Néhány fejvadász.}
-{3710}{}{Néhány fejvadász.}
-{3711}{}{Néhány fejvadász.}
-{3712}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3713}{}{Egy csapat rabló.}
-{3714}{}{Egy csapat rabló és útonálló.}
-{3715}{}{Néhány aranygekkó és néhány radskorpió.}
-{3716}{}{Egy aranygekkó család.}
-{3717}{}{Egy vakondpatkány család.}
-{3718}{}{Egy nagy csoport radskorpió.}
-{3719}{}{Egy nagy csoport húsev? növény.}
-{3720}{}{Egy rablókkal harcoló útonálló csapat.}
-{3721}{}{Egy útonállókkal harcoló keresked?csapat.}
-{3722}{}{Egy rablókkal harcoló keresked?csapat.}
-{3723}{}{Egy radskorpiókkal harcoló keresked?csapat.}
-{3724}{}{Egy aranygekkókal harcoló radskorpió család.}
-{3725}{}{Egy keresked? néhány ?rrel.}
-{3726}{}{Egy bálna maradványai.}
+{3703}{}{Egy csapat ÃºtonÃ¡llÃ³.}
+{3704}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3705}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3706}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3707}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3708}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3709}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3710}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3711}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3712}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3713}{}{Egy csapat rablÃ³.}
+{3714}{}{Egy csapat rablÃ³ Ã©s ÃºtonÃ¡llÃ³.}
+{3715}{}{NÃ©hÃ¡ny aranygekkÃ³ Ã©s nÃ©hÃ¡ny radskorpiÃ³.}
+{3716}{}{Egy aranygekkÃ³ csalÃ¡d.}
+{3717}{}{Egy vakondpatkÃ¡ny csalÃ¡d.}
+{3718}{}{Egy nagy csoport radskorpiÃ³.}
+{3719}{}{Egy nagy csoport hÃºsev? nÃ¶vÃ©ny.}
+{3720}{}{Egy rablÃ³kkal harcolÃ³ ÃºtonÃ¡llÃ³ csapat.}
+{3721}{}{Egy ÃºtonÃ¡llÃ³kkal harcolÃ³ keresked?csapat.}
+{3722}{}{Egy rablÃ³kkal harcolÃ³ keresked?csapat.}
+{3723}{}{Egy radskorpiÃ³kkal harcolÃ³ keresked?csapat.}
+{3724}{}{Egy aranygekkÃ³kal harcolÃ³ radskorpiÃ³ csalÃ¡d.}
+{3725}{}{Egy keresked? nÃ©hÃ¡ny ?rrel.}
+{3726}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {3727}{}{Egy hatalmas k?fej.}
-{3728}{}{Egy lezuhant ?rrepül?.}
-{3729}{}{?rz? portál.}
-{3730}{}{Arthur király lovagjai.}
+{3728}{}{Egy lezuhant ?rrepÃ¼l?.}
+{3729}{}{?rz? portÃ¡l.}
+{3730}{}{Arthur kirÃ¡ly lovagjai.}
 {3731}{}{A tin woodsman.}
-{3732}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{3750}{}{Egy csapat útonálló.}
-{3751}{}{Egy csapat rabló.}
-{3752}{}{Egy csapat rabló és útonálló.}
-{3753}{}{Néhány aranygekkó és néhány radskorpió.}
-{3754}{}{Néhány fejvadász.}
-{3755}{}{Néhány fejvadász.}
-{3756}{}{Néhány fejvadász.}
-{3757}{}{Néhány fejvadász.}
-{3758}{}{Néhány fejvadász.}
-{3759}{}{Néhány fejvadász.}
-{3760}{}{Néhány fejvadász.}
-{3761}{}{Néhány fejvadász.}
-{3762}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3763}{}{Egy aranygekkó család.}
-{3764}{}{Egy vakondpatkány család.}
-{3765}{}{Egy nagy csoport radskorpió.}
-{3766}{}{Egy nagy csoport húsev? növény.}
-{3767}{}{Egy rablókkal harcoló útonálló csapat.}
-{3768}{}{Egy útonállókkal harcoló keresked?csapat.}
-{3769}{}{Egy rablókkal harcoló keresked?csapat.}
-{3770}{}{Egy radskorpiókkal harcoló keresked?csapat.}
-{3771}{}{Egy aranygekkókal harcoló radskorpió család.}
-{3772}{}{Egy keresked? néhány ?rrel.}
-{3773}{}{Egy hidat ?rz? fickó.}
-{3774}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{3732}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{3750}{}{Egy csapat ÃºtonÃ¡llÃ³.}
+{3751}{}{Egy csapat rablÃ³.}
+{3752}{}{Egy csapat rablÃ³ Ã©s ÃºtonÃ¡llÃ³.}
+{3753}{}{NÃ©hÃ¡ny aranygekkÃ³ Ã©s nÃ©hÃ¡ny radskorpiÃ³.}
+{3754}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3755}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3756}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3757}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3758}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3759}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3760}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3761}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3762}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3763}{}{Egy aranygekkÃ³ csalÃ¡d.}
+{3764}{}{Egy vakondpatkÃ¡ny csalÃ¡d.}
+{3765}{}{Egy nagy csoport radskorpiÃ³.}
+{3766}{}{Egy nagy csoport hÃºsev? nÃ¶vÃ©ny.}
+{3767}{}{Egy rablÃ³kkal harcolÃ³ ÃºtonÃ¡llÃ³ csapat.}
+{3768}{}{Egy ÃºtonÃ¡llÃ³kkal harcolÃ³ keresked?csapat.}
+{3769}{}{Egy rablÃ³kkal harcolÃ³ keresked?csapat.}
+{3770}{}{Egy radskorpiÃ³kkal harcolÃ³ keresked?csapat.}
+{3771}{}{Egy aranygekkÃ³kal harcolÃ³ radskorpiÃ³ csalÃ¡d.}
+{3772}{}{Egy keresked? nÃ©hÃ¡ny ?rrel.}
+{3773}{}{Egy hidat ?rz? fickÃ³.}
+{3774}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {3800}{}{Toxic waste dump.}
-{3801}{}{Egy magányos kutya.}
+{3801}{}{Egy magÃ¡nyos kutya.}
 {3802}{}{Egy brahmincsorda.}
-{3803}{}{Egy rabszolga-keresked? csapat és néhány rabszolga.}
-{3804}{}{Néhány fejvadász.}
-{3805}{}{Néhány fejvadász.}
-{3806}{}{Néhány fejvadász.}
-{3807}{}{Néhány fejvadász.}
-{3808}{}{Néhány fejvadász.}
-{3809}{}{Néhány fejvadász.}
-{3810}{}{Néhány fejvadász.}
-{3811}{}{Néhány fejvadász.}
-{3812}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3813}{}{Egy csapat útonálló.}
-{3814}{}{Egy csapat rabló.}
-{3815}{}{Néhány húsev? növény között rejt?z? aranygekkó.}
-{3816}{}{Egy csapat radskorpió és néhány vakondpatkány.}
-{3817}{}{Egy csapat radskorpió.}
-{3818}{}{Egy csoport vakondpatkány.}
-{3819}{}{Egy rablókkal harcoló útonálló banda.}
-{3820}{}{Egy rabszolgákra vadászó rabszolga-keresked? csapat.}
-{3821}{}{Egy rabszolga-keresked? csapat és néhány rabszolga vs. néhány rabló.}
-{3822}{}{Egy rablókkal harcoló rabszolga-keresked? csapat.}
-{3823}{}{Egy radskorpiókkal küzd? Rave banda.}
+{3803}{}{Egy rabszolga-keresked? csapat Ã©s nÃ©hÃ¡ny rabszolga.}
+{3804}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3805}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3806}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3807}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3808}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3809}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3810}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3811}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3812}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3813}{}{Egy csapat ÃºtonÃ¡llÃ³.}
+{3814}{}{Egy csapat rablÃ³.}
+{3815}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny kÃ¶zÃ¶tt rejt?z? aranygekkÃ³.}
+{3816}{}{Egy csapat radskorpiÃ³ Ã©s nÃ©hÃ¡ny vakondpatkÃ¡ny.}
+{3817}{}{Egy csapat radskorpiÃ³.}
+{3818}{}{Egy csoport vakondpatkÃ¡ny.}
+{3819}{}{Egy rablÃ³kkal harcolÃ³ ÃºtonÃ¡llÃ³ banda.}
+{3820}{}{Egy rabszolgÃ¡kra vadÃ¡szÃ³ rabszolga-keresked? csapat.}
+{3821}{}{Egy rabszolga-keresked? csapat Ã©s nÃ©hÃ¡ny rabszolga vs. nÃ©hÃ¡ny rablÃ³.}
+{3822}{}{Egy rablÃ³kkal harcolÃ³ rabszolga-keresked? csapat.}
+{3823}{}{Egy radskorpiÃ³kkal kÃ¼zd? Rave banda.}
 {3824}{}{Egy Rave banda.}
-{3825}{}{Egy bálna maradványai.}
+{3825}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {3826}{}{Egy hatalmas k?fej.}
-{3827}{}{Egy lezuhant ?rrepül?.}
-{3828}{}{?rz? portál.}
-{3829}{}{Arthur király lovagjai.}
+{3827}{}{Egy lezuhant ?rrepÃ¼l?.}
+{3828}{}{?rz? portÃ¡l.}
+{3829}{}{Arthur kirÃ¡ly lovagjai.}
 {3830}{}{A tin woodsman.}
-{3831}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{3850}{}{Egy rabszolga-keresked? csapat és néhány rabszolga.}
-{3851}{}{Egy csapat útonálló.}
-{3852}{}{Egy csapat rabló.}
-{3853}{}{Néhány húsev? növény között rejt?z? aranygekkó.}
-{3854}{}{Néhány fejvadász.}
-{3855}{}{Néhány fejvadász.}
-{3856}{}{Néhány fejvadász.}
-{3857}{}{Néhány fejvadász.}
-{3858}{}{Néhány fejvadász.}
-{3859}{}{Néhány fejvadász.}
-{3860}{}{Néhány fejvadász.}
-{3861}{}{Néhány fejvadász.}
-{3862}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3863}{}{Egy csapat radskorpió és néhány vakondpatkány.}
-{3864}{}{Egy csapat radskorpió.}
-{3865}{}{Egy csoport vakondpatkány.}
-{3866}{}{Egy rablókkal harcoló útonálló banda.}
-{3867}{}{Egy rabszolgákra vadászó rabszolga-keresked? csapat.}
-{3868}{}{Egy rabszolga-keresked? csapat és néhány rabszolga vs. néhány rabló.}
-{3869}{}{Egy rablókkal harcoló rabszolga-keresked? csapat.}
-{3870}{}{Egy hidat ?rz? fickó.}
-{3871}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-{3900}{}{Néhány útonálló és rabló.}
-{3901}{}{Néhány útonálló.}
-{3902}{}{Egy nagy csapat aranygekkó.}
+{3831}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{3850}{}{Egy rabszolga-keresked? csapat Ã©s nÃ©hÃ¡ny rabszolga.}
+{3851}{}{Egy csapat ÃºtonÃ¡llÃ³.}
+{3852}{}{Egy csapat rablÃ³.}
+{3853}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny kÃ¶zÃ¶tt rejt?z? aranygekkÃ³.}
+{3854}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3855}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3856}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3857}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3858}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3859}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3860}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3861}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3862}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3863}{}{Egy csapat radskorpiÃ³ Ã©s nÃ©hÃ¡ny vakondpatkÃ¡ny.}
+{3864}{}{Egy csapat radskorpiÃ³.}
+{3865}{}{Egy csoport vakondpatkÃ¡ny.}
+{3866}{}{Egy rablÃ³kkal harcolÃ³ ÃºtonÃ¡llÃ³ banda.}
+{3867}{}{Egy rabszolgÃ¡kra vadÃ¡szÃ³ rabszolga-keresked? csapat.}
+{3868}{}{Egy rabszolga-keresked? csapat Ã©s nÃ©hÃ¡ny rabszolga vs. nÃ©hÃ¡ny rablÃ³.}
+{3869}{}{Egy rablÃ³kkal harcolÃ³ rabszolga-keresked? csapat.}
+{3870}{}{Egy hidat ?rz? fickÃ³.}
+{3871}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
+{3900}{}{NÃ©hÃ¡ny ÃºtonÃ¡llÃ³ Ã©s rablÃ³.}
+{3901}{}{NÃ©hÃ¡ny ÃºtonÃ¡llÃ³.}
+{3902}{}{Egy nagy csapat aranygekkÃ³.}
 {3903}{}{Some radscorpions hiding in the spore plants.}
-{3904}{}{Néhány fejvadász.}
-{3905}{}{Néhány fejvadász.}
-{3906}{}{Néhány fejvadász.}
-{3907}{}{Néhány fejvadász.}
-{3908}{}{Néhány fejvadász.}
-{3909}{}{Néhány fejvadász.}
-{3910}{}{Néhány fejvadász.}
-{3911}{}{Néhány fejvadász.}
-{3912}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
+{3904}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3905}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3906}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3907}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3908}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3909}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3910}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3911}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3912}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
 {3913}{}{Some robbers fighting some radscorpions.}
-{3914}{}{Néhány rabló.}
-{3915}{}{Egy útonállókkal harcoló keresked?csapat.}
-{3916}{}{Egy rablókkal harcoló keresked?csapat.}
-{3917}{}{Néhány húsev? növényekkel küzd? útonálló.}
-{3918}{}{Egy keresked? és csoportja.}
-{3919}{}{Egy hidat ?rz? fickó.}
-{3920}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{3914}{}{NÃ©hÃ¡ny rablÃ³.}
+{3915}{}{Egy ÃºtonÃ¡llÃ³kkal harcolÃ³ keresked?csapat.}
+{3916}{}{Egy rablÃ³kkal harcolÃ³ keresked?csapat.}
+{3917}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©nyekkel kÃ¼zd? ÃºtonÃ¡llÃ³.}
+{3918}{}{Egy keresked? Ã©s csoportja.}
+{3919}{}{Egy hidat ?rz? fickÃ³.}
+{3920}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {3921}{}{Some angry bandits.}
-{3950}{}{Néhány útonálló.}
-{3951}{}{Néhány rabló.}
-{3952}{}{Néhány hajléktalan.}
-{3953}{}{Néhány aranygekkó és jónéhány imádkozó-sáska.}
-{3954}{}{Néhány fejvadász.}
-{3955}{}{Néhány fejvadász.}
-{3956}{}{Néhány fejvadász.}
-{3957}{}{Néhány fejvadász.}
-{3958}{}{Néhány fejvadász.}
-{3959}{}{Néhány fejvadász.}
-{3960}{}{Néhány fejvadász.}
-{3961}{}{Néhány fejvadász.}
-{3962}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{3963}{}{Néhány vad brahmin.}
-{3964}{}{Néhány radskorpió.}
-{3965}{}{Néhány útonállókkal hadakozó szeszf?z?.}
-{3966}{}{Néhány útonállókkal harcoló hajléktalan.}
-{3967}{}{Néhány szeszf?z? és néhány farmer.}
-{3968}{}{Néhány imádkozó-sáskákkal küzd? farmer.}
-{3969}{}{Néhány szeszf?z?vel harcoló farmer.}
-{3970}{}{Néhány imádkozó-sáskákkal küzd? brahmin.}
-{3971}{}{Néhány imádkozó-sáskákkal küzd? óriáspatkány.}
-{3972}{}{Néhány szeszf?z?.}
-{3973}{}{Néhány farmer.}
+{3950}{}{NÃ©hÃ¡ny ÃºtonÃ¡llÃ³.}
+{3951}{}{NÃ©hÃ¡ny rablÃ³.}
+{3952}{}{NÃ©hÃ¡ny hajlÃ©ktalan.}
+{3953}{}{NÃ©hÃ¡ny aranygekkÃ³ Ã©s jÃ³nÃ©hÃ¡ny imÃ¡dkozÃ³-sÃ¡ska.}
+{3954}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3955}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3956}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3957}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3958}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3959}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3960}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3961}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{3962}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{3963}{}{NÃ©hÃ¡ny vad brahmin.}
+{3964}{}{NÃ©hÃ¡ny radskorpiÃ³.}
+{3965}{}{NÃ©hÃ¡ny ÃºtonÃ¡llÃ³kkal hadakozÃ³ szeszf?z?.}
+{3966}{}{NÃ©hÃ¡ny ÃºtonÃ¡llÃ³kkal harcolÃ³ hajlÃ©ktalan.}
+{3967}{}{NÃ©hÃ¡ny szeszf?z? Ã©s nÃ©hÃ¡ny farmer.}
+{3968}{}{NÃ©hÃ¡ny imÃ¡dkozÃ³-sÃ¡skÃ¡kkal kÃ¼zd? farmer.}
+{3969}{}{NÃ©hÃ¡ny szeszf?z?vel harcolÃ³ farmer.}
+{3970}{}{NÃ©hÃ¡ny imÃ¡dkozÃ³-sÃ¡skÃ¡kkal kÃ¼zd? brahmin.}
+{3971}{}{NÃ©hÃ¡ny imÃ¡dkozÃ³-sÃ¡skÃ¡kkal kÃ¼zd? Ã³riÃ¡spatkÃ¡ny.}
+{3972}{}{NÃ©hÃ¡ny szeszf?z?.}
+{3973}{}{NÃ©hÃ¡ny farmer.}
 {3974}{}{Egy brahmincsorda.}
-{3975}{}{Egy hidat ?rz? fickó.}
-{3976}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{3975}{}{Egy hidat ?rz? fickÃ³.}
+{3976}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {3977}{}{Some angry bandits.}
-{4000}{}{Néhány kutyákkal nyomot keres? útonálló.}
-{4001}{}{Néhány kutyákkal nyomot keres? rabló.}
-{4002}{}{Egy csapat rabló.}
-{4003}{}{Egy csapat útonálló.}
-{4004}{}{Néhány fejvadász.}
-{4005}{}{Néhány fejvadász.}
-{4006}{}{Néhány fejvadász.}
-{4007}{}{Néhány fejvadász.}
-{4008}{}{Néhány fejvadász.}
-{4009}{}{Néhány fejvadász.}
-{4010}{}{Néhány fejvadász.}
-{4011}{}{Néhány fejvadász.}
-{4012}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4013}{}{Néhány imádkozó-sáskákkal küzd? húsev? növény.}
-{4014}{}{Egy falka vad kutya és néhány húsev? növény.}
-{4015}{}{Egy imádkozó-sáska raj.}
+{4000}{}{NÃ©hÃ¡ny kutyÃ¡kkal nyomot keres? ÃºtonÃ¡llÃ³.}
+{4001}{}{NÃ©hÃ¡ny kutyÃ¡kkal nyomot keres? rablÃ³.}
+{4002}{}{Egy csapat rablÃ³.}
+{4003}{}{Egy csapat ÃºtonÃ¡llÃ³.}
+{4004}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4005}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4006}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4007}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4008}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4009}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4010}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4011}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4012}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4013}{}{NÃ©hÃ¡ny imÃ¡dkozÃ³-sÃ¡skÃ¡kkal kÃ¼zd? hÃºsev? nÃ¶vÃ©ny.}
+{4014}{}{Egy falka vad kutya Ã©s nÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny.}
+{4015}{}{Egy imÃ¡dkozÃ³-sÃ¡ska raj.}
 {4016}{}{Egy falka vad kutya.}
-{4017}{}{Néhány veszett kutyákkal harcoló rabló.}
-{4018}{}{Egy vad kutyákkal küzd? karaván.}
-{4019}{}{Egy rablókkal harcoló karaván.}
-{4020}{}{Egy útonállókkal hadakozó karaván.}
-{4021}{}{Egy karaván.}
-{4022}{}{Egy hidat ?rz? fickó.}
-{4023}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{4017}{}{NÃ©hÃ¡ny veszett kutyÃ¡kkal harcolÃ³ rablÃ³.}
+{4018}{}{Egy vad kutyÃ¡kkal kÃ¼zd? karavÃ¡n.}
+{4019}{}{Egy rablÃ³kkal harcolÃ³ karavÃ¡n.}
+{4020}{}{Egy ÃºtonÃ¡llÃ³kkal hadakozÃ³ karavÃ¡n.}
+{4021}{}{Egy karavÃ¡n.}
+{4022}{}{Egy hidat ?rz? fickÃ³.}
+{4023}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {4050}{}{Toxic waste dump.}
-{4051}{}{Egy magányos kutya.}
+{4051}{}{Egy magÃ¡nyos kutya.}
 {4052}{}{Egy brahmincsorda.}
-{4053}{}{Néhány kutyákkal nyomot keres? útonálló.}
-{4054}{}{Néhány fejvadász.}
-{4055}{}{Néhány fejvadász.}
-{4056}{}{Néhány fejvadász.}
-{4057}{}{Néhány fejvadász.}
-{4058}{}{Néhány fejvadász.}
-{4059}{}{Néhány fejvadász.}
-{4060}{}{Néhány fejvadász.}
-{4061}{}{Néhány fejvadász.}
-{4062}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4063}{}{Néhány kutyákkal nyomot keres? rabló.}
-{4064}{}{Egy csapat rabló.}
-{4065}{}{Egy csapat útonálló.}
-{4066}{}{Néhány imádkozó-sáskákkal küzd? húsev? növény.}
-{4067}{}{Egy falka vad kutya és néhány húsev? növény.}
-{4068}{}{Egy imádkozó-sáska raj.}
+{4053}{}{NÃ©hÃ¡ny kutyÃ¡kkal nyomot keres? ÃºtonÃ¡llÃ³.}
+{4054}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4055}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4056}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4057}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4058}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4059}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4060}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4061}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4062}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4063}{}{NÃ©hÃ¡ny kutyÃ¡kkal nyomot keres? rablÃ³.}
+{4064}{}{Egy csapat rablÃ³.}
+{4065}{}{Egy csapat ÃºtonÃ¡llÃ³.}
+{4066}{}{NÃ©hÃ¡ny imÃ¡dkozÃ³-sÃ¡skÃ¡kkal kÃ¼zd? hÃºsev? nÃ¶vÃ©ny.}
+{4067}{}{Egy falka vad kutya Ã©s nÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny.}
+{4068}{}{Egy imÃ¡dkozÃ³-sÃ¡ska raj.}
 {4069}{}{Egy falka vad kutya.}
-{4070}{}{Néhány veszett kutyákkal harcoló rabló.}
-{4071}{}{Egy vad kutyákkal küzd? karaván.}
-{4072}{}{Egy rablókkal harcoló karaván.}
-{4073}{}{Egy útonállókkal hadakozó karaván.}
-{4074}{}{Egy karaván.}
-{4075}{}{Egy bálna maradványai.}
+{4070}{}{NÃ©hÃ¡ny veszett kutyÃ¡kkal harcolÃ³ rablÃ³.}
+{4071}{}{Egy vad kutyÃ¡kkal kÃ¼zd? karavÃ¡n.}
+{4072}{}{Egy rablÃ³kkal harcolÃ³ karavÃ¡n.}
+{4073}{}{Egy ÃºtonÃ¡llÃ³kkal hadakozÃ³ karavÃ¡n.}
+{4074}{}{Egy karavÃ¡n.}
+{4075}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {4076}{}{Egy hatalmas k?fej.}
-{4077}{}{Egy lezuhant ?rrepül?.}
-{4078}{}{?rz? portál.}
-{4079}{}{Arthur király lovagjai.}
+{4077}{}{Egy lezuhant ?rrepÃ¼l?.}
+{4078}{}{?rz? portÃ¡l.}
+{4079}{}{Arthur kirÃ¡ly lovagjai.}
 {4080}{}{A tin woodsman.}
-{4081}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{4100}{}{Néhány aranygekkó.}
-{4101}{}{Egy imádkozó-sáska raj.}
-{4102}{}{Néhány radskorpió.}
-{4103}{}{Néhány vad brahmin.}
-{4104}{}{Néhány fejvadász.}
-{4105}{}{Néhány fejvadász.}
-{4106}{}{Néhány fejvadász.}
-{4107}{}{Néhány fejvadász.}
-{4108}{}{Néhány fejvadász.}
-{4109}{}{Néhány fejvadász.}
-{4110}{}{Néhány fejvadász.}
-{4111}{}{Néhány fejvadász.}
-{4112}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4113}{}{Egy aranygekkókkal küzd? keresked?csapat.}
-{4114}{}{Egy imádkozó-sáskákkal küzd? keresked?csapat.}
-{4115}{}{Néhány imádkozó-sáskákkal küzd? vad brahmin.}
-{4116}{}{Néhány imádkozó-sásákákat támadó radskorpió.}
-{4117}{}{Néhány vad brahminokat támadó radskorpió.}
-{4118}{}{Egy keresked? és ?rei.}
-{4119}{}{Egy hidat ?rz? fickó.}
-{4120}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{4081}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{4100}{}{NÃ©hÃ¡ny aranygekkÃ³.}
+{4101}{}{Egy imÃ¡dkozÃ³-sÃ¡ska raj.}
+{4102}{}{NÃ©hÃ¡ny radskorpiÃ³.}
+{4103}{}{NÃ©hÃ¡ny vad brahmin.}
+{4104}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4105}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4106}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4107}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4108}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4109}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4110}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4111}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4112}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4113}{}{Egy aranygekkÃ³kkal kÃ¼zd? keresked?csapat.}
+{4114}{}{Egy imÃ¡dkozÃ³-sÃ¡skÃ¡kkal kÃ¼zd? keresked?csapat.}
+{4115}{}{NÃ©hÃ¡ny imÃ¡dkozÃ³-sÃ¡skÃ¡kkal kÃ¼zd? vad brahmin.}
+{4116}{}{NÃ©hÃ¡ny imÃ¡dkozÃ³-sÃ¡sÃ¡kÃ¡kat tÃ¡madÃ³ radskorpiÃ³.}
+{4117}{}{NÃ©hÃ¡ny vad brahminokat tÃ¡madÃ³ radskorpiÃ³.}
+{4118}{}{Egy keresked? Ã©s ?rei.}
+{4119}{}{Egy hidat ?rz? fickÃ³.}
+{4120}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {4121}{}{Some angry bandits.}
 {4150}{}{Toxic waste dump.}
-{4151}{}{Egy magányos kutya.}
+{4151}{}{Egy magÃ¡nyos kutya.}
 {4152}{}{Egy brahmincsorda.}
-{4153}{}{Néhány aranygekkó.}
-{4154}{}{Néhány fejvadász.}
-{4155}{}{Néhány fejvadász.}
-{4156}{}{Néhány fejvadász.}
-{4157}{}{Néhány fejvadász.}
-{4158}{}{Néhány fejvadász.}
-{4159}{}{Néhány fejvadász.}
-{4160}{}{Néhány fejvadász.}
-{4161}{}{Néhány fejvadász.}
-{4162}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4163}{}{Egy imádkozó-sáska raj.}
-{4164}{}{Néhány radskorpió.}
-{4165}{}{Néhány vad brahmin.}
-{4166}{}{Egy aranygekkókkal küzd? keresked?csapat.}
-{4167}{}{Egy imádkozó-sáskákkal küzd? keresked?csapat.}
-{4168}{}{Néhány imádkozó-sáskákkal küzd? vad brahmin.}
-{4169}{}{Néhány imádkozó-sásákákat támadó radskorpió.}
-{4170}{}{Néhány vad brahminokat támadó radskorpió.}
-{4171}{}{Egy keresked? és ?rei.}
-{4172}{}{Egy bálna maradványai.}
+{4153}{}{NÃ©hÃ¡ny aranygekkÃ³.}
+{4154}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4155}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4156}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4157}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4158}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4159}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4160}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4161}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4162}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4163}{}{Egy imÃ¡dkozÃ³-sÃ¡ska raj.}
+{4164}{}{NÃ©hÃ¡ny radskorpiÃ³.}
+{4165}{}{NÃ©hÃ¡ny vad brahmin.}
+{4166}{}{Egy aranygekkÃ³kkal kÃ¼zd? keresked?csapat.}
+{4167}{}{Egy imÃ¡dkozÃ³-sÃ¡skÃ¡kkal kÃ¼zd? keresked?csapat.}
+{4168}{}{NÃ©hÃ¡ny imÃ¡dkozÃ³-sÃ¡skÃ¡kkal kÃ¼zd? vad brahmin.}
+{4169}{}{NÃ©hÃ¡ny imÃ¡dkozÃ³-sÃ¡sÃ¡kÃ¡kat tÃ¡madÃ³ radskorpiÃ³.}
+{4170}{}{NÃ©hÃ¡ny vad brahminokat tÃ¡madÃ³ radskorpiÃ³.}
+{4171}{}{Egy keresked? Ã©s ?rei.}
+{4172}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {4173}{}{Egy hatalmas k?fej.}
-{4174}{}{Egy lezuhant ?rrepül?.}
-{4175}{}{?rz? portál.}
-{4176}{}{Arthur király lovagjai.}
+{4174}{}{Egy lezuhant ?rrepÃ¼l?.}
+{4175}{}{?rz? portÃ¡l.}
+{4176}{}{Arthur kirÃ¡ly lovagjai.}
 {4177}{}{A tin woodsman.}
-{4178}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
+{4178}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
 {4179}{}{Some angry bandits.}
 {4200}{}{Toxic waste dump.}
-{4201}{}{Egy magányos kutya.}
+{4201}{}{Egy magÃ¡nyos kutya.}
 {4202}{}{Egy brahmincsorda.}
-{4203}{}{Néhány mutáns vakondpatkány.}
-{4204}{}{Néhány fejvadász.}
-{4205}{}{Néhány fejvadász.}
-{4206}{}{Néhány fejvadász.}
-{4207}{}{Néhány fejvadász.}
-{4208}{}{Néhány fejvadász.}
-{4209}{}{Néhány fejvadász.}
-{4210}{}{Néhány fejvadász.}
-{4211}{}{Néhány fejvadász.}
-{4212}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4213}{}{Néhány mutáns disznópatkány.}
-{4214}{}{Néhány húsev? növény.}
-{4215}{}{Egy vakondpatányokkal hadakozó remete és kutyái.}
-{4216}{}{Egy vad kutyákkal küzd? remete.}
-{4217}{}{Egy disznópatkányokkal küzd? remete.}
-{4218}{}{Egy remetével és kutyáival harcoló vakondpatkány csoport.}
-{4219}{}{Néhány vakondpatkányokkal harcoló disznópatkány.}
-{4220}{}{Néhány húsev? növényekkel harcoló vakondpatkány.}
-{4221}{}{Néhány vad kutyákkal harcoló disznópatkány.}
+{4203}{}{NÃ©hÃ¡ny mutÃ¡ns vakondpatkÃ¡ny.}
+{4204}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4205}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4206}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4207}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4208}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4209}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4210}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4211}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4212}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4213}{}{NÃ©hÃ¡ny mutÃ¡ns disznÃ³patkÃ¡ny.}
+{4214}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny.}
+{4215}{}{Egy vakondpatÃ¡nyokkal hadakozÃ³ remete Ã©s kutyÃ¡i.}
+{4216}{}{Egy vad kutyÃ¡kkal kÃ¼zd? remete.}
+{4217}{}{Egy disznÃ³patkÃ¡nyokkal kÃ¼zd? remete.}
+{4218}{}{Egy remetÃ©vel Ã©s kutyÃ¡ival harcolÃ³ vakondpatkÃ¡ny csoport.}
+{4219}{}{NÃ©hÃ¡ny vakondpatkÃ¡nyokkal harcolÃ³ disznÃ³patkÃ¡ny.}
+{4220}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©nyekkel harcolÃ³ vakondpatkÃ¡ny.}
+{4221}{}{NÃ©hÃ¡ny vad kutyÃ¡kkal harcolÃ³ disznÃ³patkÃ¡ny.}
 {4222}{}{Egy remete.}
-{4223}{}{Egy bálna maradványai.}
+{4223}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {4224}{}{Egy hatalmas k?fej.}
-{4225}{}{Egy lezuhant ?rrepül?.}
-{4226}{}{?rz? portál.}
-{4227}{}{Arthur király lovagjai.}
+{4225}{}{Egy lezuhant ?rrepÃ¼l?.}
+{4226}{}{?rz? portÃ¡l.}
+{4227}{}{Arthur kirÃ¡ly lovagjai.}
 {4228}{}{A tin woodsman.}
-{4229}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{4250}{}{Néhány mutáns vakondpatkány.}
-{4251}{}{Néhány mutáns disznópatkány.}
-{4252}{}{Néhány húsev? növény.}
-{4253}{}{Egy vakondpatányokkal hadakozó remete és kutyái.}
-{4254}{}{Néhány fejvadász.}
-{4255}{}{Néhány fejvadász.}
-{4256}{}{Néhány fejvadász.}
-{4257}{}{Néhány fejvadász.}
-{4258}{}{Néhány fejvadász.}
-{4259}{}{Néhány fejvadász.}
-{4260}{}{Néhány fejvadász.}
-{4261}{}{Néhány fejvadász.}
-{4262}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4263}{}{Egy vad kutyákkal küzd? remete.}
-{4264}{}{Egy disznópatkányokkal küzd? remete.}
-{4265}{}{Egy remetével és kutyáival harcoló vakondpatkány csoport.}
-{4266}{}{Néhány vakondpatkányokkal harcoló disznópatkány.}
-{4267}{}{Néhány húsev? növényekkel harcoló vakondpatkány.}
-{4268}{}{Néhány vad kutyákkal harcoló disznópatkány.}
+{4229}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{4250}{}{NÃ©hÃ¡ny mutÃ¡ns vakondpatkÃ¡ny.}
+{4251}{}{NÃ©hÃ¡ny mutÃ¡ns disznÃ³patkÃ¡ny.}
+{4252}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny.}
+{4253}{}{Egy vakondpatÃ¡nyokkal hadakozÃ³ remete Ã©s kutyÃ¡i.}
+{4254}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4255}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4256}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4257}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4258}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4259}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4260}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4261}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4262}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4263}{}{Egy vad kutyÃ¡kkal kÃ¼zd? remete.}
+{4264}{}{Egy disznÃ³patkÃ¡nyokkal kÃ¼zd? remete.}
+{4265}{}{Egy remetÃ©vel Ã©s kutyÃ¡ival harcolÃ³ vakondpatkÃ¡ny csoport.}
+{4266}{}{NÃ©hÃ¡ny vakondpatkÃ¡nyokkal harcolÃ³ disznÃ³patkÃ¡ny.}
+{4267}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©nyekkel harcolÃ³ vakondpatkÃ¡ny.}
+{4268}{}{NÃ©hÃ¡ny vad kutyÃ¡kkal harcolÃ³ disznÃ³patkÃ¡ny.}
 {4269}{}{Egy remete.}
-{4270}{}{Egy hidat ?rz? fickó.}
-{4271}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-{4300}{}{Egy csapat rabszolga-keresked? és néhány kutya.}
+{4270}{}{Egy hidat ?rz? fickÃ³.}
+{4271}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
+{4300}{}{Egy csapat rabszolga-keresked? Ã©s nÃ©hÃ¡ny kutya.}
 {4301}{}{Egy csapat rabszolgakeresked?.}
-{4302}{}{Néhány aranygekkó.}
+{4302}{}{NÃ©hÃ¡ny aranygekkÃ³.}
 {4303}{}{Egy falka vad kutya.}
-{4304}{}{Néhány fejvadász.}
-{4305}{}{Néhány fejvadász.}
-{4306}{}{Néhány fejvadász.}
-{4307}{}{Néhány fejvadász.}
-{4308}{}{Néhány fejvadász.}
-{4309}{}{Néhány fejvadász.}
-{4310}{}{Néhány fejvadász.}
-{4311}{}{Néhány fejvadász.}
-{4312}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4313}{}{Egy rabszolga-keresked?ket támadó kutyás jár?rcsapat}
-{4314}{}{Egy aranygekkókkal küzd? rabszolga-keresked? csapat.}
-{4315}{}{Egy rabszolga-keresked?ket támadó jár?rcsapat.}
-{4316}{}{Egy aranygekkókkal harcoló jár?rcsapat.}
-{4317}{}{Egy vad kutyákkal harcoló jár?rcsapat.}
-{4318}{}{Egy jár?rcsapat.}
-{4319}{}{Egy hidat ?rz? fickó.}
-{4320}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{4304}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4305}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4306}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4307}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4308}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4309}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4310}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4311}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4312}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4313}{}{Egy rabszolga-keresked?ket tÃ¡madÃ³ kutyÃ¡s jÃ¡r?rcsapat}
+{4314}{}{Egy aranygekkÃ³kkal kÃ¼zd? rabszolga-keresked? csapat.}
+{4315}{}{Egy rabszolga-keresked?ket tÃ¡madÃ³ jÃ¡r?rcsapat.}
+{4316}{}{Egy aranygekkÃ³kkal harcolÃ³ jÃ¡r?rcsapat.}
+{4317}{}{Egy vad kutyÃ¡kkal harcolÃ³ jÃ¡r?rcsapat.}
+{4318}{}{Egy jÃ¡r?rcsapat.}
+{4319}{}{Egy hidat ?rz? fickÃ³.}
+{4320}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {4350}{}{Toxic waste dump.}
-{4351}{}{Egy magányos kutya.}
+{4351}{}{Egy magÃ¡nyos kutya.}
 {4352}{}{Egy brahmincsorda.}
-{4353}{}{Egy csapat rabszolga-keresked? és néhány kutya.}
-{4354}{}{Néhány fejvadász.}
-{4355}{}{Néhány fejvadász.}
-{4356}{}{Néhány fejvadász.}
-{4357}{}{Néhány fejvadász.}
-{4358}{}{Néhány fejvadász.}
-{4359}{}{Néhány fejvadász.}
-{4360}{}{Néhány fejvadász.}
-{4361}{}{Néhány fejvadász.}
-{4362}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
+{4353}{}{Egy csapat rabszolga-keresked? Ã©s nÃ©hÃ¡ny kutya.}
+{4354}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4355}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4356}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4357}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4358}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4359}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4360}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4361}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4362}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
 {4363}{}{Egy csapat rabszolgakeresked?.}
-{4364}{}{Néhány aranygekkó.}
+{4364}{}{NÃ©hÃ¡ny aranygekkÃ³.}
 {4365}{}{Egy falka vad kutya.}
-{4366}{}{Egy rabszolga-keresked?ket támadó kutyás jár?rcsapat}
-{4367}{}{Egy aranygekkókkal küzd? rabszolga-keresked? csapat.}
-{4368}{}{Egy rabszolga-keresked?ket támadó jár?rcsapat.}
-{4369}{}{Egy aranygekkókkal harcoló jár?rcsapat.}
-{4370}{}{Egy vad kutyákkal harcoló jár?rcsapat.}
-{4371}{}{Egy jár?rcsapat.}
-{4372}{}{Egy bálna maradványai.}
+{4366}{}{Egy rabszolga-keresked?ket tÃ¡madÃ³ kutyÃ¡s jÃ¡r?rcsapat}
+{4367}{}{Egy aranygekkÃ³kkal kÃ¼zd? rabszolga-keresked? csapat.}
+{4368}{}{Egy rabszolga-keresked?ket tÃ¡madÃ³ jÃ¡r?rcsapat.}
+{4369}{}{Egy aranygekkÃ³kkal harcolÃ³ jÃ¡r?rcsapat.}
+{4370}{}{Egy vad kutyÃ¡kkal harcolÃ³ jÃ¡r?rcsapat.}
+{4371}{}{Egy jÃ¡r?rcsapat.}
+{4372}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {4373}{}{Egy hatalmas k?fej.}
-{4374}{}{Egy lezuhant ?rrepül?.}
-{4375}{}{?rz? portál.}
-{4376}{}{Arthur király lovagjai.}
+{4374}{}{Egy lezuhant ?rrepÃ¼l?.}
+{4375}{}{?rz? portÃ¡l.}
+{4376}{}{Arthur kirÃ¡ly lovagjai.}
 {4377}{}{A tin woodsman.}
-{4378}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{4400}{}{Egy csapat nincstelen guberáló.}
-{4401}{}{Néhány guberáló ghoul.}
-{4402}{}{Egy csomó ?rült.}
-{4403}{}{Néhány ?rült ghoul.}
-{4404}{}{Néhány fejvadász.}
-{4405}{}{Néhány fejvadász.}
-{4406}{}{Néhány fejvadász.}
-{4407}{}{Néhány fejvadász.}
-{4408}{}{Néhány fejvadász.}
-{4409}{}{Néhány fejvadász.}
-{4410}{}{Néhány fejvadász.}
-{4411}{}{Néhány fejvadász.}
-{4412}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4413}{}{Néhány gekkó.}
+{4378}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{4400}{}{Egy csapat nincstelen guberÃ¡lÃ³.}
+{4401}{}{NÃ©hÃ¡ny guberÃ¡lÃ³ ghoul.}
+{4402}{}{Egy csomÃ³ ?rÃ¼lt.}
+{4403}{}{NÃ©hÃ¡ny ?rÃ¼lt ghoul.}
+{4404}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4405}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4406}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4407}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4408}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4409}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4410}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4411}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4412}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4413}{}{NÃ©hÃ¡ny gekkÃ³.}
 {4414}{}{Egy falka vad kutya.}
-{4415}{}{Egy radskorpió család.}
-{4416}{}{Egy csomó mutáns disznópatkány.}
-{4417}{}{Egy csapat mutáns patkány.}
-{4418}{}{Néhány nincstelenekkel harcoló ?rült.}
+{4415}{}{Egy radskorpiÃ³ csalÃ¡d.}
+{4416}{}{Egy csomÃ³ mutÃ¡ns disznÃ³patkÃ¡ny.}
+{4417}{}{Egy csapat mutÃ¡ns patkÃ¡ny.}
+{4418}{}{NÃ©hÃ¡ny nincstelenekkel harcolÃ³ ?rÃ¼lt.}
 {4419}{}{Some ghoul scavengers fending off some crazies.}
-{4420}{}{Néhány gekkókat támadó ?rült.}
-{4421}{}{Néhány mutáns patkányokkal hadakozó guberáló ghoul.}
-{4422}{}{Egy hidat ?rz? fickó.}
-{4423}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{4420}{}{NÃ©hÃ¡ny gekkÃ³kat tÃ¡madÃ³ ?rÃ¼lt.}
+{4421}{}{NÃ©hÃ¡ny mutÃ¡ns patkÃ¡nyokkal hadakozÃ³ guberÃ¡lÃ³ ghoul.}
+{4422}{}{Egy hidat ?rz? fickÃ³.}
+{4423}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {4450}{}{Toxic waste dump.}
-{4451}{}{Egy magányos kutya.}
+{4451}{}{Egy magÃ¡nyos kutya.}
 {4452}{}{Egy brahmincsorda.}
-{4453}{}{Egy csapat nincstelen guberáló.}
-{4454}{}{Néhány fejvadász.}
-{4455}{}{Néhány fejvadász.}
-{4456}{}{Néhány fejvadász.}
-{4457}{}{Néhány fejvadász.}
-{4458}{}{Néhány fejvadász.}
-{4459}{}{Néhány fejvadász.}
-{4460}{}{Néhány fejvadász.}
-{4461}{}{Néhány fejvadász.}
-{4462}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4463}{}{Néhány guberáló ghoul.}
-{4464}{}{Egy csomó ?rült.}
-{4465}{}{Néhány ?rült ghoul.}
-{4466}{}{Néhány gekkó.}
+{4453}{}{Egy csapat nincstelen guberÃ¡lÃ³.}
+{4454}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4455}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4456}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4457}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4458}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4459}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4460}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4461}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4462}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4463}{}{NÃ©hÃ¡ny guberÃ¡lÃ³ ghoul.}
+{4464}{}{Egy csomÃ³ ?rÃ¼lt.}
+{4465}{}{NÃ©hÃ¡ny ?rÃ¼lt ghoul.}
+{4466}{}{NÃ©hÃ¡ny gekkÃ³.}
 {4467}{}{Egy falka vad kutya.}
-{4468}{}{Egy radskorpió család.}
-{4469}{}{Egy csomó mutáns disznópatkány.}
-{4470}{}{Egy csapat mutáns patkány.}
-{4471}{}{Néhány nincstelenekkel harcoló ?rült.}
-{4472}{}{Néhány guberáló ghoulokkal csatázó ?rült.}
-{4473}{}{Néhány gekkókat támadó ?rült.}
-{4474}{}{Néhány mutáns patkányokkal hadakozó guberáló ghoul.}
-{4475}{}{Egy bálna maradványai.}
+{4468}{}{Egy radskorpiÃ³ csalÃ¡d.}
+{4469}{}{Egy csomÃ³ mutÃ¡ns disznÃ³patkÃ¡ny.}
+{4470}{}{Egy csapat mutÃ¡ns patkÃ¡ny.}
+{4471}{}{NÃ©hÃ¡ny nincstelenekkel harcolÃ³ ?rÃ¼lt.}
+{4472}{}{NÃ©hÃ¡ny guberÃ¡lÃ³ ghoulokkal csatÃ¡zÃ³ ?rÃ¼lt.}
+{4473}{}{NÃ©hÃ¡ny gekkÃ³kat tÃ¡madÃ³ ?rÃ¼lt.}
+{4474}{}{NÃ©hÃ¡ny mutÃ¡ns patkÃ¡nyokkal hadakozÃ³ guberÃ¡lÃ³ ghoul.}
+{4475}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {4476}{}{Egy hatalmas k?fej.}
-{4477}{}{Egy lezuhant ?rrepül?.}
-{4478}{}{?rz? portál.}
-{4479}{}{Arthur király lovagjai.}
+{4477}{}{Egy lezuhant ?rrepÃ¼l?.}
+{4478}{}{?rz? portÃ¡l.}
+{4479}{}{Arthur kirÃ¡ly lovagjai.}
 {4480}{}{A tin woodsman.}
-{4481}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{4500}{}{Néhány kannibál.}
-{4501}{}{Néhány nomád.}
+{4481}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{4500}{}{NÃ©hÃ¡ny kannibÃ¡l.}
+{4501}{}{NÃ©hÃ¡ny nomÃ¡d.}
 {4502}{}{Egy csapat harcos}
-{4503}{}{Néhány szám?zött.}
-{4504}{}{Néhány fejvadász.}
-{4505}{}{Néhány fejvadász.}
-{4506}{}{Néhány fejvadász.}
-{4507}{}{Néhány fejvadász.}
-{4508}{}{Néhány fejvadász.}
-{4509}{}{Néhány fejvadász.}
-{4510}{}{Néhány fejvadász.}
-{4511}{}{Néhány fejvadász.}
-{4512}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4513}{}{Egy radskorpió család.}
-{4514}{}{Néhány vakondpatkány.}
-{4515}{}{Néhány kannibálokkal harcoló halász.}
-{4516}{}{Néhány kannibálokkal harcoló nomád.}
-{4517}{}{Néhány radskorpiókkal küzd? nomád.}
-{4518}{}{Néhány halász.}
+{4503}{}{NÃ©hÃ¡ny szÃ¡m?zÃ¶tt.}
+{4504}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4505}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4506}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4507}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4508}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4509}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4510}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4511}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4512}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4513}{}{Egy radskorpiÃ³ csalÃ¡d.}
+{4514}{}{NÃ©hÃ¡ny vakondpatkÃ¡ny.}
+{4515}{}{NÃ©hÃ¡ny kannibÃ¡lokkal harcolÃ³ halÃ¡sz.}
+{4516}{}{NÃ©hÃ¡ny kannibÃ¡lokkal harcolÃ³ nomÃ¡d.}
+{4517}{}{NÃ©hÃ¡ny radskorpiÃ³kkal kÃ¼zd? nomÃ¡d.}
+{4518}{}{NÃ©hÃ¡ny halÃ¡sz.}
 {4550}{}{Toxic waste dump.}
-{4551}{}{Egy magányos kutya.}
+{4551}{}{Egy magÃ¡nyos kutya.}
 {4552}{}{Egy brahmincsorda.}
-{4553}{}{Néhány kannibál.}
-{4554}{}{Néhány fejvadász.}
-{4555}{}{Néhány fejvadász.}
-{4556}{}{Néhány fejvadász.}
-{4557}{}{Néhány fejvadász.}
-{4558}{}{Néhány fejvadász.}
-{4559}{}{Néhány fejvadász.}
-{4560}{}{Néhány fejvadász.}
-{4561}{}{Néhány fejvadász.}
-{4562}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4563}{}{Néhány szám?zött.}
-{4564}{}{Néhány nomád.}
+{4553}{}{NÃ©hÃ¡ny kannibÃ¡l.}
+{4554}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4555}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4556}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4557}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4558}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4559}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4560}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4561}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4562}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4563}{}{NÃ©hÃ¡ny szÃ¡m?zÃ¶tt.}
+{4564}{}{NÃ©hÃ¡ny nomÃ¡d.}
 {4565}{}{Egy csapat harcos}
-{4566}{}{Néhány gekkó elbújt néhány húsev? növény között.}
-{4567}{}{Néhány gekkó és néhány radskorpió.}
-{4568}{}{Néhány gekkó.}
-{4569}{}{Néhány radskorpió jónéhány húsev? növény között.}
-{4570}{}{Néhány radskorpió.}
-{4571}{}{Néhány gekkókkal harcoló szám?zött.}
-{4572}{}{Néhány gekkókkal harcoló nomád.}
-{4573}{}{Néhány radskorpiókkal harcoló kannibál.}
-{4574}{}{Egy radskorpiókkal küzd? remete.}
+{4566}{}{NÃ©hÃ¡ny gekkÃ³ elbÃºjt nÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny kÃ¶zÃ¶tt.}
+{4567}{}{NÃ©hÃ¡ny gekkÃ³ Ã©s nÃ©hÃ¡ny radskorpiÃ³.}
+{4568}{}{NÃ©hÃ¡ny gekkÃ³.}
+{4569}{}{NÃ©hÃ¡ny radskorpiÃ³ jÃ³nÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny kÃ¶zÃ¶tt.}
+{4570}{}{NÃ©hÃ¡ny radskorpiÃ³.}
+{4571}{}{NÃ©hÃ¡ny gekkÃ³kkal harcolÃ³ szÃ¡m?zÃ¶tt.}
+{4572}{}{NÃ©hÃ¡ny gekkÃ³kkal harcolÃ³ nomÃ¡d.}
+{4573}{}{NÃ©hÃ¡ny radskorpiÃ³kkal harcolÃ³ kannibÃ¡l.}
+{4574}{}{Egy radskorpiÃ³kkal kÃ¼zd? remete.}
 {4575}{}{Egy remete.}
-{4576}{}{Egy bálna maradványai.}
+{4576}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {4577}{}{Egy hatalmas k?fej.}
-{4578}{}{Egy lezuhant ?rrepül?.}
-{4579}{}{?rz? portál.}
-{4580}{}{Arthur király lovagjai.}
+{4578}{}{Egy lezuhant ?rrepÃ¼l?.}
+{4579}{}{?rz? portÃ¡l.}
+{4580}{}{Arthur kirÃ¡ly lovagjai.}
 {4581}{}{A tin woodsman.}
-{4582}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{4600}{}{Néhány kannibál.}
-{4601}{}{Néhány szám?zött.}
-{4602}{}{Néhány nomád.}
+{4582}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{4600}{}{NÃ©hÃ¡ny kannibÃ¡l.}
+{4601}{}{NÃ©hÃ¡ny szÃ¡m?zÃ¶tt.}
+{4602}{}{NÃ©hÃ¡ny nomÃ¡d.}
 {4603}{}{Egy csapat harcos}
-{4604}{}{Néhány fejvadász.}
-{4605}{}{Néhány fejvadász.}
-{4606}{}{Néhány fejvadász.}
-{4607}{}{Néhány fejvadász.}
-{4608}{}{Néhány fejvadász.}
-{4609}{}{Néhány fejvadász.}
-{4610}{}{Néhány fejvadász.}
-{4611}{}{Néhány fejvadász.}
-{4612}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4613}{}{Néhány gekkó elbújt néhány húsev? növény között.}
-{4614}{}{Néhány gekkó és néhány radskorpió.}
-{4615}{}{Néhány gekkó.}
-{4616}{}{Néhány radskorpió jónéhány húsev? növény között.}
-{4617}{}{Néhány radskorpió.}
-{4618}{}{Néhány gekkókkal harcoló szám?zött.}
-{4619}{}{Néhány gekkókkal harcoló nomád.}
-{4620}{}{Néhány radskorpiókkal harcoló kannibál.}
-{4621}{}{Egy radskorpiókkal küzd? remete.}
+{4604}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4605}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4606}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4607}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4608}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4609}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4610}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4611}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4612}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4613}{}{NÃ©hÃ¡ny gekkÃ³ elbÃºjt nÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny kÃ¶zÃ¶tt.}
+{4614}{}{NÃ©hÃ¡ny gekkÃ³ Ã©s nÃ©hÃ¡ny radskorpiÃ³.}
+{4615}{}{NÃ©hÃ¡ny gekkÃ³.}
+{4616}{}{NÃ©hÃ¡ny radskorpiÃ³ jÃ³nÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny kÃ¶zÃ¶tt.}
+{4617}{}{NÃ©hÃ¡ny radskorpiÃ³.}
+{4618}{}{NÃ©hÃ¡ny gekkÃ³kkal harcolÃ³ szÃ¡m?zÃ¶tt.}
+{4619}{}{NÃ©hÃ¡ny gekkÃ³kkal harcolÃ³ nomÃ¡d.}
+{4620}{}{NÃ©hÃ¡ny radskorpiÃ³kkal harcolÃ³ kannibÃ¡l.}
+{4621}{}{Egy radskorpiÃ³kkal kÃ¼zd? remete.}
 {4622}{}{Egy remete.}
-{4623}{}{Egy hidat ?rz? fickó.}
-{4624}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{4623}{}{Egy hidat ?rz? fickÃ³.}
+{4624}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {4650}{}{Toxic waste dump.}
-{4651}{}{Egy magányos kutya.}
+{4651}{}{Egy magÃ¡nyos kutya.}
 {4652}{}{Egy brahmincsorda.}
-{4653}{}{Egy karaván Rejtekb?l.}
-{4654}{}{Néhány fejvadász.}
-{4655}{}{Néhány fejvadász.}
-{4656}{}{Néhány fejvadász.}
-{4657}{}{Néhány fejvadász.}
-{4658}{}{Néhány fejvadász.}
-{4659}{}{Néhány fejvadász.}
-{4660}{}{Néhány fejvadász.}
-{4661}{}{Néhány fejvadász.}
-{4662}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4663}{}{Néhány útonálló és rabló.}
-{4664}{}{Néhány útonálló.}
-{4665}{}{Néhány rabló.}
-{4666}{}{Egy reddingi karavánt támadó útonálló banda.}
-{4667}{}{Egy New Reno-i karavánt támadó rablóbanda.}
-{4668}{}{Egy rejteki karavánra támadó útonálló csapat.}
-{4669}{}{Egy karavánra támadó rablóbanda.}
-{4670}{}{Egy menedékvárosi karavánra támadó másik karaván Rejtekb?l.}
-{4671}{}{Néhány útonállókkal csatázó rabló.}
-{4672}{}{Egy karaván Menedékvárosból.}
-{4673}{}{Egy karaván Rejtekb?l.}
-{4674}{}{Egy bálna maradványai.}
+{4653}{}{Egy karavÃ¡n Rejtekb?l.}
+{4654}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4655}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4656}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4657}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4658}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4659}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4660}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4661}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4662}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4663}{}{NÃ©hÃ¡ny ÃºtonÃ¡llÃ³ Ã©s rablÃ³.}
+{4664}{}{NÃ©hÃ¡ny ÃºtonÃ¡llÃ³.}
+{4665}{}{NÃ©hÃ¡ny rablÃ³.}
+{4666}{}{Egy reddingi karavÃ¡nt tÃ¡madÃ³ ÃºtonÃ¡llÃ³ banda.}
+{4667}{}{Egy New Reno-i karavÃ¡nt tÃ¡madÃ³ rablÃ³banda.}
+{4668}{}{Egy rejteki karavÃ¡nra tÃ¡madÃ³ ÃºtonÃ¡llÃ³ csapat.}
+{4669}{}{Egy karavÃ¡nra tÃ¡madÃ³ rablÃ³banda.}
+{4670}{}{Egy menedÃ©kvÃ¡rosi karavÃ¡nra tÃ¡madÃ³ mÃ¡sik karavÃ¡n Rejtekb?l.}
+{4671}{}{NÃ©hÃ¡ny ÃºtonÃ¡llÃ³kkal csatÃ¡zÃ³ rablÃ³.}
+{4672}{}{Egy karavÃ¡n MenedÃ©kvÃ¡rosbÃ³l.}
+{4673}{}{Egy karavÃ¡n Rejtekb?l.}
+{4674}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {4675}{}{Egy hatalmas k?fej.}
-{4676}{}{Egy lezuhant ?rrepül?.}
-{4677}{}{?rz? portál.}
-{4678}{}{Arthur király lovagjai.}
+{4676}{}{Egy lezuhant ?rrepÃ¼l?.}
+{4677}{}{?rz? portÃ¡l.}
+{4678}{}{Arthur kirÃ¡ly lovagjai.}
 {4679}{}{A tin woodsman.}
-{4680}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{4700}{}{Egy karaván Rejtekb?l.}
-{4701}{}{Néhány útonálló és rabló.}
-{4702}{}{Néhány útonálló.}
-{4703}{}{Néhány rabló.}
-{4704}{}{Néhány fejvadász.}
-{4705}{}{Néhány fejvadász.}
-{4706}{}{Néhány fejvadász.}
-{4707}{}{Néhány fejvadász.}
-{4708}{}{Néhány fejvadász.}
-{4709}{}{Néhány fejvadász.}
-{4710}{}{Néhány fejvadász.}
-{4711}{}{Néhány fejvadász.}
-{4712}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4713}{}{Egy reddingi karavánt támadó útonálló banda.}
-{4714}{}{Egy New Reno-i karavánt támadó rablóbanda.}
-{4715}{}{Egy rejteki karavánra támadó útonálló csapat.}
-{4716}{}{Egy karavánra támadó rablóbanda.}
-{4717}{}{Egy menedékvárosi karavánra támadó másik karaván Rejtekb?l.}
-{4718}{}{Néhány útonállókkal csatázó rabló.}
-{4719}{}{Egy karaván Menedékvárosból.}
-{4720}{}{Egy karaván Rejtekb?l.}
-{4721}{}{Egy hidat ?rz? fickó.}
-{4722}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{4680}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{4700}{}{Egy karavÃ¡n Rejtekb?l.}
+{4701}{}{NÃ©hÃ¡ny ÃºtonÃ¡llÃ³ Ã©s rablÃ³.}
+{4702}{}{NÃ©hÃ¡ny ÃºtonÃ¡llÃ³.}
+{4703}{}{NÃ©hÃ¡ny rablÃ³.}
+{4704}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4705}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4706}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4707}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4708}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4709}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4710}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4711}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4712}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4713}{}{Egy reddingi karavÃ¡nt tÃ¡madÃ³ ÃºtonÃ¡llÃ³ banda.}
+{4714}{}{Egy New Reno-i karavÃ¡nt tÃ¡madÃ³ rablÃ³banda.}
+{4715}{}{Egy rejteki karavÃ¡nra tÃ¡madÃ³ ÃºtonÃ¡llÃ³ csapat.}
+{4716}{}{Egy karavÃ¡nra tÃ¡madÃ³ rablÃ³banda.}
+{4717}{}{Egy menedÃ©kvÃ¡rosi karavÃ¡nra tÃ¡madÃ³ mÃ¡sik karavÃ¡n Rejtekb?l.}
+{4718}{}{NÃ©hÃ¡ny ÃºtonÃ¡llÃ³kkal csatÃ¡zÃ³ rablÃ³.}
+{4719}{}{Egy karavÃ¡n MenedÃ©kvÃ¡rosbÃ³l.}
+{4720}{}{Egy karavÃ¡n Rejtekb?l.}
+{4721}{}{Egy hidat ?rz? fickÃ³.}
+{4722}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {4750}{}{Toxic waste dump.}
-{4751}{}{Egy magányos kutya.}
+{4751}{}{Egy magÃ¡nyos kutya.}
 {4752}{}{Egy brahmincsorda.}
-{4753}{}{Néhány gekkó és néhány farkas.}
-{4754}{}{Néhány fejvadász.}
-{4755}{}{Néhány fejvadász.}
-{4756}{}{Néhány fejvadász.}
-{4757}{}{Néhány fejvadász.}
-{4758}{}{Néhány fejvadász.}
-{4759}{}{Néhány fejvadász.}
-{4760}{}{Néhány fejvadász.}
-{4761}{}{Néhány fejvadász.}
-{4762}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4763}{}{Néhány földbitorló.}
-{4764}{}{Néhány farkas.}
-{4765}{}{Néhány aranygekkó.}
-{4766}{}{Néhány földmér?kkel összekülönb?z? földbitorló.}
+{4753}{}{NÃ©hÃ¡ny gekkÃ³ Ã©s nÃ©hÃ¡ny farkas.}
+{4754}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4755}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4756}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4757}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4758}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4759}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4760}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4761}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4762}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4763}{}{NÃ©hÃ¡ny fÃ¶ldbitorlÃ³.}
+{4764}{}{NÃ©hÃ¡ny farkas.}
+{4765}{}{NÃ©hÃ¡ny aranygekkÃ³.}
+{4766}{}{NÃ©hÃ¡ny fÃ¶ldmÃ©r?kkel Ã¶sszekÃ¼lÃ¶nb?z? fÃ¶ldbitorlÃ³.}
 {4767}{}{Some trappers fighting some Golden geckos.}
-{4768}{}{Néhány farkasokkal harcoló szeszcsempész.}
-{4769}{}{Néhány földbitorlókkal harcoló telepes.}
-{4770}{}{Néhány farkasokkal küzd? telepes.}
-{4771}{}{Néhány szeszcsempész.}
-{4772}{}{Néhány prémvadász.}
-{4773}{}{Néhány földmér?.}
-{4774}{}{Egy bálna maradványai.}
+{4768}{}{NÃ©hÃ¡ny farkasokkal harcolÃ³ szeszcsempÃ©sz.}
+{4769}{}{NÃ©hÃ¡ny fÃ¶ldbitorlÃ³kkal harcolÃ³ telepes.}
+{4770}{}{NÃ©hÃ¡ny farkasokkal kÃ¼zd? telepes.}
+{4771}{}{NÃ©hÃ¡ny szeszcsempÃ©sz.}
+{4772}{}{NÃ©hÃ¡ny prÃ©mvadÃ¡sz.}
+{4773}{}{NÃ©hÃ¡ny fÃ¶ldmÃ©r?.}
+{4774}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {4775}{}{Egy hatalmas k?fej.}
-{4776}{}{Egy lezuhant ?rrepül?.}
-{4777}{}{?rz? portál.}
-{4778}{}{Arthur király lovagjai.}
+{4776}{}{Egy lezuhant ?rrepÃ¼l?.}
+{4777}{}{?rz? portÃ¡l.}
+{4778}{}{Arthur kirÃ¡ly lovagjai.}
 {4779}{}{A tin woodsman.}
-{4780}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
+{4780}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
 {4800}{}{Some golden geckos and some wolves.}
-{4801}{}{Néhány földbitorló.}
-{4802}{}{Néhány farkas.}
-{4803}{}{Néhány aranygekkó.}
-{4804}{}{Néhány fejvadász.}
-{4805}{}{Néhány fejvadász.}
-{4806}{}{Néhány fejvadász.}
-{4807}{}{Néhány fejvadász.}
-{4808}{}{Néhány fejvadász.}
-{4809}{}{Néhány fejvadász.}
-{4810}{}{Néhány fejvadász.}
-{4811}{}{Néhány fejvadász.}
-{4812}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4813}{}{Néhány földmér?kkel összekülönb?z? földbitorló.}
+{4801}{}{NÃ©hÃ¡ny fÃ¶ldbitorlÃ³.}
+{4802}{}{NÃ©hÃ¡ny farkas.}
+{4803}{}{NÃ©hÃ¡ny aranygekkÃ³.}
+{4804}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4805}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4806}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4807}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4808}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4809}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4810}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4811}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4812}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4813}{}{NÃ©hÃ¡ny fÃ¶ldmÃ©r?kkel Ã¶sszekÃ¼lÃ¶nb?z? fÃ¶ldbitorlÃ³.}
 {4814}{}{Some trappers fighting some golden geckos.}
-{4815}{}{Néhány farkasokkal harcoló szeszcsempész.}
-{4816}{}{Néhány földbitorlókkal harcoló telepes.}
-{4817}{}{Néhány farkasokkal küzd? telepes.}
-{4818}{}{Néhány szeszcsempész.}
-{4819}{}{Néhány prémvadász.}
-{4820}{}{Néhány földmér?.}
-{4821}{}{Egy hidat ?rz? fickó.}
-{4822}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-{4850}{}{Egy farkasfalka és néhány vakondpatkány.}
-{4851}{}{Néhány radskorpió és Egy farkasfalka.}
+{4815}{}{NÃ©hÃ¡ny farkasokkal harcolÃ³ szeszcsempÃ©sz.}
+{4816}{}{NÃ©hÃ¡ny fÃ¶ldbitorlÃ³kkal harcolÃ³ telepes.}
+{4817}{}{NÃ©hÃ¡ny farkasokkal kÃ¼zd? telepes.}
+{4818}{}{NÃ©hÃ¡ny szeszcsempÃ©sz.}
+{4819}{}{NÃ©hÃ¡ny prÃ©mvadÃ¡sz.}
+{4820}{}{NÃ©hÃ¡ny fÃ¶ldmÃ©r?.}
+{4821}{}{Egy hidat ?rz? fickÃ³.}
+{4822}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
+{4850}{}{Egy farkasfalka Ã©s nÃ©hÃ¡ny vakondpatkÃ¡ny.}
+{4851}{}{NÃ©hÃ¡ny radskorpiÃ³ Ã©s Egy farkasfalka.}
 {4852}{}{Some mutated molerats and some radscorpions.}
-{4853}{}{Egy csoport aranygekkó.}
-{4854}{}{Néhány fejvadász.}
-{4855}{}{Néhány fejvadász.}
-{4856}{}{Néhány fejvadász.}
-{4857}{}{Néhány fejvadász.}
-{4858}{}{Néhány fejvadász.}
-{4859}{}{Néhány fejvadász.}
-{4860}{}{Néhány fejvadász.}
-{4861}{}{Néhány fejvadász.}
-{4862}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
+{4853}{}{Egy csoport aranygekkÃ³.}
+{4854}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4855}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4856}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4857}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4858}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4859}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4860}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4861}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4862}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
 {4863}{}{Egy farkasfalka.}
-{4864}{}{Jónéhány mutáns vakondpatkány.}
-{4865}{}{Néhány radskorpió}
+{4864}{}{JÃ³nÃ©hÃ¡ny mutÃ¡ns vakondpatkÃ¡ny.}
+{4865}{}{NÃ©hÃ¡ny radskorpiÃ³}
 {4866}{}{A pack of wolves and some golden geckos.}
 {4867}{}{Some mutated molerats fighting some golden geckos.}
-{4868}{}{Néhány radskórpiókkal harcoló mutáns vakondpatkány.}
-{4869}{}{Egy hidat ?rz? fickó.}
-{4870}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-{4900}{}{Egy csapat fosztogató.}
-{4901}{}{Néhány farkas.}
-{4902}{}{Egy karavánt támadó fosztogató csapat.}
-{4903}{}{Egy karavánt támadó fosztogató csapat.}
-{4904}{}{Néhány fejvadász.}
-{4905}{}{Néhány fejvadász.}
-{4906}{}{Néhány fejvadász.}
-{4907}{}{Néhány fejvadász.}
-{4908}{}{Néhány fejvadász.}
-{4909}{}{Néhány fejvadász.}
-{4910}{}{Néhány fejvadász.}
-{4911}{}{Néhány fejvadász.}
-{4912}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4913}{}{Egy karavánt támadó fosztogató csapat.}
-{4914}{}{Egy karavánt támadó fosztogató csapat.}
-{4915}{}{Egy karaván.}
-{4916}{}{Egy karaván.}
-{4917}{}{Egy karaván.}
-{4918}{}{Egy karaván.}
-{4919}{}{Egy hidat ?rz? fickó.}
-{4920}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{4868}{}{NÃ©hÃ¡ny radskÃ³rpiÃ³kkal harcolÃ³ mutÃ¡ns vakondpatkÃ¡ny.}
+{4869}{}{Egy hidat ?rz? fickÃ³.}
+{4870}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
+{4900}{}{Egy csapat fosztogatÃ³.}
+{4901}{}{NÃ©hÃ¡ny farkas.}
+{4902}{}{Egy karavÃ¡nt tÃ¡madÃ³ fosztogatÃ³ csapat.}
+{4903}{}{Egy karavÃ¡nt tÃ¡madÃ³ fosztogatÃ³ csapat.}
+{4904}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4905}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4906}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4907}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4908}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4909}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4910}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4911}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4912}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4913}{}{Egy karavÃ¡nt tÃ¡madÃ³ fosztogatÃ³ csapat.}
+{4914}{}{Egy karavÃ¡nt tÃ¡madÃ³ fosztogatÃ³ csapat.}
+{4915}{}{Egy karavÃ¡n.}
+{4916}{}{Egy karavÃ¡n.}
+{4917}{}{Egy karavÃ¡n.}
+{4918}{}{Egy karavÃ¡n.}
+{4919}{}{Egy hidat ?rz? fickÃ³.}
+{4920}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {4921}{}{A band of angry raiders.}
 {4950}{}{Toxic waste dump.}
-{4951}{}{Egy magányos kutya.}
+{4951}{}{Egy magÃ¡nyos kutya.}
 {4952}{}{Egy brahmincsorda.}
-{4953}{}{Egy csapat fosztogató.}
-{4954}{}{Néhány fejvadász.}
-{4955}{}{Néhány fejvadász.}
-{4956}{}{Néhány fejvadász.}
-{4957}{}{Néhány fejvadász.}
-{4958}{}{Néhány fejvadász.}
-{4959}{}{Néhány fejvadász.}
-{4960}{}{Néhány fejvadász.}
-{4961}{}{Néhány fejvadász.}
-{4962}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{4963}{}{Néhány farkas.}
-{4964}{}{Egy karavánt támadó fosztogató csapat.}
-{4965}{}{Egy karavánt támadó fosztogató csapat.}
-{4966}{}{Egy karavánt támadó fosztogató csapat.}
-{4967}{}{Egy karavánt támadó fosztogató csapat.}
-{4968}{}{Egy karaván.}
-{4969}{}{Egy karaván.}
-{4970}{}{Egy karaván.}
-{4971}{}{Egy karaván.}
-{4972}{}{Egy bálna maradványai.}
+{4953}{}{Egy csapat fosztogatÃ³.}
+{4954}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4955}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4956}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4957}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4958}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4959}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4960}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4961}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{4962}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{4963}{}{NÃ©hÃ¡ny farkas.}
+{4964}{}{Egy karavÃ¡nt tÃ¡madÃ³ fosztogatÃ³ csapat.}
+{4965}{}{Egy karavÃ¡nt tÃ¡madÃ³ fosztogatÃ³ csapat.}
+{4966}{}{Egy karavÃ¡nt tÃ¡madÃ³ fosztogatÃ³ csapat.}
+{4967}{}{Egy karavÃ¡nt tÃ¡madÃ³ fosztogatÃ³ csapat.}
+{4968}{}{Egy karavÃ¡n.}
+{4969}{}{Egy karavÃ¡n.}
+{4970}{}{Egy karavÃ¡n.}
+{4971}{}{Egy karavÃ¡n.}
+{4972}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {4973}{}{Egy hatalmas k?fej.}
-{4974}{}{Egy lezuhant ?rrepül?.}
-{4975}{}{?rz? portál.}
-{4976}{}{Arthur király lovagjai.}
+{4974}{}{Egy lezuhant ?rrepÃ¼l?.}
+{4975}{}{?rz? portÃ¡l.}
+{4976}{}{Arthur kirÃ¡ly lovagjai.}
 {4977}{}{A tin woodsman.}
-{4978}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
+{4978}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
 {4979}{}{A band of angry raiders.}
-{5000}{}{Egy csapat fosztogató néhány farkassal.}
-{5001}{}{Néhány húsev? növény és néhány farkas.}
-{5002}{}{Egy csapat fosztogató.}
+{5000}{}{Egy csapat fosztogatÃ³ nÃ©hÃ¡ny farkassal.}
+{5001}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny Ã©s nÃ©hÃ¡ny farkas.}
+{5002}{}{Egy csapat fosztogatÃ³.}
 {5003}{}{Egy farkasfalka.}
-{5004}{}{Néhány fejvadász.}
-{5005}{}{Néhány fejvadász.}
-{5006}{}{Néhány fejvadász.}
-{5007}{}{Néhány fejvadász.}
-{5008}{}{Néhány fejvadász.}
-{5009}{}{Néhány fejvadász.}
-{5010}{}{Néhány fejvadász.}
-{5011}{}{Néhány fejvadász.}
-{5012}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5013}{}{Egy csapat radskorpió.}
-{5014}{}{Néhány farkasokkal táncoló fosztogató.}
-{5015}{}{Egy hidat ?rz? fickó.}
-{5016}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{5004}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5005}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5006}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5007}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5008}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5009}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5010}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5011}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5012}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5013}{}{Egy csapat radskorpiÃ³.}
+{5014}{}{NÃ©hÃ¡ny farkasokkal tÃ¡ncolÃ³ fosztogatÃ³.}
+{5015}{}{Egy hidat ?rz? fickÃ³.}
+{5016}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {5017}{}{A band of angry raiders.}
 {5050}{}{Toxic waste dump.}
-{5051}{}{Egy magányos kutya.}
+{5051}{}{Egy magÃ¡nyos kutya.}
 {5052}{}{Egy brahmincsorda.}
-{5053}{}{Egy csapat fosztogató néhány farkassal.}
-{5054}{}{Néhány fejvadász.}
-{5055}{}{Néhány fejvadász.}
-{5056}{}{Néhány fejvadász.}
-{5057}{}{Néhány fejvadász.}
-{5058}{}{Néhány fejvadász.}
-{5059}{}{Néhány fejvadász.}
-{5060}{}{Néhány fejvadász.}
-{5061}{}{Néhány fejvadász.}
-{5062}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5063}{}{Néhány húsev? növény és néhány farkas.}
-{5064}{}{Egy csapat fosztogató.}
+{5053}{}{Egy csapat fosztogatÃ³ nÃ©hÃ¡ny farkassal.}
+{5054}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5055}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5056}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5057}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5058}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5059}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5060}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5061}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5062}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5063}{}{NÃ©hÃ¡ny hÃºsev? nÃ¶vÃ©ny Ã©s nÃ©hÃ¡ny farkas.}
+{5064}{}{Egy csapat fosztogatÃ³.}
 {5065}{}{Egy farkasfalka.}
-{5066}{}{Egy csapat radskorpió.}
-{5067}{}{Néhány farkasokkal táncoló fosztogató.}
-{5068}{}{Egy bálna maradványai.}
+{5066}{}{Egy csapat radskorpiÃ³.}
+{5067}{}{NÃ©hÃ¡ny farkasokkal tÃ¡ncolÃ³ fosztogatÃ³.}
+{5068}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {5069}{}{Egy hatalmas k?fej.}
-{5070}{}{Egy lezuhant ?rrepül?.}
-{5071}{}{?rz? portál.}
-{5072}{}{Arthur király lovagjai.}
+{5070}{}{Egy lezuhant ?rrepÃ¼l?.}
+{5071}{}{?rz? portÃ¡l.}
+{5072}{}{Arthur kirÃ¡ly lovagjai.}
 {5073}{}{A tin woodsman.}
-{5074}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
+{5074}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
 {5075}{}{A band of angry raiders.}
 {5100}{}{Toxic waste dump.}
-{5101}{}{Egy magányos kutya.}
+{5101}{}{Egy magÃ¡nyos kutya.}
 {5102}{}{Egy brahmincsorda.}
-{5103}{}{Egy Enklávé ?rjárat.}
-{5104}{}{Néhány fejvadász.}
-{5105}{}{Néhány fejvadász.}
-{5106}{}{Néhány fejvadász.}
-{5107}{}{Néhány fejvadász.}
-{5108}{}{Néhány fejvadász.}
-{5109}{}{Néhány fejvadász.}
-{5110}{}{Néhány fejvadász.}
-{5111}{}{Néhány fejvadász.}
-{5112}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5113}{}{Egy bálna maradványai.}
+{5103}{}{Egy EnklÃ¡vÃ© ?rjÃ¡rat.}
+{5104}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5105}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5106}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5107}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5108}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5109}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5110}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5111}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5112}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5113}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {5114}{}{Egy hatalmas k?fej.}
-{5115}{}{Egy lezuhant ?rrepül?.}
-{5116}{}{?rz? portál.}
-{5117}{}{Arthur király lovagjai.}
+{5115}{}{Egy lezuhant ?rrepÃ¼l?.}
+{5116}{}{?rz? portÃ¡l.}
+{5117}{}{Arthur kirÃ¡ly lovagjai.}
 {5118}{}{A tin woodsman.}
-{5119}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{5120}{}{Meghiúsult Álmok Kávézója.}
-{5150}{}{Egy Enklávé ?rjárat.}
-{5151}{}{Néhány fejvadász.}
-{5152}{}{Néhány fejvadász.}
-{5153}{}{Néhány fejvadász.}
-{5154}{}{Néhány fejvadász.}
-{5155}{}{Néhány fejvadász.}
-{5156}{}{Néhány fejvadász.}
-{5157}{}{Néhány fejvadász.}
-{5158}{}{Néhány fejvadász.}
-{5159}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5160}{}{Egy hidat ?rz? fickó.}
-{5161}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-{5200}{}{Egy Enklávé ?rjárat.}
-{5201}{}{Néhány fejvadász.}
-{5202}{}{Néhány fejvadász.}
-{5203}{}{Néhány fejvadász.}
-{5204}{}{Néhány fejvadász.}
-{5205}{}{Néhány fejvadász.}
-{5206}{}{Néhány fejvadász.}
-{5207}{}{Néhány fejvadász.}
-{5208}{}{Néhány fejvadász.}
-{5209}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
+{5119}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{5120}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}
+{5150}{}{Egy EnklÃ¡vÃ© ?rjÃ¡rat.}
+{5151}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5152}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5153}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5154}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5155}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5156}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5157}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5158}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5159}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5160}{}{Egy hidat ?rz? fickÃ³.}
+{5161}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
+{5200}{}{Egy EnklÃ¡vÃ© ?rjÃ¡rat.}
+{5201}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5202}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5203}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5204}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5205}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5206}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5207}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5208}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5209}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
 {5250}{}{Toxic waste dump.}
-{5251}{}{Egy magányos kutya.}
+{5251}{}{Egy magÃ¡nyos kutya.}
 {5252}{}{Egy brahmincsorda.}
-{5253}{}{Néhány idegen és néhány halálkarom.}
-{5254}{}{Néhány fejvadász.}
-{5255}{}{Néhány fejvadász.}
-{5256}{}{Néhány fejvadász.}
-{5257}{}{Néhány fejvadász.}
-{5258}{}{Néhány fejvadász.}
-{5259}{}{Néhány fejvadász.}
-{5260}{}{Néhány fejvadász.}
-{5261}{}{Néhány fejvadász.}
-{5262}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5263}{}{Egy seregnyi lebeg? és kentaur.}
-{5264}{}{Néhány t?zgekkó.}
+{5253}{}{NÃ©hÃ¡ny idegen Ã©s nÃ©hÃ¡ny halÃ¡lkarom.}
+{5254}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5255}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5256}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5257}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5258}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5259}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5260}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5261}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5262}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5263}{}{Egy seregnyi lebeg? Ã©s kentaur.}
+{5264}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
 {5265}{}{Nagy csapatnyi idegen.}
-{5266}{}{Néhány halálkarom.}
-{5267}{}{Néhány t?zgekkó.}
-{5268}{}{Néhány idegen.}
+{5266}{}{NÃ©hÃ¡ny halÃ¡lkarom.}
+{5267}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{5268}{}{NÃ©hÃ¡ny idegen.}
 {5269}{}{Egy kentaurfalka.}
-{5270}{}{Egy csomó lebeg?.}
-{5271}{}{Egy bálna maradványai.}
+{5270}{}{Egy csomÃ³ lebeg?.}
+{5271}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {5272}{}{Egy hatalmas k?fej.}
-{5273}{}{Egy lezuhant ?rrepül?.}
-{5274}{}{?rz? portál.}
-{5275}{}{Arthur király lovagjai.}
+{5273}{}{Egy lezuhant ?rrepÃ¼l?.}
+{5274}{}{?rz? portÃ¡l.}
+{5275}{}{Arthur kirÃ¡ly lovagjai.}
 {5276}{}{A tin woodsman.}
-{5277}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{5278}{}{Meghiúsult Álmok Kávézója.}
+{5277}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{5278}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}
 {5279}{}{A gathering of important looking individuals.}
 {5300}{}{Some aliens and deathclaws.}
-{5301}{}{Egy seregnyi lebeg? és kentaur.}
-{5302}{}{Néhány t?zgekkó.}
+{5301}{}{Egy seregnyi lebeg? Ã©s kentaur.}
+{5302}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
 {5303}{}{Nagy csapatnyi idegen.}
-{5304}{}{Néhány fejvadász.}
-{5305}{}{Néhány fejvadász.}
-{5306}{}{Néhány fejvadász.}
-{5307}{}{Néhány fejvadász.}
-{5308}{}{Néhány fejvadász.}
-{5309}{}{Néhány fejvadász.}
-{5310}{}{Néhány fejvadász.}
-{5311}{}{Néhány fejvadász.}
-{5312}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5313}{}{Néhány halálkarom.}
-{5314}{}{Néhány t?zgekkó.}
-{5315}{}{Néhány idegen.}
+{5304}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5305}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5306}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5307}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5308}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5309}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5310}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5311}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5312}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5313}{}{NÃ©hÃ¡ny halÃ¡lkarom.}
+{5314}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{5315}{}{NÃ©hÃ¡ny idegen.}
 {5316}{}{Egy kentaurfalka.}
-{5317}{}{Egy csomó lebeg?.}
-{5318}{}{Egy hidat ?rz? fickó.}
-{5319}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{5317}{}{Egy csomÃ³ lebeg?.}
+{5318}{}{Egy hidat ?rz? fickÃ³.}
+{5319}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {5320}{}{A gathering of important looking individuals.}
 {5350}{}{Some aliens and deathclaws.}
-{5351}{}{Egy seregnyi lebeg? és kentaur.}
-{5352}{}{Néhány t?zgekkó.}
+{5351}{}{Egy seregnyi lebeg? Ã©s kentaur.}
+{5352}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
 {5353}{}{Nagy csapatnyi idegen.}
-{5354}{}{Néhány fejvadász.}
-{5355}{}{Néhány fejvadász.}
-{5356}{}{Néhány fejvadász.}
-{5357}{}{Néhány fejvadász.}
-{5358}{}{Néhány fejvadász.}
-{5359}{}{Néhány fejvadász.}
-{5360}{}{Néhány fejvadász.}
-{5361}{}{Néhány fejvadász.}
-{5362}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5363}{}{Néhány halálkarom.}
-{5364}{}{Néhány t?zgekkó.}
-{5365}{}{Néhány idegen.}
+{5354}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5355}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5356}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5357}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5358}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5359}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5360}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5361}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5362}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5363}{}{NÃ©hÃ¡ny halÃ¡lkarom.}
+{5364}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{5365}{}{NÃ©hÃ¡ny idegen.}
 {5366}{}{Egy kentaurfalka.}
-{5367}{}{Egy csomó lebeg?.}
+{5367}{}{Egy csomÃ³ lebeg?.}
 {5368}{}{A gathering of important looking individuals.}
 {5400}{}{Toxic waste dump.}
-{5401}{}{Egy magányos kutya.}
+{5401}{}{Egy magÃ¡nyos kutya.}
 {5402}{}{Egy brahmincsorda.}
-{5403}{}{Néhány t?zgekkó.}
-{5404}{}{Néhány fejvadász.}
-{5405}{}{Néhány fejvadász.}
-{5406}{}{Néhány fejvadász.}
-{5407}{}{Néhány fejvadász.}
-{5408}{}{Néhány fejvadász.}
-{5409}{}{Néhány fejvadász.}
-{5410}{}{Néhány fejvadász.}
-{5411}{}{Néhány fejvadász.}
-{5412}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5413}{}{Néhány t?zgekkó.}
-{5414}{}{Egy nagy csapat aranygekkó.}
-{5415}{}{Egy bálna maradványai.}
+{5403}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{5404}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5405}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5406}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5407}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5408}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5409}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5410}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5411}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5412}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5413}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{5414}{}{Egy nagy csapat aranygekkÃ³.}
+{5415}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {5416}{}{Egy hatalmas k?fej.}
-{5417}{}{Egy lezuhant ?rrepül?.}
-{5418}{}{?rz? portál.}
-{5419}{}{Arthur király lovagjai.}
+{5417}{}{Egy lezuhant ?rrepÃ¼l?.}
+{5418}{}{?rz? portÃ¡l.}
+{5419}{}{Arthur kirÃ¡ly lovagjai.}
 {5420}{}{A tin woodsman.}
-{5421}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{5422}{}{Meghiúsult Álmok Kávézója.}
+{5421}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{5422}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}
 {5423}{}{A gathering of important looking individuals.}
-{5450}{}{Néhány t?zgekkó.}
-{5451}{}{Néhány t?zgekkó.}
-{5452}{}{Egy nagy csapat aranygekkó.}
-{5453}{}{Néhány fejvadász.}
-{5454}{}{Néhány fejvadász.}
-{5455}{}{Néhány fejvadász.}
-{5456}{}{Néhány fejvadász.}
-{5457}{}{Néhány fejvadász.}
-{5458}{}{Néhány fejvadász.}
-{5459}{}{Néhány fejvadász.}
-{5460}{}{Néhány fejvadász.}
-{5461}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5462}{}{Egy hidat ?rz? fickó.}
-{5463}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{5450}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{5451}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{5452}{}{Egy nagy csapat aranygekkÃ³.}
+{5453}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5454}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5455}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5456}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5457}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5458}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5459}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5460}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5461}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5462}{}{Egy hidat ?rz? fickÃ³.}
+{5463}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {5464}{}{A gathering of important looking individuals.}
-{5500}{}{Néhány t?zgekkó.}
-{5501}{}{Néhány t?zgekkó.}
-{5502}{}{Egy nagy csapat aranygekkó.}
-{5503}{}{Néhány fejvadász.}
-{5504}{}{Néhány fejvadász.}
-{5505}{}{Néhány fejvadász.}
-{5506}{}{Néhány fejvadász.}
-{5507}{}{Néhány fejvadász.}
-{5508}{}{Néhány fejvadász.}
-{5509}{}{Néhány fejvadász.}
-{5510}{}{Néhány fejvadász.}
-{5511}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
+{5500}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{5501}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{5502}{}{Egy nagy csapat aranygekkÃ³.}
+{5503}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5504}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5505}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5506}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5507}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5508}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5509}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5510}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5511}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
 {5512}{}{A gathering of important looking individuals.}
 {5550}{}{Toxic waste dump.}
-{5551}{}{Egy magányos kutya.}
+{5551}{}{Egy magÃ¡nyos kutya.}
 {5552}{}{Egy brahmincsorda.}
-{5553}{}{Egy halálkarom-falka.}
-{5554}{}{Néhány fejvadász.}
-{5555}{}{Néhány fejvadász.}
-{5556}{}{Néhány fejvadász.}
-{5557}{}{Néhány fejvadász.}
-{5558}{}{Néhány fejvadász.}
-{5559}{}{Néhány fejvadász.}
-{5560}{}{Néhány fejvadász.}
-{5561}{}{Néhány fejvadász.}
-{5562}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5563}{}{Néhány t?zgekkó.}
-{5564}{}{Egy halálkarmokkal hadakozó karaván.}
-{5565}{}{Egy halálkarmokkal hadakozó karaván.}
-{5566}{}{Egy t?zkekkókkal harcoló karavánk.}
-{5567}{}{Egy t?zkekkókkal harcoló karavánk.}
-{5568}{}{Egy karaván.}
-{5569}{}{Egy karaván.}
-{5570}{}{Egy karaván.}
-{5571}{}{Egy karaván.}
-{5572}{}{Egy bálna maradványai.}
+{5553}{}{Egy halÃ¡lkarom-falka.}
+{5554}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5555}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5556}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5557}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5558}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5559}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5560}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5561}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5562}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5563}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{5564}{}{Egy halÃ¡lkarmokkal hadakozÃ³ karavÃ¡n.}
+{5565}{}{Egy halÃ¡lkarmokkal hadakozÃ³ karavÃ¡n.}
+{5566}{}{Egy t?zkekkÃ³kkal harcolÃ³ karavÃ¡nk.}
+{5567}{}{Egy t?zkekkÃ³kkal harcolÃ³ karavÃ¡nk.}
+{5568}{}{Egy karavÃ¡n.}
+{5569}{}{Egy karavÃ¡n.}
+{5570}{}{Egy karavÃ¡n.}
+{5571}{}{Egy karavÃ¡n.}
+{5572}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {5573}{}{Egy hatalmas k?fej.}
-{5574}{}{Egy lezuhant ?rrepül?.}
-{5575}{}{?rz? portál.}
-{5576}{}{Arthur király lovagjai.}
+{5574}{}{Egy lezuhant ?rrepÃ¼l?.}
+{5575}{}{?rz? portÃ¡l.}
+{5576}{}{Arthur kirÃ¡ly lovagjai.}
 {5577}{}{A tin woodsman.}
-{5578}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{5600}{}{Egy halálkarom-falka.}
-{5601}{}{Néhány t?zgekkó.}
-{5602}{}{Egy halálkarmokkal hadakozó karaván.}
-{5603}{}{Egy halálkarmokkal hadakozó karaván.}
-{5604}{}{Néhány fejvadász.}
-{5605}{}{Néhány fejvadász.}
-{5606}{}{Néhány fejvadász.}
-{5607}{}{Néhány fejvadász.}
-{5608}{}{Néhány fejvadász.}
-{5609}{}{Néhány fejvadász.}
-{5610}{}{Néhány fejvadász.}
-{5611}{}{Néhány fejvadász.}
-{5612}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5613}{}{Egy t?zkekkókkal harcoló karavánk.}
-{5614}{}{Egy t?zkekkókkal harcoló karavánk.}
-{5615}{}{Egy karaván.}
-{5616}{}{Egy karaván.}
-{5617}{}{Egy karaván.}
-{5618}{}{Egy karaván.}
-{5619}{}{Egy hidat ?rz? fickó.}
-{5620}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{5578}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{5600}{}{Egy halÃ¡lkarom-falka.}
+{5601}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{5602}{}{Egy halÃ¡lkarmokkal hadakozÃ³ karavÃ¡n.}
+{5603}{}{Egy halÃ¡lkarmokkal hadakozÃ³ karavÃ¡n.}
+{5604}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5605}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5606}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5607}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5608}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5609}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5610}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5611}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5612}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5613}{}{Egy t?zkekkÃ³kkal harcolÃ³ karavÃ¡nk.}
+{5614}{}{Egy t?zkekkÃ³kkal harcolÃ³ karavÃ¡nk.}
+{5615}{}{Egy karavÃ¡n.}
+{5616}{}{Egy karavÃ¡n.}
+{5617}{}{Egy karavÃ¡n.}
+{5618}{}{Egy karavÃ¡n.}
+{5619}{}{Egy hidat ?rz? fickÃ³.}
+{5620}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {5650}{}{Toxic waste dump.}
-{5651}{}{Egy magányos kutya.}
+{5651}{}{Egy magÃ¡nyos kutya.}
 {5652}{}{Egy brahmincsorda.}
-{5653}{}{Néhány jakuza.}
-{5654}{}{Néhány fejvadász.}
-{5655}{}{Néhány fejvadász.}
-{5656}{}{Néhány fejvadász.}
-{5657}{}{Néhány fejvadász.}
-{5658}{}{Néhány fejvadász.}
-{5659}{}{Néhány fejvadász.}
-{5660}{}{Néhány fejvadász.}
-{5661}{}{Néhány fejvadász.}
-{5662}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
+{5653}{}{NÃ©hÃ¡ny jakuza.}
+{5654}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5655}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5656}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5657}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5658}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5659}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5660}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5661}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5662}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
 {5663}{}{Egy banda.}
 {5664}{}{Egy farkasfalka.}
-{5665}{}{Néhány gengszterekkel harcoló jakuza.}
-{5666}{}{Egy gengszterekkel harcoló banda.}
-{5667}{}{Néhány gengszter.}
-{5668}{}{Egy utazó.}
-{5669}{}{Egy bálna maradványai.}
+{5665}{}{NÃ©hÃ¡ny gengszterekkel harcolÃ³ jakuza.}
+{5666}{}{Egy gengszterekkel harcolÃ³ banda.}
+{5667}{}{NÃ©hÃ¡ny gengszter.}
+{5668}{}{Egy utazÃ³.}
+{5669}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {5670}{}{Egy hatalmas k?fej.}
-{5671}{}{Egy lezuhant ?rrepül?.}
-{5672}{}{?rz? portál.}
-{5673}{}{Arthur király lovagjai.}
+{5671}{}{Egy lezuhant ?rrepÃ¼l?.}
+{5672}{}{?rz? portÃ¡l.}
+{5673}{}{Arthur kirÃ¡ly lovagjai.}
 {5674}{}{A tin woodsman.}
-{5675}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{5676}{}{Meghiúsult Álmok Kávézója.}
-{5700}{}{Néhány jakuza.}
+{5675}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{5676}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}
+{5700}{}{NÃ©hÃ¡ny jakuza.}
 {5701}{}{Egy banda.}
 {5702}{}{Egy farkasfalka.}
-{5703}{}{Néhány gengszterekkel harcoló jakuza.}
-{5704}{}{Néhány fejvadász.}
-{5705}{}{Néhány fejvadász.}
-{5706}{}{Néhány fejvadász.}
-{5707}{}{Néhány fejvadász.}
-{5708}{}{Néhány fejvadász.}
-{5709}{}{Néhány fejvadász.}
-{5710}{}{Néhány fejvadász.}
-{5711}{}{Néhány fejvadász.}
-{5712}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5713}{}{Egy gengszterekkel harcoló banda.}
-{5714}{}{Néhány gengszter.}
-{5715}{}{Egy utazó.}
-{5716}{}{Egy hidat ?rz? fickó.}
-{5717}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
-{5750}{}{Néhány jakuza.}
+{5703}{}{NÃ©hÃ¡ny gengszterekkel harcolÃ³ jakuza.}
+{5704}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5705}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5706}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5707}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5708}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5709}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5710}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5711}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5712}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5713}{}{Egy gengszterekkel harcolÃ³ banda.}
+{5714}{}{NÃ©hÃ¡ny gengszter.}
+{5715}{}{Egy utazÃ³.}
+{5716}{}{Egy hidat ?rz? fickÃ³.}
+{5717}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
+{5750}{}{NÃ©hÃ¡ny jakuza.}
 {5751}{}{Egy banda.}
 {5752}{}{Egy farkasfalka.}
-{5753}{}{Néhány gengszterekkel harcoló jakuza.}
-{5754}{}{Néhány fejvadász.}
-{5755}{}{Néhány fejvadász.}
-{5756}{}{Néhány fejvadász.}
-{5757}{}{Néhány fejvadász.}
-{5758}{}{Néhány fejvadász.}
-{5759}{}{Néhány fejvadász.}
-{5760}{}{Néhány fejvadász.}
-{5761}{}{Néhány fejvadász.}
-{5762}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5763}{}{Egy gengszterekkel harcoló banda.}
-{5764}{}{Néhány gengszter.}
-{5765}{}{Egy utazó.}
+{5753}{}{NÃ©hÃ¡ny gengszterekkel harcolÃ³ jakuza.}
+{5754}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5755}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5756}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5757}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5758}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5759}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5760}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5761}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5762}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5763}{}{Egy gengszterekkel harcolÃ³ banda.}
+{5764}{}{NÃ©hÃ¡ny gengszter.}
+{5765}{}{Egy utazÃ³.}
 {5800}{}{Toxic waste dump.}
-{5801}{}{Egy magányos kutya.}
+{5801}{}{Egy magÃ¡nyos kutya.}
 {5802}{}{Egy brahmincsorda.}
-{5803}{}{Egy csapat zsivány és néhány farkas.}
-{5804}{}{Néhány fejvadász.}
-{5805}{}{Néhány fejvadász.}
-{5806}{}{Néhány fejvadász.}
-{5807}{}{Néhány fejvadász.}
-{5808}{}{Néhány fejvadász.}
-{5809}{}{Néhány fejvadász.}
-{5810}{}{Néhány fejvadász.}
-{5811}{}{Néhány fejvadász.}
-{5812}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5813}{}{Egy csapat zsivány.}
+{5803}{}{Egy csapat zsivÃ¡ny Ã©s nÃ©hÃ¡ny farkas.}
+{5804}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5805}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5806}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5807}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5808}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5809}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5810}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5811}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5812}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5813}{}{Egy csapat zsivÃ¡ny.}
 {5814}{}{Egy farkasfalka.}
-{5815}{}{Egy csapat radskorpió.}
-{5816}{}{Egy erd?nyi húsev? növény.}
-{5817}{}{Egy zsiványokkal harcoló "Összefogás" ?rjárat.}
-{5818}{}{Egy farkasokkal harcoló "Összefogás" ?rjárat.}
-{5819}{}{Egy "Összefogás" ?rjárat.}
-{5820}{}{Egy bálna maradványai.}
+{5815}{}{Egy csapat radskorpiÃ³.}
+{5816}{}{Egy erd?nyi hÃºsev? nÃ¶vÃ©ny.}
+{5817}{}{Egy zsivÃ¡nyokkal harcolÃ³ "Ã–sszefogÃ¡s" ?rjÃ¡rat.}
+{5818}{}{Egy farkasokkal harcolÃ³ "Ã–sszefogÃ¡s" ?rjÃ¡rat.}
+{5819}{}{Egy "Ã–sszefogÃ¡s" ?rjÃ¡rat.}
+{5820}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {5821}{}{Egy hatalmas k?fej.}
-{5822}{}{Egy lezuhant ?rrepül?.}
-{5823}{}{?rz? portál.}
-{5824}{}{Arthur király lovagjai.}
+{5822}{}{Egy lezuhant ?rrepÃ¼l?.}
+{5823}{}{?rz? portÃ¡l.}
+{5824}{}{Arthur kirÃ¡ly lovagjai.}
 {5825}{}{A tin woodsman.}
-{5826}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{5850}{}{Egy csapat zsivány és néhány farkas.}
-{5851}{}{Egy csapat zsivány.}
+{5826}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{5850}{}{Egy csapat zsivÃ¡ny Ã©s nÃ©hÃ¡ny farkas.}
+{5851}{}{Egy csapat zsivÃ¡ny.}
 {5852}{}{Egy farkasfalka.}
-{5853}{}{Egy csapat radskorpió.}
-{5854}{}{Néhány fejvadász.}
-{5855}{}{Néhány fejvadász.}
-{5856}{}{Néhány fejvadász.}
-{5857}{}{Néhány fejvadász.}
-{5858}{}{Néhány fejvadász.}
-{5859}{}{Néhány fejvadász.}
-{5860}{}{Néhány fejvadász.}
-{5861}{}{Néhány fejvadász.}
-{5862}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5863}{}{Egy erd?nyi húsev? növény.}
-{5864}{}{Egy zsiványokkal harcoló "Összefogás" ?rjárat.}
-{5865}{}{Egy farkasokkal harcoló "Összefogás" ?rjárat.}
-{5866}{}{Egy "Összefogás" ?rjárat.}
-{5867}{}{Egy hidat ?rz? fickó.}
-{5868}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{5853}{}{Egy csapat radskorpiÃ³.}
+{5854}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5855}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5856}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5857}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5858}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5859}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5860}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5861}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5862}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5863}{}{Egy erd?nyi hÃºsev? nÃ¶vÃ©ny.}
+{5864}{}{Egy zsivÃ¡nyokkal harcolÃ³ "Ã–sszefogÃ¡s" ?rjÃ¡rat.}
+{5865}{}{Egy farkasokkal harcolÃ³ "Ã–sszefogÃ¡s" ?rjÃ¡rat.}
+{5866}{}{Egy "Ã–sszefogÃ¡s" ?rjÃ¡rat.}
+{5867}{}{Egy hidat ?rz? fickÃ³.}
+{5868}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {5900}{}{Egy csapat zsoldos.}
-{5901}{}{Egy fosztogatóbanda.}
-{5902}{}{Egy halálkarom-falka.}
-{5903}{}{Egy rakás t?zgekkó.}
-{5904}{}{Néhány fejvadász.}
-{5905}{}{Néhány fejvadász.}
-{5906}{}{Néhány fejvadász.}
-{5907}{}{Néhány fejvadász.}
-{5908}{}{Néhány fejvadász.}
-{5909}{}{Néhány fejvadász.}
-{5910}{}{Néhány fejvadász.}
-{5911}{}{Néhány fejvadász.}
-{5912}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5913}{}{Egy csomó idegen.}
-{5914}{}{Néhány hubologistákat támadó zsoldos.}
-{5915}{}{Egy fosztogatóbandát támadó zsoldoscsapat.}
-{5916}{}{Néhány hubologista.}
+{5901}{}{Egy fosztogatÃ³banda.}
+{5902}{}{Egy halÃ¡lkarom-falka.}
+{5903}{}{Egy rakÃ¡s t?zgekkÃ³.}
+{5904}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5905}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5906}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5907}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5908}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5909}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5910}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5911}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5912}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5913}{}{Egy csomÃ³ idegen.}
+{5914}{}{NÃ©hÃ¡ny hubologistÃ¡kat tÃ¡madÃ³ zsoldos.}
+{5915}{}{Egy fosztogatÃ³bandÃ¡t tÃ¡madÃ³ zsoldoscsapat.}
+{5916}{}{NÃ©hÃ¡ny hubologista.}
 {5917}{}{A band of angry mercenaries.}
 {5918}{}{A gathering of important looking individuals.}
 {5950}{}{Egy csapat zsoldos.}
-{5951}{}{Egy fosztogatóbanda.}
-{5952}{}{Egy halálkarom-falka.}
-{5953}{}{Egy rakás t?zgekkó.}
-{5954}{}{Néhány fejvadász.}
-{5955}{}{Néhány fejvadász.}
-{5956}{}{Néhány fejvadász.}
-{5957}{}{Néhány fejvadász.}
-{5958}{}{Néhány fejvadász.}
-{5959}{}{Néhány fejvadász.}
-{5960}{}{Néhány fejvadász.}
-{5961}{}{Néhány fejvadász.}
-{5962}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{5963}{}{Egy csomó idegen.}
-{5964}{}{Néhány hubologistákat támadó zsoldos.}
-{5965}{}{Egy fosztogatóbandát támadó zsoldoscsapat.}
-{5966}{}{Néhány hubologista.}
-{5967}{}{Egy hidat ?rz? fickó.}
-{5968}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{5951}{}{Egy fosztogatÃ³banda.}
+{5952}{}{Egy halÃ¡lkarom-falka.}
+{5953}{}{Egy rakÃ¡s t?zgekkÃ³.}
+{5954}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5955}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5956}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5957}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5958}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5959}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5960}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5961}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{5962}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{5963}{}{Egy csomÃ³ idegen.}
+{5964}{}{NÃ©hÃ¡ny hubologistÃ¡kat tÃ¡madÃ³ zsoldos.}
+{5965}{}{Egy fosztogatÃ³bandÃ¡t tÃ¡madÃ³ zsoldoscsapat.}
+{5966}{}{NÃ©hÃ¡ny hubologista.}
+{5967}{}{Egy hidat ?rz? fickÃ³.}
+{5968}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {5969}{}{A band of angry mercenaries.}
 {5970}{}{A gathering of important looking individuals.}
 {6000}{}{Egy csapat zsoldos.}
-{6001}{}{Egy fosztogatóbanda.}
-{6002}{}{Egy halálkarom-falka.}
-{6003}{}{Egy rakás t?zgekkó.}
-{6004}{}{Néhány fejvadász.}
-{6005}{}{Néhány fejvadász.}
-{6006}{}{Néhány fejvadász.}
-{6007}{}{Néhány fejvadász.}
-{6008}{}{Néhány fejvadász.}
-{6009}{}{Néhány fejvadász.}
-{6010}{}{Néhány fejvadász.}
-{6011}{}{Néhány fejvadász.}
-{6012}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6013}{}{Egy csomó idegen.}
-{6014}{}{Néhány hubologistákat támadó zsoldos.}
-{6015}{}{Egy fosztogatóbandát támadó zsoldoscsapat.}
-{6016}{}{Néhány hubologista.}
+{6001}{}{Egy fosztogatÃ³banda.}
+{6002}{}{Egy halÃ¡lkarom-falka.}
+{6003}{}{Egy rakÃ¡s t?zgekkÃ³.}
+{6004}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6005}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6006}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6007}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6008}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6009}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6010}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6011}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6012}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6013}{}{Egy csomÃ³ idegen.}
+{6014}{}{NÃ©hÃ¡ny hubologistÃ¡kat tÃ¡madÃ³ zsoldos.}
+{6015}{}{Egy fosztogatÃ³bandÃ¡t tÃ¡madÃ³ zsoldoscsapat.}
+{6016}{}{NÃ©hÃ¡ny hubologista.}
 {6017}{}{A band of angry mercenaries.}
 {6018}{}{A gathering of important looking individuals.}
 {6050}{}{Toxic waste dump.}
-{6051}{}{Egy magányos kutya.}
+{6051}{}{Egy magÃ¡nyos kutya.}
 {6052}{}{Egy brahmincsorda.}
 {6053}{}{Egy csapat zsoldos.}
-{6054}{}{Néhány fejvadász.}
-{6055}{}{Néhány fejvadász.}
-{6056}{}{Néhány fejvadász.}
-{6057}{}{Néhány fejvadász.}
-{6058}{}{Néhány fejvadász.}
-{6059}{}{Néhány fejvadász.}
-{6060}{}{Néhány fejvadász.}
-{6061}{}{Néhány fejvadász.}
-{6062}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6063}{}{Egy fosztogatóbanda.}
-{6064}{}{Egy halálkarom-falka.}
-{6065}{}{Egy rakás t?zgekkó.}
-{6066}{}{Egy csomó idegen.}
-{6067}{}{Néhány hubologistákat támadó zsoldos.}
-{6068}{}{Egy fosztogatóbandát támadó zsoldoscsapat.}
-{6069}{}{Néhány hubologista.}
-{6070}{}{Egy bálna maradványai.}
+{6054}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6055}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6056}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6057}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6058}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6059}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6060}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6061}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6062}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6063}{}{Egy fosztogatÃ³banda.}
+{6064}{}{Egy halÃ¡lkarom-falka.}
+{6065}{}{Egy rakÃ¡s t?zgekkÃ³.}
+{6066}{}{Egy csomÃ³ idegen.}
+{6067}{}{NÃ©hÃ¡ny hubologistÃ¡kat tÃ¡madÃ³ zsoldos.}
+{6068}{}{Egy fosztogatÃ³bandÃ¡t tÃ¡madÃ³ zsoldoscsapat.}
+{6069}{}{NÃ©hÃ¡ny hubologista.}
+{6070}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {6071}{}{Egy hatalmas k?fej.}
-{6072}{}{Egy lezuhant ?rrepül?.}
-{6073}{}{?rz? portál.}
-{6074}{}{Arthur király lovagjai.}
+{6072}{}{Egy lezuhant ?rrepÃ¼l?.}
+{6073}{}{?rz? portÃ¡l.}
+{6074}{}{Arthur kirÃ¡ly lovagjai.}
 {6075}{}{A tin woodsman.}
-{6076}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{6077}{}{Meghiúsult Álmok Kávézója.}
+{6076}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{6077}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}
 {6078}{}{A band of angry mercenaries.}
 {6079}{}{A gathering of important looking individuals.}
 {6100}{}{Toxic waste dump.}
-{6101}{}{Egy magányos kutya.}
+{6101}{}{Egy magÃ¡nyos kutya.}
 {6102}{}{Egy brahmincsorda.}
 {6103}{}{Egy csapat zsoldos.}
-{6104}{}{Néhány fejvadász.}
-{6105}{}{Néhány fejvadász.}
-{6106}{}{Néhány fejvadász.}
-{6107}{}{Néhány fejvadász.}
-{6108}{}{Néhány fejvadász.}
-{6109}{}{Néhány fejvadász.}
-{6110}{}{Néhány fejvadász.}
-{6111}{}{Néhány fejvadász.}
-{6112}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6113}{}{Egy halálkarom-falka.}
-{6114}{}{Néhány t?zgekkó.}
-{6115}{}{Egy csomó idegen.}
-{6116}{}{Egy zsoldosokkal harcoló karaván.}
-{6117}{}{Egy zsoldosokkal harcoló karaván.}
-{6118}{}{Egy t?zkekkókkal harcoló karavánk.}
-{6119}{}{Egy idegenekkel küzd? karaván.}
-{6120}{}{Egy karaván.}
-{6121}{}{Egy karaván.}
-{6122}{}{Egy bálna maradványai.}
+{6104}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6105}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6106}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6107}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6108}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6109}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6110}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6111}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6112}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6113}{}{Egy halÃ¡lkarom-falka.}
+{6114}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{6115}{}{Egy csomÃ³ idegen.}
+{6116}{}{Egy zsoldosokkal harcolÃ³ karavÃ¡n.}
+{6117}{}{Egy zsoldosokkal harcolÃ³ karavÃ¡n.}
+{6118}{}{Egy t?zkekkÃ³kkal harcolÃ³ karavÃ¡nk.}
+{6119}{}{Egy idegenekkel kÃ¼zd? karavÃ¡n.}
+{6120}{}{Egy karavÃ¡n.}
+{6121}{}{Egy karavÃ¡n.}
+{6122}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {6123}{}{Egy hatalmas k?fej.}
-{6124}{}{Egy lezuhant ?rrepül?.}
-{6125}{}{?rz? portál.}
-{6126}{}{Arthur király lovagjai.}
+{6124}{}{Egy lezuhant ?rrepÃ¼l?.}
+{6125}{}{?rz? portÃ¡l.}
+{6126}{}{Arthur kirÃ¡ly lovagjai.}
 {6127}{}{A tin woodsman.}
-{6128}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{6129}{}{Meghiúsult Álmok Kávézója.}
+{6128}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{6129}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}
 {6130}{}{A band of angry mercenaries.}
 {6150}{}{Egy csapat zsoldos.}
-{6151}{}{Egy halálkarom-falka.}
-{6152}{}{Néhány t?zgekkó.}
-{6153}{}{Egy csomó idegen.}
-{6154}{}{Néhány fejvadász.}
-{6155}{}{Néhány fejvadász.}
-{6156}{}{Néhány fejvadász.}
-{6157}{}{Néhány fejvadász.}
-{6158}{}{Néhány fejvadász.}
-{6159}{}{Néhány fejvadász.}
-{6160}{}{Néhány fejvadász.}
-{6161}{}{Néhány fejvadász.}
-{6162}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6163}{}{Egy zsoldosokkal harcoló karaván.}
-{6164}{}{Egy zsoldosokkal harcoló karaván.}
-{6165}{}{Egy t?zkekkókkal harcoló karavánk.}
-{6166}{}{Egy idegenekkel küzd? karaván.}
-{6167}{}{Egy karaván.}
-{6168}{}{Egy karaván.}
+{6151}{}{Egy halÃ¡lkarom-falka.}
+{6152}{}{NÃ©hÃ¡ny t?zgekkÃ³.}
+{6153}{}{Egy csomÃ³ idegen.}
+{6154}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6155}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6156}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6157}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6158}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6159}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6160}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6161}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6162}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6163}{}{Egy zsoldosokkal harcolÃ³ karavÃ¡n.}
+{6164}{}{Egy zsoldosokkal harcolÃ³ karavÃ¡n.}
+{6165}{}{Egy t?zkekkÃ³kkal harcolÃ³ karavÃ¡nk.}
+{6166}{}{Egy idegenekkel kÃ¼zd? karavÃ¡n.}
+{6167}{}{Egy karavÃ¡n.}
+{6168}{}{Egy karavÃ¡n.}
 {6169}{}{A band of angry mercenaries.}
 {6200}{}{Toxic waste dump.}
-{6201}{}{Egy magányos kutya.}
+{6201}{}{Egy magÃ¡nyos kutya.}
 {6202}{}{Egy brahmincsorda.}
-{6203}{}{Egy Enklávé ?rjárat.}
-{6204}{}{Néhány fejvadász.}
-{6205}{}{Néhány fejvadász.}
-{6206}{}{Néhány fejvadász.}
-{6207}{}{Néhány fejvadász.}
-{6208}{}{Néhány fejvadász.}
-{6209}{}{Néhány fejvadász.}
-{6210}{}{Néhány fejvadász.}
-{6211}{}{Néhány fejvadász.}
-{6212}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6213}{}{Egy csapat a Mester egykori hadseregéb?l.}
-{6214}{}{Egy halálkarom-falka.}
-{6215}{}{Egy imádkozó-sáska raj.}
-{6216}{}{Egy bálna maradványai.}
+{6203}{}{Egy EnklÃ¡vÃ© ?rjÃ¡rat.}
+{6204}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6205}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6206}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6207}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6208}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6209}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6210}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6211}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6212}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6213}{}{Egy csapat a Mester egykori hadseregÃ©b?l.}
+{6214}{}{Egy halÃ¡lkarom-falka.}
+{6215}{}{Egy imÃ¡dkozÃ³-sÃ¡ska raj.}
+{6216}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {6217}{}{Egy hatalmas k?fej.}
-{6218}{}{Egy lezuhant ?rrepül?.}
-{6219}{}{?rz? portál.}
-{6220}{}{Arthur király lovagjai.}
+{6218}{}{Egy lezuhant ?rrepÃ¼l?.}
+{6219}{}{?rz? portÃ¡l.}
+{6220}{}{Arthur kirÃ¡ly lovagjai.}
 {6221}{}{A tin woodsman.}
-{6222}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{6223}{}{Meghiúsult Álmok Kávézója.}
-{6250}{}{Egy Enklávé ?rjárat.}
-{6251}{}{Egy csapat a Mester egykori hadseregéb?l.}
-{6252}{}{Egy halálkarom-falka.}
-{6253}{}{Egy imádkozó-sáska raj.}
-{6254}{}{Néhány fejvadász.}
-{6255}{}{Néhány fejvadász.}
-{6256}{}{Néhány fejvadász.}
-{6257}{}{Néhány fejvadász.}
-{6258}{}{Néhány fejvadász.}
-{6259}{}{Néhány fejvadász.}
-{6260}{}{Néhány fejvadász.}
-{6261}{}{Néhány fejvadász.}
-{6262}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6263}{}{Egy hidat ?rz? fickó.}
-{6264}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{6222}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{6223}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}
+{6250}{}{Egy EnklÃ¡vÃ© ?rjÃ¡rat.}
+{6251}{}{Egy csapat a Mester egykori hadseregÃ©b?l.}
+{6252}{}{Egy halÃ¡lkarom-falka.}
+{6253}{}{Egy imÃ¡dkozÃ³-sÃ¡ska raj.}
+{6254}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6255}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6256}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6257}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6258}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6259}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6260}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6261}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6262}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6263}{}{Egy hidat ?rz? fickÃ³.}
+{6264}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {6300}{}{Toxic waste dump.}
-{6301}{}{Egy magányos kutya.}
+{6301}{}{Egy magÃ¡nyos kutya.}
 {6302}{}{Egy brahmincsorda.}
-{6303}{}{Egy karavánt támadó csapat a Mester egykori seregéb?l.}
-{6304}{}{Néhány fejvadász.}
-{6305}{}{Néhány fejvadász.}
-{6306}{}{Néhány fejvadász.}
-{6307}{}{Néhány fejvadász.}
-{6308}{}{Néhány fejvadász.}
-{6309}{}{Néhány fejvadász.}
-{6310}{}{Néhány fejvadász.}
-{6311}{}{Néhány fejvadász.}
-{6312}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6313}{}{Egy karavánt támadó csapat a Mester egykori seregéb?l.}
-{6314}{}{Egy halálkarmokkal hadakozó karaván.}
-{6315}{}{Egy karaván.}
-{6316}{}{Egy karaván.}
-{6317}{}{Egy karaván.}
-{6318}{}{Egy bálna maradványai.}
+{6303}{}{Egy karavÃ¡nt tÃ¡madÃ³ csapat a Mester egykori seregÃ©b?l.}
+{6304}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6305}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6306}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6307}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6308}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6309}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6310}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6311}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6312}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6313}{}{Egy karavÃ¡nt tÃ¡madÃ³ csapat a Mester egykori seregÃ©b?l.}
+{6314}{}{Egy halÃ¡lkarmokkal hadakozÃ³ karavÃ¡n.}
+{6315}{}{Egy karavÃ¡n.}
+{6316}{}{Egy karavÃ¡n.}
+{6317}{}{Egy karavÃ¡n.}
+{6318}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {6319}{}{Egy hatalmas k?fej.}
-{6320}{}{Egy lezuhant ?rrepül?.}
-{6321}{}{?rz? portál.}
-{6322}{}{Arthur király lovagjai.}
+{6320}{}{Egy lezuhant ?rrepÃ¼l?.}
+{6321}{}{?rz? portÃ¡l.}
+{6322}{}{Arthur kirÃ¡ly lovagjai.}
 {6323}{}{A tin woodsman.}
-{6324}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{6325}{}{Meghiúsult Álmok Kávézója.}
-{6350}{}{Egy karavánt támadó csapat a Mester egykori seregéb?l.}
-{6351}{}{Egy karavánt támadó csapat a Mester egykori seregéb?l.}
-{6352}{}{Egy halálkarmokkal hadakozó karaván.}
-{6353}{}{Egy karaván.}
-{6354}{}{Néhány fejvadász.}
-{6355}{}{Néhány fejvadász.}
-{6356}{}{Néhány fejvadász.}
-{6357}{}{Néhány fejvadász.}
-{6358}{}{Néhány fejvadász.}
-{6359}{}{Néhány fejvadász.}
-{6360}{}{Néhány fejvadász.}
-{6361}{}{Néhány fejvadász.}
-{6362}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6363}{}{Egy karaván.}
-{6364}{}{Egy karaván.}
-{6365}{}{Egy hidat ?rz? fickó.}
-{6366}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{6324}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{6325}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}
+{6350}{}{Egy karavÃ¡nt tÃ¡madÃ³ csapat a Mester egykori seregÃ©b?l.}
+{6351}{}{Egy karavÃ¡nt tÃ¡madÃ³ csapat a Mester egykori seregÃ©b?l.}
+{6352}{}{Egy halÃ¡lkarmokkal hadakozÃ³ karavÃ¡n.}
+{6353}{}{Egy karavÃ¡n.}
+{6354}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6355}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6356}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6357}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6358}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6359}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6360}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6361}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6362}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6363}{}{Egy karavÃ¡n.}
+{6364}{}{Egy karavÃ¡n.}
+{6365}{}{Egy hidat ?rz? fickÃ³.}
+{6366}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {6400}{}{Egy farkasfalka.}
-{6401}{}{Egy imádkozó-sáska raj.}
-{6402}{}{Egy radskorpió család.}
-{6403}{}{Néhány fejvadász.}
-{6404}{}{Néhány fejvadász.}
-{6405}{}{Néhány fejvadász.}
-{6406}{}{Néhány fejvadász.}
-{6407}{}{Néhány fejvadász.}
-{6408}{}{Néhány fejvadász.}
-{6409}{}{Néhány fejvadász.}
-{6410}{}{Néhány fejvadász.}
-{6411}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6412}{}{Egy hidat ?rz? fickó.}
-{6413}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{6401}{}{Egy imÃ¡dkozÃ³-sÃ¡ska raj.}
+{6402}{}{Egy radskorpiÃ³ csalÃ¡d.}
+{6403}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6404}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6405}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6406}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6407}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6408}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6409}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6410}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6411}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6412}{}{Egy hidat ?rz? fickÃ³.}
+{6413}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {6450}{}{Toxic waste dump.}
-{6451}{}{Egy magányos kutya.}
+{6451}{}{Egy magÃ¡nyos kutya.}
 {6452}{}{Egy brahmincsorda.}
 {6453}{}{Egy farkasfalka.}
-{6454}{}{Néhány fejvadász.}
-{6455}{}{Néhány fejvadász.}
-{6456}{}{Néhány fejvadász.}
-{6457}{}{Néhány fejvadász.}
-{6458}{}{Néhány fejvadász.}
-{6459}{}{Néhány fejvadász.}
-{6460}{}{Néhány fejvadász.}
-{6461}{}{Néhány fejvadász.}
-{6462}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6463}{}{Egy imádkozó-sáska raj.}
-{6464}{}{Egy radskorpió család.}
-{6465}{}{Egy bálna maradványai.}
+{6454}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6455}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6456}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6457}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6458}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6459}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6460}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6461}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6462}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6463}{}{Egy imÃ¡dkozÃ³-sÃ¡ska raj.}
+{6464}{}{Egy radskorpiÃ³ csalÃ¡d.}
+{6465}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {6466}{}{Egy hatalmas k?fej.}
-{6467}{}{Egy lezuhant ?rrepül?.}
-{6468}{}{?rz? portál.}
-{6469}{}{Arthur király lovagjai.}
+{6467}{}{Egy lezuhant ?rrepÃ¼l?.}
+{6468}{}{?rz? portÃ¡l.}
+{6469}{}{Arthur kirÃ¡ly lovagjai.}
 {6470}{}{A tin woodsman.}
-{6471}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{6472}{}{Meghiúsult Álmok Kávézója.}
+{6471}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{6472}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}
 {6500}{}{Toxic waste dump.}
-{6501}{}{Egy magányos kutya.}
+{6501}{}{Egy magÃ¡nyos kutya.}
 {6502}{}{Egy brahmincsorda.}
-{6503}{}{Egy csapat martalóc.}
-{6504}{}{Néhány fejvadász.}
-{6505}{}{Néhány fejvadász.}
-{6506}{}{Néhány fejvadász.}
-{6507}{}{Néhány fejvadász.}
-{6508}{}{Néhány fejvadász.}
-{6509}{}{Néhány fejvadász.}
-{6510}{}{Néhány fejvadász.}
-{6511}{}{Néhány fejvadász.}
-{6512}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
+{6503}{}{Egy csapat martalÃ³c.}
+{6504}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6505}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6506}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6507}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6508}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6509}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6510}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6511}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6512}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
 {6513}{}{Egy farkasfalka.}
-{6514}{}{Egy csapat radskorpió.}
-{6515}{}{Egy martalócokkal küzd? karaván.}
-{6516}{}{Egy martalócokkal küzd? karaván.}
-{6517}{}{Egy farkasokkal küzd? karaván.}
-{6518}{}{Egy radskorpiókkal küzd? karaván.}
-{6519}{}{Egy karaván.}
-{6520}{}{Egy karaván.}
-{6521}{}{Egy karaván.}
-{6522}{}{Egy karaván.}
-{6523}{}{Egy utazó.}
-{6524}{}{Egy bálna maradványai.}
+{6514}{}{Egy csapat radskorpiÃ³.}
+{6515}{}{Egy martalÃ³cokkal kÃ¼zd? karavÃ¡n.}
+{6516}{}{Egy martalÃ³cokkal kÃ¼zd? karavÃ¡n.}
+{6517}{}{Egy farkasokkal kÃ¼zd? karavÃ¡n.}
+{6518}{}{Egy radskorpiÃ³kkal kÃ¼zd? karavÃ¡n.}
+{6519}{}{Egy karavÃ¡n.}
+{6520}{}{Egy karavÃ¡n.}
+{6521}{}{Egy karavÃ¡n.}
+{6522}{}{Egy karavÃ¡n.}
+{6523}{}{Egy utazÃ³.}
+{6524}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {6525}{}{Egy hatalmas k?fej.}
-{6526}{}{Egy lezuhant ?rrepül?.}
-{6527}{}{?rz? portál.}
-{6528}{}{Arthur király lovagjai.}
+{6526}{}{Egy lezuhant ?rrepÃ¼l?.}
+{6527}{}{?rz? portÃ¡l.}
+{6528}{}{Arthur kirÃ¡ly lovagjai.}
 {6529}{}{A tin woodsman.}
-{6530}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{6531}{}{Meghiúsult Álmok Kávézója.}
+{6530}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{6531}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}
 {6532}{}{A band of angry marauders.}
-{6550}{}{Egy csapat martalóc.}
+{6550}{}{Egy csapat martalÃ³c.}
 {6551}{}{Egy farkasfalka.}
-{6552}{}{Egy csapat radskorpió.}
-{6553}{}{Egy martalócokkal küzd? karaván.}
-{6554}{}{Néhány fejvadász.}
-{6555}{}{Néhány fejvadász.}
-{6556}{}{Néhány fejvadász.}
-{6557}{}{Néhány fejvadász.}
-{6558}{}{Néhány fejvadász.}
-{6559}{}{Néhány fejvadász.}
-{6560}{}{Néhány fejvadász.}
-{6561}{}{Néhány fejvadász.}
-{6562}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6563}{}{Egy martalócokkal küzd? karaván.}
-{6564}{}{Egy farkasokkal küzd? karaván.}
-{6565}{}{Egy radskorpiókkal küzd? karaván.}
-{6566}{}{Egy karaván.}
-{6567}{}{Egy karaván.}
-{6568}{}{Egy karaván.}
-{6569}{}{Egy karaván.}
-{6570}{}{Egy utazó.}
-{6571}{}{Egy hidat ?rz? fickó.}
-{6572}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{6552}{}{Egy csapat radskorpiÃ³.}
+{6553}{}{Egy martalÃ³cokkal kÃ¼zd? karavÃ¡n.}
+{6554}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6555}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6556}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6557}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6558}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6559}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6560}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6561}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6562}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6563}{}{Egy martalÃ³cokkal kÃ¼zd? karavÃ¡n.}
+{6564}{}{Egy farkasokkal kÃ¼zd? karavÃ¡n.}
+{6565}{}{Egy radskorpiÃ³kkal kÃ¼zd? karavÃ¡n.}
+{6566}{}{Egy karavÃ¡n.}
+{6567}{}{Egy karavÃ¡n.}
+{6568}{}{Egy karavÃ¡n.}
+{6569}{}{Egy karavÃ¡n.}
+{6570}{}{Egy utazÃ³.}
+{6571}{}{Egy hidat ?rz? fickÃ³.}
+{6572}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {6573}{}{A band of angry marauders.}
-{6600}{}{Egy különítmény a Mester egykori hadseregéb?l.}
-{6601}{}{Egy csapat martalóc.}
-{6602}{}{Egy Felderít?ket támadó egység a Mester egykori seregéb?l.}
-{6603}{}{Néhány martalócokkal harcoló Felderít?.}
-{6604}{}{Néhány fejvadász.}
-{6605}{}{Néhány fejvadász.}
-{6606}{}{Néhány fejvadász.}
-{6607}{}{Néhány fejvadász.}
-{6608}{}{Néhány fejvadász.}
-{6609}{}{Néhány fejvadász.}
-{6610}{}{Néhány fejvadász.}
-{6611}{}{Néhány fejvadász.}
-{6612}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6613}{}{Egy farmereket támadó egység a Mester egykori seregéb?l.}
-{6614}{}{Néhány farmer vs. martalóc.}
-{6615}{}{Egy ÚKK-s Felderít? különítmény.}
-{6616}{}{Néhány farmer.}
-{6617}{}{Egy hidat ?rz? fickó.}
-{6618}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{6600}{}{Egy kÃ¼lÃ¶nÃ­tmÃ©ny a Mester egykori hadseregÃ©b?l.}
+{6601}{}{Egy csapat martalÃ³c.}
+{6602}{}{Egy FelderÃ­t?ket tÃ¡madÃ³ egysÃ©g a Mester egykori seregÃ©b?l.}
+{6603}{}{NÃ©hÃ¡ny martalÃ³cokkal harcolÃ³ FelderÃ­t?.}
+{6604}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6605}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6606}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6607}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6608}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6609}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6610}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6611}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6612}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6613}{}{Egy farmereket tÃ¡madÃ³ egysÃ©g a Mester egykori seregÃ©b?l.}
+{6614}{}{NÃ©hÃ¡ny farmer vs. martalÃ³c.}
+{6615}{}{Egy ÃšKK-s FelderÃ­t? kÃ¼lÃ¶nÃ­tmÃ©ny.}
+{6616}{}{NÃ©hÃ¡ny farmer.}
+{6617}{}{Egy hidat ?rz? fickÃ³.}
+{6618}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {6619}{}{A band of angry marauders.}
 {6650}{}{Toxic waste dump.}
-{6651}{}{Egy magányos kutya.}
+{6651}{}{Egy magÃ¡nyos kutya.}
 {6652}{}{Egy brahmincsorda.}
-{6653}{}{Egy különítmény a Mester egykori hadseregéb?l.}
-{6654}{}{Néhány fejvadász.}
-{6655}{}{Néhány fejvadász.}
-{6656}{}{Néhány fejvadász.}
-{6657}{}{Néhány fejvadász.}
-{6658}{}{Néhány fejvadász.}
-{6659}{}{Néhány fejvadász.}
-{6660}{}{Néhány fejvadász.}
-{6661}{}{Néhány fejvadász.}
-{6662}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6663}{}{Egy csapat martalóc.}
-{6664}{}{Egy Felderít?ket támadó egység a Mester egykori seregéb?l.}
-{6665}{}{Néhány martalócokkal harcoló Felderít?.}
-{6666}{}{Egy farmereket támadó egység a Mester egykori seregéb?l.}
-{6667}{}{Néhány farmer vs. martalóc.}
-{6668}{}{Egy ÚKK-s Felderít? különítmény.}
-{6669}{}{Néhány farmer.}
-{6670}{}{Egy bálna maradványai.}
+{6653}{}{Egy kÃ¼lÃ¶nÃ­tmÃ©ny a Mester egykori hadseregÃ©b?l.}
+{6654}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6655}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6656}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6657}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6658}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6659}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6660}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6661}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6662}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6663}{}{Egy csapat martalÃ³c.}
+{6664}{}{Egy FelderÃ­t?ket tÃ¡madÃ³ egysÃ©g a Mester egykori seregÃ©b?l.}
+{6665}{}{NÃ©hÃ¡ny martalÃ³cokkal harcolÃ³ FelderÃ­t?.}
+{6666}{}{Egy farmereket tÃ¡madÃ³ egysÃ©g a Mester egykori seregÃ©b?l.}
+{6667}{}{NÃ©hÃ¡ny farmer vs. martalÃ³c.}
+{6668}{}{Egy ÃšKK-s FelderÃ­t? kÃ¼lÃ¶nÃ­tmÃ©ny.}
+{6669}{}{NÃ©hÃ¡ny farmer.}
+{6670}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {6671}{}{Egy hatalmas k?fej.}
-{6672}{}{Egy lezuhant ?rrepül?.}
-{6673}{}{?rz? portál.}
-{6674}{}{Arthur király lovagjai.}
+{6672}{}{Egy lezuhant ?rrepÃ¼l?.}
+{6673}{}{?rz? portÃ¡l.}
+{6674}{}{Arthur kirÃ¡ly lovagjai.}
 {6675}{}{A tin woodsman.}
-{6676}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{6677}{}{Meghiúsult Álmok Kávézója.}
+{6676}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{6677}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}
 {6678}{}{A band of angry marauders.}
-{6700}{}{Egy vakondpatkányokkal küzd? alakulat a Mester hadseregéb?l.}
-{6701}{}{Egy csapat a Mester egykori hadseregéb?l.}
-{6702}{}{Egy imádkozó-sáska raj.}
-{6703}{}{Jónéhány mutáns vakondpatkány.}
-{6704}{}{Néhány fejvadász.}
-{6705}{}{Néhány fejvadász.}
-{6706}{}{Néhány fejvadász.}
-{6707}{}{Néhány fejvadász.}
-{6708}{}{Néhány fejvadász.}
-{6709}{}{Néhány fejvadász.}
-{6710}{}{Néhány fejvadász.}
-{6711}{}{Néhány fejvadász.}
-{6712}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6713}{}{Egy csapat radskorpió.}
-{6714}{}{Egy hidat ?rz? fickó.}
-{6715}{}{Arthur király lovagjai egy patkánnyal harcolnak.}
+{6700}{}{Egy vakondpatkÃ¡nyokkal kÃ¼zd? alakulat a Mester hadseregÃ©b?l.}
+{6701}{}{Egy csapat a Mester egykori hadseregÃ©b?l.}
+{6702}{}{Egy imÃ¡dkozÃ³-sÃ¡ska raj.}
+{6703}{}{JÃ³nÃ©hÃ¡ny mutÃ¡ns vakondpatkÃ¡ny.}
+{6704}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6705}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6706}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6707}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6708}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6709}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6710}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6711}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6712}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6713}{}{Egy csapat radskorpiÃ³.}
+{6714}{}{Egy hidat ?rz? fickÃ³.}
+{6715}{}{Arthur kirÃ¡ly lovagjai egy patkÃ¡nnyal harcolnak.}
 {6750}{}{Toxic waste dump.}
-{6751}{}{Egy magányos kutya.}
+{6751}{}{Egy magÃ¡nyos kutya.}
 {6752}{}{Egy brahmincsorda.}
-{6753}{}{Egy vakondpatkányokkal küzd? alakulat a Mester hadseregéb?l.}
-{6754}{}{Néhány fejvadász.}
-{6755}{}{Néhány fejvadász.}
-{6756}{}{Néhány fejvadász.}
-{6757}{}{Néhány fejvadász.}
-{6758}{}{Néhány fejvadász.}
-{6759}{}{Néhány fejvadász.}
-{6760}{}{Néhány fejvadász.}
-{6761}{}{Néhány fejvadász.}
-{6762}{}{Egy csapat bandita, élükön az egyik Morton fivérrel.}
-{6763}{}{Egy csapat a Mester egykori hadseregéb?l.}
-{6764}{}{Egy imádkozó-sáska raj.}
-{6765}{}{Jónéhány mutáns vakondpatkány.}
-{6766}{}{Egy csapat radskorpió.}
-{6767}{}{Egy bálna maradványai.}
+{6753}{}{Egy vakondpatkÃ¡nyokkal kÃ¼zd? alakulat a Mester hadseregÃ©b?l.}
+{6754}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6755}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6756}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6757}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6758}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6759}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6760}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6761}{}{NÃ©hÃ¡ny fejvadÃ¡sz.}
+{6762}{}{Egy csapat bandita, Ã©lÃ¼kÃ¶n az egyik Morton fivÃ©rrel.}
+{6763}{}{Egy csapat a Mester egykori hadseregÃ©b?l.}
+{6764}{}{Egy imÃ¡dkozÃ³-sÃ¡ska raj.}
+{6765}{}{JÃ³nÃ©hÃ¡ny mutÃ¡ns vakondpatkÃ¡ny.}
+{6766}{}{Egy csapat radskorpiÃ³.}
+{6767}{}{Egy bÃ¡lna maradvÃ¡nyai.}
 {6768}{}{Egy hatalmas k?fej.}
-{6769}{}{Egy lezuhant ?rrepül?.}
-{6770}{}{?rz? portál.}
-{6771}{}{Arthur király lovagjai.}
+{6769}{}{Egy lezuhant ?rrepÃ¼l?.}
+{6770}{}{?rz? portÃ¡l.}
+{6771}{}{Arthur kirÃ¡ly lovagjai.}
 {6772}{}{A tin woodsman.}
-{6773}{}{A Mosdatlan Falusiak épp levadásznak egy spammert.}
-{6774}{}{Meghiúsult Álmok Kávézója.}
+{6773}{}{A Mosdatlan Falusiak Ã©pp levadÃ¡sznak egy spammert.}
+{6774}{}{MeghiÃºsult Ãlmok KÃ¡vÃ©zÃ³ja.}

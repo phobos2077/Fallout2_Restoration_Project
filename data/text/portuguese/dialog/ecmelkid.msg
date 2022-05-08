@@ -1,11 +1,11 @@
-{100}{}{Você vê um pequeno rugrat.}
-{101}{}{Você vê Melchior, Jr.}
+{100}{}{VocÃª vÃª um pequeno rugrat.}
+{101}{}{VocÃª vÃª Melchior, Jr.}
 {150}{}{Ele parece um risonho, garoto de olhos grandes.}
-{200}{}{Olá! Eu sou Melchior, Jr.}
-{201}{}{Meu pai é mineiro. Seu nome é Melchior assim como o meu.}
-{202}{}{Meu pai é um bom mineiro, mas ele quer ser um mago.}
-{203}{}{O nome artístico do papai é Melchior, o Magnífico.}
-{204}{}{Seu melhor truque foi puxando um rato de um chapéu.}
+{200}{}{OlÃ¡! Eu sou Melchior, Jr.}
+{201}{}{Meu pai Ã© mineiro. Seu nome Ã© Melchior assim como o meu.}
+{202}{}{Meu pai Ã© um bom mineiro, mas ele quer ser um mago.}
+{203}{}{O nome artÃ­stico do papai Ã© Melchior, o MagnÃ­fico.}
+{204}{}{Seu melhor truque foi puxando um rato de um chapÃ©u.}
 {205}{}{Ele saiu com alguns homens vestidos com roupas de metal.}
-{206}{}{Espero que o pai volte logo. Sinto falta de seus truques mágicos.}
-{207}{}{Eu vou ser um grande mágico como meu pai.}
+{206}{}{Espero que o pai volte logo. Sinto falta de seus truques mÃ¡gicos.}
+{207}{}{Eu vou ser um grande mÃ¡gico como meu pai.}

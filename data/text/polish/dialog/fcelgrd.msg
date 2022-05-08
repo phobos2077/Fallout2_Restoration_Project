@@ -1,36 +1,36 @@
-{100}{}{Widzisz dobrze uzbrojonego stra¿nika.}
-{101}{}{Widzisz stra¿nika Centrologów.}
-{102}{}{Widzisz dobrze uzbrojon¹ osobê z okrutnym wyrazem oczu.}
+{100}{}{Widzisz dobrze uzbrojonego straÅ¼nika.}
+{101}{}{Widzisz straÅ¼nika CentrologÃ³w.}
+{102}{}{Widzisz dobrze uzbrojonÄ… osobÄ™ z okrutnym wyrazem oczu.}
 {103}{}{Intruz!}
-{104}{}{£apaæ intruza!}
+{104}{}{ÅapaÄ‡ intruza!}
 {105}{}{Tutaj! Tutaj!}
-{106}{}{Czas umieraæ, niewierni! Przez ³amanie Wielkim Ko³em!}
-{107}{}{Jesteœmy Stra¿nikami. A ty masz teraz umrzeæ.}
-{108}{}{Gwiezdny Ojcze, nieœ moje kule.}
+{106}{}{Czas umieraÄ‡, niewierni! Przez Å‚amanie Wielkim KoÅ‚em!}
+{107}{}{JesteÅ›my StraÅ¼nikami. A ty masz teraz umrzeÄ‡.}
+{108}{}{Gwiezdny Ojcze, nieÅ› moje kule.}
 {109}{}{Plugawisz nasze zasady!}
-{110}{}{Je¿eli nasi prawnicy nie mog¹ sobie poradziæ, to zrobi¹ to nasze kule.}
-{111}{}{Jesteœmy d³ugim ramieniem sprawiedliwoœci Centrum.}
+{110}{}{JeÅ¼eli nasi prawnicy nie mogÄ… sobie poradziÄ‡, to zrobiÄ… to nasze kule.}
+{111}{}{JesteÅ›my dÅ‚ugim ramieniem sprawiedliwoÅ›ci Centrum.}
 {112}{}{Transgresor!}
-{113}{}{Uwa¿aj jak chodzisz.}
-{114}{}{St¹paj lekko, ty, z zewn¹trz.}
+{113}{}{UwaÅ¼aj jak chodzisz.}
+{114}{}{StÄ…paj lekko, ty, z zewnÄ…trz.}
 {115}{}{Nie dotykaj niczego, czego nie masz prawa.}
-{116}{}{Je¿eli spróbujesz siê wy³amaæ, zrobimy z ciebie siekane kotlety.}
-{117}{}{Postêpuj bardzo, bardzo ostro¿nie.}
-{118}{}{Jesteœmy prawem Centrum. Nie ³am go.}
+{116}{}{JeÅ¼eli sprÃ³bujesz siÄ™ wyÅ‚amaÄ‡, zrobimy z ciebie siekane kotlety.}
+{117}{}{PostÄ™puj bardzo, bardzo ostroÅ¼nie.}
+{118}{}{JesteÅ›my prawem Centrum. Nie Å‚am go.}
 {119}{}{Jestem UKC-4.}
-{120}{}{Uszeregujê ciê, je¿eli bêdziesz siê Ÿle zachowywaæ.}
-{121}{}{Mam w³adzê od Wielkiego Ko³a.}
+{120}{}{UszeregujÄ™ ciÄ™, jeÅ¼eli bÄ™dziesz siÄ™ Åºle zachowywaÄ‡.}
+{121}{}{Mam wÅ‚adzÄ™ od Wielkiego KoÅ‚a.}
 {122}{}{Witaj, przyjazna duszo.}
 {123}{}{Witaj,}
-{124}{}{Dobrze mieæ ciê z nami.}
-{125}{}{IdŸ zaj¹æ siê swoimi sprawami.}
-{126}{}{Nie zawracaj g³owy tym, którzy chc¹ siê skupiæ.}
-{127}{}{Twoja obecnoœæ jest mile widziana... ale tam.}
-{128}{}{Centrum zostawi³ nas, abyœmy dbali o jego stado.}
-{129}{}{Gwiezdny Ojciec dba o ciebie. Dlatego da³ ci nas.}
-{130}{}{Jesteœmy lojalni wobec AHS-9.}
-{131}{}{B¹dŸ pos³uszny.}
-{132}{}{Œpij.}
-{133}{}{JedŸ.}
+{124}{}{Dobrze mieÄ‡ ciÄ™ z nami.}
+{125}{}{IdÅº zajÄ…Ä‡ siÄ™ swoimi sprawami.}
+{126}{}{Nie zawracaj gÅ‚owy tym, ktÃ³rzy chcÄ… siÄ™ skupiÄ‡.}
+{127}{}{Twoja obecnoÅ›Ä‡ jest mile widziana... ale tam.}
+{128}{}{Centrum zostawiÅ‚ nas, abyÅ›my dbali o jego stado.}
+{129}{}{Gwiezdny Ojciec dba o ciebie. Dlatego daÅ‚ ci nas.}
+{130}{}{JesteÅ›my lojalni wobec AHS-9.}
+{131}{}{BÄ…dÅº posÅ‚uszny.}
+{132}{}{Åšpij.}
+{133}{}{JedÅº.}
 {134}{}{Mamy na sercu tylko twoje dobro.}
 {135}{}{.}

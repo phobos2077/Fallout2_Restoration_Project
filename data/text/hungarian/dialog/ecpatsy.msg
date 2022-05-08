@@ -1,4 +1,4 @@
-{100}{}{Ez itt egy férfi.}
+{100}{}{Ez itt egy fÃ©rfi.}
 {101}{}{Balfi.}
-{102}{}{Két félbevágott kókuszt ütöget össze.}
+{102}{}{KÃ©t fÃ©lbevÃ¡gott kÃ³kuszt Ã¼tÃ¶get Ã¶ssze.}
 {103}{}{Kipp! Kopp!}

@@ -1,5 +1,5 @@
-{100}{}{Du siehst eine stabile Metalltür.}
-{101}{}{Solche Türen wurde auch für Banktresore verwendet. Man würde mehrere, gut platzierte Sprengungen benötigen, um sie aufzubrechen. Sie ist verschlossen.}
-{102}{}{Solche Türen wurde auch für Banktresore verwendet. Man würde mehrere, gut platzierte Sprengungen benötigen, um sie aufzubrechen. Sie ist offen.}
-{110}{}{Die Explosion erschüttert die Tür. Obwohl massiv beschädigt, bleibt die Tür an ihrem Platz.}
-{111}{}{Die Tür reißt es entzwei, ohne größere Trümmer zu hinterlassen.}
+{100}{}{Du siehst eine stabile MetalltÃ¼r.}
+{101}{}{Solche TÃ¼ren wurde auch fÃ¼r Banktresore verwendet. Man wÃ¼rde mehrere, gut platzierte Sprengungen benÃ¶tigen, um sie aufzubrechen. Sie ist verschlossen.}
+{102}{}{Solche TÃ¼ren wurde auch fÃ¼r Banktresore verwendet. Man wÃ¼rde mehrere, gut platzierte Sprengungen benÃ¶tigen, um sie aufzubrechen. Sie ist offen.}
+{110}{}{Die Explosion erschÃ¼ttert die TÃ¼r. Obwohl massiv beschÃ¤digt, bleibt die TÃ¼r an ihrem Platz.}
+{111}{}{Die TÃ¼r reiÃŸt es entzwei, ohne grÃ¶ÃŸere TrÃ¼mmer zu hinterlassen.}

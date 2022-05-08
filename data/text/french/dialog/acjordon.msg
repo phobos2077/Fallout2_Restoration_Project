@@ -1,9 +1,9 @@
 {100}{}{Tu vois Jordan, tournoyant sa lance comme d'habitude.}
 {101}{}{Tu vois Jordan, tournoyant sa lance comme d'habitude.}
-{102}{}{Bonne chance ! Je dois retourner ‡ mon entraÓnement.}
-{103}{}{Salut ‡ toi Etre Elu. Je vois que tu as besoin d'un entraÓnement. Besoin d'aide ?}
+{102}{}{Bonne chance ! Je dois retourner √† mon entra√Ænement.}
+{103}{}{Salut √† toi Etre Elu. Je vois que tu as besoin d'un entra√Ænement. Besoin d'aide ?}
 {104}{}{Certainement.}
 {105}{}{Non merci.}
 {106}{}{Ca prendra un petit peu de temps.}
-{107}{}{Voil‡, tu as appris tout ce que je peux t'enseigner sur les lances.}
-{108}{}{Merci Jordan, Áa va beaucoup m'aider.}
+{107}{}{Voil√†, tu as appris tout ce que je peux t'enseigner sur les lances.}
+{108}{}{Merci Jordan, √ßa va beaucoup m'aider.}

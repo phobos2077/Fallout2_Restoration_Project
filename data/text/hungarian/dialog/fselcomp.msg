@@ -1,41 +1,41 @@
-{100}{}{Egy számítógép-terminált látsz.}
-{101}{}{Ez egy Hubologista számítógép.}
-{102}{}{Ez egy számítógép. Habár m?köd?képes állapotban van, elég primitív szegény.}
-{103}{}{Ez az egység nem fogad el parancsokat. Viszlát!}
-{104}{}{[Akárhogy is próbálkozol, nem tudod megtörni a számítógép védelmét.]}
-{105}{}{Kilépés.}
-{106}{}{Üdvözöli önt a HubLink.}
-{107}{}{Várom a parancsait:}
-{108}{}{Adatbázis elérése.}
-{109}{}{Vezérl?szervek elérése.}
-{110}{}{Kilépés.}
-{111}{}{Adatbázis kiválasztása.}
-{112}{}{Kutatás.}
-{113}{}{Jöv?beli tervek.}
-{114}{}{Pénzügyek.}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz.}
+{101}{}{Ez egy Hubologista szÃ¡mÃ­tÃ³gÃ©p.}
+{102}{}{Ez egy szÃ¡mÃ­tÃ³gÃ©p. HabÃ¡r m?kÃ¶d?kÃ©pes Ã¡llapotban van, elÃ©g primitÃ­v szegÃ©ny.}
+{103}{}{Ez az egysÃ©g nem fogad el parancsokat. ViszlÃ¡t!}
+{104}{}{[AkÃ¡rhogy is prÃ³bÃ¡lkozol, nem tudod megtÃ¶rni a szÃ¡mÃ­tÃ³gÃ©p vÃ©delmÃ©t.]}
+{105}{}{KilÃ©pÃ©s.}
+{106}{}{ÃœdvÃ¶zÃ¶li Ã¶nt a HubLink.}
+{107}{}{VÃ¡rom a parancsait:}
+{108}{}{AdatbÃ¡zis elÃ©rÃ©se.}
+{109}{}{VezÃ©rl?szervek elÃ©rÃ©se.}
+{110}{}{KilÃ©pÃ©s.}
+{111}{}{AdatbÃ¡zis kivÃ¡lasztÃ¡sa.}
+{112}{}{KutatÃ¡s.}
+{113}{}{JÃ¶v?beli tervek.}
+{114}{}{PÃ©nzÃ¼gyek.}
 {115}{}{Vissza.}
-{116}{}{[Miután átnyálazod a sok vallásos halandzsát, rátalálsz egy olyan fejezetre, amely a Hubologisták által kifejlesztett meger?sített er?páncélt taglalja. Ezenkívül arra is rájöttek, hogyan számoljanak ki bizonyos kilövési röppályákat, orbitális pályákat és térbeli koordinátákat. Mindezenfelül még az id?járás megzabolázásán is munkálkodnak.]}
+{116}{}{[MiutÃ¡n Ã¡tnyÃ¡lazod a sok vallÃ¡sos halandzsÃ¡t, rÃ¡talÃ¡lsz egy olyan fejezetre, amely a HubologistÃ¡k Ã¡ltal kifejlesztett meger?sÃ­tett er?pÃ¡ncÃ©lt taglalja. EzenkÃ­vÃ¼l arra is rÃ¡jÃ¶ttek, hogyan szÃ¡moljanak ki bizonyos kilÃ¶vÃ©si rÃ¶ppÃ¡lyÃ¡kat, orbitÃ¡lis pÃ¡lyÃ¡kat Ã©s tÃ©rbeli koordinÃ¡tÃ¡kat. MindezenfelÃ¼l mÃ©g az id?jÃ¡rÃ¡s megzabolÃ¡zÃ¡sÃ¡n is munkÃ¡lkodnak.]}
 {117}{}{Vissza.}
-{118}{}{Kilépés}
-{119}{}{[Körülbelül fél órát töltesz BHK-9 céljainak olvasgatásával. A megvilágosodás és a Csillagbéli Atyával való egyesülés mellett az is nyilvánvaló, hogy nem igazán érez szívfájdalmat, ha régi, még a kezdeteknél vele tartó elvtársait is meg kell öletni. Egy kicsit meg van zakkanva az öreg.]}
+{118}{}{KilÃ©pÃ©s}
+{119}{}{[KÃ¶rÃ¼lbelÃ¼l fÃ©l Ã³rÃ¡t tÃ¶ltesz BHK-9 cÃ©ljainak olvasgatÃ¡sÃ¡val. A megvilÃ¡gosodÃ¡s Ã©s a CsillagbÃ©li AtyÃ¡val valÃ³ egyesÃ¼lÃ©s mellett az is nyilvÃ¡nvalÃ³, hogy nem igazÃ¡n Ã©rez szÃ­vfÃ¡jdalmat, ha rÃ©gi, mÃ©g a kezdeteknÃ©l vele tartÃ³ elvtÃ¡rsait is meg kell Ã¶letni. Egy kicsit meg van zakkanva az Ã¶reg.]}
 {120}{}{Vissza.}
-{121}{}{Kilépés.}
-{122}{}{[Amint az nyilvánvaló a szöveg alapján, a Hubologista Egyház igen-igen gazdag. Az alapvet? eljárás a következ?: minden újonc azzal kezdi pályafutását, hogy valamennyi földi tulajdonát és pénzét átruházza az egyházra, s ezzel hitet tesz az eltökéltsége mellett. Ha valakit?l nem kérik ezt, a Hubologisták nem fogják méltányos elbánásban részesíteni. Valahol a sivatagban van egy rejtekhelyük, ahol az így felhalmozott javakat raktározzák. A koordinátákat nem sikerül kobogarásznod.]}
+{121}{}{KilÃ©pÃ©s.}
+{122}{}{[Amint az nyilvÃ¡nvalÃ³ a szÃ¶veg alapjÃ¡n, a Hubologista EgyhÃ¡z igen-igen gazdag. Az alapvet? eljÃ¡rÃ¡s a kÃ¶vetkez?: minden Ãºjonc azzal kezdi pÃ¡lyafutÃ¡sÃ¡t, hogy valamennyi fÃ¶ldi tulajdonÃ¡t Ã©s pÃ©nzÃ©t Ã¡truhÃ¡zza az egyhÃ¡zra, s ezzel hitet tesz az eltÃ¶kÃ©ltsÃ©ge mellett. Ha valakit?l nem kÃ©rik ezt, a HubologistÃ¡k nem fogjÃ¡k mÃ©ltÃ¡nyos elbÃ¡nÃ¡sban rÃ©szesÃ­teni. Valahol a sivatagban van egy rejtekhelyÃ¼k, ahol az Ã­gy felhalmozott javakat raktÃ¡rozzÃ¡k. A koordinÃ¡tÃ¡kat nem sikerÃ¼l kobogarÃ¡sznod.]}
 {123}{}{Vissza.}
-{124}{}{Kilépés.}
-{125}{}{Kontrollmenü. M?veletkiválasztás:}
-{126}{}{Merevlemez formázása.}
-{127}{}{Rendszer állapotellen?rzés.}
+{124}{}{KilÃ©pÃ©s.}
+{125}{}{KontrollmenÃ¼. M?veletkivÃ¡lasztÃ¡s:}
+{126}{}{Merevlemez formÃ¡zÃ¡sa.}
+{127}{}{Rendszer Ã¡llapotellen?rzÃ©s.}
 {128}{}{Vissza.}
-{129}{}{Kilépés.}
-{130}{}{Tiltott m?velet. Lépjen kapcsolatba a rendszergazdával! Kilépés. Viszlát!}
+{129}{}{KilÃ©pÃ©s.}
+{130}{}{Tiltott m?velet. LÃ©pjen kapcsolatba a rendszergazdÃ¡val! KilÃ©pÃ©s. ViszlÃ¡t!}
 {131}{}{[DONE]}
-{132}{}{Úgy t?nik, ehhez nincs interfész.}
-{133}{}{Az ESS Quetzel fel van töltve és készen áll a kilövésre.}
-{134}{}{Az ESS Quetzel üzemanyagtartályai üresek.}
+{132}{}{Ãšgy t?nik, ehhez nincs interfÃ©sz.}
+{133}{}{Az ESS Quetzel fel van tÃ¶ltve Ã©s kÃ©szen Ã¡ll a kilÃ¶vÃ©sre.}
+{134}{}{Az ESS Quetzel Ã¼zemanyagtartÃ¡lyai Ã¼resek.}
 {135}{}{Mainframe operational. Pipeline operational. Research stations operational. Repair center operational. Cameras operational.}
 {136}{}{Vissza.}
-{137}{}{Kilépés.}
+{137}{}{KilÃ©pÃ©s.}
 {200}{}{[The Hubologist Church appears to be hugely wealthy. The standard approach is to ask a new recruit to donate all
  his or her worldly possessions to the Church as a sign of good faith. When someone isn't asked to do this, apparently
  it means the Hubologists aren't intending to deal fairly. They have a huge cache of loot stashed somewhere in the desert.
@@ -49,6 +49,6 @@
 {212}{}{Format the system.}
 {213}{}{Initializing format procedure... Initialized... Formatting... Formatting Complete... System is shutting down. Goodbye.}
 {220}{}{You format the Hubologist mainframe.}
-{250}{}{Üzemanyag átirányítása a Poseidon tankerbe.}
-{251}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
+{250}{}{Ãœzemanyag Ã¡tirÃ¡nyÃ­tÃ¡sa a Poseidon tankerbe.}
+{251}{}{Az Ã¼zemanyag Ã¡tirÃ¡nyÃ­tva a kÃ©rt helyre. TÃ¡rolÃ³ = Ãœres. Program bezÃ¡rÃ¡sa.}
 {252}{}{[DONE]}

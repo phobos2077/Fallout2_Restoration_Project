@@ -1,8 +1,8 @@
-{100}{}{Egy rabot látsz.}
-{101}{}{Egy rabot látsz, aki valaha Kívülálló lehetett.}
-{102}{}{Ez volt az utolsó alkalom, hogy megszegtem a kijárási tilalmat.}
-{103}{}{Még egy hét és mehetek vissza a Szolgaközvetít? Központba.}
-{104}{}{Jobb lesz, ha elt?nsz innen, haver! Ha meglátják, hogy dumálunk, te is nyakig benne leszel.}
-{105}{}{Az a rohadt Barkus juttatott ide. Egyszer még elkapom.}
-{106}{}{Bánom, hogy idejöttem. Méghogy szabad város... röhej.}
+{100}{}{Egy rabot lÃ¡tsz.}
+{101}{}{Egy rabot lÃ¡tsz, aki valaha KÃ­vÃ¼lÃ¡llÃ³ lehetett.}
+{102}{}{Ez volt az utolsÃ³ alkalom, hogy megszegtem a kijÃ¡rÃ¡si tilalmat.}
+{103}{}{MÃ©g egy hÃ©t Ã©s mehetek vissza a SzolgakÃ¶zvetÃ­t? KÃ¶zpontba.}
+{104}{}{Jobb lesz, ha elt?nsz innen, haver! Ha meglÃ¡tjÃ¡k, hogy dumÃ¡lunk, te is nyakig benne leszel.}
+{105}{}{Az a rohadt Barkus juttatott ide. Egyszer mÃ©g elkapom.}
+{106}{}{BÃ¡nom, hogy idejÃ¶ttem. MÃ©ghogy szabad vÃ¡ros... rÃ¶hej.}
 {107}{}{Mondjuk a kaja nem rossz.}

@@ -1,65 +1,65 @@
-{100}{}{Ves el monumento de una cabeza enorme de piedra que parece estar... ¿hablando consigo misma?}
-{101}{}{Ves un monumento de piedra de la cabeza del Morador del Refugio. Tiene un parecido bastante favorecedor, a pesar de que dudas que la cabeza del Morador del Refugio fuera realmente de ese tamaño.}
+{100}{}{Ves el monumento de una cabeza enorme de piedra que parece estar... Â¿hablando consigo misma?}
+{101}{}{Ves un monumento de piedra de la cabeza del Morador del Refugio. Tiene un parecido bastante favorecedor, a pesar de que dudas que la cabeza del Morador del Refugio fuera realmente de ese tamaÃ±o.}
 {102}{}{Ves un gran monumento de piedra.}
-{103}{}{Ves un monumento de piedra de la cabeza del Morador del Refugio. Tiene un parecido bastante favorecedor, a pesar de que dudas que la cabeza del Morador del Refugio fuera realmente de ese tamaño.}
+{103}{}{Ves un monumento de piedra de la cabeza del Morador del Refugio. Tiene un parecido bastante favorecedor, a pesar de que dudas que la cabeza del Morador del Refugio fuera realmente de ese tamaÃ±o.}
 {104}{}{Malditos turistas...}
 {105}{}{"Yo soy la Elegida". Y una mierda.}
-{106}{}{Si yo fuera tú, "Elegida", me largaría de aquí.}
+{106}{}{Si yo fuera tÃº, "Elegida", me largarÃ­a de aquÃ­.}
 {107}{}{Zzzzzz Snzzzzz Zzzzzzzzzz}
 {108}{}{ZZZZZZZzzzzzzzz}
 {109}{}{Zsnzzz...*ronquido*...zzzzsZZZZZ}
 {110}{}{Zzssnnnnnzzzzz}
 {111}{}{ZZZZzzzzzZZZZZ}
-{112}{}{Ojalá pudiera ver qué hay detrás mío.}
-{113}{}{Si tan solo viniera alguien y desenterrara el resto de mí...}
-{114}{}{Estoy seguro de que esas hormigas devoradoras de piedra llegarán en cualquier momento para comerme.}
-{115}{}{"¡Sé una cabeza de piedra gigante! ¡Observa el mundo!". Qué tonterías.}
-{116}{}{Es un misterio para mí el cómo acabé aquí, en el desierto.}
-{117}{}{Sigo sin entender por qué tengo que estar aquí en el desierto, mientras que la otra cabeza está en la aldea.}
-{118}{}{Quiero decir, a él le adoran y le limpian y le rezan... todo lo que yo tengo es arena, todo el día arena.}
-{119}{}{He oído que esos tíos de la Isla de Pascua se lo han montado bien.}
-{120}{}{Estoy seguro de que Stonehenge recibe más visitantes que yo.}
-{121}{}{Hrnnfff... uh-uh, Mamá... mañana no hay cole... Zsnzzzzz}
-{122}{}{Zzzsnnnzzzz... No quiero levantarme todavía.... Zzznnsss}
-{123}{}{Zzsssccs... ¿eh?}
-{124}{}{¿Qué--?}
-{125}{}{¡APARTA TUS MANOS DE MÍ!}
-{126}{}{El jugador debería volverse, echarse unos pasos atrás, y después darse la vuelta y encarar el monumento.}
+{112}{}{OjalÃ¡ pudiera ver quÃ© hay detrÃ¡s mÃ­o.}
+{113}{}{Si tan solo viniera alguien y desenterrara el resto de mÃ­...}
+{114}{}{Estoy seguro de que esas hormigas devoradoras de piedra llegarÃ¡n en cualquier momento para comerme.}
+{115}{}{"Â¡SÃ© una cabeza de piedra gigante! Â¡Observa el mundo!". QuÃ© tonterÃ­as.}
+{116}{}{Es un misterio para mÃ­ el cÃ³mo acabÃ© aquÃ­, en el desierto.}
+{117}{}{Sigo sin entender por quÃ© tengo que estar aquÃ­ en el desierto, mientras que la otra cabeza estÃ¡ en la aldea.}
+{118}{}{Quiero decir, a Ã©l le adoran y le limpian y le rezan... todo lo que yo tengo es arena, todo el dÃ­a arena.}
+{119}{}{He oÃ­do que esos tÃ­os de la Isla de Pascua se lo han montado bien.}
+{120}{}{Estoy seguro de que Stonehenge recibe mÃ¡s visitantes que yo.}
+{121}{}{Hrnnfff... uh-uh, MamÃ¡... maÃ±ana no hay cole... Zsnzzzzz}
+{122}{}{Zzzsnnnzzzz... No quiero levantarme todavÃ­a.... Zzznnsss}
+{123}{}{Zzsssccs... Â¿eh?}
+{124}{}{Â¿QuÃ©--?}
+{125}{}{Â¡APARTA TUS MANOS DE MÃ!}
+{126}{}{El jugador deberÃ­a volverse, echarse unos pasos atrÃ¡s, y despuÃ©s darse la vuelta y encarar el monumento.}
 {127}{}{*Ejem*}
-{128}{}{¡¿QUIÉN SE ATREVE A ACERCARSE A LA SAGRADA CABEZA DEL MORADOR DEL REFUGIO?!}
+{128}{}{Â¡Â¿QUIÃ‰N SE ATREVE A ACERCARSE A LA SAGRADA CABEZA DEL MORADOR DEL REFUGIO?!}
 {129}{}{Soy yo, la Elegida.}
-{130}{}{¡HA HA HA HA HA HA!}
-{131}{}{¡¿*TÚ*?! ¿LA ELEGIDA?}
-{132}{}{¡NO ERES MÁS GRANDE QUE MI DEDO!}
-{133}{}{TÚ NO *ERES* LA ELEGIDA.}
-{134}{}{Sí, lo soy.}
+{130}{}{Â¡HA HA HA HA HA HA!}
+{131}{}{Â¡Â¿*TÃš*?! Â¿LA ELEGIDA?}
+{132}{}{Â¡NO ERES MÃS GRANDE QUE MI DEDO!}
+{133}{}{TÃš NO *ERES* LA ELEGIDA.}
+{134}{}{SÃ­, lo soy.}
 {135}{}{NO, NO LO ERES.}
-{136}{}{Sí, lo soy.}
+{136}{}{SÃ­, lo soy.}
 {137}{}{UH-UH.}
 {138}{}{Uh-huh.}
 {139}{}{UH-UH.}
 {140}{}{Uh-huh.}
 {141}{}{UH...UH...}
 {142}{}{Uh...huh...}
-{143}{}{UH...¡BASTA YA!}
-{144}{}{¡MUY BIEN! ¡TE HAS MOSTRADO DIGNA!}
-{145}{}{¡*ERES* LA ELEGIDA!}
-{146}{}{¡Toma ESTO!}
-{147}{}{¡AHORA DÉJAME!}
-{148}{}{Eh, ¡gracias!}
-{149}{}{SÍ, LO QUE SEA. AHORA LÁRGATE DE AQUÍ.}
+{143}{}{UH...Â¡BASTA YA!}
+{144}{}{Â¡MUY BIEN! Â¡TE HAS MOSTRADO DIGNA!}
+{145}{}{Â¡*ERES* LA ELEGIDA!}
+{146}{}{Â¡Toma ESTO!}
+{147}{}{Â¡AHORA DÃ‰JAME!}
+{148}{}{Eh, Â¡gracias!}
+{149}{}{SÃ, LO QUE SEA. AHORA LÃRGATE DE AQUÃ.}
 {150}{}{MALDITOS TURISTAS.}
 {151}{}{YA TE HE DADO UN REGALO.}
-{152}{}{¡VETE!}
+{152}{}{Â¡VETE!}
 {153}{}{Idiota.}
-{154}{}{¿QUÉ?! ¡ROBÁNDOME, ¿TÚ?!}
-{155}{}{¡MUERE!}
-{156}{}{Desintegración del jugador con una animación de muerte por plasma.}
-{200}{}{(12 horas más tarde)}
+{154}{}{Â¿QUÃ‰?! Â¡ROBÃNDOME, Â¿TÃš?!}
+{155}{}{Â¡MUERE!}
+{156}{}{DesintegraciÃ³n del jugador con una animaciÃ³n de muerte por plasma.}
+{200}{}{(12 horas mÃ¡s tarde)}
 {1129}{}{Soy Elegido.}
-{1134}{}{Sí soy.}
-{1136}{}{¡Sí soy!}
+{1134}{}{SÃ­ soy.}
+{1136}{}{Â¡SÃ­ soy!}
 {1138}{}{Uh-huh.}
 {1140}{}{Uh-huh.}
 {1142}{}{Uh...huh...}
-{1148}{}{¡AAciaaaas!}
+{1148}{}{Â¡AAciaaaas!}

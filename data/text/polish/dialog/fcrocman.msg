@@ -1,69 +1,69 @@
-{100}{}{Widzisz zabieganego, ³ysego mê¿czyznê.}
+{100}{}{Widzisz zabieganego, Å‚ysego mÄ™Å¼czyznÄ™.}
 {101}{}{To Harry, kierownik ds. rakiety.}
-{102}{}{Widzisz zabieganego, ³ysego mê¿czyznê.}
-{103}{}{Aaaa! Niewierni! Ratunku! Stra¿e!}
-{107}{}{Hej! Miêcho! Kim jesteœ? Co tutaj robisz?}
+{102}{}{Widzisz zabieganego, Å‚ysego mÄ™Å¼czyznÄ™.}
+{103}{}{Aaaa! Niewierni! Ratunku! StraÅ¼e!}
+{107}{}{Hej! MiÄ™cho! Kim jesteÅ›? Co tutaj robisz?}
 {108}{}{Yy?}
-{109}{}{Mam list dla UKC-9. Gdzie mam go dostarczyæ?}
+{109}{}{Mam list dla UKC-9. Gdzie mam go dostarczyÄ‡?}
 {110}{}{Jestem}
-{111}{}{Nie twój interes.}
-{112}{}{Chcê do³¹czyæ do Centrologów.}
-{113}{}{Kim TY jesteœ? I co TY tutaj robisz?}
+{111}{}{Nie twÃ³j interes.}
+{112}{}{ChcÄ™ doÅ‚Ä…czyÄ‡ do CentrologÃ³w.}
+{113}{}{Kim TY jesteÅ›? I co TY tutaj robisz?}
 {114}{}{Nic takiego. Na razie.}
-{115}{}{Wspaniale, imbecyl. S³uchaj, po prostu zejdŸ tymi schodami na dó³, a mo¿e uszeregujê twoje neurodyny i zrobi¹ z ciebie coœ u¿ytecznego. A do tego czasu jestem dla ciebie zajêty. IdŸ ju¿.}
+{115}{}{Wspaniale, imbecyl. SÅ‚uchaj, po prostu zejdÅº tymi schodami na dÃ³Å‚, a moÅ¼e uszeregujÄ™ twoje neurodyny i zrobiÄ… z ciebie coÅ› uÅ¼ytecznego. A do tego czasu jestem dla ciebie zajÄ™ty. IdÅº juÅ¼.}
 {116}{}{O-kej!}
-{117}{}{IdŸ na dó³. Poka¿ to UKC-7, który ma teraz s³u¿bê przy bramie, a on siê tym zajmie i wska¿e ci drogê do UKC-9. A teraz, miêcho, mogê wróciæ do swojej pracy?}
+{117}{}{IdÅº na dÃ³Å‚. PokaÅ¼ to UKC-7, ktÃ³ry ma teraz sÅ‚uÅ¼bÄ™ przy bramie, a on siÄ™ tym zajmie i wskaÅ¼e ci drogÄ™ do UKC-9. A teraz, miÄ™cho, mogÄ™ wrÃ³ciÄ‡ do swojej pracy?}
 {118}{}{Jasne.}
-{119}{}{Nie nale¿ysz do naszych braci i sióstr, tak wiêc nie powinno ciê tu byæ. Chyba ¿e chcesz siê do nas przy³¹czyæ. Mo¿esz to uczyniæ przedstawiaj¹c swój cel UKC-7, przebywaj¹cemu w stra¿nicy. Wiêc albo pójdziesz na dó³, albo wynocha st¹d.}
-{120}{}{Dobra, dobra. Nie musisz siê tak podniecaæ.}
-{121}{}{Có¿, tak naprawdê to to jest mój interes. To mój statek, a tam s¹ moje stra¿e - wiêc teraz, kim jesteœ i co tutaj robisz?}
+{119}{}{Nie naleÅ¼ysz do naszych braci i siÃ³str, tak wiÄ™c nie powinno ciÄ™ tu byÄ‡. Chyba Å¼e chcesz siÄ™ do nas przyÅ‚Ä…czyÄ‡. MoÅ¼esz to uczyniÄ‡ przedstawiajÄ…c swÃ³j cel UKC-7, przebywajÄ…cemu w straÅ¼nicy. WiÄ™c albo pÃ³jdziesz na dÃ³Å‚, albo wynocha stÄ…d.}
+{120}{}{Dobra, dobra. Nie musisz siÄ™ tak podniecaÄ‡.}
+{121}{}{CÃ³Å¼, tak naprawdÄ™ to to jest mÃ³j interes. To mÃ³j statek, a tam sÄ… moje straÅ¼e - wiÄ™c teraz, kim jesteÅ› i co tutaj robisz?}
 {122}{}{Jestem}
-{123}{}{Nie twój interes.}
-{124}{}{Chcê do³¹czyæ do Centrologów.}
-{125}{}{Kim TY jesteœ? I co TY tutaj robisz?}
+{123}{}{Nie twÃ³j interes.}
+{124}{}{ChcÄ™ doÅ‚Ä…czyÄ‡ do CentrologÃ³w.}
+{125}{}{Kim TY jesteÅ›? I co TY tutaj robisz?}
 {126}{}{Nic takiego. Na razie.}
-{127}{}{Jestem Harry, g³ówny technik rakietowy.}
+{127}{}{Jestem Harry, gÅ‚Ã³wny technik rakietowy.}
 {128}{}{Jestem}
-{129}{}{Nie twój interes.}
-{130}{}{Chcê do³¹czyæ do Centrologów.}
+{129}{}{Nie twÃ³j interes.}
+{130}{}{ChcÄ™ doÅ‚Ä…czyÄ‡ do CentrologÃ³w.}
 {131}{}{Nic takiego. Na razie.}
-{132}{}{Nie chcemy wspó³pracowaæ, co? Stra¿e! Zabiæ intruza!}
-{133}{}{Twoi stra¿nicy s¹ ju¿ martwi.}
-{134}{}{ZejdŸ na po schodach do stra¿nicy i porozmawiaj z UKC-9. On ciê ju¿ odpowiednio pokieruje.}
-{135}{}{Dziêki. Na razie.}
-{161}{}{. Tylko siê rozgl¹dam.}
-{162}{}{. Tylko siê rozgl¹dam.}
-{163}{}{. Tylko siê rozgl¹dam.}
-{170}{}{Dziecko, potrzebujê pomocy. Czy mo¿esz mi pomóc?}
-{171}{}{Wci¹¿ potrzebujê pomocy, dziecko. Czy mo¿esz mi pomóc?}
-{172}{}{Kim jesteœ?}
+{132}{}{Nie chcemy wspÃ³Å‚pracowaÄ‡, co? StraÅ¼e! ZabiÄ‡ intruza!}
+{133}{}{Twoi straÅ¼nicy sÄ… juÅ¼ martwi.}
+{134}{}{ZejdÅº na po schodach do straÅ¼nicy i porozmawiaj z UKC-9. On ciÄ™ juÅ¼ odpowiednio pokieruje.}
+{135}{}{DziÄ™ki. Na razie.}
+{161}{}{. Tylko siÄ™ rozglÄ…dam.}
+{162}{}{. Tylko siÄ™ rozglÄ…dam.}
+{163}{}{. Tylko siÄ™ rozglÄ…dam.}
+{170}{}{Dziecko, potrzebujÄ™ pomocy. Czy moÅ¼esz mi pomÃ³c?}
+{171}{}{WciÄ…Å¼ potrzebujÄ™ pomocy, dziecko. Czy moÅ¼esz mi pomÃ³c?}
+{172}{}{Kim jesteÅ›?}
 {173}{}{Co tutaj robisz?}
-{174}{}{Mam kopie planów od Shi.}
+{174}{}{Mam kopie planÃ³w od Shi.}
 {175}{}{Mam plany latacza.}
-{176}{}{Shi maj¹ plany lataczy.}
-{177}{}{Co mogê dla ciebie zrobiæ?}
+{176}{}{Shi majÄ… plany lataczy.}
+{177}{}{Co mogÄ™ dla ciebie zrobiÄ‡?}
 {178}{}{Zapomnij, na razie.}
-{179}{}{Jestem Harry, UKC-5. Jestem gwiezdnym bratem odpowiedzialnym za rakietê kosmiczn¹. U¿yjemy jej do podró¿y na Quetzel.}
-{180}{}{Czy mogê spytaæ o coœ innego?}
+{179}{}{Jestem Harry, UKC-5. Jestem gwiezdnym bratem odpowiedzialnym za rakietÄ™ kosmicznÄ…. UÅ¼yjemy jej do podrÃ³Å¼y na Quetzel.}
+{180}{}{Czy mogÄ™ spytaÄ‡ o coÅ› innego?}
 {181}{}{Rozumiem. Na razie.}
-{182}{}{Przygotowujê statek na wielk¹ wyprawê do Gwiezdnego Ojca. Jesteœmy ju¿ tego bardzo bliscy.}
-{183}{}{Czy mogê spytaæ o coœ innego?}
+{182}{}{PrzygotowujÄ™ statek na wielkÄ… wyprawÄ™ do Gwiezdnego Ojca. JesteÅ›my juÅ¼ tego bardzo bliscy.}
+{183}{}{Czy mogÄ™ spytaÄ‡ o coÅ› innego?}
 {184}{}{Rozumiem. Na razie.}
-{185}{}{Masz plany? Doskonale! Wiêc wszystko, czego teraz potrzebujemy, to paliwo! Shi maj¹ go pe³no. Zobacz, czy nie uda³oby ci siê trochê go do nas przekierowaæ. Powodzenia, rekrucie!}
+{185}{}{Masz plany? Doskonale! WiÄ™c wszystko, czego teraz potrzebujemy, to paliwo! Shi majÄ… go peÅ‚no. Zobacz, czy nie udaÅ‚oby ci siÄ™ trochÄ™ go do nas przekierowaÄ‡. Powodzenia, rekrucie!}
 {186}{}{[dalej]}
-{187}{}{Wiêc musisz je zdobyæ, prawda? A teraz przepraszam ciê - muszê dalej przygotowywaæ statek do naszej wiekopomnej wyprawy.}
+{187}{}{WiÄ™c musisz je zdobyÄ‡, prawda? A teraz przepraszam ciÄ™ - muszÄ™ dalej przygotowywaÄ‡ statek do naszej wiekopomnej wyprawy.}
 {188}{}{Mam plany latacza.}
 {189}{}{Jasne.}
-{190}{}{Mamy ju¿ wszystko, czego potrzebujemy do podró¿y! Wspaniale! Teraz tylko musimy czekaæ na s³owo od UKC-9 - z pewnoœci¹ bêdzie chcia³ widzieæ ciebie z nami. IdŸ zrób, co jeszcze musisz uczyniæ - a wtedy wróæ i po³¹cz siê z nami i Gwiezdnym Ojcem!}
-{191}{}{Wiêc do zobaczenia!}
-{192}{}{Po pierwsze potrzebujemy plany lataczy, aby upewniæ siê, ¿e mamy dobrze ustawion¹ aerodynamikê. Je¿eli mo¿esz to zrobiæ, to poszukaj u Shi, albo idŸ do tej starej bazy w Navarro.}
-{193}{}{Pamiêtaj, szukasz dla nas planów lataczy. Albo spróbuj poszukaæ u Shi, albo w tej starej bazie w Navarro.}
-{194}{}{Nikomu nie uda³o siê zdobyæ planów lataczy od Shi, ani z tej starej bazy w Navarro. Mo¿e jednak zmienisz zdanie co do pomocy nam?}
-{195}{}{Pamiêtaj, rekrucie! Znienawidzeni Shi maj¹ plany.}
+{190}{}{Mamy juÅ¼ wszystko, czego potrzebujemy do podrÃ³Å¼y! Wspaniale! Teraz tylko musimy czekaÄ‡ na sÅ‚owo od UKC-9 - z pewnoÅ›ciÄ… bÄ™dzie chciaÅ‚ widzieÄ‡ ciebie z nami. IdÅº zrÃ³b, co jeszcze musisz uczyniÄ‡ - a wtedy wrÃ³Ä‡ i poÅ‚Ä…cz siÄ™ z nami i Gwiezdnym Ojcem!}
+{191}{}{WiÄ™c do zobaczenia!}
+{192}{}{Po pierwsze potrzebujemy plany lataczy, aby upewniÄ‡ siÄ™, Å¼e mamy dobrze ustawionÄ… aerodynamikÄ™. JeÅ¼eli moÅ¼esz to zrobiÄ‡, to poszukaj u Shi, albo idÅº do tej starej bazy w Navarro.}
+{193}{}{PamiÄ™taj, szukasz dla nas planÃ³w lataczy. Albo sprÃ³buj poszukaÄ‡ u Shi, albo w tej starej bazie w Navarro.}
+{194}{}{Nikomu nie udaÅ‚o siÄ™ zdobyÄ‡ planÃ³w lataczy od Shi, ani z tej starej bazy w Navarro. MoÅ¼e jednak zmienisz zdanie co do pomocy nam?}
+{195}{}{PamiÄ™taj, rekrucie! Znienawidzeni Shi majÄ… plany.}
 {196}{}{Mam plany latacza.}
 {197}{}{Zapomnij o tym.}
-{198}{}{Dobrze, zrobiê to.}
-{199}{}{Wiesz, czego teraz nam potrzeba? Paliwa. I to du¿o. Shi maj¹ go trochê. Zobacz, czy uda ci siê je zdobyæ.}
-{200}{}{Pamiêtaj, ¿e zdobywasz paliwo do naszego wspania³ego statku.}
-{201}{}{Ach, w porz¹dku. Na razie.}
-{300}{}{Ktoœ prze³ama³ zabezpieczenia i nasze zapasy paliwa zosta³y wyczerpane. Jestem odrobinê zbyt zajêty, ¿eby teraz rozmawiaæ.}
+{198}{}{Dobrze, zrobiÄ™ to.}
+{199}{}{Wiesz, czego teraz nam potrzeba? Paliwa. I to duÅ¼o. Shi majÄ… go trochÄ™. Zobacz, czy uda ci siÄ™ je zdobyÄ‡.}
+{200}{}{PamiÄ™taj, Å¼e zdobywasz paliwo do naszego wspaniaÅ‚ego statku.}
+{201}{}{Ach, w porzÄ…dku. Na razie.}
+{300}{}{KtoÅ› przeÅ‚amaÅ‚ zabezpieczenia i nasze zapasy paliwa zostaÅ‚y wyczerpane. Jestem odrobinÄ™ zbyt zajÄ™ty, Å¼eby teraz rozmawiaÄ‡.}

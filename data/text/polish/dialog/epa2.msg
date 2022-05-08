@@ -1,1 +1,1 @@
-{100}{}{Jesteœ w podziemnej czêœci bazy AOŒ.}
+{100}{}{JesteÅ› w podziemnej czÄ™Å›ci bazy AOÅš.}

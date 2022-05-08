@@ -1,46 +1,46 @@
 {100}{}{Du siehst einen modifizierten Autodoc.}
-{101}{}{Dieser Autodoc scheint modifiziert worden zu sein, um experimentelle Körpermodifikationen durchzuführen.}
-{200}{}{[Die Maschine spricht dich an, als du dich näherst.] Willkommen, Testsubjekt. Danke schön, dass sie Ihren Körper freiwillig der Wissenschaft zur Verfügung stellen. Bitte, treten sie ein, dann können wir beginnen.}
+{101}{}{Dieser Autodoc scheint modifiziert worden zu sein, um experimentelle KÃ¶rpermodifikationen durchzufÃ¼hren.}
+{200}{}{[Die Maschine spricht dich an, als du dich nÃ¤herst.] Willkommen, Testsubjekt. Danke schÃ¶n, dass sie Ihren KÃ¶rper freiwillig der Wissenschaft zur VerfÃ¼gung stellen. Bitte, treten sie ein, dann kÃ¶nnen wir beginnen.}
 {201}{}{Hoppala! Ich habe mich zu rein gar nichts freiwillig gemeldet. Also, bevor ich irgendwo hineingehe, sag mir zuerst einmal genau, was du tust?}
-{202}{}{[achselzuckend] In Ordnung. [steigst in das Gerät]}
-{203}{}{Du hast mich mit jemand anderem verwechselt. Tschüss.}
-{300}{}{Nochmals willkommen, Testsubjekt. Bitte, treten sie ein, dann können wir beginnen.}
+{202}{}{[achselzuckend] In Ordnung. [steigst in das GerÃ¤t]}
+{203}{}{Du hast mich mit jemand anderem verwechselt. TschÃ¼ss.}
+{300}{}{Nochmals willkommen, Testsubjekt. Bitte, treten sie ein, dann kÃ¶nnen wir beginnen.}
 {301}{}{Bevor ich irgendwo hineingehe, weshalb sagst du mir nicht genau, was du tust?}
-{302}{}{In Ordnung. [steigst in das Gerät]}
-{303}{}{Das glaube ich weniger. Tschüss.}
-{400}{}{Ich bin der neueste Prototyp der Autodoc-Technologie, entwickelt von Dr. Wood. Spezialisiert auf außergewöhnliche Körpermodifikation - das Nonplusultra der Verschönerung. Es gibt keinen Grund, nervös zu sein, da sich die Sterblichkeitsrate gegenüber dem vorherigen Prototyp erheblich verringert hat. Scheuen Sie sich nicht, treten sie ein, dann können wir anfangen.}
+{302}{}{In Ordnung. [steigst in das GerÃ¤t]}
+{303}{}{Das glaube ich weniger. TschÃ¼ss.}
+{400}{}{Ich bin der neueste Prototyp der Autodoc-Technologie, entwickelt von Dr. Wood. Spezialisiert auf auÃŸergewÃ¶hnliche KÃ¶rpermodifikation - das Nonplusultra der VerschÃ¶nerung. Es gibt keinen Grund, nervÃ¶s zu sein, da sich die Sterblichkeitsrate gegenÃ¼ber dem vorherigen Prototyp erheblich verringert hat. Scheuen Sie sich nicht, treten sie ein, dann kÃ¶nnen wir anfangen.}
 {401}{}{Du fasst mich nicht an. Auf Wiedersehen.}
-{402}{}{Ich würde gern, aber ich muss wirklich gehen. Entschuldigung.}
-{403}{}{In Ordnung. [steigst in das Gerät]}
-{410}{}{Bitte treffen Sie Ihre Wahl. Da ich ein früher Prototyp bin, kann ich Ihnen nur beschränkte Wahlmöglichkeiten anbieten. Bedaure.}
-{411}{}{Ändere das Geschlecht.}
-{412}{}{Ändere die Rasse (Gegenwärtig nur von hellhäutig auf afroamerikanisch oder umgekehrt).}
-{413}{}{Frisur ändern (normales Haar).}
-{414}{}{Frisur ändern (langes Haar).}
-{415}{}{Frisur ändern (kahl).}
-{416}{}{Frisur ändern (blondes Haar).}
-{417}{}{Frisur ändern (rotes Haar).}
-{418}{}{Wenn ich so darüber nachdenke, Ich habe im Augenblick wirklich keine Zeit dafür. Auf Wiedersehen.}
-{500}{}{Bei diesem Verfahren dauert die Erholungsphase vier Wochen, und die Überlebenschance beträgt 50%. Möchten Sie jetzt beginnen?}
+{402}{}{Ich wÃ¼rde gern, aber ich muss wirklich gehen. Entschuldigung.}
+{403}{}{In Ordnung. [steigst in das GerÃ¤t]}
+{410}{}{Bitte treffen Sie Ihre Wahl. Da ich ein frÃ¼her Prototyp bin, kann ich Ihnen nur beschrÃ¤nkte WahlmÃ¶glichkeiten anbieten. Bedaure.}
+{411}{}{Ã„ndere das Geschlecht.}
+{412}{}{Ã„ndere die Rasse (GegenwÃ¤rtig nur von hellhÃ¤utig auf afroamerikanisch oder umgekehrt).}
+{413}{}{Frisur Ã¤ndern (normales Haar).}
+{414}{}{Frisur Ã¤ndern (langes Haar).}
+{415}{}{Frisur Ã¤ndern (kahl).}
+{416}{}{Frisur Ã¤ndern (blondes Haar).}
+{417}{}{Frisur Ã¤ndern (rotes Haar).}
+{418}{}{Wenn ich so darÃ¼ber nachdenke, Ich habe im Augenblick wirklich keine Zeit dafÃ¼r. Auf Wiedersehen.}
+{500}{}{Bei diesem Verfahren dauert die Erholungsphase vier Wochen, und die Ãœberlebenschance betrÃ¤gt 50%. MÃ¶chten Sie jetzt beginnen?}
 {501}{}{Na, dann los.}
 {502}{}{Ja. Jetzt kann ich endlich der Mensch sein, der ich innendrin schon immer gewesen bin.}
-{503}{}{Ahh, vielleicht später. Tschüss.}
-{504}{}{Lass mich ein anderes Verfahren wählen.}
+{503}{}{Ahh, vielleicht spÃ¤ter. TschÃ¼ss.}
+{504}{}{Lass mich ein anderes Verfahren wÃ¤hlen.}
 {505}{}{Mein Gott, nein! Ich bin weg!}
-{510}{}{Ausgezeichnete Wahl. Bei diesem Verfahren dauert die Erholungsphase zwei Wochen, und die Überlebenschance beträgt 75%. Möchten Sie jetzt beginnen?}
+{510}{}{Ausgezeichnete Wahl. Bei diesem Verfahren dauert die Erholungsphase zwei Wochen, und die Ãœberlebenschance betrÃ¤gt 75%. MÃ¶chten Sie jetzt beginnen?}
 {511}{}{Na, dann los.}
 {512}{}{Ja. Jetzt kann ich endlich der Mensch sein, der ich innendrin schon immer gewesen bin.}
-{513}{}{Ahh, vielleicht später. Tschüss.}
-{514}{}{Lass mich ein anderes Verfahren wählen.}
+{513}{}{Ahh, vielleicht spÃ¤ter. TschÃ¼ss.}
+{514}{}{Lass mich ein anderes Verfahren wÃ¤hlen.}
 {515}{}{Mein Gott, nein! Ich bin weg!}
-{520}{}{Ausgezeichnete Wahl. Bei diesem Verfahren dauert die Erholungsphase einen Tag, und die Überlebenschance beträgt 99%. Möchten Sie jetzt beginnen?}
+{520}{}{Ausgezeichnete Wahl. Bei diesem Verfahren dauert die Erholungsphase einen Tag, und die Ãœberlebenschance betrÃ¤gt 99%. MÃ¶chten Sie jetzt beginnen?}
 {521}{}{Na, dann los.}
 {522}{}{Ja. Jetzt kann ich endlich der Mensch sein, der ich innendrin schon immer gewesen bin.}
-{523}{}{Ahh, vielleicht später. Tschüss.}
-{524}{}{Lass mich ein anderes Verfahren wählen.}
+{523}{}{Ahh, vielleicht spÃ¤ter. TschÃ¼ss.}
+{524}{}{Lass mich ein anderes Verfahren wÃ¤hlen.}
 {525}{}{Mein Gott, nein! Ich bin weg!}
-{600}{}{Herzliche Glückwünsche! Der Versuch war ein Erfolg. Ich danke Ihnen, und genießen sie ihr neues Ich.}
+{600}{}{Herzliche GlÃ¼ckwÃ¼nsche! Der Versuch war ein Erfolg. Ich danke Ihnen, und genieÃŸen sie ihr neues Ich.}
 {601}{}{[Ende]}
-{650}{}{Es tut mir leid, dieses spezielle Verfahren ist derzeit für Frauen nicht verfügbar.}
-{700}{}{Es tut mir leid, aber etwas ging bei dem Verfahren schrecklich daneben. Wir entschuldigen uns für diese Unannehmlichkeit, aber danken Ihnen für ihr freiwilliges Engagement zum Wohle der Wissenschaft.}
+{650}{}{Es tut mir leid, dieses spezielle Verfahren ist derzeit fÃ¼r Frauen nicht verfÃ¼gbar.}
+{700}{}{Es tut mir leid, aber etwas ging bei dem Verfahren schrecklich daneben. Wir entschuldigen uns fÃ¼r diese Unannehmlichkeit, aber danken Ihnen fÃ¼r ihr freiwilliges Engagement zum Wohle der Wissenschaft.}
 {701}{}{Oh, Mist...}

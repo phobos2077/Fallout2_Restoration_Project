@@ -1,260 +1,260 @@
-{100}{}{Widzisz osobê rozdaj¹c¹ karty.}
+{100}{}{Widzisz osobÄ™ rozdajÄ…cÄ… karty.}
 {101}{}{Widzisz Montego Trzy-Karty.}
-{150}{}{Widzisz wrzecionowatego starszego mê¿czyznê o twarzy spalonej s³oñcem. Jest tak chudy, ¿e wygl¹da, jakby by³ zrobiony z patyków.}
-{151}{}{Widzisz Montego Trzy-Karty, który obserwuj¹c uwa¿nie ulicê dostrzega ciê i kiwa g³ow¹.}
-{152}{}{Widzisz Montego Trzy-Karty, który obserwuj¹c uwa¿nie ulicê dostrzega ciê i kiwa g³ow¹.}
-{200}{}{Nie wiem jak mog³em przegraæ...}
-{201}{}{IdŸ dalej... interes Montego jest dzisiaj zamkniêty.}
-{202}{}{Czy wymaca³em nie tê kartê?}
-{203}{}{Jak tej wioskowej je³opie uda³o siê wyci¹gn¹æ w³aœciw¹ kartê?}
-{205}{}{Heeeej! Bohaterze! Jesteœ w porz¹siu, w porz¹siu.}
-{206}{}{::Pokazuje ci wyci¹gniêty do góry kciuk::}
-{207}{}{::Uœmiecha siê, kiwa g³ow¹::}
-{208}{}{Dobra robota bohaterze, naprawdê dobra.}
-{215}{}{Gdzie do licha s¹ moje karty? Jeszcze PRZED CHWIL¥ je mia³em.}
-{216}{}{Te cholerne chochliki drukarskie dobra³y siê teraz do moich kart.}
-{220}{}{Jo, ch³opie, olej kasyna. ChodŸ zagraæ u Montego.}
-{221}{}{Szukasz szczêœcia, ch³opie? Tu masz najwiêksze szanse w Nowym Reno! No chodŸ...}
-{222}{}{Hej, facet. ChodŸ tu, wygl¹dasz na szczêœciarza.}
-{223}{}{Ktoœ chce zagraæ? Piniondze za nic, piniondze za nic.}
-{224}{}{ChodŸ tu zagraæ. Jednego dnia jeden facet wygra³ u mnie 50 dolców.}
-{225}{}{Proste, zgadnij, gdzie jest królowa, czerwona królowa, a wygrasz. To proste.}
-{226}{}{Masz uczulenie na ³atw¹ forsê? To chodŸ tutaj.}
-{227}{}{Dzisiaj ka¿dy wygrywa... chcesz te¿ siê na to za³apaæ?}
-{228}{}{W kasynach obedr¹ ciê ze skóry, ograbi¹ w bia³y dzieñ... Monte dobrze ciê potraktuje, da ci uczciw¹ szansê.}
-{229}{}{Szukasz szczêœcia, panienko? Tu masz najwiêksze szanse w Nowym Reno! No chodŸ...}
-{230}{}{Hej, panienko, masz uczulenie na ³atw¹ forsê? To chodŸ tutaj.}
-{231}{}{ChodŸ no tu panienko, wygl¹dasz na szczêœciarê.}
-{232}{}{Hej, panienko, nie zawracaj sobie œlicznej g³ówki kasynami. ChodŸ zagraæ u Montego.}
-{233}{}{U Montego dzisiaj nieczynne. Te cholerne karty gdzieœ siê zapodzia³y.}
-{234}{}{(Staruszek uœmiecha siê, a skóra wokó³ jego oczu marszczy siê) Chcesz zagraæ, co?}
-{235}{}{(Staruszek uœmiecha siê, a skóra wokó³ jego oczu marszczy siê) Chcesz zagraæ, panienko?}
-{236}{}{(Staruszek uœmiecha siê, a skóra wokó³ jego oczu marszczy siê) Chcesz zagraæ, bohaterze?}
-{237}{}{(Monte uœmiecha siê, a skóra wokó³ jego oczu marszczy siê) Chcesz zagraæ, co?}
-{238}{}{(Monte uœmiecha siê, a skóra wokó³ jego oczu marszczy siê) Chcesz zagraæ, panienko?}
-{239}{}{(Monte uœmiecha siê, a skóra wokó³ jego oczu marszczy siê) Chcesz zagraæ, bohaterze?}
-{240}{}{Jestem Monte Trzy-Karty, a gra nazywa siê jak ja. Wyk³adaj 20 dolców i zaczynajmy.}
+{150}{}{Widzisz wrzecionowatego starszego mÄ™Å¼czyznÄ™ o twarzy spalonej sÅ‚oÅ„cem. Jest tak chudy, Å¼e wyglÄ…da, jakby byÅ‚ zrobiony z patykÃ³w.}
+{151}{}{Widzisz Montego Trzy-Karty, ktÃ³ry obserwujÄ…c uwaÅ¼nie ulicÄ™ dostrzega ciÄ™ i kiwa gÅ‚owÄ….}
+{152}{}{Widzisz Montego Trzy-Karty, ktÃ³ry obserwujÄ…c uwaÅ¼nie ulicÄ™ dostrzega ciÄ™ i kiwa gÅ‚owÄ….}
+{200}{}{Nie wiem jak mogÅ‚em przegraÄ‡...}
+{201}{}{IdÅº dalej... interes Montego jest dzisiaj zamkniÄ™ty.}
+{202}{}{Czy wymacaÅ‚em nie tÄ™ kartÄ™?}
+{203}{}{Jak tej wioskowej jeÅ‚opie udaÅ‚o siÄ™ wyciÄ…gnÄ…Ä‡ wÅ‚aÅ›ciwÄ… kartÄ™?}
+{205}{}{Heeeej! Bohaterze! JesteÅ› w porzÄ…siu, w porzÄ…siu.}
+{206}{}{::Pokazuje ci wyciÄ…gniÄ™ty do gÃ³ry kciuk::}
+{207}{}{::UÅ›miecha siÄ™, kiwa gÅ‚owÄ…::}
+{208}{}{Dobra robota bohaterze, naprawdÄ™ dobra.}
+{215}{}{Gdzie do licha sÄ… moje karty? Jeszcze PRZED CHWILÄ„ je miaÅ‚em.}
+{216}{}{Te cholerne chochliki drukarskie dobraÅ‚y siÄ™ teraz do moich kart.}
+{220}{}{Jo, chÅ‚opie, olej kasyna. ChodÅº zagraÄ‡ u Montego.}
+{221}{}{Szukasz szczÄ™Å›cia, chÅ‚opie? Tu masz najwiÄ™ksze szanse w Nowym Reno! No chodÅº...}
+{222}{}{Hej, facet. ChodÅº tu, wyglÄ…dasz na szczÄ™Å›ciarza.}
+{223}{}{KtoÅ› chce zagraÄ‡? Piniondze za nic, piniondze za nic.}
+{224}{}{ChodÅº tu zagraÄ‡. Jednego dnia jeden facet wygraÅ‚ u mnie 50 dolcÃ³w.}
+{225}{}{Proste, zgadnij, gdzie jest krÃ³lowa, czerwona krÃ³lowa, a wygrasz. To proste.}
+{226}{}{Masz uczulenie na Å‚atwÄ… forsÄ™? To chodÅº tutaj.}
+{227}{}{Dzisiaj kaÅ¼dy wygrywa... chcesz teÅ¼ siÄ™ na to zaÅ‚apaÄ‡?}
+{228}{}{W kasynach obedrÄ… ciÄ™ ze skÃ³ry, ograbiÄ… w biaÅ‚y dzieÅ„... Monte dobrze ciÄ™ potraktuje, da ci uczciwÄ… szansÄ™.}
+{229}{}{Szukasz szczÄ™Å›cia, panienko? Tu masz najwiÄ™ksze szanse w Nowym Reno! No chodÅº...}
+{230}{}{Hej, panienko, masz uczulenie na Å‚atwÄ… forsÄ™? To chodÅº tutaj.}
+{231}{}{ChodÅº no tu panienko, wyglÄ…dasz na szczÄ™Å›ciarÄ™.}
+{232}{}{Hej, panienko, nie zawracaj sobie Å›licznej gÅ‚Ã³wki kasynami. ChodÅº zagraÄ‡ u Montego.}
+{233}{}{U Montego dzisiaj nieczynne. Te cholerne karty gdzieÅ› siÄ™ zapodziaÅ‚y.}
+{234}{}{(Staruszek uÅ›miecha siÄ™, a skÃ³ra wokÃ³Å‚ jego oczu marszczy siÄ™) Chcesz zagraÄ‡, co?}
+{235}{}{(Staruszek uÅ›miecha siÄ™, a skÃ³ra wokÃ³Å‚ jego oczu marszczy siÄ™) Chcesz zagraÄ‡, panienko?}
+{236}{}{(Staruszek uÅ›miecha siÄ™, a skÃ³ra wokÃ³Å‚ jego oczu marszczy siÄ™) Chcesz zagraÄ‡, bohaterze?}
+{237}{}{(Monte uÅ›miecha siÄ™, a skÃ³ra wokÃ³Å‚ jego oczu marszczy siÄ™) Chcesz zagraÄ‡, co?}
+{238}{}{(Monte uÅ›miecha siÄ™, a skÃ³ra wokÃ³Å‚ jego oczu marszczy siÄ™) Chcesz zagraÄ‡, panienko?}
+{239}{}{(Monte uÅ›miecha siÄ™, a skÃ³ra wokÃ³Å‚ jego oczu marszczy siÄ™) Chcesz zagraÄ‡, bohaterze?}
+{240}{}{Jestem Monte Trzy-Karty, a gra nazywa siÄ™ jak ja. WykÅ‚adaj 20 dolcÃ³w i zaczynajmy.}
 {241}{}{Ty oszust. Ty nie gra uczciwa}
-{242}{}{Dobra, tu dolców ja nie wie ile 20 wiêc tu troche.}
-{243}{}{Uch, mi mi³o, ale nie chcê teraz z tob¹ tego zaczynaæ... paaaaa.}
-{244}{}{OdejdŸ bez s³owa.}
+{242}{}{Dobra, tu dolcÃ³w ja nie wie ile 20 wiÄ™c tu troche.}
+{243}{}{Uch, mi miÅ‚o, ale nie chcÄ™ teraz z tobÄ… tego zaczynaÄ‡... paaaaa.}
+{244}{}{OdejdÅº bez sÅ‚owa.}
 {245}{}{Zagrajmy.}
 {246}{}{Uch, w co?}
-{247}{}{Znam tê grê. Tu jest 20 dolców. Zagrajmy.}
-{248}{}{Monte Trzy-Karty, co? K³adziesz trzy karty koszulkami do góry, przek³adasz je na stole, a ja wybieram jedn¹. Jeœli to jest w³aœciwa karta - a nie jest, poniewa¿ podmieni³eœ j¹ w czasie przek³adania - to wygrywam. Dziêki, ch³opie, ale nie skorzystam.}
-{249}{}{Monte Trzy-Karty, co? K³adziesz trzy karty koszulkami do góry, przek³adasz je na stole, a ja wybieram jedn¹. Jeœli to jest w³aœciwa karta - a nie jest, poniewa¿ podmieni³eœ j¹ w czasie przek³adania - to wygrywam. Dziêki, ch³opie, ale nie skorzystam.}
-{250}{}{Nie dzisiaj, dziêki.}
-{251}{}{W co? W grê oczywiœcie!}
-{252}{}{Popatrz... (pokazuje ci trzy karty) ...jedna z nich to królowa. K³adê j¹ koszulk¹ do góry, przek³adam, a ty masz pokazaæ, która z nich to królowa. Jeœli zgadniesz, wygrywasz.}
+{247}{}{Znam tÄ™ grÄ™. Tu jest 20 dolcÃ³w. Zagrajmy.}
+{248}{}{Monte Trzy-Karty, co? KÅ‚adziesz trzy karty koszulkami do gÃ³ry, przekÅ‚adasz je na stole, a ja wybieram jednÄ…. JeÅ›li to jest wÅ‚aÅ›ciwa karta - a nie jest, poniewaÅ¼ podmieniÅ‚eÅ› jÄ… w czasie przekÅ‚adania - to wygrywam. DziÄ™ki, chÅ‚opie, ale nie skorzystam.}
+{249}{}{Monte Trzy-Karty, co? KÅ‚adziesz trzy karty koszulkami do gÃ³ry, przekÅ‚adasz je na stole, a ja wybieram jednÄ…. JeÅ›li to jest wÅ‚aÅ›ciwa karta - a nie jest, poniewaÅ¼ podmieniÅ‚eÅ› jÄ… w czasie przekÅ‚adania - to wygrywam. DziÄ™ki, chÅ‚opie, ale nie skorzystam.}
+{250}{}{Nie dzisiaj, dziÄ™ki.}
+{251}{}{W co? W grÄ™ oczywiÅ›cie!}
+{252}{}{Popatrz... (pokazuje ci trzy karty) ...jedna z nich to krÃ³lowa. KÅ‚adÄ™ jÄ… koszulkÄ… do gÃ³ry, przekÅ‚adam, a ty masz pokazaÄ‡, ktÃ³ra z nich to krÃ³lowa. JeÅ›li zgadniesz, wygrywasz.}
 {253}{}{To proste, kolego.}
 {254}{}{To proste, panienko.}
 {255}{}{Nie gram z takim oszustem jak ty.}
-{256}{}{Móg³byœ wyt³umaczyæ mi zasady?}
-{257}{}{Brzmi doœæ prosto. Zagrajmy. Tu masz 20 dolców.}
-{258}{}{Nie dzisiaj, dziêki.}
-{260}{}{(Wrêczasz mu pieni¹dze. Monte kiwa g³ow¹, pokazuje ci karty, potem k³adzie je na ziemi i przek³ada przez kilka sekund.}
-{261}{}{Wiêc... która z nich to królowa, kolego?}
-{262}{}{Wiêc... która z nich to królowa, panienko?}
-{263}{}{(Wydaje ci siê, ¿e to ta po lewej.)}
-{264}{}{(Wydaje ci siê, ¿e to ta po œrodku.)}
-{265}{}{(Wydaje ci siê, ¿e to ta po prawej.)}
-{266}{}{(Nie wiesz. Karty rusza³y siê zbyt szybko.)}
-{267}{}{Szczêsna lewa.}
-{268}{}{Œrodek drogi.}
+{256}{}{MÃ³gÅ‚byÅ› wytÅ‚umaczyÄ‡ mi zasady?}
+{257}{}{Brzmi doÅ›Ä‡ prosto. Zagrajmy. Tu masz 20 dolcÃ³w.}
+{258}{}{Nie dzisiaj, dziÄ™ki.}
+{260}{}{(WrÄ™czasz mu pieniÄ…dze. Monte kiwa gÅ‚owÄ…, pokazuje ci karty, potem kÅ‚adzie je na ziemi i przekÅ‚ada przez kilka sekund.}
+{261}{}{WiÄ™c... ktÃ³ra z nich to krÃ³lowa, kolego?}
+{262}{}{WiÄ™c... ktÃ³ra z nich to krÃ³lowa, panienko?}
+{263}{}{(Wydaje ci siÄ™, Å¼e to ta po lewej.)}
+{264}{}{(Wydaje ci siÄ™, Å¼e to ta po Å›rodku.)}
+{265}{}{(Wydaje ci siÄ™, Å¼e to ta po prawej.)}
+{266}{}{(Nie wiesz. Karty ruszaÅ‚y siÄ™ zbyt szybko.)}
+{267}{}{SzczÄ™sna lewa.}
+{268}{}{Åšrodek drogi.}
 {269}{}{Prawa bez obawy.}
 {270}{}{Ta po lewej.}
 {271}{}{Ta po prawej.}
-{272}{}{Ta po œrodku.}
-{280}{}{(Monte odwraca kartê. To }
-{281}{}{Przykro mi, kolego, nie tym razem, ale by³eœ BLISKO.}
-{282}{}{Przykro mi, panienko, nie tym razem, ale by³aœ BLISKO.}
-{283}{}{Ale widaæ, ¿e masz do tego oko. Chcesz spróbowaæ jeszcze raz?}
+{272}{}{Ta po Å›rodku.}
+{280}{}{(Monte odwraca kartÄ™. To }
+{281}{}{Przykro mi, kolego, nie tym razem, ale byÅ‚eÅ› BLISKO.}
+{282}{}{Przykro mi, panienko, nie tym razem, ale byÅ‚aÅ› BLISKO.}
+{283}{}{Ale widaÄ‡, Å¼e masz do tego oko. Chcesz sprÃ³bowaÄ‡ jeszcze raz?}
 {284}{}{Ty oszust. Ty nie gra uczciwa}
-{285}{}{Dobra, tu dolców ja nie wie ile 20 wiêc tu troche.}
+{285}{}{Dobra, tu dolcÃ³w ja nie wie ile 20 wiÄ™c tu troche.}
 {286}{}{Na-naa Ja nie LUBI gra PAAAAA}
 {287}{}{Nie gram z takim oszustem jak ty.}
-{288}{}{Proszê. Tu masz 20 dolców.}
-{289}{}{Nie, dziêkujê.}
-{300}{}{(Wrêczasz mu pieni¹dze. Monte kiwa g³ow¹, pokazuje ci karty i k³adzie je na ziemi. W tej samej chwili podmienia kartê tak szybko, ¿e ma³o brakowa³o, a by ciê zmyli³. Potem przek³ada je przez kilka sekund.)}
-{301}{}{Wiêc... która z nich to królowa, kolego?}
-{302}{}{Wiêc... która z nich to królowa, panienko?}
-{303}{}{Ty w³o¿yæ rêkawa ty nie gra uczciwy}
-{304}{}{Szczêsna lewa.}
-{305}{}{Œrodek drogi.}
+{288}{}{ProszÄ™. Tu masz 20 dolcÃ³w.}
+{289}{}{Nie, dziÄ™kujÄ™.}
+{300}{}{(WrÄ™czasz mu pieniÄ…dze. Monte kiwa gÅ‚owÄ…, pokazuje ci karty i kÅ‚adzie je na ziemi. W tej samej chwili podmienia kartÄ™ tak szybko, Å¼e maÅ‚o brakowaÅ‚o, a by ciÄ™ zmyliÅ‚. Potem przekÅ‚ada je przez kilka sekund.)}
+{301}{}{WiÄ™c... ktÃ³ra z nich to krÃ³lowa, kolego?}
+{302}{}{WiÄ™c... ktÃ³ra z nich to krÃ³lowa, panienko?}
+{303}{}{Ty wÅ‚oÅ¼yÄ‡ rÄ™kawa ty nie gra uczciwy}
+{304}{}{SzczÄ™sna lewa.}
+{305}{}{Åšrodek drogi.}
 {306}{}{Prawa bez obawy.}
-{307}{}{Ty przeklêty OSZUŒCIE. Podmieni³eœ kartê. Oddaj mi moje pieni¹dze, albo zabijê ciê na miejscu.}
-{308}{}{Ta w twoim rêkawie.}
+{307}{}{Ty przeklÄ™ty OSZUÅšCIE. PodmieniÅ‚eÅ› kartÄ™. Oddaj mi moje pieniÄ…dze, albo zabijÄ™ ciÄ™ na miejscu.}
+{308}{}{Ta w twoim rÄ™kawie.}
 {309}{}{Ta po lewej.}
 {310}{}{Ta po prawej.}
-{311}{}{Ta po œrodku.}
-{320}{}{COŒ ty, kolego powiedzia³?}
-{321}{}{CO powiedzia³aœ panienko?}
-{322}{}{Oskar¿asz mnie o oszukiwanie?}
+{311}{}{Ta po Å›rodku.}
+{320}{}{COÅš ty, kolego powiedziaÅ‚?}
+{321}{}{CO powiedziaÅ‚aÅ› panienko?}
+{322}{}{OskarÅ¼asz mnie o oszukiwanie?}
 {323}{}{U-chu. Ja WIE ty oszust.}
-{324}{}{Na-naa! Na-naa! Nie byæ z³y. Ja iœæ.}
+{324}{}{Na-naa! Na-naa! Nie byÄ‡ zÅ‚y. Ja iÅ›Ä‡.}
 {325}{}{Tak.}
-{326}{}{Chrzaniæ to. WeŸ sobie pieni¹dze, idê st¹d.}
-{330}{}{S³uchaj, nie mam czasu dla p³aczków. P³acisz i dostajesz szansê. Jeœli chcesz GRAÆ, w porz¹dku, ale jeœli masz siê mazaæ, gdy przegrywasz, to spadaj!}
-{331}{}{JA PO£AMIE TY}
-{332}{}{Na-naa! Na-naa! Nie byæ z³y. Ja iœæ.}
-{333}{}{Doœæ tego. Jesteœ martwy.}
-{334}{}{Ju¿ dobrze, dobrze. Przepraszam. Tu masz 20 dolców. Zgrajmy jeszcze raz.}
-{335}{}{Chrzañ siê. WeŸ sobie pieni¹dze, ja st¹d spadam.}
-{340}{}{(Wrêczasz mu pieni¹dze. Monte kiwa g³ow¹, potem k³adzie karty i przek³ada je przez kilka chwil.)}
-{341}{}{Wiêc... która z nich to królowa, kolego?}
-{342}{}{Wiêc... która z nich to królowa, panienko?}
-{343}{}{(Monte u¿ywa swojej zwyk³ej talii! Musisz ukraœæ mu tê drug¹ taliê, by podmiana odnios³a skutek.)}
-{344}{}{Ty w³o¿yæ rêkawa ty nie gra uczciwy}
-{345}{}{Uch... szczêsna lewa}
-{346}{}{Uch... Œrodek drogi}
+{326}{}{ChrzaniÄ‡ to. WeÅº sobie pieniÄ…dze, idÄ™ stÄ…d.}
+{330}{}{SÅ‚uchaj, nie mam czasu dla pÅ‚aczkÃ³w. PÅ‚acisz i dostajesz szansÄ™. JeÅ›li chcesz GRAÄ†, w porzÄ…dku, ale jeÅ›li masz siÄ™ mazaÄ‡, gdy przegrywasz, to spadaj!}
+{331}{}{JA POÅAMIE TY}
+{332}{}{Na-naa! Na-naa! Nie byÄ‡ zÅ‚y. Ja iÅ›Ä‡.}
+{333}{}{DoÅ›Ä‡ tego. JesteÅ› martwy.}
+{334}{}{JuÅ¼ dobrze, dobrze. Przepraszam. Tu masz 20 dolcÃ³w. Zgrajmy jeszcze raz.}
+{335}{}{ChrzaÅ„ siÄ™. WeÅº sobie pieniÄ…dze, ja stÄ…d spadam.}
+{340}{}{(WrÄ™czasz mu pieniÄ…dze. Monte kiwa gÅ‚owÄ…, potem kÅ‚adzie karty i przekÅ‚ada je przez kilka chwil.)}
+{341}{}{WiÄ™c... ktÃ³ra z nich to krÃ³lowa, kolego?}
+{342}{}{WiÄ™c... ktÃ³ra z nich to krÃ³lowa, panienko?}
+{343}{}{(Monte uÅ¼ywa swojej zwykÅ‚ej talii! Musisz ukraÅ›Ä‡ mu tÄ™ drugÄ… taliÄ™, by podmiana odniosÅ‚a skutek.)}
+{344}{}{Ty wÅ‚oÅ¼yÄ‡ rÄ™kawa ty nie gra uczciwy}
+{345}{}{Uch... szczÄ™sna lewa}
+{346}{}{Uch... Åšrodek drogi}
 {347}{}{Uch... Prawa bez obawy.}
-{348}{}{Ty przeklêty OSZUŒCIE. Podmieni³eœ kartê. Oddaj mi moje pieni¹dze, albo zabijê ciê na miejscu.}
-{349}{}{Ta w twoim rêkawie.}
+{348}{}{Ty przeklÄ™ty OSZUÅšCIE. PodmieniÅ‚eÅ› kartÄ™. Oddaj mi moje pieniÄ…dze, albo zabijÄ™ ciÄ™ na miejscu.}
+{349}{}{Ta w twoim rÄ™kawie.}
 {350}{}{Uch, ta po lewej.}
 {351}{}{Uch, ta po prawej.}
-{352}{}{Uch, ta w œrodku.}
-{360}{}{(Wrêczasz mu pieni¹dze. Monte kiwa g³ow¹, pokazuje ci karty, potem k³adzie je na ziemi i przek³ada przez kilka sekund.}
-{361}{}{(Wrêczasz mu pieni¹dze. Monte sprawia wra¿enie zaniepokojonego.) Uch... no dobra... (Monte k³adzie karty na ziemi i przek³ada je przez kilka chwil.)}
-{362}{}{Wiêc... która z nich to królowa, kolego?}
-{363}{}{Wiêc... która z nich to królowa, panienko?}
-{364}{}{(Monte u¿ywa znaczonych kart. Ka¿dy wybór jest teraz w³aœciwy.)}
+{352}{}{Uch, ta w Å›rodku.}
+{360}{}{(WrÄ™czasz mu pieniÄ…dze. Monte kiwa gÅ‚owÄ…, pokazuje ci karty, potem kÅ‚adzie je na ziemi i przekÅ‚ada przez kilka sekund.}
+{361}{}{(WrÄ™czasz mu pieniÄ…dze. Monte sprawia wraÅ¼enie zaniepokojonego.) Uch... no dobra... (Monte kÅ‚adzie karty na ziemi i przekÅ‚ada je przez kilka chwil.)}
+{362}{}{WiÄ™c... ktÃ³ra z nich to krÃ³lowa, kolego?}
+{363}{}{WiÄ™c... ktÃ³ra z nich to krÃ³lowa, panienko?}
+{364}{}{(Monte uÅ¼ywa znaczonych kart. KaÅ¼dy wybÃ³r jest teraz wÅ‚aÅ›ciwy.)}
 {365}{}{Lewa! Lewa!}
 {366}{}{Prawa! Prawa!}
-{367}{}{Œrodkowa! Œrodkowa!}
+{367}{}{Åšrodkowa! Åšrodkowa!}
 {368}{}{No nie wiem... ta po lewej.}
-{369}{}{Hmmmm... mo¿e ta po prawej?}
-{370}{}{Kurczê, nie mam pewnoœci... chyba ta w œrodku.}
-{375}{}{(Monte odwraca kartê. Królowa kier. Wydaje siê, ¿e Monte dozna³ parali¿uj¹cego wstrz¹su.) Eee? He. Yyy... }
-{376}{}{No to, kolego chyba wygra³eœ.}
-{377}{}{No to, panienko chyba wygra³aœ.}
-{378}{}{(Oci¹gaj¹c siê daje ci pieni¹dze.)}
+{369}{}{Hmmmm... moÅ¼e ta po prawej?}
+{370}{}{KurczÄ™, nie mam pewnoÅ›ci... chyba ta w Å›rodku.}
+{375}{}{(Monte odwraca kartÄ™. KrÃ³lowa kier. Wydaje siÄ™, Å¼e Monte doznaÅ‚ paraliÅ¼ujÄ…cego wstrzÄ…su.) Eee? He. Yyy... }
+{376}{}{No to, kolego chyba wygraÅ‚eÅ›.}
+{377}{}{No to, panienko chyba wygraÅ‚aÅ›.}
+{378}{}{(OciÄ…gajÄ…c siÄ™ daje ci pieniÄ…dze.)}
 {379}{}{Jeszcze! Jeszcze!}
-{380}{}{Dzienks ja ju¿ iœæ}
-{381}{}{No to jak, zagramy jeszcze raz? No, Monte. Dopiero siê rozkrêcam!}
-{382}{}{Dziêki Monte. Na razie.}
-{385}{}{(Monte odwraca kartê. Królowa kier. Wygl¹da na wstrz¹œniêtego.) Co? He... yyy... }
-{386}{}{No to, kolego chyba wygra³eœ.}
-{387}{}{No to, panienko chyba wygra³aœ.}
-{388}{}{Ale przez to jestem ju¿ go³y... (rzuca ci bezsilne spojrzenie) czy mogê zrobiæ dla ciebie coœ jeszcze?}
-{389}{}{Nia. Ja tylko chcieæ trochê wiêcej PD. Pa. Pa.}
+{380}{}{Dzienks ja juÅ¼ iÅ›Ä‡}
+{381}{}{No to jak, zagramy jeszcze raz? No, Monte. Dopiero siÄ™ rozkrÄ™cam!}
+{382}{}{DziÄ™ki Monte. Na razie.}
+{385}{}{(Monte odwraca kartÄ™. KrÃ³lowa kier. WyglÄ…da na wstrzÄ…Å›niÄ™tego.) Co? He... yyy... }
+{386}{}{No to, kolego chyba wygraÅ‚eÅ›.}
+{387}{}{No to, panienko chyba wygraÅ‚aÅ›.}
+{388}{}{Ale przez to jestem juÅ¼ goÅ‚y... (rzuca ci bezsilne spojrzenie) czy mogÄ™ zrobiÄ‡ dla ciebie coÅ› jeszcze?}
+{389}{}{Nia. Ja tylko chcieÄ‡ trochÄ™ wiÄ™cej PD. Pa. Pa.}
 {390}{}{A co MASZ?}
-{391}{}{A mo¿e dasz mi kilka informacji?}
-{392}{}{Niewa¿ne Monte. Powiedzmy, ¿e na dziœ jesteœmy kwita.}
-{400}{}{(Coœ go chyba boli) Eee... no, mo¿e coœ mam... ale to jest warte o WIELE wiêcej ni¿ twoja wygrana... ale...}
+{391}{}{A moÅ¼e dasz mi kilka informacji?}
+{392}{}{NiewaÅ¼ne Monte. Powiedzmy, Å¼e na dziÅ› jesteÅ›my kwita.}
+{400}{}{(CoÅ› go chyba boli) Eee... no, moÅ¼e coÅ› mam... ale to jest warte o WIELE wiÄ™cej niÅ¼ twoja wygrana... ale...}
 {401}{}{No? Co to takiego?}
-{402}{}{Jeœli jest dla ciebie wiêcej warte ni¿ œmieræ na Golgocie z powodu niesp³aconych d³ugów, to ju¿ twój problem. Radzê ci to przemyœleæ.}
-{404}{}{Eee... hmmmm... to zale¿y od tego, co chcesz wiedzieæ.}
-{405}{}{Wiesz, kto pos³a³ do piachu dzieciaka Wrightów? Zrobi³ z niego œ.p. za pomoc¹ Jetu?}
-{406}{}{Czy wiesz, gdzie znajdê goœcia o imieniu Œliczny Ch³opiec Lloyd?}
-{407}{}{Wiesz gdzie jest mój samochód, co Monte?}
-{408}{}{Czy wiesz coœ, czym warto by siê ze mn¹ podzieliæ?}
-{409}{}{Niewa¿ne Monte. Jesteœmy kwita. Na razie.}
-{415}{}{Eee... có¿... s³uchaj, ja ci tego nie mówi³em, ale za³o¿ê siê, ¿e to Renesco, ten dupek, który prowadzi aptekê w zachodniej dzielnicy. Nie mam pewnoœci, czy on to dzieciakowi SPRZEDA£, ale coœ wie. To wszystko, co zamierzam powiedzieæ.}
-{416}{}{W porz¹dku Monte. Jesteœmy kwita.}
-{420}{}{Eee... no có¿... (wygl¹da jakby walczy³ sam ze sob¹) ...s³uchaj, ja ci tego nie mówi³em, ale na twoim miejscu sprawdzi³bym piwnicê pod Desperado.}
-{421}{}{W porz¹dku Monte. Jesteœmy kwita.}
-{425}{}{(Mru¿y oczy i pochyla siê) Zapyta³bym Julesa przy wjeŸdzie do miasta. Nic siê obok niego nie przeœlizgnie... a jeœli siê PRZEŒLIZGNÊ£O, to on macza³ w tym palce, czaisz?}
-{426}{}{W porz¹dku Monte. Jesteœmy kwita.}
-{430}{}{No có¿... znasz tego Eldridge'a, który prowadzi Bronie z Nowego Reno? Mówi, ¿e robi ulepszenia broni, ale nigdy nie widzia³em go przy racy. Mo¿e warto by kiedyœ obejrzeæ jego dom... ale ja ci tego nie mówi³em.}
-{431}{}{W porz¹dku Monte. Jesteœmy kwita.}
-{435}{}{(Na twój widok Monte marszczy brwi) S³uchaj, dziœ nie ma ¿adnego grania, dobra? Znikaj.}
-{436}{}{Mogê kupiæ tê kartê, któr¹ mi kiedyœ pokaza³eœ?}
-{437}{}{Porzebowa³em informacji...}
-{438}{}{No dobra Monte. Idê sobie... ale wrócê.}
-{440}{}{Nie. Nie zamierzam siê jej pozbywaæ. Koniec, kropka. To AUTENTYCZNA pami¹tka sprzed wojny... ma³y kawa³ek historii. NIE MA MOWY.}
-{441}{}{Chcesz mi z³o¿yæ KOLEJN¥ ofertê? Mówi³em ci ju¿, ¿e jej nie sprzedam.}
-{442}{}{Co powiesz na tysi¹c dolców? Mam je przy sobie. S¹ twoje w zamian za kartê.}
-{443}{}{Nawet za 750 dolców?}
-{444}{}{A co powiesz na 500 dolców?}
-{445}{}{250 dolców bêdzie dobrze?}
+{402}{}{JeÅ›li jest dla ciebie wiÄ™cej warte niÅ¼ Å›mierÄ‡ na Golgocie z powodu niespÅ‚aconych dÅ‚ugÃ³w, to juÅ¼ twÃ³j problem. RadzÄ™ ci to przemyÅ›leÄ‡.}
+{404}{}{Eee... hmmmm... to zaleÅ¼y od tego, co chcesz wiedzieÄ‡.}
+{405}{}{Wiesz, kto posÅ‚aÅ‚ do piachu dzieciaka WrightÃ³w? ZrobiÅ‚ z niego Å›.p. za pomocÄ… Jetu?}
+{406}{}{Czy wiesz, gdzie znajdÄ™ goÅ›cia o imieniu Åšliczny ChÅ‚opiec Lloyd?}
+{407}{}{Wiesz gdzie jest mÃ³j samochÃ³d, co Monte?}
+{408}{}{Czy wiesz coÅ›, czym warto by siÄ™ ze mnÄ… podzieliÄ‡?}
+{409}{}{NiewaÅ¼ne Monte. JesteÅ›my kwita. Na razie.}
+{415}{}{Eee... cÃ³Å¼... sÅ‚uchaj, ja ci tego nie mÃ³wiÅ‚em, ale zaÅ‚oÅ¼Ä™ siÄ™, Å¼e to Renesco, ten dupek, ktÃ³ry prowadzi aptekÄ™ w zachodniej dzielnicy. Nie mam pewnoÅ›ci, czy on to dzieciakowi SPRZEDAÅ, ale coÅ› wie. To wszystko, co zamierzam powiedzieÄ‡.}
+{416}{}{W porzÄ…dku Monte. JesteÅ›my kwita.}
+{420}{}{Eee... no cÃ³Å¼... (wyglÄ…da jakby walczyÅ‚ sam ze sobÄ…) ...sÅ‚uchaj, ja ci tego nie mÃ³wiÅ‚em, ale na twoim miejscu sprawdziÅ‚bym piwnicÄ™ pod Desperado.}
+{421}{}{W porzÄ…dku Monte. JesteÅ›my kwita.}
+{425}{}{(MruÅ¼y oczy i pochyla siÄ™) ZapytaÅ‚bym Julesa przy wjeÅºdzie do miasta. Nic siÄ™ obok niego nie przeÅ›lizgnie... a jeÅ›li siÄ™ PRZEÅšLIZGNÄ˜ÅO, to on maczaÅ‚ w tym palce, czaisz?}
+{426}{}{W porzÄ…dku Monte. JesteÅ›my kwita.}
+{430}{}{No cÃ³Å¼... znasz tego Eldridge'a, ktÃ³ry prowadzi Bronie z Nowego Reno? MÃ³wi, Å¼e robi ulepszenia broni, ale nigdy nie widziaÅ‚em go przy racy. MoÅ¼e warto by kiedyÅ› obejrzeÄ‡ jego dom... ale ja ci tego nie mÃ³wiÅ‚em.}
+{431}{}{W porzÄ…dku Monte. JesteÅ›my kwita.}
+{435}{}{(Na twÃ³j widok Monte marszczy brwi) SÅ‚uchaj, dziÅ› nie ma Å¼adnego grania, dobra? Znikaj.}
+{436}{}{MogÄ™ kupiÄ‡ tÄ™ kartÄ™, ktÃ³rÄ… mi kiedyÅ› pokazaÅ‚eÅ›?}
+{437}{}{PorzebowaÅ‚em informacji...}
+{438}{}{No dobra Monte. IdÄ™ sobie... ale wrÃ³cÄ™.}
+{440}{}{Nie. Nie zamierzam siÄ™ jej pozbywaÄ‡. Koniec, kropka. To AUTENTYCZNA pamiÄ…tka sprzed wojny... maÅ‚y kawaÅ‚ek historii. NIE MA MOWY.}
+{441}{}{Chcesz mi zÅ‚oÅ¼yÄ‡ KOLEJNÄ„ ofertÄ™? MÃ³wiÅ‚em ci juÅ¼, Å¼e jej nie sprzedam.}
+{442}{}{Co powiesz na tysiÄ…c dolcÃ³w? Mam je przy sobie. SÄ… twoje w zamian za kartÄ™.}
+{443}{}{Nawet za 750 dolcÃ³w?}
+{444}{}{A co powiesz na 500 dolcÃ³w?}
+{445}{}{250 dolcÃ³w bÄ™dzie dobrze?}
 {446}{}{Dobra. Mam inne pytanie...}
-{447}{}{Niewa¿ne, Monte. Spadam st¹d.}
+{447}{}{NiewaÅ¼ne, Monte. Spadam stÄ…d.}
 {450}{}{Co z twoimi uszami? Ta suma nawet mnie nie zainteresuje.}
-{451}{}{A co powiesz na inn¹ sumê...?}
-{452}{}{Mam kilka innych pytañ...}
-{453}{}{Niewa¿ne, Monte. Spadam st¹d.}
-{460}{}{No, w koñcu nie jest dla mnie A¯ TAK cenna. WeŸ j¹ sobie. (Spogl¹da na prawo, na lewo, po czym œci¹ga jeden z butów, odkrêca obcas i wyci¹ga ze œrodka kartê do gry) Masz. Dbaj o ni¹.}
-{461}{}{Mam kilka innych pytañ...}
-{462}{}{Dziêki Monte. Interesy z tob¹ to przyjemnoœæ.}
-{465}{}{(Marszczy brwi) To, czy bêdê mówi³, zale¿y od tego, o co zapytasz. A nie jestem tani.}
-{466}{}{Wiesz, kto pos³a³ do piachu dzieciaka Wrightów? Zrobi³ z niego œ.p. za pomoc¹ Jetu?}
-{467}{}{Czy wiesz, gdzie znajdê goœcia o imieniu Œliczny Ch³opiec Lloyd?}
-{468}{}{Wiesz gdzie jest mój samochód, co Monte?}
-{469}{}{Czy wiesz coœ, czym warto by siê ze mn¹ podzieliæ?}
-{470}{}{Niewa¿ne, Monte. Spadam st¹d.}
-{475}{}{Za ¿adne skarby Golgoty nie bêdê nawet TYKAÆ tego tematu. Odwal siê.}
-{476}{}{S³uchaj, ten temat oznacza k³opoty. Zostawmy to, dobra?}
-{477}{}{Chcesz mi z³o¿yæ kolejn¹ ofertê? Mówi³em ci ju¿, ¿e NIE BÊDÊ o tym rozmawiaæ.}
-{478}{}{Co powiesz na tysi¹c dolców? Mam je przy sobie.}
-{479}{}{Nawet za 750 dolców?}
-{480}{}{A co powiesz na 500 dolców?}
-{481}{}{250 dolców bêdzie dobrze?}
+{451}{}{A co powiesz na innÄ… sumÄ™...?}
+{452}{}{Mam kilka innych pytaÅ„...}
+{453}{}{NiewaÅ¼ne, Monte. Spadam stÄ…d.}
+{460}{}{No, w koÅ„cu nie jest dla mnie AÅ» TAK cenna. WeÅº jÄ… sobie. (SpoglÄ…da na prawo, na lewo, po czym Å›ciÄ…ga jeden z butÃ³w, odkrÄ™ca obcas i wyciÄ…ga ze Å›rodka kartÄ™ do gry) Masz. Dbaj o niÄ….}
+{461}{}{Mam kilka innych pytaÅ„...}
+{462}{}{DziÄ™ki Monte. Interesy z tobÄ… to przyjemnoÅ›Ä‡.}
+{465}{}{(Marszczy brwi) To, czy bÄ™dÄ™ mÃ³wiÅ‚, zaleÅ¼y od tego, o co zapytasz. A nie jestem tani.}
+{466}{}{Wiesz, kto posÅ‚aÅ‚ do piachu dzieciaka WrightÃ³w? ZrobiÅ‚ z niego Å›.p. za pomocÄ… Jetu?}
+{467}{}{Czy wiesz, gdzie znajdÄ™ goÅ›cia o imieniu Åšliczny ChÅ‚opiec Lloyd?}
+{468}{}{Wiesz gdzie jest mÃ³j samochÃ³d, co Monte?}
+{469}{}{Czy wiesz coÅ›, czym warto by siÄ™ ze mnÄ… podzieliÄ‡?}
+{470}{}{NiewaÅ¼ne, Monte. Spadam stÄ…d.}
+{475}{}{Za Å¼adne skarby Golgoty nie bÄ™dÄ™ nawet TYKAÄ† tego tematu. Odwal siÄ™.}
+{476}{}{SÅ‚uchaj, ten temat oznacza kÅ‚opoty. Zostawmy to, dobra?}
+{477}{}{Chcesz mi zÅ‚oÅ¼yÄ‡ kolejnÄ… ofertÄ™? MÃ³wiÅ‚em ci juÅ¼, Å¼e NIE BÄ˜DÄ˜ o tym rozmawiaÄ‡.}
+{478}{}{Co powiesz na tysiÄ…c dolcÃ³w? Mam je przy sobie.}
+{479}{}{Nawet za 750 dolcÃ³w?}
+{480}{}{A co powiesz na 500 dolcÃ³w?}
+{481}{}{250 dolcÃ³w bÄ™dzie dobrze?}
 {482}{}{Uch... Gologta?}
-{483}{}{Mam kilka innych pytañ...}
-{484}{}{Niewa¿ne, Monte. Spadam st¹d.}
-{490}{}{(Potrz¹sa g³ow¹) Nie ma mowy. Paplanie o tym œci¹gnê³oby na kogoœ œmieræ, a na mnie pewnie w pierwszej kolejnoœci. Zapomnij.}
-{491}{}{A mo¿e zaproponujê ci to...}
-{492}{}{Mam kilka innych pytañ...}
-{493}{}{Niewa¿ne, Monte. Spadam st¹d.}
-{495}{}{Och... nooo... to mnóstwo dolarów. (Oblizuje usta. Wygl¹da jakby walczy³ sam z sob¹... ale ta walka nie trwa d³ugo.) S³uchaj, ja ci tego nie powiedzia³em...}
-{496}{}{Oczywiœcie. Mów dalej.}
-{500}{}{(Uœmiecha siê drwi¹co) Mo¿e coœ s³ysza³em, a mo¿e nie. Podaj cenê.}
-{501}{}{No dobra... podaj cenê.}
-{502}{}{Co powiesz na tysi¹c dolców? Mam je przy sobie.}
-{503}{}{Nawet za 750 dolców?}
-{504}{}{A co powiesz na 500 dolców?}
-{505}{}{250 dolców bêdzie dobrze?}
-{506}{}{Mam kilka innych pytañ...}
-{507}{}{Niewa¿ne, Monte. Spadam st¹d.}
-{510}{}{Ha! Za tyle nie kupisz kub³a szczyn. Zapomnij.}
-{511}{}{A mo¿e zaproponujê ci to...}
-{512}{}{Mam kilka innych pytañ...}
-{513}{}{Niewa¿ne, Monte. Spadam st¹d.}
-{515}{}{Taaaaak, to rozumiem. (Szczerzy zêby.) S³uchaj, ja ci tego nie mówi³em, ale na twoim miejscu poszuka³bym w piwnicy pod Desperado w Alei Dziewic. Jest tam mnóstwo "szczurów", jeœli ³apiesz moj¹ aluzjê.}
-{516}{}{Mam kilka innych pytañ...}
-{517}{}{£apiê. Dziêki.}
-{520}{}{(Wzrusza ramionami) Mo¿e coœ o tym wiem, a mo¿e nie. Podaj cenê, a mo¿e bêdê mia³ coœ do powiedzenia.}
-{521}{}{No dobra... podaj cenê.}
-{522}{}{Co powiesz na tysi¹c dolców? Mam je przy sobie.}
-{523}{}{Nawet za 750 dolców?}
-{524}{}{A co powiesz na 500 dolców?}
-{525}{}{250 dolców bêdzie dobrze?}
-{526}{}{Mam kilka innych pytañ...}
-{527}{}{Niewa¿ne, Monte. Spadam st¹d.}
-{530}{}{(Mru¿¹c oczy pochyla siê nad tob¹.) Za tak¹ sumê nie wiem nic.}
-{531}{}{A mo¿e zaproponujê ci to...}
-{532}{}{Mam kilka innych pytañ...}
-{533}{}{Niewa¿ne, Monte. Spadam st¹d.}
-{535}{}{To ja rozumiem... (mru¿¹c oczy pochyla siê nad tob¹) ...zapyta³bym Julesa przy wjeŸdzie do miasta. Nic siê obok niego nie przeœlizgnie... a jeœli siê PRZEŒLIZGNÊ£O, to on macza³ w tym palce, kumasz?}
-{536}{}{Mam kilka innych pytañ...}
-{537}{}{W porz¹ddku Monte. Dziêki.}
-{540}{}{(Wzrusza ramionami) Czasem coœ s³yszê, czasem coœ widzê. Byæ mo¿e za 200 dolców podzieli³bym siê swoimi doœwiadczeniami, ³apiesz?}
-{541}{}{Oto 200 dolców.}
+{483}{}{Mam kilka innych pytaÅ„...}
+{484}{}{NiewaÅ¼ne, Monte. Spadam stÄ…d.}
+{490}{}{(PotrzÄ…sa gÅ‚owÄ…) Nie ma mowy. Paplanie o tym Å›ciÄ…gnÄ™Å‚oby na kogoÅ› Å›mierÄ‡, a na mnie pewnie w pierwszej kolejnoÅ›ci. Zapomnij.}
+{491}{}{A moÅ¼e zaproponujÄ™ ci to...}
+{492}{}{Mam kilka innych pytaÅ„...}
+{493}{}{NiewaÅ¼ne, Monte. Spadam stÄ…d.}
+{495}{}{Och... nooo... to mnÃ³stwo dolarÃ³w. (Oblizuje usta. WyglÄ…da jakby walczyÅ‚ sam z sobÄ…... ale ta walka nie trwa dÅ‚ugo.) SÅ‚uchaj, ja ci tego nie powiedziaÅ‚em...}
+{496}{}{OczywiÅ›cie. MÃ³w dalej.}
+{500}{}{(UÅ›miecha siÄ™ drwiÄ…co) MoÅ¼e coÅ› sÅ‚yszaÅ‚em, a moÅ¼e nie. Podaj cenÄ™.}
+{501}{}{No dobra... podaj cenÄ™.}
+{502}{}{Co powiesz na tysiÄ…c dolcÃ³w? Mam je przy sobie.}
+{503}{}{Nawet za 750 dolcÃ³w?}
+{504}{}{A co powiesz na 500 dolcÃ³w?}
+{505}{}{250 dolcÃ³w bÄ™dzie dobrze?}
+{506}{}{Mam kilka innych pytaÅ„...}
+{507}{}{NiewaÅ¼ne, Monte. Spadam stÄ…d.}
+{510}{}{Ha! Za tyle nie kupisz kubÅ‚a szczyn. Zapomnij.}
+{511}{}{A moÅ¼e zaproponujÄ™ ci to...}
+{512}{}{Mam kilka innych pytaÅ„...}
+{513}{}{NiewaÅ¼ne, Monte. Spadam stÄ…d.}
+{515}{}{Taaaaak, to rozumiem. (Szczerzy zÄ™by.) SÅ‚uchaj, ja ci tego nie mÃ³wiÅ‚em, ale na twoim miejscu poszukaÅ‚bym w piwnicy pod Desperado w Alei Dziewic. Jest tam mnÃ³stwo "szczurÃ³w", jeÅ›li Å‚apiesz mojÄ… aluzjÄ™.}
+{516}{}{Mam kilka innych pytaÅ„...}
+{517}{}{ÅapiÄ™. DziÄ™ki.}
+{520}{}{(Wzrusza ramionami) MoÅ¼e coÅ› o tym wiem, a moÅ¼e nie. Podaj cenÄ™, a moÅ¼e bÄ™dÄ™ miaÅ‚ coÅ› do powiedzenia.}
+{521}{}{No dobra... podaj cenÄ™.}
+{522}{}{Co powiesz na tysiÄ…c dolcÃ³w? Mam je przy sobie.}
+{523}{}{Nawet za 750 dolcÃ³w?}
+{524}{}{A co powiesz na 500 dolcÃ³w?}
+{525}{}{250 dolcÃ³w bÄ™dzie dobrze?}
+{526}{}{Mam kilka innych pytaÅ„...}
+{527}{}{NiewaÅ¼ne, Monte. Spadam stÄ…d.}
+{530}{}{(MruÅ¼Ä…c oczy pochyla siÄ™ nad tobÄ….) Za takÄ… sumÄ™ nie wiem nic.}
+{531}{}{A moÅ¼e zaproponujÄ™ ci to...}
+{532}{}{Mam kilka innych pytaÅ„...}
+{533}{}{NiewaÅ¼ne, Monte. Spadam stÄ…d.}
+{535}{}{To ja rozumiem... (mruÅ¼Ä…c oczy pochyla siÄ™ nad tobÄ…) ...zapytaÅ‚bym Julesa przy wjeÅºdzie do miasta. Nic siÄ™ obok niego nie przeÅ›lizgnie... a jeÅ›li siÄ™ PRZEÅšLIZGNÄ˜ÅO, to on maczaÅ‚ w tym palce, kumasz?}
+{536}{}{Mam kilka innych pytaÅ„...}
+{537}{}{W porzÄ…ddku Monte. DziÄ™ki.}
+{540}{}{(Wzrusza ramionami) Czasem coÅ› sÅ‚yszÄ™, czasem coÅ› widzÄ™. ByÄ‡ moÅ¼e za 200 dolcÃ³w podzieliÅ‚bym siÄ™ swoimi doÅ›wiadczeniami, Å‚apiesz?}
+{541}{}{Oto 200 dolcÃ³w.}
 {542}{}{Dam ci 150.}
-{543}{}{100 dolców albo nic.}
-{544}{}{Mam kilka innych pytañ...}
-{545}{}{Niewa¿ne, Monte. Spadam st¹d.}
-{550}{}{Coœ z twoimi uszami? POWIEDZIA£EM 200 dolców i nie zmieniê zdania.}
-{551}{}{No dobra. Oto 200 dolców.}
-{552}{}{Mam kilka innych pytañ...}
-{553}{}{Niewa¿ne, Monte. Spadam st¹d.}
-{555}{}{Stoi. (Monte pochyla siê nad tob¹) Widzisz, znasz tego faceta, co prowadzi Bronie z Ner Reno, Eldridge'a? On MÓWI, ¿e ulepsza bronie, ale nigdy nie widzia³em go przy pracy. Mo¿e warto by obejrzeæ jego dom... ale ja ci tego nie mówi³em.}
-{556}{}{Mam kilka innych pytañ...}
-{557}{}{Rozumiem. Dziêki Monte.}
-{560}{}{Umrzykowo na po³udnie od miasta. Œmierdzi jak diabli, o tak.}
-{561}{}{Och... rozumiem. A teraz co do tego dzieciaka Wrightów...}
-{562}{}{Zapomnij o dzieciaku Wrightów. Mam kilka innych pytañ...}
-{563}{}{W porz¹ddku Monte. Dziêki.}
-{565}{}{Stawia³bym na Renesco, tego starego dupka, który prowadzi aptekê w zachodzniej dzielnicy. Nie mam pewnoœci, czy SPRZEDA£ to dzieciakowi, ale COŒ wie. (Rozgl¹da siê) To wszystko, co mam do powiedzenia.}
-{566}{}{Mam kilka innych pytañ...}
-{567}{}{W porz¹ddku Monte. Dziêki.}
-{570}{}{(Rozgl¹da siê, po czym zdejmuje jeden z butów, odkrêca obcas i wyjmuje ze œrodka kartê... na karcie widaæ mê¿czyznê w dziwnej czapce, trzymaj¹cego w rêku pa³kê.) No i jak? Autentyczna pami¹tka sprzed wojny.}
-{571}{}{Nie, ju¿ i tak mam dosyæ przedmiotów w inwentarzu... zamiast tego przyda³oby mi siê kilka informacji.}
-{572}{}{Uch, Pewnie. Czemu nie? To powinno wyrównaæ nasze rachunki.}
-{573}{}{Przepraszam kolego, nie ma ¿etonów, nie ma gry. Wróæ je bêdziesz mia³ wiêcej pieniêdzy.}
-{574}{}{Przepraszam panienko, nie ma ¿etonów, nie ma gry. Wróæ jak bêdziesz mia³a wiêcej pieniêdzy.}
-{575}{}{Dobra, mo¿e innym razem.}
-{576}{}{Szybko podmieniasz taliê kart Montego na znaczon¹.}
+{543}{}{100 dolcÃ³w albo nic.}
+{544}{}{Mam kilka innych pytaÅ„...}
+{545}{}{NiewaÅ¼ne, Monte. Spadam stÄ…d.}
+{550}{}{CoÅ› z twoimi uszami? POWIEDZIAÅEM 200 dolcÃ³w i nie zmieniÄ™ zdania.}
+{551}{}{No dobra. Oto 200 dolcÃ³w.}
+{552}{}{Mam kilka innych pytaÅ„...}
+{553}{}{NiewaÅ¼ne, Monte. Spadam stÄ…d.}
+{555}{}{Stoi. (Monte pochyla siÄ™ nad tobÄ…) Widzisz, znasz tego faceta, co prowadzi Bronie z Ner Reno, Eldridge'a? On MÃ“WI, Å¼e ulepsza bronie, ale nigdy nie widziaÅ‚em go przy pracy. MoÅ¼e warto by obejrzeÄ‡ jego dom... ale ja ci tego nie mÃ³wiÅ‚em.}
+{556}{}{Mam kilka innych pytaÅ„...}
+{557}{}{Rozumiem. DziÄ™ki Monte.}
+{560}{}{Umrzykowo na poÅ‚udnie od miasta. Åšmierdzi jak diabli, o tak.}
+{561}{}{Och... rozumiem. A teraz co do tego dzieciaka WrightÃ³w...}
+{562}{}{Zapomnij o dzieciaku WrightÃ³w. Mam kilka innych pytaÅ„...}
+{563}{}{W porzÄ…ddku Monte. DziÄ™ki.}
+{565}{}{StawiaÅ‚bym na Renesco, tego starego dupka, ktÃ³ry prowadzi aptekÄ™ w zachodzniej dzielnicy. Nie mam pewnoÅ›ci, czy SPRZEDAÅ to dzieciakowi, ale COÅš wie. (RozglÄ…da siÄ™) To wszystko, co mam do powiedzenia.}
+{566}{}{Mam kilka innych pytaÅ„...}
+{567}{}{W porzÄ…ddku Monte. DziÄ™ki.}
+{570}{}{(RozglÄ…da siÄ™, po czym zdejmuje jeden z butÃ³w, odkrÄ™ca obcas i wyjmuje ze Å›rodka kartÄ™... na karcie widaÄ‡ mÄ™Å¼czyznÄ™ w dziwnej czapce, trzymajÄ…cego w rÄ™ku paÅ‚kÄ™.) No i jak? Autentyczna pamiÄ…tka sprzed wojny.}
+{571}{}{Nie, juÅ¼ i tak mam dosyÄ‡ przedmiotÃ³w w inwentarzu... zamiast tego przydaÅ‚oby mi siÄ™ kilka informacji.}
+{572}{}{Uch, Pewnie. Czemu nie? To powinno wyrÃ³wnaÄ‡ nasze rachunki.}
+{573}{}{Przepraszam kolego, nie ma Å¼etonÃ³w, nie ma gry. WrÃ³Ä‡ je bÄ™dziesz miaÅ‚ wiÄ™cej pieniÄ™dzy.}
+{574}{}{Przepraszam panienko, nie ma Å¼etonÃ³w, nie ma gry. WrÃ³Ä‡ jak bÄ™dziesz miaÅ‚a wiÄ™cej pieniÄ™dzy.}
+{575}{}{Dobra, moÅ¼e innym razem.}
+{576}{}{Szybko podmieniasz taliÄ™ kart Montego na znaczonÄ….}
 {600}{}{spades}
 {601}{}{serca}
 {602}{}{diamenty}
@@ -262,10 +262,10 @@
 {604}{}{dwa}
 {605}{}{trzy}
 {606}{}{cztery}
-{607}{}{piêæ}
-{608}{}{szeœæ}
-{609}{}{siódemka}
+{607}{}{piÄ™Ä‡}
+{608}{}{szeÅ›Ä‡}
+{609}{}{siÃ³demka}
 {610}{}{osiem}
-{611}{}{dziewiêæ}
-{612}{}{dziesiêæ}
+{611}{}{dziewiÄ™Ä‡}
+{612}{}{dziesiÄ™Ä‡}
 {613}{}{ z }

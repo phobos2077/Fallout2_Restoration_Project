@@ -1,1 +1,1 @@
-{101}{}{A sírkövön ez a név látható: "Mrs. Tamara Winslow."}
+{101}{}{A sÃ­rkÃ¶vÃ¶n ez a nÃ©v lÃ¡thatÃ³: "Mrs. Tamara Winslow."}

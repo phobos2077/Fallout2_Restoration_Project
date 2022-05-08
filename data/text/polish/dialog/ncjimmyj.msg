@@ -1,213 +1,213 @@
 {100}{}{Widzisz Szramiastego Jimmy'ego J.}
-{150}{}{Widzisz cwanie wygl¹daj¹cego mê¿czyznê. Ma poszarpan¹ bliznê z boku twarzy i niedu¿y tik.}
-{151}{}{Widzisz Szramiastego Jimmy'ego J. Wygl¹da jakby w³aœnie próbowa³ z³owiæ kolejnego klienta.}
-{152}{}{Widzisz Szramiastego Jimmy'ego J. Kiwa g³ow¹, gdy wasz wzrok siê spotyka.}
-{153}{}{Widzisz Szramiastego Jimmy'ego J, który ³apie twoje spojrzenie i machaj¹c rêk¹ zachêca, ¿eby do niego podejœæ.}
-{200}{}{Hej, któ¿ to jeœli nie }
+{150}{}{Widzisz cwanie wyglÄ…dajÄ…cego mÄ™Å¼czyznÄ™. Ma poszarpanÄ… bliznÄ™ z boku twarzy i nieduÅ¼y tik.}
+{151}{}{Widzisz Szramiastego Jimmy'ego J. WyglÄ…da jakby wÅ‚aÅ›nie prÃ³bowaÅ‚ zÅ‚owiÄ‡ kolejnego klienta.}
+{152}{}{Widzisz Szramiastego Jimmy'ego J. Kiwa gÅ‚owÄ…, gdy wasz wzrok siÄ™ spotyka.}
+{153}{}{Widzisz Szramiastego Jimmy'ego J, ktÃ³ry Å‚apie twoje spojrzenie i machajÄ…c rÄ™kÄ… zachÄ™ca, Å¼eby do niego podejÅ›Ä‡.}
+{200}{}{Hej, ktÃ³Å¼ to jeÅ›li nie }
 {201}{}{Hej, }
-{202}{}{Oto idzie twardy goœæ... a Jimmy J umie poznaæ twardego goœcia.}
-{203}{}{Nie co dzieñ ktoœ za³atwia Prezydenta na jego w³asnym podwórku.}
-{204}{}{Masz chêæ wzi¹æ i oblaæ to zwyciêstwo odrobin¹ Jetu od Szramiastego Jimy'ego, co?}
-{205}{}{Uratuj œwiat, a Szramiasty Jimmy PODARUJE ci œwiat. Tyle Jetu, ile potrzebujesz.}
-{206}{}{S³ysza³em, ¿e Bracia Corsican ciê szukaj¹...}
+{202}{}{Oto idzie twardy goÅ›Ä‡... a Jimmy J umie poznaÄ‡ twardego goÅ›cia.}
+{203}{}{Nie co dzieÅ„ ktoÅ› zaÅ‚atwia Prezydenta na jego wÅ‚asnym podwÃ³rku.}
+{204}{}{Masz chÄ™Ä‡ wziÄ…Ä‡ i oblaÄ‡ to zwyciÄ™stwo odrobinÄ… Jetu od Szramiastego Jimy'ego, co?}
+{205}{}{Uratuj Å›wiat, a Szramiasty Jimmy PODARUJE ci Å›wiat. Tyle Jetu, ile potrzebujesz.}
+{206}{}{SÅ‚yszaÅ‚em, Å¼e Bracia Corsican ciÄ™ szukajÄ…...}
 {220}{}{Jestem Szramiasty Jimmy i mam tyle Jetu, ile tylko POTRZEBUJESZ.}
-{221}{}{Chcesz odlecieæ? Szramiasty Jimmy jest tym, kogo szukasz.}
-{222}{}{Chcesz sobie polataæ? Szramiasty Jimmy ma tutaj twój bilet.}
-{223}{}{Chcesz wystartowaæ, Szramiasty Jimmy mo¿e ciê wyekwipowaæ.}
-{224}{}{Chcesz oderwaæ siê od ziemi? Szramiasty Jimmy ma Jet, którego ci POTRZEBA.}
-{225}{}{W tym tygodniu mam coœ wyj¹tkowego. No chodŸ, zróbmy interes.}
-{226}{}{Mo¿esz kupowaæ to gówno, które zabija ludzi, albo mo¿esz kupiæ mocne, czyste gówno Szramiastego Jimmy'ego.}
+{221}{}{Chcesz odlecieÄ‡? Szramiasty Jimmy jest tym, kogo szukasz.}
+{222}{}{Chcesz sobie polataÄ‡? Szramiasty Jimmy ma tutaj twÃ³j bilet.}
+{223}{}{Chcesz wystartowaÄ‡, Szramiasty Jimmy moÅ¼e ciÄ™ wyekwipowaÄ‡.}
+{224}{}{Chcesz oderwaÄ‡ siÄ™ od ziemi? Szramiasty Jimmy ma Jet, ktÃ³rego ci POTRZEBA.}
+{225}{}{W tym tygodniu mam coÅ› wyjÄ…tkowego. No chodÅº, zrÃ³bmy interes.}
+{226}{}{MoÅ¼esz kupowaÄ‡ to gÃ³wno, ktÃ³re zabija ludzi, albo moÅ¼esz kupiÄ‡ mocne, czyste gÃ³wno Szramiastego Jimmy'ego.}
 {227}{}{U Jimmy'ego J ZAWSZE jest otwarte.}
-{228}{}{Chcesz po niebie polataæ, dym za sob¹ zostawiaæ, z Jimmym musisz pogadaæ.}
-{240}{}{(Ten facet ma drobny tik i szramê na jednym z policzków. Blizna wygl¹da na ranê od no¿a.) }
-{241}{}{Bracie, mia³em na ciebie oko, jak tylko wszed³eœ na ulicê. Wiesz, co widzê?}
-{242}{}{Siostro, mia³em na ciebie oko, jak tylko wesz³aœ na ulicê. Wiesz, co widzê?}
+{228}{}{Chcesz po niebie polataÄ‡, dym za sobÄ… zostawiaÄ‡, z Jimmym musisz pogadaÄ‡.}
+{240}{}{(Ten facet ma drobny tik i szramÄ™ na jednym z policzkÃ³w. Blizna wyglÄ…da na ranÄ™ od noÅ¼a.) }
+{241}{}{Bracie, miaÅ‚em na ciebie oko, jak tylko wszedÅ‚eÅ› na ulicÄ™. Wiesz, co widzÄ™?}
+{242}{}{Siostro, miaÅ‚em na ciebie oko, jak tylko weszÅ‚aÅ› na ulicÄ™. Wiesz, co widzÄ™?}
 {243}{}{Widzisz mnie}
-{244}{}{Co ty widzieæ!? Co ty widzieæ!?}
-{245}{}{Muszê ju¿ iœæ...}
+{244}{}{Co ty widzieÄ‡!? Co ty widzieÄ‡!?}
+{245}{}{MuszÄ™ juÅ¼ iÅ›Ä‡...}
 {246}{}{Co widzisz?}
-{247}{}{Zamknij siê, ty g³upi...}
+{247}{}{Zamknij siÄ™, ty gÅ‚upi...}
 {248}{}{Wybacz, nie jestem zaintere...}
-{260}{}{Widzê pilota. Widzê kogoœ, kto pragnie LATAÆ. Potrzeba ci tylko odrobiny pomocy, odrobiny... JETU.}
+{260}{}{WidzÄ™ pilota. WidzÄ™ kogoÅ›, kto pragnie LATAÄ†. Potrzeba ci tylko odrobiny pomocy, odrobiny... JETU.}
 {261}{}{Heh? Jet? Niebo? Co, gdzie?}
 {263}{}{Jet, tak? Mam tylko kilka pyt...}
-{264}{}{S³uchaj, nie jestem...}
-{270}{}{I mój drogi pilocie, jeœli chodzi o Jet, to Szramiasty Jimmy J jest DO US£UG. Mam najlepsze gówno w Nowym Reno, czysty Jet, zwyk³y Jet, BEZPIECZNY Jet.}
-{271}{}{Gdziejezd Jet? Ja nie widzieæ ¿aden Jet w niebo}
-{272}{}{Ja musieæ IŒÆ...}
+{264}{}{SÅ‚uchaj, nie jestem...}
+{270}{}{I mÃ³j drogi pilocie, jeÅ›li chodzi o Jet, to Szramiasty Jimmy J jest DO USÅUG. Mam najlepsze gÃ³wno w Nowym Reno, czysty Jet, zwykÅ‚y Jet, BEZPIECZNY Jet.}
+{271}{}{Gdziejezd Jet? Ja nie widzieÄ‡ Å¼aden Jet w niebo}
+{272}{}{Ja musieÄ‡ IÅšÄ†...}
 {273}{}{Szramiasty Jimmy J, co? Wiesz, mam kilka pyt...}
-{274}{}{S³uchaj, nie jestem zainter...}
-{280}{}{INNI dealerzy - nic ich nie obchodzi jakoœæ, ale ja - ja lubiê STA£YCH klientów i lubiê, gdy s¹ SZCZÊŒLIWI, kumasz. To jest po prostu mój sposób... droga Jimmmy'ego J.}
-{281}{}{Ja nie widzi ten Jet ty ok³amaæ }
-{282}{}{JA IŒÆ DAJ MI IŒÆ...}
-{283}{}{Hej, ho, no, ta, no, "droga Jimmy'ego J" brzmi œwietnie i w ogóle, i w³aœnie dlatego mam kilka pyt...}
-{284}{}{Nie, nie s¹dzê...}
-{290}{}{Wiedzia³em, ¿e wrócisz, wiedzia³em! Taka by³a gadka sroga, ¿e to Szramiastego Jimmy'ego J DROGA! Uszczêœliwiaj ich, a nigdy ciê nie zawiod¹. No to jak mój pilocie... co mo¿e dziœ zrobiæ dla ciebie Szramiasty Jimmy J?}
-{291}{}{Proszê, proszê, to¿ to mój "pilot"... wracasz, bo POTRZEBUJESZ czegoœ od Szramiastego Jimmy'ego J?}
-{292}{}{Um... ja zapomnieæ co chcieæ mówiæ. Ja iœæ.}
-{294}{}{My handel proch? Ja LUBIÆ proch.}
-{295}{}{Masz Jet? Dobrze, zróbmy interes... przyjacielu.}
-{296}{}{Sk¹d masz tê szramê, Jimmy?}
-{297}{}{Sk¹d masz swój Jet, Jimmy?}
-{298}{}{Wiesz, kto da³ dzieciakowi Wrightów ten Jet, który go zabi³?}
-{299}{}{Mówi³eœ wczeœniej, ¿e twój Jet by³ "najbezpieczniejszy". Nie powiesz chyba, ¿e po okolicy chodzi jakiœ z³y Jet?}
-{300}{}{Dzisiaj niczego nie chcê Jimmy, dziêki.}
-{310}{}{A wiêc, jaka jest twa MOWA? Co mo¿e dziœ zrobiæ dla ciebie Szramiasty Jimmy J?}
-{311}{}{Czego chcesz? Sprê¿aj siê... nie mam ca³ego dnia na gadki z tob¹.}
-{312}{}{Czegoœ ci brakuje, wiêc masz pytania... co takiego mo¿e dziœ zrobiæ dla ciebie Szramiasty Jimmy J?}
-{314}{}{Ja zapomnieæ! Ja w koñcu mieæ coœ do powiedzenia i zapomnieæ! }
-{330}{}{Hej... wygl¹dasz jakoœ ZNAJOMO. Czy ja ciê znam, mój pilocie?}
-{331}{}{PRZYSIÊGAM, ¿e chyba wiem, kim jesteœ, mój pilocie. Wygl¹dasz cholernie znajomo...}
-{332}{}{JA WIELKIE BOH-ATER JA PRZEJŒÆ CA£A GRA I SKOPAÆ TY£EK PREZOWI I WYSADZIÆ FLATFORMA I URATOWAÆ ŒWIAT}
-{333}{}{Ja walczyæ w ring przed mnóstwo wrzeszcz¹cych ludzia oni wrzeszczeæ zabij zabij skurwiela wiêc ja biæ go a¿ on paœæ}
-{334}{}{Ja zrobiæ kuku obcym co gadaæ mnóstwo z Bóg}
-{335}{}{Ja MAFIOZO. Ja DU¯Y cz³owiek w REEno}
-{336}{}{Jak¿e mo¿e jeden prawdziwie znaæ drugiego Jimmy? Czy¿ to jest w ogóle mo¿liwe, gdy jesteœmy w tej œmiertelnej pow³oce? Czy mo¿e jest to mo¿liwe tylko wtedy, gdy uwolnimy samych siebie ze swojej fizycznoœci?}
-{337}{}{Ja CHCIEÆ gadaæ a ty mi nie DAÆ to ja PA PA}
-{338}{}{No wiesz, jeœli chodzi o powstrzymanie planów Enklawy wymordowania wszystkich na œwiecie, pokonanie Prezydenta, wysadzenie w powietrze ich bazy i z trudem uratowanie w³asnego ¿ycia, to to nie ja.}
-{339}{}{Walczy³o siê trochê na ringu.}
-{340}{}{Nakrêci³o siê parê filmów. S³ysza³eœ o }
-{341}{}{Mam powi¹zania z rodzin¹ }
-{342}{}{Nie, nie s¹dzê Jimmy. No to robimy ten interes, czy jak?}
-{343}{}{Nie, nie s¹dzê. S³uchaj, chcê ciê o coœ zapytaæ...}
-{344}{}{Nie, muszê ju¿ iœæ. PóŸniej siê zobaczymy.}
-{360}{}{Ju¿ wiem! WIEDZIA£EM, ¿e gdzieœ ciê ju¿ widzia³em! Kurde, trzeba by³o tak mówiæ od razu, postawiæ Jimmy'ego, gdzie jego miejsce...!}
-{361}{}{Um... ja zapomnieæ. Ja iœæ.}
-{363}{}{Chcê trochê Jetu...}
-{364}{}{Hej, Interesuje mnie coœ jeszcze...}
-{365}{}{Muszê iœæ. PóŸniej siê zobaczymy Jimmy.}
-{375}{}{(Jimmy popada w oniemia³¹ ciszê. Wydaje ci siê, ¿e twoje przemówienie sparali¿owa³o jego mózg.)}
+{274}{}{SÅ‚uchaj, nie jestem zainter...}
+{280}{}{INNI dealerzy - nic ich nie obchodzi jakoÅ›Ä‡, ale ja - ja lubiÄ™ STAÅYCH klientÃ³w i lubiÄ™, gdy sÄ… SZCZÄ˜ÅšLIWI, kumasz. To jest po prostu mÃ³j sposÃ³b... droga Jimmmy'ego J.}
+{281}{}{Ja nie widzi ten Jet ty okÅ‚amaÄ‡ }
+{282}{}{JA IÅšÄ† DAJ MI IÅšÄ†...}
+{283}{}{Hej, ho, no, ta, no, "droga Jimmy'ego J" brzmi Å›wietnie i w ogÃ³le, i wÅ‚aÅ›nie dlatego mam kilka pyt...}
+{284}{}{Nie, nie sÄ…dzÄ™...}
+{290}{}{WiedziaÅ‚em, Å¼e wrÃ³cisz, wiedziaÅ‚em! Taka byÅ‚a gadka sroga, Å¼e to Szramiastego Jimmy'ego J DROGA! UszczÄ™Å›liwiaj ich, a nigdy ciÄ™ nie zawiodÄ…. No to jak mÃ³j pilocie... co moÅ¼e dziÅ› zrobiÄ‡ dla ciebie Szramiasty Jimmy J?}
+{291}{}{ProszÄ™, proszÄ™, toÅ¼ to mÃ³j "pilot"... wracasz, bo POTRZEBUJESZ czegoÅ› od Szramiastego Jimmy'ego J?}
+{292}{}{Um... ja zapomnieÄ‡ co chcieÄ‡ mÃ³wiÄ‡. Ja iÅ›Ä‡.}
+{294}{}{My handel proch? Ja LUBIÄ† proch.}
+{295}{}{Masz Jet? Dobrze, zrÃ³bmy interes... przyjacielu.}
+{296}{}{SkÄ…d masz tÄ™ szramÄ™, Jimmy?}
+{297}{}{SkÄ…d masz swÃ³j Jet, Jimmy?}
+{298}{}{Wiesz, kto daÅ‚ dzieciakowi WrightÃ³w ten Jet, ktÃ³ry go zabiÅ‚?}
+{299}{}{MÃ³wiÅ‚eÅ› wczeÅ›niej, Å¼e twÃ³j Jet byÅ‚ "najbezpieczniejszy". Nie powiesz chyba, Å¼e po okolicy chodzi jakiÅ› zÅ‚y Jet?}
+{300}{}{Dzisiaj niczego nie chcÄ™ Jimmy, dziÄ™ki.}
+{310}{}{A wiÄ™c, jaka jest twa MOWA? Co moÅ¼e dziÅ› zrobiÄ‡ dla ciebie Szramiasty Jimmy J?}
+{311}{}{Czego chcesz? SprÄ™Å¼aj siÄ™... nie mam caÅ‚ego dnia na gadki z tobÄ….}
+{312}{}{CzegoÅ› ci brakuje, wiÄ™c masz pytania... co takiego moÅ¼e dziÅ› zrobiÄ‡ dla ciebie Szramiasty Jimmy J?}
+{314}{}{Ja zapomnieÄ‡! Ja w koÅ„cu mieÄ‡ coÅ› do powiedzenia i zapomnieÄ‡! }
+{330}{}{Hej... wyglÄ…dasz jakoÅ› ZNAJOMO. Czy ja ciÄ™ znam, mÃ³j pilocie?}
+{331}{}{PRZYSIÄ˜GAM, Å¼e chyba wiem, kim jesteÅ›, mÃ³j pilocie. WyglÄ…dasz cholernie znajomo...}
+{332}{}{JA WIELKIE BOH-ATER JA PRZEJÅšÄ† CAÅA GRA I SKOPAÄ† TYÅEK PREZOWI I WYSADZIÄ† FLATFORMA I URATOWAÄ† ÅšWIAT}
+{333}{}{Ja walczyÄ‡ w ring przed mnÃ³stwo wrzeszczÄ…cych ludzia oni wrzeszczeÄ‡ zabij zabij skurwiela wiÄ™c ja biÄ‡ go aÅ¼ on paÅ›Ä‡}
+{334}{}{Ja zrobiÄ‡ kuku obcym co gadaÄ‡ mnÃ³stwo z BÃ³g}
+{335}{}{Ja MAFIOZO. Ja DUÅ»Y czÅ‚owiek w REEno}
+{336}{}{JakÅ¼e moÅ¼e jeden prawdziwie znaÄ‡ drugiego Jimmy? CzyÅ¼ to jest w ogÃ³le moÅ¼liwe, gdy jesteÅ›my w tej Å›miertelnej powÅ‚oce? Czy moÅ¼e jest to moÅ¼liwe tylko wtedy, gdy uwolnimy samych siebie ze swojej fizycznoÅ›ci?}
+{337}{}{Ja CHCIEÄ† gadaÄ‡ a ty mi nie DAÄ† to ja PA PA}
+{338}{}{No wiesz, jeÅ›li chodzi o powstrzymanie planÃ³w Enklawy wymordowania wszystkich na Å›wiecie, pokonanie Prezydenta, wysadzenie w powietrze ich bazy i z trudem uratowanie wÅ‚asnego Å¼ycia, to to nie ja.}
+{339}{}{WalczyÅ‚o siÄ™ trochÄ™ na ringu.}
+{340}{}{NakrÄ™ciÅ‚o siÄ™ parÄ™ filmÃ³w. SÅ‚yszaÅ‚eÅ› o }
+{341}{}{Mam powiÄ…zania z rodzinÄ… }
+{342}{}{Nie, nie sÄ…dzÄ™ Jimmy. No to robimy ten interes, czy jak?}
+{343}{}{Nie, nie sÄ…dzÄ™. SÅ‚uchaj, chcÄ™ ciÄ™ o coÅ› zapytaÄ‡...}
+{344}{}{Nie, muszÄ™ juÅ¼ iÅ›Ä‡. PÃ³Åºniej siÄ™ zobaczymy.}
+{360}{}{JuÅ¼ wiem! WIEDZIAÅEM, Å¼e gdzieÅ› ciÄ™ juÅ¼ widziaÅ‚em! Kurde, trzeba byÅ‚o tak mÃ³wiÄ‡ od razu, postawiÄ‡ Jimmy'ego, gdzie jego miejsce...!}
+{361}{}{Um... ja zapomnieÄ‡. Ja iÅ›Ä‡.}
+{363}{}{ChcÄ™ trochÄ™ Jetu...}
+{364}{}{Hej, Interesuje mnie coÅ› jeszcze...}
+{365}{}{MuszÄ™ iÅ›Ä‡. PÃ³Åºniej siÄ™ zobaczymy Jimmy.}
+{375}{}{(Jimmy popada w oniemiaÅ‚Ä… ciszÄ™. Wydaje ci siÄ™, Å¼e twoje przemÃ³wienie sparaliÅ¼owaÅ‚o jego mÃ³zg.)}
 {376}{}{(Ukradnij wszystko, co ma przy sobie.)}
-{377}{}{ widzi, ¿e wszystko zosta³o zrobione.}
-{385}{}{Szramiasty Jimmy J ma w sobie wiele mi³oœci, mój pilocie, ale œwiat nie zawsze odwzajemnia to Szramiastemu Jimmy'emu J, no nie?}
-{386}{}{S³yszê, s³yszê.}
-{387}{}{Co ty powiesz. Czasem œwiat bywa okrutny.}
-{388}{}{To ŒWIETNA historia. S³uchaj Jimmy, mam jeszcze kilka pytañ...}
-{389}{}{Niez³a historia. A teraz ty masz Jet, ja mam kasê... ubijemy interes?}
-{390}{}{Niez³a historia. Niestety Jimmy, muszê lecieæ.}
-{400}{}{(Wskazuje na bliznê) Dosta³em j¹, gdy powstrzymywa³em pewnego wielkiego, OBRZYDLIWEGO skurwysyna, który chcia³ uderzyæ swoj¹ laskê za to, ¿e nie podoba³ siê jej sposób, w jaki j¹ maca³, no nie?}
-{401}{}{Naprawdê? Co siê sta³o?}
-{402}{}{Serio? Kurna, ci faceci, co bij¹ kobiety, zas³uguj¹ na to, ¿eby im nieŸle przy³o¿yæ.}
-{415}{}{(Przybiera bojow¹ pozê) Wiêc ja siê wtr¹cam, no nie, a on wyskakuje na starego JJ z NO¯EM! Nie mia³em nic do obrony oprócz go³ych r¹k, no nie? Wiêc on zadaje jeden fartowny cios zanim ja... *BAM!* Skopa³em mu ty³ek!}
-{416}{}{Och, serio? Jules mówi, ¿e "lata³eœ" sobie po Jecie i zaci¹³eœ siê podczas próby ogolenia siê bojowym no¿em.}
-{417}{}{Bez jaj? Nie s¹dzê, ¿ebyœ móg³ mieæ tupet, ¿eby tak siê stawiaæ. Do diab³a, ten facet móg³ ciê ZABIÆ.}
-{418}{}{ŒWIETNA historia. Hej, mam jeszcze kilka pytañ...}
-{419}{}{Jasne... s³uchaj, mam trochê kasy... ubijemy interes?}
-{420}{}{Niez³a historia... tak dobra, ¿e muszê ju¿ iœæ.}
-{430}{}{Co...? No, Jules mo¿e poca³owaæ mój od urodzenia czarny ty³ek, a by³by to ostatni ty³ek w mieœcie, którego jeszcze NIE ca³owa³. On gówno wie. On nawet nie ma odwagi powiedzieæ mi to prosto w twarz. TY zadecyduj, kto mówi prawdê.}
-{431}{}{Jasne, jasne... S³uchaj, ty masz Jet, ja mam kasê... ubijemy interes?}
-{432}{}{Jasne, jasne... S³uchaj Jimmy, mam kilka innych pytañ...}
-{433}{}{S³uchaj Panie Gadka Szmatka, zrobimy interes, czy bêdziemy tak siedzieæ tu ca³y dzieñ i s³uchaæ twojej paplaniny?}
-{434}{}{No dobra, mam ju¿ dosyæ s³uchania tego Jimmy. Uwa¿aj przy goleniu, dobra?}
-{435}{}{No dobra. PóŸniej pogadamy Jimmy.}
-{445}{}{I prawie mu siê uda³o! Wiesz, jak ja w to wchodzi³em, to nie myœla³em wcale "ale ze mnie odwa¿ny facet", o nie, ale...}
-{446}{}{Zrobi³eœ to, co masz w sobie od urodzenia, tak?}
-{447}{}{Uch, och. Wiesz, mam jeszcze kilka innych pytañ...}
-{448}{}{Muszê ju¿ iœæ. PóŸniej siê zobaczymy Jimmy.}
-{455}{}{Tak... tak... zobaczy³em coœ, co nie by³o w porz¹dku i musia³em COŒ z tym zrobiæ, no nie? W ¿adnym razie nie mog³em pozwoliæ na coœ takiego, kiedy by³em w pobli¿u, no nie?}
-{456}{}{Jesteœ RÓWNY ch³op, ¿e zrobi³eœ to, co zrobi³eœ Jimmy. Wiêkszoœæ ludzi po prostu spuœci³oby g³owê i odesz³o.}
-{457}{}{Rozumiem. Wiesz, mam jeszcze kilka pytañ...}
-{465}{}{LUBIÊ ludzi i NIE lubiê jak ktoœ wyskakuje do kogoœ innego tylko dlatego, ¿e mo¿e. Takie gówno jest po prostu Z£E.}
-{466}{}{Dzielny z ciebie cz³owiek, Jimmy, dzielny cz³owiek. Noœ swoj¹ bliznê z dum¹. S³uchaj, mogê zobaczyæ, co masz na sk³adzie?}
-{467}{}{Masz racjê. S³uchaj, mam jeszcze kilka innych pytañ...}
-{475}{}{Do diab³a, mój pilocie, lubiê ciê, wiêc mi nie wyskakuj tutaj z tym ekranem wymiany i tymi jego kablami i drucikami, i w ogóle.}
+{377}{}{ widzi, Å¼e wszystko zostaÅ‚o zrobione.}
+{385}{}{Szramiasty Jimmy J ma w sobie wiele miÅ‚oÅ›ci, mÃ³j pilocie, ale Å›wiat nie zawsze odwzajemnia to Szramiastemu Jimmy'emu J, no nie?}
+{386}{}{SÅ‚yszÄ™, sÅ‚yszÄ™.}
+{387}{}{Co ty powiesz. Czasem Å›wiat bywa okrutny.}
+{388}{}{To ÅšWIETNA historia. SÅ‚uchaj Jimmy, mam jeszcze kilka pytaÅ„...}
+{389}{}{NiezÅ‚a historia. A teraz ty masz Jet, ja mam kasÄ™... ubijemy interes?}
+{390}{}{NiezÅ‚a historia. Niestety Jimmy, muszÄ™ lecieÄ‡.}
+{400}{}{(Wskazuje na bliznÄ™) DostaÅ‚em jÄ…, gdy powstrzymywaÅ‚em pewnego wielkiego, OBRZYDLIWEGO skurwysyna, ktÃ³ry chciaÅ‚ uderzyÄ‡ swojÄ… laskÄ™ za to, Å¼e nie podobaÅ‚ siÄ™ jej sposÃ³b, w jaki jÄ… macaÅ‚, no nie?}
+{401}{}{NaprawdÄ™? Co siÄ™ staÅ‚o?}
+{402}{}{Serio? Kurna, ci faceci, co bijÄ… kobiety, zasÅ‚ugujÄ… na to, Å¼eby im nieÅºle przyÅ‚oÅ¼yÄ‡.}
+{415}{}{(Przybiera bojowÄ… pozÄ™) WiÄ™c ja siÄ™ wtrÄ…cam, no nie, a on wyskakuje na starego JJ z NOÅ»EM! Nie miaÅ‚em nic do obrony oprÃ³cz goÅ‚ych rÄ…k, no nie? WiÄ™c on zadaje jeden fartowny cios zanim ja... *BAM!* SkopaÅ‚em mu tyÅ‚ek!}
+{416}{}{Och, serio? Jules mÃ³wi, Å¼e "lataÅ‚eÅ›" sobie po Jecie i zaciÄ…Å‚eÅ› siÄ™ podczas prÃ³by ogolenia siÄ™ bojowym noÅ¼em.}
+{417}{}{Bez jaj? Nie sÄ…dzÄ™, Å¼ebyÅ› mÃ³gÅ‚ mieÄ‡ tupet, Å¼eby tak siÄ™ stawiaÄ‡. Do diabÅ‚a, ten facet mÃ³gÅ‚ ciÄ™ ZABIÄ†.}
+{418}{}{ÅšWIETNA historia. Hej, mam jeszcze kilka pytaÅ„...}
+{419}{}{Jasne... sÅ‚uchaj, mam trochÄ™ kasy... ubijemy interes?}
+{420}{}{NiezÅ‚a historia... tak dobra, Å¼e muszÄ™ juÅ¼ iÅ›Ä‡.}
+{430}{}{Co...? No, Jules moÅ¼e pocaÅ‚owaÄ‡ mÃ³j od urodzenia czarny tyÅ‚ek, a byÅ‚by to ostatni tyÅ‚ek w mieÅ›cie, ktÃ³rego jeszcze NIE caÅ‚owaÅ‚. On gÃ³wno wie. On nawet nie ma odwagi powiedzieÄ‡ mi to prosto w twarz. TY zadecyduj, kto mÃ³wi prawdÄ™.}
+{431}{}{Jasne, jasne... SÅ‚uchaj, ty masz Jet, ja mam kasÄ™... ubijemy interes?}
+{432}{}{Jasne, jasne... SÅ‚uchaj Jimmy, mam kilka innych pytaÅ„...}
+{433}{}{SÅ‚uchaj Panie Gadka Szmatka, zrobimy interes, czy bÄ™dziemy tak siedzieÄ‡ tu caÅ‚y dzieÅ„ i sÅ‚uchaÄ‡ twojej paplaniny?}
+{434}{}{No dobra, mam juÅ¼ dosyÄ‡ sÅ‚uchania tego Jimmy. UwaÅ¼aj przy goleniu, dobra?}
+{435}{}{No dobra. PÃ³Åºniej pogadamy Jimmy.}
+{445}{}{I prawie mu siÄ™ udaÅ‚o! Wiesz, jak ja w to wchodziÅ‚em, to nie myÅ›laÅ‚em wcale "ale ze mnie odwaÅ¼ny facet", o nie, ale...}
+{446}{}{ZrobiÅ‚eÅ› to, co masz w sobie od urodzenia, tak?}
+{447}{}{Uch, och. Wiesz, mam jeszcze kilka innych pytaÅ„...}
+{448}{}{MuszÄ™ juÅ¼ iÅ›Ä‡. PÃ³Åºniej siÄ™ zobaczymy Jimmy.}
+{455}{}{Tak... tak... zobaczyÅ‚em coÅ›, co nie byÅ‚o w porzÄ…dku i musiaÅ‚em COÅš z tym zrobiÄ‡, no nie? W Å¼adnym razie nie mogÅ‚em pozwoliÄ‡ na coÅ› takiego, kiedy byÅ‚em w pobliÅ¼u, no nie?}
+{456}{}{JesteÅ› RÃ“WNY chÅ‚op, Å¼e zrobiÅ‚eÅ› to, co zrobiÅ‚eÅ› Jimmy. WiÄ™kszoÅ›Ä‡ ludzi po prostu spuÅ›ciÅ‚oby gÅ‚owÄ™ i odeszÅ‚o.}
+{457}{}{Rozumiem. Wiesz, mam jeszcze kilka pytaÅ„...}
+{465}{}{LUBIÄ˜ ludzi i NIE lubiÄ™ jak ktoÅ› wyskakuje do kogoÅ› innego tylko dlatego, Å¼e moÅ¼e. Takie gÃ³wno jest po prostu ZÅE.}
+{466}{}{Dzielny z ciebie czÅ‚owiek, Jimmy, dzielny czÅ‚owiek. NoÅ› swojÄ… bliznÄ™ z dumÄ…. SÅ‚uchaj, mogÄ™ zobaczyÄ‡, co masz na skÅ‚adzie?}
+{467}{}{Masz racjÄ™. SÅ‚uchaj, mam jeszcze kilka innych pytaÅ„...}
+{475}{}{Do diabÅ‚a, mÃ³j pilocie, lubiÄ™ ciÄ™, wiÄ™c mi nie wyskakuj tutaj z tym ekranem wymiany i tymi jego kablami i drucikami, i w ogÃ³le.}
 {476}{}{Uch... dobrze... no ale jak w takim razie ubijemy interes?}
-{480}{}{Wiesz, to kiepski interes i w ogóle, wiêc nie mów o tym nikomu, ale pozwól mi daæ ci trochê Jetu, tak miêdzy nami przyjació³mi. Nastêpnym razem, ocz'wiœcie, trzeba bêdzie zap³aciæ, ale ten jeden raz niech bêdzie na koszt Szramiastego Jimmy'ego J, dobra?}
-{481}{}{Dziêki Jimmy. S³uchaj, mogê zobaczyæ, co jeszcze masz na sk³adzie?}
-{482}{}{Hej, dziêki. S³uchaj, mam jeszcze kilka pytañ...}
-{483}{}{W porz¹dku. Dziêki Jimmy..}
-{490}{}{Mi³o, ¿e pytasz, mój pilocie, mi³o, ¿e pytasz. Widzisz, wszyscy INNI dealerzy, no nie, oni maj¹ to swoje gówno z drugiej rêki, rozwodnione, rozcieñczone przeró¿nym innym œwiñstwem.}
-{491}{}{Ale twój Jet, z kolei...}
-{492}{}{W³aœciwie to zapomnij o tym pytaniu. Mam za to kilka innych...}
-{500}{}{Zwykle bra³em swój towar od samego boga, Myrona, tylko widzisz, on wzi¹³ i odszed³... albo dosta³ w czapê. Teraz najczêœciej roznoszê towar, który dostajê prosto od Rodziny Mordino. }
-{501}{}{Wiesz, KIEDYŒ bra³em towar od starego Myrona, zanim zacz¹³ zadzieraæ nosa i odszed³ z bran¿y... no nie Myron? Ha! Teraz g³ównie roznoszê to gówno od Mordino.}
-{502}{}{Ciekawe. Mam jeszcze kilka pytañ...}
-{510}{}{Ja, ja mam powi¹zania z TWÓRC¥, mój pilocie. Dostajê Jet prosto od mózga, od wcielonego boga twórców prochów, MYRONA.}
+{480}{}{Wiesz, to kiepski interes i w ogÃ³le, wiÄ™c nie mÃ³w o tym nikomu, ale pozwÃ³l mi daÄ‡ ci trochÄ™ Jetu, tak miÄ™dzy nami przyjaciÃ³Å‚mi. NastÄ™pnym razem, ocz'wiÅ›cie, trzeba bÄ™dzie zapÅ‚aciÄ‡, ale ten jeden raz niech bÄ™dzie na koszt Szramiastego Jimmy'ego J, dobra?}
+{481}{}{DziÄ™ki Jimmy. SÅ‚uchaj, mogÄ™ zobaczyÄ‡, co jeszcze masz na skÅ‚adzie?}
+{482}{}{Hej, dziÄ™ki. SÅ‚uchaj, mam jeszcze kilka pytaÅ„...}
+{483}{}{W porzÄ…dku. DziÄ™ki Jimmy..}
+{490}{}{MiÅ‚o, Å¼e pytasz, mÃ³j pilocie, miÅ‚o, Å¼e pytasz. Widzisz, wszyscy INNI dealerzy, no nie, oni majÄ… to swoje gÃ³wno z drugiej rÄ™ki, rozwodnione, rozcieÅ„czone przerÃ³Å¼nym innym Å›wiÅ„stwem.}
+{491}{}{Ale twÃ³j Jet, z kolei...}
+{492}{}{WÅ‚aÅ›ciwie to zapomnij o tym pytaniu. Mam za to kilka innych...}
+{500}{}{Zwykle braÅ‚em swÃ³j towar od samego boga, Myrona, tylko widzisz, on wziÄ…Å‚ i odszedÅ‚... albo dostaÅ‚ w czapÄ™. Teraz najczÄ™Å›ciej roznoszÄ™ towar, ktÃ³ry dostajÄ™ prosto od Rodziny Mordino. }
+{501}{}{Wiesz, KIEDYÅš braÅ‚em towar od starego Myrona, zanim zaczÄ…Å‚ zadzieraÄ‡ nosa i odszedÅ‚ z branÅ¼y... no nie Myron? Ha! Teraz gÅ‚Ã³wnie roznoszÄ™ to gÃ³wno od Mordino.}
+{502}{}{Ciekawe. Mam jeszcze kilka pytaÅ„...}
+{510}{}{Ja, ja mam powiÄ…zania z TWÃ“RCÄ„, mÃ³j pilocie. DostajÄ™ Jet prosto od mÃ³zga, od wcielonego boga twÃ³rcÃ³w prochÃ³w, MYRONA.}
 {511}{}{Myrona?}
-{512}{}{Ciekawe. Mam jeszcze kilka pytañ...}
-{513}{}{Myrona, tak? Czy mo¿na spotkaæ siê z tym... wcielonym bogiem?}
-{514}{}{Naprawdê? No, na pewno jeszcze wrócê, ¿eby kupiæ trochê tego póŸniej. Dziêki Jimmy.}
-{520}{}{To z³oty ch³opiec Rodziny Mordino. On WYMYŒLI£ Jet. Kupowanie od Szramiastego Jimmy'ego J jest jak kupowanie od samego Myrona, s³yszysz? To dlatego J-J ma czysty Jet. NAJLEPSZY Jet.}
-{521}{}{Brzmi nieŸle. Zróbmy interes.}
-{523}{}{Myœlisz, ¿e da³oby siê jakoœ spotkaæ tego Myrona?}
-{530}{}{Do diab³a, nie! Mordino strzeg¹ tego ch³opaka pilniej, ni¿ siê strze¿e Dziewicê Noworeñsk¹. Nie da rady, ¿eby pozwolili komuœ choæby dotkn¹æ ich Ÿród³a utrzymania, czaisz co mam na myœli?}
-{531}{}{Czajê. Wiêc jak du¿o œrodków bezpieczeñstwa poœwiêcono temu facetowi?}
-{532}{}{Z tym ¿e podobno Myron ma du¿o... przyjació³ek wœród prostytutek. Jak to siê dzieje, skoro strze¿ony jest tak pilnie?}
-{533}{}{Rozumiem. Wiesz, mam kilka innych pytañ...}
-{534}{}{Ciekawe. Dziêki za informacjê.}
-{540}{}{Stra¿e, stra¿e i jeszcze wiêcej stra¿y. Plus, najmocniejsze zabezpieczenia elektroniczne w Nowym Reno. Bêdziesz mieæ szczêœcie, jeœli kiedykolwiek US£YSZYSZ o kimœ, kto widzia³ Myrona, tak dobrze go strzeg¹.}
-{541}{}{Dobrze strzeg¹, tak? A gdzie dok³adnie?}
-{543}{}{Rozumiem. Powiedzmy, ¿e mam jeszcze kilka pytañ...}
-{550}{}{Trzymaj¹ go w tym miejscu, co siê nazywa "Stajnie", na pó³noc st¹d, poza granicami miasta. By³em tam tylko raz - nigdy nie pozwolili mi wejœæ za bramê, a przecie¿ PRACUJÊ dla Rodziny.}
-{551}{}{No co ty, musi byæ jakiœ sposób, ¿eby móc go zobaczyæ.}
-{554}{}{Stajnie, tak? Poza miastem, na pó³noc st¹d... (tylko szybciutko zapiszê to sobie w Pip-Boy'u) ...dziêki za poufn¹ informacjê Jimmy.}
-{560}{}{Niech mnie kule bij¹. SPRZEDAWA£EM temu ch³opakowi Jet, a i tak prawie nigdy go nie widzia³em, poza jednym, dwoma razami, a i to z odleg³oœci stu jardów. Du¿y Jesus Mordino nie pozwala podejœæ nikomu, kto nie jest mocno zwi¹zany z rodzin¹.}
-{561}{}{No dobrze. Mo¿e wiêc pohandlujmy.}
-{564}{}{No dobrze. Dziêki Jimmy, muszê ju¿ iœæ.}
-{570}{}{A to z kolei ju¿... ca³uskiem... inna historia, mój pilocie. O tak, zupe³nie inna.}
-{571}{}{To chyba historia, której chcê pos³uchaæ. No, Jimmy...}
-{572}{}{Niewa¿ne. Mam kilka innych pytañ...}
-{573}{}{Raczej nie mam czasu na tê historiê, Jimmy. Muszê ju¿ iœæ.}
-{580}{}{Widzisz, Myron ma tam dobr¹ opiekê... Mordino daj¹ swojemu dojnemu braminkowi wszystko, co NAJLEPSZE w Nowym Reno.}
-{581}{}{A mówi¹c to masz na myœli...?}
-{582}{}{Mówisz o prostytutkach, czy tak? Tak z czystej ciekawoœci, sk¹d Mordino bior¹ te prostytutki i jak je dobieraj¹?}
-{584}{}{Rozumiem. Dziêki Jimmy, muszê ju¿ lecieæ.}
-{590}{}{Mordino osobiœcie dostarczaj¹ kurwy do Stajni, a potem odprowadzaj¹ je z powrotem. H³e, h³e. Myron ledwo skoñczy³ dziewiêtnaœcie lat, a hormony ma jak dwudziestka... dwudziestka FACETÓW, oczywiœcie.}
-{592}{}{Ciekawe.... a tak w ogóle, z CZYSTEJ ciekawoœci, sk¹d Mordino bior¹ te prostytutki i jak je dobieraj¹?}
-{600}{}{(Wzrusza ramionami) Jeden z ch³opaków Mordino idzie do Kociego Pazura, tak s³ysza³em, bierze od Panny Kitty jedn¹ tak¹, co siê mo¿e Myronowi spodobaæ... (Jimmy nagle przestaje mówiæ. Patrzy na ciebie spode ³ba i marszczy brwi) Momencik...}
-{601}{}{Co siê sta³o?}
-{602}{}{Uch... niewa¿ne. Powiedzmy, ¿e mam jeszcze kilka pytañ...}
-{603}{}{Uch, no có¿, dziêki za informacje Jimmy.}
-{610}{}{Po co chcesz wiedzieæ takie rzeczy? Mam dla ciebie Jet i to wszystko, co TY musisz wiedzieæ. Nie musisz nic wiedzieæ o Myronie, ani o tym, co je na obiad, ani o tym, kogo obrabia, nim pójdzie spaæ.}
-{611}{}{Po co chcesz wiedzieæ takie rzeczy... (Zatrzymuje siê, po czym uœmiecha i ogl¹da ciê od góry do do³u) Aj, teraz kumam. Zamiarujesz iœæ prosto do Ÿróde³ka twojego Jetu, no nie siostro?}
+{512}{}{Ciekawe. Mam jeszcze kilka pytaÅ„...}
+{513}{}{Myrona, tak? Czy moÅ¼na spotkaÄ‡ siÄ™ z tym... wcielonym bogiem?}
+{514}{}{NaprawdÄ™? No, na pewno jeszcze wrÃ³cÄ™, Å¼eby kupiÄ‡ trochÄ™ tego pÃ³Åºniej. DziÄ™ki Jimmy.}
+{520}{}{To zÅ‚oty chÅ‚opiec Rodziny Mordino. On WYMYÅšLIÅ Jet. Kupowanie od Szramiastego Jimmy'ego J jest jak kupowanie od samego Myrona, sÅ‚yszysz? To dlatego J-J ma czysty Jet. NAJLEPSZY Jet.}
+{521}{}{Brzmi nieÅºle. ZrÃ³bmy interes.}
+{523}{}{MyÅ›lisz, Å¼e daÅ‚oby siÄ™ jakoÅ› spotkaÄ‡ tego Myrona?}
+{530}{}{Do diabÅ‚a, nie! Mordino strzegÄ… tego chÅ‚opaka pilniej, niÅ¼ siÄ™ strzeÅ¼e DziewicÄ™ NoworeÅ„skÄ…. Nie da rady, Å¼eby pozwolili komuÅ› choÄ‡by dotknÄ…Ä‡ ich ÅºrÃ³dÅ‚a utrzymania, czaisz co mam na myÅ›li?}
+{531}{}{CzajÄ™. WiÄ™c jak duÅ¼o Å›rodkÃ³w bezpieczeÅ„stwa poÅ›wiÄ™cono temu facetowi?}
+{532}{}{Z tym Å¼e podobno Myron ma duÅ¼o... przyjaciÃ³Å‚ek wÅ›rÃ³d prostytutek. Jak to siÄ™ dzieje, skoro strzeÅ¼ony jest tak pilnie?}
+{533}{}{Rozumiem. Wiesz, mam kilka innych pytaÅ„...}
+{534}{}{Ciekawe. DziÄ™ki za informacjÄ™.}
+{540}{}{StraÅ¼e, straÅ¼e i jeszcze wiÄ™cej straÅ¼y. Plus, najmocniejsze zabezpieczenia elektroniczne w Nowym Reno. BÄ™dziesz mieÄ‡ szczÄ™Å›cie, jeÅ›li kiedykolwiek USÅYSZYSZ o kimÅ›, kto widziaÅ‚ Myrona, tak dobrze go strzegÄ….}
+{541}{}{Dobrze strzegÄ…, tak? A gdzie dokÅ‚adnie?}
+{543}{}{Rozumiem. Powiedzmy, Å¼e mam jeszcze kilka pytaÅ„...}
+{550}{}{TrzymajÄ… go w tym miejscu, co siÄ™ nazywa "Stajnie", na pÃ³Å‚noc stÄ…d, poza granicami miasta. ByÅ‚em tam tylko raz - nigdy nie pozwolili mi wejÅ›Ä‡ za bramÄ™, a przecieÅ¼ PRACUJÄ˜ dla Rodziny.}
+{551}{}{No co ty, musi byÄ‡ jakiÅ› sposÃ³b, Å¼eby mÃ³c go zobaczyÄ‡.}
+{554}{}{Stajnie, tak? Poza miastem, na pÃ³Å‚noc stÄ…d... (tylko szybciutko zapiszÄ™ to sobie w Pip-Boy'u) ...dziÄ™ki za poufnÄ… informacjÄ™ Jimmy.}
+{560}{}{Niech mnie kule bijÄ…. SPRZEDAWAÅEM temu chÅ‚opakowi Jet, a i tak prawie nigdy go nie widziaÅ‚em, poza jednym, dwoma razami, a i to z odlegÅ‚oÅ›ci stu jardÃ³w. DuÅ¼y Jesus Mordino nie pozwala podejÅ›Ä‡ nikomu, kto nie jest mocno zwiÄ…zany z rodzinÄ….}
+{561}{}{No dobrze. MoÅ¼e wiÄ™c pohandlujmy.}
+{564}{}{No dobrze. DziÄ™ki Jimmy, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{570}{}{A to z kolei juÅ¼... caÅ‚uskiem... inna historia, mÃ³j pilocie. O tak, zupeÅ‚nie inna.}
+{571}{}{To chyba historia, ktÃ³rej chcÄ™ posÅ‚uchaÄ‡. No, Jimmy...}
+{572}{}{NiewaÅ¼ne. Mam kilka innych pytaÅ„...}
+{573}{}{Raczej nie mam czasu na tÄ™ historiÄ™, Jimmy. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{580}{}{Widzisz, Myron ma tam dobrÄ… opiekÄ™... Mordino dajÄ… swojemu dojnemu braminkowi wszystko, co NAJLEPSZE w Nowym Reno.}
+{581}{}{A mÃ³wiÄ…c to masz na myÅ›li...?}
+{582}{}{MÃ³wisz o prostytutkach, czy tak? Tak z czystej ciekawoÅ›ci, skÄ…d Mordino biorÄ… te prostytutki i jak je dobierajÄ…?}
+{584}{}{Rozumiem. DziÄ™ki Jimmy, muszÄ™ juÅ¼ lecieÄ‡.}
+{590}{}{Mordino osobiÅ›cie dostarczajÄ… kurwy do Stajni, a potem odprowadzajÄ… je z powrotem. HÅ‚e, hÅ‚e. Myron ledwo skoÅ„czyÅ‚ dziewiÄ™tnaÅ›cie lat, a hormony ma jak dwudziestka... dwudziestka FACETÃ“W, oczywiÅ›cie.}
+{592}{}{Ciekawe.... a tak w ogÃ³le, z CZYSTEJ ciekawoÅ›ci, skÄ…d Mordino biorÄ… te prostytutki i jak je dobierajÄ…?}
+{600}{}{(Wzrusza ramionami) Jeden z chÅ‚opakÃ³w Mordino idzie do Kociego Pazura, tak sÅ‚yszaÅ‚em, bierze od Panny Kitty jednÄ… takÄ…, co siÄ™ moÅ¼e Myronowi spodobaÄ‡... (Jimmy nagle przestaje mÃ³wiÄ‡. Patrzy na ciebie spode Å‚ba i marszczy brwi) Momencik...}
+{601}{}{Co siÄ™ staÅ‚o?}
+{602}{}{Uch... niewaÅ¼ne. Powiedzmy, Å¼e mam jeszcze kilka pytaÅ„...}
+{603}{}{Uch, no cÃ³Å¼, dziÄ™ki za informacje Jimmy.}
+{610}{}{Po co chcesz wiedzieÄ‡ takie rzeczy? Mam dla ciebie Jet i to wszystko, co TY musisz wiedzieÄ‡. Nie musisz nic wiedzieÄ‡ o Myronie, ani o tym, co je na obiad, ani o tym, kogo obrabia, nim pÃ³jdzie spaÄ‡.}
+{611}{}{Po co chcesz wiedzieÄ‡ takie rzeczy... (Zatrzymuje siÄ™, po czym uÅ›miecha i oglÄ…da ciÄ™ od gÃ³ry do doÅ‚u) Aj, teraz kumam. Zamiarujesz iÅ›Ä‡ prosto do ÅºrÃ³deÅ‚ka twojego Jetu, no nie siostro?}
 {612}{}{Nie w tej chwili. Zobaczmy Jimmy, co tam masz.}
 {613}{}{Zapomnij o tym. Pohandlujmy.}
-{614}{}{No to trudno. Mam jeszcze kilka pytañ...}
-{615}{}{Mo¿e. Wiesz, mam jeszcze kilka innych pytañ...}
-{616}{}{Nie, to tylko ciekawoœæ. Dziêki Jimmy. Muszê ju¿ iœæ.}
-{617}{}{No dobrze. PóŸniej Jimmy. Muszê ju¿ iœæ.}
-{625}{}{Kurde, wszystko co JA mam do powiedzenia, to to, ¿e Jimmy lubi utrzymywaæ swoich klientów w szczêœciu i PRZY ¯YCIU. Wnioski wyci¹gnij samodzielnie, mój pilocie. Czy oddychanie jest dla ciebie wa¿niejsze, ni¿ urwanie tych kilku dolców przy nastêpnym zakupie?}
+{614}{}{No to trudno. Mam jeszcze kilka pytaÅ„...}
+{615}{}{MoÅ¼e. Wiesz, mam jeszcze kilka innych pytaÅ„...}
+{616}{}{Nie, to tylko ciekawoÅ›Ä‡. DziÄ™ki Jimmy. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{617}{}{No dobrze. PÃ³Åºniej Jimmy. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{625}{}{Kurde, wszystko co JA mam do powiedzenia, to to, Å¼e Jimmy lubi utrzymywaÄ‡ swoich klientÃ³w w szczÄ™Å›ciu i PRZY Å»YCIU. Wnioski wyciÄ…gnij samodzielnie, mÃ³j pilocie. Czy oddychanie jest dla ciebie waÅ¼niejsze, niÅ¼ urwanie tych kilku dolcÃ³w przy nastÄ™pnym zakupie?}
 {626}{}{Zrozumiano. No to jak, robimy interesik?}
-{627}{}{Co mo¿esz powiedzieæ o tym pustym pojemniku na Jet?}
-{628}{}{Nie s¹dzê, ¿eby ch³opak OSZCZÊDZA£ na Jecie. Myœlê, ¿e zosta³ otruty.}
-{629}{}{Mam kilka innych pytañ...}
-{635}{}{Aj, wiêc to o TO chodzi, co? Chcesz wiedzieæ, czy stary Jimmy ma z tym coœ wspólnego, co?!}
+{627}{}{Co moÅ¼esz powiedzieÄ‡ o tym pustym pojemniku na Jet?}
+{628}{}{Nie sÄ…dzÄ™, Å¼eby chÅ‚opak OSZCZÄ˜DZAÅ na Jecie. MyÅ›lÄ™, Å¼e zostaÅ‚ otruty.}
+{629}{}{Mam kilka innych pytaÅ„...}
+{635}{}{Aj, wiÄ™c to o TO chodzi, co? Chcesz wiedzieÄ‡, czy stary Jimmy ma z tym coÅ› wspÃ³lnego, co?!}
 {636}{}{Nie, pytam tylko, czy...}
-{637}{}{Dobra, dobra, niewa¿ne. No jak, zrobimy interes?}
-{638}{}{S³uchaj, mam kilka innych pyt...}
-{639}{}{Dziêki za radê Jimmy. No dobra, lepiej ju¿ pój...}
-{645}{}{ODWAL siê! Sprzedajê CZYSTE gówno! Chcesz wiedzieæ, kto otru³ dzieciaka Wrightów, to idŸ zapytaj tego starego durnia Renesco, albo tê gnidê Julesa i zobacz, co ci powiedz¹!}
-{646}{}{Dobrze ju¿, dobrze. Uspokój siê...}
-{648}{}{No dobrze, dobrze. S³uchaj, mam jeszcze kilka innych pyt...}
-{655}{}{Pos³uchaj mnie, pos³uchaj mnie UWA¯NIE. Jeœli us³yszê, ¿e opowiadasz o mnie jakieœ pierdo³y, ¿e niby mia³em coœ wspólnego ze œmierci¹ dzieciaka Wrightów, to dopilnujê, ¿eby wykopali ci grób na Golgocie tu¿ obok jego.}
-{656}{}{Renesco powiedzia³, ¿e sprzedajesz Jet zakrapiany arszenikiem.}
-{659}{}{Nie ma sprawy. Wiesz, mam kilka innych pytañ...}
-{660}{}{¯e niby mnie zabij¹, co? Jak Richarda?}
-{661}{}{Tylko MNIE nie strasz, ty ma³y popaprañcu. Tylko ze mn¹ zadrzyj, a zabijê ciê tyle razy, ¿e bêdziesz siê czu³ jak £azarz.}
-{662}{}{Spokojnie Jimmy. Nikt nie bêdzie nic mówiæ.}
-{663}{}{Nikomu nic nie powiem Jimmy. Ju¿ sobie idê, widzisz? Idê sobie.}
-{675}{}{(Bierze pojemnik i ogl¹da go) Nie, ja... (w¹cha rozpylacz, marszczy siê) Góóóóó-wno. W tym Jecie jest jad radskorpa.}
+{637}{}{Dobra, dobra, niewaÅ¼ne. No jak, zrobimy interes?}
+{638}{}{SÅ‚uchaj, mam kilka innych pyt...}
+{639}{}{DziÄ™ki za radÄ™ Jimmy. No dobra, lepiej juÅ¼ pÃ³j...}
+{645}{}{ODWAL siÄ™! SprzedajÄ™ CZYSTE gÃ³wno! Chcesz wiedzieÄ‡, kto otruÅ‚ dzieciaka WrightÃ³w, to idÅº zapytaj tego starego durnia Renesco, albo tÄ™ gnidÄ™ Julesa i zobacz, co ci powiedzÄ…!}
+{646}{}{Dobrze juÅ¼, dobrze. UspokÃ³j siÄ™...}
+{648}{}{No dobrze, dobrze. SÅ‚uchaj, mam jeszcze kilka innych pyt...}
+{655}{}{PosÅ‚uchaj mnie, posÅ‚uchaj mnie UWAÅ»NIE. JeÅ›li usÅ‚yszÄ™, Å¼e opowiadasz o mnie jakieÅ› pierdoÅ‚y, Å¼e niby miaÅ‚em coÅ› wspÃ³lnego ze Å›mierciÄ… dzieciaka WrightÃ³w, to dopilnujÄ™, Å¼eby wykopali ci grÃ³b na Golgocie tuÅ¼ obok jego.}
+{656}{}{Renesco powiedziaÅ‚, Å¼e sprzedajesz Jet zakrapiany arszenikiem.}
+{659}{}{Nie ma sprawy. Wiesz, mam kilka innych pytaÅ„...}
+{660}{}{Å»e niby mnie zabijÄ…, co? Jak Richarda?}
+{661}{}{Tylko MNIE nie strasz, ty maÅ‚y popapraÅ„cu. Tylko ze mnÄ… zadrzyj, a zabijÄ™ ciÄ™ tyle razy, Å¼e bÄ™dziesz siÄ™ czuÅ‚ jak Åazarz.}
+{662}{}{Spokojnie Jimmy. Nikt nie bÄ™dzie nic mÃ³wiÄ‡.}
+{663}{}{Nikomu nic nie powiem Jimmy. JuÅ¼ sobie idÄ™, widzisz? IdÄ™ sobie.}
+{675}{}{(Bierze pojemnik i oglÄ…da go) Nie, ja... (wÄ…cha rozpylacz, marszczy siÄ™) GÃ³Ã³Ã³Ã³Ã³-wno. W tym Jecie jest jad radskorpa.}
 {676}{}{Jest zatruty?}
-{677}{}{Hmmm. Mam kilka innych pytañ...}
-{678}{}{Rozumiem. Dziêki.}
-{685}{}{Do licha, tak! Jeœli ktoœ rozpuszcza po mieœcie coœ takiego, to musisz uwa¿aæ... w³aœnie dlatego Jimmy zawsze powtarza...}
-{686}{}{Masz pomys³, sk¹d toto mo¿e pochodziæ?}
-{695}{}{Niee, ja nie... s³uchaj, tylko nie rozpuszczaj po mieœcie plotek, ¿e to moje... na twoim miejscu zapyta³bym o to Julesa albo Renesco... ale nie s³ysza³eœ tego ode mnie, dobra?}
-{696}{}{W porz¹dku. Mam parê innych pytañ...}
-{697}{}{Renesco i Julesa, tak? Pójdê ich o to zapytaæ. Dziêki za radê.}
-{705}{}{Nie dziwi mnie to ani trochê.}
-{706}{}{Co powiedzia³eœ?}
-{707}{}{Rozumiem. Mam kilka innych pytañ...}
-{708}{}{A wiêc niewa¿ne.}
-{715}{}{Taak, móg³ to POWIEDZIEÆ, bo siê na tym DOSKONALE zna.}
+{677}{}{Hmmm. Mam kilka innych pytaÅ„...}
+{678}{}{Rozumiem. DziÄ™ki.}
+{685}{}{Do licha, tak! JeÅ›li ktoÅ› rozpuszcza po mieÅ›cie coÅ› takiego, to musisz uwaÅ¼aÄ‡... wÅ‚aÅ›nie dlatego Jimmy zawsze powtarza...}
+{686}{}{Masz pomysÅ‚, skÄ…d toto moÅ¼e pochodziÄ‡?}
+{695}{}{Niee, ja nie... sÅ‚uchaj, tylko nie rozpuszczaj po mieÅ›cie plotek, Å¼e to moje... na twoim miejscu zapytaÅ‚bym o to Julesa albo Renesco... ale nie sÅ‚yszaÅ‚eÅ› tego ode mnie, dobra?}
+{696}{}{W porzÄ…dku. Mam parÄ™ innych pytaÅ„...}
+{697}{}{Renesco i Julesa, tak? PÃ³jdÄ™ ich o to zapytaÄ‡. DziÄ™ki za radÄ™.}
+{705}{}{Nie dziwi mnie to ani trochÄ™.}
+{706}{}{Co powiedziaÅ‚eÅ›?}
+{707}{}{Rozumiem. Mam kilka innych pytaÅ„...}
+{708}{}{A wiÄ™c niewaÅ¼ne.}
+{715}{}{Taak, mÃ³gÅ‚ to POWIEDZIEÄ†, bo siÄ™ na tym DOSKONALE zna.}
 {716}{}{Co to znaczy?}
-{725}{}{Co mam na myœli? Mam na myœli, ¿e Jimmy lubi utrzymywaæ swoich klientów w szczêœciu i PRZY ¯YCIU. A Renesco nie odró¿nia tych dwóch rzeczy... wiêc wyci¹gnij sobie z tego wnioski dla SIEBIE, mój pilocie.}
-{727}{}{Dziêki za radê Jimmy. Lepiej ju¿ pójdê.}
-{800}{}{Uda³o ci siê odkryæ, ¿e Richard Wright zosta³ otruty.}
-{5200}{}{! ChodŸ i weŸ trochê darmowego Jetu od J-J...}
-{5201}{}{! Jeœli myœlisz o ma³ej zabawie z Jetem, chodŸ pogadaj z Jimmym J...}
-{5281}{}{ próbujesz ok³amywaæ }
-{5314}{}{ ZABIÆ TY!}
+{725}{}{Co mam na myÅ›li? Mam na myÅ›li, Å¼e Jimmy lubi utrzymywaÄ‡ swoich klientÃ³w w szczÄ™Å›ciu i PRZY Å»YCIU. A Renesco nie odrÃ³Å¼nia tych dwÃ³ch rzeczy... wiÄ™c wyciÄ…gnij sobie z tego wnioski dla SIEBIE, mÃ³j pilocie.}
+{727}{}{DziÄ™ki za radÄ™ Jimmy. Lepiej juÅ¼ pÃ³jdÄ™.}
+{800}{}{UdaÅ‚o ci siÄ™ odkryÄ‡, Å¼e Richard Wright zostaÅ‚ otruty.}
+{5200}{}{! ChodÅº i weÅº trochÄ™ darmowego Jetu od J-J...}
+{5201}{}{! JeÅ›li myÅ›lisz o maÅ‚ej zabawie z Jetem, chodÅº pogadaj z Jimmym J...}
+{5281}{}{ prÃ³bujesz okÅ‚amywaÄ‡ }
+{5314}{}{ ZABIÄ† TY!}
 {5340}{}{?}
 {5341}{}{.}
 {6281}{}{ w temacie Jetu?}

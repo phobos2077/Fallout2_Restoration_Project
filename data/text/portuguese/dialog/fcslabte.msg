@@ -1,35 +1,35 @@
-{100}{}{Você vê um Shi em roupas brancas.}
-{101}{}{Você vê um Shi técnico de laboratório.}
-{102}{}{Você vê um Shi com roupas brancas em um laboratório de ciências.}
-{103}{}{Cara... Wong com certeza é um motorista de escravos.}
-{104}{}{Trabalho, trabalho, trabalho. É só para isso que servimos.}
+{100}{}{VocÃª vÃª um Shi em roupas brancas.}
+{101}{}{VocÃª vÃª um Shi tÃ©cnico de laboratÃ³rio.}
+{102}{}{VocÃª vÃª um Shi com roupas brancas em um laboratÃ³rio de ciÃªncias.}
+{103}{}{Cara... Wong com certeza Ã© um motorista de escravos.}
+{104}{}{Trabalho, trabalho, trabalho. Ã‰ sÃ³ para isso que servimos.}
 {105}{}{Vamos mudar as terras devastadas com este experimento!}
-{106}{}{Cuidado, ermo! Temos algo para você!}
+{106}{}{Cuidado, ermo! Temos algo para vocÃª!}
 {107}{}{Quero ver o sol outra vez.}
-{108}{}{Misture isso. Misture aquilo. As vezes isso é um saco.}
-{109}{}{Você viu os resultados recentes do grande experimento! Muito satisfatório!}
+{108}{}{Misture isso. Misture aquilo. As vezes isso Ã© um saco.}
+{109}{}{VocÃª viu os resultados recentes do grande experimento! Muito satisfatÃ³rio!}
 {110}{}{Desculpa-me.}
-{116}{}{Ha! Isso ensina aqueles espiões a invadir aqui!}
-{117}{}{Os hackers nunca tentarão ISSO outra vez.}
-{118}{}{Se não vencermos com a ciência, venceremos com nossos lutadores.}
-{119}{}{Lo Pan e o Dragão juntos. É um pensamento assustador.}
-{120}{}{Esse hacker não durou muito.}
-{121}{}{Trabalho, trabalho, trabalho. É só para isso que servimos.}
+{116}{}{Ha! Isso ensina aqueles espiÃµes a invadir aqui!}
+{117}{}{Os hackers nunca tentarÃ£o ISSO outra vez.}
+{118}{}{Se nÃ£o vencermos com a ciÃªncia, venceremos com nossos lutadores.}
+{119}{}{Lo Pan e o DragÃ£o juntos. Ã‰ um pensamento assustador.}
+{120}{}{Esse hacker nÃ£o durou muito.}
+{121}{}{Trabalho, trabalho, trabalho. Ã‰ sÃ³ para isso que servimos.}
 {122}{}{Vamos mudar o ermo!}
 {123}{}{Cuidado, ermo!}
 {124}{}{Quero ver o sol outra vez.}
-{127}{}{Sheng Ming é um verme desprezível.}
+{127}{}{Sheng Ming Ã© um verme desprezÃ­vel.}
 {128}{}{Um dia desses, terminaremos.}
-{129}{}{Pela glória do imperador. Correto.}
-{130}{}{Ouviu? Alguém invadiu nossos computadores!}
+{129}{}{Pela glÃ³ria do imperador. Correto.}
+{130}{}{Ouviu? AlguÃ©m invadiu nossos computadores!}
 {131}{}{Aposto que foram os Hubologistas que fizeram isso.}
-{132}{}{Devíamos mandar um vírus para os Hubologistas.}
+{132}{}{DevÃ­amos mandar um vÃ­rus para os Hubologistas.}
 {133}{}{Eu quero me vingar dos hackers!}
 {134}{}{Algum dia descobriremos quem nos hackeou.}
-{135}{}{Trabalho, trabalho, trabalho. É só para isso que servimos.}
-{144}{}{Estamos fazendo um bom trabalho aqui! Não estrague tudo!}
+{135}{}{Trabalho, trabalho, trabalho. Ã‰ sÃ³ para isso que servimos.}
+{144}{}{Estamos fazendo um bom trabalho aqui! NÃ£o estrague tudo!}
 {145}{}{Estamos tentando salvar o ermo, seu babaca!}
-{146}{}{Não! Nossos cientistas não!}
+{146}{}{NÃ£o! Nossos cientistas nÃ£o!}
 {147}{}{Ajuda!! Guardas!}
-{148}{}{Por favor! Você não entende!}
-{149}{}{Não! Nossos experimentos!}
+{148}{}{Por favor! VocÃª nÃ£o entende!}
+{149}{}{NÃ£o! Nossos experimentos!}

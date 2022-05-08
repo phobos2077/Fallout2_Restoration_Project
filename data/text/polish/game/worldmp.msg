@@ -1,33 +1,33 @@
-{200}{}{Wej渃ie do Jaskini}
-{201}{}{Wej渃ie}
+{200}{}{Wej艣cie do Jaskini}
+{201}{}{Wej艣cie}
 {202}{}{Kwatery Mieszkalne}
 {203}{}{Centrum Dowodzenia}
-{210}{}{Wej渃ie na Pustyni陖
-{211}{}{Jaskinie/Wej渃ie}
+{210}{}{Wej艣cie na Pustyni臋}
+{211}{}{Jaskinie/Wej艣cie}
 {212}{}{Kwatery Mieszkalne}
 {213}{}{Centrum Dowodzenia}
-{220}{}{Wej渃ie}
-{221}{}{ogr骴}
-{222}{}{Zagroda Bramin體}
-{230}{}{Wej渃ie}
+{220}{}{Wej艣cie}
+{221}{}{ogr贸d}
+{222}{}{Zagroda Bramin贸w}
+{230}{}{Wej艣cie}
 {231}{}{Crash House}
 {232}{}{Kasyno}
 {240}{}{Baza}
 {250}{}{Hotel}
 {251}{}{Sala}
-{252}{}{Wododzia硙
-{260}{}{Wej渃ie}
-{261}{}{宺骴mie渃ie}
-{262}{}{Wy縴ny}
+{252}{}{Wododzia艂}
+{260}{}{Wej艣cie}
+{261}{}{艢r贸dmie艣cie}
+{262}{}{Wy偶yny}
 {263}{}{Stare Miasto}
 {264}{}{Kupcy}
 {265}{}{Jaskinia}
-{270}{}{Wej渃ie}
+{270}{}{Wej艣cie}
 {271}{}{Poziom 1}
 {272}{}{Poziom 2}
 {273}{}{Poziom 3}
 {274}{}{Poziom 4}
-{280}{}{Wej渃ie}
+{280}{}{Wej艣cie}
 {281}{}{Twierdza Poziom 1}
 {282}{}{Twierdza Poziom 2}
 {283}{}{Kadzie Poziom 1}
@@ -35,16 +35,16 @@
 {290}{}{Krater}
 {291}{}{Poziom 1}
 {300}{}{Adytum}
-{301}{}{宺骴mie渃ie}
+{301}{}{艢r贸dmie艣cie}
 {302}{}{Biblioteka}
 {303}{}{Forteca}
 {304}{}{Magazyn}
-{310}{}{Wej渃ie}
-{311}{}{Wn阾rze.}
+{310}{}{Wej艣cie}
+{311}{}{Wn臋trze.}
 {500}{}{Zdobywasz 10000 PD!}
 {501}{}{ruiny}
 {1000}{}{Pustynia}
-{1001}{}{G髍y}
+{1001}{}{G贸ry}
 {1002}{}{Miasto}
-{1003}{}{Wybrze縠}
+{1003}{}{Wybrze偶e}
 {1004}{}{Nieznane}

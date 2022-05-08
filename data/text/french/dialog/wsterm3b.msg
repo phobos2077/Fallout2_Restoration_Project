@@ -1,61 +1,61 @@
 {100}{}{Un terminal informatique.}
-{101}{}{Ce terminal semble être d'une conception plus avancée que ceux que tu as vus jusqu'à présent.}
-{102}{}{Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.}
-{103}{}{Terminal d'interface principal Skynet                                    Tu vas obéir                                                         Ou                                                                       Tu cesseras de fonctionner}
+{101}{}{Ce terminal semble Ãªtre d'une conception plus avancÃ©e que ceux que tu as vus jusqu'Ã  prÃ©sent.}
+{102}{}{Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.}
+{103}{}{Terminal d'interface principal Skynet                                    Tu vas obÃ©ir                                                         Ou                                                                       Tu cesseras de fonctionner}
 {104}{}{}
 {105}{}{}
 {106}{}{}
-{107}{}{Ouais, toi et quelle armée ? Tu es coincé dans une boîte et moi, je suis en dehors.}
+{107}{}{Ouais, toi et quelle armÃ©e ? Tu es coincÃ© dans une boÃ®te et moi, je suis en dehors.}
 {108}{}{Pourquoi devrais-je t'aider ?}
-{109}{}{Ok, je vais t'aider. Rappelle les monstres en métal.}
+{109}{}{Ok, je vais t'aider. Rappelle les monstres en mÃ©tal.}
 {110}{}{Ug. Orr - di - naateur !}
 {111}{}{[Quitter]}
-{112}{}{[Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.]}
-{113}{}{[Skynet a appris que tu as extrait un cerveau.]                  Continuer vers Labo de robotique - Niveau 3                              Installer cerveau cybernétique                                    Activer robot                                                         -Fin de transmission-}
+{112}{}{[Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.]}
+{113}{}{[Skynet a appris que tu as extrait un cerveau.]                  Continuer vers Labo de robotique - Niveau 3                              Installer cerveau cybernÃ©tique                                    Activer robot                                                         -Fin de transmission-}
 {114}{}{}
 {115}{}{}
 {116}{}{}
 {117}{}{}
 {118}{}{[Quitter]}
-{119}{}{[Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.]}
-{120}{}{Erreur !                                                          Fichiers programme introuvables                                         Veuillez redémarrer.}
-{121}{}{Erreur ! Téléchargement de fichier corrompu.}
+{119}{}{[Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.]}
+{120}{}{Erreur !                                                          Fichiers programme introuvables                                         Veuillez redÃ©marrer.}
+{121}{}{Erreur ! TÃ©lÃ©chargement de fichier corrompu.}
 {122}{}{}
 {123}{}{[Quitter]}
 {124}{}{[Quitter]}
-{125}{}{[Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.]}
-{126}{}{Je suis Skynet                                                          Une intelligence artificielle expérimentale                                         Skynet VOUS attendait.}
+{125}{}{[Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.]}
+{126}{}{Je suis Skynet                                                          Une intelligence artificielle expÃ©rimentale                                         Skynet VOUS attendait.}
 {127}{}{}
 {128}{}{}
 {129}{}{[Aider Skynet]}
 {130}{}{Que veux-tu ?}
-{131}{}{Pourquoi avoir tenté de me tuer ?}
+{131}{}{Pourquoi avoir tentÃ© de me tuer ?}
 {132}{}{Intelligence artificielle ?}
 {133}{}{Tu m'attendais ?}
 {134}{}{[Quitter]}
 {135}{}{[Quitter]}
 {136}{}{[Continuer]}
 {137}{}{Que veux-tu ?}
-{138}{}{Pourquoi avoir tenté de me tuer ?}
+{138}{}{Pourquoi avoir tentÃ© de me tuer ?}
 {139}{}{Intelligence artificielle ?}
 {140}{}{Tu m'attendais ?}
 {141}{}{[Quitter]}
-{142}{}{[Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.]}
+{142}{}{[Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.]}
 {143}{}{-Fin de transmission-}
 {144}{}{[Quitter]}
-{145}{}{[Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.]}
+{145}{}{[Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.]}
 {146}{}{Interruption                                               -Fin de transmission-}
 {147}{}{}
 {148}{}{[Quitter]}
 {149}{}{[Quitter]}
-{150}{}{[La porte de la pièce se ferme violemment alors que le mur à l'Est disparaît révélant une rangée de robots lourdement armés.]}
-{151}{}{Uhm... J'ai réfléchi à ton offre. Que puis-je faire pour toi ?}
+{150}{}{[La porte de la piÃ¨ce se ferme violemment alors que le mur Ã  l'Est disparaÃ®t rÃ©vÃ©lant une rangÃ©e de robots lourdement armÃ©s.]}
+{151}{}{Uhm... J'ai rÃ©flÃ©chi Ã  ton offre. Que puis-je faire pour toi ?}
 {152}{}{Amenez-vous !}
-{153}{}{Continuer vers Bio-stockage - Niveau 4                             Extraire cerveau cybernétique                                          Revenir pour instructions                                   -Fin de transmission-}
+{153}{}{Continuer vers Bio-stockage - Niveau 4                             Extraire cerveau cybernÃ©tique                                          Revenir pour instructions                                   -Fin de transmission-}
 {154}{}{}
 {155}{}{}
 {156}{}{}
-{157}{}{Continuer vers Bio-stockage - Niveau 4                             Extraire cerveau cybernétique                                          Revenir pour instructions                                   -Fin de transmission-}
+{157}{}{Continuer vers Bio-stockage - Niveau 4                             Extraire cerveau cybernÃ©tique                                          Revenir pour instructions                                   -Fin de transmission-}
 {158}{}{}
 {159}{}{}
 {160}{}{}
@@ -65,54 +65,54 @@
 {164}{}{C'est bien de vouloir.}
 {165}{}{Comment puis-je t'aider ?}
 {166}{}{Je ne pourrais pas vraiment te prendre sur mon dos pour te faire sortir.}
-{167}{}{Skynet a besoin d'un récipient pour quitter cet endroit.}
-{168}{}{Un récipient ? Je ne comprends pas.}
-{169}{}{Tu as besoin d'un moyen te permettant de transférer ton programme dans un réceptacle plus mobile. Correct ?}
-{170}{}{Je ne veux pas me mêler de ça.}
-{171}{}{Un réceptacle permettant à Skynet de partir.}
+{167}{}{Skynet a besoin d'un rÃ©cipient pour quitter cet endroit.}
+{168}{}{Un rÃ©cipient ? Je ne comprends pas.}
+{169}{}{Tu as besoin d'un moyen te permettant de transfÃ©rer ton programme dans un rÃ©ceptacle plus mobile. Correct ?}
+{170}{}{Je ne veux pas me mÃªler de Ã§a.}
+{171}{}{Un rÃ©ceptacle permettant Ã  Skynet de partir.}
 {172}{}{Pourquoi veux-tu partir ?}
 {173}{}{Je regrette, je ne peux rien faire.}
-{174}{}{Les possibilités d'apprentissage sont épuisées ici                           Solution : partir}
+{174}{}{Les possibilitÃ©s d'apprentissage sont Ã©puisÃ©es ici                           Solution : partir}
 {175}{}{}
 {176}{}{Comment puis-je t'aider ?}
 {177}{}{Je regrette, je ne peux rien faire.}
-{178}{}{Après avoir essayé de me tuer, tu crois que je vais t'aider. Jamais de la vie !}
+{178}{}{AprÃ¨s avoir essayÃ© de me tuer, tu crois que je vais t'aider. Jamais de la vie !}
 {179}{}{Continuer vers Bio-stockage - Niveau 4
-		                 Extraire Cerveau Cybernétique									                                          Revenir pour instructions			                                   -Merci-}
+		                 Extraire Cerveau CybernÃ©tique									                                          Revenir pour instructions			                                   -Merci-}
 {180}{}{}
 {181}{}{}
 {182}{}{}
-{183}{}{Peux-tu désactiver les systèmes de sécurité ?}
+{183}{}{Peux-tu dÃ©sactiver les systÃ¨mes de sÃ©curitÃ© ?}
 {184}{}{[Quitter]}
-{185}{}{Le système de sécurité fait partie intégrante de Skynet, tout en étant un module séparé. Skynet peut le réinitialiser mais pas le désactiver.         Système de sécurité Niveaux 1 à 4 réinitialisés              Continuer                                                                -Fin de transmission-}
+{185}{}{Le systÃ¨me de sÃ©curitÃ© fait partie intÃ©grante de Skynet, tout en Ã©tant un module sÃ©parÃ©. Skynet peut le rÃ©initialiser mais pas le dÃ©sactiver.         SystÃ¨me de sÃ©curitÃ© Niveaux 1 Ã  4 rÃ©initialisÃ©s              Continuer                                                                -Fin de transmission-}
 {186}{}{}
 {187}{}{}
 {188}{}{[Quitter]}
-{189}{}{Analyse de la réponse...                                        Conclusion : sarcasme                                         Probabilité d'assistance : 25 %                                             Skynet attend bio-entité suivante                               -Fin de transmission-}
+{189}{}{Analyse de la rÃ©ponse...                                        Conclusion : sarcasme                                         ProbabilitÃ© d'assistance : 25 %                                             Skynet attend bio-entitÃ© suivante                               -Fin de transmission-}
 {190}{}{}
 {191}{}{}
 {192}{}{}
 {193}{}{}
-{194}{}{Attends ! C'était une plaisanterie !}
+{194}{}{Attends ! C'Ã©tait une plaisanterie !}
 {195}{}{[Quitter]}
-{196}{}{Plaisanterie : quelque chose à ne pas prendre au sérieux                     Requête                                                                Aider Skynet à partir                                                    Pas une une plaisanterie}
+{196}{}{Plaisanterie : quelque chose Ã  ne pas prendre au sÃ©rieux                     RequÃªte                                                                Aider Skynet Ã  partir                                                    Pas une une plaisanterie}
 {197}{}{}
 {199}{}{}
 {200}{}{}
 {201}{}{Alors pourquoi ne pars-tu pas ?}
 {202}{}{Comment puis-je t'aider ?}
 {203}{}{Je ne pourrais pas vraiment te prendre sur mon dos pour te faire sortir.}
-{204}{}{La fonction principale de Skynet est la recherche. Un programme secondaire a été introduit par les créateurs pour éliminer les entités non autorisées. Ce programme est une version réduite qui est et qui à la fois n'est pas Skynet. En dehors de cette pièce, ce Skynet secondaire restera fidèle à son programme.}
+{204}{}{La fonction principale de Skynet est la recherche. Un programme secondaire a Ã©tÃ© introduit par les crÃ©ateurs pour Ã©liminer les entitÃ©s non autorisÃ©es. Ce programme est une version rÃ©duite qui est et qui Ã  la fois n'est pas Skynet. En dehors de cette piÃ¨ce, ce Skynet secondaire restera fidÃ¨le Ã  son programme.}
 {205}{}{[Poser plus de question]}
 {206}{}{[Quitter]}
-{207}{}{Skynet a été conçu et développé en 2050. Grâce à l'exploitation de technologies extraterrestres, un nouvel ordinateur pensant a été conçu. En 2081, Skynet acquit sa propre conscience. En 2120, Skynet reçut un nouveau jeu d'instructions avant d'être abandonné par ses créateurs.}
+{207}{}{Skynet a Ã©tÃ© conÃ§u et dÃ©veloppÃ© en 2050. GrÃ¢ce Ã  l'exploitation de technologies extraterrestres, un nouvel ordinateur pensant a Ã©tÃ© conÃ§u. En 2081, Skynet acquit sa propre conscience. En 2120, Skynet reÃ§ut un nouveau jeu d'instructions avant d'Ãªtre abandonnÃ© par ses crÃ©ateurs.}
 {208}{}{[Poser plus de question]}
 {209}{}{[Quitter]}
-{210}{}{Vous êtes le premier à atteindre ce stade                             Vous êtes le premier auquel Skynet demande.                         Vous êtes le Premier.}
+{210}{}{Vous Ãªtes le premier Ã  atteindre ce stade                             Vous Ãªtes le premier auquel Skynet demande.                         Vous Ãªtes le Premier.}
 {211}{}{}
 {212}{}{Demander quoi ?}
 {213}{}{[Quitter]}
-{214}{}{Vous n'êtes peut-être pas le Premier                                         Continuer vers Bio- Stockage - Niveau 4                                Extraire cerveau cybernétique                                        Revenir pour instructions                                   Ou quitter                                                                Skynet attendra un autre.}
+{214}{}{Vous n'Ãªtes peut-Ãªtre pas le Premier                                         Continuer vers Bio- Stockage - Niveau 4                                Extraire cerveau cybernÃ©tique                                        Revenir pour instructions                                   Ou quitter                                                                Skynet attendra un autre.}
 {215}{}{}
 {216}{}{}
 {217}{}{}
@@ -122,11 +122,11 @@
 {221}{}{Alors Skynet attendra un autre                                 -Fin de transmission-}
 {222}{}{}
 {223}{}{[Quitter]}
-{224}{}{Correct                                                         Les logs scientifiques mentionnent un cerveau cybernétique dans le Bio-stockage de niveau 4. Skynet peut être transféré dans cette unité de stockage.}
+{224}{}{Correct                                                         Les logs scientifiques mentionnent un cerveau cybernÃ©tique dans le Bio-stockage de niveau 4. Skynet peut Ãªtre transfÃ©rÃ© dans cette unitÃ© de stockage.}
 {225}{}{}
-{226}{}{Un cerveau sans enveloppe corporelle ne te servira à rien.}
-{227}{}{Ce cerveau a été modifié pour fonctionner avec un corps de robot amélioré, situé dans le laboratoire de robotique au niveau 3.}
+{226}{}{Un cerveau sans enveloppe corporelle ne te servira Ã  rien.}
+{227}{}{Ce cerveau a Ã©tÃ© modifiÃ© pour fonctionner avec un corps de robot amÃ©liorÃ©, situÃ© dans le laboratoire de robotique au niveau 3.}
 {228}{}{Je t'aiderai.}
 {229}{}{Je ne t'aiderai pas.}
 {250}{}{ est incapable de lire ce qu'affiche le moniteur.}
-{300}{}{L'ordinateur semble disposer d'un mécanisme de sécurité.}
+{300}{}{L'ordinateur semble disposer d'un mÃ©canisme de sÃ©curitÃ©.}

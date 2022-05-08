@@ -7,13 +7,13 @@
 {203}{}{Ti serve qualcosa, figliolo?}
 {204}{}{::Tocca la tesa di un cappello immaginario:: Le serve qualcosa, miss?}
 {205}{}{La conoshete 'row row boat down stream?'}
-{206}{}{Potreshte… potreshte cantarme Nove BILLYoni di bottije di birra shul muro?}
+{206}{}{Potreshteâ€¦ potreshte cantarme Nove BILLYoni di bottije di birra shul muro?}
 {207}{}{Nooo me va ora}
 {208}{}{Ne sarei onorato. Grazie, ragazzi.}
 {209}{}{Ecco un po' di spiccioli. Potreste cantare qualcos'altro?}
 {210}{}{No, ascolto solamente, grazie.}
-{300}{}{D'accordo, allora… avete sentito il signore, ragazzi. Proviamo qualcosa di diverso.}
-{301}{}{D'accordo, allora… avete sentito la signora, ragazzi. Proviamo qualcosa di diverso.}
+{300}{}{D'accordo, alloraâ€¦ avete sentito il signore, ragazzi. Proviamo qualcosa di diverso.}
+{301}{}{D'accordo, alloraâ€¦ avete sentito la signora, ragazzi. Proviamo qualcosa di diverso.}
 {302}{}{Grassshie}
 {303}{}{Grazie, ragazzi.}
 {400}{}{Oooooh}
@@ -50,14 +50,14 @@
 {906}{}{I ask no more than this:}
 {910}{}{A kiss before you leave me}
 {912}{}{Will feed my hungry heart}
-{913}{}{Leave me one thing before we part…}
+{913}{}{Leave me one thing before we partâ€¦}
 {915}{}{When I'm alone}
 {916}{}{With my fancies}
 {917}{}{I'lllll be with yoooou}
 {918}{}{Weaving ro-mances}
 {919}{}{Making believe they're true}
 {920}{}{Oh, give me your lips for just a moment}
-{921}{}{And my imagination will make that moment live…}
+{921}{}{And my imagination will make that moment liveâ€¦}
 {923}{}{Give me what you alone can give}
 {925}{}{::Mouth Trumpet::}
 {930}{}{I'll... be with yoooou}

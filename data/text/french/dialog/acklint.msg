@@ -1,25 +1,25 @@
 {100}{}{Tu vois Klint, un membre de la tribu.}
 {101}{}{Tu vois Klint.}
-{102}{}{Tu vois un jeune homme à la musculature impressionnante. Il a l'air sûr de lui.}
-{103}{}{Bonjour à toi, }
-{104}{}{. Tu ne peux pas passer. Tu n'as pas terminé l'épreuve de la Doyenne.}
+{102}{}{Tu vois un jeune homme Ã  la musculature impressionnante. Il a l'air sÃ»r de lui.}
+{103}{}{Bonjour Ã  toi, }
+{104}{}{. Tu ne peux pas passer. Tu n'as pas terminÃ© l'Ã©preuve de la Doyenne.}
 {105}{}{Euh...}
 {106}{}{Je dois retourner au village.}
-{107}{}{J'ai quelques questions à te poser.}
-{108}{}{Très bien, je vais relever le défi.}
+{107}{}{J'ai quelques questions Ã  te poser.}
+{108}{}{TrÃ¨s bien, je vais relever le dÃ©fi.}
 {109}{}{(soupir) }
-{110}{}{. Toi aller temple. Toi relever défi. Toi pas revenir avant avoir réussi épreuve. Obéir à doyenne. Toi partir !}
+{110}{}{. Toi aller temple. Toi relever dÃ©fi. Toi pas revenir avant avoir rÃ©ussi Ã©preuve. ObÃ©ir Ã  doyenne. Toi partir !}
 {111}{}{Moi aller.}
-{112}{}{Désolé, }
-{113}{}{, mais je ne peux pas te laisser passer. Si tu veux retourner au village, tu dois simplement relever le défi qui se présente à toi.}
+{112}{}{DÃ©solÃ©, }
+{113}{}{, mais je ne peux pas te laisser passer. Si tu veux retourner au village, tu dois simplement relever le dÃ©fi qui se prÃ©sente Ã  toi.}
 {114}{}{Je vois. Je crois que je vais y aller alors.}
 {115}{}{Puis-je te poser quelques questions ?}
 {116}{}{Je pourrais te botter le cul et te chasser.}
-{117}{}{Pardonne-moi mais je n'ai pas de réponses à tes questions. Relève le défi que t'a préparé la Doyenne et montre-toi digne de diriger notre peuple.}
-{118}{}{Très bien.}
-{119}{}{Deux personnes travaillant ensemble peuvent déplacer l'obélisque qui bloque le passage. Sans aide, tu échouerais. Je n'ai pas l'intention de t'aider avant que tu aies relevé le défi de la Doyenne.}
+{117}{}{Pardonne-moi mais je n'ai pas de rÃ©ponses Ã  tes questions. RelÃ¨ve le dÃ©fi que t'a prÃ©parÃ© la Doyenne et montre-toi digne de diriger notre peuple.}
+{118}{}{TrÃ¨s bien.}
+{119}{}{Deux personnes travaillant ensemble peuvent dÃ©placer l'obÃ©lisque qui bloque le passage. Sans aide, tu Ã©chouerais. Je n'ai pas l'intention de t'aider avant que tu aies relevÃ© le dÃ©fi de la Doyenne.}
 {120}{}{Euh, je comprends.}
 {121}{}{Bienvenue, Etre Elu. Je suis content de te voir. Que puis-je faire pour toi ?}
 {122}{}{Moi juste dire bonjour.}
-{123}{}{Je voulais juste te dire bonjour. Je vais rapidement reprendre ma quête.}
-{124}{}{Que les esprits de nos ancêtres te protègent, Etre Elu. Je te souhaite un bon voyage.}
+{123}{}{Je voulais juste te dire bonjour. Je vais rapidement reprendre ma quÃªte.}
+{124}{}{Que les esprits de nos ancÃªtres te protÃ¨gent, Etre Elu. Je te souhaite un bon voyage.}

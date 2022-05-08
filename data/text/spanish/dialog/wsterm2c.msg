@@ -1,23 +1,23 @@
 {100}{}{Un terminal.}
-{101}{}{Una computadora muy anticuada. Con una CPU de sÛlo 500Hz.}
+{101}{}{Una computadora muy anticuada. Con una CPU de s√≥lo 500Hz.}
 {102}{}{Eres incapaz de leer lo que pone en el monitor.}
-{103}{}{EstaciÛn de reparaciÛn autom·tica  --  Procesando peticiÛn reparaciÛn de Skynet  --  Enviando unidades de reparaciÛn}
+{103}{}{Estaci√≥n de reparaci√≥n autom√°tica  --  Procesando petici√≥n reparaci√≥n de Skynet  --  Enviando unidades de reparaci√≥n}
 {104}{}{}
 {105}{}{}
-{106}{}{Intentar inutilizar la estaciÛn de reparaciÛn.}
+{106}{}{Intentar inutilizar la estaci√≥n de reparaci√≥n.}
 {107}{}{Desenchufar la computadora.}
-{108}{}{Pulsar el botÛn grande y rojo marcado con las letras 'OFF'.}
+{108}{}{Pulsar el bot√≥n grande y rojo marcado con las letras 'OFF'.}
 {109}{}{Salir.}
-{110}{}{[No eres capaz de imaginar cÛmo apagar el programa]}
+{110}{}{[No eres capaz de imaginar c√≥mo apagar el programa]}
 {111}{}{Salir.}
-{112}{}{[Teclear la palabra 'OFF' parece dar resultado. El sistema de reparaciÛn autom·tica se detiene].}
+{112}{}{[Teclear la palabra 'OFF' parece dar resultado. El sistema de reparaci√≥n autom√°tica se detiene].}
 {113}{}{Salir.}
 {114}{}{[Por pura casualidad adviertes un cable que va de la computadora a un enchufe en la pared. La pantalla de la computadora se pone negra cuando tiras del enchufe].}
 {115}{}{Salir.}
-{116}{}{Valientemente presionas el botÛn rojo marcado como 'OFF'. Como sospechabas, el terminal se oscurece.}
+{116}{}{Valientemente presionas el bot√≥n rojo marcado como 'OFF'. Como sospechabas, el terminal se oscurece.}
 {117}{}{Salir.}
 {118}{}{[Al usar el teclado, las teclas empiezan a saltar y caer
  al suelo. Ha sido demasiado para este terminal].}
 {119}{}{Salir.}
-{120}{}{Ya has detenido el sistema de reparaciÛn autom·tica.}
-{121}{}{No puedo acceder al terminal. Alguien rompiÛ el teclado.}
+{120}{}{Ya has detenido el sistema de reparaci√≥n autom√°tica.}
+{121}{}{No puedo acceder al terminal. Alguien rompi√≥ el teclado.}

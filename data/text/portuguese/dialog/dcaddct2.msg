@@ -1,53 +1,53 @@
-{100}{}{Você vê um posseiro.}
-{101}{}{Você vê um homem coberto de sujeira e imundície.}
-{102}{}{Você vê uma mulher coberta de sujeira e imundície.}
-{103}{}{O que você quer?}
-{104}{}{Eu quero você e seus amigos para fora deste edifício. Chegou à minha atenção que mamãe pretende transformar este lugar
-  em um orfanato para tirar todas as crianças sem-teto das ruas. E ela não pode fazer isso com você agachados aqui.}
-{105}{}{[Ele achata de forma incômoda e olha para seus colegas posseiros para obter apoio.] Mamãe conhece o acordo. Não vamos a lugar nenhum
-  até que ela entregue o dinheiro. Então, a menos que você nos traga um milhão de moedas, foda-se.}
-{106}{}{Olha, a mãe não tem esse dinheiro, e mesmo se ela fizesse, ela nunca pagaria você, então apenas esqueça. Por que não mostrar
-  alguma decência e vá agachar em algum outro lugar? Essas crianças sem-teto precisam deste lugar muito mais do que você.}
-{107}{}{Quem é você para dizer quem merece o quê? Nós * gostamos * daqui. Você não pode nos fazer partir.}
-{108}{}{Ouça, você tem duas escolhas: você pode sair daqui em seus próprios dois pés, ou * Eu * posso removê-los - arrastando
-  vocês, um cadáver de cada vez.}
-{109}{}{([Ele troca um olhar com seus colegas posseiros, então olha para você e balança a cabeça.] Você não pode nos intimidar.
-  Ninguém está nos expulsando daqui. Lutaremos por nosso território.}
-{110}{}{[Ele troca um olhar com seus colegas posseiros, depois olha para você e acena com a cabeça.] OK, você fez o seu ponto. Não é que
-  Nós odiamos crianças ou qualquer coisa, o inferno, a maioria de nós também fomos crianças sem-teto. Nós estávamos apenas tentando ganhar algum dinheiro, você sabe? o
-  tipo de empregos por aqui envolvem tráfico de drogas ou dor, e não estamos com isso. [Ele suspira.] Vamos sair, mas onde você sugere que
-  nós vamos? Este lugar é a nossa casa.}
-{111}{}{Eu não sei. Isso não é problema meu.}
-{112}{}{Posso me arrepender de dizer isso, mas se você é sério sobre querer emprego, tenho certeza que mamãe poderia usar alguma ajuda para consertar esse lugar. Ela é uma boa senhora,
-  então, talvez, se você se desculpar, ela lhe daria uma chance justa de provar que você é mais do que um monte de oportunistas preguiçosos. Vou falar com ela sobre isso. Mas se você tentar
-  foda-se, eu vou caçar você e fazer você pagar.}
-{113}{}{Foda-se isso, eu mudei de ideia. Nós não estamos saindo. Nós estamos ficando aqui e lutando.}
-{114}{}{[Ele troca um olhar com os outros invasores e pondera suas palavras.] Você sabe o que? Isso não parece muito ruim. Na verdade, isso poderia funcionar bem,
-  Se você realmente acha que mamãe vai por isso. Enquanto você vai falar com ela, vamos começar a limpar este lugar. Ah, e obrigado por ser tão legal sobre as coisas.}
-{115}{}{Deixa pra lá.}
-{116}{}{Ela não vai pagar você. Mas estou aqui para lhe oferecer um novo negócio: você e seus amigos se afastam daqui agora, e vocês conseguem manter suas vidas.}
+{100}{}{VocÃª vÃª um posseiro.}
+{101}{}{VocÃª vÃª um homem coberto de sujeira e imundÃ­cie.}
+{102}{}{VocÃª vÃª uma mulher coberta de sujeira e imundÃ­cie.}
+{103}{}{O que vocÃª quer?}
+{104}{}{Eu quero vocÃª e seus amigos para fora deste edifÃ­cio. Chegou Ã  minha atenÃ§Ã£o que mamÃ£e pretende transformar este lugar
+Â  em um orfanato para tirar todas as crianÃ§as sem-teto das ruas. E ela nÃ£o pode fazer isso com vocÃª agachados aqui.}
+{105}{}{[Ele achata de forma incÃ´moda e olha para seus colegas posseiros para obter apoio.] MamÃ£e conhece o acordo. NÃ£o vamos a lugar nenhum
+Â  atÃ© que ela entregue o dinheiro. EntÃ£o, a menos que vocÃª nos traga um milhÃ£o de moedas, foda-se.}
+{106}{}{Olha, a mÃ£e nÃ£o tem esse dinheiro, e mesmo se ela fizesse, ela nunca pagaria vocÃª, entÃ£o apenas esqueÃ§a. Por que nÃ£o mostrar
+Â  alguma decÃªncia e vÃ¡ agachar em algum outro lugar? Essas crianÃ§as sem-teto precisam deste lugar muito mais do que vocÃª.}
+{107}{}{Quem Ã© vocÃª para dizer quem merece o quÃª? NÃ³s * gostamos * daqui. VocÃª nÃ£o pode nos fazer partir.}
+{108}{}{OuÃ§a, vocÃª tem duas escolhas: vocÃª pode sair daqui em seus prÃ³prios dois pÃ©s, ou * Eu * posso removÃª-los - arrastando
+Â  vocÃªs, um cadÃ¡ver de cada vez.}
+{109}{}{([Ele troca um olhar com seus colegas posseiros, entÃ£o olha para vocÃª e balanÃ§a a cabeÃ§a.] VocÃª nÃ£o pode nos intimidar.
+Â  NinguÃ©m estÃ¡ nos expulsando daqui. Lutaremos por nosso territÃ³rio.}
+{110}{}{[Ele troca um olhar com seus colegas posseiros, depois olha para vocÃª e acena com a cabeÃ§a.] OK, vocÃª fez o seu ponto. NÃ£o Ã© que
+Â  NÃ³s odiamos crianÃ§as ou qualquer coisa, o inferno, a maioria de nÃ³s tambÃ©m fomos crianÃ§as sem-teto. NÃ³s estÃ¡vamos apenas tentando ganhar algum dinheiro, vocÃª sabe? o
+Â  tipo de empregos por aqui envolvem trÃ¡fico de drogas ou dor, e nÃ£o estamos com isso. [Ele suspira.] Vamos sair, mas onde vocÃª sugere que
+Â  nÃ³s vamos? Este lugar Ã© a nossa casa.}
+{111}{}{Eu nÃ£o sei. Isso nÃ£o Ã© problema meu.}
+{112}{}{Posso me arrepender de dizer isso, mas se vocÃª Ã© sÃ©rio sobre querer emprego, tenho certeza que mamÃ£e poderia usar alguma ajuda para consertar esse lugar. Ela Ã© uma boa senhora,
+Â  entÃ£o, talvez, se vocÃª se desculpar, ela lhe daria uma chance justa de provar que vocÃª Ã© mais do que um monte de oportunistas preguiÃ§osos. Vou falar com ela sobre isso. Mas se vocÃª tentar
+Â  foda-se, eu vou caÃ§ar vocÃª e fazer vocÃª pagar.}
+{113}{}{Foda-se isso, eu mudei de ideia. NÃ³s nÃ£o estamos saindo. NÃ³s estamos ficando aqui e lutando.}
+{114}{}{[Ele troca um olhar com os outros invasores e pondera suas palavras.] VocÃª sabe o que? Isso nÃ£o parece muito ruim. Na verdade, isso poderia funcionar bem,
+Â  Se vocÃª realmente acha que mamÃ£e vai por isso. Enquanto vocÃª vai falar com ela, vamos comeÃ§ar a limpar este lugar. Ah, e obrigado por ser tÃ£o legal sobre as coisas.}
+{115}{}{Deixa pra lÃ¡.}
+{116}{}{Ela nÃ£o vai pagar vocÃª. Mas estou aqui para lhe oferecer um novo negÃ³cio: vocÃª e seus amigos se afastam daqui agora, e vocÃªs conseguem manter suas vidas.}
 {117}{}{Tudo bem, eu dei uma chance. Tchau.}
-{120}{}{Esta é uma ótima idéia. Vamos preparar as coisas.}
+{120}{}{Esta Ã© uma Ã³tima idÃ©ia. Vamos preparar as coisas.}
 {200}{}{Hein?}
-{201}{}{Este é o nosso gramado.}
-{202}{}{Você está agachado aqui também?}
+{201}{}{Este Ã© o nosso gramado.}
+{202}{}{VocÃª estÃ¡ agachado aqui tambÃ©m?}
 {203}{}{Tem alguma coisa para comer?}
-{300}{}{Você vê um homem em roupas de trabalho.}
-{301}{}{Você vê uma mulher em roupas de trabalho.}
-{310}{}{Hey, obrigado por ajudar a definir isso para nós. Nós vamos trabalhar duro.}
-{311}{}{Você é melhor. Certifique-se de que as crianças ficam sem problemas também.}
-{312}{}{Nós vamos fazer o nosso melhor.}
+{300}{}{VocÃª vÃª um homem em roupas de trabalho.}
+{301}{}{VocÃª vÃª uma mulher em roupas de trabalho.}
+{310}{}{Hey, obrigado por ajudar a definir isso para nÃ³s. NÃ³s vamos trabalhar duro.}
+{311}{}{VocÃª Ã© melhor. Certifique-se de que as crianÃ§as ficam sem problemas tambÃ©m.}
+{312}{}{NÃ³s vamos fazer o nosso melhor.}
 {313}{}{Adeus.}
-{350}{}{Qualquer lugar exceto aqui. O Den é um lugar grande, tenho certeza que você pode encontrar outro lugar para bater. Vamos, você realmente quer que as crianças vivam nas ruas?}
-{351}{}{Nah, você está certo, isso não é legal para as crianças. Tudo bem, nós vamos arrumar as coisas e sair. Este lugar tinha um vazamento de telhado de qualquer maneira.}
+{350}{}{Qualquer lugar exceto aqui. O Den Ã© um lugar grande, tenho certeza que vocÃª pode encontrar outro lugar para bater. Vamos, vocÃª realmente quer que as crianÃ§as vivam nas ruas?}
+{351}{}{Nah, vocÃª estÃ¡ certo, isso nÃ£o Ã© legal para as crianÃ§as. Tudo bem, nÃ³s vamos arrumar as coisas e sair. Este lugar tinha um vazamento de telhado de qualquer maneira.}
 {352}{}{Obrigado. Isto vai significar muito para eles. Cuide-se.}
-{353}{}{Nah, esse não é o nosso problema. Se a mãe pensa que é tão importante tirar essas crianças das ruas, então ela deve parar de ser mesquinha com seu dinheiro e compartilhar a
-  riqueza. Sim, eu mudei de ideia, estamos ficando até ela pagar. Agora essa conversa acabou, então é melhor você sair, se você souber o que é bom para você.}
-{360}{}{Tudo bem. Não há necessidade para isso sair do controle. Eu vou deixar você sozinho.}
-{361}{}{Hora de limpar esse lugar então. (Ataque)}
+{353}{}{Nah, esse nÃ£o Ã© o nosso problema. Se a mÃ£e pensa que Ã© tÃ£o importante tirar essas crianÃ§as das ruas, entÃ£o ela deve parar de ser mesquinha com seu dinheiro e compartilhar a
+Â  riqueza. Sim, eu mudei de ideia, estamos ficando atÃ© ela pagar. Agora essa conversa acabou, entÃ£o Ã© melhor vocÃª sair, se vocÃª souber o que Ã© bom para vocÃª.}
+{360}{}{Tudo bem. NÃ£o hÃ¡ necessidade para isso sair do controle. Eu vou deixar vocÃª sozinho.}
+{361}{}{Hora de limpar esse lugar entÃ£o. (Ataque)}
 {400}{}{Obrigado novamente!}
-{401}{}{Nós vamos trabalhar duro.}
-{402}{}{Obrigado por ser tão legal sobre as coisas.}
-{403}{}{Nós não vamos deixar você para baixo.}
-{500}{}{Nós vamos recolher nossas coisas e sair daqui logo.}
-{600}{}{Você já limpou todos os ocupantes.}
+{401}{}{NÃ³s vamos trabalhar duro.}
+{402}{}{Obrigado por ser tÃ£o legal sobre as coisas.}
+{403}{}{NÃ³s nÃ£o vamos deixar vocÃª para baixo.}
+{500}{}{NÃ³s vamos recolher nossas coisas e sair daqui logo.}
+{600}{}{VocÃª jÃ¡ limpou todos os ocupantes.}

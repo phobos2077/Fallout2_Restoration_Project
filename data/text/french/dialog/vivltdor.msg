@@ -1,16 +1,16 @@
 {100}{}{Tu vois une porte d'Abri typique.}
-{101}{}{C'est une porte d'Abri ordinaire. On dirait que les couplages électriques sont bloqués.}
+{101}{}{C'est une porte d'Abri ordinaire. On dirait que les couplages Ã©lectriques sont bloquÃ©s.}
 {102}{}{Porte pas bouger.}
-{103}{}{Cette porte est bloquée. Il faudrait vraiment être costaud pour l'ouvrir.}
+{103}{}{Cette porte est bloquÃ©e. Il faudrait vraiment Ãªtre costaud pour l'ouvrir.}
 {104}{}{<Aargnnn> <Hmff> <Hmff>}
-{105}{}{Même avec la pince à levier, t'es pas assez costaud pour forcer la porte.}
+{105}{}{MÃªme avec la pince Ã  levier, t'es pas assez costaud pour forcer la porte.}
 {106}{}{<Aargnnnn>}
-{107}{}{Grâce la pince à levier, tu parviens à forcer la porte.}
+{107}{}{GrÃ¢ce la pince Ã  levier, tu parviens Ã  forcer la porte.}
 {108}{}{<Aargnnnn>}
-{109}{}{Tu forces la porte, rien qu'à la force de tes bras.}
-{110}{}{Ouuah. Ca n'a même pas fait une égratignure sur la porte.}
+{109}{}{Tu forces la porte, rien qu'Ã  la force de tes bras.}
+{110}{}{Ouuah. Ca n'a mÃªme pas fait une Ã©gratignure sur la porte.}
 {111}{}{BOOM pas bobo porte}
-{112}{}{La porte est coincée, pas fermée à clé.}
-{113}{}{Porte coinci pas fermiàcli.}
-{114}{}{La porte ne veut pas se fermer. Elle est coincée.}
+{112}{}{La porte est coincÃ©e, pas fermÃ©e Ã  clÃ©.}
+{113}{}{Porte coinci pas fermiÃ cli.}
+{114}{}{La porte ne veut pas se fermer. Elle est coincÃ©e.}
 {115}{}{Porte pas bouger.}

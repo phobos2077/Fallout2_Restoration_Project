@@ -1,159 +1,159 @@
 {100}{}{Lydia.}
-{101}{}{Ez a barna hajú n? katonai terepruhát hord. Úgy t?nik, ? a csapos.}
+{101}{}{Ez a barna hajÃº n? katonai terepruhÃ¡t hord. Ãšgy t?nik, ? a csapos.}
 {102}{}{Lydia.}
-{103}{}{Ez a barna hajú n? katonai terepruhát hord. Úgy t?nik, ? a csapos.}
-{104}{}{Üdvözöllek! Egy italt, Kiválasztott?}
-{105}{}{Üdvözöllek, Kiválasztott! Kérlek, foglalj helyet a bárban!}
-{106}{}{Kérlek, foglalj helyet, pihenj egy kicsit!}
-{107}{}{? a Kiválasztott !!!! Senki sem állhat ellen a Fallout 2 H?SÉNEK!}
-{108}{}{Jó napot, Kapitány.}
-{109}{}{Menedékváros mindenek felett, Kapitány.}
-{110}{}{Jó napot, Polgártárs!}
-{111}{}{Menedékváros mindenek felett, Polgártárs.}
-{112}{}{Egy mutáns! ?rség! ?rség!!!}
-{113}{}{Egy ghoul! ?rség! ?rség!!!}
-{114}{}{Zárva vagyunk. Gyere vissza reggel!}
-{115}{}{Sajnálom, kés?n jöttél. Gyere vissza holnap!}
-{116}{}{Zárva vagyunk. Amint befejeztem a leltározást, lehúzom a rolót.}
-{117}{}{Hé, Kiválasztott! Épp a kalandjaidról beszélgettünk... hozhatok neked egy italt?}
+{103}{}{Ez a barna hajÃº n? katonai terepruhÃ¡t hord. Ãšgy t?nik, ? a csapos.}
+{104}{}{ÃœdvÃ¶zÃ¶llek! Egy italt, KivÃ¡lasztott?}
+{105}{}{ÃœdvÃ¶zÃ¶llek, KivÃ¡lasztott! KÃ©rlek, foglalj helyet a bÃ¡rban!}
+{106}{}{KÃ©rlek, foglalj helyet, pihenj egy kicsit!}
+{107}{}{? a KivÃ¡lasztott !!!! Senki sem Ã¡llhat ellen a Fallout 2 H?SÃ‰NEK!}
+{108}{}{JÃ³ napot, KapitÃ¡ny.}
+{109}{}{MenedÃ©kvÃ¡ros mindenek felett, KapitÃ¡ny.}
+{110}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{111}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs.}
+{112}{}{Egy mutÃ¡ns! ?rsÃ©g! ?rsÃ©g!!!}
+{113}{}{Egy ghoul! ?rsÃ©g! ?rsÃ©g!!!}
+{114}{}{ZÃ¡rva vagyunk. Gyere vissza reggel!}
+{115}{}{SajnÃ¡lom, kÃ©s?n jÃ¶ttÃ©l. Gyere vissza holnap!}
+{116}{}{ZÃ¡rva vagyunk. Amint befejeztem a leltÃ¡rozÃ¡st, lehÃºzom a rolÃ³t.}
+{117}{}{HÃ©, KivÃ¡lasztott! Ã‰pp a kalandjaidrÃ³l beszÃ©lgettÃ¼nk... hozhatok neked egy italt?}
 {118}{}{Humma..aa... bambinaa... humba aa.}
 {119}{}{[Elcsoszogsz]}
 {120}{}{Mit tud adni?}
-{121}{}{Nagy buli lehetett. Kérdezhetnék még valamit?}
-{122}{}{Meghoztam a... szállítmányt. Tudod, amit megbeszéltünk.}
-{123}{}{Kösz, egyel?re elleszek magam is.}
-{124}{}{Aha... persze. Hmmm... még egyszer kösz, hogy megmentetted a világot, meg minden.}
+{121}{}{Nagy buli lehetett. KÃ©rdezhetnÃ©k mÃ©g valamit?}
+{122}{}{Meghoztam a... szÃ¡llÃ­tmÃ¡nyt. Tudod, amit megbeszÃ©ltÃ¼nk.}
+{123}{}{KÃ¶sz, egyel?re elleszek magam is.}
+{124}{}{Aha... persze. Hmmm... mÃ©g egyszer kÃ¶sz, hogy megmentetted a vilÃ¡got, meg minden.}
 {125}{}{Humma... aa... hubba... aa... bambaa... djoo ez a aaa... pi aaa...}
 {126}{}{[Elcsoszogsz]}
-{127}{}{Nézd! Lehet, hogy megmentetted a világot meg minden, de pocsék a hangod. Muszáj neked énekelned?}
+{127}{}{NÃ©zd! Lehet, hogy megmentetted a vilÃ¡got meg minden, de pocsÃ©k a hangod. MuszÃ¡j neked Ã©nekelned?}
 {128}{}{Hummaaa...da... bumbaa...djoo... ez a piiiaaa...}
 {129}{}{[Elcsoszogsz]}
-{130}{}{Nézd, itt van még egy ital, de most már t?nj el, oké? Remélem, amíg iszol, abbahagyod az éneklést.}
-{131}{}{Köszi... keee... eee...}
+{130}{}{NÃ©zd, itt van mÃ©g egy ital, de most mÃ¡r t?nj el, okÃ©? RemÃ©lem, amÃ­g iszol, abbahagyod az Ã©neklÃ©st.}
+{131}{}{KÃ¶szi... keee... eee...}
 {132}{}{[Elcsoszogsz]}
-{133}{}{Mit tehetek érted, Kapitány?}
-{134}{}{Mit tehetek érted, Polgártárs?}
-{135}{}{Igen? Segíthetek?}
-{136}{}{Te? Tee? Thee? Tehhhe...hukk .. thheee is úgy beszész, mint a több'ek, amikor meglátnak.}
+{133}{}{Mit tehetek Ã©rted, KapitÃ¡ny?}
+{134}{}{Mit tehetek Ã©rted, PolgÃ¡rtÃ¡rs?}
+{135}{}{Igen? SegÃ­thetek?}
+{136}{}{Te? Tee? Thee? Tehhhe...hukk .. thheee is Ãºgy beszÃ©sz, mint a tÃ¶bb'ek, amikor meglÃ¡tnak.}
 {137}{}{[Elcsoszogsz]}
 {138}{}{Mit tud adni?}
-{139}{}{Nagy buli lehetett. Kérdezhetnék még valamit?}
-{140}{}{Meghoztam a... szállítmányt. Tudod, amit megbeszéltünk.}
-{141}{}{Kösz, egyel?re elleszek magam is.}
-{142}{}{Ez volt a legelb?völ?bb dolog, amit valaha is hallottam. Várj egy kicsit, szólok az ?röknek... hadd hallják ?k is.}
-{143}{}{Túl? Thúl. Túúúhhhl. Túúúhhhl szhekszi a ruhháimhozz}
+{139}{}{Nagy buli lehetett. KÃ©rdezhetnÃ©k mÃ©g valamit?}
+{140}{}{Meghoztam a... szÃ¡llÃ­tmÃ¡nyt. Tudod, amit megbeszÃ©ltÃ¼nk.}
+{141}{}{KÃ¶sz, egyel?re elleszek magam is.}
+{142}{}{Ez volt a legelb?vÃ¶l?bb dolog, amit valaha is hallottam. VÃ¡rj egy kicsit, szÃ³lok az ?rÃ¶knek... hadd halljÃ¡k ?k is.}
+{143}{}{TÃºl? ThÃºl. TÃºÃºÃºhhhl. TÃºÃºÃºhhhl szhekszi a ruhhÃ¡imhozz}
 {144}{}{[Elcsoszogsz]}
-{145}{}{Van szintetikus sörünk és lik?rünk, úgymint vodka-H és W, valamint tekila származékok, például W2. Friss vízzel is szolgálhatok, de kapható brahmin-tej is. A sör és lik?r tíz dollár, a víz és a tej három.}
-{146}{}{Mivel szolgálhatok?}
+{145}{}{Van szintetikus sÃ¶rÃ¼nk Ã©s lik?rÃ¼nk, Ãºgymint vodka-H Ã©s W, valamint tekila szÃ¡rmazÃ©kok, pÃ©ldÃ¡ul W2. Friss vÃ­zzel is szolgÃ¡lhatok, de kaphatÃ³ brahmin-tej is. A sÃ¶r Ã©s lik?r tÃ­z dollÃ¡r, a vÃ­z Ã©s a tej hÃ¡rom.}
+{146}{}{Mivel szolgÃ¡lhatok?}
 {147}{}{Isten ments, ez borzalmas volt. Igazi alkoholotok nincs?}
-{148}{}{Szintetikus sört kérek.}
-{149}{}{Egy kupica Vodka-H most jól esne.}
-{150}{}{A tekila W2-b?l kérek.}
-{151}{}{Csak egy pohár vizet szeretnék.}
-{152}{}{Mulassunk! Brahmin-tejet ide, de ízibe!}
-{153}{}{Inkább némi információra lenne szükségem.}
-{154}{}{Ha meglesz a pénz, visszajövök.}
-{155}{}{Kösz, nem, mennem kell.}
-{156}{}{Tejet?! Bátor ember. Sajnos ezzel pillanatnyilag nem szolgálhatok, persze ha van id?d és megvárod, amíg megfejek egy állatot...}
-{157}{}{Megvárom, id?milliomos vagyok. A tej élet, er?, egészség... és még a légutakat is tisztíccsa. Szóval, ide vele!}
-{158}{}{Inkább kipróbálok valami mást.}
-{159}{}{Akkor hagyjuk! Viszont néhány információra lenne szükségem.}
-{160}{}{Most mennem kell. Viszlát!}
-{161}{}{Tessék. Valami mást?}
+{148}{}{Szintetikus sÃ¶rt kÃ©rek.}
+{149}{}{Egy kupica Vodka-H most jÃ³l esne.}
+{150}{}{A tekila W2-b?l kÃ©rek.}
+{151}{}{Csak egy pohÃ¡r vizet szeretnÃ©k.}
+{152}{}{Mulassunk! Brahmin-tejet ide, de Ã­zibe!}
+{153}{}{InkÃ¡bb nÃ©mi informÃ¡ciÃ³ra lenne szÃ¼ksÃ©gem.}
+{154}{}{Ha meglesz a pÃ©nz, visszajÃ¶vÃ¶k.}
+{155}{}{KÃ¶sz, nem, mennem kell.}
+{156}{}{Tejet?! BÃ¡tor ember. Sajnos ezzel pillanatnyilag nem szolgÃ¡lhatok, persze ha van id?d Ã©s megvÃ¡rod, amÃ­g megfejek egy Ã¡llatot...}
+{157}{}{MegvÃ¡rom, id?milliomos vagyok. A tej Ã©let, er?, egÃ©szsÃ©g... Ã©s mÃ©g a lÃ©gutakat is tisztÃ­ccsa. SzÃ³val, ide vele!}
+{158}{}{InkÃ¡bb kiprÃ³bÃ¡lok valami mÃ¡st.}
+{159}{}{Akkor hagyjuk! Viszont nÃ©hÃ¡ny informÃ¡ciÃ³ra lenne szÃ¼ksÃ©gem.}
+{160}{}{Most mennem kell. ViszlÃ¡t!}
+{161}{}{TessÃ©k. Valami mÃ¡st?}
 {162}{}{Isten ments, ez borzalmas volt. Igazi alkoholotok nincs?}
-{163}{}{Szintetikus sört kérek.}
-{164}{}{Egy kupica Vodka-H most jól esne.}
-{165}{}{A tekila W2-b?l kérek.}
-{166}{}{Most inkább csak vizet innék.}
-{167}{}{Mulassunk! Brahmin-tejet ide, de ízibe!}
-{168}{}{Inkább némi információra lenne szükségem.}
-{169}{}{Ha meglesz a pénz, visszajövök.}
-{170}{}{Kösz, nem, mennem kell.}
-{171}{}{Éspedig?}
-{172}{}{Ki irányítja Menedékvárost?}
-{173}{}{Hol van a Menedék?}
-{174}{}{Mit tudsz a helyi rabszolgaságról?}
-{175}{}{Milyen Menedékváros kapcsolata a külvilággal?}
-{176}{}{Innék valamit. Mit ajánlasz?}
-{177}{}{Meghoztam a... szállítmányt. Tudod, amit megbeszéltünk.}
-{178}{}{Értem. Viszlát!}
-{179}{}{Hát, Lynette Els? Polgár, ki más,... de te ugye Polgár vagy? Ezt azért illene tudni.}
-{180}{}{Lynette Els? Polgár. Ha esetleg beszélni szeretnél vele, a Tanács épületében találod, innen északra.}
-{181}{}{Lenne még pár kérdésem.}
-{182}{}{Igen, ez a szándékom. Akkor megyek is, viszlát!}
-{183}{}{Innen keletre, egy nagy lyuk a hegy oldalában... de nem azt mondtad, hogy Polgár vagy? Ezt akkor tudnod kéne.}
-{184}{}{Innen keletre, egy nagy lyuk a hegy oldalában. El sem lehet téveszteni. Azért jobb ha tudod,  oda csak Polgárok léphetnek be.}
-{185}{}{Lenne még pár kérdésem.}
-{186}{}{De hát én jogosult Polgár vagyok.}
-{187}{}{Csak tájékozódtam. Már megyek is.}
-{188}{}{Kösz, viszlát!}
-{189}{}{Hát persze, hogy az vagy... ahogy a kedves vendég óhajtja. Én a helyedben azért kétszer is meggondolnám, kinek mondom azt, hogy "Polgártárs". Esetleg valaki felismeri azokat a lopott papírokat, amit attól a vérszívó Skeev-tól vettél. Csak egy baráti jó tanács. Húzd meg magad, rendben?}
-{190}{}{Persze, kösz Lydia. Viszont szükségem lenne még néhány információra.}
-{191}{}{Most mennem kell, viszlát!}
-{192}{}{Nézd! Az els? dolog, amit meg kell tanulnod, hogy nem hagyhatja el a szádat a "rabszolga" szó, mert komoly z?rbe keveredhetsz. Használd a "szolgák" kifejezést, rendben? Csak egy baráti jó tanács.}
-{193}{}{Értem, észben tartom. Kérdeznék még valamit.}
-{194}{}{Kösz, mennem kell.}
-{195}{}{Nem sokat tudunk a kinti világról. A legtöbb információt a keresked?k szolgáltatják, akik a "Nagy Kört" járják. Az egyetlen hely, amit ezen a keresked? úton kívül ismerek, az Gekkó.}
-{196}{}{Mesélj nekem Broken Hillsr?l.}
-{197}{}{Mesélj New Renóról!}
-{198}{}{Mesélj Reddingr?l!}
-{199}{}{Mesélj Gekkóról!}
-{200}{}{Lenne még pár kérdésem.}
-{201}{}{Köszönöm az információkat.}
-{202}{}{Broken Hills egy bányász kommuna, hasonlít Reddinghez. Annyit tudok róla, hogy messze délen van és az uránszállítmányaink nagy részét onnan kapjuk.}
-{203}{}{Mesélj New Renóról!}
-{204}{}{Mesélj Reddingr?l!}
-{205}{}{Mesélj Gekkóról!}
-{206}{}{Lenne még pár kérdésem.}
-{207}{}{Köszönöm az információkat.}
-{208}{}{Dél-nyugatra találod. Egymásnak ellentmondó véleményeket hallottam Renóról. Néhány keresked?, különösen a rabszolga-keresked?k, imádják a helyet, mások meg nagy ívben kerülik. Rengeteg a csillogás és a balhé is arrafelé, ahogy hallom.}
-{209}{}{Mesélj nekem Broken Hillsr?l.}
-{210}{}{Mesélj Reddingr?l!}
-{211}{}{Mesélj Gekkóról!}
-{212}{}{Lenne még pár kérdésem.}
-{213}{}{Köszönöm az információkat.}
-{214}{}{Az egy bányaváros messze nyugaton. Az utóbbi id?ben nem sok karaván érkezett onnan és ez a fejeseket egy kicsit aggasztja. F?ként McClure F?tanácsost.}
-{215}{}{Mesélj nekem Broken Hillsr?l.}
-{216}{}{Mesélj New Renóról!}
-{217}{}{Mesélj Gekkóról!}
-{218}{}{Lenne még pár kérdésem.}
-{219}{}{Köszönöm az információkat.}
-{220}{}{Az egy ghoul város, kevesebb mint egy napi járásra észak-kelet felé. Azt beszélik, hogy minden utazót foglyul ejtenek, aki belép a területükre. Jobb messzire elkerülni azt a helyet.}
-{221}{}{Mesélj nekem Broken Hillsr?l.}
-{222}{}{Mesélj New Renóról!}
-{223}{}{Mesélj Reddingr?l!}
-{224}{}{Lenne még pár kérdésem.}
-{225}{}{Köszönöm az információkat.}
-{226}{}{Igazi?! Minek az? Nagyon üt?s anyag ez, hidd el nekem! Egyszer, az egyik kedves vendég annyira berúgott, állat módjára úgy leittasodott, hogy...}
-{227}{}{Nem ezzel van a baj. Nem is tudom, a színe... a zamata... az illata. Vagy te még sose ittál igazi alkoholt?}
-{228}{}{Igazad van, nincs ezekkel semmi baj. Kérdeznék még valamit.}
+{163}{}{Szintetikus sÃ¶rt kÃ©rek.}
+{164}{}{Egy kupica Vodka-H most jÃ³l esne.}
+{165}{}{A tekila W2-b?l kÃ©rek.}
+{166}{}{Most inkÃ¡bb csak vizet innÃ©k.}
+{167}{}{Mulassunk! Brahmin-tejet ide, de Ã­zibe!}
+{168}{}{InkÃ¡bb nÃ©mi informÃ¡ciÃ³ra lenne szÃ¼ksÃ©gem.}
+{169}{}{Ha meglesz a pÃ©nz, visszajÃ¶vÃ¶k.}
+{170}{}{KÃ¶sz, nem, mennem kell.}
+{171}{}{Ã‰spedig?}
+{172}{}{Ki irÃ¡nyÃ­tja MenedÃ©kvÃ¡rost?}
+{173}{}{Hol van a MenedÃ©k?}
+{174}{}{Mit tudsz a helyi rabszolgasÃ¡grÃ³l?}
+{175}{}{Milyen MenedÃ©kvÃ¡ros kapcsolata a kÃ¼lvilÃ¡ggal?}
+{176}{}{InnÃ©k valamit. Mit ajÃ¡nlasz?}
+{177}{}{Meghoztam a... szÃ¡llÃ­tmÃ¡nyt. Tudod, amit megbeszÃ©ltÃ¼nk.}
+{178}{}{Ã‰rtem. ViszlÃ¡t!}
+{179}{}{HÃ¡t, Lynette Els? PolgÃ¡r, ki mÃ¡s,... de te ugye PolgÃ¡r vagy? Ezt azÃ©rt illene tudni.}
+{180}{}{Lynette Els? PolgÃ¡r. Ha esetleg beszÃ©lni szeretnÃ©l vele, a TanÃ¡cs Ã©pÃ¼letÃ©ben talÃ¡lod, innen Ã©szakra.}
+{181}{}{Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{182}{}{Igen, ez a szÃ¡ndÃ©kom. Akkor megyek is, viszlÃ¡t!}
+{183}{}{Innen keletre, egy nagy lyuk a hegy oldalÃ¡ban... de nem azt mondtad, hogy PolgÃ¡r vagy? Ezt akkor tudnod kÃ©ne.}
+{184}{}{Innen keletre, egy nagy lyuk a hegy oldalÃ¡ban. El sem lehet tÃ©veszteni. AzÃ©rt jobb ha tudod,  oda csak PolgÃ¡rok lÃ©phetnek be.}
+{185}{}{Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{186}{}{De hÃ¡t Ã©n jogosult PolgÃ¡r vagyok.}
+{187}{}{Csak tÃ¡jÃ©kozÃ³dtam. MÃ¡r megyek is.}
+{188}{}{KÃ¶sz, viszlÃ¡t!}
+{189}{}{HÃ¡t persze, hogy az vagy... ahogy a kedves vendÃ©g Ã³hajtja. Ã‰n a helyedben azÃ©rt kÃ©tszer is meggondolnÃ¡m, kinek mondom azt, hogy "PolgÃ¡rtÃ¡rs". Esetleg valaki felismeri azokat a lopott papÃ­rokat, amit attÃ³l a vÃ©rszÃ­vÃ³ Skeev-tÃ³l vettÃ©l. Csak egy barÃ¡ti jÃ³ tanÃ¡cs. HÃºzd meg magad, rendben?}
+{190}{}{Persze, kÃ¶sz Lydia. Viszont szÃ¼ksÃ©gem lenne mÃ©g nÃ©hÃ¡ny informÃ¡ciÃ³ra.}
+{191}{}{Most mennem kell, viszlÃ¡t!}
+{192}{}{NÃ©zd! Az els? dolog, amit meg kell tanulnod, hogy nem hagyhatja el a szÃ¡dat a "rabszolga" szÃ³, mert komoly z?rbe keveredhetsz. HasznÃ¡ld a "szolgÃ¡k" kifejezÃ©st, rendben? Csak egy barÃ¡ti jÃ³ tanÃ¡cs.}
+{193}{}{Ã‰rtem, Ã©szben tartom. KÃ©rdeznÃ©k mÃ©g valamit.}
+{194}{}{KÃ¶sz, mennem kell.}
+{195}{}{Nem sokat tudunk a kinti vilÃ¡grÃ³l. A legtÃ¶bb informÃ¡ciÃ³t a keresked?k szolgÃ¡ltatjÃ¡k, akik a "Nagy KÃ¶rt" jÃ¡rjÃ¡k. Az egyetlen hely, amit ezen a keresked? Ãºton kÃ­vÃ¼l ismerek, az GekkÃ³.}
+{196}{}{MesÃ©lj nekem Broken Hillsr?l.}
+{197}{}{MesÃ©lj New RenÃ³rÃ³l!}
+{198}{}{MesÃ©lj Reddingr?l!}
+{199}{}{MesÃ©lj GekkÃ³rÃ³l!}
+{200}{}{Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{201}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{202}{}{Broken Hills egy bÃ¡nyÃ¡sz kommuna, hasonlÃ­t Reddinghez. Annyit tudok rÃ³la, hogy messze dÃ©len van Ã©s az urÃ¡nszÃ¡llÃ­tmÃ¡nyaink nagy rÃ©szÃ©t onnan kapjuk.}
+{203}{}{MesÃ©lj New RenÃ³rÃ³l!}
+{204}{}{MesÃ©lj Reddingr?l!}
+{205}{}{MesÃ©lj GekkÃ³rÃ³l!}
+{206}{}{Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{207}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{208}{}{DÃ©l-nyugatra talÃ¡lod. EgymÃ¡snak ellentmondÃ³ vÃ©lemÃ©nyeket hallottam RenÃ³rÃ³l. NÃ©hÃ¡ny keresked?, kÃ¼lÃ¶nÃ¶sen a rabszolga-keresked?k, imÃ¡djÃ¡k a helyet, mÃ¡sok meg nagy Ã­vben kerÃ¼lik. Rengeteg a csillogÃ¡s Ã©s a balhÃ© is arrafelÃ©, ahogy hallom.}
+{209}{}{MesÃ©lj nekem Broken Hillsr?l.}
+{210}{}{MesÃ©lj Reddingr?l!}
+{211}{}{MesÃ©lj GekkÃ³rÃ³l!}
+{212}{}{Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{213}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{214}{}{Az egy bÃ¡nyavÃ¡ros messze nyugaton. Az utÃ³bbi id?ben nem sok karavÃ¡n Ã©rkezett onnan Ã©s ez a fejeseket egy kicsit aggasztja. F?kÃ©nt McClure F?tanÃ¡csost.}
+{215}{}{MesÃ©lj nekem Broken Hillsr?l.}
+{216}{}{MesÃ©lj New RenÃ³rÃ³l!}
+{217}{}{MesÃ©lj GekkÃ³rÃ³l!}
+{218}{}{Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{219}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{220}{}{Az egy ghoul vÃ¡ros, kevesebb mint egy napi jÃ¡rÃ¡sra Ã©szak-kelet felÃ©. Azt beszÃ©lik, hogy minden utazÃ³t foglyul ejtenek, aki belÃ©p a terÃ¼letÃ¼kre. Jobb messzire elkerÃ¼lni azt a helyet.}
+{221}{}{MesÃ©lj nekem Broken Hillsr?l.}
+{222}{}{MesÃ©lj New RenÃ³rÃ³l!}
+{223}{}{MesÃ©lj Reddingr?l!}
+{224}{}{Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{225}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{226}{}{Igazi?! Minek az? Nagyon Ã¼t?s anyag ez, hidd el nekem! Egyszer, az egyik kedves vendÃ©g annyira berÃºgott, Ã¡llat mÃ³djÃ¡ra Ãºgy leittasodott, hogy...}
+{227}{}{Nem ezzel van a baj. Nem is tudom, a szÃ­ne... a zamata... az illata. Vagy te mÃ©g sose ittÃ¡l igazi alkoholt?}
+{228}{}{Igazad van, nincs ezekkel semmi baj. KÃ©rdeznÃ©k mÃ©g valamit.}
 {229}{}{Ma nem.}
-{230}{}{De... egyszer. Ismertem egy keresked?t, akinek volt egy üveg Maddog 30/30-a és meghívott egy pohárkára. Keser? cucc, utána nem éreztem a nyelvemet, de... üdít?en más volt.}
-{231}{}{Ugye? És mi történt azután?}
-{232}{}{Nagy buli lehetett. Kérdezhetnék még valamit?}
-{233}{}{Értem, most mennem kell.}
-{234}{}{Nem nehéz kitalálni, berúgtunk, mint az albán szamár. Tivornyázás közben persze akadt néhány segít?kész száj is, akikkel közösen benyeltük a készletet. Bár a keresked? aranyárban mérte az italt, tolongtak érte a cimborák.}
+{230}{}{De... egyszer. Ismertem egy keresked?t, akinek volt egy Ã¼veg Maddog 30/30-a Ã©s meghÃ­vott egy pohÃ¡rkÃ¡ra. Keser? cucc, utÃ¡na nem Ã©reztem a nyelvemet, de... Ã¼dÃ­t?en mÃ¡s volt.}
+{231}{}{Ugye? Ã‰s mi tÃ¶rtÃ©nt azutÃ¡n?}
+{232}{}{Nagy buli lehetett. KÃ©rdezhetnÃ©k mÃ©g valamit?}
+{233}{}{Ã‰rtem, most mennem kell.}
+{234}{}{Nem nehÃ©z kitalÃ¡lni, berÃºgtunk, mint az albÃ¡n szamÃ¡r. TivornyÃ¡zÃ¡s kÃ¶zben persze akadt nÃ©hÃ¡ny segÃ­t?kÃ©sz szÃ¡j is, akikkel kÃ¶zÃ¶sen benyeltÃ¼k a kÃ©szletet. BÃ¡r a keresked? aranyÃ¡rban mÃ©rte az italt, tolongtak Ã©rte a cimborÃ¡k.}
 {235}{}{I'll bet. You know, I could probably get some more of the real stuff, easy. I've been traveling the wastes a lot, and getting a hold of alcohol is no big deal.}
-{236}{}{Nagy buli lehetett. Kérdezhetnék még valamit?}
-{237}{}{Értem, most mennem kell.}
-{238}{}{Sajnálom, de Menedékvárosban kizárólag mesterséges alkoholt szolgálhatunk fel... [körbepillant, majd közelebb hajol]... persze, ha lenne egy ügyes ember, aki bejuttatna a kapun egy szállítmány eredetit...}
-{239}{}{Ügyes?! Err?l vagyok híres... többek között. Ez utóbbit azért ne nagyon firtassuk! Egész pontosan, mire is lenne szükséged?}
-{240}{}{Mondjuk tíz üveg jó min?ség? égetett szeszre és tíz üveg sörre. De ne az a radioaktív lötty legyen, ami Gekkóból jön, csak a régi, hagyományos, jó öreg "pia" érdekel. Mindez maximális titoktartás mellett. Rendben?}
-{241}{}{Ennyi épp van nálam. Tessék.}
-{242}{}{Nem lesz gond, leszállítom az árut és köztünk marad az ügy. De kérdeznék még valamit.}
-{243}{}{Nem is tudom, még gondolkodom a dolgon. Viszlát!}
-{244}{}{Nagyszer?! Tessék a pénzed... pont a duplája annak, amennyit érnek. És ez a tranzakció meg se történt, rendben?}
-{245}{}{Természetesen. Egyébként kérdezhetek valamit?}
-{246}{}{Kösz, öröm veled üzletelni.}
-{247}{}{Szó sem lehet róla. Azok a pusztából származó készítmények illegálisak itt, Menedékvárosban. Még azt sem akarom tudni róluk, hogy léteznek. Adhatok valamit inni, Kapitány?}
-{248}{}{Nincs semmi rossz egy kis alkoholban. Persze az észlelésed ideiglenesen megsínyli a fogyasztásukat, de hát ugyanez történik, ha túl sok gyógyító port használsz.}
-{249}{}{Az bizony jól esne.}
-{250}{}{Felejtsd el, hogy megkérdeztem! Néhány információra lenne szükségem.}
-{251}{}{Értem. Mindenesetre kösz.}
-{252}{}{Mi csak legális, szintetikus italokat tartunk. Ha esetleg valami módon igazi alkohol kerülne Menedékvárosba, arról nekem nem kell tudnom.}
-{253}{}{Néhány információra lenne szükségem.}
-{254}{}{Értem. Mindenesetre kösz.}
-{255}{}{Értem... Nos, hmmm... vigyázz magadra, oké?}
-{256}{}{Köszi... keee... eee...}
+{236}{}{Nagy buli lehetett. KÃ©rdezhetnÃ©k mÃ©g valamit?}
+{237}{}{Ã‰rtem, most mennem kell.}
+{238}{}{SajnÃ¡lom, de MenedÃ©kvÃ¡rosban kizÃ¡rÃ³lag mestersÃ©ges alkoholt szolgÃ¡lhatunk fel... [kÃ¶rbepillant, majd kÃ¶zelebb hajol]... persze, ha lenne egy Ã¼gyes ember, aki bejuttatna a kapun egy szÃ¡llÃ­tmÃ¡ny eredetit...}
+{239}{}{Ãœgyes?! Err?l vagyok hÃ­res... tÃ¶bbek kÃ¶zÃ¶tt. Ez utÃ³bbit azÃ©rt ne nagyon firtassuk! EgÃ©sz pontosan, mire is lenne szÃ¼ksÃ©ged?}
+{240}{}{Mondjuk tÃ­z Ã¼veg jÃ³ min?sÃ©g? Ã©getett szeszre Ã©s tÃ­z Ã¼veg sÃ¶rre. De ne az a radioaktÃ­v lÃ¶tty legyen, ami GekkÃ³bÃ³l jÃ¶n, csak a rÃ©gi, hagyomÃ¡nyos, jÃ³ Ã¶reg "pia" Ã©rdekel. Mindez maximÃ¡lis titoktartÃ¡s mellett. Rendben?}
+{241}{}{Ennyi Ã©pp van nÃ¡lam. TessÃ©k.}
+{242}{}{Nem lesz gond, leszÃ¡llÃ­tom az Ã¡rut Ã©s kÃ¶ztÃ¼nk marad az Ã¼gy. De kÃ©rdeznÃ©k mÃ©g valamit.}
+{243}{}{Nem is tudom, mÃ©g gondolkodom a dolgon. ViszlÃ¡t!}
+{244}{}{Nagyszer?! TessÃ©k a pÃ©nzed... pont a duplÃ¡ja annak, amennyit Ã©rnek. Ã‰s ez a tranzakciÃ³ meg se tÃ¶rtÃ©nt, rendben?}
+{245}{}{TermÃ©szetesen. EgyÃ©bkÃ©nt kÃ©rdezhetek valamit?}
+{246}{}{KÃ¶sz, Ã¶rÃ¶m veled Ã¼zletelni.}
+{247}{}{SzÃ³ sem lehet rÃ³la. Azok a pusztÃ¡bÃ³l szÃ¡rmazÃ³ kÃ©szÃ­tmÃ©nyek illegÃ¡lisak itt, MenedÃ©kvÃ¡rosban. MÃ©g azt sem akarom tudni rÃ³luk, hogy lÃ©teznek. Adhatok valamit inni, KapitÃ¡ny?}
+{248}{}{Nincs semmi rossz egy kis alkoholban. Persze az Ã©szlelÃ©sed ideiglenesen megsÃ­nyli a fogyasztÃ¡sukat, de hÃ¡t ugyanez tÃ¶rtÃ©nik, ha tÃºl sok gyÃ³gyÃ­tÃ³ port hasznÃ¡lsz.}
+{249}{}{Az bizony jÃ³l esne.}
+{250}{}{Felejtsd el, hogy megkÃ©rdeztem! NÃ©hÃ¡ny informÃ¡ciÃ³ra lenne szÃ¼ksÃ©gem.}
+{251}{}{Ã‰rtem. Mindenesetre kÃ¶sz.}
+{252}{}{Mi csak legÃ¡lis, szintetikus italokat tartunk. Ha esetleg valami mÃ³don igazi alkohol kerÃ¼lne MenedÃ©kvÃ¡rosba, arrÃ³l nekem nem kell tudnom.}
+{253}{}{NÃ©hÃ¡ny informÃ¡ciÃ³ra lenne szÃ¼ksÃ©gem.}
+{254}{}{Ã‰rtem. Mindenesetre kÃ¶sz.}
+{255}{}{Ã‰rtem... Nos, hmmm... vigyÃ¡zz magadra, okÃ©?}
+{256}{}{KÃ¶szi... keee... eee...}
 {257}{}{[Elcsoszogsz]}
 {258}{}{Zzzzzzzz.}

@@ -1,85 +1,85 @@
-{100}{}{Egy nyúzott emberkét látsz kék ruhában.}
-{101}{}{Martin Frobishert, a 13-as Menedék lakóinak szószólóját látod.}
-{102}{}{Egy nyúzott embert látsz olyan ruhában, mint a tiéd.}
-{103}{}{Vigyél ki bennünket innen!}
-{104}{}{Kapcsold le az áramot az ajtókhoz.}
-{105}{}{Ha nincs áram, hazamehetünk!}
-{106}{}{Szabadíts ki bennünket innen!}
-{107}{}{Nincs áram, nincs er?tér!}
-{108}{}{Annyira örülünk.}
-{109}{}{Vigyél ki bennünket, miel?tt újabb teszteket csinálnak!}
+{100}{}{Egy nyÃºzott emberkÃ©t lÃ¡tsz kÃ©k ruhÃ¡ban.}
+{101}{}{Martin Frobishert, a 13-as MenedÃ©k lakÃ³inak szÃ³szÃ³lÃ³jÃ¡t lÃ¡tod.}
+{102}{}{Egy nyÃºzott embert lÃ¡tsz olyan ruhÃ¡ban, mint a tiÃ©d.}
+{103}{}{VigyÃ©l ki bennÃ¼nket innen!}
+{104}{}{Kapcsold le az Ã¡ramot az ajtÃ³khoz.}
+{105}{}{Ha nincs Ã¡ram, hazamehetÃ¼nk!}
+{106}{}{SzabadÃ­ts ki bennÃ¼nket innen!}
+{107}{}{Nincs Ã¡ram, nincs er?tÃ©r!}
+{108}{}{Annyira Ã¶rÃ¼lÃ¼nk.}
+{109}{}{VigyÃ©l ki bennÃ¼nket, miel?tt Ãºjabb teszteket csinÃ¡lnak!}
 {110}{}{Kik ezek az emberek?}
-{111}{}{Miért engem? Miért bennünket?}
+{111}{}{MiÃ©rt engem? MiÃ©rt bennÃ¼nket?}
 {112}{}{Ki kell jutnunk err?l a helyr?l.}
-{113}{}{Hé, te ott!}
+{113}{}{HÃ©, te ott!}
 {114}{}{Engem keresel?}
-{115}{}{Akarod tudni, mi történt?}
-{116}{}{Segítség!}
-{117}{}{Martin vagyok. Hé, itt vagyok!}
-{118}{}{Hé, én vagyok Frobisher. Itt ni!}
+{115}{}{Akarod tudni, mi tÃ¶rtÃ©nt?}
+{116}{}{SegÃ­tsÃ©g!}
+{117}{}{Martin vagyok. HÃ©, itt vagyok!}
+{118}{}{HÃ©, Ã©n vagyok Frobisher. Itt ni!}
 {119}{}{Itt vagyoook!}
-{120}{}{Hééééééé!}
+{120}{}{HÃ©Ã©Ã©Ã©Ã©Ã©Ã©!}
 {121}{}{Gyere ide!}
-{122}{}{Az összes kérdésedre tudom a választ.}
+{122}{}{Az Ã¶sszes kÃ©rdÃ©sedre tudom a vÃ¡laszt.}
 {123}{}{Martin vagyok.}
-{124}{}{Én tudom, mi történt.}
-{125}{}{Helló, Martin Frobisher vagyok. Az itteni emberek nevében beszélek. Hála Istennek, hogy itt vagy.}
-{126}{}{Mit szeretnél tudni?}
-{127}{}{Szép kis kompánia, csakúgy mint az enyém. Kik a te embereid?}
-{128}{}{Mit csinálnak itt az embereid?}
-{129}{}{Te vagy a Felvigyázó?}
-{130}{}{Hogy kerültek ide ezek az emberek?}
-{131}{}{Örülök, hogy találkoztunk Martin, de ki kell szabadítanom az embereimet. Viszlát!}
-{132}{}{Igen, reméltem hogy ezért jöttél. Ki kell szabadítanod minket!}
-{133}{}{Titeket? Úgy volt, hogy csak a törzsemet kell kiszabadítanom.}
-{134}{}{Természetesen! Nem hagyhatom, hogy mások is szenvedjenek ezen a helyen.}
+{124}{}{Ã‰n tudom, mi tÃ¶rtÃ©nt.}
+{125}{}{HellÃ³, Martin Frobisher vagyok. Az itteni emberek nevÃ©ben beszÃ©lek. HÃ¡la Istennek, hogy itt vagy.}
+{126}{}{Mit szeretnÃ©l tudni?}
+{127}{}{SzÃ©p kis kompÃ¡nia, csakÃºgy mint az enyÃ©m. Kik a te embereid?}
+{128}{}{Mit csinÃ¡lnak itt az embereid?}
+{129}{}{Te vagy a FelvigyÃ¡zÃ³?}
+{130}{}{Hogy kerÃ¼ltek ide ezek az emberek?}
+{131}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk Martin, de ki kell szabadÃ­tanom az embereimet. ViszlÃ¡t!}
+{132}{}{Igen, remÃ©ltem hogy ezÃ©rt jÃ¶ttÃ©l. Ki kell szabadÃ­tanod minket!}
+{133}{}{Titeket? Ãšgy volt, hogy csak a tÃ¶rzsemet kell kiszabadÃ­tanom.}
+{134}{}{TermÃ©szetesen! Nem hagyhatom, hogy mÃ¡sok is szenvedjenek ezen a helyen.}
 {135}{}{Mit is kerestek ti itt?}
-{136}{}{Kísérleti nyúlnak használnak bennünket, hogy egy halálos vírus ellenanyagát kitenyészthessék.}
-{137}{}{Milyen vírusról van szó?}
-{138}{}{Hát, ez nem hangzik valami jól. Hadd kérdezzek valami mást!}
-{139}{}{Szerencsém van. Most legalább érezhetitek a fájdalmat, amit az ?söm, a Menedéklakó érzett. Remélem, mindannyian megdöglötök. Viszlát!}
-{140}{}{F.E.V toxinnak hívják. Borzalmas dolgokat m?vel az emberrel, miel?tt megöli ?ket. Az egyetlen "jó" dolog az benne, hogy relatíve gyorsan öl, de a halál, amit okoz, nagyon rondán fest.}
-{141}{}{Ez elég undorító. Miért csinálnak ilyen teszteket?}
-{142}{}{Elrángattak bennünket a menedékünkb?l, hogy tesztalanyokat szerezzenek az ellenanyaghoz. Az Enklávén kívülr?l kellett nekik ember, és mi még "szennyezetlenek" vagyunk, szóval itt kötöttünk ki.}
-{143}{}{Elrángattak? Mégis hogyan, meg honnan?}
-{144}{}{Egyik reggel a menedék ajtaja elé jöttek. Valahogyan tudták a belép? kódot, szóval kinyitották a f?kaput és a páncélos alakulataik kiráncigáltak bennünket a gépmadarakhoz. Aztán megkezd?dtek a kísérletek.}
-{145}{}{Ez elég rossz lehetett. Hadd kérdezzek valami mást!}
-{146}{}{A menedékb?l? Melyikb?l?}
-{147}{}{A 13-as Menedékb?l, természetesen! Miért kérded?}
-{148}{}{Odamentem, amikor az ÉLET-et kerestem.}
-{149}{}{Odamentem az ÉLET-et keresni, hogy megmentsem az embereimet. De ti addigra már elmentetek, csak az ÉLET maradt.}
-{150}{}{Csak azért, mert kerestem. Hé, te vagy a Felvigyázó?}
-{151}{}{ÉLET-et? Volt vagy egy tucat bel?le. Egyet nyugodtan elvehetsz. Egyébként, jut eszembe, láttam amint egy katona felrakott az egyik gépmadárra egyet.}
-{152}{}{Láttad, amint felrakja? Nem tudod, hová vitték?}
+{136}{}{KÃ­sÃ©rleti nyÃºlnak hasznÃ¡lnak bennÃ¼nket, hogy egy halÃ¡los vÃ­rus ellenanyagÃ¡t kitenyÃ©szthessÃ©k.}
+{137}{}{Milyen vÃ­rusrÃ³l van szÃ³?}
+{138}{}{HÃ¡t, ez nem hangzik valami jÃ³l. Hadd kÃ©rdezzek valami mÃ¡st!}
+{139}{}{SzerencsÃ©m van. Most legalÃ¡bb Ã©rezhetitek a fÃ¡jdalmat, amit az ?sÃ¶m, a MenedÃ©klakÃ³ Ã©rzett. RemÃ©lem, mindannyian megdÃ¶glÃ¶tÃ¶k. ViszlÃ¡t!}
+{140}{}{F.E.V toxinnak hÃ­vjÃ¡k. Borzalmas dolgokat m?vel az emberrel, miel?tt megÃ¶li ?ket. Az egyetlen "jÃ³" dolog az benne, hogy relatÃ­ve gyorsan Ã¶l, de a halÃ¡l, amit okoz, nagyon rondÃ¡n fest.}
+{141}{}{Ez elÃ©g undorÃ­tÃ³. MiÃ©rt csinÃ¡lnak ilyen teszteket?}
+{142}{}{ElrÃ¡ngattak bennÃ¼nket a menedÃ©kÃ¼nkb?l, hogy tesztalanyokat szerezzenek az ellenanyaghoz. Az EnklÃ¡vÃ©n kÃ­vÃ¼lr?l kellett nekik ember, Ã©s mi mÃ©g "szennyezetlenek" vagyunk, szÃ³val itt kÃ¶tÃ¶ttÃ¼nk ki.}
+{143}{}{ElrÃ¡ngattak? MÃ©gis hogyan, meg honnan?}
+{144}{}{Egyik reggel a menedÃ©k ajtaja elÃ© jÃ¶ttek. Valahogyan tudtÃ¡k a belÃ©p? kÃ³dot, szÃ³val kinyitottÃ¡k a f?kaput Ã©s a pÃ¡ncÃ©los alakulataik kirÃ¡ncigÃ¡ltak bennÃ¼nket a gÃ©pmadarakhoz. AztÃ¡n megkezd?dtek a kÃ­sÃ©rletek.}
+{145}{}{Ez elÃ©g rossz lehetett. Hadd kÃ©rdezzek valami mÃ¡st!}
+{146}{}{A menedÃ©kb?l? Melyikb?l?}
+{147}{}{A 13-as MenedÃ©kb?l, termÃ©szetesen! MiÃ©rt kÃ©rded?}
+{148}{}{Odamentem, amikor az Ã‰LET-et kerestem.}
+{149}{}{Odamentem az Ã‰LET-et keresni, hogy megmentsem az embereimet. De ti addigra mÃ¡r elmentetek, csak az Ã‰LET maradt.}
+{150}{}{Csak azÃ©rt, mert kerestem. HÃ©, te vagy a FelvigyÃ¡zÃ³?}
+{151}{}{Ã‰LET-et? Volt vagy egy tucat bel?le. Egyet nyugodtan elvehetsz. EgyÃ©bkÃ©nt, jut eszembe, lÃ¡ttam amint egy katona felrakott az egyik gÃ©pmadÃ¡rra egyet.}
+{152}{}{LÃ¡ttad, amint felrakja? Nem tudod, hovÃ¡ vittÃ©k?}
 {153}{}{That's okay. I already helped myself to a GECK from our vault. Let me ask you something else.}
-{154}{}{Nem tudom, hová tették, de hallottam, hogy valahol az elválasztó szinten hagyják, egyel alattunk. Persze nem biztos...}
-{155}{}{Ez remek! Köszi. Most jobb, ha megyek.}
-{156}{}{Hm, értem. Hadd kérdezzek valami mást!}
-{157}{}{Várj! Ki kell hogy juttass bennünket err?l a helyr?l!}
+{154}{}{Nem tudom, hovÃ¡ tettÃ©k, de hallottam, hogy valahol az elvÃ¡lasztÃ³ szinten hagyjÃ¡k, egyel alattunk. Persze nem biztos...}
+{155}{}{Ez remek! KÃ¶szi. Most jobb, ha megyek.}
+{156}{}{Hm, Ã©rtem. Hadd kÃ©rdezzek valami mÃ¡st!}
+{157}{}{VÃ¡rj! Ki kell hogy juttass bennÃ¼nket err?l a helyr?l!}
 {158}{}{I plan to. I'm going downstairs to the power plant to shut the power off and free you. When the fields are down, run topside for the ship I've got there.}
-{159}{}{Mégis hogyan csináljam?}
-{160}{}{Jobban meg kellett volna gondolnotok, miel?tt szám?ztétek az ?sömet a menedékb?l. Remélem, itt fogtok megrohadni mindannyian!}
-{161}{}{Köszönöm. Sok szerencsét kívánok!}
-{162}{}{Viszlát és sok szerencsét!}
-{163}{}{Köszönöm, de hadd kérdezzek valami mást!}
-{164}{}{Úgy érzem, kelleni fog. Viszlát!}
+{159}{}{MÃ©gis hogyan csinÃ¡ljam?}
+{160}{}{Jobban meg kellett volna gondolnotok, miel?tt szÃ¡m?ztÃ©tek az ?sÃ¶met a menedÃ©kb?l. RemÃ©lem, itt fogtok megrohadni mindannyian!}
+{161}{}{KÃ¶szÃ¶nÃ¶m. Sok szerencsÃ©t kÃ­vÃ¡nok!}
+{162}{}{ViszlÃ¡t Ã©s sok szerencsÃ©t!}
+{163}{}{KÃ¶szÃ¶nÃ¶m, de hadd kÃ©rdezzek valami mÃ¡st!}
+{164}{}{Ãšgy Ã©rzem, kelleni fog. ViszlÃ¡t!}
 {165}{}{Ahhoz, hogy kikapcsold ezeket az er?tereket, ki kell iktatnod a f?reaktort.}
-{166}{}{Ezt mégis hogy a francba csináljam?}
-{167}{}{Hallgatóztam, és úgy tudom, hogy a f?reaktort egy nagy számítógép vezérli három szinttel lejjebb. Ha sikerül felrobbantanod, leáll az egész energiaellátás, és kiszabadulunk.}
-{168}{}{Jó ötlet. Használhatnám a robbanóanyagomat. Ha kiszabadultok, rohanjatok a tet?re a hajómhoz. Majd fedezlek benneteket a szabad elvonuláshoz.}
-{169}{}{Jó ötlet, de nem tudom, hogyan tudnám felrobbantani a reaktort. Nincs nálam robbanóanyag.}
-{170}{}{Biztos vagyok benne, hogy a körletekben b?ven van bel?le. S?t, ezt a helyet elnézve egész arzenál lehet ott. Ebben biztos vagyok.}
-{171}{}{Jó ötlet. Használhatom a robbanóanyagot, hogy felrobbantsam a f?reaktort. Ha kiszabadultok, rohanjatok a tet?re a hajómhoz. Majd fedezlek benneteket a szabad elvonuláshoz.}
-{172}{}{Ezt a címet már régóta nem használjuk. Volt Felvigyázónk, de sok évvel ezel?tt rossz dolgokat m?velt, ezért sokan közülünk elhagyták a menedéket. A biztos halál várt rájuk. A b?nei miatt el?állítottuk és halálra ítéltük a Felvigyázót. Azóta nem használjuk ezt a címet.}
-{173}{}{Nem hibáztatlak. Tudod, az én ?sömet, a Menedéklakót is a Felvigyázó szám?zte.}
-{174}{}{A Menedéklakót? Hány éve is volt? Nyolcvan?}
-{175}{}{Igen, nyolcvan éve történt. Honnan tudod?}
-{176}{}{Nyolcvan évvel ezel?tt, egy h?s megmentette a menedéket, de a Felvigyázó mégis szám?zte. Mások is követték a szám?zetésbe, és azóta semmit sem hallottunk fel?lük. Azóta szégyennel emlékezünk az esetre.}
-{177}{}{Hej! Te az én ?sömr?l beszélsz, meg a falum alapítóiról! ?k mindannyian a Szent 13-as Menedékb?l jöttek.}
-{178}{}{Nagyon helyesen is teszed. Hadd kérdezzek valami mást!}
-{179}{}{Helyes, bár nem hiszem, hogy eleget szenvedtetek miatta. Viszlát!}
-{180}{}{Hihetetlen! A mi menedékünk! A menedéklakók és leszármazottaik végre újra egyesülnek, ráadásul a Menedéklakó dédunokája ment meg bennünket!}
-{181}{}{Hihetetlen! A mi menedékünk! A menedéklakók és leszármazottaik végre újra egyesülnek, ráadásul a Menedéklakó dédunokája ment meg bennünket!}
-{182}{}{Bárcsak tudnám, hogy mentselek meg titeket!}
-{183}{}{Még gondolkozom rajta.}
-{184}{}{Micsoda bizarr egybeesés! Hadd kérdezzek valami mást!}
+{166}{}{Ezt mÃ©gis hogy a francba csinÃ¡ljam?}
+{167}{}{HallgatÃ³ztam, Ã©s Ãºgy tudom, hogy a f?reaktort egy nagy szÃ¡mÃ­tÃ³gÃ©p vezÃ©rli hÃ¡rom szinttel lejjebb. Ha sikerÃ¼l felrobbantanod, leÃ¡ll az egÃ©sz energiaellÃ¡tÃ¡s, Ã©s kiszabadulunk.}
+{168}{}{JÃ³ Ã¶tlet. HasznÃ¡lhatnÃ¡m a robbanÃ³anyagomat. Ha kiszabadultok, rohanjatok a tet?re a hajÃ³mhoz. Majd fedezlek benneteket a szabad elvonulÃ¡shoz.}
+{169}{}{JÃ³ Ã¶tlet, de nem tudom, hogyan tudnÃ¡m felrobbantani a reaktort. Nincs nÃ¡lam robbanÃ³anyag.}
+{170}{}{Biztos vagyok benne, hogy a kÃ¶rletekben b?ven van bel?le. S?t, ezt a helyet elnÃ©zve egÃ©sz arzenÃ¡l lehet ott. Ebben biztos vagyok.}
+{171}{}{JÃ³ Ã¶tlet. HasznÃ¡lhatom a robbanÃ³anyagot, hogy felrobbantsam a f?reaktort. Ha kiszabadultok, rohanjatok a tet?re a hajÃ³mhoz. Majd fedezlek benneteket a szabad elvonulÃ¡shoz.}
+{172}{}{Ezt a cÃ­met mÃ¡r rÃ©gÃ³ta nem hasznÃ¡ljuk. Volt FelvigyÃ¡zÃ³nk, de sok Ã©vvel ezel?tt rossz dolgokat m?velt, ezÃ©rt sokan kÃ¶zÃ¼lÃ¼nk elhagytÃ¡k a menedÃ©ket. A biztos halÃ¡l vÃ¡rt rÃ¡juk. A b?nei miatt el?Ã¡llÃ­tottuk Ã©s halÃ¡lra Ã­tÃ©ltÃ¼k a FelvigyÃ¡zÃ³t. AzÃ³ta nem hasznÃ¡ljuk ezt a cÃ­met.}
+{173}{}{Nem hibÃ¡ztatlak. Tudod, az Ã©n ?sÃ¶met, a MenedÃ©klakÃ³t is a FelvigyÃ¡zÃ³ szÃ¡m?zte.}
+{174}{}{A MenedÃ©klakÃ³t? HÃ¡ny Ã©ve is volt? Nyolcvan?}
+{175}{}{Igen, nyolcvan Ã©ve tÃ¶rtÃ©nt. Honnan tudod?}
+{176}{}{Nyolcvan Ã©vvel ezel?tt, egy h?s megmentette a menedÃ©ket, de a FelvigyÃ¡zÃ³ mÃ©gis szÃ¡m?zte. MÃ¡sok is kÃ¶vettÃ©k a szÃ¡m?zetÃ©sbe, Ã©s azÃ³ta semmit sem hallottunk fel?lÃ¼k. AzÃ³ta szÃ©gyennel emlÃ©kezÃ¼nk az esetre.}
+{177}{}{Hej! Te az Ã©n ?sÃ¶mr?l beszÃ©lsz, meg a falum alapÃ­tÃ³irÃ³l! ?k mindannyian a Szent 13-as MenedÃ©kb?l jÃ¶ttek.}
+{178}{}{Nagyon helyesen is teszed. Hadd kÃ©rdezzek valami mÃ¡st!}
+{179}{}{Helyes, bÃ¡r nem hiszem, hogy eleget szenvedtetek miatta. ViszlÃ¡t!}
+{180}{}{Hihetetlen! A mi menedÃ©kÃ¼nk! A menedÃ©klakÃ³k Ã©s leszÃ¡rmazottaik vÃ©gre Ãºjra egyesÃ¼lnek, rÃ¡adÃ¡sul a MenedÃ©klakÃ³ dÃ©dunokÃ¡ja ment meg bennÃ¼nket!}
+{181}{}{Hihetetlen! A mi menedÃ©kÃ¼nk! A menedÃ©klakÃ³k Ã©s leszÃ¡rmazottaik vÃ©gre Ãºjra egyesÃ¼lnek, rÃ¡adÃ¡sul a MenedÃ©klakÃ³ dÃ©dunokÃ¡ja ment meg bennÃ¼nket!}
+{182}{}{BÃ¡rcsak tudnÃ¡m, hogy mentselek meg titeket!}
+{183}{}{MÃ©g gondolkozom rajta.}
+{184}{}{Micsoda bizarr egybeesÃ©s! Hadd kÃ©rdezzek valami mÃ¡st!}

@@ -1,295 +1,295 @@
-{100}{}{Widzisz podstarza³ego cz³owieka w medycznym fartuchu. Wygl¹da na bardzo zajêtego.}
+{100}{}{Widzisz podstarzaÅ‚ego czÅ‚owieka w medycznym fartuchu. WyglÄ…da na bardzo zajÄ™tego.}
 {101}{}{Widzisz dr Troya.}
-{102}{}{Widzisz podstarza³ego cz³owieka w medycznym fartuchu. Wygl¹da na bardzo zajêtego.}
+{102}{}{Widzisz podstarzaÅ‚ego czÅ‚owieka w medycznym fartuchu. WyglÄ…da na bardzo zajÄ™tego.}
 {103}{}{Co my tu mamy...? Aha, trzy szczepienia jutro rano.}
-{104}{}{Przeklinam tê hipochondriê Gregorego.}
-{105}{}{Nadal muszê dostarczyæ testy medyczne tych trzech nowych s³u¿¹cych.}
-{106}{}{Fillis, czy mog³abyœ przynieœæ mi testy krwi Prokonsula... proszê?}
-{107}{}{Dziwne... te wyniki nie wskazuj¹ na niski poziom p³ytek krwi.}
-{108}{}{Moglibyœmy klonowaæ tê œledzionê, z tkanek pobranych dziœ po po³udniu.}
-{109}{}{W nowym suplemencie musimy wprowadziæ wiêcej witamin do diety...}
+{104}{}{Przeklinam tÄ™ hipochondriÄ™ Gregorego.}
+{105}{}{Nadal muszÄ™ dostarczyÄ‡ testy medyczne tych trzech nowych sÅ‚uÅ¼Ä…cych.}
+{106}{}{Fillis, czy mogÅ‚abyÅ› przynieÅ›Ä‡ mi testy krwi Prokonsula... proszÄ™?}
+{107}{}{Dziwne... te wyniki nie wskazujÄ… na niski poziom pÅ‚ytek krwi.}
+{108}{}{MoglibyÅ›my klonowaÄ‡ tÄ™ Å›ledzionÄ™, z tkanek pobranych dziÅ› po poÅ‚udniu.}
+{109}{}{W nowym suplemencie musimy wprowadziÄ‡ wiÄ™cej witamin do diety...}
 {110}{}{Hmmmmm.}
-{111}{}{Fillis, mog³abyœ przynieœæ mi kartê zdrowia Helen?}
-{112}{}{I pomyœleæ, ¿e wybra³em bycie lekarzem, zamiast tej roboty w LoveLine...}
-{113}{}{Jestem ju¿ zmêczony robieniem tych list dla Pierwszego Obywatela...}
-{114}{}{Kolejna proœba o wykaz leków w magazynie? Przecie¿ wczoraj jedn¹ dostarczy³em!}
-{115}{}{Stra¿e! Mutant!}
-{116}{}{Stra¿e! Ghul!}
-{117}{}{Witam, nazywam siê Troy... doktor Troy. Potrzebna ci pomoc?}
-{118}{}{Ja mieæ kuku}
+{111}{}{Fillis, mogÅ‚abyÅ› przynieÅ›Ä‡ mi kartÄ™ zdrowia Helen?}
+{112}{}{I pomyÅ›leÄ‡, Å¼e wybraÅ‚em bycie lekarzem, zamiast tej roboty w LoveLine...}
+{113}{}{Jestem juÅ¼ zmÄ™czony robieniem tych list dla Pierwszego Obywatela...}
+{114}{}{Kolejna proÅ›ba o wykaz lekÃ³w w magazynie? PrzecieÅ¼ wczoraj jednÄ… dostarczyÅ‚em!}
+{115}{}{StraÅ¼e! Mutant!}
+{116}{}{StraÅ¼e! Ghul!}
+{117}{}{Witam, nazywam siÄ™ Troy... doktor Troy. Potrzebna ci pomoc?}
+{118}{}{Ja mieÄ‡ kuku}
 {119}{}{cipo-moc?}
-{120}{}{(OdejdŸ jakby nigdy nic)}
-{121}{}{Szukam g³ównego komputera. Móg³byœ powiedzieæ mi, gdzie go mo¿na znaleŸæ?}
+{120}{}{(OdejdÅº jakby nigdy nic)}
+{121}{}{Szukam gÅ‚Ã³wnego komputera. MÃ³gÅ‚byÅ› powiedzieÄ‡ mi, gdzie go moÅ¼na znaleÅºÄ‡?}
 {122}{}{Co masz tutaj do roboty?}
-{123}{}{Nie przeszkadzaj sobie, dziêki.}
-{124}{}{Naprawdê? Trafienie na kogoœ takiego jak ty, to istny cud. Jeœli znalaz³byœ odrobinê czasu, to moglibyœmy wymieniæ doœwiadczenia. Teraz nieczêsto zdarza siê szansa na spotkanie innego lekarza.}
-{125}{}{Oczywiœcie. Z przyjemnoœci¹ nauczê siê nowinek medycznych stosowanych w Kryptopolis.}
-{126}{}{Nie teraz, mam kilka innych pytañ...}
-{127}{}{Mo¿e póŸniej. Muszê ju¿ iœæ.}
-{128}{}{To wspaniale! Pozwól, ¿e ciê oprowadzê. Popatrz, tutaj mamy urz¹dzenia monitoruj¹ce...}
+{123}{}{Nie przeszkadzaj sobie, dziÄ™ki.}
+{124}{}{NaprawdÄ™? Trafienie na kogoÅ› takiego jak ty, to istny cud. JeÅ›li znalazÅ‚byÅ› odrobinÄ™ czasu, to moglibyÅ›my wymieniÄ‡ doÅ›wiadczenia. Teraz nieczÄ™sto zdarza siÄ™ szansa na spotkanie innego lekarza.}
+{125}{}{OczywiÅ›cie. Z przyjemnoÅ›ciÄ… nauczÄ™ siÄ™ nowinek medycznych stosowanych w Kryptopolis.}
+{126}{}{Nie teraz, mam kilka innych pytaÅ„...}
+{127}{}{MoÅ¼e pÃ³Åºniej. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{128}{}{To wspaniale! PozwÃ³l, Å¼e ciÄ™ oprowadzÄ™. Popatrz, tutaj mamy urzÄ…dzenia monitorujÄ…ce...}
 {129}{}{}
-{130}{}{... i dziêki temu mo¿emy tak klonowaæ komórki, aby otrzymaæ z nich narz¹dy do przeszczepu. Na tym etapie musimy byæ bardzo ostro¿ni, aby komórki nie uleg³y zanieczyszczeniu lub mutacji, bo.... no wiesz. Chyba ju¿ siê wystarczaj¹co nagada³em, mam nadziejê, ¿e dowiedzia³eœ siê czegoœ interesuj¹cego.}
-{131}{}{Z pewnoœci¹. Mam jeszcze kilka innych pytañ, jeœli nie masz nic przeciwko temu...}
-{132}{}{Dziêki za obchód doktorze Troy. To by³o bardzo pouczaj¹ce.}
-{133}{}{G³ówny komputer? Jest na trzecim poziomie. Musisz pojechaæ wind¹ w dó³, potem idŸ prosto, a¿ dojdziesz do skrzy¿owania w kszta³cie litery T, wtedy skrêæ w lewo. Jeœli pójdziesz zgodnie ze wskazówkami, to na pewno trafisz.}
+{130}{}{... i dziÄ™ki temu moÅ¼emy tak klonowaÄ‡ komÃ³rki, aby otrzymaÄ‡ z nich narzÄ…dy do przeszczepu. Na tym etapie musimy byÄ‡ bardzo ostroÅ¼ni, aby komÃ³rki nie ulegÅ‚y zanieczyszczeniu lub mutacji, bo.... no wiesz. Chyba juÅ¼ siÄ™ wystarczajÄ…co nagadaÅ‚em, mam nadziejÄ™, Å¼e dowiedziaÅ‚eÅ› siÄ™ czegoÅ› interesujÄ…cego.}
+{131}{}{Z pewnoÅ›ciÄ…. Mam jeszcze kilka innych pytaÅ„, jeÅ›li nie masz nic przeciwko temu...}
+{132}{}{DziÄ™ki za obchÃ³d doktorze Troy. To byÅ‚o bardzo pouczajÄ…ce.}
+{133}{}{GÅ‚Ã³wny komputer? Jest na trzecim poziomie. Musisz pojechaÄ‡ windÄ… w dÃ³Å‚, potem idÅº prosto, aÅ¼ dojdziesz do skrzyÅ¼owania w ksztaÅ‚cie litery T, wtedy skrÄ™Ä‡ w lewo. JeÅ›li pÃ³jdziesz zgodnie ze wskazÃ³wkami, to na pewno trafisz.}
 {134}{}{Co masz tutaj do roboty?}
-{135}{}{Dziêkujê.}
-{136}{}{Jestem pierwszym lekarzem w Kryptopolis. Pod moj¹ opiek¹ znajduj¹ siê wszyscy Obywatele i staram siê utrzymaæ ich w jak najlepszym zdrowiu.}
-{137}{}{Szukam g³ównego komputera. Móg³byœ powiedzieæ mi, gdzie go mo¿na znaleŸæ?}
-{138}{}{Rozumiem. Na pewno jeszcze nadarzy siê okazja do rozmowy.}
-{139}{}{Poczekaj chwilê... Nie pamiêtam abym ciê tu wczeœniej widzia³, jesteœ Obywatelem?}
+{135}{}{DziÄ™kujÄ™.}
+{136}{}{Jestem pierwszym lekarzem w Kryptopolis. Pod mojÄ… opiekÄ… znajdujÄ… siÄ™ wszyscy Obywatele i staram siÄ™ utrzymaÄ‡ ich w jak najlepszym zdrowiu.}
+{137}{}{Szukam gÅ‚Ã³wnego komputera. MÃ³gÅ‚byÅ› powiedzieÄ‡ mi, gdzie go moÅ¼na znaleÅºÄ‡?}
+{138}{}{Rozumiem. Na pewno jeszcze nadarzy siÄ™ okazja do rozmowy.}
+{139}{}{Poczekaj chwilÄ™... Nie pamiÄ™tam abym ciÄ™ tu wczeÅ›niej widziaÅ‚, jesteÅ› Obywatelem?}
 {140}{}{Tak, dopiero co wystawiono mi obywatelstwo.}
-{141}{}{W³aœciwie, to }
-{142}{}{. Jestem kapitanem stra¿y.}
-{143}{}{Eee... oczywiœcie, ¿e jestem.}
-{144}{}{Nie, sk¹d¿e.}
-{145}{}{Mi³o by³o ciê poznaæ, }
-{146}{}{. Jeœli bêdziesz kiedyœ potrzebowaæ moich us³ug, to wiesz gdzie mnie znaleŸæ.}
-{147}{}{Dziêki. Do zobaczenia.}
-{148}{}{Nie jesteœ rdzennym mieszkañcem Kryptopolis, zgad³em? Na pewno zapamiêta³bym kogoœ takiego jak ty. Sk¹d pochodzisz?}
-{149}{}{Chwileczkê... jesteœ z zewn¹trz, prawda? Sk¹d pochodzisz?}
-{150}{}{Z ma³ej wioski na zachodzie. Z Arroyo.}
-{151}{}{Czego chcia³byœ siê dowiedzieæ?}
-{152}{}{Nie twój interes, "doktorku". Mogê ju¿ iœæ, czy masz do mnie jeszcze jakieœ pytania?}
-{153}{}{Nie lubiê opowiadaæ o mojej przesz³oœci. By³o... minê³o.}
-{154}{}{Arroyo? Nie wierzê w³asnym uszom. Przepraszam za swoje wœcibstwo, ale... w³aœnie szuka³em kogoœ, kto widzia³ œwiat za murami Kryptopolis... wiêkszoœæ Obywateli nigdy nie opuœci³a miasta.}
-{155}{}{Szukasz kogoœ? Po co?}
-{156}{}{To *fascynuj¹ce*... tylko co to ma wspólnego ze mn¹?}
-{157}{}{Przepraszam za swoje wœcibstwo tylko... w³aœnie szuka³em kogoœ, kto widzia³ œwiat za murami Kryptopolis... wiêkszoœæ Obywateli nigdy nie opuœci³a miasta.}
-{158}{}{Szukasz kogoœ? Po co?}
-{159}{}{To *fascynuj¹ce*... tylko co to ma wspólnego ze mn¹?}
-{160}{}{Musia³eœ ju¿ trochê poznaæ nasze miasto... wróæ korytarzem, którym tu trafi³eœ. Potem skrêæ w prawo, tam masz wyjœcie na powierzchniê.}
-{161}{}{Dziêki za wskazówki... Czasem zdarza mi siê zgubiæ. Chyba bêdê ju¿ wracaæ na powierzchniê.}
-{162}{}{Chyba jeszcze ciê nie opuszczê "doktorku". Najpierw chcia³bym zobaczyæ, co masz na sk³adzie.}
-{163}{}{Szukam kogoœ, kto móg³by wykonaæ dla mnie specjaln¹ misjê.}
+{141}{}{WÅ‚aÅ›ciwie, to }
+{142}{}{. Jestem kapitanem straÅ¼y.}
+{143}{}{Eee... oczywiÅ›cie, Å¼e jestem.}
+{144}{}{Nie, skÄ…dÅ¼e.}
+{145}{}{MiÅ‚o byÅ‚o ciÄ™ poznaÄ‡, }
+{146}{}{. JeÅ›li bÄ™dziesz kiedyÅ› potrzebowaÄ‡ moich usÅ‚ug, to wiesz gdzie mnie znaleÅºÄ‡.}
+{147}{}{DziÄ™ki. Do zobaczenia.}
+{148}{}{Nie jesteÅ› rdzennym mieszkaÅ„cem Kryptopolis, zgadÅ‚em? Na pewno zapamiÄ™taÅ‚bym kogoÅ› takiego jak ty. SkÄ…d pochodzisz?}
+{149}{}{ChwileczkÄ™... jesteÅ› z zewnÄ…trz, prawda? SkÄ…d pochodzisz?}
+{150}{}{Z maÅ‚ej wioski na zachodzie. Z Arroyo.}
+{151}{}{Czego chciaÅ‚byÅ› siÄ™ dowiedzieÄ‡?}
+{152}{}{Nie twÃ³j interes, "doktorku". MogÄ™ juÅ¼ iÅ›Ä‡, czy masz do mnie jeszcze jakieÅ› pytania?}
+{153}{}{Nie lubiÄ™ opowiadaÄ‡ o mojej przeszÅ‚oÅ›ci. ByÅ‚o... minÄ™Å‚o.}
+{154}{}{Arroyo? Nie wierzÄ™ wÅ‚asnym uszom. Przepraszam za swoje wÅ›cibstwo, ale... wÅ‚aÅ›nie szukaÅ‚em kogoÅ›, kto widziaÅ‚ Å›wiat za murami Kryptopolis... wiÄ™kszoÅ›Ä‡ Obywateli nigdy nie opuÅ›ciÅ‚a miasta.}
+{155}{}{Szukasz kogoÅ›? Po co?}
+{156}{}{To *fascynujÄ…ce*... tylko co to ma wspÃ³lnego ze mnÄ…?}
+{157}{}{Przepraszam za swoje wÅ›cibstwo tylko... wÅ‚aÅ›nie szukaÅ‚em kogoÅ›, kto widziaÅ‚ Å›wiat za murami Kryptopolis... wiÄ™kszoÅ›Ä‡ Obywateli nigdy nie opuÅ›ciÅ‚a miasta.}
+{158}{}{Szukasz kogoÅ›? Po co?}
+{159}{}{To *fascynujÄ…ce*... tylko co to ma wspÃ³lnego ze mnÄ…?}
+{160}{}{MusiaÅ‚eÅ› juÅ¼ trochÄ™ poznaÄ‡ nasze miasto... wrÃ³Ä‡ korytarzem, ktÃ³rym tu trafiÅ‚eÅ›. Potem skrÄ™Ä‡ w prawo, tam masz wyjÅ›cie na powierzchniÄ™.}
+{161}{}{DziÄ™ki za wskazÃ³wki... Czasem zdarza mi siÄ™ zgubiÄ‡. Chyba bÄ™dÄ™ juÅ¼ wracaÄ‡ na powierzchniÄ™.}
+{162}{}{Chyba jeszcze ciÄ™ nie opuszczÄ™ "doktorku". Najpierw chciaÅ‚bym zobaczyÄ‡, co masz na skÅ‚adzie.}
+{163}{}{Szukam kogoÅ›, kto mÃ³gÅ‚by wykonaÄ‡ dla mnie specjalnÄ… misjÄ™.}
 {164}{}{Co to jest?}
-{165}{}{Nie interesuje mnie to, dziêki.}
-{166}{}{Wspaniale! Cieszê siê, ¿e siê namyœli³eœ.}
-{167}{}{Dosz³y do mnie plotki o nowym narkotyku. Podobno nazywa siê "Jet". Zap³acê tysi¹c dolarów za jego próbkê.}
-{168}{}{Jet? Mam jedn¹ dawkê przy sobie.}
-{169}{}{Akurat posiadam jedn¹ dawkê. Jest twoja za dwanaœcie setek.}
-{170}{}{Hmm, mam trochê Jetu, dam ci go za piêtnaœcie setek.}
-{171}{}{Hmmm... wiêc chcesz, abym przeszmuglowa³ trochê Jetu do Kryptopolis... dla ciebie?}
-{172}{}{Ja mam najpierw coœ zrobiæ dla ciebie? Na przyk³ad co?}
-{173}{}{Nie interesuje mnie to, dziêki.}
-{174}{}{Przykro mi to s³yszeæ. Wróæ jeœli siê namyœlisz... Z chêci¹ odwdziêczê siê za twój trud.}
-{175}{}{Mam do ciebie kilka innych pytañ...}
-{176}{}{Wdziêcznoœæ? Eeee... Bardziej interesuje mnie gotówka, dziêki.}
-{177}{}{W porz¹dku. Do zobaczenia.}
-{178}{}{Hmmmmm. Bior¹c pod uwagê fakt, ¿e posiadasz go przy sobie... to chyba dobra cena. Oto twoje pieni¹dze... i dziêkujê.}
-{179}{}{Mam jeszcze kilka pytañ...}
-{180}{}{Wierz mi, nie s¹dzê abyœ chcia³ wdychaæ to... gówno.}
-{181}{}{Potrzebujesz pomocy przy u¿yciu? No wiesz, aby dostaæ naprawdê dobrego kopa, musisz zatkaæ nos, wypuœciæ powietrze z p³uc, a potem zrobiæ bardzo g³êboki wdech, jednoczeœnie za¿ywaj¹c Jet... i tak potrzymaæ jak¹œ minutê...}
-{182}{}{Przyjemnie robi siê z tob¹ interesy doktorze. Tylko uwa¿aj z tym œwiñstwem.}
-{183}{}{*Dziêki*. Mo¿esz ju¿ iœæ.}
-{184}{}{Jest jeszcze kilka pytañ, na które móg³byœ mi odpowiedzieæ...}
-{185}{}{Wierz mi, nie s¹dzê abyœ chcia³ wdychaæ to... gówno.}
-{186}{}{Przepraszam, to mia³a byæ tylko pomoc. To do zobaczenia doktorze.}
-{187}{}{O czym ty mówisz?}
-{188}{}{Zapomnij. Mam jeszcze kilka innych pytañ...}
-{189}{}{No wiesz, oni robi¹ go z odchodów bramina.}
-{190}{}{Wiesz, ¿e w pojemniku z Jetem s¹ opary z gówna bramina. Pora¿aj¹ce, heh?}
-{191}{}{Wiesz, ¿e w takim pojemniku z Jetem s¹ wyziewy z odchodów bramin. Straszne, prawda? A tak przy okazji, szukam substancji blokuj¹cej endorfinê, masz jak¹œ?}
-{192}{}{Có¿, nawet bior¹c pod uwagê geniusz tego ch³opaka, to nadal jest robione z gówna braminy.}
-{193}{}{Có¿, nawet bior¹c pod uwagê geniusz tego ch³opaka, to nadal s¹ opary z odchodów bramin. Pora¿aj¹ce, heh?}
-{194}{}{Có¿, nawet bior¹c pod uwagê geniusz tego ch³opaka, to nadal s¹ opary z odchodów bramin. Straszne, prawda? A tak przy okazji, szukam substancji blokuj¹cej endorfinê, masz jak¹œ?}
-{195}{}{Ekh... niewa¿ne. To chyba nawet lepiej, ¿e nie wiesz.}
-{196}{}{Chyba musia³eœ siê... pomyliæ.}
-{197}{}{Wiem, ciê¿ko jest przyj¹æ to do wiadomoœci. Mam jeszcze kilka innych pytañ...}
-{198}{}{Nie, naprawdê. Oni stworzyli Jet na bazie odchodów bramina... U¿ywaj¹ ich gówna jako nawozu.}
-{199}{}{Nie, naprawdê. Pocz¹tkowo starali siê wykorzystaæ œrodki halucynogenne, znajduj¹ce siê w odchodach bramin, ale potem odkryli, ¿e robotnicy maj¹cy kontakt z *oparami*, pracuj¹ lepiej. Widzisz, tu chodzi o zmutowane przedwojenne bia³ko, które znalaz³o siê w organizmie bramin...}
-{200}{}{Podobno. Sam nie mogê w to uwierzyæ. Do zobaczenia doktorze.}
-{201}{}{Naprawdê? Hmmmmm. Przypuszczam, ¿e braminowi... ekskrementy rzeczywiœcie mog¹ byæ dobrym nawozem. Nie myœla³em o tym wczeœniej. Dziêki, przyjacielu. Swoj¹ drog¹ jestem ciekaw technologii wytwarzania.}
-{202}{}{Taak, z wyj¹tkiem tego, ¿e oni u¿ywaj¹ braminowego gówna nie ekskrementów. Do zobaczenia, doktorku.}
-{203}{}{Nie ma problemu. B¹dŸ ostro¿ny z tym towarem, w porz¹dku?}
-{204}{}{Hej, tak jak ka¿dy? Do zobaczenia, doktorze.}
-{205}{}{To... fascynuj¹ce. Hmmmmm. Móg³bym pobraæ próbki krwi od bramin, znajduj¹cych siê na Podmurzu... dziêki, przyjacielu, wielkie dziêki. Swoj¹ droga, bardzo ciekawi mnie technologia wytwarzania.}
-{206}{}{Nie ma problemu. B¹dŸ ostro¿ny z tym towarem, w porz¹dku?}
-{207}{}{Hej, tak jak ka¿dy? Do zobaczenia, doktorze.}
-{208}{}{Substancja blokuj¹ca enorfinê? Po co ci?}
-{209}{}{Myœlê, ¿e taka substancja mo¿e zostaæ u¿yta, do zneutralizowania dzia³ania Jetu. Niestety nie mogê tego sprawdziæ bez blokera endorfiny.}
-{210}{}{Niewa¿ne, mam kilka innych pytañ...}
-{211}{}{Po nic. Muszê ju¿ iœæ.}
-{212}{}{Nie posiadamy tutaj takiej substancji, ale móg³bym tak zaprogramowaæ Auto-doktora, ¿eby jej troszkê wyprodukowa³. Móg³byœ jakoœ uzasadniæ swoj¹ teoriê?}
-{213}{}{Có¿, jak wiadomo otrz¹œniêcie siê z uzale¿nienia Jetem, jest spraw¹ niezwykle trudn¹. Jednak¿e, gdybyœmy zaaplikowali uzale¿nionemu blokadê endorfiny, to...}
-{215}{}{Zadziwiasz mnie... To najprostsze i najgenialniejsze rozwi¹zanie, jakie kiedykolwiek us³ysza³em. Problem uzale¿nienia od Jetu stara³em siê rozwi¹zaæ od miesiêcy. Niestety bezowocnie.}
-{216}{}{Ty tak¿e pracowa³eœ nad antidotum?}
-{217}{}{Tak. W³aœnie po to by³a mi potrzebna próbka Jetu.}
+{165}{}{Nie interesuje mnie to, dziÄ™ki.}
+{166}{}{Wspaniale! CieszÄ™ siÄ™, Å¼e siÄ™ namyÅ›liÅ‚eÅ›.}
+{167}{}{DoszÅ‚y do mnie plotki o nowym narkotyku. Podobno nazywa siÄ™ "Jet". ZapÅ‚acÄ™ tysiÄ…c dolarÃ³w za jego prÃ³bkÄ™.}
+{168}{}{Jet? Mam jednÄ… dawkÄ™ przy sobie.}
+{169}{}{Akurat posiadam jednÄ… dawkÄ™. Jest twoja za dwanaÅ›cie setek.}
+{170}{}{Hmm, mam trochÄ™ Jetu, dam ci go za piÄ™tnaÅ›cie setek.}
+{171}{}{Hmmm... wiÄ™c chcesz, abym przeszmuglowaÅ‚ trochÄ™ Jetu do Kryptopolis... dla ciebie?}
+{172}{}{Ja mam najpierw coÅ› zrobiÄ‡ dla ciebie? Na przykÅ‚ad co?}
+{173}{}{Nie interesuje mnie to, dziÄ™ki.}
+{174}{}{Przykro mi to sÅ‚yszeÄ‡. WrÃ³Ä‡ jeÅ›li siÄ™ namyÅ›lisz... Z chÄ™ciÄ… odwdziÄ™czÄ™ siÄ™ za twÃ³j trud.}
+{175}{}{Mam do ciebie kilka innych pytaÅ„...}
+{176}{}{WdziÄ™cznoÅ›Ä‡? Eeee... Bardziej interesuje mnie gotÃ³wka, dziÄ™ki.}
+{177}{}{W porzÄ…dku. Do zobaczenia.}
+{178}{}{Hmmmmm. BiorÄ…c pod uwagÄ™ fakt, Å¼e posiadasz go przy sobie... to chyba dobra cena. Oto twoje pieniÄ…dze... i dziÄ™kujÄ™.}
+{179}{}{Mam jeszcze kilka pytaÅ„...}
+{180}{}{Wierz mi, nie sÄ…dzÄ™ abyÅ› chciaÅ‚ wdychaÄ‡ to... gÃ³wno.}
+{181}{}{Potrzebujesz pomocy przy uÅ¼yciu? No wiesz, aby dostaÄ‡ naprawdÄ™ dobrego kopa, musisz zatkaÄ‡ nos, wypuÅ›ciÄ‡ powietrze z pÅ‚uc, a potem zrobiÄ‡ bardzo gÅ‚Ä™boki wdech, jednoczeÅ›nie zaÅ¼ywajÄ…c Jet... i tak potrzymaÄ‡ jakÄ…Å› minutÄ™...}
+{182}{}{Przyjemnie robi siÄ™ z tobÄ… interesy doktorze. Tylko uwaÅ¼aj z tym Å›wiÅ„stwem.}
+{183}{}{*DziÄ™ki*. MoÅ¼esz juÅ¼ iÅ›Ä‡.}
+{184}{}{Jest jeszcze kilka pytaÅ„, na ktÃ³re mÃ³gÅ‚byÅ› mi odpowiedzieÄ‡...}
+{185}{}{Wierz mi, nie sÄ…dzÄ™ abyÅ› chciaÅ‚ wdychaÄ‡ to... gÃ³wno.}
+{186}{}{Przepraszam, to miaÅ‚a byÄ‡ tylko pomoc. To do zobaczenia doktorze.}
+{187}{}{O czym ty mÃ³wisz?}
+{188}{}{Zapomnij. Mam jeszcze kilka innych pytaÅ„...}
+{189}{}{No wiesz, oni robiÄ… go z odchodÃ³w bramina.}
+{190}{}{Wiesz, Å¼e w pojemniku z Jetem sÄ… opary z gÃ³wna bramina. PoraÅ¼ajÄ…ce, heh?}
+{191}{}{Wiesz, Å¼e w takim pojemniku z Jetem sÄ… wyziewy z odchodÃ³w bramin. Straszne, prawda? A tak przy okazji, szukam substancji blokujÄ…cej endorfinÄ™, masz jakÄ…Å›?}
+{192}{}{CÃ³Å¼, nawet biorÄ…c pod uwagÄ™ geniusz tego chÅ‚opaka, to nadal jest robione z gÃ³wna braminy.}
+{193}{}{CÃ³Å¼, nawet biorÄ…c pod uwagÄ™ geniusz tego chÅ‚opaka, to nadal sÄ… opary z odchodÃ³w bramin. PoraÅ¼ajÄ…ce, heh?}
+{194}{}{CÃ³Å¼, nawet biorÄ…c pod uwagÄ™ geniusz tego chÅ‚opaka, to nadal sÄ… opary z odchodÃ³w bramin. Straszne, prawda? A tak przy okazji, szukam substancji blokujÄ…cej endorfinÄ™, masz jakÄ…Å›?}
+{195}{}{Ekh... niewaÅ¼ne. To chyba nawet lepiej, Å¼e nie wiesz.}
+{196}{}{Chyba musiaÅ‚eÅ› siÄ™... pomyliÄ‡.}
+{197}{}{Wiem, ciÄ™Å¼ko jest przyjÄ…Ä‡ to do wiadomoÅ›ci. Mam jeszcze kilka innych pytaÅ„...}
+{198}{}{Nie, naprawdÄ™. Oni stworzyli Jet na bazie odchodÃ³w bramina... UÅ¼ywajÄ… ich gÃ³wna jako nawozu.}
+{199}{}{Nie, naprawdÄ™. PoczÄ…tkowo starali siÄ™ wykorzystaÄ‡ Å›rodki halucynogenne, znajdujÄ…ce siÄ™ w odchodach bramin, ale potem odkryli, Å¼e robotnicy majÄ…cy kontakt z *oparami*, pracujÄ… lepiej. Widzisz, tu chodzi o zmutowane przedwojenne biaÅ‚ko, ktÃ³re znalazÅ‚o siÄ™ w organizmie bramin...}
+{200}{}{Podobno. Sam nie mogÄ™ w to uwierzyÄ‡. Do zobaczenia doktorze.}
+{201}{}{NaprawdÄ™? Hmmmmm. Przypuszczam, Å¼e braminowi... ekskrementy rzeczywiÅ›cie mogÄ… byÄ‡ dobrym nawozem. Nie myÅ›laÅ‚em o tym wczeÅ›niej. DziÄ™ki, przyjacielu. SwojÄ… drogÄ… jestem ciekaw technologii wytwarzania.}
+{202}{}{Taak, z wyjÄ…tkiem tego, Å¼e oni uÅ¼ywajÄ… braminowego gÃ³wna nie ekskrementÃ³w. Do zobaczenia, doktorku.}
+{203}{}{Nie ma problemu. BÄ…dÅº ostroÅ¼ny z tym towarem, w porzÄ…dku?}
+{204}{}{Hej, tak jak kaÅ¼dy? Do zobaczenia, doktorze.}
+{205}{}{To... fascynujÄ…ce. Hmmmmm. MÃ³gÅ‚bym pobraÄ‡ prÃ³bki krwi od bramin, znajdujÄ…cych siÄ™ na Podmurzu... dziÄ™ki, przyjacielu, wielkie dziÄ™ki. SwojÄ… droga, bardzo ciekawi mnie technologia wytwarzania.}
+{206}{}{Nie ma problemu. BÄ…dÅº ostroÅ¼ny z tym towarem, w porzÄ…dku?}
+{207}{}{Hej, tak jak kaÅ¼dy? Do zobaczenia, doktorze.}
+{208}{}{Substancja blokujÄ…ca enorfinÄ™? Po co ci?}
+{209}{}{MyÅ›lÄ™, Å¼e taka substancja moÅ¼e zostaÄ‡ uÅ¼yta, do zneutralizowania dziaÅ‚ania Jetu. Niestety nie mogÄ™ tego sprawdziÄ‡ bez blokera endorfiny.}
+{210}{}{NiewaÅ¼ne, mam kilka innych pytaÅ„...}
+{211}{}{Po nic. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{212}{}{Nie posiadamy tutaj takiej substancji, ale mÃ³gÅ‚bym tak zaprogramowaÄ‡ Auto-doktora, Å¼eby jej troszkÄ™ wyprodukowaÅ‚. MÃ³gÅ‚byÅ› jakoÅ› uzasadniÄ‡ swojÄ… teoriÄ™?}
+{213}{}{CÃ³Å¼, jak wiadomo otrzÄ…Å›niÄ™cie siÄ™ z uzaleÅ¼nienia Jetem, jest sprawÄ… niezwykle trudnÄ…. JednakÅ¼e, gdybyÅ›my zaaplikowali uzaleÅ¼nionemu blokadÄ™ endorfiny, to...}
+{215}{}{Zadziwiasz mnie... To najprostsze i najgenialniejsze rozwiÄ…zanie, jakie kiedykolwiek usÅ‚yszaÅ‚em. Problem uzaleÅ¼nienia od Jetu staraÅ‚em siÄ™ rozwiÄ…zaÄ‡ od miesiÄ™cy. Niestety bezowocnie.}
+{216}{}{Ty takÅ¼e pracowaÅ‚eÅ› nad antidotum?}
+{217}{}{Tak. WÅ‚aÅ›nie po to byÅ‚a mi potrzebna prÃ³bka Jetu.}
 {218}{}{Tak... niestety bezowocnie.}
-{219}{}{Uzale¿niaj¹ce dzia³anie tego narkotyku nale¿y powstrzymaæ, zanim zdo³a siê on rozprzestrzeniæ w organizmie. Z t¹ informacj¹, jesteœmy w stanie wyprodukowaæ antidotum nawet dzisiaj! Zaczekaj chwilê.}
-{220}{}{Wspaniale! Dziêki, doktorze.}
-{221}{}{Ten m³ody cz³owiek? To on stworzy³ Jet?}
-{222}{}{Termin "cz³owiek" nie jest w tym przypadku najlepszy, ale to on wyprodukowa³ Jet. Przynajmniej tak twierdzi.}
-{223}{}{Tak, zupe³nie na to nie wygl¹da, prawda?}
+{219}{}{UzaleÅ¼niajÄ…ce dziaÅ‚anie tego narkotyku naleÅ¼y powstrzymaÄ‡, zanim zdoÅ‚a siÄ™ on rozprzestrzeniÄ‡ w organizmie. Z tÄ… informacjÄ…, jesteÅ›my w stanie wyprodukowaÄ‡ antidotum nawet dzisiaj! Zaczekaj chwilÄ™.}
+{220}{}{Wspaniale! DziÄ™ki, doktorze.}
+{221}{}{Ten mÅ‚ody czÅ‚owiek? To on stworzyÅ‚ Jet?}
+{222}{}{Termin "czÅ‚owiek" nie jest w tym przypadku najlepszy, ale to on wyprodukowaÅ‚ Jet. Przynajmniej tak twierdzi.}
+{223}{}{Tak, zupeÅ‚nie na to nie wyglÄ…da, prawda?}
 {224}{}{Myron, doktor Troy... doktor Troy, Myron.}
-{225}{}{Mia³bym kilka pytañ do tego m³odego cz³owieka...}
-{226}{}{Eee, oczywiœcie. Myœlê jednak, ¿e przed rozmow¹ powinieneœ za¿yæ parê aspiryn. Zaczekam tutaj.}
-{227}{}{Ale¿ proszê bardzo.}
-{228}{}{W porz¹dku. Zawo³aj, jakbyœ czegoœ potrzebowa³... na przyk³ad kija baseballowego.}
-{229}{}{Opary bramin? Niekonwencjonalny sposób na produkcje narkotyków, ale... hmmmmm. Móg³bym wzi¹æ kilka próbek krwi od bramin znajduj¹cych siê na Podmurzu... dziêki, przyjacielu.}
+{225}{}{MiaÅ‚bym kilka pytaÅ„ do tego mÅ‚odego czÅ‚owieka...}
+{226}{}{Eee, oczywiÅ›cie. MyÅ›lÄ™ jednak, Å¼e przed rozmowÄ… powinieneÅ› zaÅ¼yÄ‡ parÄ™ aspiryn. Zaczekam tutaj.}
+{227}{}{AleÅ¼ proszÄ™ bardzo.}
+{228}{}{W porzÄ…dku. ZawoÅ‚aj, jakbyÅ› czegoÅ› potrzebowaÅ‚... na przykÅ‚ad kija baseballowego.}
+{229}{}{Opary bramin? Niekonwencjonalny sposÃ³b na produkcje narkotykÃ³w, ale... hmmmmm. MÃ³gÅ‚bym wziÄ…Ä‡ kilka prÃ³bek krwi od bramin znajdujÄ…cych siÄ™ na Podmurzu... dziÄ™ki, przyjacielu.}
 {230}{}{Nie ma sprawy.}
 {231}{}{Jasne.}
-{232}{}{Mo¿esz tak¿e powiedzieæ temu ma³emu chuliganowi, ¿e marnuje swój wyj¹tkowy intelekt, na produkcjê narkotyków. Jego jêzyk i maniery tak¿e pozostawiaj¹ WIELE do ¿yczenia.}
-{233}{}{Powiedz mi coœ o tym.}
-{234}{}{Wyluzuj doktorku. Troszkê narkotyków jeszcze nikomu nie zaszkodzi³o. No, z wyj¹tkiem tych superstimpaków... i Wygrzewu... i Psycho. W³aœciwie niewa¿ne, pójdê ju¿.}
-{235}{}{Puszczê to mimo uszu.}
-{236}{}{Tak, Zap³acê ci tysi¹c dolarów za próbkê... i za twoje milczenie.}
-{237}{}{Akurat mam jedn¹ dawkê Jetu przy sobie.}
+{232}{}{MoÅ¼esz takÅ¼e powiedzieÄ‡ temu maÅ‚emu chuliganowi, Å¼e marnuje swÃ³j wyjÄ…tkowy intelekt, na produkcjÄ™ narkotykÃ³w. Jego jÄ™zyk i maniery takÅ¼e pozostawiajÄ… WIELE do Å¼yczenia.}
+{233}{}{Powiedz mi coÅ› o tym.}
+{234}{}{Wyluzuj doktorku. TroszkÄ™ narkotykÃ³w jeszcze nikomu nie zaszkodziÅ‚o. No, z wyjÄ…tkiem tych superstimpakÃ³w... i Wygrzewu... i Psycho. WÅ‚aÅ›ciwie niewaÅ¼ne, pÃ³jdÄ™ juÅ¼.}
+{235}{}{PuszczÄ™ to mimo uszu.}
+{236}{}{Tak, ZapÅ‚acÄ™ ci tysiÄ…c dolarÃ³w za prÃ³bkÄ™... i za twoje milczenie.}
+{237}{}{Akurat mam jednÄ… dawkÄ™ Jetu przy sobie.}
 {238}{}{Do czego potrzebujesz Jetu?}
-{239}{}{Brzmi nieŸle. Wchodzê w to.}
+{239}{}{Brzmi nieÅºle. WchodzÄ™ w to.}
 {240}{}{Nie interesuje mnie to.}
-{241}{}{To by³oby bardzo... pomocne, dla mnie i dla mojej pracy, gdyby tylko uda³o mi siê pozyskaæ próbkê tego narkotyku. P³acê tysi¹c dolarów za to, ¿e mi go dostarczysz. Bardzo wa¿ne jest, aby ta transakcja pozosta³a w tajemnicy.}
+{241}{}{To byÅ‚oby bardzo... pomocne, dla mnie i dla mojej pracy, gdyby tylko udaÅ‚o mi siÄ™ pozyskaÄ‡ prÃ³bkÄ™ tego narkotyku. PÅ‚acÄ™ tysiÄ…c dolarÃ³w za to, Å¼e mi go dostarczysz. Bardzo waÅ¼ne jest, aby ta transakcja pozostaÅ‚a w tajemnicy.}
 {242}{}{Eeee... tajemnica?}
-{243}{}{Naprawdê? Ile jesteœ w stanie zap³aciæ w zamian za moje milczenie? Taka rzecz mo¿e siê ³atwo wydaæ.}
-{244}{}{Akurat mam jedn¹ dawkê Jetu przy sobie.}
+{243}{}{NaprawdÄ™? Ile jesteÅ› w stanie zapÅ‚aciÄ‡ w zamian za moje milczenie? Taka rzecz moÅ¼e siÄ™ Å‚atwo wydaÄ‡.}
+{244}{}{Akurat mam jednÄ… dawkÄ™ Jetu przy sobie.}
 {245}{}{Do czego potrzebujesz Jetu?}
-{246}{}{Nie ma sprawy. Mo¿esz na mnie liczyæ.}
+{246}{}{Nie ma sprawy. MoÅ¼esz na mnie liczyÄ‡.}
 {247}{}{Nie interesuje mnie to.}
-{248}{}{Ach tak... tajemnica. Wiêc ma to pozostaæ miedzy mn¹ a tob¹... nikim wiêcej.}
-{249}{}{Akurat mam jedn¹ dawkê Jetu przy sobie.}
+{248}{}{Ach tak... tajemnica. WiÄ™c ma to pozostaÄ‡ miedzy mnÄ… a tobÄ…... nikim wiÄ™cej.}
+{249}{}{Akurat mam jednÄ… dawkÄ™ Jetu przy sobie.}
 {250}{}{Do czego potrzebujesz Jetu?}
-{251}{}{Co ma mnie powstrzymaæ, przed wydaniem ciebie. Choæby za chwilê?}
-{252}{}{Nie ma sprawy. Zatrzymam to w "tajemnicy". Eeee, jakby nie by³o rozmowy.}
+{251}{}{Co ma mnie powstrzymaÄ‡, przed wydaniem ciebie. ChoÄ‡by za chwilÄ™?}
+{252}{}{Nie ma sprawy. Zatrzymam to w "tajemnicy". Eeee, jakby nie byÅ‚o rozmowy.}
 {253}{}{Nie interesuje mnie to.}
-{254}{}{To nie twój problem. Zdob¹dŸ próbkê Jetu. Dostarcz mi j¹, a ja zap³acê ci tysi¹c dolarów... w te pieni¹dze wliczone jest tak¿e twoje milczenie.}
-{255}{}{Có¿, akurat posiadam jedn¹ dawkê Jetu.}
-{256}{}{Co ma mnie powstrzymaæ, przed wydaniem ciebie. Choæby za chwilê?}
-{257}{}{Nie ma sprawy. Mo¿esz na mnie liczyæ.}
+{254}{}{To nie twÃ³j problem. ZdobÄ…dÅº prÃ³bkÄ™ Jetu. Dostarcz mi jÄ…, a ja zapÅ‚acÄ™ ci tysiÄ…c dolarÃ³w... w te pieniÄ…dze wliczone jest takÅ¼e twoje milczenie.}
+{255}{}{CÃ³Å¼, akurat posiadam jednÄ… dawkÄ™ Jetu.}
+{256}{}{Co ma mnie powstrzymaÄ‡, przed wydaniem ciebie. ChoÄ‡by za chwilÄ™?}
+{257}{}{Nie ma sprawy. MoÅ¼esz na mnie liczyÄ‡.}
 {258}{}{Nie interesuje mnie to.}
-{259}{}{Haa...? Nie zrobisz tego! Jak œmiesz mi groziæ!}
-{260}{}{Jeeej! Uspokój siê, To tylko pytanie. Bez paniki. Grunt to spokój, przynajmniej tak mawia³ "lataj¹cy Czestmir".}
-{261}{}{Mogê i zrobiê to. Ile jest dla ciebie warte twoje obywatelstwo. ¯ycie poza Kryptopolis bywa ciê¿kie...}
-{262}{}{By³em g³upcem, ¿e ci zaufa³em! Niech ci bêdzie... Ile chcesz?}
-{263}{}{Piêæset co miesi¹c, i fakt twojego szmuglowania narkotyków, pozostanie miedzy nami.}
-{264}{}{Tysi¹c w ka¿dy pierwszy dzieñ miesi¹ca, i zatrzymasz swoje obywatelstwo.}
-{265}{}{Dwa tysi¹ce co miesi¹c, i otrzymasz moje milczenie.}
-{266}{}{Oszala³eœ?! Nie staæ mnie na taki wydatek!}
-{267}{}{W porz¹dku, ju¿ w porz¹dku. Niech bêdzie piêæset i nie bêdziemy musieli mieszaæ do tego Pierwszego Obywatela.}
-{268}{}{Wiêc lepiej ZNAJD sposób, aby ciê by³o staæ, albo bêdziesz zmuszony ¿yæ jak œmieæ na Podmurzu. Tak jak wszyscy inni bez obywatelstwa.}
-{269}{}{Niech bêdzie. Oto twoja pierwsza wyp³ata. Mam nadziejê, ¿e siê ni¹ ud³awisz.}
-{270}{}{To by³a przyjemnoœæ doktorze. B¹dŸ pewien, ¿e jeszcze tu wrócê.}
-{271}{}{Lepiej uwa¿aj na s³owa, albo mo¿esz staæ siê kolejnym pacjentem Auto-doktora... Zrozumia³eœ?}
-{272}{}{Tu NIE ma z czego ¿artowaæ, to bardzo powa¿na sprawa. Zap³acê ci tysi¹c dolarów za Jet, i twoje milczenie... i ¿adnych pytañ. Chcesz tê robotê?}
-{273}{}{Có¿, co ty mo¿esz wiedzieæ? Mam jedn¹ dawkê Jetu przy sobie.}
-{274}{}{Co ma mnie powstrzymaæ, przed wydaniem ciebie. Choæby za chwilê?}
-{275}{}{Pewnie, zrobiê tak.}
+{259}{}{Haa...? Nie zrobisz tego! Jak Å›miesz mi groziÄ‡!}
+{260}{}{Jeeej! UspokÃ³j siÄ™, To tylko pytanie. Bez paniki. Grunt to spokÃ³j, przynajmniej tak mawiaÅ‚ "latajÄ…cy Czestmir".}
+{261}{}{MogÄ™ i zrobiÄ™ to. Ile jest dla ciebie warte twoje obywatelstwo. Å»ycie poza Kryptopolis bywa ciÄ™Å¼kie...}
+{262}{}{ByÅ‚em gÅ‚upcem, Å¼e ci zaufaÅ‚em! Niech ci bÄ™dzie... Ile chcesz?}
+{263}{}{PiÄ™Ä‡set co miesiÄ…c, i fakt twojego szmuglowania narkotykÃ³w, pozostanie miedzy nami.}
+{264}{}{TysiÄ…c w kaÅ¼dy pierwszy dzieÅ„ miesiÄ…ca, i zatrzymasz swoje obywatelstwo.}
+{265}{}{Dwa tysiÄ…ce co miesiÄ…c, i otrzymasz moje milczenie.}
+{266}{}{OszalaÅ‚eÅ›?! Nie staÄ‡ mnie na taki wydatek!}
+{267}{}{W porzÄ…dku, juÅ¼ w porzÄ…dku. Niech bÄ™dzie piÄ™Ä‡set i nie bÄ™dziemy musieli mieszaÄ‡ do tego Pierwszego Obywatela.}
+{268}{}{WiÄ™c lepiej ZNAJDÅ¹ sposÃ³b, aby ciÄ™ byÅ‚o staÄ‡, albo bÄ™dziesz zmuszony Å¼yÄ‡ jak Å›mieÄ‡ na Podmurzu. Tak jak wszyscy inni bez obywatelstwa.}
+{269}{}{Niech bÄ™dzie. Oto twoja pierwsza wypÅ‚ata. Mam nadziejÄ™, Å¼e siÄ™ niÄ… udÅ‚awisz.}
+{270}{}{To byÅ‚a przyjemnoÅ›Ä‡ doktorze. BÄ…dÅº pewien, Å¼e jeszcze tu wrÃ³cÄ™.}
+{271}{}{Lepiej uwaÅ¼aj na sÅ‚owa, albo moÅ¼esz staÄ‡ siÄ™ kolejnym pacjentem Auto-doktora... ZrozumiaÅ‚eÅ›?}
+{272}{}{Tu NIE ma z czego Å¼artowaÄ‡, to bardzo powaÅ¼na sprawa. ZapÅ‚acÄ™ ci tysiÄ…c dolarÃ³w za Jet, i twoje milczenie... i Å¼adnych pytaÅ„. Chcesz tÄ™ robotÄ™?}
+{273}{}{CÃ³Å¼, co ty moÅ¼esz wiedzieÄ‡? Mam jednÄ… dawkÄ™ Jetu przy sobie.}
+{274}{}{Co ma mnie powstrzymaÄ‡, przed wydaniem ciebie. ChoÄ‡by za chwilÄ™?}
+{275}{}{Pewnie, zrobiÄ™ tak.}
 {276}{}{Nie interesuje mnie to.}
 {277}{}{Zrobisz?}
-{278}{}{Wspaniale! Dziêki, przyjacielu... nawet nie wiesz jak jest to wa¿ne dla mojej pracy. Oto twoja zap³ata. Jak obieca³em.}
-{279}{}{Wspaniale. Zanim jednak pójdê, ma kilka innych pytañ...}
-{280}{}{Wierz mi, nie s¹dzê abyœ chcia³ wdychaæ to... gówno.}
-{281}{}{Nie ma za co. Dziêki doktorze.}
-{282}{}{Witam kapitanie. W czym mogê ci pomóc?}
-{283}{}{Witam, Obywatelu. W czym mogê ci pomóc?}
-{284}{}{W czym mogê ci pomóc?}
+{278}{}{Wspaniale! DziÄ™ki, przyjacielu... nawet nie wiesz jak jest to waÅ¼ne dla mojej pracy. Oto twoja zapÅ‚ata. Jak obiecaÅ‚em.}
+{279}{}{Wspaniale. Zanim jednak pÃ³jdÄ™, ma kilka innych pytaÅ„...}
+{280}{}{Wierz mi, nie sÄ…dzÄ™ abyÅ› chciaÅ‚ wdychaÄ‡ to... gÃ³wno.}
+{281}{}{Nie ma za co. DziÄ™ki doktorze.}
+{282}{}{Witam kapitanie. W czym mogÄ™ ci pomÃ³c?}
+{283}{}{Witam, Obywatelu. W czym mogÄ™ ci pomÃ³c?}
+{284}{}{W czym mogÄ™ ci pomÃ³c?}
 {285}{}{Tak?}
-{286}{}{Ja mieæ kuku}
+{286}{}{Ja mieÄ‡ kuku}
 {287}{}{cipo-moc?}
-{288}{}{(OdejdŸ jakby nigdy nic)}
-{289}{}{Potrzebujê twojej medycznej ekspertyzy.}
-{290}{}{Wspomnia³eœ wczeœniej, ¿e jesteœ doktorem... Ja tak¿e mam trochê wspólnego z medycznym fachem.}
-{291}{}{Czy macie na sk³adzie substancjê blokuj¹c¹ endorfinê?}
-{292}{}{Mam Jet, o który prosi³eœ.}
-{293}{}{Interesuje mnie ta robota, o której wspomina³eœ... jeœli jest jeszcze aktualna.}
-{294}{}{Co do tego Jetu... Myœlê, ¿e inni Obywatele tak¿e chcieliby siê o tym dowiedzieæ.}
+{288}{}{(OdejdÅº jakby nigdy nic)}
+{289}{}{PotrzebujÄ™ twojej medycznej ekspertyzy.}
+{290}{}{WspomniaÅ‚eÅ› wczeÅ›niej, Å¼e jesteÅ› doktorem... Ja takÅ¼e mam trochÄ™ wspÃ³lnego z medycznym fachem.}
+{291}{}{Czy macie na skÅ‚adzie substancjÄ™ blokujÄ…cÄ… endorfinÄ™?}
+{292}{}{Mam Jet, o ktÃ³ry prosiÅ‚eÅ›.}
+{293}{}{Interesuje mnie ta robota, o ktÃ³rej wspominaÅ‚eÅ›... jeÅ›li jest jeszcze aktualna.}
+{294}{}{Co do tego Jetu... MyÅ›lÄ™, Å¼e inni Obywatele takÅ¼e chcieliby siÄ™ o tym dowiedzieÄ‡.}
 {295}{}{Dzisiaj nic doktorze. Do zobaczenia.}
-{296}{}{Oczywiœcie. Przepraszam... ale up³ynê³o trochê czasu od ostatniego takiego zabiegu. Wiêkszoœæ Obywateli przesz³o go wiele lat temu. Pozwól tylko, ¿e przygotuje Auto-doktora i...}
+{296}{}{OczywiÅ›cie. Przepraszam... ale upÅ‚ynÄ™Å‚o trochÄ™ czasu od ostatniego takiego zabiegu. WiÄ™kszoÅ›Ä‡ Obywateli przeszÅ‚o go wiele lat temu. PozwÃ³l tylko, Å¼e przygotuje Auto-doktora i...}
 {297}{}{Dobrze.}
-{298}{}{Skoñczone. S³owo przestrogi: Ta szczepionka nie uodparnia ciê na trucizny i promieniowanie, tylko wzmacnia twoj¹ naturaln¹ odpornoœæ.}
-{299}{}{Bardzo dziêkujê. Mam jeszcze kilka pytañ...}
-{300}{}{Wspaniale. Dziêki doktorze.}
+{298}{}{SkoÅ„czone. SÅ‚owo przestrogi: Ta szczepionka nie uodparnia ciÄ™ na trucizny i promieniowanie, tylko wzmacnia twojÄ… naturalnÄ… odpornoÅ›Ä‡.}
+{299}{}{Bardzo dziÄ™kujÄ™. Mam jeszcze kilka pytaÅ„...}
+{300}{}{Wspaniale. DziÄ™ki doktorze.}
 {301}{}{A... to ty. Czego chcesz?}
-{302}{}{Potrzebujê leczenia.}
-{303}{}{Coœ mnie uk¹si³o, to chyba zaka¿enie.}
-{304}{}{Napromieniowa³o mnie.}
-{305}{}{Jestem tu po moje pieni¹dze. Mam nadziejê, ¿e nie zapomnia³eœ i jesteœ wyp³acalny?}
-{306}{}{Jestem tu, aby przypomnieæ ci, ¿e ju¿ nied³ugo pierwszy. Mam nadziejê, ¿e bêdziesz mia³ pieni¹dze.}
+{302}{}{PotrzebujÄ™ leczenia.}
+{303}{}{CoÅ› mnie ukÄ…siÅ‚o, to chyba zakaÅ¼enie.}
+{304}{}{NapromieniowaÅ‚o mnie.}
+{305}{}{Jestem tu po moje pieniÄ…dze. Mam nadziejÄ™, Å¼e nie zapomniaÅ‚eÅ› i jesteÅ› wypÅ‚acalny?}
+{306}{}{Jestem tu, aby przypomnieÄ‡ ci, Å¼e juÅ¼ niedÅ‚ugo pierwszy. Mam nadziejÄ™, Å¼e bÄ™dziesz miaÅ‚ pieniÄ…dze.}
 {307}{}{Nic... dzisiaj.}
-{308}{}{Nie zapomnia³em. Oto twoje pieni¹dze, bierz je i wynoœ siê.}
-{309}{}{Chwileczkê... Potrzebujê tak¿e leczenia.}
-{310}{}{Chwileczkê... Chyba mam zaka¿enie. Musisz mnie wyleczyæ.}
-{311}{}{Chwileczkê... Napromieniowa³o mnie. Zrób coœ z tym.}
-{312}{}{Mi³o robiæ z tob¹ interesy. Do zobaczenia wkrótce, doktorku.}
-{313}{}{Nie zapomnia³em. Pieni¹dze bêd¹, a teraz wyjdŸ.}
-{314}{}{Chwileczkê... Potrzebujê tak¿e leczenia.}
-{315}{}{Chwileczkê... Chyba mam zaka¿enie. Musisz mnie wyleczyæ.}
-{316}{}{Chwileczkê... Napromieniowa³o mnie. Zrób coœ z tym.}
-{317}{}{To wszystko, co chcia³em us³yszeæ. Do zobaczenia wkrótce, doktorku.}
-{318}{}{Rozumiem. Muszê sprawdziæ twoje funkcje ¿yciowe... pochyl siê, a ja pod³¹czê ciê do Auto-doktora...}
-{320}{}{Hmmmm. Wygl¹da na to, ¿e podczas badania Auto-doktor omy³kowo wstrzykn¹³ ci 3-etylen sodu.}
-{321}{}{¯e co?! Co to ma znaczyæ?!}
-{322}{}{To znaczy, ¿e zosta³o ci mniej ni¿ dziesiêæ sekund ¿ycia. Twoja g³upota jest wyj¹tkowa. ¯eby kogoœ szanta¿owaæ, a potem z³o¿yæ ¿ycie w jego rêkach. Zadziwiaj¹cy przypadek. ¯egnaj... a w³aœnie, czy tañczy³eœ kiedyœ z diab³em przy œwietle ksiê¿yca?}
-{323}{}{¯eby teraz siê, kurwa, amunicja skoñczy³a! Oojj, bo zaraz coœ rozpierdolê! A ciebie doktorku dostanê jak tylko za³adujê stan gry.}
-{324}{}{A co z przysiêg¹ Hipokratesa?! Hej! Ja...}
-{325}{}{Dostanê ciê nawet zza grobu. Przysiêgam ci to.}
-{326}{}{Jak siê tutaj dosta³eœ? Obawiam siê, ¿e musisz st¹d wyjœæ. Poczekaj chwilê, a¿ sprowadzê stra¿e, które odprowadz¹ ciê na zewn¹trz.}
-{327}{}{MOJA NIE IŒÆ!}
-{328}{}{(Nie ruszaj siê st¹d przez chwilê)}
-{329}{}{Mam dobr¹ wiadomoœæ. Jestem w stanie stworzyæ antidotum z próbki Jetu, który od ciebie dosta³em.}
-{330}{}{Mam dobr¹ wiadomoœæ. Jestem w stanie stworzyæ antidotum z próbki Jetu, który od ciebie dosta³em.}
-{331}{}{Raz wziête, likwiduje objawy uzale¿nienia Jetem... Znika tak¿e stan euforii, który wystêpuje po za¿yciu narkotyku.}
-{332}{}{Wspaniale. Mogê trochê dostaæ?}
-{333}{}{Mogê dostaæ próbkê antidotum? Myœlê, ¿e bardzo przyda³aby siê ludziom w Redding.}
-{334}{}{Oczywiœcie. Oto ona. Zabierz j¹ do mojego kolegi, doktora Johnsona z Redding. Powinien dopilnowaæ, aby antidotum otrzymali ci, którzy go naprawdê potrzebuj¹.}
-{335}{}{Oczywiœcie - oto ona. Jestem œwiadom, ¿e uzale¿nienie od Jetu jest w Redding szczególnie powszechne. Zabierz antidotum do tamtejszego lekarza, doktora Johnsona. On powinien dopilnowaæ, aby otrzymali je ci, którzy go naprawdê potrzebuj¹.}
-{336}{}{Œwietnie! Mo¿esz byæ pewien, ¿e jest bezpieczna. Mam jeszcze do ciebie kilka pytañ...}
-{337}{}{Dziêki za antidotum.}
-{338}{}{Œwietnie! Wróæ, kiedy zdobêdziesz próbkê Jetu, wtedy dostaniesz zap³atê.}
-{339}{}{Umowa stoi. Mam jeszcze kilka pytañ...}
-{340}{}{Wrócê, kiedy zdobêdê próbkê Jetu.}
-{341}{}{Tak, s³ysza³em o tym. To bardzo inwazyjny zabieg. Pancerz podskórny i membrany radiacyjne s¹ wszczepiane w uk³ad kostny, aby jak najlepiej chroniæ przed fizycznym urazem i ciep³em. Czemu o to pytasz?}
-{342}{}{Tak, wspomina³eœ mi ju¿ wczeœniej o implantach. Przykro mi, ale nie przeprowadzê takiego zabiegu. Jest on nieodwracalny, i czyni wiêcej szkody ni¿ po¿ytku.}
-{343}{}{Trafi³em na to pojêcie w medycznej bazie danych Kryptopolis. Móg³byœ przeprowadziæ taki zabieg na mnie?}
-{344}{}{Móg³byœ przeprowadziæ tak¹ operacjê? Nie mogê sam wykonaæ zabiegu.}
-{345}{}{Dobrze. Mam jeszcze kilka pytañ...}
-{346}{}{Nie ma sprawy, tylko pyta³em.}
-{347}{}{Nie ma sprawy. Mo¿e znajdê kogoœ innego, kto móg³by przeprowadziæ zabieg.}
-{348}{}{Nie, przykro mi... Jak mówi³em to zbyt inwazyjny zabieg, rekonwalescencja po nim jest d³uga i bardzo ciê¿ka. Poza tym u pacjentów poddanych takim operacjom, czêsto wystêpowa³y deformacje szkieletu.}
-{349}{}{Jestem gotów podj¹æ takie ryzyko. Na pewno nie zgodzisz siê na przeprowadzenie zabiegu?}
-{350}{}{Móg³bym siê zgodziæ na tak¹ operacjê tylko w krytycznym przypadku, nie dla czyjejœ wygody czy te¿ kaprysu. Ryzyko jest zbyt du¿e, te implanty nie daj¹ wiêkszej ochrony ni¿ standardowy pancerz czy zbroja.}
-{351}{}{Hmmm. Niech bêdzie, mam jeszcze kilka innych pytañ...}
-{352}{}{Có¿, dziêki za informacje.}
-{353}{}{Dziêki z informacje. Mo¿e znajdê kogoœ innego, kto móg³by przeprowadziæ zabieg.}
-{354}{}{Przykro mi, ale zabiegi s¹ tylko dla Obywateli, lista wszystkich pacjentów jest zgromadzona w bazie danych... [szeptem] Jednak¿e stimpaki znajduj¹ce siê w szafkach magazynu na ni¿szym poziomie, mog³yby siê zgubiæ... U¿yjesz ich w dobrym celu, prawda?}
-{355}{}{Hmmm. Niech bêdzie, mam jeszcze kilka innych pytañ...}
-{356}{}{Dziêki. Pójdê ich poszukaæ.}
-{357}{}{Oczywiœcie kapitanie. Z chêci¹ s³u¿ê pomoc¹ tobie oraz twoim przyjacio³om.}
-{358}{}{Oczywiœcie kapitanie. Zobaczê co mogê dla was zrobiæ.}
-{359}{}{Muszê tylko sprawdziæ twoje funkcje ¿yciowe... pochyl siê, a ja pod³¹czê ciê do Auto-doktora...}
-{361}{}{Mój Bo¿e, twój mutanci przyjaciel, nosi w sobie ma³y sk³ad amunicji. A¿ dziw, ¿e nie dosta³ zaka¿enia... Wydaje mi siê, ¿e ju¿ wyj¹³em z niego ca³e ¿elastwo. Ooo, i po wszystkim.}
-{362}{}{To powinno za³atwiæ sprawê. Daj mi znaæ jeœli bêdziesz jeszcze potrzebowaæ leczenia.}
-{363}{}{Ja tak¿e potrzebujê leczenia.}
-{364}{}{Potrzebujê czyjejœ pomocy... napromieniowa³o mnie.}
-{365}{}{Zosta³em zaka¿ony. Mo¿esz mi pomóc?}
-{366}{}{Dziêki doktorze. Swoj¹ drog¹, s³ysza³eœ kiedyœ o implantach skórnych?}
-{367}{}{Wielkie dziêki doktorze. Mam jeszcze do ciebie kilka pytañ...}
-{368}{}{Pewnie nied³ugo tu wrócê. Narazie dziêki doktorze.}
-{369}{}{Oczywiœcie, Obywatelu. W czym le¿y twój problem?}
-{370}{}{Oczywiœcie, Obywatelu. W czym le¿y twój problem?}
-{371}{}{Oczywiœcie. W czym le¿y twój problem?}
-{372}{}{Potrzebujê leczenia.}
-{373}{}{Napromieniowa³o mnie.}
-{374}{}{Coœ mnie uk¹si³o, to chyba zaka¿enie.}
-{375}{}{Czy mo¿esz wyleczyæ mojego przyjaciela?}
-{376}{}{Czy mo¿esz wyleczyæ moich przyjació³?}
-{377}{}{Czy s³ysza³eœ cokolwiek o skórnych implantach?}
-{378}{}{Niewa¿ne. Mam kilka innych pytañ...}
-{379}{}{Ju¿ nic, dziêki doktorze.}
-{380}{}{Dobrze. Muszê tylko sprawdziæ twoje funkcje ¿yciowe... pochyl siê, a ja pod³¹czê ciê do Auto-doktora...}
-{382}{}{To powinno za³ataæ twój problem. I jak siê czujesz?}
-{383}{}{Wspaniale. Przy okazji, móg³byœ tak¿e wyleczyæ moich przyjació³?}
-{384}{}{Wspaniale. Przy okazji, móg³byœ tak¿e wyleczyæ moich przyjació³?}
-{385}{}{Czy s³ysza³eœ cokolwiek o skórnych implantach?}
-{386}{}{O wiele lepiej. Mam jeszcze kilka pytañ...}
-{387}{}{Wspaniale. Dziêki doktorze.}
-{388}{}{Dobrze. Muszê tylko sprawdziæ twoje funkcje ¿yciowe... pochyl siê, a ja pod³¹czê ciê do Auto-doktora...}
-{390}{}{To powinno za³ataæ twój problem. I jak siê czujesz?}
-{391}{}{O wiele lepiej, dziêki. Póki pamiêtam, kiedy mnie oprowadza³eœ po ambulatorium, wspomina³eœ coœ o szczepionkach daj¹cych odpornoœæ na zatrucia i napromieniowanie. Móg³bym tak¹ dostaæ... zanim znów wejdê gdzie nie potrzeba?}
-{392}{}{Wspaniale. Przy okazji, móg³byœ tak¿e wyleczyæ moich przyjació³?}
-{393}{}{Wspaniale. Przy okazji, móg³byœ tak¿e wyleczyæ moich przyjació³?}
-{394}{}{Czy s³ysza³eœ cokolwiek o skórnych implantach?}
-{395}{}{O wiele lepiej. Mam jeszcze kilka pytañ...}
-{396}{}{Wspaniale. Dziêki doktorze.}
-{397}{}{Stra¿!}
+{308}{}{Nie zapomniaÅ‚em. Oto twoje pieniÄ…dze, bierz je i wynoÅ› siÄ™.}
+{309}{}{ChwileczkÄ™... PotrzebujÄ™ takÅ¼e leczenia.}
+{310}{}{ChwileczkÄ™... Chyba mam zakaÅ¼enie. Musisz mnie wyleczyÄ‡.}
+{311}{}{ChwileczkÄ™... NapromieniowaÅ‚o mnie. ZrÃ³b coÅ› z tym.}
+{312}{}{MiÅ‚o robiÄ‡ z tobÄ… interesy. Do zobaczenia wkrÃ³tce, doktorku.}
+{313}{}{Nie zapomniaÅ‚em. PieniÄ…dze bÄ™dÄ…, a teraz wyjdÅº.}
+{314}{}{ChwileczkÄ™... PotrzebujÄ™ takÅ¼e leczenia.}
+{315}{}{ChwileczkÄ™... Chyba mam zakaÅ¼enie. Musisz mnie wyleczyÄ‡.}
+{316}{}{ChwileczkÄ™... NapromieniowaÅ‚o mnie. ZrÃ³b coÅ› z tym.}
+{317}{}{To wszystko, co chciaÅ‚em usÅ‚yszeÄ‡. Do zobaczenia wkrÃ³tce, doktorku.}
+{318}{}{Rozumiem. MuszÄ™ sprawdziÄ‡ twoje funkcje Å¼yciowe... pochyl siÄ™, a ja podÅ‚Ä…czÄ™ ciÄ™ do Auto-doktora...}
+{320}{}{Hmmmm. WyglÄ…da na to, Å¼e podczas badania Auto-doktor omyÅ‚kowo wstrzyknÄ…Å‚ ci 3-etylen sodu.}
+{321}{}{Å»e co?! Co to ma znaczyÄ‡?!}
+{322}{}{To znaczy, Å¼e zostaÅ‚o ci mniej niÅ¼ dziesiÄ™Ä‡ sekund Å¼ycia. Twoja gÅ‚upota jest wyjÄ…tkowa. Å»eby kogoÅ› szantaÅ¼owaÄ‡, a potem zÅ‚oÅ¼yÄ‡ Å¼ycie w jego rÄ™kach. ZadziwiajÄ…cy przypadek. Å»egnaj... a wÅ‚aÅ›nie, czy taÅ„czyÅ‚eÅ› kiedyÅ› z diabÅ‚em przy Å›wietle ksiÄ™Å¼yca?}
+{323}{}{Å»eby teraz siÄ™, kurwa, amunicja skoÅ„czyÅ‚a! Oojj, bo zaraz coÅ› rozpierdolÄ™! A ciebie doktorku dostanÄ™ jak tylko zaÅ‚adujÄ™ stan gry.}
+{324}{}{A co z przysiÄ™gÄ… Hipokratesa?! Hej! Ja...}
+{325}{}{DostanÄ™ ciÄ™ nawet zza grobu. PrzysiÄ™gam ci to.}
+{326}{}{Jak siÄ™ tutaj dostaÅ‚eÅ›? Obawiam siÄ™, Å¼e musisz stÄ…d wyjÅ›Ä‡. Poczekaj chwilÄ™, aÅ¼ sprowadzÄ™ straÅ¼e, ktÃ³re odprowadzÄ… ciÄ™ na zewnÄ…trz.}
+{327}{}{MOJA NIE IÅšÄ†!}
+{328}{}{(Nie ruszaj siÄ™ stÄ…d przez chwilÄ™)}
+{329}{}{Mam dobrÄ… wiadomoÅ›Ä‡. Jestem w stanie stworzyÄ‡ antidotum z prÃ³bki Jetu, ktÃ³ry od ciebie dostaÅ‚em.}
+{330}{}{Mam dobrÄ… wiadomoÅ›Ä‡. Jestem w stanie stworzyÄ‡ antidotum z prÃ³bki Jetu, ktÃ³ry od ciebie dostaÅ‚em.}
+{331}{}{Raz wziÄ™te, likwiduje objawy uzaleÅ¼nienia Jetem... Znika takÅ¼e stan euforii, ktÃ³ry wystÄ™puje po zaÅ¼yciu narkotyku.}
+{332}{}{Wspaniale. MogÄ™ trochÄ™ dostaÄ‡?}
+{333}{}{MogÄ™ dostaÄ‡ prÃ³bkÄ™ antidotum? MyÅ›lÄ™, Å¼e bardzo przydaÅ‚aby siÄ™ ludziom w Redding.}
+{334}{}{OczywiÅ›cie. Oto ona. Zabierz jÄ… do mojego kolegi, doktora Johnsona z Redding. Powinien dopilnowaÄ‡, aby antidotum otrzymali ci, ktÃ³rzy go naprawdÄ™ potrzebujÄ….}
+{335}{}{OczywiÅ›cie - oto ona. Jestem Å›wiadom, Å¼e uzaleÅ¼nienie od Jetu jest w Redding szczegÃ³lnie powszechne. Zabierz antidotum do tamtejszego lekarza, doktora Johnsona. On powinien dopilnowaÄ‡, aby otrzymali je ci, ktÃ³rzy go naprawdÄ™ potrzebujÄ….}
+{336}{}{Åšwietnie! MoÅ¼esz byÄ‡ pewien, Å¼e jest bezpieczna. Mam jeszcze do ciebie kilka pytaÅ„...}
+{337}{}{DziÄ™ki za antidotum.}
+{338}{}{Åšwietnie! WrÃ³Ä‡, kiedy zdobÄ™dziesz prÃ³bkÄ™ Jetu, wtedy dostaniesz zapÅ‚atÄ™.}
+{339}{}{Umowa stoi. Mam jeszcze kilka pytaÅ„...}
+{340}{}{WrÃ³cÄ™, kiedy zdobÄ™dÄ™ prÃ³bkÄ™ Jetu.}
+{341}{}{Tak, sÅ‚yszaÅ‚em o tym. To bardzo inwazyjny zabieg. Pancerz podskÃ³rny i membrany radiacyjne sÄ… wszczepiane w ukÅ‚ad kostny, aby jak najlepiej chroniÄ‡ przed fizycznym urazem i ciepÅ‚em. Czemu o to pytasz?}
+{342}{}{Tak, wspominaÅ‚eÅ› mi juÅ¼ wczeÅ›niej o implantach. Przykro mi, ale nie przeprowadzÄ™ takiego zabiegu. Jest on nieodwracalny, i czyni wiÄ™cej szkody niÅ¼ poÅ¼ytku.}
+{343}{}{TrafiÅ‚em na to pojÄ™cie w medycznej bazie danych Kryptopolis. MÃ³gÅ‚byÅ› przeprowadziÄ‡ taki zabieg na mnie?}
+{344}{}{MÃ³gÅ‚byÅ› przeprowadziÄ‡ takÄ… operacjÄ™? Nie mogÄ™ sam wykonaÄ‡ zabiegu.}
+{345}{}{Dobrze. Mam jeszcze kilka pytaÅ„...}
+{346}{}{Nie ma sprawy, tylko pytaÅ‚em.}
+{347}{}{Nie ma sprawy. MoÅ¼e znajdÄ™ kogoÅ› innego, kto mÃ³gÅ‚by przeprowadziÄ‡ zabieg.}
+{348}{}{Nie, przykro mi... Jak mÃ³wiÅ‚em to zbyt inwazyjny zabieg, rekonwalescencja po nim jest dÅ‚uga i bardzo ciÄ™Å¼ka. Poza tym u pacjentÃ³w poddanych takim operacjom, czÄ™sto wystÄ™powaÅ‚y deformacje szkieletu.}
+{349}{}{Jestem gotÃ³w podjÄ…Ä‡ takie ryzyko. Na pewno nie zgodzisz siÄ™ na przeprowadzenie zabiegu?}
+{350}{}{MÃ³gÅ‚bym siÄ™ zgodziÄ‡ na takÄ… operacjÄ™ tylko w krytycznym przypadku, nie dla czyjejÅ› wygody czy teÅ¼ kaprysu. Ryzyko jest zbyt duÅ¼e, te implanty nie dajÄ… wiÄ™kszej ochrony niÅ¼ standardowy pancerz czy zbroja.}
+{351}{}{Hmmm. Niech bÄ™dzie, mam jeszcze kilka innych pytaÅ„...}
+{352}{}{CÃ³Å¼, dziÄ™ki za informacje.}
+{353}{}{DziÄ™ki z informacje. MoÅ¼e znajdÄ™ kogoÅ› innego, kto mÃ³gÅ‚by przeprowadziÄ‡ zabieg.}
+{354}{}{Przykro mi, ale zabiegi sÄ… tylko dla Obywateli, lista wszystkich pacjentÃ³w jest zgromadzona w bazie danych... [szeptem] JednakÅ¼e stimpaki znajdujÄ…ce siÄ™ w szafkach magazynu na niÅ¼szym poziomie, mogÅ‚yby siÄ™ zgubiÄ‡... UÅ¼yjesz ich w dobrym celu, prawda?}
+{355}{}{Hmmm. Niech bÄ™dzie, mam jeszcze kilka innych pytaÅ„...}
+{356}{}{DziÄ™ki. PÃ³jdÄ™ ich poszukaÄ‡.}
+{357}{}{OczywiÅ›cie kapitanie. Z chÄ™ciÄ… sÅ‚uÅ¼Ä™ pomocÄ… tobie oraz twoim przyjacioÅ‚om.}
+{358}{}{OczywiÅ›cie kapitanie. ZobaczÄ™ co mogÄ™ dla was zrobiÄ‡.}
+{359}{}{MuszÄ™ tylko sprawdziÄ‡ twoje funkcje Å¼yciowe... pochyl siÄ™, a ja podÅ‚Ä…czÄ™ ciÄ™ do Auto-doktora...}
+{361}{}{MÃ³j BoÅ¼e, twÃ³j mutanci przyjaciel, nosi w sobie maÅ‚y skÅ‚ad amunicji. AÅ¼ dziw, Å¼e nie dostaÅ‚ zakaÅ¼enia... Wydaje mi siÄ™, Å¼e juÅ¼ wyjÄ…Å‚em z niego caÅ‚e Å¼elastwo. Ooo, i po wszystkim.}
+{362}{}{To powinno zaÅ‚atwiÄ‡ sprawÄ™. Daj mi znaÄ‡ jeÅ›li bÄ™dziesz jeszcze potrzebowaÄ‡ leczenia.}
+{363}{}{Ja takÅ¼e potrzebujÄ™ leczenia.}
+{364}{}{PotrzebujÄ™ czyjejÅ› pomocy... napromieniowaÅ‚o mnie.}
+{365}{}{ZostaÅ‚em zakaÅ¼ony. MoÅ¼esz mi pomÃ³c?}
+{366}{}{DziÄ™ki doktorze. SwojÄ… drogÄ…, sÅ‚yszaÅ‚eÅ› kiedyÅ› o implantach skÃ³rnych?}
+{367}{}{Wielkie dziÄ™ki doktorze. Mam jeszcze do ciebie kilka pytaÅ„...}
+{368}{}{Pewnie niedÅ‚ugo tu wrÃ³cÄ™. Narazie dziÄ™ki doktorze.}
+{369}{}{OczywiÅ›cie, Obywatelu. W czym leÅ¼y twÃ³j problem?}
+{370}{}{OczywiÅ›cie, Obywatelu. W czym leÅ¼y twÃ³j problem?}
+{371}{}{OczywiÅ›cie. W czym leÅ¼y twÃ³j problem?}
+{372}{}{PotrzebujÄ™ leczenia.}
+{373}{}{NapromieniowaÅ‚o mnie.}
+{374}{}{CoÅ› mnie ukÄ…siÅ‚o, to chyba zakaÅ¼enie.}
+{375}{}{Czy moÅ¼esz wyleczyÄ‡ mojego przyjaciela?}
+{376}{}{Czy moÅ¼esz wyleczyÄ‡ moich przyjaciÃ³Å‚?}
+{377}{}{Czy sÅ‚yszaÅ‚eÅ› cokolwiek o skÃ³rnych implantach?}
+{378}{}{NiewaÅ¼ne. Mam kilka innych pytaÅ„...}
+{379}{}{JuÅ¼ nic, dziÄ™ki doktorze.}
+{380}{}{Dobrze. MuszÄ™ tylko sprawdziÄ‡ twoje funkcje Å¼yciowe... pochyl siÄ™, a ja podÅ‚Ä…czÄ™ ciÄ™ do Auto-doktora...}
+{382}{}{To powinno zaÅ‚ataÄ‡ twÃ³j problem. I jak siÄ™ czujesz?}
+{383}{}{Wspaniale. Przy okazji, mÃ³gÅ‚byÅ› takÅ¼e wyleczyÄ‡ moich przyjaciÃ³Å‚?}
+{384}{}{Wspaniale. Przy okazji, mÃ³gÅ‚byÅ› takÅ¼e wyleczyÄ‡ moich przyjaciÃ³Å‚?}
+{385}{}{Czy sÅ‚yszaÅ‚eÅ› cokolwiek o skÃ³rnych implantach?}
+{386}{}{O wiele lepiej. Mam jeszcze kilka pytaÅ„...}
+{387}{}{Wspaniale. DziÄ™ki doktorze.}
+{388}{}{Dobrze. MuszÄ™ tylko sprawdziÄ‡ twoje funkcje Å¼yciowe... pochyl siÄ™, a ja podÅ‚Ä…czÄ™ ciÄ™ do Auto-doktora...}
+{390}{}{To powinno zaÅ‚ataÄ‡ twÃ³j problem. I jak siÄ™ czujesz?}
+{391}{}{O wiele lepiej, dziÄ™ki. PÃ³ki pamiÄ™tam, kiedy mnie oprowadzaÅ‚eÅ› po ambulatorium, wspominaÅ‚eÅ› coÅ› o szczepionkach dajÄ…cych odpornoÅ›Ä‡ na zatrucia i napromieniowanie. MÃ³gÅ‚bym takÄ… dostaÄ‡... zanim znÃ³w wejdÄ™ gdzie nie potrzeba?}
+{392}{}{Wspaniale. Przy okazji, mÃ³gÅ‚byÅ› takÅ¼e wyleczyÄ‡ moich przyjaciÃ³Å‚?}
+{393}{}{Wspaniale. Przy okazji, mÃ³gÅ‚byÅ› takÅ¼e wyleczyÄ‡ moich przyjaciÃ³Å‚?}
+{394}{}{Czy sÅ‚yszaÅ‚eÅ› cokolwiek o skÃ³rnych implantach?}
+{395}{}{O wiele lepiej. Mam jeszcze kilka pytaÅ„...}
+{396}{}{Wspaniale. DziÄ™ki doktorze.}
+{397}{}{StraÅ¼!}
 {398}{}{Zzzzzzz.}
-{399}{}{Wyjaœniasz dr Troyowi proces wytwarzania Jetu.}
+{399}{}{WyjaÅ›niasz dr Troyowi proces wytwarzania Jetu.}

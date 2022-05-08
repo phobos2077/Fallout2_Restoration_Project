@@ -1,16 +1,16 @@
-{100}{}{Você vê um spammer com aspecto patético.}
-{110}{}{Você vê absolutamente nada de interesse.}
-{120}{}{Será que vai haver uma versão para Mac?}
+{100}{}{VocÃª vÃª um spammer com aspecto patÃ©tico.}
+{110}{}{VocÃª vÃª absolutamente nada de interesse.}
+{120}{}{SerÃ¡ que vai haver uma versÃ£o para Mac?}
 {121}{}{Eu quero multi-jogador!}
-{122}{}{Eu odeio todos vocês!}
+{122}{}{Eu odeio todos vocÃªs!}
 {123}{}{Ahhh!}
-{124}{}{Você não pode me machucar!}
-{125}{}{Eu sou o Grim Reaper, você não pode me matar. Não sou engraçado.}
+{124}{}{VocÃª nÃ£o pode me machucar!}
+{125}{}{Eu sou o Grim Reaper, vocÃª nÃ£o pode me matar. NÃ£o sou engraÃ§ado.}
 {126}{}{Eu quero um tanque!}
-{127}{}{Onde está a minha moto-serra?}
-{128}{}{Não me machucar.}
-{129}{}{Eu não quero ser um idiota.}
-{130}{}{Eu não queria dizer aquelas ameaças de morte.}
+{127}{}{Onde estÃ¡ a minha moto-serra?}
+{128}{}{NÃ£o me machucar.}
+{129}{}{Eu nÃ£o quero ser um idiota.}
+{130}{}{Eu nÃ£o queria dizer aquelas ameaÃ§as de morte.}
 {131}{}{Eu lamento, Buffy!}
-{132}{}{Eu lamento, sujo! Eu só queria ser notado.}
-{133}{}{Eu quero uma versão on-line!}
+{132}{}{Eu lamento, sujo! Eu sÃ³ queria ser notado.}
+{133}{}{Eu quero uma versÃ£o on-line!}

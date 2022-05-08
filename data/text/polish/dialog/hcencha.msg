@@ -1,53 +1,53 @@
-{100}{}{Widzisz osobê w czarnym skórzanym pancerzu, o twardym spojrzeniu i uzbrojon¹ w wielkiego gnata.}
+{100}{}{Widzisz osobÄ™ w czarnym skÃ³rzanym pancerzu, o twardym spojrzeniu i uzbrojonÄ… w wielkiego gnata.}
 {101}{}{To jest }
-{102}{}{Widzisz osobê nale¿¹c¹ do stra¿ników karawany, pokryt¹ kurzem przemierzonych szlaków i bliznami ze stoczonych walk. Wnioskujesz z tego, ¿e szlaki karawan staj¹ siê obecnie coraz bardziej niebezpiecznie.}
+{102}{}{Widzisz osobÄ™ naleÅ¼Ä…cÄ… do straÅ¼nikÃ³w karawany, pokrytÄ… kurzem przemierzonych szlakÃ³w i bliznami ze stoczonych walk. Wnioskujesz z tego, Å¼e szlaki karawan stajÄ… siÄ™ obecnie coraz bardziej niebezpiecznie.}
 {103}{}{Hmm?}
-{104}{}{Te¿ ok ssa!}
+{104}{}{TeÅ¼ ok ssa!}
 {105}{}{Moja praca tu?}
 {106}{}{Tak, szukam szefa.}
-{107}{}{Zastanawiam siê, czy nie mo¿esz mi odpowiedzieæ na kilka pytañ o Chadzie.}
-{108}{}{Kim jesteœ?}
+{107}{}{Zastanawiam siÄ™, czy nie moÅ¼esz mi odpowiedzieÄ‡ na kilka pytaÅ„ o Chadzie.}
+{108}{}{Kim jesteÅ›?}
 {109}{}{Przykro mi z powodu Chada. Kto jest nowym szefem?}
-{110}{}{Nie, dziêki.}
-{111}{}{Jeœli szukasz pracy, mo¿esz porozmawiaæ z Billem, goœciem ze œrodka. Ze-ŒRODKA. Byæ mo¿e ciê zrozumie. Powodzenia!}
+{110}{}{Nie, dziÄ™ki.}
+{111}{}{JeÅ›li szukasz pracy, moÅ¼esz porozmawiaÄ‡ z Billem, goÅ›ciem ze Å›rodka. Ze-ÅšRODKA. ByÄ‡ moÅ¼e ciÄ™ zrozumie. Powodzenia!}
 {112}{}{Duhhhh...}
-{113}{}{To bêdzie }
+{113}{}{To bÄ™dzie }
 {114}{}{Tak.}
 {115}{}{Nie.}
-{116}{}{Ty masz pytania, ja mogê znaæ odpowiedzi. Co chcesz wiedzieæ?}
+{116}{}{Ty masz pytania, ja mogÄ™ znaÄ‡ odpowiedzi. Co chcesz wiedzieÄ‡?}
 {117}{}{Jaki on jest?}
-{118}{}{Mo¿na mu zaufaæ?}
-{119}{}{Sk¹d bierze forsê?}
-{120}{}{Sk¹d pochodzi?}
-{121}{}{Niewa¿ne. Do zobaczenia.}
-{122}{}{Ja? Nazywam siê }
-{123}{}{Tobie jest przykro z powodu Chada? Ha, dobre! Dla ciebie to by³ na pewno dobry interes? Nowym szefem jest }
+{118}{}{MoÅ¼na mu zaufaÄ‡?}
+{119}{}{SkÄ…d bierze forsÄ™?}
+{120}{}{SkÄ…d pochodzi?}
+{121}{}{NiewaÅ¼ne. Do zobaczenia.}
+{122}{}{Ja? Nazywam siÄ™ }
+{123}{}{Tobie jest przykro z powodu Chada? Ha, dobre! Dla ciebie to byÅ‚ na pewno dobry interes? Nowym szefem jest }
 {124}{}{Bywaj.}
-{125}{}{W takim wypadku powinieneœ pogadaæ z Billem, Zaopatrzeniowcem Broken Hills.}
-{126}{}{Dziêkujê.}
-{127}{}{W porz¹dku. Zatem do zobaczenia.}
-{128}{}{Jaki jest? Có¿, jest przyjazny, ale potrafi byæ obel¿ywy. Jest dobrym i sprawiedliwym szefem. Nie traktuje nas Ÿle, jeœli o to ci chodzi. Jakieœ inne pytania?}
-{129}{}{Chodz¹ ploty, ¿e przyniós³ je ze sob¹ - i to du¿o. Wiesz, takich pytañ nie zadaje siê raczej facetowi. Jakieœ inne pytania?}
-{130}{}{Có¿, jest odrobinê nieuczciwy, ale kto w naszych czasach nie jest? Jakieœ inne pytania?}
-{131}{}{Nie mam zielonego pojêcia. To znaczy, ka¿dy z nas wa³êsa³ siê trochê tu i tam zanim trafi³ tutaj w poszukiwaniu roboty i zosta³ stra¿nikiem. Myœlê, ¿e musia³ siê sk¹dœ bardzo szybko wynieœæ i uciekaj¹c trafi³ tutaj. Jakieœ inne pytania?}
-{132}{}{Poniewa¿ jestem tutaj nowym szefem, jestem chyba jedyn¹ osob¹, która ciê nie nienawidzi. Co mogê dla ciebie zrobiæ?}
+{125}{}{W takim wypadku powinieneÅ› pogadaÄ‡ z Billem, Zaopatrzeniowcem Broken Hills.}
+{126}{}{DziÄ™kujÄ™.}
+{127}{}{W porzÄ…dku. Zatem do zobaczenia.}
+{128}{}{Jaki jest? CÃ³Å¼, jest przyjazny, ale potrafi byÄ‡ obelÅ¼ywy. Jest dobrym i sprawiedliwym szefem. Nie traktuje nas Åºle, jeÅ›li o to ci chodzi. JakieÅ› inne pytania?}
+{129}{}{ChodzÄ… ploty, Å¼e przyniÃ³sÅ‚ je ze sobÄ… - i to duÅ¼o. Wiesz, takich pytaÅ„ nie zadaje siÄ™ raczej facetowi. JakieÅ› inne pytania?}
+{130}{}{CÃ³Å¼, jest odrobinÄ™ nieuczciwy, ale kto w naszych czasach nie jest? JakieÅ› inne pytania?}
+{131}{}{Nie mam zielonego pojÄ™cia. To znaczy, kaÅ¼dy z nas waÅ‚Ä™saÅ‚ siÄ™ trochÄ™ tu i tam zanim trafiÅ‚ tutaj w poszukiwaniu roboty i zostaÅ‚ straÅ¼nikiem. MyÅ›lÄ™, Å¼e musiaÅ‚ siÄ™ skÄ…dÅ› bardzo szybko wynieÅ›Ä‡ i uciekajÄ…c trafiÅ‚ tutaj. JakieÅ› inne pytania?}
+{132}{}{PoniewaÅ¼ jestem tutaj nowym szefem, jestem chyba jedynÄ… osobÄ…, ktÃ³ra ciÄ™ nie nienawidzi. Co mogÄ™ dla ciebie zrobiÄ‡?}
 {133}{}{Szukam pracy.}
 {134}{}{A ty tylko spijasz najlepsze?}
 {135}{}{Kiedy wyrusza kolejna karawana?}
-{136}{}{Nic, dziêki.}
+{136}{}{Nic, dziÄ™ki.}
 {137}{}{Pogadaj z Billem, jak zwykle.}
-{138}{}{W porz¹dku.}
-{139}{}{Po tym co spotka³o Chada? Nie s¹dzê. Coœ jeszcze?}
-{140}{}{Dotarliœmy. Oto twoje $500. Jeœli chcesz z nami wracaæ - spadamy st¹d pod koniec dnia. Za powrót te¿ zgarniesz kasê. Cokolwiek wybierzesz, my wyruszymy.}
-{141}{}{Czeœæ.}
-{142}{}{Mo¿emy wyruszaæ?}
-{143}{}{Dziêki. Oto twoje $500. Jeœli znowu zechcesz siê z nami gdzieœ wybraæ - pogadaj z Billem.}
-{144}{}{Ty g³upie œcierwo! Szykuj siê na œmieræ!}
+{138}{}{W porzÄ…dku.}
+{139}{}{Po tym co spotkaÅ‚o Chada? Nie sÄ…dzÄ™. CoÅ› jeszcze?}
+{140}{}{DotarliÅ›my. Oto twoje $500. JeÅ›li chcesz z nami wracaÄ‡ - spadamy stÄ…d pod koniec dnia. Za powrÃ³t teÅ¼ zgarniesz kasÄ™. Cokolwiek wybierzesz, my wyruszymy.}
+{141}{}{CzeÅ›Ä‡.}
+{142}{}{MoÅ¼emy wyruszaÄ‡?}
+{143}{}{DziÄ™ki. Oto twoje $500. JeÅ›li znowu zechcesz siÄ™ z nami gdzieÅ› wybraÄ‡ - pogadaj z Billem.}
+{144}{}{Ty gÅ‚upie Å›cierwo! Szykuj siÄ™ na Å›mierÄ‡!}
 {145}{}{Umm...}
-{150}{}{ - nale¿y do stra¿ników karawany.}
-{151}{}{. Pilnujê karawan Billa. Coœ jeszcze?}
+{150}{}{ - naleÅ¼y do straÅ¼nikÃ³w karawany.}
+{151}{}{. PilnujÄ™ karawan Billa. CoÅ› jeszcze?}
 {152}{}{.}
-{153}{}{. Powinien gdzieœ tu siê krêciæ. Szukasz pracy?}
+{153}{}{. Powinien gdzieÅ› tu siÄ™ krÄ™ciÄ‡. Szukasz pracy?}
 {154}{}{. Powodzenia w pracy z nim. Ofiara.}
 {200}{}{Chad}
 {201}{}{Hatch}

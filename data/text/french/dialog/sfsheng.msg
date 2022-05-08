@@ -1,1 +1,1 @@
-{100}{}{Tu tombes sur une maison isolée. Selon ton Pip-Boy, c'est la dernière position connue de Dr. Sheng.}
+{100}{}{Tu tombes sur une maison isolÃ©e. Selon ton Pip-Boy, c'est la derniÃ¨re position connue de Dr. Sheng.}

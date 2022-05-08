@@ -1,5 +1,5 @@
-{100}{}{Vous voyez un garde du corps mécontent.}
-{101}{}{Warren grimace en observant son bras récemment blessé.}
-{200}{}{Pourquoi c'est toujours moi qu'il découpe ?}
-{201}{}{Je commence à en avoir marre de ce cinéma.}
-{202}{}{La prochaine fois il aura qu'à entailler un de ces putains de tribals.}
+{100}{}{Vous voyez un garde du corps mÃ©content.}
+{101}{}{Warren grimace en observant son bras rÃ©cemment blessÃ©.}
+{200}{}{Pourquoi c'est toujours moi qu'il dÃ©coupe ?}
+{201}{}{Je commence Ã  en avoir marre de ce cinÃ©ma.}
+{202}{}{La prochaine fois il aura qu'Ã  entailler un de ces putains de tribals.}

@@ -1,18 +1,18 @@
-{100}{}{Egy embert látsz a hadsereg egyenruhájában.}
-{101}{}{Egy embert látsz a hadsereg egyenruhájában.}
-{102}{}{Ez az ember a hadsereg egyenruháját viseli, de inkább látszik technikusnak, mint katonának.}
+{100}{}{Egy embert lÃ¡tsz a hadsereg egyenruhÃ¡jÃ¡ban.}
+{101}{}{Egy embert lÃ¡tsz a hadsereg egyenruhÃ¡jÃ¡ban.}
+{102}{}{Ez az ember a hadsereg egyenruhÃ¡jÃ¡t viseli, de inkÃ¡bb lÃ¡tszik technikusnak, mint katonÃ¡nak.}
 {103}{}{Hey. How's it going?}
-{104}{}{Képben vagy ám... viszont most épp dolgom van.}
-{105}{}{Most nem beszélhetek veled.}
-{106}{}{Nézel?dni lehet, de hozzá ne nyúlj semmihez!}
-{107}{}{Valami nudista vagy te, hogy így flangálsz? Öltözz már fel rendesen!}
-{108}{}{Ha az ?rmester észrevesz, nagy bajba kerülsz.}
-{109}{}{Miért nincs magán egyenruha?}
-{110}{}{Szent szar! Megtámadtak bennünket! Riadó!}
-{111}{}{Behatolók! Hívjátok az ?rséget!}
-{112}{}{?rség! Behatoló a légiirányításnál!}
-{113}{}{Mi van? Megtámadtak, vagy mi?}
-{114}{}{Miért van riadó? Mi történik?}
+{104}{}{KÃ©pben vagy Ã¡m... viszont most Ã©pp dolgom van.}
+{105}{}{Most nem beszÃ©lhetek veled.}
+{106}{}{NÃ©zel?dni lehet, de hozzÃ¡ ne nyÃºlj semmihez!}
+{107}{}{Valami nudista vagy te, hogy Ã­gy flangÃ¡lsz? Ã–ltÃ¶zz mÃ¡r fel rendesen!}
+{108}{}{Ha az ?rmester Ã©szrevesz, nagy bajba kerÃ¼lsz.}
+{109}{}{MiÃ©rt nincs magÃ¡n egyenruha?}
+{110}{}{Szent szar! MegtÃ¡madtak bennÃ¼nket! RiadÃ³!}
+{111}{}{BehatolÃ³k! HÃ­vjÃ¡tok az ?rsÃ©get!}
+{112}{}{?rsÃ©g! BehatolÃ³ a lÃ©giirÃ¡nyÃ­tÃ¡snÃ¡l!}
+{113}{}{Mi van? MegtÃ¡madtak, vagy mi?}
+{114}{}{MiÃ©rt van riadÃ³? Mi tÃ¶rtÃ©nik?}
 {115}{}{Mi a szar folyik itt?}
 {200}{}{What are you doing? You have no reason to touch that.}
 {201}{}{Touch that again and you die.}

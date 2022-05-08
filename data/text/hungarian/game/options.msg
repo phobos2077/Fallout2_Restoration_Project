@@ -1,57 +1,57 @@
-{0}{}{KIMENT…S}
-{1}{}{BET÷LT…S}
-{2}{}{BE¡LLÕT¡SOK}
-{3}{}{KIL…P…S}
-{4}{}{K…SZ}
-{100}{}{J¡T…K BE¡LLÕT¡SOK}
-{101}{}{NEH…ZS…GI SZINT}
-{102}{}{HARC NEH…ZS…GE}
+{0}{}{KIMENT√âS}
+{1}{}{BET√ñLT√âS}
+{2}{}{BE√ÅLL√çT√ÅSOK}
+{3}{}{KIL√âP√âS}
+{4}{}{K√âSZ}
+{100}{}{J√ÅT√âK BE√ÅLL√çT√ÅSOK}
+{101}{}{NEH√âZS√âGI SZINT}
+{102}{}{HARC NEH√âZS√âGE}
 {103}{}{ER?SZAK}
-{104}{}{C…LPONT JEL÷L…S}
-{105}{}{HARCI INFORM¡CI”K}
-{106}{}{HARCI ‹ZENETEK}
-{107}{}{HARCI SZ÷VEGEK}
-{108}{}{CENZ⁄RA}
-{109}{}{FUT¡S}
+{104}{}{C√âLPONT JEL√ñL√âS}
+{105}{}{HARCI INFORM√ÅCI√ìK}
+{106}{}{HARCI √úZENETEK}
+{107}{}{HARCI SZ√ñVEGEK}
+{108}{}{CENZ√öRA}
+{109}{}{FUT√ÅS}
 {110}{}{FELIRATOK}
-{111}{}{T¡RGY JEL÷L…SE}
-{112}{}{HARC SEBESS…GE}
-{113}{}{SZ÷VEG SEBESS…GE}
-{114}{}{¡LTAL¡NOS HANGER?}
+{111}{}{T√ÅRGY JEL√ñL√âSE}
+{112}{}{HARC SEBESS√âGE}
+{113}{}{SZ√ñVEG SEBESS√âGE}
+{114}{}{√ÅLTAL√ÅNOS HANGER?}
 {115}{}{ZENE HANGEREJE}
 {116}{}{EFFEKTEK HANGEREJE}
-{117}{}{BESZ…D HANGEREJE}
-{118}{}{F…NYER?SS…G}
-{119}{}{EG…R …RZ…KENYS…GE}
+{117}{}{BESZ√âD HANGEREJE}
+{118}{}{F√âNYER?SS√âG}
+{119}{}{EG√âR √âRZ√âKENYS√âGE}
 {120}{}{ALAP}
-{121}{}{M…GSE}
-{122}{}{Befoly·solja a j·tÈkos sebessÈgÈt}
+{121}{}{M√âGSE}
+{122}{}{Befoly√°solja a j√°t√©kos sebess√©g√©t}
 {123}{}{Pip-Boy speech}
 {201}{}{Be}
 {202}{}{Ki}
-{203}{}{Kˆnny?}
-{204}{}{Norm·l}
-{205}{}{NehÈz}
-{206}{}{Kˆnny?}
-{207}{}{Norm·l}
-{208}{}{KemÈny}
-{209}{}{Norm·l}
+{203}{}{K√∂nny?}
+{204}{}{Norm√°l}
+{205}{}{Neh√©z}
+{206}{}{K√∂nny?}
+{207}{}{Norm√°l}
+{208}{}{Kem√©ny}
+{209}{}{Norm√°l}
 {210}{}{Leggyorsabb}
-{211}{}{RÈszletes}
-{212}{}{Rˆvid}
-{213}{}{Csak cÈlz·sn·l}
+{211}{}{R√©szletes}
+{212}{}{R√∂vid}
+{213}{}{Csak c√©lz√°sn√°l}
 {214}{}{Semmilyen.}
-{215}{}{Minim·lis}
-{216}{}{Maxim·lis vÈr}
-{217}{}{Lass˙}
+{215}{}{Minim√°lis}
+{216}{}{Maxim√°lis v√©r}
+{217}{}{Lass√∫}
 {218}{}{Gyors}
 {219}{}{Mindig}
 {220}{}{Sok}
 {221}{}{Csendes}
 {222}{}{Hangos}
-{223}{}{Vil·gosabb}
-{224}{}{SzÈles}
-{300}{}{K…SZ}
-{301}{}{LE¡LLÕTVA}
-{1000}{}{A be·llÌt·sok men¸pont nem}
-{1001}{}{Èrhet? el a demÛ verziÛban.}
+{223}{}{Vil√°gosabb}
+{224}{}{Sz√©les}
+{300}{}{K√âSZ}
+{301}{}{LE√ÅLL√çTVA}
+{1000}{}{A be√°ll√≠t√°sok men√ºpont nem}
+{1001}{}{√©rhet? el a dem√≥ verzi√≥ban.}

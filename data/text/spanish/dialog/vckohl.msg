@@ -1,102 +1,102 @@
 {100}{}{Ves al bibliotecario jefe Kohl.}
-{101}{}{Ves a un hombre de aspecto diplomático con un uniforme de Ciudad Refugio.}
+{101}{}{Ves a un hombre de aspecto diplomÃ¡tico con un uniforme de Ciudad Refugio.}
 {102}{}{Ves al bibliotecario jefe Kohl.}
-{103}{}{Ves a un hombre de aspecto diplomático con un uniforme de Ciudad Refugio.}
+{103}{}{Ves a un hombre de aspecto diplomÃ¡tico con un uniforme de Ciudad Refugio.}
 {104}{}{He de asegurarme de que tus actos heroicos se registran en los archivos de Ciudad Refugio, }
-{105}{}{¡Dios mío! ¡Un intruso! ¡Ayuda! ¡Guardias!}
-{106}{}{¡Dios mío! ¡Un mutante en Ciudad Refugio! ¡Guardias! ¡Guardias!}
-{107}{}{¡Dios mío! ¡Un necrófago en Ciudad Refugio! ¡Guardias! ¡Guardias!}
-{108}{}{La Oficina de Información está cerrada durante la tarde. Vuelve por la mañana.}
-{109}{}{La Oficina de Información está cerrada durante la tarde. Me marcharé a casa en cuanto haya ordenado todas estas listas.}
+{105}{}{Â¡Dios mÃ­o! Â¡Un intruso! Â¡Ayuda! Â¡Guardias!}
+{106}{}{Â¡Dios mÃ­o! Â¡Un mutante en Ciudad Refugio! Â¡Guardias! Â¡Guardias!}
+{107}{}{Â¡Dios mÃ­o! Â¡Un necrÃ³fago en Ciudad Refugio! Â¡Guardias! Â¡Guardias!}
+{108}{}{La Oficina de InformaciÃ³n estÃ¡ cerrada durante la tarde. Vuelve por la maÃ±ana.}
+{109}{}{La Oficina de InformaciÃ³n estÃ¡ cerrada durante la tarde. Me marcharÃ© a casa en cuanto haya ordenado todas estas listas.}
 {110}{}{Shhhhh.}
 {111}{}{Camina en silencio, por favor.}
 {112}{}{Shhhhh.}
 {113}{}{El silencio ES una virtud.}
-{114}{}{Oh... ¡hola! ¿Te puedo ayudar en algo?}
-{115}{}{¡Frazz-urb-luuw!}
+{114}{}{Oh... Â¡hola! Â¿Te puedo ayudar en algo?}
+{115}{}{Â¡Frazz-urb-luuw!}
 {116}{}{Dejas de balbucear}
-{117}{}{¿Qué lugar es éste?}
-{118}{}{Nada. Perdón por molestarte.}
-{119}{}{Eh... ¿perdóname?}
+{117}{}{Â¿QuÃ© lugar es Ã©ste?}
+{118}{}{Nada. PerdÃ³n por molestarte.}
+{119}{}{Eh... Â¿perdÃ³name?}
 {120}{}{Cripple-cripple creep}
 {121}{}{Dejas de balbucear}
-{122}{}{Oh, Dios, debes ser uno de los siervos. ¡Realmente DEBERÍAS volver con el amo Barkus de inmediato, o se pondrá furioso!}
-{123}{}{¡Vaaale!}
-{124}{}{Este es el Centro de Información de Ciudad Refugio. ¿Es el lugar que estabas buscando?}
-{125}{}{En realidad, sí. Tengo algunas preguntas que tal vez puedas contestarme.}
-{126}{}{¿Centro de Información? ¿Tienes algún libro, o manuales?}
+{122}{}{Oh, Dios, debes ser uno de los siervos. Â¡Realmente DEBERÃAS volver con el amo Barkus de inmediato, o se pondrÃ¡ furioso!}
+{123}{}{Â¡Vaaale!}
+{124}{}{Este es el Centro de InformaciÃ³n de Ciudad Refugio. Â¿Es el lugar que estabas buscando?}
+{125}{}{En realidad, sÃ­. Tengo algunas preguntas que tal vez puedas contestarme.}
+{126}{}{Â¿Centro de InformaciÃ³n? Â¿Tienes algÃºn libro, o manuales?}
 {127}{}{En realidad, no. Siento molestarte.}
-{128}{}{Por desgracia, nuestros libros están siendo transcritos actualmente a formato electrónico. Los suplementos se están almacenando en la
- Oficina de Servicios, calle abajo. Deberías probar allí.}
-{129}{}{¿Dónde están almacenados los libros en formato electrónico?}
-{130}{}{¿No queda ningún libro?}
+{128}{}{Por desgracia, nuestros libros estÃ¡n siendo transcritos actualmente a formato electrÃ³nico. Los suplementos se estÃ¡n almacenando en la
+ Oficina de Servicios, calle abajo. DeberÃ­as probar allÃ­.}
+{129}{}{Â¿DÃ³nde estÃ¡n almacenados los libros en formato electrÃ³nico?}
+{130}{}{Â¿No queda ningÃºn libro?}
 {131}{}{Oh. Tengo unas cuantas preguntas...}
-{132}{}{Quizá debería mirar allí, entonces.}
-{133}{}{Hola otra vez. ¿Necesitas ayuda para encontrar algo?}
-{134}{}{Desde luego. ¿Qué preguntas tienes?}
-{135}{}{¿Qué lugar es éste?}
-{136}{}{¿Sabes dónde puedo encontrar un GECK?}
-{137}{}{¿Sabes dónde podría encontrar el Refugio?}
+{132}{}{QuizÃ¡ deberÃ­a mirar allÃ­, entonces.}
+{133}{}{Hola otra vez. Â¿Necesitas ayuda para encontrar algo?}
+{134}{}{Desde luego. Â¿QuÃ© preguntas tienes?}
+{135}{}{Â¿QuÃ© lugar es Ã©ste?}
+{136}{}{Â¿Sabes dÃ³nde puedo encontrar un GECK?}
+{137}{}{Â¿Sabes dÃ³nde podrÃ­a encontrar el Refugio?}
 {138}{}{Hoy nada, gracias.}
-{139}{}{¿Un GECK? Ese nombre me es familiar. ¿Qué es lo que hace?}
-{140}{}{Verás, no lo sé. Oí hablar de él a la Anciana de mi poblado, y supone que es algún tipo de panacea para nosotros.
- Yo soy un poco más escéptico.}
-{141}{}{Realmente no lo sé.}
-{142}{}{¿Puedo hacerte alguna otra pregunta?}
-{143}{}{No importa. Quizá hablemos en algún otro momento.}
-{144}{}{¿El Refugio? Mira, la entrada está justo al final de la calle... es el enorme agujero de la ladera de la montaña.}
-{145}{}{¿Conoces algún otro Refugio?}
-{146}{}{¿Puedo hacerte alguna otra pregunta?}
+{139}{}{Â¿Un GECK? Ese nombre me es familiar. Â¿QuÃ© es lo que hace?}
+{140}{}{VerÃ¡s, no lo sÃ©. OÃ­ hablar de Ã©l a la Anciana de mi poblado, y supone que es algÃºn tipo de panacea para nosotros.
+ Yo soy un poco mÃ¡s escÃ©ptico.}
+{141}{}{Realmente no lo sÃ©.}
+{142}{}{Â¿Puedo hacerte alguna otra pregunta?}
+{143}{}{No importa. QuizÃ¡ hablemos en algÃºn otro momento.}
+{144}{}{Â¿El Refugio? Mira, la entrada estÃ¡ justo al final de la calle... es el enorme agujero de la ladera de la montaÃ±a.}
+{145}{}{Â¿Conoces algÃºn otro Refugio?}
+{146}{}{Â¿Puedo hacerte alguna otra pregunta?}
 {147}{}{Gracias por las indicaciones.}
-{148}{}{¿Otros Refugios? Hmmm. No, en realidad, no. Sé que se construyeron otros Refugios, pero nunca hemos encontrado ninguno de ellos.
+{148}{}{Â¿Otros Refugios? Hmmm. No, en realidad, no. SÃ© que se construyeron otros Refugios, pero nunca hemos encontrado ninguno de ellos.
  Tal vez haya alguna referencia sobre ellos en la computadora central del Refugio.}
-{149}{}{¿Cómo puedo hacer para bajar el Refugio?}
-{150}{}{¿Puedo hacerte alguna otra pregunta?}
-{151}{}{Gracias por la información.}
-{152}{}{Hmmmm. Bueno, verás, la computadora central del Refugio quizá tenga alguna información sobre ello. Guardamos la mayoría
- de los archivos más antiguos allí abajo.}
-{153}{}{¿Cómo puedo hacer para bajar el Refugio?}
-{154}{}{¿Puedo hacerte alguna otra pregunta?}
-{155}{}{Gracias por la información.}
-{156}{}{Bien, eres un Ciudadano de la comunidad, ¿cierto? Tienes permiso para bajar allí.}
-{157}{}{Oh, ¿lo eres? Perdón, perdón... bueno, entonces, se te permite entrar sin problemas y usar la computadora.}
-{158}{}{Bien, lo primero que necesitarías es ser un Ciudadano de Ciudad Refugio. Si quieres, podrías hacer el test de Ciudadanía... o aún mejor,
- hablar con la Primer Ciudadano Lynette. Estoy seguro de que hará una excepción en tu caso.}
+{149}{}{Â¿CÃ³mo puedo hacer para bajar el Refugio?}
+{150}{}{Â¿Puedo hacerte alguna otra pregunta?}
+{151}{}{Gracias por la informaciÃ³n.}
+{152}{}{Hmmmm. Bueno, verÃ¡s, la computadora central del Refugio quizÃ¡ tenga alguna informaciÃ³n sobre ello. Guardamos la mayorÃ­a
+ de los archivos mÃ¡s antiguos allÃ­ abajo.}
+{153}{}{Â¿CÃ³mo puedo hacer para bajar el Refugio?}
+{154}{}{Â¿Puedo hacerte alguna otra pregunta?}
+{155}{}{Gracias por la informaciÃ³n.}
+{156}{}{Bien, eres un Ciudadano de la comunidad, Â¿cierto? Tienes permiso para bajar allÃ­.}
+{157}{}{Oh, Â¿lo eres? PerdÃ³n, perdÃ³n... bueno, entonces, se te permite entrar sin problemas y usar la computadora.}
+{158}{}{Bien, lo primero que necesitarÃ­as es ser un Ciudadano de Ciudad Refugio. Si quieres, podrÃ­as hacer el test de CiudadanÃ­a... o aÃºn mejor,
+ hablar con la Primer Ciudadano Lynette. Estoy seguro de que harÃ¡ una excepciÃ³n en tu caso.}
 {159}{}{Eh, pero yo soy Ciudadano.}
-{160}{}{¿Puedo hacerte alguna otra pregunta?}
-{161}{}{Gracias por la información.}
-{162}{}{Sí, bueno, se está transcribiendo todo porque... hmmm. Esta es un tema delicado, pero creo que mi puesto en Ciudad Refugio se ha quedado obsoleto.}
-{163}{}{¿Ob-so-leto? ¿Qué quieres decir?}
-{164}{}{¿Obsoleto?}
-{165}{}{Oh. Tenía algunas preguntas más...}
-{166}{}{Lamento oír eso. Debo irme.}
-{167}{}{Significa que mi puesto aquí ya no es necesario. Por el bien de todos.}
-{168}{}{Están planteándose poner terminales informativos en cada hogar. Esos nuevos terminales estaría conectados al Servidor
- de Listas y a los Archivos de Información. Una vez se haya hecho, el centro de información... y yo... seremos innecesarios. Por el bien de
+{160}{}{Â¿Puedo hacerte alguna otra pregunta?}
+{161}{}{Gracias por la informaciÃ³n.}
+{162}{}{SÃ­, bueno, se estÃ¡ transcribiendo todo porque... hmmm. Esta es un tema delicado, pero creo que mi puesto en Ciudad Refugio se ha quedado obsoleto.}
+{163}{}{Â¿Ob-so-leto? Â¿QuÃ© quieres decir?}
+{164}{}{Â¿Obsoleto?}
+{165}{}{Oh. TenÃ­a algunas preguntas mÃ¡s...}
+{166}{}{Lamento oÃ­r eso. Debo irme.}
+{167}{}{Significa que mi puesto aquÃ­ ya no es necesario. Por el bien de todos.}
+{168}{}{EstÃ¡n planteÃ¡ndose poner terminales informativos en cada hogar. Esos nuevos terminales estarÃ­a conectados al Servidor
+ de Listas y a los Archivos de InformaciÃ³n. Una vez se haya hecho, el centro de informaciÃ³n... y yo... seremos innecesarios. Por el bien de
  todos, desde luego.}
-{169}{}{¿Estás segura?}
-{170}{}{Oh. Tenía algunas preguntas más...}
-{171}{}{Lamento oír eso. Debo irme.}
-{172}{}{Oh Dios, sí. La Primer Ciudadano raramente se equivoca en tales cuestiones. Aún así, sentiré dejar este lugar. He oído que hay un puesto esperándome en la Oficina de Listas.}
-{173}{}{Oh. Bien, lamento oír que todos los libros han sido transcritos. Prefiero leer un libro que mirar un pantalla de computadora.}
-{174}{}{Oh. Bien, lamento oír que todos los libros han sido transcritos. Prefiero leer un libro que mirar un pantalla de computadora.}
-{175}{}{Oh. Tenía algunas preguntas más...}
-{176}{}{Lamento oír eso. Debo irme.}
-{177}{}{¡Así es como me siento yo también! No tengo nada contra el formato electrónico, pero hay cierta... solidez... en tener un libro en tus manos y pasar las páginas una a una. Hmmm. Ya sabes...}
-{178}{}{¿Sí?}
-{179}{}{Oh. Tenía algunas preguntas más...}
-{180}{}{Lamento oír eso. Debo irme.}
-{181}{}{Aún no han enviado todos los libros a la Oficina de Servicios. Sé que Randal no los echaría de menos si se los entrego a alguien que los aprecia... alguien como tú.}
-{182}{}{Me encantaría tenerlos. Gracias.}
-{183}{}{Entonces iré a buscarlos...}
+{169}{}{Â¿EstÃ¡s segura?}
+{170}{}{Oh. TenÃ­a algunas preguntas mÃ¡s...}
+{171}{}{Lamento oÃ­r eso. Debo irme.}
+{172}{}{Oh Dios, sÃ­. La Primer Ciudadano raramente se equivoca en tales cuestiones. AÃºn asÃ­, sentirÃ© dejar este lugar. He oÃ­do que hay un puesto esperÃ¡ndome en la Oficina de Listas.}
+{173}{}{Oh. Bien, lamento oÃ­r que todos los libros han sido transcritos. Prefiero leer un libro que mirar un pantalla de computadora.}
+{174}{}{Oh. Bien, lamento oÃ­r que todos los libros han sido transcritos. Prefiero leer un libro que mirar un pantalla de computadora.}
+{175}{}{Oh. TenÃ­a algunas preguntas mÃ¡s...}
+{176}{}{Lamento oÃ­r eso. Debo irme.}
+{177}{}{Â¡AsÃ­ es como me siento yo tambiÃ©n! No tengo nada contra el formato electrÃ³nico, pero hay cierta... solidez... en tener un libro en tus manos y pasar las pÃ¡ginas una a una. Hmmm. Ya sabes...}
+{178}{}{Â¿SÃ­?}
+{179}{}{Oh. TenÃ­a algunas preguntas mÃ¡s...}
+{180}{}{Lamento oÃ­r eso. Debo irme.}
+{181}{}{AÃºn no han enviado todos los libros a la Oficina de Servicios. SÃ© que Randal no los echarÃ­a de menos si se los entrego a alguien que los aprecia... alguien como tÃº.}
+{182}{}{Me encantarÃ­a tenerlos. Gracias.}
+{183}{}{Entonces irÃ© a buscarlos...}
 {184}{}{De acuerdo.}
-{185}{}{Aquí los tienes. Espero que disfrutes leyéndolos. Son algunos de mis favoritos... un poco técnicos, pero bastante buenos de todas formas.}
-{186}{}{Gracias. ¿Te importa si te algo alguna otra pregunta?}
-{187}{}{Genial. Iré a comprobarlo.}
-{188}{}{Los libros se están registrando en uno de los terminales de la biblioteca del tercer nivel del Refugio.
- No recuerdo cuál... creo que no es uno de los del núcleo central.}
-{189}{}{¿Por qué se está transcribiendo todo?}
-{190}{}{¿Cómo puedo hacer para bajar el Refugio?}
-{191}{}{Ya veo. ¿Te importa si te hago algunas preguntas más?}
-{192}{}{Quizá debería ir a ver si puedo encontrarlo.}
+{185}{}{AquÃ­ los tienes. Espero que disfrutes leyÃ©ndolos. Son algunos de mis favoritos... un poco tÃ©cnicos, pero bastante buenos de todas formas.}
+{186}{}{Gracias. Â¿Te importa si te algo alguna otra pregunta?}
+{187}{}{Genial. IrÃ© a comprobarlo.}
+{188}{}{Los libros se estÃ¡n registrando en uno de los terminales de la biblioteca del tercer nivel del Refugio.
+ No recuerdo cuÃ¡l... creo que no es uno de los del nÃºcleo central.}
+{189}{}{Â¿Por quÃ© se estÃ¡ transcribiendo todo?}
+{190}{}{Â¿CÃ³mo puedo hacer para bajar el Refugio?}
+{191}{}{Ya veo. Â¿Te importa si te hago algunas preguntas mÃ¡s?}
+{192}{}{QuizÃ¡ deberÃ­a ir a ver si puedo encontrarlo.}
 {193}{}{! Bien hecho! Bravo!}

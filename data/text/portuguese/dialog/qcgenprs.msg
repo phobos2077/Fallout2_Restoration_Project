@@ -1,72 +1,72 @@
-{100}{}{Você vê uma pessoa abatida vestindo trajes de vault.}
-{101}{}{Você vê um prisioneiro do Vault 13.}
-{102}{}{Você vê uma pessoa muito pálida vestindo os trajes do Vault 13.}
-{103}{}{Você vê uma pessoa da sua tribo.}
-{104}{}{Você vê uma pessoa conhecida da sua tribo.}
-{105}{}{Você vê uma pessoa da sua tribo, eles não parecem bons.}
-{106}{}{Este local está muito enferrujado pra ser um vault.}
+{100}{}{VocÃª vÃª uma pessoa abatida vestindo trajes de vault.}
+{101}{}{VocÃª vÃª um prisioneiro do Vault 13.}
+{102}{}{VocÃª vÃª uma pessoa muito pÃ¡lida vestindo os trajes do Vault 13.}
+{103}{}{VocÃª vÃª uma pessoa da sua tribo.}
+{104}{}{VocÃª vÃª uma pessoa conhecida da sua tribo.}
+{105}{}{VocÃª vÃª uma pessoa da sua tribo, eles nÃ£o parecem bons.}
+{106}{}{Este local estÃ¡ muito enferrujado pra ser um vault.}
 {107}{}{Acho que posso ouvir o oceano. }
-{108}{}{Você falou com Martin Frobisher?}
-{109}{}{Você deveria falar com o Martin.}
-{110}{}{Martin é o nosso porta-voz, você deveria falar com ele.}
-{111}{}{O sr. Frobisher está na primeira cela.}
-{112}{}{Eles não tem nem fitas de entretenimento por aqui.}
-{113}{}{Eu exijo falar com alguém sobre a qualidade da comida.}
-{114}{}{Ótimo, agora eles nos ameaçam com selvagens estranhos.}
-{115}{}{Você escapou?}
-{116}{}{Como você saiu?}
-{117}{}{Você se parece com o Chosen One.}
-{118}{}{Você é- você é o Chosen One?}
-{119}{}{Você deveria falar com a Elder.}
-{120}{}{A Elder disse que você nos salvaria!}
-{121}{}{Você já conversou com o Ancião?}
-{122}{}{A Elder está na primeira cela. Você deveria falar com ela.}
+{108}{}{VocÃª falou com Martin Frobisher?}
+{109}{}{VocÃª deveria falar com o Martin.}
+{110}{}{Martin Ã© o nosso porta-voz, vocÃª deveria falar com ele.}
+{111}{}{O sr. Frobisher estÃ¡ na primeira cela.}
+{112}{}{Eles nÃ£o tem nem fitas de entretenimento por aqui.}
+{113}{}{Eu exijo falar com alguÃ©m sobre a qualidade da comida.}
+{114}{}{Ã“timo, agora eles nos ameaÃ§am com selvagens estranhos.}
+{115}{}{VocÃª escapou?}
+{116}{}{Como vocÃª saiu?}
+{117}{}{VocÃª se parece com o Chosen One.}
+{118}{}{VocÃª Ã©- vocÃª Ã© o Chosen One?}
+{119}{}{VocÃª deveria falar com a Elder.}
+{120}{}{A Elder disse que vocÃª nos salvaria!}
+{121}{}{VocÃª jÃ¡ conversou com o AnciÃ£o?}
+{122}{}{A Elder estÃ¡ na primeira cela. VocÃª deveria falar com ela.}
 {123}{}{Fale com a Elder.}
 {124}{}{Livre-nos!}
 {125}{}{Tira a gente daqui.}
-{126}{}{Eu não suporto mais essas paredes.}
+{126}{}{Eu nÃ£o suporto mais essas paredes.}
 {127}{}{Eu gostaria muito de sentir o vento em meu rosto mais uma vez.}
 {128}{}{Liberta a gente, Chosen One!}
-{129}{}{O Chosen One está aqui!}
+{129}{}{O Chosen One estÃ¡ aqui!}
 {130}{}{Solta a gente!}
-{131}{}{Faça o que a Elder mandar.}
-{132}{}{Tira a gente daqui antes que os maus espíritos voltem!}
+{131}{}{FaÃ§a o que a Elder mandar.}
+{132}{}{Tira a gente daqui antes que os maus espÃ­ritos voltem!}
 {133}{}{Por favor, ajuda a gente, Chosen.}
-{134}{}{Graças aos deuses, o Chosen One finalmente chegou.}
+{134}{}{GraÃ§as aos deuses, o Chosen One finalmente chegou.}
 {135}{}{Ajuda a gente }
 {136}{}{Liberta a gente }
-{137}{}{Você está aqui, }
-{138}{}{Você sabe o que fazer, então faça!}
+{137}{}{VocÃª estÃ¡ aqui, }
+{138}{}{VocÃª sabe o que fazer, entÃ£o faÃ§a!}
 {139}{}{Anda logo!}
 {140}{}{Tira a gente daqui.}
 {141}{}{Desligue a energia!}
 {142}{}{Solta a gente.}
 {143}{}{Vai, tira a gente daqui!}
 {144}{}{Por favor, ajude-nos!}
-{145}{}{Você é a nosso única esperança!}
-{146}{}{Por favor, eu não agüento mais.}
-{147}{}{Eu não quero tomar mais medicamentos. Não, não. Nãooooo!}
-{148}{}{Os espíritos nos protegem!}
-{149}{}{Onde estão os espíritos quando se precisa deles?}
+{145}{}{VocÃª Ã© a nosso Ãºnica esperanÃ§a!}
+{146}{}{Por favor, eu nÃ£o agÃ¼ento mais.}
+{147}{}{Eu nÃ£o quero tomar mais medicamentos. NÃ£o, nÃ£o. NÃ£ooooo!}
+{148}{}{Os espÃ­ritos nos protegem!}
+{149}{}{Onde estÃ£o os espÃ­ritos quando se precisa deles?}
 {150}{}{Ajude-nos!}
 {151}{}{Livre-nos!}
 {152}{}{Eu quero ir pra casa.}
 {153}{}{Primeiro a seca e agora isso.}
 {154}{}{Chega de agulhas, chega!}
-{155}{}{Eu não suporto isso! As paredes estão se fechando contra mim!}
-{156}{}{(soluços, soluços)}
+{155}{}{Eu nÃ£o suporto isso! As paredes estÃ£o se fechando contra mim!}
+{156}{}{(soluÃ§os, soluÃ§os)}
 {157}{}{Deixe o meu povo partir!}
 {158}{}{A Elder nos guia.}
-{159}{}{Como nós ofendemos esses espíritos maus?}
-{160}{}{Eu não ligo pra isso.}
-{161}{}{Onde está o Martin?}
-{162}{}{Isso realmente não é um vault.}
+{159}{}{Como nÃ³s ofendemos esses espÃ­ritos maus?}
+{160}{}{Eu nÃ£o ligo pra isso.}
+{161}{}{Onde estÃ¡ o Martin?}
+{162}{}{Isso realmente nÃ£o Ã© um vault.}
 {163}{}{Tira a gente daqui!}
-{164}{}{Olá? Olá!}
-{165}{}{Eu vou insistir até ser libertado.}
-{166}{}{Eu sou um cidadão dos Estados Unidos e exijo ver quem está no comando.}
+{164}{}{OlÃ¡? OlÃ¡!}
+{165}{}{Eu vou insistir atÃ© ser libertado.}
+{166}{}{Eu sou um cidadÃ£o dos Estados Unidos e exijo ver quem estÃ¡ no comando.}
 {167}{}{Me deixa sair.}
-{168}{}{Isso é tão chato.}
-{169}{}{Chega de medicamentos. Eu não agüento mais.}
-{170}{}{Eles não podem nos manter aqui pra sempre.}
-{171}{}{A guerra não acabou?}
+{168}{}{Isso Ã© tÃ£o chato.}
+{169}{}{Chega de medicamentos. Eu nÃ£o agÃ¼ento mais.}
+{170}{}{Eles nÃ£o podem nos manter aqui pra sempre.}
+{171}{}{A guerra nÃ£o acabou?}

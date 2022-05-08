@@ -1,55 +1,55 @@
-{100}{}{Ves a un joven que lleva la insignia de la policía de la RNC.}
+{100}{}{Ves a un joven que lleva la insignia de la policÃ­a de la RNC.}
 {101}{}{Es Karl, el ayudante del sheriff de la ciudad.}
-{102}{}{Ves a un joven que apenas acaba de dejar atrás la adolescencia. Parece ansioso por agradar.}
-{103}{}{Bienvenida, forastera. Soy el ayudante Karl. ¿Qué puedo hacer por ti?}
-{104}{}{¿Como cuales?}
+{102}{}{Ves a un joven que apenas acaba de dejar atrÃ¡s la adolescencia. Parece ansioso por agradar.}
+{103}{}{Bienvenida, forastera. Soy el ayudante Karl. Â¿QuÃ© puedo hacer por ti?}
+{104}{}{Â¿Como cuales?}
 {105}{}{Uh...nugh..}
-{106}{}{Soy nueva en RNC. ¿Qué puedes contarme sobre vuestra ciudad?}
+{106}{}{Soy nueva en RNC. Â¿QuÃ© puedes contarme sobre vuestra ciudad?}
 {107}{}{Bueno, estoy buscando el Refugio 13.}
-{108}{}{La presidente Tandi me envió a hablar con cierto preso que tienes.}
+{108}{}{La presidente Tandi me enviÃ³ a hablar con cierto preso que tienes.}
 {109}{}{Mi nombre es }
 {110}{}{Estoy buscando a un tipo llamado Jack. Algunos le llaman Jack el Bobo.}
-{111}{}{¿Dónde puedo encontrar a Roger Westin?}
-{112}{}{Vale, una fiesta demasiado larga ¿verdad? Mira, hay una celda abierta ahí atrás. ¿Por qué no vas allí y duermes la mona?}
-{113}{}{Mira, haz caso de mi consejo: haz que tus amigos te lleven a casa a dormir la mona. Una borrachera es un delito aquí.}
-{114}{}{Esto es RNC, capital de la República de Nueva California. La población es de 3.000, y creciendo. No hay esclavitud, juego, ni drogas. La presidente es la señora Tandi, y mi jefe es el sheriff Dumont. ¿Eso responde a tus preguntas?}
+{111}{}{Â¿DÃ³nde puedo encontrar a Roger Westin?}
+{112}{}{Vale, una fiesta demasiado larga Â¿verdad? Mira, hay una celda abierta ahÃ­ atrÃ¡s. Â¿Por quÃ© no vas allÃ­ y duermes la mona?}
+{113}{}{Mira, haz caso de mi consejo: haz que tus amigos te lleven a casa a dormir la mona. Una borrachera es un delito aquÃ­.}
+{114}{}{Esto es RNC, capital de la RepÃºblica de Nueva California. La poblaciÃ³n es de 3.000, y creciendo. No hay esclavitud, juego, ni drogas. La presidente es la seÃ±ora Tandi, y mi jefe es el sheriff Dumont. Â¿Eso responde a tus preguntas?}
 {115}{}{Bueno, tengo algunas otras preguntas.}
-{116}{}{Sí, eso es todo.}
-{117}{}{Yo lo hice cuando era un crío. ¡Si lo encuentras házmelo saber!}
+{116}{}{SÃ­, eso es todo.}
+{117}{}{Yo lo hice cuando era un crÃ­o. Â¡Si lo encuentras hÃ¡zmelo saber!}
 {118}{}{Bueno, tengo algunas otras preguntas.}
 {119}{}{Vaya, gracias.}
-{120}{}{Su nombre es Oswald. Es todo lo que hemos podido sacarle. Se supone que es un okupa, del Refugio 15, pero... lo dudo. Es un poco correoso. ¿Sabes lo que quiero decir?}
-{121}{}{Un tipo duro, ¿eh?}
-{122}{}{¿Qué vais a hacer con él?}
-{123}{}{Oye, ¿no he oído hablar de ti? Sí: algunas cosas buenas. Mira, hay ciertas personas que conozco que podrían servirse de un tipo como tú. Sólo tienes que ir a la tienda de automóviles y preguntar por Elise. Dile que Karl le envía saludos.}
-{124}{}{Trabajo? El Vaquero de la Asociación está buscando guardias. Raiders estado golpeando a los arreos de ganado duro otra vez. Y me enteré de que el Presidente Tandi estado buscando a alguien "ingeniosos", como ella lo dice. Eso ayuda?}
+{120}{}{Su nombre es Oswald. Es todo lo que hemos podido sacarle. Se supone que es un okupa, del Refugio 15, pero... lo dudo. Es un poco correoso. Â¿Sabes lo que quiero decir?}
+{121}{}{Un tipo duro, Â¿eh?}
+{122}{}{Â¿QuÃ© vais a hacer con Ã©l?}
+{123}{}{Oye, Â¿no he oÃ­do hablar de ti? SÃ­: algunas cosas buenas. Mira, hay ciertas personas que conozco que podrÃ­an servirse de un tipo como tÃº. SÃ³lo tienes que ir a la tienda de automÃ³viles y preguntar por Elise. Dile que Karl le envÃ­a saludos.}
+{124}{}{Trabajo? El Vaquero de la AsociaciÃ³n estÃ¡ buscando guardias. Raiders estado golpeando a los arreos de ganado duro otra vez. Y me enterÃ© de que el Presidente Tandi estado buscando a alguien "ingeniosos", como ella lo dice. Eso ayuda?}
 {125}{}{Bueno, tengo algunas otras preguntas.}
 {126}{}{Algo. Gracias.}
-{127}{}{Ese es el Oficial Jack, forastera. Uno de nuestros hombres. No has estado hablando con Mira, ¿verdad?}
-{128}{}{Sí.}
-{129}{}{¿Qué Mira?}
-{130}{}{Que hijo de puta? Tiene una extensión sólo fuera de la ciudad. Acaba de tomar el camino más allá de Vaquero.}
+{127}{}{Ese es el Oficial Jack, forastera. Uno de nuestros hombres. No has estado hablando con Mira, Â¿verdad?}
+{128}{}{SÃ­.}
+{129}{}{Â¿QuÃ© Mira?}
+{130}{}{Que hijo de puta? Tiene una extensiÃ³n sÃ³lo fuera de la ciudad. Acaba de tomar el camino mÃ¡s allÃ¡ de Vaquero.}
 {131}{}{No te gusta mucho.}
 {132}{}{Bueno, tengo algunas otras preguntas.}
 {133}{}{Gracias.}
-{134}{}{Sí. Es un auténtico mal bicho. Mató a dos de nuestros hombres y no dijo nada.}
-{135}{}{Dame un poco de tiempo a solas con él. Quizá pueda convencerle para que coopere.}
-{136}{}{¿Puedo verle ahora?}
-{137}{}{Espero que cuelguen al muy bastardo. Él y sus chicos mataron a dos hombres buenos. No me dolerá lo más mínimo verlo muerto.}
-{138}{}{¿Puedo verle ahora?}
-{139}{}{Ella y Jack estaban casados, ¿sabes? Tuvieron un divorcio realmente complicado. No me creería nada de lo que ella dijera, no sobre Jack. Hazte un favor a ti mismo, aléjate de ellos. Jack es un buen hombre, es sólo que todo esto le tiene un poco hipertenso.}
+{134}{}{SÃ­. Es un autÃ©ntico mal bicho. MatÃ³ a dos de nuestros hombres y no dijo nada.}
+{135}{}{Dame un poco de tiempo a solas con Ã©l. QuizÃ¡ pueda convencerle para que coopere.}
+{136}{}{Â¿Puedo verle ahora?}
+{137}{}{Espero que cuelguen al muy bastardo. Ã‰l y sus chicos mataron a dos hombres buenos. No me dolerÃ¡ lo mÃ¡s mÃ­nimo verlo muerto.}
+{138}{}{Â¿Puedo verle ahora?}
+{139}{}{Ella y Jack estaban casados, Â¿sabes? Tuvieron un divorcio realmente complicado. No me creerÃ­a nada de lo que ella dijera, no sobre Jack. Hazte un favor a ti mismo, alÃ©jate de ellos. Jack es un buen hombre, es sÃ³lo que todo esto le tiene un poco hipertenso.}
 {140}{}{Vale, pasemos a otros temas.}
 {141}{}{Bueno, gracias por tu amable consejo, ayudante.}
-{142}{}{Su ex, eso es todo. Si no está por aquí, debería estar en la central eléctrica. Ha estado trabajando toda la noche para Dorothy.}
+{142}{}{Su ex, eso es todo. Si no estÃ¡ por aquÃ­, deberÃ­a estar en la central elÃ©ctrica. Ha estado trabajando toda la noche para Dorothy.}
 {143}{}{Bueno, tengo algunas otras preguntas.}
 {144}{}{Gracias.}
-{145}{}{Supongo que se me nota bastante. Mucha gente lo admira porque es un concejal, pero yo no. Se cree especial, y que la ley no siempre se le aplica a él. Me gustaría que alguien bajara los humos algún día.}
-{146}{}{Han ocurrido cosas extrañas. ¿Qué puedes contarme sobre ello?}
-{147}{}{Tengo que irme. Justo a las afueras de la ciudad, ¿no?}
-{148}{}{No hay problema. En los próximos cinco minutos, tal vez no oiga nada. Sígueme.}
-{149}{}{Claro, lo que querías.}
-{150}{}{Bien, hace un par de años se dio un golpe y ahora Doc Jubilee le administra algún tipo de medicina. ¿Por qué lo quieres saber, por cierto?}
-{151}{}{Nada, sólo hablar. Dejaré de hacerte perder el tiempo.}
+{145}{}{Supongo que se me nota bastante. Mucha gente lo admira porque es un concejal, pero yo no. Se cree especial, y que la ley no siempre se le aplica a Ã©l. Me gustarÃ­a que alguien bajara los humos algÃºn dÃ­a.}
+{146}{}{Han ocurrido cosas extraÃ±as. Â¿QuÃ© puedes contarme sobre ello?}
+{147}{}{Tengo que irme. Justo a las afueras de la ciudad, Â¿no?}
+{148}{}{No hay problema. En los prÃ³ximos cinco minutos, tal vez no oiga nada. SÃ­gueme.}
+{149}{}{Claro, lo que querÃ­as.}
+{150}{}{Bien, hace un par de aÃ±os se dio un golpe y ahora Doc Jubilee le administra algÃºn tipo de medicina. Â¿Por quÃ© lo quieres saber, por cierto?}
+{151}{}{Nada, sÃ³lo hablar. DejarÃ© de hacerte perder el tiempo.}
 {152}{}{. Necesito algo de trabajo honesto.}
-{153}{}{Tandi decir que tienes un hombre malo aquí.}
+{153}{}{Tandi decir que tienes un hombre malo aquÃ­.}
 {154}{}{Yo quiero ver hombre malo.}

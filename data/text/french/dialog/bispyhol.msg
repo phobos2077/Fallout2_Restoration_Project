@@ -1,3 +1,3 @@
-{100}{}{Tu vois une cassette abîmée.}
-{101}{}{Le Pip-Boy affiche : Fichier trouvé sur système. Annulation du téléchargement.}
-{102}{}{Le Pip-Boy affiche : Téléchargement des données à partir du disque.}
+{100}{}{Tu vois une cassette abÃ®mÃ©e.}
+{101}{}{Le Pip-Boy affiche : Fichier trouvÃ© sur systÃ¨me. Annulation du tÃ©lÃ©chargement.}
+{102}{}{Le Pip-Boy affiche : TÃ©lÃ©chargement des donnÃ©es Ã  partir du disque.}

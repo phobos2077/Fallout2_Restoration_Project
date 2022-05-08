@@ -1,18 +1,18 @@
-{100}{}{Widzisz osobê ubran¹ w mundur wojskowy.}
-{101}{}{Widzisz osobê ubran¹ w mundur wojskowy.}
-{102}{}{Widzisz osobê ubran¹ w mundur wojskowy, która jednak wygl¹da bardziej na technika ni¿ na ¿o³nierza.}
+{100}{}{Widzisz osobÄ™ ubranÄ… w mundur wojskowy.}
+{101}{}{Widzisz osobÄ™ ubranÄ… w mundur wojskowy.}
+{102}{}{Widzisz osobÄ™ ubranÄ… w mundur wojskowy, ktÃ³ra jednak wyglÄ…da bardziej na technika niÅ¼ na Å¼oÅ‚nierza.}
 {103}{}{Hej. Jak leci?}
-{104}{}{'Rozumiem, mam ciê na ekranie' - przepraszam, ale jestem teraz w trakcie wykonywania czynnoœci.}
-{105}{}{Nie mogê teraz rozmawiaæ.}
-{106}{}{Mo¿esz rozgl¹daæ siê ile chcesz, ale niczego nie dotykaj.}
-{107}{}{Odbi³o ci, ¿e ³azisz tu bez munduru? Ubieraj siê!}
-{108}{}{Jak ciê sier¿ant z³apie bez munduru, to ci urwie g³owê.}
+{104}{}{'Rozumiem, mam ciÄ™ na ekranie' - przepraszam, ale jestem teraz w trakcie wykonywania czynnoÅ›ci.}
+{105}{}{Nie mogÄ™ teraz rozmawiaÄ‡.}
+{106}{}{MoÅ¼esz rozglÄ…daÄ‡ siÄ™ ile chcesz, ale niczego nie dotykaj.}
+{107}{}{OdbiÅ‚o ci, Å¼e Å‚azisz tu bez munduru? Ubieraj siÄ™!}
+{108}{}{Jak ciÄ™ sierÅ¼ant zÅ‚apie bez munduru, to ci urwie gÅ‚owÄ™.}
 {109}{}{Czemu nie masz munduru? }
-{110}{}{Kurwa! Zostaliœmy zaatakowani! Alarm!}
-{111}{}{Stra¿! Intruzi!}
-{112}{}{Stra¿! Intruzi w centrum kontroli lotów!}
+{110}{}{Kurwa! ZostaliÅ›my zaatakowani! Alarm!}
+{111}{}{StraÅ¼! Intruzi!}
+{112}{}{StraÅ¼! Intruzi w centrum kontroli lotÃ³w!}
 {113}{}{Co jest? Zaatakowano nas?}
-{114}{}{Po co ten alarm? Co siê dzieje?}
-{115}{}{Co siê do jasnej cholery dzieje?}
-{200}{}{Co robisz? Nie masz powodu ¿eby tego dotykaæ.}
+{114}{}{Po co ten alarm? Co siÄ™ dzieje?}
+{115}{}{Co siÄ™ do jasnej cholery dzieje?}
+{200}{}{Co robisz? Nie masz powodu Å¼eby tego dotykaÄ‡.}
 {201}{}{Dotknij tego jeszcze raz, to zginiesz.}

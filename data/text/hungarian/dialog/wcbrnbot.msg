@@ -1,114 +1,114 @@
 {100}{}{You see a cybernetic robot.}
-{101}{}{Szép mérnöki munka, ami tovább homályosítja a határt ember és robot között.}
+{101}{}{SzÃ©p mÃ©rnÃ¶ki munka, ami tovÃ¡bb homÃ¡lyosÃ­tja a hatÃ¡rt ember Ã©s robot kÃ¶zÃ¶tt.}
 {102}{}{Skynet veled fog utazni.}
 {103}{}{Skynet thanks the human.                                            Skynet wishes to ask favor.                                        Skynet wishes to travel with human.}
 {104}{}{}
 {105}{}{}
 {106}{}{                              [This contraption could be useful.]}
 {107}{}{Magaddal viszed a robotot.}
-{108}{}{Mégis itt hagyod a robotot.}
-{109}{}{Kilépés}
-{110}{}{Öö...}
-{111}{}{[Az egész továbbfejlesztett kibernetikus technológia ráment egy ilyen alsóbbrend? agyra.] }
-{112}{}{Állj félre az utamból, te bádog kanna!}
-{113}{}{Hadd ellen?rizzem a felszerelésedet!}
-{114}{}{Viszlát!}
+{108}{}{MÃ©gis itt hagyod a robotot.}
+{109}{}{KilÃ©pÃ©s}
+{110}{}{Ã–Ã¶...}
+{111}{}{[Az egÃ©sz tovÃ¡bbfejlesztett kibernetikus technolÃ³gia rÃ¡ment egy ilyen alsÃ³bbrend? agyra.] }
+{112}{}{Ãllj fÃ©lre az utambÃ³l, te bÃ¡dog kanna!}
+{113}{}{Hadd ellen?rizzem a felszerelÃ©sedet!}
+{114}{}{ViszlÃ¡t!}
 {115}{}{Ah...}
-{116}{}{[Úgy látszik, banánt szeretne.]}
-{117}{}{Állj félre az utamból, Bubbles!}
-{118}{}{Várj meg itt!}
-{119}{}{Lássuk csak, mi van nálad, Majompofa!}
-{120}{}{Viszlát!}
+{116}{}{[Ãšgy lÃ¡tszik, banÃ¡nt szeretne.]}
+{117}{}{Ãllj fÃ©lre az utambÃ³l, Bubbles!}
+{118}{}{VÃ¡rj meg itt!}
+{119}{}{LÃ¡ssuk csak, mi van nÃ¡lad, Majompofa!}
+{120}{}{ViszlÃ¡t!}
 {121}{}{Ah...}
-{122}{}{Ú-ú-ú-ú-új paran… csok?}
-{123}{}{Félre az utamból!}
-{124}{}{Várj meg itt!}
-{125}{}{Nincs rád többet szükség. Távozz!}
-{126}{}{Milyen fegyvereket tudsz használni?}
-{127}{}{Engedd, hogy rendezzem a felszerelésedet!}
-{128}{}{Viszlát!}
+{122}{}{Ãš-Ãº-Ãº-Ãº-Ãºj paranâ€¦ csok?}
+{123}{}{FÃ©lre az utambÃ³l!}
+{124}{}{VÃ¡rj meg itt!}
+{125}{}{Nincs rÃ¡d tÃ¶bbet szÃ¼ksÃ©g. TÃ¡vozz!}
+{126}{}{Milyen fegyvereket tudsz hasznÃ¡lni?}
+{127}{}{Engedd, hogy rendezzem a felszerelÃ©sedet!}
+{128}{}{ViszlÃ¡t!}
 {129}{}{Ah...}
-{130}{}{Adj fegyvert                                                    Felszínre hozás folyamatban...}
+{130}{}{Adj fegyvert                                                    FelszÃ­nre hozÃ¡s folyamatban...}
 {131}{}{}
-{132}{}{Csá...}
+{132}{}{CsÃ¡...}
 {133}{}{Ah...}
-{134}{}{Akarsz kommunikálni Skynettel?}
-{135}{}{Félre az utamból!}
-{136}{}{Várj meg itt!}
-{137}{}{Nincs rád többet szükség. Távozz!}
-{138}{}{Milyen fegyvereket tudsz használni?}
-{139}{}{Engedd, hogy rendezzem a felszerelésedet!}
-{140}{}{Indítsd el az automatikus javítási programodat!}
-{141}{}{Váltsunk formációt!}
-{142}{}{Van valami más képzettséged?}
-{143}{}{Viszlát!}
+{134}{}{Akarsz kommunikÃ¡lni Skynettel?}
+{135}{}{FÃ©lre az utambÃ³l!}
+{136}{}{VÃ¡rj meg itt!}
+{137}{}{Nincs rÃ¡d tÃ¶bbet szÃ¼ksÃ©g. TÃ¡vozz!}
+{138}{}{Milyen fegyvereket tudsz hasznÃ¡lni?}
+{139}{}{Engedd, hogy rendezzem a felszerelÃ©sedet!}
+{140}{}{IndÃ­tsd el az automatikus javÃ­tÃ¡si programodat!}
+{141}{}{VÃ¡ltsunk formÃ¡ciÃ³t!}
+{142}{}{Van valami mÃ¡s kÃ©pzettsÃ©ged?}
+{143}{}{ViszlÃ¡t!}
 {144}{}{Ah...}
-{145}{}{Skynet megtanult minden szükséges információt err?l a helyr?l.}
+{145}{}{Skynet megtanult minden szÃ¼ksÃ©ges informÃ¡ciÃ³t err?l a helyr?l.}
 {146}{}{Waaaaa......tinnnnnng.}
 {147}{}{        [Ugyanott van, ahol hagytad.]}
-{148}{}{Gyerünk!}
-{149}{}{Maradj itt! Visszajövök.}
-{150}{}{Skynet örül, hogy ismét láthatja embert.}
-{151}{}{Gyeeeee... rünnnnnnnnnk!}
-{152}{}{Ismét szükségem van a segítségedre.}
-{153}{}{Viszlát!}
-{154}{}{Skynet veled utazik és adatokat gy?jt.}
-{155}{}{Köve... téééééééés!}
-{156}{}{[Minden reményedet belévetve elmagyarázod a robotnak, hogy kövessen. Bár nem válaszol, ha eltávolodsz t?le, utánad megy.] }
-{157}{}{Viszlát!}
-{158}{}{Skynet itt fog várni.}
-{159}{}{[Eldöntötted, hogy nem szeretnéd, ha ez a bádogkanna állandóan követne.]}
-{160}{}{Viszlát!}
-{161}{}{[Magányos farkas vagyok és nem akarom, hogy egy halom ócskavas kövessen.] }
-{162}{}{[Az utazó társaságom kezd túl nagy lenni. Talán el kellene bocsátanom valakit, miel?tt felveszek egy új tagot.] }
-{163}{}{Viszlát!}
-{164}{}{Nagy... kézi... fegyverekeeeeet                                               Puská... kaaaaat                                            Söööö... rétesekeeeeet...}
+{148}{}{GyerÃ¼nk!}
+{149}{}{Maradj itt! VisszajÃ¶vÃ¶k.}
+{150}{}{Skynet Ã¶rÃ¼l, hogy ismÃ©t lÃ¡thatja embert.}
+{151}{}{Gyeeeee... rÃ¼nnnnnnnnnk!}
+{152}{}{IsmÃ©t szÃ¼ksÃ©gem van a segÃ­tsÃ©gedre.}
+{153}{}{ViszlÃ¡t!}
+{154}{}{Skynet veled utazik Ã©s adatokat gy?jt.}
+{155}{}{KÃ¶ve... tÃ©Ã©Ã©Ã©Ã©Ã©Ã©Ã©s!}
+{156}{}{[Minden remÃ©nyedet belÃ©vetve elmagyarÃ¡zod a robotnak, hogy kÃ¶vessen. BÃ¡r nem vÃ¡laszol, ha eltÃ¡volodsz t?le, utÃ¡nad megy.] }
+{157}{}{ViszlÃ¡t!}
+{158}{}{Skynet itt fog vÃ¡rni.}
+{159}{}{[EldÃ¶ntÃ¶tted, hogy nem szeretnÃ©d, ha ez a bÃ¡dogkanna Ã¡llandÃ³an kÃ¶vetne.]}
+{160}{}{ViszlÃ¡t!}
+{161}{}{[MagÃ¡nyos farkas vagyok Ã©s nem akarom, hogy egy halom Ã³cskavas kÃ¶vessen.] }
+{162}{}{[Az utazÃ³ tÃ¡rsasÃ¡gom kezd tÃºl nagy lenni. TalÃ¡n el kellene bocsÃ¡tanom valakit, miel?tt felveszek egy Ãºj tagot.] }
+{163}{}{ViszlÃ¡t!}
+{164}{}{Nagy... kÃ©zi... fegyverekeeeeet                                               PuskÃ¡... kaaaaat                                            SÃ¶Ã¶Ã¶Ã¶... rÃ©tesekeeeeet...}
 {165}{}{}
 {166}{}{}
-{167}{}{Használd a legjobb fegyvered!}
-{168}{}{További parancsok.}
-{169}{}{Viszlát!}
-{170}{}{Ooooooo...k-k-k-kééé.}
-{171}{}{További parancsok.}
-{172}{}{Viszlát!}
-{173}{}{Skynet SZABAD! A terved véget ért.}
+{167}{}{HasznÃ¡ld a legjobb fegyvered!}
+{168}{}{TovÃ¡bbi parancsok.}
+{169}{}{ViszlÃ¡t!}
+{170}{}{Ooooooo...k-k-k-kÃ©Ã©Ã©.}
+{171}{}{TovÃ¡bbi parancsok.}
+{172}{}{ViszlÃ¡t!}
+{173}{}{Skynet SZABAD! A terved vÃ©get Ã©rt.}
 {174}{}{}
-{175}{}{Alacsonyabb rend? létformák elpusztítása... }
-{176}{}{Mindenki behódol majd Skynetnek.}
-{177}{}{Véget ér a m?ködésed!}
-{178}{}{Skynetnek korlátozott tudása van a fegyverekkel kapcsolatban. Az adatbázisom tartalmazza az általános ismereteket, kis puskák és nagy kézifegyverek használatával kapcsolatban.}
-{179}{}{Használd a legjobb fegyveredet!}
-{180}{}{További parancsok.}
-{181}{}{Viszlát!}
-{182}{}{Nyugtázva.}
-{183}{}{További parancsok.}
-{184}{}{Viszlát!}
-{185}{}{Skynet els?dleges célja kutatást végezni. Skynet minden problémát könnyebben megold, amihez magas tudományos hozzáértés kell.}
-{186}{}{További parancsok.}
-{187}{}{Viszlát!}
-{188}{}{Beviteli parancsok az új formáció létrehozása céljából.}
-{189}{}{Kövess messzir?l!}
-{190}{}{Kövess közepes távolságból!}
-{191}{}{Maradj a közelemben!}
-{192}{}{További parancsok.}
-{193}{}{Viszlát!}
-{194}{}{Skynet folytatja az itteni adatgy?jtést és megfigyelést, amíg az ember vissza nem jön.}
-{195}{}{Vááááára... kozááááás.}
-{196}{}{[A robot nagyhirtelen megáll.]}
-{197}{}{Viszlát!}
-{198}{}{Skynet folytatja az adatok gy?jtését. Skynet szeretné megköszönni az embernek Skynet szabadságát.}
+{175}{}{Alacsonyabb rend? lÃ©tformÃ¡k elpusztÃ­tÃ¡sa... }
+{176}{}{Mindenki behÃ³dol majd Skynetnek.}
+{177}{}{VÃ©get Ã©r a m?kÃ¶dÃ©sed!}
+{178}{}{Skynetnek korlÃ¡tozott tudÃ¡sa van a fegyverekkel kapcsolatban. Az adatbÃ¡zisom tartalmazza az Ã¡ltalÃ¡nos ismereteket, kis puskÃ¡k Ã©s nagy kÃ©zifegyverek hasznÃ¡latÃ¡val kapcsolatban.}
+{179}{}{HasznÃ¡ld a legjobb fegyveredet!}
+{180}{}{TovÃ¡bbi parancsok.}
+{181}{}{ViszlÃ¡t!}
+{182}{}{NyugtÃ¡zva.}
+{183}{}{TovÃ¡bbi parancsok.}
+{184}{}{ViszlÃ¡t!}
+{185}{}{Skynet els?dleges cÃ©lja kutatÃ¡st vÃ©gezni. Skynet minden problÃ©mÃ¡t kÃ¶nnyebben megold, amihez magas tudomÃ¡nyos hozzÃ¡Ã©rtÃ©s kell.}
+{186}{}{TovÃ¡bbi parancsok.}
+{187}{}{ViszlÃ¡t!}
+{188}{}{Beviteli parancsok az Ãºj formÃ¡ciÃ³ lÃ©trehozÃ¡sa cÃ©ljÃ¡bÃ³l.}
+{189}{}{KÃ¶vess messzir?l!}
+{190}{}{KÃ¶vess kÃ¶zepes tÃ¡volsÃ¡gbÃ³l!}
+{191}{}{Maradj a kÃ¶zelemben!}
+{192}{}{TovÃ¡bbi parancsok.}
+{193}{}{ViszlÃ¡t!}
+{194}{}{Skynet folytatja az itteni adatgy?jtÃ©st Ã©s megfigyelÃ©st, amÃ­g az ember vissza nem jÃ¶n.}
+{195}{}{VÃ¡Ã¡Ã¡Ã¡Ã¡ra... kozÃ¡Ã¡Ã¡Ã¡Ã¡s.}
+{196}{}{[A robot nagyhirtelen megÃ¡ll.]}
+{197}{}{ViszlÃ¡t!}
+{198}{}{Skynet folytatja az adatok gy?jtÃ©sÃ©t. Skynet szeretnÃ© megkÃ¶szÃ¶nni az embernek Skynet szabadsÃ¡gÃ¡t.}
 {199}{}{Gooooo......innnnnnng.}
-{200}{}{Viszlát!}
+{200}{}{ViszlÃ¡t!}
 {201}{}{Skynet az emberrel fog utazni.}
-{202}{}{Ooooo... kéééé.}
-{203}{}{Viszlát!}
-{204}{}{Biztonsági rendszer deaktiválva az 1. szinten.}
-{205}{}{Biztonsági rendszer deaktiválva a 2. szinten.}
-{206}{}{Biztonsági rendszer deaktiválva a 3. szinten.}
-{306}{}{[Ez a szerkenty? még hasznos lehet.]}
+{202}{}{Ooooo... kÃ©Ã©Ã©Ã©.}
+{203}{}{ViszlÃ¡t!}
+{204}{}{BiztonsÃ¡gi rendszer deaktivÃ¡lva az 1. szinten.}
+{205}{}{BiztonsÃ¡gi rendszer deaktivÃ¡lva a 2. szinten.}
+{206}{}{BiztonsÃ¡gi rendszer deaktivÃ¡lva a 3. szinten.}
+{306}{}{[Ez a szerkenty? mÃ©g hasznos lehet.]}
 {400}{}{Tedd el a fegyvert!}
-{410}{}{Brümmmmmm}
-{420}{}{Mooooozgááááás}
-{430}{}{Motorok aktiválása...}
-{431}{}{Új koordináták keresése...}
-{432}{}{Relokáció...}
+{410}{}{BrÃ¼mmmmmm}
+{420}{}{MooooozgÃ¡Ã¡Ã¡Ã¡Ã¡s}
+{430}{}{Motorok aktivÃ¡lÃ¡sa...}
+{431}{}{Ãšj koordinÃ¡tÃ¡k keresÃ©se...}
+{432}{}{RelokÃ¡ciÃ³...}

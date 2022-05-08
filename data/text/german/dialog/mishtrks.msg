@@ -1,2 +1,2 @@
-{100}{}{Diesen Gang müsste man ganz einfach freisprengen können.}
+{100}{}{Diesen Gang mÃ¼sste man ganz einfach freisprengen kÃ¶nnen.}
 {200}{}{Du hast erfolgreich die Steine weggesprengt.}

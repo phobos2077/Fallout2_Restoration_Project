@@ -1,2 +1,2 @@
-{100}{}{C'était la chambre de Richard.}
-{200}{}{Je devrais peut-être jeter un oeil dans le coin.}
+{100}{}{C'Ã©tait la chambre de Richard.}
+{200}{}{Je devrais peut-Ãªtre jeter un oeil dans le coin.}

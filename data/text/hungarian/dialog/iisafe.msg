@@ -1,62 +1,62 @@
-{100}{}{Ez egy nagy fekete széf.}
-{101}{}{Egy fekete kockaszer? valamit látsz.}
-{200}{}{Egy nagy fekete fémkockát látsz, aminek egy kallantyú van az elején.}
-{201}{}{Egy hatalmas fekete, vas-széfet látsz, ami láthatóan túl nehéz ahhoz, hogy megmozdítsd. Egy számzár van az elején.}
-{202}{}{Halló doboz,én }
-{203}{}{ Hahóó?}
-{204}{}{Megtekered a kallantyút}
-{205}{}{Elpályázol}
-{206}{}{Hmmmm. Talán a három dögcédulán lév? számok kinyitják a széfet...}
-{207}{}{Tekergeted a számzárat és hallgatózol.}
-{208}{}{Véletlenszer?en tekergeted a számzárat.}
-{209}{}{Csapdát keresel a széfen.}
-{210}{}{Hagyjuk békén a széfet...}
-{220}{}{Kattanást hallasz. A széf nyitva van.}
-{221}{}{A széf nyitva van.}
-{222}{}{A kallantyú elfordul a kezedben! Olyan, mintha ki tudnád nyitni, ha nagyon akarnád.}
-{223}{}{A nagy fém izé olyan, mintha ki lehetne nyitni.}
-{224}{}{Megpróbálod kinyitni}
-{225}{}{Elpályázol}
-{226}{}{Kifosztod a széfet.}
-{227}{}{Hagyjuk békén a széfet...}
-{235}{}{A széf közelebbi vizsgálatánál észreveszel egy fekete drótot, ami a földön fut a széf mögé. A drót egy rúd dinamithoz és egy detonátorhoz vezet.}
-{236}{}{Hmmmm. Talán a három dögcédulán lév? számok kinyitják a széfet...}
-{237}{}{Megpróbálod hatástalanítani a csapdát.}
-{238}{}{Hagyjuk békén a széfet...}
-{250}{}{Percekig tekereted a számokat a záron, de semmire sem jutsz.}
-{251}{}{Hmmmm. Talán a három dögcédulán lév? számok kinyitják a széfet...}
-{252}{}{Tekergeted a számzárat és hallgatózol.}
-{253}{}{Véletlenszer?en tekergeted a számzárat.}
-{254}{}{Hagyjuk békén a széfet...}
-{275}{}{Nem találsz csapdát a széfen.}
-{276}{}{Hmmmm. Talán a három dögcédulán lév? számok kinyitják a széfet...}
-{277}{}{Tekergeted a számzárat és hallgatózol.}
-{278}{}{Véletlenszer?en tekergeted a számzárat.}
-{279}{}{Tovább kutakodsz csapdák után.}
-{280}{}{Hagyjuk békén a széfet...}
-{290}{}{Tekergeted a gombot... és hirtelen kattanást hallasz. A széf nyitva!}
-{291}{}{Véletlenszer?en tekergeted a számzárat, amikor hirtelen kattan egyet... és a széf nyitva áll!}
-{292}{}{Halló? Halllóóó? Van itt valaki?}
-{293}{}{Ne makacskodj már, add meg magad...}
+{100}{}{Ez egy nagy fekete szÃ©f.}
+{101}{}{Egy fekete kockaszer? valamit lÃ¡tsz.}
+{200}{}{Egy nagy fekete fÃ©mkockÃ¡t lÃ¡tsz, aminek egy kallantyÃº van az elejÃ©n.}
+{201}{}{Egy hatalmas fekete, vas-szÃ©fet lÃ¡tsz, ami lÃ¡thatÃ³an tÃºl nehÃ©z ahhoz, hogy megmozdÃ­tsd. Egy szÃ¡mzÃ¡r van az elejÃ©n.}
+{202}{}{HallÃ³ doboz,Ã©n }
+{203}{}{ HahÃ³Ã³?}
+{204}{}{Megtekered a kallantyÃºt}
+{205}{}{ElpÃ¡lyÃ¡zol}
+{206}{}{Hmmmm. TalÃ¡n a hÃ¡rom dÃ¶gcÃ©dulÃ¡n lÃ©v? szÃ¡mok kinyitjÃ¡k a szÃ©fet...}
+{207}{}{Tekergeted a szÃ¡mzÃ¡rat Ã©s hallgatÃ³zol.}
+{208}{}{VÃ©letlenszer?en tekergeted a szÃ¡mzÃ¡rat.}
+{209}{}{CsapdÃ¡t keresel a szÃ©fen.}
+{210}{}{Hagyjuk bÃ©kÃ©n a szÃ©fet...}
+{220}{}{KattanÃ¡st hallasz. A szÃ©f nyitva van.}
+{221}{}{A szÃ©f nyitva van.}
+{222}{}{A kallantyÃº elfordul a kezedben! Olyan, mintha ki tudnÃ¡d nyitni, ha nagyon akarnÃ¡d.}
+{223}{}{A nagy fÃ©m izÃ© olyan, mintha ki lehetne nyitni.}
+{224}{}{MegprÃ³bÃ¡lod kinyitni}
+{225}{}{ElpÃ¡lyÃ¡zol}
+{226}{}{Kifosztod a szÃ©fet.}
+{227}{}{Hagyjuk bÃ©kÃ©n a szÃ©fet...}
+{235}{}{A szÃ©f kÃ¶zelebbi vizsgÃ¡latÃ¡nÃ¡l Ã©szreveszel egy fekete drÃ³tot, ami a fÃ¶ldÃ¶n fut a szÃ©f mÃ¶gÃ©. A drÃ³t egy rÃºd dinamithoz Ã©s egy detonÃ¡torhoz vezet.}
+{236}{}{Hmmmm. TalÃ¡n a hÃ¡rom dÃ¶gcÃ©dulÃ¡n lÃ©v? szÃ¡mok kinyitjÃ¡k a szÃ©fet...}
+{237}{}{MegprÃ³bÃ¡lod hatÃ¡stalanÃ­tani a csapdÃ¡t.}
+{238}{}{Hagyjuk bÃ©kÃ©n a szÃ©fet...}
+{250}{}{Percekig tekereted a szÃ¡mokat a zÃ¡ron, de semmire sem jutsz.}
+{251}{}{Hmmmm. TalÃ¡n a hÃ¡rom dÃ¶gcÃ©dulÃ¡n lÃ©v? szÃ¡mok kinyitjÃ¡k a szÃ©fet...}
+{252}{}{Tekergeted a szÃ¡mzÃ¡rat Ã©s hallgatÃ³zol.}
+{253}{}{VÃ©letlenszer?en tekergeted a szÃ¡mzÃ¡rat.}
+{254}{}{Hagyjuk bÃ©kÃ©n a szÃ©fet...}
+{275}{}{Nem talÃ¡lsz csapdÃ¡t a szÃ©fen.}
+{276}{}{Hmmmm. TalÃ¡n a hÃ¡rom dÃ¶gcÃ©dulÃ¡n lÃ©v? szÃ¡mok kinyitjÃ¡k a szÃ©fet...}
+{277}{}{Tekergeted a szÃ¡mzÃ¡rat Ã©s hallgatÃ³zol.}
+{278}{}{VÃ©letlenszer?en tekergeted a szÃ¡mzÃ¡rat.}
+{279}{}{TovÃ¡bb kutakodsz csapdÃ¡k utÃ¡n.}
+{280}{}{Hagyjuk bÃ©kÃ©n a szÃ©fet...}
+{290}{}{Tekergeted a gombot... Ã©s hirtelen kattanÃ¡st hallasz. A szÃ©f nyitva!}
+{291}{}{VÃ©letlenszer?en tekergeted a szÃ¡mzÃ¡rat, amikor hirtelen kattan egyet... Ã©s a szÃ©f nyitva Ã¡ll!}
+{292}{}{HallÃ³? HalllÃ³Ã³Ã³? Van itt valaki?}
+{293}{}{Ne makacskodj mÃ¡r, add meg magad...}
 {294}{}{Igen, megvan!!!}
-{305}{}{Megtekered a gombot, de a kis ajtó csak nem nyílik!}
-{306}{}{Percekig tekergeted a számzárat, de hiába.}
-{307}{}{Halllóóó? Hellló, doboz...}
-{308}{}{Tovább tekergeted a kallantyút.}
-{309}{}{Elpályázol}
-{310}{}{Hmmmm. Talán a három dögcédulán lév? számok kinyitják a széfet...}
-{311}{}{Tekergeted a számzárat és hallgatózol.}
-{312}{}{Továbbra is véletlenszer?en tekergeted a számzárat.}
-{313}{}{Hagyjuk békén a széfet...}
-{320}{}{Ez az izé nem válaszol.}
-{321}{}{A fekete kocka nem figyel rád.}
-{322}{}{A fémdoboz ügyet sem vet rád.}
-{323}{}{Hellóóóóó? Én }
-{324}{}{ Háá te?}
-{325}{}{Megtekered a kallantyút}
-{326}{}{Elpályázol}
-{340}{}{Sebészi pontossággal kihúzod a drótot a dinamitból, és hatástalanítod a csapdát.}
-{341}{}{Próbáljuk meg feltörni...}
-{342}{}{Hagyjuk békén a széfet...}
-{343}{}{Harc közben nincs id?d a széffel foglalkozni.}
-{344}{}{Feltörted a fosztogatók széfjét. Király vagy!}
+{305}{}{Megtekered a gombot, de a kis ajtÃ³ csak nem nyÃ­lik!}
+{306}{}{Percekig tekergeted a szÃ¡mzÃ¡rat, de hiÃ¡ba.}
+{307}{}{HalllÃ³Ã³Ã³? HelllÃ³, doboz...}
+{308}{}{TovÃ¡bb tekergeted a kallantyÃºt.}
+{309}{}{ElpÃ¡lyÃ¡zol}
+{310}{}{Hmmmm. TalÃ¡n a hÃ¡rom dÃ¶gcÃ©dulÃ¡n lÃ©v? szÃ¡mok kinyitjÃ¡k a szÃ©fet...}
+{311}{}{Tekergeted a szÃ¡mzÃ¡rat Ã©s hallgatÃ³zol.}
+{312}{}{TovÃ¡bbra is vÃ©letlenszer?en tekergeted a szÃ¡mzÃ¡rat.}
+{313}{}{Hagyjuk bÃ©kÃ©n a szÃ©fet...}
+{320}{}{Ez az izÃ© nem vÃ¡laszol.}
+{321}{}{A fekete kocka nem figyel rÃ¡d.}
+{322}{}{A fÃ©mdoboz Ã¼gyet sem vet rÃ¡d.}
+{323}{}{HellÃ³Ã³Ã³Ã³Ã³? Ã‰n }
+{324}{}{ HÃ¡Ã¡ te?}
+{325}{}{Megtekered a kallantyÃºt}
+{326}{}{ElpÃ¡lyÃ¡zol}
+{340}{}{SebÃ©szi pontossÃ¡ggal kihÃºzod a drÃ³tot a dinamitbÃ³l, Ã©s hatÃ¡stalanÃ­tod a csapdÃ¡t.}
+{341}{}{PrÃ³bÃ¡ljuk meg feltÃ¶rni...}
+{342}{}{Hagyjuk bÃ©kÃ©n a szÃ©fet...}
+{343}{}{Harc kÃ¶zben nincs id?d a szÃ©ffel foglalkozni.}
+{344}{}{FeltÃ¶rted a fosztogatÃ³k szÃ©fjÃ©t. KirÃ¡ly vagy!}

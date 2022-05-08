@@ -1,16 +1,16 @@
-{100}{}{Tu vois un camelot pathétique.}
-{110}{}{Tu ne vois rien d'intéressant.}
+{100}{}{Tu vois un camelot pathÃ©tique.}
+{110}{}{Tu ne vois rien d'intÃ©ressant.}
 {120}{}{Y aura-t-il une version Mac ?}
 {121}{}{Je veux le mode multi-joueurs !}
-{122}{}{Je vous déteste tous !}
+{122}{}{Je vous dÃ©teste tous !}
 {123}{}{Ahhh !}
 {124}{}{Vous ne pouvez pas me faire mal !}
-{125}{}{Je suis la Mort, vous ne pouvez pas me tuer. Je ne suis pas drôle.}
+{125}{}{Je suis la Mort, vous ne pouvez pas me tuer. Je ne suis pas drÃ´le.}
 {126}{}{Je veux une citerne !}
-{127}{}{Où est ma tronçonneuse ?}
+{127}{}{OÃ¹ est ma tronÃ§onneuse ?}
 {128}{}{Ne me fais pas mal.}
-{129}{}{Je ne pensais pas être un tel crétin.}
+{129}{}{Je ne pensais pas Ãªtre un tel crÃ©tin.}
 {130}{}{Je ne pensais pas ces menaces de mort.}
-{131}{}{Je suis désolé Buffy !}
-{132}{}{Je suis désolé ! Je voulais juste être remarqué.}
+{131}{}{Je suis dÃ©solÃ© Buffy !}
+{132}{}{Je suis dÃ©solÃ© ! Je voulais juste Ãªtre remarquÃ©.}
 {133}{}{Je veux une version on-line !}

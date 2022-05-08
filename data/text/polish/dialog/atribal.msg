@@ -1,11 +1,11 @@
 {100}{}{Widzisz Plemiennego.}
-{101}{}{Widzisz silnego mê¿czyznê.}
+{101}{}{Widzisz silnego mÄ™Å¼czyznÄ™.}
 {200}{}{Witam.}
 {201}{}{Witaj w Opactwie.}
-{202}{}{Czeœæ.}
-{203}{}{Czeœæ.}
-{204}{}{Czy¿byœ pochodzi³ z osady Arroyo?}
+{202}{}{CzeÅ›Ä‡.}
+{203}{}{CzeÅ›Ä‡.}
+{204}{}{CzyÅ¼byÅ› pochodziÅ‚ z osady Arroyo?}
 {205}{}{Witam.}
-{206}{}{Wspania³e wyposa¿enie!}
-{207}{}{Witaj, wspó³plemieñcu!}
-{500}{}{Przestañ grzebaæ w moich rzeczach!}
+{206}{}{WspaniaÅ‚e wyposaÅ¼enie!}
+{207}{}{Witaj, wspÃ³Å‚plemieÅ„cu!}
+{500}{}{PrzestaÅ„ grzebaÄ‡ w moich rzeczach!}

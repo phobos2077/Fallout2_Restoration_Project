@@ -8,4 +8,4 @@
 {107}{}{Nichts passiert.}
 {108}{}{Mit Hilfe der Informationen, die dein PIPBoy anzeigt, bekommst du Zugang zum Computer.}
 {109}{}{Wow!!}
-{110}{}{Du hast TONNEN von Informationen über Fallout 2 gesammelt.}
+{110}{}{Du hast TONNEN von Informationen Ã¼ber Fallout 2 gesammelt.}

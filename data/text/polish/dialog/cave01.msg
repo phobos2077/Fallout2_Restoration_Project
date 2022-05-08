@@ -1,1 +1,1 @@
-{100}{}{S³yszysz jakieœ dŸwiêki dochodz¹ce z jaskiñ.}
+{100}{}{SÅ‚yszysz jakieÅ› dÅºwiÄ™ki dochodzÄ…ce z jaskiÅ„.}

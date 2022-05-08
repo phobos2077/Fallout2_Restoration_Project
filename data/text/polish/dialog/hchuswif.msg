@@ -1,26 +1,26 @@
 {100}{}{Widzisz brudnego mutanta.}
-{101}{}{Nosi przepocon¹ koszulê na guziki z wystaj¹cym po¿ó³k³ym podkoszulkiem. Chyba na coœ czeka.}
-{102}{}{Widzisz zdenerwowan¹ mutantkê.}
-{103}{}{Nosi poplamiony fartuch z wyszytym pudlem na przodzie. We w³osach ma ró¿owe, plastikowe lokówki.}
+{101}{}{Nosi przepoconÄ… koszulÄ™ na guziki z wystajÄ…cym poÅ¼Ã³Å‚kÅ‚ym podkoszulkiem. Chyba na coÅ› czeka.}
+{102}{}{Widzisz zdenerwowanÄ… mutantkÄ™.}
+{103}{}{Nosi poplamiony fartuch z wyszytym pudlem na przodzie. We wÅ‚osach ma rÃ³Å¼owe, plastikowe lokÃ³wki.}
 {104}{}{Kobieto, gdzie jest moje ciasto z bramina?!}
-{105}{}{Tym razem tego nie przepieprz, g³upia krowo!}
-{106}{}{Gdzie by³aœ ostatniej nocy?!}
-{107}{}{Gdzie mój Cat's Paw? Znowu go wywali³aœ, co?}
+{105}{}{Tym razem tego nie przepieprz, gÅ‚upia krowo!}
+{106}{}{Gdzie byÅ‚aÅ› ostatniej nocy?!}
+{107}{}{Gdzie mÃ³j Cat's Paw? Znowu go wywaliÅ‚aÅ›, co?}
 {108}{}{**Prrrrrrrrdddddddddd**}
-{109}{}{Zaius od kopalni mówi, ¿e mo¿e mieæ dla mnie jak¹œ pracê w przysz³ym miesi¹cu.}
-{110}{}{To miejsce to jeden wielki burdel! Kobieto, kiedy ty w koñcu zabierzesz siê za sprz¹tanie?}
-{111}{}{Masz naprawdê niewyparzon¹ gêbê, babo!}
-{112}{}{Kocham ciê, z³otko.}
-{113}{}{Czy chcesz dostaæ z ty³u mojej rêki, babo?}
-{140}{}{Sam sobie zrób te twoje cholerne ciasto, ty g³upia, t³usta beko!}
-{141}{}{...[mamrocze] daæ mu tyle tego cholernego pieprzu, ile bêdê chcia³a... [mamrocze]}
-{142}{}{Przy miejskiej studni myj¹c twoje brudne gacie na tarze, zreszt¹ tak jak zwykle!}
-{143}{}{Po co ci ten ch³am, gdy masz tu mnie?!}
-{144}{}{Mówi³am ci, ¿ebyœ przesta³ ¿reæ te iguany na patyku! Otwórz okno! Fuj!}
-{145}{}{Dobrze! Je¿eli wyniesie to twoj¹ t³ust¹ dupê z domu, to jestem ca³a za!}
-{146}{}{Jak tylko zaczniesz mi okazywaæ trochê pieprzonego respektu, ty draniu!}
-{147}{}{Musi byæ trochê rozumu GDZIEŒ w tym domu!}
-{148}{}{Ja te¿ ciê kocham, misiaczku.}
-{149}{}{Nie chcê mieæ NIC do czynienia z czymœ zwi¹zanym z twoim ty³em!}
-{200}{}{Czego do diab³a chcesz? Wynocha z mej rezydencji, ró¿owy prosiaku.}
-{201}{}{Przysiêgam, któregoœ dnia po prostu spakujê siê i pójdê w diab³y. I co wtedy jego leniwa moœæ zrobi?}
+{109}{}{Zaius od kopalni mÃ³wi, Å¼e moÅ¼e mieÄ‡ dla mnie jakÄ…Å› pracÄ™ w przyszÅ‚ym miesiÄ…cu.}
+{110}{}{To miejsce to jeden wielki burdel! Kobieto, kiedy ty w koÅ„cu zabierzesz siÄ™ za sprzÄ…tanie?}
+{111}{}{Masz naprawdÄ™ niewyparzonÄ… gÄ™bÄ™, babo!}
+{112}{}{Kocham ciÄ™, zÅ‚otko.}
+{113}{}{Czy chcesz dostaÄ‡ z tyÅ‚u mojej rÄ™ki, babo?}
+{140}{}{Sam sobie zrÃ³b te twoje cholerne ciasto, ty gÅ‚upia, tÅ‚usta beko!}
+{141}{}{...[mamrocze] daÄ‡ mu tyle tego cholernego pieprzu, ile bÄ™dÄ™ chciaÅ‚a... [mamrocze]}
+{142}{}{Przy miejskiej studni myjÄ…c twoje brudne gacie na tarze, zresztÄ… tak jak zwykle!}
+{143}{}{Po co ci ten chÅ‚am, gdy masz tu mnie?!}
+{144}{}{MÃ³wiÅ‚am ci, Å¼ebyÅ› przestaÅ‚ Å¼reÄ‡ te iguany na patyku! OtwÃ³rz okno! Fuj!}
+{145}{}{Dobrze! JeÅ¼eli wyniesie to twojÄ… tÅ‚ustÄ… dupÄ™ z domu, to jestem caÅ‚a za!}
+{146}{}{Jak tylko zaczniesz mi okazywaÄ‡ trochÄ™ pieprzonego respektu, ty draniu!}
+{147}{}{Musi byÄ‡ trochÄ™ rozumu GDZIEÅš w tym domu!}
+{148}{}{Ja teÅ¼ ciÄ™ kocham, misiaczku.}
+{149}{}{Nie chcÄ™ mieÄ‡ NIC do czynienia z czymÅ› zwiÄ…zanym z twoim tyÅ‚em!}
+{200}{}{Czego do diabÅ‚a chcesz? Wynocha z mej rezydencji, rÃ³Å¼owy prosiaku.}
+{201}{}{PrzysiÄ™gam, ktÃ³regoÅ› dnia po prostu spakujÄ™ siÄ™ i pÃ³jdÄ™ w diabÅ‚y. I co wtedy jego leniwa moÅ›Ä‡ zrobi?}

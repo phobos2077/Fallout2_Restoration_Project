@@ -1,2 +1,2 @@
-{100}{}{Egy kis robbanószer könnyen megtisztítaná az utat.}
-{200}{}{Sikeresen szétrobbantottad a sziklákat.}
+{100}{}{Egy kis robbanÃ³szer kÃ¶nnyen megtisztÃ­tanÃ¡ az utat.}
+{200}{}{Sikeresen szÃ©trobbantottad a sziklÃ¡kat.}

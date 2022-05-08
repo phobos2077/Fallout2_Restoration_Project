@@ -1,1 +1,1 @@
-{100}{}{Entras en una zona con numerosas tiendas abandonadas. Puedes oír el aullido del viento.}
+{100}{}{Entras en una zona con numerosas tiendas abandonadas. Puedes oÃ­r el aullido del viento.}

@@ -1,70 +1,70 @@
-{100}{}{Egy köpcös, jól tápált Shi férfihez van szerencséd.}
+{100}{}{Egy kÃ¶pcÃ¶s, jÃ³l tÃ¡pÃ¡lt Shi fÃ©rfihez van szerencsÃ©d.}
 {101}{}{? Dr. Wong Yi Tze.}
-{102}{}{Egy köpcös, jól tápált Shi férfihez van szerencséd.}
-{103}{}{Segítséget nyújthatok önnek, kérem?}
+{102}{}{Egy kÃ¶pcÃ¶s, jÃ³l tÃ¡pÃ¡lt Shi fÃ©rfihez van szerencsÃ©d.}
+{103}{}{SegÃ­tsÃ©get nyÃºjthatok Ã¶nnek, kÃ©rem?}
 {104}{}{Daghi nu?}
 {105}{}{Te ki lenni?}
-{106}{}{Úgy hallottam, magánál van egy illet? lépe.}
+{106}{}{Ãšgy hallottam, magÃ¡nÃ¡l van egy illet? lÃ©pe.}
 {107}{}{Ki vagy te?}
-{108}{}{Mi a munkád?}
-{109}{}{Nem, köszönöm. Ez minden.}
-{110}{}{Meg kell vallanom valamit. Nem beszélem az ön nyelvét. Talán Ken Leevel kéne beszélnie, ? nagyon sokféle nyelvet megért.}
+{108}{}{Mi a munkÃ¡d?}
+{109}{}{Nem, kÃ¶szÃ¶nÃ¶m. Ez minden.}
+{110}{}{Meg kell vallanom valamit. Nem beszÃ©lem az Ã¶n nyelvÃ©t. TalÃ¡n Ken Leevel kÃ©ne beszÃ©lnie, ? nagyon sokfÃ©le nyelvet megÃ©rt.}
 {111}{}{Agh!}
-{112}{}{Dr. Wong vagyok. Én vagyok e létesítmény vezet? tudósa.}
-{113}{}{Kérem, még kérdeznék.}
-{114}{}{Kösz. Viszlát!}
-{115}{}{Az általunk folytatott kísérleteket felügyelem. Ezenkívül a számítógép-hálózatért is én felelek.}
+{112}{}{Dr. Wong vagyok. Ã‰n vagyok e lÃ©tesÃ­tmÃ©ny vezet? tudÃ³sa.}
+{113}{}{KÃ©rem, mÃ©g kÃ©rdeznÃ©k.}
+{114}{}{KÃ¶sz. ViszlÃ¡t!}
+{115}{}{Az Ã¡ltalunk folytatott kÃ­sÃ©rleteket felÃ¼gyelem. EzenkÃ­vÃ¼l a szÃ¡mÃ­tÃ³gÃ©p-hÃ¡lÃ³zatÃ©rt is Ã©n felelek.}
 {116}{}{Mik a tervei?}
-{117}{}{Hogy tud az ember hozzáférni a számítógép-hálózathoz?}
-{118}{}{Volna még néhány egyéb kérdésem.}
-{119}{}{Értem. Viszlát!}
-{120}{}{Ah, abban az esetben, ha elmondom önnek a terveimet, mindenki tisztában lesz velük. Attól tartok, egyel?re titokban tartom ?ket.}
-{121}{}{Remek, remek. Van még néhány kérdésem.}
-{122}{}{Kösz. Viszlát!}
-{123}{}{Mi lenne, ha egy puskacsövet nyomnék az orra alá és úgy szedném ki magából?}
-{124}{}{Az ember megtanulja, hogy kell behatolni a rendszerbe, hogyan kell összebratyizni valamelyik beosztottammal. Természetesen csak viccelek. Ha ilyesmit akarna tenni, magára küldenék valakit, hogy ölje meg. [mosolyog, jelezvén, hogy nem akar megbántani ezzel.]}
-{125}{}{Maga tényleg megölne engem?}
-{126}{}{Szóval nem lenne komoly kifogása az ellen, hogy rákattanjak a számítógépre?}
-{127}{}{Volna még néhány kérdésem.}
-{128}{}{Hát persze. Viszlát!}
-{129}{}{Fenyegetésnek venném és figyelmeztetném, hogy ez megárthat az egészségének.}
-{130}{}{Tegyünk egy próbát!}
-{131}{}{Csak poénkodtam. Inkább kérdeznék valami mást.}
-{132}{}{[mosolyog] Meg kell védenünk a becsületünket, idegen.}
-{133}{}{Öö, hogyne. Szóval nem lenne ellenére, ha rákattannék a számítógépre?}
-{134}{}{Úúúúgy van. Hadd kérdezzek még!}
-{135}{}{Le merném fogadni. Viszlát!}
-{136}{}{Ha meg tudja gy?zni a beosztottaimat... üsse k?.}
-{137}{}{Mi lenne, ha egy fegyert dugnék az orra alá?}
-{138}{}{Nagyszer?! Hát, még kérdeznék, ha nem gond.}
-{139}{}{Hmm. Értem. Hát akkor viszlát!}
+{117}{}{Hogy tud az ember hozzÃ¡fÃ©rni a szÃ¡mÃ­tÃ³gÃ©p-hÃ¡lÃ³zathoz?}
+{118}{}{Volna mÃ©g nÃ©hÃ¡ny egyÃ©b kÃ©rdÃ©sem.}
+{119}{}{Ã‰rtem. ViszlÃ¡t!}
+{120}{}{Ah, abban az esetben, ha elmondom Ã¶nnek a terveimet, mindenki tisztÃ¡ban lesz velÃ¼k. AttÃ³l tartok, egyel?re titokban tartom ?ket.}
+{121}{}{Remek, remek. Van mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{122}{}{KÃ¶sz. ViszlÃ¡t!}
+{123}{}{Mi lenne, ha egy puskacsÃ¶vet nyomnÃ©k az orra alÃ¡ Ã©s Ãºgy szednÃ©m ki magÃ¡bÃ³l?}
+{124}{}{Az ember megtanulja, hogy kell behatolni a rendszerbe, hogyan kell Ã¶sszebratyizni valamelyik beosztottammal. TermÃ©szetesen csak viccelek. Ha ilyesmit akarna tenni, magÃ¡ra kÃ¼ldenÃ©k valakit, hogy Ã¶lje meg. [mosolyog, jelezvÃ©n, hogy nem akar megbÃ¡ntani ezzel.]}
+{125}{}{Maga tÃ©nyleg megÃ¶lne engem?}
+{126}{}{SzÃ³val nem lenne komoly kifogÃ¡sa az ellen, hogy rÃ¡kattanjak a szÃ¡mÃ­tÃ³gÃ©pre?}
+{127}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{128}{}{HÃ¡t persze. ViszlÃ¡t!}
+{129}{}{FenyegetÃ©snek vennÃ©m Ã©s figyelmeztetnÃ©m, hogy ez megÃ¡rthat az egÃ©szsÃ©gÃ©nek.}
+{130}{}{TegyÃ¼nk egy prÃ³bÃ¡t!}
+{131}{}{Csak poÃ©nkodtam. InkÃ¡bb kÃ©rdeznÃ©k valami mÃ¡st.}
+{132}{}{[mosolyog] Meg kell vÃ©denÃ¼nk a becsÃ¼letÃ¼nket, idegen.}
+{133}{}{Ã–Ã¶, hogyne. SzÃ³val nem lenne ellenÃ©re, ha rÃ¡kattannÃ©k a szÃ¡mÃ­tÃ³gÃ©pre?}
+{134}{}{ÃšÃºÃºÃºgy van. Hadd kÃ©rdezzek mÃ©g!}
+{135}{}{Le mernÃ©m fogadni. ViszlÃ¡t!}
+{136}{}{Ha meg tudja gy?zni a beosztottaimat... Ã¼sse k?.}
+{137}{}{Mi lenne, ha egy fegyert dugnÃ©k az orra alÃ¡?}
+{138}{}{Nagyszer?! HÃ¡t, mÃ©g kÃ©rdeznÃ©k, ha nem gond.}
+{139}{}{Hmm. Ã‰rtem. HÃ¡t akkor viszlÃ¡t!}
 {140}{}{Ahh, yes! Indeed. I will prepare it with fava beans and a nice Chianti.}
-{141}{}{Még megvan magának? Remek. Chip már epedve várja.}
-{142}{}{Az egy emberi lép, maga beteg állat!}
-{143}{}{Azt ugye tudja, hogy ehhez májat kell felszolgálni, nem lépet?}
-{144}{}{Tudja... az egy emberi lép.}
-{145}{}{Ki ez a Chip? A lép az enyém és meg fogom enni vacsorára.}
-{146}{}{Chip a lép eredeti tulajdonosa. Részeg volt és eladta Lao Chounak.}
-{147}{}{Az a helyzet, hogy szeretne életben maradni, ezért vissza akarja kapni. Bel?le származik ugyebár.}
-{148}{}{Akkor esetleg megölöm magát, hogy visszakapjam.}
-{149}{}{Az üzet az üzlet. Jobb lesz, ha búcsút int a lépének. Sajnálom, de mi megegyeztünk és az, hogy Chip megbánást tanúsít, nem jelenti, hogy vissza lehet táncolni az üzlett?l.}
-{150}{}{[TOVÁBB]}
-{151}{}{Az egy emberi lép? La Chou ezt nem említette!}
-{152}{}{Ennek ellenére, a hírviv? kíméletlensége miatt, azt hiszem, a megállapodáshoz fogom tartani a feleket. Kísérleteket fogok végezni azon a lépen.}
-{153}{}{Mondja el a barátjának, hogy holnapig jöjjön érte, és akkor örömmel visszaadom. Remélem, megtalálja a módját, hogy id?ben visszakerüljön a testébe.}
+{141}{}{MÃ©g megvan magÃ¡nak? Remek. Chip mÃ¡r epedve vÃ¡rja.}
+{142}{}{Az egy emberi lÃ©p, maga beteg Ã¡llat!}
+{143}{}{Azt ugye tudja, hogy ehhez mÃ¡jat kell felszolgÃ¡lni, nem lÃ©pet?}
+{144}{}{Tudja... az egy emberi lÃ©p.}
+{145}{}{Ki ez a Chip? A lÃ©p az enyÃ©m Ã©s meg fogom enni vacsorÃ¡ra.}
+{146}{}{Chip a lÃ©p eredeti tulajdonosa. RÃ©szeg volt Ã©s eladta Lao Chounak.}
+{147}{}{Az a helyzet, hogy szeretne Ã©letben maradni, ezÃ©rt vissza akarja kapni. Bel?le szÃ¡rmazik ugyebÃ¡r.}
+{148}{}{Akkor esetleg megÃ¶lÃ¶m magÃ¡t, hogy visszakapjam.}
+{149}{}{Az Ã¼zet az Ã¼zlet. Jobb lesz, ha bÃºcsÃºt int a lÃ©pÃ©nek. SajnÃ¡lom, de mi megegyeztÃ¼nk Ã©s az, hogy Chip megbÃ¡nÃ¡st tanÃºsÃ­t, nem jelenti, hogy vissza lehet tÃ¡ncolni az Ã¼zlett?l.}
+{150}{}{[TOVÃBB]}
+{151}{}{Az egy emberi lÃ©p? La Chou ezt nem emlÃ­tette!}
+{152}{}{Ennek ellenÃ©re, a hÃ­rviv? kÃ­mÃ©letlensÃ©ge miatt, azt hiszem, a megÃ¡llapodÃ¡shoz fogom tartani a feleket. KÃ­sÃ©rleteket fogok vÃ©gezni azon a lÃ©pen.}
+{153}{}{Mondja el a barÃ¡tjÃ¡nak, hogy holnapig jÃ¶jjÃ¶n Ã©rte, Ã©s akkor Ã¶rÃ¶mmel visszaadom. RemÃ©lem, megtalÃ¡lja a mÃ³djÃ¡t, hogy id?ben visszakerÃ¼ljÃ¶n a testÃ©be.}
 {154}{}{Rendben.}
 {155}{}{Ha ha! Yes, I too saw that old movie. Wait... what are you saying? Are you saying that...?}
-{156}{}{Igen, az bizony egy emberi lép.}
-{157}{}{Igazság szerint ellenkeznék ezzel. Maga nem bizonyult jó embernek. Azt sem tudom, miért beszélek magával egyáltalán. Minden jót!}
+{156}{}{Igen, az bizony egy emberi lÃ©p.}
+{157}{}{IgazsÃ¡g szerint ellenkeznÃ©k ezzel. Maga nem bizonyult jÃ³ embernek. Azt sem tudom, miÃ©rt beszÃ©lek magÃ¡val egyÃ¡ltalÃ¡n. Minden jÃ³t!}
 {158}{}{[DONE]}
-{159}{}{Aijjj! ?rség! Itt van a lao wai behatoló!}
-{160}{}{Vannak vázlatai, amit odaadna nekem?}
-{161}{}{Ken Lee mondta nekem, hogy adjam ezeket magának.}
-{162}{}{Igen. Mit kapok cserébe?}
-{163}{}{Nem, még nem.}
-{164}{}{Beszéljen Ken Leevel! Megtárgyalhatják, mi legyen a jöv?jével. Köszönöm. Ezzel képesek leszünk ellen?rizni a tesztadataink egy részét. Minden jót!}
-{165}{}{Az a helyzet, hogy volna még más kérdésem.}
-{166}{}{Ég áldja!}
+{159}{}{Aijjj! ?rsÃ©g! Itt van a lao wai behatolÃ³!}
+{160}{}{Vannak vÃ¡zlatai, amit odaadna nekem?}
+{161}{}{Ken Lee mondta nekem, hogy adjam ezeket magÃ¡nak.}
+{162}{}{Igen. Mit kapok cserÃ©be?}
+{163}{}{Nem, mÃ©g nem.}
+{164}{}{BeszÃ©ljen Ken Leevel! MegtÃ¡rgyalhatjÃ¡k, mi legyen a jÃ¶v?jÃ©vel. KÃ¶szÃ¶nÃ¶m. Ezzel kÃ©pesek leszÃ¼nk ellen?rizni a tesztadataink egy rÃ©szÃ©t. Minden jÃ³t!}
+{165}{}{Az a helyzet, hogy volna mÃ©g mÃ¡s kÃ©rdÃ©sem.}
+{166}{}{Ã‰g Ã¡ldja!}
 {200}{}{I found this corpse stashed over at the Hubologists' base. I believe it might be your missing Xeno Project specimen.}
 {201}{}{Yes, it is indeed! My predecessor had much invested in this subject and was quite distressed when it went missing. Although he is now gone, we still may have some use for this specimen. Thank you for retrieving this.}
 {202}{}{No problem. See you later.}
@@ -75,7 +75,7 @@
 {207}{}{[The man looks like he is about to yell, then calms down.] Fine. Here is $500. More than enough for something
  that always belonged to us. Now leave, I'm a busy man.}
 {208}{}{Pleasure doing business with you. Bye.}
-{209}{}{Ó, a fenébe!}
+{209}{}{Ã“, a fenÃ©be!}
 {210}{}{Let's dance!}
 {211}{}{You recover the missing Xeno Program specimen.}
 {220}{}{So where is it then? Are you trying to play games with me?}
@@ -106,10 +106,10 @@
 {353}{}{Well, that's that. Let me ask you something else.}
 {360}{}{You'll have to excuse me for seeming so callous about the matter. The truth is, Dr. Sheng was not very popular around here and I do not believe any of us miss him in the slightest.}
 {361}{}{I think I'd like follow up on this Dr. Sheng guy. Could you give me his last known location?}
-{362}{}{Értem. Talán akkor kérdez?sködnék más fel?l is.}
+{362}{}{Ã‰rtem. TalÃ¡n akkor kÃ©rdez?skÃ¶dnÃ©k mÃ¡s fel?l is.}
 {370}{}{I suppose I could... I must admit I am somewhat curious to learn of his fate. Here, I'll mark Dr. Sheng's last known location on your mapping device. But I must warn you that it could prove to be highly dangerous. Of course, it is always dangerous out there in the wastes. Anyway, if you find something of interest, do let me know.}
 {371}{}{Thanks, I'll do that. Bye.}
-{372}{}{Feltennék még kérdéseket.}
+{372}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {380}{}{Dr. Sheng is still alive and he's created some kind of plant that takes root in and controls human corpses.}
 {390}{}{So he has achieved some success with his Xeno Project. How fascinating ... and disturbing. We put an end to his sentient plant experiments here after we lost one our techs. When he left to continue his research, I assumed he'd fall victim to his own creations. Has he managed to assume some form of control over them?}
 {391}{}{Yeah, some of them seem to be subservient. They even refer to him as 'master.'}
@@ -151,16 +151,16 @@
 {510}{}{Interesting. [He takes the sample and stores it away.] My team and I will examine it later. I can't say I trust any gift from Dr. Sheng, but I suppose there is an off chance that it'll prove useful. We shall see. Now if there is nothing else, I should be getting back to work.}
 {511}{}{Interesting. [He takes the sample and stores it away.] My team and I will examine it later. I can't say I trust any gift from Dr. Sheng, but I suppose there is an off chance that it'll prove useful. We shall see. But I thought you were going to eliminate Dr. Sheng, not be his courier? In any case, I should be getting back to work.}
 {512}{}{Actually, I would like to ask you something else.}
-{513}{}{Viszlát!}
+{513}{}{ViszlÃ¡t!}
 {514}{}{Actually, I went through quite a bit of trouble to get that sample for you. I think it's worth a reward.}
 {520}{}{Do you, now? The Shi did not solicit this plant sample from you, but if you feel your deeds have earned some compensation, I suppose we could spare this. [He hands you a super stimpak.] Now I really should be getting back to work.}
 {521}{}{Actually, I would like to ask you something else.}
-{522}{}{Kösz. Viszlát!}
+{522}{}{KÃ¶sz. ViszlÃ¡t!}
 {523}{}{Really? You call this a reward? I'm gonna knock you around until something more valuable falls out.}
 {530}{}{[Takes the seed.] Thank you, I will dispose of this immediately. [He sighs.] I knew Dr. Sheng had lost it, but I didn't think he'd go so far as to try and destroy his own people. He must be dealt with immediately.}
 {531}{}{I agree. He's quite the madman.}
 {540}{}{*clutches heart* Wahh.}
-{541}{}{Örgh.}
+{541}{}{Ã–rgh.}
 {542}{}{Dr. Wong!}
 {600}{}{You eliminate Dr. Sheng for the Shi.}
 {601}{}{You deliver the plant sample to Dr. Wong.}

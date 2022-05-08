@@ -1,9 +1,9 @@
-{100}{}{Du siehst einen großen schweren Safe am Boden.}
+{100}{}{Du siehst einen groÃŸen schweren Safe am Boden.}
 {101}{}{Das ist ein sehr stabiler Safe. Er ist verschlossen.}
 {102}{}{Das ist ein sehr stabiler Safe. Er ist offen.}
-{170}{}{Du öffnest geschickt den Safe.}
-{171}{}{Durch deine mangelhaften Fähigkeiten wurde das Schloss beschädigt.}
-{172}{}{Du schaffst es nicht, das Schloss zu öffnen.}
-{189}{}{Du verschließt geschickt den Safe.}
-{190}{}{Du schaffst es nicht, den Safe zu verschließen.}
+{170}{}{Du Ã¶ffnest geschickt den Safe.}
+{171}{}{Durch deine mangelhaften FÃ¤higkeiten wurde das Schloss beschÃ¤digt.}
+{172}{}{Du schaffst es nicht, das Schloss zu Ã¶ffnen.}
+{189}{}{Du verschlieÃŸt geschickt den Safe.}
+{190}{}{Du schaffst es nicht, den Safe zu verschlieÃŸen.}
 {200}{}{Der Safe ist sicher verschlossen.}

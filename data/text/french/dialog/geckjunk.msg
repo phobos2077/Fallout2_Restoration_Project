@@ -1,1 +1,1 @@
-{100}{}{Tu viens d'entrer dans le dépotoir de Gecko.}
+{100}{}{Tu viens d'entrer dans le dÃ©potoir de Gecko.}

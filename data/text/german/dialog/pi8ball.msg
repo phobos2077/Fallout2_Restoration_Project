@@ -4,8 +4,8 @@
 {202}{}{Meine Antwort ist nein.}
 {203}{}{Verlass dich nicht darauf.}
 {204}{}{Darauf kannst du dich verlassen.}
-{205}{}{Frag später noch mal.}
-{206}{}{Höchstwahrscheinlich.}
+{205}{}{Frag spÃ¤ter noch mal.}
+{206}{}{HÃ¶chstwahrscheinlich.}
 {207}{}{Kann ich jetzt nicht genau sagen.}
 {208}{}{Ja.}
 {209}{}{Ja, ganz bestimmt.}
@@ -19,23 +19,23 @@
 {217}{}{Ohne Zweifel.}
 {218}{}{Antwort unklar. Versuch's noch mal.}
 {219}{}{So wie ich das seh, ja.}
-{220}{}{Hör auf, mich so fest zu schütteln. Das tut weh.}
-{221}{}{Dein rechter Arm ist ganz schön stark.}
-{222}{}{Bitte wasch deine Hände, bevor du mich noch mal schüttelst.}
-{223}{}{Vorübergehend außer Betrieb.}
+{220}{}{HÃ¶r auf, mich so fest zu schÃ¼tteln. Das tut weh.}
+{221}{}{Dein rechter Arm ist ganz schÃ¶n stark.}
+{222}{}{Bitte wasch deine HÃ¤nde, bevor du mich noch mal schÃ¼ttelst.}
+{223}{}{VorÃ¼bergehend auÃŸer Betrieb.}
 {224}{}{Auf Anordnung des RPG-Komitees geschlossen.}
-{225}{}{Wenn du mich weiterhin so schüttelst, kriegst du Ärger.}
+{225}{}{Wenn du mich weiterhin so schÃ¼ttelst, kriegst du Ã„rger.}
 {226}{}{Mir wird schlecht.}
-{227}{}{Mir wird übel.}
-{228}{}{Deine Hände sind warm.}
+{227}{}{Mir wird Ã¼bel.}
+{228}{}{Deine HÃ¤nde sind warm.}
 {229}{}{Feargus war dagegen, dass ich bei Fallout mitmachen darf. Er is' 'n ziemlicher Fiesling.}
-{230}{}{Du hast 23 von 100 Punkten. Du musst dich noch ganz schön anstrengen.}
+{230}{}{Du hast 23 von 100 Punkten. Du musst dich noch ganz schÃ¶n anstrengen.}
 {231}{}{Scotty Everts seufzt laut, als er sieht, wieviele Bestandteile das Spiel hat.}
 {232}{}{Sieh im Mordino-Kasino in New Reno in der Herrentoilette im ersten Stock nach.}
 {233}{}{Wenn Du das Kreuz, auf dem 'Abfall' geschrieben steht, in Golgotha aktivierst, wirst Du ein Geheimnis entdecken.}
-{234}{}{Geh zurück und sprich mit Vater Tully in New Reno, wenn du das Spiel beendet hast.}
-{235}{}{Du weißt, dass Du mich als Waffe benutzen kannst.}
-{236}{}{Hör auf, mich so fest zu schütteln.}
-{237}{}{Du hast 'ne ziemliche GLÜCKSSTRÄHNE. Wenn du mich weiterschüttelst, kannst du noch mehr
+{234}{}{Geh zurÃ¼ck und sprich mit Vater Tully in New Reno, wenn du das Spiel beendet hast.}
+{235}{}{Du weiÃŸt, dass Du mich als Waffe benutzen kannst.}
+{236}{}{HÃ¶r auf, mich so fest zu schÃ¼tteln.}
+{237}{}{Du hast 'ne ziemliche GLÃœCKSSTRÃ„HNE. Wenn du mich weiterschÃ¼ttelst, kannst du noch mehr
  rausholen!}
-{238}{}{Ja, wir WISSEN, dass "Descent to Undermountain" Müll war.}
+{238}{}{Ja, wir WISSEN, dass "Descent to Undermountain" MÃ¼ll war.}

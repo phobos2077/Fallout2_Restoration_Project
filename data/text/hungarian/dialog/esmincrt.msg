@@ -1,13 +1,13 @@
-{100}{}{Talán mégsem kéne beállítani az id?zít?t. Veszélyes lehet.}
-{101}{}{Ez a robbanószer nem t?nik elég er?snek, hogy utat nyisson.}
-{102}{}{A kocsi m?köd?képes. Egy lökéssel talán még el is indulna.}
-{103}{}{Esetleg egy rúdra er?sített dinamit elég er?s lenne ahhoz, hogy kirobbantsa a beomlott törmeléket.}
-{104}{}{A dinamit rá van er?sítve a rúdra, az meg a kocsira.}
-{105}{}{Egy nagy lökés elindítaná ezt a kocsit.}
-{106}{}{Meger?ltetted magad a taszítással.}
-{107}{}{Meglökted a kocsit.}
-{108}{}{A kocsi egymagában nem elég ahhoz, hogy elt?njön a törmelék.}
-{109}{}{Nincs semmid, amihez hozzáer?síthetnéd.}
-{110}{}{Bárcsak lenne egy rudad, amit a kocsi elejéhez er?síthetnél.}
-{111}{}{Ráer?sítetted a rudat a kocsira.}
-{112}{}{Ráer?sítetted a dinamitot a rúdra.}
+{100}{}{TalÃ¡n mÃ©gsem kÃ©ne beÃ¡llÃ­tani az id?zÃ­t?t. VeszÃ©lyes lehet.}
+{101}{}{Ez a robbanÃ³szer nem t?nik elÃ©g er?snek, hogy utat nyisson.}
+{102}{}{A kocsi m?kÃ¶d?kÃ©pes. Egy lÃ¶kÃ©ssel talÃ¡n mÃ©g el is indulna.}
+{103}{}{Esetleg egy rÃºdra er?sÃ­tett dinamit elÃ©g er?s lenne ahhoz, hogy kirobbantsa a beomlott tÃ¶rmelÃ©ket.}
+{104}{}{A dinamit rÃ¡ van er?sÃ­tve a rÃºdra, az meg a kocsira.}
+{105}{}{Egy nagy lÃ¶kÃ©s elindÃ­tanÃ¡ ezt a kocsit.}
+{106}{}{Meger?ltetted magad a taszÃ­tÃ¡ssal.}
+{107}{}{MeglÃ¶kted a kocsit.}
+{108}{}{A kocsi egymagÃ¡ban nem elÃ©g ahhoz, hogy elt?njÃ¶n a tÃ¶rmelÃ©k.}
+{109}{}{Nincs semmid, amihez hozzÃ¡er?sÃ­thetnÃ©d.}
+{110}{}{BÃ¡rcsak lenne egy rudad, amit a kocsi elejÃ©hez er?sÃ­thetnÃ©l.}
+{111}{}{RÃ¡er?sÃ­tetted a rudat a kocsira.}
+{112}{}{RÃ¡er?sÃ­tetted a dinamitot a rÃºdra.}

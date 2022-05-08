@@ -1,116 +1,116 @@
-{100}{}{Widzisz drewnian¹ skrzynkê.}
+{100}{}{Widzisz drewnianÄ… skrzynkÄ™.}
 {101}{}{Widzisz metalowy schowek.}
-{102}{}{Widzisz solidny pojemnik z zamkiem (który mo¿na otworzyæ przy pomocy wytrychów) i ukryt¹ pu³apk¹, który mo¿esz byæ w stanie otworzyæ.}
-{103}{}{Widzisz solidny pojemnik z zamkiem i ukryt¹ pu³apk¹, który mo¿esz byæ w stanie otworzyæ.}
-{104}{}{Widzisz solidny pojemnik bez widocznego zamka i z ukryt¹ pu³apk¹, który mo¿esz byæ w stanie otworzyæ.}
-{105}{}{Widzisz solidny pojemnik zamkniêty na stary, zardzewia³y zamek i z ukryt¹ pu³apk¹, który mo¿esz byæ w stanie otworzyæ.}
-{106}{}{Widzisz solidny pojemnik z zamkiem (który mo¿na otworzyæ przy u¿yciu wytrychów) i ukryt¹ pu³apk¹, który mo¿esz byæ w stanie otworzyæ.}
-{107}{}{Widzisz solidny pojemnik z zamkiem i ukryt¹ pu³apk¹, który mo¿esz byæ w stanie otworzyæ.}
-{108}{}{Widzisz solidny pojemnik bez widocznego zamka i z ukryt¹ pu³apk¹, który mo¿esz byæ w stanie otworzyæ.}
-{109}{}{Widzisz solidny pojemnik zamkniêty na stary, zardzewia³y zamek i z ukryt¹ pu³apk¹, który mo¿esz byæ w stanie otworzyæ.}
-{110}{}{Widzisz solidny pojemnik z zamkiem (który mo¿na otworzyæ przy u¿yciu wytrychów) i z przeciêtym kablem na obudowie, który móg³byœ otworzyæ.}
-{111}{}{Widzisz solidny pojemnik z zamkiem i z przeciêtym kablem na obudowie, który móg³byœ otworzyæ.}
-{112}{}{Widzisz solidny pojemnik bez widocznego zamka i z przeciêtym kablem na obudowie, który móg³byœ otworzyæ.}
-{113}{}{Widzisz solidny pojemnik zamkniêty na stary, zardzewia³y zamek i z przeciêtym kablem na obudowie, który móg³byœ otworzyæ.}
-{114}{}{Widzisz solidny pojemnik z zamkiem (który mo¿na otworzyæ przy u¿yciu wytrychów), który móg³byœ otworzyæ.}
-{115}{}{Widzisz solidny pojemnik z zamkiem, który móg³byœ otworzyæ.}
-{116}{}{Widzisz solidny pojemnik, bez widocznego zamka, który móg³byœ otworzyæ.}
-{117}{}{Widzisz solidny pojemnik zamkniêty na stary, zardzewia³y zamek, który móg³byœ otworzyæ.}
-{118}{}{Widzisz solidny pojemnik z zamkiem (który mo¿na otworzyæ przy u¿yciu wytrychów) i bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{119}{}{Widzisz solidny pojemnik z zamkiem i z bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{120}{}{Widzisz solidny pojemnik bez widocznego zamka z bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{121}{}{Widzisz solidny pojemnik zamkniêty na stary, zardzewia³y zamek z bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{122}{}{Widzisz solidny pojemnik z zamkiem (który mo¿na otworzyæ przy u¿yciu wytrychów) i z pu³apk¹ na obudowie.}
-{123}{}{Widzisz solidny pojemnik z zamkiem i pu³apk¹ na obudowie.}
-{124}{}{Widzisz solidny pojemnik bez widocznego zamka i z pu³apk¹ na obudowie.}
-{125}{}{Widzisz solidny pojemnik zamkniêty na stary, zardzewia³y zamek z pu³apk¹ na obudowie.}
-{126}{}{Widzisz solidny pojemnik z zamkiem (który mo¿na otworzyæ przy u¿yciu wytrychów) i przeciêtym kablem na obudowie.}
-{127}{}{Widzisz solidny pojemnik z zamkiem i przeciêtym kablem na obudowie.}
-{128}{}{Widzisz solidny pojemnik bez widocznego zamka i przeciêtym kablem na obudowie.}
-{129}{}{Widzisz solidny pojemnik zamkniêty na stary, zardzewia³y zamek i przeciêtym kablem na obudowie.}
-{130}{}{Widzisz solidny pojemnik z zamkiem (który mo¿na otworzyæ przy u¿yciu wytrychów).}
+{102}{}{Widzisz solidny pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy pomocy wytrychÃ³w) i ukrytÄ… puÅ‚apkÄ…, ktÃ³ry moÅ¼esz byÄ‡ w stanie otworzyÄ‡.}
+{103}{}{Widzisz solidny pojemnik z zamkiem i ukrytÄ… puÅ‚apkÄ…, ktÃ³ry moÅ¼esz byÄ‡ w stanie otworzyÄ‡.}
+{104}{}{Widzisz solidny pojemnik bez widocznego zamka i z ukrytÄ… puÅ‚apkÄ…, ktÃ³ry moÅ¼esz byÄ‡ w stanie otworzyÄ‡.}
+{105}{}{Widzisz solidny pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek i z ukrytÄ… puÅ‚apkÄ…, ktÃ³ry moÅ¼esz byÄ‡ w stanie otworzyÄ‡.}
+{106}{}{Widzisz solidny pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w) i ukrytÄ… puÅ‚apkÄ…, ktÃ³ry moÅ¼esz byÄ‡ w stanie otworzyÄ‡.}
+{107}{}{Widzisz solidny pojemnik z zamkiem i ukrytÄ… puÅ‚apkÄ…, ktÃ³ry moÅ¼esz byÄ‡ w stanie otworzyÄ‡.}
+{108}{}{Widzisz solidny pojemnik bez widocznego zamka i z ukrytÄ… puÅ‚apkÄ…, ktÃ³ry moÅ¼esz byÄ‡ w stanie otworzyÄ‡.}
+{109}{}{Widzisz solidny pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek i z ukrytÄ… puÅ‚apkÄ…, ktÃ³ry moÅ¼esz byÄ‡ w stanie otworzyÄ‡.}
+{110}{}{Widzisz solidny pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w) i z przeciÄ™tym kablem na obudowie, ktÃ³ry mÃ³gÅ‚byÅ› otworzyÄ‡.}
+{111}{}{Widzisz solidny pojemnik z zamkiem i z przeciÄ™tym kablem na obudowie, ktÃ³ry mÃ³gÅ‚byÅ› otworzyÄ‡.}
+{112}{}{Widzisz solidny pojemnik bez widocznego zamka i z przeciÄ™tym kablem na obudowie, ktÃ³ry mÃ³gÅ‚byÅ› otworzyÄ‡.}
+{113}{}{Widzisz solidny pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek i z przeciÄ™tym kablem na obudowie, ktÃ³ry mÃ³gÅ‚byÅ› otworzyÄ‡.}
+{114}{}{Widzisz solidny pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w), ktÃ³ry mÃ³gÅ‚byÅ› otworzyÄ‡.}
+{115}{}{Widzisz solidny pojemnik z zamkiem, ktÃ³ry mÃ³gÅ‚byÅ› otworzyÄ‡.}
+{116}{}{Widzisz solidny pojemnik, bez widocznego zamka, ktÃ³ry mÃ³gÅ‚byÅ› otworzyÄ‡.}
+{117}{}{Widzisz solidny pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek, ktÃ³ry mÃ³gÅ‚byÅ› otworzyÄ‡.}
+{118}{}{Widzisz solidny pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w) i bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{119}{}{Widzisz solidny pojemnik z zamkiem i z bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{120}{}{Widzisz solidny pojemnik bez widocznego zamka z bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{121}{}{Widzisz solidny pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek z bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{122}{}{Widzisz solidny pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w) i z puÅ‚apkÄ… na obudowie.}
+{123}{}{Widzisz solidny pojemnik z zamkiem i puÅ‚apkÄ… na obudowie.}
+{124}{}{Widzisz solidny pojemnik bez widocznego zamka i z puÅ‚apkÄ… na obudowie.}
+{125}{}{Widzisz solidny pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek z puÅ‚apkÄ… na obudowie.}
+{126}{}{Widzisz solidny pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w) i przeciÄ™tym kablem na obudowie.}
+{127}{}{Widzisz solidny pojemnik z zamkiem i przeciÄ™tym kablem na obudowie.}
+{128}{}{Widzisz solidny pojemnik bez widocznego zamka i przeciÄ™tym kablem na obudowie.}
+{129}{}{Widzisz solidny pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek i przeciÄ™tym kablem na obudowie.}
+{130}{}{Widzisz solidny pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w).}
 {131}{}{Widzisz solidny pojemnik z zamkiem.}
 {132}{}{Widzisz solidny pojemnik bez widocznego zamka.}
-{133}{}{Widzisz solidny pojemnik zamkniêty na stary, zardzewia³y zamek.}
-{134}{}{Widzisz zniszczony pojemnik z zamkiem (który mo¿na otworzyæ przy u¿yciu wytrychów) i bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{135}{}{Widzisz zniszczony pojemnik z zamkiem i bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{136}{}{Widzisz zniszczony pojemnik bez widocznego zamka, z bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{137}{}{Widzisz zniszczony pojemnik zamkniêty na stary, zardzewia³y zamek, z bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{138}{}{Widzisz zniszczony pojemnik z zamkiem (który mo¿na otworzyæ przy u¿yciu wytrychów) i z pu³apk¹ na obudowie.}
-{139}{}{Widzisz zniszczony pojemnik z zamkiem i pu³apk¹ na obudowie.}
-{140}{}{Widzisz zniszczony pojemnik bez widocznego zamka, z pu³apk¹ na obudowie.}
-{141}{}{Widzisz zniszczony pojemnik zamkniêty na stary, zardzewia³y zamek, z pu³apk¹ na obudowie.}
-{142}{}{Widzisz zniszczony pojemnik z zamkiem (który mo¿na otworzyæ przy u¿yciu wytrychów) i przeciêtym kablem na obudowie.}
-{143}{}{Widzisz zniszczony pojemnik z zamkiem i przeciêtym kablem na obudowie.}
-{144}{}{Widzisz zniszczony pojemnik bez widocznego zamka i przeciêtym kablem na obudowie.}
-{145}{}{Widzisz zniszczony pojemnik zamkniêty na stary, zardzewia³y zamek i przeciêtym kablem na obudowie.}
-{146}{}{Widzisz zniszczony pojemnik z zamkiem (który mo¿na otworzyæ przy u¿yciu wytrychów).}
+{133}{}{Widzisz solidny pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek.}
+{134}{}{Widzisz zniszczony pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w) i bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{135}{}{Widzisz zniszczony pojemnik z zamkiem i bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{136}{}{Widzisz zniszczony pojemnik bez widocznego zamka, z bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{137}{}{Widzisz zniszczony pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek, z bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{138}{}{Widzisz zniszczony pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w) i z puÅ‚apkÄ… na obudowie.}
+{139}{}{Widzisz zniszczony pojemnik z zamkiem i puÅ‚apkÄ… na obudowie.}
+{140}{}{Widzisz zniszczony pojemnik bez widocznego zamka, z puÅ‚apkÄ… na obudowie.}
+{141}{}{Widzisz zniszczony pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek, z puÅ‚apkÄ… na obudowie.}
+{142}{}{Widzisz zniszczony pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w) i przeciÄ™tym kablem na obudowie.}
+{143}{}{Widzisz zniszczony pojemnik z zamkiem i przeciÄ™tym kablem na obudowie.}
+{144}{}{Widzisz zniszczony pojemnik bez widocznego zamka i przeciÄ™tym kablem na obudowie.}
+{145}{}{Widzisz zniszczony pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek i przeciÄ™tym kablem na obudowie.}
+{146}{}{Widzisz zniszczony pojemnik z zamkiem (ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w).}
 {147}{}{Widzisz zniszczony pojemnik z zamkiem.}
 {148}{}{Widzisz zniszczony pojemnik bez widocznego zamka.}
-{149}{}{Widzisz zniszczony pojemnik zamkniêty na stary, zardzewia³y zamek.}
-{150}{}{Widzisz stary pojemnik z zamkiem [który mo¿na otworzyæ przy u¿yciu wytrychów] i bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{151}{}{Widzisz stary pojemnik z zamkiem i bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{152}{}{Widzisz stary pojemnik bez widocznego zamka i z bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{153}{}{Widzisz stary pojemnik zamkniêty na stary, zardzewia³y zamek z bardzo niebezpieczn¹ pu³apk¹ na obudowie.}
-{154}{}{Widzisz stary pojemnik z zamkiem [który mo¿na otworzyæ przy u¿yciu wytrychów] i z pu³apk¹ na obudowie.}
-{155}{}{Widzisz stary pojemnik z zamkiem i z pu³apk¹ na obudowie.}
-{156}{}{Widzisz stary pojemnik bez widocznego zamka i z pu³apk¹ na obudowie.}
-{157}{}{Widzisz stary pojemnik zamkniêty na stary, zardzewia³y zamek i z pu³apk¹ na obudowie.}
-{158}{}{Widzisz stary pojemnik z zamkiem [który mo¿na otworzyæ przy u¿yciu wytrychów] i przeciêtym kablem na obudowie.}
-{159}{}{Widzisz stary pojemnik z zamkiem i przeciêtym kablem na obudowie.}
-{160}{}{Widzisz stary pojemnik bez widocznego zamka i przeciêtym kablem na obudowie.}
-{161}{}{Widzisz stary pojemnik zamkniêty na stary, zardzewia³y zamek i przeciêtym kablem na obudowie.}
-{162}{}{Widzisz stary pojemnik z zamkiem [który mo¿na otworzyæ przy u¿yciu wytrychów].}
+{149}{}{Widzisz zniszczony pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek.}
+{150}{}{Widzisz stary pojemnik z zamkiem [ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w] i bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{151}{}{Widzisz stary pojemnik z zamkiem i bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{152}{}{Widzisz stary pojemnik bez widocznego zamka i z bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{153}{}{Widzisz stary pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek z bardzo niebezpiecznÄ… puÅ‚apkÄ… na obudowie.}
+{154}{}{Widzisz stary pojemnik z zamkiem [ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w] i z puÅ‚apkÄ… na obudowie.}
+{155}{}{Widzisz stary pojemnik z zamkiem i z puÅ‚apkÄ… na obudowie.}
+{156}{}{Widzisz stary pojemnik bez widocznego zamka i z puÅ‚apkÄ… na obudowie.}
+{157}{}{Widzisz stary pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek i z puÅ‚apkÄ… na obudowie.}
+{158}{}{Widzisz stary pojemnik z zamkiem [ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w] i przeciÄ™tym kablem na obudowie.}
+{159}{}{Widzisz stary pojemnik z zamkiem i przeciÄ™tym kablem na obudowie.}
+{160}{}{Widzisz stary pojemnik bez widocznego zamka i przeciÄ™tym kablem na obudowie.}
+{161}{}{Widzisz stary pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek i przeciÄ™tym kablem na obudowie.}
+{162}{}{Widzisz stary pojemnik z zamkiem [ktÃ³ry moÅ¼na otworzyÄ‡ przy uÅ¼yciu wytrychÃ³w].}
 {163}{}{Widzisz stary pojemnik z zamkiem.}
 {164}{}{Widzisz stary pojemnik bez widocznego zamka.}
-{165}{}{Widzisz stary pojemnik zamkniêty na stary, zardzewia³y zamek.}
-{166}{}{Uaktywniasz pu³apkê i odnosisz }
-{167}{}{ punktów obra¿eñ.}
-{168}{}{ uaktywnia pu³apkê i odnosi }
-{169}{}{ punktów obra¿eñ.}
-{170}{}{Zrêcznie rozbrajasz zamek na tym pojemniku.}
-{171}{}{Zbyt niskie zdolnoœci sprawiaj¹, ¿e blokujesz zamek przy próbie jego otwarcia.}
-{172}{}{Nie udaje ci siê rozbroiæ zamka na tym pojemniku.}
-{173}{}{ zrêcznie otwiera zamek na pojemniku.}
-{174}{}{ blokuje zamek na pojemniku podczas próby jego otwarcia.}
-{175}{}{ nie potrafi otworzyæ zamka na tym pojemniku.}
+{165}{}{Widzisz stary pojemnik zamkniÄ™ty na stary, zardzewiaÅ‚y zamek.}
+{166}{}{Uaktywniasz puÅ‚apkÄ™ i odnosisz }
+{167}{}{ punktÃ³w obraÅ¼eÅ„.}
+{168}{}{ uaktywnia puÅ‚apkÄ™ i odnosi }
+{169}{}{ punktÃ³w obraÅ¼eÅ„.}
+{170}{}{ZrÄ™cznie rozbrajasz zamek na tym pojemniku.}
+{171}{}{Zbyt niskie zdolnoÅ›ci sprawiajÄ…, Å¼e blokujesz zamek przy prÃ³bie jego otwarcia.}
+{172}{}{Nie udaje ci siÄ™ rozbroiÄ‡ zamka na tym pojemniku.}
+{173}{}{ zrÄ™cznie otwiera zamek na pojemniku.}
+{174}{}{ blokuje zamek na pojemniku podczas prÃ³by jego otwarcia.}
+{175}{}{ nie potrafi otworzyÄ‡ zamka na tym pojemniku.}
 {176}{}{Niszczysz zamek na pojemniku.}
-{177}{}{Nadwerê¿asz siê próbuj¹c wy³amaæ zamek i odnosisz jeden punkt obra¿eñ.}
-{178}{}{Nadwerê¿asz siê próbuj¹c wy³amaæ zamek i odnosisz }
-{179}{}{ punktów obra¿eñ.}
-{180}{}{Brakuje ci si³, ¿eby wy³amaæ ten zamek.}
+{177}{}{NadwerÄ™Å¼asz siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosisz jeden punkt obraÅ¼eÅ„.}
+{178}{}{NadwerÄ™Å¼asz siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosisz }
+{179}{}{ punktÃ³w obraÅ¼eÅ„.}
+{180}{}{Brakuje ci siÅ‚, Å¼eby wyÅ‚amaÄ‡ ten zamek.}
 {181}{}{ niszczy zamek na pojemniku.}
-{182}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek z drzwi i odnosi jeden punkt obra¿eñ.}
-{183}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek i odnosi }
-{184}{}{ punktów obra¿eñ.}
-{185}{}{ nie ma doœæ si³ by wy³amaæ zamek.}
-{186}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek i odnosi jeden punkt obra¿eñ.}
-{187}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek i odnosi }
-{188}{}{ punktów obra¿eñ.}
-{189}{}{Zrêcznie zamykasz pojemnik.}
-{190}{}{Nie udaje ci siê zamkn¹æ pojemnika.}
-{191}{}{ zrêcznie zamyka pojemnik.}
-{192}{}{ nie potrafi zamkn¹æ pojemnika.}
+{182}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek z drzwi i odnosi jeden punkt obraÅ¼eÅ„.}
+{183}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosi }
+{184}{}{ punktÃ³w obraÅ¼eÅ„.}
+{185}{}{ nie ma doÅ›Ä‡ siÅ‚ by wyÅ‚amaÄ‡ zamek.}
+{186}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosi jeden punkt obraÅ¼eÅ„.}
+{187}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosi }
+{188}{}{ punktÃ³w obraÅ¼eÅ„.}
+{189}{}{ZrÄ™cznie zamykasz pojemnik.}
+{190}{}{Nie udaje ci siÄ™ zamknÄ…Ä‡ pojemnika.}
+{191}{}{ zrÄ™cznie zamyka pojemnik.}
+{192}{}{ nie potrafi zamknÄ…Ä‡ pojemnika.}
 {193}{}{Wybuch nie uszkadza pojemnika.}
-{194}{}{Widzisz pu³apkê na tym pojemniku.}
-{195}{}{Nie widzisz tu ¿adnej pu³apki.}
-{196}{}{Sprawnie rozbrajasz pu³apkê.}
-{198}{}{Nie uda³o ci siê rozbroiæ pu³apki.}
-{199}{}{ znajduje pu³apkê na pojemniku.}
-{200}{}{ nie znajduje ¿adnej pu³apki na pojemniku.}
-{201}{}{ sprawnie rozbraja pu³apkê.}
-{202}{}{ nie mo¿e rozbroiæ pu³apki.}
-{203}{}{Pojemnik okazuje siê zamkniêty.}
-{204}{}{Zauwa¿asz pu³apkê na pojemniku.}
-{205}{}{ zauwa¿a pu³apkê na pojemniku.}
-{206}{}{Nie mo¿esz za³o¿yæ pu³apki na pojemniku, poniewa¿ jest on otwarty.}
-{207}{}{ nie mo¿e za³o¿yæ pu³apki na pojemniku, poniewa¿ jest on otwarty.}
-{208}{}{Umiejêtnie zak³adasz pu³apkê na pojemniku.}
-{209}{}{Nie udaje ci siê za³o¿yæ pu³apki na pojemniku.}
-{210}{}{ umiejêtnie zak³ada pu³apkê na pojemniku.}
-{211}{}{ zawodzi przy zak³adaniu pu³apki na pojemniku.}
-{212}{}{Widzisz lodówkê.}
+{194}{}{Widzisz puÅ‚apkÄ™ na tym pojemniku.}
+{195}{}{Nie widzisz tu Å¼adnej puÅ‚apki.}
+{196}{}{Sprawnie rozbrajasz puÅ‚apkÄ™.}
+{198}{}{Nie udaÅ‚o ci siÄ™ rozbroiÄ‡ puÅ‚apki.}
+{199}{}{ znajduje puÅ‚apkÄ™ na pojemniku.}
+{200}{}{ nie znajduje Å¼adnej puÅ‚apki na pojemniku.}
+{201}{}{ sprawnie rozbraja puÅ‚apkÄ™.}
+{202}{}{ nie moÅ¼e rozbroiÄ‡ puÅ‚apki.}
+{203}{}{Pojemnik okazuje siÄ™ zamkniÄ™ty.}
+{204}{}{ZauwaÅ¼asz puÅ‚apkÄ™ na pojemniku.}
+{205}{}{ zauwaÅ¼a puÅ‚apkÄ™ na pojemniku.}
+{206}{}{Nie moÅ¼esz zaÅ‚oÅ¼yÄ‡ puÅ‚apki na pojemniku, poniewaÅ¼ jest on otwarty.}
+{207}{}{ nie moÅ¼e zaÅ‚oÅ¼yÄ‡ puÅ‚apki na pojemniku, poniewaÅ¼ jest on otwarty.}
+{208}{}{UmiejÄ™tnie zakÅ‚adasz puÅ‚apkÄ™ na pojemniku.}
+{209}{}{Nie udaje ci siÄ™ zaÅ‚oÅ¼yÄ‡ puÅ‚apki na pojemniku.}
+{210}{}{ umiejÄ™tnie zakÅ‚ada puÅ‚apkÄ™ na pojemniku.}
+{211}{}{ zawodzi przy zakÅ‚adaniu puÅ‚apki na pojemniku.}
+{212}{}{Widzisz lodÃ³wkÄ™.}
 {400}{}{Otwierasz pojemnik.}
-{601}{}{To jest otwarte, g³upku.}
-{610}{}{Ponosisz spektakularn¹ pora¿kê, ³adunek wybuchowy wybucha przedwczeœnie.}
-{611}{}{ zawodzi spektakularnie, ³adunek wybuchowy wybucha przedwczeœnie.}
+{601}{}{To jest otwarte, gÅ‚upku.}
+{610}{}{Ponosisz spektakularnÄ… poraÅ¼kÄ™, Å‚adunek wybuchowy wybucha przedwczeÅ›nie.}
+{611}{}{ zawodzi spektakularnie, Å‚adunek wybuchowy wybucha przedwczeÅ›nie.}

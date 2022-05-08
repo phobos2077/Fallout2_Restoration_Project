@@ -1,67 +1,67 @@
-{100}{}{Widzisz studniê w Broken Hills.}
-{101}{}{Miejska studnia zbudowana jest z popêkanych, luŸno trzymaj¹cych siê cegie³. Z do³u uderza ciê ciê¿ki, zgni³y odór.}
-{102}{}{Pamiêtaj¹c o tym, co Typhon powiedzia³ o ukryciu skarbu w miejscu "nieodzownym", które "raczej nie zostanie spalone lub zaorane", dok³adnie sprawdzasz star¹ studniê. Kilka stóp ni¿ej w œcianie zauwa¿asz ceg³ê, która w widoczny sposób wyró¿nia siê wœród pozosta³ych.}
+{100}{}{Widzisz studniÄ™ w Broken Hills.}
+{101}{}{Miejska studnia zbudowana jest z popÄ™kanych, luÅºno trzymajÄ…cych siÄ™ cegieÅ‚. Z doÅ‚u uderza ciÄ™ ciÄ™Å¼ki, zgniÅ‚y odÃ³r.}
+{102}{}{PamiÄ™tajÄ…c o tym, co Typhon powiedziaÅ‚ o ukryciu skarbu w miejscu "nieodzownym", ktÃ³re "raczej nie zostanie spalone lub zaorane", dokÅ‚adnie sprawdzasz starÄ… studniÄ™. Kilka stÃ³p niÅ¼ej w Å›cianie zauwaÅ¼asz cegÅ‚Ä™, ktÃ³ra w widoczny sposÃ³b wyrÃ³Å¼nia siÄ™ wÅ›rÃ³d pozostaÅ‚ych.}
 {103}{}{Doblleeee! Skaaab!}
-{104}{}{A-cha! Ale siê ob³owiê!}
-{105}{}{Delikatnie wyci¹gaj¹c luŸn¹ ceg³ê ze œciany zagl¹dasz w ciemnoœæ wypatruj¹c bogactwa, na które zas³ugujesz.}
+{104}{}{A-cha! Ale siÄ™ obÅ‚owiÄ™!}
+{105}{}{Delikatnie wyciÄ…gajÄ…c luÅºnÄ… cegÅ‚Ä™ ze Å›ciany zaglÄ…dasz w ciemnoÅ›Ä‡ wypatrujÄ…c bogactwa, na ktÃ³re zasÅ‚ugujesz.}
 {106}{}{Gdzeee kasia?}
-{107}{}{Chm... nic tu nie widzê.}
-{108}{}{Rzucasz bezu¿yteczn¹ ceg³ê do studni, aby uwolniæ rêce.}
-{109}{}{Haaaaar! Pieni¹¹¹¿ki!}
-{110}{}{Haaaaar! No dobra. Czas na kasê!}
-{111}{}{Nagle z dziury w œcianie studni wypada pokaŸnych rozmiarów torba z przywi¹zanym sznurem i znika w ciemnoœciach. W swojej gor¹czce zdobycia skarbu usz³o twojej uwadze, ¿e wywalona przez ciebie ceg³a by³a przywi¹zana sznurkiem do tego skarbu, którego tak pragniesz.}
+{107}{}{Chm... nic tu nie widzÄ™.}
+{108}{}{Rzucasz bezuÅ¼ytecznÄ… cegÅ‚Ä™ do studni, aby uwolniÄ‡ rÄ™ce.}
+{109}{}{Haaaaar! PieniÄ…Ä…Ä…Å¼ki!}
+{110}{}{Haaaaar! No dobra. Czas na kasÄ™!}
+{111}{}{Nagle z dziury w Å›cianie studni wypada pokaÅºnych rozmiarÃ³w torba z przywiÄ…zanym sznurem i znika w ciemnoÅ›ciach. W swojej gorÄ…czce zdobycia skarbu uszÅ‚o twojej uwadze, Å¼e wywalona przez ciebie cegÅ‚a byÅ‚a przywiÄ…zana sznurkiem do tego skarbu, ktÃ³rego tak pragniesz.}
 {112}{}{Ojejejejejej!}
 {113}{}{Cholera! Do dupy!}
-{114}{}{Masz racjê, jest do dupy. Wygl¹da na to, ¿e musisz znaleŸæ sposób na wydostanie skarbu ze studni. Twoje gabaryty s¹ za du¿e, aby zejœæ na dó³ studni i przy okazji nie zaklinowaæ siê. Chyba bêdziesz potrzebowaæ pomocy.}
-{115}{}{Za du¿e moja na dó³ studnia.}
-{116}{}{Nie da rady. Nie zmieszczê siê tam.}
-{117}{}{Ee... przyjacielu, to nie jest... ee... dok³adnie to, co mia³em na myœli.}
-{118}{}{DAWAJ, ma³y!}
-{119}{}{Ma³y ³adna. Lubieæ ma³y.}
-{120}{}{Dalej, ma³y.}
-{121}{}{Dobrze ci idzie. Jeszcze tylko troszkê.}
-{122}{}{No dobra, dobra. Idê... Uuueeee... Ale tu cuchnie! OK. Ju¿ prawie... TAK!}
-{123}{}{Mieæ pieniuñ¿ki?!}
+{114}{}{Masz racjÄ™, jest do dupy. WyglÄ…da na to, Å¼e musisz znaleÅºÄ‡ sposÃ³b na wydostanie skarbu ze studni. Twoje gabaryty sÄ… za duÅ¼e, aby zejÅ›Ä‡ na dÃ³Å‚ studni i przy okazji nie zaklinowaÄ‡ siÄ™. Chyba bÄ™dziesz potrzebowaÄ‡ pomocy.}
+{115}{}{Za duÅ¼e moja na dÃ³Å‚ studnia.}
+{116}{}{Nie da rady. Nie zmieszczÄ™ siÄ™ tam.}
+{117}{}{Ee... przyjacielu, to nie jest... ee... dokÅ‚adnie to, co miaÅ‚em na myÅ›li.}
+{118}{}{DAWAJ, maÅ‚y!}
+{119}{}{MaÅ‚y Å‚adna. LubieÄ‡ maÅ‚y.}
+{120}{}{Dalej, maÅ‚y.}
+{121}{}{Dobrze ci idzie. Jeszcze tylko troszkÄ™.}
+{122}{}{No dobra, dobra. IdÄ™... Uuueeee... Ale tu cuchnie! OK. JuÅ¼ prawie... TAK!}
+{123}{}{MieÄ‡ pieniuÅ„Å¼ki?!}
 {124}{}{Masz?!}
-{125}{}{Ta, jest tutaj! Mój BO¯E! Ta torba jest OGROMNA! Ten dziadek nie ¿artowa³. To musi byæ maj¹tek!}
+{125}{}{Ta, jest tutaj! MÃ³j BOÅ»E! Ta torba jest OGROMNA! Ten dziadek nie Å¼artowaÅ‚. To musi byÄ‡ majÄ…tek!}
 {126}{}{DAAAAAAAJ!!!}
-{127}{}{Przywi¹¿ worek do liny! Wyci¹gnê go!}
-{128}{}{Ta, jasne! I zaraz znikniesz wraz z moj¹ dol¹? Nie s¹dzê! Daj mi sekundê, ¿eby sprawdziæ.}
-{129}{}{W porz¹dku.}
-{130}{}{Jak chcesz. I tak nigdzie st¹d siê nie ruszysz.}
-{131}{}{Otwieram sakwê. To... to piêkne! Takie œwiec¹ce! To... to... Och Ach...}
+{127}{}{PrzywiÄ…Å¼ worek do liny! WyciÄ…gnÄ™ go!}
+{128}{}{Ta, jasne! I zaraz znikniesz wraz z mojÄ… dolÄ…? Nie sÄ…dzÄ™! Daj mi sekundÄ™, Å¼eby sprawdziÄ‡.}
+{129}{}{W porzÄ…dku.}
+{130}{}{Jak chcesz. I tak nigdzie stÄ…d siÄ™ nie ruszysz.}
+{131}{}{Otwieram sakwÄ™. To... to piÄ™kne! Takie Å›wiecÄ…ce! To... to... Och Ach...}
 {132}{}{Och Ach?}
-{133}{}{'Och Ach'? Powiedzia³eœ 'Och Ach'. Dlaczego powiedzia³eœ 'Och Ach'?}
-{134}{}{Ee... niewa¿ne! [chichocze] ...popatrz na to.}
-{135}{}{[Micky przywi¹zuje torbê do liny, a ty wci¹gasz j¹ na górê. Jest ca³kiem ciê¿ka. Mo¿e Micky siê myli.]}
-{136}{}{Patrzeæ, patrzaæ!}
+{133}{}{'Och Ach'? PowiedziaÅ‚eÅ› 'Och Ach'. Dlaczego powiedziaÅ‚eÅ› 'Och Ach'?}
+{134}{}{Ee... niewaÅ¼ne! [chichocze] ...popatrz na to.}
+{135}{}{[Micky przywiÄ…zuje torbÄ™ do liny, a ty wciÄ…gasz jÄ… na gÃ³rÄ™. Jest caÅ‚kiem ciÄ™Å¼ka. MoÅ¼e Micky siÄ™ myli.]}
+{136}{}{PatrzeÄ‡, patrzaÄ‡!}
 {137}{}{Zobaczmy, co my tu mamy.}
-{138}{}{[W poœpiechu otwierasz torbê, wyzwalaj¹c przyp³yw adrenaliny. Materia³ torby ukazuje...]}
+{138}{}{[W poÅ›piechu otwierasz torbÄ™, wyzwalajÄ…c przypÅ‚yw adrenaliny. MateriaÅ‚ torby ukazuje...]}
 {139}{}{Ta, ta?}
 {140}{}{Co to jest?}
 {141}{}{10000 kapsli.}
 {142}{}{KAPSLI?!}
 {143}{}{Cholernych kapsli?!}
-{144}{}{Wkurzaj¹ce, co nie, dzieciaku? Có¿, mo¿e lepiej poszczêœci ci siê kiedy indziej. A teraz wyci¹gnij mnie st¹d!}
-{145}{}{Stary ghul zrobiæ œmieszna kawa³! Cha Cha!}
-{146}{}{Ten stary ghuli bêkart oszuka³ mnie! Chcia³ siê po prostu poœmiaæ ze mnie, gdy ja marnujê swój czas biegaj¹c dooko³a!}
-{147}{}{Ee... przyjacielu? Mo¿e odrobinka pomocy tutaj?}
-{148}{}{Wiedzia³, ¿e spêdzê godziny... nie, DNI, biegaj¹c wszêdzie dooko³a, ¿eby znaleŸæ to gówno, które mi wcisn¹³ tylko po to, ¿eby siê dobrze uœmiaæ!}
-{149}{}{Ee... s³uchaj. Tu na dole jest pewne du¿e wielono¿ne coœ, które chcia³bym doœæ szybko po¿egnaæ. Mo¿esz siê poœpieszyæ?}
-{150}{}{Typhon powinien przecie¿ wiedzieæ, ¿e kapsle s¹ w dzisiejszych czasach bezu¿yteczne. Czy¿ nie?}
-{151}{}{O BO¯E! Pe³za po mnie! RATUNKU!}
-{152}{}{Wiecie co, to naprawdê s³odkie, gdy siê o tym pomyœli. On naprawdê myœla³, ¿e mi pomaga. Mo¿e
- troszkê za bardzo z¿ynam siê na starego. ::wzdycha:: To chyba tyle, jeœli chodzi o skarb. Chyba czas ruszaæ w drogê.}
+{144}{}{WkurzajÄ…ce, co nie, dzieciaku? CÃ³Å¼, moÅ¼e lepiej poszczÄ™Å›ci ci siÄ™ kiedy indziej. A teraz wyciÄ…gnij mnie stÄ…d!}
+{145}{}{Stary ghul zrobiÄ‡ Å›mieszna kawaÅ‚! Cha Cha!}
+{146}{}{Ten stary ghuli bÄ™kart oszukaÅ‚ mnie! ChciaÅ‚ siÄ™ po prostu poÅ›miaÄ‡ ze mnie, gdy ja marnujÄ™ swÃ³j czas biegajÄ…c dookoÅ‚a!}
+{147}{}{Ee... przyjacielu? MoÅ¼e odrobinka pomocy tutaj?}
+{148}{}{WiedziaÅ‚, Å¼e spÄ™dzÄ™ godziny... nie, DNI, biegajÄ…c wszÄ™dzie dookoÅ‚a, Å¼eby znaleÅºÄ‡ to gÃ³wno, ktÃ³re mi wcisnÄ…Å‚ tylko po to, Å¼eby siÄ™ dobrze uÅ›miaÄ‡!}
+{149}{}{Ee... sÅ‚uchaj. Tu na dole jest pewne duÅ¼e wielonoÅ¼ne coÅ›, ktÃ³re chciaÅ‚bym doÅ›Ä‡ szybko poÅ¼egnaÄ‡. MoÅ¼esz siÄ™ poÅ›pieszyÄ‡?}
+{150}{}{Typhon powinien przecieÅ¼ wiedzieÄ‡, Å¼e kapsle sÄ… w dzisiejszych czasach bezuÅ¼yteczne. CzyÅ¼ nie?}
+{151}{}{O BOÅ»E! PeÅ‚za po mnie! RATUNKU!}
+{152}{}{Wiecie co, to naprawdÄ™ sÅ‚odkie, gdy siÄ™ o tym pomyÅ›li. On naprawdÄ™ myÅ›laÅ‚, Å¼e mi pomaga. MoÅ¼e
+ troszkÄ™ za bardzo zÅ¼ynam siÄ™ na starego. ::wzdycha:: To chyba tyle, jeÅ›li chodzi o skarb. Chyba czas ruszaÄ‡ w drogÄ™.}
 {153}{}{[Skomlenie...]}
-{154}{}{Studnie nie wa¿ny ju¿.}
-{155}{}{Hmmmm... Wci¹¿ mam wra¿enie, ¿e coœ wylecia³o mi z g³owy co do tej studni. No có¿, nie ma czasu do stracenia.}
-{156}{}{Czy ktoœ móg³by mi pomóc?}
+{154}{}{Studnie nie waÅ¼ny juÅ¼.}
+{155}{}{Hmmmm... WciÄ…Å¼ mam wraÅ¼enie, Å¼e coÅ› wyleciaÅ‚o mi z gÅ‚owy co do tej studni. No cÃ³Å¼, nie ma czasu do stracenia.}
+{156}{}{Czy ktoÅ› mÃ³gÅ‚by mi pomÃ³c?}
 {157}{}{POMOCY!!!}
-{158}{}{Oooo! Mech! Jaki jestem g³odny!}
-{159}{}{To pe³za po mnie! O Bo¿e!}
-{160}{}{Dorwê ciê za to!}
-{161}{}{O mój bo¿e! Morlokowie!}
+{158}{}{Oooo! Mech! Jaki jestem gÅ‚odny!}
+{159}{}{To peÅ‚za po mnie! O BoÅ¼e!}
+{160}{}{DorwÄ™ ciÄ™ za to!}
+{161}{}{O mÃ³j boÅ¼e! Morlokowie!}
 {162}{}{Krecik, ty tutaj?!?}
-{163}{}{Wœciek³oœæ... wariujê... teraz... tak!}
-{164}{}{Jak rozumiem prosiæ o jakieœ sekretne przejœcie to za du¿o.}
-{165}{}{Co tam siê u góry dzieje?}
+{163}{}{WÅ›ciekÅ‚oÅ›Ä‡... wariujÄ™... teraz... tak!}
+{164}{}{Jak rozumiem prosiÄ‡ o jakieÅ› sekretne przejÅ›cie to za duÅ¼o.}
+{165}{}{Co tam siÄ™ u gÃ³ry dzieje?}

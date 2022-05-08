@@ -1,7 +1,7 @@
-{100}{}{A koporsóban egy id?s ember holtteste fekszik. A torkát elvágták. A testen semmi nincs.}
+{100}{}{A koporsÃ³ban egy id?s ember holtteste fekszik. A torkÃ¡t elvÃ¡gtÃ¡k. A testen semmi nincs.}
 {101}{}{An old man's body lies in a sturdy wooden coffin, and it looks like someone cut his throat.}
-{150}{}{Miközben átkutatod Pritchard testét, lehúzod a csizmáját, és észreveszed, hogy a lábbeli egyik sarka lazább, mint kéne. Lefeszíted, és találsz benne egy rongyos térképet, amely egy "SHR" nev? helyet jelöl. Gyorsan betáplálod a PipBoyba.}
-{200}{}{A sírk? szerint: "Itt nyugszik Sam Pritchard: Olyan sokat beszélt, hogy kapott egy másik szájat is."}
+{150}{}{MikÃ¶zben Ã¡tkutatod Pritchard testÃ©t, lehÃºzod a csizmÃ¡jÃ¡t, Ã©s Ã©szreveszed, hogy a lÃ¡bbeli egyik sarka lazÃ¡bb, mint kÃ©ne. LefeszÃ­ted, Ã©s talÃ¡lsz benne egy rongyos tÃ©rkÃ©pet, amely egy "SHR" nev? helyet jelÃ¶l. Gyorsan betÃ¡plÃ¡lod a PipBoyba.}
+{200}{}{A sÃ­rk? szerint: "Itt nyugszik Sam Pritchard: Olyan sokat beszÃ©lt, hogy kapott egy mÃ¡sik szÃ¡jat is."}
 {250}{}{You have found Pritchard's grave... and the map to the Sierra Army Depot.}
-{255}{}{Hmmm... Asszem, találtam egy nyomot.}
-{256}{}{Hmmm... szééép papér... én játssza rajta "cuwa"}
+{255}{}{Hmmm... Asszem, talÃ¡ltam egy nyomot.}
+{256}{}{Hmmm... szÃ©Ã©Ã©p papÃ©r... Ã©n jÃ¡tssza rajta "cuwa"}

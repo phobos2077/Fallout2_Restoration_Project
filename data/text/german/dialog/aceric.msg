@@ -1,4 +1,4 @@
-{100}{}{Du siehst deinen Neffen Feargus weinend über irgendetwas, wie immer.}
+{100}{}{Du siehst deinen Neffen Feargus weinend Ã¼ber irgendetwas, wie immer.}
 {101}{}{Bahh!!! Bitte reparier den Brunnen.}
 {102}{}{Bahh!!! Ich hab so'n Durst, aber der Brunnen funktioniert nicht!}
 {103}{}{Bahh!!! Der Brunnen muss wirklich repariert werden.}

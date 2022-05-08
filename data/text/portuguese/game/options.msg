@@ -1,14 +1,14 @@
 {0}{}{SALVAR}
 {1}{}{CARREGAR}
-{2}{}{OPÇÕES}
+{2}{}{OPÃ‡Ã•ES}
 {3}{}{SAIR}
 {4}{}{FEITO}
-{100}{}{PREFERÊNCIAS}
+{100}{}{PREFERÃŠNCIAS}
 {101}{}{DIFICULDADE DO JOGO}
 {102}{}{DIFICULDADE DE LUTA}
-{103}{}{NÍVEL DE VIOLÊNCIA}
+{103}{}{NÃVEL DE VIOLÃŠNCIA}
 {104}{}{DESTAQUE DO ALVO}
-{105}{}{VISÃO DE COMBATE}
+{105}{}{VISÃƒO DE COMBATE}
 {106}{}{MENSAGENS}
 {107}{}{COMBAT TAUNTS}
 {108}{}{FILTRO DE TEXTO}
@@ -18,33 +18,33 @@
 {112}{}{VELOCIDADE DE LUTA}
 {113}{}{ATRASO DO TEXTO}
 {114}{}{VOLUME DO JOGO}
-{115}{}{VOLUME DA MÚSICA}
+{115}{}{VOLUME DA MÃšSICA}
 {116}{}{VOLUME DE EFEITOS}
 {117}{}{VOLUME DE FALA}
-{118}{}{NÍVEL DO BRILHO}
+{118}{}{NÃVEL DO BRILHO}
 {119}{}{SENSIBILIDADE}
-{120}{}{PADRÃO}
+{120}{}{PADRÃƒO}
 {121}{}{CANCEL}
 {122}{}{Afetar a velocidade do jogador}
 {123}{}{Discurso Pipboy}
 {201}{}{Ligado}
 {202}{}{Desligado}
-{203}{}{Fácil}
+{203}{}{FÃ¡cil}
 {204}{}{Normal}
-{205}{}{Difício}
-{206}{}{Fácil}
+{205}{}{DifÃ­cio}
+{206}{}{FÃ¡cil}
 {207}{}{Normal}
 {208}{}{Brutal}
 {209}{}{Normal}
-{210}{}{Rápido}
+{210}{}{RÃ¡pido}
 {211}{}{Raro}
 {212}{}{Sempre}
 {213}{}{Apenas alvo}
 {214}{}{Nenhum}
-{215}{}{Mínimo}
-{216}{}{Sanguinário}
+{215}{}{MÃ­nimo}
+{216}{}{SanguinÃ¡rio}
 {217}{}{Lento}
-{218}{}{Rápido}
+{218}{}{RÃ¡pido}
 {219}{}{Sempre}
 {220}{}{Lots}
 {221}{}{Baixo}

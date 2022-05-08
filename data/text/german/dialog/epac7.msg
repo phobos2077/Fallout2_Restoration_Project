@@ -1,46 +1,46 @@
 {100}{}{Du siehst ein Hologramm.}
-{101}{}{Du siehst die Direktorin für Öffentlichkeitsarbeit.}
-{102}{}{Hologramm 40011. Sie ist für all die Führungen und Presseveröffentlichungen der EPA verantwortlich}
-{200}{}{[Dieses attraktive weibliche Hologramm begrüßt dich mit einem freundlichen Lächeln.] Hallo Besucher, herzlich willkommen in der EPA. Wie kann ich ihnen helfen? Das Essen wird für alle Angestellten mittags in der Cafeteria serviert.}
+{101}{}{Du siehst die Direktorin fÃ¼r Ã–ffentlichkeitsarbeit.}
+{102}{}{Hologramm 40011. Sie ist fÃ¼r all die FÃ¼hrungen und PresseverÃ¶ffentlichungen der EPA verantwortlich}
+{200}{}{[Dieses attraktive weibliche Hologramm begrÃ¼ÃŸt dich mit einem freundlichen LÃ¤cheln.] Hallo Besucher, herzlich willkommen in der EPA. Wie kann ich ihnen helfen? Das Essen wird fÃ¼r alle Angestellten mittags in der Cafeteria serviert.}
 {201}{}{Was? Oh nicht so wichtig. Wer bist du?}
-{202}{}{Ich muss jetzt gehen. Tschüss.}
-{210}{}{Ich? Ich bin Hologram 40011, die Direktorin für die wichtige Öffentlichkeitsarbeit. Ich organisiere Ausflüge, Führungen und vieles mehr, um einen reibungslosen Tagesablauf für das Publikum sicherzustellen. Die Führung durch das Museum der EPA beginnt bald. Bitte halten Sie ihre Pässe bereit.}
+{202}{}{Ich muss jetzt gehen. TschÃ¼ss.}
+{210}{}{Ich? Ich bin Hologram 40011, die Direktorin fÃ¼r die wichtige Ã–ffentlichkeitsarbeit. Ich organisiere AusflÃ¼ge, FÃ¼hrungen und vieles mehr, um einen reibungslosen Tagesablauf fÃ¼r das Publikum sicherzustellen. Die FÃ¼hrung durch das Museum der EPA beginnt bald. Bitte halten Sie ihre PÃ¤sse bereit.}
 {211}{}{Das klingt nach einer spannenden Arbeit. Wiedersehen.}
-{212}{}{Nun, vielleicht könntest du mir helfen?}
-{220}{}{Natürlich. Ich helfe gerne. Wie kann ich Ihnen behilflich sein? Prospekte finden Sie sowohl im Hauptbüro als auch in den, in der gesamten EPA angebrachten, Aushängen.}
-{221}{}{Es gibt einige Türen in diesem Komplex, die sich, ohne dass man ein Kennwort spricht, nicht öffnen. Ich würde da wirklich gerne durch, um mehr von dieser Einrichtung zu sehen. Ich nehme nicht an, dass du das Kennwort kennst?}
-{230}{}{Natürlich weiß ich das Kennwort, aber leider bin ich außerstande es Ihnen mitzuteilen. Ich verstehe Ihre Begeisterung dafür, alles sehen zu wollen, was diese große Einrichtung anbietet, aber es gibt Regeln, die wir für Ihre eigene Sicherheit beachten müssen. Zur Erinnerung, wir bieten zu vorbestimmten Zeiten Führungen durch unseren Komplex an.}
-{231}{}{Oh, du musst dich nicht um meine Sicherheit sorgen, ich bin das Auserwählte Wesen. Außerdem, wann hattest du zum letzte Mal einen *richtigen* Besucher? Willst du mich wirklich enttäuscht weggehen lassen?}
+{212}{}{Nun, vielleicht kÃ¶nntest du mir helfen?}
+{220}{}{NatÃ¼rlich. Ich helfe gerne. Wie kann ich Ihnen behilflich sein? Prospekte finden Sie sowohl im HauptbÃ¼ro als auch in den, in der gesamten EPA angebrachten, AushÃ¤ngen.}
+{221}{}{Es gibt einige TÃ¼ren in diesem Komplex, die sich, ohne dass man ein Kennwort spricht, nicht Ã¶ffnen. Ich wÃ¼rde da wirklich gerne durch, um mehr von dieser Einrichtung zu sehen. Ich nehme nicht an, dass du das Kennwort kennst?}
+{230}{}{NatÃ¼rlich weiÃŸ ich das Kennwort, aber leider bin ich auÃŸerstande es Ihnen mitzuteilen. Ich verstehe Ihre Begeisterung dafÃ¼r, alles sehen zu wollen, was diese groÃŸe Einrichtung anbietet, aber es gibt Regeln, die wir fÃ¼r Ihre eigene Sicherheit beachten mÃ¼ssen. Zur Erinnerung, wir bieten zu vorbestimmten Zeiten FÃ¼hrungen durch unseren Komplex an.}
+{231}{}{Oh, du musst dich nicht um meine Sicherheit sorgen, ich bin das AuserwÃ¤hlte Wesen. AuÃŸerdem, wann hattest du zum letzte Mal einen *richtigen* Besucher? Willst du mich wirklich enttÃ¤uscht weggehen lassen?}
 {232}{}{Na gut.  Wiedersehen.}
-{240}{}{Natürlich nicht. Aber, wenn ich Ihnen das Kennwort gebe, würde ich nicht nur Sie gefährden, ich könnte auch den ganzen Komplex gefährden. Kinder, belästigt bitte nicht die Hologramme.}
-{241}{}{Wie könnte das den Komplex gefährden? Es tut mir leid, aber ich muss es dir sagen, Lady, dieser Komplex ist bereits zur Hölle und wieder zurück gegangen. Es gibt hier nichts, außer gefährlichen Chemikalien und kaputten Robotern. Also wirklich, ich sehe nicht wie ich die Sache noch schlimmer machen könnte.}
+{240}{}{NatÃ¼rlich nicht. Aber, wenn ich Ihnen das Kennwort gebe, wÃ¼rde ich nicht nur Sie gefÃ¤hrden, ich kÃ¶nnte auch den ganzen Komplex gefÃ¤hrden. Kinder, belÃ¤stigt bitte nicht die Hologramme.}
+{241}{}{Wie kÃ¶nnte das den Komplex gefÃ¤hrden? Es tut mir leid, aber ich muss es dir sagen, Lady, dieser Komplex ist bereits zur HÃ¶lle und wieder zurÃ¼ck gegangen. Es gibt hier nichts, auÃŸer gefÃ¤hrlichen Chemikalien und kaputten Robotern. Also wirklich, ich sehe nicht wie ich die Sache noch schlimmer machen kÃ¶nnte.}
 {242}{}{Oh, dann vergiss es.}
-{250}{}{Ich... ich weiß es nicht. Ich würde das Protokoll übergehen. Aber... wenn Sie mir vielleicht bei etwas helfen könnten. Sehr geehrte Besucher, bitte beachten Sie dass, aus Gründen die sehr uninteressant sind, das Betreten der Ebene Blau verboten ist. Es gibt keinen Grund, sich dafür zu interessieren.}
+{250}{}{Ich... ich weiÃŸ es nicht. Ich wÃ¼rde das Protokoll Ã¼bergehen. Aber... wenn Sie mir vielleicht bei etwas helfen kÃ¶nnten. Sehr geehrte Besucher, bitte beachten Sie dass, aus GrÃ¼nden die sehr uninteressant sind, das Betreten der Ebene Blau verboten ist. Es gibt keinen Grund, sich dafÃ¼r zu interessieren.}
 {251}{}{Klar, kann ich dir helfen. Sag mir einfach was du brauchst.}
-{260}{}{Ach ja, hier sieht es jetzt viel besser aus, ich danke Ihnen. Das Kennwort ist ABRE. Einfach laut und deutlich gegen die Tür sprechen und sie wird sich öffnen. Wenn Sie nun bitte alle... }
-{261}{}{JA, wir haben dich schon verstanden. Danke für den Code. Tschüss.}
+{260}{}{Ach ja, hier sieht es jetzt viel besser aus, ich danke Ihnen. Das Kennwort ist ABRE. Einfach laut und deutlich gegen die TÃ¼r sprechen und sie wird sich Ã¶ffnen. Wenn Sie nun bitte alle... }
+{261}{}{JA, wir haben dich schon verstanden. Danke fÃ¼r den Code. TschÃ¼ss.}
 {270}{}{Und nochmal Guten Tag. Wie kann ich Ihnen helfen? Der EPA-Komplex wird in absehbarer Zeit, aufgrund von Mangel an Fachpersonal, geschlossen werden.}
 {271}{}{Nun, da ich mehr Zeit habe. Kannst du mir sagen was du hier machst?}
 {272}{}{Macht nichts.}
-{280}{}{Schön Sie wiederzusehen, Besucher. Zurzeit findet keine Führung statt, aber wenn sie warten würden bis genügend Besucher beisammen sind, wäre es mir eine Freude, eine weitere Tour zu veranstalten.}
-{281}{}{Ich möchte nicht an einer Führung teilnehmen. Wiedersehen.}
-{282}{}{Ich frage mich ob du vielleicht etwas für mich tun könntest?}
-{290}{}{Guten Tag. Ich bin gerade ein wenig beschäftigt damit, einen neuen Plan für die Führungen der nächsten Saison zu Entwerfen. Wenn Sie später wiederkommen würden?}
-{291}{}{Ich würde gerne, aber ich hab es wirklich eilig. Weißt du, ich brauche wirklich das Kennwort für diese Türen. Würdest du es mir bitte geben?}
-{300}{}{Nochmals vielen Dank für Ihre Unterstützung, und bitte gehen Sie mit dem Kennwort, das ich Ihnen gegeben habe, verantwortungsvoll um. Denken Sie daran, dass das unser kleines Geheimnis ist. Ich danke Ihnen für den Besuch in der EPA, ich hoffe, Sie hatten eine angenehme Zeit.}
-{301}{}{Danke. Tschüss.}
+{280}{}{SchÃ¶n Sie wiederzusehen, Besucher. Zurzeit findet keine FÃ¼hrung statt, aber wenn sie warten wÃ¼rden bis genÃ¼gend Besucher beisammen sind, wÃ¤re es mir eine Freude, eine weitere Tour zu veranstalten.}
+{281}{}{Ich mÃ¶chte nicht an einer FÃ¼hrung teilnehmen. Wiedersehen.}
+{282}{}{Ich frage mich ob du vielleicht etwas fÃ¼r mich tun kÃ¶nntest?}
+{290}{}{Guten Tag. Ich bin gerade ein wenig beschÃ¤ftigt damit, einen neuen Plan fÃ¼r die FÃ¼hrungen der nÃ¤chsten Saison zu Entwerfen. Wenn Sie spÃ¤ter wiederkommen wÃ¼rden?}
+{291}{}{Ich wÃ¼rde gerne, aber ich hab es wirklich eilig. WeiÃŸt du, ich brauche wirklich das Kennwort fÃ¼r diese TÃ¼ren. WÃ¼rdest du es mir bitte geben?}
+{300}{}{Nochmals vielen Dank fÃ¼r Ihre UnterstÃ¼tzung, und bitte gehen Sie mit dem Kennwort, das ich Ihnen gegeben habe, verantwortungsvoll um. Denken Sie daran, dass das unser kleines Geheimnis ist. Ich danke Ihnen fÃ¼r den Besuch in der EPA, ich hoffe, Sie hatten eine angenehme Zeit.}
+{301}{}{Danke. TschÃ¼ss.}
 {302}{}{Besuchen Sie uns mal wieder.}
 {303}{}{Vergessen Sie nicht, den EPA Souvenir-Stand zu besuchen.}
-{310}{}{Denken Sie, dass Sie die Beleuchtung in Ordnung bringen könnten? Es ist schwierig für mich, Führungen durch solch einen schwach beleuchteten Komplex zu absolvieren. Wenn Sie für mich wieder mehr Licht in diese Räume bringen, gebe ich Ihnen das Kennwort. Bitte denken Sie daran, Ihre Hände nach dem Besuch unseres Streichelzoos gründlich zu waschen.}
+{310}{}{Denken Sie, dass Sie die Beleuchtung in Ordnung bringen kÃ¶nnten? Es ist schwierig fÃ¼r mich, FÃ¼hrungen durch solch einen schwach beleuchteten Komplex zu absolvieren. Wenn Sie fÃ¼r mich wieder mehr Licht in diese RÃ¤ume bringen, gebe ich Ihnen das Kennwort. Bitte denken Sie daran, Ihre HÃ¤nde nach dem Besuch unseres Streichelzoos grÃ¼ndlich zu waschen.}
 {311}{}{In Ordnung. Ich schau mal, was ich tun kann.}
 {312}{}{Vergiss es. Ich bin nicht interessiert.}
-{320}{}{Der Komplex sieht immer noch ziemlich düster aus. Sie haben doch vor, die Beleuchtung in Ordnung zu bringen, oder? Sehr geehrte Besucher, vergessen Sie nicht die Verzichtserklärungen vor dem Ende der Führung zu unterschreiben.}
+{320}{}{Der Komplex sieht immer noch ziemlich dÃ¼ster aus. Sie haben doch vor, die Beleuchtung in Ordnung zu bringen, oder? Sehr geehrte Besucher, vergessen Sie nicht die VerzichtserklÃ¤rungen vor dem Ende der FÃ¼hrung zu unterschreiben.}
 {321}{}{Keine Sorgen, ich arbeite daran.}
 {322}{}{Ich werd's schon noch tun.}
-{330}{}{Wir würden mehr Besucher haben, wenn die Böden sauber wären.}
-{331}{}{Wie soll ich ohne vernünftige Beleuchtung Führungen machen?}
-{332}{}{Diese Pflanzen töten alle potentiellen Touristen.}
+{330}{}{Wir wÃ¼rden mehr Besucher haben, wenn die BÃ¶den sauber wÃ¤ren.}
+{331}{}{Wie soll ich ohne vernÃ¼nftige Beleuchtung FÃ¼hrungen machen?}
+{332}{}{Diese Pflanzen tÃ¶ten alle potentiellen Touristen.}
 {333}{}{Diese ganzen liegengebliebenen Roboter sind *sehr* unansehnlich.}
-{334}{}{10031, Sie sind für Jahrzehnte nutzlos gewesen.}
+{334}{}{10031, Sie sind fÃ¼r Jahrzehnte nutzlos gewesen.}
 {335}{}{Alles was ich sage, ist, dass dieser Ort ansehnlicher sein muss.}
-{336}{}{Den Komplex zu zerstören, ist nicht die Antwort.}
+{336}{}{Den Komplex zu zerstÃ¶ren, ist nicht die Antwort.}

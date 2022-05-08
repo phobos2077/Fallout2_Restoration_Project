@@ -1,1 +1,1 @@
-{100}{}{Du stehst an der Großen Brücke, der Verbindung zwischen deinem Dorf und den Weiten des Ödlandes.}
+{100}{}{Du stehst an der GroÃŸen BrÃ¼cke, der Verbindung zwischen deinem Dorf und den Weiten des Ã–dlandes.}

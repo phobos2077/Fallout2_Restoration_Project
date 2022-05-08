@@ -1,8 +1,8 @@
-{103}{}{Ten robot nie wydaje siê byæ zainteresowany rozmow¹ z tob¹.}
-{104}{}{Ten robot wydaje siê byæ wy³¹czony.}
+{103}{}{Ten robot nie wydaje siÄ™ byÄ‡ zainteresowany rozmowÄ… z tobÄ….}
+{104}{}{Ten robot wydaje siÄ™ byÄ‡ wyÅ‚Ä…czony.}
 {105}{}{Intruz! Intruz!}
-{106}{}{Zniszczyæ cel!}
+{106}{}{ZniszczyÄ‡ cel!}
 {107}{}{Awaria systemu ochrony!}
-{108}{}{B³¹d systemu!}
-{150}{}{Chyba uda³o ci siê zdezaktywowaæ tego robota.}
-{151}{}{Chyba uda³o ci siê naprawiæ tego robota.}
+{108}{}{BÅ‚Ä…d systemu!}
+{150}{}{Chyba udaÅ‚o ci siÄ™ zdezaktywowaÄ‡ tego robota.}
+{151}{}{Chyba udaÅ‚o ci siÄ™ naprawiÄ‡ tego robota.}

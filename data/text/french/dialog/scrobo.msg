@@ -1,6 +1,6 @@
-{100}{}{Tu vois une chose étrange, mi-chien, mi-métal. Ca bouge.}
-{101}{}{Voici Robochien ! L'animal préféré de tous !}
-{102}{}{Soit cette horrible chose est un mélange entre un chien et une machine, soit ce n'est qu'une machine, habilement réalisée pour ressembler à un chien. C'est difficile à dire.}
+{100}{}{Tu vois une chose Ã©trange, mi-chien, mi-mÃ©tal. Ca bouge.}
+{101}{}{Voici Robochien ! L'animal prÃ©fÃ©rÃ© de tous !}
+{102}{}{Soit cette horrible chose est un mÃ©lange entre un chien et une machine, soit ce n'est qu'une machine, habilement rÃ©alisÃ©e pour ressembler Ã  un chien. C'est difficile Ã  dire.}
 {103}{}{Ouaf ! <Clic> Ouaouf !}
 {104}{}{<Bzzzzzz...>}
 {105}{}{<Fffffrrrrr...> Je suis pas Daggit.}
@@ -23,26 +23,26 @@
 {122}{}{Je ne pense pas vouloir que tu viennes pour le moment. Au revoir.}
 {123}{}{Ouaf ? <Boing> Scratch ?}
 {124}{}{Comment vas-tu ?}
-{125}{}{Je veux que tu attendes ici jusqu'à mon retour.}
+{125}{}{Je veux que tu attendes ici jusqu'Ã  mon retour.}
 {126}{}{Ca suffit.}
-{127}{}{<Clic> ::Gémissements::}
+{127}{}{<Clic> ::GÃ©missements::}
 {128}{}{Ca ne fait rien.}
 {129}{}{D'accord.}
 {130}{}{PI :}
-{131}{}{On ne peut plus réparer Cyberchien à cette heure-là.}
-{132}{}{Cyberchien a été en partie réparé.}
-{133}{}{Cyberchien est complètement réparé maintenant.}
+{131}{}{On ne peut plus rÃ©parer Cyberchien Ã  cette heure-lÃ .}
+{132}{}{Cyberchien a Ã©tÃ© en partie rÃ©parÃ©.}
+{133}{}{Cyberchien est complÃ¨tement rÃ©parÃ© maintenant.}
 {1000}{}{Ouaf ! Hou-hou-hou- <Clic> Ouaf ?}
 {1100}{}{Ouaf ! <Clic> Ouaouf !}
 {1200}{}{Ouaf ? <Boing> Scratch ?}
-{1300}{}{<Clic> ::Gémissements::}
+{1300}{}{<Clic> ::GÃ©missements::}
 {1400}{}{Oua-houuuuuuuuu ! <Clic-clic> Oua-houuuuuuuuu !}
 {1500}{}{Ii-bii-dii-bii-ii-bii-dii-bii !}
 {1600}{}{Certainement, je le range.}
-{1700}{}{Ouaf ouaf réglage de la distance sur proche !}
-{1800}{}{Ouaf ouaf réglage de la distance sur moyenne !}
-{1900}{}{Ouaf ouaf réglage de la distance sur éloignée !}
+{1700}{}{Ouaf ouaf rÃ©glage de la distance sur proche !}
+{1800}{}{Ouaf ouaf rÃ©glage de la distance sur moyenne !}
+{1900}{}{Ouaf ouaf rÃ©glage de la distance sur Ã©loignÃ©e !}
 {2000}{}{<Fffffrrrrr...> Je suis pas Daggit.}
 {2100}{}{GRRR OAUF !}
 {2200}{}{Ouaf ! Hou-hou-hou- <Clic> Ouaf ?}
-{2204}{}{D'accord, t'es à la bonne distance pour l'instant.}
+{2204}{}{D'accord, t'es Ã  la bonne distance pour l'instant.}

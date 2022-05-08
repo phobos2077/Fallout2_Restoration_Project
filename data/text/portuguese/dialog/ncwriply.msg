@@ -41,7 +41,7 @@
 {255}{}{Aighhhhhhhh... I've been hit...}
 {270}{}{I miss Dogmeat from Fallout 1.}
 {271}{}{Think there's gonna be a Fallout 3? I wanna be the hero of that one!}
-{272}{}{Fallout 2 foi trazido para você pela letra Z.}
+{272}{}{Fallout 2 foi trazido para vocÃª pela letra Z.}
 {273}{}{The Enclave can kiss my seven year old ass. What jerks.}
 {274}{}{The Enclave were real jerk-faces, huh? Sheesh.}
 {275}{}{Were you scared when you met the President? Did he have big fangs and claws?}
@@ -50,20 +50,20 @@
 {278}{}{}
 {279}{}{Obrigado por nos salvar.}
 {280}{}{I wanna save th' world just like you when I grow up.}
-{281}{}{Eu posso ser um herói que nem você quando eu crescer?}
+{281}{}{Eu posso ser um herÃ³i que nem vocÃª quando eu crescer?}
 {282}{}{Eu quero ser}
 {300}{}{Aighhhh! It's one of the metal people! Run!}
 {301}{}{It's one of th' metal people! They found us! Run!}
 {302}{}{We're sorry! We're sorry! Don't sic yer metal insect on us! Please!}
-{310}{}{Melhor você fugir antes que o meu papai te veja.}
-{311}{}{Melhor você fugir antes que os meus irmãos te vejam.}
-{312}{}{Você é uma pessoa má. Melhor sair daqui antes que eu conte sobre você.}
+{310}{}{Melhor vocÃª fugir antes que o meu papai te veja.}
+{311}{}{Melhor vocÃª fugir antes que os meus irmÃ£os te vejam.}
+{312}{}{VocÃª Ã© uma pessoa mÃ¡. Melhor sair daqui antes que eu conte sobre vocÃª.}
 {320}{}{(The child stops *bzzzzzing* around and lifts up the pot to look at you.)}
 {321}{}{Can }
 {322}{}{Sorree. I thought you were a pot Byeeee}
 {323}{}{Why do you have a pot on your head?}
 {324}{}{What are you playing?}
-{325}{}{Onde estão seus pais?}
+{325}{}{Onde estÃ£o seus pais?}
 {326}{}{(Let him play.)}
 {330}{}{Well... okay. (Looks you up and down.) But I'M the metal insect this game!}
 {331}{}{Okee dokee little bee person}
@@ -77,7 +77,7 @@
 {343}{}{(Vai embora.)}
 {350}{}{INSECT, stoo-pid! We SAW one when we were out in the desert! It was as big... (Takes a deep breath.) ...as big as a HOUSE!
  N'it had metal PEOPLE in it.}
-{351}{}{hã-hã}
+{351}{}{hÃ£-hÃ£}
 {352}{}{Don't call me stoopid}
 {353}{}{Don't shout. }
 {354}{}{You lie to }
@@ -113,7 +113,7 @@
 {423}{}{[Let him play with his 'helmet.']}
 {430}{}{(Glares at you suspiciously.) Whaddya want?}
 {432}{}{I just wanted to know what kind of game you're playing. It looks like fun!}
-{433}{}{Uh... onde estão seus pais?}
+{433}{}{Uh... onde estÃ£o seus pais?}
 {434}{}{Nada.}
 {440}{}{(The little man turns white, takes a step back, then turns and runs, screaming his head off.)}
 {441}{}{(The kid turns white, takes a step back, then turns and runs, screaming his head off.)}
@@ -127,15 +127,15 @@
 {455}{}{Why, sure you can, you little pothead. Here you go. (Give him a loaded pistol.)}
 {456}{}{"Metal insects?"}
 {457}{}{Oh, okay. I was just curious.}
-{458}{}{Nãããão... Acho melhor eu ir andando.}
-{470}{}{(Olha para você.) Vamos, eu sei como usar armas assim! Sou da Família Wright! Deixa eu ver! Por favor?}
-{471}{}{Veja: nas mãos erradas, uma pistola é uma arma mortal. Bem, quero dizer, é SEMPRE uma arma mortal, mas nas mãos erradas... é, uh... mortal... espere, deixe-me começar de novo.}
-{472}{}{Olha, se sua família lhe confiasse uma arma, eles teriam lhe dado uma. Esqueça.}
-{473}{}{Eu não me importo se você está na Família Badass, você não vai conseguir essa arma.}
-{474}{}{Humm, tudo bem. [Dê a ele uma pistola descarregada.]}
-{475}{}{Humm, tudo bem. [Dê a ele uma pistola carregada.]}
-{476}{}{Esqueça. Vá brincar com seus amigos.}
-{485}{}{Sim, insetos de metal! Vimos um quando estávamos no deserto! Era tão grande... (respira fundo.) ... tão grande quanto uma CASA! Não havia PESSOAS de metal nele.}
+{458}{}{NÃ£Ã£Ã£Ã£o... Acho melhor eu ir andando.}
+{470}{}{(Olha para vocÃª.) Vamos, eu sei como usar armas assim! Sou da FamÃ­lia Wright! Deixa eu ver! Por favor?}
+{471}{}{Veja: nas mÃ£os erradas, uma pistola Ã© uma arma mortal. Bem, quero dizer, Ã© SEMPRE uma arma mortal, mas nas mÃ£os erradas... Ã©, uh... mortal... espere, deixe-me comeÃ§ar de novo.}
+{472}{}{Olha, se sua famÃ­lia lhe confiasse uma arma, eles teriam lhe dado uma. EsqueÃ§a.}
+{473}{}{Eu nÃ£o me importo se vocÃª estÃ¡ na FamÃ­lia Badass, vocÃª nÃ£o vai conseguir essa arma.}
+{474}{}{Humm, tudo bem. [DÃª a ele uma pistola descarregada.]}
+{475}{}{Humm, tudo bem. [DÃª a ele uma pistola carregada.]}
+{476}{}{EsqueÃ§a. VÃ¡ brincar com seus amigos.}
+{485}{}{Sim, insetos de metal! Vimos um quando estÃ¡vamos no deserto! Era tÃ£o grande... (respira fundo.) ... tÃ£o grande quanto uma CASA! NÃ£o havia PESSOAS de metal nele.}
 {486}{}{Really! Wow! Where did you see it?}
 {487}{}{You're lying!}
 {488}{}{I don't believe you. You're lying.}
@@ -203,7 +203,7 @@
 {721}{}{Where did my gun go?}
 {722}{}{I know you gave me a gun, what did I do with it?}
 {723}{}{Did one of you jerks take my gun this lady gave to me?}
-{5277}{}{! Conta pra gente a história da Enclave! Por favoooor?}
+{5277}{}{! Conta pra gente a histÃ³ria da Enclave! Por favoooor?}
 {5278}{}{! Eeeeeee!}
 {5279}{}{!}
 {5282}{}{ quando eu crescer.}

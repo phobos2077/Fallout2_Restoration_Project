@@ -1,11 +1,11 @@
-{100}{}{Du siehst ein Kind, das markante Sprüche schreit.}
+{100}{}{Du siehst ein Kind, das markante SprÃ¼che schreit.}
 {101}{}{Dieses dreckige Kind scheint damit beauftragt zu sein, irgendeine Touristenattraktion anzupreisen.}
-{500}{}{Sehen Sie die mysteriöse Mumie!}
+{500}{}{Sehen Sie die mysteriÃ¶se Mumie!}
 {501}{}{Sehen Sie antike Wunder!}
 {502}{}{Eine wahrhaftige Mumie, jetzt und hier!}
-{503}{}{Sehen Sie den ägyptischen Prinzen!}
-{504}{}{Sehen Sie die Königin vom Nil!}
+{503}{}{Sehen Sie den Ã¤gyptischen Prinzen!}
+{504}{}{Sehen Sie die KÃ¶nigin vom Nil!}
 {505}{}{Betreten Sie das wahrhaftige Spukhaus!}
-{506}{}{Mysterien der Unterwelt werden enthüllt!}
+{506}{}{Mysterien der Unterwelt werden enthÃ¼llt!}
 {507}{}{Kommen Sie her, kommen Sie ran!}
 {508}{}{Die lehrreichste Erfahrung Ihres Lebens!}

@@ -1,3 +1,3 @@
-{100}{}{Widzisz sfatygowana taúmÍ.}
-{101}{}{PipBoy wyúwietla: Plik znaleziony w systemie. Kopiowanie anulowane.}
-{102}{}{PipBoy wyúwietla: Kopiowanie danych z dysku.}
+{100}{}{Widzisz sfatygowana ta≈õmƒô.}
+{101}{}{PipBoy wy≈õwietla: Plik znaleziony w systemie. Kopiowanie anulowane.}
+{102}{}{PipBoy wy≈õwietla: Kopiowanie danych z dysku.}

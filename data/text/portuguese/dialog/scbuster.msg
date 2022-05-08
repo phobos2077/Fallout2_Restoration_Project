@@ -21,8 +21,8 @@
 {120}{}{That's nice, stranger, but I ain't no charity.}
 {121}{}{Maybe. Just might have a Triveld x10 rifle scope - would fit just fine on a hunting rifle, if somebody was interested. Let it go cheap -- $500.}
 {122}{}{Hey, you already cleaned me out.}
-{123}{}{Claro, isso é um trato.}
-{124}{}{Não, obrigado.}
+{123}{}{Claro, isso Ã© um trato.}
+{124}{}{NÃ£o, obrigado.}
 {125}{}{New California Republic - that's what it is. President Tandi and the bunch say they're trying to rebuild the old days; I figure they're just trying to grab whatever they can. Hell, I got no complaint with them - the old days is all before my time. They're kind of a prissy bunch, though - don't like slaves, gambling, whatnot. That's why I set up out here. Don't like rules - never have.}
 {126}{}{Eu vejo.}
 {127}{}{Adeus.}

@@ -1,70 +1,70 @@
-{100}{}{Du siehst einen Sippenangehörigen.}
-{101}{}{Du siehst eine Sippenangehörige.}
-{150}{}{Vor dir steht ein großer Krieger deines Dorfes in Hosen aus Tierhäuten.}
-{151}{}{[GESPRÄCH]}
-{152}{}{Hallo, Auserwähltes Wesen, kann ich dir bei deiner Aufgabe helfen?}
+{100}{}{Du siehst einen SippenangehÃ¶rigen.}
+{101}{}{Du siehst eine SippenangehÃ¶rige.}
+{150}{}{Vor dir steht ein groÃŸer Krieger deines Dorfes in Hosen aus TierhÃ¤uten.}
+{151}{}{[GESPRÃ„CH]}
+{152}{}{Hallo, AuserwÃ¤hltes Wesen, kann ich dir bei deiner Aufgabe helfen?}
 {153}{}{Ich schau mich nur noch ein letztes Mal im Dorf um, bevor ich gehe.}
-{154}{}{Was kannst du mir über die Händler erzählen, die mit uns Geschäfte machen?}
+{154}{}{Was kannst du mir Ã¼ber die HÃ¤ndler erzÃ¤hlen, die mit uns GeschÃ¤fte machen?}
 {155}{}{Kannst du mir sagen, wo ich mehr Heilpulver bekomme?}
-{156}{}{Mögen die Götter dich beflügeln, damit du den Garten Eden zurückbringst, bevor es zu spät ist.}
-{157}{}{Ich hätte eine Frage.}
+{156}{}{MÃ¶gen die GÃ¶tter dich beflÃ¼geln, damit du den Garten Eden zurÃ¼ckbringst, bevor es zu spÃ¤t ist.}
+{157}{}{Ich hÃ¤tte eine Frage.}
 {158}{}{Auf Wiedersehn, mein Freund.}
 {159}{}{Oh, du willst mich testen. Geh zu Hakunin in der Nordecke des Dorfs. Er bereitet unsere Medizin zu.}
 {160}{}{Vielen Dank. Auf Wiedersehen.}
-{161}{}{Tja, ich hab sie gesehen, als Mynoc uns die Brücke bewachen ließ; aber er macht die Geschäfte. Sprich mit ihm - er ist an der Großen Brücke. }
+{161}{}{Tja, ich hab sie gesehen, als Mynoc uns die BrÃ¼cke bewachen lieÃŸ; aber er macht die GeschÃ¤fte. Sprich mit ihm - er ist an der GroÃŸen BrÃ¼cke. }
 {162}{}{Vielen Dank. Auf Wiedersehen.}
-{163}{}{Kannst du mir sagen, wo die Große Brücke ist?}
+{163}{}{Kannst du mir sagen, wo die GroÃŸe BrÃ¼cke ist?}
 {164}{}{Noch eine Frage, wenn du gestattest.}
-{165}{}{Auserwähltes Wesen!? Die Große Brücke ist an der Südseite des Dorfes. Das weißt du doch! Du bist schon oft dort gewesen.}
+{165}{}{AuserwÃ¤hltes Wesen!? Die GroÃŸe BrÃ¼cke ist an der SÃ¼dseite des Dorfes. Das weiÃŸt du doch! Du bist schon oft dort gewesen.}
 {166}{}{Vielen Dank. Auf Wiedersehen.}
 {167}{}{Noch eine Frage, wenn du gestattest.}
-{168}{}{Natürlich. Was möchtest du wissen?}
-{169}{}{Kannst du mir sagen, wo ich Heilkräuter finde?}
-{170}{}{Was kannst du mir über die Händler erzählen, die mit uns Geschäfte machen?}
+{168}{}{NatÃ¼rlich. Was mÃ¶chtest du wissen?}
+{169}{}{Kannst du mir sagen, wo ich HeilkrÃ¤uter finde?}
+{170}{}{Was kannst du mir Ã¼ber die HÃ¤ndler erzÃ¤hlen, die mit uns GeschÃ¤fte machen?}
 {171}{}{Macht nichts.}
-{172}{}{Ach, Dummkopf. Man sagt, du seist das Auserwählte Wesen. Ich muss sagen, der Geist des Gründers ist unergründlich.}
+{172}{}{Ach, Dummkopf. Man sagt, du seist das AuserwÃ¤hlte Wesen. Ich muss sagen, der Geist des GrÃ¼nders ist unergrÃ¼ndlich.}
 {173}{}{Uhn Ga.}
 {174}{}{ Gute Reise, dummes Wesen - um unser Willen.}
 {175}{}{????}
-{176}{}{Du verrätst uns, also musst du sterben.}
-{177}{}{Ein Verräter am eigenen Volk!}
+{176}{}{Du verrÃ¤tst uns, also musst du sterben.}
+{177}{}{Ein VerrÃ¤ter am eigenen Volk!}
 {178}{}{Warum tust du das?}
-{179}{}{Tod allem Bösen!}
-{180}{}{Sie bedeuten uns nichts! Sie plündern die toten Weiten der Öde, um zu überleben.}
-{181}{}{Kannst du mir sagen, wo ich Heilkräuter finde?}
+{179}{}{Tod allem BÃ¶sen!}
+{180}{}{Sie bedeuten uns nichts! Sie plÃ¼ndern die toten Weiten der Ã–de, um zu Ã¼berleben.}
+{181}{}{Kannst du mir sagen, wo ich HeilkrÃ¤uter finde?}
 {182}{}{Vielen Dank. Auf Wiedersehen.}
 {183}{}{Noch eine Frage, wenn du gestattest.}
-{300}{}{Ich grüße dich, Auserwähltes Wesen. Mögen die Geister der Krieger dich leiten und beschützen.}
-{301}{}{Hast du Schwierigkeiten, Auserwähltes Wesen? Du darfst uns nicht enttäuschen - bitte beeile dich.}
-{302}{}{Worauf wartest du noch? Wir brauchen schnell das GECK. Auserwähltes Wesen, unser Dorf stirbt.}
-{303}{}{Auserwähltes Wesen, unser Dorf ist fast tot. Warum hast du uns das heilige GECK noch nicht gebracht?}
+{300}{}{Ich grÃ¼ÃŸe dich, AuserwÃ¤hltes Wesen. MÃ¶gen die Geister der Krieger dich leiten und beschÃ¼tzen.}
+{301}{}{Hast du Schwierigkeiten, AuserwÃ¤hltes Wesen? Du darfst uns nicht enttÃ¤uschen - bitte beeile dich.}
+{302}{}{Worauf wartest du noch? Wir brauchen schnell das GECK. AuserwÃ¤hltes Wesen, unser Dorf stirbt.}
+{303}{}{AuserwÃ¤hltes Wesen, unser Dorf ist fast tot. Warum hast du uns das heilige GECK noch nicht gebracht?}
 {970}{}{Das ist mein Name.}
 {971}{}{Du sprichst mit mir.}
-{972}{}{Was für eine blöde Frage. Das bin ich.}
-{980}{}{Darüber weiß ich nichts.}
+{972}{}{Was fÃ¼r eine blÃ¶de Frage. Das bin ich.}
+{980}{}{DarÃ¼ber weiÃŸ ich nichts.}
 {981}{}{Tut mir leid. Keine Ahnung.}
-{982}{}{Noch nie davon gehört.}
-{1000}{}{Älteste}
-{1001}{}{Gründer}
+{982}{}{Noch nie davon gehÃ¶rt.}
+{1000}{}{Ã„lteste}
+{1001}{}{GrÃ¼nder}
 {1002}{}{Vaultbewohner}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Auserwähltes Wesen}
+{1006}{}{AuserwÃ¤hltes Wesen}
 {1007}{}{Schamane}
 {1008}{}{Hakunin}
 {1009}{}{Heilpulver}
-{1010}{}{Brücke}
+{1010}{}{BrÃ¼cke}
 {1011}{}{Mynoc}
-{1100}{}{Die Älteste ist unsere Mutter und unsere Führerin.}
-{1101}{}{Unsere große Ahne, der wir unser Wissen zu verdanken haben.}
-{1102}{}{Die erste, der gegen das Chaos gekämpft und gesiegt hat.}
-{1103}{}{Das wäre unser schönes Dorf.}
-{1104}{}{Das ist ein äußerer Handelsposten, einige Tage östlich von hier.}
+{1100}{}{Die Ã„lteste ist unsere Mutter und unsere FÃ¼hrerin.}
+{1101}{}{Unsere groÃŸe Ahne, der wir unser Wissen zu verdanken haben.}
+{1102}{}{Die erste, der gegen das Chaos gekÃ¤mpft und gesiegt hat.}
+{1103}{}{Das wÃ¤re unser schÃ¶nes Dorf.}
+{1104}{}{Das ist ein Ã¤uÃŸerer Handelsposten, einige Tage Ã¶stlich von hier.}
 {1105}{}{Die Vault ist der Himmel.}
-{1106}{}{Du bist das Auserwählte Wesen.}
-{1107}{}{Er heilt uns mit seinen Kräutern und seiner Magie. Er lebt im nördlichen Teil des Dorfes.}
-{1108}{}{Er heilt uns mit seinen Kräutern und seiner Magie. Er lebt im nördlichen Teil des Dorfes.}
-{1109}{}{Es ist ein magisches Pulver, das dich heilen wird, aber es macht auch schläfrig.}
-{1110}{}{Die große Brücke führt im Süden aus dem Dorf hinaus.}
-{1111}{}{Er bewacht die Brücke, die in unser Dorf führt.}
+{1106}{}{Du bist das AuserwÃ¤hlte Wesen.}
+{1107}{}{Er heilt uns mit seinen KrÃ¤utern und seiner Magie. Er lebt im nÃ¶rdlichen Teil des Dorfes.}
+{1108}{}{Er heilt uns mit seinen KrÃ¤utern und seiner Magie. Er lebt im nÃ¶rdlichen Teil des Dorfes.}
+{1109}{}{Es ist ein magisches Pulver, das dich heilen wird, aber es macht auch schlÃ¤frig.}
+{1110}{}{Die groÃŸe BrÃ¼cke fÃ¼hrt im SÃ¼den aus dem Dorf hinaus.}
+{1111}{}{Er bewacht die BrÃ¼cke, die in unser Dorf fÃ¼hrt.}

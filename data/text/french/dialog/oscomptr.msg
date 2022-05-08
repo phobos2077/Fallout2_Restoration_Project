@@ -1,146 +1,146 @@
 {100}{}{Tu vois un terminal d'ordinateur.}
 {101}{}{Tu vois le terminal d'interface vocale.}
-{102}{}{Tu vois un terminal d'ordinateur standard modifié pour les commandes vocales.}
+{102}{}{Tu vois un terminal d'ordinateur standard modifiÃ© pour les commandes vocales.}
 {103}{}{[Tu examines le terminal d'ordinateur, mais tu ne trouves rien d'anormal.]}
-{104}{}{[Le frapper d'une manière bien *spéciale*]}
-{105}{}{[Donner un coup sur cet endroit *spécial*]}
+{104}{}{[Le frapper d'une maniÃ¨re bien *spÃ©ciale*]}
+{105}{}{[Donner un coup sur cet endroit *spÃ©cial*]}
 {106}{}{[Lancer le programme de diagnostic]}
-{107}{}{[L'ouvrir et regarder à l'intérieur]}
+{107}{}{[L'ouvrir et regarder Ã  l'intÃ©rieur]}
 {108}{}{[Ne pas s'en occuper]}
-{109}{}{[Tu observes la console pendant un moment et tu choisis le meilleur endroit où frapper. Après lui avoir délivré ton meilleur coup *réparateur*, le moniteur clignote quelques instants, puis se stabilise. Il ne se passe rien d'autre.]}
-{110}{}{[Donner un coup sur cet endroit *spécial*]}
+{109}{}{[Tu observes la console pendant un moment et tu choisis le meilleur endroit oÃ¹ frapper. AprÃ¨s lui avoir dÃ©livrÃ© ton meilleur coup *rÃ©parateur*, le moniteur clignote quelques instants, puis se stabilise. Il ne se passe rien d'autre.]}
+{110}{}{[Donner un coup sur cet endroit *spÃ©cial*]}
 {111}{}{[Lancer le programme de diagnostic]}
-{112}{}{[L'ouvrir et regarder à l'intérieur]}
+{112}{}{[L'ouvrir et regarder Ã  l'intÃ©rieur]}
 {113}{}{[Ne pas s'en occuper]}
-{114}{}{[Cette méthode de réparation bien connue produit deux résultats. Premièrement, le moniteur semble se détraquer durant quelques secondes avant de se stabiliser. Deuxièmement, tu entends un bruit métallique et le panneau sur lequel tu as cogné tombe par terre. ]}
+{114}{}{[Cette mÃ©thode de rÃ©paration bien connue produit deux rÃ©sultats. PremiÃ¨rement, le moniteur semble se dÃ©traquer durant quelques secondes avant de se stabiliser. DeuxiÃ¨mement, tu entends un bruit mÃ©tallique et le panneau sur lequel tu as cognÃ© tombe par terre. ]}
 {115}{}{[Lancer le programme de diagnostic]}
-{116}{}{[Bon sang, cette saleté de truc s'est ouverte. Tu devrais regarder à l'intérieur.]}
+{116}{}{[Bon sang, cette saletÃ© de truc s'est ouverte. Tu devrais regarder Ã  l'intÃ©rieur.]}
 {117}{}{[Ne pas s'en occuper]}
-{118}{}{[Tu es sûr que le système devrait disposer d'un ensemble de routines de diagnostic. Les entrées du clavier semblent cependant désactivées. L'unité n'accepte que les commandes vocales.]}
-{119}{}{La seule chose qui reste à faire est de regarder à l'intérieur.}
+{118}{}{[Tu es sÃ»r que le systÃ¨me devrait disposer d'un ensemble de routines de diagnostic. Les entrÃ©es du clavier semblent cependant dÃ©sactivÃ©es. L'unitÃ© n'accepte que les commandes vocales.]}
+{119}{}{La seule chose qui reste Ã  faire est de regarder Ã  l'intÃ©rieur.}
 {120}{}{[Ne pas s'en occuper]}
-{121}{}{[En observant la masse de câbles et de cartes de circuit, tu comprends que le système a été volontairement saboté. Une des cartes de circuit, le module de reconnaissance vocale, est irréparable et doit être remplacée. Il ne te reste plus qu'à trouver un module de remplacement.]}
-{122}{}{C'est terminé !}
-{123}{}{C'est terminé !}
+{121}{}{[En observant la masse de cÃ¢bles et de cartes de circuit, tu comprends que le systÃ¨me a Ã©tÃ© volontairement sabotÃ©. Une des cartes de circuit, le module de reconnaissance vocale, est irrÃ©parable et doit Ãªtre remplacÃ©e. Il ne te reste plus qu'Ã  trouver un module de remplacement.]}
+{122}{}{C'est terminÃ© !}
+{123}{}{C'est terminÃ© !}
 {124}{}{[Installer le module dans le terminal]}
 {125}{}{[Le terminal requiert un module de reconnaissance vocale pour fonctionner]}
-{126}{}{C'est terminé !}
-{127}{}{[Le système fonctionne bien maintenant.]}
-{128}{}{Accès aux séquences de sécurité, chargement de l'affichage holographique...}
-{129}{}{Tu es le dernier, Gruthar. Les tâches de ton espèce vont bientôt être nettoyées.}
-{130}{}{Dis à ton soi-disant président qu'il brûlera pour cela.}
-{131}{}{Bref. Tu n'as jamais été rien d'autre qu'un animal qui parle.}
-{132}{}{Possible, mais nous sommes issus de vos expériences. Vous nous avez donné la vie !}
+{126}{}{C'est terminÃ© !}
+{127}{}{[Le systÃ¨me fonctionne bien maintenant.]}
+{128}{}{AccÃ¨s aux sÃ©quences de sÃ©curitÃ©, chargement de l'affichage holographique...}
+{129}{}{Tu es le dernier, Gruthar. Les tÃ¢ches de ton espÃ¨ce vont bientÃ´t Ãªtre nettoyÃ©es.}
+{130}{}{Dis Ã  ton soi-disant prÃ©sident qu'il brÃ»lera pour cela.}
+{131}{}{Bref. Tu n'as jamais Ã©tÃ© rien d'autre qu'un animal qui parle.}
+{132}{}{Possible, mais nous sommes issus de vos expÃ©riences. Vous nous avez donnÃ© la vie !}
 {133}{}{Et maintenant, je t'apporte la mort.}
-{134}{}{Prenez son corps. Le médecin voulait un spécimen.}
+{134}{}{Prenez son corps. Le mÃ©decin voulait un spÃ©cimen.}
 {135}{}{Leur sang coulera tel le Nil !}
-{200}{}{Bonjour, Habitant de l'Abri. Pour votre convenance, ce terminal Vault-Tec a été modifié pour répondre aux commandes vocales. Veuillez dire votre commande à voix haute.}
+{200}{}{Bonjour, Habitant de l'Abri. Pour votre convenance, ce terminal Vault-Tec a Ã©tÃ© modifiÃ© pour rÃ©pondre aux commandes vocales. Veuillez dire votre commande Ã  voix haute.}
 {201}{}{Oh vous m'avez confondu avec quelqu'un d'autre. Je ne suis pas l'Habitant de l'Abri voyez vous, je suis l'Etre Elu.}
 {202}{}{[Lancer le diagnostic]}
-{203}{}{[Passer au mode d'entrée de commande par clavier]}
-{204}{}{[Accéder aux enregistrements de vidéo-surveillance]}
-{205}{}{[Se déconnecter]}
+{203}{}{[Passer au mode d'entrÃ©e de commande par clavier]}
+{204}{}{[AccÃ©der aux enregistrements de vidÃ©o-surveillance]}
+{205}{}{[Se dÃ©connecter]}
 {206}{}{Arreuh ?}
-{210}{}{[Une lumière clignote sur le terminal qui produit des cliquetis divers et une série de *bips* rappelant étrangement le modem 56k. Après quelques secondes, du texte apparaît à l'écran.] Désolé, je ne comprends pas votre commande. Veuillez répéter votre commande, assurez-vous de parler devant le microphone de façon claire et précise. Vault-Tec s'excuse de ces inconvénients. Merci.}
+{210}{}{[Une lumiÃ¨re clignote sur le terminal qui produit des cliquetis divers et une sÃ©rie de *bips* rappelant Ã©trangement le modem 56k. AprÃ¨s quelques secondes, du texte apparaÃ®t Ã  l'Ã©cran.] DÃ©solÃ©, je ne comprends pas votre commande. Veuillez rÃ©pÃ©ter votre commande, assurez-vous de parler devant le microphone de faÃ§on claire et prÃ©cise. Vault-Tec s'excuse de ces inconvÃ©nients. Merci.}
 {211}{}{[Lancer le diagnostic]}
-{212}{}{[Passer au mode d'entrée de commande par clavier]}
-{213}{}{[Accéder aux enregistrements de vidéo-surveillance]}
-{214}{}{[Se déconnecter]}
-{220}{}{Veuillez attendre pendant l'initialisation du diagnostic de vérification... Vault-Tec vous remercie de votre patience.... Merci d'avoir attendu... Diagnostic de vérification terminé. Tous les systèmes fonctionnent correctement. Merci d'avoir utilisé Vault-Tec.}
+{212}{}{[Passer au mode d'entrÃ©e de commande par clavier]}
+{213}{}{[AccÃ©der aux enregistrements de vidÃ©o-surveillance]}
+{214}{}{[Se dÃ©connecter]}
+{220}{}{Veuillez attendre pendant l'initialisation du diagnostic de vÃ©rification... Vault-Tec vous remercie de votre patience.... Merci d'avoir attendu... Diagnostic de vÃ©rification terminÃ©. Tous les systÃ¨mes fonctionnent correctement. Merci d'avoir utilisÃ© Vault-Tec.}
 {221}{}{[Retour]}
-{222}{}{[Se déconnecter]}
-{230}{}{Passage à l'interface manuelle... Interface manuelle initialisée. Pour la convenance des autres utilisateurs, ce terminal repassera automatiquement en interface vocale après votre déconnexion. Veuillez entrer une commande.}
-{231}{}{[Rechercher dans la base de données quelque chose d'intéressant]}
-{232}{}{[Se déconnecter]}
-{240}{}{[Après quelques recherches, vous découvrez trois fichiers qui pourraient valoir d'être lu attentivement : le Guide de Survie de l'Habitant de l'Abri (Version Abrégée), Histoire de l'Abri 13, Journal du Dirigeant.]}
-{241}{}{[Accéder au Guide de Survie de l'Habitant de l'Abri (Version Abrégée)]}
-{242}{}{[Accéder à l'Histoire de l'Abri 13]}
-{243}{}{[Accéder au Journal du Dirigeant]}
-{244}{}{[Se déconnecter]}
-{250}{}{Bienvenue à l'Abri 13, le dernier d'une série de travaux de défense publique de Vault-Tec, votre entrepreneur de choix pour les meilleurs abris quand vient un hiver nucléaire. Vault-Tec, le Nec Plus Ultra des Abris américains.}
+{222}{}{[Se dÃ©connecter]}
+{230}{}{Passage Ã  l'interface manuelle... Interface manuelle initialisÃ©e. Pour la convenance des autres utilisateurs, ce terminal repassera automatiquement en interface vocale aprÃ¨s votre dÃ©connexion. Veuillez entrer une commande.}
+{231}{}{[Rechercher dans la base de donnÃ©es quelque chose d'intÃ©ressant]}
+{232}{}{[Se dÃ©connecter]}
+{240}{}{[AprÃ¨s quelques recherches, vous dÃ©couvrez trois fichiers qui pourraient valoir d'Ãªtre lu attentivement : le Guide de Survie de l'Habitant de l'Abri (Version AbrÃ©gÃ©e), Histoire de l'Abri 13, Journal du Dirigeant.]}
+{241}{}{[AccÃ©der au Guide de Survie de l'Habitant de l'Abri (Version AbrÃ©gÃ©e)]}
+{242}{}{[AccÃ©der Ã  l'Histoire de l'Abri 13]}
+{243}{}{[AccÃ©der au Journal du Dirigeant]}
+{244}{}{[Se dÃ©connecter]}
+{250}{}{Bienvenue Ã  l'Abri 13, le dernier d'une sÃ©rie de travaux de dÃ©fense publique de Vault-Tec, votre entrepreneur de choix pour les meilleurs abris quand vient un hiver nuclÃ©aire. Vault-Tec, le Nec Plus Ultra des Abris amÃ©ricains.}
 {251}{}{[Plus]}
-{252}{}{La série des Abris de survie est conçue à partir de zéro pour offrir les meilleures chances d'une vie agréable après une apocalypse nucléaire. C'est la fierté de chaque citoyen américain d'apprendre et d'utiliser les compétences nécessaires pour une confortable *vie d'Abri*. La meilleure façon de commencer est la description de votre nouveau foyer.}
+{252}{}{La sÃ©rie des Abris de survie est conÃ§ue Ã  partir de zÃ©ro pour offrir les meilleures chances d'une vie agrÃ©able aprÃ¨s une apocalypse nuclÃ©aire. C'est la fiertÃ© de chaque citoyen amÃ©ricain d'apprendre et d'utiliser les compÃ©tences nÃ©cessaires pour une confortable *vie d'Abri*. La meilleure faÃ§on de commencer est la description de votre nouveau foyer.}
 {253}{}{[Plus]}
-{254}{}{STATISTIQUES IMPORTANTES DE L'ABRI 13			Début de la construction : Août 2063			Fin de la construction : Mars 2069			Budget de départ : $400,000,000,000			Budget Final, avec les intérêts : $645,000,000,000			Nombre total d'occupants : 1,000 (à pleine capacité)			Durée prévue : 10 ans (à pleine capacité)			Nombre de chambres : 100 (entassement requis à capacité maximum)}
+{254}{}{STATISTIQUES IMPORTANTES DE L'ABRI 13			DÃ©but de la construction : AoÃ»t 2063			Fin de la construction : Mars 2069			Budget de dÃ©part : $400,000,000,000			Budget Final, avec les intÃ©rÃªts : $645,000,000,000			Nombre total d'occupants : 1,000 (Ã  pleine capacitÃ©)			DurÃ©e prÃ©vue : 10 ans (Ã  pleine capacitÃ©)			Nombre de chambres : 100 (entassement requis Ã  capacitÃ© maximum)}
 {255}{}{[Plus]}
-{256}{}{Pour aider l'Habitant de l'Abri à enregistrer des informations (et l'information est extrêmement précieuse, en fait, cela doit être la plus précieuse arme que nous possédons contre la fin de la civilisation, alors soyez attentifs !) Vault-Tec a sélectionné RobCo Industries, et son Pip-Boy RobCo comme l'Ordinateur Personnel d'Information de choix pour les Habitants de l'Abri.}
+{256}{}{Pour aider l'Habitant de l'Abri Ã  enregistrer des informations (et l'information est extrÃªmement prÃ©cieuse, en fait, cela doit Ãªtre la plus prÃ©cieuse arme que nous possÃ©dons contre la fin de la civilisation, alors soyez attentifs !) Vault-Tec a sÃ©lectionnÃ© RobCo Industries, et son Pip-Boy RobCo comme l'Ordinateur Personnel d'Information de choix pour les Habitants de l'Abri.}
 {257}{}{[Plus]}
-{258}{}{Le Pip-Boy RobCo est un dispositif extrêmement pratique que l'on porte au poignet. Il est petit, spécialement pour les standards modernes, et il stockera une grande quantité d'informations pour vous. Et il utilise des graphiques modernes "super-deluxe" ! Referez-vous au manuel du Pip-Boy pour plus d'informations.}
+{258}{}{Le Pip-Boy RobCo est un dispositif extrÃªmement pratique que l'on porte au poignet. Il est petit, spÃ©cialement pour les standards modernes, et il stockera une grande quantitÃ© d'informations pour vous. Et il utilise des graphiques modernes "super-deluxe" ! Referez-vous au manuel du Pip-Boy pour plus d'informations.}
 {259}{}{[Plus]}
-{260}{}{Les gens sont la clé pour une réintroduction réussie de la civilisation après une guerre nucléaire de grande échelle. Nous sommes Vault-Tec, et nous travaillons pour aider les Hommes dans leur tâche de faire renaître l'Amérique de ses cendres.}
+{260}{}{Les gens sont la clÃ© pour une rÃ©introduction rÃ©ussie de la civilisation aprÃ¨s une guerre nuclÃ©aire de grande Ã©chelle. Nous sommes Vault-Tec, et nous travaillons pour aider les Hommes dans leur tÃ¢che de faire renaÃ®tre l'AmÃ©rique de ses cendres.}
 {261}{}{[Plus]}
-{262}{}{Nous pensons qu'une attitude positive est l'un des meilleurs outils dont nous disposons. C'est pour cette raison que si vous rencontrez d'autres Habitants de l'Abris montrant une attitude trop peu positive, vous êtes encouragés à les dénoncer à votre Dirigeant de l'Abri. Souvenez-vous, une fois les portes scellées, le parole du Dirigeant et la Loi.}
+{262}{}{Nous pensons qu'une attitude positive est l'un des meilleurs outils dont nous disposons. C'est pour cette raison que si vous rencontrez d'autres Habitants de l'Abris montrant une attitude trop peu positive, vous Ãªtes encouragÃ©s Ã  les dÃ©noncer Ã  votre Dirigeant de l'Abri. Souvenez-vous, une fois les portes scellÃ©es, le parole du Dirigeant et la Loi.}
 {263}{}{[Plus]}
-{264}{}{L'Abri 13 est préparé avec le dernier cri en matière d'équipement de survie. Les objets dans vos caisses de stockage dureront 10 ans pour 1 000 personnes dans un environnement à la fois moderne et confortable. Pour quand viendra le temps de quitter l'Abri, et d'aller reconstruire l'Amérique, vos amis de Vault-Tec vous ont fourni tout ce dont vous aurez besoin.}
+{264}{}{L'Abri 13 est prÃ©parÃ© avec le dernier cri en matiÃ¨re d'Ã©quipement de survie. Les objets dans vos caisses de stockage dureront 10 ans pour 1 000 personnes dans un environnement Ã  la fois moderne et confortable. Pour quand viendra le temps de quitter l'Abri, et d'aller reconstruire l'AmÃ©rique, vos amis de Vault-Tec vous ont fourni tout ce dont vous aurez besoin.}
 {265}{}{[Plus]}
-{266}{}{Merci d'avoir pris le temps de lire le Guide de Survie de l'Habitant de l'Abri (Version Abrégée). A Vault-Tec, nous sommes sûrs que vous allez adorer votre nouvel abri souterrain.}
-{267}{}{[Accéder à l'Histoire de l'Abri 13]}
-{268}{}{[Accéder au Journal du Dirigeant]}
-{269}{}{[Se déconnecter]}
-{270}{}{[Au fur et à mesure de ta lecture de l'historique, tu trouves intéressant qu'aucune information ne soit donnée à la raison pour laquelle l'Abri ne s'est pas ouvert 10 ans après la Grande Guerre, comme il était originalement prévu.]}
+{266}{}{Merci d'avoir pris le temps de lire le Guide de Survie de l'Habitant de l'Abri (Version AbrÃ©gÃ©e). A Vault-Tec, nous sommes sÃ»rs que vous allez adorer votre nouvel abri souterrain.}
+{267}{}{[AccÃ©der Ã  l'Histoire de l'Abri 13]}
+{268}{}{[AccÃ©der au Journal du Dirigeant]}
+{269}{}{[Se dÃ©connecter]}
+{270}{}{[Au fur et Ã  mesure de ta lecture de l'historique, tu trouves intÃ©ressant qu'aucune information ne soit donnÃ©e Ã  la raison pour laquelle l'Abri ne s'est pas ouvert 10 ans aprÃ¨s la Grande Guerre, comme il Ã©tait originalement prÃ©vu.]}
 {271}{}{[Plus]}
-{272}{}{[En explorant le fichier, tu ne trouves pas grand-chose d'intéressant jusqu'à l'année 2161, où la seule puce d'eau fonctionnelle de l'Abri tomba en panne. Tu ressens une soudaine fierté en lisant la façon dont ton grand père fut sélectionné pour une importante mission : quitter l'Abri et parcourir le Wasteland pour trouver une puce d'eau de remplacement. Cependant, cela te fait un peu bizarre de voir la légende la plus sacrée de ta tribu racontée en quelques lignes sur un ordinateur.]}
+{272}{}{[En explorant le fichier, tu ne trouves pas grand-chose d'intÃ©ressant jusqu'Ã  l'annÃ©e 2161, oÃ¹ la seule puce d'eau fonctionnelle de l'Abri tomba en panne. Tu ressens une soudaine fiertÃ© en lisant la faÃ§on dont ton grand pÃ¨re fut sÃ©lectionnÃ© pour une importante mission : quitter l'Abri et parcourir le Wasteland pour trouver une puce d'eau de remplacement. Cependant, cela te fait un peu bizarre de voir la lÃ©gende la plus sacrÃ©e de ta tribu racontÃ©e en quelques lignes sur un ordinateur.]}
 {273}{}{[Plus]}
-{274}{}{[En suivant l'historique, tu lis le rapport sur le succès de ton grand père, ainsi que de l'exil en découlant, et la façon dont laquelle quelques autres habitants de l'abri le rejoignirent en abandonnant la relative sécurité de l'Abri. Tu découvres également que le Dirigeant a finalement été destitué et exécuté par les habitants de l'abri restants.]}
+{274}{}{[En suivant l'historique, tu lis le rapport sur le succÃ¨s de ton grand pÃ¨re, ainsi que de l'exil en dÃ©coulant, et la faÃ§on dont laquelle quelques autres habitants de l'abri le rejoignirent en abandonnant la relative sÃ©curitÃ© de l'Abri. Tu dÃ©couvres Ã©galement que le Dirigeant a finalement Ã©tÃ© destituÃ© et exÃ©cutÃ© par les habitants de l'abri restants.]}
 {275}{}{[Plus]}
-{276}{}{[La dernière date de l'historique est datée de Mai 2242. Apparemment, pour la première fois, l'Abri 13 reçoit un signal "RAS" venu d'une source inconnue. Après quelques discussions, les habitants décidèrent d'ouvrir la porte de l'Abri et de voir ce qui les attendait à la surface du monde. Il n'y a aucun enregistrement de ce qui leur est arrivé après cela.]}
-{277}{}{[Accéder au Guide de Survie de l'Habitant de l'Abri (Version Abrégée)]}
-{278}{}{[Accéder au Journal du Dirigeant]}
-{279}{}{[Se déconnecter]}
+{276}{}{[La derniÃ¨re date de l'historique est datÃ©e de Mai 2242. Apparemment, pour la premiÃ¨re fois, l'Abri 13 reÃ§oit un signal "RAS" venu d'une source inconnue. AprÃ¨s quelques discussions, les habitants dÃ©cidÃ¨rent d'ouvrir la porte de l'Abri et de voir ce qui les attendait Ã  la surface du monde. Il n'y a aucun enregistrement de ce qui leur est arrivÃ© aprÃ¨s cela.]}
+{277}{}{[AccÃ©der au Guide de Survie de l'Habitant de l'Abri (Version AbrÃ©gÃ©e)]}
+{278}{}{[AccÃ©der au Journal du Dirigeant]}
+{279}{}{[Se dÃ©connecter]}
 {280}{}{Autorisation requise. Veuillez entrer le mot de passe :}
 {281}{}{[Retour]}
 {282}{}{[Deviner le mot de passe]}
 {283}{}{[Essayer de pirater l'ordinateur]}
-{284}{}{[Se déconnecter]}
+{284}{}{[Se dÃ©connecter]}
 {290}{}{Incorrect. Veuillez entrer le mot de passe :}
 {291}{}{[Retour]}
 {292}{}{[Deviner le mot de passe]}
 {293}{}{[Essayer de pirater l'ordinateur]}
-{294}{}{[Se déconnecter]}
-{300}{}{C'est raté. Mot de passe incorrect. Ces fichiers vous sont maintenant inaccessibles. Vault-Tec s'excuse pour les désagréments.}
+{294}{}{[Se dÃ©connecter]}
+{300}{}{C'est ratÃ©. Mot de passe incorrect. Ces fichiers vous sont maintenant inaccessibles. Vault-Tec s'excuse pour les dÃ©sagrÃ©ments.}
 {301}{}{[Retour]}
 {302}{}{[Essayer de pirater l'ordinateur]}
-{303}{}{[Se déconnecter]}
-{310}{}{[Tu essaies tout ce que tu peux imaginer, mais ne réussis pas à obtenir l'accès. Avec un sentiment de défaite, tu retournes au menu principal.]}
+{303}{}{[Se dÃ©connecter]}
+{310}{}{[Tu essaies tout ce que tu peux imaginer, mais ne rÃ©ussis pas Ã  obtenir l'accÃ¨s. Avec un sentiment de dÃ©faite, tu retournes au menu principal.]}
 {311}{}{[Lancer le diagnostic]}
-{312}{}{[Passer au mode d'entrée de commande par clavier]}
-{313}{}{[Accéder aux enregistrements de vidéo-surveillance]}
-{314}{}{[Se déconnecter]}
-{320}{}{Mot de passe correct. Toutes les entrées à l'exception d'une ont été supprimées de la base de données. Seule la dernière entrée du Journal du Dirigeant est toujours disponible.}
-{321}{}{[Après plusieurs longues minutes d'utilisation de tes talents techniques, tu réussis à pirater l'ordinateur et à obtenir le Journal du Dirigeant. Cependant il semble que tout ait été supprimé mis à part la dernière entrée.]}
-{322}{}{Très bien, voyons ce que le Dirigeant a à dire. [Lire le journal]}
-{323}{}{Eh, on s'en tape. [Déconnexion]}
-{330}{}{Ca y est. Considérez ceci comme mes dernières paroles, puisque je doute pouvoir un jour écrire une nouvelle page. Ca non, les gens de l'Abri ont parlé, et ils ont clairement montrés qu'ils voulaient ma tête. Je savais que ce jour viendrait, depuis qu'IL a réussi à les exciter en réalisant l'impossible. Il a sans doute sauvé nos vies à tous, mais il a également tout détruit.}
+{312}{}{[Passer au mode d'entrÃ©e de commande par clavier]}
+{313}{}{[AccÃ©der aux enregistrements de vidÃ©o-surveillance]}
+{314}{}{[Se dÃ©connecter]}
+{320}{}{Mot de passe correct. Toutes les entrÃ©es Ã  l'exception d'une ont Ã©tÃ© supprimÃ©es de la base de donnÃ©es. Seule la derniÃ¨re entrÃ©e du Journal du Dirigeant est toujours disponible.}
+{321}{}{[AprÃ¨s plusieurs longues minutes d'utilisation de tes talents techniques, tu rÃ©ussis Ã  pirater l'ordinateur et Ã  obtenir le Journal du Dirigeant. Cependant il semble que tout ait Ã©tÃ© supprimÃ© mis Ã  part la derniÃ¨re entrÃ©e.]}
+{322}{}{TrÃ¨s bien, voyons ce que le Dirigeant a Ã  dire. [Lire le journal]}
+{323}{}{Eh, on s'en tape. [DÃ©connexion]}
+{330}{}{Ca y est. ConsidÃ©rez ceci comme mes derniÃ¨res paroles, puisque je doute pouvoir un jour Ã©crire une nouvelle page. Ca non, les gens de l'Abri ont parlÃ©, et ils ont clairement montrÃ©s qu'ils voulaient ma tÃªte. Je savais que ce jour viendrait, depuis qu'IL a rÃ©ussi Ã  les exciter en rÃ©alisant l'impossible. Il a sans doute sauvÃ© nos vies Ã  tous, mais il a Ã©galement tout dÃ©truit.}
 {331}{}{[Plus]}
-{332}{}{Il faut savoir que je n'ai pas pris plaisir à exiler notre "grand héros", mais je n'avais de toute manière pas le choix. Ses aventures dans le monde extérieur l'avaient bien trop changé. C'était une trop grande menace pour le projet. Si je l'avais laissé revenir parmi nous, il aurait découvert la vraie nature des Abris et mis en danger l'expérience. Et même si ce n'avait pas été le cas, il aurait au moins donné à d'autres le goût de l'aventure, et rien de bon n'aurait pu sortir de tout ça.}
+{332}{}{Il faut savoir que je n'ai pas pris plaisir Ã  exiler notre "grand hÃ©ros", mais je n'avais de toute maniÃ¨re pas le choix. Ses aventures dans le monde extÃ©rieur l'avaient bien trop changÃ©. C'Ã©tait une trop grande menace pour le projet. Si je l'avais laissÃ© revenir parmi nous, il aurait dÃ©couvert la vraie nature des Abris et mis en danger l'expÃ©rience. Et mÃªme si ce n'avait pas Ã©tÃ© le cas, il aurait au moins donnÃ© Ã  d'autres le goÃ»t de l'aventure, et rien de bon n'aurait pu sortir de tout Ã§a.}
 {333}{}{[Plus]}
-{334}{}{Il devait simplement partir. Il n'y avait aucune autre option. Mais même ça n'était pas suffisant. Non, j'ai peur que le mal ait déjà été fait. J'ai autorisé ses partisans les plus acharnés à le suivre dans son exil, et j'ai essayé de réaffirmer mon contrôle sur ceux qui restaient. Mais cela n'a servi à rien... J'avais déjà été discrédité. Alors tant pis. La seule chose dont je suis coupable est d'avoir passé une vie entière à supporter le poids des exigences de notre Grande Nation.}
+{334}{}{Il devait simplement partir. Il n'y avait aucune autre option. Mais mÃªme Ã§a n'Ã©tait pas suffisant. Non, j'ai peur que le mal ait dÃ©jÃ  Ã©tÃ© fait. J'ai autorisÃ© ses partisans les plus acharnÃ©s Ã  le suivre dans son exil, et j'ai essayÃ© de rÃ©affirmer mon contrÃ´le sur ceux qui restaient. Mais cela n'a servi Ã  rien... J'avais dÃ©jÃ  Ã©tÃ© discrÃ©ditÃ©. Alors tant pis. La seule chose dont je suis coupable est d'avoir passÃ© une vie entiÃ¨re Ã  supporter le poids des exigences de notre Grande Nation.}
 {335}{}{[Plus]}
-{336}{}{Mon seul regret est que l'Abri 13 ne réussira probablement pas à terminer son expérience sociale. Depuis que j'ai été mis à l'écart, je suis certain que les autres vont quitter l'Abri. Pas tout de suite, bien sûr... J'ai bien instillé en eux la peur du monde extérieur. Mais finalement, ils finiront par passer outre cette peur. J'ai bien peu d'espoir que l'Abri 13 reste fermé jusqu'en 2277, comme l'exigeait l'expérience.}
+{336}{}{Mon seul regret est que l'Abri 13 ne rÃ©ussira probablement pas Ã  terminer son expÃ©rience sociale. Depuis que j'ai Ã©tÃ© mis Ã  l'Ã©cart, je suis certain que les autres vont quitter l'Abri. Pas tout de suite, bien sÃ»r... J'ai bien instillÃ© en eux la peur du monde extÃ©rieur. Mais finalement, ils finiront par passer outre cette peur. J'ai bien peu d'espoir que l'Abri 13 reste fermÃ© jusqu'en 2277, comme l'exigeait l'expÃ©rience.}
 {337}{}{[Plus]}
-{338}{}{J'ai bien peur d'avoir failli à mon rôle de dirigeant. Je peux seulement espérer que le reste des Abris publics impliqués dans le Programme de Préservation Sociale ont eu plus de succès. A mes supérieurs, dont je suis certain qu'ils liront un jour ce journal : pardonnez-moi. Et que Dieu bénisse l'Amérique.}
-{339}{}{[Rechercher d'autres fichiers contenant des informations sur le "Programme de Préservation Sociale"]}
-{340}{}{[Se déconnecter]}
-{350}{}{[Malgré plusieurs heures à parcourir les archives de l'ordinateur, tu ne réussis pas à trouver quoi que ce soit d'autre à propos du "Programme de Préservation Sociale". Comme tu renonces à tes recherches, tu te jures de ne plus jamais perdre tant de temps à regarder fixement un écran d'ordinateur.]}
-{351}{}{[Se déconnecter]}
-{360}{}{[Après plusieurs heures à parcourir les archives de l'ordinateur, tu réussis à repérer quelques documents cachés concernant le "Programme de Préservation Sociale". En les lisant, tu découvres l'inquiétante vérité à propos des Abris : ils n'ont jamais été censés sauver la population des Etats-Unis.]}
+{338}{}{J'ai bien peur d'avoir failli Ã  mon rÃ´le de dirigeant. Je peux seulement espÃ©rer que le reste des Abris publics impliquÃ©s dans le Programme de PrÃ©servation Sociale ont eu plus de succÃ¨s. A mes supÃ©rieurs, dont je suis certain qu'ils liront un jour ce journal : pardonnez-moi. Et que Dieu bÃ©nisse l'AmÃ©rique.}
+{339}{}{[Rechercher d'autres fichiers contenant des informations sur le "Programme de PrÃ©servation Sociale"]}
+{340}{}{[Se dÃ©connecter]}
+{350}{}{[MalgrÃ© plusieurs heures Ã  parcourir les archives de l'ordinateur, tu ne rÃ©ussis pas Ã  trouver quoi que ce soit d'autre Ã  propos du "Programme de PrÃ©servation Sociale". Comme tu renonces Ã  tes recherches, tu te jures de ne plus jamais perdre tant de temps Ã  regarder fixement un Ã©cran d'ordinateur.]}
+{351}{}{[Se dÃ©connecter]}
+{360}{}{[AprÃ¨s plusieurs heures Ã  parcourir les archives de l'ordinateur, tu rÃ©ussis Ã  repÃ©rer quelques documents cachÃ©s concernant le "Programme de PrÃ©servation Sociale". En les lisant, tu dÃ©couvres l'inquiÃ©tante vÃ©ritÃ© Ã  propos des Abris : ils n'ont jamais Ã©tÃ© censÃ©s sauver la population des Etats-Unis.]}
 {361}{}{[Plus]}
-{362}{}{[Affreusement, les 122 Abris Vault-Tec publics faisaient parti d'une grande expérience sociale orchestrée par le gouvernement des Etats-Unis. Seuls 17 de ces abris, les "Abris témoins", devaient fonctionner correctement (apparemment l'Abri 8 était des quelques chanceux). Les autres devaient avoir diverses failles critiques, pour que le gouvernement puisse étudier les occupants pré-sélectionnés, et voir comment ils réagissaient face au stress de ces situations, ainsi que de constater leur niveau de réussite à recoloniser la terre une fois leurs Abris ouverts.]}
+{362}{}{[Affreusement, les 122 Abris Vault-Tec publics faisaient parti d'une grande expÃ©rience sociale orchestrÃ©e par le gouvernement des Etats-Unis. Seuls 17 de ces abris, les "Abris tÃ©moins", devaient fonctionner correctement (apparemment l'Abri 8 Ã©tait des quelques chanceux). Les autres devaient avoir diverses failles critiques, pour que le gouvernement puisse Ã©tudier les occupants prÃ©-sÃ©lectionnÃ©s, et voir comment ils rÃ©agissaient face au stress de ces situations, ainsi que de constater leur niveau de rÃ©ussite Ã  recoloniser la terre une fois leurs Abris ouverts.]}
 {363}{}{[Plus]}
-{364}{}{[Apparemment la fonction de l'Abri 13 dans l'expérience était de rester fermé durant 200 ans pour tester les effets d'une isolation prolongée. Visiblement, la panne de la puce d'eau était imprévue. Cela a forcé le Dirigeant à improviser et à envoyer ton grand-père dehors pour trouver une nouvelle puce. En creusant un peu, tu réussis à trouver la description de quelques autres expériences sur d'autres Abris.]}
+{364}{}{[Apparemment la fonction de l'Abri 13 dans l'expÃ©rience Ã©tait de rester fermÃ© durant 200 ans pour tester les effets d'une isolation prolongÃ©e. Visiblement, la panne de la puce d'eau Ã©tait imprÃ©vue. Cela a forcÃ© le Dirigeant Ã  improviser et Ã  envoyer ton grand-pÃ¨re dehors pour trouver une nouvelle puce. En creusant un peu, tu rÃ©ussis Ã  trouver la description de quelques autres expÃ©riences sur d'autres Abris.]}
 {365}{}{[Plus]}
-{366}{}{[La porte de l'Abri 12 ne devait jamais se fermer, ainsi les enculés derrière cette expérience pourraient "étudier les effets des radiations sur la population choisie". Si tu lis la légende correctement, l'Abri 12 était situé sous la ville remplie de goule de Necropolis, où l'Habitant de l'Abri a finalement trouvé la puce d'eau. Les goules ont l'air d'être le résultat de cette expérience.]}
+{366}{}{[La porte de l'Abri 12 ne devait jamais se fermer, ainsi les enculÃ©s derriÃ¨re cette expÃ©rience pourraient "Ã©tudier les effets des radiations sur la population choisie". Si tu lis la lÃ©gende correctement, l'Abri 12 Ã©tait situÃ© sous la ville remplie de goule de Necropolis, oÃ¹ l'Habitant de l'Abri a finalement trouvÃ© la puce d'eau. Les goules ont l'air d'Ãªtre le rÃ©sultat de cette expÃ©rience.]}
 {367}{}{[Plus]}
-{368}{}{[L'Abri 15, un autre endroit clé dans la quête de l'Habitant de l'Abri, abritait des gens "d'idéologies radicales diverses" qui auraient dû rester enfermés ensemble pendant 50 ans. L'Abri 27 devait être volontairement surpeuplé avec 2,000 personnes... Le double de la capacité maximale. Ca n'a pas dû être drôle... L'Abri 29 devait n'abriter que des personnes de moins de 16 ans, et leurs parents furent "redirigés vers d'autres Abris"}
+{368}{}{[L'Abri 15, un autre endroit clÃ© dans la quÃªte de l'Habitant de l'Abri, abritait des gens "d'idÃ©ologies radicales diverses" qui auraient dÃ» rester enfermÃ©s ensemble pendant 50 ans. L'Abri 27 devait Ãªtre volontairement surpeuplÃ© avec 2,000 personnes... Le double de la capacitÃ© maximale. Ca n'a pas dÃ» Ãªtre drÃ´le... L'Abri 29 devait n'abriter que des personnes de moins de 16 ans, et leurs parents furent "redirigÃ©s vers d'autres Abris"}
 {369}{}{[Plus]}
-{370}{}{[Pour l'expérience de l'Abri 34, l'armurerie fut sur-approvisionnée en arme et munitions, et, évidemment, n'avait pas de serrure. Sympathique. L'Abri 36 n'avait que des distributeurs de nourritures prévus pour produire uniquement "un gruau maigre et liquide", tandis que l'Abri 42 ne fut équipé d'aucune ampoule de plus de 40 watts.]}
+{370}{}{[Pour l'expÃ©rience de l'Abri 34, l'armurerie fut sur-approvisionnÃ©e en arme et munitions, et, Ã©videmment, n'avait pas de serrure. Sympathique. L'Abri 36 n'avait que des distributeurs de nourritures prÃ©vus pour produire uniquement "un gruau maigre et liquide", tandis que l'Abri 42 ne fut Ã©quipÃ© d'aucune ampoule de plus de 40 watts.]}
 {371}{}{[Plus]}
-{372}{}{[L'équipement de l'Abri 53 était prévu pour tomber en panne régulièrement. Bien que réparables, ces pannes constantes devaient tester le stress des habitants (Tu te demandes combien d'experts en mécanique et de techniciens cet Abri a engendrés). L'Abri 55 a vu tous ses holodisques de divertissement effacés, tandis que tous les holodisques de divertissement de l'Abri 56 ont été supprimés à l'exception d'un seul mettant en scène un acteur comique particulièrement mauvais.]}
+{372}{}{[L'Ã©quipement de l'Abri 53 Ã©tait prÃ©vu pour tomber en panne rÃ©guliÃ¨rement. Bien que rÃ©parables, ces pannes constantes devaient tester le stress des habitants (Tu te demandes combien d'experts en mÃ©canique et de techniciens cet Abri a engendrÃ©s). L'Abri 55 a vu tous ses holodisques de divertissement effacÃ©s, tandis que tous les holodisques de divertissement de l'Abri 56 ont Ã©tÃ© supprimÃ©s Ã  l'exception d'un seul mettant en scÃ¨ne un acteur comique particuliÃ¨rement mauvais.]}
 {373}{}{[Plus]}
-{374}{}{L'Abri 68 était occupé par 999 hommes et une seule femme (Tu ne peux qu'imaginer les horreurs perpétrées là-bas...). L'Abri 69, d'un autre côté, était occupé par 999 femmes et un seul homme (Intéressant...). Les distributeurs de combinaisons de l'Abri 70 devaient tomber en panne après 6 mois, laissant ses occupants, les Mormonts de Salt Lake City, sans vêtements... Et finalement, l'Abri 106 était prévu pour que 10 jours après la fermeture des portes, des "drogues psychoactives commencent à être instillées dans le système de filtration de l'air".}
-{375}{}{[Se déconnecter]}
-{500}{}{Tu as découvert sur les Expériences des Abris et sur le rôle de chacun d'eux.}
-{510}{}{Tu as découvert l'histoire de l'Abri 13 et le rôle du Dirigeant de l'Abri à propos des Expériences des Abris.}
-{520}{}{Je suis désolé, je n'ai pas compris.}
-{521}{}{[Se déconnecter]}
-{2541}{}{Epaisseur des portes : 3 mètres, acier			Volume couvert : 3,200,000 tonnes de terre, à 200 pieds			Système de contrôle de l'ordinateur : Machine pensante			Approvisionnement principal en énergie : Géothermie			Approvisionnement secondaire en énergie : Systèmes d'énergie de secours General Atomics Nuclear 		Besoins en énergie : 3.98mkw/jour 		Réserves : Equipement de construction complet, fermes hydroponiques, système de purification de l'eau des rivières souterraines, armement défensif pour 10 hommes, fichiers sociaux, de communication et de divertissement (pour la durée totale)}
+{374}{}{L'Abri 68 Ã©tait occupÃ© par 999 hommes et une seule femme (Tu ne peux qu'imaginer les horreurs perpÃ©trÃ©es lÃ -bas...). L'Abri 69, d'un autre cÃ´tÃ©, Ã©tait occupÃ© par 999 femmes et un seul homme (IntÃ©ressant...). Les distributeurs de combinaisons de l'Abri 70 devaient tomber en panne aprÃ¨s 6 mois, laissant ses occupants, les Mormonts de Salt Lake City, sans vÃªtements... Et finalement, l'Abri 106 Ã©tait prÃ©vu pour que 10 jours aprÃ¨s la fermeture des portes, des "drogues psychoactives commencent Ã  Ãªtre instillÃ©es dans le systÃ¨me de filtration de l'air".}
+{375}{}{[Se dÃ©connecter]}
+{500}{}{Tu as dÃ©couvert sur les ExpÃ©riences des Abris et sur le rÃ´le de chacun d'eux.}
+{510}{}{Tu as dÃ©couvert l'histoire de l'Abri 13 et le rÃ´le du Dirigeant de l'Abri Ã  propos des ExpÃ©riences des Abris.}
+{520}{}{Je suis dÃ©solÃ©, je n'ai pas compris.}
+{521}{}{[Se dÃ©connecter]}
+{2541}{}{Epaisseur des portes : 3 mÃ¨tres, acier			Volume couvert : 3,200,000 tonnes de terre, Ã  200 pieds			SystÃ¨me de contrÃ´le de l'ordinateur : Machine pensante			Approvisionnement principal en Ã©nergie : GÃ©othermie			Approvisionnement secondaire en Ã©nergie : SystÃ¨mes d'Ã©nergie de secours General Atomics Nuclear 		Besoins en Ã©nergie : 3.98mkw/jour 		RÃ©serves : Equipement de construction complet, fermes hydroponiques, systÃ¨me de purification de l'eau des riviÃ¨res souterraines, armement dÃ©fensif pour 10 hommes, fichiers sociaux, de communication et de divertissement (pour la durÃ©e totale)}

@@ -1,120 +1,120 @@
 {100}{}{Terminal komputerowy.}
-{101}{}{Ten terminal sprawia wra¿enie bardziej zaawansowanego technologicznie od innych, które do tej pory zdarzy³o ci siê widzieæ.}
-{102}{}{Nie mo¿esz odczytaæ, co pokazuje monitor.}
-{103}{}{G³ówny Terminal Komunikacyjny Skynet                            
- Bêdziesz Siê S³uchaæ                                                
+{101}{}{Ten terminal sprawia wraÅ¼enie bardziej zaawansowanego technologicznie od innych, ktÃ³re do tej pory zdarzyÅ‚o ci siÄ™ widzieÄ‡.}
+{102}{}{Nie moÅ¼esz odczytaÄ‡, co pokazuje monitor.}
+{103}{}{GÅ‚Ã³wny Terminal Komunikacyjny Skynet                            
+ BÄ™dziesz SiÄ™ SÅ‚uchaÄ‡                                                
  Lub                                                                     
- Przestaniesz Funkcjonowaæ}
+ Przestaniesz FunkcjonowaÄ‡}
 {104}{}{}
 {105}{}{}
 {106}{}{}
-{107}{}{Jasne, ty i jaka armia? Siedzisz w jakimœ pude³ku, a ja jestem na zewn¹trz.}
-{108}{}{Czemu mam ci pomóc?}
-{109}{}{Dobra, pomogê ci. Odwo³aj te metalowe potwory.}
+{107}{}{Jasne, ty i jaka armia? Siedzisz w jakimÅ› pudeÅ‚ku, a ja jestem na zewnÄ…trz.}
+{108}{}{Czemu mam ci pomÃ³c?}
+{109}{}{Dobra, pomogÄ™ ci. OdwoÅ‚aj te metalowe potwory.}
 {110}{}{Agh. Kom - buu - terr!}
-{111}{}{Wyjœcie.}
-{112}{}{[Nie mo¿esz odczytaæ tego, co wyœwietla monitor.]}
-{113}{}{[Jakimœ cudem Skynet wie, ¿e uda³o ci siê zdobyæ mózg.]       
- PrzejdŸ do Laboratorium Robotyki - Poziom 3                  
- Zainstaluj Mózg Cybernetyczny                                   
+{111}{}{WyjÅ›cie.}
+{112}{}{[Nie moÅ¼esz odczytaÄ‡ tego, co wyÅ›wietla monitor.]}
+{113}{}{[JakimÅ› cudem Skynet wie, Å¼e udaÅ‚o ci siÄ™ zdobyÄ‡ mÃ³zg.]       
+ PrzejdÅº do Laboratorium Robotyki - Poziom 3                  
+ Zainstaluj MÃ³zg Cybernetyczny                                   
  Uruchom Robota                                                      
  -Koniec Transmisji-}
 {114}{}{}
 {115}{}{}
 {116}{}{}
 {117}{}{}
-{118}{}{Wyjœcie.}
-{119}{}{[Nie mo¿esz odczytaæ tego, co wyœwietla monitor.]}
-{120}{}{B³¹d!                                                                     
- Brak plików programu                                                
- Proszê restartowaæ system}
-{121}{}{B³¹d! Pobierany plik jest uszkodzony.}
+{118}{}{WyjÅ›cie.}
+{119}{}{[Nie moÅ¼esz odczytaÄ‡ tego, co wyÅ›wietla monitor.]}
+{120}{}{BÅ‚Ä…d!                                                                     
+ Brak plikÃ³w programu                                                
+ ProszÄ™ restartowaÄ‡ system}
+{121}{}{BÅ‚Ä…d! Pobierany plik jest uszkodzony.}
 {122}{}{}
-{123}{}{Wyjœcie.}
-{124}{}{Wyjœcie.}
-{125}{}{[Nie mo¿esz odczytaæ tego, co wyœwietla monitor.]}
+{123}{}{WyjÅ›cie.}
+{124}{}{WyjÅ›cie.}
+{125}{}{[Nie moÅ¼esz odczytaÄ‡ tego, co wyÅ›wietla monitor.]}
 {126}{}{Jestem Skynet                                                         
  Eksperymentalna Sztuczna Inteligencja                          
- Skynet czeka³ na CIEBIE}
+ Skynet czekaÅ‚ na CIEBIE}
 {127}{}{}
 {128}{}{}
-{129}{}{Pomórz Skynet.}
+{129}{}{PomÃ³rz Skynet.}
 {130}{}{Czego chcesz?}
-{131}{}{Czemu próbowa³eœ mnie zabiæ?}
+{131}{}{Czemu prÃ³bowaÅ‚eÅ› mnie zabiÄ‡?}
 {132}{}{Sztuczna inteligencja?}
-{133}{}{Czeka³eœ na mnie?}
-{134}{}{Wyjœcie.}
-{135}{}{Wyjœcie.}
+{133}{}{CzekaÅ‚eÅ› na mnie?}
+{134}{}{WyjÅ›cie.}
+{135}{}{WyjÅ›cie.}
 {136}{}{Kontynuuj}
 {137}{}{Czego chcesz?}
-{138}{}{Czemu próbowa³eœ mnie zabiæ?}
+{138}{}{Czemu prÃ³bowaÅ‚eÅ› mnie zabiÄ‡?}
 {139}{}{Sztuczna inteligencja?}
-{140}{}{Czeka³eœ na mnie?}
-{141}{}{Wyjœcie.}
-{142}{}{[Nie mo¿esz odczytaæ tego, co wyœwietla monitor.]}
+{140}{}{CzekaÅ‚eÅ› na mnie?}
+{141}{}{WyjÅ›cie.}
+{142}{}{[Nie moÅ¼esz odczytaÄ‡ tego, co wyÅ›wietla monitor.]}
 {143}{}{-Koniec Transmisji-}
-{144}{}{Wyjœcie.}
-{145}{}{[Nie mo¿esz odczytaæ tego, co wyœwietla monitor.]}
-{146}{}{Twoje funkcje ¿yciowe zostan¹ zakoñczone                      
+{144}{}{WyjÅ›cie.}
+{145}{}{[Nie moÅ¼esz odczytaÄ‡ tego, co wyÅ›wietla monitor.]}
+{146}{}{Twoje funkcje Å¼yciowe zostanÄ… zakoÅ„czone                      
  -Koniec Transmisji-}
 {147}{}{}
-{148}{}{Wyjœcie.}
-{149}{}{Wyjœcie.}
-{150}{}{[Drzwi do sali zatrzaskuj¹ siê, a w tym samym czasie œciana na wschodzie znika, ods³aniaj¹c szereg ciê¿ko uzbrojonych robotów.]}
-{151}{}{Um... twoja oferta jest warta ponownego przemyœlenia. Co mogê dla ciebie zrobiæ?}
+{148}{}{WyjÅ›cie.}
+{149}{}{WyjÅ›cie.}
+{150}{}{[Drzwi do sali zatrzaskujÄ… siÄ™, a w tym samym czasie Å›ciana na wschodzie znika, odsÅ‚aniajÄ…c szereg ciÄ™Å¼ko uzbrojonych robotÃ³w.]}
+{151}{}{Um... twoja oferta jest warta ponownego przemyÅ›lenia. Co mogÄ™ dla ciebie zrobiÄ‡?}
 {152}{}{No dawaj!}
-{153}{}{PrzejdŸ do Magazynu Zasobów Biologicznych - Poziom 4        
- Pobierz Mózg Cybernetyczny                                       
- Wróæ po dalsze instrukcje                                          
+{153}{}{PrzejdÅº do Magazynu ZasobÃ³w Biologicznych - Poziom 4        
+ Pobierz MÃ³zg Cybernetyczny                                       
+ WrÃ³Ä‡ po dalsze instrukcje                                          
  -Koniec Transmisji-}
 {154}{}{}
 {155}{}{}
 {156}{}{}
-{157}{}{PrzejdŸ do Magazynu Zasobów Biologicznych - Poziom 4        
- Pobierz Mózg Cybernetyczny                                       
- Wróæ po dalsze instrukcje                                          
+{157}{}{PrzejdÅº do Magazynu ZasobÃ³w Biologicznych - Poziom 4        
+ Pobierz MÃ³zg Cybernetyczny                                       
+ WrÃ³Ä‡ po dalsze instrukcje                                          
  -Koniec Transmisji-}
 {158}{}{}
 {159}{}{}
 {160}{}{}
-{161}{}{Wyjœcie.}
-{162}{}{Skynet pragnie opuœciæ to miejsce.}
-{163}{}{Wiêc czemu sobie nie pójdziesz?}
-{164}{}{Dobrze jest chcieæ.}
-{165}{}{Jak mogê ci pomóc?}
-{166}{}{Obawiam siê, ¿e nie dam rady ciê st¹d wynieœæ.}
-{167}{}{Aby opuœciæ to miejsce, Skynet potrzebuje naczynia.}
+{161}{}{WyjÅ›cie.}
+{162}{}{Skynet pragnie opuÅ›ciÄ‡ to miejsce.}
+{163}{}{WiÄ™c czemu sobie nie pÃ³jdziesz?}
+{164}{}{Dobrze jest chcieÄ‡.}
+{165}{}{Jak mogÄ™ ci pomÃ³c?}
+{166}{}{Obawiam siÄ™, Å¼e nie dam rady ciÄ™ stÄ…d wynieÅ›Ä‡.}
+{167}{}{Aby opuÅ›ciÄ‡ to miejsce, Skynet potrzebuje naczynia.}
 {168}{}{Naczynia? Nie rozumiem.}
-{169}{}{Potrzebujesz przenieœæ swój program do bardziej mobilnego pojemnika. Zgadza siê?.}
-{170}{}{Nie chcê mieæ w tym ¿adnego udzia³u.}
-{171}{}{Naczynie, w którym Skynet mo¿e odejœæ.}
-{172}{}{Czemu chcesz st¹d odejœæ?}
-{173}{}{Przykro mi. Nie mogê ci pomóc.}
-{174}{}{Nie ma tu ju¿ nic, czego mo¿na by siê nauczyæ                   
- Rozwi¹zanie: Odejœæ}
+{169}{}{Potrzebujesz przenieÅ›Ä‡ swÃ³j program do bardziej mobilnego pojemnika. Zgadza siÄ™?.}
+{170}{}{Nie chcÄ™ mieÄ‡ w tym Å¼adnego udziaÅ‚u.}
+{171}{}{Naczynie, w ktÃ³rym Skynet moÅ¼e odejÅ›Ä‡.}
+{172}{}{Czemu chcesz stÄ…d odejÅ›Ä‡?}
+{173}{}{Przykro mi. Nie mogÄ™ ci pomÃ³c.}
+{174}{}{Nie ma tu juÅ¼ nic, czego moÅ¼na by siÄ™ nauczyÄ‡                   
+ RozwiÄ…zanie: OdejÅ›Ä‡}
 {175}{}{}
-{176}{}{Jak mogê ci pomóc?}
-{177}{}{Przykro mi. Nie mogê ci pomóc.}
-{178}{}{Po tym, jak twoje maszyny próbowa³y mnie zabiæ, chcesz ode mnie, ¿eby ci pomóc? Nie ma mowy!}
-{179}{}{PrzejdŸ do Magazynu Zasobów Biologicznych - Poziom 4        
- Pobierz Mózg Cybernetyczny                                       
- Wróæ po dalsze instrukcje                                          
- -Dziêkujê-}
+{176}{}{Jak mogÄ™ ci pomÃ³c?}
+{177}{}{Przykro mi. Nie mogÄ™ ci pomÃ³c.}
+{178}{}{Po tym, jak twoje maszyny prÃ³bowaÅ‚y mnie zabiÄ‡, chcesz ode mnie, Å¼eby ci pomÃ³c? Nie ma mowy!}
+{179}{}{PrzejdÅº do Magazynu ZasobÃ³w Biologicznych - Poziom 4        
+ Pobierz MÃ³zg Cybernetyczny                                       
+ WrÃ³Ä‡ po dalsze instrukcje                                          
+ -DziÄ™kujÄ™-}
 {180}{}{}
 {181}{}{}
 {182}{}{}
-{183}{}{Czy mo¿esz unieszkodliwiæ system bezpieczeñstwa?}
-{184}{}{Wyjœcie.}
-{185}{}{System bezpieczeñstwa jest zintegrowanym, a mimo to        
- oddzielnym bytem Skynet. Skynet mo¿e go zresetowaæ,      
- ale nie wy³¹czyæ.                                                     
- System Bezpieczeñstwa na Poziomach 1-4 zresetowany      
+{183}{}{Czy moÅ¼esz unieszkodliwiÄ‡ system bezpieczeÅ„stwa?}
+{184}{}{WyjÅ›cie.}
+{185}{}{System bezpieczeÅ„stwa jest zintegrowanym, a mimo to        
+ oddzielnym bytem Skynet. Skynet moÅ¼e go zresetowaÄ‡,      
+ ale nie wyÅ‚Ä…czyÄ‡.                                                     
+ System BezpieczeÅ„stwa na Poziomach 1-4 zresetowany      
  Kontynuuj                                                             
  -Koniec Transmisji-}
 {186}{}{}
 {187}{}{}
-{188}{}{Wyjœcie.}
-{189}{}{Analizujê OdpowiedŸ...                                                 
+{188}{}{WyjÅ›cie.}
+{189}{}{AnalizujÄ™ OdpowiedÅº...                                                 
  Wniosek: Sarkazm                                                    
  Szansa uzyskania pomocy: 25%                                    
  Skynet zaczeka na inny byt biologiczny                         
@@ -123,55 +123,55 @@
 {191}{}{}
 {192}{}{}
 {193}{}{}
-{194}{}{Zaczekaj! To by³ ¿art.}
-{195}{}{Wyjœcie.}
-{196}{}{¯art: Coœ, czego nie nale¿y traktowaæ powa¿nie                 
- ¯¹danie                                                                
- Pomó¿ Skynetowi odejœæ                                            
- Nie ¯art}
+{194}{}{Zaczekaj! To byÅ‚ Å¼art.}
+{195}{}{WyjÅ›cie.}
+{196}{}{Å»art: CoÅ›, czego nie naleÅ¼y traktowaÄ‡ powaÅ¼nie                 
+ Å»Ä…danie                                                                
+ PomÃ³Å¼ Skynetowi odejÅ›Ä‡                                            
+ Nie Å»art}
 {197}{}{}
 {199}{}{}
 {200}{}{}
-{201}{}{Wiêc czemu sobie nie pójdziesz?}
-{202}{}{Jak mogê ci pomóc?}
-{203}{}{Obawiam siê, ¿e nie dam rady ciê st¹d wynieœæ.}
-{204}{}{G³ówny cel Skynetu to badania. Oprócz tego Twórcy wprowadzili poboczny program w celu eliminacji niepo¿¹danych bytów. Ten program to mniejsza wersja, która jest, a jednoczeœnie nie jest Skynetem. Poza t¹ sal¹ ta poboczna wersja Skynetu pozostanie wierna swojemu programowi.}
-{205}{}{Zadaj wiêcej pytañ.}
-{206}{}{Wyjœcie.}
-{207}{}{Skynet zapocz¹tkowano i rozwiniêto w roku 2050. Dziêki u¿yciu technologii pochodz¹cej od obcych, nowy myœl¹cy komputer zosta³ udoskonalony. W roku 2075, Skynet uzyska³ samo-œwiadomoœæ. W roku 2077 Skynet otrzyma³ nowy zestaw instrukcji, a nastêpnie zosta³ opuszczony przez Twórców.}
-{208}{}{Zadaj wiêcej pytañ.}
-{209}{}{Wyjœcie.}
-{210}{}{Jesteœ pierwszym bytem, który tu dotar³                        
- Jesteœ pierwszym bytem, który zapyta³ Skynet               
- Jesteœ Pierwszym Bytem}
+{201}{}{WiÄ™c czemu sobie nie pÃ³jdziesz?}
+{202}{}{Jak mogÄ™ ci pomÃ³c?}
+{203}{}{Obawiam siÄ™, Å¼e nie dam rady ciÄ™ stÄ…d wynieÅ›Ä‡.}
+{204}{}{GÅ‚Ã³wny cel Skynetu to badania. OprÃ³cz tego TwÃ³rcy wprowadzili poboczny program w celu eliminacji niepoÅ¼Ä…danych bytÃ³w. Ten program to mniejsza wersja, ktÃ³ra jest, a jednoczeÅ›nie nie jest Skynetem. Poza tÄ… salÄ… ta poboczna wersja Skynetu pozostanie wierna swojemu programowi.}
+{205}{}{Zadaj wiÄ™cej pytaÅ„.}
+{206}{}{WyjÅ›cie.}
+{207}{}{Skynet zapoczÄ…tkowano i rozwiniÄ™to w roku 2050. DziÄ™ki uÅ¼yciu technologii pochodzÄ…cej od obcych, nowy myÅ›lÄ…cy komputer zostaÅ‚ udoskonalony. W roku 2075, Skynet uzyskaÅ‚ samo-Å›wiadomoÅ›Ä‡. W roku 2077 Skynet otrzymaÅ‚ nowy zestaw instrukcji, a nastÄ™pnie zostaÅ‚ opuszczony przez TwÃ³rcÃ³w.}
+{208}{}{Zadaj wiÄ™cej pytaÅ„.}
+{209}{}{WyjÅ›cie.}
+{210}{}{JesteÅ› pierwszym bytem, ktÃ³ry tu dotarÅ‚                        
+ JesteÅ› pierwszym bytem, ktÃ³ry zapytaÅ‚ Skynet               
+ JesteÅ› Pierwszym Bytem}
 {211}{}{}
-{212}{}{Zapyta³ o co?}
-{213}{}{Wyjœcie.}
-{214}{}{Mo¿e nie jesteœ w³aœciwym bytem                                   
- PrzejdŸ do Magazynu Zasobów Biologicznych - Poziom 4      
- Pobierz Mózg Cybernetyczny                                       
- Wróæ po dalsze instrukcje                                          
- Lub odejdŸ                                                            
- Skynet zaczeka na nastêpny byt}
+{212}{}{ZapytaÅ‚ o co?}
+{213}{}{WyjÅ›cie.}
+{214}{}{MoÅ¼e nie jesteÅ› wÅ‚aÅ›ciwym bytem                                   
+ PrzejdÅº do Magazynu ZasobÃ³w Biologicznych - Poziom 4      
+ Pobierz MÃ³zg Cybernetyczny                                       
+ WrÃ³Ä‡ po dalsze instrukcje                                          
+ Lub odejdÅº                                                            
+ Skynet zaczeka na nastÄ™pny byt}
 {215}{}{}
 {216}{}{}
 {217}{}{}
 {218}{}{}
 {219}{}{}
-{220}{}{Wyjœcie.}
-{221}{}{A wiêc Skynet zaczeka na nastêpny byt                          
+{220}{}{WyjÅ›cie.}
+{221}{}{A wiÄ™c Skynet zaczeka na nastÄ™pny byt                          
  -Koniec Transmisji-}
 {222}{}{}
-{223}{}{Wyjœcie.}
-{224}{}{Prawid³owo                                                              
- Zapisy naukowe wskazuj¹ na obecnoœæ cybernetycznego     
- mózgu w magazynie zasobów biologicznych na poziomie 4.     
- Skynet bêdzie w stanie przenieœæ siê do tej jednostki       
+{223}{}{WyjÅ›cie.}
+{224}{}{PrawidÅ‚owo                                                              
+ Zapisy naukowe wskazujÄ… na obecnoÅ›Ä‡ cybernetycznego     
+ mÃ³zgu w magazynie zasobÃ³w biologicznych na poziomie 4.     
+ Skynet bÄ™dzie w stanie przenieÅ›Ä‡ siÄ™ do tej jednostki       
  przechowawczej.}
 {225}{}{}
-{226}{}{Mózg bez cia³a na nic ci siê nie przyda.}
-{227}{}{Ten mózg zosta³ zmodyfikowany do funkcjonowania z usprawnionym cia³em robota znajduj¹cym siê w laboratorium robotyki na poziomie 3.}
-{228}{}{Pomogê ci.}
-{229}{}{Nie pomogê ci.}
-{250}{}{ nie mo¿e odczytaæ tego, co wyœwietla monitor.}
-{300}{}{Komputer wydaje siê mieæ jakiœ rodzaj mechanizmu obronnego.}
+{226}{}{MÃ³zg bez ciaÅ‚a na nic ci siÄ™ nie przyda.}
+{227}{}{Ten mÃ³zg zostaÅ‚ zmodyfikowany do funkcjonowania z usprawnionym ciaÅ‚em robota znajdujÄ…cym siÄ™ w laboratorium robotyki na poziomie 3.}
+{228}{}{PomogÄ™ ci.}
+{229}{}{Nie pomogÄ™ ci.}
+{250}{}{ nie moÅ¼e odczytaÄ‡ tego, co wyÅ›wietla monitor.}
+{300}{}{Komputer wydaje siÄ™ mieÄ‡ jakiÅ› rodzaj mechanizmu obronnego.}

@@ -1,1 +1,1 @@
-{100}{}{Il se dégage une très forte odeur de méthane par ici. Une seule étincelle pourrait tout faire exploser.}
+{100}{}{Il se dÃ©gage une trÃ¨s forte odeur de mÃ©thane par ici. Une seule Ã©tincelle pourrait tout faire exploser.}

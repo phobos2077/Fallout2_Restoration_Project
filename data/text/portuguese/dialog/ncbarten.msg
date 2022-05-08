@@ -1,39 +1,39 @@
-{100}{}{Você vê um barman.}
-{150}{}{Você vê um homem baixo e gordo tomando conta do bar. Ele acena pra você.}
+{100}{}{VocÃª vÃª um barman.}
+{150}{}{VocÃª vÃª um homem baixo e gordo tomando conta do bar. Ele acena pra vocÃª.}
 {200}{}{Ei! }
 {201}{}{! Chutou o traseiro da Enclave, hein! Quer uma bebida?}
-{206}{}{! O que 'cê manda?!}
-{210}{}{Uma dose de rotgut saindo…}
-{211}{}{São três pratas…}
+{206}{}{! O que 'cÃª manda?!}
+{210}{}{Uma dose de rotgut saindoâ€¦}
+{211}{}{SÃ£o trÃªs pratasâ€¦}
 {212}{}{Mais uma, fera?}
 {213}{}{Aqui tem um torniquete, se precisar.}
-{214}{}{Não inale o Jet de uma vez... tome uma dose, respire fundo e deixe
+{214}{}{NÃ£o inale o Jet de uma vez... tome uma dose, respire fundo e deixe
  fazer efeito.}
-{215}{}{Você quer em dois malotes ou no inalador?}
-{216}{}{O inalador vai de brinde…}
+{215}{}{VocÃª quer em dois malotes ou no inalador?}
+{216}{}{O inalador vai de brindeâ€¦}
 {217}{}{Deixa eu adivinhar: Coloco na sua conta?}
 {218}{}{Um nuke on the rocks, saindo.}
-{219}{}{Nós não deixamos clientes tomarem Buffout aqui, chapa.}
-{225}{}{É melhor 'cê dar o fora daqui antes que seja servido com mais chumbo do que
- 'güenta tomar, entendeu?}
-{226}{}{Vai logo... saia. Não queremos tretas.}
-{227}{}{Eles vão acabar com você se continuar por aqui. Cai fora.}
-{228}{}{Nós estamos com o estoque vazio. Agora cai fora, otário.}
-{236}{}{! Qual é o seu veneno?}
-{237}{}{Eeeeei! Vai beber o quê?}
+{219}{}{NÃ³s nÃ£o deixamos clientes tomarem Buffout aqui, chapa.}
+{225}{}{Ã‰ melhor 'cÃª dar o fora daqui antes que seja servido com mais chumbo do que
+ 'gÃ¼enta tomar, entendeu?}
+{226}{}{Vai logo... saia. NÃ£o queremos tretas.}
+{227}{}{Eles vÃ£o acabar com vocÃª se continuar por aqui. Cai fora.}
+{228}{}{NÃ³s estamos com o estoque vazio. Agora cai fora, otÃ¡rio.}
+{236}{}{! Qual Ã© o seu veneno?}
+{237}{}{Eeeeei! Vai beber o quÃª?}
 {238}{}{O que vai beber, chapa?}
 {239}{}{O que vai beber, meu bem?}
-{240}{}{Be-bê parece bom}
-{241}{}{Bebê?! Mim não quer bebê!}
-{242}{}{O que você tem aí?}
-{243}{}{Que tipo de drogas você tem?}
-{244}{}{Quem é o velhote naquele caça-níqueis?}
-{245}{}{Quem é o cara com a faca no bar?}
+{240}{}{Be-bÃª parece bom}
+{241}{}{BebÃª?! Mim nÃ£o quer bebÃª!}
+{242}{}{O que vocÃª tem aÃ­?}
+{243}{}{Que tipo de drogas vocÃª tem?}
+{244}{}{Quem Ã© o velhote naquele caÃ§a-nÃ­queis?}
+{245}{}{Quem Ã© o cara com a faca no bar?}
 {246}{}{Nada por hoje, valeu.}
-{250}{}{Ah, 'cê tá falando do velho McGee? Ele é inofensivo. Gasta quase uma fortuna naquela
- máquina velha e não ganhou nada há anos. De qualquer forma... posso te trazer alguma coisa,
+{250}{}{Ah, 'cÃª tÃ¡ falando do velho McGee? Ele Ã© inofensivo. Gasta quase uma fortuna naquela
+ mÃ¡quina velha e nÃ£o ganhou nada hÃ¡ anos. De qualquer forma... posso te trazer alguma coisa,
  chapa?}
-{260}{}{Aquele é o Jesus's little boy, Lil' Jesus. Ele e aquela faca são como amigos
- íntimos... eu já vi ele fazer coisas terríveis com ela. De qualquer forma, posso te
+{260}{}{Aquele Ã© o Jesus's little boy, Lil' Jesus. Ele e aquela faca sÃ£o como amigos
+ Ã­ntimos... eu jÃ¡ vi ele fazer coisas terrÃ­veis com ela. De qualquer forma, posso te
  trazer algo, chapa?}
-{270}{}{Prazer em fazer negócios com você.}
+{270}{}{Prazer em fazer negÃ³cios com vocÃª.}

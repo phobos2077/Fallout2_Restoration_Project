@@ -1,3 +1,3 @@
-{100}{}{Ez egy régi kút.}
-{101}{}{Ez egy régi kút. A fala nagyon síkos. Ha biztonságosan le akarsz mászni, kötélre lesz szükséged.}
-{102}{}{A kúthoz er?sített kötél levezet a sötétbe.}
+{100}{}{Ez egy rÃ©gi kÃºt.}
+{101}{}{Ez egy rÃ©gi kÃºt. A fala nagyon sÃ­kos. Ha biztonsÃ¡gosan le akarsz mÃ¡szni, kÃ¶tÃ©lre lesz szÃ¼ksÃ©ged.}
+{102}{}{A kÃºthoz er?sÃ­tett kÃ¶tÃ©l levezet a sÃ¶tÃ©tbe.}

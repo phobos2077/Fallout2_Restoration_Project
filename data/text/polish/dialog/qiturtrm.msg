@@ -1,167 +1,167 @@
 {100}{}{Widzisz terminal.}
-{101}{}{Widzisz terminal. Wygl¹da na sprawny.}
-{102}{}{Widzisz DataPlex 2000 SmarTerminal, wyposa¿ony w ca³e 64k RAMu. To najnowszy produkt technologii komputerowej - szkoda, ¿e w tej chwili nie dzia³a.}
-{103}{}{Widzisz DataPlex 2000 SmarTerminal, wyposa¿ony w ca³e 64k RAMu. To najnowszy produkt technologii komputerowej.}
-{104}{}{Witaj w PoseidoNet. Wybierz opcjê:}
+{101}{}{Widzisz terminal. WyglÄ…da na sprawny.}
+{102}{}{Widzisz DataPlex 2000 SmarTerminal, wyposaÅ¼ony w caÅ‚e 64k RAMu. To najnowszy produkt technologii komputerowej - szkoda, Å¼e w tej chwili nie dziaÅ‚a.}
+{103}{}{Widzisz DataPlex 2000 SmarTerminal, wyposaÅ¼ony w caÅ‚e 64k RAMu. To najnowszy produkt technologii komputerowej.}
+{104}{}{Witaj w PoseidoNet. Wybierz opcjÄ™:}
 {105}{}{Zaloguj.}
 {106}{}{Pomoc.}
 {107}{}{Koniec sesji.}
-{108}{}{Ten terminal wyœwietla jakiœ film o Indianach, wyj¹tkowo nudny.}
-{109}{}{Ten terminal wyœwietla program o strzelaniu do celu. Na ekranie widaæ tylko œrodek tarczy.}
-{110}{}{Ten terminal wyœwietla jakieœ wspó³czesne dzie³o sztuki - obraz sk³ada siê z wielu pionowych i poziomych pasków w ró¿nych kolorach.}
-{111}{}{Widzisz terminal, który wyœwietla na ekranie ma³e, zielone bomby spadaj¹ce po przek¹tnej.}
-{112}{}{Ten terminal wyœwietla komunikat, "Mo¿esz teraz bezpiecznie wy³¹czyæ swój komputer". Zastanawiasz siê, co to oznacza.}
-{113}{}{Widzisz obraz z³o¿ony z czerwonych, zielonych i niebieskich punktów œwietlnych, które uk³adaj¹ w jakiœ obrazek...}
-{114}{}{Z tego ekranu patrzy na ciebie jakaœ paskudna zjawa. Nie, czekaj, ten terminal jest wy³¹czony.}
-{115}{}{To okno wygl¹da na mroczny wymiar poza przestrzeni¹ i czasem.}
-{116}{}{Ten terminal wyœwietla komunikat: "Trwa uruchamianie Fenestra '98". Pokrywa go gruba warstwa kurzu. }
-{117}{}{To jest chyba terminal marki Morela. Aktualnie pracuje na nim coœ, co siê nazywa Fallout 3. Jejku, to jest w 3D i ma chyba nawet opcjê multiplayer.}
-{118}{}{WprowadŸ nazwê u¿ytkownika:}
-{119}{}{(Zobaczmy czy zadzia³a) Wyœwietl listê u¿ytkowników.}
-{120}{}{(Ciekawe, czy zadzia³a?) Smith, J.}
-{121}{}{Wróæ.}
-{123}{}{Chyba lepiej spróbujê tych sztuczek gdzieœ indziej.}
-{124}{}{Lista u¿ytkowników: (terminal pokazuje listê oko³o 500 imion).}
-{125}{}{Lista u¿ytkowników: (komputer pokazuje listê imion).}
-{126}{}{Wybierz nazwê u¿ytkownika lub roz³¹cz siê:}
-{127}{}{(Ten u¿ytkownik ma niez³e prawa dostêpu.) Smith, J.}
-{128}{}{(To chyba jakiœ specjalny u¿ytkownik.) Przejêcie kontroli zabezpieczeñ - Klucz Prezydencki.}
-{129}{}{(Ten u¿ytkownik ma lepsze prawa dostêpu ni¿ inni.) Murray, T.}
-{130}{}{(Ten u¿ytkownik ma chyba najwy¿sze prawa dostêpu.) Curling, dr C.}
-{131}{}{(Ten u¿ytkownik ma naprawdê wspania³e prawa dostêpu.) Bird, D.}
-{132}{}{(Mo¿e póŸniej spróbujê.) Roz³¹cz siê.}
-{133}{}{Wybierz opcjê: }
-{134}{}{S. E. A.: Sterowanie Elektrowni¹ Atomow¹,}
-{135}{}{Status Bezpieczeñstwa?}
-{136}{}{Pobierz S. E. A.: Sterowanie Elektrowni¹ Atomow¹.}
-{137}{}{Status Bezpieczeñstwa.}
-{138}{}{Powrót do menu nazwy u¿ytkownika:}
-{139}{}{Wybierz opcjê: }
-{140}{}{Poziom Zabezpieczeñ: aktualny status,}
-{141}{}{Korpus chemiczny: Raport nt. postêpów Projektu,}
-{142}{}{S. E. A.: Sterowanie Elektrowni¹ Atomow¹,}
-{143}{}{Status Bezpieczeñstwa?}
+{108}{}{Ten terminal wyÅ›wietla jakiÅ› film o Indianach, wyjÄ…tkowo nudny.}
+{109}{}{Ten terminal wyÅ›wietla program o strzelaniu do celu. Na ekranie widaÄ‡ tylko Å›rodek tarczy.}
+{110}{}{Ten terminal wyÅ›wietla jakieÅ› wspÃ³Å‚czesne dzieÅ‚o sztuki - obraz skÅ‚ada siÄ™ z wielu pionowych i poziomych paskÃ³w w rÃ³Å¼nych kolorach.}
+{111}{}{Widzisz terminal, ktÃ³ry wyÅ›wietla na ekranie maÅ‚e, zielone bomby spadajÄ…ce po przekÄ…tnej.}
+{112}{}{Ten terminal wyÅ›wietla komunikat, "MoÅ¼esz teraz bezpiecznie wyÅ‚Ä…czyÄ‡ swÃ³j komputer". Zastanawiasz siÄ™, co to oznacza.}
+{113}{}{Widzisz obraz zÅ‚oÅ¼ony z czerwonych, zielonych i niebieskich punktÃ³w Å›wietlnych, ktÃ³re ukÅ‚adajÄ… w jakiÅ› obrazek...}
+{114}{}{Z tego ekranu patrzy na ciebie jakaÅ› paskudna zjawa. Nie, czekaj, ten terminal jest wyÅ‚Ä…czony.}
+{115}{}{To okno wyglÄ…da na mroczny wymiar poza przestrzeniÄ… i czasem.}
+{116}{}{Ten terminal wyÅ›wietla komunikat: "Trwa uruchamianie Fenestra '98". Pokrywa go gruba warstwa kurzu. }
+{117}{}{To jest chyba terminal marki Morela. Aktualnie pracuje na nim coÅ›, co siÄ™ nazywa Fallout 3. Jejku, to jest w 3D i ma chyba nawet opcjÄ™ multiplayer.}
+{118}{}{WprowadÅº nazwÄ™ uÅ¼ytkownika:}
+{119}{}{(Zobaczmy czy zadziaÅ‚a) WyÅ›wietl listÄ™ uÅ¼ytkownikÃ³w.}
+{120}{}{(Ciekawe, czy zadziaÅ‚a?) Smith, J.}
+{121}{}{WrÃ³Ä‡.}
+{123}{}{Chyba lepiej sprÃ³bujÄ™ tych sztuczek gdzieÅ› indziej.}
+{124}{}{Lista uÅ¼ytkownikÃ³w: (terminal pokazuje listÄ™ okoÅ‚o 500 imion).}
+{125}{}{Lista uÅ¼ytkownikÃ³w: (komputer pokazuje listÄ™ imion).}
+{126}{}{Wybierz nazwÄ™ uÅ¼ytkownika lub rozÅ‚Ä…cz siÄ™:}
+{127}{}{(Ten uÅ¼ytkownik ma niezÅ‚e prawa dostÄ™pu.) Smith, J.}
+{128}{}{(To chyba jakiÅ› specjalny uÅ¼ytkownik.) PrzejÄ™cie kontroli zabezpieczeÅ„ - Klucz Prezydencki.}
+{129}{}{(Ten uÅ¼ytkownik ma lepsze prawa dostÄ™pu niÅ¼ inni.) Murray, T.}
+{130}{}{(Ten uÅ¼ytkownik ma chyba najwyÅ¼sze prawa dostÄ™pu.) Curling, dr C.}
+{131}{}{(Ten uÅ¼ytkownik ma naprawdÄ™ wspaniaÅ‚e prawa dostÄ™pu.) Bird, D.}
+{132}{}{(MoÅ¼e pÃ³Åºniej sprÃ³bujÄ™.) RozÅ‚Ä…cz siÄ™.}
+{133}{}{Wybierz opcjÄ™: }
+{134}{}{S. E. A.: Sterowanie ElektrowniÄ… AtomowÄ…,}
+{135}{}{Status BezpieczeÅ„stwa?}
+{136}{}{Pobierz S. E. A.: Sterowanie ElektrowniÄ… AtomowÄ….}
+{137}{}{Status BezpieczeÅ„stwa.}
+{138}{}{PowrÃ³t do menu nazwy uÅ¼ytkownika:}
+{139}{}{Wybierz opcjÄ™: }
+{140}{}{Poziom ZabezpieczeÅ„: aktualny status,}
+{141}{}{Korpus chemiczny: Raport nt. postÄ™pÃ³w Projektu,}
+{142}{}{S. E. A.: Sterowanie ElektrowniÄ… AtomowÄ…,}
+{143}{}{Status BezpieczeÅ„stwa?}
 {144}{}{Zabezpieczenia/poziom: aktualny status}
-{145}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
-{146}{}{Pobierz S. E. A.: Sterowanie Elektrowni¹ Atomow¹.}
-{147}{}{Status Bezpieczeñstwa.}
-{148}{}{Powrót do menu nazwy u¿ytkownika:}
-{149}{}{Wybierz opcjê: }
-{150}{}{Stan Narodu: stan bie¿¹cy, }
-{151}{}{Lista S³ów, }
-{152}{}{Poziom Zabezpieczeñ: aktualny status,}
-{153}{}{Korpus chemiczny: Raport nt. postêpów Projektu,}
-{154}{}{S. E. A.: Sterowanie Elektrowni¹ Atomow¹,}
-{155}{}{Status Bezpieczeñstwa?}
-{156}{}{Stan Narodu: stan bie¿¹cy.}
-{157}{}{Pobierz Lista S³ów.}
+{145}{}{Pobierz Korpus chemiczny: Raport nt. postÄ™pÃ³w Projektu.}
+{146}{}{Pobierz S. E. A.: Sterowanie ElektrowniÄ… AtomowÄ….}
+{147}{}{Status BezpieczeÅ„stwa.}
+{148}{}{PowrÃ³t do menu nazwy uÅ¼ytkownika:}
+{149}{}{Wybierz opcjÄ™: }
+{150}{}{Stan Narodu: stan bieÅ¼Ä…cy, }
+{151}{}{Lista SÅ‚Ã³w, }
+{152}{}{Poziom ZabezpieczeÅ„: aktualny status,}
+{153}{}{Korpus chemiczny: Raport nt. postÄ™pÃ³w Projektu,}
+{154}{}{S. E. A.: Sterowanie ElektrowniÄ… AtomowÄ…,}
+{155}{}{Status BezpieczeÅ„stwa?}
+{156}{}{Stan Narodu: stan bieÅ¼Ä…cy.}
+{157}{}{Pobierz Lista SÅ‚Ã³w.}
 {158}{}{Zabezpieczenia/poziom: aktualny status}
-{159}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
-{160}{}{Pobierz S. E. A.: Sterowanie Elektrowni¹ Atomow¹.}
-{161}{}{Status Bezpieczeñstwa.}
-{162}{}{Powrót do menu nazwy u¿ytkownika:}
-{163}{}{Wybierz: Status Bezpieczeñstwa?}
-{164}{}{Status Bezpieczeñstwa.}
+{159}{}{Pobierz Korpus chemiczny: Raport nt. postÄ™pÃ³w Projektu.}
+{160}{}{Pobierz S. E. A.: Sterowanie ElektrowniÄ… AtomowÄ….}
+{161}{}{Status BezpieczeÅ„stwa.}
+{162}{}{PowrÃ³t do menu nazwy uÅ¼ytkownika:}
+{163}{}{Wybierz: Status BezpieczeÅ„stwa?}
+{164}{}{Status BezpieczeÅ„stwa.}
 {165}{}{Koniec.}
-{166}{}{Pobieranie nie powiod³o siê - brak pliku Status Bezpieczeñstwa.}
-{167}{}{Stan Narodu: stan bie¿¹cy.}
-{168}{}{Pobierz Lista S³ów.}
+{166}{}{Pobieranie nie powiodÅ‚o siÄ™ - brak pliku Status BezpieczeÅ„stwa.}
+{167}{}{Stan Narodu: stan bieÅ¼Ä…cy.}
+{168}{}{Pobierz Lista SÅ‚Ã³w.}
 {169}{}{Zabezpieczenia/poziom: aktualny status.}
-{170}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
-{171}{}{Pobierz S. E. A.: Sterowanie Elektrowni¹ Atomow¹.}
-{172}{}{Powrót do menu nazwy u¿ytkownika:}
-{173}{}{Pobieranie zakoñczone.}
-{174}{}{Pobierz Lista S³ów.}
+{170}{}{Pobierz Korpus chemiczny: Raport nt. postÄ™pÃ³w Projektu.}
+{171}{}{Pobierz S. E. A.: Sterowanie ElektrowniÄ… AtomowÄ….}
+{172}{}{PowrÃ³t do menu nazwy uÅ¼ytkownika:}
+{173}{}{Pobieranie zakoÅ„czone.}
+{174}{}{Pobierz Lista SÅ‚Ã³w.}
 {175}{}{Zabezpieczenia/poziom: aktualny status.}
-{176}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
-{177}{}{Pobierz S. E. A.: Sterowanie Elektrowni¹ Atomow¹.}
-{178}{}{Status Bezpieczeñstwa.}
-{179}{}{Powrót do menu nazwy u¿ytkownika:}
-{180}{}{Pobieranie zakoñczone.}
-{181}{}{Stan Narodu: stan bie¿¹cy.}
+{176}{}{Pobierz Korpus chemiczny: Raport nt. postÄ™pÃ³w Projektu.}
+{177}{}{Pobierz S. E. A.: Sterowanie ElektrowniÄ… AtomowÄ….}
+{178}{}{Status BezpieczeÅ„stwa.}
+{179}{}{PowrÃ³t do menu nazwy uÅ¼ytkownika:}
+{180}{}{Pobieranie zakoÅ„czone.}
+{181}{}{Stan Narodu: stan bieÅ¼Ä…cy.}
 {182}{}{Zabezpieczenia/poziom: aktualny status.}
-{183}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
-{184}{}{Pobierz S. E. A.: Sterowanie Elektrowni¹ Atomow¹.}
-{185}{}{Status Bezpieczeñstwa.}
-{186}{}{Powrót do menu nazwy u¿ytkownika:}
-{187}{}{Poziom koszarów stra¿y: Wie¿e obronne w trybie Alarm.}
-{188}{}{Poziom koszarów stra¿y: Wie¿e obronne w trybie Normalny.}
-{189}{}{Poziom koszarów stra¿y: Wie¿e obronne w trybie Wy³¹czony - Konserwacja.}
-{190}{}{Poziom kwater egzemplarzy doœwiadczalnych: Wie¿e obronne w trybie Alarm.}
-{191}{}{Poziom kwater egzemplarzy doœwiadczalnych: Wie¿e obronne w trybie Normalny.}
-{192}{}{Poziom kwater egzemplarzy doœwiadczalnych: Wie¿e obronne w trybie Wy³¹czony - Konserwacja.}
-{193}{}{Strefa badañ i rozwoju Projektu: Wie¿e obronne w trybie Alarm.}
-{194}{}{Strefa badañ i rozwoju Projektu: Wie¿e obronne w trybie Normalny.}
-{195}{}{Strefa badañ i rozwoju Projektu: Wie¿e obronne w trybie Wy³¹czony - Konserwacja.}
-{196}{}{Strefa administracyjna: Wie¿e obronne w trybie Alarm.}
-{197}{}{Strefa administracyjna: Wie¿e obronne w trybie Normalny.}
-{198}{}{Strefa administracyjna: Wie¿e obronne w trybie Wy³¹czony - Konserwacja.}
-{199}{}{Poziom si³owni i informatyczny: Wie¿e obronne w trybie Alarm.}
-{200}{}{Poziom si³owni i informatyczny: Wie¿e obronne w trybie Normalny.}
-{201}{}{Poziom si³owni i informatyczny: Wie¿e obronne w trybie Wy³¹czony - Konserwacja.}
-{202}{}{Zmieñ poziom zabezpieczeñ.}
-{203}{}{Stan Narodu: stan bie¿¹cy.}
-{204}{}{Pobierz Lista S³ów.}
-{205}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
-{206}{}{Pobierz S. E. A.: Sterowanie Elektrowni¹ Atomow¹.}
-{207}{}{Status Bezpieczeñstwa.}
-{208}{}{Powrót do menu nazwy u¿ytkownika:}
-{209}{}{Pobieranie zakoñczone.}
-{210}{}{Pobierz Stan Narodu: Stan bie¿¹cy.}
-{211}{}{Pobierz Lista S³ów.}
+{183}{}{Pobierz Korpus chemiczny: Raport nt. postÄ™pÃ³w Projektu.}
+{184}{}{Pobierz S. E. A.: Sterowanie ElektrowniÄ… AtomowÄ….}
+{185}{}{Status BezpieczeÅ„stwa.}
+{186}{}{PowrÃ³t do menu nazwy uÅ¼ytkownika:}
+{187}{}{Poziom koszarÃ³w straÅ¼y: WieÅ¼e obronne w trybie Alarm.}
+{188}{}{Poziom koszarÃ³w straÅ¼y: WieÅ¼e obronne w trybie Normalny.}
+{189}{}{Poziom koszarÃ³w straÅ¼y: WieÅ¼e obronne w trybie WyÅ‚Ä…czony - Konserwacja.}
+{190}{}{Poziom kwater egzemplarzy doÅ›wiadczalnych: WieÅ¼e obronne w trybie Alarm.}
+{191}{}{Poziom kwater egzemplarzy doÅ›wiadczalnych: WieÅ¼e obronne w trybie Normalny.}
+{192}{}{Poziom kwater egzemplarzy doÅ›wiadczalnych: WieÅ¼e obronne w trybie WyÅ‚Ä…czony - Konserwacja.}
+{193}{}{Strefa badaÅ„ i rozwoju Projektu: WieÅ¼e obronne w trybie Alarm.}
+{194}{}{Strefa badaÅ„ i rozwoju Projektu: WieÅ¼e obronne w trybie Normalny.}
+{195}{}{Strefa badaÅ„ i rozwoju Projektu: WieÅ¼e obronne w trybie WyÅ‚Ä…czony - Konserwacja.}
+{196}{}{Strefa administracyjna: WieÅ¼e obronne w trybie Alarm.}
+{197}{}{Strefa administracyjna: WieÅ¼e obronne w trybie Normalny.}
+{198}{}{Strefa administracyjna: WieÅ¼e obronne w trybie WyÅ‚Ä…czony - Konserwacja.}
+{199}{}{Poziom siÅ‚owni i informatyczny: WieÅ¼e obronne w trybie Alarm.}
+{200}{}{Poziom siÅ‚owni i informatyczny: WieÅ¼e obronne w trybie Normalny.}
+{201}{}{Poziom siÅ‚owni i informatyczny: WieÅ¼e obronne w trybie WyÅ‚Ä…czony - Konserwacja.}
+{202}{}{ZmieÅ„ poziom zabezpieczeÅ„.}
+{203}{}{Stan Narodu: stan bieÅ¼Ä…cy.}
+{204}{}{Pobierz Lista SÅ‚Ã³w.}
+{205}{}{Pobierz Korpus chemiczny: Raport nt. postÄ™pÃ³w Projektu.}
+{206}{}{Pobierz S. E. A.: Sterowanie ElektrowniÄ… AtomowÄ….}
+{207}{}{Status BezpieczeÅ„stwa.}
+{208}{}{PowrÃ³t do menu nazwy uÅ¼ytkownika:}
+{209}{}{Pobieranie zakoÅ„czone.}
+{210}{}{Pobierz Stan Narodu: Stan bieÅ¼Ä…cy.}
+{211}{}{Pobierz Lista SÅ‚Ã³w.}
 {212}{}{Zabezpieczenia/poziom: aktualny status}
-{213}{}{Pobierz S. E. A.: Sterowanie Elektrowni¹ Atomow¹.}
-{215}{}{Status Bezpieczeñstwa.}
-{216}{}{Powrót do menu nazwy u¿ytkownika:}
-{217}{}{Pobieranie zakoñczone.}
-{218}{}{Pobierz Stan Narodu: Stan bie¿¹cy.}
-{219}{}{Pobierz Lista S³ów.}
+{213}{}{Pobierz S. E. A.: Sterowanie ElektrowniÄ… AtomowÄ….}
+{215}{}{Status BezpieczeÅ„stwa.}
+{216}{}{PowrÃ³t do menu nazwy uÅ¼ytkownika:}
+{217}{}{Pobieranie zakoÅ„czone.}
+{218}{}{Pobierz Stan Narodu: Stan bieÅ¼Ä…cy.}
+{219}{}{Pobierz Lista SÅ‚Ã³w.}
 {220}{}{Zabezpieczenia/poziom: aktualny status.}
-{221}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
-{222}{}{Status Bezpieczeñstwa.}
-{223}{}{Powrót do menu nazwy u¿ytkownika:}
-{224}{}{Ten terminal w tej chiwli przeprowadza dok³adn¹ procedurê diagnostyczn¹. Proszê skorzystaæ z innego terminala. Dziêkujê.}
-{225}{}{Witaj w systemie pomocy PoseidoNet. Niestety twoje pliki pomocy s¹ w tej chwili nieaktualne i niedostêpne. Czy chcesz szukaæ uaktualnienia pomocy? (T/N)}
+{221}{}{Pobierz Korpus chemiczny: Raport nt. postÄ™pÃ³w Projektu.}
+{222}{}{Status BezpieczeÅ„stwa.}
+{223}{}{PowrÃ³t do menu nazwy uÅ¼ytkownika:}
+{224}{}{Ten terminal w tej chiwli przeprowadza dokÅ‚adnÄ… procedurÄ™ diagnostycznÄ…. ProszÄ™ skorzystaÄ‡ z innego terminala. DziÄ™kujÄ™.}
+{225}{}{Witaj w systemie pomocy PoseidoNet. Niestety twoje pliki pomocy sÄ… w tej chwili nieaktualne i niedostÄ™pne. Czy chcesz szukaÄ‡ uaktualnienia pomocy? (T/N)}
 {226}{}{Tak.}
-{227}{}{Nie, wróæ.}
-{228}{}{Uaktualnienia pomocy nie s¹ dostêpne w wersji próbnej oprogramowania PoseidoNet. Aby uzyskaæ dostêp do wszystkich uaktualnieñ, proszê dokonaæ zakupu pe³nej wersji. Twój okres próbny zakoñczy³ siê 59439 dni temu.}
-{229}{}{Powrót do Logowania.}
+{227}{}{Nie, wrÃ³Ä‡.}
+{228}{}{Uaktualnienia pomocy nie sÄ… dostÄ™pne w wersji prÃ³bnej oprogramowania PoseidoNet. Aby uzyskaÄ‡ dostÄ™p do wszystkich uaktualnieÅ„, proszÄ™ dokonaÄ‡ zakupu peÅ‚nej wersji. TwÃ³j okres prÃ³bny zakoÅ„czyÅ‚ siÄ™ 59439 dni temu.}
+{229}{}{PowrÃ³t do Logowania.}
 {230}{}{Koniec sesji.}
-{231}{}{Przejêcie kontroli nad zabezpieczeniami wymaga klucza prezydenckiego. Dostêpne opcje: Przeciwdzia³anie Zamachowi Stanu, Awaryjne Wy³¹czenie Systemów Obronnych.}
-{232}{}{(Zobaczmy co to takiego.) Przeciwdzia³anie Zamachowi Stanu.}
-{233}{}{(Zobaczmy co to takiego.) Awaryjne Wy³¹czenie Systemów Obronnych.}
-{234}{}{(Mo¿e lepiej wypróbowaæ coœ mniej rzucaj¹cego siê w oczy.) Powrót do menu nazwy u¿ytkownika.}
-{235}{}{(Chyba na razie nie chcê w tym mieszaæ.) Roz³¹cz siê.}
-{236}{}{Przeciwdzia³anie zamachowi stanu. W przypadku zbrojnego przewrotu klucz prezydencki umo¿liwia zwrócenie systemów obronnych przeciwko wszystkim, uprzednio lojalnym, ale obecnie stwarzaj¹cym zagro¿enie jednostkom. Systemy obronne zaprogramowano tak, by w pierwszej kolejnoœci atakowa³y najgroŸniejszych wrogów. Uwaga! Obecny poziom dzia³ania - Tylko poziomy wejœciowe!}
-{237}{}{(To siê mo¿e przydaæ.) Uruchom Protokó³ Przeciwdzia³ania Zamachom Stanu.}
-{238}{}{(Mo¿e wypróbujê to kiedy indziej.) Wróæ.}
-{239}{}{(Na razie nie chcê siê d³u¿ej bawiæ komputerem.) Wyloguj.}
-{240}{}{Klucz prezydencki rozpoznany. Dzieñ dobry panie Prezydencie... Uruchomiono Awaryjny Protokó³ Przeciwdzia³ania Zamachom Stanu... Cel w zasiêgu.}
-{241}{}{(Chyba lepiej odsunê siê i zobaczê, co siê stanie.)}
-{242}{}{Klucz prezydencki rozpoznany. Dzieñ dobry panie Prezydencie... Uruchomiono Awaryjny Protokó³ Przeciwdzia³ania Zamachom Stanu... **Awaria**... Na tym poziomie nie mo¿na dokonaæ po³¹czenia. Proszê wype³niæ formularz FG-I-106-32-0635 w celu zlecenia naprawy. Dziêkujemy za korzystanie z kolejnego doskona³ego produktu firmy Vault-Tec. Mi³ego dnia.}
-{243}{}{(Mo¿e spróbujê na poziomie wejœcia do bazy. Hmmm, To musi byæ ten obszar zaraz przed dokiem.) Porót do menu nazwy u¿ytkownika.}
-{244}{}{(Ciekawe czego jeszcze mogê spróbowaæ?) Wróæ.}
+{231}{}{PrzejÄ™cie kontroli nad zabezpieczeniami wymaga klucza prezydenckiego. DostÄ™pne opcje: PrzeciwdziaÅ‚anie Zamachowi Stanu, Awaryjne WyÅ‚Ä…czenie SystemÃ³w Obronnych.}
+{232}{}{(Zobaczmy co to takiego.) PrzeciwdziaÅ‚anie Zamachowi Stanu.}
+{233}{}{(Zobaczmy co to takiego.) Awaryjne WyÅ‚Ä…czenie SystemÃ³w Obronnych.}
+{234}{}{(MoÅ¼e lepiej wyprÃ³bowaÄ‡ coÅ› mniej rzucajÄ…cego siÄ™ w oczy.) PowrÃ³t do menu nazwy uÅ¼ytkownika.}
+{235}{}{(Chyba na razie nie chcÄ™ w tym mieszaÄ‡.) RozÅ‚Ä…cz siÄ™.}
+{236}{}{PrzeciwdziaÅ‚anie zamachowi stanu. W przypadku zbrojnego przewrotu klucz prezydencki umoÅ¼liwia zwrÃ³cenie systemÃ³w obronnych przeciwko wszystkim, uprzednio lojalnym, ale obecnie stwarzajÄ…cym zagroÅ¼enie jednostkom. Systemy obronne zaprogramowano tak, by w pierwszej kolejnoÅ›ci atakowaÅ‚y najgroÅºniejszych wrogÃ³w. Uwaga! Obecny poziom dziaÅ‚ania - Tylko poziomy wejÅ›ciowe!}
+{237}{}{(To siÄ™ moÅ¼e przydaÄ‡.) Uruchom ProtokÃ³Å‚ PrzeciwdziaÅ‚ania Zamachom Stanu.}
+{238}{}{(MoÅ¼e wyprÃ³bujÄ™ to kiedy indziej.) WrÃ³Ä‡.}
+{239}{}{(Na razie nie chcÄ™ siÄ™ dÅ‚uÅ¼ej bawiÄ‡ komputerem.) Wyloguj.}
+{240}{}{Klucz prezydencki rozpoznany. DzieÅ„ dobry panie Prezydencie... Uruchomiono Awaryjny ProtokÃ³Å‚ PrzeciwdziaÅ‚ania Zamachom Stanu... Cel w zasiÄ™gu.}
+{241}{}{(Chyba lepiej odsunÄ™ siÄ™ i zobaczÄ™, co siÄ™ stanie.)}
+{242}{}{Klucz prezydencki rozpoznany. DzieÅ„ dobry panie Prezydencie... Uruchomiono Awaryjny ProtokÃ³Å‚ PrzeciwdziaÅ‚ania Zamachom Stanu... **Awaria**... Na tym poziomie nie moÅ¼na dokonaÄ‡ poÅ‚Ä…czenia. ProszÄ™ wypeÅ‚niÄ‡ formularz FG-I-106-32-0635 w celu zlecenia naprawy. DziÄ™kujemy za korzystanie z kolejnego doskonaÅ‚ego produktu firmy Vault-Tec. MiÅ‚ego dnia.}
+{243}{}{(MoÅ¼e sprÃ³bujÄ™ na poziomie wejÅ›cia do bazy. Hmmm, To musi byÄ‡ ten obszar zaraz przed dokiem.) PorÃ³t do menu nazwy uÅ¼ytkownika.}
+{244}{}{(Ciekawe czego jeszcze mogÄ™ sprÃ³bowaÄ‡?) WrÃ³Ä‡.}
 {245}{}{Ta funkcja wymaga klucza prezydenckiego. Nie znaleziono karty kodowej.}
-{246}{}{(Ciekawe czego jeszcze mogê spróbowaæ?) Wróæ.}
-{247}{}{Awaryjne Wy³¹czenie Systemów Obronnych tymczasowo wy³¹cza wszystkie aktywne systemy obronne na poszczególnych poziomach. Wy³¹czenie rozpoczyna dok³adn¹ procedurê diagnostyczn¹ przed automatycznym restartem systemów zabezpieczeñ.}
-{248}{}{(Chyba warto tego spróbowaæ.) Uruchom Awaryjne Wy³¹czenie Systemów Obronnych.}
-{249}{}{(Hmmm, mo¿e spróbujê kiedy indziej.) Wróæ.}
-{250}{}{(Na razie nie chcê siê d³u¿ej bawiæ komputerem.) Wyloguj.}
-{251}{}{Klucz prezydencki rozpoznany, dzieñ dobry panie Prezydencie... Inicjuje Awaryjne Wy³¹czanie Systemów Obronnych... Wykonujê dok³adn¹ diagnostykê. Alfa... Bravo... Charlie...}
-{252}{}{(Z jakiegoœ dziwnego powodu wydaje mi siê, ¿e na razie nie chcê tego robiæ.) Wróæ.}
-{253}{}{(Lepiej zmykaæ, zanim to coœ skoñczy tê ca³¹ diagnostykê.). Wyloguj.}
-{254}{}{Nie rozpoznano klucza prezydenckiego. Odmowa dostêpu.}
-{255}{}{(Hmmm, ciekawe, czy dam radê oszukaæ skaner, ¿e mam klucz, jeœli w³amiê siê do pliku dostêpowego. Chyba spróbujê.)}
-{256}{}{(No có¿, zawsze warto by³o spróbowaæ.) Wróæ.}
-{257}{}{Zanotowano awariê skanera kluczy dostêpowych... Trwa ponowne uruchamianie skanera...}
-{258}{}{(To dobra okazja, muszê teraz tylko sprawiæ, ¿eby pomyœla³, ¿e dosta³ klucz prezydencki...)}
-{259}{}{(Cholera. Przynajmniej nic siê nie spieprzy³o...) Wróæ.}
-{260}{}{Ponowne uruchamianie skanera zakoñczone. Ponawiam skanowanie...}
-{261}{}{(Nadesz³a wielka chwila.) - Gor¹czkowo klepiesz w klawiaturê.}
-{262}{}{Wykryto niedozwolon¹ operacjê. Odmowa dalszego dostêpu do tego terminalu... Wysy³am zawiadomienie do administratora.}
-{263}{}{Cholera. Zupe³nie nie o to mi chodzi³o.}
-{264}{}{Klucz prezydencki rozpoznany. Dzieñ dobry panie Prezydencie. (Tak! Zobaczmy co teraz mogê zrobiæ...)}
-{265}{}{(Co jeszcze mogê zrobiæ?)}
-{266}{}{Klucz prezydencki rozpoznany. Dzieñ dobry, Panie Prezydencie... Awaryjny Protokó³ Przeciwdzia³ania Zamachom Stanu zainicjowany... **B³¹d** Cel nieznaleziony. Proszê upewniæ siê, ¿e czujniki dzia³aj¹ prawid³owo. Jeœli nie, proszê wype³niæ formularz FG-I-106-32-0635 w celu zlecenia naprawy. Dziêkujemy za korzystanie z doskona³ych produktów firmy KrypTech. Mi³ego dnia.}
-{267}{}{(Hmm... Mo¿e zadzia³a kiedy ktoœ tu bêdzie. Spróbuje póŸniej.) Powrót do menu nazwy u¿ytkownika.}
-{268}{}{(Ciekawe czego jeszcze mogê spróbowaæ?) Wróæ.}
+{246}{}{(Ciekawe czego jeszcze mogÄ™ sprÃ³bowaÄ‡?) WrÃ³Ä‡.}
+{247}{}{Awaryjne WyÅ‚Ä…czenie SystemÃ³w Obronnych tymczasowo wyÅ‚Ä…cza wszystkie aktywne systemy obronne na poszczegÃ³lnych poziomach. WyÅ‚Ä…czenie rozpoczyna dokÅ‚adnÄ… procedurÄ™ diagnostycznÄ… przed automatycznym restartem systemÃ³w zabezpieczeÅ„.}
+{248}{}{(Chyba warto tego sprÃ³bowaÄ‡.) Uruchom Awaryjne WyÅ‚Ä…czenie SystemÃ³w Obronnych.}
+{249}{}{(Hmmm, moÅ¼e sprÃ³bujÄ™ kiedy indziej.) WrÃ³Ä‡.}
+{250}{}{(Na razie nie chcÄ™ siÄ™ dÅ‚uÅ¼ej bawiÄ‡ komputerem.) Wyloguj.}
+{251}{}{Klucz prezydencki rozpoznany, dzieÅ„ dobry panie Prezydencie... Inicjuje Awaryjne WyÅ‚Ä…czanie SystemÃ³w Obronnych... WykonujÄ™ dokÅ‚adnÄ… diagnostykÄ™. Alfa... Bravo... Charlie...}
+{252}{}{(Z jakiegoÅ› dziwnego powodu wydaje mi siÄ™, Å¼e na razie nie chcÄ™ tego robiÄ‡.) WrÃ³Ä‡.}
+{253}{}{(Lepiej zmykaÄ‡, zanim to coÅ› skoÅ„czy tÄ™ caÅ‚Ä… diagnostykÄ™.). Wyloguj.}
+{254}{}{Nie rozpoznano klucza prezydenckiego. Odmowa dostÄ™pu.}
+{255}{}{(Hmmm, ciekawe, czy dam radÄ™ oszukaÄ‡ skaner, Å¼e mam klucz, jeÅ›li wÅ‚amiÄ™ siÄ™ do pliku dostÄ™powego. Chyba sprÃ³bujÄ™.)}
+{256}{}{(No cÃ³Å¼, zawsze warto byÅ‚o sprÃ³bowaÄ‡.) WrÃ³Ä‡.}
+{257}{}{Zanotowano awariÄ™ skanera kluczy dostÄ™powych... Trwa ponowne uruchamianie skanera...}
+{258}{}{(To dobra okazja, muszÄ™ teraz tylko sprawiÄ‡, Å¼eby pomyÅ›laÅ‚, Å¼e dostaÅ‚ klucz prezydencki...)}
+{259}{}{(Cholera. Przynajmniej nic siÄ™ nie spieprzyÅ‚o...) WrÃ³Ä‡.}
+{260}{}{Ponowne uruchamianie skanera zakoÅ„czone. Ponawiam skanowanie...}
+{261}{}{(NadeszÅ‚a wielka chwila.) - GorÄ…czkowo klepiesz w klawiaturÄ™.}
+{262}{}{Wykryto niedozwolonÄ… operacjÄ™. Odmowa dalszego dostÄ™pu do tego terminalu... WysyÅ‚am zawiadomienie do administratora.}
+{263}{}{Cholera. ZupeÅ‚nie nie o to mi chodziÅ‚o.}
+{264}{}{Klucz prezydencki rozpoznany. DzieÅ„ dobry panie Prezydencie. (Tak! Zobaczmy co teraz mogÄ™ zrobiÄ‡...)}
+{265}{}{(Co jeszcze mogÄ™ zrobiÄ‡?)}
+{266}{}{Klucz prezydencki rozpoznany. DzieÅ„ dobry, Panie Prezydencie... Awaryjny ProtokÃ³Å‚ PrzeciwdziaÅ‚ania Zamachom Stanu zainicjowany... **BÅ‚Ä…d** Cel nieznaleziony. ProszÄ™ upewniÄ‡ siÄ™, Å¼e czujniki dziaÅ‚ajÄ… prawidÅ‚owo. JeÅ›li nie, proszÄ™ wypeÅ‚niÄ‡ formularz FG-I-106-32-0635 w celu zlecenia naprawy. DziÄ™kujemy za korzystanie z doskonaÅ‚ych produktÃ³w firmy KrypTech. MiÅ‚ego dnia.}
+{267}{}{(Hmm... MoÅ¼e zadziaÅ‚a kiedy ktoÅ› tu bÄ™dzie. SprÃ³buje pÃ³Åºniej.) PowrÃ³t do menu nazwy uÅ¼ytkownika.}
+{268}{}{(Ciekawe czego jeszcze mogÄ™ sprÃ³bowaÄ‡?) WrÃ³Ä‡.}

@@ -1,30 +1,30 @@
-{100}{}{Hirdet?tábla.}
-{101}{}{Ezen a hirdet?táblán az ÚKK törvényei díszelegnek.}
-{102}{}{Ez egy tipikus hirdet?tábla, telet?zdelve mindenféle cetlivel. A papírhalmazból kit?nnek az ÚKK törvényeit ismertet? jegyzetek.}
-{103}{}{Üdvözöljük az Új Kalifornia Köztársaságban! Miel?tt belépne városunkba, kérjük ismerkedjen meg a szabályainkkal!}
-{104}{}{Városunk határain belül tilos a nyílt fegyverviselés.}
+{100}{}{Hirdet?tÃ¡bla.}
+{101}{}{Ezen a hirdet?tÃ¡blÃ¡n az ÃšKK tÃ¶rvÃ©nyei dÃ­szelegnek.}
+{102}{}{Ez egy tipikus hirdet?tÃ¡bla, telet?zdelve mindenfÃ©le cetlivel. A papÃ­rhalmazbÃ³l kit?nnek az ÃšKK tÃ¶rvÃ©nyeit ismertet? jegyzetek.}
+{103}{}{ÃœdvÃ¶zÃ¶ljÃ¼k az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡gban! Miel?tt belÃ©pne vÃ¡rosunkba, kÃ©rjÃ¼k ismerkedjen meg a szabÃ¡lyainkkal!}
+{104}{}{VÃ¡rosunk hatÃ¡rain belÃ¼l tilos a nyÃ­lt fegyverviselÃ©s.}
 {105}{}{Persons found under the influence of alcohol or drugs will be arrested.}
-{106}{}{A rabszolgatartás, a szerencsejáték, és a prostitúció tiltott tevékenységek városunk határain belül.}
-{107}{}{A törvények nem-ismerete nem mentesít azok megszegése alól.}
-{108}{}{Ha nem tud együttélni e szabályokkal - t?njön a fenébe innen!}
-{109}{}{Jobb, ha elteszi a fegyvereit. Nem viccelünk.}
-{110}{}{A jó polgár erénye a törvények szigorú betartása.}
+{106}{}{A rabszolgatartÃ¡s, a szerencsejÃ¡tÃ©k, Ã©s a prostitÃºciÃ³ tiltott tevÃ©kenysÃ©gek vÃ¡rosunk hatÃ¡rain belÃ¼l.}
+{107}{}{A tÃ¶rvÃ©nyek nem-ismerete nem mentesÃ­t azok megszegÃ©se alÃ³l.}
+{108}{}{Ha nem tud egyÃ¼ttÃ©lni e szabÃ¡lyokkal - t?njÃ¶n a fenÃ©be innen!}
+{109}{}{Jobb, ha elteszi a fegyvereit. Nem viccelÃ¼nk.}
+{110}{}{A jÃ³ polgÃ¡r erÃ©nye a tÃ¶rvÃ©nyek szigorÃº betartÃ¡sa.}
 {111}{}{(Back)}
-{112}{}{Elég ebb?l!}
-{113}{}{A kicsapongó szokásaidat ismervén, ez bizony rossz hír.}
-{114}{}{Ez jó dolog, mert emiatt kizárt, hogy lejmoló részegek vagy drogosok fognak utánad koslatni.}
+{112}{}{ElÃ©g ebb?l!}
+{113}{}{A kicsapongÃ³ szokÃ¡saidat ismervÃ©n, ez bizony rossz hÃ­r.}
+{114}{}{Ez jÃ³ dolog, mert emiatt kizÃ¡rt, hogy lejmolÃ³ rÃ©szegek vagy drogosok fognak utÃ¡nad koslatni.}
 {115}{}{(Back)}
-{116}{}{Elég ebb?l!}
-{117}{}{Nos, tekintve a lehetséges kiskapukat, ezek a törvények mindenképpen kedvez?ek a kormányszervezet számára.}
-{118}{}{Vélhet?leg az a céljuk, hogy létrehozzanak egy tisztességes kis közösséget, melyben mindenki nyugodtan élheti a saját életét.}
+{116}{}{ElÃ©g ebb?l!}
+{117}{}{Nos, tekintve a lehetsÃ©ges kiskapukat, ezek a tÃ¶rvÃ©nyek mindenkÃ©ppen kedvez?ek a kormÃ¡nyszervezet szÃ¡mÃ¡ra.}
+{118}{}{VÃ©lhet?leg az a cÃ©ljuk, hogy lÃ©trehozzanak egy tisztessÃ©ges kis kÃ¶zÃ¶ssÃ©get, melyben mindenki nyugodtan Ã©lheti a sajÃ¡t Ã©letÃ©t.}
 {119}{}{(Back)}
-{120}{}{Elég ebb?l!}
-{121}{}{Kemény szavak, elmehetnek a francba a szabályaikkal!}
-{122}{}{A törvény el?tti egyenl?ség remek dolog.}
+{120}{}{ElÃ©g ebb?l!}
+{121}{}{KemÃ©ny szavak, elmehetnek a francba a szabÃ¡lyaikkal!}
+{122}{}{A tÃ¶rvÃ©ny el?tti egyenl?sÃ©g remek dolog.}
 {123}{}{(Back)}
-{124}{}{Elég ebb?l!}
+{124}{}{ElÃ©g ebb?l!}
 {125}{}{Teaching these guys some respect is gaining priority on your list of things to do.}
-{126}{}{Kicsit felszínes, de nagyjából érthet?.}
+{126}{}{Kicsit felszÃ­nes, de nagyjÃ¡bÃ³l Ã©rthet?.}
 {127}{}{(Back)}
-{128}{}{Elég ebb?l!}
+{128}{}{ElÃ©g ebb?l!}
 {130}{}{My head hurt. Too much readie.}

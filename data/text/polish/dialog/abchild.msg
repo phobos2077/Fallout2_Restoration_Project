@@ -1,8 +1,8 @@
-{100}{}{Widzisz ma³e dziecko.}
-{101}{}{Dziecko wygl¹da na szczêœliwe.}
-{200}{}{£iii!}
+{100}{}{Widzisz maÅ‚e dziecko.}
+{101}{}{Dziecko wyglÄ…da na szczÄ™Å›liwe.}
+{200}{}{Åiii!}
 {201}{}{To miejsce jest fajne.}
-{202}{}{Widzia³eœ mojego niewidzialnego przyjaciela?}
-{203}{}{Œmierdzisz!}
+{202}{}{WidziaÅ‚eÅ› mojego niewidzialnego przyjaciela?}
+{203}{}{Åšmierdzisz!}
 {204}{}{Hej!}
 {500}{}{Mamo!}

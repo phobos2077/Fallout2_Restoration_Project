@@ -1,44 +1,44 @@
-{100}{}{Egy ?rt látsz.}
+{100}{}{Egy ?rt lÃ¡tsz.}
 {101}{}{Grant, az ?r.}
-{102}{}{Egy ?rt látsz. A páncélja és a fegyverei jó állapotban vannak.}
-{103}{}{Ez magánterület. Kérem, távozzon!}
-{104}{}{Ki élni itten?}
-{105}{}{Oké, menek elfele...}
-{106}{}{Elnézést, de ki él itt?}
-{107}{}{Rendben, már megyek is.}
-{108}{}{Szándékában áll távozni?}
-{109}{}{Én akarja menni.}
-{110}{}{Nem, én marad.}
-{111}{}{Igen, már megyek is.}
-{112}{}{Nem, még kószálok itt egy kicsit.}
-{113}{}{Ez itt a Westin Farm, Westin tanácsos otthona.}
-{114}{}{Én látogatni kellje.}
-{115}{}{Oké. Üdv!}
-{116}{}{Találkoznom kell a tanácsossal, kérem.}
-{117}{}{Értem. Hát, akkor megyek is...}
+{102}{}{Egy ?rt lÃ¡tsz. A pÃ¡ncÃ©lja Ã©s a fegyverei jÃ³ Ã¡llapotban vannak.}
+{103}{}{Ez magÃ¡nterÃ¼let. KÃ©rem, tÃ¡vozzon!}
+{104}{}{Ki Ã©lni itten?}
+{105}{}{OkÃ©, menek elfele...}
+{106}{}{ElnÃ©zÃ©st, de ki Ã©l itt?}
+{107}{}{Rendben, mÃ¡r megyek is.}
+{108}{}{SzÃ¡ndÃ©kÃ¡ban Ã¡ll tÃ¡vozni?}
+{109}{}{Ã‰n akarja menni.}
+{110}{}{Nem, Ã©n marad.}
+{111}{}{Igen, mÃ¡r megyek is.}
+{112}{}{Nem, mÃ©g kÃ³szÃ¡lok itt egy kicsit.}
+{113}{}{Ez itt a Westin Farm, Westin tanÃ¡csos otthona.}
+{114}{}{Ã‰n lÃ¡togatni kellje.}
+{115}{}{OkÃ©. Ãœdv!}
+{116}{}{TalÃ¡lkoznom kell a tanÃ¡csossal, kÃ©rem.}
+{117}{}{Ã‰rtem. HÃ¡t, akkor megyek is...}
 {118}{}{Mi dolga van Mr. Westinnel?}
 {119}{}{Nekem kelleni munka.}
-{120}{}{Csak akarni beszélgetni.}
-{121}{}{Öö...}
+{120}{}{Csak akarni beszÃ©lgetni.}
+{121}{}{Ã–Ã¶...}
 {122}{}{Senkit.}
-{123}{}{Munkát keresek és azt hallottam, hogy itt lehet jelentkezni.}
-{124}{}{Beszélgetni akarok Mr. Westinnel.}
-{125}{}{Nem fontos, majd kés?bb visszajövök.}
-{126}{}{Hmmm... valami rémlik, hogy van munkalehet?ség. Rendben, jöjjön be! Ne csináljon semmi balhét, mellesleg magán tartom a szemem!}
-{127}{}{Én köszön.}
-{128}{}{Köszi.}
-{129}{}{Mr. Westin nem beszélget csak úgy egy utcáról beesett emberrel. Ha nincs valami különleges dolga vele, akkor javaslom, addig ne jöjjön vissza, amíg nem lesz. Most pedig, kérem, távozzon!}
+{123}{}{MunkÃ¡t keresek Ã©s azt hallottam, hogy itt lehet jelentkezni.}
+{124}{}{BeszÃ©lgetni akarok Mr. Westinnel.}
+{125}{}{Nem fontos, majd kÃ©s?bb visszajÃ¶vÃ¶k.}
+{126}{}{Hmmm... valami rÃ©mlik, hogy van munkalehet?sÃ©g. Rendben, jÃ¶jjÃ¶n be! Ne csinÃ¡ljon semmi balhÃ©t, mellesleg magÃ¡n tartom a szemem!}
+{127}{}{Ã‰n kÃ¶szÃ¶n.}
+{128}{}{KÃ¶szi.}
+{129}{}{Mr. Westin nem beszÃ©lget csak Ãºgy egy utcÃ¡rÃ³l beesett emberrel. Ha nincs valami kÃ¼lÃ¶nleges dolga vele, akkor javaslom, addig ne jÃ¶jjÃ¶n vissza, amÃ­g nem lesz. Most pedig, kÃ©rem, tÃ¡vozzon!}
 {130}{}{[DONE]}
-{131}{}{(sóhajt) Hallottam, hogy Mr. Westinnek gyengéi a magafajták. Jöjjön be!}
-{132}{}{Én köszön.}
-{133}{}{Jaja. Benne vagyok valaminek a közepében.}
-{134}{}{Hé, t?njön onnan!}
-{135}{}{Kérdeznie kellene, miel?tt olyan dolgokhoz nyúl, ami nem a magáé!}
-{136}{}{Helló! Megint találkoznia kell Mr. Westinnel?}
+{131}{}{(sÃ³hajt) Hallottam, hogy Mr. Westinnek gyengÃ©i a magafajtÃ¡k. JÃ¶jjÃ¶n be!}
+{132}{}{Ã‰n kÃ¶szÃ¶n.}
+{133}{}{Jaja. Benne vagyok valaminek a kÃ¶zepÃ©ben.}
+{134}{}{HÃ©, t?njÃ¶n onnan!}
+{135}{}{KÃ©rdeznie kellene, miel?tt olyan dolgokhoz nyÃºl, ami nem a magÃ¡Ã©!}
+{136}{}{HellÃ³! Megint talÃ¡lkoznia kell Mr. Westinnel?}
 {137}{}{Igen.}
 {138}{}{Nem.}
-{139}{}{Lenni dolgok Mr. Westin részire Menedékvárosbó'.}
-{140}{}{Hoztam valamit Menedékvárosból Mr. Westin számára.}
-{141}{}{Rendben, jöjjön be! Ne csináljon semmi balhét, mellesleg magán tartom a szemem.}
+{139}{}{Lenni dolgok Mr. Westin rÃ©szire MenedÃ©kvÃ¡rosbÃ³'.}
+{140}{}{Hoztam valamit MenedÃ©kvÃ¡rosbÃ³l Mr. Westin szÃ¡mÃ¡ra.}
+{141}{}{Rendben, jÃ¶jjÃ¶n be! Ne csinÃ¡ljon semmi balhÃ©t, mellesleg magÃ¡n tartom a szemem.}
 {142}{}{You're not allowed on to the ranch without official business.}
 {150}{}{I'm sorry, there's been an incident and no one is allowed on the property. Move along.}

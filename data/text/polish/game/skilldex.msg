@@ -1,9 +1,9 @@
-{100}{}{Umiejêtn.}
+{100}{}{UmiejÄ™tn.}
 {101}{}{Anuluj}
 {102}{}{Skradaj}
-{103}{}{Otwórz}
+{103}{}{OtwÃ³rz}
 {104}{}{Kradnij}
-{105}{}{Pu³apki}
+{105}{}{PuÅ‚apki}
 {106}{}{P.Pomoc}
 {107}{}{Lecz}
 {108}{}{Nauka}

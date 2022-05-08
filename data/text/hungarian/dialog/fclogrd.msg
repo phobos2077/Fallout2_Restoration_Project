@@ -1,18 +1,18 @@
-{100}{}{Egy lazaöltözék? ?r. Unatkozik ugyan, de a figyelme nem lanyhul.}
+{100}{}{Egy lazaÃ¶ltÃ¶zÃ©k? ?r. Unatkozik ugyan, de a figyelme nem lanyhul.}
 {101}{}{Palota?r.}
 {102}{}{Palota?r.}
-{103}{}{Menjen tovább! Úgy nem lesz semmi gond.}
+{103}{}{Menjen tovÃ¡bb! Ãšgy nem lesz semmi gond.}
 {104}{}{Van itt valami dolga?}
-{105}{}{Szemmel tartjuk magát!}
-{106}{}{Ne próbálkozzon semmi vicces dologgal!}
-{107}{}{Mutasson tiszteletet a népünk iránt!}
-{108}{}{Ne érjen hozzá még egyszer! Nem figyelmeztetem többet!}
+{105}{}{Szemmel tartjuk magÃ¡t!}
+{106}{}{Ne prÃ³bÃ¡lkozzon semmi vicces dologgal!}
+{107}{}{Mutasson tiszteletet a nÃ©pÃ¼nk irÃ¡nt!}
+{108}{}{Ne Ã©rjen hozzÃ¡ mÃ©g egyszer! Nem figyelmeztetem tÃ¶bbet!}
 {109}{}{Menjen onnan!}
-{110}{}{Lépjen hátra, lao wai, különben annyi ólmot eresztek magába, hogy zörögni fog járás közben!}
-{111}{}{Lassan lépjen el onnan! Ha a fegyveréért nyúl, meghal!}
-{112}{}{Meg ne forduljon a fejében!}
+{110}{}{LÃ©pjen hÃ¡tra, lao wai, kÃ¼lÃ¶nben annyi Ã³lmot eresztek magÃ¡ba, hogy zÃ¶rÃ¶gni fog jÃ¡rÃ¡s kÃ¶zben!}
+{111}{}{Lassan lÃ©pjen el onnan! Ha a fegyverÃ©Ã©rt nyÃºl, meghal!}
+{112}{}{Meg ne forduljon a fejÃ©ben!}
 {113}{}{Abbahagyni! Most azonnal!}
-{114}{}{Meghalsz, népünk ellensége!}
-{115}{}{Most szépen elküldelek az izzó fémpokolba!}
-{116}{}{Buddha könyörüljön a lelkednek!}
-{117}{}{Szenvedj, népünk ellensége!}
+{114}{}{Meghalsz, nÃ©pÃ¼nk ellensÃ©ge!}
+{115}{}{Most szÃ©pen elkÃ¼ldelek az izzÃ³ fÃ©mpokolba!}
+{116}{}{Buddha kÃ¶nyÃ¶rÃ¼ljÃ¶n a lelkednek!}
+{117}{}{Szenvedj, nÃ©pÃ¼nk ellensÃ©ge!}

@@ -1,38 +1,38 @@
 {100}{}{Tu vois un terminal d'ordinateur actif.}
-{101}{}{En regardant de plus près, tu remarques un petit autocollant portant la mention "I*tel inside".}
-{102}{}{Tu n'arrives pas à lire ce qu'il y a à l'écran.}
-{103}{}{Alimentation principale = Hors ligne                                             Alimentation de secours = En ligne                                             Réinitialisation du programme de sécurité                                      Attention - Alimentation faible - Champs de force à 50 %                      Fin du chargement...                                                  Poste de vérification de sécurité Skynet 1                               Entrez le mot de passe :_}
-{104}{}{Poste de vérification de sécurité Skynet 1                             Entrez le mot de passe :_}
+{101}{}{En regardant de plus prÃ¨s, tu remarques un petit autocollant portant la mention "I*tel inside".}
+{102}{}{Tu n'arrives pas Ã  lire ce qu'il y a Ã  l'Ã©cran.}
+{103}{}{Alimentation principale = Hors ligne                                             Alimentation de secours = En ligne                                             RÃ©initialisation du programme de sÃ©curitÃ©                                      Attention - Alimentation faible - Champs de force Ã  50 %                      Fin du chargement...                                                  Poste de vÃ©rification de sÃ©curitÃ© Skynet 1                               Entrez le mot de passe :_}
+{104}{}{Poste de vÃ©rification de sÃ©curitÃ© Skynet 1                             Entrez le mot de passe :_}
 {105}{}{Tchaikovsky}
 {106}{}{Open Says Me}
 {107}{}{Sierra}
 {108}{}{Armageddon}
-{109}{}{[Pirater les systèmes de sécurité]}
-{110}{}{[Tu n'as pas l'ombre d'une idée. Quitter]}
-{113}{}{Champs de force désactivés - Niveau 1}
+{109}{}{[Pirater les systÃ¨mes de sÃ©curitÃ©]}
+{110}{}{[Tu n'as pas l'ombre d'une idÃ©e. Quitter]}
+{113}{}{Champs de force dÃ©sactivÃ©s - Niveau 1}
 {115}{}{[Quitter]}
-{117}{}{L'accès à ce terminal a été terminé.}
+{117}{}{L'accÃ¨s Ã  ce terminal a Ã©tÃ© terminÃ©.}
 {119}{}{[Quitter]}
-{121}{}{Erreur 29                                                            Impossible de contacter le serveur                                     Veuillez redémarrer}
+{121}{}{Erreur 29                                                            Impossible de contacter le serveur                                     Veuillez redÃ©marrer}
 {123}{}{[Quitter]}
-{124}{}{Accès accordé                                                 Champs de force Niveau 1 : Désactivés}
+{124}{}{AccÃ¨s accordÃ©                                                 Champs de force Niveau 1 : DÃ©sactivÃ©s}
 {125}{}{[Quitter]}
-{126}{}{Mot de passe incorrect                                                      Accès refusé                                                      Entrez le mot de passe :_}
+{126}{}{Mot de passe incorrect                                                      AccÃ¨s refusÃ©                                                      Entrez le mot de passe :_}
 {127}{}{Tchaikovsky}
 {128}{}{Open Says Me}
 {129}{}{Sierra}
 {130}{}{Armageddon}
-{131}{}{[Pirater les systèmes de sécurité]}
-{132}{}{[Tu n'as pas l'ombre d'une idée. Quitter]}
-{133}{}{[La combinaison <Ctrl><Alt><C> plante le programme. Tu espères pouvoir contourner les autres mesures de sécurité aussi facilement.]}
+{131}{}{[Pirater les systÃ¨mes de sÃ©curitÃ©]}
+{132}{}{[Tu n'as pas l'ombre d'une idÃ©e. Quitter]}
+{133}{}{[La combinaison <Ctrl><Alt><C> plante le programme. Tu espÃ¨res pouvoir contourner les autres mesures de sÃ©curitÃ© aussi facilement.]}
 {134}{}{[Quitter]}
-{135}{}{Violation de sécurité Niveau 1                                   Activation du protocole de sécurité                                   L'accès utilisateur à ce terminal est terminé                      Fin de transmission}
+{135}{}{Violation de sÃ©curitÃ© Niveau 1                                   Activation du protocole de sÃ©curitÃ©                                   L'accÃ¨s utilisateur Ã  ce terminal est terminÃ©                      Fin de transmission}
 {136}{}{[Quitter]}
-{137}{}{Ton incompétence a déclenché le système d'alarme.}
-{138}{}{Laisse tomber, ce programme est trop compliqué pour toi.}
+{137}{}{Ton incompÃ©tence a dÃ©clenchÃ© le systÃ¨me d'alarme.}
+{138}{}{Laisse tomber, ce programme est trop compliquÃ© pour toi.}
 {139}{}{[Quitter]}
-{200}{}{ n'arrive pas à lire ce qu'il y a à l'écran.}
-{300}{}{L'ordinateur semble disposer d'un mécanisme de sécurité.}
+{200}{}{ n'arrive pas Ã  lire ce qu'il y a Ã  l'Ã©cran.}
+{300}{}{L'ordinateur semble disposer d'un mÃ©canisme de sÃ©curitÃ©.}
 {301}{}{Tu subis un choc pour }
 {302}{}{ subit un choc pour }
-{303}{}{ points de dégâts.}
+{303}{}{ points de dÃ©gÃ¢ts.}

@@ -69,14 +69,14 @@
 {163}{}{Hey! You're the one who defeated the Enclave!}
 {164}{}{Look, it's the one who defeated the Enclave!}
 {165}{}{Welcome to Vault City.}
-{166}{}{Sua batalha contra a Enclave impressionou atÈ mesmo a Primeira Cidad„.}
+{166}{}{Sua batalha contra a Enclave impressionou at√© mesmo a Primeira Cidad√£.}
 {167}{}{I heard you've traveled as far south as San Francisco. Is that true?}
 {168}{}{Is it true that the U.S. was still fighting the war?}
 {169}{}{You should catalog your travels in the Vault City computer.}
 {170}{}{You're welcome to stay in Vault City as long as you want.}
 {171}{}{You should catalog your exploits against the Enclave and put it up on the List Server.}
 {172}{}{Captain.}
-{173}{}{Vault City prevails, Capit„o.}
+{173}{}{Vault City prevails, Capit√£o.}
 {174}{}{Hello, Captain.}
 {175}{}{Vault City prevails, Citizen.}
 {176}{}{Citizen.}

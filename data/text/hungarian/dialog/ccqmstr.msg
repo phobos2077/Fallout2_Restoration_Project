@@ -1,34 +1,34 @@
-{100}{}{A raktáros er?páncélban.}
-{101}{}{Raktáros.}
-{102}{}{Ez az ember az er?páncél egy különös változatát viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
-{103}{}{Kik ezek a fickók?... Riadó! Behatolók!}
-{104}{}{Mi a... Áh, értem miért vagy te itt. Ki akarod selejtezni azt az antik szart, ami rajtad van.}
-{105}{}{Miért nincs magán egyenruha, katona?}
-{106}{}{Halál rád!}
-{107}{}{Öööh, igen...}
-{108}{}{Öö...}
-{109}{}{Mi lenni új itten.}
+{100}{}{A raktÃ¡ros er?pÃ¡ncÃ©lban.}
+{101}{}{RaktÃ¡ros.}
+{102}{}{Ez az ember az er?pÃ¡ncÃ©l egy kÃ¼lÃ¶nÃ¶s vÃ¡ltozatÃ¡t viseli. A mellkasÃ¡n van egy jel, amit nem tudsz hova tenni.}
+{103}{}{Kik ezek a fickÃ³k?... RiadÃ³! BehatolÃ³k!}
+{104}{}{Mi a... Ãh, Ã©rtem miÃ©rt vagy te itt. Ki akarod selejtezni azt az antik szart, ami rajtad van.}
+{105}{}{MiÃ©rt nincs magÃ¡n egyenruha, katona?}
+{106}{}{HalÃ¡l rÃ¡d!}
+{107}{}{Ã–Ã¶Ã¶h, igen...}
+{108}{}{Ã–Ã¶...}
+{109}{}{Mi lenni Ãºj itten.}
 {110}{}{Mi nem lenni tied katona!}
-{111}{}{Nos, hát...}
-{112}{}{Új vagyok még itt.}
+{111}{}{Nos, hÃ¡t...}
+{112}{}{Ãšj vagyok mÃ©g itt.}
 {113}{}{Nem vagyok a beosztottja!}
-{114}{}{Mivan? Nem tud valami jó kifogást találni? Várom a választ!}
-{115}{}{Még nem lenni egyenruha.}
-{116}{}{Még nincs egyenruhám.}
-{117}{}{Kicsit lassú a felfogásod, nemde? (sóhajt) Nem a te hibád. Van egy hozzád hasonló öcsém. Naszóval, új vagy itt? Nem emlékszem, hogy láttalak volna eddig...}
-{118}{}{Új vagy itt? Nem láttalak még korábban...}
-{119}{}{Igen, lenni új!}
+{114}{}{Mivan? Nem tud valami jÃ³ kifogÃ¡st talÃ¡lni? VÃ¡rom a vÃ¡laszt!}
+{115}{}{MÃ©g nem lenni egyenruha.}
+{116}{}{MÃ©g nincs egyenruhÃ¡m.}
+{117}{}{Kicsit lassÃº a felfogÃ¡sod, nemde? (sÃ³hajt) Nem a te hibÃ¡d. Van egy hozzÃ¡d hasonlÃ³ Ã¶csÃ©m. NaszÃ³val, Ãºj vagy itt? Nem emlÃ©kszem, hogy lÃ¡ttalak volna eddig...}
+{118}{}{Ãšj vagy itt? Nem lÃ¡ttalak mÃ©g korÃ¡bban...}
+{119}{}{Igen, lenni Ãºj!}
 {120}{}{Igen.}
-{121}{}{Na, akkor vedd megadhoz a páncélodat meg a fegyveredet, és jelentkezz az ?rmesternél!}
-{122}{}{Köszönöm!}
-{123}{}{Szívesen, és most indulás! Dolgom van, és nem akarom, hogy zavarjanak!}
-{124}{}{Most elfoglalt vagyok. Gyere vissza kés?bb!}
-{125}{}{Helló, újonc! Az imént hívott az ?rmester. Azt mondta, adjam át a felszerelését és küldjem vissza. Így van?}
+{121}{}{Na, akkor vedd megadhoz a pÃ¡ncÃ©lodat meg a fegyveredet, Ã©s jelentkezz az ?rmesternÃ©l!}
+{122}{}{KÃ¶szÃ¶nÃ¶m!}
+{123}{}{SzÃ­vesen, Ã©s most indulÃ¡s! Dolgom van, Ã©s nem akarom, hogy zavarjanak!}
+{124}{}{Most elfoglalt vagyok. Gyere vissza kÃ©s?bb!}
+{125}{}{HellÃ³, Ãºjonc! Az imÃ©nt hÃ­vott az ?rmester. Azt mondta, adjam Ã¡t a felszerelÃ©sÃ©t Ã©s kÃ¼ldjem vissza. Ãgy van?}
 {126}{}{Igen.}
-{127}{}{Riadó van, és nem ismerem fel. Mutassa a papírjait, katona!}
-{128}{}{Nem lenni velünk papírok!}
-{129}{}{Nem kelleni nekünk papírok!}
-{130}{}{Nincsenek nálam. A körletemben tartom ?ket.}
-{131}{}{Papírok? Ja, persze a papírok! Itt vannak, ni...}
-{132}{}{Rossz válasz! A katonáknak mindig maguknál kell hordaniuk ?ket! Ezt tudnod kellett volna!}
+{127}{}{RiadÃ³ van, Ã©s nem ismerem fel. Mutassa a papÃ­rjait, katona!}
+{128}{}{Nem lenni velÃ¼nk papÃ­rok!}
+{129}{}{Nem kelleni nekÃ¼nk papÃ­rok!}
+{130}{}{Nincsenek nÃ¡lam. A kÃ¶rletemben tartom ?ket.}
+{131}{}{PapÃ­rok? Ja, persze a papÃ­rok! Itt vannak, ni...}
+{132}{}{Rossz vÃ¡lasz! A katonÃ¡knak mindig maguknÃ¡l kell hordaniuk ?ket! Ezt tudnod kellett volna!}
 {133}{}{Ajjaj!}

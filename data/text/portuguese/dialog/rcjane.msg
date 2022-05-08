@@ -5,7 +5,7 @@
 {104}{}{Oooh. Furry.}
 {105}{}{Pretty fur.}
 {106}{}{Ah, I see. You must be new in town. Well, I tell you what. I'll make a special bet for you during tomorrow's fights. Would you like me to do that for you?}
-{107}{}{(Você concorda) Ook, ook. (e segure sua bolsa)}
+{107}{}{(VocÃª concorda) Ook, ook. (e segure sua bolsa)}
 {108}{}{Mook? Gaga. Bye furry.}
 {109}{}{Good idea. You come back here tomorrow and if your critter won in the fights, I'll give you your money. Okay?}
 {110}{}{OK, good move. I'll make sure you get a real special bet with that. See you later.}
@@ -72,7 +72,7 @@
 {171}{}{Uh, I'm in. I guess.}
 {172}{}{Big lizards scare me. I better stay out of this. Thanks for the warning. Goodbye. (you think to yourself) *Phew, that was close.*}
 {173}{}{The sportin' part is the bet on the outcome of the fight. Here's how it works. You come up to me and say you want to place a bet. I tell you which two critters are fightin' next and you tell me which one you're putting your money on.}
-{174}{}{Então o que ?}
+{174}{}{EntÃ£o o que ?}
 {175}{}{Simple, if your critter wins you double your money. TRIPLE in the event of a first-round takedown! If your critter loses, then your money belongs to me. There are usually several fights each day. Until the stock of critters runs low, you can bet on all of 'em. But just one bet per fight. Oh, yeah, just to keep things nice an' easy, all bets are $100.}
 {176}{}{OK. I get it. Let me try it.}
 {177}{}{I see. Hmm, I think I'll try this another time. Goodbye.}
@@ -111,7 +111,7 @@
 {210}{}{What a gore-fest! I can't remember ever seeing a fight like that. The winner is }
 {211}{}{. Let me pay everyone off and we'll start the next round.}
 {212}{}{ wins this round hands, err, claws down! Let me pay everyone off and we'll start the next round.}
-{213}{}{E o ganhador é...}
+{213}{}{E o ganhador Ã©...}
 {214}{}{ by a blood-soaked claw. Let me pay everyone off and we'll start the next round.}
 {215}{}{I just wanted to say that Ascorti's is going to be running a special on, uh, *steaks* tonight. It'll be just a moment while we drag the loser from the field. }
 {216}{}{ wins this fight! Let me pay everyone off and we'll start the next round.}

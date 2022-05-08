@@ -6,8 +6,8 @@
 {105}{}{Welcome, Chosen One! Please, take a seat in the bar.}
 {106}{}{Please! Take a seat, rest for a while!}
 {107}{}{It's the Chosen One! Everybody give it up for the HERO of Fallout 2!}
-{108}{}{Bom dia, Capitão.}
-{109}{}{Vault City prevails, Capitão.}
+{108}{}{Bom dia, CapitÃ£o.}
+{109}{}{Vault City prevails, CapitÃ£o.}
 {110}{}{Bom dia, Citizen.}
 {111}{}{Vault City prevails, Citizen.}
 {112}{}{Um mutante! Guardas! Guardas!}
@@ -18,7 +18,7 @@
 {117}{}{Hey there, Chosen One! We were just talking about your adventure... can I get you anything to drink?}
 {118}{}{Dwinkie-winkie me make stinkie}
 {119}{}{Desliga}
-{120}{}{O que você tem aí?}
+{120}{}{O que vocÃª tem aÃ­?}
 {121}{}{I was looking for some information.}
 {122}{}{I have that shipment of alcohol you wanted.}
 {123}{}{Nada por hoje, valeu.}
@@ -31,12 +31,12 @@
 {130}{}{Look, take these and get out of here, okay? They ought to keep your mouth busy for a while.}
 {131}{}{Thankie wankie my stankie}
 {132}{}{Desliga}
-{133}{}{Uh... o que posso fazer por você, capitão?}
+{133}{}{Uh... o que posso fazer por vocÃª, capitÃ£o?}
 {134}{}{What can I do for you, Citizen?}
 {135}{}{Yes? Can I help you?}
 {136}{}{You? Yoo? Yew? Yewwwww. E-yewwww is sound otherz make when see me}
 {137}{}{Desliga}
-{138}{}{O que você tem aí?}
+{138}{}{O que vocÃª tem aÃ­?}
 {139}{}{I was looking for some information.}
 {140}{}{I have that shipment of alcohol you wanted.}
 {141}{}{Nada por hoje, valeu.}
@@ -58,8 +58,8 @@
 {157}{}{That's fine. I don't mind waiting. I just feel like having a refreshing glass of milk. Mmmmm-mmm. That would really hit the spot.}
 {158}{}{I think I'll try something else then.}
 {159}{}{Never mind then. Say, I was looking for some information...}
-{160}{}{Esqueça. Eu volto outra hora.}
-{161}{}{Não que você vá. Mais alguma coisa?}
+{160}{}{EsqueÃ§a. Eu volto outra hora.}
+{161}{}{NÃ£o que vocÃª vÃ¡. Mais alguma coisa?}
 {162}{}{Uh, do you have any real alcohol?}
 {163}{}{I could go for some synthetic beer.}
 {164}{}{Some synthetic vodka would really hit the spot.}
@@ -76,7 +76,7 @@
 {175}{}{Does Vault City have much contact with the outside world?}
 {176}{}{What have you got on tap?}
 {177}{}{I have that shipment of alcohol you wanted.}
-{178}{}{Tudo bem então. Bom Dia.}
+{178}{}{Tudo bem entÃ£o. Bom Dia.}
 {179}{}{Uh, First Citizen Lynette... you are a Citizen, aren't you?}
 {180}{}{First Citizen Lynette. She's in the council building up north if you need to talk to her.}
 {181}{}{I wanted to know something else...}
@@ -99,35 +99,35 @@
 {198}{}{Me fale sobre Redding.}
 {199}{}{Tell me about Gecko.}
 {200}{}{I wanted to know something else...}
-{201}{}{Obrigado pela informação.}
+{201}{}{Obrigado pela informaÃ§Ã£o.}
 {202}{}{It's a mining community like Redding, except it's located to the far South. We get many of our uranium shipments from there.}
 {203}{}{Tell me about New Reno.}
 {204}{}{Me fale sobre Redding.}
 {205}{}{Tell me about Gecko.}
 {206}{}{I wanted to know something else...}
-{207}{}{Obrigado pela informação.}
+{207}{}{Obrigado pela informaÃ§Ã£o.}
 {208}{}{It's a ways to the southwest. I hear conflicting reports about Reno. Some merchants, especially the slavers, really love it there. Other merchants... don't. City with a lot of glitter... and a lot of trouble, I hear.}
 {209}{}{Me fale sobre Broken Hills.}
 {210}{}{Me fale sobre Redding.}
 {211}{}{Tell me about Gecko.}
 {212}{}{I wanted to know something else...}
-{213}{}{Obrigado pela informação.}
+{213}{}{Obrigado pela informaÃ§Ã£o.}
 {214}{}{It's a mining town far to the west. We haven't seen too many caravans from them recently, and it's got some of the high-ups a little worried. Senior Councilman McClure especially.}
 {215}{}{Me fale sobre Broken Hills.}
 {216}{}{Tell me about New Reno.}
 {217}{}{Tell me about Gecko.}
 {218}{}{I wanted to know something else...}
-{219}{}{Obrigado pela informação.}
+{219}{}{Obrigado pela informaÃ§Ã£o.}
 {220}{}{A town of ghouls less than a day's travel to the northeast, as I understand it. Rumor is they prey on any travelers that enter their territory. Best stay away.}
 {221}{}{Me fale sobre Broken Hills.}
 {222}{}{Tell me about New Reno.}
 {223}{}{Me fale sobre Redding.}
 {224}{}{I wanted to know something else...}
-{225}{}{Obrigado pela informação.}
+{225}{}{Obrigado pela informaÃ§Ã£o.}
 {226}{}{Why? You looking for something with some more kick than these synthetic drinks?}
 {227}{}{Perhaps. Drinking synthetic alcohol can't really compare to the real thing.}
 {228}{}{Not really. I was looking for some information instead...}
-{229}{}{Hoje não.}
+{229}{}{Hoje nÃ£o.}
 {230}{}{That's for sure. I used to have a... well, I used to know this merchant who had a bottle of Maddog 30/30. Bitter stuff... couldn't feel my tongue afterwards, but it was refreshingly different.}
 {231}{}{What happened to this "merchant's" stash?}
 {232}{}{I was looking for some information.}

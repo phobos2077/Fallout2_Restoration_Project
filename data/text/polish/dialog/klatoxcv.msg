@@ -1,1 +1,1 @@
-{100}{}{Jesteú w toksycznych jaskiniach.}
+{100}{}{Jeste≈õ w toksycznych jaskiniach.}

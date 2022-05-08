@@ -1,1 +1,1 @@
-{100}{}{Ce laboratoire semble être sacrément bien insonorisé.}
+{100}{}{Ce laboratoire semble Ãªtre sacrÃ©ment bien insonorisÃ©.}

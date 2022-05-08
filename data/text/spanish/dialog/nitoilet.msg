@@ -1,3 +1,3 @@
 {100}{}{Eh... es un lavabo.}
 {101}{}{Vaya, alguien ha escondido algunas granadas dentro de la cisterna.}
-{102}{}{Nada más aquí... bueno, nada que merezca la pena llevarse.}
+{102}{}{Nada mÃ¡s aquÃ­... bueno, nada que merezca la pena llevarse.}

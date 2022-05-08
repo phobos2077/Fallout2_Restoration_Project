@@ -1,10 +1,10 @@
 {100}{}{Ves un personaje de trucos.}
-{101}{}{Este tipo no debería estar aquí.}
+{101}{}{Este tipo no deberÃ­a estar aquÃ­.}
 {102}{}{Oye, es un personaje de trucos.}
 {103}{}{Oye, eso duele.}
-{104}{}{Hola, ¿qué te gustaría que sucediera?}
+{104}{}{Hola, Â¿quÃ© te gustarÃ­a que sucediera?}
 {105}{}{Activa los indicadores de Westin.}
-{106}{}{¿Activa Aceptar Asesinato de Westin?}
+{106}{}{Â¿Activa Aceptar Asesinato de Westin?}
 {107}{}{Desactiva Aceptar Asesinato de Westin.}
 {108}{}{Activa Westin Muerto.}
 {109}{}{Desactiva Westin Muerto.}

@@ -1,1 +1,1 @@
-{100}{}{Has logrado entrar en el almacén oculto de armas de Liz.}
+{100}{}{Has logrado entrar en el almacÃ©n oculto de armas de Liz.}

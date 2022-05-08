@@ -1,15 +1,15 @@
-{100}{}{Du siehst einen Schläger.}
-{150}{}{Der Schlägertyp sieht ziemlich rücksichtslos aus.}
+{100}{}{Du siehst einen SchlÃ¤ger.}
+{150}{}{Der SchlÃ¤gertyp sieht ziemlich rÃ¼cksichtslos aus.}
 {151}{}{Geh mir aus dem Weg.}
-{152}{}{Suchste Ärger?}
+{152}{}{Suchste Ã„rger?}
 {153}{}{Geh einfach weiter.}
 {154}{}{Kein Interesse.}
 {155}{}{Hau ab.}
 {200}{}{Hey, Niete.}
-{201}{}{Willste Ärger?}
+{201}{}{Willste Ã„rger?}
 {202}{}{Komm her, Waschlappen.}
-{203}{}{Zwing mich nicht, rüberzukommen und dir den Arsch zu versohlen.}
+{203}{}{Zwing mich nicht, rÃ¼berzukommen und dir den Arsch zu versohlen.}
 {204}{}{Redest du mit mir?}
 {205}{}{Willst Du noch mehr davon?}
 {206}{}{Hey, Baby, komm her.}
-{207}{}{Und, gefällt dir, was du siehst?}
+{207}{}{Und, gefÃ¤llt dir, was du siehst?}

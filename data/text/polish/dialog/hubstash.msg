@@ -1,1 +1,1 @@
-{100}{}{Wkraczasz na obszar pe≥en martwych roúlin. Duøy, dobrze strzeøony bunkier stoi przed tobπ.}
+{100}{}{Wkraczasz na obszar pe≈Çen martwych ro≈õlin. Du≈ºy, dobrze strze≈ºony bunkier stoi przed tobƒÖ.}

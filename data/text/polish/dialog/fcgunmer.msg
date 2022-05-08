@@ -1,52 +1,52 @@
 {100}{}{Widzisz rozpromienionego Shi.}
-{101}{}{Widzisz Mai Da Chianga, w³aœciciela Red 888 Guns.}
-{102}{}{To zaokr¹glony Shi, który wygl¹da, jakby ca³y czas dzia³a³ na wysokich obrotach.}
-{103}{}{Witam! Witam w Red 888 Guns! Jestem Mai Da Chiang, w³aœciciel. Czym mogê ci s³u¿yæ?}
+{101}{}{Widzisz Mai Da Chianga, wÅ‚aÅ›ciciela Red 888 Guns.}
+{102}{}{To zaokrÄ…glony Shi, ktÃ³ry wyglÄ…da, jakby caÅ‚y czas dziaÅ‚aÅ‚ na wysokich obrotach.}
+{103}{}{Witam! Witam w Red 888 Guns! Jestem Mai Da Chiang, wÅ‚aÅ›ciciel. Czym mogÄ™ ci sÅ‚uÅ¼yÄ‡?}
 {104}{}{Grokken di ma!}
-{105}{}{Moja kupiæ!}
+{105}{}{Moja kupiÄ‡!}
 {106}{}{Interesuje mnie pewne uzbrojenie.}
 {107}{}{Opowiedz mi o tym miejscu.}
 {108}{}{Zapomnij o tym.}
-{109}{}{Przykro mi! Nie mówiê w twoim jêzyku! Mi³ego dnia ¿yczê!}
+{109}{}{Przykro mi! Nie mÃ³wiÄ™ w twoim jÄ™zyku! MiÅ‚ego dnia Å¼yczÄ™!}
 {110}{}{Rrr?}
-{111}{}{Ach, broñ, co? Có¿, oto, co posiadam.}
+{111}{}{Ach, broÅ„, co? CÃ³Å¼, oto, co posiadam.}
 {112}{}{[dalej]}
-{113}{}{Wspaniale, wspaniale. Dziêkujê za zakupy. Proszê nied³ugo wróciæ!}
-{114}{}{Wiêcej pytañ!}
+{113}{}{Wspaniale, wspaniale. DziÄ™kujÄ™ za zakupy. ProszÄ™ niedÅ‚ugo wrÃ³ciÄ‡!}
+{114}{}{WiÄ™cej pytaÅ„!}
 {115}{}{Na razie!}
-{116}{}{Nie. To nie wystarczy. Przykro mi. Mo¿e coœ innego?}
-{117}{}{Wiêcej pytañ.}
+{116}{}{Nie. To nie wystarczy. Przykro mi. MoÅ¼e coÅ› innego?}
+{117}{}{WiÄ™cej pytaÅ„.}
 {118}{}{Nie. Na razie.}
-{119}{}{Potrzebujesz czegoœ jeszcze?}
-{120}{}{Moja kupiæ!}
-{121}{}{Nie. Czeœæ.}
+{119}{}{Potrzebujesz czegoÅ› jeszcze?}
+{120}{}{Moja kupiÄ‡!}
+{121}{}{Nie. CzeÅ›Ä‡.}
 {122}{}{Interesuje mnie pewne uzbrojenie.}
 {123}{}{Opowiedz mi o tym miejscu.}
 {124}{}{Zapomnij o tym.}
-{125}{}{¯yjemy tu ju¿ od wielu lat, ale nie zawsze tak by³o. Dr Fung zna ca³¹ historiê. Za³o¿ê siê, ¿e chodzi ci raczej o to, co robimy obecnie.}
+{125}{}{Å»yjemy tu juÅ¼ od wielu lat, ale nie zawsze tak byÅ‚o. Dr Fung zna caÅ‚Ä… historiÄ™. ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e chodzi ci raczej o to, co robimy obecnie.}
 {126}{}{Ta.}
-{127}{}{Nie, tak naprawdê, to chcê poznaæ historiê. Pójdê poszukaæ Funga. Na razie.}
-{128}{}{Teraz jesteœmy g³ównie rybakami i naukowcami. Nasi rybacy ³owi¹ ryby. Nasi naukowcy pracuj¹ nad projektem, który, jak mówi¹, zmieni œwiat.}
-{129}{}{Jak zmieni œwiat?}
-{130}{}{Co jeszcze dzieje siê w mieœcie?}
-{131}{}{Hmm. Ciekawe. Mam te¿ inne pytania.}
-{132}{}{Dziêki. Na razie.}
-{133}{}{Nie wiem. Zachowuj¹ swoje tajemnice dla siebie.}
-{134}{}{Rozumiem. Co jeszcze dzieje siê w mieœcie?}
+{127}{}{Nie, tak naprawdÄ™, to chcÄ™ poznaÄ‡ historiÄ™. PÃ³jdÄ™ poszukaÄ‡ Funga. Na razie.}
+{128}{}{Teraz jesteÅ›my gÅ‚Ã³wnie rybakami i naukowcami. Nasi rybacy Å‚owiÄ… ryby. Nasi naukowcy pracujÄ… nad projektem, ktÃ³ry, jak mÃ³wiÄ…, zmieni Å›wiat.}
+{129}{}{Jak zmieni Å›wiat?}
+{130}{}{Co jeszcze dzieje siÄ™ w mieÅ›cie?}
+{131}{}{Hmm. Ciekawe. Mam teÅ¼ inne pytania.}
+{132}{}{DziÄ™ki. Na razie.}
+{133}{}{Nie wiem. ZachowujÄ… swoje tajemnice dla siebie.}
+{134}{}{Rozumiem. Co jeszcze dzieje siÄ™ w mieÅ›cie?}
 {135}{}{Rozumiem. Mam inne pytania.}
-{136}{}{Dziêki. Na razie.}
-{137}{}{Mamy dwóch przeciwników w sztukach walki. Jest Lo Pan, który kocha siebie, i Smok, który kocha innych. Powiedziane jest, ¿e ten, kto wygra, zdecyduje o przysz³oœci sztuk walki.}
-{138}{}{Rozumiem. Czy coœ jeszcze dzieje siê w mieœcie?}
+{136}{}{DziÄ™ki. Na razie.}
+{137}{}{Mamy dwÃ³ch przeciwnikÃ³w w sztukach walki. Jest Lo Pan, ktÃ³ry kocha siebie, i Smok, ktÃ³ry kocha innych. Powiedziane jest, Å¼e ten, kto wygra, zdecyduje o przyszÅ‚oÅ›ci sztuk walki.}
+{138}{}{Rozumiem. Czy coÅ› jeszcze dzieje siÄ™ w mieÅ›cie?}
 {139}{}{Rozumiem. Mam inne pytania.}
-{140}{}{Dziêkujê.}
-{141}{}{Jest te¿ gang wyrzutków, którzy wprowadzili siê do Tankowca Posejdona na przystani. W œrodku by³y potwory, ale wyrzutkowie odciêli je na dolnym pok³adzie. Pomimo tego, ¿e s¹ obcy, jesteœmy im wdziêczni za ten czyn.}
-{142}{}{Jakieœ inne wieœci?}
+{140}{}{DziÄ™kujÄ™.}
+{141}{}{Jest teÅ¼ gang wyrzutkÃ³w, ktÃ³rzy wprowadzili siÄ™ do Tankowca Posejdona na przystani. W Å›rodku byÅ‚y potwory, ale wyrzutkowie odciÄ™li je na dolnym pokÅ‚adzie. Pomimo tego, Å¼e sÄ… obcy, jesteÅ›my im wdziÄ™czni za ten czyn.}
+{142}{}{JakieÅ› inne wieÅ›ci?}
 {143}{}{Rozumiem. Mam inne pytania.}
-{144}{}{Dziêki. Na razie.}
-{145}{}{Naukowcy donosz¹, ¿e ktoœ przedar³ siê przez nasze zabezpieczenia komputerowego i wykrad³ nasze tajemnice.}
-{146}{}{Jakieœ inne wieœci?}
+{144}{}{DziÄ™ki. Na razie.}
+{145}{}{Naukowcy donoszÄ…, Å¼e ktoÅ› przedarÅ‚ siÄ™ przez nasze zabezpieczenia komputerowego i wykradÅ‚ nasze tajemnice.}
+{146}{}{JakieÅ› inne wieÅ›ci?}
 {147}{}{Rozumiem. Mam inne pytania.}
-{148}{}{Dziêki. Na razie.}
-{149}{}{To wszystko, co w tej chwili przychodzi mi do g³owy. Do widzenia.}
+{148}{}{DziÄ™ki. Na razie.}
+{149}{}{To wszystko, co w tej chwili przychodzi mi do gÅ‚owy. Do widzenia.}
 {150}{}{Do widzenia.}
-{151}{}{Na takich jak ty mówi siê z³odzieje, mordercy i ³ajdacy. Obawiam siê, ¿e muszê ciê zabiæ.}
+{151}{}{Na takich jak ty mÃ³wi siÄ™ zÅ‚odzieje, mordercy i Å‚ajdacy. Obawiam siÄ™, Å¼e muszÄ™ ciÄ™ zabiÄ‡.}

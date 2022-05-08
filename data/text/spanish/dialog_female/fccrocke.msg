@@ -1,90 +1,90 @@
-{100}{}{Ves a un científico bastante joven y calvo. Parece ensimismado en su trabajo.}
-{101}{}{Ves a Crockett, el científico Hubologista.}
-{102}{}{Ves a un científico relativamente joven y calvo. Parece un friki desaliñado.}
-{103}{}{¿Sí? ¿Qué quieres tú?}
+{100}{}{Ves a un cientÃ­fico bastante joven y calvo. Parece ensimismado en su trabajo.}
+{101}{}{Ves a Crockett, el cientÃ­fico Hubologista.}
+{102}{}{Ves a un cientÃ­fico relativamente joven y calvo. Parece un friki desaliÃ±ado.}
+{103}{}{Â¿SÃ­? Â¿QuÃ© quieres tÃº?}
 {104}{}{Agh. Um. Duur.}
-{105}{}{Me envía el doctor Jing. Quiere una servoarmadura mejorada.}
-{106}{}{¿Puedes mejorar una servoarmadura?}
-{107}{}{¿Quién eres?}
-{108}{}{¿Qué haces aquí?}
+{105}{}{Me envÃ­a el doctor Jing. Quiere una servoarmadura mejorada.}
+{106}{}{Â¿Puedes mejorar una servoarmadura?}
+{107}{}{Â¿QuiÃ©n eres?}
+{108}{}{Â¿QuÃ© haces aquÃ­?}
 {109}{}{Nada, gracias.}
-{110}{}{Hay que joderse, cada día hay más sub-humanos rondando por ahí. ¡Aléjate! ¡Fuera!}
+{110}{}{Hay que joderse, cada dÃ­a hay mÃ¡s sub-humanos rondando por ahÃ­. Â¡AlÃ©jate! Â¡Fuera!}
 {111}{}{Awww.}
-{112}{}{Sí, puedo hacerlo. Pero, ¿qué estás dispuesta a intercambiar por ello?}
-{113}{}{El doctor Jing probablemente esté dispuesto a venderos combustible para la nave espacial.}
+{112}{}{SÃ­, puedo hacerlo. Pero, Â¿quÃ© estÃ¡s dispuesta a intercambiar por ello?}
+{113}{}{El doctor Jing probablemente estÃ© dispuesto a venderos combustible para la nave espacial.}
 {114}{}{Puedo pagarte.}
-{115}{}{Te dejaré seguir viviendo.}
-{116}{}{Nada. Olvídalo.}
-{117}{}{Soy Crockett. Soy un científico y un arreglalotodo. ¿Puedo seguir haciéndolo?}
-{118}{}{No. Tengo más preguntas.}
-{119}{}{Sí, claro.}
-{120}{}{Desarrollo nuevas tecnologías y consigo mi trozo de la tarta cultista, no sé si me entiendes.}
-{121}{}{¿Así que no eres un Hubologista?}
-{122}{}{Entiendo. Tengo más preguntas.}
-{123}{}{No. ¿Qué quieres decir?}
-{124}{}{¿Qué nueva tecnología has desarrollado?}
-{125}{}{Alto y claro. Hasta más ver.}
-{126}{}{Bueno... yo *supongo* que tendrás que hacer. Es un trato. ¿Tienes la armadura para ser endurecido en usted?}
-{127}{}{Sí.}
+{115}{}{Te dejarÃ© seguir viviendo.}
+{116}{}{Nada. OlvÃ­dalo.}
+{117}{}{Soy Crockett. Soy un cientÃ­fico y un arreglalotodo. Â¿Puedo seguir haciÃ©ndolo?}
+{118}{}{No. Tengo mÃ¡s preguntas.}
+{119}{}{SÃ­, claro.}
+{120}{}{Desarrollo nuevas tecnologÃ­as y consigo mi trozo de la tarta cultista, no sÃ© si me entiendes.}
+{121}{}{Â¿AsÃ­ que no eres un Hubologista?}
+{122}{}{Entiendo. Tengo mÃ¡s preguntas.}
+{123}{}{No. Â¿QuÃ© quieres decir?}
+{124}{}{Â¿QuÃ© nueva tecnologÃ­a has desarrollado?}
+{125}{}{Alto y claro. Hasta mÃ¡s ver.}
+{126}{}{Bueno... yo *supongo* que tendrÃ¡s que hacer. Es un trato. Â¿Tienes la armadura para ser endurecido en usted?}
+{127}{}{SÃ­.}
 {128}{}{No.}
-{129}{}{Genial. Te costará 10.000 dólares, en metálico, nada de trueques. Necesito algo de equipamiento nuevo.}
-{130}{}{¿10.000 dólares? ¡Eso es abusivo! ¡No tengo esa cantidad de dinero!}
-{131}{}{Muy bien. Aquí tienes.}
-{132}{}{Volveré.}
-{133}{}{::te mira extrañado::
- ¿Realmente me estás amenazando por esto?}
-{134}{}{Sí. Hazlo o muere.}
-{135}{}{No, sólo bromeaba.}
-{136}{}{Déjala aquí un día y lo haré. Antes de que te vayas, deberías saber que sólo dispongo del material para hacer esto con dos armaduras.}
-{137}{}{Por supuesto. Tengo más preguntas.}
-{138}{}{Volveré por la armadura.}
-{139}{}{No puedo hacer mi magia si no dispones de ella. Vuelve cuando sea así.}
-{140}{}{Tengo más preguntas.}
-{141}{}{Adiós.}
-{142}{}{::frunce el ceño::
- ¿Quieres esta armadura o no? Son 10.000 dólares.}
-{143}{}{Volveré.}
-{144}{}{Bien. Aquí tienes.}
+{129}{}{Genial. Te costarÃ¡ 10.000 dÃ³lares, en metÃ¡lico, nada de trueques. Necesito algo de equipamiento nuevo.}
+{130}{}{Â¿10.000 dÃ³lares? Â¡Eso es abusivo! Â¡No tengo esa cantidad de dinero!}
+{131}{}{Muy bien. AquÃ­ tienes.}
+{132}{}{VolverÃ©.}
+{133}{}{::te mira extraÃ±ado::
+ Â¿Realmente me estÃ¡s amenazando por esto?}
+{134}{}{SÃ­. Hazlo o muere.}
+{135}{}{No, sÃ³lo bromeaba.}
+{136}{}{DÃ©jala aquÃ­ un dÃ­a y lo harÃ©. Antes de que te vayas, deberÃ­as saber que sÃ³lo dispongo del material para hacer esto con dos armaduras.}
+{137}{}{Por supuesto. Tengo mÃ¡s preguntas.}
+{138}{}{VolverÃ© por la armadura.}
+{139}{}{No puedo hacer mi magia si no dispones de ella. Vuelve cuando sea asÃ­.}
+{140}{}{Tengo mÃ¡s preguntas.}
+{141}{}{AdiÃ³s.}
+{142}{}{::frunce el ceÃ±o::
+ Â¿Quieres esta armadura o no? Son 10.000 dÃ³lares.}
+{143}{}{VolverÃ©.}
+{144}{}{Bien. AquÃ­ tienes.}
 {145}{}{Menuda estafa. Ni hablar.}
 {146}{}{::te mira a los ojos y decide que hablas en serio::
-¿Tienes la armadura aquí?}
-{147}{}{Sí.}
+Â¿Tienes la armadura aquÃ­?}
+{147}{}{SÃ­.}
 {148}{}{No.}
 {149}{}{::te mira a los ojos y decide que vas de farol::
-Inténtalo, amiguete. Vas a tener a unos guardias encargándose de tu culo y nunca aprenderás a mejorar tu armadura.}
+IntÃ©ntalo, amiguete. Vas a tener a unos guardias encargÃ¡ndose de tu culo y nunca aprenderÃ¡s a mejorar tu armadura.}
 {150}{}{Muy bien. Muere, cerebrito.}
 {151}{}{Mierda. Me has llamado faroleadora.}
-{152}{}{Faroleadora. Creo que vamos a ver qué opinan los guardias sobre eso.}
-{153}{}{¡Maldición!}
-{154}{}{Estos tipos no saben nada de ciencia de verdad: les ayudo a justificar sus extravagancias a cambio de algo de tiempo libre con las señoritas y de un salario considerable.}
-{155}{}{Hmm. Tengo más preguntas que te quería hacer.}
-{156}{}{No está mal del todo. Nos vemos.}
-{157}{}{Veamos... he construido un reactor nuclear para la nave espacial. He creado el proceso de mejora para la servoarmadura. Y arreglo las cosas que están rotas.}
-{158}{}{Ya veo. Bueno, tengo más preguntas.}
-{159}{}{Hmm. He de irme. Adiós.}
-{160}{}{Oye, que no tengo nada contra ti. No me hagas daño.}
+{152}{}{Faroleadora. Creo que vamos a ver quÃ© opinan los guardias sobre eso.}
+{153}{}{Â¡MaldiciÃ³n!}
+{154}{}{Estos tipos no saben nada de ciencia de verdad: les ayudo a justificar sus extravagancias a cambio de algo de tiempo libre con las seÃ±oritas y de un salario considerable.}
+{155}{}{Hmm. Tengo mÃ¡s preguntas que te querÃ­a hacer.}
+{156}{}{No estÃ¡ mal del todo. Nos vemos.}
+{157}{}{Veamos... he construido un reactor nuclear para la nave espacial. He creado el proceso de mejora para la servoarmadura. Y arreglo las cosas que estÃ¡n rotas.}
+{158}{}{Ya veo. Bueno, tengo mÃ¡s preguntas.}
+{159}{}{Hmm. He de irme. AdiÃ³s.}
+{160}{}{Oye, que no tengo nada contra ti. No me hagas daÃ±o.}
 {161}{}{Tengo algunas preguntas para ti.}
-{162}{}{Estoy aquí por mi armadura.}
+{162}{}{Estoy aquÃ­ por mi armadura.}
 {163}{}{Demasiado tarde.}
-{164}{}{Adiós.}
-{165}{}{Aún no está lista. ¡Tienes que darme tiempo!}
-{166}{}{Está bien. Tengo algunas preguntas.}
-{167}{}{Está bien. Volveré.}
-{168}{}{La tengo ahí esperando por ti. Llévatela, llévatela.}
+{164}{}{AdiÃ³s.}
+{165}{}{AÃºn no estÃ¡ lista. Â¡Tienes que darme tiempo!}
+{166}{}{EstÃ¡ bien. Tengo algunas preguntas.}
+{167}{}{EstÃ¡ bien. VolverÃ©.}
+{168}{}{La tengo ahÃ­ esperando por ti. LlÃ©vatela, llÃ©vatela.}
 {169}{}{Gracias. Tengo preguntas.}
 {170}{}{Gracias.}
 {171}{}{Gracias. YA puedes morir.}
-{172}{}{No me quedan productos químicos para ello. Lo siento.}
+{172}{}{No me quedan productos quÃ­micos para ello. Lo siento.}
 {173}{}{Entonces puedes responderme algunas preguntas.}
 {174}{}{Entonces puedes morir.}
-{175}{}{Oh. Maldición. Adiós.}
-{176}{}{Entonces, ¿dónde está mi combustible? Me prometiste combustible, gilipollas.}
-{177}{}{Lo tendrás, lo tendrás. Ahora contéstame unas preguntas.}
-{178}{}{Sí, bueno, te he tomado el pelo.}
-{179}{}{Y por última vez, también. ¡GUARDIAS!}
+{175}{}{Oh. MaldiciÃ³n. AdiÃ³s.}
+{176}{}{Entonces, Â¿dÃ³nde estÃ¡ mi combustible? Me prometiste combustible, gilipollas.}
+{177}{}{Lo tendrÃ¡s, lo tendrÃ¡s. Ahora contÃ©stame unas preguntas.}
+{178}{}{SÃ­, bueno, te he tomado el pelo.}
+{179}{}{Y por Ãºltima vez, tambiÃ©n. Â¡GUARDIAS!}
 {180}{}{Muere, gilipollas.}
-{181}{}{Mierda. Me largo de aquí.}
-{182}{}{Vale, ¿ahora qué quieres?}
-{183}{}{¿Estás listo para pagar los 10.000 dólares esta vez?}
-{184}{}{Déjala aquí un día y lo haré. Pero recuerda que es la última que puedo mejorar.}
+{181}{}{Mierda. Me largo de aquÃ­.}
+{182}{}{Vale, Â¿ahora quÃ© quieres?}
+{183}{}{Â¿EstÃ¡s listo para pagar los 10.000 dÃ³lares esta vez?}
+{184}{}{DÃ©jala aquÃ­ un dÃ­a y lo harÃ©. Pero recuerda que es la Ãºltima que puedo mejorar.}
 {185}{}{Oye, tengo otra armadura para que la mejores.}

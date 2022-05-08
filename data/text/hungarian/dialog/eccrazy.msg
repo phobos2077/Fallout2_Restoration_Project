@@ -1,5 +1,5 @@
-{100}{}{?rült alak.}
+{100}{}{?rÃ¼lt alak.}
 {101}{}{Mmmm... agy...}
-{102}{}{Küldjenek még több kalandort!}
-{103}{}{Ójajjjj...}
-{104}{}{Szüntessék meg a fájdalmat!}
+{102}{}{KÃ¼ldjenek mÃ©g tÃ¶bb kalandort!}
+{103}{}{Ã“jajjjj...}
+{104}{}{SzÃ¼ntessÃ©k meg a fÃ¡jdalmat!}

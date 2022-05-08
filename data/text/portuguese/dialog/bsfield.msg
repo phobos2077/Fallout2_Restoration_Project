@@ -1,5 +1,5 @@
-{150}{}{Você não faz nada útil e leva cerca de 50.000 volts para isso. Pelo menos você não terá que
-  se preocupe com o barbear.}
-{151}{}{O campo de força parece não ser afetado.}
-{152}{}{O campo de força foi adiado por cerca de quinze segundos.}
-{200}{}{Sim, há uma grande quantidade de energia por lá. Você para antes da eletricidade chegar até a sua mão.}
+{150}{}{VocÃª nÃ£o faz nada Ãºtil e leva cerca de 50.000 volts para isso. Pelo menos vocÃª nÃ£o terÃ¡ que
+Â  se preocupe com o barbear.}
+{151}{}{O campo de forÃ§a parece nÃ£o ser afetado.}
+{152}{}{O campo de forÃ§a foi adiado por cerca de quinze segundos.}
+{200}{}{Sim, hÃ¡ uma grande quantidade de energia por lÃ¡. VocÃª para antes da eletricidade chegar atÃ© a sua mÃ£o.}

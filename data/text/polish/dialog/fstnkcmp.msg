@@ -3,22 +3,22 @@
 {102}{}{Widzisz Komputer PosejdoNetu.}
 {103}{}{[pip] Terminal niefunkcjonalny. Wymagana instalacja komputera nawigacyjnego. [pip]}
 {104}{}{[dalej]}
-{105}{}{Witamy w PosejdoNecie. Ten terminal ograniczony jest do transmisji pomiêdzy jednym tankowcem - PMV Valdez - i platform¹ docelow¹. Komenda?}
+{105}{}{Witamy w PosejdoNecie. Ten terminal ograniczony jest do transmisji pomiÄ™dzy jednym tankowcem - PMV Valdez - i platformÄ… docelowÄ…. Komenda?}
 {106}{}{Start.}
-{107}{}{SprawdŸ status.}
-{108}{}{Wyloguj siê.}
-{109}{}{-Zbiorniki paliwowe: Puste- £adownia: Pusta- Komputer Nawigacyjny: Niefunkcjonalny- -Cumy: Rzucone-}
-{110}{}{[Wróæ.]}
-{111}{}{Wyloguj siê.}
-{112}{}{-Zbiorniki paliwowe: Pe³ne- £adownia: Pusta- Komputer Nawigacyjny: Niefunkcjonalny- -Cumy: Rzucone-}
-{113}{}{[Wróæ.]}
-{114}{}{Wyloguj siê.}
-{115}{}{B£¥D: Zbiorniki paliwowe puste.}
-{116}{}{B£¥D: Komputer Nawigacyjny niefunkcjonalny.}
-{117}{}{-Zbiorniki paliwowe: Puste- £adownia: Pusta- Komputer Nawigacyjny: Funkcjonalny- -Cumy: Rzucone-}
-{118}{}{-Zbiorniki paliwowe: Pe³ne- £adownia: Pusta- Komputer Nawigacyjny: Funkcjonalny- -Cumy: Rzucone-}
+{107}{}{SprawdÅº status.}
+{108}{}{Wyloguj siÄ™.}
+{109}{}{-Zbiorniki paliwowe: Puste- Åadownia: Pusta- Komputer Nawigacyjny: Niefunkcjonalny- -Cumy: Rzucone-}
+{110}{}{[WrÃ³Ä‡.]}
+{111}{}{Wyloguj siÄ™.}
+{112}{}{-Zbiorniki paliwowe: PeÅ‚ne- Åadownia: Pusta- Komputer Nawigacyjny: Niefunkcjonalny- -Cumy: Rzucone-}
+{113}{}{[WrÃ³Ä‡.]}
+{114}{}{Wyloguj siÄ™.}
+{115}{}{BÅÄ„D: Zbiorniki paliwowe puste.}
+{116}{}{BÅÄ„D: Komputer Nawigacyjny niefunkcjonalny.}
+{117}{}{-Zbiorniki paliwowe: Puste- Åadownia: Pusta- Komputer Nawigacyjny: Funkcjonalny- -Cumy: Rzucone-}
+{118}{}{-Zbiorniki paliwowe: PeÅ‚ne- Åadownia: Pusta- Komputer Nawigacyjny: Funkcjonalny- -Cumy: Rzucone-}
 {119}{}{Widzisz Komputer Nawigacyjny PosejdoNetu.}
-{129}{}{[Szybko wprowadzasz procedurê odbijania, a statek odp³ywa prêdko od platformy.]}
+{129}{}{[Szybko wprowadzasz procedurÄ™ odbijania, a statek odpÅ‚ywa prÄ™dko od platformy.]}
 {130}{}{[dalej]}
-{131}{}{Komputer nawigacyjny w³¹czony.}
-{200}{}{Uwaga: Okrêt podwodny ci¹gle aktywny. Kontynuowanie spowoduje zniszczenie statku.}
+{131}{}{Komputer nawigacyjny wÅ‚Ä…czony.}
+{200}{}{Uwaga: OkrÄ™t podwodny ciÄ…gle aktywny. Kontynuowanie spowoduje zniszczenie statku.}

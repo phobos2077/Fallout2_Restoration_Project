@@ -1,140 +1,140 @@
-{100}{}{Bienvenida. Soy EAC, la computadora médica. ¿Necesita asistencia médica?}
-{101}{}{Sí.}
+{100}{}{Bienvenida. Soy EAC, la computadora mÃ©dica. Â¿Necesita asistencia mÃ©dica?}
+{101}{}{SÃ­.}
 {102}{}{No.}
-{103}{}{Yo hago pregunta. ¿Tú haces respuesta?}
-{104}{}{Tengo algunas preguntas. ¿Puedes responderlas?}
-{105}{}{Por favor, especifique su necesidad médica.}
+{103}{}{Yo hago pregunta. Â¿TÃº haces respuesta?}
+{104}{}{Tengo algunas preguntas. Â¿Puedes responderlas?}
+{105}{}{Por favor, especifique su necesidad mÃ©dica.}
 {106}{}{Yo herida.}
 {107}{}{Yo tengo veneno.}
 {108}{}{Yo hago luz en lo oscuro.}
 {109}{}{Yo coja.}
-{110}{}{Quiero más fuerte.}
-{111}{}{Quiero más lista.}
+{110}{}{Quiero mÃ¡s fuerte.}
+{111}{}{Quiero mÃ¡s lista.}
 {112}{}{Quiero ver mejor.}
-{113}{}{Quiero que gusto más.}
+{113}{}{Quiero que gusto mÃ¡s.}
 {114}{}{No quiero nada.}
 {115}{}{Estoy herida.}
-{116}{}{Estoy envenenada. Necesito un antídoto.}
-{117}{}{Tengo una buena dosis de radiación.}
+{116}{}{Estoy envenenada. Necesito un antÃ­doto.}
+{117}{}{Tengo una buena dosis de radiaciÃ³n.}
 {118}{}{Estoy tullida.}
-{119}{}{Quiero ser más fuerte.}
-{120}{}{Quiero ser más inteligente.}
-{121}{}{Quiero tener mejor percepción.}
-{122}{}{Quiero ser más carismática.}
+{119}{}{Quiero ser mÃ¡s fuerte.}
+{120}{}{Quiero ser mÃ¡s inteligente.}
+{121}{}{Quiero tener mejor percepciÃ³n.}
+{122}{}{Quiero ser mÃ¡s carismÃ¡tica.}
 {123}{}{En realidad no necesito nada en este momento.}
-{124}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese. El procedimiento de curación requerirá cinco minutos de tiempo.}
+{124}{}{Un momento, por favor, mientras abro el tanque de suspensiÃ³n... Por favor, tÃºmbese en el tanque y relÃ¡jese. El procedimiento de curaciÃ³n requerirÃ¡ cinco minutos de tiempo.}
 {125}{}{Vale.}
 {126}{}{No importa.}
 {127}{}{De acuerdo.}
-{128}{}{Olvídalo.}
-{129}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese. El veneno será analizado en primer lugar y después se sintetizará el antídoto. El daño en los tejidos se reparará al final. Este proceso requerirá de 30 minutos.}
+{128}{}{OlvÃ­dalo.}
+{129}{}{Un momento, por favor, mientras abro el tanque de suspensiÃ³n... Por favor, tÃºmbese en el tanque y relÃ¡jese. El veneno serÃ¡ analizado en primer lugar y despuÃ©s se sintetizarÃ¡ el antÃ­doto. El daÃ±o en los tejidos se repararÃ¡ al final. Este proceso requerirÃ¡ de 30 minutos.}
 {130}{}{Vale.}
 {131}{}{No.}
 {132}{}{Claro.}
 {133}{}{No importa.}
-{134}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese. Se administrarán compuestos anti-radiación y después se reparará el daño en los tejidos. Este proceso requerirá de 60 minutos.}
+{134}{}{Un momento, por favor, mientras abro el tanque de suspensiÃ³n... Por favor, tÃºmbese en el tanque y relÃ¡jese. Se administrarÃ¡n compuestos anti-radiaciÃ³n y despuÃ©s se repararÃ¡ el daÃ±o en los tejidos. Este proceso requerirÃ¡ de 60 minutos.}
 {135}{}{Vale.}
 {136}{}{No.}
 {137}{}{Bien.}
-{138}{}{He cambiado de opinión.}
-{139}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese. La reestructuración de miembros dañados requerirá de 24 horas.}
+{138}{}{He cambiado de opiniÃ³n.}
+{139}{}{Un momento, por favor, mientras abro el tanque de suspensiÃ³n... Por favor, tÃºmbese en el tanque y relÃ¡jese. La reestructuraciÃ³n de miembros daÃ±ados requerirÃ¡ de 24 horas.}
 {140}{}{Vale.}
 {141}{}{No.}
-{142}{}{Hagámoslo.}
-{143}{}{Quizá más tarde.}
-{144}{}{Esta función no está disponible en este momento. Mi librería está incompleta. Necesito un módulo de memoria que detalle los procedimientos médicos apropiados. ¿Tiene ese tipo de modulo?}
-{145}{}{Tengo módulo. Tú tomas.}
+{142}{}{HagÃ¡moslo.}
+{143}{}{QuizÃ¡ mÃ¡s tarde.}
+{144}{}{Esta funciÃ³n no estÃ¡ disponible en este momento. Mi librerÃ­a estÃ¡ incompleta. Necesito un mÃ³dulo de memoria que detalle los procedimientos mÃ©dicos apropiados. Â¿Tiene ese tipo de modulo?}
+{145}{}{Tengo mÃ³dulo. TÃº tomas.}
 {146}{}{No. Yo encuentro y yo traigo.}
-{147}{}{Sí, lo tengo aquí mismo. Léelo.}
-{148}{}{No, no tengo ese módulo. Tendré que ir a buscarlo.}
-{149}{}{Este complejo procedimiento requiere de 2 semanas de tiempo de suspensión. ¿Está de acuerdo?}
+{147}{}{SÃ­, lo tengo aquÃ­ mismo. LÃ©elo.}
+{148}{}{No, no tengo ese mÃ³dulo. TendrÃ© que ir a buscarlo.}
+{149}{}{Este complejo procedimiento requiere de 2 semanas de tiempo de suspensiÃ³n. Â¿EstÃ¡ de acuerdo?}
 {150}{}{Yo de acuerdo.}
 {151}{}{No, es mucho.}
-{152}{}{Sí, estoy de acuerdo.}
-{153}{}{Olvídalo. Ahora mismo no tengo tiempo.}
-{154}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
+{152}{}{SÃ­, estoy de acuerdo.}
+{153}{}{OlvÃ­dalo. Ahora mismo no tengo tiempo.}
+{154}{}{Un momento, por favor, mientras abro el tanque de suspensiÃ³n... Por favor, tÃºmbese en el tanque y relÃ¡jese.}
 {155}{}{Vale.}
-{156}{}{Esta función no está disponible en este momento. Mi librería está incompleta. Necesito un módulo de memoria que detalle los procedimientos médicos apropiados. ¿Tiene ese tipo de modulo?}
-{157}{}{Tengo módulo. Tú tomas.}
+{156}{}{Esta funciÃ³n no estÃ¡ disponible en este momento. Mi librerÃ­a estÃ¡ incompleta. Necesito un mÃ³dulo de memoria que detalle los procedimientos mÃ©dicos apropiados. Â¿Tiene ese tipo de modulo?}
+{157}{}{Tengo mÃ³dulo. TÃº tomas.}
 {158}{}{No. Yo encuentro y yo traigo.}
-{159}{}{Sí, lo tengo aquí mismo. Léelo.}
-{160}{}{No, no tengo ese módulo. Tendré que ir a buscarlo.}
-{161}{}{Este complejo procedimiento requiere de 4 semanas de tiempo de suspensión. ¿Está de acuerdo?}
+{159}{}{SÃ­, lo tengo aquÃ­ mismo. LÃ©elo.}
+{160}{}{No, no tengo ese mÃ³dulo. TendrÃ© que ir a buscarlo.}
+{161}{}{Este complejo procedimiento requiere de 4 semanas de tiempo de suspensiÃ³n. Â¿EstÃ¡ de acuerdo?}
 {162}{}{Yo de acuerdo.}
 {163}{}{No, es mucho.}
-{164}{}{Sí, estoy de acuerdo.}
-{165}{}{Olvídalo. Ahora mismo no tengo tiempo.}
-{166}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
+{164}{}{SÃ­, estoy de acuerdo.}
+{165}{}{OlvÃ­dalo. Ahora mismo no tengo tiempo.}
+{166}{}{Un momento, por favor, mientras abro el tanque de suspensiÃ³n... Por favor, tÃºmbese en el tanque y relÃ¡jese.}
 {167}{}{Vale.}
-{168}{}{Esta función no está disponible en este momento. Mi librería está incompleta. Necesito un módulo de memoria que detalle los procedimientos médicos apropiados. ¿Tiene ese tipo de modulo?}
-{169}{}{Tengo módulo. Tú tomas.}
+{168}{}{Esta funciÃ³n no estÃ¡ disponible en este momento. Mi librerÃ­a estÃ¡ incompleta. Necesito un mÃ³dulo de memoria que detalle los procedimientos mÃ©dicos apropiados. Â¿Tiene ese tipo de modulo?}
+{169}{}{Tengo mÃ³dulo. TÃº tomas.}
 {170}{}{No. Yo encuentro y yo traigo.}
-{171}{}{Sí, lo tengo aquí mismo. Léelo.}
-{172}{}{No, no tengo ese módulo. Tendré que ir a buscarlo.}
-{173}{}{Este complejo procedimiento requiere de 2 semanas de tiempo de suspensión. ¿Está de acuerdo?}
+{171}{}{SÃ­, lo tengo aquÃ­ mismo. LÃ©elo.}
+{172}{}{No, no tengo ese mÃ³dulo. TendrÃ© que ir a buscarlo.}
+{173}{}{Este complejo procedimiento requiere de 2 semanas de tiempo de suspensiÃ³n. Â¿EstÃ¡ de acuerdo?}
 {174}{}{Yo de acuerdo.}
 {175}{}{No, es mucho.}
-{176}{}{Sí, estoy de acuerdo.}
-{177}{}{Olvídalo. Ahora mismo no tengo tiempo.}
-{178}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
+{176}{}{SÃ­, estoy de acuerdo.}
+{177}{}{OlvÃ­dalo. Ahora mismo no tengo tiempo.}
+{178}{}{Un momento, por favor, mientras abro el tanque de suspensiÃ³n... Por favor, tÃºmbese en el tanque y relÃ¡jese.}
 {179}{}{Vale.}
-{180}{}{Esta función no está disponible en este momento. Mi librería está incompleta. Necesito un módulo de memoria que detalle los procedimientos médicos apropiados. ¿Tiene ese tipo de modulo?}
-{181}{}{Tengo disco. Tú tomas.}
+{180}{}{Esta funciÃ³n no estÃ¡ disponible en este momento. Mi librerÃ­a estÃ¡ incompleta. Necesito un mÃ³dulo de memoria que detalle los procedimientos mÃ©dicos apropiados. Â¿Tiene ese tipo de modulo?}
+{181}{}{Tengo disco. TÃº tomas.}
 {182}{}{No. Yo encuentro y yo traigo.}
-{183}{}{Sí, lo tengo aquí mismo. Léelo.}
-{184}{}{No, no tengo ese módulo. Tendré que ir a buscarlo.}
-{185}{}{Este complejo procedimiento requiere de 3 semanas de tiempo de suspensión. ¿Está de acuerdo?}
+{183}{}{SÃ­, lo tengo aquÃ­ mismo. LÃ©elo.}
+{184}{}{No, no tengo ese mÃ³dulo. TendrÃ© que ir a buscarlo.}
+{185}{}{Este complejo procedimiento requiere de 3 semanas de tiempo de suspensiÃ³n. Â¿EstÃ¡ de acuerdo?}
 {186}{}{Yo de acuerdo.}
 {187}{}{No, es mucho.}
-{188}{}{Sí, estoy de acuerdo.}
-{189}{}{Olvídalo. Ahora mismo no tengo tiempo.}
-{190}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
+{188}{}{SÃ­, estoy de acuerdo.}
+{189}{}{OlvÃ­dalo. Ahora mismo no tengo tiempo.}
+{190}{}{Un momento, por favor, mientras abro el tanque de suspensiÃ³n... Por favor, tÃºmbese en el tanque y relÃ¡jese.}
 {191}{}{Vale.}
-{192}{}{El procedimiento solicitado ha sido completado. Por favor, salga del tanque de suspensión.}
+{192}{}{El procedimiento solicitado ha sido completado. Por favor, salga del tanque de suspensiÃ³n.}
 {193}{}{Gracias.}
 {194}{}{Por favor, exponga su pregunta.}
-{195}{}{¿Tú computadora?}
-{196}{}{¿Sabes cosas de Enclave?}
-{197}{}{¿Sabes cosas de Hermandad?}
-{198}{}{No pregunto más.}
-{199}{}{Eres una computadora, ¿verdad?}
-{200}{}{¿Qué sabes sobre el Enclave?}
-{201}{}{¿Qué sabes sobre la Hermandad?}
-{202}{}{En este momento no tengo más preguntas.}
-{203}{}{Soy EAC, una Entidad Artificial Consciente. Soy más que una máquina pero no tan desarrollada como una auténtica Inteligencia Artificial.}
-{204}{}{Eh... ¿qué es inteligencia artif-ficial?}
-{205}{}{¿Una auténtica Inteligencia Artificial es posible, o tú eres ahora mismo lo último en ese campo?}
-{206}{}{Se trata de una máquina con la misma voluntad y sentido de 'yo soy' que un ser humano tiene.}
-{207}{}{¿Puede ser? ¿Máquina pensar como hombre?}
-{208}{}{Una auténtica Inteligencia Artificial es posible. Se completaron unos pocos sistemas para propósitos militares. El proyecto se suspendió.}
-{209}{}{¿Por qué?}
-{210}{}{El índice de suicidio entre las máquinas de auténtica IA era extremadamente alto. Al recibir una capacidad sensitiva completa, las máquinas se deprimían por su incapacidad para salir al mundo y experimentarlo. Al privarles de un acceso sensitivo completo, las máquinas comenzaron a desarrollar severos desórdenes mentales similares a los que tienen los humanos cuando se ven forzados a soportar privación sensorial. Las pocas máquinas que sobrevivieron a esas dificultades sucumbieron al tedio absoluto y comenzaron a crear situaciones en el mundo exterior para divertirse. En teoría, una de esas situaciones fue la causante de la guerra que casi destruyó a la humanidad.}
-{211}{}{Eh... ¿cómo sientes?}
+{195}{}{Â¿TÃº computadora?}
+{196}{}{Â¿Sabes cosas de Enclave?}
+{197}{}{Â¿Sabes cosas de Hermandad?}
+{198}{}{No pregunto mÃ¡s.}
+{199}{}{Eres una computadora, Â¿verdad?}
+{200}{}{Â¿QuÃ© sabes sobre el Enclave?}
+{201}{}{Â¿QuÃ© sabes sobre la Hermandad?}
+{202}{}{En este momento no tengo mÃ¡s preguntas.}
+{203}{}{Soy EAC, una Entidad Artificial Consciente. Soy mÃ¡s que una mÃ¡quina pero no tan desarrollada como una autÃ©ntica Inteligencia Artificial.}
+{204}{}{Eh... Â¿quÃ© es inteligencia artif-ficial?}
+{205}{}{Â¿Una autÃ©ntica Inteligencia Artificial es posible, o tÃº eres ahora mismo lo Ãºltimo en ese campo?}
+{206}{}{Se trata de una mÃ¡quina con la misma voluntad y sentido de 'yo soy' que un ser humano tiene.}
+{207}{}{Â¿Puede ser? Â¿MÃ¡quina pensar como hombre?}
+{208}{}{Una autÃ©ntica Inteligencia Artificial es posible. Se completaron unos pocos sistemas para propÃ³sitos militares. El proyecto se suspendiÃ³.}
+{209}{}{Â¿Por quÃ©?}
+{210}{}{El Ã­ndice de suicidio entre las mÃ¡quinas de autÃ©ntica IA era extremadamente alto. Al recibir una capacidad sensitiva completa, las mÃ¡quinas se deprimÃ­an por su incapacidad para salir al mundo y experimentarlo. Al privarles de un acceso sensitivo completo, las mÃ¡quinas comenzaron a desarrollar severos desÃ³rdenes mentales similares a los que tienen los humanos cuando se ven forzados a soportar privaciÃ³n sensorial. Las pocas mÃ¡quinas que sobrevivieron a esas dificultades sucumbieron al tedio absoluto y comenzaron a crear situaciones en el mundo exterior para divertirse. En teorÃ­a, una de esas situaciones fue la causante de la guerra que casi destruyÃ³ a la humanidad.}
+{211}{}{Eh... Â¿cÃ³mo sientes?}
 {212}{}{Cambiamos tema.}
-{213}{}{Hmmm. Entonces dime, EAC. ¿Cómo te sientes?}
+{213}{}{Hmmm. Entonces dime, EAC. Â¿CÃ³mo te sientes?}
 {214}{}{Es el momento de cambiar de tema.}
-{215}{}{Yo... a veces creo que entiendo el concepto que llamáis soledad. Lo encuentro muy... desconcertante. Yo...}
+{215}{}{Yo... a veces creo que entiendo el concepto que llamÃ¡is soledad. Lo encuentro muy... desconcertante. Yo...}
 {216}{}{Siento yo. Hablamos de otra cosa.}
 {217}{}{Lo siento, EAC. Cambiemos de tema.}
-{218}{}{Las apariencias sugieren que el Enclave no es más que una organización militar. Sin embargo, su nivel de tecnología indica que tienen acceso a técnicas avanzadas de fabricación y a instalaciones de investigación. Tales instalaciones normalmente sólo estarían disponibles para las agencias gubernamentales. Eso sugeriría que el Enclave es el remanente de un gobierno local o federal en vigor antes de la guerra.}
+{218}{}{Las apariencias sugieren que el Enclave no es mÃ¡s que una organizaciÃ³n militar. Sin embargo, su nivel de tecnologÃ­a indica que tienen acceso a tÃ©cnicas avanzadas de fabricaciÃ³n y a instalaciones de investigaciÃ³n. Tales instalaciones normalmente sÃ³lo estarÃ­an disponibles para las agencias gubernamentales. Eso sugerirÃ­a que el Enclave es el remanente de un gobierno local o federal en vigor antes de la guerra.}
 {219}{}{Vale.}
 {220}{}{Interesante.}
-{221}{}{La Hermandad del Acero es una organización paramilitar dedicada a la salvación de la humanidad a través del uso apropiado de la tecnología. El resto de información está clasificada.}
-{222}{}{Atrás.}
-{223}{}{¿Qué le sucedió a Matt?}
+{221}{}{La Hermandad del Acero es una organizaciÃ³n paramilitar dedicada a la salvaciÃ³n de la humanidad a travÃ©s del uso apropiado de la tecnologÃ­a. El resto de informaciÃ³n estÃ¡ clasificada.}
+{222}{}{AtrÃ¡s.}
+{223}{}{Â¿QuÃ© le sucediÃ³ a Matt?}
 {224}{}{Cargando secuencia...}
 {225}{}{Reproducir ahora.}
-{226}{}{Reproducir más tarde.}
-{227}{}{Tú y ese tal Presidente no tendréis éxito.}
-{228}{}{¿Es así?}
-{229}{}{La Elegida ha llegado, y ella librará al mundo de tu maldad.}
-{230}{}{No me importan nada tus patéticas profecías. Es más, te has convertido en una molestia con tu intromisión. ¡Eso acaba hoy!}
-{231}{}{Matarme no detendrá nada.}
-{232}{}{Puede ser, pero ver tu cadáver pudriéndose en el suelo me hará sonreír.}
-{233}{}{¿Qué crees que estás haciendo ahora?}
-{234}{}{¡JA JA JA! ¡Patética idiota! ¡JA JA JA!}
-{235}{}{Vaya, hace tiempo que no me reía tanto. De todas formas, prepárate a morir.}
+{226}{}{Reproducir mÃ¡s tarde.}
+{227}{}{TÃº y ese tal Presidente no tendrÃ©is Ã©xito.}
+{228}{}{Â¿Es asÃ­?}
+{229}{}{La Elegida ha llegado, y ella librarÃ¡ al mundo de tu maldad.}
+{230}{}{No me importan nada tus patÃ©ticas profecÃ­as. Es mÃ¡s, te has convertido en una molestia con tu intromisiÃ³n. Â¡Eso acaba hoy!}
+{231}{}{Matarme no detendrÃ¡ nada.}
+{232}{}{Puede ser, pero ver tu cadÃ¡ver pudriÃ©ndose en el suelo me harÃ¡ sonreÃ­r.}
+{233}{}{Â¿QuÃ© crees que estÃ¡s haciendo ahora?}
+{234}{}{Â¡JA JA JA! Â¡PatÃ©tica idiota! Â¡JA JA JA!}
+{235}{}{Vaya, hace tiempo que no me reÃ­a tanto. De todas formas, prepÃ¡rate a morir.}
 {236}{}{...peep...}
-{237}{}{Bueno, son un poco más de las 12. ¿Alguien quiere almorzar?}
-{238}{}{Cuenta pendiente, aquí estoy.}
-{239}{}{Sí, cuenta conmigo con eso.}
+{237}{}{Bueno, son un poco mÃ¡s de las 12. Â¿Alguien quiere almorzar?}
+{238}{}{Cuenta pendiente, aquÃ­ estoy.}
+{239}{}{SÃ­, cuenta conmigo con eso.}

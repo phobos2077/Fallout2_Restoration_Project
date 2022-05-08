@@ -1,2 +1,2 @@
-{200}{}{Kurde bele, z tych nasion wyros≥o coú paskudnego.}
-{201}{}{Ciekawa roúlina. Ciekawe co jeszcze moøe wyrosnπÊ z tych nasion.}
+{200}{}{Kurde bele, z tych nasion wyros≈Ço co≈õ paskudnego.}
+{201}{}{Ciekawa ro≈õlina. Ciekawe co jeszcze mo≈ºe wyrosnƒÖƒá z tych nasion.}

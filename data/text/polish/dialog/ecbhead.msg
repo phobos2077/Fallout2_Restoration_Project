@@ -1,64 +1,64 @@
-{100}{}{Dostrzegasz wielk¹, wykut¹ z kamienia g³owê, która, hmm... mamrocze do siebie?}
-{101}{}{Widzisz wykut¹ z kamienia podobiznê g³owy Przybysza z Krypty. Jej twórca wyraŸnie schlebia³ orygina³owi, poniewa¿ w¹tpisz, aby g³owa Przybysza z Krypty by³a a¿ tak wielka.}
-{102}{}{Widzisz wielki kamienny pos¹g.}
-{103}{}{Widzisz wykut¹ z kamienia podobiznê g³owy Przybysza z Krypty. Jej twórca wyraŸnie schlebia³ orygina³owi, poniewa¿ w¹tpisz, aby g³owa Przybysza z Krypty by³a a¿ tak wielka.}
-{104}{}{Cholerni turyœci...}
+{100}{}{Dostrzegasz wielkÄ…, wykutÄ… z kamienia gÅ‚owÄ™, ktÃ³ra, hmm... mamrocze do siebie?}
+{101}{}{Widzisz wykutÄ… z kamienia podobiznÄ™ gÅ‚owy Przybysza z Krypty. Jej twÃ³rca wyraÅºnie schlebiaÅ‚ oryginaÅ‚owi, poniewaÅ¼ wÄ…tpisz, aby gÅ‚owa Przybysza z Krypty byÅ‚a aÅ¼ tak wielka.}
+{102}{}{Widzisz wielki kamienny posÄ…g.}
+{103}{}{Widzisz wykutÄ… z kamienia podobiznÄ™ gÅ‚owy Przybysza z Krypty. Jej twÃ³rca wyraÅºnie schlebiaÅ‚ oryginaÅ‚owi, poniewaÅ¼ wÄ…tpisz, aby gÅ‚owa Przybysza z Krypty byÅ‚a aÅ¼ tak wielka.}
+{104}{}{Cholerni turyÅ›ci...}
 {105}{}{"Jam jest Dziecko Przeznaczenia!" - Co za bzdetny tekst.}
-{106}{}{Gdybym by³ tob¹, "dziecko przeznaczenia", zabiera³bym ty³ek w troki.}
+{106}{}{Gdybym byÅ‚ tobÄ…, "dziecko przeznaczenia", zabieraÅ‚bym tyÅ‚ek w troki.}
 {107}{}{Zzzzzz Snzzzzz Zzzzzzzzzz}
 {108}{}{ZZZZZZZzzzzzzzz}
 {109}{}{Zsnzzz... *chrrr*... zzzzsZZZZZ}
 {110}{}{Zzssnnnnnzzzzz}
 {111}{}{ZZZZzzzzzZZZZZ}
-{112}{}{Chcia³bym widzieæ, co siê dzieje za mn¹.}
-{113}{}{Gdyby tylko ktoœ têdy przechodzi³ i odkopa³ resztê mojego cia³a...}
-{114}{}{Jestem pewien, ¿e te kamienio¿erne mrówki zjawi¹ siê tu za chwilê, aby mnie po¿reæ.}
-{115}{}{"Zostañ wielk¹ kamienn¹ g³ow¹! Zwiedzisz œwiat!" Co za brednie. A ja siê da³em wrobiæ!}
-{116}{}{Nadal pozostaje dla mnie zagadk¹, jak siê znalaz³em na pustyni.}
-{117}{}{Nadal nie wiem, czemu tkwiê na œrodku tej zapyzia³ej pustyni, podczas gdy wszyscy inni zaprawiaj¹ w pobliskich wioskach.}
-{118}{}{To znaczy, modl¹ siê do niego, czyszcz¹ go i okadzaj¹... a ja mogê sobie tylko ca³ymi dniami ogl¹daæ piasek.}
-{119}{}{S³ysza³em, ¿e ci goœcie z Wyspy Wielkanocnej s¹ naprawdê w porz¹dku.}
-{120}{}{Za³o¿ê siê, ¿e Stonehenge jest odwiedzane przez du¿o wiêcej osób.}
-{121}{}{Hrnnfff... Mamo... dziœ nie ma lekcjiii... Zsnzzzzz}
-{122}{}{Zzzsnnnzzzz... Nie chcê wstawaaaæ... Zzznnsss}
+{112}{}{ChciaÅ‚bym widzieÄ‡, co siÄ™ dzieje za mnÄ….}
+{113}{}{Gdyby tylko ktoÅ› tÄ™dy przechodziÅ‚ i odkopaÅ‚ resztÄ™ mojego ciaÅ‚a...}
+{114}{}{Jestem pewien, Å¼e te kamienioÅ¼erne mrÃ³wki zjawiÄ… siÄ™ tu za chwilÄ™, aby mnie poÅ¼reÄ‡.}
+{115}{}{"ZostaÅ„ wielkÄ… kamiennÄ… gÅ‚owÄ…! Zwiedzisz Å›wiat!" Co za brednie. A ja siÄ™ daÅ‚em wrobiÄ‡!}
+{116}{}{Nadal pozostaje dla mnie zagadkÄ…, jak siÄ™ znalazÅ‚em na pustyni.}
+{117}{}{Nadal nie wiem, czemu tkwiÄ™ na Å›rodku tej zapyziaÅ‚ej pustyni, podczas gdy wszyscy inni zaprawiajÄ… w pobliskich wioskach.}
+{118}{}{To znaczy, modlÄ… siÄ™ do niego, czyszczÄ… go i okadzajÄ…... a ja mogÄ™ sobie tylko caÅ‚ymi dniami oglÄ…daÄ‡ piasek.}
+{119}{}{SÅ‚yszaÅ‚em, Å¼e ci goÅ›cie z Wyspy Wielkanocnej sÄ… naprawdÄ™ w porzÄ…dku.}
+{120}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e Stonehenge jest odwiedzane przez duÅ¼o wiÄ™cej osÃ³b.}
+{121}{}{Hrnnfff... Mamo... dziÅ› nie ma lekcjiii... Zsnzzzzz}
+{122}{}{Zzzsnnnzzzz... Nie chcÄ™ wstawaaaÄ‡... Zzznnsss}
 {123}{}{Zzsssccs... ech?}
 {124}{}{Co u li...?}
-{125}{}{£APY KURDE PRZY SOBIE!}
-{126}{}{Gracz powinien siê odwróciæ, cofn¹æ siê kilka kroków, nastêpnie odwróciæ siê i spojrzeæ na pos¹g.}
+{125}{}{ÅAPY KURDE PRZY SOBIE!}
+{126}{}{Gracz powinien siÄ™ odwrÃ³ciÄ‡, cofnÄ…Ä‡ siÄ™ kilka krokÃ³w, nastÄ™pnie odwrÃ³ciÄ‡ siÄ™ i spojrzeÄ‡ na posÄ…g.}
 {127}{}{*Ahem*}
-{128}{}{KTO ŒMIE ZBLI¯AÆ SIÊ DO ŒWIÊTEGO POS¥GU G£OWY MIESZKAÑCA KRYPTY?!}
+{128}{}{KTO ÅšMIE ZBLIÅ»AÄ† SIÄ˜ DO ÅšWIÄ˜TEGO POSÄ„GU GÅOWY MIESZKAÅƒCA KRYPTY?!}
 {129}{}{To ja, Dziecko Przeznaczenia.}
 {130}{}{HA HA HA HA HA HA!}
 {131}{}{*TY* ?! DZIECKIEM PRZEZNACZENIA ?!}
-{132}{}{MÓJ MA£Y PALEC JEST WIÊKSZY OD CIEBIE!}
-{133}{}{NIE JESTEŒ DZIECKIEM PRZEZNACZENIA.}
-{134}{}{Tak, dok³adnie.}
-{135}{}{NIE, NIE JESTEŒ.}
-{136}{}{Tak, dok³adnie.}
+{132}{}{MÃ“J MAÅY PALEC JEST WIÄ˜KSZY OD CIEBIE!}
+{133}{}{NIE JESTEÅš DZIECKIEM PRZEZNACZENIA.}
+{134}{}{Tak, dokÅ‚adnie.}
+{135}{}{NIE, NIE JESTEÅš.}
+{136}{}{Tak, dokÅ‚adnie.}
 {137}{}{AHA.}
 {138}{}{Yhy.}
 {139}{}{AHA.}
 {140}{}{Yhy.}
 {141}{}{AHAAAA}
 {142}{}{Ech... Uch...}
-{143}{}{UCH... DOSYÆ TEGO!}
-{144}{}{NO DOBRZE! MASZ RACJÊ!}
-{145}{}{JESTEŒ DZIECKIEM PRZEZNACZENIA!}
-{146}{}{WE TO!}
-{147}{}{TERAZ ODEJD!}
-{148}{}{Wielkie dziêki!}
-{149}{}{TA, NIEWA¯NE, SPADAJ ST¥D.}
-{150}{}{CHOLERNI TURYŒCI}
-{151}{}{DA£EM CI JU¯ PREZENT}
-{152}{}{ODST¥P!}
+{143}{}{UCH... DOSYÄ† TEGO!}
+{144}{}{NO DOBRZE! MASZ RACJÄ˜!}
+{145}{}{JESTEÅš DZIECKIEM PRZEZNACZENIA!}
+{146}{}{WEÅ¹ TO!}
+{147}{}{TERAZ ODEJDÅ¹!}
+{148}{}{Wielkie dziÄ™ki!}
+{149}{}{TA, NIEWAÅ»NE, SPADAJ STÄ„D.}
+{150}{}{CHOLERNI TURYÅšCI}
+{151}{}{DAÅEM CI JUÅ» PREZENT}
+{152}{}{ODSTÄ„P!}
 {153}{}{Idiota.}
-{154}{}{CO?! OKRAŒÆ MNIE CHCIA£EŒ?!}
-{155}{}{GIÑ!}
+{154}{}{CO?! OKRAÅšÄ† MNIE CHCIAÅEÅš?!}
+{155}{}{GIÅƒ!}
 {156}{}{Gracz ginie anihilowany wybuchem plazmy.}
-{200}{}{[12 godzin póŸniej]}
+{200}{}{[12 godzin pÃ³Åºniej]}
 {1129}{}{Ja Dziecko Przeznacznia.}
-{1134}{}{Ja tu te¿.}
-{1136}{}{Ja te¿!}
+{1134}{}{Ja tu teÅ¼.}
+{1136}{}{Ja teÅ¼!}
 {1138}{}{Yhy.}
 {1140}{}{Yhy.}
 {1142}{}{Ech... Uch...}

@@ -1,3 +1,3 @@
-{100}{}{Äh...es ist eine Toilette.}
-{101}{}{He, da hat jemand Granaten im Spülkasten gebunkert.}
+{100}{}{Ã„h...es ist eine Toilette.}
+{101}{}{He, da hat jemand Granaten im SpÃ¼lkasten gebunkert.}
 {102}{}{Sonst ist hier nichts...zumindest nichts, was sich mitzunehmen lohnt.}

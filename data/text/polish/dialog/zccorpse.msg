@@ -1,3 +1,3 @@
-{100}{}{Widzisz jakiegoœ pechowego skurczybyka.}
-{101}{}{Wygl¹da na to, ¿e ta osoba umar³a parszyw¹ œmierci¹.}
-{102}{}{To musia³o boleæ.}
+{100}{}{Widzisz jakiegoÅ› pechowego skurczybyka.}
+{101}{}{WyglÄ…da na to, Å¼e ta osoba umarÅ‚a parszywÄ… Å›mierciÄ….}
+{102}{}{To musiaÅ‚o boleÄ‡.}

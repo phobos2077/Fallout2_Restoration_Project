@@ -3,23 +3,23 @@
 {102}{}{Du siehst eine kleine, schlanke Frau in einem blauen Sommerkleid. Sie scheint traurig zu sein.}
 {103}{}{Hallo, Ich bin Ariel. Ich glaube, ich hab dich hier noch nie gesehen. Wer bist du?}
 {104}{}{Ich}
-{105}{}{Äh... du sehn traurig aus. Warum?}
+{105}{}{Ã„h... du sehn traurig aus. Warum?}
 {106}{}{Ich gehen jetzt.}
-{107}{}{Hallo, Ariel, ich heiße }
+{107}{}{Hallo, Ariel, ich heiÃŸe }
 {108}{}{Hi, du siehst so niedergeschlagen aus. Was ist los?}
 {109}{}{Mein Name ist unwichtig, aber ich brauch einige Informationen von dir.}
-{110}{}{Tut mir leid, ich hab dafür keine Zeit.}
-{111}{}{Freut mich, dich kennenzulernen. Was kann ich für dich tun?}
+{110}{}{Tut mir leid, ich hab dafÃ¼r keine Zeit.}
+{111}{}{Freut mich, dich kennenzulernen. Was kann ich fÃ¼r dich tun?}
 {112}{}{Du Fragen beantworten?}
-{113}{}{Nichts. Tschüss.}
-{114}{}{Du wirst mir wahrscheinlich keine Hilfe sein. Tschüss.}
-{115}{}{Ich möchte Euch ein paar Fragen stellen.}
-{116}{}{Tut mir leid, dich in deiner Einsamkeit zu stören, aber könntest du mir einige Fragen beantworten?}
+{113}{}{Nichts. TschÃ¼ss.}
+{114}{}{Du wirst mir wahrscheinlich keine Hilfe sein. TschÃ¼ss.}
+{115}{}{Ich mÃ¶chte Euch ein paar Fragen stellen.}
+{116}{}{Tut mir leid, dich in deiner Einsamkeit zu stÃ¶ren, aber kÃ¶nntest du mir einige Fragen beantworten?}
 {117}{}{Nur ein paar private Probleme. Nichts Wichtiges.}
-{118}{}{Du reden, ich zuhören. Das helfen.}
+{118}{}{Du reden, ich zuhÃ¶ren. Das helfen.}
 {119}{}{OK. Nicht reden Probleme. Du Fragen beantworten?}
-{120}{}{Ich bin ein guter Zuhörer, Ariel. Wenn du einfach über das redest, was dich bedrückt, ist das manchmal schon hilfreich.}
-{121}{}{OK. Lass uns deine Probleme für einen Moment vergessen. Kannst du mir einige Fragen beantworten?}
+{120}{}{Ich bin ein guter ZuhÃ¶rer, Ariel. Wenn du einfach Ã¼ber das redest, was dich bedrÃ¼ckt, ist das manchmal schon hilfreich.}
+{121}{}{OK. Lass uns deine Probleme fÃ¼r einen Moment vergessen. Kannst du mir einige Fragen beantworten?}
 {122}{}{Jeder hat Probleme, Frau. Du musst lernen, damit fertig zu werden.}
 {123}{}{Verzeihung, aber ich hab keine Zeit, mich mit jemandem wie dir abzugeben. Guten Tag.}
 {124}{}{}
@@ -34,55 +34,55 @@
 {133}{}{Muss gehn.}
 {134}{}{Bist du ein Gefangener?}
 {135}{}{Wirst du von den Deathclaws gut behandelt?}
-{136}{}{Möchtest du die Vault verlassen?}
+{136}{}{MÃ¶chtest du die Vault verlassen?}
 {137}{}{Also, warum bist du so traurig, Ariel?}
 {138}{}{Wie bist du in die Vault gekommen?}
 {139}{}{Ich muss jetzt gehn.}
-{140}{}{Nein, ich kann jederzeit gehn. Die Deathclaws haben mir das ausdrücklich gesagt. Sie halten hier niemanden gegen seinen Willen fest, soweit ich weiß.}
+{140}{}{Nein, ich kann jederzeit gehn. Die Deathclaws haben mir das ausdrÃ¼cklich gesagt. Sie halten hier niemanden gegen seinen Willen fest, soweit ich weiÃŸ.}
 {141}{}{Oh, ok.}
 {142}{}{Verstanden. Ich gehn.}
 {143}{}{Ich verstehe.}
-{144}{}{Ich glaub du lügst, du Ziege.}
-{145}{}{Verstehe. Wenn es dir nichts ausmacht, würd ich dir gern noch ein paar Fragen stellen.}
-{146}{}{Ja. Sie geben mir Nahrung, Wasser, Unterkunft und Schutz. Ich fühl mich hier sicher und das ist mehr, als ich verlangen kann.}
+{144}{}{Ich glaub du lÃ¼gst, du Ziege.}
+{145}{}{Verstehe. Wenn es dir nichts ausmacht, wÃ¼rd ich dir gern noch ein paar Fragen stellen.}
+{146}{}{Ja. Sie geben mir Nahrung, Wasser, Unterkunft und Schutz. Ich fÃ¼hl mich hier sicher und das ist mehr, als ich verlangen kann.}
 {147}{}{OK. Muss jetzt gehn.}
 {148}{}{Gut. Fragen mehr.}
-{149}{}{OK. Ich möchte dich noch was fragen.}
+{149}{}{OK. Ich mÃ¶chte dich noch was fragen.}
 {150}{}{OK, wechseln wir das Thema.}
 {151}{}{Super. Ein Echsenfan.}
-{152}{}{Ich hab darüber nachgedacht. Aber ich lehn es ab. Ich fühl mich hier sicherer als irgendwo sonst. Ich fühl mich ein wenig einsam, weil keine anderen Menschen hier sind, aber das wird sich vielleicht in Zukunft ändern.}
-{153}{}{Ich gehn. Tschüss.}
-{154}{}{Erzähl mehr.}
-{155}{}{Schön. Von mir aus kannst du hier verrotten.}
+{152}{}{Ich hab darÃ¼ber nachgedacht. Aber ich lehn es ab. Ich fÃ¼hl mich hier sicherer als irgendwo sonst. Ich fÃ¼hl mich ein wenig einsam, weil keine anderen Menschen hier sind, aber das wird sich vielleicht in Zukunft Ã¤ndern.}
+{153}{}{Ich gehn. TschÃ¼ss.}
+{154}{}{ErzÃ¤hl mehr.}
+{155}{}{SchÃ¶n. Von mir aus kannst du hier verrotten.}
 {156}{}{OK. Ich denke, ich werd jetzt gehn.}
 {157}{}{Du hast mir sehr geholfen, aber ich muss dich um noch was bitten.}
 {158}{}{Mein Mann ist vor kurzen gestorben. Ich vermisse ihn und muss mich erst damit abfinden. Das ist alles.}
 {159}{}{Mir tun leid. Wie passieren?}
-{160}{}{Uuups. Muss gehen, hören Älteste rufen.}
-{161}{}{Tut mir leid, das zu hören. Wie ist das passiert?}
+{160}{}{Uuups. Muss gehen, hÃ¶ren Ã„lteste rufen.}
+{161}{}{Tut mir leid, das zu hÃ¶ren. Wie ist das passiert?}
 {162}{}{Harte Umstellung. Man sieht sich.}
-{163}{}{Sowas passiert, Leute sterben nun mal. Meistens, wenn ich in der Nähe bin.}
-{164}{}{Ich hab dir bereits von dem Überfall erzählt. Da ist es passiert.}
-{165}{}{Mein Mann und ich waren mit der Karawane auf dem Weg in die New California Republic. Wir wollten mit unserer Tochter Sandy ein neues Leben beginnen. Eines Nachts wurde die Karawane jedoch von Gangstern überfallen. Sie waren unglaublich brutal. Sie haben alles getötet, Männer, Frauen und Kinder. Rand, mein Mann, starb, als er mich und Sandy beschützen wollte. Wir wären auch gestorben, wäre nicht ein Wunder geschehen...}
+{163}{}{Sowas passiert, Leute sterben nun mal. Meistens, wenn ich in der NÃ¤he bin.}
+{164}{}{Ich hab dir bereits von dem Ãœberfall erzÃ¤hlt. Da ist es passiert.}
+{165}{}{Mein Mann und ich waren mit der Karawane auf dem Weg in die New California Republic. Wir wollten mit unserer Tochter Sandy ein neues Leben beginnen. Eines Nachts wurde die Karawane jedoch von Gangstern Ã¼berfallen. Sie waren unglaublich brutal. Sie haben alles getÃ¶tet, MÃ¤nner, Frauen und Kinder. Rand, mein Mann, starb, als er mich und Sandy beschÃ¼tzen wollte. Wir wÃ¤ren auch gestorben, wÃ¤re nicht ein Wunder geschehen...}
 {166}{}{Oh... wow.}
 {167}{}{Froh, du und Kleine OK.}
-{168}{}{Ich verschwinden. Tschüss.}
-{169}{}{Wow. Was für eine Geschichte.}
-{170}{}{Was für ein Sch... Ich hau ab.}
+{168}{}{Ich verschwinden. TschÃ¼ss.}
+{169}{}{Wow. Was fÃ¼r eine Geschichte.}
+{170}{}{Was fÃ¼r ein Sch... Ich hau ab.}
 {171}{}{Gott sei Dank bist du mit deiner Tochter in Sicherheit.}
 {172}{}{Hallo. Wie geht's dir?}
 {173}{}{}
 {174}{}{}
 {175}{}{Hau ab, du Bastard! Ich will mit dir nichts zu tun haben.}
-{176}{}{Hau ab, du Miststück! Ich hab dir nichts zu sagen.}
-{177}{}{Tschüss.}
+{176}{}{Hau ab, du MiststÃ¼ck! Ich hab dir nichts zu sagen.}
+{177}{}{TschÃ¼ss.}
 {178}{}{.}
 {179}{}{. Ja, ich bin neu hier.}
 {180}{}{Ich hab Sandy hinter mir versteckt, um sie vor dem Monster, das Rand erschossen hatte, 
- zu schützen. Er stand neben der Leiche meines Mannes und lachte, als er die Waffe auf meinen
- Kopf richtete. Plötzlich kam diese riesige Kralle aus der Dunkelheit, griff ihn von hinten
+ zu schÃ¼tzen. Er stand neben der Leiche meines Mannes und lachte, als er die Waffe auf meinen
+ Kopf richtete. PlÃ¶tzlich kam diese riesige Kralle aus der Dunkelheit, griff ihn von hinten
  und... ja, Gott sei Dank hat Sandy nicht gesehen, was dann geschah. Jedenfalls wurden die
- Gangster von dieser Gruppe Deathclaws unschädlich gemacht. Die Deathclaw, die Sandy und mich
+ Gangster von dieser Gruppe Deathclaws unschÃ¤dlich gemacht. Die Deathclaw, die Sandy und mich
  gerettet hatte, stand neben mir und redete mit mir. Sie versicherte mir immer wieder, dass wir
- in Sicherheit wären und das es ihr leid tue, dass sie nicht früher gekommen waren, um uns zu
- helfen. Anschließend brachten uns die Deathclaws hierher.}
+ in Sicherheit wÃ¤ren und das es ihr leid tue, dass sie nicht frÃ¼her gekommen waren, um uns zu
+ helfen. AnschlieÃŸend brachten uns die Deathclaws hierher.}

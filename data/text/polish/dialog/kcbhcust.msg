@@ -1,76 +1,76 @@
-{100}{}{Widzisz kogoœ, kto móg³by byæ traperem.}
-{101}{}{Widzisz kogoœ odprê¿aj¹cego siê}
-{102}{}{Widzisz mieszkañca miasta.}
-{103}{}{Widzisz odprê¿aj¹cego siê robotnika.}
-{104}{}{Widzisz osobê spêdzaj¹c¹ czas przy kieliszku.}
-{106}{}{Widzisz bywalca baru. Wygl¹da na szczêœliwego i z lekka pijanego.}
-{107}{}{Widzisz sta³ego bywalca baru. Wygl¹da zdrowo i jest dobrze od¿ywiony.}
-{108}{}{Widzisz sta³ego bywalca baru rozmawiaj¹cego cicho z kimœ w pobli¿u.}
-{109}{}{Widzisz sta³ego bywalca baru pij¹cego kulerkê piwa.}
-{110}{}{Widzisz sta³ego bywalca baru œmiej¹cego siê do siebie samego.}
+{100}{}{Widzisz kogoÅ›, kto mÃ³gÅ‚by byÄ‡ traperem.}
+{101}{}{Widzisz kogoÅ› odprÄ™Å¼ajÄ…cego siÄ™}
+{102}{}{Widzisz mieszkaÅ„ca miasta.}
+{103}{}{Widzisz odprÄ™Å¼ajÄ…cego siÄ™ robotnika.}
+{104}{}{Widzisz osobÄ™ spÄ™dzajÄ…cÄ… czas przy kieliszku.}
+{106}{}{Widzisz bywalca baru. WyglÄ…da na szczÄ™Å›liwego i z lekka pijanego.}
+{107}{}{Widzisz staÅ‚ego bywalca baru. WyglÄ…da zdrowo i jest dobrze odÅ¼ywiony.}
+{108}{}{Widzisz staÅ‚ego bywalca baru rozmawiajÄ…cego cicho z kimÅ› w pobliÅ¼u.}
+{109}{}{Widzisz staÅ‚ego bywalca baru pijÄ…cego kulerkÄ™ piwa.}
+{110}{}{Widzisz staÅ‚ego bywalca baru Å›miejÄ…cego siÄ™ do siebie samego.}
 {120}{}{Chyba to nie ta tawerna, co?}
-{121}{}{Nie potrzebujemy tu wagabundów.}
-{122}{}{Dzicy zawsze oznaczaj¹ k³opoty.}
-{123}{}{Pij œmia³o, tylko ¿eby ciê póŸniej ³ódk¹ albo koñmi nie wyci¹gali...}
-{124}{}{[mamrocze, mamrocze] ...¿a³osny grinhorn spoza miasta...}
-{125}{}{Nastêpny z gangu Duntona.}
-{126}{}{Na co siê gapisz?}
-{127}{}{OdejdŸ st¹d.}
+{121}{}{Nie potrzebujemy tu wagabundÃ³w.}
+{122}{}{Dzicy zawsze oznaczajÄ… kÅ‚opoty.}
+{123}{}{Pij Å›miaÅ‚o, tylko Å¼eby ciÄ™ pÃ³Åºniej Å‚Ã³dkÄ… albo koÅ„mi nie wyciÄ…gali...}
+{124}{}{[mamrocze, mamrocze] ...Å¼aÅ‚osny grinhorn spoza miasta...}
+{125}{}{NastÄ™pny z gangu Duntona.}
+{126}{}{Na co siÄ™ gapisz?}
+{127}{}{OdejdÅº stÄ…d.}
 {128}{}{Postaw wszystkim piwo przybyszu.}
-{129}{}{Mam nadziejê, ¿e potrafisz utrzymaæ w sobie alkohol.}
-{130}{}{Nie wygl¹dasz na ludo¿ercê.}
-{131}{}{¯adnych pokoi dla takich jak ty.}
-{132}{}{Stanowczo za du¿o obcych pojawi³o siê ostatnio w mieœcie.}
-{133}{}{No przynajmniej masz klawiaturê na miejscu.}
-{134}{}{Oooo, id¹ s¹siedzi.}
-{135}{}{A gdzie masz swoj¹ koœæ z nosa?}
-{136}{}{[Patrzy na ciebie i po prostu potrz¹sa g³ow¹]}
-{137}{}{[W bardzo subtelny sposób pokazuje ci bardzo nieuprzejmy gest]}
+{129}{}{Mam nadziejÄ™, Å¼e potrafisz utrzymaÄ‡ w sobie alkohol.}
+{130}{}{Nie wyglÄ…dasz na ludoÅ¼ercÄ™.}
+{131}{}{Å»adnych pokoi dla takich jak ty.}
+{132}{}{Stanowczo za duÅ¼o obcych pojawiÅ‚o siÄ™ ostatnio w mieÅ›cie.}
+{133}{}{No przynajmniej masz klawiaturÄ™ na miejscu.}
+{134}{}{Oooo, idÄ… sÄ…siedzi.}
+{135}{}{A gdzie masz swojÄ… koÅ›Ä‡ z nosa?}
+{136}{}{[Patrzy na ciebie i po prostu potrzÄ…sa gÅ‚owÄ…]}
+{137}{}{[W bardzo subtelny sposÃ³b pokazuje ci bardzo nieuprzejmy gest]}
 {138}{}{To pewnie ty odpowiadasz za okaleczenia bramin.}
-{139}{}{Kilku naszych myœliwych ostatnio zaginê³o. Ty pewnie jesteœ przyczyn¹.}
-{140}{}{Dooko³a miasta pe³nego jakichœ skorpioludów.}
-{141}{}{W kanionie na wschód od miasta jest duch.}
-{142}{}{Nie pozwól, aby dorwa³ ciê Wêdruj¹cy Duch!}
-{143}{}{Nawet nie próbuj kraœæ naszych bramin.}
+{139}{}{Kilku naszych myÅ›liwych ostatnio zaginÄ™Å‚o. Ty pewnie jesteÅ› przyczynÄ….}
+{140}{}{DookoÅ‚a miasta peÅ‚nego jakichÅ› skorpioludÃ³w.}
+{141}{}{W kanionie na wschÃ³d od miasta jest duch.}
+{142}{}{Nie pozwÃ³l, aby dorwaÅ‚ ciÄ™ WÄ™drujÄ…cy Duch!}
+{143}{}{Nawet nie prÃ³buj kraÅ›Ä‡ naszych bramin.}
 {144}{}{Mamy na ciebie oko.}
-{150}{}{Mi³o widzieæ kogoœ nowego w mieœcie.}
-{151}{}{Myœlê, ¿e koniec koñców dzicy nie s¹ tacy Ÿli.}
-{152}{}{Postaw nam kolejkê!}
-{153}{}{Czeœæ wszystkim.}
-{154}{}{Czy ty i Sulik nie jesteœcie czasem bliŸniêtami.}
-{155}{}{Znasz ju¿ Sulika?}
-{156}{}{Ostatnio wiele zwierz¹t ³apie siê w pu³apki.}
-{157}{}{Chyba pogoda niebawem siê zmieni.}
-{158}{}{Na po³udniu zastawi³em ca³¹ sieæ pu³apek.}
-{159}{}{Jeœli masz choæ trochê rozumu w g³owie, to trzymaj siê z daleka od Duntonów.}
-{160}{}{Jeœli chcesz siê odprê¿yæ, zajrzyj do £aŸni.}
-{161}{}{IdŸ na zachód do Miasteczka Traperów, jeœli poszukujesz miejsca do zagrzania.}
+{150}{}{MiÅ‚o widzieÄ‡ kogoÅ› nowego w mieÅ›cie.}
+{151}{}{MyÅ›lÄ™, Å¼e koniec koÅ„cÃ³w dzicy nie sÄ… tacy Åºli.}
+{152}{}{Postaw nam kolejkÄ™!}
+{153}{}{CzeÅ›Ä‡ wszystkim.}
+{154}{}{Czy ty i Sulik nie jesteÅ›cie czasem bliÅºniÄ™tami.}
+{155}{}{Znasz juÅ¼ Sulika?}
+{156}{}{Ostatnio wiele zwierzÄ…t Å‚apie siÄ™ w puÅ‚apki.}
+{157}{}{Chyba pogoda niebawem siÄ™ zmieni.}
+{158}{}{Na poÅ‚udniu zastawiÅ‚em caÅ‚Ä… sieÄ‡ puÅ‚apek.}
+{159}{}{JeÅ›li masz choÄ‡ trochÄ™ rozumu w gÅ‚owie, to trzymaj siÄ™ z daleka od DuntonÃ³w.}
+{160}{}{JeÅ›li chcesz siÄ™ odprÄ™Å¼yÄ‡, zajrzyj do ÅaÅºni.}
+{161}{}{IdÅº na zachÃ³d do Miasteczka TraperÃ³w, jeÅ›li poszukujesz miejsca do zagrzania.}
 {162}{}{Witaj, przyjacielu.}
-{163}{}{Mam nadziejê, ¿e lubisz nasze miasto.}
-{164}{}{Klamath to jest w³aœnie to miejsce.}
-{165}{}{Mi³o, ¿e jesteœ z nami.}
+{163}{}{Mam nadziejÄ™, Å¼e lubisz nasze miasto.}
+{164}{}{Klamath to jest wÅ‚aÅ›nie to miejsce.}
+{165}{}{MiÅ‚o, Å¼e jesteÅ› z nami.}
 {166}{}{[wznosi do ciebie kufel]}
 {167}{}{[puszcza do ciebie oczko]}
-{168}{}{Nigdy nie wêdruj w nocy.}
-{169}{}{Tam na wzgórzach jest pe³no Skorpioludów.}
-{170}{}{Jeden z naszych najlepszych traperów zagin¹³.}
-{201}{}{Tak, to z pewnoœci¹ przeczyœci moje gardzio³ko.}
-{202}{}{Dziêkujê.}
+{168}{}{Nigdy nie wÄ™druj w nocy.}
+{169}{}{Tam na wzgÃ³rzach jest peÅ‚no SkorpioludÃ³w.}
+{170}{}{Jeden z naszych najlepszych traperÃ³w zaginÄ…Å‚.}
+{201}{}{Tak, to z pewnoÅ›ciÄ… przeczyÅ›ci moje gardzioÅ‚ko.}
+{202}{}{DziÄ™kujÄ™.}
 {203}{}{Mmm-mm, dobre.}
 {204}{}{Nie ma to jak Karmi Strong.}
-{205}{}{Dziêki za browar.}
-{206}{}{By³em w Gruzach [...Gruzy...] Tam tego nie maj¹...}
-{207}{}{Dzicy wiedz¹, co najlepsze w ¿yciu.}
-{208}{}{Dziêkujê.}
-{209}{}{Stokrotne dziêki.}
-{210}{}{Potrzebowa³em tego. Dziêki.}
-{211}{}{Stokrotne dziêki!}
-{212}{}{Wola³bym mieæ przed sob¹ butelkê - dla odmiany.}
-{213}{}{Jestem zobowi¹zany.}
-{214}{}{W porz¹dku!}
-{215}{}{Tak! Czeka³em na to.}
-{216}{}{Myœla³em, ¿e nigdy nie zapytasz.}
-{217}{}{Stokrotne dziêki.}
-{218}{}{Dok³adnie jak Sulik.}
-{219}{}{Dziêkujê.}
+{205}{}{DziÄ™ki za browar.}
+{206}{}{ByÅ‚em w Gruzach [...Gruzy...] Tam tego nie majÄ…...}
+{207}{}{Dzicy wiedzÄ…, co najlepsze w Å¼yciu.}
+{208}{}{DziÄ™kujÄ™.}
+{209}{}{Stokrotne dziÄ™ki.}
+{210}{}{PotrzebowaÅ‚em tego. DziÄ™ki.}
+{211}{}{Stokrotne dziÄ™ki!}
+{212}{}{WolaÅ‚bym mieÄ‡ przed sobÄ… butelkÄ™ - dla odmiany.}
+{213}{}{Jestem zobowiÄ…zany.}
+{214}{}{W porzÄ…dku!}
+{215}{}{Tak! CzekaÅ‚em na to.}
+{216}{}{MyÅ›laÅ‚em, Å¼e nigdy nie zapytasz.}
+{217}{}{Stokrotne dziÄ™ki.}
+{218}{}{DokÅ‚adnie jak Sulik.}
+{219}{}{DziÄ™kujÄ™.}
 {220}{}{Spoko!}

@@ -1,180 +1,180 @@
-{100}{}{Widzisz niskiego mê¿czyznê z kruczoczarnymi w³osami i mi³ym uœmiechem.}
+{100}{}{Widzisz niskiego mÄ™Å¼czyznÄ™ z kruczoczarnymi wÅ‚osami i miÅ‚ym uÅ›miechem.}
 {101}{}{Widzisz Ascortiego, burmistrza Redding.}
-{102}{}{Widzisz dobrze ubranego mê¿czyznê wygl¹daj¹cego doœæ zgrabnie.}
-{103}{}{Rusz siê, koleœ.}
-{104}{}{Jeœli chcesz wypróbowaæ swoje szczêœcie, to proszê bardzo.}
+{102}{}{Widzisz dobrze ubranego mÄ™Å¼czyznÄ™ wyglÄ…dajÄ…cego doÅ›Ä‡ zgrabnie.}
+{103}{}{Rusz siÄ™, koleÅ›.}
+{104}{}{JeÅ›li chcesz wyprÃ³bowaÄ‡ swoje szczÄ™Å›cie, to proszÄ™ bardzo.}
 {105}{}{Graj albo wynocha!}
-{106}{}{Lepiej nie narób tu ba³aganu...}
-{107}{}{Spróbuj zabawy przy sto³ach do gry. Mówiê ci to, bo wygl¹dasz jak ktoœ, kto mieszka w dziczy.}
-{108}{}{Spróbuj zabawy przy maszynach do gry, jesteœ z dziczy, wiêc ci to mówiê. Jest w nich mnóstwo dobrej magii.}
-{109}{}{Tylko nie przesadzaj z ognist¹ wod¹...}
-{110}{}{Witaj w œlicznym miasteczku - Redding... no i w moim kasynie. Ka¿dy jest asem u Ascortiego. To w³aœnie ja, Ascorti, w³aœciciel i burmistrz tego œlicznego miasta.}
-{111}{}{Co burmistrz Ascorti mo¿e dla ciebie zrobiæ?}
-{112}{}{Czy w Redding mo¿na dostaæ jak¹œ robotê?}
-{113}{}{Co s³ychaæ w mieœcie?}
-{114}{}{Czy s³ysza³eœ o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
-{115}{}{Czym siê tutaj zajmujesz?}
-{116}{}{Tak tylko siê rozgl¹dam, burmistrzu. Do zobaczenia.}
-{117}{}{Prowadzê to kasyno oraz ogólnie zarz¹dzam ca³ym miastem. Monitorujê te¿ na przyk³ad takie sprawy jak akty w³asnoœci.}
-{118}{}{Akty w³asnoœci? Czego na przyk³ad?}
-{119}{}{Aha. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{120}{}{Przyk³adowo ten od wielkiej kopalni Wanamingo, który chcê od ciebie odkupiæ. Czy mo¿esz ju¿ mi go odsprzedaæ?}
-{121}{}{Chyba tak. Ile mia³eœ mi daæ za niego?}
-{122}{}{Mo¿e... Ale pozwól, ¿e najpierw spytam ciê o coœ.}
-{123}{}{Jeszcze muszê to przemyœleæ. Do widzenia, burmistrzu.}
-{124}{}{W zasadzie to tylko jeden akt. Ten, który ci sprzeda³em. No wiesz, od kopalni Wanamingo?}
-{125}{}{A, ten... Teraz sobie przypominam. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{126}{}{Jasne, tak tylko siê zastanawiam, czy masz mo¿e coœ jeszcze do sprzedania. Muszê wracaæ do pracy przy jej czyszczeniu. Do widzenia.}
-{127}{}{Tylko kopalni Wanamingo, który odkupi³em od ciebie. Pamiêtasz?}
-{128}{}{Jasne, ¿e tak. Ale pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{129}{}{Ale¿ tak. Tak tylko sprawdzam. Do widzenia, burmistrzu Ascorti.}
-{130}{}{Ró¿nych posiad³oœci. Np. teraz mam do sprzedania naprawdê super sprawê!}
+{106}{}{Lepiej nie narÃ³b tu baÅ‚aganu...}
+{107}{}{SprÃ³buj zabawy przy stoÅ‚ach do gry. MÃ³wiÄ™ ci to, bo wyglÄ…dasz jak ktoÅ›, kto mieszka w dziczy.}
+{108}{}{SprÃ³buj zabawy przy maszynach do gry, jesteÅ› z dziczy, wiÄ™c ci to mÃ³wiÄ™. Jest w nich mnÃ³stwo dobrej magii.}
+{109}{}{Tylko nie przesadzaj z ognistÄ… wodÄ…...}
+{110}{}{Witaj w Å›licznym miasteczku - Redding... no i w moim kasynie. KaÅ¼dy jest asem u Ascortiego. To wÅ‚aÅ›nie ja, Ascorti, wÅ‚aÅ›ciciel i burmistrz tego Å›licznego miasta.}
+{111}{}{Co burmistrz Ascorti moÅ¼e dla ciebie zrobiÄ‡?}
+{112}{}{Czy w Redding moÅ¼na dostaÄ‡ jakÄ…Å› robotÄ™?}
+{113}{}{Co sÅ‚ychaÄ‡ w mieÅ›cie?}
+{114}{}{Czy sÅ‚yszaÅ‚eÅ› o czymÅ›, co nazywa siÄ™ Generator Ekosystemu Cudownej Krainy?}
+{115}{}{Czym siÄ™ tutaj zajmujesz?}
+{116}{}{Tak tylko siÄ™ rozglÄ…dam, burmistrzu. Do zobaczenia.}
+{117}{}{ProwadzÄ™ to kasyno oraz ogÃ³lnie zarzÄ…dzam caÅ‚ym miastem. MonitorujÄ™ teÅ¼ na przykÅ‚ad takie sprawy jak akty wÅ‚asnoÅ›ci.}
+{118}{}{Akty wÅ‚asnoÅ›ci? Czego na przykÅ‚ad?}
+{119}{}{Aha. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{120}{}{PrzykÅ‚adowo ten od wielkiej kopalni Wanamingo, ktÃ³ry chcÄ™ od ciebie odkupiÄ‡. Czy moÅ¼esz juÅ¼ mi go odsprzedaÄ‡?}
+{121}{}{Chyba tak. Ile miaÅ‚eÅ› mi daÄ‡ za niego?}
+{122}{}{MoÅ¼e... Ale pozwÃ³l, Å¼e najpierw spytam ciÄ™ o coÅ›.}
+{123}{}{Jeszcze muszÄ™ to przemyÅ›leÄ‡. Do widzenia, burmistrzu.}
+{124}{}{W zasadzie to tylko jeden akt. Ten, ktÃ³ry ci sprzedaÅ‚em. No wiesz, od kopalni Wanamingo?}
+{125}{}{A, ten... Teraz sobie przypominam. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{126}{}{Jasne, tak tylko siÄ™ zastanawiam, czy masz moÅ¼e coÅ› jeszcze do sprzedania. MuszÄ™ wracaÄ‡ do pracy przy jej czyszczeniu. Do widzenia.}
+{127}{}{Tylko kopalni Wanamingo, ktÃ³ry odkupiÅ‚em od ciebie. PamiÄ™tasz?}
+{128}{}{Jasne, Å¼e tak. Ale pozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{129}{}{AleÅ¼ tak. Tak tylko sprawdzam. Do widzenia, burmistrzu Ascorti.}
+{130}{}{RÃ³Å¼nych posiadÅ‚oÅ›ci. Np. teraz mam do sprzedania naprawdÄ™ super sprawÄ™!}
 {131}{}{Co to takiego?}
-{132}{}{Za³o¿ê siê, ¿e tak, ale pozwól, ¿e spytam ciê najpierw o coœ innego, burmistrzu.}
-{133}{}{Hmm, myœlê, ¿e najpierw siê trochê rozejrzê po mieœcie. Do widzenia.}
-{134}{}{Akt w³asnoœci wielkiej kopalni Wanamingo znajduj¹cej siê tu¿ za miastem. Mogê ci j¹ sprzedaæ za œmieszn¹ sumkê $1000. Oferta specjalna! Po prostu masz fart, uda³o ci siê trafiæ na dobry dzieñ.}
-{135}{}{Brzmi interesuj¹co. Powiedz mi wiêcej na ten temat.}
+{132}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e tak, ale pozwÃ³l, Å¼e spytam ciÄ™ najpierw o coÅ› innego, burmistrzu.}
+{133}{}{Hmm, myÅ›lÄ™, Å¼e najpierw siÄ™ trochÄ™ rozejrzÄ™ po mieÅ›cie. Do widzenia.}
+{134}{}{Akt wÅ‚asnoÅ›ci wielkiej kopalni Wanamingo znajdujÄ…cej siÄ™ tuÅ¼ za miastem. MogÄ™ ci jÄ… sprzedaÄ‡ za Å›miesznÄ… sumkÄ™ $1000. Oferta specjalna! Po prostu masz fart, udaÅ‚o ci siÄ™ trafiÄ‡ na dobry dzieÅ„.}
+{135}{}{Brzmi interesujÄ…co. Powiedz mi wiÄ™cej na ten temat.}
 {136}{}{Gdzie jest haczyk, burmistrzu?}
-{137}{}{Chyba nie chcê jej teraz kupowaæ, burmistrzu. Pozwól, ¿e spytam ciê o coœ innego.}
-{138}{}{No, s¹ w niej takie cholerne zwierz¹tka i trzeba je pozabijaæ zanim bêdzie mo¿na w niej pracowaæ. Jeœli kupisz akt, pozabijasz wszystkie - to chêtnie j¹ od ciebie odkupiê ze sporym zyskiem.}
-{139}{}{Z zyskiem? Jak du¿ym?}
-{140}{}{Skoro jest tak wartoœciowa, to czemu sam jej nie oczyœcisz?}
-{141}{}{Zwierz¹tka? Jakie?}
-{142}{}{Nie ma haczyka. Tylko najpierw musisz wyeksmitowaæ paru niechcianych lokatorów mieszkaj¹cych w niej. Dla ciebie to raczej nic trudnego. Mogê powiedzieæ ci wiêcej, jeœli chcesz...}
-{143}{}{Okej, biorê tê sprawê. Mów...}
-{144}{}{Chyba nie chcê siê mieszaæ w takie interesy, burmistrzu. Ale pozwól, ¿e spytam ciê o coœ innego.}
-{145}{}{Aha. Tak wiêc chyba zostawiê to komuœ innemu. Do widzenia, burmistrzu.}
-{146}{}{Nawet podwójnym! To zapewne rozs¹dna zap³ata za twój trud. Niestety, na wiêcej mnie nie staæ. Bêdê musia³ sporo zainwestowaæ w tê kopalniê, zanim zacznie ona przynosiæ zyski.}
-{147}{}{Brzmi nieŸle. To ile p³acê?}
-{148}{}{Chyba jednak dam sobie spokój. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{149}{}{$1000 za akt w³asnoœci wielkiej kopalni Wanamingo. Bierzesz?}
-{150}{}{Tak, biorê go.}
-{151}{}{Chêtnie, ale nie mam przy sobie tyle pieniêdzy. Pozwól, ¿e spytam ciê o coœ innego.}
-{152}{}{Nie bardzo. Pozwól, ¿e spytam ciê o coœ innego.}
-{153}{}{Mo¿e innym razem, burmistrzu. Do widzenia.}
-{154}{}{Tylko zapiszê sobie, ¿e kopalnia Wanamingo jest twoj¹ w³asnoœci¹. Daj mi znaæ, jak ju¿ j¹ oczyœcisz, to j¹ od ciebie odkupiê.}
-{155}{}{Tak zrobiê. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{156}{}{Dobra. Nied³ugo wrócê, burmistrzu.}
-{157}{}{Nie mogê. Nie jestem goœciem szukaj¹cym niebezpieczeñstwa na ka¿dym kroku. Znam swoje mocne strony i walka nie jest jedn¹ z nich. Ale ty, to co innego, wygl¹dasz na tward¹ osobê. Tak w ogóle, to chyba w³aœnie takimi rzeczami siê przecie¿ zajmujesz.}
-{158}{}{Byæ mo¿e. Z jakim zyskiem odkupisz ode mnie akt w³asnoœci, gdy oczyszczê kopalniê?}
-{159}{}{Mo¿e tak, a mo¿e nie. Pomyœlê nad tym. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{137}{}{Chyba nie chcÄ™ jej teraz kupowaÄ‡, burmistrzu. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{138}{}{No, sÄ… w niej takie cholerne zwierzÄ…tka i trzeba je pozabijaÄ‡ zanim bÄ™dzie moÅ¼na w niej pracowaÄ‡. JeÅ›li kupisz akt, pozabijasz wszystkie - to chÄ™tnie jÄ… od ciebie odkupiÄ™ ze sporym zyskiem.}
+{139}{}{Z zyskiem? Jak duÅ¼ym?}
+{140}{}{Skoro jest tak wartoÅ›ciowa, to czemu sam jej nie oczyÅ›cisz?}
+{141}{}{ZwierzÄ…tka? Jakie?}
+{142}{}{Nie ma haczyka. Tylko najpierw musisz wyeksmitowaÄ‡ paru niechcianych lokatorÃ³w mieszkajÄ…cych w niej. Dla ciebie to raczej nic trudnego. MogÄ™ powiedzieÄ‡ ci wiÄ™cej, jeÅ›li chcesz...}
+{143}{}{Okej, biorÄ™ tÄ™ sprawÄ™. MÃ³w...}
+{144}{}{Chyba nie chcÄ™ siÄ™ mieszaÄ‡ w takie interesy, burmistrzu. Ale pozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{145}{}{Aha. Tak wiÄ™c chyba zostawiÄ™ to komuÅ› innemu. Do widzenia, burmistrzu.}
+{146}{}{Nawet podwÃ³jnym! To zapewne rozsÄ…dna zapÅ‚ata za twÃ³j trud. Niestety, na wiÄ™cej mnie nie staÄ‡. BÄ™dÄ™ musiaÅ‚ sporo zainwestowaÄ‡ w tÄ™ kopalniÄ™, zanim zacznie ona przynosiÄ‡ zyski.}
+{147}{}{Brzmi nieÅºle. To ile pÅ‚acÄ™?}
+{148}{}{Chyba jednak dam sobie spokÃ³j. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{149}{}{$1000 za akt wÅ‚asnoÅ›ci wielkiej kopalni Wanamingo. Bierzesz?}
+{150}{}{Tak, biorÄ™ go.}
+{151}{}{ChÄ™tnie, ale nie mam przy sobie tyle pieniÄ™dzy. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{152}{}{Nie bardzo. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{153}{}{MoÅ¼e innym razem, burmistrzu. Do widzenia.}
+{154}{}{Tylko zapiszÄ™ sobie, Å¼e kopalnia Wanamingo jest twojÄ… wÅ‚asnoÅ›ciÄ…. Daj mi znaÄ‡, jak juÅ¼ jÄ… oczyÅ›cisz, to jÄ… od ciebie odkupiÄ™.}
+{155}{}{Tak zrobiÄ™. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{156}{}{Dobra. NiedÅ‚ugo wrÃ³cÄ™, burmistrzu.}
+{157}{}{Nie mogÄ™. Nie jestem goÅ›ciem szukajÄ…cym niebezpieczeÅ„stwa na kaÅ¼dym kroku. Znam swoje mocne strony i walka nie jest jednÄ… z nich. Ale ty, to co innego, wyglÄ…dasz na twardÄ… osobÄ™. Tak w ogÃ³le, to chyba wÅ‚aÅ›nie takimi rzeczami siÄ™ przecieÅ¼ zajmujesz.}
+{158}{}{ByÄ‡ moÅ¼e. Z jakim zyskiem odkupisz ode mnie akt wÅ‚asnoÅ›ci, gdy oczyszczÄ™ kopalniÄ™?}
+{159}{}{MoÅ¼e tak, a moÅ¼e nie. PomyÅ›lÄ™ nad tym. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
 {160}{}{Nie bardzo mam teraz czas na takie rzeczy. Przepraszam, panie burmistrzu. Do widzenia.}
-{161}{}{To jak? Uda³o ci siê ju¿ oczyœciæ kopalniê?}
+{161}{}{To jak? UdaÅ‚o ci siÄ™ juÅ¼ oczyÅ›ciÄ‡ kopalniÄ™?}
 {162}{}{Jasne!}
-{163}{}{Jeszcze nie, ale zrobiê to. Ale w miedzyczasie pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{164}{}{Pracujê nad tym. Do widzenia, burmistrzu Ascorti.}
-{165}{}{Wiesz co, chyba jeszcze nie uda³o ci siê za³atwiæ wszystkich Wanamingos. Lepiej to sprawdŸ. Nie odkupiê kopalni, dopóki nie pozabijasz wszystkich.}
-{166}{}{Aha. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{167}{}{W takim razie muszê tam wróciæ i to sprawdziæ.}
-{168}{}{Oczyszczenie kopalni to œwietna robota! Ale jest problem.}
+{163}{}{Jeszcze nie, ale zrobiÄ™ to. Ale w miedzyczasie pozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{164}{}{PracujÄ™ nad tym. Do widzenia, burmistrzu Ascorti.}
+{165}{}{Wiesz co, chyba jeszcze nie udaÅ‚o ci siÄ™ zaÅ‚atwiÄ‡ wszystkich Wanamingos. Lepiej to sprawdÅº. Nie odkupiÄ™ kopalni, dopÃ³ki nie pozabijasz wszystkich.}
+{166}{}{Aha. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{167}{}{W takim razie muszÄ™ tam wrÃ³ciÄ‡ i to sprawdziÄ‡.}
+{168}{}{Oczyszczenie kopalni to Å›wietna robota! Ale jest problem.}
 {169}{}{Problem? Jaki?}
-{170}{}{Uda³o ci siê oczyœciæ ca³¹ kopalniê! Dziêki. Czy odsprzedasz mi teraz akt? Dam ci za niego $2500.}
-{171}{}{Nie s¹dzê, chyba go jeszcze potrzymam. Do widzenia, burmistrzu.}
-{172}{}{Jasne. Cieszê siê, ¿e siê go pozbêdê, burmistrzu Ascorti.}
-{173}{}{Nazywamy je Wanamingos. To jakieœ dziwne stworzenia z wielkimi zêbami i z przyssawkami jak u oœmiornic. Nie s¹ zbyt inteligentne, ale s¹ wredne z bliska.}
-{174}{}{Aha. I ja mam siê ich pozbyæ?}
-{175}{}{No pewnie. Wiedzia³em, ¿e nie myœlisz tak a¿ tak wolno.}
-{176}{}{Taa. To ile zarobiê na tym $1000?}
-{177}{}{Wiedzia³em, ¿e ktoœ inny siê tam wprowadzi zamiast Wanamingos. Zrobi³ to wredny koleœ zwany ¯aba Morton. Z tego, co wiem, razem ze swoim gangiem.}
-{178}{}{Czemu nazywaj¹ go ¯aba Morton?}
-{179}{}{I gdzie tu mój problem?}
-{180}{}{I co mam z tym zrobiæ?}
-{181}{}{To chyba dlatego, ¿e ¿abija ludzi. Wredny z niego koleœ, za którym nikt nie zatêskni... a ty bêdziesz bohaterem! Chcesz byæ bohaterem, nie?}
-{182}{}{Mo¿e, ale nadal nie widzê tu mojego problemu.}
-{183}{}{Tak, jasne. Co mogê z tym zrobiæ?}
-{184}{}{Chyba mam jeszcze trochê do poczyszczenia. Wrócê, gdy nakopiê jeszcze parê ty³ków, burmistrzu.}
-{185}{}{No, dopóki kopalnia nie bêdzie czysta, nie mogê wys³aæ górników do pracy w niej. Wiêc jeœli chcesz mi j¹ sprzedaæ, to masz problem.}
-{186}{}{Czemu nazywaj¹ go ¯aba Morton?}
-{187}{}{Œwietnie. To co mam z tym zrobiæ?}
-{188}{}{W takim razie idê siê nim zaj¹æ. Do widzenia, burmistrzu.}
-{189}{}{Myœlê, ¿e nale¿a³oby pójœæ z powrotem do kopalni Wanamingo i za³atwiæ ¯abê i jego gang. Gdy to zrobisz, mo¿esz do mnie wróciæ, a ja z chêci¹ odkupiê od ciebie kopalniê.}
-{190}{}{Nic nie jest ³atwe... Do zobaczenia, muszê siê czymœ zaj¹æ...}
-{191}{}{Czy chcesz mi ju¿ odsprzedaæ akt w³asnoœci kopalni Wanamingo?}
-{192}{}{Jasne, burmistrzu. Ile on mia³ kosztowaæ?}
+{170}{}{UdaÅ‚o ci siÄ™ oczyÅ›ciÄ‡ caÅ‚Ä… kopalniÄ™! DziÄ™ki. Czy odsprzedasz mi teraz akt? Dam ci za niego $2500.}
+{171}{}{Nie sÄ…dzÄ™, chyba go jeszcze potrzymam. Do widzenia, burmistrzu.}
+{172}{}{Jasne. CieszÄ™ siÄ™, Å¼e siÄ™ go pozbÄ™dÄ™, burmistrzu Ascorti.}
+{173}{}{Nazywamy je Wanamingos. To jakieÅ› dziwne stworzenia z wielkimi zÄ™bami i z przyssawkami jak u oÅ›miornic. Nie sÄ… zbyt inteligentne, ale sÄ… wredne z bliska.}
+{174}{}{Aha. I ja mam siÄ™ ich pozbyÄ‡?}
+{175}{}{No pewnie. WiedziaÅ‚em, Å¼e nie myÅ›lisz tak aÅ¼ tak wolno.}
+{176}{}{Taa. To ile zarobiÄ™ na tym $1000?}
+{177}{}{WiedziaÅ‚em, Å¼e ktoÅ› inny siÄ™ tam wprowadzi zamiast Wanamingos. ZrobiÅ‚ to wredny koleÅ› zwany Å»aba Morton. Z tego, co wiem, razem ze swoim gangiem.}
+{178}{}{Czemu nazywajÄ… go Å»aba Morton?}
+{179}{}{I gdzie tu mÃ³j problem?}
+{180}{}{I co mam z tym zrobiÄ‡?}
+{181}{}{To chyba dlatego, Å¼e Å¼abija ludzi. Wredny z niego koleÅ›, za ktÃ³rym nikt nie zatÄ™skni... a ty bÄ™dziesz bohaterem! Chcesz byÄ‡ bohaterem, nie?}
+{182}{}{MoÅ¼e, ale nadal nie widzÄ™ tu mojego problemu.}
+{183}{}{Tak, jasne. Co mogÄ™ z tym zrobiÄ‡?}
+{184}{}{Chyba mam jeszcze trochÄ™ do poczyszczenia. WrÃ³cÄ™, gdy nakopiÄ™ jeszcze parÄ™ tyÅ‚kÃ³w, burmistrzu.}
+{185}{}{No, dopÃ³ki kopalnia nie bÄ™dzie czysta, nie mogÄ™ wysÅ‚aÄ‡ gÃ³rnikÃ³w do pracy w niej. WiÄ™c jeÅ›li chcesz mi jÄ… sprzedaÄ‡, to masz problem.}
+{186}{}{Czemu nazywajÄ… go Å»aba Morton?}
+{187}{}{Åšwietnie. To co mam z tym zrobiÄ‡?}
+{188}{}{W takim razie idÄ™ siÄ™ nim zajÄ…Ä‡. Do widzenia, burmistrzu.}
+{189}{}{MyÅ›lÄ™, Å¼e naleÅ¼aÅ‚oby pÃ³jÅ›Ä‡ z powrotem do kopalni Wanamingo i zaÅ‚atwiÄ‡ Å»abÄ™ i jego gang. Gdy to zrobisz, moÅ¼esz do mnie wrÃ³ciÄ‡, a ja z chÄ™ciÄ… odkupiÄ™ od ciebie kopalniÄ™.}
+{190}{}{Nic nie jest Å‚atwe... Do zobaczenia, muszÄ™ siÄ™ czymÅ› zajÄ…Ä‡...}
+{191}{}{Czy chcesz mi juÅ¼ odsprzedaÄ‡ akt wÅ‚asnoÅ›ci kopalni Wanamingo?}
+{192}{}{Jasne, burmistrzu. Ile on miaÅ‚ kosztowaÄ‡?}
 {193}{}{Jeszcze nie, burmistrzu. Do widzenia.}
-{194}{}{S³ysza³em, ¿e pomagasz szeryfowi. To dobrze. Nie staæ mnie ju¿ na to, by ta sp³ukana Rooney mieszka³a sobie nadal w tym luksusowym domu.}
-{195}{}{Masz na myœli ten malutki, przewiewny barak, za który liczysz sobie "nieco" za du¿o?}
-{196}{}{No pewnie. Ile jest ci ona dlu¿na?}
-{197}{}{Aha, mogê siê tym zainteresowaæ. Ale pozwól, ¿e spytam ciê o coœ innego.}
-{198}{}{Tia. A kto ty niby jesteœ?}
-{199}{}{Wolê nazywaæ go przytulnym z przyjemn¹ letni¹ wentylacj¹. Równie¿ i cena za niego jest ca³kiem rozs¹dna.}
+{194}{}{SÅ‚yszaÅ‚em, Å¼e pomagasz szeryfowi. To dobrze. Nie staÄ‡ mnie juÅ¼ na to, by ta spÅ‚ukana Rooney mieszkaÅ‚a sobie nadal w tym luksusowym domu.}
+{195}{}{Masz na myÅ›li ten malutki, przewiewny barak, za ktÃ³ry liczysz sobie "nieco" za duÅ¼o?}
+{196}{}{No pewnie. Ile jest ci ona dluÅ¼na?}
+{197}{}{Aha, mogÄ™ siÄ™ tym zainteresowaÄ‡. Ale pozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{198}{}{Tia. A kto ty niby jesteÅ›?}
+{199}{}{WolÄ™ nazywaÄ‡ go przytulnym z przyjemnÄ… letniÄ… wentylacjÄ…. RÃ³wnieÅ¼ i cena za niego jest caÅ‚kiem rozsÄ…dna.}
 {200}{}{Tak, na pewno. Ile jest ci winna za czynsz?}
-{201}{}{Hmm, lepiej ju¿ sobie pójdê, burmistrzu. Do widzenia.}
+{201}{}{Hmm, lepiej juÅ¼ sobie pÃ³jdÄ™, burmistrzu. Do widzenia.}
 {202}{}{Zobaczmy... Pani Rooney jest mi winna... tak, no jest, $120. Tak. $120.}
 {203}{}{To wszystko? Mam tyle przy sobie. Masz...}
-{204}{}{To nie tak du¿o. Pozwól, ¿e spytam ciê o coœ innego.}
-{205}{}{Zobaczê, co mogê zrobiæ, by zmusiæ j¹ do zap³acenia. Do widzenia.}
-{206}{}{Dobrze... Teraz jest na bie¿¹co. Dziêki za uregulowanie tego d³ugu.}
-{207}{}{Nie ma sprawy. Pozwól, ¿e spytam ciê o coœ innego.}
-{208}{}{Po prostu jedni ludzie s¹ bardziej hojni ni¿ inni. Do widzenia, burmistrzu.}
-{209}{}{Dziêki, ¿e uda³o ci siê opró¿niæ moj¹ posiad³oœæ, szeryfie. Teraz bêdê móg³ j¹ wynaj¹æ komuœ, kto bêdzie móg³ za ni¹ zap³aciæ.}
-{210}{}{Nie czujê siê zbyt dobrze po tym...}
+{204}{}{To nie tak duÅ¼o. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{205}{}{ZobaczÄ™, co mogÄ™ zrobiÄ‡, by zmusiÄ‡ jÄ… do zapÅ‚acenia. Do widzenia.}
+{206}{}{Dobrze... Teraz jest na bieÅ¼Ä…co. DziÄ™ki za uregulowanie tego dÅ‚ugu.}
+{207}{}{Nie ma sprawy. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{208}{}{Po prostu jedni ludzie sÄ… bardziej hojni niÅ¼ inni. Do widzenia, burmistrzu.}
+{209}{}{DziÄ™ki, Å¼e udaÅ‚o ci siÄ™ oprÃ³Å¼niÄ‡ mojÄ… posiadÅ‚oÅ›Ä‡, szeryfie. Teraz bÄ™dÄ™ mÃ³gÅ‚ jÄ… wynajÄ…Ä‡ komuÅ›, kto bÄ™dzie mÃ³gÅ‚ za niÄ… zapÅ‚aciÄ‡.}
+{210}{}{Nie czujÄ™ siÄ™ zbyt dobrze po tym...}
 {211}{}{Brzmi sensownie. }
-{212}{}{Czemu nie? Mo¿esz siê spokojnie czuæ dobrze. Wywalaj¹c wdowê Rooney, pozwalasz mi na dalsze p³acenie pracownikom. Jeœli nie zap³aci³bym im, to ich rodziny musia³yby g³odowaæ. To dopiero nie jest w porz¹dku, nie?}
-{213}{}{No tak. Moja wizja tego by³a nieco inna. Ale nadal nie czujê siê zbyt dobrze.}
-{214}{}{Nie wygl¹dasz na takiego biedaka. W koñcu zarabiasz kupê kasy na swoim kasynie.}
-{215}{}{Potrzeba silnej osobowoœci, by zrobiæ co trzeba, nawet jeœli po tym ktoœ nie bêdzie siê czu³ zbyt dobrze. Uda³o ci siê zrobiæ coœ bardzo trudnego, i to do tego dobrze. Masz piwo na koszt firmy!}
-{216}{}{Dziêki, burmistrzu. To mi³o z twojej strony.}
-{217}{}{Nie chcê z tob¹ piæ, ani teraz, ani kiedykolwiek. Do widzenia.}
-{218}{}{Nie ma problemu. Dobrze jest czasami zmoczyæ gwizdek lokalnej policji.}
-{219}{}{Jeszcze raz dziêki, burmistrzu. Pozwól, ¿e spytam ciê o coœ innego.}
-{220}{}{Dziêki, burmistrzu. Do zobaczenia.}
-{221}{}{Dzisiaj mo¿e i tak, ale nie zawsze ma takie szczêœcie. Muszê utrzymywaæ wysokie zyski. Jestem to winny moim pracownikom - no i trochê te¿ sobie, oczywiœcie.}
+{212}{}{Czemu nie? MoÅ¼esz siÄ™ spokojnie czuÄ‡ dobrze. WywalajÄ…c wdowÄ™ Rooney, pozwalasz mi na dalsze pÅ‚acenie pracownikom. JeÅ›li nie zapÅ‚aciÅ‚bym im, to ich rodziny musiaÅ‚yby gÅ‚odowaÄ‡. To dopiero nie jest w porzÄ…dku, nie?}
+{213}{}{No tak. Moja wizja tego byÅ‚a nieco inna. Ale nadal nie czujÄ™ siÄ™ zbyt dobrze.}
+{214}{}{Nie wyglÄ…dasz na takiego biedaka. W koÅ„cu zarabiasz kupÄ™ kasy na swoim kasynie.}
+{215}{}{Potrzeba silnej osobowoÅ›ci, by zrobiÄ‡ co trzeba, nawet jeÅ›li po tym ktoÅ› nie bÄ™dzie siÄ™ czuÅ‚ zbyt dobrze. UdaÅ‚o ci siÄ™ zrobiÄ‡ coÅ› bardzo trudnego, i to do tego dobrze. Masz piwo na koszt firmy!}
+{216}{}{DziÄ™ki, burmistrzu. To miÅ‚o z twojej strony.}
+{217}{}{Nie chcÄ™ z tobÄ… piÄ‡, ani teraz, ani kiedykolwiek. Do widzenia.}
+{218}{}{Nie ma problemu. Dobrze jest czasami zmoczyÄ‡ gwizdek lokalnej policji.}
+{219}{}{Jeszcze raz dziÄ™ki, burmistrzu. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{220}{}{DziÄ™ki, burmistrzu. Do zobaczenia.}
+{221}{}{Dzisiaj moÅ¼e i tak, ale nie zawsze ma takie szczÄ™Å›cie. MuszÄ™ utrzymywaÄ‡ wysokie zyski. Jestem to winny moim pracownikom - no i trochÄ™ teÅ¼ sobie, oczywiÅ›cie.}
 {222}{}{Brzmi sprawiedliwie.}
-{223}{}{Upad³eœ tak nisko, jak brzuch gekona! Mam tego doœæ. Do widzenia.}
-{224}{}{Chcê ci tylko jeszcze raz podziêkowaæ, ¿e zrobi³eœ to dla pani Rooney. W koñcu nie chcia³bym jej wyrzucaæ z domu.}
-{225}{}{Ale zrobi³byœ to. Pozwól, ¿e spytam ciê o coœ innego.}
-{226}{}{Mo¿na by³o przewidzieæ, ¿e tak powiesz. Do widzenia, burmistrzu.}
-{227}{}{Nie no, tym razem przesadzasz. Pani Rooney nie zagra¿a³a nikomu! Po co by³o j¹ zabijaæ?!?}
-{228}{}{Sama siê o to prosi³a.}
-{229}{}{To by³ wypadek.}
-{230}{}{Pros³a siê? Przecie¿ ona by³a tylko ma³¹, bezbronn¹ staruszk¹. Coœ ci odbi³o? Wynoœ siê!}
-{231}{}{Mówisz do mnie?}
-{232}{}{I tak ju¿ wychodzê z tego sza³asu. Do widzenia.}
-{233}{}{Wypadek? Nadal nie mog¹ znaleŸæ wszystkich czêœci jej cia³a. Lepiej, ¿eby takie wypadki wiêcej siê nie zdarza³y... Dzia³aj¹ Ÿle na biznes.}
-{234}{}{Rozumiem. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{235}{}{Nastêpnym razem bêdê uwa¿aæ.}
-{236}{}{Tak, mówiê do ciebie. Widzisz tu jeszcze kogoœ, do kogo móg³bym mówiæ? Spierdalaj z mojego baru.}
-{237}{}{Czy *ty* mówisz do *mnie*?}
-{238}{}{Ju¿ idê. Ju¿ idê...}
-{239}{}{Co? Niedos³yszysz, czy masz coœ z g³ow¹? Mówiê do ciebie! Wy-noœ-siê!}
-{240}{}{Musisz wiêc mówiæ do mnie, bo nie widzê w okolicy nikogo innego.}
-{241}{}{W porz¹dku. Ju¿ wychodzê. Nie denerwuj siê, bo dostaniesz wylewu! Do widzenia.}
-{242}{}{Czy wszyscy w twoim plemieniu s¹ tak g³upi? O tak. Chcesz tañczyæ? Dobra, zatañczymy. Stra¿nicy!}
-{243}{}{Mówisz do mnie... i nie podobaj¹ mi siê twoje slowa.}
-{244}{}{Hej, spokojnie... Ju¿ sobie idê.}
-{245}{}{S³ysza³em, ¿e pracujesz dla Earla Mariona jako zastêpca szeryfa, dopóki nie wyzdrowieje. Musisz wiêc mieæ rêce pe³ne roboty. Innej roboty dla ciebie raczej na razie nie znajdzie siê w mieœcie.}
-{246}{}{Aha. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu Ascorti.}
-{247}{}{Opowiedz mi o w³aœcicielach kopalni.}
-{248}{}{I tak dziêkujê, burmistrzu. Do widzenia.}
-{249}{}{S³ysza³em, ¿e robisz kawa³ dobrej roboty, pomagaj¹c szeryfowi Marionowi. W mieœcie jest doœæ cicho dziêki tobie. Nie wiem, co jeszcze móg³bym zleciæ tak utalentowanej osobie.}
-{250}{}{Dziêki, burmistrzu. Wiele dla mnie znacz¹ takie s³owa, gdy wychodz¹ od takiej osoby. Pozwól, ¿e spytam ciê o coœ innego.}
-{251}{}{Opowiedz mi o w³aœcicielach kopalni.}
-{252}{}{I tak dziêkujê, burmistrzu. Do widzenia.}
-{253}{}{O ile siê nie mylê, szeryf Earl Marion szuka zastêpcy, dopóki nie zagoi siê jego chora noga. Mo¿esz spróbowaæ z nim pogadaæ. Jego biuro jest parê metrów na po³udnie st¹d, po drugiej stronie ulicy.}
-{254}{}{Dziêki za poradê. Ale zanim tam pójdê, pozwól, ¿e spytam ciê o coœ innego.}
-{255}{}{Opowiedz mi o w³aœcicielach kopalni.}
-{256}{}{Mo¿e siê tym zainteresujê. Dziêki.}
-{257}{}{No, jest szeryf, no i s¹ te¿ w³aœciciele kopalni, którzy szukaj¹ jakiejœ czêœci do jednej z ich maszyn.}
+{223}{}{UpadÅ‚eÅ› tak nisko, jak brzuch gekona! Mam tego doÅ›Ä‡. Do widzenia.}
+{224}{}{ChcÄ™ ci tylko jeszcze raz podziÄ™kowaÄ‡, Å¼e zrobiÅ‚eÅ› to dla pani Rooney. W koÅ„cu nie chciaÅ‚bym jej wyrzucaÄ‡ z domu.}
+{225}{}{Ale zrobiÅ‚byÅ› to. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{226}{}{MoÅ¼na byÅ‚o przewidzieÄ‡, Å¼e tak powiesz. Do widzenia, burmistrzu.}
+{227}{}{Nie no, tym razem przesadzasz. Pani Rooney nie zagraÅ¼aÅ‚a nikomu! Po co byÅ‚o jÄ… zabijaÄ‡?!?}
+{228}{}{Sama siÄ™ o to prosiÅ‚a.}
+{229}{}{To byÅ‚ wypadek.}
+{230}{}{ProsÅ‚a siÄ™? PrzecieÅ¼ ona byÅ‚a tylko maÅ‚Ä…, bezbronnÄ… staruszkÄ…. CoÅ› ci odbiÅ‚o? WynoÅ› siÄ™!}
+{231}{}{MÃ³wisz do mnie?}
+{232}{}{I tak juÅ¼ wychodzÄ™ z tego szaÅ‚asu. Do widzenia.}
+{233}{}{Wypadek? Nadal nie mogÄ… znaleÅºÄ‡ wszystkich czÄ™Å›ci jej ciaÅ‚a. Lepiej, Å¼eby takie wypadki wiÄ™cej siÄ™ nie zdarzaÅ‚y... DziaÅ‚ajÄ… Åºle na biznes.}
+{234}{}{Rozumiem. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{235}{}{NastÄ™pnym razem bÄ™dÄ™ uwaÅ¼aÄ‡.}
+{236}{}{Tak, mÃ³wiÄ™ do ciebie. Widzisz tu jeszcze kogoÅ›, do kogo mÃ³gÅ‚bym mÃ³wiÄ‡? Spierdalaj z mojego baru.}
+{237}{}{Czy *ty* mÃ³wisz do *mnie*?}
+{238}{}{JuÅ¼ idÄ™. JuÅ¼ idÄ™...}
+{239}{}{Co? NiedosÅ‚yszysz, czy masz coÅ› z gÅ‚owÄ…? MÃ³wiÄ™ do ciebie! Wy-noÅ›-siÄ™!}
+{240}{}{Musisz wiÄ™c mÃ³wiÄ‡ do mnie, bo nie widzÄ™ w okolicy nikogo innego.}
+{241}{}{W porzÄ…dku. JuÅ¼ wychodzÄ™. Nie denerwuj siÄ™, bo dostaniesz wylewu! Do widzenia.}
+{242}{}{Czy wszyscy w twoim plemieniu sÄ… tak gÅ‚upi? O tak. Chcesz taÅ„czyÄ‡? Dobra, zataÅ„czymy. StraÅ¼nicy!}
+{243}{}{MÃ³wisz do mnie... i nie podobajÄ… mi siÄ™ twoje slowa.}
+{244}{}{Hej, spokojnie... JuÅ¼ sobie idÄ™.}
+{245}{}{SÅ‚yszaÅ‚em, Å¼e pracujesz dla Earla Mariona jako zastÄ™pca szeryfa, dopÃ³ki nie wyzdrowieje. Musisz wiÄ™c mieÄ‡ rÄ™ce peÅ‚ne roboty. Innej roboty dla ciebie raczej na razie nie znajdzie siÄ™ w mieÅ›cie.}
+{246}{}{Aha. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu Ascorti.}
+{247}{}{Opowiedz mi o wÅ‚aÅ›cicielach kopalni.}
+{248}{}{I tak dziÄ™kujÄ™, burmistrzu. Do widzenia.}
+{249}{}{SÅ‚yszaÅ‚em, Å¼e robisz kawaÅ‚ dobrej roboty, pomagajÄ…c szeryfowi Marionowi. W mieÅ›cie jest doÅ›Ä‡ cicho dziÄ™ki tobie. Nie wiem, co jeszcze mÃ³gÅ‚bym zleciÄ‡ tak utalentowanej osobie.}
+{250}{}{DziÄ™ki, burmistrzu. Wiele dla mnie znaczÄ… takie sÅ‚owa, gdy wychodzÄ… od takiej osoby. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{251}{}{Opowiedz mi o wÅ‚aÅ›cicielach kopalni.}
+{252}{}{I tak dziÄ™kujÄ™, burmistrzu. Do widzenia.}
+{253}{}{O ile siÄ™ nie mylÄ™, szeryf Earl Marion szuka zastÄ™pcy, dopÃ³ki nie zagoi siÄ™ jego chora noga. MoÅ¼esz sprÃ³bowaÄ‡ z nim pogadaÄ‡. Jego biuro jest parÄ™ metrÃ³w na poÅ‚udnie stÄ…d, po drugiej stronie ulicy.}
+{254}{}{DziÄ™ki za poradÄ™. Ale zanim tam pÃ³jdÄ™, pozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{255}{}{Opowiedz mi o wÅ‚aÅ›cicielach kopalni.}
+{256}{}{MoÅ¼e siÄ™ tym zainteresujÄ™. DziÄ™ki.}
+{257}{}{No, jest szeryf, no i sÄ… teÅ¼ wÅ‚aÅ›ciciele kopalni, ktÃ³rzy szukajÄ… jakiejÅ› czÄ™Å›ci do jednej z ich maszyn.}
 {258}{}{Co z tym szeryfem?}
-{259}{}{Co z tymi w³aœcicielami kopalni?}
-{260}{}{Interesuj¹ce. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{261}{}{Mo¿e siê trochê porozgl¹dam. Dziêkujê i do widzenia.}
-{262}{}{No tak. S³ysza³em, ¿e ju¿ uda³o ci siê zdobyæ ten chip dla jednego z nich.}
+{259}{}{Co z tymi wÅ‚aÅ›cicielami kopalni?}
+{260}{}{InteresujÄ…ce. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{261}{}{MoÅ¼e siÄ™ trochÄ™ porozglÄ…dam. DziÄ™kujÄ™ i do widzenia.}
+{262}{}{No tak. SÅ‚yszaÅ‚em, Å¼e juÅ¼ udaÅ‚o ci siÄ™ zdobyÄ‡ ten chip dla jednego z nich.}
 {263}{}{A co w takim razie z szeryfem?}
-{264}{}{No tak, to moja robota. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{265}{}{Aha, zdawa³o mi siê, ¿e mo¿e chodzi o coœ nowego. Do widzenia.}
-{266}{}{Nie bardzo wiem, o co chodzi. Musisz pogadaæ albo z Niebezpiecznym Danem McGrew w kopalni Morningstar, albo z Marge LeBarge w kopalni Kokoweef. Obie kopalnie s¹ na pó³noc od œrodmieœcia, Po drugiej stronie cmentarza.}
-{267}{}{Dziêki. A co z szeryfem?}
-{268}{}{Dziêki. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{269}{}{W takim razie pójdê tam i pogadam z nimi. Dziêki, burmistrzu. Do widzenia.}
-{270}{}{Ostatnio nasze transporty z³ota zaczê³y trochê siê zmniejszaæ, poniewa¿ górnicy spêdzaj¹ zbyt du¿o czasu lataj¹c na Jecie.}
-{271}{}{Prawie wszyscy górnicy lataj¹ na Jecie zamiast wydobywaæ z³oto... tak wiêc nasze ceny id¹ w górê, a eksport spada. To bardzo niedobrze dla biznesu.}
-{272}{}{Ka¿dy zbyt wysoko lata na Jecie, by móc dobrze pracowaæ. Nie wyrabiamy nawet jednej dziesi¹tej normy i musieliœmy przez to bardzo podnieœæ cenê z³ota. Tak nie mo¿e byæ!}
-{273}{}{Wygl¹da na to, ¿e ka¿dy trafi³ na jak¹œ trefn¹ dzia³kê jetu. Wszyscy Jetowi d¿okeje przechodz¹ jakiœ masowy detoks. Zapewne coœ by³o z nimi nie tak. Nie bardzo wiem, co siê sta³o, ale jestem pewien, ¿e wyjdzie im to na dobre.}
-{274}{}{Wszystko ju¿ prawie wróci³o do normy. Ka¿dy, kto rozchorowa³ siê po Jecie, przeszed³ ju¿ najgorsze i raczej wiêcej ju¿ go nie weŸmie. Nasza produkcja i transport wróci³y te¿ do normy. Wygl¹da na to, ¿e najgorsze mamy za sob¹.}
-{275}{}{Hmm. Interesuj¹ce. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu Ascorti.}
-{276}{}{Aha. Dziêki za informacje, burmistrzu. Do widzenia.}
-{277}{}{Generator Ekosystemu Cudownej Krainy? Chyba w³aœnie z tego zrobili Kryptopolis. Wszystkie krypty mia³y mieæ coœ takiego, ale teraz nie ma ich ju¿ nigdzie w okolicy.}
-{278}{}{Szkoda. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
-{279}{}{W takim razie muszê nadal szukaæ. Dziêki, burmistrzu Ascorti.}
+{264}{}{No tak, to moja robota. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{265}{}{Aha, zdawaÅ‚o mi siÄ™, Å¼e moÅ¼e chodzi o coÅ› nowego. Do widzenia.}
+{266}{}{Nie bardzo wiem, o co chodzi. Musisz pogadaÄ‡ albo z Niebezpiecznym Danem McGrew w kopalni Morningstar, albo z Marge LeBarge w kopalni Kokoweef. Obie kopalnie sÄ… na pÃ³Å‚noc od Å›rodmieÅ›cia, Po drugiej stronie cmentarza.}
+{267}{}{DziÄ™ki. A co z szeryfem?}
+{268}{}{DziÄ™ki. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{269}{}{W takim razie pÃ³jdÄ™ tam i pogadam z nimi. DziÄ™ki, burmistrzu. Do widzenia.}
+{270}{}{Ostatnio nasze transporty zÅ‚ota zaczÄ™Å‚y trochÄ™ siÄ™ zmniejszaÄ‡, poniewaÅ¼ gÃ³rnicy spÄ™dzajÄ… zbyt duÅ¼o czasu latajÄ…c na Jecie.}
+{271}{}{Prawie wszyscy gÃ³rnicy latajÄ… na Jecie zamiast wydobywaÄ‡ zÅ‚oto... tak wiÄ™c nasze ceny idÄ… w gÃ³rÄ™, a eksport spada. To bardzo niedobrze dla biznesu.}
+{272}{}{KaÅ¼dy zbyt wysoko lata na Jecie, by mÃ³c dobrze pracowaÄ‡. Nie wyrabiamy nawet jednej dziesiÄ…tej normy i musieliÅ›my przez to bardzo podnieÅ›Ä‡ cenÄ™ zÅ‚ota. Tak nie moÅ¼e byÄ‡!}
+{273}{}{WyglÄ…da na to, Å¼e kaÅ¼dy trafiÅ‚ na jakÄ…Å› trefnÄ… dziaÅ‚kÄ™ jetu. Wszyscy Jetowi dÅ¼okeje przechodzÄ… jakiÅ› masowy detoks. Zapewne coÅ› byÅ‚o z nimi nie tak. Nie bardzo wiem, co siÄ™ staÅ‚o, ale jestem pewien, Å¼e wyjdzie im to na dobre.}
+{274}{}{Wszystko juÅ¼ prawie wrÃ³ciÅ‚o do normy. KaÅ¼dy, kto rozchorowaÅ‚ siÄ™ po Jecie, przeszedÅ‚ juÅ¼ najgorsze i raczej wiÄ™cej juÅ¼ go nie weÅºmie. Nasza produkcja i transport wrÃ³ciÅ‚y teÅ¼ do normy. WyglÄ…da na to, Å¼e najgorsze mamy za sobÄ….}
+{275}{}{Hmm. InteresujÄ…ce. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu Ascorti.}
+{276}{}{Aha. DziÄ™ki za informacje, burmistrzu. Do widzenia.}
+{277}{}{Generator Ekosystemu Cudownej Krainy? Chyba wÅ‚aÅ›nie z tego zrobili Kryptopolis. Wszystkie krypty miaÅ‚y mieÄ‡ coÅ› takiego, ale teraz nie ma ich juÅ¼ nigdzie w okolicy.}
+{278}{}{Szkoda. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, burmistrzu.}
+{279}{}{W takim razie muszÄ™ nadal szukaÄ‡. DziÄ™ki, burmistrzu Ascorti.}

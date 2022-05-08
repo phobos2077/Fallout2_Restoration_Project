@@ -1,124 +1,124 @@
-{100}{}{Ez itt egy punk srác mosolynak is nevezhet? arckifejezéssel.}
+{100}{}{Ez itt egy punk srÃ¡c mosolynak is nevezhet? arckifejezÃ©ssel.}
 {101}{}{? Borz.}
-{102}{}{Ez itt egy punk srác, arcán olyasféle arckifejezéssel, amit akár kaján mosolynak is nevezhetnénk.}
-{103}{}{::Hangosan böfög::: Mit akarsz?}
-{104}{}{::Böfögsz::}
+{102}{}{Ez itt egy punk srÃ¡c, arcÃ¡n olyasfÃ©le arckifejezÃ©ssel, amit akÃ¡r kajÃ¡n mosolynak is nevezhetnÃ©nk.}
+{103}{}{::Hangosan bÃ¶fÃ¶g::: Mit akarsz?}
+{104}{}{::BÃ¶fÃ¶gsz::}
 {105}{}{Te ki lenni?}
 {106}{}{Ki vagy te?}
-{107}{}{Tudnál mondani valamit err?l a tankerr?l!}
-{108}{}{Mi a munkád?}
-{109}{}{Szeretném, ha meghekkelnéd nekem a számítógépet.}
-{110}{}{Hogy halad a hekkelés?}
-{111}{}{Semmit. Jó büfizést!}
-{112}{}{::Megereszt egy újabb öblös büffentést::}
-{113}{}{::Még hangosabban büfögsz::}
-{114}{}{Picsába.}
-{115}{}{::Olyan éktelen nagyot büfög, hogy égzengésnek is beillene::}
+{107}{}{TudnÃ¡l mondani valamit err?l a tankerr?l!}
+{108}{}{Mi a munkÃ¡d?}
+{109}{}{SzeretnÃ©m, ha meghekkelnÃ©d nekem a szÃ¡mÃ­tÃ³gÃ©pet.}
+{110}{}{Hogy halad a hekkelÃ©s?}
+{111}{}{Semmit. JÃ³ bÃ¼fizÃ©st!}
+{112}{}{::Megereszt egy Ãºjabb Ã¶blÃ¶s bÃ¼ffentÃ©st::}
+{113}{}{::MÃ©g hangosabban bÃ¼fÃ¶gsz::}
+{114}{}{PicsÃ¡ba.}
+{115}{}{::Olyan Ã©ktelen nagyot bÃ¼fÃ¶g, hogy Ã©gzengÃ©snek is beillene::}
 {116}{}{::Megtapsolod::}
-{117}{}{Borz vagyok. Volt egy zenekarom... ::felsóhajt:: Az volt a nevünk, hogy "Elégtünk". Most én vagyok az ügyeletes számítógép buherátor San Franban.}
-{118}{}{Ah, köszi!}
-{119}{}{Miket tudsz varázsolni a számítógéppel?}
-{120}{}{Gondolom befuccsoltatok a bandával.}
-{121}{}{Jó volt az a zenekar?}
-{122}{}{Kösz. Viszlát!}
-{123}{}{Ööö... oké.}
-{124}{}{Üdv!}
-{125}{}{Ezügyben beszélj Marc-kal vagy a Kapitánnyal!}
-{126}{}{Hol találom Marcot?}
-{127}{}{Hol találom a Kapitányt?}
-{128}{}{Én vagyok a helyi számítógép-zseni.}
-{129}{}{Miket tudsz varázsolni a számítógéppel?}
-{130}{}{Kösz. Viszlát!}
-{131}{}{Ne basztass már... ::Fingik egyet:: Dolgozom rajta, ha nem látnád!}
-{132}{}{Jól van, jól van. Majd szólj, ha kész van!}
-{133}{}{Hát mondjuk úgy, hogy én egy információszerz? specialista vagyok.}
-{134}{}{Tudnál nekem is szerezni dolgokat?}
+{117}{}{Borz vagyok. Volt egy zenekarom... ::felsÃ³hajt:: Az volt a nevÃ¼nk, hogy "ElÃ©gtÃ¼nk". Most Ã©n vagyok az Ã¼gyeletes szÃ¡mÃ­tÃ³gÃ©p buherÃ¡tor San Franban.}
+{118}{}{Ah, kÃ¶szi!}
+{119}{}{Miket tudsz varÃ¡zsolni a szÃ¡mÃ­tÃ³gÃ©ppel?}
+{120}{}{Gondolom befuccsoltatok a bandÃ¡val.}
+{121}{}{JÃ³ volt az a zenekar?}
+{122}{}{KÃ¶sz. ViszlÃ¡t!}
+{123}{}{Ã–Ã¶Ã¶... okÃ©.}
+{124}{}{Ãœdv!}
+{125}{}{EzÃ¼gyben beszÃ©lj Marc-kal vagy a KapitÃ¡nnyal!}
+{126}{}{Hol talÃ¡lom Marcot?}
+{127}{}{Hol talÃ¡lom a KapitÃ¡nyt?}
+{128}{}{Ã‰n vagyok a helyi szÃ¡mÃ­tÃ³gÃ©p-zseni.}
+{129}{}{Miket tudsz varÃ¡zsolni a szÃ¡mÃ­tÃ³gÃ©ppel?}
+{130}{}{KÃ¶sz. ViszlÃ¡t!}
+{131}{}{Ne basztass mÃ¡r... ::Fingik egyet:: Dolgozom rajta, ha nem lÃ¡tnÃ¡d!}
+{132}{}{JÃ³l van, jÃ³l van. Majd szÃ³lj, ha kÃ©sz van!}
+{133}{}{HÃ¡t mondjuk Ãºgy, hogy Ã©n egy informÃ¡ciÃ³szerz? specialista vagyok.}
+{134}{}{TudnÃ¡l nekem is szerezni dolgokat?}
 {135}{}{Hova akarsz kilyukadni?}
-{136}{}{Hát akkor baszódj meg!}
-{137}{}{Hé!}
-{138}{}{Baszódj meg te!}
-{139}{}{Hát jobb, ha tudod, hogy királyok voltunk! Az énekesünk... ööö... egy kicsit ripacs volt, Aaron folyton problémázott, minden egyebet meg Todd szúrt el. Ennek ellenére jók voltunk.}
-{140}{}{Kár, hogy már nem játszotok együtt. Szívesen meghallgattalak volna titeket.}
-{141}{}{Öö. Hogyne. Hadd kérdezzek valamit.}
+{136}{}{HÃ¡t akkor baszÃ³dj meg!}
+{137}{}{HÃ©!}
+{138}{}{BaszÃ³dj meg te!}
+{139}{}{HÃ¡t jobb, ha tudod, hogy kirÃ¡lyok voltunk! Az Ã©nekesÃ¼nk... Ã¶Ã¶Ã¶... egy kicsit ripacs volt, Aaron folyton problÃ©mÃ¡zott, minden egyebet meg Todd szÃºrt el. Ennek ellenÃ©re jÃ³k voltunk.}
+{140}{}{KÃ¡r, hogy mÃ¡r nem jÃ¡tszotok egyÃ¼tt. SzÃ­vesen meghallgattalak volna titeket.}
+{141}{}{Ã–Ã¶. Hogyne. Hadd kÃ©rdezzek valamit.}
 {142}{}{Fogadjunk, befuccsoltatok.}
-{143}{}{Marc rendszerint lenn a bárban múlatja az id?t.}
-{144}{}{Köszi. Hadd kérdezzek egy s mást!}
-{145}{}{Köszi. Ez minden.}
-{146}{}{A Kapitány általában a hídon tartózkodik. A bárból feljuthatsz a lépcs?n.}
-{147}{}{Köszi. Hadd kérdezzek egy s mást!}
-{148}{}{Köszi. Ez minden.}
-{149}{}{Oké, de ezért a zsebedbe kell nyúlnod.}
-{150}{}{Mennyit kérsz?}
+{143}{}{Marc rendszerint lenn a bÃ¡rban mÃºlatja az id?t.}
+{144}{}{KÃ¶szi. Hadd kÃ©rdezzek egy s mÃ¡st!}
+{145}{}{KÃ¶szi. Ez minden.}
+{146}{}{A KapitÃ¡ny Ã¡ltalÃ¡ban a hÃ­don tartÃ³zkodik. A bÃ¡rbÃ³l feljuthatsz a lÃ©pcs?n.}
+{147}{}{KÃ¶szi. Hadd kÃ©rdezzek egy s mÃ¡st!}
+{148}{}{KÃ¶szi. Ez minden.}
+{149}{}{OkÃ©, de ezÃ©rt a zsebedbe kell nyÃºlnod.}
+{150}{}{Mennyit kÃ©rsz?}
 {151}{}{Igen, hogyne... de most mennem kell.}
-{152}{}{Ez azt jelenti, hogy ha adatokat akarsz felkutatni, én vagyok a te embered.}
-{153}{}{Megtennél nekem valamit?}
-{154}{}{Értem. Ez király. Még kérdeznék valamit, ha nem zavar.}
-{155}{}{Értem. Köszi.}
-{156}{}{Igen, kéne. Egyébként vissza kell térnem ehhez a vacakhoz.}
-{157}{}{Várj! Még akarok kérdezni valamit.}
-{158}{}{Kösz. Viszlát!}
+{152}{}{Ez azt jelenti, hogy ha adatokat akarsz felkutatni, Ã©n vagyok a te embered.}
+{153}{}{MegtennÃ©l nekem valamit?}
+{154}{}{Ã‰rtem. Ez kirÃ¡ly. MÃ©g kÃ©rdeznÃ©k valamit, ha nem zavar.}
+{155}{}{Ã‰rtem. KÃ¶szi.}
+{156}{}{Igen, kÃ©ne. EgyÃ©bkÃ©nt vissza kell tÃ©rnem ehhez a vacakhoz.}
+{157}{}{VÃ¡rj! MÃ©g akarok kÃ©rdezni valamit.}
+{158}{}{KÃ¶sz. ViszlÃ¡t!}
 {159}{}{I think I like you enough that I can do it for you now. Who do you want me to visit?}
-{160}{}{A Hubologistákhoz.}
+{160}{}{A HubologistÃ¡khoz.}
 {161}{}{A Shikhez.}
-{162}{}{Egyikhez sem. Csak tájékozódom.}
-{163}{}{Asszem, amiért megmentetted a csajomat, ingyen megcsinálom. Persze eltart majd egy darabig. Hova törjek be neked?}
-{164}{}{A Hubologistákhoz.}
+{162}{}{Egyikhez sem. Csak tÃ¡jÃ©kozÃ³dom.}
+{163}{}{Asszem, amiÃ©rt megmentetted a csajomat, ingyen megcsinÃ¡lom. Persze eltart majd egy darabig. Hova tÃ¶rjek be neked?}
+{164}{}{A HubologistÃ¡khoz.}
 {165}{}{A Shikhez.}
-{166}{}{Egyikhez sem. Csak tájékozódom.}
-{167}{}{El?ször is tégy nekem egy szívességet! A barátn?mnek nyoma veszett a tankerben. Találd meg nekem és akkor megcsinálom.}
-{168}{}{Megegyeztünk. Üdv!}
-{169}{}{Ne is álmodj róla! Üdv!}
-{170}{}{Ez olyan, mint cukorkát lopni egy kisgyerekt?l. Sosem fognak megtalálni. Mit akarsz t?lük?}
-{171}{}{Nagyszer?! Kérdeznék még ezt-azt, ha nem probléma.}
-{172}{}{Nagyszer?! Kés?bb visszajövök.}
+{166}{}{Egyikhez sem. Csak tÃ¡jÃ©kozÃ³dom.}
+{167}{}{El?szÃ¶r is tÃ©gy nekem egy szÃ­vessÃ©get! A barÃ¡tn?mnek nyoma veszett a tankerben. TalÃ¡ld meg nekem Ã©s akkor megcsinÃ¡lom.}
+{168}{}{MegegyeztÃ¼nk. Ãœdv!}
+{169}{}{Ne is Ã¡lmodj rÃ³la! Ãœdv!}
+{170}{}{Ez olyan, mint cukorkÃ¡t lopni egy kisgyerekt?l. Sosem fognak megtalÃ¡lni. Mit akarsz t?lÃ¼k?}
+{171}{}{Nagyszer?! KÃ©rdeznÃ©k mÃ©g ezt-azt, ha nem problÃ©ma.}
+{172}{}{Nagyszer?! KÃ©s?bb visszajÃ¶vÃ¶k.}
 {173}{}{I can get them. They're pretty protective of their info, and they've got some serious ice protecting their machines. Are you sure you want me to go after them?}
-{174}{}{Akkor jó szerencsét! Ellenben kérdeznék egy-két dolgot.}
-{175}{}{Jó szerencsét! Kés?bb visszajövök.}
-{176}{}{Találd meg nekem a barátn?met és akkor majd beszélgethetünk.}
+{174}{}{Akkor jÃ³ szerencsÃ©t! Ellenben kÃ©rdeznÃ©k egy-kÃ©t dolgot.}
+{175}{}{JÃ³ szerencsÃ©t! KÃ©s?bb visszajÃ¶vÃ¶k.}
+{176}{}{TalÃ¡ld meg nekem a barÃ¡tn?met Ã©s akkor majd beszÃ©lgethetÃ¼nk.}
 {177}{}{Rendben, rendben.}
 {178}{}{She's dead? She's DEAD? How did she die? No, wait... don't tell me. Give me a few hours to get myself together.}
 {179}{}{Hogyne, hogyne.}
-{180}{}{Ne durcáskodj már, öcsém! Csomó dolgunk van, vazze!}
-{181}{}{Rendben. Már jobban vagyok.}
-{182}{}{Jó. Meg kell, hogy kérdezzek valamit.}
-{183}{}{Na, tessék. Én nem akartam veled beszélni.}
-{184}{}{Köszönöm, köszönöm, köszönöm. Nem tudom eléggé megköszönni, hogy megmentetted ?t. Miben segíthetek?}
-{185}{}{Volna néhány kérdésem.}
-{186}{}{A hálád elég nekem. Viszlát!}
-{187}{}{Oké, behatoltam a Shi számítógépekbe. Nem tudom, észrevettek-e. Szerintem most a legjobb az lesz, ha meghúzzuk magunkat. Egyéb teend??}
+{180}{}{Ne durcÃ¡skodj mÃ¡r, Ã¶csÃ©m! CsomÃ³ dolgunk van, vazze!}
+{181}{}{Rendben. MÃ¡r jobban vagyok.}
+{182}{}{JÃ³. Meg kell, hogy kÃ©rdezzek valamit.}
+{183}{}{Na, tessÃ©k. Ã‰n nem akartam veled beszÃ©lni.}
+{184}{}{KÃ¶szÃ¶nÃ¶m, kÃ¶szÃ¶nÃ¶m, kÃ¶szÃ¶nÃ¶m. Nem tudom elÃ©ggÃ© megkÃ¶szÃ¶nni, hogy megmentetted ?t. Miben segÃ­thetek?}
+{185}{}{Volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{186}{}{A hÃ¡lÃ¡d elÃ©g nekem. ViszlÃ¡t!}
+{187}{}{OkÃ©, behatoltam a Shi szÃ¡mÃ­tÃ³gÃ©pekbe. Nem tudom, Ã©szrevettek-e. Szerintem most a legjobb az lesz, ha meghÃºzzuk magunkat. EgyÃ©b teend??}
 {188}{}{Igen.}
-{189}{}{Nem kell. Üdv!}
-{190}{}{Megfogtam a Hubologistákat. Nem ügy. Segíthetek bármi egyébben?}
+{189}{}{Nem kell. Ãœdv!}
+{190}{}{Megfogtam a HubologistÃ¡kat. Nem Ã¼gy. SegÃ­thetek bÃ¡rmi egyÃ©bben?}
 {191}{}{Igen.}
-{192}{}{Nem kell. Üdv!}
+{192}{}{Nem kell. Ãœdv!}
 {193}{}{You just made a big mistake, pal. I just turned the Shi against you through their computers. You're finished in San Francisco. }
-{194}{}{Hát, akkor asszem, most megöllek.}
-{195}{}{Adj néhány órát, hogy összeszedhessem magam!}
-{196}{}{Egy formázott számítógépbe hatoljak be? Az információnak már annyi. Rá nem veszel erre.}
+{194}{}{HÃ¡t, akkor asszem, most megÃ¶llek.}
+{195}{}{Adj nÃ©hÃ¡ny Ã³rÃ¡t, hogy Ã¶sszeszedhessem magam!}
+{196}{}{Egy formÃ¡zott szÃ¡mÃ­tÃ³gÃ©pbe hatoljak be? Az informÃ¡ciÃ³nak mÃ¡r annyi. RÃ¡ nem veszel erre.}
 {197}{}{Elhagyom ezt a helyet.}
-{198}{}{Jó, hogy látlak.}
-{199}{}{Üzemanyag után hajkurászok.}
-{200}{}{Úgy hallottam, a Hubologistáknak van üzemanyaguk, esetlek ránézhetek a számítógépükre.}
+{198}{}{JÃ³, hogy lÃ¡tlak.}
+{199}{}{Ãœzemanyag utÃ¡n hajkurÃ¡szok.}
+{200}{}{Ãšgy hallottam, a HubologistÃ¡knak van Ã¼zemanyaguk, esetlek rÃ¡nÃ©zhetek a szÃ¡mÃ­tÃ³gÃ©pÃ¼kre.}
 {201}{}{The Shi have all the fuel around here. I could take a gander at their mainframe for you.}
-{202}{}{Megtennéd?}
-{203}{}{Mi a fenét akarsz?}
+{202}{}{MegtennÃ©d?}
+{203}{}{Mi a fenÃ©t akarsz?}
 {204}{}{Borzot, a punk-ot, szerintem.}
-{205}{}{Megszégyenítetted az Uralkodónkat!}
-{206}{}{Asszem, megyek cukorkáért Lao Chouhoz a városba.}
-{207}{}{Ennyit a tisztességes tárgyalásról. Hmmm...}
-{208}{}{Haver, fogd vissza magad! Én csak egy kis cukorkát szerettem volna.}
-{209}{}{Át tudnád irányítani az üzemanyagot az ?rhajóból a tankerbe?}
-{210}{}{Tudnál szerezni egy példányt a gépmadár terveib?l?}
-{211}{}{Át tudnád irányítani az üzemanyagot és mellé meg tudod szerezni nekem a terveket?}
-{212}{}{Igen, szükségem van a dolgaikra.}
+{205}{}{MegszÃ©gyenÃ­tetted az UralkodÃ³nkat!}
+{206}{}{Asszem, megyek cukorkÃ¡Ã©rt Lao Chouhoz a vÃ¡rosba.}
+{207}{}{Ennyit a tisztessÃ©ges tÃ¡rgyalÃ¡srÃ³l. Hmmm...}
+{208}{}{Haver, fogd vissza magad! Ã‰n csak egy kis cukorkÃ¡t szerettem volna.}
+{209}{}{Ãt tudnÃ¡d irÃ¡nyÃ­tani az Ã¼zemanyagot az ?rhajÃ³bÃ³l a tankerbe?}
+{210}{}{TudnÃ¡l szerezni egy pÃ©ldÃ¡nyt a gÃ©pmadÃ¡r terveib?l?}
+{211}{}{Ãt tudnÃ¡d irÃ¡nyÃ­tani az Ã¼zemanyagot Ã©s mellÃ© meg tudod szerezni nekem a terveket?}
+{212}{}{Igen, szÃ¼ksÃ©gem van a dolgaikra.}
 {213}{}{Na, mindegy, majd valahogy megoldom.}
-{214}{}{Jó-jó, de szar kerülhet a palacsintába.}
-{215}{}{Át tudnád irányítani az üzemanyagot a tartályokból a tankerbe?}
-{216}{}{Na, sebaj, majd máshogy megoldom.}
-{217}{}{Értem.}
+{214}{}{JÃ³-jÃ³, de szar kerÃ¼lhet a palacsintÃ¡ba.}
+{215}{}{Ãt tudnÃ¡d irÃ¡nyÃ­tani az Ã¼zemanyagot a tartÃ¡lyokbÃ³l a tankerbe?}
+{216}{}{Na, sebaj, majd mÃ¡shogy megoldom.}
+{217}{}{Ã‰rtem.}
 {218}{}{Alright. Check back with me in a day or so and I'll let you know.}
-{219}{}{Megszerezted, amit kértem?}
-{220}{}{Igen, megvan az üzemanyag.}
-{221}{}{Igen, megvan a gépmadár terve.}
-{222}{}{Igen, megvannak a tervek meg az üzemanyag is.}
-{223}{}{Nagyon szépen köszönöm. Még látjuk egymást.}
+{219}{}{Megszerezted, amit kÃ©rtem?}
+{220}{}{Igen, megvan az Ã¼zemanyag.}
+{221}{}{Igen, megvan a gÃ©pmadÃ¡r terve.}
+{222}{}{Igen, megvannak a tervek meg az Ã¼zemanyag is.}
+{223}{}{Nagyon szÃ©pen kÃ¶szÃ¶nÃ¶m. MÃ©g lÃ¡tjuk egymÃ¡st.}

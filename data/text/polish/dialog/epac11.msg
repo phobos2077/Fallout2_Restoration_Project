@@ -1,98 +1,98 @@
-{100}{}{Widzisz sier¿anta Kota Julesa.}
-{101}{}{Widzisz dobrze wygl¹daj¹cego czarnego mê¿czyznê o ostrych rysach twarzy. Porusza siê dumnie, z ci¹g³ym wyrazem zadowolenia na twarzy.}
-{200}{}{[Podchodz¹c do komory kriogenicznej, widzisz smuk³ego, nagiego, czarnego mê¿czyznê skulonego na pod³odze.
- Jego muskularne cia³o wci¹¿ dr¿y od lodowato zimnej wody. Kiedy podchodzisz do niego zwraca siê w twoja stronê.]}
-{201}{}{Kim jesteœ?}
-{210}{}{[Wstaje i otrz¹sa siê z wody jak dzikie zwierze, mê¿czyzna patrzy na ciebie i siê uœmiecha, ods³aniaj¹c dziwnie zaostrzone przednie zêby.]
- Kim ja jestem? Kim ty jesteœ? Wygl¹dasz jak w³óczêga, ciê¿ko uzbrojony w³óczêga!}
-{211}{}{[Wstaje i otrz¹sa siê z wody jak dzikie zewrze, mê¿czyzna patrzy na ciebie i siê uœmiecha, ods³aniaj¹c dziwnie zaostrzone przednie zêby.]
- Kim ja jestem. Jestem sier¿ant Jules, najlepiej wygl¹daj¹cy ¿o³nierz w tej bazie, piêkna!}
+{100}{}{Widzisz sierÅ¼anta Kota Julesa.}
+{101}{}{Widzisz dobrze wyglÄ…dajÄ…cego czarnego mÄ™Å¼czyznÄ™ o ostrych rysach twarzy. Porusza siÄ™ dumnie, z ciÄ…gÅ‚ym wyrazem zadowolenia na twarzy.}
+{200}{}{[PodchodzÄ…c do komory kriogenicznej, widzisz smukÅ‚ego, nagiego, czarnego mÄ™Å¼czyznÄ™ skulonego na podÅ‚odze.
+ Jego muskularne ciaÅ‚o wciÄ…Å¼ drÅ¼y od lodowato zimnej wody. Kiedy podchodzisz do niego zwraca siÄ™ w twoja stronÄ™.]}
+{201}{}{Kim jesteÅ›?}
+{210}{}{[Wstaje i otrzÄ…sa siÄ™ z wody jak dzikie zwierze, mÄ™Å¼czyzna patrzy na ciebie i siÄ™ uÅ›miecha, odsÅ‚aniajÄ…c dziwnie zaostrzone przednie zÄ™by.]
+ Kim ja jestem? Kim ty jesteÅ›? WyglÄ…dasz jak wÅ‚Ã³czÄ™ga, ciÄ™Å¼ko uzbrojony wÅ‚Ã³czÄ™ga!}
+{211}{}{[Wstaje i otrzÄ…sa siÄ™ z wody jak dzikie zewrze, mÄ™Å¼czyzna patrzy na ciebie i siÄ™ uÅ›miecha, odsÅ‚aniajÄ…c dziwnie zaostrzone przednie zÄ™by.]
+ Kim ja jestem. Jestem sierÅ¼ant Jules, najlepiej wyglÄ…dajÄ…cy Å¼oÅ‚nierz w tej bazie, piÄ™kna!}
 {212}{}{Jestem }
-{213}{}{. A, jak ty masz na imiê?}
-{214}{}{Nie b¹dŸ taki zarozumia³y. A tak w ogóle co to za miejsce?}
-{215}{}{Rozumiem. Có¿, sier¿ancie Jules, co tu siê dzieje?}
-{216}{}{Jakim cudem ¿yjesz? Doktor mówi³, ¿e jest jedynym ocala³ym.}
-{220}{}{Jestem sier¿ant Jules, ale mo¿esz nazywaæ mnie Kot. Jestem najszybszym i najlepiej wygl¹daj¹cym ¿o³nierzem w tej bazie.}
-{221}{}{Ta, jasne, cokolwiek powiesz. Mów lepiej co wiesz o tym miejscu?}
-{230}{}{Masz na myœli Doktora C? Jak móg³ o mnie zapomnieæ? Cholera, sam pomaga³ stworzyæ to dzie³o sztuki. [Pokazuje na swoje cia³o.]}
-{231}{}{Ta, jasne, cokolwiek powiesz. Mów lepiej co wiesz o tym miejscu?}
-{232}{}{Pewnie chodzi o innego Doktora. Wiêc, co siê tutaj dzieje?}
-{240}{}{Z tego co wiem, to jakaœ placówka rz¹dowa. Robi¹ wszelkiego rodzaju tajne eksperymenty. Ale...[Rozgl¹da siê po pokoju.] strasznie tu cicho. Gdzie s¹ wszyscy?}
-{241}{}{Mo¿e to byæ dla ciebie szok, ale by³eœ zamro¿ony przez ponad wiek. Œwiat nie jest ju¿ taki jakim go pamiêtasz. Spad³y bomby i Ziemia ucich³a. Spo³eczeñstwo ci¹gle stara siê odbudowaæ z popio³ów.}
-{250}{}{[Sier¿ant Jules patrzy na ciebie z podniesion¹ brwi¹.] Mówisz serio? Czyli jednak to zrobili. Cholera. Chyba mia³em szczêœcie, ¿e przenieœli mnie z wojska tutaj.}
-{251}{}{Wiêc by³eœ w wojsku?}
-{260}{}{Ta. By³em ekspertem od broni energetycznej. Jestem te¿ ca³kiem zwinny. W wojsku by³em ledwie rok, kiedy przeniesiono mnie tutaj. Szkoda, ¿e nie zobaczê ju¿ nigdy moich przyjació³. Chcia³bym siê po¿egnaæ.}
+{213}{}{. A, jak ty masz na imiÄ™?}
+{214}{}{Nie bÄ…dÅº taki zarozumiaÅ‚y. A tak w ogÃ³le co to za miejsce?}
+{215}{}{Rozumiem. CÃ³Å¼, sierÅ¼ancie Jules, co tu siÄ™ dzieje?}
+{216}{}{Jakim cudem Å¼yjesz? Doktor mÃ³wiÅ‚, Å¼e jest jedynym ocalaÅ‚ym.}
+{220}{}{Jestem sierÅ¼ant Jules, ale moÅ¼esz nazywaÄ‡ mnie Kot. Jestem najszybszym i najlepiej wyglÄ…dajÄ…cym Å¼oÅ‚nierzem w tej bazie.}
+{221}{}{Ta, jasne, cokolwiek powiesz. MÃ³w lepiej co wiesz o tym miejscu?}
+{230}{}{Masz na myÅ›li Doktora C? Jak mÃ³gÅ‚ o mnie zapomnieÄ‡? Cholera, sam pomagaÅ‚ stworzyÄ‡ to dzieÅ‚o sztuki. [Pokazuje na swoje ciaÅ‚o.]}
+{231}{}{Ta, jasne, cokolwiek powiesz. MÃ³w lepiej co wiesz o tym miejscu?}
+{232}{}{Pewnie chodzi o innego Doktora. WiÄ™c, co siÄ™ tutaj dzieje?}
+{240}{}{Z tego co wiem, to jakaÅ› placÃ³wka rzÄ…dowa. RobiÄ… wszelkiego rodzaju tajne eksperymenty. Ale...[RozglÄ…da siÄ™ po pokoju.] strasznie tu cicho. Gdzie sÄ… wszyscy?}
+{241}{}{MoÅ¼e to byÄ‡ dla ciebie szok, ale byÅ‚eÅ› zamroÅ¼ony przez ponad wiek. Åšwiat nie jest juÅ¼ taki jakim go pamiÄ™tasz. SpadÅ‚y bomby i Ziemia ucichÅ‚a. SpoÅ‚eczeÅ„stwo ciÄ…gle stara siÄ™ odbudowaÄ‡ z popioÅ‚Ã³w.}
+{250}{}{[SierÅ¼ant Jules patrzy na ciebie z podniesionÄ… brwiÄ….] MÃ³wisz serio? Czyli jednak to zrobili. Cholera. Chyba miaÅ‚em szczÄ™Å›cie, Å¼e przenieÅ›li mnie z wojska tutaj.}
+{251}{}{WiÄ™c byÅ‚eÅ› w wojsku?}
+{260}{}{Ta. ByÅ‚em ekspertem od broni energetycznej. Jestem teÅ¼ caÅ‚kiem zwinny. W wojsku byÅ‚em ledwie rok, kiedy przeniesiono mnie tutaj. Szkoda, Å¼e nie zobaczÄ™ juÅ¼ nigdy moich przyjaciÃ³Å‚. ChciaÅ‚bym siÄ™ poÅ¼egnaÄ‡.}
 {261}{}{Przykro mi.}
-{262}{}{Wspó³czujê straty, ale musisz ¿yæ dalej. Pogr¹¿anie siê w rozpaczy do nik¹d nie prowadzi.}
-{270}{}{Ta, jak nam wszystkim. Ale co ja mam teraz robiæ?}
-{271}{}{Chyba masz racjê. Ale co ja mam teraz robiæ?}
-{272}{}{Có¿, przyda³ by mi siê ktoœ do pomocy. Przy³¹cz siê do mnie?}
-{273}{}{Muszê ju¿ iœæ. ¯yczê szczêœcia.}
-{280}{}{Hmm, czemu nie! Poka¿ê ci, ¿e Kot ci¹gle ma to coœ.}
-{281}{}{Brzmi nieŸle. Ruszajmy.}
+{262}{}{WspÃ³Å‚czujÄ™ straty, ale musisz Å¼yÄ‡ dalej. PogrÄ…Å¼anie siÄ™ w rozpaczy do nikÄ…d nie prowadzi.}
+{270}{}{Ta, jak nam wszystkim. Ale co ja mam teraz robiÄ‡?}
+{271}{}{Chyba masz racjÄ™. Ale co ja mam teraz robiÄ‡?}
+{272}{}{CÃ³Å¼, przydaÅ‚ by mi siÄ™ ktoÅ› do pomocy. PrzyÅ‚Ä…cz siÄ™ do mnie?}
+{273}{}{MuszÄ™ juÅ¼ iÅ›Ä‡. Å»yczÄ™ szczÄ™Å›cia.}
+{280}{}{Hmm, czemu nie! PokaÅ¼Ä™ ci, Å¼e Kot ciÄ…gle ma to coÅ›.}
+{281}{}{Brzmi nieÅºle. Ruszajmy.}
 {282}{}{Jasne.}
-{290}{}{Nie martw siê starym mn¹. Znajdê miejsce dla siebie. A teraz zejdŸ mi z drogi.}
+{290}{}{Nie martw siÄ™ starym mnÄ…. ZnajdÄ™ miejsce dla siebie. A teraz zejdÅº mi z drogi.}
 {291}{}{[KONIEC]}
-{300}{}{Wiêc, jak skoñczy³eœ w tej komorze kriogenicznej? I co jest z twoimi zêbami?}
-{301}{}{By³em stra¿nikiem w jednym z laboratoriów genetycznych. Kombinowali coœ z DNA ludzi i kotów? Myœlê, ¿e próbuj¹c zrobiæ po³¹czenie najlepszych cech obu gatunków. I tutaj ja siê pojawiam.
- [Kot uœmiecha siê ukazuj¹c bogate uzêbienie.] Potrzebowali ochotnika do tego eksperymentu. Coœ dla zwiadowców i tym podobnych, coœ co mia³o uczyniæ cz³owieka zrêczniejszym i bardziej elastycznym. Odpowiada³o mi to. Dosta³em zastrzyk, straci³em przytomnoœæ, nastêpne co pamiêtam to, ¿e obudzi³em siê ju¿ z tymi zêbami i czu³em siê... ostrzejszy? Jak drapie¿nik.}
-{302}{}{Mów dalej.}
-{303}{}{Okaza³o siê, ¿e eksperyment nie przebiega³ jak zaplanowali, a cokolwiek we mnie wstrzyknêli nie dzia³a³o najlepiej. Nie wiem co mieli na myœli, czu³em siê lepiej ni¿ kiedykolwiek. Ale oni zdecydowali, ¿e wrzuc¹ mnie do zamra¿arki, do czasu a¿ wymyœl¹ co ze mn¹ zrobiæ.}
-{304}{}{A potem mi uda³o siê ciebie rozmroziæ. Wygl¹da na to, ¿e jesteœ moim d³u¿nikiem.}
-{305}{}{Ta, jestem uratowany. W rewan¿u mogê uratowaæ twoje poczucie stylu, ma³po.}
-{306}{}{Ma³po? I kto to mówi. Mam doœæ s³uchania ciebie na dzisiaj.}
-{310}{}{Skoro by³eœ w wojsku, to mo¿e móg³byœ mnie czegoœ nauczyæ?}
-{311}{}{Móg³ bym, na temat broni ciê¿kiej i energetycznej. A teraz musisz pamiêtaæ ¿eby...}
+{300}{}{WiÄ™c, jak skoÅ„czyÅ‚eÅ› w tej komorze kriogenicznej? I co jest z twoimi zÄ™bami?}
+{301}{}{ByÅ‚em straÅ¼nikiem w jednym z laboratoriÃ³w genetycznych. Kombinowali coÅ› z DNA ludzi i kotÃ³w? MyÅ›lÄ™, Å¼e prÃ³bujÄ…c zrobiÄ‡ poÅ‚Ä…czenie najlepszych cech obu gatunkÃ³w. I tutaj ja siÄ™ pojawiam.
+ [Kot uÅ›miecha siÄ™ ukazujÄ…c bogate uzÄ™bienie.] Potrzebowali ochotnika do tego eksperymentu. CoÅ› dla zwiadowcÃ³w i tym podobnych, coÅ› co miaÅ‚o uczyniÄ‡ czÅ‚owieka zrÄ™czniejszym i bardziej elastycznym. OdpowiadaÅ‚o mi to. DostaÅ‚em zastrzyk, straciÅ‚em przytomnoÅ›Ä‡, nastÄ™pne co pamiÄ™tam to, Å¼e obudziÅ‚em siÄ™ juÅ¼ z tymi zÄ™bami i czuÅ‚em siÄ™... ostrzejszy? Jak drapieÅ¼nik.}
+{302}{}{MÃ³w dalej.}
+{303}{}{OkazaÅ‚o siÄ™, Å¼e eksperyment nie przebiegaÅ‚ jak zaplanowali, a cokolwiek we mnie wstrzyknÄ™li nie dziaÅ‚aÅ‚o najlepiej. Nie wiem co mieli na myÅ›li, czuÅ‚em siÄ™ lepiej niÅ¼ kiedykolwiek. Ale oni zdecydowali, Å¼e wrzucÄ… mnie do zamraÅ¼arki, do czasu aÅ¼ wymyÅ›lÄ… co ze mnÄ… zrobiÄ‡.}
+{304}{}{A potem mi udaÅ‚o siÄ™ ciebie rozmroziÄ‡. WyglÄ…da na to, Å¼e jesteÅ› moim dÅ‚uÅ¼nikiem.}
+{305}{}{Ta, jestem uratowany. W rewanÅ¼u mogÄ™ uratowaÄ‡ twoje poczucie stylu, maÅ‚po.}
+{306}{}{MaÅ‚po? I kto to mÃ³wi. Mam doÅ›Ä‡ sÅ‚uchania ciebie na dzisiaj.}
+{310}{}{Skoro byÅ‚eÅ› w wojsku, to moÅ¼e mÃ³gÅ‚byÅ› mnie czegoÅ› nauczyÄ‡?}
+{311}{}{MÃ³gÅ‚ bym, na temat broni ciÄ™Å¼kiej i energetycznej. A teraz musisz pamiÄ™taÄ‡ Å¼eby...}
 {312}{}{[Dalej.]}
-{313}{}{No i ju¿. To powinno ci pomóc stopiæ mutanty wchodz¹ce ci w drogê.}
-{314}{}{Dziêkujê.}
-{390}{}{Mo¿esz mnie ju¿ ze sob¹ zabraæ?}
+{313}{}{No i juÅ¼. To powinno ci pomÃ³c stopiÄ‡ mutanty wchodzÄ…ce ci w drogÄ™.}
+{314}{}{DziÄ™kujÄ™.}
+{390}{}{MoÅ¼esz mnie juÅ¼ ze sobÄ… zabraÄ‡?}
 {391}{}{Ruszajmy.}
 {392}{}{Nie, jeszcze nie.}
-{400}{}{Potrzebujesz czegoœ?}
-{401}{}{W czym Kot mo¿e ci pomóc?}
+{400}{}{Potrzebujesz czegoÅ›?}
+{401}{}{W czym Kot moÅ¼e ci pomÃ³c?}
 {402}{}{Tak?}
-{410}{}{Co chcesz wiedzieæ?}
-{411}{}{Có¿, jestem wyszkolony jak ka¿dy ¿o³nierz. Karabiny, pistolety, pistolety maszynowe i tym podobne. Ale preferujê broñ laserow¹. Maj¹ klasê! Ale jeœli dasz mi kastet albo jedn¹ z tych rêkawic wspomaganych, to rzucê siê na ka¿dego platfusa zanim ten zd¹¿y siê zorientowaæ co go walnê³o!}
+{410}{}{Co chcesz wiedzieÄ‡?}
+{411}{}{CÃ³Å¼, jestem wyszkolony jak kaÅ¼dy Å¼oÅ‚nierz. Karabiny, pistolety, pistolety maszynowe i tym podobne. Ale preferujÄ™ broÅ„ laserowÄ…. MajÄ… klasÄ™! Ale jeÅ›li dasz mi kastet albo jednÄ… z tych rÄ™kawic wspomaganych, to rzucÄ™ siÄ™ na kaÅ¼dego platfusa zanim ten zdÄ…Å¼y siÄ™ zorientowaÄ‡ co go walnÄ™Å‚o!}
 {421}{}{A co jest nie tak?}
-{422}{}{W porz¹dku. Os³aniam twoje ty³y.}
+{422}{}{W porzÄ…dku. OsÅ‚aniam twoje tyÅ‚y.}
 {423}{}{Dla mnie bomba.}
-{424}{}{I tak lepiej mi siê pracuje solo.}
-{430}{}{Nie mam zbyt du¿o cierpliwoœci, wiêc wracaj szybko.}
-{431}{}{Nie jestem fanem czekania. Niech ci to nie zajmie zbyt d³ugo.}
+{424}{}{I tak lepiej mi siÄ™ pracuje solo.}
+{430}{}{Nie mam zbyt duÅ¼o cierpliwoÅ›ci, wiÄ™c wracaj szybko.}
+{431}{}{Nie jestem fanem czekania. Niech ci to nie zajmie zbyt dÅ‚ugo.}
 {440}{}{Wyruszamy?}
-{441}{}{Najwy¿szy czas.}
-{450}{}{Dobrze znowu byæ w ruchu. Moje nogi musz¹ siê ruszaæ.}
-{451}{}{Najwy¿szy czas zrobiæ coœ znowu razem.}
-{460}{}{Pewnie, i tak wygl¹da³a jak gówno. Masz mo¿e coœ niebieskiego?}
-{470}{}{Ok, ale to jest moja b³yszcz¹ca rzecz. Nie zabieraj mi jej, bo bêdê ciê musia³ zastrzeliæ.}
-{480}{}{Czujê siê... œwietnie.}
-{481}{}{Tylko kilka zadrapañ, nie ma o co siê martwiæ.}
-{482}{}{W wojsku widzia³em gorsze rany.}
-{483}{}{Wo³aj medyka. Schodzê, i to szybko.}
-{484}{}{Wszystko siê ze mnie wylewa...}
-{490}{}{Jezu, ale morda. Wyszed³eœ, ¿eby siê wymeldowaæ. Spadam st¹d.}
-{491}{}{Dziecino, aleœ ty paskudna. Spadam st¹d.}
-{500}{}{Nie zrozum mnie Ÿle, dobrze jest siê trzymaæ w kupie, ale ty trochê przeginasz. Wróæ jak bêdzie z tob¹ mniej ludzi.}
-{501}{}{Nie zrozum mnie Ÿle, dobrze jest siê trzymaæ w kupie, ale ty trochê przeginasz. Wróæ jak bêdzie z tob¹ mniej ludzi. A kiedy ty bêdziesz robiæ miejsce, ja poszukam jakichœ ubrañ. [Rozgl¹da siê, Kot Jules zauwa¿a szafkê, otwiera i zagl¹da do œrodka.] To naprawdê nie w moim stylu, ale chyba bêdzie musia³o wystarczyæ. [Szybko siê ubiera.] Jak skoñczysz daj znaæ.}
-{510}{}{Zjad³em nieœwie¿¹ rybê, albo coœ? Czujê siê struty.}
-{520}{}{Mam wra¿enie jakbym siê topi³. Jestem napromieniowany.}
-{530}{}{Jak mo¿esz spodziewaæ siê, ¿e bêdê pracowa³ na pe³nych obrotach z t¹ z³aman¹ koñczyn¹?}
-{540}{}{Kto wy³¹czy³ œwiat³a? Myœlê, ¿e jest coœ nie tak z moimi oczyma.}
-{600}{}{Niektórzy mog¹ twierdziæ, ¿e jestem p³ytki. Mo¿e i jestem, ale mam niez³y ty³ek.}
-{601}{}{W wojsku zawsze by³o, "Kot, zrób to. Kot, zrób tamto." Co ja, pies jestem?}
-{602}{}{[œpiewa] 'Sprawiasz ¿e stajê siê oniemia³y, oniemia³y... [œpiewa]}
-{700}{}{PANIENKI! Panienki, nie wszystkie naraz, proszê!}
-{710}{}{Mam nosa do k³opotów, a teraz ryczy jak syrena alarmowa przed atakiem atomowym!}
-{720}{}{Kopalnia Z£OTA? To tu wykopuj¹ te b³yszcz¹ce rzeczy?}
-{730}{}{Myœla³em, ¿e nie bêdziemy ju¿ tu wracaæ?}
-{800}{}{Mam doœæ przem¹drza³ych schizów! Nie moglibyœmy siê pozbyæ tego ma³ego idioty?}
-{810}{}{Co z t¹ koœci¹, Neandertalu?}
-{820}{}{Przynajmniej nie skoñczy³em jak TY, Lenny!}
-{830}{}{Przynajmniej nie skoñczy³em jak TY, Marcus!}
-{2900}{}{Najpierw muszê siê ubraæ. [Rozgl¹da siê, Kot Jules zauwa¿a szafkê, otwiera ja i zagl¹da do œrodka.]
- To naprawdê nie w moim stylu, ale chyba musi wystarczyæ. [Szybko siê ubiera.] W porz¹dku, mo¿emy ruszaæ.}
+{441}{}{NajwyÅ¼szy czas.}
+{450}{}{Dobrze znowu byÄ‡ w ruchu. Moje nogi muszÄ… siÄ™ ruszaÄ‡.}
+{451}{}{NajwyÅ¼szy czas zrobiÄ‡ coÅ› znowu razem.}
+{460}{}{Pewnie, i tak wyglÄ…daÅ‚a jak gÃ³wno. Masz moÅ¼e coÅ› niebieskiego?}
+{470}{}{Ok, ale to jest moja bÅ‚yszczÄ…ca rzecz. Nie zabieraj mi jej, bo bÄ™dÄ™ ciÄ™ musiaÅ‚ zastrzeliÄ‡.}
+{480}{}{CzujÄ™ siÄ™... Å›wietnie.}
+{481}{}{Tylko kilka zadrapaÅ„, nie ma o co siÄ™ martwiÄ‡.}
+{482}{}{W wojsku widziaÅ‚em gorsze rany.}
+{483}{}{WoÅ‚aj medyka. SchodzÄ™, i to szybko.}
+{484}{}{Wszystko siÄ™ ze mnie wylewa...}
+{490}{}{Jezu, ale morda. WyszedÅ‚eÅ›, Å¼eby siÄ™ wymeldowaÄ‡. Spadam stÄ…d.}
+{491}{}{Dziecino, aleÅ› ty paskudna. Spadam stÄ…d.}
+{500}{}{Nie zrozum mnie Åºle, dobrze jest siÄ™ trzymaÄ‡ w kupie, ale ty trochÄ™ przeginasz. WrÃ³Ä‡ jak bÄ™dzie z tobÄ… mniej ludzi.}
+{501}{}{Nie zrozum mnie Åºle, dobrze jest siÄ™ trzymaÄ‡ w kupie, ale ty trochÄ™ przeginasz. WrÃ³Ä‡ jak bÄ™dzie z tobÄ… mniej ludzi. A kiedy ty bÄ™dziesz robiÄ‡ miejsce, ja poszukam jakichÅ› ubraÅ„. [RozglÄ…da siÄ™, Kot Jules zauwaÅ¼a szafkÄ™, otwiera i zaglÄ…da do Å›rodka.] To naprawdÄ™ nie w moim stylu, ale chyba bÄ™dzie musiaÅ‚o wystarczyÄ‡. [Szybko siÄ™ ubiera.] Jak skoÅ„czysz daj znaÄ‡.}
+{510}{}{ZjadÅ‚em nieÅ›wieÅ¼Ä… rybÄ™, albo coÅ›? CzujÄ™ siÄ™ struty.}
+{520}{}{Mam wraÅ¼enie jakbym siÄ™ topiÅ‚. Jestem napromieniowany.}
+{530}{}{Jak moÅ¼esz spodziewaÄ‡ siÄ™, Å¼e bÄ™dÄ™ pracowaÅ‚ na peÅ‚nych obrotach z tÄ… zÅ‚amanÄ… koÅ„czynÄ…?}
+{540}{}{Kto wyÅ‚Ä…czyÅ‚ Å›wiatÅ‚a? MyÅ›lÄ™, Å¼e jest coÅ› nie tak z moimi oczyma.}
+{600}{}{NiektÃ³rzy mogÄ… twierdziÄ‡, Å¼e jestem pÅ‚ytki. MoÅ¼e i jestem, ale mam niezÅ‚y tyÅ‚ek.}
+{601}{}{W wojsku zawsze byÅ‚o, "Kot, zrÃ³b to. Kot, zrÃ³b tamto." Co ja, pies jestem?}
+{602}{}{[Å›piewa] 'Sprawiasz Å¼e stajÄ™ siÄ™ oniemiaÅ‚y, oniemiaÅ‚y... [Å›piewa]}
+{700}{}{PANIENKI! Panienki, nie wszystkie naraz, proszÄ™!}
+{710}{}{Mam nosa do kÅ‚opotÃ³w, a teraz ryczy jak syrena alarmowa przed atakiem atomowym!}
+{720}{}{Kopalnia ZÅOTA? To tu wykopujÄ… te bÅ‚yszczÄ…ce rzeczy?}
+{730}{}{MyÅ›laÅ‚em, Å¼e nie bÄ™dziemy juÅ¼ tu wracaÄ‡?}
+{800}{}{Mam doÅ›Ä‡ przemÄ…drzaÅ‚ych schizÃ³w! Nie moglibyÅ›my siÄ™ pozbyÄ‡ tego maÅ‚ego idioty?}
+{810}{}{Co z tÄ… koÅ›ciÄ…, Neandertalu?}
+{820}{}{Przynajmniej nie skoÅ„czyÅ‚em jak TY, Lenny!}
+{830}{}{Przynajmniej nie skoÅ„czyÅ‚em jak TY, Marcus!}
+{2900}{}{Najpierw muszÄ™ siÄ™ ubraÄ‡. [RozglÄ…da siÄ™, Kot Jules zauwaÅ¼a szafkÄ™, otwiera ja i zaglÄ…da do Å›rodka.]
+ To naprawdÄ™ nie w moim stylu, ale chyba musi wystarczyÄ‡. [Szybko siÄ™ ubiera.] W porzÄ…dku, moÅ¼emy ruszaÄ‡.}
 {2901}{}{[KONIEC]}
-{5000}{}{[Wstaje i otrz¹sa siê z wody jak dzikie zwierze, kiedy na ciebie patrzy, nagle jego oczy otwieraj¹ siê coraz szerzej i zaczyna ³apaæ oddech.]}
+{5000}{}{[Wstaje i otrzÄ…sa siÄ™ z wody jak dzikie zwierze, kiedy na ciebie patrzy, nagle jego oczy otwierajÄ… siÄ™ coraz szerzej i zaczyna Å‚apaÄ‡ oddech.]}
 {5001}{}{[KONIEC]}
 {5002}{}{O cholera!}

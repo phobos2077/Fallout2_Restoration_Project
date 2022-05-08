@@ -1,60 +1,60 @@
-{100}{}{Widzisz cz³owieka o przet³uszczonych w³osach. Ca³y pokryty jest kurzem.}
-{101}{}{Widzisz Savinelliego, goœcia odpowiedzialnego za karawany na trasie Nowe Reno - Redding.}
-{102}{}{Widzisz niskiego, nerwowo wygl¹daj¹cego faceta z przylizanymi w³osami.}
-{103}{}{Je¿eli znowu siê tu pojawisz, to mo¿liwe, ¿e zdarzy ci siê jakiœ wypadek.}
-{104}{}{To by³o ostrze¿enie. A teraz wynocha st¹d.}
+{100}{}{Widzisz czÅ‚owieka o przetÅ‚uszczonych wÅ‚osach. CaÅ‚y pokryty jest kurzem.}
+{101}{}{Widzisz Savinelliego, goÅ›cia odpowiedzialnego za karawany na trasie Nowe Reno - Redding.}
+{102}{}{Widzisz niskiego, nerwowo wyglÄ…dajÄ…cego faceta z przylizanymi wÅ‚osami.}
+{103}{}{JeÅ¼eli znowu siÄ™ tu pojawisz, to moÅ¼liwe, Å¼e zdarzy ci siÄ™ jakiÅ› wypadek.}
+{104}{}{To byÅ‚o ostrzeÅ¼enie. A teraz wynocha stÄ…d.}
 {105}{}{No dalej, pieski!}
-{106}{}{Ee, pieski? Dobra, niewa¿ne. Ruszamy.}
-{107}{}{Witam. Jestem Enrico Savinelli. Prowadzê karawanê pomiêdzy Nowym Reno a Redding. Przyda nam siê dodatkowy stra¿nik, je¿eli zgodzisz siê wyruszyæ w tej chwili.}
-{108}{}{Witam. Jestem Savinelli. Prowadzê karawanê pomiêdzy Nowym Reno a Redding. Zawsze szukam paru uczciwych stra¿ników. Wychodzimy z miasta dwudziestego pierwszego ka¿dego miesi¹ca. Jak chcesz siê z nami zabraæ, pamiêtaj, ¿eby tu tego dnia byæ.}
+{106}{}{Ee, pieski? Dobra, niewaÅ¼ne. Ruszamy.}
+{107}{}{Witam. Jestem Enrico Savinelli. ProwadzÄ™ karawanÄ™ pomiÄ™dzy Nowym Reno a Redding. Przyda nam siÄ™ dodatkowy straÅ¼nik, jeÅ¼eli zgodzisz siÄ™ wyruszyÄ‡ w tej chwili.}
+{108}{}{Witam. Jestem Savinelli. ProwadzÄ™ karawanÄ™ pomiÄ™dzy Nowym Reno a Redding. Zawsze szukam paru uczciwych straÅ¼nikÃ³w. Wychodzimy z miasta dwudziestego pierwszego kaÅ¼dego miesiÄ…ca. Jak chcesz siÄ™ z nami zabraÄ‡, pamiÄ™taj, Å¼eby tu tego dnia byÄ‡.}
 {109}{}{Czego?}
 {110}{}{Mu-mu?}
-{111}{}{Potrzebujesz stra¿nika, co?}
+{111}{}{Potrzebujesz straÅ¼nika, co?}
 {112}{}{Czym handlujesz?}
 {113}{}{Dlaczego czekacie do dwudziestego pierwszego?}
 {114}{}{To chyba nie dla mnie. Na razie.}
-{115}{}{Zadarli z niew³aœciw¹ karawan¹.}
-{116}{}{Co, jeszcze ktoœ chce fikaæ do mojej karawany?}
-{117}{}{Skurwysyny powinni wiedzieæ, ¿e do mnie siê nie podskakuje.}
-{118}{}{Dobra, reszt¹ zajm¹ siê sêpy. Jazda!}
-{119}{}{Coraz wiêcej tych gównojadów.}
-{120}{}{Opuszczasz moj¹ karawanê, a póŸniej wracasz ¿ebraæ o pracê? Wynoœ siê st¹d.}
-{121}{}{Powiedzia³em spierdalaj. Twoje uszy s¹ w takim samym stanie jak mózg?}
-{122}{}{Szanujê z³odziei... ale tylko dobrych. Ty jesteœ tylko ma³¹ gnid¹. Wynocha, zanim zrobiê ci krzywdê.}
-{123}{}{Z³odziejem? Zapamiêtam to sobie, ty pod³y niewdziêczniku. Odchodzê, ¿egnam.}
-{124}{}{Po¿a³ujesz tego. ¯egnam.}
-{125}{}{To by³a jedna z najgorszych karawan, jakie mia³em od lat. Nic na tym nie zarobi³em, wiêc wiesz co? Ty te¿ nie. ZejdŸ mi z oczu.}
-{126}{}{Ta? Ciekawe, jakbyœ wygl¹da³ po tym, draniu. ¯egnam.}
-{127}{}{Có¿, czasami ma siê wiêksze szczêœcie od innych. Tym razem by³o odwrotnie. ¯egnaj.}
-{128}{}{Kurwa. Muszê teraz wzi¹æ dupê w troki. Straciliœmy tyle towarów w trakcie tego kursu. Wiedzia³em, ¿e trzeba by³o zatrudniæ profesjonalistów. Masz tu 500$ za twój czas, ty bezu¿yteczna kupo ³ajna.}
-{129}{}{Có¿, coœ to chyba i tak lepiej ni¿ nic. Na razie.}
-{130}{}{Ty draniu! Nikt nie móg³by zrobiæ lepszej roboty. ¯egnam.}
-{131}{}{Dobra robota. Trasa przebyta g³adko jak gówno przez jelita. Masz tu swoje 1500$.}
-{132}{}{Nie chcê ju¿ chyba nigdy wiêcej spêdziæ tyle czasu gapi¹c siê w dupê braminy. Do widzenia.}
-{133}{}{Dziêki. Na razie.}
-{134}{}{Tak powinno siê prowadziæ karawanê. G³adko, jak pupa niemowlêcia. Masz tu swoje 1500$, a dorzucê jeszcze ekstra 200$ za bezwypadkow¹ jazdê.}
-{135}{}{Mi³o znaleŸæ kogoœ, kto docenia widoczn¹ jakoœæ. Mo¿e jeszcze siê zobaczymy. Na razie.}
-{136}{}{Dziêki za dodatkowe drobne, Savinelli. Na razie.}
-{137}{}{Nie wiem dok³adnie, ile zajmie tym cholernym kretom z³o¿enie do kupy mojego transportu z³ota. Bez wzglêdu na wszystko, bêdziemy gotowi na dwudziestego pierwszego. PrzyjdŸ wtedy, jak wci¹¿ bêdzie ciê to interesowaæ.}
-{138}{}{S³uchaj, sk³adam do kupy transport delikatnego towaru. Towar wymaga czasu. No wiesz, nie mo¿na popêdzaæ, bo straci siê na jakoœci. Powinno byæ gotowe na dwudziestego pierwszego. PrzyjdŸ wtedy, jak wci¹¿ bêdzie ciê to interesowaæ.}
+{115}{}{Zadarli z niewÅ‚aÅ›ciwÄ… karawanÄ….}
+{116}{}{Co, jeszcze ktoÅ› chce fikaÄ‡ do mojej karawany?}
+{117}{}{Skurwysyny powinni wiedzieÄ‡, Å¼e do mnie siÄ™ nie podskakuje.}
+{118}{}{Dobra, resztÄ… zajmÄ… siÄ™ sÄ™py. Jazda!}
+{119}{}{Coraz wiÄ™cej tych gÃ³wnojadÃ³w.}
+{120}{}{Opuszczasz mojÄ… karawanÄ™, a pÃ³Åºniej wracasz Å¼ebraÄ‡ o pracÄ™? WynoÅ› siÄ™ stÄ…d.}
+{121}{}{PowiedziaÅ‚em spierdalaj. Twoje uszy sÄ… w takim samym stanie jak mÃ³zg?}
+{122}{}{SzanujÄ™ zÅ‚odziei... ale tylko dobrych. Ty jesteÅ› tylko maÅ‚Ä… gnidÄ…. Wynocha, zanim zrobiÄ™ ci krzywdÄ™.}
+{123}{}{ZÅ‚odziejem? ZapamiÄ™tam to sobie, ty podÅ‚y niewdziÄ™czniku. OdchodzÄ™, Å¼egnam.}
+{124}{}{PoÅ¼aÅ‚ujesz tego. Å»egnam.}
+{125}{}{To byÅ‚a jedna z najgorszych karawan, jakie miaÅ‚em od lat. Nic na tym nie zarobiÅ‚em, wiÄ™c wiesz co? Ty teÅ¼ nie. ZejdÅº mi z oczu.}
+{126}{}{Ta? Ciekawe, jakbyÅ› wyglÄ…daÅ‚ po tym, draniu. Å»egnam.}
+{127}{}{CÃ³Å¼, czasami ma siÄ™ wiÄ™ksze szczÄ™Å›cie od innych. Tym razem byÅ‚o odwrotnie. Å»egnaj.}
+{128}{}{Kurwa. MuszÄ™ teraz wziÄ…Ä‡ dupÄ™ w troki. StraciliÅ›my tyle towarÃ³w w trakcie tego kursu. WiedziaÅ‚em, Å¼e trzeba byÅ‚o zatrudniÄ‡ profesjonalistÃ³w. Masz tu 500$ za twÃ³j czas, ty bezuÅ¼yteczna kupo Å‚ajna.}
+{129}{}{CÃ³Å¼, coÅ› to chyba i tak lepiej niÅ¼ nic. Na razie.}
+{130}{}{Ty draniu! Nikt nie mÃ³gÅ‚by zrobiÄ‡ lepszej roboty. Å»egnam.}
+{131}{}{Dobra robota. Trasa przebyta gÅ‚adko jak gÃ³wno przez jelita. Masz tu swoje 1500$.}
+{132}{}{Nie chcÄ™ juÅ¼ chyba nigdy wiÄ™cej spÄ™dziÄ‡ tyle czasu gapiÄ…c siÄ™ w dupÄ™ braminy. Do widzenia.}
+{133}{}{DziÄ™ki. Na razie.}
+{134}{}{Tak powinno siÄ™ prowadziÄ‡ karawanÄ™. GÅ‚adko, jak pupa niemowlÄ™cia. Masz tu swoje 1500$, a dorzucÄ™ jeszcze ekstra 200$ za bezwypadkowÄ… jazdÄ™.}
+{135}{}{MiÅ‚o znaleÅºÄ‡ kogoÅ›, kto docenia widocznÄ… jakoÅ›Ä‡. MoÅ¼e jeszcze siÄ™ zobaczymy. Na razie.}
+{136}{}{DziÄ™ki za dodatkowe drobne, Savinelli. Na razie.}
+{137}{}{Nie wiem dokÅ‚adnie, ile zajmie tym cholernym kretom zÅ‚oÅ¼enie do kupy mojego transportu zÅ‚ota. Bez wzglÄ™du na wszystko, bÄ™dziemy gotowi na dwudziestego pierwszego. PrzyjdÅº wtedy, jak wciÄ…Å¼ bÄ™dzie ciÄ™ to interesowaÄ‡.}
+{138}{}{SÅ‚uchaj, skÅ‚adam do kupy transport delikatnego towaru. Towar wymaga czasu. No wiesz, nie moÅ¼na popÄ™dzaÄ‡, bo straci siÄ™ na jakoÅ›ci. Powinno byÄ‡ gotowe na dwudziestego pierwszego. PrzyjdÅº wtedy, jak wciÄ…Å¼ bÄ™dzie ciÄ™ to interesowaÄ‡.}
 {139}{}{Co zazwyczaj transportujecie?}
-{140}{}{Pozwól, ¿e zapytam o coœ innego.}
-{141}{}{Dziêki, tak zrobiê. Na razie.}
-{142}{}{Zazwyczaj szukamy ochraniarzy karawan, ale jeszcze nie jestem gotowy. Bêdziemy mogli wyruszyæ dwudziestego pierwszego. Wróæ wtedy, jak nadal bêdzie ciê to interesowaæ.}
+{140}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{141}{}{DziÄ™ki, tak zrobiÄ™. Na razie.}
+{142}{}{Zazwyczaj szukamy ochraniarzy karawan, ale jeszcze nie jestem gotowy. BÄ™dziemy mogli wyruszyÄ‡ dwudziestego pierwszego. WrÃ³Ä‡ wtedy, jak nadal bÄ™dzie ciÄ™ to interesowaÄ‡.}
 {143}{}{Czemu dwudziestego pierwszego?}
 {144}{}{Co transportuje ta karawana?}
-{145}{}{OK, dziêki. Na razie.}
-{146}{}{S³uchaj, trzeba wiedzieæ, kiedy powiedzieæ nie. A *ja* to wiem. Wiêc NIE!}
-{147}{}{Och, w porz¹dku.}
-{148}{}{Có¿, zazwyczaj przewozimy, ee, zaopatrzenie medyczne - no w³aœnie - z Nowego Reno, i wymieniamy na rudê z³ota w Redding.}
-{149}{}{Interesuj¹ce. Mówi³eœ, ¿e potrzebujesz stra¿ników?}
-{150}{}{Pozwól, ¿e zapytam o coœ innego.}
-{151}{}{A, w porz¹dku. Na razie.}
-{152}{}{Dobrze, ¿e jesteœ. Jesteœmy gotowi do wyruszenia. P³acê 1500$, ale tylko dlatego, ¿e potrzebujê jeszcze jednego stra¿nika. Przy³¹czasz siê?}
-{153}{}{Dobrze, ¿e jesteœ. Jesteœmy gotowi do wyruszenia. P³acê 1500$. Przy³¹czasz siê?}
-{154}{}{Brzmi wspaniale. Mo¿emy wyruszaæ.}
-{155}{}{Chyba jednak nie chcê pilnowaæ karawany. Zobaczymy siê kiedy indziej, na razie.}
-{156}{}{Zabawna z ciebie ma³pka, ale teraz ju¿ mnie znudzi³aœ. Wynoœ siê, pó³mózgu.}
-{157}{}{Ó³-ózgu? Pa pa.}
-{158}{}{Grrr! Moja zabijaæ!}
+{145}{}{OK, dziÄ™ki. Na razie.}
+{146}{}{SÅ‚uchaj, trzeba wiedzieÄ‡, kiedy powiedzieÄ‡ nie. A *ja* to wiem. WiÄ™c NIE!}
+{147}{}{Och, w porzÄ…dku.}
+{148}{}{CÃ³Å¼, zazwyczaj przewozimy, ee, zaopatrzenie medyczne - no wÅ‚aÅ›nie - z Nowego Reno, i wymieniamy na rudÄ™ zÅ‚ota w Redding.}
+{149}{}{InteresujÄ…ce. MÃ³wiÅ‚eÅ›, Å¼e potrzebujesz straÅ¼nikÃ³w?}
+{150}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{151}{}{A, w porzÄ…dku. Na razie.}
+{152}{}{Dobrze, Å¼e jesteÅ›. JesteÅ›my gotowi do wyruszenia. PÅ‚acÄ™ 1500$, ale tylko dlatego, Å¼e potrzebujÄ™ jeszcze jednego straÅ¼nika. PrzyÅ‚Ä…czasz siÄ™?}
+{153}{}{Dobrze, Å¼e jesteÅ›. JesteÅ›my gotowi do wyruszenia. PÅ‚acÄ™ 1500$. PrzyÅ‚Ä…czasz siÄ™?}
+{154}{}{Brzmi wspaniale. MoÅ¼emy wyruszaÄ‡.}
+{155}{}{Chyba jednak nie chcÄ™ pilnowaÄ‡ karawany. Zobaczymy siÄ™ kiedy indziej, na razie.}
+{156}{}{Zabawna z ciebie maÅ‚pka, ale teraz juÅ¼ mnie znudziÅ‚aÅ›. WynoÅ› siÄ™, pÃ³Å‚mÃ³zgu.}
+{157}{}{Ã“Å‚-Ã³zgu? Pa pa.}
+{158}{}{Grrr! Moja zabijaÄ‡!}
 {200}{}{No dawaj!}

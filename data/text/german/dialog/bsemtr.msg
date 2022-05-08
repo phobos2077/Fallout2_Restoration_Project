@@ -2,4 +2,4 @@
 {101}{}{Du siehst einen Kraftfeldemitter.}
 {102}{}{Das ist die komischste Wand, die du je gesehn hast.}
 {103}{}{Das ist ein Kraftfeldemitter, der das Kraftfeld mit Strom versorgt.}
-{104}{}{Der Emitter gibt ein surrendes Geräusch von sich und explodiert.}
+{104}{}{Der Emitter gibt ein surrendes GerÃ¤usch von sich und explodiert.}

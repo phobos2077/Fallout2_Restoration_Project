@@ -1,53 +1,53 @@
 {100}{}{Ves a un viejo encarvado.}
-{101}{}{El decrépito anciano apesta a sudor y posiblemente a orina. Está vestido con harapos, trapos andrajosos, y lleva una pala.}
+{101}{}{El decrÃ©pito anciano apesta a sudor y posiblemente a orina. EstÃ¡ vestido con harapos, trapos andrajosos, y lleva una pala.}
 {102}{}{Ves a Tom.}
 {200}{}{[El anciano se sobresalta de sorpresa cuando te ve acercarse.] Uh, mira, realmente debo ir...}
-{201}{}{Ahora espera un minuto. [Agarras al hombre del brazo cuando comienza a alejarse.] ¿Quién eres? ¿Qué estas haciendo aquí a esta hora?}
-{202}{}{¿Qué? ¿Por qué, uh... el nombre es Tom y un anciano no puede disfrutar de un paseo nocturno sin que le hagan un montón de preguntas?}
-{203}{}{No cuando se desliza como un ladrón y lleva una pala.}
-{204}{}{Muy bien, pero ¿por qué llevas una pala?}
-{205}{}{Lo que sea, me largo de aquí.}
+{201}{}{Ahora espera un minuto. [Agarras al hombre del brazo cuando comienza a alejarse.] Â¿QuiÃ©n eres? Â¿QuÃ© estas haciendo aquÃ­ a esta hora?}
+{202}{}{Â¿QuÃ©? Â¿Por quÃ©, uh... el nombre es Tom y un anciano no puede disfrutar de un paseo nocturno sin que le hagan un montÃ³n de preguntas?}
+{203}{}{No cuando se desliza como un ladrÃ³n y lleva una pala.}
+{204}{}{Muy bien, pero Â¿por quÃ© llevas una pala?}
+{205}{}{Lo que sea, me largo de aquÃ­.}
 {206}{}{No importa. Lamento molestarte.}
-{207}{}{¿Te refieres a esto viejo? [Él mira hacia abajo a la pala oxidada en sus manos.] Bueno, nunca se sabe cuándo podría encontrar algo que necesite desenterrar. Siempre esté preparado, digo.}
+{207}{}{Â¿Te refieres a esto viejo? [Ã‰l mira hacia abajo a la pala oxidada en sus manos.] Bueno, nunca se sabe cuÃ¡ndo podrÃ­a encontrar algo que necesite desenterrar. Siempre estÃ© preparado, digo.}
 {208}{}{Encontrar algo, eh? Que decir, como algo en una tumba?}
 {209}{}{Eso es un buen lema, de verdad. Bien, ten cuidado.}
 {210}{}{(Los ojos de Tom se ensanchan) No estoy muy seguro de lo que quieres decir.}
-{211}{}{Tom, estás en un cementerio, tienes barro sobre ti, y es pasada la medianoche. Por qué, incluso Torr podría dibujar un
-  conclusión de esto. Es hora de comenzar a darme algunas respuestas, Tom. ¿Por qué estás desenterrando estas tumbas?}
-{212}{}{[Él deja la pala y suspira.] De acuerdo, te lo diré. Mi cuerpo no es lo que solía ser. No tengo trabajo,
-  y no hay medios reales para obtener comida. Sé que la excavación del sepulcro no es algo en lo que la gente sonría, pero ha sido una forma para mí
-  traer algo de dinero Solo trato de sobrevivir ... No me refiero a ningún daño.}
-{213}{}{No creo que excavar tumbas sea algo bueno para un hombre en tu condición. Le dirá qué. Simplemente mosey en
-  fuera de aquí y olvidaremos que esta conversación alguna vez sucedió. Aunque no quiero volver a verte nunca más, ¿de acuerdo?}
-{214}{}{[El anciano parece que está a punto de protestar, luego se detiene.] De acuerdo, tú ganas. Has visto lo último del pobre Tom.
-  [Levanta la pala y se aleja arrastrando los pies.]}
-{215}{}{Pensándolo bien, quizás sería mejor para el mundo si te mato.}
-{216}{}{Adiós, Tom.}
-{217}{}{Escuché que también has estado robando cosechas del granjero aquí.}
-{218}{}{[El viejo se inquieta incómodo.] ¡No pude evitarlo! Estaba tan hambriento y la comida se veía tan bien. Por favor,
-  No me refiero a ningún problema. Mira, me iré y no me verás aquí de nuevo. ¡Lo prometo!}
-{219}{}{Bien, vete entonces. Antes de cambiar de opinión.}
-{220}{}{Espera, no hay necesidad de nada de eso. Los Peterson son dueños de la granja aquí y son personas muy agradables. Sr. Peterson
-  incluso se ofreció a hablar con quienquiera que estuviera tomando sus cultivos y llegar a un acuerdo razonable. Ve a hablar con él.
-  Estoy seguro de que puede ayudarte de alguna manera.}
-{221}{}{(Los ojos del anciano se iluminan.) Eso no suena como una mala idea. Hey, gracias. Quizás este mundo no sea tan
-  cruel como pensé que era.}
-{222}{}{Cuídate entonces, Tom. Lo consultaré más tarde y veré cómo van las cosas.}
+{211}{}{Tom, estÃ¡s en un cementerio, tienes barro sobre ti, y es pasada la medianoche. Por quÃ©, incluso Torr podrÃ­a dibujar un
+Â  conclusiÃ³n de esto. Es hora de comenzar a darme algunas respuestas, Tom. Â¿Por quÃ© estÃ¡s desenterrando estas tumbas?}
+{212}{}{[Ã‰l deja la pala y suspira.] De acuerdo, te lo dirÃ©. Mi cuerpo no es lo que solÃ­a ser. No tengo trabajo,
+Â  y no hay medios reales para obtener comida. SÃ© que la excavaciÃ³n del sepulcro no es algo en lo que la gente sonrÃ­a, pero ha sido una forma para mÃ­
+Â  traer algo de dinero Solo trato de sobrevivir ... No me refiero a ningÃºn daÃ±o.}
+{213}{}{No creo que excavar tumbas sea algo bueno para un hombre en tu condiciÃ³n. Le dirÃ¡ quÃ©. Simplemente mosey en
+Â  fuera de aquÃ­ y olvidaremos que esta conversaciÃ³n alguna vez sucediÃ³. Aunque no quiero volver a verte nunca mÃ¡s, Â¿de acuerdo?}
+{214}{}{[El anciano parece que estÃ¡ a punto de protestar, luego se detiene.] De acuerdo, tÃº ganas. Has visto lo Ãºltimo del pobre Tom.
+Â  [Levanta la pala y se aleja arrastrando los pies.]}
+{215}{}{PensÃ¡ndolo bien, quizÃ¡s serÃ­a mejor para el mundo si te mato.}
+{216}{}{AdiÃ³s, Tom.}
+{217}{}{EscuchÃ© que tambiÃ©n has estado robando cosechas del granjero aquÃ­.}
+{218}{}{[El viejo se inquieta incÃ³modo.] Â¡No pude evitarlo! Estaba tan hambriento y la comida se veÃ­a tan bien. Por favor,
+Â  No me refiero a ningÃºn problema. Mira, me irÃ© y no me verÃ¡s aquÃ­ de nuevo. Â¡Lo prometo!}
+{219}{}{Bien, vete entonces. Antes de cambiar de opiniÃ³n.}
+{220}{}{Espera, no hay necesidad de nada de eso. Los Peterson son dueÃ±os de la granja aquÃ­ y son personas muy agradables. Sr. Peterson
+Â  incluso se ofreciÃ³ a hablar con quienquiera que estuviera tomando sus cultivos y llegar a un acuerdo razonable. Ve a hablar con Ã©l.
+Â  Estoy seguro de que puede ayudarte de alguna manera.}
+{221}{}{(Los ojos del anciano se iluminan.) Eso no suena como una mala idea. Hey, gracias. QuizÃ¡s este mundo no sea tan
+Â  cruel como pensÃ© que era.}
+{222}{}{CuÃ­date entonces, Tom. Lo consultarÃ© mÃ¡s tarde y verÃ© cÃ³mo van las cosas.}
 {223}{}{Espero que Peterson sea tan amable como dices que es.}
 {300}{}{Ves a Tom. Lleva ropa nueva de trabajador y silba alegremente.}
-{301}{}{¡Oye aqui! Wow, tenías razón. Que el Sr. Peterson es un tipo amable. Me perdonó por lo que hice e incluso me ofreció un trabajo de ayudante en el campo. Él dice que una vez que pague la comida que he tomado, entonces comenzaré a tener un salario semanal. Gracias de nuevo por la molestia.}
-{302}{}{De nada, Tom. Cuídate.}
-{303}{}{Bien, yo ... Oh, espera un segundo. Quiero darte algo por ayudar a un viejo como yo. Encontré este encendedor en un chico que desenterré hace un par de semanas. No tengo uso para eso y espero que tu si puedas.}
-{304}{}{Gracias, Tom. Estoy seguro de que esto será muy útil. Nos vemos.}
+{301}{}{Â¡Oye aqui! Wow, tenÃ­as razÃ³n. Que el Sr. Peterson es un tipo amable. Me perdonÃ³ por lo que hice e incluso me ofreciÃ³ un trabajo de ayudante en el campo. Ã‰l dice que una vez que pague la comida que he tomado, entonces comenzarÃ© a tener un salario semanal. Gracias de nuevo por la molestia.}
+{302}{}{De nada, Tom. CuÃ­date.}
+{303}{}{Bien, yo ... Oh, espera un segundo. Quiero darte algo por ayudar a un viejo como yo. EncontrÃ© este encendedor en un chico que desenterrÃ© hace un par de semanas. No tengo uso para eso y espero que tu si puedas.}
+{304}{}{Gracias, Tom. Estoy seguro de que esto serÃ¡ muy Ãºtil. Nos vemos.}
 {305}{}{(El viejo asiente y vuelve a lo que estoy haciendo).}
 {306}{}{[FIN]}
-{307}{}{Hola de nuevo. ¡Gracias por todo!}
+{307}{}{Hola de nuevo. Â¡Gracias por todo!}
 {308}{}{*Silbas*}
-{400}{}{Ustedes jóvenes nunca aprenden. Tú no eres el jefe para mi. Creo que te mataré en su lugar.}
-{450}{}{Escucha, también he desenterrado algunas tumbas. Soy un poco cleptómano. ¿Cuál es tu razón?}
-{451}{}{No estoy familiarizado con la excavación de tumbas, Tom. Cada hombre tiene su propio placer. Ahora estás en camino.}
-{1000}{}{Descubre quién está desenterrando las tumbas y dirige a Tom hacia una nueva vida.}
-{1001}{}{Descubre quién está desenterrando las tumbas.}
+{400}{}{Ustedes jÃ³venes nunca aprenden. TÃº no eres el jefe para mi. Creo que te matarÃ© en su lugar.}
+{450}{}{Escucha, tambiÃ©n he desenterrado algunas tumbas. Soy un poco cleptÃ³mano. Â¿CuÃ¡l es tu razÃ³n?}
+{451}{}{No estoy familiarizado con la excavaciÃ³n de tumbas, Tom. Cada hombre tiene su propio placer. Ahora estÃ¡s en camino.}
+{1000}{}{Descubre quiÃ©n estÃ¡ desenterrando las tumbas y dirige a Tom hacia una nueva vida.}
+{1001}{}{Descubre quiÃ©n estÃ¡ desenterrando las tumbas.}
 {1002}{}{Me voy. No nay una necesidad de apresurar un viejo.}
 {1003}{}{Ves a Tom. Tiene una sonrisa en su cara y lleva ropa nueva de trabajador.}
-{1004}{}{Él parece estar en mucho mejor condición y él sonríe cuando te acercas.}
+{1004}{}{Ã‰l parece estar en mucho mejor condiciÃ³n y Ã©l sonrÃ­e cuando te acercas.}

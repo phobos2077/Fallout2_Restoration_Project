@@ -1,1 +1,1 @@
-{100}{}{Hangokat hallasz a barlangból.}
+{100}{}{Hangokat hallasz a barlangbÃ³l.}

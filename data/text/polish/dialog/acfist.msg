@@ -1,34 +1,34 @@
 {100}{}{Widzisz Lucasa.}
-{101}{}{Lucas jest najpotê¿niejszym wojownikiem twojego plemienia.}
-{102}{}{Wiêc jesteœ tutaj, Dziecko Przeznaczenia. Hmmmm. Jak tam twoja misja?}
-{103}{}{Ca³kiem nieŸle.}
+{101}{}{Lucas jest najpotÄ™Å¼niejszym wojownikiem twojego plemienia.}
+{102}{}{WiÄ™c jesteÅ› tutaj, Dziecko Przeznaczenia. Hmmmm. Jak tam twoja misja?}
+{103}{}{CaÅ‚kiem nieÅºle.}
 {104}{}{Nie najlepiej.}
 {105}{}{Ugh?!}
-{106}{}{Muszê siê za ni¹ wzi¹æ.}
-{107}{}{Mo¿e potrzebujesz pomocy wojownika.}
-{108}{}{Pewnie. W czym mo¿esz mi pomóc?}
-{109}{}{Nie, dziêki. I tak idzie mi nieŸle.}
-{110}{}{Ciekawa odpowiedŸ, Dziecko G³upoty. A teraz zamknij siê i daj mi poæwiczyæ.}
+{106}{}{MuszÄ™ siÄ™ za niÄ… wziÄ…Ä‡.}
+{107}{}{MoÅ¼e potrzebujesz pomocy wojownika.}
+{108}{}{Pewnie. W czym moÅ¼esz mi pomÃ³c?}
+{109}{}{Nie, dziÄ™ki. I tak idzie mi nieÅºle.}
+{110}{}{Ciekawa odpowiedÅº, Dziecko GÅ‚upoty. A teraz zamknij siÄ™ i daj mi poÄ‡wiczyÄ‡.}
 {111}{}{Ta-jest.}
-{112}{}{Wiem jak walczyæ przy pomocy piêœci i stóp. Chcesz siê tego nauczyæ?}
-{113}{}{Czego dok³adnie mo¿esz mnie nauczyæ?}
+{112}{}{Wiem jak walczyÄ‡ przy pomocy piÄ™Å›ci i stÃ³p. Chcesz siÄ™ tego nauczyÄ‡?}
+{113}{}{Czego dokÅ‚adnie moÅ¼esz mnie nauczyÄ‡?}
 {114}{}{Niech wiatr nigdy nie wieje ci w oczy, Dziecko Przeznaczenia.}
-{115}{}{¯egnaj.}
-{116}{}{Hmmm - spêdŸ ze mn¹ ca³y dzieñ, to nauczê ciê, jak wykonywaæ mocniejsze uderzenia.}
-{117}{}{Nie ma sprawy, bierzmy siê do roboty.}
+{115}{}{Å»egnaj.}
+{116}{}{Hmmm - spÄ™dÅº ze mnÄ… caÅ‚y dzieÅ„, to nauczÄ™ ciÄ™, jak wykonywaÄ‡ mocniejsze uderzenia.}
+{117}{}{Nie ma sprawy, bierzmy siÄ™ do roboty.}
 {118}{}{Przepraszam, ale chwilowo nie mam czasu.}
-{119}{}{Wiesz ju¿ wszystko, czego móg³bym ciê nauczyæ, Dziecko Przeznaczenia. Powodzenia w twej misji.}
-{120}{}{Och, w porz¹dku.}
-{121}{}{Ha! Nie bêdê uczy³ tak niewdziêcznej osoby.}
-{122}{}{Och, w porz¹dku.}
-{123}{}{Nie walczysz wystarczaj¹co szybko, aby mój trening móg³ ci w czymœ pomóc, Dziecko Przeznaczenia.}
-{124}{}{Och, w porz¹dku.}
-{125}{}{Musisz siê dowiedzieæ wiêcej o walce, abym móg³ ci pomóc, moje dziecko.}
-{126}{}{Och, w porz¹dku.}
-{127}{}{Mogê ciê nauczyæ, jak silniej kopaæ. Zajmie nam to ca³y dzieñ.}
-{128}{}{W porz¹dku.}
-{129}{}{Mogê ciê nauczyæ lepiej walczyæ. Zajmie nam to ca³y dzieñ.}
-{130}{}{W porz¹dku.}
-{131}{}{Szybko robisz postêpy, Dziecko Przeznaczenia. Niech wiatr ciê prowadzi.}
-{132}{}{Dziêkujemy za pomoc.}
-{133}{}{Nauczy³em ciê wszystkiego, co sam umiem. Powodzenia w twej misji, Dziecko Przeznaczenia.}
+{119}{}{Wiesz juÅ¼ wszystko, czego mÃ³gÅ‚bym ciÄ™ nauczyÄ‡, Dziecko Przeznaczenia. Powodzenia w twej misji.}
+{120}{}{Och, w porzÄ…dku.}
+{121}{}{Ha! Nie bÄ™dÄ™ uczyÅ‚ tak niewdziÄ™cznej osoby.}
+{122}{}{Och, w porzÄ…dku.}
+{123}{}{Nie walczysz wystarczajÄ…co szybko, aby mÃ³j trening mÃ³gÅ‚ ci w czymÅ› pomÃ³c, Dziecko Przeznaczenia.}
+{124}{}{Och, w porzÄ…dku.}
+{125}{}{Musisz siÄ™ dowiedzieÄ‡ wiÄ™cej o walce, abym mÃ³gÅ‚ ci pomÃ³c, moje dziecko.}
+{126}{}{Och, w porzÄ…dku.}
+{127}{}{MogÄ™ ciÄ™ nauczyÄ‡, jak silniej kopaÄ‡. Zajmie nam to caÅ‚y dzieÅ„.}
+{128}{}{W porzÄ…dku.}
+{129}{}{MogÄ™ ciÄ™ nauczyÄ‡ lepiej walczyÄ‡. Zajmie nam to caÅ‚y dzieÅ„.}
+{130}{}{W porzÄ…dku.}
+{131}{}{Szybko robisz postÄ™py, Dziecko Przeznaczenia. Niech wiatr ciÄ™ prowadzi.}
+{132}{}{DziÄ™kujemy za pomoc.}
+{133}{}{NauczyÅ‚em ciÄ™ wszystkiego, co sam umiem. Powodzenia w twej misji, Dziecko Przeznaczenia.}

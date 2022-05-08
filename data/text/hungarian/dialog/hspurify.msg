@@ -1,11 +1,11 @@
-{100}{}{Egy nagy gépezet.}
+{100}{}{Egy nagy gÃ©pezet.}
 {101}{}{The air purifier is making clunking and creaking noises. It appears to be broken. Maybe it needs a part...}
-{102}{}{A légtisztító csedesen zümmög. Úgy t?nik, most már tökéletesen m?ködik.}
-{110}{}{Ezzel az alkatrésszel nem tudod megjavítani.}
-{120}{}{Megjavítottad a légtisztítót.}
-{125}{}{Tönkretetted a légtisztítót.}
-{129}{}{Az összeesküv?k már nem tudják m?ködésbe hozni a detonátort. Használhatatlan, ezért eldobod.}
-{130}{}{Már megjavítottad.}
+{102}{}{A lÃ©gtisztÃ­tÃ³ csedesen zÃ¼mmÃ¶g. Ãšgy t?nik, most mÃ¡r tÃ¶kÃ©letesen m?kÃ¶dik.}
+{110}{}{Ezzel az alkatrÃ©sszel nem tudod megjavÃ­tani.}
+{120}{}{MegjavÃ­tottad a lÃ©gtisztÃ­tÃ³t.}
+{125}{}{TÃ¶nkretetted a lÃ©gtisztÃ­tÃ³t.}
+{129}{}{Az Ã¶sszeeskÃ¼v?k mÃ¡r nem tudjÃ¡k m?kÃ¶dÃ©sbe hozni a detonÃ¡tort. HasznÃ¡lhatatlan, ezÃ©rt eldobod.}
+{130}{}{MÃ¡r megjavÃ­tottad.}
 {131}{}{Klank}
 {132}{}{Nyikor}
 {133}{}{Klenk}

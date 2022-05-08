@@ -1,241 +1,241 @@
-{100}{}{Widzisz potê¿nego, starzej¹cego siê mutanta.}
+{100}{}{Widzisz potÄ™Å¼nego, starzejÄ…cego siÄ™ mutanta.}
 {101}{}{Widzisz mutanta Marcusa, szeryfa Broken Hills.}
-{102}{}{Widzisz potê¿nego, starzej¹cego siê mutanta o zmêczonym wyrazie twarzy. Wci¹¿ jednak wygl¹da zdrowo i solidnie.}
-{103}{mcs1a}{Có¿, do cholery. Takiego stroju nie widzia³em od wielu, wielu lat. Powracaj¹ wspomnienia.}
-{104}{mcs1b}{Czego sobie ¿yczysz, cz³owieku?}
-{105}{mcs1c}{Chcesz coœ jeszcze?}
+{102}{}{Widzisz potÄ™Å¼nego, starzejÄ…cego siÄ™ mutanta o zmÄ™czonym wyrazie twarzy. WciÄ…Å¼ jednak wyglÄ…da zdrowo i solidnie.}
+{103}{mcs1a}{CÃ³Å¼, do cholery. Takiego stroju nie widziaÅ‚em od wielu, wielu lat. PowracajÄ… wspomnienia.}
+{104}{mcs1b}{Czego sobie Å¼yczysz, czÅ‚owieku?}
+{105}{mcs1c}{Chcesz coÅ› jeszcze?}
 {106}{}{Uggie.}
-{107}{}{Kim jesteœ?}
-{108}{}{Jaka historia kryje siê za tym miejscem?}
+{107}{}{Kim jesteÅ›?}
+{108}{}{Jaka historia kryje siÄ™ za tym miejscem?}
 {109}{}{Dlaczego wy, mutanty, nie atakujecie mnie?}
 {110}{}{Co nowego?}
-{111}{}{Jest coœ, o czym musisz wiedzieæ.}
-{112}{}{Chcesz ze mn¹ podró¿owaæ?}
+{111}{}{Jest coÅ›, o czym musisz wiedzieÄ‡.}
+{112}{}{Chcesz ze mnÄ… podrÃ³Å¼owaÄ‡?}
 {113}{}{Bywaj.}
-{114}{mcs3}{Ta, jestem paskudnym mutantem. Poza tym prowadzê to miasto. Masz z tym jakiœ problem?}
+{114}{mcs3}{Ta, jestem paskudnym mutantem. Poza tym prowadzÄ™ to miasto. Masz z tym jakiÅ› problem?}
 {115}{}{Uch!}
 {116}{}{Nuch.}
-{117}{mcs4}{Chcesz siê biæ?}
+{117}{mcs4}{Chcesz siÄ™ biÄ‡?}
 {118}{}{Uch!}
 {119}{}{Nuch.}
-{120}{mcs5}{Uderz jak najmocniej, cz³owieku.}
+{120}{mcs5}{Uderz jak najmocniej, czÅ‚owieku.}
 {121}{mcs6a}{Dobrze.}
-{122}{mcs6b}{Radzê ci, trzymaj siê z dala od k³opotów.}
+{122}{mcs6b}{RadzÄ™ ci, trzymaj siÄ™ z dala od kÅ‚opotÃ³w.}
 {123}{}{Hm?}
-{124}{mcs7}{Jestem Marcus. Pomog³em zbudowaæ to miejsce. Teraz jestem szeryfem.}
-{125}{}{Pomog³eœ zbudowaæ to miejsce? To musia³o byæ dawno temu...}
-{126}{}{Gówno prawda. Jak móg³byœ ¿yæ tak d³ugo?}
+{124}{mcs7}{Jestem Marcus. PomogÅ‚em zbudowaÄ‡ to miejsce. Teraz jestem szeryfem.}
+{125}{}{PomogÅ‚eÅ› zbudowaÄ‡ to miejsce? To musiaÅ‚o byÄ‡ dawno temu...}
+{126}{}{GÃ³wno prawda. Jak mÃ³gÅ‚byÅ› Å¼yÄ‡ tak dÅ‚ugo?}
 {127}{}{Bywaj.}
-{128}{mcs8}{D³uga historia. Chcesz d³ug¹, czy krótk¹ wersjê?}
-{129}{}{Krótk¹.}
-{130}{}{Cholera, nie mam du¿o do roboty. Opowiedz mi wszystko.}
-{131}{}{¯adnej z nich. Mam inne pytania.}
+{128}{mcs8}{DÅ‚uga historia. Chcesz dÅ‚ugÄ…, czy krÃ³tkÄ… wersjÄ™?}
+{129}{}{KrÃ³tkÄ….}
+{130}{}{Cholera, nie mam duÅ¼o do roboty. Opowiedz mi wszystko.}
+{131}{}{Å»adnej z nich. Mam inne pytania.}
 {132}{}{Ani tej, ani tej. Do zobaczenia.}
-{133}{mcs9}{W porz¹dku. Ja i cz³owiek imieniem Jacob wybudowaliœmy to miejsce wokó³ tego starego banku oko³o 60 lat temu. Ka¿dy jest witany z otwartymi ramionami, je¿eli tylko nie narusza naszego spokoju.}
-{134}{}{Œwietnie. Mam wiêcej pytañ.}
+{133}{mcs9}{W porzÄ…dku. Ja i czÅ‚owiek imieniem Jacob wybudowaliÅ›my to miejsce wokÃ³Å‚ tego starego banku okoÅ‚o 60 lat temu. KaÅ¼dy jest witany z otwartymi ramionami, jeÅ¼eli tylko nie narusza naszego spokoju.}
+{134}{}{Åšwietnie. Mam wiÄ™cej pytaÅ„.}
 {135}{}{Uczciwie. Do zobaczenia.}
-{136}{mcs10}{W porz¹dku... Po tym, jak Mistrz i kadzie zosta³y zniszczone, trochê wêdrowa³em. Nie mia³em gdzie siê udaæ. Pewnego dnia zaatakowa³ mnie ten g³upiec w pancerzu wspomaganym.}
-{137}{}{Naprawdê?}
-{138}{mcs11}{To by³ Jacob, z Bractwa Stali. Z³o¿y³ jak¹œ przysiêgê, ¿e zniszczy mutków. Walczyliœmy przez pewien czas - prawdopodobnie dzieñ lub dwa. Po pewnym czasie zaczêliœmy siê po prostu œmiaæ. Jaki by³ w tym sens?}
-{139}{}{Co siê dzieje potem?}
-{140}{mcs12}{Staliœmy siê przyjació³mi. Wyruszyliœmy razem. PóŸniej inni ludzie zaczêli za nami pod¹¿aæ. Zapewne doszli do wniosku, ¿e je¿eli nie bêd¹ bezpieczni z mutkiem i Stalowym Rycerzem, to nigdzie nie bêd¹.}
-{141}{}{A wiêc osiedliliœcie siê tutaj. Dlaczego?}
-{142}{mcs13}{Kopalnia uranu. Ze starych map wiedzia³em, ¿e jest tutaj taka w okolicy. Teraz wszyscy s¹ ciep³o witani - tak d³ugo, jak postêpuj¹ praworz¹dnie. Inni mog¹ myœleæ o nas niewiele, ale nikt nie jest od nas bardziej wolny. Oto ca³a historia.}
-{143}{}{Poczekaj... zaprzyjaŸni³eœ siê z goœciem z Bractwa?}
-{144}{}{Co, ju¿ nie zabijacie ludzi?}
-{145}{}{Dziêkujê. Oto idê. Do zobaczenia.}
-{146}{mcs14}{Ach, z jakiej zapyzia³ej wiochy pochodzisz? Mutki i normalni zawarli pokój ju¿ dawno temu.}
-{147}{}{Jestem z wioski za³o¿onej przez pierwszego Przybysza z Krypty.}
-{148}{}{Z wioski na pó³nocny zachód. }
-{149}{}{O. Mój b³¹d. Có¿, dziêki. Na razie.}
+{136}{mcs10}{W porzÄ…dku... Po tym, jak Mistrz i kadzie zostaÅ‚y zniszczone, trochÄ™ wÄ™drowaÅ‚em. Nie miaÅ‚em gdzie siÄ™ udaÄ‡. Pewnego dnia zaatakowaÅ‚ mnie ten gÅ‚upiec w pancerzu wspomaganym.}
+{137}{}{NaprawdÄ™?}
+{138}{mcs11}{To byÅ‚ Jacob, z Bractwa Stali. ZÅ‚oÅ¼yÅ‚ jakÄ…Å› przysiÄ™gÄ™, Å¼e zniszczy mutkÃ³w. WalczyliÅ›my przez pewien czas - prawdopodobnie dzieÅ„ lub dwa. Po pewnym czasie zaczÄ™liÅ›my siÄ™ po prostu Å›miaÄ‡. Jaki byÅ‚ w tym sens?}
+{139}{}{Co siÄ™ dzieje potem?}
+{140}{mcs12}{StaliÅ›my siÄ™ przyjaciÃ³Å‚mi. WyruszyliÅ›my razem. PÃ³Åºniej inni ludzie zaczÄ™li za nami podÄ…Å¼aÄ‡. Zapewne doszli do wniosku, Å¼e jeÅ¼eli nie bÄ™dÄ… bezpieczni z mutkiem i Stalowym Rycerzem, to nigdzie nie bÄ™dÄ….}
+{141}{}{A wiÄ™c osiedliliÅ›cie siÄ™ tutaj. Dlaczego?}
+{142}{mcs13}{Kopalnia uranu. Ze starych map wiedziaÅ‚em, Å¼e jest tutaj taka w okolicy. Teraz wszyscy sÄ… ciepÅ‚o witani - tak dÅ‚ugo, jak postÄ™pujÄ… praworzÄ…dnie. Inni mogÄ… myÅ›leÄ‡ o nas niewiele, ale nikt nie jest od nas bardziej wolny. Oto caÅ‚a historia.}
+{143}{}{Poczekaj... zaprzyjaÅºniÅ‚eÅ› siÄ™ z goÅ›ciem z Bractwa?}
+{144}{}{Co, juÅ¼ nie zabijacie ludzi?}
+{145}{}{DziÄ™kujÄ™. Oto idÄ™. Do zobaczenia.}
+{146}{mcs14}{Ach, z jakiej zapyziaÅ‚ej wiochy pochodzisz? Mutki i normalni zawarli pokÃ³j juÅ¼ dawno temu.}
+{147}{}{Jestem z wioski zaÅ‚oÅ¼onej przez pierwszego Przybysza z Krypty.}
+{148}{}{Z wioski na pÃ³Å‚nocny zachÃ³d. }
+{149}{}{O. MÃ³j bÅ‚Ä…d. CÃ³Å¼, dziÄ™ki. Na razie.}
 {150}{mcs15a}{Co nowego... co nowego...}
-{151}{mcs15b}{Có¿, zaczynam siê martwiæ o jednego z ludzi od karawan - Chada. Chyba ma trochê lepkie rêce. Chcesz to dla mnie sprawdziæ?}
-{152}{}{Co bêdê z tego mieæ?}
-{153}{}{Jasne. Zrobiê to.}
-{154}{}{Mam trochê napiêty grafik.}
-{155}{}{Masz coœ innego?}
-{156}{mcs16}{Moj¹ nieskoñczon¹ wdziêcznoœæ. Zgoda?}
+{151}{mcs15b}{CÃ³Å¼, zaczynam siÄ™ martwiÄ‡ o jednego z ludzi od karawan - Chada. Chyba ma trochÄ™ lepkie rÄ™ce. Chcesz to dla mnie sprawdziÄ‡?}
+{152}{}{Co bÄ™dÄ™ z tego mieÄ‡?}
+{153}{}{Jasne. ZrobiÄ™ to.}
+{154}{}{Mam trochÄ™ napiÄ™ty grafik.}
+{155}{}{Masz coÅ› innego?}
+{156}{mcs16}{MojÄ… nieskoÅ„czonÄ… wdziÄ™cznoÅ›Ä‡. Zgoda?}
 {157}{}{Zgoda.}
-{158}{}{To nie wystarczy. Chcê czegoœ.}
-{159}{}{Co powiesz na kilka dodatkowych pytañ, a ja to sobie przemyœlê.}
-{160}{}{Pozwól mi nad tym pomyœleæ. Do zobaczenia.}
-{161}{mcs17}{To nie wystarczy? Wiêc idŸ do diab³a.}
+{158}{}{To nie wystarczy. ChcÄ™ czegoÅ›.}
+{159}{}{Co powiesz na kilka dodatkowych pytaÅ„, a ja to sobie przemyÅ›lÄ™.}
+{160}{}{PozwÃ³l mi nad tym pomyÅ›leÄ‡. Do zobaczenia.}
+{161}{mcs17}{To nie wystarczy? WiÄ™c idÅº do diabÅ‚a.}
 {162}{}{Bywaj.}
-{163}{mcs18}{Mamy ma³y k³opot z kopalni¹. Je¿eli chcesz pomóc, idŸ do Zaiusa, sztygara w kopalni.}
-{164}{}{Gdzie mogê go znaleŸæ?}
-{165}{}{Masz coœ jeszcze?}
-{166}{}{Mam wiêcej pytañ.}
-{167}{}{Mo¿e póŸniej. Na razie.}
+{163}{mcs18}{Mamy maÅ‚y kÅ‚opot z kopalniÄ…. JeÅ¼eli chcesz pomÃ³c, idÅº do Zaiusa, sztygara w kopalni.}
+{164}{}{Gdzie mogÄ™ go znaleÅºÄ‡?}
+{165}{}{Masz coÅ› jeszcze?}
+{166}{}{Mam wiÄ™cej pytaÅ„.}
+{167}{}{MoÅ¼e pÃ³Åºniej. Na razie.}
 {168}{mcs19}{Zazwyczaj w kopalni. Czasami w saloonie.}
-{169}{}{Masz coœ innego?}
-{170}{}{Mam wiêcej pytañ.}
+{169}{}{Masz coÅ› innego?}
+{170}{}{Mam wiÄ™cej pytaÅ„.}
 {171}{}{Bywaj.}
-{172}{mcs20}{Ktoœ wypuœci³ dwa ptaszki z aresztu w Banku. ZnajdŸ ich, powiedz mi, gdzie s¹, a ja ich zamknê z powrotem w klatce.}
-{173}{}{Masz coœ innego?}
-{174}{}{Mam wiêcej pytañ.}
+{172}{mcs20}{KtoÅ› wypuÅ›ciÅ‚ dwa ptaszki z aresztu w Banku. ZnajdÅº ich, powiedz mi, gdzie sÄ…, a ja ich zamknÄ™ z powrotem w klatce.}
+{173}{}{Masz coÅ› innego?}
+{174}{}{Mam wiÄ™cej pytaÅ„.}
 {175}{}{Bywaj.}
-{176}{mcs21}{Czego dok³adnie oczekujesz? W porz¹dku. Zaginê³o nam kilku mieszkañców. Nie mam pojêcia, co siê mog³o z nimi staæ. ZnajdŸ ich, a dostaniesz 500$.}
-{177}{}{Zrobiê to za darmo.}
-{178}{}{500$? W porz¹dku.}
+{176}{mcs21}{Czego dokÅ‚adnie oczekujesz? W porzÄ…dku. ZaginÄ™Å‚o nam kilku mieszkaÅ„cÃ³w. Nie mam pojÄ™cia, co siÄ™ mogÅ‚o z nimi staÄ‡. ZnajdÅº ich, a dostaniesz 500$.}
+{177}{}{ZrobiÄ™ to za darmo.}
+{178}{}{500$? W porzÄ…dku.}
 {179}{}{Nie mam czasu.}
-{180}{}{Mam wiêcej pytañ.}
+{180}{}{Mam wiÄ™cej pytaÅ„.}
 {181}{}{Bywaj.}
-{182}{mcs22}{Wspaniale. Powiadom mnie, je¿eli czegoœ siê dowiesz, dobrze?}
-{183}{}{Jasne. Mam wiêcej pytañ.}
-{184}{}{Zrobi siê. Na razie.}
+{182}{mcs22}{Wspaniale. Powiadom mnie, jeÅ¼eli czegoÅ› siÄ™ dowiesz, dobrze?}
+{183}{}{Jasne. Mam wiÄ™cej pytaÅ„.}
+{184}{}{Zrobi siÄ™. Na razie.}
 {185}{mcs23}{Ta? Co?}
-{186}{}{Chcia³eœ odnaleŸæ zaginionych ludzi. Pod miastem s¹ jakieœ tunele. Byæ mo¿e tam s¹.}
-{187}{}{ZnaleŸli siê twoi zaginieni ludzie. S¹ w tunelach pod miastem.}
-{188}{}{Ci dwaj uciekinierzy? S¹ w konszachtach z Jacobem i Aileen. Ukrywaj¹ siê w aptece Jacoba.}
-{189}{}{Jacob i Aileen poprosili mnie o pomoc w uwolnieniu dwóch ludzi z wiêzienia. S¹dzê, ¿e maj¹ plan jak to zrobiæ.}
-{190}{}{Jacob i Aileen chc¹ przy mojej pomocy wysadziæ kopalnie. S¹dzê, ¿e chcia³byœ o tym wiedzieæ.}
-{191}{}{Naukowiec z RNK chce wypróbowaæ eksperymentalny lek, który wybije mutantów. Uwa¿ajcie na to, co jecie i pijecie.}
-{192}{}{Chad wzi¹³ 6000$ od przedstawiciela Gecko. Ten przedstawiciel narzeka³ na cenê... powiedzia³, ¿e wci¹¿ roœnie.}
-{193}{}{Chad zatrzyma³ sobie oko³o 1000$ z ostatniej dostawy uranu. Zamierza wyfrun¹æ z miasta.}
-{194}{}{Nic takiego. Nie zawracaj sobie g³owy.}
-{195}{mcs24}{Tunele pod miastem? Có¿, nie jest to zaskakuj¹ce z tymi kopalniami naoko³o. Szukaj dalej tych ludzi, dobra?}
-{196}{}{W porz¹dku.}
-{197}{mcs25a}{Nie ¿yj¹? Cholera... Sam powiadomiê rodziny.}
-{198}{mcs25b}{Oto nagroda. 500$. Dziêki za twój czas.}
-{199}{mcs25c}{A, chwileczkê, wiem, ¿e nie chcesz pieniêdzy za tê robotê, ale weŸ to w ramach naszej wdziêcznoœci.}
+{186}{}{ChciaÅ‚eÅ› odnaleÅºÄ‡ zaginionych ludzi. Pod miastem sÄ… jakieÅ› tunele. ByÄ‡ moÅ¼e tam sÄ….}
+{187}{}{ZnaleÅºli siÄ™ twoi zaginieni ludzie. SÄ… w tunelach pod miastem.}
+{188}{}{Ci dwaj uciekinierzy? SÄ… w konszachtach z Jacobem i Aileen. UkrywajÄ… siÄ™ w aptece Jacoba.}
+{189}{}{Jacob i Aileen poprosili mnie o pomoc w uwolnieniu dwÃ³ch ludzi z wiÄ™zienia. SÄ…dzÄ™, Å¼e majÄ… plan jak to zrobiÄ‡.}
+{190}{}{Jacob i Aileen chcÄ… przy mojej pomocy wysadziÄ‡ kopalnie. SÄ…dzÄ™, Å¼e chciaÅ‚byÅ› o tym wiedzieÄ‡.}
+{191}{}{Naukowiec z RNK chce wyprÃ³bowaÄ‡ eksperymentalny lek, ktÃ³ry wybije mutantÃ³w. UwaÅ¼ajcie na to, co jecie i pijecie.}
+{192}{}{Chad wziÄ…Å‚ 6000$ od przedstawiciela Gecko. Ten przedstawiciel narzekaÅ‚ na cenÄ™... powiedziaÅ‚, Å¼e wciÄ…Å¼ roÅ›nie.}
+{193}{}{Chad zatrzymaÅ‚ sobie okoÅ‚o 1000$ z ostatniej dostawy uranu. Zamierza wyfrunÄ…Ä‡ z miasta.}
+{194}{}{Nic takiego. Nie zawracaj sobie gÅ‚owy.}
+{195}{mcs24}{Tunele pod miastem? CÃ³Å¼, nie jest to zaskakujÄ…ce z tymi kopalniami naokoÅ‚o. Szukaj dalej tych ludzi, dobra?}
+{196}{}{W porzÄ…dku.}
+{197}{mcs25a}{Nie Å¼yjÄ…? Cholera... Sam powiadomiÄ™ rodziny.}
+{198}{mcs25b}{Oto nagroda. 500$. DziÄ™ki za twÃ³j czas.}
+{199}{mcs25c}{A, chwileczkÄ™, wiem, Å¼e nie chcesz pieniÄ™dzy za tÄ™ robotÄ™, ale weÅº to w ramach naszej wdziÄ™cznoÅ›ci.}
 {200}{}{Jasne.}
-{201}{mcs26}{Dobrze. Ja i moi zastêpcy przejmujemy sprawê... a, i dziêki. Nie zapominam o takich rzeczach.}
+{201}{mcs26}{Dobrze. Ja i moi zastÄ™pcy przejmujemy sprawÄ™... a, i dziÄ™ki. Nie zapominam o takich rzeczach.}
 {202}{}{Nie ma sprawy. Do zobaczenia.}
-{203}{mcs27}{Co ludzie maj¹ przeciwko mutantom? Bêdziemy uwa¿aæ. Dziêki. Miasto ma u ciebie d³ug. A ja nigdy nie zapominam o takich rzeczach.}
-{204}{}{Ca³a przyjemnoœæ po mojej stronie. Pa.}
-{205}{mcs28}{Pilnuj go, dobrze? Chcê go z³apaæ na gor¹cym uczynku.}
+{203}{mcs27}{Co ludzie majÄ… przeciwko mutantom? BÄ™dziemy uwaÅ¼aÄ‡. DziÄ™ki. Miasto ma u ciebie dÅ‚ug. A ja nigdy nie zapominam o takich rzeczach.}
+{204}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie. Pa.}
+{205}{mcs28}{Pilnuj go, dobrze? ChcÄ™ go zÅ‚apaÄ‡ na gorÄ…cym uczynku.}
 {206}{}{Nie ma sprawy.}
-{207}{mcs29}{Có¿, w takim razie zatroszczymy siê o to, ¿eby go zatrzymaæ. Chcesz iœæ ze mn¹?}
+{207}{mcs29}{CÃ³Å¼, w takim razie zatroszczymy siÄ™ o to, Å¼eby go zatrzymaÄ‡. Chcesz iÅ›Ä‡ ze mnÄ…?}
 {208}{}{Jasne.}
-{209}{}{Nie, dziêki.}
-{210}{mcs30}{Chcesz, abym poszed³ z tob¹? Ach, do diaska, jestem ju¿ za stary na osiedlenie siê. Idziemy?}
+{209}{}{Nie, dziÄ™ki.}
+{210}{mcs30}{Chcesz, abym poszedÅ‚ z tobÄ…? Ach, do diaska, jestem juÅ¼ za stary na osiedlenie siÄ™. Idziemy?}
 {211}{}{Tak.}
 {212}{}{Nie, jeszcze nie teraz.}
-{213}{mcs31}{Och, za du¿o siê teraz dzieje. Mo¿e tak zrobiê, gdy trochê siê uspokoi.}
-{214}{}{Jasne. Mam kilka pytañ.}
+{213}{mcs31}{Och, za duÅ¼o siÄ™ teraz dzieje. MoÅ¼e tak zrobiÄ™, gdy trochÄ™ siÄ™ uspokoi.}
+{214}{}{Jasne. Mam kilka pytaÅ„.}
 {215}{}{Bywaj.}
-{216}{mcs32}{Prawda. Najlepszy przyjaciel, jakiego kiedykolwiek mia³em.}
-{217}{}{Ta, jasne, wrzuci³byœ go do kadzi tak jak wszystkich innych.}
+{216}{mcs32}{Prawda. Najlepszy przyjaciel, jakiego kiedykolwiek miaÅ‚em.}
+{217}{}{Ta, jasne, wrzuciÅ‚byÅ› go do kadzi tak jak wszystkich innych.}
 {218}{}{Bywaj.}
-{219}{mcs33}{Do cholery, zrobi³bym tak. Jakim by³by wspania³ym mutantem.}
-{220}{}{Nie s¹dzê, aby ucieszy³ siê s³ysz¹c, ¿e tak mówisz.}
+{219}{mcs33}{Do cholery, zrobiÅ‚bym tak. Jakim byÅ‚by wspaniaÅ‚ym mutantem.}
+{220}{}{Nie sÄ…dzÄ™, aby ucieszyÅ‚ siÄ™ sÅ‚yszÄ…c, Å¼e tak mÃ³wisz.}
 {221}{}{Bywaj.}
-{222}{mcs34}{[œmiech] Ci¹gle siê o to spieraliœmy. [wzdycha] Brakuje mi tego starego os³a.}
-{223}{}{A co z nienawiœci¹ Mistrza do ludzi?}
-{224}{}{Wci¹¿ s¹dzê, ¿e to parszywy los.}
+{222}{mcs34}{[Å›miech] CiÄ…gle siÄ™ o to spieraliÅ›my. [wzdycha] Brakuje mi tego starego osÅ‚a.}
+{223}{}{A co z nienawiÅ›ciÄ… Mistrza do ludzi?}
+{224}{}{WciÄ…Å¼ sÄ…dzÄ™, Å¼e to parszywy los.}
 {225}{}{Bywaj.}
-{226}{mcs35}{Mówisz o dawnych czasach. Œwiat dawno ju¿ ruszy³ dalej. Chcesz us³yszeæ o historii staro¿ytnej?}
+{226}{mcs35}{MÃ³wisz o dawnych czasach. Åšwiat dawno juÅ¼ ruszyÅ‚ dalej. Chcesz usÅ‚yszeÄ‡ o historii staroÅ¼ytnej?}
 {227}{}{Naturalnie.}
-{228}{}{Nie teraz. Chcê jednak zadaæ kilka innych pytañ.}
-{229}{}{Nie teraz. Porozmawiam z tob¹ póŸniej.}
-{230}{mcs36}{Tak. Có¿, my nigdy tak naprawdê nie NIENAWIDZILIŒMY ludzi. Po prostu mieliœmy lepsz¹ drogê. Te nowe rz¹dy, one myœl¹, ¿e maj¹ na wszystko odpowiedŸ. Ble, Ble. Przyby³em, zobaczy³em, dosta³em blizny.}
-{231}{}{A wiêc jaka by³a lepsza droga?}
-{232}{mcs37}{Mistrz chcia³ sprowadziæ wszystkich do swojego poziomu tak, ¿e ju¿ nigdy nie walczylibyœmy ze sob¹. By³ przekonany, ¿e nie uczynilibyœmy tego sami - nie potrafilibyœmy. Musieliœmy byæ zmuszeni, aby ewoluowaæ.}
-{233}{}{Zgadzasz siê z tym?}
-{234}{mcs38}{Gdy Jacob by³ jeszcze wœród ¿ywych, s¹dzi³em, ¿e Mistrz myli³ siê. Ale wygl¹da na to, ¿e gdy czêœæ ludzi potrafi wys³uchaæ apelu i wynieœæ siê ponad to wszystko, wiêkszoœæ jednak po prostu by uciek³a.}
-{235}{}{A wiêc s¹dzisz, ¿e Mistrz mia³ racjê?}
-{236}{mcs38a}{Jacob us³ysza³ apel i szczerze w niego wierzy³. Podobnie Przybysz z Krypty. Ale bez wzglêdu na to, ilu siê wzniesie, masy i tak ich zniszcz¹, prawda?}
-{237}{}{Mo¿e.}
-{238}{mcs39}{Mistrz chcia³ po prostu, aby wszyscy przejrzeli na oczy. Przybysz z Krypty zakoñczy³ to marzenie.}
-{239}{}{Brzmi tak, jakbyœ jednoczeœnie podziwia³ i nienawidzi³ Przybysza z Krypty.}
-{240}{}{By³eœ cz³owiekiem. Jak mo¿esz oceniæ to, co zrobi³ ci Mistrz?}
-{241}{}{A wiêc uwa¿asz, ¿e plany Mistrza by³y s³uszne?}
+{228}{}{Nie teraz. ChcÄ™ jednak zadaÄ‡ kilka innych pytaÅ„.}
+{229}{}{Nie teraz. Porozmawiam z tobÄ… pÃ³Åºniej.}
+{230}{mcs36}{Tak. CÃ³Å¼, my nigdy tak naprawdÄ™ nie NIENAWIDZILIÅšMY ludzi. Po prostu mieliÅ›my lepszÄ… drogÄ™. Te nowe rzÄ…dy, one myÅ›lÄ…, Å¼e majÄ… na wszystko odpowiedÅº. Ble, Ble. PrzybyÅ‚em, zobaczyÅ‚em, dostaÅ‚em blizny.}
+{231}{}{A wiÄ™c jaka byÅ‚a lepsza droga?}
+{232}{mcs37}{Mistrz chciaÅ‚ sprowadziÄ‡ wszystkich do swojego poziomu tak, Å¼e juÅ¼ nigdy nie walczylibyÅ›my ze sobÄ…. ByÅ‚ przekonany, Å¼e nie uczynilibyÅ›my tego sami - nie potrafilibyÅ›my. MusieliÅ›my byÄ‡ zmuszeni, aby ewoluowaÄ‡.}
+{233}{}{Zgadzasz siÄ™ z tym?}
+{234}{mcs38}{Gdy Jacob byÅ‚ jeszcze wÅ›rÃ³d Å¼ywych, sÄ…dziÅ‚em, Å¼e Mistrz myliÅ‚ siÄ™. Ale wyglÄ…da na to, Å¼e gdy czÄ™Å›Ä‡ ludzi potrafi wysÅ‚uchaÄ‡ apelu i wynieÅ›Ä‡ siÄ™ ponad to wszystko, wiÄ™kszoÅ›Ä‡ jednak po prostu by uciekÅ‚a.}
+{235}{}{A wiÄ™c sÄ…dzisz, Å¼e Mistrz miaÅ‚ racjÄ™?}
+{236}{mcs38a}{Jacob usÅ‚yszaÅ‚ apel i szczerze w niego wierzyÅ‚. Podobnie Przybysz z Krypty. Ale bez wzglÄ™du na to, ilu siÄ™ wzniesie, masy i tak ich zniszczÄ…, prawda?}
+{237}{}{MoÅ¼e.}
+{238}{mcs39}{Mistrz chciaÅ‚ po prostu, aby wszyscy przejrzeli na oczy. Przybysz z Krypty zakoÅ„czyÅ‚ to marzenie.}
+{239}{}{Brzmi tak, jakbyÅ› jednoczeÅ›nie podziwiaÅ‚ i nienawidziÅ‚ Przybysza z Krypty.}
+{240}{}{ByÅ‚eÅ› czÅ‚owiekiem. Jak moÅ¼esz oceniÄ‡ to, co zrobiÅ‚ ci Mistrz?}
+{241}{}{A wiÄ™c uwaÅ¼asz, Å¼e plany Mistrza byÅ‚y sÅ‚uszne?}
 {242}{}{Wiesz, jestem potomkiem pierwszego Przybysza z Krypty.}
-{243}{mcs40}{Masz racjê. Gdyby wszyscy ludzie walczyli o to, w co wierz¹, w ten sposób, to po pierwsze nie potrzebowalibyœmy planu Mistrza.}
-{244}{}{Mistrz chcia³ zniewoliæ ludzkoœæ!}
-{245}{}{Interesuj¹ce. Muszê ju¿ iœæ.}
-{246}{mcs41}{Nie zapominaj, ¿e zna³em tych, którzy byli w to zaanga¿owani. Byli najlepsz¹ rzecz¹, jak¹ ludzkoœæ mog³a zaoferowaæ. Twoi ludzie opowiedzieliby tê historiê w inny sposób, prawda?}
-{247}{}{Eee... mo¿e. Yym, mam kilka innych pytañ.}
+{243}{mcs40}{Masz racjÄ™. Gdyby wszyscy ludzie walczyli o to, w co wierzÄ…, w ten sposÃ³b, to po pierwsze nie potrzebowalibyÅ›my planu Mistrza.}
+{244}{}{Mistrz chciaÅ‚ zniewoliÄ‡ ludzkoÅ›Ä‡!}
+{245}{}{InteresujÄ…ce. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{246}{mcs41}{Nie zapominaj, Å¼e znaÅ‚em tych, ktÃ³rzy byli w to zaangaÅ¼owani. Byli najlepszÄ… rzeczÄ…, jakÄ… ludzkoÅ›Ä‡ mogÅ‚a zaoferowaÄ‡. Twoi ludzie opowiedzieliby tÄ™ historiÄ™ w inny sposÃ³b, prawda?}
+{247}{}{Eee... moÅ¼e. Yym, mam kilka innych pytaÅ„.}
 {248}{}{Nieprawda!}
-{249}{mcs42}{"Pierwszy Przybysz z Krypty"? Masz na myœli tego, który zabi³ Mistrza i zniszczy³ kadzie?}
+{249}{mcs42}{"Pierwszy Przybysz z Krypty"? Masz na myÅ›li tego, ktÃ³ry zabiÅ‚ Mistrza i zniszczyÅ‚ kadzie?}
 {250}{}{Ymmm... tak.}
-{251}{}{Cholera, tak. Zrobisz coœ z tym, mutku?}
-{252}{}{Nieee... to ktoœ inny. Nie wiem, o czym mówisz.}
-{253}{mcs43}{¯aden problem. Tak jak powiedzia³em, to stare dzieje.}
-{254}{}{Nie bojê siê ciebie.}
-{255}{}{Dlaczego wtedy nienawidziliœcie ludzi?}
-{256}{mcs44}{Nie masz powodu, no chyba ¿e zagrozisz mi, lub komuœ z mojego miasta. Zachowuj siê w cywilizowany sposób, tylko o to ciê proszê.}
-{257}{}{Bêdê o tym pamiêtaæ. Mam inne pytania.}
-{258}{}{Bêdê o tym pamiêtaæ. Do zobaczenia.}
-{259}{mcs45}{Wyjaœnijmy coœ sobie: nic siê tu nie stanie, je¿eli ty tego nie zaczniesz. Po prostu gdy jesteœ w mieœcie, zachowuj siê w cywilizowany sposób.}
+{251}{}{Cholera, tak. Zrobisz coÅ› z tym, mutku?}
+{252}{}{Nieee... to ktoÅ› inny. Nie wiem, o czym mÃ³wisz.}
+{253}{mcs43}{Å»aden problem. Tak jak powiedziaÅ‚em, to stare dzieje.}
+{254}{}{Nie bojÄ™ siÄ™ ciebie.}
+{255}{}{Dlaczego wtedy nienawidziliÅ›cie ludzi?}
+{256}{mcs44}{Nie masz powodu, no chyba Å¼e zagrozisz mi, lub komuÅ› z mojego miasta. Zachowuj siÄ™ w cywilizowany sposÃ³b, tylko o to ciÄ™ proszÄ™.}
+{257}{}{BÄ™dÄ™ o tym pamiÄ™taÄ‡. Mam inne pytania.}
+{258}{}{BÄ™dÄ™ o tym pamiÄ™taÄ‡. Do zobaczenia.}
+{259}{mcs45}{WyjaÅ›nijmy coÅ› sobie: nic siÄ™ tu nie stanie, jeÅ¼eli ty tego nie zaczniesz. Po prostu gdy jesteÅ› w mieÅ›cie, zachowuj siÄ™ w cywilizowany sposÃ³b.}
 {260}{}{Jak chcesz. Mam inne pytania.}
 {261}{}{Jak chcesz. Na razie.}
-{262}{mcs46}{Moje wspomnienia z bycia cz³owiekiem nie s¹ tak klarowne, jak by³y kiedyœ, ale pamiêtam z³oœliwoœæ, nienawiœæ, zazdroœæ... Wolê byæ mutantem.}
-{263}{}{A wiêc uwa¿asz, ¿e plany Mistrza by³y s³uszne?}
-{264}{}{Ech. W ten sposób jesteœ o wiele brzydszy. Na razie.}
-{265}{}{A wiêc w porz¹dku. Do zobaczenia.}
-{266}{mcs47}{Pope³niliœmy b³¹d. Powinniœmy wybieraæ tylko najlepszych. Rozejrzyj siê. Wiêkszoœæ mutantów nie mia³a umys³u lub woli, aby wytrzymaæ napiêcie. [wzdycha] Gdybyœmy tylko lepiej wybierali...}
-{267}{}{A wiêc wrzuci³byœ Jacoba do kadzi? Albo Przybysza z Krypty?}
-{268}{}{Tak, to prawdziwa tragedia. Có¿, do zobaczenia póŸniej!}
-{269}{mcs48}{Je¿eli tam kiedykolwiek wrócisz, powiedz im, ¿e wojna siê skoñczy³a. I to ju¿ dawno temu.}
-{270}{}{Ymmm. W porz¹dku. Mam inne pytania.}
-{271}{}{W porz¹dku. Do widzenia.}
-{272}{mcs49alt}{Dziêkujê za twoj¹ pomoc. Mog³y byæ k³opoty. Przejêliœmy ich schowek na broñ i rozbroiliœmy ich bomby.}
-{273}{}{Wspaniale! Mam kilka pytañ...}
+{262}{mcs46}{Moje wspomnienia z bycia czÅ‚owiekiem nie sÄ… tak klarowne, jak byÅ‚y kiedyÅ›, ale pamiÄ™tam zÅ‚oÅ›liwoÅ›Ä‡, nienawiÅ›Ä‡, zazdroÅ›Ä‡... WolÄ™ byÄ‡ mutantem.}
+{263}{}{A wiÄ™c uwaÅ¼asz, Å¼e plany Mistrza byÅ‚y sÅ‚uszne?}
+{264}{}{Ech. W ten sposÃ³b jesteÅ› o wiele brzydszy. Na razie.}
+{265}{}{A wiÄ™c w porzÄ…dku. Do zobaczenia.}
+{266}{mcs47}{PopeÅ‚niliÅ›my bÅ‚Ä…d. PowinniÅ›my wybieraÄ‡ tylko najlepszych. Rozejrzyj siÄ™. WiÄ™kszoÅ›Ä‡ mutantÃ³w nie miaÅ‚a umysÅ‚u lub woli, aby wytrzymaÄ‡ napiÄ™cie. [wzdycha] GdybyÅ›my tylko lepiej wybierali...}
+{267}{}{A wiÄ™c wrzuciÅ‚byÅ› Jacoba do kadzi? Albo Przybysza z Krypty?}
+{268}{}{Tak, to prawdziwa tragedia. CÃ³Å¼, do zobaczenia pÃ³Åºniej!}
+{269}{mcs48}{JeÅ¼eli tam kiedykolwiek wrÃ³cisz, powiedz im, Å¼e wojna siÄ™ skoÅ„czyÅ‚a. I to juÅ¼ dawno temu.}
+{270}{}{Ymmm. W porzÄ…dku. Mam inne pytania.}
+{271}{}{W porzÄ…dku. Do widzenia.}
+{272}{mcs49alt}{DziÄ™kujÄ™ za twojÄ… pomoc. MogÅ‚y byÄ‡ kÅ‚opoty. PrzejÄ™liÅ›my ich schowek na broÅ„ i rozbroiliÅ›my ich bomby.}
+{273}{}{Wspaniale! Mam kilka pytaÅ„...}
 {274}{}{Hey, I found something out.}
-{275}{}{Nie uda³o mi siê niczego dowiedzieæ.}
-{276}{mcs103a}{Za du¿o ludzi. Doœæ siê ju¿ napodró¿owa³em z hord¹.}
-{277}{mcs103b}{Myœla³em, ¿e nale¿ysz do tych dobrych. Nie idê z tob¹.}
-{278}{mcs103c}{Teraz z tob¹ nie pójdê. Przykro mi. [Przygl¹da ci siê z niesmakiem]}
+{275}{}{Nie udaÅ‚o mi siÄ™ niczego dowiedzieÄ‡.}
+{276}{mcs103a}{Za duÅ¼o ludzi. DoÅ›Ä‡ siÄ™ juÅ¼ napodrÃ³Å¼owaÅ‚em z hordÄ….}
+{277}{mcs103b}{MyÅ›laÅ‚em, Å¼e naleÅ¼ysz do tych dobrych. Nie idÄ™ z tobÄ….}
+{278}{mcs103c}{Teraz z tobÄ… nie pÃ³jdÄ™. Przykro mi. [PrzyglÄ…da ci siÄ™ z niesmakiem]}
 {279}{}{Dobrze. }
-{280}{}{Jeszcze chwila a popuszczê w portki.}
-{281}{}{Niewiele rzeczy jest w stanie mnie przeraziæ... TO jest.}
-{282}{}{Trzeba mieæ nierówno pod sufitem, ¿eby mi podskakiwaæ.}
-{283}{}{Kolejny skopany ty³ek...}
-{284}{}{To siê robi nudne...}
-{285}{}{Nie masz jakichœ kolegów, którzy mogliby wyrównaæ szanse?}
-{286}{}{To jak, masz doœæ?}
+{280}{}{Jeszcze chwila a popuszczÄ™ w portki.}
+{281}{}{Niewiele rzeczy jest w stanie mnie przeraziÄ‡... TO jest.}
+{282}{}{Trzeba mieÄ‡ nierÃ³wno pod sufitem, Å¼eby mi podskakiwaÄ‡.}
+{283}{}{Kolejny skopany tyÅ‚ek...}
+{284}{}{To siÄ™ robi nudne...}
+{285}{}{Nie masz jakichÅ› kolegÃ³w, ktÃ³rzy mogliby wyrÃ³wnaÄ‡ szanse?}
+{286}{}{To jak, masz doÅ›Ä‡?}
 {287}{}{Zrobione. Tak dla twojej informacji.}
-{288}{}{Hmm. Coœ posz³o nie tak.}
-{289}{mcs109}{Chcesz, abym do ciebie wróci³?}
-{290}{}{W porz¹dku.}
+{288}{}{Hmm. CoÅ› poszÅ‚o nie tak.}
+{289}{mcs109}{Chcesz, abym do ciebie wrÃ³ciÅ‚?}
+{290}{}{W porzÄ…dku.}
 {291}{}{Nie, jeszcze nie. Do zobaczenia.}
-{292}{mcs110}{Czego sobie ¿yczysz?}
-{293}{}{Jak siê czujesz?}
-{294}{}{Podlecz siê.}
-{295}{}{Poczekaj tu a¿ wrócê, dobrze?}
+{292}{mcs110}{Czego sobie Å¼yczysz?}
+{293}{}{Jak siÄ™ czujesz?}
+{294}{}{Podlecz siÄ™.}
+{295}{}{Poczekaj tu aÅ¼ wrÃ³cÄ™, dobrze?}
 {296}{}{To tyle. Przynajmniej na razie.}
 {297}{mcs111a}{Jestem gotowy.}
-{298}{mcs111b}{Nie bêdê nas opóŸniaæ.}
-{299}{mcs111c}{Masz coœ na to?}
-{300}{mcs111d}{Mo¿e przyjrzyj siê temu.}
-{301}{}{U¿yj swoich zdolnoœci, aby siê uleczyæ.}
-{302}{}{Niewa¿ne.}
+{298}{mcs111b}{Nie bÄ™dÄ™ nas opÃ³ÅºniaÄ‡.}
+{299}{mcs111c}{Masz coÅ› na to?}
+{300}{mcs111d}{MoÅ¼e przyjrzyj siÄ™ temu.}
+{301}{}{UÅ¼yj swoich zdolnoÅ›ci, aby siÄ™ uleczyÄ‡.}
+{302}{}{NiewaÅ¼ne.}
 {303}{}{OK}
-{304}{mcs160}{Poczekam tu i zacisnê paski na moim ramieniu.}
-{305}{}{Niewa¿ne.}
+{304}{mcs160}{Poczekam tu i zacisnÄ™ paski na moim ramieniu.}
+{305}{}{NiewaÅ¼ne.}
 {306}{}{OK}
 {307}{}{North.}
 {308}{}{Northwest.}
 {309}{}{West.}
 {310}{}{Southwest.}
-{311}{}{Na po³udnie.}
+{311}{}{Na poÅ‚udnie.}
 {312}{}{Southeast.}
 {313}{}{East.}
 {314}{}{Northeast.}
 {315}{}{Don't ask me. I don't know. }
 {316}{}{Ta.}
-{317}{}{W porz¹dku.}
-{318}{}{¯aden.}
+{317}{}{W porzÄ…dku.}
+{318}{}{Å»aden.}
 {319}{}{Why're you talking to me like this?}
 {320}{}{Not very nice.}
 {321}{}{Thanks. }
 {322}{}{To dobrze.}
 {323}{}{This ain't good.}
 {324}{}{I like this. A lot. }
-{325}{}{Mam z³e przeczucia co do tego.}
+{325}{}{Mam zÅ‚e przeczucia co do tego.}
 {326}{}{These people are nuts.}
-{327}{}{Nie uda³o mi siê niczego dowiedzieæ.}
+{327}{}{Nie udaÅ‚o mi siÄ™ niczego dowiedzieÄ‡.}
 {328}{}{Learned something.}
 {329}{}{Is anyone here sane?}
 {330}{}{Gotta be another way.}
-{331}{}{ChodŸ za mn¹.}
-{332}{}{Spróbuj tego.}
-{333}{}{ChodŸ tu.}
+{331}{}{ChodÅº za mnÄ….}
+{332}{}{SprÃ³buj tego.}
+{333}{}{ChodÅº tu.}
 {334}{}{Found something you might want to see.}
 {335}{}{Far as I can tell, it's safe to camp here.}
 {336}{}{Ain't safe to camp here.}
-{337}{}{Tu mo¿na odpocz¹æ.}
+{337}{}{Tu moÅ¼na odpoczÄ…Ä‡.}
 {338}{}{I got lucky.}
 {339}{}{Fix this, would you?}
 {340}{}{Turn this on.}
@@ -245,95 +245,95 @@
 {344}{}{Nie rozumiem.}
 {345}{}{I dunno.}
 {346}{}{Auu.}
-{347}{}{To naprawdê boli.}
+{347}{}{To naprawdÄ™ boli.}
 {348}{}{That can't feel good...}
-{349}{}{Ee... gdy mówi³eœ 'mam nadziejê, ¿e nie zajdzie w ci¹¿ê' w Cat's Paw w Nowym Reno, co mia³eœ na myœli?}
-{350}{mcs113}{Rodzice ci tego nie wyt³umaczyli?}
-{351}{}{Nie, to znaczy, chyba mutanty s¹ wysterylizowane, nie?}
-{352}{}{Niewa¿ne.}
-{353}{mcs114}{Co? Kto ci wcisn¹³ te brednie?}
-{354}{}{Wiêc... NIE JESTEŒ bezp³odny?}
-{355}{}{Niewa¿ne.}
-{356}{mcs116}{Nie. No, nie teraz. Kilka lat musi up³yn¹æ po przemianie, ¿eby p³yny znowu mog³y zacz¹æ p³yn¹æ. A co?}
-{357}{}{Och. Yy. Niewa¿ne.}
-{360}{}{Spisek przeciwko mutantom w Broken Hills zosta³ wykryty.}
-{361}{}{Marcus zgodzi³ siê do³¹czyæ do dru¿yny.}
+{349}{}{Ee... gdy mÃ³wiÅ‚eÅ› 'mam nadziejÄ™, Å¼e nie zajdzie w ciÄ…Å¼Ä™' w Cat's Paw w Nowym Reno, co miaÅ‚eÅ› na myÅ›li?}
+{350}{mcs113}{Rodzice ci tego nie wytÅ‚umaczyli?}
+{351}{}{Nie, to znaczy, chyba mutanty sÄ… wysterylizowane, nie?}
+{352}{}{NiewaÅ¼ne.}
+{353}{mcs114}{Co? Kto ci wcisnÄ…Å‚ te brednie?}
+{354}{}{WiÄ™c... NIE JESTEÅš bezpÅ‚odny?}
+{355}{}{NiewaÅ¼ne.}
+{356}{mcs116}{Nie. No, nie teraz. Kilka lat musi upÅ‚ynÄ…Ä‡ po przemianie, Å¼eby pÅ‚yny znowu mogÅ‚y zaczÄ…Ä‡ pÅ‚ynÄ…Ä‡. A co?}
+{357}{}{Och. Yy. NiewaÅ¼ne.}
+{360}{}{Spisek przeciwko mutantom w Broken Hills zostaÅ‚ wykryty.}
+{361}{}{Marcus zgodziÅ‚ siÄ™ doÅ‚Ä…czyÄ‡ do druÅ¼yny.}
 {400}{}{Co do zaginionych ludzi...}
 {410}{}{Co do Jacoba i Aileen...}
 {420}{}{Co do Chada...}
-{430}{}{Co do uciekinierów...}
+{430}{}{Co do uciekinierÃ³w...}
 {440}{}{Co do naukowca z RNK...}
-{500}{}{Jeszcze masz czelnoœæ pokazywaæ tutaj swoj¹ gêbê?}
-{501}{}{Niewa¿ne. Czy mogê ciê o coœ spytaæ?}
-{502}{}{Niewa¿ne. Czeœæ.}
-{600}{}{Nie czujê siê zbyt dobrze, szefie.}
-{601}{}{Nie rób tego.}
-{602}{}{Nie s¹dzisz, ¿e to miejsce jest trochê... straszne?}
-{603}{}{Mam nadziejê, ¿e masz gumofilce... bo zaraz wdepniemy w jedno wielkie gówno.}
-{604}{}{Nie podoba mi siê to miejsce.}
-{605}{}{Ta z³amana koœæ mo¿e tylko tyle siê nad³amaæ, zanim odlecê, szefie.}
-{606}{}{Ach, ludzkoœæ.}
-{607}{}{A oto doskona³y przyk³ad, dlaczego Mistrz mia³ racjê.}
-{608}{}{I to niby mutanty s¹ zara¿one?}
-{609}{}{Uwa¿aj, szefie. Ci faceci wygl¹daj¹ na twardzieli.}
-{610}{}{Jezu... wy ludzie nigdy nie przestajecie mnie zadziwiaæ.}
-{611}{}{Mam nadziejê, ¿e wiesz co robisz...}
-{612}{}{Skopmy parê ty³ków, szefie.}
-{613}{}{To w³aœnie takie dupki mnie wkurzaj¹.}
+{500}{}{Jeszcze masz czelnoÅ›Ä‡ pokazywaÄ‡ tutaj swojÄ… gÄ™bÄ™?}
+{501}{}{NiewaÅ¼ne. Czy mogÄ™ ciÄ™ o coÅ› spytaÄ‡?}
+{502}{}{NiewaÅ¼ne. CzeÅ›Ä‡.}
+{600}{}{Nie czujÄ™ siÄ™ zbyt dobrze, szefie.}
+{601}{}{Nie rÃ³b tego.}
+{602}{}{Nie sÄ…dzisz, Å¼e to miejsce jest trochÄ™... straszne?}
+{603}{}{Mam nadziejÄ™, Å¼e masz gumofilce... bo zaraz wdepniemy w jedno wielkie gÃ³wno.}
+{604}{}{Nie podoba mi siÄ™ to miejsce.}
+{605}{}{Ta zÅ‚amana koÅ›Ä‡ moÅ¼e tylko tyle siÄ™ nadÅ‚amaÄ‡, zanim odlecÄ™, szefie.}
+{606}{}{Ach, ludzkoÅ›Ä‡.}
+{607}{}{A oto doskonaÅ‚y przykÅ‚ad, dlaczego Mistrz miaÅ‚ racjÄ™.}
+{608}{}{I to niby mutanty sÄ… zaraÅ¼one?}
+{609}{}{UwaÅ¼aj, szefie. Ci faceci wyglÄ…dajÄ… na twardzieli.}
+{610}{}{Jezu... wy ludzie nigdy nie przestajecie mnie zadziwiaÄ‡.}
+{611}{}{Mam nadziejÄ™, Å¼e wiesz co robisz...}
+{612}{}{Skopmy parÄ™ tyÅ‚kÃ³w, szefie.}
+{613}{}{To wÅ‚aÅ›nie takie dupki mnie wkurzajÄ….}
 {614}{}{Ach, znowu w domu.}
-{615}{}{Nie zapominaj... Pomaga³em wybudowaæ to miejsce. Zachowuj siê.}
-{616}{}{Mi³o znowu zobaczyæ gniazdko rodzinne.}
-{617}{}{Nigdy nie cierpia³em tego miejsca.}
-{618}{}{Kiedy st¹d idziemy?}
-{619}{}{Wynoœmy siê st¹d.}
-{620}{}{Nie myœl sobie, ¿e mnie tu chc¹, szefie.}
-{621}{}{A wiêc tu siê to wszystko zaczê³o, co?}
-{622}{}{Podleczmy siê trochê tutaj, co?}
-{623}{}{Chcesz, ¿ebym rzuci³ ci kijek, piesku?}
-{624}{}{Turlaj siê, piesku! Zdech³ pies!}
+{615}{}{Nie zapominaj... PomagaÅ‚em wybudowaÄ‡ to miejsce. Zachowuj siÄ™.}
+{616}{}{MiÅ‚o znowu zobaczyÄ‡ gniazdko rodzinne.}
+{617}{}{Nigdy nie cierpiaÅ‚em tego miejsca.}
+{618}{}{Kiedy stÄ…d idziemy?}
+{619}{}{WynoÅ›my siÄ™ stÄ…d.}
+{620}{}{Nie myÅ›l sobie, Å¼e mnie tu chcÄ…, szefie.}
+{621}{}{A wiÄ™c tu siÄ™ to wszystko zaczÄ™Å‚o, co?}
+{622}{}{Podleczmy siÄ™ trochÄ™ tutaj, co?}
+{623}{}{Chcesz, Å¼ebym rzuciÅ‚ ci kijek, piesku?}
+{624}{}{Turlaj siÄ™, piesku! ZdechÅ‚ pies!}
 {625}{}{Hej piesku! Bierz ich!}
-{626}{}{Hej Lenny! Zagl¹dasz czasem do Broken Hills?}
-{627}{}{Lenny! Napijmy siê czegoœ!}
-{628}{}{Mi³o mieæ kogoœ rozwiniêtego w grupie, Lenny.}
-{629}{}{Hej Myron! Chcesz siê trochê poboksowaæ?}
-{630}{}{Nie martw siê, Myronku. Wujek zaopiekuje siê tob¹.}
-{631}{}{Patrzcie na ten wielki mózg Myrona!}
-{632}{}{U³³³eeee!!! Który z was pierdn¹³?}
-{633}{}{[pogwizduje] Domowe przedszkole, wszystkie dzieci kocha... [œpiewa]}
+{626}{}{Hej Lenny! ZaglÄ…dasz czasem do Broken Hills?}
+{627}{}{Lenny! Napijmy siÄ™ czegoÅ›!}
+{628}{}{MiÅ‚o mieÄ‡ kogoÅ› rozwiniÄ™tego w grupie, Lenny.}
+{629}{}{Hej Myron! Chcesz siÄ™ trochÄ™ poboksowaÄ‡?}
+{630}{}{Nie martw siÄ™, Myronku. Wujek zaopiekuje siÄ™ tobÄ….}
+{631}{}{Patrzcie na ten wielki mÃ³zg Myrona!}
+{632}{}{UÅ‚Å‚Å‚eeee!!! KtÃ³ry z was pierdnÄ…Å‚?}
+{633}{}{[pogwizduje] Domowe przedszkole, wszystkie dzieci kocha... [Å›piewa]}
 {634}{}{Ludzie, patrzcie, jakiego mam tutaj robala.}
-{635}{}{W moim wieku, mi³o jest od czasu do czasu trochê zwolniæ.}
-{636}{}{Ogl¹dam sobie ob³oczki...}
+{635}{}{W moim wieku, miÅ‚o jest od czasu do czasu trochÄ™ zwolniÄ‡.}
+{636}{}{OglÄ…dam sobie obÅ‚oczki...}
 {637}{}{Zzzzzzzzz.}
-{638}{}{Dziêki, szefie.}
-{639}{}{Ee... dziêki, przyjacielu.}
-{640}{}{Err... dziêki. Chyba.}
-{641}{}{Dziêki. By³em spragniony.}
-{642}{}{Hej... Czujê siê trochê zabawnie.}
-{643}{}{Myœlê, ¿e Francis mia³ racjê co do Jacoba. Ten morderczy drañ nie bêdzie ju¿ sprawia³ problemów w tym mieœcie.}
-{644}{}{Karabin myœliwski z celownikiem jest twój.}
-{1100}{mcs43alt}{¯aden problem.}
+{638}{}{DziÄ™ki, szefie.}
+{639}{}{Ee... dziÄ™ki, przyjacielu.}
+{640}{}{Err... dziÄ™ki. Chyba.}
+{641}{}{DziÄ™ki. ByÅ‚em spragniony.}
+{642}{}{Hej... CzujÄ™ siÄ™ trochÄ™ zabawnie.}
+{643}{}{MyÅ›lÄ™, Å¼e Francis miaÅ‚ racjÄ™ co do Jacoba. Ten morderczy draÅ„ nie bÄ™dzie juÅ¼ sprawiaÅ‚ problemÃ³w w tym mieÅ›cie.}
+{644}{}{Karabin myÅ›liwski z celownikiem jest twÃ³j.}
+{1100}{mcs43alt}{Å»aden problem.}
 {3000}{}{Idziemy.}
-{3100}{}{Wiêc zapomnij o tym, dupku.}
-{3200}{}{Niewa¿ne. Twoja strata.}
-{3300}{}{Kurcze. Wiêc mo¿e póŸniej.}
-{9999}{}{Mam do ciebie kilka pytañ...}
-{10001}{}{WeŸ trochê stymulantów i podlecz siê.}
-{10002}{}{Marcus, musisz tu zaczekaæ do mojego powrotu.}
-{10003}{}{Schowaj broñ.}
-{10004}{}{B¹dŸ blisko mnie.}
-{10005}{}{Nie odchodŸ za daleko.}
-{10006}{}{Musimy siê trochê rozsun¹æ.}
+{3100}{}{WiÄ™c zapomnij o tym, dupku.}
+{3200}{}{NiewaÅ¼ne. Twoja strata.}
+{3300}{}{Kurcze. WiÄ™c moÅ¼e pÃ³Åºniej.}
+{9999}{}{Mam do ciebie kilka pytaÅ„...}
+{10001}{}{WeÅº trochÄ™ stymulantÃ³w i podlecz siÄ™.}
+{10002}{}{Marcus, musisz tu zaczekaÄ‡ do mojego powrotu.}
+{10003}{}{Schowaj broÅ„.}
+{10004}{}{BÄ…dÅº blisko mnie.}
+{10005}{}{Nie odchodÅº za daleko.}
+{10006}{}{Musimy siÄ™ trochÄ™ rozsunÄ…Ä‡.}
 {10007}{}{No to idziemy.}
-{10008}{}{Mo¿esz za³o¿yæ swój pancerz?}
-{10100}{}{ChodŸ, Marcus. Musimy ruszaæ.}
+{10008}{}{MoÅ¼esz zaÅ‚oÅ¼yÄ‡ swÃ³j pancerz?}
+{10100}{}{ChodÅº, Marcus. Musimy ruszaÄ‡.}
 {20000}{mcs81b}{Tak.}
-{20001}{}{Heh. Mogê u¿ywaæ praktycznie dowolnej du¿ej broni, jak wyrzutnie rakiet czy miniguny i du¿e bronie energetyczne. Jestem ca³kiem niez³y w walce na piêœci i mam pieroñski rzut granatami. Nie noszê zbroi, bo po prostu nie robi¹ ich w moim rozmiarze.}
-{30000}{}{Nie dziêki. Myœlê, ¿e spêdzi³em z nim ju¿ wystarczaj¹co du¿o czasu na dzisiaj, Czeœæ.}
-{40000}{}{Czyli mia³em racjê co do Chada. Wygl¹da, ¿e przez jaaakiœ czas nie bêdzie prowadzi³ karawan.}
-{40001}{}{Dobra Chad, czas zap³aciæ za swoje zbrodnie.}
-{40002}{}{*wzdycha* Idê.}
-{40003}{}{Uda³o ci siê, ¿e Chad skuba³ pieni¹dze z karawan.}
-{40004}{}{Uda³o ci siê, ¿e Chad skuba³ pieni¹dze z karawan. Tylko szkoda, ¿e zgin¹³.}
-{193001}{}{Chad zatrzyma³ sobie oko³o 1000$ z ostatniej dostawy uranu. Zamierza wyfrun¹æ z miasta.}
-{193002}{}{Chad zatrzyma³ sobie oko³o 1000$ z ostatniej dostawy uranu. Zamierza³ wyfrun¹æ z miasta, ale mia³ ma³¹ konfrontacjê ze mn¹. Teraz nie ¿yje. Mam ca³¹ teczkê jego dokumentów jako dowód.}
-{193003}{}{Chad siê do wszystkiego przyzna³. Wdaliœmy siê w bójkê w centrum karawan. Poddaje siê i czeka, ¿eby go zgarn¹æ.}
+{20001}{}{Heh. MogÄ™ uÅ¼ywaÄ‡ praktycznie dowolnej duÅ¼ej broni, jak wyrzutnie rakiet czy miniguny i duÅ¼e bronie energetyczne. Jestem caÅ‚kiem niezÅ‚y w walce na piÄ™Å›ci i mam pieroÅ„ski rzut granatami. Nie noszÄ™ zbroi, bo po prostu nie robiÄ… ich w moim rozmiarze.}
+{30000}{}{Nie dziÄ™ki. MyÅ›lÄ™, Å¼e spÄ™dziÅ‚em z nim juÅ¼ wystarczajÄ…co duÅ¼o czasu na dzisiaj, CzeÅ›Ä‡.}
+{40000}{}{Czyli miaÅ‚em racjÄ™ co do Chada. WyglÄ…da, Å¼e przez jaaakiÅ› czas nie bÄ™dzie prowadziÅ‚ karawan.}
+{40001}{}{Dobra Chad, czas zapÅ‚aciÄ‡ za swoje zbrodnie.}
+{40002}{}{*wzdycha* IdÄ™.}
+{40003}{}{UdaÅ‚o ci siÄ™, Å¼e Chad skubaÅ‚ pieniÄ…dze z karawan.}
+{40004}{}{UdaÅ‚o ci siÄ™, Å¼e Chad skubaÅ‚ pieniÄ…dze z karawan. Tylko szkoda, Å¼e zginÄ…Å‚.}
+{193001}{}{Chad zatrzymaÅ‚ sobie okoÅ‚o 1000$ z ostatniej dostawy uranu. Zamierza wyfrunÄ…Ä‡ z miasta.}
+{193002}{}{Chad zatrzymaÅ‚ sobie okoÅ‚o 1000$ z ostatniej dostawy uranu. ZamierzaÅ‚ wyfrunÄ…Ä‡ z miasta, ale miaÅ‚ maÅ‚Ä… konfrontacjÄ™ ze mnÄ…. Teraz nie Å¼yje. Mam caÅ‚Ä… teczkÄ™ jego dokumentÃ³w jako dowÃ³d.}
+{193003}{}{Chad siÄ™ do wszystkiego przyznaÅ‚. WdaliÅ›my siÄ™ w bÃ³jkÄ™ w centrum karawan. Poddaje siÄ™ i czeka, Å¼eby go zgarnÄ…Ä‡.}

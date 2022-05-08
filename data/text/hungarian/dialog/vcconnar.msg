@@ -1,63 +1,63 @@
-{100}{}{Egy koszos, izmos férfit látsz.}
-{101}{}{Connar-t látod.}
+{100}{}{Egy koszos, izmos fÃ©rfit lÃ¡tsz.}
+{101}{}{Connar-t lÃ¡tod.}
 {102}{}{Hey you! What're you doing here?!}
-{103}{}{Ne mozdulj vándor! Mit keresel itt?}
+{103}{}{Ne mozdulj vÃ¡ndor! Mit keresel itt?}
 {104}{}{I'm killing off all these mole rats.}
-{105}{}{Miért? Mit ártottak neked?}
+{105}{}{MiÃ©rt? Mit Ã¡rtottak neked?}
 {106}{}{Mert csak!}
 {107}{}{I bet those bastards at Vault City sent you. Well, you best be off, and leave everything else alive.}
-{108}{}{Hát, ezzel elkéstél.}
-{109}{}{Miért?}
+{108}{}{HÃ¡t, ezzel elkÃ©stÃ©l.}
+{109}{}{MiÃ©rt?}
 {110}{}{Bocs, de a munka az munka.}
 {111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
 {112}{}{Look, they're paying me to get rid of these beasts, so that's what I'm gonna do.}
-{113}{}{Err?l nem szóltak.}
-{114}{}{Fizetnek, hogy kipucoljam a helyet. Már végeztem is velük.}
-{115}{}{Te idióta! Mi a francért csináltad ezt?}
-{116}{}{Kellett a pénz.}
+{113}{}{Err?l nem szÃ³ltak.}
+{114}{}{Fizetnek, hogy kipucoljam a helyet. MÃ¡r vÃ©geztem is velÃ¼k.}
+{115}{}{Te idiÃ³ta! Mi a francÃ©rt csinÃ¡ltad ezt?}
+{116}{}{Kellett a pÃ©nz.}
 {117}{}{Ugye tudod, hogy elvisznek minket, ha megteszed?}
-{118}{}{Nem az én bajom.}
-{119}{}{Akkor dögölj meg! Hamarosan jönnek értünk.}
-{120}{}{Nem tudtam, hogy ezért olyan fontos nekik.}
-{121}{}{Aha, persze. Különben sem tárgyalok ilyen szar alakkal, mint te.}
+{118}{}{Nem az Ã©n bajom.}
+{119}{}{Akkor dÃ¶gÃ¶lj meg! Hamarosan jÃ¶nnek Ã©rtÃ¼nk.}
+{120}{}{Nem tudtam, hogy ezÃ©rt olyan fontos nekik.}
+{121}{}{Aha, persze. KÃ¼lÃ¶nben sem tÃ¡rgyalok ilyen szar alakkal, mint te.}
 {122}{}{Bocs, de nem hagyhatjuk.}
 {123}{}{Tedd amit tenned kell.}
 {124}{}{You believed them at face value? You've a lot to learn about the world, friend.}
-{125}{}{Segíthetek bármiben?}
-{126}{}{A menedékvárosi srácok elég beszariak. Csinálsz egy-két figurát és már futnak is a hegyekbe. Ha lenne pár l?fegyverünk, azt hiszem, elbírnánk velük.}
+{125}{}{SegÃ­thetek bÃ¡rmiben?}
+{126}{}{A menedÃ©kvÃ¡rosi srÃ¡cok elÃ©g beszariak. CsinÃ¡lsz egy-kÃ©t figurÃ¡t Ã©s mÃ¡r futnak is a hegyekbe. Ha lenne pÃ¡r l?fegyverÃ¼nk, azt hiszem, elbÃ­rnÃ¡nk velÃ¼k.}
 {127}{}{I might be able to help you out, but guns aren't cheap. What sort of guns you looking for?}
 {128}{}{[He eyes you with a tentative grin.] You're serious about helping us, aren't you? Alright, if you're up for it,
  then some rifles would be ideal--that way we could start picking them off from a distance. So if you truly wanna help,
  then bring us some automatic rifles--four would do it. Oh, and a shotgun would be nice too, in case things get close and dirty.}
 {129}{}{I'll see what I can do. But like I said, guns aren't cheap, so I'm gonna need some money.}
-{130}{}{Nem vagy közénk való. Tünj el!}
-{131}{}{Meggondoltam magam. Tudok segíteni?}
-{132}{}{Aha, a legjobb ha minél hamarabb lelépsz.}
-{133}{}{Aggódom.}
-{134}{}{Hát visszajöttél! Sikerült fegyvereket szerezned?}
-{135}{}{Mi kell már megint?}
+{130}{}{Nem vagy kÃ¶zÃ©nk valÃ³. TÃ¼nj el!}
+{131}{}{Meggondoltam magam. Tudok segÃ­teni?}
+{132}{}{Aha, a legjobb ha minÃ©l hamarabb lelÃ©psz.}
+{133}{}{AggÃ³dom.}
+{134}{}{HÃ¡t visszajÃ¶ttÃ©l! SikerÃ¼lt fegyvereket szerezned?}
+{135}{}{Mi kell mÃ¡r megint?}
 {136}{}{Ja, itt vannak.}
 {137}{}{We need four assault rifles and a shotgun. The sooner you can get them to us, the better.}
-{138}{}{Oké.}
+{138}{}{OkÃ©.}
 {139}{}{Alright! With these babies, we should able to make something of this place over the next couple months. Thanks a
  lot, and hey, if you ever need a place to rest, you'll always be welcome here, friend.}
-{140}{}{Szóra sem érdemes.}
+{140}{}{SzÃ³ra sem Ã©rdemes.}
 {141}{}{Hello! Things are going well. We're going to work on expanding the Village in the next month.}
-{142}{}{Üdv újra. Jól mennek a dolgok, mint látod. Nézz körül, ha van id?d!}
-{143}{}{Még mindig épitkezünk. Ha minden jól megy, jöv? hónapban megemeljük a falakat.}
+{142}{}{Ãœdv Ãºjra. JÃ³l mennek a dolgok, mint lÃ¡tod. NÃ©zz kÃ¶rÃ¼l, ha van id?d!}
+{143}{}{MÃ©g mindig Ã©pitkezÃ¼nk. Ha minden jÃ³l megy, jÃ¶v? hÃ³napban megemeljÃ¼k a falakat.}
 {144}{}{Greetings! The village has expanded again, just as we've hoped. Of course, you're welcome as always.}
 {145}{}{We no longer have anything to fear from Vault City--it looks like we'll be able to live here in peace. Thanks again, wanderer.}
-{146}{}{Csak ne gyilkolássz itt semmit, te gyökér!}
+{146}{}{Csak ne gyilkolÃ¡ssz itt semmit, te gyÃ¶kÃ©r!}
 {147}{}{What the hell have you done?!?! You fucking traitor! I hate you!!!}
 {148}{}{Oooooops...}
 {149}{}{Let me out of here!!!}
 {150}{}{Mi rosszat tettem?}
-{151}{}{Segítség!}
+{151}{}{SegÃ­tsÃ©g!}
 {152}{}{Of course. Here, this is all we can afford. [He hands you $5,000.] I might be a damn fool for trusting it to a
  stranger, but you're the only hope we've got of staying free. Speak to Old Joe in Vault City's courtyard. He's usually
  in or around the bar. He'll know what to do.}
-{153}{}{Máris indulok.}
-{154}{}{Feltehetnék egy-két futó kérdést?}
+{153}{}{MÃ¡ris indulok.}
+{154}{}{FeltehetnÃ©k egy-kÃ©t futÃ³ kÃ©rdÃ©st?}
 {155}{}{Certainly, what's on your mind?}
 {156}{}{Where did these mole rats come from, and why aren't they aggressive?}
 {157}{}{Nothing, bye.}
@@ -79,7 +79,7 @@
 {169}{}{You are always welcome here! Goodbye.}
 {170}{}{Yes, but I don't think you're gonna need them. At least not against Vault City. You see, I've convinced the Vault City council not to touch your village.}
 {171}{}{I'll do it. I have some questions before I go though.}
-{172}{}{Felejtsük el! Viszlát.}
+{172}{}{FelejtsÃ¼k el! ViszlÃ¡t.}
 {173}{}{Not yet. I'll return when I have them.}
 {174}{}{Thanks! See you around.}
 {200}{}{It just so happens that I've already got what you need right here.}

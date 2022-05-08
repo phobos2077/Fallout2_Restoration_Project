@@ -1,5 +1,5 @@
-1:Avec l'échec du complot visant à éliminer les mutants, les Collines Brisées commençèrent à prospérer.
-2:Puis, l'uranium s'épuisa.
-3:Ayant perdu sa seule raison d'exister, la ville se désagrégea lentement.
-4:Les résidents emportèrent avec eux leurs richesses, laissant derrière eux une ville fantôme abandonnée et balayée par les vents.
-5:Quelques-uns persistèrent, luttant pour se sortir d'une existence pitoyable, mais ils finirent par disparaître eux aussi.
+1:Avec l'Ã©chec du complot visant Ã  Ã©liminer les mutants, les Collines BrisÃ©es commenÃ§Ã¨rent Ã  prospÃ©rer.
+2:Puis, l'uranium s'Ã©puisa.
+3:Ayant perdu sa seule raison d'exister, la ville se dÃ©sagrÃ©gea lentement.
+4:Les rÃ©sidents emportÃ¨rent avec eux leurs richesses, laissant derriÃ¨re eux une ville fantÃ´me abandonnÃ©e et balayÃ©e par les vents.
+5:Quelques-uns persistÃ¨rent, luttant pour se sortir d'une existence pitoyable, mais ils finirent par disparaÃ®tre eux aussi.

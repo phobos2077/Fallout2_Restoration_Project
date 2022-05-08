@@ -1,4 +1,4 @@
-{100}{}{Tu vois un peu plus loin un imposant éboulement. Un guerrier lutte pour déplacer sa jambe cassée coincée entre les rochers tandis qu'un gecko doré se prépare à bondir sur le tribal sans défense, sa lance étant hors de portée. Non loin, le corps d'un autre guerrier gît, inerte.}
+{100}{}{Tu vois un peu plus loin un imposant Ã©boulement. Un guerrier lutte pour dÃ©placer sa jambe cassÃ©e coincÃ©e entre les rochers tandis qu'un gecko dorÃ© se prÃ©pare Ã  bondir sur le tribal sans dÃ©fense, sa lance Ã©tant hors de portÃ©e. Non loin, le corps d'un autre guerrier gÃ®t, inerte.}
 {101}{}{[Foncer et sauver le tribal]}
 {102}{}{[Le laisser mourir]}
 {200}{}{Je vais mourir en guerrier.}

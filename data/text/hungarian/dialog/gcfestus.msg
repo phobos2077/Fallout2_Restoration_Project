@@ -1,169 +1,169 @@
-{100}{}{Ez itt egy különösen elhanyagolt ghoul.}
-{101}{}{? Festus, az atomreaktor felügyel?je.}
-{102}{}{Ez itt egy igen zord tekintet? ghoul, a megjelenése elég sok kivánnivalót hagy maga után. A szagáról ne is beszéljünk, olyan, mint egy gennyedz? seb.}
-{110}{}{Lehet, hogy mégis igaz, hogy mind hülyék vagytok? Ha, ha, ha...}
-{111}{}{Zokniból van az agyad? Ha, ha, ha... Úgy nézel ki, mint egy Menedékvárosi fazon.}
-{112}{}{Hát úgy látom, agyilag zokni vagy, nemde? Irány Menedékváros!}
-{113}{}{Egy csomó fontos dolgot kell még csinálnom. Miért nem mész vissza Menedékvárosba, ahova az ilyenek valók?}
-{114}{}{Hahaha. Olyan hülye pofát tudsz vágni!}
-{120}{}{Üdv, Festus vagyok. Én felügyelem az egész reaktort. Nélkülem ez a város már sehol nem lenne. Nagyon elfoglalt vagyok, szétdolgoztatják az agyam.}
-{121}{}{Nagyon sok dolgom van itt, tényleg jólesne egy kis pihen?. A baj az, hogy itt senki nem képes egy atomreaktort m?ködtetni. Tudod én zabolázom meg az atomot. Elég fárasztó...}
-{122}{}{Mi a munkád?}
-{123}{}{Van egy olyan érzésem, hogy a reaktor nem m?ködik rendesen. Igazam van?}
-{124}{}{Miért néz úgy ki, és miért olyan a szaga, mintha menten szétrohadna?}
-{125}{}{Az a helyzet, hogy nem szívesen rabolnám az értékes idejét. Jobb ha megyek. Viszlát!}
-{130}{}{Most már jól m?ködik a reaktor. Látod, milyen fasza gyerek vagyok.}
-{131}{}{A reaktor most már elég t?rhet?en m?ködik, ez rendben volna, persze el tudnék képzelni egy kis finomhangolást, de azért összességében nem rossz.}
-{132}{}{Miféle finomhangolásról beszél?}
-{133}{}{Nos, semmi sem lehet tökéletes. Ég magával, Festus.}
-{141}{}{Hát, én felügyelem az atomer?m?vet. Nem viccelek. Az egész kóceráj rámmarad.}
-{142}{}{Én csinálok mindent - felügyel?i min?ségben. Nem igazán menne, ha nem lennék olyan eszméletlen jó benne. Ez adottság kérdése. De tényleg!}
-{143}{}{Egyedül? És a többiek a másik szobában mit csinálnak?}
-{144}{}{Gyanítom, nem sokat tud az atomenergiáról.}
-{145}{}{Asszem, nem tartom fel. Viszlát!}
-{150}{}{Léh?t?k. Mind léh?t? egyt?l-egyig. Nem igazán értik, mit kell itt csinálni. Csak fölöslegesen pusztítják az ételt. Kicsit bosszant, hogy azt hiszik, tudnak valamit az atomer?m?vekr?l. Elmondom, ha én nem lennék...}
-{151}{}{Hmm. Mit is mondott, mit csinál itt?}
-{152}{}{Aha, értem, de most jobb lesz, ha inkább megyek. Kés?bb találkozunk.}
-{160}{}{Hogy én ne tudnám, mi az az atomenergia? Kis híján én találtam fel. Többet tudok az atomenergiáról, mint bármelyik él? ember. Ha atomenergiáról van szó, én vagyok a legilletékesebb.}
-{161}{}{Hmm. Mit is mondott, mit csinál itt?}
-{162}{}{Aha, értem, de most jobb lesz, ha inkább megyek. Kés?bb találkozunk.}
-{170}{}{Tudod, tényleg én kezelek itt mindent, és ez eléggé megvisel. Még szerencse, hogy sok év tapasztalat áll mögöttem. Ha atomer?m?vekr?l van szó, profi vagyok.}
-{171}{}{Maga aztán érthet a munkájához.}
-{172}{}{Biztos, így van. De... most inkább mennem kéne. Viszlát!}
-{180}{}{Sokak szerint ez könny? dolog. Azt hiszik, hogy minden jöttment képes atomer?m?veket kezelni, de ez nem való képzetlen vagy beszari alakoknak. Én zabolázom itt meg az atomot, ember!}
-{181}{}{Mit mondjak?... le vagyok ny?gözve...}
-{182}{}{Igazán nem akarom feltartani. Viszlát!}
-{190}{}{Hát nem mondom, hogy nem kelne el egy kis segítség, de hát láthatod, hogy senki nem elég képzett ahhoz, amit csinálok. Még az alapokat sem képesek felfogni.}
-{191}{}{Hogy lehetne magával akárhogyis lépést tartani?}
-{192}{}{Hát maga aztán nem semmi, ez kétségtelen. Na, ég áldja!}
-{200}{}{Hát éppen ez az! Látom, ismered a dörgést. Ha nem lenne itt annyi munkám, én lennék Gekkó vezet?je is. Abban biztos lehetsz, hogy volna foganatja.}
-{201}{}{A várost is átvenné?}
-{202}{}{Arrrrghh! Elég volt, elmegyek! Ne próbáljon megállítani!}
-{210}{}{Hát nem lenne itt semmiféle uránkereskedelem Broken Hillsszel. Helyette inkább áramot adnánk. Az atom energiájával m?ködtetnék a városukat.}
-{211}{}{Nem kéne hosszú-hosszú mérföldeken át távvezetékeket építeni?}
-{212}{}{Nem érez valami szagot? Valami b?zt? Jobb lesz, ha megyek. Viszlát!}
-{220}{}{Gondolom, kéne. Aztán vásárolhatnának t?lünk óriási akkumulátorokat. Igen-igen, ez a dolog szépsége. T?lünk vásárolnák az aksikat is. És ez csak a kezdet lenne. Más nagyszabású terveim is vannak, mégpedig...}
-{221}{}{Maga politikus is egyben? Hihetetlen, milyen sokoldalú emberhez van szerencsém.}
-{222}{}{Valami rohad itt? Friss leveg?re van szükségem. Viszlát!}
-{230}{}{Egyszer?en nem ragadok le egy dolognál. Bármit próbálok, jó vagyok benne. Ritkán találok jobbat magamnál. Persze a legkedvesebb elfoglaltságom az atomer?m?vel való bíbel?dés. Viszont ha akarnám, bármivel foglalkozhatnék.}
-{231}{}{Nem hiszem el, hogy az itteniek nem látják a maga tehetségét. Megyek és el is mondom mindenkinek. Még találkozunk.}
-{232}{}{Ki kell törni. Gyengül az er?m. Mennem kell.}
-{240}{}{Mi szél hozott az atomreaktorom e szegletében?}
-{241}{}{Az a nagy helyzet, hogy van egy alkatrészem, amivel megjavíthatná a reaktort.}
-{242}{}{Igazából csak körülnéztem. Már megyek is.}
-{250}{}{Igaz, ami igaz, nem vagyok biztos benne, hogy ez a megfelel? alkatrész. Visszavihetnéd Menedékvárosba, hogy leellen?rizzék. Nem hinném, hogy rám számíthatsz ebben.}
-{251}{}{Biztos vagyok benne, hogy ez a megfelel? alkatrész. Nagyon bízom a maga tudásában.}
-{252}{}{Asszem, igaza van. Jobb, ha más módot találok, hogy az alkatrész a helyére kerüljön.}
-{260}{}{Nem hinném, hogy azok a Menedékvárosi népek igazán odalennének értünk. Kinézném bel?lük, hogy valami robbanószert rejtettek bele. Lehet, hogy csak úgy néz ki, mint a jó alkatrész, aztán kiderül, hogy egy bomba. Nem fogsz lépre csalni ezzel. Én bele nem rakom.}
-{261}{}{A maga technikai zsenijével semmi perc alatt rájönne, ha ez itt bomba lenne. Kérem építse be.}
-{262}{}{Asszem, igaza van. Jobb, ha más módot találok, hogy az alkatrész a helyére kerüljön.}
-{270}{}{Rendben, itt vagyok. De azt továbbra sem tudom, hogy ez a jó alkatrész vagy bomba netán. Az a baj, hogy túlságosan értékes vagyok, hogy csakúgy a leveg?be repüljek. Talán kés?bb megkérhetnénk valakit, hogy csinálja meg... jóval kés?bb.}
+{100}{}{Ez itt egy kÃ¼lÃ¶nÃ¶sen elhanyagolt ghoul.}
+{101}{}{? Festus, az atomreaktor felÃ¼gyel?je.}
+{102}{}{Ez itt egy igen zord tekintet? ghoul, a megjelenÃ©se elÃ©g sok kivÃ¡nnivalÃ³t hagy maga utÃ¡n. A szagÃ¡rÃ³l ne is beszÃ©ljÃ¼nk, olyan, mint egy gennyedz? seb.}
+{110}{}{Lehet, hogy mÃ©gis igaz, hogy mind hÃ¼lyÃ©k vagytok? Ha, ha, ha...}
+{111}{}{ZoknibÃ³l van az agyad? Ha, ha, ha... Ãšgy nÃ©zel ki, mint egy MenedÃ©kvÃ¡rosi fazon.}
+{112}{}{HÃ¡t Ãºgy lÃ¡tom, agyilag zokni vagy, nemde? IrÃ¡ny MenedÃ©kvÃ¡ros!}
+{113}{}{Egy csomÃ³ fontos dolgot kell mÃ©g csinÃ¡lnom. MiÃ©rt nem mÃ©sz vissza MenedÃ©kvÃ¡rosba, ahova az ilyenek valÃ³k?}
+{114}{}{Hahaha. Olyan hÃ¼lye pofÃ¡t tudsz vÃ¡gni!}
+{120}{}{Ãœdv, Festus vagyok. Ã‰n felÃ¼gyelem az egÃ©sz reaktort. NÃ©lkÃ¼lem ez a vÃ¡ros mÃ¡r sehol nem lenne. Nagyon elfoglalt vagyok, szÃ©tdolgoztatjÃ¡k az agyam.}
+{121}{}{Nagyon sok dolgom van itt, tÃ©nyleg jÃ³lesne egy kis pihen?. A baj az, hogy itt senki nem kÃ©pes egy atomreaktort m?kÃ¶dtetni. Tudod Ã©n zabolÃ¡zom meg az atomot. ElÃ©g fÃ¡rasztÃ³...}
+{122}{}{Mi a munkÃ¡d?}
+{123}{}{Van egy olyan Ã©rzÃ©sem, hogy a reaktor nem m?kÃ¶dik rendesen. Igazam van?}
+{124}{}{MiÃ©rt nÃ©z Ãºgy ki, Ã©s miÃ©rt olyan a szaga, mintha menten szÃ©trohadna?}
+{125}{}{Az a helyzet, hogy nem szÃ­vesen rabolnÃ¡m az Ã©rtÃ©kes idejÃ©t. Jobb ha megyek. ViszlÃ¡t!}
+{130}{}{Most mÃ¡r jÃ³l m?kÃ¶dik a reaktor. LÃ¡tod, milyen fasza gyerek vagyok.}
+{131}{}{A reaktor most mÃ¡r elÃ©g t?rhet?en m?kÃ¶dik, ez rendben volna, persze el tudnÃ©k kÃ©pzelni egy kis finomhangolÃ¡st, de azÃ©rt Ã¶sszessÃ©gÃ©ben nem rossz.}
+{132}{}{MifÃ©le finomhangolÃ¡srÃ³l beszÃ©l?}
+{133}{}{Nos, semmi sem lehet tÃ¶kÃ©letes. Ã‰g magÃ¡val, Festus.}
+{141}{}{HÃ¡t, Ã©n felÃ¼gyelem az atomer?m?vet. Nem viccelek. Az egÃ©sz kÃ³cerÃ¡j rÃ¡mmarad.}
+{142}{}{Ã‰n csinÃ¡lok mindent - felÃ¼gyel?i min?sÃ©gben. Nem igazÃ¡n menne, ha nem lennÃ©k olyan eszmÃ©letlen jÃ³ benne. Ez adottsÃ¡g kÃ©rdÃ©se. De tÃ©nyleg!}
+{143}{}{EgyedÃ¼l? Ã‰s a tÃ¶bbiek a mÃ¡sik szobÃ¡ban mit csinÃ¡lnak?}
+{144}{}{GyanÃ­tom, nem sokat tud az atomenergiÃ¡rÃ³l.}
+{145}{}{Asszem, nem tartom fel. ViszlÃ¡t!}
+{150}{}{LÃ©h?t?k. Mind lÃ©h?t? egyt?l-egyig. Nem igazÃ¡n Ã©rtik, mit kell itt csinÃ¡lni. Csak fÃ¶lÃ¶slegesen pusztÃ­tjÃ¡k az Ã©telt. Kicsit bosszant, hogy azt hiszik, tudnak valamit az atomer?m?vekr?l. Elmondom, ha Ã©n nem lennÃ©k...}
+{151}{}{Hmm. Mit is mondott, mit csinÃ¡l itt?}
+{152}{}{Aha, Ã©rtem, de most jobb lesz, ha inkÃ¡bb megyek. KÃ©s?bb talÃ¡lkozunk.}
+{160}{}{Hogy Ã©n ne tudnÃ¡m, mi az az atomenergia? Kis hÃ­jÃ¡n Ã©n talÃ¡ltam fel. TÃ¶bbet tudok az atomenergiÃ¡rÃ³l, mint bÃ¡rmelyik Ã©l? ember. Ha atomenergiÃ¡rÃ³l van szÃ³, Ã©n vagyok a legilletÃ©kesebb.}
+{161}{}{Hmm. Mit is mondott, mit csinÃ¡l itt?}
+{162}{}{Aha, Ã©rtem, de most jobb lesz, ha inkÃ¡bb megyek. KÃ©s?bb talÃ¡lkozunk.}
+{170}{}{Tudod, tÃ©nyleg Ã©n kezelek itt mindent, Ã©s ez elÃ©ggÃ© megvisel. MÃ©g szerencse, hogy sok Ã©v tapasztalat Ã¡ll mÃ¶gÃ¶ttem. Ha atomer?m?vekr?l van szÃ³, profi vagyok.}
+{171}{}{Maga aztÃ¡n Ã©rthet a munkÃ¡jÃ¡hoz.}
+{172}{}{Biztos, Ã­gy van. De... most inkÃ¡bb mennem kÃ©ne. ViszlÃ¡t!}
+{180}{}{Sokak szerint ez kÃ¶nny? dolog. Azt hiszik, hogy minden jÃ¶ttment kÃ©pes atomer?m?veket kezelni, de ez nem valÃ³ kÃ©pzetlen vagy beszari alakoknak. Ã‰n zabolÃ¡zom itt meg az atomot, ember!}
+{181}{}{Mit mondjak?... le vagyok ny?gÃ¶zve...}
+{182}{}{IgazÃ¡n nem akarom feltartani. ViszlÃ¡t!}
+{190}{}{HÃ¡t nem mondom, hogy nem kelne el egy kis segÃ­tsÃ©g, de hÃ¡t lÃ¡thatod, hogy senki nem elÃ©g kÃ©pzett ahhoz, amit csinÃ¡lok. MÃ©g az alapokat sem kÃ©pesek felfogni.}
+{191}{}{Hogy lehetne magÃ¡val akÃ¡rhogyis lÃ©pÃ©st tartani?}
+{192}{}{HÃ¡t maga aztÃ¡n nem semmi, ez kÃ©tsÃ©gtelen. Na, Ã©g Ã¡ldja!}
+{200}{}{HÃ¡t Ã©ppen ez az! LÃ¡tom, ismered a dÃ¶rgÃ©st. Ha nem lenne itt annyi munkÃ¡m, Ã©n lennÃ©k GekkÃ³ vezet?je is. Abban biztos lehetsz, hogy volna foganatja.}
+{201}{}{A vÃ¡rost is Ã¡tvennÃ©?}
+{202}{}{Arrrrghh! ElÃ©g volt, elmegyek! Ne prÃ³bÃ¡ljon megÃ¡llÃ­tani!}
+{210}{}{HÃ¡t nem lenne itt semmifÃ©le urÃ¡nkereskedelem Broken Hillsszel. Helyette inkÃ¡bb Ã¡ramot adnÃ¡nk. Az atom energiÃ¡jÃ¡val m?kÃ¶dtetnÃ©k a vÃ¡rosukat.}
+{211}{}{Nem kÃ©ne hosszÃº-hosszÃº mÃ©rfÃ¶ldeken Ã¡t tÃ¡vvezetÃ©keket Ã©pÃ­teni?}
+{212}{}{Nem Ã©rez valami szagot? Valami b?zt? Jobb lesz, ha megyek. ViszlÃ¡t!}
+{220}{}{Gondolom, kÃ©ne. AztÃ¡n vÃ¡sÃ¡rolhatnÃ¡nak t?lÃ¼nk Ã³riÃ¡si akkumulÃ¡torokat. Igen-igen, ez a dolog szÃ©psÃ©ge. T?lÃ¼nk vÃ¡sÃ¡rolnÃ¡k az aksikat is. Ã‰s ez csak a kezdet lenne. MÃ¡s nagyszabÃ¡sÃº terveim is vannak, mÃ©gpedig...}
+{221}{}{Maga politikus is egyben? Hihetetlen, milyen sokoldalÃº emberhez van szerencsÃ©m.}
+{222}{}{Valami rohad itt? Friss leveg?re van szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{230}{}{Egyszer?en nem ragadok le egy dolognÃ¡l. BÃ¡rmit prÃ³bÃ¡lok, jÃ³ vagyok benne. RitkÃ¡n talÃ¡lok jobbat magamnÃ¡l. Persze a legkedvesebb elfoglaltsÃ¡gom az atomer?m?vel valÃ³ bÃ­bel?dÃ©s. Viszont ha akarnÃ¡m, bÃ¡rmivel foglalkozhatnÃ©k.}
+{231}{}{Nem hiszem el, hogy az itteniek nem lÃ¡tjÃ¡k a maga tehetsÃ©gÃ©t. Megyek Ã©s el is mondom mindenkinek. MÃ©g talÃ¡lkozunk.}
+{232}{}{Ki kell tÃ¶rni. GyengÃ¼l az er?m. Mennem kell.}
+{240}{}{Mi szÃ©l hozott az atomreaktorom e szegletÃ©ben?}
+{241}{}{Az a nagy helyzet, hogy van egy alkatrÃ©szem, amivel megjavÃ­thatnÃ¡ a reaktort.}
+{242}{}{IgazÃ¡bÃ³l csak kÃ¶rÃ¼lnÃ©ztem. MÃ¡r megyek is.}
+{250}{}{Igaz, ami igaz, nem vagyok biztos benne, hogy ez a megfelel? alkatrÃ©sz. VisszavihetnÃ©d MenedÃ©kvÃ¡rosba, hogy leellen?rizzÃ©k. Nem hinnÃ©m, hogy rÃ¡m szÃ¡mÃ­thatsz ebben.}
+{251}{}{Biztos vagyok benne, hogy ez a megfelel? alkatrÃ©sz. Nagyon bÃ­zom a maga tudÃ¡sÃ¡ban.}
+{252}{}{Asszem, igaza van. Jobb, ha mÃ¡s mÃ³dot talÃ¡lok, hogy az alkatrÃ©sz a helyÃ©re kerÃ¼ljÃ¶n.}
+{260}{}{Nem hinnÃ©m, hogy azok a MenedÃ©kvÃ¡rosi nÃ©pek igazÃ¡n odalennÃ©nek Ã©rtÃ¼nk. KinÃ©znÃ©m bel?lÃ¼k, hogy valami robbanÃ³szert rejtettek bele. Lehet, hogy csak Ãºgy nÃ©z ki, mint a jÃ³ alkatrÃ©sz, aztÃ¡n kiderÃ¼l, hogy egy bomba. Nem fogsz lÃ©pre csalni ezzel. Ã‰n bele nem rakom.}
+{261}{}{A maga technikai zsenijÃ©vel semmi perc alatt rÃ¡jÃ¶nne, ha ez itt bomba lenne. KÃ©rem Ã©pÃ­tse be.}
+{262}{}{Asszem, igaza van. Jobb, ha mÃ¡s mÃ³dot talÃ¡lok, hogy az alkatrÃ©sz a helyÃ©re kerÃ¼ljÃ¶n.}
+{270}{}{Rendben, itt vagyok. De azt tovÃ¡bbra sem tudom, hogy ez a jÃ³ alkatrÃ©sz vagy bomba netÃ¡n. Az a baj, hogy tÃºlsÃ¡gosan Ã©rtÃ©kes vagyok, hogy csakÃºgy a leveg?be repÃ¼ljek. TalÃ¡n kÃ©s?bb megkÃ©rhetnÃ©nk valakit, hogy csinÃ¡lja meg... jÃ³val kÃ©s?bb.}
 {271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
  depends on you!}
-{272}{}{Asszem, igaza van. Jobb, ha más módot találok, hogy az alkatrész a helyére kerüljön.}
-{300}{}{Hát az tuti, hogy sok uránt eszik, és hát szivárog is valamennyire. Már kértem valakit, hogy javítsa meg, de rám sem hederítenek.}
-{301}{}{Úgy hallottam, hogy szivárog a sugárzó anyag és egyenesen a talajvizet szennyezi. Igaz ez?}
-{302}{}{Azt hittem, hogy maga a szakért?. Miért nem javítja meg? Mi a fészkes fenét csinál itt akkor?}
-{310}{}{Nem lehetetlen végül is, de nem hinném, hogy túl nagy bajt okozna. Végül is csak talajvíz.}
-{311}{}{Ez nem feltétlenül igaz. Menedékváros arra panaszkodik, hogy a maguk atomreaktora sugárzással szennyezi az ivóvizüket.}
+{272}{}{Asszem, igaza van. Jobb, ha mÃ¡s mÃ³dot talÃ¡lok, hogy az alkatrÃ©sz a helyÃ©re kerÃ¼ljÃ¶n.}
+{300}{}{HÃ¡t az tuti, hogy sok urÃ¡nt eszik, Ã©s hÃ¡t szivÃ¡rog is valamennyire. MÃ¡r kÃ©rtem valakit, hogy javÃ­tsa meg, de rÃ¡m sem hederÃ­tenek.}
+{301}{}{Ãšgy hallottam, hogy szivÃ¡rog a sugÃ¡rzÃ³ anyag Ã©s egyenesen a talajvizet szennyezi. Igaz ez?}
+{302}{}{Azt hittem, hogy maga a szakÃ©rt?. MiÃ©rt nem javÃ­tja meg? Mi a fÃ©szkes fenÃ©t csinÃ¡l itt akkor?}
+{310}{}{Nem lehetetlen vÃ©gÃ¼l is, de nem hinnÃ©m, hogy tÃºl nagy bajt okozna. VÃ©gÃ¼l is csak talajvÃ­z.}
+{311}{}{Ez nem feltÃ©tlenÃ¼l igaz. MenedÃ©kvÃ¡ros arra panaszkodik, hogy a maguk atomreaktora sugÃ¡rzÃ¡ssal szennyezi az ivÃ³vizÃ¼ket.}
 {312}{}{Ha maga mondja... Na, isten vele.}
-{320}{}{Ez lehetetlen! Ha valaki, akkor én tudnék róla. Csak b?nbakot keresnek a problémájukra. Mégcsak nem is ugyanabból a víztározóból nyerjük a vizünket.}
-{321}{}{Hihet?en hangzik. De az ? változatuk is.}
-{330}{}{Atomenergia kérdésében az csak egy rakás amat?r, az igazi szakért? itt áll el?tted. A szavamban úgy megbízhatsz, mint a pinty. Ha legalább maradtak volna pintyek.}
-{331}{}{Hát gondolom, tudja, mit beszél. Viszlát máskor.}
-{332}{}{Nem vagyok ebben olyan biztos, mint maga. Viszlát!}
-{340}{}{Van nálad egy tartalék hidroelektromos magnetoszféra szabályozó?}
-{341}{}{Tudja egyáltalán, hogy mi az?}
-{342}{}{Van bizony. Gondolom, maga akarja üzembe helyezni...}
+{320}{}{Ez lehetetlen! Ha valaki, akkor Ã©n tudnÃ©k rÃ³la. Csak b?nbakot keresnek a problÃ©mÃ¡jukra. MÃ©gcsak nem is ugyanabbÃ³l a vÃ­ztÃ¡rozÃ³bÃ³l nyerjÃ¼k a vizÃ¼nket.}
+{321}{}{Hihet?en hangzik. De az ? vÃ¡ltozatuk is.}
+{330}{}{Atomenergia kÃ©rdÃ©sÃ©ben az csak egy rakÃ¡s amat?r, az igazi szakÃ©rt? itt Ã¡ll el?tted. A szavamban Ãºgy megbÃ­zhatsz, mint a pinty. Ha legalÃ¡bb maradtak volna pintyek.}
+{331}{}{HÃ¡t gondolom, tudja, mit beszÃ©l. ViszlÃ¡t mÃ¡skor.}
+{332}{}{Nem vagyok ebben olyan biztos, mint maga. ViszlÃ¡t!}
+{340}{}{Van nÃ¡lad egy tartalÃ©k hidroelektromos magnetoszfÃ©ra szabÃ¡lyozÃ³?}
+{341}{}{Tudja egyÃ¡ltalÃ¡n, hogy mi az?}
+{342}{}{Van bizony. Gondolom, maga akarja Ã¼zembe helyezni...}
 {350}{}{Surprised? Never doubt my knowledge about atomic power plants. I know everything there is to know about them.}
-{351}{}{Na, ha tudja, mi az, akkor gyerekjáték üzembe helyeznie.}
-{352}{}{Azt hiszem, már eddig is túl sokat hallgattam magát. Viszlát!}
+{351}{}{Na, ha tudja, mi az, akkor gyerekjÃ¡tÃ©k Ã¼zembe helyeznie.}
+{352}{}{Azt hiszem, mÃ¡r eddig is tÃºl sokat hallgattam magÃ¡t. ViszlÃ¡t!}
 {360}{}{Of course I do. Why, that's just plain simple for someone of my experience and talent. I was
  weaned on Magnetosphere Regulators as a pup, you know.}
-{361}{}{Ez nagyszer?. Lenne szíves üzembe helyezni?}
-{370}{}{Hát minden bizonnyal meg tudnám csinálni, minden valószín?ség szerint én vagyok itt az egyetlen, aki meg tudná csinálni. A hidroelektromos magnetoszféra szabályozó trükkös kis jószág.}
-{371}{}{A szabályozó csakis magára vár. Tudtam, hogy bízhatom magában.}
-{372}{}{Most, hogy jobban átgondolom, valami más módot kéne találnom. Viszlát!}
-{380}{}{Hát minden bizonnyal meg tudnám csinálni, de azt tudni kell, hogy a hidroelektromos magnetoszféra szabályozó trükkös kis jószág. És nagyon veszélyes. Na, nem mintha magamat félteném, de mégis ki a fene felügyelné az atomer?m?vet, ha velem valami történne. Sajnálom, nem segíthetek.}
-{381}{}{Tudtam, hogy kihúzza magát alóla. Na, én lépek.}
-{390}{}{Most nem tudok vele foglalkozni. Túlságosan elfoglalt vagyok.}
-{391}{}{Gyere vissza jöv? héten. Talán tudok rá id?t szakítani.}
-{392}{}{Egyébként ez az alkatrész nem jó, a nyakamat rá.}
-{393}{}{Elnézést, most nagyon elfoglalt vagyok, hogy segíthessek.}
-{394}{}{Nem árulhatom el Gekkót azzal, hogy veszélyeztetem a testi épségem.}
-{400}{}{Ó, igen, Hehe... persze, ez a jó alkatrész. Csak egy primitívebb modell, mint amihez hozzászoktam. Ennyi...}
-{401}{}{Helyes. Akkor menet, és építse be!}
-{410}{}{Gondolom, nem fárasztják magukat azzal, hogy megvicceljenek egy bombával. Biztos vagyok benne, hogy tudják, kivel van dolguk.}
-{411}{}{Menedékvárosban mindenki csak magáról beszél. A tisztelet fojtott hangján... na most, hogy ezt tudja, építse már be azt a nyavalyás alkatrészt.}
-{420}{}{Rendben vagyunk! Hé! Ezt nézd meg! Én aztán nem semmi vagyok!}
+{361}{}{Ez nagyszer?. Lenne szÃ­ves Ã¼zembe helyezni?}
+{370}{}{HÃ¡t minden bizonnyal meg tudnÃ¡m csinÃ¡lni, minden valÃ³szÃ­n?sÃ©g szerint Ã©n vagyok itt az egyetlen, aki meg tudnÃ¡ csinÃ¡lni. A hidroelektromos magnetoszfÃ©ra szabÃ¡lyozÃ³ trÃ¼kkÃ¶s kis jÃ³szÃ¡g.}
+{371}{}{A szabÃ¡lyozÃ³ csakis magÃ¡ra vÃ¡r. Tudtam, hogy bÃ­zhatom magÃ¡ban.}
+{372}{}{Most, hogy jobban Ã¡tgondolom, valami mÃ¡s mÃ³dot kÃ©ne talÃ¡lnom. ViszlÃ¡t!}
+{380}{}{HÃ¡t minden bizonnyal meg tudnÃ¡m csinÃ¡lni, de azt tudni kell, hogy a hidroelektromos magnetoszfÃ©ra szabÃ¡lyozÃ³ trÃ¼kkÃ¶s kis jÃ³szÃ¡g. Ã‰s nagyon veszÃ©lyes. Na, nem mintha magamat fÃ©ltenÃ©m, de mÃ©gis ki a fene felÃ¼gyelnÃ© az atomer?m?vet, ha velem valami tÃ¶rtÃ©nne. SajnÃ¡lom, nem segÃ­thetek.}
+{381}{}{Tudtam, hogy kihÃºzza magÃ¡t alÃ³la. Na, Ã©n lÃ©pek.}
+{390}{}{Most nem tudok vele foglalkozni. TÃºlsÃ¡gosan elfoglalt vagyok.}
+{391}{}{Gyere vissza jÃ¶v? hÃ©ten. TalÃ¡n tudok rÃ¡ id?t szakÃ­tani.}
+{392}{}{EgyÃ©bkÃ©nt ez az alkatrÃ©sz nem jÃ³, a nyakamat rÃ¡.}
+{393}{}{ElnÃ©zÃ©st, most nagyon elfoglalt vagyok, hogy segÃ­thessek.}
+{394}{}{Nem Ã¡rulhatom el GekkÃ³t azzal, hogy veszÃ©lyeztetem a testi Ã©psÃ©gem.}
+{400}{}{Ã“, igen, Hehe... persze, ez a jÃ³ alkatrÃ©sz. Csak egy primitÃ­vebb modell, mint amihez hozzÃ¡szoktam. Ennyi...}
+{401}{}{Helyes. Akkor menet, Ã©s Ã©pÃ­tse be!}
+{410}{}{Gondolom, nem fÃ¡rasztjÃ¡k magukat azzal, hogy megvicceljenek egy bombÃ¡val. Biztos vagyok benne, hogy tudjÃ¡k, kivel van dolguk.}
+{411}{}{MenedÃ©kvÃ¡rosban mindenki csak magÃ¡rÃ³l beszÃ©l. A tisztelet fojtott hangjÃ¡n... na most, hogy ezt tudja, Ã©pÃ­tse mÃ¡r be azt a nyavalyÃ¡s alkatrÃ©szt.}
+{420}{}{Rendben vagyunk! HÃ©! Ezt nÃ©zd meg! Ã‰n aztÃ¡n nem semmi vagyok!}
 {421}{}{A francba, jobb vagyok, mint hittem.}
-{422}{}{Nem volt egyszer?, de megcsináltam. H?s vagyok!}
-{423}{}{Béremelést érdemlek.}
-{424}{}{Gekkó most jön nekem eggyel.}
-{425}{}{Láttad, hogy csinálom? A kezem meg sem rezdült.}
+{422}{}{Nem volt egyszer?, de megcsinÃ¡ltam. H?s vagyok!}
+{423}{}{BÃ©remelÃ©st Ã©rdemlek.}
+{424}{}{GekkÃ³ most jÃ¶n nekem eggyel.}
+{425}{}{LÃ¡ttad, hogy csinÃ¡lom? A kezem meg sem rezdÃ¼lt.}
 {430}{}{Mit akarsz?}
-{431}{}{Úgy értesültem, hogy maga felel az alkatrészutánpótlásért, nekem meg szükségem van egyre.}
-{432}{}{Csak azon t?n?dtem, mivel üti itt el az idejét.}
-{440}{}{Neked? Mi a fenéhez kell neked alkatrész?}
-{441}{}{Igazság szerint a másik szobában lev? srácoknak kell. Csak azt mondtam nekik, hogy személyesen én akarom átvenni, mert látni akarom a mestert munka közben.}
-{442}{}{Kell és kész. Ugyan, jóember. Adjon egyet és nem is zavarom.}
-{443}{}{Asszem, jobban teszi, ha ad egyet. Az atomer?m? veszélyes üzem tud ám lenni. Gondolom érti, mire gondolok...}
-{444}{}{Na, jó, elmondom, szóval... hééé... annak a Fershlubiner-nek nem csúszott át a mutatója a piros mez?be?}
+{431}{}{Ãšgy Ã©rtesÃ¼ltem, hogy maga felel az alkatrÃ©szutÃ¡npÃ³tlÃ¡sÃ©rt, nekem meg szÃ¼ksÃ©gem van egyre.}
+{432}{}{Csak azon t?n?dtem, mivel Ã¼ti itt el az idejÃ©t.}
+{440}{}{Neked? Mi a fenÃ©hez kell neked alkatrÃ©sz?}
+{441}{}{IgazsÃ¡g szerint a mÃ¡sik szobÃ¡ban lev? srÃ¡coknak kell. Csak azt mondtam nekik, hogy szemÃ©lyesen Ã©n akarom Ã¡tvenni, mert lÃ¡tni akarom a mestert munka kÃ¶zben.}
+{442}{}{Kell Ã©s kÃ©sz. Ugyan, jÃ³ember. Adjon egyet Ã©s nem is zavarom.}
+{443}{}{Asszem, jobban teszi, ha ad egyet. Az atomer?m? veszÃ©lyes Ã¼zem tud Ã¡m lenni. Gondolom Ã©rti, mire gondolok...}
+{444}{}{Na, jÃ³, elmondom, szÃ³val... hÃ©Ã©Ã©... annak a Fershlubiner-nek nem csÃºszott Ã¡t a mutatÃ³ja a piros mez?be?}
 {450}{}{Well, okay. Here's your Part Requisition Form. I guess you have your reasons for needing it.}
-{451}{}{Rendben... itt van egy... Hé? Hova raktam azt a francot? Itt kell lennie valahol... Hmm, most sehol nem találom. Azért majd el?kerítem.}
-{452}{}{Kösz. Viszlát!}
-{453}{}{Értem, akkor majd kés?bb visszajövök. Viszlátásra.}
-{460}{}{Nem érdekel, mit akarsz. Azok az igényl?lapok csak hivatalos üzleti célokra használhatók. Csak fontos személyek kapják. Ezért van nálam is bel?le. Felfogod? Csak fontos személyeknek jár.}
-{461}{}{Persze, értem én. Lépek is...}
-{462}{}{Megkapja a sajátját. Ha nem ma, akkor hamarosan. Viszlát!}
-{470}{}{Igazság szerint ennek így kell lennie. Rengeteg fontos munkám van. Ha ez minden, akkor...}
-{471}{}{Hát, ami azt illeti, kérnék egy Alkatrész Igényl? Nyomtatványt.}
-{472}{}{Azt hiszem, nem is kell nekem semmi. Viszlát!}
-{480}{}{Ezt hogy értsem? Igen-igen, az utóbbi id?ben alaposan megdolgoztattak. Nem tudtam mostanában annyit tör?dni magammal, amennyit szerettem volna. Lehet, hogy a sugárzás egy kicsit máshogy hat rám.}
-{481}{}{Hát, hogy is mondjam... talán egy fürdés jót tenne vagy ilyesmi, hogy friss maradjon.}
-{490}{}{Hát lehet, hogy kéne. Az a baj, ha fürdök, mindig egy csomó b?r lejön rólam és az összes sebem felnyílik. Arról nem is beszélve, hogy a körmeim mind leválnak.}
-{491}{}{Álljunk meg! Azt hiszem, ennyi elég. Kicsit vegyünk vissza!}
-{500}{}{Festus elmegy, aztán visszajön. Az alkatrész még mindig nála van.}
-{510}{}{[Kész]}
-{520}{}{Festus visszaadja az alkatrészt.}
-{530}{}{Festus elmegy, aztán visszajön. Arcán elégedettség tükröz?dik.}
-{600}{}{Van egy reaktor adatlemezem, az talán segít, hogy optimalizáljuk a reaktor m?ködését.}
-{610}{}{Rendben, add ide, és megnézzük, mire megyünk vele.}
-{620}{}{Tessék.}
-{630}{}{Inkább megtartom.}
-{640}{}{Rendben. Jónak t?nik. Kösz a segítségedért.}
-{650}{}{Persze, persze. Semmi probléma.}
-{700}{}{Meggy?zted Festust, hogy segítsen az er?m?vel.}
-{800}{}{Úgy értem, hogy a reaktor ugyan m?ködik, de m?ködhetne akár jobban is. Mondjuk mérföldekkel jobban, ha elég adat állna rendelkezésre. Ha meg tudnád szerezni az optimalizáló adatokat, nem érne minket a szél... remélem, tudod, mire gondolok.}
-{801}{}{Honnan szedjek én olyan optimalizáló adatokat?}
-{802}{}{Nagy valószín?séggel a Menedékvárosi központi számítógépb?l.}
-{803}{}{Hát megnézzük, mit tehetünk az ügy érdekében.}
-{804}{}{Hmm, gondoltam ártani nem árthat.}
-{805}{}{Majd ha piros hó esik... Ég áldja, Festus.}
-{806}{}{Fogadok, hogy egy olyan okos ember, mint te simán belopódzik a központi számítógéphez a reaktor információkkal. Aztán juttasd vissza ide a lemezt. Ennyi volna a feladat. Én magam is megcsinálnám, ha nem volna itt szükség rám minden áldott pillanatban.}
-{807}{}{Nem szeretem a félmunkát.}
-{808}{}{Hmm, nem hiszem, hogy ez menne nekem. Sajnálom, Festus. Viszlát!}
-{809}{}{Akár m?ködhet is. Látom ragadt rád valami az agyafúrtságomból. Jó, nagyon jó. Egy McClure nev? fazont keress meg vele és add neki oda. Abból, amiket hallottam, ? az egyetlen, aki Menedékváros lakosain kívül legalább az ujját megmozdítaná valakiért.}
-{810}{}{Szóval McClure tanácsost kell keresnem. Rendben, kösz a tippet. Megyek, és elintézem.}
-{811}{}{Hát bizonyára élvezetes lenne a Menedékvárosi börtönt meglátogatni mutánsokkal való kollaborálás miatt. Nem, köszönöm, Festus. Ezt maguknak kell elintézni. Ég magával.}
-{812}{}{Ez a beszéd! Mondhatnád akár, hogy "Erre számítottam". Nagyszer?! Itt van ez a lemez, helyezd bele MenedékVáros központi számítógépébe, aztán hozd vissza ide. Kevesebb uránt használunk majd, a mag nem fog annyira szivárogni, és Menedékvárosnak nem lesz többé indoka, hogy kiirtson bennünket.}
-{813}{}{Nem venném a szívemre, ha Gekkó megsemmisülne. Megteszem.}
-{814}{}{Nem hinném, hogy ez nekem való. Bocs, Festus. Viszlát!}
-{815}{}{Bárcsak lenne id?m, hogy magam induljak, de sajnos nem tehetem. Annyit mondhatok csak, hogy köszönöm, kölyök. Nagyon nagy szívességet teszel itt mindenkinek [szipog]. Olyan büszke vagyok rád!}
-{816}{}{Szerintem most jött el az id?, hogy induljak. Viszlátásra, Festus. Jövök majd az adattal amilyen gyorsan csak tudok.}
-{817}{}{Aztán ne tököl?dj ott! Hozd azt az adatot!}
-{818}{}{Ne álldogálj már! A reaktor nem fog az id?k végezetéig m?ködni.}
-{819}{}{Mozgás és hozd el azt az optimalizációs adathalmazt. Hisz megígérted!}
-{820}{}{Beszélhetünk még eleget, ha befejeztük a reaktor optimalizációját.}
-{821}{}{Menj el Menedékvárosba és cseréld el a Gazdálkodási lemezt az éget?en szükséges reaktor adatokra. Fogod?}
-{822}{}{Gyerünk! Vidd el azt a lemezt McClure-nak!}
-{823}{}{Menedékváros? Befejezetlen munka? Mond valamit ez a két mondat?}
-{824}{}{Gyerünk, siess!}
-{825}{}{Köszönjük, hogy visszahoztad Menedékvárosból a szükséges adatokat, hogy a szivárgó, antik fenevadat optimalizálhassuk. Ravasz vagy, el kell ismerni. Majdnem olyan jó munka, mintha én csináltam volna. Most persze nyilván le akarod zárni a dolgot. Ott van az a Robotkezel? Terminál. Használd rajta a lemezt! Érthet? vagyok? Na, akkor jó...}
-{826}{}{Hát nem szeretem a félmunkát. Viszlát, Festus.}
-{827}{}{Hát persze, magának ez semmiség lett volna. Maga kis gennyedz? ripacs. Na, viszlát!}
-{828}{}{Te aztán belevaló vagy! Ehhez kétség sem férhet. Tudtam, hogy meg tudod csinálni.}
-{829}{}{Olyan büszke vagyok rád!}
-{830}{}{Köszönöm. Most pedig hadd folytassam a munkámat.}
-{831}{}{Csak így tovább, és egy nap olyan lehetsz, mint én!}
-{900}{}{Nem látod, hogy nem érek rá?!}
+{451}{}{Rendben... itt van egy... HÃ©? Hova raktam azt a francot? Itt kell lennie valahol... Hmm, most sehol nem talÃ¡lom. AzÃ©rt majd el?kerÃ­tem.}
+{452}{}{KÃ¶sz. ViszlÃ¡t!}
+{453}{}{Ã‰rtem, akkor majd kÃ©s?bb visszajÃ¶vÃ¶k. ViszlÃ¡tÃ¡sra.}
+{460}{}{Nem Ã©rdekel, mit akarsz. Azok az igÃ©nyl?lapok csak hivatalos Ã¼zleti cÃ©lokra hasznÃ¡lhatÃ³k. Csak fontos szemÃ©lyek kapjÃ¡k. EzÃ©rt van nÃ¡lam is bel?le. Felfogod? Csak fontos szemÃ©lyeknek jÃ¡r.}
+{461}{}{Persze, Ã©rtem Ã©n. LÃ©pek is...}
+{462}{}{Megkapja a sajÃ¡tjÃ¡t. Ha nem ma, akkor hamarosan. ViszlÃ¡t!}
+{470}{}{IgazsÃ¡g szerint ennek Ã­gy kell lennie. Rengeteg fontos munkÃ¡m van. Ha ez minden, akkor...}
+{471}{}{HÃ¡t, ami azt illeti, kÃ©rnÃ©k egy AlkatrÃ©sz IgÃ©nyl? NyomtatvÃ¡nyt.}
+{472}{}{Azt hiszem, nem is kell nekem semmi. ViszlÃ¡t!}
+{480}{}{Ezt hogy Ã©rtsem? Igen-igen, az utÃ³bbi id?ben alaposan megdolgoztattak. Nem tudtam mostanÃ¡ban annyit tÃ¶r?dni magammal, amennyit szerettem volna. Lehet, hogy a sugÃ¡rzÃ¡s egy kicsit mÃ¡shogy hat rÃ¡m.}
+{481}{}{HÃ¡t, hogy is mondjam... talÃ¡n egy fÃ¼rdÃ©s jÃ³t tenne vagy ilyesmi, hogy friss maradjon.}
+{490}{}{HÃ¡t lehet, hogy kÃ©ne. Az a baj, ha fÃ¼rdÃ¶k, mindig egy csomÃ³ b?r lejÃ¶n rÃ³lam Ã©s az Ã¶sszes sebem felnyÃ­lik. ArrÃ³l nem is beszÃ©lve, hogy a kÃ¶rmeim mind levÃ¡lnak.}
+{491}{}{Ãlljunk meg! Azt hiszem, ennyi elÃ©g. Kicsit vegyÃ¼nk vissza!}
+{500}{}{Festus elmegy, aztÃ¡n visszajÃ¶n. Az alkatrÃ©sz mÃ©g mindig nÃ¡la van.}
+{510}{}{[KÃ©sz]}
+{520}{}{Festus visszaadja az alkatrÃ©szt.}
+{530}{}{Festus elmegy, aztÃ¡n visszajÃ¶n. ArcÃ¡n elÃ©gedettsÃ©g tÃ¼krÃ¶z?dik.}
+{600}{}{Van egy reaktor adatlemezem, az talÃ¡n segÃ­t, hogy optimalizÃ¡ljuk a reaktor m?kÃ¶dÃ©sÃ©t.}
+{610}{}{Rendben, add ide, Ã©s megnÃ©zzÃ¼k, mire megyÃ¼nk vele.}
+{620}{}{TessÃ©k.}
+{630}{}{InkÃ¡bb megtartom.}
+{640}{}{Rendben. JÃ³nak t?nik. KÃ¶sz a segÃ­tsÃ©gedÃ©rt.}
+{650}{}{Persze, persze. Semmi problÃ©ma.}
+{700}{}{Meggy?zted Festust, hogy segÃ­tsen az er?m?vel.}
+{800}{}{Ãšgy Ã©rtem, hogy a reaktor ugyan m?kÃ¶dik, de m?kÃ¶dhetne akÃ¡r jobban is. Mondjuk mÃ©rfÃ¶ldekkel jobban, ha elÃ©g adat Ã¡llna rendelkezÃ©sre. Ha meg tudnÃ¡d szerezni az optimalizÃ¡lÃ³ adatokat, nem Ã©rne minket a szÃ©l... remÃ©lem, tudod, mire gondolok.}
+{801}{}{Honnan szedjek Ã©n olyan optimalizÃ¡lÃ³ adatokat?}
+{802}{}{Nagy valÃ³szÃ­n?sÃ©ggel a MenedÃ©kvÃ¡rosi kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©pb?l.}
+{803}{}{HÃ¡t megnÃ©zzÃ¼k, mit tehetÃ¼nk az Ã¼gy Ã©rdekÃ©ben.}
+{804}{}{Hmm, gondoltam Ã¡rtani nem Ã¡rthat.}
+{805}{}{Majd ha piros hÃ³ esik... Ã‰g Ã¡ldja, Festus.}
+{806}{}{Fogadok, hogy egy olyan okos ember, mint te simÃ¡n belopÃ³dzik a kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©phez a reaktor informÃ¡ciÃ³kkal. AztÃ¡n juttasd vissza ide a lemezt. Ennyi volna a feladat. Ã‰n magam is megcsinÃ¡lnÃ¡m, ha nem volna itt szÃ¼ksÃ©g rÃ¡m minden Ã¡ldott pillanatban.}
+{807}{}{Nem szeretem a fÃ©lmunkÃ¡t.}
+{808}{}{Hmm, nem hiszem, hogy ez menne nekem. SajnÃ¡lom, Festus. ViszlÃ¡t!}
+{809}{}{AkÃ¡r m?kÃ¶dhet is. LÃ¡tom ragadt rÃ¡d valami az agyafÃºrtsÃ¡gombÃ³l. JÃ³, nagyon jÃ³. Egy McClure nev? fazont keress meg vele Ã©s add neki oda. AbbÃ³l, amiket hallottam, ? az egyetlen, aki MenedÃ©kvÃ¡ros lakosain kÃ­vÃ¼l legalÃ¡bb az ujjÃ¡t megmozdÃ­tanÃ¡ valakiÃ©rt.}
+{810}{}{SzÃ³val McClure tanÃ¡csost kell keresnem. Rendben, kÃ¶sz a tippet. Megyek, Ã©s elintÃ©zem.}
+{811}{}{HÃ¡t bizonyÃ¡ra Ã©lvezetes lenne a MenedÃ©kvÃ¡rosi bÃ¶rtÃ¶nt meglÃ¡togatni mutÃ¡nsokkal valÃ³ kollaborÃ¡lÃ¡s miatt. Nem, kÃ¶szÃ¶nÃ¶m, Festus. Ezt maguknak kell elintÃ©zni. Ã‰g magÃ¡val.}
+{812}{}{Ez a beszÃ©d! MondhatnÃ¡d akÃ¡r, hogy "Erre szÃ¡mÃ­tottam". Nagyszer?! Itt van ez a lemez, helyezd bele MenedÃ©kVÃ¡ros kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©pÃ©be, aztÃ¡n hozd vissza ide. Kevesebb urÃ¡nt hasznÃ¡lunk majd, a mag nem fog annyira szivÃ¡rogni, Ã©s MenedÃ©kvÃ¡rosnak nem lesz tÃ¶bbÃ© indoka, hogy kiirtson bennÃ¼nket.}
+{813}{}{Nem vennÃ©m a szÃ­vemre, ha GekkÃ³ megsemmisÃ¼lne. Megteszem.}
+{814}{}{Nem hinnÃ©m, hogy ez nekem valÃ³. Bocs, Festus. ViszlÃ¡t!}
+{815}{}{BÃ¡rcsak lenne id?m, hogy magam induljak, de sajnos nem tehetem. Annyit mondhatok csak, hogy kÃ¶szÃ¶nÃ¶m, kÃ¶lyÃ¶k. Nagyon nagy szÃ­vessÃ©get teszel itt mindenkinek [szipog]. Olyan bÃ¼szke vagyok rÃ¡d!}
+{816}{}{Szerintem most jÃ¶tt el az id?, hogy induljak. ViszlÃ¡tÃ¡sra, Festus. JÃ¶vÃ¶k majd az adattal amilyen gyorsan csak tudok.}
+{817}{}{AztÃ¡n ne tÃ¶kÃ¶l?dj ott! Hozd azt az adatot!}
+{818}{}{Ne Ã¡lldogÃ¡lj mÃ¡r! A reaktor nem fog az id?k vÃ©gezetÃ©ig m?kÃ¶dni.}
+{819}{}{MozgÃ¡s Ã©s hozd el azt az optimalizÃ¡ciÃ³s adathalmazt. Hisz megÃ­gÃ©rted!}
+{820}{}{BeszÃ©lhetÃ¼nk mÃ©g eleget, ha befejeztÃ¼k a reaktor optimalizÃ¡ciÃ³jÃ¡t.}
+{821}{}{Menj el MenedÃ©kvÃ¡rosba Ã©s cserÃ©ld el a GazdÃ¡lkodÃ¡si lemezt az Ã©get?en szÃ¼ksÃ©ges reaktor adatokra. Fogod?}
+{822}{}{GyerÃ¼nk! Vidd el azt a lemezt McClure-nak!}
+{823}{}{MenedÃ©kvÃ¡ros? Befejezetlen munka? Mond valamit ez a kÃ©t mondat?}
+{824}{}{GyerÃ¼nk, siess!}
+{825}{}{KÃ¶szÃ¶njÃ¼k, hogy visszahoztad MenedÃ©kvÃ¡rosbÃ³l a szÃ¼ksÃ©ges adatokat, hogy a szivÃ¡rgÃ³, antik fenevadat optimalizÃ¡lhassuk. Ravasz vagy, el kell ismerni. Majdnem olyan jÃ³ munka, mintha Ã©n csinÃ¡ltam volna. Most persze nyilvÃ¡n le akarod zÃ¡rni a dolgot. Ott van az a Robotkezel? TerminÃ¡l. HasznÃ¡ld rajta a lemezt! Ã‰rthet? vagyok? Na, akkor jÃ³...}
+{826}{}{HÃ¡t nem szeretem a fÃ©lmunkÃ¡t. ViszlÃ¡t, Festus.}
+{827}{}{HÃ¡t persze, magÃ¡nak ez semmisÃ©g lett volna. Maga kis gennyedz? ripacs. Na, viszlÃ¡t!}
+{828}{}{Te aztÃ¡n belevalÃ³ vagy! Ehhez kÃ©tsÃ©g sem fÃ©rhet. Tudtam, hogy meg tudod csinÃ¡lni.}
+{829}{}{Olyan bÃ¼szke vagyok rÃ¡d!}
+{830}{}{KÃ¶szÃ¶nÃ¶m. Most pedig hadd folytassam a munkÃ¡mat.}
+{831}{}{Csak Ã­gy tovÃ¡bb, Ã©s egy nap olyan lehetsz, mint Ã©n!}
+{900}{}{Nem lÃ¡tod, hogy nem Ã©rek rÃ¡?!}

@@ -1,9 +1,9 @@
-{100}{}{Você vê um caçador de recompensas.}
-{101}{}{Você vai morrer.}
-{102}{}{Então, você está marcado para morrer.}
-{103}{}{Você deve aprender melhores maneiras.}
-{104}{}{Eu vou trazer você de volta em um saco de corpo.}
-{105}{}{Morra, escória!}
+{100}{}{VocÃª vÃª um caÃ§ador de recompensas.}
+{101}{}{VocÃª vai morrer.}
+{102}{}{EntÃ£o, vocÃª estÃ¡ marcado para morrer.}
+{103}{}{VocÃª deve aprender melhores maneiras.}
+{104}{}{Eu vou trazer vocÃª de volta em um saco de corpo.}
+{105}{}{Morra, escÃ³ria!}
 {106}{}{Dane-se isso - eles podem manter a recompensa.}
 {107}{}{Estou fora daqui.}
-{108}{}{O trabalho não vale a pena isso.}
+{108}{}{O trabalho nÃ£o vale a pena isso.}

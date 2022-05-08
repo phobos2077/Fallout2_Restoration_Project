@@ -1,91 +1,91 @@
 {100}{}{Ves a una mujer delgada y bajita que viste un vestido azul de terciopelo.}
 {101}{}{Ves a Ariel, la viuda.}
 {102}{}{Ves a una mujer delgada y bajita que viste un vestido azul de terciopelo. Parece triste.}
-{103}{}{Hola, soy Ariel. No creo haberte visto por aquí antes. ¿Quién eres?}
+{103}{}{Hola, soy Ariel. No creo haberte visto por aquÃ­ antes. Â¿QuiÃ©n eres?}
 {104}{}{Yo }
-{105}{}{Eh... pareces triste. ¿Por qué?}
+{105}{}{Eh... pareces triste. Â¿Por quÃ©?}
 {106}{}{Yo irme ahora.}
 {107}{}{Hola, Ariel, mi nombre es}
-{108}{}{Hola. Pareces desanimada. ¿Qué sucede?}
-{109}{}{No necesitas saber mi nombre, pero necesito de ti cierta información.}
+{108}{}{Hola. Pareces desanimada. Â¿QuÃ© sucede?}
+{109}{}{No necesitas saber mi nombre, pero necesito de ti cierta informaciÃ³n.}
 {110}{}{Lo siento. No tengo tiempo para esto.}
-{111}{}{Es un placer conocerte. ¿En qué puedo ayudarte?}
-{112}{}{¿Respondes preguntas?}
-{113}{}{Nada. Adiós.}
-{114}{}{Seguramente no puedas ayudarme. Adiós.}
-{115}{}{Me gustaría hacerte algunas preguntas.}
-{116}{}{Lamento interrumpir tu soledad pero, ¿podrías responder algunas preguntas?}
-{117}{}{Sólo tengo ciertos problemas personales. No es nada, de verdad.}
+{111}{}{Es un placer conocerte. Â¿En quÃ© puedo ayudarte?}
+{112}{}{Â¿Respondes preguntas?}
+{113}{}{Nada. AdiÃ³s.}
+{114}{}{Seguramente no puedas ayudarme. AdiÃ³s.}
+{115}{}{Me gustarÃ­a hacerte algunas preguntas.}
+{116}{}{Lamento interrumpir tu soledad pero, Â¿podrÃ­as responder algunas preguntas?}
+{117}{}{SÃ³lo tengo ciertos problemas personales. No es nada, de verdad.}
 {118}{}{Hablas, yo escucho. Ayuda eso.}
-{119}{}{Vale. No problema con hablar. ¿Responder preguntas?}
-{120}{}{Se me da bien escuchar, Ariel, y hablar de lo que sea que te preocupe podría ayudar.}
-{121}{}{Vale. Olvidemos los problemas por ahora. ¿Puedes responder algunas preguntas?}
+{119}{}{Vale. No problema con hablar. Â¿Responder preguntas?}
+{120}{}{Se me da bien escuchar, Ariel, y hablar de lo que sea que te preocupe podrÃ­a ayudar.}
+{121}{}{Vale. Olvidemos los problemas por ahora. Â¿Puedes responder algunas preguntas?}
 {122}{}{Todo el mundo tiene problemas, mujer. Aprende a vivir con ellos.}
-{123}{}{Perdóname, pero no tengo tiempo para alguien con tu actitud. Buenos días.}
+{123}{}{PerdÃ³name, pero no tengo tiempo para alguien con tu actitud. Buenos dÃ­as.}
 {124}{}{}
 {125}{}{}
 {126}{}{De acuerdo.}
-{127}{}{¿Qué quieres saber?}
-{128}{}{¿Tú prisionero?}
-{129}{}{¿Garras tratan bien?}
-{130}{}{¿Quieres irte?}
-{131}{}{¿Y por qué triste?}
-{132}{}{¿Cómo llegaste aquí?}
+{127}{}{Â¿QuÃ© quieres saber?}
+{128}{}{Â¿TÃº prisionero?}
+{129}{}{Â¿Garras tratan bien?}
+{130}{}{Â¿Quieres irte?}
+{131}{}{Â¿Y por quÃ© triste?}
+{132}{}{Â¿CÃ³mo llegaste aquÃ­?}
 {133}{}{Tengo que ir ahora yo.}
-{134}{}{¿Eres prisionero aquí?}
-{135}{}{¿Las Garras mortales te tratan bien?}
-{136}{}{¿Te gustaría abandonar el Refugio?}
-{137}{}{Entonces dime, Ariel: ¿Por qué estás tan triste?}
-{138}{}{¿Cómo llegaste a este Refugio?}
+{134}{}{Â¿Eres prisionero aquÃ­?}
+{135}{}{Â¿Las Garras mortales te tratan bien?}
+{136}{}{Â¿Te gustarÃ­a abandonar el Refugio?}
+{137}{}{Entonces dime, Ariel: Â¿Por quÃ© estÃ¡s tan triste?}
+{138}{}{Â¿CÃ³mo llegaste a este Refugio?}
 {139}{}{Debo irme ahora.}
 {140}{}{No, puedo irme cuando quiera. Las Garras mortales me lo han dejado muy claro. No retienen
  a nadie contra su voluntad, al menos que yo sepa.}
-{141}{}{Eh, está bien.}
+{141}{}{Eh, estÃ¡ bien.}
 {142}{}{Entiendo. Me voy yo.}
 {143}{}{Ya veo.}
-{144}{}{Creo que estás mintiendo, zorra.}
-{145}{}{Ya veo. Si no te importa, necesito preguntarte sobre algunas cosas más.}
-{146}{}{Sí. Me dan comida, agua, refugio, y protección. Me siento muy segura aquí, y
- eso es más de lo que podría pedir.}
+{144}{}{Creo que estÃ¡s mintiendo, zorra.}
+{145}{}{Ya veo. Si no te importa, necesito preguntarte sobre algunas cosas mÃ¡s.}
+{146}{}{SÃ­. Me dan comida, agua, refugio, y protecciÃ³n. Me siento muy segura aquÃ­, y
+ eso es mÃ¡s de lo que podrÃ­a pedir.}
 {147}{}{Vale. Entonces he de irme.}
-{148}{}{Bien. Pregunto más.}
-{149}{}{De acuerdo. Necesito preguntar algo más.}
+{148}{}{Bien. Pregunto mÃ¡s.}
+{149}{}{De acuerdo. Necesito preguntar algo mÃ¡s.}
 {150}{}{Vale. Acerca de otras cosas, entonces.}
 {151}{}{Genial. Una amante de lagartos.}
-{152}{}{Lo he considerado, pero diría que no. Me siento más segura aquí que en cualquier otro lugar en el
- que haya vivido. Echo de menos la compañía de otras personas, pero con suerte vendrán otros a vivir aquí
- en el futuro, y satisfarán esa necesidad.}
-{153}{}{Me voy yo. Adiós adiós.}
-{154}{}{Cuéntame más.}
-{155}{}{Pues vale, por mí te puedes pudrir aquí.}
-{156}{}{Vale. Supongo que me iré ahora.}
-{157}{}{Has sido de gran ayuda, pero debo molestarte un poco más.}
-{158}{}{Mi marido murió hace poco. Lo hecho de menos y tengo problemas para superarlo. Eso es todo.}
-{159}{}{Lo siento. ¿Cómo ocurrió?}
+{152}{}{Lo he considerado, pero dirÃ­a que no. Me siento mÃ¡s segura aquÃ­ que en cualquier otro lugar en el
+ que haya vivido. Echo de menos la compaÃ±Ã­a de otras personas, pero con suerte vendrÃ¡n otros a vivir aquÃ­
+ en el futuro, y satisfarÃ¡n esa necesidad.}
+{153}{}{Me voy yo. AdiÃ³s adiÃ³s.}
+{154}{}{CuÃ©ntame mÃ¡s.}
+{155}{}{Pues vale, por mÃ­ te puedes pudrir aquÃ­.}
+{156}{}{Vale. Supongo que me irÃ© ahora.}
+{157}{}{Has sido de gran ayuda, pero debo molestarte un poco mÃ¡s.}
+{158}{}{Mi marido muriÃ³ hace poco. Lo hecho de menos y tengo problemas para superarlo. Eso es todo.}
+{159}{}{Lo siento. Â¿CÃ³mo ocurriÃ³?}
 {160}{}{Ups. Tengo que irme, oigo a la anciana llamarme.}
-{161}{}{Lamento oír eso. ¿Cómo sucedió?}
-{162}{}{Qué putada. Nos vemos.}
+{161}{}{Lamento oÃ­r eso. Â¿CÃ³mo sucediÃ³?}
+{162}{}{QuÃ© putada. Nos vemos.}
 {163}{}{Cosas que pasan, la gente muere. Normalmente cuando estoy cerca.}
-{164}{}{Ya te he contado todo lo que sé sobre el ataque. Es todo lo que sucedió.}
-{165}{}{Mi marido y yo viajábamos con una caravana de camino a la República de Nueva California. Queríamos comenzar una nueva vida con nuestra hija, Sandy. Por desgracia, la caravana fue atacada por saqueadores una noche. Fue algo increíblemente brutal. Mataron a todos: hombres, mujeres, y niños. Rand, mi marido, murió intentando defendernos a Sandy y a mí. Estábamos a punto de morir cuando ocurrió un milagro.}
+{164}{}{Ya te he contado todo lo que sÃ© sobre el ataque. Es todo lo que sucediÃ³.}
+{165}{}{Mi marido y yo viajÃ¡bamos con una caravana de camino a la RepÃºblica de Nueva California. QuerÃ­amos comenzar una nueva vida con nuestra hija, Sandy. Por desgracia, la caravana fue atacada por saqueadores una noche. Fue algo increÃ­blemente brutal. Mataron a todos: hombres, mujeres, y niÃ±os. Rand, mi marido, muriÃ³ intentando defendernos a Sandy y a mÃ­. EstÃ¡bamos a punto de morir cuando ocurriÃ³ un milagro.}
 {166}{}{Eh... vaya.}
-{167}{}{Me alegro, pequeña, las dos bien.}
-{168}{}{Marcho de aquí yo. Adiós.}
+{167}{}{Me alegro, pequeÃ±a, las dos bien.}
+{168}{}{Marcho de aquÃ­ yo. AdiÃ³s.}
 {169}{}{Vaya. Menuda historia.}
-{170}{}{Menudo montón de m... me largo de aquí.}
-{171}{}{Gracias al cielo que tu hija y tú estáis bien.}
-{172}{}{Hola de nuevo. ¿Cómo estás?}
+{170}{}{Menudo montÃ³n de m... me largo de aquÃ­.}
+{171}{}{Gracias al cielo que tu hija y tÃº estÃ¡is bien.}
+{172}{}{Hola de nuevo. Â¿CÃ³mo estÃ¡s?}
 {173}{}{}
 {174}{}{}
-{175}{}{¡Vete, bastardo! No quiero nada de ti.}
-{176}{}{¡Vete, puta! No tengo nada que decirte.}
-{177}{}{Adiós.}
+{175}{}{Â¡Vete, bastardo! No quiero nada de ti.}
+{176}{}{Â¡Vete, puta! No tengo nada que decirte.}
+{177}{}{AdiÃ³s.}
 {178}{}{.}
-{179}{}{. Sí, soy nuevo aquí.}
-{180}{}{Tenía a Sandy detrás de mí, intentando mantenerla lejos del monstruo que había disparado a Rand. Estaba
- cerca del cuerpo de mi marido y se rió mientras me apuntaba a la cabeza con su arma. De repente, esa enorme Garra
- surgió de la oscuridad, lo agarró por detrás y... bueno, gracias al cielo que Sandy no vio
- lo que sucedió a continuación. De todas formas, los saqueadores fueron eliminados por este grupo de Garras mortales. La que nos
- salvó a Sandy y a mí se nos acercó y me habló. Me aseguró que estaba a salvo, y que
- sentía no haber podido llegar antes para ayudarnos. Después de eso, las Garras mortales nos trajeron
- aquí.}
+{179}{}{. SÃ­, soy nuevo aquÃ­.}
+{180}{}{TenÃ­a a Sandy detrÃ¡s de mÃ­, intentando mantenerla lejos del monstruo que habÃ­a disparado a Rand. Estaba
+ cerca del cuerpo de mi marido y se riÃ³ mientras me apuntaba a la cabeza con su arma. De repente, esa enorme Garra
+ surgiÃ³ de la oscuridad, lo agarrÃ³ por detrÃ¡s y... bueno, gracias al cielo que Sandy no vio
+ lo que sucediÃ³ a continuaciÃ³n. De todas formas, los saqueadores fueron eliminados por este grupo de Garras mortales. La que nos
+ salvÃ³ a Sandy y a mÃ­ se nos acercÃ³ y me hablÃ³. Me asegurÃ³ que estaba a salvo, y que
+ sentÃ­a no haber podido llegar antes para ayudarnos. DespuÃ©s de eso, las Garras mortales nos trajeron
+ aquÃ­.}

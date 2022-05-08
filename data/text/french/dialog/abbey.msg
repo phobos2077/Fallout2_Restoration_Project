@@ -1,1 +1,1 @@
-{100}{}{Tu es tombé dans les environs d'un monastère, il y a une petite communauté construite autour.}
+{100}{}{Tu es tombÃ© dans les environs d'un monastÃ¨re, il y a une petite communautÃ© construite autour.}

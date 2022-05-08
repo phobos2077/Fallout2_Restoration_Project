@@ -1,1 +1,1 @@
-{100}{}{A festmény hátulján egy rajzot találsz, ami a 13-as Menedék helyét jelöli.}
+{100}{}{A festmÃ©ny hÃ¡tuljÃ¡n egy rajzot talÃ¡lsz, ami a 13-as MenedÃ©k helyÃ©t jelÃ¶li.}

@@ -1,33 +1,33 @@
-{100}{}{Widzisz Twardego Stra¿nika.}
-{101}{}{Widzisz imponuj¹co umiêœnionego, starszego stra¿nika z mocn¹ opalon¹ skór¹. Musi byæ w sile wieku. Jego przenikliwy wzrok wydaje siê pod¹¿aæ za tob¹ wszêdzie.}
-{200}{}{Witaj podró¿niku. Zapraszamy do Opactwa. Trzymaj¹c swój nos z dala od k³opotów, unikniemy nieprzyjemnoœci.}
-{201}{}{Obserwujê ciê, ³owco niewolników. Jeden fa³szywy ruch i splugawimy nasz cmentarz twoim nieczystym cia³em na resztê wiecznoœci. Nie chcia³bym tego i jestem prawie pewien, ¿e ty równie¿ nie bêdziesz zadowolony z tego faktu, wiêc zachowaj wszelkie zabawne pomys³y w tym swoim wypaczonym umyœle.}
-{202}{}{Kim jesteœ?}
-{203}{}{Gdzie tu mogê sprzedaæ parê drobiazgów?}
-{204}{}{Ktoœ rozkopuje groby, dlaczego nie mo¿na czegoœ z tym zrobiæ?}
-{205}{}{S³ysza³em coœ o zwierzêtach w piwnicy. Wiesz coœ o tym?}
-{206}{}{Myœlê, ¿e nadszed³ czas, abym pos³a³ ciê do grobu. Zatañczmy, stary cz³owieku.}
-{207}{}{Niewa¿ne. ¯egnaj.}
-{300}{}{Nikim... Po prostu starym, emerytowanym stra¿nikiem karawany. Wiele osób myli mnie z jakimœ szeryfem, poniewa¿ jestem osob¹ przestrzegaj¹c¹ prawa obowi¹zuj¹cego w tych czêœciach, ale nie, nie jestem ¿adnym szeryfem. Po prostu zwróci³em uwagê na t¹ wspólnotê, myœlê, ¿e jest warta ochrony.}
-{301}{}{W zamian spo³ecznoœæ dobrze na mnie patrzy. Dostajê trochê bezp³atnej gorza³y od mnichów, Peterson dba o mnie, dostaje jedzenie, a Bill pilnuje aby nie brak³o nam amunicji i stimpaków. Nie taka z³a emerytura, jeœli o mnie chodzi.}
-{302}{}{Jestem cz³owiekiem, który trzyma na dystans takich jak ty, to wszystko, co musisz wiedzieæ. Teraz zajmij siê swoimi sprawami i zostaw mnie w spokoju.}
-{303}{}{£adny uk³ad. Pozwól mi zapytaæ o coœ innego.}
+{100}{}{Widzisz Twardego StraÅ¼nika.}
+{101}{}{Widzisz imponujÄ…co umiÄ™Å›nionego, starszego straÅ¼nika z mocnÄ… opalonÄ… skÃ³rÄ…. Musi byÄ‡ w sile wieku. Jego przenikliwy wzrok wydaje siÄ™ podÄ…Å¼aÄ‡ za tobÄ… wszÄ™dzie.}
+{200}{}{Witaj podrÃ³Å¼niku. Zapraszamy do Opactwa. TrzymajÄ…c swÃ³j nos z dala od kÅ‚opotÃ³w, unikniemy nieprzyjemnoÅ›ci.}
+{201}{}{ObserwujÄ™ ciÄ™, Å‚owco niewolnikÃ³w. Jeden faÅ‚szywy ruch i splugawimy nasz cmentarz twoim nieczystym ciaÅ‚em na resztÄ™ wiecznoÅ›ci. Nie chciaÅ‚bym tego i jestem prawie pewien, Å¼e ty rÃ³wnieÅ¼ nie bÄ™dziesz zadowolony z tego faktu, wiÄ™c zachowaj wszelkie zabawne pomysÅ‚y w tym swoim wypaczonym umyÅ›le.}
+{202}{}{Kim jesteÅ›?}
+{203}{}{Gdzie tu mogÄ™ sprzedaÄ‡ parÄ™ drobiazgÃ³w?}
+{204}{}{KtoÅ› rozkopuje groby, dlaczego nie moÅ¼na czegoÅ› z tym zrobiÄ‡?}
+{205}{}{SÅ‚yszaÅ‚em coÅ› o zwierzÄ™tach w piwnicy. Wiesz coÅ› o tym?}
+{206}{}{MyÅ›lÄ™, Å¼e nadszedÅ‚ czas, abym posÅ‚aÅ‚ ciÄ™ do grobu. ZataÅ„czmy, stary czÅ‚owieku.}
+{207}{}{NiewaÅ¼ne. Å»egnaj.}
+{300}{}{Nikim... Po prostu starym, emerytowanym straÅ¼nikiem karawany. Wiele osÃ³b myli mnie z jakimÅ› szeryfem, poniewaÅ¼ jestem osobÄ… przestrzegajÄ…cÄ… prawa obowiÄ…zujÄ…cego w tych czÄ™Å›ciach, ale nie, nie jestem Å¼adnym szeryfem. Po prostu zwrÃ³ciÅ‚em uwagÄ™ na tÄ… wspÃ³lnotÄ™, myÅ›lÄ™, Å¼e jest warta ochrony.}
+{301}{}{W zamian spoÅ‚ecznoÅ›Ä‡ dobrze na mnie patrzy. DostajÄ™ trochÄ™ bezpÅ‚atnej gorzaÅ‚y od mnichÃ³w, Peterson dba o mnie, dostaje jedzenie, a Bill pilnuje aby nie brakÅ‚o nam amunicji i stimpakÃ³w. Nie taka zÅ‚a emerytura, jeÅ›li o mnie chodzi.}
+{302}{}{Jestem czÅ‚owiekiem, ktÃ³ry trzyma na dystans takich jak ty, to wszystko, co musisz wiedzieÄ‡. Teraz zajmij siÄ™ swoimi sprawami i zostaw mnie w spokoju.}
+{303}{}{Åadny ukÅ‚ad. PozwÃ³l mi zapytaÄ‡ o coÅ› innego.}
 {304}{}{Wszystko jedno, do widzenia.}
-{305}{}{Myœlisz, ¿e mo¿esz trzymaæ mnie na dystans? Spróbuj staruszku. Przyda mi siê jakaœ rozrywka.}
-{400}{}{Tutaj mo¿esz znaleŸæ Bill'a, naszego handlarza, urzêduje on w budynku naprzeciw tego, w którym jesteœ. Poza tym, powinieneœ udaæ siê do "Survival Gear Locker" Percy'ego  na œmietnisku w Gecko albo do "Szczêœliwego Harry'ego" na podmurzu Kryptopolis.}
-{401}{}{Dobrze wiedzieæ. Mam jeszcze jedno pytanie.}
-{402}{}{Dziêkujê. Do zobaczenia.}
-{500}{}{Jeœli ktoœ jest biedny lub chciwy wystarczy, ¿ê spróbuje rozkopaæ groby, to ich sprawa. To nie jest tak, ¿e martwi mog¹ korzystaæ z tego co inni pochowali z nimi. Nie mój problem... Nie mam przez to problemów ze snem.}
-{501}{}{Pozwól, ¿e zapytam o coœ innego.}
+{305}{}{MyÅ›lisz, Å¼e moÅ¼esz trzymaÄ‡ mnie na dystans? SprÃ³buj staruszku. Przyda mi siÄ™ jakaÅ› rozrywka.}
+{400}{}{Tutaj moÅ¼esz znaleÅºÄ‡ Bill'a, naszego handlarza, urzÄ™duje on w budynku naprzeciw tego, w ktÃ³rym jesteÅ›. Poza tym, powinieneÅ› udaÄ‡ siÄ™ do "Survival Gear Locker" Percy'ego  na Å›mietnisku w Gecko albo do "SzczÄ™Å›liwego Harry'ego" na podmurzu Kryptopolis.}
+{401}{}{Dobrze wiedzieÄ‡. Mam jeszcze jedno pytanie.}
+{402}{}{DziÄ™kujÄ™. Do zobaczenia.}
+{500}{}{JeÅ›li ktoÅ› jest biedny lub chciwy wystarczy, Å¼Ä™ sprÃ³buje rozkopaÄ‡ groby, to ich sprawa. To nie jest tak, Å¼e martwi mogÄ… korzystaÄ‡ z tego co inni pochowali z nimi. Nie mÃ³j problem... Nie mam przez to problemÃ³w ze snem.}
+{501}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
 {502}{}{Bywaj.}
-{600}{}{Tak, zagin¹³ brat Thomas. By³ m¹drym cz³owiekiem, mo¿e trochê lekkomyœlnym. Nie wiem, co jest tam na dole, ale wydajê mi siê, ¿e poza szczurami i radoskorpionami ¿yje tam coœ jeszcze.}
-{601}{}{Tak, zagin¹³ brat Thomas. Nie wiem, co jest tam na dole, ale wydajê mi siê, ¿e poza szczurami i radoskorpionami ¿yje tam coœ jeszcze. Mo¿e byœ siê tego dowiedzia³, co twardzielu?}
-{602}{}{Wiêc, nie mo¿esz tego sprawdziæ?}
-{603}{}{Jesteœ tutaj okolicznym twardzielem, prawda? Dlaczego nie zabierzesz swojej dupy tam na dó³?}
-{610}{}{To trochê ¿enuj¹ce, ale po spêdzeniu tak d³ugiego czasu na œwie¿ym powietrzu obok przyczep kempingowych, bardzo siê denerwuje, kiedy mam zejœæ do podziemia. Œciany siê zwêrz¹j¹, a ja mam problemy z oddychaniem... Mo¿e uda ci dowiedzieæ siê, co siê sta³o z bratem Thomas'em?}
-{611}{}{Zobaczê, co da siê zrobiæ. W miêdzyczasie, chcia³bym zadaæ ci jeszcze parê pytañ.}
+{600}{}{Tak, zaginÄ…Å‚ brat Thomas. ByÅ‚ mÄ…drym czÅ‚owiekiem, moÅ¼e trochÄ™ lekkomyÅ›lnym. Nie wiem, co jest tam na dole, ale wydajÄ™ mi siÄ™, Å¼e poza szczurami i radoskorpionami Å¼yje tam coÅ› jeszcze.}
+{601}{}{Tak, zaginÄ…Å‚ brat Thomas. Nie wiem, co jest tam na dole, ale wydajÄ™ mi siÄ™, Å¼e poza szczurami i radoskorpionami Å¼yje tam coÅ› jeszcze. MoÅ¼e byÅ› siÄ™ tego dowiedziaÅ‚, co twardzielu?}
+{602}{}{WiÄ™c, nie moÅ¼esz tego sprawdziÄ‡?}
+{603}{}{JesteÅ› tutaj okolicznym twardzielem, prawda? Dlaczego nie zabierzesz swojej dupy tam na dÃ³Å‚?}
+{610}{}{To trochÄ™ Å¼enujÄ…ce, ale po spÄ™dzeniu tak dÅ‚ugiego czasu na Å›wieÅ¼ym powietrzu obok przyczep kempingowych, bardzo siÄ™ denerwuje, kiedy mam zejÅ›Ä‡ do podziemia. Åšciany siÄ™ zwÄ™rzÄ…jÄ…, a ja mam problemy z oddychaniem... MoÅ¼e uda ci dowiedzieÄ‡ siÄ™, co siÄ™ staÅ‚o z bratem Thomas'em?}
+{611}{}{ZobaczÄ™, co da siÄ™ zrobiÄ‡. W miÄ™dzyczasie, chciaÅ‚bym zadaÄ‡ ci jeszcze parÄ™ pytaÅ„.}
 {612}{}{Bywaj.}
-{613}{}{Jestem twardzielem, dlatego skopiê ci ty³ek.}
-{700}{}{Co jeszcze chcesz wiedzieæ?}
-{800}{}{Dobrze znowu ciê widzieæ.}
-{801}{}{Mam ciê na oku.}
+{613}{}{Jestem twardzielem, dlatego skopiÄ™ ci tyÅ‚ek.}
+{700}{}{Co jeszcze chcesz wiedzieÄ‡?}
+{800}{}{Dobrze znowu ciÄ™ widzieÄ‡.}
+{801}{}{Mam ciÄ™ na oku.}

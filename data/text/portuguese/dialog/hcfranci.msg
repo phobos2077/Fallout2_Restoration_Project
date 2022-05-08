@@ -1,89 +1,89 @@
-{100}{}{Você vê um super mutante bem corpulento. Ele parece entediado.}
-{101}{}{Você vê Francis, o mutante campeão de queda de braço.}
-{102}{}{Você vê um super mutante bem corpulento. Ele está vestido de couro preto e com uma
- cara de tédio.}
+{100}{}{VocÃª vÃª um super mutante bem corpulento. Ele parece entediado.}
+{101}{}{VocÃª vÃª Francis, o mutante campeÃ£o de queda de braÃ§o.}
+{102}{}{VocÃª vÃª um super mutante bem corpulento. Ele estÃ¡ vestido de couro preto e com uma
+ cara de tÃ©dio.}
 {103}{}{Posso te ajudar com alguma coisa?}
 {104}{}{Ook! Ook! Eep orp ook!}
-{105}{}{Quem você?}
-{106}{}{Fala, fiote. Quem é você?}
+{105}{}{Quem vocÃª?}
+{106}{}{Fala, fiote. Quem Ã© vocÃª?}
 {107}{}{O que tem pra se fazer por aqui?}
-{108}{}{Você está pronto para uma queda de braço, The Rock?}
-{109}{}{Mano, não tenho ideia do que está tentando dizer. Desculpe.}
-{110}{}{Sou Francis, campeão de queda de braço na cidade. Eu mantenho a fama de que ninguém pode 
+{108}{}{VocÃª estÃ¡ pronto para uma queda de braÃ§o, The Rock?}
+{109}{}{Mano, nÃ£o tenho ideia do que estÃ¡ tentando dizer. Desculpe.}
+{110}{}{Sou Francis, campeÃ£o de queda de braÃ§o na cidade. Eu mantenho a fama de que ninguÃ©m pode 
  me vencer.}
-{111}{}{Eu sou Francis, lembra? O campeão de queda de braço da cidade? Eu mantenho a fama de que ninguém
+{111}{}{Eu sou Francis, lembra? O campeÃ£o de queda de braÃ§o da cidade? Eu mantenho a fama de que ninguÃ©m
  pode me vencer.}
 {112}{}{Eu te venci! Eu! Eu!}
-{113}{}{Aposto que você não teve muitos candidatos.}
+{113}{}{Aposto que vocÃª nÃ£o teve muitos candidatos.}
 {114}{}{Aposto que eu poderia.}
 {115}{}{Que bom, huh?}
-{116}{}{O que fazer na cidade? Bem, deixa eu ver... há o salão, as minas, a refinaria e a caravana. Não 
- temos muito tempo para nos divertir aqui, e o que temos, geralmente gastamos bebendo Além disso, 
- trabalhamos nas relações humano/mutante.}
+{116}{}{O que fazer na cidade? Bem, deixa eu ver... hÃ¡ o salÃ£o, as minas, a refinaria e a caravana. NÃ£o 
+ temos muito tempo para nos divertir aqui, e o que temos, geralmente gastamos bebendo AlÃ©m disso, 
+ trabalhamos nas relaÃ§Ãµes humano/mutante.}
 {117}{}{Que... excitante.}
 {118}{}{De acordo, obrigado.}
-{119}{}{Relações humano/mutante? Como assim?}
-{120}{}{Eu estou sempre pronto. E você?}
-{121}{}{Não, só penso na minha saúde.}
-{122}{}{Umm, não.}
+{119}{}{RelaÃ§Ãµes humano/mutante? Como assim?}
+{120}{}{Eu estou sempre pronto. E vocÃª?}
+{121}{}{NÃ£o, sÃ³ penso na minha saÃºde.}
+{122}{}{Umm, nÃ£o.}
 {123}{}{Claro que eu posso.}
-{124}{}{[ele avalia você e sua musculatura] Acho que não, amigo. Seria só uma perda de tempo. Não me chateie.}
-{125}{}{Você acha que pode, hein? Muito bem. Se você vencer, você ganha este punho de força. Se eu 
- vencer, você será meu escravo por uma noite. Quer fazer agora ou quer descansar um pouco?}
+{124}{}{[ele avalia vocÃª e sua musculatura] Acho que nÃ£o, amigo. Seria sÃ³ uma perda de tempo. NÃ£o me chateie.}
+{125}{}{VocÃª acha que pode, hein? Muito bem. Se vocÃª vencer, vocÃª ganha este punho de forÃ§a. Se eu 
+ vencer, vocÃª serÃ¡ meu escravo por uma noite. Quer fazer agora ou quer descansar um pouco?}
 {126}{}{Descanso! Descanso!}
 {127}{}{Agora. Vamos agora!}
 {128}{}{Eu gostaria de descansar primeiro.}
 {129}{}{Estou pronto agora.}
-{130}{}{Eu mudei de ideia. Eu não quero lutar com você.}
-{131}{}{Essa é a verdade. Parece que não há ninguém em todo este deserto esquecido por Deus que vá atrás 
+{130}{}{Eu mudei de ideia. Eu nÃ£o quero lutar com vocÃª.}
+{131}{}{Essa Ã© a verdade. Parece que nÃ£o hÃ¡ ninguÃ©m em todo este deserto esquecido por Deus que vÃ¡ atrÃ¡s 
  disso.}
-{132}{}{Que pena. Se eu encontrar alguém contarei sobre você. Tchau.}
-{133}{}{Só porque você é forte, não significa que seja inteligente, amigo. Lembre-se disso.}
-{134}{}{Amigo, se você não gosta daqui, tem um mundo inteiro lá fora.}
+{132}{}{Que pena. Se eu encontrar alguÃ©m contarei sobre vocÃª. Tchau.}
+{133}{}{SÃ³ porque vocÃª Ã© forte, nÃ£o significa que seja inteligente, amigo. Lembre-se disso.}
+{134}{}{Amigo, se vocÃª nÃ£o gosta daqui, tem um mundo inteiro lÃ¡ fora.}
 {135}{}{Tranquilo. Se precisar de alguma outra coisa pode perguntar ao Phil, o barman, ou a outra pessoa.}
-{136}{}{Cara, você quer uma queda de braço ou não? Não tenho tempo a perder com comentários arrogantes e covardes.}
+{136}{}{Cara, vocÃª quer uma queda de braÃ§o ou nÃ£o? NÃ£o tenho tempo a perder com comentÃ¡rios arrogantes e covardes.}
 {137}{}{Sim claro. Vamos fazer isso.}
-{138}{}{Não, eu não penso assim.}
-{139}{}{Então volte quando estiver pronto. Eu sempre vou estar por aqui.}
-{140}{}{Saia daqui antes que meu cérebro idiota decida dar um soco na sua cara.}
-{141}{}{Recuando, é? Covarde. Deveria imaginar.}
-{142}{}{Tudo bem, tudo bem, eu faço.}
-{143}{}{Tá bom, tanto faz. Até mais.}
-{144}{}{Bem, cara, é a primeira vez que alguém me vence em uma competição justa. Você ganhou, 
+{138}{}{NÃ£o, eu nÃ£o penso assim.}
+{139}{}{EntÃ£o volte quando estiver pronto. Eu sempre vou estar por aqui.}
+{140}{}{Saia daqui antes que meu cÃ©rebro idiota decida dar um soco na sua cara.}
+{141}{}{Recuando, Ã©? Covarde. Deveria imaginar.}
+{142}{}{Tudo bem, tudo bem, eu faÃ§o.}
+{143}{}{TÃ¡ bom, tanto faz. AtÃ© mais.}
+{144}{}{Bem, cara, Ã© a primeira vez que alguÃ©m me vence em uma competiÃ§Ã£o justa. VocÃª ganhou, 
  pode pegar. Bom trabalho}
-{145}{}{Você perdeu, nenhuma novidade. É hora de voltar para casa comigo.}
-{146}{}{Falando sério, amigo, eu não vejo um braço assim há anos. Se você usar isso direito, vai 
+{145}{}{VocÃª perdeu, nenhuma novidade. Ã‰ hora de voltar para casa comigo.}
+{146}{}{Falando sÃ©rio, amigo, eu nÃ£o vejo um braÃ§o assim hÃ¡ anos. Se vocÃª usar isso direito, vai 
  longe. Aproveite a luva!}
-{147}{}{Você já não se cansou de mim? Quer tentar novamente? Mesmo negócio?}
+{147}{}{VocÃª jÃ¡ nÃ£o se cansou de mim? Quer tentar novamente? Mesmo negÃ³cio?}
 {148}{}{Sim, vamos fazer.}
-{149}{}{Não, desculpe.}
-{150}{}{Já ouvi falar de você. Eu não me misturo essa com gentalha.}
+{149}{}{NÃ£o, desculpe.}
+{150}{}{JÃ¡ ouvi falar de vocÃª. Eu nÃ£o me misturo essa com gentalha.}
 {151}{}{Amigo, obrigado por intervir e salvar nossa cidade. Deixe eu te pagar uma bebida.}
-{152}{}{Fala, herói!}
-{153}{}{Escória! Morra!}
-{154}{}{Você deve ter notado que temos mutantes e humanos pela cidade. Estamos trabalhando para que 
- nós vivamos em paz. Infelizmente, existem os que querem destruir isso. Nosso líder, Marcus, 
- ajudou a fundar a cidade. Você quer ouvir mais?}
+{152}{}{Fala, herÃ³i!}
+{153}{}{EscÃ³ria! Morra!}
+{154}{}{VocÃª deve ter notado que temos mutantes e humanos pela cidade. Estamos trabalhando para que 
+ nÃ³s vivamos em paz. Infelizmente, existem os que querem destruir isso. Nosso lÃ­der, Marcus, 
+ ajudou a fundar a cidade. VocÃª quer ouvir mais?}
 {155}{}{Sim, me conte mais.}
-{156}{}{Não, deixa pra lá.}
-{157}{}{Na moralzinha, acho que mutantes são o lixo do mundo e esses humanos são uns traidores que trabalham com vocês.}
-{158}{}{Às vezes me preocupo com as pessoas daqui... é muito difícil para algumas delas superarem o 
- medo. Dizem que tem uma grande tempestade de merda se aproximando... torço para que seja mais um rumor.}
+{156}{}{NÃ£o, deixa pra lÃ¡.}
+{157}{}{Na moralzinha, acho que mutantes sÃ£o o lixo do mundo e esses humanos sÃ£o uns traidores que trabalham com vocÃªs.}
+{158}{}{Ã€s vezes me preocupo com as pessoas daqui... Ã© muito difÃ­cil para algumas delas superarem o 
+ medo. Dizem que tem uma grande tempestade de merda se aproximando... torÃ§o para que seja mais um rumor.}
 {159}{}{Obrigado. Tchau.}
-{160}{}{Certo. Bem, se precisar de mais informações, você sabe onde me encontrar.}
+{160}{}{Certo. Bem, se precisar de mais informaÃ§Ãµes, vocÃª sabe onde me encontrar.}
 {161}{}{Certo, obrigado. Tchau.}
-{162}{}{Sério? Essa é uma atitude fascinante. Pena que não metemos fogo na sua aldeia enquanto 
- controlávamos o deserto. Sai da minha frente, verme.}
+{162}{}{SÃ©rio? Essa Ã© uma atitude fascinante. Pena que nÃ£o metemos fogo na sua aldeia enquanto 
+ controlÃ¡vamos o deserto. Sai da minha frente, verme.}
 {200}{}{[FEITO]}
 {201}{}{Adeus.}
 {202}{}{Obrigado. Tchau.}
 {203}{}{[MAIS]}
 {204}{}{Certo, obrigado. Tchau.}
-{300}{}{Cara, acho que você não saberia usar o que tenho a oferecer. Volte quando você tiver um um 
- pouco mais de experiência em seu currículo.}
-{301}{}{Você vê um super mutante muito corpulento. Ele está vestido de couro preto, possuí uma expressão 
- de tédio estampada em seu rosto. Parece ter algum tipo de manopla saindo de sua bolsa.}
-{302}{}{Você se sente dolorido. Parece que as lembranças de sua visita à Francis vão demorar para saírem.}
+{300}{}{Cara, acho que vocÃª nÃ£o saberia usar o que tenho a oferecer. Volte quando vocÃª tiver um um 
+ pouco mais de experiÃªncia em seu currÃ­culo.}
+{301}{}{VocÃª vÃª um super mutante muito corpulento. Ele estÃ¡ vestido de couro preto, possuÃ­ uma expressÃ£o 
+ de tÃ©dio estampada em seu rosto. Parece ter algum tipo de manopla saindo de sua bolsa.}
+{302}{}{VocÃª se sente dolorido. Parece que as lembranÃ§as de sua visita Ã  Francis vÃ£o demorar para saÃ­rem.}
 {400}{}{Urrggghh!}
 {401}{}{Arrrrr!}
 {402}{}{Aiiigggggg.}
@@ -94,44 +94,44 @@
 {407}{}{Grrr!}
 {408}{}{Groan!}
 {409}{}{Ai!}
-{410}{}{Ah! Meu braço!}
+{410}{}{Ah! Meu braÃ§o!}
 {411}{}{Ha ha! Te peguei!}
 {500}{}{De primeira, Francis! De primeira!}
-{501}{}{Cara, isso é o que eu chamo de uma munheca preciosa! Hahaha!}
-{502}{}{Eita, da pra fazer um campeonato de punheta com esses braços aqui. Har Har Har!}
-{503}{}{Vou ter que te ajudar, amigo. Você está saindo do controle tentando vencer Francis!}
+{501}{}{Cara, isso Ã© o que eu chamo de uma munheca preciosa! Hahaha!}
+{502}{}{Eita, da pra fazer um campeonato de punheta com esses braÃ§os aqui. Har Har Har!}
+{503}{}{Vou ter que te ajudar, amigo. VocÃª estÃ¡ saindo do controle tentando vencer Francis!}
 {504}{}{Ai! Bem nos metacarpos!}
-{505}{}{Ei, Francis! Mão forte com esse.}
-{506}{}{Eles teriam que lhe dar uma MÃO nessa luta! Ho ho ho ho!}
-{507}{}{Use sua clavícula, Francis! Use sua clavícula!}
-{508}{}{Oh, oh... É melhor eu colocar meus cotovelos nele! hahaha!}
-{509}{}{Olhe para esses bíceps!}
-{510}{}{Acho que ouvi um tendão se preparando para estourar...}
-{511}{}{Eu diria que um cálculo simples da proporção da massa está favorecendo Francis.}
+{505}{}{Ei, Francis! MÃ£o forte com esse.}
+{506}{}{Eles teriam que lhe dar uma MÃƒO nessa luta! Ho ho ho ho!}
+{507}{}{Use sua clavÃ­cula, Francis! Use sua clavÃ­cula!}
+{508}{}{Oh, oh... Ã‰ melhor eu colocar meus cotovelos nele! hahaha!}
+{509}{}{Olhe para esses bÃ­ceps!}
+{510}{}{Acho que ouvi um tendÃ£o se preparando para estourar...}
+{511}{}{Eu diria que um cÃ¡lculo simples da proporÃ§Ã£o da massa estÃ¡ favorecendo Francis.}
 {512}{}{Francis! Fran-CIS! FRAN-CIS!}
-{513}{}{Fode com eles, Francis! Mas não literalmente!}
-{530}{}{Muito bem, Francis! Você tem uma MÃO santa para isso!}
+{513}{}{Fode com eles, Francis! Mas nÃ£o literalmente!}
+{530}{}{Muito bem, Francis! VocÃª tem uma MÃƒO santa para isso!}
 {531}{}{Muito bem, Francis!}
 {532}{}{Uau! Eu nunca vi isso acontecer antes!}
-{599}{}{Encontrei um bilhete nos túneis com os nomes Francis e Zaius. Parece que você está cometendo alguns crimes.}
+{599}{}{Encontrei um bilhete nos tÃºneis com os nomes Francis e Zaius. Parece que vocÃª estÃ¡ cometendo alguns crimes.}
 {600}{}{Droga. Zaius largou as notas de novo, Huh? Bem, humano, deixe eu te falar uma 
  coisa: eu sabia que tinha pessoas tentando matar mutantes nesta cidade, e eu sabia que Marcus 
- só iria prendê-los com evidências. Eu só queria fazer isso acontecer com o mínimo de derramamento de sangue possível.}
-{601}{}{Então você matou inocentes, certo?}
-{602}{}{Desde já. E o que você propõe fazer a respeito?}
+ sÃ³ iria prendÃª-los com evidÃªncias. Eu sÃ³ queria fazer isso acontecer com o mÃ­nimo de derramamento de sangue possÃ­vel.}
+{601}{}{EntÃ£o vocÃª matou inocentes, certo?}
+{602}{}{Desde jÃ¡. E o que vocÃª propÃµe fazer a respeito?}
 {603}{}{Inocentes? Ha! As pessoas que matei estavam tentando me matar! Acabei de 
- retribuir o favor e me certificar de que suas mortes servirão a outro propósito - um que possa promover a paz.}
-{604}{}{Mas assim você ainda não passa de um criminoso e assassino - e só tenho a tua palavra 
- de que existe uma conspiração.}
-{605}{}{A única coisa que satisfará a causa da paz é a morte de todos os assassinos. E eu 
+ retribuir o favor e me certificar de que suas mortes servirÃ£o a outro propÃ³sito - um que possa promover a paz.}
+{604}{}{Mas assim vocÃª ainda nÃ£o passa de um criminoso e assassino - e sÃ³ tenho a tua palavra 
+ de que existe uma conspiraÃ§Ã£o.}
+{605}{}{A Ãºnica coisa que satisfarÃ¡ a causa da paz Ã© a morte de todos os assassinos. E eu 
  vou fazer minha parte te matando.}
-{606}{}{Se você falasse com algumas pessoas da cidade sobre seu ódio aos mutantes, 
-  você descobriria sobre a conspiração. Eu sei que dois erros não fazem um certo, mas eu chamo isso de 
- legítima defesa. Fiz algo errado e admito. Eu não posso ficar aqui. Vou tentar encontrar uma maneira de expiar 
- minhas ações... Isso satisfaz seu senso de justiça?}
-{607}{}{Terá que ser.}
-{608}{}{Não, não importa. Eu mesmo vou te matar.}
-{700}{}{Você vence Francis na queda de braços.}
-{701}{}{Você confrontou Francis sobre o bilhete para Zaius.}
-{800}{}{(Olhando para o enorme mutante, você percebe que não teria
- nenhuma chance. É hora de sair vazado enquanto você ainda tem sua dignidade.)}
+{606}{}{Se vocÃª falasse com algumas pessoas da cidade sobre seu Ã³dio aos mutantes, 
+  vocÃª descobriria sobre a conspiraÃ§Ã£o. Eu sei que dois erros nÃ£o fazem um certo, mas eu chamo isso de 
+ legÃ­tima defesa. Fiz algo errado e admito. Eu nÃ£o posso ficar aqui. Vou tentar encontrar uma maneira de expiar 
+ minhas aÃ§Ãµes... Isso satisfaz seu senso de justiÃ§a?}
+{607}{}{TerÃ¡ que ser.}
+{608}{}{NÃ£o, nÃ£o importa. Eu mesmo vou te matar.}
+{700}{}{VocÃª vence Francis na queda de braÃ§os.}
+{701}{}{VocÃª confrontou Francis sobre o bilhete para Zaius.}
+{800}{}{(Olhando para o enorme mutante, vocÃª percebe que nÃ£o teria
+ nenhuma chance. Ã‰ hora de sair vazado enquanto vocÃª ainda tem sua dignidade.)}

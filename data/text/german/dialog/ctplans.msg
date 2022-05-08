@@ -1,1 +1,1 @@
-{100}{}{Du hast die Vertibird-Pläne bekommen.}
+{100}{}{Du hast die Vertibird-PlÃ¤ne bekommen.}

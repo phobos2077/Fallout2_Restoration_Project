@@ -1,12 +1,12 @@
-{100}{}{Egy fehér h?s-karaktert látsz.}
-{101}{}{Egy nagyon izmos fehér férfit látsz, aki a 13-as Menedék kezeslábasát viseli. Miközben a történetét meséli, mosolyog és nevet.}
-{102}{}{Egy fehér h?s-karaktert látsz. Mosolyog és nevetgél.}
-{103}{}{Egy fehér h?s-karaktert látsz. Mosolyog és nevetgél.}
-{104}{}{Naszóval a játékosom ANNYIRA, DE ANNYIRA hülye volt, hogy...}
-{105}{}{Ezt kapd ki... azt hitte, hogy a sörétes puska l?szere a víztisztító chip, és visszavitte a Felvigyázónak...}
-{106}{}{Micsoda egy idióta!}
-{107}{}{Engem egy 'er?szakos, segghülye' játékos irányított, és meg kell, mondjam...}
-{108}{}{Egy ideig szórakoztató volt, de gyorsan rá lehetett unni. Olyan sokat kell gyilkolászni, hogy a végére hulla fáradt leszel.}
-{109}{}{Három egész órát kellett eltöltenünk a karaktergeneráló képerny?n, mire a játékosom VÉGRE eldöntötte, hogy játszani is fogunk a játékkal.}
-{110}{}{Ian sokkal veszélyesebb volt rám nézve, mint az ellenségeink. Akárhol is kötött ki, remélem, meghalt azóta.}
-{111}{}{Nézd csak a karaktermodellem izmait! Túlzásba vitték! Egyszer?en nevetséges!}
+{100}{}{Egy fehÃ©r h?s-karaktert lÃ¡tsz.}
+{101}{}{Egy nagyon izmos fehÃ©r fÃ©rfit lÃ¡tsz, aki a 13-as MenedÃ©k kezeslÃ¡basÃ¡t viseli. MikÃ¶zben a tÃ¶rtÃ©netÃ©t mesÃ©li, mosolyog Ã©s nevet.}
+{102}{}{Egy fehÃ©r h?s-karaktert lÃ¡tsz. Mosolyog Ã©s nevetgÃ©l.}
+{103}{}{Egy fehÃ©r h?s-karaktert lÃ¡tsz. Mosolyog Ã©s nevetgÃ©l.}
+{104}{}{NaszÃ³val a jÃ¡tÃ©kosom ANNYIRA, DE ANNYIRA hÃ¼lye volt, hogy...}
+{105}{}{Ezt kapd ki... azt hitte, hogy a sÃ¶rÃ©tes puska l?szere a vÃ­ztisztÃ­tÃ³ chip, Ã©s visszavitte a FelvigyÃ¡zÃ³nak...}
+{106}{}{Micsoda egy idiÃ³ta!}
+{107}{}{Engem egy 'er?szakos, segghÃ¼lye' jÃ¡tÃ©kos irÃ¡nyÃ­tott, Ã©s meg kell, mondjam...}
+{108}{}{Egy ideig szÃ³rakoztatÃ³ volt, de gyorsan rÃ¡ lehetett unni. Olyan sokat kell gyilkolÃ¡szni, hogy a vÃ©gÃ©re hulla fÃ¡radt leszel.}
+{109}{}{HÃ¡rom egÃ©sz Ã³rÃ¡t kellett eltÃ¶ltenÃ¼nk a karaktergenerÃ¡lÃ³ kÃ©perny?n, mire a jÃ¡tÃ©kosom VÃ‰GRE eldÃ¶ntÃ¶tte, hogy jÃ¡tszani is fogunk a jÃ¡tÃ©kkal.}
+{110}{}{Ian sokkal veszÃ©lyesebb volt rÃ¡m nÃ©zve, mint az ellensÃ©geink. AkÃ¡rhol is kÃ¶tÃ¶tt ki, remÃ©lem, meghalt azÃ³ta.}
+{111}{}{NÃ©zd csak a karaktermodellem izmait! TÃºlzÃ¡sba vittÃ©k! Egyszer?en nevetsÃ©ges!}

@@ -1,1 +1,1 @@
-{100}{}{Jeœli bêdê postêpowaæ doœæ ostro¿nie, mogê przywi¹zaæ linê i zejœæ na dó³ tym szybem windy.}
+{100}{}{JeÅ›li bÄ™dÄ™ postÄ™powaÄ‡ doÅ›Ä‡ ostroÅ¼nie, mogÄ™ przywiÄ…zaÄ‡ linÄ™ i zejÅ›Ä‡ na dÃ³Å‚ tym szybem windy.}

@@ -1,13 +1,13 @@
-{100}{}{Ten w³az wygl¹da dziwnie - w przeciwieñstwie do reszty okrêtu, jest wzglêdnie nie zardzewia³y i ma z³o¿ony, skomplikowany zamek.}
-{200}{}{Si³ujesz siê z w³azem, ale w koñcu udaje ci siê go otworzyæ. Kawa³ki rozwalonego zamka zaœmiecaj¹ pod³ogê wie¿y i chrzêszcz¹ ci pod butami.}
-{201}{}{Próbujesz z ca³ych si³, ale w³az ani drgnie. Mo¿e materia³y wybuchowe da³yby radê.}
-{202}{}{Wydaje ci siê, ¿e mo¿na ten w³az otworzyæ si³¹. Marcus móg³by tu pomóc.}
-{210}{}{Hej Marcus, mo¿e pomóg³byœ otworzyæ ten w³az?}
-{211}{}{Jasne, tylko zrób mi miejsce.}
+{100}{}{Ten wÅ‚az wyglÄ…da dziwnie - w przeciwieÅ„stwie do reszty okrÄ™tu, jest wzglÄ™dnie nie zardzewiaÅ‚y i ma zÅ‚oÅ¼ony, skomplikowany zamek.}
+{200}{}{SiÅ‚ujesz siÄ™ z wÅ‚azem, ale w koÅ„cu udaje ci siÄ™ go otworzyÄ‡. KawaÅ‚ki rozwalonego zamka zaÅ›miecajÄ… podÅ‚ogÄ™ wieÅ¼y i chrzÄ™szczÄ… ci pod butami.}
+{201}{}{PrÃ³bujesz z caÅ‚ych siÅ‚, ale wÅ‚az ani drgnie. MoÅ¼e materiaÅ‚y wybuchowe daÅ‚yby radÄ™.}
+{202}{}{Wydaje ci siÄ™, Å¼e moÅ¼na ten wÅ‚az otworzyÄ‡ siÅ‚Ä…. Marcus mÃ³gÅ‚by tu pomÃ³c.}
+{210}{}{Hej Marcus, moÅ¼e pomÃ³gÅ‚byÅ› otworzyÄ‡ ten wÅ‚az?}
+{211}{}{Jasne, tylko zrÃ³b mi miejsce.}
 {212}{}{*hrrrgnnnr*}
-{213}{}{Supermutant wysila siê ¿eby podnieœæ w³az. Przez chwilê, wygl¹da jakby mia³y mu wyskoczyæ wszystkie ¿y³y, ale w tym momencie, udaje mu siê go wywa¿yæ, zaœmiecaj¹c wierzê kawa³kami rozerwanego zamka.}
-{220}{}{Przez chwilê majstrujesz przy w zamku i otwierasz go. Otwieranie zamków to zdecydowanie coœ wiêcej dla ciebie ni¿ tylko hobby.}
-{221}{}{Przez chwilê majstrujesz przy zamku, ale w koñcu dajesz za wygran¹. Musi byæ inny sposób, ¿eby go otworzyæ.}
-{230}{}{Eksplozja rozrywa w³az razem z zamkiem, a przy okazji ciê og³usza.}
-{240}{}{Przez chwilê bawisz siê zamkiem i udaje ci siê go ponownie zamkn¹æ. To zdecydowanie coœ wiêcej ni¿ tylko hobby.}
-{241}{}{Przez chwilê bawisz siê zamkiem, ale ostatecznie ryzygnujesz. Musi byæ inny sposób aby ponownie zamkn¹æ.}
+{213}{}{Supermutant wysila siÄ™ Å¼eby podnieÅ›Ä‡ wÅ‚az. Przez chwilÄ™, wyglÄ…da jakby miaÅ‚y mu wyskoczyÄ‡ wszystkie Å¼yÅ‚y, ale w tym momencie, udaje mu siÄ™ go wywaÅ¼yÄ‡, zaÅ›miecajÄ…c wierzÄ™ kawaÅ‚kami rozerwanego zamka.}
+{220}{}{Przez chwilÄ™ majstrujesz przy w zamku i otwierasz go. Otwieranie zamkÃ³w to zdecydowanie coÅ› wiÄ™cej dla ciebie niÅ¼ tylko hobby.}
+{221}{}{Przez chwilÄ™ majstrujesz przy zamku, ale w koÅ„cu dajesz za wygranÄ…. Musi byÄ‡ inny sposÃ³b, Å¼eby go otworzyÄ‡.}
+{230}{}{Eksplozja rozrywa wÅ‚az razem z zamkiem, a przy okazji ciÄ™ ogÅ‚usza.}
+{240}{}{Przez chwilÄ™ bawisz siÄ™ zamkiem i udaje ci siÄ™ go ponownie zamknÄ…Ä‡. To zdecydowanie coÅ› wiÄ™cej niÅ¼ tylko hobby.}
+{241}{}{Przez chwilÄ™ bawisz siÄ™ zamkiem, ale ostatecznie ryzygnujesz. Musi byÄ‡ inny sposÃ³b aby ponownie zamknÄ…Ä‡.}

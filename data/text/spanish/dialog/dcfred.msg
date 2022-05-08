@@ -2,158 +2,158 @@
 {101}{}{Ves a Fred.}
 {102}{}{Ves a Fred, que lleva ropa muy elegante.}
 {150}{}{Parece estar ocupado pensando en algo.}
-{151}{}{Parece que está bastante contento con su nueva ropa.}
-{200}{}{Algún día me haré rico.}
-{201}{}{Oh, déjame en paz. Estoy ocupado.}
-{202}{}{El plan maestro…}
-{203}{}{Lo averiguaré un día de estos…}
-{204}{}{¿Por qué siempre pierdo?}
+{151}{}{Parece que estÃ¡ bastante contento con su nueva ropa.}
+{200}{}{AlgÃºn dÃ­a me harÃ© rico.}
+{201}{}{Oh, dÃ©jame en paz. Estoy ocupado.}
+{202}{}{El plan maestroâ€¦}
+{203}{}{Lo averiguarÃ© un dÃ­a de estosâ€¦}
+{204}{}{Â¿Por quÃ© siempre pierdo?}
 {205}{}{Las mesas deben estar trucadas.}
-{206}{}{...Algún día tendré mi propio local.}
-{207}{}{Me compraré ropa bonita.}
-{220}{}{¡Eh, tío! Es tarde. Déjame en paz.}
-{221}{}{No, no necesito compañía.}
-{222}{}{¿Sabes qué hora es?}
+{206}{}{...AlgÃºn dÃ­a tendrÃ© mi propio local.}
+{207}{}{Me comprarÃ© ropa bonita.}
+{220}{}{Â¡Eh, tÃ­o! Es tarde. DÃ©jame en paz.}
+{221}{}{No, no necesito compaÃ±Ã­a.}
+{222}{}{Â¿Sabes quÃ© hora es?}
 {223}{}{No tengo nada.}
-{224}{}{Ven a molestarme por la mañana. Estoy cansado.}
-{225}{}{Lárgate.}
+{224}{}{Ven a molestarme por la maÃ±ana. Estoy cansado.}
+{225}{}{LÃ¡rgate.}
 {226}{}{No hay nadie en casa.}
 {227}{}{No voy a hablar contigo. Me voy a la cama.}
-{228}{}{¡Eh, tía! Es tarde. déjame en paz.}
-{240}{}{¡No tengo más dinero! déjame en paz.}
-{241}{}{No hay trabajo. ¿Qué voy a hacer?}
-{242}{}{¡No me digas que le debo dinero a alguien más! ¡Ahh!}
-{243}{}{Ahora nunca me haré rico.}
+{228}{}{Â¡Eh, tÃ­a! Es tarde. dÃ©jame en paz.}
+{240}{}{Â¡No tengo mÃ¡s dinero! dÃ©jame en paz.}
+{241}{}{No hay trabajo. Â¿QuÃ© voy a hacer?}
+{242}{}{Â¡No me digas que le debo dinero a alguien mÃ¡s! Â¡Ahh!}
+{243}{}{Ahora nunca me harÃ© rico.}
 {244}{}{Estoy arruinado.}
-{245}{}{Oh tío, necesito algo de pasta.}
-{246}{}{Ahora nunca podré comprarme ropa nueva.}
-{247}{}{Tengo que diseñar un nuevo plan maestro…}
-{260}{}{¡Gracias por cubrirme!}
+{245}{}{Oh tÃ­o, necesito algo de pasta.}
+{246}{}{Ahora nunca podrÃ© comprarme ropa nueva.}
+{247}{}{Tengo que diseÃ±ar un nuevo plan maestroâ€¦}
+{260}{}{Â¡Gracias por cubrirme!}
 {261}{}{Eres mi salvador.}
-{262}{}{Pronto tendré tu dinero.}
-{263}{}{¡Conseguiré romper la banca muy pronto!}
-{264}{}{Eres la primera persona a la que iré a ver cuando rompa la banca.}
-{275}{}{¡El plan maestro ha comenzado!}
-{276}{}{¡Gracias por el préstamo! ¡Tu dinero está en buenas manos!}
-{277}{}{Esas mesas son difíciles, pero no te preocupes.}
-{278}{}{Romperé la banca un día de estos, gracias a ti.}
-{279}{}{¡Lo conseguiré cualquier día de estos! Puedo sentirlo.}
-{280}{}{Te devolveré tu dinero, ¡lo juro!}
-{281}{}{Romperé la banca pronto. Puedo olerlo.}
-{295}{}{¿Eh? ¿Te conozco? ¿Qué es lo que quieres?}
-{296}{}{¿Por qué sigues molestándome? Ni siquiera te conozco. Vete a molestar a otro.}
-{297}{}{Estoy aquí para recaudar el dinero que le debes a alguien.}
+{262}{}{Pronto tendrÃ© tu dinero.}
+{263}{}{Â¡ConseguirÃ© romper la banca muy pronto!}
+{264}{}{Eres la primera persona a la que irÃ© a ver cuando rompa la banca.}
+{275}{}{Â¡El plan maestro ha comenzado!}
+{276}{}{Â¡Gracias por el prÃ©stamo! Â¡Tu dinero estÃ¡ en buenas manos!}
+{277}{}{Esas mesas son difÃ­ciles, pero no te preocupes.}
+{278}{}{RomperÃ© la banca un dÃ­a de estos, gracias a ti.}
+{279}{}{Â¡Lo conseguirÃ© cualquier dÃ­a de estos! Puedo sentirlo.}
+{280}{}{Te devolverÃ© tu dinero, Â¡lo juro!}
+{281}{}{RomperÃ© la banca pronto. Puedo olerlo.}
+{295}{}{Â¿Eh? Â¿Te conozco? Â¿QuÃ© es lo que quieres?}
+{296}{}{Â¿Por quÃ© sigues molestÃ¡ndome? Ni siquiera te conozco. Vete a molestar a otro.}
+{297}{}{Estoy aquÃ­ para recaudar el dinero que le debes a alguien.}
 {298}{}{No importa.}
-{299}{}{¡Uk!}
-{300}{}{Adiós.}
-{310}{}{¡OYE! ¡Aquí estás! ¡Te he estado buscando por todos lados! ¡Mira esta ropa!}
+{299}{}{Â¡Uk!}
+{300}{}{AdiÃ³s.}
+{310}{}{Â¡OYE! Â¡AquÃ­ estÃ¡s! Â¡Te he estado buscando por todos lados! Â¡Mira esta ropa!}
 {311}{}{Gracias de nuevo.}
 {312}{}{Tienes muy buen aspecto.}
-{313}{}{¡Parecen una mierda!}
-{314}{}{¡Yuk!}
+{313}{}{Â¡Parecen una mierda!}
+{314}{}{Â¡Yuk!}
 {315}{}{Uhg.}
-{320}{}{Gracias. ¡Muchas gracias! ¡Gracias a ti, tengo cuatro iguales que estas!}
-{321}{}{¿Así que al final rompiste la banca?}
-{322}{}{Y, ¿dónde está mi dinero?}
-{330}{}{¿No te gusta mi ropa. Sabes, creo que tienes razón. A mi tampoco me gusta. Es hora de comprarme nueva ropa. ¡Puedo permitírmelo!}
-{331}{}{¿Así que al final rompiste la banca?}
-{332}{}{¿Dónde está mi dinero?}
+{320}{}{Gracias. Â¡Muchas gracias! Â¡Gracias a ti, tengo cuatro iguales que estas!}
+{321}{}{Â¿AsÃ­ que al final rompiste la banca?}
+{322}{}{Y, Â¿dÃ³nde estÃ¡ mi dinero?}
+{330}{}{Â¿No te gusta mi ropa. Sabes, creo que tienes razÃ³n. A mi tampoco me gusta. Es hora de comprarme nueva ropa. Â¡Puedo permitÃ­rmelo!}
+{331}{}{Â¿AsÃ­ que al final rompiste la banca?}
+{332}{}{Â¿DÃ³nde estÃ¡ mi dinero?}
 {333}{}{Hmph.}
-{340}{}{¡Ahora iba a eso! ¿No me vas a dejar siquiera que disfrute de la gloria? He tenido que trabajar muy duro para conseguirlo, sabes.}
-{341}{}{Lo sé. Lo siento.}
-{342}{}{Que te den. ¿Dónde está el dinero que te presté?}
-{343}{}{Me importa una mierda. ¿Dónde está mi dinero?}
-{350}{}{Bien. Toma [Fred te da 500 dólares]. Hay un pequeño extra por haber confiado en mí. Bien, nos vemos. Gracias de nuevo.}
-{351}{}{¡Gracias!}
+{340}{}{Â¡Ahora iba a eso! Â¿No me vas a dejar siquiera que disfrute de la gloria? He tenido que trabajar muy duro para conseguirlo, sabes.}
+{341}{}{Lo sÃ©. Lo siento.}
+{342}{}{Que te den. Â¿DÃ³nde estÃ¡ el dinero que te prestÃ©?}
+{343}{}{Me importa una mierda. Â¿DÃ³nde estÃ¡ mi dinero?}
+{350}{}{Bien. Toma [Fred te da 500 dÃ³lares]. Hay un pequeÃ±o extra por haber confiado en mÃ­. Bien, nos vemos. Gracias de nuevo.}
+{351}{}{Â¡Gracias!}
 {352}{}{Como quieras.}
-{360}{}{Gracias por prestarme el dinero. De verdad que significó mucho para mí que un completo extraño confiara en mí. Déjame darte esto.}
+{360}{}{Gracias por prestarme el dinero. De verdad que significÃ³ mucho para mÃ­ que un completo extraÃ±o confiara en mÃ­. DÃ©jame darte esto.}
 {361}{}{Vale.}
-{362}{}{No tienes por qué.}
+{362}{}{No tienes por quÃ©.}
 {363}{}{Uh.}
-{370}{}{Te debo un montón. Confiaste en mí cuando la suerte me esquivaba. Como pequeño gesto de gratitud tengo una cosa para ti.}
+{370}{}{Te debo un montÃ³n. Confiaste en mÃ­ cuando la suerte me esquivaba. Como pequeÃ±o gesto de gratitud tengo una cosa para ti.}
 {371}{}{Vale.}
-{372}{}{No tienes por qué.}
+{372}{}{No tienes por quÃ©.}
 {373}{}{Uh.}
-{380}{}{Toma. [Fred te da 1.000 dólares]. Espero que te sirva de ayuda. Estoy seguro de que encontrarás una forma de gastarlo.}
+{380}{}{Toma. [Fred te da 1.000 dÃ³lares]. Espero que te sirva de ayuda. Estoy seguro de que encontrarÃ¡s una forma de gastarlo.}
 {381}{}{Lo siento, no puedo aceptarlo.}
 {382}{}{Gracias.}
-{383}{}{No lo creo, pero lo aceptaré.}
+{383}{}{No lo creo, pero lo aceptarÃ©.}
 {384}{}{Yum.}
-{390}{}{Toma. [Fred te da 2.000 dólares, 5 células de fusión, 5 células de energía y una granada de plasma]. Espero que te resulte de ayuda, al menos un poco.}
+{390}{}{Toma. [Fred te da 2.000 dÃ³lares, 5 cÃ©lulas de fusiÃ³n, 5 cÃ©lulas de energÃ­a y una granada de plasma]. Espero que te resulte de ayuda, al menos un poco.}
 {391}{}{Lo siento, no puedo aceptarlo.}
 {392}{}{Muchas gracias.}
-{393}{}{No lo creo, pero lo aceptaré.}
+{393}{}{No lo creo, pero lo aceptarÃ©.}
 {394}{}{Yum.}
-{400}{}{¿Qué? Bueno, bien, si insistes. Muchísimas gracias. Cuídate mucho.}
-{401}{}{Adiós.}
-{410}{}{¿Qué? ¿Te estás metiendo alguna droga rara? No pareces un colgado del jet. Aléjate de mí, bicho raro.}
-{411}{}{¡Lárgate!}
+{400}{}{Â¿QuÃ©? Bueno, bien, si insistes. MuchÃ­simas gracias. CuÃ­date mucho.}
+{401}{}{AdiÃ³s.}
+{410}{}{Â¿QuÃ©? Â¿Te estÃ¡s metiendo alguna droga rara? No pareces un colgado del jet. AlÃ©jate de mÃ­, bicho raro.}
+{411}{}{Â¡LÃ¡rgate!}
 {412}{}{Uhg.}
-{420}{}{¿De qué estás hablando? No le debo nada a nadie. ¿De quien demonios hablas?}
-{421}{}{Ya, eso dijiste la última vez. ¿De qué estás hablando? ¿Quién es esa persona imaginaria?}
-{422}{}{Becky dice que le debes 500 dólares.}
-{423}{}{Becky me envía.}
-{424}{}{Rebecca dice que te prestó 200 dólares.}
-{430}{}{Oh si, es cierto. Rebecca me dejó 200 dólares… Oh, espera. Quizás... Ummm…}
+{420}{}{Â¿De quÃ© estÃ¡s hablando? No le debo nada a nadie. Â¿De quien demonios hablas?}
+{421}{}{Ya, eso dijiste la Ãºltima vez. Â¿De quÃ© estÃ¡s hablando? Â¿QuiÃ©n es esa persona imaginaria?}
+{422}{}{Becky dice que le debes 500 dÃ³lares.}
+{423}{}{Becky me envÃ­a.}
+{424}{}{Rebecca dice que te prestÃ³ 200 dÃ³lares.}
+{430}{}{Oh si, es cierto. Rebecca me dejÃ³ 200 dÃ³laresâ€¦ Oh, espera. QuizÃ¡s... Ummmâ€¦}
 {431}{}{Me ha dicho que te rompa el cuello si no pagas.}
 {432}{}{Suelta el dinero.}
 {440}{}{Ya, claro. Nunca he visto tanto dinero junto en mi vida.}
 {441}{}{Hmmm.}
 {442}{}{Oh.}
-{450}{}{¡Claro! Cuando las ranas críen pelo. Becky no le haría daño a una mosca. Aunque es bastante guapa.}
+{450}{}{Â¡Claro! Cuando las ranas crÃ­en pelo. Becky no le harÃ­a daÃ±o a una mosca. Aunque es bastante guapa.}
 {451}{}{Bueno, te equivocas, gilipollas.}
-{452}{}{Entonces quizás fuera otra persona.}
-{460}{}{Maldición. Creo que tienes razón, pero... estoy casi arruinado. ¡No puedo pagarte todo ese dinero! Tengo que comer, sabes.}
+{452}{}{Entonces quizÃ¡s fuera otra persona.}
+{460}{}{MaldiciÃ³n. Creo que tienes razÃ³n, pero... estoy casi arruinado. Â¡No puedo pagarte todo ese dinero! Tengo que comer, sabes.}
 {461}{}{Lo siento.}
 {462}{}{Mala suerte.}
-{470}{}{Oh, maldición. Apenas puedo permitirme 100 dólares. ¿Puedes perdonarme la mitad? ¡Te prometo que te pagaré más tarde!}
+{470}{}{Oh, maldiciÃ³n. Apenas puedo permitirme 100 dÃ³lares. Â¿Puedes perdonarme la mitad? Â¡Te prometo que te pagarÃ© mÃ¡s tarde!}
 {471}{}{No, lo siento.}
-{472}{}{Vamos. ¡Págame todo!}
+{472}{}{Vamos. Â¡PÃ¡game todo!}
 {473}{}{Vale, de acuerdo.}
-{480}{}{Maldición. ¡Vas a arruinarme! Bueno, vale, toma. Ahora estoy completamente en bancarrota.}
-{481}{}{Oh, venga. Te prestaré dinero.}
-{482}{}{Gracias. La próxima vez administra mejor tu dinero.}
+{480}{}{MaldiciÃ³n. Â¡Vas a arruinarme! Bueno, vale, toma. Ahora estoy completamente en bancarrota.}
+{481}{}{Oh, venga. Te prestarÃ© dinero.}
+{482}{}{Gracias. La prÃ³xima vez administra mejor tu dinero.}
 {483}{}{Gracias por hacer negocios conmigo.}
-{490}{}{¡Te lo he dicho! ¡No puedo! Me moriré de hambre si lo hago. Oh, vamos, ¿no puedes ayudarme?}
-{491}{}{De acuerdo. Te prestaré la mitad.}
+{490}{}{Â¡Te lo he dicho! Â¡No puedo! Me morirÃ© de hambre si lo hago. Oh, vamos, Â¿no puedes ayudarme?}
+{491}{}{De acuerdo. Te prestarÃ© la mitad.}
 {492}{}{No, lo siento. No tengo el dinero.}
-{493}{}{Volveré.}
-{500}{}{¿Qué? ¿De verdad? ¡Caray! ¡Muchísimas gracias, señor! Aquí van 100 dólares. ¡Conseguiré los otros 100 tan pronto como me sea posible!}
-{501}{}{¿Qué? ¿De verdad? ¡Caray! ¡Muchísimas gracias, señorita! Aquí van 100 dólares. ¡Conseguiré los otros 100 tan pronto como me sea posible!}
+{493}{}{VolverÃ©.}
+{500}{}{Â¿QuÃ©? Â¿De verdad? Â¡Caray! Â¡MuchÃ­simas gracias, seÃ±or! AquÃ­ van 100 dÃ³lares. Â¡ConseguirÃ© los otros 100 tan pronto como me sea posible!}
+{501}{}{Â¿QuÃ©? Â¿De verdad? Â¡Caray! Â¡MuchÃ­simas gracias, seÃ±orita! AquÃ­ van 100 dÃ³lares. Â¡ConseguirÃ© los otros 100 tan pronto como me sea posible!}
 {502}{}{No hay problema.}
-{503}{}{Será mejor que me los devuelvas.}
-{510}{}{Oh, no te preocupes. ¡Lo haré! ¡Tienes mi palabra de que esta vez no me olvidaré!}
+{503}{}{SerÃ¡ mejor que me los devuelvas.}
+{510}{}{Oh, no te preocupes. Â¡Lo harÃ©! Â¡Tienes mi palabra de que esta vez no me olvidarÃ©!}
 {511}{}{Vale.}
-{520}{}{Mira, ¿sabes qué? Esos cien van a... retrasar las cosas. ¿Crees que podrías prestarme un poco más?}
-{521}{}{¿Cuánto?}
+{520}{}{Mira, Â¿sabes quÃ©? Esos cien van a... retrasar las cosas. Â¿Crees que podrÃ­as prestarme un poco mÃ¡s?}
+{521}{}{Â¿CuÃ¡nto?}
 {522}{}{Ni hablar.}
-{530}{}{¡Espera! Lo sé. Te diré el que haremos, yo te doy 100 dólares y tu me fías los otros 100 que me prestó Becky. Te los devolveré muy pronto.}
+{530}{}{Â¡Espera! Lo sÃ©. Te dirÃ© el que haremos, yo te doy 100 dÃ³lares y tu me fÃ­as los otros 100 que me prestÃ³ Becky. Te los devolverÃ© muy pronto.}
 {531}{}{Vale, de acuerdo.}
 {532}{}{No hay trato.}
-{540}{}{Sólo 50 dólares. ¡Por favor! ¡Es parte de mi plan maestro!}
+{540}{}{SÃ³lo 50 dÃ³lares. Â¡Por favor! Â¡Es parte de mi plan maestro!}
 {541}{}{De acuerdo.}
-{542}{}{Pero eso sólo me deja con 50 dólares para pagar tu préstamo de 200.}
+{542}{}{Pero eso sÃ³lo me deja con 50 dÃ³lares para pagar tu prÃ©stamo de 200.}
 {543}{}{No.}
-{550}{}{Qué- uh… ¡Demonios! ¡No te arrepentirás de esto! ¡Te lo pagaré!}
+{550}{}{QuÃ©- uhâ€¦ Â¡Demonios! Â¡No te arrepentirÃ¡s de esto! Â¡Te lo pagarÃ©!}
 {551}{}{No hay problema.}
-{560}{}{Uh, sí. Ya veo que se te dan bien las matemáticas... ¡Por favor! No es mucho para ti, estoy seguro, pero significa muchísimo para mí.}
+{560}{}{Uh, sÃ­. Ya veo que se te dan bien las matemÃ¡ticas... Â¡Por favor! No es mucho para ti, estoy seguro, pero significa muchÃ­simo para mÃ­.}
 {561}{}{Vale.}
 {562}{}{No.}
-{570}{}{Ya, seguro que sí. Todo el mundo sabe que ella odia ese nombre. ¡No me engañas!}
+{570}{}{Ya, seguro que sÃ­. Todo el mundo sabe que ella odia ese nombre. Â¡No me engaÃ±as!}
 {571}{}{No le debo nada.}
 {572}{}{Ella dijo que eres olvidadizo.}
-{573}{}{Mira, no tengo tiempo para esto. ¡Paga de una maldita vez!}
-{574}{}{Rebecca dijo que te lo prestó hace un tiempo.}
-{580}{}{¡No lo soy! Yo… espera. Me prestó dinero una vez. ¿No se lo devolví? Creía que lo había hecho…}
+{573}{}{Mira, no tengo tiempo para esto. Â¡Paga de una maldita vez!}
+{574}{}{Rebecca dijo que te lo prestÃ³ hace un tiempo.}
+{580}{}{Â¡No lo soy! Yoâ€¦ espera. Me prestÃ³ dinero una vez. Â¿No se lo devolvÃ­? CreÃ­a que lo habÃ­a hechoâ€¦}
 {581}{}{No, no lo hiciste. Por eso me ha enviado.}
-{582}{}{Tú sólo págame para que pueda irme de aquí.}
-{590}{}{No lo recuerdo... pero Becky si me ha ayudado a mí y a mis amigos en el paso.}
-{591}{}{Suelta los 200 dólares.}
+{582}{}{TÃº sÃ³lo pÃ¡game para que pueda irme de aquÃ­.}
+{590}{}{No lo recuerdo... pero Becky si me ha ayudado a mÃ­ y a mis amigos en el paso.}
+{591}{}{Suelta los 200 dÃ³lares.}
 {592}{}{Dame ya el dinero.}
-{600}{}{Déjame tranquilo.}
+{600}{}{DÃ©jame tranquilo.}
 {601}{}{Lo que sea.}
 {602}{}{Vale.}
-{610}{}{Eh. Hola de nuevo. Así que, eh, supongo que quieres el dinero. ¿Crees que podrías fiarme la mitad?}
+{610}{}{Eh. Hola de nuevo. AsÃ­ que, eh, supongo que quieres el dinero. Â¿Crees que podrÃ­as fiarme la mitad?}
 {611}{}{No, lo siento.}
-{612}{}{Si ella te prestó 200 dólares, tú se los pagas.}
+{612}{}{Si ella te prestÃ³ 200 dÃ³lares, tÃº se los pagas.}
 {613}{}{Vale, de acuerdo.}

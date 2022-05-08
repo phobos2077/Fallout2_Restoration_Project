@@ -1,6 +1,6 @@
-{100}{}{Widzisz broszurê.}
+{100}{}{Widzisz broszurÄ™.}
 {101}{}{}
-{102}{}{To jest przewodnik rozdawany na pocz¹tku zwiedzania.}
-{200}{}{Witam w AOŒ! Zwiedzaj¹c nasz¹ placówkê, proszê nie przestraszyæ siê widoku pó³przezroczystych ludzi przemierzaj¹cych korytarze. To nie duchy, tylko nasz przyjazny nowy zespó³ hologramów! Myœlcie o nich jak o programach komputerowych, obdarzonych ludzk¹ form¹ dziêki magii i cudom nauki! Chêtnie odpowiedz¹ na ka¿de pañstwa pytanie, wiêc proszê nie wahajcie siê do nich zwróciæ. Uwaga! Hologramy istniej¹ dziêki zawieszonym kryszta³om z anty-grawimetrycznymi w³aœciwoœciami. Przy próbach manipulacji, mog¹ byæ bardzo niestabilne, wiêc proszê, dla w³asnego bezpieczeñstwa, nie dotykaæ hologramów. Dziêkujê i ¿yczê mi³ego zwiedzania!}
+{102}{}{To jest przewodnik rozdawany na poczÄ…tku zwiedzania.}
+{200}{}{Witam w AOÅš! ZwiedzajÄ…c naszÄ… placÃ³wkÄ™, proszÄ™ nie przestraszyÄ‡ siÄ™ widoku pÃ³Å‚przezroczystych ludzi przemierzajÄ…cych korytarze. To nie duchy, tylko nasz przyjazny nowy zespÃ³Å‚ hologramÃ³w! MyÅ›lcie o nich jak o programach komputerowych, obdarzonych ludzkÄ… formÄ… dziÄ™ki magii i cudom nauki! ChÄ™tnie odpowiedzÄ… na kaÅ¼de paÅ„stwa pytanie, wiÄ™c proszÄ™ nie wahajcie siÄ™ do nich zwrÃ³ciÄ‡. Uwaga! Hologramy istniejÄ… dziÄ™ki zawieszonym krysztaÅ‚om z anty-grawimetrycznymi wÅ‚aÅ›ciwoÅ›ciami. Przy prÃ³bach manipulacji, mogÄ… byÄ‡ bardzo niestabilne, wiÄ™c proszÄ™, dla wÅ‚asnego bezpieczeÅ„stwa, nie dotykaÄ‡ hologramÃ³w. DziÄ™kujÄ™ i Å¼yczÄ™ miÅ‚ego zwiedzania!}
 {201}{}{Koniec.}
-{202}{}{Najpierw musisz to wyj¹æ z ekwipunku.}
+{202}{}{Najpierw musisz to wyjÄ…Ä‡ z ekwipunku.}

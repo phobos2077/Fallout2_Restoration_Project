@@ -1,123 +1,123 @@
-{100}{}{Widzisz mê¿czyznê w stalowej zbroi.}
-{101}{}{Przed tob¹ stoi Matthew.}
-{102}{}{Widzisz mê¿czyznê w stalowej zbroi z symbolem b³yskawicy.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ w stalowej zbroi.}
+{101}{}{Przed tobÄ… stoi Matthew.}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ w stalowej zbroi z symbolem bÅ‚yskawicy.}
 {103}{}{Witaj,}
-{104}{}{. Jak mogê ci pomóc?}
-{105}{}{Ty odpowiadaæ pytania?}
-{106}{}{Nic. Ja wróciæ póŸniej.}
-{107}{}{Na pocz¹tek odpowiadaj¹c na kilka pytañ.}
-{108}{}{Teraz niczego nie potrzebujê. Wrócê póŸniej.}
-{109}{}{S¹dzê, ¿e zas³ugujesz na odpowiedzi na swoje pytania.}
-{110}{}{W czym mogê ci pomóc?}
-{111}{}{Kto wy byæ?}
-{112}{}{Czemu nikt nie mówiæ o wy?}
+{104}{}{. Jak mogÄ™ ci pomÃ³c?}
+{105}{}{Ty odpowiadaÄ‡ pytania?}
+{106}{}{Nic. Ja wrÃ³ciÄ‡ pÃ³Åºniej.}
+{107}{}{Na poczÄ…tek odpowiadajÄ…c na kilka pytaÅ„.}
+{108}{}{Teraz niczego nie potrzebujÄ™. WrÃ³cÄ™ pÃ³Åºniej.}
+{109}{}{SÄ…dzÄ™, Å¼e zasÅ‚ugujesz na odpowiedzi na swoje pytania.}
+{110}{}{W czym mogÄ™ ci pomÃ³c?}
+{111}{}{Kto wy byÄ‡?}
+{112}{}{Czemu nikt nie mÃ³wiÄ‡ o wy?}
 {113}{}{Czemu tylko jeden tutaj?}
-{114}{}{Moja iœæ ju¿}
-{115}{}{Kim jesteœcie?}
-{116}{}{Dlaczego nikt wokó³ nie wspomina o was?}
-{117}{}{Dlaczego macie tu tylko jednego cz³owieka?}
-{118}{}{Muszê ju¿ iœæ.}
-{119}{}{Jesteœmy organizacj¹ paramilitarn¹, znan¹ jako Bractwo Stali.}
-{120}{}{Co robiæ bractwo?}
+{114}{}{Moja iÅ›Ä‡ juÅ¼}
+{115}{}{Kim jesteÅ›cie?}
+{116}{}{Dlaczego nikt wokÃ³Å‚ nie wspomina o was?}
+{117}{}{Dlaczego macie tu tylko jednego czÅ‚owieka?}
+{118}{}{MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{119}{}{JesteÅ›my organizacjÄ… paramilitarnÄ…, znanÄ… jako Bractwo Stali.}
+{120}{}{Co robiÄ‡ bractwo?}
 {121}{}{Rozumiem - a co takiego ciekawego robicie?}
-{122}{}{Kiedyœ byliœmy jedynym bastionem technologii, jaki pozosta³ na tej planecie. Staliœmy siê, jakby to powiedzieæ, "policj¹ technologiczn¹". Zebraliœmy star¹ technologiê i wydawaliœmy j¹ w ma³ych iloœciach. Oczywiœcie tylko tym, którzy wed³ug nas na to zas³ugiwali i mieli wystarczaj¹ca wiedzê, aby z niej skorzystaæ.}
+{122}{}{KiedyÅ› byliÅ›my jedynym bastionem technologii, jaki pozostaÅ‚ na tej planecie. StaliÅ›my siÄ™, jakby to powiedzieÄ‡, "policjÄ… technologicznÄ…". ZebraliÅ›my starÄ… technologiÄ™ i wydawaliÅ›my jÄ… w maÅ‚ych iloÅ›ciach. OczywiÅ›cie tylko tym, ktÃ³rzy wedÅ‚ug nas na to zasÅ‚ugiwali i mieli wystarczajÄ…ca wiedzÄ™, aby z niej skorzystaÄ‡.}
 {123}{}{A teraz?}
-{124}{}{Powiedzia³eœ "kiedyœ". A obecnie?}
-{125}{}{Kilka miesiêcy temu natknêliœmy siê na grupê znan¹ jako Enklawa. Ku naszemu zdziwieniu ich poziom techniki przewy¿sza³ nawet nasz. Przeszkadza³o nam to, wiêc rozwa¿aliœmy skontaktowanie siê z nimi. Jednak¿e zdecydowaliœmy siê na ostro¿niejsze kroki, dopóki nie bêdziemy zdolni ustaliæ, czym dok³adnie jest Enklawa, a tak¿e celu tej organizacji.}
-{126}{}{Do tej pory w pobli¿u miejsc aktywnoœci Enklawy utworzyliœmy ma³e posterunki, z których mo¿emy ich bezpiecznie obserwowaæ. Obecnie mamy posterunki w Norze, RNK i tu, w San Francisco.}
-{127}{}{Co wy dowiedzieæ?}
-{128}{}{Brzmi interesuj¹co. Czego siê dowiedzieliœcie?}
-{129}{}{Odkryliœmy, ¿e Enklawa na du¿¹ skalê zajmuje siê narkotykami, broni¹, niewolnikami. Jednak¿e s¹ to ma³o znacz¹ce operacje, które prowadz¹ do znacznie wa¿niejszego celu, którego niestety nie potrafiliœmy odkryæ. Wci¹¿ ich obserwujemy.}
-{130}{}{Czemu ty mówiæ to teraz?}
-{131}{}{Zanim posuniemy siê dalej, dlaczego mi to wszystko mówisz?}
-{132}{}{(Wzdycha) Enklawa wynalaz³a technologiê Lataczy, lataj¹cych maszyn, które pozwalaj¹ im zapuszczaæ siê g³êboko w okoliczne terytoria. Bez podobnej technologii, która zrównowa¿y³aby to zagro¿enie, Bractwo by³oby niezdolne do zatrzymania inwazji, gdyby Enklawa j¹ rozpoczê³a. Musimy mieæ technologiê Lataczy lub jakiœ inny œrodek zapobiegawczy.}
-{133}{}{Niedawno Enklawa utworzy³a na pó³noc st¹d bazê pod nazw¹ Navarro. U¿ywana jest ona jako baza wypadowa do napraw i tankowania lataczy. Wydaje mi siê, ¿e taka baza musi posiadaæ pe³ne plany techniczne lataczy. Potrzebujê jedynie kogoœ, kto dosta³by siê do bazy, ukrad³ plany i przyniós³ je tu z powrotem.}
-{134}{}{Yy... ja zrobiæ?}
-{135}{}{Niech zgadnê. Agent infiltruj¹cy tê bazê i ja, to jedna i ta sama osoba?}
-{136}{}{Bêdê z tob¹ szczery,}
-{137}{}{. Bractwo Stali nie jest ju¿ tak¹ potêg¹, jak¹ by³o kiedyœ. Myœleliœmy, ¿e jesteœmy jedynym Ÿród³em techniki, jakie pozosta³o dla ludzkoœci. Bezpieczni w tym twierdzeniu pozwoliliœmy w ci¹gu lat odrzuciæ wiele z naszych zasad. Teraz nie mamy do naszej dyspozycji wystarczaj¹cej iloœci zasobów, aby za³atwiæ sprawê Enklawy. Potrzebujemy twojej pomocy.}
-{138}{}{Jestem gotowy z³o¿yæ ci propozycjê. Wykonaj dla mnie tê misjê, a udostêpniê ci nasz tutejszy obiekt. Najlepsza z technologii Bractwa bêdzie sta³a otworem przed tob¹ i tylko tob¹. A wiêc?}
-{139}{}{Ja zastanowiæ siê.}
-{140}{}{Ni. Ja iœæ.}
-{141}{}{Cholera. Zgadzaæ siê.}
-{142}{}{Pomyœlê o tym.}
-{143}{}{Nigdy w ¿yciu. ZnajdŸ sobie innego naiwnego.}
-{144}{}{Do diab³a. Chyba mam nie po kolei w g³owie, ale zgadzam siê.}
-{145}{}{Rozs¹dnie. Wróæ, gdy podejmiesz decyzje.}
+{124}{}{PowiedziaÅ‚eÅ› "kiedyÅ›". A obecnie?}
+{125}{}{Kilka miesiÄ™cy temu natknÄ™liÅ›my siÄ™ na grupÄ™ znanÄ… jako Enklawa. Ku naszemu zdziwieniu ich poziom techniki przewyÅ¼szaÅ‚ nawet nasz. PrzeszkadzaÅ‚o nam to, wiÄ™c rozwaÅ¼aliÅ›my skontaktowanie siÄ™ z nimi. JednakÅ¼e zdecydowaliÅ›my siÄ™ na ostroÅ¼niejsze kroki, dopÃ³ki nie bÄ™dziemy zdolni ustaliÄ‡, czym dokÅ‚adnie jest Enklawa, a takÅ¼e celu tej organizacji.}
+{126}{}{Do tej pory w pobliÅ¼u miejsc aktywnoÅ›ci Enklawy utworzyliÅ›my maÅ‚e posterunki, z ktÃ³rych moÅ¼emy ich bezpiecznie obserwowaÄ‡. Obecnie mamy posterunki w Norze, RNK i tu, w San Francisco.}
+{127}{}{Co wy dowiedzieÄ‡?}
+{128}{}{Brzmi interesujÄ…co. Czego siÄ™ dowiedzieliÅ›cie?}
+{129}{}{OdkryliÅ›my, Å¼e Enklawa na duÅ¼Ä… skalÄ™ zajmuje siÄ™ narkotykami, broniÄ…, niewolnikami. JednakÅ¼e sÄ… to maÅ‚o znaczÄ…ce operacje, ktÃ³re prowadzÄ… do znacznie waÅ¼niejszego celu, ktÃ³rego niestety nie potrafiliÅ›my odkryÄ‡. WciÄ…Å¼ ich obserwujemy.}
+{130}{}{Czemu ty mÃ³wiÄ‡ to teraz?}
+{131}{}{Zanim posuniemy siÄ™ dalej, dlaczego mi to wszystko mÃ³wisz?}
+{132}{}{(Wzdycha) Enklawa wynalazÅ‚a technologiÄ™ Lataczy, latajÄ…cych maszyn, ktÃ³re pozwalajÄ… im zapuszczaÄ‡ siÄ™ gÅ‚Ä™boko w okoliczne terytoria. Bez podobnej technologii, ktÃ³ra zrÃ³wnowaÅ¼yÅ‚aby to zagroÅ¼enie, Bractwo byÅ‚oby niezdolne do zatrzymania inwazji, gdyby Enklawa jÄ… rozpoczÄ™Å‚a. Musimy mieÄ‡ technologiÄ™ Lataczy lub jakiÅ› inny Å›rodek zapobiegawczy.}
+{133}{}{Niedawno Enklawa utworzyÅ‚a na pÃ³Å‚noc stÄ…d bazÄ™ pod nazwÄ… Navarro. UÅ¼ywana jest ona jako baza wypadowa do napraw i tankowania lataczy. Wydaje mi siÄ™, Å¼e taka baza musi posiadaÄ‡ peÅ‚ne plany techniczne lataczy. PotrzebujÄ™ jedynie kogoÅ›, kto dostaÅ‚by siÄ™ do bazy, ukradÅ‚ plany i przyniÃ³sÅ‚ je tu z powrotem.}
+{134}{}{Yy... ja zrobiÄ‡?}
+{135}{}{Niech zgadnÄ™. Agent infiltrujÄ…cy tÄ™ bazÄ™ i ja, to jedna i ta sama osoba?}
+{136}{}{BÄ™dÄ™ z tobÄ… szczery,}
+{137}{}{. Bractwo Stali nie jest juÅ¼ takÄ… potÄ™gÄ…, jakÄ… byÅ‚o kiedyÅ›. MyÅ›leliÅ›my, Å¼e jesteÅ›my jedynym ÅºrÃ³dÅ‚em techniki, jakie pozostaÅ‚o dla ludzkoÅ›ci. Bezpieczni w tym twierdzeniu pozwoliliÅ›my w ciÄ…gu lat odrzuciÄ‡ wiele z naszych zasad. Teraz nie mamy do naszej dyspozycji wystarczajÄ…cej iloÅ›ci zasobÃ³w, aby zaÅ‚atwiÄ‡ sprawÄ™ Enklawy. Potrzebujemy twojej pomocy.}
+{138}{}{Jestem gotowy zÅ‚oÅ¼yÄ‡ ci propozycjÄ™. Wykonaj dla mnie tÄ™ misjÄ™, a udostÄ™pniÄ™ ci nasz tutejszy obiekt. Najlepsza z technologii Bractwa bÄ™dzie staÅ‚a otworem przed tobÄ… i tylko tobÄ…. A wiÄ™c?}
+{139}{}{Ja zastanowiÄ‡ siÄ™.}
+{140}{}{Ni. Ja iÅ›Ä‡.}
+{141}{}{Cholera. ZgadzaÄ‡ siÄ™.}
+{142}{}{PomyÅ›lÄ™ o tym.}
+{143}{}{Nigdy w Å¼yciu. ZnajdÅº sobie innego naiwnego.}
+{144}{}{Do diabÅ‚a. Chyba mam nie po kolei w gÅ‚owie, ale zgadzam siÄ™.}
+{145}{}{RozsÄ…dnie. WrÃ³Ä‡, gdy podejmiesz decyzje.}
 {146}{}{Dobra. Na razie.}
-{147}{}{OK, ale ja pytaæ wiêcej.}
-{148}{}{W porz¹dku. Na razie.}
-{149}{}{W porz¹dku, ale chcê ci zadaæ jeszcze kilka pytañ.}
-{150}{}{Rozumiem twoje wahanie przy przyjmowaniu takiej misji. Daj mi znaæ, gdy zmienisz zdanie.}
+{147}{}{OK, ale ja pytaÄ‡ wiÄ™cej.}
+{148}{}{W porzÄ…dku. Na razie.}
+{149}{}{W porzÄ…dku, ale chcÄ™ ci zadaÄ‡ jeszcze kilka pytaÅ„.}
+{150}{}{Rozumiem twoje wahanie przy przyjmowaniu takiej misji. Daj mi znaÄ‡, gdy zmienisz zdanie.}
 {151}{}{Dobra. Na razie.}
-{152}{}{OK, ale ja pytaæ wiêcej.}
-{153}{}{W porz¹dku. Na razie.}
-{154}{}{W porz¹dku, ale chcê ci zadaæ jeszcze kilka pytañ.}
-{155}{}{Doskonale. Oto co musisz zrobiæ. Udaj siê do Navarro, dostañ siê do bazy i wydostañ stamt¹d plany techniczne lataczy. Dostarcz te plany do mnie.}
-{156}{}{OK. Yy... Jak ty myœleæ ja to zrobiæ? To byæ baza wojskowa.}
-{157}{}{OK. Ja iœæ teraz.}
-{158}{}{W porz¹dku, ale... jak sobie wyobra¿asz dostanie siê tam? W koñcu to baza wojskowa.}
-{159}{}{W porz¹dku. Zajmê siê tym.}
-{160}{}{Po udanym zakoñczeniu twojej misji zapewniê ci dostêp do tego obiektu. Chyba najlepiej bêdzie, je¿eli zaczniesz natychmiast. Dziêkujê,}
+{152}{}{OK, ale ja pytaÄ‡ wiÄ™cej.}
+{153}{}{W porzÄ…dku. Na razie.}
+{154}{}{W porzÄ…dku, ale chcÄ™ ci zadaÄ‡ jeszcze kilka pytaÅ„.}
+{155}{}{Doskonale. Oto co musisz zrobiÄ‡. Udaj siÄ™ do Navarro, dostaÅ„ siÄ™ do bazy i wydostaÅ„ stamtÄ…d plany techniczne lataczy. Dostarcz te plany do mnie.}
+{156}{}{OK. Yy... Jak ty myÅ›leÄ‡ ja to zrobiÄ‡? To byÄ‡ baza wojskowa.}
+{157}{}{OK. Ja iÅ›Ä‡ teraz.}
+{158}{}{W porzÄ…dku, ale... jak sobie wyobraÅ¼asz dostanie siÄ™ tam? W koÅ„cu to baza wojskowa.}
+{159}{}{W porzÄ…dku. ZajmÄ™ siÄ™ tym.}
+{160}{}{Po udanym zakoÅ„czeniu twojej misji zapewniÄ™ ci dostÄ™p do tego obiektu. Chyba najlepiej bÄ™dzie, jeÅ¼eli zaczniesz natychmiast. DziÄ™kujÄ™,}
 {161}{}{.}
 {162}{}{Dobra. Na razie.}
-{163}{}{OK, ale ja pytaæ wiêcej.}
-{164}{}{W porz¹dku. Na razie.}
-{165}{}{W porz¹dku, ale chcê ci zadaæ jeszcze kilka pytañ.}
-{166}{}{Tê bazê mamy od lat. Dziêki utrzymaniu na niskim poziomie z minimaln¹ obs³ug¹ i nie zwracaniu na siebie uwagi, uda³o nam siê nie budziæ niczyjej ciekawoœci. Zostawiamy Shi w spokoju, a oni zostawiaj¹ w spokoju nas.}
-{167}{}{Rozumieæ...}
-{168}{}{Tak, chyba rozumiem co masz na myœli.}
-{169}{}{Zbyt wielu ludzi w jednym miejscu mo¿e zwróciæ uwagê. Jeden cz³owiek w zaludnionym mieœcie jest mniej zauwa¿alny.}
-{170}{}{W porz¹dku.}
-{171}{}{Witam ponownie. Czy mogê ci w czymœ pomóc?}
-{172}{}{Nie, chcê siê tylko przywitaæ.}
-{173}{}{Tak. Ty odpowiadaæ pytanie?}
-{174}{}{Nie, by³eœ po prostu po drodze.}
-{175}{}{Tak, odpowiedz na kilka pytañ.}
-{176}{}{Witam. Czy moja oferta zosta³a rozwa¿ona?}
-{177}{}{Nie. Ja nie myœleæ jeszcze.}
-{178}{}{Tak. Ja wzi¹æ robota.}
+{163}{}{OK, ale ja pytaÄ‡ wiÄ™cej.}
+{164}{}{W porzÄ…dku. Na razie.}
+{165}{}{W porzÄ…dku, ale chcÄ™ ci zadaÄ‡ jeszcze kilka pytaÅ„.}
+{166}{}{TÄ™ bazÄ™ mamy od lat. DziÄ™ki utrzymaniu na niskim poziomie z minimalnÄ… obsÅ‚ugÄ… i nie zwracaniu na siebie uwagi, udaÅ‚o nam siÄ™ nie budziÄ‡ niczyjej ciekawoÅ›ci. Zostawiamy Shi w spokoju, a oni zostawiajÄ… w spokoju nas.}
+{167}{}{RozumieÄ‡...}
+{168}{}{Tak, chyba rozumiem co masz na myÅ›li.}
+{169}{}{Zbyt wielu ludzi w jednym miejscu moÅ¼e zwrÃ³ciÄ‡ uwagÄ™. Jeden czÅ‚owiek w zaludnionym mieÅ›cie jest mniej zauwaÅ¼alny.}
+{170}{}{W porzÄ…dku.}
+{171}{}{Witam ponownie. Czy mogÄ™ ci w czymÅ› pomÃ³c?}
+{172}{}{Nie, chcÄ™ siÄ™ tylko przywitaÄ‡.}
+{173}{}{Tak. Ty odpowiadaÄ‡ pytanie?}
+{174}{}{Nie, byÅ‚eÅ› po prostu po drodze.}
+{175}{}{Tak, odpowiedz na kilka pytaÅ„.}
+{176}{}{Witam. Czy moja oferta zostaÅ‚a rozwaÅ¼ona?}
+{177}{}{Nie. Ja nie myÅ›leÄ‡ jeszcze.}
+{178}{}{Tak. Ja wziÄ…Ä‡ robota.}
 {179}{}{Nie, jeszcze nie.}
-{180}{}{Tak, chyba podejmê siê tego wyzwania.}
+{180}{}{Tak, chyba podejmÄ™ siÄ™ tego wyzwania.}
 {181}{}{Witam. Czy zmienisz zdanie co do mojej oferty?}
 {182}{}{Nie.}
-{183}{}{Tak. Ja braæ.}
+{183}{}{Tak. Ja braÄ‡.}
 {184}{}{Nie, nie mam.}
-{185}{}{Tak, podejmê siê tego wyzwania.}
-{186}{}{Czy misja zakoñczy³a siê sukcesem?}
-{187}{}{Nie, ja pracowaæ dalej tam.}
-{188}{}{Zdobyæ plany.}
-{189}{}{Nie, wci¹¿ nad tym pracujê.}
+{185}{}{Tak, podejmÄ™ siÄ™ tego wyzwania.}
+{186}{}{Czy misja zakoÅ„czyÅ‚a siÄ™ sukcesem?}
+{187}{}{Nie, ja pracowaÄ‡ dalej tam.}
+{188}{}{ZdobyÄ‡ plany.}
+{189}{}{Nie, wciÄ…Å¼ nad tym pracujÄ™.}
 {190}{}{Mam dla ciebie plany lataczy.}
-{191}{}{Có¿, pracuj nad tym dalej. Wiem, ¿e to trudna misja, ale myœlê, ¿e sobie poradzisz.}
-{192}{}{W porz¹dku.}
-{193}{}{Doskona³a robota! Poproszê plany, zrobiê dla ciebie kopiê. Jak obieca³em, masz pe³ny dostêp do naszych obiektów. Dziêkujê.}
+{191}{}{CÃ³Å¼, pracuj nad tym dalej. Wiem, Å¼e to trudna misja, ale myÅ›lÄ™, Å¼e sobie poradzisz.}
+{192}{}{W porzÄ…dku.}
+{193}{}{DoskonaÅ‚a robota! PoproszÄ™ plany, zrobiÄ™ dla ciebie kopiÄ™. Jak obiecaÅ‚em, masz peÅ‚ny dostÄ™p do naszych obiektÃ³w. DziÄ™kujÄ™.}
 {194}{}{Niezamaco.}
-{195}{}{Ca³a przyjemnoœæ po mojej stronie.}
-{196}{}{Navarro jest stosunkowo nowa i wci¹¿ nie w pe³ni obsadzona. Moje Ÿród³a donosz¹, ¿e od czasu do czasu przybywaj¹ tam nowi rekruci. Spróbuj mo¿e podszyæ siê pod nowego ¿o³nierza. Doradza³bym to.}
-{197}{}{Navarro jest stosunkowo nowa i wci¹¿ nie w pe³ni obsadzona. Moje Ÿród³a donosz¹, ¿e od czasu do czasu przybywaj¹ tam nowi rekruci. Spróbuj mo¿e w pojedynkê podszyæ siê pod nowego ¿o³nierza. Doradza³bym to. Mo¿esz tu zostawiæ swoich przyjació³.}
-{198}{}{W porz¹dku.}
-{199}{}{Mówiæ "Ÿród³a". Jakie byæ?}
+{195}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie.}
+{196}{}{Navarro jest stosunkowo nowa i wciÄ…Å¼ nie w peÅ‚ni obsadzona. Moje ÅºrÃ³dÅ‚a donoszÄ…, Å¼e od czasu do czasu przybywajÄ… tam nowi rekruci. SprÃ³buj moÅ¼e podszyÄ‡ siÄ™ pod nowego Å¼oÅ‚nierza. DoradzaÅ‚bym to.}
+{197}{}{Navarro jest stosunkowo nowa i wciÄ…Å¼ nie w peÅ‚ni obsadzona. Moje ÅºrÃ³dÅ‚a donoszÄ…, Å¼e od czasu do czasu przybywajÄ… tam nowi rekruci. SprÃ³buj moÅ¼e w pojedynkÄ™ podszyÄ‡ siÄ™ pod nowego Å¼oÅ‚nierza. DoradzaÅ‚bym to. MoÅ¼esz tu zostawiÄ‡ swoich przyjaciÃ³Å‚.}
+{198}{}{W porzÄ…dku.}
+{199}{}{MÃ³wiÄ‡ "ÅºrÃ³dÅ‚a". Jakie byÄ‡?}
 {200}{}{Dobrze.}
-{201}{}{Wspomnia³eœ o swoich "Ÿród³ach". Kto to jest?}
-{202}{}{Wys³a³em tam agentkê, aby zrobi³a rozpoznanie bazy. Jej raporty zosta³y nagle przerwane. Obawiam siê najgorszego. Dzia³aj z rozwag¹,}
-{203}{}{. Nie przepadam za wysy³aniem ludzi na œmieræ.}
-{204}{}{Ja byæ ostro¿ne, dziêki.}
-{205}{}{Bêdê uwa¿aæ. Dziêkujê.}
-{206}{}{Jeszcze raz dziêkujê za pomoc. Masz teraz pe³ny dostêp do naszych obiektów.}
-{207}{}{Do pomieszczenie zamkniête.}
+{201}{}{WspomniaÅ‚eÅ› o swoich "ÅºrÃ³dÅ‚ach". Kto to jest?}
+{202}{}{WysÅ‚aÅ‚em tam agentkÄ™, aby zrobiÅ‚a rozpoznanie bazy. Jej raporty zostaÅ‚y nagle przerwane. Obawiam siÄ™ najgorszego. DziaÅ‚aj z rozwagÄ…,}
+{203}{}{. Nie przepadam za wysyÅ‚aniem ludzi na Å›mierÄ‡.}
+{204}{}{Ja byÄ‡ ostroÅ¼ne, dziÄ™ki.}
+{205}{}{BÄ™dÄ™ uwaÅ¼aÄ‡. DziÄ™kujÄ™.}
+{206}{}{Jeszcze raz dziÄ™kujÄ™ za pomoc. Masz teraz peÅ‚ny dostÄ™p do naszych obiektÃ³w.}
+{207}{}{Do pomieszczenie zamkniÄ™te.}
 {208}{}{Nic tam po tobie.}
-{209}{}{To teren prywatny. Lepiej st¹d idŸ.}
-{210}{}{Sk¹d wiesz kim jestem?}
-{211}{}{Jak znaæ moja?}
+{209}{}{To teren prywatny. Lepiej stÄ…d idÅº.}
+{210}{}{SkÄ…d wiesz kim jestem?}
+{211}{}{Jak znaÄ‡ moja?}
 {212}{}{Wiemy o wielu rzeczach.}
-{213}{}{Po udanym zakoñczeniu misji przygotujê dla ciebie tankowiec i udostêpniê ci nasze obiekty. Teraz idŸ j¹ wykonaæ. Dziêkujê.}
+{213}{}{Po udanym zakoÅ„czeniu misji przygotujÄ™ dla ciebie tankowiec i udostÄ™pniÄ™ ci nasze obiekty. Teraz idÅº jÄ… wykonaÄ‡. DziÄ™kujÄ™.}
 {214}{}{Nie za ma co.}
-{215}{}{Doskona³a robota! Poproszê plany, zrobiê dla ciebie kopiê. Jak obieca³em, dopilnujê, aby tankowiec by³ gotowy do wyruszenia na platformê wiertnicz¹ - po prostu dostañ siê do komputera na górnym pok³adzie i naciœnij przycisk start. Masz równie¿ pe³ny dostêp do naszych obiektów. Dziêkujê.}
+{215}{}{DoskonaÅ‚a robota! PoproszÄ™ plany, zrobiÄ™ dla ciebie kopiÄ™. Jak obiecaÅ‚em, dopilnujÄ™, aby tankowiec byÅ‚ gotowy do wyruszenia na platformÄ™ wiertniczÄ… - po prostu dostaÅ„ siÄ™ do komputera na gÃ³rnym pokÅ‚adzie i naciÅ›nij przycisk start. Masz rÃ³wnieÅ¼ peÅ‚ny dostÄ™p do naszych obiektÃ³w. DziÄ™kujÄ™.}
 {216}{}{Nie ma za co!}
-{217}{}{Po prostu przejdŸ przez tamte drzwi lub udaj siê do tankowca. Jest gotów do drogi. Powodzenia!}
-{218}{}{Jestem gotów z³o¿yæ ci propozycjê. Wykonaj dla mnie tê misjê, a przygotujê tankowiec do podró¿y do Enklawy. A wiêc?}
-{219}{}{Ja zastanowiæ siê.}
-{220}{}{Ni. Ja iœæ.}
-{221}{}{Cholera. Zgadzaæ siê.}
-{222}{}{OK. Iœæ teraz.}
+{217}{}{Po prostu przejdÅº przez tamte drzwi lub udaj siÄ™ do tankowca. Jest gotÃ³w do drogi. Powodzenia!}
+{218}{}{Jestem gotÃ³w zÅ‚oÅ¼yÄ‡ ci propozycjÄ™. Wykonaj dla mnie tÄ™ misjÄ™, a przygotujÄ™ tankowiec do podrÃ³Å¼y do Enklawy. A wiÄ™c?}
+{219}{}{Ja zastanowiÄ‡ siÄ™.}
+{220}{}{Ni. Ja iÅ›Ä‡.}
+{221}{}{Cholera. ZgadzaÄ‡ siÄ™.}
+{222}{}{OK. IÅ›Ä‡ teraz.}

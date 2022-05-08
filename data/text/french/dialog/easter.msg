@@ -1,3 +1,3 @@
-{100}{}{Tu as découvert un important rassemblement de personnes. Quelque chose de spécial semble flotter autour d'eux.}
-{200}{}{Oh, non ! Encore une référence à la culture populaire pleine de lieux communs !}
-{5000}{}{Le combat n'est pas autorisé ici.}
+{100}{}{Tu as dÃ©couvert un important rassemblement de personnes. Quelque chose de spÃ©cial semble flotter autour d'eux.}
+{200}{}{Oh, non ! Encore une rÃ©fÃ©rence Ã  la culture populaire pleine de lieux communs !}
+{5000}{}{Le combat n'est pas autorisÃ© ici.}

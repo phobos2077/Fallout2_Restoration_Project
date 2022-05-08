@@ -100,7 +100,7 @@
 {199}{}{Preferisco definirla "accogliente", con un sistema di ventilazione stagionale. Ed e' pure piuttosto cara.}
 {200}{}{Lo credo. Quante rate d'affitto arretrato le deve?}
 {201}{}{Hmm, sara' meglio che io vada, Sindaco. Arrivederci.}
-{202}{}{Vediamo un po'… la signora Rooney mi deve… si', ecco qua, 120$. Esatto. 120$.}
+{202}{}{Vediamo un po'â€¦ la signora Rooney mi deveâ€¦ si', ecco qua, 120$. Esatto. 120$.}
 {203}{}{Cosi' poco? Ho quella somma proprio qui con me.}
 {204}{}{Non e' poi molto. Lasci che le chieda qualcos'altro.}
 {205}{}{Vedro' cosa posso fare per convincerla a pagare. Arrivederci.}

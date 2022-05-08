@@ -1,2 +1,2 @@
-{101}{}{A sírk?re ezt a nevet vésték: "Anna Winslow."}
-{200}{}{Elhelyezted Anna csontjait a sírba.}
+{101}{}{A sÃ­rk?re ezt a nevet vÃ©stÃ©k: "Anna Winslow."}
+{200}{}{Elhelyezted Anna csontjait a sÃ­rba.}

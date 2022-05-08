@@ -1,17 +1,17 @@
 {100}{}{Ves a un Ciudadano de Ciudad Refugio.}
 {101}{}{Hola, Ciudadano.}
-{102}{}{Hoy tenemos un día precioso, ¿verdad?}
-{103}{}{La reunión del consejo de ayer fue muy productiva. Hicimos montones
+{102}{}{Hoy tenemos un dÃ­a precioso, Â¿verdad?}
+{103}{}{La reuniÃ³n del consejo de ayer fue muy productiva. Hicimos montones
  de listas. *Montones* de listas.}
 {104}{}{No puedo esperar a volver a estar tras los muros.}
 {105}{}{Que te vaya bien, Ciudadano.}
 {106}{}{Perdona.}
-{107}{}{Estás en mi camino.}
-{108}{}{¿Por qué no vuelves al exterior, con los otros?}
-{109}{}{¿Puedes mantener las distancias, por favor?}
-{110}{}{Tan solo quédate por allí.}
-{111}{}{Deberías seguir caminando.}
-{112}{}{Vete de aquí.}
-{113}{}{Ten cuidado o avisaré a los guardias.}
+{107}{}{EstÃ¡s en mi camino.}
+{108}{}{Â¿Por quÃ© no vuelves al exterior, con los otros?}
+{109}{}{Â¿Puedes mantener las distancias, por favor?}
+{110}{}{Tan solo quÃ©date por allÃ­.}
+{111}{}{DeberÃ­as seguir caminando.}
+{112}{}{Vete de aquÃ­.}
+{113}{}{Ten cuidado o avisarÃ© a los guardias.}
 {114}{}{Te estoy vigilando.}
-{115}{}{Cosas de errantes como tú...}
+{115}{}{Cosas de errantes como tÃº...}

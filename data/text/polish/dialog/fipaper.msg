@@ -1,1 +1,1 @@
-{100}{}{Po z³o¿eniu kawa³ki tworz¹ listê hase³.}
+{100}{}{Po zÅ‚oÅ¼eniu kawaÅ‚ki tworzÄ… listÄ™ haseÅ‚.}

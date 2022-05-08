@@ -1,12 +1,12 @@
 {1}{}{Has ganado %d %s.}
 {2}{}{Has perdido %d %s.}
 {3}{}{Te sientes mejor.}
-{4}{}{Has sufrido un ataque cardÌaco fatal debido a una sobredosis.}
+{4}{}{Has sufrido un ataque card√≠aco fatal debido a una sobredosis.}
 {5}{}{%s no tiene cargas.}
-{6}{}{%s est· encendido.}
-{7}{}{%s est· apagado.}
+{6}{}{%s est√° encendido.}
+{7}{}{%s est√° apagado.}
 {8}{}{Pasas el contador Geiger sobre tu cuerpo. El medidor indica: %d}
-{9}{}{Este objeto sÛlo puede usarse desde la barra de la interfaz.}
+{9}{}{Este objeto s√≥lo puede usarse desde la barra de la interfaz.}
 {10}{}{No ocurre nada.}
 {50}{}{Eso parece que no ha hecho nada.}
 {500}{}{No hay suficiente luz para recargar este objeto.}

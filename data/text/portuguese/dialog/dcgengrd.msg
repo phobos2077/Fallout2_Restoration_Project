@@ -1,12 +1,12 @@
-{100}{}{Você vê um rufião intimidante.}
-{101}{}{Você vê um guarda do Den.}
-{102}{}{Não agora; eu estou de plantão.}
-{103}{}{Eu não posso falar para você.}
-{104}{}{Por favor, vá embora.}
-{105}{}{Não me incomoda.}
+{100}{}{VocÃª vÃª um rufiÃ£o intimidante.}
+{101}{}{VocÃª vÃª um guarda do Den.}
+{102}{}{NÃ£o agora; eu estou de plantÃ£o.}
+{103}{}{Eu nÃ£o posso falar para vocÃª.}
+{104}{}{Por favor, vÃ¡ embora.}
+{105}{}{NÃ£o me incomoda.}
 {106}{}{Por favor, veja o meu chefe.}
-{107}{}{Eu não estou autorizado a responder suas perguntas.}
-{108}{}{Você deve deixar de me incomodar.}
+{107}{}{Eu nÃ£o estou autorizado a responder suas perguntas.}
+{108}{}{VocÃª deve deixar de me incomodar.}
 {109}{}{Eu apenas trabalho aqui.}
-{110}{}{Eu não sei nada.}
+{110}{}{Eu nÃ£o sei nada.}
 {111}{}{Falo somente com o meu chefe.}

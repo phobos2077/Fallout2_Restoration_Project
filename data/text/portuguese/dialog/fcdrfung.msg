@@ -1,126 +1,126 @@
-{100}{}{Você vê um velho idoso com uma blusa branca.}
-{101}{}{Este é o Dr. Fung.}
-{102}{}{Você vê um velho idoso com uma blusa branca.}
-{103}{}{Ajudá-lo em alguma coisa?}
+{100}{}{VocÃª vÃª um velho idoso com uma blusa branca.}
+{101}{}{Este Ã© o Dr. Fung.}
+{102}{}{VocÃª vÃª um velho idoso com uma blusa branca.}
+{103}{}{AjudÃ¡-lo em alguma coisa?}
 {104}{}{Owie! Ouch! Owwwwwww!}
-{105}{}{Sim - eu estou machucado e parece que você é um médico.}
-{106}{}{Sim. Eu preciso de um médico, meu amigo.}
-{107}{}{Você tem alguma injeção de esteróides? Eu gostaria de comprar alguns.}
-{108}{}{Quem é você?}
-{109}{}{Eu tenho um amigo que está faltando um baço. Você pode ajudá-lo?}
-{110}{}{O que você pode me dizer sobre este lugar?}
+{105}{}{Sim - eu estou machucado e parece que vocÃª Ã© um mÃ©dico.}
+{106}{}{Sim. Eu preciso de um mÃ©dico, meu amigo.}
+{107}{}{VocÃª tem alguma injeÃ§Ã£o de esterÃ³ides? Eu gostaria de comprar alguns.}
+{108}{}{Quem Ã© vocÃª?}
+{109}{}{Eu tenho um amigo que estÃ¡ faltando um baÃ§o. VocÃª pode ajudÃ¡-lo?}
+{110}{}{O que vocÃª pode me dizer sobre este lugar?}
 {111}{}{Adeus.}
-{112}{}{Deixe-me dar uma olhada nisso. Hmm. Sim. Eu vou ter que cobrar de você, é claro.}
+{112}{}{Deixe-me dar uma olhada nisso. Hmm. Sim. Eu vou ter que cobrar de vocÃª, Ã© claro.}
 {113}{}{Quanto?}
-{114}{}{Esqueça.}
-{115}{}{Eu posso curar ... mas por um preço, você entende.}
+{114}{}{EsqueÃ§a.}
+{115}{}{Eu posso curar ... mas por um preÃ§o, vocÃª entende.}
 {116}{}{Quanto?}
-{117}{}{Esqueça.}
+{117}{}{EsqueÃ§a.}
 {118}{}{Quem sou eu? Eu sou o Dr. Fung. Eu ensino e eu curo.}
-{119}{}{Dr. Fung? Você conhece Doc Holliday?}
-{120}{}{Prazer em conhecê-lo. Eu preciso de cura.}
+{119}{}{Dr. Fung? VocÃª conhece Doc Holliday?}
+{120}{}{Prazer em conhecÃª-lo. Eu preciso de cura.}
 {121}{}{Um amigo meu precisa ser curado.}
 {122}{}{Eu vejo. Obrigado. Tchau.}
-{123}{}{Holliday? Sim! Eu ensinei tudo o que ele conhece! Onde ele está agora?}
+{123}{}{Holliday? Sim! Eu ensinei tudo o que ele conhece! Onde ele estÃ¡ agora?}
 {124}{}{Ele vive em Broken Hills.}
-{125}{}{Ele foi para casa, ele mesmo? Espero que tenha encontrado paz lá.}
+{125}{}{Ele foi para casa, ele mesmo? Espero que tenha encontrado paz lÃ¡.}
 {126}{}{Eu acho que ele tem. Eu tenho mais perguntas.}
 {127}{}{Provavelmente. Eu tenho que ir. Tchau.}
-{128}{}{Isso custará $100.}
+{128}{}{Isso custarÃ¡ $100.}
 {129}{}{Eu vou pagar.}
-{130}{}{Esqueça.}
-{131}{}{Isso parece ser grave. Isso custará $200.}
+{130}{}{EsqueÃ§a.}
+{131}{}{Isso parece ser grave. Isso custarÃ¡ $200.}
 {132}{}{Eu vou pagar.}
-{133}{}{Esqueça.}
-{134}{}{São feridas impressionantes. $300 é todo o necessário para obter meus serviços.}
+{133}{}{EsqueÃ§a.}
+{134}{}{SÃ£o feridas impressionantes. $300 Ã© todo o necessÃ¡rio para obter meus serviÃ§os.}
 {135}{}{Eu vou pagar.}
-{136}{}{Esqueça.}
+{136}{}{EsqueÃ§a.}
 {137}{}{Por tanto dano, tenho medo de ter que pedir $400.}
 {138}{}{Eu vou pagar.}
-{139}{}{Esqueça.}
-{140}{}{Sentar-se. Você precisará quando você ouvir minha conta. Os membros incapacitados custam $600.}
+{139}{}{EsqueÃ§a.}
+{140}{}{Sentar-se. VocÃª precisarÃ¡ quando vocÃª ouvir minha conta. Os membros incapacitados custam $600.}
 {141}{}{Eu vou pagar.}
-{142}{}{Esqueça.}
-{158}{}{O que? Você não tem o dinheiro? Como você espera que eu sobreviva se você me pedir cura gratuita?}
-{159}{}{Você tem stimpacks?}
-{160}{}{Não, obrigado.}
-{161}{}{Foi um prazer fazer negócios com você.}
+{142}{}{EsqueÃ§a.}
+{158}{}{O que? VocÃª nÃ£o tem o dinheiro? Como vocÃª espera que eu sobreviva se vocÃª me pedir cura gratuita?}
+{159}{}{VocÃª tem stimpacks?}
+{160}{}{NÃ£o, obrigado.}
+{161}{}{Foi um prazer fazer negÃ³cios com vocÃª.}
 {162}{}{Obrigado.}
-{163}{}{Sua oferta, infelizmente, não é aceitável.}
+{163}{}{Sua oferta, infelizmente, nÃ£o Ã© aceitÃ¡vel.}
 {164}{}{Que tal agora?}
-{165}{}{É tudo o que quero oferecer. Até mais.}
-{166}{}{Você está machucado? Tsk, tsk. Um remédio antigo irá curar isso.}
+{165}{}{Ã‰ tudo o que quero oferecer. AtÃ© mais.}
+{166}{}{VocÃª estÃ¡ machucado? Tsk, tsk. Um remÃ©dio antigo irÃ¡ curar isso.}
 {167}{}{O-kay!}
 {168}{}{}
-{169}{}{Foram realizadas. Agora, vá e tenha cuidado!}
+{169}{}{Foram realizadas. Agora, vÃ¡ e tenha cuidado!}
 {170}{}{Obrigado!}
-{171}{}{Você precisa de mais?}
+{171}{}{VocÃª precisa de mais?}
 {172}{}{Eu preciso de cura.}
 {173}{}{Eu tenho um amigo que precisa de cura.}
-{174}{}{Quem é você?}
+{174}{}{Quem Ã© vocÃª?}
 {175}{}{Conte-me sobre este lugar.}
-{176}{}{Eu tenho um amigo que está faltando um baço. Você pode ajudá-lo?}
-{177}{}{Não. Obrigado, no entanto.}
-{178}{}{Você veio à pessoa certa. Você gostaria de história longa ou curta?}
+{176}{}{Eu tenho um amigo que estÃ¡ faltando um baÃ§o. VocÃª pode ajudÃ¡-lo?}
+{177}{}{NÃ£o. Obrigado, no entanto.}
+{178}{}{VocÃª veio Ã  pessoa certa. VocÃª gostaria de histÃ³ria longa ou curta?}
 {179}{}{Longa.}
 {180}{}{Curta.}
-{181}{}{Nenhuma. Tenho outras dúvidas, no entanto.}
-{182}{}{Nosso povo pousou aqui no submarino Shih-huang-ti, quando os mísseis explodiram pelo mundo. Com a ajuda de um culto, nós, o Shi, reconstruímos em São Francisco. Essa é a versão curta.}
-{183}{}{Como sobre a versão longa?}
+{181}{}{Nenhuma. Tenho outras dÃºvidas, no entanto.}
+{182}{}{Nosso povo pousou aqui no submarino Shih-huang-ti, quando os mÃ­sseis explodiram pelo mundo. Com a ajuda de um culto, nÃ³s, o Shi, reconstruÃ­mos em SÃ£o Francisco. Essa Ã© a versÃ£o curta.}
+{183}{}{Como sobre a versÃ£o longa?}
 {184}{}{Obrigado. Eu tenho mais perguntas.}
 {185}{}{Obrigado.}
-{186}{}{A versão longa é esta: estamos aqui porque nosso povo é descendente da tripulação de um submarino nuclear, chamado Shih-huang-ti. Quando os mísseis caíram no Grande Dilúvio, os sistemas a bordo do submarino falharam e dormimos no escuro por muitos dias.}
+{186}{}{A versÃ£o longa Ã© esta: estamos aqui porque nosso povo Ã© descendente da tripulaÃ§Ã£o de um submarino nuclear, chamado Shih-huang-ti. Quando os mÃ­sseis caÃ­ram no Grande DilÃºvio, os sistemas a bordo do submarino falharam e dormimos no escuro por muitos dias.}
 {187}{}{-mais-}
-{188}{}{Finalmente, nós chegamos a terra. Encontramo-nos perto das ruínas de San Francisco. A maior parte da cidade ficou devastada na guerra. Tivemos que recriar a sociedade com base nos poucos sobreviventes que se voltaram para a cidade.}
+{188}{}{Finalmente, nÃ³s chegamos a terra. Encontramo-nos perto das ruÃ­nas de San Francisco. A maior parte da cidade ficou devastada na guerra. Tivemos que recriar a sociedade com base nos poucos sobreviventes que se voltaram para a cidade.}
 {189}{}{-mais-}
-{190}{}{Reconstruímos com o que pudemos encontrar, e temos cientistas e tecnologia que o mundo deve invejar. Estamos reconstruindo a civilização, mas não como esse horrível criador Mestre fez.}
+{190}{}{ReconstruÃ­mos com o que pudemos encontrar, e temos cientistas e tecnologia que o mundo deve invejar. Estamos reconstruindo a civilizaÃ§Ã£o, mas nÃ£o como esse horrÃ­vel criador Mestre fez.}
 {191}{}{Eu vejo. Eu tenho mais perguntas.}
 {192}{}{Obrigado. Tchau.}
-{193}{}{Claro que eu posso. E desde que você está ciente de Doc Holliday ... Eu não cobrarei isso por causa da amizade. Diga ao seu amigo sem baço para vir aqui e eu vou substituí-lo por ele.}
+{193}{}{Claro que eu posso. E desde que vocÃª estÃ¡ ciente de Doc Holliday ... Eu nÃ£o cobrarei isso por causa da amizade. Diga ao seu amigo sem baÃ§o para vir aqui e eu vou substituÃ­-lo por ele.}
 {194}{}{Obrigado! Eu tenho mais perguntas.}
 {195}{}{Obrigado!}
-{196}{}{Sim. Eu posso fazer isso. Vai custar-lhe $1000 dólares para fazê-lo. Adiantado. Você aceita?}
+{196}{}{Sim. Eu posso fazer isso. Vai custar-lhe $1000 dÃ³lares para fazÃª-lo. Adiantado. VocÃª aceita?}
 {197}{}{Sim.}
-{198}{}{Não.}
-{199}{}{Diga ao seu amigo para vir aqui e eu vou substituí-lo por ele.}
+{198}{}{NÃ£o.}
+{199}{}{Diga ao seu amigo para vir aqui e eu vou substituÃ­-lo por ele.}
 {200}{}{Obrigado. Eu tenho mais perguntas.}
 {201}{}{Obrigado.}
-{202}{}{Não posso fazer nada por ele, até que você tenha os $1000. Bom dia.}
+{202}{}{NÃ£o posso fazer nada por ele, atÃ© que vocÃª tenha os $1000. Bom dia.}
 {203}{}{Bom dia.}
-{204}{}{Não tratarei os inimigos do meu povo. Minhas humildes desculpas.}
-{205}{}{Honrado senhor, eu recomendo que você procure os médicos do seu culto.}
-{206}{}{O que você pode me dizer sobre a armadura de implantes?}
-{207}{}{Eu ajudei a escrever o artigo sobre a armadura de implantes. Tudo o que é preciso é a minha experiência e de seus materiais. Que tipos de implantes que você deseja?}
+{204}{}{NÃ£o tratarei os inimigos do meu povo. Minhas humildes desculpas.}
+{205}{}{Honrado senhor, eu recomendo que vocÃª procure os mÃ©dicos do seu culto.}
+{206}{}{O que vocÃª pode me dizer sobre a armadura de implantes?}
+{207}{}{Eu ajudei a escrever o artigo sobre a armadura de implantes. Tudo o que Ã© preciso Ã© a minha experiÃªncia e de seus materiais. Que tipos de implantes que vocÃª deseja?}
 {208}{}{Que tipos existem?}
-{209}{}{Os implantes dérmicos.}
-{210}{}{A atualização dérmica.}
+{209}{}{Os implantes dÃ©rmicos.}
+{210}{}{A atualizaÃ§Ã£o dÃ©rmica.}
 {211}{}{Phoenix implantes.}
-{212}{}{A atualização Phoenix.}
-{213}{}{Umm... esqueça. Tenho outras perguntas.}
+{212}{}{A atualizaÃ§Ã£o Phoenix.}
+{213}{}{Umm... esqueÃ§a. Tenho outras perguntas.}
 {214}{}{Nenhum, na verdade. Tchau.}
-{215}{}{Temos implantes dérmicos, que protegem contra danos concêntricos. Se você gosta desse trabalho, podemos adicionar um único aprimoramento a ele. Nós também temos implantes de Phoenix, que protegem contra ataques à base de calor, e que também possuem uma atualização disponível. Se você estiver interessado nas atualizações, você terá, naturalmente, que esperar até que o conjunto inicial tenha sido instalado. E antes de perguntar, sim, você pode ter as quatro operações.}
-{216}{}{Grande. Eu vou levar os implantes dérmicos.}
-{217}{}{Eu quero os implantes dérmicos.}
-{218}{}{Me dê a atualização dérmica.}
+{215}{}{Temos implantes dÃ©rmicos, que protegem contra danos concÃªntricos. Se vocÃª gosta desse trabalho, podemos adicionar um Ãºnico aprimoramento a ele. NÃ³s tambÃ©m temos implantes de Phoenix, que protegem contra ataques Ã  base de calor, e que tambÃ©m possuem uma atualizaÃ§Ã£o disponÃ­vel. Se vocÃª estiver interessado nas atualizaÃ§Ãµes, vocÃª terÃ¡, naturalmente, que esperar atÃ© que o conjunto inicial tenha sido instalado. E antes de perguntar, sim, vocÃª pode ter as quatro operaÃ§Ãµes.}
+{216}{}{Grande. Eu vou levar os implantes dÃ©rmicos.}
+{217}{}{Eu quero os implantes dÃ©rmicos.}
+{218}{}{Me dÃª a atualizaÃ§Ã£o dÃ©rmica.}
 {219}{}{Eu gostaria de Phoenix implantes.}
-{220}{}{Tempo para a atualização Phoenix.}
-{221}{}{Umm... esqueça. Tenho outras perguntas.}
+{220}{}{Tempo para a atualizaÃ§Ã£o Phoenix.}
+{221}{}{Umm... esqueÃ§a. Tenho outras perguntas.}
 {222}{}{Nenhum, na verdade. Tchau.}
-{223}{}{Excelente. Eu vou precisar de um conjunto de armadura de combate e, oh, $5500. Você vai precisar de dois dias e a capacidade de não pegar no crostas.}
-{224}{}{Vamos lá.}
-{225}{}{Esqueça. Até mais.}
-{226}{}{A atualização dérmica, hein? Isso vai custar-lhe vários dias de sua vida, $ 33000, armadura de combate e um novo conjunto de cicatrizes que você nunca perderá enquanto viver.}
-{227}{}{Então? Posso pagar TUDO isso.}
-{228}{}{Hmm. Eu não acho que eu quero pagar tanto. Até mais.}
-{229}{}{Se você não se importa de sair com $ 8500, alguns dias e um conjunto de armadura de combate, podemos começar a operação agora.}
+{223}{}{Excelente. Eu vou precisar de um conjunto de armadura de combate e, oh, $5500. VocÃª vai precisar de dois dias e a capacidade de nÃ£o pegar no crostas.}
+{224}{}{Vamos lÃ¡.}
+{225}{}{EsqueÃ§a. AtÃ© mais.}
+{226}{}{A atualizaÃ§Ã£o dÃ©rmica, hein? Isso vai custar-lhe vÃ¡rios dias de sua vida, $ 33000, armadura de combate e um novo conjunto de cicatrizes que vocÃª nunca perderÃ¡ enquanto viver.}
+{227}{}{EntÃ£o? Posso pagar TUDO isso.}
+{228}{}{Hmm. Eu nÃ£o acho que eu quero pagar tanto. AtÃ© mais.}
+{229}{}{Se vocÃª nÃ£o se importa de sair com $ 8500, alguns dias e um conjunto de armadura de combate, podemos comeÃ§ar a operaÃ§Ã£o agora.}
 {230}{}{Me amarre, doc. Estou pronto para ir.}
-{231}{}{Isso é um pouco íngreme. Deixe-me voltar para você.}
-{232}{}{Esta é uma operação importante. Vai custar-lhe o seu "bom visual", um conjunto de armadura de combate e $ 49000. Você está disposto a investir nisso?}
+{231}{}{Isso Ã© um pouco Ã­ngreme. Deixe-me voltar para vocÃª.}
+{232}{}{Esta Ã© uma operaÃ§Ã£o importante. Vai custar-lhe o seu "bom visual", um conjunto de armadura de combate e $ 49000. VocÃª estÃ¡ disposto a investir nisso?}
 {233}{}{Inferno, sim. Vamos fazer isso.}
-{234}{}{Wow. Isso é... caro. Eu vou voltar para você.}
-{235}{}{:: ele balança a cabeça :: Não brinque comigo. Você está sem os ingredientes necessários. Ouça mais atentamente para mim na próxima vez. Agora vá e volte quando posso ajudá-lo.}
+{234}{}{Wow. Isso Ã©... caro. Eu vou voltar para vocÃª.}
+{235}{}{:: ele balanÃ§a a cabeÃ§a :: NÃ£o brinque comigo. VocÃª estÃ¡ sem os ingredientes necessÃ¡rios. OuÃ§a mais atentamente para mim na prÃ³xima vez. Agora vÃ¡ e volte quando posso ajudÃ¡-lo.}
 {236}{}{Tudo bem.}
-{237}{}{Ai está! Você está ... aprimorado. Lembre-se ... não pegue as crostas, a menos que você queira uma cicatriz horrível para adicionar a sua aparência, de repente, não totalmente agradável.}
-{238}{}{Obrigado, doc. Até mais.}
-{239}{}{Eu tenho o dinheiro para o baço.}
-{240}{}{Você está interessado novamente em implantes?}
+{237}{}{Ai estÃ¡! VocÃª estÃ¡ ... aprimorado. Lembre-se ... nÃ£o pegue as crostas, a menos que vocÃª queira uma cicatriz horrÃ­vel para adicionar a sua aparÃªncia, de repente, nÃ£o totalmente agradÃ¡vel.}
+{238}{}{Obrigado, doc. AtÃ© mais.}
+{239}{}{Eu tenho o dinheiro para o baÃ§o.}
+{240}{}{VocÃª estÃ¡ interessado novamente em implantes?}

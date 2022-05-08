@@ -1,2 +1,2 @@
-{100}{}{Zauwa¿asz ¿y³kê potykacza i z trudem jej unikasz.}
-{101}{}{ zauwa¿a ¿y³kê potykacza i z trudem jej unika.}
+{100}{}{ZauwaÅ¼asz Å¼yÅ‚kÄ™ potykacza i z trudem jej unikasz.}
+{101}{}{ zauwaÅ¼a Å¼yÅ‚kÄ™ potykacza i z trudem jej unika.}

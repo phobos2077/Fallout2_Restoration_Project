@@ -1,24 +1,24 @@
 {100}{}{Widzisz ochroniarza braci Corsican.}
-{150}{}{Widzisz napakowan¹ kobietê z zielonym irokezem. Ko³ysze swój automat jakby to by³o jej dziecko.}
+{150}{}{Widzisz napakowanÄ… kobietÄ™ z zielonym irokezem. KoÅ‚ysze swÃ³j automat jakby to byÅ‚o jej dziecko.}
 {151}{}{Widzisz ochroniarza braci Corsican.}
-{200}{}{Ratuje siê œwiat, co? Te¿ mi kurwa coœ.}
-{201}{}{Och, jej, maj hiro³. A teraz ODWAL SIÊ.}
-{300}{}{Czyyyœæ?}
-{301}{}{Wiesz, by³a sobie s³odka blondynka...}
-{302}{}{Co, za dobra, ¿eby ze mn¹ rozmawiaæ?}
-{303}{}{Powiedz coœ. Cokolwiek!}
+{200}{}{Ratuje siÄ™ Å›wiat, co? TeÅ¼ mi kurwa coÅ›.}
+{201}{}{Och, jej, maj hiroÅ‚. A teraz ODWAL SIÄ˜.}
+{300}{}{CzyyyÅ›Ä‡?}
+{301}{}{Wiesz, byÅ‚a sobie sÅ‚odka blondynka...}
+{302}{}{Co, za dobra, Å¼eby ze mnÄ… rozmawiaÄ‡?}
+{303}{}{Powiedz coÅ›. Cokolwiek!}
 {400}{}{Kutas.}
 {401}{}{Ruda cipa.}
 {402}{}{Jebus.}
-{403}{}{Jasne, idŸ sobie je³opo.}
-{404}{}{Mam nadziejê, ¿e nie kopnie mnie wiêcej "zaszczyt" spotkania takiej pó³g³ówki.}
-{405}{}{Tej lasce potrzeba miêtowego odœwie¿acza powietrza.}
+{403}{}{Jasne, idÅº sobie jeÅ‚opo.}
+{404}{}{Mam nadziejÄ™, Å¼e nie kopnie mnie wiÄ™cej "zaszczyt" spotkania takiej pÃ³Å‚gÅ‚Ã³wki.}
+{405}{}{Tej lasce potrzeba miÄ™towego odÅ›wieÅ¼acza powietrza.}
 {406}{}{Dziwka.}
 {500}{}{Patrzy na ciebie bez wyrazu.}
-{501}{}{NajwyraŸniej nie ma nic do powiedzenia.}
-{600}{}{Naprawdê chcia³abym pójœæ z nim na krêgle.}
-{601}{}{Mo¿esz mnie z nim kiedyœ umówiæ?}
+{501}{}{NajwyraÅºniej nie ma nic do powiedzenia.}
+{600}{}{NaprawdÄ™ chciaÅ‚abym pÃ³jÅ›Ä‡ z nim na krÄ™gle.}
+{601}{}{MoÅ¼esz mnie z nim kiedyÅ› umÃ³wiÄ‡?}
 {602}{}{Hmmm...}
-{603}{}{Mo¿esz mnie z ni¹ kiedyœ umówiæ?}
-{604}{}{Naprawdê chcia³abym siê do niej dobraæ.}
-{605}{}{Ona na mnie *naprawdê* dzia³a, ale zbyt siê bojê, ¿eby coœ powiedzieæ.}
+{603}{}{MoÅ¼esz mnie z niÄ… kiedyÅ› umÃ³wiÄ‡?}
+{604}{}{NaprawdÄ™ chciaÅ‚abym siÄ™ do niej dobraÄ‡.}
+{605}{}{Ona na mnie *naprawdÄ™* dziaÅ‚a, ale zbyt siÄ™ bojÄ™, Å¼eby coÅ› powiedzieÄ‡.}

@@ -25,15 +25,15 @@
 {202}{}{::Assobios::}
 {203}{}{! Welcome to the casino, hero!}
 {204}{}{Thought you'd forgotten about us while you were saving the world.}
-{210}{}{Ol·, }
+{210}{}{Ol√°, }
 {211}{}{Se precisar de companhia mais tarde...}
 {212}{}{Hey, you...(winks)...you looking to gamble?}
-{213}{}{Ele parece t„o... (arrepios) perigoso.}
+{213}{}{Ele parece t√£o... (arrepios) perigoso.}
 {214}{}{Welcome to the casino, }
 {215}{}{Fale bem de mim pro chefe, beleza?}
-{216}{}{Ol·, madame. Se eu puder ajudar em algo È sÛ me dizer.}
+{216}{}{Ol√°, madame. Se eu puder ajudar em algo √© s√≥ me dizer.}
 {217}{}{Looking to gamble, ma'am?}
-{218}{}{Ela parece t„o... (arrepios) perigosa.}
+{218}{}{Ela parece t√£o... (arrepios) perigosa.}
 {220}{}{Looks like this one's already gambling with his life.}
 {221}{}{Uh, eu acho que ele entrou no cassino errado...}
 {222}{}{If he doesn't leave before the boys see him...}
@@ -53,7 +53,7 @@
 {239}{}{Step right up, }
 {240}{}{Need another drink?}
 {241}{}{Welcome to the casino, }
-{242}{}{Ol·, }
+{242}{}{Ol√°, }
 {243}{}{Looking to gamble, }
 {244}{}{Welcome to the casino, }
 {250}{}{Hey there, movie man. You looking to spend some chips?}
@@ -114,25 +114,25 @@
 {332}{}{Sorry, better luck next time.}
 {333}{}{You have [C] chips. Keep playing?}
 {334}{}{Liga-o por um dia.}
-{335}{}{Isso que È noite.}
+{335}{}{Isso que √© noite.}
 {340}{}{Winner! Well done, sir!}
 {341}{}{Winner! Well done, ma'am!}
 {342}{}{Winner!}
 {343}{}{You have [C] chips. Keep playing?}
 {344}{}{Liga-o por um dia.}
-{345}{}{Isso que È noite.}
+{345}{}{Isso que √© noite.}
 {350}{}{Winner! You've doubled your money! Well done, sir!}
 {351}{}{Winner! You've doubled your money! Well done, ma'am!}
 {352}{}{Winner! You've doubled your money!}
 {353}{}{You have [C] chips. Keep playing?}
 {354}{}{Liga-o por um dia.}
-{355}{}{Isso que È noite.}
+{355}{}{Isso que √© noite.}
 {360}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {361}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {362}{}{Winner! You've tripled your money!}
 {363}{}{You have [C] chips. Keep playing?}
 {364}{}{Liga-o por um dia.}
-{365}{}{Isso que È noite.}
+{365}{}{Isso que √© noite.}
 {370}{}{What do you want now? You here to waste my time, or you gonna place a bet?}
 {371}{}{I'm whoever you WANT me to be, sweetheart. Now, you gonna place a bet?}
 {372}{}{I'm whoever you WANT me to be, girlfriend. Now, you gonna place a bet?}
@@ -170,7 +170,7 @@
 {413}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
 {414}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
 {415}{}{We'll talk later then, Nikki.}
-{420}{}{Do que vocÍ est· falando?}
+{420}{}{Do que voc√™ est√° falando?}
 {421}{}{Nikki, if you don't tell me everything right now, I'll tell Mr. Salvatore you were in on it, whether you were or not.
  He'll have Mason cut you up seven ways to Sunday, and have your job filled in an hour.}
 {422}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}

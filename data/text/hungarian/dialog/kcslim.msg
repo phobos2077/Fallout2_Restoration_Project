@@ -1,131 +1,131 @@
-{100}{}{Ez a prémvadász nagyon magas, mondhatni létra.}
-{101}{}{Vézna Picket-et látod, a Prémvadászok Városának irányítóját.}
-{110}{}{Nos, úgy látom, a patkányok még nem faltak fel, de fel fognak, ha háborgatod ?ket. Csak vigyázz, nehogy átjussanak ide!}
-{111}{}{Nos, úgy látom, a patkányok még nem faltak fel, de fel fognak, ha háborgatod ?ket. Csak vigyázz, nehogy átjussanak ide.}
-{112}{}{Ne aggódj, nem fognak!}
-{113}{}{Nem, én köszönöm neked.}
-{114}{}{Ö, oké.}
-{120}{}{Nem akarok én semmit azoktól a rágcsálóktól. Én békén hagyom ?ket, és remélem, ?k is engem. Vigyázz magadra!}
-{130}{}{Csak légy óvatos! Minél mélyebbre mész, annál nagyobbakkal találkozol.}
-{140}{}{Helló, törzsbéli. A nevem vézna Picket és velem beszélgethetsz a Prémvadászok Városáról. Mi itt nem akarunk semmiféle bajt.}
-{141}{}{Helló, barátom. Kedves t?led, hogy meglátogatsz minket. A nevem Vézna Picket. Én képviselem a Prémvadászok Városát.}
-{142}{}{Helló, Vézna. A nevem }
-{143}{}{. Mért hívják ezt a Prémvadászok Városának?}
-{144}{}{Nem tudod, hol találnék egy Édenkert Létrehozást El?segít? Táskát?}
-{145}{}{Örülök, hogy találkoztunk, Mr. Vézna, de csak körülnézek. Viszlát!}
-{150}{}{Helló, engem Vézna Picket-nek hívnak. Én képviselem a város itteni részét.}
-{151}{}{Hömm?}
-{152}{}{Okkkéé, berek.}
-{153}{}{(magadra mutatsz) Én }
-{154}{}{, éhes lenni.}
-{160}{}{Hé, gondolom, nincs ki az összes kereked, ugye? Na, ide figyelj! Itt a kulcs a mögöttem lév? ajtóhoz. Van ott minden féle patkány, valszeg még egy nagy darab is. Menj be oda és öld meg az összes patkányt, amiket t?lem meg is ehetsz. Hogy hangzik?}
-{161}{}{Úgy t?nik, elt?nt a mindenkit zavaró nagy patkány. De nem hiszem, hogy egy ilyen idiótának, mint te, bármi köze is lehet a dologhoz.}
-{162}{}{Okééé. Hehe, patkány ölni. Hehehe.}
-{163}{}{Nem! Patkányok félelmetes! Nem. Én most megy el.}
+{100}{}{Ez a prÃ©mvadÃ¡sz nagyon magas, mondhatni lÃ©tra.}
+{101}{}{VÃ©zna Picket-et lÃ¡tod, a PrÃ©mvadÃ¡szok VÃ¡rosÃ¡nak irÃ¡nyÃ­tÃ³jÃ¡t.}
+{110}{}{Nos, Ãºgy lÃ¡tom, a patkÃ¡nyok mÃ©g nem faltak fel, de fel fognak, ha hÃ¡borgatod ?ket. Csak vigyÃ¡zz, nehogy Ã¡tjussanak ide!}
+{111}{}{Nos, Ãºgy lÃ¡tom, a patkÃ¡nyok mÃ©g nem faltak fel, de fel fognak, ha hÃ¡borgatod ?ket. Csak vigyÃ¡zz, nehogy Ã¡tjussanak ide.}
+{112}{}{Ne aggÃ³dj, nem fognak!}
+{113}{}{Nem, Ã©n kÃ¶szÃ¶nÃ¶m neked.}
+{114}{}{Ã–, okÃ©.}
+{120}{}{Nem akarok Ã©n semmit azoktÃ³l a rÃ¡gcsÃ¡lÃ³ktÃ³l. Ã‰n bÃ©kÃ©n hagyom ?ket, Ã©s remÃ©lem, ?k is engem. VigyÃ¡zz magadra!}
+{130}{}{Csak lÃ©gy Ã³vatos! MinÃ©l mÃ©lyebbre mÃ©sz, annÃ¡l nagyobbakkal talÃ¡lkozol.}
+{140}{}{HellÃ³, tÃ¶rzsbÃ©li. A nevem vÃ©zna Picket Ã©s velem beszÃ©lgethetsz a PrÃ©mvadÃ¡szok VÃ¡rosÃ¡rÃ³l. Mi itt nem akarunk semmifÃ©le bajt.}
+{141}{}{HellÃ³, barÃ¡tom. Kedves t?led, hogy meglÃ¡togatsz minket. A nevem VÃ©zna Picket. Ã‰n kÃ©pviselem a PrÃ©mvadÃ¡szok VÃ¡rosÃ¡t.}
+{142}{}{HellÃ³, VÃ©zna. A nevem }
+{143}{}{. MÃ©rt hÃ­vjÃ¡k ezt a PrÃ©mvadÃ¡szok VÃ¡rosÃ¡nak?}
+{144}{}{Nem tudod, hol talÃ¡lnÃ©k egy Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡t?}
+{145}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk, Mr. VÃ©zna, de csak kÃ¶rÃ¼lnÃ©zek. ViszlÃ¡t!}
+{150}{}{HellÃ³, engem VÃ©zna Picket-nek hÃ­vnak. Ã‰n kÃ©pviselem a vÃ¡ros itteni rÃ©szÃ©t.}
+{151}{}{HÃ¶mm?}
+{152}{}{OkkkÃ©Ã©, berek.}
+{153}{}{(magadra mutatsz) Ã‰n }
+{154}{}{, Ã©hes lenni.}
+{160}{}{HÃ©, gondolom, nincs ki az Ã¶sszes kereked, ugye? Na, ide figyelj! Itt a kulcs a mÃ¶gÃ¶ttem lÃ©v? ajtÃ³hoz. Van ott minden fÃ©le patkÃ¡ny, valszeg mÃ©g egy nagy darab is. Menj be oda Ã©s Ã¶ld meg az Ã¶sszes patkÃ¡nyt, amiket t?lem meg is ehetsz. Hogy hangzik?}
+{161}{}{Ãšgy t?nik, elt?nt a mindenkit zavarÃ³ nagy patkÃ¡ny. De nem hiszem, hogy egy ilyen idiÃ³tÃ¡nak, mint te, bÃ¡rmi kÃ¶ze is lehet a dologhoz.}
+{162}{}{OkÃ©Ã©Ã©. Hehe, patkÃ¡ny Ã¶lni. Hehehe.}
+{163}{}{Nem! PatkÃ¡nyok fÃ©lelmetes! Nem. Ã‰n most megy el.}
 {170}{}{Most mi a francot akarsz?}
-{171}{}{Üdv! Miben segíthetek?}
-{172}{}{Kellene egy kulcs a Prémvadászok Városának északi részéhez.}
-{173}{}{Lenne néhány kérdésem, amiket szeretnék feltenni neked.}
-{174}{}{Most nincs szükségem semmire. Viszlát!}
-{180}{}{A város itteni felében élnek a prémvadászok, amikor épp nem vadásznak gekkókra. Az egyetlen probléma az északra tanyázó patkányokkal van. Szerencsére sikerült lezárni az oda vezet? járatokat.}
-{181}{}{Mir?l akarsz kérdezni?}
-{182}{}{Szoktatok az északi részre menni?}
-{183}{}{Mesélj nekem a gekkóvadászatról!}
-{184}{}{Hallottál már az Édenkert Létrehozást El?segít? Táskáról?}
-{185}{}{Jó sok autótok van itt.}
-{186}{}{Patkányok? Mesélj róluk!}
-{187}{}{Kösz az infót. Mást most nem akarok megtudni. Viszlát!}
-{190}{}{Ó. az ÉLET-re gondolsz, ugye? Láttam egy hirdetést róla valami régi magazinban. Nem hiszem, hogy léteznek még ilyenek. Legalábbis nem itt, de még a közelben sem.}
-{191}{}{Tényleg? Akkor hadd kérdezzelek meg valami másról!}
-{192}{}{Hát, mindegy, ez minden, amire kíváncsi voltam. Kösz.}
-{200}{}{A kulcsot akarod az északi részhez? Minek kell az neked?}
-{201}{}{Még mindig kell az a kulcs? Miért?}
-{202}{}{Én felfedez? vagyok, minden helyet fel akarok kutatni, amit csak lehet. Másrészt, lehet, hogy találok egy ÉLET-et az egyik elfelejtett polcon.}
-{203}{}{Segíteni akarok a patkány problémátokkal kapcsolatban.}
-{204}{}{Csak el akarok jutni a kerítés túloldalán lév? autóhoz.}
-{205}{}{Bármit megadnék azért a kulcsért. Tényleg át akarok jutni azon az ajtón.}
-{206}{}{Azt hiszem, mégsem kell az a kulcs. Azt hallottam, eléggé veszélyes az a hely.}
-{210}{}{Hát, oké, itt a kulcs. De ne csinálj túl sok bajt, és csukd be az ajtót magad mögött.}
-{211}{}{Micsoda n?! Erre volt szükségem már egy ideje. Csak vigyázz arra a szépséges hátsódra. (he-he-he)}
-{212}{}{Kösz a kulcsod, Vézna. Lenne még pár kérdésem, miel?tt megyek.}
-{213}{}{Kösz, Vézna. Be fogom csukni az ajtót magam mögött. Viszlát!}
+{171}{}{Ãœdv! Miben segÃ­thetek?}
+{172}{}{Kellene egy kulcs a PrÃ©mvadÃ¡szok VÃ¡rosÃ¡nak Ã©szaki rÃ©szÃ©hez.}
+{173}{}{Lenne nÃ©hÃ¡ny kÃ©rdÃ©sem, amiket szeretnÃ©k feltenni neked.}
+{174}{}{Most nincs szÃ¼ksÃ©gem semmire. ViszlÃ¡t!}
+{180}{}{A vÃ¡ros itteni felÃ©ben Ã©lnek a prÃ©mvadÃ¡szok, amikor Ã©pp nem vadÃ¡sznak gekkÃ³kra. Az egyetlen problÃ©ma az Ã©szakra tanyÃ¡zÃ³ patkÃ¡nyokkal van. SzerencsÃ©re sikerÃ¼lt lezÃ¡rni az oda vezet? jÃ¡ratokat.}
+{181}{}{Mir?l akarsz kÃ©rdezni?}
+{182}{}{Szoktatok az Ã©szaki rÃ©szre menni?}
+{183}{}{MesÃ©lj nekem a gekkÃ³vadÃ¡szatrÃ³l!}
+{184}{}{HallottÃ¡l mÃ¡r az Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡rÃ³l?}
+{185}{}{JÃ³ sok autÃ³tok van itt.}
+{186}{}{PatkÃ¡nyok? MesÃ©lj rÃ³luk!}
+{187}{}{KÃ¶sz az infÃ³t. MÃ¡st most nem akarok megtudni. ViszlÃ¡t!}
+{190}{}{Ã“. az Ã‰LET-re gondolsz, ugye? LÃ¡ttam egy hirdetÃ©st rÃ³la valami rÃ©gi magazinban. Nem hiszem, hogy lÃ©teznek mÃ©g ilyenek. LegalÃ¡bbis nem itt, de mÃ©g a kÃ¶zelben sem.}
+{191}{}{TÃ©nyleg? Akkor hadd kÃ©rdezzelek meg valami mÃ¡srÃ³l!}
+{192}{}{HÃ¡t, mindegy, ez minden, amire kÃ­vÃ¡ncsi voltam. KÃ¶sz.}
+{200}{}{A kulcsot akarod az Ã©szaki rÃ©szhez? Minek kell az neked?}
+{201}{}{MÃ©g mindig kell az a kulcs? MiÃ©rt?}
+{202}{}{Ã‰n felfedez? vagyok, minden helyet fel akarok kutatni, amit csak lehet. MÃ¡srÃ©szt, lehet, hogy talÃ¡lok egy Ã‰LET-et az egyik elfelejtett polcon.}
+{203}{}{SegÃ­teni akarok a patkÃ¡ny problÃ©mÃ¡tokkal kapcsolatban.}
+{204}{}{Csak el akarok jutni a kerÃ­tÃ©s tÃºloldalÃ¡n lÃ©v? autÃ³hoz.}
+{205}{}{BÃ¡rmit megadnÃ©k azÃ©rt a kulcsÃ©rt. TÃ©nyleg Ã¡t akarok jutni azon az ajtÃ³n.}
+{206}{}{Azt hiszem, mÃ©gsem kell az a kulcs. Azt hallottam, elÃ©ggÃ© veszÃ©lyes az a hely.}
+{210}{}{HÃ¡t, okÃ©, itt a kulcs. De ne csinÃ¡lj tÃºl sok bajt, Ã©s csukd be az ajtÃ³t magad mÃ¶gÃ¶tt.}
+{211}{}{Micsoda n?! Erre volt szÃ¼ksÃ©gem mÃ¡r egy ideje. Csak vigyÃ¡zz arra a szÃ©psÃ©ges hÃ¡tsÃ³dra. (he-he-he)}
+{212}{}{KÃ¶sz a kulcsod, VÃ©zna. Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem, miel?tt megyek.}
+{213}{}{KÃ¶sz, VÃ©zna. Be fogom csukni az ajtÃ³t magam mÃ¶gÃ¶tt. ViszlÃ¡t!}
 {220}{}{Ha kell a kulcs, akkor vedd meg!}
 {221}{}{Nem gond, ha meg kell vennem.}
-{222}{}{Nem akarok csereberélni egy rohadt kulcsért. Neked semmibe se kerül, ha kölcsönadod nekem. Vigyázni fogok, hogy becsukódjon az ajtó mögöttem.}
-{223}{}{Ha nekem adod a kulcsot, gondoskodom, hogy kevesebb legyen errefelé a patkány.}
-{224}{}{Mégsem kell nekem az a kulcs. Viszlát!}
-{230}{}{Megkaptad, amit akartál. Légy óvatos!}
-{231}{}{Köszi.}
-{232}{}{Jól alkudozol. Remélem, megérte.}
-{240}{}{Úgy látom, nem kellett annyira a kulcs, mint azt gondoltad, mi? Biztos, hogy megvan, amit akartál?}
-{241}{}{Upsz... tudtam, hogy kell még valami.}
-{242}{}{Hé, Vézna, lenne pár dolog, amir?l megkérdeznélek.}
-{243}{}{Másra nincs szükségem t?led. Kösz.}
-{250}{}{Minden északra vezet? járatot lezártunk, kivéve egyet. Ahhoz az egyhez van is egy kulcsom, ha bárki is át akarna menni oda valamiért. Bár nem tudom, mért akarna bárki is oda menni. Én biztos nem tenném.}
-{251}{}{Érdekes, beszélj inkább valami másról!}
-{252}{}{Érdekel engem az a kulcs.}
-{253}{}{Ezt akartam tudni. Viszlát!}
-{260}{}{Érdekelne a vadászat, mi? (A szemét végigjáratja rajtad.)}
-{261}{}{[TOVÁBB]}
-{270}{}{Ha a helyedben lennék, nem próbálkoznék vele. Piszkos és kemény lesz t?le a kezed. (he,he,he) Akarsz tudni még valamit?}
-{271}{}{Hát, nem szeretném összepiszkolni a kezem. Beszélj inkább valami másról!}
-{272}{}{Bárcsak én is olyan ügyes vadász lehetnék, mint te. Biztos sokat tudnál nekem tanítani.}
-{273}{}{Ezt akartam tudni. Viszlát!}
-{280}{}{Olyannak látszol, aki tud vigyázni magára. Két féle gekkó létezik, a sima és az arany. A simát könnyebb levadászni, de az aranynak többet ér a b?re.}
-{281}{}{Mesélj nekem még az aranygekkókról!}
-{282}{}{Érdekes. Mesélj valami másról!}
-{283}{}{Ezt akartam tudni. Viszlát!}
-{290}{}{Az aranygekkók kétszer er?sebbek a sima gekkóknál. Ráadásul, ha egyszer elkaptak, akkor nem eresztenek el. És akkor ott van még a mérgük is. A b?rük viszont szebb, így többért is lehet eladni.}
-{291}{}{Mesélj még!}
-{300}{}{Egy igazán jó prémvadász, Smiley, északra ment, hogy megtalálja a helyet, ahonnan a gekkók jönnek. Meg volt gy?z?dve arról, hogy mind egy helyr?l származnak. Azóta senki nem hallott róla.}
-{301}{}{Szerinted mi történt vele?}
+{222}{}{Nem akarok csereberÃ©lni egy rohadt kulcsÃ©rt. Neked semmibe se kerÃ¼l, ha kÃ¶lcsÃ¶nadod nekem. VigyÃ¡zni fogok, hogy becsukÃ³djon az ajtÃ³ mÃ¶gÃ¶ttem.}
+{223}{}{Ha nekem adod a kulcsot, gondoskodom, hogy kevesebb legyen errefelÃ© a patkÃ¡ny.}
+{224}{}{MÃ©gsem kell nekem az a kulcs. ViszlÃ¡t!}
+{230}{}{Megkaptad, amit akartÃ¡l. LÃ©gy Ã³vatos!}
+{231}{}{KÃ¶szi.}
+{232}{}{JÃ³l alkudozol. RemÃ©lem, megÃ©rte.}
+{240}{}{Ãšgy lÃ¡tom, nem kellett annyira a kulcs, mint azt gondoltad, mi? Biztos, hogy megvan, amit akartÃ¡l?}
+{241}{}{Upsz... tudtam, hogy kell mÃ©g valami.}
+{242}{}{HÃ©, VÃ©zna, lenne pÃ¡r dolog, amir?l megkÃ©rdeznÃ©lek.}
+{243}{}{MÃ¡sra nincs szÃ¼ksÃ©gem t?led. KÃ¶sz.}
+{250}{}{Minden Ã©szakra vezet? jÃ¡ratot lezÃ¡rtunk, kivÃ©ve egyet. Ahhoz az egyhez van is egy kulcsom, ha bÃ¡rki is Ã¡t akarna menni oda valamiÃ©rt. BÃ¡r nem tudom, mÃ©rt akarna bÃ¡rki is oda menni. Ã‰n biztos nem tennÃ©m.}
+{251}{}{Ã‰rdekes, beszÃ©lj inkÃ¡bb valami mÃ¡srÃ³l!}
+{252}{}{Ã‰rdekel engem az a kulcs.}
+{253}{}{Ezt akartam tudni. ViszlÃ¡t!}
+{260}{}{Ã‰rdekelne a vadÃ¡szat, mi? (A szemÃ©t vÃ©gigjÃ¡ratja rajtad.)}
+{261}{}{[TOVÃBB]}
+{270}{}{Ha a helyedben lennÃ©k, nem prÃ³bÃ¡lkoznÃ©k vele. Piszkos Ã©s kemÃ©ny lesz t?le a kezed. (he,he,he) Akarsz tudni mÃ©g valamit?}
+{271}{}{HÃ¡t, nem szeretnÃ©m Ã¶sszepiszkolni a kezem. BeszÃ©lj inkÃ¡bb valami mÃ¡srÃ³l!}
+{272}{}{BÃ¡rcsak Ã©n is olyan Ã¼gyes vadÃ¡sz lehetnÃ©k, mint te. Biztos sokat tudnÃ¡l nekem tanÃ­tani.}
+{273}{}{Ezt akartam tudni. ViszlÃ¡t!}
+{280}{}{Olyannak lÃ¡tszol, aki tud vigyÃ¡zni magÃ¡ra. KÃ©t fÃ©le gekkÃ³ lÃ©tezik, a sima Ã©s az arany. A simÃ¡t kÃ¶nnyebb levadÃ¡szni, de az aranynak tÃ¶bbet Ã©r a b?re.}
+{281}{}{MesÃ©lj nekem mÃ©g az aranygekkÃ³krÃ³l!}
+{282}{}{Ã‰rdekes. MesÃ©lj valami mÃ¡srÃ³l!}
+{283}{}{Ezt akartam tudni. ViszlÃ¡t!}
+{290}{}{Az aranygekkÃ³k kÃ©tszer er?sebbek a sima gekkÃ³knÃ¡l. RÃ¡adÃ¡sul, ha egyszer elkaptak, akkor nem eresztenek el. Ã‰s akkor ott van mÃ©g a mÃ©rgÃ¼k is. A b?rÃ¼k viszont szebb, Ã­gy tÃ¶bbÃ©rt is lehet eladni.}
+{291}{}{MesÃ©lj mÃ©g!}
+{300}{}{Egy igazÃ¡n jÃ³ prÃ©mvadÃ¡sz, Smiley, Ã©szakra ment, hogy megtalÃ¡lja a helyet, ahonnan a gekkÃ³k jÃ¶nnek. Meg volt gy?z?dve arrÃ³l, hogy mind egy helyr?l szÃ¡rmaznak. AzÃ³ta senki nem hallott rÃ³la.}
+{301}{}{Szerinted mi tÃ¶rtÃ©nt vele?}
 {310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
  thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
  Buckner runs Buckner house, y'know.}
-{311}{}{Érdekes. Mesélj valami másról!}
-{312}{}{Ezt akartam tudni. Viszlát!}
-{320}{}{Egy egész parkolónyi kocsink van. Mindegyik arra várt, hogy a gazdájuk visszajöjjön a vásárlásból. A helyzet az, hogy sosem jöttek vissza. Sajnos egyikük sem m?ködik, de van egy szép darab innen keletre. Egy igazi Chrysalis Motors Highwayman, de sajnos nem tudom, hogy lehetne eljutni hozzá.}
-{321}{}{Egy Highwayman? Érdekes, de most valami másra lennék kíváncsi.}
-{322}{}{Ezt akartam tudni. Viszlát!}
+{311}{}{Ã‰rdekes. MesÃ©lj valami mÃ¡srÃ³l!}
+{312}{}{Ezt akartam tudni. ViszlÃ¡t!}
+{320}{}{Egy egÃ©sz parkolÃ³nyi kocsink van. Mindegyik arra vÃ¡rt, hogy a gazdÃ¡juk visszajÃ¶jjÃ¶n a vÃ¡sÃ¡rlÃ¡sbÃ³l. A helyzet az, hogy sosem jÃ¶ttek vissza. Sajnos egyikÃ¼k sem m?kÃ¶dik, de van egy szÃ©p darab innen keletre. Egy igazi Chrysalis Motors Highwayman, de sajnos nem tudom, hogy lehetne eljutni hozzÃ¡.}
+{321}{}{Egy Highwayman? Ã‰rdekes, de most valami mÃ¡sra lennÃ©k kÃ­vÃ¡ncsi.}
+{322}{}{Ezt akartam tudni. ViszlÃ¡t!}
 {330}{}{Well, they taste pretty good if you spit-roast 'em with just a pinch of herbs. But most of the
  time they can be a real nuisance, and they're getting worse. We've barricaded the north part of the
  mall -- well, Trapper Town, that is -- but they're sneaking through anyway. There's one door right here
  behind my room, but I have it locked.}
-{331}{}{Otthon anyu csak serpeny?ben sütötte, kevés vajjal. De mesélj még a patkánytámadásokról!}
-{332}{}{Érdekes. Mesélj nekem valami másról inkább!}
-{333}{}{Ezt akartam tudni. Viszlát!}
-{335}{}{Hát, egész finomak tudnak lenni, ha nyárson megsütöd. Legtöbbször azonban csak gondot okoznak. Elbarikádoztuk az északi részt, de így is átszökik néhány. Itt van egy ajtó az északi oldalhoz, de bezártam.}
-{336}{}{Volt nekünk egy hatalmas gondunk a patkányokkal, de mostanában mintha elt?ntek volna, mintha valaki elzavarta, kiirtotta volna ?ket.}
-{337}{}{Otthon anyu csak serpeny?ben sütötte, kevés vajjal. De mesélj még a patkánytámadásokról!}
+{331}{}{Otthon anyu csak serpeny?ben sÃ¼tÃ¶tte, kevÃ©s vajjal. De mesÃ©lj mÃ©g a patkÃ¡nytÃ¡madÃ¡sokrÃ³l!}
+{332}{}{Ã‰rdekes. MesÃ©lj nekem valami mÃ¡srÃ³l inkÃ¡bb!}
+{333}{}{Ezt akartam tudni. ViszlÃ¡t!}
+{335}{}{HÃ¡t, egÃ©sz finomak tudnak lenni, ha nyÃ¡rson megsÃ¼tÃ¶d. LegtÃ¶bbszÃ¶r azonban csak gondot okoznak. ElbarikÃ¡doztuk az Ã©szaki rÃ©szt, de Ã­gy is Ã¡tszÃ¶kik nÃ©hÃ¡ny. Itt van egy ajtÃ³ az Ã©szaki oldalhoz, de bezÃ¡rtam.}
+{336}{}{Volt nekÃ¼nk egy hatalmas gondunk a patkÃ¡nyokkal, de mostanÃ¡ban mintha elt?ntek volna, mintha valaki elzavarta, kiirtotta volna ?ket.}
+{337}{}{Otthon anyu csak serpeny?ben sÃ¼tÃ¶tte, kevÃ©s vajjal. De mesÃ©lj mÃ©g a patkÃ¡nytÃ¡madÃ¡sokrÃ³l!}
 {340}{}{People been disappearing. Just them that are slow and sickly, for now. 'Course, they
  don't stop to cook their food like us. They just gnaw it into a few bloody clumps of hair and
  rags. Least that's all we find in the morning. I've even heard talk that there's some kind of
  giant rat god that tells 'em all what to do.}
-{341}{}{Érdekes. Valakinek tennie kéne már valamit ez ügyben. Te, mondd csak, nincs egy kulcsod az északi részhez?}
-{342}{}{Érdekes. Mesélj nekem valami másról inkább!}
-{343}{}{Ezt akartam tudni. Viszlát!}
-{350}{}{Hát, nem vagy olyan szép, mint múltkor, biztos régen volt már. Azt hiszem, odaadhatom neked a kulcsot, ha te is megadod nekem, amire szükségem van. (he-he-he)}
-{351}{}{Hmm, te aztán csodálatos vagy ám! Biztos vagyok benne, hogy megkaphatod a kulcsot, ha én is megkapom, amit akarok. (hehe)}
-{352}{}{Oké, de remélem, csak a magasságod miatt hívnak Véznának.}
-{353}{}{Öö, én nem épp erre gondoltam.}
-{354}{}{Töröld csak le azt a mosolyt a képedr?l! Azt hiszem, jobb lesz, ha megyek, miel?tt még bajod esik. Viszlát!}
-{360}{}{Tudnék neked mit tanítani a túlélésr?l. Csak 100 dollárodba kerülne.}
-{361}{}{Mindig szeretem megosztani mással a tudásom. Taníthatnék neked pár trükköt a túléléshez és csak 50 dollárt kéne fizetned.}
-{362}{}{Hát, ennyiért jobb, ha tényleg sokat tanítasz.}
-{363}{}{Az sok pénz. Inkább valami másról beszélj nekem!}
-{364}{}{Most nem akarok tanulni semmit. Viszlát!}
-{370}{}{A törzsedben f?leg farmerek élnek, mi? Nem hiszem, hogy bármi újat tudnék neked tanítani.}
-{371}{}{Máris olyan jó vagyok? Akkor inkább valami másról mesélj!}
-{372}{}{Akkor megyek is. Viszlát!}
-{380}{}{Hát, biztos tanultál egy-két új dolgot a túlélésr?l. Remélem, hasznát fogod venni. Ne feledkezz meg az állati ürülékr?l!}
-{381}{}{Igazad van. A régi ürülék íze a közelébe sem érhet a frissnek. Kösz, Vézna. Most mesélj nekem azokról a gekkókról!}
-{382}{}{Kösz a tanácsokat, Vézna, de még mindig azt gondolom, hogy az ürüléket jobb inkább szagolni. Kérdeznék még egy-két dolgot.}
-{383}{}{Kösz az infót, Vézna. Megyek és máris gyakorlom, amit tanultam. Viszlát!}
-{390}{}{Beszélj nekem azokról a patkányokról!}
-{400}{}{Te aztán megmutattad azoknak a patkányoknak!}
-{401}{}{Helló! Sokkal jobb patkánymentes környezetben élni.}
-{402}{}{Ja, kevesebb a patkány, mint eddig.}
-{403}{}{Vajon mi történt a patkányokkal?}
-{404}{}{Csakhogy megszabadultunk végre a patkányoktól.}
-{405}{}{Látom, olyan vagy, mint a Hamelini Dudás, nemde? Köszikee.}
+{341}{}{Ã‰rdekes. Valakinek tennie kÃ©ne mÃ¡r valamit ez Ã¼gyben. Te, mondd csak, nincs egy kulcsod az Ã©szaki rÃ©szhez?}
+{342}{}{Ã‰rdekes. MesÃ©lj nekem valami mÃ¡srÃ³l inkÃ¡bb!}
+{343}{}{Ezt akartam tudni. ViszlÃ¡t!}
+{350}{}{HÃ¡t, nem vagy olyan szÃ©p, mint mÃºltkor, biztos rÃ©gen volt mÃ¡r. Azt hiszem, odaadhatom neked a kulcsot, ha te is megadod nekem, amire szÃ¼ksÃ©gem van. (he-he-he)}
+{351}{}{Hmm, te aztÃ¡n csodÃ¡latos vagy Ã¡m! Biztos vagyok benne, hogy megkaphatod a kulcsot, ha Ã©n is megkapom, amit akarok. (hehe)}
+{352}{}{OkÃ©, de remÃ©lem, csak a magassÃ¡god miatt hÃ­vnak VÃ©znÃ¡nak.}
+{353}{}{Ã–Ã¶, Ã©n nem Ã©pp erre gondoltam.}
+{354}{}{TÃ¶rÃ¶ld csak le azt a mosolyt a kÃ©pedr?l! Azt hiszem, jobb lesz, ha megyek, miel?tt mÃ©g bajod esik. ViszlÃ¡t!}
+{360}{}{TudnÃ©k neked mit tanÃ­tani a tÃºlÃ©lÃ©sr?l. Csak 100 dollÃ¡rodba kerÃ¼lne.}
+{361}{}{Mindig szeretem megosztani mÃ¡ssal a tudÃ¡som. TanÃ­thatnÃ©k neked pÃ¡r trÃ¼kkÃ¶t a tÃºlÃ©lÃ©shez Ã©s csak 50 dollÃ¡rt kÃ©ne fizetned.}
+{362}{}{HÃ¡t, ennyiÃ©rt jobb, ha tÃ©nyleg sokat tanÃ­tasz.}
+{363}{}{Az sok pÃ©nz. InkÃ¡bb valami mÃ¡srÃ³l beszÃ©lj nekem!}
+{364}{}{Most nem akarok tanulni semmit. ViszlÃ¡t!}
+{370}{}{A tÃ¶rzsedben f?leg farmerek Ã©lnek, mi? Nem hiszem, hogy bÃ¡rmi Ãºjat tudnÃ©k neked tanÃ­tani.}
+{371}{}{MÃ¡ris olyan jÃ³ vagyok? Akkor inkÃ¡bb valami mÃ¡srÃ³l mesÃ©lj!}
+{372}{}{Akkor megyek is. ViszlÃ¡t!}
+{380}{}{HÃ¡t, biztos tanultÃ¡l egy-kÃ©t Ãºj dolgot a tÃºlÃ©lÃ©sr?l. RemÃ©lem, hasznÃ¡t fogod venni. Ne feledkezz meg az Ã¡llati Ã¼rÃ¼lÃ©kr?l!}
+{381}{}{Igazad van. A rÃ©gi Ã¼rÃ¼lÃ©k Ã­ze a kÃ¶zelÃ©be sem Ã©rhet a frissnek. KÃ¶sz, VÃ©zna. Most mesÃ©lj nekem azokrÃ³l a gekkÃ³krÃ³l!}
+{382}{}{KÃ¶sz a tanÃ¡csokat, VÃ©zna, de mÃ©g mindig azt gondolom, hogy az Ã¼rÃ¼lÃ©ket jobb inkÃ¡bb szagolni. KÃ©rdeznÃ©k mÃ©g egy-kÃ©t dolgot.}
+{383}{}{KÃ¶sz az infÃ³t, VÃ©zna. Megyek Ã©s mÃ¡ris gyakorlom, amit tanultam. ViszlÃ¡t!}
+{390}{}{BeszÃ©lj nekem azokrÃ³l a patkÃ¡nyokrÃ³l!}
+{400}{}{Te aztÃ¡n megmutattad azoknak a patkÃ¡nyoknak!}
+{401}{}{HellÃ³! Sokkal jobb patkÃ¡nymentes kÃ¶rnyezetben Ã©lni.}
+{402}{}{Ja, kevesebb a patkÃ¡ny, mint eddig.}
+{403}{}{Vajon mi tÃ¶rtÃ©nt a patkÃ¡nyokkal?}
+{404}{}{Csakhogy megszabadultunk vÃ©gre a patkÃ¡nyoktÃ³l.}
+{405}{}{LÃ¡tom, olyan vagy, mint a Hamelini DudÃ¡s, nemde? KÃ¶szikee.}
 {406}{}{No way. I will only trade this here key for something you got. No fast talk.}

@@ -1,165 +1,165 @@
-{100}{}{Egy terminál.}
-{101}{}{Ez egy terminál. M?köd?képesnek látszik.}
-{102}{}{Egy DataPlex 2000 SmarTerminált látsz, full 64t RAM-mal, a mai technika csúcsa, kár, hogy nem m?ködik.}
-{103}{}{Egy DataPlex 2000 SmarTerminált látsz, full 64t RAM-mal. Ez a mai technika csúcsa.}
-{104}{}{Üdvözöljük a PosiedoNeten! Válasszon a menüb?l:}
-{105}{}{Bejelentkezés.}
-{106}{}{Súgó.}
-{107}{}{Vége.}
-{108}{}{A terminál egy westernfilmet játszik - rohadt unalmas.}
-{109}{}{A terminál valami lövöldöz?s programmal játszik. Csak azt látod, hogy mindent telibe trafál.}
-{110}{}{Ezen a terminálon valamiféle modern m?vészeti alkotás látható - egy csomó különböz? szín? vonal egy rakáson.}
-{111}{}{Egy terminált látsz. Kis zöld bombák úsznak átlósan a képerny?n.}
-{112}{}{Ezen a terminálon egy üzenetet látsz: "Most már kikapcsolhatja a számítógépet." Fogalmad sincs, ez mit jelent.}
+{100}{}{Egy terminÃ¡l.}
+{101}{}{Ez egy terminÃ¡l. M?kÃ¶d?kÃ©pesnek lÃ¡tszik.}
+{102}{}{Egy DataPlex 2000 SmarTerminÃ¡lt lÃ¡tsz, full 64t RAM-mal, a mai technika csÃºcsa, kÃ¡r, hogy nem m?kÃ¶dik.}
+{103}{}{Egy DataPlex 2000 SmarTerminÃ¡lt lÃ¡tsz, full 64t RAM-mal. Ez a mai technika csÃºcsa.}
+{104}{}{ÃœdvÃ¶zÃ¶ljÃ¼k a PosiedoNeten! VÃ¡lasszon a menÃ¼b?l:}
+{105}{}{BejelentkezÃ©s.}
+{106}{}{SÃºgÃ³.}
+{107}{}{VÃ©ge.}
+{108}{}{A terminÃ¡l egy westernfilmet jÃ¡tszik - rohadt unalmas.}
+{109}{}{A terminÃ¡l valami lÃ¶vÃ¶ldÃ¶z?s programmal jÃ¡tszik. Csak azt lÃ¡tod, hogy mindent telibe trafÃ¡l.}
+{110}{}{Ezen a terminÃ¡lon valamifÃ©le modern m?vÃ©szeti alkotÃ¡s lÃ¡thatÃ³ - egy csomÃ³ kÃ¼lÃ¶nbÃ¶z? szÃ­n? vonal egy rakÃ¡son.}
+{111}{}{Egy terminÃ¡lt lÃ¡tsz. Kis zÃ¶ld bombÃ¡k Ãºsznak Ã¡tlÃ³san a kÃ©perny?n.}
+{112}{}{Ezen a terminÃ¡lon egy Ã¼zenetet lÃ¡tsz: "Most mÃ¡r kikapcsolhatja a szÃ¡mÃ­tÃ³gÃ©pet." Fogalmad sincs, ez mit jelent.}
 {113}{}{You see an image of red, green, and blue, pinpoints of light combined to make a picture of something....}
-{114}{}{Ez a terminál egy visszataszító arcképet mutat... ja, hogy ki van kapcsolva... hm...}
-{115}{}{Ez a terminál egy id?n túli dimenzióba néz.}
+{114}{}{Ez a terminÃ¡l egy visszataszÃ­tÃ³ arckÃ©pet mutat... ja, hogy ki van kapcsolva... hm...}
+{115}{}{Ez a terminÃ¡l egy id?n tÃºli dimenziÃ³ba nÃ©z.}
 {116}{}{This terminal has a message on it; "Loading Fenestra '98." The terminal is covered with a thick layer of dust.}
 {117}{}{This terminal seems to be an Apricot-brand terminal. It's running something called Fallout 3. Wow, it looks like it's multiplayer and 3D.}
-{118}{}{Azonosítás:}
-{119}{}{(Próbáljuk meg ezt) Felhasználói lista.}
+{118}{}{AzonosÃ­tÃ¡s:}
+{119}{}{(PrÃ³bÃ¡ljuk meg ezt) FelhasznÃ¡lÃ³i lista.}
 {120}{}{(Ez vajon beenged?) Smith, John}
 {121}{}{Vissza.}
-{123}{}{Ezt valahogy máshol kellene csinálni.}
+{123}{}{Ezt valahogy mÃ¡shol kellene csinÃ¡lni.}
 {124}{}{Listing (the terminal displays a list of about 500 names).}
 {125}{}{Listing (the computer displays a list of names).}
-{126}{}{Azonosítsa magát, vagy lépjen ki!}
-{127}{}{(Ennek van hozzáférése) Smith, John}
+{126}{}{AzonosÃ­tsa magÃ¡t, vagy lÃ©pjen ki!}
+{127}{}{(Ennek van hozzÃ¡fÃ©rÃ©se) Smith, John}
 {128}{}{(This one looks kind of special.) Presidential Passkey-Security Override.}
-{129}{}{(Ennek közepes hozzáférése van) Murray, Tom}
+{129}{}{(Ennek kÃ¶zepes hozzÃ¡fÃ©rÃ©se van) Murray, Tom}
 {130}{}{(This one has good access.) Curling, Dr. C.}
-{131}{}{(Ennek nagyon magas hozzáférése van) Bird, Daniel}
-{132}{}{(Majd inkább máskor) Kijelentkezés.}
-{133}{}{Válasszon:                                             }
+{131}{}{(Ennek nagyon magas hozzÃ¡fÃ©rÃ©se van) Bird, Daniel}
+{132}{}{(Majd inkÃ¡bb mÃ¡skor) KijelentkezÃ©s.}
+{133}{}{VÃ¡lasszon:                                             }
 {134}{}{A. E. C.: Atomic Power plant Operations, }
 {135}{}{Security Status?}
 {136}{}{Download A. E. C.: Atomic Power plant Operations.}
 {137}{}{Security Status.}
-{138}{}{Vissza az azonosításhoz:                                    }
-{139}{}{Válasszon:                                             }
+{138}{}{Vissza az azonosÃ­tÃ¡shoz:                                    }
+{139}{}{VÃ¡lasszon:                                             }
 {140}{}{Security Level: Current Status, }
 {141}{}{Chemical Corps: Project Status Report, }
 {142}{}{A. E. C.: Atomic Power plant Operations, }
 {143}{}{Security Status?}
-{144}{}{Biztonság/Szint: Jelenlegi állapot                          }
+{144}{}{BiztonsÃ¡g/Szint: Jelenlegi Ã¡llapot                          }
 {145}{}{Download Chemical Corps: Project Status Report.}
 {146}{}{Download A. E. C.: Atomic Power plant Operations.}
 {147}{}{Security Status.}
-{148}{}{Vissza az azonosításhoz:                                    }
-{149}{}{Válasszon:                                             }
+{148}{}{Vissza az azonosÃ­tÃ¡shoz:                                    }
+{149}{}{VÃ¡lasszon:                                             }
 {150}{}{State of the Nation: Current Status, }
 {151}{}{Word List, }
 {152}{}{Security Level: Current Status, }
 {153}{}{Chemical Corps: Project Status Report, }
 {154}{}{A. E. C.: Atomic Power plant Operations, }
 {155}{}{Security Status?}
-{156}{}{A Nemzet helyzete: Jelenlegi státusz                        }
-{157}{}{Letöltés: Szavak listája                                    }
-{158}{}{Biztonság/Szint: Jelenlegi állapot                          }
+{156}{}{A Nemzet helyzete: Jelenlegi stÃ¡tusz                        }
+{157}{}{LetÃ¶ltÃ©s: Szavak listÃ¡ja                                    }
+{158}{}{BiztonsÃ¡g/Szint: Jelenlegi Ã¡llapot                          }
 {159}{}{Download Chemical Corps: Project Status Report.}
 {160}{}{Download A. E. C.: Atomic Power plant Operations.}
-{161}{}{Biztonsági státusz                                          }
-{162}{}{Vissza az azonosításhoz:                                    }
-{163}{}{Válasszon: Biztonsági státusz?                              }
-{164}{}{Biztonsági státusz                                          }
+{161}{}{BiztonsÃ¡gi stÃ¡tusz                                          }
+{162}{}{Vissza az azonosÃ­tÃ¡shoz:                                    }
+{163}{}{VÃ¡lasszon: BiztonsÃ¡gi stÃ¡tusz?                              }
+{164}{}{BiztonsÃ¡gi stÃ¡tusz                                          }
 {165}{}{End Access.}
 {166}{}{Download failed - Security Status file missing.}
-{167}{}{A Nemzet helyzete: Jelenlegi státusz                        }
-{168}{}{Letöltés: Szavak listája                                    }
+{167}{}{A Nemzet helyzete: Jelenlegi stÃ¡tusz                        }
+{168}{}{LetÃ¶ltÃ©s: Szavak listÃ¡ja                                    }
 {169}{}{Security/Level: Current Status.}
 {170}{}{Download Chemical Corps: Project Status Report.}
 {171}{}{Download A. E. C.: Atomic Power plant Operations.}
-{172}{}{Vissza az azonosításhoz:                                    }
-{173}{}{A letöltés befejez?dött.                                    }
-{174}{}{Letöltés: Szavak listája                                    }
+{172}{}{Vissza az azonosÃ­tÃ¡shoz:                                    }
+{173}{}{A letÃ¶ltÃ©s befejez?dÃ¶tt.                                    }
+{174}{}{LetÃ¶ltÃ©s: Szavak listÃ¡ja                                    }
 {175}{}{Security/Level: Current Status.}
-{176}{}{Letöltés: Vegyi Kutatóalakulat - Projekt állása             }
+{176}{}{LetÃ¶ltÃ©s: Vegyi KutatÃ³alakulat - Projekt Ã¡llÃ¡sa             }
 {177}{}{Download A. E. C.: Atomic Power plant Operations}
 {178}{}{Security Status.}
-{179}{}{Vissza az azonosításhoz:                                    }
-{180}{}{A letöltés befejez?dött.                                    }
-{181}{}{A Nemzet helyzete: Jelenlegi státusz                        }
+{179}{}{Vissza az azonosÃ­tÃ¡shoz:                                    }
+{180}{}{A letÃ¶ltÃ©s befejez?dÃ¶tt.                                    }
+{181}{}{A Nemzet helyzete: Jelenlegi stÃ¡tusz                        }
 {182}{}{Security/Level: Current Status.}
-{183}{}{Letöltés: Vegyi Kutatóalakulat - Projekt állása             }
+{183}{}{LetÃ¶ltÃ©s: Vegyi KutatÃ³alakulat - Projekt Ã¡llÃ¡sa             }
 {184}{}{Download A. E. C.: Atomic Power plant Operations}
 {185}{}{Security Status.}
-{186}{}{Vissza az azonosításhoz:                                    }
-{187}{}{Körletek: Biztonsági lövegek élesített és riasztott állapotban.}
-{188}{}{Körletek: Biztonsági lövegek normál állapotban.}
-{189}{}{Körletek: Biztonsági lövegek átmenetileg deaktivált módban.}
-{190}{}{Tesztalanyok szintje: Biztonsági lövegek élesített és riasztott állapotban.}
-{191}{}{Tesztalanyok szintje: Biztonsági lövegek normál állapotban.}
-{192}{}{Tesztalanyok szintje: Biztonsági lövegek átmenetileg deaktivált módban.}
-{193}{}{Kutatási- és fejlesztési szint: Biztonsági lövegek élesített és riasztott állapotban.}
-{194}{}{Kutatási- és fejlesztési szint: Biztonsági lövegek normál állapotban.}
-{195}{}{Kutatási- és fejlesztési szint: Biztonsági lövegek átmenetileg deaktivált módban.}
-{196}{}{Adminisztráció: Biztonsági lövegek élesített és riasztott állapotban.}
-{197}{}{Adminisztráció: Biztonsági lövegek normál állapotban.}
-{198}{}{Adminisztráció: Biztonsági lövegek átmenetileg deaktivált módban.}
+{186}{}{Vissza az azonosÃ­tÃ¡shoz:                                    }
+{187}{}{KÃ¶rletek: BiztonsÃ¡gi lÃ¶vegek Ã©lesÃ­tett Ã©s riasztott Ã¡llapotban.}
+{188}{}{KÃ¶rletek: BiztonsÃ¡gi lÃ¶vegek normÃ¡l Ã¡llapotban.}
+{189}{}{KÃ¶rletek: BiztonsÃ¡gi lÃ¶vegek Ã¡tmenetileg deaktivÃ¡lt mÃ³dban.}
+{190}{}{Tesztalanyok szintje: BiztonsÃ¡gi lÃ¶vegek Ã©lesÃ­tett Ã©s riasztott Ã¡llapotban.}
+{191}{}{Tesztalanyok szintje: BiztonsÃ¡gi lÃ¶vegek normÃ¡l Ã¡llapotban.}
+{192}{}{Tesztalanyok szintje: BiztonsÃ¡gi lÃ¶vegek Ã¡tmenetileg deaktivÃ¡lt mÃ³dban.}
+{193}{}{KutatÃ¡si- Ã©s fejlesztÃ©si szint: BiztonsÃ¡gi lÃ¶vegek Ã©lesÃ­tett Ã©s riasztott Ã¡llapotban.}
+{194}{}{KutatÃ¡si- Ã©s fejlesztÃ©si szint: BiztonsÃ¡gi lÃ¶vegek normÃ¡l Ã¡llapotban.}
+{195}{}{KutatÃ¡si- Ã©s fejlesztÃ©si szint: BiztonsÃ¡gi lÃ¶vegek Ã¡tmenetileg deaktivÃ¡lt mÃ³dban.}
+{196}{}{AdminisztrÃ¡ciÃ³: BiztonsÃ¡gi lÃ¶vegek Ã©lesÃ­tett Ã©s riasztott Ã¡llapotban.}
+{197}{}{AdminisztrÃ¡ciÃ³: BiztonsÃ¡gi lÃ¶vegek normÃ¡l Ã¡llapotban.}
+{198}{}{AdminisztrÃ¡ciÃ³: BiztonsÃ¡gi lÃ¶vegek Ã¡tmenetileg deaktivÃ¡lt mÃ³dban.}
 {199}{}{Information and Power plant Level: Security turrets currently at Armed Alert status.}
 {200}{}{Information and Power plant Level: Security turrets currently at Normal status.}
 {201}{}{Information and Power plant Level: Security turrets currently at Deactivated Maintenance status.}
 {202}{}{Adjust security level.}
-{203}{}{A Nemzet helyzete: Jelenlegi státusz                        }
-{204}{}{Letöltés: Szavak listája                                    }
+{203}{}{A Nemzet helyzete: Jelenlegi stÃ¡tusz                        }
+{204}{}{LetÃ¶ltÃ©s: Szavak listÃ¡ja                                    }
 {205}{}{Download Chemical Corps: Project Status Report.}
 {206}{}{Download A. E. C.: Atomic Power plant Operations.}
 {207}{}{Security status.}
-{208}{}{Vissza az azonosításhoz:                                    }
-{209}{}{A letöltés befejez?dött.                                    }
+{208}{}{Vissza az azonosÃ­tÃ¡shoz:                                    }
+{209}{}{A letÃ¶ltÃ©s befejez?dÃ¶tt.                                    }
 {210}{}{Download State of the Nation: Current status.}
-{211}{}{Letöltés: Szavak listája                                    }
-{212}{}{Biztonság/Szint: Jelenlegi állapot                          }
+{211}{}{LetÃ¶ltÃ©s: Szavak listÃ¡ja                                    }
+{212}{}{BiztonsÃ¡g/Szint: Jelenlegi Ã¡llapot                          }
 {213}{}{Download A. E. C.: Atomic Power plant Operations.}
 {215}{}{Security Status.}
-{216}{}{Vissza az azonosításhoz:                                    }
-{217}{}{A letöltés befejez?dött.                                    }
+{216}{}{Vissza az azonosÃ­tÃ¡shoz:                                    }
+{217}{}{A letÃ¶ltÃ©s befejez?dÃ¶tt.                                    }
 {218}{}{Download State of the Nation: Current status.}
-{219}{}{Letöltés: Szavak listája                                    }
-{220}{}{Biztonság/Szint: Jelenlegi állapot                          }
+{219}{}{LetÃ¶ltÃ©s: Szavak listÃ¡ja                                    }
+{220}{}{BiztonsÃ¡g/Szint: Jelenlegi Ã¡llapot                          }
 {221}{}{Download Chemical Corps: Project Status Report.}
 {222}{}{Security status.}
-{223}{}{Vissza az azonosításhoz:                                    }
-{224}{}{Ez a terminál mélydiagnosztikai m?veleteket végez. Kérjük, próbálkozzon egy másik terminálnál! Köszönjük.}
-{225}{}{Üdvözöljük a PoseidoNet Súgójában. Sajnálattal közöljük, hogy a Súgó állománya elavult, és átmenetileg nem is elérhet?. Keres frissítést?}
+{223}{}{Vissza az azonosÃ­tÃ¡shoz:                                    }
+{224}{}{Ez a terminÃ¡l mÃ©lydiagnosztikai m?veleteket vÃ©gez. KÃ©rjÃ¼k, prÃ³bÃ¡lkozzon egy mÃ¡sik terminÃ¡lnÃ¡l! KÃ¶szÃ¶njÃ¼k.}
+{225}{}{ÃœdvÃ¶zÃ¶ljÃ¼k a PoseidoNet SÃºgÃ³jÃ¡ban. SajnÃ¡lattal kÃ¶zÃ¶ljÃ¼k, hogy a SÃºgÃ³ Ã¡llomÃ¡nya elavult, Ã©s Ã¡tmenetileg nem is elÃ©rhet?. Keres frissÃ­tÃ©st?}
 {226}{}{Igen.}
 {227}{}{No, Back.}
-{228}{}{A frissítés nem lehetséges a próbaid?szakos PoseidoNet szoftverrel. Kérjük, vásárolja meg a teljes verziót a teljes hozzáféréshez. Az Ön tesztid?szaka 59.439 napja lejárt.}
-{229}{}{Vissza a bejelentkezéshez.}
+{228}{}{A frissÃ­tÃ©s nem lehetsÃ©ges a prÃ³baid?szakos PoseidoNet szoftverrel. KÃ©rjÃ¼k, vÃ¡sÃ¡rolja meg a teljes verziÃ³t a teljes hozzÃ¡fÃ©rÃ©shez. Az Ã–n tesztid?szaka 59.439 napja lejÃ¡rt.}
+{229}{}{Vissza a bejelentkezÃ©shez.}
 {230}{}{End session.}
-{231}{}{A Biztonsági rendszerek felülírása csak elnöki kulcskártyával lehetséges. Újabb menüpontok: Felkelés elfojtása, Vészvédelmi rendszerek leállítása.}
-{232}{}{(Hm, nézzük meg ezt!) Lázadás elfojtása.}
-{233}{}{(Hm, vessünk rá egy pillantást!) Vészvédelmi rendszerek leállítása.}
-{234}{}{(Inkább valami kevésbé gázos dologgal próbálkozom.) Vissza az azonosításhoz.}
+{231}{}{A BiztonsÃ¡gi rendszerek felÃ¼lÃ­rÃ¡sa csak elnÃ¶ki kulcskÃ¡rtyÃ¡val lehetsÃ©ges. Ãšjabb menÃ¼pontok: FelkelÃ©s elfojtÃ¡sa, VÃ©szvÃ©delmi rendszerek leÃ¡llÃ­tÃ¡sa.}
+{232}{}{(Hm, nÃ©zzÃ¼k meg ezt!) LÃ¡zadÃ¡s elfojtÃ¡sa.}
+{233}{}{(Hm, vessÃ¼nk rÃ¡ egy pillantÃ¡st!) VÃ©szvÃ©delmi rendszerek leÃ¡llÃ­tÃ¡sa.}
+{234}{}{(InkÃ¡bb valami kevÃ©sbÃ© gÃ¡zos dologgal prÃ³bÃ¡lkozom.) Vissza az azonosÃ­tÃ¡shoz.}
 {235}{}{(I don't think I want to mess with this right now.) Log Off.}
-{236}{}{Felkelés elfojtása. Fegyveres lázadás esetén az elnöki kulcskártya lehet?vé teszi a védelmi rendszerek átprogramozását, hogy az el?z?leg lojális, de id?közben veszélyessé vált embereket támadja. A védelmi rendszer a mindenkori leger?sebb egyént célozza. Figyelmeztetés! Átmenetileg csak a Belép? szinten m?ködtethet?!}
-{237}{}{(Ez használható lehet.) Aktiválás - Felkelés elfojtása protokoll.}
+{236}{}{FelkelÃ©s elfojtÃ¡sa. Fegyveres lÃ¡zadÃ¡s esetÃ©n az elnÃ¶ki kulcskÃ¡rtya lehet?vÃ© teszi a vÃ©delmi rendszerek Ã¡tprogramozÃ¡sÃ¡t, hogy az el?z?leg lojÃ¡lis, de id?kÃ¶zben veszÃ©lyessÃ© vÃ¡lt embereket tÃ¡madja. A vÃ©delmi rendszer a mindenkori leger?sebb egyÃ©nt cÃ©lozza. FigyelmeztetÃ©s! Ãtmenetileg csak a BelÃ©p? szinten m?kÃ¶dtethet?!}
+{237}{}{(Ez hasznÃ¡lhatÃ³ lehet.) AktivÃ¡lÃ¡s - FelkelÃ©s elfojtÃ¡sa protokoll.}
 {238}{}{(Maybe I'll give that a shot some other time.) Back.}
-{239}{}{(Nem akarok szórakozni most ezzel.) Kijelentkezés.}
+{239}{}{(Nem akarok szÃ³rakozni most ezzel.) KijelentkezÃ©s.}
 {240}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Counter Insurgency Protocol initiated... Target acquired.}
-{241}{}{(Lássuk, mi történik!)}
+{241}{}{(LÃ¡ssuk, mi tÃ¶rtÃ©nik!)}
 {242}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Counter Insurgency Protocol initiated...**Malfunction**... Security link offline on this level. Please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
-{243}{}{(Ja, szóval a Belép? szint alatt a dokk utáni területet érti. Akkor ott majd m?ködni fog.) Vissza az azonosításhoz.}
+{243}{}{(Ja, szÃ³val a BelÃ©p? szint alatt a dokk utÃ¡ni terÃ¼letet Ã©rti. Akkor ott majd m?kÃ¶dni fog.) Vissza az azonosÃ­tÃ¡shoz.}
 {244}{}{(I wonder what else I can try?) Back.}
-{245}{}{A protokoll aktiválásához elnöki kulcskártya szükséges. A kártya nem található.}
+{245}{}{A protokoll aktivÃ¡lÃ¡sÃ¡hoz elnÃ¶ki kulcskÃ¡rtya szÃ¼ksÃ©ges. A kÃ¡rtya nem talÃ¡lhatÃ³.}
 {246}{}{(I wonder what else I can try?) Back.}
-{247}{}{A Vészvédelmi rendszerek leállítása átmenetileg az összes aktív védelmi eszközt lekapcsolja szintr?l-szintre. A leállítást, miel?tt a rendszerek újraindulnának, hosszú mélydiagnosztika követi.}
-{248}{}{(Ez jónak hangzik.) Aktiválás - Vészvédelmi rendszerek leállítása.}
-{249}{}{(Hm, talán kicsit kés?bb.) Vissza.}
-{250}{}{(Nem akarok szórakozni most ezzel.) Kijelentkezés.}
+{247}{}{A VÃ©szvÃ©delmi rendszerek leÃ¡llÃ­tÃ¡sa Ã¡tmenetileg az Ã¶sszes aktÃ­v vÃ©delmi eszkÃ¶zt lekapcsolja szintr?l-szintre. A leÃ¡llÃ­tÃ¡st, miel?tt a rendszerek ÃºjraindulnÃ¡nak, hosszÃº mÃ©lydiagnosztika kÃ¶veti.}
+{248}{}{(Ez jÃ³nak hangzik.) AktivÃ¡lÃ¡s - VÃ©szvÃ©delmi rendszerek leÃ¡llÃ­tÃ¡sa.}
+{249}{}{(Hm, talÃ¡n kicsit kÃ©s?bb.) Vissza.}
+{250}{}{(Nem akarok szÃ³rakozni most ezzel.) KijelentkezÃ©s.}
 {251}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Defensive Systems Shutdown initiated... Performing deep diagnostic. Alpha....Bravo....Charlie....}
-{252}{}{(Nem akarok ezzel bajlódni.) Vissza.}
-{253}{}{(Jobb, ha sietek, amíg ez megy.) Kijelentkezés.}
+{252}{}{(Nem akarok ezzel bajlÃ³dni.) Vissza.}
+{253}{}{(Jobb, ha sietek, amÃ­g ez megy.) KijelentkezÃ©s.}
 {254}{}{Presidential Security Passkey not recognized. Access denied.}
-{255}{}{(Hm, kíváncsi vagyok, ki tudom-e játszani a szkennert, ha belenyúlok a fájlokba. Megpróbálom.)}
-{256}{}{(Hát, azért szép próbálkozás volt.) Vissza.}
-{257}{}{Biztonsági szkenner üzemzavar... Szkenner újrakalibrálása...}
-{258}{}{(Na, most ugrik a majom a vízbe, vajon felismeri-e a "kártyát"...)}
+{255}{}{(Hm, kÃ­vÃ¡ncsi vagyok, ki tudom-e jÃ¡tszani a szkennert, ha belenyÃºlok a fÃ¡jlokba. MegprÃ³bÃ¡lom.)}
+{256}{}{(HÃ¡t, azÃ©rt szÃ©p prÃ³bÃ¡lkozÃ¡s volt.) Vissza.}
+{257}{}{BiztonsÃ¡gi szkenner Ã¼zemzavar... Szkenner ÃºjrakalibrÃ¡lÃ¡sa...}
+{258}{}{(Na, most ugrik a majom a vÃ­zbe, vajon felismeri-e a "kÃ¡rtyÃ¡t"...)}
 {259}{}{(Damn, well nothing ventured...) Back.}
-{260}{}{Szkenner újrakalibrálva. Újraszkennelés...}
-{261}{}{(Na, itt a nagy alkalom!) - Lázasan gépelsz.}
-{262}{}{Illegális tevékenységet észleltem. További hozzáférés megtagadva. Riadó!}
-{263}{}{A picsába! Egyáltalán nem ezt akartam!}
+{260}{}{Szkenner ÃºjrakalibrÃ¡lva. ÃšjraszkennelÃ©s...}
+{261}{}{(Na, itt a nagy alkalom!) - LÃ¡zasan gÃ©pelsz.}
+{262}{}{IllegÃ¡lis tevÃ©kenysÃ©get Ã©szleltem. TovÃ¡bbi hozzÃ¡fÃ©rÃ©s megtagadva. RiadÃ³!}
+{263}{}{A picsÃ¡ba! EgyÃ¡ltalÃ¡n nem ezt akartam!}
 {264}{}{Presidential Security Passkey recognized. Good day, Mr. President. (Yes! Now let's see what I can do...)}
 {265}{}{(What else can I do?)}
 {266}{}{Presidential Security Passkey recognized. Good day, Mr. President... Emergency Counter Insurgency Protocol initiated... **Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}

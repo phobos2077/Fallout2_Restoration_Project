@@ -1,1 +1,1 @@
-{100}{}{Bejutottál Menedékváros menedékébe.}
+{100}{}{BejutottÃ¡l MenedÃ©kvÃ¡ros menedÃ©kÃ©be.}

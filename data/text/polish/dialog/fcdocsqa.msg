@@ -1,22 +1,22 @@
-{100}{}{Widzisz brudn¹, zaniedban¹ osobê.}
-{101}{}{Widzisz osiedleñca.}
-{102}{}{Widzisz brudn¹, zaniedban¹ osobê.}
-{103}{}{To chyba najfajniejszy lokal w jakim zdarzy³o mi siê mieszkaæ!}
+{100}{}{Widzisz brudnÄ…, zaniedbanÄ… osobÄ™.}
+{101}{}{Widzisz osiedleÅ„ca.}
+{102}{}{Widzisz brudnÄ…, zaniedbanÄ… osobÄ™.}
+{103}{}{To chyba najfajniejszy lokal w jakim zdarzyÅ‚o mi siÄ™ mieszkaÄ‡!}
 {104}{}{Ach... morska bryza!}
-{105}{}{To dopiero ¿ycie, co? ¯adnych szefów, ¿adnych rz¹dów... Tylko orzeŸwiaj¹ce morskie powietrze.}
-{106}{}{Tam pod wod¹ jest samochód. Szkoda tylko, ¿e przerdzewia³.}
-{107}{}{Dzieciaki pewnie œwietnie siê tu bawi¹.}
-{108}{}{Co noc œwie¿e owoce morza! Niez³e, nawet, jeœli maj¹ kilka g³ów za du¿o.}
-{109}{}{Ale s¹siadów to mamy naprawdê "ciekawych".}
-{110}{}{Kiedyœ siê st¹d wyprowadzimy, s³owo honoru.}
-{111}{}{Podoba ci siê nasz dom?}
-{112}{}{Uwielbiam ¿ycie na pla¿y.}
-{113}{}{Nie rób mi krzywdy!}
-{114}{}{Nie! Nie rób mi krzywdy!}
+{105}{}{To dopiero Å¼ycie, co? Å»adnych szefÃ³w, Å¼adnych rzÄ…dÃ³w... Tylko orzeÅºwiajÄ…ce morskie powietrze.}
+{106}{}{Tam pod wodÄ… jest samochÃ³d. Szkoda tylko, Å¼e przerdzewiaÅ‚.}
+{107}{}{Dzieciaki pewnie Å›wietnie siÄ™ tu bawiÄ….}
+{108}{}{Co noc Å›wieÅ¼e owoce morza! NiezÅ‚e, nawet, jeÅ›li majÄ… kilka gÅ‚Ã³w za duÅ¼o.}
+{109}{}{Ale sÄ…siadÃ³w to mamy naprawdÄ™ "ciekawych".}
+{110}{}{KiedyÅ› siÄ™ stÄ…d wyprowadzimy, sÅ‚owo honoru.}
+{111}{}{Podoba ci siÄ™ nasz dom?}
+{112}{}{Uwielbiam Å¼ycie na plaÅ¼y.}
+{113}{}{Nie rÃ³b mi krzywdy!}
+{114}{}{Nie! Nie rÃ³b mi krzywdy!}
 {115}{}{Zostaw moje dzieci w spokoju!}
-{116}{}{Stój! Nie mêcz nas ju¿!}
-{117}{}{Zrobiê co zechcesz!}
+{116}{}{StÃ³j! Nie mÄ™cz nas juÅ¼!}
+{117}{}{ZrobiÄ™ co zechcesz!}
 {118}{}{Pomocy!}
-{119}{}{Och nie! Ciemiê¿yciel!}
-{120}{}{Gdybyœmy tylko mieli stra¿!}
-{121}{}{Teraz ¿a³ujê, ¿e nie stanowiê czêœci zwartej spo³ecznoœci...}
+{119}{}{Och nie! CiemiÄ™Å¼yciel!}
+{120}{}{GdybyÅ›my tylko mieli straÅ¼!}
+{121}{}{Teraz Å¼aÅ‚ujÄ™, Å¼e nie stanowiÄ™ czÄ™Å›ci zwartej spoÅ‚ecznoÅ›ci...}

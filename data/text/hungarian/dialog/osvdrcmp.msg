@@ -1,2 +1,2 @@
-{100}{}{A menedék ajtajának terminálját látod.}
-{101}{}{Úgy t?nik, ez a számítógép egy közeli ajtót vezérel.}
+{100}{}{A menedÃ©k ajtajÃ¡nak terminÃ¡ljÃ¡t lÃ¡tod.}
+{101}{}{Ãšgy t?nik, ez a szÃ¡mÃ­tÃ³gÃ©p egy kÃ¶zeli ajtÃ³t vezÃ©rel.}

@@ -1,30 +1,30 @@
 {100}{}{Widzisz obywatela Kryptopolis.}
-{101}{}{Widzisz za³atwiaj¹cego siê obywatela w jasnoniebieskim stroju.}
-{102}{}{Heh, nawet bym zaklaska³, ale akurat teraz mam zajête rêce.}
-{103}{}{Wspaniale ¿eœ za³atwi³ wszystkich w Enklawie. Ich te¿ zaskoczy³eœ w kiblu?}
-{104}{}{S³uchaj, z chêci¹ bym pos³ucha³ o twoich wspania³ych podbojach, ale tak siê sk³ada, ¿e teraz siê za³atwiam.}
-{105}{}{Wynocha! Cholerni zboczeñcy! Ale ju¿!}
-{106}{}{Wiedzia³em, ¿e nie powinienem piæ tyle syntetycznego alkoholu.}
-{107}{}{Czujê siê jakbym by³ tutaj od zawsze.}
+{101}{}{Widzisz zaÅ‚atwiajÄ…cego siÄ™ obywatela w jasnoniebieskim stroju.}
+{102}{}{Heh, nawet bym zaklaskaÅ‚, ale akurat teraz mam zajÄ™te rÄ™ce.}
+{103}{}{Wspaniale Å¼eÅ› zaÅ‚atwiÅ‚ wszystkich w Enklawie. Ich teÅ¼ zaskoczyÅ‚eÅ› w kiblu?}
+{104}{}{SÅ‚uchaj, z chÄ™ciÄ… bym posÅ‚uchaÅ‚ o twoich wspaniaÅ‚ych podbojach, ale tak siÄ™ skÅ‚ada, Å¼e teraz siÄ™ zaÅ‚atwiam.}
+{105}{}{Wynocha! Cholerni zboczeÅ„cy! Ale juÅ¼!}
+{106}{}{WiedziaÅ‚em, Å¼e nie powinienem piÄ‡ tyle syntetycznego alkoholu.}
+{107}{}{CzujÄ™ siÄ™ jakbym byÅ‚ tutaj od zawsze.}
 {108}{}{Aaaaaach.}
-{109}{}{Czujê siê obna¿ony. Zupe³nie jakby ktoœ mnie podgl¹da³.}
-{110}{}{Nie ma nic lepszego jak porz¹dne ul¿enie sobie...}
+{109}{}{CzujÄ™ siÄ™ obnaÅ¼ony. ZupeÅ‚nie jakby ktoÅ› mnie podglÄ…daÅ‚.}
+{110}{}{Nie ma nic lepszego jak porzÄ…dne ulÅ¼enie sobie...}
 {111}{}{Nie przeszkadzaj mi... cholera! Moja noga!}
-{112}{}{Nie mów nic. Czuje, ¿e mi siê wraca.}
-{113}{}{S³uchaj, "Dziecko Przeznaczenia", staram tu siê skupiæ, jasne?}
-{114}{}{Chcia³bym, ¿eby wreszcie zamontowali tu kabiny.}
-{115}{}{Ludzie, którzy gadaj¹ w szalecie musz¹ siê jeszcze sporo nauczyæ, je¿eli chodzi o dobre wychowanie.}
-{116}{}{Myœlê, ¿e pomyli³eœ mnie z kimœ kto siê NIE ZA£ATWIA!}
-{117}{}{Co to ma znaczyæ? Jakiœ szaletowy wywiad czy co?}
-{118}{}{No œwietnie. Teraz zrób mi zdjêcie i umieœæ w internecie.}
-{119}{}{Wiedzia³em, ¿e szalet to nie by³ dobry pomys³.}
-{120}{}{Nie teraz, skarbie. Wiesz, jest taka sprawa... ODLEWAM SIÊ.}
-{121}{}{Przykro mi, z³otko, ale ³azienka nie zrobi tego sama za mnie.}
-{122}{}{Co to jest? Hotel? Mo¿esz siê przesun¹æ?}
-{123}{}{Myœlê, ¿e zasz³o nieporozumienie. Ja NIE LUBIE poznawaæ ludzi w ubikacji.}
-{124}{}{Nie, nie bêdê ciê uczy³ jak korzystaæ z ubikacji.}
-{125}{}{Mutant! Stra¿! Stra¿!}
-{126}{}{Ghul! Stra¿! Stra¿!}
-{127}{}{Ej! Nie pchaj siê! Czekaj na swoj¹ kolej!}
-{128}{}{Tam dalej jest inna ubikacja, idŸ tam!}
+{112}{}{Nie mÃ³w nic. Czuje, Å¼e mi siÄ™ wraca.}
+{113}{}{SÅ‚uchaj, "Dziecko Przeznaczenia", staram tu siÄ™ skupiÄ‡, jasne?}
+{114}{}{ChciaÅ‚bym, Å¼eby wreszcie zamontowali tu kabiny.}
+{115}{}{Ludzie, ktÃ³rzy gadajÄ… w szalecie muszÄ… siÄ™ jeszcze sporo nauczyÄ‡, jeÅ¼eli chodzi o dobre wychowanie.}
+{116}{}{MyÅ›lÄ™, Å¼e pomyliÅ‚eÅ› mnie z kimÅ› kto siÄ™ NIE ZAÅATWIA!}
+{117}{}{Co to ma znaczyÄ‡? JakiÅ› szaletowy wywiad czy co?}
+{118}{}{No Å›wietnie. Teraz zrÃ³b mi zdjÄ™cie i umieÅ›Ä‡ w internecie.}
+{119}{}{WiedziaÅ‚em, Å¼e szalet to nie byÅ‚ dobry pomysÅ‚.}
+{120}{}{Nie teraz, skarbie. Wiesz, jest taka sprawa... ODLEWAM SIÄ˜.}
+{121}{}{Przykro mi, zÅ‚otko, ale Å‚azienka nie zrobi tego sama za mnie.}
+{122}{}{Co to jest? Hotel? MoÅ¼esz siÄ™ przesunÄ…Ä‡?}
+{123}{}{MyÅ›lÄ™, Å¼e zaszÅ‚o nieporozumienie. Ja NIE LUBIE poznawaÄ‡ ludzi w ubikacji.}
+{124}{}{Nie, nie bÄ™dÄ™ ciÄ™ uczyÅ‚ jak korzystaÄ‡ z ubikacji.}
+{125}{}{Mutant! StraÅ¼! StraÅ¼!}
+{126}{}{Ghul! StraÅ¼! StraÅ¼!}
+{127}{}{Ej! Nie pchaj siÄ™! Czekaj na swojÄ… kolej!}
+{128}{}{Tam dalej jest inna ubikacja, idÅº tam!}
 {129}{}{Jeszcze raz mnie popchniesz a naleje na ciebie. Zrozumiano?}

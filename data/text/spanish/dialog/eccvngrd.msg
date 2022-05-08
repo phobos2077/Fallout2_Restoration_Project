@@ -1,11 +1,11 @@
 {100}{}{Ves a un guardia.}
-{101}{}{Ves a uno de los guardias que te acompaÒa en esta ruta.}
+{101}{}{Ves a uno de los guardias que te acompa√±a en esta ruta.}
 {200}{}{Ves a un conductor de caravanas.}
-{201}{}{Ves a uno de los conductores que te acompaÒa en esta ruta.}
+{201}{}{Ves a uno de los conductores que te acompa√±a en esta ruta.}
 {300}{}{Espero que no tengamos demasiados encuentros a lo largo del camino.}
-{301}{}{SerÌa bueno llegar a recibir el salario al final de la ruta.}
-{302}{}{Espero que el bar estÈ abierto cuando lleguemos allÌ.}
-{303}{}{SerÌa bueno conseguir algo de comida de verdad por una vez.}
-{304}{}{Siempre he querido viajar. Supongo que esto es lo m·s cercano que se puede hacer.}
-{305}{}{Me est·n matando los pies. Ojala esos malditos brahmines se dieran prisa.}
-{306}{}{He oÌdo que no nos falta mucho para llegar por esta direcciÛn.}
+{301}{}{Ser√≠a bueno llegar a recibir el salario al final de la ruta.}
+{302}{}{Espero que el bar est√© abierto cuando lleguemos all√≠.}
+{303}{}{Ser√≠a bueno conseguir algo de comida de verdad por una vez.}
+{304}{}{Siempre he querido viajar. Supongo que esto es lo m√°s cercano que se puede hacer.}
+{305}{}{Me est√°n matando los pies. Ojala esos malditos brahmines se dieran prisa.}
+{306}{}{He o√≠do que no nos falta mucho para llegar por esta direcci√≥n.}

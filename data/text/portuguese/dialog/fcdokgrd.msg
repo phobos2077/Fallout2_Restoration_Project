@@ -1,45 +1,45 @@
-{100}{}{Você vê um guarda com roupas soltas, usando um olhar de tédio cauteloso.}
-{101}{}{Você vê um guarda-costas. Ele está excepcionalmente bem armado.}
-{102}{}{Você vê o guarda da lancha.}
+{100}{}{VocÃª vÃª um guarda com roupas soltas, usando um olhar de tÃ©dio cauteloso.}
+{101}{}{VocÃª vÃª um guarda-costas. Ele estÃ¡ excepcionalmente bem armado.}
+{102}{}{VocÃª vÃª o guarda da lancha.}
 {150}{}{Hey! Passo longe!}
-{151}{}{Nem pense nisso. Este é o seu último aviso.}
+{151}{}{Nem pense nisso. Este Ã© o seu Ãºltimo aviso.}
 {152}{}{Eu avisei, lao wai, agora morre!}
-{200}{}{O que você quer, lao wai?}
-{201}{}{É você de novo. O que é que você quer, lao wai?}
-{202}{}{O que você está protegendo?}
+{200}{}{O que vocÃª quer, lao wai?}
+{201}{}{Ã‰ vocÃª de novo. O que Ã© que vocÃª quer, lao wai?}
+{202}{}{O que vocÃª estÃ¡ protegendo?}
 {203}{}{Eu preciso usar o barco.}
 {204}{}{Nada. Tchau.}
-{210}{}{Tudo. Não tente nada de engraçado.}
-{211}{}{Você não pode ser mais específico?}
-{220}{}{Não. Agora, afastado, estranho.}
+{210}{}{Tudo. NÃ£o tente nada de engraÃ§ado.}
+{211}{}{VocÃª nÃ£o pode ser mais especÃ­fico?}
+{220}{}{NÃ£o. Agora, afastado, estranho.}
 {221}{}{Tudo bem. Tchau.}
-{222}{}{Ninguém me diz o que fazer. Você está fodidamente morto!}
-{230}{}{E eu preciso que você caia fora logo. Você não tem permissão para usar a lancha, inferno, você é um lao wai, não um Shi.}
-{231}{}{Escute, estou numa situação desesperada. Se você não me deixar usar aquela lancha, minha tribo toda poderia morrer.
-  Agora, eles estão nas garras desses bastardos do Enclave e eles estão contando comigo para salvá-los. Mas, a fim de
-  fazer isso, eu vou precisar usar essa lancha. Se você não me deixar usar, eu vou ter que assumi-lo pela força e um de
-  Nós acabara morrendo. Por favor, não deixe isso acontecer.}
-{232}{}{Na verdade, sou membro honorário do Shi. Eu fui contratado para a equipe de manutenção de submarinos devido à minha experiência em ... subologia. Aqui está a minha senha ...}
-{233}{}{Eu não acho que você percebe quem você está insultando. Hora de morrer, idiota.}
+{222}{}{NinguÃ©m me diz o que fazer. VocÃª estÃ¡ fodidamente morto!}
+{230}{}{E eu preciso que vocÃª caia fora logo. VocÃª nÃ£o tem permissÃ£o para usar a lancha, inferno, vocÃª Ã© um lao wai, nÃ£o um Shi.}
+{231}{}{Escute, estou numa situaÃ§Ã£o desesperada. Se vocÃª nÃ£o me deixar usar aquela lancha, minha tribo toda poderia morrer.
+Â  Agora, eles estÃ£o nas garras desses bastardos do Enclave e eles estÃ£o contando comigo para salvÃ¡-los. Mas, a fim de
+Â  fazer isso, eu vou precisar usar essa lancha. Se vocÃª nÃ£o me deixar usar, eu vou ter que assumi-lo pela forÃ§a e um de
+Â  NÃ³s acabara morrendo. Por favor, nÃ£o deixe isso acontecer.}
+{232}{}{Na verdade, sou membro honorÃ¡rio do Shi. Eu fui contratado para a equipe de manutenÃ§Ã£o de submarinos devido Ã  minha experiÃªncia em ... subologia. Aqui estÃ¡ a minha senha ...}
+{233}{}{Eu nÃ£o acho que vocÃª percebe quem vocÃª estÃ¡ insultando. Hora de morrer, idiota.}
 {234}{}{Tudo bem, vou indo... *risada*, algumas pessoas ...}
-{240}{}{[Ele olha para você por um longo momento, depois suspira.] Olha, ninguém entra neste barco sem dar a senha adequada. Você sabe, como aquela que você acabou de me dar. [Murmura.] Ken Lee vai ter minha cabeça por isso ...}
-{241}{}{Obrigado amigo E não se preocupe, não falarei nada disso a ninguém. }
-{250}{}{Eu espero que não, por ambos os nossos bens... Deixe-me saber quando você está pronto para usar o barco. Você não pode trazer ninguém com você, pois vai chamar muita atenção. Você terá que ir sozinho.}
-{251}{}{Eu gostaria de usá-lo agora.}
-{252}{}{Não agora.}
-{260}{}{[O guarda escuta a senha e assente.] Eu acho que você realmente é um técnico. Hmm, o Shi deve ficar desesperado para contratar pessoas de fora ... Enfim, você está cedo. Eles não disseram que a equipe de tecnologia não deixa o porto até a meia-noite? Você pode esperar o resto da equipe aqui, se desejar.}
-{261}{}{Eu realmente não tenho nada melhor para fazer, então, com certeza...}
+{240}{}{[Ele olha para vocÃª por um longo momento, depois suspira.] Olha, ninguÃ©m entra neste barco sem dar a senha adequada. VocÃª sabe, como aquela que vocÃª acabou de me dar. [Murmura.] Ken Lee vai ter minha cabeÃ§a por isso ...}
+{241}{}{Obrigado amigo E nÃ£o se preocupe, nÃ£o falarei nada disso a ninguÃ©m. }
+{250}{}{Eu espero que nÃ£o, por ambos os nossos bens... Deixe-me saber quando vocÃª estÃ¡ pronto para usar o barco. VocÃª nÃ£o pode trazer ninguÃ©m com vocÃª, pois vai chamar muita atenÃ§Ã£o. VocÃª terÃ¡ que ir sozinho.}
+{251}{}{Eu gostaria de usÃ¡-lo agora.}
+{252}{}{NÃ£o agora.}
+{260}{}{[O guarda escuta a senha e assente.] Eu acho que vocÃª realmente Ã© um tÃ©cnico. Hmm, o Shi deve ficar desesperado para contratar pessoas de fora ... Enfim, vocÃª estÃ¡ cedo. Eles nÃ£o disseram que a equipe de tecnologia nÃ£o deixa o porto atÃ© a meia-noite? VocÃª pode esperar o resto da equipe aqui, se desejar.}
+{261}{}{Eu realmente nÃ£o tenho nada melhor para fazer, entÃ£o, com certeza...}
 {262}{}{Eu vou voltar mais tarde.}
-{270}{}{Basta usar o poste de amarração e deslizar a corda para o barco. Não demoro muito lá fora, no entanto, não quero entrar em nenhum problema.}
+{270}{}{Basta usar o poste de amarraÃ§Ã£o e deslizar a corda para o barco. NÃ£o demoro muito lÃ¡ fora, no entanto, nÃ£o quero entrar em nenhum problema.}
 {271}{}{Tenho-o. Tchau.}
-{272}{}{Fácil o suficiente. Adeus.}
+{272}{}{FÃ¡cil o suficiente. Adeus.}
 {280}{}{Pronto para se juntar ao time de tecnologia?}
 {281}{}{Sim, eu estou pronto para ir.}
-{282}{}{Não, ainda não.}
-{290}{}{Você não pode ver que eu estou ocupado aqui?}
+{282}{}{NÃ£o, ainda nÃ£o.}
+{290}{}{VocÃª nÃ£o pode ver que eu estou ocupado aqui?}
 {300}{}{Eu passeio de peixes de peixe de metal?}
-{310}{}{[Ele olha para você como se você fosse a criatura mais estúpida que ele pudesse imaginar. Lentamente, ele balança a cabeça.] Você não anda
-  peixe-peixe de metal. Você vai. Você vai, ou eu atiro. Compreende?}
-{311}{}{Ok, até!}
-{312}{}{Você é um homem de verdade. Eu esmago homem de verdade!}
-{500}{}{Você fala a sua forma de obtenção de acesso ao barco a motor.}
+{310}{}{[Ele olha para vocÃª como se vocÃª fosse a criatura mais estÃºpida que ele pudesse imaginar. Lentamente, ele balanÃ§a a cabeÃ§a.] VocÃª nÃ£o anda
+Â  peixe-peixe de metal. VocÃª vai. VocÃª vai, ou eu atiro. Compreende?}
+{311}{}{Ok, atÃ©!}
+{312}{}{VocÃª Ã© um homem de verdade. Eu esmago homem de verdade!}
+{500}{}{VocÃª fala a sua forma de obtenÃ§Ã£o de acesso ao barco a motor.}

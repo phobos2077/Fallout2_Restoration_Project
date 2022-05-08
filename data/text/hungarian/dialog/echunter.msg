@@ -1,8 +1,8 @@
-{100}{}{Egy vadászt látsz.}
-{101}{}{Üdvözöllek, Kiválasztott!}
-{102}{}{Megtaláltad a szent ÉLET-et?}
-{103}{}{Mihamarabb térj vissza az ÉLET-tel!}
-{104}{}{Legyen az utad fájdalommentes!}
+{100}{}{Egy vadÃ¡szt lÃ¡tsz.}
+{101}{}{ÃœdvÃ¶zÃ¶llek, KivÃ¡lasztott!}
+{102}{}{MegtalÃ¡ltad a szent Ã‰LET-et?}
+{103}{}{Mihamarabb tÃ©rj vissza az Ã‰LET-tel!}
+{104}{}{Legyen az utad fÃ¡jdalommentes!}
 {105}{}{Hozd vissza, ami ide tartozik!}
-{106}{}{Sietned kell, Kiválasztott!}
-{107}{}{Imádkozunk érted, Kiválasztott.}
+{106}{}{Sietned kell, KivÃ¡lasztott!}
+{107}{}{ImÃ¡dkozunk Ã©rted, KivÃ¡lasztott.}

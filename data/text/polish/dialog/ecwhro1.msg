@@ -1,12 +1,12 @@
-{100}{}{Widzisz... model bia³ego bohatera gry.}
-{101}{}{Widzisz umiêœnionego mê¿czyznê w kombinezonie Krypty 13. Z uœmiechem opowiada jak¹œ historiê.}
-{102}{}{Widzisz model bia³ego bohatera gry. Opowiada coœ z uœmiechem.}
-{103}{}{Widzisz model bia³ego bohatera gry. Opowiada coœ z uœmiechem.}
-{104}{}{No i ten mój gracz... by³ taki g³upi, ¿e...}
-{105}{}{Ale to nie wszystko - wydaje mu siê, ¿e amunicja do strzelby to hydroprocesor, wiêc zanosi j¹ do Nadzorcy...}
-{106}{}{Co za dureñ!}
-{107}{}{Mia³em kiedyœ za gracza jednego z tych brutalnych troglodytów. Mówiê ci...}
-{108}{}{Przez jakiœ czas jest fajnie, ale szybko siê nudzi. W koñcu ile mo¿na bezmyœlnie zabijaæ.}
-{109}{}{Spêdziliœmy TRZY GODZINY na ekranie generowania postaci, zanim mój gracz wreszcie siê zdecydowa³ i zacz¹³ grê.}
-{110}{}{Ian stanowi³ wiêksze zagro¿enie dla mnie ni¿ dla naszych przeciwników. Mam nadziejê, ¿e goœæ kopn¹³ ju¿ w kalendarz.}
-{111}{}{Popatrz tylko, jakie mi zrobili miêœnie. Wygl¹dam jak kretyn! Co oni sobie myœl¹?!}
+{100}{}{Widzisz... model biaÅ‚ego bohatera gry.}
+{101}{}{Widzisz umiÄ™Å›nionego mÄ™Å¼czyznÄ™ w kombinezonie Krypty 13. Z uÅ›miechem opowiada jakÄ…Å› historiÄ™.}
+{102}{}{Widzisz model biaÅ‚ego bohatera gry. Opowiada coÅ› z uÅ›miechem.}
+{103}{}{Widzisz model biaÅ‚ego bohatera gry. Opowiada coÅ› z uÅ›miechem.}
+{104}{}{No i ten mÃ³j gracz... byÅ‚ taki gÅ‚upi, Å¼e...}
+{105}{}{Ale to nie wszystko - wydaje mu siÄ™, Å¼e amunicja do strzelby to hydroprocesor, wiÄ™c zanosi jÄ… do Nadzorcy...}
+{106}{}{Co za dureÅ„!}
+{107}{}{MiaÅ‚em kiedyÅ› za gracza jednego z tych brutalnych troglodytÃ³w. MÃ³wiÄ™ ci...}
+{108}{}{Przez jakiÅ› czas jest fajnie, ale szybko siÄ™ nudzi. W koÅ„cu ile moÅ¼na bezmyÅ›lnie zabijaÄ‡.}
+{109}{}{SpÄ™dziliÅ›my TRZY GODZINY na ekranie generowania postaci, zanim mÃ³j gracz wreszcie siÄ™ zdecydowaÅ‚ i zaczÄ…Å‚ grÄ™.}
+{110}{}{Ian stanowiÅ‚ wiÄ™ksze zagroÅ¼enie dla mnie niÅ¼ dla naszych przeciwnikÃ³w. Mam nadziejÄ™, Å¼e goÅ›Ä‡ kopnÄ…Å‚ juÅ¼ w kalendarz.}
+{111}{}{Popatrz tylko, jakie mi zrobili miÄ™Å›nie. WyglÄ…dam jak kretyn! Co oni sobie myÅ›lÄ…?!}

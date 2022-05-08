@@ -1,48 +1,48 @@
 {100}{}{Widzisz terminal komputerowy.}
-{101}{}{Widzisz komputer Centrologów.}
-{102}{}{Widzisz komputer. Pomimo ¿e jest prymitywny, wygl¹da na dobrze utrzymany.}
+{101}{}{Widzisz komputer CentrologÃ³w.}
+{102}{}{Widzisz komputer. Pomimo Å¼e jest prymitywny, wyglÄ…da na dobrze utrzymany.}
 {103}{}{Ta jednostka nie przyjmuje komend. Do widzenia.}
-{104}{}{[Pomimo wszystkich twoich prób nie udaje ci siê z³amaæ kodu, który kontroluje ten komputer]}
+{104}{}{[Pomimo wszystkich twoich prÃ³b nie udaje ci siÄ™ zÅ‚amaÄ‡ kodu, ktÃ³ry kontroluje ten komputer]}
 {105}{}{Wyloguj.}
 {106}{}{Witamy w CentroLinku.}
-{107}{}{Proszê teraz wprowadziæ komendy.}
-{108}{}{Udostêpnij bazê danych.}
-{109}{}{Udostêpnij sterowanie.}
+{107}{}{ProszÄ™ teraz wprowadziÄ‡ komendy.}
+{108}{}{UdostÄ™pnij bazÄ™ danych.}
+{109}{}{UdostÄ™pnij sterowanie.}
 {110}{}{Wyloguj.}
-{111}{}{Wybierz bazê danych.}
+{111}{}{Wybierz bazÄ™ danych.}
 {112}{}{Badania.}
-{113}{}{Przysz³e cele.}
+{113}{}{PrzyszÅ‚e cele.}
 {114}{}{Finanse.}
-{115}{}{Wróæ.}
-{116}{}{[Po przebrniêciu przez religijn¹ paplaninê wychodzi na jaw, ¿e Centrolodzy stworzyli œrodki do utwardzania pancerzy wspomaganych. ZnaleŸli równie¿ sposób na obliczenie trajektorii startowej, orbit i celów w przestrzeni. Dalej, wygl¹da na to, ¿e pracuj¹ nad kontrol¹ pogody.]}
-{117}{}{Wróæ.}
-{118}{}{Wyloguj siê.}
-{119}{}{[Spêdzasz oko³o pó³ godziny czytaj¹c o celach, która UKC-9 stara siê osi¹gn¹æ. Dodatkowo, oprócz szeregowania i po³¹czenia z Gwiezdnym Ojcem, wygl¹da na to, ¿e nie mia³by ¿adnych obiekcji przed zniszczeniem ludzi, którzy nie byli z nim od samego pocz¹tku. Jest trochê szalony.]}
-{120}{}{Wróæ.}
-{121}{}{Wyloguj siê.}
-{122}{}{[Koœció³ Centrologiczny zdaje siê byæ przeogromnie bogaty. Standardowym podejœciem jest proœba do nowego rekruta o z³o¿enie ca³ej jego ziemskiej w³asnoœci w rêce Koœcio³a jako znak wiary. Je¿eli kogoœ siê o to nie pyta, oznacza to, ¿e Centrolodzy nie zamierzaj¹ post¹piæ z nim uczciwie. Maj¹ ogromne zapasy bogactwa ukryte gdzieœ na pustyni. Niestety nie mo¿esz znaleŸæ po³o¿enia tego miejsca.]}
-{123}{}{Wróæ.}
-{124}{}{Wyloguj siê.}
-{125}{}{Sterowanie udostêpnione. Wybierz operacjê.}
+{115}{}{WrÃ³Ä‡.}
+{116}{}{[Po przebrniÄ™ciu przez religijnÄ… paplaninÄ™ wychodzi na jaw, Å¼e Centrolodzy stworzyli Å›rodki do utwardzania pancerzy wspomaganych. ZnaleÅºli rÃ³wnieÅ¼ sposÃ³b na obliczenie trajektorii startowej, orbit i celÃ³w w przestrzeni. Dalej, wyglÄ…da na to, Å¼e pracujÄ… nad kontrolÄ… pogody.]}
+{117}{}{WrÃ³Ä‡.}
+{118}{}{Wyloguj siÄ™.}
+{119}{}{[SpÄ™dzasz okoÅ‚o pÃ³Å‚ godziny czytajÄ…c o celach, ktÃ³ra UKC-9 stara siÄ™ osiÄ…gnÄ…Ä‡. Dodatkowo, oprÃ³cz szeregowania i poÅ‚Ä…czenia z Gwiezdnym Ojcem, wyglÄ…da na to, Å¼e nie miaÅ‚by Å¼adnych obiekcji przed zniszczeniem ludzi, ktÃ³rzy nie byli z nim od samego poczÄ…tku. Jest trochÄ™ szalony.]}
+{120}{}{WrÃ³Ä‡.}
+{121}{}{Wyloguj siÄ™.}
+{122}{}{[KoÅ›ciÃ³Å‚ Centrologiczny zdaje siÄ™ byÄ‡ przeogromnie bogaty. Standardowym podejÅ›ciem jest proÅ›ba do nowego rekruta o zÅ‚oÅ¼enie caÅ‚ej jego ziemskiej wÅ‚asnoÅ›ci w rÄ™ce KoÅ›cioÅ‚a jako znak wiary. JeÅ¼eli kogoÅ› siÄ™ o to nie pyta, oznacza to, Å¼e Centrolodzy nie zamierzajÄ… postÄ…piÄ‡ z nim uczciwie. MajÄ… ogromne zapasy bogactwa ukryte gdzieÅ› na pustyni. Niestety nie moÅ¼esz znaleÅºÄ‡ poÅ‚oÅ¼enia tego miejsca.]}
+{123}{}{WrÃ³Ä‡.}
+{124}{}{Wyloguj siÄ™.}
+{125}{}{Sterowanie udostÄ™pnione. Wybierz operacjÄ™.}
 {126}{}{Sformatuj twardy dysk.}
-{127}{}{SprawdŸ status systemu.}
-{128}{}{Wróæ.}
-{129}{}{Wyloguj siê.}
-{130}{}{Operacja wymaga wy¿szych uprawnieñ. Skontaktuj siê z administratorem systemu. Wylogowujê siê. Do widzenia.}
+{127}{}{SprawdÅº status systemu.}
+{128}{}{WrÃ³Ä‡.}
+{129}{}{Wyloguj siÄ™.}
+{130}{}{Operacja wymaga wyÅ¼szych uprawnieÅ„. Skontaktuj siÄ™ z administratorem systemu. WylogowujÄ™ siÄ™. Do widzenia.}
 {131}{}{[dalej]}
 {132}{}{Nie widzisz do tego interfejsu.}
 {133}{}{ESS Quetzel zatankowany i gotowy do startu.}
 {134}{}{ESS Quetzel niezatankowany.}
-{135}{}{G³ówny uk³ad w³¹czony. Ruroci¹g dzia³a. Stacje badawcze w³¹czone. Centrum naprawcze sprawne. Kamery aktywne.}
-{136}{}{Wróæ.}
+{135}{}{GÅ‚Ã³wny ukÅ‚ad wÅ‚Ä…czony. RurociÄ…g dziaÅ‚a. Stacje badawcze wÅ‚Ä…czone. Centrum naprawcze sprawne. Kamery aktywne.}
+{136}{}{WrÃ³Ä‡.}
 {137}{}{Wyloguj.}
-{200}{}{[Koœció³ Centrologów musi byæ baaardzo bogaty. Ka¿dy nowy cz³onek Koœcio³a oddaje wszystkie swoje dobra jako znak dobrej woli. Je¿eli ktoœ nie zostanie o to poproszony, oznacza to, ¿e Centrolodzy nie zamierzaj¹ postêpowaæ uczciwie z danym kandydatem. Maj¹ ogromy tajny sk³ad takich ³upów gdzieœ na pustyni. Po w³amaniu siê do ich systemu i dokonaniu paru obliczeñ, udaje ci siê okreœliæ po³o¿enie ich kryjówki. Zaznaczasz je w PipBoyu.]}
-{201}{}{[Koœció³ Centrologów musi byæ baaardzo bogaty. Ka¿dy nowy cz³onek Koœcio³a oddaje wszystkie swoje dobra jako znak dobrej woli. Je¿eli ktoœ nie zostanie o to poproszony, oznacza to, ¿e Centrolodzy nie zamierzaj¹ postêpowaæ uczciwie z danym kandydatem. Maj¹ ogromy tajny sk³ad takich ³upów gdzieœ na pustyni. Ju¿ masz wspó³rzêdne ich kryjówki.]}
-{210}{}{W³am siê do systemu.}
-{211}{}{[Po pewnym czasie udaje ci siê uzyskaæ pe³ny dostêp administratora do jednostki centralnej. Teraz mo¿esz zrobiæ co zechcesz z ich systemem.]}
+{200}{}{[KoÅ›ciÃ³Å‚ CentrologÃ³w musi byÄ‡ baaardzo bogaty. KaÅ¼dy nowy czÅ‚onek KoÅ›cioÅ‚a oddaje wszystkie swoje dobra jako znak dobrej woli. JeÅ¼eli ktoÅ› nie zostanie o to poproszony, oznacza to, Å¼e Centrolodzy nie zamierzajÄ… postÄ™powaÄ‡ uczciwie z danym kandydatem. MajÄ… ogromy tajny skÅ‚ad takich Å‚upÃ³w gdzieÅ› na pustyni. Po wÅ‚amaniu siÄ™ do ich systemu i dokonaniu paru obliczeÅ„, udaje ci siÄ™ okreÅ›liÄ‡ poÅ‚oÅ¼enie ich kryjÃ³wki. Zaznaczasz je w PipBoyu.]}
+{201}{}{[KoÅ›ciÃ³Å‚ CentrologÃ³w musi byÄ‡ baaardzo bogaty. KaÅ¼dy nowy czÅ‚onek KoÅ›cioÅ‚a oddaje wszystkie swoje dobra jako znak dobrej woli. JeÅ¼eli ktoÅ› nie zostanie o to poproszony, oznacza to, Å¼e Centrolodzy nie zamierzajÄ… postÄ™powaÄ‡ uczciwie z danym kandydatem. MajÄ… ogromy tajny skÅ‚ad takich Å‚upÃ³w gdzieÅ› na pustyni. JuÅ¼ masz wspÃ³Å‚rzÄ™dne ich kryjÃ³wki.]}
+{210}{}{WÅ‚am siÄ™ do systemu.}
+{211}{}{[Po pewnym czasie udaje ci siÄ™ uzyskaÄ‡ peÅ‚ny dostÄ™p administratora do jednostki centralnej. Teraz moÅ¼esz zrobiÄ‡ co zechcesz z ich systemem.]}
 {212}{}{Formatuj dysk systemowy.}
-{213}{}{Rozpoczynam procedurê formatowania...Rozpoczêto...Formatowanie...Formatowanie zakoñczone...System zostanie zamkniêty. Do widzenia.}
-{220}{}{Uda³o ci siê sformatowaæ dysk g³ównego komputera Centrologów.}
+{213}{}{Rozpoczynam procedurÄ™ formatowania...RozpoczÄ™to...Formatowanie...Formatowanie zakoÅ„czone...System zostanie zamkniÄ™ty. Do widzenia.}
+{220}{}{UdaÅ‚o ci siÄ™ sformatowaÄ‡ dysk gÅ‚Ã³wnego komputera CentrologÃ³w.}
 {250}{}{Skieruj paliwo do tankowca Posejdon.}
-{251}{}{Paliwo przes³ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
+{251}{}{Paliwo przesÅ‚ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
 {252}{}{[dalej]}

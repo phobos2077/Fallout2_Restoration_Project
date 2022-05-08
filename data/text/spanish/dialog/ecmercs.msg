@@ -1,6 +1,6 @@
 {100}{}{Ves a un mercenario.}
-{101}{}{¡Practicas de tiro, chicos!}
-{102}{}{Blanco fácil.}
+{101}{}{Â¡Practicas de tiro, chicos!}
+{102}{}{Blanco fÃ¡cil.}
 {103}{}{Corre... me gustan los blancos que se mueven.}
-{104}{}{¡Zona de muerte!}
+{104}{}{Â¡Zona de muerte!}
 {105}{}{Contacto hostil confirmado.}

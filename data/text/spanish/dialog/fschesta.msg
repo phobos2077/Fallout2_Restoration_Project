@@ -1,39 +1,39 @@
 {100}{}{Ves un terminal de computadora.}
-{101}{}{Ves la estaci髇 de trabajo de Qu韒ica.}
-{102}{}{Ves una computadora tipo estaci髇 de trabajo.}
-{103}{}{Saludos. Por favor, introduzca su contrase馻 para confirmar su identidad.}
+{101}{}{Ves la estaci贸n de trabajo de Qu铆mica.}
+{102}{}{Ves una computadora tipo estaci贸n de trabajo.}
+{103}{}{Saludos. Por favor, introduzca su contrase帽a para confirmar su identidad.}
 {104}{}{? No entiendo palabras raras.}
 {105}{}{TIUASPO-Lo-Shi-S12908}
 {106}{}{Piratear la computadora.}
 {107}{}{Salir.}
-{108}{}{Base de datos Qu韒ica: Combustible y derivados  - Pol韒eros}
+{108}{}{Base de datos Qu铆mica: Combustible y derivados  - Pol铆meros}
 {109}{}{Combustible y derivados.}
-{110}{}{Pol韒eros.}
-{111}{}{Desactivar estaci髇 de trabajo.}
+{110}{}{Pol铆meros.}
+{111}{}{Desactivar estaci贸n de trabajo.}
 {112}{}{Salir.}
-{113}{}{Por favor, hable con el administrador del sistema. Adi髎.}
+{113}{}{Por favor, hable con el administrador del sistema. Adi贸s.}
 {114}{}{Piratear la computadora.}
 {115}{}{Te marchas.}
-{116}{}{Activada alerta de intrusi髇. Apagando. Que tenga un buen d韆.}
+{116}{}{Activada alerta de intrusi贸n. Apagando. Que tenga un buen d铆a.}
 {117}{}{[HECHO]}
-{118}{}{(Tras analizar las complejas f髍mulas qu韒icas y notas de laboratorio, concluyes que los Shi han creado un tipo de combustible a partir de extractos de plantas y vida marina. Aparentemente, se han conectado a oleoductos ya existentes para poder transportar el combustible a una gran variedad de destinos).}
-{119}{}{(Te encuentras una gran cantidad de complejas f髍mulas qu韒icas y notas de laboratorio. No est醩 muy seguro de lo que significa todo esto).}
+{118}{}{(Tras analizar las complejas f贸rmulas qu铆micas y notas de laboratorio, concluyes que los Shi han creado un tipo de combustible a partir de extractos de plantas y vida marina. Aparentemente, se han conectado a oleoductos ya existentes para poder transportar el combustible a una gran variedad de destinos).}
+{119}{}{(Te encuentras una gran cantidad de complejas f贸rmulas qu铆micas y notas de laboratorio. No est谩s muy seguro de lo que significa todo esto).}
 {120}{}{Dirigir combustible al petrolero Poseidon.}
 {121}{}{Dirigir combustible a los Hubologistas.}
-{122}{}{Atr醩.}
-{123}{}{(Una vez sorteada la simbolog韆 y la discusi髇 t閏nica, descubres que los Shi est醤 trabajando en una nueva clase de armadura de combate polim閞ica resistente tanto a la llama como a la penetraci髇. Faltan a駉s para que se complete. Tambi閚 ves una menci髇 a nuevo armamento y habilidades de construcci髇. Aparentemente, los Shi tienen algunos planes para el futuro).}
-{124}{}{Atr醩.}
-{125}{}{Combustible dirigido a petici髇. Tanques de almacenamiento = Vac韔s. Cerrando programa.}
+{122}{}{Atr谩s.}
+{123}{}{(Una vez sorteada la simbolog铆a y la discusi贸n t茅cnica, descubres que los Shi est谩n trabajando en una nueva clase de armadura de combate polim茅rica resistente tanto a la llama como a la penetraci贸n. Faltan a帽os para que se complete. Tambi茅n ves una menci贸n a nuevo armamento y habilidades de construcci贸n. Aparentemente, los Shi tienen algunos planes para el futuro).}
+{124}{}{Atr谩s.}
+{125}{}{Combustible dirigido a petici贸n. Tanques de almacenamiento = Vac铆os. Cerrando programa.}
 {126}{}{[HECHO]}
-{127}{}{Combustible dirigido a petici髇. Tanques de almacenamiento = Vac韔s. Cerrando programa.}
+{127}{}{Combustible dirigido a petici贸n. Tanques de almacenamiento = Vac铆os. Cerrando programa.}
 {128}{}{[HECHO]}
-{129}{}{Estaci髇 desactivada.}
-{130}{}{Activar estaci髇.}
+{129}{}{Estaci贸n desactivada.}
+{130}{}{Activar estaci贸n.}
 {131}{}{Te marchas.}
-{132}{}{[Tu acercamiento al azar ha hecho maravillas... as accedido a la m醧uina!]}
-{133}{}{[M罶]}
-{134}{}{La computadora no responde a ning鷑 comando.}
+{132}{}{[Tu acercamiento al azar ha hecho maravillas... 隆has accedido a la m谩quina!]}
+{133}{}{[M脕S]}
+{134}{}{La computadora no responde a ning煤n comando.}
 {135}{}{No parece que puedas encontrar nada en lo que poner eso.}
-{136}{}{Adivinar la contrase馻.}
-{137}{}{Dirigir combustible a trav閟 del oleoducto.}
+{136}{}{Adivinar la contrase帽a.}
+{137}{}{Dirigir combustible a trav茅s del oleoducto.}
 {138}{}{Destino requerido.}

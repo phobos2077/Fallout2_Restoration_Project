@@ -1,2 +1,2 @@
-{100}{}{Una carga explosiva despejaría el paso con facilidad.}
-{200}{}{Has destruido las rocas que te impedían el paso.}
+{100}{}{Una carga explosiva despejarÃ­a el paso con facilidad.}
+{200}{}{Has destruido las rocas que te impedÃ­an el paso.}

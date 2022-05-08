@@ -1,8 +1,8 @@
 {100}{}{Ves a un tribal.}
-{101}{}{Usted ve un cautivo tribales del Médico.}
-{102}{}{Un aspecto triste prisionero, perteneciente al Médico.}
+{101}{}{Usted ve un cautivo tribales del MÃ©dico.}
+{102}{}{Un aspecto triste prisionero, perteneciente al MÃ©dico.}
 {103}{}{AYUDA!}
-{104}{}{AYÚDANOS!!!}
+{104}{}{AYÃšDANOS!!!}
 {105}{}{Por favor nos libre!!}
-{106}{}{No podemos asumir más!!}
+{106}{}{No podemos asumir mÃ¡s!!}
 {107}{}{Gracias, amigo!}

@@ -1,50 +1,50 @@
-{100}{}{Egy Polgárt látsz világoskék overálban ami olyan, mint a Menedéklakó ruhája, csak nics szám a hátulján.}
-{101}{}{Darrow, az  "A" Komfort Osztály vezet?je.}
-{102}{}{Egy Polgárt látsz világoskék overálban ami olyan, mint a Menedéklakó ruhája, csak nics szám a hátulján.}
+{100}{}{Egy PolgÃ¡rt lÃ¡tsz vilÃ¡goskÃ©k overÃ¡lban ami olyan, mint a MenedÃ©klakÃ³ ruhÃ¡ja, csak nics szÃ¡m a hÃ¡tuljÃ¡n.}
+{101}{}{Darrow, az  "A" Komfort OsztÃ¡ly vezet?je.}
+{102}{}{Egy PolgÃ¡rt lÃ¡tsz vilÃ¡goskÃ©k overÃ¡lban ami olyan, mint a MenedÃ©klakÃ³ ruhÃ¡ja, csak nics szÃ¡m a hÃ¡tuljÃ¡n.}
 {103}{}{::tapsol::}
-{104}{}{Itt a h?s! Nézzétek!}
-{105}{}{Atya ég! Itt a h?s, Menedékvárosban!}
-{106}{}{Jó napot, Kapitány.}
-{107}{}{Menedékváros mindenek felett, Kapitány.}
-{108}{}{Jó napot, Polgártárs!}
-{109}{}{Menedékváros mindenek felett, Polgártárs.}
-{110}{}{Egy mutáns! ?rség! ?rség!!!}
-{111}{}{Egy ghoul! ?rség! ?rség!!!}
-{112}{}{Szükségünk lesz még pár szerszámra Reddingb?l.}
+{104}{}{Itt a h?s! NÃ©zzÃ©tek!}
+{105}{}{Atya Ã©g! Itt a h?s, MenedÃ©kvÃ¡rosban!}
+{106}{}{JÃ³ napot, KapitÃ¡ny.}
+{107}{}{MenedÃ©kvÃ¡ros mindenek felett, KapitÃ¡ny.}
+{108}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{109}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs.}
+{110}{}{Egy mutÃ¡ns! ?rsÃ©g! ?rsÃ©g!!!}
+{111}{}{Egy ghoul! ?rsÃ©g! ?rsÃ©g!!!}
+{112}{}{SzÃ¼ksÃ©gÃ¼nk lesz mÃ©g pÃ¡r szerszÃ¡mra Reddingb?l.}
 {113}{}{Unalmas nap ez a mai.}
-{114}{}{Meglepne, ha Randal végzett volna már a szállítólevelekkel.}
-{115}{}{Hisz tegnap adtam oda a leltár-jegyzéket Randalnak. Micsoda fejetlenség.}
-{116}{}{A Lista Hivatal sokkal hamarabb végezne egy ilyen munkával.}
-{117}{}{A szolgák elkoptatták a szerszámok zömét. Örülnék, ha jobban vigyáznának rá.}
-{118}{}{Jól jönne egy kis vakáció.}
-{119}{}{Az "A" Komfort Osztály éjjel zárva van, gyere vissza reggel!}
-{120}{}{Már leltározok, gyere vissza reggel!}
-{121}{}{Zárva vagyunk. Próbáld meg Boldog Harrynél, ha nagyon sürg?s!}
-{122}{}{Segíthetek valamiben, Kapitány?}
-{123}{}{Segíthetnék valamiben, Polgártárs?}
-{124}{}{Igen? Segíthetek?}
-{125}{}{Segít én? Tiira-riira taraaaaam}
+{114}{}{Meglepne, ha Randal vÃ©gzett volna mÃ¡r a szÃ¡llÃ­tÃ³levelekkel.}
+{115}{}{Hisz tegnap adtam oda a leltÃ¡r-jegyzÃ©ket Randalnak. Micsoda fejetlensÃ©g.}
+{116}{}{A Lista Hivatal sokkal hamarabb vÃ©gezne egy ilyen munkÃ¡val.}
+{117}{}{A szolgÃ¡k elkoptattÃ¡k a szerszÃ¡mok zÃ¶mÃ©t. Ã–rÃ¼lnÃ©k, ha jobban vigyÃ¡znÃ¡nak rÃ¡.}
+{118}{}{JÃ³l jÃ¶nne egy kis vakÃ¡ciÃ³.}
+{119}{}{Az "A" Komfort OsztÃ¡ly Ã©jjel zÃ¡rva van, gyere vissza reggel!}
+{120}{}{MÃ¡r leltÃ¡rozok, gyere vissza reggel!}
+{121}{}{ZÃ¡rva vagyunk. PrÃ³bÃ¡ld meg Boldog HarrynÃ©l, ha nagyon sÃ¼rg?s!}
+{122}{}{SegÃ­thetek valamiben, KapitÃ¡ny?}
+{123}{}{SegÃ­thetnÃ©k valamiben, PolgÃ¡rtÃ¡rs?}
+{124}{}{Igen? SegÃ­thetek?}
+{125}{}{SegÃ­t Ã©n? Tiira-riira taraaaaam}
 {126}{}{[Elcsoszogsz]}
-{127}{}{Mi ez a hely tulajdonképpen?}
-{128}{}{Láthatnám az áruját?}
-{129}{}{Kösz, egyel?re elleszek magam is.}
-{130}{}{Várj egy pillanatot, rendben? Hozok valakit, aki megmutatja neked a kijáratot.}
-{131}{}{NEM ÉN NEM MENNI}
+{127}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{128}{}{LÃ¡thatnÃ¡m az Ã¡rujÃ¡t?}
+{129}{}{KÃ¶sz, egyel?re elleszek magam is.}
+{130}{}{VÃ¡rj egy pillanatot, rendben? Hozok valakit, aki megmutatja neked a kijÃ¡ratot.}
+{131}{}{NEM Ã‰N NEM MENNI}
 {132}{}{Okiiii-dokiiii}
-{133}{}{Megjegyzem, hogy sok a dolgom. Legközelebb El?városban vásárolj, Boldog Harry boltjában, rendben?}
-{134}{}{Öö, köszi.}
-{135}{}{Ez itt nem... a piac?! Bocsánat, hülye vagyok, szegény apámtól örököltem. Na, t?njünk innen!}
-{136}{}{Köszönöm. Menedékváros mindenek felett, Polgártárs!}
-{137}{}{Köszönöm. Menedékváros mindenek felett, Kapitány!}
-{138}{}{Menedékváros mindenek felett, Polgártárs.}
-{139}{}{Jó napot, Polgártárs!}
-{140}{}{Ez itt az "A" Komfort Osztály. Komoly készleteink vannak szerszámokból, javító eszközökb?l. A nevem Darrow. Biztos, hogy jó helyen jársz?}
-{141}{}{Ez itt az "A" Komfort Osztály. Mi tároljuk a város szerszámait, javító eszközeit. Biztos, hogy jó helyen jársz?}
-{142}{}{Láthatnám az áruját?}
-{143}{}{Igen, ezt kerestem. Láthatnám a készleteidet?}
-{144}{}{Kösz, egyel?re elleszek magam is.}
-{145}{}{Nem hiszem. Viszlát!}
-{146}{}{Hé! Azt hagyd békén!}
-{147}{}{Elég! Mars ki innen!}
-{148}{}{Köszi.}
-{149}{}{[tovább]}
+{133}{}{Megjegyzem, hogy sok a dolgom. LegkÃ¶zelebb El?vÃ¡rosban vÃ¡sÃ¡rolj, Boldog Harry boltjÃ¡ban, rendben?}
+{134}{}{Ã–Ã¶, kÃ¶szi.}
+{135}{}{Ez itt nem... a piac?! BocsÃ¡nat, hÃ¼lye vagyok, szegÃ©ny apÃ¡mtÃ³l Ã¶rÃ¶kÃ¶ltem. Na, t?njÃ¼nk innen!}
+{136}{}{KÃ¶szÃ¶nÃ¶m. MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs!}
+{137}{}{KÃ¶szÃ¶nÃ¶m. MenedÃ©kvÃ¡ros mindenek felett, KapitÃ¡ny!}
+{138}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs.}
+{139}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{140}{}{Ez itt az "A" Komfort OsztÃ¡ly. Komoly kÃ©szleteink vannak szerszÃ¡mokbÃ³l, javÃ­tÃ³ eszkÃ¶zÃ¶kb?l. A nevem Darrow. Biztos, hogy jÃ³ helyen jÃ¡rsz?}
+{141}{}{Ez itt az "A" Komfort OsztÃ¡ly. Mi tÃ¡roljuk a vÃ¡ros szerszÃ¡mait, javÃ­tÃ³ eszkÃ¶zeit. Biztos, hogy jÃ³ helyen jÃ¡rsz?}
+{142}{}{LÃ¡thatnÃ¡m az Ã¡rujÃ¡t?}
+{143}{}{Igen, ezt kerestem. LÃ¡thatnÃ¡m a kÃ©szleteidet?}
+{144}{}{KÃ¶sz, egyel?re elleszek magam is.}
+{145}{}{Nem hiszem. ViszlÃ¡t!}
+{146}{}{HÃ©! Azt hagyd bÃ©kÃ©n!}
+{147}{}{ElÃ©g! Mars ki innen!}
+{148}{}{KÃ¶szi.}
+{149}{}{[tovÃ¡bb]}

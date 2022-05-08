@@ -1,5 +1,5 @@
-{100}{}{To takie niesamowite... ale czy to by≥ jej ogrodnik czy szwagier kuzynki jej przyjaciÛ≥ki? Och, rozbola≥a mnie g≥owa.}
-{101}{}{To takie piÍkne... Ale on na niπ nie zas≥ugiwa≥.}
-{102}{}{<pociπga nosem>}
-{103}{}{Dlaczego ja w ogÛle czytam te brednie?}
-{200}{}{Po przeczytaniu ksiπøki masz w g≥owie kwiatki i motylki, ale nic nie zyskujesz.}
+{100}{}{To takie niesamowite... ale czy to by≈Ç jej ogrodnik czy szwagier kuzynki jej przyjaci√≥≈Çki? Och, rozbola≈Ça mnie g≈Çowa.}
+{101}{}{To takie piƒôkne... Ale on na niƒÖ nie zas≈Çugiwa≈Ç.}
+{102}{}{<pociƒÖga nosem>}
+{103}{}{Dlaczego ja w og√≥le czytam te brednie?}
+{200}{}{Po przeczytaniu ksiƒÖ≈ºki masz w g≈Çowie kwiatki i motylki, ale nic nie zyskujesz.}

@@ -1,36 +1,36 @@
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±
 #
 # Text labels and messages used in PIPBOY.C
 #
 # (These MUST match "text message" enumeration on the top of PIPBOY.C)
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±
 
 
-# Hubologist - Centrolog  = zam. z Hubologów
+# Hubologist - Centrolog  = zam. z HubologÃ³w
 # Hub, Huba, Piasta itd. ? = Centra, Centrobel
 
 #
 # Special holiday dates
 #
-{100}{}{Szczêœliwego Nowego Roku!}            # New years
-{101}{}{Szczêœliwego Dnia œw. Walentego!}     # April fools
-{102}{}{Weso³ego Prima Aprilis!}              # April fools
-{103}{}{Weso³ego dnia wysy³ki. }              # Shipping day!
-{104}{}{Szczêœliwego Dnia Niepodleg³oœci!}    # Independence day
-{105}{}{Weso³ego Halloween!}                  # Halloween
-{106}{}{Szczêœliwego Dnia Dziêkczynienia!}    # Thanksgiving
-{107}{}{Weso³ych Œwi¹t!}                      # X-mas
+{100}{}{SzczÄ™Å›liwego Nowego Roku!}            # New years
+{101}{}{SzczÄ™Å›liwego Dnia Å›w. Walentego!}     # April fools
+{102}{}{WesoÅ‚ego Prima Aprilis!}              # April fools
+{103}{}{WesoÅ‚ego dnia wysyÅ‚ki. }              # Shipping day!
+{104}{}{SzczÄ™Å›liwego Dnia NiepodlegÅ‚oÅ›ci!}    # Independence day
+{105}{}{WesoÅ‚ego Halloween!}                  # Halloween
+{106}{}{SzczÄ™Å›liwego Dnia DziÄ™kczynienia!}    # Thanksgiving
+{107}{}{WesoÅ‚ych ÅšwiÄ…t!}                      # X-mas
 
 #
 # System messages
 #
-{200}{}{WIÊCEJ}
-{201}{}{POWRÓT}
+{200}{}{WIÄ˜CEJ}
+{201}{}{POWRÃ“T}
 {202}{}{STATUS}
-{203}{}{Brak bie¿¹cych zadañ.}
-{204}{}{WSKAZÓWKI}  # clues gone
+{203}{}{Brak bieÅ¼Ä…cych zadaÅ„.}
+{204}{}{WSKAZÃ“WKI}  # clues gone
 {205}{}{AUTOMAPY}
 {206}{}{ARCHIWA VIDEO}
 {207}{}{DANE}
@@ -41,27 +41,27 @@
 {212}{}{/}
 {213}{}{Strona}
 {214}{}{KONIEC}
-{215}{}{Nie mo¿esz odpoczywaæ w tym miejscu!}
+{215}{}{Nie moÅ¼esz odpoczywaÄ‡ w tym miejscu!}
 
 #
 # Alarm clock
 #
 {300}{}{BUDZIK}
-{301}{}{Punkty wytrzyma³oœci}
-{302}{}{Odpoczynek dziesiêciominutowy}
+{301}{}{Punkty wytrzymaÅ‚oÅ›ci}
+{302}{}{Odpoczynek dziesiÄ™ciominutowy}
 {303}{}{Odpoczynek trzydziestominutowy}
 {304}{}{Odpoczynek godzinny}
 {305}{}{Odpoczynek dwugodzinny}
 {306}{}{Odpoczynek trzygodzinny}
 {307}{}{Odpoczynek czterogodzinny}
-{308}{}{Odpoczynek piêciogodzinny}
-{309}{}{Odpoczynek szeœciogodzinny}
+{308}{}{Odpoczynek piÄ™ciogodzinny}
+{309}{}{Odpoczynek szeÅ›ciogodzinny}
 {310}{}{Odpoczynek do rana (0800)}
-{311}{}{Odpoczynek do po³udnia (1200)}
+{311}{}{Odpoczynek do poÅ‚udnia (1200)}
 {312}{}{Odpoczynek do wieczora (1800)}
-{313}{}{Odpoczynek do pó³nocy (0000)}
-{314}{}{Odpoczynek do pe³nego wyleczenia}
-{315}{}{Odpoczynek do wyleczenia ca³ej ekipy}
+{313}{}{Odpoczynek do pÃ³Å‚nocy (0000)}
+{314}{}{Odpoczynek do peÅ‚nego wyleczenia}
+{315}{}{Odpoczynek do wyleczenia caÅ‚ej ekipy}
 
 #
 # Holodisk titles
@@ -77,14 +77,14 @@
 {408}{}{Sk. Sierra, nota ewakuacyjna}
 {409}{}{Sk. Sierra, kopia transmisji TV}
 {410}{}{Sk. Sierra, dekl. przeznaczenia}
-{411}{}{Nauki Centrologów}
+{411}{}{Nauki CentrologÃ³w}
 {412}{}{Zapiski proj. Kryptopolis}
-{413}{}{Przew. podró¿ny z Kryptopolis}
+{413}{}{Przew. podrÃ³Å¼ny z Kryptopolis}
 {414}{}{Holodysk szpiega z RNK}
 {415}{}{Holodysk z RNK - Broszura}
 {416}{}{Holodysk Westina}
-{417}{}{Orêdzie do narodu}
-{418}{}{Lista s³ówek}
+{417}{}{OrÄ™dzie do narodu}
+{418}{}{Lista sÅ‚Ã³wek}
 {419}{}{Projekt}
 {420}{}{Funkcjonowanie elektrowni}
 
@@ -93,22 +93,22 @@
 # Order must match the list (see gmovie.h)
 #
 {500}{}{Logo InterPlay}               # Not shown in Pipboy
-{501}{}{Wstêp}
+{501}{}{WstÄ™p}
 {502}{}{Przemowa Starszej Wioski}
 {503}{}{Odnalezienie kombinezonu z Krypty}
 {504}{}{Niepowodzenie w Arroyo}
 {505}{}{Unicestwienie Arroyo}
 {506}{}{Uruchomienie samochodu}
 {507}{}{Rodzina Cartuccich}
-{508}{}{Przywódca szponów œmierci}
-{509}{}{Rejs tankowcem na platformê wiertnicz¹}
-{510}{}{WiêŸniowie Enklawy}
+{508}{}{PrzywÃ³dca szponÃ³w Å›mierci}
+{509}{}{Rejs tankowcem na platformÄ™ wiertniczÄ…}
+{510}{}{WiÄ™Åºniowie Enklawy}
 {511}{}{Eksplozja na platformie wiertniczej}
 {512}{}{Pierwszy sen o Arroyo}
 {513}{}{Drugi sen o Arroyo}
 {514}{}{Trzeci sen o Arroyo}
 {515}{}{Czwarty sen o Arroyo}
-{516}{}{Twórcy}
+{516}{}{TwÃ³rcy}
 
 #
 # Things for the Mac version to speak
@@ -133,56 +133,56 @@
 # 1 ... 9 thread/quest name
 #
 {700}{}{Krypta 13}
-{701}{}{Spacyfikuj buntowników.}
-{702}{}{Wyeliminuj przywódcê mutantów.}
-{703}{}{Wyeliminuj Ÿród³o mutantów.}
-{704}{}{Zdob¹dŸ hydroprocesor.}
-{705}{}{Wykryj z³odzieja wody.}
+{701}{}{Spacyfikuj buntownikÃ³w.}
+{702}{}{Wyeliminuj przywÃ³dcÄ™ mutantÃ³w.}
+{703}{}{Wyeliminuj ÅºrÃ³dÅ‚o mutantÃ³w.}
+{704}{}{ZdobÄ…dÅº hydroprocesor.}
+{705}{}{Wykryj zÅ‚odzieja wody.}
 #
 {710}{}{Pogrzebana Krypta}
 #
 {720}{}{Cieniste Piaski}
 {721}{}{Wylecz Jarvisa z zatrucia jadem radskorpiona.}
-{722}{}{Sporz¹dŸ antidotum na jad.}
-{723}{}{Ocal Tandi z r¹k najeŸdŸców.}
+{722}{}{SporzÄ…dÅº antidotum na jad.}
+{723}{}{Ocal Tandi z rÄ…k najeÅºdÅºcÃ³w.}
 {724}{}{Powstrzymaj radskorpiony.}
 #
-{730}{}{Z³omowo}
-{731}{}{Pomó¿ Saulowi.}
+{730}{}{ZÅ‚omowo}
+{731}{}{PomÃ³Å¼ Saulowi.}
 {732}{}{Zabij Killiana.}
-{733}{}{Ocal Sinthiê.}
+{733}{}{Ocal SinthiÄ™.}
 {734}{}{Ocal Trish.}
 {735}{}{Powstrzymaj Gizma}
 {736}{}{Rozbij Czachy.}
 #
-{740}{}{NajeŸdŸcy}
+{740}{}{NajeÅºdÅºcy}
 #
 {750}{}{Nekropolis}
-{751}{}{Wyeliminuj supermutantów przy Wododziale.}
-{752}{}{Napraw pompê wodn¹ Nekropolis.}
+{751}{}{Wyeliminuj supermutantÃ³w przy Wododziale.}
+{752}{}{Napraw pompÄ™ wodnÄ… Nekropolis.}
 #
 {760}{}{Centrum}
-{761}{}{Wyeliminuj szpona œmierci.}
+{761}{}{Wyeliminuj szpona Å›mierci.}
 {762}{}{Wyeliminuj Jain.}
 {763}{}{Wyeliminuj kupca.}
-{764}{}{OdnajdŸ zaginione karawany.}
+{764}{}{OdnajdÅº zaginione karawany.}
 {765}{}{Ukradnij naszyjnik.}
 #
 {770}{}{Bractwo Stali}
-{771}{}{Zostañ kadetem.}
+{771}{}{ZostaÅ„ kadetem.}
 {772}{}{Ocal kadeta z Centrum.}
 #
 {780}{}{Baza Wojskowa}
 #
 {790}{}{Blask}
-{791}{}{Rozbrój pu³apki na obszarze kompleksu.}
+{791}{}{RozbrÃ³j puÅ‚apki na obszarze kompleksu.}
 {792}{}{Uruchom zasilanie kompleksu.}
 #
-{800}{}{Smêtarz}
-{801}{}{Zostañ Ostrzem.}
+{800}{}{SmÄ™tarz}
+{801}{}{ZostaÅ„ Ostrzem.}
 {802}{}{Dostarcz medalion w imieniu Romera.}
-{803}{}{Dostarcz przesy³kê od Zbrojeniowców.}
-{804}{}{Wykryj wœród Uczniów szpiega Dzieci.}
+{803}{}{Dostarcz przesyÅ‚kÄ™ od ZbrojeniowcÃ³w.}
+{804}{}{Wykryj wÅ›rÃ³d UczniÃ³w szpiega Dzieci.}
 {805}{}{Napraw hydroponiczne farmy Adytum.}
 {806}{}{Ocal Jasona Zimmermana.}
 {807}{}{Powstrzymaj gangi od atakowania Adytum.}
@@ -198,975 +198,975 @@
 #
 {1000}{}{HOLODYSK Ziggiego Z KRYPTY 13}
 {1001}{}{**END-PAR**}
-{1002}{}{Na tym dysku zapisane jest po³o¿enie Krypty 13. }
-{1003}{}{Lokalizacja zosta³a zaznaczona na twojej mapie. }
+{1002}{}{Na tym dysku zapisane jest poÅ‚oÅ¼enie Krypty 13. }
+{1003}{}{Lokalizacja zostaÅ‚a zaznaczona na twojej mapie. }
 {1004}{}{**END-DISK**}
 # *** ***
 # GVAR_HOLODISK_MB_OUTSIDE
 {2000}{}{Do: CHQ}
-{2001}{}{Nasi naukowcy zakoñczy³ wstêpne testy próbki}
-{2002}{}{zdobytej w bazie. Stopieñ czystoœci zosta³ okreœlony}
-{2003}{}{na 99%. Oczekujcie transportu wyników i samej próbki.}
-{2004}{}{Tak, jak siê tego spodziewaliœmy, populacja robotników}
-{2005}{}{uleg³a b³yskawicznej mutacji po wystawieniu na dzia³anie}
-{2006}{}{czystego Ÿród³a. Ponosimy ciê¿kie, ale akceptowalne}
-{2007}{}{straty. Wyda³em ju¿ rozkaz ewakuacji bazy. Jak tylko}
-{2008}{}{opuœci j¹ ostatni cz³owiek, wysadzimy wejœcie}
-{2009}{}{i zasypiemy tych sukinsynów w œrodku.}
+{2001}{}{Nasi naukowcy zakoÅ„czyÅ‚ wstÄ™pne testy prÃ³bki}
+{2002}{}{zdobytej w bazie. StopieÅ„ czystoÅ›ci zostaÅ‚ okreÅ›lony}
+{2003}{}{na 99%. Oczekujcie transportu wynikÃ³w i samej prÃ³bki.}
+{2004}{}{Tak, jak siÄ™ tego spodziewaliÅ›my, populacja robotnikÃ³w}
+{2005}{}{ulegÅ‚a bÅ‚yskawicznej mutacji po wystawieniu na dziaÅ‚anie}
+{2006}{}{czystego ÅºrÃ³dÅ‚a. Ponosimy ciÄ™Å¼kie, ale akceptowalne}
+{2007}{}{straty. WydaÅ‚em juÅ¼ rozkaz ewakuacji bazy. Jak tylko}
+{2008}{}{opuÅ›ci jÄ… ostatni czÅ‚owiek, wysadzimy wejÅ›cie}
+{2009}{}{i zasypiemy tych sukinsynÃ³w w Å›rodku.}
 {2010}{}{}
-{2011}{}{P³k. Sanders}
+{2011}{}{PÅ‚k. Sanders}
 {2012}{}{**END-DISK**}
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_1
-{3000}{}{Melduje siê kapitan Pickard z pierwszego punktu}
-{3001}{}{kontrolnego. Odciêty zosta³ wszelki kontakt z punktami}
-{3002}{}{kontrolnymi 2 i 3. Mo¿emy spodziewaæ siê najgorszego.}
-{3003}{}{Te stworzenia wspinaj¹ siê szybami wind. Wszelkie próby}
-{3004}{}{powstrzymania ich spe³z³y na niczym. Zrobimy wszystko,}
-{3005}{}{by zatrzymaæ atak na tej pozycji tak d³ugo, jak siê da.}
+{3000}{}{Melduje siÄ™ kapitan Pickard z pierwszego punktu}
+{3001}{}{kontrolnego. OdciÄ™ty zostaÅ‚ wszelki kontakt z punktami}
+{3002}{}{kontrolnymi 2 i 3. MoÅ¼emy spodziewaÄ‡ siÄ™ najgorszego.}
+{3003}{}{Te stworzenia wspinajÄ… siÄ™ szybami wind. Wszelkie prÃ³by}
+{3004}{}{powstrzymania ich speÅ‚zÅ‚y na niczym. Zrobimy wszystko,}
+{3005}{}{by zatrzymaÄ‡ atak na tej pozycji tak dÅ‚ugo, jak siÄ™ da.}
 {3006}{}{**END-DISK**}
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_2
-{4000}{}{Trzeci punkt kontrolny w defensywie. Zablokowaliœmy}
-{4001}{}{windy, ale i tak s³yszê, jak próbuj¹ wspinaæ siê w górê}
-{4002}{}{szybów. Jasna cholera! Wielkie, obrzydliwe, zielone}
-{4003}{}{stwory wy³a¿¹ z ni¿szych poziomów! To musi byæ to, o co}
-{4004}{}{chodzi³o dowództwu. Jacyœ cholerni super-¿o³nierze. Jak}
-{4005}{}{tylko zastrzelimy jednego, dwóch nastêpnych wy³azi mu}
-{4006}{}{zza pleców, a nim minie minuta, ten którego}
-{4007}{}{zastrzeliliœmy wstaje i kontynuuje atak na nasze}
+{4000}{}{Trzeci punkt kontrolny w defensywie. ZablokowaliÅ›my}
+{4001}{}{windy, ale i tak sÅ‚yszÄ™, jak prÃ³bujÄ… wspinaÄ‡ siÄ™ w gÃ³rÄ™}
+{4002}{}{szybÃ³w. Jasna cholera! Wielkie, obrzydliwe, zielone}
+{4003}{}{stwory wyÅ‚aÅ¼Ä… z niÅ¼szych poziomÃ³w! To musi byÄ‡ to, o co}
+{4004}{}{chodziÅ‚o dowÃ³dztwu. JacyÅ› cholerni super-Å¼oÅ‚nierze. Jak}
+{4005}{}{tylko zastrzelimy jednego, dwÃ³ch nastÄ™pnych wyÅ‚azi mu}
+{4006}{}{zza plecÃ³w, a nim minie minuta, ten ktÃ³rego}
+{4007}{}{zastrzeliliÅ›my wstaje i kontynuuje atak na nasze}
 {4008}{}{pozycje. Potrzebujemy natychmiastowego wspar...}
 {4009}{}{**END-DISK**}
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_3
-{5000}{}{Sier¿ant Bracks z punktu kontrolnego 3. Sytuacja bez}
-{5001}{}{zmian, tak jak wczoraj i o dziwo zupe³nie tak samo jak}
-{5002}{}{dzieñ wczeœniej. Nie wiem po jak¹ choinkê góra kaza³a}
-{5003}{}{nam pilnowaæ tych parszywych górników. S¹ tak wychudzeni}
-{5004}{}{i os³abieni, ¿e ledwie co s¹ w stanie podnieœæ kilof.}
-{5005}{}{Tak czy siak, jakiœ czas temu gryzipiórki przesz³y têdy}
-{5006}{}{nios¹c jak¹œ próbkê, wokó³ ktorej powsta³o strasznie}
-{5007}{}{du¿o szumu. Myœlisz, ¿e wreszcie znaleŸli to, czego tak}
-{5008}{}{d³ugo szukali? Mo¿e w koñcu uda nam siê wydostaæ z tego}
-{5009}{}{zapomnianego przez resztê œwiata miejsca, które}
-{5010}{}{wszystkich przyprawia o dreszcze. Chwila... Przyjecha³}
-{5011}{}{z do³u kolejny ³adunek... Mój bo¿e! Co to jest? Atakuj¹}
-{5012}{}{nasz¹ pozycjê! Proszê o natychmiastowe wsparcie!}
-{5013}{}{Powtarzam, tutaj punkt kontrolny 3, przyœlijcie}
+{5000}{}{SierÅ¼ant Bracks z punktu kontrolnego 3. Sytuacja bez}
+{5001}{}{zmian, tak jak wczoraj i o dziwo zupeÅ‚nie tak samo jak}
+{5002}{}{dzieÅ„ wczeÅ›niej. Nie wiem po jakÄ… choinkÄ™ gÃ³ra kazaÅ‚a}
+{5003}{}{nam pilnowaÄ‡ tych parszywych gÃ³rnikÃ³w. SÄ… tak wychudzeni}
+{5004}{}{i osÅ‚abieni, Å¼e ledwie co sÄ… w stanie podnieÅ›Ä‡ kilof.}
+{5005}{}{Tak czy siak, jakiÅ› czas temu gryzipiÃ³rki przeszÅ‚y tÄ™dy}
+{5006}{}{niosÄ…c jakÄ…Å› prÃ³bkÄ™, wokÃ³Å‚ ktorej powstaÅ‚o strasznie}
+{5007}{}{duÅ¼o szumu. MyÅ›lisz, Å¼e wreszcie znaleÅºli to, czego tak}
+{5008}{}{dÅ‚ugo szukali? MoÅ¼e w koÅ„cu uda nam siÄ™ wydostaÄ‡ z tego}
+{5009}{}{zapomnianego przez resztÄ™ Å›wiata miejsca, ktÃ³re}
+{5010}{}{wszystkich przyprawia o dreszcze. Chwila... PrzyjechaÅ‚}
+{5011}{}{z doÅ‚u kolejny Å‚adunek... MÃ³j boÅ¼e! Co to jest? AtakujÄ…}
+{5012}{}{naszÄ… pozycjÄ™! ProszÄ™ o natychmiastowe wsparcie!}
+{5013}{}{Powtarzam, tutaj punkt kontrolny 3, przyÅ›lijcie}
 {5014}{}{dodatkowe oddzia...}
 {5015}{}{**END-DISK**}
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_4
-{6000}{}{Wykopaliska przebiegaj¹ zgodnie z planem. S¹dz¹c po}
-{6001}{}{starych planach bazy, powinniœmy wkrótce dotrzeæ}
-{6002}{}{w okolice kadzi. W próbkach powietrza i gleby notujemy}
-{6003}{}{podwy¿szone stê¿enie FEV. Na szczêœcie nasze kombinezony}
-{6004}{}{zapewniaj¹ stosown¹ ochronê. Przeka¿ cz³onkom Enklawy,}
-{6005}{}{¿e wkrótce otrzymaj¹ próbkê czystego mutagenu.}
+{6000}{}{Wykopaliska przebiegajÄ… zgodnie z planem. SÄ…dzÄ…c po}
+{6001}{}{starych planach bazy, powinniÅ›my wkrÃ³tce dotrzeÄ‡}
+{6002}{}{w okolice kadzi. W prÃ³bkach powietrza i gleby notujemy}
+{6003}{}{podwyÅ¼szone stÄ™Å¼enie FEV. Na szczÄ™Å›cie nasze kombinezony}
+{6004}{}{zapewniajÄ… stosownÄ… ochronÄ™. PrzekaÅ¼ czÅ‚onkom Enklawy,}
+{6005}{}{Å¼e wkrÃ³tce otrzymajÄ… prÃ³bkÄ™ czystego mutagenu.}
 {6006}{}{**END-PAR**}
 #
-{6007}{}{Zauwa¿y³em te¿ zachodz¹ce w górnikach zmiany.}
-{6008}{}{Zwiêkszaj¹ca siê si³a, ¿ywotnoœæ, przebarwienia skóry}
-{6009}{}{stanowi¹ oczywiste dowody mutacji wywo³anej przez FEV.}
-{6010}{}{Ludzie zaczynaj¹ siê niepokoiæ, jako ¿e sami zd¹¿yli ju¿}
-{6011}{}{dostrzec oznaki tych przemian. Mimo, i¿ zleci³em}
-{6012}{}{podwojenie liczby stra¿ników obawiam siê, ¿e po}
-{6013}{}{zakoñczeniu procesu mutacji mo¿emy mieæ spore k³opoty.}
-{6014}{}{Mam jednak nadziejê, ¿e do pe³nego cyklu przemian nie}
-{6015}{}{dojdzie, jako ¿e do prac wykopaliskowych wybraliœmy}
-{6016}{}{przedstawicieli lokalnej populacji. Jeœli tylko nie}
-{6017}{}{zostan¹ wystawieni na bezpoœrednie dzia³anie czystego}
-{6018}{}{mutagenu, sytuacja nie powinna wymkn¹æ siê spod}
-{6019}{}{kontroli. Jak zapewne pamiêtasz, w tych okolicach}
-{6020}{}{wykryte zosta³y niewielkie iloœci wirusa. Testy}
-{6021}{}{przeprowadzone na mieszkañcach tego rejonu wykaza³y,}
-{6022}{}{¿e ich organizmy zd¹¿y³y wytworzyæ swoist¹ tolerancjê}
-{6023}{}{na dzia³anie FEV. Mimo to uwa¿am, ¿e powinniœmy zachowaæ}
-{6024}{}{daleko id¹ce œrodki ostro¿noœci, jako ¿e nigdy}
-{6025}{}{nie mieliœmy do czynienia z tak wysok¹ dawk¹ wirusa.}
-{6026}{}{Sugerujê permanentne zablokowanie wejœcia do bazy}
-{6027}{}{z chwil¹ zdobycia czystej próbki. Zapobiegnie to}
-{6028}{}{wydostaniu siê ska¿onych górników na zewn¹trz}
-{6029}{}{i uniemo¿liwi naszym wrogom zdobycie wirusa, gdy ju¿}
-{6030}{}{opuœcimy to miejsce.}
+{6007}{}{ZauwaÅ¼yÅ‚em teÅ¼ zachodzÄ…ce w gÃ³rnikach zmiany.}
+{6008}{}{ZwiÄ™kszajÄ…ca siÄ™ siÅ‚a, Å¼ywotnoÅ›Ä‡, przebarwienia skÃ³ry}
+{6009}{}{stanowiÄ… oczywiste dowody mutacji wywoÅ‚anej przez FEV.}
+{6010}{}{Ludzie zaczynajÄ… siÄ™ niepokoiÄ‡, jako Å¼e sami zdÄ…Å¼yli juÅ¼}
+{6011}{}{dostrzec oznaki tych przemian. Mimo, iÅ¼ zleciÅ‚em}
+{6012}{}{podwojenie liczby straÅ¼nikÃ³w obawiam siÄ™, Å¼e po}
+{6013}{}{zakoÅ„czeniu procesu mutacji moÅ¼emy mieÄ‡ spore kÅ‚opoty.}
+{6014}{}{Mam jednak nadziejÄ™, Å¼e do peÅ‚nego cyklu przemian nie}
+{6015}{}{dojdzie, jako Å¼e do prac wykopaliskowych wybraliÅ›my}
+{6016}{}{przedstawicieli lokalnej populacji. JeÅ›li tylko nie}
+{6017}{}{zostanÄ… wystawieni na bezpoÅ›rednie dziaÅ‚anie czystego}
+{6018}{}{mutagenu, sytuacja nie powinna wymknÄ…Ä‡ siÄ™ spod}
+{6019}{}{kontroli. Jak zapewne pamiÄ™tasz, w tych okolicach}
+{6020}{}{wykryte zostaÅ‚y niewielkie iloÅ›ci wirusa. Testy}
+{6021}{}{przeprowadzone na mieszkaÅ„cach tego rejonu wykazaÅ‚y,}
+{6022}{}{Å¼e ich organizmy zdÄ…Å¼yÅ‚y wytworzyÄ‡ swoistÄ… tolerancjÄ™}
+{6023}{}{na dziaÅ‚anie FEV. Mimo to uwaÅ¼am, Å¼e powinniÅ›my zachowaÄ‡}
+{6024}{}{daleko idÄ…ce Å›rodki ostroÅ¼noÅ›ci, jako Å¼e nigdy}
+{6025}{}{nie mieliÅ›my do czynienia z tak wysokÄ… dawkÄ… wirusa.}
+{6026}{}{SugerujÄ™ permanentne zablokowanie wejÅ›cia do bazy}
+{6027}{}{z chwilÄ… zdobycia czystej prÃ³bki. Zapobiegnie to}
+{6028}{}{wydostaniu siÄ™ skaÅ¼onych gÃ³rnikÃ³w na zewnÄ…trz}
+{6029}{}{i uniemoÅ¼liwi naszym wrogom zdobycie wirusa, gdy juÅ¼}
+{6030}{}{opuÅ›cimy to miejsce.}
 {6031}{}{**END-DISK**}
 #
-{7000}{}{Sk³ad Wojskowy Sierra - Dzia³ Analiz i Rozwoju}
-{7001}{}{Lekarz G³ówny - dr H. Lector}
+{7000}{}{SkÅ‚ad Wojskowy Sierra - DziaÅ‚ Analiz i Rozwoju}
+{7001}{}{Lekarz GÅ‚Ã³wny - dr H. Lector}
 {7002}{}{Dziennik osobisty}
 {7003}{}{**END-PAR**}
 {7004}{}{28 czerwca, 2077}
-{7005}{}{Dzisiaj ch³opaki z biosk³adu wyciêli mi niez³y numer.}
-{7006}{}{Jeden z nich zmieni³ ustawienia w automatycznym}
-{7007}{}{ekstraktorze organów. NieŸle siê zdziwi³em widz¹c}
-{7008}{}{szeregowego Callowa wyje¿d¿aj¹cego z sali operacyjnej}
-{7009}{}{bez wyrostka. Ca³e szczêœcie, ¿e i tak by³ martwy,}
-{7010}{}{inaczej mia³bym spore k³opoty. Przerobi³em maszynê tak,}
-{7011}{}{¿êby teraz poddawa³a ekstrakcji jedynie mózgi,}
-{7012}{}{wiêc wypadek ten siê nie powtórzy. Dopadnê ich za to.}
+{7005}{}{Dzisiaj chÅ‚opaki z bioskÅ‚adu wyciÄ™li mi niezÅ‚y numer.}
+{7006}{}{Jeden z nich zmieniÅ‚ ustawienia w automatycznym}
+{7007}{}{ekstraktorze organÃ³w. NieÅºle siÄ™ zdziwiÅ‚em widzÄ…c}
+{7008}{}{szeregowego Callowa wyjeÅ¼dÅ¼ajÄ…cego z sali operacyjnej}
+{7009}{}{bez wyrostka. CaÅ‚e szczÄ™Å›cie, Å¼e i tak byÅ‚ martwy,}
+{7010}{}{inaczej miaÅ‚bym spore kÅ‚opoty. PrzerobiÅ‚em maszynÄ™ tak,}
+{7011}{}{Å¼Ä™by teraz poddawaÅ‚a ekstrakcji jedynie mÃ³zgi,}
+{7012}{}{wiÄ™c wypadek ten siÄ™ nie powtÃ³rzy. DopadnÄ™ ich za to.}
 {7013}{}{**END-PAR**}
 {7014}{}{29 czerwca, 2077}
-{7015}{}{Usun¹³em w¹trobê szeregowego Callowa i ugotowa³em j¹}
-{7016}{}{z fasolk¹. Potem wys³a³em j¹ do tych cwaniaków}
-{7017}{}{z biosk³adu wraz z butelk¹ Chianti. Pomyœleli, ¿e to}
-{7018}{}{genera³ postanowi³ zafundowaæ im obiad w ramach}
-{7019}{}{podziêkowañ za wykonanie dobrej roboty.}
-{7020}{}{Uwielbiam swoj¹ pracê.}
+{7015}{}{UsunÄ…Å‚em wÄ…trobÄ™ szeregowego Callowa i ugotowaÅ‚em jÄ…}
+{7016}{}{z fasolkÄ…. Potem wysÅ‚aÅ‚em jÄ… do tych cwaniakÃ³w}
+{7017}{}{z bioskÅ‚adu wraz z butelkÄ… Chianti. PomyÅ›leli, Å¼e to}
+{7018}{}{generaÅ‚ postanowiÅ‚ zafundowaÄ‡ im obiad w ramach}
+{7019}{}{podziÄ™kowaÅ„ za wykonanie dobrej roboty.}
+{7020}{}{Uwielbiam swojÄ… pracÄ™.}
 {7021}{}{**END-PAR**}
 {7022}{}{30 czerwca, 2077}
-{7023}{}{Wypróbowa³em dziœ na jednym z pacjentów swój nowy}
-{7024}{}{koktajl z Wygrzewu, Psycho i paru specjalnych dodatków,}
-{7025}{}{z którymi ostatnio eksperymentowa³em. Rezultaty by³y}
-{7026}{}{obiecuj¹ce, choæ nieco niechlujne. Pacjent sta³ siê}
-{7027}{}{strasznie nerwowy i da³ radê wydostaæ siê ze swojego}
-{7028}{}{pomieszczenia. Na szczêœcie nowe roboty wartownicze by³y}
-{7029}{}{na miejscu i szybko poradzi³y sobie z tym zagro¿eniem.}
-{7030}{}{Dam znaæ obs³udze, ¿e drzwi s¹ do wymiany.}
+{7023}{}{WyprÃ³bowaÅ‚em dziÅ› na jednym z pacjentÃ³w swÃ³j nowy}
+{7024}{}{koktajl z Wygrzewu, Psycho i paru specjalnych dodatkÃ³w,}
+{7025}{}{z ktÃ³rymi ostatnio eksperymentowaÅ‚em. Rezultaty byÅ‚y}
+{7026}{}{obiecujÄ…ce, choÄ‡ nieco niechlujne. Pacjent staÅ‚ siÄ™}
+{7027}{}{strasznie nerwowy i daÅ‚ radÄ™ wydostaÄ‡ siÄ™ ze swojego}
+{7028}{}{pomieszczenia. Na szczÄ™Å›cie nowe roboty wartownicze byÅ‚y}
+{7029}{}{na miejscu i szybko poradziÅ‚y sobie z tym zagroÅ¼eniem.}
+{7030}{}{Dam znaÄ‡ obsÅ‚udze, Å¼e drzwi sÄ… do wymiany.}
 {7031}{}{**END-PAR**}
 {7032}{}{1 lipca, 2077}
-{7033}{}{Mój ulubiony obiekt eksperymentów w³aœnie wyzion¹³}
-{7034}{}{ducha. Podawa³em mu sta³¹ dawkê Mentatów zmieszan¹}
-{7035}{}{z moimi specjalnymi dodatkami. Jego IQ skoczy³o z 39 do}
-{7036}{}{200 w ci¹gu zaledwie kilku tygodni. Jest mi przykro,}
-{7037}{}{gdy¿ pacjent ten by³ jednym z niewielu ludzi, z którymi}
-{7038}{}{mog³em naprawdê porozmawiaæ. Bêdzie mi go wielce}
-{7039}{}{brakowa³o.}
+{7033}{}{MÃ³j ulubiony obiekt eksperymentÃ³w wÅ‚aÅ›nie wyzionÄ…Å‚}
+{7034}{}{ducha. PodawaÅ‚em mu staÅ‚Ä… dawkÄ™ MentatÃ³w zmieszanÄ…}
+{7035}{}{z moimi specjalnymi dodatkami. Jego IQ skoczyÅ‚o z 39 do}
+{7036}{}{200 w ciÄ…gu zaledwie kilku tygodni. Jest mi przykro,}
+{7037}{}{gdyÅ¼ pacjent ten byÅ‚ jednym z niewielu ludzi, z ktÃ³rymi}
+{7038}{}{mogÅ‚em naprawdÄ™ porozmawiaÄ‡. BÄ™dzie mi go wielce}
+{7039}{}{brakowaÅ‚o.}
 {7040}{}{**END-PAR**}
 {7041}{}{5 lipca, 2077}
-{7042}{}{S¹dzimy, ¿e nowy mózg cybernetyczny jest ju¿ w pe³ni}
-{7043}{}{gotowy. Musimy wykonaæ jeszcze kilka testów, ale sprawy}
-{7044}{}{wygl¹daj¹ nadzwyczaj obiecuj¹co.}
+{7042}{}{SÄ…dzimy, Å¼e nowy mÃ³zg cybernetyczny jest juÅ¼ w peÅ‚ni}
+{7043}{}{gotowy. Musimy wykonaÄ‡ jeszcze kilka testÃ³w, ale sprawy}
+{7044}{}{wyglÄ…dajÄ… nadzwyczaj obiecujÄ…co.}
 {7045}{}{**END-PAR**}
 {7046}{}{6 lipca, 2077}
-{7047}{}{Dzia³ Robotyki jest wysoce niezadowolony z faktu, ¿e ich}
-{7048}{}{cenny komputer zmodyfikowany zosta³ do obs³ugi}
-{7049}{}{systemów bezpieczeñstwa bazy na czas ewakuacji.}
-{7050}{}{Nie mogê powiedzieæ ¿ebym i ja by³ z tego zadowolony,}
-{7051}{}{gdy¿ wk³ad Skynetu w rozwój nowego mózgu}
-{7052}{}{cybernetycznego by³ do tej pory nieoceniony.}
+{7047}{}{DziaÅ‚ Robotyki jest wysoce niezadowolony z faktu, Å¼e ich}
+{7048}{}{cenny komputer zmodyfikowany zostaÅ‚ do obsÅ‚ugi}
+{7049}{}{systemÃ³w bezpieczeÅ„stwa bazy na czas ewakuacji.}
+{7050}{}{Nie mogÄ™ powiedzieÄ‡ Å¼ebym i ja byÅ‚ z tego zadowolony,}
+{7051}{}{gdyÅ¼ wkÅ‚ad Skynetu w rozwÃ³j nowego mÃ³zgu}
+{7052}{}{cybernetycznego byÅ‚ do tej pory nieoceniony.}
 {7053}{}{**END-PAR**}
 {7054}{}{9 lipca, 2077}
 {7055}{}{Przyspieszono termin ewakuacji. Co za fatalny moment.}
-{7056}{}{W³aœnie mieliœmy rozpocz¹æ instalowanie nowego mózgu}
-{7057}{}{cybernetycznego. Mówi¹, ¿e ewakuacja jest tylko chwilowa}
-{7058}{}{i nied³ugo wrócê do swoich badañ. Prawdopodobnie bêdzie}
-{7059}{}{to mój ostatni zapis w dzienniku na jakiœ czas, muszê}
-{7060}{}{teraz zaj¹æ siê zbieraniem wyników swoich badañ, zanim}
-{7061}{}{nas st¹d zabior¹.}
+{7056}{}{WÅ‚aÅ›nie mieliÅ›my rozpoczÄ…Ä‡ instalowanie nowego mÃ³zgu}
+{7057}{}{cybernetycznego. MÃ³wiÄ…, Å¼e ewakuacja jest tylko chwilowa}
+{7058}{}{i niedÅ‚ugo wrÃ³cÄ™ do swoich badaÅ„. Prawdopodobnie bÄ™dzie}
+{7059}{}{to mÃ³j ostatni zapis w dzienniku na jakiÅ› czas, muszÄ™}
+{7060}{}{teraz zajÄ…Ä‡ siÄ™ zbieraniem wynikÃ³w swoich badaÅ„, zanim}
+{7061}{}{nas stÄ…d zabiorÄ….}
 {7062}{}{**END-DISK**}
 #
 {8000}{}{5 lipca, 2077}
-{8001}{}{Sk³ad Wojskowy Sierra - Lecznica}
-{8002}{}{Lekarz G³ówny - dr Solomon}
+{8001}{}{SkÅ‚ad Wojskowy Sierra - Lecznica}
+{8002}{}{Lekarz GÅ‚Ã³wny - dr Solomon}
 {8003}{}{Pacjent - Kapral Dixon}
 {8004}{}{Raport Zdarzenia # 8332-523D}
 {8005}{}{**END-PAR**}
-{8006}{}{Poszkodowany próbowa³ uzbroiæ minê na terenie}
+{8006}{}{Poszkodowany prÃ³bowaÅ‚ uzbroiÄ‡ minÄ™ na terenie}
 {8007}{}{magazynu w ramach procedury aktywacji ewakuacyjnych}
-{8008}{}{systemów obronnych Sk³adu Wojskowego Sierra. Mina}
-{8009}{}{wybuch³a przedwczeœnie, ciê¿ko rani¹c kaprala Dixona}
-{8010}{}{i genera³a Cliftona. Kapral Dixon odniós³ powa¿ne}
-{8011}{}{obra¿enia r¹k, klatki piersiowej i okolic twarzy.}
-{8012}{}{Prawa d³oñ uleg³a ca³kowitej amputacji, brakuj¹cej}
-{8013}{}{koñczyny nie uda³o siê niestety odnaleŸæ.}
-{8014}{}{Ciê¿kie rany k³ute klatki piersiowej i okolic twarzy}
-{8015}{}{wymaga³y natychmiastowej operacji. W sumie}
-{8016}{}{usuniêto 32 fragmenty miny. Prawe oko zosta³o}
-{8017}{}{uszkodzone w stopniu uniemo¿liwiaj¹cym wyleczenie}
-{8018}{}{i zosta³o usuniête operacyjnie. Mamy nadziejê,}
-{8019}{}{i¿ umieszczenie uszkodzonej, ale ¿ywej ga³ki ocznej}
-{8020}{}{w eksperymentalnym ¿elu biomedycznym pozwoli na}
-{8021}{}{samoistn¹ regeneracjê tkanki. Sadzimy, ¿e mo¿liwe}
-{8022}{}{bêdzie póŸniejsze wprowadzenie ga³ki ocznej do}
-{8023}{}{oczodo³u. Eksperymentalny ¿el biomedyczny daje du¿e}
-{8024}{}{szanse na przyspieszenie procesu wzrostu komórek}
-{8025}{}{¿ywych. Los sprawi³, i¿ przysz³o nam go testowaæ}
-{8026}{}{w niezbyt szczêœliwych okolicznoœciach.}
+{8008}{}{systemÃ³w obronnych SkÅ‚adu Wojskowego Sierra. Mina}
+{8009}{}{wybuchÅ‚a przedwczeÅ›nie, ciÄ™Å¼ko raniÄ…c kaprala Dixona}
+{8010}{}{i generaÅ‚a Cliftona. Kapral Dixon odniÃ³sÅ‚ powaÅ¼ne}
+{8011}{}{obraÅ¼enia rÄ…k, klatki piersiowej i okolic twarzy.}
+{8012}{}{Prawa dÅ‚oÅ„ ulegÅ‚a caÅ‚kowitej amputacji, brakujÄ…cej}
+{8013}{}{koÅ„czyny nie udaÅ‚o siÄ™ niestety odnaleÅºÄ‡.}
+{8014}{}{CiÄ™Å¼kie rany kÅ‚ute klatki piersiowej i okolic twarzy}
+{8015}{}{wymagaÅ‚y natychmiastowej operacji. W sumie}
+{8016}{}{usuniÄ™to 32 fragmenty miny. Prawe oko zostaÅ‚o}
+{8017}{}{uszkodzone w stopniu uniemoÅ¼liwiajÄ…cym wyleczenie}
+{8018}{}{i zostaÅ‚o usuniÄ™te operacyjnie. Mamy nadziejÄ™,}
+{8019}{}{iÅ¼ umieszczenie uszkodzonej, ale Å¼ywej gaÅ‚ki ocznej}
+{8020}{}{w eksperymentalnym Å¼elu biomedycznym pozwoli na}
+{8021}{}{samoistnÄ… regeneracjÄ™ tkanki. Sadzimy, Å¼e moÅ¼liwe}
+{8022}{}{bÄ™dzie pÃ³Åºniejsze wprowadzenie gaÅ‚ki ocznej do}
+{8023}{}{oczodoÅ‚u. Eksperymentalny Å¼el biomedyczny daje duÅ¼e}
+{8024}{}{szanse na przyspieszenie procesu wzrostu komÃ³rek}
+{8025}{}{Å¼ywych. Los sprawiÅ‚, iÅ¼ przyszÅ‚o nam go testowaÄ‡}
+{8026}{}{w niezbyt szczÄ™Å›liwych okolicznoÅ›ciach.}
 {8027}{}{**END-DISK**}
 #
 {9000}{}{9 lipca, 2077}
-{9001}{}{Wiadomoœæ Priorytetowa}
-{9002}{}{Zawiadomienie Ogólne}
+{9001}{}{WiadomoÅ›Ä‡ Priorytetowa}
+{9002}{}{Zawiadomienie OgÃ³lne}
 {9003}{}{}
-{9004}{}{Informacja dla personelu. Ewakuacja Sk³adu Wojskowego}
-{9005}{}{Sierra zosta³a przyspieszona o tydzieñ. Instalacja}
-{9006}{}{systemów obrony i bezpieczeñstwa musi zostaæ do tego}
-{9007}{}{czasu zakoñczona. Wszyscy zobowi¹zani s¹ do pobrania}
-{9008}{}{nowych rozkazów od szefów sekcji. Od tej chwili}
-{9009}{}{wprowadza siê œcis³e procedury bezpieczeñstwa.}
-{9010}{}{W trakcie przebywania w bazie nale¿y nosiæ}
+{9004}{}{Informacja dla personelu. Ewakuacja SkÅ‚adu Wojskowego}
+{9005}{}{Sierra zostaÅ‚a przyspieszona o tydzieÅ„. Instalacja}
+{9006}{}{systemÃ³w obrony i bezpieczeÅ„stwa musi zostaÄ‡ do tego}
+{9007}{}{czasu zakoÅ„czona. Wszyscy zobowiÄ…zani sÄ… do pobrania}
+{9008}{}{nowych rozkazÃ³w od szefÃ³w sekcji. Od tej chwili}
+{9009}{}{wprowadza siÄ™ Å›cisÅ‚e procedury bezpieczeÅ„stwa.}
+{9010}{}{W trakcie przebywania w bazie naleÅ¼y nosiÄ‡}
 {9011}{}{identyfikatory.}
 {9012}{}{}
-{9013}{}{Z rozkazu genera³a Cliftona}
+{9013}{}{Z rozkazu generaÅ‚a Cliftona}
 {9014}{}{**END-DISK**}
 
 # Sierra Base Mission Statement
-{10000}{}{Sk³ad Wojskowy Sierra}
+{10000}{}{SkÅ‚ad Wojskowy Sierra}
 {10001}{}{Deklaracja Przeznaczenia 1942 - 1991}
-{10002}{}{Przechowanie i konserwacja sprzêtu wojskowego}
-{10003}{}{i wyposa¿enia obronnego. W przypadku inwazji,}
-{10004}{}{zapewnienie dostaw zaopatrzenia do s¹siaduj¹cych baz}
+{10002}{}{Przechowanie i konserwacja sprzÄ™tu wojskowego}
+{10003}{}{i wyposaÅ¼enia obronnego. W przypadku inwazji,}
+{10004}{}{zapewnienie dostaw zaopatrzenia do sÄ…siadujÄ…cych baz}
 {10005}{}{i instalacji wojskowych.}
 {10006}{}{**END-PAR**}
-{10007}{}{Sk³ad Wojskowy Sierra}
+{10007}{}{SkÅ‚ad Wojskowy Sierra}
 {10008}{}{Deklaracja Przeznaczenia 1992 - 2050}
-{10009}{}{Neutralizacja nadwy¿ek amunicji okreœlonej jako}
-{10010}{}{przestarza³a lub niezdatna do celów wojskowych.}
-{10011}{}{Operacjê nadzoruje Dowództwo Dzia³añ Przemys³owych}
-{10012}{}{(IOC) we wspó³pracy z Agencj¹ Ochrony Œrodowiska}
+{10009}{}{Neutralizacja nadwyÅ¼ek amunicji okreÅ›lonej jako}
+{10010}{}{przestarzaÅ‚a lub niezdatna do celÃ³w wojskowych.}
+{10011}{}{OperacjÄ™ nadzoruje DowÃ³dztwo DziaÅ‚aÅ„ PrzemysÅ‚owych}
+{10012}{}{(IOC) we wspÃ³Å‚pracy z AgencjÄ… Ochrony Åšrodowiska}
 {10013}{}{(EPA) w celu zapewnienia bezpiecznych metod}
-{10014}{}{neutralizacji i pozbywania siê materia³ów}
+{10014}{}{neutralizacji i pozbywania siÄ™ materiaÅ‚Ã³w}
 {10015}{}{pochodzenia wojskowego.}
 {10016}{}{**END-PAR**}
-{10017}{}{Sk³ad Wojskowy Sierra}
+{10017}{}{SkÅ‚ad Wojskowy Sierra}
 {10018}{}{Deklaracja Przeznaczenia 2050 - 2076}
 {10019}{}{UTAJNIONE}
-{10020}{}{Wymagane Pozwolenie Wstêpu Stopnia 5}
-{10021}{}{Baza po unowoczeœnieniu i wyposa¿eniu w zaawansowane}
-{10022}{}{technologicznie urz¹dzenia, s³u¿yæ bêdzie jako tajny}
-{10023}{}{oœrodek badawczy zajmuj¹cy siê rozwojem i testowaniem}
+{10020}{}{Wymagane Pozwolenie WstÄ™pu Stopnia 5}
+{10021}{}{Baza po unowoczeÅ›nieniu i wyposaÅ¼eniu w zaawansowane}
+{10022}{}{technologicznie urzÄ…dzenia, sÅ‚uÅ¼yÄ‡ bÄ™dzie jako tajny}
+{10023}{}{oÅ›rodek badawczy zajmujÄ…cy siÄ™ rozwojem i testowaniem}
 {10024}{}{broni cybernetycznej, biologicznej i konwencjonalnej.}
 {10025}{}{**END-PAR**}
-{10026}{}{Sk³ad Wojskowy Sierra}
+{10026}{}{SkÅ‚ad Wojskowy Sierra}
 {10027}{}{Deklaracja Przeznaczenia 2077}
-{10028}{}{Z powodu niedoboru wykwalifikowanego personelu, Sk³ad}
-{10029}{}{Wojskowy Sierra bêdzie przerobiony na automatyczn¹}
-{10030}{}{instalacjê obronn¹. Dotychczasowy personel zostanie}
-{10031}{}{rozlokowany w s¹siednich bazach lub wys³any na liniê}
+{10028}{}{Z powodu niedoboru wykwalifikowanego personelu, SkÅ‚ad}
+{10029}{}{Wojskowy Sierra bÄ™dzie przerobiony na automatycznÄ…}
+{10030}{}{instalacjÄ™ obronnÄ…. Dotychczasowy personel zostanie}
+{10031}{}{rozlokowany w sÄ…siednich bazach lub wysÅ‚any na liniÄ™}
 {10032}{}{frontu.}
 {10033}{}{**END-DISK**}
 
 # Sierra Base GNN Transscript
 {11000}{}{Galaxy News Network}
-{11001}{}{Kopia wiadomoœci z 11 stycznia, 2073}
-{11002}{}{Wiadomoœæ dnia w GNN. Dziêki mistrzowskiemu}
-{11003}{}{posuniêciu, Stany Zjednoczone wesz³y w posiadanie}
-{11004}{}{ostatniej œwiatowej rezerwy ropy naftowej.}
-{11005}{}{Do niedawna wydawa³o siê, ¿e z³o¿e jest nieosi¹galne}
-{11006}{}{dla wydobycia ze wzglêdu na jego po³o¿enie tysi¹ce}
-{11007}{}{stóp pod dnem Pacyfiku. Wraz z wyczerpywaniem siê}
-{11008}{}{œwiatowych zasobów ropy, rozpocz¹³ siê wyœcig o to,}
-{11009}{}{kto pierwszy opracuje metodê wydobycia surowca spod}
-{11010}{}{dna oceanu. Tutaj, w GNN mamy zaszczyt og³osiæ, ¿e}
-{11011}{}{Stany Zjednoczone ów wyœcig wygra³y i tym samym}
-{11012}{}{sta³y siê w³aœcicielem ostatniego z³o¿a ropy}
-{11013}{}{naftowej na œwiecie. Oby tak dalej!}
+{11001}{}{Kopia wiadomoÅ›ci z 11 stycznia, 2073}
+{11002}{}{WiadomoÅ›Ä‡ dnia w GNN. DziÄ™ki mistrzowskiemu}
+{11003}{}{posuniÄ™ciu, Stany Zjednoczone weszÅ‚y w posiadanie}
+{11004}{}{ostatniej Å›wiatowej rezerwy ropy naftowej.}
+{11005}{}{Do niedawna wydawaÅ‚o siÄ™, Å¼e zÅ‚oÅ¼e jest nieosiÄ…galne}
+{11006}{}{dla wydobycia ze wzglÄ™du na jego poÅ‚oÅ¼enie tysiÄ…ce}
+{11007}{}{stÃ³p pod dnem Pacyfiku. Wraz z wyczerpywaniem siÄ™}
+{11008}{}{Å›wiatowych zasobÃ³w ropy, rozpoczÄ…Å‚ siÄ™ wyÅ›cig o to,}
+{11009}{}{kto pierwszy opracuje metodÄ™ wydobycia surowca spod}
+{11010}{}{dna oceanu. Tutaj, w GNN mamy zaszczyt ogÅ‚osiÄ‡, Å¼e}
+{11011}{}{Stany Zjednoczone Ã³w wyÅ›cig wygraÅ‚y i tym samym}
+{11012}{}{staÅ‚y siÄ™ wÅ‚aÅ›cicielem ostatniego zÅ‚oÅ¼a ropy}
+{11013}{}{naftowej na Å›wiecie. Oby tak dalej!}
 {11014}{}{**END-PAR**}
-{11015}{}{Podczas gdy wieœci o sukcesie odbijaj¹ siê po}
-{11016}{}{œwiecie szerokim echem, rz¹d chiñski zg³asza swój}
-{11017}{}{stanowczy sprzeciw. Prezydent Xin ujawni³,}
-{11018}{}{¿e chiñski projekt platformy wiertniczej gotów by³}
-{11019}{}{na wiele miesiêcy przed amerykañskim, jednak}
-{11020}{}{przedsiêwziêcie nêkane by³o szeregiem nieszczêœliwych}
-{11021}{}{wypadków, które znacznie opóŸni³y jego finalizacjê.}
-{11022}{}{Prezydent Xin stwierdzi³, i¿ rz¹d jego kraju jest}
-{11023}{}{w posiadaniu dowodu na udzia³ Stanów Zjednoczonych}
-{11024}{}{w aktach sabota¿u maj¹cych miejsce na platformie}
-{11025}{}{wiertniczej. Chiñski przywódca z³o¿y³ tak¿e formalne}
-{11026}{}{¿¹danie utworzenia miêdzynarodowej komisji, która}
-{11027}{}{przeprowadzi³aby œledztwo w tej sprawie.}
+{11015}{}{Podczas gdy wieÅ›ci o sukcesie odbijajÄ… siÄ™ po}
+{11016}{}{Å›wiecie szerokim echem, rzÄ…d chiÅ„ski zgÅ‚asza swÃ³j}
+{11017}{}{stanowczy sprzeciw. Prezydent Xin ujawniÅ‚,}
+{11018}{}{Å¼e chiÅ„ski projekt platformy wiertniczej gotÃ³w byÅ‚}
+{11019}{}{na wiele miesiÄ™cy przed amerykaÅ„skim, jednak}
+{11020}{}{przedsiÄ™wziÄ™cie nÄ™kane byÅ‚o szeregiem nieszczÄ™Å›liwych}
+{11021}{}{wypadkÃ³w, ktÃ³re znacznie opÃ³ÅºniÅ‚y jego finalizacjÄ™.}
+{11022}{}{Prezydent Xin stwierdziÅ‚, iÅ¼ rzÄ…d jego kraju jest}
+{11023}{}{w posiadaniu dowodu na udziaÅ‚ StanÃ³w Zjednoczonych}
+{11024}{}{w aktach sabotaÅ¼u majÄ…cych miejsce na platformie}
+{11025}{}{wiertniczej. ChiÅ„ski przywÃ³dca zÅ‚oÅ¼yÅ‚ takÅ¼e formalne}
+{11026}{}{Å¼Ä…danie utworzenia miÄ™dzynarodowej komisji, ktÃ³ra}
+{11027}{}{przeprowadziÅ‚aby Å›ledztwo w tej sprawie.}
 {11028}{}{**END-PAR**}
-{11029}{}{Pozosta³e wiadomoœci. Przez kraj przetacza siê fala}
-{11030}{}{zamieszek wywo³anych ostatnimi podwy¿kami cen paliw,}
-{11031}{}{które osi¹gnê³y niespotykany dot¹d poziom.}
+{11029}{}{PozostaÅ‚e wiadomoÅ›ci. Przez kraj przetacza siÄ™ fala}
+{11030}{}{zamieszek wywoÅ‚anych ostatnimi podwyÅ¼kami cen paliw,}
+{11031}{}{ktÃ³re osiÄ…gnÄ™Å‚y niespotykany dotÄ…d poziom.}
 {11032}{}{**END-PAR**}
 {11033}{}{Pogoda. Zimowa aura nas nie rozpieszcza - temperatury}
-{11034}{}{wzd³u¿ wybrze¿a bêd¹ utrzymywaæ siê w okolicach 37°C}
-{11035}{}{- 43°C, temperatura minimalna 32°C. Nie zapomnijcie}
-{11036}{}{ciep³o siê ubraæ!}
+{11034}{}{wzdÅ‚uÅ¼ wybrzeÅ¼a bÄ™dÄ… utrzymywaÄ‡ siÄ™ w okolicach 37Â°C}
+{11035}{}{- 43Â°C, temperatura minimalna 32Â°C. Nie zapomnijcie}
+{11036}{}{ciepÅ‚o siÄ™ ubraÄ‡!}
 {11037}{}{**END-PAR**}
 {11038}{}{Galaxy News Network}
-{11039}{}{Kopia wiadomoœci z 24 czerwca, 2074}
-{11040}{}{Rozmowy pomiêdzy Stanami Zjednoczonymi, a innymi}
-{11041}{}{mocarstwami zosta³y zerwane, gdy prezydent}
-{11042}{}{zrezygnowa³ z dalszych negocjacji na temat}
-{11043}{}{wykorzystania ostatniego z³ó¿a ropy naftowej.}
-{11044}{}{Po gor¹cej debacie, prezydent opuœci³ nagle zebranie}
-{11045}{}{i og³osi³, ¿e ostatnia znana rezerwa ropy naftowej}
-{11046}{}{eksploatowana bêdzie wy³¹cznie przez USA, bez}
-{11047}{}{mo¿liwoœci sprzeda¿y paliw do innych krajów, mimo}
-{11048}{}{groŸby na³o¿enia przez ONZ sankcji gospodarczych}
+{11039}{}{Kopia wiadomoÅ›ci z 24 czerwca, 2074}
+{11040}{}{Rozmowy pomiÄ™dzy Stanami Zjednoczonymi, a innymi}
+{11041}{}{mocarstwami zostaÅ‚y zerwane, gdy prezydent}
+{11042}{}{zrezygnowaÅ‚ z dalszych negocjacji na temat}
+{11043}{}{wykorzystania ostatniego zÅ‚Ã³Å¼a ropy naftowej.}
+{11044}{}{Po gorÄ…cej debacie, prezydent opuÅ›ciÅ‚ nagle zebranie}
+{11045}{}{i ogÅ‚osiÅ‚, Å¼e ostatnia znana rezerwa ropy naftowej}
+{11046}{}{eksploatowana bÄ™dzie wyÅ‚Ä…cznie przez USA, bez}
+{11047}{}{moÅ¼liwoÅ›ci sprzedaÅ¼y paliw do innych krajÃ³w, mimo}
+{11048}{}{groÅºby naÅ‚oÅ¼enia przez ONZ sankcji gospodarczych}
 {11049}{}{na Stany Zjednoczone.}
 {11050}{}{**END-PAR**}
-{11051}{}{Produkcja przemys³owa ca³ego œwiata zostaje}
+{11051}{}{Produkcja przemysÅ‚owa caÅ‚ego Å›wiata zostaje}
 {11052}{}{wstrzymana wraz z wyczerpaniem ostatnich rezerw ropy}
-{11053}{}{naftowej. Pozbawieni paliwa nie s¹ jednak}
-{11054}{}{pozostawieni sami sobie, jako ¿e eksport produktów}
-{11055}{}{przemys³owych wzros³ w USA dwudziestokrotnie, mimo}
-{11056}{}{sankcji ONZ. Gospodarka Stanów Zjednoczonych}
-{11057}{}{prze¿ywa najwy¿szy rozkwit od czasów Reagana.}
+{11053}{}{naftowej. Pozbawieni paliwa nie sÄ… jednak}
+{11054}{}{pozostawieni sami sobie, jako Å¼e eksport produktÃ³w}
+{11055}{}{przemysÅ‚owych wzrosÅ‚ w USA dwudziestokrotnie, mimo}
+{11056}{}{sankcji ONZ. Gospodarka StanÃ³w Zjednoczonych}
+{11057}{}{przeÅ¼ywa najwyÅ¼szy rozkwit od czasÃ³w Reagana.}
 {11058}{}{**END-PAR**}
 {11059}{}{Galaxy News Network}
-{11060}{}{Kopia wiadomoœci z 14 lutego, 2075}
-{11061}{}{Dziœ zapisana zosta³a kolejna karta historii.}
-{11062}{}{Kanada, za poparciem ogó³u swych obywateli,}
-{11063}{}{sta³a siê czêœci¹ Stanów Zjednoczonych Ameryki}
-{11064}{}{Pó³nocnej. Prezydent powiedzia³: "Kanada jest krajem}
-{11065}{}{pochodzenia jednych z najlepszych hokeistów na}
-{11066}{}{œwiecie i bêdzie mile widziana jako cz³onek USA."}
-{11067}{}{Jak podaj¹ Ÿród³a, w zamian Kanada otrzyma 10%}
-{11068}{}{udzia³ów w œwiatowych rezerwach ropy naftowej,}
-{11069}{}{kontrolowanych wy³¹cznie przez rz¹d USA, jak równie¿}
-{11070}{}{50% obni¿kê stawek podatkowych, jako ¿e podlegaæ}
-{11071}{}{bêdzie od tej pory amerykañskiemu prawu podatkowemu.}
+{11060}{}{Kopia wiadomoÅ›ci z 14 lutego, 2075}
+{11061}{}{DziÅ› zapisana zostaÅ‚a kolejna karta historii.}
+{11062}{}{Kanada, za poparciem ogÃ³Å‚u swych obywateli,}
+{11063}{}{staÅ‚a siÄ™ czÄ™Å›ciÄ… StanÃ³w Zjednoczonych Ameryki}
+{11064}{}{PÃ³Å‚nocnej. Prezydent powiedziaÅ‚: "Kanada jest krajem}
+{11065}{}{pochodzenia jednych z najlepszych hokeistÃ³w na}
+{11066}{}{Å›wiecie i bÄ™dzie mile widziana jako czÅ‚onek USA."}
+{11067}{}{Jak podajÄ… ÅºrÃ³dÅ‚a, w zamian Kanada otrzyma 10%}
+{11068}{}{udziaÅ‚Ã³w w Å›wiatowych rezerwach ropy naftowej,}
+{11069}{}{kontrolowanych wyÅ‚Ä…cznie przez rzÄ…d USA, jak rÃ³wnieÅ¼}
+{11070}{}{50% obniÅ¼kÄ™ stawek podatkowych, jako Å¼e podlegaÄ‡}
+{11071}{}{bÄ™dzie od tej pory amerykaÅ„skiemu prawu podatkowemu.}
 {11072}{}{**END-PAR**}
-{11073}{}{Ze sportu: Œwiêci z Little Rock i Odrzutowce}
-{11074}{}{z Anaheim starli siê dzisiaj w finale Super Bowl}
-{11075}{}{CXII. Walka by³a wyrównana, ale J. Montana IV}
-{11076}{}{w ostatnich sekundach spotkania wykona³ zagrywkê}
-{11077}{}{dnia biegn¹c z pi³k¹ od linii 5 jardów a¿ do koñca}
-{11078}{}{boiska, gdzie wykona³ efektowne przy³o¿enie daj¹ce}
-{11079}{}{zwyciêstwo Odrzutowcom z Anaheim. Koñcowy wynik}
+{11073}{}{Ze sportu: ÅšwiÄ™ci z Little Rock i Odrzutowce}
+{11074}{}{z Anaheim starli siÄ™ dzisiaj w finale Super Bowl}
+{11075}{}{CXII. Walka byÅ‚a wyrÃ³wnana, ale J. Montana IV}
+{11076}{}{w ostatnich sekundach spotkania wykonaÅ‚ zagrywkÄ™}
+{11077}{}{dnia biegnÄ…c z piÅ‚kÄ… od linii 5 jardÃ³w aÅ¼ do koÅ„ca}
+{11078}{}{boiska, gdzie wykonaÅ‚ efektowne przyÅ‚oÅ¼enie dajÄ…ce}
+{11079}{}{zwyciÄ™stwo Odrzutowcom z Anaheim. KoÅ„cowy wynik}
 {11080}{}{95 - 90.}
 {11081}{}{**END-PAR**}
 {11082}{}{Galaxy News Network}
-{11083}{}{Kopia wiadomoœci z 15 lutego, 2075}
-{11084}{}{Wykazuj¹c niespotykan¹ jednomyœlnoœæ, Kongres i Izba}
-{11085}{}{Reprezentantów przeg³osowa³y rozpoczêcie procedury}
-{11086}{}{impiczmentu wobec prezydenta, który oskar¿ony zosta³}
+{11083}{}{Kopia wiadomoÅ›ci z 15 lutego, 2075}
+{11084}{}{WykazujÄ…c niespotykanÄ… jednomyÅ›lnoÅ›Ä‡, Kongres i Izba}
+{11085}{}{ReprezentantÃ³w przegÅ‚osowaÅ‚y rozpoczÄ™cie procedury}
+{11086}{}{impiczmentu wobec prezydenta, ktÃ³ry oskarÅ¼ony zostaÅ‚}
 {11087}{}{o przechodzenie ulicy w niedozwolonym miejscu. Obie}
-{11088}{}{izby uzna³y, ¿e prezydent nie mo¿e staæ ponad prawem.}
-{11089}{}{Zaprzeczono równie¿, jakoby istnia³ zwi¹zek miêdzy}
-{11090}{}{t¹ spraw¹, a niedawn¹ aneksj¹ Kanady.}
+{11088}{}{izby uznaÅ‚y, Å¼e prezydent nie moÅ¼e staÄ‡ ponad prawem.}
+{11089}{}{Zaprzeczono rÃ³wnieÅ¼, jakoby istniaÅ‚ zwiÄ…zek miÄ™dzy}
+{11090}{}{tÄ… sprawÄ…, a niedawnÄ… aneksjÄ… Kanady.}
 {11091}{}{**END-PAR**}
 {11092}{}{Galaxy News Network}
-{11093}{}{Kopia wiadomoœci z 30 marca, 2076}
-{11094}{}{W dniu dzisiejszym prezydent wyda³ rozkaz}
+{11093}{}{Kopia wiadomoÅ›ci z 30 marca, 2076}
+{11094}{}{W dniu dzisiejszym prezydent wydaÅ‚ rozkaz}
 {11095}{}{przegrupowania Floty Pacyfiku w rejon dalekomorskiej}
-{11096}{}{platformy wiertniczej "Posejdon", znajduj¹cej siê}
-{11097}{}{gdzieœ na Oceanie Spokojnym. Powodem tego posuniêcia}
-{11098}{}{maj¹ byæ æwiczenia wojskowe chiñskiej floty, które}
-{11099}{}{"odbywaj¹ siê niebezpiecznie blisko naszych rezerw}
-{11100}{}{strategicznych ropy naftowej." Rz¹d chiñski}
-{11101}{}{zaprzeczy³ jakoby mia³ wobec USA wrogie zamiary.}
+{11096}{}{platformy wiertniczej "Posejdon", znajdujÄ…cej siÄ™}
+{11097}{}{gdzieÅ› na Oceanie Spokojnym. Powodem tego posuniÄ™cia}
+{11098}{}{majÄ… byÄ‡ Ä‡wiczenia wojskowe chiÅ„skiej floty, ktÃ³re}
+{11099}{}{"odbywajÄ… siÄ™ niebezpiecznie blisko naszych rezerw}
+{11100}{}{strategicznych ropy naftowej." RzÄ…d chiÅ„ski}
+{11101}{}{zaprzeczyÅ‚ jakoby miaÅ‚ wobec USA wrogie zamiary.}
 {11102}{}{**END-PAR**}
-{11103}{}{Wyniki ostatnich sonda¿y wskazuj¹, i¿ 54% widzów GNN}
-{11104}{}{uwa¿a, ¿e posunêcie prezydenta pos³u¿yæ mia³o jako}
-{11105}{}{zas³ona dymna, maj¹ca odwróciæ uwagê opinii}
-{11106}{}{publicznej od jego pozama³¿eñskich stosunków}
+{11103}{}{Wyniki ostatnich sondaÅ¼y wskazujÄ…, iÅ¼ 54% widzÃ³w GNN}
+{11104}{}{uwaÅ¼a, Å¼e posunÄ™cie prezydenta posÅ‚uÅ¼yÄ‡ miaÅ‚o jako}
+{11105}{}{zasÅ‚ona dymna, majÄ…ca odwrÃ³ciÄ‡ uwagÄ™ opinii}
+{11106}{}{publicznej od jego pozamaÅ‚Å¼eÅ„skich stosunkÃ³w}
 {11107}{}{z pracowniczkami sztabu wyborczego. Nasza sonda}
-{11108}{}{wykaza³a równie¿, ¿e 70% respondentów nie}
-{11109}{}{interesuje siê romansami g³owy pañstwa i wyra¿a}
-{11110}{}{zadowolenie ze sposobu, w jaki prezydent rz¹dzi}
-{11111}{}{krajem. Ca³e 60% stwierdzi³o, ¿e prezydent powinien}
-{11112}{}{romansowaæ dalej, jeœli tego potrzebuje do dalszego}
-{11113}{}{sprawnego kierowania pañstwem.}
+{11108}{}{wykazaÅ‚a rÃ³wnieÅ¼, Å¼e 70% respondentÃ³w nie}
+{11109}{}{interesuje siÄ™ romansami gÅ‚owy paÅ„stwa i wyraÅ¼a}
+{11110}{}{zadowolenie ze sposobu, w jaki prezydent rzÄ…dzi}
+{11111}{}{krajem. CaÅ‚e 60% stwierdziÅ‚o, Å¼e prezydent powinien}
+{11112}{}{romansowaÄ‡ dalej, jeÅ›li tego potrzebuje do dalszego}
+{11113}{}{sprawnego kierowania paÅ„stwem.}
 {11114}{}{**END-PAR**}
 {11115}{}{Galaxy News Network}
-{11116}{}{Kopia wiadomoœci z 10 paŸdziernika, 2077}
-{11117}{}{WOJNA! USA znalaz³y siê w stanie wojny po tym, jak}
-{11118}{}{armia chiñska wkroczy³a na Alaskê! Protesty}
-{11119}{}{na arenie miêdzynarodowej nie przynios³y rezultatu,}
-{11120}{}{zaœ Rada Bezpieczeñstwa ONZ postanowi³a zignorowaæ}
-{11121}{}{ten jawny akt agresji. Prezydent Stanów}
-{11122}{}{Zjednoczonych wzywa CIÊ, byœ pomóg³ broniæ naszego}
-{11123}{}{kraju przed tymi, którzy pragn¹ jego krzywdy.}
-{11124}{}{iezw³ocznie udaj siê do miejscowego biura}
-{11125}{}{werbunkowego i wst¹p do si³ zbrojnych. Wujek Sam}
-{11126}{}{potrzebuje CIÊ! Dla Sprawiedliwoœci, Wolnoœci}
-{11127}{}{i Jab³ecznika Mamusi.}
+{11116}{}{Kopia wiadomoÅ›ci z 10 paÅºdziernika, 2077}
+{11117}{}{WOJNA! USA znalazÅ‚y siÄ™ w stanie wojny po tym, jak}
+{11118}{}{armia chiÅ„ska wkroczyÅ‚a na AlaskÄ™! Protesty}
+{11119}{}{na arenie miÄ™dzynarodowej nie przyniosÅ‚y rezultatu,}
+{11120}{}{zaÅ› Rada BezpieczeÅ„stwa ONZ postanowiÅ‚a zignorowaÄ‡}
+{11121}{}{ten jawny akt agresji. Prezydent StanÃ³w}
+{11122}{}{Zjednoczonych wzywa CIÄ˜, byÅ› pomÃ³gÅ‚ broniÄ‡ naszego}
+{11123}{}{kraju przed tymi, ktÃ³rzy pragnÄ… jego krzywdy.}
+{11124}{}{iezwÅ‚ocznie udaj siÄ™ do miejscowego biura}
+{11125}{}{werbunkowego i wstÄ…p do siÅ‚ zbrojnych. Wujek Sam}
+{11126}{}{potrzebuje CIÄ˜! Dla SprawiedliwoÅ›ci, WolnoÅ›ci}
+{11127}{}{i JabÅ‚ecznika Mamusi.}
 {11128}{}{**END-PAR**}
 {11129}{}{Galaxy News Network}
-{11130}{}{Kopia wiadomoœci z 22 paŸdziernika, 2077}
-{11131}{}{Dziêki walecznej postawie naszych ¿o³nierzy z si³}
+{11130}{}{Kopia wiadomoÅ›ci z 22 paÅºdziernika, 2077}
+{11131}{}{DziÄ™ki walecznej postawie naszych Å¼oÅ‚nierzy z siÅ‚}
 {11132}{}{zbrojnych i nowym, wspomaganym pancerzom bojowym,}
-{11133}{}{armia Stanów Zjednoczonych odpar³a atak chiñskich}
-{11134}{}{najeŸdŸców. Nêkane brakami paliwa wojska wroga}
-{11135}{}{zepchniête zosta³y a¿ do bram swej stolicy, Pekinu.}
+{11133}{}{armia StanÃ³w Zjednoczonych odparÅ‚a atak chiÅ„skich}
+{11134}{}{najeÅºdÅºcÃ³w. NÄ™kane brakami paliwa wojska wroga}
+{11135}{}{zepchniÄ™te zostaÅ‚y aÅ¼ do bram swej stolicy, Pekinu.}
 {11136}{}{**END-DISK**}
 
 # Elron Bible
 {12000}{}{Witaj!}
 {12001}{}{Witaj w elektronicznych zasobach Centrologii!}
-{12002}{}{Znajdziesz tutaj krótki opis naszych wierzeñ}
-{12003}{}{i zakazane niegdyœ nauki Centrum.}
-{12004}{}{Holodysk, który trzymasz nie przedstawia}
-{12005}{}{ostatecznego s³owa w temacie Centrologii}
+{12002}{}{Znajdziesz tutaj krÃ³tki opis naszych wierzeÅ„}
+{12003}{}{i zakazane niegdyÅ› nauki Centrum.}
+{12004}{}{Holodysk, ktÃ³ry trzymasz nie przedstawia}
+{12005}{}{ostatecznego sÅ‚owa w temacie Centrologii}
 {12006}{}{- potraktuj go raczej jak elementarz, a nas}
-{12007}{}{jako swoich duchowych opiekunów.}
+{12007}{}{jako swoich duchowych opiekunÃ³w.}
 {12008}{}{**END-PAR**}
-{12009}{}{MENU G£ÓWNE}
+{12009}{}{MENU GÅÃ“WNE}
 {12010}{}{Historia}
 {12011}{}{Filozofia}
 {12012}{}{Skorowidz}
 {12013}{}{Bibliografia}
 {12014}{}{**END-PAR**}
 {12015}{}{HISTORIA}
-{12016}{}{Wspólnotê nasz¹ za³o¿y³ jeszcze przed Wielkim}
-{12017}{}{Potopem, wspania³y twórca i wizjoner, cz³owiek}
-{12018}{}{o nazwisku Hubbert Centrobel. Dostrzeg³ nadchodz¹cy}
-{12019}{}{upadek ówczesnej medycyny, upadek religii i upadek}
-{12020}{}{rz¹dów. Wiedzia³, ¿e œwiat potrzebowa³ czegoœ}
-{12021}{}{nowego... Œwiat potrzebowa³ Centrologii.}
-{12022}{}{Zainspirowany ówczesn¹ muzyk¹ i swymi}
-{12023}{}{doœwiadczeniami z pozaziemskimi przybyszami,}
-{12024}{}{naucza³ nas o ko³ach na niebie, jak sprawiaæ by}
-{12025}{}{siê roz¿arzy³y i jak poj¹æ Wielki Okr¹g ¯ycia.}
+{12016}{}{WspÃ³lnotÄ™ naszÄ… zaÅ‚oÅ¼yÅ‚ jeszcze przed Wielkim}
+{12017}{}{Potopem, wspaniaÅ‚y twÃ³rca i wizjoner, czÅ‚owiek}
+{12018}{}{o nazwisku Hubbert Centrobel. DostrzegÅ‚ nadchodzÄ…cy}
+{12019}{}{upadek Ã³wczesnej medycyny, upadek religii i upadek}
+{12020}{}{rzÄ…dÃ³w. WiedziaÅ‚, Å¼e Å›wiat potrzebowaÅ‚ czegoÅ›}
+{12021}{}{nowego... Åšwiat potrzebowaÅ‚ Centrologii.}
+{12022}{}{Zainspirowany Ã³wczesnÄ… muzykÄ… i swymi}
+{12023}{}{doÅ›wiadczeniami z pozaziemskimi przybyszami,}
+{12024}{}{nauczaÅ‚ nas o koÅ‚ach na niebie, jak sprawiaÄ‡ by}
+{12025}{}{siÄ™ rozÅ¼arzyÅ‚y i jak pojÄ…Ä‡ Wielki OkrÄ…g Å»ycia.}
 {12026}{}{**END-PAR**}
-{12027}{}{Nazywamy go Centrum, przez niego poznaliœmy swe}
-{12028}{}{miejsce w Okrêgu - on jest nasz¹ piast¹, a my jego}
-{12029}{}{szprychami. Obracamy siê wokó³ jego nauk.}
+{12027}{}{Nazywamy go Centrum, przez niego poznaliÅ›my swe}
+{12028}{}{miejsce w OkrÄ™gu - on jest naszÄ… piastÄ…, a my jego}
+{12029}{}{szprychami. Obracamy siÄ™ wokÃ³Å‚ jego nauk.}
 {12030}{}{**END-PAR**}
-{12031}{}{Publikuj¹c niezliczone iloœci ksi¹¿ek}
-{12032}{}{i dzienników, Centrum g³osi³ s³owo Centrologii}
-{12033}{}{- czym b³yskawicznie zwróci³ na siebie uwagê ró¿nej}
-{12034}{}{maœci przeœmiewców. Kpili z jego prac nazywaj¹c}
-{12035}{}{je "pseudonaukowym" i "niebezpiecznym be³kotem,}
-{12036}{}{który mo¿e tylko zaszkodziæ swym czytelnikom."}
-{12037}{}{Mimo wielu obserwacji Pozaziemskich Pojazdów,}
-{12038}{}{maj¹cych miejsce na ca³ym globie, wrogowie}
-{12039}{}{obstawali przy krytyce s³ów Centrum. Wiemy,}
-{12040}{}{¿e byli zwyk³ymi g³upcami ma³ej wiary, ale}
-{12041}{}{wielkiej w³adzy. W ich szeregach stali cz³onkowie}
-{12042}{}{rz¹dów, ponadnarodowych korporacji i innych}
-{12043}{}{organizacji, ukrywaj¹cy najwspanialsz¹ wiadomoœæ}
-{12044}{}{wszechczasów przed mieszkañcami Ziemi.}
+{12031}{}{PublikujÄ…c niezliczone iloÅ›ci ksiÄ…Å¼ek}
+{12032}{}{i dziennikÃ³w, Centrum gÅ‚osiÅ‚ sÅ‚owo Centrologii}
+{12033}{}{- czym bÅ‚yskawicznie zwrÃ³ciÅ‚ na siebie uwagÄ™ rÃ³Å¼nej}
+{12034}{}{maÅ›ci przeÅ›miewcÃ³w. Kpili z jego prac nazywajÄ…c}
+{12035}{}{je "pseudonaukowym" i "niebezpiecznym beÅ‚kotem,}
+{12036}{}{ktÃ³ry moÅ¼e tylko zaszkodziÄ‡ swym czytelnikom."}
+{12037}{}{Mimo wielu obserwacji Pozaziemskich PojazdÃ³w,}
+{12038}{}{majÄ…cych miejsce na caÅ‚ym globie, wrogowie}
+{12039}{}{obstawali przy krytyce sÅ‚Ã³w Centrum. Wiemy,}
+{12040}{}{Å¼e byli zwykÅ‚ymi gÅ‚upcami maÅ‚ej wiary, ale}
+{12041}{}{wielkiej wÅ‚adzy. W ich szeregach stali czÅ‚onkowie}
+{12042}{}{rzÄ…dÃ³w, ponadnarodowych korporacji i innych}
+{12043}{}{organizacji, ukrywajÄ…cy najwspanialszÄ… wiadomoÅ›Ä‡}
+{12044}{}{wszechczasÃ³w przed mieszkaÅ„cami Ziemi.}
 {12045}{}{**END-PAR**}
-{12046}{}{Centrologia zesz³a na jakiœ czas do podziemia,}
-{12047}{}{gotuj¹c swe si³y przeciwko tym, którzy zazdroœcili}
-{12048}{}{jej prostoty i przydatnoœci dla zwyk³ych ludzi.}
-{12049}{}{Kiedy w koñcu ówczeœni Centrologowie przyst¹pili}
-{12050}{}{do kontrataku, ma³o kto potrafi³ im siê}
-{12051}{}{przeciwstawiæ - zinfiltrowali organizacje,}
-{12052}{}{które stara³y siê ich zniszczyæ, stworzyli}
-{12053}{}{programy "telewizyjne", maj¹ce na celu obna¿anie}
-{12054}{}{k³amstw, kórymi rz¹d ca³ymi latami karmi³ lud.}
+{12046}{}{Centrologia zeszÅ‚a na jakiÅ› czas do podziemia,}
+{12047}{}{gotujÄ…c swe siÅ‚y przeciwko tym, ktÃ³rzy zazdroÅ›cili}
+{12048}{}{jej prostoty i przydatnoÅ›ci dla zwykÅ‚ych ludzi.}
+{12049}{}{Kiedy w koÅ„cu Ã³wczeÅ›ni Centrologowie przystÄ…pili}
+{12050}{}{do kontrataku, maÅ‚o kto potrafiÅ‚ im siÄ™}
+{12051}{}{przeciwstawiÄ‡ - zinfiltrowali organizacje,}
+{12052}{}{ktÃ³re staraÅ‚y siÄ™ ich zniszczyÄ‡, stworzyli}
+{12053}{}{programy "telewizyjne", majÄ…ce na celu obnaÅ¼anie}
+{12054}{}{kÅ‚amstw, kÃ³rymi rzÄ…d caÅ‚ymi latami karmiÅ‚ lud.}
 {12055}{}{**END-PAR**}
-{12056}{}{Wywo³a³o to chwilow¹ reakcjê negatywn¹. Przeciêtny}
-{12057}{}{cz³owiek w¹tpi³ w Centrologiê z powodu wypaczonych}
-{12058}{}{informacji pojawiaj¹cych siê w mediach. Czeka³a}
-{12059}{}{nas jeszcze d³uga walka z tymi, którzy nazywali}
-{12060}{}{nas szaleñcami. W owym czasie zakoñczy³ swój ¿ywot}
-{12061}{}{wielki Centrum, przepe³niaj¹c nasze serca}
+{12056}{}{WywoÅ‚aÅ‚o to chwilowÄ… reakcjÄ™ negatywnÄ…. PrzeciÄ™tny}
+{12057}{}{czÅ‚owiek wÄ…tpiÅ‚ w CentrologiÄ™ z powodu wypaczonych}
+{12058}{}{informacji pojawiajÄ…cych siÄ™ w mediach. CzekaÅ‚a}
+{12059}{}{nas jeszcze dÅ‚uga walka z tymi, ktÃ³rzy nazywali}
+{12060}{}{nas szaleÅ„cami. W owym czasie zakoÅ„czyÅ‚ swÃ³j Å¼ywot}
+{12061}{}{wielki Centrum, przepeÅ‚niajÄ…c nasze serca}
 {12062}{}{niewypowiedzianym smutkiem.}
 {12063}{}{**END-PAR**}
-{12064}{}{Uzbrojeni w wiedzê, któr¹ nape³ni³ nas Centrum,}
-{12065}{}{jednoczeni z Gwiezdnym Ojcem, obracaj¹cym ku nam}
-{12066}{}{kosmiczny okr¹g, osi¹gn¹wszy wy¿szy poziom}
-{12067}{}{œwiadomoœci, przepe³nieni byliœmy pewnoœci¹,}
-{12068}{}{i¿ prawdziw¹ by³a droga, któr¹ kroczyliœmy.}
-{12069}{}{Wzd³u¿ niej pojawiali siê nowi wyznawcy, wielu}
-{12070}{}{których zwyczajnie pragnê³o zaznaæ wiary,}
-{12071}{}{i¿ gdzieœ tam jest miejsce lepsze od tego œwiata.}
-{12072}{}{Zaoferowaliœmy im dowód na istnienie ¿ycia}
-{12073}{}{na innych planetach i filozofiê, która pozwala}
-{12074}{}{na zrozumienie Wszechœwiata. Ludzie garnêli siê}
-{12075}{}{do nas, zainspirowani prawoœci¹ naszych umys³ów.}
-{12076}{}{A fakt, i¿ przetrwaliœmy Wielki Potop nietkniêci}
-{12077}{}{oznacza³, ¿e Wielki Okr¹g obraca siê zgodnie}
+{12064}{}{Uzbrojeni w wiedzÄ™, ktÃ³rÄ… napeÅ‚niÅ‚ nas Centrum,}
+{12065}{}{jednoczeni z Gwiezdnym Ojcem, obracajÄ…cym ku nam}
+{12066}{}{kosmiczny okrÄ…g, osiÄ…gnÄ…wszy wyÅ¼szy poziom}
+{12067}{}{Å›wiadomoÅ›ci, przepeÅ‚nieni byliÅ›my pewnoÅ›ciÄ…,}
+{12068}{}{iÅ¼ prawdziwÄ… byÅ‚a droga, ktÃ³rÄ… kroczyliÅ›my.}
+{12069}{}{WzdÅ‚uÅ¼ niej pojawiali siÄ™ nowi wyznawcy, wielu}
+{12070}{}{ktÃ³rych zwyczajnie pragnÄ™Å‚o zaznaÄ‡ wiary,}
+{12071}{}{iÅ¼ gdzieÅ› tam jest miejsce lepsze od tego Å›wiata.}
+{12072}{}{ZaoferowaliÅ›my im dowÃ³d na istnienie Å¼ycia}
+{12073}{}{na innych planetach i filozofiÄ™, ktÃ³ra pozwala}
+{12074}{}{na zrozumienie WszechÅ›wiata. Ludzie garnÄ™li siÄ™}
+{12075}{}{do nas, zainspirowani prawoÅ›ciÄ… naszych umysÅ‚Ã³w.}
+{12076}{}{A fakt, iÅ¼ przetrwaliÅ›my Wielki Potop nietkniÄ™ci}
+{12077}{}{oznaczaÅ‚, Å¼e Wielki OkrÄ…g obraca siÄ™ zgodnie}
 {12078}{}{z naszymi naukami!}
 {12079}{}{**END-PAR**}
 {12080}{}{FILOZOFIA}
-{12081}{}{Centrologia sk³ada siê z prostych regu³,}
+{12081}{}{Centrologia skÅ‚ada siÄ™ z prostych reguÅ‚,}
 {12082}{}{stworzonych przez najwybitniejsze religijne}
-{12083}{}{i filozoficzne umys³y przedpotopowej Ziemi}
-{12084}{}{- wierzymy, ¿e ¿ycie, wszechœwiat i wszystko inne}
-{12085}{}{najlepiej symbolizuje obracaj¹cy siê okr¹g.}
-{12086}{}{Zewnêtrzny obwód okrêgu sk³¹da siê z tych, którzy}
-{12087}{}{nie rozumiej¹ naszych nauk i nie rozumiej¹ prawdy.}
-{12088}{}{Nazywamy ich "wieñcem rozpaczy", jako ¿e Okr¹g}
-{12089}{}{z ka¿dym obrotem mia¿d¿y ich puste jestestwa.}
+{12083}{}{i filozoficzne umysÅ‚y przedpotopowej Ziemi}
+{12084}{}{- wierzymy, Å¼e Å¼ycie, wszechÅ›wiat i wszystko inne}
+{12085}{}{najlepiej symbolizuje obracajÄ…cy siÄ™ okrÄ…g.}
+{12086}{}{ZewnÄ™trzny obwÃ³d okrÄ™gu skÅ‚Ä…da siÄ™ z tych, ktÃ³rzy}
+{12087}{}{nie rozumiejÄ… naszych nauk i nie rozumiejÄ… prawdy.}
+{12088}{}{Nazywamy ich "wieÅ„cem rozpaczy", jako Å¼e OkrÄ…g}
+{12089}{}{z kaÅ¼dym obrotem miaÅ¼dÅ¼y ich puste jestestwa.}
 {12090}{}{**END-PAR**}
-{12091}{}{Wyznawcy Centrologii s¹ Szprychami Ko³a.}
-{12092}{}{Rozumiemy co wprawia Okr¹g w ruch i robimy}
-{12093}{}{wszystko, ¿eby ten ruch utrzymaæ. Ci, którzy}
-{12094}{}{panuj¹ nad czêœci¹ okrêgu nazywani s¹ Piastami}
-{12095}{}{- z tego co wiemy, by³o i jest ich bardzo niewielu}
-{12096}{}{- oœwieconych umys³ów, szukaj¹cych poprawy losu}
-{12097}{}{swych bratnich ziemian. Twórcê Centrologii nazywamy}
-{12098}{}{Wielk¹ Piast¹, jako ¿e jest tym, który najbardziej}
-{12099}{}{zbli¿y³ siê do Prawdy.}
+{12091}{}{Wyznawcy Centrologii sÄ… Szprychami KoÅ‚a.}
+{12092}{}{Rozumiemy co wprawia OkrÄ…g w ruch i robimy}
+{12093}{}{wszystko, Å¼eby ten ruch utrzymaÄ‡. Ci, ktÃ³rzy}
+{12094}{}{panujÄ… nad czÄ™Å›ciÄ… okrÄ™gu nazywani sÄ… Piastami}
+{12095}{}{- z tego co wiemy, byÅ‚o i jest ich bardzo niewielu}
+{12096}{}{- oÅ›wieconych umysÅ‚Ã³w, szukajÄ…cych poprawy losu}
+{12097}{}{swych bratnich ziemian. TwÃ³rcÄ™ Centrologii nazywamy}
+{12098}{}{WielkÄ… PiastÄ…, jako Å¼e jest tym, ktÃ³ry najbardziej}
+{12099}{}{zbliÅ¼yÅ‚ siÄ™ do Prawdy.}
 {12100}{}{**END-PAR**}
-{12101}{}{Praktykuj¹c nasz¹ religiê, stosujemy naukowe metody}
+{12101}{}{PraktykujÄ…c naszÄ… religiÄ™, stosujemy naukowe metody}
 {12102}{}{stworzone przez Centrum i ulepszone przez jego}
-{12103}{}{spadkobierców, których celem jest uszeregowanie}
-{12104}{}{wadliwych neurodyn, które tworz¹ dysharmoniê}
-{12105}{}{i asymetriê ko³a. Pozwala nam to na oczyszczenie}
-{12106}{}{naszych wnêtrz i przygotowanie siê do samokontroli.}
-{12107}{}{Tylko poprzez proces samokontroli jesteœmy w stanie}
-{12108}{}{osi¹gn¹æ cel i tylko samokontrola pozwala nam}
-{12109}{}{zrozumieæ nasze miejsce w kosmosie i na Wielkim}
-{12110}{}{Okrêgu. Jedynie w samokontroli odnajdujemy drogê}
-{12111}{}{do stania siê godnymi wejœcia na pok³ad ognistych}
-{12112}{}{tarcz, które przybêd¹ nam na spotkanie na planecie}
+{12103}{}{spadkobiercÃ³w, ktÃ³rych celem jest uszeregowanie}
+{12104}{}{wadliwych neurodyn, ktÃ³re tworzÄ… dysharmoniÄ™}
+{12105}{}{i asymetriÄ™ koÅ‚a. Pozwala nam to na oczyszczenie}
+{12106}{}{naszych wnÄ™trz i przygotowanie siÄ™ do samokontroli.}
+{12107}{}{Tylko poprzez proces samokontroli jesteÅ›my w stanie}
+{12108}{}{osiÄ…gnÄ…Ä‡ cel i tylko samokontrola pozwala nam}
+{12109}{}{zrozumieÄ‡ nasze miejsce w kosmosie i na Wielkim}
+{12110}{}{OkrÄ™gu. Jedynie w samokontroli odnajdujemy drogÄ™}
+{12111}{}{do stania siÄ™ godnymi wejÅ›cia na pokÅ‚ad ognistych}
+{12112}{}{tarcz, ktÃ³re przybÄ™dÄ… nam na spotkanie na planecie}
 {12113}{}{Quetzel.}
 {12114}{}{**END-PAR**}
-{12115}{}{Myœlimy o naszej wspólnocie jako o religii}
-{12116}{}{po³¹czonej z najlepsz¹ metod¹ naukow¹ - nazywamy}
-{12117}{}{to naukow¹ duchowoœci¹... mamy nadziejê, ¿e i ty}
-{12118}{}{wkrótce bêdziesz tak na to patrzy³!}
+{12115}{}{MyÅ›limy o naszej wspÃ³lnocie jako o religii}
+{12116}{}{poÅ‚Ä…czonej z najlepszÄ… metodÄ… naukowÄ… - nazywamy}
+{12117}{}{to naukowÄ… duchowoÅ›ciÄ…... mamy nadziejÄ™, Å¼e i ty}
+{12118}{}{wkrÃ³tce bÄ™dziesz tak na to patrzyÅ‚!}
 {12119}{}{**END-PAR**}
 {12120}{}{Oto nasza historia stworzenia:}
-{12121}{}{Przed wiekami wszyscy ¿yli w pokoju i wzajemnej}
-{12122}{}{harmonii. Cia³o, umys³ i duch by³y jednoœci¹ we}
-{12123}{}{wszystkich stworzeniach, a istniej¹ce technologie}
-{12124}{}{przekracza³y wszelkie wyobra¿enia. By³ to czas}
-{12125}{}{pokoju, twórczoœci i zjednoczenia. I wtedy nadesz³y}
-{12126}{}{Mroczne Dni. Thrakazog Czarna Dziura zacz¹³ szerzyæ}
-{12127}{}{nauki o rozszczepieniu cia³a i umys³u i od³¹czeniu}
-{12128}{}{ducha. Wybuch³a Wielka Wojna, która zniszczy³a dusze}
-{12129}{}{i cia³a, rozsiewaj¹c ich szcz¹tki po ca³ym}
-{12130}{}{wszechœwiecie. Wielki Okr¹g by³ bliski oddzielenia}
-{12131}{}{od osi istnienia, a jego szprychy po³ama³y siê}
-{12132}{}{na koleinach, które stworzy³ Thrakazog.}
-{12133}{}{Musia³o powstaæ nowe ¿ycie.}
+{12121}{}{Przed wiekami wszyscy Å¼yli w pokoju i wzajemnej}
+{12122}{}{harmonii. CiaÅ‚o, umysÅ‚ i duch byÅ‚y jednoÅ›ciÄ… we}
+{12123}{}{wszystkich stworzeniach, a istniejÄ…ce technologie}
+{12124}{}{przekraczaÅ‚y wszelkie wyobraÅ¼enia. ByÅ‚ to czas}
+{12125}{}{pokoju, twÃ³rczoÅ›ci i zjednoczenia. I wtedy nadeszÅ‚y}
+{12126}{}{Mroczne Dni. Thrakazog Czarna Dziura zaczÄ…Å‚ szerzyÄ‡}
+{12127}{}{nauki o rozszczepieniu ciaÅ‚a i umysÅ‚u i odÅ‚Ä…czeniu}
+{12128}{}{ducha. WybuchÅ‚a Wielka Wojna, ktÃ³ra zniszczyÅ‚a dusze}
+{12129}{}{i ciaÅ‚a, rozsiewajÄ…c ich szczÄ…tki po caÅ‚ym}
+{12130}{}{wszechÅ›wiecie. Wielki OkrÄ…g byÅ‚ bliski oddzielenia}
+{12131}{}{od osi istnienia, a jego szprychy poÅ‚amaÅ‚y siÄ™}
+{12132}{}{na koleinach, ktÃ³re stworzyÅ‚ Thrakazog.}
+{12133}{}{MusiaÅ‚o powstaÄ‡ nowe Å¼ycie.}
 {12134}{}{**END-PAR**}
-{12135}{}{I tak siê sta³o, na planecie Terra, jak i na innych}
-{12136}{}{planetach we wszechœwiecie. (Skupiamy siê g³ównie}
-{12137}{}{na ¿yciu, które powsta³o na Terrze, gdy¿ mimo,}
-{12138}{}{i¿ wierzymy, ¿e kiedyœ ponownie po³¹czymy oddzielone}
-{12139}{}{szprychy wraz ze swymi gwiezdnymi braæmi, musimy}
-{12140}{}{najpierw skoncentrowaæ siê na uczynieniu z nas}
-{12141}{}{samych sprawnych szprych.) Nowe ¿ycie ska¿one}
-{12142}{}{by³o umar³ymi skrawkami dusz. Prowadzi³o to do}
-{12142}{}{nienawiœci i nieporozumieñ, a przez Terrê}
-{12143}{}{przetacza³y siê kolejne wojny. Wreszcie przyszed³}
-{12144}{}{dzieñ, w którym pewien wizjoner uœwiadomi³ sobie,}
-{12145}{}{¿e jedyn¹ drog¹ do pokoju, porozumienia}
-{12146}{}{i oœwiecenia by³o oczyszczenie ludzkich dusz}
-{12147}{}{z umar³ych skrawków. Tym wizjonerem by³ Centrum.}
-{12148}{}{Proces oczyszczania trwa do dziœ.}
+{12135}{}{I tak siÄ™ staÅ‚o, na planecie Terra, jak i na innych}
+{12136}{}{planetach we wszechÅ›wiecie. (Skupiamy siÄ™ gÅ‚Ã³wnie}
+{12137}{}{na Å¼yciu, ktÃ³re powstaÅ‚o na Terrze, gdyÅ¼ mimo,}
+{12138}{}{iÅ¼ wierzymy, Å¼e kiedyÅ› ponownie poÅ‚Ä…czymy oddzielone}
+{12139}{}{szprychy wraz ze swymi gwiezdnymi braÄ‡mi, musimy}
+{12140}{}{najpierw skoncentrowaÄ‡ siÄ™ na uczynieniu z nas}
+{12141}{}{samych sprawnych szprych.) Nowe Å¼ycie skaÅ¼one}
+{12142}{}{byÅ‚o umarÅ‚ymi skrawkami dusz. ProwadziÅ‚o to do}
+{12142}{}{nienawiÅ›ci i nieporozumieÅ„, a przez TerrÄ™}
+{12143}{}{przetaczaÅ‚y siÄ™ kolejne wojny. Wreszcie przyszedÅ‚}
+{12144}{}{dzieÅ„, w ktÃ³rym pewien wizjoner uÅ›wiadomiÅ‚ sobie,}
+{12145}{}{Å¼e jedynÄ… drogÄ… do pokoju, porozumienia}
+{12146}{}{i oÅ›wiecenia byÅ‚o oczyszczenie ludzkich dusz}
+{12147}{}{z umarÅ‚ych skrawkÃ³w. Tym wizjonerem byÅ‚ Centrum.}
+{12148}{}{Proces oczyszczania trwa do dziÅ›.}
 {12149}{}{**END-PAR**}
 {12150}{}{SKOROWIDZ}
 {12151}{}{UKC/Uszeregowany Kandydat Centrum: Poziomy}
-{12152}{}{oœwiecenia mierzone s¹ stopniem oczyszczenia}
+{12152}{}{oÅ›wiecenia mierzone sÄ… stopniem oczyszczenia}
 {12153}{}{twoich neurodyn, w procesie odrzucania negatywnej}
-{12154}{}{energii twojej tkanki i zamiany jej w pozytywn¹}
-{12155}{}{energiê psychiczn¹. Gdy osi¹gniesz odpowiedni}
-{12156}{}{poziom zetañskiej energii, mo¿esz udaæ siê w podró¿}
-{12157}{}{na Quetzel, lub mo¿esz czekaæ w nadziei, ¿e}
-{12158}{}{Podniesienie odbêdzie siê jeszcze za twego ¿ycia.}
+{12154}{}{energii twojej tkanki i zamiany jej w pozytywnÄ…}
+{12155}{}{energiÄ™ psychicznÄ…. Gdy osiÄ…gniesz odpowiedni}
+{12156}{}{poziom zetaÅ„skiej energii, moÅ¼esz udaÄ‡ siÄ™ w podrÃ³Å¼}
+{12157}{}{na Quetzel, lub moÅ¼esz czekaÄ‡ w nadziei, Å¼e}
+{12158}{}{Podniesienie odbÄ™dzie siÄ™ jeszcze za twego Å¼ycia.}
 {12159}{}{**END-PAR**}
-{12160}{}{Uszeregowanie: Gdy neurodyny pozostaj¹}
-{12161}{}{zanieczyszczone i utrzymuj¹ niskie poziomy Zeta}
+{12160}{}{Uszeregowanie: Gdy neurodyny pozostajÄ…}
+{12161}{}{zanieczyszczone i utrzymujÄ… niskie poziomy Zeta}
 {12162}{}{kandydata, poddajemy je "uszeregowaniu" -}
-{12163}{}{na uniwersalnym Okrêgu przeprowadzaj¹c Skan Zeta}
-{12164}{}{uszkodzonej neurodyny i usuwaj¹c zanieczyszczenia.}
-{12165}{}{Zbyt czêste i zbyt szybkie uszeregowanie jest}
+{12163}{}{na uniwersalnym OkrÄ™gu przeprowadzajÄ…c Skan Zeta}
+{12164}{}{uszkodzonej neurodyny i usuwajÄ…c zanieczyszczenia.}
+{12165}{}{Zbyt czÄ™ste i zbyt szybkie uszeregowanie jest}
 {12166}{}{szkodliwe dla ducha.}
 {12167}{}{**END-PAR**}
-{12168}{}{Oœwiecenie: Oœwiecenie jest stanem nastêpuj¹cym}
-{12169}{}{po UKC-9 - gdy kandydat zdoby³ ju¿ na tyle du¿¹}
-{12170}{}{wiedzê, ¿e staje siê integraln¹ czêœci¹ Wielkiego}
-{12171}{}{Okrêgu i mo¿e zakoñczyæ sw¹ ziemsk¹ egzystencjê.}
-{12172}{}{Niektórzy z oœwieconych pozostaj¹ na Terrze,}
-{12172}{}{by doprowadziæ resztê z nas do stanu ³aski}
-{12173}{}{i udzielaæ wskazówek jak pokierowaæ ko³em w³asnego}
+{12168}{}{OÅ›wiecenie: OÅ›wiecenie jest stanem nastÄ™pujÄ…cym}
+{12169}{}{po UKC-9 - gdy kandydat zdobyÅ‚ juÅ¼ na tyle duÅ¼Ä…}
+{12170}{}{wiedzÄ™, Å¼e staje siÄ™ integralnÄ… czÄ™Å›ciÄ… Wielkiego}
+{12171}{}{OkrÄ™gu i moÅ¼e zakoÅ„czyÄ‡ swÄ… ziemskÄ… egzystencjÄ™.}
+{12172}{}{NiektÃ³rzy z oÅ›wieconych pozostajÄ… na Terrze,}
+{12172}{}{by doprowadziÄ‡ resztÄ™ z nas do stanu Å‚aski}
+{12173}{}{i udzielaÄ‡ wskazÃ³wek jak pokierowaÄ‡ koÅ‚em wÅ‚asnego}
 {12174}{}{losu.}
 {12175}{}{**END-PAR**}
-{12176}{}{Wielki Okr¹g: okreœlenie to odnosi siê do}
-{12177}{}{cyklicznej natury wszechœwiata, czasu}
-{12178}{}{i przestrzeni. Wszystko jest czêœci¹ Wielkiego}
-{12179}{}{Okrêgu. S¹ tacy, którzy potrafi¹ sterowaæ Okrêgiem}
-{12180}{}{- lub po prostu rozumiej¹ w jakim kierunku siê on}
+{12176}{}{Wielki OkrÄ…g: okreÅ›lenie to odnosi siÄ™ do}
+{12177}{}{cyklicznej natury wszechÅ›wiata, czasu}
+{12178}{}{i przestrzeni. Wszystko jest czÄ™Å›ciÄ… Wielkiego}
+{12179}{}{OkrÄ™gu. SÄ… tacy, ktÃ³rzy potrafiÄ… sterowaÄ‡ OkrÄ™giem}
+{12180}{}{- lub po prostu rozumiejÄ… w jakim kierunku siÄ™ on}
 {12181}{}{porusza - my nazywamy ich bogami, prorokami}
-{12182}{}{i wizjonerami. Ci, którzy opanowali sztukê}
-{12183}{}{kierowania Wielkim Okrêgiem s¹ prawdziwie}
-{12184}{}{oœwieceni.}
+{12182}{}{i wizjonerami. Ci, ktÃ³rzy opanowali sztukÄ™}
+{12183}{}{kierowania Wielkim OkrÄ™giem sÄ… prawdziwie}
+{12184}{}{oÅ›wieceni.}
 {12185}{}{**END-PAR**}
-{12186}{}{Neurodyny: Neurodyny s¹ stanami ducha. Staro¿ytne}
-{12187}{}{religie nazywa³y je "shakrami". Mog¹ zostaæ}
-{12188}{}{zanieczyszczone umar³ymi skrawkami dusz i negatywn¹}
-{12189}{}{energi¹ emanuj¹c¹ z drêczycieli.}
+{12186}{}{Neurodyny: Neurodyny sÄ… stanami ducha. StaroÅ¼ytne}
+{12187}{}{religie nazywaÅ‚y je "shakrami". MogÄ… zostaÄ‡}
+{12188}{}{zanieczyszczone umarÅ‚ymi skrawkami dusz i negatywnÄ…}
+{12189}{}{energiÄ… emanujÄ…cÄ… z drÄ™czycieli.}
 {12190}{}{**END-PAR**}
-{12191}{}{Drêczyciele: Osobnicy tak pe³ni negatywnej energii}
-{12192}{}{i ska¿onych skrawków dusz, ¿e potrafi¹ wywrzeæ swój}
-{12193}{}{z³y wp³yw na szukaj¹cych oœwiecenia sam¹ swoj¹}
-{12194}{}{obecnoœci¹. Nale¿y ich unikaæ - wielu z nich jest}
-{12195}{}{tak ska¿onych, ¿e nie potrafi¹ dojrzeæ wartoœci}
-{12196}{}{p³yn¹cej z dobrego oczyszczenia i staraj¹ siê}
-{12197}{}{zmieniæ kurs Wielkiego Okrêgu.}
+{12191}{}{DrÄ™czyciele: Osobnicy tak peÅ‚ni negatywnej energii}
+{12192}{}{i skaÅ¼onych skrawkÃ³w dusz, Å¼e potrafiÄ… wywrzeÄ‡ swÃ³j}
+{12193}{}{zÅ‚y wpÅ‚yw na szukajÄ…cych oÅ›wiecenia samÄ… swojÄ…}
+{12194}{}{obecnoÅ›ciÄ…. NaleÅ¼y ich unikaÄ‡ - wielu z nich jest}
+{12195}{}{tak skaÅ¼onych, Å¼e nie potrafiÄ… dojrzeÄ‡ wartoÅ›ci}
+{12196}{}{pÅ‚ynÄ…cej z dobrego oczyszczenia i starajÄ… siÄ™}
+{12197}{}{zmieniÄ‡ kurs Wielkiego OkrÄ™gu.}
 {12198}{}{**END-PAR**}
-{12199}{}{Quetzel: Planeta, na któr¹ zabierze nas Gwiezdny}
-{12200}{}{Ojciec, gdy staniemy siê Zoptymalizowani, spotkamy}
-{12201}{}{na niej swych gwieŸdzistych braci i do³¹czymy do}
-{12202}{}{nich w niebiañskiej wêdrówce ognistych tarcz.}
+{12199}{}{Quetzel: Planeta, na ktÃ³rÄ… zabierze nas Gwiezdny}
+{12200}{}{Ojciec, gdy staniemy siÄ™ Zoptymalizowani, spotkamy}
+{12201}{}{na niej swych gwieÅºdzistych braci i doÅ‚Ä…czymy do}
+{12202}{}{nich w niebiaÅ„skiej wÄ™drÃ³wce ognistych tarcz.}
 {12203}{}{**END-PAR**}
-{12204}{}{Wieniec Rozpaczy: Osoba lub osoby, które}
-{12205}{}{nie podda³y siê jeszcze procesowi uszeregowania}
+{12204}{}{Wieniec Rozpaczy: Osoba lub osoby, ktÃ³re}
+{12205}{}{nie poddaÅ‚y siÄ™ jeszcze procesowi uszeregowania}
 {12206}{}{i oczyszczenia neurodyn.}
 {12207}{}{**END-PAR**}
-{12208}{}{Gwiezdny Ojciec: Niektórzy nazwaliby go "bogiem".}
-{12209}{}{My wolimy o nim myœleæ jako o uniwersalnej sile,}
-{12210}{}{z której pobieramy swoj¹ energiê i której tê}
-{12211}{}{energiê oddajemy w cyklicznym zwi¹zku.}
+{12208}{}{Gwiezdny Ojciec: NiektÃ³rzy nazwaliby go "bogiem".}
+{12209}{}{My wolimy o nim myÅ›leÄ‡ jako o uniwersalnej sile,}
+{12210}{}{z ktÃ³rej pobieramy swojÄ… energiÄ™ i ktÃ³rej tÄ™}
+{12211}{}{energiÄ™ oddajemy w cyklicznym zwiÄ…zku.}
 {12212}{}{**END-PAR**}
-{12213}{}{Podniesienie: Czas, w którym Gwiezdny Ojciec wzywa}
+{12213}{}{Podniesienie: Czas, w ktÃ³rym Gwiezdny Ojciec wzywa}
 {12214}{}{nas od domu, na Quetzel, gdzie spotkamy swych}
-{12215}{}{pozaziemskich braci i zbli¿ymy siê do œrodka}
-{12216}{}{Wielkiego Okrêgu. Ci, którzy podjêli próbê}
-{12217}{}{zrozumienia s³ów Centrum, obojêtnie jaki by³by}
-{12218}{}{ich poziom UKC, zostan¹ zaproszeni do po³¹czenia}
-{12219}{}{siê z Gwiezdny Ojcem w niebiosach planety Quetzel.}
+{12215}{}{pozaziemskich braci i zbliÅ¼ymy siÄ™ do Å›rodka}
+{12216}{}{Wielkiego OkrÄ™gu. Ci, ktÃ³rzy podjÄ™li prÃ³bÄ™}
+{12217}{}{zrozumienia sÅ‚Ã³w Centrum, obojÄ™tnie jaki byÅ‚by}
+{12218}{}{ich poziom UKC, zostanÄ… zaproszeni do poÅ‚Ä…czenia}
+{12219}{}{siÄ™ z Gwiezdny Ojcem w niebiosach planety Quetzel.}
 {12220}{}{**END-PAR**}
-{12221}{}{Skan Zeta: Inne okreœlenie na "uszeregowanie",}
+{12221}{}{Skan Zeta: Inne okreÅ›lenie na "uszeregowanie",}
 {12222}{}{Skan Zeta pomaga w oczyszczeniu neurodyn i ducha.}
-{12223}{}{W procesie tym bierze udzia³ urz¹dzenie, które}
-{12224}{}{przepuszcza wielkie dawki elektrycznoœci przez}
-{12225}{}{skórê - napiêcie elektryczne jest dok³adnie}
-{12226}{}{obliczone, co do wolta, do wartoœci potrzebnej}
-{12227}{}{do usuniêcia negatywnej energii z neurodyny.}
-{12228}{}{Gdy poddajesz siê Skanowi Zeta, œcie¿ka twego}
-{12229}{}{¿ycia staje siê bardziej zgodna z ruchem Wielkiego}
-{12130}{}{Okrêgu.}
+{12223}{}{W procesie tym bierze udziaÅ‚ urzÄ…dzenie, ktÃ³re}
+{12224}{}{przepuszcza wielkie dawki elektrycznoÅ›ci przez}
+{12225}{}{skÃ³rÄ™ - napiÄ™cie elektryczne jest dokÅ‚adnie}
+{12226}{}{obliczone, co do wolta, do wartoÅ›ci potrzebnej}
+{12227}{}{do usuniÄ™cia negatywnej energii z neurodyny.}
+{12228}{}{Gdy poddajesz siÄ™ Skanowi Zeta, Å›cieÅ¼ka twego}
+{12229}{}{Å¼ycia staje siÄ™ bardziej zgodna z ruchem Wielkiego}
+{12130}{}{OkrÄ™gu.}
 {12231}{}{**END-PAR**}
 {12232}{}{BIBLIOGRAFIA}
-{12233}{}{Ksi¹¿ki Centrum}
-{12234}{}{(Wymienione s¹ tutaj setki tytu³ów, miêdzy innymi:}
-{12235}{}{Naukowa Duchowoœæ, Pole bitewne Quetzel,}
+{12233}{}{KsiÄ…Å¼ki Centrum}
+{12234}{}{(Wymienione sÄ… tutaj setki tytuÅ‚Ã³w, miÄ™dzy innymi:}
+{12235}{}{Naukowa DuchowoÅ›Ä‡, Pole bitewne Quetzel,}
 {12236}{}{A Ponad Nami Gwiezdny Ojciec, Zebrane Listy}
-{12237}{}{Zakupów, Notatki i Przemyœlenia, Jak Skutecznie}
-{12238}{}{Pozwaæ Wroga, Jak Stworzyæ Kult, Ksi¹¿ki Które}
-{12239}{}{Napiszê Po Œmierci.)}
+{12237}{}{ZakupÃ³w, Notatki i PrzemyÅ›lenia, Jak Skutecznie}
+{12238}{}{PozwaÄ‡ Wroga, Jak StworzyÄ‡ Kult, KsiÄ…Å¼ki KtÃ³re}
+{12239}{}{NapiszÄ™ Po Åšmierci.)}
 {12240}{}{**END-DISK**}
 
-{13000}{}{ZAPISKI PROJEKTANTÓW KRYPTOPOLIS}
+{13000}{}{ZAPISKI PROJEKTANTÃ“W KRYPTOPOLIS}
 {13001}{}{**END-PAR**}
-{13002}{}{Kryptopolis ma wielu ojców. Zosta³o zaprojektowane}
+{13002}{}{Kryptopolis ma wielu ojcÃ³w. ZostaÅ‚o zaprojektowane}
 {13003}{}{przez Leonarda Boyarskiego, Jasona Andersona,}
 {13004}{}{Feargusa Urquharta i Chrisa Avellone. Scott Everts}
-{13005}{}{narysowa³ mapy, a tymi, którzy odwa¿yli siê stworzyæ}
+{13005}{}{narysowaÅ‚ mapy, a tymi, ktÃ³rzy odwaÅ¼yli siÄ™ stworzyÄ‡}
 {13006}{}{skrypty do tego architektonicznego Frankensteina}
-{13007}{}{byli Rob Hertenstein III i Dan Spitzley. W koñcu,}
-{13008}{}{Eric Pribish prawie odda³ ¿ycie testuj¹c tê}
-{13009}{}{potwornoœæ, jak¹ jest Kryptopolis.}
+{13007}{}{byli Rob Hertenstein III i Dan Spitzley. W koÅ„cu,}
+{13008}{}{Eric Pribish prawie oddaÅ‚ Å¼ycie testujÄ…c tÄ™}
+{13009}{}{potwornoÅ›Ä‡, jakÄ… jest Kryptopolis.}
 {13010}{}{**END-PAR**}
-{13011}{}{Chris chcia³by podziêkowaæ ni¿ej wymienionym}
-{13012}{}{osobom, które pomaga³y w trakcie produkcji gry}
-{13013}{}{Fallout 2: Rob, Scotty, i Dan (oczywiœcie), Eileen}
-{13014}{}{Suh, Sarah Smart, Emily Yance, Thuy Dang (któremu}
-{13015}{}{nigdy za nic nie dziêkujê), Chris Wright}
+{13011}{}{Chris chciaÅ‚by podziÄ™kowaÄ‡ niÅ¼ej wymienionym}
+{13012}{}{osobom, ktÃ³re pomagaÅ‚y w trakcie produkcji gry}
+{13013}{}{Fallout 2: Rob, Scotty, i Dan (oczywiÅ›cie), Eileen}
+{13014}{}{Suh, Sarah Smart, Emily Yance, Thuy Dang (ktÃ³remu}
+{13015}{}{nigdy za nic nie dziÄ™kujÄ™), Chris Wright}
 {13016}{}{i Tim Winkle.}
 {13017}{}{**END-PAR**}
-{13018}{}{Scotty chcia³by podziêkowaæ ni¿ej wymienionym}
-{13019}{}{osobom: Don & Aileen Everts i Avis Andre. I dziêki}
-{13020}{}{dla Billa Bridgesa za te wszystkie œwietne ksi¹¿ki}
+{13018}{}{Scotty chciaÅ‚by podziÄ™kowaÄ‡ niÅ¼ej wymienionym}
+{13019}{}{osobom: Don & Aileen Everts i Avis Andre. I dziÄ™ki}
+{13020}{}{dla Billa Bridgesa za te wszystkie Å›wietne ksiÄ…Å¼ki}
 {13021}{}{z serii Fading Suns!}
 {13022}{}{**END-PAR**}
-{13023}{}{Dan chcia³by podziêkowaæ ni¿ej wymienionym osobom:}
-{13024}{}{Split Enz (za œwietne muzyczki), James Cameron}
-{13025}{}{(za Prawdziwe K³amstwa), Joe Viskocil (za zajebiste}
+{13023}{}{Dan chciaÅ‚by podziÄ™kowaÄ‡ niÅ¼ej wymienionym osobom:}
+{13024}{}{Split Enz (za Å›wietne muzyczki), James Cameron}
+{13025}{}{(za Prawdziwe KÅ‚amstwa), Joe Viskocil (za zajebiste}
 {13026}{}{eksplozje), Chong's z Triangle Square (za}
-{13027}{}{dokarmianie), Carlos Kotkin (za to, ¿e wreszcie}
-{13028}{}{rzuci³ siê na g³êbokie wody (lada dzieñ zobaczycie}
-{13029}{}{premierê jego pierwszego filmu)), Jon Land (za}
-{13030}{}{œrednio zabawne opowiadania Blaine McCrackena),}
-{13031}{}{Red Dwarf (za kupê œmiechu) i w koñcu, jak zawsze,}
-{13032}{}{dziêkujê Mamie i Tacie za to, ¿e s¹ fajni.}
+{13027}{}{dokarmianie), Carlos Kotkin (za to, Å¼e wreszcie}
+{13028}{}{rzuciÅ‚ siÄ™ na gÅ‚Ä™bokie wody (lada dzieÅ„ zobaczycie}
+{13029}{}{premierÄ™ jego pierwszego filmu)), Jon Land (za}
+{13030}{}{Å›rednio zabawne opowiadania Blaine McCrackena),}
+{13031}{}{Red Dwarf (za kupÄ™ Å›miechu) i w koÅ„cu, jak zawsze,}
+{13032}{}{dziÄ™kujÄ™ Mamie i Tacie za to, Å¼e sÄ… fajni.}
 {13033}{}{**END-PAR**}
-{13034}{}{Rob Hertenstein chcia³by podziêkowaæ ni¿ej}
-{13035}{}{wymienionym osobom: Becky Warner (ci¹gle pilnuje,}
-{13036}{}{¿ebym nie wpad³ w tarapaty), Billie Ryder (za}
+{13034}{}{Rob Hertenstein chciaÅ‚by podziÄ™kowaÄ‡ niÅ¼ej}
+{13035}{}{wymienionym osobom: Becky Warner (ciÄ…gle pilnuje,}
+{13036}{}{Å¼ebym nie wpadÅ‚ w tarapaty), Billie Ryder (za}
 {13037}{}{utrzymanie mojej higieny psychicznej podczas}
-{13038}{}{tworzenia tego projektu), Little Ryder (która ma}
-{13039}{}{pojawiæ siê jednoczeœnie z t¹ gr¹) i Nicole Roman}
-{13040}{}{(za to, ¿e jest).}
+{13038}{}{tworzenia tego projektu), Little Ryder (ktÃ³ra ma}
+{13039}{}{pojawiÄ‡ siÄ™ jednoczeÅ›nie z tÄ… grÄ…) i Nicole Roman}
+{13040}{}{(za to, Å¼e jest).}
 {13041}{}{**END-PAR**}
-{13042}{}{Eric Pribish chcia³by podziêkowaæ ni¿ej wymienionym}
+{13042}{}{Eric Pribish chciaÅ‚by podziÄ™kowaÄ‡ niÅ¼ej wymienionym}
 {13043}{}{osobom: Tommy Hood, Jr., Joe Isip i Julio Mata (za}
-{13044}{}{to, ¿e siê mnie nie wyrzekli). Dziêkujê moim starym}
-{13045}{}{przyjacio³om Bradowi i Dave'owi Carnes za to, ¿e}
+{13044}{}{to, Å¼e siÄ™ mnie nie wyrzekli). DziÄ™kujÄ™ moim starym}
+{13045}{}{przyjacioÅ‚om Bradowi i Dave'owi Carnes za to, Å¼e}
 {13046}{}{utrzymywali kontakt przez te wszystkie lata.}
-{13047}{}{Chcia³bym tak¿e z³o¿yæ najwa¿niejsze podziêkowania}
-{13048}{}{mojej kochaj¹cej dziewczynie - Rhondzie Lauffer}
-{13049}{}{za zrozumienie podczas tych d³ugich nocy}
-{13050}{}{i weekendów, gdy praca trzyma³a mnie z dala od domu}
-{13051}{}{i za to, ¿e zawsze czeka³a na mnie, gdy wreszcie}
-{13052}{}{wraca³em.}
+{13047}{}{ChciaÅ‚bym takÅ¼e zÅ‚oÅ¼yÄ‡ najwaÅ¼niejsze podziÄ™kowania}
+{13048}{}{mojej kochajÄ…cej dziewczynie - Rhondzie Lauffer}
+{13049}{}{za zrozumienie podczas tych dÅ‚ugich nocy}
+{13050}{}{i weekendÃ³w, gdy praca trzymaÅ‚a mnie z dala od domu}
+{13051}{}{i za to, Å¼e zawsze czekaÅ‚a na mnie, gdy wreszcie}
+{13052}{}{wracaÅ‚em.}
 {13053}{}{**END-PAR**}
 {13054}{}{W ramach nagrody za pokonanie Enklawy, Chris,}
-{13055}{}{Scotty, Rob, Dan i Eric chcieliby podzieliæ siê}
-{13056}{}{pewn¹ rad¹ - podejdŸ do terminala komputerowego}
-{13057}{}{w górnym, lewym k¹cie tego poziomu i u¿yj go.}
+{13055}{}{Scotty, Rob, Dan i Eric chcieliby podzieliÄ‡ siÄ™}
+{13056}{}{pewnÄ… radÄ… - podejdÅº do terminala komputerowego}
+{13057}{}{w gÃ³rnym, lewym kÄ…cie tego poziomu i uÅ¼yj go.}
 {13058}{}{**END-PAR**}
-{13059}{}{Gratulujemy ocalenia œwiata. I dziêki jeszcze raz}
+{13059}{}{Gratulujemy ocalenia Å›wiata. I dziÄ™ki jeszcze raz}
 {13060}{}{za granie w Fallout 2.}
 {13061}{}{**END-DISK**}
 
-{14000}{}{PRZEWODNIK PODRÓ¯NY Z KRYPTOPOLIS - PN KALIFORNIA}
+{14000}{}{PRZEWODNIK PODRÃ“Å»NY Z KRYPTOPOLIS - PN KALIFORNIA}
 {14001}{}{**END-PAR**}
-{14002}{}{UWAGA: Jeœli Obywatele miasta uwa¿aj¹ za konieczne}
-{14003}{}{udanie siê w podró¿, powinni zaopatrzyæ siê w ni¿ej}
+{14002}{}{UWAGA: JeÅ›li Obywatele miasta uwaÅ¼ajÄ… za konieczne}
+{14003}{}{udanie siÄ™ w podrÃ³Å¼, powinni zaopatrzyÄ‡ siÄ™ w niÅ¼ej}
 {14004}{}{wymienione przedmioty:}
 {14005}{}{}
-{14006}{}{1. Zapas racji ¿ywnoœciowych wyprodukowanych}
-{14007}{}{w Kryptopolis. Nigdy nie spo¿ywaj ¿ywnoœci oferowanej}
-{14008}{}{przez obcych, gdy¿ grozi to przedostaniem siê bakterii}
-{14009}{}{lub cz¹steczek radioaktywnych do twego ustroju!}
+{14006}{}{1. Zapas racji Å¼ywnoÅ›ciowych wyprodukowanych}
+{14007}{}{w Kryptopolis. Nigdy nie spoÅ¼ywaj Å¼ywnoÅ›ci oferowanej}
+{14008}{}{przez obcych, gdyÅ¼ grozi to przedostaniem siÄ™ bakterii}
+{14009}{}{lub czÄ…steczek radioaktywnych do twego ustroju!}
 {14010}{}{}
-{14011}{}{2. Licznik Geigera. Zawsze pamiêtaj o monitorowaniu}
-{14012}{}{poziomu radiacji otoczenia, gdziekolwiek bêdziesz}
-{14013}{}{podró¿owa³!}
+{14011}{}{2. Licznik Geigera. Zawsze pamiÄ™taj o monitorowaniu}
+{14012}{}{poziomu radiacji otoczenia, gdziekolwiek bÄ™dziesz}
+{14013}{}{podrÃ³Å¼owaÅ‚!}
 {14014}{}{}
 {14015}{}{3. Co najmniej dwa stimpaki. Najmniejsza rana lub}
-{14016}{}{lub otarcie grozi przedostaniem siê szkodliwych}
-{14017}{}{drobnoustrojów do krwiobiegu!}
+{14016}{}{lub otarcie grozi przedostaniem siÄ™ szkodliwych}
+{14017}{}{drobnoustrojÃ³w do krwiobiegu!}
 {14018}{}{**END-PAR**}
-{14019}{}{REDDING: Ma³a miejscowoœæ górnicza na zachód od}
-{14020}{}{Kryptopolis. Redding handluje rud¹ z³ota w zamian za}
+{14019}{}{REDDING: MaÅ‚a miejscowoÅ›Ä‡ gÃ³rnicza na zachÃ³d od}
+{14020}{}{Kryptopolis. Redding handluje rudÄ… zÅ‚ota w zamian za}
 {14021}{}{medykamenty z Kryptopolis. Obywatele naszego miasta}
-{14022}{}{powinni zachowaæ daleko id¹c¹ ostro¿noœæ podró¿uj¹c}
-{14023}{}{do Redding, jako ¿e lokalna spo³ecznoœæ nie posiada}
+{14022}{}{powinni zachowaÄ‡ daleko idÄ…cÄ… ostroÅ¼noÅ›Ä‡ podrÃ³Å¼ujÄ…c}
+{14023}{}{do Redding, jako Å¼e lokalna spoÅ‚ecznoÅ›Ä‡ nie posiada}
 {14024}{}{stosownego aparatu policyjnego.}
 {14025}{}{}
-{14026}{}{LUDNOŒÆ: Dok³adne dane niedostêpne. Liczba mieszkañców}
-{14027}{}{waha siê w okolicach kilkuset.}
-{14028}{}{W£ADZE: Burmistrz i rada miejska.}
-{14029}{}{POZIOM PROMIENIOWANIA T£A: Wskazania niedostêpne.}
+{14026}{}{LUDNOÅšÄ†: DokÅ‚adne dane niedostÄ™pne. Liczba mieszkaÅ„cÃ³w}
+{14027}{}{waha siÄ™ w okolicach kilkuset.}
+{14028}{}{WÅADZE: Burmistrz i rada miejska.}
+{14029}{}{POZIOM PROMIENIOWANIA TÅA: Wskazania niedostÄ™pne.}
 {14030}{}{ }
 {14031}{}{TEMPO MUTACJI: Nieznane, przypuszczalnie niskie.}
 {14032}{}{**END-PAR**}
-{14033}{}{NOWE RENO: Miasto le¿¹ce na pd-zachód od Kryptopolis.}
-{14034}{}{Handluje rud¹ z³ota w zamian za medykamenty. Reno}
-{14035}{}{nie odnios³o zbyt wielu zniszczeñ podczas wojny (choæ}
-{14036}{}{rabunek mienia i zamieszki zebra³y swoje ¿niwo), dlatego}
-{14037}{}{wiele ulic i budynków nadal stoi na swoim miejscu.}
-{14038}{}{Uwaga! Brak centralnej w³adzy i aparatu policyjnego.}
-{14039}{}{Szerz¹ siê hazard, prostytucja. Wszechobecne s¹}
+{14033}{}{NOWE RENO: Miasto leÅ¼Ä…ce na pd-zachÃ³d od Kryptopolis.}
+{14034}{}{Handluje rudÄ… zÅ‚ota w zamian za medykamenty. Reno}
+{14035}{}{nie odniosÅ‚o zbyt wielu zniszczeÅ„ podczas wojny (choÄ‡}
+{14036}{}{rabunek mienia i zamieszki zebraÅ‚y swoje Å¼niwo), dlatego}
+{14037}{}{wiele ulic i budynkÃ³w nadal stoi na swoim miejscu.}
+{14038}{}{Uwaga! Brak centralnej wÅ‚adzy i aparatu policyjnego.}
+{14039}{}{SzerzÄ… siÄ™ hazard, prostytucja. Wszechobecne sÄ…}
 {14040}{}{narkotyki. Obywatelom Kryptopolis ZDECYDOWANIE odradza}
-{14041}{}{siê sk³adanie wizyt w Nowym Reno!}
+{14041}{}{siÄ™ skÅ‚adanie wizyt w Nowym Reno!}
 {14042}{}{}
-{14043}{}{LUDNOŒÆ: Dok³adne dane niedostêpne. Liczba}
-{14044}{}{"mieszkañców" waha siê w okolicach kilku tysiêcy.}
-{14045}{}{W£ADZE: Nowe Reno w chwili obecnej znajduje siê w stanie}
-{14046}{}{bliskim anarchii. Meldunki mówi¹ o kilku przestêpczych}
-{14047}{}{"rodzinach", które dokona³y miêdzy sob¹ podzia³u miasta.}
-{14048}{}{POZIOM PROMIENIOWANIA T£A: Wskazania niedostêpne.}
+{14043}{}{LUDNOÅšÄ†: DokÅ‚adne dane niedostÄ™pne. Liczba}
+{14044}{}{"mieszkaÅ„cÃ³w" waha siÄ™ w okolicach kilku tysiÄ™cy.}
+{14045}{}{WÅADZE: Nowe Reno w chwili obecnej znajduje siÄ™ w stanie}
+{14046}{}{bliskim anarchii. Meldunki mÃ³wiÄ… o kilku przestÄ™pczych}
+{14047}{}{"rodzinach", ktÃ³re dokonaÅ‚y miÄ™dzy sobÄ… podziaÅ‚u miasta.}
+{14048}{}{POZIOM PROMIENIOWANIA TÅA: Wskazania niedostÄ™pne.}
 {14049}{}{}
 {14050}{}{TEMPO MUTACJI: Nieznane, przypuszczalnie niskie.}
 {14051}{}{**END-PAR**}
-{14052}{}{REPUBLIKA NOWEJ KALIFORNII: Terytoria RNK le¿¹ daleko}
-{14053}{}{na po³udnie od Kryptopolis. Handel obejmuje sprzêt}
-{14054}{}{mechaniczny, z³oto i nadwy¿ki ró¿nych produktów w zamian}
-{14055}{}{za technologie medyczne pochodz¹ce z Kryptopolis.}
-{14056}{}{RNK nasili³a ostatnimi czasy próby wch³oniêcia naszego}
+{14052}{}{REPUBLIKA NOWEJ KALIFORNII: Terytoria RNK leÅ¼Ä… daleko}
+{14053}{}{na poÅ‚udnie od Kryptopolis. Handel obejmuje sprzÄ™t}
+{14054}{}{mechaniczny, zÅ‚oto i nadwyÅ¼ki rÃ³Å¼nych produktÃ³w w zamian}
+{14055}{}{za technologie medyczne pochodzÄ…ce z Kryptopolis.}
+{14056}{}{RNK nasiliÅ‚a ostatnimi czasy prÃ³by wchÅ‚oniÄ™cia naszego}
 {14057}{}{miasta jako terytorium pogranicza, dlatego naszym}
-{14058}{}{Obywatelom doradza siê zachowanie du¿ej ostro¿noœci}
-{14059}{}{podczas podró¿y do RNK.}
+{14058}{}{Obywatelom doradza siÄ™ zachowanie duÅ¼ej ostroÅ¼noÅ›ci}
+{14059}{}{podczas podrÃ³Å¼y do RNK.}
 {14060}{}{}
-{14061}{}{LUDNOŒÆ: Mimo przeprowadzenia spisu ludnoœci, nie mamy}
-{14062}{}{dostêpu do uzyskanych danych. RNK przypuszczalnie}
-{14063}{}{zaludniona jest przez wiele dziesi¹tków tysiêcy}
+{14061}{}{LUDNOÅšÄ†: Mimo przeprowadzenia spisu ludnoÅ›ci, nie mamy}
+{14062}{}{dostÄ™pu do uzyskanych danych. RNK przypuszczalnie}
+{14063}{}{zaludniona jest przez wiele dziesiÄ…tkÃ³w tysiÄ™cy}
 {14064}{}{obywateli.}
-{14065}{}{W£ADZE: Prezydent i Kongres.}
-{14066}{}{POZIOM PROMIENIOWANIA T£A: Wskazania niedostêpne.}
+{14065}{}{WÅADZE: Prezydent i Kongres.}
+{14066}{}{POZIOM PROMIENIOWANIA TÅA: Wskazania niedostÄ™pne.}
 {14067}{}{}
-{14068}{}{TEMPO MUTACJI: Uzale¿nione od terytorium.}
+{14068}{}{TEMPO MUTACJI: UzaleÅ¼nione od terytorium.}
 {14069}{}{**END-PAR**}
-{14070}{}{BROKEN HILLS: Spo³ecznoœæ górnicza na po³udnie od}
-{14071}{}{Kryptopolis. Jej g³ównym zajêciem jest wydobycie rudy}
-{14072}{}{uranu, która jest nastêpnie sprzedawana do Kryptopolis,}
-{14073}{}{w zamian za medykamenty, g³ównie Rad-X i AntyRad.}
-{14074}{}{Przypuszcza siê, ¿e tutejsi ludzie zmuszeni s¹ do}
-{14075}{}{koegzystencji z mutantami i ghulami. W zwi¹zku ze}
-{14076}{}{specyficzn¹ natur¹ mieszkañców i wysokim zagro¿eniem}
-{14077}{}{ska¿eniem, Obywatele Kryptopolis powinni unikaæ Broken}
-{14078}{}{Hills za wszelk¹ cenê!}
+{14070}{}{BROKEN HILLS: SpoÅ‚ecznoÅ›Ä‡ gÃ³rnicza na poÅ‚udnie od}
+{14071}{}{Kryptopolis. Jej gÅ‚Ã³wnym zajÄ™ciem jest wydobycie rudy}
+{14072}{}{uranu, ktÃ³ra jest nastÄ™pnie sprzedawana do Kryptopolis,}
+{14073}{}{w zamian za medykamenty, gÅ‚Ã³wnie Rad-X i AntyRad.}
+{14074}{}{Przypuszcza siÄ™, Å¼e tutejsi ludzie zmuszeni sÄ… do}
+{14075}{}{koegzystencji z mutantami i ghulami. W zwiÄ…zku ze}
+{14076}{}{specyficznÄ… naturÄ… mieszkaÅ„cÃ³w i wysokim zagroÅ¼eniem}
+{14077}{}{skaÅ¼eniem, Obywatele Kryptopolis powinni unikaÄ‡ Broken}
+{14078}{}{Hills za wszelkÄ… cenÄ™!}
 {14079}{}{}
-{14080}{}{LUDNOŒÆ: Dok³adne dane niedostêpne. Przypuszczalna}
-{14081}{}{liczba mieszkañców waha siê w granicach kilkuset.}
-{14082}{}{W£ADZE: Plotka g³osi, ¿e Pierwszym Obywatelem}
-{14083}{}{spo³ecznoœci jest MUTANT. Wydaje siê to nadzwyczaj}
-{14084}{}{nieprawdopodobne, jako ¿e wiêkszoœæ mutantów niezdolna}
-{14085}{}{jest do œcis³ego rozumowania. Jeœli jednak plotka ta}
-{14086}{}{JEST prawdziwa, daje to kolejny powód do skrupulatnego}
+{14080}{}{LUDNOÅšÄ†: DokÅ‚adne dane niedostÄ™pne. Przypuszczalna}
+{14081}{}{liczba mieszkaÅ„cÃ³w waha siÄ™ w granicach kilkuset.}
+{14082}{}{WÅADZE: Plotka gÅ‚osi, Å¼e Pierwszym Obywatelem}
+{14083}{}{spoÅ‚ecznoÅ›ci jest MUTANT. Wydaje siÄ™ to nadzwyczaj}
+{14084}{}{nieprawdopodobne, jako Å¼e wiÄ™kszoÅ›Ä‡ mutantÃ³w niezdolna}
+{14085}{}{jest do Å›cisÅ‚ego rozumowania. JeÅ›li jednak plotka ta}
+{14086}{}{JEST prawdziwa, daje to kolejny powÃ³d do skrupulatnego}
 {14087}{}{unikania Broken Hills.}
-{14088}{}{POZIOM PROMIENIOWANIA T£A: Wskazania niedostêpne.}
+{14088}{}{POZIOM PROMIENIOWANIA TÅA: Wskazania niedostÄ™pne.}
 {14089}{}{Przypuszczalnie wysoki.}
 {14090}{}{TEMPO MUTACJI: Przypuszczalnie wysokie. W Broken Hills}
-{14091}{}{najprawdopodobniej wystêpuje wysoki poziom mutacji}
+{14091}{}{najprawdopodobniej wystÄ™puje wysoki poziom mutacji}
 {14092}{}{degeneratywnych.}
 {14093}{}{**END-PAR**}
-{14094}{}{KRYPTOPOLIS: Kraina Szczêœliwoœci, wolna od zbrodni}
-{14095}{}{i innych defektów socjologicznych, nêkaj¹cych inne}
-{14096}{}{spo³ecznoœci Pó³nocnej Kalifornii. Istnieje jako}
-{14097}{}{niezale¿na kolonia od czasu swego powstania z Krypty 8}
+{14094}{}{KRYPTOPOLIS: Kraina SzczÄ™Å›liwoÅ›ci, wolna od zbrodni}
+{14095}{}{i innych defektÃ³w socjologicznych, nÄ™kajÄ…cych inne}
+{14096}{}{spoÅ‚ecznoÅ›ci PÃ³Å‚nocnej Kalifornii. Istnieje jako}
+{14097}{}{niezaleÅ¼na kolonia od czasu swego powstania z Krypty 8}
 {14098}{}{i prosperuje jako centrum eksportu technologii}
-{14099}{}{medycznych do Zewnêtrznych regionów Pó³nocnej}
-{14100}{}{Kalifornii. Wszystkich Obywateli zachêca siê do}
-{14101}{}{pozostania w Kryptopolis, jeœli jest to tylko mo¿liwe.}
+{14099}{}{medycznych do ZewnÄ™trznych regionÃ³w PÃ³Å‚nocnej}
+{14100}{}{Kalifornii. Wszystkich Obywateli zachÄ™ca siÄ™ do}
+{14101}{}{pozostania w Kryptopolis, jeÅ›li jest to tylko moÅ¼liwe.}
 {14102}{}{}
-{14103}{}{LUDNOŒÆ: Stan obecny - 103 Obywateli.}
-{14104}{}{W£ADZE: Pierwszy Obywatel i Rada.}
-{14105}{}{POZIOM PROMIENIOWANIA T£A: Pliki skasowane,}
-{14106}{}{brak nastêpuj¹cych ci¹gów: [-$Gecko-/-$WodyGruntowe}
-{14107}{}{Ska¿enie-]}
-{14108}{}{TEMPO MUTACJI: Pliki skasowane, brak nastêpuj¹cych}
-{14109}{}{ci¹gów: [-$PrzyrostNaturalny %-]}
+{14103}{}{LUDNOÅšÄ†: Stan obecny - 103 Obywateli.}
+{14104}{}{WÅADZE: Pierwszy Obywatel i Rada.}
+{14105}{}{POZIOM PROMIENIOWANIA TÅA: Pliki skasowane,}
+{14106}{}{brak nastÄ™pujÄ…cych ciÄ…gÃ³w: [-$Gecko-/-$WodyGruntowe}
+{14107}{}{SkaÅ¼enie-]}
+{14108}{}{TEMPO MUTACJI: Pliki skasowane, brak nastÄ™pujÄ…cych}
+{14109}{}{ciÄ…gÃ³w: [-$PrzyrostNaturalny %-]}
 {14110}{}{**END-DISK**}
 
 {15000}{}{HOLODYSK INFORMACYJNY REPUBLIKI NOWEJ KALIFORNII NR 5}
 {15001}{}{**END-PAR**}
-{15002}{}{Holodysk ten wydaje siê zawieraæ meldunki o RNK:}
-{15003}{}{³¹czny poziom miesiêcznej produkcji, harmonogram}
-{15004}{}{karawan, grafik s³u¿b ochrony, protoko³y przes³uchañ}
+{15002}{}{Holodysk ten wydaje siÄ™ zawieraÄ‡ meldunki o RNK:}
+{15003}{}{Å‚Ä…czny poziom miesiÄ™cznej produkcji, harmonogram}
+{15004}{}{karawan, grafik sÅ‚uÅ¼b ochrony, protokoÅ‚y przesÅ‚uchaÅ„}
 {15005}{}{kongresowych, tajne raporty rady, korespondencja}
 {15006}{}{dyplomatyczna z Nowego Reno, Redding i Kryptopolis,}
-{15007}{}{nawet kilkutygodniowy harmonogram spotkañ prezydent}
+{15007}{}{nawet kilkutygodniowy harmonogram spotkaÅ„ prezydent}
 {15008}{}{Tandi. Nie ma tu za to nic o Krypcie 13 albo}
-{15009}{}{o GECKu. Wszystkie meldunki zaadresowane s¹}
+{15009}{}{o GECKu. Wszystkie meldunki zaadresowane sÄ…}
 {15010}{}{do Darion i podpisane przez "F-".}
 {15011}{}{**END-DISK**}
 
 {16000}{}{HOLODYSK INFORMACYJNY REPUBLIKI NOWEJ KALIFORNII NR 1}
 {16001}{}{**END-PAR**}
-{16002}{}{Jesteœmy tu! Do³¹cz do nas!}
+{16002}{}{JesteÅ›my tu! DoÅ‚Ä…cz do nas!}
 {16003}{}{**END-PAR**}
-{16004}{}{Przed nami le¿y cudowna przysz³oœæ - mo¿esz mieæ}
-{16005}{}{w niej swój udzia³, wraz z Republik¹ Nowej Kalifornii!}
+{16004}{}{Przed nami leÅ¼y cudowna przyszÅ‚oÅ›Ä‡ - moÅ¼esz mieÄ‡}
+{16005}{}{w niej swÃ³j udziaÅ‚, wraz z RepublikÄ… Nowej Kalifornii!}
 {16006}{}{**END-PAR**}
-{16007}{}{Chcesz wiedzieæ wiêcej?}
+{16007}{}{Chcesz wiedzieÄ‡ wiÄ™cej?}
 {16008}{}{**END-PAR**}
-{16009}{}{JAK DU¯A JEST RNK?}
-{16010}{}{Za³o¿ona 80 lat temu, RNK sk³ada siê obecnie ze}
-{16011}{}{spo³ecznoœci Cienistych, Los Angeles, Maxson, Centrum}
-{16012}{}{i Brzasku Dnia. W przybli¿êniu 700 000 obywateli}
-{16013}{}{ma zaszczyt nazywaæ RNK domem.}
+{16009}{}{JAK DUÅ»A JEST RNK?}
+{16010}{}{ZaÅ‚oÅ¼ona 80 lat temu, RNK skÅ‚ada siÄ™ obecnie ze}
+{16011}{}{spoÅ‚ecznoÅ›ci Cienistych, Los Angeles, Maxson, Centrum}
+{16012}{}{i Brzasku Dnia. W przybliÅ¼Ä™niu 700 000 obywateli}
+{16013}{}{ma zaszczyt nazywaÄ‡ RNK domem.}
 {16014}{}{**END-PAR**}
 {16015}{}{CO OFERUJE I CZEGO BRONI RNK?}
 {16016}{}{Republika Nowej Kalifornii oddana jest sprawie pokoju,}
-{16017}{}{bezpieczeñstwa i sprawiedliwoœci i broni tych wartoœci}
-{16018}{}{dla dobra narodu ziem zachodnich. Œwietnie wyszkolone}
-{16019}{}{patrole policyjne bez wytchnienia pilnuj¹}
-{16020}{}{bezpieczeñstwa, aresztuj¹c z³oczyñców, kanibali,}
-{16021}{}{³owców niewolników i mutantów wyjêtych spod prawa.}
-{16022}{}{Mê¿na armia RNK stoi na stra¿y naszych granic.}
-{16023}{}{Wolnoœæ i sprawiedliwoœæ obywateli wyra¿a siê poprzez}
-{16024}{}{dostêp do s¹dów i prawo do g³osowania na}
-{16025}{}{przedstawicieli spo³ecznych, którzy zasiadaj¹}
+{16017}{}{bezpieczeÅ„stwa i sprawiedliwoÅ›ci i broni tych wartoÅ›ci}
+{16018}{}{dla dobra narodu ziem zachodnich. Åšwietnie wyszkolone}
+{16019}{}{patrole policyjne bez wytchnienia pilnujÄ…}
+{16020}{}{bezpieczeÅ„stwa, aresztujÄ…c zÅ‚oczyÅ„cÃ³w, kanibali,}
+{16021}{}{Å‚owcÃ³w niewolnikÃ³w i mutantÃ³w wyjÄ™tych spod prawa.}
+{16022}{}{MÄ™Å¼na armia RNK stoi na straÅ¼y naszych granic.}
+{16023}{}{WolnoÅ›Ä‡ i sprawiedliwoÅ›Ä‡ obywateli wyraÅ¼a siÄ™ poprzez}
+{16024}{}{dostÄ™p do sÄ…dÃ³w i prawo do gÅ‚osowania na}
+{16025}{}{przedstawicieli spoÅ‚ecznych, ktÃ³rzy zasiadajÄ…}
 {16026}{}{w gmachu Kongresu.}
-{16027}{}{Mówi¹c s³owami prezydent Tandi,}
-{16028}{}{"Bezpieczny naród, to silny naród."}
+{16027}{}{MÃ³wiÄ…c sÅ‚owami prezydent Tandi,}
+{16028}{}{"Bezpieczny narÃ³d, to silny narÃ³d."}
 {16029}{}{**END-PAR**}
-{16030}{}{KTO TU RZ¥DZI?}
-{16031}{}{RNK mo¿e ró¿niæ siê nieco od tego, do czego}
-{16032}{}{przywyk³eœ. Nie ma tu wodzów, szefów miasta, króli}
-{16033}{}{czy dyktatorów. Nasi przywódcy wybierani s¹ przez}
-{16034}{}{naród! Tak jest - ka¿dy stan ma prawo do swego}
+{16030}{}{KTO TU RZÄ„DZI?}
+{16031}{}{RNK moÅ¼e rÃ³Å¼niÄ‡ siÄ™ nieco od tego, do czego}
+{16032}{}{przywykÅ‚eÅ›. Nie ma tu wodzÃ³w, szefÃ³w miasta, krÃ³li}
+{16033}{}{czy dyktatorÃ³w. Nasi przywÃ³dcy wybierani sÄ… przez}
+{16034}{}{narÃ³d! Tak jest - kaÅ¼dy stan ma prawo do swego}
 {16035}{}{reprezentanta w Kongresie. Przedstawiciele ci}
-{16036}{}{wybieraj¹ spoœród siebie prezydenta i wiceprezydenta,}
-{16037}{}{którzy przewodz¹ zgromadzeniu, z rad którego}
-{16038}{}{korzystaj¹ przy podejmowaniu decyzji. Do tej pory,}
-{16039}{}{przez 10 kadencji do pe³nienia roli g³owy narodu}
-{16040}{}{jednog³oœnie wybierano prezydent Tandi, której}
-{16041}{}{m¹droœæ i umiejêtnoœæ przewidywania zawsze}
-{16042}{}{budzi³y g³êboki respekt.}
+{16036}{}{wybierajÄ… spoÅ›rÃ³d siebie prezydenta i wiceprezydenta,}
+{16037}{}{ktÃ³rzy przewodzÄ… zgromadzeniu, z rad ktÃ³rego}
+{16038}{}{korzystajÄ… przy podejmowaniu decyzji. Do tej pory,}
+{16039}{}{przez 10 kadencji do peÅ‚nienia roli gÅ‚owy narodu}
+{16040}{}{jednogÅ‚oÅ›nie wybierano prezydent Tandi, ktÃ³rej}
+{16041}{}{mÄ…droÅ›Ä‡ i umiejÄ™tnoÅ›Ä‡ przewidywania zawsze}
+{16042}{}{budziÅ‚y gÅ‚Ä™boki respekt.}
 {16043}{}{**END-PAR**}
-{16044}{}{BRZMI NIELE! JAK DO£¥CZYÆ DO RNK?}
-{16045}{}{Wszyscy przestrzegaj¹cy prawa i pokojowo nastawieni}
-{16046}{}{ludzie czy mutanci, mog¹ staæ siê pe³noprawnymi}
-{16047}{}{obywatelami RNK. Wszystko, co musisz zrobiæ, to}
-{16048}{}{przeprowadziæ siê tutaj i przedstawiæ zg³oszenie}
-{16049}{}{imigracyjne. Po przejœciu szkolenia obywatelskiego}
+{16044}{}{BRZMI NIEÅ¹LE! JAK DOÅÄ„CZYÄ† DO RNK?}
+{16045}{}{Wszyscy przestrzegajÄ…cy prawa i pokojowo nastawieni}
+{16046}{}{ludzie czy mutanci, mogÄ… staÄ‡ siÄ™ peÅ‚noprawnymi}
+{16047}{}{obywatelami RNK. Wszystko, co musisz zrobiÄ‡, to}
+{16048}{}{przeprowadziÄ‡ siÄ™ tutaj i przedstawiÄ‡ zgÅ‚oszenie}
+{16049}{}{imigracyjne. Po przejÅ›ciu szkolenia obywatelskiego}
 {16050}{}{i rozpatrzeniu podania, poinformowany zostaniesz}
 {16051}{}{o przyznaniu statusu tymczasowego obywatela. Teraz}
-{16052}{}{od pe³nego obywatelstwa dzieliæ ciê bêdzie tylko}
+{16052}{}{od peÅ‚nego obywatelstwa dzieliÄ‡ ciÄ™ bÄ™dzie tylko}
 {16053}{}{krok!}
 {16054}{}{**END-PAR**}
-{16055}{}{Oczywiœcie, RNK nie jest dla ka¿dego. £owcy}
-{16056}{}{niewolników, niezreformowani mutanci, znani bandyci}
-{16057}{}{i inny niepo¿¹dany element nie ma szans!}
+{16055}{}{OczywiÅ›cie, RNK nie jest dla kaÅ¼dego. Åowcy}
+{16056}{}{niewolnikÃ³w, niezreformowani mutanci, znani bandyci}
+{16057}{}{i inny niepoÅ¼Ä…dany element nie ma szans!}
 {16058}{}{**END-PAR**}
-{16059}{}{A CO JEŒLI MOJE CA£E MIASTO ZECHCE DO£¥CZYÆ?}
-{16060}{}{W zale¿noœci od lokalizacji, RNK akceptuje podania}
-{16061}{}{wiosek, miast, baz, pañstw-miast, a nawet niewielkich}
-{16062}{}{królestw. Wraz z pozytywnym rozpatrzeniem wniosku,}
+{16059}{}{A CO JEÅšLI MOJE CAÅE MIASTO ZECHCE DOÅÄ„CZYÄ†?}
+{16060}{}{W zaleÅ¼noÅ›ci od lokalizacji, RNK akceptuje podania}
+{16061}{}{wiosek, miast, baz, paÅ„stw-miast, a nawet niewielkich}
+{16062}{}{krÃ³lestw. Wraz z pozytywnym rozpatrzeniem wniosku,}
 {16063}{}{RNK przyzna twemu miastu status terytorialny.}
-{16064}{}{Po ustanowieniu koniecznej obecnoœci si³ policyjnych}
-{16065}{}{i wojskowych, i po rozprawieniu siê z lokalnymi}
-{16066}{}{grupami przestêpczymi, twoja wioska mo¿e staraæ siê}
-{16067}{}{o pe³ne cz³onkostwo w RNK. Proste, prawda?}
+{16064}{}{Po ustanowieniu koniecznej obecnoÅ›ci siÅ‚ policyjnych}
+{16065}{}{i wojskowych, i po rozprawieniu siÄ™ z lokalnymi}
+{16066}{}{grupami przestÄ™pczymi, twoja wioska moÅ¼e staraÄ‡ siÄ™}
+{16067}{}{o peÅ‚ne czÅ‚onkostwo w RNK. Proste, prawda?}
 {16068}{}{**END-PAR**}
-{16069}{}{Zatem pamiêtaj - JESTEŒMY TU! DO£¥CZ DO NAS!}
+{16069}{}{Zatem pamiÄ™taj - JESTEÅšMY TU! DOÅÄ„CZ DO NAS!}
 {16070}{}{**END-PAR**}
 {16071}{}{Przygotowane przez Komitet Doradczy Relacji}
-{16072}{}{Spo³ecznych Nowej Kalifornii}
+{16072}{}{SpoÅ‚ecznych Nowej Kalifornii}
 {16073}{}{**END-PAR**}
 {16074}{}{RNKAP Pub. #A7-7893b}
-{16075}{}{Ta strona jest umyœlnie pozostawiona pusta.}
+{16075}{}{Ta strona jest umyÅ›lnie pozostawiona pusta.}
 {16076}{}{**END-DISK**}
 
 {17000}{}{Pierwszy Obywatel Lynette}
 {17001}{}{**END-PAR**}
-{17002}{}{Kurier dostarczy³ wys³any przez ciebie dysk.}
-{17003}{}{Oczywiœcie mia³aœ racjê. Ta informacja powinna}
-{17004}{}{okazaæ siê nadzwyczaj u¿yteczna na nastêpnym}
-{17005}{}{posiedzeniu rady. Z tym co mi przes³a³aœ bêde}
-{17006}{}{w stanie utrudniæ, a nawet udaremniæ dalsze próby}
-{17007}{}{nawi¹zania przymierza pomiêdzy RNK, a Nowym Reno.}
+{17002}{}{Kurier dostarczyÅ‚ wysÅ‚any przez ciebie dysk.}
+{17003}{}{OczywiÅ›cie miaÅ‚aÅ› racjÄ™. Ta informacja powinna}
+{17004}{}{okazaÄ‡ siÄ™ nadzwyczaj uÅ¼yteczna na nastÄ™pnym}
+{17005}{}{posiedzeniu rady. Z tym co mi przesÅ‚aÅ‚aÅ› bÄ™de}
+{17006}{}{w stanie utrudniÄ‡, a nawet udaremniÄ‡ dalsze prÃ³by}
+{17007}{}{nawiÄ…zania przymierza pomiÄ™dzy RNK, a Nowym Reno.}
 {17008}{}{**END-PAR**}
-{17009}{}{Mogê ciê zapewniæ, ¿e jeœli wszystko pójdzie}
-{17010}{}{po mojej myœli, nie bêdzie ¿adnych nowych prowokacji}
-{17011}{}{ze strony RNK, ani mieszania siê w interesy}
-{17012}{}{Kryptopolis. Respektujê wasz¹ suwerennoœæ}
-{17013}{}{i nie zgadzam siê z intrygantami, którzy staraj¹ siê}
-{17014}{}{odebraæ wolnoœæ naszym niewinnym s¹siadom.}
+{17009}{}{MogÄ™ ciÄ™ zapewniÄ‡, Å¼e jeÅ›li wszystko pÃ³jdzie}
+{17010}{}{po mojej myÅ›li, nie bÄ™dzie Å¼adnych nowych prowokacji}
+{17011}{}{ze strony RNK, ani mieszania siÄ™ w interesy}
+{17012}{}{Kryptopolis. RespektujÄ™ waszÄ… suwerennoÅ›Ä‡}
+{17013}{}{i nie zgadzam siÄ™ z intrygantami, ktÃ³rzy starajÄ… siÄ™}
+{17014}{}{odebraÄ‡ wolnoÅ›Ä‡ naszym niewinnym sÄ…siadom.}
 {17015}{}{**END-PAR**}
-{17016}{}{Twój przyjaciel i sojusznik,}
+{17016}{}{TwÃ³j przyjaciel i sojusznik,}
 {17017}{}{Roger Westin}
 {17018}{}{**END-DISK**}
 
 # State of the Nation
-{18000}{}{Nota: Orêdzie do Narodu}
+{18000}{}{Nota: OrÄ™dzie do Narodu}
 {18001}{}{Od: Prezydent Dick Richardson}
-{18002}{}{Do: Obywatele tego Wspania³ego Narodu}
-{18003}{}{Temat: Zjednoczenie Pañstwa}
+{18002}{}{Do: Obywatele tego WspaniaÅ‚ego Narodu}
+{18003}{}{Temat: Zjednoczenie PaÅ„stwa}
 {18004}{}{**END-PAR**}
-{18005}{}{Bracia rodacy, mam ten szczególny zaszczyt bycia}
-{18006}{}{przywódc¹, który poprowadzi naród amerykañski}
-{18007}{}{z powrotem na sta³y l¹d, aby przywróciæ Amerykê jej}
-{18008}{}{w³asnym obywatelom. Po ponad stu latach bêdziemy}
-{18009}{}{pierwszym pokoleniem wolnym od groŸby ataku mutantów.}
+{18005}{}{Bracia rodacy, mam ten szczegÃ³lny zaszczyt bycia}
+{18006}{}{przywÃ³dcÄ…, ktÃ³ry poprowadzi narÃ³d amerykaÅ„ski}
+{18007}{}{z powrotem na staÅ‚y lÄ…d, aby przywrÃ³ciÄ‡ AmerykÄ™ jej}
+{18008}{}{wÅ‚asnym obywatelom. Po ponad stu latach bÄ™dziemy}
+{18009}{}{pierwszym pokoleniem wolnym od groÅºby ataku mutantÃ³w.}
 {18010}{}{**END-PAR**}
-{18011}{}{Przysz³o nam d³ugo czekaæ na tê chwilê, a praca,}
-{18012}{}{która nas do niej doprowadzi³a by³a trudna i mozolna.}
-{18013}{}{Momentami wydawa³o siê, ¿e przyjdzie nam prze³kn¹æ}
-{18014}{}{gorycz pora¿ki, jednak niestrudzone wysi³ki szefa}
-{18015}{}{Korpusu Chemicznego, dr Charlesa Curlinga, sprawi³y,}
-{18016}{}{i¿ wybi³a godzina naszego ocalenia.}
+{18011}{}{PrzyszÅ‚o nam dÅ‚ugo czekaÄ‡ na tÄ™ chwilÄ™, a praca,}
+{18012}{}{ktÃ³ra nas do niej doprowadziÅ‚a byÅ‚a trudna i mozolna.}
+{18013}{}{Momentami wydawaÅ‚o siÄ™, Å¼e przyjdzie nam przeÅ‚knÄ…Ä‡}
+{18014}{}{gorycz poraÅ¼ki, jednak niestrudzone wysiÅ‚ki szefa}
+{18015}{}{Korpusu Chemicznego, dr Charlesa Curlinga, sprawiÅ‚y,}
+{18016}{}{iÅ¼ wybiÅ‚a godzina naszego ocalenia.}
 {18017}{}{**END-PAR**}
-{18018}{}{Odwa¿ny, niez³omny, bla, bla, bla. Czy ktoœ tych}
-{18019}{}{rzeczy w ogóle s³ucha?}
+{18018}{}{OdwaÅ¼ny, niezÅ‚omny, bla, bla, bla. Czy ktoÅ› tych}
+{18019}{}{rzeczy w ogÃ³le sÅ‚ucha?}
 {18020}{}{**END-PAR**}
-{18021}{}{--Przypominad³o--}
-{18022}{}{1) Ponadawaæ tak d³u¿sz¹ chwilê, by przedstawiæ}
+{18021}{}{--PrzypominadÅ‚o--}
+{18022}{}{1) PonadawaÄ‡ tak dÅ‚uÅ¼szÄ… chwilÄ™, by przedstawiÄ‡}
 {18023}{}{projekt Curlinga.}
-{18024}{}{2) Powiedzieæ wszystkim, jacy s¹ niez³omni itd.}
+{18024}{}{2) PowiedzieÄ‡ wszystkim, jacy sÄ… niezÅ‚omni itd.}
 {18025}{}{Pierdu, pierdu}
 {18026}{}{**END-PAR**}
-{18027}{}{Pamiêtaæ o zrobieniu ma³ej wstawki na temat}
+{18027}{}{PamiÄ™taÄ‡ o zrobieniu maÅ‚ej wstawki na temat}
 {18028}{}{reelekcji.}
 {18029}{}{**END-PAR**}
-{18030}{}{Pamietaæ, ¿eby schodz¹c z podium NIE obœciskiwaæ}
+{18030}{}{PamietaÄ‡, Å¼eby schodzÄ…c z podium NIE obÅ›ciskiwaÄ‡}
 {18031}{}{mojej sekretarki.}
 {18032}{}{**END-PAR**}
-{18033}{}{Wa¿ne: Szybko skoñczyæ to pismo. Damy radê zagazowaæ}
-{18034}{}{tych cholernych mutantów w ci¹gu tygodnia, jeœli}
-{18035}{}{tylko raport Curlinga jest dok³adny.}
+{18033}{}{WaÅ¼ne: Szybko skoÅ„czyÄ‡ to pismo. Damy radÄ™ zagazowaÄ‡}
+{18034}{}{tych cholernych mutantÃ³w w ciÄ…gu tygodnia, jeÅ›li}
+{18035}{}{tylko raport Curlinga jest dokÅ‚adny.}
 {18036}{}{**END-DISK**}
 
 # Word List
-{19000}{}{Nota: Lista s³ówek}
+{19000}{}{Nota: Lista sÅ‚Ã³wek}
 {19001}{}{Od: wiceprezydent Daniel Bird}
 {19002}{}{Do: Mnie}
-{19003}{}{Temat: Moja Lista S³ówek}
+{19003}{}{Temat: Moja Lista SÅ‚Ã³wek}
 {19004}{}{**END-PAR**}
-{19005}{}{Trudne s³owa:}
+{19005}{}{Trudne sÅ‚owa:}
 {19006}{}{--------------------}
 {19007}{}{Ziemniak}
-{19008}{}{Jab³ko}
+{19008}{}{JabÅ‚ko}
 {19009}{}{Psycho}
 {19010}{}{Kalifornia}
 {19011}{}{Do przygotowania}
-{19012}{}{Gadatliwoœæ}
-{19013}{}{Nieartyku³owany}
+{19012}{}{GadatliwoÅ›Ä‡}
+{19013}{}{NieartykuÅ‚owany}
 {19014}{}{Subtelny}
 {19015}{}{**END-PAR**}
-{19016}{}{S³owa do zmiany:}
+{19016}{}{SÅ‚owa do zmiany:}
 {19017}{}{----------------------}
 {19018}{}{Ziemniok}
 {19019}{}{Japko}
@@ -1174,164 +1174,164 @@
 {19021}{}{Kalafonia}
 {19022}{}{Do przygotowania}
 {19023}{}{Suptelny}
-{19024}{}{D¿akilopa - zrobiæ z tego now¹ maskotkê narodow¹}
-{19025}{}{(czy to amerykañskie zwierzê?)}
+{19024}{}{DÅ¼akilopa - zrobiÄ‡ z tego nowÄ… maskotkÄ™ narodowÄ…}
+{19025}{}{(czy to amerykaÅ„skie zwierzÄ™?)}
 {19026}{}{**END-DISK**}
 
 # The Project
-{20000}{}{Nota: Projekty, Wyci¹g kwartalny}
+{20000}{}{Nota: Projekty, WyciÄ…g kwartalny}
 {20001}{}{Od: ppk, dr Charles Curling}
-{20002}{}{      Korpus Chemiczny Stanów Zjednoczonych}
+{20002}{}{      Korpus Chemiczny StanÃ³w Zjednoczonych}
 {20003}{}{Do: Gabinet}
-{20004}{}{Temat: Projekt bliski osi¹gniêcia pe³nego stanu}
-{20005}{}{gotowoœci.}
+{20004}{}{Temat: Projekt bliski osiÄ…gniÄ™cia peÅ‚nego stanu}
+{20005}{}{gotowoÅ›ci.}
 {20006}{}{**END-PAR**}
-{20007}{}{Mam zaszczyt i przywilej og³osiæ, i¿ wkroczyliœmy}
-{20008}{}{w finaln¹ fazê Projektu. Po latach pracy uda³o nam}
-{20009}{}{siê wyizolowaæ najtoksyczniejsze sk³adniki wirusa}
-{20010}{}{F.E.V. Czêœæ ostatnio zdekodowanych informacji}
+{20007}{}{Mam zaszczyt i przywilej ogÅ‚osiÄ‡, iÅ¼ wkroczyliÅ›my}
+{20008}{}{w finalnÄ… fazÄ™ Projektu. Po latach pracy udaÅ‚o nam}
+{20009}{}{siÄ™ wyizolowaÄ‡ najtoksyczniejsze skÅ‚adniki wirusa}
+{20010}{}{F.E.V. CzÄ™Å›Ä‡ ostatnio zdekodowanych informacji}
 {20011}{}{zdobytych w opuszczonym kompleksie wojskowym,}
-{20012}{}{zlokalizowanym na sta³ym l¹dzie okaza³a siê}
-{20013}{}{prze³omowa w toku naszych badañ.}
+{20012}{}{zlokalizowanym na staÅ‚ym lÄ…dzie okazaÅ‚a siÄ™}
+{20013}{}{przeÅ‚omowa w toku naszych badaÅ„.}
 {20014}{}{**END-PAR**}
-{20015}{}{Uda³o nam siê stwierdziæ, i¿ wirus F.E.V. nie by³}
-{20016}{}{pierwotnie zaprojektowany jako czynnik s³u¿¹cy}
-{20017}{}{do stworzenia rasy super-¿o³nierzy. Pocz¹tkowo,}
-{20018}{}{jak siê wydaje, F.E.V. zosta³ skonstruowany jako}
-{20019}{}{zjadliwa toksyna. Dopiero jakiœ czas póŸniej}
-{20020}{}{podjêto próby manipulacji kodu wirusa w celu zmiany}
+{20015}{}{UdaÅ‚o nam siÄ™ stwierdziÄ‡, iÅ¼ wirus F.E.V. nie byÅ‚}
+{20016}{}{pierwotnie zaprojektowany jako czynnik sÅ‚uÅ¼Ä…cy}
+{20017}{}{do stworzenia rasy super-Å¼oÅ‚nierzy. PoczÄ…tkowo,}
+{20018}{}{jak siÄ™ wydaje, F.E.V. zostaÅ‚ skonstruowany jako}
+{20019}{}{zjadliwa toksyna. Dopiero jakiÅ› czas pÃ³Åºniej}
+{20020}{}{podjÄ™to prÃ³by manipulacji kodu wirusa w celu zmiany}
 {20021}{}{jego charakteru.}
 {20022}{}{**END-PAR**}
-{20023}{}{Cofaj¹c siê nieco w swoich badaniach, oraz przy}
+{20023}{}{CofajÄ…c siÄ™ nieco w swoich badaniach, oraz przy}
 {20024}{}{pomocy dodatkowych informacji zawartych w zapiskach}
-{20025}{}{z bazy wojskowej, uda³o nam siê zamieniæ nasz¹}
-{20026}{}{wersjê F.E.V. (F.E.V. Curling-13) w znacznie bardziej}
-{20027}{}{toksyczny œrodek.}
+{20025}{}{z bazy wojskowej, udaÅ‚o nam siÄ™ zamieniÄ‡ naszÄ…}
+{20026}{}{wersjÄ™ F.E.V. (F.E.V. Curling-13) w znacznie bardziej}
+{20027}{}{toksyczny Å›rodek.}
 {20028}{}{**END-PAR**}
-{20029}{}{Koñcowe testy, przeprowadzone na potomkach}
-{20030}{}{mieszkañców krypty pochodz¹cych z wioski "Arroyo",}
-{20031}{}{wykaza³y stuprocentow¹ œmiertelnoœæ, z wiêkszoœci¹}
-{20032}{}{zejœæ wystêpuj¹cych w ci¹gu godziny po wystawieniu}
-{20033}{}{na dzia³anie 0.0001% roztworu aerozolowego.}
-{20034}{}{Nieco odmiennie reagowa³y obiekty z Krypty 13,}
-{20035}{}{doznaj¹c wylewu krwi do mózgu i drgawek w ci¹gu}
-{20036}{}{pierwszej godziny po zaka¿eniu, z nastêpuj¹c¹}
-{20037}{}{œmierci¹, jednak nie wczeœniej, ni¿ po nastêpnych}
+{20029}{}{KoÅ„cowe testy, przeprowadzone na potomkach}
+{20030}{}{mieszkaÅ„cÃ³w krypty pochodzÄ…cych z wioski "Arroyo",}
+{20031}{}{wykazaÅ‚y stuprocentowÄ… Å›miertelnoÅ›Ä‡, z wiÄ™kszoÅ›ciÄ…}
+{20032}{}{zejÅ›Ä‡ wystÄ™pujÄ…cych w ciÄ…gu godziny po wystawieniu}
+{20033}{}{na dziaÅ‚anie 0.0001% roztworu aerozolowego.}
+{20034}{}{Nieco odmiennie reagowaÅ‚y obiekty z Krypty 13,}
+{20035}{}{doznajÄ…c wylewu krwi do mÃ³zgu i drgawek w ciÄ…gu}
+{20036}{}{pierwszej godziny po zakaÅ¼eniu, z nastÄ™pujÄ…cÄ…}
+{20037}{}{Å›mierciÄ…, jednak nie wczeÅ›niej, niÅ¼ po nastÄ™pnych}
 {20038}{}{14 godzinach.}
 {20039}{}{**END-PAR**}
-{20040}{}{W obu przypadkach poziom toksycznoœci F.E.V. jest}
-{20041}{}{wystarczaj¹cy do zapewnienia pe³nego "wyczyszczenia"}
-{20042}{}{terenu z wszelkich istot ¿ywych. W chwili obecnej}
-{20043}{}{iloœæ F.E.V. Curling-13, któr¹ jesteœmy w stanie}
-{20044}{}{uwolniæ, daje 95% prawdopodobieñstwo osi¹gniêcia}
-{20045}{}{0.00007% przeciêtnego nasycenia. Chocia¿ w Korpusie}
-{20046}{}{panuje powszechna zgoda co do tego, i¿ wystarczy³oby}
-{20047}{}{to do pe³nego sukcesu Projektu, uwa¿amy, ¿e warto}
-{20048}{}{poczekaæ, a¿ zgromadzimy wystarczaj¹co du¿o toksyny}
-{20049}{}{F.E.V., aby osi¹gn¹æ zak³adane nasycenie 0.0001%}
-{20050}{}{i 99.5% pewnoœci unicestwienia.}
+{20040}{}{W obu przypadkach poziom toksycznoÅ›ci F.E.V. jest}
+{20041}{}{wystarczajÄ…cy do zapewnienia peÅ‚nego "wyczyszczenia"}
+{20042}{}{terenu z wszelkich istot Å¼ywych. W chwili obecnej}
+{20043}{}{iloÅ›Ä‡ F.E.V. Curling-13, ktÃ³rÄ… jesteÅ›my w stanie}
+{20044}{}{uwolniÄ‡, daje 95% prawdopodobieÅ„stwo osiÄ…gniÄ™cia}
+{20045}{}{0.00007% przeciÄ™tnego nasycenia. ChociaÅ¼ w Korpusie}
+{20046}{}{panuje powszechna zgoda co do tego, iÅ¼ wystarczyÅ‚oby}
+{20047}{}{to do peÅ‚nego sukcesu Projektu, uwaÅ¼amy, Å¼e warto}
+{20048}{}{poczekaÄ‡, aÅ¼ zgromadzimy wystarczajÄ…co duÅ¼o toksyny}
+{20049}{}{F.E.V., aby osiÄ…gnÄ…Ä‡ zakÅ‚adane nasycenie 0.0001%}
+{20050}{}{i 99.5% pewnoÅ›ci unicestwienia.}
 {20051}{}{**END-PAR**}
 {20052}{}{Obecny poziom produkcji F.E.V. Curling-13 daje}
-{20053}{}{gwarancjê, ¿e osi¹gniemy wymagan¹ iloœæ 63 tys.}
-{20054}{}{litrów w ci¹gu szeœciu tygodni.}
+{20053}{}{gwarancjÄ™, Å¼e osiÄ…gniemy wymaganÄ… iloÅ›Ä‡ 63 tys.}
+{20054}{}{litrÃ³w w ciÄ…gu szeÅ›ciu tygodni.}
 {20055}{}{**END-PAR**}
-{20056}{}{Gratulacje, panie i panowie, d³ugie lata ciê¿kiej}
-{20057}{}{pracy dobiegaj¹ koñca.}
-{20058}{}{Niech Bóg b³ogos³awi Amerykê.}
+{20056}{}{Gratulacje, panie i panowie, dÅ‚ugie lata ciÄ™Å¼kiej}
+{20057}{}{pracy dobiegajÄ… koÅ„ca.}
+{20058}{}{Niech BÃ³g bÅ‚ogosÅ‚awi AmerykÄ™.}
 {20059}{}{**END-DISK**}
 
 # Power Plant Operations
 {21000}{}{Nota: A.E.C., Raport sytuacyjny}
 {21001}{}{Od: Tom Murray,}
-{21002}{}{     przewodnicz¹cy Komisji Energii Atomowej}
+{21002}{}{     przewodniczÄ…cy Komisji Energii Atomowej}
 {21003}{}{Do: Gabinet}
-{21004}{}{Temat: Niebezpieczeñstwa wynikaj¹ce ze zbytniej}
-{21005}{}{zale¿noœci od centralnego komputera kontroluj¹cego}
+{21004}{}{Temat: NiebezpieczeÅ„stwa wynikajÄ…ce ze zbytniej}
+{21005}{}{zaleÅ¼noÅ›ci od centralnego komputera kontrolujÄ…cego}
 {21006}{}{reaktory.}
 {21007}{}{**END-PAR**}
-{21008}{}{UWAGA dla GABINETU: Nie chcê wyjœæ na zrzêdê}
-{21009}{}{ca³y czas podnosz¹c tê sprawê, ale nie da siê}
-{21010}{}{przeceniæ wa¿noœci zró¿nicowania systemów kontroli}
-{21011}{}{naszej elektrowni atomowej. Oto mój oficjalny raport.}
-{21012}{}{Wydaje mi siê, ¿ê po jego przeczytaniu zrozumiecie}
+{21008}{}{UWAGA dla GABINETU: Nie chcÄ™ wyjÅ›Ä‡ na zrzÄ™dÄ™}
+{21009}{}{caÅ‚y czas podnoszÄ…c tÄ™ sprawÄ™, ale nie da siÄ™}
+{21010}{}{przeceniÄ‡ waÅ¼noÅ›ci zrÃ³Å¼nicowania systemÃ³w kontroli}
+{21011}{}{naszej elektrowni atomowej. Oto mÃ³j oficjalny raport.}
+{21012}{}{Wydaje mi siÄ™, Å¼Ä™ po jego przeczytaniu zrozumiecie}
 {21013}{}{dlaczego potrzebujemy systemu zapasowego.}
 {21014}{}{--Tom}
 {21015}{}{**END-PAR**}
 {21016}{}{Regulator Reaktora Energii Atomowej}
 {21017}{}{--------------------------------------------}
-{21018}{}{Uranowy Reaktor J¹drowy nowego typu firmy Krypt-Tech}
-{21019}{}{dzia³a jak dot¹d bez zarzutu. Dziêki}
-{21020}{}{najnowoczeœniejszemu systemowi komputerowemu,}
-{21021}{}{stworzonemu specjalnie dla celów regulacji}
-{21022}{}{temperatury ch³odziwa, jak i kontrolowania wielu}
-{21023}{}{innych krytycznych funkcji reaktora, mo¿emy pozwoliæ}
-{21024}{}{sobie na zminimalizowanie iloœci personelu}
-{21025}{}{niezbêdnego do jego obs³ugi.}
+{21018}{}{Uranowy Reaktor JÄ…drowy nowego typu firmy Krypt-Tech}
+{21019}{}{dziaÅ‚a jak dotÄ…d bez zarzutu. DziÄ™ki}
+{21020}{}{najnowoczeÅ›niejszemu systemowi komputerowemu,}
+{21021}{}{stworzonemu specjalnie dla celÃ³w regulacji}
+{21022}{}{temperatury chÅ‚odziwa, jak i kontrolowania wielu}
+{21023}{}{innych krytycznych funkcji reaktora, moÅ¼emy pozwoliÄ‡}
+{21024}{}{sobie na zminimalizowanie iloÅ›ci personelu}
+{21025}{}{niezbÄ™dnego do jego obsÅ‚ugi.}
 {21026}{}{**END-PAR**}
 {21027}{}{Nowy, synchroniczny multi-procesor osadzony}
-{21028}{}{w trójprocesorowej p³ycie g³ównej, zdolny jest do}
-{21029}{}{wspó³dro¿nej kontroli: temperatury ch³odziwa,}
-{21030}{}{procesu bombardowania uranu strumieniem neutronów,}
-{21031}{}{wlewu zimnej wody morskiej, ujœcia zu¿ytego ch³odziwa}
-{21032}{}{i odpadów pozosta³ych z reakcji. Bez systemu}
-{21033}{}{komputerowego, reaktor rozregulowa³by siê niemal}
-{21034}{}{natychmiast, wywo³uj¹c reakcjê ³añcuchow¹}
-{21035}{}{lawinowego wypromieniowania izotopów uranu.}
-{21036}{}{W ci¹gu dwóch lub mniej godzin, doprowadzi³oby to}
-{21037}{}{do eksplozji j¹drowej o sile 100 kiloton.}
+{21028}{}{w trÃ³jprocesorowej pÅ‚ycie gÅ‚Ã³wnej, zdolny jest do}
+{21029}{}{wspÃ³Å‚droÅ¼nej kontroli: temperatury chÅ‚odziwa,}
+{21030}{}{procesu bombardowania uranu strumieniem neutronÃ³w,}
+{21031}{}{wlewu zimnej wody morskiej, ujÅ›cia zuÅ¼ytego chÅ‚odziwa}
+{21032}{}{i odpadÃ³w pozostaÅ‚ych z reakcji. Bez systemu}
+{21033}{}{komputerowego, reaktor rozregulowaÅ‚by siÄ™ niemal}
+{21034}{}{natychmiast, wywoÅ‚ujÄ…c reakcjÄ™ Å‚aÅ„cuchowÄ…}
+{21035}{}{lawinowego wypromieniowania izotopÃ³w uranu.}
+{21036}{}{W ciÄ…gu dwÃ³ch lub mniej godzin, doprowadziÅ‚oby to}
+{21037}{}{do eksplozji jÄ…drowej o sile 100 kiloton.}
 {21038}{}{**END-PAR**}
-{21039}{}{Spora czêœæ reaktora umieszczona jest pod wod¹,}
-{21040}{}{poni¿ej stacji. Taka konstrukcja pozwala na}
-{21041}{}{wykorzystanie naturalnej temperatury otaczaj¹cego}
-{21042}{}{oceanu do och³adzania zewnêtrznej czêœci reaktora.}
-{21043}{}{Woda morska z 500 metrów pompowana jest do komory}
-{21044}{}{ch³odz¹cej. Czêœæ zimnej wody kierowana jest}
-{21045}{}{do modu³u zamkniêtego, zawieraj¹cego rdzeñ i prêty}
-{21046}{}{kontrolne. Tam kr¹¿y wokó³ rdzenia, nagrzewaj¹c siê}
-{21047}{}{od zachodz¹cej reakcji j¹drowej. Gdy woda osi¹ga}
-{21048}{}{temperaturê wrzenia, powstaje para wodna, która}
-{21049}{}{wprawia w ruch turbiny generatora wytwarzaj¹cego pr¹d}
+{21039}{}{Spora czÄ™Å›Ä‡ reaktora umieszczona jest pod wodÄ…,}
+{21040}{}{poniÅ¼ej stacji. Taka konstrukcja pozwala na}
+{21041}{}{wykorzystanie naturalnej temperatury otaczajÄ…cego}
+{21042}{}{oceanu do ochÅ‚adzania zewnÄ™trznej czÄ™Å›ci reaktora.}
+{21043}{}{Woda morska z 500 metrÃ³w pompowana jest do komory}
+{21044}{}{chÅ‚odzÄ…cej. CzÄ™Å›Ä‡ zimnej wody kierowana jest}
+{21045}{}{do moduÅ‚u zamkniÄ™tego, zawierajÄ…cego rdzeÅ„ i prÄ™ty}
+{21046}{}{kontrolne. Tam krÄ…Å¼y wokÃ³Å‚ rdzenia, nagrzewajÄ…c siÄ™}
+{21047}{}{od zachodzÄ…cej reakcji jÄ…drowej. Gdy woda osiÄ…ga}
+{21048}{}{temperaturÄ™ wrzenia, powstaje para wodna, ktÃ³ra}
+{21049}{}{wprawia w ruch turbiny generatora wytwarzajÄ…cego prÄ…d}
 {21050}{}{elektryczny. Para wodna kondensuje i powraca do}
 {21051}{}{zbiornika filtracyjnego. Oczyszczona woda gromadzi}
-{21052}{}{siê w zbiorniku wstêpnym, gotowa do przejœcia ca³ego}
+{21052}{}{siÄ™ w zbiorniku wstÄ™pnym, gotowa do przejÅ›cia caÅ‚ego}
 {21053}{}{cyklu od nowa.}
 {21054}{}{**END-PAR**}
-{21055}{}{Silnie napromieniowana woda, zmieszana z ró¿nymi}
-{21056}{}{materia³ami toksycznymi, wypompowywana jest poza}
-{21057}{}{stacjê poprzez kana³ odpadowy, koñcz¹cy siê pó³tora}
-{21058}{}{kilometra na po³udnie. Meldunki naszych zespo³ów}
-{21059}{}{zwiadowczych stwierdzaj¹, ¿e zanieczyszczenia unosz¹}
-{21060}{}{siê wraz z pr¹dem morskim wzd³u¿ wybrze¿a po³udniowej}
-{21061}{}{Kalifornii i Meksyku, powoduj¹c nieodwracalne szkody}
-{21062}{}{w œrodowisku. Na wiêkszoœci pla¿ zalegaj¹ toksyczne}
-{21063}{}{szcz¹tki napromieniowanej fauny i flory morskiej.}
-{21064}{}{Na szczêœcie problem nas nie dotyczy.}
+{21055}{}{Silnie napromieniowana woda, zmieszana z rÃ³Å¼nymi}
+{21056}{}{materiaÅ‚ami toksycznymi, wypompowywana jest poza}
+{21057}{}{stacjÄ™ poprzez kanaÅ‚ odpadowy, koÅ„czÄ…cy siÄ™ pÃ³Å‚tora}
+{21058}{}{kilometra na poÅ‚udnie. Meldunki naszych zespoÅ‚Ã³w}
+{21059}{}{zwiadowczych stwierdzajÄ…, Å¼e zanieczyszczenia unoszÄ…}
+{21060}{}{siÄ™ wraz z prÄ…dem morskim wzdÅ‚uÅ¼ wybrzeÅ¼a poÅ‚udniowej}
+{21061}{}{Kalifornii i Meksyku, powodujÄ…c nieodwracalne szkody}
+{21062}{}{w Å›rodowisku. Na wiÄ™kszoÅ›ci plaÅ¼ zalegajÄ… toksyczne}
+{21063}{}{szczÄ…tki napromieniowanej fauny i flory morskiej.}
+{21064}{}{Na szczÄ™Å›cie problem nas nie dotyczy.}
 {21065}{}{**END-PAR**}
-{21066}{}{Niezale¿nie od wszystkiego, na wypadek wy³¹czenia}
-{21067}{}{reaktora mamy w odwodach trochê zapasowych baterii,}
-{21068}{}{które mog¹ zasilaæ krytyczne systemy Enklawy do czasu}
-{21069}{}{ponownego uruchomienia reaktora. Do systemów tych}
-{21070}{}{nie nale¿¹ jednak energoch³onne urz¹dzenia,}
-{21071}{}{np. generatory pól si³owych. Procedury bezpieczeñstwa}
-{21072}{}{wymagaj¹ tak¿e zamkniêcia niektórych grodzi}
-{21073}{}{wodoszczelnych na terenie bazy, w przypadku odciêcia}
-{21074}{}{zasilania zatrzasn¹ siê one automatycznie,}
-{21075}{}{zapobiegaj¹c zalaniu korytarzy. Ograniczy to swobodê}
-{21076}{}{poruszania po stacji, jednak dotarcie na górê}
-{21077}{}{bêdzie wci¹¿ mo¿liwe przy u¿yciu tras zastêpczych.}
+{21066}{}{NiezaleÅ¼nie od wszystkiego, na wypadek wyÅ‚Ä…czenia}
+{21067}{}{reaktora mamy w odwodach trochÄ™ zapasowych baterii,}
+{21068}{}{ktÃ³re mogÄ… zasilaÄ‡ krytyczne systemy Enklawy do czasu}
+{21069}{}{ponownego uruchomienia reaktora. Do systemÃ³w tych}
+{21070}{}{nie naleÅ¼Ä… jednak energochÅ‚onne urzÄ…dzenia,}
+{21071}{}{np. generatory pÃ³l siÅ‚owych. Procedury bezpieczeÅ„stwa}
+{21072}{}{wymagajÄ… takÅ¼e zamkniÄ™cia niektÃ³rych grodzi}
+{21073}{}{wodoszczelnych na terenie bazy, w przypadku odciÄ™cia}
+{21074}{}{zasilania zatrzasnÄ… siÄ™ one automatycznie,}
+{21075}{}{zapobiegajÄ…c zalaniu korytarzy. Ograniczy to swobodÄ™}
+{21076}{}{poruszania po stacji, jednak dotarcie na gÃ³rÄ™}
+{21077}{}{bÄ™dzie wciÄ…Å¼ moÅ¼liwe przy uÅ¼yciu tras zastÄ™pczych.}
 {21078}{}{**END-PAR**}
 {21079}{}{Prawdziwym problemem jednak pozostaje komputer,}
-{21080}{}{którego wy³¹czenie lub zniszczenie, jakkolwiek}
-{21081}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{21082}{}{awariê reaktora i stopienie rdzenia w ci¹gu zaledwie}
-{21083}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
-{21084}{}{system regulacji obs³ugiwany przez cz³owieka. Wiem,}
-{21085}{}{¿e moje obawy mog¹ wydawaæ siê przesadzone,}
-{21086}{}{a sytuacja nie do pomyœlenia, jednak lepiej jest byæ}
-{21087}{}{przygotowanym na wszelk¹ ewentualnoœæ.}
+{21080}{}{ktÃ³rego wyÅ‚Ä…czenie lub zniszczenie, jakkolwiek}
+{21081}{}{wydarzenia te byÅ‚yby nieprawdopodobne, spowoduje}
+{21082}{}{awariÄ™ reaktora i stopienie rdzenia w ciÄ…gu zaledwie}
+{21083}{}{dwÃ³ch godzin. Musimy zainstalowaÄ‡ jakiÅ› rezerwowy}
+{21084}{}{system regulacji obsÅ‚ugiwany przez czÅ‚owieka. Wiem,}
+{21085}{}{Å¼e moje obawy mogÄ… wydawaÄ‡ siÄ™ przesadzone,}
+{21086}{}{a sytuacja nie do pomyÅ›lenia, jednak lepiej jest byÄ‡}
+{21087}{}{przygotowanym na wszelkÄ… ewentualnoÅ›Ä‡.}
 {21088}{}{**END-PAR**}
-{21089}{}{W miêdzyczasie upewnijmy siê, ¿e nikt nie wysadzi}
+{21089}{}{W miÄ™dzyczasie upewnijmy siÄ™, Å¼e nikt nie wysadzi}
 {21090}{}{naszego komputera w powietrze (ha, ha).}
 {21091}{}{**END-PAR**}
-{21092}{}{Wasz Tom Murray, przewodnicz¹cy A.E.C.}
+{21092}{}{Wasz Tom Murray, przewodniczÄ…cy A.E.C.}
 {21093}{}{**END-DISK**}

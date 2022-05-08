@@ -1,2 +1,2 @@
 {100}{}{Tu vois une zone de sortie.}
-{101}{}{Ces choses ont laissé de grosses traces. Remonter jusqu'à leur nid ne devrait pas poser de problème. [Zone de sortie au Nord-Est]}
+{101}{}{Ces choses ont laissÃ© de grosses traces. Remonter jusqu'Ã  leur nid ne devrait pas poser de problÃ¨me. [Zone de sortie au Nord-Est]}

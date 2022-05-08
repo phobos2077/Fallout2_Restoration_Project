@@ -1,3 +1,3 @@
 {100}{}{Egy viharvert hololemez.}
-{101}{}{PipBoy: Fájl megtalálható a rendszeren. Letöltés megszakítva.}
-{102}{}{PipBoy: Adat letöltése a lemezr?l folyamatban.}
+{101}{}{PipBoy: FÃ¡jl megtalÃ¡lhatÃ³ a rendszeren. LetÃ¶ltÃ©s megszakÃ­tva.}
+{102}{}{PipBoy: Adat letÃ¶ltÃ©se a lemezr?l folyamatban.}

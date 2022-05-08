@@ -1,1 +1,1 @@
-{100}{}{Wygl¹da na to, ¿e ca³kiem niedawno mia³a tutaj miejsce jakaœ bitwa. Cia³a wygl¹daj¹ tak, jakby ktoœ przemieni³ je w krwaw¹ papkê.}
+{100}{}{WyglÄ…da na to, Å¼e caÅ‚kiem niedawno miaÅ‚a tutaj miejsce jakaÅ› bitwa. CiaÅ‚a wyglÄ…dajÄ… tak, jakby ktoÅ› przemieniÅ‚ je w krwawÄ… papkÄ™.}

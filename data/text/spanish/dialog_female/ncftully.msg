@@ -1,377 +1,377 @@
 {100}{}{Ves al Padre Tully.}
-{150}{}{Ves a un anciano con una túnica marrón y rojeces en las mejillas debidas al whisky. Parece un pelín mareado.}
+{150}{}{Ves a un anciano con una tÃºnica marrÃ³n y rojeces en las mejillas debidas al whisky. Parece un pelÃ­n mareado.}
 {151}{}{Ves al Padre Tully. Parece que ha estado empinando el codo profusamente.}
 {200}{}{Soy bienaventudado.}
-{201}{}{Y las mujeres deberían saludarme con un casto beso.}
-{202}{}{Expulsaré de mí al demonio bebiendo si he de hacerlo.}
-{203}{}{Un verdadero sermón no tiene palabras…}
-{204}{}{Siento al Todopoderoso en mí.}
-{205}{}{Maldición, me estoy despejando. Necesito una copa.}
-{206}{}{Por qué estará el suelo dando vueltas…}
-{207}{}{Una botella de licor me ayudará a tener don de lenguas.}
-{208}{}{Un quinto de licor mataría al diablo de mi cabeza.}
-{209}{}{Ooohhh. Ha pasado una hora desde que tomé el último trago…}
-{210}{}{Hora de empaparme del espíritu santo.}
+{201}{}{Y las mujeres deberÃ­an saludarme con un casto beso.}
+{202}{}{ExpulsarÃ© de mÃ­ al demonio bebiendo si he de hacerlo.}
+{203}{}{Un verdadero sermÃ³n no tiene palabrasâ€¦}
+{204}{}{Siento al Todopoderoso en mÃ­.}
+{205}{}{MaldiciÃ³n, me estoy despejando. Necesito una copa.}
+{206}{}{Por quÃ© estarÃ¡ el suelo dando vueltasâ€¦}
+{207}{}{Una botella de licor me ayudarÃ¡ a tener don de lenguas.}
+{208}{}{Un quinto de licor matarÃ­a al diablo de mi cabeza.}
+{209}{}{Ooohhh. Ha pasado una hora desde que tomÃ© el Ãºltimo tragoâ€¦}
+{210}{}{Hora de empaparme del espÃ­ritu santo.}
 {211}{}{Bebo en nombre de todo lo que es sagrado.}
-{220}{}{¿Quieres conocer la posición de la iglesia hacia la felación?}
-{221}{}{¡Pecadora! ¡Perversa! Eh... ¿qué haces más tarde?}
-{222}{}{¡Fulana! ¡Ramera! ¡Mujerzuela! Eh... ¿qué haces más tarde?}
-{225}{}{¿Quién edes tú? ¿Te conozco? }
-{226}{}{Saludos… qué puede haced el Padde Tully pod ti... }
-{227}{}{¿Tú edes quien pateó al Enclave c-como un camión… eh, quiedo decid, un campeón? Edes un hédoe.}
-{228}{}{¿Yo heroína?}
-{229}{}{Heroína marcha.}
-{230}{}{Me enfrenté al Enclave, sí. Ellos empezaron, y yo lo terminé. Pero no se equivoque, Padre. Sólo soy un hombre,
- intentando abrirme camino en este mundo que no perdona... no soy un héroe.}
-{231}{}{Me enfrenté al Enclave, sí. Ellos empezaron, y yo lo terminé. Pero no se equivoque, Padre. Sólo soy una mujer,
- intentando abrirme camino en este mundo que no perdona... no soy una heroína.}
-{232}{}{Será mejor que me vaya, Padre. Me ha alegrado olerle… eh, verle.}
-{235}{}{Edes una HEDOÍNA. Tengo al-go pada ti. Al pdincipio no sabía pada qué podía sedvid, aunque igual a ti te hace f-falta.}
+{220}{}{Â¿Quieres conocer la posiciÃ³n de la iglesia hacia la felaciÃ³n?}
+{221}{}{Â¡Pecadora! Â¡Perversa! Eh... Â¿quÃ© haces mÃ¡s tarde?}
+{222}{}{Â¡Fulana! Â¡Ramera! Â¡Mujerzuela! Eh... Â¿quÃ© haces mÃ¡s tarde?}
+{225}{}{Â¿QuiÃ©n edes tÃº? Â¿Te conozco? }
+{226}{}{Saludosâ€¦ quÃ© puede haced el Padde Tully pod ti... }
+{227}{}{Â¿TÃº edes quien pateÃ³ al Enclave c-como un camiÃ³nâ€¦ eh, quiedo decid, un campeÃ³n? Edes un hÃ©doe.}
+{228}{}{Â¿Yo heroÃ­na?}
+{229}{}{HeroÃ­na marcha.}
+{230}{}{Me enfrentÃ© al Enclave, sÃ­. Ellos empezaron, y yo lo terminÃ©. Pero no se equivoque, Padre. SÃ³lo soy un hombre,
+ intentando abrirme camino en este mundo que no perdona... no soy un hÃ©roe.}
+{231}{}{Me enfrentÃ© al Enclave, sÃ­. Ellos empezaron, y yo lo terminÃ©. Pero no se equivoque, Padre. SÃ³lo soy una mujer,
+ intentando abrirme camino en este mundo que no perdona... no soy una heroÃ­na.}
+{232}{}{SerÃ¡ mejor que me vaya, Padre. Me ha alegrado olerleâ€¦ eh, verle.}
+{235}{}{Edes una HEDOÃNA. Tengo al-go pada ti. Al pdincipio no sabÃ­a pada quÃ© podÃ­a sedvid, aunque igual a ti te hace f-falta.}
 {236}{}{Lo quedo yo.}
-{237}{}{No necesito… quiero salir fuera.}
-{238}{}{Desde luego. Me quedaré con lo que quiera que me dé, Padre. Eh, bueno, dentro de los límites de la decencia.}
+{237}{}{No necesitoâ€¦ quiero salir fuera.}
+{238}{}{Desde luego. Me quedarÃ© con lo que quiera que me dÃ©, Padre. Eh, bueno, dentro de los lÃ­mites de la decencia.}
 {239}{}{Er...no gracias, Padre. Realmente he de irme.}
-{240}{}{(Tully se acerca a uno de los bancos, levanta una tabla del asiento, y saca un sucio libro de tapa blanda). Aquí t-tienes.
- Está un poquito sucio, aunque… (Te lo entrega).}
+{240}{}{(Tully se acerca a uno de los bancos, levanta una tabla del asiento, y saca un sucio libro de tapa blanda). AquÃ­ t-tienes.
+ EstÃ¡ un poquito sucio, aunqueâ€¦ (Te lo entrega).}
 {241}{}{G-gracias}
 {242}{}{Gracias, Padre. Supongo.}
-{245}{}{Edes un hédoe. Te lo medeces. Hoy en día no muchos jugadodes TEDMINAN los juegos, y tú lo hiciste. Estoy odgulloso de ti.
- Todo NUEVO DENO está odgulloso de ti.}
-{246}{}{G-gracias, Padre. Adióoos.}
-{247}{}{Gracias, Padre. Cuídese, ¿de acuerdo?}
-{250}{}{Saludos, hija m-mía. ¿Qué puede haced el Padde Tully por ti en esta pdeciosa, pdeciosa noche?}
-{251}{}{Saludos, hija m-mía. ¿Qué puede haced el Padde Tully por ti en este pdecioso, pdecioso día?}
-{252}{}{Je-Je. Hueles a d-destilería. Hueles a pis.}
-{253}{}{Yo gusta sol del día.}
+{245}{}{Edes un hÃ©doe. Te lo medeces. Hoy en dÃ­a no muchos jugadodes TEDMINAN los juegos, y tÃº lo hiciste. Estoy odgulloso de ti.
+ Todo NUEVO DENO estÃ¡ odgulloso de ti.}
+{246}{}{G-gracias, Padre. AdiÃ³oos.}
+{247}{}{Gracias, Padre. CuÃ­dese, Â¿de acuerdo?}
+{250}{}{Saludos, hija m-mÃ­a. Â¿QuÃ© puede haced el Padde Tully por ti en esta pdeciosa, pdeciosa noche?}
+{251}{}{Saludos, hija m-mÃ­a. Â¿QuÃ© puede haced el Padde Tully por ti en este pdecioso, pdecioso dÃ­a?}
+{252}{}{Je-Je. Hueles a d-destilerÃ­a. Hueles a pis.}
+{253}{}{Yo gusta sol del dÃ­a.}
 {254}{}{Noche es noche.}
-{255}{}{Eh, en realidad es de día, Padre.}
+{255}{}{Eh, en realidad es de dÃ­a, Padre.}
 {256}{}{Eh, en realidad es de noche, Padre.}
-{257}{}{¿Quién eres?}
-{258}{}{¿Estás borracho?}
-{259}{}{'Padre' Tully, ¿eh? ¿Lleva a cabo divorcios?}
-{261}{}{Verás, he traído algo de licor, Padre. ¿Podemos hablar un momento…?}
+{257}{}{Â¿QuiÃ©n eres?}
+{258}{}{Â¿EstÃ¡s borracho?}
+{259}{}{'Padre' Tully, Â¿eh? Â¿Lleva a cabo divorcios?}
+{261}{}{VerÃ¡s, he traÃ­do algo de licor, Padre. Â¿Podemos hablar un momentoâ€¦?}
 {262}{}{Nada. Lamento molestarte.}
-{270}{}{(Olfatea sus mangas y después su túnica). Vaya, huelo muy fuedte, ¿eh? ¡Maldición, huelo a destiledía!
- Sedá mejod que me asee antes de que la señoda Wdight me pille…}
+{270}{}{(Olfatea sus mangas y despuÃ©s su tÃºnica). Vaya, huelo muy fuedte, Â¿eh? Â¡MaldiciÃ³n, huelo a destiledÃ­a!
+ SedÃ¡ mejod que me asee antes de que la seÃ±oda Wdight me pilleâ€¦}
 {271}{}{Adios hombre pis.}
-{275}{}{Diablos, debo habed dodmido más de la cuenta… o sino me hubieda entedado… ¿qué demonios estaba d-diciendo?}
-{290}{}{El Padde Tully, a tu sedvicio. Soy el consejedo espiditual de la buena g… o sea, de la gente de Nuevo Deno.}
-{291}{}{¿Estar borracho es la única forma que tienes de conseguirlo?}
-{292}{}{Tenía algunas preguntas sobre Nuevo Reno…}
+{275}{}{Diablos, debo habed dodmido mÃ¡s de la cuentaâ€¦ o sino me hubieda entedadoâ€¦ Â¿quÃ© demonios estaba d-diciendo?}
+{290}{}{El Padde Tully, a tu sedvicio. Soy el consejedo espiditual de la buena gâ€¦ o sea, de la gente de Nuevo Deno.}
+{291}{}{Â¿Estar borracho es la Ãºnica forma que tienes de conseguirlo?}
+{292}{}{TenÃ­a algunas preguntas sobre Nuevo Renoâ€¦}
 {295}{}{Ya veo. Bien, gracias por hablar conmigo.}
-{300}{}{¡Desde luego que no! En el PASADO, se me conocía por satisfaced así a mi espíditu, pero la Unión pod la Templanza me ayudó a domped ese molesto hábito!}
-{301}{}{¿Unión por la Templ--?}
+{300}{}{Â¡Desde luego que no! En el PASADO, se me conocÃ­a por satisfaced asÃ­ a mi espÃ­ditu, pero la UniÃ³n pod la Templanza me ayudÃ³ a domped ese molesto hÃ¡bito!}
+{301}{}{Â¿UniÃ³n por la Templ--?}
 {302}{}{Oh. Y no --}
-{303}{}{¿Romper el --?}
-{305}{}{Unión pod la Templanza, la señoda Wdight… es lo mismo. Intentan limpiad Nuevo Deno. Hiciedon un buen tdabajo conmigo.}
-{306}{}{Desde luego que sí. Tenía algunas otras preguntas…}
-{315}{}{¿Pdeguntas? ¿No puedo decid que sepa demasiado sobde nada. Pero pdegunta de todas fodmas.}
-{316}{}{¿Has oído hablar del Refugio 13?}
-{317}{}{Estoy aquí porque estoy buscando a mi tribu. Fueron raptados en mi poblado.}
-{318}{}{¿Sabes cómo reparar un petrolero?}
-{319}{}{¿Has oido hablar acerca de algo llamado el Kit de Creación del Jardín del Edén?}
-{320}{}{¿Puedes contarme algo acerca de Nuevo Reno?}
-{323}{}{Tal vez vuelva cuando estés un poco más despejado.}
-{325}{}{Bien… Deno... es… bien, es... bien... um, o sea...}
-{326}{}{¿Un Kit de Cdeación del Jaddín del Edén? No. No puedo decid que haya oído hablad de algo así. Vedás, um...}
-{327}{}{¿Defugio tdece? Ni idea... bueno, es decid, está CIUDAD Defugio al noddeste. ¿Quizá es eso lo que buscas? Hmmmm... vedás, um...}
-{328}{}{¿Quizá los esc-clavistas? He oído que tienen mucha medcancía... um... vedás...}
-{329}{}{¿Un q-qué? ¿Una de esas cosas flotantes…? No sé mu-mucho sobre eso....um... vedás...}
-{330}{}{¿Sí...?}
-{335}{}{Peddona pod pdeguntad, ¿no llevadás encima una botella? Necesito algo pod mis sedvicios… y, eh, mi gadganta está un poco seca.}
-{336}{}{Desde luego. Aquí tienes.}
+{303}{}{Â¿Romper el --?}
+{305}{}{UniÃ³n pod la Templanza, la seÃ±oda Wdightâ€¦ es lo mismo. Intentan limpiad Nuevo Deno. Hiciedon un buen tdabajo conmigo.}
+{306}{}{Desde luego que sÃ­. TenÃ­a algunas otras preguntasâ€¦}
+{315}{}{Â¿Pdeguntas? Â¿No puedo decid que sepa demasiado sobde nada. Pero pdegunta de todas fodmas.}
+{316}{}{Â¿Has oÃ­do hablar del Refugio 13?}
+{317}{}{Estoy aquÃ­ porque estoy buscando a mi tribu. Fueron raptados en mi poblado.}
+{318}{}{Â¿Sabes cÃ³mo reparar un petrolero?}
+{319}{}{Â¿Has oido hablar acerca de algo llamado el Kit de CreaciÃ³n del JardÃ­n del EdÃ©n?}
+{320}{}{Â¿Puedes contarme algo acerca de Nuevo Reno?}
+{323}{}{Tal vez vuelva cuando estÃ©s un poco mÃ¡s despejado.}
+{325}{}{Bienâ€¦ Deno... esâ€¦ bien, es... bien... um, o sea...}
+{326}{}{Â¿Un Kit de CdeaciÃ³n del JaddÃ­n del EdÃ©n? No. No puedo decid que haya oÃ­do hablad de algo asÃ­. VedÃ¡s, um...}
+{327}{}{Â¿Defugio tdece? Ni idea... bueno, es decid, estÃ¡ CIUDAD Defugio al noddeste. Â¿QuizÃ¡ es eso lo que buscas? Hmmmm... vedÃ¡s, um...}
+{328}{}{Â¿QuizÃ¡ los esc-clavistas? He oÃ­do que tienen mucha medcancÃ­a... um... vedÃ¡s...}
+{329}{}{Â¿Un q-quÃ©? Â¿Una de esas cosas flotantesâ€¦? No sÃ© mu-mucho sobre eso....um... vedÃ¡s...}
+{330}{}{Â¿SÃ­...?}
+{335}{}{Peddona pod pdeguntad, Â¿no llevadÃ¡s encima una botella? Necesito algo pod mis sedviciosâ€¦ y, eh, mi gadganta estÃ¡ un poco seca.}
+{336}{}{Desde luego. AquÃ­ tienes.}
 {337}{}{No llevo ninguna encima, me temo.}
-{338}{}{Podría echarle mano a alguna, si quieres.}
-{440}{}{Ahoda estoy en el buen camino, gdacias a la señoda Wdight... que Dios la bendiga. Llevo limpio casi un... eh, mes. ¿O tal vez
- una s-semana? Ay, demonios, no lo sé. }
-{441}{}{Una semana, sí, claro. Oye, Tengo algunas preguntas para ti…}
-{442}{}{Seco como un hueso, ¿eh? ¿Cuántos dedos hay aquí?}
-{443}{}{¿Unión por la Templanza?}
-{444}{}{¿La señora Wright?}
-{445}{}{Quizá vuelva cuando estés sobrio.}
+{338}{}{PodrÃ­a echarle mano a alguna, si quieres.}
+{440}{}{Ahoda estoy en el buen camino, gdacias a la seÃ±oda Wdight... que Dios la bendiga. Llevo limpio casi un... eh, mes. Â¿O tal vez
+ una s-semana? Ay, demonios, no lo sÃ©. }
+{441}{}{Una semana, sÃ­, claro. Oye, Tengo algunas preguntas para tiâ€¦}
+{442}{}{Seco como un hueso, Â¿eh? Â¿CuÃ¡ntos dedos hay aquÃ­?}
+{443}{}{Â¿UniÃ³n por la Templanza?}
+{444}{}{Â¿La seÃ±ora Wright?}
+{445}{}{QuizÃ¡ vuelva cuando estÃ©s sobrio.}
 {450}{}{(Tully se tropieza con el cepillo de donativos al lado del altar, y mete dentro la mano). }
-{451}{}{Uh…hmmnn. (Saca la mano vacía). Me temo que no tengo ninguna f-ficha, después de todo.}
-{452}{}{Hmnnn. Aquí tienes… (deja caer algunas monedas en tu mano). Dios bendiga a los pobdes. Gástalo en nombde de todo lo que es sagdado.}
-{453}{}{Gracias de todos modos, Padre. Veré si puedo gorronear algo de licor.}
-{454}{}{Gracias, Padre. Volveré con el licor en cuanto pueda.}
-{460}{}{No le si-sigas la codiente a su mujed y su hija... no me extdaña que estén asilvestdadas.
- Je-je... todo eso sale en el confesionadio, ya sabes…}
-{461}{}{Oh, ¿y qué es lo que el señor Bishop dice en el confesionario?}
-{462}{}{Oh, ¿y qué es lo que la señora Bishop dice en el confesionario?}
-{463}{}{¿Qué dice la señora Bishop en el confesionario? No habla de mi, ¿verdad?… quiero decir, porque no hay
+{451}{}{Uhâ€¦hmmnn. (Saca la mano vacÃ­a). Me temo que no tengo ninguna f-ficha, despuÃ©s de todo.}
+{452}{}{Hmnnn. AquÃ­ tienesâ€¦ (deja caer algunas monedas en tu mano). Dios bendiga a los pobdes. GÃ¡stalo en nombde de todo lo que es sagdado.}
+{453}{}{Gracias de todos modos, Padre. VerÃ© si puedo gorronear algo de licor.}
+{454}{}{Gracias, Padre. VolverÃ© con el licor en cuanto pueda.}
+{460}{}{No le si-sigas la codiente a su mujed y su hija... no me extdaÃ±a que estÃ©n asilvestdadas.
+ Je-je... todo eso sale en el confesionadio, ya sabesâ€¦}
+{461}{}{Oh, Â¿y quÃ© es lo que el seÃ±or Bishop dice en el confesionario?}
+{462}{}{Oh, Â¿y quÃ© es lo que la seÃ±ora Bishop dice en el confesionario?}
+{463}{}{Â¿QuÃ© dice la seÃ±ora Bishop en el confesionario? No habla de mi, Â¿verdad?â€¦ quiero decir, porque no hay
  nada de lo que hablar. Todo mentiras.}
-{464}{}{Oh, ¿y qué es lo que dice la hija de Bishop en el confesionario?}
-{465}{}{Eh, ¿qué dice la hija de Bishop en el confesionario? Nada sobre mí, esp… er, nada malo, espero.}
-{466}{}{Me lo imagino. ¿Puedo hacerle algunas otras preguntas, Padre?}
-{470}{}{Qué va, Ciudad Defugio les manda a tomad pod el culo. Y entonces... no mucho después, Ciudad Defugio empieza a sed atacada. Con dapidez.
- Y dudeza. Y mientdas tanto, ahí está Bischop, diciéndoles, "yo PODRÍA ayudar, SI os unís a Nuevo Deno."}
-{471}{}{Hmmm. ¿Qué más puedes contarme sobre los Bishop?}
-{472}{}{¿Así que el chantaje es el juego de Bishop? Unos cuantos asaltos, algunas muertes, y Ciudad Refugio podría estar lista para ser amiga de Nuevo Reno.
- No demasiado sutil, pero efectivo. ¿Qué más puedes contarme sobre los Bishop?}
-{473}{}{Esa parece una táctica extraña... quiero decir, es mucho más probable que Ciudad Refugio tratase de conseguir ayuda de alguien más antes de
- ceder a la presión de Bishop. ¿Qué más puedes contarme sobre los Bishop?}
-{474}{}{Esa parece una táctica extraña... quiero decir, es mucho más probable que Ciudad Refugio tratase de conseguir ayuda de alguien más... como
- la RNC, por ejemplo... antes de ceder a la presión de Bishop. ¿Qué más puedes contarme sobre los Bishop?}
-{475}{}{¿Puedo hacerle algunas otras preguntas, Padre?}
+{464}{}{Oh, Â¿y quÃ© es lo que dice la hija de Bishop en el confesionario?}
+{465}{}{Eh, Â¿quÃ© dice la hija de Bishop en el confesionario? Nada sobre mÃ­, espâ€¦ er, nada malo, espero.}
+{466}{}{Me lo imagino. Â¿Puedo hacerle algunas otras preguntas, Padre?}
+{470}{}{QuÃ© va, Ciudad Defugio les manda a tomad pod el culo. Y entonces... no mucho despuÃ©s, Ciudad Defugio empieza a sed atacada. Con dapidez.
+ Y dudeza. Y mientdas tanto, ahÃ­ estÃ¡ Bischop, diciÃ©ndoles, "yo PODRÃA ayudar, SI os unÃ­s a Nuevo Deno."}
+{471}{}{Hmmm. Â¿QuÃ© mÃ¡s puedes contarme sobre los Bishop?}
+{472}{}{Â¿AsÃ­ que el chantaje es el juego de Bishop? Unos cuantos asaltos, algunas muertes, y Ciudad Refugio podrÃ­a estar lista para ser amiga de Nuevo Reno.
+ No demasiado sutil, pero efectivo. Â¿QuÃ© mÃ¡s puedes contarme sobre los Bishop?}
+{473}{}{Esa parece una tÃ¡ctica extraÃ±a... quiero decir, es mucho mÃ¡s probable que Ciudad Refugio tratase de conseguir ayuda de alguien mÃ¡s antes de
+ ceder a la presiÃ³n de Bishop. Â¿QuÃ© mÃ¡s puedes contarme sobre los Bishop?}
+{474}{}{Esa parece una tÃ¡ctica extraÃ±a... quiero decir, es mucho mÃ¡s probable que Ciudad Refugio tratase de conseguir ayuda de alguien mÃ¡s... como
+ la RNC, por ejemplo... antes de ceder a la presiÃ³n de Bishop. Â¿QuÃ© mÃ¡s puedes contarme sobre los Bishop?}
+{475}{}{Â¿Puedo hacerle algunas otras preguntas, Padre?}
 {476}{}{Muy interesante, Padre. Gracias por hablar conmigo.}
-{480}{}{(Mira fijamente tu mano). ¿S-seis? O quizá tdes…}
-{481}{}{Muy bien. Ambas respuestas son correctas. Verá, tenía unas preguntas…}
-{482}{}{¿Lleva a cabo divorcios?}
-{484}{}{Quizá vuelva cuando esté sobrio.}
-{490}{}{Que el diablo me lleve, ¡clado que puedo! Deno ha sido la capital del divodcio desde antes del Holocausto. }
-{491}{}{¿Esta es la fudcia de la que te quiedes libdad? }
-{492}{}{¿Este es el guapedas del que te quiedes libdad? }
-{493}{}{(Parece confuso durante un momento mientras os contempla a ambos. Después se encoge de hombros y bebe).}
-{494}{}{Puedes apostar. ¿Podemos empezar ahora?}
-{495}{}{Quizá… todavía me lo estoy pensando. Pero puede que vuelva.}
-{500}{}{Bien, aunque he extdaviado mi libdo de sedmones con todo el pdtodolo oficial…}
-{501}{}{A la mierda con el libro. Aquí tengo algo de licor. ¿No puede sencillamente improvisar algo?}
-{502}{}{Aquí tengo algo de licor. ¿No puede sencillamente improvisar algo?}
-{503}{}{A la mierda con el libro. Si le consigo una botella, ¿cree que podría sencillamente improvisar algo?}
-{504}{}{Si le consigo una botella, ¿cree que podría sencillamente improvisar algo?}
-{505}{}{Oh, en fin. Quizá el libro aparezca.}
-{510}{}{Bueno, eso no estadía bien… a menos que el licod fueda muuuuy bueno.}
-{511}{}{No tema. Volveré.}
-{512}{}{Bien, puedo hacer algo. Pero primero necesitaré unas cuantas fichas.}
-{520}{}{¡Desde luego! Déjame despachar esto antes de que se eche a pedded… (se acaba la botella a velocidad de vértigo)... de acueddo, un paso adelante hacia el altad, los dos…}
-{521}{}{Das un paso adelante…}
-{530}{}{Oh. Está bien. Pdeguntad no hace daño… entonces… eh… lo siento, ¿quién edas tú?}
-{531}{}{Pues verás, podría conseguirte algo de licor, si quieres.}
-{540}{}{¡Esa es una i-idea genial! ¡Que el Señod te bendiga! Eh… desulta que conozco un LUGAD en la zona este, en la vieja estación
+{480}{}{(Mira fijamente tu mano). Â¿S-seis? O quizÃ¡ tdesâ€¦}
+{481}{}{Muy bien. Ambas respuestas son correctas. VerÃ¡, tenÃ­a unas preguntasâ€¦}
+{482}{}{Â¿Lleva a cabo divorcios?}
+{484}{}{QuizÃ¡ vuelva cuando estÃ© sobrio.}
+{490}{}{Que el diablo me lleve, Â¡clado que puedo! Deno ha sido la capital del divodcio desde antes del Holocausto. }
+{491}{}{Â¿Esta es la fudcia de la que te quiedes libdad? }
+{492}{}{Â¿Este es el guapedas del que te quiedes libdad? }
+{493}{}{(Parece confuso durante un momento mientras os contempla a ambos. DespuÃ©s se encoge de hombros y bebe).}
+{494}{}{Puedes apostar. Â¿Podemos empezar ahora?}
+{495}{}{QuizÃ¡â€¦ todavÃ­a me lo estoy pensando. Pero puede que vuelva.}
+{500}{}{Bien, aunque he extdaviado mi libdo de sedmones con todo el pdtodolo oficialâ€¦}
+{501}{}{A la mierda con el libro. AquÃ­ tengo algo de licor. Â¿No puede sencillamente improvisar algo?}
+{502}{}{AquÃ­ tengo algo de licor. Â¿No puede sencillamente improvisar algo?}
+{503}{}{A la mierda con el libro. Si le consigo una botella, Â¿cree que podrÃ­a sencillamente improvisar algo?}
+{504}{}{Si le consigo una botella, Â¿cree que podrÃ­a sencillamente improvisar algo?}
+{505}{}{Oh, en fin. QuizÃ¡ el libro aparezca.}
+{510}{}{Bueno, eso no estadÃ­a bienâ€¦ a menos que el licod fueda muuuuy bueno.}
+{511}{}{No tema. VolverÃ©.}
+{512}{}{Bien, puedo hacer algo. Pero primero necesitarÃ© unas cuantas fichas.}
+{520}{}{Â¡Desde luego! DÃ©jame despachar esto antes de que se eche a peddedâ€¦ (se acaba la botella a velocidad de vÃ©rtigo)... de acueddo, un paso adelante hacia el altad, los dosâ€¦}
+{521}{}{Das un paso adelanteâ€¦}
+{530}{}{Oh. EstÃ¡ bien. Pdeguntad no hace daÃ±oâ€¦ entoncesâ€¦ ehâ€¦ lo siento, Â¿quiÃ©n edas tÃº?}
+{531}{}{Pues verÃ¡s, podrÃ­a conseguirte algo de licor, si quieres.}
+{540}{}{Â¡Esa es una i-idea genial! Â¡Que el SeÃ±od te bendiga! Ehâ€¦ desulta que conozco un LUGAD en la zona este, en la vieja estaciÃ³n
  del tden, que vende la clase de agua b-bendita que necesito.}
-{541}{}{De acuerdo. Iré a conseguir un poco. En seguida vuelvo.}
-{542}{}{De acuerdo. Iré a conseguir un poco. Pero necesitaré algunas fichas para comprarlo.}
-{550}{}{Clado, clado… fichas, fichas… donde guaddo las fichas…(su mirada se dirige al cepillo de donativos al lado del altar). ¡Ah! No
- sé pod qué no pensé antes en e-eso... Espeda un minuto...}
+{541}{}{De acuerdo. IrÃ© a conseguir un poco. En seguida vuelvo.}
+{542}{}{De acuerdo. IrÃ© a conseguir un poco. Pero necesitarÃ© algunas fichas para comprarlo.}
+{550}{}{Clado, cladoâ€¦ fichas, fichasâ€¦ donde guaddo las fichasâ€¦(su mirada se dirige al cepillo de donativos al lado del altar). Â¡Ah! No
+ sÃ© pod quÃ© no pensÃ© antes en e-eso... Espeda un minuto...}
 {551}{}{(Esperas pacientemente a que haga una retirada de efectivo del cepillo).}
 {552}{}{Eh, no importa, Padre. Yo invito.}
-{560}{}{(El Padre Tully contempla la... ahora... vacía botella de sus manos). Oye, no es que quieda obligadte, amigo: ¿no tenddías
- casualmente otda obtella de ese vino añe-jo? Toda esta chadla me está dejando la boca seca.}
-{570}{}{¡Muchísimas gdacias! (Toma la botella y le da un trago). Ahhh… lo siento… ¿de qué demonios es-estaba hablando?}
-{571}{}{Eh… bien, e-entonces, con toda segudidad! (Toma la botella). no suelo tocad estas cosas, ya sabes… (toma un buen trago)... ahhhh… um, lo siento, qué estaba dici-ciendo?}
-{572}{}{Eh… ¡maldito seas! (Toma la botella). Nodmalmente no bebo tanto, ¿sabes?… (Le da un buen trago). Ahhhh… lo siento, qué estaba d-diciendo?}
+{560}{}{(El Padre Tully contempla la... ahora... vacÃ­a botella de sus manos). Oye, no es que quieda obligadte, amigo: Â¿no tenddÃ­as
+ casualmente otda obtella de ese vino aÃ±e-jo? Toda esta chadla me estÃ¡ dejando la boca seca.}
+{570}{}{Â¡MuchÃ­simas gdacias! (Toma la botella y le da un trago). Ahhhâ€¦ lo sientoâ€¦ Â¿de quÃ© demonios es-estaba hablando?}
+{571}{}{Ehâ€¦ bien, e-entonces, con toda segudidad! (Toma la botella). no suelo tocad estas cosas, ya sabesâ€¦ (toma un buen trago)... ahhhhâ€¦ um, lo siento, quÃ© estaba dici-ciendo?}
+{572}{}{Ehâ€¦ Â¡maldito seas! (Toma la botella). Nodmalmente no bebo tanto, Â¿sabes?â€¦ (Le da un buen trago). Ahhhhâ€¦ lo siento, quÃ© estaba d-diciendo?}
 {573}{}{Estabas hablando de la familia Bishop.}
 {574}{}{Estabas hablando de la familia Wright.}
 {575}{}{Estabas hablando de la familia Mordino.}
 {576}{}{Estabas hablando de la familia Salvatore.}
 {578}{}{Estabas hablando de la muerte de Richard Wright.}
-{579}{}{Volveré cuando estés sobrio.}
-{590}{}{¿Eh? Los Bishop, sí… hambdientos de poded todos ellos, lo llevan en la sangde. La cosa es que el viejo John Bischop está tan pdeocupado
+{579}{}{VolverÃ© cuando estÃ©s sobrio.}
+{590}{}{Â¿Eh? Los Bishop, sÃ­â€¦ hambdientos de poded todos ellos, lo llevan en la sangde. La cosa es que el viejo John Bischop estÃ¡ tan pdeocupado
  en contdoladlo todo que no se ocupa de sus asuntos de su c-casa...}
-{591}{}{¿Asuntos de su casa?}
-{600}{}{Bueno, no mucho, aunque he oído cosas FUEDA del confesionadio acedca del viejo Bishop. Astuto demonio. Tiene pelotas de acedo,
- sí... deben rechinadle al andad. Apuesto a que está detdás de esos saqueadodes de Ciudad Defugio… ¿has oído hablad de ellos?}
+{591}{}{Â¿Asuntos de su casa?}
+{600}{}{Bueno, no mucho, aunque he oÃ­do cosas FUEDA del confesionadio acedca del viejo Bishop. Astuto demonio. Tiene pelotas de acedo,
+ sÃ­... deben rechinadle al andad. Apuesto a que estÃ¡ detdÃ¡s de esos saqueadodes de Ciudad Defugioâ€¦ Â¿has oÃ­do hablad de ellos?}
 {601}{}{No.}
-{602}{}{Sí.}
-{603}{}{Padre, baje la voz. Decir esas cosas podría hacer que lo matasen en esta ciudad…}
-{604}{}{Oiga, quizá vuelva cuando estés sobrio.}
-{610}{}{(Te ignora). Vedás, hace unos meses, el viejo Bishop envío una cadavana a Ciudad Defugio, SUGIDIENDO un matdimonio de conveniencia entde Ciudad Defugio y Nuevo Deno.}
-{611}{}{¿Llegaron a un acuerdo?}
-{612}{}{Supongo que no llegarían a un acuerdo.}
-{620}{}{Más o menos lo que espedadías de una esposa descuidada con unas cudvas que cudadían la cegueda. Adultedio, sobde todo.
- Es decid, ¿has VISTO sus melones? ¡Madde de Dios!}
-{621}{}{Eh… ¿qué más puede contarme sobre los Bishop, Padre?}
-{622}{}{Sí, tiene buenos melones. Es decir… eso he oído. Eh, ¿qué más puede contarme sobre los Bishop, Padre?}
-{623}{}{Er... ella no dijo con QUIEN cometió adulterio, ¿verdad, Padre?}
+{602}{}{SÃ­.}
+{603}{}{Padre, baje la voz. Decir esas cosas podrÃ­a hacer que lo matasen en esta ciudadâ€¦}
+{604}{}{Oiga, quizÃ¡ vuelva cuando estÃ©s sobrio.}
+{610}{}{(Te ignora). VedÃ¡s, hace unos meses, el viejo Bishop envÃ­o una cadavana a Ciudad Defugio, SUGIDIENDO un matdimonio de conveniencia entde Ciudad Defugio y Nuevo Deno.}
+{611}{}{Â¿Llegaron a un acuerdo?}
+{612}{}{Supongo que no llegarÃ­an a un acuerdo.}
+{620}{}{MÃ¡s o menos lo que espedadÃ­as de una esposa descuidada con unas cudvas que cudadÃ­an la cegueda. Adultedio, sobde todo.
+ Es decid, Â¿has VISTO sus melones? Â¡Madde de Dios!}
+{621}{}{Ehâ€¦ Â¿quÃ© mÃ¡s puede contarme sobre los Bishop, Padre?}
+{622}{}{SÃ­, tiene buenos melones. Es decirâ€¦ eso he oÃ­do. Eh, Â¿quÃ© mÃ¡s puede contarme sobre los Bishop, Padre?}
+{623}{}{Er... ella no dijo con QUIEN cometiÃ³ adulterio, Â¿verdad, Padre?}
 {625}{}{De acuerdo. Bien, gracias por hablar conmigo.}
-{630}{}{Oooh, ¿la dulce p-pequeña Angela? ¡Pequeña DIABLESA, más bien! La chica lleva al demonio en la sangde. Siempde
- pavoneándose pod ahí, acostándose con cualquieda y lle-llenándose de Jet…}
-{631}{}{Eh, ¿acostándose con cualquiera? ¿Dijo con quién?}
-{632}{}{¿Jet?}
-{633}{}{Parece una gran familia. ¿Qué más me puede contar sobre los Bishop?}
-{634}{}{Tenía algunas preguntas más, Padre…}
-{635}{}{Supongo que no son más que niñerías. Bien, gracias por hablar conmigo.}
-{640}{}{¿Con quién? Clado que lo dijo, aunque la lista de con quien NO ha estado tonteando sedía bastante más codta. Se lo cuenta a todos,
- pdesume de ello. Oye... ¿cuál eda tu nombde?}
-{641}{}{Eh, da igual… ¿qué más me puede contar sobre los Bishop, Padre?}
-{642}{}{¿Yo? Los monjes célibes no tenemos nombre. Verá, tenía algunas otras preguntas, Padre…}
-{643}{}{¿Yo? Las monjas célibes no tenemos nombre. Verá, tenía algunas otras preguntas, Padre…}
-{644}{}{Hablaremos más tarde, Padre.}
-{650}{}{¡Sangde del Diablo! ¡Una pedvedsidad! ¡Una nauseabunda secdeción de la teta del mal!}
-{651}{}{Así que… ¿no te gusta el Jet?}
-{652}{}{Eh, sí. Teta del mal. ¿Puedo hacerle algunas otras preguntas, Padre?}
-{653}{}{De acuerdo entonces. Hablaremos más tarde, Padre.}
-{660}{}{Esa d-droga sedá nuestda muedte. No se me ocu-rre ninguna otda ddoga…(toma un trago y eructa)… que cause más d-daño que el Jet… mata
- cuedpo y mente. Malditos Mordino…}
-{661}{}{¿Qué era eso de los Mordino?}
-{663}{}{Eh, yo haría que esa botella durase un poco más la póxima vez, Padre. Nos veremos más tarde.}
-{670}{}{¡Je-je! Wdight, ¿eh? (Sonríe y arquea las cejas). Déjame que te cuente a-algo acedca de los WDIGHT… ¡son un montón
+{630}{}{Oooh, Â¿la dulce p-pequeÃ±a Angela? Â¡PequeÃ±a DIABLESA, mÃ¡s bien! La chica lleva al demonio en la sangde. Siempde
+ pavoneÃ¡ndose pod ahÃ­, acostÃ¡ndose con cualquieda y lle-llenÃ¡ndose de Jetâ€¦}
+{631}{}{Eh, Â¿acostÃ¡ndose con cualquiera? Â¿Dijo con quiÃ©n?}
+{632}{}{Â¿Jet?}
+{633}{}{Parece una gran familia. Â¿QuÃ© mÃ¡s me puede contar sobre los Bishop?}
+{634}{}{TenÃ­a algunas preguntas mÃ¡s, Padreâ€¦}
+{635}{}{Supongo que no son mÃ¡s que niÃ±erÃ­as. Bien, gracias por hablar conmigo.}
+{640}{}{Â¿Con quiÃ©n? Clado que lo dijo, aunque la lista de con quien NO ha estado tonteando sedÃ­a bastante mÃ¡s codta. Se lo cuenta a todos,
+ pdesume de ello. Oye... Â¿cuÃ¡l eda tu nombde?}
+{641}{}{Eh, da igualâ€¦ Â¿quÃ© mÃ¡s me puede contar sobre los Bishop, Padre?}
+{642}{}{Â¿Yo? Los monjes cÃ©libes no tenemos nombre. VerÃ¡, tenÃ­a algunas otras preguntas, Padreâ€¦}
+{643}{}{Â¿Yo? Las monjas cÃ©libes no tenemos nombre. VerÃ¡, tenÃ­a algunas otras preguntas, Padreâ€¦}
+{644}{}{Hablaremos mÃ¡s tarde, Padre.}
+{650}{}{Â¡Sangde del Diablo! Â¡Una pedvedsidad! Â¡Una nauseabunda secdeciÃ³n de la teta del mal!}
+{651}{}{AsÃ­ queâ€¦ Â¿no te gusta el Jet?}
+{652}{}{Eh, sÃ­. Teta del mal. Â¿Puedo hacerle algunas otras preguntas, Padre?}
+{653}{}{De acuerdo entonces. Hablaremos mÃ¡s tarde, Padre.}
+{660}{}{Esa d-droga sedÃ¡ nuestda muedte. No se me ocu-rre ninguna otda ddogaâ€¦(toma un trago y eructa)â€¦ que cause mÃ¡s d-daÃ±o que el Jetâ€¦ mata
+ cuedpo y mente. Malditos Mordinoâ€¦}
+{661}{}{Â¿QuÃ© era eso de los Mordino?}
+{663}{}{Eh, yo harÃ­a que esa botella durase un poco mÃ¡s la pÃ³xima vez, Padre. Nos veremos mÃ¡s tarde.}
+{670}{}{Â¡Je-je! Wdight, Â¿eh? (SonrÃ­e y arquea las cejas). DÃ©jame que te cuente a-algo acedca de los WDIGHTâ€¦ Â¡son un montÃ³n
  de boddachos cachondos y fer-r-rreos puditanos, eso es lo q-que son!}
-{671}{}{Oh, ¿en serio?}
-{672}{}{Creo que ya he oído suficiente, Padre. Gracias por hablar conmigo.}
-{680}{}{Esos Wdight no hacen m-más que niños… el viejo Odville Wdight debe queded r-repodlad el mundo. Espedo que la señoda Wdight
- pueda aguantad el estrés. Je-je. Y las c-cosas que DICEN en el confesionadio…}
-{681}{}{Oh, ¿en serio? ¿Qué dice la señora Wright en el confesionario?}
-{682}{}{Oh, ¿en serio? ¿Qué dice el viejo ORVILLE Wright en el confesionario?}
-{683}{}{¿Qué controla la familia Wright en Nuevo Reno?}
-{684}{}{Oh, apuesto a que es un asunto jugoso. Quizá podamos hablar en otra ocasión.}
-{690}{}{¿ETHYL Wdight? ¡Esa bendita mujed! Me mantiene lejos de la b-bedida, y en el buen camino. (Toma un trago). Ella puede quitadte
- el pecado, puede… eh, esto… ¿qué demonios e-estaba diciendo?}
-{691}{}{Acerca de la señora Wright en el confesionario…}
-{692}{}{Estaba hablando de la familia Wright…}
-{693}{}{No importa. Tenía algunas otras preguntas...}
-{694}{}{Nada más, creo. Gracias por hablar conmigo.}
-{700}{}{Oh, clado, clado. Bien, eh, en el confesionadio, no tenía mucho que decid. Casi todo eda culpabilidad por entdometedse… o por
- disfdutad el sexo con su mar-ridito más de la cuenta. Je-je. (Toma un trago). Me encaaaaanta la culpabilidad.}
-{701}{}{Tenía algunas preguntas más acerca de los Wright…}
-{702}{}{Ya veo. Tenías algunas preguntas más...}
+{671}{}{Oh, Â¿en serio?}
+{672}{}{Creo que ya he oÃ­do suficiente, Padre. Gracias por hablar conmigo.}
+{680}{}{Esos Wdight no hacen m-mÃ¡s que niÃ±osâ€¦ el viejo Odville Wdight debe queded r-repodlad el mundo. Espedo que la seÃ±oda Wdight
+ pueda aguantad el estrÃ©s. Je-je. Y las c-cosas que DICEN en el confesionadioâ€¦}
+{681}{}{Oh, Â¿en serio? Â¿QuÃ© dice la seÃ±ora Wright en el confesionario?}
+{682}{}{Oh, Â¿en serio? Â¿QuÃ© dice el viejo ORVILLE Wright en el confesionario?}
+{683}{}{Â¿QuÃ© controla la familia Wright en Nuevo Reno?}
+{684}{}{Oh, apuesto a que es un asunto jugoso. QuizÃ¡ podamos hablar en otra ocasiÃ³n.}
+{690}{}{Â¿ETHYL Wdight? Â¡Esa bendita mujed! Me mantiene lejos de la b-bedida, y en el buen camino. (Toma un trago). Ella puede quitadte
+ el pecado, puedeâ€¦ eh, estoâ€¦ Â¿quÃ© demonios e-estaba diciendo?}
+{691}{}{Acerca de la seÃ±ora Wright en el confesionarioâ€¦}
+{692}{}{Estaba hablando de la familia Wrightâ€¦}
+{693}{}{No importa. TenÃ­a algunas otras preguntas...}
+{694}{}{Nada mÃ¡s, creo. Gracias por hablar conmigo.}
+{700}{}{Oh, clado, clado. Bien, eh, en el confesionadio, no tenÃ­a mucho que decid. Casi todo eda culpabilidad por entdometedseâ€¦ o por
+ disfdutad el sexo con su mar-ridito mÃ¡s de la cuenta. Je-je. (Toma un trago). Me encaaaaanta la culpabilidad.}
+{701}{}{TenÃ­a algunas preguntas mÃ¡s acerca de los Wrightâ€¦}
+{702}{}{Ya veo. TenÃ­as algunas preguntas mÃ¡s...}
 {703}{}{Se nota. Gracias por hablar conmigo.}
-{710}{}{¿El viejo Odville? Bueno, tiene mucha culpabilidad sobde sus hombdos. Vedás, le pdometió a su señora que dejadía el negocio del al-alcohol, ¡pe-pero
- tiene una destiledía secdeta en la estación de tden, tdas la casa! Ella le sacudidía a base de bien si se entedase…}
-{711}{}{Je, je, esto es gdacioso… vedás, el viejo señod Wdight pdometió a su señoda que dejadía el ne-negocio del alcohol, ¡pe-pero tiene una destiledía
- secdeta en la estación de tden, tdas la casa! ¡Ja! Ella le sacudidía a base de bien si se entedase…}
-{712}{}{Cuénteme más sobre la señora Wright…}
-{713}{}{Cuénteme algo más sobre los Wright…}
-{715}{}{Una destilería secreta en la estación de tren tras la casa, ¿eh? Muy interesante, Padre. Gracias por la información.}
-{720}{}{¡Nada! (Toma un trago). Son la más débil de l--as Familias, podque sólo tdafican con alco-cohol. Apenas ganan un centavo con ello.
- Las demás Familias les compdan alcohol pdacticamente por pena.}
-{721}{}{¿De dónde sale su alcohol?}
-{722}{}{Interesante. Cuénteme algo más acerca de los Wright…}
-{724}{}{Muy interesante, Padre. Gracias por la información.}
-{730}{}{¿Los Moddino? (Levanta tres dedos). Son dos. (Levanta la mano). Gdan Jeeesus… (baja la mano) … y Pequeño
+{710}{}{Â¿El viejo Odville? Bueno, tiene mucha culpabilidad sobde sus hombdos. VedÃ¡s, le pdometiÃ³ a su seÃ±ora que dejadÃ­a el negocio del al-alcohol, Â¡pe-pero
+ tiene una destiledÃ­a secdeta en la estaciÃ³n de tden, tdas la casa! Ella le sacudidÃ­a a base de bien si se entedaseâ€¦}
+{711}{}{Je, je, esto es gdaciosoâ€¦ vedÃ¡s, el viejo seÃ±od Wdight pdometiÃ³ a su seÃ±oda que dejadÃ­a el ne-negocio del alcohol, Â¡pe-pero tiene una destiledÃ­a
+ secdeta en la estaciÃ³n de tden, tdas la casa! Â¡Ja! Ella le sacudidÃ­a a base de bien si se entedaseâ€¦}
+{712}{}{CuÃ©nteme mÃ¡s sobre la seÃ±ora Wrightâ€¦}
+{713}{}{CuÃ©nteme algo mÃ¡s sobre los Wrightâ€¦}
+{715}{}{Una destilerÃ­a secreta en la estaciÃ³n de tren tras la casa, Â¿eh? Muy interesante, Padre. Gracias por la informaciÃ³n.}
+{720}{}{Â¡Nada! (Toma un trago). Son la mÃ¡s dÃ©bil de l--as Familias, podque sÃ³lo tdafican con alco-cohol. Apenas ganan un centavo con ello.
+ Las demÃ¡s Familias les compdan alcohol pdacticamente por pena.}
+{721}{}{Â¿De dÃ³nde sale su alcohol?}
+{722}{}{Interesante. CuÃ©nteme algo mÃ¡s acerca de los Wrightâ€¦}
+{724}{}{Muy interesante, Padre. Gracias por la informaciÃ³n.}
+{730}{}{Â¿Los Moddino? (Levanta tres dedos). Son dos. (Levanta la mano). Gdan Jeeesusâ€¦ (baja la mano) â€¦ y PequeÃ±o
  Je-sus. El Padre y el Hijo. Ambos controlan las ddogas y las mujedes en Deno.}
-{731}{}{Hábleme de Gran Jesús.}
-{732}{}{Hábleme de Pequeño Jesús.}
-{733}{}{¿Así que ellos son la fuente de las drogas y controlan a la mayoría de prostitutas de Nuevo Reno?}
-{740}{}{¿Jesús? Un buen hijo de p-puta… (Toma un trago y chasquea la lengua). Tdafica con esclavos, Jet, y p-putas. Sólo hay una pedsona
- peod que él y es su inmundo hi-hijo.}
-{741}{}{¿Su hijo?}
-{742}{}{¿Así que Jesús Mordino senior controla la mayoría de drogas y putas de Nuevo Reno?}
-{743}{}{Una gran familia. ¿Puedo hacerle algunas otras preguntas, Padre?}
+{731}{}{HÃ¡bleme de Gran JesÃºs.}
+{732}{}{HÃ¡bleme de PequeÃ±o JesÃºs.}
+{733}{}{Â¿AsÃ­ que ellos son la fuente de las drogas y controlan a la mayorÃ­a de prostitutas de Nuevo Reno?}
+{740}{}{Â¿JesÃºs? Un buen hijo de p-putaâ€¦ (Toma un trago y chasquea la lengua). Tdafica con esclavos, Jet, y p-putas. SÃ³lo hay una pedsona
+ peod que Ã©l y es su inmundo hi-hijo.}
+{741}{}{Â¿Su hijo?}
+{742}{}{Â¿AsÃ­ que JesÃºs Mordino senior controla la mayorÃ­a de drogas y putas de Nuevo Reno?}
+{743}{}{Una gran familia. Â¿Puedo hacerle algunas otras preguntas, Padre?}
 {744}{}{De tal palo tal astilla. Bien, gracias por hablar conmigo, Padre.}
-{750}{}{¿Pequeño Jesús? ¡Un bastar-do! Es como una ga-garra-pata, chupando la sangde del tdabajo de su padde. Todo Deno tenddá pdoblemas si él toma el
- mando. No poddía manejadlo todo, ddogas, putas... todo se idía abajo.}
-{752}{}{¿Los Mordino son la fuente de las drogas y de la mayoría de las putas de Nuevo Reno?}
-{754}{}{Igual que tú dentro de un par de segundos. Bien, gracias por hablar conmigo.}
+{750}{}{Â¿PequeÃ±o JesÃºs? Â¡Un bastar-do! Es como una ga-garra-pata, chupando la sangde del tdabajo de su padde. Todo Deno tenddÃ¡ pdoblemas si Ã©l toma el
+ mando. No poddÃ­a manejadlo todo, ddogas, putas... todo se idÃ­a abajo.}
+{752}{}{Â¿Los Mordino son la fuente de las drogas y de la mayorÃ­a de las putas de Nuevo Reno?}
+{754}{}{Igual que tÃº dentro de un par de segundos. Bien, gracias por hablar conmigo.}
 {760}{}{(Tully te mira fijamente). }
-{761}{}{Sssi… (sonríe y se lame los labios). … putasss… (empieza a acariciar el cuello de la botella).}
-{762}{}{Eh, ¿Padre? ¿Y en cuanto a las drogas?}
-{763}{}{Creo que será mejor que me vaya. Gracias por hablarn conmigo, Padre.}
-{770}{}{¿Eh? Dro-dogas… sí, la ddogas. Jet. Apestoso Jet. Hacen cosas teddibles con él, teddibles… Dedding… el Establo. (Toma un trago). Todo pod dinedo…}
-{772}{}{¿Qué pasa con Redding?}
-{773}{}{¿Qué pasa con el Establo?}
+{761}{}{Sssiâ€¦ (sonrÃ­e y se lame los labios). â€¦ putasssâ€¦ (empieza a acariciar el cuello de la botella).}
+{762}{}{Eh, Â¿Padre? Â¿Y en cuanto a las drogas?}
+{763}{}{Creo que serÃ¡ mejor que me vaya. Gracias por hablarn conmigo, Padre.}
+{770}{}{Â¿Eh? Dro-dogasâ€¦ sÃ­, la ddogas. Jet. Apestoso Jet. Hacen cosas teddibles con Ã©l, teddiblesâ€¦ Deddingâ€¦ el Establo. (Toma un trago). Todo pod dinedoâ€¦}
+{772}{}{Â¿QuÃ© pasa con Redding?}
+{773}{}{Â¿QuÃ© pasa con el Establo?}
 {775}{}{Interesante. Gracias por hablar conmigo, Padre.}
 {780}{}{(Hace un gesto de caminar con dos dedos). El Jet de-deja la ciudad, va a Dedding. El o-oro deja Dedding, va a Moddino.
  (Toma un trago). Los minedos mueden, los Moddino ganan.}
-{782}{}{¿Qué estaba diciendo sobre el Establo?}
-{784}{}{Así que los Mordino están vendiendo Jet a Redding, ¿eh? Interesante. Gracias, Padre.}
-{790}{}{Los Moddino tienen una… gdanja… fueda de la ciudad. Tienen escla-clavos allí. Pdueban el… Jet… en ellos. Los matan a montones. (Se estremece). Sólo los Moddino
- sa-saben dónde está el Establo.}
-{792}{}{¿Qué estaba diciendo sobre Redding?}
-{794}{}{Los Mordino están probando el Jet con esclavos, ¿eh? Interesante. Gracias, Padre.}
-{800}{}{¿Estaba ha-hablando de los Salvatode? (Parpadea, se encoge de hombros, y luego bebe). No tengo ni i-idea de lo que estaba diciendo. La familia es re-resedvada
- como la muedte. Y tú no te quiedes cduzad con ellos… ¿sabes pod qué?}
-{803}{}{Realmente no necesito saber porqué ahora mismo, Padre. ¿Puedo hacerle algunas otras preguntas?}
-{804}{}{Oiga, quizá vuelva cuando estés sobrio.}
+{782}{}{Â¿QuÃ© estaba diciendo sobre el Establo?}
+{784}{}{AsÃ­ que los Mordino estÃ¡n vendiendo Jet a Redding, Â¿eh? Interesante. Gracias, Padre.}
+{790}{}{Los Moddino tienen unaâ€¦ gdanjaâ€¦ fueda de la ciudad. Tienen escla-clavos allÃ­. Pdueban elâ€¦ Jetâ€¦ en ellos. Los matan a montones. (Se estremece). SÃ³lo los Moddino
+ sa-saben dÃ³nde estÃ¡ el Establo.}
+{792}{}{Â¿QuÃ© estaba diciendo sobre Redding?}
+{794}{}{Los Mordino estÃ¡n probando el Jet con esclavos, Â¿eh? Interesante. Gracias, Padre.}
+{800}{}{Â¿Estaba ha-hablando de los Salvatode? (Parpadea, se encoge de hombros, y luego bebe). No tengo ni i-idea de lo que estaba diciendo. La familia es re-resedvada
+ como la muedte. Y tÃº no te quiedes cduzad con ellosâ€¦ Â¿sabes pod quÃ©?}
+{803}{}{Realmente no necesito saber porquÃ© ahora mismo, Padre. Â¿Puedo hacerle algunas otras preguntas?}
+{804}{}{Oiga, quizÃ¡ vuelva cuando estÃ©s sobrio.}
 {810}{}{(Se tambalea). Podque tienen admas que dispadan fuego del cielo, admas que nadie ha VISTO antes en Nuevo Deno o
  cualquied otdo sitio. Dispadan dayos de luz, codtan a un hom-hombre en dos, y le dejan endte espasmos en el suelo.}
-{811}{}{¿Disparan rayos de luz?}
-{812}{}{¿Disparan rayos de luz? ¿Te refieres a armas láser?}
-{814}{}{Vaya... quizá debería intentar conseguir una. Bien, gracias por hablar conmigo.}
-{820}{}{A-así es como he oído que los llaman… la-sers… ¡aunque pada mí que esas admas son cosa del demonio, nausea-abundas iluminadodas, hedamientas
- que no significan nada más que muedte!}
-{821}{}{Sí, por supuesto, Padre. Herramientas del demonio y todo eso. ¿Qué piensan las demás familias de esas 'iluminadoras'?}
-{823}{}{Herramientas del demonio, ¿eh? Tal vez debería intentar echarle la mano a una. Bien, gracias por hablar conmigo.}
-{830}{}{Una de esas iluminadodas puede matad a una docena de hombdes… Las demás Familias suelen pelead junto a los Salvatode, pero ninguna se mete
- con ellos. Es una especie de p-paz… que vale mientdas aguante, su-supongo.}
-{831}{}{¿Quién está al mando de los Salvatore, Padre?}
+{811}{}{Â¿Disparan rayos de luz?}
+{812}{}{Â¿Disparan rayos de luz? Â¿Te refieres a armas lÃ¡ser?}
+{814}{}{Vaya... quizÃ¡ deberÃ­a intentar conseguir una. Bien, gracias por hablar conmigo.}
+{820}{}{A-asÃ­ es como he oÃ­do que los llamanâ€¦ la-sersâ€¦ Â¡aunque pada mÃ­ que esas admas son cosa del demonio, nausea-abundas iluminadodas, hedamientas
+ que no significan nada mÃ¡s que muedte!}
+{821}{}{SÃ­, por supuesto, Padre. Herramientas del demonio y todo eso. Â¿QuÃ© piensan las demÃ¡s familias de esas 'iluminadoras'?}
+{823}{}{Herramientas del demonio, Â¿eh? Tal vez deberÃ­a intentar echarle la mano a una. Bien, gracias por hablar conmigo.}
+{830}{}{Una de esas iluminadodas puede matad a una docena de hombdesâ€¦ Las demÃ¡s Familias suelen pelead junto a los Salvatode, pero ninguna se mete
+ con ellos. Es una especie de p-pazâ€¦ que vale mientdas aguante, su-supongo.}
+{831}{}{Â¿QuiÃ©n estÃ¡ al mando de los Salvatore, Padre?}
 {833}{}{Me lo supongo. Bien, gracias por hablar conmigo, Padre.}
-{840}{}{Louie… LOUIS… Salvatore didige el show. (Termina la botella y tose ligeramente). Lisiado. Necesita un t-tanque de oxígeno pada despidad... tiene los pulmones hechos polvo. Siempde está en el piso supediod de su local, nunca sale.}
-{841}{}{Interesante. ¿Puedo hacerlo algunas otras preguntas, Padre?}
-{842}{}{Hmmmm. Un tanque de oxígeno, ¿eh? Interesante. Bien, gracias por charlar conmigo, Padre.}
-{850}{}{Ese pobde chico… el Jet lo sepadó de su familia, eso hizo. ¡Esa maldita podquedía! El peod veneno pada la mente que se haya inventado…}
-{852}{}{¿Sabe de dónde consiguió Richard el Jet que lo mató?}
-{853}{}{Tenía algunas preguntas más...}
+{840}{}{Louieâ€¦ LOUISâ€¦ Salvatore didige el show. (Termina la botella y tose ligeramente). Lisiado. Necesita un t-tanque de oxÃ­geno pada despidad... tiene los pulmones hechos polvo. Siempde estÃ¡ en el piso supediod de su local, nunca sale.}
+{841}{}{Interesante. Â¿Puedo hacerlo algunas otras preguntas, Padre?}
+{842}{}{Hmmmm. Un tanque de oxÃ­geno, Â¿eh? Interesante. Bien, gracias por charlar conmigo, Padre.}
+{850}{}{Ese pobde chicoâ€¦ el Jet lo sepadÃ³ de su familia, eso hizo. Â¡Esa maldita podquedÃ­a! El peod veneno pada la mente que se haya inventadoâ€¦}
+{852}{}{Â¿Sabe de dÃ³nde consiguiÃ³ Richard el Jet que lo matÃ³?}
+{853}{}{TenÃ­a algunas preguntas mÃ¡s...}
 {854}{}{Ya veo. Gracias por hablar conmigo, Padre.}
-{860}{}{¡Lo pudo conseguid de cualquieda en Nuevo Deno! ¡Hay una fadmacia justo al otdo lado de la calle didigida pod un tdaficante de ddogas, y si
- él no te vende, detén a cualquieda en la calle! ¡Maldito Jet!}
-{862}{}{¿La farmacia al otro lado de la calle? Lo comprobaré. Gracias por charlar conmigo, Padre.}
-{957}{}{Muy bien, es-escucha…}
+{860}{}{Â¡Lo pudo conseguid de cualquieda en Nuevo Deno! Â¡Hay una fadmacia justo al otdo lado de la calle didigida pod un tdaficante de ddogas, y si
+ Ã©l no te vende, detÃ©n a cualquieda en la calle! Â¡Maldito Jet!}
+{862}{}{Â¿La farmacia al otro lado de la calle? Lo comprobarÃ©. Gracias por charlar conmigo, Padre.}
+{957}{}{Muy bien, es-escuchaâ€¦}
 {958}{}{::Toma un trago::}
-{959}{}{::Sigue bebiendo y vacía la botella::}
-{960}{}{… pod el poded que me ha sido concedido, yo te divodcio.}
+{959}{}{::Sigue bebiendo y vacÃ­a la botella::}
+{960}{}{â€¦ pod el poded que me ha sido concedido, yo te divodcio.}
 {961}{}{Ahoda puedes patead a la novia. Madido. Lo que sea.}
 {962}{}{::Hace un gesto como de barrer::}
 {963}{}{Ughhhhh}
 {964}{}{Zzzz ronquido zzzzz}
 {967}{}{Zzzz ronquido zzzzz}
-{968}{}{Oh, detente, señoda Wright, detente… sznnzzzz}
+{968}{}{Oh, detente, seÃ±oda Wright, detenteâ€¦ sznnzzzz}
 {969}{}{Zzz detente, senoda Wright, soy un hombde de la iglesia.}
-{970}{}{Malditazz…zzz… pecado… zzzz… tan divedtido.}
+{970}{}{Malditazzâ€¦zzzâ€¦ pecadoâ€¦ zzzzâ€¦ tan divedtido.}
 {971}{}{Pod supuesto que estoy sobdio.}
 {1000}{}{Oh, alabado sea... *AGGGGG*}
-{1001}{}{Maldición, bebí demasiada de esa sangre de... OH, CRISTO, *HUUUURRRRRRLLLL*.}
+{1001}{}{MaldiciÃ³n, bebÃ­ demasiada de esa sangre de... OH, CRISTO, *HUUUURRRRRRLLLL*.}
 {1002}{}{Oh, Dios, *ELCHHHH*}
-{1003}{}{Oh Jesús, María, y Jose, no volveré a beber tanto.}
-{1004}{}{Será mejor que madrugue para ir a confesión.}
-{1005}{}{Creo que me voy a quedar acostado un poco más.}
-{2000}{}{Tengo que decir, Padre, New Reno no es exactamente el primer lugar, me gustaría esperar a encontrar una predicación hombre.}
-{2001}{}{Whatza lugar mejor que aquí? B'sidez, que seguro como el infierno no quiere que me mantenga en sus malditos de la Abadía.
- Bah! Lettem mantener sus peazful, aburrido, monasterio. ¿Quién la necesita? Eh? No a mí! Pero sabes qué? Los monjes, seguro que podría
+{1003}{}{Oh JesÃºs, MarÃ­a, y Jose, no volverÃ© a beber tanto.}
+{1004}{}{SerÃ¡ mejor que madrugue para ir a confesiÃ³n.}
+{1005}{}{Creo que me voy a quedar acostado un poco mÃ¡s.}
+{2000}{}{Tengo que decir, Padre, New Reno no es exactamente el primer lugar, me gustarÃ­a esperar a encontrar una predicaciÃ³n hombre.}
+{2001}{}{Whatza lugar mejor que aquÃ­? B'sidez, que seguro como el infierno no quiere que me mantenga en sus malditos de la AbadÃ­a.
+ Bah! Lettem mantener sus peazful, aburrido, monasterio. Â¿QuiÃ©n la necesita? Eh? No a mÃ­! Pero sabes quÃ©? Los monjes, seguro que podrÃ­a
  hacer la suma de buen aguardiente. Oh, chico, mejor maldita matute nunca. (Le lame sus labios.) Ol' Samuel y yo, tuvimos ourselfz una lotta divertido
- el ingenio que hooch, déjame decirte.}
-{2002}{}{La bebida en un monasterio. Interesante, creo que voy a tener que visitar este lugar. ¿Crees que podría señalar su ubicación en mi mapa?}
-{2003}{}{Bien, si estoy interpretando su borrachos divagaciones correctamente, entonces suena como vino de algún tipo de monasterio, donde se hizo un
- mucho de beber con un chico llamado Samuel. Padre, si usted podría señalar su ubicación en mi mapa, entonces tal vez podría ir al encuentro de su amigo y tratar de
+ el ingenio que hooch, dÃ©jame decirte.}
+{2002}{}{La bebida en un monasterio. Interesante, creo que voy a tener que visitar este lugar. Â¿Crees que podrÃ­a seÃ±alar su ubicaciÃ³n en mi mapa?}
+{2003}{}{Bien, si estoy interpretando su borrachos divagaciones correctamente, entonces suena como vino de algÃºn tipo de monasterio, donde se hizo un
+ mucho de beber con un chico llamado Samuel. Padre, si usted podrÃ­a seÃ±alar su ubicaciÃ³n en mi mapa, entonces tal vez podrÃ­a ir al encuentro de su amigo y tratar de
  algunos de este aguardiente eres tan aficionado.}
-{2004}{}{(Saca tu Pip-Boy y mantenga la posición durante Padre Tully para señalar la ubicación. Fue el primero de los puntos en el océano, entonces al azar
- cordillera hacia el sur. Después de casi asomando a sus ojos, él finalmente se asienta su dedo en la esquina noreste del mapa.) Sí, allí z
- la Abadía. Que seemz de pelea de la derecha.}
+{2004}{}{(Saca tu Pip-Boy y mantenga la posiciÃ³n durante Padre Tully para seÃ±alar la ubicaciÃ³n. Fue el primero de los puntos en el ocÃ©ano, entonces al azar
+ cordillera hacia el sur. DespuÃ©s de casi asomando a sus ojos, Ã©l finalmente se asienta su dedo en la esquina noreste del mapa.) SÃ­, allÃ­ z
+ la AbadÃ­a. Que seemz de pelea de la derecha.}
 {2005}{}{Se lo agradezco, Padre. Tengo algunas preguntas, aunque.}
-{2006}{}{Gracias. Pero tengo curiosidad, ¿por qué había de salir de la Abadía?}
+{2006}{}{Gracias. Pero tengo curiosidad, Â¿por quÃ© habÃ­a de salir de la AbadÃ­a?}
 {2007}{}{Gracias, Padre. Debo irme ahora.}
-{2008}{}{Bien dat wuz un muuuucho tiempo atrás. Yo haddent bastante conseguido mi actuar juntos todavía. Es waz antes de th' ángel de la Señora Wright me puso en línea. Ya ver,
+{2008}{}{Bien dat wuz un muuuucho tiempo atrÃ¡s. Yo haddent bastante conseguido mi actuar juntos todavÃ­a. Es waz antes de th' Ã¡ngel de la SeÃ±ora Wright me puso en lÃ­nea. Ya ver,
  ellos monjes no toman amablemente a mis formas silvestres. Yo y el Hermano Samuel, nos useta obtener un lil loco. Jeje, esta noche, Sammy y yo fuimos de vuelta a
- el sleepin monjes, y poner en su handz en cuencos de un agua tibia. Incluso consiguió el Abad! Ja! Esas fueron las dayz, déjame decirte.}
+ el sleepin monjes, y poner en su handz en cuencos de un agua tibia. Incluso consiguiÃ³ el Abad! Ja! Esas fueron las dayz, dÃ©jame decirte.}
 {2009}{}{Eso es bastante pueril, Padre. Puedo tomar que finalmente fueron expulsados?}
 {2010}{}{A la derecha. He tenido suficiente de estas amateur borracho historias. Vea usted todo, Padre.}
-{2011}{}{Yo no sé si diría que *patada* me fuera... pero zure como el infierno no quiere que me quede a su alrededor, no después de esa noche, me desmayé y
- axidently prendieron fuego a uno un th' lieberrys. Muchacho, usted shoulda visto el rostro del Abad... si él tenía la mitad de una columna vertebral, que había un debo favorable me estrangula. Ja! Así Que Me
- a la izquierda, y la buena riddenze! Estoy extrañando que hooch, aunque. Y Samuel, sería bueno ta saber cómo que ol' perro está haciendo.}
-{2012}{}{Voy a hacer un montón de viajar, así que si puedo encontrar mi camino a la Abadía, tal vez voy a buscar esta Samuel amigo suyo. El infierno, tal vez
+{2011}{}{Yo no sÃ© si dirÃ­a que *patada* me fuera... pero zure como el infierno no quiere que me quede a su alrededor, no despuÃ©s de esa noche, me desmayÃ© y
+ axidently prendieron fuego a uno un th' lieberrys. Muchacho, usted shoulda visto el rostro del Abad... si Ã©l tenÃ­a la mitad de una columna vertebral, que habÃ­a un debo favorable me estrangula. Ja! AsÃ­ Que Me
+ a la izquierda, y la buena riddenze! Estoy extraÃ±ando que hooch, aunque. Y Samuel, serÃ­a bueno ta saber cÃ³mo que ol' perro estÃ¡ haciendo.}
+{2012}{}{Voy a hacer un montÃ³n de viajar, asÃ­ que si puedo encontrar mi camino a la AbadÃ­a, tal vez voy a buscar esta Samuel amigo suyo. El infierno, tal vez
  Incluso me voy a traer de vuelta algunos de los que el alcohol.}
-{2013}{}{Oh, couldja, por favor? Que haría yo más feliz que una libre de enfermedad Reno puta. Gracias fren.}
-{2014}{}{No hay problema. Aunque tengo algunas preguntas más.}
+{2013}{}{Oh, couldja, por favor? Que harÃ­a yo mÃ¡s feliz que una libre de enfermedad Reno puta. Gracias fren.}
+{2014}{}{No hay problema. Aunque tengo algunas preguntas mÃ¡s.}
 {2015}{}{Seguro. Ver todo.}
-{2016}{}{Voy a hacer un montón de viajar, así que si puedo encontrar mi camino a la Abadía, tal vez voy a traer de vuelta algunos de los que el alcohol.}
+{2016}{}{Voy a hacer un montÃ³n de viajar, asÃ­ que si puedo encontrar mi camino a la AbadÃ­a, tal vez voy a traer de vuelta algunos de los que el alcohol.}
 {2017}{}{Interesante. Ver todo.}
-{2020}{}{La Abadía, ¿eh? He estado allí antes. De hecho, me encontré con un hombre llamado Samuel que actúa muy parecido a usted.}
-{2021}{}{Samuel!? Ja! Howzzat chico haciendo? Han sido años desde que he visto 'im. Sigue bebiendo de distancia, es él?}
-{2022}{}{Sí, huele a alcohol, como usted.}
-{2023}{}{Ah, thaz grandes. Es bueno saber que él está haciendo bien. Si lo ves de nuevo, le digo que decir hola. Así que... (Se abrocha sus
- las manos juntas y roza con impaciencia.) Así que, quizás de recoger summa de la Abadía del famoso aguardiente mientras tu no?}
-{2024}{}{Sí, tengo algunos aquí.}
-{2025}{}{Yo lo hice, pero me bebí. Wow es algo muy potente.}
+{2020}{}{La AbadÃ­a, Â¿eh? He estado allÃ­ antes. De hecho, me encontrÃ© con un hombre llamado Samuel que actÃºa muy parecido a usted.}
+{2021}{}{Samuel!? Ja! Howzzat chico haciendo? Han sido aÃ±os desde que he visto 'im. Sigue bebiendo de distancia, es Ã©l?}
+{2022}{}{SÃ­, huele a alcohol, como usted.}
+{2023}{}{Ah, thaz grandes. Es bueno saber que Ã©l estÃ¡ haciendo bien. Si lo ves de nuevo, le digo que decir hola. AsÃ­ que... (Se abrocha sus
+ las manos juntas y roza con impaciencia.) AsÃ­ que, quizÃ¡s de recoger summa de la AbadÃ­a del famoso aguardiente mientras tu no?}
+{2024}{}{SÃ­, tengo algunos aquÃ­.}
+{2025}{}{Yo lo hice, pero me bebÃ­. Wow es algo muy potente.}
 {2026}{}{No, no lo he hecho.}
-{2027}{}{No hay necesidad de ta frote en mi cara. Itz sido tanto tiempo desde que he tenido un poco... yo realmente podría ir por una botella o dos. Cualquier posibilidad de que te paren por la Abadía de nuevo?}
-{2028}{}{Thatz demasiado malo. Itz sido tanto tiempo desde que he tenido un poco. Yo realmente podría ir por una botella o dos. Cualquier posibilidad de que usted
- se detiene por la Abadía de nuevo?}
-{2029}{}{Que hacer? Itz sido tanto tiempo desde que he tenido un poco. Estaría usted dispuesto a participar con él?}
+{2027}{}{No hay necesidad de ta frote en mi cara. Itz sido tanto tiempo desde que he tenido un poco... yo realmente podrÃ­a ir por una botella o dos. Cualquier posibilidad de que te paren por la AbadÃ­a de nuevo?}
+{2028}{}{Thatz demasiado malo. Itz sido tanto tiempo desde que he tenido un poco. Yo realmente podrÃ­a ir por una botella o dos. Cualquier posibilidad de que usted
+ se detiene por la AbadÃ­a de nuevo?}
+{2029}{}{Que hacer? Itz sido tanto tiempo desde que he tenido un poco. EstarÃ­a usted dispuesto a participar con Ã©l?}
 {2030}{}{Vamos a ver. Si lo hago, voy a tratar de recordar a agarrar algo para usted. Vea usted todo, Padre.}
 {2031}{}{Probablemente no. Mira, debo irme.}
-{2032}{}{Probablemente. Puedo elegir a uno para que cuando estoy de paso. Había alguna otra pregunta, sin embargo.}
-{2033}{}{Seguro. Aquí tienes.}
+{2032}{}{Probablemente. Puedo elegir a uno para que cuando estoy de paso. HabÃ­a alguna otra pregunta, sin embargo.}
+{2033}{}{Seguro. AquÃ­ tienes.}
 {2034}{}{En realidad, creo que voy a aferrarse a esta por un tiempo. Tengo que ejecutar. Bye.}
 {2035}{}{Seguro. Por un precio, aunque.}
-{2036}{}{(Padre Tully agarra la botella de su mano y toma un gran trago.) Oh, sí, jus como lo recuerdo. (Toma
- varios tragos, las ondas débilmente en usted, entonces tropieza distancia a la parte trasera de la habitación. Oye el gemido, seguido de un golpe.)}
-{2037}{}{(Padre Tully abre las donaciones cuadro, agarra un puñado de monedas y se las entrega a usted. Tú asientes con la cabeza y la mano de él la
- de la botella. Él la agarra de la mano y toma un gran trago.) Oh, sí, jus como lo recuerdo. (Toma varios tragos,
- las ondas débilmente y se tropieza a distancia a la parte trasera de la habitación. Oye el gemido, seguido de un golpe.)}
-{2040}{}{La Abadía, ¿eh? He estado allí antes, pero no recuerdo reunión alguien llamado Samuel.}
-{2041}{}{Él es un gran chico. Si ya alguna vez hacer ejecutar inna él, dejar que él sabe que yo estoy viviendo la buena vida en New Reno. Yo no he hablado con él desde que me fui de th' Abadía.}
-{2042}{}{Seguro. Pero tengo curiosidad, ¿por qué había de salir de la Abadía?}
-{2045}{}{De verdad? Thaz demasiado malo. Él era un buen chico. Le echaré de menos.}
-{2046}{}{Sí. Bueno, tengo algunas preguntas.}
-{2047}{}{No era mucho de una plañidera. Ver todo.}
-{2050}{}{Tengo curiosidad, ¿por qué había de salir de la Abadía?}
-{2060}{}{Hablé con el Hermano Samuel. Él es al parecer sigue bebiendo a sí mismo lejos.}
-{2061}{}{Tengo una botella de la Abadía de la famosa bebida.}
-{2062}{}{Jeje, buen ol' Sam. Thaz bueno para escuchar. I s'pose algún día yo me trate de un salir de allí de nuevo.}
+{2036}{}{(Padre Tully agarra la botella de su mano y toma un gran trago.) Oh, sÃ­, jus como lo recuerdo. (Toma
+ varios tragos, las ondas dÃ©bilmente en usted, entonces tropieza distancia a la parte trasera de la habitaciÃ³n. Oye el gemido, seguido de un golpe.)}
+{2037}{}{(Padre Tully abre las donaciones cuadro, agarra un puÃ±ado de monedas y se las entrega a usted. TÃº asientes con la cabeza y la mano de Ã©l la
+ de la botella. Ã‰l la agarra de la mano y toma un gran trago.) Oh, sÃ­, jus como lo recuerdo. (Toma varios tragos,
+ las ondas dÃ©bilmente y se tropieza a distancia a la parte trasera de la habitaciÃ³n. Oye el gemido, seguido de un golpe.)}
+{2040}{}{La AbadÃ­a, Â¿eh? He estado allÃ­ antes, pero no recuerdo reuniÃ³n alguien llamado Samuel.}
+{2041}{}{Ã‰l es un gran chico. Si ya alguna vez hacer ejecutar inna Ã©l, dejar que Ã©l sabe que yo estoy viviendo la buena vida en New Reno. Yo no he hablado con Ã©l desde que me fui de th' AbadÃ­a.}
+{2042}{}{Seguro. Pero tengo curiosidad, Â¿por quÃ© habÃ­a de salir de la AbadÃ­a?}
+{2045}{}{De verdad? Thaz demasiado malo. Ã‰l era un buen chico. Le echarÃ© de menos.}
+{2046}{}{SÃ­. Bueno, tengo algunas preguntas.}
+{2047}{}{No era mucho de una plaÃ±idera. Ver todo.}
+{2050}{}{Tengo curiosidad, Â¿por quÃ© habÃ­a de salir de la AbadÃ­a?}
+{2060}{}{HablÃ© con el Hermano Samuel. Ã‰l es al parecer sigue bebiendo a sÃ­ mismo lejos.}
+{2061}{}{Tengo una botella de la AbadÃ­a de la famosa bebida.}
+{2062}{}{Jeje, buen ol' Sam. Thaz bueno para escuchar. I s'pose algÃºn dÃ­a yo me trate de un salir de allÃ­ de nuevo.}
 {2063}{}{Bueno, vea usted todo, Padre.}
-{2064}{}{Yo también tengo una botella de la Abadía de la famosa bebida que te quería.}
-{2065}{}{Jeje, buen ol' Sam. Thaz bueno para escuchar. I s'pose algún día yo me trate de un salir de allí de nuevo.}
+{2064}{}{Yo tambiÃ©n tengo una botella de la AbadÃ­a de la famosa bebida que te querÃ­a.}
+{2065}{}{Jeje, buen ol' Sam. Thaz bueno para escuchar. I s'pose algÃºn dÃ­a yo me trate de un salir de allÃ­ de nuevo.}
 {3000}{}{Informar al Padre de Tully y el Hermano Samuel sobre el paradero de cada uno de los otros.}
-{3001}{}{Entregar una botella de la Abadía de la famosa poción Padre Tully.}
-{3022}{}{En realidad, él está muerto.}
-{20091}{}{Ja! Que clásico. Me sacó la misma broma a mi sobrino Fergus una vez, y cuando se despertó y se dio cuenta de que él había cabreado a sí mismo, empezó a berrear ... fue genial. De todos modos, así lo hicieron terminar pateando usted?}
+{3001}{}{Entregar una botella de la AbadÃ­a de la famosa pociÃ³n Padre Tully.}
+{3022}{}{En realidad, Ã©l estÃ¡ muerto.}
+{20091}{}{Ja! Que clÃ¡sico. Me sacÃ³ la misma broma a mi sobrino Fergus una vez, y cuando se despertÃ³ y se dio cuenta de que Ã©l habÃ­a cabreado a sÃ­ mismo, empezÃ³ a berrear ... fue genial. De todos modos, asÃ­ lo hicieron terminar pateando usted?}

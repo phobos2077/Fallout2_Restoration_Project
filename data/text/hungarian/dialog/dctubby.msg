@@ -1,57 +1,57 @@
 {100}{}{? a bolt tulajdonosa.}
 {101}{}{Tubby.}
-{150}{}{? az üzlet tulajdonosa.}
-{151}{}{? Tubby, az üzlet tulaja.}
-{152}{}{[Beszélgetés]}
-{153}{}{Örülnék, ha máshol intézné a dolgait.}
-{154}{}{Maga üzletember. Üzleteljünk.}
-{155}{}{Kérdezhetek valamit?}
-{156}{}{Viszlát!}
-{157}{}{Annyira örülök, hogy újra látom. Miben segíthetek?}
-{158}{}{Kereskedjünk!}
-{159}{}{Kérdezhetek valamit?}
-{160}{}{Most nem kérek semmit. Viszlát!}
-{161}{}{Üdvözlöm, uram, Isten hozta Tubby boltjában. Én vagyok a tulajdonos. Segíthetek valamiben?}
-{162}{}{Igen, csereberéli szeretnék.}
-{163}{}{Információra van szükségem.}
-{164}{}{Viszlát!}
-{165}{}{Üdvözlöm, hölgyem. A barátaim Tubbynak hívnak, nagyon szívesen látom magát az üzletemben. Miben segíthetek?}
-{166}{}{Vennék néhány dolgot.}
-{167}{}{Információra van szükségem.}
-{168}{}{Viszlát!}
-{169}{}{Jobban örülnék, ha inkább távozna.}
-{170}{}{Viszlát!}
-{171}{}{Mit szeretnél tudni?}
-{172}{}{Ki vezeti ezt a várost?}
+{150}{}{? az Ã¼zlet tulajdonosa.}
+{151}{}{? Tubby, az Ã¼zlet tulaja.}
+{152}{}{[BeszÃ©lgetÃ©s]}
+{153}{}{Ã–rÃ¼lnÃ©k, ha mÃ¡shol intÃ©znÃ© a dolgait.}
+{154}{}{Maga Ã¼zletember. ÃœzleteljÃ¼nk.}
+{155}{}{KÃ©rdezhetek valamit?}
+{156}{}{ViszlÃ¡t!}
+{157}{}{Annyira Ã¶rÃ¼lÃ¶k, hogy Ãºjra lÃ¡tom. Miben segÃ­thetek?}
+{158}{}{KereskedjÃ¼nk!}
+{159}{}{KÃ©rdezhetek valamit?}
+{160}{}{Most nem kÃ©rek semmit. ViszlÃ¡t!}
+{161}{}{ÃœdvÃ¶zlÃ¶m, uram, Isten hozta Tubby boltjÃ¡ban. Ã‰n vagyok a tulajdonos. SegÃ­thetek valamiben?}
+{162}{}{Igen, csereberÃ©li szeretnÃ©k.}
+{163}{}{InformÃ¡ciÃ³ra van szÃ¼ksÃ©gem.}
+{164}{}{ViszlÃ¡t!}
+{165}{}{ÃœdvÃ¶zlÃ¶m, hÃ¶lgyem. A barÃ¡taim Tubbynak hÃ­vnak, nagyon szÃ­vesen lÃ¡tom magÃ¡t az Ã¼zletemben. Miben segÃ­thetek?}
+{166}{}{VennÃ©k nÃ©hÃ¡ny dolgot.}
+{167}{}{InformÃ¡ciÃ³ra van szÃ¼ksÃ©gem.}
+{168}{}{ViszlÃ¡t!}
+{169}{}{Jobban Ã¶rÃ¼lnÃ©k, ha inkÃ¡bb tÃ¡vozna.}
+{170}{}{ViszlÃ¡t!}
+{171}{}{Mit szeretnÃ©l tudni?}
+{172}{}{Ki vezeti ezt a vÃ¡rost?}
 {173}{}{Why is everyone selling drugs?}
-{174}{}{Tudja, merre van a Menedék?}
-{175}{}{Mégiscsak úgy döntöttem, hogy csereberélnék.}
+{174}{}{Tudja, merre van a MenedÃ©k?}
+{175}{}{MÃ©giscsak Ãºgy dÃ¶ntÃ¶ttem, hogy csereberÃ©lnÃ©k.}
 {176}{}{Semmi, szia.}
-{177}{}{Nahát! Úgy t?nik, a kommunikációval lesz egy kis gondunk. Kérlek bólints, ha szeretnél csereberélni.}
-{178}{}{[Bólintasz]}
+{177}{}{NahÃ¡t! Ãšgy t?nik, a kommunikÃ¡ciÃ³val lesz egy kis gondunk. KÃ©rlek bÃ³lints, ha szeretnÃ©l csereberÃ©lni.}
+{178}{}{[BÃ³lintasz]}
 {179}{}{Sziaszia.}
-{180}{}{Attól tartok, senki. Rejtek olyan hely, ahol anarchia uralkodik és egyfajta darwini kiválasztódás érvényesül. Itt csak a leger?sebb, a leggyorsabb vagy a legokosabb marad életben.}
-{181}{}{Öm, köszi.}
+{180}{}{AttÃ³l tartok, senki. Rejtek olyan hely, ahol anarchia uralkodik Ã©s egyfajta darwini kivÃ¡lasztÃ³dÃ¡s Ã©rvÃ©nyesÃ¼l. Itt csak a leger?sebb, a leggyorsabb vagy a legokosabb marad Ã©letben.}
+{181}{}{Ã–m, kÃ¶szi.}
 {182}{}{OK. Drugs are the basis for this town's economic system, just as another 
 town may use grain or gold. Redding is another prime example of a town fueled by drugs.
  Damn miners are too high all the time to get any real work done. I have never been there myself,
  but it is a couple days south-east of here if you want to check it out.}
-{183}{}{Köszi.}
-{184}{}{Hallottam egy Menedékváros nev? helyr?l, de hogy hol van pontosan, meg nem tudnám mondani magának. Nálunk nagyon kevesen tudnak elfogadható cserealappal szolgálni a menedékvárosiak által nyújtott egészségügyi ellátás fejében, így a legtöbbünk még soha nem járt ott.}
-{185}{}{Oké. Köszi.}
-{186}{}{Ez nem olyan infó, amit csak úgy bárkinek elmondanék.}
-{187}{}{Egy százas megoldaná a nyelvét?}
-{188}{}{Mi lenne, ha adnék 50 dolcsit és elmondaná nekem.}
-{189}{}{Mit szólna, ha kapna két lehet?séget? Vagy elmondja az infót, vagy csinálok egy újabb lyukat a fejébe. Na?}
+{183}{}{KÃ¶szi.}
+{184}{}{Hallottam egy MenedÃ©kvÃ¡ros nev? helyr?l, de hogy hol van pontosan, meg nem tudnÃ¡m mondani magÃ¡nak. NÃ¡lunk nagyon kevesen tudnak elfogadhatÃ³ cserealappal szolgÃ¡lni a menedÃ©kvÃ¡rosiak Ã¡ltal nyÃºjtott egÃ©szsÃ©gÃ¼gyi ellÃ¡tÃ¡s fejÃ©ben, Ã­gy a legtÃ¶bbÃ¼nk mÃ©g soha nem jÃ¡rt ott.}
+{185}{}{OkÃ©. KÃ¶szi.}
+{186}{}{Ez nem olyan infÃ³, amit csak Ãºgy bÃ¡rkinek elmondanÃ©k.}
+{187}{}{Egy szÃ¡zas megoldanÃ¡ a nyelvÃ©t?}
+{188}{}{Mi lenne, ha adnÃ©k 50 dolcsit Ã©s elmondanÃ¡ nekem.}
+{189}{}{Mit szÃ³lna, ha kapna kÃ©t lehet?sÃ©get? Vagy elmondja az infÃ³t, vagy csinÃ¡lok egy Ãºjabb lyukat a fejÃ©be. Na?}
 {190}{}{Senkit.}
-{191}{}{Akkor kérdezhetek valami mást?}
-{192}{}{Persze, ez az összeg TALÁN segítene, de nincs magánál ennyi!}
+{191}{}{Akkor kÃ©rdezhetek valami mÃ¡st?}
+{192}{}{Persze, ez az Ã¶sszeg TALÃN segÃ­tene, de nincs magÃ¡nÃ¡l ennyi!}
 {193}{}{Biztos elvesztettem valahol. Megyek, azt' megkeresem.}
-{194}{}{Nem hiszem, hogy ennyi elég lesz.}
-{500}{}{Persze, Petey. Mindjárt jövök.}
-{501}{}{Kitartás, Petey!}
-{502}{}{Jövök már, jövök.}
-{510}{}{Tessék, Petey...}
-{511}{}{Tudja, Petey, le kéne állnia ezzel a szarral!}
-{512}{}{Fogja és t?njön innen a francba, Petey!}
-{520}{}{Öröm, ha együtt üzletelünk.}
+{194}{}{Nem hiszem, hogy ennyi elÃ©g lesz.}
+{500}{}{Persze, Petey. MindjÃ¡rt jÃ¶vÃ¶k.}
+{501}{}{KitartÃ¡s, Petey!}
+{502}{}{JÃ¶vÃ¶k mÃ¡r, jÃ¶vÃ¶k.}
+{510}{}{TessÃ©k, Petey...}
+{511}{}{Tudja, Petey, le kÃ©ne Ã¡llnia ezzel a szarral!}
+{512}{}{Fogja Ã©s t?njÃ¶n innen a francba, Petey!}
+{520}{}{Ã–rÃ¶m, ha egyÃ¼tt Ã¼zletelÃ¼nk.}

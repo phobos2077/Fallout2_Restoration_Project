@@ -1,99 +1,99 @@
-{100}{}{Ez egy igen-igen részeg figura. [A ruháján cédula lóg, miszerint "Ételért munkát vállalok."]}
+{100}{}{Ez egy igen-igen rÃ©szeg figura. [A ruhÃ¡jÃ¡n cÃ©dula lÃ³g, miszerint "Ã‰telÃ©rt munkÃ¡t vÃ¡llalok."]}
 {101}{}{You see Karl.}
-{102}{}{A jóember olyan mosdatlan, hogy a hajából vadvirágok n?nek.}
-{150}{}{Tessék, igyon egy sört.}
-{151}{}{Tessék, igyon egy kis kerítésszaggatót.}
-{152}{}{Tessék, igyon egy Nuka-Kólát.}
-{153}{}{Hé!}
-{154}{}{Hé!}
-{155}{}{HÉKÁS!!}
-{156}{}{A kísértetek itt nem találnak rám... [zokog]}
-{157}{}{Jó, hogy újra otthon vagyok.}
-{159}{}{Ez itt Karl. Tisztességesen beájult.}
-{160}{}{Most majd szépen alszik rá egyet.}
-{161}{}{Ah, a farm kísértetei eljöttek értem!}
-{162}{}{Adjon már egy kis aprót (hukk) egy munkanélküli földm?vesnek.}
-{163}{}{Hát persze, jóember. Mennyire van szüksége?}
-{164}{}{Mi lenne, ha vásárolnék magának egy tál meleg ételt?}
-{165}{}{Sajnálom, nincs egy kanyim se.}
-{166}{}{Meséljen magáról!}
-{167}{}{Itt van egy kis apróóóó!}
+{102}{}{A jÃ³ember olyan mosdatlan, hogy a hajÃ¡bÃ³l vadvirÃ¡gok n?nek.}
+{150}{}{TessÃ©k, igyon egy sÃ¶rt.}
+{151}{}{TessÃ©k, igyon egy kis kerÃ­tÃ©sszaggatÃ³t.}
+{152}{}{TessÃ©k, igyon egy Nuka-KÃ³lÃ¡t.}
+{153}{}{HÃ©!}
+{154}{}{HÃ©!}
+{155}{}{HÃ‰KÃS!!}
+{156}{}{A kÃ­sÃ©rtetek itt nem talÃ¡lnak rÃ¡m... [zokog]}
+{157}{}{JÃ³, hogy Ãºjra otthon vagyok.}
+{159}{}{Ez itt Karl. TisztessÃ©gesen beÃ¡jult.}
+{160}{}{Most majd szÃ©pen alszik rÃ¡ egyet.}
+{161}{}{Ah, a farm kÃ­sÃ©rtetei eljÃ¶ttek Ã©rtem!}
+{162}{}{Adjon mÃ¡r egy kis aprÃ³t (hukk) egy munkanÃ©lkÃ¼li fÃ¶ldm?vesnek.}
+{163}{}{HÃ¡t persze, jÃ³ember. Mennyire van szÃ¼ksÃ©ge?}
+{164}{}{Mi lenne, ha vÃ¡sÃ¡rolnÃ©k magÃ¡nak egy tÃ¡l meleg Ã©telt?}
+{165}{}{SajnÃ¡lom, nincs egy kanyim se.}
+{166}{}{MesÃ©ljen magÃ¡rÃ³l!}
+{167}{}{Itt van egy kis aprÃ³Ã³Ã³Ã³!}
 {168}{}{Cs?.}
-{169}{}{Oh, kedves, nagylelk? ember. (hukk) Miben tud Karl ma segíteni magának? (hukk) [Leveszi a sapkáját és kinyújtja a kezét.]}
-{170}{}{Tessék. Itt van 100 dollár.}
-{173}{}{Bocs, nincs semmim a maga számára. Üdv!}
-{174}{}{Tudja, merre találhatnék egy ÉLET-et?}
-{175}{}{Valami kertr?l beszélt az imént. Meséljen többet róla!}
-{178}{}{Én menni elfele.}
-{179}{}{Jaj, de zsugori valaki! (hukk) Ugyan már, van magának pénze... (hukk) Csak egy kis aprót... (hukk) valamit, bármit! Legyen már együttérz?bb kicsit!}
-{180}{}{Tessék. Itt van 25 dollár.}
-{184}{}{Tessék. Itt van 1 dollár.}
-{185}{}{Fog pénz.}
-{186}{}{Nincs pénz.}
+{169}{}{Oh, kedves, nagylelk? ember. (hukk) Miben tud Karl ma segÃ­teni magÃ¡nak? (hukk) [Leveszi a sapkÃ¡jÃ¡t Ã©s kinyÃºjtja a kezÃ©t.]}
+{170}{}{TessÃ©k. Itt van 100 dollÃ¡r.}
+{173}{}{Bocs, nincs semmim a maga szÃ¡mÃ¡ra. Ãœdv!}
+{174}{}{Tudja, merre talÃ¡lhatnÃ©k egy Ã‰LET-et?}
+{175}{}{Valami kertr?l beszÃ©lt az imÃ©nt. MesÃ©ljen tÃ¶bbet rÃ³la!}
+{178}{}{Ã‰n menni elfele.}
+{179}{}{Jaj, de zsugori valaki! (hukk) Ugyan mÃ¡r, van magÃ¡nak pÃ©nze... (hukk) Csak egy kis aprÃ³t... (hukk) valamit, bÃ¡rmit! Legyen mÃ¡r egyÃ¼ttÃ©rz?bb kicsit!}
+{180}{}{TessÃ©k. Itt van 25 dollÃ¡r.}
+{184}{}{TessÃ©k. Itt van 1 dollÃ¡r.}
+{185}{}{Fog pÃ©nz.}
+{186}{}{Nincs pÃ©nz.}
 {187}{}{Mit akarsz?}
-{188}{}{[Elmondod Karlnak Jo üzenetét.]}
-{189}{}{Kísértetek, Karl... mindenütt ott vannak. Nézze csak, ott is van egy!}
+{188}{}{[Elmondod Karlnak Jo Ã¼zenetÃ©t.]}
+{189}{}{KÃ­sÃ©rtetek, Karl... mindenÃ¼tt ott vannak. NÃ©zze csak, ott is van egy!}
 {190}{}{Gibba gibba.}
-{191}{}{Azé' van itt (hukk), hogy megint csúfot ?zzön szegény Karlból? (hukk) Na, mire vár? (hukk) Essünk túl rajta!}
-{198}{}{[Jól tagoltan.] Ez elképeszt?en rendes magától... (hukk) Ezer dollárral kinn leszek a vízb?l.}
-{199}{}{Hogyne, tessék.}
-{200}{}{Mégis meddig? Egy évig tán? Nincs rá eset. Itt van 25 dollár.}
-{201}{}{Asszem, maga bolondnak néz engem. Na, inkább megyek.}
-{202}{}{[Karl szája nyitva marad a csodálkozástól.] Köszönöm! Maga aztán (hukk) nagylelk?... (hukk). Ha van valami, ami k?ne (hukk), csak jöjjön hozzám. Egyébként (hukk), a nevem Karl.}
-{203}{}{Persze, persze, Karl. Most hogy így említi, régóta keresek egy ÉLET-nek nevezett tárgyat. Van valami ötlete, hol találhatnék egyet?}
-{204}{}{Eszembe vésem. Vigyázzon magára, Karl!}
-{205}{}{Miféle ember maga, he? (hukk) Trükkösködik itt egy szegény föld-(hukk)-m?vessel. Haggyon maga békébe!}
-{206}{}{Igen... (hukk) nekem is jól... (hukk) esne egy kicsi. Hoznál nekem?}
-{207}{}{Nem!... ÉLET-et keresek, nem ételt!}
-{208}{}{Ne is tör?djön vele! Kösz az infót.}
-{209}{}{Óh! Ja, hogy étel!... (hukk) Igggen, tudod te mekkora gekkóból érdemes sültet csinálni? [Karl megmutatja, mekkorából. Hirtelen nem tudod eldönteni, hogy a gyík most 10 centi vagy egy méter hosszú.]}
-{210}{}{Hadd próbáljam elmagyarázni... Nem gekkót keresek, amib?l kaját tudnék csinálni, hanem egy ÉLET-nek nevezett tárgyat.}
-{212}{}{Hát miért nem... ezzel kezdte? (hukk) Tudom én, hol lehet olyat... (hukk) Olyan Édenkert... [Ebben a pillanatban Karl arccal el?rebukik, és elájul.]}
-{213}{}{[Ha Karl újra felébredne, talán újra beszélhetnétek.]}
-{214}{}{Áldott legyen a neve! (hukk) Megmentette az életem.}
-{215}{}{Egy ÉLET-et keresek. Tud segíteni?}
-{216}{}{Hagyja csak. Viszlát máskor, Karl.}
-{217}{}{Ööö... (hukk) Most nem vagyok igazán éhes... (hukk) Mi lenne, ha nekem adná a pénzt és kés?bb elhoznám? (hukk)}
+{191}{}{AzÃ©' van itt (hukk), hogy megint csÃºfot ?zzÃ¶n szegÃ©ny KarlbÃ³l? (hukk) Na, mire vÃ¡r? (hukk) EssÃ¼nk tÃºl rajta!}
+{198}{}{[JÃ³l tagoltan.] Ez elkÃ©peszt?en rendes magÃ¡tÃ³l... (hukk) Ezer dollÃ¡rral kinn leszek a vÃ­zb?l.}
+{199}{}{Hogyne, tessÃ©k.}
+{200}{}{MÃ©gis meddig? Egy Ã©vig tÃ¡n? Nincs rÃ¡ eset. Itt van 25 dollÃ¡r.}
+{201}{}{Asszem, maga bolondnak nÃ©z engem. Na, inkÃ¡bb megyek.}
+{202}{}{[Karl szÃ¡ja nyitva marad a csodÃ¡lkozÃ¡stÃ³l.] KÃ¶szÃ¶nÃ¶m! Maga aztÃ¡n (hukk) nagylelk?... (hukk). Ha van valami, ami k?ne (hukk), csak jÃ¶jjÃ¶n hozzÃ¡m. EgyÃ©bkÃ©nt (hukk), a nevem Karl.}
+{203}{}{Persze, persze, Karl. Most hogy Ã­gy emlÃ­ti, rÃ©gÃ³ta keresek egy Ã‰LET-nek nevezett tÃ¡rgyat. Van valami Ã¶tlete, hol talÃ¡lhatnÃ©k egyet?}
+{204}{}{Eszembe vÃ©sem. VigyÃ¡zzon magÃ¡ra, Karl!}
+{205}{}{MifÃ©le ember maga, he? (hukk) TrÃ¼kkÃ¶skÃ¶dik itt egy szegÃ©ny fÃ¶ld-(hukk)-m?vessel. Haggyon maga bÃ©kÃ©be!}
+{206}{}{Igen... (hukk) nekem is jÃ³l... (hukk) esne egy kicsi. HoznÃ¡l nekem?}
+{207}{}{Nem!... Ã‰LET-et keresek, nem Ã©telt!}
+{208}{}{Ne is tÃ¶r?djÃ¶n vele! KÃ¶sz az infÃ³t.}
+{209}{}{Ã“h! Ja, hogy Ã©tel!... (hukk) Igggen, tudod te mekkora gekkÃ³bÃ³l Ã©rdemes sÃ¼ltet csinÃ¡lni? [Karl megmutatja, mekkorÃ¡bÃ³l. Hirtelen nem tudod eldÃ¶nteni, hogy a gyÃ­k most 10 centi vagy egy mÃ©ter hosszÃº.]}
+{210}{}{Hadd prÃ³bÃ¡ljam elmagyarÃ¡zni... Nem gekkÃ³t keresek, amib?l kajÃ¡t tudnÃ©k csinÃ¡lni, hanem egy Ã‰LET-nek nevezett tÃ¡rgyat.}
+{212}{}{HÃ¡t miÃ©rt nem... ezzel kezdte? (hukk) Tudom Ã©n, hol lehet olyat... (hukk) Olyan Ã‰denkert... [Ebben a pillanatban Karl arccal el?rebukik, Ã©s elÃ¡jul.]}
+{213}{}{[Ha Karl Ãºjra felÃ©bredne, talÃ¡n Ãºjra beszÃ©lhetnÃ©tek.]}
+{214}{}{Ãldott legyen a neve! (hukk) Megmentette az Ã©letem.}
+{215}{}{Egy Ã‰LET-et keresek. Tud segÃ­teni?}
+{216}{}{Hagyja csak. ViszlÃ¡t mÃ¡skor, Karl.}
+{217}{}{Ã–Ã¶Ã¶... (hukk) Most nem vagyok igazÃ¡n Ã©hes... (hukk) Mi lenne, ha nekem adnÃ¡ a pÃ©nzt Ã©s kÃ©s?bb elhoznÃ¡m? (hukk)}
 {219}{}{You shyster. I'll bet you use the money you collect to buy drugs, don't you?}
-{220}{}{Szégye... Egyen... Széle... akármi is gyött ki a száján... (hukk) Szívja vissza... (hukk) Akármi is legyen, jót nem jelenthet.}
-{221}{}{[Miel?tt érdemben válaszoltál volna, Karl arccal el?reesik és elájul.]}
-{222}{}{Nem tesssszz semmit... (hukk) Gondolom, nincs magánál semmilyen folyékony friss-(hukk)-ít?. Éjszakánként mocskos (hukk) hideg tud lenni.}
-{224}{}{Maga aztán (hukk) a legeslegjobbacska barátom ebben az egész (hukk) átkozott világban. [Karl nekilát a folyékony frissít? elfogyasztásának, de ennél a pontnál egyszer?en elájul.]}
-{225}{}{Ó, igen, talán kés?bb szóra lehet bírni Karlt.}
+{220}{}{SzÃ©gye... Egyen... SzÃ©le... akÃ¡rmi is gyÃ¶tt ki a szÃ¡jÃ¡n... (hukk) SzÃ­vja vissza... (hukk) AkÃ¡rmi is legyen, jÃ³t nem jelenthet.}
+{221}{}{[Miel?tt Ã©rdemben vÃ¡laszoltÃ¡l volna, Karl arccal el?reesik Ã©s elÃ¡jul.]}
+{222}{}{Nem tesssszz semmit... (hukk) Gondolom, nincs magÃ¡nÃ¡l semmilyen folyÃ©kony friss-(hukk)-Ã­t?. Ã‰jszakÃ¡nkÃ©nt mocskos (hukk) hideg tud lenni.}
+{224}{}{Maga aztÃ¡n (hukk) a legeslegjobbacska barÃ¡tom ebben az egÃ©sz (hukk) Ã¡tkozott vilÃ¡gban. [Karl nekilÃ¡t a folyÃ©kony frissÃ­t? elfogyasztÃ¡sÃ¡nak, de ennÃ©l a pontnÃ¡l egyszer?en elÃ¡jul.]}
+{225}{}{Ã“, igen, talÃ¡n kÃ©s?bb szÃ³ra lehet bÃ­rni Karlt.}
 {226}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl opens the bottle
  and proceeds to drink -- and then proceeds to yark all over you.] Ptui! What the-?! Are you trying to
  poison me or something?! Get out of here!}
-{227}{}{Hát köszönöm (hukk). Maga olyan (hukk) jólelk?. Miért is nem segítek magának? Biztos fárasztó cipelni azt a degeszre tömött erszényt! [Karl belenyúl az erszényedbe, és zsebrevágja a fele pénzed.] Maga aztán nagylelk? a javából, ha valamire szüksége van, ne habozzon felkeresni.}
-{228}{}{ÉLET?}
-{229}{}{Én megy.}
-{230}{}{Cs?... (hukk) Tényleg, kéne csövelni egyet.}
-{231}{}{Akkor talán kés?bb.}
-{232}{}{Azta... (hukk) ...köszi. Talán tudok venni egy (hukk) egy töltényt, amit a fejembe röpíthetek. (hukk) Persze el?bb jó lenne, ha (hukk) egy pisztolyra is tellne.}
-{233}{}{Úgy érti... Mehetek haza? Nincs több kísértet? [Karl zokogni kezd... Hát barátom, kevés elkeserít?bb látvány létezik egy síró feln?tt férfinél.] Köszönöm, végre hazamehetek!}
-{234}{}{Hol? Neeeeeeeee! Rámtaláltak!}
-{235}{}{Dehogynem, nekem volt a legnagyobb kertem (hukk), amit egy ember kívánhat. Illetve (hukk), ahol én lakom, ott farmnak hívják...}
-{236}{}{Nem emlékszik? Az ÉLET-r?l beszéltünk és egy kertet említett.}
+{227}{}{HÃ¡t kÃ¶szÃ¶nÃ¶m (hukk). Maga olyan (hukk) jÃ³lelk?. MiÃ©rt is nem segÃ­tek magÃ¡nak? Biztos fÃ¡rasztÃ³ cipelni azt a degeszre tÃ¶mÃ¶tt erszÃ©nyt! [Karl belenyÃºl az erszÃ©nyedbe, Ã©s zsebrevÃ¡gja a fele pÃ©nzed.] Maga aztÃ¡n nagylelk? a javÃ¡bÃ³l, ha valamire szÃ¼ksÃ©ge van, ne habozzon felkeresni.}
+{228}{}{Ã‰LET?}
+{229}{}{Ã‰n megy.}
+{230}{}{Cs?... (hukk) TÃ©nyleg, kÃ©ne csÃ¶velni egyet.}
+{231}{}{Akkor talÃ¡n kÃ©s?bb.}
+{232}{}{Azta... (hukk) ...kÃ¶szi. TalÃ¡n tudok venni egy (hukk) egy tÃ¶ltÃ©nyt, amit a fejembe rÃ¶pÃ­thetek. (hukk) Persze el?bb jÃ³ lenne, ha (hukk) egy pisztolyra is tellne.}
+{233}{}{Ãšgy Ã©rti... Mehetek haza? Nincs tÃ¶bb kÃ­sÃ©rtet? [Karl zokogni kezd... HÃ¡t barÃ¡tom, kevÃ©s elkeserÃ­t?bb lÃ¡tvÃ¡ny lÃ©tezik egy sÃ­rÃ³ feln?tt fÃ©rfinÃ©l.] KÃ¶szÃ¶nÃ¶m, vÃ©gre hazamehetek!}
+{234}{}{Hol? Neeeeeeeee! RÃ¡mtalÃ¡ltak!}
+{235}{}{Dehogynem, nekem volt a legnagyobb kertem (hukk), amit egy ember kÃ­vÃ¡nhat. Illetve (hukk), ahol Ã©n lakom, ott farmnak hÃ­vjÃ¡k...}
+{236}{}{Nem emlÃ©kszik? Az Ã‰LET-r?l beszÃ©ltÃ¼nk Ã©s egy kertet emlÃ­tett.}
 {237}{}{Felejtse el, ezzel nem jutunk semmire.}
-{238}{}{Hé! (hukk) Maga egész formás darab. Együtt hátramehetnénk (hukk) és összebújhatnánk. Tudok fizetni... van nálam ezer dollár. [Karl kérd?en néz rád.]}
-{239}{}{Ugye tudja, hogy egy férfivel beszél?}
-{240}{}{Hát persze, és ezt bizony ezer dollárja fogja bánni.}
-{241}{}{Kösz az ajánlatot, de inkább az ÉLET hollétér?l beszéljünk.}
-{242}{}{A nagy büdös túrót!}
-{243}{}{Maga olyaaan takaros ember... (hukk) Ha nem szól semmit, akkor én se nem. (hukk)}
-{244}{}{[Alig bírod visszatartani a kacagást.] Mennem kell.}
-{245}{}{Oké, itt az ezer dollár.}
-{246}{}{[Te és Karl besurrantok a közeli ajtón egy gyors menetre. Meglepetten tapasztalod, hogy kifejezetten jól esett.]}
-{247}{}{[Hamar kijózanodik, és elkezdi mesélni a közelmúlt eseményeit.] Miel?tt idejöttem volna, egész ígéretes termel? voltam. Békésen szántottam-vetettem, mint bárki más, mígnem egy éjszaka felt?ntek. Piszkos fehér b?rük volt és mind fluoreszkált... hát majd' be rosáltam a látványtól. Minden éjszaka el?jöttek és válogatás nélkül dézsmálták a terményt meg az állatállományt. Semmit nem tehettem ellenük. Most tudom, mit fog mondani: "Miért nem kért segítséget?". Hát elmondom, hogy kértem, de senki nem hitt nekem, azt hitték meghülyültem. A végén aztán nem bírtam tovább. ELEGEM LETT! Fogtam a cuccost és úgy otthagytam ?ket, hogy a lábam nem érte a földet. Na, azóta itt vagyok. [Karl egyszercsak reménytelenül sírni kezd. Úgy döntesz, jót fog tenni neki egy kis magány, és békén hagyod.]}
-{248}{}{Ó a francba. Valahol elhagytam a pénzemet. Itt van }
+{238}{}{HÃ©! (hukk) Maga egÃ©sz formÃ¡s darab. EgyÃ¼tt hÃ¡tramehetnÃ©nk (hukk) Ã©s Ã¶sszebÃºjhatnÃ¡nk. Tudok fizetni... van nÃ¡lam ezer dollÃ¡r. [Karl kÃ©rd?en nÃ©z rÃ¡d.]}
+{239}{}{Ugye tudja, hogy egy fÃ©rfivel beszÃ©l?}
+{240}{}{HÃ¡t persze, Ã©s ezt bizony ezer dollÃ¡rja fogja bÃ¡nni.}
+{241}{}{KÃ¶sz az ajÃ¡nlatot, de inkÃ¡bb az Ã‰LET hollÃ©tÃ©r?l beszÃ©ljÃ¼nk.}
+{242}{}{A nagy bÃ¼dÃ¶s tÃºrÃ³t!}
+{243}{}{Maga olyaaan takaros ember... (hukk) Ha nem szÃ³l semmit, akkor Ã©n se nem. (hukk)}
+{244}{}{[Alig bÃ­rod visszatartani a kacagÃ¡st.] Mennem kell.}
+{245}{}{OkÃ©, itt az ezer dollÃ¡r.}
+{246}{}{[Te Ã©s Karl besurrantok a kÃ¶zeli ajtÃ³n egy gyors menetre. Meglepetten tapasztalod, hogy kifejezetten jÃ³l esett.]}
+{247}{}{[Hamar kijÃ³zanodik, Ã©s elkezdi mesÃ©lni a kÃ¶zelmÃºlt esemÃ©nyeit.] Miel?tt idejÃ¶ttem volna, egÃ©sz Ã­gÃ©retes termel? voltam. BÃ©kÃ©sen szÃ¡ntottam-vetettem, mint bÃ¡rki mÃ¡s, mÃ­gnem egy Ã©jszaka felt?ntek. Piszkos fehÃ©r b?rÃ¼k volt Ã©s mind fluoreszkÃ¡lt... hÃ¡t majd' be rosÃ¡ltam a lÃ¡tvÃ¡nytÃ³l. Minden Ã©jszaka el?jÃ¶ttek Ã©s vÃ¡logatÃ¡s nÃ©lkÃ¼l dÃ©zsmÃ¡ltÃ¡k a termÃ©nyt meg az Ã¡llatÃ¡llomÃ¡nyt. Semmit nem tehettem ellenÃ¼k. Most tudom, mit fog mondani: "MiÃ©rt nem kÃ©rt segÃ­tsÃ©get?". HÃ¡t elmondom, hogy kÃ©rtem, de senki nem hitt nekem, azt hittÃ©k meghÃ¼lyÃ¼ltem. A vÃ©gÃ©n aztÃ¡n nem bÃ­rtam tovÃ¡bb. ELEGEM LETT! Fogtam a cuccost Ã©s Ãºgy otthagytam ?ket, hogy a lÃ¡bam nem Ã©rte a fÃ¶ldet. Na, azÃ³ta itt vagyok. [Karl egyszercsak remÃ©nytelenÃ¼l sÃ­rni kezd. Ãšgy dÃ¶ntesz, jÃ³t fog tenni neki egy kis magÃ¡ny, Ã©s bÃ©kÃ©n hagyod.]}
+{248}{}{Ã“ a francba. Valahol elhagytam a pÃ©nzemet. Itt van }
 {249}{}{ vagyok.}
 {250}{}{Zzz}
 {251}{}{Zzzzzz}
 {252}{}{Zzzzzzzzz}
 {253}{}{Zzzzzzzzzzzz}
 {254}{}{Zzzzzzzzzzzzzzz}
-{255}{}{[hortyog, horkant és megintcsak hortyog]}
-{260}{}{Ó a francba. Valahol elhagytam a pénzemet. Itt van }
-{261}{}{ dollár. Ez az összes pénzem.}
-{262}{}{Ó a francba. Valahol elhagytam a pénzemet. Bocs, amúgy egész jó volt.}
-{300}{}{Hála magának, most hazamegyek!}
-{400}{}{Karlt útjára bocsátottad Modoc felé.}
+{255}{}{[hortyog, horkant Ã©s megintcsak hortyog]}
+{260}{}{Ã“ a francba. Valahol elhagytam a pÃ©nzemet. Itt van }
+{261}{}{ dollÃ¡r. Ez az Ã¶sszes pÃ©nzem.}
+{262}{}{Ã“ a francba. Valahol elhagytam a pÃ©nzemet. Bocs, amÃºgy egÃ©sz jÃ³ volt.}
+{300}{}{HÃ¡la magÃ¡nak, most hazamegyek!}
+{400}{}{Karlt ÃºtjÃ¡ra bocsÃ¡tottad Modoc felÃ©.}

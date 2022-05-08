@@ -3,7 +3,7 @@
 {102}{}{He's got about three teeth and a face criss-crossed with the little veins of a drunkard. He smells bad too.}
 {103}{}{Howdy, stranger!}
 {104}{}{Gruh?}
-{105}{}{Quem é você?}
+{105}{}{Quem Ã© vocÃª?}
 {106}{}{Name's Bob. Saltbeef Bob, yep. How about you?}
 {107}{}{What'd you say your name was again, stranger? I'm Saltbeef Bob.}
 {108}{}{[Nome do jogador]}
@@ -11,7 +11,7 @@
 {110}{}{O que faz aqui?}
 {111}{}{That's a right fine name, yep. Say, you wouldn't have a drink on ya, pardner?}
 {112}{}{Sim.}
-{113}{}{Não.}
+{113}{}{NÃ£o.}
 {114}{}{Get away from me, you stinking bum!}
 {115}{}{Well, there warn't no need to be rude about it. Just wanted a little sip, see. Steady my nerves...}
 {116}{}{Hoo-wee! Sounds like you got yerself some mighty fine hooch there! Say, hows about sharing a little? Just a little sip.}
@@ -35,7 +35,7 @@
 {134}{}{Rile me? Rile me! You ain't seen me riled yet! Now jes' git outta my sight before you gets me really upset! Gwan! Git!}
 {135}{}{Well bite me, too! Now yer talking. Don't take no lip from nobody, pardner! Say, you got any hooch on ya? Just a little sip?}
 {136}{}{Sim.}
-{137}{}{Não.}
+{137}{}{NÃ£o.}
 {138}{}{Get away from me you, stinking bum!}
 {139}{}{Hee, hee, hee! It's mine now, pardner. You'll jes' have to find yer own!}
 {140}{}{Boss let's me stay here. I run this stable! Do a little cleaning, keep a square camp.}
@@ -46,6 +46,6 @@
 {145}{}{You're a feisty one, old timer.}
 {146}{}{Damn right I am! You don't have a little drink on you, do you now? Fer an old man.}
 {147}{}{Sim.}
-{148}{}{Não.}
+{148}{}{NÃ£o.}
 {149}{}{Get away from me you stinking bum!}
 {150}{}{.}

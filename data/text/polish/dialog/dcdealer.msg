@@ -1,10 +1,10 @@
-{100}{}{Widzisz handlarza narkotyków.}
-{101}{}{Widzisz handlarza narkotyków.}
-{102}{}{Je¿eli szukasz okazji, ja mam towar.}
-{103}{}{Pewnie, poka¿ co masz.}
-{104}{}{Mo¿e innym razem.}
-{105}{}{Znalaz³eœ czego potrzebujesz?}
-{106}{}{Dziêki. Do zobaczenia.}
-{200}{}{Widzisz groŸnie wygl¹daj¹cego mê¿czyznê.}
-{201}{}{Widzisz groŸnie wygl¹daj¹cego mê¿czyznê.}
-{202}{}{Jestem tu do ochrony. Jeœli chcesz coœ kupiæ, gadaj z handlarzem.}
+{100}{}{Widzisz handlarza narkotykÃ³w.}
+{101}{}{Widzisz handlarza narkotykÃ³w.}
+{102}{}{JeÅ¼eli szukasz okazji, ja mam towar.}
+{103}{}{Pewnie, pokaÅ¼ co masz.}
+{104}{}{MoÅ¼e innym razem.}
+{105}{}{ZnalazÅ‚eÅ› czego potrzebujesz?}
+{106}{}{DziÄ™ki. Do zobaczenia.}
+{200}{}{Widzisz groÅºnie wyglÄ…dajÄ…cego mÄ™Å¼czyznÄ™.}
+{201}{}{Widzisz groÅºnie wyglÄ…dajÄ…cego mÄ™Å¼czyznÄ™.}
+{202}{}{Jestem tu do ochrony. JeÅ›li chcesz coÅ› kupiÄ‡, gadaj z handlarzem.}

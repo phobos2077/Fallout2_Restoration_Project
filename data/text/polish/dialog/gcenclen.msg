@@ -1,1 +1,1 @@
-{100}{}{Jesteœ na obszernej równinie zaraz za Gecko. S¹ tutaj jacyœ ludzie w zaawansowanych technicznie zbrojach.}
+{100}{}{JesteÅ› na obszernej rÃ³wninie zaraz za Gecko. SÄ… tutaj jacyÅ› ludzie w zaawansowanych technicznie zbrojach.}

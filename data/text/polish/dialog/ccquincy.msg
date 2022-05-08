@@ -1,71 +1,71 @@
-{100}{}{Widzisz mê¿czyznê w mundurze wojskowym.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ w mundurze wojskowym.}
 {101}{}{Widzisz mechanika Quincy'ego.}
-{102}{}{Widzisz mê¿czyznê w mundurze wojskowym. S¹dz¹c po plamach smaru myœlisz, ¿e jest bardziej mechanikiem ni¿ ¿o³nierzem.}
-{103}{}{¯o³nierzu, Quincy jestem. Czemu klepiesz mnie po ramieniu i zgrywasz sierotkê?}
-{104}{}{Ja musi coœ ty pytaæ.}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ w mundurze wojskowym. SÄ…dzÄ…c po plamach smaru myÅ›lisz, Å¼e jest bardziej mechanikiem niÅ¼ Å¼oÅ‚nierzem.}
+{103}{}{Å»oÅ‚nierzu, Quincy jestem. Czemu klepiesz mnie po ramieniu i zgrywasz sierotkÄ™?}
+{104}{}{Ja musi coÅ› ty pytaÄ‡.}
 {105}{}{Nic nic.}
-{106}{}{Czeœæ. Muszê ciê o coœ zapytaæ.}
-{107}{}{Niewa¿ne.}
-{108}{}{No dobra, ale streszczaj siê. Mam do zrobienia mnóstwo spisów.}
-{109}{}{Co chcesz wiedzieæ?}
+{106}{}{CzeÅ›Ä‡. MuszÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{107}{}{NiewaÅ¼ne.}
+{108}{}{No dobra, ale streszczaj siÄ™. Mam do zrobienia mnÃ³stwo spisÃ³w.}
+{109}{}{Co chcesz wiedzieÄ‡?}
 {110}{}{To miejsce co?}
-{111}{}{Ja szuka plany latawca. Gdzie znaleŸæ?}
-{112}{}{Ja s³yszeæ od technik tu plany latacza.}
-{113}{}{Moja iœæ ju¿}
+{111}{}{Ja szuka plany latawca. Gdzie znaleÅºÄ‡?}
+{112}{}{Ja sÅ‚yszeÄ‡ od technik tu plany latacza.}
+{113}{}{Moja iÅ›Ä‡ juÅ¼}
 {114}{}{Co to za miejsce?}
-{115}{}{Szukam planów latacza. Wiesz, gdzie mogê je znaleŸæ?}
-{116}{}{Technik powiedzia³ mi, ¿e znajdê tu plany latacza.}
-{117}{}{No, muszê ju¿ iœæ.}
-{118}{}{Tu jest obs³uga. Naprawiami mnóstwo ró¿nych rzeczy oprócz lataczy.}
-{119}{}{Gdzie latatacze naprawiaæ?}
-{120}{}{Gdzie naprawia siê latacze?}
-{121}{}{Mieszcz¹ siê tylko w hangarze, albo na zewn¹trz. Dalej siê ju¿ domyœl, dobra?}
+{115}{}{Szukam planÃ³w latacza. Wiesz, gdzie mogÄ™ je znaleÅºÄ‡?}
+{116}{}{Technik powiedziaÅ‚ mi, Å¼e znajdÄ™ tu plany latacza.}
+{117}{}{No, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{118}{}{Tu jest obsÅ‚uga. Naprawiami mnÃ³stwo rÃ³Å¼nych rzeczy oprÃ³cz lataczy.}
+{119}{}{Gdzie latatacze naprawiaÄ‡?}
+{120}{}{Gdzie naprawia siÄ™ latacze?}
+{121}{}{MieszczÄ… siÄ™ tylko w hangarze, albo na zewnÄ…trz. Dalej siÄ™ juÅ¼ domyÅ›l, dobra?}
 {122}{}{Och... dobra.}
 {123}{}{Och, jasne. Rozumiem.}
-{124}{}{Ech... mam kopiê planów, ale nie mogê ich tak po prostu dawaæ ka¿demu, kto o nie poprosi. Po co ci one?}
-{125}{}{Ja mieæ kumple na po³udnie oni chcieæ.}
+{124}{}{Ech... mam kopiÄ™ planÃ³w, ale nie mogÄ™ ich tak po prostu dawaÄ‡ kaÅ¼demu, kto o nie poprosi. Po co ci one?}
+{125}{}{Ja mieÄ‡ kumple na poÅ‚udnie oni chcieÄ‡.}
 {126}{}{Uch... noo...}
-{127}{}{Mam na po³udniu kilku przyjació³, którzy chcieliby dostaæ je w swoje rêce.}
-{128}{}{Sier¿ant kaza³ mi je wzi¹æ.}
-{129}{}{Na po³udniu... o cholera! Mamy tu szpiega! Stra¿e! Alarm!}
+{127}{}{Mam na poÅ‚udniu kilku przyjaciÃ³Å‚, ktÃ³rzy chcieliby dostaÄ‡ je w swoje rÄ™ce.}
+{128}{}{SierÅ¼ant kazaÅ‚ mi je wziÄ…Ä‡.}
+{129}{}{Na poÅ‚udniu... o cholera! Mamy tu szpiega! StraÅ¼e! Alarm!}
 {130}{}{Uuups.}
-{131}{}{Uuups. Nie ma to jak dobrze wdepn¹æ.}
-{132}{}{Twój magazynek nie jest ca³kiem pe³ny, co? S³uchaj, Einsteinie, nie mogê daæ ci planów bez upowa¿nienia, no nie? Wiêc wracaj do tego, kto ciê tu przys³a³ i za³atw najpierw ca³¹ papierkow¹ robotê.}
-{133}{}{S³uchaj, Einsteinie, nie mogê daæ ci planów bez upowa¿nienia, no nie? Wiêc wracaj do tego, kto ciê tu przys³a³ i za³atw najpierw ca³¹ papierkow¹ robotê.}
-{134}{}{Dobra, moja iœæ.}
-{135}{}{Nie, ja po pierwszy zastrzeliæ, po drugi znaleŸæ plany, potem... co byæ po dwa?}
+{131}{}{Uuups. Nie ma to jak dobrze wdepnÄ…Ä‡.}
+{132}{}{TwÃ³j magazynek nie jest caÅ‚kiem peÅ‚ny, co? SÅ‚uchaj, Einsteinie, nie mogÄ™ daÄ‡ ci planÃ³w bez upowaÅ¼nienia, no nie? WiÄ™c wracaj do tego, kto ciÄ™ tu przysÅ‚aÅ‚ i zaÅ‚atw najpierw caÅ‚Ä… papierkowÄ… robotÄ™.}
+{133}{}{SÅ‚uchaj, Einsteinie, nie mogÄ™ daÄ‡ ci planÃ³w bez upowaÅ¼nienia, no nie? WiÄ™c wracaj do tego, kto ciÄ™ tu przysÅ‚aÅ‚ i zaÅ‚atw najpierw caÅ‚Ä… papierkowÄ… robotÄ™.}
+{134}{}{Dobra, moja iÅ›Ä‡.}
+{135}{}{Nie, ja po pierwszy zastrzeliÄ‡, po drugi znaleÅºÄ‡ plany, potem... co byÄ‡ po dwa?}
 {136}{}{Nie ma sprawy.}
-{137}{}{Nie, chyba zamiast tego ciê zastrzelê i rozejrzê siê po okolicy, gdy ty bêdziesz siê wykrwawiaæ.}
-{138}{}{Technik ci powiedzia³... masz na myœli Raula? To on ciê przys³a³?}
+{137}{}{Nie, chyba zamiast tego ciÄ™ zastrzelÄ™ i rozejrzÄ™ siÄ™ po okolicy, gdy ty bÄ™dziesz siÄ™ wykrwawiaÄ‡.}
+{138}{}{Technik ci powiedziaÅ‚... masz na myÅ›li Raula? To on ciÄ™ przysÅ‚aÅ‚?}
 {139}{}{Uch, jasne.}
 {140}{}{Ee, nie.}
 {141}{}{Tak, to ten facet.}
-{142}{}{Nie, to chyba nie by³ Raul.}
-{143}{}{Do licha! Wiesz, Raul to by zgubi³ nawet w³asn¹ g³owê, gdyby nie by³a tak mocno przylepiona do jego dupy! Zgubi³ te plany ju¿ trzeci raz w tym kwartale! I do tego jeszcze ma pietra jak st¹d na Ksiê¿yc, ¿eby tu przyjœæ i o nie poprosiæ! Niech bêdzie, plany le¿¹ w tamtej szafce. Aha, jak ju¿ mu je zaniesiesz, powiedz mu, ¿e chcê, ¿eby tu przyszed³.}
-{144}{}{Dziêkujê.}
-{145}{}{Jesteœ z powrotem. Masz upowa¿nienie?}
+{142}{}{Nie, to chyba nie byÅ‚ Raul.}
+{143}{}{Do licha! Wiesz, Raul to by zgubiÅ‚ nawet wÅ‚asnÄ… gÅ‚owÄ™, gdyby nie byÅ‚a tak mocno przylepiona do jego dupy! ZgubiÅ‚ te plany juÅ¼ trzeci raz w tym kwartale! I do tego jeszcze ma pietra jak stÄ…d na KsiÄ™Å¼yc, Å¼eby tu przyjÅ›Ä‡ i o nie poprosiÄ‡! Niech bÄ™dzie, plany leÅ¼Ä… w tamtej szafce. Aha, jak juÅ¼ mu je zaniesiesz, powiedz mu, Å¼e chcÄ™, Å¼eby tu przyszedÅ‚.}
+{144}{}{DziÄ™kujÄ™.}
+{145}{}{JesteÅ› z powrotem. Masz upowaÅ¼nienie?}
 {146}{}{Znowu ty? O co chodzi tym razem?}
-{147}{}{Pewnie, ja mieæ karabin plazmowy. To mi starczyæ!}
+{147}{}{Pewnie, ja mieÄ‡ karabin plazmowy. To mi starczyÄ‡!}
 {148}{}{Nie, jeszcze nie.}
-{149}{}{Pewnie, mam wielk¹, zajebist¹ spluwê. To mi zupe³nie wystarczy!}
+{149}{}{Pewnie, mam wielkÄ…, zajebistÄ… spluwÄ™. To mi zupeÅ‚nie wystarczy!}
 {150}{}{Nie, jeszcze nie.}
-{151}{}{Ja chcieæ coœ zapytaæ ty.}
-{152}{}{Ja tylko mówiæ "czeœæ".}
-{153}{}{Muszê ciê o coœ zapytaæ.}
-{154}{}{Niewa¿ne, chcê tylko powiedzieæ "czeœæ".}
-{155}{}{Odbi³o ci, ¿eby ³aziæ tu bez munduru? IdŸ siê ubraæ!}
-{156}{}{Jak ciê sier¿ant z³apie bez munduru, to ci urwie g³owê.}
+{151}{}{Ja chcieÄ‡ coÅ› zapytaÄ‡ ty.}
+{152}{}{Ja tylko mÃ³wiÄ‡ "czeÅ›Ä‡".}
+{153}{}{MuszÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{154}{}{NiewaÅ¼ne, chcÄ™ tylko powiedzieÄ‡ "czeÅ›Ä‡".}
+{155}{}{OdbiÅ‚o ci, Å¼eby Å‚aziÄ‡ tu bez munduru? IdÅº siÄ™ ubraÄ‡!}
+{156}{}{Jak ciÄ™ sierÅ¼ant zÅ‚apie bez munduru, to ci urwie gÅ‚owÄ™.}
 {157}{}{Czemu nie masz munduru?}
-{158}{}{Kurwa! Zostaliœmy zaatakowani! Alarm!}
-{159}{}{Stra¿! Intruzi!}
-{160}{}{Stra¿! Intruzi w obs³udze!}
+{158}{}{Kurwa! ZostaliÅ›my zaatakowani! Alarm!}
+{159}{}{StraÅ¼! Intruzi!}
+{160}{}{StraÅ¼! Intruzi w obsÅ‚udze!}
 {161}{}{Co jest? Zaatakowano nas?}
-{162}{}{Po co ten alarm? Co siê dzieje?}
-{163}{}{Co siê do jasnej cholery dzieje?}
+{162}{}{Po co ten alarm? Co siÄ™ dzieje?}
+{163}{}{Co siÄ™ do jasnej cholery dzieje?}
 {164}{}{Hej! Nie rozgrzebuj mi tych szuflad.}
-{165}{}{Mówi³em, ¿e masz nie ruszaæ moich rzeczy! Stra¿e!}
-{200}{}{Ha! Nie wierz we wszystko, co s³yszysz.}
-{201}{}{Kto ci to powiedzia³? Pytam, bo to bêdzie nastêpny cz³owiek zaraz po tobie, któremu wbijê do ³ba trochê rozumu.}
-{300}{}{Nie widzisz, ¿e jestem zajêty?}
+{165}{}{MÃ³wiÅ‚em, Å¼e masz nie ruszaÄ‡ moich rzeczy! StraÅ¼e!}
+{200}{}{Ha! Nie wierz we wszystko, co sÅ‚yszysz.}
+{201}{}{Kto ci to powiedziaÅ‚? Pytam, bo to bÄ™dzie nastÄ™pny czÅ‚owiek zaraz po tobie, ktÃ³remu wbijÄ™ do Å‚ba trochÄ™ rozumu.}
+{300}{}{Nie widzisz, Å¼e jestem zajÄ™ty?}
 {301}{}{Hej! Nie rozgrzebuj mi tych szuflad.}
-{302}{}{Mówi³em, ¿e masz nie ruszaæ moich rzeczy! Stra¿e!}
+{302}{}{MÃ³wiÅ‚em, Å¼e masz nie ruszaÄ‡ moich rzeczy! StraÅ¼e!}

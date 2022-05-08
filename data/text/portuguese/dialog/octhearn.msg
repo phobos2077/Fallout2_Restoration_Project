@@ -1,13 +1,13 @@
-{100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
+{100}{}{VocÃª vÃª um garra mortal. Ele observa vocÃª com olhos estranhamente inteligentes.}
 {101}{}{You see Thearn, the Deathclaw.}
-{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
+{102}{}{VocÃª vÃª um tÃ­pico garra mortal. A criatura Ã© enorme, com um corpo poderoso, dentes afiados, e longas garras.}
 {103}{}{Forgive. I no speak well. I try talk you.}
 {104}{}{You want what?}
-{105}{}{Quem é você?}
-{106}{}{O que você faz?}
+{105}{}{Quem Ã© vocÃª?}
+{106}{}{O que vocÃª faz?}
 {107}{}{How smart you?}
 {108}{}{Eu vou agora.}
-{109}{}{Quem é você?}
+{109}{}{Quem Ã© vocÃª?}
 {110}{}{O que faz aqui?}
 {111}{}{No offense, but just how smart are you?}
 {112}{}{Well, just passing the time.}

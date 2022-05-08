@@ -1,2 +1,2 @@
-{100}{}{Odnajdujesz star¹ stacjê benzynow¹.}
-{101}{}{Znlaz³eœ siê wewn¹trz czynnej bazy wojskowej.}
+{100}{}{Odnajdujesz starÄ… stacjÄ™ benzynowÄ….}
+{101}{}{ZnlazÅ‚eÅ› siÄ™ wewnÄ…trz czynnej bazy wojskowej.}

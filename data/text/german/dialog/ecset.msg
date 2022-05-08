@@ -11,7 +11,7 @@
 {109}{}{Fink.}
 {110}{}{Schmutzfink!}
 {111}{}{Ha-ha. Ich heeeeerrsche in Nekropolis.}
-{112}{}{Normalos. ‹berall Normalos.}
-{113}{}{"Heiﬂe Set. Du heiﬂt Welt-Zerstˆrer."}
+{112}{}{Normalos. √úberall Normalos.}
+{113}{}{"Hei√üe Set. Du hei√üt Welt-Zerst√∂rer."}
 {114}{}{Kicher, kicher.}
 {115}{}{Fink. Schmutz. Finkschmutz!}

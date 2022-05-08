@@ -1,117 +1,117 @@
-{100}{}{Você vê um drogado.}
-{110}{}{Você vê uma prostituta de jet.}
-{111}{}{Você vê uma das putas de Jet de Tubby.}
+{100}{}{VocÃª vÃª um drogado.}
+{110}{}{VocÃª vÃª uma prostituta de jet.}
+{111}{}{VocÃª vÃª uma das putas de Jet de Tubby.}
 {150}{}{Ele parece ser um amigo de Tubby.}
 {160}{}{Ela parece estar extremamente dopada.}
 {161}{}{Ela parece estar sofrendo grandes retiradas.}
 {200}{}{Oh cara. Onde vamos pegar nossa merda agora?}
 {201}{}{Por que matou Tubby?}
-{202}{}{Oh, cara, isso é uma merda.}
+{202}{}{Oh, cara, isso Ã© uma merda.}
 {203}{}{Agora, o que devemos fazer?}
-{204}{}{Oh, cara…}
-{205}{}{Ei, não é justo.}
-{206}{}{Não nos machuque, não vamos contar.}
-{220}{}{Uau, você parece muito malvado.}
-{221}{}{Ei, você é um cara realmente legal. Alguém já te disse isso?}
-{222}{}{Ei, você é uma bom sujeito. Alguém já disse isso?}
+{204}{}{Oh, caraâ€¦}
+{205}{}{Ei, nÃ£o Ã© justo.}
+{206}{}{NÃ£o nos machuque, nÃ£o vamos contar.}
+{220}{}{Uau, vocÃª parece muito malvado.}
+{221}{}{Ei, vocÃª Ã© um cara realmente legal. AlguÃ©m jÃ¡ te disse isso?}
+{222}{}{Ei, vocÃª Ã© uma bom sujeito. AlguÃ©m jÃ¡ disse isso?}
 {223}{}{Somos os guardas de Tubby.}
-{224}{}{Não mexa com Tubby. Este é o seu lugar.}
+{224}{}{NÃ£o mexa com Tubby. Este Ã© o seu lugar.}
 {225}{}{Porra, estou me sentindo bem.}
-{226}{}{Você pode acreditar que somos guardas? Legal, não é.}
-{227}{}{Essa merda é grande.}
-{228}{}{Oh, cara, eu não consigo sentir minhas pernas.}
-{229}{}{Tubby é nosso amigo.}
-{230}{}{Tubby nos mantém felizes.}
+{226}{}{VocÃª pode acreditar que somos guardas? Legal, nÃ£o Ã©.}
+{227}{}{Essa merda Ã© grande.}
+{228}{}{Oh, cara, eu nÃ£o consigo sentir minhas pernas.}
+{229}{}{Tubby Ã© nosso amigo.}
+{230}{}{Tubby nos mantÃ©m felizes.}
 {231}{}{Oh garoto, oh, garoto, oh, garoto ... Maldito meus olhos.}
-{232}{}{Ei, cara, você é um escravista? Wow…}
+{232}{}{Ei, cara, vocÃª Ã© um escravista? Wowâ€¦}
 {233}{}{Essa tatuagem doeu?}
-{234}{}{Vocês escravistas certamente são difíceis.}
-{235}{}{Não é perigoso ser um escravista?}
+{234}{}{VocÃªs escravistas certamente sÃ£o difÃ­ceis.}
+{235}{}{NÃ£o Ã© perigoso ser um escravista?}
 {236}{}{Hey, eu ouvi que seu chefe levou um tiro, ou algo assim. Que azar.}
-{237}{}{Ei, você ouviu? Metzger está morto ou algo assim.}
-{238}{}{Uau, alguém cortou o Metzger o açougueiro.}
-{239}{}{Espero que Tubby possa ficar no negócio com Metz ido.}
+{237}{}{Ei, vocÃª ouviu? Metzger estÃ¡ morto ou algo assim.}
+{238}{}{Uau, alguÃ©m cortou o Metzger o aÃ§ougueiro.}
+{239}{}{Espero que Tubby possa ficar no negÃ³cio com Metz ido.}
 {250}{}{Uau, cara. Ele matou Tubby.}
 {251}{}{Acho que minha merda foi ruim.}
-{252}{}{Woh, o que está acontecendo?}
+{252}{}{Woh, o que estÃ¡ acontecendo?}
 {253}{}{O que era todo esse barulho?}
-{254}{}{Dang, era uma merda desagradável.}
+{254}{}{Dang, era uma merda desagradÃ¡vel.}
 {255}{}{Uau, cara. Ela matou Tubby.}
 {260}{}{Ooooohhyaaa... coisas Boas.}
-{261}{}{O que é isso?}
+{261}{}{O que Ã© isso?}
 {262}{}{Oh, sim, eu estou voando agora.}
-{263}{}{Oh, tão quente.}
-{264}{}{Ela é tão bonita.}
-{265}{}{Oh, blackout e... Merda, eu não posso ver.}
-{270}{}{Uau, você vê isso?}
-{271}{}{Sim, você sabe o que era?}
-{272}{}{Eu acho que ele era um pássaro.}
-{273}{}{Não, um cachorro.}
+{263}{}{Oh, tÃ£o quente.}
+{264}{}{Ela Ã© tÃ£o bonita.}
+{265}{}{Oh, blackout e... Merda, eu nÃ£o posso ver.}
+{270}{}{Uau, vocÃª vÃª isso?}
+{271}{}{Sim, vocÃª sabe o que era?}
+{272}{}{Eu acho que ele era um pÃ¡ssaro.}
+{273}{}{NÃ£o, um cachorro.}
 {274}{}{Mas estava voando, cara.}
-{275}{}{De jeito nenhum - aumentou o zoom no chão.}
-{276}{}{Sim, você está vendo coisas, cara.}
+{275}{}{De jeito nenhum - aumentou o zoom no chÃ£o.}
+{276}{}{Sim, vocÃª estÃ¡ vendo coisas, cara.}
 {277}{}{De jeito nenhum. Isso foi real.}
 {278}{}{Seja o que for.}
-{279}{}{Ohhhh está chutando novamente. Ahh.}
+{279}{}{Ohhhh estÃ¡ chutando novamente. Ahh.}
 {290}{}{Luzes bonitas.}
 {291}{}{Muitas luzes.}
-{292}{}{Eles são tão quentes.}
-{293}{}{E as árvores.}
-{294}{}{Onde estão as mulheres?}
-{295}{}{Tão verde e bonito.}
+{292}{}{Eles sÃ£o tÃ£o quentes.}
+{293}{}{E as Ã¡rvores.}
+{294}{}{Onde estÃ£o as mulheres?}
+{295}{}{TÃ£o verde e bonito.}
 {296}{}{Eu gosto de batatas.}
-{297}{}{As árvores são feitas de madeira.}
+{297}{}{As Ã¡rvores sÃ£o feitas de madeira.}
 {298}{}{Eu gosto de mulheres e batatas.}
-{299}{}{Elas fazem fumaça quando queimam.}
-{300}{}{Mas não juntos.}
-{301}{}{Os animais vivem em árvores.}
-{302}{}{Não, as mulheres e as árvores, as mulheres e as batatas.}
-{303}{}{Eu posso subir em uma árvore.}
-{304}{}{Uma mulher escalando uma árvore comendo batatas? Você é idiota.}
-{305}{}{De onde vêm as árvores?}
-{306}{}{Você não pode escalar uma árvore e comer batatas.}
-{307}{}{Eu gosto de arbustos, também.}
-{308}{}{Bem, não muito facilmente.}
-{309}{}{Porque eles são verdes.}
-{310}{}{As batatas não são verdes.}
+{299}{}{Elas fazem fumaÃ§a quando queimam.}
+{300}{}{Mas nÃ£o juntos.}
+{301}{}{Os animais vivem em Ã¡rvores.}
+{302}{}{NÃ£o, as mulheres e as Ã¡rvores, as mulheres e as batatas.}
+{303}{}{Eu posso subir em uma Ã¡rvore.}
+{304}{}{Uma mulher escalando uma Ã¡rvore comendo batatas? VocÃª Ã© idiota.}
+{305}{}{De onde vÃªm as Ã¡rvores?}
+{306}{}{VocÃª nÃ£o pode escalar uma Ã¡rvore e comer batatas.}
+{307}{}{Eu gosto de arbustos, tambÃ©m.}
+{308}{}{Bem, nÃ£o muito facilmente.}
+{309}{}{Porque eles sÃ£o verdes.}
+{310}{}{As batatas nÃ£o sÃ£o verdes.}
 {311}{}{Ohhh, as lindas luzes.}
-{312}{}{Oh, minha cabeça dói…}
-{320}{}{Não fale comigo, cara. Minha cabeça dói.}
-{321}{}{Não vou contar a ninguém.}
-{322}{}{Não me machucar.}
-{323}{}{Eu não fiz nada.}
-{324}{}{Eu não vi nada.}
-{325}{}{Eu não ouvi nada.}
-{326}{}{Por favor, é só deixar.}
-{327}{}{Senhora, eu não me sinto muito a vontade de falar. A porra da minha cabeça está me matando.}
-{340}{}{Oh cara, você suga.}
-{341}{}{O que fez você ir e arruinar uma alta perfeita?}
+{312}{}{Oh, minha cabeÃ§a dÃ³iâ€¦}
+{320}{}{NÃ£o fale comigo, cara. Minha cabeÃ§a dÃ³i.}
+{321}{}{NÃ£o vou contar a ninguÃ©m.}
+{322}{}{NÃ£o me machucar.}
+{323}{}{Eu nÃ£o fiz nada.}
+{324}{}{Eu nÃ£o vi nada.}
+{325}{}{Eu nÃ£o ouvi nada.}
+{326}{}{Por favor, Ã© sÃ³ deixar.}
+{327}{}{Senhora, eu nÃ£o me sinto muito a vontade de falar. A porra da minha cabeÃ§a estÃ¡ me matando.}
+{340}{}{Oh cara, vocÃª suga.}
+{341}{}{O que fez vocÃª ir e arruinar uma alta perfeita?}
 {342}{}{Homem, isso doeu!}
 {343}{}{O que o inferno?}
-{344}{}{Como é que isso vai acontecer?}
-{400}{}{Tubby é tão maravilhoso.}
-{401}{}{Jet me deixa tão excitada.}
+{344}{}{Como Ã© que isso vai acontecer?}
+{400}{}{Tubby Ã© tÃ£o maravilhoso.}
+{401}{}{Jet me deixa tÃ£o excitada.}
 {402}{}{Tubby sabe como cuidar de suas mulheres!}
-{403}{}{Não é Tubby maravilhoso?}
-{404}{}{Oh, baby - Espera! Você não é Tubby.}
-{405}{}{Onde está o nosso grande homem?}
-{406}{}{Não faz apenas a sua pele tremer?}
+{403}{}{NÃ£o Ã© Tubby maravilhoso?}
+{404}{}{Oh, baby - Espera! VocÃª nÃ£o Ã© Tubby.}
+{405}{}{Onde estÃ¡ o nosso grande homem?}
+{406}{}{NÃ£o faz apenas a sua pele tremer?}
 {407}{}{Tubby tem o melhor fornecimento na cidade.}
-{408}{}{Eu me sinto tão vivo!}
-{420}{}{Você ouviu um estrondo alto?}
-{421}{}{Não vi Tubby há algum tempo.}
-{422}{}{Onde está Tubby?}
-{423}{}{Você viu Tubby?}
-{440}{}{Oh!minha cabeça!}
-{441}{}{Onde está Tubby! Eu acho que eu vou morrer!}
-{442}{}{Eu não posso levar isso muito mais tempo.}
-{443}{}{Ah, a dor está ficando muito ruim.}
-{444}{}{Tubby não nos deu nenhum por um tempo. Onde ele está?}
-{445}{}{Meus lábios estão dormentes.}
+{408}{}{Eu me sinto tÃ£o vivo!}
+{420}{}{VocÃª ouviu um estrondo alto?}
+{421}{}{NÃ£o vi Tubby hÃ¡ algum tempo.}
+{422}{}{Onde estÃ¡ Tubby?}
+{423}{}{VocÃª viu Tubby?}
+{440}{}{Oh!minha cabeÃ§a!}
+{441}{}{Onde estÃ¡ Tubby! Eu acho que eu vou morrer!}
+{442}{}{Eu nÃ£o posso levar isso muito mais tempo.}
+{443}{}{Ah, a dor estÃ¡ ficando muito ruim.}
+{444}{}{Tubby nÃ£o nos deu nenhum por um tempo. Onde ele estÃ¡?}
+{445}{}{Meus lÃ¡bios estÃ£o dormentes.}
 {446}{}{Eu consigo sentir os meus dedos.}
-{460}{}{Não me machucar!}
-{461}{}{Por favor, não!}
-{462}{}{Não entendi!}
-{463}{}{Não fui eu!}
+{460}{}{NÃ£o me machucar!}
+{461}{}{Por favor, nÃ£o!}
+{462}{}{NÃ£o entendi!}
+{463}{}{NÃ£o fui eu!}
 {464}{}{Deixe-me em paz!}
-{465}{}{Eu não sabia que era seu!}
+{465}{}{Eu nÃ£o sabia que era seu!}

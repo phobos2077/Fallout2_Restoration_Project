@@ -1,3 +1,3 @@
-{100}{}{P³oszysz stado sêpów ¿eruj¹cych na martwym stadzie bramin.}
-{101}{}{O rany! Nie ma niczego gorszego ni¿ zapach miêsa gnij¹cego w s³oñcu.}
-{102}{}{Mój Bo¿e, to Bess!}
+{100}{}{PÅ‚oszysz stado sÄ™pÃ³w Å¼erujÄ…cych na martwym stadzie bramin.}
+{101}{}{O rany! Nie ma niczego gorszego niÅ¼ zapach miÄ™sa gnijÄ…cego w sÅ‚oÅ„cu.}
+{102}{}{MÃ³j BoÅ¼e, to Bess!}

@@ -1,3 +1,3 @@
 {100}{}{Choisis un navire.}
-{101}{}{Aire de déchargement des Hélicos.}
-{102}{}{Hall d'entrée.}
+{101}{}{Aire de dÃ©chargement des HÃ©licos.}
+{102}{}{Hall d'entrÃ©e.}

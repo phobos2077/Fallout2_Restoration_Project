@@ -1,4 +1,4 @@
-{100}{}{Egy üregen át egy barlangba estél.}
-{101}{}{Egy üreget látsz a barlang padlóján.}
-{102}{}{ egy üreget lát a barlang padlóján.}
-{103}{}{Egy üreget látsz a barlang padlóján.}
+{100}{}{Egy Ã¼regen Ã¡t egy barlangba estÃ©l.}
+{101}{}{Egy Ã¼reget lÃ¡tsz a barlang padlÃ³jÃ¡n.}
+{102}{}{ egy Ã¼reget lÃ¡t a barlang padlÃ³jÃ¡n.}
+{103}{}{Egy Ã¼reget lÃ¡tsz a barlang padlÃ³jÃ¡n.}

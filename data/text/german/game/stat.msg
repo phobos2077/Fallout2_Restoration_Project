@@ -1,16 +1,16 @@
-{100}{}{Stärke}
+{100}{}{StÃ¤rke}
 {101}{}{Wahrnehmung}
 {102}{}{Ausdauer}
 {103}{}{Charisma}
 {104}{}{Intelligenz}
 {105}{}{Beweglichkeit}
-{106}{}{Glück}
+{106}{}{GlÃ¼ck}
 {107}{}{Trefferpunkte}
 {108}{}{Aktionspunkte}
-{109}{}{Rüstung}
+{109}{}{RÃ¼stung}
 {110}{}{Schaden ohne Bewaffnung}
 {111}{}{Nahkampf-Sch.}
-{112}{}{Tragekapazität}
+{112}{}{TragekapazitÃ¤t}
 {113}{}{Reaktion}
 {114}{}{Heilung}
 {115}{}{Kritische Treffer}
@@ -36,22 +36,22 @@
 {135}{}{Trefferpunkte}
 {136}{}{Vergiftungsgrad}
 {137}{}{Verstrahlungsgrad}
-{200}{}{Rohe körperliche Gewalt. Große Stärke ist für körperbetonte Figuren wichtig. Beeinflusst: Trefferpunkte, Schaden im Nahkampf und Tragekapazität.}
-{201}{}{Fähigkeit, ungewöhnliche Dinge zu sehen, zu hören, zu schmecken und wahrzunehmen. Eine gute Wahrnehmung ist z.B. für Scharfschützen wichtig. Beeinflusst: Reaktions- und Distanzkampffaktoren.}
-{202}{}{Kondition und Belastbarkeit. Eine Figur mit hoher Ausdauer überlebt, wo andere längst sterben. Beeinflusst: Trefferpunkte, Resistenz gegen Gift u. Strahlung, Heilung, Zusatztrefferpunkte pro Level.}
-{203}{}{Kombination aus äußerer Erscheinung und Charme. Ein ausgeprägtes Charisma ist für Figuren wichtig, die Menschen mit Worten beeinflussen wollen. Beeinflusst: Reaktionen von inaktiven Figuren und Preise beim Handeln.}
-{204}{}{Wissen, Weisheit und schnelles Denkvermögen. Eine hohe Intelligenz ist für jede Figur wichtig. Beeinflusst: Anzahl der neuen Fähigkeitspunkte pro Level, Dialogoptionen und viele Fähigkeiten.}
-{205}{}{Koordination und geschickte Bewegung. Eine hohe Beweglichkeit ist für jede aktive Figur wichtig. Beeinflusst: Aktionspunkte, Rüstung, Reaktion und viele Fähigkeiten.}
-{206}{}{Schicksal oder Karma. Ein extrem hoher oder niedriger Glückswert wirkt sich auf irgendeine Art auf die Figur aus. Ereignisse und Situationen ändern sich in Abhängigkeit davon, wie viel oder wenig Glück eine Figur hat.}
+{200}{}{Rohe kÃ¶rperliche Gewalt. GroÃŸe StÃ¤rke ist fÃ¼r kÃ¶rperbetonte Figuren wichtig. Beeinflusst: Trefferpunkte, Schaden im Nahkampf und TragekapazitÃ¤t.}
+{201}{}{FÃ¤higkeit, ungewÃ¶hnliche Dinge zu sehen, zu hÃ¶ren, zu schmecken und wahrzunehmen. Eine gute Wahrnehmung ist z.B. fÃ¼r ScharfschÃ¼tzen wichtig. Beeinflusst: Reaktions- und Distanzkampffaktoren.}
+{202}{}{Kondition und Belastbarkeit. Eine Figur mit hoher Ausdauer Ã¼berlebt, wo andere lÃ¤ngst sterben. Beeinflusst: Trefferpunkte, Resistenz gegen Gift u. Strahlung, Heilung, Zusatztrefferpunkte pro Level.}
+{203}{}{Kombination aus Ã¤uÃŸerer Erscheinung und Charme. Ein ausgeprÃ¤gtes Charisma ist fÃ¼r Figuren wichtig, die Menschen mit Worten beeinflussen wollen. Beeinflusst: Reaktionen von inaktiven Figuren und Preise beim Handeln.}
+{204}{}{Wissen, Weisheit und schnelles DenkvermÃ¶gen. Eine hohe Intelligenz ist fÃ¼r jede Figur wichtig. Beeinflusst: Anzahl der neuen FÃ¤higkeitspunkte pro Level, Dialogoptionen und viele FÃ¤higkeiten.}
+{205}{}{Koordination und geschickte Bewegung. Eine hohe Beweglichkeit ist fÃ¼r jede aktive Figur wichtig. Beeinflusst: Aktionspunkte, RÃ¼stung, Reaktion und viele FÃ¤higkeiten.}
+{206}{}{Schicksal oder Karma. Ein extrem hoher oder niedriger GlÃ¼ckswert wirkt sich auf irgendeine Art auf die Figur aus. Ereignisse und Situationen Ã¤ndern sich in AbhÃ¤ngigkeit davon, wie viel oder wenig GlÃ¼ck eine Figur hat.}
 {207}{}{Die Verletzungen, die deine Figur verkraften kann, bevor sie stirbt. Wenn du null oder weniger Trefferpunkte erreichst, bist du tot.}
-{208}{}{Die Anzahl der Aktionen, die eine Figur durchführen kann, wenn sie am Zug ist.}
+{208}{}{Die Anzahl der Aktionen, die eine Figur durchfÃ¼hren kann, wenn sie am Zug ist.}
 {209}{}{Beeinflusst die Wahrscheinlichkeit, dass diese Figur getroffen wird.}
-{210}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
-{211}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
-{212}{}{Das Höchstgewicht der Ausrüstung, die deine Figur tragen kann, angegeben in Pfund.}
+{210}{}{Der zusÃ¤tzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
+{211}{}{Der zusÃ¤tzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
+{212}{}{Das HÃ¶chstgewicht der AusrÃ¼stung, die deine Figur tragen kann, angegeben in Pfund.}
 {213}{}{Legt fest, wie schnell deine Figur im Kampf reagieren kann.}
 {214}{}{Am Ende eines jeden Tages heilt deine Figur einen Trefferpunkt mit einem Heilungspunkt. Wenn du dich ausruhst, erfolgt die Heilung alle sechs Stunden.}
-{215}{}{Die Wahrscheinlichkeit, im Kampf einen kritischen Treffer zu landen, wird um diesen Prozentsatz erhöht.}
+{215}{}{Die Wahrscheinlichkeit, im Kampf einen kritischen Treffer zu landen, wird um diesen Prozentsatz erhÃ¶ht.}
 {216}{}{Bessere kritische Treffer}
 {217}{}{Verletzungsschwelle}
 {218}{}{Verletzungsschwelle - Laser}
@@ -60,7 +60,7 @@
 {221}{}{Verletzungsschwelle - Elektrisch}
 {222}{}{Verletzungsschwelle - EMP}
 {223}{}{Verletzungsschwelle - Explosion}
-{224}{}{Jede Verletzung wird um diesen Prozentsatz verringert. Die Verletzungsresistenz kann durch das Tragen einer Rüstung erhöht werden.}
+{224}{}{Jede Verletzung wird um diesen Prozentsatz verringert. Die Verletzungsresistenz kann durch das Tragen einer RÃ¼stung erhÃ¶ht werden.}
 {225}{}{Verletzungsresistenz - Laser}
 {226}{}{Verletzungsresistenz - Feuer}
 {227}{}{Verletzungsresistenz - Plasma}
@@ -74,9 +74,9 @@
 {235}{}{Trefferpunkte}
 {236}{}{Vergiftungsgrad}
 {237}{}{Verstrahlungsgrad}
-{301}{}{Übel}
+{301}{}{Ãœbel}
 {302}{}{Mies}
-{303}{}{Dürftig}
+{303}{}{DÃ¼rftig}
 {304}{}{Leidlich}
 {305}{}{Mittel}
 {306}{}{Gut}
@@ -84,14 +84,14 @@
 {308}{}{Klasse}
 {309}{}{Super}
 {310}{}{Spitze}
-{400}{}{Übrige Fähigkeitspunkte}
+{400}{}{Ãœbrige FÃ¤higkeitspunkte}
 {401}{}{Level}
 {402}{}{Erfahrung}
 {403}{}{Ansehen}
 {404}{}{Karma}
-{500}{}{Punkte, die durch das Erreichen eines neuen Levels verdient wurden. Mit einem Punkt lässt sich eine Fähigkeit um 1 % oder eine Spezialkenntnis um 2 % erhöhen.}
-{501}{}{Die allgemeine Kompetenz einer Spielerfigur. Ein Maß für deine Erfahrung und Fähigkeiten.}
-{502}{}{Eine Belohnung für die Durchführung bestimmter Aufgaben oder das Besiegen des Feindes im Kampf. Um höhere Level zu erreichen, sind mehr Erfahrungspunkte erforderlich.}
-{503}{}{Was die Welt von deinen Handlungen und Taten weiß. Beeinflusst die Reaktionen von inaktiven Figuren.}
+{500}{}{Punkte, die durch das Erreichen eines neuen Levels verdient wurden. Mit einem Punkt lÃ¤sst sich eine FÃ¤higkeit um 1 % oder eine Spezialkenntnis um 2 % erhÃ¶hen.}
+{501}{}{Die allgemeine Kompetenz einer Spielerfigur. Ein MaÃŸ fÃ¼r deine Erfahrung und FÃ¤higkeiten.}
+{502}{}{Eine Belohnung fÃ¼r die DurchfÃ¼hrung bestimmter Aufgaben oder das Besiegen des Feindes im Kampf. Um hÃ¶here Level zu erreichen, sind mehr Erfahrungspunkte erforderlich.}
+{503}{}{Was die Welt von deinen Handlungen und Taten weiÃŸ. Beeinflusst die Reaktionen von inaktiven Figuren.}
 {504}{}{Die Auswirkungen deiner Handlungen. Wichtige Informationen werden angezeigt.}
 {600}{}{Du hast ein neues Level erreicht.}

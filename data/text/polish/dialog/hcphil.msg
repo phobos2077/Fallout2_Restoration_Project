@@ -1,128 +1,128 @@
 {100}{}{Widzisz ghula w fartuchu.}
-{101}{}{Widzisz barmana imieniem Phil. Wyciera szklankê.}
-{102}{}{Widzisz ghula w fartuchu, wycieraj¹cego szklankê. Jako, ¿e stoi za barem, zak³adasz, ¿e jest tutaj barmanem.}
-{103}{}{Czo³em, przybyszu. Witamy w mieœcie. Jak siê nazywasz?}
+{101}{}{Widzisz barmana imieniem Phil. Wyciera szklankÄ™.}
+{102}{}{Widzisz ghula w fartuchu, wycierajÄ…cego szklankÄ™. Jako, Å¼e stoi za barem, zakÅ‚adasz, Å¼e jest tutaj barmanem.}
+{103}{}{CzoÅ‚em, przybyszu. Witamy w mieÅ›cie. Jak siÄ™ nazywasz?}
 {104}{}{Moja?}
 {105}{}{!}
 {106}{}{.}
-{107}{}{Nie twój interes, koleœ.}
-{108}{}{Nie chcê ujawniaæ mojej to¿samoœci.}
-{109}{}{Nazywasz siê Moja? Ha! ¯artujê. Masz tu Nuka-Colê. Staraj siê nie przeszkadzaæ innym klientom.}
+{107}{}{Nie twÃ³j interes, koleÅ›.}
+{108}{}{Nie chcÄ™ ujawniaÄ‡ mojej toÅ¼samoÅ›ci.}
+{109}{}{Nazywasz siÄ™ Moja? Ha! Å»artujÄ™. Masz tu Nuka-ColÄ™. Staraj siÄ™ nie przeszkadzaÄ‡ innym klientom.}
 {110}{}{Dzienki!}
-{111}{}{, tak? Mi³o mi ciê poznaæ. Chcesz coœ do picia?}
+{111}{}{, tak? MiÅ‚o mi ciÄ™ poznaÄ‡. Chcesz coÅ› do picia?}
 {112}{}{Pici tak!}
 {113}{}{Och nie. Nie nie nie nie.}
-{114}{}{, mi³o mi ciê poznaæ. Jestem Phil, to mój interes. Czego siê napijesz?}
+{114}{}{, miÅ‚o mi ciÄ™ poznaÄ‡. Jestem Phil, to mÃ³j interes. Czego siÄ™ napijesz?}
 {115}{}{Nuka-Coli.}
 {116}{}{Piwa.}
 {117}{}{Zgnilca.}
 {118}{}{Nic nic.}
-{119}{}{Mo¿e innym razem. Czeœæ!}
-{120}{}{Jak sobie ¿yczysz. Niech ci bêdzie. Jestem Phil, to mój lokal. Czego siê napijesz?}
-{126}{}{To tajemnica, tak? No có¿, jak sobie chcesz. Ja nazywam siê Phil. Czego siê napijesz?}
+{119}{}{MoÅ¼e innym razem. CzeÅ›Ä‡!}
+{120}{}{Jak sobie Å¼yczysz. Niech ci bÄ™dzie. Jestem Phil, to mÃ³j lokal. Czego siÄ™ napijesz?}
+{126}{}{To tajemnica, tak? No cÃ³Å¼, jak sobie chcesz. Ja nazywam siÄ™ Phil. Czego siÄ™ napijesz?}
 {132}{}{Co chcesz? Piwo? Zgnilec? Nuka-Cola?}
 {133}{}{Pifo!}
 {134}{}{Zginiec!}
 {135}{}{Gola!}
-{136}{}{Powiedz mi jak siê ju¿ na coœ zdecydujesz. A póki co spróbuj nie przeszkadzaæ innym klientom, dobrze?}
+{136}{}{Powiedz mi jak siÄ™ juÅ¼ na coÅ› zdecydujesz. A pÃ³ki co sprÃ³buj nie przeszkadzaÄ‡ innym klientom, dobrze?}
 {137}{}{Bo-bra!}
-{138}{}{Jedno piwko, ju¿ siê robi. To bêdzie $3, $1 napiwku. W sumie $4.}
+{138}{}{Jedno piwko, juÅ¼ siÄ™ robi. To bÄ™dzie $3, $1 napiwku. W sumie $4.}
 {139}{}{Tu!}
-{140}{}{Nie mieæ.}
-{141}{}{Musisz mieæ mocn¹ g³owê, ch³opie! To bêdzie $5, plus $1 napiwku, czyli w sumie $6.}
-{142}{}{Musisz mieæ mocn¹ g³owê, dziewczyno! To bêdzie $5, plus $1 napiwku, czyli w sumie $6.}
-{145}{}{Dobry wybór, œwietnie dzia³a na cerê. To bêdzie 2$. Nie musisz nawet dawaæ napiwku.}
-{148}{}{. Jak zechcesz jeszcze coœ do picia to pogadaj ze mn¹, rozumiesz?}
+{140}{}{Nie mieÄ‡.}
+{141}{}{Musisz mieÄ‡ mocnÄ… gÅ‚owÄ™, chÅ‚opie! To bÄ™dzie $5, plus $1 napiwku, czyli w sumie $6.}
+{142}{}{Musisz mieÄ‡ mocnÄ… gÅ‚owÄ™, dziewczyno! To bÄ™dzie $5, plus $1 napiwku, czyli w sumie $6.}
+{145}{}{Dobry wybÃ³r, Å›wietnie dziaÅ‚a na cerÄ™. To bÄ™dzie 2$. Nie musisz nawet dawaÄ‡ napiwku.}
+{148}{}{. Jak zechcesz jeszcze coÅ› do picia to pogadaj ze mnÄ…, rozumiesz?}
 {149}{}{Bo-bra!}
-{150}{}{! Chcesz coœ do picia?}
+{150}{}{! Chcesz coÅ› do picia?}
 {151}{}{Pici tak!}
 {152}{}{Pici nie!}
 {153}{}{Hej, Moja! Witaj ponownie. Mam tu dla ciebie specjalne miejsce.}
 {154}{}{Dzienki!}
-{155}{}{To bêdzie $2.}
-{156}{}{To bêdzie $4.}
-{157}{}{To bêdzie $5.}
-{158}{}{Proszê bardzo.}
-{159}{}{[Daj Philowi $1 napiwku] Proszê, Phil.}
-{160}{}{[Daj Philowi $2 napiwku] Dziêki, Phil.}
-{161}{}{Uuups, jestem sp³ukany. }
-{162}{}{Niczego? Ha. Ha. W tym lokalu nie mo¿na siedzieæ o suchym pysku. Mam rachunki do zap³acenia, rozumiesz, nie? A WIÊC! Czego siê napijesz?}
-{167}{}{Daruj sobie. Spadam st¹d.}
-{168}{}{Pogadamy jak coœ kupisz. Czego sobie ¿yczysz?}
-{173}{}{Daruj sobie, nie chcê twoich drinków!}
-{174}{}{Dziêki. Coœ jeszcze?}
-{175}{}{Hej, dziêki! Coœ jeszcze?}
-{176}{}{O rany! Dziêki! Co jeszcze mogê dla ciebie zrobiæ?}
-{177}{}{Chcê jeszcze coœ do picia.}
-{178}{}{Co s³ychaæ w mieœcie?}
-{179}{}{Jest tu coœ do roboty?}
-{180}{}{Co s³ychaæ?}
-{181}{}{Nic takiego. Nie zawracaj sobie g³owy.}
-{182}{}{Sp³ukany, tak? Szkoda. Mo¿esz tu posiedzieæ, tylko nie wkurzaj klientów. Muszê wracaæ do pracy. Trzymaj siê.}
+{155}{}{To bÄ™dzie $2.}
+{156}{}{To bÄ™dzie $4.}
+{157}{}{To bÄ™dzie $5.}
+{158}{}{ProszÄ™ bardzo.}
+{159}{}{[Daj Philowi $1 napiwku] ProszÄ™, Phil.}
+{160}{}{[Daj Philowi $2 napiwku] DziÄ™ki, Phil.}
+{161}{}{Uuups, jestem spÅ‚ukany. }
+{162}{}{Niczego? Ha. Ha. W tym lokalu nie moÅ¼na siedzieÄ‡ o suchym pysku. Mam rachunki do zapÅ‚acenia, rozumiesz, nie? A WIÄ˜C! Czego siÄ™ napijesz?}
+{167}{}{Daruj sobie. Spadam stÄ…d.}
+{168}{}{Pogadamy jak coÅ› kupisz. Czego sobie Å¼yczysz?}
+{173}{}{Daruj sobie, nie chcÄ™ twoich drinkÃ³w!}
+{174}{}{DziÄ™ki. CoÅ› jeszcze?}
+{175}{}{Hej, dziÄ™ki! CoÅ› jeszcze?}
+{176}{}{O rany! DziÄ™ki! Co jeszcze mogÄ™ dla ciebie zrobiÄ‡?}
+{177}{}{ChcÄ™ jeszcze coÅ› do picia.}
+{178}{}{Co sÅ‚ychaÄ‡ w mieÅ›cie?}
+{179}{}{Jest tu coÅ› do roboty?}
+{180}{}{Co sÅ‚ychaÄ‡?}
+{181}{}{Nic takiego. Nie zawracaj sobie gÅ‚owy.}
+{182}{}{SpÅ‚ukany, tak? Szkoda. MoÅ¼esz tu posiedzieÄ‡, tylko nie wkurzaj klientÃ³w. MuszÄ™ wracaÄ‡ do pracy. Trzymaj siÄ™.}
 {183}{}{Na razie!}
-{184}{}{Hej! Witaj ponownie. Czego siê napijesz?}
-{185}{}{Witaj ponownie. Czego siê napijesz?}
-{186}{}{Znowu ty? Czego siê napijesz?}
+{184}{}{Hej! Witaj ponownie. Czego siÄ™ napijesz?}
+{185}{}{Witaj ponownie. Czego siÄ™ napijesz?}
+{186}{}{Znowu ty? Czego siÄ™ napijesz?}
 {187}{}{Znowu ty? Czego chcesz?}
-{192}{}{Powiedzieæ ci jak siê nazywam. Jestem }
-{193}{}{Mo¿e innym razem. Czeœæ!}
-{194}{}{Dobra! Czego siê napijesz?}
-{198}{}{Co s³ychaæ w mieœcie? Có¿... }
-{199}{}{Dziêki. Mam jeszcze kilka pytañ. }
-{200}{}{Dziêki. Na razie.}
-{201}{}{Do roboty, do roboty... niech pomyœlê...}
-{202}{}{- wiêcej - }
-{203}{}{Ktoœ pomóg³ tym œwirom zwiaæ z wiêzienia!}
-{204}{}{Ktoœ zniszczy³ kopalniê! To miasto jest ju¿ skoñczone!}
-{205}{}{Wszyscy mutanci zginêli!}
+{192}{}{PowiedzieÄ‡ ci jak siÄ™ nazywam. Jestem }
+{193}{}{MoÅ¼e innym razem. CzeÅ›Ä‡!}
+{194}{}{Dobra! Czego siÄ™ napijesz?}
+{198}{}{Co sÅ‚ychaÄ‡ w mieÅ›cie? CÃ³Å¼... }
+{199}{}{DziÄ™ki. Mam jeszcze kilka pytaÅ„. }
+{200}{}{DziÄ™ki. Na razie.}
+{201}{}{Do roboty, do roboty... niech pomyÅ›lÄ™...}
+{202}{}{- wiÄ™cej - }
+{203}{}{KtoÅ› pomÃ³gÅ‚ tym Å›wirom zwiaÄ‡ z wiÄ™zienia!}
+{204}{}{KtoÅ› zniszczyÅ‚ kopalniÄ™! To miasto jest juÅ¼ skoÅ„czone!}
+{205}{}{Wszyscy mutanci zginÄ™li!}
 {206}{}{Niewiele.}
-{207}{}{Mam wiêcej pytañ.}
-{208}{}{Dziêki. Trzymaj siê.}
-{209}{}{Wygl¹dasz mi na kogoœ z niez³¹ par¹ w ³apie. Na pewno mo¿esz si³owaæ siê na rêkê z Francisem. To tamten mutant. Podobno ma jak¹œ nagrodê. Masz ochotê spróbowaæ? IdŸ, pogadaj z nim.}
-{210}{}{Dziêki. Coœ jeszcze?}
-{211}{}{Dziêki. Trzymaj siê.}
-{212}{}{Zaginê³o kilka osób. Nie wiemy gdzie. Jeœli uda ci siê ich odnaleŸæ na pewno dostaniesz jak¹œ nagrodê. Jeœli chcesz od czegoœ zacz¹æ, to pogadaj z Marcusem.}
-{213}{}{Dziêki. Coœ jeszcze?}
-{214}{}{Dziêki! Pogadamy póŸniej.}
-{215}{}{Hmm. Systemy uzdatniania powietrza w kopalni diabli wziêli. Pogadaj o tym Zaiusem.}
-{216}{}{W porz¹dku. Coœ jeszcze?}
-{217}{}{Dziêki. Trzymaj siê.}
-{218}{}{Podobno mo¿na siê ju¿ rozejrzeæ po kopalni. Cholera, jak uda ci siê znaleŸæ coœ ciekawego, mo¿e pozwol¹ ci to nawet zatrzymaæ.}
-{219}{}{Masz coœ jeszcze?}
-{220}{}{Dziêkujê.}
-{221}{}{Jasne! Dowiedz siê, gdzie podziewaj¹ siê te dwa œwiry: Franc i Manson!}
+{207}{}{Mam wiÄ™cej pytaÅ„.}
+{208}{}{DziÄ™ki. Trzymaj siÄ™.}
+{209}{}{WyglÄ…dasz mi na kogoÅ› z niezÅ‚Ä… parÄ… w Å‚apie. Na pewno moÅ¼esz siÅ‚owaÄ‡ siÄ™ na rÄ™kÄ™ z Francisem. To tamten mutant. Podobno ma jakÄ…Å› nagrodÄ™. Masz ochotÄ™ sprÃ³bowaÄ‡? IdÅº, pogadaj z nim.}
+{210}{}{DziÄ™ki. CoÅ› jeszcze?}
+{211}{}{DziÄ™ki. Trzymaj siÄ™.}
+{212}{}{ZaginÄ™Å‚o kilka osÃ³b. Nie wiemy gdzie. JeÅ›li uda ci siÄ™ ich odnaleÅºÄ‡ na pewno dostaniesz jakÄ…Å› nagrodÄ™. JeÅ›li chcesz od czegoÅ› zaczÄ…Ä‡, to pogadaj z Marcusem.}
+{213}{}{DziÄ™ki. CoÅ› jeszcze?}
+{214}{}{DziÄ™ki! Pogadamy pÃ³Åºniej.}
+{215}{}{Hmm. Systemy uzdatniania powietrza w kopalni diabli wziÄ™li. Pogadaj o tym Zaiusem.}
+{216}{}{W porzÄ…dku. CoÅ› jeszcze?}
+{217}{}{DziÄ™ki. Trzymaj siÄ™.}
+{218}{}{Podobno moÅ¼na siÄ™ juÅ¼ rozejrzeÄ‡ po kopalni. Cholera, jak uda ci siÄ™ znaleÅºÄ‡ coÅ› ciekawego, moÅ¼e pozwolÄ… ci to nawet zatrzymaÄ‡.}
+{219}{}{Masz coÅ› jeszcze?}
+{220}{}{DziÄ™kujÄ™.}
+{221}{}{Jasne! Dowiedz siÄ™, gdzie podziewajÄ… siÄ™ te dwa Å›wiry: Franc i Manson!}
 {222}{}{Jasne.}
 {223}{}{Rozumiem. Do zobaczenia.}
-{224}{}{Zawsze znajdzie siê jakaœ karawana ruszaj¹ca w drogê. Jeœli chcesz siê do którejœ za³apaæ, pogadaj z Billem. Poza tym niewiele jest tu do roboty. Przykro mi.}
-{225}{}{Dziêki! Mam jeszcze kilka pytañ.}
-{226}{}{W porz¹dku. Muszê ju¿ iœæ. Do zobaczenia.}
-{227}{}{Tak? Na przyk³ad?}
-{228}{}{Chcê jeszcze coœ do picia.}
-{229}{}{Co s³ychaæ w mieœcie?}
-{230}{}{Jest tu coœ do roboty?}
-{231}{}{Co s³ychaæ?}
-{232}{}{Nic takiego. Nie zawracaj sobie g³owy.}
-{233}{}{Mam nadziejê, ¿e siê nie obrazisz, ale tutejsi ludzie trochê siê wkurzyli, ¿e nie chcesz oddaæ tego uranu. Lepiej na siebie uwa¿aj. No dobra... Napijesz siê czegoœ?}
+{224}{}{Zawsze znajdzie siÄ™ jakaÅ› karawana ruszajÄ…ca w drogÄ™. JeÅ›li chcesz siÄ™ do ktÃ³rejÅ› zaÅ‚apaÄ‡, pogadaj z Billem. Poza tym niewiele jest tu do roboty. Przykro mi.}
+{225}{}{DziÄ™ki! Mam jeszcze kilka pytaÅ„.}
+{226}{}{W porzÄ…dku. MuszÄ™ juÅ¼ iÅ›Ä‡. Do zobaczenia.}
+{227}{}{Tak? Na przykÅ‚ad?}
+{228}{}{ChcÄ™ jeszcze coÅ› do picia.}
+{229}{}{Co sÅ‚ychaÄ‡ w mieÅ›cie?}
+{230}{}{Jest tu coÅ› do roboty?}
+{231}{}{Co sÅ‚ychaÄ‡?}
+{232}{}{Nic takiego. Nie zawracaj sobie gÅ‚owy.}
+{233}{}{Mam nadziejÄ™, Å¼e siÄ™ nie obrazisz, ale tutejsi ludzie trochÄ™ siÄ™ wkurzyli, Å¼e nie chcesz oddaÄ‡ tego uranu. Lepiej na siebie uwaÅ¼aj. No dobra... Napijesz siÄ™ czegoÅ›?}
 {234}{}{Tak.}
-{235}{}{Nie. Ale mam kilka pytañ.}
-{236}{}{Paru ludzi mo¿e siê wkurzyæ przez tê ca³¹ sprawê z Chadem. Lepiej uwa¿aj na siebie. Napijesz siê czegoœ?}
+{235}{}{Nie. Ale mam kilka pytaÅ„.}
+{236}{}{Paru ludzi moÅ¼e siÄ™ wkurzyÄ‡ przez tÄ™ caÅ‚Ä… sprawÄ™ z Chadem. Lepiej uwaÅ¼aj na siebie. Napijesz siÄ™ czegoÅ›?}
 {237}{}{Tak.}
-{238}{}{Nie. Ale mam kilka pytañ.}
-{239}{}{Wszyscy mutanci zginêli. Ktoœ wysadzi³ ca³¹ kopalniê, kiedy byli na dole. Jakiœ sukinsyn paskudnie ich za³atwi³. Strach pomyœleæ jakich œwirów nosi ta ziemia. Cholera... Napijesz siê czegoœ?}
+{238}{}{Nie. Ale mam kilka pytaÅ„.}
+{239}{}{Wszyscy mutanci zginÄ™li. KtoÅ› wysadziÅ‚ caÅ‚Ä… kopalniÄ™, kiedy byli na dole. JakiÅ› sukinsyn paskudnie ich zaÅ‚atwiÅ‚. Strach pomyÅ›leÄ‡ jakich Å›wirÃ³w nosi ta ziemia. Cholera... Napijesz siÄ™ czegoÅ›?}
 {240}{}{Tak.}
-{241}{}{Nie. Ale mam za to kilka pytañ.}
-{242}{}{Wynoœ siê z mojego baru. Ale ju¿!}
+{241}{}{Nie. Ale mam za to kilka pytaÅ„.}
+{242}{}{WynoÅ› siÄ™ z mojego baru. Ale juÅ¼!}
 {300}{}{!}
 {301}{}{.}
-{302}{}{Có¿, }
-{303}{}{Dziêki, }
+{302}{}{CÃ³Å¼, }
+{303}{}{DziÄ™ki, }
 {304}{}{Witaj znowu, }
 {305}{}{Hej, }
 {306}{}{Znowu ty, }
-{307}{}{Nie ma sprawy. Masz tu swojego drinka. Hej, co jeszcze mogê dla ciebie zrobiæ?}
-{308}{}{Dziêki za te wszystkie napiwki. Mo¿e jakoœ ci siê odwdziêczê. Podobno Liz, ta od sklepu, trzyma broñ w skrytce w piwnicy. Ale ja ci nic nie mówi³em!}
-{309}{}{Dziêki, Phil. Zachowam to w... pod moim... uch... kapeluszem, czy coœ.}
-{1981}{}{Paru œwirów zamknêli za szerzenie rasistowskiej propagandy.}
-{1982}{}{Pad³y systemy uzdatniaj¹ce w kopalni.}
-{1983}{}{Pe³no tu karawan. To akurat jest w normie.}
-{1984}{}{Mów dalej.}
+{307}{}{Nie ma sprawy. Masz tu swojego drinka. Hej, co jeszcze mogÄ™ dla ciebie zrobiÄ‡?}
+{308}{}{DziÄ™ki za te wszystkie napiwki. MoÅ¼e jakoÅ› ci siÄ™ odwdziÄ™czÄ™. Podobno Liz, ta od sklepu, trzyma broÅ„ w skrytce w piwnicy. Ale ja ci nic nie mÃ³wiÅ‚em!}
+{309}{}{DziÄ™ki, Phil. Zachowam to w... pod moim... uch... kapeluszem, czy coÅ›.}
+{1981}{}{Paru Å›wirÃ³w zamknÄ™li za szerzenie rasistowskiej propagandy.}
+{1982}{}{PadÅ‚y systemy uzdatniajÄ…ce w kopalni.}
+{1983}{}{PeÅ‚no tu karawan. To akurat jest w normie.}
+{1984}{}{MÃ³w dalej.}

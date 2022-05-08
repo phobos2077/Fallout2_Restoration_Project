@@ -1,51 +1,51 @@
-{100}{}{Widzisz szamana nomadów.}
-{101}{}{Wygl¹da na szamana nomadów.}
-{102}{}{Od jego ubrañ czuæ silny zapach zió³.}
+{100}{}{Widzisz szamana nomadÃ³w.}
+{101}{}{WyglÄ…da na szamana nomadÃ³w.}
+{102}{}{Od jego ubraÅ„ czuÄ‡ silny zapach ziÃ³Å‚.}
 {103}{}{Witaj, jestem szamanem tego plemienia. Posiadam dar leczenia ludzi.}
 {104}{}{Witaj ponownie.}
-{105}{}{Potrzebujê lekarza.}
-{106}{}{Czy potrafisz po³¹czyæ korzeñ xandrowy z kwiatem Broca?}
+{105}{}{PotrzebujÄ™ lekarza.}
+{106}{}{Czy potrafisz poÅ‚Ä…czyÄ‡ korzeÅ„ xandrowy z kwiatem Broca?}
 {107}{}{Bywaj.}
 {108}{}{Uuga.}
-{109}{}{Nie ruszaj siê przez chwilê. Zbadam ciê.}
+{109}{}{Nie ruszaj siÄ™ przez chwilÄ™. Zbadam ciÄ™.}
 {110}{}{[Dalej.]}
-{111}{}{Wykry³em nastêpuj¹ce dolegliwoœci:}
-{112}{}{Mo¿esz mi pomóc?}
-{113}{}{Za odpowiedni¹ cenê mogê zrobiæ nastêpuj¹ce rzeczy:}
-{114}{}{Proszê, usuñ truciznê z mojego organizmu.}
+{111}{}{WykryÅ‚em nastÄ™pujÄ…ce dolegliwoÅ›ci:}
+{112}{}{MoÅ¼esz mi pomÃ³c?}
+{113}{}{Za odpowiedniÄ… cenÄ™ mogÄ™ zrobiÄ‡ nastÄ™pujÄ…ce rzeczy:}
+{114}{}{ProszÄ™, usuÅ„ truciznÄ™ z mojego organizmu.}
 {115}{}{Wylecz mnie.}
-{116}{}{Zobacz czy mo¿esz coœ poradziæ na moj¹ z³aman¹ koñczynê.}
+{116}{}{Zobacz czy moÅ¼esz coÅ› poradziÄ‡ na mojÄ… zÅ‚amanÄ… koÅ„czynÄ™.}
 {117}{}{Bywaj.}
-{118}{}{Twoje cia³o zosta³o uleczone.}
-{119}{}{Twoje cia³o zosta³o uleczone.}
-{120}{}{Twoje cia³o zosta³o uleczone.}
-{121}{}{Musisz mi pomóc w czymœ jeszcze.}
-{122}{}{Dziêkujê. Czujê siê ju¿ du¿o lepiej. ¯egnaj.}
-{123}{}{Moja moc jest ograniczona. W tej kwestii nie mogê ci ju¿ bardziej pomóc.}
+{118}{}{Twoje ciaÅ‚o zostaÅ‚o uleczone.}
+{119}{}{Twoje ciaÅ‚o zostaÅ‚o uleczone.}
+{120}{}{Twoje ciaÅ‚o zostaÅ‚o uleczone.}
+{121}{}{Musisz mi pomÃ³c w czymÅ› jeszcze.}
+{122}{}{DziÄ™kujÄ™. CzujÄ™ siÄ™ juÅ¼ duÅ¼o lepiej. Å»egnaj.}
+{123}{}{Moja moc jest ograniczona. W tej kwestii nie mogÄ™ ci juÅ¼ bardziej pomÃ³c.}
 {124}{}{[Dalej.]}
 {125}{}{Nie potrzebujesz takiego leczenia.}
 {126}{}{[Dalej.]}
-{127}{}{Aach... A wiêc znane ci s¹ lecznicze w³aœciwoœci tych dwóch roœlin. Chcê tylko}
-{128}{}{Po³¹cz dla mnie te dwie roœliny.}
-{129}{}{Mo¿e innym razem. ¯egnaj.}
-{130}{}{[Obserwujesz jak szaman ostro¿nie zgniata i miesza dwie roœliny, po czym daje ci precyzyjnie odmierzon¹ mieszankê.]}
+{127}{}{Aach... A wiÄ™c znane ci sÄ… lecznicze wÅ‚aÅ›ciwoÅ›ci tych dwÃ³ch roÅ›lin. ChcÄ™ tylko}
+{128}{}{PoÅ‚Ä…cz dla mnie te dwie roÅ›liny.}
+{129}{}{MoÅ¼e innym razem. Å»egnaj.}
+{130}{}{[Obserwujesz jak szaman ostroÅ¼nie zgniata i miesza dwie roÅ›liny, po czym daje ci precyzyjnie odmierzonÄ… mieszankÄ™.]}
 {131}{}{Bywaj.}
-{132}{}{Widzê, ¿e brakujê ci trochê gotówki. Wróæ, kiedy twój portfel przybierze na wadze.}
+{132}{}{WidzÄ™, Å¼e brakujÄ™ ci trochÄ™ gotÃ³wki. WrÃ³Ä‡, kiedy twÃ³j portfel przybierze na wadze.}
 {133}{}{[KONIEC]}
-{134}{}{Nie mam czasu na taki bzdury. IdŸ sobie!}
+{134}{}{Nie mam czasu na taki bzdury. IdÅº sobie!}
 {135}{}{[KONIEC]}
 {136}{}{[Trucizna]}
 {137}{}{[Rana]}
 {138}{}{[Napromieniowanie]}
 {139}{}{[Okaleczenie]}
 {140}{}{Odtrucie,}
-{141}{}{Nastawienie z³amanych koñczyn,}
+{141}{}{Nastawienie zÅ‚amanych koÅ„czyn,}
 {142}{}{Uzdrowienie $}
 {143}{}{Niewierny pies!}
 {144}{}{Dlaczego nas atakujesz?}
-{145}{}{Oddam ¿ycie za moje plemiê!}
-{146}{}{Jak œmiesz odrzucaæ nasz¹ goœcinnoœæ.}
-{147}{}{OdejdŸ st¹d!}
+{145}{}{Oddam Å¼ycie za moje plemiÄ™!}
+{146}{}{Jak Å›miesz odrzucaÄ‡ naszÄ… goÅ›cinnoÅ›Ä‡.}
+{147}{}{OdejdÅº stÄ…d!}
 {148}{}{Zostaw nas.}
-{149}{}{Jesteœmy pokojowym plemieniem.}
-{150}{}{ za ich po³¹czenie.}
+{149}{}{JesteÅ›my pokojowym plemieniem.}
+{150}{}{ za ich poÅ‚Ä…czenie.}

@@ -1,16 +1,16 @@
-{100}{}{Widzisz pracuj¹cy komputer.}
-{101}{}{Wygl¹da, ¿e ten komputer sterujê bomb¹ atomow¹ w pokoju obok.}
-{200}{}{Witaj w PosejdoNet. Ten terminal s³u¿y do sterowania bomb¹ termoj¹drow¹ MK-17. Status bomby: Nieaktywna.}
-{201}{}{Aktywuj bombê.}
+{100}{}{Widzisz pracujÄ…cy komputer.}
+{101}{}{WyglÄ…da, Å¼e ten komputer sterujÄ™ bombÄ… atomowÄ… w pokoju obok.}
+{200}{}{Witaj w PosejdoNet. Ten terminal sÅ‚uÅ¼y do sterowania bombÄ… termojÄ…drowÄ… MK-17. Status bomby: Nieaktywna.}
+{201}{}{Aktywuj bombÄ™.}
 {202}{}{Wyloguj.}
-{210}{}{Aktywacja wymaga dwóch form autoryzacji. Autoryzacja poziomu 1: Czerwona Karta Reaktora, któr¹ otrzymuj¹ wysocy oficerowie armii Stanów Zjednoczonych. Autoryzacja poziomu 2: Prezydencki Klucz Dostêpu: który otrzymuje tylko prezydent Stanów Zjednoczonych Ameryki Pó³nocnej.}
-{220}{}{Wygl¹da na to, ¿e nie mam ich przy sobie.}
-{221}{}{U¿yj Czerwonej Karty Reaktora.}
-{222}{}{Karta dostêpu przyjêta. Autoryzacja poziomu 1 zaakceptowana. Wymagana autoryzacja poziomu 2.}
-{223}{}{U¿yj Prezydenckiego Klucza Dostêpu.}
-{224}{}{Wygl¹da, ¿e ci¹gle brakuje mi karty.}
-{225}{}{Klucz przyjêty. Autoryzacja poziomu 2 zaakceptowana.}
-{226}{}{Aktywuj bombê.}
+{210}{}{Aktywacja wymaga dwÃ³ch form autoryzacji. Autoryzacja poziomu 1: Czerwona Karta Reaktora, ktÃ³rÄ… otrzymujÄ… wysocy oficerowie armii StanÃ³w Zjednoczonych. Autoryzacja poziomu 2: Prezydencki Klucz DostÄ™pu: ktÃ³ry otrzymuje tylko prezydent StanÃ³w Zjednoczonych Ameryki PÃ³Å‚nocnej.}
+{220}{}{WyglÄ…da na to, Å¼e nie mam ich przy sobie.}
+{221}{}{UÅ¼yj Czerwonej Karty Reaktora.}
+{222}{}{Karta dostÄ™pu przyjÄ™ta. Autoryzacja poziomu 1 zaakceptowana. Wymagana autoryzacja poziomu 2.}
+{223}{}{UÅ¼yj Prezydenckiego Klucza DostÄ™pu.}
+{224}{}{WyglÄ…da, Å¼e ciÄ…gle brakuje mi karty.}
+{225}{}{Klucz przyjÄ™ty. Autoryzacja poziomu 2 zaakceptowana.}
+{226}{}{Aktywuj bombÄ™.}
 {227}{}{Wyloguj.}
-{228}{}{Bomba aktywna, wybuch za: 5 minut. B³¹d w procedurze odliczania. Odliczanie restartowane wybuch nast¹pi za: 5 sekund. Proszê siê upewniæ, ¿e odleg³oœæ od miejsca wybuchu to wiêcej ni¿ 80 mil. Mi³ego dnia.}
+{228}{}{Bomba aktywna, wybuch za: 5 minut. BÅ‚Ä…d w procedurze odliczania. Odliczanie restartowane wybuch nastÄ…pi za: 5 sekund. ProszÄ™ siÄ™ upewniÄ‡, Å¼e odlegÅ‚oÅ›Ä‡ od miejsca wybuchu to wiÄ™cej niÅ¼ 80 mil. MiÅ‚ego dnia.}
 {229}{}{O kurw...}

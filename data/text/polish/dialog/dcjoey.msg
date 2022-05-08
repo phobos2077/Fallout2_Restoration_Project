@@ -1,119 +1,119 @@
-{100}{}{Widzisz groŸnie wygl¹daj¹cego mê¿czyznê.}
+{100}{}{Widzisz groÅºnie wyglÄ…dajÄ…cego mÄ™Å¼czyznÄ™.}
 {101}{}{Widzisz Joey'a.}
-{150}{}{Ten goœæ nie wygl¹da zbyt przyjaŸnie.}
+{150}{}{Ten goÅ›Ä‡ nie wyglÄ…da zbyt przyjaÅºnie.}
 {151}{}{[ROZMAWIAJ]}
-{152}{}{Zaraz ciê potnê skurwielu!}
-{153}{}{Tak? ChodŸ i spróbuj.}
-{154}{}{Hej, poczekaj chwilkê!}
-{155}{}{Znasz takie powiedzenia, ¿eby zawsze zastanowiæ siê dwa razy? Mo¿e warto skorzystaæ z tej ludowej m¹droœci?}
-{156}{}{Czego chcesz? Liczysz na to, ¿e ciê po tym wszystkim wys³ucham? Podaj mi chocia¿ jeden powód dlaczego nie mia³bym ciê od razu zabiæ?}
-{157}{}{Mam kilka pytañ. Chodzi o ducha, który czasem krêci siê tutaj w nocy.}
-{158}{}{Czy wzi¹³eœ ten medalion z nawiedzonego domu?}
-{159}{}{Nic wa¿nego. Powetujê to sobie kopniakiem w twój ty³ek.}
-{160}{}{Nic. Tylko têdy przechodzê.}
-{161}{}{O czym u diab³a mówisz?}
-{162}{}{Ukrad³eœ medalion z tego nawiedzonego domu?}
-{163}{}{O niczym. Nie zawracaj sobie g³owy.}
-{164}{}{Niewa¿ne. Zamierzam teraz ciê zabiæ, czêœci posortujê sobie póŸniej.}
-{165}{}{J-ja nie wiem o czym mówisz.}
-{166}{}{Ach tak? Bo ja myœlê, ¿e dobrze wiesz! Ukrad³eœ medalion tej martwej dziewczyny i teraz jej dusza nie mo¿e zaznaæ spokoju.}
-{167}{}{W takim razie u¿yjê si³y, ¿eby ci go odebraæ.}
-{168}{}{T-to jakieœ k-kurwa sz-szaleñstwo! M-musia³o ciê n-nieŸle po-po-pierdoliæ po t-tym gównie od Tubby'ego. Kiedy tam b-by³em, to n-nie w-widzia³em ¿adnego d-ducha. To m-musia³ byæ z³y haluk, t-to nie m-mog³o byæ k-kurwa prawdziwe.}
-{169}{}{Zaczekaj, odkupiê go od ciebie.}
-{170}{}{Oddaj mi go, albo do niej do³¹czysz.}
-{171}{}{Jeœli nie zwrócisz go teraz, ona po ciebie przyjdzie. A jej nie da siê powstrzymaæ.}
-{172}{}{Hê? Naprawdê. Mo¿e. Ale musisz wybuliæ na to parê dolców. Nie dostaniesz go za darmo! $50 albo spadaj!}
-{173}{}{Dobra, oto pieni¹dze.}
-{174}{}{Bierz $20 i ciesz siê, ¿e ci go od tak nie zabiorê.}
-{175}{}{Albo nie, darujê sobie. Do zobaczenia.}
-{176}{}{Lepiej mi go daj, albo wezmê go sobie z twojego trupa.}
+{152}{}{Zaraz ciÄ™ potnÄ™ skurwielu!}
+{153}{}{Tak? ChodÅº i sprÃ³buj.}
+{154}{}{Hej, poczekaj chwilkÄ™!}
+{155}{}{Znasz takie powiedzenia, Å¼eby zawsze zastanowiÄ‡ siÄ™ dwa razy? MoÅ¼e warto skorzystaÄ‡ z tej ludowej mÄ…droÅ›ci?}
+{156}{}{Czego chcesz? Liczysz na to, Å¼e ciÄ™ po tym wszystkim wysÅ‚ucham? Podaj mi chociaÅ¼ jeden powÃ³d dlaczego nie miaÅ‚bym ciÄ™ od razu zabiÄ‡?}
+{157}{}{Mam kilka pytaÅ„. Chodzi o ducha, ktÃ³ry czasem krÄ™ci siÄ™ tutaj w nocy.}
+{158}{}{Czy wziÄ…Å‚eÅ› ten medalion z nawiedzonego domu?}
+{159}{}{Nic waÅ¼nego. PowetujÄ™ to sobie kopniakiem w twÃ³j tyÅ‚ek.}
+{160}{}{Nic. Tylko tÄ™dy przechodzÄ™.}
+{161}{}{O czym u diabÅ‚a mÃ³wisz?}
+{162}{}{UkradÅ‚eÅ› medalion z tego nawiedzonego domu?}
+{163}{}{O niczym. Nie zawracaj sobie gÅ‚owy.}
+{164}{}{NiewaÅ¼ne. Zamierzam teraz ciÄ™ zabiÄ‡, czÄ™Å›ci posortujÄ™ sobie pÃ³Åºniej.}
+{165}{}{J-ja nie wiem o czym mÃ³wisz.}
+{166}{}{Ach tak? Bo ja myÅ›lÄ™, Å¼e dobrze wiesz! UkradÅ‚eÅ› medalion tej martwej dziewczyny i teraz jej dusza nie moÅ¼e zaznaÄ‡ spokoju.}
+{167}{}{W takim razie uÅ¼yjÄ™ siÅ‚y, Å¼eby ci go odebraÄ‡.}
+{168}{}{T-to jakieÅ› k-kurwa sz-szaleÅ„stwo! M-musiaÅ‚o ciÄ™ n-nieÅºle po-po-pierdoliÄ‡ po t-tym gÃ³wnie od Tubby'ego. Kiedy tam b-byÅ‚em, to n-nie w-widziaÅ‚em Å¼adnego d-ducha. To m-musiaÅ‚ byÄ‡ zÅ‚y haluk, t-to nie m-mogÅ‚o byÄ‡ k-kurwa prawdziwe.}
+{169}{}{Zaczekaj, odkupiÄ™ go od ciebie.}
+{170}{}{Oddaj mi go, albo do niej doÅ‚Ä…czysz.}
+{171}{}{JeÅ›li nie zwrÃ³cisz go teraz, ona po ciebie przyjdzie. A jej nie da siÄ™ powstrzymaÄ‡.}
+{172}{}{HÄ™? NaprawdÄ™. MoÅ¼e. Ale musisz wybuliÄ‡ na to parÄ™ dolcÃ³w. Nie dostaniesz go za darmo! $50 albo spadaj!}
+{173}{}{Dobra, oto pieniÄ…dze.}
+{174}{}{Bierz $20 i ciesz siÄ™, Å¼e ci go od tak nie zabiorÄ™.}
+{175}{}{Albo nie, darujÄ™ sobie. Do zobaczenia.}
+{176}{}{Lepiej mi go daj, albo wezmÄ™ go sobie z twojego trupa.}
 {177}{}{Masz. Teraz zostaw mnie w spokoju.}
 {178}{}{Nareszcie.}
-{179}{}{Lepiej, ¿ebyœmy siê nie spotkali w podobnej sytuacji!}
-{180}{}{H-Hej! Przecie¿ ty nie masz pieniêdzy! IdŸ do diab³a!}
+{179}{}{Lepiej, Å¼ebyÅ›my siÄ™ nie spotkali w podobnej sytuacji!}
+{180}{}{H-Hej! PrzecieÅ¼ ty nie masz pieniÄ™dzy! IdÅº do diabÅ‚a!}
 {181}{}{Uups. Zaraz wracam.}
-{182}{}{Eee, a wiêc pozostaje mi tylko zabiæ ciê.}
+{182}{}{Eee, a wiÄ™c pozostaje mi tylko zabiÄ‡ ciÄ™.}
 {183}{}{Hej. Jak leci?}
-{184}{}{NieŸle, a jak u ciebie?}
+{184}{}{NieÅºle, a jak u ciebie?}
 {185}{}{Nie najlepiej.}
-{186}{}{Czy wzi¹³eœ medalion z tego nawiedzonego domu?}
-{187}{}{Co wiesz o duchu krêc¹cym siê noc¹ po okolicy?}
-{188}{}{Hej, koleœ, jestem Joey. Co robisz na moim terenie?}
-{189}{}{To twój teren? Nie wydaje mi siê.}
-{190}{}{Mo¿e to w³aœnie ciebie szukam.}
-{191}{}{Ju¿ sobie idê. Czeœæ.}
+{186}{}{Czy wziÄ…Å‚eÅ› medalion z tego nawiedzonego domu?}
+{187}{}{Co wiesz o duchu krÄ™cÄ…cym siÄ™ nocÄ… po okolicy?}
+{188}{}{Hej, koleÅ›, jestem Joey. Co robisz na moim terenie?}
+{189}{}{To twÃ³j teren? Nie wydaje mi siÄ™.}
+{190}{}{MoÅ¼e to wÅ‚aÅ›nie ciebie szukam.}
+{191}{}{JuÅ¼ sobie idÄ™. CzeÅ›Ä‡.}
 {192}{}{Szukam informacji.}
-{193}{}{Hej, s³oneczko. Szukasz Joey'a? Oto jestem.}
+{193}{}{Hej, sÅ‚oneczko. Szukasz Joey'a? Oto jestem.}
 {194}{}{Nie. Spadaj.}
-{195}{}{Kto wie. Co mo¿esz mi zaoferowaæ?}
-{196}{}{Potrzebujê informacji.}
-{197}{}{Nie, przykro mi. Muszê ju¿ iœæ.}
-{198}{}{Hej, mam trochê Jet'u. To wspania³y, œwie¿y towar z Reno. Chcesz trochê?}
+{195}{}{Kto wie. Co moÅ¼esz mi zaoferowaÄ‡?}
+{196}{}{PotrzebujÄ™ informacji.}
+{197}{}{Nie, przykro mi. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{198}{}{Hej, mam trochÄ™ Jet'u. To wspaniaÅ‚y, Å›wieÅ¼y towar z Reno. Chcesz trochÄ™?}
 {199}{}{Nie ma mowy!}
 {200}{}{Ile?}
-{201}{}{Nie, potrzebujê informacji.}
-{202}{}{Muszê iœæ. Czeœæ.}
-{203}{}{Co ty na to, jakbyœmy tak ja i ty... tentego?}
-{204}{}{W porz¹dku.}
-{205}{}{Nie, nawet gdybyœ by³ ostatnim niezmutowanym mê¿czyzn¹ na tej ziemi.}
-{206}{}{Eee, nie... raczej nie. Potrzebujê trochê innej przys³ugi.}
-{207}{}{Jeszcze tu wrócisz.}
-{208}{}{Mo¿e.}
+{201}{}{Nie, potrzebujÄ™ informacji.}
+{202}{}{MuszÄ™ iÅ›Ä‡. CzeÅ›Ä‡.}
+{203}{}{Co ty na to, jakbyÅ›my tak ja i ty... tentego?}
+{204}{}{W porzÄ…dku.}
+{205}{}{Nie, nawet gdybyÅ› byÅ‚ ostatnim niezmutowanym mÄ™Å¼czyznÄ… na tej ziemi.}
+{206}{}{Eee, nie... raczej nie. PotrzebujÄ™ trochÄ™ innej przysÅ‚ugi.}
+{207}{}{Jeszcze tu wrÃ³cisz.}
+{208}{}{MoÅ¼e.}
 {209}{}{Nie licz na to.}
-{210}{}{Chwileczkê! Mogê ciê jeszcze o coœ spytaæ?}
-{211}{}{Nikt nie bêdzie tak do mnie mówi³!}
-{212}{}{W³aœnie ktoœ tak powiedzia³. Masz zamiar zrobiæ coœ wiêcej... poza gadaniem?}
-{213}{}{Dobra, dobra. Sprzedajesz coœ, czy serwujesz tylko g³upawe gadki?}
-{214}{}{Przyjmij moje przeprosiny. Dopiero siê rozgl¹dam i nie znam jeszcze terenu.}
+{210}{}{ChwileczkÄ™! MogÄ™ ciÄ™ jeszcze o coÅ› spytaÄ‡?}
+{211}{}{Nikt nie bÄ™dzie tak do mnie mÃ³wiÅ‚!}
+{212}{}{WÅ‚aÅ›nie ktoÅ› tak powiedziaÅ‚. Masz zamiar zrobiÄ‡ coÅ› wiÄ™cej... poza gadaniem?}
+{213}{}{Dobra, dobra. Sprzedajesz coÅ›, czy serwujesz tylko gÅ‚upawe gadki?}
+{214}{}{Przyjmij moje przeprosiny. Dopiero siÄ™ rozglÄ…dam i nie znam jeszcze terenu.}
 {215}{}{Czego chcesz?}
 {216}{}{Szukam pewnego medalionu.}
-{217}{}{Wiesz mo¿e coœ o tym nawiedzonym domu? Bardzo mnie interesuje.}
-{218}{}{Co jest grane z tym starym koœcio³em i krêc¹cymi siê ko³o niego stra¿nikami?}
-{219}{}{Nic, w czym móg³byœ mi pomóc.}
-{220}{}{S³ysza³eœ cokolwiek o Krypcie 13?}
-{221}{}{Uhm, niewa¿ne. Do zobaczenia.}
-{222}{}{Och, masz na myœli Tylera i jego gang? Pilnuj¹ jakiegoœ syfu z Kryptopolis. Kurewsko wielkie skrzynki. Od czasu do czasu zabieraj¹ je karawany z Nowego Reno.}
-{223}{}{Wiesz o tym coœ wiêcej?}
-{224}{}{Mogê zapytaæ ciê o coœ innego?}
-{225}{}{Dobra, dziêki. Na razie.}
-{226}{}{Chcesz siê jeszcze czegoœ dowiedzieæ?}
+{217}{}{Wiesz moÅ¼e coÅ› o tym nawiedzonym domu? Bardzo mnie interesuje.}
+{218}{}{Co jest grane z tym starym koÅ›cioÅ‚em i krÄ™cÄ…cymi siÄ™ koÅ‚o niego straÅ¼nikami?}
+{219}{}{Nic, w czym mÃ³gÅ‚byÅ› mi pomÃ³c.}
+{220}{}{SÅ‚yszaÅ‚eÅ› cokolwiek o Krypcie 13?}
+{221}{}{Uhm, niewaÅ¼ne. Do zobaczenia.}
+{222}{}{Och, masz na myÅ›li Tylera i jego gang? PilnujÄ… jakiegoÅ› syfu z Kryptopolis. Kurewsko wielkie skrzynki. Od czasu do czasu zabierajÄ… je karawany z Nowego Reno.}
+{223}{}{Wiesz o tym coÅ› wiÄ™cej?}
+{224}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{225}{}{Dobra, dziÄ™ki. Na razie.}
+{226}{}{Chcesz siÄ™ jeszcze czegoÅ› dowiedzieÄ‡?}
 {227}{}{Kim jest Tyler?}
-{228}{}{Gdzie le¿y to Nowe Reno?}
-{229}{}{Czego oni tam strzeg¹?}
-{230}{}{Mam kilka innych pytañ.}
-{231}{}{To wszystko. Czeœæ.}
-{232}{}{Tyler to spryciarz, który wyœlizga³ wszystkich z intratnego uk³adu z Metzgerem. Ale ja to pierdolê! Nie zale¿y mi na tym gównie. Gdybym chcia³, to skopa³bym mu dupê. Lara i on maj¹ ze sob¹ na pieñku. Jakieœ stare dzieje z Tylerem i jej bratem.}
-{233}{}{To mi siê mo¿e przydaæ. Wiesz coœ jeszcze?}
-{234}{}{Mogê zapytaæ ciê o coœ innego?}
-{235}{}{Dobra, dziêki. Na razie.}
-{236}{}{Nowe Reno... to kawa³ drogi na po³udniowy wschód. Mo¿na tam zrobiæ du¿o ciekawych rzeczy, ale jest te¿ kurewsko niebezpiecznie. Mo¿e kiedyœ tam wrócê. Mogê ci pokazaæ gdzie to jest na tym twoim zabawnym ekraniku.}
-{237}{}{Myœlê, ¿e ju¿ tam trafiê. Wiesz coœ jeszcze?}
-{238}{}{Mogê zapytaæ ciê o coœ innego?}
-{239}{}{Dobra, dziêki. Na razie.}
+{228}{}{Gdzie leÅ¼y to Nowe Reno?}
+{229}{}{Czego oni tam strzegÄ…?}
+{230}{}{Mam kilka innych pytaÅ„.}
+{231}{}{To wszystko. CzeÅ›Ä‡.}
+{232}{}{Tyler to spryciarz, ktÃ³ry wyÅ›lizgaÅ‚ wszystkich z intratnego ukÅ‚adu z Metzgerem. Ale ja to pierdolÄ™! Nie zaleÅ¼y mi na tym gÃ³wnie. Gdybym chciaÅ‚, to skopaÅ‚bym mu dupÄ™. Lara i on majÄ… ze sobÄ… na pieÅ„ku. JakieÅ› stare dzieje z Tylerem i jej bratem.}
+{233}{}{To mi siÄ™ moÅ¼e przydaÄ‡. Wiesz coÅ› jeszcze?}
+{234}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{235}{}{Dobra, dziÄ™ki. Na razie.}
+{236}{}{Nowe Reno... to kawaÅ‚ drogi na poÅ‚udniowy wschÃ³d. MoÅ¼na tam zrobiÄ‡ duÅ¼o ciekawych rzeczy, ale jest teÅ¼ kurewsko niebezpiecznie. MoÅ¼e kiedyÅ› tam wrÃ³cÄ™. MogÄ™ ci pokazaÄ‡ gdzie to jest na tym twoim zabawnym ekraniku.}
+{237}{}{MyÅ›lÄ™, Å¼e juÅ¼ tam trafiÄ™. Wiesz coÅ› jeszcze?}
+{238}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{239}{}{Dobra, dziÄ™ki. Na razie.}
 {240}{}{Zabij mnie, ale nie wiem.}
-{241}{}{Ciekawe. Wiesz mo¿e coœ jeszcze?}
-{242}{}{Mogê zapytaæ ciê o coœ innego?}
-{243}{}{Dobra, dziêki. Na razie.}
+{241}{}{Ciekawe. Wiesz moÅ¼e coÅ› jeszcze?}
+{242}{}{MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{243}{}{Dobra, dziÄ™ki. Na razie.}
 {244}{}{Dla ciebie sprzedam Jet za $500.}
-{245}{}{Nie, dziêki. Czeœæ.}
-{246}{}{Nie, dziêki, ale mam kilka pytañ.}
-{247}{}{To za du¿o!}
-{248}{}{Dobra, biorê.}
-{249}{}{Jeœli nie masz kasy, to wróæ kiedy bêdzie ciê staæ. I lepiej, ¿ebym nie zobaczy³ ciê kupuj¹cego Jet od kogoœ innego, bo skopiê tê twoj¹ zawszon¹ dupê. Jestem tu jedynym, który sprzedaje czysty towar, sprowadzany prosto z Nowego Reno.}
-{250}{}{Zaczekaj, jednak kupiê.}
-{251}{}{Mogê siê jeszcze o coœ spytaæ?}
+{245}{}{Nie, dziÄ™ki. CzeÅ›Ä‡.}
+{246}{}{Nie, dziÄ™ki, ale mam kilka pytaÅ„.}
+{247}{}{To za duÅ¼o!}
+{248}{}{Dobra, biorÄ™.}
+{249}{}{JeÅ›li nie masz kasy, to wrÃ³Ä‡ kiedy bÄ™dzie ciÄ™ staÄ‡. I lepiej, Å¼ebym nie zobaczyÅ‚ ciÄ™ kupujÄ…cego Jet od kogoÅ› innego, bo skopiÄ™ tÄ™ twojÄ… zawszonÄ… dupÄ™. Jestem tu jedynym, ktÃ³ry sprzedaje czysty towar, sprowadzany prosto z Nowego Reno.}
+{250}{}{Zaczekaj, jednak kupiÄ™.}
+{251}{}{MogÄ™ siÄ™ jeszcze o coÅ› spytaÄ‡?}
 {252}{}{Bywaj.}
-{253}{}{Dobra, zni¿ê cenê do $350, ale wiêcej ju¿ nie utargujesz! To moje ostatnie s³owo. Za dobry towar trzeba dobrze zap³aciæ. Nie warto kupowaæ od Tubby'ego i innych palantów. Oni rozcieñczaj¹ towar. Jestem tu jedynym, który sprzedaje naprawdê czysty towar.}
-{254}{}{Mowy nie ma. Mogê ciê o coœ spytaæ?}
-{255}{}{Dobra, biorê.}
-{256}{}{Niewa¿ne. Czeœæ.}
-{257}{}{Krypta... Krypta... Krypta 13? Nie, nigdy o czymœ takim nie s³ysza³em. Nie mów, ¿e wymyœlili
- nowy narkotyk. Przecie¿ nic nie przebije Jetu!}
+{253}{}{Dobra, zniÅ¼Ä™ cenÄ™ do $350, ale wiÄ™cej juÅ¼ nie utargujesz! To moje ostatnie sÅ‚owo. Za dobry towar trzeba dobrze zapÅ‚aciÄ‡. Nie warto kupowaÄ‡ od Tubby'ego i innych palantÃ³w. Oni rozcieÅ„czajÄ… towar. Jestem tu jedynym, ktÃ³ry sprzedaje naprawdÄ™ czysty towar.}
+{254}{}{Mowy nie ma. MogÄ™ ciÄ™ o coÅ› spytaÄ‡?}
+{255}{}{Dobra, biorÄ™.}
+{256}{}{NiewaÅ¼ne. CzeÅ›Ä‡.}
+{257}{}{Krypta... Krypta... Krypta 13? Nie, nigdy o czymÅ› takim nie sÅ‚yszaÅ‚em. Nie mÃ³w, Å¼e wymyÅ›lili
+ nowy narkotyk. PrzecieÅ¼ nic nie przebije Jetu!}
 {258}{}{Nie, ty kretynie.}
-{259}{}{Nie, to jest takie miejsce. Mogê zapytaæ ciê o coœ innego?}
-{260}{}{Tak, wspania³y narkotyk.}
-{261}{}{Nie. Czeœæ.}
-{262}{}{W tym temacie Joey nie jest najlepszym rozmówc¹.}
-{300}{}{Pewnie nie. Czeœæ.}
-{350}{}{Œpisz czy co? Lara pokaza³a jednak swoje pazurki. Wystrzela³a gang Tylera. S³ysza³em, ¿e Metzger siê na to zgodzi³. Có¿, lepiej ju¿ wrócê do... pracy.}
-{351}{}{Œpisz czy co? Ta ma³a suka Lara zaatakowa³a gang Tylera. Wybili ich do nogi, ale sama Lara zginê³a. Teraz jej gang przejmie schedê po Tylerze. Przynajmniej tak s³ysza³em.}
+{259}{}{Nie, to jest takie miejsce. MogÄ™ zapytaÄ‡ ciÄ™ o coÅ› innego?}
+{260}{}{Tak, wspaniaÅ‚y narkotyk.}
+{261}{}{Nie. CzeÅ›Ä‡.}
+{262}{}{W tym temacie Joey nie jest najlepszym rozmÃ³wcÄ….}
+{300}{}{Pewnie nie. CzeÅ›Ä‡.}
+{350}{}{Åšpisz czy co? Lara pokazaÅ‚a jednak swoje pazurki. WystrzelaÅ‚a gang Tylera. SÅ‚yszaÅ‚em, Å¼e Metzger siÄ™ na to zgodziÅ‚. CÃ³Å¼, lepiej juÅ¼ wrÃ³cÄ™ do... pracy.}
+{351}{}{Åšpisz czy co? Ta maÅ‚a suka Lara zaatakowaÅ‚a gang Tylera. Wybili ich do nogi, ale sama Lara zginÄ™Å‚a. Teraz jej gang przejmie schedÄ™ po Tylerze. Przynajmniej tak sÅ‚yszaÅ‚em.}

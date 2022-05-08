@@ -1,1 +1,1 @@
-{100}{}{Egy sötét, ködös templomban állsz. Az árnyékok mintha játszanának a szemeddel, és halk neszezést hallasz.}
+{100}{}{Egy sÃ¶tÃ©t, kÃ¶dÃ¶s templomban Ã¡llsz. Az Ã¡rnyÃ©kok mintha jÃ¡tszanÃ¡nak a szemeddel, Ã©s halk neszezÃ©st hallasz.}

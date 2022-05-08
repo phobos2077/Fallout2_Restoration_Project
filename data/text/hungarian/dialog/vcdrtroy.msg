@@ -1,312 +1,312 @@
-{100}{}{Középkorú férfi, orvosi köpenyben. Elfoglaltnak t?nik.}
+{100}{}{KÃ¶zÃ©pkorÃº fÃ©rfi, orvosi kÃ¶penyben. Elfoglaltnak t?nik.}
 {101}{}{Dr.Troy}
-{102}{}{Középkorú férfi, orvosi köpenyben. Elfoglaltnak t?nik.}
-{103}{}{Lássuk csak! Holnap reggel három véd?oltást kell beadnunk, aztán...}
-{104}{}{Esküszöm, Gregory egy hipochonder!}
-{105}{}{Az új szolgákat is orvosi ellátásban kell részesítenünk.}
-{106}{}{Phyllis kérem, idehozná nekem a F?tanácsos vérvételi leleteit?}
-{107}{}{Furcsa! Ezek az értékek nem jellemz?k ilyen alacsony trombocita szintnél.}
-{108}{}{Talán klónozhatjuk a lépet azokból a sejtekb?l, amiket ma délután kaptunk.}
-{109}{}{Több vitamint kell adagolnunk a diétás ellátmányba.}
+{102}{}{KÃ¶zÃ©pkorÃº fÃ©rfi, orvosi kÃ¶penyben. Elfoglaltnak t?nik.}
+{103}{}{LÃ¡ssuk csak! Holnap reggel hÃ¡rom vÃ©d?oltÃ¡st kell beadnunk, aztÃ¡n...}
+{104}{}{EskÃ¼szÃ¶m, Gregory egy hipochonder!}
+{105}{}{Az Ãºj szolgÃ¡kat is orvosi ellÃ¡tÃ¡sban kell rÃ©szesÃ­tenÃ¼nk.}
+{106}{}{Phyllis kÃ©rem, idehoznÃ¡ nekem a F?tanÃ¡csos vÃ©rvÃ©teli leleteit?}
+{107}{}{Furcsa! Ezek az Ã©rtÃ©kek nem jellemz?k ilyen alacsony trombocita szintnÃ©l.}
+{108}{}{TalÃ¡n klÃ³nozhatjuk a lÃ©pet azokbÃ³l a sejtekb?l, amiket ma dÃ©lutÃ¡n kaptunk.}
+{109}{}{TÃ¶bb vitamint kell adagolnunk a diÃ©tÃ¡s ellÃ¡tmÃ¡nyba.}
 {110}{}{Hmmm...}
-{111}{}{Phyllis, kérem! Csinálna nekem egy másolatot Helen kartonjáról?}
-{112}{}{Ha belegondolok, hogy most akár a Szerelemvonalnak is dolgozhatnék.}
-{113}{}{Belefáradtam abba, hogy állandóan csak listákat gyártsak.}
-{114}{}{Listát kell készítenünk az orvosi felszereléseinkr?l?! De hát tegnap már küldtem egyet!}
-{115}{}{Egy mutáns! ?rség!}
-{116}{}{Egy ghoul! ?rség!}
-{117}{}{Üdvözlöm, Dr.Troy vagyok. Miben segíthetek?}
+{111}{}{Phyllis, kÃ©rem! CsinÃ¡lna nekem egy mÃ¡solatot Helen kartonjÃ¡rÃ³l?}
+{112}{}{Ha belegondolok, hogy most akÃ¡r a Szerelemvonalnak is dolgozhatnÃ©k.}
+{113}{}{BelefÃ¡radtam abba, hogy Ã¡llandÃ³an csak listÃ¡kat gyÃ¡rtsak.}
+{114}{}{ListÃ¡t kell kÃ©szÃ­tenÃ¼nk az orvosi felszerelÃ©seinkr?l?! De hÃ¡t tegnap mÃ¡r kÃ¼ldtem egyet!}
+{115}{}{Egy mutÃ¡ns! ?rsÃ©g!}
+{116}{}{Egy ghoul! ?rsÃ©g!}
+{117}{}{ÃœdvÃ¶zlÃ¶m, Dr.Troy vagyok. Miben segÃ­thetek?}
 {118}{}{Nekem lenni bibi.}
-{119}{}{Segg... ít... ség?}
-{120}{}{(Elpályázol)}
-{121}{}{A Központi Számítógépet keresem. Megmondaná, hol találom?}
-{122}{}{Mit csinálsz itt?}
-{123}{}{Csak benéztem, de már megyek is. Viszlát!}
-{124}{}{Ön orvos? Örvendek a szerencsének! Mi lenne, ha megosztanánk egymással a tapasztalatainkat? Szakítana rám egy kis id?t?}
-{125}{}{Természetesen. Nagyon érdekel, milyen technikákat alkalmaznak a Polgárok kezelésénél.}
-{126}{}{Sajnálom, erre most nincs id?m, viszont kérdeznék valamit.}
-{127}{}{Talán majd kés?bb. Viszlát!}
-{128}{}{Nagyszer?! Ha megengedi, el?ször is megmutatom a felszerelésünket. Itt vannak a megfigyel? berendezéseink...}
+{119}{}{Segg... Ã­t... sÃ©g?}
+{120}{}{(ElpÃ¡lyÃ¡zol)}
+{121}{}{A KÃ¶zponti SzÃ¡mÃ­tÃ³gÃ©pet keresem. MegmondanÃ¡, hol talÃ¡lom?}
+{122}{}{Mit csinÃ¡lsz itt?}
+{123}{}{Csak benÃ©ztem, de mÃ¡r megyek is. ViszlÃ¡t!}
+{124}{}{Ã–n orvos? Ã–rvendek a szerencsÃ©nek! Mi lenne, ha megosztanÃ¡nk egymÃ¡ssal a tapasztalatainkat? SzakÃ­tana rÃ¡m egy kis id?t?}
+{125}{}{TermÃ©szetesen. Nagyon Ã©rdekel, milyen technikÃ¡kat alkalmaznak a PolgÃ¡rok kezelÃ©sÃ©nÃ©l.}
+{126}{}{SajnÃ¡lom, erre most nincs id?m, viszont kÃ©rdeznÃ©k valamit.}
+{127}{}{TalÃ¡n majd kÃ©s?bb. ViszlÃ¡t!}
+{128}{}{Nagyszer?! Ha megengedi, el?szÃ¶r is megmutatom a felszerelÃ©sÃ¼nket. Itt vannak a megfigyel? berendezÃ©seink...}
 {129}{}{}
-{130}{}{... és így klónozunk sejtekb?l átültethet? szerveket. Nagyon kell ügyelnünk arra, hogy a sebkötöz? anyagok sterilek legyenek... de azt hiszem, már eleget beszéltem. Remélem, van, amit hasznosítani tud.}
-{131}{}{Természetesen, de kérdezhetnék még valamit?}
-{132}{}{Köszönöm a bemutatót, Dr.Troy. Nagyon hasznosnak bizonyult, de most már mennem kell.}
-{133}{}{A Központi Számítógépet? Lent van a harmadik szinten. Használja a liftet, majd menjen egyenesen tovább, amíg egy T-elágazáshoz nem ér! Ott forduljon balra és már meg is találta!}
-{134}{}{Mit csinálsz itt?}
-{135}{}{Köszi.}
-{136}{}{Menedékváros f?orvosa vagyok. Igyekszem meg?rizni Polgártársaink egészségét illetve meggyógyítom ?ket, ha szükséges.}
-{137}{}{A Központi Számítógépet keresem. Megmondaná, hol találom?}
-{138}{}{Értem. Viszlát!}
-{139}{}{Bocsásson meg egy pillanatra... nem emlékszem, hogy valaha is találkoztunk volna. Ön polgár?}
-{140}{}{Igen. Most kaptam meg a Polgársági papírjaimat.}
-{141}{}{Tulajdonképpen én }
-{142}{}{ vagyok. Az ?rség Kapitánya.}
+{130}{}{... Ã©s Ã­gy klÃ³nozunk sejtekb?l Ã¡tÃ¼ltethet? szerveket. Nagyon kell Ã¼gyelnÃ¼nk arra, hogy a sebkÃ¶tÃ¶z? anyagok sterilek legyenek... de azt hiszem, mÃ¡r eleget beszÃ©ltem. RemÃ©lem, van, amit hasznosÃ­tani tud.}
+{131}{}{TermÃ©szetesen, de kÃ©rdezhetnÃ©k mÃ©g valamit?}
+{132}{}{KÃ¶szÃ¶nÃ¶m a bemutatÃ³t, Dr.Troy. Nagyon hasznosnak bizonyult, de most mÃ¡r mennem kell.}
+{133}{}{A KÃ¶zponti SzÃ¡mÃ­tÃ³gÃ©pet? Lent van a harmadik szinten. HasznÃ¡lja a liftet, majd menjen egyenesen tovÃ¡bb, amÃ­g egy T-elÃ¡gazÃ¡shoz nem Ã©r! Ott forduljon balra Ã©s mÃ¡r meg is talÃ¡lta!}
+{134}{}{Mit csinÃ¡lsz itt?}
+{135}{}{KÃ¶szi.}
+{136}{}{MenedÃ©kvÃ¡ros f?orvosa vagyok. Igyekszem meg?rizni PolgÃ¡rtÃ¡rsaink egÃ©szsÃ©gÃ©t illetve meggyÃ³gyÃ­tom ?ket, ha szÃ¼ksÃ©ges.}
+{137}{}{A KÃ¶zponti SzÃ¡mÃ­tÃ³gÃ©pet keresem. MegmondanÃ¡, hol talÃ¡lom?}
+{138}{}{Ã‰rtem. ViszlÃ¡t!}
+{139}{}{BocsÃ¡sson meg egy pillanatra... nem emlÃ©kszem, hogy valaha is talÃ¡lkoztunk volna. Ã–n polgÃ¡r?}
+{140}{}{Igen. Most kaptam meg a PolgÃ¡rsÃ¡gi papÃ­rjaimat.}
+{141}{}{TulajdonkÃ©ppen Ã©n }
+{142}{}{ vagyok. Az ?rsÃ©g KapitÃ¡nya.}
 {143}{}{Hmm... az vagyok.}
 {144}{}{Nem.}
-{145}{}{Örülök, hogy találkoztunk kedves, }
-{146}{}{. Ha bármikor szüksége lenne a segítségemre, itt megtalál.}
-{147}{}{Kösz. Viszlát!}
-{148}{}{Ön nem Menedékvárosban született, igaz? Biztosan emlékeznék rá. Elárulná, honnan jött?}
-{149}{}{Bocsásson meg egy pillanatra... ön egy Kívülálló, igaz? Elárulná, honnan jött?}
-{150}{}{Egy kis faluból innen nyugatra. Arroyónak hívják.}
-{151}{}{Miért kérdezi?}
-{152}{}{Ez nem tartozik magára, doki.}
-{153}{}{Nem akarok a múltamról beszélni.}
-{154}{}{Arroyo... Arroyo... még sose hallottam róla. Elnézést, amiért faggatom, de egy olyan embert keresek, aki már járt Menedékváros falain túl. A legtöbb Polgár ugyanis nem hagyja el a várost.}
-{155}{}{Tapasztalt utazó vagyok. Segíthetek?}
-{156}{}{Kifejtené b?vebben?}
-{157}{}{Elnézést, amiért faggatom, de egy olyan embert keresek, aki már járt Menedékváros falain túl. A legtöbb Polgár ugyanis nem hagyja el a várost.}
-{158}{}{Tapasztalt utazó vagyok. Segíthetek?}
-{159}{}{Kifejtené b?vebben?}
-{160}{}{Azt hiszem, ön eltévedt. Menjen vissza a folyosóra kérem, majd forduljon jobbra! Így visszajuthat a felszínre.}
-{161}{}{Köszönöm az útbaigazítást. Viszlát!}
-{162}{}{Ha már így összefutottunk, láthatnám a készleteit?}
-{163}{}{Keresek valakit, aki elvégezne nekem egy különleges munkát.}
+{145}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk kedves, }
+{146}{}{. Ha bÃ¡rmikor szÃ¼ksÃ©ge lenne a segÃ­tsÃ©gemre, itt megtalÃ¡l.}
+{147}{}{KÃ¶sz. ViszlÃ¡t!}
+{148}{}{Ã–n nem MenedÃ©kvÃ¡rosban szÃ¼letett, igaz? Biztosan emlÃ©keznÃ©k rÃ¡. ElÃ¡rulnÃ¡, honnan jÃ¶tt?}
+{149}{}{BocsÃ¡sson meg egy pillanatra... Ã¶n egy KÃ­vÃ¼lÃ¡llÃ³, igaz? ElÃ¡rulnÃ¡, honnan jÃ¶tt?}
+{150}{}{Egy kis falubÃ³l innen nyugatra. ArroyÃ³nak hÃ­vjÃ¡k.}
+{151}{}{MiÃ©rt kÃ©rdezi?}
+{152}{}{Ez nem tartozik magÃ¡ra, doki.}
+{153}{}{Nem akarok a mÃºltamrÃ³l beszÃ©lni.}
+{154}{}{Arroyo... Arroyo... mÃ©g sose hallottam rÃ³la. ElnÃ©zÃ©st, amiÃ©rt faggatom, de egy olyan embert keresek, aki mÃ¡r jÃ¡rt MenedÃ©kvÃ¡ros falain tÃºl. A legtÃ¶bb PolgÃ¡r ugyanis nem hagyja el a vÃ¡rost.}
+{155}{}{Tapasztalt utazÃ³ vagyok. SegÃ­thetek?}
+{156}{}{KifejtenÃ© b?vebben?}
+{157}{}{ElnÃ©zÃ©st, amiÃ©rt faggatom, de egy olyan embert keresek, aki mÃ¡r jÃ¡rt MenedÃ©kvÃ¡ros falain tÃºl. A legtÃ¶bb PolgÃ¡r ugyanis nem hagyja el a vÃ¡rost.}
+{158}{}{Tapasztalt utazÃ³ vagyok. SegÃ­thetek?}
+{159}{}{KifejtenÃ© b?vebben?}
+{160}{}{Azt hiszem, Ã¶n eltÃ©vedt. Menjen vissza a folyosÃ³ra kÃ©rem, majd forduljon jobbra! Ãgy visszajuthat a felszÃ­nre.}
+{161}{}{KÃ¶szÃ¶nÃ¶m az ÃºtbaigazÃ­tÃ¡st. ViszlÃ¡t!}
+{162}{}{Ha mÃ¡r Ã­gy Ã¶sszefutottunk, lÃ¡thatnÃ¡m a kÃ©szleteit?}
+{163}{}{Keresek valakit, aki elvÃ©gezne nekem egy kÃ¼lÃ¶nleges munkÃ¡t.}
 {164}{}{Mi a fene ez?}
-{165}{}{Csábító, de nem érdekel.}
-{166}{}{Örülök, hogy így döntött!}
+{165}{}{CsÃ¡bÃ­tÃ³, de nem Ã©rdekel.}
+{166}{}{Ã–rÃ¼lÃ¶k, hogy Ã­gy dÃ¶ntÃ¶tt!}
 {167}{}{It has come to my attention that there is a new drug in the wastes. It's called "Jet," I
  believe. I'm willing to pay a thousand dollars for a sample of this drug.}
-{168}{}{Épp van nálam egy adag.}
-{169}{}{Legyen inkább 1200!}
-{170}{}{Lehet róla szó, de 1500 dollárba fog kerülni.}
-{171}{}{Jól értettem? Azt akarja, hogy Jetet csempésszek a városba?}
+{168}{}{Ã‰pp van nÃ¡lam egy adag.}
+{169}{}{Legyen inkÃ¡bb 1200!}
+{170}{}{Lehet rÃ³la szÃ³, de 1500 dollÃ¡rba fog kerÃ¼lni.}
+{171}{}{JÃ³l Ã©rtettem? Azt akarja, hogy Jetet csempÃ©sszek a vÃ¡rosba?}
 {172}{}{Mit tegyek?}
-{173}{}{Csábító, de nem érdekel.}
-{174}{}{Értem és elnézést, amiért feltartottam. Azért jöjjön vissza, ha meggondolta magát! B?kez?en megjutalmazom.}
-{175}{}{Kérdeznék valami mást.}
-{176}{}{Értem. Majd meglátom, mit tehetek.}
-{177}{}{Szóval nem érdekel? Sebaj. Viszlát!}
-{178}{}{Figyelembevéve a tényt, hogy rögtön megkapom, ez az ár elfogadhatónak t?nik. Legyen. Itt a pénze... és köszönöm!}
-{179}{}{Kérdeznék valamit.}
-{180}{}{Szerintem nem kéne belélegeznie azt a szart. Higgyen nekem!}
-{181}{}{Megmutassam, hogy kell használni? Úgy értem, rájöttem, hogy akkor a legüt?sebb, ha befogja az orrát, kifúj minden leveg?t, mélyen letüd?zi és benntartja egy percig.}
-{182}{}{Élmény magával üzletet kötni, doki. Azért vigyázzon azzal a cuccal, oké?}
-{183}{}{Mint már mondtam, KÖSZÖNÖM! Most kérem hagyjon magamra!}
-{184}{}{Lenne itt még egy kérdés.}
-{185}{}{Szerintem nem kéne belélegeznie azt a szart. Higgyen nekem!}
-{186}{}{Rendben, kés?bb még találkozunk.}
-{187}{}{Mir?l beszélsz?}
-{188}{}{Hagyjuk! Inkább kérdeznék valamit.}
-{189}{}{Ezt az anyagot brahmin-trágyából készítik.}
-{190}{}{Amit abban a Jet-adagolóban lát, az brahmin-szar párlat. Fincsi, mi?}
+{173}{}{CsÃ¡bÃ­tÃ³, de nem Ã©rdekel.}
+{174}{}{Ã‰rtem Ã©s elnÃ©zÃ©st, amiÃ©rt feltartottam. AzÃ©rt jÃ¶jjÃ¶n vissza, ha meggondolta magÃ¡t! B?kez?en megjutalmazom.}
+{175}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{176}{}{Ã‰rtem. Majd meglÃ¡tom, mit tehetek.}
+{177}{}{SzÃ³val nem Ã©rdekel? Sebaj. ViszlÃ¡t!}
+{178}{}{FigyelembevÃ©ve a tÃ©nyt, hogy rÃ¶gtÃ¶n megkapom, ez az Ã¡r elfogadhatÃ³nak t?nik. Legyen. Itt a pÃ©nze... Ã©s kÃ¶szÃ¶nÃ¶m!}
+{179}{}{KÃ©rdeznÃ©k valamit.}
+{180}{}{Szerintem nem kÃ©ne belÃ©legeznie azt a szart. Higgyen nekem!}
+{181}{}{Megmutassam, hogy kell hasznÃ¡lni? Ãšgy Ã©rtem, rÃ¡jÃ¶ttem, hogy akkor a legÃ¼t?sebb, ha befogja az orrÃ¡t, kifÃºj minden leveg?t, mÃ©lyen letÃ¼d?zi Ã©s benntartja egy percig.}
+{182}{}{Ã‰lmÃ©ny magÃ¡val Ã¼zletet kÃ¶tni, doki. AzÃ©rt vigyÃ¡zzon azzal a cuccal, okÃ©?}
+{183}{}{Mint mÃ¡r mondtam, KÃ–SZÃ–NÃ–M! Most kÃ©rem hagyjon magamra!}
+{184}{}{Lenne itt mÃ©g egy kÃ©rdÃ©s.}
+{185}{}{Szerintem nem kÃ©ne belÃ©legeznie azt a szart. Higgyen nekem!}
+{186}{}{Rendben, kÃ©s?bb mÃ©g talÃ¡lkozunk.}
+{187}{}{Mir?l beszÃ©lsz?}
+{188}{}{Hagyjuk! InkÃ¡bb kÃ©rdeznÃ©k valamit.}
+{189}{}{Ezt az anyagot brahmin-trÃ¡gyÃ¡bÃ³l kÃ©szÃ­tik.}
+{190}{}{Amit abban a Jet-adagolÃ³ban lÃ¡t, az brahmin-szar pÃ¡rlat. Fincsi, mi?}
 {191}{}{Those are brahmin shit fumes in that Jet canister. Gross, huh? Hey, by the way... I've been
  looking for some endorphin blockers. Do you have any?}
-{192}{}{Nos, a zsenifiú szerint ezt a cuccot brahmin-trágyából állítják el?.}
-{193}{}{A zsenifiú szerint amit abban a Jet-adagolóban lát, az brahmin-szar párlat. Fincsi, mi?}
+{192}{}{Nos, a zsenifiÃº szerint ezt a cuccot brahmin-trÃ¡gyÃ¡bÃ³l Ã¡llÃ­tjÃ¡k el?.}
+{193}{}{A zsenifiÃº szerint amit abban a Jet-adagolÃ³ban lÃ¡t, az brahmin-szar pÃ¡rlat. Fincsi, mi?}
 {194}{}{Well, according to the boy genius here, those are brahmin shit fumes in that Jet canister.
  Gross, huh? Hey, by the way... we've been looking for some endorphin blockers. Do you have any?}
-{195}{}{Nem fontos, most mennem kell. Viszlát!}
-{196}{}{Azt hiszem... téved.}
-{197}{}{Nem muszáj elhinni. Kérdezhetek még valamit?}
-{198}{}{Nem, tényleg. A Jetet brahmin-szarból nyerik, bár az alapanyagot eredetileg m?trágyaként használták.}
-{199}{}{Komolyan mondom. Régebben hallucinogén gombákat termesztettek rajta, de észrevették, hogy a "gázok" felpörgetik a munkásokat. Nos, itt van ez a háború el?tti fehérjekivonat, és...}
-{200}{}{Lehetséges. Kés?bb még találkozunk, doktor.}
-{201}{}{Valóban? Azt hiszem, a brahmin... ürülékb?l valóban jó m?trágyát lehet készíteni. Ez még eddig eszembe sem jutott. Köszönöm, barátom! Habár az el?állítás mikéntjére azért kíváncsi lennék.}
-{202}{}{Arra én is. Egyébként fogalmazzunk pontosan! Brahmin-SZARRA van szükség és nem ÜRÜLÉKRE, oké? Majd még találkozunk, doki.}
-{203}{}{Szívesen! Azért vigyázzon azzal a cuccal, rendben?}
-{204}{}{Kés?bb még találkozunk, doktor.}
-{205}{}{Ez... rendkívül érdekes. Talán a város küls? övezetében sikerül mintát vennem. Köszönöm, barátom! Nagyon hálás vagyok. Habár az el?állítás mikéntjére azért kíváncsi lennék.}
-{206}{}{Szívesen! Azért vigyázzon azzal a cuccal, rendben?}
-{207}{}{Kés?bb még találkozunk, doktor.}
+{195}{}{Nem fontos, most mennem kell. ViszlÃ¡t!}
+{196}{}{Azt hiszem... tÃ©ved.}
+{197}{}{Nem muszÃ¡j elhinni. KÃ©rdezhetek mÃ©g valamit?}
+{198}{}{Nem, tÃ©nyleg. A Jetet brahmin-szarbÃ³l nyerik, bÃ¡r az alapanyagot eredetileg m?trÃ¡gyakÃ©nt hasznÃ¡ltÃ¡k.}
+{199}{}{Komolyan mondom. RÃ©gebben hallucinogÃ©n gombÃ¡kat termesztettek rajta, de Ã©szrevettÃ©k, hogy a "gÃ¡zok" felpÃ¶rgetik a munkÃ¡sokat. Nos, itt van ez a hÃ¡borÃº el?tti fehÃ©rjekivonat, Ã©s...}
+{200}{}{LehetsÃ©ges. KÃ©s?bb mÃ©g talÃ¡lkozunk, doktor.}
+{201}{}{ValÃ³ban? Azt hiszem, a brahmin... Ã¼rÃ¼lÃ©kb?l valÃ³ban jÃ³ m?trÃ¡gyÃ¡t lehet kÃ©szÃ­teni. Ez mÃ©g eddig eszembe sem jutott. KÃ¶szÃ¶nÃ¶m, barÃ¡tom! HabÃ¡r az el?Ã¡llÃ­tÃ¡s mikÃ©ntjÃ©re azÃ©rt kÃ­vÃ¡ncsi lennÃ©k.}
+{202}{}{Arra Ã©n is. EgyÃ©bkÃ©nt fogalmazzunk pontosan! Brahmin-SZARRA van szÃ¼ksÃ©g Ã©s nem ÃœRÃœLÃ‰KRE, okÃ©? Majd mÃ©g talÃ¡lkozunk, doki.}
+{203}{}{SzÃ­vesen! AzÃ©rt vigyÃ¡zzon azzal a cuccal, rendben?}
+{204}{}{KÃ©s?bb mÃ©g talÃ¡lkozunk, doktor.}
+{205}{}{Ez... rendkÃ­vÃ¼l Ã©rdekes. TalÃ¡n a vÃ¡ros kÃ¼ls? Ã¶vezetÃ©ben sikerÃ¼l mintÃ¡t vennem. KÃ¶szÃ¶nÃ¶m, barÃ¡tom! Nagyon hÃ¡lÃ¡s vagyok. HabÃ¡r az el?Ã¡llÃ­tÃ¡s mikÃ©ntjÃ©re azÃ©rt kÃ­vÃ¡ncsi lennÃ©k.}
+{206}{}{SzÃ­vesen! AzÃ©rt vigyÃ¡zzon azzal a cuccal, rendben?}
+{207}{}{KÃ©s?bb mÃ©g talÃ¡lkozunk, doktor.}
 {208}{}{Endorphin blockers? Whatever for?}
 {209}{}{I think endorphin blockers could be used to neutralize Jet once it's in someone's system. I
  can't test it without some endorphin blockers, though.}
-{210}{}{Nem érdekes. Inkább kérdeznék valamit.}
-{211}{}{Most nincs id?m b?vebben kifejteni, mennem kell. Viszlát!}
+{210}{}{Nem Ã©rdekes. InkÃ¡bb kÃ©rdeznÃ©k valamit.}
+{211}{}{Most nincs id?m b?vebben kifejteni, mennem kell. ViszlÃ¡t!}
 {212}{}{We don't have endorphin blockers here, but I could program the Auto-Doc to manufacture some.
  Would you care to explain to me your theory?}
 {213}{}{Well, you see Jet's chemical addiction is probably the hardest thing to shake, so I was thinking
  that if we introduced endorphin blockers into the body we could...}
 {215}{}{I'm... speechless. That's simply the most brilliant solution I have ever heard. I've been
  experimenting with methods of curing Jet addiction for months, and came up with nothing.}
-{216}{}{Ön is az ellenanyagon dolgozik?}
-{217}{}{Igen, ezért volt szükségem egy adag Jetre.}
-{218}{}{Igen, de sikertelenül.}
+{216}{}{Ã–n is az ellenanyagon dolgozik?}
+{217}{}{Igen, ezÃ©rt volt szÃ¼ksÃ©gem egy adag Jetre.}
+{218}{}{Igen, de sikertelenÃ¼l.}
 {219}{}{This drug's stranglehold needs to be stopped before it can spread. Why... with the information
  you've provided, we could manufacture the antidote today! Hold on.}
-{220}{}{Remek! Köszönöm, doktor.}
-{221}{}{Ez a fiatalember? ? készítette a Jetet?}
-{222}{}{Azt nem mondanám, hogy "ember", de igen, ? készítette. Vagy legalábbis azt állítja.}
-{223}{}{Úgy bizony, bár meg nem mondaná meg így els? ránézésre, igaz?}
+{220}{}{Remek! KÃ¶szÃ¶nÃ¶m, doktor.}
+{221}{}{Ez a fiatalember? ? kÃ©szÃ­tette a Jetet?}
+{222}{}{Azt nem mondanÃ¡m, hogy "ember", de igen, ? kÃ©szÃ­tette. Vagy legalÃ¡bbis azt Ã¡llÃ­tja.}
+{223}{}{Ãšgy bizony, bÃ¡r meg nem mondanÃ¡ meg Ã­gy els? rÃ¡nÃ©zÃ©sre, igaz?}
 {224}{}{Myron, Dr. Troy... Dr. Troy, Myron.}
-{225}{}{Lenne néhány kérdésem ehhez a fiatalemberhez.}
-{226}{}{Csak bátran! Azért javaslom, hogy miel?tt elkezdi, vegyen be pár aszpirint! Nem egyszer? eset.}
+{225}{}{Lenne nÃ©hÃ¡ny kÃ©rdÃ©sem ehhez a fiatalemberhez.}
+{226}{}{Csak bÃ¡tran! AzÃ©rt javaslom, hogy miel?tt elkezdi, vegyen be pÃ¡r aszpirint! Nem egyszer? eset.}
 {227}{}{Parancsoljon, doktor!}
-{228}{}{Ahogy gondolja, doki. Azért szóljon majd, ha szüksége lesz valamire. Mondjuk egy baseball üt?re vagy ilyesmi.}
-{229}{}{Brahmin-gázok? Hát nem egy konvencionális el?állítási folyamat de... miért is ne? Talán, ha mintát vennék egy brahmintól a küls? övezetben. Köszönöm, barátom!}
+{228}{}{Ahogy gondolja, doki. AzÃ©rt szÃ³ljon majd, ha szÃ¼ksÃ©ge lesz valamire. Mondjuk egy baseball Ã¼t?re vagy ilyesmi.}
+{229}{}{Brahmin-gÃ¡zok? HÃ¡t nem egy konvencionÃ¡lis el?Ã¡llÃ­tÃ¡si folyamat de... miÃ©rt is ne? TalÃ¡n, ha mintÃ¡t vennÃ©k egy brahmintÃ³l a kÃ¼ls? Ã¶vezetben. KÃ¶szÃ¶nÃ¶m, barÃ¡tom!}
 {230}{}{Nem gond.}
 {231}{}{Hogyne.}
 {232}{}{You may also tell your little hooligan friend that he is wasting his considerable intellect
  manufacturing drugs. His manners and language also leave MUCH to be desired.}
-{233}{}{Beszéljen róla!}
+{233}{}{BeszÃ©ljen rÃ³la!}
 {234}{}{Maybe you should loosen up a little, Doc. A little drug use never hurt anyone. Well, except for
  those super stimpacks... and Buffout... and Psycho. Actually, never mind. I'll be going.}
 {235}{}{Ezt fogom tenni.}
-{236}{}{Hajlandó vagyok ezer dollárt fizetni egy adagért... és a hallgatásáért.}
-{237}{}{Értem. Egyébként van nálam egy adag.}
+{236}{}{HajlandÃ³ vagyok ezer dollÃ¡rt fizetni egy adagÃ©rt... Ã©s a hallgatÃ¡sÃ¡Ã©rt.}
+{237}{}{Ã‰rtem. EgyÃ©bkÃ©nt van nÃ¡lam egy adag.}
 {238}{}{Mire kell a Jet?}
-{239}{}{Jól hangzik, benne vagyok.}
-{240}{}{Nem érdekel.}
+{239}{}{JÃ³l hangzik, benne vagyok.}
+{240}{}{Nem Ã©rdekel.}
 {241}{}{It would be... helpful to me and my work if you could bring me a sample of this drug. I will pay
  you a thousand dollars for the delivery. But it is of utmost importance that you keep this transaction
  confidential.}
-{242}{}{Hmm... szóval bizalmasan?}
-{243}{}{Igazán? És mennyit fizetne azért, hogy tartsam a pofám? Akár már most is feldobhatnám.}
-{244}{}{Értem. Egyébként van nálam egy adag.}
+{242}{}{Hmm... szÃ³val bizalmasan?}
+{243}{}{IgazÃ¡n? Ã‰s mennyit fizetne azÃ©rt, hogy tartsam a pofÃ¡m? AkÃ¡r mÃ¡r most is feldobhatnÃ¡m.}
+{244}{}{Ã‰rtem. EgyÃ©bkÃ©nt van nÃ¡lam egy adag.}
 {245}{}{Mire kell a Jet?}
-{246}{}{Számíthat rám, vállalom!}
-{247}{}{Nem érdekel.}
-{248}{}{Igen, bizalmasan. Vagyis maradjon a dolog kett?nk közt, ne beszéljen róla senkinek vagy ha úgy jobban tetszik, tartsa a száját!}
-{249}{}{Értem. Egyébként van nálam egy adag.}
+{246}{}{SzÃ¡mÃ­that rÃ¡m, vÃ¡llalom!}
+{247}{}{Nem Ã©rdekel.}
+{248}{}{Igen, bizalmasan. Vagyis maradjon a dolog kett?nk kÃ¶zt, ne beszÃ©ljen rÃ³la senkinek vagy ha Ãºgy jobban tetszik, tartsa a szÃ¡jÃ¡t!}
+{249}{}{Ã‰rtem. EgyÃ©bkÃ©nt van nÃ¡lam egy adag.}
 {250}{}{Mire kell a Jet?}
-{251}{}{Nem. Az viszont annál inkább, hogy mennyit ér meg magának a hallgatásom?}
-{252}{}{Rendben, számíthat rám.}
-{253}{}{Nem érdekel.}
-{254}{}{Ez nem tartozik magára. Szerezzen egy adag Jetet, hozza el nekem, én meg fizetek érte ezer dollárt! Ez az összeg magában foglalja a hallgatását is! Rendben?}
-{255}{}{Rendben. Egyébként van is nálam egy adag.}
-{256}{}{Nem. Az viszont annál inkább, hogy mennyit ér meg magának a hallgatásom?}
-{257}{}{Számíthat rám, vállalom!}
-{258}{}{Nem érdekel.}
-{259}{}{Micsoda?! Pimasz gazember!!! Hogy merészel... megfenyegetni?!}
-{260}{}{Higgadjon le, csak tréfa volt! Nem kell pánikolni!}
-{261}{}{Én már csak ilyen bátor fickó vagyok. Szóval, mennyit ér a Polgársága? Tudja, a pusztai élet nagyon megviselheti az embert.}
-{262}{}{Ostoba voltam, hogy megbíztam magában! Legyen... mit akar t?lem?}
+{251}{}{Nem. Az viszont annÃ¡l inkÃ¡bb, hogy mennyit Ã©r meg magÃ¡nak a hallgatÃ¡som?}
+{252}{}{Rendben, szÃ¡mÃ­that rÃ¡m.}
+{253}{}{Nem Ã©rdekel.}
+{254}{}{Ez nem tartozik magÃ¡ra. Szerezzen egy adag Jetet, hozza el nekem, Ã©n meg fizetek Ã©rte ezer dollÃ¡rt! Ez az Ã¶sszeg magÃ¡ban foglalja a hallgatÃ¡sÃ¡t is! Rendben?}
+{255}{}{Rendben. EgyÃ©bkÃ©nt van is nÃ¡lam egy adag.}
+{256}{}{Nem. Az viszont annÃ¡l inkÃ¡bb, hogy mennyit Ã©r meg magÃ¡nak a hallgatÃ¡som?}
+{257}{}{SzÃ¡mÃ­that rÃ¡m, vÃ¡llalom!}
+{258}{}{Nem Ã©rdekel.}
+{259}{}{Micsoda?! Pimasz gazember!!! Hogy merÃ©szel... megfenyegetni?!}
+{260}{}{Higgadjon le, csak trÃ©fa volt! Nem kell pÃ¡nikolni!}
+{261}{}{Ã‰n mÃ¡r csak ilyen bÃ¡tor fickÃ³ vagyok. SzÃ³val, mennyit Ã©r a PolgÃ¡rsÃ¡ga? Tudja, a pusztai Ã©let nagyon megviselheti az embert.}
+{262}{}{Ostoba voltam, hogy megbÃ­ztam magÃ¡ban! Legyen... mit akar t?lem?}
 {263}{}{Five hundred on the first of every month, and we'll keep your drug smuggling between the two of
  us.}
-{264}{}{Egy ezres minden hónap elsején és megtarthatja a Polgárságát.}
-{265}{}{Kétezer minden hónap elsején és hallgatok.}
-{266}{}{Meg?rült? Ennyit nem tudok fizetni!}
-{267}{}{Jól van, nyugalom! Legyen csak ötszáz, és nem kell beavatnunk az Els? Polgárt.}
-{268}{}{Jobban teszi, ha TALÁL rá módot, különben mehet koldulni a küls? övezetébe!}
-{269}{}{Rendben van, feladom... itt a pénze!}
-{270}{}{Kösz, doki, élmény magával üzletet kötni. Hamarosan találkozunk.}
-{271}{}{Jobban teszi, ha ez továbbra is így marad, különben magán fogom tesztelni az Auto-doki kicsontozó programját. Megértette?}
-{272}{}{Ez nem olyan dolog, amivel viccelni lehet, rendkívül fontos ügyr?l van szó. Tehát ezer dollárt fizetek a Jetért, a hallgatásáért, és nincs több kérdés. Érdekli a munka vagy sem?}
-{273}{}{Még szép, hogy érdekel. Van is nálam egy adag.}
-{274}{}{Nem. Az viszont annál inkább, hogy mennyit ér meg magának a hallgatásom?}
+{264}{}{Egy ezres minden hÃ³nap elsejÃ©n Ã©s megtarthatja a PolgÃ¡rsÃ¡gÃ¡t.}
+{265}{}{KÃ©tezer minden hÃ³nap elsejÃ©n Ã©s hallgatok.}
+{266}{}{Meg?rÃ¼lt? Ennyit nem tudok fizetni!}
+{267}{}{JÃ³l van, nyugalom! Legyen csak Ã¶tszÃ¡z, Ã©s nem kell beavatnunk az Els? PolgÃ¡rt.}
+{268}{}{Jobban teszi, ha TALÃL rÃ¡ mÃ³dot, kÃ¼lÃ¶nben mehet koldulni a kÃ¼ls? Ã¶vezetÃ©be!}
+{269}{}{Rendben van, feladom... itt a pÃ©nze!}
+{270}{}{KÃ¶sz, doki, Ã©lmÃ©ny magÃ¡val Ã¼zletet kÃ¶tni. Hamarosan talÃ¡lkozunk.}
+{271}{}{Jobban teszi, ha ez tovÃ¡bbra is Ã­gy marad, kÃ¼lÃ¶nben magÃ¡n fogom tesztelni az Auto-doki kicsontozÃ³ programjÃ¡t. MegÃ©rtette?}
+{272}{}{Ez nem olyan dolog, amivel viccelni lehet, rendkÃ­vÃ¼l fontos Ã¼gyr?l van szÃ³. TehÃ¡t ezer dollÃ¡rt fizetek a JetÃ©rt, a hallgatÃ¡sÃ¡Ã©rt, Ã©s nincs tÃ¶bb kÃ©rdÃ©s. Ã‰rdekli a munka vagy sem?}
+{273}{}{MÃ©g szÃ©p, hogy Ã©rdekel. Van is nÃ¡lam egy adag.}
+{274}{}{Nem. Az viszont annÃ¡l inkÃ¡bb, hogy mennyit Ã©r meg magÃ¡nak a hallgatÃ¡som?}
 {275}{}{Rendben, persze... megteszem.}
-{276}{}{Nem érdekel.}
-{277}{}{Tényleg?}
-{278}{}{Ez nagyszer?! Köszönöm, barátom! El sem tudja képzelni, milyen fontos ez a számomra. Itt a pénze.}
-{279}{}{Köszönöm! Miel?tt indulnék, kérdeznék valamit.}
-{280}{}{Szerintem nem kéne belélegeznie azt a szart. Higgyen nekem!}
-{281}{}{Kösz, viszlát!}
-{282}{}{Üdvözlöm, Kapitány! Miben lehetek a segítségére?}
-{283}{}{Üdvözlöm, Polgártárs! Miben lehetek a segítségére?}
-{284}{}{Miben segíthetek?}
+{276}{}{Nem Ã©rdekel.}
+{277}{}{TÃ©nyleg?}
+{278}{}{Ez nagyszer?! KÃ¶szÃ¶nÃ¶m, barÃ¡tom! El sem tudja kÃ©pzelni, milyen fontos ez a szÃ¡momra. Itt a pÃ©nze.}
+{279}{}{KÃ¶szÃ¶nÃ¶m! Miel?tt indulnÃ©k, kÃ©rdeznÃ©k valamit.}
+{280}{}{Szerintem nem kÃ©ne belÃ©legeznie azt a szart. Higgyen nekem!}
+{281}{}{KÃ¶sz, viszlÃ¡t!}
+{282}{}{ÃœdvÃ¶zlÃ¶m, KapitÃ¡ny! Miben lehetek a segÃ­tsÃ©gÃ©re?}
+{283}{}{ÃœdvÃ¶zlÃ¶m, PolgÃ¡rtÃ¡rs! Miben lehetek a segÃ­tsÃ©gÃ©re?}
+{284}{}{Miben segÃ­thetek?}
 {285}{}{Igen?}
 {286}{}{Nekem lenni bibi.}
-{287}{}{Segg... ít... ség?}
-{288}{}{(Elpályázol)}
-{289}{}{Orvosi ellátásra van szükségem.}
-{290}{}{Egy kollégához van szerencsém? Én is sokat foglalkozom az orvostudományokkal.}
+{287}{}{Segg... Ã­t... sÃ©g?}
+{288}{}{(ElpÃ¡lyÃ¡zol)}
+{289}{}{Orvosi ellÃ¡tÃ¡sra van szÃ¼ksÃ©gem.}
+{290}{}{Egy kollÃ©gÃ¡hoz van szerencsÃ©m? Ã‰n is sokat foglalkozom az orvostudomÃ¡nyokkal.}
 {291}{}{Do you have any endorphin blockers?}
-{292}{}{Nálam van a Jet, amit kért.}
-{293}{}{Arról a bizonyos munkáról lenne szó. Mi lenne a dolgom?}
-{294}{}{A Jettel kapcsolatban, amit kért. Szerintem a többi Polgár is szeretne tudni róla.}
-{295}{}{Azt hiszem, semmiben. Viszlát!}
-{296}{}{Van itt egy bevált szérum, ez segíteni fog. A legtöbb Polgár már évekkel ezel?tt megkapta, ezért szinte teljesen megfeledkeztem róla. Várjon egy percet, felkészítem az Auto-dokit a m?veletre!}
+{292}{}{NÃ¡lam van a Jet, amit kÃ©rt.}
+{293}{}{ArrÃ³l a bizonyos munkÃ¡rÃ³l lenne szÃ³. Mi lenne a dolgom?}
+{294}{}{A Jettel kapcsolatban, amit kÃ©rt. Szerintem a tÃ¶bbi PolgÃ¡r is szeretne tudni rÃ³la.}
+{295}{}{Azt hiszem, semmiben. ViszlÃ¡t!}
+{296}{}{Van itt egy bevÃ¡lt szÃ©rum, ez segÃ­teni fog. A legtÃ¶bb PolgÃ¡r mÃ¡r Ã©vekkel ezel?tt megkapta, ezÃ©rt szinte teljesen megfeledkeztem rÃ³la. VÃ¡rjon egy percet, felkÃ©szÃ­tem az Auto-dokit a m?veletre!}
 {297}{}{Rendben.}
-{298}{}{Kész is vagyunk. Azt azért tudnia kell, ez az oltás nem teszi immunissá a mérgekkel és a sugárzással szemben, csak megnöveli a természetes ellenálló képességét.}
-{299}{}{Köszönöm! Feltennék egy kérdést, ha lehet.}
-{300}{}{Köszönöm, doktor!}
+{298}{}{KÃ©sz is vagyunk. Azt azÃ©rt tudnia kell, ez az oltÃ¡s nem teszi immunissÃ¡ a mÃ©rgekkel Ã©s a sugÃ¡rzÃ¡ssal szemben, csak megnÃ¶veli a termÃ©szetes ellenÃ¡llÃ³ kÃ©pessÃ©gÃ©t.}
+{299}{}{KÃ¶szÃ¶nÃ¶m! FeltennÃ©k egy kÃ©rdÃ©st, ha lehet.}
+{300}{}{KÃ¶szÃ¶nÃ¶m, doktor!}
 {301}{}{Maga az? Mit akar?}
-{302}{}{Megsérültem.}
-{303}{}{Megmérgeztek.}
-{304}{}{Sugárfert?zést kaptam.}
-{305}{}{A pénzemért jöttem. Megvan?}
-{306}{}{Csak beugrottam, hogy figyelmeztessem, közeleg elseje és jobban teszi, ha összeszedi addigra a pénzt.}
-{307}{}{Tulajdonképpen... semmit.}
-{308}{}{Nem felejtettem el, itt a pénze. Most pedig t?njön el!}
-{309}{}{Várjon! El?bb orvosi ellátásra van szükségem.}
-{310}{}{Várjon! Megmérgeztek, gyógyítson meg!}
-{311}{}{Várjon! Sugárfert?zött vagyok, gyógyítson meg!}
-{312}{}{Örültem az üzletnek. Hamarosan találkozunk, doki.}
-{313}{}{Nem felejtettem el, meg fogja kapni a pénzét. Most pedig t?njön el!}
-{314}{}{Várjon! El?bb orvosi ellátásra van szükségem.}
-{315}{}{Várjon! Megmérgeztek, gyógyítson meg!}
-{316}{}{Várjon! Sugárfert?zött vagyok, gyógyítson meg!}
+{302}{}{MegsÃ©rÃ¼ltem.}
+{303}{}{MegmÃ©rgeztek.}
+{304}{}{SugÃ¡rfert?zÃ©st kaptam.}
+{305}{}{A pÃ©nzemÃ©rt jÃ¶ttem. Megvan?}
+{306}{}{Csak beugrottam, hogy figyelmeztessem, kÃ¶zeleg elseje Ã©s jobban teszi, ha Ã¶sszeszedi addigra a pÃ©nzt.}
+{307}{}{TulajdonkÃ©ppen... semmit.}
+{308}{}{Nem felejtettem el, itt a pÃ©nze. Most pedig t?njÃ¶n el!}
+{309}{}{VÃ¡rjon! El?bb orvosi ellÃ¡tÃ¡sra van szÃ¼ksÃ©gem.}
+{310}{}{VÃ¡rjon! MegmÃ©rgeztek, gyÃ³gyÃ­tson meg!}
+{311}{}{VÃ¡rjon! SugÃ¡rfert?zÃ¶tt vagyok, gyÃ³gyÃ­tson meg!}
+{312}{}{Ã–rÃ¼ltem az Ã¼zletnek. Hamarosan talÃ¡lkozunk, doki.}
+{313}{}{Nem felejtettem el, meg fogja kapni a pÃ©nzÃ©t. Most pedig t?njÃ¶n el!}
+{314}{}{VÃ¡rjon! El?bb orvosi ellÃ¡tÃ¡sra van szÃ¼ksÃ©gem.}
+{315}{}{VÃ¡rjon! MegmÃ©rgeztek, gyÃ³gyÃ­tson meg!}
+{316}{}{VÃ¡rjon! SugÃ¡rfert?zÃ¶tt vagyok, gyÃ³gyÃ­tson meg!}
 {317}{}{That's all I want to hear. See you soon, Doc.}
-{318}{}{El?ször is ellen?riznem kell az életfunkcióit. Kérem, feküdjön le ide...}
+{318}{}{El?szÃ¶r is ellen?riznem kell az Ã©letfunkciÃ³it. KÃ©rem, fekÃ¼djÃ¶n le ide...}
 {320}{}{Hmmmm. It seems that during the start-up procedure, an operator priority override has caused the
  Auto-Doc to accidentally inject you with Sodium Tri-Ethylene.}
 {321}{}{Mit? Mi van? Mit motyog?}
-{322}{}{Csak azt, hogy kevesebb mint tíz másodperc van hátra az életéb?l. Az ostobasága minden képzeletet felülmúl! Megzsarol, majd az életét a kezembe adja?! Elképeszt?. Na... viszlát, BARÁTOM! Jó utat!}
-{323}{}{Tele a bakancsom, most tölthetem vissza a mentésemet. Ne féljen, doki! Egy perc múlva itt vagyok és akkor KICSINÁLOM!!!}
-{324}{}{Hééé... és mi van a Hippokratészi esküvel?! Én...}
-{325}{}{...kísérteni fogom a sírból is. Ígérem!}
-{326}{}{Hogy jutott be ide? Attól tarok, barátom, el kel mennie. Várjon egy pillanatot, hívok néhány ?rt, hogy kikísérjenek!}
-{327}{}{ÉN NEM LENNI SETÉTT!}
+{322}{}{Csak azt, hogy kevesebb mint tÃ­z mÃ¡sodperc van hÃ¡tra az Ã©letÃ©b?l. Az ostobasÃ¡ga minden kÃ©pzeletet felÃ¼lmÃºl! Megzsarol, majd az Ã©letÃ©t a kezembe adja?! ElkÃ©peszt?. Na... viszlÃ¡t, BARÃTOM! JÃ³ utat!}
+{323}{}{Tele a bakancsom, most tÃ¶lthetem vissza a mentÃ©semet. Ne fÃ©ljen, doki! Egy perc mÃºlva itt vagyok Ã©s akkor KICSINÃLOM!!!}
+{324}{}{HÃ©Ã©Ã©... Ã©s mi van a HippokratÃ©szi eskÃ¼vel?! Ã‰n...}
+{325}{}{...kÃ­sÃ©rteni fogom a sÃ­rbÃ³l is. ÃgÃ©rem!}
+{326}{}{Hogy jutott be ide? AttÃ³l tarok, barÃ¡tom, el kel mennie. VÃ¡rjon egy pillanatot, hÃ­vok nÃ©hÃ¡ny ?rt, hogy kikÃ­sÃ©rjenek!}
+{327}{}{Ã‰N NEM LENNI SETÃ‰TT!}
 {328}{}{(Stand around for a moment)}
-{329}{}{Jó hírem van! Sikerült ellenanyagot készítenem abból a Jetb?l, amit nekem adott.}
-{330}{}{Jó hírem van, megtaláltam a Jet ellenszerét. Nem sikerült volna az ön briliáns ötlete nélkül.}
+{329}{}{JÃ³ hÃ­rem van! SikerÃ¼lt ellenanyagot kÃ©szÃ­tenem abbÃ³l a Jetb?l, amit nekem adott.}
+{330}{}{JÃ³ hÃ­rem van, megtalÃ¡ltam a Jet ellenszerÃ©t. Nem sikerÃ¼lt volna az Ã¶n briliÃ¡ns Ã¶tlete nÃ©lkÃ¼l.}
 {331}{}{Once taken, it nullifies Jet's withdrawal symptoms and also... removes the euphoria associated
  with the drug.}
-{332}{}{Nagyszer?! Kaphatnék bel?le?}
-{333}{}{Ez valóban jó hír. Kaphatnék egy adagot? Szeretnék segíteni Redding lakóin.}
-{334}{}{Természetesen. Kérem, vigye el a reddingi kollégámnak, Dr. Johnsonnak! ? majd segít a rászorulókon.}
-{335}{}{A Jet-probléma különösen Reddinget érinti. Ha elviszi az ellenanyagot Dr. Johnsonnak, ? majd  eljuttatja a rászorulóknak.}
-{336}{}{Rendben van, elviszem Dr.Johnsonnak. El?tte azonban kérdeznék valamit.}
-{337}{}{Köszönöm, doki. Azonnal indulok.}
-{338}{}{Nagyszer?! Jöjjön vissza, ha szerzett egy adag Jetet és rögtön megkapja a pénzét!}
-{339}{}{Megegyeztünk, de kérdezhetnék még valamit?}
-{340}{}{Hamarosan visszajövök a Jettel. Viszlát!}
+{332}{}{Nagyszer?! KaphatnÃ©k bel?le?}
+{333}{}{Ez valÃ³ban jÃ³ hÃ­r. KaphatnÃ©k egy adagot? SzeretnÃ©k segÃ­teni Redding lakÃ³in.}
+{334}{}{TermÃ©szetesen. KÃ©rem, vigye el a reddingi kollÃ©gÃ¡mnak, Dr. Johnsonnak! ? majd segÃ­t a rÃ¡szorulÃ³kon.}
+{335}{}{A Jet-problÃ©ma kÃ¼lÃ¶nÃ¶sen Reddinget Ã©rinti. Ha elviszi az ellenanyagot Dr. Johnsonnak, ? majd  eljuttatja a rÃ¡szorulÃ³knak.}
+{336}{}{Rendben van, elviszem Dr.Johnsonnak. El?tte azonban kÃ©rdeznÃ©k valamit.}
+{337}{}{KÃ¶szÃ¶nÃ¶m, doki. Azonnal indulok.}
+{338}{}{Nagyszer?! JÃ¶jjÃ¶n vissza, ha szerzett egy adag Jetet Ã©s rÃ¶gtÃ¶n megkapja a pÃ©nzÃ©t!}
+{339}{}{MegegyeztÃ¼nk, de kÃ©rdezhetnÃ©k mÃ©g valamit?}
+{340}{}{Hamarosan visszajÃ¶vÃ¶k a Jettel. ViszlÃ¡t!}
 {341}{}{Yes, I'm familiar with them. It's an invasive procedure, where impact plates and thermal
  dissipater membranes are grafted to the skeleton to help protect against physical trauma and heat. Why
  do you ask?}
-{342}{}{Igen, már korábban is említette. Sajnálom, de nem fogom elvégezni az operációt. Az eljárás visszafordíthatatlan és több kárt okoz, mint amennyi haszna van.}
-{343}{}{Ezeket a terveket az orvosi adatbázisában találtam. Elvégezne rajtam egy ilyen operációt?}
-{344}{}{Végrehajtana egy ilyen m?tétet?}
-{345}{}{Kérdeznék valami mást.}
-{346}{}{Csak kíváncsiskodtam.}
-{347}{}{Értem. Azért bízom benne, hogy találok majd valakit, aki vállalja a beavatkozást.}
-{348}{}{Nem, sajnálom. Az implantok beültetése veszélyes eljárás, a felépülési id? pedig hosszú és fájdalmas. Arról nem is beszélve, hogy akiken végrehajtottuk az operációt, deformálódott a csontvázuk.}
-{349}{}{Azért én csak megkockáztatnám. Elvállalja?}
-{350}{}{Mint azt már mondtam, NEM! Csak vészhelyzetben végeznék el egy ilyen operációt, a nagyobb biztonságérzete kedvéért nem. Magas a rizikófaktor és az implantok nem nyújtanak nagyobb védelmet, mint egy közönséges harci páncél.}
-{351}{}{Kösz a tippet. Kérdezhetnék még valamit?}
-{352}{}{Köszönöm.}
-{353}{}{Értem. Azért bízom benne, hogy találok majd valakit, aki vállalja a beavatkozást.}
-{354}{}{Sajnálom, de orvosi ellátásban kizárólag Polgárok részesülhetnek. Nem tehetek kivételt, a páciensek adatait egy számítógépen rögzítik... [halkabban kezd beszélni]... A harmadik szinten van néhány stimpakk. Véleményem szerint ezek senkinek se hiányoznának.}
-{355}{}{Kösz a tippet. Kérdezhetnék még valamit?}
-{356}{}{Nagyszer?. Megyek és megkeresem.}
-{357}{}{Természetesen, Kapitány. Mit tehetek önért és a barátaiért?}
-{358}{}{Természetesen, Kapitány. Mit tehetek önért és a barátjáért?}
-{359}{}{El?ször is ellen?riznem kell az életfunkcióit. Kérem, feküdjön le ide...}
-{361}{}{A barátjának nagyon sok lövedék és repesz volt a testében. Kész csoda, hogy egyáltalán még él. Szerencsére sikerült az összeset eltávolítanom.}
-{362}{}{Ez majd rendbe hozza. Csak szólnia kell, ha ismét a segítségemre lenne szüksége!}
-{363}{}{Megsérültem.}
-{364}{}{Sugárfert?zést kaptam.}
-{365}{}{Megmérgeztek. Segítene rajtam?}
-{366}{}{Köszönöm, doktor. Mondja csak, tud valamit a dermális beültetésekr?l?}
-{367}{}{Feltehetnék néhány kérdést?}
-{368}{}{Valószín?leg még találkozunk. Viszlát!}
-{369}{}{Állok a rendelkezésére, Polgártárs. Mi a probléma?}
-{370}{}{Állok a rendelkezésére, Kapitány. Mi a probléma?}
-{371}{}{Állok a rendelkezésére. Mi a probléma?}
-{372}{}{Megsérültem.}
-{373}{}{Sugárfert?zést kaptam.}
-{374}{}{Megmérgeztek.}
-{375}{}{Meggyógyítaná a barátomat?}
-{376}{}{Meggyógyítaná a barátaimat?}
-{377}{}{Hallott már a dermális beültetésekr?l?}
-{378}{}{Hagyjuk! Kérdeznék valami mást.}
-{379}{}{Nem fontos. Viszlát!}
-{380}{}{El?ször is ellen?riznem kell az életfunkcióit. Kérem, feküdjön le ide...}
-{382}{}{Ett?l majd rendbe jön. Nos, hogy érzi magát?}
-{383}{}{Remekül! Meggyógyítaná a barátomat is?}
-{384}{}{Remekül! Meggyógyítaná a barátaimat is?}
-{385}{}{Hallott már a dermális beültetésekr?l?}
-{386}{}{Sokkal jobban vagyok, köszönöm! Feltehetnék egy kérdést?}
-{387}{}{Köszönöm, doktor!}
-{388}{}{El?ször is ellen?riznem kell az életfunkcióit. Kérem, feküdjön le ide...}
-{390}{}{Ett?l majd rendbe jön. Nos, hogy érzi magát?}
-{391}{}{Sokkal jobban, köszönöm! A múltkor említette, hogy van egy véd?oltásuk, ami növeli a mérgekkel és a sugárzással szembeni ellenálló képességet. Megkaphatnám?}
-{392}{}{Remekül! Meggyógyítaná a barátomat is?}
-{393}{}{Remekül! Meggyógyítaná a barátaimat is?}
-{394}{}{Hallott már a dermális beültetésekr?l?}
-{395}{}{Sokkal jobban vagyok, köszönöm! Feltehetnék egy kérdést?}
-{396}{}{Köszönöm, doktor!}
-{397}{}{?rség!}
+{342}{}{Igen, mÃ¡r korÃ¡bban is emlÃ­tette. SajnÃ¡lom, de nem fogom elvÃ©gezni az operÃ¡ciÃ³t. Az eljÃ¡rÃ¡s visszafordÃ­thatatlan Ã©s tÃ¶bb kÃ¡rt okoz, mint amennyi haszna van.}
+{343}{}{Ezeket a terveket az orvosi adatbÃ¡zisÃ¡ban talÃ¡ltam. ElvÃ©gezne rajtam egy ilyen operÃ¡ciÃ³t?}
+{344}{}{VÃ©grehajtana egy ilyen m?tÃ©tet?}
+{345}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{346}{}{Csak kÃ­vÃ¡ncsiskodtam.}
+{347}{}{Ã‰rtem. AzÃ©rt bÃ­zom benne, hogy talÃ¡lok majd valakit, aki vÃ¡llalja a beavatkozÃ¡st.}
+{348}{}{Nem, sajnÃ¡lom. Az implantok beÃ¼ltetÃ©se veszÃ©lyes eljÃ¡rÃ¡s, a felÃ©pÃ¼lÃ©si id? pedig hosszÃº Ã©s fÃ¡jdalmas. ArrÃ³l nem is beszÃ©lve, hogy akiken vÃ©grehajtottuk az operÃ¡ciÃ³t, deformÃ¡lÃ³dott a csontvÃ¡zuk.}
+{349}{}{AzÃ©rt Ã©n csak megkockÃ¡ztatnÃ¡m. ElvÃ¡llalja?}
+{350}{}{Mint azt mÃ¡r mondtam, NEM! Csak vÃ©szhelyzetben vÃ©geznÃ©k el egy ilyen operÃ¡ciÃ³t, a nagyobb biztonsÃ¡gÃ©rzete kedvÃ©Ã©rt nem. Magas a rizikÃ³faktor Ã©s az implantok nem nyÃºjtanak nagyobb vÃ©delmet, mint egy kÃ¶zÃ¶nsÃ©ges harci pÃ¡ncÃ©l.}
+{351}{}{KÃ¶sz a tippet. KÃ©rdezhetnÃ©k mÃ©g valamit?}
+{352}{}{KÃ¶szÃ¶nÃ¶m.}
+{353}{}{Ã‰rtem. AzÃ©rt bÃ­zom benne, hogy talÃ¡lok majd valakit, aki vÃ¡llalja a beavatkozÃ¡st.}
+{354}{}{SajnÃ¡lom, de orvosi ellÃ¡tÃ¡sban kizÃ¡rÃ³lag PolgÃ¡rok rÃ©szesÃ¼lhetnek. Nem tehetek kivÃ©telt, a pÃ¡ciensek adatait egy szÃ¡mÃ­tÃ³gÃ©pen rÃ¶gzÃ­tik... [halkabban kezd beszÃ©lni]... A harmadik szinten van nÃ©hÃ¡ny stimpakk. VÃ©lemÃ©nyem szerint ezek senkinek se hiÃ¡nyoznÃ¡nak.}
+{355}{}{KÃ¶sz a tippet. KÃ©rdezhetnÃ©k mÃ©g valamit?}
+{356}{}{Nagyszer?. Megyek Ã©s megkeresem.}
+{357}{}{TermÃ©szetesen, KapitÃ¡ny. Mit tehetek Ã¶nÃ©rt Ã©s a barÃ¡taiÃ©rt?}
+{358}{}{TermÃ©szetesen, KapitÃ¡ny. Mit tehetek Ã¶nÃ©rt Ã©s a barÃ¡tjÃ¡Ã©rt?}
+{359}{}{El?szÃ¶r is ellen?riznem kell az Ã©letfunkciÃ³it. KÃ©rem, fekÃ¼djÃ¶n le ide...}
+{361}{}{A barÃ¡tjÃ¡nak nagyon sok lÃ¶vedÃ©k Ã©s repesz volt a testÃ©ben. KÃ©sz csoda, hogy egyÃ¡ltalÃ¡n mÃ©g Ã©l. SzerencsÃ©re sikerÃ¼lt az Ã¶sszeset eltÃ¡volÃ­tanom.}
+{362}{}{Ez majd rendbe hozza. Csak szÃ³lnia kell, ha ismÃ©t a segÃ­tsÃ©gemre lenne szÃ¼ksÃ©ge!}
+{363}{}{MegsÃ©rÃ¼ltem.}
+{364}{}{SugÃ¡rfert?zÃ©st kaptam.}
+{365}{}{MegmÃ©rgeztek. SegÃ­tene rajtam?}
+{366}{}{KÃ¶szÃ¶nÃ¶m, doktor. Mondja csak, tud valamit a dermÃ¡lis beÃ¼ltetÃ©sekr?l?}
+{367}{}{FeltehetnÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{368}{}{ValÃ³szÃ­n?leg mÃ©g talÃ¡lkozunk. ViszlÃ¡t!}
+{369}{}{Ãllok a rendelkezÃ©sÃ©re, PolgÃ¡rtÃ¡rs. Mi a problÃ©ma?}
+{370}{}{Ãllok a rendelkezÃ©sÃ©re, KapitÃ¡ny. Mi a problÃ©ma?}
+{371}{}{Ãllok a rendelkezÃ©sÃ©re. Mi a problÃ©ma?}
+{372}{}{MegsÃ©rÃ¼ltem.}
+{373}{}{SugÃ¡rfert?zÃ©st kaptam.}
+{374}{}{MegmÃ©rgeztek.}
+{375}{}{MeggyÃ³gyÃ­tanÃ¡ a barÃ¡tomat?}
+{376}{}{MeggyÃ³gyÃ­tanÃ¡ a barÃ¡taimat?}
+{377}{}{Hallott mÃ¡r a dermÃ¡lis beÃ¼ltetÃ©sekr?l?}
+{378}{}{Hagyjuk! KÃ©rdeznÃ©k valami mÃ¡st.}
+{379}{}{Nem fontos. ViszlÃ¡t!}
+{380}{}{El?szÃ¶r is ellen?riznem kell az Ã©letfunkciÃ³it. KÃ©rem, fekÃ¼djÃ¶n le ide...}
+{382}{}{Ett?l majd rendbe jÃ¶n. Nos, hogy Ã©rzi magÃ¡t?}
+{383}{}{RemekÃ¼l! MeggyÃ³gyÃ­tanÃ¡ a barÃ¡tomat is?}
+{384}{}{RemekÃ¼l! MeggyÃ³gyÃ­tanÃ¡ a barÃ¡taimat is?}
+{385}{}{Hallott mÃ¡r a dermÃ¡lis beÃ¼ltetÃ©sekr?l?}
+{386}{}{Sokkal jobban vagyok, kÃ¶szÃ¶nÃ¶m! FeltehetnÃ©k egy kÃ©rdÃ©st?}
+{387}{}{KÃ¶szÃ¶nÃ¶m, doktor!}
+{388}{}{El?szÃ¶r is ellen?riznem kell az Ã©letfunkciÃ³it. KÃ©rem, fekÃ¼djÃ¶n le ide...}
+{390}{}{Ett?l majd rendbe jÃ¶n. Nos, hogy Ã©rzi magÃ¡t?}
+{391}{}{Sokkal jobban, kÃ¶szÃ¶nÃ¶m! A mÃºltkor emlÃ­tette, hogy van egy vÃ©d?oltÃ¡suk, ami nÃ¶veli a mÃ©rgekkel Ã©s a sugÃ¡rzÃ¡ssal szembeni ellenÃ¡llÃ³ kÃ©pessÃ©get. MegkaphatnÃ¡m?}
+{392}{}{RemekÃ¼l! MeggyÃ³gyÃ­tanÃ¡ a barÃ¡tomat is?}
+{393}{}{RemekÃ¼l! MeggyÃ³gyÃ­tanÃ¡ a barÃ¡taimat is?}
+{394}{}{Hallott mÃ¡r a dermÃ¡lis beÃ¼ltetÃ©sekr?l?}
+{395}{}{Sokkal jobban vagyok, kÃ¶szÃ¶nÃ¶m! FeltehetnÃ©k egy kÃ©rdÃ©st?}
+{396}{}{KÃ¶szÃ¶nÃ¶m, doktor!}
+{397}{}{?rsÃ©g!}
 {398}{}{Zzzzzzz.}
 {399}{}{You explain to Dr. Troy about the manufacturing process of Jet.}

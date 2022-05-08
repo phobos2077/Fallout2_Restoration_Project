@@ -1,22 +1,22 @@
-{100}{}{Você vê um bandido.}
-{101}{}{Você vê um demolidor.}
-{102}{}{Você vê um ladrão.}
-{103}{}{Você vê um salteador.}
-{104}{}{Você vê um malandro.}
+{100}{}{VocÃª vÃª um bandido.}
+{101}{}{VocÃª vÃª um demolidor.}
+{102}{}{VocÃª vÃª um ladrÃ£o.}
+{103}{}{VocÃª vÃª um salteador.}
+{104}{}{VocÃª vÃª um malandro.}
 {200}{}{Render!}
 {201}{}{Seu dinheiro ou sua vida.}
-{202}{}{Esta é uma vantagem.}
-{203}{}{Dá-me todos os seus bens.}
-{204}{}{Não se mova! Isso é um assalto.}
-{205}{}{Coloque suas mãos para cima.}
+{202}{}{Esta Ã© uma vantagem.}
+{203}{}{DÃ¡-me todos os seus bens.}
+{204}{}{NÃ£o se mova! Isso Ã© um assalto.}
+{205}{}{Coloque suas mÃ£os para cima.}
 {206}{}{Pegue-os.}
-{207}{}{Não entre em pânico; Isso acabará em um minuto.}
-{208}{}{Vamos ver essas mãos aí.}
+{207}{}{NÃ£o entre em pÃ¢nico; Isso acabarÃ¡ em um minuto.}
+{208}{}{Vamos ver essas mÃ£os aÃ­.}
 {209}{}{Cubra-me, companheiros.}
-{210}{}{Não faça isso duro consigo mesmo.}
+{210}{}{NÃ£o faÃ§a isso duro consigo mesmo.}
 {211}{}{Entregue o saque. }
 {212}{}{Pegue-os, meninos.}
 {213}{}{Matem todos.}
-{214}{}{Eu prometo tornar sua morte rápida.}
-{215}{}{Alcançar os céus.}
-{216}{}{Não se mova.}
+{214}{}{Eu prometo tornar sua morte rÃ¡pida.}
+{215}{}{AlcanÃ§ar os cÃ©us.}
+{216}{}{NÃ£o se mova.}

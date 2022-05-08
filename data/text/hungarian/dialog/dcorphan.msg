@@ -1,53 +1,53 @@
 {100}{}{Egy gyerek.}
-{150}{}{Egy kis árva gyereket látsz.}
-{200}{}{Nincs egy kis apród?}
+{150}{}{Egy kis Ã¡rva gyereket lÃ¡tsz.}
+{200}{}{Nincs egy kis aprÃ³d?}
 {201}{}{Mi?}
-{202}{}{Nem csináltam semmit!}
+{202}{}{Nem csinÃ¡ltam semmit!}
 {210}{}{Ez Tubby helye.}
-{211}{}{Tubby rossz dolgokat árul.}
-{212}{}{Tubby nem túl kedves.}
+{211}{}{Tubby rossz dolgokat Ã¡rul.}
+{212}{}{Tubby nem tÃºl kedves.}
 {213}{}{Tubbynak fura szaga van.}
 {220}{}{Ez Flick boltja.}
 {221}{}{Flick kedves.}
-{222}{}{Flick nagyon sok fajta dolgot árul.}
-{223}{}{Ne felejtsd el üdvözölni Flicket.}
+{222}{}{Flick nagyon sok fajta dolgot Ã¡rul.}
+{223}{}{Ne felejtsd el Ã¼dvÃ¶zÃ¶lni Flicket.}
 {230}{}{Ez Frankie helye.}
-{231}{}{Te Frankie barátja vagy?}
-{232}{}{Ennek a helynek nem túl kellemes a szaga.}
-{233}{}{Frankie-nél drága az ital... azt mondják.}
+{231}{}{Te Frankie barÃ¡tja vagy?}
+{232}{}{Ennek a helynek nem tÃºl kellemes a szaga.}
+{233}{}{Frankie-nÃ©l drÃ¡ga az ital... azt mondjÃ¡k.}
 {240}{}{Becky olyan kedves.}
-{241}{}{Ez Rebecca háza.}
-{242}{}{Becky-nél a legolcsóbb az ital... azt mondják.}
-{243}{}{Rebecca nem engedi, hogy játsszak a játékaival.}
-{244}{}{Becky olyan szép.}
-{245}{}{Találkoztál már Rebeccával? Jó lenne, ha ? lenne az anyukám.}
-{250}{}{Néni, nincs egy kis apród?}
-{251}{}{Bácsi, nincs egy kis apród?}
-{270}{}{Csak itt akarsz álldogálni vagy be is mész?}
+{241}{}{Ez Rebecca hÃ¡za.}
+{242}{}{Becky-nÃ©l a legolcsÃ³bb az ital... azt mondjÃ¡k.}
+{243}{}{Rebecca nem engedi, hogy jÃ¡tsszak a jÃ¡tÃ©kaival.}
+{244}{}{Becky olyan szÃ©p.}
+{245}{}{TalÃ¡lkoztÃ¡l mÃ¡r RebeccÃ¡val? JÃ³ lenne, ha ? lenne az anyukÃ¡m.}
+{250}{}{NÃ©ni, nincs egy kis aprÃ³d?}
+{251}{}{BÃ¡csi, nincs egy kis aprÃ³d?}
+{270}{}{Csak itt akarsz Ã¡lldogÃ¡lni vagy be is mÃ©sz?}
 {271}{}{Szia!}
-{272}{}{Éhes vagyok.}
-{273}{}{Hahó! Tubby boltja mindig nyitva áll. Gyere be!}
-{280}{}{Bemész vagy sem?}
-{281}{}{Gyere, nézd meg Flick boltját!}
+{272}{}{Ã‰hes vagyok.}
+{273}{}{HahÃ³! Tubby boltja mindig nyitva Ã¡ll. Gyere be!}
+{280}{}{BemÃ©sz vagy sem?}
+{281}{}{Gyere, nÃ©zd meg Flick boltjÃ¡t!}
 {282}{}{Szia!}
-{283}{}{Hahó! Nézz be Flick-hez!}
-{290}{}{Na, bemész?}
+{283}{}{HahÃ³! NÃ©zz be Flick-hez!}
+{290}{}{Na, bemÃ©sz?}
 {291}{}{Szia!}
-{292}{}{Ne csináld ez!}
-{293}{}{Hé! Frankie-nél remek dolgokat vásárolhatsz.}
+{292}{}{Ne csinÃ¡ld ez!}
+{293}{}{HÃ©! Frankie-nÃ©l remek dolgokat vÃ¡sÃ¡rolhatsz.}
 {300}{}{Menj csak be, Becky nagyon kedves!}
 {301}{}{Nyitva tartom a szemem...}
-{302}{}{Hú, de szép vagy.}
+{302}{}{HÃº, de szÃ©p vagy.}
 {303}{}{Szia!}
-{304}{}{Hogy hívnak?}
-{305}{}{Szerintem tetszenél Becky-nek.}
-{306}{}{Gyere, nézz be Becky-hez!}
-{310}{}{Áááá! Hagyj békén!}
-{311}{}{Segítség, elnyomnak!}
-{312}{}{Láthatják, az er?szak e rendszer velejárója.}
-{313}{}{Nem is csináltam semmit.}
-{314}{}{Ááááh!}
-{315}{}{Nem talált!}
+{304}{}{Hogy hÃ­vnak?}
+{305}{}{Szerintem tetszenÃ©l Becky-nek.}
+{306}{}{Gyere, nÃ©zz be Becky-hez!}
+{310}{}{ÃÃ¡Ã¡Ã¡! Hagyj bÃ©kÃ©n!}
+{311}{}{SegÃ­tsÃ©g, elnyomnak!}
+{312}{}{LÃ¡thatjÃ¡k, az er?szak e rendszer velejÃ¡rÃ³ja.}
+{313}{}{Nem is csinÃ¡ltam semmit.}
+{314}{}{ÃÃ¡Ã¡Ã¡h!}
+{315}{}{Nem talÃ¡lt!}
 {316}{}{Megvagy!}
 {317}{}{Ne!}
 {318}{}{Hagyd abba!}

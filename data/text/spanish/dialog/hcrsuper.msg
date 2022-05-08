@@ -1,55 +1,55 @@
 {100}{}{Ves una rara cosa mutante con la piel manchada y una sonrisa espantosa.}
-{101}{}{Ves al supervisor de la refinería.}
-{102}{}{Ves a un necrófago. Parece como si su piel estuviera a punto de desprenderse de la criatura. También parece que es fácilmente aceptado por los otros ciudadanos.}
-{103}{}{¡Se supone que no puedes estar aquí!}
-{104}{}{¿Qué quieres?}
-{105}{}{¡Da yagga! ¡Eep oop op!}
-{106}{}{No sé.}
+{101}{}{Ves al supervisor de la refinerÃ­a.}
+{102}{}{Ves a un necrÃ³fago. Parece como si su piel estuviera a punto de desprenderse de la criatura. TambiÃ©n parece que es fÃ¡cilmente aceptado por los otros ciudadanos.}
+{103}{}{Â¡Se supone que no puedes estar aquÃ­!}
+{104}{}{Â¿QuÃ© quieres?}
+{105}{}{Â¡Da yagga! Â¡Eep oop op!}
+{106}{}{No sÃ©.}
 {107}{}{Tengo un poco de mineral para refinar.}
-{108}{}{¿Quién eres?}
-{109}{}{¿Qué lugar es éste?}
+{108}{}{Â¿QuiÃ©n eres?}
+{109}{}{Â¿QuÃ© lugar es Ã©ste?}
 {110}{}{Quiero algo de uranio.}
 {111}{}{Nada.}
-{112}{}{Olvídalo. Adiós.}
-{113}{}{Mira, hijo, lamento que no tengas cerebro. Pero no puedes estar aquí. Ahora, vete.}
+{112}{}{OlvÃ­dalo. AdiÃ³s.}
+{113}{}{Mira, hijo, lamento que no tengas cerebro. Pero no puedes estar aquÃ­. Ahora, vete.}
 {114}{}{[HECHO]}
-{115}{}{No puedes estar aquí. Es peligroso. Vete ya.}
+{115}{}{No puedes estar aquÃ­. Es peligroso. Vete ya.}
 {116}{}{[HECHO]}
-{117}{}{Grandioso. Serán 1.000 dólares, sin regateos. Puedes pensar que es costoso, pero es una ganga considerando lo que obtendrás por el producto terminado.}
+{117}{}{Grandioso. SerÃ¡n 1.000 dÃ³lares, sin regateos. Puedes pensar que es costoso, pero es una ganga considerando lo que obtendrÃ¡s por el producto terminado.}
 {118}{}{Es un trato.}
-{119}{}{1.000 dólares? Eso es ridículo. Olvídalo.}
-{120}{}{Soy el supervisor de esta refinería. ¿Qué quieres?}
-{121}{}{¿Qué lugar es éste?}
+{119}{}{1.000 dÃ³lares? Eso es ridÃ­culo. OlvÃ­dalo.}
+{120}{}{Soy el supervisor de esta refinerÃ­a. Â¿QuÃ© quieres?}
+{121}{}{Â¿QuÃ© lugar es Ã©ste?}
 {122}{}{Quiero un poco de mineral refinado.}
 {123}{}{Quiero algo de uranio.}
 {124}{}{Nada.}
-{125}{}{Esta es la refinería de Broken Hills. Aquí es donde purificamos el mineral extraído de la mina. ¿Qué quieres?}
-{126}{}{¿Qué lugar es éste?}
+{125}{}{Esta es la refinerÃ­a de Broken Hills. AquÃ­ es donde purificamos el mineral extraÃ­do de la mina. Â¿QuÃ© quieres?}
+{126}{}{Â¿QuÃ© lugar es Ã©ste?}
 {127}{}{Quiero un poco de mineral refinado.}
 {128}{}{Quiero algo de uranio.}
 {129}{}{Nada.}
 {130}{}{No tienes bastante dinero. Vuelve cuando lo tengas.}
 {131}{}{[HECHO]}
-{132}{}{De acuerdo. Danos un día y lo tendremos listo para ti.}
-{133}{}{Genial. Adiós.}
-{134}{}{Pues que tengas suerte encontrando otro sitio para refinarlo. El proceso es peligroso: sólo un profesional
- debería hacerlo. ¿Lo quieres o no?}
-{135}{}{Sí.}
+{132}{}{De acuerdo. Danos un dÃ­a y lo tendremos listo para ti.}
+{133}{}{Genial. AdiÃ³s.}
+{134}{}{Pues que tengas suerte encontrando otro sitio para refinarlo. El proceso es peligroso: sÃ³lo un profesional
+ deberÃ­a hacerlo. Â¿Lo quieres o no?}
+{135}{}{SÃ­.}
 {136}{}{No.}
-{137}{}{Bien. No tienes nada que hacer aquí. Por favor, vete para que podamos seguir con nuestro trabajo.}
-{138}{}{Adiós.}
-{139}{}{Eso es ridículo. No te daremos nada.}
+{137}{}{Bien. No tienes nada que hacer aquÃ­. Por favor, vete para que podamos seguir con nuestro trabajo.}
+{138}{}{AdiÃ³s.}
+{139}{}{Eso es ridÃ­culo. No te daremos nada.}
 {140}{}{Entonces muere.}
-{141}{}{Bien. Adiós.}
-{142}{}{¡Oye! ¡Sal de aquí o sufrirás las consecuencias!}
-{143}{}{Fuera de mi refinería. ¡Ahora!}
-{144}{}{Aún estamos trabajando en refinar tu mineral. Danos tiempo. Esto no es instantáneo.}
+{141}{}{Bien. AdiÃ³s.}
+{142}{}{Â¡Oye! Â¡Sal de aquÃ­ o sufrirÃ¡s las consecuencias!}
+{143}{}{Fuera de mi refinerÃ­a. Â¡Ahora!}
+{144}{}{AÃºn estamos trabajando en refinar tu mineral. Danos tiempo. Esto no es instantÃ¡neo.}
 {145}{}{Quiero preguntarte algo.}
-{146}{}{Bien. Adiós.}
-{147}{}{Está hecho. Antes de tomarlo, escucha: nuestro pueblo realmente necesita este mineral. Si lo donas, te reembolsaré tu dinero. ¿Qué dices?}
+{146}{}{Bien. AdiÃ³s.}
+{147}{}{EstÃ¡ hecho. Antes de tomarlo, escucha: nuestro pueblo realmente necesita este mineral. Si lo donas, te reembolsarÃ© tu dinero. Â¿QuÃ© dices?}
 {148}{}{Ni hablar.}
 {149}{}{Claro.}
-{150}{}{Bien. Que así sea. Aquí está tu mineral. Ahora, sal de mi refinería.}
-{151}{}{Adiós.}
-{152}{}{¡Gracias! Aquí está tu dinero.}
+{150}{}{Bien. Que asÃ­ sea. AquÃ­ estÃ¡ tu mineral. Ahora, sal de mi refinerÃ­a.}
+{151}{}{AdiÃ³s.}
+{152}{}{Â¡Gracias! AquÃ­ estÃ¡ tu dinero.}
 {153}{}{No hay problema.}

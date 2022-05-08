@@ -26,6 +26,6 @@
  a throwback like you tag along otherwise. Get out of here.}
 {120}{}{Ook?}
 {121}{}{Savinelli got killed. Shit, I still don't believe it. I'm Velani. I'll settle up for what we owe.}
-{122}{}{Hã, valeu.}
+{122}{}{HÃ£, valeu.}
 {123}{}{Shit, I still can't believe Savinelli got killed.}
 {200}{}{Why don't we settle up right now? Prepare to die, asshole.}

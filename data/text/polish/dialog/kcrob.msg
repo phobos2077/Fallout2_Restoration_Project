@@ -1,3 +1,3 @@
 {100}{}{Widzisz robota.}
-{101}{}{Ten robot jest powaønie uszkodzony. Jego powierzchnia pokryta jest wgnieceniami, zadrapaniami, b≥otem i pourywanymi drutami.}
+{101}{}{Ten robot jest powa≈ºnie uszkodzony. Jego powierzchnia pokryta jest wgnieceniami, zadrapaniami, b≈Çotem i pourywanymi drutami.}
 {102}{}{}

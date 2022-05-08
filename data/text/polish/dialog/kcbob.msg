@@ -1,121 +1,121 @@
-{100}{}{Widzisz starszego mê¿czyznê ze zmierzwion¹ brod¹ i du¿ym, czerwonym nosem.}
-{101}{}{Widzisz Boba Flachê.}
-{110}{}{Siemanko, nazywam siê Bob Flacha. A ty?}
-{111}{}{A nich mnie kule bij¹, co za piêknoœæ. Nazywam siê Bob, Bob Flacha - a ty?}
+{100}{}{Widzisz starszego mÄ™Å¼czyznÄ™ ze zmierzwionÄ… brodÄ… i duÅ¼ym, czerwonym nosem.}
+{101}{}{Widzisz Boba FlachÄ™.}
+{110}{}{Siemanko, nazywam siÄ™ Bob Flacha. A ty?}
+{111}{}{A nich mnie kule bijÄ…, co za piÄ™knoÅ›Ä‡. Nazywam siÄ™ Bob, Bob Flacha - a ty?}
 {112}{}{Gob Blacha? Gul, gul?}
-{113}{}{Œwiec¹cy nochal (he, he)}
+{113}{}{ÅšwiecÄ…cy nochal (he, he)}
 {114}{}{Ja }
-{115}{}{Iæ se}
-{120}{}{Zgubi³o siê parê klepek po drodze, co? No có¿... mi³o siê gada³o. Trzymaj siê.}
-{121}{}{Kochanie, ³amiesz mi serce za ka¿dym razem jak otwierasz buziê. Mo¿e nastêpnym razem zabiorê ciê do Osady Traperów i poka¿ê ci parê ciekawych tatua¿y (he, he). Trzymaj siê, królewno.}
-{130}{}{Mo¿e spotkamy siê jeszcze kiedyœ. Do zobaczenia.}
-{131}{}{Mam nadziejê, ¿e jeszcze siê kiedyœ spotkamy, królewno. ¯egnaj.}
-{140}{}{Hê? Jak nie chcesz siê ze mn¹ napiæ, to lepiej st¹d spadaj.}
-{141}{}{Hê? Chyba zamiast marnowaæ tu czas z tob¹ przejdê siê do £aŸni Sally. A teraz idŸ ju¿.}
-{150}{}{Siemanko, mówi¹ na mnie Bob Flacha. A ty jak siê nazywasz?}
+{115}{}{IÄ‡ se}
+{120}{}{ZgubiÅ‚o siÄ™ parÄ™ klepek po drodze, co? No cÃ³Å¼... miÅ‚o siÄ™ gadaÅ‚o. Trzymaj siÄ™.}
+{121}{}{Kochanie, Å‚amiesz mi serce za kaÅ¼dym razem jak otwierasz buziÄ™. MoÅ¼e nastÄ™pnym razem zabiorÄ™ ciÄ™ do Osady TraperÃ³w i pokaÅ¼Ä™ ci parÄ™ ciekawych tatuaÅ¼y (he, he). Trzymaj siÄ™, krÃ³lewno.}
+{130}{}{MoÅ¼e spotkamy siÄ™ jeszcze kiedyÅ›. Do zobaczenia.}
+{131}{}{Mam nadziejÄ™, Å¼e jeszcze siÄ™ kiedyÅ› spotkamy, krÃ³lewno. Å»egnaj.}
+{140}{}{HÄ™? Jak nie chcesz siÄ™ ze mnÄ… napiÄ‡, to lepiej stÄ…d spadaj.}
+{141}{}{HÄ™? Chyba zamiast marnowaÄ‡ tu czas z tobÄ… przejdÄ™ siÄ™ do ÅaÅºni Sally. A teraz idÅº juÅ¼.}
+{150}{}{Siemanko, mÃ³wiÄ… na mnie Bob Flacha. A ty jak siÄ™ nazywasz?}
 {151}{}{Jestem }
-{152}{}{. Mi³o mi ciê poznaæ.}
+{152}{}{. MiÅ‚o mi ciÄ™ poznaÄ‡.}
 {153}{}{Jestem }
-{154}{}{. Co s³ychaæ w mieœcie?}
-{155}{}{Nie musisz wiedzieæ jak siê nazywam.}
-{160}{}{Zawsze dobrze znaleŸæ nowego kumpla od szklanki. Chcesz mi postawiæ drinka? Od gadania szybko zasycha mi w gardle.}
+{154}{}{. Co sÅ‚ychaÄ‡ w mieÅ›cie?}
+{155}{}{Nie musisz wiedzieÄ‡ jak siÄ™ nazywam.}
+{160}{}{Zawsze dobrze znaleÅºÄ‡ nowego kumpla od szklanki. Chcesz mi postawiÄ‡ drinka? Od gadania szybko zasycha mi w gardle.}
 {161}{}{Pewnie, Bob. Czemu by nie.}
-{162}{}{Chwilowo nie mogê sobie na to pozwoliæ.}
-{163}{}{Nie zamierzam nic ci kupowaæ, Bobie Flacho.}
-{164}{}{Z takim przezwiskiem jak twoje, panie Flacho, to ty powinieneœ za³atwiaæ alkohol.}
-{170}{}{Dziêki za drinka. Skoro ju¿ przep³uka³em gard³o, to chyba mogê ci opowiedzieæ o pewnym moim drobnym problemie. Hej - mo¿e mi jakoœ pomo¿esz?}
-{171}{}{Niestety, mam du¿o do roboty. Chwilowo nie mogê ci pomóc.}
-{172}{}{W czym mogê ci pomóc?}
-{173}{}{Jeœli nie zajmie to zbyt d³ugo, to mogê ci pomóc. Oczywiœcie nie za darmo.}
-{174}{}{Mo¿e ci pomogê, oczywiœcie jeœli nie bêdzie to zbyt niebezpieczne.}
-{175}{}{Co ciekawego s³ychaæ w mieœcie?}
-{180}{}{Chyba wysech³ ci portfel. Nie staæ ciê na postawienie drinka staremu Bobowi.}
+{162}{}{Chwilowo nie mogÄ™ sobie na to pozwoliÄ‡.}
+{163}{}{Nie zamierzam nic ci kupowaÄ‡, Bobie Flacho.}
+{164}{}{Z takim przezwiskiem jak twoje, panie Flacho, to ty powinieneÅ› zaÅ‚atwiaÄ‡ alkohol.}
+{170}{}{DziÄ™ki za drinka. Skoro juÅ¼ przepÅ‚ukaÅ‚em gardÅ‚o, to chyba mogÄ™ ci opowiedzieÄ‡ o pewnym moim drobnym problemie. Hej - moÅ¼e mi jakoÅ› pomoÅ¼esz?}
+{171}{}{Niestety, mam duÅ¼o do roboty. Chwilowo nie mogÄ™ ci pomÃ³c.}
+{172}{}{W czym mogÄ™ ci pomÃ³c?}
+{173}{}{JeÅ›li nie zajmie to zbyt dÅ‚ugo, to mogÄ™ ci pomÃ³c. OczywiÅ›cie nie za darmo.}
+{174}{}{MoÅ¼e ci pomogÄ™, oczywiÅ›cie jeÅ›li nie bÄ™dzie to zbyt niebezpieczne.}
+{175}{}{Co ciekawego sÅ‚ychaÄ‡ w mieÅ›cie?}
+{180}{}{Chyba wysechÅ‚ ci portfel. Nie staÄ‡ ciÄ™ na postawienie drinka staremu Bobowi.}
 {181}{}{[KONTYNUUJ]}
-{190}{}{No bo, widzisz, mam taki drobny interes na boku i potrzebujê pomocy przy jego dogl¹daniu. Trzymam za miastem aparaturê bimbrownicz¹, której trzeba ci¹gle dogl¹daæ. A poniewa¿ cholerny gekon dziabn¹³ mnie w nogê nie mogê kuœtykaæ tam i z powrotem dostatecznie czêsto. Powiem ci gdzie to jest, a ty dorzucisz trochê paliwa, dobra? Zap³acê ci za to $50.}
-{191}{}{Brzmi interesuj¹co - mów dalej.}
+{190}{}{No bo, widzisz, mam taki drobny interes na boku i potrzebujÄ™ pomocy przy jego doglÄ…daniu. Trzymam za miastem aparaturÄ™ bimbrowniczÄ…, ktÃ³rej trzeba ciÄ…gle doglÄ…daÄ‡. A poniewaÅ¼ cholerny gekon dziabnÄ…Å‚ mnie w nogÄ™ nie mogÄ™ kuÅ›tykaÄ‡ tam i z powrotem dostatecznie czÄ™sto. Powiem ci gdzie to jest, a ty dorzucisz trochÄ™ paliwa, dobra? ZapÅ‚acÄ™ ci za to $50.}
+{191}{}{Brzmi interesujÄ…co - mÃ³w dalej.}
 {192}{}{To chyba nie dla mnie. Przykro mi, przyjacielu.}
-{200}{}{Spokojnie, to nie zajmie ci wiele czasu i nie jest ani trochê niebezpieczne. Raczej. To jak - chcesz pos³uchaæ czy nie?}
+{200}{}{Spokojnie, to nie zajmie ci wiele czasu i nie jest ani trochÄ™ niebezpieczne. Raczej. To jak - chcesz posÅ‚uchaÄ‡ czy nie?}
 {201}{}{Dobrze, opowiedz mi o tym.}
 {202}{}{Przykro mi, nie tym razem. Do zobaczenia.}
-{210}{}{Sobra. Nie ma co - nie dasz siê prowadziæ za nos. Masz tu trochê gorza³ki, a w zamian musisz pos³uchaæ o moim problemie.}
-{220}{}{Wystarczy, ¿e znajdziesz ma³¹ chatkê na po³udnie od miasta. WejdŸ do œrodka i dorzuæ trochê drewna do aparatury. Potem wróæ do mnie po odbiór pieniêdzy. Ale musisz to zrobiæ najpóŸniej jutro, albo ca³y zacier diabli wezm¹.}
-{221}{}{To nie powinno byæ trudne. Dobrze, zrobiê to dla ciebie.}
-{222}{}{Chyba jednak ci nie pomogê. Przykro mi.}
-{223}{}{$50 to chyba trochê za ma³o za tak¹ robotê, nie s¹dzisz.}
-{230}{}{Naprawdê? Œwietnie! Tylko pamiêtaj, ¿e musisz siê œpieszyæ, albo bimber diabli wezm¹. Wielkie dziêki! Do zobaczenia wkrótce.}
-{231}{}{¯aden problem, Bob. Do zobaczenia jutro. }
-{232}{}{Nie ma sprawy. Ale najpierw powiedz mi co s³ychaæ w mieœcie.}
-{240}{}{No, no. Nie³atwo siê z tob¹ targuje. Dobra, niech bêdzie moja strata. Czy $65 wystarczy?}
-{241}{}{O nie. Jestem gotów zap³aciæ $50 i ani grosza wiêcej. Po prostu nie mam wiêcej pieniêdzy!}
-{242}{}{Dobrze, zrobiê o co prosisz.}
-{243}{}{Za te pieni¹dze nie mo¿esz na mnie liczyæ. Mój czas jest bardzo cenny.}
-{250}{}{Siemanko, kolego. Szukasz Boba Flachy? Chcesz porozmawiaæ o drinkach, interesach i takich tam?}
-{251}{}{Siemanko, dziewuszko. Szukasz Boba Flachy? Chcesz porozmawiaæ o drinkach, interesach i takich tam? Pozwolê ci usi¹œæ mi na kolanie (he, he) Tylko ¿artowa³em!}
+{210}{}{Sobra. Nie ma co - nie dasz siÄ™ prowadziÄ‡ za nos. Masz tu trochÄ™ gorzaÅ‚ki, a w zamian musisz posÅ‚uchaÄ‡ o moim problemie.}
+{220}{}{Wystarczy, Å¼e znajdziesz maÅ‚Ä… chatkÄ™ na poÅ‚udnie od miasta. WejdÅº do Å›rodka i dorzuÄ‡ trochÄ™ drewna do aparatury. Potem wrÃ³Ä‡ do mnie po odbiÃ³r pieniÄ™dzy. Ale musisz to zrobiÄ‡ najpÃ³Åºniej jutro, albo caÅ‚y zacier diabli wezmÄ….}
+{221}{}{To nie powinno byÄ‡ trudne. Dobrze, zrobiÄ™ to dla ciebie.}
+{222}{}{Chyba jednak ci nie pomogÄ™. Przykro mi.}
+{223}{}{$50 to chyba trochÄ™ za maÅ‚o za takÄ… robotÄ™, nie sÄ…dzisz.}
+{230}{}{NaprawdÄ™? Åšwietnie! Tylko pamiÄ™taj, Å¼e musisz siÄ™ Å›pieszyÄ‡, albo bimber diabli wezmÄ…. Wielkie dziÄ™ki! Do zobaczenia wkrÃ³tce.}
+{231}{}{Å»aden problem, Bob. Do zobaczenia jutro. }
+{232}{}{Nie ma sprawy. Ale najpierw powiedz mi co sÅ‚ychaÄ‡ w mieÅ›cie.}
+{240}{}{No, no. NieÅ‚atwo siÄ™ z tobÄ… targuje. Dobra, niech bÄ™dzie moja strata. Czy $65 wystarczy?}
+{241}{}{O nie. Jestem gotÃ³w zapÅ‚aciÄ‡ $50 i ani grosza wiÄ™cej. Po prostu nie mam wiÄ™cej pieniÄ™dzy!}
+{242}{}{Dobrze, zrobiÄ™ o co prosisz.}
+{243}{}{Za te pieniÄ…dze nie moÅ¼esz na mnie liczyÄ‡. MÃ³j czas jest bardzo cenny.}
+{250}{}{Siemanko, kolego. Szukasz Boba Flachy? Chcesz porozmawiaÄ‡ o drinkach, interesach i takich tam?}
+{251}{}{Siemanko, dziewuszko. Szukasz Boba Flachy? Chcesz porozmawiaÄ‡ o drinkach, interesach i takich tam? PozwolÄ™ ci usiÄ…Å›Ä‡ mi na kolanie (he, he) Tylko Å¼artowaÅ‚em!}
 {252}{}{Jasne, Bob - opowiedz mi o drinkach i interesach.}
-{253}{}{Chyba doœæ siê ju¿ nagadaliœmy ostatnim razem.}
-{260}{}{No i jak tam moja aparatura? Ci¹gle nic? Zajrzyj do mnie jak skoñczysz robotê.}
-{270}{}{Ktoœ zniszczy³ moj¹ aparaturê! A ty jesteœ jedyn¹ osob¹, której o niej powiedzia³em. Gdybym by³ troszkê m³odszy ju¿ ja bym ciê nauczy³ tego i owego. ZejdŸ mi z oczu! Nie chcê ciê wiêcej znaæ!}
-{280}{}{Dziêkujê za dogl¹dniêcie mojej aparatury. Masz tu swoje $50. Mo¿e interesuje ciê coœ jeszcze?}
-{281}{}{Dziêki tobie nie musia³em kuœtykaæ tam sam. Warto by³o zap³aciæ, nawet te $65. Oto twoje pieni¹dze. Masz mo¿e jakieœ pytania, na które móg³bym odpowiedzieæ?}
-{282}{}{Tak. Powiedz mi co s³ychaæ w mieœcie.}
-{283}{}{Nie, Bob, dziêki. Chyba nie mam ¿adnych nowych pytañ.}
-{290}{}{O, dzieje siê tu ostatnio mnóstwo rzeczy. Mamy zabójców bramin, duchy chodz¹ce po ziemi, ogromne szczury i zaginionych ludzi. Niektórzy mówi¹, ¿e ma to coœ wspólnego z Nor¹.}
-{291}{}{Opowiedz mi o zabójcach bramin.}
+{253}{}{Chyba doÅ›Ä‡ siÄ™ juÅ¼ nagadaliÅ›my ostatnim razem.}
+{260}{}{No i jak tam moja aparatura? CiÄ…gle nic? Zajrzyj do mnie jak skoÅ„czysz robotÄ™.}
+{270}{}{KtoÅ› zniszczyÅ‚ mojÄ… aparaturÄ™! A ty jesteÅ› jedynÄ… osobÄ…, ktÃ³rej o niej powiedziaÅ‚em. Gdybym byÅ‚ troszkÄ™ mÅ‚odszy juÅ¼ ja bym ciÄ™ nauczyÅ‚ tego i owego. ZejdÅº mi z oczu! Nie chcÄ™ ciÄ™ wiÄ™cej znaÄ‡!}
+{280}{}{DziÄ™kujÄ™ za doglÄ…dniÄ™cie mojej aparatury. Masz tu swoje $50. MoÅ¼e interesuje ciÄ™ coÅ› jeszcze?}
+{281}{}{DziÄ™ki tobie nie musiaÅ‚em kuÅ›tykaÄ‡ tam sam. Warto byÅ‚o zapÅ‚aciÄ‡, nawet te $65. Oto twoje pieniÄ…dze. Masz moÅ¼e jakieÅ› pytania, na ktÃ³re mÃ³gÅ‚bym odpowiedzieÄ‡?}
+{282}{}{Tak. Powiedz mi co sÅ‚ychaÄ‡ w mieÅ›cie.}
+{283}{}{Nie, Bob, dziÄ™ki. Chyba nie mam Å¼adnych nowych pytaÅ„.}
+{290}{}{O, dzieje siÄ™ tu ostatnio mnÃ³stwo rzeczy. Mamy zabÃ³jcÃ³w bramin, duchy chodzÄ…ce po ziemi, ogromne szczury i zaginionych ludzi. NiektÃ³rzy mÃ³wiÄ…, Å¼e ma to coÅ› wspÃ³lnego z NorÄ….}
+{291}{}{Opowiedz mi o zabÃ³jcach bramin.}
 {292}{}{Opowiedz mi o duchach.}
-{293}{}{Ogromne szczury? Musisz mi o nich opowiedzieæ.}
+{293}{}{Ogromne szczury? Musisz mi o nich opowiedzieÄ‡.}
 {294}{}{Nora? Jaka znowu nora?}
 {295}{}{Zaginieni ludzie? Opowiedz mi o tym.}
-{296}{}{Mam inne pytanie. S³ysza³eœ mo¿e o urz¹dzeniu zwanym Generator Ekosystemu Cudownej Krainy?}
-{297}{}{Mo¿e opowiesz mi o tym wszystkim przy innej okazji.}
-{298}{}{Jasne, Bob. A ja ci opowiem o rybie wiêkszej ode mnie, któr¹ znaleziono w beczce na deszczówkê.}
-{310}{}{Dziêki za pomoc przy mojej aparaturze. Jak tylko moja noga wyzdrowieje sam bêdê siê móg³ ni¹ zaj¹æ. Mo¿e masz jakieœ pytania, na które stary pijak chêtnie odpowie?}
-{311}{}{Có¿, zastanawiaj¹ mnie pewne plotki, które kr¹¿¹ po mieœcie.}
-{312}{}{Chyba ni szukam ¿adnych konkretnych informacji. Dziêki, Bob.}
-{320}{}{Ponoæ jakieœ przypominaj¹ce cz³owieka robale, serio - tak mówi¹! - atakuj¹ nocami stada bramin. Rano ludzie znajduj¹ tylko zmasakrowane szcz¹tki zwierz¹t.}
+{296}{}{Mam inne pytanie. SÅ‚yszaÅ‚eÅ› moÅ¼e o urzÄ…dzeniu zwanym Generator Ekosystemu Cudownej Krainy?}
+{297}{}{MoÅ¼e opowiesz mi o tym wszystkim przy innej okazji.}
+{298}{}{Jasne, Bob. A ja ci opowiem o rybie wiÄ™kszej ode mnie, ktÃ³rÄ… znaleziono w beczce na deszczÃ³wkÄ™.}
+{310}{}{DziÄ™ki za pomoc przy mojej aparaturze. Jak tylko moja noga wyzdrowieje sam bÄ™dÄ™ siÄ™ mÃ³gÅ‚ niÄ… zajÄ…Ä‡. MoÅ¼e masz jakieÅ› pytania, na ktÃ³re stary pijak chÄ™tnie odpowie?}
+{311}{}{CÃ³Å¼, zastanawiajÄ… mnie pewne plotki, ktÃ³re krÄ…Å¼Ä… po mieÅ›cie.}
+{312}{}{Chyba ni szukam Å¼adnych konkretnych informacji. DziÄ™ki, Bob.}
+{320}{}{PonoÄ‡ jakieÅ› przypominajÄ…ce czÅ‚owieka robale, serio - tak mÃ³wiÄ…! - atakujÄ… nocami stada bramin. Rano ludzie znajdujÄ… tylko zmasakrowane szczÄ…tki zwierzÄ…t.}
 {321}{}{Brzmi strasznie.}
-{330}{}{Paru ludzi widzia³o te robaludy, ale chyba najlepiej przyjrza³ siê im Torr, ch³opak Bucknerów. To co zobaczy³ pozbawi³o go zdrowych zmys³ów, a i tak nie nale¿a³ do najbardziej rozgarniêtych.}
+{330}{}{Paru ludzi widziaÅ‚o te robaludy, ale chyba najlepiej przyjrzaÅ‚ siÄ™ im Torr, chÅ‚opak BucknerÃ³w. To co zobaczyÅ‚ pozbawiÅ‚o go zdrowych zmysÅ‚Ã³w, a i tak nie naleÅ¼aÅ‚ do najbardziej rozgarniÄ™tych.}
 {331}{}{Niestamowite! Mam jeszcze jedno pytanie.}
-{332}{}{To ju¿ chyba wszystko, do zobaczenia.}
-{340}{}{Jest tu taki kanion na zachód od miasta. Parê miesiêcy temu coœ tam zaczê³o strasznie b³yskaæ. Od tej pory z kanionu dobiegaj¹ niesamowite jêki i piski. Braminy, które zab³¹kaj¹ siê w tamte okolice nigdy nie wracaj¹. Teraz ca³e miasto boi siê tam zbli¿aæ.}
-{341}{}{Tak, to oczywisty przejaw obecnoœci ducha. Szkoda, ¿e nie macie wykwalifikowanego szamana. Mam jeszcze jedno pytanie.}
-{342}{}{To ju¿ chyba wszystko. Muszê siê trochê przejœæ. Do zobaczenia.}
-{350}{}{Có¿, w Osadzie Traperów, na zachód od centrum, jest obszar wprost opanowany przez szczury. Im dalej idziesz - tym szkodniki wiêksze. Niektórzy ludzie mówi¹, ¿e jakiœ ogromy szczur-potwór kieruje ca³¹ t¹ ha³astr¹. Nawet traperzy zaczynaj¹ stamt¹d wiaæ! Mówi¹, ¿e jest tam zbyt niebezpiecznie.}
-{351}{}{Traperzy uciekaj¹ przed szczurami?! Opowiedz mi o czymœ jeszcze.}
-{352}{}{Boj¹ siê szczurów? Hmmm. Pewnie macie tu inne szczury ni¿ te, które znam z domu. Ciekawa opowieœæ. Do zobaczenia.}
-{360}{}{Nie jakaœ tam nora - 'Nora!' To najwiêksze skupisko ³otrów i hultajów o jakim s³ysza³em. Nie jest to miasto, które powinna odwiedzaæ nieuzbrojona po zêby osoba. Tak czy inaczej - le¿y parê dni marszu na po³udnie od Klamath. W Norze za odpowiednie pieni¹dze mo¿na kupiæ wszystko... nawet niewolników. Ale trzeba tam byæ bardzo ostro¿nym - wielu dra¿liwych ludzi, a ka¿dy z nich nosi przy sobie ma³y arsena³. Na szczêœcie rzadko nas tu zaczepiaj¹, pewnie jesteœmy dla nich zbyt biedni.}
-{361}{}{Myœlê, ¿e jakoœ sobie dam radê. Potrafiê o siebie dbaæ. Mam jeszcze jedno pytanie.}
+{332}{}{To juÅ¼ chyba wszystko, do zobaczenia.}
+{340}{}{Jest tu taki kanion na zachÃ³d od miasta. ParÄ™ miesiÄ™cy temu coÅ› tam zaczÄ™Å‚o strasznie bÅ‚yskaÄ‡. Od tej pory z kanionu dobiegajÄ… niesamowite jÄ™ki i piski. Braminy, ktÃ³re zabÅ‚Ä…kajÄ… siÄ™ w tamte okolice nigdy nie wracajÄ…. Teraz caÅ‚e miasto boi siÄ™ tam zbliÅ¼aÄ‡.}
+{341}{}{Tak, to oczywisty przejaw obecnoÅ›ci ducha. Szkoda, Å¼e nie macie wykwalifikowanego szamana. Mam jeszcze jedno pytanie.}
+{342}{}{To juÅ¼ chyba wszystko. MuszÄ™ siÄ™ trochÄ™ przejÅ›Ä‡. Do zobaczenia.}
+{350}{}{CÃ³Å¼, w Osadzie TraperÃ³w, na zachÃ³d od centrum, jest obszar wprost opanowany przez szczury. Im dalej idziesz - tym szkodniki wiÄ™ksze. NiektÃ³rzy ludzie mÃ³wiÄ…, Å¼e jakiÅ› ogromy szczur-potwÃ³r kieruje caÅ‚Ä… tÄ… haÅ‚astrÄ…. Nawet traperzy zaczynajÄ… stamtÄ…d wiaÄ‡! MÃ³wiÄ…, Å¼e jest tam zbyt niebezpiecznie.}
+{351}{}{Traperzy uciekajÄ… przed szczurami?! Opowiedz mi o czymÅ› jeszcze.}
+{352}{}{BojÄ… siÄ™ szczurÃ³w? Hmmm. Pewnie macie tu inne szczury niÅ¼ te, ktÃ³re znam z domu. Ciekawa opowieÅ›Ä‡. Do zobaczenia.}
+{360}{}{Nie jakaÅ› tam nora - 'Nora!' To najwiÄ™ksze skupisko Å‚otrÃ³w i hultajÃ³w o jakim sÅ‚yszaÅ‚em. Nie jest to miasto, ktÃ³re powinna odwiedzaÄ‡ nieuzbrojona po zÄ™by osoba. Tak czy inaczej - leÅ¼y parÄ™ dni marszu na poÅ‚udnie od Klamath. W Norze za odpowiednie pieniÄ…dze moÅ¼na kupiÄ‡ wszystko... nawet niewolnikÃ³w. Ale trzeba tam byÄ‡ bardzo ostroÅ¼nym - wielu draÅ¼liwych ludzi, a kaÅ¼dy z nich nosi przy sobie maÅ‚y arsenaÅ‚. Na szczÄ™Å›cie rzadko nas tu zaczepiajÄ…, pewnie jesteÅ›my dla nich zbyt biedni.}
+{361}{}{MyÅ›lÄ™, Å¼e jakoÅ› sobie dam radÄ™. PotrafiÄ™ o siebie dbaÄ‡. Mam jeszcze jedno pytanie.}
 {362}{}{To bardzo ciekawe, Bob. Do zobaczenia.}
-{370}{}{Ostatnio zaginê³y nam tu dwie osoby: Kupiec imieniem Vic i jeden z naszych najlepszych traperów.}
-{371}{}{Opowiedz mi wiêcej o tym kupcu imieniem Vic.}
+{370}{}{Ostatnio zaginÄ™Å‚y nam tu dwie osoby: Kupiec imieniem Vic i jeden z naszych najlepszych traperÃ³w.}
+{371}{}{Opowiedz mi wiÄ™cej o tym kupcu imieniem Vic.}
 {372}{}{Opowiedz mi o tym traperze.}
-{373}{}{Mogê ciê zapytaæ o coœ jeszcze?}
+{373}{}{MogÄ™ ciÄ™ zapytaÄ‡ o coÅ› jeszcze?}
 {374}{}{To mi wystarczy. Do zobaczenia, Bob.}
-{380}{}{Vic to dziwny goœæ. Nie lubi³ zbyt du¿o pracowaæ, wiêc zacz¹³ sprzedawaæ drogi, przedwojenny towar, g³ównie w Norze. Zdarza³o mu siê równie¿ wcisn¹æ coœ g³upim dzikusom jako przedmioty kultu (chichocze). Ups, bez obrazy. Tak czy inaczej, od jakiegoœ czasu go nie widzia³em. Podobno wyruszy³ z towarem gdzieœ na po³udnie. Mo¿e do Nory.}
+{380}{}{Vic to dziwny goÅ›Ä‡. Nie lubiÅ‚ zbyt duÅ¼o pracowaÄ‡, wiÄ™c zaczÄ…Å‚ sprzedawaÄ‡ drogi, przedwojenny towar, gÅ‚Ã³wnie w Norze. ZdarzaÅ‚o mu siÄ™ rÃ³wnieÅ¼ wcisnÄ…Ä‡ coÅ› gÅ‚upim dzikusom jako przedmioty kultu (chichocze). Ups, bez obrazy. Tak czy inaczej, od jakiegoÅ› czasu go nie widziaÅ‚em. Podobno wyruszyÅ‚ z towarem gdzieÅ› na poÅ‚udnie. MoÅ¼e do Nory.}
 {381}{}{Co z tym zaginionym traperem?}
 {382}{}{Mam jeszcze jedno pytanie, Bob.}
-{383}{}{Dziêki, przemyœlê sobie to, co powiedzia³eœ. Do zobaczenia, Bob.}
-{390}{}{Wiêcej o tym zaginionym biedaku powie ci pani Buckner. Ona i Smiley byli ca³kiem blisko. Wyruszy³ na pó³noc w poszukiwaniu jaskini z³ocistych gekonów i od tej pory s³uch o nim zagin¹³, a minê³o ju¿ niema³o czasu.}
+{383}{}{DziÄ™ki, przemyÅ›lÄ™ sobie to, co powiedziaÅ‚eÅ›. Do zobaczenia, Bob.}
+{390}{}{WiÄ™cej o tym zaginionym biedaku powie ci pani Buckner. Ona i Smiley byli caÅ‚kiem blisko. WyruszyÅ‚ na pÃ³Å‚noc w poszukiwaniu jaskini zÅ‚ocistych gekonÃ³w i od tej pory sÅ‚uch o nim zaginÄ…Å‚, a minÄ™Å‚o juÅ¼ niemaÅ‚o czasu.}
 {391}{}{A co z tym zaginionym kupcem?}
-{392}{}{Hmm, ciekawe. Interesuje mnie jeszcze coœ...}
-{393}{}{To ju¿ chyba wszystko. ¯egnaj, Bob.}
-{400}{}{Nie potrafisz dotrzymaæ danego s³owa! Przez twoje niedbalstwo i opiesza³oœæ ca³y zacier mo¿na wylaæ do kibla! Nie chcê mieæ z tob¹ nic do czynienia. Najlepiej zejdŸ mi z oczu i nigdy nie wracaj.}
-{401}{}{Ale, ja... ja nie wiem, jak to siê sta³o!}
-{402}{}{I tak pewnie bêdzie smakowaæ równie ohydnie jak zwykle.}
-{403}{}{Twój bimber i tak smakuje jak psie szczyny.}
-{404}{}{Drewno nie pali³o siê dostatecznie intensywnie. Temperatura by³a nieodpowiednia, st¹d z³y przebieg fermentacji.}
-{410}{}{Nie interesuj¹ mnie twoje cholerne wymówki. ZejdŸ mi z oczu! Jedno ci tylko powiem: ca³e miasto dowie siê jak ma³o znaczy twoje s³owo. Ju¿ moja w tym g³owa.}
-{420}{}{Generator Ekosystemu Cudownej Krainy? Widzia³em kiedyœ coœ takiego! By³o w takim starym katalogu, który przegl¹da³em pewnego dnia, siedz¹c w kibelku. Niestety, niewiele z tego pamiêtam.}
-{421}{}{Naprawdê?! Mogê gdzieœ obejrzeæ ten katalog.}
-{430}{}{Uhm, (zawstydzony) Obawiam siê, ¿e... no... zu¿y³em tê stronê, ¿eby za³atwiæ pewien... interes, jeœli wiesz, co mam na myœli.}
-{431}{}{Inte... A, TAKI interes. Osobiœcie wolê stare, miêkkie gazety. No có¿, mam jeszcze inne pytania.}
-{432}{}{Szlag, a ju¿ by³o tak blisko. Chyba doœæ mam na dziœ tych rozczarowañ. ¯egnaj, Bob.}
-{500}{}{Siemanko, co mogê dla ciebie zrobiæ?}
-{501}{}{Co siê tu dzieje?}
-{502}{}{Nic, dziêki.}
-{550}{}{Bob najwyraŸniej nie chce z tob¹ rozmawiaæ.}
-{2900}{}{Od niedawna uspokaja siê. Nic ciekawego siê nie dzieje.}
-{2901}{}{zabójcy braminów}
+{392}{}{Hmm, ciekawe. Interesuje mnie jeszcze coÅ›...}
+{393}{}{To juÅ¼ chyba wszystko. Å»egnaj, Bob.}
+{400}{}{Nie potrafisz dotrzymaÄ‡ danego sÅ‚owa! Przez twoje niedbalstwo i opieszaÅ‚oÅ›Ä‡ caÅ‚y zacier moÅ¼na wylaÄ‡ do kibla! Nie chcÄ™ mieÄ‡ z tobÄ… nic do czynienia. Najlepiej zejdÅº mi z oczu i nigdy nie wracaj.}
+{401}{}{Ale, ja... ja nie wiem, jak to siÄ™ staÅ‚o!}
+{402}{}{I tak pewnie bÄ™dzie smakowaÄ‡ rÃ³wnie ohydnie jak zwykle.}
+{403}{}{TwÃ³j bimber i tak smakuje jak psie szczyny.}
+{404}{}{Drewno nie paliÅ‚o siÄ™ dostatecznie intensywnie. Temperatura byÅ‚a nieodpowiednia, stÄ…d zÅ‚y przebieg fermentacji.}
+{410}{}{Nie interesujÄ… mnie twoje cholerne wymÃ³wki. ZejdÅº mi z oczu! Jedno ci tylko powiem: caÅ‚e miasto dowie siÄ™ jak maÅ‚o znaczy twoje sÅ‚owo. JuÅ¼ moja w tym gÅ‚owa.}
+{420}{}{Generator Ekosystemu Cudownej Krainy? WidziaÅ‚em kiedyÅ› coÅ› takiego! ByÅ‚o w takim starym katalogu, ktÃ³ry przeglÄ…daÅ‚em pewnego dnia, siedzÄ…c w kibelku. Niestety, niewiele z tego pamiÄ™tam.}
+{421}{}{NaprawdÄ™?! MogÄ™ gdzieÅ› obejrzeÄ‡ ten katalog.}
+{430}{}{Uhm, (zawstydzony) Obawiam siÄ™, Å¼e... no... zuÅ¼yÅ‚em tÄ™ stronÄ™, Å¼eby zaÅ‚atwiÄ‡ pewien... interes, jeÅ›li wiesz, co mam na myÅ›li.}
+{431}{}{Inte... A, TAKI interes. OsobiÅ›cie wolÄ™ stare, miÄ™kkie gazety. No cÃ³Å¼, mam jeszcze inne pytania.}
+{432}{}{Szlag, a juÅ¼ byÅ‚o tak blisko. Chyba doÅ›Ä‡ mam na dziÅ› tych rozczarowaÅ„. Å»egnaj, Bob.}
+{500}{}{Siemanko, co mogÄ™ dla ciebie zrobiÄ‡?}
+{501}{}{Co siÄ™ tu dzieje?}
+{502}{}{Nic, dziÄ™ki.}
+{550}{}{Bob najwyraÅºniej nie chce z tobÄ… rozmawiaÄ‡.}
+{2900}{}{Od niedawna uspokaja siÄ™. Nic ciekawego siÄ™ nie dzieje.}
+{2901}{}{zabÃ³jcy braminÃ³w}
 {2902}{}{duchy}
 {2903}{}{ogromne szczury}
-{2904}{}{znikaj¹cy ludzie}
-{2905}{}{. Niektórzy uwa¿aj¹, ¿e Den zaanga¿owa³o siê.}
+{2904}{}{znikajÄ…cy ludzie}
+{2905}{}{. NiektÃ³rzy uwaÅ¼ajÄ…, Å¼e Den zaangaÅ¼owaÅ‚o siÄ™.}

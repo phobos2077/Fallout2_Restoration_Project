@@ -1,39 +1,39 @@
 {100}{}{Tu vois un terminal d'ordinateur.}
 {101}{}{Tu vois la station de travail de chimie.}
 {102}{}{Tu vois une station de travail informatique.}
-{103}{}{Bienvenue. Veuillez entrer votre mot de passe pour confirmer votre identité.}
+{103}{}{Bienvenue. Veuillez entrer votre mot de passe pour confirmer votre identitÃ©.}
 {104}{}{ ? Moi pas comprendre grands mots.}
 {105}{}{TIUASPO-Lo-Shi-S12908}
 {106}{}{[Pirater l'ordinateur]}
-{107}{}{Déconnexion.}
-{108}{}{Base de données de chimie : - Carburant et dérivés - - Polymères -}
-{109}{}{Carburant et dérivés.}
-{110}{}{Polymères.}
-{111}{}{Désactiver station de travail.}
-{112}{}{Déconnexion.}
-{113}{}{Veuillez vous adresser à l'administrateur système. Au revoir.}
+{107}{}{DÃ©connexion.}
+{108}{}{Base de donnÃ©es de chimie : - Carburant et dÃ©rivÃ©s - - PolymÃ¨res -}
+{109}{}{Carburant et dÃ©rivÃ©s.}
+{110}{}{PolymÃ¨res.}
+{111}{}{DÃ©sactiver station de travail.}
+{112}{}{DÃ©connexion.}
+{113}{}{Veuillez vous adresser Ã  l'administrateur systÃ¨me. Au revoir.}
 {114}{}{[Pirater l'ordinateur]}
 {115}{}{[Quitter]}
-{116}{}{Alarme intrusion activée. Arrêt en cours. Bonne journée.}
-{117}{}{[Terminé]}
-{118}{}{[Après avoir passé au crible la formule chimique complexe et les notes du laboratoire, tu en conclus que les Shis ont créé une sorte de carburant à partir d'extraits de plantes et de composants marins. Apparemment, ils ont utilisé les anciens pipelines pour transporter le carburant vers des destinations nombreuses et variées.]}
-{119}{}{[Tu découvres de nombreuses formules chimiques et des notes de laboratoire. Tu ne sais pas vraiment ce que tout cela signifie.]}
-{120}{}{Transférer carburant vers pétrolier Poséidon.}
-{121}{}{Transférer carburant vers Hubologistes.}
+{116}{}{Alarme intrusion activÃ©e. ArrÃªt en cours. Bonne journÃ©e.}
+{117}{}{[TerminÃ©]}
+{118}{}{[AprÃ¨s avoir passÃ© au crible la formule chimique complexe et les notes du laboratoire, tu en conclus que les Shis ont crÃ©Ã© une sorte de carburant Ã  partir d'extraits de plantes et de composants marins. Apparemment, ils ont utilisÃ© les anciens pipelines pour transporter le carburant vers des destinations nombreuses et variÃ©es.]}
+{119}{}{[Tu dÃ©couvres de nombreuses formules chimiques et des notes de laboratoire. Tu ne sais pas vraiment ce que tout cela signifie.]}
+{120}{}{TransfÃ©rer carburant vers pÃ©trolier PosÃ©idon.}
+{121}{}{TransfÃ©rer carburant vers Hubologistes.}
 {122}{}{[Retour]}
-{123}{}{[Après avoir réussi à te familiariser avec la symbologie et la terminologie technique, tu découvres que les Shis travaillent sur un nouveau type d'armure de combat polymérique capable de résister aux flammes et aux projectiles. Il va encore falloir des années pour finaliser ce projet. Tu vois également des allusions à de nouvelles armes et techniques de construction. Apparemment les Shis ont des projets pour l'avenir.]}
+{123}{}{[AprÃ¨s avoir rÃ©ussi Ã  te familiariser avec la symbologie et la terminologie technique, tu dÃ©couvres que les Shis travaillent sur un nouveau type d'armure de combat polymÃ©rique capable de rÃ©sister aux flammes et aux projectiles. Il va encore falloir des annÃ©es pour finaliser ce projet. Tu vois Ã©galement des allusions Ã  de nouvelles armes et techniques de construction. Apparemment les Shis ont des projets pour l'avenir.]}
 {124}{}{[Retour]}
-{125}{}{Carburant correctement transféré. Réservoirs de stockage = vides. Fermeture du programme en cours.}
-{126}{}{[Terminé]}
-{127}{}{Carburant correctement transféré. Réservoirs de stockage = vides. Fermeture du programme en cours.}
-{128}{}{[Terminé]}
-{129}{}{Désactiver la station.}
+{125}{}{Carburant correctement transfÃ©rÃ©. RÃ©servoirs de stockage = vides. Fermeture du programme en cours.}
+{126}{}{[TerminÃ©]}
+{127}{}{Carburant correctement transfÃ©rÃ©. RÃ©servoirs de stockage = vides. Fermeture du programme en cours.}
+{128}{}{[TerminÃ©]}
+{129}{}{DÃ©sactiver la station.}
 {130}{}{Activer la station.}
 {131}{}{[Quitter]}
-{132}{}{[Ton approche au hasard a fait des merveilles... Tu accèdes à la machine !]}
+{132}{}{[Ton approche au hasard a fait des merveilles... Tu accÃ¨des Ã  la machine !]}
 {133}{}{[Plus]}
-{134}{}{L'ordinateur ne répond à aucune commande.}
-{135}{}{Tu ne trouves aucun endroit pour mettre ça.}
+{134}{}{L'ordinateur ne rÃ©pond Ã  aucune commande.}
+{135}{}{Tu ne trouves aucun endroit pour mettre Ã§a.}
 {136}{}{[Deviner le mot de passe]}
-{137}{}{Transférer carburant via pipeline.}
+{137}{}{TransfÃ©rer carburant via pipeline.}
 {138}{}{Destination requise.}

@@ -1,11 +1,11 @@
-{100}{}{Widzisz aparaturê destylacyjn¹.}
-{101}{}{Widzisz aparaturê destylacyjn¹. Wygl¹da na sprawn¹.}
-{102}{}{Widzisz uszkodzon¹ aparaturê destylacyjn¹.}
-{103}{}{Widzisz uszkodzon¹ aparaturê destylacyjn¹. Ktoœ nieŸle j¹ rozbi³.}
-{110}{}{Destylacja gorza³y przebiega znowu sprawnie. Zyskujesz }
+{100}{}{Widzisz aparaturÄ™ destylacyjnÄ….}
+{101}{}{Widzisz aparaturÄ™ destylacyjnÄ…. WyglÄ…da na sprawnÄ….}
+{102}{}{Widzisz uszkodzonÄ… aparaturÄ™ destylacyjnÄ….}
+{103}{}{Widzisz uszkodzonÄ… aparaturÄ™ destylacyjnÄ…. KtoÅ› nieÅºle jÄ… rozbiÅ‚.}
+{110}{}{Destylacja gorzaÅ‚y przebiega znowu sprawnie. Zyskujesz }
 {111}{}{ PD za dorzucenie drewna do pieca aparatury.}
 {120}{}{To niczego nie robi.}
-{130}{}{Uruchamiasz aparaturê, ale wygl¹da na to, ¿e ta whisky nie nadaje siê do spo¿ycia.}
-{140}{}{Nie ma ju¿ miejsca na wiêcej drewna.}
-{150}{}{Ten piec ju¿ nie dzia³a. Dorzucenie drewna nic nie da.}
-{160}{}{Lepiej nie. Najlepiej nie robiæ nic, dopóki nie poprosz¹ aby coœ robiæ, mam racjê?}
+{130}{}{Uruchamiasz aparaturÄ™, ale wyglÄ…da na to, Å¼e ta whisky nie nadaje siÄ™ do spoÅ¼ycia.}
+{140}{}{Nie ma juÅ¼ miejsca na wiÄ™cej drewna.}
+{150}{}{Ten piec juÅ¼ nie dziaÅ‚a. Dorzucenie drewna nic nie da.}
+{160}{}{Lepiej nie. Najlepiej nie robiÄ‡ nic, dopÃ³ki nie poproszÄ… aby coÅ› robiÄ‡, mam racjÄ™?}

@@ -1,7 +1,7 @@
 {100}{}{Um terminal de computador.}
-{101}{}{Terminal de Controle do Depósito Biológico.}
-{102}{}{Você é incapaz de ler o que está no monitor.}
-{103}{}{Unidade de Depósito Biológico
+{101}{}{Terminal de Controle do DepÃ³sito BiolÃ³gico.}
+{102}{}{VocÃª Ã© incapaz de ler o que estÃ¡ no monitor.}
+{103}{}{Unidade de DepÃ³sito BiolÃ³gico
                                               Menu Principal
                                                             Retirar
                                                                 Guardar}
@@ -12,30 +12,30 @@
 {108}{}{Guardar}
 {109}{}{Sair}
 {110}{}{Ug.}
-{111}{}{[Você é incapaz de ler o que está no monitor.]}
-{112}{}{Este terminal está fora de serviço
+{111}{}{[VocÃª Ã© incapaz de ler o que estÃ¡ no monitor.]}
+{112}{}{Este terminal estÃ¡ fora de serviÃ§o
                                 Favor contactar o administrador online para maiores detalhes.}
 {113}{}{}
 {114}{}{Arg}
 {115}{}{Sair}
 {116}{}{Menu Princial de Retirada
-                                                  Vírus
-                                                              Orgãos
-                                                             Cadáveres}
+                                                  VÃ­rus
+                                                              OrgÃ£os
+                                                             CadÃ¡veres}
 {117}{}{}
 {118}{}{}
 {119}{}{}
-{120}{}{Selecionar Vírus}
-{121}{}{Selecionar Orgãos}
-{122}{}{Selecionar Cadáveres}
+{120}{}{Selecionar VÃ­rus}
+{121}{}{Selecionar OrgÃ£os}
+{122}{}{Selecionar CadÃ¡veres}
 {123}{}{Voltar para o Menu Principal}
 {124}{}{Sair}
-{125}{}{Menu de Vírus
+{125}{}{Menu de VÃ­rus
                                                             Antraz
                                                              Peste Negra (Strain 238)
-                                          Varíola (Strain 1025)
-                                              Ébola
-                                                                   Hantavírus (Strain 304)}
+                                          VarÃ­ola (Strain 1025)
+                                              Ã‰bola
+                                                                   HantavÃ­rus (Strain 304)}
 {126}{}{}
 {127}{}{}
 {128}{}{}
@@ -43,115 +43,115 @@
 {130}{}{}
 {131}{}{Retirar Antraz}
 {132}{}{Retirar Peste Negra}
-{133}{}{Retirar Varíola}
-{134}{}{Retirar Ébola}
-{135}{}{Retirar Hantavírus}
+{133}{}{Retirar VarÃ­ola}
+{134}{}{Retirar Ã‰bola}
+{135}{}{Retirar HantavÃ­rus}
 {137}{}{Retornao ao Menu Principal}
 {138}{}{Sair}
-{139}{}{[Você observa o robô descer o corredor para o depósito de materiais biológicos e voltar com um pequeno frasco. depositando-o em uma abertura na parede. Você observa com fascinação quando o frasco é transferido do ambiente de isolação do depósito para a sala onde você está. Sua fascinação se transforma em horror quando o frasco cai no chão e se quebra. Correr parece ser uma boa idéia.]}
+{139}{}{[VocÃª observa o robÃ´ descer o corredor para o depÃ³sito de materiais biolÃ³gicos e voltar com um pequeno frasco. depositando-o em uma abertura na parede. VocÃª observa com fascinaÃ§Ã£o quando o frasco Ã© transferido do ambiente de isolaÃ§Ã£o do depÃ³sito para a sala onde vocÃª estÃ¡. Sua fascinaÃ§Ã£o se transforma em horror quando o frasco cai no chÃ£o e se quebra. Correr parece ser uma boa idÃ©ia.]}
 {140}{}{Sair}
-{141}{}{Menu de Órgãos
-                                                           Coração
-                                                                Cérebro
+{141}{}{Menu de Ã“rgÃ£os
+                                                           CoraÃ§Ã£o
+                                                                CÃ©rebro
                                                                 Rim
-                                                                 Fígado
-                                                                  Pulmão}
+                                                                 FÃ­gado
+                                                                  PulmÃ£o}
 {142}{}{}
 {143}{}{}
 {144}{}{}
 {145}{}{}
 {146}{}{}
-{147}{}{Retirar Coração}
-{148}{}{Retirar Cérebro}
+{147}{}{Retirar CoraÃ§Ã£o}
+{148}{}{Retirar CÃ©rebro}
 {149}{}{Retirar Rim}
-{150}{}{Retirar Fígado}
-{151}{}{Retirar Pulmão}
+{150}{}{Retirar FÃ­gado}
+{151}{}{Retirar PulmÃ£o}
 {152}{}{Retornao ao Menu Principal}
 {153}{}{Sair}
-{154}{}{Alerta! Aparelho do depósito em mau-funcionamento.
-                        [De acordo com o alerta, o dispositivo de depósito destes órgãos falhou há muito tempo atrás. A não ser que queira fazer uma sopa, fazer uma retirada não é boa idéia.]}
+{154}{}{Alerta! Aparelho do depÃ³sito em mau-funcionamento.
+                        [De acordo com o alerta, o dispositivo de depÃ³sito destes Ã³rgÃ£os falhou hÃ¡ muito tempo atrÃ¡s. A nÃ£o ser que queira fazer uma sopa, fazer uma retirada nÃ£o Ã© boa idÃ©ia.]}
 {155}{}{}
-{156}{}{Retornar ao Menu de Órgãos}
+{156}{}{Retornar ao Menu de Ã“rgÃ£os}
 {157}{}{Retornao ao Menu Principal}
 {158}{}{Sair}
-{159}{}{Atenção! Aparelho do depósito em mau-funcionamento.
-                         Tanques de depósito 101 - 104
-                                      Opções de correção requisitadas
-                                  [Imensos e precisos cálculos são necessários para salvar os cérebros. Um enorme fluxo de fórmulas e medidas correm perante a tela. Tudo parece muito científico para você.]}
+{159}{}{AtenÃ§Ã£o! Aparelho do depÃ³sito em mau-funcionamento.
+                         Tanques de depÃ³sito 101 - 104
+                                      OpÃ§Ãµes de correÃ§Ã£o requisitadas
+                                  [Imensos e precisos cÃ¡lculos sÃ£o necessÃ¡rios para salvar os cÃ©rebros. Um enorme fluxo de fÃ³rmulas e medidas correm perante a tela. Tudo parece muito cientÃ­fico para vocÃª.]}
 {160}{}{}
 {161}{}{}
 {162}{}{}
 {163}{}{Tentar fazer os ajustes}
 {164}{}{Retornao ao Menu Principal}
 {165}{}{Tentar mais tarde.}
-{166}{}{[Devido a sua negligência, todos os cérebros morreram. Talvez ter aumentado a temperatura para 371.6 Kelvin foi um pouco demais. Ciência nunca foi o seu forte.]}
+{166}{}{[Devido a sua negligÃªncia, todos os cÃ©rebros morreram. Talvez ter aumentado a temperatura para 371.6 Kelvin foi um pouco demais. CiÃªncia nunca foi o seu forte.]}
 {167}{}{Sair.}
-{168}{}{[Tentativas e erros parecem ser a chave para a solução para esse problema. Você conseguiu salvar um dos quatro cérebros. Ciência é nerds mesmo.]}
-{169}{}{Retirar Cérebro}
-{170}{}{[Usando a lei da média você conseguiu salvar metade dos cérebros. Você não é um cientista.]}
-{171}{}{Retirar Cérebro}
-{172}{}{[Obviamente, você não sabe o que está fazendo. Com excessão de um erro, você conseguiu salvar três cérebros. Você sabia que ler aqueles jornais de ciência serviria para alguma coisa algum dia.]}
-{173}{}{Retirar Cérebro}
-{174}{}{[Com um pouco de cálculo você conseguiu reverter a crise e salvar os cérebros. Ciência é definitivamente mais do que um hobby pra você.]}
-{175}{}{Retirar Cérebro}
+{168}{}{[Tentativas e erros parecem ser a chave para a soluÃ§Ã£o para esse problema. VocÃª conseguiu salvar um dos quatro cÃ©rebros. CiÃªncia Ã© nerds mesmo.]}
+{169}{}{Retirar CÃ©rebro}
+{170}{}{[Usando a lei da mÃ©dia vocÃª conseguiu salvar metade dos cÃ©rebros. VocÃª nÃ£o Ã© um cientista.]}
+{171}{}{Retirar CÃ©rebro}
+{172}{}{[Obviamente, vocÃª nÃ£o sabe o que estÃ¡ fazendo. Com excessÃ£o de um erro, vocÃª conseguiu salvar trÃªs cÃ©rebros. VocÃª sabia que ler aqueles jornais de ciÃªncia serviria para alguma coisa algum dia.]}
+{173}{}{Retirar CÃ©rebro}
+{174}{}{[Com um pouco de cÃ¡lculo vocÃª conseguiu reverter a crise e salvar os cÃ©rebros. CiÃªncia Ã© definitivamente mais do que um hobby pra vocÃª.]}
+{175}{}{Retirar CÃ©rebro}
 {176}{}{Menu Principal de Retirada
-                                               Cérebro Anormal
-                                                        Cérebro de Chimpanzé
-                                                      Cérebro Humano
-                                                        Cérebro Cibernético}
-{177}{}{Menu de Retirada de Cérebro
-                                              Cérebro Anormal
-                                                        Cérebro de Chimpanzé
-                                                      Cérebro Humano
-                                                        Cérebro Cibernético - Morto}
-{178}{}{Menu de Retirada de Cérebro
-                                                Cérebro Anormal
-                                                        Cérebro de Chimpanzé
-                                                      Cérebro Humano - Morto
-                                                        Cérebro Cibernético - Morto}
-{179}{}{Menu de Retirada de Cérebro
-                                                Cérebro Anormal
-                                                        Cérebro de Chimpanzé - Morto
-                                                      Cérebro Humano - Morto
-                                                        Cérebro Cibernético - Morto}
+                                               CÃ©rebro Anormal
+                                                        CÃ©rebro de ChimpanzÃ©
+                                                      CÃ©rebro Humano
+                                                        CÃ©rebro CibernÃ©tico}
+{177}{}{Menu de Retirada de CÃ©rebro
+                                              CÃ©rebro Anormal
+                                                        CÃ©rebro de ChimpanzÃ©
+                                                      CÃ©rebro Humano
+                                                        CÃ©rebro CibernÃ©tico - Morto}
+{178}{}{Menu de Retirada de CÃ©rebro
+                                                CÃ©rebro Anormal
+                                                        CÃ©rebro de ChimpanzÃ©
+                                                      CÃ©rebro Humano - Morto
+                                                        CÃ©rebro CibernÃ©tico - Morto}
+{179}{}{Menu de Retirada de CÃ©rebro
+                                                CÃ©rebro Anormal
+                                                        CÃ©rebro de ChimpanzÃ© - Morto
+                                                      CÃ©rebro Humano - Morto
+                                                        CÃ©rebro CibernÃ©tico - Morto}
 {180}{}{}
 {185}{}{}
 {189}{}{}
 {193}{}{}
-{196}{}{Cérebro anormal}
-{197}{}{Cérebro Chimpanzé}
-{198}{}{Cérebro Humano}
-{199}{}{Cérebro Cibernético}
-{200}{}{[Apesar das leituras indicarem que o cérebro está vivo, os níveis neuróticos estão abaixo do normal.]
+{196}{}{CÃ©rebro anormal}
+{197}{}{CÃ©rebro ChimpanzÃ©}
+{198}{}{CÃ©rebro Humano}
+{199}{}{CÃ©rebro CibernÃ©tico}
+{200}{}{[Apesar das leituras indicarem que o cÃ©rebro estÃ¡ vivo, os nÃ­veis neurÃ³ticos estÃ£o abaixo do normal.]
                            Retirar?}
 {201}{}{}
 {202}{}{Sim}
-{203}{}{Não}
-{204}{}{[As ondas cerebrais estão ativas, mas diferem totalmente das de um cérebro humano.]
+{203}{}{NÃ£o}
+{204}{}{[As ondas cerebrais estÃ£o ativas, mas diferem totalmente das de um cÃ©rebro humano.]
                                                           Retirar?}
-{208}{}{[A atividade cerebral é razoavelmente de um cérebro humano.]
+{208}{}{[A atividade cerebral Ã© razoavelmente de um cÃ©rebro humano.]
                    Retirar?}
-{212}{}{[A atividade cerebral é esplêndida! Pela aparência os sinais são origem de um e cérebro digital e humano ao mesmo tempo.]
+{212}{}{[A atividade cerebral Ã© esplÃªndida! Pela aparÃªncia os sinais sÃ£o origem de um e cÃ©rebro digital e humano ao mesmo tempo.]
            Retirar?}
-{216}{}{[O robô sai rapidamente para retirar o cérebro. Quando retorna você nota que o robô parece estar com problemas, explodindo de repente. Por sorte, ele conseguiu entregar o cérebro antes de explodir.]}
+{216}{}{[O robÃ´ sai rapidamente para retirar o cÃ©rebro. Quando retorna vocÃª nota que o robÃ´ parece estar com problemas, explodindo de repente. Por sorte, ele conseguiu entregar o cÃ©rebro antes de explodir.]}
 {217}{}{Sair}
-{218}{}{Menu de Retirada de Cadáveres
+{218}{}{Menu de Retirada de CadÃ¡veres
                                           Soldado Dobbs}
 {219}{}{}
 {220}{}{Retirar Soldado Dobbs}
 {221}{}{Retornao ao Menu Principal}
 {222}{}{Sair}
-{223}{}{[De acordo com as leituras o Soldado Dobbs está vivo! Ele está localizado no Tanque Experimental de Regeneração de Biomed Gel.]
+{223}{}{[De acordo com as leituras o Soldado Dobbs estÃ¡ vivo! Ele estÃ¡ localizado no Tanque Experimental de RegeneraÃ§Ã£o de Biomed Gel.]
    Retirar?}
 {224}{}{}
 {225}{}{Sim}
-{226}{}{Não}
-{227}{}{[O corpo do Soldado Dobbs está deitado aos seus pés, mas para sua surpresa, ele se levanta e começa a falar com você. Engraçado, ele não parece morto.]}
+{226}{}{NÃ£o}
+{227}{}{[O corpo do Soldado Dobbs estÃ¡ deitado aos seus pÃ©s, mas para sua surpresa, ele se levanta e comeÃ§a a falar com vocÃª. EngraÃ§ado, ele nÃ£o parece morto.]}
 {228}{}{Sair}
-{229}{}{Não há cadáveres no depósito.}
+{229}{}{NÃ£o hÃ¡ cadÃ¡veres no depÃ³sito.}
 {230}{}{Retornao ao Menu Principal}
 {231}{}{Sair}
-{232}{}{[Mesmo vendo que as unidades de depósito estão vazias, as leituras indicam que elas estão cheias. Talvez seja um erro no programa.]}
+{232}{}{[Mesmo vendo que as unidades de depÃ³sito estÃ£o vazias, as leituras indicam que elas estÃ£o cheias. Talvez seja um erro no programa.]}
 {233}{}{Voltar para o Menu Principal}
 {234}{}{Sair }
-{300}{}{ é incapaz de ler o que está no monitor.}
+{300}{}{ Ã© incapaz de ler o que estÃ¡ no monitor.}

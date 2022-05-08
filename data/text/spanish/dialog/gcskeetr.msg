@@ -1,189 +1,189 @@
-{100}{}{Ves a un necrófago vestido con ropa vieja llena de manchas de grasa.}
-{101}{}{Ves a Skeeter, el necrófago habilidoso.}
-{102}{}{Ves a un necrófago mugriento, pero de mirada inteligente, que viste un mono grasiento con un micrómetro
+{100}{}{Ves a un necrÃ³fago vestido con ropa vieja llena de manchas de grasa.}
+{101}{}{Ves a Skeeter, el necrÃ³fago habilidoso.}
+{102}{}{Ves a un necrÃ³fago mugriento, pero de mirada inteligente, que viste un mono grasiento con un micrÃ³metro
  sobresaliendo de su bolsillo.}
-{110}{}{No toques nada: podrías hacerte daño.}
-{111}{}{Creía que los tribales eran algo manazas.}
-{112}{}{Puedes mirar. Podrías aprender algo, pero lo dudo.}
+{110}{}{No toques nada: podrÃ­as hacerte daÃ±o.}
+{111}{}{CreÃ­a que los tribales eran algo manazas.}
+{112}{}{Puedes mirar. PodrÃ­as aprender algo, pero lo dudo.}
 {113}{}{Bueno, no eres gran cosa.}
-{114}{}{¿Pretendes hacerte el idiota, o es que realmente eres estúpido?}
-{120}{}{Me hace gracia que me preguntes eso. Verás, los coches usan células reemplazables de combustible, o baterías, como combustible. Lo que normalmente se estropea es el inyector de las células de combustible. La mayoría de los mecánicos novatos simplemente asumen que es la batería. Pero tú también lo estás asumiendo, ¿no?}
-{121}{}{No, más bien no. ¿Qué quieres decir?}
-{122}{}{Entonces, ¿eso significa que tienes un inyector de células de combustible?}
-{130}{}{Bueno, asumiendo que no todo se vaya al traste entre nosotros. ¿Lo pillas? Esa ha sido buena, ¿eh? ¡Je je! Hacía años que no la decía.}
-{131}{}{Eh, muy gracioso, sí. Entonces, ¿tienes un inyector de células de combustible?}
-{140}{}{Sí. Claro. Lo tengo aquí mismo. Listo para ser introducido en un coche. ¿Tienes un coche?}
-{141}{}{Sé donde hay uno. ¿Cuánto me va a costar conseguir ese inyector de células de combustible?}
-{142}{}{Puede que tenga uno. Puede que solo me gusten las piezas antiguas. ¿Cuánto por el inyector de células de combustible?}
-{143}{}{Ojalá lo tuviera. Si encuentro uno, sabré donde venir para conseguir un nuevo inyector de células de combustible. Adiós.}
+{114}{}{Â¿Pretendes hacerte el idiota, o es que realmente eres estÃºpido?}
+{120}{}{Me hace gracia que me preguntes eso. VerÃ¡s, los coches usan cÃ©lulas reemplazables de combustible, o baterÃ­as, como combustible. Lo que normalmente se estropea es el inyector de las cÃ©lulas de combustible. La mayorÃ­a de los mecÃ¡nicos novatos simplemente asumen que es la baterÃ­a. Pero tÃº tambiÃ©n lo estÃ¡s asumiendo, Â¿no?}
+{121}{}{No, mÃ¡s bien no. Â¿QuÃ© quieres decir?}
+{122}{}{Entonces, Â¿eso significa que tienes un inyector de cÃ©lulas de combustible?}
+{130}{}{Bueno, asumiendo que no todo se vaya al traste entre nosotros. Â¿Lo pillas? Esa ha sido buena, Â¿eh? Â¡Je je! HacÃ­a aÃ±os que no la decÃ­a.}
+{131}{}{Eh, muy gracioso, sÃ­. Entonces, Â¿tienes un inyector de cÃ©lulas de combustible?}
+{140}{}{SÃ­. Claro. Lo tengo aquÃ­ mismo. Listo para ser introducido en un coche. Â¿Tienes un coche?}
+{141}{}{SÃ© donde hay uno. Â¿CuÃ¡nto me va a costar conseguir ese inyector de cÃ©lulas de combustible?}
+{142}{}{Puede que tenga uno. Puede que solo me gusten las piezas antiguas. Â¿CuÃ¡nto por el inyector de cÃ©lulas de combustible?}
+{143}{}{OjalÃ¡ lo tuviera. Si encuentro uno, sabrÃ© donde venir para conseguir un nuevo inyector de cÃ©lulas de combustible. AdiÃ³s.}
 {144}{}{De hecho, tengo otra pregunta para ti.}
-{150}{}{Bueno, el dinero está muy bien, pero necesito otra cosa ahora mismo. Algo que no puedo conseguir por mí mismo.}
-{151}{}{¿Qué necesitas?}
-{160}{}{Genial. Tienes mi regulador de plasma. Gracias. Ahora te debo un trabajo gratis. ¿En qué quieres que trabaje? Te diría lo que cuesta, pero ya está pagado.}
+{150}{}{Bueno, el dinero estÃ¡ muy bien, pero necesito otra cosa ahora mismo. Algo que no puedo conseguir por mÃ­ mismo.}
+{151}{}{Â¿QuÃ© necesitas?}
+{160}{}{Genial. Tienes mi regulador de plasma. Gracias. Ahora te debo un trabajo gratis. Â¿En quÃ© quieres que trabaje? Te dirÃ­a lo que cuesta, pero ya estÃ¡ pagado.}
 {161}{}{Veamos en lo que puedes trabajar.}
-{162}{}{Creo que me lo pensaré. Adiós.}
-{170}{}{Gracias por arreglar nuestro reactor atómico. Este lugar necesita unas cuantas reparaciones. Les enseñaría cómo hacerlo, pero no se fían de mí. Ahora tienen a ese bocazas imbécil de Festus haciendo todo el trabajo. }
+{162}{}{Creo que me lo pensarÃ©. AdiÃ³s.}
+{170}{}{Gracias por arreglar nuestro reactor atÃ³mico. Este lugar necesita unas cuantas reparaciones. Les enseÃ±arÃ­a cÃ³mo hacerlo, pero no se fÃ­an de mÃ­. Ahora tienen a ese bocazas imbÃ©cil de Festus haciendo todo el trabajo. }
 {171}{}{Bueno, fue un placer ayudar. Aunque ahora mismo necesito algo a cambio.}
-{172}{}{Seguro que hubiese sido más fácil si te hubieran dejado arreglarlo. Oh bueno, ya está hecho. Hasta luego.}
-{180}{}{¿Has conseguido ya mi transformador trifásico de plasma?}
-{181}{}{Todavía no, pero estoy en ello. Déjame preguntarte algo.}
-{182}{}{Todavía no. Pero lo haré. Adiós.}
-{190}{}{Hola, soy Skeeter. Arreglo y reúno cosas aquí.}
-{191}{}{Hola. ¿Qué andas buscando?}
-{192}{}{¿Qué necesitas?}
-{200}{}{¿Has oído hablar de algo llamado Kit de Creación del Jardín de Edén?}
-{201}{}{¿Tienes una batería de recambio para un coche?}
+{172}{}{Seguro que hubiese sido mÃ¡s fÃ¡cil si te hubieran dejado arreglarlo. Oh bueno, ya estÃ¡ hecho. Hasta luego.}
+{180}{}{Â¿Has conseguido ya mi transformador trifÃ¡sico de plasma?}
+{181}{}{TodavÃ­a no, pero estoy en ello. DÃ©jame preguntarte algo.}
+{182}{}{TodavÃ­a no. Pero lo harÃ©. AdiÃ³s.}
+{190}{}{Hola, soy Skeeter. Arreglo y reÃºno cosas aquÃ­.}
+{191}{}{Hola. Â¿QuÃ© andas buscando?}
+{192}{}{Â¿QuÃ© necesitas?}
+{200}{}{Â¿Has oÃ­do hablar de algo llamado Kit de CreaciÃ³n del JardÃ­n de EdÃ©n?}
+{201}{}{Â¿Tienes una baterÃ­a de recambio para un coche?}
 {202}{}{Tengo algunas cosas a las que quiero que eches un vistazo.}
-{203}{}{¿Qué haces aquí?}
-{204}{}{Eh, sólo estaba mirando. Adiós.}
-{210}{}{¿A qué quieres que eche un vistazo?}
-{211}{}{¿Estás listo para que le eche el guante a algo? ¿Qué quieres que compruebe ahora?}
+{203}{}{Â¿QuÃ© haces aquÃ­?}
+{204}{}{Eh, sÃ³lo estaba mirando. AdiÃ³s.}
+{210}{}{Â¿A quÃ© quieres que eche un vistazo?}
+{211}{}{Â¿EstÃ¡s listo para que le eche el guante a algo? Â¿QuÃ© quieres que compruebe ahora?}
 {212}{}{Tengo esta mira.}
 {213}{}{Tengo un "X"}
 {214}{}{Tengo un "X"}
 {215}{}{Tengo un "X"}
 {216}{}{Tengo un "X"}
-{217}{}{¿Podemos hacer trueque con estas piezas más tarde?}
-{218}{}{No necesito nada más. Adiós.}
+{217}{}{Â¿Podemos hacer trueque con estas piezas mÃ¡s tarde?}
+{218}{}{No necesito nada mÃ¡s. AdiÃ³s.}
 {220}{}{Hmm, puedo acoplar ese telescopio que tienes a ese rifle tuyo.}
-{221}{}{Bueno, puedo acoplar esa mira a uno de tus rifles. ¿A cuál quieres que se lo ponga?}
-{222}{}{¿Cuanto me va a costar acoplar la mira a mi rifle de caza?}
-{223}{}{¿Cuanto me va a costar acoplar la mira a mi rifle de asalto?}
-{224}{}{¿Cuanto me va a costar acoplar la mira a mi rifle francotirador?}
-{225}{}{Déjame preguntarte sobre otro objeto.}
-{226}{}{Creo que eso es todo lo que necesito saber. Adiós.}
-{230}{}{Mmm, pensaba que sí. Bueno, ya ves, no puedo hacer nada con tu [Selected partname]. Necesitas tener otra cosa para que yo haga algo con ella.}
-{231}{}{Mmm, entonces, ¿qué tal un objeto diferente?}
-{232}{}{¿Qué pieza necesito?}
-{233}{}{Creo que sera mejor que vuelva cuando tenga algo más. Adiós.}
-{240}{}{Allá vamos. Creo que debería funcionarte bien. ¿Algo más?}
-{241}{}{Sí, ¿podrias echarle un vistazo a otro de mis objetos?}
-{242}{}{Es todo lo que necesito ahora mismo. Gracias. Adiós.}
-{250}{}{Mmm, no tienes el suficiente dinero para cubrir los gastos de ese trabajo. ¿Tienes otra cosa que quieres que compruebe?}
-{251}{}{¿Cuánto me costaría combinar otra cosa?}
-{252}{}{Creo que no. Gracias de todos modos. Adiós.}
-{260}{}{Por regla general sólo trabajo con chatarra. Desmontándola y volviéndola a montar... por regla general. Haciendo que funcione mejor... a veces. Manteniéndome al margen de problemas. ¿Sabes lo que te digo?}
-{261}{}{Supongo. Permíteme preguntarte algo.}
-{262}{}{Bueno, será mejor que me vaya a hacer algo por mi cuenta. Adiós.}
-{270}{}{¿Estás buscando un GECK? Bueno, no sé exactamente dónde puedes encontrar una de esas cosas. Sé que en Ciudad Refugio lo usaron.}
-{271}{}{¿Ciudad Refugio tiene uno?}
-{272}{}{Mmm. Bueno, entonces déjame preguntarte otra cosa.}
-{273}{}{Oh bueno, mejor seguiré buscando. Adiós.}
-{280}{}{Seguro que lo tienen. Así es como han llegado a estar tan bien. Seguro que no ha sido porque sabían lo que hacer. Es porque el GECK empezó a cosechar los cultivos, y puso al pueblo en marcha cuando salieron del Refugio.}
-{281}{}{¿Quién podría tener un GECK sin usar?}
-{290}{}{Bueno, déjame pensar. Según recuerdo, se supone que la mayoría de los Refugios poseían un GECK. Podrías intentar buscarlo por otros Refugios.}
-{291}{}{Gracias por el consejo. Permíteme preguntarte otra cosa.}
-{292}{}{Bueno, entonces será mejor que siga buscando. Adiós.}
-{300}{}{Para ser honesto contigo, te diré que no. Si no consigo todas las piezas, me quedaré con la sensación de que le falta algo. ¿Sabes lo que quiero decir?}
-{301}{}{Eh, ¿quieres decir que haces esto al tuntún?}
-{302}{}{Entonces, ¿qué tal si le echas un vistazo a otra cosa?}
-{303}{}{Bueno, supongo que eso tiene sentido. Entonces será mejor que busque otra pieza. Adiós.}
-{310}{}{Bueno, sí. Pero ves, es una suposición correcta. Así es. ¿Sabes lo que quiero decir?}
-{311}{}{No se lo que quieres decir exactamente, pero creo que iré a buscar otra pieza. Adiós.}
-{312}{}{Entonces, ¿qué tal si le echas un vistazo a otra cosa?}
-{313}{}{Bueno, supongo que eso tiene sentido. Entonces será mejor que busque otra pieza. Adiós.}
-{320}{}{Hoy en día, las buenas herramientas son mas difíciles de conseguir que las piezas. Necesito un nuevo super-set de herramientas. Snap no-se-qué es la mejor marca.}
-{321}{}{¿Un nuevo super-set de herramientas? ¿Dónde puedo conseguir uno?}
-{330}{}{Creo que el mejor sitio para conseguirlo sería en algún lugar de Ciudad Refugio. Tienen toda clase de herramientas, pero no obstante, seguro que no querrían dárselas a un necrófago.}
-{331}{}{Así que, ¿quieres que te traiga un super-set de herramientas, y entonces me darás la pieza del coche?}
-{340}{}{Exactamente. Ese es el trato. Un super-set de herramientas por un inyector de células de combustible.}
-{341}{}{Parece un trato justo, creo. Déjame preguntarte otra cosa.}
-{342}{}{¿Qué pasa si lo hago por la vía fácil? Te mato y me quedo con la pieza que necesito.}
-{343}{}{Creo que me voy a dar una vuelta y a pensar sobre ello. Adiós.}
-{360}{}{Bueno, ya. Podrías intentarlo. En ese caso, quizá te llevarías una pequeña sorpresa. Puedo ser más resistente de lo que crees. Así que tal vez estarías cortándote tu propio cuello. Puedo ser muy bueno ensamblando objetos. Siempre es un placer contar con alguien dispuesto a probarlos, ¿no es así?}
-{361}{}{Bueno, quizá estés en lo cierto. Te dejaré vivir, por ahora. Cuéntame algo más. }
-{362}{}{Seguro que tienes muchas respuestas, ¿no? Espero que tengas una respuesta para lo que hay después de la muerte, porque te voy a enviar allí... ahora mismo.}
-{363}{}{Tendré que pensar sobre ello. Adiós, por ahora. }
-{370}{}{Veo que tienes ahí un excelente set de herramientas. Marca 'Snap-off', ¿no? Te cambiaré este inyector por él.}
-{371}{}{¡Hola! Vuelves con mi set de reparación. Mmm, marca Snap-off: son los mejores. ¿Preparado para el cambio?}
+{221}{}{Bueno, puedo acoplar esa mira a uno de tus rifles. Â¿A cuÃ¡l quieres que se lo ponga?}
+{222}{}{Â¿Cuanto me va a costar acoplar la mira a mi rifle de caza?}
+{223}{}{Â¿Cuanto me va a costar acoplar la mira a mi rifle de asalto?}
+{224}{}{Â¿Cuanto me va a costar acoplar la mira a mi rifle francotirador?}
+{225}{}{DÃ©jame preguntarte sobre otro objeto.}
+{226}{}{Creo que eso es todo lo que necesito saber. AdiÃ³s.}
+{230}{}{Mmm, pensaba que sÃ­. Bueno, ya ves, no puedo hacer nada con tu [Selected partname]. Necesitas tener otra cosa para que yo haga algo con ella.}
+{231}{}{Mmm, entonces, Â¿quÃ© tal un objeto diferente?}
+{232}{}{Â¿QuÃ© pieza necesito?}
+{233}{}{Creo que sera mejor que vuelva cuando tenga algo mÃ¡s. AdiÃ³s.}
+{240}{}{AllÃ¡ vamos. Creo que deberÃ­a funcionarte bien. Â¿Algo mÃ¡s?}
+{241}{}{SÃ­, Â¿podrias echarle un vistazo a otro de mis objetos?}
+{242}{}{Es todo lo que necesito ahora mismo. Gracias. AdiÃ³s.}
+{250}{}{Mmm, no tienes el suficiente dinero para cubrir los gastos de ese trabajo. Â¿Tienes otra cosa que quieres que compruebe?}
+{251}{}{Â¿CuÃ¡nto me costarÃ­a combinar otra cosa?}
+{252}{}{Creo que no. Gracias de todos modos. AdiÃ³s.}
+{260}{}{Por regla general sÃ³lo trabajo con chatarra. DesmontÃ¡ndola y volviÃ©ndola a montar... por regla general. Haciendo que funcione mejor... a veces. ManteniÃ©ndome al margen de problemas. Â¿Sabes lo que te digo?}
+{261}{}{Supongo. PermÃ­teme preguntarte algo.}
+{262}{}{Bueno, serÃ¡ mejor que me vaya a hacer algo por mi cuenta. AdiÃ³s.}
+{270}{}{Â¿EstÃ¡s buscando un GECK? Bueno, no sÃ© exactamente dÃ³nde puedes encontrar una de esas cosas. SÃ© que en Ciudad Refugio lo usaron.}
+{271}{}{Â¿Ciudad Refugio tiene uno?}
+{272}{}{Mmm. Bueno, entonces dÃ©jame preguntarte otra cosa.}
+{273}{}{Oh bueno, mejor seguirÃ© buscando. AdiÃ³s.}
+{280}{}{Seguro que lo tienen. AsÃ­ es como han llegado a estar tan bien. Seguro que no ha sido porque sabÃ­an lo que hacer. Es porque el GECK empezÃ³ a cosechar los cultivos, y puso al pueblo en marcha cuando salieron del Refugio.}
+{281}{}{Â¿QuiÃ©n podrÃ­a tener un GECK sin usar?}
+{290}{}{Bueno, dÃ©jame pensar. SegÃºn recuerdo, se supone que la mayorÃ­a de los Refugios poseÃ­an un GECK. PodrÃ­as intentar buscarlo por otros Refugios.}
+{291}{}{Gracias por el consejo. PermÃ­teme preguntarte otra cosa.}
+{292}{}{Bueno, entonces serÃ¡ mejor que siga buscando. AdiÃ³s.}
+{300}{}{Para ser honesto contigo, te dirÃ© que no. Si no consigo todas las piezas, me quedarÃ© con la sensaciÃ³n de que le falta algo. Â¿Sabes lo que quiero decir?}
+{301}{}{Eh, Â¿quieres decir que haces esto al tuntÃºn?}
+{302}{}{Entonces, Â¿quÃ© tal si le echas un vistazo a otra cosa?}
+{303}{}{Bueno, supongo que eso tiene sentido. Entonces serÃ¡ mejor que busque otra pieza. AdiÃ³s.}
+{310}{}{Bueno, sÃ­. Pero ves, es una suposiciÃ³n correcta. AsÃ­ es. Â¿Sabes lo que quiero decir?}
+{311}{}{No se lo que quieres decir exactamente, pero creo que irÃ© a buscar otra pieza. AdiÃ³s.}
+{312}{}{Entonces, Â¿quÃ© tal si le echas un vistazo a otra cosa?}
+{313}{}{Bueno, supongo que eso tiene sentido. Entonces serÃ¡ mejor que busque otra pieza. AdiÃ³s.}
+{320}{}{Hoy en dÃ­a, las buenas herramientas son mas difÃ­ciles de conseguir que las piezas. Necesito un nuevo super-set de herramientas. Snap no-se-quÃ© es la mejor marca.}
+{321}{}{Â¿Un nuevo super-set de herramientas? Â¿DÃ³nde puedo conseguir uno?}
+{330}{}{Creo que el mejor sitio para conseguirlo serÃ­a en algÃºn lugar de Ciudad Refugio. Tienen toda clase de herramientas, pero no obstante, seguro que no querrÃ­an dÃ¡rselas a un necrÃ³fago.}
+{331}{}{AsÃ­ que, Â¿quieres que te traiga un super-set de herramientas, y entonces me darÃ¡s la pieza del coche?}
+{340}{}{Exactamente. Ese es el trato. Un super-set de herramientas por un inyector de cÃ©lulas de combustible.}
+{341}{}{Parece un trato justo, creo. DÃ©jame preguntarte otra cosa.}
+{342}{}{Â¿QuÃ© pasa si lo hago por la vÃ­a fÃ¡cil? Te mato y me quedo con la pieza que necesito.}
+{343}{}{Creo que me voy a dar una vuelta y a pensar sobre ello. AdiÃ³s.}
+{360}{}{Bueno, ya. PodrÃ­as intentarlo. En ese caso, quizÃ¡ te llevarÃ­as una pequeÃ±a sorpresa. Puedo ser mÃ¡s resistente de lo que crees. AsÃ­ que tal vez estarÃ­as cortÃ¡ndote tu propio cuello. Puedo ser muy bueno ensamblando objetos. Siempre es un placer contar con alguien dispuesto a probarlos, Â¿no es asÃ­?}
+{361}{}{Bueno, quizÃ¡ estÃ©s en lo cierto. Te dejarÃ© vivir, por ahora. CuÃ©ntame algo mÃ¡s. }
+{362}{}{Seguro que tienes muchas respuestas, Â¿no? Espero que tengas una respuesta para lo que hay despuÃ©s de la muerte, porque te voy a enviar allÃ­... ahora mismo.}
+{363}{}{TendrÃ© que pensar sobre ello. AdiÃ³s, por ahora. }
+{370}{}{Veo que tienes ahÃ­ un excelente set de herramientas. Marca 'Snap-off', Â¿no? Te cambiarÃ© este inyector por Ã©l.}
+{371}{}{Â¡Hola! Vuelves con mi set de reparaciÃ³n. Mmm, marca Snap-off: son los mejores. Â¿Preparado para el cambio?}
 {372}{}{Es un trato.}
-{373}{}{Ahora mismo no. Me lo quedaré un rato más. Adiós.}
-{380}{}{Es un buen trato. Deberías ser capaz de enchufar ese cabroncete y hacer que tu coche funcione.}
-{381}{}{Es un buen trato. Deberías ser capaz de enchufar ese cabroncete y hacer que tu coche funcione. Sabes, también podría hacerte otro favor arreglándote algunas de tus cosas gratis.}
-{382}{}{¿En serio? ¿Gratis? ¿Qué tengo que hacer por ti?}
-{383}{}{Déjame hacerte otra pregunta.}
-{384}{}{Me voy a probar esto. Adiós.}
-{390}{}{Bueno, verás, necesito un maldito transformador trifásico de plasma. Y el único lugar donde puedo conseguir uno
+{373}{}{Ahora mismo no. Me lo quedarÃ© un rato mÃ¡s. AdiÃ³s.}
+{380}{}{Es un buen trato. DeberÃ­as ser capaz de enchufar ese cabroncete y hacer que tu coche funcione.}
+{381}{}{Es un buen trato. DeberÃ­as ser capaz de enchufar ese cabroncete y hacer que tu coche funcione. Sabes, tambiÃ©n podrÃ­a hacerte otro favor arreglÃ¡ndote algunas de tus cosas gratis.}
+{382}{}{Â¿En serio? Â¿Gratis? Â¿QuÃ© tengo que hacer por ti?}
+{383}{}{DÃ©jame hacerte otra pregunta.}
+{384}{}{Me voy a probar esto. AdiÃ³s.}
+{390}{}{Bueno, verÃ¡s, necesito un maldito transformador trifÃ¡sico de plasma. Y el Ãºnico lugar donde puedo conseguir uno
  es en el cuarto de suministros.}
-{391}{}{Entonces, ¿por qué no lo sacas tú de ahí?}
-{400}{}{No soy bienvenido por allí. Y sólo fue un pequeño fuego. Podría haberle pasado a cualquiera. De todas formas, ahora nadie me permite entrar dentro del reactor. Necesito a otro que me consiga la pieza. }
-{401}{}{¿Cómo puedo conseguir el transformador de plasma?}
-{410}{}{Debes conseguir un formulario de solicitud de suministros. Una vez lo tengas, simplemente dáselo a Jeremy en el cuarto de suministros y te dará cualquier cosa que le pidas. Puedes conseguir el formulario de solicitud de suministros de Harold o de Festus.}
-{411}{}{¿Dónde están Harold y Festus, y por qué iban a darme el formulario tan fácilmente?}
-{420}{}{Harold está en el asentamiento, y Festus está en la sala de control del reactor. Pero tienes que conseguir el formulario a escondidas, si sabes a lo que me refiero.}
-{421}{}{Quieres decir que tengo que robar el formulario de solicitud, ¿no?}
-{430}{}{Bueno, emm, sí. Eso creo. Puedes preguntarles, pero no tendrías muchas posibilidades.}
-{431}{}{Bueno, veré lo que puedo hacer.}
-{432}{}{No creo que quiera tomar parte en esto. Adiós.}
-{440}{}{¿Has venido reclamarme el trabajo que te debo?}
-{441}{}{Claro que sí. Déjame ver en lo que puedes trabajar.}
-{442}{}{Todavía no. Solo pasaba para ver si seguías por aquí. Bueno, adiós por ahora.}
-{450}{}{Lo siento. No tienes nada que yo pueda usar. ¿Alguna otra cosa?}
-{451}{}{Échale un vistazo a algo más que tengo.}
-{452}{}{Creo que ya está por ahora. Adios.}
-{460}{}{Veamos. Te costará [Cost of combining item a with item b] dólares. ¿Quieres hacerlo?}
-{461}{}{Sí. Quiero hacerlo. Gracias.}
-{462}{}{No creo que quiera hacer eso después de todo. ¿Qué tal otra cosa?}
-{463}{}{Creo que no quiero que trabajes en nada ahora mismo. Adiós.}
-{470}{}{Una vez se han ensamblado las piezas éstas se unen permanentemente. No puedes separarlas y despues pegarlas a otras cosas. Creo que será mejor que elijas bien desde un principio.}
-{471}{}{Vale, lo entiendo. Entonces, échale un vistazo a algo por mí.}
-{472}{}{Creo que no quiero que trabajes en nada ahora mismo. Adiós.}
-{500}{}{Me he estado preguntando donde narices está mi set de herramientas. Dijiste que lo conseguirías, ¿no? No puedo hacer mucho por ti sin eso. Lo siento. Debe de haber muchos disponibles en Ciudad Refugio.}
-{501}{}{Tendré que volver cuando lo tenga. Adiós.}
-{502}{}{De todos modos, no creo que necesite tu ayuda para nada ahora mismo. Adiós.}
-{600}{}{¿A qué quieres que eche un vistazo?}
-{601}{}{Tengo una pistola aquí y me preguntaba...}
-{602}{}{Estoy seguro de que podrías instalarle un accesorio a este rifle.}
-{603}{}{A veces me gusta acercarme y ser más personal. ¿Hay algo que puedas hacer para mejorar mis armas cuerpo a cuerpo?}
-{604}{}{Eh, quizá más tarde. Déjame preguntarte otra cosa.}
-{605}{}{No necesito nada más. Adiós.}
-{610}{}{[Toma tu revolver mágnum]. Puedo insertarle un cargador rápido a esa mágnum por }
-{611}{}{Mmm, esa Desert Eagle sería una buena arma con un cargador aumentado. Puedo ponértelo por }
-{612}{}{Pon la recarga mejorada en la mágnum.}
+{391}{}{Entonces, Â¿por quÃ© no lo sacas tÃº de ahÃ­?}
+{400}{}{No soy bienvenido por allÃ­. Y sÃ³lo fue un pequeÃ±o fuego. PodrÃ­a haberle pasado a cualquiera. De todas formas, ahora nadie me permite entrar dentro del reactor. Necesito a otro que me consiga la pieza. }
+{401}{}{Â¿CÃ³mo puedo conseguir el transformador de plasma?}
+{410}{}{Debes conseguir un formulario de solicitud de suministros. Una vez lo tengas, simplemente dÃ¡selo a Jeremy en el cuarto de suministros y te darÃ¡ cualquier cosa que le pidas. Puedes conseguir el formulario de solicitud de suministros de Harold o de Festus.}
+{411}{}{Â¿DÃ³nde estÃ¡n Harold y Festus, y por quÃ© iban a darme el formulario tan fÃ¡cilmente?}
+{420}{}{Harold estÃ¡ en el asentamiento, y Festus estÃ¡ en la sala de control del reactor. Pero tienes que conseguir el formulario a escondidas, si sabes a lo que me refiero.}
+{421}{}{Quieres decir que tengo que robar el formulario de solicitud, Â¿no?}
+{430}{}{Bueno, emm, sÃ­. Eso creo. Puedes preguntarles, pero no tendrÃ­as muchas posibilidades.}
+{431}{}{Bueno, verÃ© lo que puedo hacer.}
+{432}{}{No creo que quiera tomar parte en esto. AdiÃ³s.}
+{440}{}{Â¿Has venido reclamarme el trabajo que te debo?}
+{441}{}{Claro que sÃ­. DÃ©jame ver en lo que puedes trabajar.}
+{442}{}{TodavÃ­a no. Solo pasaba para ver si seguÃ­as por aquÃ­. Bueno, adiÃ³s por ahora.}
+{450}{}{Lo siento. No tienes nada que yo pueda usar. Â¿Alguna otra cosa?}
+{451}{}{Ã‰chale un vistazo a algo mÃ¡s que tengo.}
+{452}{}{Creo que ya estÃ¡ por ahora. Adios.}
+{460}{}{Veamos. Te costarÃ¡ [Cost of combining item a with item b] dÃ³lares. Â¿Quieres hacerlo?}
+{461}{}{SÃ­. Quiero hacerlo. Gracias.}
+{462}{}{No creo que quiera hacer eso despuÃ©s de todo. Â¿QuÃ© tal otra cosa?}
+{463}{}{Creo que no quiero que trabajes en nada ahora mismo. AdiÃ³s.}
+{470}{}{Una vez se han ensamblado las piezas Ã©stas se unen permanentemente. No puedes separarlas y despues pegarlas a otras cosas. Creo que serÃ¡ mejor que elijas bien desde un principio.}
+{471}{}{Vale, lo entiendo. Entonces, Ã©chale un vistazo a algo por mÃ­.}
+{472}{}{Creo que no quiero que trabajes en nada ahora mismo. AdiÃ³s.}
+{500}{}{Me he estado preguntando donde narices estÃ¡ mi set de herramientas. Dijiste que lo conseguirÃ­as, Â¿no? No puedo hacer mucho por ti sin eso. Lo siento. Debe de haber muchos disponibles en Ciudad Refugio.}
+{501}{}{TendrÃ© que volver cuando lo tenga. AdiÃ³s.}
+{502}{}{De todos modos, no creo que necesite tu ayuda para nada ahora mismo. AdiÃ³s.}
+{600}{}{Â¿A quÃ© quieres que eche un vistazo?}
+{601}{}{Tengo una pistola aquÃ­ y me preguntaba...}
+{602}{}{Estoy seguro de que podrÃ­as instalarle un accesorio a este rifle.}
+{603}{}{A veces me gusta acercarme y ser mÃ¡s personal. Â¿Hay algo que puedas hacer para mejorar mis armas cuerpo a cuerpo?}
+{604}{}{Eh, quizÃ¡ mÃ¡s tarde. DÃ©jame preguntarte otra cosa.}
+{605}{}{No necesito nada mÃ¡s. AdiÃ³s.}
+{610}{}{[Toma tu revolver mÃ¡gnum]. Puedo insertarle un cargador rÃ¡pido a esa mÃ¡gnum por }
+{611}{}{Mmm, esa Desert Eagle serÃ­a una buena arma con un cargador aumentado. Puedo ponÃ©rtelo por }
+{612}{}{Pon la recarga mejorada en la mÃ¡gnum.}
 {613}{}{Aumenta el cargador de mi Desert Eagle.}
 {614}{}{De hecho, tengo otra arma en mente...}
-{615}{}{Hmm, déjame preguntarte otra cosa.}
-{616}{}{Quizá vuelva más tarde.}
-{617}{}{Demasiado para mis posibilidades. Volveré cuando tenga más dinero.}
+{615}{}{Hmm, dÃ©jame preguntarte otra cosa.}
+{616}{}{QuizÃ¡ vuelva mÃ¡s tarde.}
+{617}{}{Demasiado para mis posibilidades. VolverÃ© cuando tenga mÃ¡s dinero.}
 {620}{}{[Skeeter estudia tu rifle y asiente lentamente].}
-{621}{}{Puedo ponerle una buena mira telescópica a ese rifle de caza por }
-{622}{}{Nada mejor que tener un rifle de asalto con el cargador ampliado. Puedo ponérselo
+{621}{}{Puedo ponerle una buena mira telescÃ³pica a ese rifle de caza por }
+{622}{}{Nada mejor que tener un rifle de asalto con el cargador ampliado. Puedo ponÃ©rselo
  por }
-{623}{}{Esa FN FAL es una buena arma. Oye, tengo una mira telescópica de visión nocturna para ella.
+{623}{}{Esa FN FAL es una buena arma. Oye, tengo una mira telescÃ³pica de visiÃ³n nocturna para ella.
  Es tuya por $}
-{624}{}{De acuerdo entonces... pon una mira telescópica en el rifle de asalto Colt.}
-{625}{}{Coloca la recámara expandida en el rifle de asalto AK-112.}
-{626}{}{Instala la mira de visión nocturna en el FN FAL.}
-{627}{}{Demasiado para mis posibilidades. Volveré cuando tenga más dinero.}
-{630}{}{¿Quieres que ese arma cuerpo a cuerpo haga papilla? Puedo *supercargarla* por }
+{624}{}{De acuerdo entonces... pon una mira telescÃ³pica en el rifle de asalto Colt.}
+{625}{}{Coloca la recÃ¡mara expandida en el rifle de asalto AK-112.}
+{626}{}{Instala la mira de visiÃ³n nocturna en el FN FAL.}
+{627}{}{Demasiado para mis posibilidades. VolverÃ© cuando tenga mÃ¡s dinero.}
+{630}{}{Â¿Quieres que ese arma cuerpo a cuerpo haga papilla? Puedo *supercargarla* por }
 {631}{}{Claro.}
-{640}{}{[Skeeter toma el objeto y le echa un vistazo con un brillo extraño en sus
+{640}{}{[Skeeter toma el objeto y le echa un vistazo con un brillo extraÃ±o en sus
  ojos]. Bueno, es un reto, pero creo que puedo mejorarlo realmente
- bien para ti. Siéntate durante un rato. [Skeeter tiende el arma sobre su
+ bien para ti. SiÃ©ntate durante un rato. [Skeeter tiende el arma sobre su
  mesa de trabajo y la inmoviliza con un gran torno].}
 {641}{}{Vale.}
-{650}{}{[Mientras esperas, ves cómo Skeeter te da la espalda mientras trabaja con tu arma. No
- sabes exactamente qué está haciendo pero su extraña risa y todos los martillazos
- te están poniendo nervioso].}
+{650}{}{[Mientras esperas, ves cÃ³mo Skeeter te da la espalda mientras trabaja con tu arma. No
+ sabes exactamente quÃ© estÃ¡ haciendo pero su extraÃ±a risa y todos los martillazos
+ te estÃ¡n poniendo nervioso].}
 {651}{}{Esperas...}
-{660}{}{[Más martillazos y carcajadas mientras sigues esperando...]}
-{661}{}{[Silbas una pequeña melodía y proyectas sombras chinescas con las manos sobre la pared de
+{660}{}{[MÃ¡s martillazos y carcajadas mientras sigues esperando...]}
+{661}{}{[Silbas una pequeÃ±a melodÃ­a y proyectas sombras chinescas con las manos sobre la pared de
  la tienda de Skeeter...]}
-{670}{}{Aquí tienes [te despiertas repentinamente cuando Skeeter toma tu arma desde
- la mesa de trabajo: puedes ver un pequeño número brillante y pieza de metal que quedan sobre
- la mesa mientras Skeeter te devuelve tu arma]. Esto *debería* funcionar, creo. Dale
+{670}{}{AquÃ­ tienes [te despiertas repentinamente cuando Skeeter toma tu arma desde
+ la mesa de trabajo: puedes ver un pequeÃ±o nÃºmero brillante y pieza de metal que quedan sobre
+ la mesa mientras Skeeter te devuelve tu arma]. Esto *deberÃ­a* funcionar, creo. Dale
  una oportunidad.}
-{671}{}{Gracias. ¿Puedes mejorar alguna de mis otras armas?}
-{672}{}{Gracias, Skeeter. Eh, déjame preguntarte algo.}
-{673}{}{Gracias, Skeeter. Iré a probarlo.}
-{680}{}{[Toma tu revolver mágnum]. Puedo insertar gratis un cargador rápido en esta mágnum.}
-{681}{}{Mmm, esa Desert Eagle seguro que sería una buena arma con un cargador ampliado. Puedo hacerlo gratis.}
-{682}{}{Puedo poner gratis una mira telescópica en ese rifle de caza.}
+{671}{}{Gracias. Â¿Puedes mejorar alguna de mis otras armas?}
+{672}{}{Gracias, Skeeter. Eh, dÃ©jame preguntarte algo.}
+{673}{}{Gracias, Skeeter. IrÃ© a probarlo.}
+{680}{}{[Toma tu revolver mÃ¡gnum]. Puedo insertar gratis un cargador rÃ¡pido en esta mÃ¡gnum.}
+{681}{}{Mmm, esa Desert Eagle seguro que serÃ­a una buena arma con un cargador ampliado. Puedo hacerlo gratis.}
+{682}{}{Puedo poner gratis una mira telescÃ³pica en ese rifle de caza.}
 {683}{}{Nada mejor que tener un rifle de asalto con un cargador ampliado. Puedo ponerle
  uno gratis.}
-{684}{}{Esa FN FAL es una buena arma. Oye, tengo una mira telescópica de visión nocturna para ella.
+{684}{}{Esa FN FAL es una buena arma. Oye, tengo una mira telescÃ³pica de visiÃ³n nocturna para ella.
  Es tuya gratis.}
-{685}{}{¿Quieres que ese arma cuerpo a cuerpo haga papilla? Puedo *supercargarla* gratis.}
+{685}{}{Â¿Quieres que ese arma cuerpo a cuerpo haga papilla? Puedo *supercargarla* gratis.}
 {700}{}{Le has entregado la pieza a Skeeter.}
 {710}{}{Le has entregado el set de herramientas a Skeeter.}
 {5500}{}{.}

@@ -1,35 +1,35 @@
-{100}{}{Tu vois un ordinateur en état de fonctionnement.}
-{101}{}{Tu vois le Terminal de Recherche et Développement Top Secret de l'EPA.}
-{102}{}{Bienvenue dans le Terminal de Recherche et Développement Top Secret de l'EPA. Erreur d'initialisation de la procédure d'accès rapide. S'il vous plaît, Recherche par spécificités.}
+{100}{}{Tu vois un ordinateur en Ã©tat de fonctionnement.}
+{101}{}{Tu vois le Terminal de Recherche et DÃ©veloppement Top Secret de l'EPA.}
+{102}{}{Bienvenue dans le Terminal de Recherche et DÃ©veloppement Top Secret de l'EPA. Erreur d'initialisation de la procÃ©dure d'accÃ¨s rapide. S'il vous plaÃ®t, Recherche par spÃ©cificitÃ©s.}
 {103}{}{[Rechercher par ordre d'importance]}
-{104}{}{[Déconnexion]}
-{105}{}{[Après 30 minutes à parcourir tous les dossiers tu en trouves deux qui semblent utiles.] Faites, s'il vous plaît, un choix parmi les possibilités ci-dessous.}
-{106}{}{[Accéder au journal d'événements du FEV]}
-{107}{}{[Accéder au fichier sur le remède de l'épilepsie]}
+{104}{}{[DÃ©connexion]}
+{105}{}{[AprÃ¨s 30 minutes Ã  parcourir tous les dossiers tu en trouves deux qui semblent utiles.] Faites, s'il vous plaÃ®t, un choix parmi les possibilitÃ©s ci-dessous.}
+{106}{}{[AccÃ©der au journal d'Ã©vÃ©nements du FEV]}
+{107}{}{[AccÃ©der au fichier sur le remÃ¨de de l'Ã©pilepsie]}
 {108}{}{[Continuer de chercher]}
-{109}{}{Faites, s'il vous plaît, un choix parmi les possibilités ci-dessous.}
-{110}{}{L'une des plus grandes peurs dans l'esprit de nos fonctionnaires militaires était que les Chinois déploient des armes bactériologiques contre les troupes américaines. En conséquence, Tek Ouest, un éminent scientifique en défense biologique, avait été engagé pour développer un agent immunisant. Par la suite, Tek Ouest entama ces recherches sur le Projet Pan-Immunity Virion Project (PVP) avec l'intention de créer l'immunité au sein même des soldats en modifiant leur ADN. Pendant la mise à l'essai du PVP en 2076, des effets indésirables et anormaux ont été observés sur les sujets tests. Les animaux tests ont commencé à muter, et leur activité neuronale s'est accrût.}
+{109}{}{Faites, s'il vous plaÃ®t, un choix parmi les possibilitÃ©s ci-dessous.}
+{110}{}{L'une des plus grandes peurs dans l'esprit de nos fonctionnaires militaires Ã©tait que les Chinois dÃ©ploient des armes bactÃ©riologiques contre les troupes amÃ©ricaines. En consÃ©quence, Tek Ouest, un Ã©minent scientifique en dÃ©fense biologique, avait Ã©tÃ© engagÃ© pour dÃ©velopper un agent immunisant. Par la suite, Tek Ouest entama ces recherches sur le Projet Pan-Immunity Virion Project (PVP) avec l'intention de crÃ©er l'immunitÃ© au sein mÃªme des soldats en modifiant leur ADN. Pendant la mise Ã  l'essai du PVP en 2076, des effets indÃ©sirables et anormaux ont Ã©tÃ© observÃ©s sur les sujets tests. Les animaux tests ont commencÃ© Ã  muter, et leur activitÃ© neuronale s'est accrÃ»t.}
 {111}{}{[Plus]}
-{112}{}{Voyant les possibilités d'un tel projet, l'Armée s'en empara et le rebaptisa FEV : Virus à Evolution Forcé. Ne se contentant pas d'immuniser contre les maladies, Le FEV transformerait les soldats en surhommes abominablement forts et intelligents. Après évaluation sur des animaux, la recherche de FEV fut déplacée à la Base militaire Mariposa où la mise à l'essai secrète sur les volontaires humains commença.}
+{112}{}{Voyant les possibilitÃ©s d'un tel projet, l'ArmÃ©e s'en empara et le rebaptisa FEV : Virus Ã  Evolution ForcÃ©. Ne se contentant pas d'immuniser contre les maladies, Le FEV transformerait les soldats en surhommes abominablement forts et intelligents. AprÃ¨s Ã©valuation sur des animaux, la recherche de FEV fut dÃ©placÃ©e Ã  la Base militaire Mariposa oÃ¹ la mise Ã  l'essai secrÃ¨te sur les volontaires humains commenÃ§a.}
 {113}{}{[Retour]}
-{120}{}{Un de nos chercheurs, le Dr.Hodkin, a fait une magnifique découverte dans sa récente recherche sur la façon dont le cerveau humain traite des réponses verbales. Apparemment, en répétant une série de lettres avec les inflexions nécessaires, un auditeur peut-être guéri d'un certain nombre de maladies neurologiques, comme l'autisme ou l'épilepsie. Est inclus dans ce journal la série exacte de lettres utilisée par le Dr.Hodkin dans cette expérience. C'est un grand pas dans le traitement pour les troubles neurologiques chroniques.}
-{121}{}{Cela pourrait être utile. Prendre en note la série de lettres et chercher quelque chose d'autre.}
-{130}{}{Tu ne trouves rien d'intéressant.}
-{131}{}{Tu ne trouves toujours rien d'intéressant.}
-{132}{}{Peut-être que si tu cherchais un peu plus, tu pourrais trouver quelque chose...}
-{133}{}{Peut-être encore une recherche ?}
-{134}{}{Après beaucoup de recherches pénibles, tu trouves par hasard un dossier caché.}
-{135}{}{Accès au fichier étiqueté : Projet de Fluoridification de Masse.}
-{136}{}{Dans le but de rendre les citoyens des Etats-Unis plus malléables, l'inclusion du fluorure de sodium dans la totalité de l'eau potable disponible fut testée en laboratoire. Les effets à long terme avaient eu comme résultat, que les sujets deviennent davantage *stupides et dociles*. Plus tard on découvrit que le fluorure de sodium avait endommagé une partie spécifique de leur cerveau, diminuant leur capacité à défendre leur propre liberté, et entraînant l'individu normal à se soumettre irrévocablement à l'autorité.}
+{120}{}{Un de nos chercheurs, le Dr.Hodkin, a fait une magnifique dÃ©couverte dans sa rÃ©cente recherche sur la faÃ§on dont le cerveau humain traite des rÃ©ponses verbales. Apparemment, en rÃ©pÃ©tant une sÃ©rie de lettres avec les inflexions nÃ©cessaires, un auditeur peut-Ãªtre guÃ©ri d'un certain nombre de maladies neurologiques, comme l'autisme ou l'Ã©pilepsie. Est inclus dans ce journal la sÃ©rie exacte de lettres utilisÃ©e par le Dr.Hodkin dans cette expÃ©rience. C'est un grand pas dans le traitement pour les troubles neurologiques chroniques.}
+{121}{}{Cela pourrait Ãªtre utile. Prendre en note la sÃ©rie de lettres et chercher quelque chose d'autre.}
+{130}{}{Tu ne trouves rien d'intÃ©ressant.}
+{131}{}{Tu ne trouves toujours rien d'intÃ©ressant.}
+{132}{}{Peut-Ãªtre que si tu cherchais un peu plus, tu pourrais trouver quelque chose...}
+{133}{}{Peut-Ãªtre encore une recherche ?}
+{134}{}{AprÃ¨s beaucoup de recherches pÃ©nibles, tu trouves par hasard un dossier cachÃ©.}
+{135}{}{AccÃ¨s au fichier Ã©tiquetÃ© : Projet de Fluoridification de Masse.}
+{136}{}{Dans le but de rendre les citoyens des Etats-Unis plus mallÃ©ables, l'inclusion du fluorure de sodium dans la totalitÃ© de l'eau potable disponible fut testÃ©e en laboratoire. Les effets Ã  long terme avaient eu comme rÃ©sultat, que les sujets deviennent davantage *stupides et dociles*. Plus tard on dÃ©couvrit que le fluorure de sodium avait endommagÃ© une partie spÃ©cifique de leur cerveau, diminuant leur capacitÃ© Ã  dÃ©fendre leur propre libertÃ©, et entraÃ®nant l'individu normal Ã  se soumettre irrÃ©vocablement Ã  l'autoritÃ©.}
 {137}{}{[Plus]}
-{138}{}{Dans une expérimentation plus récente, nous avions choisi un fonctionnaire militaire, le général J.Ripper, comme sujet. Au début il ignorait nos intentions mais cela semble quand même avoir été un succès. Il est devenu obsédé par l'expression *fluides corporels précieux* et évitait de boire toute substance dont il ignorait la provenance. Il a même arrêté d'avoir des rapports sexuels craignant que les femmes puisent dans son *essence de vie*.}
+{138}{}{Dans une expÃ©rimentation plus rÃ©cente, nous avions choisi un fonctionnaire militaire, le gÃ©nÃ©ral J.Ripper, comme sujet. Au dÃ©but il ignorait nos intentions mais cela semble quand mÃªme avoir Ã©tÃ© un succÃ¨s. Il est devenu obsÃ©dÃ© par l'expression *fluides corporels prÃ©cieux* et Ã©vitait de boire toute substance dont il ignorait la provenance. Il a mÃªme arrÃªtÃ© d'avoir des rapports sexuels craignant que les femmes puisent dans son *essence de vie*.}
 {139}{}{[Retour]}
 {150}{}{Changement de sexe.}
 {151}{}{Mouche mutante vectrice du virus.}
-{160}{}{Le Dr.Glen Wood a effectué une nouvelle percée dans ses recherches sur le changement de sexe. Selon lui, son projet révolutionnera l'espionnage. Simple à mettre en oeuvre, le dispositif pourrait permettre à un homme de devenir une femme, ou vice versa. Le Dr.Wood a insisté sur le fait d'être le premier à vouloir expérimenter la transformation. Le processus terminé, il a demandé qu'il, ou elle, soit appelé(e) Glenda.}
-{170}{}{Les drosophiles mutantes portent avec succès le virus. Toutefois, avant que nous les lâchions sur le sol étranger, il a été décidé d'exposer les drosophiles à une petite communauté américaine isolée, afin de surveiller les effets non mesurés en laboratoire. Les pertes civiles éventuelles sont malheureuses mais sont un sacrifice nécessaire à l'expérience. De toute manière, n'importe quel Américain serait honoré de donner sa vie pour le bien de notre grande nation.}
-{200}{}{Vous apprenez le vrai but de l'eau fluoridifiée.}
+{160}{}{Le Dr.Glen Wood a effectuÃ© une nouvelle percÃ©e dans ses recherches sur le changement de sexe. Selon lui, son projet rÃ©volutionnera l'espionnage. Simple Ã  mettre en oeuvre, le dispositif pourrait permettre Ã  un homme de devenir une femme, ou vice versa. Le Dr.Wood a insistÃ© sur le fait d'Ãªtre le premier Ã  vouloir expÃ©rimenter la transformation. Le processus terminÃ©, il a demandÃ© qu'il, ou elle, soit appelÃ©(e) Glenda.}
+{170}{}{Les drosophiles mutantes portent avec succÃ¨s le virus. Toutefois, avant que nous les lÃ¢chions sur le sol Ã©tranger, il a Ã©tÃ© dÃ©cidÃ© d'exposer les drosophiles Ã  une petite communautÃ© amÃ©ricaine isolÃ©e, afin de surveiller les effets non mesurÃ©s en laboratoire. Les pertes civiles Ã©ventuelles sont malheureuses mais sont un sacrifice nÃ©cessaire Ã  l'expÃ©rience. De toute maniÃ¨re, n'importe quel AmÃ©ricain serait honorÃ© de donner sa vie pour le bien de notre grande nation.}
+{200}{}{Vous apprenez le vrai but de l'eau fluoridifiÃ©e.}
 {311}{}{Whirrrr....}
 {312}{}{BIP !!}
 {313}{}{Clunk...}
-{1311}{}{Ne renonce pas. Quelque chose doit à coup sûr être trouvé.}
+{1311}{}{Ne renonce pas. Quelque chose doit Ã  coup sÃ»r Ãªtre trouvÃ©.}

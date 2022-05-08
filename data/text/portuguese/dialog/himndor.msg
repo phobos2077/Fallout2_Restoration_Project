@@ -1,5 +1,5 @@
-{100}{}{VocÍ vÍ uma porta de metal resistente.}
-{101}{}{Este È um tipo de porta usado em cofres de banco. Seriam necess·rios v·rias explosıes diretas para derrub·-la. Est· fechado.}
-{102}{}{Este È um tipo de porta usada em cofres de banco. Seriam necess·rias v·rios explosıes diretas para derrub·-la. Est· desbloqueada.}
-{110}{}{A explos„o sacode a porta. Embora muito enfraquecida, ela permanece no lugar.}
-{111}{}{A porta explode em pedaÁos. N„o resta mais nada.}
+{100}{}{Voc√™ v√™ uma porta de metal resistente.}
+{101}{}{Este √© um tipo de porta usado em cofres de banco. Seriam necess√°rios v√°rias explos√µes diretas para derrub√°-la. Est√° fechado.}
+{102}{}{Este √© um tipo de porta usada em cofres de banco. Seriam necess√°rias v√°rios explos√µes diretas para derrub√°-la. Est√° desbloqueada.}
+{110}{}{A explos√£o sacode a porta. Embora muito enfraquecida, ela permanece no lugar.}
+{111}{}{A porta explode em peda√ßos. N√£o resta mais nada.}

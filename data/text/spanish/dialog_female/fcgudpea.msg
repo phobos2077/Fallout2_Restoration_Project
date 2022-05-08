@@ -1,75 +1,75 @@
 {100}{}{Ves a una persona con un gracioso pijama.}
 {101}{}{Ves a un Shi.}
 {102}{}{Esta persona parece diferente a cualquiera que hayas visto antes. No parecen preocuparse demasiado por ti.}
-{103}{}{No eres una espía, ¿verdad?}
-{104}{}{¿Quién eres?}
+{103}{}{No eres una espÃ­a, Â¿verdad?}
+{104}{}{Â¿QuiÃ©n eres?}
 {105}{}{Pescado y algas. Esto es todo lo que obtenemos.}
-{106}{}{¡Ja ja! ¡Mirad esos graciosos ojos redondos!}
+{106}{}{Â¡Ja ja! Â¡Mirad esos graciosos ojos redondos!}
 {107}{}{Pareces una Hubologista.}
-{108}{}{Déjanos en paz.}
-{109}{}{Larga vida al Dragón!}
-{110}{}{¡Abajo con Lo Pan!}
-{111}{}{El Dragón es un héroe.}
-{112}{}{Cuidado con Lo Pan. Es problemático.}
+{108}{}{DÃ©janos en paz.}
+{109}{}{Larga vida al DragÃ³n!}
+{110}{}{Â¡Abajo con Lo Pan!}
+{111}{}{El DragÃ³n es un hÃ©roe.}
+{112}{}{Cuidado con Lo Pan. Es problemÃ¡tico.}
 {113}{}{Esos vagabundos, siempre tan ruidosos.}
 {114}{}{Trabajo, trabajo, trabajo. Arroz, arroz, arroz. ::suspira::}
-{115}{}{¿No hay nada más en la vida que esto?}
-{116}{}{Somos más listos de lo que crees.}
-{117}{}{¡Mirad! ¡Una lao wai!}
+{115}{}{Â¿No hay nada mÃ¡s en la vida que esto?}
+{116}{}{Somos mÃ¡s listos de lo que crees.}
+{117}{}{Â¡Mirad! Â¡Una lao wai!}
 {118}{}{Creo que no me gustas.}
 {119}{}{Me das miedo.}
-{120}{}{Por favor, no me hagas daño.}
-{121}{}{Apuesto a que Lo Pan le gustarías.}
+{120}{}{Por favor, no me hagas daÃ±o.}
+{121}{}{Apuesto a que Lo Pan le gustarÃ­as.}
 {122}{}{Por favor, no causes problemas.}
-{123}{}{Me gusta la vida. No haré nada para perderla.}
-{124}{}{El Yermo es cada vez más aterrador.}
-{125}{}{Señora... sí, señora... adiós, señora.}
-{126}{}{¡Ja ja! ¡Ese bastardo de Lo Pan está muerto!}
-{127}{}{¡Nos has ayudado!}
-{128}{}{Lo Pan está muerto!}
-{129}{}{¡Ahora a por los Hubologistas!}
-{130}{}{¡Mirad esos graciosos ojos redondos!}
+{123}{}{Me gusta la vida. No harÃ© nada para perderla.}
+{124}{}{El Yermo es cada vez mÃ¡s aterrador.}
+{125}{}{SeÃ±ora... sÃ­, seÃ±ora... adiÃ³s, seÃ±ora.}
+{126}{}{Â¡Ja ja! Â¡Ese bastardo de Lo Pan estÃ¡ muerto!}
+{127}{}{Â¡Nos has ayudado!}
+{128}{}{Lo Pan estÃ¡ muerto!}
+{129}{}{Â¡Ahora a por los Hubologistas!}
+{130}{}{Â¡Mirad esos graciosos ojos redondos!}
 {131}{}{Pareces una Hubologista.}
-{132}{}{Déjanos en paz.}
-{133}{}{Larga vida al Dragón!}
+{132}{}{DÃ©janos en paz.}
+{133}{}{Larga vida al DragÃ³n!}
 {134}{}{Larga vida al Emperador!}
 {135}{}{Trabajo, trabajo, trabajo. Arroz, arroz, arroz. ::suspira::}
-{136}{}{¿No hay nada más en la vida que esto?}
-{137}{}{El Dragón... muerto...}
-{138}{}{¡Oh, no! ¡El Dragón está muerto!}
+{136}{}{Â¿No hay nada mÃ¡s en la vida que esto?}
+{137}{}{El DragÃ³n... muerto...}
+{138}{}{Â¡Oh, no! Â¡El DragÃ³n estÃ¡ muerto!}
 {139}{}{La vida no tiene sentido.}
 {140}{}{Sobreviviremos... apenas.}
-{141}{}{¿Quién será nuestro héroe ahora?}
-{142}{}{Y con el Dragón se van nuestros sueños.}
+{141}{}{Â¿QuiÃ©n serÃ¡ nuestro hÃ©roe ahora?}
+{142}{}{Y con el DragÃ³n se van nuestros sueÃ±os.}
 {143}{}{No tiene sentido.}
-{144}{}{Déjanos enseñar a nuestros hijos a ser como el Dragón.}
-{145}{}{Ahora debemos tener nuevos sueños.}
-{146}{}{¡El consejero del Emperador! ¡Muerto!}
-{147}{}{¿Qué pasa ahora?}
-{148}{}{¡Espero que los salvajes no nos invadan ahora!}
-{149}{}{Los buenos siempre mueren jóvenes.}
+{144}{}{DÃ©janos enseÃ±ar a nuestros hijos a ser como el DragÃ³n.}
+{145}{}{Ahora debemos tener nuevos sueÃ±os.}
+{146}{}{Â¡El consejero del Emperador! Â¡Muerto!}
+{147}{}{Â¿QuÃ© pasa ahora?}
+{148}{}{Â¡Espero que los salvajes no nos invadan ahora!}
+{149}{}{Los buenos siempre mueren jÃ³venes.}
 {150}{}{Espero que podamos sobrevivir al invierno sin Ken Lee.}
-{151}{}{He oído que Ken Lee fue el único que mantuvo al Emperador activo.}
-{152}{}{He oído que el Emperador sólo era una fachada para Ken Lee. }
+{151}{}{He oÃ­do que Ken Lee fue el Ãºnico que mantuvo al Emperador activo.}
+{152}{}{He oÃ­do que el Emperador sÃ³lo era una fachada para Ken Lee. }
 {153}{}{Trabajo, trabajo, trabajo. Arroz, arroz, arroz. ::suspira::}
-{154}{}{¿No hay nada más en la vida que esto?}
-{155}{}{Somos más listos de lo que crees.}
-{156}{}{¡Mirad! ¡Una intrusa!}
-{164}{}{¿Has matado a AHS-9? ¡Buen trabajo!}
-{165}{}{Esos Hubologistas me dan escalofríos.}
+{154}{}{Â¿No hay nada mÃ¡s en la vida que esto?}
+{155}{}{Somos mÃ¡s listos de lo que crees.}
+{156}{}{Â¡Mirad! Â¡Una intrusa!}
+{164}{}{Â¿Has matado a AHS-9? Â¡Buen trabajo!}
+{165}{}{Esos Hubologistas me dan escalofrÃ­os.}
 {166}{}{Honorable visitante, nos has hecho un gran servicio.}
-{167}{}{¡Muerte a los Hubologistas!}
-{168}{}{Quizá esto saque rápidamente a esos Hubologistas de aquí.}
-{169}{}{Estúpidos Hubologistas, que ni siquiera pueden proteger a su propio líder.}
+{167}{}{Â¡Muerte a los Hubologistas!}
+{168}{}{QuizÃ¡ esto saque rÃ¡pidamente a esos Hubologistas de aquÃ­.}
+{169}{}{EstÃºpidos Hubologistas, que ni siquiera pueden proteger a su propio lÃ­der.}
 {170}{}{Tan solo espero que los Hubologistas no vengan a por nosotros para vengarse.}
-{171}{}{Supongo que no eres un espía después de todo.}
-{172}{}{¡Hija de una cerda! ¡Muere!}
-{173}{}{¡Has deshonrado a tu familia!}
-{174}{}{¡Déjanos, lao wai!}
-{175}{}{¿No has hecho ya suficiente daño?}
-{176}{}{¡Te odio!}
-{177}{}{¡Abandona está ciudad!}
-{178}{}{¡Ve a tu casa con tu gente!}
-{179}{}{¡No oscurezcas mi vida con tu presencia!}
-{180}{}{¿Qué hace falta para deshacerse de ti?}
-{181}{}{¡Socorro! ¡Socorro!}
+{171}{}{Supongo que no eres un espÃ­a despuÃ©s de todo.}
+{172}{}{Â¡Hija de una cerda! Â¡Muere!}
+{173}{}{Â¡Has deshonrado a tu familia!}
+{174}{}{Â¡DÃ©janos, lao wai!}
+{175}{}{Â¿No has hecho ya suficiente daÃ±o?}
+{176}{}{Â¡Te odio!}
+{177}{}{Â¡Abandona estÃ¡ ciudad!}
+{178}{}{Â¡Ve a tu casa con tu gente!}
+{179}{}{Â¡No oscurezcas mi vida con tu presencia!}
+{180}{}{Â¿QuÃ© hace falta para deshacerse de ti?}
+{181}{}{Â¡Socorro! Â¡Socorro!}

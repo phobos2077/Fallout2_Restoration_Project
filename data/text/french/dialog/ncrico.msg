@@ -13,7 +13,7 @@
 {202}{}{Moi frapper gens}
 {203}{}{Moi frapper comme jouer du tambour}
 {204}{}{J'aime frapper}
-{205}{}{::Sourire édenté::}
+{205}{}{::Sourire Ã©dentÃ©::}
 {206}{}{::Se gratte::}
 {207}{}{::Flexions::}
 {208}{}{Grunt}

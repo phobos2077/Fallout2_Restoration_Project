@@ -1,63 +1,63 @@
-{100}{}{Widzisz kogoœ nosz¹cego kapitañsk¹ czapkê.}
+{100}{}{Widzisz kogoÅ› noszÄ…cego kapitaÅ„skÄ… czapkÄ™.}
 {101}{}{Widzisz Kapitana A. Rona Meyersa.}
-{102}{}{Widzisz punka w znoszonym ubraniu nosz¹cego kapitañsk¹ czapkê.}
-{103}{}{Czego do cholery chcesz? Nie rozmawiam z nikim, chyba ¿e to przyjaciele albo dobrzy ludzie. Zrób coœ dla jednego z moich kumpli, a wtedy mo¿esz przyjœæ i porozmawiaæ.}
+{102}{}{Widzisz punka w znoszonym ubraniu noszÄ…cego kapitaÅ„skÄ… czapkÄ™.}
+{103}{}{Czego do cholery chcesz? Nie rozmawiam z nikim, chyba Å¼e to przyjaciele albo dobrzy ludzie. ZrÃ³b coÅ› dla jednego z moich kumpli, a wtedy moÅ¼esz przyjÅ›Ä‡ i porozmawiaÄ‡.}
 {104}{}{[dalej]}
-{105}{}{S³ysza³em o twojej pomocy dla moich ludzi. Dziêkujê. Jak mogê ci pomóc?}
+{105}{}{SÅ‚yszaÅ‚em o twojej pomocy dla moich ludzi. DziÄ™kujÄ™. Jak mogÄ™ ci pomÃ³c?}
 {106}{}{Ty kto?}
-{107}{}{Podobny ty jesteœ tym, kto wie wszystko o tym statku.}
-{108}{}{Dlaczego nazywaj¹ ciê Kapitanem?}
-{109}{}{Jak ten okrêt wprawiæ w ruch?}
+{107}{}{Podobny ty jesteÅ› tym, kto wie wszystko o tym statku.}
+{108}{}{Dlaczego nazywajÄ… ciÄ™ Kapitanem?}
+{109}{}{Jak ten okrÄ™t wprawiÄ‡ w ruch?}
 {110}{}{Nic nic.}
-{111}{}{Jestem Kapitanem. Dowodzê tym statkiem. Inne pytania mo¿esz iœæ zadaæ któremuœ z Shi, Borsukowi lub komuœ innemu. Ja nie mam dla ciebie czasu.}
+{111}{}{Jestem Kapitanem. DowodzÄ™ tym statkiem. Inne pytania moÅ¼esz iÅ›Ä‡ zadaÄ‡ ktÃ³remuÅ› z Shi, Borsukowi lub komuÅ› innemu. Ja nie mam dla ciebie czasu.}
 {112}{}{[dalej]}
-{113}{}{Tan statek to tankowiec Posejdona. Wyposa¿ony jest w technikê, która przetrwa³a wojnê. Posiada KD, która pozwala na dostêp do pokoju nawigacji komputerowej, i transponder IFF, który broni go przed dzia³ami Posejdona.}
-{114}{}{Sk¹d ty to wszystko wiesz?}
+{113}{}{Tan statek to tankowiec Posejdona. WyposaÅ¼ony jest w technikÄ™, ktÃ³ra przetrwaÅ‚a wojnÄ™. Posiada KD, ktÃ³ra pozwala na dostÄ™p do pokoju nawigacji komputerowej, i transponder IFF, ktÃ³ry broni go przed dziaÅ‚ami Posejdona.}
+{114}{}{SkÄ…d ty to wszystko wiesz?}
 {115}{}{Co to jest transponder IFF?}
-{116}{}{Jak go wprawiæ w ruch?}
-{117}{}{Dziêki. Na razie.}
-{118}{}{Kiedyœ s³u¿y³em w Enklawie. Potem zrozumia³em, ¿e to nie dla USA walczê, lecz dla bogatych, starych drani, którzy nie chc¹ oddaæ swojej w³adzy. Zdezerterowa³em i ¿yjê teraz z bardziej uczciwymi ludŸmi.}
+{116}{}{Jak go wprawiÄ‡ w ruch?}
+{117}{}{DziÄ™ki. Na razie.}
+{118}{}{KiedyÅ› sÅ‚uÅ¼yÅ‚em w Enklawie. Potem zrozumiaÅ‚em, Å¼e to nie dla USA walczÄ™, lecz dla bogatych, starych drani, ktÃ³rzy nie chcÄ… oddaÄ‡ swojej wÅ‚adzy. ZdezerterowaÅ‚em i Å¼yjÄ™ teraz z bardziej uczciwymi ludÅºmi.}
 {119}{}{Bardziej uczciwymi? Tymi tutaj?}
-{120}{}{Co to dok³adnie jest ta Enklawa?}
-{121}{}{Jak ten okrêt wprawiæ w ruch?}
+{120}{}{Co to dokÅ‚adnie jest ta Enklawa?}
+{121}{}{Jak ten okrÄ™t wprawiÄ‡ w ruch?}
 {122}{}{Bywaj.}
-{123}{}{Jak pilotowaæ tê krypê? Nalej do pe³na paliwa - spróbuj u Centrologów lub u Shi po tym, jak ju¿ wszystko inne bêdzie za³atwione - i naciœnij guzik. Reszt¹ zajmie siê ju¿ komputer, je¿eli wci¹¿ dzia³a. Pop³ynie prosto do platformy wiertniczej - no o ile ten stary okrêt podwodny nagle nie zacznie strzelaæ. No ale przynajmniej nie musisz siê martwiæ, ¿e ostrzela ciê Enklawa, bo masz transponder IFF. Upewnij siê tylko, ¿e masz wszystko, co jest ci potrzebne: KD, dzia³aj¹cy komputer i paliwo. Proste, nie?}
-{124}{}{Jasne. Sk¹d to wszystko wiesz?}
+{123}{}{Jak pilotowaÄ‡ tÄ™ krypÄ™? Nalej do peÅ‚na paliwa - sprÃ³buj u CentrologÃ³w lub u Shi po tym, jak juÅ¼ wszystko inne bÄ™dzie zaÅ‚atwione - i naciÅ›nij guzik. ResztÄ… zajmie siÄ™ juÅ¼ komputer, jeÅ¼eli wciÄ…Å¼ dziaÅ‚a. PopÅ‚ynie prosto do platformy wiertniczej - no o ile ten stary okrÄ™t podwodny nagle nie zacznie strzelaÄ‡. No ale przynajmniej nie musisz siÄ™ martwiÄ‡, Å¼e ostrzela ciÄ™ Enklawa, bo masz transponder IFF. Upewnij siÄ™ tylko, Å¼e masz wszystko, co jest ci potrzebne: KD, dziaÅ‚ajÄ…cy komputer i paliwo. Proste, nie?}
+{124}{}{Jasne. SkÄ…d to wszystko wiesz?}
 {125}{}{Co to jest transponder IFF i KD?}
 {126}{}{Jakiej platformy wiertniczej?}
 {127}{}{Tak. Na razie.}
-{128}{}{IFF: Identyfikacja Friend or Foe - Przyjaciel czy Wróg. Oznacza to, ¿e ten statek jest rozpoznawany jako przyjaciel, wiêc inne jednostki Posejdona - jak na przyk³ad platforma wiertnicza - nie bêd¹ strzelaæ do ciebie, gdy ju¿ znajdziesz siê w ich zasiêgu. Aha, no i KD to taka technologia Enklawy, która pozwala ci otwieraæ elektronicznie drzwi za pomoc¹ karty. Zapewne takie coœ mo¿na by znaleŸæ w jednej z ich baz, czy w podobnym miejscu.}
-{129}{}{Sk¹d ty to wszystko wiesz?}
+{128}{}{IFF: Identyfikacja Friend or Foe - Przyjaciel czy WrÃ³g. Oznacza to, Å¼e ten statek jest rozpoznawany jako przyjaciel, wiÄ™c inne jednostki Posejdona - jak na przykÅ‚ad platforma wiertnicza - nie bÄ™dÄ… strzelaÄ‡ do ciebie, gdy juÅ¼ znajdziesz siÄ™ w ich zasiÄ™gu. Aha, no i KD to taka technologia Enklawy, ktÃ³ra pozwala ci otwieraÄ‡ elektronicznie drzwi za pomocÄ… karty. Zapewne takie coÅ› moÅ¼na by znaleÅºÄ‡ w jednej z ich baz, czy w podobnym miejscu.}
+{129}{}{SkÄ…d ty to wszystko wiesz?}
 {130}{}{Jakiej platformy wiertniczej?}
-{131}{}{Dziêki. Na razie.}
-{132}{}{Tak. Z tymi ludŸmi przynajmniej wiesz dok³adnie, na czym stoisz. Oni nie bawi¹ siê w ró¿ne gierki. Enklawa przypomina stado hien - w sekundê obróciliby siê przeciwko tobie.}
-{133}{}{Co to dok³adnie jest ta Enklawa?}
-{134}{}{Jak siê do nich przy³¹czy³eœ?}
-{135}{}{Enklawa to pozosta³oœæ po starych czasach. Je¿eli zabierzesz tê ³ajbê przez wodê na platformê, to zobaczysz na w³asne oczy, o czym mówiê.}
-{136}{}{Jak siê ni¹ p³ywa?}
-{137}{}{Jak¹ platformê?}
-{138}{}{Doœæ ³atwo. Po prostu pewnego dnia opuœci³em bazê w Navarro i skierowa³em siê tutaj. Pomyœla³em sobie, ¿e to jest ostatnie miejsce, gdzie ktokolwiek by mnie szuka³. A poza tym nie jestem a¿ tak wa¿ny dla Enklawy, ¿eby mnie szukaæ - po co marnowaæ si³y na zbuntowan¹ p³otkê.}
-{139}{}{Co to dok³adnie jest ta Enklawa?}
-{140}{}{Dziêki. Na razie.}
-{141}{}{Kawa³ od brzegu znajduje siê du¿a platforma wiertnicza Posejdona. To jest ostateczna baza Enklawy}
-{142}{}{Sk¹d ty to wszystko wiesz?}
-{143}{}{Co jeszcze dzieje siê tam, na platformie?}
-{144}{}{Dziêki. Na razie.}
-{145}{}{S³owa siê roznosz¹.}
-{146}{}{Rozumiem. Co jeszcze dzieje siê tam, na platformie?}
+{131}{}{DziÄ™ki. Na razie.}
+{132}{}{Tak. Z tymi ludÅºmi przynajmniej wiesz dokÅ‚adnie, na czym stoisz. Oni nie bawiÄ… siÄ™ w rÃ³Å¼ne gierki. Enklawa przypomina stado hien - w sekundÄ™ obrÃ³ciliby siÄ™ przeciwko tobie.}
+{133}{}{Co to dokÅ‚adnie jest ta Enklawa?}
+{134}{}{Jak siÄ™ do nich przyÅ‚Ä…czyÅ‚eÅ›?}
+{135}{}{Enklawa to pozostaÅ‚oÅ›Ä‡ po starych czasach. JeÅ¼eli zabierzesz tÄ™ Å‚ajbÄ™ przez wodÄ™ na platformÄ™, to zobaczysz na wÅ‚asne oczy, o czym mÃ³wiÄ™.}
+{136}{}{Jak siÄ™ niÄ… pÅ‚ywa?}
+{137}{}{JakÄ… platformÄ™?}
+{138}{}{DoÅ›Ä‡ Å‚atwo. Po prostu pewnego dnia opuÅ›ciÅ‚em bazÄ™ w Navarro i skierowaÅ‚em siÄ™ tutaj. PomyÅ›laÅ‚em sobie, Å¼e to jest ostatnie miejsce, gdzie ktokolwiek by mnie szukaÅ‚. A poza tym nie jestem aÅ¼ tak waÅ¼ny dla Enklawy, Å¼eby mnie szukaÄ‡ - po co marnowaÄ‡ siÅ‚y na zbuntowanÄ… pÅ‚otkÄ™.}
+{139}{}{Co to dokÅ‚adnie jest ta Enklawa?}
+{140}{}{DziÄ™ki. Na razie.}
+{141}{}{KawaÅ‚ od brzegu znajduje siÄ™ duÅ¼a platforma wiertnicza Posejdona. To jest ostateczna baza Enklawy}
+{142}{}{SkÄ…d ty to wszystko wiesz?}
+{143}{}{Co jeszcze dzieje siÄ™ tam, na platformie?}
+{144}{}{DziÄ™ki. Na razie.}
+{145}{}{SÅ‚owa siÄ™ roznoszÄ….}
+{146}{}{Rozumiem. Co jeszcze dzieje siÄ™ tam, na platformie?}
 {147}{}{Rozumiem. Do zobaczenia.}
-{148}{}{Nie mam pojêcia. By³em technikiem w Navarro, a nie operatorem na platformie. Rozmawialiœmy tylko przez linie komunikacyjne... To tyle, je¿eli chodzi o nasz kontakt.}
-{149}{}{Rozumiem. Jeszcze raz, jak siê p³ywa tym statkiem?}
-{150}{}{Dziêki. Na razie.}
-{151}{}{To du¿y b³¹d zadzieraæ z Kapitanem i jego przyjació³mi...}
-{152}{}{Jak pilotowaæ tê krypê? Nalej do pe³na paliwa - spróbuj u Centrologów lub u Shi po tym, jak ju¿ wszystko inne bêdzie za³atwione - i naciœnij guzik. Reszt¹ zajmie siê ju¿ komputer, je¿eli wci¹¿ dzia³a. Pop³ynie prosto do platformy wiertniczej - no o ile ta stara ³ódŸ podwodna nagle nie zacznie strzelaæ. Ale przynajmniej nie musisz siê martwiæ, ¿e Enklawa zacznie do ciebie strzelaæ, bo masz transponder IFF. Upewnij siê tylko, ¿e masz wszystko, co jest ci potrzebne: KD, dzia³aj¹cy komputer i paliwo. Proste, nie?}
-{153}{}{A tak. Musisz jeszcze zmusiæ komputer nawigacyjny do dzia³ania. Za³o¿ê siê, ¿e znajdziesz czêœci do niego w jednej z tych starych krypt.}
-{154}{}{Dobrze ciê znowu widzieæ. Czego potrzebujesz?}
-{155}{}{, i o ile siê nie mylê, tam te¿ s¹ twoi przyjaciele.}
+{148}{}{Nie mam pojÄ™cia. ByÅ‚em technikiem w Navarro, a nie operatorem na platformie. RozmawialiÅ›my tylko przez linie komunikacyjne... To tyle, jeÅ¼eli chodzi o nasz kontakt.}
+{149}{}{Rozumiem. Jeszcze raz, jak siÄ™ pÅ‚ywa tym statkiem?}
+{150}{}{DziÄ™ki. Na razie.}
+{151}{}{To duÅ¼y bÅ‚Ä…d zadzieraÄ‡ z Kapitanem i jego przyjaciÃ³Å‚mi...}
+{152}{}{Jak pilotowaÄ‡ tÄ™ krypÄ™? Nalej do peÅ‚na paliwa - sprÃ³buj u CentrologÃ³w lub u Shi po tym, jak juÅ¼ wszystko inne bÄ™dzie zaÅ‚atwione - i naciÅ›nij guzik. ResztÄ… zajmie siÄ™ juÅ¼ komputer, jeÅ¼eli wciÄ…Å¼ dziaÅ‚a. PopÅ‚ynie prosto do platformy wiertniczej - no o ile ta stara Å‚Ã³dÅº podwodna nagle nie zacznie strzelaÄ‡. Ale przynajmniej nie musisz siÄ™ martwiÄ‡, Å¼e Enklawa zacznie do ciebie strzelaÄ‡, bo masz transponder IFF. Upewnij siÄ™ tylko, Å¼e masz wszystko, co jest ci potrzebne: KD, dziaÅ‚ajÄ…cy komputer i paliwo. Proste, nie?}
+{153}{}{A tak. Musisz jeszcze zmusiÄ‡ komputer nawigacyjny do dziaÅ‚ania. ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e znajdziesz czÄ™Å›ci do niego w jednej z tych starych krypt.}
+{154}{}{Dobrze ciÄ™ znowu widzieÄ‡. Czego potrzebujesz?}
+{155}{}{, i o ile siÄ™ nie mylÄ™, tam teÅ¼ sÄ… twoi przyjaciele.}
 {156}{}{.}
-{200}{}{Jaki stary okrêt podwodny?}
-{210}{}{W zatoce jest stary chiñski okrêt podwodny osiad³y na mieliŸnie. To cholerstwo przyprawia mnie o dreszcze, czai siê tam pod woda jak zardzewia³y duch. W¹tpiê ¿eby by³ aktywny, ale jeœli, to jego zautomatyzowane systemy uzbrojenia mog³y pos³aæ ten tankowiec do wszystkich diab³ów zanim w ogóle zbli¿y³by siê do tej platformy wydobywczej.}
-{211}{}{Sk¹d przypuszczenie, ¿e jest nieaktywny?}
-{220}{}{Có¿, po pierwsze, gnije tam w oceanie od Wielkiej Wojny. Poza tym, powinien by³ ostrzelaæ tê ³ajbê kiedy Enklawa zadokowa³a tu j¹ po raz pierwszy. Oczywiœcie, nie wyklucza³bym mo¿liwoœci, ¿e Shi tam pop³ynêli i zaczêli przy nim d³ubaæ, nigdy nie wiadomo. Chyba warto to sprawdziæ przed wyp³yniêciem.}
-{221}{}{A jak niby mam to sprawdziæ?}
-{230}{}{Je¿eli ktokolwiek wie co siê dzieje na tym okrêcie podwodnym, to na pewno Shi. W koñcu nim tu przyp³ynêli - nie zdziwi³bym siê gdyby go czcili. Oczywiœcie, Cesarz Shi bêdzie wiedzia³ wszystko, ale powodzenia z nim. Lepiej pogadaj z Lao Chou, w Lataj¹cym Smoku 8 - znany jest z udzielania informacji, od czasu do czasu. Cholera, mo¿e nawet uda ci siê przekonaæ któregoœ z dokerów do rozmowy.}
+{200}{}{Jaki stary okrÄ™t podwodny?}
+{210}{}{W zatoce jest stary chiÅ„ski okrÄ™t podwodny osiadÅ‚y na mieliÅºnie. To cholerstwo przyprawia mnie o dreszcze, czai siÄ™ tam pod woda jak zardzewiaÅ‚y duch. WÄ…tpiÄ™ Å¼eby byÅ‚ aktywny, ale jeÅ›li, to jego zautomatyzowane systemy uzbrojenia mogÅ‚y posÅ‚aÄ‡ ten tankowiec do wszystkich diabÅ‚Ã³w zanim w ogÃ³le zbliÅ¼yÅ‚by siÄ™ do tej platformy wydobywczej.}
+{211}{}{SkÄ…d przypuszczenie, Å¼e jest nieaktywny?}
+{220}{}{CÃ³Å¼, po pierwsze, gnije tam w oceanie od Wielkiej Wojny. Poza tym, powinien byÅ‚ ostrzelaÄ‡ tÄ™ Å‚ajbÄ™ kiedy Enklawa zadokowaÅ‚a tu jÄ… po raz pierwszy. OczywiÅ›cie, nie wykluczaÅ‚bym moÅ¼liwoÅ›ci, Å¼e Shi tam popÅ‚ynÄ™li i zaczÄ™li przy nim dÅ‚ubaÄ‡, nigdy nie wiadomo. Chyba warto to sprawdziÄ‡ przed wypÅ‚yniÄ™ciem.}
+{221}{}{A jak niby mam to sprawdziÄ‡?}
+{230}{}{JeÅ¼eli ktokolwiek wie co siÄ™ dzieje na tym okrÄ™cie podwodnym, to na pewno Shi. W koÅ„cu nim tu przypÅ‚ynÄ™li - nie zdziwiÅ‚bym siÄ™ gdyby go czcili. OczywiÅ›cie, Cesarz Shi bÄ™dzie wiedziaÅ‚ wszystko, ale powodzenia z nim. Lepiej pogadaj z Lao Chou, w LatajÄ…cym Smoku 8 - znany jest z udzielania informacji, od czasu do czasu. Cholera, moÅ¼e nawet uda ci siÄ™ przekonaÄ‡ ktÃ³regoÅ› z dokerÃ³w do rozmowy.}

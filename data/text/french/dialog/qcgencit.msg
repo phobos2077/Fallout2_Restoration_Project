@@ -1,19 +1,19 @@
-{100}{}{Tu vois une personne portant une combinaison ressemblant à celle de l'Abri.}
+{100}{}{Tu vois une personne portant une combinaison ressemblant Ã  celle de l'Abri.}
 {101}{}{Tu vois un citoyen de l'Enclave.}
-{102}{}{Tu vois un citoyen pâle mais apparemment en bonne santé.}
+{102}{}{Tu vois un citoyen pÃ¢le mais apparemment en bonne santÃ©.}
 {103}{}{Il ferait mieux de se reposer un peu.}
-{104}{}{Je me demande quel va être le film de sécurité ce soir.}
+{104}{}{Je me demande quel va Ãªtre le film de sÃ©curitÃ© ce soir.}
 {105}{}{Qu'est-ce que t'es ?}
-{106}{}{La météo ne change jamais ici.}
+{106}{}{La mÃ©tÃ©o ne change jamais ici.}
 {107}{}{Le Projet progresse bien.}
-{108}{}{C'est vraiment dommage pour le Vice-président Bird.}
+{108}{}{C'est vraiment dommage pour le Vice-prÃ©sident Bird.}
 {109}{}{J'ai quelques heures devant moi avant de reprendre le travail.}
-{110}{}{Dieu bénisse l'Amérique !}
+{110}{}{Dieu bÃ©nisse l'AmÃ©rique !}
 {111}{}{Le Projet est notre salut.}
 {112}{}{C'est beaucoup mieux que sur le continent.}
 {113}{}{Encore un autre exercice.}
 {114}{}{Qu'est-ce que c'est ce cirque ?!}
-{115}{}{C'est l'alarme du réacteur.}
+{115}{}{C'est l'alarme du rÃ©acteur.}
 {116}{}{Heu, oh.}
 {117}{}{Il vaudrait mieux retrouver des Rad-X.}
 {118}{}{Ce machin tombe toujours en panne.}
@@ -21,11 +21,11 @@
 {120}{}{Il fait plus chaud ou c'est moi ?}
 {121}{}{Ce n'est pas bien.}
 {122}{}{Merde, merde, merde.}
-{123}{}{Où est mon masque ?}
-{124}{}{Quelque chose a une drôle d'odeur.}
+{123}{}{OÃ¹ est mon masque ?}
+{124}{}{Quelque chose a une drÃ´le d'odeur.}
 {125}{}{Je ne me sens pas bien.}
-{126}{}{L'air me brûle la gorge.}
-{127}{}{La vache, j'ai drôlement mal à l'estomac !}
+{126}{}{L'air me brÃ»le la gorge.}
+{127}{}{La vache, j'ai drÃ´lement mal Ã  l'estomac !}
 {128}{}{Mes poumons sont en feu !!}
 {129}{}{Je crois que j'ai besoin d'air frais !}
 {130}{}{Il fait plus sombre ou c'est moi ?}
@@ -33,21 +33,21 @@
 {132}{}{Je crois que je vais juste m'asseoir un peu.}
 {133}{}{Un autre exercice ?}
 {134}{}{J'ai cru entendre des coups de feu.}
-{135}{}{Hé, qui es-tu ?}
-{136}{}{Stop ! Qui va là ?}
+{135}{}{HÃ©, qui es-tu ?}
+{136}{}{Stop ! Qui va lÃ  ?}
 {137}{}{J'en ai vraiment ras le bol de tous ces exercices !}
-{138}{}{Ouais, comme si je pouvais repérer un intrus !}
-{139}{}{T'en fais pas pour ça.}
-{140}{}{Les soldats nous protègent.}
-{141}{}{Les soldats ne sont jamais là quand on en a besoin.}
+{138}{}{Ouais, comme si je pouvais repÃ©rer un intrus !}
+{139}{}{T'en fais pas pour Ã§a.}
+{140}{}{Les soldats nous protÃ¨gent.}
+{141}{}{Les soldats ne sont jamais lÃ  quand on en a besoin.}
 {142}{}{Je dois juste rester calme, rester calme.}
-{143}{}{Je ne finirai jamais ça.}
-{144}{}{Pour sûr, je préférerai être ailleurs.}
-{145}{}{Cet opérateur de terminal était plutôt mignon.}
+{143}{}{Je ne finirai jamais Ã§a.}
+{144}{}{Pour sÃ»r, je prÃ©fÃ©rerai Ãªtre ailleurs.}
+{145}{}{Cet opÃ©rateur de terminal Ã©tait plutÃ´t mignon.}
 {146}{}{Ca n'a pas de sens.}
-{147}{}{On ne me paie pas pour ça.}
+{147}{}{On ne me paie pas pour Ã§a.}
 {148}{}{Je me farcis le boulot de tout le monde.}
 {149}{}{Pourquoi est-ce que les gens ne font jamais ce qu'on leur demande ?}
-{150}{}{Si un terminal ne fonctionne pas, tape-lui dessus. Ca marche à tous les coups.}
-{151}{}{Ce jeu de pong est sympa, j'espère que personne ne m'attrapera.}
-{152}{}{J'ai besoin de caféine.}
+{150}{}{Si un terminal ne fonctionne pas, tape-lui dessus. Ca marche Ã  tous les coups.}
+{151}{}{Ce jeu de pong est sympa, j'espÃ¨re que personne ne m'attrapera.}
+{152}{}{J'ai besoin de cafÃ©ine.}

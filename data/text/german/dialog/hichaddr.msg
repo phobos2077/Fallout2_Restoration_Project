@@ -1,7 +1,7 @@
-{100}{}{Du siehst eine hölzerne Tür.}
-{101}{}{Diese Tür ist aus massivem Holz. Sie wurde mit einer neuen Art von Schloss gebaut.}
-{102}{}{Diese Tür ist fest verschlossen.}
-{103}{}{Du benutzt die Technik, die dir Max beigebracht hat, du umgehst vorsichtig den Auslöse-Mechanismus und öffnest mühelos die Tür.}
+{100}{}{Du siehst eine hÃ¶lzerne TÃ¼r.}
+{101}{}{Diese TÃ¼r ist aus massivem Holz. Sie wurde mit einer neuen Art von Schloss gebaut.}
+{102}{}{Diese TÃ¼r ist fest verschlossen.}
+{103}{}{Du benutzt die Technik, die dir Max beigebracht hat, du umgehst vorsichtig den AuslÃ¶se-Mechanismus und Ã¶ffnest mÃ¼helos die TÃ¼r.}
 {104}{}{Etwas scheint an diesem Schloss anders zu sein. Du entscheidest dich zu gehen.}
-{105}{}{Als du gerade dabei bist das Schloss zu knacken, bemerkst du einen kleinen Auslöse-Mechanismus im Schloss. Wäre der Auslöser nicht, könntest du die Tür knacken. Gefühlvoll umgehst du ihn und schaffst es binnen von Sekunden die Tür zu öffnen.}
-{106}{}{Das hat nicht mal einen Kratzer an der Tür hinterlassen.}
+{105}{}{Als du gerade dabei bist das Schloss zu knacken, bemerkst du einen kleinen AuslÃ¶se-Mechanismus im Schloss. WÃ¤re der AuslÃ¶ser nicht, kÃ¶nntest du die TÃ¼r knacken. GefÃ¼hlvoll umgehst du ihn und schaffst es binnen von Sekunden die TÃ¼r zu Ã¶ffnen.}
+{106}{}{Das hat nicht mal einen Kratzer an der TÃ¼r hinterlassen.}

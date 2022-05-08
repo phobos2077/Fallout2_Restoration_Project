@@ -1,1 +1,1 @@
-{100}{}{Znaleziono Kartê Dostêpow¹ tankowca.}
+{100}{}{Znaleziono KartÄ™ DostÄ™powÄ… tankowca.}

@@ -1,11 +1,11 @@
 {100}{}{Ein Computerterminal.}
-{101}{}{Es steuert das Vault-Tec Organentnahmegerät.}
+{101}{}{Es steuert das Vault-Tec OrganentnahmegerÃ¤t.}
 {102}{}{Du kannst nicht lesen, was auf dem Monitor steht.}
-{103}{}{Willkommen beim hochmodernen Organentnahmegerät von Vault-Tec. Die Bedienung ist ganz einfach:
-                         Organspender in Betriebsraum verbringen und anschließend über die entsprechenden
- Drehknöpfe Spezies des Spenders und zu entnehmendes Organ auswählen.}
-{104}{}{Spezies auswählen}
-{105}{}{Organ auswählen}
+{103}{}{Willkommen beim hochmodernen OrganentnahmegerÃ¤t von Vault-Tec. Die Bedienung ist ganz einfach:
+                         Organspender in Betriebsraum verbringen und anschlieÃŸend Ã¼ber die entsprechenden
+ DrehknÃ¶pfe Spezies des Spenders und zu entnehmendes Organ auswÃ¤hlen.}
+{104}{}{Spezies auswÃ¤hlen}
+{105}{}{Organ auswÃ¤hlen}
 {106}{}{Beenden}
 {107}{}{Ark!}
 {108}{}{Auf dem Drehknopf sind folgende Tierklassen verzeichnet: 
@@ -19,22 +19,22 @@
 {111}{}{}
 {112}{}{}
 {113}{}{}
-{114}{}{Hunde auswählen}
-{115}{}{Katzen auswählen}
-{116}{}{Road Runner auswählen}
-{117}{}{Nagetier auswählen}
-{118}{}{Mensch auswählen}
+{114}{}{Hunde auswÃ¤hlen}
+{115}{}{Katzen auswÃ¤hlen}
+{116}{}{Road Runner auswÃ¤hlen}
+{117}{}{Nagetier auswÃ¤hlen}
+{118}{}{Mensch auswÃ¤hlen}
 {119}{}{[Ritze eine neue Bezeichnung in Bedientafel ein.]}
 {120}{}{Beenden}
-{121}{}{[Du nimmst dir ein Stück Metall und überlegst, was du in die Bedientafel einritzen könntest.]}
+{121}{}{[Du nimmst dir ein StÃ¼ck Metall und Ã¼berlegst, was du in die Bedientafel einritzen kÃ¶nntest.]}
 {122}{}{Ritze das Wort "Mutant" in die Bedientafel ein.}
 {123}{}{Ritze das Wort "Deathclaw" in die Bedientafel ein.}
 {124}{}{Beenden}
-{125}{}{Momentan ausgewählt:                                                  }
+{125}{}{Momentan ausgewÃ¤hlt:                                                  }
 {126}{}{Spezies: }
 {127}{}{ - Organ: }
-{128}{}{Spezies auswählen}
-{129}{}{Organ auswählen}
+{128}{}{Spezies auswÃ¤hlen}
+{129}{}{Organ auswÃ¤hlen}
 {130}{}{Mit Entnahme fortfahren.}
 {131}{}{Beenden}
 {132}{}{Auf dem Drehknopf sind die folgenden Organe aufgelistet: 
@@ -52,23 +52,23 @@
 {137}{}{}
 {138}{}{}
 {139}{}{}
-{140}{}{Herz auswählen}
-{141}{}{Gehirn auswählen}
-{142}{}{Niere auswählen}
-{143}{}{Leber auswählen}
-{144}{}{Lunge auswählen}
-{145}{}{Blinddarm auswählen}
-{146}{}{Dickdarm auswählen}
+{140}{}{Herz auswÃ¤hlen}
+{141}{}{Gehirn auswÃ¤hlen}
+{142}{}{Niere auswÃ¤hlen}
+{143}{}{Leber auswÃ¤hlen}
+{144}{}{Lunge auswÃ¤hlen}
+{145}{}{Blinddarm auswÃ¤hlen}
+{146}{}{Dickdarm auswÃ¤hlen}
 {147}{}{Beenden}
 {148}{}{Kein Spenderobjekt in Entnahmeraum vorhanden.}
 {149}{}{Entnahme fehlgeschlagen.}
 {150}{}{Entnahme abgeschlossen.}
 {151}{}{Entnahme abgeschlossen 
-                                            Danke, dass Sie Vault-Tec benutzt haben. In unserem Katalog finden Sie eine vollständige Übersicht über alle Produkte von Vault-Tec.}
+                                            Danke, dass Sie Vault-Tec benutzt haben. In unserem Katalog finden Sie eine vollstÃ¤ndige Ãœbersicht Ã¼ber alle Produkte von Vault-Tec.}
 {152}{}{}
 {153}{}{Beenden}
-{154}{}{Extraktion fehlgeschlagen-- Lokale Sensorüberlastung.}
-{155}{}{Extraktion fehlgeschlagen-- nicht in der Lage, das Verfahren für die Physiologie des Patienten zu initialisieren.}
+{154}{}{Extraktion fehlgeschlagen-- Lokale SensorÃ¼berlastung.}
+{155}{}{Extraktion fehlgeschlagen-- nicht in der Lage, das Verfahren fÃ¼r die Physiologie des Patienten zu initialisieren.}
 {170}{}{Mensch }
 {171}{}{Hund }
 {172}{}{Katze }

@@ -1,172 +1,172 @@
-{100}{}{Você vê um ghoul velho.}
-{101}{}{Você vê Typhon, filho do Set.}
-{102}{}{Você vê um velho ghoul com bastante inteligência brilhando em seus olhos.}
-{103}{}{Alto lá, jovem, e bem vindo ao Old Ghouls' Home!}
+{100}{}{VocÃª vÃª um ghoul velho.}
+{101}{}{VocÃª vÃª Typhon, filho do Set.}
+{102}{}{VocÃª vÃª um velho ghoul com bastante inteligÃªncia brilhando em seus olhos.}
+{103}{}{Alto lÃ¡, jovem, e bem vindo ao Old Ghouls' Home!}
 {104}{}{Nol Ghul?}
 {105}{}{Old Ghouls' Home?}
-{106}{}{Quem é você?}
-{107}{}{Ei, você já ouviu falar em GECK?}
+{106}{}{Quem Ã© vocÃª?}
+{107}{}{Ei, vocÃª jÃ¡ ouviu falar em GECK?}
 {108}{}{Adeus.}
 {109}{}{Outro waste-baby, hein? Ei, garoto, quer saber um segredo?}
 {110}{}{Claro!}
-{111}{}{Hã-hã.}
-{112}{}{Nos meus dias de corredor, eu ganhei boas corridas, e fiz um bom dinheiro. Há muito tempo, eu escondi todas as minhas economias não muito longe daqui. Se alguém me fizesse um favor ou dois, eu poderia contá-lo onde esse "tesouro" está.}
+{111}{}{HÃ£-hÃ£.}
+{112}{}{Nos meus dias de corredor, eu ganhei boas corridas, e fiz um bom dinheiro. HÃ¡ muito tempo, eu escondi todas as minhas economias nÃ£o muito longe daqui. Se alguÃ©m me fizesse um favor ou dois, eu poderia contÃ¡-lo onde esse "tesouro" estÃ¡.}
 {113}{}{Conte!}
-{114}{}{Não me importo.}
+{114}{}{NÃ£o me importo.}
 {115}{}{Que tipo de tesouro?}
 {116}{}{Que tipo de favor?}
 {117}{}{Eu tenho outras perguntas.}
 {118}{}{Adeus!}
-{119}{}{Er... Está certo, então. Eu não tenho nada pra você. Prossiga, imbecil.}
+{119}{}{Er... EstÃ¡ certo, entÃ£o. Eu nÃ£o tenho nada pra vocÃª. Prossiga, imbecil.}
 {120}{}{Adeus.}
-{121}{}{Garoto, você tem que me fazer um favor primeiro.}
+{121}{}{Garoto, vocÃª tem que me fazer um favor primeiro.}
 {122}{}{Certo!}
-{123}{}{Hã-hã!}
-{124}{}{O que é?}
-{125}{}{Esqueça.}
-{126}{}{Eu sou um cara velho, por isso não saio muito. Não tenho tido muito chance pra ação, entende o que eu digo? Então, o que eu quero é uma Cat's Paw magazine. Procure uma pra mim.}
+{123}{}{HÃ£-hÃ£!}
+{124}{}{O que Ã©?}
+{125}{}{EsqueÃ§a.}
+{126}{}{Eu sou um cara velho, por isso nÃ£o saio muito. NÃ£o tenho tido muito chance pra aÃ§Ã£o, entende o que eu digo? EntÃ£o, o que eu quero Ã© uma Cat's Paw magazine. Procure uma pra mim.}
 {127}{}{Aqui! [dar a Cat's Paw pro Typhon]}
 {128}{}{Certo!}
-{129}{}{Não!}
-{130}{}{Aqui está. [dar a Cat's Paw pro Typhon]}
+{129}{}{NÃ£o!}
+{130}{}{Aqui estÃ¡. [dar a Cat's Paw pro Typhon]}
 {131}{}{Muito bem. Eu vou voltar.}
-{132}{}{Esqueça.}
+{132}{}{EsqueÃ§a.}
 {133}{}{Obrigado pela revista, garoto. Volto a falar contigo em uma hora, mais ou menos...}
 {134}{}{Certo!}
-{135}{}{Eu não terminei ainda, garoto! Ahhh! Um velho ghoul não pode ter um pouco de privacidade?}
+{135}{}{Eu nÃ£o terminei ainda, garoto! Ahhh! Um velho ghoul nÃ£o pode ter um pouco de privacidade?}
 {136}{}{[FEITO]}
-{137}{}{Que tipo de tesouro? Dinheiro, garoto, rios e rios de dinheiro. O suficiente pra satisfazer uma pessoa sã.}
-{138}{}{Qual é o truque?}
-{139}{}{Eu não preciso de dinheiro.}
-{140}{}{Você voltou, hein? Quer saber sobre aquele tesouro, garoto?}
+{137}{}{Que tipo de tesouro? Dinheiro, garoto, rios e rios de dinheiro. O suficiente pra satisfazer uma pessoa sÃ£.}
+{138}{}{Qual Ã© o truque?}
+{139}{}{Eu nÃ£o preciso de dinheiro.}
+{140}{}{VocÃª voltou, hein? Quer saber sobre aquele tesouro, garoto?}
 {141}{}{Simmm!}
-{142}{}{Hã-hã.}
-{143}{}{Que tipo de tesouro é esse?}
-{144}{}{É, me conte.}
-{145}{}{Eu tenho algumas perguntas pra você antes disso.}
-{146}{}{Não.}
-{147}{}{Como o quê?}
-{148}{}{Esse é o Old Ghouls' Home?}
-{149}{}{Já ouviu falar em GECK?}
-{150}{}{Quem é você?}
+{142}{}{HÃ£-hÃ£.}
+{143}{}{Que tipo de tesouro Ã© esse?}
+{144}{}{Ã‰, me conte.}
+{145}{}{Eu tenho algumas perguntas pra vocÃª antes disso.}
+{146}{}{NÃ£o.}
+{147}{}{Como o quÃª?}
+{148}{}{Esse Ã© o Old Ghouls' Home?}
+{149}{}{JÃ¡ ouviu falar em GECK?}
+{150}{}{Quem Ã© vocÃª?}
 {151}{}{Mais alguma coisa que possa me contar?}
-{152}{}{É como uma piada. Não há ghouls, mas ghouls velhos. Somos todos estéreis, vê, Mas temos um vida incrivelmente longa. Somos a primeira e última geração de ghouls. Esse é um lugar para aqueles de nós que só querem descansar um pouco.}
+{152}{}{Ã‰ como uma piada. NÃ£o hÃ¡ ghouls, mas ghouls velhos. Somos todos estÃ©reis, vÃª, Mas temos um vida incrivelmente longa. Somos a primeira e Ãºltima geraÃ§Ã£o de ghouls. Esse Ã© um lugar para aqueles de nÃ³s que sÃ³ querem descansar um pouco.}
 {153}{}{Entendo. Eu tenho outras perguntas.}
 {154}{}{Tenho-o. Tchau.}
-{155}{}{Eu sou Typhon. Nunca ouviu falar do Set? Ele costumava administrar a antiga cidade Necropolis. Eu sou o filho dele. Nasci antes da radiação nos atingir, então eu cresci e sofri mutação. Nunca houve outro caminho pra mim.}
+{155}{}{Eu sou Typhon. Nunca ouviu falar do Set? Ele costumava administrar a antiga cidade Necropolis. Eu sou o filho dele. Nasci antes da radiaÃ§Ã£o nos atingir, entÃ£o eu cresci e sofri mutaÃ§Ã£o. Nunca houve outro caminho pra mim.}
 {156}{}{Fale-me sobre isso Set.}
-{157}{}{Set? Eu ouvi falar que ele é um desgraçado!}
+{157}{}{Set? Eu ouvi falar que ele Ã© um desgraÃ§ado!}
 {158}{}{Entendo. Eu tenho outras perguntas.}
 {159}{}{Tenho-o. Tchau.}
-{160}{}{É. Costumava ter alguns, mas todos os humanos de raça pura os roubaram para fazer seus próprios mini-Jardins do Éden. Vault City pode ser o melhor lugar pra procurar. Ou lá ou em NCR ao sul.}
+{160}{}{Ã‰. Costumava ter alguns, mas todos os humanos de raÃ§a pura os roubaram para fazer seus prÃ³prios mini-Jardins do Ã‰den. Vault City pode ser o melhor lugar pra procurar. Ou lÃ¡ ou em NCR ao sul.}
 {161}{}{Droga. Certo, eu tenho mais perguntas.}
 {162}{}{Droga. Tchau.}
-{163}{}{"Desgraçado" seria uma boa maneira de descrever o velhote. Sido transformado em um ghoul pela radiação não fez muito sentido para o senso de humor ou autoridade dele, se me permite dizer. É claro, danificou o cébro de todo mundo. Acho que crescer como um ghoul foi um pouco mais fácil pra mim.}
+{163}{}{"DesgraÃ§ado" seria uma boa maneira de descrever o velhote. Sido transformado em um ghoul pela radiaÃ§Ã£o nÃ£o fez muito sentido para o senso de humor ou autoridade dele, se me permite dizer. Ã‰ claro, danificou o cÃ©bro de todo mundo. Acho que crescer como um ghoul foi um pouco mais fÃ¡cil pra mim.}
 {164}{}{Entendo. Eu tenho outras perguntas.}
 {165}{}{Obrigado. Tchau.}
-{166}{}{Bom, já tem minha Cat's Paw magazine?}
+{166}{}{Bom, jÃ¡ tem minha Cat's Paw magazine?}
 {167}{}{Sim. [dar a Cat's Paw pro Typhon]}
-{168}{}{Hã-hã.}
-{169}{}{Ah-ham. Aqui está. [dar a Cat's Paw pro Typhon]}
-{170}{}{Ainda não. Eu tenho outras perguntas.}
-{171}{}{Não.}
-{172}{}{Bem, Ande logo! Eu estou velho, um ghoul velho, e vou te contar, preciso de relaxamento! Agora vá, vá, vá!}
+{168}{}{HÃ£-hÃ£.}
+{169}{}{Ah-ham. Aqui estÃ¡. [dar a Cat's Paw pro Typhon]}
+{170}{}{Ainda nÃ£o. Eu tenho outras perguntas.}
+{171}{}{NÃ£o.}
+{172}{}{Bem, Ande logo! Eu estou velho, um ghoul velho, e vou te contar, preciso de relaxamento! Agora vÃ¡, vÃ¡, vÃ¡!}
 {173}{}{[FEITO]}
-{174}{}{Garoto, essa revista stirred up the ol' juices, e imagino que pelo tipo do tesouro que estou falando, você pode me arrumar mais algumas coisas. Pegue uma blow-up doll pra mim. Provavelmente você encontrará uma em New Reno.}
+{174}{}{Garoto, essa revista stirred up the ol' juices, e imagino que pelo tipo do tesouro que estou falando, vocÃª pode me arrumar mais algumas coisas. Pegue uma blow-up doll pra mim. Provavelmente vocÃª encontrarÃ¡ uma em New Reno.}
 {175}{}{Certo! Tchau!}
-{176}{}{Hã-hã!}
-{177}{}{Aqui está! [dar a Blow-Up Doll pro Typhon]}
+{176}{}{HÃ£-hÃ£!}
+{177}{}{Aqui estÃ¡! [dar a Blow-Up Doll pro Typhon]}
 {178}{}{Muito bem. Eu tenho outras perguntas.}
 {179}{}{Tudo bem. Tchau.}
-{180}{}{Esqueça.}
+{180}{}{EsqueÃ§a.}
 {181}{}{Tenho uma bem aqui. [dar a Blow-Up Doll pro Typhon]}
-{182}{}{Isso, garoto, vai resolver o problema. Dê-me algumas horas e conversamos mais. Vá em frente. [ele olha para a boneca cobiçadamente]}
+{182}{}{Isso, garoto, vai resolver o problema. DÃª-me algumas horas e conversamos mais. VÃ¡ em frente. [ele olha para a boneca cobiÃ§adamente]}
 {183}{}{[FEITO]}
-{184}{}{Um cara não pode ter um pouco de privacidade?! Imbecil! Idiota! G'wan!}
+{184}{}{Um cara nÃ£o pode ter um pouco de privacidade?! Imbecil! Idiota! G'wan!}
 {185}{}{[FEITO]}
-{186}{}{Eu estou completamente exausto agora. Vá buscar uma rotgut pra mim e aí nós falamos sobre o tesouro. Phil, o barman pode cuidar disso pra você.}
+{186}{}{Eu estou completamente exausto agora. VÃ¡ buscar uma rotgut pra mim e aÃ­ nÃ³s falamos sobre o tesouro. Phil, o barman pode cuidar disso pra vocÃª.}
 {187}{}{Certo! Tchau!}
-{188}{}{Não!}
+{188}{}{NÃ£o!}
 {189}{}{Pegue! [dar a Rotgut pro Typhon]}
-{190}{}{Certo. Aqui está. [dar a  Rotgut pro Typhon]}
+{190}{}{Certo. Aqui estÃ¡. [dar a  Rotgut pro Typhon]}
 {191}{}{Vai ser isso mesmo?}
 {192}{}{Tudo bem. Tchau.}
-{193}{}{Esqueça.}
-{194}{}{Eu provavelmente vou querer... oh, mais uma coisa. Eu vou te contar o que é quando você pegar a droga da minha rotgut, certo?}
+{193}{}{EsqueÃ§a.}
+{194}{}{Eu provavelmente vou querer... oh, mais uma coisa. Eu vou te contar o que Ã© quando vocÃª pegar a droga da minha rotgut, certo?}
 {195}{}{Tudo bem. Eu vou fazer isso.}
-{196}{}{Esqueça.}
+{196}{}{EsqueÃ§a.}
 {197}{}{Isso resolve o problema, garoto. Eu iria te pedir uma planta, mas vou te dar um descanso.}
 {198}{}{Obrigado!}
 {199}{}{Obrigado.Eu tenho outras perguntas.}
-{200}{}{Está um pouco vago, mas obrigado. Te vejo por aí.}
-{201}{}{Já achou aquele tesouro, garoto?}
-{202}{}{Hã-hã.}
-{203}{}{Ainda não.}
-{204}{}{Não. Eu tenho algumas perguntas.}
-{205}{}{Não. Tchau.}
-{206}{}{Bem, continue procurando. Você está determinado a achá-lo, eventualmente.}
+{200}{}{EstÃ¡ um pouco vago, mas obrigado. Te vejo por aÃ­.}
+{201}{}{JÃ¡ achou aquele tesouro, garoto?}
+{202}{}{HÃ£-hÃ£.}
+{203}{}{Ainda nÃ£o.}
+{204}{}{NÃ£o. Eu tenho algumas perguntas.}
+{205}{}{NÃ£o. Tchau.}
+{206}{}{Bem, continue procurando. VocÃª estÃ¡ determinado a achÃ¡-lo, eventualmente.}
 {207}{}{Tudo bem.}
 {208}{}{Acho que sim. Tchau.}
-{209}{}{Como está o tesouro, garoto?}
+{209}{}{Como estÃ¡ o tesouro, garoto?}
 {210}{}{Mal! Tampinhas!}
-{211}{}{Eram todas tampinhas de garrafa! Não vale nada!}
-{212}{}{Ha ha. Engraçado. Eu tenho algumas perguntas.}
-{213}{}{Esqueça.}
+{211}{}{Eram todas tampinhas de garrafa! NÃ£o vale nada!}
+{212}{}{Ha ha. EngraÃ§ado. Eu tenho algumas perguntas.}
+{213}{}{EsqueÃ§a.}
 {214}{}{Poo! Tchau.}
-{215}{}{O quê, não usam mais tampinhas como dinheiro? Você quer dizer que todo o processo de coletar e esconder e a preocupação de que alguém roubaria
- meu tesouro não valeu de nada? Ahhhh DROGA! Desculpe por te fazer correr por aí desse jeito, garoto. Se eu soubesse...}
-{216}{}{É, tudo bem. Tchau!}
-{217}{}{É, bem, você cometeu seu último erro, ghoul velhote. Hora de morrer.}
+{215}{}{O quÃª, nÃ£o usam mais tampinhas como dinheiro? VocÃª quer dizer que todo o processo de coletar e esconder e a preocupaÃ§Ã£o de que alguÃ©m roubaria
+ meu tesouro nÃ£o valeu de nada? Ahhhh DROGA! Desculpe por te fazer correr por aÃ­ desse jeito, garoto. Se eu soubesse...}
+{216}{}{Ã‰, tudo bem. Tchau!}
+{217}{}{Ã‰, bem, vocÃª cometeu seu Ãºltimo erro, ghoul velhote. Hora de morrer.}
 {218}{}{Pode acontecer com qualquer um. Tenho outras perguntas.}
-{219}{}{É, é... Certo. Tchau.}
+{219}{}{Ã‰, Ã©... Certo. Tchau.}
 {220}{}{Suponho que tenha sido um erro honesto. Tchau.}
 {221}{}{Gud. Where munnee?}
-{222}{}{Ahhh, Typhon. Você é tão encenante. Então, onde está o dinheiro?}
-{223}{}{Tudo bem. Eu lembro de ter escondido o dinheiro em algum lugar na parte comercial da cidade. Faz muitos anos, e as constuções foram
- construídas e reformadas várias vezes, por isso eu não sei exatamente onde está. Se isso te ajuda, eu me lembro de ter pensado em colocá-lo
- em algum lugar onde provavelmente não seria rasgado ou arado. Você sabe, algum lugar onde ninguém mexeria. Boa sorte.}
-{224}{}{Você finalmente conseguiu fazer Typhon contar onde é a localização do tesouro escondido.}
+{222}{}{Ahhh, Typhon. VocÃª Ã© tÃ£o encenante. EntÃ£o, onde estÃ¡ o dinheiro?}
+{223}{}{Tudo bem. Eu lembro de ter escondido o dinheiro em algum lugar na parte comercial da cidade. Faz muitos anos, e as constuÃ§Ãµes foram
+ construÃ­das e reformadas vÃ¡rias vezes, por isso eu nÃ£o sei exatamente onde estÃ¡. Se isso te ajuda, eu me lembro de ter pensado em colocÃ¡-lo
+ em algum lugar onde provavelmente nÃ£o seria rasgado ou arado. VocÃª sabe, algum lugar onde ninguÃ©m mexeria. Boa sorte.}
+{224}{}{VocÃª finalmente conseguiu fazer Typhon contar onde Ã© a localizaÃ§Ã£o do tesouro escondido.}
 {300}{}{But Hegel's dialectic doesn't account for...}
 {301}{}{Hegel, Hegel, Hegel! You're always on about Hegel!}
-{302}{}{Então a mulher diz, "Isso não é um coelho, vigário!"}
+{302}{}{EntÃ£o a mulher diz, "Isso nÃ£o Ã© um coelho, vigÃ¡rio!"}
 {303}{}{Ha ha ha ha!}
-{304}{}{E o primeiro próton diz, "É, eu sou positivo!"}
-{305}{}{[gemido] Isso é MUITO mau, eu estou murchando.}
-{306}{}{Não é nada fácil ser verde.}
+{304}{}{E o primeiro prÃ³ton diz, "Ã‰, eu sou positivo!"}
+{305}{}{[gemido] Isso Ã© MUITO mau, eu estou murchando.}
+{306}{}{NÃ£o Ã© nada fÃ¡cil ser verde.}
 {307}{}{Fale-me sobre isso.}
-{308}{}{Mas está completamente claro que isso é um beco sem saída filosófico!}
-{309}{}{Mas é só porque você não examinou todas as ramificações dele. Agora, se você...}
-{310}{}{Você quer alguma fruta?}
+{308}{}{Mas estÃ¡ completamente claro que isso Ã© um beco sem saÃ­da filosÃ³fico!}
+{309}{}{Mas Ã© sÃ³ porque vocÃª nÃ£o examinou todas as ramificaÃ§Ãµes dele. Agora, se vocÃª...}
+{310}{}{VocÃª quer alguma fruta?}
 {311}{}{Alimente-me, Seymour.}
-{312}{}{Cérebros... cééééérebrooooos.... desculpe, força do hábito.}
-{313}{}{Tudo bem. Eu não tenho um, lembra?}
-{314}{}{Bem, certamente estrume funciona bem, mas não há nada como um corpo em putrefação para adubar.}
-{315}{}{Então é por isso que você queria se mudar pra cá! Colheitas fácieis.}
-{316}{}{Deixe-me te dizer algo, não há nada como um boa e rápida corrida.}
-{317}{}{Você realmente sente o vento entre as mechas do seu cabelo, não é?}
-{318}{}{Eu não polinizo faz anos!}
-{319}{}{Imagine estar preso NESTE corpo! Nenhuma ação! Nenhuma ação mesmo!}
-{320}{}{Talvez se você desse uma chance à fotosíntese...}
-{321}{}{Eu não sou responsável pelas minhas raízes evoluídas, seu idiota verde!}
-{322}{}{Yu-hu! Espero que você possa sintetizar metano!}
+{312}{}{CÃ©rebros... cÃ©Ã©Ã©Ã©Ã©rebrooooos.... desculpe, forÃ§a do hÃ¡bito.}
+{313}{}{Tudo bem. Eu nÃ£o tenho um, lembra?}
+{314}{}{Bem, certamente estrume funciona bem, mas nÃ£o hÃ¡ nada como um corpo em putrefaÃ§Ã£o para adubar.}
+{315}{}{EntÃ£o Ã© por isso que vocÃª queria se mudar pra cÃ¡! Colheitas fÃ¡cieis.}
+{316}{}{Deixe-me te dizer algo, nÃ£o hÃ¡ nada como um boa e rÃ¡pida corrida.}
+{317}{}{VocÃª realmente sente o vento entre as mechas do seu cabelo, nÃ£o Ã©?}
+{318}{}{Eu nÃ£o polinizo faz anos!}
+{319}{}{Imagine estar preso NESTE corpo! Nenhuma aÃ§Ã£o! Nenhuma aÃ§Ã£o mesmo!}
+{320}{}{Talvez se vocÃª desse uma chance Ã  fotosÃ­ntese...}
+{321}{}{Eu nÃ£o sou responsÃ¡vel pelas minhas raÃ­zes evoluÃ­das, seu idiota verde!}
+{322}{}{Yu-hu! Espero que vocÃª possa sintetizar metano!}
 {323}{}{Minhas folhas! Minhas pobres folhas! Aaaaah!}
-{324}{}{Eu gosto desse lugar. Estou pensando em plantar minhas raízes aqui.}
-{325}{}{Muito bem, já chega com essas piadas de plantas, parceiro.}
-{326}{}{Como será que estão meus primos em Arroyo? Tomara que eles estejam florecendo.}
-{327}{}{Claro que estão. A não ser que um desgraçado tenha massacrado todos eles.}
+{324}{}{Eu gosto desse lugar. Estou pensando em plantar minhas raÃ­zes aqui.}
+{325}{}{Muito bem, jÃ¡ chega com essas piadas de plantas, parceiro.}
+{326}{}{Como serÃ¡ que estÃ£o meus primos em Arroyo? Tomara que eles estejam florecendo.}
+{327}{}{Claro que estÃ£o. A nÃ£o ser que um desgraÃ§ado tenha massacrado todos eles.}
 {328}{}{Bem, eu acho que vou abrir a porta ou outra coisa...}
 {329}{}{Eu acho que tenho opposable thumb envy.}
 {330}{}{Not to go out on a limb here...}
 {331}{}{Aaaaaaaaaaaaaah! Chega de piadas de plantas!}
 {332}{}{Olha aquela grama naquele talo molhado! Olha olha!}
 {333}{}{Down boy! I don't think your vacuoles can take it.}
-{334}{}{Quer que eu leia uma história pra você?}
-{335}{}{Que tal The Giving Tree? João e o Pé de Feijão? Catcher in the Rye?}
-{336}{}{Um GECK? É, tinha um cara que...}
-{337}{}{Shhh! Shh! Alguém está ouvindo!}
-{338}{}{É o grande ciclo da vida, vê... a vida alimenta a vida alimenta a vida...}
-{339}{}{Hã-hã. Mas VOCÊ ainda come adubo. Ahhh...filosofia de planta...}
+{334}{}{Quer que eu leia uma histÃ³ria pra vocÃª?}
+{335}{}{Que tal The Giving Tree? JoÃ£o e o PÃ© de FeijÃ£o? Catcher in the Rye?}
+{336}{}{Um GECK? Ã‰, tinha um cara que...}
+{337}{}{Shhh! Shh! AlguÃ©m estÃ¡ ouvindo!}
+{338}{}{Ã‰ o grande ciclo da vida, vÃª... a vida alimenta a vida alimenta a vida...}
+{339}{}{HÃ£-hÃ£. Mas VOCÃŠ ainda come adubo. Ahhh...filosofia de planta...}
 {340}{}{Posso brincar com a sua power armor algum dia?}
-{341}{}{Você fala daquela roupa velha que eu tenho no armário? He he...}
-{342}{}{É, eu me interessei por polinização-cruzada.}
-{343}{}{Não que tenha nada ERRADO nisso.}
+{341}{}{VocÃª fala daquela roupa velha que eu tenho no armÃ¡rio? He he...}
+{342}{}{Ã‰, eu me interessei por polinizaÃ§Ã£o-cruzada.}
+{343}{}{NÃ£o que tenha nada ERRADO nisso.}

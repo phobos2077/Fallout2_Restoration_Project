@@ -1,6 +1,6 @@
-{100}{}{Du siehst einen gut gekleideten Mann von schwerem Körperbau, der sich mit bedächtiger Langsamkeit bewegt.}
+{100}{}{Du siehst einen gut gekleideten Mann von schwerem KÃ¶rperbau, der sich mit bedÃ¤chtiger Langsamkeit bewegt.}
 {101}{}{Das ist Merk - die Leute in dieser Gegend hier nennen ihn einfach nur "Der Mann".}
-{102}{}{Es geht eine arrogante Kälte von diesem Burschen aus. Man hat das Gefühl, dass ihm nicht mehr an dir liegt als an der Schmeißfliege, die er soeben zwischen den Fingern zerdrückt hat.}
-{200}{}{Sieht nach einem von den Typen aus die eher mit den Fäusten als mit dem Kopf denken.}
+{102}{}{Es geht eine arrogante KÃ¤lte von diesem Burschen aus. Man hat das GefÃ¼hl, dass ihm nicht mehr an dir liegt als an der SchmeiÃŸfliege, die er soeben zwischen den Fingern zerdrÃ¼ckt hat.}
+{200}{}{Sieht nach einem von den Typen aus die eher mit den FÃ¤usten als mit dem Kopf denken.}
 {201}{}{Hmmm. Einer von Merks Wachen.}
-{202}{}{Groß. Hart im nehmen. Dumm. Bodyguard.}
+{202}{}{GroÃŸ. Hart im nehmen. Dumm. Bodyguard.}

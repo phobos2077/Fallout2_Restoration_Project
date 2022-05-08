@@ -1,19 +1,19 @@
 {100}{}{Ves a un tipo de aspecto duro.}
 {101}{}{Ves a un bandido.}
-{200}{}{Te has colado en nuestras tierras. ¡Ahora morirás!}
-{201}{}{¡Cómo te atreves a venir aquí sin haber sido invitado!}
-{202}{}{¡Muere, caminante!}
-{203}{}{Tu muerte me proporcionará algún dinero.}
-{204}{}{¡Huye ante mí, enclenque!}
+{200}{}{Te has colado en nuestras tierras. Â¡Ahora morirÃ¡s!}
+{201}{}{Â¡CÃ³mo te atreves a venir aquÃ­ sin haber sido invitado!}
+{202}{}{Â¡Muere, caminante!}
+{203}{}{Tu muerte me proporcionarÃ¡ algÃºn dinero.}
+{204}{}{Â¡Huye ante mÃ­, enclenque!}
 {205}{}{Ya conocen el ejercicio, caballeros.}
 {206}{}{Sin testigos.}
 {207}{}{Cubridme.}
-{208}{}{¡Sin piedad!}
+{208}{}{Â¡Sin piedad!}
 {209}{}{El jefe dice que sin supervivientes.}
 {210}{}{Bishop dice que nada de colarse.}
-{211}{}{¡Consigamos la paga!}
+{211}{}{Â¡Consigamos la paga!}
 {300}{}{Ves a Rana Morton.}
 {301}{}{Ves a Sapo Morton.}
-{302}{}{Ves a Tritón Morton.}
+{302}{}{Ves a TritÃ³n Morton.}
 {303}{}{Ves a Serpiente Morton.}
-{305}{}{¡Has matado a mi hermano! ¡Te mataré!}
+{305}{}{Â¡Has matado a mi hermano! Â¡Te matarÃ©!}

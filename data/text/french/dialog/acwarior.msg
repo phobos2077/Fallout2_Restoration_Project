@@ -3,41 +3,41 @@
 {150}{}{Devant toi se trouve un robuste guerrier de ton village, il porte un pantalon en peaux d'animaux.}
 {151}{}{[PARLER]}
 {152}{}{Bonjour, Etre Elu, que puis-je faire pour toi ?}
-{153}{}{Je faisais juste un tour dans le village une dernière fois avant de partir.}
+{153}{}{Je faisais juste un tour dans le village une derniÃ¨re fois avant de partir.}
 {154}{}{Que peux-tu me dire des marchands qui traitent avec nous ?}
-{155}{}{Peux-tu me dire où je peux trouver plus de poudre de guérison ?}
-{156}{}{Que les dieux te confèrent la vitesse pour restaurer l'Eden avant qu'il ne soit trop tard.}
-{157}{}{J'ai une question à te poser.}
+{155}{}{Peux-tu me dire oÃ¹ je peux trouver plus de poudre de guÃ©rison ?}
+{156}{}{Que les dieux te confÃ¨rent la vitesse pour restaurer l'Eden avant qu'il ne soit trop tard.}
+{157}{}{J'ai une question Ã  te poser.}
 {158}{}{Au revoir.}
-{159}{}{Oh, t'essaies de me tester. Va voir Hakunin au Nord du village. Il prépare nos médicaments.}
+{159}{}{Oh, t'essaies de me tester. Va voir Hakunin au Nord du village. Il prÃ©pare nos mÃ©dicaments.}
 {160}{}{Merci. Au revoir.}
-{161}{}{Eh bien, je les ai vus lorsque Mynoc nous a demandé de garder le pont, mais c'est lui qui a eu affaire à eux. Va lui parler, au grand pont.}
+{161}{}{Eh bien, je les ai vus lorsque Mynoc nous a demandÃ© de garder le pont, mais c'est lui qui a eu affaire Ã  eux. Va lui parler, au grand pont.}
 {162}{}{Merci. Au revoir.}
-{163}{}{Peux-tu me dire où se trouve le grand pont ?}
+{163}{}{Peux-tu me dire oÃ¹ se trouve le grand pont ?}
 {164}{}{Encore une question, si je puis me permettre.}
-{165}{}{Le grand pont est situé tout au Sud du village. Tu le sais bien, t'y as déjà été plusieurs fois.}
+{165}{}{Le grand pont est situÃ© tout au Sud du village. Tu le sais bien, t'y as dÃ©jÃ  Ã©tÃ© plusieurs fois.}
 {166}{}{Merci. Au revoir.}
 {167}{}{Encore une question, si je puis me permettre.}
-{168}{}{Bien sûr, de quoi s'agit-il ?}
-{169}{}{Où puis-je trouver des herbes médicinales ?}
+{168}{}{Bien sÃ»r, de quoi s'agit-il ?}
+{169}{}{OÃ¹ puis-je trouver des herbes mÃ©dicinales ?}
 {170}{}{Que peux-tu me dire des marchands qui traitent avec nous ?}
 {171}{}{Ca ne fait rien.}
-{172}{}{Ah, l'être débile. On dit que tu es l'Etre Elu. Je dois avouer que l'esprit du Fondateur agit bizarrement.}
+{172}{}{Ah, l'Ãªtre dÃ©bile. On dit que tu es l'Etre Elu. Je dois avouer que l'esprit du Fondateur agit bizarrement.}
 {173}{}{Ooung Ga.}
-{174}{}{ Fais un bon voyage, l'Etre Débile... pour notre vie à tous.}
+{174}{}{ Fais un bon voyage, l'Etre DÃ©bile... pour notre vie Ã  tous.}
 {175}{}{????}
 {176}{}{Tu nous as trahis. Tu dois mourir.}
 {177}{}{Tu trahis ton propre peuple !}
 {178}{}{Pourquoi fais-tu cela ?}
-{179}{}{Mort à l'être démoniaque !}
-{180}{}{Ils ne sont rien pour nous ! Ils dépouillent les cadavres du désert pour survivre.}
-{181}{}{Où puis-je trouver des herbes médicinales ?}
+{179}{}{Mort Ã  l'Ãªtre dÃ©moniaque !}
+{180}{}{Ils ne sont rien pour nous ! Ils dÃ©pouillent les cadavres du dÃ©sert pour survivre.}
+{181}{}{OÃ¹ puis-je trouver des herbes mÃ©dicinales ?}
 {182}{}{Merci. Au revoir.}
 {183}{}{Encore une question, si je puis me permettre.}
-{300}{}{Rebonjour, Etre Elu. Que l'esprit des guerriers te protège et te guide.}
-{301}{}{As-tu des problèmes, Etre Elu ? Tu n'as pas le droit à l'échec, je t'en prie, dépêche-toi.}
+{300}{}{Rebonjour, Etre Elu. Que l'esprit des guerriers te protÃ¨ge et te guide.}
+{301}{}{As-tu des problÃ¨mes, Etre Elu ? Tu n'as pas le droit Ã  l'Ã©chec, je t'en prie, dÃ©pÃªche-toi.}
 {302}{}{Pourquoi attends-tu si longtemps ? Il nous faut le J.E.K au plus vite. Etre Elu, notre village se meurt.}
-{303}{}{Etre Elu, notre village est presque mort. Pourquoi ne nous as-tu pas encore ramené le saint J.E.K ?}
+{303}{}{Etre Elu, notre village est presque mort. Pourquoi ne nous as-tu pas encore ramenÃ© le saint J.E.K ?}
 {970}{}{C'est mon nom.}
 {971}{}{Tu me parles.}
 {972}{}{Quelle question stupide. C'est moi.}
@@ -53,18 +53,18 @@
 {1006}{}{Elu}
 {1007}{}{Chaman}
 {1008}{}{Hakunin}
-{1009}{}{Poudre médicinale}
+{1009}{}{Poudre mÃ©dicinale}
 {1010}{}{Pont}
 {1011}{}{Mynoc}
-{1100}{}{La doyenne est à la fois ta mère et ton chef.}
-{1101}{}{Notre illustre ancêtre qui nous a légué le savoir.}
-{1102}{}{La première à avoir combattu et vaincu le chaos. }
-{1103}{}{Voilà ce que serait notre beau village.}
-{1104}{}{Notre poste d'approvisionnement est à quelques jours à l'Est d'ici.}
+{1100}{}{La doyenne est Ã  la fois ta mÃ¨re et ton chef.}
+{1101}{}{Notre illustre ancÃªtre qui nous a lÃ©guÃ© le savoir.}
+{1102}{}{La premiÃ¨re Ã  avoir combattu et vaincu le chaos. }
+{1103}{}{VoilÃ  ce que serait notre beau village.}
+{1104}{}{Notre poste d'approvisionnement est Ã  quelques jours Ã  l'Est d'ici.}
 {1105}{}{L'Abri, c'est le paradis.}
 {1106}{}{Tu es l'Elu.}
-{1107}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
-{1108}{}{Il nous guérit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
-{1109}{}{Avec cette poudre magique, tu vas guérir, mais cela te rendra somnolent.}
-{1110}{}{Le grand pont est à la sortie de notre village au Sud.}
-{1111}{}{Il garde le pont par lequel on pénètre dans notre village.}
+{1107}{}{Il nous guÃ©rit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
+{1108}{}{Il nous guÃ©rit avec ses herbes et sa magie. Il habite dans la partie Nord du village.}
+{1109}{}{Avec cette poudre magique, tu vas guÃ©rir, mais cela te rendra somnolent.}
+{1110}{}{Le grand pont est Ã  la sortie de notre village au Sud.}
+{1111}{}{Il garde le pont par lequel on pÃ©nÃ¨tre dans notre village.}

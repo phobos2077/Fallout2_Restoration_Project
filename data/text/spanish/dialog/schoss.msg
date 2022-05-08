@@ -1,16 +1,16 @@
-{100}{}{Ves a un inútil, grande, con pinta de idiota, y demasiado musculado.}
+{100}{}{Ves a un inÃºtil, grande, con pinta de idiota, y demasiado musculado.}
 {101}{}{Es Hoss.}
 {102}{}{No parece estar armado, ni con armas ni con inteligencia.}
-{103}{}{Eh, tú, cara de culo. No me gustas. Creo que deberías pagarme una bebida.}
-{104}{}{Oye, nenaza, ven aquí y te daré un besazo.}
-{105}{}{<¡Pedorreta!>}
-{106}{}{Cómemela.}
+{103}{}{Eh, tÃº, cara de culo. No me gustas. Creo que deberÃ­as pagarme una bebida.}
+{104}{}{Oye, nenaza, ven aquÃ­ y te darÃ© un besazo.}
+{105}{}{<Â¡Pedorreta!>}
+{106}{}{CÃ³memela.}
 {107}{}{No quiero problemas.}
-{108}{}{¿Así que te crees muy duro? Voy a fregar el suelo con tu culo. Prepara tus puños, aquí y ahora.}
-{109}{}{"¡No quiero problemas!" Bien, pues los vas a tener. O luchas conmigo o le diré a todo el mundo la clase de bebé debilucho que eres. Prepara tus puños, aquí y ahora.}
+{108}{}{Â¿AsÃ­ que te crees muy duro? Voy a fregar el suelo con tu culo. Prepara tus puÃ±os, aquÃ­ y ahora.}
+{109}{}{"Â¡No quiero problemas!" Bien, pues los vas a tener. O luchas conmigo o le dirÃ© a todo el mundo la clase de bebÃ© debilucho que eres. Prepara tus puÃ±os, aquÃ­ y ahora.}
 {110}{}{Genial, vamos a bailar.}
-{111}{}{No realmente, no podría.}
-{112}{}{¡Ja! Menuda broma. Sal de aquí, nenaza.}
-{113}{}{¡Ay! ¡Me has roto la nariz! ¡Lo dejo! ¡No me pegues más!}
-{114}{}{Está bien, lo siento. Sólo bromeaba. No tendrás más problemas conmigo... ¡por favor, no me mates!}
-{115}{}{Oye, ya me largo. No me pegues, ¿vale?}
+{111}{}{No realmente, no podrÃ­a.}
+{112}{}{Â¡Ja! Menuda broma. Sal de aquÃ­, nenaza.}
+{113}{}{Â¡Ay! Â¡Me has roto la nariz! Â¡Lo dejo! Â¡No me pegues mÃ¡s!}
+{114}{}{EstÃ¡ bien, lo siento. SÃ³lo bromeaba. No tendrÃ¡s mÃ¡s problemas conmigo... Â¡por favor, no me mates!}
+{115}{}{Oye, ya me largo. No me pegues, Â¿vale?}

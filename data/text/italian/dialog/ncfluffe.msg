@@ -57,7 +57,7 @@
 {293}{}{E' piuttosto sexy.}
 {294}{}{Salve, signora. Me lo dica se posso esserle utile per qualcosa.}
 {300}{}{Oh, merda! C'e' Myron! Scappate!}
-{301}{}{Merda! C'e' Myron. State calme…puo' sentire la paura.}
+{301}{}{Merda! C'e' Myron. State calmeâ€¦puo' sentire la paura.}
 {302}{}{Farai meglio a tenere Myron lontano da me.}
 {303}{}{Myron, farai meglio a startene BEN lontano da me.}
 {304}{}{Se Myron inizia a lavorare qui, me ne vado.}
@@ -96,7 +96,7 @@
 {362}{}{Stavano ancora combattendo la GUERRA?! Davvero?! Hai fatto bene a disintegrare quei bastardi.}
 {363}{}{Sei un vero duro. Voglio dire, sei partito che eri un semplice selvaggio armato di lancia - senza offesa - e ora sei arrivato a salvare il mondo. Sei grande. Fine della storia.}
 {364}{}{Dovresti ricominciare il gioco usando un altro tipo di personaggio.}
-{365}{}{Raccontami tutto della tua lotta contro l'Enclave…Ti offriro' una birra ghiacciata.}
+{365}{}{Raccontami tutto della tua lotta contro l'Enclaveâ€¦Ti offriro' una birra ghiacciata.}
 {366}{}{Ho sentito che i Fratelli ti stanno cercando. Vogliono fare un film basato sulle tue avventure.}
 {370}{}{Ooops. Mi e' caduto qualcosa nei tuoi pantaloni. Aspetta che lo prendo.}
 {371}{}{Um, non ti piacerebbe uscire per un drink, vero? Che ne dici, invece, di un po' di sesso senza sentimento?}
@@ -114,7 +114,7 @@
 {383}{}{Mi sei piaciuto tantissimo ne La Lampo di Aladino.}
 {384}{}{Sei stato grande in Porkahontas.}
 {385}{}{Sei stato grande in Tettanic. Ispirato, persino.}
-{386}{}{Non ho visto i Fratelli in giro…in ufficio, forse?}
+{386}{}{Non ho visto i Fratelli in giroâ€¦in ufficio, forse?}
 {387}{}{Non e' che potresti convincere i Fratelli Corsican a lasciarmi recitare?}
 {388}{}{Le assistenti hanno il delicato compito di mantenere gli attori in erezione.}
 {389}{}{Posso recitare nel tuo prossimo film?}
@@ -164,7 +164,7 @@
 {470}{}{Chi e' quel tuo amico carino con l'osso nel naso?}
 {471}{}{Di' al selvaggio con l'osso nel naso che fara' molta strada, in questo campo.}
 {472}{}{Whoa, ne ho visti di incidenti sul set, ma non e' mai successo che un tipo si beccasse un osso nel naso.}
-{473}{}{Non ho visto i Fratelli in giro…in ufficio, forse?}
+{473}{}{Non ho visto i Fratelli in giroâ€¦in ufficio, forse?}
 {474}{}{Le assistenti hanno il delicato compito di mantenere gli attori in erezione.}
 {475}{}{Vorrei tanto recitare.}
 {476}{}{Non voglio fare l'assistente per tutta la vita. No, davvero.}
@@ -185,7 +185,7 @@
 {491}{}{Fruppe' salati? Abituati.}
 {500}{}{Scusa, no grazie. Potrei farmi una scopata migliore con il mio rossetto.}
 {501}{}{Tu? Scusa, non saro' MAI cosi' disperata.}
-{502}{}{Non ho visto i Fratelli in giro…in ufficio, forse?}
+{502}{}{Non ho visto i Fratelli in giroâ€¦in ufficio, forse?}
 {503}{}{Le assistenti hanno il delicato compito di mantenere gli attori in erezione.}
 {504}{}{Vorrei tanto recitare.}
 {505}{}{Non voglio fare l'assistente per tutta la vita. No, davvero.}

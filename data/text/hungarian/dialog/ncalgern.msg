@@ -1,65 +1,65 @@
-{100}{}{Ez itt a jó öreg bamba Algernon.}
+{100}{}{Ez itt a jÃ³ Ã¶reg bamba Algernon.}
 {101}{}{? Algernon.}
-{150}{}{Egy mocskos, bamba kép? fickót látsz. Ide-oda dülöngél álltában, és halk füttyszer? hangokat hallat.}
-{151}{}{? Algernon. Úgy néz ki, mint aki fejben Wing Commander-ezik.}
-{200}{}{Tyúú... Tyúú...}
+{150}{}{Egy mocskos, bamba kÃ©p? fickÃ³t lÃ¡tsz. Ide-oda dÃ¼lÃ¶ngÃ©l Ã¡lltÃ¡ban, Ã©s halk fÃ¼ttyszer? hangokat hallat.}
+{151}{}{? Algernon. Ãšgy nÃ©z ki, mint aki fejben Wing Commander-ezik.}
+{200}{}{TyÃºÃº... TyÃºÃº...}
 {201}{}{Paff!}
 {202}{}{Dzang! Dzang!}
-{203}{}{Csssssshhhhúúúúúú... *BUMM*}
+{203}{}{CsssssshhhhÃºÃºÃºÃºÃºÃº... *BUMM*}
 {204}{}{Dzapp!}
 {205}{}{Buummm! Buma-buma-bummm!}
 {206}{}{Buma-buma-buma}
 {207}{}{Buma-buma-buma}
 {208}{}{Bamm! Bamm, bamm, bamm!}
 {209}{}{Bamm!}
-{210}{}{Tszjú! Tszjú!}
-{211}{}{Fhúmmm!}
+{210}{}{TszjÃº! TszjÃº!}
+{211}{}{FhÃºmmm!}
 {212}{}{Placcs!}
 {213}{}{Rata-tata-tata}
 {214}{}{Baaaammmm!}
-{220}{}{(Algernon rádnéz, és csukott szájjal elmosolyodik.) Bumm! }
-{221}{}{(A bamba kép? ifjonc csukott szájjal rádmosolyog. Pólójára egy cetlit t?ztek, melyre d?lt bet?kkel azt írták: Algernon.) Bamm! }
-{222}{}{(Amikor meglátja a fegyvereidet, izgatottan kezd rájuk mutogatni.) Bumm!}
+{220}{}{(Algernon rÃ¡dnÃ©z, Ã©s csukott szÃ¡jjal elmosolyodik.) Bumm! }
+{221}{}{(A bamba kÃ©p? ifjonc csukott szÃ¡jjal rÃ¡dmosolyog. PÃ³lÃ³jÃ¡ra egy cetlit t?ztek, melyre d?lt bet?kkel azt Ã­rtÃ¡k: Algernon.) Bamm! }
+{222}{}{(Amikor meglÃ¡tja a fegyvereidet, izgatottan kezd rÃ¡juk mutogatni.) Bumm!}
 {223}{}{Bumm!}
 {224}{}{Eloldalogsz.}
-{225}{}{Hé... meg akarod közelebbr?l nézni valamelyik fegyveremet?}
-{226}{}{Jaja, jó "bumm"-ot neked is. Algernon barátom, nem tudnád itt valamelyik cuccomat megtuningolni?}
-{227}{}{Öö... most nincs "bumm", köszi. Csá.}
-{230}{}{Höh! Hö-höh! (Algernon gurgulázó nevetést ad ki magából, aztán kezéb?l pisztolyt formálva rádmutat.) Bamm! Bamm!}
-{231}{}{Nem talá't! Nem talá't! Ezt kapold ki he! (Te is pisztolyt formálsz a kezedb?l és rácélzol.) Paff! Paff!}
-{232}{}{Ööö... Meghóttam. Menek most jobb hely}
-{235}{}{(Algernon arca eltorzul, aztán lassan odanéz, ahova "l?ttél", hirtelen az egész teste megrándul, szemei kiakadnak, és holtan rogy össze.)}
-{236}{}{Öö, Al? Vagyol jól?}
+{225}{}{HÃ©... meg akarod kÃ¶zelebbr?l nÃ©zni valamelyik fegyveremet?}
+{226}{}{Jaja, jÃ³ "bumm"-ot neked is. Algernon barÃ¡tom, nem tudnÃ¡d itt valamelyik cuccomat megtuningolni?}
+{227}{}{Ã–Ã¶... most nincs "bumm", kÃ¶szi. CsÃ¡.}
+{230}{}{HÃ¶h! HÃ¶-hÃ¶h! (Algernon gurgulÃ¡zÃ³ nevetÃ©st ad ki magÃ¡bÃ³l, aztÃ¡n kezÃ©b?l pisztolyt formÃ¡lva rÃ¡dmutat.) Bamm! Bamm!}
+{231}{}{Nem talÃ¡'t! Nem talÃ¡'t! Ezt kapold ki he! (Te is pisztolyt formÃ¡lsz a kezedb?l Ã©s rÃ¡cÃ©lzol.) Paff! Paff!}
+{232}{}{Ã–Ã¶Ã¶... MeghÃ³ttam. Menek most jobb hely}
+{235}{}{(Algernon arca eltorzul, aztÃ¡n lassan odanÃ©z, ahova "l?ttÃ©l", hirtelen az egÃ©sz teste megrÃ¡ndul, szemei kiakadnak, Ã©s holtan rogy Ã¶ssze.)}
+{236}{}{Ã–Ã¶, Al? Vagyol jÃ³l?}
 {237}{}{Hmmmm... hmmm...}
-{240}{}{(A srác nem mozdul.)}
+{240}{}{(A srÃ¡c nem mozdul.)}
 {241}{}{(Tapsolni kezdesz.)}
-{245}{}{(Még mindig nem mozdul. Nem is lélegzik.)}
+{245}{}{(MÃ©g mindig nem mozdul. Nem is lÃ©legzik.)}
 {250}{}{(Mit akarsz adni neki?)}
 {251}{}{Neki adod az egyik pisztolyodat.}
-{252}{}{Odaadod az egyik puskádat.}
-{253}{}{Átnyújtasz neki egy lángszóró üzemanyag-tartályt.}
-{254}{}{Kezébe nyomod az egyik közelharci fegyveredet.}
-{255}{}{Sajnálom, Al, most nincs semmim számodra. Talán legközelebb.}
-{256}{}{Tudod, nem valami okos dolog egy nyilvánvalóan retardált kezébe fegyvert nyomni. Viccesnek vicces, de semmiképpen nem okos. Légy jó.}
-{260}{}{(Al ragyogó szemmel átveszi a fegyvert. Néhány percig vacakol vele, aztán még jónéhány percig, aztán csak nem akarja abbahagyni, és egy óra múlva gonosz mosollyal bólogatva adja vissza a fegyvert.) *BUUUUUUUMMM.*}
+{252}{}{Odaadod az egyik puskÃ¡dat.}
+{253}{}{ÃtnyÃºjtasz neki egy lÃ¡ngszÃ³rÃ³ Ã¼zemanyag-tartÃ¡lyt.}
+{254}{}{KezÃ©be nyomod az egyik kÃ¶zelharci fegyveredet.}
+{255}{}{SajnÃ¡lom, Al, most nincs semmim szÃ¡modra. TalÃ¡n legkÃ¶zelebb.}
+{256}{}{Tudod, nem valami okos dolog egy nyilvÃ¡nvalÃ³an retardÃ¡lt kezÃ©be fegyvert nyomni. Viccesnek vicces, de semmikÃ©ppen nem okos. LÃ©gy jÃ³.}
+{260}{}{(Al ragyogÃ³ szemmel Ã¡tveszi a fegyvert. NÃ©hÃ¡ny percig vacakol vele, aztÃ¡n mÃ©g jÃ³nÃ©hÃ¡ny percig, aztÃ¡n csak nem akarja abbahagyni, Ã©s egy Ã³ra mÃºlva gonosz mosollyal bÃ³logatva adja vissza a fegyvert.) *BUUUUUUUMMM.*}
 {261}{}{Figyu... meg tudod EZT ITT tuningolni?}
-{262}{}{Köszi, Al.}
+{262}{}{KÃ¶szi, Al.}
 {265}{}{[Melyik legyen?]}
 {266}{}{A 44-es Magnum.}
 {267}{}{A Desert Eagle.}
-{268}{}{A Wattz 1000 lézerpisztoly.}
+{268}{}{A Wattz 1000 lÃ©zerpisztoly.}
 {269}{}{A Glock 86-os Plazma Pisztoly.}
-{270}{}{Kutatsz a cuccaid között, és valami mással próbálkozol...}
-{271}{}{Rá se ránts, Al. Kés?bb találkozunk.}
-{272}{}{Rá se ránts, kölyök... ma nincs játékom a számodra. Csá.}
-{276}{}{A Colt vadászpuskád.}
-{277}{}{Az AK-112 gépkarabélyod.}
+{270}{}{Kutatsz a cuccaid kÃ¶zÃ¶tt, Ã©s valami mÃ¡ssal prÃ³bÃ¡lkozol...}
+{271}{}{RÃ¡ se rÃ¡nts, Al. KÃ©s?bb talÃ¡lkozunk.}
+{272}{}{RÃ¡ se rÃ¡nts, kÃ¶lyÃ¶k... ma nincs jÃ¡tÃ©kom a szÃ¡modra. CsÃ¡.}
+{276}{}{A Colt vadÃ¡szpuskÃ¡d.}
+{277}{}{Az AK-112 gÃ©pkarabÃ©lyod.}
 {278}{}{Az FN FAL-od.}
-{279}{}{A Wattz 2000 lézer puskád.}
-{280}{}{A Flambe 450-es lángszóród.}
-{281}{}{A Plazma puskád.}
-{291}{}{Akarsz egyet ebb?l a lángszóró üzemanyagból?}
-{292}{}{Itt van egy kis lángszóró üzemanyag. Tudsz vele kezdeni valamit?}
-{301}{}{Nekiadod az ösztökédet. Ööö... miután meggy?z?dtél róla, hogy a fogantyújánál veszi kézbe.}
+{279}{}{A Wattz 2000 lÃ©zer puskÃ¡d.}
+{280}{}{A Flambe 450-es lÃ¡ngszÃ³rÃ³d.}
+{281}{}{A Plazma puskÃ¡d.}
+{291}{}{Akarsz egyet ebb?l a lÃ¡ngszÃ³rÃ³ Ã¼zemanyagbÃ³l?}
+{292}{}{Itt van egy kis lÃ¡ngszÃ³rÃ³ Ã¼zemanyag. Tudsz vele kezdeni valamit?}
+{301}{}{Nekiadod az Ã¶sztÃ¶kÃ©det. Ã–Ã¶Ã¶... miutÃ¡n meggy?z?dtÃ©l rÃ³la, hogy a fogantyÃºjÃ¡nÃ¡l veszi kÃ©zbe.}
 {302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
-{400}{}{Én megöl Al. Jobb ha menek elfele}
+{400}{}{Ã‰n megÃ¶l Al. Jobb ha menek elfele}

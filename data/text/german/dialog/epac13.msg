@@ -1,8 +1,8 @@
 {100}{}{Du siehst einen Krieger.}
-{101}{}{Du siehst einen grimmig aussehenden Krieger. Spucke läuft seinem Kinn hinunter.}
-{102}{}{Einer von den persönlichen Leibwächtern des Doktors.}
-{103}{}{Wir wollen dich töten!}
+{101}{}{Du siehst einen grimmig aussehenden Krieger. Spucke lÃ¤uft seinem Kinn hinunter.}
+{102}{}{Einer von den persÃ¶nlichen LeibwÃ¤chtern des Doktors.}
+{103}{}{Wir wollen dich tÃ¶ten!}
 {104}{}{Lass den Doktor in Ruhe!}
 {105}{}{Ich hasse den Doktor!}
-{106}{}{Schützt den Doktor!!!}
-{107}{}{Ich möchte nicht mit dir reden.}
+{106}{}{SchÃ¼tzt den Doktor!!!}
+{107}{}{Ich mÃ¶chte nicht mit dir reden.}

@@ -1,2 +1,2 @@
-{100}{}{Du hast den Stolperdraht ausgelöst.}
-{101}{}{ hat den Stolperdraht ausgelöst.}
+{100}{}{Du hast den Stolperdraht ausgelÃ¶st.}
+{101}{}{ hat den Stolperdraht ausgelÃ¶st.}

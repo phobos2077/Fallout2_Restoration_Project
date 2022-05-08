@@ -1,13 +1,13 @@
-{100}{}{Mo¿e nie powinno siê tu ustawiaæ zapalnika. To mo¿e byæ niebezpieczne.}
-{101}{}{Ten ³adunek wybuchowy chyba nie jest wystarczaj¹co silny do utorowania przejœcia.}
-{102}{}{Ten wózek górniczy jest chyba sprawny. Prawodopodobnie da³o by siê go popchn¹æ.}
-{103}{}{Po³¹czenie dynamitu z metalowym prêtem mo¿e daæ si³ê wybuchu wystarczaj¹c¹ do zniszczenia rumowiska i otwarcia przejœcia.}
-{104}{}{Dynamit jest po³¹czony z metalowym prêtem na wózku.}
-{105}{}{Jedno dobre popchniêcie, a wózek ju¿ dalej pojedzie sam.}
-{106}{}{Wysilasz siê próbuj¹c popchn¹æ wózek.}
-{107}{}{Popychasz wózek po torze.}
-{108}{}{Sam wózek nie wystarczy do otwarcia kopalni.}
-{109}{}{Nie masz do czego tego przy³¹czyæ.}
-{110}{}{Gdyby tylko znalaz³ siê w twoim posiadaniu metalowy prêt, który mo¿na by przyczepiæ z przodu wózka.}
-{111}{}{Przymocowujesz prêt do wózka.}
-{112}{}{Przymocowujesz dynamit do prêta.}
+{100}{}{MoÅ¼e nie powinno siÄ™ tu ustawiaÄ‡ zapalnika. To moÅ¼e byÄ‡ niebezpieczne.}
+{101}{}{Ten Å‚adunek wybuchowy chyba nie jest wystarczajÄ…co silny do utorowania przejÅ›cia.}
+{102}{}{Ten wÃ³zek gÃ³rniczy jest chyba sprawny. Prawodopodobnie daÅ‚o by siÄ™ go popchnÄ…Ä‡.}
+{103}{}{PoÅ‚Ä…czenie dynamitu z metalowym prÄ™tem moÅ¼e daÄ‡ siÅ‚Ä™ wybuchu wystarczajÄ…cÄ… do zniszczenia rumowiska i otwarcia przejÅ›cia.}
+{104}{}{Dynamit jest poÅ‚Ä…czony z metalowym prÄ™tem na wÃ³zku.}
+{105}{}{Jedno dobre popchniÄ™cie, a wÃ³zek juÅ¼ dalej pojedzie sam.}
+{106}{}{Wysilasz siÄ™ prÃ³bujÄ…c popchnÄ…Ä‡ wÃ³zek.}
+{107}{}{Popychasz wÃ³zek po torze.}
+{108}{}{Sam wÃ³zek nie wystarczy do otwarcia kopalni.}
+{109}{}{Nie masz do czego tego przyÅ‚Ä…czyÄ‡.}
+{110}{}{Gdyby tylko znalazÅ‚ siÄ™ w twoim posiadaniu metalowy prÄ™t, ktÃ³ry moÅ¼na by przyczepiÄ‡ z przodu wÃ³zka.}
+{111}{}{Przymocowujesz prÄ™t do wÃ³zka.}
+{112}{}{Przymocowujesz dynamit do prÄ™ta.}

@@ -1,5 +1,5 @@
 {100}{}{Widzisz robota.}
-{101}{}{Widzisz robota do napraw i obs≥ugi reaktora.}
-{102}{}{Widzisz robota. Wyglπda na to, øe dzia≥a.}
-{200}{}{Robot naprawi≥ elektrowniÍ.}
-{300}{}{Zaprogramowany przez ciebie robot zainicjowa≥ stopienie rdzenia.}
+{101}{}{Widzisz robota do napraw i obs≈Çugi reaktora.}
+{102}{}{Widzisz robota. WyglƒÖda na to, ≈ºe dzia≈Ça.}
+{200}{}{Robot naprawi≈Ç elektrowniƒô.}
+{300}{}{Zaprogramowany przez ciebie robot zainicjowa≈Ç stopienie rdzenia.}

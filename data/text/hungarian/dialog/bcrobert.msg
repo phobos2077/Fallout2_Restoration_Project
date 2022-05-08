@@ -1,7 +1,7 @@
-{100}{}{Egy földfoglalót látsz.}
-{101}{}{? Roberta, a földfoglalók egyike.}
-{102}{}{Egy középkorú n?t látsz, viseletes ruhában.}
-{103}{}{Sajnálom, de nincs mit mondanom. Kérlek, menj el!}
-{104}{}{Kérlek, menj el! Ne zaklass!}
-{105}{}{Kösz, hogy segítettél Rebeccának. Tévedtem veled kapcsolatban.}
-{106}{}{Nem jelentek számodra fenyegetést. Kérlek, ne ölj meg!}
+{100}{}{Egy fÃ¶ldfoglalÃ³t lÃ¡tsz.}
+{101}{}{? Roberta, a fÃ¶ldfoglalÃ³k egyike.}
+{102}{}{Egy kÃ¶zÃ©pkorÃº n?t lÃ¡tsz, viseletes ruhÃ¡ban.}
+{103}{}{SajnÃ¡lom, de nincs mit mondanom. KÃ©rlek, menj el!}
+{104}{}{KÃ©rlek, menj el! Ne zaklass!}
+{105}{}{KÃ¶sz, hogy segÃ­tettÃ©l RebeccÃ¡nak. TÃ©vedtem veled kapcsolatban.}
+{106}{}{Nem jelentek szÃ¡modra fenyegetÃ©st. KÃ©rlek, ne Ã¶lj meg!}

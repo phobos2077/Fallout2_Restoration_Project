@@ -4,15 +4,15 @@
 {201}{}{Paz a ti.}
 {202}{}{Buen tiempo.}
 {203}{}{Ve a jugar a otro lado.}
-{300}{}{Buenas, ¿cómo puedo ayudarte?}
-{301}{}{¿Qué puedes contarme sobre vuestro orden?}
+{300}{}{Buenas, Â¿cÃ³mo puedo ayudarte?}
+{301}{}{Â¿QuÃ© puedes contarme sobre vuestro orden?}
 {302}{}{Vamos a comerciar.}
-{303}{}{Adiós.}
-{400}{}{Nuestra santa misión es recoger y preservar las reliquias sagradas del pasado olvidado. Cualquiera es bienvenido aquí, siempre y cuando no dañen nada.}
-{401}{}{¿Quién es vuestro líder?}
-{402}{}{¿Qué clase de reliquias?}
-{403}{}{Él puede ser encontrado en el tercer piso. Si desea obtener más información sobre nuestra orden, es él con quien debe hablar.}
-{404}{}{De todo tipo, pero la mayoría de nuestros Memoriales consisten en tomos antiguos. Se puede obtener mucha información de esos textos. Es nuestra misión preservar este conocimiento para que una generación futura pueda usarlo para construir un nuevo mundo de paz y alegría.}
+{303}{}{AdiÃ³s.}
+{400}{}{Nuestra santa misiÃ³n es recoger y preservar las reliquias sagradas del pasado olvidado. Cualquiera es bienvenido aquÃ­, siempre y cuando no daÃ±en nada.}
+{401}{}{Â¿QuiÃ©n es vuestro lÃ­der?}
+{402}{}{Â¿QuÃ© clase de reliquias?}
+{403}{}{Ã‰l puede ser encontrado en el tercer piso. Si desea obtener mÃ¡s informaciÃ³n sobre nuestra orden, es Ã©l con quien debe hablar.}
+{404}{}{De todo tipo, pero la mayorÃ­a de nuestros Memoriales consisten en tomos antiguos. Se puede obtener mucha informaciÃ³n de esos textos. Es nuestra misiÃ³n preservar este conocimiento para que una generaciÃ³n futura pueda usarlo para construir un nuevo mundo de paz y alegrÃ­a.}
 {405}{}{Vale.}
 {406}{}{Vale.}
-{500}{}{¡Para eso!}
+{500}{}{Â¡Para eso!}

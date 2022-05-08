@@ -1,179 +1,179 @@
-{100}{}{Você vê uma moça de constituição forte e aparência simples com um olhar severo.}
-{101}{}{Você vê Maida Buckner, filha da senhora Buckner.}
-{102}{}{Você vê uma moça de constituição forte e aparência simples. Ela fica te encarando com um olhar severo.}
-{200}{}{Você me deixou com muita raiva. Eu não quero mais nada com você. Agora cai fora.
- índígenas, humph! (resmunga, resmunga) ... imbecil, inútil, vagabun...}
-{201}{}{Você consegue ser mais irritante que o Sulik! Eu não tenho tempo para falar com você. Vá embora.}
-{202}{}{Eu também não quero mais nada com você. Adeus.}
-{203}{}{Sinto muito por te magoar. Eu não conheço sobre seus costumes. Eu só estava tentando te mostrar
- respeito de acordo com as tradições da minha tribo.}
+{100}{}{VocÃª vÃª uma moÃ§a de constituiÃ§Ã£o forte e aparÃªncia simples com um olhar severo.}
+{101}{}{VocÃª vÃª Maida Buckner, filha da senhora Buckner.}
+{102}{}{VocÃª vÃª uma moÃ§a de constituiÃ§Ã£o forte e aparÃªncia simples. Ela fica te encarando com um olhar severo.}
+{200}{}{VocÃª me deixou com muita raiva. Eu nÃ£o quero mais nada com vocÃª. Agora cai fora.
+ Ã­ndÃ­genas, humph! (resmunga, resmunga) ... imbecil, inÃºtil, vagabun...}
+{201}{}{VocÃª consegue ser mais irritante que o Sulik! Eu nÃ£o tenho tempo para falar com vocÃª. VÃ¡ embora.}
+{202}{}{Eu tambÃ©m nÃ£o quero mais nada com vocÃª. Adeus.}
+{203}{}{Sinto muito por te magoar. Eu nÃ£o conheÃ§o sobre seus costumes. Eu sÃ³ estava tentando te mostrar
+ respeito de acordo com as tradiÃ§Ãµes da minha tribo.}
 {204}{}{Deus, eu sinto muito, muito mesmo. Eu sou apenas mais um tribal ignorante. Me perdoa?}
-{205}{}{É que eu não sabia o que dizer para alguém tão atraente quanto você. Eu sempre fico nervoso quando
+{205}{}{Ã‰ que eu nÃ£o sabia o que dizer para alguÃ©m tÃ£o atraente quanto vocÃª. Eu sempre fico nervoso quando
  estou perto de uma mulher bonita. Por favor, aceite minhas desculpas.}
-{206}{}{É que você parece tão civilizada e bonita. Eu tive inveja de você. Por favor me perdoe.}
-{210}{}{Olá, meu nome é Maida Buckner. Eu ajudo minha mãe a cuidar do nosso negócio. Posso ajudar?}
+{206}{}{Ã‰ que vocÃª parece tÃ£o civilizada e bonita. Eu tive inveja de vocÃª. Por favor me perdoe.}
+{210}{}{OlÃ¡, meu nome Ã© Maida Buckner. Eu ajudo minha mÃ£e a cuidar do nosso negÃ³cio. Posso ajudar?}
 {211}{}{Ungh?}
 {212}{}{Eu}
 {213}{}{i de iscola?}
-{220}{}{Hmm - Parece que você funciona na mesma velocidade do Internet Explorer. Por que
-você não conversa com meu irmão, Torr? Ele tem o raciocínio tão rápido quanto o seu. Adeus.}
-{230}{}{Meu nome é Maida Buckner; eu cuido das vendas e das bebidas aqui. E não tolero tribais
- mexendo com o lar da minha família. Então melhor tomar cuidado aqui, ou vai acabar igual o Sulik.
- O que você quer?}
-{231}{}{Meu nome é Maida Buckner; Eu cuido das vendas e das bebidas aqui. O que você vai querer, colega?}
-{232}{}{Olá, meu grande amigo.}
+{220}{}{Hmm - Parece que vocÃª funciona na mesma velocidade do Internet Explorer. Por que
+vocÃª nÃ£o conversa com meu irmÃ£o, Torr? Ele tem o raciocÃ­nio tÃ£o rÃ¡pido quanto o seu. Adeus.}
+{230}{}{Meu nome Ã© Maida Buckner; eu cuido das vendas e das bebidas aqui. E nÃ£o tolero tribais
+ mexendo com o lar da minha famÃ­lia. EntÃ£o melhor tomar cuidado aqui, ou vai acabar igual o Sulik.
+ O que vocÃª quer?}
+{231}{}{Meu nome Ã© Maida Buckner; Eu cuido das vendas e das bebidas aqui. O que vocÃª vai querer, colega?}
+{232}{}{OlÃ¡, meu grande amigo.}
 {233}{}{Em que posso ajudar?}
-{234}{}{Bem, você só precisa agir mais civilizadamente. Afinal, o que você quer? Em que posso te ajudar?}
-{235}{}{Eu tenho algumas perguntas para você.}
+{234}{}{Bem, vocÃª sÃ³ precisa agir mais civilizadamente. Afinal, o que vocÃª quer? Em que posso te ajudar?}
+{235}{}{Eu tenho algumas perguntas para vocÃª.}
 {236}{}{Eu estou procurando um lugar para ficar.}
 {237}{}{Eu quero comprar umas coisas.}
 {238}{}{Eu quero uma bebida.}
-{239}{}{Acho que não preciso de nada agora. Tchau.}
-{240}{}{Perguntas, huh? Vá em frente e seja rápido. Conversar com você não irá fazer meu trabalho ir mais rápido.}
-{241}{}{Mais perguntas? Bem, vai logo então.}
-{242}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
+{239}{}{Acho que nÃ£o preciso de nada agora. Tchau.}
+{240}{}{Perguntas, huh? VÃ¡ em frente e seja rÃ¡pido. Conversar com vocÃª nÃ£o irÃ¡ fazer meu trabalho ir mais rÃ¡pido.}
+{241}{}{Mais perguntas? Bem, vai logo entÃ£o.}
+{242}{}{VocÃª jÃ¡ ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
 {243}{}{Me fale sobre o Sulik.}
 {244}{}{Me diga o que rola aqui em Klamath.}
-{245}{}{Quais são as cidades mais próximas?}
-{246}{}{Acho que é tudo o que eu queria saber. Tchau.}
-{250}{}{Minha mãe que cuida dos quartos. Pergunte pra ela.}
+{245}{}{Quais sÃ£o as cidades mais prÃ³ximas?}
+{246}{}{Acho que Ã© tudo o que eu queria saber. Tchau.}
+{250}{}{Minha mÃ£e que cuida dos quartos. Pergunte pra ela.}
 {251}{}{Ok, valeu. Mas tem outra coisa que eu preciso saber.}
-{252}{}{Eu vou conversar com ela então. Até.}
-{260}{}{Quer negociar? Eu sempre procuro por peles de gecko de alta qualidade, e pago um bom preço por elas.}
-{261}{}{Quer comprar algo? Eu espero que você tenha algo além de peles de gecko para me pagar; nosso estoque
- está cheio no momento.}
-{262}{}{Sim, eu quero negociar com você.}
+{252}{}{Eu vou conversar com ela entÃ£o. AtÃ©.}
+{260}{}{Quer negociar? Eu sempre procuro por peles de gecko de alta qualidade, e pago um bom preÃ§o por elas.}
+{261}{}{Quer comprar algo? Eu espero que vocÃª tenha algo alÃ©m de peles de gecko para me pagar; nosso estoque
+ estÃ¡ cheio no momento.}
+{262}{}{Sim, eu quero negociar com vocÃª.}
 {263}{}{Eu estou mais interessado em outra coisa.}
-{264}{}{Não quero negociar nada agora. Adeus.}
-{270}{}{A única forma que conheço de criar um Garden of Eden é através do bom e velho trabalho duro. 
- Isso é algo que vocês índios simplesmente não entendem. Mas acho que é essa a diferença entre nós, o 
- povo civilizado e vocês.}
-{271}{}{Ok, eu acho. Então me fale sobre outra coisa.}
-{272}{}{Poxa, acho que tenho muito o que aprender com sua gente. Eu quero me civilizar também, algum dia.}
-{273}{}{Civilizados? Vocês se acham civilizados por viverem em ruinas queimadas de uma cidade esquecida?
+{264}{}{NÃ£o quero negociar nada agora. Adeus.}
+{270}{}{A Ãºnica forma que conheÃ§o de criar um Garden of Eden Ã© atravÃ©s do bom e velho trabalho duro. 
+ Isso Ã© algo que vocÃªs Ã­ndios simplesmente nÃ£o entendem. Mas acho que Ã© essa a diferenÃ§a entre nÃ³s, o 
+ povo civilizado e vocÃªs.}
+{271}{}{Ok, eu acho. EntÃ£o me fale sobre outra coisa.}
+{272}{}{Poxa, acho que tenho muito o que aprender com sua gente. Eu quero me civilizar tambÃ©m, algum dia.}
+{273}{}{Civilizados? VocÃªs se acham civilizados por viverem em ruinas queimadas de uma cidade esquecida?
  Me conte mais.}
-{274}{}{Eu acho que já ouvi o bastante. Adeus.}
-{280}{}{Bem, posso fazer mais alguma coisa por você?}
+{274}{}{Eu acho que jÃ¡ ouvi o bastante. Adeus.}
+{280}{}{Bem, posso fazer mais alguma coisa por vocÃª?}
 {281}{}{Eu tenho pele de gecko o bastante por um bom tempo. Mais alguma coisa?}
 {282}{}{Na verdade, tem outra coisa que quero negociar.}
-{283}{}{Eu esperava preços melhores. Você não dá desconto. Vamos falar sobre outra coisa.}
-{284}{}{Você é duro na barganha, mas justo. Vamos falar sobre outra coisa.}
-{285}{}{Isso é tudo que preciso por enquanto. Adeus.}
-{290}{}{Só existem algumas cidades por perto. Tem Redding, lá longe no sudeste, e Den a alguns dias pro
- sul. Mas eu não iria para Den.}
-{291}{}{Por que voce não iria até Den?}
-{292}{}{E tribos na região?}
+{283}{}{Eu esperava preÃ§os melhores. VocÃª nÃ£o dÃ¡ desconto. Vamos falar sobre outra coisa.}
+{284}{}{VocÃª Ã© duro na barganha, mas justo. Vamos falar sobre outra coisa.}
+{285}{}{Isso Ã© tudo que preciso por enquanto. Adeus.}
+{290}{}{SÃ³ existem algumas cidades por perto. Tem Redding, lÃ¡ longe no sudeste, e Den a alguns dias pro
+ sul. Mas eu nÃ£o iria para Den.}
+{291}{}{Por que voce nÃ£o iria atÃ© Den?}
+{292}{}{E tribos na regiÃ£o?}
 {293}{}{Obrigado pelo aviso. Me fale mais.}
-{294}{}{É tudo que eu queria saber. Adeus.}
-{300}{}{Bom, eu não contei as tribos quando me perguntou de cidades civilizadas. Mas acho que tem um grupo
- de selvagens em algum lugar do noroeste -- e tem a tribo do Sulik, lá longe ao sudoeste.}
-{301}{}{Engraçado, minha tribo não conta cidades de antes da guerra como lugares civilizados. Então me fale sobre outra coisa.}
-{302}{}{Oh, vocês são civilizados, claro... E acho que não quero participar disso. Então me fale sobre outra coisa.}
+{294}{}{Ã‰ tudo que eu queria saber. Adeus.}
+{300}{}{Bom, eu nÃ£o contei as tribos quando me perguntou de cidades civilizadas. Mas acho que tem um grupo
+ de selvagens em algum lugar do noroeste -- e tem a tribo do Sulik, lÃ¡ longe ao sudoeste.}
+{301}{}{EngraÃ§ado, minha tribo nÃ£o conta cidades de antes da guerra como lugares civilizados. EntÃ£o me fale sobre outra coisa.}
+{302}{}{Oh, vocÃªs sÃ£o civilizados, claro... E acho que nÃ£o quero participar disso. EntÃ£o me fale sobre outra coisa.}
 {303}{}{Me fale sobre o Sulik.}
 {304}{}{E sobre Den?}
 {305}{}{Interessante. Deixa eu perguntar outra coisa.}
-{310}{}{O Den é um péssimo lugar para ir. Eles até escravizam índigenas ignorantes como você. É mais 
-ou menos uma semana ao sul daqui, mas a maioria dos que vão para lá, nunca mais volta.}
+{310}{}{O Den Ã© um pÃ©ssimo lugar para ir. Eles atÃ© escravizam Ã­ndigenas ignorantes como vocÃª. Ã‰ mais 
+ou menos uma semana ao sul daqui, mas a maioria dos que vÃ£o para lÃ¡, nunca mais volta.}
 {311}{}{Me fale sobre as tribos locais.}
-{312}{}{O Sulik é seu escravo? Ou você apenas o trata como um?}
+{312}{}{O Sulik Ã© seu escravo? Ou vocÃª apenas o trata como um?}
 {313}{}{Interessante. Deixa eu perguntar outra coisa.}
-{320}{}{Sulik é um índio que esta trabalhando para pagar a dívida estúpida que ele mesmo fez. Ele não é um escravo.
- Não temos escravos aqui em Klamath.}
-{321}{}{Pagando uma dívida? O que quer dizer?}
-{330}{}{Sabe, o Sulik ficou muito nervoso uma noite e encheu a cara. Então quando estava completamente
- bebado ele quebrou tudo aqui. Ele causou um prejuízo no valor de $500. Só estamos consertando agora.}
-{331}{}{Por que ele ficou tão nervoso?}
-{340}{}{Ele disse que descobriu que sua irmã havia sido sequestrada por escravistas. Você precisaria
- perguntar para ele sobre isso. Ele vai ficar aqui até pagar todo o resto dos danos que ele causou 
+{320}{}{Sulik Ã© um Ã­ndio que esta trabalhando para pagar a dÃ­vida estÃºpida que ele mesmo fez. Ele nÃ£o Ã© um escravo.
+ NÃ£o temos escravos aqui em Klamath.}
+{321}{}{Pagando uma dÃ­vida? O que quer dizer?}
+{330}{}{Sabe, o Sulik ficou muito nervoso uma noite e encheu a cara. EntÃ£o quando estava completamente
+ bebado ele quebrou tudo aqui. Ele causou um prejuÃ­zo no valor de $500. SÃ³ estamos consertando agora.}
+{331}{}{Por que ele ficou tÃ£o nervoso?}
+{340}{}{Ele disse que descobriu que sua irmÃ£ havia sido sequestrada por escravistas. VocÃª precisaria
+ perguntar para ele sobre isso. Ele vai ficar aqui atÃ© pagar todo o resto dos danos que ele causou 
  enquanto estava bebado.}
 {341}{}{Quanto mais ele tem que pagar?}
-{350}{}{Ele ainda tem que pagar $350. Se ele não fosse tão preguiçoso e desatento seria mais rápido.
- Ele não vai embora enquanto não pagar toda a dívida.}
-{351}{}{Isso é muita grana. Acho que ele vai ficar aqui um bom tempo.}
-{360}{}{Bem, ele pode ser lento, mas dá para se apegar a ele com o tempo. (Olha para o outro lado escondendo tristeza)...
-(Fica afobada) Acho que já jogamos bastante conversa fora; mais alguma coisa?}
+{350}{}{Ele ainda tem que pagar $350. Se ele nÃ£o fosse tÃ£o preguiÃ§oso e desatento seria mais rÃ¡pido.
+ Ele nÃ£o vai embora enquanto nÃ£o pagar toda a dÃ­vida.}
+{351}{}{Isso Ã© muita grana. Acho que ele vai ficar aqui um bom tempo.}
+{360}{}{Bem, ele pode ser lento, mas dÃ¡ para se apegar a ele com o tempo. (Olha para o outro lado escondendo tristeza)...
+(Fica afobada) Acho que jÃ¡ jogamos bastante conversa fora; mais alguma coisa?}
 {361}{}{Eu tenho curiosidade em outra coisa.}
-{362}{}{E se outra pessoa pagar a dívida do Sulik?}
-{363}{}{Isso é tudo que preciso por enquanto. Adeus.}
-{370}{}{Eu não sei por que alguém iria querer pagar a dívida dele, mas pode. A conta dele fica em $350.
- Mas você não faria isso -- ele se meteria em problemas de novo.}
-{371}{}{Eu não gosto dele sendo forçado a ficar com uma mandona como você. Eu quero pagar pelos danos que ele fez.}
+{362}{}{E se outra pessoa pagar a dÃ­vida do Sulik?}
+{363}{}{Isso Ã© tudo que preciso por enquanto. Adeus.}
+{370}{}{Eu nÃ£o sei por que alguÃ©m iria querer pagar a dÃ­vida dele, mas pode. A conta dele fica em $350.
+ Mas vocÃª nÃ£o faria isso -- ele se meteria em problemas de novo.}
+{371}{}{Eu nÃ£o gosto dele sendo forÃ§ado a ficar com uma mandona como vocÃª. Eu quero pagar pelos danos que ele fez.}
 {372}{}{Bem, tenho certeza que ele esta feliz em trabalhar para sua gente, mas ainda quero pagar pelos seus danos.
- Eu acredito que ninguém deve ficar preso como ele está.}
-{373}{}{Acho que tem razão. Eu não tenho tanto dinheiro para gastar mesmo. Adeus.}
-{380}{}{Tá bom então. Se você realmente quer pagar pelos danos que ele causou... Acho que vocês índios 
- realmente são unidos.}
-{381}{}{Sim, eu quero. Eu tenho o suficiente para pagar pelo prejuízo.}
-{382}{}{Isso é dinheiro demais. Afinal, acho que não quero pagar a dívida dele. Adeus.}
-{390}{}{Você não deve bater direito. Eu vou ficar feliz em me livrar desse (soluça) maldito (soluça) índio (soluça, soluça). (chora)}
-{391}{}{(soluça) Eu suponho que seja uma troca justa, um irmão idiota por um (soluça) selvagem idiota. Eu 
- não vou sentir nem um pouco a falta dele.}
-{392}{}{Bem, por algum motivo, parece que o Sulik sente falta de ficar aqui. Mas nós vamos vir visitar
+ Eu acredito que ninguÃ©m deve ficar preso como ele estÃ¡.}
+{373}{}{Acho que tem razÃ£o. Eu nÃ£o tenho tanto dinheiro para gastar mesmo. Adeus.}
+{380}{}{TÃ¡ bom entÃ£o. Se vocÃª realmente quer pagar pelos danos que ele causou... Acho que vocÃªs Ã­ndios 
+ realmente sÃ£o unidos.}
+{381}{}{Sim, eu quero. Eu tenho o suficiente para pagar pelo prejuÃ­zo.}
+{382}{}{Isso Ã© dinheiro demais. Afinal, acho que nÃ£o quero pagar a dÃ­vida dele. Adeus.}
+{390}{}{VocÃª nÃ£o deve bater direito. Eu vou ficar feliz em me livrar desse (soluÃ§a) maldito (soluÃ§a) Ã­ndio (soluÃ§a, soluÃ§a). (chora)}
+{391}{}{(soluÃ§a) Eu suponho que seja uma troca justa, um irmÃ£o idiota por um (soluÃ§a) selvagem idiota. Eu 
+ nÃ£o vou sentir nem um pouco a falta dele.}
+{392}{}{Bem, por algum motivo, parece que o Sulik sente falta de ficar aqui. Mas nÃ³s vamos vir visitar
  de vez em quando, tenho certeza. Agora, eu preciso de algo.}
-{393}{}{Acho que o Sulik vai ficar bem melhor longe de você.}
+{393}{}{Acho que o Sulik vai ficar bem melhor longe de vocÃª.}
 {394}{}{Valeu; Acho que vamos indo agora.}
-{400}{}{Então você voltou, huh? Espero que esteja tomando conta do Sulik. Tenho certeza que ele está perdido
+{400}{}{EntÃ£o vocÃª voltou, huh? Espero que esteja tomando conta do Sulik. Tenho certeza que ele estÃ¡ perdido
  sem me ter por perto para lhe dizer o que fazer.}
 {401}{}{Eu voltei porque preciso de uma coisa.}
-{402}{}{Tenho certeza que não cuido tão bem dele quanto você, mas eu me esforço bastante.}
-{420}{}{Um caçador chamado Smiley desapareceu. Mamãe está perturbada com isso. Certamente ela ficaria grata se
- alguém o encontrar.}
-{421}{}{Ei, você viu o Torr por aí? Parece que ele fugiu, e estamos preocupadas.}
+{402}{}{Tenho certeza que nÃ£o cuido tÃ£o bem dele quanto vocÃª, mas eu me esforÃ§o bastante.}
+{420}{}{Um caÃ§ador chamado Smiley desapareceu. MamÃ£e estÃ¡ perturbada com isso. Certamente ela ficaria grata se
+ alguÃ©m o encontrar.}
+{421}{}{Ei, vocÃª viu o Torr por aÃ­? Parece que ele fugiu, e estamos preocupadas.}
 {422}{}{OK, vou tratar isso com a senhora Buckner. Deixa eu perguntar outra coisa.}
-{423}{}{Não, eu não vi o Torr. Eu te aviso se encontrar ele. Deixa eu perguntar outra coisa.}
-{424}{}{Bem, o Torr estava reclamando que "Homens-Inseto" estavam assustando os brahmin. Não sei se acredito nas
- histórias dele, mas alguém anda rondando o gado por aqui.}
-{425}{}{Eu confesso que não estava dando muita atenção aos boatos na cidade. Vá ao Golden Gecko, com certeza 
- alguém lá deve saber uma coisa ou outra.}
+{423}{}{NÃ£o, eu nÃ£o vi o Torr. Eu te aviso se encontrar ele. Deixa eu perguntar outra coisa.}
+{424}{}{Bem, o Torr estava reclamando que "Homens-Inseto" estavam assustando os brahmin. NÃ£o sei se acredito nas
+ histÃ³rias dele, mas alguÃ©m anda rondando o gado por aqui.}
+{425}{}{Eu confesso que nÃ£o estava dando muita atenÃ§Ã£o aos boatos na cidade. VÃ¡ ao Golden Gecko, com certeza 
+ alguÃ©m lÃ¡ deve saber uma coisa ou outra.}
 {426}{}{Rondando o gado, huh? Vou ver isso. Deixa eu perguntar outra coisa.}
 {427}{}{Interessante. Mais alguma coisa que eu deveria saber?}
 {428}{}{Obrigado pela dica. Deixa eu perguntar outra coisa.}
-{430}{}{Obrigado por encontrar meu irmão. Mamãe e eu estavamos preocupadas. O que posso fazer por você?}
-{431}{}{Obrigado de novo por encontrar o Torr. O que posso fazer com você?}
+{430}{}{Obrigado por encontrar meu irmÃ£o. MamÃ£e e eu estavamos preocupadas. O que posso fazer por vocÃª?}
+{431}{}{Obrigado de novo por encontrar o Torr. O que posso fazer com vocÃª?}
 {432}{}{Eu fico feliz em ajudar o Torr.}
-{433}{}{Fico feliz por encontrar o Torr, mas acho que não preciso de nada agora. Adeus.}
-{434}{}{Fico feliz em ajudar. Talvez você possa me fazer um favor e libertar o Sulik em troca de eu ter achado 
- seu irmão?}
-{440}{}{Você viu meu irmão Torr em algum lugar? Ele perdeu mais alguns brahmin e mamãe brigou com ele.
+{433}{}{Fico feliz por encontrar o Torr, mas acho que nÃ£o preciso de nada agora. Adeus.}
+{434}{}{Fico feliz em ajudar. Talvez vocÃª possa me fazer um favor e libertar o Sulik em troca de eu ter achado 
+ seu irmÃ£o?}
+{440}{}{VocÃª viu meu irmÃ£o Torr em algum lugar? Ele perdeu mais alguns brahmin e mamÃ£e brigou com ele.
  Ele deve ter fugido por isso.}
-{441}{}{Vish, pra onde você acha que ele foi?}
-{442}{}{Sinto muito por você, mas eu preciso de informações sobre uma outra coisa.}
-{450}{}{Eu não tenho certeza, mas acho que ele fugiu para o desfiladeiro que ele vive falando.}
+{441}{}{Vish, pra onde vocÃª acha que ele foi?}
+{442}{}{Sinto muito por vocÃª, mas eu preciso de informaÃ§Ãµes sobre uma outra coisa.}
+{450}{}{Eu nÃ£o tenho certeza, mas acho que ele fugiu para o desfiladeiro que ele vive falando.}
 {451}{}{Um desfiladeiro? Qual desfiladeiro?}
 {460}{}{Tem um desfiladeiro logo ao leste de onde pastoreamos os brahmin. O Torr sempre me vinha com 
- histórias estranhas sobre homens-inseto que viviam por lá. Ele disse que os homens-inseto que mutilavam
- nossos brahmin. Ele morria de medo dessas histórias.}
+ histÃ³rias estranhas sobre homens-inseto que viviam por lÃ¡. Ele disse que os homens-inseto que mutilavam
+ nossos brahmin. Ele morria de medo dessas histÃ³rias.}
 {461}{}{Parece que assustariam qualquer um.}
-{470}{}{Talvez ele tenha ido até o desfiladeiro para provar sua coragem ou algo assim. Eu espero 
- que alguém possa encontrá-lo antes que ele se machuque.}
-{471}{}{Eu posso tentar encontrá-lo.}
-{472}{}{Eu sinto muito por você não conseguir encontrá-lo. Tenho certeza de que ele esta bem. Eu preciso de uma informação.}
-{473}{}{Quem liga para onde seu irmão idiota foi? Eu preciso de uma informação.}
-{480}{}{Eu ficaria muito grata se você encontrar meu irmão para mamãe e eu.}
-{481}{}{Eu ficaria feliz em procurá-lo.}
+{470}{}{Talvez ele tenha ido atÃ© o desfiladeiro para provar sua coragem ou algo assim. Eu espero 
+ que alguÃ©m possa encontrÃ¡-lo antes que ele se machuque.}
+{471}{}{Eu posso tentar encontrÃ¡-lo.}
+{472}{}{Eu sinto muito por vocÃª nÃ£o conseguir encontrÃ¡-lo. Tenho certeza de que ele esta bem. Eu preciso de uma informaÃ§Ã£o.}
+{473}{}{Quem liga para onde seu irmÃ£o idiota foi? Eu preciso de uma informaÃ§Ã£o.}
+{480}{}{Eu ficaria muito grata se vocÃª encontrar meu irmÃ£o para mamÃ£e e eu.}
+{481}{}{Eu ficaria feliz em procurÃ¡-lo.}
 {482}{}{Me desculpe, mas estou sem tempo agora. Adeus.}
-{500}{}{Valeu mesmo. Eu retiro tudo que disse sobre os índigenas. Por favor, encontre meu irmão.}
-{501}{}{Eu vou encontrá-lo; pode contar com isso.}
-{510}{}{Já achou meu irmão? Eu espero que ele esteja bem.}
-{511}{}{Ainda não. Mas tenho outras perguntas para fazer.}
-{512}{}{Ainda não, mas estou procurando.}
-{520}{}{Você quer uma bebida? São $5 cada copo da Buckner's Best Brew.}
+{500}{}{Valeu mesmo. Eu retiro tudo que disse sobre os Ã­ndigenas. Por favor, encontre meu irmÃ£o.}
+{501}{}{Eu vou encontrÃ¡-lo; pode contar com isso.}
+{510}{}{JÃ¡ achou meu irmÃ£o? Eu espero que ele esteja bem.}
+{511}{}{Ainda nÃ£o. Mas tenho outras perguntas para fazer.}
+{512}{}{Ainda nÃ£o, mas estou procurando.}
+{520}{}{VocÃª quer uma bebida? SÃ£o $5 cada copo da Buckner's Best Brew.}
 {521}{}{Eu adoraria uma boa cerveja. Enche o copo.}
 {522}{}{Eu gostaria de pagar uma rodada de bebidas para todo mundo aqui para me apresentar. Eu sou }
 {523}{}{ de Arroyo.}
-{524}{}{Acho que não preciso de uma cerveja. Mas talvez precise de uma informação.}
-{530}{}{Uma rodada para todo mundo. Meu Deus - você é generoso hein? São $30.}
-{531}{}{Bebam por minha conta, amigos. Agora, que tal algumas informações para acompanhar?}
+{524}{}{Acho que nÃ£o preciso de uma cerveja. Mas talvez precise de uma informaÃ§Ã£o.}
+{530}{}{Uma rodada para todo mundo. Meu Deus - vocÃª Ã© generoso hein? SÃ£o $30.}
+{531}{}{Bebam por minha conta, amigos. Agora, que tal algumas informaÃ§Ãµes para acompanhar?}
 {532}{}{Acho que vou pedir uma bebida para mim.}
-{533}{}{Acho que só umas informações servem por agora.}
-{540}{}{Parece que você não tem como pagar tudo isso.}
-{541}{}{Uh, bem, acho que ficarei satisfeito só com algumas informações então.}
+{533}{}{Acho que sÃ³ umas informaÃ§Ãµes servem por agora.}
+{540}{}{Parece que vocÃª nÃ£o tem como pagar tudo isso.}
+{541}{}{Uh, bem, acho que ficarei satisfeito sÃ³ com algumas informaÃ§Ãµes entÃ£o.}
 {542}{}{Oh, talvez eu volte quando eu tiver mais. Adeus.}
-{550}{}{Eu vou ficar feliz em me livrar desse (soluça) maldito (soluça) índio (soluça, soluça). (chora)}
+{550}{}{Eu vou ficar feliz em me livrar desse (soluÃ§a) maldito (soluÃ§a) Ã­ndio (soluÃ§a, soluÃ§a). (chora)}
 {600}{}{[MAIS]}
-{700}{}{Eu descobri o que está acontecendo com seus brahmin.}
-{701}{}{Tem certeza? Isso é ótimo, conte para minha mãe o que descobriu.}
+{700}{}{Eu descobri o que estÃ¡ acontecendo com seus brahmin.}
+{701}{}{Tem certeza? Isso Ã© Ã³timo, conte para minha mÃ£e o que descobriu.}
 {702}{}{Ok, vou falar para ela.}
 {710}{}{Sobre quem anda rondando o gado? Alguma pista?}
-{711}{}{Nenhuma. Nem tenho certeza se existe alguma conexão entre isso e as mutilações de brahmin.}
-{712}{}{Interessante. Alguma outra notícia local que eu devo saber?}
+{711}{}{Nenhuma. Nem tenho certeza se existe alguma conexÃ£o entre isso e as mutilaÃ§Ãµes de brahmin.}
+{712}{}{Interessante. Alguma outra notÃ­cia local que eu devo saber?}

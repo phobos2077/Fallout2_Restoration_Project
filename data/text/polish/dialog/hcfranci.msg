@@ -1,74 +1,74 @@
-{100}{}{Widzisz potê¿nie zbudowanego supermutanta. Wygl¹da na znudzonego.}
-{101}{}{Widzisz Francisa, mutanckiego zapaœnika.}
-{102}{}{Widzisz potê¿nie zbudowanego supermutanta. Ubrany w czarn¹ skórê, nuda jest wypisana na jego twarzy.}
-{103}{}{Pomóc ci w czymœ?}
+{100}{}{Widzisz potÄ™Å¼nie zbudowanego supermutanta. WyglÄ…da na znudzonego.}
+{101}{}{Widzisz Francisa, mutanckiego zapaÅ›nika.}
+{102}{}{Widzisz potÄ™Å¼nie zbudowanego supermutanta. Ubrany w czarnÄ… skÃ³rÄ™, nuda jest wypisana na jego twarzy.}
+{103}{}{PomÃ³c ci w czymÅ›?}
 {104}{}{Ook! Ook! Eep orp ook!}
 {105}{}{Koo ty?}
-{106}{}{Czeœæ, kolego. Kim jesteœ?}
-{107}{}{Co mo¿na w tym miejscu robiæ?}
-{108}{}{Mo¿e siê trochê poprzepychamy, panie ¯elazna Piêœæ?}
-{109}{}{Przykro mi, brachu, ale nie mam pojêcia, co mi próbujesz powiedzieæ.}
-{110}{}{Jestem Francis, mistrz w zapasach tego miasta. Mam ci¹gle aktualny zak³ad, ¿e nikt nie zdo³a mnie pokonaæ.}
-{111}{}{Jestem Francis, pamiêtasz? Mistrz w zapasach tego miasta? Mam ci¹gle aktualny zak³ad, ¿e nikt nie zdo³a mnie pokonaæ.}
-{112}{}{Moja konaæ cie! Moja! Moja!}
-{113}{}{Za³o¿ê siê, ¿e nie by³o wielu takich, co by chcia³o to podwa¿yæ.}
-{114}{}{Za³o¿ê siê, ¿e mi by siê to uda³o.}
+{106}{}{CzeÅ›Ä‡, kolego. Kim jesteÅ›?}
+{107}{}{Co moÅ¼na w tym miejscu robiÄ‡?}
+{108}{}{MoÅ¼e siÄ™ trochÄ™ poprzepychamy, panie Å»elazna PiÄ™Å›Ä‡?}
+{109}{}{Przykro mi, brachu, ale nie mam pojÄ™cia, co mi prÃ³bujesz powiedzieÄ‡.}
+{110}{}{Jestem Francis, mistrz w zapasach tego miasta. Mam ciÄ…gle aktualny zakÅ‚ad, Å¼e nikt nie zdoÅ‚a mnie pokonaÄ‡.}
+{111}{}{Jestem Francis, pamiÄ™tasz? Mistrz w zapasach tego miasta? Mam ciÄ…gle aktualny zakÅ‚ad, Å¼e nikt nie zdoÅ‚a mnie pokonaÄ‡.}
+{112}{}{Moja konaÄ‡ cie! Moja! Moja!}
+{113}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e nie byÅ‚o wielu takich, co by chciaÅ‚o to podwaÅ¼yÄ‡.}
+{114}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e mi by siÄ™ to udaÅ‚o.}
 {115}{}{Taki dobry, co?}
-{116}{}{Co mo¿na? Có¿, zobaczmy... mamy saloon, kopalniê, rafineriê i karawany. Nie mamy tu zbyt du¿o czasu na zabawê, a to, co mamy, zazwyczaj przeznaczamy na picie. No i pracujemy te¿ nad stosunkami mutancko-ludzkimi.}
-{117}{}{Jakie¿ to... fascynuj¹ce.}
-{118}{}{No dobra, dziêki.}
-{119}{}{Stosunki mutancko-ludzkie? Co masz na myœli?}
-{120}{}{Ja zawsze jestem gotowy. Chcesz spróbowaæ?}
+{116}{}{Co moÅ¼na? CÃ³Å¼, zobaczmy... mamy saloon, kopalniÄ™, rafineriÄ™ i karawany. Nie mamy tu zbyt duÅ¼o czasu na zabawÄ™, a to, co mamy, zazwyczaj przeznaczamy na picie. No i pracujemy teÅ¼ nad stosunkami mutancko-ludzkimi.}
+{117}{}{JakieÅ¼ to... fascynujÄ…ce.}
+{118}{}{No dobra, dziÄ™ki.}
+{119}{}{Stosunki mutancko-ludzkie? Co masz na myÅ›li?}
+{120}{}{Ja zawsze jestem gotowy. Chcesz sprÃ³bowaÄ‡?}
 {121}{}{Nie, tak tylko pytam dla zdrowia.}
 {122}{}{Ymm, nie.}
-{123}{}{Oczywiœcie, ¿e tak.}
-{124}{}{[Ogl¹da ciê i mierzy twoj¹ muskulaturê] Nie s¹dzê, kolego. To by by³a tylko strata czasu. Spadaj.}
-{125}{}{S¹dzisz, ¿e dasz sobie ze mn¹ radê, co? No dobra. Wygrywasz, dostajesz tê mocarn¹ piêœæ. Ja wygrywam, jesteœ moim ch³optasiem na dzisiejsz¹ noc. Chcesz to zrobiæ teraz, czy chcesz mieæ trochê czasu na odpoczynek?}
+{123}{}{OczywiÅ›cie, Å¼e tak.}
+{124}{}{[OglÄ…da ciÄ™ i mierzy twojÄ… muskulaturÄ™] Nie sÄ…dzÄ™, kolego. To by byÅ‚a tylko strata czasu. Spadaj.}
+{125}{}{SÄ…dzisz, Å¼e dasz sobie ze mnÄ… radÄ™, co? No dobra. Wygrywasz, dostajesz tÄ™ mocarnÄ… piÄ™Å›Ä‡. Ja wygrywam, jesteÅ› moim chÅ‚optasiem na dzisiejszÄ… noc. Chcesz to zrobiÄ‡ teraz, czy chcesz mieÄ‡ trochÄ™ czasu na odpoczynek?}
 {126}{}{Poczynek! Poczynek!}
 {127}{}{Tera. Moja tera!}
-{128}{}{Najpierw chcê odpocz¹æ.}
+{128}{}{Najpierw chcÄ™ odpoczÄ…Ä‡.}
 {129}{}{Zaczynajmy.}
-{130}{}{Mo¿e jednak nie. Nie chcê siê z tob¹ si³owaæ.}
-{131}{}{Taka jest prawda. Wygl¹da na to, ¿e nie ma nikogo na tym ca³ym zakazanym pustkowiu, kto by siê odwa¿y³.}
-{132}{}{Szkoda. Je¿eli kogoœ takiego znajdê, to wyœlê go do ciebie. Na razie.}
-{133}{}{Tylko dlatego, ¿e jesteœ silny, nie znaczy, ¿e jesteœ m¹dry, koleœ. Pamiêtaj o tym.}
-{134}{}{Brachu, jak ci siê tu nie podoba, to na zewn¹trz jest ca³y œwiat.}
-{135}{}{Nie ma sprawy. Jak bêdziesz jeszcze czegoœ potrzebowaæ, pytaj siê barmana Phila albo kogoœ innego.}
-{136}{}{Kolego, chcesz siê braæ za bary, czy nie? Nie mam czasu na marnowanie na ciête uwagi i tchórzy.}
-{137}{}{Jasne. Zróbmy to.}
-{138}{}{Nie, nie s¹dzê.}
-{139}{}{Wiêc wróæ i znajdŸ mnie, gdy ju¿ wszystko bêdzie gotowe. Powinienem byæ w pobli¿u.}
-{140}{}{Wynoœ siê st¹d, zanim mój g³upi mózg zdecyduje siê wyt³uc ci gêbê.}
-{141}{}{Wycofujemy siê, co? Tchórz. Tyle do mnie dosz³o.}
-{142}{}{Dobra, dobra, zrobiê to.}
+{130}{}{MoÅ¼e jednak nie. Nie chcÄ™ siÄ™ z tobÄ… siÅ‚owaÄ‡.}
+{131}{}{Taka jest prawda. WyglÄ…da na to, Å¼e nie ma nikogo na tym caÅ‚ym zakazanym pustkowiu, kto by siÄ™ odwaÅ¼yÅ‚.}
+{132}{}{Szkoda. JeÅ¼eli kogoÅ› takiego znajdÄ™, to wyÅ›lÄ™ go do ciebie. Na razie.}
+{133}{}{Tylko dlatego, Å¼e jesteÅ› silny, nie znaczy, Å¼e jesteÅ› mÄ…dry, koleÅ›. PamiÄ™taj o tym.}
+{134}{}{Brachu, jak ci siÄ™ tu nie podoba, to na zewnÄ…trz jest caÅ‚y Å›wiat.}
+{135}{}{Nie ma sprawy. Jak bÄ™dziesz jeszcze czegoÅ› potrzebowaÄ‡, pytaj siÄ™ barmana Phila albo kogoÅ› innego.}
+{136}{}{Kolego, chcesz siÄ™ braÄ‡ za bary, czy nie? Nie mam czasu na marnowanie na ciÄ™te uwagi i tchÃ³rzy.}
+{137}{}{Jasne. ZrÃ³bmy to.}
+{138}{}{Nie, nie sÄ…dzÄ™.}
+{139}{}{WiÄ™c wrÃ³Ä‡ i znajdÅº mnie, gdy juÅ¼ wszystko bÄ™dzie gotowe. Powinienem byÄ‡ w pobliÅ¼u.}
+{140}{}{WynoÅ› siÄ™ stÄ…d, zanim mÃ³j gÅ‚upi mÃ³zg zdecyduje siÄ™ wytÅ‚uc ci gÄ™bÄ™.}
+{141}{}{Wycofujemy siÄ™, co? TchÃ³rz. Tyle do mnie doszÅ‚o.}
+{142}{}{Dobra, dobra, zrobiÄ™ to.}
 {143}{}{Tak, tak. Na razie.}
-{144}{}{Có¿, kolego, to pierwszy raz, gdy ktokolwiek pokona³ mnie w uczciwym pojedynku. Uda³o ci siê. WeŸ to. Dobra robota.}
-{145}{}{Wygra³em. Nie zaskakuje mnie to. Czas, abym ciê zabra³ do mnie do domu.}
-{146}{}{Powiem ci coœ, kolego, nie widzia³em takiego ramienia od lat. U¿ywaj go dobrze, a daleko zajdziesz. Zadowolenia z rêkawicy!}
-{147}{}{Czy nie wystarczy³o ci mnie wczeœniej? Chcesz jeszcze raz spróbowaæ? Taki sam uk³ad?}
-{148}{}{Tak, zróbmy to.}
+{144}{}{CÃ³Å¼, kolego, to pierwszy raz, gdy ktokolwiek pokonaÅ‚ mnie w uczciwym pojedynku. UdaÅ‚o ci siÄ™. WeÅº to. Dobra robota.}
+{145}{}{WygraÅ‚em. Nie zaskakuje mnie to. Czas, abym ciÄ™ zabraÅ‚ do mnie do domu.}
+{146}{}{Powiem ci coÅ›, kolego, nie widziaÅ‚em takiego ramienia od lat. UÅ¼ywaj go dobrze, a daleko zajdziesz. Zadowolenia z rÄ™kawicy!}
+{147}{}{Czy nie wystarczyÅ‚o ci mnie wczeÅ›niej? Chcesz jeszcze raz sprÃ³bowaÄ‡? Taki sam ukÅ‚ad?}
+{148}{}{Tak, zrÃ³bmy to.}
 {149}{}{Nie.}
-{150}{}{S³ysza³em o tobie. Nie zadajê siê ze œcierwem.}
-{151}{}{Brachu, dziêki za wpadniêcie na ratowanie naszego miasta. Pozwól, ¿e postawiê ci drinka.}
+{150}{}{SÅ‚yszaÅ‚em o tobie. Nie zadajÄ™ siÄ™ ze Å›cierwem.}
+{151}{}{Brachu, dziÄ™ki za wpadniÄ™cie na ratowanie naszego miasta. PozwÃ³l, Å¼e postawiÄ™ ci drinka.}
 {152}{}{Witaj, bohaterze!}
-{153}{}{Œcierwo! Giñ!}
-{154}{}{Pewnie widzisz, ¿e w mieœcie mamy i mutantów, i ludzi. Staramy siê tak wszystko u³o¿yæ, abyœmy ¿yli w pokoju. Niestety s¹ tacy, którzy chc¹ to zniszczyæ. Nasz przywódca, Marcus, pomóg³ za³o¿yæ to miasto. Chcesz us³yszeæ wiêcej?}
-{155}{}{Tak, powiedŸ mi o tym wiêcej.}
+{153}{}{Åšcierwo! GiÅ„!}
+{154}{}{Pewnie widzisz, Å¼e w mieÅ›cie mamy i mutantÃ³w, i ludzi. Staramy siÄ™ tak wszystko uÅ‚oÅ¼yÄ‡, abyÅ›my Å¼yli w pokoju. Niestety sÄ… tacy, ktÃ³rzy chcÄ… to zniszczyÄ‡. Nasz przywÃ³dca, Marcus, pomÃ³gÅ‚ zaÅ‚oÅ¼yÄ‡ to miasto. Chcesz usÅ‚yszeÄ‡ wiÄ™cej?}
+{155}{}{Tak, powiedÅº mi o tym wiÄ™cej.}
 {156}{}{Nie, raczej nie.}
-{157}{}{Tak naprawdê to myœlê, ¿e wy, mutanty, jesteœcie ³ajnem, a ci ludzie zdrajcami, bo dzia³aj¹ z wami.}
-{158}{}{Czasem martwiê siê o tutejszych ludzi... niektórym z nich ciê¿ko jest pokonaæ w³asny strach i uprzedzenia. Gadaj¹, ¿e nied³ugo gówno uderzy w wentylator - ale to mo¿e byæ tylko plotka.}
-{159}{}{Dziêki. Na razie.}
-{160}{}{Dobra. Jak bêdziesz potrzebowaæ wiêcej informacji, to wiesz, gdzie mnie znaleŸæ.}
-{161}{}{Jasne. Dziêki. Na razie.}
-{162}{}{Naprawdê? Masz do nas wspania³y stosunek. Szkoda, ¿e nie zgnietliœmy twojej wioski, kiedy rz¹dziliœmy pustkowiem. ZejdŸ mi z oczu, robaku.}
+{157}{}{Tak naprawdÄ™ to myÅ›lÄ™, Å¼e wy, mutanty, jesteÅ›cie Å‚ajnem, a ci ludzie zdrajcami, bo dziaÅ‚ajÄ… z wami.}
+{158}{}{Czasem martwiÄ™ siÄ™ o tutejszych ludzi... niektÃ³rym z nich ciÄ™Å¼ko jest pokonaÄ‡ wÅ‚asny strach i uprzedzenia. GadajÄ…, Å¼e niedÅ‚ugo gÃ³wno uderzy w wentylator - ale to moÅ¼e byÄ‡ tylko plotka.}
+{159}{}{DziÄ™ki. Na razie.}
+{160}{}{Dobra. Jak bÄ™dziesz potrzebowaÄ‡ wiÄ™cej informacji, to wiesz, gdzie mnie znaleÅºÄ‡.}
+{161}{}{Jasne. DziÄ™ki. Na razie.}
+{162}{}{NaprawdÄ™? Masz do nas wspaniaÅ‚y stosunek. Szkoda, Å¼e nie zgnietliÅ›my twojej wioski, kiedy rzÄ…dziliÅ›my pustkowiem. ZejdÅº mi z oczu, robaku.}
 {200}{}{[dalej]}
 {201}{}{Bywaj.}
-{202}{}{Dziêki. Na razie.}
+{202}{}{DziÄ™ki. Na razie.}
 {203}{}{[KONTYNUUJ]}
-{204}{}{Jasne. Dziêki. Na razie.}
-{300}{}{Koleœ, nie s¹dzê, abyœ wiedzia³ jak u¿yæ to, co mogê ci daæ. Wróæ, gdy bêdziesz mieæ trochê wiêcej doœwiadczenia.}
-{301}{}{Widzisz potê¿nie zbudowanego supermutanta. Ubrany w czarn¹ skórê, nuda jest wypisana na jego twarzy. Wygl¹da na to, ¿e ma jak¹œ masywn¹ rêkawicê, która wystaje mu z torby na piersi.}
-{302}{}{Czujesz siê podle. Wci¹¿ ci¹¿y ci wspomnienie wizyty u Francisa. I chyba masz po nim pami¹tkê.}
+{204}{}{Jasne. DziÄ™ki. Na razie.}
+{300}{}{KoleÅ›, nie sÄ…dzÄ™, abyÅ› wiedziaÅ‚ jak uÅ¼yÄ‡ to, co mogÄ™ ci daÄ‡. WrÃ³Ä‡, gdy bÄ™dziesz mieÄ‡ trochÄ™ wiÄ™cej doÅ›wiadczenia.}
+{301}{}{Widzisz potÄ™Å¼nie zbudowanego supermutanta. Ubrany w czarnÄ… skÃ³rÄ™, nuda jest wypisana na jego twarzy. WyglÄ…da na to, Å¼e ma jakÄ…Å› masywnÄ… rÄ™kawicÄ™, ktÃ³ra wystaje mu z torby na piersi.}
+{302}{}{Czujesz siÄ™ podle. WciÄ…Å¼ ciÄ…Å¼y ci wspomnienie wizyty u Francisa. I chyba masz po nim pamiÄ…tkÄ™.}
 {400}{}{Urrgggh!}
 {401}{}{Arrrrr!}
 {402}{}{Aiiigggggg.}
@@ -78,36 +78,36 @@
 {406}{}{Eeeeech.}
 {407}{}{Graaa!}
 {408}{}{Uuuaa!}
-{409}{}{A³!}
-{410}{}{A³! Moje ramiê!}
-{411}{}{Cha cha! Mam ciê!}
-{500}{}{Po ³bie, Francis! Po ³bie!}
-{501}{}{O rany, ³adna RÊCZNA robótka! Chachacha!}
-{502}{}{Rêka rêkê bije, co ch³opaki! Hehehe!}
-{503}{}{Stuknij siê PIÊŒCI¥ w g³owê, przecie¿ przyk³adasz RÊKÊ do swoich w³asnych obra¿eñ!}
+{409}{}{AÅ‚!}
+{410}{}{AÅ‚! Moje ramiÄ™!}
+{411}{}{Cha cha! Mam ciÄ™!}
+{500}{}{Po Å‚bie, Francis! Po Å‚bie!}
+{501}{}{O rany, Å‚adna RÄ˜CZNA robÃ³tka! Chachacha!}
+{502}{}{RÄ™ka rÄ™kÄ™ bije, co chÅ‚opaki! Hehehe!}
+{503}{}{Stuknij siÄ™ PIÄ˜ÅšCIÄ„ w gÅ‚owÄ™, przecieÅ¼ przykÅ‚adasz RÄ˜KÄ˜ do swoich wÅ‚asnych obraÅ¼eÅ„!}
 {504}{}{Aj! Prosto w paliczki!}
-{505}{}{Ej, Francis! Zrób mu ekstrakcjê rzepki kolanowej.}
-{506}{}{Ta walka jest prawie tak naci¹gana, jak ich stawy! Chi chi chi!}
-{507}{}{U¿yj swojego bacika, Francis! Bacika!}
-{508}{}{Napiêta sytuacja - prawie tak, jak ich miêœnie! Cha Cha Cha!}
+{505}{}{Ej, Francis! ZrÃ³b mu ekstrakcjÄ™ rzepki kolanowej.}
+{506}{}{Ta walka jest prawie tak naciÄ…gana, jak ich stawy! Chi chi chi!}
+{507}{}{UÅ¼yj swojego bacika, Francis! Bacika!}
+{508}{}{NapiÄ™ta sytuacja - prawie tak, jak ich miÄ™Å›nie! Cha Cha Cha!}
 {509}{}{Patrzcie na te bicepsy!}
-{510}{}{Chyba zaraz pójd¹ im œciêgna...}
+{510}{}{Chyba zaraz pÃ³jdÄ… im Å›ciÄ™gna...}
 {511}{}{Wiesz, proste obliczenie stosunku mas faworyzuje raczej Francisa.}
 {512}{}{Francis! Fran-CIS! FRAN-CIS!}
-{513}{}{On mo¿e ciê poca³owaæ w ty³ek, Francis! Nie, no nie dos³ownie!}
-{530}{}{No dobra Francis! Z pewnoœci¹ UDA-³o ci siê!}
+{513}{}{On moÅ¼e ciÄ™ pocaÅ‚owaÄ‡ w tyÅ‚ek, Francis! Nie, no nie dosÅ‚ownie!}
+{530}{}{No dobra Francis! Z pewnoÅ›ciÄ… UDA-Å‚o ci siÄ™!}
 {531}{}{Dobrze, Francis!}
-{532}{}{Jej! Nigdy przedtem to siê nie zdarzy³o!}
-{599}{}{W tunelach le¿a³a notatka z imionami Francis i Zaius. Wygl¹da na to, ¿e pope³ni³eœ trochê przestêpstw.}
-{600}{}{Cholera. Zaius znowu zostawi³ porozrzucane papiery, co? Có¿, cz³owieku, powiem ci coœ: wiedzia³em, ¿e s¹ w tym mieœcie ludzie, którzy chc¹ zabiæ mutantów, i wiedzia³em, ¿e Marcus aresztowa³by ich tylko wtedy, gdyby mia³ dowody. Chcia³em po prostu, aby to siê sta³o z jak najmniejszym rozlewem krwi.}
-{601}{}{A wiêc zabi³eœ niewinnych, co?}
-{602}{}{Jasne. A wiêc co proponujesz, abyœmy z tym zrobili?}
-{603}{}{Niewinnych? Cha! Ludzie, których zabi³em, chcieli zabiæ MNIE! Po prostu odwdziêczy³em siê piêknym za nadobne i upewni³em siê, ¿e ich œmieræ us³u¿y te¿ innemu celowi - takiemu, który posun¹³by dalej sprawê dla pokoju.}
-{604}{}{Ale wci¹¿ nie jesteœ nikim wiêcej ni¿ kryminalist¹ i morderc¹ - a ja mam tylko twoje s³owa, ¿e istnieje jakaœ konspiracja.}
-{605}{}{Jedyn¹ rzecz¹, która zaspokoi sprawê pokoju jest œmieræ wszystkich morderców. A ja wykonam swój kawa³ek roboty zabijaj¹c ciebie.}
-{606}{}{Je¿eli porozmawiasz z niektórymi w mieœcie o swojej nienawiœci do mutantów, to dowiesz siê o konspiracji. Wiem, ¿e dwa z³a nie czyni¹ dobra, ale nazwa³bym to samoobron¹. Zrobi³em coœ z³ego, przyznajê. Nie mogê tu zostaæ. Wyruszê, aby znaleŸæ sposób odpokutowania za moje czyny... czy to zadowala twoje poczucie sprawiedliwoœci?}
-{607}{}{Bêdzie musia³o.}
-{608}{}{Nie, nie zadowala. Musisz zgin¹æ z mojej rêki.}
-{700}{}{Francis zosta³ pokonany w si³owaniu siê na rêkê.}
-{701}{}{Francis zosta³ skonfrontowany z notk¹ dla Zaiusa.}
-{800}{}{[Patrz¹c na masywnego mutanta zdajesz sobie sprawê, ¿e nie masz z nim ¿adnych szans. Czas odejœæ, gdy jeszcze masz przy sobie swoj¹ godnoœæ.]}
+{532}{}{Jej! Nigdy przedtem to siÄ™ nie zdarzyÅ‚o!}
+{599}{}{W tunelach leÅ¼aÅ‚a notatka z imionami Francis i Zaius. WyglÄ…da na to, Å¼e popeÅ‚niÅ‚eÅ› trochÄ™ przestÄ™pstw.}
+{600}{}{Cholera. Zaius znowu zostawiÅ‚ porozrzucane papiery, co? CÃ³Å¼, czÅ‚owieku, powiem ci coÅ›: wiedziaÅ‚em, Å¼e sÄ… w tym mieÅ›cie ludzie, ktÃ³rzy chcÄ… zabiÄ‡ mutantÃ³w, i wiedziaÅ‚em, Å¼e Marcus aresztowaÅ‚by ich tylko wtedy, gdyby miaÅ‚ dowody. ChciaÅ‚em po prostu, aby to siÄ™ staÅ‚o z jak najmniejszym rozlewem krwi.}
+{601}{}{A wiÄ™c zabiÅ‚eÅ› niewinnych, co?}
+{602}{}{Jasne. A wiÄ™c co proponujesz, abyÅ›my z tym zrobili?}
+{603}{}{Niewinnych? Cha! Ludzie, ktÃ³rych zabiÅ‚em, chcieli zabiÄ‡ MNIE! Po prostu odwdziÄ™czyÅ‚em siÄ™ piÄ™knym za nadobne i upewniÅ‚em siÄ™, Å¼e ich Å›mierÄ‡ usÅ‚uÅ¼y teÅ¼ innemu celowi - takiemu, ktÃ³ry posunÄ…Å‚by dalej sprawÄ™ dla pokoju.}
+{604}{}{Ale wciÄ…Å¼ nie jesteÅ› nikim wiÄ™cej niÅ¼ kryminalistÄ… i mordercÄ… - a ja mam tylko twoje sÅ‚owa, Å¼e istnieje jakaÅ› konspiracja.}
+{605}{}{JedynÄ… rzeczÄ…, ktÃ³ra zaspokoi sprawÄ™ pokoju jest Å›mierÄ‡ wszystkich mordercÃ³w. A ja wykonam swÃ³j kawaÅ‚ek roboty zabijajÄ…c ciebie.}
+{606}{}{JeÅ¼eli porozmawiasz z niektÃ³rymi w mieÅ›cie o swojej nienawiÅ›ci do mutantÃ³w, to dowiesz siÄ™ o konspiracji. Wiem, Å¼e dwa zÅ‚a nie czyniÄ… dobra, ale nazwaÅ‚bym to samoobronÄ…. ZrobiÅ‚em coÅ› zÅ‚ego, przyznajÄ™. Nie mogÄ™ tu zostaÄ‡. WyruszÄ™, aby znaleÅºÄ‡ sposÃ³b odpokutowania za moje czyny... czy to zadowala twoje poczucie sprawiedliwoÅ›ci?}
+{607}{}{BÄ™dzie musiaÅ‚o.}
+{608}{}{Nie, nie zadowala. Musisz zginÄ…Ä‡ z mojej rÄ™ki.}
+{700}{}{Francis zostaÅ‚ pokonany w siÅ‚owaniu siÄ™ na rÄ™kÄ™.}
+{701}{}{Francis zostaÅ‚ skonfrontowany z notkÄ… dla Zaiusa.}
+{800}{}{[PatrzÄ…c na masywnego mutanta zdajesz sobie sprawÄ™, Å¼e nie masz z nim Å¼adnych szans. Czas odejÅ›Ä‡, gdy jeszcze masz przy sobie swojÄ… godnoÅ›Ä‡.]}

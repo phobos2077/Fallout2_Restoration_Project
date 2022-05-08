@@ -1,24 +1,24 @@
 {100}{}{Terminal komputerowy.}
-{101}{}{Ten komputer jest doœæ antyczny. Jego procesor ma tylko 500MHz.}
-{102}{}{Nie mo¿esz odczytaæ, co pokazuje monitor.}
+{101}{}{Ten komputer jest doÅ›Ä‡ antyczny. Jego procesor ma tylko 500MHz.}
+{102}{}{Nie moÅ¼esz odczytaÄ‡, co pokazuje monitor.}
 {103}{}{Zautomatyzowana Stacja Napraw                                   
- Przetwarzam ¯¹dania Napraw zg³oszone przez Skynet...     
- Wysy³am Jednostki Naprawcze}
+ Przetwarzam Å»Ä…dania Napraw zgÅ‚oszone przez Skynet...     
+ WysyÅ‚am Jednostki Naprawcze}
 {104}{}{}
 {105}{}{}
-{106}{}{Spróbuj wy³¹czyæ stacjê napraw.}
-{107}{}{Wyci¹gnij komputerowi wtyczkê z gniazdka.}
-{108}{}{Wciœnij du¿y czerwony przycisk z napisem "WY£".}
-{109}{}{WyjdŸ.}
-{110}{}{[Nie potrafisz siê domyœleæ, jak wy³¹czyæ ten program.]}
-{111}{}{WyjdŸ.}
-{112}{}{[Wpisanie s³owa "wy³¹cz" chyba podzia³a³o. Zautomatyzowana Stacja Napraw wy³¹czy³a siê.]}
-{113}{}{WyjdŸ.}
-{114}{}{[Przez czysty przypadek zauwa¿asz kabel ci¹gn¹cy siê od komputera do gniazdka w œcianie. Ekran komputera staje siê czarny, gdy tylko wyci¹gasz wtyczkê.]}
-{115}{}{WyjdŸ.}
-{116}{}{[Odwa¿nie naciskasz czerwony przycisk z napisem "WY£". Zgodnie z oczekiwaniami, terminal przestaje wyœwietlaæ cokolwiek.]}
-{117}{}{WyjdŸ.}
-{118}{}{[Kiedy zaczynasz wpisywaæ tekst z klawiatury, klawisze wyskakuj¹ z niej i spadaj¹ na pod³ogê. To by by³o na tyle, jeœli chodzi o korzystanie z tego terminala.]}
-{119}{}{WyjdŸ.}
-{120}{}{Zautomatyzowana Stacja Napraw jest ju¿ wy³¹czona.}
-{121}{}{Nie mogê skorzystaæ z tego terminala. Ktoœ zepsu³ klawiaturê.}
+{106}{}{SprÃ³buj wyÅ‚Ä…czyÄ‡ stacjÄ™ napraw.}
+{107}{}{WyciÄ…gnij komputerowi wtyczkÄ™ z gniazdka.}
+{108}{}{WciÅ›nij duÅ¼y czerwony przycisk z napisem "WYÅ".}
+{109}{}{WyjdÅº.}
+{110}{}{[Nie potrafisz siÄ™ domyÅ›leÄ‡, jak wyÅ‚Ä…czyÄ‡ ten program.]}
+{111}{}{WyjdÅº.}
+{112}{}{[Wpisanie sÅ‚owa "wyÅ‚Ä…cz" chyba podziaÅ‚aÅ‚o. Zautomatyzowana Stacja Napraw wyÅ‚Ä…czyÅ‚a siÄ™.]}
+{113}{}{WyjdÅº.}
+{114}{}{[Przez czysty przypadek zauwaÅ¼asz kabel ciÄ…gnÄ…cy siÄ™ od komputera do gniazdka w Å›cianie. Ekran komputera staje siÄ™ czarny, gdy tylko wyciÄ…gasz wtyczkÄ™.]}
+{115}{}{WyjdÅº.}
+{116}{}{[OdwaÅ¼nie naciskasz czerwony przycisk z napisem "WYÅ". Zgodnie z oczekiwaniami, terminal przestaje wyÅ›wietlaÄ‡ cokolwiek.]}
+{117}{}{WyjdÅº.}
+{118}{}{[Kiedy zaczynasz wpisywaÄ‡ tekst z klawiatury, klawisze wyskakujÄ… z niej i spadajÄ… na podÅ‚ogÄ™. To by byÅ‚o na tyle, jeÅ›li chodzi o korzystanie z tego terminala.]}
+{119}{}{WyjdÅº.}
+{120}{}{Zautomatyzowana Stacja Napraw jest juÅ¼ wyÅ‚Ä…czona.}
+{121}{}{Nie mogÄ™ skorzystaÄ‡ z tego terminala. KtoÅ› zepsuÅ‚ klawiaturÄ™.}

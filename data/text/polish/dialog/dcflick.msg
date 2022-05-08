@@ -1,80 +1,80 @@
-{100}{}{Widzisz chudego mê¿czyznê o niemi³ej powierzchownoœci.}
-{150}{}{Widzisz Flicka. Zapamiêtale drapie swoje klejnoty rodowe.}
-{151}{}{Widzisz niezbyt domytego mê¿czyznê o nieprzyjemnej twarzy.}
-{200}{}{Uciekaj st¹d, g³upolu.}
-{201}{}{Hej przyg³upie! Tak, do ciebie mówiê! Smykaj st¹d, sio!}
-{202}{}{Nies³y s ciebie g³upol, co?}
-{203}{}{Szczym masz problem, hê?!}
-{204}{}{Uciekaj st¹d, sio!}
+{100}{}{Widzisz chudego mÄ™Å¼czyznÄ™ o niemiÅ‚ej powierzchownoÅ›ci.}
+{150}{}{Widzisz Flicka. ZapamiÄ™tale drapie swoje klejnoty rodowe.}
+{151}{}{Widzisz niezbyt domytego mÄ™Å¼czyznÄ™ o nieprzyjemnej twarzy.}
+{200}{}{Uciekaj stÄ…d, gÅ‚upolu.}
+{201}{}{Hej przygÅ‚upie! Tak, do ciebie mÃ³wiÄ™! Smykaj stÄ…d, sio!}
+{202}{}{NiesÅ‚y s ciebie gÅ‚upol, co?}
+{203}{}{Szczym masz problem, hÄ™?!}
+{204}{}{Uciekaj stÄ…d, sio!}
 {220}{}{Heja, jestem Flick. Czego tu do cholery szukasz?}
-{221}{}{I co teras? Marnujesz mój czas.}
+{221}{}{I co teras? Marnujesz mÃ³j czas.}
 {222}{}{O co chodzi z tym akcentem, Flick?}
 {223}{}{Co ty tu do cholery robisz?}
-{224}{}{Szukam Krypty - no i kupca imieniem Vic. Wiesz gdzie go mo¿na znaleŸæ?}
-{225}{}{Chcê z tob¹ pohandlowaæ.}
-{240}{}{To jak, chcesz jeszcze coœ?}
-{241}{}{Jeœli mo¿na, chêtnie jeszcze raz rzucê okiem na twoj¹ ofertê.}
-{242}{}{W zasadzie chcê ciê tylko o coœ zapytaæ.}
-{243}{}{To ju¿ wszystko. Do zobaczenia Flick.}
-{260}{}{Ja tu kurna handlujê, a co myœlisz? Jestem jak taki Samurajtanin, nie?}
-{261}{}{¯e co?}
-{262}{}{No tak... mogê ciê zapytaæ o coœ jeszcze?}
-{263}{}{A, tak. W porz¹dku. ¯egnaj, Flick.}
-{280}{}{Dbam o te ma³e urwipo³cie.}
-{281}{}{Handlujesz miêsem, tak?}
-{290}{}{Urwipo³cie! No, kumasz, dzieci. Moje dzieci!}
+{224}{}{Szukam Krypty - no i kupca imieniem Vic. Wiesz gdzie go moÅ¼na znaleÅºÄ‡?}
+{225}{}{ChcÄ™ z tobÄ… pohandlowaÄ‡.}
+{240}{}{To jak, chcesz jeszcze coÅ›?}
+{241}{}{JeÅ›li moÅ¼na, chÄ™tnie jeszcze raz rzucÄ™ okiem na twojÄ… ofertÄ™.}
+{242}{}{W zasadzie chcÄ™ ciÄ™ tylko o coÅ› zapytaÄ‡.}
+{243}{}{To juÅ¼ wszystko. Do zobaczenia Flick.}
+{260}{}{Ja tu kurna handlujÄ™, a co myÅ›lisz? Jestem jak taki Samurajtanin, nie?}
+{261}{}{Å»e co?}
+{262}{}{No tak... mogÄ™ ciÄ™ zapytaÄ‡ o coÅ› jeszcze?}
+{263}{}{A, tak. W porzÄ…dku. Å»egnaj, Flick.}
+{280}{}{Dbam o te maÅ‚e urwipoÅ‚cie.}
+{281}{}{Handlujesz miÄ™sem, tak?}
+{290}{}{UrwipoÅ‚cie! No, kumasz, dzieci. Moje dzieci!}
 {291}{}{Twoje dzieci?}
-{292}{}{Có¿, nie interesuje mnie zbytnio dokarmianie dzieci. Chcê ciê zapytaæ o coœ innego.}
-{300}{}{No tak! Dzieci, które dla mnie pracuj¹. Pszynosz¹ mi szeczy. Ró¿ne takie pierdu³y. No wiesz!}
+{292}{}{CÃ³Å¼, nie interesuje mnie zbytnio dokarmianie dzieci. ChcÄ™ ciÄ™ zapytaÄ‡ o coÅ› innego.}
+{300}{}{No tak! Dzieci, ktÃ³re dla mnie pracujÄ…. PszynoszÄ… mi szeczy. RÃ³Å¼ne takie pierduÅ‚y. No wiesz!}
 {301}{}{Ee, nie.}
-{302}{}{W porz¹dku. Chcê ciê jeszcze o coœ zapytaæ.}
-{303}{}{Ach, rozumiem. No to nie bêdê ci przeszkadzaæ. ¯egnaj.}
-{315}{}{Pszynosz¹ mi wszystkie swoje snalesiska. Takie tam malutkie pierdu³ki. Takie, co to ich nikt inny nie potszebuje. A ja siê nimi w samian opiekujê.}
-{316}{}{To chyba niez³y uk³ad.}
-{325}{}{[Flick wzrusza ramionami] Jakoœ sobie wspólnie radzimy.}
-{326}{}{To mo¿e zapytam ciê o coœ innego?}
-{327}{}{Na pewno przynosz¹ ci ró¿ne ciekawe rzeczy. Zobaczmy co tam masz.}
-{328}{}{Tylko pytam. Có¿, ¿egnaj Flick.}
-{340}{}{O czym ty gadasz?! Co ja ci wygl¹dam, jak pirla? Jakiœ g³upi filio di puttana? Masz mnie sa b³asna? Myœlisz, sze jestem sajebiœcie sabawny, tak?}
-{341}{}{Ale¿ sk¹d. Przepraszam, pytam tylko z ciekawoœci. Mogê ciê zapytaæ o coœ innego?}
-{342}{}{W³aœnie tak. A nic nie rozbawi mnie bardziej, ni¿ twoje wyprute na ziemiê bebechy.}
-{343}{}{Cholera, jeœli zamierzasz siê z³oœciæ o byle co, to ja wychodzê.}
-{360}{}{Krypta, co? Mo¿e Mamuœka coœ o tym wie, bo ja nie mam pojêcia. Ale ten ca³y Vic - jego snam. Metsger dorwa³ tego porca pistola.}
-{361}{}{Vic? A to nie jest ten goœæ s tob¹? Biota. Ale Mamuœka... j¹ znam.}
+{302}{}{W porzÄ…dku. ChcÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{303}{}{Ach, rozumiem. No to nie bÄ™dÄ™ ci przeszkadzaÄ‡. Å»egnaj.}
+{315}{}{PszynoszÄ… mi wszystkie swoje snalesiska. Takie tam malutkie pierduÅ‚ki. Takie, co to ich nikt inny nie potszebuje. A ja siÄ™ nimi w samian opiekujÄ™.}
+{316}{}{To chyba niezÅ‚y ukÅ‚ad.}
+{325}{}{[Flick wzrusza ramionami] JakoÅ› sobie wspÃ³lnie radzimy.}
+{326}{}{To moÅ¼e zapytam ciÄ™ o coÅ› innego?}
+{327}{}{Na pewno przynoszÄ… ci rÃ³Å¼ne ciekawe rzeczy. Zobaczmy co tam masz.}
+{328}{}{Tylko pytam. CÃ³Å¼, Å¼egnaj Flick.}
+{340}{}{O czym ty gadasz?! Co ja ci wyglÄ…dam, jak pirla? JakiÅ› gÅ‚upi filio di puttana? Masz mnie sa bÅ‚asna? MyÅ›lisz, sze jestem sajebiÅ›cie sabawny, tak?}
+{341}{}{AleÅ¼ skÄ…d. Przepraszam, pytam tylko z ciekawoÅ›ci. MogÄ™ ciÄ™ zapytaÄ‡ o coÅ› innego?}
+{342}{}{WÅ‚aÅ›nie tak. A nic nie rozbawi mnie bardziej, niÅ¼ twoje wyprute na ziemiÄ™ bebechy.}
+{343}{}{Cholera, jeÅ›li zamierzasz siÄ™ zÅ‚oÅ›ciÄ‡ o byle co, to ja wychodzÄ™.}
+{360}{}{Krypta, co? MoÅ¼e MamuÅ›ka coÅ› o tym wie, bo ja nie mam pojÄ™cia. Ale ten caÅ‚y Vic - jego snam. Metsger dorwaÅ‚ tego porca pistola.}
+{361}{}{Vic? A to nie jest ten goÅ›Ä‡ s tobÄ…? Biota. Ale MamuÅ›ka... jÄ… znam.}
 {362}{}{Kim jest Metzger?}
-{363}{}{Kim jest Mamuœka?}
-{364}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
-{365}{}{Dziêki, to ju¿ chyba wszystko. Do widzenia.}
-{380}{}{Mamuœka prowadzi restauracjê we wschodniej czêœci miasta. Saras sa Cmentarzem. Fajne miejsce, dobre spaghetti, Mama mia.}
-{381}{}{Dziêki, a co z tym Metsgerem, który przetrzymuje Vica?}
-{382}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
-{383}{}{Dziêki, to ju¿ chyba wszystko. Do widzenia.}
-{400}{}{A, tak! Metsger, ten stronzo, ju¿ nie ¿yje. Nie wiem co siê sta³o z Vicem.}
-{401}{}{Ten Metsger, to prawdziwy rompiballe. Prowadzi gildiê ³owców niewolników. To na wschodzie, saras na pó³noc od Mamuœki. To on uwiêzi³ Vica.}
-{402}{}{Dziêki, a co z Mamuœk¹?}
-{403}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
-{404}{}{Dziêki, to ju¿ chyba wszystko. Do widzenia.}
-{410}{}{Jasna dupa, kogo ja kurdê widzê. Sbawienie uciœnionych, ratunek kurdê dzieci, zaszczyca mnie sw¹ obecnoœci¹. Sam jestem dobrym Samurajtaninem. Dbam o te ma³e urwipo³cie. To snaczy kurdê dba³em do czasu as uda³o ci siê useczywistniæ cholerne plany Mamuœki.}
-{411}{}{Jasna dupa, kogo ja kurdê widzê. Sbawienie uciœnionych, ratunek kurdê dzieci, zaszczyca mnie sw¹ obecnoœci¹. Sam jestem dobrym Samurajtaninem. Dbam o te ma³e urwipo³cie. To snaczy kurdê dba³em do czasu as uda³o ci siê useczywistniæ cholerne plany Mamuœki.}
-{412}{}{Handlujesz miêsem, tak?}
-{413}{}{Mówisz jak by ci nie odpowiada³o, ¿e dzieci ju¿ nie w³ócz¹ siê po ulicach.}
-{420}{}{Hej, nie srosum mnie Ÿle. ¯ycie na ulicach jest ciêskie dla dzieci, ale naprawdê dobija mnie fakt, se sakoñczy³o to nasz ma³y uk³ad.}
-{421}{}{Jaki uk³ad?}
-{422}{}{Masz na myœli sprzeda¿ rzeczy które dla ciebie krad³y?}
-{430}{}{Nie pszem¹dsaj siê tutaj. Dzieciaki pszynosi³y mi wszystkie swoje snalesiska. Nie wiem sk¹d je bra³y i szczese mówi¹c gówno mnie to obchodzi.}
-{431}{}{W porz¹dku.}
-{432}{}{Chrzanisz. Mam powy¿ej uszu ludzi takich jak ty, którzy wykorzystuj¹ innych dla w³asnego zysku. Czas ciê uœpiæ!}
-{440}{}{Urwipo³cie! No, kumasz, dzieci. Moje dzieci!}
-{441}{}{A ty masz z nimi uk³ad tak?}
-{450}{}{Pszynosz¹ mi wszystkie swoje snalesiska. Takie tam malutkie pierdu³ki. Takie, co to ich nikt inny nie potszebuje. A ja siê nimi w samian opiekujê.}
-{451}{}{To chyba niez³y uk³ad.}
-{460}{}{Taa...bisnes siê krêci³, do casu twojego pszybycia. Widzisz, twój ma³y wyczyn duso mnie bêdzie kosztowa³. Mój bisnes pszes ciebie ucierpia³. Pszes to nie za bardzo ciê lubiê. W³aœciwie to ciê kurdê nienawidsê. Ale, jestem bisnesmenem i jeseli chcesz pohandlowaæ to biesmy siê sa to, w przeciwnym wypadku sjesdzaj st¹d.}
-{461}{}{Dobra, wiêc zobaczmy co tam masz.}
-{462}{}{Myœlê, ¿e mam wszystko czego potrzebowa³em. ¯egnaj.}
-{463}{}{Myœlê, ¿e jeszcze zostanê...i skopie ci dupsko.}
-{470}{}{Snowu ty? Lepiej seby celem twojej wisyty by³a wymiana towaru, sam twój widok powoduje u mnie odruch wymiotny. A w³aœciwie, to rzygam odrobinê w ustach sa ka¿dym rasem jak cie widse. Tak bardso mnie brzydzisz. Wiêc jeœli nie przyhodzisz handlowaæ, to sugeruje w ty³ swrot i na przód marsz, st¹d w cholerê.}
+{363}{}{Kim jest MamuÅ›ka?}
+{364}{}{DziÄ™kujÄ™. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{365}{}{DziÄ™ki, to juÅ¼ chyba wszystko. Do widzenia.}
+{380}{}{MamuÅ›ka prowadzi restauracjÄ™ we wschodniej czÄ™Å›ci miasta. Saras sa Cmentarzem. Fajne miejsce, dobre spaghetti, Mama mia.}
+{381}{}{DziÄ™ki, a co z tym Metsgerem, ktÃ³ry przetrzymuje Vica?}
+{382}{}{DziÄ™kujÄ™. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{383}{}{DziÄ™ki, to juÅ¼ chyba wszystko. Do widzenia.}
+{400}{}{A, tak! Metsger, ten stronzo, juÅ¼ nie Å¼yje. Nie wiem co siÄ™ staÅ‚o z Vicem.}
+{401}{}{Ten Metsger, to prawdziwy rompiballe. Prowadzi gildiÄ™ Å‚owcÃ³w niewolnikÃ³w. To na wschodzie, saras na pÃ³Å‚noc od MamuÅ›ki. To on uwiÄ™ziÅ‚ Vica.}
+{402}{}{DziÄ™ki, a co z MamuÅ›kÄ…?}
+{403}{}{DziÄ™kujÄ™. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{404}{}{DziÄ™ki, to juÅ¼ chyba wszystko. Do widzenia.}
+{410}{}{Jasna dupa, kogo ja kurdÄ™ widzÄ™. Sbawienie uciÅ›nionych, ratunek kurdÄ™ dzieci, zaszczyca mnie swÄ… obecnoÅ›ciÄ…. Sam jestem dobrym Samurajtaninem. Dbam o te maÅ‚e urwipoÅ‚cie. To snaczy kurdÄ™ dbaÅ‚em do czasu as udaÅ‚o ci siÄ™ useczywistniÄ‡ cholerne plany MamuÅ›ki.}
+{411}{}{Jasna dupa, kogo ja kurdÄ™ widzÄ™. Sbawienie uciÅ›nionych, ratunek kurdÄ™ dzieci, zaszczyca mnie swÄ… obecnoÅ›ciÄ…. Sam jestem dobrym Samurajtaninem. Dbam o te maÅ‚e urwipoÅ‚cie. To snaczy kurdÄ™ dbaÅ‚em do czasu as udaÅ‚o ci siÄ™ useczywistniÄ‡ cholerne plany MamuÅ›ki.}
+{412}{}{Handlujesz miÄ™sem, tak?}
+{413}{}{MÃ³wisz jak by ci nie odpowiadaÅ‚o, Å¼e dzieci juÅ¼ nie wÅ‚Ã³czÄ… siÄ™ po ulicach.}
+{420}{}{Hej, nie srosum mnie Åºle. Å»ycie na ulicach jest ciÄ™skie dla dzieci, ale naprawdÄ™ dobija mnie fakt, se sakoÅ„czyÅ‚o to nasz maÅ‚y ukÅ‚ad.}
+{421}{}{Jaki ukÅ‚ad?}
+{422}{}{Masz na myÅ›li sprzedaÅ¼ rzeczy ktÃ³re dla ciebie kradÅ‚y?}
+{430}{}{Nie pszemÄ…dsaj siÄ™ tutaj. Dzieciaki pszynosiÅ‚y mi wszystkie swoje snalesiska. Nie wiem skÄ…d je braÅ‚y i szczese mÃ³wiÄ…c gÃ³wno mnie to obchodzi.}
+{431}{}{W porzÄ…dku.}
+{432}{}{Chrzanisz. Mam powyÅ¼ej uszu ludzi takich jak ty, ktÃ³rzy wykorzystujÄ… innych dla wÅ‚asnego zysku. Czas ciÄ™ uÅ›piÄ‡!}
+{440}{}{UrwipoÅ‚cie! No, kumasz, dzieci. Moje dzieci!}
+{441}{}{A ty masz z nimi ukÅ‚ad tak?}
+{450}{}{PszynoszÄ… mi wszystkie swoje snalesiska. Takie tam malutkie pierduÅ‚ki. Takie, co to ich nikt inny nie potszebuje. A ja siÄ™ nimi w samian opiekujÄ™.}
+{451}{}{To chyba niezÅ‚y ukÅ‚ad.}
+{460}{}{Taa...bisnes siÄ™ krÄ™ciÅ‚, do casu twojego pszybycia. Widzisz, twÃ³j maÅ‚y wyczyn duso mnie bÄ™dzie kosztowaÅ‚. MÃ³j bisnes pszes ciebie ucierpiaÅ‚. Pszes to nie za bardzo ciÄ™ lubiÄ™. WÅ‚aÅ›ciwie to ciÄ™ kurdÄ™ nienawidsÄ™. Ale, jestem bisnesmenem i jeseli chcesz pohandlowaÄ‡ to biesmy siÄ™ sa to, w przeciwnym wypadku sjesdzaj stÄ…d.}
+{461}{}{Dobra, wiÄ™c zobaczmy co tam masz.}
+{462}{}{MyÅ›lÄ™, Å¼e mam wszystko czego potrzebowaÅ‚em. Å»egnaj.}
+{463}{}{MyÅ›lÄ™, Å¼e jeszcze zostanÄ™...i skopie ci dupsko.}
+{470}{}{Snowu ty? Lepiej seby celem twojej wisyty byÅ‚a wymiana towaru, sam twÃ³j widok powoduje u mnie odruch wymiotny. A wÅ‚aÅ›ciwie, to rzygam odrobinÄ™ w ustach sa kaÅ¼dym rasem jak cie widse. Tak bardso mnie brzydzisz. WiÄ™c jeÅ›li nie przyhodzisz handlowaÄ‡, to sugeruje w tyÅ‚ swrot i na przÃ³d marsz, stÄ…d w cholerÄ™.}
 {471}{}{Pohandlujmy.}
-{472}{}{Tylko pytam. Có¿, ¿egnaj Flick.}
-{480}{}{Nie traæ mojego czasu?}
-{481}{}{Pozwól, ¿e zerknê jeszcze raz.}
-{482}{}{To powinno wystarczyæ. ¯egnaj Flick.}
+{472}{}{Tylko pytam. CÃ³Å¼, Å¼egnaj Flick.}
+{480}{}{Nie traÄ‡ mojego czasu?}
+{481}{}{PozwÃ³l, Å¼e zerknÄ™ jeszcze raz.}
+{482}{}{To powinno wystarczyÄ‡. Å»egnaj Flick.}

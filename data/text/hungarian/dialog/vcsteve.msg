@@ -1,15 +1,15 @@
-{100}{}{Egy bambán vigyorgó fiatalembert látsz, kezében egy halom papírral.}
-{101}{}{Steve, Menedékváros Üdvözl? Hivatalának Segéd Üdvözl?je.}
-{102}{}{Üres a tekintete.}
-{103}{}{Üdvözöllek Menedékvárosban, Új Kalifornia legjobb városában. Steve vagyok, miben segíthetek?}
-{104}{}{Ez az egész bekerített rész a városhoz tartozik?}
-{105}{}{Mit értesz azon, hogy a "legjobb város"?}
-{106}{}{A Menedéket keresem. Megmondanád, hol találom?}
-{107}{}{Viszlát!}
-{108}{}{[zavartan kotorászik a papírjai között]... nem gondoltam, hogy pont ezt fogod kérdezni.}
-{109}{}{Papírok nélkül nem megy, öcsi?}
-{110}{}{Mindenesetre köszönöm.}
-{111}{}{[kivesz egy röplapot a halomból és olvasni kezdi]  Ha egy Kívülálló ... [rád bök az ujjával] ... pimaszkodik egy Polgárral ... [magára mutat] ... azonnal jelentsd Melindának! Elnézést, de jelentenivalóm van, most nem érek rá veled foglalkozni.}
-{112}{}{Hülye!}
-{113}{}{Üdvözöllek az Üdvözl? Hivatalban. Steve vagyok.}
-{114}{}{[zavartan kotorászik a papírjai között]... nem gondoltam, hogy pont ezt fogod kérdezni.}
+{100}{}{Egy bambÃ¡n vigyorgÃ³ fiatalembert lÃ¡tsz, kezÃ©ben egy halom papÃ­rral.}
+{101}{}{Steve, MenedÃ©kvÃ¡ros ÃœdvÃ¶zl? HivatalÃ¡nak SegÃ©d ÃœdvÃ¶zl?je.}
+{102}{}{Ãœres a tekintete.}
+{103}{}{ÃœdvÃ¶zÃ¶llek MenedÃ©kvÃ¡rosban, Ãšj Kalifornia legjobb vÃ¡rosÃ¡ban. Steve vagyok, miben segÃ­thetek?}
+{104}{}{Ez az egÃ©sz bekerÃ­tett rÃ©sz a vÃ¡roshoz tartozik?}
+{105}{}{Mit Ã©rtesz azon, hogy a "legjobb vÃ¡ros"?}
+{106}{}{A MenedÃ©ket keresem. MegmondanÃ¡d, hol talÃ¡lom?}
+{107}{}{ViszlÃ¡t!}
+{108}{}{[zavartan kotorÃ¡szik a papÃ­rjai kÃ¶zÃ¶tt]... nem gondoltam, hogy pont ezt fogod kÃ©rdezni.}
+{109}{}{PapÃ­rok nÃ©lkÃ¼l nem megy, Ã¶csi?}
+{110}{}{Mindenesetre kÃ¶szÃ¶nÃ¶m.}
+{111}{}{[kivesz egy rÃ¶plapot a halombÃ³l Ã©s olvasni kezdi]  Ha egy KÃ­vÃ¼lÃ¡llÃ³ ... [rÃ¡d bÃ¶k az ujjÃ¡val] ... pimaszkodik egy PolgÃ¡rral ... [magÃ¡ra mutat] ... azonnal jelentsd MelindÃ¡nak! ElnÃ©zÃ©st, de jelentenivalÃ³m van, most nem Ã©rek rÃ¡ veled foglalkozni.}
+{112}{}{HÃ¼lye!}
+{113}{}{ÃœdvÃ¶zÃ¶llek az ÃœdvÃ¶zl? Hivatalban. Steve vagyok.}
+{114}{}{[zavartan kotorÃ¡szik a papÃ­rjai kÃ¶zÃ¶tt]... nem gondoltam, hogy pont ezt fogod kÃ©rdezni.}

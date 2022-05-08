@@ -1,1 +1,1 @@
-{100}{}{Você entrou em uma pequena cidade chamada Klamath.}
+{100}{}{VocÃª entrou em uma pequena cidade chamada Klamath.}

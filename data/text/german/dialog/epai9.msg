@@ -1,9 +1,9 @@
-{100}{}{Diese Tür ist verschlossen.}
-{101}{}{Du siehst eine verschlossene Tür die dir den Zutritt verwehrt.}
-{102}{}{Du siehst eine robuste Tür.}
-{103}{}{Die Tür ist nun aufgeschlossen.}
-{104}{}{Diese Tür ist schon längst aufgeschlossen und offen.}
-{105}{}{Es misslingt dir die Tür aufzuschließen.}
+{100}{}{Diese TÃ¼r ist verschlossen.}
+{101}{}{Du siehst eine verschlossene TÃ¼r die dir den Zutritt verwehrt.}
+{102}{}{Du siehst eine robuste TÃ¼r.}
+{103}{}{Die TÃ¼r ist nun aufgeschlossen.}
+{104}{}{Diese TÃ¼r ist schon lÃ¤ngst aufgeschlossen und offen.}
+{105}{}{Es misslingt dir die TÃ¼r aufzuschlieÃŸen.}
 {106}{}{Das Schloss hat sich verklemmt.}
-{107}{}{Die Tür ist jetzt verschlossen.}
-{108}{}{Du konntest die Tür nicht abschließen.}
+{107}{}{Die TÃ¼r ist jetzt verschlossen.}
+{108}{}{Du konntest die TÃ¼r nicht abschlieÃŸen.}

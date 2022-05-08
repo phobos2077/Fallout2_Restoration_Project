@@ -1,141 +1,141 @@
 {100}{}{? Madame Modjeska.}
 {101}{}{? Madame Modjeska.}
 {102}{}{Hagyj magamra!}
-{103}{}{Menj el, kérlek!}
+{103}{}{Menj el, kÃ©rlek!}
 {104}{}{Ne zaklass!}
-{105}{}{Kérlek, ne zargass!}
-{106}{}{Nem bírom az idiótákat!}
-{107}{}{A cs?cseléket csak a Jet érdekli. Ez az egyetlen, ami segít nekik elviselni ezt a helyet.}
-{108}{}{Feltennék még kérdéseket.}
+{105}{}{KÃ©rlek, ne zargass!}
+{106}{}{Nem bÃ­rom az idiÃ³tÃ¡kat!}
+{107}{}{A cs?cselÃ©ket csak a Jet Ã©rdekli. Ez az egyetlen, ami segÃ­t nekik elviselni ezt a helyet.}
+{108}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {109}{}{Jet? Az meg micsoda?}
-{110}{}{Értem. Viszlát!}
-{111}{}{A Jetnek is megvan a haszna. Segít a használójának elviselni az ?t körülvev? mocskot.}
-{112}{}{Feltennék még kérdéseket.}
+{110}{}{Ã‰rtem. ViszlÃ¡t!}
+{111}{}{A Jetnek is megvan a haszna. SegÃ­t a hasznÃ¡lÃ³jÃ¡nak elviselni az ?t kÃ¶rÃ¼lvev? mocskot.}
+{112}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {113}{}{Jet? Az meg micsoda?}
-{114}{}{Értem. Viszlát!}
-{115}{}{A Jet ára nagyon felment mostanában. Bár azt hallottam, hogy a népszer?ségnek örvend? Ascorti polgármester már dolgozik az ellátás javításán. Mindig is a népet szolgálta. }
-{116}{}{Feltennék még kérdéseket.}
-{117}{}{Ascorti polgármester? Ki ? pontosan?}
+{114}{}{Ã‰rtem. ViszlÃ¡t!}
+{115}{}{A Jet Ã¡ra nagyon felment mostanÃ¡ban. BÃ¡r azt hallottam, hogy a nÃ©pszer?sÃ©gnek Ã¶rvend? Ascorti polgÃ¡rmester mÃ¡r dolgozik az ellÃ¡tÃ¡s javÃ­tÃ¡sÃ¡n. Mindig is a nÃ©pet szolgÃ¡lta. }
+{116}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{117}{}{Ascorti polgÃ¡rmester? Ki ? pontosan?}
 {118}{}{Jet? Az meg micsoda?}
-{119}{}{Értem. Viszlát!}
-{120}{}{Szinte mindenki beteg. Az utolsó Jet szállítmány után mindenki leállt az anyaggal. Szerintem már nem bírják sokáig. }
-{121}{}{Feltennék még kérdéseket.}
+{119}{}{Ã‰rtem. ViszlÃ¡t!}
+{120}{}{Szinte mindenki beteg. Az utolsÃ³ Jet szÃ¡llÃ­tmÃ¡ny utÃ¡n mindenki leÃ¡llt az anyaggal. Szerintem mÃ¡r nem bÃ­rjÃ¡k sokÃ¡ig. }
+{121}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {122}{}{Jet? Az meg micsoda?}
-{123}{}{Értem. Viszlát!}
-{124}{}{Úgy t?nik, tévedtem. A legkeményebb Jet függ?k is leálltak az anyaggal. A legutóbbi szállítmány után olyan betegek lettek, hogy a legtöbben még a szagát sem bírják.}
-{125}{}{Feltennék még kérdéseket.}
+{123}{}{Ã‰rtem. ViszlÃ¡t!}
+{124}{}{Ãšgy t?nik, tÃ©vedtem. A legkemÃ©nyebb Jet fÃ¼gg?k is leÃ¡lltak az anyaggal. A legutÃ³bbi szÃ¡llÃ­tmÃ¡ny utÃ¡n olyan betegek lettek, hogy a legtÃ¶bben mÃ©g a szagÃ¡t sem bÃ­rjÃ¡k.}
+{125}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {126}{}{Jet? Az meg micsoda?}
-{127}{}{Értem. Viszlát!}
-{128}{}{Én Madame Modjeska vagyok. Mit óhajtasz t?lem?}
-{129}{}{Miben segíthetek?}
-{130}{}{Nincs pazarolni való id?m. Mit akarsz Madame Modjeskától?}
-{131}{}{Ezzel aligha tudnál most zavarni. Mit akarsz?}
-{132}{}{Madame Modjeska ma nem érzi jól magát. Mit akarsz t?le?}
-{133}{}{Úgy hasogat a fejem. mintha ketté akarna szakadni. Mit akarsz t?lem?}
-{134}{}{Madame Modjeska vagyok. Egykori Jet használó, többek között. Most már más dolgok kötnek le. Úgy látom, a Jetet többé nem veszi be a szervezetem.}
-{135}{}{Mit tehet érted a Madame?}
-{136}{}{Mit csinál itt, Madame Modjeska?}
+{127}{}{Ã‰rtem. ViszlÃ¡t!}
+{128}{}{Ã‰n Madame Modjeska vagyok. Mit Ã³hajtasz t?lem?}
+{129}{}{Miben segÃ­thetek?}
+{130}{}{Nincs pazarolni valÃ³ id?m. Mit akarsz Madame ModjeskÃ¡tÃ³l?}
+{131}{}{Ezzel aligha tudnÃ¡l most zavarni. Mit akarsz?}
+{132}{}{Madame Modjeska ma nem Ã©rzi jÃ³l magÃ¡t. Mit akarsz t?le?}
+{133}{}{Ãšgy hasogat a fejem. mintha kettÃ© akarna szakadni. Mit akarsz t?lem?}
+{134}{}{Madame Modjeska vagyok. Egykori Jet hasznÃ¡lÃ³, tÃ¶bbek kÃ¶zÃ¶tt. Most mÃ¡r mÃ¡s dolgok kÃ¶tnek le. Ãšgy lÃ¡tom, a Jetet tÃ¶bbÃ© nem veszi be a szervezetem.}
+{135}{}{Mit tehet Ã©rted a Madame?}
+{136}{}{Mit csinÃ¡l itt, Madame Modjeska?}
 {137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
-{138}{}{Hallott valami érdekes szóbeszédet?}
-{139}{}{Miért hívják Madame Modjeskának?}
+{138}{}{Hallott valami Ã©rdekes szÃ³beszÃ©det?}
+{139}{}{MiÃ©rt hÃ­vjÃ¡k Madame ModjeskÃ¡nak?}
 {140}{}{Mi a baja?}
-{141}{}{Mi történt önnel?}
-{142}{}{Mostanában nem dolgozom sokat. Nemrég még besegítettem Lou-nak a Malamute Szalonban, de volt egy kis összezörrenésünk és kiléptem.}
-{143}{}{Hadd kérdezzek valami mást akkor.}
-{144}{}{Értem. Csak ennyi érdekelt volna. Viszlát!}
-{145}{}{Folyton csak a politika. Ez mindig jól megkavarja a beszélgetést.}
-{146}{}{Politika? Mit ért ez alatt?}
-{147}{}{Hát persze. Kérdezhetnék valami mást?}
-{148}{}{Nos, ez minden, amit tudni akartam. Viszlát!}
-{149}{}{Régebben a Malamute Szalonban dolgoztam. Ott a munkához tartozott. hogy Mamade-nak hívtak. Aztán a név rámragadt, mégha nem is dolgozom már ott.}
+{141}{}{Mi tÃ¶rtÃ©nt Ã¶nnel?}
+{142}{}{MostanÃ¡ban nem dolgozom sokat. NemrÃ©g mÃ©g besegÃ­tettem Lou-nak a Malamute Szalonban, de volt egy kis Ã¶sszezÃ¶rrenÃ©sÃ¼nk Ã©s kilÃ©ptem.}
+{143}{}{Hadd kÃ©rdezzek valami mÃ¡st akkor.}
+{144}{}{Ã‰rtem. Csak ennyi Ã©rdekelt volna. ViszlÃ¡t!}
+{145}{}{Folyton csak a politika. Ez mindig jÃ³l megkavarja a beszÃ©lgetÃ©st.}
+{146}{}{Politika? Mit Ã©rt ez alatt?}
+{147}{}{HÃ¡t persze. KÃ©rdezhetnÃ©k valami mÃ¡st?}
+{148}{}{Nos, ez minden, amit tudni akartam. ViszlÃ¡t!}
+{149}{}{RÃ©gebben a Malamute Szalonban dolgoztam. Ott a munkÃ¡hoz tartozott. hogy Mamade-nak hÃ­vtak. AztÃ¡n a nÃ©v rÃ¡mragadt, mÃ©gha nem is dolgozom mÃ¡r ott.}
 {150}{}{Hol dolgozik most?}
-{151}{}{Feltennék még kérdéseket.}
-{152}{}{Azt hiszem, ez minden, amit tudni akartam. Viszlát!}
-{153}{}{Pár napja szívtam egy löket Jetet, amit?l nagyon rosszul lettem. Biztos a szennyezett szállítmányból volt. A lényeg, hogy ezek után nem vágyom rá túlságosan. Szerintem visszaállok a piára.}
-{154}{}{Nem hangzik túl jól. De hadd kérdezzek valami mást.}
-{155}{}{Értem. Csak ennyi érdekelt volna. Viszlát!}
-{156}{}{Jobban vagyok, mint ahogy kinézek. Nem sokkal, de éppen eléggé.}
-{157}{}{Miért? Mi történt?}
-{158}{}{Láttál már valaha zsíros-brahmin versenyt?}
-{159}{}{Persze hogy láttam. Épp elégszer. Kérdezhetek inkább valami mást?}
-{160}{}{Nem, még sosem hallottam ilyesmir?l. Mesélne róla?}
-{161}{}{Nem tudom, mi köze ennek a helyi politikához, de nem is szeretném megtudni. Viszlát!}
-{162}{}{A legutóbbi szennyezett szállítmány óta leálltam a Jettel. Talán, ha jobban leszek, leiszom magam. (nevet)}
-{163}{}{Hát, sok sikert. Hadd kérdezzek valamit!}
-{164}{}{Ez érdekes. Mindenesetre jobbulást kívánok. Viszlát!}
-{165}{}{A dolog úgy m?ködik, hogy egy brahmin borjút alaposan bekennek zsírral, aztán a tömegben mindenki megpróbálja elkapni. Ha nem tudod elkapni, legalább megpróbálod megakadályozni, nehogy bárki másnak sikerüljön.}
-{166}{}{Nem értem, mi köze van ennek a politikához.}
-{167}{}{Hát persze. Azt hiszem, eleget hallottam, Madame. Viszlát!}
-{168}{}{Ebben a játszmában Redding a borjú, és nem is akármilyen. New Reno, az Új Kalifornia Köztársaság és Menedékváros mind meg akar kaparintani minket... vagy legalább megakadályozni, hogy a másik városnak sikerüljön.}
-{169}{}{Ezt most hogy kell értenem?}
-{170}{}{Nem semmi. Na, jobb, ha most megyek, Madame. Köszönöm az információt. Viszlát!}
-{171}{}{Mi itt Reddingben aranyat bányászunk, amit New Renóban, az Új Kalifornia Köztársaságban és Menedékvárosban mindenféle árura cserélünk. Persze mindegyik város magának akarja az összes aranyat.}
-{172}{}{Akkor miért nem támadják meg Reddinget és veszik el az aranyat er?vel?}
-{173}{}{Na, és ki nem? Azt hiszem, megyek és én is megpróbálok némi aranyat találni. Köszönöm és viszlát!}
-{174}{}{Azért elég nagy ez a város, és szerencsére elég messze is vagyunk. Így egy támadás nemcsak drága lenne, de veszélyes is. Sokkal jobban járnak, ha magunktól csatlakozunk.}
-{175}{}{Ezt most hogy kell értenem?}
-{176}{}{Ebben lehet valami. Köszönöm a felvilágosítást. Viszlát!}
-{177}{}{Mindhárom hatalom igyekszik rávenni Reddinget hogy döntsön végre és szövetkezzen velük. Mindnek vannak er?s támogatóik a városban, és a helyzet egyre éget?bb. Reddingnek hamarosan döntenie kell.}
+{151}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{152}{}{Azt hiszem, ez minden, amit tudni akartam. ViszlÃ¡t!}
+{153}{}{PÃ¡r napja szÃ­vtam egy lÃ¶ket Jetet, amit?l nagyon rosszul lettem. Biztos a szennyezett szÃ¡llÃ­tmÃ¡nybÃ³l volt. A lÃ©nyeg, hogy ezek utÃ¡n nem vÃ¡gyom rÃ¡ tÃºlsÃ¡gosan. Szerintem visszaÃ¡llok a piÃ¡ra.}
+{154}{}{Nem hangzik tÃºl jÃ³l. De hadd kÃ©rdezzek valami mÃ¡st.}
+{155}{}{Ã‰rtem. Csak ennyi Ã©rdekelt volna. ViszlÃ¡t!}
+{156}{}{Jobban vagyok, mint ahogy kinÃ©zek. Nem sokkal, de Ã©ppen elÃ©ggÃ©.}
+{157}{}{MiÃ©rt? Mi tÃ¶rtÃ©nt?}
+{158}{}{LÃ¡ttÃ¡l mÃ¡r valaha zsÃ­ros-brahmin versenyt?}
+{159}{}{Persze hogy lÃ¡ttam. Ã‰pp elÃ©gszer. KÃ©rdezhetek inkÃ¡bb valami mÃ¡st?}
+{160}{}{Nem, mÃ©g sosem hallottam ilyesmir?l. MesÃ©lne rÃ³la?}
+{161}{}{Nem tudom, mi kÃ¶ze ennek a helyi politikÃ¡hoz, de nem is szeretnÃ©m megtudni. ViszlÃ¡t!}
+{162}{}{A legutÃ³bbi szennyezett szÃ¡llÃ­tmÃ¡ny Ã³ta leÃ¡lltam a Jettel. TalÃ¡n, ha jobban leszek, leiszom magam. (nevet)}
+{163}{}{HÃ¡t, sok sikert. Hadd kÃ©rdezzek valamit!}
+{164}{}{Ez Ã©rdekes. Mindenesetre jobbulÃ¡st kÃ­vÃ¡nok. ViszlÃ¡t!}
+{165}{}{A dolog Ãºgy m?kÃ¶dik, hogy egy brahmin borjÃºt alaposan bekennek zsÃ­rral, aztÃ¡n a tÃ¶megben mindenki megprÃ³bÃ¡lja elkapni. Ha nem tudod elkapni, legalÃ¡bb megprÃ³bÃ¡lod megakadÃ¡lyozni, nehogy bÃ¡rki mÃ¡snak sikerÃ¼ljÃ¶n.}
+{166}{}{Nem Ã©rtem, mi kÃ¶ze van ennek a politikÃ¡hoz.}
+{167}{}{HÃ¡t persze. Azt hiszem, eleget hallottam, Madame. ViszlÃ¡t!}
+{168}{}{Ebben a jÃ¡tszmÃ¡ban Redding a borjÃº, Ã©s nem is akÃ¡rmilyen. New Reno, az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡g Ã©s MenedÃ©kvÃ¡ros mind meg akar kaparintani minket... vagy legalÃ¡bb megakadÃ¡lyozni, hogy a mÃ¡sik vÃ¡rosnak sikerÃ¼ljÃ¶n.}
+{169}{}{Ezt most hogy kell Ã©rtenem?}
+{170}{}{Nem semmi. Na, jobb, ha most megyek, Madame. KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. ViszlÃ¡t!}
+{171}{}{Mi itt Reddingben aranyat bÃ¡nyÃ¡szunk, amit New RenÃ³ban, az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡gban Ã©s MenedÃ©kvÃ¡rosban mindenfÃ©le Ã¡rura cserÃ©lÃ¼nk. Persze mindegyik vÃ¡ros magÃ¡nak akarja az Ã¶sszes aranyat.}
+{172}{}{Akkor miÃ©rt nem tÃ¡madjÃ¡k meg Reddinget Ã©s veszik el az aranyat er?vel?}
+{173}{}{Na, Ã©s ki nem? Azt hiszem, megyek Ã©s Ã©n is megprÃ³bÃ¡lok nÃ©mi aranyat talÃ¡lni. KÃ¶szÃ¶nÃ¶m Ã©s viszlÃ¡t!}
+{174}{}{AzÃ©rt elÃ©g nagy ez a vÃ¡ros, Ã©s szerencsÃ©re elÃ©g messze is vagyunk. Ãgy egy tÃ¡madÃ¡s nemcsak drÃ¡ga lenne, de veszÃ©lyes is. Sokkal jobban jÃ¡rnak, ha magunktÃ³l csatlakozunk.}
+{175}{}{Ezt most hogy kell Ã©rtenem?}
+{176}{}{Ebben lehet valami. KÃ¶szÃ¶nÃ¶m a felvilÃ¡gosÃ­tÃ¡st. ViszlÃ¡t!}
+{177}{}{MindhÃ¡rom hatalom igyekszik rÃ¡venni Reddinget hogy dÃ¶ntsÃ¶n vÃ©gre Ã©s szÃ¶vetkezzen velÃ¼k. Mindnek vannak er?s tÃ¡mogatÃ³ik a vÃ¡rosban, Ã©s a helyzet egyre Ã©get?bb. Reddingnek hamarosan dÃ¶ntenie kell.}
 {178}{}{Hogyhogy kell?}
 {179}{}{Ki kivel van?}
-{180}{}{Pénz. Hmm. Hát, nekem most mennem kell. Viszlát!}
-{181}{}{Sajnos a zsír kezd lekopni a borjúról. Hamarosan az egyik hatalomnak latba kell vetnie az erejét, hogy megszerezze Reddinget a többiek el?l. Amikor ez bekövetkezik, az embereknek baja eshet. Sokuknak.}
+{180}{}{PÃ©nz. Hmm. HÃ¡t, nekem most mennem kell. ViszlÃ¡t!}
+{181}{}{Sajnos a zsÃ­r kezd lekopni a borjÃºrÃ³l. Hamarosan az egyik hatalomnak latba kell vetnie az erejÃ©t, hogy megszerezze Reddinget a tÃ¶bbiek el?l. Amikor ez bekÃ¶vetkezik, az embereknek baja eshet. Sokuknak.}
 {182}{}{Ki kivel van?}
-{183}{}{Miért eshet baja az embereknek?}
-{184}{}{Köszönöm az információt. Viszontlátásra!}
-{185}{}{Nem vagyok teljesen biztos benne, de azt hiszem, valahogy így fest a helyzet: New Reno érdekeit Dan McGrew képviseli, ÚKK-t Marge LeBarge, Menedékvárost pedig Johnson doki. Azt nem tudom, hogy Ascorti polgármester kivel van.}
-{186}{}{És hogyan segíthetik ezek az emberek a hatalomátvételt?}
+{183}{}{MiÃ©rt eshet baja az embereknek?}
+{184}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. ViszontlÃ¡tÃ¡sra!}
+{185}{}{Nem vagyok teljesen biztos benne, de azt hiszem, valahogy Ã­gy fest a helyzet: New Reno Ã©rdekeit Dan McGrew kÃ©pviseli, ÃšKK-t Marge LeBarge, MenedÃ©kvÃ¡rost pedig Johnson doki. Azt nem tudom, hogy Ascorti polgÃ¡rmester kivel van.}
+{186}{}{Ã‰s hogyan segÃ­thetik ezek az emberek a hatalomÃ¡tvÃ©telt?}
 {187}{}{Ki az a Marge LeBarge?}
 {188}{}{Ki az a Dan McGrew?}
 {189}{}{Ki az a Johnson doki?}
 {190}{}{Kicsoda Ascorti?}
-{191}{}{Köszönöm az információt. Viszontlátásra!}
-{192}{}{Azért eshet bajuk, mert egy ilyen mérték? változás nem megy könnyen. Amelyik hatalom rájön, hogy nem kaphatja meg a várost, arra fog törekedni, hogy a többiek se kaphassák meg. Az egyetlen lehet?ség a baj elkerülésére, hogy ha minél el?bb eldöntjük, kivel tartunk, és gyorsan szövetséget kötünk, miel?tt a többiek rájönnének.}
-{193}{}{Maga szerint mi fog történni?}
-{194}{}{Értem. Köszönöm, és viszlát!}
-{195}{}{Szerintem az itteniek Ascorti polgármestert fogják követni. Hitvány alak, de az emberek bíznak benne. ? pedig a leger?sebbhez fog csatlakozni. Szerintem ami Ascortinak jó, az Reddingnek is jó. Csak még nem döntötte el, kivel tartson. Hamarosan döntenie kell.}
-{196}{}{Hadd kérdezzek valami mást.}
-{197}{}{Köszönöm, hogy felvilágosított az itteni helyzetet érint? kérdésekben. Viszontlátásra!}
-{198}{}{Marge LeBarge a Kokoweef bánya tulajdonosa. Ez, és a Morningstar bánya az utolsó két m?köd? bánya Reddingben. Azt hiszem, Marge inkább az ÚKK-hoz húz. Nem hinném, hogy bírja a pr?dségüket, de tisztában van az erejükkel.}
+{191}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. ViszontlÃ¡tÃ¡sra!}
+{192}{}{AzÃ©rt eshet bajuk, mert egy ilyen mÃ©rtÃ©k? vÃ¡ltozÃ¡s nem megy kÃ¶nnyen. Amelyik hatalom rÃ¡jÃ¶n, hogy nem kaphatja meg a vÃ¡rost, arra fog tÃ¶rekedni, hogy a tÃ¶bbiek se kaphassÃ¡k meg. Az egyetlen lehet?sÃ©g a baj elkerÃ¼lÃ©sÃ©re, hogy ha minÃ©l el?bb eldÃ¶ntjÃ¼k, kivel tartunk, Ã©s gyorsan szÃ¶vetsÃ©get kÃ¶tÃ¼nk, miel?tt a tÃ¶bbiek rÃ¡jÃ¶nnÃ©nek.}
+{193}{}{Maga szerint mi fog tÃ¶rtÃ©nni?}
+{194}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m, Ã©s viszlÃ¡t!}
+{195}{}{Szerintem az itteniek Ascorti polgÃ¡rmestert fogjÃ¡k kÃ¶vetni. HitvÃ¡ny alak, de az emberek bÃ­znak benne. ? pedig a leger?sebbhez fog csatlakozni. Szerintem ami Ascortinak jÃ³, az Reddingnek is jÃ³. Csak mÃ©g nem dÃ¶ntÃ¶tte el, kivel tartson. Hamarosan dÃ¶ntenie kell.}
+{196}{}{Hadd kÃ©rdezzek valami mÃ¡st.}
+{197}{}{KÃ¶szÃ¶nÃ¶m, hogy felvilÃ¡gosÃ­tott az itteni helyzetet Ã©rint? kÃ©rdÃ©sekben. ViszontlÃ¡tÃ¡sra!}
+{198}{}{Marge LeBarge a Kokoweef bÃ¡nya tulajdonosa. Ez, Ã©s a Morningstar bÃ¡nya az utolsÃ³ kÃ©t m?kÃ¶d? bÃ¡nya Reddingben. Azt hiszem, Marge inkÃ¡bb az ÃšKK-hoz hÃºz. Nem hinnÃ©m, hogy bÃ­rja a pr?dsÃ©gÃ¼ket, de tisztÃ¡ban van az erejÃ¼kkel.}
 {199}{}{Ki az a Dan McGrew?}
 {200}{}{Ki az a Johnson doki?}
 {201}{}{Kicsoda Ascorti?}
-{202}{}{Hogyan segíthetnek ?k a hatalomátvételben?}
-{203}{}{Köszönöm az információt. Viszontlátásra!}
-{204}{}{Veszélyes Dan McGrew... na igen. ? a Morningstar bánya tulajdonosa. Ez, és a Kokoweef bánya a két utolsó m?köd? bánya Reddingben. Ha tippelnem kéne, azt mondanám, Dan New Reno felé húz. Szereti, ha a bányászai rendesen el vannak látva droggal, mert akkor nincs velük gond.}
+{202}{}{Hogyan segÃ­thetnek ?k a hatalomÃ¡tvÃ©telben?}
+{203}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. ViszontlÃ¡tÃ¡sra!}
+{204}{}{VeszÃ©lyes Dan McGrew... na igen. ? a Morningstar bÃ¡nya tulajdonosa. Ez, Ã©s a Kokoweef bÃ¡nya a kÃ©t utolsÃ³ m?kÃ¶d? bÃ¡nya Reddingben. Ha tippelnem kÃ©ne, azt mondanÃ¡m, Dan New Reno felÃ© hÃºz. Szereti, ha a bÃ¡nyÃ¡szai rendesen el vannak lÃ¡tva droggal, mert akkor nincs velÃ¼k gond.}
 {205}{}{Ki az a Marge LeBarge?}
 {206}{}{Ki az a Johnson doki?}
 {207}{}{Kicsoda Ascorti?}
-{208}{}{Hogyan segíthetnek ?k a hatalomátvételben?}
-{209}{}{Köszönöm az információt. Viszontlátásra!}
-{210}{}{Ascorti a reddingi polgármester. Övé az 'Ascorti Ásza' kaszinó. Ezenkívül mindenféle dologgal kereskedik. Mindenben benne van a keze.}
-{211}{}{Ascorti Redding polgármestere. De nem tudom, most merre lehet. Nem láttam már egy ideje.}
-{212}{}{Hadd kérdezzek valami mást.}
-{213}{}{Azt hiszem, épp eleget hallgattam magát. Viszlát!}
+{208}{}{Hogyan segÃ­thetnek ?k a hatalomÃ¡tvÃ©telben?}
+{209}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. ViszontlÃ¡tÃ¡sra!}
+{210}{}{Ascorti a reddingi polgÃ¡rmester. Ã–vÃ© az 'Ascorti Ãsza' kaszinÃ³. EzenkÃ­vÃ¼l mindenfÃ©le dologgal kereskedik. Mindenben benne van a keze.}
+{211}{}{Ascorti Redding polgÃ¡rmestere. De nem tudom, most merre lehet. Nem lÃ¡ttam mÃ¡r egy ideje.}
+{212}{}{Hadd kÃ©rdezzek valami mÃ¡st.}
+{213}{}{Azt hiszem, Ã©pp eleget hallgattam magÃ¡t. ViszlÃ¡t!}
 {214}{}{Jet is a wonderful drug that helps me to take the edge of this miserable existence, darling.}
-{215}{}{Feltennék még kérdéseket.}
-{216}{}{Érdekfeszít?. Köszönöm, és viszontlátásra!}
+{215}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{216}{}{Ã‰rdekfeszÃ­t?. KÃ¶szÃ¶nÃ¶m, Ã©s viszontlÃ¡tÃ¡sra!}
 {217}{}{Jet's a drug that helps me to feel truly alive. I'm a real sky-pilot with Jet.}
-{218}{}{Feltennék még kérdéseket.}
-{219}{}{Érdekes. Köszönöm és viszlát!}
-{220}{}{Mmmmm, elmondom milyen a Jet. Elragadó és élvezetes. A Jet mindenkinek tud nyújtani valamit.}
-{221}{}{Feltennék még kérdéseket.}
-{222}{}{Érdekes. Köszönöm és viszlát!}
-{223}{}{A Jet volt az én boldogságom. De most már felfordul t?le a gyomrom. Nem ajánlom, hogy a mostani szállítmányból vegyél. Ez a Jet már nem olyan, mint a régi.Csak rosszul leszel t?le.}
-{224}{}{Valóban? Nos, kérdezhetnék még valamit?}
-{225}{}{Érdekes. Köszönöm és viszlát!}
-{226}{}{Valami nagyon nem stimmelt az legutóbbi Jet-szállítmánnyal. Repülés helyett csak zuhantunk t?le. Én végleg lemondtam a repülésr?l. De ott az ital, arra mindig számíthatok.}
-{227}{}{Feltennék még kérdéseket.}
-{228}{}{Érdekes. Köszönöm és viszlát!}
-{229}{}{"Nemfáj" Johnson doki titokzatos egy ember. Nem tudom, honnan jött, de valódi orvosnak t?nik. Az egyetlen hely, ahol ilyen szint? képzést kaphatott, Menedékváros. Arra tippelnék, hogy az itteni befolyásuk növelése végett küldték ide. Valakit nagyon felbosszanthatott odahaza, ha ideküldték, az ottaniak ugyanis nem nagyon szeretik a külvilágot.}
+{218}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{219}{}{Ã‰rdekes. KÃ¶szÃ¶nÃ¶m Ã©s viszlÃ¡t!}
+{220}{}{Mmmmm, elmondom milyen a Jet. ElragadÃ³ Ã©s Ã©lvezetes. A Jet mindenkinek tud nyÃºjtani valamit.}
+{221}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{222}{}{Ã‰rdekes. KÃ¶szÃ¶nÃ¶m Ã©s viszlÃ¡t!}
+{223}{}{A Jet volt az Ã©n boldogsÃ¡gom. De most mÃ¡r felfordul t?le a gyomrom. Nem ajÃ¡nlom, hogy a mostani szÃ¡llÃ­tmÃ¡nybÃ³l vegyÃ©l. Ez a Jet mÃ¡r nem olyan, mint a rÃ©gi.Csak rosszul leszel t?le.}
+{224}{}{ValÃ³ban? Nos, kÃ©rdezhetnÃ©k mÃ©g valamit?}
+{225}{}{Ã‰rdekes. KÃ¶szÃ¶nÃ¶m Ã©s viszlÃ¡t!}
+{226}{}{Valami nagyon nem stimmelt az legutÃ³bbi Jet-szÃ¡llÃ­tmÃ¡nnyal. RepÃ¼lÃ©s helyett csak zuhantunk t?le. Ã‰n vÃ©gleg lemondtam a repÃ¼lÃ©sr?l. De ott az ital, arra mindig szÃ¡mÃ­thatok.}
+{227}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{228}{}{Ã‰rdekes. KÃ¶szÃ¶nÃ¶m Ã©s viszlÃ¡t!}
+{229}{}{"NemfÃ¡j" Johnson doki titokzatos egy ember. Nem tudom, honnan jÃ¶tt, de valÃ³di orvosnak t?nik. Az egyetlen hely, ahol ilyen szint? kÃ©pzÃ©st kaphatott, MenedÃ©kvÃ¡ros. Arra tippelnÃ©k, hogy az itteni befolyÃ¡suk nÃ¶velÃ©se vÃ©gett kÃ¼ldtÃ©k ide. Valakit nagyon felbosszanthatott odahaza, ha idekÃ¼ldtÃ©k, az ottaniak ugyanis nem nagyon szeretik a kÃ¼lvilÃ¡got.}
 {230}{}{Ki az a Marge LeBarge?}
 {231}{}{Ki az a Dan McGrew?}
 {232}{}{Kicsoda Ascorti?}
-{233}{}{Hogyan segíthetnek ?k a hatalomátvételben?}
-{234}{}{Köszönöm az információt. Viszontlátásra!}
-{235}{}{A polgármester olyan ember, aki tudja, hogyan játssza ki mindkét oldalt, miközben ? húzza a legtöbb hasznot. Emellett persze szem el?tt tartja Redding érdekeit is, mivel azok egyeznek az övéivel.}
+{233}{}{Hogyan segÃ­thetnek ?k a hatalomÃ¡tvÃ©telben?}
+{234}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. ViszontlÃ¡tÃ¡sra!}
+{235}{}{A polgÃ¡rmester olyan ember, aki tudja, hogyan jÃ¡tssza ki mindkÃ©t oldalt, mikÃ¶zben ? hÃºzza a legtÃ¶bb hasznot. Emellett persze szem el?tt tartja Redding Ã©rdekeit is, mivel azok egyeznek az Ã¶vÃ©ivel.}
 {236}{}{Ki az a Marge LeBarge?}
 {237}{}{Ki az a Dan McGrew?}
 {238}{}{Ki az a Johnson doki?}
-{239}{}{Hogyan segíthetnek ?k a hatalomátvételben?}
-{240}{}{Köszönöm az információt. Viszontlátásra!}
+{239}{}{Hogyan segÃ­thetnek ?k a hatalomÃ¡tvÃ©telben?}
+{240}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. ViszontlÃ¡tÃ¡sra!}

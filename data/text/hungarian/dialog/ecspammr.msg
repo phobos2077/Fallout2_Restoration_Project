@@ -1,16 +1,16 @@
-{100}{}{Egy szánalmasan kinéz? spammert látsz.}
-{110}{}{Egyáltalán semmi érdekeset nem látsz.}
-{120}{}{Lesz Mac változata is?}
-{121}{}{Többjátékos üzemmódot akarok!}
-{122}{}{Mindannyiótokat gy?löllek!}
+{100}{}{Egy szÃ¡nalmasan kinÃ©z? spammert lÃ¡tsz.}
+{110}{}{EgyÃ¡ltalÃ¡n semmi Ã©rdekeset nem lÃ¡tsz.}
+{120}{}{Lesz Mac vÃ¡ltozata is?}
+{121}{}{TÃ¶bbjÃ¡tÃ©kos Ã¼zemmÃ³dot akarok!}
+{122}{}{MindannyiÃ³tokat gy?lÃ¶llek!}
 {123}{}{Ahhh!}
-{124}{}{Nem tudsz fájdalmat okozni nekem!}
-{125}{}{Én vagyok a Nagy Kaszás, nem tudsz megölni engem. Vicces vagyok, nem?}
+{124}{}{Nem tudsz fÃ¡jdalmat okozni nekem!}
+{125}{}{Ã‰n vagyok a Nagy KaszÃ¡s, nem tudsz megÃ¶lni engem. Vicces vagyok, nem?}
 {126}{}{Egy harckocsit akarok!}
-{127}{}{Merre van a láncf?részem?}
-{128}{}{Ne bánts!}
+{127}{}{Merre van a lÃ¡ncf?rÃ©szem?}
+{128}{}{Ne bÃ¡nts!}
 {129}{}{Nem akartam ilyen farok lenni.}
-{130}{}{Nem gondoltam komolyan azokat a fenyegt?zéseket.}
+{130}{}{Nem gondoltam komolyan azokat a fenyegt?zÃ©seket.}
 {131}{}{I'm sorry, Buffy!}
 {132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
-{133}{}{On-line verziót akarok!}
+{133}{}{On-line verziÃ³t akarok!}

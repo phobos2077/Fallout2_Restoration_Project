@@ -16,25 +16,25 @@
 {115}{}{Kryptopolis}
 {116}{}{Kryptopolis}
 {117}{}{Kryptopolis}
-{118}{}{b≥πd:Nazwa Mapy}
+{118}{}{b≈ÇƒÖd:Nazwa Mapy}
 {119}{}{Ruiny Miasta}
-{120}{}{Wybrzeøe}
-{121}{}{Wybrzeøe}
+{120}{}{Wybrze≈ºe}
+{121}{}{Wybrze≈ºe}
 {122}{}{Pustynia}
 {123}{}{Pustynia}
-{124}{}{b≥πd:Nazwa Mapy}
-{125}{}{b≥πd:Nazwa Mapy}
-{126}{}{b≥πd:Nazwa Mapy}
-{127}{}{b≥πd:Nazwa Mapy}
-{128}{}{b≥πd:Nazwa Mapy}
-{129}{}{b≥πd:Nazwa Mapy}
-{130}{}{b≥πd:Nazwa Mapy}
-{131}{}{b≥πd:Nazwa Mapy}
-{132}{}{b≥πd:Nazwa Mapy}
-{133}{}{b≥πd:Nazwa Mapy}
-{134}{}{b≥πd:Nazwa Mapy}
-{135}{}{b≥πd:Nazwa Mapy}
-{136}{}{b≥πd:Nazwa Mapy}
+{124}{}{b≈ÇƒÖd:Nazwa Mapy}
+{125}{}{b≈ÇƒÖd:Nazwa Mapy}
+{126}{}{b≈ÇƒÖd:Nazwa Mapy}
+{127}{}{b≈ÇƒÖd:Nazwa Mapy}
+{128}{}{b≈ÇƒÖd:Nazwa Mapy}
+{129}{}{b≈ÇƒÖd:Nazwa Mapy}
+{130}{}{b≈ÇƒÖd:Nazwa Mapy}
+{131}{}{b≈ÇƒÖd:Nazwa Mapy}
+{132}{}{b≈ÇƒÖd:Nazwa Mapy}
+{133}{}{b≈ÇƒÖd:Nazwa Mapy}
+{134}{}{b≈ÇƒÖd:Nazwa Mapy}
+{135}{}{b≈ÇƒÖd:Nazwa Mapy}
+{136}{}{b≈ÇƒÖd:Nazwa Mapy}
 {137}{}{Centrum}
 {138}{}{Centrum}
 {139}{}{Centrum}
@@ -42,13 +42,13 @@
 {141}{}{Centrum}
 {142}{}{Blask}
 {143}{}{Blask}
-{144}{}{SmÍtarz}
-{145}{}{SmÍtarz}
-{146}{}{SmÍtarz}
+{144}{}{Smƒôtarz}
+{145}{}{Smƒôtarz}
+{146}{}{Smƒôtarz}
 {147}{}{Katedra}
 {148}{}{Baza wojskowa}
-{149}{}{GÛry}
-{150}{}{GÛry}
+{149}{}{G√≥ry}
+{150}{}{G√≥ry}
 {151}{}{Pustynia}
 {152}{}{Pustynia}
 {153}{}{Pustynia}
@@ -56,18 +56,18 @@
 {155}{}{Cytadela Bractwa Stali}
 {156}{}{Pustynia}
 {157}{}{Pustynia}
-{158}{}{GÛry}
-{159}{}{GÛry}
-{160}{}{ObÛz Ømij}
+{158}{}{G√≥ry}
+{159}{}{G√≥ry}
+{160}{}{Ob√≥z ≈ªmij}
 {161}{}{Pustynia}
-{162}{}{GÛry}
+{162}{}{G√≥ry}
 {163}{}{Pustynia}
-{164}{}{GÛry}
-{165}{}{AOå}
-{166}{}{AOå}
-{167}{}{Magazyn AOå}
+{164}{}{G√≥ry}
+{165}{}{AO≈ö}
+{166}{}{AO≈ö}
+{167}{}{Magazyn AO≈ö}
 {168}{}{Kupiec}
-{169}{}{OkrÍt podwodny Shi}
+{169}{}{Okrƒôt podwodny Shi}
 {200}{}{Pustynia}
 {201}{}{}
 {202}{}{}
@@ -77,9 +77,9 @@
 {206}{}{Pustynia}
 {207}{}{}
 {208}{}{}
-{209}{}{åwiπtynia: Kruchta}
-{210}{}{åwiπtynia: Nawa G≥Ûwna}
-{211}{}{åwiπtynia: Sanktuarium}
+{209}{}{≈öwiƒÖtynia: Kruchta}
+{210}{}{≈öwiƒÖtynia: Nawa G≈Ç√≥wna}
+{211}{}{≈öwiƒÖtynia: Sanktuarium}
 {212}{}{Wioska}
 {213}{}{}
 {214}{}{}
@@ -95,34 +95,34 @@
 {224}{}{Dzielnica Mieszkalna}
 {225}{}{}
 {226}{}{}
-{227}{}{årÛdmieúcie}
-{228}{}{årÛdmieúcie}
-{229}{}{årÛdmieúcie}
+{227}{}{≈ör√≥dmie≈õcie}
+{228}{}{≈ör√≥dmie≈õcie}
+{229}{}{≈ör√≥dmie≈õcie}
 {230}{}{Centrum handlowe}
 {231}{}{Centrum handlowe}
 {232}{}{}
 {233}{}{Szczurze nory}
 {234}{}{Szczurze nory}
 {235}{}{Szczurze nory}
-{236}{}{Wejúcie}
+{236}{}{Wej≈õcie}
 {237}{}{Radioaktywne jaskinie}
 {238}{}{Magazyn}
-{239}{}{Obszary ≥owieckie}
-{240}{}{Obszary ≥owieckie}
-{241}{}{Obszary ≥owieckie}
+{239}{}{Obszary ≈Çowieckie}
+{240}{}{Obszary ≈Çowieckie}
+{241}{}{Obszary ≈Çowieckie}
 {242}{}{Pastwisko}
 {243}{}{Pastwisko}
 {244}{}{}
 {245}{}{Podmurze}
 {246}{}{}
 {247}{}{}
-{248}{}{årÛdmieúcie}
+{248}{}{≈ör√≥dmie≈õcie}
 {249}{}{}
 {250}{}{}
 {251}{}{Tereny rady miejskiej}
 {252}{}{}
 {253}{}{}
-{254}{}{Ulica g≥Ûwna}
+{254}{}{Ulica g≈Ç√≥wna}
 {255}{}{}
 {256}{}{}
 {257}{}{Noclegownia}
@@ -131,7 +131,7 @@
 {260}{}{Pastwiska bramin}
 {261}{}{}
 {262}{}{}
-{263}{}{OgrÛd Farrela}
+{263}{}{Ogr√≥d Farrela}
 {264}{}{}
 {265}{}{}
 {266}{}{Jaskinie}
@@ -167,25 +167,25 @@
 {296}{}{Elektrownia}
 {297}{}{Elektrownia}
 {298}{}{}
-{299}{}{Z≥omowisko}
-{300}{}{Z≥omowisko}
-{301}{}{Z≥omowisko}
-{302}{}{Tunele wejúciowe}
-{303}{}{Tunele wejúciowe}
-{304}{}{Tunele wejúciowe}
-{305}{}{G≥usza}
+{299}{}{Z≈Çomowisko}
+{300}{}{Z≈Çomowisko}
+{301}{}{Z≈Çomowisko}
+{302}{}{Tunele wej≈õciowe}
+{303}{}{Tunele wej≈õciowe}
+{304}{}{Tunele wej≈õciowe}
+{305}{}{G≈Çusza}
 {306}{}{}
 {307}{}{}
 {308}{}{Krypta 15: poziom 1}
 {309}{}{Krypta 15: poziom 2}
 {310}{}{Krypta 15: poziom 3}
-{311}{}{OsiedleÒcy}
+{311}{}{Osiedle≈Ñcy}
 {312}{}{}
 {313}{}{}
-{314}{}{OsiedleÒcy}
+{314}{}{Osiedle≈Ñcy}
 {315}{}{}
 {316}{}{}
-{317}{}{Wejúcie Wschodnie}
+{317}{}{Wej≈õcie Wschodnie}
 {318}{}{}
 {319}{}{}
 {320}{}{Poziom 1}
@@ -194,7 +194,7 @@
 {323}{}{jaskinia}
 {324}{}{}
 {325}{}{}
-{326}{}{årÛdmieúcie}
+{326}{}{≈ör√≥dmie≈õcie}
 {327}{}{}
 {328}{}{}
 {329}{}{Rada miejska}
@@ -221,7 +221,7 @@
 {350}{}{Poziom 3}
 {351}{}{Poziom 4}
 {352}{}{}
-{353}{}{Wejúcie}
+{353}{}{Wej≈õcie}
 {354}{}{}
 {355}{}{}
 {356}{}{Pustynia}
@@ -232,11 +232,11 @@
 {361}{}{}
 {362}{}{Aleja Dziewic}
 {363}{}{Desperado - piwnica}
-{364}{}{Desperado - 2 piÍtro}
+{364}{}{Desperado - 2 piƒôtro}
 {365}{}{Druga Ulica}
-{366}{}{Shark Club 2 piÍtro}
-{367}{}{Shark Club 3 piÍtro}
-{368}{}{Pasaø handlowy}
+{366}{}{Shark Club 2 piƒôtro}
+{367}{}{Shark Club 3 piƒôtro}
+{368}{}{Pasa≈º handlowy}
 {369}{}{Zbrojownia Nowego Reno}
 {370}{}{}
 {371}{}{Wschodnia Dzielnica}
@@ -248,24 +248,24 @@
 {377}{}{Cmentarz}
 {378}{}{Schron atomowy}
 {379}{}{}
-{380}{}{Zagrody NiewolnikÛw}
+{380}{}{Zagrody Niewolnik√≥w}
 {381}{}{Laboratorium}
 {382}{}{}
 {383}{}{Hala bokserska}
 {384}{}{Hala bokserska}
 {385}{}{Hala bokserska}
-{386}{}{Wejúcie do kopalni}
-{387}{}{Wejúcie do kopalni}
-{388}{}{Wejúcie do kopalni}
+{386}{}{Wej≈õcie do kopalni}
+{387}{}{Wej≈õcie do kopalni}
+{388}{}{Wej≈õcie do kopalni}
 {389}{}{Kopalnia - poziom 1}
 {390}{}{Kopalnia - poziom 2}
 {391}{}{}
-{392}{}{årÛdmieúcie}
-{393}{}{årÛdmieúcie}
-{394}{}{årÛdmieúcie}
-{395}{}{ObÛz Kopalni}
-{396}{}{ObÛz Kopalni}
-{397}{}{ObÛz Kopalni}
+{392}{}{≈ör√≥dmie≈õcie}
+{393}{}{≈ör√≥dmie≈õcie}
+{394}{}{≈ör√≥dmie≈õcie}
+{395}{}{Ob√≥z Kopalni}
+{396}{}{Ob√≥z Kopalni}
+{397}{}{Ob√≥z Kopalni}
 {398}{}{Sztolnie}
 {399}{}{Sztolnie}
 {400}{}{Sztolnie}
@@ -275,9 +275,9 @@
 {404}{}{Miasto}
 {405}{}{Miasto}
 {406}{}{Miasto}
-{407}{}{gÛra}
-{408}{}{gÛra}
-{409}{}{gÛra}
+{407}{}{g√≥ra}
+{408}{}{g√≥ra}
+{409}{}{g√≥ra}
 {410}{}{Jaskinie}
 {411}{}{jaskinia}
 {412}{}{jaskinia}
@@ -290,21 +290,21 @@
 {419}{}{jaskinia}
 {420}{}{jaskinia}
 {421}{}{jaskinia}
-{422}{}{gÛra}
-{423}{}{gÛra}
-{424}{}{gÛra}
-{425}{}{gÛra}
-{426}{}{gÛra}
-{427}{}{gÛra}
-{428}{}{Wybrzeøe}
-{429}{}{Wybrzeøe}
-{430}{}{Wybrzeøe}
-{431}{}{Wybrzeøe}
-{432}{}{Wybrzeøe}
-{433}{}{Wybrzeøe}
-{434}{}{årÛdmieúcie}
+{422}{}{g√≥ra}
+{423}{}{g√≥ra}
+{424}{}{g√≥ra}
+{425}{}{g√≥ra}
+{426}{}{g√≥ra}
+{427}{}{g√≥ra}
+{428}{}{Wybrze≈ºe}
+{429}{}{Wybrze≈ºe}
+{430}{}{Wybrze≈ºe}
+{431}{}{Wybrze≈ºe}
+{432}{}{Wybrze≈ºe}
+{433}{}{Wybrze≈ºe}
+{434}{}{≈ör√≥dmie≈õcie}
 {435}{}{Suterena}
-{436}{}{Nieuøywane}
+{436}{}{Nieu≈ºywane}
 {437}{}{Dzielnica Mieszkalna}
 {438}{}{Podziemie}
 {439}{}{Kopalnia}
@@ -323,39 +323,39 @@
 {452}{}{Pustynia}
 {453}{}{Pustynia}
 {454}{}{Pustynia}
-{455}{}{Wybrzeøe}
-{456}{}{Wybrzeøe}
-{457}{}{Wybrzeøe}
-{458}{}{Wybrzeøe}
-{459}{}{Wybrzeøe}
-{460}{}{Wybrzeøe}
-{461}{}{Wybrzeøe}
-{462}{}{Wybrzeøe}
-{463}{}{Wybrzeøe}
-{464}{}{Wybrzeøe}
-{465}{}{Wybrzeøe}
-{466}{}{Wybrzeøe}
-{467}{}{Wybrzeøe}
-{468}{}{Wybrzeøe}
-{469}{}{Wybrzeøe}
-{470}{}{Wybrzeøe}
-{471}{}{Wybrzeøe}
-{472}{}{Wybrzeøe}
-{473}{}{Wybrzeøe}
-{474}{}{Wybrzeøe}
-{475}{}{Wybrzeøe}
-{476}{}{ObÛz NajeüdücÛw}
-{477}{}{ObÛz NajeüdücÛw}
-{478}{}{ObÛz NajeüdücÛw}
-{479}{}{wejúcie do jaskini}
+{455}{}{Wybrze≈ºe}
+{456}{}{Wybrze≈ºe}
+{457}{}{Wybrze≈ºe}
+{458}{}{Wybrze≈ºe}
+{459}{}{Wybrze≈ºe}
+{460}{}{Wybrze≈ºe}
+{461}{}{Wybrze≈ºe}
+{462}{}{Wybrze≈ºe}
+{463}{}{Wybrze≈ºe}
+{464}{}{Wybrze≈ºe}
+{465}{}{Wybrze≈ºe}
+{466}{}{Wybrze≈ºe}
+{467}{}{Wybrze≈ºe}
+{468}{}{Wybrze≈ºe}
+{469}{}{Wybrze≈ºe}
+{470}{}{Wybrze≈ºe}
+{471}{}{Wybrze≈ºe}
+{472}{}{Wybrze≈ºe}
+{473}{}{Wybrze≈ºe}
+{474}{}{Wybrze≈ºe}
+{475}{}{Wybrze≈ºe}
+{476}{}{Ob√≥z Naje≈∫d≈∫c√≥w}
+{477}{}{Ob√≥z Naje≈∫d≈∫c√≥w}
+{478}{}{Ob√≥z Naje≈∫d≈∫c√≥w}
+{479}{}{wej≈õcie do jaskini}
 {480}{}{Gniazdo skorpiona}
 {481}{}{Koszary}
 {482}{}{Pustynia}
 {483}{}{Pustynia}
 {484}{}{Pustynia}
-{485}{}{gÛra}
-{486}{}{gÛra}
-{487}{}{gÛra}
+{485}{}{g√≥ra}
+{486}{}{g√≥ra}
+{487}{}{g√≥ra}
 {488}{}{Pustynia}
 {489}{}{Pustynia}
 {490}{}{Pustynia}
@@ -371,24 +371,24 @@
 {500}{}{Pustynia}
 {501}{}{Pustynia}
 {502}{}{Pustynia}
-{503}{}{Most úmierci}
-{504}{}{Most úmierci}
-{505}{}{Most úmierci}
-{506}{}{Kawiarnia Niespe≥nionych MarzeÒ}
-{507}{}{Kawiarnia Niespe≥nionych MarzeÒ}
-{508}{}{Kawiarnia Niespe≥nionych MarzeÒ}
+{503}{}{Most ≈õmierci}
+{504}{}{Most ≈õmierci}
+{505}{}{Most ≈õmierci}
+{506}{}{Kawiarnia Niespe≈Çnionych Marze≈Ñ}
+{507}{}{Kawiarnia Niespe≈Çnionych Marze≈Ñ}
+{508}{}{Kawiarnia Niespe≈Çnionych Marze≈Ñ}
 {509}{}{Pustynia}
 {510}{}{Pustynia}
 {511}{}{Pustynia}
-{512}{}{gÛra}
+{512}{}{g√≥ra}
 {513}{}{jaskinia}
 {514}{}{jaskinia}
-{515}{}{Straønik}
+{515}{}{Stra≈ºnik}
 {516}{}{Krypta 13}
 {517}{}{Krypta 13}
-{518}{}{Sk≥adowisko odpadÛw toksycznych}
-{519}{}{Sk≥adowisko odpadÛw toksycznych}
-{520}{}{Sk≥adowisko odpadÛw toksycznych}
+{518}{}{Sk≈Çadowisko odpad√≥w toksycznych}
+{519}{}{Sk≈Çadowisko odpad√≥w toksycznych}
+{520}{}{Sk≈Çadowisko odpad√≥w toksycznych}
 {521}{}{Pustynia}
 {522}{}{Pustynia}
 {523}{}{Pustynia}
@@ -431,36 +431,36 @@
 {560}{}{jaskinia}
 {561}{}{jaskinia}
 {562}{}{jaskinia}
-{563}{}{gÛra}
-{564}{}{gÛra}
-{565}{}{gÛra}
-{566}{}{gÛra}
-{567}{}{gÛra}
-{568}{}{gÛra}
-{569}{}{gÛra}
-{570}{}{gÛra}
-{571}{}{gÛra}
-{572}{}{gÛra}
-{573}{}{gÛra}
-{574}{}{gÛra}
+{563}{}{g√≥ra}
+{564}{}{g√≥ra}
+{565}{}{g√≥ra}
+{566}{}{g√≥ra}
+{567}{}{g√≥ra}
+{568}{}{g√≥ra}
+{569}{}{g√≥ra}
+{570}{}{g√≥ra}
+{571}{}{g√≥ra}
+{572}{}{g√≥ra}
+{573}{}{g√≥ra}
+{574}{}{g√≥ra}
 {575}{}{Opuszczone miasto}
 {576}{}{Ruiny miasta}
 {577}{}{Ruiny miasta}
-{578}{}{Wejúcie do úwiπtyni}
-{579}{}{Wejúcie do úwiπtyni}
-{580}{}{Wejúcie do úwiπtyni}
+{578}{}{Wej≈õcie do ≈õwiƒÖtyni}
+{579}{}{Wej≈õcie do ≈õwiƒÖtyni}
+{580}{}{Wej≈õcie do ≈õwiƒÖtyni}
 {581}{}{zniszczony most}
 {582}{}{zniszczony most}
 {583}{}{zniszczony most}
-{584}{}{Pokoje zatrzymaÒ}
-{585}{}{Pokoje zatrzymaÒ}
-{586}{}{Pokoje zatrzymaÒ}
+{584}{}{Pokoje zatrzyma≈Ñ}
+{585}{}{Pokoje zatrzyma≈Ñ}
+{586}{}{Pokoje zatrzyma≈Ñ}
 {587}{}{Dok}
-{588}{}{Dok Roz≥adunkowy Lataczy}
+{588}{}{Dok Roz≈Çadunkowy Lataczy}
 {589}{}{Dok}
-{590}{}{Korytarz Wejúciowy}
-{591}{}{Korytarz Wejúciowy}
-{592}{}{Korytarz Wejúciowy}
+{590}{}{Korytarz Wej≈õciowy}
+{591}{}{Korytarz Wej≈õciowy}
+{592}{}{Korytarz Wej≈õciowy}
 {593}{}{Koszary ochrony}
 {594}{}{Koszary ochrony}
 {595}{}{Koszary ochrony}
@@ -470,9 +470,9 @@
 {599}{}{Reaktor}
 {600}{}{Reaktor}
 {601}{}{Reaktor}
-{602}{}{Korytarz wejúciowy}
-{603}{}{Korytarz wejúciowy}
-{604}{}{Korytarz wejúciowy}
+{602}{}{Korytarz wej≈õciowy}
+{603}{}{Korytarz wej≈õciowy}
+{604}{}{Korytarz wej≈õciowy}
 {605}{}{Tankowiec}
 {606}{}{Tankowiec}
 {607}{}{Tankowiec}
@@ -482,15 +482,15 @@
 {611}{}{Chinatown}
 {612}{}{Chinatown}
 {613}{}{Chinatown}
-{614}{}{Dok wahad≥owca}
-{615}{}{Dok wahad≥owca}
-{616}{}{Dok wahad≥owca}
-{617}{}{WnÍtrze wahad≥owca}
-{618}{}{WnÍtrze wahad≥owca}
-{619}{}{WnÍtrze wahad≥owca}
-{620}{}{Baza CentrologÛw}
-{621}{}{Baza CentrologÛw}
-{622}{}{Baza CentrologÛw}
+{614}{}{Dok wahad≈Çowca}
+{615}{}{Dok wahad≈Çowca}
+{616}{}{Dok wahad≈Çowca}
+{617}{}{Wnƒôtrze wahad≈Çowca}
+{618}{}{Wnƒôtrze wahad≈Çowca}
+{619}{}{Wnƒôtrze wahad≈Çowca}
+{620}{}{Baza Centrolog√≥w}
+{621}{}{Baza Centrolog√≥w}
+{622}{}{Baza Centrolog√≥w}
 {623}{}{Zniszczone miasto}
 {624}{}{Zniszczone miasto}
 {625}{}{Zniszczone miasto}
@@ -512,7 +512,7 @@
 {641}{}{Rejon Lataczy}
 {642}{}{Rejon Lataczy}
 {643}{}{Rejon Lataczy}
-{644}{}{åwiπtynia Shi}
+{644}{}{≈öwiƒÖtynia Shi}
 {645}{}{}
 {646}{}{Baza Bractwa Stali}
 {647}{}{Pustynia}
@@ -521,9 +521,9 @@
 {650}{}{Pustynia}
 {651}{}{Pustynia}
 {652}{}{Pustynia}
-{653}{}{Wejúcie}
-{654}{}{Drugie PiÍtro}
-{655}{}{Trzecie PiÍtro}
+{653}{}{Wej≈õcie}
+{654}{}{Drugie Piƒôtro}
+{655}{}{Trzecie Piƒôtro}
 {656}{}{Suterena}
 {657}{}{enter name}
 {658}{}{enter name}
@@ -534,38 +534,38 @@
 {663}{}{Wioska}
 {664}{}{Wioska}
 {665}{}{Las}
-{666}{}{PlemiÍ}
-{667}{}{PlemiÍ}
-{668}{}{£owisko Ryb}
-{669}{}{Ma≥a Jaskinia}
+{666}{}{Plemiƒô}
+{667}{}{Plemiƒô}
+{668}{}{≈Åowisko Ryb}
+{669}{}{Ma≈Ça Jaskinia}
 {670}{}{enter name}
-{671}{}{Wejúcie}
+{671}{}{Wej≈õcie}
 {672}{}{Poziom Powietrza, Wody i Zasilania}
-{673}{}{Pomieszczenia Uøytkowe}
+{673}{}{Pomieszczenia U≈ºytkowe}
 {674}{}{Poziom Pierwszy}
 {675}{}{Poziom Drugi}
 {676}{}{Poziom Trzeci}
 {677}{}{Tajny Poziom}
 {678}{}{enter name}
 {679}{}{enter name}
-{680}{}{ObÛz G≥Ûwny}
+{680}{}{Ob√≥z G≈Ç√≥wny}
 {681}{}{enter name}
 {682}{}{enter name}
 {683}{}{Pustynia}
 {684}{}{Pustynia}
 {685}{}{Pustynia}
-{686}{}{Wejúcie}
+{686}{}{Wej≈õcie}
 {687}{}{Poziom Pierwszy}
 {688}{}{Poziom Drugi}
-{689}{}{Baza StraønikÛw RNK}
-{690}{}{Baza StraønikÛw RNK}
-{691}{}{Baza StraønikÛw RNK}
-{692}{}{Baza StraønikÛw RNK}
-{693}{}{Baza StraønikÛw RNK}
-{694}{}{Baza StraønikÛw RNK}
-{695}{}{Baza StraønikÛw RNK}
-{696}{}{Baza StraønikÛw RNK}
-{697}{}{Baza StraønikÛw RNK}
+{689}{}{Baza Stra≈ºnik√≥w RNK}
+{690}{}{Baza Stra≈ºnik√≥w RNK}
+{691}{}{Baza Stra≈ºnik√≥w RNK}
+{692}{}{Baza Stra≈ºnik√≥w RNK}
+{693}{}{Baza Stra≈ºnik√≥w RNK}
+{694}{}{Baza Stra≈ºnik√≥w RNK}
+{695}{}{Baza Stra≈ºnik√≥w RNK}
+{696}{}{Baza Stra≈ºnik√≥w RNK}
+{697}{}{Baza Stra≈ºnik√≥w RNK}
 {698}{}{Pustynia}
 {699}{}{Pustynia}
 {700}{}{Pustynia}
@@ -575,8 +575,8 @@
 {704}{}{Pustynia}
 {705}{}{Pustynia}
 {706}{}{Pustynia}
-{707}{}{OkrÍt Podwodny Powierzchnia}
-{708}{}{WnÍtrze OkrÍtu Podwodnego Poziom 1}
+{707}{}{Okrƒôt Podwodny Powierzchnia}
+{708}{}{Wnƒôtrze Okrƒôtu Podwodnego Poziom 1}
 {709}{}{}
 {710}{}{Poziom Pierwszy}
 {711}{}{Poziom Drugi}
@@ -605,46 +605,46 @@
 {1515}{}{Navarro}
 {1516}{}{Enklawa}
 {1517}{}{Opactwo}
-{1518}{}{Prymitywne PlemiÍ}
-{1519}{}{AOå}
+{1518}{}{Prymitywne Plemiƒô}
+{1519}{}{AO≈ö}
 {1520}{}{Nawiedzona farma}
-{1521}{}{SamochÛd bez paliwa}
+{1521}{}{Samoch√≥d bez paliwa}
 {1522}{}{Arroyo}
 {1523}{}{Radioaktywne jaskinie}
-{1524}{}{SpÍd niewolnikÛw}
-{1525}{}{Najeüdücy}
+{1524}{}{Spƒôd niewolnik√≥w}
+{1525}{}{Naje≈∫d≈∫cy}
 {1526}{}{Pustynia}
-{1527}{}{gÛra}
+{1527}{}{g√≥ra}
 {1528}{}{Ruiny miasta}
-{1529}{}{Wybrzeøe}
+{1529}{}{Wybrze≈ºe}
 {1530}{}{Golgota}
 {1531}{}{Roztrzaskany wieloryb}
 {1532}{}{Blaszany Drwal}
-{1533}{}{Gadajπca g≥owa}
-{1534}{}{Wahad≥owiec Federacji}
-{1535}{}{Niemyci MieszkaÒcy Wioski}
+{1533}{}{GadajƒÖca g≈Çowa}
+{1534}{}{Wahad≈Çowiec Federacji}
+{1535}{}{Niemyci Mieszka≈Ñcy Wioski}
 {1536}{}{Most}
-{1537}{}{Kawiarnia Niespe≥nionych MarzeÒ}
+{1537}{}{Kawiarnia Niespe≈Çnionych Marze≈Ñ}
 {1538}{}{Paladyni}
 {1539}{}{Szczurza grota}
-{1540}{}{Straønik Wiecznoúci}
-{1541}{}{Sk≥adowisko odpadÛw toksycznych}
+{1540}{}{Stra≈ºnik Wieczno≈õci}
+{1541}{}{Sk≈Çadowisko odpad√≥w toksycznych}
 {1542}{}{Wyrzutki}
 {1543}{}{Szalone Braminy}
 {1544}{}{Karawana}
 {1545}{}{Krypta 13}
-{1546}{}{Fa≥szywa Krypta 13}
+{1546}{}{Fa≈Çszywa Krypta 13}
 {1547}{}{Przypadkowe spotkanie}
 {1548}{}{Stajnie}
 {1549}{}{Wioska}
-{1550}{}{ObÛz £owcÛw NiewolnikÛw}
-{1551}{}{Skarbiec CentrologÛw}
-{1552}{}{Baza StraønikÛw}
-{1553}{}{Baza StraønikÛw}
-{1554}{}{Baza StraønikÛw}
+{1550}{}{Ob√≥z ≈Åowc√≥w Niewolnik√≥w}
+{1551}{}{Skarbiec Centrolog√≥w}
+{1552}{}{Baza Stra≈ºnik√≥w}
+{1553}{}{Baza Stra≈ºnik√≥w}
+{1554}{}{Baza Stra≈ºnik√≥w}
 {1555}{}{RP Easter Egg}
 {1556}{}{Kupiec}
 {1557}{}{Kupiec}
-{1558}{}{OkrÍt podwodny Shi}
+{1558}{}{Okrƒôt podwodny Shi}
 {1559}{}{Opuszczony Dom}
 {1560}{}{Patrol Enklawy Gecko}

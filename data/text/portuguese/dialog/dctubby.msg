@@ -1,67 +1,67 @@
-{100}{}{Você vê o dono da loja.}
-{101}{}{Você vê Tubby.}
-{150}{}{Esse é o proprietário da loja.}
-{151}{}{Este é Tubby, o dono da loja.}
+{100}{}{VocÃª vÃª o dono da loja.}
+{101}{}{VocÃª vÃª Tubby.}
+{150}{}{Esse Ã© o proprietÃ¡rio da loja.}
+{151}{}{Este Ã© Tubby, o dono da loja.}
 {152}{}{[FALAR]}
-{153}{}{Preferiria que você fizesse o seu negócio em outro lugar.}
-{154}{}{Você é um homem de negócios. Vamos realizar negócio.}
+{153}{}{Preferiria que vocÃª fizesse o seu negÃ³cio em outro lugar.}
+{154}{}{VocÃª Ã© um homem de negÃ³cios. Vamos realizar negÃ³cio.}
 {155}{}{Posso pedir-lhe algo.}
 {156}{}{Adeus.}
-{157}{}{Estou tão feliz em vê-lo novamente. O que eu posso fazer para você hoje?}
-{158}{}{Vamos comércio.}
+{157}{}{Estou tÃ£o feliz em vÃª-lo novamente. O que eu posso fazer para vocÃª hoje?}
+{158}{}{Vamos comÃ©rcio.}
 {159}{}{Posso perguntar uma coisa?}
 {160}{}{Nada para agora. Tchau.}
-{161}{}{Olá, senhor, e bem-vindo ao Tubby's. Eu sou o proprietário. Posso ajudar
-  você?}
+{161}{}{OlÃ¡, senhor, e bem-vindo ao Tubby's. Eu sou o proprietÃ¡rio. Posso ajudar
+Â  vocÃª?}
 {162}{}{Sim, vamos negociar.}
-{163}{}{Preciso de algumas informações.}
+{163}{}{Preciso de algumas informaÃ§Ãµes.}
 {164}{}{Adeus.}
-{165}{}{Ola senhora. Eu sou chamado Tubby pelos meus amigos, e eu a agradeço
-  para minha loja. Como posso ajudá-la?}
+{165}{}{Ola senhora. Eu sou chamado Tubby pelos meus amigos, e eu a agradeÃ§o
+Â  para minha loja. Como posso ajudÃ¡-la?}
 {166}{}{Eu quero comprar algumas coisas.}
-{167}{}{Preciso de algumas informações.}
+{167}{}{Preciso de algumas informaÃ§Ãµes.}
 {168}{}{Adeus.}
-{169}{}{Preferiria que você fosse embora.}
+{169}{}{Preferiria que vocÃª fosse embora.}
 {170}{}{Adeus.}
-{171}{}{O que você gostaria de saber?}
-{172}{}{Quem está no comando desta cidade?}
-{173}{}{Por que todos estão vendendo drogas?}
-{174}{}{Você sabe onde o Vault está localizado?}
+{171}{}{O que vocÃª gostaria de saber?}
+{172}{}{Quem estÃ¡ no comando desta cidade?}
+{173}{}{Por que todos estÃ£o vendendo drogas?}
+{174}{}{VocÃª sabe onde o Vault estÃ¡ localizado?}
 {175}{}{Eu gostaria de poder trocar depois de tudo.}
-{176}{}{Deixa pra lá. Tchau.}
-{177}{}{Oh meu. Posso dizer que teremos um problema de comunicação. Acorde com a cabeça
-  se você gostaria de trocar mercadorias.}
+{176}{}{Deixa pra lÃ¡. Tchau.}
+{177}{}{Oh meu. Posso dizer que teremos um problema de comunicaÃ§Ã£o. Acorde com a cabeÃ§a
+Â  se vocÃª gostaria de trocar mercadorias.}
 {178}{}{[aceno]}
 {179}{}{Byebye.}
-{180}{}{Ninguém, tenho medo. O Den é um lugar anarquista onde uma espécie de
-  luta darwiniana é desempenhada. Somente o mais forte, mais rápido ou mais inteligente
-  sobreviverá aqui. Tenho certeza que você encontrará seu nicho.}
+{180}{}{NinguÃ©m, tenho medo. O Den Ã© um lugar anarquista onde uma espÃ©cie de
+Â  luta darwiniana Ã© desempenhada. Somente o mais forte, mais rÃ¡pido ou mais inteligente
+Â  sobreviverÃ¡ aqui. Tenho certeza que vocÃª encontrarÃ¡ seu nicho.}
 {181}{}{Hum, obrigado.}
-{182}{}{ESTÁ BEM. As drogas são a base para o sistema econômico desta cidade, assim como outra
- cidade pode usar grãos ou ouro. Redding é outro excelente exemplo de uma cidade alimentada por drogas.
-  Os mineros são muito altos o tempo todo para fazer algum trabalho real. Eu nunca estive lá,
-  mas é um par de dias a sudeste daqui se você quiser verificá-lo.}
+{182}{}{ESTÃ BEM. As drogas sÃ£o a base para o sistema econÃ´mico desta cidade, assim como outra
+ cidade pode usar grÃ£os ou ouro. Redding Ã© outro excelente exemplo de uma cidade alimentada por drogas.
+Â  Os mineros sÃ£o muito altos o tempo todo para fazer algum trabalho real. Eu nunca estive lÃ¡,
+Â  mas Ã© um par de dias a sudeste daqui se vocÃª quiser verificÃ¡-lo.}
 {183}{}{Obrigado.}
-{184}{}{Ouvi falar de um lugar chamado Vault City. Mas, infelizmente, não posso
-  ajudá-lo com instruções. Você vê, muito poucos de nós, cidadãos, podem oferecer aceitável
-  troca dos serviços médicos que eles fornecem, então a maioria de nós nunca foi
-  lá.}
+{184}{}{Ouvi falar de um lugar chamado Vault City. Mas, infelizmente, nÃ£o posso
+Â  ajudÃ¡-lo com instruÃ§Ãµes. VocÃª vÃª, muito poucos de nÃ³s, cidadÃ£os, podem oferecer aceitÃ¡vel
+Â  troca dos serviÃ§os mÃ©dicos que eles fornecem, entÃ£o a maioria de nÃ³s nunca foi
+Â  lÃ¡.}
 {185}{}{OK. Obrigado.}
-{186}{}{Esse não é o tipo de informação que eu simplesmente DARIA a ninguém.}
+{186}{}{Esse nÃ£o Ã© o tipo de informaÃ§Ã£o que eu simplesmente DARIA a ninguÃ©m.}
 {187}{}{Algum dinheiro mudaria de ideia?}
-{188}{}{Que tal eu lhe dou $ 50 e você me conta.}
-{189}{}{O que você diz que me fornece informações, ou eu lhe dou um novo buraco
-  na cabeça.}
-{190}{}{Deixa pra lá.}
-{191}{}{Bem, posso pedir-lhe algo mais, então?}
-{192}{}{Claro, esse tipo de dinheiro PODE me ajudar a mudar de ideia. Mas você não tem
-  isto!}
-{193}{}{Devo tê-lo deixado em algum lugar. Eu vou procurar por isso.}
-{194}{}{Eu não acho que vai ser o suficiente.}
-{500}{}{Claro, Petey. Estarei lá em um segundo.}
+{188}{}{Que tal eu lhe dou $ 50 e vocÃª me conta.}
+{189}{}{O que vocÃª diz que me fornece informaÃ§Ãµes, ou eu lhe dou um novo buraco
+Â  na cabeÃ§a.}
+{190}{}{Deixa pra lÃ¡.}
+{191}{}{Bem, posso pedir-lhe algo mais, entÃ£o?}
+{192}{}{Claro, esse tipo de dinheiro PODE me ajudar a mudar de ideia. Mas vocÃª nÃ£o tem
+Â  isto!}
+{193}{}{Devo tÃª-lo deixado em algum lugar. Eu vou procurar por isso.}
+{194}{}{Eu nÃ£o acho que vai ser o suficiente.}
+{500}{}{Claro, Petey. Estarei lÃ¡ em um segundo.}
 {501}{}{Segure-se, Petey!}
 {502}{}{Eu estou chegando, estou chegando'.}
-{510}{}{Aqui você vá, Petey.}
-{511}{}{Você sabe, Petey, você deveria chutar essa merda.}
+{510}{}{Aqui vocÃª vÃ¡, Petey.}
+{511}{}{VocÃª sabe, Petey, vocÃª deveria chutar essa merda.}
 {512}{}{Pegue isso e saia daqui, Petey.}
-{520}{}{Prazer fazer negócios.}
+{520}{}{Prazer fazer negÃ³cios.}

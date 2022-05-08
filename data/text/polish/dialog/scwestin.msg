@@ -1,77 +1,77 @@
-{100}{}{Widzisz mê¿czyznê ubranego w ekstrawagancki strój kowbojski.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ ubranego w ekstrawagancki strÃ³j kowbojski.}
 {101}{}{To radny Westin.}
-{102}{}{Srebrne i turkusowe pierœcienie, srebrna sprz¹czka u pasa, pistolet u boku, ten facet zdecydowanie jest przyzwyczajony do pieniêdzy i w³asnego stylu.}
-{103}{}{Jestem Roger Westin, a ty nie mo¿esz siê tutaj tak panoszyæ bez pozwolenia. Czego chcesz?}
+{102}{}{Srebrne i turkusowe pierÅ›cienie, srebrna sprzÄ…czka u pasa, pistolet u boku, ten facet zdecydowanie jest przyzwyczajony do pieniÄ™dzy i wÅ‚asnego stylu.}
+{103}{}{Jestem Roger Westin, a ty nie moÅ¼esz siÄ™ tutaj tak panoszyÄ‡ bez pozwolenia. Czego chcesz?}
 {104}{}{Znowu ty? Czego chcesz?}
 {105}{}{Czego chcesz?}
 {106}{}{Yy...}
-{107}{}{Moja szukaæ Krypta 13? Twoja pomóc?}
-{108}{}{Poszukujê Krypty 13. Czy mo¿esz mi pomóc?}
-{109}{}{Twoja brudna robota zosta³a wykonana.}
-{110}{}{Z³e gugu przyjœæ. Moja odegnaæ. Mu-mu bezpieczni.}
-{111}{}{Co do twojego problemu z braminami - wygl¹da na to, ¿e jedyne, co musisz zrobiæ, to postawiæ tam cz³owieka. Zreszt¹ nie musi nawet nic robiæ, tylko tam byæ. Wiem, ¿e to brzmi dziwnie, ale bêdzie skuteczne. Wspomina³eœ coœ o zap³acie?}
+{107}{}{Moja szukaÄ‡ Krypta 13? Twoja pomÃ³c?}
+{108}{}{PoszukujÄ™ Krypty 13. Czy moÅ¼esz mi pomÃ³c?}
+{109}{}{Twoja brudna robota zostaÅ‚a wykonana.}
+{110}{}{ZÅ‚e gugu przyjÅ›Ä‡. Moja odegnaÄ‡. Mu-mu bezpieczni.}
+{111}{}{Co do twojego problemu z braminami - wyglÄ…da na to, Å¼e jedyne, co musisz zrobiÄ‡, to postawiÄ‡ tam czÅ‚owieka. ZresztÄ… nie musi nawet nic robiÄ‡, tylko tam byÄ‡. Wiem, Å¼e to brzmi dziwnie, ale bÄ™dzie skuteczne. WspominaÅ‚eÅ› coÅ› o zapÅ‚acie?}
 {112}{}{Jestem tu w sprawie pracy.}
-{113}{}{Pierwszy Obywatel Lynette przesy³a swoje pozdrowienia. No i ma coœ dla ciebie.}
-{114}{}{Przysy³a mnie Bishop.}
+{113}{}{Pierwszy Obywatel Lynette przesyÅ‚a swoje pozdrowienia. No i ma coÅ› dla ciebie.}
+{114}{}{PrzysyÅ‚a mnie Bishop.}
 {115}{}{Ups.}
-{116}{}{To wszystko? Pogadaj z moim nadzorc¹, Feliksem.}
-{117}{}{Chyba nie rozumiesz. Jestem tutaj, aby wykonaæ robotê.}
-{118}{}{Szeryf sugerowa³, aby przyjœæ do ciebie osobiœcie.}
-{119}{}{W porz¹dku. Niech tak bêdzie.}
-{120}{}{Powinienem by³ siê domyœliæ. Co ci obieca³ - szmal, prochy, seks? To nie ma znaczenia. Nic z tego ju¿ nigdy nie zobaczysz.}
+{116}{}{To wszystko? Pogadaj z moim nadzorcÄ…, Feliksem.}
+{117}{}{Chyba nie rozumiesz. Jestem tutaj, aby wykonaÄ‡ robotÄ™.}
+{118}{}{Szeryf sugerowaÅ‚, aby przyjÅ›Ä‡ do ciebie osobiÅ›cie.}
+{119}{}{W porzÄ…dku. Niech tak bÄ™dzie.}
+{120}{}{Powinienem byÅ‚ siÄ™ domyÅ›liÄ‡. Co ci obiecaÅ‚ - szmal, prochy, seks? To nie ma znaczenia. Nic z tego juÅ¼ nigdy nie zobaczysz.}
 {121}{}{Co to znaczy?}
-{122}{}{Zamknij siê.}
-{123}{}{Ach - prostoliniowa istotka, co? Jaka szkoda. To musi byæ ciê¿ki krzy¿ do dŸwigania. S³uchaj, pogadaj z Fee-lii-ksem. On daæ ci robota. Dobrze?}
+{122}{}{Zamknij siÄ™.}
+{123}{}{Ach - prostoliniowa istotka, co? Jaka szkoda. To musi byÄ‡ ciÄ™Å¼ki krzyÅ¼ do dÅºwigania. SÅ‚uchaj, pogadaj z Fee-lii-ksem. On daÄ‡ ci robota. Dobrze?}
 {124}{}{Yhy.}
-{125}{}{A co ty sobie myœlisz? Za du¿o wiesz. Co by by³o, gdyby tak zosta³ przez ciebie póŸniej sprzedany w RNK - albo przez ciebie szanta¿owany? Ju¿ praktycznie mo¿esz sobie kopaæ grób. Z drugiej jednak strony mam lepsz¹ propozycjê.}
-{126}{}{Tak, na przyk³ad?}
-{127}{}{Nie wierzê ci.}
-{128}{}{Zamiast mnie, wykoñcz Bishopa. P³acê gotówk¹, tyle ile on plus 50%. Ile to bêdzie?}
+{125}{}{A co ty sobie myÅ›lisz? Za duÅ¼o wiesz. Co by byÅ‚o, gdyby tak zostaÅ‚ przez ciebie pÃ³Åºniej sprzedany w RNK - albo przez ciebie szantaÅ¼owany? JuÅ¼ praktycznie moÅ¼esz sobie kopaÄ‡ grÃ³b. Z drugiej jednak strony mam lepszÄ… propozycjÄ™.}
+{126}{}{Tak, na przykÅ‚ad?}
+{127}{}{Nie wierzÄ™ ci.}
+{128}{}{Zamiast mnie, wykoÅ„cz Bishopa. PÅ‚acÄ™ gotÃ³wkÄ…, tyle ile on plus 50%. Ile to bÄ™dzie?}
 {129}{}{(Potrzebne info od Chrisa)}
-{130}{}{(Avellone'a, oczywiœcie)}
+{130}{}{(Avellone'a, oczywiÅ›cie)}
 {131}{}{Dobra.}
 {132}{}{Zgoda.}
 {133}{}{Wielka szkoda - dla ciebie, starcze.}
-{134}{}{Z niecierpliwoœci¹ bêdê oczekiwaæ od ciebie wiadomoœci. A teraz wyjdŸ t¹ sam¹ drog¹.}
-{135}{}{Doskonale. Wiedzia³em, ¿e jesteœ odpowiedni¹ osob¹. Có¿, obieca³em ci zap³atê, a ja nie ³amiê obietnic. Oto twoje pieni¹dze.}
-{136}{}{Czy mogê jeszcze coœ dla ciebie zrobiæ?}
-{137}{}{Dziêki. Mo¿e móg³byœ mi pomóc. Szukam Krypty 13.}
-{138}{}{¯egnaj.}
-{139}{}{Dumont ciê poleca? Có¿, to mi wystarcza. Coœ lub ktoœ atakuje w nocy moje braminy. Muszê siê dowiedzieæ, co jest grane. Mo¿e pójdziesz tam i sprawdzisz to dla mnie? Zap³acê ci za twój k³opot.}
-{140}{}{To chyba bêdzie prosta robota. Zrobiê to.}
+{134}{}{Z niecierpliwoÅ›ciÄ… bÄ™dÄ™ oczekiwaÄ‡ od ciebie wiadomoÅ›ci. A teraz wyjdÅº tÄ… samÄ… drogÄ….}
+{135}{}{Doskonale. WiedziaÅ‚em, Å¼e jesteÅ› odpowiedniÄ… osobÄ…. CÃ³Å¼, obiecaÅ‚em ci zapÅ‚atÄ™, a ja nie Å‚amiÄ™ obietnic. Oto twoje pieniÄ…dze.}
+{136}{}{Czy mogÄ™ jeszcze coÅ› dla ciebie zrobiÄ‡?}
+{137}{}{DziÄ™ki. MoÅ¼e mÃ³gÅ‚byÅ› mi pomÃ³c. Szukam Krypty 13.}
+{138}{}{Å»egnaj.}
+{139}{}{Dumont ciÄ™ poleca? CÃ³Å¼, to mi wystarcza. CoÅ› lub ktoÅ› atakuje w nocy moje braminy. MuszÄ™ siÄ™ dowiedzieÄ‡, co jest grane. MoÅ¼e pÃ³jdziesz tam i sprawdzisz to dla mnie? ZapÅ‚acÄ™ ci za twÃ³j kÅ‚opot.}
+{140}{}{To chyba bÄ™dzie prosta robota. ZrobiÄ™ to.}
 {141}{}{Raczej nie.}
-{142}{}{Coœ lub ktoœ atakuje w nocy moje braminy. Muszê siê dowiedzieæ, co jest grane. Mo¿e pójdziesz tam i sprawdzisz to dla mnie? Zap³acê ci za twój k³opot.}
-{143}{}{Brzmi nieŸle. Zajmê siê tym.}
-{144}{}{Nie, dziêki. Ca³¹ noc czekaæ w polu, aby zobaczyæ jakieœ ufoludki porywaj¹ce byd³o - nudaaa.}
-{145}{}{Doskonale. Felix ciê tam zaprowadzi. A teraz, je¿eli wybaczysz...}
-{146}{}{Có¿, mo¿e i móg³bym. S³ysza³em wiele historii o Tandi i Przybyszu z Krypty. Wygl¹da na to, ¿e ocali³ jej ¿ycie ca³e lata przed powstaniem RNK. W ka¿dym b¹dŸ razie legenda mówi, ¿e spêdzi³ on du¿o czasu przeszukuj¹c Kryptê na wschód st¹d. Je¿eli to nie bêdzie Krypta 13, to mo¿e znajdziesz tam jak¹œ wskazówkê, która zaprowadzi ciê do niej.}
+{142}{}{CoÅ› lub ktoÅ› atakuje w nocy moje braminy. MuszÄ™ siÄ™ dowiedzieÄ‡, co jest grane. MoÅ¼e pÃ³jdziesz tam i sprawdzisz to dla mnie? ZapÅ‚acÄ™ ci za twÃ³j kÅ‚opot.}
+{143}{}{Brzmi nieÅºle. ZajmÄ™ siÄ™ tym.}
+{144}{}{Nie, dziÄ™ki. CaÅ‚Ä… noc czekaÄ‡ w polu, aby zobaczyÄ‡ jakieÅ› ufoludki porywajÄ…ce bydÅ‚o - nudaaa.}
+{145}{}{Doskonale. Felix ciÄ™ tam zaprowadzi. A teraz, jeÅ¼eli wybaczysz...}
+{146}{}{CÃ³Å¼, moÅ¼e i mÃ³gÅ‚bym. SÅ‚yszaÅ‚em wiele historii o Tandi i Przybyszu z Krypty. WyglÄ…da na to, Å¼e ocaliÅ‚ jej Å¼ycie caÅ‚e lata przed powstaniem RNK. W kaÅ¼dym bÄ…dÅº razie legenda mÃ³wi, Å¼e spÄ™dziÅ‚ on duÅ¼o czasu przeszukujÄ…c KryptÄ™ na wschÃ³d stÄ…d. JeÅ¼eli to nie bÄ™dzie Krypta 13, to moÅ¼e znajdziesz tam jakÄ…Å› wskazÃ³wkÄ™, ktÃ³ra zaprowadzi ciÄ™ do niej.}
 {147}{}{Oooo. Dobra.}
-{148}{}{Dziêki!}
-{149}{}{Có¿, mo¿e i móg³bym. Jednak¿e najpierw muszê prosiæ ciê o pewn¹ przys³ugê. Coœ lub ktoœ atakuje w nocy moje braminy. Muszê siê dowiedzieæ, co jest grane. Mo¿e pójdziesz tam i sprawdzisz to dla mnie? Zap³acê ci za twój k³opot.}
-{150}{}{Brzmi nieŸle. Zajmê siê tym.}
-{151}{}{Nie, dziêki. Ca³¹ noc czekaæ w polu, aby zobaczyæ jakieœ ufoludki porywaj¹ce byd³o - nudaaa.}
-{152}{}{Có¿, no to niech tak bêdzie. Mi³o mi ciê by³o poznaæ, wêdrowcze.}
-{153}{}{Nie jestem pewien, czy ci uwierzyæ, no ale tutaj jest twoja zap³ata. Cholera, jeœli ³¿esz, to moi ch³opcy ciê dorw¹. Mówi³em te¿, ¿e przeka¿ê ci pewne informacje, wiêc oto, co wiem: S³ysza³em wiele historii o Tandi i Przybyszu z Krypty. Wygl¹da na to, ¿e ocali³ jej ¿ycie ca³e lata przed powstaniem RNK. W ka¿dym b¹dŸ razie legenda mówi, ¿e spêdzi³ on du¿o czasu przeszukuj¹c Kryptê na wschód st¹d. Je¿eli to nie bêdzie Krypta 13, to mo¿e znajdziesz tam jak¹œ wskazówkê, która zaprowadzi ciê do niej.}
+{148}{}{DziÄ™ki!}
+{149}{}{CÃ³Å¼, moÅ¼e i mÃ³gÅ‚bym. JednakÅ¼e najpierw muszÄ™ prosiÄ‡ ciÄ™ o pewnÄ… przysÅ‚ugÄ™. CoÅ› lub ktoÅ› atakuje w nocy moje braminy. MuszÄ™ siÄ™ dowiedzieÄ‡, co jest grane. MoÅ¼e pÃ³jdziesz tam i sprawdzisz to dla mnie? ZapÅ‚acÄ™ ci za twÃ³j kÅ‚opot.}
+{150}{}{Brzmi nieÅºle. ZajmÄ™ siÄ™ tym.}
+{151}{}{Nie, dziÄ™ki. CaÅ‚Ä… noc czekaÄ‡ w polu, aby zobaczyÄ‡ jakieÅ› ufoludki porywajÄ…ce bydÅ‚o - nudaaa.}
+{152}{}{CÃ³Å¼, no to niech tak bÄ™dzie. MiÅ‚o mi ciÄ™ byÅ‚o poznaÄ‡, wÄ™drowcze.}
+{153}{}{Nie jestem pewien, czy ci uwierzyÄ‡, no ale tutaj jest twoja zapÅ‚ata. Cholera, jeÅ›li Å‚Å¼esz, to moi chÅ‚opcy ciÄ™ dorwÄ…. MÃ³wiÅ‚em teÅ¼, Å¼e przekaÅ¼Ä™ ci pewne informacje, wiÄ™c oto, co wiem: SÅ‚yszaÅ‚em wiele historii o Tandi i Przybyszu z Krypty. WyglÄ…da na to, Å¼e ocaliÅ‚ jej Å¼ycie caÅ‚e lata przed powstaniem RNK. W kaÅ¼dym bÄ…dÅº razie legenda mÃ³wi, Å¼e spÄ™dziÅ‚ on duÅ¼o czasu przeszukujÄ…c KryptÄ™ na wschÃ³d stÄ…d. JeÅ¼eli to nie bÄ™dzie Krypta 13, to moÅ¼e znajdziesz tam jakÄ…Å› wskazÃ³wkÄ™, ktÃ³ra zaprowadzi ciÄ™ do niej.}
 {154}{}{Moja dzienkuju twoja!}
-{155}{}{Dziêkujê.}
-{156}{}{Pierwszy Obywatel? Doskonale, na to w³aœnie czeka³em. Czy jesteœ Obywatelem Kryptopolis?}
+{155}{}{DziÄ™kujÄ™.}
+{156}{}{Pierwszy Obywatel? Doskonale, na to wÅ‚aÅ›nie czekaÅ‚em. Czy jesteÅ› Obywatelem Kryptopolis?}
 {157}{}{Tak.}
 {158}{}{Nie.}
-{159}{}{I z pewnoœci¹ jesteœ dobrym Obywatelem. Dostarcz, proszê, ten holodysk z powrotem Pierwszemu Obywatelowi. To wa¿ne. S¹ na nim informacje, które s¹ jej potrzebne do ods³oniêcia planów RNK i Nowego Reno.}
+{159}{}{I z pewnoÅ›ciÄ… jesteÅ› dobrym Obywatelem. Dostarcz, proszÄ™, ten holodysk z powrotem Pierwszemu Obywatelowi. To waÅ¼ne. SÄ… na nim informacje, ktÃ³re sÄ… jej potrzebne do odsÅ‚oniÄ™cia planÃ³w RNK i Nowego Reno.}
 {160}{}{Mam inne pytanie.}
 {161}{}{Tak jest!}
-{162}{}{No có¿, to wszystko.}
+{162}{}{No cÃ³Å¼, to wszystko.}
 {163}{}{Mam inne pytanie.}
 {164}{}{Jak chcesz.}
 {165}{}{Zadanie. To znaczy...}
-{166}{}{Bishop mnie przysy³a. Mam ma³¹ wiadomoœæ dla ciebie.}
-{167}{}{Pa-pa i œpij mocno, staruszku.}
-{168}{}{dolarów. Wykonaj zadanie, to ci zap³acê. Mówisz nie - nie wychodzisz st¹d ca³o. A wiêc?}
-{169}{}{Aa tak. Có¿, mia³em pewne problemy ze szkodnikami, ale przesta³y siê pojawiaæ. Przykro mi. Spytaj Feliksa czy ma coœ dla ciebie.}
-{170}{}{W porz¹dku, dziêki.}
-{171}{}{Eeee.... K³uje mnie w sercu... nie mogê...}
-{172}{}{Muszê ..... pppoooowwwiieeedzieæ Feeellliiksssowwwiii.}
-{173}{}{Hej, widocznie naprawdê mia³ k³opoty z sercem.}
+{166}{}{Bishop mnie przysyÅ‚a. Mam maÅ‚Ä… wiadomoÅ›Ä‡ dla ciebie.}
+{167}{}{Pa-pa i Å›pij mocno, staruszku.}
+{168}{}{dolarÃ³w. Wykonaj zadanie, to ci zapÅ‚acÄ™. MÃ³wisz nie - nie wychodzisz stÄ…d caÅ‚o. A wiÄ™c?}
+{169}{}{Aa tak. CÃ³Å¼, miaÅ‚em pewne problemy ze szkodnikami, ale przestaÅ‚y siÄ™ pojawiaÄ‡. Przykro mi. Spytaj Feliksa czy ma coÅ› dla ciebie.}
+{170}{}{W porzÄ…dku, dziÄ™ki.}
+{171}{}{Eeee.... KÅ‚uje mnie w sercu... nie mogÄ™...}
+{172}{}{MuszÄ™ ..... pppoooowwwiieeedzieÄ‡ Feeellliiksssowwwiii.}
+{173}{}{Hej, widocznie naprawdÄ™ miaÅ‚ kÅ‚opoty z sercem.}
 {174}{}{AAAACH!!! AHAHAHHAH!!! AHHAHAH!!! PALI!!!}
-{175}{}{Uda³o ci siê dostarczyæ holodysk Westinowi.}
-{176}{}{Jego serce posz³o bum bum}
+{175}{}{UdaÅ‚o ci siÄ™ dostarczyÄ‡ holodysk Westinowi.}
+{176}{}{Jego serce poszÅ‚o bum bum}

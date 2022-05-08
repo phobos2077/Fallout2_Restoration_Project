@@ -1,1 +1,1 @@
-{100}{}{Você entrou no pequeno assentamento de Gecko.}
+{100}{}{VocÃª entrou no pequeno assentamento de Gecko.}

@@ -1,5 +1,5 @@
-{100}{}{Você vê um louco.}
-{101}{}{Mmmm....cérebros.}
+{100}{}{VocÃª vÃª um louco.}
+{101}{}{Mmmm....cÃ©rebros.}
 {102}{}{Envie mais aventureiros.}
 {103}{}{Mooooaaaan...}
 {104}{}{Fazer a dor parar.}

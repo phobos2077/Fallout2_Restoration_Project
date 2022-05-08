@@ -2,12 +2,12 @@
 {101}{}{Ves a un habitante de La Guarida.}
 {102}{}{Hola.}
 {103}{}{Me alegro de verte.}
-{104}{}{Eres no de aquí, ¿verdad?}
-{105}{}{Mamá es una gran señora, ¿verdad?}
-{106}{}{Me alegra que los huérfanos de La Guarida tengan un lugar donde vivir ahora.}
-{200}{}{¡Hola, señor!}
-{201}{}{Me alegro de que los otros niños no están robando más.}
-{300}{}{¡Hola, señorita!}
-{301}{}{Me alegro de que los otros niños no están robando más.}
-{400}{}{Ves a un niño pequeño.}
-{401}{}{Ves a una niña pequeña.}
+{104}{}{Eres no de aquÃ­, Â¿verdad?}
+{105}{}{MamÃ¡ es una gran seÃ±ora, Â¿verdad?}
+{106}{}{Me alegra que los huÃ©rfanos de La Guarida tengan un lugar donde vivir ahora.}
+{200}{}{Â¡Hola, seÃ±or!}
+{201}{}{Me alegro de que los otros niÃ±os no estÃ¡n robando mÃ¡s.}
+{300}{}{Â¡Hola, seÃ±orita!}
+{301}{}{Me alegro de que los otros niÃ±os no estÃ¡n robando mÃ¡s.}
+{400}{}{Ves a un niÃ±o pequeÃ±o.}
+{401}{}{Ves a una niÃ±a pequeÃ±a.}

@@ -1,2 +1,2 @@
-1:Gekkó er?m?vének megjavítása megakadályozta, hogy a radioaktív sugárzás továbbra is Menedékváros talajvizébe jusson.
-2:Bár ez csökkentette a feszültséget a két kolónia között, továbbra is készenléti fegyverszünetet tartanak fent.
+1:GekkÃ³ er?m?vÃ©nek megjavÃ­tÃ¡sa megakadÃ¡lyozta, hogy a radioaktÃ­v sugÃ¡rzÃ¡s tovÃ¡bbra is MenedÃ©kvÃ¡ros talajvizÃ©be jusson.
+2:BÃ¡r ez csÃ¶kkentette a feszÃ¼ltsÃ©get a kÃ©t kolÃ³nia kÃ¶zÃ¶tt, tovÃ¡bbra is kÃ©szenlÃ©ti fegyverszÃ¼netet tartanak fent.

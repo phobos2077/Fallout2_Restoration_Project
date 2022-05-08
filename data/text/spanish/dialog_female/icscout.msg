@@ -1,132 +1,132 @@
 {100}{}{Ves a un tribal.}
 {101}{}{Ves a Sombra Que Camina.}
 {150}{}{Ves a un tribal muy musculoso con cicatrices negras que cubren su rostro. Te observa silenciosamente.}
-{151}{}{Ves a Sombra Que Camina. Su cara está llena de cicatrices de los tatuajes tribales.}
+{151}{}{Ves a Sombra Que Camina. Su cara estÃ¡ llena de cicatrices de los tatuajes tribales.}
 {200}{}{Te contempla en silencio.}
-{201}{}{Está observándote en silencio.}
+{201}{}{EstÃ¡ observÃ¡ndote en silencio.}
 {300}{}{Shhh... Estoy cazando conejos.}
-{400}{}{[Él mira con ojos desconfiados.] Que va allí?}
+{400}{}{[Ã‰l mira con ojos desconfiados.] Que va allÃ­?}
 {401}{}{Me llamo }
-{402}{}{. ¿Quién eres?}
-{403}{}{Estoy en una misión para la Bóveda de la Ciudad. ¿Quién eres tú?}
-{404}{}{Mi nombre no es importante. He venido a advertirte. Usted está en gran peligro!}
-{405}{}{Yo soy su némesis. Se preparan para unirse a sus antepasados!}
-{406}{}{Soy francés. ¿Por qué crees que tiene este indignante acento? [Se le queda mirando raro.]}
+{402}{}{. Â¿QuiÃ©n eres?}
+{403}{}{Estoy en una misiÃ³n para la BÃ³veda de la Ciudad. Â¿QuiÃ©n eres tÃº?}
+{404}{}{Mi nombre no es importante. He venido a advertirte. Usted estÃ¡ en gran peligro!}
+{405}{}{Yo soy su nÃ©mesis. Se preparan para unirse a sus antepasados!}
+{406}{}{Soy francÃ©s. Â¿Por quÃ© crees que tiene este indignante acento? [Se le queda mirando raro.]}
 {407}{}{No importa. Lamento molestarte.}
-{410}{}{Usted habla a la Sombra Que Camina. ¿Por qué ha venido aquí?}
-{411}{}{Estoy tratando de detener ataques raider en la Bóveda de la Ciudad, y tengo razones para creer que este es el raiders " base de operaciones. ¿Qué sabe usted acerca de los raiders?}
-{412}{}{Me fue enviado por Bóveda de la Ciudad en la cuenta de que los Asaltantes les ataca.}
-{413}{}{Tenía curiosidad acerca de este lugar, pero yo voy a dejar ahora.}
-{414}{}{Estoy haciendo prácticas de tiro, y que parece que sería un excelente objetivo en movimiento.}
-{420}{}{Sombra Que Camina sabe de ningún raiders aquí. Sombra Que Camina sólo sabe de algunos Rangers aquí para liberar a los esclavos de la Bóveda de la Ciudad, que mal lugar. [Le da una descripción que coincide con el de uno de los asaltantes.]}
-{421}{}{Es que lo que he dicho, que son Rangers? No hay Rangers por aquí, no son más que mentiras.}
-{422}{}{Rangers? No se trata de Rangers. Solo mira su ropa. Eres un peón en su juego. Ellos son sólo el uso de usted.}
-{423}{}{Mira, me fue enviado por Bóveda de la Ciudad para encontrar algunos de los Raiders. Estos hombres se ajustan a la descripción.}
-{424}{}{Oh, está bien. Supongo que voy a dejar a continuación.}
-{425}{}{No te creo. ¡Muere, mujer malvada!}
-{430}{}{¿Por qué habría de mentir a la Sombra Que Camina?}
-{431}{}{¿Te han ayudado a ellos si les había dicho que eran asaltantes, atacando a personas inocentes, y que no les importaba ni un poco acerca de ayudar a cualquier persona en la Bóveda de la Ciudad?}
-{432}{}{No sé. Es un difícil mundo de fuera. Las personas se aprovechan de otros todo el tiempo.}
-{433}{}{Para obtener una buena risa, tal vez? Usted mira suficientemente estúpido para nada.}
-{440}{}{Sombra Que Camina nunca iba a ayudar a hacer que eso estaría mal. [Él los ojos con suspicacia.] Pero, ¿por qué la Sombra Que Camina confiar en lo que usted dice?}
+{410}{}{Usted habla a la Sombra Que Camina. Â¿Por quÃ© ha venido aquÃ­?}
+{411}{}{Estoy tratando de detener ataques raider en la BÃ³veda de la Ciudad, y tengo razones para creer que este es el raiders " base de operaciones. Â¿QuÃ© sabe usted acerca de los raiders?}
+{412}{}{Me fue enviado por BÃ³veda de la Ciudad en la cuenta de que los Asaltantes les ataca.}
+{413}{}{TenÃ­a curiosidad acerca de este lugar, pero yo voy a dejar ahora.}
+{414}{}{Estoy haciendo prÃ¡cticas de tiro, y que parece que serÃ­a un excelente objetivo en movimiento.}
+{420}{}{Sombra Que Camina sabe de ningÃºn raiders aquÃ­. Sombra Que Camina sÃ³lo sabe de algunos Rangers aquÃ­ para liberar a los esclavos de la BÃ³veda de la Ciudad, que mal lugar. [Le da una descripciÃ³n que coincide con el de uno de los asaltantes.]}
+{421}{}{Es que lo que he dicho, que son Rangers? No hay Rangers por aquÃ­, no son mÃ¡s que mentiras.}
+{422}{}{Rangers? No se trata de Rangers. Solo mira su ropa. Eres un peÃ³n en su juego. Ellos son sÃ³lo el uso de usted.}
+{423}{}{Mira, me fue enviado por BÃ³veda de la Ciudad para encontrar algunos de los Raiders. Estos hombres se ajustan a la descripciÃ³n.}
+{424}{}{Oh, estÃ¡ bien. Supongo que voy a dejar a continuaciÃ³n.}
+{425}{}{No te creo. Â¡Muere, mujer malvada!}
+{430}{}{Â¿Por quÃ© habrÃ­a de mentir a la Sombra Que Camina?}
+{431}{}{Â¿Te han ayudado a ellos si les habÃ­a dicho que eran asaltantes, atacando a personas inocentes, y que no les importaba ni un poco acerca de ayudar a cualquier persona en la BÃ³veda de la Ciudad?}
+{432}{}{No sÃ©. Es un difÃ­cil mundo de fuera. Las personas se aprovechan de otros todo el tiempo.}
+{433}{}{Para obtener una buena risa, tal vez? Usted mira suficientemente estÃºpido para nada.}
+{440}{}{Sombra Que Camina nunca iba a ayudar a hacer que eso estarÃ­a mal. [Ã‰l los ojos con suspicacia.] Pero, Â¿por quÃ© la Sombra Que Camina confiar en lo que usted dice?}
 {441}{}{[Hablarle de su casa de la tribu.]}
 {442}{}{Porque yo soy un Ranger, la oferta real. [Le muestran su pin.]}
-{443}{}{Porque sé que estas raiders están trabajando, y él no es un buen hombre en todos. [Lo muestran los datos de la holodisk]}
-{444}{}{No sé. Lo siento perder su tiempo.}
+{443}{}{Porque sÃ© que estas raiders estÃ¡n trabajando, y Ã©l no es un buen hombre en todos. [Lo muestran los datos de la holodisk]}
+{444}{}{No sÃ©. Lo siento perder su tiempo.}
 {445}{}{Usted no tiene que, me vas a matar de todos modos.}
-{450}{}{[Sombra Que Camina, parece mirar de manera diferente, con más confianza en los ojos]. Ahora la Sombra Que Camina sabe que usted es de los cajeros de la verdad. Sombra Que Camina confía en usted.}
-{451}{}{Bueno, ¿qué vas a hacer ahora?}
-{452}{}{¿Tiene usted alguna idea de por qué estos raiders podrían estar atacando Bóveda de la Ciudad?}
-{453}{}{Que curioso, he estado mintiendo todo el tiempo. ¿Cómo se siente, imbécil?}
-{460}{}{No, no lo sé. Solo saben engañar Sombra Que Camina en ayudarles a encontrar el camino.}
-{461}{}{Bueno, ¿qué vas a hacer ahora?}
-{462}{}{No sucede que tiene oído hablar de alguno de los nombres o algo por el estilo?}
+{450}{}{[Sombra Que Camina, parece mirar de manera diferente, con mÃ¡s confianza en los ojos]. Ahora la Sombra Que Camina sabe que usted es de los cajeros de la verdad. Sombra Que Camina confÃ­a en usted.}
+{451}{}{Bueno, Â¿quÃ© vas a hacer ahora?}
+{452}{}{Â¿Tiene usted alguna idea de por quÃ© estos raiders podrÃ­an estar atacando BÃ³veda de la Ciudad?}
+{453}{}{Que curioso, he estado mintiendo todo el tiempo. Â¿CÃ³mo se siente, imbÃ©cil?}
+{460}{}{No, no lo sÃ©. Solo saben engaÃ±ar Sombra Que Camina en ayudarles a encontrar el camino.}
+{461}{}{Bueno, Â¿quÃ© vas a hacer ahora?}
+{462}{}{No sucede que tiene oÃ­do hablar de alguno de los nombres o algo por el estilo?}
 {463}{}{Bueno, no importa, voy a matar a todos ellos. Creo que me voy a calentar un poco, primero por matar...}
-{470}{}{Hmmm... tal vez. Cuando algunos de ellos iban a recibir más de la ruidoso, extraño armas... [hace gestos como si alguien usando un rifle de algún tipo]...se menciona un nombre... el Obispo. Sí, se habló de un hombre llamado Obispo.}
+{470}{}{Hmmm... tal vez. Cuando algunos de ellos iban a recibir mÃ¡s de la ruidoso, extraÃ±o armas... [hace gestos como si alguien usando un rifle de algÃºn tipo]...se menciona un nombre... el Obispo. SÃ­, se hablÃ³ de un hombre llamado Obispo.}
 {471}{}{Lo que yo veo. Bien, gracias, Sombra Que Camina, que han sido de gran ayuda.}
-{472}{}{Bueno. Ahora que tengo la información que yo quería, yo sólo voy a terminar este manojo de plagas, empezando con usted...}
-{480}{}{Sombra Que Camina gracias a usted, de la Sombra Que Camina, no le gusta ser engañado.}
-{481}{}{Son bienvenidos. ¿Y ahora qué, entonces?}
-{482}{}{Oh, de verdad? Y aquí estaba yo, pensando que sería utilizada por ahora, usted es un idiota y todo...}
-{490}{}{Sombra Que Camina, no ayuda. Sombra Que camina va a ir a casa, y no mostrará el mal a los hombres el camino de nuevo.}
-{491}{}{Bueno. Esto debería evitar que el mal que los hombres de dañar a personas inocentes en la Bóveda de la Ciudad de nuevo.}
-{500}{}{Sombra Que Camina gracias a usted, amigo, para traer la verdad. Pueden los espíritus guía su camino.}
+{472}{}{Bueno. Ahora que tengo la informaciÃ³n que yo querÃ­a, yo sÃ³lo voy a terminar este manojo de plagas, empezando con usted...}
+{480}{}{Sombra Que Camina gracias a usted, de la Sombra Que Camina, no le gusta ser engaÃ±ado.}
+{481}{}{Son bienvenidos. Â¿Y ahora quÃ©, entonces?}
+{482}{}{Oh, de verdad? Y aquÃ­ estaba yo, pensando que serÃ­a utilizada por ahora, usted es un idiota y todo...}
+{490}{}{Sombra Que Camina, no ayuda. Sombra Que camina va a ir a casa, y no mostrarÃ¡ el mal a los hombres el camino de nuevo.}
+{491}{}{Bueno. Esto deberÃ­a evitar que el mal que los hombres de daÃ±ar a personas inocentes en la BÃ³veda de la Ciudad de nuevo.}
+{500}{}{Sombra Que Camina gracias a usted, amigo, para traer la verdad. Pueden los espÃ­ritus guÃ­a su camino.}
 {501}{}{Y la de los tuyos.}
-{600}{}{[Su rostro se oscurece.] Que mal lugar. ¿Por qué debería Sombra Que Camina escuchar a uno que viene de lo malo de la Bóveda de la Ciudad?}
-{601}{}{Porque una sombra pronto será todo lo que queda de usted si usted no lo hace.}
-{602}{}{No me vengan a escuchar a obligar a escuchar. Yo he venido aquí para hacer de muerto.}
-{610}{}{[Estudia usted con recelo por un momento.] Sombra Que Camina va a escuchar. Ahora, ¿por qué estás aquí?}
-{611}{}{La bóveda de la Ciudad está bajo ataque pesado, y la Bóveda de los guardias de las ciudades no han sido capaces de averiguar quién es realmente atacar y cuáles son sus intenciones.}
-{612}{}{Bueno, realmente no tengo mucho que decir, así que sólo voy a dejar que mis puños de la conversación.}
-{620}{}{Y por qué debería Sombra Que Camina pensar que es una mala cosa? Están recibiendo lo que merecen, y la Sombra Que Camina va a ser feliz cuando son derrotados, y sus siervos liberados.}
-{621}{}{De modo, que el apoyo a quien está atacando a ellos?}
+{600}{}{[Su rostro se oscurece.] Que mal lugar. Â¿Por quÃ© deberÃ­a Sombra Que Camina escuchar a uno que viene de lo malo de la BÃ³veda de la Ciudad?}
+{601}{}{Porque una sombra pronto serÃ¡ todo lo que queda de usted si usted no lo hace.}
+{602}{}{No me vengan a escuchar a obligar a escuchar. Yo he venido aquÃ­ para hacer de muerto.}
+{610}{}{[Estudia usted con recelo por un momento.] Sombra Que Camina va a escuchar. Ahora, Â¿por quÃ© estÃ¡s aquÃ­?}
+{611}{}{La bÃ³veda de la Ciudad estÃ¡ bajo ataque pesado, y la BÃ³veda de los guardias de las ciudades no han sido capaces de averiguar quiÃ©n es realmente atacar y cuÃ¡les son sus intenciones.}
+{612}{}{Bueno, realmente no tengo mucho que decir, asÃ­ que sÃ³lo voy a dejar que mis puÃ±os de la conversaciÃ³n.}
+{620}{}{Y por quÃ© deberÃ­a Sombra Que Camina pensar que es una mala cosa? EstÃ¡n recibiendo lo que merecen, y la Sombra Que Camina va a ser feliz cuando son derrotados, y sus siervos liberados.}
+{621}{}{De modo, que el apoyo a quien estÃ¡ atacando a ellos?}
 {622}{}{Bueno, creo que no me voy a dejar de vivir lo suficiente para que eso suceda.}
-{630}{}{Sombra Que Camina les muestra el camino a la Bóveda de la Ciudad y de la espalda. Sombra Que Camina, es muy importante para ellos, es necesario para ellos para encontrar el camino.}
+{630}{}{Sombra Que Camina les muestra el camino a la BÃ³veda de la Ciudad y de la espalda. Sombra Que Camina, es muy importante para ellos, es necesario para ellos para encontrar el camino.}
 {631}{}{Pues bien, voy a tener que matar, y los ataques se debe detener.}
-{632}{}{Quieres decir ERA importante, ¿verdad? Lo que estoy tratando de decir es que te vas a morir ahora, por mi mano.}
-{640}{}{[Una mirada de miedo, lentamente, llena su rostro, y él comienza a retroceder.] Por favor, no! Sombra Que Camina, no quieren morir!}
-{641}{}{A continuación, salir de este lugar, y estas personas, en forma permanente. Voy a contar hasta diez, y si usted no se ha ido para entonces, usted va a unirse a sus antepasados en los cielos. UNO...}
+{632}{}{Quieres decir ERA importante, Â¿verdad? Lo que estoy tratando de decir es que te vas a morir ahora, por mi mano.}
+{640}{}{[Una mirada de miedo, lentamente, llena su rostro, y Ã©l comienza a retroceder.] Por favor, no! Sombra Que Camina, no quieren morir!}
+{641}{}{A continuaciÃ³n, salir de este lugar, y estas personas, en forma permanente. Voy a contar hasta diez, y si usted no se ha ido para entonces, usted va a unirse a sus antepasados en los cielos. UNO...}
 {642}{}{Demasiado tarde, mi querido tribales. Que van a reunirse con sus antepasados en acerca de...de 12 segundos.}
 {700}{}{(El tribales mira con el silencio)}
 {701}{}{[Mantenga mirando]}
 {702}{}{[Atacas]}
 {703}{}{Me llamo }
-{704}{}{. ¿Quién eres?}
-{705}{}{Estoy en una misión para la Bóveda de la Ciudad. ¿Quién eres tú?}
-{706}{}{Mi nombre no es importante. He venido a advertirte. Usted está en gran peligro!}
+{704}{}{. Â¿QuiÃ©n eres?}
+{705}{}{Estoy en una misiÃ³n para la BÃ³veda de la Ciudad. Â¿QuiÃ©n eres tÃº?}
+{706}{}{Mi nombre no es importante. He venido a advertirte. Usted estÃ¡ en gran peligro!}
 {707}{}{No importa, voy a dejar solo.}
-{708}{}{Yo no quiero hablar con usted no más, vacía encabezada animal comedero limpiaparabrisas! Yo de pedo en tu dirección! Su madre era un hámster y su padre olía de las bayas de saúco!}
+{708}{}{Yo no quiero hablar con usted no mÃ¡s, vacÃ­a encabezada animal comedero limpiaparabrisas! Yo de pedo en tu direcciÃ³n! Su madre era un hÃ¡mster y su padre olÃ­a de las bayas de saÃºco!}
 {710}{}{(El tribal sigue mirando a usted con el silencio)}
 {711}{}{[Mantenga mirando]}
 {712}{}{[Atacas]}
 {713}{}{Me llamo }
-{714}{}{. ¿Quién eres?}
-{715}{}{Estoy en una misión para la Bóveda de la Ciudad. ¿Quién eres tú?}
-{716}{}{Mi nombre no es importante. He venido a advertirte. Usted está en gran peligro!}
+{714}{}{. Â¿QuiÃ©n eres?}
+{715}{}{Estoy en una misiÃ³n para la BÃ³veda de la Ciudad. Â¿QuiÃ©n eres tÃº?}
+{716}{}{Mi nombre no es importante. He venido a advertirte. Usted estÃ¡ en gran peligro!}
 {717}{}{No importa, voy a dejar solo.}
-{718}{}{Yo no quiero hablar con usted no más, vacía encabezada animal comedero limpiaparabrisas! Yo de pedo en tu dirección! Su madre era un hámster y su padre olía de las bayas de saúco!}
-{720}{}{(El tribal sigue mirando a usted con el silencio. Es claro que se está volviendo impaciente.)}
+{718}{}{Yo no quiero hablar con usted no mÃ¡s, vacÃ­a encabezada animal comedero limpiaparabrisas! Yo de pedo en tu direcciÃ³n! Su madre era un hÃ¡mster y su padre olÃ­a de las bayas de saÃºco!}
+{720}{}{(El tribal sigue mirando a usted con el silencio. Es claro que se estÃ¡ volviendo impaciente.)}
 {721}{}{[Mantenga mirando]}
 {722}{}{[Atacas]}
 {723}{}{Me llamo }
-{724}{}{. ¿Quién eres?}
-{725}{}{Estoy en una misión para la Bóveda de la Ciudad. ¿Quién eres tú?}
-{726}{}{Mi nombre no es importante. He venido a advertirte. Usted está en gran peligro!}
+{724}{}{. Â¿QuiÃ©n eres?}
+{725}{}{Estoy en una misiÃ³n para la BÃ³veda de la Ciudad. Â¿QuiÃ©n eres tÃº?}
+{726}{}{Mi nombre no es importante. He venido a advertirte. Usted estÃ¡ en gran peligro!}
 {727}{}{No importa, voy a dejar solo.}
-{728}{}{Yo no quiero hablar con usted no más, vacía encabezada animal comedero limpiaparabrisas! Yo de pedo en tu dirección! Su madre era un hámster y su padre olía de las bayas de saúco!}
-{800}{}{Sombra Que Camina cree que no. Sombra Que Camina es a través de la conversación. Adiós.}
+{728}{}{Yo no quiero hablar con usted no mÃ¡s, vacÃ­a encabezada animal comedero limpiaparabrisas! Yo de pedo en tu direcciÃ³n! Su madre era un hÃ¡mster y su padre olÃ­a de las bayas de saÃºco!}
+{800}{}{Sombra Que Camina cree que no. Sombra Que Camina es a travÃ©s de la conversaciÃ³n. AdiÃ³s.}
 {801}{}{[FIN]}
-{802}{}{No le dé la espalda a mí tribales. Yo estoy hablando con usted.}
-{810}{}{Cómo te atreves a amenazar Sombra Que Camina. Salir ahora.}
+{802}{}{No le dÃ© la espalda a mÃ­ tribales. Yo estoy hablando con usted.}
+{810}{}{CÃ³mo te atreves a amenazar Sombra Que Camina. Salir ahora.}
 {811}{}{[Te vas]}
 {812}{}{[Atacas]}
-{850}{}{¿Quién anda ahí?}
+{850}{}{Â¿QuiÃ©n anda ahÃ­?}
 {851}{}{Shhh... Estoy cazando conejos.}
-{852}{}{HeeeeHeee! Jeje... Él... Usted tiene buenos cuadros, como una imagen... Heeee!}
-{900}{}{Sombra Que Camina no entiende. ¿A qué te refieres?}
-{901}{}{Usted está en gran peligro! Solo dime, ¿qué haces aquí. Necesito saber si estoy hablando con la persona correcta.}
-{902}{}{Uh, los malos espíritus vienen por ti.}
-{903}{}{El peligro es que yo estoy aquí para matarte.}
-{910}{}{Sombra Que Camina es un scout. Sombra Que Camina guías de estos Rangers a través de las montañas. Los guerreros pueden perderse si
- no conocen los caminos a través de las montañas.}
-{911}{}{Entonces es usted! Mi mayor me envió a decir que algo terrible le acontecen.}
-{912}{}{Es que lo que he dicho, que son Rangers? No hay Rangers por aquí, no son más que mentiras.}
-{913}{}{Rangers? No se trata de Rangers. Solo mira su ropa. Eres un peón en su juego. Ellos son sólo el uso de usted.}
-{920}{}{Qué!? Sombra Que Camina hace entender. ¿Por qué un Anciano decir tales cosas?}
-{921}{}{Escuchar a mí! Nuestro Anciano de la aldea previó su muerte. La próxima vez que salga de esta cueva para guiar a estos hombres a través de la
- montañas, usted no va a regresar vivo. Usted debe salir de aquí inmediatamente o a los malos espíritus llevará.}
-{922}{}{Qué duda el Anciano?}
-{930}{}{W-¿por Qué... por Qué deben Sombra Que Camina cree usted? Cómo hizo el Élder prever estos acontecimientos?}
-{931}{}{Bueno... estaba viendo esta película de una vez... No, No... Uh, ella estaba jugando este videojuego... Mmmmm... ¡Sí! Se llama Fal-...}
-{932}{}{Ella bebió de esta bebida, olía muy fuerte, y de sueños vívidos, se acercó a ella.}
-{933}{}{El hueso de aquí nariz le dijo. Esta es la forma en que ella se comunica con nuestros antepasados.}
-{940}{}{Usted está mintiendo. Esto no es cómo uno habla con los espíritus. Ahora la Sombra Que Camina, va a ver cómo la lengua de mentiroso gustos con los favoritos de brock salsa.}
+{852}{}{HeeeeHeee! Jeje... Ã‰l... Usted tiene buenos cuadros, como una imagen... Heeee!}
+{900}{}{Sombra Que Camina no entiende. Â¿A quÃ© te refieres?}
+{901}{}{Usted estÃ¡ en gran peligro! Solo dime, Â¿quÃ© haces aquÃ­. Necesito saber si estoy hablando con la persona correcta.}
+{902}{}{Uh, los malos espÃ­ritus vienen por ti.}
+{903}{}{El peligro es que yo estoy aquÃ­ para matarte.}
+{910}{}{Sombra Que Camina es un scout. Sombra Que Camina guÃ­as de estos Rangers a travÃ©s de las montaÃ±as. Los guerreros pueden perderse si
+ no conocen los caminos a travÃ©s de las montaÃ±as.}
+{911}{}{Entonces es usted! Mi mayor me enviÃ³ a decir que algo terrible le acontecen.}
+{912}{}{Es que lo que he dicho, que son Rangers? No hay Rangers por aquÃ­, no son mÃ¡s que mentiras.}
+{913}{}{Rangers? No se trata de Rangers. Solo mira su ropa. Eres un peÃ³n en su juego. Ellos son sÃ³lo el uso de usted.}
+{920}{}{QuÃ©!? Sombra Que Camina hace entender. Â¿Por quÃ© un Anciano decir tales cosas?}
+{921}{}{Escuchar a mÃ­! Nuestro Anciano de la aldea previÃ³ su muerte. La prÃ³xima vez que salga de esta cueva para guiar a estos hombres a travÃ©s de la
+ montaÃ±as, usted no va a regresar vivo. Usted debe salir de aquÃ­ inmediatamente o a los malos espÃ­ritus llevarÃ¡.}
+{922}{}{QuÃ© duda el Anciano?}
+{930}{}{W-Â¿por QuÃ©... por QuÃ© deben Sombra Que Camina cree usted? CÃ³mo hizo el Ã‰lder prever estos acontecimientos?}
+{931}{}{Bueno... estaba viendo esta pelÃ­cula de una vez... No, No... Uh, ella estaba jugando este videojuego... Mmmmm... Â¡SÃ­! Se llama Fal-...}
+{932}{}{Ella bebiÃ³ de esta bebida, olÃ­a muy fuerte, y de sueÃ±os vÃ­vidos, se acercÃ³ a ella.}
+{933}{}{El hueso de aquÃ­ nariz le dijo. Esta es la forma en que ella se comunica con nuestros antepasados.}
+{940}{}{Usted estÃ¡ mintiendo. Esto no es cÃ³mo uno habla con los espÃ­ritus. Ahora la Sombra Que Camina, va a ver cÃ³mo la lengua de mentiroso gustos con los favoritos de brock salsa.}
 {941}{}{[HECHO]}
-{950}{}{Oh, entonces es cierto lo que usted habla. Sombra Que Camina, conoce el poder de los espíritus. Lo que debe Sombra Que Camina a hacer?}
+{950}{}{Oh, entonces es cierto lo que usted habla. Sombra Que Camina, conoce el poder de los espÃ­ritus. Lo que debe Sombra Que Camina a hacer?}
 {951}{}{Bueno, acabo de hablar con ellos y me dijeron que no me gusta mucho. Me preguntaron a matar.}
-{952}{}{Tienes que salir de aquí para siempre y nunca guiar a estos hombres de nuevo. Los espíritus están enojados con usted por el líder de estos hombres
- a través de las montañas. Orar diariamente a los espíritus y sólo entonces su ira se levantó.}
+{952}{}{Tienes que salir de aquÃ­ para siempre y nunca guiar a estos hombres de nuevo. Los espÃ­ritus estÃ¡n enojados con usted por el lÃ­der de estos hombres
+ a travÃ©s de las montaÃ±as. Orar diariamente a los espÃ­ritus y sÃ³lo entonces su ira se levantÃ³.}
 {960}{}{Sombra Que Camina obedece. [Sombra Que Camina, corre hacia la escalera que conduce al exterior]}
 {961}{}{Usted es bienvenido Sombra Que se Ejecuta.}
-{1000}{}{Has destruido la fuerza de los Saqueadores. No podrán atacar más la región.}
-{1001}{}{Darle un día o dos, y estoy seguro de que estos Raiders vamos a abandonar este lugar. Entonces puedo mirar a su alrededor en busca de información.}
+{1000}{}{Has destruido la fuerza de los Saqueadores. No podrÃ¡n atacar mÃ¡s la regiÃ³n.}
+{1001}{}{Darle un dÃ­a o dos, y estoy seguro de que estos Raiders vamos a abandonar este lugar. Entonces puedo mirar a su alrededor en busca de informaciÃ³n.}

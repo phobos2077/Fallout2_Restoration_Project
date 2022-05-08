@@ -1,4 +1,4 @@
-1:Os habitantes de New Reno foram abatidos, e a cidade caiu em ruínas.
-2:Nenhuma luz brilha lá agora, as ruas servem de casa apenas para matilhas de cães selvagens e os abutres.
-3:As tribos do deserto evitam o cemitério gigante, alegando que a cidade é assombrada por espíritos malignos.
-4:Alguns dizem que a destruição de Nova Reno foi um julgamento de um poder superior.
+1:Os habitantes de New Reno foram abatidos, e a cidade caiu em ruÃ­nas.
+2:Nenhuma luz brilha lÃ¡ agora, as ruas servem de casa apenas para matilhas de cÃ£es selvagens e os abutres.
+3:As tribos do deserto evitam o cemitÃ©rio gigante, alegando que a cidade Ã© assombrada por espÃ­ritos malignos.
+4:Alguns dizem que a destruiÃ§Ã£o de Nova Reno foi um julgamento de um poder superior.

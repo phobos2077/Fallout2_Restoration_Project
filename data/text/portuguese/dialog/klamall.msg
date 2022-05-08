@@ -1,1 +1,1 @@
-{100}{}{Você entrou no Bairro dos caçadores.}
+{100}{}{VocÃª entrou no Bairro dos caÃ§adores.}

@@ -1,40 +1,40 @@
-{100}{}{Você vê um técnico.}
-{101}{}{Você vê um Enclave técnico.}
-{102}{}{Você vê alguém usando um bata de laboratório. Ele parece confiante e seguro de si mesmo.}
+{100}{}{VocÃª vÃª um tÃ©cnico.}
+{101}{}{VocÃª vÃª um Enclave tÃ©cnico.}
+{102}{}{VocÃª vÃª alguÃ©m usando um bata de laboratÃ³rio. Ele parece confiante e seguro de si mesmo.}
 {103}{}{Sim, soldado?}
 {104}{}{O que este lugar?}
 {105}{}{Eu apenas disse oi. Eu vou agora.}
-{106}{}{O que é este lugar?}
-{107}{}{Só dizendo Oi. Até mais.}
-{108}{}{Esta é a sala de computadores. Esse é o mainframe por aí, o terminal da interface está ao lado dele e esses dispositivos são as unidades de armazenamento de dados holotape. Este é o mais recente e o melhor.}
-{109}{}{Oh. Uh, o Que você faz?}
-{110}{}{Então, o que você faz aqui?}
-{111}{}{Eu sou o analista sênior de informática. Eu consigo manter todo o equipamento aqui.}
+{106}{}{O que Ã© este lugar?}
+{107}{}{SÃ³ dizendo Oi. AtÃ© mais.}
+{108}{}{Esta Ã© a sala de computadores. Esse Ã© o mainframe por aÃ­, o terminal da interface estÃ¡ ao lado dele e esses dispositivos sÃ£o as unidades de armazenamento de dados holotape. Este Ã© o mais recente e o melhor.}
+{109}{}{Oh. Uh, o Que vocÃª faz?}
+{110}{}{EntÃ£o, o que vocÃª faz aqui?}
+{111}{}{Eu sou o analista sÃªnior de informÃ¡tica. Eu consigo manter todo o equipamento aqui.}
 {112}{}{Oh. - Me usar o computador?}
-{113}{}{Não Me entender. - Me ir.}
-{114}{}{Diga, posso usar o sistema por um minuto? Você sabe, o check-out?}
-{115}{}{Hey, bom falar com você. Eu te vejo mais tarde.}
-{116}{}{Bem ... Eu não deveria permitir que ninguém além de pessoal treinado use o equipamento. É tudo bastante complexo e delicado se você entende.}
-{117}{}{Por favor? Não Me quebrar.}
-{118}{}{Eu prometo não quebrá-lo.}
-{119}{}{Tudo bem. Você pode acessar o sistema do terminal lá. Apenas tenha cuidado, por favor. Eles nos dispararão ambos, se você danificar a máquina. Ah, a senha do convidado é 'Snookie'.}
-{120}{}{Desculpe, mas está fora de questão. Eu nem mesmo deveria permitir que o pessoal alistado na sala permitia que eles usassem o equipamento.}
-{121}{}{Snookie? O que é snookie?}
+{113}{}{NÃ£o Me entender. - Me ir.}
+{114}{}{Diga, posso usar o sistema por um minuto? VocÃª sabe, o check-out?}
+{115}{}{Hey, bom falar com vocÃª. Eu te vejo mais tarde.}
+{116}{}{Bem ... Eu nÃ£o deveria permitir que ninguÃ©m alÃ©m de pessoal treinado use o equipamento. Ã‰ tudo bastante complexo e delicado se vocÃª entende.}
+{117}{}{Por favor? NÃ£o Me quebrar.}
+{118}{}{Eu prometo nÃ£o quebrÃ¡-lo.}
+{119}{}{Tudo bem. VocÃª pode acessar o sistema do terminal lÃ¡. Apenas tenha cuidado, por favor. Eles nos dispararÃ£o ambos, se vocÃª danificar a mÃ¡quina. Ah, a senha do convidado Ã© 'Snookie'.}
+{120}{}{Desculpe, mas estÃ¡ fora de questÃ£o. Eu nem mesmo deveria permitir que o pessoal alistado na sala permitia que eles usassem o equipamento.}
+{121}{}{Snookie? O que Ã© snookie?}
 {122}{}{Ok. Me entender.}
-{123}{}{Snookie? O que diabos é uma snookie?}
+{123}{}{Snookie? O que diabos Ã© uma snookie?}
 {124}{}{Tudo bem. Eu entendo.}
-{125}{}{'Snookie' é o apelido da minha namorada. Eu acho que é fofo. A propósito, ela está fora no salão. Ela é uma das guardas.}
+{125}{}{'Snookie' Ã© o apelido da minha namorada. Eu acho que Ã© fofo. A propÃ³sito, ela estÃ¡ fora no salÃ£o. Ela Ã© uma das guardas.}
 {126}{}{Ok, muito bem. Obrigado.}
 {127}{}{Sim... Bonito. Obrigado.}
-{128}{}{Você está fora do uniforme. }
-{129}{}{É melhor você se adequar. Arsenal está no corredor do lado esquerdo.}
-{130}{}{Você está tendo uma grande chance de estar fora de uniforme. Melhor você informar ao fornecimento.}
-{131}{}{Quem diabos são vocês... Alerta! Intrusos!}
+{128}{}{VocÃª estÃ¡ fora do uniforme. }
+{129}{}{Ã‰ melhor vocÃª se adequar. Arsenal estÃ¡ no corredor do lado esquerdo.}
+{130}{}{VocÃª estÃ¡ tendo uma grande chance de estar fora de uniforme. Melhor vocÃª informar ao fornecimento.}
+{131}{}{Quem diabos sÃ£o vocÃªs... Alerta! Intrusos!}
 {132}{}{Temos sido infiltrados! Alerta!}
-{133}{}{Vários intrusos! Soar o alarme!}
-{134}{}{Merda! Obter as cópias de segurança iniciado.}
-{135}{}{Encerrar todas as operações secretas.}
-{136}{}{Proteger o sistema e habilitar todas as senhas de segurança.}
-{137}{}{Eu sou um cientista, não um lutador!}
+{133}{}{VÃ¡rios intrusos! Soar o alarme!}
+{134}{}{Merda! Obter as cÃ³pias de seguranÃ§a iniciado.}
+{135}{}{Encerrar todas as operaÃ§Ãµes secretas.}
+{136}{}{Proteger o sistema e habilitar todas as senhas de seguranÃ§a.}
+{137}{}{Eu sou um cientista, nÃ£o um lutador!}
 {138}{}{O extremo pontilhado com o diodo laser vai para o inimigo. Em seguida, puxe o gatilho.}
-{139}{}{Ajuda! Ajuda! Para o laboratório de informática!}
+{139}{}{Ajuda! Ajuda! Para o laboratÃ³rio de informÃ¡tica!}

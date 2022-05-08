@@ -1,7 +1,7 @@
-{100}{}{Comment oses-tu interrompre ma méditation ?}
-{101}{}{Esprits de la terre, à l'attaque !}
-{102}{}{Grands Esprits, protégez-moi !}
+{100}{}{Comment oses-tu interrompre ma mÃ©ditation ?}
+{101}{}{Esprits de la terre, Ã  l'attaque !}
+{102}{}{Grands Esprits, protÃ©gez-moi !}
 {103}{}{Mes os nourriront la terre... mais pas maintenant.}
-{104}{}{Esprits, laisse béton ! J'me tire !}
-{105}{}{Tu vois un illuminé.}
+{104}{}{Esprits, laisse bÃ©ton ! J'me tire !}
+{105}{}{Tu vois un illuminÃ©.}
 {106}{}{Tu vois une sainte femme.}

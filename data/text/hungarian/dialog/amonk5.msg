@@ -2,7 +2,7 @@
 {101}{}{You see Brother Paul.}
 {102}{}{This monk looks like a computer geek.}
 {200}{}{Hi!}
-{201}{}{Helló!}
+{201}{}{HellÃ³!}
 {202}{}{Now, did I backup those computer files today...}
 {203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
 {300}{}{Igen?}
@@ -11,28 +11,28 @@
 {303}{}{Tell me about your leader.}
 {304}{}{Do you have any info about a GECK?}
 {305}{}{Do you know where I could find Vault 13?}
-{306}{}{Viszlát!}
+{306}{}{ViszlÃ¡t!}
 {307}{}{I am in need of some specific information.}
-{308}{}{Úgymint?}
+{308}{}{Ãšgymint?}
 {400}{}{Yes, we have. Too many, in my opinion. I can't express to you the tedium of having to back up all these files
  each and every day. There's just so much information to preserve, but, of course, it must be done.}
 {401}{}{Of course. Anyway, I have some other questions.}
 {402}{}{We are an independent community. Anyone is welcome as long as they behave themselves.}
-{403}{}{Oké.}
+{403}{}{OkÃ©.}
 {404}{}{The Abbot is a good spiritual leader, but he's been a little cranky since we lost Brother Thomas to the beast.}
 {405}{}{What kind of beast?}
 {406}{}{I haven't seen it, personally--there's nothing in the world that could get me to go down there and explore those
  caverns--but if I had to guess, I'd say it's probably just some overgrown radscorpion.}
 {407}{}{If you haven't seen it, then what makes you think it's a radscorpion?}
 {408}{}{Because I've heard sounds echoing up from the caves--the sounds of snapping claws and skittering legs.}
-{409}{}{Úgy van.}
+{409}{}{Ãšgy van.}
 {410}{}{In fact, we do. Take a look on that computer over there. Here, you can use this card to access our encrypted files. [He hands you an access card.]}
 {411}{}{Wow, thanks a lot!}
 {412}{}{I don't know anything about Vault 13, but there is Vault City down south. Maybe they have the info you need.}
-{413}{}{Köszi.}
+{413}{}{KÃ¶szi.}
 {414}{}{That computer near me should have the information you seek, but you'd need an access card to use it.
  We're very selective with who we give access to, but if you speak to the Abbot, perhaps he'll grant you permission.}
-{415}{}{Oké, köszönöm.}
+{415}{}{OkÃ©, kÃ¶szÃ¶nÃ¶m.}
 {420}{}{I'm guessing you've read a lot of books in your time. So I'm curious, what's the most fascinating thing you could tell me?}
 {421}{}{Hmm, let's see. Did you know a notch in a tree will remain the same distance from the ground as the tree grows?}
 {422}{}{Sure. If I come across anything like that, I'll be sure to let you know.}
@@ -66,4 +66,4 @@
  information, you could bring it to me? I'd be most grateful. Of course, it'd have to be our secret.}
 {4220}{}{I don't think I want to contribute to your plant obsession. Sorry.}
 {4221}{}{Oh, well then. Fine, forget I asked.}
-{4222}{}{Feltennék még kérdéseket.}
+{4222}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}

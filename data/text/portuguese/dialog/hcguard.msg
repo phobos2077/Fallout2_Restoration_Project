@@ -1,9 +1,9 @@
-{100}{}{Você vê uma guarda Hubologista.}
-{101}{}{Você vê uma pessoa armada e com um olhar cruel.}
-{110}{}{Você vê um Hubologista.}
-{111}{}{Ele está olhando para os vários equipamentos de computação à sua frente.}
+{100}{}{VocÃª vÃª uma guarda Hubologista.}
+{101}{}{VocÃª vÃª uma pessoa armada e com um olhar cruel.}
+{110}{}{VocÃª vÃª um Hubologista.}
+{111}{}{Ele estÃ¡ olhando para os vÃ¡rios equipamentos de computaÃ§Ã£o Ã  sua frente.}
 {200}{}{Somos leais ao AHS-9.}
-{201}{}{O Pai Estrela cuida de todos nós.}
-{202}{}{É chato por aqui, mas é nosso trabalho cuidar das doações.}
-{203}{}{Saudações, amigo.}
-{300}{}{Não mexa em nada.}
+{201}{}{O Pai Estrela cuida de todos nÃ³s.}
+{202}{}{Ã‰ chato por aqui, mas Ã© nosso trabalho cuidar das doaÃ§Ãµes.}
+{203}{}{SaudaÃ§Ãµes, amigo.}
+{300}{}{NÃ£o mexa em nada.}

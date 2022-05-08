@@ -1,53 +1,53 @@
 {100}{}{}
-{101}{}{Widzisz cz³onka plemienia}
+{101}{}{Widzisz czÅ‚onka plemienia}
 {102}{}{Widzisz Marliego}
 {103}{}{Widzisz wojownika, z chmurnym wyrazem twarzy.}
-{110}{}{IdŸ sobie. Rozmyœlam i nie chcê, ¿eby ktokolwiek mi przeszkadza³. Wróæ kiedy indziej.}
-{111}{}{Nie musisz byæ od razu taki szorstki. ¯egnaj.}
-{112}{}{Phi, dotykaæ czyichœ rzeczy bez pozwolenia. Ale, przynajmniej studnia jest naprawiona.}
-{113}{}{Jasne. Nie dziêkuj.}
-{114}{}{Wszystko jedno. Nie ma to jak byæ niewdziêcznym.}
+{110}{}{IdÅº sobie. RozmyÅ›lam i nie chcÄ™, Å¼eby ktokolwiek mi przeszkadzaÅ‚. WrÃ³Ä‡ kiedy indziej.}
+{111}{}{Nie musisz byÄ‡ od razu taki szorstki. Å»egnaj.}
+{112}{}{Phi, dotykaÄ‡ czyichÅ› rzeczy bez pozwolenia. Ale, przynajmniej studnia jest naprawiona.}
+{113}{}{Jasne. Nie dziÄ™kuj.}
+{114}{}{Wszystko jedno. Nie ma to jak byÄ‡ niewdziÄ™cznym.}
 {120}{}{Czego chcesz?}
-{121}{}{Widzê, ¿e masz jakiœ problem ze studni¹. O co chodzi?}
-{130}{}{[Krzywi siê.] Ktoœ ukrad³ linê ze studni. Nie wiem kto, udusi³bym gdym wiedzia³. Od tego czasu polegamy na wodzie z opadów, ale jest jej za ma³o. Potrzebujemy nowej liny, ¿eby móc znowu czerpaæ j¹ ze studni. Pewnie nie masz ¿adnej przy sobie?}
-{131}{}{Nie przy sobie, przykro mi. Ale du¿o podró¿ujê, wiêc mogê ci jedn¹ zdobyæ.}
-{132}{}{Tak siê sk³ada, ¿e mam. Zobaczê czy mogê ci naprawiæ tê studnie.}
-{133}{}{Nie, ale nie s¹dzê ¿eby zdobycie liny by³o specjalnie trudne. Na pewno sobie poradzicie. Czeœæ.}
-{140}{}{Uda³o Ci siê ju¿ naprawiæ studniê?}
-{141}{}{Nie, obawiam siê, ¿e jeszcze nie.}
-{142}{}{Czy to ci wygl¹da na naprawione? Stoisz zaraz przy tej pieprzonej studni. Debilu.}
-{150}{}{To jak, studnia ju¿ naprawiona?}
+{121}{}{WidzÄ™, Å¼e masz jakiÅ› problem ze studniÄ…. O co chodzi?}
+{130}{}{[Krzywi siÄ™.] KtoÅ› ukradÅ‚ linÄ™ ze studni. Nie wiem kto, udusiÅ‚bym gdym wiedziaÅ‚. Od tego czasu polegamy na wodzie z opadÃ³w, ale jest jej za maÅ‚o. Potrzebujemy nowej liny, Å¼eby mÃ³c znowu czerpaÄ‡ jÄ… ze studni. Pewnie nie masz Å¼adnej przy sobie?}
+{131}{}{Nie przy sobie, przykro mi. Ale duÅ¼o podrÃ³Å¼ujÄ™, wiÄ™c mogÄ™ ci jednÄ… zdobyÄ‡.}
+{132}{}{Tak siÄ™ skÅ‚ada, Å¼e mam. ZobaczÄ™ czy mogÄ™ ci naprawiÄ‡ tÄ™ studnie.}
+{133}{}{Nie, ale nie sÄ…dzÄ™ Å¼eby zdobycie liny byÅ‚o specjalnie trudne. Na pewno sobie poradzicie. CzeÅ›Ä‡.}
+{140}{}{UdaÅ‚o Ci siÄ™ juÅ¼ naprawiÄ‡ studniÄ™?}
+{141}{}{Nie, obawiam siÄ™, Å¼e jeszcze nie.}
+{142}{}{Czy to ci wyglÄ…da na naprawione? Stoisz zaraz przy tej pieprzonej studni. Debilu.}
+{150}{}{To jak, studnia juÅ¼ naprawiona?}
 {151}{}{Jasne, sznur jest na miejscu. Widzisz?}
-{160}{}{[Popatrzy³ na studnie i parskn¹³.] Na co komu lina bez przywi¹zanego do niej wiadra? Czy mo¿e u ciebie pijê siê zlizuj¹c wodê z mokrego sznura? [Potrz¹sa g³ow¹ i mamrocze coœ pod nosem.] S³uchaj, po prostu przymocuj wiadro, a ja zadbam ¿eby ci to wynagrodziæ.}
-{161}{}{W porz¹dku.}
-{162}{}{A mo¿e *TY* przymocujesz wiadro, a ja w zamian mo¿e nie nakopie ci do dupy.}
-{170}{}{Wiadro ju¿ przywi¹zane?}
+{160}{}{[PopatrzyÅ‚ na studnie i parsknÄ…Å‚.] Na co komu lina bez przywiÄ…zanego do niej wiadra? Czy moÅ¼e u ciebie pijÄ™ siÄ™ zlizujÄ…c wodÄ™ z mokrego sznura? [PotrzÄ…sa gÅ‚owÄ… i mamrocze coÅ› pod nosem.] SÅ‚uchaj, po prostu przymocuj wiadro, a ja zadbam Å¼eby ci to wynagrodziÄ‡.}
+{161}{}{W porzÄ…dku.}
+{162}{}{A moÅ¼e *TY* przymocujesz wiadro, a ja w zamian moÅ¼e nie nakopie ci do dupy.}
+{170}{}{Wiadro juÅ¼ przywiÄ…zane?}
 {171}{}{Nie, jeszcze nie.}
-{172}{}{A *wygl¹da* na przywi¹zane?}
-{180}{}{Studnia naprawiona? Wiadro przywi¹zane i wszystko zrobione?}
-{181}{}{Tak, wszystko ju¿ zrobione.}
+{172}{}{A *wyglÄ…da* na przywiÄ…zane?}
+{180}{}{Studnia naprawiona? Wiadro przywiÄ…zane i wszystko zrobione?}
+{181}{}{Tak, wszystko juÅ¼ zrobione.}
 {182}{}{...}
-{190}{}{Œwietnie! Wiesz co, wy przybysze nie wszyscy jesteœcie tacy Ÿli, jak mi siê wydawa³o. Proszê weŸ te pieni¹dze. Znalaz³em je na pustkowiu, tu i tak nie mamy z nich po¿ytku.}
-{191}{}{Dziêkujê.}
-{200}{}{Hej, studnia sprawuje siê wyœmienicie!}
-{201}{}{Dziêkujemy za pomoc.}
-{202}{}{Mi³o Ciê znów widzieæ.}
-{210}{}{Nie weŸmiesz nas ¿ywcem, ³owco niewolników!}
-{300}{}{Dobra, nie ma powodu ¿eby siê denerwowaæ. Ja to zrobiê. [Be³kocze pod nosem.] Stukniêty Przybysz...}
+{190}{}{Åšwietnie! Wiesz co, wy przybysze nie wszyscy jesteÅ›cie tacy Åºli, jak mi siÄ™ wydawaÅ‚o. ProszÄ™ weÅº te pieniÄ…dze. ZnalazÅ‚em je na pustkowiu, tu i tak nie mamy z nich poÅ¼ytku.}
+{191}{}{DziÄ™kujÄ™.}
+{200}{}{Hej, studnia sprawuje siÄ™ wyÅ›mienicie!}
+{201}{}{DziÄ™kujemy za pomoc.}
+{202}{}{MiÅ‚o CiÄ™ znÃ³w widzieÄ‡.}
+{210}{}{Nie weÅºmiesz nas Å¼ywcem, Å‚owco niewolnikÃ³w!}
+{300}{}{Dobra, nie ma powodu Å¼eby siÄ™ denerwowaÄ‡. Ja to zrobiÄ™. [BeÅ‚kocze pod nosem.] StukniÄ™ty Przybysz...}
 {301}{}{[dalej]}
-{310}{}{[Spojrza³ na ciebie groŸnie zmru¿onymi oczyma, a potem na studnie.] Nie.}
-{311}{}{Wiêc nie, nie uda³o mi siê go przymocowaæ.}
-{320}{}{Hej, s³yszysz mnie? Pytam czy studnia jest ju¿ naprawiona.}
-{321}{}{. . . [Wzdychasz ciê¿ko, i pokazujesz na studnie.]}
-{330}{}{[Odwraca siê i patrzy na studniê, a potem odwraca siê z powrotem do ciebie.] Tak, teraz wygl¹da na naprawion¹. Trzeba by³o tak od razu mówiæ? W ka¿dym razie, tu s¹ pieni¹dze dla ciebie. Znalaz³em je na pustkowiu, tu nie mamy z nich po¿ytku.}
-{331}{}{. . . [Bierzesz pieni¹dze i odchodzisz.] }
-{400}{}{[Kiedy zaczynasz odchodziæ, Marli przygl¹da ci siê uwa¿nie.] Aaa! Widzê, ¿e masz pistolet maszynowy. [Patrzy têsknie na broñ.] Mieliœmy kiedyœ jeden, ale Sulik nigdy nie mia³ zbyt dobrego podejœcia do broni. Zgubi³ go podczas walki. Taka szkoda. Moja magia by³aby przera¿aj¹co silna gdybym tylko mia³ "Odbieracz-dusz" taki jak ten.}
-{401}{}{Jeœli chcesz karabin, mo¿esz go mieæ. Jestem pewien, ¿e znajdê inny. [Wrêczasz Marli SMG.]}
-{402}{}{Po prostu weŸ go. Mi ju¿ siê nie przyda. [Wrêczasz Marli SMG.]}
-{403}{}{Tak, za³o¿ê siê. W ka¿dym razie, teraz ja i  mój "Odbieracz-dusz" pójdziemy sobie gdzie indziej.}
-{404}{}{Zachowaj swoj¹ magiê dla siebie, kolego. Pa.}
-{410}{}{[Gdy patrzy na broñ, uœmiecha siê jak wariat.] Oh, jesteœ dobrym przyjacielem Marli, najlepszym, Trzymaj, d³ugo ukrywa³em t¹ s³odk¹ "b¹belkow¹-wodê", ale teraz myœlê, ¿e powinna trafiæ do ciebie. [Daje ci butelkê Nuka-Coli.] Teraz mogê stan¹æ na przekór ognistej œmierci z r¹k.. eeee ³ap gekonów. [Biegnie na tereny ³owieckie.]}
-{411}{}{Moja magia jest teraz przera¿aj¹co silna!}
-{1000}{}{Uda³o ci siê naprawiæ studnie Plemienia.}
-{2000}{}{Przepraszam, ¿e by³em dla ciebie takim dupkiem. }
-{2001}{}{Przepraszam, zgubi³em twoj¹ broñ.}
+{310}{}{[SpojrzaÅ‚ na ciebie groÅºnie zmruÅ¼onymi oczyma, a potem na studnie.] Nie.}
+{311}{}{WiÄ™c nie, nie udaÅ‚o mi siÄ™ go przymocowaÄ‡.}
+{320}{}{Hej, sÅ‚yszysz mnie? Pytam czy studnia jest juÅ¼ naprawiona.}
+{321}{}{. . . [Wzdychasz ciÄ™Å¼ko, i pokazujesz na studnie.]}
+{330}{}{[Odwraca siÄ™ i patrzy na studniÄ™, a potem odwraca siÄ™ z powrotem do ciebie.] Tak, teraz wyglÄ…da na naprawionÄ…. Trzeba byÅ‚o tak od razu mÃ³wiÄ‡? W kaÅ¼dym razie, tu sÄ… pieniÄ…dze dla ciebie. ZnalazÅ‚em je na pustkowiu, tu nie mamy z nich poÅ¼ytku.}
+{331}{}{. . . [Bierzesz pieniÄ…dze i odchodzisz.] }
+{400}{}{[Kiedy zaczynasz odchodziÄ‡, Marli przyglÄ…da ci siÄ™ uwaÅ¼nie.] Aaa! WidzÄ™, Å¼e masz pistolet maszynowy. [Patrzy tÄ™sknie na broÅ„.] MieliÅ›my kiedyÅ› jeden, ale Sulik nigdy nie miaÅ‚ zbyt dobrego podejÅ›cia do broni. ZgubiÅ‚ go podczas walki. Taka szkoda. Moja magia byÅ‚aby przeraÅ¼ajÄ…co silna gdybym tylko miaÅ‚ "Odbieracz-dusz" taki jak ten.}
+{401}{}{JeÅ›li chcesz karabin, moÅ¼esz go mieÄ‡. Jestem pewien, Å¼e znajdÄ™ inny. [WrÄ™czasz Marli SMG.]}
+{402}{}{Po prostu weÅº go. Mi juÅ¼ siÄ™ nie przyda. [WrÄ™czasz Marli SMG.]}
+{403}{}{Tak, zaÅ‚oÅ¼Ä™ siÄ™. W kaÅ¼dym razie, teraz ja i  mÃ³j "Odbieracz-dusz" pÃ³jdziemy sobie gdzie indziej.}
+{404}{}{Zachowaj swojÄ… magiÄ™ dla siebie, kolego. Pa.}
+{410}{}{[Gdy patrzy na broÅ„, uÅ›miecha siÄ™ jak wariat.] Oh, jesteÅ› dobrym przyjacielem Marli, najlepszym, Trzymaj, dÅ‚ugo ukrywaÅ‚em tÄ… sÅ‚odkÄ… "bÄ…belkowÄ…-wodÄ™", ale teraz myÅ›lÄ™, Å¼e powinna trafiÄ‡ do ciebie. [Daje ci butelkÄ™ Nuka-Coli.] Teraz mogÄ™ stanÄ…Ä‡ na przekÃ³r ognistej Å›mierci z rÄ…k.. eeee Å‚ap gekonÃ³w. [Biegnie na tereny Å‚owieckie.]}
+{411}{}{Moja magia jest teraz przeraÅ¼ajÄ…co silna!}
+{1000}{}{UdaÅ‚o ci siÄ™ naprawiÄ‡ studnie Plemienia.}
+{2000}{}{Przepraszam, Å¼e byÅ‚em dla ciebie takim dupkiem. }
+{2001}{}{Przepraszam, zgubiÅ‚em twojÄ… broÅ„.}

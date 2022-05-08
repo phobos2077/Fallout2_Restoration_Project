@@ -1,32 +1,32 @@
-{100}{}{Você vê um comerciante.}
-{101}{}{Você vê Jenna, a comerciante.}
-{102}{}{Você vê a linda dona da loja.}
-{103}{}{Olá! Sou Jenna. Posso te ajudar?}
-{104}{}{Quero informações.}
+{100}{}{VocÃª vÃª um comerciante.}
+{101}{}{VocÃª vÃª Jenna, a comerciante.}
+{102}{}{VocÃª vÃª a linda dona da loja.}
+{103}{}{OlÃ¡! Sou Jenna. Posso te ajudar?}
+{104}{}{Quero informaÃ§Ãµes.}
 {105}{}{Vende coisas?}
-{106}{}{Não, eu vou.}
-{107}{}{Eu precisava de algumas informações.}
-{108}{}{Claro, me mostre o que você tem.}
-{109}{}{Não agora.}
-{110}{}{Aprendi que quanto menos você sabe, mais você vive. Não tenho nenhuma outra informação para você. Mas gostaria de ver meus produtos?}
+{106}{}{NÃ£o, eu vou.}
+{107}{}{Eu precisava de algumas informaÃ§Ãµes.}
+{108}{}{Claro, me mostre o que vocÃª tem.}
+{109}{}{NÃ£o agora.}
+{110}{}{Aprendi que quanto menos vocÃª sabe, mais vocÃª vive. NÃ£o tenho nenhuma outra informaÃ§Ã£o para vocÃª. Mas gostaria de ver meus produtos?}
 {111}{}{Sim.}
-{112}{}{Não.}
-{113}{}{Ótimo. Vou dar uma olhada.}
+{112}{}{NÃ£o.}
+{113}{}{Ã“timo. Vou dar uma olhada.}
 {114}{}{}
 {115}{}{Ok.}
 {116}{}{Mais alguma coisa?}
 {117}{}{Sim.}
-{118}{}{Não.}
-{119}{}{Bem, tenha um ótimo dia então.}
+{118}{}{NÃ£o.}
+{119}{}{Bem, tenha um Ã³timo dia entÃ£o.}
 {120}{}{}
 {121}{}{Ok.}
-{122}{}{Olá novamente. Tem algo mais que eu posso te ajudar?}
+{122}{}{OlÃ¡ novamente. Tem algo mais que eu posso te ajudar?}
 {123}{}{Sim.}
-{124}{}{Não.}
-{125}{}{Sinto muito, estou fechado. Eu abro às oito; por favor volte depois.}
+{124}{}{NÃ£o.}
+{125}{}{Sinto muito, estou fechado. Eu abro Ã s oito; por favor volte depois.}
 {126}{}{}
 {127}{}{Ok.}
-{128}{}{Eu não estou aberto agora. Se manda da minha loja!}
+{128}{}{Eu nÃ£o estou aberto agora. Se manda da minha loja!}
 {129}{}{}
 {130}{}{Ok.}
 {131}{}{Espero que essa remessa chegue logo.}

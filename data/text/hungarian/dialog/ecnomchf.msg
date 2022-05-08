@@ -1,26 +1,26 @@
 {100}{}{You see a nomad chieftain.}
 {101}{}{He appears to be a nomad chieftain.}
-{102}{}{A ruhája és a viselkedése alapján valamiféle vezet? lehet.}
-{103}{}{Ah, egy utazó. Légy üdvözölve szerény sátramban. Légy vendégem egy kis árnyékra a pusztaság szüntelen forróságában.}
-{104}{}{Köszönöm, szívesen elfogadom a felajánlott árnyékot.}
-{105}{}{Vissza kell utasítanom az ajánlatod. Csak átutazóban vagyok.}
-{106}{}{Úga.}
-{107}{}{Légy üdvözölve! Régóta távol élünk a 'civilizált' részekt?l. Szükségünk lenne néhány dolgora. Esetleg tudnánk csereberélni?}
-{108}{}{Mit tudsz felajánlani?}
-{109}{}{Nincs semmim, amit elcserélhetnék. Sajnálom.}
-{110}{}{Akkor talán máskor? Kívánom, hogy elkerüljön a veszély!}
-{111}{}{Kösz. Viszlát!}
-{112}{}{Milyen kár. Akkor pihenj meg, és légy üdvözölve a táborunkban!}
+{102}{}{A ruhÃ¡ja Ã©s a viselkedÃ©se alapjÃ¡n valamifÃ©le vezet? lehet.}
+{103}{}{Ah, egy utazÃ³. LÃ©gy Ã¼dvÃ¶zÃ¶lve szerÃ©ny sÃ¡tramban. LÃ©gy vendÃ©gem egy kis Ã¡rnyÃ©kra a pusztasÃ¡g szÃ¼ntelen forrÃ³sÃ¡gÃ¡ban.}
+{104}{}{KÃ¶szÃ¶nÃ¶m, szÃ­vesen elfogadom a felajÃ¡nlott Ã¡rnyÃ©kot.}
+{105}{}{Vissza kell utasÃ­tanom az ajÃ¡nlatod. Csak Ã¡tutazÃ³ban vagyok.}
+{106}{}{Ãšga.}
+{107}{}{LÃ©gy Ã¼dvÃ¶zÃ¶lve! RÃ©gÃ³ta tÃ¡vol Ã©lÃ¼nk a 'civilizÃ¡lt' rÃ©szekt?l. SzÃ¼ksÃ©gÃ¼nk lenne nÃ©hÃ¡ny dolgora. Esetleg tudnÃ¡nk csereberÃ©lni?}
+{108}{}{Mit tudsz felajÃ¡nlani?}
+{109}{}{Nincs semmim, amit elcserÃ©lhetnÃ©k. SajnÃ¡lom.}
+{110}{}{Akkor talÃ¡n mÃ¡skor? KÃ­vÃ¡nom, hogy elkerÃ¼ljÃ¶n a veszÃ©ly!}
+{111}{}{KÃ¶sz. ViszlÃ¡t!}
+{112}{}{Milyen kÃ¡r. Akkor pihenj meg, Ã©s lÃ©gy Ã¼dvÃ¶zÃ¶lve a tÃ¡borunkban!}
 {113}{}{Thank you. Bye.}
-{114}{}{A nap bizonyára elpárologtatta a szavakat az agyadból, de úgy illik, hogy kedves legyek a kevésbé szerencsésekhez is. Nyugodtan maradj a táborban, ameddig csak kedved tartja, egyszer? barátom!}
-{115}{}{Viszlát!}
+{114}{}{A nap bizonyÃ¡ra elpÃ¡rologtatta a szavakat az agyadbÃ³l, de Ãºgy illik, hogy kedves legyek a kevÃ©sbÃ© szerencsÃ©sekhez is. Nyugodtan maradj a tÃ¡borban, ameddig csak kedved tartja, egyszer? barÃ¡tom!}
+{115}{}{ViszlÃ¡t!}
 {116}{}{Hitetlen!}
-{117}{}{Miért támadsz ránk?!}
-{118}{}{Az életem árán is megvédelmezem a törzset!}
-{119}{}{Hogy mered megsérteni a vendégszeretetünket?!}
+{117}{}{MiÃ©rt tÃ¡madsz rÃ¡nk?!}
+{118}{}{Az Ã©letem Ã¡rÃ¡n is megvÃ©delmezem a tÃ¶rzset!}
+{119}{}{Hogy mered megsÃ©rteni a vendÃ©gszeretetÃ¼nket?!}
 {120}{}{Hordd el magad!}
 {121}{}{Hagyj minket!}
-{122}{}{Mi békés törzs vagyunk.}
+{122}{}{Mi bÃ©kÃ©s tÃ¶rzs vagyunk.}
 {200}{}{Ah, a traveler. I am sorry that we have no tent from which you may take shade from the unending heat of the land. Do rest a moment, so that we may talk.}
 {201}{}{Thank you; I graciously accept your offer.}
 {202}{}{How unfortunate. Rest a moment then; you are welcome among us.}

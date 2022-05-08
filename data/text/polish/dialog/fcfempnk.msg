@@ -1,94 +1,94 @@
-{100}{}{Widzisz dziewczynê punka.}
-{101}{}{Widzisz dziewczynê punka.}
-{102}{}{Widzisz doœæ ³adn¹, cyniczn¹ m³od¹ kobietê.}
-{103}{}{Za³o¿ê siê, ¿e mój ch³opak chcia³ siê mn¹ podzieliæ.}
-{104}{}{Czasami mam dosyæ podró¿owania.}
-{105}{}{Z pewnoœci¹ by³oby mi³o tutaj mieszkaæ.}
-{106}{}{Na pewno moglibyœmy tutaj nieŸle namieszaæ.}
-{107}{}{Czy uda³o ci siê byæ na zachodzie za wielk¹ wod¹?}
-{108}{}{Poflirtowa³abym z tob¹, ale po prostu nie jestem zainteresowana.}
-{109}{}{[sarkazm] Widaæ tu z pewnoœci¹ du¿o silnych kobiet, co?}
-{110}{}{Myœlisz, ¿e zaraz wystawiê ci ty³ek? Lepiej oprzytomniej.}
-{111}{}{Jestem unikalny! Tak jak ka¿dy inny!}
-{112}{}{Czasami cynizm znu¿enia œwiatem nudzi mnie.}
-{113}{}{Nastêpnym razem chcê znaleŸæ plemiê metali.}
-{114}{}{S³ysza³em, ¿e Cesarz Shi jest nieludzko inteligentny.}
-{115}{}{Ci Shi tak œmiesznie wygl¹daj¹.}
-{116}{}{Jestem wolnomyœlicielem, no nie?}
-{117}{}{Popatrz na tych wszystkich punków. Pozerzy.}
-{118}{}{UKC-9 oszuka³ nas, i oszuka te¿ ciebie, jeœli mu na to pozwolisz.}
-{119}{}{Nastêpny kochaœ, który nazwie mnie "Ÿdzir¹" po¿egna siê z klejnotami.}
-{120}{}{Wiêc jak to by³o - mieæ z ty³u mutanta?}
-{121}{}{Czy ten du¿y silny mutek Francis skrzywdzi³ ciê?}
-{122}{}{Jestem zdziwiona, ¿e nadal mo¿esz chodziæ po tym, co zrobi³ ci Francis.}
-{123}{}{Chyba nadal krwawisz po robótce Francisa.}
-{124}{}{Nie mogê uwierzyæ, ¿e nie chcesz pomóc Chipowi.}
-{125}{}{Samolubne bydlê. Za³o¿y³abym siê, ¿e Chip tobie by pomóg³.}
+{100}{}{Widzisz dziewczynÄ™ punka.}
+{101}{}{Widzisz dziewczynÄ™ punka.}
+{102}{}{Widzisz doÅ›Ä‡ Å‚adnÄ…, cynicznÄ… mÅ‚odÄ… kobietÄ™.}
+{103}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e mÃ³j chÅ‚opak chciaÅ‚ siÄ™ mnÄ… podzieliÄ‡.}
+{104}{}{Czasami mam dosyÄ‡ podrÃ³Å¼owania.}
+{105}{}{Z pewnoÅ›ciÄ… byÅ‚oby miÅ‚o tutaj mieszkaÄ‡.}
+{106}{}{Na pewno moglibyÅ›my tutaj nieÅºle namieszaÄ‡.}
+{107}{}{Czy udaÅ‚o ci siÄ™ byÄ‡ na zachodzie za wielkÄ… wodÄ…?}
+{108}{}{PoflirtowaÅ‚abym z tobÄ…, ale po prostu nie jestem zainteresowana.}
+{109}{}{[sarkazm] WidaÄ‡ tu z pewnoÅ›ciÄ… duÅ¼o silnych kobiet, co?}
+{110}{}{MyÅ›lisz, Å¼e zaraz wystawiÄ™ ci tyÅ‚ek? Lepiej oprzytomniej.}
+{111}{}{Jestem unikalny! Tak jak kaÅ¼dy inny!}
+{112}{}{Czasami cynizm znuÅ¼enia Å›wiatem nudzi mnie.}
+{113}{}{NastÄ™pnym razem chcÄ™ znaleÅºÄ‡ plemiÄ™ metali.}
+{114}{}{SÅ‚yszaÅ‚em, Å¼e Cesarz Shi jest nieludzko inteligentny.}
+{115}{}{Ci Shi tak Å›miesznie wyglÄ…dajÄ….}
+{116}{}{Jestem wolnomyÅ›licielem, no nie?}
+{117}{}{Popatrz na tych wszystkich punkÃ³w. Pozerzy.}
+{118}{}{UKC-9 oszukaÅ‚ nas, i oszuka teÅ¼ ciebie, jeÅ›li mu na to pozwolisz.}
+{119}{}{NastÄ™pny kochaÅ›, ktÃ³ry nazwie mnie "ÅºdzirÄ…" poÅ¼egna siÄ™ z klejnotami.}
+{120}{}{WiÄ™c jak to byÅ‚o - mieÄ‡ z tyÅ‚u mutanta?}
+{121}{}{Czy ten duÅ¼y silny mutek Francis skrzywdziÅ‚ ciÄ™?}
+{122}{}{Jestem zdziwiona, Å¼e nadal moÅ¼esz chodziÄ‡ po tym, co zrobiÅ‚ ci Francis.}
+{123}{}{Chyba nadal krwawisz po robÃ³tce Francisa.}
+{124}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e nie chcesz pomÃ³c Chipowi.}
+{125}{}{Samolubne bydlÄ™. ZaÅ‚oÅ¼yÅ‚abym siÄ™, Å¼e Chip tobie by pomÃ³gÅ‚.}
 {126}{}{Wszyscy lubili Chipa. Ciebie nikt nie lubi.}
-{127}{}{Jesteœ gnid¹, nie?}
-{128}{}{Czy kiedykolwiek myœlisz o kimœ oprócz siebie?}
-{129}{}{O, patrzcie, idzie "idea³".}
+{127}{}{JesteÅ› gnidÄ…, nie?}
+{128}{}{Czy kiedykolwiek myÅ›lisz o kimÅ› oprÃ³cz siebie?}
+{129}{}{O, patrzcie, idzie "ideaÅ‚".}
 {130}{}{Hej, wszyscy! To ta samolubna gnida!}
-{131}{}{O, znowu ty? Tak jakby ktoœ chcia³ z tob¹ teraz gadaæ.}
+{131}{}{O, znowu ty? Tak jakby ktoÅ› chciaÅ‚ z tobÄ… teraz gadaÄ‡.}
 {132}{}{Uosobienie Chipowego rasizmu!}
-{133}{}{Wielka szkoda z t¹ œledzion¹.}
-{134}{}{Za³o¿ê siê, ¿e ktoœ zjad³ œledzionê Chipa.}
-{135}{}{Zastanawia mnie, czy Chip kiedykolwiek powróci do zdrowia.}
-{136}{}{Myœlê, ¿e Chip jest najlepszy!}
-{137}{}{Nawet bez œledziony w sekundê bym by³a Chipa!}
-{138}{}{Dziêki za próbê odzyskania œledziony Chipa.}
-{139}{}{Twoja pomoc Chipowi zawiera³a wszystko, co by³o w twojej mocy.}
+{133}{}{Wielka szkoda z tÄ… Å›ledzionÄ….}
+{134}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e ktoÅ› zjadÅ‚ Å›ledzionÄ™ Chipa.}
+{135}{}{Zastanawia mnie, czy Chip kiedykolwiek powrÃ³ci do zdrowia.}
+{136}{}{MyÅ›lÄ™, Å¼e Chip jest najlepszy!}
+{137}{}{Nawet bez Å›ledziony w sekundÄ™ bym byÅ‚a Chipa!}
+{138}{}{DziÄ™ki za prÃ³bÄ™ odzyskania Å›ledziony Chipa.}
+{139}{}{Twoja pomoc Chipowi zawieraÅ‚a wszystko, co byÅ‚o w twojej mocy.}
 {140}{}{Tu wstaw kolejny frazes na temat Chipa.}
-{141}{}{Ciekawe, czy ta œledziona by³a smaczna?}
-{142}{}{Jej! Teraz mogê mieæ Chip I jego œledzionê!}
-{143}{}{Zaraz idê zobaczyæ siê z Chipem!}
+{141}{}{Ciekawe, czy ta Å›ledziona byÅ‚a smaczna?}
+{142}{}{Jej! Teraz mogÄ™ mieÄ‡ Chip I jego Å›ledzionÄ™!}
+{143}{}{Zaraz idÄ™ zobaczyÄ‡ siÄ™ z Chipem!}
 {144}{}{Chip jest najlepszy!}
-{145}{}{Lubiê ciê. Masz dobre serce - znaczy nie smaczne, broñ Bo¿e!}
-{146}{}{Tak siê cieszê z powodu Chipa.}
+{145}{}{LubiÄ™ ciÄ™. Masz dobre serce - znaczy nie smaczne, broÅ„ BoÅ¼e!}
+{146}{}{Tak siÄ™ cieszÄ™ z powodu Chipa.}
 {147}{}{Chip znowu jest kompletny.}
-{148}{}{Chcesz siê zabawiæ ze mn¹ i Chipem?}
-{149}{}{Dobra robota z t¹ œledzion¹ Chipa.}
-{150}{}{Có¿ za altruizm!}
-{151}{}{Suze wróci³a! Super!}
-{152}{}{Suze wróci³a... cholera!}
-{153}{}{Suze zawsze by³a dla mnie super.}
-{154}{}{Lubiê Suze.}
-{155}{}{Dziêki za uratowanie jej.}
-{156}{}{Niektórzy ludzie powinni oduczyæ siê podró¿owania.}
+{148}{}{Chcesz siÄ™ zabawiÄ‡ ze mnÄ… i Chipem?}
+{149}{}{Dobra robota z tÄ… Å›ledzionÄ… Chipa.}
+{150}{}{CÃ³Å¼ za altruizm!}
+{151}{}{Suze wrÃ³ciÅ‚a! Super!}
+{152}{}{Suze wrÃ³ciÅ‚a... cholera!}
+{153}{}{Suze zawsze byÅ‚a dla mnie super.}
+{154}{}{LubiÄ™ Suze.}
+{155}{}{DziÄ™ki za uratowanie jej.}
+{156}{}{NiektÃ³rzy ludzie powinni oduczyÄ‡ siÄ™ podrÃ³Å¼owania.}
 {157}{}{Kto to wie?}
-{158}{}{Biedny Borsuk. Mo¿e potrzebuje kogoœ, kto móg³by go utuliæ.}
-{159}{}{Lepiej upewniê siê, ¿e z Borsukiem wszystko w porz¹dku.}
-{160}{}{Borsuk jest milutki, ale nie ¿ebym zaraz mia³a mdleæ.}
-{161}{}{Ciekawe, dlaczego Borsuk tak czêsto pierdzi i beka.}
+{158}{}{Biedny Borsuk. MoÅ¼e potrzebuje kogoÅ›, kto mÃ³gÅ‚by go utuliÄ‡.}
+{159}{}{Lepiej upewniÄ™ siÄ™, Å¼e z Borsukiem wszystko w porzÄ…dku.}
+{160}{}{Borsuk jest milutki, ale nie Å¼ebym zaraz miaÅ‚a mdleÄ‡.}
+{161}{}{Ciekawe, dlaczego Borsuk tak czÄ™sto pierdzi i beka.}
 {162}{}{Borsuk prawdopodobnie pierdzi, bo jest smutny.}
 {163}{}{Biedny Borsuk.}
-{164}{}{To ciê¿ki stary œwiat, w którym ¿yjemy.}
-{165}{}{Suze powinna wiedzieæ lepiej.}
-{166}{}{Je¿eli zamierzasz zabraæ ³ajbê, to my powinniœmy j¹ opuœciæ.}
-{167}{}{Sorry za stan tej ³ajby.}
-{168}{}{Wiêc bierzesz ten statek, co?}
-{169}{}{PMV Valdez to dobry okrêt - by³ dobrym domem.}
-{170}{}{Chyba czas pakowaæ manatki.}
-{171}{}{Mi³ej zabawy ³odzi¹.}
+{164}{}{To ciÄ™Å¼ki stary Å›wiat, w ktÃ³rym Å¼yjemy.}
+{165}{}{Suze powinna wiedzieÄ‡ lepiej.}
+{166}{}{JeÅ¼eli zamierzasz zabraÄ‡ Å‚ajbÄ™, to my powinniÅ›my jÄ… opuÅ›ciÄ‡.}
+{167}{}{Sorry za stan tej Å‚ajby.}
+{168}{}{WiÄ™c bierzesz ten statek, co?}
+{169}{}{PMV Valdez to dobry okrÄ™t - byÅ‚ dobrym domem.}
+{170}{}{Chyba czas pakowaÄ‡ manatki.}
+{171}{}{MiÅ‚ej zabawy Å‚odziÄ….}
 {172}{}{Powodzenia w znalezieniu twoich ludzi.}
-{173}{}{Chyba ju¿ pójdê.}
-{174}{}{Mam nadziejê, ¿e znajdziemy inne miejsce do mieszkania.}
-{175}{}{Biedny Borsuk. By³ naprawdê milutki.}
-{176}{}{Kto chcia³by zabiæ Borsuka?}
-{177}{}{Borsuk dziwnie pachnia³, ale lubi³am go.}
-{178}{}{S³ysza³am, ¿e Borsuk by³ gejem, no ale przecie¿ mia³ panienkê.}
-{179}{}{Zawsze uwa¿a³am, ¿e Borsuk by³ obel¿ywy, ale w milutki sposób.}
-{180}{}{Za³o¿ê siê, ¿e Borsuk popisuje siê tym przed swoimi kumplami.}
+{173}{}{Chyba juÅ¼ pÃ³jdÄ™.}
+{174}{}{Mam nadziejÄ™, Å¼e znajdziemy inne miejsce do mieszkania.}
+{175}{}{Biedny Borsuk. ByÅ‚ naprawdÄ™ milutki.}
+{176}{}{Kto chciaÅ‚by zabiÄ‡ Borsuka?}
+{177}{}{Borsuk dziwnie pachniaÅ‚, ale lubiÅ‚am go.}
+{178}{}{SÅ‚yszaÅ‚am, Å¼e Borsuk byÅ‚ gejem, no ale przecieÅ¼ miaÅ‚ panienkÄ™.}
+{179}{}{Zawsze uwaÅ¼aÅ‚am, Å¼e Borsuk byÅ‚ obelÅ¼ywy, ale w milutki sposÃ³b.}
+{180}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e Borsuk popisuje siÄ™ tym przed swoimi kumplami.}
 {181}{}{Borsuk... [chlip]}
-{182}{}{Borsuk by³ prawdziwym kowbojem.}
-{183}{}{Ty gnido. Trzeba by³o go zabijaæ?}
-{184}{}{Myœlisz, ¿e teraz przyst¹pimy do Centrologów?}
-{185}{}{Ty g³upi, g³upi pionku.}
-{186}{}{Ciebie Centrolodzy te¿ wydymaj¹.}
-{187}{}{IdŸ do diab³a! IdŸ tam i zdechnij!}
-{188}{}{Nienawidzê ciê.}
-{189}{}{Jesteœ niczym.}
+{182}{}{Borsuk byÅ‚ prawdziwym kowbojem.}
+{183}{}{Ty gnido. Trzeba byÅ‚o go zabijaÄ‡?}
+{184}{}{MyÅ›lisz, Å¼e teraz przystÄ…pimy do CentrologÃ³w?}
+{185}{}{Ty gÅ‚upi, gÅ‚upi pionku.}
+{186}{}{Ciebie Centrolodzy teÅ¼ wydymajÄ….}
+{187}{}{IdÅº do diabÅ‚a! IdÅº tam i zdechnij!}
+{188}{}{NienawidzÄ™ ciÄ™.}
+{189}{}{JesteÅ› niczym.}
 {190}{}{Bezwolna owca!}
 {191}{}{Zwariowany kultysta!}
-{192}{}{Chyba niektórzy ludzi s¹ po prostu z natury g³upi.}
-{193}{}{Hej! To ten kmiot, który nie potrafi za siebie myœleæ!}
+{192}{}{Chyba niektÃ³rzy ludzi sÄ… po prostu z natury gÅ‚upi.}
+{193}{}{Hej! To ten kmiot, ktÃ³ry nie potrafi za siebie myÅ›leÄ‡!}

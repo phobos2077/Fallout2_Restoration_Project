@@ -1,1 +1,1 @@
-{101}{}{Eksplozja spowodowa³a za³amanie siê wsporników i osuniêcie lawiny kamieni.}
+{101}{}{Eksplozja spowodowaÅ‚a zaÅ‚amanie siÄ™ wspornikÃ³w i osuniÄ™cie lawiny kamieni.}

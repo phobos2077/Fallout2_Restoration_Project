@@ -1,291 +1,291 @@
-{100}{}{Você vê um escravo.}
-{101}{}{Você vê Vic.}
-{150}{}{Este escravo parece ser mantidos sob estrita vigilância.}
-{151}{}{Este é Vic.}
+{100}{}{VocÃª vÃª um escravo.}
+{101}{}{VocÃª vÃª Vic.}
+{150}{}{Este escravo parece ser mantidos sob estrita vigilÃ¢ncia.}
+{151}{}{Este Ã© Vic.}
 {152}{}{[FALAR]}
-{153}{}{- Você gostaria de dizer a ele que eu não posso... aguarde. Quem é você? Você não é um
-escravista. O que você está fazendo aqui?}
-{154}{}{Meu nome é }
+{153}{}{- VocÃª gostaria de dizer a ele que eu nÃ£o posso... aguarde. Quem Ã© vocÃª? VocÃª nÃ£o Ã© um
+escravista. O que vocÃª estÃ¡ fazendo aqui?}
+{154}{}{Meu nome Ã© }
 {155}{}{Eu estou aqui para tira-lo.}
 {156}{}{Eu sou }
-{157}{}{, mas por que você foi preso neste quarto?}
-{158}{}{Você pode me dizer onde o Vault 13 é?}
+{157}{}{, mas por que vocÃª foi preso neste quarto?}
+{158}{}{VocÃª pode me dizer onde o Vault 13 Ã©?}
 {159}{}{Eu sou }
 {160}{}{. Eu vou estar de volta.}
 {161}{}{Dubba iba }
 {162}{}{.}
-{163}{}{Metzger ainda está bastante chateado comigo, apesar de arrumarmos seu maldito rádio.
-  Ele está ameaçando me vender! Eu farei qualquer coisa que você perguntar se você puder me tirar
-  desta bagunça.}
+{163}{}{Metzger ainda estÃ¡ bastante chateado comigo, apesar de arrumarmos seu maldito rÃ¡dio.
+Â  Ele estÃ¡ ameaÃ§ando me vender! Eu farei qualquer coisa que vocÃª perguntar se vocÃª puder me tirar
+Â  desta bagunÃ§a.}
 {164}{}{OK, eu vou.}
-{165}{}{Desculpe, eu não posso. Tchau.}
+{165}{}{Desculpe, eu nÃ£o posso. Tchau.}
 {166}{}{Whoo.}
-{167}{}{Oh, oi novamente. Este rádio maldito não vai se consertar. Como é que
-  Ele espera que eu conserte isso?}
-{168}{}{Onde posso obter as peças?}
-{169}{}{Talvez eu possa consertá-lo.}
-{170}{}{Você pode usar esse rádio que eu encontrei?}
+{167}{}{Oh, oi novamente. Este rÃ¡dio maldito nÃ£o vai se consertar. Como Ã© que
+Â  Ele espera que eu conserte isso?}
+{168}{}{Onde posso obter as peÃ§as?}
+{169}{}{Talvez eu possa consertÃ¡-lo.}
+{170}{}{VocÃª pode usar esse rÃ¡dio que eu encontrei?}
 {171}{}{Eu vou ver o que posso fazer.}
 {172}{}{Spa pa?}
-{173}{}{Eu sei que posso fazê-lo, eu só preciso de algumas peças sobressalentes. Existe um rádio antigo em
-  minha barraca de volta em Klamath que tem exatamente o que eu preciso. Você foi ao Dunton's?
-  Minha barraca ... bem, estava exatamente a leste de seu lugar.}
-{174}{}{Você quer dizer esse rádio?}
-{175}{}{Eu irei procurá-lo.}
+{173}{}{Eu sei que posso fazÃª-lo, eu sÃ³ preciso de algumas peÃ§as sobressalentes. Existe um rÃ¡dio antigo em
+Â  minha barraca de volta em Klamath que tem exatamente o que eu preciso. VocÃª foi ao Dunton's?
+Â  Minha barraca ... bem, estava exatamente a leste de seu lugar.}
+{174}{}{VocÃª quer dizer esse rÃ¡dio?}
+{175}{}{Eu irei procurÃ¡-lo.}
 {176}{}{Hmmm... eu vou estar de volta.}
-{177}{}{Isso é ótimo! Eu vou ter o rádio consertado em poco tempo.}
+{177}{}{Isso Ã© Ã³timo! Eu vou ter o rÃ¡dio consertado em poco tempo.}
 {178}{}{Tudo bem, eu vou falar para Metzger.}
 {179}{}{Obrigado.}
 {180}{}{Adeus.}
-{181}{}{Perdão? Desculpe, mas não entendo.}
+{181}{}{PerdÃ£o? Desculpe, mas nÃ£o entendo.}
 {182}{}{hurm.}
-{183}{}{Obrigado! Estou sempre em debito. O que posso fazer para pagar você?}
-{184}{}{Diga-me onde está o Vault 13.}
-{186}{}{Venha comigo, eu poderia usar uma mão.}
-{187}{}{Não foi nada. Adeus, até logo.}
+{183}{}{Obrigado! Estou sempre em debito. O que posso fazer para pagar vocÃª?}
+{184}{}{Diga-me onde estÃ¡ o Vault 13.}
+{186}{}{Venha comigo, eu poderia usar uma mÃ£o.}
+{187}{}{NÃ£o foi nada. Adeus, atÃ© logo.}
 {188}{}{Doces?}
-{189}{}{Vault 13? Há uma cidade de Vault ao leste daqui. Eu troco lá,
-  as vezes.}
-{190}{}{Quer ir lá comigo?}
+{189}{}{Vault 13? HÃ¡ uma cidade de Vault ao leste daqui. Eu troco lÃ¡,
+Â  as vezes.}
+{190}{}{Quer ir lÃ¡ comigo?}
 {191}{}{Obrigado. Tchau.}
-{192}{}{Claro, vou me juntar a você! Este velho peido tem uma grande aventura à esquerda
-  nele. Estou certo disso! Eu também estou bem em reparar as coisas, apesar do que
-  Metzger diz.}
-{193}{}{Ótimo, vamos lá.}
+{192}{}{Claro, vou me juntar a vocÃª! Este velho peido tem uma grande aventura Ã  esquerda
+Â  nele. Estou certo disso! Eu tambÃ©m estou bem em reparar as coisas, apesar do que
+Â  Metzger diz.}
+{193}{}{Ã“timo, vamos lÃ¡.}
 {194}{}{Bem-vindo a bordo.}
 {195}{}{Seja o que for.}
 {196}{}{Vic meu bom amigo.}
 {197}{}{Quer se juntar a mim na minha pesquisa?}
 {198}{}{Grande! Obrigado.}
-{203}{}{Vault City está a leste daqui. Vou apontá-lo para o seu mapa.}
+{203}{}{Vault City estÃ¡ a leste daqui. Vou apontÃ¡-lo para o seu mapa.}
 {204}{}{Obrigado.}
-{206}{}{Está bem aqui. [apontando para um mapa]}
-{220}{}{Danado. Está perto, mas preciso do rádio da minha cabana em Klamath. Eu sei que tem as partes que eu preciso.}
-{300}{}{Sim, eu provavelmente posso ajudá-lo, mas você tem que me tirar daqui primeiro.}
-{301}{}{Eu disse a você. Se você pode me tirar daqui, eu vou ajudá-lo com qualquer coisa que você quiser.}
+{206}{}{EstÃ¡ bem aqui. [apontando para um mapa]}
+{220}{}{Danado. EstÃ¡ perto, mas preciso do rÃ¡dio da minha cabana em Klamath. Eu sei que tem as partes que eu preciso.}
+{300}{}{Sim, eu provavelmente posso ajudÃ¡-lo, mas vocÃª tem que me tirar daqui primeiro.}
+{301}{}{Eu disse a vocÃª. Se vocÃª pode me tirar daqui, eu vou ajudÃ¡-lo com qualquer coisa que vocÃª quiser.}
 {302}{}{Como podemos fazer isso?}
-{303}{}{Você está sozinho, então.}
+{303}{}{VocÃª estÃ¡ sozinho, entÃ£o.}
 {304}{}{Ok, vou ver o que posso fazer.}
-{350}{}{Você acha que você pode me ajudar?}
-{351}{}{Metzger ainda não me deixa sair.}
-{352}{}{Eu não posso levar muito mais do que isso.}
-{353}{}{Eu vou fazer de tudo para você, se você me ajudar.}
+{350}{}{VocÃª acha que vocÃª pode me ajudar?}
+{351}{}{Metzger ainda nÃ£o me deixa sair.}
+{352}{}{Eu nÃ£o posso levar muito mais do que isso.}
+{353}{}{Eu vou fazer de tudo para vocÃª, se vocÃª me ajudar.}
 {354}{}{Eu vou ganhar de volta a quaisquer despesas que podem incorrer!}
-{400}{}{Você ainda não esteve na minha casa? Eu realmente preciso desse rádio,
-  Metzger está ficando mais irritado comigo a cada dia.}
-{450}{}{Onde você pegou este frasco de água?}
-{451}{}{Eu tinha um frasco de água que tinha um grande amarelo 13 sobre ele. Você se lembra de onde você conseguiu?}
-{500}{}{Oh sim. Eu lembro disso. Comprei isso do Ed. Ele é um negociante de brahmin em Vault City.}
-{501}{}{Frasco de água? Oh espere. Sim, eu tinha algumas dúzias deles. Vendido muito bem. Eu tenho de Ed, um
-  revendedor brahmin em Vault City.}
+{400}{}{VocÃª ainda nÃ£o esteve na minha casa? Eu realmente preciso desse rÃ¡dio,
+Â  Metzger estÃ¡ ficando mais irritado comigo a cada dia.}
+{450}{}{Onde vocÃª pegou este frasco de Ã¡gua?}
+{451}{}{Eu tinha um frasco de Ã¡gua que tinha um grande amarelo 13 sobre ele. VocÃª se lembra de onde vocÃª conseguiu?}
+{500}{}{Oh sim. Eu lembro disso. Comprei isso do Ed. Ele Ã© um negociante de brahmin em Vault City.}
+{501}{}{Frasco de Ã¡gua? Oh espere. Sim, eu tinha algumas dÃºzias deles. Vendido muito bem. Eu tenho de Ed, um
+Â  revendedor brahmin em Vault City.}
 {502}{}{Vault City?}
-{550}{}{Você poderia parar de me chamar de Chefe?}
+{550}{}{VocÃª poderia parar de me chamar de Chefe?}
 {600}{}{Claro, chefe!}
 {601}{}{O que eu quis dizer! PARE COM ISSO!}
 {602}{}{Eu acho que vou ter que fazer.}
-{650}{}{Você conseguiu, Sport!}
+{650}{}{VocÃª conseguiu, Sport!}
 {651}{}{Uggg!}
 {700}{}{Ser meu amigo.}
-{710}{}{Você poderia dizer-lhe que não consigo corrigir isso sem as partes. Eu não sei ... aguarde.
-  Quem é Você? Algum novo recruta? Ele não enviou você aqui para me espremer novamente.
-  ele fez? Não vai fazer qualquer diferença. Não consigo corrigi-lo aqui.}
-{750}{}{Uau! Você faria isso por mim? Eu faria qualquer coisa se pudesse me tirar dessa bagunça.
-  O único problema é que Metzger me mantem trancado até eu corrigir este rádio e
-  Eu não tenho as peças que eu preciso.}
-{753}{}{Onde posso conseguir as peças que você precisa?}
+{710}{}{VocÃª poderia dizer-lhe que nÃ£o consigo corrigir isso sem as partes. Eu nÃ£o sei ... aguarde.
+Â  Quem Ã© VocÃª? Algum novo recruta? Ele nÃ£o enviou vocÃª aqui para me espremer novamente.
+Â  ele fez? NÃ£o vai fazer qualquer diferenÃ§a. NÃ£o consigo corrigi-lo aqui.}
+{750}{}{Uau! VocÃª faria isso por mim? Eu faria qualquer coisa se pudesse me tirar dessa bagunÃ§a.
+Â  O Ãºnico problema Ã© que Metzger me mantem trancado atÃ© eu corrigir este rÃ¡dio e
+Â  Eu nÃ£o tenho as peÃ§as que eu preciso.}
+{753}{}{Onde posso conseguir as peÃ§as que vocÃª precisa?}
 {754}{}{Eu vou ver o que posso fazer.}
-{760}{}{É uma longa história. Eu acho que você poderia dizer que Metzger está me mantendo aqui até
-  Eu reparo esse maldito rádio. O tiro do cristal e eu não temos peças sobressalentes. Como é que
-  Ele espera que eu conserte isso?}
-{761}{}{Bem, estou aqui para tirá-lo.}
-{764}{}{Não sei. Até mais.}
-{800}{}{Tenho que corrigir esse rádio. Se você pode me ajudar a fazer isso, então talvez possamos negociar com ele.}
+{760}{}{Ã‰ uma longa histÃ³ria. Eu acho que vocÃª poderia dizer que Metzger estÃ¡ me mantendo aqui atÃ©
+Â  Eu reparo esse maldito rÃ¡dio. O tiro do cristal e eu nÃ£o temos peÃ§as sobressalentes. Como Ã© que
+Â  Ele espera que eu conserte isso?}
+{761}{}{Bem, estou aqui para tirÃ¡-lo.}
+{764}{}{NÃ£o sei. AtÃ© mais.}
+{800}{}{Tenho que corrigir esse rÃ¡dio. Se vocÃª pode me ajudar a fazer isso, entÃ£o talvez possamos negociar com ele.}
 {801}{}{Como posso ajudar?}
 {803}{}{Eu duvido. Boa sorte.}
-{810}{}{Por que você matou a pobre mãe ... Eu acho que você teve seus motivos ... Desculpe, chefe. Não é meu lugar questioná-lo. Esta é uma cidade muito ruim. Tenho certeza de que ela fez algo muito ruim.}
-{811}{}{Ei, chefe. Obrigado por me tirar dessa bagunça com Metzger. Você precisa de alguma coisa? A mãe tem sido gentil o suficiente para me alimentar enquanto você se foi. Ajudo-a pelo lugar ...}
+{810}{}{Por que vocÃª matou a pobre mÃ£e ... Eu acho que vocÃª teve seus motivos ... Desculpe, chefe. NÃ£o Ã© meu lugar questionÃ¡-lo. Esta Ã© uma cidade muito ruim. Tenho certeza de que ela fez algo muito ruim.}
+{811}{}{Ei, chefe. Obrigado por me tirar dessa bagunÃ§a com Metzger. VocÃª precisa de alguma coisa? A mÃ£e tem sido gentil o suficiente para me alimentar enquanto vocÃª se foi. Ajudo-a pelo lugar ...}
 {812}{}{Adeus.}
 {813}{}{Oooh.}
 {814}{}{Beiye}
-{823}{}{Onde está o seu amigo Ed, novamente?}
-{830}{}{Eu faria, se pudesse, mas você não está ficando bem. Eu só seria um fardo. Agora que mamãe se foi, acho que vou sair. Não sei onde ... talvez nos veremos novamente. Obrigado por tudo o que você fez por mim.}
-{831}{}{Eu faria, se pudesse, mas você não está ficando bem. Parece que você mal pode cuidar de si mesmo. Eu só seria um fardo. Espero aqui, a culinária da mãe me faz lembrar da minha ex-esposa ...}
-{832}{}{Eu, honesto. Eu faria quase tudo por você. É só que você não parece que você está em qualquer forma para liderar qualquer um. Eu só seria um fardo. Eu vou apenas para mamãe, um pouco ... até que você possa resolver as coisas. Eu não tive sua cozinha caseira há muito tempo.}
-{833}{}{Desculpe chefe. Parece que você está muito lotado. Agora que mamãe se foi, acho que vou sair. Não sei onde ... talvez nos veremos novamente. Obrigado por tudo o que você fez por mim.}
-{834}{}{Você está um pouco cheio, Chefe. Eu espero aqui por você até que você tenha trabalhado as coisas. A culinária da mãe me faz lembrar da minha ex-esposa ... não tenho certeza se é uma coisa boa ou ruim ...}
-{835}{}{Eu adoraria, chefe. É só que você não parece ter mais espaço. Vou dirigir-me para a mãe. Eu não estive lá há algum tempo. Apenas venha me buscar se você encontrar algum espaço para mim.}
-{840}{}{Ed está no Vault City. Ele é um revendedor Brahmin. Ele era apenas um dos meus muitos fornecedores. Vault City não está muito longe daqui.}
-{845}{}{Eu disse a você, está aqui. [O Vic aponta pra um local no seu PIPBoy2000.]}
-{900}{}{Você aprendeu que Vic era comerciante.}
+{823}{}{Onde estÃ¡ o seu amigo Ed, novamente?}
+{830}{}{Eu faria, se pudesse, mas vocÃª nÃ£o estÃ¡ ficando bem. Eu sÃ³ seria um fardo. Agora que mamÃ£e se foi, acho que vou sair. NÃ£o sei onde ... talvez nos veremos novamente. Obrigado por tudo o que vocÃª fez por mim.}
+{831}{}{Eu faria, se pudesse, mas vocÃª nÃ£o estÃ¡ ficando bem. Parece que vocÃª mal pode cuidar de si mesmo. Eu sÃ³ seria um fardo. Espero aqui, a culinÃ¡ria da mÃ£e me faz lembrar da minha ex-esposa ...}
+{832}{}{Eu, honesto. Eu faria quase tudo por vocÃª. Ã‰ sÃ³ que vocÃª nÃ£o parece que vocÃª estÃ¡ em qualquer forma para liderar qualquer um. Eu sÃ³ seria um fardo. Eu vou apenas para mamÃ£e, um pouco ... atÃ© que vocÃª possa resolver as coisas. Eu nÃ£o tive sua cozinha caseira hÃ¡ muito tempo.}
+{833}{}{Desculpe chefe. Parece que vocÃª estÃ¡ muito lotado. Agora que mamÃ£e se foi, acho que vou sair. NÃ£o sei onde ... talvez nos veremos novamente. Obrigado por tudo o que vocÃª fez por mim.}
+{834}{}{VocÃª estÃ¡ um pouco cheio, Chefe. Eu espero aqui por vocÃª atÃ© que vocÃª tenha trabalhado as coisas. A culinÃ¡ria da mÃ£e me faz lembrar da minha ex-esposa ... nÃ£o tenho certeza se Ã© uma coisa boa ou ruim ...}
+{835}{}{Eu adoraria, chefe. Ã‰ sÃ³ que vocÃª nÃ£o parece ter mais espaÃ§o. Vou dirigir-me para a mÃ£e. Eu nÃ£o estive lÃ¡ hÃ¡ algum tempo. Apenas venha me buscar se vocÃª encontrar algum espaÃ§o para mim.}
+{840}{}{Ed estÃ¡ no Vault City. Ele Ã© um revendedor Brahmin. Ele era apenas um dos meus muitos fornecedores. Vault City nÃ£o estÃ¡ muito longe daqui.}
+{845}{}{Eu disse a vocÃª, estÃ¡ aqui. [O Vic aponta pra um local no seu PIPBoy2000.]}
+{900}{}{VocÃª aprendeu que Vic era comerciante.}
 {1000}{}{Eu preciso perguntar uma coisa.}
 {1100}{}{Totalmente curado, Chefe. Mais alguma coisa?}
-{1200}{}{Condição quase perfeita, chefe.}
+{1200}{}{CondiÃ§Ã£o quase perfeita, chefe.}
 {1300}{}{Estou em grande parte curado, chefe, mas fui melhor.}
-{1400}{}{Eu tentei, chefe, mas não estou tão quente. Eu vou fazer o que posso embora.}
-{1500}{}{Tudo o que você disser, Chefe.}
-{1501}{}{Aqui? Bem aqui? Ok, você é o Chefe.}
-{1502}{}{Certo. Eu vou ficar aqui até você voltar, chefe. Você vai voltar, certo?}
-{1503}{}{Contanto que você queira. Eu não estou indo a lugar nenhum.}
+{1400}{}{Eu tentei, chefe, mas nÃ£o estou tÃ£o quente. Eu vou fazer o que posso embora.}
+{1500}{}{Tudo o que vocÃª disser, Chefe.}
+{1501}{}{Aqui? Bem aqui? Ok, vocÃª Ã© o Chefe.}
+{1502}{}{Certo. Eu vou ficar aqui atÃ© vocÃª voltar, chefe. VocÃª vai voltar, certo?}
+{1503}{}{Contanto que vocÃª queira. Eu nÃ£o estou indo a lugar nenhum.}
 {1504}{}{Claro, Chefe.}
-{1600}{}{Se você disser que sim.}
-{1601}{}{É bom chamar Chefe.}
+{1600}{}{Se vocÃª disser que sim.}
+{1601}{}{Ã‰ bom chamar Chefe.}
 {1602}{}{Grande ideia, Chefe.}
 {1603}{}{Certo, Chefe. Mais alguma coisa?}
-{1604}{}{Afastado está, chefe.}
-{1605}{}{Não há problema, chefe.}
+{1604}{}{Afastado estÃ¡, chefe.}
+{1605}{}{NÃ£o hÃ¡ problema, chefe.}
 {1606}{}{Feito Chefe.}
 {1700}{}{Certo, Chefe.}
 {1701}{}{Fechado, Chefe.}
-{1702}{}{Você sabe melhor, Chefe.}
-{1703}{}{Eu estou logo atrás de você, Chefe.}
+{1702}{}{VocÃª sabe melhor, Chefe.}
+{1703}{}{Eu estou logo atrÃ¡s de vocÃª, Chefe.}
 {1704}{}{Como cola, Chefe.}
-{1705}{}{Se você disser que sim, Chefe.}
+{1705}{}{Se vocÃª disser que sim, Chefe.}
 {1706}{}{Oh. Tudo Bem, Chefe.}
-{1800}{}{OK, eu vou manter a minha distância, mas não muito longe, Chefe.}
-{1801}{}{Ok, não vou, chefe.}
-{1802}{}{Só vou ficar um pouco atrás, chefe.}
+{1800}{}{OK, eu vou manter a minha distÃ¢ncia, mas nÃ£o muito longe, Chefe.}
+{1801}{}{Ok, nÃ£o vou, chefe.}
+{1802}{}{SÃ³ vou ficar um pouco atrÃ¡s, chefe.}
 {1803}{}{Certo, Chefe.}
 {1900}{}{Certo Chefe. Eu vou ficar atras. }
-{1901}{}{O que você quer dizer, chefe.}
-{1902}{}{Lá vai você, Chefe.}
-{1903}{}{De pé novamente, Chefe.}
+{1901}{}{O que vocÃª quer dizer, chefe.}
+{1902}{}{LÃ¡ vai vocÃª, Chefe.}
+{1903}{}{De pÃ© novamente, Chefe.}
 {1904}{}{Retirando, chefe.}
 {1905}{}{Espalhando-se, Chefe.}
 {1906}{}{Tudo Bem, Chefe.}
-{2000}{}{Uh, Chefe? Você parece um pouco cheio. Vou aguardar aqui por você.}
-{2100}{}{Você está me assustando, Chefe. O que aconteceu com você? Você olha... bem,
+{2000}{}{Uh, Chefe? VocÃª parece um pouco cheio. Vou aguardar aqui por vocÃª.}
+{2100}{}{VocÃª estÃ¡ me assustando, Chefe. O que aconteceu com vocÃª? VocÃª olha... bem,
 assustador. Acho que vou ficar aqui por um tempo...}
-{2200}{}{Você aposta, Chefe!}
+{2200}{}{VocÃª aposta, Chefe!}
 {2201}{}{Maldito direito eu vou, Chefe.}
 {2202}{}{Claro, chefe.}
-{2203}{}{Pronto para ir quando você estiver, Chefe.}
-{2204}{}{Grande! Vamos lá.}
+{2203}{}{Pronto para ir quando vocÃª estiver, Chefe.}
+{2204}{}{Grande! Vamos lÃ¡.}
 {2205}{}{Grande!}
-{2206}{}{Você é o melhor, chefe!}
-{2207}{}{Você não será desapontado. Sem mais erros!}
-{2208}{}{Eu vou ser cuidadoso desta vez, não se preocupe!}
-{2209}{}{Eu sabia que você iria me perdoar por isso... um. Então, uh, Chefe. Qual é o plano?}
-{2210}{}{Eu não vou deixar você para baixo, Chefe!}
-{2211}{}{Você é super, chefe!}
-{2212}{}{Eu sabia que não era muito velho para isso. Essas foram apenas más chances! Certo, Chefe?}
-{2300}{}{De Ed. Ele é um negociante do brahmin em Vault City. Você já esteve lá antes?
-  Deixe-me mostrar-lhe sobre esse seu mapa.}
+{2206}{}{VocÃª Ã© o melhor, chefe!}
+{2207}{}{VocÃª nÃ£o serÃ¡ desapontado. Sem mais erros!}
+{2208}{}{Eu vou ser cuidadoso desta vez, nÃ£o se preocupe!}
+{2209}{}{Eu sabia que vocÃª iria me perdoar por isso... um. EntÃ£o, uh, Chefe. Qual Ã© o plano?}
+{2210}{}{Eu nÃ£o vou deixar vocÃª para baixo, Chefe!}
+{2211}{}{VocÃª Ã© super, chefe!}
+{2212}{}{Eu sabia que nÃ£o era muito velho para isso. Essas foram apenas mÃ¡s chances! Certo, Chefe?}
+{2300}{}{De Ed. Ele Ã© um negociante do brahmin em Vault City. VocÃª jÃ¡ esteve lÃ¡ antes?
+Â  Deixe-me mostrar-lhe sobre esse seu mapa.}
 {2305}{}{Vault City. Aqui. Deixe-me mostrar-lhe nesse seu mapa elegante.}
 {2310}{}{Ele deve estar por aqui em algum lugar.}
-{2311}{}{Vault City. Verifique se o mapa sofisticado é seu.}
-{2403}{}{Onde você pegou o frasco de água do Vault 13?}
-{2404}{}{Não importa.}
+{2311}{}{Vault City. Verifique se o mapa sofisticado Ã© seu.}
+{2403}{}{Onde vocÃª pegou o frasco de Ã¡gua do Vault 13?}
+{2404}{}{NÃ£o importa.}
 {2500}{}{Certo, Chefe.}
 {2501}{}{Pergunte o que quiser, Chefe.}
-{2502}{}{Eu vou ajudar você, se eu posso, Chefe.}
-{2503}{}{Não estou com problemas, eu sou, chefe?}
+{2502}{}{Eu vou ajudar vocÃª, se eu posso, Chefe.}
+{2503}{}{NÃ£o estou com problemas, eu sou, chefe?}
 {2504}{}{Eu fiz algo errado, Chefe?}
 {2505}{}{Claro.}
-{2600}{}{O que será que vamos fazer agora, Chefe?}
-{2601}{}{Qual é o plano, Chefe?}
+{2600}{}{O que serÃ¡ que vamos fazer agora, Chefe?}
+{2601}{}{Qual Ã© o plano, Chefe?}
 {2602}{}{Fazendo o meu melhor, Chefe.}
-{2603}{}{O que eu posso fazer por você, Chefe?}
-{2604}{}{Mudança de planos, Chefe?}
-{2605}{}{Estratégia diferente, Chefe?}
-{2700}{}{Chefe, eles me deram bem. Você deve me levar ao médico. Não sei se posso ir
-  de volta com você mais.}
-{2701}{}{Eu preciso de um médico, Chefe. Eu estou realmente confuso. Eu não sei se eu posso lutar
-com você mais.}
-{2702}{}{Chefe, eu estou realmente confuso. Você tem que chegar em Lenny para ver-me.}
-{2800}{}{Ei, chefe. Você quer que eu me junte com você agora?}
-{2801}{}{Ei, chefe. Não me importo de te esperar. Sou um homem muito paciente.}
-{2802}{}{Nós nos juntamos de novo, Chefe? Vou tentar mais.}
-{2803}{}{Eu temia que você não voltasse. Com certeza, é bom ver você de novo, chefe.}
-{2804}{}{Você está procurando companhia de novo?}
+{2603}{}{O que eu posso fazer por vocÃª, Chefe?}
+{2604}{}{MudanÃ§a de planos, Chefe?}
+{2605}{}{EstratÃ©gia diferente, Chefe?}
+{2700}{}{Chefe, eles me deram bem. VocÃª deve me levar ao mÃ©dico. NÃ£o sei se posso ir
+Â  de volta com vocÃª mais.}
+{2701}{}{Eu preciso de um mÃ©dico, Chefe. Eu estou realmente confuso. Eu nÃ£o sei se eu posso lutar
+com vocÃª mais.}
+{2702}{}{Chefe, eu estou realmente confuso. VocÃª tem que chegar em Lenny para ver-me.}
+{2800}{}{Ei, chefe. VocÃª quer que eu me junte com vocÃª agora?}
+{2801}{}{Ei, chefe. NÃ£o me importo de te esperar. Sou um homem muito paciente.}
+{2802}{}{NÃ³s nos juntamos de novo, Chefe? Vou tentar mais.}
+{2803}{}{Eu temia que vocÃª nÃ£o voltasse. Com certeza, Ã© bom ver vocÃª de novo, chefe.}
+{2804}{}{VocÃª estÃ¡ procurando companhia de novo?}
 {2805}{}{Eu estou pronto para ir, Chefe.}
-{2806}{}{Eu sabia que você não iria me deixar.}
+{2806}{}{Eu sabia que vocÃª nÃ£o iria me deixar.}
 {2807}{}{Precisa de algum substituto?}
-{2808}{}{Precisa de algo reparado, não é? Eu sou seu homem, Chefe!}
-{2809}{}{Não se preocupe, chefe. Sulik e eu vamos nos dar bem, honesto.}
-{2810}{}{Vamos lá.}
+{2808}{}{Precisa de algo reparado, nÃ£o Ã©? Eu sou seu homem, Chefe!}
+{2809}{}{NÃ£o se preocupe, chefe. Sulik e eu vamos nos dar bem, honesto.}
+{2810}{}{Vamos lÃ¡.}
 {2811}{}{Fica aqui. Eu vou estar de volta.}
 {2812}{}{Eu vou.}
-{3100}{}{O que? Uh ... ok, chefe. Se você diz.}
+{3100}{}{O que? Uh ... ok, chefe. Se vocÃª diz.}
 {3101}{}{Posso colocar outra coisa, Chefe? Eu estou um pouco preocupado.}
-{3102}{}{Ok ... você não vai me deixar aqui ... Você vai, chefe?}
+{3102}{}{Ok ... vocÃª nÃ£o vai me deixar aqui ... VocÃª vai, chefe?}
 {3103}{}{Mas ... quero dizer ... Claro, chefe. Vindo imediatamente.}
-{3200}{}{Bem, chefe ... Eu sou muito bom com armas pequenas. Eu posso lidar com quase qualquer arma de rifle, espingarda e a maioria das pistolas de pequeno e médio. Eu posso usar facas. Eu também tenho um bom braço jogando, mas meu objetivo não é o melhor do mundo ... na verdade, é muito horrível. Desculpe chefe. Estou realmente tentando melhorar.}
-{3201}{}{Como eu disse, chefe, eu prefiro armas pequenas. Eu posso lidar com quase qualquer rifle, espingarda e a maioria dessas pistolas de pequeno e médio porte. Se estamos realmente em uma pitada eu posso tentar usar uma faca ou mesmo armas jogadas.}
-{3300}{}{Eu posso usar facas e tenho um bom braço jogando, mas ... meu objetivo não é o melhor do mundo. Na verdade, é muito horrível. Desculpe chefe. Estou realmente tentando melhorar.}
-{3301}{}{Como eu disse, chefe. Facas e eu tenho muito bom braço jogando ... Eu só sinto falta de muita coisa.}
-{3400}{}{Eu tive-o até aqui!}
-{3401}{}{Eu vou rasgar sua cabeça maldita fora! Ninguém machuca minha família!}
+{3200}{}{Bem, chefe ... Eu sou muito bom com armas pequenas. Eu posso lidar com quase qualquer arma de rifle, espingarda e a maioria das pistolas de pequeno e mÃ©dio. Eu posso usar facas. Eu tambÃ©m tenho um bom braÃ§o jogando, mas meu objetivo nÃ£o Ã© o melhor do mundo ... na verdade, Ã© muito horrÃ­vel. Desculpe chefe. Estou realmente tentando melhorar.}
+{3201}{}{Como eu disse, chefe, eu prefiro armas pequenas. Eu posso lidar com quase qualquer rifle, espingarda e a maioria dessas pistolas de pequeno e mÃ©dio porte. Se estamos realmente em uma pitada eu posso tentar usar uma faca ou mesmo armas jogadas.}
+{3300}{}{Eu posso usar facas e tenho um bom braÃ§o jogando, mas ... meu objetivo nÃ£o Ã© o melhor do mundo. Na verdade, Ã© muito horrÃ­vel. Desculpe chefe. Estou realmente tentando melhorar.}
+{3301}{}{Como eu disse, chefe. Facas e eu tenho muito bom braÃ§o jogando ... Eu sÃ³ sinto falta de muita coisa.}
+{3400}{}{Eu tive-o atÃ© aqui!}
+{3401}{}{Eu vou rasgar sua cabeÃ§a maldita fora! NinguÃ©m machuca minha famÃ­lia!}
 {4000}{}{Por aqui?}
 {4001}{}{Este Chefe melhor?}
 {4002}{}{Que tal aqui?}
 {4003}{}{Sim, Chefe.}
 {4004}{}{O que?}
 {4005}{}{Para onde vamos?}
-{4006}{}{Nós deixamos Chefe?}
+{4006}{}{NÃ³s deixamos Chefe?}
 {4007}{}{Estou me movendo.}
 {4008}{}{Desculpe, Chefe.}
 {4009}{}{Melhor?}
 {4010}{}{Ooof.}
-{4011}{}{Como é esse Chefe?}
+{4011}{}{Como Ã© esse Chefe?}
 {4012}{}{Eu vou ficar por aqui.}
 {4013}{}{Eu vou passar aqui agora.}
-{4100}{}{Chefe! Eu não estou tão bem aqui.}
-{4101}{}{Eu preciso de um médico.}
-{4102}{}{Oh, rapaz. Isso realmente dói.}
+{4100}{}{Chefe! Eu nÃ£o estou tÃ£o bem aqui.}
+{4101}{}{Eu preciso de um mÃ©dico.}
+{4102}{}{Oh, rapaz. Isso realmente dÃ³i.}
 {4103}{}{Ow!}
 {4104}{}{Ai.}
 {4105}{}{Dang-lo.}
 {4106}{}{Medic?}
-{4107}{}{Eu estou pendurado lá... mal.}
+{4107}{}{Eu estou pendurado lÃ¡... mal.}
 {4200}{}{Eu nunca gostei deste lugar.}
-{4201}{}{Por que este lugar é tão limpo?}
-{4202}{}{Você cheira alguma coisa, chefe?}
-{4203}{}{Você sabe, chefe. Não acho que voltarei aqui quando terminarmos. Não posso mais chamá-lo de casa.}
-{4204}{}{Com certeza é muito mais sujo do que eu me lembro.}
-{4205}{}{Nós não somos de ficar aqui o tempo, estamos Chefe?}
-{4206}{}{Este lugar nunca mudará.}
-{4207}{}{Chefe, eu não vou perder este lugar.}
+{4201}{}{Por que este lugar Ã© tÃ£o limpo?}
+{4202}{}{VocÃª cheira alguma coisa, chefe?}
+{4203}{}{VocÃª sabe, chefe. NÃ£o acho que voltarei aqui quando terminarmos. NÃ£o posso mais chamÃ¡-lo de casa.}
+{4204}{}{Com certeza Ã© muito mais sujo do que eu me lembro.}
+{4205}{}{NÃ³s nÃ£o somos de ficar aqui o tempo, estamos Chefe?}
+{4206}{}{Este lugar nunca mudarÃ¡.}
+{4207}{}{Chefe, eu nÃ£o vou perder este lugar.}
 {4208}{}{Obrigado novamente por me tirar deste lugar, Chefe.}
 {4209}{}{Eu realmente devo uma, Chefe.}
 {4210}{}{Uau, esse lugar com certeza mudou.}
-{4211}{}{Eu não estive aqui há séculos.}
+{4211}{}{Eu nÃ£o estive aqui hÃ¡ sÃ©culos.}
 {4212}{}{Vou me aposentar aqui.}
-{4213}{}{Eu poderia abrir uma oficina de reparação por aqui.}
-{4300}{}{Ah, um colírio para os olhos. Isso é... era o meu lugar, mas eu acho que você sabia disso. Certo, Chefe?}
-{4400}{}{Sulik, você não fique me olhando desse jeito.}
-{4401}{}{Chefe, Sulik está me olhando de novo.}
-{4402}{}{Bom cão.}
-{4500}{}{La de da…}
+{4213}{}{Eu poderia abrir uma oficina de reparaÃ§Ã£o por aqui.}
+{4300}{}{Ah, um colÃ­rio para os olhos. Isso Ã©... era o meu lugar, mas eu acho que vocÃª sabia disso. Certo, Chefe?}
+{4400}{}{Sulik, vocÃª nÃ£o fique me olhando desse jeito.}
+{4401}{}{Chefe, Sulik estÃ¡ me olhando de novo.}
+{4402}{}{Bom cÃ£o.}
+{4500}{}{La de daâ€¦}
 {4501}{}{Ho hum.}
-{4502}{}{Esperando o Chefe …}
+{4502}{}{Esperando o Chefe â€¦}
 {4503}{}{Eu estou esperando o Chefe.}
-{4504}{}{Só esperando.}
-{4505}{}{O Chefe certamente não iria deixar-me para trás…}
-{4506}{}{Knock Knock ... quem está lá ... espera. Como foi isso …}
-{4507}{}{Ainda à espera.}
-{4508}{}{Que cheiro é esse?}
+{4504}{}{SÃ³ esperando.}
+{4505}{}{O Chefe certamente nÃ£o iria deixar-me para trÃ¡sâ€¦}
+{4506}{}{Knock Knock ... quem estÃ¡ lÃ¡ ... espera. Como foi isso â€¦}
+{4507}{}{Ainda Ã  espera.}
+{4508}{}{Que cheiro Ã© esse?}
 {4509}{}{Qualquer coisa para reparar por aqui?}
 {4510}{}{Aqui estou... esperando o Chefe.}
-{4511}{}{Um homem velho como eu, consumindo seus talentos, de pé aqui.}
-{4512}{}{Eu certamente gostaria de ter uma vara de goma ... foram décadas.}
-{4513}{}{Eu preciso sair do negócio da relíquia ... nada além de problemas.}
-{4514}{}{Por que está esperando tão cansativo…}
+{4511}{}{Um homem velho como eu, consumindo seus talentos, de pÃ© aqui.}
+{4512}{}{Eu certamente gostaria de ter uma vara de goma ... foram dÃ©cadas.}
+{4513}{}{Eu preciso sair do negÃ³cio da relÃ­quia ... nada alÃ©m de problemas.}
+{4514}{}{Por que estÃ¡ esperando tÃ£o cansativoâ€¦}
 {4600}{}{Uh, obrigado, Chefe.}
 {4601}{}{Obrigado.}
-{4602}{}{Você tem certeza que sabe o que está fazendo?}
-{4603}{}{Não podemos apenas descansar de vez?}
+{4602}{}{VocÃª tem certeza que sabe o que estÃ¡ fazendo?}
+{4603}{}{NÃ£o podemos apenas descansar de vez?}
 {4604}{}{Devemos fazer acampamento?}
-{4605}{}{Eu estou tão mal?}
-{4700}{}{Não muito, Chefe.}
-{4701}{}{Se você insistir, Chefe.}
-{4702}{}{Chefe, minha cabeça não vai explodir, não é?}
-{4703}{}{Chefe, eu acho que eu estou começando a gostar de coisas.}
-{4704}{}{Eu estou me sentindo um pouco engraçado, Chefe.}
+{4605}{}{Eu estou tÃ£o mal?}
+{4700}{}{NÃ£o muito, Chefe.}
+{4701}{}{Se vocÃª insistir, Chefe.}
+{4702}{}{Chefe, minha cabeÃ§a nÃ£o vai explodir, nÃ£o Ã©?}
+{4703}{}{Chefe, eu acho que eu estou comeÃ§ando a gostar de coisas.}
+{4704}{}{Eu estou me sentindo um pouco engraÃ§ado, Chefe.}
 {4705}{}{Tem a certeza de que temos o suficiente para poupar.}
 {4706}{}{Certo, Chefe. Eu vou levar algum.}
 {4707}{}{Obrigado, Chefe.}
-{4708}{}{Não é mau.}
-{5000}{}{Estou um pouco com fome no momento. Vamos falar novamente na mãe.}
-{5500}{}{Eu sinto que eu quebrei um membro, Chefe. É melhor dar uma olhada.}
-{5501}{}{Eu sinto que estou queimando, chefe. É melhor dar uma olhada.}
-{5502}{}{Eu sinto como se tivesse sido envenenado, Chefe. É melhor você dar uma olhada.}
+{4708}{}{NÃ£o Ã© mau.}
+{5000}{}{Estou um pouco com fome no momento. Vamos falar novamente na mÃ£e.}
+{5500}{}{Eu sinto que eu quebrei um membro, Chefe. Ã‰ melhor dar uma olhada.}
+{5501}{}{Eu sinto que estou queimando, chefe. Ã‰ melhor dar uma olhada.}
+{5502}{}{Eu sinto como se tivesse sido envenenado, Chefe. Ã‰ melhor vocÃª dar uma olhada.}

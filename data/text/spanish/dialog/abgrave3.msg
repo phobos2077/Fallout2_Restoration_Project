@@ -1,3 +1,3 @@
-{100}{}{Ves una lápida.}
-{101}{}{Aquí yace el gran Per: autor, creador de recorrido, acaparador de rocas. Por desgracia, murió una roca demasiado corta. Ultimas palabras:
-  "Solo un control de robo más y tendré todas las rocas en el-".}
+{100}{}{Ves una lÃ¡pida.}
+{101}{}{AquÃ­ yace el gran Per: autor, creador de recorrido, acaparador de rocas. Por desgracia, muriÃ³ una roca demasiado corta. Ultimas palabras:
+Â  "Solo un control de robo mÃ¡s y tendrÃ© todas las rocas en el-".}

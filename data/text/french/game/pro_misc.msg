@@ -1,17 +1,17 @@
 {100}{}{Roquette}
-{200}{}{Balle à plasma}
+{200}{}{Balle Ã  plasma}
 {300}{}{Explosion}
 {400}{}{Sang}
 {500}{}{Carreau Non-Trans}
 {501}{}{}
 {600}{}{Couteau}
 {700}{}{Lance}
-{800}{}{Explosion électromag.}
+{800}{}{Explosion Ã©lectromag.}
 {900}{}{Rafale laser}
 {1000}{}{Rafale de plasma}
 {1100}{}{Explosion}
-{1200}{}{Bloqueur de défilement}
-{1300}{}{Eclair d'électricité}
+{1200}{}{Bloqueur de dÃ©filement}
+{1300}{}{Eclair d'Ã©lectricitÃ©}
 {1400}{}{Explosion}
 {1500}{}{Explosion}
 {1600}{}{Zone de sortie}
@@ -22,7 +22,7 @@
 {2100}{}{Zone de sortie}
 {2200}{}{Zone de sortie}
 {2300}{}{Zone de sortie}
-{2400}{}{Fusée éclairante (Allumée)}
+{2400}{}{FusÃ©e Ã©clairante (AllumÃ©e)}
 {2500}{}{Grenade}
 {2600}{}{Rocher}
 {2700}{}{Explosion}
@@ -49,6 +49,6 @@
 {4701}{}{}
 {4800}{}{Ka-Pow !}
 {4801}{}{}
-{4900}{}{Graine de plante à spores pointue}
+{4900}{}{Graine de plante Ã  spores pointue}
 {4901}{}{}
-{5000}{}{Balle à plasma double}
+{5000}{}{Balle Ã  plasma double}

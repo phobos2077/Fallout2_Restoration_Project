@@ -1,1 +1,1 @@
-{100}{}{Wen hast Du verärgert, um in dieser Kacke zu stecken?}
+{100}{}{Wen hast Du verÃ¤rgert, um in dieser Kacke zu stecken?}

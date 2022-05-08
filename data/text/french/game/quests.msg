@@ -1,163 +1,163 @@
-{100}{}{Tue les plantes maléfiques qui infestent le jardin d'Hakunin.}
+{100}{}{Tue les plantes malÃ©fiques qui infestent le jardin d'Hakunin.}
 {110}{}{Trouve du silex pour que Mynoc aiguise ta lance.}
 {120}{}{Sauve Fumace, le chien de Nagor, au terrain de chasse.}
-{130}{}{Récupère le JEK pour Arroyo.}
+{130}{}{RÃ©cupÃ¨re le JEK pour Arroyo.}
 {140}{}{Trouve Vic le Marchand.}
-{200}{}{Efface la dette de Vic en récupérant sa radio chez lui à Klamath et en payant Metzger.}
-{201}{}{Trouve comment Babeth peut vendre son alcool à des prix aussi peu élevés.}
+{200}{}{Efface la dette de Vic en rÃ©cupÃ©rant sa radio chez lui Ã  Klamath et en payant Metzger.}
+{201}{}{Trouve comment Babeth peut vendre son alcool Ã  des prix aussi peu Ã©levÃ©s.}
 {202}{}{Sabote l'alambic de Babeth.}
-{203}{}{Procure une pièce détachée d'automobile à Smitty.}
-{204}{}{Rends son médaillon à Anna.}
-{205}{}{Récupère l'argent des mains de Fred.}
-{206}{}{Récupère le livre des mains de Derek.}
-{207}{}{Apporte un repas à Smitty de la part de La Mamma.}
-{208}{}{Lara veut savoir ce qu'on garde dans l'église.}
-{209}{}{Obtiens la permission de Metzger de déclencher une guerre des gangs.}
-{210}{}{Trouve la faiblesse du gang de Tyler qui garde l'église.}
-{211}{}{Aide Lara à attaquer le gang de Tyler.}
+{203}{}{Procure une piÃ¨ce dÃ©tachÃ©e d'automobile Ã  Smitty.}
+{204}{}{Rends son mÃ©daillon Ã  Anna.}
+{205}{}{RÃ©cupÃ¨re l'argent des mains de Fred.}
+{206}{}{RÃ©cupÃ¨re le livre des mains de Derek.}
+{207}{}{Apporte un repas Ã  Smitty de la part de La Mamma.}
+{208}{}{Lara veut savoir ce qu'on garde dans l'Ã©glise.}
+{209}{}{Obtiens la permission de Metzger de dÃ©clencher une guerre des gangs.}
+{210}{}{Trouve la faiblesse du gang de Tyler qui garde l'Ã©glise.}
+{211}{}{Aide Lara Ã  attaquer le gang de Tyler.}
 {212}{}{Trouve un moyen de sortir les orphelins de la rue.}
-{300}{}{Réalimente l'alambic.}
+{300}{}{RÃ©alimente l'alambic.}
 {301}{}{Sauve Souriant le trappeur.}
-{302}{}{Protège les Brahmines.}
-{303}{}{"Libère" les Brahmines de Torr.}
+{302}{}{ProtÃ¨ge les Brahmines.}
+{303}{}{"LibÃ¨re" les Brahmines de Torr.}
 {304}{}{Tue le dieu rat.}
 {305}{}{Sauve Torr.}
-{306}{}{Résous le mystère des Brahmines volées.}
-{400}{}{Il se passe des choses curieuses dans la ferme au Nord-Est de Modoc. Mène l'enquête et fais ton rapport à Jo.}
-{401}{}{Cornélius a perdu sa montre en or. Retrouve-la et rends-la-lui.}
-{402}{}{Farrel veut que tu retrouves et que tu lui donnes, à lui, la montre en or de Cornélius.}
-{403}{}{Jonny a disparu. Retrouve-le et ramène-le à Balthas, chez lui.}
-{404}{}{Jonny est dans les grottes des Slags. Trouve un moyen de le ramener à Balthas.}
-{405}{}{Farrel a des rongeurs dans son jardin. Mets un terme à l'invasion.}
-{406}{}{Porte le message des Slags à Jo de Modoc.}
-{407}{}{Jo soupçonne les Slags. Trouve le responsable du massacre à la ferme perdue et découvre ce qui est arrivé à Karl.}
-{408}{}{Va à la Fosse et dis à Karl qu'il peut rentrer chez lui.}
-{409}{}{Défends les Brahmines de Grisham.}
+{306}{}{RÃ©sous le mystÃ¨re des Brahmines volÃ©es.}
+{400}{}{Il se passe des choses curieuses dans la ferme au Nord-Est de Modoc. MÃ¨ne l'enquÃªte et fais ton rapport Ã  Jo.}
+{401}{}{CornÃ©lius a perdu sa montre en or. Retrouve-la et rends-la-lui.}
+{402}{}{Farrel veut que tu retrouves et que tu lui donnes, Ã  lui, la montre en or de CornÃ©lius.}
+{403}{}{Jonny a disparu. Retrouve-le et ramÃ¨ne-le Ã  Balthas, chez lui.}
+{404}{}{Jonny est dans les grottes des Slags. Trouve un moyen de le ramener Ã  Balthas.}
+{405}{}{Farrel a des rongeurs dans son jardin. Mets un terme Ã  l'invasion.}
+{406}{}{Porte le message des Slags Ã  Jo de Modoc.}
+{407}{}{Jo soupÃ§onne les Slags. Trouve le responsable du massacre Ã  la ferme perdue et dÃ©couvre ce qui est arrivÃ© Ã  Karl.}
+{408}{}{Va Ã  la Fosse et dis Ã  Karl qu'il peut rentrer chez lui.}
+{409}{}{DÃ©fends les Brahmines de Grisham.}
 {500}{}{Trouve une charrue pour M. Smith.}
-{501}{}{Apporte la mallette de Moore à M. Bishop, à New Reno.}
-{502}{}{Apporte un échantillon de Jet au docteur Troy.}
-{503}{}{Résous le problème de la centrale énergétique de Gecko.}
-{504}{}{Apporte l'holodisque de Lynette à Westin, à la RNC.}
+{501}{}{Apporte la mallette de Moore Ã  M. Bishop, Ã  New Reno.}
+{502}{}{Apporte un Ã©chantillon de Jet au docteur Troy.}
+{503}{}{RÃ©sous le problÃ¨me de la centrale Ã©nergÃ©tique de Gecko.}
+{504}{}{Apporte l'holodisque de Lynette Ã  Westin, Ã  la RNC.}
 {505}{}{Sauve Joshua, le mari d'Amanda.}
-{506}{}{Apporte de la bière et de l'alcool (10 de chaque) à Lydia.}
-{507}{}{Apporte une paire de tenailles et une clé à Valérie.}
+{506}{}{Apporte de la biÃ¨re et de l'alcool (10 de chaque) Ã  Lydia.}
+{507}{}{Apporte une paire de tenailles et une clÃ© Ã  ValÃ©rie.}
 {508}{}{Explore les huit secteurs autour de Gecko et retourne voir Stark.}
 {509}{}{Entre dans la RNC et retourne voir Stark.}
-{510}{}{Résous le problème avec le village aux alentours.}
-{511}{}{Récupère les armes pour Connar afin que le village les utilisent.}
-{512}{}{Récupère de la nourriture (10 morceaux de viande séchée et 6 fruits) pour Ann au village.}
-{600}{}{Résous le problème de la centrale énergétique de Gecko.}
-{601}{}{Répare la centrale.}
+{510}{}{RÃ©sous le problÃ¨me avec le village aux alentours.}
+{511}{}{RÃ©cupÃ¨re les armes pour Connar afin que le village les utilisent.}
+{512}{}{RÃ©cupÃ¨re de la nourriture (10 morceaux de viande sÃ©chÃ©e et 6 fruits) pour Ann au village.}
+{600}{}{RÃ©sous le problÃ¨me de la centrale Ã©nergÃ©tique de Gecko.}
+{601}{}{RÃ©pare la centrale.}
 {602}{}{Optimise la centrale.}
-{603}{}{Récupère le disque sur l'économie et donne le à McClure à la Cité de l'Abri.}
-{604}{}{Trouve un super-kit de réparation pour Skeeter.}
-{605}{}{Trouve le laser plasma à 3 crans pour Skeeter.}
-{606}{}{Trouve Woody la Goule pour le compte de Percy. Essaie à la Fosse.}
-{700}{}{Détermine comment Chad dérobe de l'argent aux caravanes.}
-{701}{}{Répare le purificateur d'air de la mine.}
+{603}{}{RÃ©cupÃ¨re le disque sur l'Ã©conomie et donne le Ã  McClure Ã  la CitÃ© de l'Abri.}
+{604}{}{Trouve un super-kit de rÃ©paration pour Skeeter.}
+{605}{}{Trouve le laser plasma Ã  3 crans pour Skeeter.}
+{606}{}{Trouve Woody la Goule pour le compte de Percy. Essaie Ã  la Fosse.}
+{700}{}{DÃ©termine comment Chad dÃ©robe de l'argent aux caravanes.}
+{701}{}{RÃ©pare le purificateur d'air de la mine.}
 {702}{}{Retrouve les disparus pour le compte de Marcus.}
 {703}{}{Bats Francis au bras de fer.}
-{704}{}{Fais évader Manson et Franc de prison.}
+{704}{}{Fais Ã©vader Manson et Franc de prison.}
 {705}{}{Fais sauter le purificateur d'air de la mine.}
-{706}{}{Transfère plus d'énergie électrique vers la maison d'Eric.}
-{800}{}{Retrouve ta voiture volée.}
-{801}{}{Découvre le responsable de l'overdose de Richard Wright.}
-{802}{}{     Suspect : Jimmy J l'édenté}
+{706}{}{TransfÃ¨re plus d'Ã©nergie Ã©lectrique vers la maison d'Eric.}
+{800}{}{Retrouve ta voiture volÃ©e.}
+{801}{}{DÃ©couvre le responsable de l'overdose de Richard Wright.}
+{802}{}{     Suspect : Jimmy J l'Ã©dentÃ©}
 {803}{}{     Suspect : Jules}
-{804}{}{     Suspect : P'tit Jésus Mordino}
+{804}{}{     Suspect : P'tit JÃ©sus Mordino}
 {805}{}{     Suspect : Renesco}
-{806}{}{Trouve le moyen de pénétrer dans la Base militaire de Sierra.}
-{807}{}{Rattrape Lloyd Beau Gosse, récupère l'argent volé, et fais-en un... exemple.}
-{808}{}{Va rendre visite à Renesco l'homme fusée et récupère le tribut de 1 000 dollars dû à M. Salvatore.}
-{809}{}{Participe à l'aboutissement d'une transaction secrète dans le désert.}
-{810}{}{Trouve des bloqueurs d'endorphine afin de fabriquer un remède au Jet.}
-{811}{}{Démolis l'alambic de Wright sous la gare de chemin de fer.}
-{812}{}{Assassine Westin à la RNC sans qu'on puisse soupçonner un meurtre.}
-{813}{}{Assassine Carlson à la RNC.}
-{814}{}{Apporte dix magazines Cat's Paw à Miss Kitty.}
-{815}{}{Apporte un pisto-laser à Eldridge.}
-{816}{}{Apporte le paquet de P'tit Jésus à Ramirez, aux Etables.}
-{817}{}{Récupère le tribut auprès des Frères Corses.}
-{818}{}{Assassine le boss Salvatore pour le compte de Big Jésus Mordino.}
-{819}{}{Apporte une bouteille de bière de l'Abbaye au Père Tully.}
+{806}{}{Trouve le moyen de pÃ©nÃ©trer dans la Base militaire de Sierra.}
+{807}{}{Rattrape Lloyd Beau Gosse, rÃ©cupÃ¨re l'argent volÃ©, et fais-en un... exemple.}
+{808}{}{Va rendre visite Ã  Renesco l'homme fusÃ©e et rÃ©cupÃ¨re le tribut de 1 000 dollars dÃ» Ã  M. Salvatore.}
+{809}{}{Participe Ã  l'aboutissement d'une transaction secrÃ¨te dans le dÃ©sert.}
+{810}{}{Trouve des bloqueurs d'endorphine afin de fabriquer un remÃ¨de au Jet.}
+{811}{}{DÃ©molis l'alambic de Wright sous la gare de chemin de fer.}
+{812}{}{Assassine Westin Ã  la RNC sans qu'on puisse soupÃ§onner un meurtre.}
+{813}{}{Assassine Carlson Ã  la RNC.}
+{814}{}{Apporte dix magazines Cat's Paw Ã  Miss Kitty.}
+{815}{}{Apporte un pisto-laser Ã  Eldridge.}
+{816}{}{Apporte le paquet de P'tit JÃ©sus Ã  Ramirez, aux Etables.}
+{817}{}{RÃ©cupÃ¨re le tribut auprÃ¨s des FrÃ¨res Corses.}
+{818}{}{Assassine le boss Salvatore pour le compte de Big JÃ©sus Mordino.}
+{819}{}{Apporte une bouteille de biÃ¨re de l'Abbaye au PÃ¨re Tully.}
 {900}{}{}
 {1000}{}{}
-{1100}{}{Récupère les pièces détachées/Obtiens l'accès à l'Abri 15.}
+{1100}{}{RÃ©cupÃ¨re les piÃ¨ces dÃ©tachÃ©es/Obtiens l'accÃ¨s Ã  l'Abri 15.}
 {1101}{}{Occupe-toi de l'officier Jack pour le compte de Mira.}
 {1102}{}{Termine de convoyer les Brahmines.}
-{1103}{}{Récupère les papiers auprès du docteur Henry.}
-{1104}{}{Teste le sérum mutagénique sur un Super Mutant. Essaie les Collines Brisées.}
+{1103}{}{RÃ©cupÃ¨re les papiers auprÃ¨s du docteur Henry.}
+{1104}{}{Teste le sÃ©rum mutagÃ©nique sur un Super Mutant. Essaie les Collines BrisÃ©es.}
 {1105}{}{Elimine M. Bishop.}
-{1106}{}{Apporte l'holodisque de Westin à Lynette dans la Cité de l'Abri.}
-{1107}{}{Procure-toi la carte auprès du Commando de la RNC pour le compte de Vortis l'esclavagiste.}
-{1108}{}{Libère les esclaves de l'enclos pour le compte des Commandos.}
-{1109}{}{Apporte le rapport de l'agent Hubologiste sur le terrain à AHS-9 à San Francisco.}
-{1110}{}{Tue l'Hubologiste à la RNC pour le compte de Merk.}
+{1106}{}{Apporte l'holodisque de Westin Ã  Lynette dans la CitÃ© de l'Abri.}
+{1107}{}{Procure-toi la carte auprÃ¨s du Commando de la RNC pour le compte de Vortis l'esclavagiste.}
+{1108}{}{LibÃ¨re les esclaves de l'enclos pour le compte des Commandos.}
+{1109}{}{Apporte le rapport de l'agent Hubologiste sur le terrain Ã  AHS-9 Ã  San Francisco.}
+{1110}{}{Tue l'Hubologiste Ã  la RNC pour le compte de Merk.}
 {1111}{}{Mets fin aux vols de Brahmines.}
 {1112}{}{Nettoie l'avant-poste des Rangers au Nord pour Vortis l'esclavagiste.}
 {1113}{}{Nettoie le Camp des Esclavagistes au Nord-Ouest pour les Rangers.}
-{1200}{}{Répare l'ordinateur de l'Abri 13.}
-{1201}{}{Parle à Goris.}
+{1200}{}{RÃ©pare l'ordinateur de l'Abri 13.}
+{1201}{}{Parle Ã  Goris.}
 {1300}{}{}
 {1398}{}{Nettoie la mine.}
 {1399}{}{Trouve la puce excavatrice.}
 {1400}{}{Occupe-toi de la situation de la Veuve Rooney.}
-{1401}{}{Mets fin à la bagarre dans le bar.}
-{1402}{}{Découvre qui a tailladé la prostituée.}
-{1403}{}{Tue Gâchette Morton.}
-{1500}{}{Le pétrolier a besoin de carburant.}
+{1401}{}{Mets fin Ã  la bagarre dans le bar.}
+{1402}{}{DÃ©couvre qui a tailladÃ© la prostituÃ©e.}
+{1403}{}{Tue GÃ¢chette Morton.}
+{1500}{}{Le pÃ©trolier a besoin de carburant.}
 {1501}{}{L'ordinateur de navigation a besoin du module NavComp pour fonctionner.}
-{1502}{}{Il te faut un passe électronique pour accéder à l'ordinateur de navigation.}
+{1502}{}{Il te faut un passe Ã©lectronique pour accÃ©der Ã  l'ordinateur de navigation.}
 {1503}{}{Tue l'Empereur Shi.}
-{1504}{}{Les Hubologistes ont besoin des plans d'hélico se trouvant à Navarro.}
-{1505}{}{Procure-toi les plans d'hélico pour les Shis.}
+{1504}{}{Les Hubologistes ont besoin des plans d'hÃ©lico se trouvant Ã  Navarro.}
+{1505}{}{Procure-toi les plans d'hÃ©lico pour les Shis.}
 {1506}{}{Les Hubologistes ont besoin de carburant pour leur vaisseau spatial.}
-{1507}{}{Tue Badger afin que les vagabonds du pétrolier se convertissent à l'Eglise d'Hubol.}
+{1507}{}{Tue Badger afin que les vagabonds du pÃ©trolier se convertissent Ã  l'Eglise d'Hubol.}
 {1508}{}{Tue AHS-9.}
-{1509}{}{Les Shis ont besoin des plans d'hélico se trouvant à Navarro.}
-{1510}{}{Procure-toi les plans d'hélico pour les Hubologistes.}
+{1509}{}{Les Shis ont besoin des plans d'hÃ©lico se trouvant Ã  Navarro.}
+{1510}{}{Procure-toi les plans d'hÃ©lico pour les Hubologistes.}
 {1511}{}{Trouve la petite amie de Badger dans la cale du navire.}
 {1512}{}{Le Dragon veut que tu combattes Lo Pan. A mains nues.}
 {1513}{}{Lo Pan veut que tu combattes le Dragon. A mains nues, si possible.}
-{1514}{}{Récupère la rate de Chip.}
-{1515}{}{Procure-toi une SuperArmure renforcée auprès de Crockett.}
-{1516}{}{Procure-toi les plans d'hélico pour la Confrérie de l'Acier.}
-{1517}{}{Mets hors d'action le Sous-marin Shi qui menace le pétrolier.}
-{1518}{}{Enquête sur le sort du Dr. Sheng.}
+{1514}{}{RÃ©cupÃ¨re la rate de Chip.}
+{1515}{}{Procure-toi une SuperArmure renforcÃ©e auprÃ¨s de Crockett.}
+{1516}{}{Procure-toi les plans d'hÃ©lico pour la ConfrÃ©rie de l'Acier.}
+{1517}{}{Mets hors d'action le Sous-marin Shi qui menace le pÃ©trolier.}
+{1518}{}{EnquÃªte sur le sort du Dr. Sheng.}
 {1519}{}{Rapporte des graines au Dr. Sheng.}
 {1520}{}{Elimine le Dr. Sheng.}
-{1521}{}{Rapporte l'échantillon de graine au Dr. Wong.}
+{1521}{}{Rapporte l'Ã©chantillon de graine au Dr. Wong.}
 {1522}{}{Elimine le Dr. Wong sans alerter les Shi.}
 {1523}{}{Nettoyer le labo du Dr. Sheng.}
 {1600}{}{Traite avec le Griffemort.}
-{1601}{}{Répare K-9.}
-{1602}{}{Récupère le passe électronique auprès du commandant de la base.}
+{1601}{}{RÃ©pare K-9.}
+{1602}{}{RÃ©cupÃ¨re le passe Ã©lectronique auprÃ¨s du commandant de la base.}
 {1700}{}{}
-{1800}{}{Tue la bête sous l'église.}
-{1801}{}{Apporte la pièce pour la machine à Frère Max.}
-{1802}{}{Répare la pompe à eau et fais ton rapport au chef des moines.}
-{1803}{}{Découvre qui s'amuse à creuser les tombes.}
-{1804}{}{Indique au Frère Samuel et au Père Tully leur situation respective.}
-{1805}{}{Apporte un briquet à Frère Hank.}
-{1806}{}{Collecte des informations sur la botanique pour Frère Paul.}
-{1807}{}{Formate la base de donnée des livres de l'Abbaye.}
-{1808}{}{Escorte Frère Jason à Gecko.}
+{1800}{}{Tue la bÃªte sous l'Ã©glise.}
+{1801}{}{Apporte la piÃ¨ce pour la machine Ã  FrÃ¨re Max.}
+{1802}{}{RÃ©pare la pompe Ã  eau et fais ton rapport au chef des moines.}
+{1803}{}{DÃ©couvre qui s'amuse Ã  creuser les tombes.}
+{1804}{}{Indique au FrÃ¨re Samuel et au PÃ¨re Tully leur situation respective.}
+{1805}{}{Apporte un briquet Ã  FrÃ¨re Hank.}
+{1806}{}{Collecte des informations sur la botanique pour FrÃ¨re Paul.}
+{1807}{}{Formate la base de donnÃ©e des livres de l'Abbaye.}
+{1808}{}{Escorte FrÃ¨re Jason Ã  Gecko.}
 {1900}{}{Collecte 10 couteaux et 5 lances pour les guerriers de la tribu.}
-{1901}{}{Répare le puits pour Marli et la tribu.}
-{1902}{}{Découvre ce qui hante le Shaman de la tribu.}
+{1901}{}{RÃ©pare le puits pour Marli et la tribu.}
+{1902}{}{DÃ©couvre ce qui hante le Shaman de la tribu.}
 {1903}{}{Retrouve la soeur de Sulik qui a disparu.}
-{1904}{}{Découvre ce qui est arrivé au groupe de chasseurs.}
-{1905}{}{Apporte du bois au pécheur de la tribu.}
-{1906}{}{Réuni Sulik et sa soeur, Kurisu.}
+{1904}{}{DÃ©couvre ce qui est arrivÃ© au groupe de chasseurs.}
+{1905}{}{Apporte du bois au pÃ©cheur de la tribu.}
+{1906}{}{RÃ©uni Sulik et sa soeur, Kurisu.}
 {1907}{}{Accompagne Krom lors de la rencontre avec le marchand.}
 {1908}{}{Rapporte des plantes (5 racines de xandre, 3 fleurs de broc) au Shaman.}
-{2000}{}{Répare l'Hologramme 00000.}
-{2001}{}{Répare l'Ordinateur Vocal.}
-{2002}{}{Trouve une solution au problème des plantes.}
-{2003}{}{Répare les lumières de l'EPA.}
-{2004}{}{Récupère des peaux de gecko pour le Docteur.}
-{2005}{}{Répare l'hologramme qui parle avec des interférences.}
-{2006}{}{Trouve l'outil que le Docteur a laissé derrière lui.}
+{2000}{}{RÃ©pare l'Hologramme 00000.}
+{2001}{}{RÃ©pare l'Ordinateur Vocal.}
+{2002}{}{Trouve une solution au problÃ¨me des plantes.}
+{2003}{}{RÃ©pare les lumiÃ¨res de l'EPA.}
+{2004}{}{RÃ©cupÃ¨re des peaux de gecko pour le Docteur.}
+{2005}{}{RÃ©pare l'hologramme qui parle avec des interfÃ©rences.}
+{2006}{}{Trouve l'outil que le Docteur a laissÃ© derriÃ¨re lui.}
 {2007}{}{Essaie le lance-flammes solaire pour le Directeur de Recherche Scientifiques.}
 {2100}{}{}
 {2200}{}{}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Sauve Chrissy.}
 {3201}{}{Tue Darion.}
-{3202}{}{Mène à bien le marché conclu avec la RNC.}
-{3203}{}{Donne l'holodisque espion aux autorités de la RNC.}
+{3202}{}{MÃ¨ne Ã  bien le marchÃ© conclu avec la RNC.}
+{3203}{}{Donne l'holodisque espion aux autoritÃ©s de la RNC.}

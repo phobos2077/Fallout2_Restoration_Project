@@ -1,2 +1,2 @@
-{100}{}{Widzisz pud≥o oznaczone napisem "Rzeczy znalezione".}
-{110}{}{Widzisz pud≥o oznaczone napisem "Rzeczy znalezione".}
+{100}{}{Widzisz pud≈Ço oznaczone napisem "Rzeczy znalezione".}
+{110}{}{Widzisz pud≈Ço oznaczone napisem "Rzeczy znalezione".}

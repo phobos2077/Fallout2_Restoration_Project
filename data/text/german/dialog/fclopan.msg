@@ -1,38 +1,38 @@
 {100}{}{Du siehst einen arroganten Shi-Gangster.}
-{101}{}{Du siehst Lo Pan, einen herrschsüchtigen, rücksichtslosen Kerl.}
-{102}{}{Du siehst einen Shi-Gangster in seidenen Kleidern. Seine Hände sind rauh und voller Schwielen. Er wirkt gefährlich wie eine Giftschlange.}
+{101}{}{Du siehst Lo Pan, einen herrschsÃ¼chtigen, rÃ¼cksichtslosen Kerl.}
+{102}{}{Du siehst einen Shi-Gangster in seidenen Kleidern. Seine HÃ¤nde sind rauh und voller Schwielen. Er wirkt gefÃ¤hrlich wie eine Giftschlange.}
 {103}{}{Was willst du?}
 {104}{}{Daggel aggel aggel!}
 {105}{}{Wer du?}
-{106}{}{Mit wem hast du da gekämpft?}
+{106}{}{Mit wem hast du da gekÃ¤mpft?}
 {107}{}{Wer bist du?}
-{108}{}{Ich möchte lernen, wie du zu kämpfen. Lehre mich.}
-{109}{}{Ich möchte dich herausfordern.}
+{108}{}{Ich mÃ¶chte lernen, wie du zu kÃ¤mpfen. Lehre mich.}
+{109}{}{Ich mÃ¶chte dich herausfordern.}
 {110}{}{Vergiss es.}
 {111}{}{Mach, dass du hier rauskommst, Idiot. Ich hab dir nichts zu sagen.}
 {112}{}{GRR!}
-{113}{}{Ich bin Lo Pan. Ich bin der beste Kämpfer in der Stadt, bis auf den Drachen. Und eines schönen Tages ist er ein toter Mann. Wenn das eintritt, werde ich andere in meiner Kampftechnik unterweisen..}
+{113}{}{Ich bin Lo Pan. Ich bin der beste KÃ¤mpfer in der Stadt, bis auf den Drachen. Und eines schÃ¶nen Tages ist er ein toter Mann. Wenn das eintritt, werde ich andere in meiner Kampftechnik unterweisen..}
 {114}{}{Lehre mich!}
 {115}{}{Villen Tank.}
-{116}{}{Du möchtest kämpfen lernen? Hast du denn auch das Zeug dazu? Woll'n wir mal sehn. }
+{116}{}{Du mÃ¶chtest kÃ¤mpfen lernen? Hast du denn auch das Zeug dazu? Woll'n wir mal sehn. }
 {117}{}{[Fertig]}
-{118}{}{Dich lehren? Wohl kaum. Du siehst mir ein bisschen zu selbstgefällig aus. Raus hier!}
+{118}{}{Dich lehren? Wohl kaum. Du siehst mir ein bisschen zu selbstgefÃ¤llig aus. Raus hier!}
 {119}{}{Was zum...?}
 {120}{}{Oh, sieh mal an, der Idiot. Ich habe keine Lust, mit dir zu reden. Hau ab.}
 {121}{}{Duhhh...}
-{122}{}{Der? Der Drache? Der ist ein Schwächling, der Schwäche nährt.}
-{123}{}{Die Leute sind doch nur Schafsköpfe. Du solltest für dich selbst kämpfen.}
-{124}{}{Wie, du bist böse?}
+{122}{}{Der? Der Drache? Der ist ein SchwÃ¤chling, der SchwÃ¤che nÃ¤hrt.}
+{123}{}{Die Leute sind doch nur SchafskÃ¶pfe. Du solltest fÃ¼r dich selbst kÃ¤mpfen.}
+{124}{}{Wie, du bist bÃ¶se?}
 {125}{}{Aha. Ich habe noch weitere Fragen.}
-{126}{}{Böse? Aber nein. Nur schlau. Wenn du soviel Wert darauf legst, fair zu den Leuten zu sein, solltest du besser zum Drachen gehen. Der mag wimmernde Schwächlinge wie dich. }
+{126}{}{BÃ¶se? Aber nein. Nur schlau. Wenn du soviel Wert darauf legst, fair zu den Leuten zu sein, solltest du besser zum Drachen gehen. Der mag wimmernde SchwÃ¤chlinge wie dich. }
 {127}{}{[Fertig]}
-{128}{}{Ja, das sollte ich wohl. Und das werde ich. Leider steht mir der Drache im Weg. Wir sind uns zu ebenbürtig im Kampf. Alles, was ich brauche, ist ein Mann, der kämpfen kann und mir hilft.}
+{128}{}{Ja, das sollte ich wohl. Und das werde ich. Leider steht mir der Drache im Weg. Wir sind uns zu ebenbÃ¼rtig im Kampf. Alles, was ich brauche, ist ein Mann, der kÃ¤mpfen kann und mir hilft.}
 {129}{}{Ich bin diese Person.}
-{130}{}{Ach so. Ich hätte noch ein paar Fragen.}
+{130}{}{Ach so. Ich hÃ¤tte noch ein paar Fragen.}
 {131}{}{Ach so. Na, bis dann.}
-{132}{}{Ja, wirklich? Kannst du mit den bloßen Händen und Füßen gegen einen Mann kämpfen, ohne Rüstung und Waffen?}
+{132}{}{Ja, wirklich? Kannst du mit den bloÃŸen HÃ¤nden und FÃ¼ÃŸen gegen einen Mann kÃ¤mpfen, ohne RÃ¼stung und Waffen?}
 {133}{}{Das kann ich. Aber warum sollte ich?}
-{134}{}{Das hört sich fair an. Wie soll die Probe aussehen?}
+{134}{}{Das hÃ¶rt sich fair an. Wie soll die Probe aussehen?}
 {135}{}{Tja wenn das so ist, dann geh ich wohl besser.}
 {136}{}{Weil mich sonst die Bauern verfluchen werden und es viel schwieriger sein wird, mit ihnen fertig zu werden, wenn ich den Drachen besiegt habe. }
 {137}{}{Ach so. Dann lass uns mit dem Test anfangen. }
@@ -40,80 +40,80 @@
 {139}{}{Aber klar! Mach's gut.}
 {140}{}{Willst du einen Kampf auf Leben und Tod, oder willst du nur mal sehen, wer der Bessere ist?}
 {141}{}{Bis zum bitteren Ende. Ich kann es mit dir aufnehmen.}
-{142}{}{Wir werden unser Können messen. Ich will dich nicht töten.}
+{142}{}{Wir werden unser KÃ¶nnen messen. Ich will dich nicht tÃ¶ten.}
 {143}{}{Weder noch. Vergiss es.}
 {144}{}{Gut. Hoffentlich hast du dir schon ein Grab schaufeln lassen. Hat der Drache dich geschickt?}
-{145}{}{Ja. Ich kämpfe für die Shi.}
-{146}{}{Nein. Ich kämpfe gegen dich, weil ich glaube, dass du der letzte Dreck bist. }
-{147}{}{Du bist ja ein ganz Harter, hä? Dann kämpf mal zuerst gegen meine Männer und dann werden wir sehen, ob du ein würdiger Gegner für mich bist. }
+{145}{}{Ja. Ich kÃ¤mpfe fÃ¼r die Shi.}
+{146}{}{Nein. Ich kÃ¤mpfe gegen dich, weil ich glaube, dass du der letzte Dreck bist. }
+{147}{}{Du bist ja ein ganz Harter, hÃ¤? Dann kÃ¤mpf mal zuerst gegen meine MÃ¤nner und dann werden wir sehen, ob du ein wÃ¼rdiger Gegner fÃ¼r mich bist. }
 {148}{}{[Beginn]}
-{149}{}{Ich bin Lo Pan und der "eingeschworene Feind" des Drachen. Wieso er unbedingt einen "eingeschworenen Feind" haben muss, verstehe wer will. Ich kämpfe eben genauso gut wie er und glaube, er ist ein Weichei und lässt andere unter seinen Fittichen leben. Wir sind Feinde, weil wir denselben Kampfstil haben. Derjenige, der gewinnt, wird die Tradition fortführen.}
+{149}{}{Ich bin Lo Pan und der "eingeschworene Feind" des Drachen. Wieso er unbedingt einen "eingeschworenen Feind" haben muss, verstehe wer will. Ich kÃ¤mpfe eben genauso gut wie er und glaube, er ist ein Weichei und lÃ¤sst andere unter seinen Fittichen leben. Wir sind Feinde, weil wir denselben Kampfstil haben. Derjenige, der gewinnt, wird die Tradition fortfÃ¼hren.}
 {150}{}{Ich bin gar nicht so schlecht im unbewaffneten Kampf. Willst du's mal probieren?}
-{151}{}{Da ist sehr interessant. Ist sicher ein gutes Gefühl. Ich habe weitere Fragen.}
-{152}{}{Danke. Tschüss.}
-{153}{}{Ich mag vielleicht ein Dreckskerl sein, aber man soll nie sagen können, dass ich nicht für mein Volk einstehe. Du wirst leiden, bevor ich dich töte.}
+{151}{}{Da ist sehr interessant. Ist sicher ein gutes GefÃ¼hl. Ich habe weitere Fragen.}
+{152}{}{Danke. TschÃ¼ss.}
+{153}{}{Ich mag vielleicht ein Dreckskerl sein, aber man soll nie sagen kÃ¶nnen, dass ich nicht fÃ¼r mein Volk einstehe. Du wirst leiden, bevor ich dich tÃ¶te.}
 {154}{}{[Fertig]}
-{155}{}{Dann bist du ein Narr und ein Hund, der tut, was ihm befohlen wird. Ich werde über deinen Tod lachen.}
-{156}{}{[starte deinen Angriff mit Rüstung und Waffen]}
-{157}{}{[steig in den Ring, leg deine Waffen und deine Rüstung ab und kämpfe mit den Händen]}
-{158}{}{Gut. Wenigstens bist du dein eigener Herr. Bist du hartgesotten genug, ohne Waffen und Rüstung zu kämpfen?}
-{159}{}{[starte deinen Angriff mit Rüstung und Waffen]}
-{160}{}{[steig in den Ring, leg deine Waffen und deine Rüstung ab und kämpfe mit den Händen]}
-{161}{}{Bäh, bäh, du Herdentier! Geh zurück zu deinen Herren in Roben. Ich will nichts mit dir zu tun haben.}
+{155}{}{Dann bist du ein Narr und ein Hund, der tut, was ihm befohlen wird. Ich werde Ã¼ber deinen Tod lachen.}
+{156}{}{[starte deinen Angriff mit RÃ¼stung und Waffen]}
+{157}{}{[steig in den Ring, leg deine Waffen und deine RÃ¼stung ab und kÃ¤mpfe mit den HÃ¤nden]}
+{158}{}{Gut. Wenigstens bist du dein eigener Herr. Bist du hartgesotten genug, ohne Waffen und RÃ¼stung zu kÃ¤mpfen?}
+{159}{}{[starte deinen Angriff mit RÃ¼stung und Waffen]}
+{160}{}{[steig in den Ring, leg deine Waffen und deine RÃ¼stung ab und kÃ¤mpfe mit den HÃ¤nden]}
+{161}{}{BÃ¤h, bÃ¤h, du Herdentier! Geh zurÃ¼ck zu deinen Herren in Roben. Ich will nichts mit dir zu tun haben.}
 {162}{}{[Fertig]}
 {163}{}{Ich hab dir doch gesagt, wenn du moralische Bedenken hast, dann geh zum Drachen. Der wird deine Hand halten. Ich nicht. Hau ab jetzt. }
 {164}{}{[Fertig]}
-{165}{}{Ich muss gestehen, du bist ein noch besserer Kämpfer als ich selbst. Willst du nicht gegen den Drachen antreten? }
+{165}{}{Ich muss gestehen, du bist ein noch besserer KÃ¤mpfer als ich selbst. Willst du nicht gegen den Drachen antreten? }
 {166}{}{Ja, und zwar sofort.}
 {167}{}{Im Grunde ist es ja nicht mein Kampf.}
 {168}{}{Klar. Aber ich habe einige Fragen.}
-{169}{}{Nein. Aber der Drache besiegt mich noch immer. Wenn du ein bisschen Mumm in den Knochen hättest, würdest du ihn vernichten. Aber von einem Lao Wai hab ich ja gar keinen Stolz erwartet.}
+{169}{}{Nein. Aber der Drache besiegt mich noch immer. Wenn du ein bisschen Mumm in den Knochen hÃ¤ttest, wÃ¼rdest du ihn vernichten. Aber von einem Lao Wai hab ich ja gar keinen Stolz erwartet.}
 {170}{}{Alles klar. Ich hab da ein paar Fragen.}
-{171}{}{Ja, wie du meinst. Tschüss.}
-{172}{}{Ich habe gerade einen Lao Wai getötet, der unsere Geheimnisse stehlen wollte. Der Drache und ich haben ihn auseinandergenommen. Wir waren ein gutes Team, muss ich zugeben.}
-{173}{}{Großartig. Ich hab einige Fragen.}
+{171}{}{Ja, wie du meinst. TschÃ¼ss.}
+{172}{}{Ich habe gerade einen Lao Wai getÃ¶tet, der unsere Geheimnisse stehlen wollte. Der Drache und ich haben ihn auseinandergenommen. Wir waren ein gutes Team, muss ich zugeben.}
+{173}{}{GroÃŸartig. Ich hab einige Fragen.}
 {174}{}{Toll. Bis dann.}
 {175}{}{Der Drache ist tot. Ich kann's nicht glauben. Jetzt sind wir zumindest diese verdammten Traditionen los, die uns auf Schritt und Tritt verfolgten. Danke.}
-{176}{}{Großartig. Ich hab einige Fragen.}
+{176}{}{GroÃŸartig. Ich hab einige Fragen.}
 {177}{}{Toll. Bis dann.}
 {178}{}{Ja, und zwar sofort.}
-{200}{}{Lo Pan durchschaut dein Manöver und weicht dir aus.}
+{200}{}{Lo Pan durchschaut dein ManÃ¶ver und weicht dir aus.}
 {201}{}{Ich habe was dagegen, wenn jemand meine Sachen nimmt, klar? Also geh und bestiehl jemand anders. Hau ab! }
 {202}{}{Du solltest abhauen, nicht sterben. Naja, was soll's.}
 {203}{}{Es scheint, dass ich dich nichts mehr lehren kann.}
-{204}{}{Für heute bin ich fertig mit dem Training. Komm morgen wieder.}
-{205}{}{Ich bin Meister Khung, deine letzte Prüfung.}
+{204}{}{FÃ¼r heute bin ich fertig mit dem Training. Komm morgen wieder.}
+{205}{}{Ich bin Meister Khung, deine letzte PrÃ¼fung.}
 {206}{}{Ich bin Imbot. Sei auf der Hut!}
 {207}{}{Ich bin Wejungh. Mach dich bereit.}
 {208}{}{Ich bin Loopal. An mir kommst du nicht vorbei.}
 {209}{}{Ich bin Smitty. Deine Zeit ist gekommen.}
 {210}{}{Ich bin Meister Esser. Du bist geliefert.}
-{211}{}{KÄMPFE!}
+{211}{}{KÃ„MPFE!}
 {212}{}{Du brauchst mehr Training. }
 {213}{}{Mach dich bereit!}
 {214}{}{Du hast Lo Pan in einem Kampf auf Leben und Tod besiegt. Irgendwie scheint die Sonne heute heller als sonst.}
-{215}{}{Du hast meine Männer schon besiegt. Du hast meine Prüfung bestanden. Du bist bereit, gegen den Drachen zu kämpfen. }
-{216}{}{Du bist schon ganz gut. Du musst nur noch schießen lernen oder sowas.}
+{215}{}{Du hast meine MÃ¤nner schon besiegt. Du hast meine PrÃ¼fung bestanden. Du bist bereit, gegen den Drachen zu kÃ¤mpfen. }
+{216}{}{Du bist schon ganz gut. Du musst nur noch schieÃŸen lernen oder sowas.}
 {217}{}{Fangen wir an. Folge mir.}
-{218}{}{Dein Training ist für heute beendet.}
+{218}{}{Dein Training ist fÃ¼r heute beendet.}
 {219}{}{Du hast viel gelernt.}
-{220}{}{Du hast alle meine Männer besiegt. Es gibt keinen Herausforderer mehr.}
-{221}{}{Du hast mir geholfen, ohne es zu wissen. Jetzt, da der Drache tot ist, muss ich mich nicht mehr nach diesen überholten Moralvorstellungen richten.}
-{222}{}{War mir ein Vergnügen. Bis dann.}
+{220}{}{Du hast alle meine MÃ¤nner besiegt. Es gibt keinen Herausforderer mehr.}
+{221}{}{Du hast mir geholfen, ohne es zu wissen. Jetzt, da der Drache tot ist, muss ich mich nicht mehr nach diesen Ã¼berholten Moralvorstellungen richten.}
+{222}{}{War mir ein VergnÃ¼gen. Bis dann.}
 {223}{}{Gern geschehn. Wiedersehn.}
 {224}{}{Gern geschehn. Kann ich eine Frage stellen?}
 {225}{}{Nix Problem. Ich fragen?}
 {226}{}{Du hast GEWONNEN!}
 {227}{}{Du hast VERLOREN!}
-{228}{}{Der Nächste, bitte!}
+{228}{}{Der NÃ¤chste, bitte!}
 {229}{}{Hey, was find ich denn da!}
-{230}{}{Zuerst musst du beweisen, dass du es kannst. Ich lasse dich gegen fünf meiner Kämpfer antreten - nacheinander. Wenn du sie besiegst, wirst du vor die letzte Prüfung gestellt. }
+{230}{}{Zuerst musst du beweisen, dass du es kannst. Ich lasse dich gegen fÃ¼nf meiner KÃ¤mpfer antreten - nacheinander. Wenn du sie besiegst, wirst du vor die letzte PrÃ¼fung gestellt. }
 {231}{}{Was ist das?}
-{232}{}{Hört sich nach zu viel Ärger an. Mach's gut.}
-{233}{}{Du musst meinen bevorzugten Schüler besiegen. Aber keiner dieser Kämpfe wird auf Leben und Tod sein
- - zum Schutz meiner Männer, versteht sich. [Er grinst höhnisch]}
+{232}{}{HÃ¶rt sich nach zu viel Ã„rger an. Mach's gut.}
+{233}{}{Du musst meinen bevorzugten SchÃ¼ler besiegen. Aber keiner dieser KÃ¤mpfe wird auf Leben und Tod sein
+ - zum Schutz meiner MÃ¤nner, versteht sich. [Er grinst hÃ¶hnisch]}
 {234}{}{Dann fangen wir mal an!}
-{235}{}{Kümmer dich doch selbst um den Drachen.}
+{235}{}{KÃ¼mmer dich doch selbst um den Drachen.}
 {236}{}{[Lo Pan mustert dich und bevor du noch Zeit hast zu reagieren, trifft er dich mit einem schnellen Fausthieb auf die Nase.] Du bist nicht gut genug.}
 {237}{}{OK, aber kann ich noch eine Frage stellen?}
 {238}{}{OK. Wiedersehn.}

@@ -1,20 +1,20 @@
-{100}{}{Meleg büszkeség!}
-{101}{}{Le a heterókkal!}
-{102}{}{Nem szeretjük a kívülállókat!}
-{103}{}{Légy büszke, hogy leszbi vagy!}
-{104}{}{Minden hatalom a csajoké!}
-{105}{}{Nincs szükség pasikra!}
-{106}{}{A Szivárvány Államszövetség tovább él.}
-{107}{}{Vonuljunk el a Szerelmi Fészekbe.}
+{100}{}{Meleg bÃ¼szkesÃ©g!}
+{101}{}{Le a heterÃ³kkal!}
+{102}{}{Nem szeretjÃ¼k a kÃ­vÃ¼lÃ¡llÃ³kat!}
+{103}{}{LÃ©gy bÃ¼szke, hogy leszbi vagy!}
+{104}{}{Minden hatalom a csajokÃ©!}
+{105}{}{Nincs szÃ¼ksÃ©g pasikra!}
+{106}{}{A SzivÃ¡rvÃ¡ny ÃllamszÃ¶vetsÃ©g tovÃ¡bb Ã©l.}
+{107}{}{Vonuljunk el a Szerelmi FÃ©szekbe.}
 {108}{}{Gy?zni fogunk!}
-{109}{}{Légy üdvözölve a Szivárvány Államszövetségben!}
-{110}{}{Szívesen látjuk itt a magadfajtákat.}
-{111}{}{Egy vagy közülünk.}
-{112}{}{Gyarmatosítók.}
-{113}{}{Gyarmatosító.}
+{109}{}{LÃ©gy Ã¼dvÃ¶zÃ¶lve a SzivÃ¡rvÃ¡ny ÃllamszÃ¶vetsÃ©gben!}
+{110}{}{SzÃ­vesen lÃ¡tjuk itt a magadfajtÃ¡kat.}
+{111}{}{Egy vagy kÃ¶zÃ¼lÃ¼nk.}
+{112}{}{GyarmatosÃ­tÃ³k.}
+{113}{}{GyarmatosÃ­tÃ³.}
 {114}{}{ homokos.}
 {115}{}{ buzi.}
-{116}{}{ királyn?.}
+{116}{}{ kirÃ¡lyn?.}
 {117}{}{ leszbi.}
 {118}{}{ leszbi feminista.}
-{119}{}{Úgy néz ki, mint egy }
+{119}{}{Ãšgy nÃ©z ki, mint egy }

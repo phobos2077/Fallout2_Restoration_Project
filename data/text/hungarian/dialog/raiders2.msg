@@ -1,4 +1,4 @@
-{100}{}{Egy sötét barlangba jutottál a hegy oldalában.}
-{101}{}{Egy koromsötét barlangrendszerben vagy. A sötétben mintha skorpiók hangját hallanád.}
-{102}{}{Úgy t?nik, a fosztogatók ebben a barlangban vertek tanyát.}
-{103}{}{Rátaláltál a fosztogatók búvóhelyére.}
+{100}{}{Egy sÃ¶tÃ©t barlangba jutottÃ¡l a hegy oldalÃ¡ban.}
+{101}{}{Egy koromsÃ¶tÃ©t barlangrendszerben vagy. A sÃ¶tÃ©tben mintha skorpiÃ³k hangjÃ¡t hallanÃ¡d.}
+{102}{}{Ãšgy t?nik, a fosztogatÃ³k ebben a barlangban vertek tanyÃ¡t.}
+{103}{}{RÃ¡talÃ¡ltÃ¡l a fosztogatÃ³k bÃºvÃ³helyÃ©re.}

@@ -1,61 +1,61 @@
-{100}{}{Widzisz mieszkañca Nory.}
+{100}{}{Widzisz mieszkaÅ„ca Nory.}
 {101}{}{Widzisz Dereka.}
-{150}{}{Wygl¹da na bardzo zwinnego.}
-{200}{}{Zje¿d¿aj.}
-{201}{}{Nie mam si³y z tob¹ gadaæ.}
-{202}{}{Wynoœ siê st¹d.}
-{203}{}{ZnajdŸ sobie w³asne miejsce do spania.}
-{204}{}{Nie zawracaj mi g³owy.}
+{150}{}{WyglÄ…da na bardzo zwinnego.}
+{200}{}{ZjeÅ¼dÅ¼aj.}
+{201}{}{Nie mam siÅ‚y z tobÄ… gadaÄ‡.}
+{202}{}{WynoÅ› siÄ™ stÄ…d.}
+{203}{}{ZnajdÅº sobie wÅ‚asne miejsce do spania.}
+{204}{}{Nie zawracaj mi gÅ‚owy.}
 {205}{}{Jestem wypluty.}
 {206}{}{Hej!}
 {207}{}{Hej, czego tu szukasz?}
-{220}{}{Uwa¿aj na Metzgera, dzikusie.}
-{221}{}{Dlaczego tu jest zawsze tak cholernie gor¹co?}
-{222}{}{Dlaczego musimy ¿yæ na pustyni?}
-{223}{}{Ca³kiem niez³y ze mnie kucharz.}
-{224}{}{Kiedyœ otworzê swoj¹ w³asn¹ restauracjê.}
-{225}{}{Szkoda, ¿e nie mam kuchni z prawdziwego zdarzenia.}
-{226}{}{Dlaczego chocia¿ raz los siê do mnie nie uœmiechnie?}
-{227}{}{Ludziom po prostu nie mo¿na ju¿ ufaæ.}
-{228}{}{Fred to marzyciel - ten jego wielki plan jest gówno wart.}
-{240}{}{Ciii! One s¹ wszêdzie.}
-{241}{}{Spraw, ¿eby przesta³y!}
-{242}{}{Masz tê cholern¹ ksi¹¿kê?}
-{243}{}{Nie rozumiem dlaczego Becky nie chce mnie zatrudniæ.}
-{244}{}{Ja tu zwariujê!}
-{245}{}{Mam w³asny lokal!}
-{246}{}{One zawsze wychodz¹ noc¹.}
+{220}{}{UwaÅ¼aj na Metzgera, dzikusie.}
+{221}{}{Dlaczego tu jest zawsze tak cholernie gorÄ…co?}
+{222}{}{Dlaczego musimy Å¼yÄ‡ na pustyni?}
+{223}{}{CaÅ‚kiem niezÅ‚y ze mnie kucharz.}
+{224}{}{KiedyÅ› otworzÄ™ swojÄ… wÅ‚asnÄ… restauracjÄ™.}
+{225}{}{Szkoda, Å¼e nie mam kuchni z prawdziwego zdarzenia.}
+{226}{}{Dlaczego chociaÅ¼ raz los siÄ™ do mnie nie uÅ›miechnie?}
+{227}{}{Ludziom po prostu nie moÅ¼na juÅ¼ ufaÄ‡.}
+{228}{}{Fred to marzyciel - ten jego wielki plan jest gÃ³wno wart.}
+{240}{}{Ciii! One sÄ… wszÄ™dzie.}
+{241}{}{Spraw, Å¼eby przestaÅ‚y!}
+{242}{}{Masz tÄ™ cholernÄ… ksiÄ…Å¼kÄ™?}
+{243}{}{Nie rozumiem dlaczego Becky nie chce mnie zatrudniÄ‡.}
+{244}{}{Ja tu zwariujÄ™!}
+{245}{}{Mam wÅ‚asny lokal!}
+{246}{}{One zawsze wychodzÄ… nocÄ….}
 {247}{}{Uwielbiam ziemniaki!}
 {248}{}{Tylko nie wdepnij boso w to zielone!}
-{249}{}{Wywróæ to na lew¹ stronê.}
-{250}{}{Aaa! Ale¿ mnie boli g³owa.}
+{249}{}{WywrÃ³Ä‡ to na lewÄ… stronÄ™.}
+{250}{}{Aaa! AleÅ¼ mnie boli gÅ‚owa.}
 {251}{}{Jestem mistrzem patelni!}
-{252}{}{Nigdy bym nie zatru³ jedzenia ¿ó³todzioba.}
-{260}{}{Hej, chcesz œwie¿utkiego chleba?}
+{252}{}{Nigdy bym nie zatruÅ‚ jedzenia Å¼Ã³Å‚todzioba.}
+{260}{}{Hej, chcesz Å›wieÅ¼utkiego chleba?}
 {261}{}{Tak.}
-{262}{}{Szukam ksi¹¿ki Becky.}
-{263}{}{Nie. Czeœæ.}
+{262}{}{Szukam ksiÄ…Å¼ki Becky.}
+{263}{}{Nie. CzeÅ›Ä‡.}
 {270}{}{O, witaj znowu.}
-{271}{}{No i gdzie jest ksi¹¿ka Becky?}
-{272}{}{Hej, mo¿e jednak trochê tego chleba?}
+{271}{}{No i gdzie jest ksiÄ…Å¼ka Becky?}
+{272}{}{Hej, moÅ¼e jednak trochÄ™ tego chleba?}
 {273}{}{Bywaj.}
-{280}{}{Ha! Ja te¿. Mówi³em ci ju¿ jaki œwietny ze mnie kucharz? Ale Becky z jakiegoœ powodu nie chce mnie zatrudniæ. Mówi, ¿e jestem psychicznie niestabilny.}
-{281}{}{I pewnie ma racjê.}
-{282}{}{Szukam ksi¹¿ki Becky.}
-{283}{}{To œwietnie. Muszê... muszê ju¿ iœæ.}
-{290}{}{Co? Tyyy! Wal siê, koleœ! Nie jestem... Au! Kurwa.}
-{291}{}{Co? Tyyy! Wal siê, paniusiu! Nie jestem... Au! Kurwa.}
+{280}{}{Ha! Ja teÅ¼. MÃ³wiÅ‚em ci juÅ¼ jaki Å›wietny ze mnie kucharz? Ale Becky z jakiegoÅ› powodu nie chce mnie zatrudniÄ‡. MÃ³wi, Å¼e jestem psychicznie niestabilny.}
+{281}{}{I pewnie ma racjÄ™.}
+{282}{}{Szukam ksiÄ…Å¼ki Becky.}
+{283}{}{To Å›wietnie. MuszÄ™... muszÄ™ juÅ¼ iÅ›Ä‡.}
+{290}{}{Co? Tyyy! Wal siÄ™, koleÅ›! Nie jestem... Au! Kurwa.}
+{291}{}{Co? Tyyy! Wal siÄ™, paniusiu! Nie jestem... Au! Kurwa.}
 {292}{}{Cholera.}
 {293}{}{Koniec gadki.}
-{300}{}{A, tak. Nie podoba³a mi siê. Za du¿o ca³owania. Wyrzuci³em j¹ za rogiem tamtego budynku... nie! Tamtego!... nie... a mo¿e to wcale nie by³ budynek? Mo¿e wyrzuci³em j¹ gdzie indziej... albo wcale jej nie wyrzuci³em?! Au! Moja g³owa!}
-{301}{}{Ksi¹¿ka? A, ta ksi¹¿ka. Kto ciê tu przys³a³? To chyba niew³aœciwa strona. Nie zapomnij o chusteczce.}
-{302}{}{Nie mogê! One... o cholera... Masz ser? Kryj siê!}
-{303}{}{Hej! To nie moja sprawa. A co mia³em zrobiæ? Walczyæ z nimi? Ma³e, zielone ludziki... wielkie, ostre zêbiska! Kurwa! Auuu! Przestañcie!}
-{304}{}{G³owa mnie boli! Aaa! Kto to powiedzia³?}
-{305}{}{To bardzo pomog³o.}
+{300}{}{A, tak. Nie podobaÅ‚a mi siÄ™. Za duÅ¼o caÅ‚owania. WyrzuciÅ‚em jÄ… za rogiem tamtego budynku... nie! Tamtego!... nie... a moÅ¼e to wcale nie byÅ‚ budynek? MoÅ¼e wyrzuciÅ‚em jÄ… gdzie indziej... albo wcale jej nie wyrzuciÅ‚em?! Au! Moja gÅ‚owa!}
+{301}{}{KsiÄ…Å¼ka? A, ta ksiÄ…Å¼ka. Kto ciÄ™ tu przysÅ‚aÅ‚? To chyba niewÅ‚aÅ›ciwa strona. Nie zapomnij o chusteczce.}
+{302}{}{Nie mogÄ™! One... o cholera... Masz ser? Kryj siÄ™!}
+{303}{}{Hej! To nie moja sprawa. A co miaÅ‚em zrobiÄ‡? WalczyÄ‡ z nimi? MaÅ‚e, zielone ludziki... wielkie, ostre zÄ™biska! Kurwa! Auuu! PrzestaÅ„cie!}
+{304}{}{GÅ‚owa mnie boli! Aaa! Kto to powiedziaÅ‚?}
+{305}{}{To bardzo pomogÅ‚o.}
 {306}{}{Uch.}
-{310}{}{Co? Jaja sobie ze mnie robisz! Wal siê! Nie jestem niestabilny! Umiem gotowaæ! I wcale nie s³yszê ¿adnych g³osów!}
-{311}{}{Zamierzam - cholera! Kurwa! Niech to szlag! Przestañcie. Zamknijcie siê! Co...? A, dobra.}
+{310}{}{Co? Jaja sobie ze mnie robisz! Wal siÄ™! Nie jestem niestabilny! Umiem gotowaÄ‡! I wcale nie sÅ‚yszÄ™ Å¼adnych gÅ‚osÃ³w!}
+{311}{}{Zamierzam - cholera! Kurwa! Niech to szlag! PrzestaÅ„cie. Zamknijcie siÄ™! Co...? A, dobra.}
 {312}{}{Hej! Co do... kurwa.}
 {313}{}{Bywaj.}
 {314}{}{Nic nic.}

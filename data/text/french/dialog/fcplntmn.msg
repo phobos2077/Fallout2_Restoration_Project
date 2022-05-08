@@ -1,25 +1,25 @@
-{100}{}{Tu vois un humanoïde couvert de pousses de plantes. Une boue verte s'écoule de lui.}
-{101}{}{Tu vois une des immondes créations du Dr. Sheng.}
-{102}{}{Tu vois une des immondes créations du Dr. Sheng. On dirait que celle-ci a mal tourné.}
-{200}{}{Parle avec le maître, humain.}
-{201}{}{Ton corps ferai un très bon hôte...}
-{202}{}{Le maître dit que vous êtes hors d'atteinte... pour le moment.}
-{300}{}{[Une demi-douzaine d'étranges créatures se déplacent lentement vers toi. Leurs corps cadavéreux et couverts de mousse font des sons spongieux repoussants à chaque fois qu'ils font un pas. L'une d'elles s'adresse à toi.] Le Maître veut te parler. Viens, humain, et ne résiste pas... où nous ferons de toi un hôte.}
-{301}{}{[Haussement d'épaules.] Ca pourrait être intéressant. Montre-moi le chemin.}
-{302}{}{Je n'irais nulle part avec toi, plante... créature... trucs.}
+{100}{}{Tu vois un humanoÃ¯de couvert de pousses de plantes. Une boue verte s'Ã©coule de lui.}
+{101}{}{Tu vois une des immondes crÃ©ations du Dr. Sheng.}
+{102}{}{Tu vois une des immondes crÃ©ations du Dr. Sheng. On dirait que celle-ci a mal tournÃ©.}
+{200}{}{Parle avec le maÃ®tre, humain.}
+{201}{}{Ton corps ferai un trÃ¨s bon hÃ´te...}
+{202}{}{Le maÃ®tre dit que vous Ãªtes hors d'atteinte... pour le moment.}
+{300}{}{[Une demi-douzaine d'Ã©tranges crÃ©atures se dÃ©placent lentement vers toi. Leurs corps cadavÃ©reux et couverts de mousse font des sons spongieux repoussants Ã  chaque fois qu'ils font un pas. L'une d'elles s'adresse Ã  toi.] Le MaÃ®tre veut te parler. Viens, humain, et ne rÃ©siste pas... oÃ¹ nous ferons de toi un hÃ´te.}
+{301}{}{[Haussement d'Ã©paules.] Ca pourrait Ãªtre intÃ©ressant. Montre-moi le chemin.}
+{302}{}{Je n'irais nulle part avec toi, plante... crÃ©ature... trucs.}
 {303}{}{Je n'ai pas le temps pour cette merde.}
-{304}{}{Attends un peu. C'est qui ton maître ? Et qu'es-tu au juste ?}
-{310}{}{Tu n'avais pas le choix, humain. Tu viendras parler au Maître ou nous ferons usage de la violence.}
+{304}{}{Attends un peu. C'est qui ton maÃ®tre ? Et qu'es-tu au juste ?}
+{310}{}{Tu n'avais pas le choix, humain. Tu viendras parler au MaÃ®tre ou nous ferons usage de la violence.}
 {311}{}{Alors, dansons ensemble.}
-{312}{}{Très bien. Je rencontrerai ton maître.}
-{320}{}{Le Maître répondra à toutes tes questions.}
+{312}{}{TrÃ¨s bien. Je rencontrerai ton maÃ®tre.}
+{320}{}{Le MaÃ®tre rÃ©pondra Ã  toutes tes questions.}
 {321}{}{Je ne pense pas.}
-{322}{}{Très bien. Je rencontrerai ton maître.}
+{322}{}{TrÃ¨s bien. Je rencontrerai ton maÃ®tre.}
 {400}{}{Heeeuuuu...}
 {401}{}{Grrraaah !}
 {402}{}{Hhiisssss...}
 {403}{}{Ohhh...}
-{410}{}{Le maître a dit : personne n'entre.}
-{420}{}{Le maître a dit : tu peux entrer, humain.}
-{500}{}{Tu vaporises la créature qui émet un gémissement lourd. Les segments végétaux qui la recouvrent tombent lentement au sol.}
-{501}{}{Tu vaporises la créature qui émet un gémissement lourd. Elle suinte et se transforme en flaque devant tes yeux.}
+{410}{}{Le maÃ®tre a dit : personne n'entre.}
+{420}{}{Le maÃ®tre a dit : tu peux entrer, humain.}
+{500}{}{Tu vaporises la crÃ©ature qui Ã©met un gÃ©missement lourd. Les segments vÃ©gÃ©taux qui la recouvrent tombent lentement au sol.}
+{501}{}{Tu vaporises la crÃ©ature qui Ã©met un gÃ©missement lourd. Elle suinte et se transforme en flaque devant tes yeux.}

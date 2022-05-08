@@ -4,18 +4,18 @@
 {321}{}{Wir nix reden mit dir.}
 {322}{}{Wir werden sein frei.}
 {323}{}{Du nix halten uns.}
-{324}{}{Du Sklavenhändler!}
-{325}{}{Warum tut Ihr Sklavenhändler das?}
-{326}{}{Wie könnt Ihr für diese Leute arbeiten?}
+{324}{}{Du SklavenhÃ¤ndler!}
+{325}{}{Warum tut Ihr SklavenhÃ¤ndler das?}
+{326}{}{Wie kÃ¶nnt Ihr fÃ¼r diese Leute arbeiten?}
 {327}{}{Wir sind keine Wilden!}
 {328}{}{Habt Ihr keine Ehre im Leib?}
 {329}{}{Was wird mit uns passieren?}
 {330}{}{Was haben wir falsch gemacht?}
-{331}{}{Lass uns in Ruhe, Sklavenhändler!}
+{331}{}{Lass uns in Ruhe, SklavenhÃ¤ndler!}
 {332}{}{Tu mir nicht weh!}
 {333}{}{Lass mich in Ruhe!}
 {350}{}{Wer du?}
-{351}{}{Du nix Sklavenhändler.}
+{351}{}{Du nix SklavenhÃ¤ndler.}
 {352}{}{Du nix weh tun?}
 {353}{}{Freund?}
 {354}{}{Du helfen?}

@@ -1,37 +1,37 @@
-{100}{}{Egy taknyos orrú kiskölyköt látsz.}
+{100}{}{Egy taknyos orrÃº kiskÃ¶lykÃ¶t lÃ¡tsz.}
 {101}{}{It's Vice-President Carlson's kid.}
-{102}{}{Elkényeztetett kis törpének t?nik. Ja, és dagadtnak is.}
-{103}{}{Az én apán Carlson alelnök, úgyhogy jobb, ha rendes leszel hozzám. Ki vagy te?}
+{102}{}{ElkÃ©nyeztetett kis tÃ¶rpÃ©nek t?nik. Ja, Ã©s dagadtnak is.}
+{103}{}{Az Ã©n apÃ¡n Carlson alelnÃ¶k, Ãºgyhogy jobb, ha rendes leszel hozzÃ¡m. Ki vagy te?}
 {104}{}{[Player name]...}
-{105}{}{A papád egyik test?re vagyok.}
-{106}{}{Hol van a papád?}
-{107}{}{Látod ezt a kést? Nálad rendesebb kiskölyköket is kibeleztem már.}
-{108}{}{Én vagyok a legrosszabb rémálmod, }
-{109}{}{Sajnálom, kölyök, dolgom van.}
-{110}{}{? Micsoda szar név. Hülye neved van. Hülye név!}
-{111}{}{Akkor extra rendesnek kell lenned hozzám, különben megmondalak a papámnak!}
-{112}{}{Valóban? Mit szólnál, ha (elsuttogod neki).}
-{113}{}{Rendben. Ó, fiú.}
-{114}{}{Bent van. Az irodájában. Mindig ott van.}
-{115}{}{Hol van az irodája?}
-{116}{}{Oké. Kösz.}
+{105}{}{A papÃ¡d egyik test?re vagyok.}
+{106}{}{Hol van a papÃ¡d?}
+{107}{}{LÃ¡tod ezt a kÃ©st? NÃ¡lad rendesebb kiskÃ¶lykÃ¶ket is kibeleztem mÃ¡r.}
+{108}{}{Ã‰n vagyok a legrosszabb rÃ©mÃ¡lmod, }
+{109}{}{SajnÃ¡lom, kÃ¶lyÃ¶k, dolgom van.}
+{110}{}{? Micsoda szar nÃ©v. HÃ¼lye neved van. HÃ¼lye nÃ©v!}
+{111}{}{Akkor extra rendesnek kell lenned hozzÃ¡m, kÃ¼lÃ¶nben megmondalak a papÃ¡mnak!}
+{112}{}{ValÃ³ban? Mit szÃ³lnÃ¡l, ha (elsuttogod neki).}
+{113}{}{Rendben. Ã“, fiÃº.}
+{114}{}{Bent van. Az irodÃ¡jÃ¡ban. Mindig ott van.}
+{115}{}{Hol van az irodÃ¡ja?}
+{116}{}{OkÃ©. KÃ¶sz.}
 {117}{}{By the water tank. I play over there sometimes. I peek on him while he's working.}
-{118}{}{Bosszantó kis kölyök vagy, tudod-e?}
-{119}{}{Kösz, kölyök, sokat segítettél.}
-{120}{}{Nem vagy kedves ember, rossz ember vagy! Megyek, és megmondalak a papámnak!}
-{121}{}{Hé, már megint te vagy az? Micsinálsz?}
-{122}{}{Menj, és mondd meg apádnak, hogy beszélni akarok vele.}
-{123}{}{Mondd meg apádnak, hogy Mr. Bishopról vannak híreim számára. Meg tudod jegyezni?}
+{118}{}{BosszantÃ³ kis kÃ¶lyÃ¶k vagy, tudod-e?}
+{119}{}{KÃ¶sz, kÃ¶lyÃ¶k, sokat segÃ­tettÃ©l.}
+{120}{}{Nem vagy kedves ember, rossz ember vagy! Megyek, Ã©s megmondalak a papÃ¡mnak!}
+{121}{}{HÃ©, mÃ¡r megint te vagy az? MicsinÃ¡lsz?}
+{122}{}{Menj, Ã©s mondd meg apÃ¡dnak, hogy beszÃ©lni akarok vele.}
+{123}{}{Mondd meg apÃ¡dnak, hogy Mr. BishoprÃ³l vannak hÃ­reim szÃ¡mÃ¡ra. Meg tudod jegyezni?}
 {124}{}{Fnuh.}
 {125}{}{Kaki fej? vagy! Kaki fej?!}
-{126}{}{Oké.}
-{127}{}{Hírek Mr. Mishop-ról. Oké?}
-{128}{}{Elég jó.}
-{129}{}{A papám azt mondta, hogy nem ér rá.}
-{130}{}{Megmondtam a papámnak. Azt hiszem, nem kedvel téged.}
-{131}{}{A papa azt mondta, hogy bemehetsz a házba.}
-{132}{}{Megmondtalak a papának, hogy rossz ember voltál.}
-{133}{}{Így van, én vagyok a mumus! És meg foglak enni.}
-{134}{}{Félreértettél, kölyök.}
-{135}{}{Nem beszélhetek veled többet.}
-{136}{}{A papám halott. Miért nem mentetted meg ?t?}
+{126}{}{OkÃ©.}
+{127}{}{HÃ­rek Mr. Mishop-rÃ³l. OkÃ©?}
+{128}{}{ElÃ©g jÃ³.}
+{129}{}{A papÃ¡m azt mondta, hogy nem Ã©r rÃ¡.}
+{130}{}{Megmondtam a papÃ¡mnak. Azt hiszem, nem kedvel tÃ©ged.}
+{131}{}{A papa azt mondta, hogy bemehetsz a hÃ¡zba.}
+{132}{}{Megmondtalak a papÃ¡nak, hogy rossz ember voltÃ¡l.}
+{133}{}{Ãgy van, Ã©n vagyok a mumus! Ã‰s meg foglak enni.}
+{134}{}{FÃ©lreÃ©rtettÃ©l, kÃ¶lyÃ¶k.}
+{135}{}{Nem beszÃ©lhetek veled tÃ¶bbet.}
+{136}{}{A papÃ¡m halott. MiÃ©rt nem mentetted meg ?t?}

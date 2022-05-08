@@ -1,1 +1,1 @@
-{100}{}{Est·s en las afueras de Ciudad Refugio. En el interior de los muros se encuentran hileras ordenadas de edificios de adobe de un blanco prÌstino.}
+{100}{}{Est√°s en las afueras de Ciudad Refugio. En el interior de los muros se encuentran hileras ordenadas de edificios de adobe de un blanco pr√≠stino.}

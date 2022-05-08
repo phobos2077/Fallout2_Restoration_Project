@@ -1,6 +1,6 @@
-{100}{}{Você vê um guarda com roupas soltas, usando um olhar de tédio cauteloso.}
-{101}{}{Ele não tem cara de querer estar aqui agora.}
-{150}{}{Uh, o que você está fazendo se esgueirando por aí?}
-{151}{}{Você é algum tipo de espião?}
-{200}{}{Essa coisa ainda me dá arrepios.}
+{100}{}{VocÃª vÃª um guarda com roupas soltas, usando um olhar de tÃ©dio cauteloso.}
+{101}{}{Ele nÃ£o tem cara de querer estar aqui agora.}
+{150}{}{Uh, o que vocÃª estÃ¡ fazendo se esgueirando por aÃ­?}
+{151}{}{VocÃª Ã© algum tipo de espiÃ£o?}
+{200}{}{Essa coisa ainda me dÃ¡ arrepios.}
 {201}{}{Pare de me fazer perder tempo, lao wai.}

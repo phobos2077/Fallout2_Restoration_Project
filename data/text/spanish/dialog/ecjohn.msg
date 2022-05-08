@@ -1,4 +1,4 @@
-{100}{}{Estás viendo a un hombre.}
+{100}{}{EstÃ¡s viendo a un hombre.}
 {101}{}{Este es John.}
-{102}{}{Está golpeando dos mitades de coco.}
-{103}{}{¡Clip! ¡Clop!}
+{102}{}{EstÃ¡ golpeando dos mitades de coco.}
+{103}{}{Â¡Clip! Â¡Clop!}

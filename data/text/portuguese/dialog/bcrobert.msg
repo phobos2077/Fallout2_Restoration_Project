@@ -1,7 +1,7 @@
-{100}{}{Você vê um posseiro.}
-{101}{}{Você vê Roberta, um posseiro.}
-{102}{}{Você vê uma mulher de meia idade vestindo roupas usadas.}
-{103}{}{Oh, meu. Me desculpe, mas eu não tenho nada a dizer para você. Por favor, vá embora.}
-{104}{}{Por favor, vá embora. Eu não quero ser incomodado.}
-{105}{}{Obrigado por ajudar Rebecca. Eu estava errado sobre você.}
-{106}{}{Eu não sou ameaça para você. Por favor, não me mate.}
+{100}{}{VocÃª vÃª um posseiro.}
+{101}{}{VocÃª vÃª Roberta, um posseiro.}
+{102}{}{VocÃª vÃª uma mulher de meia idade vestindo roupas usadas.}
+{103}{}{Oh, meu. Me desculpe, mas eu nÃ£o tenho nada a dizer para vocÃª. Por favor, vÃ¡ embora.}
+{104}{}{Por favor, vÃ¡ embora. Eu nÃ£o quero ser incomodado.}
+{105}{}{Obrigado por ajudar Rebecca. Eu estava errado sobre vocÃª.}
+{106}{}{Eu nÃ£o sou ameaÃ§a para vocÃª. Por favor, nÃ£o me mate.}

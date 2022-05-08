@@ -1,2 +1,2 @@
-1:Nie ¿yjesz.
-2:Nie uda³o ci siê odnaleŸæ Generatora Ekosystemu Cudownej Krainy. Twoja misja zakoñczy³a siê klêsk¹.
+1:Nie Å¼yjesz.
+2:Nie udaÅ‚o ci siÄ™ odnaleÅºÄ‡ Generatora Ekosystemu Cudownej Krainy. Twoja misja zakoÅ„czyÅ‚a siÄ™ klÄ™skÄ….

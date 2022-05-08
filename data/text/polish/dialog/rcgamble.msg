@@ -1,54 +1,54 @@
 {100}{}{Widzisz gracza.}
-{101}{}{Widzisz gracza, który stara siê dorobiæ odrobiny pieniêdzy..}
-{102}{}{Widzisz podniecon¹ osobê, która gra.}
-{103}{}{No dalej! Potrzebujê nowych butów.}
+{101}{}{Widzisz gracza, ktÃ³ry stara siÄ™ dorobiÄ‡ odrobiny pieniÄ™dzy..}
+{102}{}{Widzisz podnieconÄ… osobÄ™, ktÃ³ra gra.}
+{103}{}{No dalej! PotrzebujÄ™ nowych butÃ³w.}
 {104}{}{Dobrze! O to chodzi!}
 {105}{}{Kurwa!}
 {106}{}{Dlaczego mnie?}
-{107}{}{Czy ktos ma po¿yczyæ trochê drobnych?}
+{107}{}{Czy ktos ma poÅ¼yczyÄ‡ trochÄ™ drobnych?}
 {108}{}{Teraz mam pewniaka.}
-{109}{}{Mój system zawsze siê sprawdza.}
+{109}{}{MÃ³j system zawsze siÄ™ sprawdza.}
 {110}{}{Ten system jest do bani!}
-{111}{}{Hej! Ktos zaszachrowa³ tê grê!}
-{112}{}{Mam najwiêksze szczêœcie na œwiecie!}
+{111}{}{Hej! Ktos zaszachrowaÅ‚ tÄ™ grÄ™!}
+{112}{}{Mam najwiÄ™ksze szczÄ™Å›cie na Å›wiecie!}
 {113}{}{Za co?!}
 {114}{}{Kurde!}
 {115}{}{JEST!!!}
 {116}{}{Hurra!}
-{117}{}{Nikt jeszcze nie by³ takim szczêœciarzem!}
-{118}{}{To jest trochê *za* dobre, by byæ prawd¹.}
-{119}{}{Lepiej wiêcej nie wygrywaj...}
+{117}{}{Nikt jeszcze nie byÅ‚ takim szczÄ™Å›ciarzem!}
+{118}{}{To jest trochÄ™ *za* dobre, by byÄ‡ prawdÄ….}
+{119}{}{Lepiej wiÄ™cej nie wygrywaj...}
 {120}{}{Jaki mamy limit?}
-{121}{}{Naprawdê tak jest napisane w regulaminie?}
-{122}{}{Zgadza siê...}
+{121}{}{NaprawdÄ™ tak jest napisane w regulaminie?}
+{122}{}{Zgadza siÄ™...}
 {123}{}{No to jadziem.}
-{124}{}{Nastêpnym razem podwajam stawkê.}
+{124}{}{NastÄ™pnym razem podwajam stawkÄ™.}
 {125}{}{No dalej, no dalej...}
 {126}{}{No to po domu...}
 {127}{}{No to po ziemi...}
-{128}{}{Potrzebujê jeszcze trochê kredytu...}
-{129}{}{Czujê, ¿e moje szczêœcie zaraz siê zmieni.}
-{130}{}{Gdzie moja szczêœliwa stopka gekona?}
+{128}{}{PotrzebujÄ™ jeszcze trochÄ™ kredytu...}
+{129}{}{CzujÄ™, Å¼e moje szczÄ™Å›cie zaraz siÄ™ zmieni.}
+{130}{}{Gdzie moja szczÄ™Å›liwa stopka gekona?}
 {131}{}{Czego chcesz?}
 {132}{}{Spadaj stary...}
 {133}{}{Ej! Nie zapeszaj...}
 {134}{}{Czemu tak krzywo patrzysz?}
-{135}{}{Hej, przynosisz mi szczêœcie!}
-{136}{}{Moge poklepaæ ciê po g³owie na szczêœcie?}
-{137}{}{Chuchniesz na szczêœcie?}
+{135}{}{Hej, przynosisz mi szczÄ™Å›cie!}
+{136}{}{Moge poklepaÄ‡ ciÄ™ po gÅ‚owie na szczÄ™Å›cie?}
+{137}{}{Chuchniesz na szczÄ™Å›cie?}
 {138}{}{Graj albo chuchaj.}
-{139}{}{Tu nie ma miejsca dla kibiców.}
-{140}{}{Mam nadziejê, ¿e nie zmienisz szans.}
-{141}{}{To pechowy stó³.}
-{142}{}{To szczêœliwy stó³.}
-{143}{}{Jeszcze parê dolców i odchodzê. Tym razem mówiê na serio.}
-{144}{}{Nie t³oczcie siê.}
-{145}{}{Widzieliœcie to?}
-{146}{}{Nie wierzê w takie szczêœcie.}
+{139}{}{Tu nie ma miejsca dla kibicÃ³w.}
+{140}{}{Mam nadziejÄ™, Å¼e nie zmienisz szans.}
+{141}{}{To pechowy stÃ³Å‚.}
+{142}{}{To szczÄ™Å›liwy stÃ³Å‚.}
+{143}{}{Jeszcze parÄ™ dolcÃ³w i odchodzÄ™. Tym razem mÃ³wiÄ™ na serio.}
+{144}{}{Nie tÅ‚oczcie siÄ™.}
+{145}{}{WidzieliÅ›cie to?}
+{146}{}{Nie wierzÄ™ w takie szczÄ™Å›cie.}
 {147}{}{Fajna gra, nie?}
-{148}{}{Czuje, ¿e mam dziœ szczêœcie.}
-{149}{}{Tym razem bêdzie inaczej.}
-{150}{}{Kto by pomyœla³, ¿e jesteœcie dobrzy w te gierki.}
-{151}{}{Trzeba siê na tym znaæ!}
-{152}{}{Odsuñcie siê i patrzcie.}
+{148}{}{Czuje, Å¼e mam dziÅ› szczÄ™Å›cie.}
+{149}{}{Tym razem bÄ™dzie inaczej.}
+{150}{}{Kto by pomyÅ›laÅ‚, Å¼e jesteÅ›cie dobrzy w te gierki.}
+{151}{}{Trzeba siÄ™ na tym znaÄ‡!}
+{152}{}{OdsuÅ„cie siÄ™ i patrzcie.}
 {153}{}{Rozbije bank! Poprostu to wiem.}

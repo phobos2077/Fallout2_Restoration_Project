@@ -1,57 +1,57 @@
-{100}{}{Egy sovány, id?s n?t látsz, aki látott már jobb napokat is.}
-{101}{}{? Rooney, az özvegyasszony.}
-{102}{}{A sovány, id?s hölgy tele van bibircsókokkal és elég rendes bajuszkája n?tt.}
-{103}{}{Távozz t?lem!}
-{104}{}{Nem okoztál már így is egy életre szóló bajt?}
-{105}{}{Egyszer?en ölj meg, és kész! Nehezedre esik?}
-{106}{}{Szóval neked az öreg hölgyek kilakoltatása okoz örömet?}
-{107}{}{Jöttél megnézni a munkád gyümölcsét?}
-{108}{}{Köszönöm, hogy segítettél megmenteni az otthonom. Nélküled nem sikerült volna. Hadd adjak egy puszikát!}
-{109}{}{Visszajöttél egy újabb Rooney-mama féle hála-pusziért? Nem tudom eléggé megköszönni.}
-{110}{}{Hát, ha muszáj. Kíváncsi volnék arra a kútra, ami odakint áll.}
-{111}{}{Örülök, hogy segíthettem önnek. Viszont látásra.}
-{112}{}{A kút? Nincs mit mesélni róla. Már jó ideje kiszáradt. Megesküdnék rá, hogy éjjelente fura hangok jönnek onnan, de a hallásom már nem a régi.}
-{113}{}{Miféle hangokat hall?}
-{114}{}{Hát, köszönöm az információt. Viszont látásra.}
-{115}{}{Lehet, hogy csak képzelgek, de kaparásra vagy ásásra hasonlítanak. Talán csak kutyák, vagy ilyesmi...}
-{116}{}{Hmm, lehet. Hát, köszönöm. Viszlát!}
-{117}{}{Üdvözlöm, fiatalember. Mit tehet érted Rooney mama?}
-{118}{}{Üdvözlöm, kis hölgy. Mit tehet érted Rooney mama?}
-{119}{}{Te vagy anyukám?}
-{120}{}{Hát, rossz hírem van, Rooney mama...}
-{121}{}{Csak kíváncsi voltam, ki lakik itt. Örülök, hogy találkoztunk, Rooney mama.}
-{123}{}{Ó, igazából semmit. Csak körülnéztem. Viszlát!}
-{124}{}{Nem én vagyok az átkozott anyád. Már van egy brahminom, amit gondoznom kell és a francnak se kell másik. Mars innen!}
+{100}{}{Egy sovÃ¡ny, id?s n?t lÃ¡tsz, aki lÃ¡tott mÃ¡r jobb napokat is.}
+{101}{}{? Rooney, az Ã¶zvegyasszony.}
+{102}{}{A sovÃ¡ny, id?s hÃ¶lgy tele van bibircsÃ³kokkal Ã©s elÃ©g rendes bajuszkÃ¡ja n?tt.}
+{103}{}{TÃ¡vozz t?lem!}
+{104}{}{Nem okoztÃ¡l mÃ¡r Ã­gy is egy Ã©letre szÃ³lÃ³ bajt?}
+{105}{}{Egyszer?en Ã¶lj meg, Ã©s kÃ©sz! Nehezedre esik?}
+{106}{}{SzÃ³val neked az Ã¶reg hÃ¶lgyek kilakoltatÃ¡sa okoz Ã¶rÃ¶met?}
+{107}{}{JÃ¶ttÃ©l megnÃ©zni a munkÃ¡d gyÃ¼mÃ¶lcsÃ©t?}
+{108}{}{KÃ¶szÃ¶nÃ¶m, hogy segÃ­tettÃ©l megmenteni az otthonom. NÃ©lkÃ¼led nem sikerÃ¼lt volna. Hadd adjak egy puszikÃ¡t!}
+{109}{}{VisszajÃ¶ttÃ©l egy Ãºjabb Rooney-mama fÃ©le hÃ¡la-pusziÃ©rt? Nem tudom elÃ©ggÃ© megkÃ¶szÃ¶nni.}
+{110}{}{HÃ¡t, ha muszÃ¡j. KÃ­vÃ¡ncsi volnÃ©k arra a kÃºtra, ami odakint Ã¡ll.}
+{111}{}{Ã–rÃ¼lÃ¶k, hogy segÃ­thettem Ã¶nnek. Viszont lÃ¡tÃ¡sra.}
+{112}{}{A kÃºt? Nincs mit mesÃ©lni rÃ³la. MÃ¡r jÃ³ ideje kiszÃ¡radt. MegeskÃ¼dnÃ©k rÃ¡, hogy Ã©jjelente fura hangok jÃ¶nnek onnan, de a hallÃ¡som mÃ¡r nem a rÃ©gi.}
+{113}{}{MifÃ©le hangokat hall?}
+{114}{}{HÃ¡t, kÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. Viszont lÃ¡tÃ¡sra.}
+{115}{}{Lehet, hogy csak kÃ©pzelgek, de kaparÃ¡sra vagy Ã¡sÃ¡sra hasonlÃ­tanak. TalÃ¡n csak kutyÃ¡k, vagy ilyesmi...}
+{116}{}{Hmm, lehet. HÃ¡t, kÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{117}{}{ÃœdvÃ¶zlÃ¶m, fiatalember. Mit tehet Ã©rted Rooney mama?}
+{118}{}{ÃœdvÃ¶zlÃ¶m, kis hÃ¶lgy. Mit tehet Ã©rted Rooney mama?}
+{119}{}{Te vagy anyukÃ¡m?}
+{120}{}{HÃ¡t, rossz hÃ­rem van, Rooney mama...}
+{121}{}{Csak kÃ­vÃ¡ncsi voltam, ki lakik itt. Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk, Rooney mama.}
+{123}{}{Ã“, igazÃ¡bÃ³l semmit. Csak kÃ¶rÃ¼lnÃ©ztem. ViszlÃ¡t!}
+{124}{}{Nem Ã©n vagyok az Ã¡tkozott anyÃ¡d. MÃ¡r van egy brahminom, amit gondoznom kell Ã©s a francnak se kell mÃ¡sik. Mars innen!}
 {125}{}{Szia szia. Mami.}
-{126}{}{Értem. Tehát te végzed el Ascorti piszkos munkáját. Mit fogsz tenni? Megölsz? Kidobsz a hidegbe?}
-{127}{}{Remélem, ez megnyugtatja a lelkiismereted.}
+{126}{}{Ã‰rtem. TehÃ¡t te vÃ©gzed el Ascorti piszkos munkÃ¡jÃ¡t. Mit fogsz tenni? MegÃ¶lsz? Kidobsz a hidegbe?}
+{127}{}{RemÃ©lem, ez megnyugtatja a lelkiismereted.}
 {128}{}{Ascorti? Az meg kicsoda?}
-{129}{}{A kinti leveg? jót fog tenni önnek. Mozogjon már nyanya, ha jót akar!}
-{130}{}{Képtelen vagyok kidobni egy id?s embert. Mennyi lakbérrel is maradt el?}
-{131}{}{Én is örülök, hogy látlak. Nem sokszor van ilyen illedelmes látogatóm. A legtöbben csak azért jönnek be, hogy megfenyegessenek egy törékeny, id?s hölgyet.}
-{132}{}{Miért fenyegetik az emberek?}
-{133}{}{Bizony egyes emberek fura dolgokban lelik örömüket. Jó volt önnel beszélgetni.}
-{134}{}{6 hónapi elmaradásom van Ascorti számára, összevissza 120 dollárral tartozom ezért a bolhafészekért. Sajnos nincs énnekem annyim. Néhány brahminom beteg lett, elpusztult, és nem tudtam fizetni. Ha nem fizetek hamarosan, a Sheriffel fog kilakoltatni.}
-{135}{}{Nos, az a helyzet, hogy én végzem a Sherif munkáját és nekem kellene kirúgnom önt.}
-{136}{}{Kilakoltatni egy védtelen, öreg nénit, mint ön? Ez nem szép. Ki tenne ilyet?}
-{137}{}{Nem bírnám végignézni, ahogy kilakoltatják. Mi lenne, ha én kifizetném a tartozását? Nem sok hasznát veszem a pénznek. Én vagyok a Kiválasztott.}
-{138}{}{Ez szörny?! Szívesen segítenék, de likviditási problémáim vannak. Öö, jobb lesz, ha én most megyek is. Viszlát!}
+{129}{}{A kinti leveg? jÃ³t fog tenni Ã¶nnek. Mozogjon mÃ¡r nyanya, ha jÃ³t akar!}
+{130}{}{KÃ©ptelen vagyok kidobni egy id?s embert. Mennyi lakbÃ©rrel is maradt el?}
+{131}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Nem sokszor van ilyen illedelmes lÃ¡togatÃ³m. A legtÃ¶bben csak azÃ©rt jÃ¶nnek be, hogy megfenyegessenek egy tÃ¶rÃ©keny, id?s hÃ¶lgyet.}
+{132}{}{MiÃ©rt fenyegetik az emberek?}
+{133}{}{Bizony egyes emberek fura dolgokban lelik Ã¶rÃ¶mÃ¼ket. JÃ³ volt Ã¶nnel beszÃ©lgetni.}
+{134}{}{6 hÃ³napi elmaradÃ¡som van Ascorti szÃ¡mÃ¡ra, Ã¶sszevissza 120 dollÃ¡rral tartozom ezÃ©rt a bolhafÃ©szekÃ©rt. Sajnos nincs Ã©nnekem annyim. NÃ©hÃ¡ny brahminom beteg lett, elpusztult, Ã©s nem tudtam fizetni. Ha nem fizetek hamarosan, a Sheriffel fog kilakoltatni.}
+{135}{}{Nos, az a helyzet, hogy Ã©n vÃ©gzem a Sherif munkÃ¡jÃ¡t Ã©s nekem kellene kirÃºgnom Ã¶nt.}
+{136}{}{Kilakoltatni egy vÃ©dtelen, Ã¶reg nÃ©nit, mint Ã¶n? Ez nem szÃ©p. Ki tenne ilyet?}
+{137}{}{Nem bÃ­rnÃ¡m vÃ©gignÃ©zni, ahogy kilakoltatjÃ¡k. Mi lenne, ha Ã©n kifizetnÃ©m a tartozÃ¡sÃ¡t? Nem sok hasznÃ¡t veszem a pÃ©nznek. Ã‰n vagyok a KivÃ¡lasztott.}
+{138}{}{Ez szÃ¶rny?! SzÃ­vesen segÃ­tenÃ©k, de likviditÃ¡si problÃ©mÃ¡im vannak. Ã–Ã¶, jobb lesz, ha Ã©n most megyek is. ViszlÃ¡t!}
 {139}{}{Threatening a frail old woman with Gross Bodily Harm? You and Ascorti are cut from the same
  cloth. All right. I'll leave, but I'll leave you a little extra something from my gypsy ancestors.
  (She makes a sign with her hands.) There; you have the evil eye on you now. I hope you like it.}
 {140}{}{I've got a couple of gestures that you'll like, too. Here they are! [You make a few choice ones.]
  Now get out!}
-{141}{}{Cigány ?söket mondott? Hát, ha maga valami boszorkány féle, akkor jól meg kéne égetnünk magát. T?nés kifelé!}
-{142}{}{Csak a munkámat végzem, asszonyom. Remélem, nem akarja, hogy gorombáskodnom kelljen. Most pedig kifelé! Kérem...}
-{143}{}{Ascorti... Ascorti egy kapzsi, részrehajló, minden hájjal megkent, becstelen, sunyi, pipogya takonygombóc. ? a polgármester, és a f?bérl?m is egyúttal.}
-{144}{}{Ó, szóval *az* az Ascorti. Mért nem ezzel kezdte?}
-{145}{}{Nem fogadok el pénzt üt?dött embert?l. Öö, Mr. Kiválasztott.}
-{146}{}{Nem fogadok el pénzt üt?dött embert?l. Öö, Miss Kiválasztott.}
-{147}{}{Semmiség. Szívesen teszem. Itt a 120 dollár, amire szüksége van.}
-{148}{}{Hát, egy kicsit még bizonytalannak érzem magam attól az utolsó bunyómtól. Inkább gondolkozom ezen még egy kicsit. Viszlát!}
-{149}{}{Nagyon köszönöm. Tényleg TE vagy a Kiválasztott! Köszönöm. Már alig várom, hogy lássam Ascorti pofáját, amikor odaadom neki a pénzt.}
-{150}{}{Örülök, hogy segíthettem.Viszlát!}
-{151}{}{Anyagi javak nem jelentenek sokat számomra. Örülök, hogy a pénzt nemes célra tudtam felhasználni.}
-{152}{}{Úgy t?nik, nagyobb a szíved, mint a pénztárcád. Akárhogy is legyen, köszönöm, hogy eszedbe jutott.}
-{153}{}{Kés?bb visszajövök, amikor már lesz elég pénzem. Viszlát!}
-{154}{}{Sajnálom. Bárcsak segítehetnék. Sok szerencsét.}
+{141}{}{CigÃ¡ny ?sÃ¶ket mondott? HÃ¡t, ha maga valami boszorkÃ¡ny fÃ©le, akkor jÃ³l meg kÃ©ne Ã©getnÃ¼nk magÃ¡t. T?nÃ©s kifelÃ©!}
+{142}{}{Csak a munkÃ¡mat vÃ©gzem, asszonyom. RemÃ©lem, nem akarja, hogy gorombÃ¡skodnom kelljen. Most pedig kifelÃ©! KÃ©rem...}
+{143}{}{Ascorti... Ascorti egy kapzsi, rÃ©szrehajlÃ³, minden hÃ¡jjal megkent, becstelen, sunyi, pipogya takonygombÃ³c. ? a polgÃ¡rmester, Ã©s a f?bÃ©rl?m is egyÃºttal.}
+{144}{}{Ã“, szÃ³val *az* az Ascorti. MÃ©rt nem ezzel kezdte?}
+{145}{}{Nem fogadok el pÃ©nzt Ã¼t?dÃ¶tt embert?l. Ã–Ã¶, Mr. KivÃ¡lasztott.}
+{146}{}{Nem fogadok el pÃ©nzt Ã¼t?dÃ¶tt embert?l. Ã–Ã¶, Miss KivÃ¡lasztott.}
+{147}{}{SemmisÃ©g. SzÃ­vesen teszem. Itt a 120 dollÃ¡r, amire szÃ¼ksÃ©ge van.}
+{148}{}{HÃ¡t, egy kicsit mÃ©g bizonytalannak Ã©rzem magam attÃ³l az utolsÃ³ bunyÃ³mtÃ³l. InkÃ¡bb gondolkozom ezen mÃ©g egy kicsit. ViszlÃ¡t!}
+{149}{}{Nagyon kÃ¶szÃ¶nÃ¶m. TÃ©nyleg TE vagy a KivÃ¡lasztott! KÃ¶szÃ¶nÃ¶m. MÃ¡r alig vÃ¡rom, hogy lÃ¡ssam Ascorti pofÃ¡jÃ¡t, amikor odaadom neki a pÃ©nzt.}
+{150}{}{Ã–rÃ¼lÃ¶k, hogy segÃ­thettem.ViszlÃ¡t!}
+{151}{}{Anyagi javak nem jelentenek sokat szÃ¡momra. Ã–rÃ¼lÃ¶k, hogy a pÃ©nzt nemes cÃ©lra tudtam felhasznÃ¡lni.}
+{152}{}{Ãšgy t?nik, nagyobb a szÃ­ved, mint a pÃ©nztÃ¡rcÃ¡d. AkÃ¡rhogy is legyen, kÃ¶szÃ¶nÃ¶m, hogy eszedbe jutott.}
+{153}{}{KÃ©s?bb visszajÃ¶vÃ¶k, amikor mÃ¡r lesz elÃ©g pÃ©nzem. ViszlÃ¡t!}
+{154}{}{SajnÃ¡lom. BÃ¡rcsak segÃ­tehetnÃ©k. Sok szerencsÃ©t.}

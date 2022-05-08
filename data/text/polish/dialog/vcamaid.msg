@@ -1,8 +1,8 @@
 {100}{}{Widzisz Obywatela.}
-{101}{}{Widzisz asystenta ds. udogodnieÒ.}
-{102}{}{Jeúli potrzebujesz pomocy, porozmawiaj z Randalem.}
-{103}{}{Tutaj rozdzielamy miÍdzy Obywateli potrzebne im towary.}
-{104}{}{Jeúli nie masz pozwolenia, trzymaj ≥apy z dala od towaru.}
-{105}{}{Praca jak kaøda inna.}
+{101}{}{Widzisz asystenta ds. udogodnie≈Ñ.}
+{102}{}{Je≈õli potrzebujesz pomocy, porozmawiaj z Randalem.}
+{103}{}{Tutaj rozdzielamy miƒôdzy Obywateli potrzebne im towary.}
+{104}{}{Je≈õli nie masz pozwolenia, trzymaj ≈Çapy z dala od towaru.}
+{105}{}{Praca jak ka≈ºda inna.}
 {106}{}{Randal udzieli ci odpowiedzi na wszystkie pytania.}
-{107}{}{Maszyneria w Krypcie wytwarza tego ca≥e mnÛstwo.}
+{107}{}{Maszyneria w Krypcie wytwarza tego ca≈Çe mn√≥stwo.}

@@ -1,51 +1,51 @@
-{100}{}{Widzisz starego, zapuszczonego cz³owieka ze strzecha w³osów na g³owie.}
-{101}{}{To facet, którego nazywaj¹ Peklowany Bob.}
-{102}{}{Ma plus minus trzy zêby i twarz pokryta siateczka ¿y³ek typowych dla pijaka. Poza tym brzydko pachnie.}
+{100}{}{Widzisz starego, zapuszczonego czÅ‚owieka ze strzecha wÅ‚osÃ³w na gÅ‚owie.}
+{101}{}{To facet, ktÃ³rego nazywajÄ… Peklowany Bob.}
+{102}{}{Ma plus minus trzy zÄ™by i twarz pokryta siateczka Å¼yÅ‚ek typowych dla pijaka. Poza tym brzydko pachnie.}
 {103}{}{Jak leci, przybyszu!}
 {104}{}{Gru?}
-{105}{}{Kim jesteœ?}
-{106}{}{Nazywam siê Bob. Peklowany Bob, ta. A ty?}
-{107}{}{Nie dos³ysza³em twojego imienia, przybyszu? Ja nazywam siê Peklowany Bob.}
+{105}{}{Kim jesteÅ›?}
+{106}{}{Nazywam siÄ™ Bob. Peklowany Bob, ta. A ty?}
+{107}{}{Nie dosÅ‚yszaÅ‚em twojego imienia, przybyszu? Ja nazywam siÄ™ Peklowany Bob.}
 {108}{}{[Player name]}
 {109}{}{Peklowany? Co to za przydomek?}
 {110}{}{Co tutaj robisz?}
-{111}{}{To ca³kiem dobre imiê, ta. S³uchaj, nie postawi³byœ kolejki, partnerze?}
+{111}{}{To caÅ‚kiem dobre imiÄ™, ta. SÅ‚uchaj, nie postawiÅ‚byÅ› kolejki, partnerze?}
 {112}{}{Tak.}
 {113}{}{Nie.}
-{114}{}{OdejdŸ ode mnie, œmierdz¹cy lumpie!}
-{115}{}{Có¿, nie by³o potrzeby byæ niegrzecznym w tej sprawie. Chcia³em sobie tylko, rozumiesz, trochê ³ykn¹æ. Uspokoiæ nerwy...}
-{116}{}{Do diaska! Wygl¹da na to, ¿e masz tu super mocny trunek! S³uchaj, mo¿e siê ze mn¹ podzielisz odrobink¹? Tylko jeden malutki ³yczek.}
-{117}{}{Piæ! Dobrze!}
+{114}{}{OdejdÅº ode mnie, Å›mierdzÄ…cy lumpie!}
+{115}{}{CÃ³Å¼, nie byÅ‚o potrzeby byÄ‡ niegrzecznym w tej sprawie. ChciaÅ‚em sobie tylko, rozumiesz, trochÄ™ Å‚yknÄ…Ä‡. UspokoiÄ‡ nerwy...}
+{116}{}{Do diaska! WyglÄ…da na to, Å¼e masz tu super mocny trunek! SÅ‚uchaj, moÅ¼e siÄ™ ze mnÄ… podzielisz odrobinkÄ…? Tylko jeden malutki Å‚yczek.}
+{117}{}{PiÄ‡! Dobrze!}
 {118}{}{Grrr!}
-{119}{}{Spokojnie, partnerze! Nie miej za z³e cz³owiekowi, ¿e spyta³, dobrze? W takim razie zostawiê ciê w spokoju.}
-{120}{}{(Gul, gul, gul) Aaaach! To dobrze z twojej strony, pioruñsko dobrze. Dobry z ciebie cz³owiek. Taki, którego warto mieæ za swojego partnera. (Gul) Czy opowiada³em ci kiedyœ o moim wielkim skoku?}
+{119}{}{Spokojnie, partnerze! Nie miej za zÅ‚e czÅ‚owiekowi, Å¼e spytaÅ‚, dobrze? W takim razie zostawiÄ™ ciÄ™ w spokoju.}
+{120}{}{(Gul, gul, gul) Aaaach! To dobrze z twojej strony, pioruÅ„sko dobrze. Dobry z ciebie czÅ‚owiek. Taki, ktÃ³rego warto mieÄ‡ za swojego partnera. (Gul) Czy opowiadaÅ‚em ci kiedyÅ› o moim wielkim skoku?}
 {121}{}{Nie?}
-{122}{}{Hej, przestañ wypijaæ mój ca³y browar!}
+{122}{}{Hej, przestaÅ„ wypijaÄ‡ mÃ³j caÅ‚y browar!}
 {123}{}{Rahg!}
-{124}{}{To by³o wtedy, w '78. I ja, i Bessie - najlepszy bot jakiego cz³owiek kiedykolwiek mia³ - poszukiwaliœmy u-ra-nu na zachód st¹d. Nie znaleŸliœmy iloœci wartej nawet jednej puszki fasoli, gdy nagle obskoczy³o nas piêæ - nie, jestem pewien, ¿e by³o ich tam dziesiêæ - szponów œmierci.}
-{125}{}{Walczy³y jak bestie z piek³a rodem. Strzela³em tak du¿o, ¿e stopi³em lufê w mojej strzelbie i szed³em ju¿ na nich z no¿em, gdy w koñcu starej Bessie przepali³y siê ostatnie obwody. Có¿, próbowa³em j¹ ratowaæ, ale nic to nie dawa³o. Wreszcie musia³em spasowaæ i uciekaæ, ci¹gle trzymaj¹c kamieniami szpony na odleg³oœæ.}
-{126}{}{Có¿, sprawy wygl¹da³y nie najlepiej, gdy natrafi³em na tê jaskiniê. Myœla³em, ¿e ju¿ mogê nad sob¹ postawiæ krzy¿yk. Domyœla³em siê, ¿e to jest ich jaskinia - ale mia³em swoj¹ pochodniê, wiêc wszed³em do œrodka. Do diaska, to by³a g³êboka jaskinia. I wtedy to zobaczy³em.}
-{127}{}{To by³y wielkie, potê¿ne drzwi, takie jak widaæ na starych kawa³kach wideo. Du¿e i zrobione ze stali. Na nich wyryta by³a wielka, wspania³a trzynastka!}
-{128}{}{Wiedzia³em, ¿e odnalaz³em to, G³ówne ród³o, Kryptê 13. Usiad³em na ziemi i narysowa³em mapê. Prawie zgin¹³em przy wydostawaniu siê stamt¹d, obok szponów œmierci, a potem przez s³oñce pustyni i brak wody.}
-{129}{}{Do czasu, gdy doczo³ga³em siê do Cienistych Piasków, by³em ju¿ prawie martwy. Wziêli mnie do doktora i posk³adali do kupy, ale ten doktorek zwin¹³ mi mapê. Ja to wiem i to wszystko, co mam do powiedzenia.}
+{124}{}{To byÅ‚o wtedy, w '78. I ja, i Bessie - najlepszy bot jakiego czÅ‚owiek kiedykolwiek miaÅ‚ - poszukiwaliÅ›my u-ra-nu na zachÃ³d stÄ…d. Nie znaleÅºliÅ›my iloÅ›ci wartej nawet jednej puszki fasoli, gdy nagle obskoczyÅ‚o nas piÄ™Ä‡ - nie, jestem pewien, Å¼e byÅ‚o ich tam dziesiÄ™Ä‡ - szponÃ³w Å›mierci.}
+{125}{}{WalczyÅ‚y jak bestie z piekÅ‚a rodem. StrzelaÅ‚em tak duÅ¼o, Å¼e stopiÅ‚em lufÄ™ w mojej strzelbie i szedÅ‚em juÅ¼ na nich z noÅ¼em, gdy w koÅ„cu starej Bessie przepaliÅ‚y siÄ™ ostatnie obwody. CÃ³Å¼, prÃ³bowaÅ‚em jÄ… ratowaÄ‡, ale nic to nie dawaÅ‚o. Wreszcie musiaÅ‚em spasowaÄ‡ i uciekaÄ‡, ciÄ…gle trzymajÄ…c kamieniami szpony na odlegÅ‚oÅ›Ä‡.}
+{126}{}{CÃ³Å¼, sprawy wyglÄ…daÅ‚y nie najlepiej, gdy natrafiÅ‚em na tÄ™ jaskiniÄ™. MyÅ›laÅ‚em, Å¼e juÅ¼ mogÄ™ nad sobÄ… postawiÄ‡ krzyÅ¼yk. DomyÅ›laÅ‚em siÄ™, Å¼e to jest ich jaskinia - ale miaÅ‚em swojÄ… pochodniÄ™, wiÄ™c wszedÅ‚em do Å›rodka. Do diaska, to byÅ‚a gÅ‚Ä™boka jaskinia. I wtedy to zobaczyÅ‚em.}
+{127}{}{To byÅ‚y wielkie, potÄ™Å¼ne drzwi, takie jak widaÄ‡ na starych kawaÅ‚kach wideo. DuÅ¼e i zrobione ze stali. Na nich wyryta byÅ‚a wielka, wspaniaÅ‚a trzynastka!}
+{128}{}{WiedziaÅ‚em, Å¼e odnalazÅ‚em to, GÅ‚Ã³wne Å¹rÃ³dÅ‚o, KryptÄ™ 13. UsiadÅ‚em na ziemi i narysowaÅ‚em mapÄ™. Prawie zginÄ…Å‚em przy wydostawaniu siÄ™ stamtÄ…d, obok szponÃ³w Å›mierci, a potem przez sÅ‚oÅ„ce pustyni i brak wody.}
+{129}{}{Do czasu, gdy doczoÅ‚gaÅ‚em siÄ™ do Cienistych PiaskÃ³w, byÅ‚em juÅ¼ prawie martwy. WziÄ™li mnie do doktora i poskÅ‚adali do kupy, ale ten doktorek zwinÄ…Å‚ mi mapÄ™. Ja to wiem i to wszystko, co mam do powiedzenia.}
 {130}{}{(Dalej)}
-{131}{}{Do stu diab³ów, to dobry i uczciwy przydomek, w³aœnie tak! Ch³opcy pozwalaj¹ mi tu gotowaæ, a gdyby ta twoja zakuta pa³a trochê pomyœla³a, to by³oby to dla ciebie oczywiste, jak i to, jak nale¿y odnosiæ siê do starszych.}
-{132}{}{Przepraszam staruszku, nie chcia³em ciê uraziæ.}
-{133}{}{Poca³uj mnie gdzieœ, starcze!}
-{134}{}{Uraziæ mnie? Uraziæ mnie! Ja jeszcze nie pokaza³em ci, jak ja mogê siê uraziæ! A teraz zje¿d¿aj mi z oczu, zanim siê naprawdê wkurzê! Kulaj siê! Spadaj!}
-{135}{}{Ty te¿ mnie ca³uj! Taka gadka mi siê podoba. Nigdy nie nastawiaj drugiego policzka, partnerze! S³uchaj, nie masz mo¿e trochê gorza³ki? Tylko jeden ma³y ³yczek?}
+{131}{}{Do stu diabÅ‚Ã³w, to dobry i uczciwy przydomek, wÅ‚aÅ›nie tak! ChÅ‚opcy pozwalajÄ… mi tu gotowaÄ‡, a gdyby ta twoja zakuta paÅ‚a trochÄ™ pomyÅ›laÅ‚a, to byÅ‚oby to dla ciebie oczywiste, jak i to, jak naleÅ¼y odnosiÄ‡ siÄ™ do starszych.}
+{132}{}{Przepraszam staruszku, nie chciaÅ‚em ciÄ™ uraziÄ‡.}
+{133}{}{PocaÅ‚uj mnie gdzieÅ›, starcze!}
+{134}{}{UraziÄ‡ mnie? UraziÄ‡ mnie! Ja jeszcze nie pokazaÅ‚em ci, jak ja mogÄ™ siÄ™ uraziÄ‡! A teraz zjeÅ¼dÅ¼aj mi z oczu, zanim siÄ™ naprawdÄ™ wkurzÄ™! Kulaj siÄ™! Spadaj!}
+{135}{}{Ty teÅ¼ mnie caÅ‚uj! Taka gadka mi siÄ™ podoba. Nigdy nie nastawiaj drugiego policzka, partnerze! SÅ‚uchaj, nie masz moÅ¼e trochÄ™ gorzaÅ‚ki? Tylko jeden maÅ‚y Å‚yczek?}
 {136}{}{Tak.}
 {137}{}{Nie.}
-{138}{}{OdejdŸ ode mnie, œmierdz¹cy lumpie!}
-{139}{}{Che, che, che! To jest teraz moje, partnerze. Musisz se tego poszukaæ dla siebie!}
-{140}{}{Szef pozwala mi tu byæ. Prowadzê stajnie! Malutkie sprz¹tanko, utrzymuje tutaj porz¹dek.}
+{138}{}{OdejdÅº ode mnie, Å›mierdzÄ…cy lumpie!}
+{139}{}{Che, che, che! To jest teraz moje, partnerze. Musisz se tego poszukaÄ‡ dla siebie!}
+{140}{}{Szef pozwala mi tu byÄ‡. ProwadzÄ™ stajnie! Malutkie sprzÄ…tanko, utrzymuje tutaj porzÄ…dek.}
 {141}{}{Peklowany? Co to za przydomek?}
-{142}{}{Mi³o mi ciê poznaæ. Jestem}
-{143}{}{Do jasnej anielki, znowu ty? Zabieraj swoj¹ kostropat¹ dupê sprzed moich oczu!}
-{144}{}{Poca³uj mnie w dupê!}
-{145}{}{Jesteœ w gor¹cej wodzie k¹pany, staruszku.}
-{146}{}{Do cholery, zgadza siê! Nie masz czegoœ do przep³ukania gard³a? Dla starego cz³owieka.}
+{142}{}{MiÅ‚o mi ciÄ™ poznaÄ‡. Jestem}
+{143}{}{Do jasnej anielki, znowu ty? Zabieraj swojÄ… kostropatÄ… dupÄ™ sprzed moich oczu!}
+{144}{}{PocaÅ‚uj mnie w dupÄ™!}
+{145}{}{JesteÅ› w gorÄ…cej wodzie kÄ…pany, staruszku.}
+{146}{}{Do cholery, zgadza siÄ™! Nie masz czegoÅ› do przepÅ‚ukania gardÅ‚a? Dla starego czÅ‚owieka.}
 {147}{}{Tak.}
 {148}{}{Nie.}
-{149}{}{OdejdŸ ode mnie, œmierdz¹cy lumpie!}
+{149}{}{OdejdÅº ode mnie, Å›mierdzÄ…cy lumpie!}
 {150}{}{.}

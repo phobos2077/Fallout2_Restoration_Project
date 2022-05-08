@@ -1,233 +1,233 @@
-{100}{}{Widzisz starszego mê¿czyznê z g³êbokimi zmarszczkami na twarzy. Nawet jeœli widzi, ¿e mu siê przygl¹dasz, to nie okazuje tego.}
+{100}{}{Widzisz starszego mÄ™Å¼czyznÄ™ z gÅ‚Ä™bokimi zmarszczkami na twarzy. Nawet jeÅ›li widzi, Å¼e mu siÄ™ przyglÄ…dasz, to nie okazuje tego.}
 {101}{}{Widzisz Cassidy'ego.}
-{102}{}{Widzisz starszego mê¿czyznê z g³êbokimi zmarszczkami na twarzy. Kiwa do ciebie g³ow¹.}
-{103}{Cas0103}{No, proszê. Nie widzia³em ciê tu jeszcze. Nazywam siê Cassidy. Prowadzê tê spelunê. Co mogê dla ciebie zrobiæ?}
-{104}{Cas0104}{No proszê, to znowu ty. Co mogê dzisiaj dla ciebie zrobiæ?}
+{102}{}{Widzisz starszego mÄ™Å¼czyznÄ™ z gÅ‚Ä™bokimi zmarszczkami na twarzy. Kiwa do ciebie gÅ‚owÄ….}
+{103}{Cas0103}{No, proszÄ™. Nie widziaÅ‚em ciÄ™ tu jeszcze. Nazywam siÄ™ Cassidy. ProwadzÄ™ tÄ™ spelunÄ™. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{104}{Cas0104}{No proszÄ™, to znowu ty. Co mogÄ™ dzisiaj dla ciebie zrobiÄ‡?}
 {105}{}{Ug Nog?}
-{106}{}{OdejdŸ bez s³owa.}
+{106}{}{OdejdÅº bez sÅ‚owa.}
 {107}{}{Szukam Krypty.}
-{108}{}{Czy wci¹¿ myœlisz o tym, ¿eby siê st¹d wynieœæ?}
+{108}{}{Czy wciÄ…Å¼ myÅ›lisz o tym, Å¼eby siÄ™ stÄ…d wynieÅ›Ä‡?}
 {109}{}{Co masz do picia?}
-{110}{}{Dzieje siê tutaj coœ ciekawego?}
-{111}{}{Dziêki, ale dziœ nie skorzystam.}
-{112}{Cas0112}{Zbyt wiele uderzeñ w g³owê, co? Przykro mi, nie mówiê po debilnemu.}
+{110}{}{Dzieje siÄ™ tutaj coÅ› ciekawego?}
+{111}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{112}{Cas0112}{Zbyt wiele uderzeÅ„ w gÅ‚owÄ™, co? Przykro mi, nie mÃ³wiÄ™ po debilnemu.}
 {113}{}{Ne-mu?}
-{114}{Cas0114}{Krypty? Jedyna jak¹ znam jest w mieœcie. Wielgachna dziura... Nie przeoczysz jej - wierz mi.}
-{115}{}{Masz coœ do picia?}
-{116}{}{Dzieje siê tutaj coœ ciekawego?}
-{117}{}{Dziêki za wskazówki. Powodzenia.}
-{118}{Cas0118}{Piwo za 20$, kolejka whisky za 30$. Nic szczególnego. A co? Chcesz coœ?}
+{114}{Cas0114}{Krypty? Jedyna jakÄ… znam jest w mieÅ›cie. Wielgachna dziura... Nie przeoczysz jej - wierz mi.}
+{115}{}{Masz coÅ› do picia?}
+{116}{}{Dzieje siÄ™ tutaj coÅ› ciekawego?}
+{117}{}{DziÄ™ki za wskazÃ³wki. Powodzenia.}
+{118}{Cas0118}{Piwo za 20$, kolejka whisky za 30$. Nic szczegÃ³lnego. A co? Chcesz coÅ›?}
 {119}{}{Szukam Krypty.}
-{120}{}{Poproszê piwo.}
-{121}{}{Strzelê sobie setê.}
-{122}{}{Dzieje siê tutaj coœ ciekawego?}
-{123}{}{Nieszczególnie. Ale dziêki.}
-{124}{Cas0124}{"Ciekawego"? Ech, przyjacielu. Kryptopolis nie jest "ciekawym" miejscem... Chyba ¿e stra¿nicy siê nudz¹ - wtedy lepiej siê kryæ. Czemu pytasz? Szukasz czegoœ w tej dziurze?}
-{125}{}{Masz coœ do picia?}
-{126}{}{W³aœciwie, szukam Krypty.}
-{127}{}{Nie mo¿e tu byæ a¿ tak Ÿle.}
-{128}{}{Nieszczególnie. Ale dziêki.}
-{129}{Cas0129}{Proszê bardzo, napij siê. Mo¿e dziêki temu zapomnisz gdzie jesteœ.}
-{130}{}{Nie mo¿e tu byæ a¿ tak Ÿle.}
-{131}{}{Dziêki za drinka. Muszê lecieæ.}
-{132}{Cas0132}{Doprawdy? Cholera, wiêc muszê siê myliæ, bo przecie¿ to TY jesteœ w tej sprawie autorytetem. Domyœlam siê, ¿e nie by³o ciê tu podczas nalotu w zesz³ym tygodniu?}
+{120}{}{PoproszÄ™ piwo.}
+{121}{}{StrzelÄ™ sobie setÄ™.}
+{122}{}{Dzieje siÄ™ tutaj coÅ› ciekawego?}
+{123}{}{NieszczegÃ³lnie. Ale dziÄ™ki.}
+{124}{Cas0124}{"Ciekawego"? Ech, przyjacielu. Kryptopolis nie jest "ciekawym" miejscem... Chyba Å¼e straÅ¼nicy siÄ™ nudzÄ… - wtedy lepiej siÄ™ kryÄ‡. Czemu pytasz? Szukasz czegoÅ› w tej dziurze?}
+{125}{}{Masz coÅ› do picia?}
+{126}{}{WÅ‚aÅ›ciwie, szukam Krypty.}
+{127}{}{Nie moÅ¼e tu byÄ‡ aÅ¼ tak Åºle.}
+{128}{}{NieszczegÃ³lnie. Ale dziÄ™ki.}
+{129}{Cas0129}{ProszÄ™ bardzo, napij siÄ™. MoÅ¼e dziÄ™ki temu zapomnisz gdzie jesteÅ›.}
+{130}{}{Nie moÅ¼e tu byÄ‡ aÅ¼ tak Åºle.}
+{131}{}{DziÄ™ki za drinka. MuszÄ™ lecieÄ‡.}
+{132}{Cas0132}{Doprawdy? Cholera, wiÄ™c muszÄ™ siÄ™ myliÄ‡, bo przecieÅ¼ to TY jesteÅ› w tej sprawie autorytetem. DomyÅ›lam siÄ™, Å¼e nie byÅ‚o ciÄ™ tu podczas nalotu w zeszÅ‚ym tygodniu?}
 {133}{}{Nalotu?}
-{134}{Cas0134}{A tak, to by³ piêkny widok. Patrol stra¿ników wparowa³ tu, szukaj¹c "nielegalnych substancji". Rozwalili drzwi, rozwalili moje zapasy, a potem przy³o¿yli te¿ paru klientom.}
-{135}{}{A co siê sta³o potem?}
-{136}{}{Przykro mi to s³yszeæ. Pogadamy póŸniej.}
-{137}{Cas0137}{Jak ju¿ zgarnêli tego goœcia, Joshue, za opór przy aresztowaniu, wlepili mi grzywnê za posiadanie - wyobraŸ sobie - prawdziwej whisky! I nie obchodzi³o ich, ¿e trzy miesi¹ce temu dosta³em na ni¹ pozwolenie od Starka. Dranie.}
+{134}{Cas0134}{A tak, to byÅ‚ piÄ™kny widok. Patrol straÅ¼nikÃ³w wparowaÅ‚ tu, szukajÄ…c "nielegalnych substancji". Rozwalili drzwi, rozwalili moje zapasy, a potem przyÅ‚oÅ¼yli teÅ¼ paru klientom.}
+{135}{}{A co siÄ™ staÅ‚o potem?}
+{136}{}{Przykro mi to sÅ‚yszeÄ‡. Pogadamy pÃ³Åºniej.}
+{137}{Cas0137}{Jak juÅ¼ zgarnÄ™li tego goÅ›cia, Joshue, za opÃ³r przy aresztowaniu, wlepili mi grzywnÄ™ za posiadanie - wyobraÅº sobie - prawdziwej whisky! I nie obchodziÅ‚o ich, Å¼e trzy miesiÄ…ce temu dostaÅ‚em na niÄ… pozwolenie od Starka. Dranie.}
 {138}{}{Rany... Bez jaj...}
-{139}{}{Przykro mi to s³yszeæ. Pogadamy póŸniej.}
-{140}{Cas0140}{Jest jeszcze lepiej. Teraz zalegam stra¿nikom za grzywnê i musia³em kupiæ now¹ skrzynkê alkoholu od handlarza, który wzi¹³ za ni¹ trzy razy wiêcej ni¿ zwykle. A stra¿nicy pewnie nied³ugo znowu wpadn¹, choæby po to, by mi trochê dokopaæ. }
+{139}{}{Przykro mi to sÅ‚yszeÄ‡. Pogadamy pÃ³Åºniej.}
+{140}{Cas0140}{Jest jeszcze lepiej. Teraz zalegam straÅ¼nikom za grzywnÄ™ i musiaÅ‚em kupiÄ‡ nowÄ… skrzynkÄ™ alkoholu od handlarza, ktÃ³ry wziÄ…Å‚ za niÄ… trzy razy wiÄ™cej niÅ¼ zwykle. A straÅ¼nicy pewnie niedÅ‚ugo znowu wpadnÄ…, choÄ‡by po to, by mi trochÄ™ dokopaÄ‡. }
 {141}{}{Jak tu zwykle jest?}
-{142}{}{Mam nadziejê, ¿e sprawy siê wyprostuj¹. Do zobaczenia.}
-{143}{Cas0143}{Nawet w udane dni jest tu kiepsko. Obywatele ma³o pij¹, wiêc ¿yjê z handlarzy. Jeœli jeszcze jakiœ sukinsyn bêdzie siê targowa³ o cenê drinka, wyjdzie st¹d nosz¹c w³asn¹ dupê jako kapelusz.}
+{142}{}{Mam nadziejÄ™, Å¼e sprawy siÄ™ wyprostujÄ…. Do zobaczenia.}
+{143}{Cas0143}{Nawet w udane dni jest tu kiepsko. Obywatele maÅ‚o pijÄ…, wiÄ™c Å¼yjÄ™ z handlarzy. JeÅ›li jeszcze jakiÅ› sukinsyn bÄ™dzie siÄ™ targowaÅ‚ o cenÄ™ drinka, wyjdzie stÄ…d noszÄ…c wÅ‚asnÄ… dupÄ™ jako kapelusz.}
 {144}{}{Dlaczego tu siedzisz, skoro tak nienawidzisz tego miejsca?}
-{145}{}{Przykro mi to s³yszeæ. Szukam Krypty. Mo¿esz mi pomóc?}
-{146}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e sytuacja siê poprawi.}
-{147}{Cas0147}{Mam chore serce. Potrzebne mi zastrzyki kardio-dopalacza, by nie przesta³o biæ. To miasto jest jedynym miejscem, które ma jakieœ mo¿liwoœci medyczne, wiêc wymyœli³em sobie, ¿e osiedlê siê tu i spróbujê jakoœ zarobiæ na ¿ycie.}
-{148}{}{Zdaje siê masz ju¿ ca³kiem doœæ tego miejsca.}
-{149}{}{Rozumiem. S³uchaj, szukam Krypty. Mo¿esz mi w tym pomóc?}
-{150}{}{Mam nadziejê, ¿e sprawy siê wyprostuj¹. Do zobaczenia.}
-{151}{Cas0151}{Mam ochotê zwin¹æ interes i pozwoliæ, by to miasto zgni³o. Pieprzê ich.}
-{152}{}{Wiêc czemu nie odejdziesz?}
-{153}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e sprawy jakoœ siê u³o¿¹.}
-{154}{Cas0154}{Mam sam iœæ na Pustkowie? Ha! Mam doœæ tego miejsca, ale nie jestem g³upi!}
-{155}{}{Wybieram siê nied³ugo w podró¿. Chcia³byœ siê przy³¹czyæ?}
-{156}{}{Có¿, wobec tego - powodzenia.}
-{157}{Cas0157}{Bez urazy i tak dalej, ale nie wygl¹dasz na kogoœ, kto móg³by przewodziæ wyprawie. Pustkowie ciê zabije.}
-{158}{Cas0158}{Nie, nie zadaje siê z ³owcami niewolników. Maj¹ paskudny nawyk sprzedania ciê, gdy zabraknie im kasy. Bez urazy.}
-{159}{Cas0159}{Nie. Wygl¹dasz na kogoœ, kto jedn¹ nog¹ stoi w grobie, a druga w piekle. Nie zamierzam jeszcze bardziej szargaæ swojej reputacji.}
-{160}{Cas0160}{Nie... Wygl¹da na to, ¿e i tak jest wokó³ ciebie t³oczno.}
-{161}{}{W porz¹dku. Trzymaj siê.}
-{162}{}{Zapomnij o tym pytaniu, dupku. Wracaj do swojego gównianego baru.}
-{163}{}{Wobec tego niewa¿ne. Twoja strata.}
-{164}{Cas0164}{Co? Powa¿nie?}
-{165}{}{Pewnie. Czemu nie? Wygl¹dasz na kogoœ, kto umie zadbaæ o siebie w walce.}
-{166}{}{Z drugiej strony, jest tam jednak zbyt niebezpiecznie, zw³aszcza dla kogoœ z chorym sercem. Tutaj bêdzie ci lepiej.}
-{167}{Cas0167}{W porz¹dku. Wchodzê w to.}
-{168}{}{Do dzie³a.}
+{145}{}{Przykro mi to sÅ‚yszeÄ‡. Szukam Krypty. MoÅ¼esz mi pomÃ³c?}
+{146}{}{Przykro mi to sÅ‚yszeÄ‡. Mam nadziejÄ™, Å¼e sytuacja siÄ™ poprawi.}
+{147}{Cas0147}{Mam chore serce. Potrzebne mi zastrzyki kardio-dopalacza, by nie przestaÅ‚o biÄ‡. To miasto jest jedynym miejscem, ktÃ³re ma jakieÅ› moÅ¼liwoÅ›ci medyczne, wiÄ™c wymyÅ›liÅ‚em sobie, Å¼e osiedlÄ™ siÄ™ tu i sprÃ³bujÄ™ jakoÅ› zarobiÄ‡ na Å¼ycie.}
+{148}{}{Zdaje siÄ™ masz juÅ¼ caÅ‚kiem doÅ›Ä‡ tego miejsca.}
+{149}{}{Rozumiem. SÅ‚uchaj, szukam Krypty. MoÅ¼esz mi w tym pomÃ³c?}
+{150}{}{Mam nadziejÄ™, Å¼e sprawy siÄ™ wyprostujÄ…. Do zobaczenia.}
+{151}{Cas0151}{Mam ochotÄ™ zwinÄ…Ä‡ interes i pozwoliÄ‡, by to miasto zgniÅ‚o. PieprzÄ™ ich.}
+{152}{}{WiÄ™c czemu nie odejdziesz?}
+{153}{}{Przykro mi to sÅ‚yszeÄ‡. Mam nadziejÄ™, Å¼e sprawy jakoÅ› siÄ™ uÅ‚oÅ¼Ä….}
+{154}{Cas0154}{Mam sam iÅ›Ä‡ na Pustkowie? Ha! Mam doÅ›Ä‡ tego miejsca, ale nie jestem gÅ‚upi!}
+{155}{}{Wybieram siÄ™ niedÅ‚ugo w podrÃ³Å¼. ChciaÅ‚byÅ› siÄ™ przyÅ‚Ä…czyÄ‡?}
+{156}{}{CÃ³Å¼, wobec tego - powodzenia.}
+{157}{Cas0157}{Bez urazy i tak dalej, ale nie wyglÄ…dasz na kogoÅ›, kto mÃ³gÅ‚by przewodziÄ‡ wyprawie. Pustkowie ciÄ™ zabije.}
+{158}{Cas0158}{Nie, nie zadaje siÄ™ z Å‚owcami niewolnikÃ³w. MajÄ… paskudny nawyk sprzedania ciÄ™, gdy zabraknie im kasy. Bez urazy.}
+{159}{Cas0159}{Nie. WyglÄ…dasz na kogoÅ›, kto jednÄ… nogÄ… stoi w grobie, a druga w piekle. Nie zamierzam jeszcze bardziej szargaÄ‡ swojej reputacji.}
+{160}{Cas0160}{Nie... WyglÄ…da na to, Å¼e i tak jest wokÃ³Å‚ ciebie tÅ‚oczno.}
+{161}{}{W porzÄ…dku. Trzymaj siÄ™.}
+{162}{}{Zapomnij o tym pytaniu, dupku. Wracaj do swojego gÃ³wnianego baru.}
+{163}{}{Wobec tego niewaÅ¼ne. Twoja strata.}
+{164}{Cas0164}{Co? PowaÅ¼nie?}
+{165}{}{Pewnie. Czemu nie? WyglÄ…dasz na kogoÅ›, kto umie zadbaÄ‡ o siebie w walce.}
+{166}{}{Z drugiej strony, jest tam jednak zbyt niebezpiecznie, zwÅ‚aszcza dla kogoÅ› z chorym sercem. Tutaj bÄ™dzie ci lepiej.}
+{167}{Cas0167}{W porzÄ…dku. WchodzÄ™ w to.}
+{168}{}{Do dzieÅ‚a.}
 {169}{}{}
 {170}{}{}
-{171}{Cas0171}{Co jest? Znowu masz tê minê typu "muszê powiedzieæ ci coœ, co ci siê nie spodoba".}
+{171}{Cas0171}{Co jest? Znowu masz tÄ™ minÄ™ typu "muszÄ™ powiedzieÄ‡ ci coÅ›, co ci siÄ™ nie spodoba".}
 {172}{Cas0172}{Taa?}
-{173}{Cas0173}{Co jest? Znowu masz tê minê typu "to ja tu rz¹dzê".}
-{174}{}{Mam do ciebie kilka pytañ...}
-{175}{}{Wygl¹da na to, ¿e trochê oberwa³eœ. U¿yj stimpaków, by siê podleczyæ.}
-{176}{}{Cassidy, zaczekaj tutaj na mój powrót.}
-{177}{}{Schowaj broñ.}
-{178}{}{B¹dŸ blisko mnie.}
-{179}{}{Nie odchodŸ za daleko.}
-{180}{}{Musimy siê trochê rozsun¹æ.}
-{181}{}{ChodŸ, Cassidy, czas na nas.}
-{182}{}{Nic, niewa¿ne.}
-{261}{Cas0261}{Chcesz, bym wpakowa³ kulkê w ³eb Myrona, prawda? ¯aden problem. Powiedz tylko s³owo.}
-{262}{Cas0262}{Co masz na myœli?}
+{173}{Cas0173}{Co jest? Znowu masz tÄ™ minÄ™ typu "to ja tu rzÄ…dzÄ™".}
+{174}{}{Mam do ciebie kilka pytaÅ„...}
+{175}{}{WyglÄ…da na to, Å¼e trochÄ™ oberwaÅ‚eÅ›. UÅ¼yj stimpakÃ³w, by siÄ™ podleczyÄ‡.}
+{176}{}{Cassidy, zaczekaj tutaj na mÃ³j powrÃ³t.}
+{177}{}{Schowaj broÅ„.}
+{178}{}{BÄ…dÅº blisko mnie.}
+{179}{}{Nie odchodÅº za daleko.}
+{180}{}{Musimy siÄ™ trochÄ™ rozsunÄ…Ä‡.}
+{181}{}{ChodÅº, Cassidy, czas na nas.}
+{182}{}{Nic, niewaÅ¼ne.}
+{261}{Cas0261}{Chcesz, bym wpakowaÅ‚ kulkÄ™ w Å‚eb Myrona, prawda? Å»aden problem. Powiedz tylko sÅ‚owo.}
+{262}{Cas0262}{Co masz na myÅ›li?}
 {263}{}{Po co ci ten Myron?}
-{264}{}{Na jakiej broni siê znasz?}
-{265}{}{W³aœciwie, chcê ¿ebyœ jeszcze coœ zrobi³...}
-{266}{}{W³aœciwie, chcê ¿ebyœ coœ zrobi³...}
-{267}{}{Niewa¿ne. Ruszajmy.}
-{268}{}{Nie, nie rób krzywdy Myronowi. Przynajmniej nie dzisiaj. Dam znaæ, jeœli bêdzie trzeba.}
-{269}{Cas0269}{Có¿ g³ównie strzelb i karabinków... Takie mam gusta. Z pistoletami te¿ sobie nieŸle radzê.}
-{270}{}{Coœ jeszcze?}
+{264}{}{Na jakiej broni siÄ™ znasz?}
+{265}{}{WÅ‚aÅ›ciwie, chcÄ™ Å¼ebyÅ› jeszcze coÅ› zrobiÅ‚...}
+{266}{}{WÅ‚aÅ›ciwie, chcÄ™ Å¼ebyÅ› coÅ› zrobiÅ‚...}
+{267}{}{NiewaÅ¼ne. Ruszajmy.}
+{268}{}{Nie, nie rÃ³b krzywdy Myronowi. Przynajmniej nie dzisiaj. Dam znaÄ‡, jeÅ›li bÄ™dzie trzeba.}
+{269}{Cas0269}{CÃ³Å¼ gÅ‚Ã³wnie strzelb i karabinkÃ³w... Takie mam gusta. Z pistoletami teÅ¼ sobie nieÅºle radzÄ™.}
+{270}{}{CoÅ› jeszcze?}
 {271}{}{Dobra. Mam inne pytanie...}
-{272}{}{W porz¹dku. Tylko sprawdzam.}
-{273}{Cas0273}{A jeœli kiedyœ bêdzie trzeba nauczyæ kogoœ dobrych manier, daj mi kastet, to dopasujê twarz delikwenta do moich piêœci.}
-{274}{}{Œwietnie. Coœ jeszcze?}
+{272}{}{W porzÄ…dku. Tylko sprawdzam.}
+{273}{Cas0273}{A jeÅ›li kiedyÅ› bÄ™dzie trzeba nauczyÄ‡ kogoÅ› dobrych manier, daj mi kastet, to dopasujÄ™ twarz delikwenta do moich piÄ™Å›ci.}
+{274}{}{Åšwietnie. CoÅ› jeszcze?}
 {275}{}{Dobra. Mam inne pytanie...}
-{276}{}{W porz¹dku. Tylko sprawdzam.}
-{277}{Cas0277}{Có¿... Mówi¹c miedzy nami, nieŸle sobie radzê tak¿e z dzidami. Razem z kumplami polowaliœmy kiedyœ dzidami na radskorpiony, kiedy... Fakt, ¿e ja ¿yjê, a one nie, mo¿e o czymœ œwiadczyæ.}
-{278}{}{Nie ma nic z³ego w u¿ywaniu dzidy.}
+{276}{}{W porzÄ…dku. Tylko sprawdzam.}
+{277}{Cas0277}{CÃ³Å¼... MÃ³wiÄ…c miedzy nami, nieÅºle sobie radzÄ™ takÅ¼e z dzidami. Razem z kumplami polowaliÅ›my kiedyÅ› dzidami na radskorpiony, kiedy... Fakt, Å¼e ja Å¼yjÄ™, a one nie, moÅ¼e o czymÅ› Å›wiadczyÄ‡.}
+{278}{}{Nie ma nic zÅ‚ego w uÅ¼ywaniu dzidy.}
 {279}{}{Dobra. Mam inne pytanie...}
-{280}{}{W porz¹dku. Tylko sprawdzam.}
-{281}{Cas0281}{To ty tak mówisz. Tylko nie nazywaj mnie dzikusem, a jakoœ siê dogadamy.}
-{282}{Cas0282}{Nie chce, by mylili mnie z tym tutaj, z koœci¹ w nosie. He he. Jeszcze nie widzia³em dzikusa na tyle g³upiego, by wbija³ sobie koœæ w nos.}
-{283}{Cas0283}{Pewnie, ¿e nie. Dzida to dobra broñ. Wielu moich przyjació³ - dzikusów ich u¿ywa.}
-{284}{}{A wiesz, ¿e ja te¿ jestem "dzikusem"?}
+{280}{}{W porzÄ…dku. Tylko sprawdzam.}
+{281}{Cas0281}{To ty tak mÃ³wisz. Tylko nie nazywaj mnie dzikusem, a jakoÅ› siÄ™ dogadamy.}
+{282}{Cas0282}{Nie chce, by mylili mnie z tym tutaj, z koÅ›ciÄ… w nosie. He he. Jeszcze nie widziaÅ‚em dzikusa na tyle gÅ‚upiego, by wbijaÅ‚ sobie koÅ›Ä‡ w nos.}
+{283}{Cas0283}{Pewnie, Å¼e nie. Dzida to dobra broÅ„. Wielu moich przyjaciÃ³Å‚ - dzikusÃ³w ich uÅ¼ywa.}
+{284}{}{A wiesz, Å¼e ja teÅ¼ jestem "dzikusem"?}
 {285}{}{Hmmm. Mam inne pytanie...}
-{286}{}{W porz¹dku. Dziêki za raport.}
-{287}{Cas0287}{Ej, nie ¿artuj sobie z Cassidym. Nie jesteœ dzikusem.}
-{288}{}{Tak, dok³adnie.}
+{286}{}{W porzÄ…dku. DziÄ™ki za raport.}
+{287}{Cas0287}{Ej, nie Å¼artuj sobie z Cassidym. Nie jesteÅ› dzikusem.}
+{288}{}{Tak, dokÅ‚adnie.}
 {289}{}{Wszystko jedno. Mam inne pytanie...}
-{290}{}{Niewa¿ne. Nie chcê tego teraz roztrz¹saæ.}
-{291}{Cas0291}{Ech, có¿... Niech to diabli... Mogê ciê zaraz przeprosiæ. Nie chcia³em ciê uraziæ.}
-{292}{}{Jasne, ¿e nie. Mam inne pytanie...}
-{293}{}{Zapomnij o tym. ChodŸmy.}
-{294}{Cas0294}{Zanim ruszymy, to ja zadam pytanie tobie. Co robimy? Biegamy dooko³a, najwyraŸniej czegoœ szukaj¹c. Mamy jakiœ plan?}
-{295}{}{Szukamy GECKa - Generatora Ekosystemu Cudownej Krainy. Jest potrzebny mojej wiosce, by mog³a siê wy¿ywiæ.}
-{296}{}{Pójdziemy do Krypty, a potem zaniesiemy GECK do wioski.}
-{297}{}{Mieszkañców mojej wioski porwano. Próbujê ustaliæ, co siê z nimi sta³o.}
-{298}{Cas0298}{Rozdaj¹ teraz Cudowne Krainy w zestawach? Rany, a Carroll nic o tym u siebie nie wspomina, prawda? No dobra, zapolujmy.}
-{299}{Cas0299}{Aha. No dobra, tylko sprawdza³em.}
-{300}{Cas0300}{Chêtnie podziurawiê paru porywaczy. Drobny lincz nikomu jeszcze nie zaszkodzi³... A przynajmniej nie mnie.}
-{301}{}{W porz¹dku. ChodŸmy.}
-{302}{Cas0302}{Od tego, co on mówi, a¿ uszy wiêdn¹.}
-{303}{Cas0303}{Zw³aszcza kobiece.}
-{304}{}{Rany, Cassidy, nie wiedzia³am, ¿e zwracasz na to uwagê. A¿ mi cieplej na sercu.}
-{305}{}{No i? Co masz na myœli?}
-{306}{}{Wiesz, sam te¿ sporo przeklinasz, Cassidy.}
+{290}{}{NiewaÅ¼ne. Nie chcÄ™ tego teraz roztrzÄ…saÄ‡.}
+{291}{Cas0291}{Ech, cÃ³Å¼... Niech to diabli... MogÄ™ ciÄ™ zaraz przeprosiÄ‡. Nie chciaÅ‚em ciÄ™ uraziÄ‡.}
+{292}{}{Jasne, Å¼e nie. Mam inne pytanie...}
+{293}{}{Zapomnij o tym. ChodÅºmy.}
+{294}{Cas0294}{Zanim ruszymy, to ja zadam pytanie tobie. Co robimy? Biegamy dookoÅ‚a, najwyraÅºniej czegoÅ› szukajÄ…c. Mamy jakiÅ› plan?}
+{295}{}{Szukamy GECKa - Generatora Ekosystemu Cudownej Krainy. Jest potrzebny mojej wiosce, by mogÅ‚a siÄ™ wyÅ¼ywiÄ‡.}
+{296}{}{PÃ³jdziemy do Krypty, a potem zaniesiemy GECK do wioski.}
+{297}{}{MieszkaÅ„cÃ³w mojej wioski porwano. PrÃ³bujÄ™ ustaliÄ‡, co siÄ™ z nimi staÅ‚o.}
+{298}{Cas0298}{RozdajÄ… teraz Cudowne Krainy w zestawach? Rany, a Carroll nic o tym u siebie nie wspomina, prawda? No dobra, zapolujmy.}
+{299}{Cas0299}{Aha. No dobra, tylko sprawdzaÅ‚em.}
+{300}{Cas0300}{ChÄ™tnie podziurawiÄ™ paru porywaczy. Drobny lincz nikomu jeszcze nie zaszkodziÅ‚... A przynajmniej nie mnie.}
+{301}{}{W porzÄ…dku. ChodÅºmy.}
+{302}{Cas0302}{Od tego, co on mÃ³wi, aÅ¼ uszy wiÄ™dnÄ….}
+{303}{Cas0303}{ZwÅ‚aszcza kobiece.}
+{304}{}{Rany, Cassidy, nie wiedziaÅ‚am, Å¼e zwracasz na to uwagÄ™. AÅ¼ mi cieplej na sercu.}
+{305}{}{No i? Co masz na myÅ›li?}
+{306}{}{Wiesz, sam teÅ¼ sporo przeklinasz, Cassidy.}
 {307}{}{A pewnie. Ruszajmy.}
-{308}{Cas0308}{Owszem, ale ja to robiê z klas¹. On po prostu rzuca miêsem.}
-{309}{Cas0309}{Nie podoba mi siê te¿ sposób, w jaki na ciebie patrzy.}
-{310}{}{Rany, Cassidy, nie wiedzia³am, ¿e zwracasz na to uwagê. A¿ mi cieplej na sercu.}
-{311}{}{No i? Co masz na myœli?}
+{308}{Cas0308}{Owszem, ale ja to robiÄ™ z klasÄ…. On po prostu rzuca miÄ™sem.}
+{309}{Cas0309}{Nie podoba mi siÄ™ teÅ¼ sposÃ³b, w jaki na ciebie patrzy.}
+{310}{}{Rany, Cassidy, nie wiedziaÅ‚am, Å¼e zwracasz na to uwagÄ™. AÅ¼ mi cieplej na sercu.}
+{311}{}{No i? Co masz na myÅ›li?}
 {312}{}{A pewnie. Ruszajmy.}
-{313}{Cas0313}{Zaraz, nie tak to mia³o zabrzmieæ.}
-{314}{Cas0314}{Mówiê tylko, ¿e ten ma³y, zarozumia³y dupek któregoœ dnia dostanie za swoje, kiedy bêdziemy tylko ja, on i dziura na pustyni.}
-{315}{}{Có¿ ¿ycie potrafi byæ surowym nauczycielem. Mam inne pytanie...}
-{316}{}{Có¿, i tak ugryzie. Nie przejmuj siê.}
+{313}{Cas0313}{Zaraz, nie tak to miaÅ‚o zabrzmieÄ‡.}
+{314}{Cas0314}{MÃ³wiÄ™ tylko, Å¼e ten maÅ‚y, zarozumiaÅ‚y dupek ktÃ³regoÅ› dnia dostanie za swoje, kiedy bÄ™dziemy tylko ja, on i dziura na pustyni.}
+{315}{}{CÃ³Å¼ Å¼ycie potrafi byÄ‡ surowym nauczycielem. Mam inne pytanie...}
+{316}{}{CÃ³Å¼, i tak ugryzie. Nie przejmuj siÄ™.}
 {317}{}{Spokojnie, Cassidy. Zostaw Myrona w spokoju.}
-{318}{}{Nie cierpiê tego miejsca.}
-{319}{}{Mia³em nadziejê, ¿e na zawsze opuœci³em to miejsce.}
-{320}{}{Miasto dupków...}
-{321}{}{Tu jest gorzej ni¿ w Kryptopolis.}
-{322}{}{Dobrze, ¿e nabi³em broñ zanim tu przyszliœmy.}
-{323}{}{Jeœli kopne w kalendarz, nie chowajcie mnie tutaj.}
-{324}{}{Uwa¿ajmy na siebie. Tubylcy nie s¹ zbyt mili.}
-{325}{}{Ha! Nie s¹dzi³em, ¿e zobaczê San Francisco.}
-{326}{}{Nie s¹dzi³em, ¿e tak d³ugo zechcesz trzymaæ przy sobie kogoœ w moim wieku. Za³atwmy to, co planujemy i wracajmy do domu.}
-{327}{}{Redding to miasto górnicze. Wydobywaj¹ g³ównie z³oto. Do Kryptopolis przybywa st¹d spora liczba karawan.}
-{328}{}{Broken Hills to miasto górnicze... Wydobywaj¹ g³ównie rudê uranu. To mo¿e byæ nieprzyjemna okolica, wiêc uwa¿ajmy na siebie.}
-{329}{}{Jestem nieco przytruty. Mamy jakieœ antidotum?}
-{330}{}{Œwiecê niczym neon. Mamy jakieœ proszki antyradiacyjne?}
-{331}{}{Mocno oberwa³em. Mamy stimpaki?}
-{332}{}{¯adnych prochów, Myron. Mam ciê na oku.}
-{333}{}{Podskocz tylko, Myron, a spadniesz w kawa³kach.}
-{334}{}{Cholera, Lenny, potrzebna ci k¹piel. Albo dezynfekcja.}
-{335}{}{Lepiej trzymaj siê z daleka, ghulu. Rany, ale œmierdzisz.}
-{336}{}{Bardziej wrednego psa w ¿yciu nie widzia³em.}
+{318}{}{Nie cierpiÄ™ tego miejsca.}
+{319}{}{MiaÅ‚em nadziejÄ™, Å¼e na zawsze opuÅ›ciÅ‚em to miejsce.}
+{320}{}{Miasto dupkÃ³w...}
+{321}{}{Tu jest gorzej niÅ¼ w Kryptopolis.}
+{322}{}{Dobrze, Å¼e nabiÅ‚em broÅ„ zanim tu przyszliÅ›my.}
+{323}{}{JeÅ›li kopne w kalendarz, nie chowajcie mnie tutaj.}
+{324}{}{UwaÅ¼ajmy na siebie. Tubylcy nie sÄ… zbyt mili.}
+{325}{}{Ha! Nie sÄ…dziÅ‚em, Å¼e zobaczÄ™ San Francisco.}
+{326}{}{Nie sÄ…dziÅ‚em, Å¼e tak dÅ‚ugo zechcesz trzymaÄ‡ przy sobie kogoÅ› w moim wieku. ZaÅ‚atwmy to, co planujemy i wracajmy do domu.}
+{327}{}{Redding to miasto gÃ³rnicze. WydobywajÄ… gÅ‚Ã³wnie zÅ‚oto. Do Kryptopolis przybywa stÄ…d spora liczba karawan.}
+{328}{}{Broken Hills to miasto gÃ³rnicze... WydobywajÄ… gÅ‚Ã³wnie rudÄ™ uranu. To moÅ¼e byÄ‡ nieprzyjemna okolica, wiÄ™c uwaÅ¼ajmy na siebie.}
+{329}{}{Jestem nieco przytruty. Mamy jakieÅ› antidotum?}
+{330}{}{ÅšwiecÄ™ niczym neon. Mamy jakieÅ› proszki antyradiacyjne?}
+{331}{}{Mocno oberwaÅ‚em. Mamy stimpaki?}
+{332}{}{Å»adnych prochÃ³w, Myron. Mam ciÄ™ na oku.}
+{333}{}{Podskocz tylko, Myron, a spadniesz w kawaÅ‚kach.}
+{334}{}{Cholera, Lenny, potrzebna ci kÄ…piel. Albo dezynfekcja.}
+{335}{}{Lepiej trzymaj siÄ™ z daleka, ghulu. Rany, ale Å›mierdzisz.}
+{336}{}{Bardziej wrednego psa w Å¼yciu nie widziaÅ‚em.}
 {337}{}{Dobra psina. Cassidy jest twoim przyjacielem, prawda?}
 {338}{}{Ciekawe, co ten cyberpies je. Pewnie ludzi.}
-{339}{}{Jeœli ten cyberpies skoczy mi na nogê, rozwalê go.}
-{340}{}{Aaaach. Rany... Dobrze, ¿e zrobili tego miliony, nim spad³y bomby.}
-{341}{}{Stokrotne dziêki.}
-{342}{}{Mam nadziejê, ¿e te stimpaki nie zaszkodz¹ mi na serce...}
+{339}{}{JeÅ›li ten cyberpies skoczy mi na nogÄ™, rozwalÄ™ go.}
+{340}{}{Aaaach. Rany... Dobrze, Å¼e zrobili tego miliony, nim spadÅ‚y bomby.}
+{341}{}{Stokrotne dziÄ™ki.}
+{342}{}{Mam nadziejÄ™, Å¼e te stimpaki nie zaszkodzÄ… mi na serce...}
 {343}{}{Co do...?! Nie! Moje serce! Ja...*hrrrkkk*}
-{344}{}{Przepraszam, podziwia³em widoki.}
-{345}{}{Niech to... Wobec tego, stanê gdzieœ tam.}
-{346}{}{Przepraszam, przyjacielu. Nie chcia³em stan¹æ na twojej drodze.}
-{347}{}{Aaaach. To jest to. Uprzejmie dziêkujê.}
-{348}{}{*Hik* He he. Na ciœnienie nie ma to jak stara, dobra woda ognista.}
-{349}{}{Dziêki. Do diab³a! Ty te¿ sobie ³yknij.}
+{344}{}{Przepraszam, podziwiaÅ‚em widoki.}
+{345}{}{Niech to... Wobec tego, stanÄ™ gdzieÅ› tam.}
+{346}{}{Przepraszam, przyjacielu. Nie chciaÅ‚em stanÄ…Ä‡ na twojej drodze.}
+{347}{}{Aaaach. To jest to. Uprzejmie dziÄ™kujÄ™.}
+{348}{}{*Hik* He he. Na ciÅ›nienie nie ma to jak stara, dobra woda ognista.}
+{349}{}{DziÄ™ki. Do diabÅ‚a! Ty teÅ¼ sobie Å‚yknij.}
 {350}{}{Oto Krypta. Wielgachna, nie?}
-{351}{}{Chcesz, bym znów siê przy³¹czy³?}
-{352}{}{Pójdê tam, gdzie ty.}
+{351}{}{Chcesz, bym znÃ³w siÄ™ przyÅ‚Ä…czyÅ‚?}
+{352}{}{PÃ³jdÄ™ tam, gdzie ty.}
 {353}{}{Na pewno nie potrzebujesz mojej pomocy?}
-{354}{}{Œwierzbi mnie, ¿eby ju¿ iœæ.}
-{355}{}{Chêtnie poci¹gnê dymka.}
-{356}{}{Tata da³ mi imiê po jakiejœ postaci z przedwojennego komiksu. Ponoæ to te¿ by³ kawa³ sukinsyna.}
-{357}{}{Mi³o jest byæ znowu w drodze. Od mieszkania w Kryptopolis dostawa³em odcisków.}
-{358}{}{Mam nadziejê, ¿e moje serce nie bêdzie siê wyg³upiaæ podczas podró¿y...}
-{359}{}{Chêtnie bym siê napi³.}
-{360}{}{Lepiej sprawdzê swój sprzêt.}
+{354}{}{Åšwierzbi mnie, Å¼eby juÅ¼ iÅ›Ä‡.}
+{355}{}{ChÄ™tnie pociÄ…gnÄ™ dymka.}
+{356}{}{Tata daÅ‚ mi imiÄ™ po jakiejÅ› postaci z przedwojennego komiksu. PonoÄ‡ to teÅ¼ byÅ‚ kawaÅ‚ sukinsyna.}
+{357}{}{MiÅ‚o jest byÄ‡ znowu w drodze. Od mieszkania w Kryptopolis dostawaÅ‚em odciskÃ³w.}
+{358}{}{Mam nadziejÄ™, Å¼e moje serce nie bÄ™dzie siÄ™ wygÅ‚upiaÄ‡ podczas podrÃ³Å¼y...}
+{359}{}{ChÄ™tnie bym siÄ™ napiÅ‚.}
+{360}{}{Lepiej sprawdzÄ™ swÃ³j sprzÄ™t.}
 {361}{}{Cholerny artretyzm...}
-{362}{}{Gdybym mia³ dwadzieœcia lat mniej, ruszy³bym na wschód, by zwiedziæ Œrodkowy Zachód. Teraz ju¿ chyba na to za póŸno.}
-{363}{}{Na Œrodkowym Zachodzie ponoæ by³y tornada szerokie na mile. Teraz to wielka, radioaktywna pustynia.}
-{364}{}{Ciekawe, czy Teksas przetrwa³ wojnê...}
-{365}{}{Dziêki. Ja... Hej... Wzrok mam zamglony!}
-{366}{}{Ponoæ od tego mo¿na dostaæ halucyn... Hej! Sk¹d, u licha, wziê³y siê tutaj te wê¿e?!}
-{367}{}{Zawsze kiedy to biorê, mam napady wspomnieñ.}
+{362}{}{Gdybym miaÅ‚ dwadzieÅ›cia lat mniej, ruszyÅ‚bym na wschÃ³d, by zwiedziÄ‡ Åšrodkowy ZachÃ³d. Teraz juÅ¼ chyba na to za pÃ³Åºno.}
+{363}{}{Na Åšrodkowym Zachodzie ponoÄ‡ byÅ‚y tornada szerokie na mile. Teraz to wielka, radioaktywna pustynia.}
+{364}{}{Ciekawe, czy Teksas przetrwaÅ‚ wojnÄ™...}
+{365}{}{DziÄ™ki. Ja... Hej... Wzrok mam zamglony!}
+{366}{}{PonoÄ‡ od tego moÅ¼na dostaÄ‡ halucyn... Hej! SkÄ…d, u licha, wziÄ™Å‚y siÄ™ tutaj te wÄ™Å¼e?!}
+{367}{}{Zawsze kiedy to biorÄ™, mam napady wspomnieÅ„.}
 {368}{}{Nie ma to jak plemienne leczenie...}
-{369}{}{Bêdê potrzebowa³ kul i wózka inwalidzkiego.}
+{369}{}{BÄ™dÄ™ potrzebowaÅ‚ kul i wÃ³zka inwalidzkiego.}
 {370}{}{Cassidy umiera na atak serca.}
-{371}{}{Uda³o ci siê przekonaæ Cassidy'ego ¿eby przy³¹czy³ siê do twojej dru¿yny.}
-{372}{}{Pozwól mi najpierw po³kn¹æ tabletkê na serce...}
-{1000}{Cas1000}{No dobra. Zaczekam, a¿ wrócisz.}
-{1100}{Cas1100}{Jasne. Ale nie mogê obiecaæ, ¿e jej nie wyci¹gnê, jeœli wpadniemy w k³opoty.}
-{1200}{Cas1200}{Dobra, bêdê trzymaæ siê blisko. Pewnie spodziewasz siê k³opotów.}
-{1300}{Cas1300}{Dobra, bêdê siê trzyma³ dalej. Dziêki temu bêdê mia³ lepszy wgl¹d na sytuacjê.}
-{1400}{Cas1400}{Dobra, bêdê pilnowa³ ty³ów. Jeœli bêdê potrzebny, zawo³aj, a przybiegnê.}
-{2000}{Cas2000}{Bez urazy i tak dalej, ale nie wygl¹dasz na kogoœ, kto móg³by przewodziæ wyprawie. Pustkowie ciê zabije i zje na obiad.}
-{2100}{Cas2100}{Nie, nie zadaje siê z ³owcami niewolników. Maj¹ paskudny nawyk sprzedawania ciê, gdy zabraknie im kasy. Bez urazy.}
-{2200}{Cas2200}{Nie. Wygl¹dasz na kogoœ, kto jedn¹ nog¹ stoi w grobie, a drug¹ w piekle. Nie zamierzam jeszcze bardziej szargaæ swojej reputacji.}
-{2300}{Cas2300}{Nie... Wygl¹da na to, ¿e i tak jest wokó³ ciebie t³oczno.}
-{2400}{Cas2400}{No to w porz¹dku.}
-{2999}{}{W porz¹dku. Uwa¿aj na siebie.}
+{371}{}{UdaÅ‚o ci siÄ™ przekonaÄ‡ Cassidy'ego Å¼eby przyÅ‚Ä…czyÅ‚ siÄ™ do twojej druÅ¼yny.}
+{372}{}{PozwÃ³l mi najpierw poÅ‚knÄ…Ä‡ tabletkÄ™ na serce...}
+{1000}{Cas1000}{No dobra. Zaczekam, aÅ¼ wrÃ³cisz.}
+{1100}{Cas1100}{Jasne. Ale nie mogÄ™ obiecaÄ‡, Å¼e jej nie wyciÄ…gnÄ™, jeÅ›li wpadniemy w kÅ‚opoty.}
+{1200}{Cas1200}{Dobra, bÄ™dÄ™ trzymaÄ‡ siÄ™ blisko. Pewnie spodziewasz siÄ™ kÅ‚opotÃ³w.}
+{1300}{Cas1300}{Dobra, bÄ™dÄ™ siÄ™ trzymaÅ‚ dalej. DziÄ™ki temu bÄ™dÄ™ miaÅ‚ lepszy wglÄ…d na sytuacjÄ™.}
+{1400}{Cas1400}{Dobra, bÄ™dÄ™ pilnowaÅ‚ tyÅ‚Ã³w. JeÅ›li bÄ™dÄ™ potrzebny, zawoÅ‚aj, a przybiegnÄ™.}
+{2000}{Cas2000}{Bez urazy i tak dalej, ale nie wyglÄ…dasz na kogoÅ›, kto mÃ³gÅ‚by przewodziÄ‡ wyprawie. Pustkowie ciÄ™ zabije i zje na obiad.}
+{2100}{Cas2100}{Nie, nie zadaje siÄ™ z Å‚owcami niewolnikÃ³w. MajÄ… paskudny nawyk sprzedawania ciÄ™, gdy zabraknie im kasy. Bez urazy.}
+{2200}{Cas2200}{Nie. WyglÄ…dasz na kogoÅ›, kto jednÄ… nogÄ… stoi w grobie, a drugÄ… w piekle. Nie zamierzam jeszcze bardziej szargaÄ‡ swojej reputacji.}
+{2300}{Cas2300}{Nie... WyglÄ…da na to, Å¼e i tak jest wokÃ³Å‚ ciebie tÅ‚oczno.}
+{2400}{Cas2400}{No to w porzÄ…dku.}
+{2999}{}{W porzÄ…dku. UwaÅ¼aj na siebie.}
 {3000}{}{Idziemy.}
-{3100}{}{Wiêc zapomnij o tym, dupku.}
-{3200}{}{No to niewa¿ne. Twoja strata.}
-{4100}{Cas4100}{Dobra, wszystko pozszywane, mogê iœæ.}
+{3100}{}{WiÄ™c zapomnij o tym, dupku.}
+{3200}{}{No to niewaÅ¼ne. Twoja strata.}
+{4100}{Cas4100}{Dobra, wszystko pozszywane, mogÄ™ iÅ›Ä‡.}
 {4200}{Cas4200}{Dobra, wszystko pozalepiane.}
-{4300}{Cas4300}{To pomog³o, ale przyda³oby siê jeszcze parê stimpaków.}
-{4400}{Cas4400}{Zu¿y³em to, co mia³em, ale nadal ze mn¹ kiepsko. Mogê chodziæ, ale jeœli masz jeszcze parê stimpaków, chêtnie z nich skorzystam.}
-{9999}{}{Mam do ciebie kilka pytañ...}
-{10001}{}{WeŸ trochê stymulantów i podlecz siê.}
-{10002}{}{Cassidy, zaczekaj tutaj na mój powrót.}
-{10003}{}{Schowaj broñ.}
-{10004}{}{B¹dŸ blisko mnie.}
-{10005}{}{Nie odchodŸ za daleko.}
-{10006}{}{Musimy siê trochê rozsun¹æ.}
+{4300}{Cas4300}{To pomogÅ‚o, ale przydaÅ‚oby siÄ™ jeszcze parÄ™ stimpakÃ³w.}
+{4400}{Cas4400}{ZuÅ¼yÅ‚em to, co miaÅ‚em, ale nadal ze mnÄ… kiepsko. MogÄ™ chodziÄ‡, ale jeÅ›li masz jeszcze parÄ™ stimpakÃ³w, chÄ™tnie z nich skorzystam.}
+{9999}{}{Mam do ciebie kilka pytaÅ„...}
+{10001}{}{WeÅº trochÄ™ stymulantÃ³w i podlecz siÄ™.}
+{10002}{}{Cassidy, zaczekaj tutaj na mÃ³j powrÃ³t.}
+{10003}{}{Schowaj broÅ„.}
+{10004}{}{BÄ…dÅº blisko mnie.}
+{10005}{}{Nie odchodÅº za daleko.}
+{10006}{}{Musimy siÄ™ trochÄ™ rozsunÄ…Ä‡.}
 {10007}{}{No to idziemy.}
-{10100}{}{ChodŸ, Cassidy, czas na nas.}
-{20000}{Cas20000}{W porz¹dku, s³ucham.}
-{20001}{Cas20001}{Mój sprzêt? Co z nim?}
-{20002}{Cas20002}{Nie ma sprawy. I tak jest za gor¹co na takie wdzianko. Spoci³em siê w nim jak dziwka w Nowym Reno.}
-{20003}{}{Zmieñmy szyk.}
-{20004}{}{Muszê z tob¹ porozmawiaæ o walce.}
-{20005}{}{Niewa¿ne. Zostañmy przy tym szyku.}
-{20006}{}{Niewa¿ne. Niczego nie potrzebujê wiedzieæ o twoim sprzêcie.}
-{20007}{}{Zdejmij swój pancerz.}
-{30000}{}{Ach, po tym faktycznie poczu³em siê lepiej. Mam wra¿enie, ¿e teraz bêdê znacznie... skuteczniejszy.}
-{30001}{}{£a³, czujê siê inaczej. Te pigu³ki na serce musz¹ naprawdê dzia³aæ.}
-{30100}{}{Tak, dlaczego nie... To pomo¿e mi poczuæ siê jak martwy.}
+{10100}{}{ChodÅº, Cassidy, czas na nas.}
+{20000}{Cas20000}{W porzÄ…dku, sÅ‚ucham.}
+{20001}{Cas20001}{MÃ³j sprzÄ™t? Co z nim?}
+{20002}{Cas20002}{Nie ma sprawy. I tak jest za gorÄ…co na takie wdzianko. SpociÅ‚em siÄ™ w nim jak dziwka w Nowym Reno.}
+{20003}{}{ZmieÅ„my szyk.}
+{20004}{}{MuszÄ™ z tobÄ… porozmawiaÄ‡ o walce.}
+{20005}{}{NiewaÅ¼ne. ZostaÅ„my przy tym szyku.}
+{20006}{}{NiewaÅ¼ne. Niczego nie potrzebujÄ™ wiedzieÄ‡ o twoim sprzÄ™cie.}
+{20007}{}{Zdejmij swÃ³j pancerz.}
+{30000}{}{Ach, po tym faktycznie poczuÅ‚em siÄ™ lepiej. Mam wraÅ¼enie, Å¼e teraz bÄ™dÄ™ znacznie... skuteczniejszy.}
+{30001}{}{ÅaÅ‚, czujÄ™ siÄ™ inaczej. Te piguÅ‚ki na serce muszÄ… naprawdÄ™ dziaÅ‚aÄ‡.}
+{30100}{}{Tak, dlaczego nie... To pomoÅ¼e mi poczuÄ‡ siÄ™ jak martwy.}

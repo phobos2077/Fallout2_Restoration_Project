@@ -1,53 +1,53 @@
-{100}{}{Widzisz w³¹czony terminal.}
-{101}{}{Przygl¹daj¹c siê uwa¿nie terminalowi dostrzegasz napis: "I*tel Inside".}
-{102}{}{Nie mo¿esz przeczytaæ tego, co jest wyœwietlone na monitorze.}
-{103}{}{G³ówne Zasilanie = Od³¹czone                                        
- Zasilanie Zapasowe = Pod³¹czone                                 
+{100}{}{Widzisz wÅ‚Ä…czony terminal.}
+{101}{}{PrzyglÄ…dajÄ…c siÄ™ uwaÅ¼nie terminalowi dostrzegasz napis: "I*tel Inside".}
+{102}{}{Nie moÅ¼esz przeczytaÄ‡ tego, co jest wyÅ›wietlone na monitorze.}
+{103}{}{GÅ‚Ã³wne Zasilanie = OdÅ‚Ä…czone                                        
+ Zasilanie Zapasowe = PodÅ‚Ä…czone                                 
  Ponowne inicjowanie Programu Ochrony                          
- Uwaga - Niedobór Mocy - Pola Si³owe na 50%                   
- £adowanie zakoñczone...                                             
- System Bezpieczeñstwa Skynet - Punkt Kontrolny 1         
- Proszê Wprowadziæ Has³o:_}
-{104}{}{System Bezpieczeñstwa Skynet - Punkt Kontrolny 1           
- Proszê Wprowadziæ Has³o:_}
+ Uwaga - NiedobÃ³r Mocy - Pola SiÅ‚owe na 50%                   
+ Åadowanie zakoÅ„czone...                                             
+ System BezpieczeÅ„stwa Skynet - Punkt Kontrolny 1         
+ ProszÄ™ WprowadziÄ‡ HasÅ‚o:_}
+{104}{}{System BezpieczeÅ„stwa Skynet - Punkt Kontrolny 1           
+ ProszÄ™ WprowadziÄ‡ HasÅ‚o:_}
 {105}{}{Czajkowski}
-{106}{}{Otwórz Mówiê Ja}
+{106}{}{OtwÃ³rz MÃ³wiÄ™ Ja}
 {107}{}{Sierra}
 {108}{}{Armagedon}
-{109}{}{W³am siê do systemu bezpieczeñstwa.}
-{110}{}{Nie mam pojêcia. WyjdŸ.}
-{113}{}{Pola Si³owe Nieaktywne - Poziom 1}
-{115}{}{WyjdŸ.}
-{117}{}{Dostêp z tego terminala zosta³ zablokowany.}
-{119}{}{WyjdŸ.}
-{121}{}{B³¹d 29                                                                  
- Po³¹czenie z serwerem niemo¿liwe                                 
- Proszê restartowaæ system}
-{123}{}{WyjdŸ.}
-{124}{}{Przyznano dostêp                                                     
- Pola Si³owe na Poziomie 1: Wy³¹czone}
-{125}{}{WyjdŸ.}
-{126}{}{Z³e Has³o                                                               
- Dostêp Zabroniony                                                  
- Proszê Wprowadziæ Has³o:_}
+{109}{}{WÅ‚am siÄ™ do systemu bezpieczeÅ„stwa.}
+{110}{}{Nie mam pojÄ™cia. WyjdÅº.}
+{113}{}{Pola SiÅ‚owe Nieaktywne - Poziom 1}
+{115}{}{WyjdÅº.}
+{117}{}{DostÄ™p z tego terminala zostaÅ‚ zablokowany.}
+{119}{}{WyjdÅº.}
+{121}{}{BÅ‚Ä…d 29                                                                  
+ PoÅ‚Ä…czenie z serwerem niemoÅ¼liwe                                 
+ ProszÄ™ restartowaÄ‡ system}
+{123}{}{WyjdÅº.}
+{124}{}{Przyznano dostÄ™p                                                     
+ Pola SiÅ‚owe na Poziomie 1: WyÅ‚Ä…czone}
+{125}{}{WyjdÅº.}
+{126}{}{ZÅ‚e HasÅ‚o                                                               
+ DostÄ™p Zabroniony                                                  
+ ProszÄ™ WprowadziÄ‡ HasÅ‚o:_}
 {127}{}{Czajkowski}
-{128}{}{Otwórz Mówiê Ja}
+{128}{}{OtwÃ³rz MÃ³wiÄ™ Ja}
 {129}{}{Sierra}
 {130}{}{Armagedon}
-{131}{}{W³am siê do systemu ochrony.}
-{132}{}{Nie mam pojêcia. WyjdŸ.}
-{133}{}{[Naciœniêcie <Ctrl><Alt><C> powoduje wykrzaczenie programu. Masz nadziejê, ¿e reszta zabezpieczeñ bêdzie równie ³atwa do pokonania.]}
-{134}{}{Wyjœcie.}
-{135}{}{Naruszenie Bezpieczeñstwa na Poziomie 1                         
- Uruchamianie Protokó³u Bezpieczeñstwa                         
- Dostêp do tego terminala zostaje odciêty                      
+{131}{}{WÅ‚am siÄ™ do systemu ochrony.}
+{132}{}{Nie mam pojÄ™cia. WyjdÅº.}
+{133}{}{[NaciÅ›niÄ™cie <Ctrl><Alt><C> powoduje wykrzaczenie programu. Masz nadziejÄ™, Å¼e reszta zabezpieczeÅ„ bÄ™dzie rÃ³wnie Å‚atwa do pokonania.]}
+{134}{}{WyjÅ›cie.}
+{135}{}{Naruszenie BezpieczeÅ„stwa na Poziomie 1                         
+ Uruchamianie ProtokÃ³Å‚u BezpieczeÅ„stwa                         
+ DostÄ™p do tego terminala zostaje odciÄ™ty                      
  -Koniec Transmisji-}
-{136}{}{WyjdŸ.}
+{136}{}{WyjdÅº.}
 {137}{}{To nic nie da. Ten program jest dla ciebie po prostu zbyt skomplikowany, nie zrozumiesz go.}
-{138}{}{Twoja nieudolnoœæ spowodowa³a uruchomienie alarmu.}
-{139}{}{WyjdŸ.}
-{200}{}{ nie mo¿e przeczytaæ tego, co jest wyœwietlone na monitorze.}
-{300}{}{Komputer wydaje siê mieæ jakiœ rodzaj mechanizmu obronnego.}
-{301}{}{Ulegasz pora¿eniu za }
-{302}{}{ ulega pora¿eniu za }
-{303}{}{ punktów obra¿eñ.}
+{138}{}{Twoja nieudolnoÅ›Ä‡ spowodowaÅ‚a uruchomienie alarmu.}
+{139}{}{WyjdÅº.}
+{200}{}{ nie moÅ¼e przeczytaÄ‡ tego, co jest wyÅ›wietlone na monitorze.}
+{300}{}{Komputer wydaje siÄ™ mieÄ‡ jakiÅ› rodzaj mechanizmu obronnego.}
+{301}{}{Ulegasz poraÅ¼eniu za }
+{302}{}{ ulega poraÅ¼eniu za }
+{303}{}{ punktÃ³w obraÅ¼eÅ„.}

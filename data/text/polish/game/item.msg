@@ -1,20 +1,20 @@
 {1}{}{+%d %s.}
 {2}{}{-%d %s.}
-{3}{}{Czujesz siê znacznie lepiej.}
-{4}{}{Przedawkowanie skutkuje œmiertelnym atakiem serca.}
-{5}{}{%s to ju¿ tylko surowiec wtórny.}
+{3}{}{Czujesz siÄ™ znacznie lepiej.}
+{4}{}{Przedawkowanie skutkuje Å›miertelnym atakiem serca.}
+{5}{}{%s to juÅ¼ tylko surowiec wtÃ³rny.}
 {6}{}{%s - status aktywny.}
 {7}{}{%s - status nieaktywny.}
-{8}{}{Przesuwasz licznik Geigera nad swoim cia³em. Wynik pomiaru w remach to %d.}
-{9}{}{Tego przedmiotu mo¿na u¿ywaæ wy³¹cznie z paska interfejsu.}
-{10}{}{Nic siê nie dzieje.}
-{50}{}{Zdaje siê, ¿e niewiele siê zmieni³o.}
-{500}{}{Potrzebujesz wiêcej œwiat³a aby pod³adowaæ ten przedmiot.}
-{600}{}{%s cierpi z powodu skutków ubocznych dzia³ania prochów.}
+{8}{}{Przesuwasz licznik Geigera nad swoim ciaÅ‚em. Wynik pomiaru w remach to %d.}
+{9}{}{Tego przedmiotu moÅ¼na uÅ¼ywaÄ‡ wyÅ‚Ä…cznie z paska interfejsu.}
+{10}{}{Nic siÄ™ nie dzieje.}
+{50}{}{Zdaje siÄ™, Å¼e niewiele siÄ™ zmieniÅ‚o.}
+{500}{}{Potrzebujesz wiÄ™cej Å›wiatÅ‚a aby podÅ‚adowaÄ‡ ten przedmiot.}
+{600}{}{%s cierpi z powodu skutkÃ³w ubocznych dziaÅ‚ania prochÃ³w.}
 {800}{Weapon Damage}{lampka}
-{801}{}{Œrednie}
-{802}{}{Ciê¿kie}
+{801}{}{Åšrednie}
+{802}{}{CiÄ™Å¼kie}
 {803}{}{Krytyczne}
-{820}{}{Krótki}
-{821}{}{Œrednie}
+{820}{}{KrÃ³tki}
+{821}{}{Åšrednie}
 {822}{}{Daleki}

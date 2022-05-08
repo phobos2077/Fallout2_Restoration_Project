@@ -1,1 +1,1 @@
-{100}{}{Przepraszam, szef mówi, ¿e nie mo¿emy pozwoliæ ci tu wiêcej graæ.}
+{100}{}{Przepraszam, szef mÃ³wi, Å¼e nie moÅ¼emy pozwoliÄ‡ ci tu wiÄ™cej graÄ‡.}

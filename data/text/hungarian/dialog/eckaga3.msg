@@ -1,15 +1,15 @@
-{100}{}{Egy fémpáncélt visel? férfit látsz.}
+{100}{}{Egy fÃ©mpÃ¡ncÃ©lt visel? fÃ©rfit lÃ¡tsz.}
 {101}{}{Kaga.}
-{102}{}{Egen, ez Kaga, a nem-is-annyira-nagy. Fémpáncélja van, és bizony éppen meg akar ölni téged.}
+{102}{}{Egen, ez Kaga, a nem-is-annyira-nagy. FÃ©mpÃ¡ncÃ©lja van, Ã©s bizony Ã©ppen meg akar Ã¶lni tÃ©ged.}
 {103}{}{Megint te vagy?}
-{104}{}{Kezdek belefáradni, hogy állandóan találkozunk.}
-{105}{}{Kiválasztott... hogy oda ne rohanjak!}
-{106}{}{Vessünk véget ennek!}
-{107}{}{Meg fogod bánni, hogy hallottad Kaga nevét!}
-{108}{}{Utolsó találkozásunk óta gyarapodtak a képességeim.}
-{109}{}{Ez most már kezd rossz szokássá válni.}
-{110}{}{Kagának még egy kis gyakorlásra van szüksége.}
-{111}{}{Kaga visszatér még...}
+{104}{}{Kezdek belefÃ¡radni, hogy Ã¡llandÃ³an talÃ¡lkozunk.}
+{105}{}{KivÃ¡lasztott... hogy oda ne rohanjak!}
+{106}{}{VessÃ¼nk vÃ©get ennek!}
+{107}{}{Meg fogod bÃ¡nni, hogy hallottad Kaga nevÃ©t!}
+{108}{}{UtolsÃ³ talÃ¡lkozÃ¡sunk Ã³ta gyarapodtak a kÃ©pessÃ©geim.}
+{109}{}{Ez most mÃ¡r kezd rossz szokÃ¡ssÃ¡ vÃ¡lni.}
+{110}{}{KagÃ¡nak mÃ©g egy kis gyakorlÃ¡sra van szÃ¼ksÃ©ge.}
+{111}{}{Kaga visszatÃ©r mÃ©g...}
 {120}{}{So we meet again, Kaga.}
 {150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One? Ha! You think being the grandchild of the Vault Dweller makes you special?! You think you are better than I, Kaga the Great?!}
 {151}{}{Well, I AM the Chosen One, aren't I?}

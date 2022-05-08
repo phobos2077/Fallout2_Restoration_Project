@@ -1,34 +1,34 @@
-{100}{}{Na, még egy kicsit Rose-nak.}
-{101}{}{Francba! Ehhez nem lehet hozzászokni.}
-{102}{}{Imádom a munkámat.}
-{103}{}{Balthas szép summát fog fizetni ezért a b?rért.}
-{104}{}{Úgy hallottam, jó kis desszertet tud csinálni kinyomott szemekb?l.}
-{105}{}{Akár füstölhetünk is egyet.}
-{120}{}{Jól van, Bessy.}
-{200}{}{Mozgás, jóember. Nekem ma még sok brahmint kell levágnom.}
-{201}{}{Álljon el az útból.}
-{202}{}{Arrébb állna? Dolgoznom kell.}
-{203}{}{Hé, hölgyem, nem akar arrébbmozdulni? Még egy csomó brahmint le kell vágnom.}
-{250}{}{Ez az ember a mészáros.}
-{251}{}{? itt a "mészárszék m?vezet?je"}
-{252}{}{Ez az ember a helyi mészáros. Ruháját leölt brahminok vére itatja át.}
-{253}{}{Kellemetlen szagot érzel.}
-{275}{}{Fenébe, látom már, több brahmin kell ide.}
-{276}{}{Na, akár meg is volnánk. Kifogytunk a brahminokból. Hahó!!! Sörözés jön!!!}
-{277}{}{Az áldóját! Elfogytak a brahminok. Asszem, most megyek Miriához.}
-{280}{}{Ahhh, most jött el az id?, hogy egy kicsit ledobjam magam valahova.}
-{281}{}{Na, akkor most hazamegyünk és benyomunk egy jó adag szárított husit.}
-{282}{}{Hosszú nap volt ez, basszus. Remélem, valaki majd elvágja a torkom alvás közben, mert én nem akarom ezt holnap is csinálni.}
-{300}{}{A szárított hús jót tesz a csontoknak.}
-{301}{}{A szárított hús jót tesz a hajnak.}
-{302}{}{A szárított hús jót tesz a tüd?nek.}
-{303}{}{A szárított hús jót tesz a gyomornak.}
-{304}{}{A szárított hús jót tesz az ember farkának.}
-{305}{}{A szárított hús jó és kész.}
-{306}{}{Jézus ereje, ideszart egy brahmin?}
-{307}{}{Szerintem összemocskoltam a kabátomat. HA! HA! HA!}
-{308}{}{Vigyázzon hova lép! A talaj mindenütt tele van gusztustalanságokkal.}
-{309}{}{Bejön magának a szárított hús?}
-{310}{}{Én még reggelire is szárított húst eszek.}
-{311}{}{A tej meg a jégkrém mind elcsapja a hasamat. Bezzeg a szárított hús!}
-{312}{}{Hé! Idefigyuzzon, husipofa! HA! HA! HA!}
+{100}{}{Na, mÃ©g egy kicsit Rose-nak.}
+{101}{}{Francba! Ehhez nem lehet hozzÃ¡szokni.}
+{102}{}{ImÃ¡dom a munkÃ¡mat.}
+{103}{}{Balthas szÃ©p summÃ¡t fog fizetni ezÃ©rt a b?rÃ©rt.}
+{104}{}{Ãšgy hallottam, jÃ³ kis desszertet tud csinÃ¡lni kinyomott szemekb?l.}
+{105}{}{AkÃ¡r fÃ¼stÃ¶lhetÃ¼nk is egyet.}
+{120}{}{JÃ³l van, Bessy.}
+{200}{}{MozgÃ¡s, jÃ³ember. Nekem ma mÃ©g sok brahmint kell levÃ¡gnom.}
+{201}{}{Ãlljon el az ÃºtbÃ³l.}
+{202}{}{ArrÃ©bb Ã¡llna? Dolgoznom kell.}
+{203}{}{HÃ©, hÃ¶lgyem, nem akar arrÃ©bbmozdulni? MÃ©g egy csomÃ³ brahmint le kell vÃ¡gnom.}
+{250}{}{Ez az ember a mÃ©szÃ¡ros.}
+{251}{}{? itt a "mÃ©szÃ¡rszÃ©k m?vezet?je"}
+{252}{}{Ez az ember a helyi mÃ©szÃ¡ros. RuhÃ¡jÃ¡t leÃ¶lt brahminok vÃ©re itatja Ã¡t.}
+{253}{}{Kellemetlen szagot Ã©rzel.}
+{275}{}{FenÃ©be, lÃ¡tom mÃ¡r, tÃ¶bb brahmin kell ide.}
+{276}{}{Na, akÃ¡r meg is volnÃ¡nk. Kifogytunk a brahminokbÃ³l. HahÃ³!!! SÃ¶rÃ¶zÃ©s jÃ¶n!!!}
+{277}{}{Az Ã¡ldÃ³jÃ¡t! Elfogytak a brahminok. Asszem, most megyek MiriÃ¡hoz.}
+{280}{}{Ahhh, most jÃ¶tt el az id?, hogy egy kicsit ledobjam magam valahova.}
+{281}{}{Na, akkor most hazamegyÃ¼nk Ã©s benyomunk egy jÃ³ adag szÃ¡rÃ­tott husit.}
+{282}{}{HosszÃº nap volt ez, basszus. RemÃ©lem, valaki majd elvÃ¡gja a torkom alvÃ¡s kÃ¶zben, mert Ã©n nem akarom ezt holnap is csinÃ¡lni.}
+{300}{}{A szÃ¡rÃ­tott hÃºs jÃ³t tesz a csontoknak.}
+{301}{}{A szÃ¡rÃ­tott hÃºs jÃ³t tesz a hajnak.}
+{302}{}{A szÃ¡rÃ­tott hÃºs jÃ³t tesz a tÃ¼d?nek.}
+{303}{}{A szÃ¡rÃ­tott hÃºs jÃ³t tesz a gyomornak.}
+{304}{}{A szÃ¡rÃ­tott hÃºs jÃ³t tesz az ember farkÃ¡nak.}
+{305}{}{A szÃ¡rÃ­tott hÃºs jÃ³ Ã©s kÃ©sz.}
+{306}{}{JÃ©zus ereje, ideszart egy brahmin?}
+{307}{}{Szerintem Ã¶sszemocskoltam a kabÃ¡tomat. HA! HA! HA!}
+{308}{}{VigyÃ¡zzon hova lÃ©p! A talaj mindenÃ¼tt tele van gusztustalansÃ¡gokkal.}
+{309}{}{BejÃ¶n magÃ¡nak a szÃ¡rÃ­tott hÃºs?}
+{310}{}{Ã‰n mÃ©g reggelire is szÃ¡rÃ­tott hÃºst eszek.}
+{311}{}{A tej meg a jÃ©gkrÃ©m mind elcsapja a hasamat. Bezzeg a szÃ¡rÃ­tott hÃºs!}
+{312}{}{HÃ©! Idefigyuzzon, husipofa! HA! HA! HA!}

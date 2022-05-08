@@ -1,92 +1,92 @@
-{100}{}{Widzisz plemienn¹ kobietê.}
-{101}{}{Widzisz Kurisu, siostrê Sulika.}
-{102}{}{Widzisz m³od¹, plemienn¹ kobietê o pe³niej figurze z kilkoma kolczykami i tatua¿ami.}
+{100}{}{Widzisz plemiennÄ… kobietÄ™.}
+{101}{}{Widzisz Kurisu, siostrÄ™ Sulika.}
+{102}{}{Widzisz mÅ‚odÄ…, plemiennÄ… kobietÄ™ o peÅ‚niej figurze z kilkoma kolczykami i tatuaÅ¼ami.}
 {150}{}{[KONIEC]}
-{200}{}{Sulik! [Orientuje siê i zaczyna szeptaæ.] Duchy wystawiaæ mnie na próba, czy to naprawdê byæ ty, bracie?}
-{201}{}{Ja? Nie, ja jestem Dzieckiem Przeznaczenia. Musisz mieæ na myœli tego tu z koœci¹ w nosie.}
-{202}{}{[Sulik œpieszy do bramy i ³apie wyci¹gniête rêce swojej siostry. Odwracasz siê pozwalaj¹c im na odrobinê prywatnoœci w ich wzruszaj¹cym spotkaniu. Kilka chwil póŸniej, s³ychaæ trzask suchej ga³¹zki na zewn¹trz. Sulik puszcza siostrê i siêga po broñ patrz¹c w stronê drzwi. Na zewn¹trz nic wiêcej nie s³ychaæ.]}
+{200}{}{Sulik! [Orientuje siÄ™ i zaczyna szeptaÄ‡.] Duchy wystawiaÄ‡ mnie na prÃ³ba, czy to naprawdÄ™ byÄ‡ ty, bracie?}
+{201}{}{Ja? Nie, ja jestem Dzieckiem Przeznaczenia. Musisz mieÄ‡ na myÅ›li tego tu z koÅ›ciÄ… w nosie.}
+{202}{}{[Sulik Å›pieszy do bramy i Å‚apie wyciÄ…gniÄ™te rÄ™ce swojej siostry. Odwracasz siÄ™ pozwalajÄ…c im na odrobinÄ™ prywatnoÅ›ci w ich wzruszajÄ…cym spotkaniu. Kilka chwil pÃ³Åºniej, sÅ‚ychaÄ‡ trzask suchej gaÅ‚Ä…zki na zewnÄ…trz. Sulik puszcza siostrÄ™ i siÄ™ga po broÅ„ patrzÄ…c w stronÄ™ drzwi. Na zewnÄ…trz nic wiÄ™cej nie sÅ‚ychaÄ‡.]}
 {203}{}{[KONTYNUUJ]}
-{204}{}{[Siostra Sulika odwraca siê do ciebie.] Duchy Koœci mówiæ, ty prowadzisz Sulik. Moje imiê Kurisu, ale teraz nie byæ czas na w³aœciwe powitana. Proszê, ty musi wydostaæ nas z klatki i zabraæ daleko od z³ych ludzi rz¹dzonych przez duchy po¿¹dania. [Wykrzywia siê z odraz¹ i spluwa w piach.] Brudne psy wiêcej nas nie dotykaæ. [Kiedy Sulik to s³yszy jego oczy otwieraj¹ siê szeroko, a twarz wykrzywia w grymasie gniewu. Siêga po swoj¹ broñ.]}
-{205}{}{Sulik, poczekaj, maj¹ przewagê liczebn¹. Spróbujê otworzyæ te drzwi i bêdziemy mogli siê st¹d wykraœæ cichaczem.}
-{206}{}{Sulik, poczekaj, maj¹ przewagê liczebn¹. Mam klucz do tych drzwi. B¹dŸmy cicho i wykradnijmy siê st¹d.}
-{207}{}{[Kiwasz g³ow¹ do Sulika] Te gnoje za to zap³ac¹. Gotowy stary druhu?}
-{208}{}{[Mija kilka minut i w koñcu s³yszysz klikniecie w zamku. Drzwi siê otwieraj¹.]}
-{209}{}{[Zwracasz siê do Kurisu.] W porz¹dku, trzymaj siê mnie, g³owa nisko. [Do pozosta³ych niewolników.] B¹dŸcie cicho i idŸcie w stronê lasu.}
-{210}{}{[Mija kilka minut, a ty ci¹gle nie mo¿esz otworzyæ drzwi.]}
-{211}{}{Musi byæ inny sposób na otwarcie tych drzwi. Spróbuje jakoœ zdobyæ klucz. Poczekajcie tu, wrócê po was.}
-{212}{}{Dobra Sulik, czas na twój plan. Pora pozbyæ siê tych œmieci.}
-{213}{}{[Wk³adasz klucz do zamka i otwierasz bramê, piszczy kiedy siê uchyla.]}
-{214}{}{Uda³o siê, kumpel? Proszê, œpiesz siê.}
-{215}{}{Jeszcze nie. Ci¹gle nad tym pracujê.}
-{216}{}{Mam klucze. Czas was st¹d zabraæ.}
-{217}{}{Czemu tam byæ takie zamieszanie? Ach, ja wyczuwaæ, wielu odejœæ ¿eby do³¹czyæ do duchy. Kim jest... Sulik? Duchy wystawiaæ mnie na próba, czy to naprawdê byæ ty, bracie?}
-{218}{}{Czemu tam byæ takie zamieszanie? Ach, ja wyczuwaæ, wielu odejœæ ¿eby do³¹czyæ do duchy. I ja czujê, ¿e to ty ich wysy³aæ. Czego potrzebujesz, Ducho-twórco?}
-{219}{}{Przybywam, by was uratowaæ.}
-{221}{}{Chwaliæ duchy! Proszê, musi wydostaæ nas z klatki. Zabraæ daleko od z³e miejsce.}
-{222}{}{Duchy chwaliæ Ty! Teraz muszê iœæ, wróciæ do swoje ludzie. Oni d³ugo za mn¹ têskniæ. Proszê, odwiedŸ moja wioska. Byæ blisko Wielka S³ona Woda, kilka dni na po³udniowy zachód st¹d. Dziêkujê ci, kumpel.}
-{223}{}{[Sulik œpieszy do bramy i ³apie wyci¹gniête rêce swojej siostry. Odwracasz siê pozwalaj¹c im na odrobinê prywatnoœci w ich wzruszaj¹cym spotkaniu. Chwilê póŸniej, jego siostra zwraca siê do ciebie.] Duchy Koœci mówiæ, ty prowadzi Sulik. Moje imiê Kurisu, ale nie byæ czas na w³aœciwe powitania. £owcy niewolników, oni byæ martwi, tak?}
-{224}{}{Tak, ³owcy nie ¿yj¹.}
-{225}{}{Chwaliæ duchy! Proszê, otwórz te drzwi. My bardzo pragn¹æ odejœæ ze z³e miejsce.}
-{226}{}{Nie martw siê. Mam klucz.}
-{227}{}{W porz¹dku, spróbujê otworzyæ te drzwi.}
-{400}{}{IdŸmy dalej.}
-{401}{}{Proszê, ja chcê byæ w domu.}
-{410}{}{[Odwracasz siê do Kurisu.] Czekaj, nie chce st¹d odchodziæ dopóki nie wypuszczê niewolników z pozosta³ych klatek. Poczekaj tutaj, a¿ uwolniê wszystkich z tego obozu. [Do pozosta³ych niewolników.] B¹dŸcie cicho i idŸcie w stronê lasu. Ja zajmê siê stra¿nikami.}
-{500}{}{Jak ty przeznaczaæ mnie do ³ó¿ko, ty lepiej spodziewaæ siê walka, czekaj, ty nie mieæ znak demona na czole. Kim ty byæ?}
-{501}{}{Jestem "Dzieckiem Przeznaczenia", a ty kim jesteœ?}
-{502}{}{Nazywam siê }
-{503}{}{. Kim ty jesteœ?}
-{510}{}{Moje imiê byæ Kurisu. Ja pochodziæ z plemiê na po³udniowy zachód, ko³o Wielka S³ona Woda. £owcy niewolników mnie z³apaæ. Z³apaæ te¿ innych, ale oni wys³ani dalej. Oni mówiæ, jeszcze ze mn¹ nie skoñczyli. Zatrzymali mnie tu dla ich grzeszne przyjemnoœci. Proszê, ty musi wydostaæ nas z klatki i zabraæ daleko od z³e ludzie.}
-{511}{}{Nie martw siê jestem tu po to ¿eby ciê uwolniæ. Mam klucz i pozwolenie ¿eby ciê st¹d zabraæ.}
-{512}{}{W porz¹dku, spróbujê otworzyæ te drzwi.}
-{530}{}{Czy ju¿ byæ bezpiecznie? Ty wys³aæ ³owcy niewolników do duchy?}
-{531}{}{Tak, jest bezpiecznie. Mo¿emy ju¿ iœæ do twojej wioski.}
-{532}{}{Tak, ale pozwól, ¿e uwolniê st¹d wszystkich niewolników, zanim pójdziemy.}
-{533}{}{Nie, jeszcze nie. Wrócê kiedy bêdzie bezpiecznie.}
-{600}{}{Chwaliæ duchy, wreszcie my byæ w domu! Bardzo Ci dziêkujê, kumpel.}
-{601}{}{Nie ma za co. Ale w jaki sposób ciê z³apali?}
-{602}{}{Handlowa³am w pobliska wioska. Przyjœæ ³owcy niewolników. Du¿o rozlewu krwi, du¿o chaosu. Potem, wszystko ciemnoœæ. Obudzi³am siê w zat³oczona klatka œmierdz¹ca gówno. Wkrótce przenieœli mnie do mniejsza klatka, z tymi których oni chcieæ zatrzymaæ. Wiele niewolników przyjœæ i odejœæ. Smutne widzieæ ludzie traktowani jak byd³o.}
-{603}{}{Ta, niewolnictwo to z pewnoœci¹ potworna rzecz. Przykro mi, ¿e musia³aœ przez to przejœæ, Kurisu. Wiêc, co teraz zamierzasz?}
-{604}{}{£owcy mnie skrzywdziæ, ale nie z³amaæ. Duchy ciê prowadziæ ¿eby zapewniæ moja wolnoœæ. Z pewnoœci¹, duchy planowaæ dla mnie coœ wielkiego. Duchy mieæ wielkie plany te¿ dla ciebie. I brata Sulika. Bêdzie go bardzo brakowa³o, ale duchy mówiæ jego miejsce iœæ ramiê-w-ramiê z tob¹. Cholera, nawet Koœæ Dziadunia ciê lubiæ, dlatego wiem, ¿e Sulik w dobrych rêkach. Dbaj o siebie.}
-{605}{}{Dziêkujê Kurisu, do zobaczenia.}
-{606}{}{£owcy mnie skrzywdziæ, ale nie z³amaæ. Duchy ciê prowadziæ ¿eby zapewniæ moja wolnoœæ. Z pewnoœci¹, duchy planowaæ dla mnie coœ wielkiego. Wkrótce, ja myœlê, ja iœæ tropiæ brat. Znaæ Sulik, on na pewno wpakowaæ siê w k³opoty próbuj¹c mi pomóc. Teraz, mo¿e to ja pomóc jemu.}
-{607}{}{Prawdê mówi¹c, chyba znam twojego brata. Twarz ca³a w tatua¿ach i du¿a koœæ w nosie, zgadza siê?}
-{608}{}{Tak to Sulik! I Koœæ Dziadunia, te¿! Proszê, mo¿esz przyprowadziæ Sulika do domu? Tak bardzo mi go brakuje.}
-{609}{}{Nie ma problemu, sprowadzê go tutaj. Do zobaczenia Kurisu.}
-{610}{}{Nie sadzê, ¿eby to by³o mo¿liwe. Widzisz, Sulik nie ¿yje.}
-{611}{}{Sulik... nie ¿yje? Zaprawdê, mroczny to dzieñ. Wiem, ¿e on teraz z Dziaduniem, ale Sulik... bêdzie go bardzo brakowaæ. [Odwraca g³owê ¿eby ukryæ ³zy wype³niaj¹ce jej oczy.] Proszê... ja potrzebuje byæ teraz sama. Dziêkuje Ci... za przyprowadzenie mnie do domu.}
+{204}{}{[Siostra Sulika odwraca siÄ™ do ciebie.] Duchy KoÅ›ci mÃ³wiÄ‡, ty prowadzisz Sulik. Moje imiÄ™ Kurisu, ale teraz nie byÄ‡ czas na wÅ‚aÅ›ciwe powitana. ProszÄ™, ty musi wydostaÄ‡ nas z klatki i zabraÄ‡ daleko od zÅ‚ych ludzi rzÄ…dzonych przez duchy poÅ¼Ä…dania. [Wykrzywia siÄ™ z odrazÄ… i spluwa w piach.] Brudne psy wiÄ™cej nas nie dotykaÄ‡. [Kiedy Sulik to sÅ‚yszy jego oczy otwierajÄ… siÄ™ szeroko, a twarz wykrzywia w grymasie gniewu. SiÄ™ga po swojÄ… broÅ„.]}
+{205}{}{Sulik, poczekaj, majÄ… przewagÄ™ liczebnÄ…. SprÃ³bujÄ™ otworzyÄ‡ te drzwi i bÄ™dziemy mogli siÄ™ stÄ…d wykraÅ›Ä‡ cichaczem.}
+{206}{}{Sulik, poczekaj, majÄ… przewagÄ™ liczebnÄ…. Mam klucz do tych drzwi. BÄ…dÅºmy cicho i wykradnijmy siÄ™ stÄ…d.}
+{207}{}{[Kiwasz gÅ‚owÄ… do Sulika] Te gnoje za to zapÅ‚acÄ…. Gotowy stary druhu?}
+{208}{}{[Mija kilka minut i w koÅ„cu sÅ‚yszysz klikniecie w zamku. Drzwi siÄ™ otwierajÄ….]}
+{209}{}{[Zwracasz siÄ™ do Kurisu.] W porzÄ…dku, trzymaj siÄ™ mnie, gÅ‚owa nisko. [Do pozostaÅ‚ych niewolnikÃ³w.] BÄ…dÅºcie cicho i idÅºcie w stronÄ™ lasu.}
+{210}{}{[Mija kilka minut, a ty ciÄ…gle nie moÅ¼esz otworzyÄ‡ drzwi.]}
+{211}{}{Musi byÄ‡ inny sposÃ³b na otwarcie tych drzwi. SprÃ³buje jakoÅ› zdobyÄ‡ klucz. Poczekajcie tu, wrÃ³cÄ™ po was.}
+{212}{}{Dobra Sulik, czas na twÃ³j plan. Pora pozbyÄ‡ siÄ™ tych Å›mieci.}
+{213}{}{[WkÅ‚adasz klucz do zamka i otwierasz bramÄ™, piszczy kiedy siÄ™ uchyla.]}
+{214}{}{UdaÅ‚o siÄ™, kumpel? ProszÄ™, Å›piesz siÄ™.}
+{215}{}{Jeszcze nie. CiÄ…gle nad tym pracujÄ™.}
+{216}{}{Mam klucze. Czas was stÄ…d zabraÄ‡.}
+{217}{}{Czemu tam byÄ‡ takie zamieszanie? Ach, ja wyczuwaÄ‡, wielu odejÅ›Ä‡ Å¼eby doÅ‚Ä…czyÄ‡ do duchy. Kim jest... Sulik? Duchy wystawiaÄ‡ mnie na prÃ³ba, czy to naprawdÄ™ byÄ‡ ty, bracie?}
+{218}{}{Czemu tam byÄ‡ takie zamieszanie? Ach, ja wyczuwaÄ‡, wielu odejÅ›Ä‡ Å¼eby doÅ‚Ä…czyÄ‡ do duchy. I ja czujÄ™, Å¼e to ty ich wysyÅ‚aÄ‡. Czego potrzebujesz, Ducho-twÃ³rco?}
+{219}{}{Przybywam, by was uratowaÄ‡.}
+{221}{}{ChwaliÄ‡ duchy! ProszÄ™, musi wydostaÄ‡ nas z klatki. ZabraÄ‡ daleko od zÅ‚e miejsce.}
+{222}{}{Duchy chwaliÄ‡ Ty! Teraz muszÄ™ iÅ›Ä‡, wrÃ³ciÄ‡ do swoje ludzie. Oni dÅ‚ugo za mnÄ… tÄ™skniÄ‡. ProszÄ™, odwiedÅº moja wioska. ByÄ‡ blisko Wielka SÅ‚ona Woda, kilka dni na poÅ‚udniowy zachÃ³d stÄ…d. DziÄ™kujÄ™ ci, kumpel.}
+{223}{}{[Sulik Å›pieszy do bramy i Å‚apie wyciÄ…gniÄ™te rÄ™ce swojej siostry. Odwracasz siÄ™ pozwalajÄ…c im na odrobinÄ™ prywatnoÅ›ci w ich wzruszajÄ…cym spotkaniu. ChwilÄ™ pÃ³Åºniej, jego siostra zwraca siÄ™ do ciebie.] Duchy KoÅ›ci mÃ³wiÄ‡, ty prowadzi Sulik. Moje imiÄ™ Kurisu, ale nie byÄ‡ czas na wÅ‚aÅ›ciwe powitania. Åowcy niewolnikÃ³w, oni byÄ‡ martwi, tak?}
+{224}{}{Tak, Å‚owcy nie Å¼yjÄ….}
+{225}{}{ChwaliÄ‡ duchy! ProszÄ™, otwÃ³rz te drzwi. My bardzo pragnÄ…Ä‡ odejÅ›Ä‡ ze zÅ‚e miejsce.}
+{226}{}{Nie martw siÄ™. Mam klucz.}
+{227}{}{W porzÄ…dku, sprÃ³bujÄ™ otworzyÄ‡ te drzwi.}
+{400}{}{IdÅºmy dalej.}
+{401}{}{ProszÄ™, ja chcÄ™ byÄ‡ w domu.}
+{410}{}{[Odwracasz siÄ™ do Kurisu.] Czekaj, nie chce stÄ…d odchodziÄ‡ dopÃ³ki nie wypuszczÄ™ niewolnikÃ³w z pozostaÅ‚ych klatek. Poczekaj tutaj, aÅ¼ uwolniÄ™ wszystkich z tego obozu. [Do pozostaÅ‚ych niewolnikÃ³w.] BÄ…dÅºcie cicho i idÅºcie w stronÄ™ lasu. Ja zajmÄ™ siÄ™ straÅ¼nikami.}
+{500}{}{Jak ty przeznaczaÄ‡ mnie do Å‚Ã³Å¼ko, ty lepiej spodziewaÄ‡ siÄ™ walka, czekaj, ty nie mieÄ‡ znak demona na czole. Kim ty byÄ‡?}
+{501}{}{Jestem "Dzieckiem Przeznaczenia", a ty kim jesteÅ›?}
+{502}{}{Nazywam siÄ™ }
+{503}{}{. Kim ty jesteÅ›?}
+{510}{}{Moje imiÄ™ byÄ‡ Kurisu. Ja pochodziÄ‡ z plemiÄ™ na poÅ‚udniowy zachÃ³d, koÅ‚o Wielka SÅ‚ona Woda. Åowcy niewolnikÃ³w mnie zÅ‚apaÄ‡. ZÅ‚apaÄ‡ teÅ¼ innych, ale oni wysÅ‚ani dalej. Oni mÃ³wiÄ‡, jeszcze ze mnÄ… nie skoÅ„czyli. Zatrzymali mnie tu dla ich grzeszne przyjemnoÅ›ci. ProszÄ™, ty musi wydostaÄ‡ nas z klatki i zabraÄ‡ daleko od zÅ‚e ludzie.}
+{511}{}{Nie martw siÄ™ jestem tu po to Å¼eby ciÄ™ uwolniÄ‡. Mam klucz i pozwolenie Å¼eby ciÄ™ stÄ…d zabraÄ‡.}
+{512}{}{W porzÄ…dku, sprÃ³bujÄ™ otworzyÄ‡ te drzwi.}
+{530}{}{Czy juÅ¼ byÄ‡ bezpiecznie? Ty wysÅ‚aÄ‡ Å‚owcy niewolnikÃ³w do duchy?}
+{531}{}{Tak, jest bezpiecznie. MoÅ¼emy juÅ¼ iÅ›Ä‡ do twojej wioski.}
+{532}{}{Tak, ale pozwÃ³l, Å¼e uwolniÄ™ stÄ…d wszystkich niewolnikÃ³w, zanim pÃ³jdziemy.}
+{533}{}{Nie, jeszcze nie. WrÃ³cÄ™ kiedy bÄ™dzie bezpiecznie.}
+{600}{}{ChwaliÄ‡ duchy, wreszcie my byÄ‡ w domu! Bardzo Ci dziÄ™kujÄ™, kumpel.}
+{601}{}{Nie ma za co. Ale w jaki sposÃ³b ciÄ™ zÅ‚apali?}
+{602}{}{HandlowaÅ‚am w pobliska wioska. PrzyjÅ›Ä‡ Å‚owcy niewolnikÃ³w. DuÅ¼o rozlewu krwi, duÅ¼o chaosu. Potem, wszystko ciemnoÅ›Ä‡. ObudziÅ‚am siÄ™ w zatÅ‚oczona klatka Å›mierdzÄ…ca gÃ³wno. WkrÃ³tce przenieÅ›li mnie do mniejsza klatka, z tymi ktÃ³rych oni chcieÄ‡ zatrzymaÄ‡. Wiele niewolnikÃ³w przyjÅ›Ä‡ i odejÅ›Ä‡. Smutne widzieÄ‡ ludzie traktowani jak bydÅ‚o.}
+{603}{}{Ta, niewolnictwo to z pewnoÅ›ciÄ… potworna rzecz. Przykro mi, Å¼e musiaÅ‚aÅ› przez to przejÅ›Ä‡, Kurisu. WiÄ™c, co teraz zamierzasz?}
+{604}{}{Åowcy mnie skrzywdziÄ‡, ale nie zÅ‚amaÄ‡. Duchy ciÄ™ prowadziÄ‡ Å¼eby zapewniÄ‡ moja wolnoÅ›Ä‡. Z pewnoÅ›ciÄ…, duchy planowaÄ‡ dla mnie coÅ› wielkiego. Duchy mieÄ‡ wielkie plany teÅ¼ dla ciebie. I brata Sulika. BÄ™dzie go bardzo brakowaÅ‚o, ale duchy mÃ³wiÄ‡ jego miejsce iÅ›Ä‡ ramiÄ™-w-ramiÄ™ z tobÄ…. Cholera, nawet KoÅ›Ä‡ Dziadunia ciÄ™ lubiÄ‡, dlatego wiem, Å¼e Sulik w dobrych rÄ™kach. Dbaj o siebie.}
+{605}{}{DziÄ™kujÄ™ Kurisu, do zobaczenia.}
+{606}{}{Åowcy mnie skrzywdziÄ‡, ale nie zÅ‚amaÄ‡. Duchy ciÄ™ prowadziÄ‡ Å¼eby zapewniÄ‡ moja wolnoÅ›Ä‡. Z pewnoÅ›ciÄ…, duchy planowaÄ‡ dla mnie coÅ› wielkiego. WkrÃ³tce, ja myÅ›lÄ™, ja iÅ›Ä‡ tropiÄ‡ brat. ZnaÄ‡ Sulik, on na pewno wpakowaÄ‡ siÄ™ w kÅ‚opoty prÃ³bujÄ…c mi pomÃ³c. Teraz, moÅ¼e to ja pomÃ³c jemu.}
+{607}{}{PrawdÄ™ mÃ³wiÄ…c, chyba znam twojego brata. Twarz caÅ‚a w tatuaÅ¼ach i duÅ¼a koÅ›Ä‡ w nosie, zgadza siÄ™?}
+{608}{}{Tak to Sulik! I KoÅ›Ä‡ Dziadunia, teÅ¼! ProszÄ™, moÅ¼esz przyprowadziÄ‡ Sulika do domu? Tak bardzo mi go brakuje.}
+{609}{}{Nie ma problemu, sprowadzÄ™ go tutaj. Do zobaczenia Kurisu.}
+{610}{}{Nie sadzÄ™, Å¼eby to byÅ‚o moÅ¼liwe. Widzisz, Sulik nie Å¼yje.}
+{611}{}{Sulik... nie Å¼yje? ZaprawdÄ™, mroczny to dzieÅ„. Wiem, Å¼e on teraz z Dziaduniem, ale Sulik... bÄ™dzie go bardzo brakowaÄ‡. [Odwraca gÅ‚owÄ™ Å¼eby ukryÄ‡ Å‚zy wypeÅ‚niajÄ…ce jej oczy.] ProszÄ™... ja potrzebuje byÄ‡ teraz sama. DziÄ™kuje Ci... za przyprowadzenie mnie do domu.}
 {650}{}{Witaj, kumpel. Znal Sulik!}
 {651}{}{[KONTYNUUJ]}
-{652}{}{[Kurisu œpieszy do Sulika, on ³apie j¹ w objêcia. Odwracasz siê pozwalaj¹c im na odrobinê prywatnoœci w ich wzruszaj¹cym spotkaniu. Kilka chwil póŸniej, Kurisu zwraca siê do ciebie z uœmiechem, ocieraj¹c ³zy z oczu.] Dziêkujê, kumpel, za znalezienie brata. Duchy mieæ wielkie plany dla ciebie i Sulika. Bêdzie go bardzo brakowaæ, ale duchy mówiæ jego miejsce iœæ ramiê-w-ramiê z tob¹. Cholera, nawet Koœæ Dziadunia ciê lubiæ, dlatego wiem, ¿e Sulik w dobrych rêkach. Dbaj o siebie.}
-{653}{}{Witaj, kumpel. Ty mieæ szczêœcie i znaleŸæ brat Sulik?}
-{654}{}{Nie, ci¹gle szukam. Wrócê kiedy go znajdê.}
-{700}{}{Jeszcze raz dziêkujê, kumpel. Niech duchy ciê b³ogos³awiæ.}
-{701}{}{Bêdzie bardzo brakowaæ brat Sulik.}
-{800}{}{Z³e duchy z tob¹ kroczyæ! OdejdŸ!}
-{810}{}{Wracaj do budynku Kurisu! Zajmê siê tym.}
-{820}{}{Proszê, nie ty pozwoliæ im nas skrzywdziæ.}
-{900}{}{Ja? Nie, Ja Dziecko Przeznaczenia. Ty mówi Sulik?}
-{910}{}{Tak, Ÿli ludzie martwi.}
-{920}{}{Ja mieæ klucz.}
-{921}{}{Ja spróbowaæ otworzyæ.}
-{922}{}{[Kiwasz g³ow¹ do Sulika] My walczyæ z³e ludzie teraz.}
-{923}{}{Ja ci¹gle pracowaæ.}
-{930}{}{[Odwracasz siê do Kurisu.] Ja chroniæ ty. [Do innych niewolników.] IdŸcie do domu.}
-{940}{}{Wytrychy nie dzia³aæ. Ja poszukaæ klucz. Ty czeka.}
-{941}{}{Wytrychy nie dzia³aæ. [Odwracasz siê do Sulika] My walczyæ z³e ludzie teraz.}
+{652}{}{[Kurisu Å›pieszy do Sulika, on Å‚apie jÄ… w objÄ™cia. Odwracasz siÄ™ pozwalajÄ…c im na odrobinÄ™ prywatnoÅ›ci w ich wzruszajÄ…cym spotkaniu. Kilka chwil pÃ³Åºniej, Kurisu zwraca siÄ™ do ciebie z uÅ›miechem, ocierajÄ…c Å‚zy z oczu.] DziÄ™kujÄ™, kumpel, za znalezienie brata. Duchy mieÄ‡ wielkie plany dla ciebie i Sulika. BÄ™dzie go bardzo brakowaÄ‡, ale duchy mÃ³wiÄ‡ jego miejsce iÅ›Ä‡ ramiÄ™-w-ramiÄ™ z tobÄ…. Cholera, nawet KoÅ›Ä‡ Dziadunia ciÄ™ lubiÄ‡, dlatego wiem, Å¼e Sulik w dobrych rÄ™kach. Dbaj o siebie.}
+{653}{}{Witaj, kumpel. Ty mieÄ‡ szczÄ™Å›cie i znaleÅºÄ‡ brat Sulik?}
+{654}{}{Nie, ciÄ…gle szukam. WrÃ³cÄ™ kiedy go znajdÄ™.}
+{700}{}{Jeszcze raz dziÄ™kujÄ™, kumpel. Niech duchy ciÄ™ bÅ‚ogosÅ‚awiÄ‡.}
+{701}{}{BÄ™dzie bardzo brakowaÄ‡ brat Sulik.}
+{800}{}{ZÅ‚e duchy z tobÄ… kroczyÄ‡! OdejdÅº!}
+{810}{}{Wracaj do budynku Kurisu! ZajmÄ™ siÄ™ tym.}
+{820}{}{ProszÄ™, nie ty pozwoliÄ‡ im nas skrzywdziÄ‡.}
+{900}{}{Ja? Nie, Ja Dziecko Przeznaczenia. Ty mÃ³wi Sulik?}
+{910}{}{Tak, Åºli ludzie martwi.}
+{920}{}{Ja mieÄ‡ klucz.}
+{921}{}{Ja sprÃ³bowaÄ‡ otworzyÄ‡.}
+{922}{}{[Kiwasz gÅ‚owÄ… do Sulika] My walczyÄ‡ zÅ‚e ludzie teraz.}
+{923}{}{Ja ciÄ…gle pracowaÄ‡.}
+{930}{}{[Odwracasz siÄ™ do Kurisu.] Ja chroniÄ‡ ty. [Do innych niewolnikÃ³w.] IdÅºcie do domu.}
+{940}{}{Wytrychy nie dziaÅ‚aÄ‡. Ja poszukaÄ‡ klucz. Ty czeka.}
+{941}{}{Wytrychy nie dziaÅ‚aÄ‡. [Odwracasz siÄ™ do Sulika] My walczyÄ‡ zÅ‚e ludzie teraz.}
 {950}{}{Ja "Dziecko Przeznaczenia". Kto ty?}
 {951}{}{Ja }
 {952}{}{. Kto ty?}
-{960}{}{Byæ bezpiecznie. My iœæ dom.}
-{961}{}{Byæ nie bezpiecznie. Wiêcej z³e ludzie do zabicia.}
-{970}{}{Proszê bardzo. Jak oni z³apaæ ty?}
-{971}{}{Tak, z³e ludzie niedobre. Co ty teraz zrobi?}
+{960}{}{ByÄ‡ bezpiecznie. My iÅ›Ä‡ dom.}
+{961}{}{ByÄ‡ nie bezpiecznie. WiÄ™cej zÅ‚e ludzie do zabicia.}
+{970}{}{ProszÄ™ bardzo. Jak oni zÅ‚apaÄ‡ ty?}
+{971}{}{Tak, zÅ‚e ludzie niedobre. Co ty teraz zrobi?}
 {972}{}{Dzienks. Cze!}
-{973}{}{Znaæ Sulik. Sulik mój przyjaciel. On mówiæ jak ja. On gadaæ z koœæ w nosie.}
-{974}{}{Ja go przyprowadziæ. On têskniæ za ty.}
+{973}{}{ZnaÄ‡ Sulik. Sulik mÃ³j przyjaciel. On mÃ³wiÄ‡ jak ja. On gadaÄ‡ z koÅ›Ä‡ w nosie.}
+{974}{}{Ja go przyprowadziÄ‡. On tÄ™skniÄ‡ za ty.}
 {975}{}{Ja przeprasza. On martwy.}
-{976}{}{Ja ci¹gle szukaæ.}
-{1000}{}{Uda³o ci siê doprowadziæ do spotkania Sulika i jego siostry.}
-{2000}{}{Ja *wiedzia³am* Duchy Koœci mieæ wielkie plany dla ciebie.}
-{2001}{}{Najpierw ty uratowaæ mnie. Potem ty uratowaæ œwiat. Ty prawdziwy bohater.}
-{2002}{}{Ty nie potrzebujesz ju¿ Sulik, prawda?}
+{976}{}{Ja ciÄ…gle szukaÄ‡.}
+{1000}{}{UdaÅ‚o ci siÄ™ doprowadziÄ‡ do spotkania Sulika i jego siostry.}
+{2000}{}{Ja *wiedziaÅ‚am* Duchy KoÅ›ci mieÄ‡ wielkie plany dla ciebie.}
+{2001}{}{Najpierw ty uratowaÄ‡ mnie. Potem ty uratowaÄ‡ Å›wiat. Ty prawdziwy bohater.}
+{2002}{}{Ty nie potrzebujesz juÅ¼ Sulik, prawda?}

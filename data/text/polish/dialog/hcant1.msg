@@ -1,2 +1,2 @@
-{100}{}{Widzisz du¿¹ mrówkê.}
-{101}{}{O rany! Jaka zajebiœcie du¿a mrówa!}
+{100}{}{Widzisz duÅ¼Ä… mrÃ³wkÄ™.}
+{101}{}{O rany! Jaka zajebiÅ›cie duÅ¼a mrÃ³wa!}

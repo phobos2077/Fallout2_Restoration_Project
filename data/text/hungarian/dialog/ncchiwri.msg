@@ -1,134 +1,134 @@
 {100}{}{A fiatalember Chris Wright.}
-{150}{}{A fiatalember punk-taréjt visel, ezenkívül b?rszerkót és egy rakás láncot hord.}
+{150}{}{A fiatalember punk-tarÃ©jt visel, ezenkÃ­vÃ¼l b?rszerkÃ³t Ã©s egy rakÃ¡s lÃ¡ncot hord.}
 {151}{}{A fiatalember Chris Wright.}
-{152}{}{? Chris Wright. Unottan néz ki a fejéb?l.}
-{200}{}{Hé! }
-{201}{}{Kitartás, }
+{152}{}{? Chris Wright. Unottan nÃ©z ki a fejÃ©b?l.}
+{200}{}{HÃ©! }
+{201}{}{KitartÃ¡s, }
 {202}{}{Mindent bele, }
-{203}{}{::Éljenez::}
+{203}{}{::Ã‰ljenez::}
 {204}{}{::Tapsol::}
-{205}{}{::Fütyül::}
-{215}{}{Hogy mész fürdeni, ha ez a fémvacak rajtad van?}
+{205}{}{::FÃ¼tyÃ¼l::}
+{215}{}{Hogy mÃ©sz fÃ¼rdeni, ha ez a fÃ©mvacak rajtad van?}
 {220}{}{Na, mi van, }
 {221}{}{Nincsen meleg odabenn, }
 {222}{}{Na, mi van, }
-{230}{}{Még mindig nem tudom elhinni, hogy apa meghalt. Annyi mindent szerettem volna még neki mondani...}
-{235}{}{T?nés!}
-{236}{}{T?nj el, nem mondom még egyszer!}
+{230}{}{MÃ©g mindig nem tudom elhinni, hogy apa meghalt. Annyi mindent szerettem volna mÃ©g neki mondani...}
+{235}{}{T?nÃ©s!}
+{236}{}{T?nj el, nem mondom mÃ©g egyszer!}
 {237}{}{Nincs mit mondanom neked.}
 {245}{}{Eggen?}
-{246}{}{Hé! Hogy mennek a dolgok?}
-{247}{}{A hálám mindig üldözni fog, amiért megtaláltad Richard gyilkosát.}
-{248}{}{. Jövök neked eggyel, és a Wright család mindig kifizeti az adósságát. Miben segíthetek?}
-{249}{}{Gyarló. Ember gyarló!}
+{246}{}{HÃ©! Hogy mennek a dolgok?}
+{247}{}{A hÃ¡lÃ¡m mindig Ã¼ldÃ¶zni fog, amiÃ©rt megtalÃ¡ltad Richard gyilkosÃ¡t.}
+{248}{}{. JÃ¶vÃ¶k neked eggyel, Ã©s a Wright csalÃ¡d mindig kifizeti az adÃ³ssÃ¡gÃ¡t. Miben segÃ­thetek?}
+{249}{}{GyarlÃ³. Ember gyarlÃ³!}
 {250}{}{Hubajube}
-{251}{}{Elpályázol}
+{251}{}{ElpÃ¡lyÃ¡zol}
 {252}{}{Ki vagy te?}
-{253}{}{Hogyne. Munkát keresek. A Wright család épp nem keres valami munkaer?t?}
-{254}{}{Összefutottam édesanyáddal.}
-{255}{}{Mondanál valamit Richard-ról?}
-{256}{}{Kösz, semmit. Bocs, hogy zavartalak.}
-{265}{}{Kopj le, te retardált! Nincs id?m, hogy nekiálljak jel-beszélgetni veled!}
-{266}{}{Elpályázol}
-{275}{}{Chris Wrightnak hívnak. A Wright családból. Kielégít? válasz?}
-{276}{}{Hogyne. Munkát keresek. A Wright család épp nem keres valami munkaer?t?}
-{277}{}{Semmit nem tudok a Wright családról.}
-{278}{}{Chris Wright? Összefutottam a mamáddal.}
-{279}{}{El tudod mondani, mi történt Richard öcséddel?}
-{280}{}{Nem igazán. Bocs, hogy zavartalak.}
-{290}{}{Nem hallottál a Wright családról? Jó sokat lehettél a sivatagban! A Wright család a legnagyobb b?nszövetkezet Renóban. Mi fogjuk uralni a várost.}
-{291}{}{Valóban? Úgy t?nik, a Wright családnál vannak a legjobb lapok. Nem akarnak felbérelni senkit?}
+{253}{}{Hogyne. MunkÃ¡t keresek. A Wright csalÃ¡d Ã©pp nem keres valami munkaer?t?}
+{254}{}{Ã–sszefutottam Ã©desanyÃ¡ddal.}
+{255}{}{MondanÃ¡l valamit Richard-rÃ³l?}
+{256}{}{KÃ¶sz, semmit. Bocs, hogy zavartalak.}
+{265}{}{Kopj le, te retardÃ¡lt! Nincs id?m, hogy nekiÃ¡lljak jel-beszÃ©lgetni veled!}
+{266}{}{ElpÃ¡lyÃ¡zol}
+{275}{}{Chris Wrightnak hÃ­vnak. A Wright csalÃ¡dbÃ³l. KielÃ©gÃ­t? vÃ¡lasz?}
+{276}{}{Hogyne. MunkÃ¡t keresek. A Wright csalÃ¡d Ã©pp nem keres valami munkaer?t?}
+{277}{}{Semmit nem tudok a Wright csalÃ¡drÃ³l.}
+{278}{}{Chris Wright? Ã–sszefutottam a mamÃ¡ddal.}
+{279}{}{El tudod mondani, mi tÃ¶rtÃ©nt Richard Ã¶csÃ©ddel?}
+{280}{}{Nem igazÃ¡n. Bocs, hogy zavartalak.}
+{290}{}{Nem hallottÃ¡l a Wright csalÃ¡drÃ³l? JÃ³ sokat lehettÃ©l a sivatagban! A Wright csalÃ¡d a legnagyobb b?nszÃ¶vetkezet RenÃ³ban. Mi fogjuk uralni a vÃ¡rost.}
+{291}{}{ValÃ³ban? Ãšgy t?nik, a Wright csalÃ¡dnÃ¡l vannak a legjobb lapok. Nem akarnak felbÃ©relni senkit?}
 {292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
  only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
  other families.}
-{293}{}{Ha már a családnál tartunk, összefutottam édesanyáddal.}
-{294}{}{El tudod mondani, mi történt Richard öcséddel?}
-{295}{}{Igazán? Nagyon érdekes... nos hát... most mennem kell.}
-{305}{}{Úgymint?}
-{306}{}{Mondanál valamit a Wright családról?}
-{307}{}{A Wright család szokott embereket felbérelni?}
-{308}{}{Nem olyan régen összefutottam édesanyáddal. Kedves asszony.}
-{309}{}{El tudod mondani, mi történt Richard öcséddel?}
-{310}{}{Nem, nincs több kérdésem. Jobb, ha megyek.}
-{315}{}{(A fiatalember feléd fordul, végigmér tet?t?l talpig. Szeme megakad a homlokodon lév? jelen.) Vagy úgy. (Lekicsinyl?en néz rád, és leköpi a lábad.) Miért nem teszed hasznossá magad azzal, hogy lenyalod, hajcsár?}
-{316}{}{(A fiatalember feléd fordul, végigmér tet?t?l talpig.) Vagy úgy. (Lekicsinyl?en néz rád, és leköpi a lábad.) Miért nem teszed hasznossá magad azzal, hogy lenyalod, te fosarcú gyökér?}
-{317}{}{Belerúgsz azzal a lábaddal, amit leköpött.}
+{293}{}{Ha mÃ¡r a csalÃ¡dnÃ¡l tartunk, Ã¶sszefutottam Ã©desanyÃ¡ddal.}
+{294}{}{El tudod mondani, mi tÃ¶rtÃ©nt Richard Ã¶csÃ©ddel?}
+{295}{}{IgazÃ¡n? Nagyon Ã©rdekes... nos hÃ¡t... most mennem kell.}
+{305}{}{Ãšgymint?}
+{306}{}{MondanÃ¡l valamit a Wright csalÃ¡drÃ³l?}
+{307}{}{A Wright csalÃ¡d szokott embereket felbÃ©relni?}
+{308}{}{Nem olyan rÃ©gen Ã¶sszefutottam Ã©desanyÃ¡ddal. Kedves asszony.}
+{309}{}{El tudod mondani, mi tÃ¶rtÃ©nt Richard Ã¶csÃ©ddel?}
+{310}{}{Nem, nincs tÃ¶bb kÃ©rdÃ©sem. Jobb, ha megyek.}
+{315}{}{(A fiatalember felÃ©d fordul, vÃ©gigmÃ©r tet?t?l talpig. Szeme megakad a homlokodon lÃ©v? jelen.) Vagy Ãºgy. (Lekicsinyl?en nÃ©z rÃ¡d, Ã©s lekÃ¶pi a lÃ¡bad.) MiÃ©rt nem teszed hasznossÃ¡ magad azzal, hogy lenyalod, hajcsÃ¡r?}
+{316}{}{(A fiatalember felÃ©d fordul, vÃ©gigmÃ©r tet?t?l talpig.) Vagy Ãºgy. (Lekicsinyl?en nÃ©z rÃ¡d, Ã©s lekÃ¶pi a lÃ¡bad.) MiÃ©rt nem teszed hasznossÃ¡ magad azzal, hogy lenyalod, te fosarcÃº gyÃ¶kÃ©r?}
+{317}{}{BelerÃºgsz azzal a lÃ¡baddal, amit lekÃ¶pÃ¶tt.}
 {318}{}{Elslattyogsz}
-{319}{}{Békén hagyod és elmész. Ezúttal...}
+{319}{}{BÃ©kÃ©n hagyod Ã©s elmÃ©sz. EzÃºttal...}
 {325}{}{Well... I...I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
  south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
-{326}{}{Öö... Wright családot mondtál? Kik ?k?}
-{327}{}{Wrightot mondtál? Összefutottam édesanyáddal.}
-{328}{}{El tudod mondani, mi történt Richard öcséddel?}
-{329}{}{Köszi. Megyek és beszélek vele.}
-{335}{}{Neeem, nem hinném, hogy bárki foglalkozna itt új emberek alkalmazásával. A családok többségében igen nagy az összetartás.}
+{326}{}{Ã–Ã¶... Wright csalÃ¡dot mondtÃ¡l? Kik ?k?}
+{327}{}{Wrightot mondtÃ¡l? Ã–sszefutottam Ã©desanyÃ¡ddal.}
+{328}{}{El tudod mondani, mi tÃ¶rtÃ©nt Richard Ã¶csÃ©ddel?}
+{329}{}{KÃ¶szi. Megyek Ã©s beszÃ©lek vele.}
+{335}{}{Neeem, nem hinnÃ©m, hogy bÃ¡rki foglalkozna itt Ãºj emberek alkalmazÃ¡sÃ¡val. A csalÃ¡dok tÃ¶bbsÃ©gÃ©ben igen nagy az Ã¶sszetartÃ¡s.}
 {336}{}{Akkor rendben vagyunk.}
-{345}{}{Ó, ez király. Beszélgettetek?}
-{346}{}{Egy kicsit. Nem szereted a mamádat?}
-{347}{}{Nem. Gyakran szokott beszélgetni idegenekkel?}
-{348}{}{Nem igazán. Figyu, most mennem kell.}
-{355}{}{Ez *vicc* akart lenni? Ha igen, alaposan mellél?ttél vele. Akarsz valamit a Wright családtól, okoska?}
-{356}{}{Hogy akarok-e valamit? Hát persze. Ki akarom nyírni az egész családot.}
-{357}{}{Nem, elnézést. Nem akartam semmi bántót mondani. Kérdezhetek ezt-azt?}
-{358}{}{Nem, egyáltalán nem. Asszem, most jobb, ha megyek.}
-{365}{}{Anyám egyszer?en nem figyel a maga körül történ? dolgokra. Szeretem ?t, meg minden, de néha annyira vak, mint a halál.}
-{366}{}{Hát nem is olyan régen anyám berontott a szeszf?zdénkbe, és szétbarmolta az egészet, megsemmisítette a pénzforrásunkat! Szeretem ?t, meg minden, de néha annyira vak, mint a halál.}
-{367}{}{Hehe. És úgy is néz ki.}
-{368}{}{Mit értesz az alatt, hogy vak?}
-{369}{}{Kérdeznék valami mást.}
-{370}{}{Nem kétlem... most viszont mennem kell.}
-{380}{}{Jár-kel fel-alá és a b?nbeesésr?l papol, meg ilyenek, de nem tudja igazán, Apu mit csinál. Vagy ha igen, nem vesz róla tudomást.}
-{381}{}{Miért, mit csinál az édesapád?}
+{345}{}{Ã“, ez kirÃ¡ly. BeszÃ©lgettetek?}
+{346}{}{Egy kicsit. Nem szereted a mamÃ¡dat?}
+{347}{}{Nem. Gyakran szokott beszÃ©lgetni idegenekkel?}
+{348}{}{Nem igazÃ¡n. Figyu, most mennem kell.}
+{355}{}{Ez *vicc* akart lenni? Ha igen, alaposan mellÃ©l?ttÃ©l vele. Akarsz valamit a Wright csalÃ¡dtÃ³l, okoska?}
+{356}{}{Hogy akarok-e valamit? HÃ¡t persze. Ki akarom nyÃ­rni az egÃ©sz csalÃ¡dot.}
+{357}{}{Nem, elnÃ©zÃ©st. Nem akartam semmi bÃ¡ntÃ³t mondani. KÃ©rdezhetek ezt-azt?}
+{358}{}{Nem, egyÃ¡ltalÃ¡n nem. Asszem, most jobb, ha megyek.}
+{365}{}{AnyÃ¡m egyszer?en nem figyel a maga kÃ¶rÃ¼l tÃ¶rtÃ©n? dolgokra. Szeretem ?t, meg minden, de nÃ©ha annyira vak, mint a halÃ¡l.}
+{366}{}{HÃ¡t nem is olyan rÃ©gen anyÃ¡m berontott a szeszf?zdÃ©nkbe, Ã©s szÃ©tbarmolta az egÃ©szet, megsemmisÃ­tette a pÃ©nzforrÃ¡sunkat! Szeretem ?t, meg minden, de nÃ©ha annyira vak, mint a halÃ¡l.}
+{367}{}{Hehe. Ã‰s Ãºgy is nÃ©z ki.}
+{368}{}{Mit Ã©rtesz az alatt, hogy vak?}
+{369}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{370}{}{Nem kÃ©tlem... most viszont mennem kell.}
+{380}{}{JÃ¡r-kel fel-alÃ¡ Ã©s a b?nbeesÃ©sr?l papol, meg ilyenek, de nem tudja igazÃ¡n, Apu mit csinÃ¡l. Vagy ha igen, nem vesz rÃ³la tudomÃ¡st.}
+{381}{}{MiÃ©rt, mit csinÃ¡l az Ã©desapÃ¡d?}
 {382}{}{Hmmmm. Say, I had some other questions...}
-{383}{}{Érdekes-érdekes. Viszont most mennem kell.}
-{390}{}{Alkoholt gyárt, fegyvereket ad el, kicsinál embereket, akik baszakodnak vele... tipikus családi elfoglaltságok. Anyám kiakadna, ha tudná, hogy tulajdonképpen mi folyik a háttérben. Különösen, ha itt megtalálná a szeszf?zdét.}
+{383}{}{Ã‰rdekes-Ã©rdekes. Viszont most mennem kell.}
+{390}{}{Alkoholt gyÃ¡rt, fegyvereket ad el, kicsinÃ¡l embereket, akik baszakodnak vele... tipikus csalÃ¡di elfoglaltsÃ¡gok. AnyÃ¡m kiakadna, ha tudnÃ¡, hogy tulajdonkÃ©ppen mi folyik a hÃ¡ttÃ©rben. KÃ¼lÃ¶nÃ¶sen, ha itt megtalÃ¡lnÃ¡ a szeszf?zdÃ©t.}
 {391}{}{Mennyire akadna ki?}
 {392}{}{Hmmmm. Say, I had some other questions...}
-{393}{}{Érdekes-érdekes. Viszont most mennem kell.}
-{400}{}{Annyira biztos, hogy szétverné ezt a helyet... minimum. Valszeg szétmagyarázná a fejét és néhány napig folyamatosan imádkozhatnánk. Hehe.}
+{393}{}{Ã‰rdekes-Ã©rdekes. Viszont most mennem kell.}
+{400}{}{Annyira biztos, hogy szÃ©tvernÃ© ezt a helyet... minimum. Valszeg szÃ©tmagyarÃ¡znÃ¡ a fejÃ©t Ã©s nÃ©hÃ¡ny napig folyamatosan imÃ¡dkozhatnÃ¡nk. Hehe.}
 {401}{}{Interesting. Say, I had some other questions...}
-{402}{}{Hmmmmm. Köszi.}
+{402}{}{Hmmmmm. KÃ¶szi.}
 {410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
  figure, someone pumped him with drugs until he was dead.}
-{411}{}{"Valaki" túl sokat adott be neki? Mib?l gondolod, hogy nem saját magát adagolta túl?}
+{411}{}{"Valaki" tÃºl sokat adott be neki? Mib?l gondolod, hogy nem sajÃ¡t magÃ¡t adagolta tÃºl?}
 {412}{}{Szerinted ki tehette?}
-{413}{}{Ez bizony sajnálatos. Kérdezhetek még valamit?}
+{413}{}{Ez bizony sajnÃ¡latos. KÃ©rdezhetek mÃ©g valamit?}
 {414}{}{Mocskos dolog ez. Figyu, most mennem kell.}
-{420}{}{Mert az a gyerek tiszta volt... az anyám SOKMINDENRE megtanította. Ha pedig más lenne a véleményed, itt helyben lerendezhetjük.}
-{421}{}{Nem úgy gondoltam. Bocs, hogy felhoztam a témát.}
+{420}{}{Mert az a gyerek tiszta volt... az anyÃ¡m SOKMINDENRE megtanÃ­totta. Ha pedig mÃ¡s lenne a vÃ©lemÃ©nyed, itt helyben lerendezhetjÃ¼k.}
+{421}{}{Nem Ãºgy gondoltam. Bocs, hogy felhoztam a tÃ©mÃ¡t.}
 {422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
-{423}{}{Nézd, KÖLYÖK, ha szereted még az élet napos oldalát, akkor egy kis fájó igazság hallatán ne gyere nekem a bunyóval...}
+{423}{}{NÃ©zd, KÃ–LYÃ–K, ha szereted mÃ©g az Ã©let napos oldalÃ¡t, akkor egy kis fÃ¡jÃ³ igazsÃ¡g hallatÃ¡n ne gyere nekem a bunyÃ³val...}
 {424}{}{Szerinted ki tehette?}
-{425}{}{Én nem keresem a bajt. Csá...}
-{435}{}{Na, nehogy már! Ezt bármelyik Wright beszólásnak venné, szóval, ha lennél olyan szíves ne dobálózz itt a kemény szavakkal!}
+{425}{}{Ã‰n nem keresem a bajt. CsÃ¡...}
+{435}{}{Na, nehogy mÃ¡r! Ezt bÃ¡rmelyik Wright beszÃ³lÃ¡snak vennÃ©, szÃ³val, ha lennÃ©l olyan szÃ­ves ne dobÃ¡lÃ³zz itt a kemÃ©ny szavakkal!}
 {436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
-{437}{}{Nézd, KISFIAM, ne szarakodj itt velem! Ha szereted még az élet napos oldalát, akkor egy kis fájó igazság hallatán ne gyere nekem a bunyóval...}
-{438}{}{Bocs, nem akartam beszólni. Kérdeznék inkább valami mást...}
-{439}{}{Megértettem. Akkor most inkább megyek.}
-{445}{}{T?nj el! Nem akarok veled tovább beszélni!}
-{446}{}{Várj, egyetlenegy kérdésem lenne még...}
+{437}{}{NÃ©zd, KISFIAM, ne szarakodj itt velem! Ha szereted mÃ©g az Ã©let napos oldalÃ¡t, akkor egy kis fÃ¡jÃ³ igazsÃ¡g hallatÃ¡n ne gyere nekem a bunyÃ³val...}
+{438}{}{Bocs, nem akartam beszÃ³lni. KÃ©rdeznÃ©k inkÃ¡bb valami mÃ¡st...}
+{439}{}{MegÃ©rtettem. Akkor most inkÃ¡bb megyek.}
+{445}{}{T?nj el! Nem akarok veled tovÃ¡bb beszÃ©lni!}
+{446}{}{VÃ¡rj, egyetlenegy kÃ©rdÃ©sem lenne mÃ©g...}
 {447}{}{Megyek, megyek...}
-{455}{}{(Chris egy pillanatig rádbámul, aztán neked ugrik!)}
-{456}{}{Szóval ennek így kell lennie, he? RENDBEN, AKKOR GYERÜ...}
-{465}{}{Én a Mordinókra szavaznék. Vagy az egyik dílerükre, vagy az egyik Mordinóra személyesen. Azok a gyökerek tonnaszám gyártják a Jetet.}
-{466}{}{Fogom. Viszont kérdeznék még egy s mást...}
-{467}{}{Szerinted melyik díler adhatta el Richard-nak?}
-{468}{}{Értem. Most mennem kell.}
-{475}{}{Bármelyik lehetett: vagy Csipkés Jimmy J., az a sebhelyes faszkalap a Sz?z utca sarkán, vagy az a görény Rakétás Renesco, aki a Nyugati Negyedbeli er?dített házikójában árusítja a Jetjét.}
-{476}{}{Van még más díler is?}
-{477}{}{Fogom. Viszont kérdeznék még egy s mást...}
-{485}{}{Haver, köszönöm NEKED!!!}
-{486}{}{Te kislány, köszönöm NEKED!!!}
-{487}{}{Rájöttél, ki ölte meg az öcsémet. Az egész Wright család köszönettel tartozik neked. És ez bizony nem akármi ám!}
-{488}{}{Értem. Kés?bb találkozunk, Chris.}
+{455}{}{(Chris egy pillanatig rÃ¡dbÃ¡mul, aztÃ¡n neked ugrik!)}
+{456}{}{SzÃ³val ennek Ã­gy kell lennie, he? RENDBEN, AKKOR GYERÃœ...}
+{465}{}{Ã‰n a MordinÃ³kra szavaznÃ©k. Vagy az egyik dÃ­lerÃ¼kre, vagy az egyik MordinÃ³ra szemÃ©lyesen. Azok a gyÃ¶kerek tonnaszÃ¡m gyÃ¡rtjÃ¡k a Jetet.}
+{466}{}{Fogom. Viszont kÃ©rdeznÃ©k mÃ©g egy s mÃ¡st...}
+{467}{}{Szerinted melyik dÃ­ler adhatta el Richard-nak?}
+{468}{}{Ã‰rtem. Most mennem kell.}
+{475}{}{BÃ¡rmelyik lehetett: vagy CsipkÃ©s Jimmy J., az a sebhelyes faszkalap a Sz?z utca sarkÃ¡n, vagy az a gÃ¶rÃ©ny RakÃ©tÃ¡s Renesco, aki a Nyugati Negyedbeli er?dÃ­tett hÃ¡zikÃ³jÃ¡ban Ã¡rusÃ­tja a JetjÃ©t.}
+{476}{}{Van mÃ©g mÃ¡s dÃ­ler is?}
+{477}{}{Fogom. Viszont kÃ©rdeznÃ©k mÃ©g egy s mÃ¡st...}
+{485}{}{Haver, kÃ¶szÃ¶nÃ¶m NEKED!!!}
+{486}{}{Te kislÃ¡ny, kÃ¶szÃ¶nÃ¶m NEKED!!!}
+{487}{}{RÃ¡jÃ¶ttÃ©l, ki Ã¶lte meg az Ã¶csÃ©met. Az egÃ©sz Wright csalÃ¡d kÃ¶szÃ¶nettel tartozik neked. Ã‰s ez bizony nem akÃ¡rmi Ã¡m!}
+{488}{}{Ã‰rtem. KÃ©s?bb talÃ¡lkozunk, Chris.}
 {495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
  he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
-{496}{}{Fogom. Viszont kérdeznék még egy s mást...}
-{497}{}{Csipkés Jimmy J, a Rakétás Renesco, Jules és Kis Jesus... mindegyiknek utánanézek. Kösz az infóért, Chris.}
-{1200}{}{. Szép munka volt valagba rúgni az Enklávés fiúkat!}
-{1201}{}{! Büszke lehetsz magadra!}
+{496}{}{Fogom. Viszont kÃ©rdeznÃ©k mÃ©g egy s mÃ¡st...}
+{497}{}{CsipkÃ©s Jimmy J, a RakÃ©tÃ¡s Renesco, Jules Ã©s Kis Jesus... mindegyiknek utÃ¡nanÃ©zek. KÃ¶sz az infÃ³Ã©rt, Chris.}
+{1200}{}{. SzÃ©p munka volt valagba rÃºgni az EnklÃ¡vÃ©s fiÃºkat!}
+{1201}{}{! BÃ¼szke lehetsz magadra!}
 {1202}{}{!}
-{1220}{}{. Mi járatban?}
+{1220}{}{. Mi jÃ¡ratban?}
 {1221}{}{?}
-{1222}{}{. Hogy mennek a dolgok mostanában?}
-{1246}{}{? Jól bánnak veled? Nincs szükséged semmire?}
+{1222}{}{. Hogy mennek a dolgok mostanÃ¡ban?}
+{1246}{}{? JÃ³l bÃ¡nnak veled? Nincs szÃ¼ksÃ©ged semmire?}

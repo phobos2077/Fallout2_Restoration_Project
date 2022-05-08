@@ -1,324 +1,324 @@
-{100}{}{Widzisz pani¹ Bishop.}
-{101}{}{Widzisz wydzieraj¹c¹ siê pani¹ Bishop.}
-{150}{}{Widzisz atrakcyjn¹ kobietê w œrednim wieku. Wygl¹da na znudzon¹.}
-{151}{}{Widzisz pani¹ Bishop. Patrzy gdzieœ w dal i wygl¹da na nieobecn¹.}
-{200}{}{(Kobieta odwraca twarz w twoj¹ stronê. W swojej krótkiej sukience wykonanej ze skór z³otych gekonów wygl¹da ca³kiem atrakcyjnie. Przygl¹da ci siê przez chwilê, po czym marszczy brwi) Tak? O co chodzi?}
-{201}{}{(Nieznacznie marszczy brwi) S³ucham? O co chodzi tym razem?}
+{100}{}{Widzisz paniÄ… Bishop.}
+{101}{}{Widzisz wydzierajÄ…cÄ… siÄ™ paniÄ… Bishop.}
+{150}{}{Widzisz atrakcyjnÄ… kobietÄ™ w Å›rednim wieku. WyglÄ…da na znudzonÄ….}
+{151}{}{Widzisz paniÄ… Bishop. Patrzy gdzieÅ› w dal i wyglÄ…da na nieobecnÄ….}
+{200}{}{(Kobieta odwraca twarz w twojÄ… stronÄ™. W swojej krÃ³tkiej sukience wykonanej ze skÃ³r zÅ‚otych gekonÃ³w wyglÄ…da caÅ‚kiem atrakcyjnie. PrzyglÄ…da ci siÄ™ przez chwilÄ™, po czym marszczy brwi) Tak? O co chodzi?}
+{201}{}{(Nieznacznie marszczy brwi) SÅ‚ucham? O co chodzi tym razem?}
 {203}{}{Stuk puk.}
-{204}{}{(Pogap siê na jej piersi i zacznij siê œliniæ.)}
-{205}{}{OdejdŸ}
-{206}{}{Kim jesteœ?}
-{207}{}{Czy pani Bishop? Pragnê zadaæ pani kilka pytañ.}
-{208}{}{Przepraszam, zasz³a pomy³ka. Do widzenia.}
+{204}{}{(Pogap siÄ™ na jej piersi i zacznij siÄ™ Å›liniÄ‡.)}
+{205}{}{OdejdÅº}
+{206}{}{Kim jesteÅ›?}
+{207}{}{Czy pani Bishop? PragnÄ™ zadaÄ‡ pani kilka pytaÅ„.}
+{208}{}{Przepraszam, zaszÅ‚a pomyÅ‚ka. Do widzenia.}
 {210}{}{*Co*?!}
 {211}{}{STUK PUK!}
-{212}{}{(Pogap siê na jej piersi i zacznij siê œliniæ.)}
+{212}{}{(Pogap siÄ™ na jej piersi i zacznij siÄ™ Å›liniÄ‡.)}
 {215}{}{(Mruga oczami) Kto tam?}
 {216}{}{Robin Hood.}
-{217}{}{Ja zapomnieæ}
+{217}{}{Ja zapomnieÄ‡}
 {218}{}{Kto gdzie?}
-{220}{}{(Wygl¹da na zdezorientowan¹) Robin Hood?}
-{221}{}{Tak, Robin Hood, bo ma³o jad³! HA HA HA HA HA HA HA haha hahaha... uapiesz?}
-{225}{}{(Rzuca ci mordercze spojrzenie) OdejdŸ natychmiast, albo ka¿ê ciê zastrzeliæ, ty md³y owadzie.}
-{226}{}{Hood... bo ma³o JAD£... hi hi hi hi... Robin HOOH? Tak, bo ma³o JAD£! HA HA HA HA HA...}
-{227}{}{Ja nie odaw w mydle... *snfff* ...ja dowciap... MAMA tak mówi... *snfff*... }
-{230}{}{(Jej oczy pod¹¿aj¹ za twym wzrokiem w stronê jej piersi. Pani Bishop rumieni siê ze z³oœci, otwiera usta... ale nic nie mówi) Nie zbywa ci na inteligencji... (Przygl¹da siê twojej sylwetce) Jednak¿e masz du¿o... si³y. ChodŸ ze mn¹ na chwilkê.}
-{231}{}{(Jej oczy pod¹¿aj¹ za twym wzrokiem w stronê jej piersi. Pani Bishop rumieni siê ze z³oœci, otwiera usta... ale nic nie mówi) Nie zbywa ci na inteligencji... (Przygl¹da siê twojej twarzy) Jednak¿e masz w sobie pewien... urok. ChodŸ ze mn¹ na chwilkê.}
-{232}{}{(Jej oczy pod¹¿aj¹ za twym wzrokiem w stronê wypuk³oœci jej tu³owia. Ton jej g³osu staje siê lodowaty) Subtelnoœæ nie nale¿y do twoich mocnych stron, czy¿ nie? (Spogl¹da na ciebie z niesmakiem) Lepiej odejdŸ zanim ka¿ê ciê zastrzeliæ.}
-{233}{}{(IdŸ za ni¹.)}
-{234}{}{My iœæ dobra miejsce?}
-{235}{}{Ty iœæ. Ja zostaæ.}
-{236}{}{OdejdŸ bez s³owa.}
-{240}{}{(Nieznacznie siê uœmiecha) Tak. *Bardzo* dobre miejsce. ChodŸ ze mn¹.}
-{245}{}{(Marszczy brwi, a jej twarz purpurowieje) Wynoœ siê st¹d zanim ka¿ê ciê zastrzeliæ.}
-{246}{}{Wybaaacz... ja iœæ}
-{250}{}{(Unosi brew) Wydaje mi siê, ¿e to *ja* powinnam tutaj zadawaæ pytania. (Krzy¿uje rêce) Nazywam siê Leslie Anne Bishop. }
-{251}{}{Mój m¹¿ jest g³ow¹ rodziny Bishopów w Nowym Reno. A TY jesteœ...?}
-{252}{}{Mój œwiêtej pamiêci m¹¿ by³ g³ow¹ rodziny Bishopów w Nowym Reno. A TY jesteœ...?}
-{253}{}{Nazywam siê }
-{254}{}{Nale¿ê do gatunku bezimiennych wêdrowców...}
-{255}{}{Podró¿ujê w poszukiwaniu Krypty 13. S³ysza³aœ mo¿e o niej?}
-{256}{}{Du¿o podró¿ujê... wiesz mo¿e, gdzie mogê znaleŸæ przedmiot o nazwie "Generator Ekosystemu Cudownej Krainy"?}
-{257}{}{Wiesz co, mo¿e lepiej ju¿ pójdê. Do widzenia.}
+{220}{}{(WyglÄ…da na zdezorientowanÄ…) Robin Hood?}
+{221}{}{Tak, Robin Hood, bo maÅ‚o jadÅ‚! HA HA HA HA HA HA HA haha hahaha... uapiesz?}
+{225}{}{(Rzuca ci mordercze spojrzenie) OdejdÅº natychmiast, albo kaÅ¼Ä™ ciÄ™ zastrzeliÄ‡, ty mdÅ‚y owadzie.}
+{226}{}{Hood... bo maÅ‚o JADÅ... hi hi hi hi... Robin HOOH? Tak, bo maÅ‚o JADÅ! HA HA HA HA HA...}
+{227}{}{Ja nie odaw w mydle... *snfff* ...ja dowciap... MAMA tak mÃ³wi... *snfff*... }
+{230}{}{(Jej oczy podÄ…Å¼ajÄ… za twym wzrokiem w stronÄ™ jej piersi. Pani Bishop rumieni siÄ™ ze zÅ‚oÅ›ci, otwiera usta... ale nic nie mÃ³wi) Nie zbywa ci na inteligencji... (PrzyglÄ…da siÄ™ twojej sylwetce) JednakÅ¼e masz duÅ¼o... siÅ‚y. ChodÅº ze mnÄ… na chwilkÄ™.}
+{231}{}{(Jej oczy podÄ…Å¼ajÄ… za twym wzrokiem w stronÄ™ jej piersi. Pani Bishop rumieni siÄ™ ze zÅ‚oÅ›ci, otwiera usta... ale nic nie mÃ³wi) Nie zbywa ci na inteligencji... (PrzyglÄ…da siÄ™ twojej twarzy) JednakÅ¼e masz w sobie pewien... urok. ChodÅº ze mnÄ… na chwilkÄ™.}
+{232}{}{(Jej oczy podÄ…Å¼ajÄ… za twym wzrokiem w stronÄ™ wypukÅ‚oÅ›ci jej tuÅ‚owia. Ton jej gÅ‚osu staje siÄ™ lodowaty) SubtelnoÅ›Ä‡ nie naleÅ¼y do twoich mocnych stron, czyÅ¼ nie? (SpoglÄ…da na ciebie z niesmakiem) Lepiej odejdÅº zanim kaÅ¼Ä™ ciÄ™ zastrzeliÄ‡.}
+{233}{}{(IdÅº za niÄ….)}
+{234}{}{My iÅ›Ä‡ dobra miejsce?}
+{235}{}{Ty iÅ›Ä‡. Ja zostaÄ‡.}
+{236}{}{OdejdÅº bez sÅ‚owa.}
+{240}{}{(Nieznacznie siÄ™ uÅ›miecha) Tak. *Bardzo* dobre miejsce. ChodÅº ze mnÄ….}
+{245}{}{(Marszczy brwi, a jej twarz purpurowieje) WynoÅ› siÄ™ stÄ…d zanim kaÅ¼Ä™ ciÄ™ zastrzeliÄ‡.}
+{246}{}{Wybaaacz... ja iÅ›Ä‡}
+{250}{}{(Unosi brew) Wydaje mi siÄ™, Å¼e to *ja* powinnam tutaj zadawaÄ‡ pytania. (KrzyÅ¼uje rÄ™ce) Nazywam siÄ™ Leslie Anne Bishop. }
+{251}{}{MÃ³j mÄ…Å¼ jest gÅ‚owÄ… rodziny BishopÃ³w w Nowym Reno. A TY jesteÅ›...?}
+{252}{}{MÃ³j Å›wiÄ™tej pamiÄ™ci mÄ…Å¼ byÅ‚ gÅ‚owÄ… rodziny BishopÃ³w w Nowym Reno. A TY jesteÅ›...?}
+{253}{}{Nazywam siÄ™ }
+{254}{}{NaleÅ¼Ä™ do gatunku bezimiennych wÄ™drowcÃ³w...}
+{255}{}{PodrÃ³Å¼ujÄ™ w poszukiwaniu Krypty 13. SÅ‚yszaÅ‚aÅ› moÅ¼e o niej?}
+{256}{}{DuÅ¼o podrÃ³Å¼ujÄ™... wiesz moÅ¼e, gdzie mogÄ™ znaleÅºÄ‡ przedmiot o nazwie "Generator Ekosystemu Cudownej Krainy"?}
+{257}{}{Wiesz co, moÅ¼e lepiej juÅ¼ pÃ³jdÄ™. Do widzenia.}
 {260}{}{Tak?}
-{261}{}{Czy mo¿esz opowiedzieæ mi o panu Bishopie?}
-{262}{}{Czy mo¿esz opowiedzieæ mi o rodzinie Bishopów?}
-{263}{}{S³ysza³aœ kiedyœ o miejscu, które nazywa siê Krypta 13?}
-{264}{}{Wiesz mo¿e, gdzie mo¿na znaleŸæ przedmiot o nazwie "Generator Ekosystemu Cudownej Krainy"?}
-{265}{}{Niewa¿ne. Muszê ju¿ iœæ.}
-{270}{}{Mój m¹¿? To proste. Zmar³. POTWORNA tragedia. Wci¹¿ jeszcze nie dosz³am do siebie po tym ca³ym szampanie, który wypi³am, gdy o tym us³ysza³am.}
-{271}{}{Mój m¹¿? Jest g³ow¹ rodziny Bishopów. W kwestiach dyplomacji, interesów i kryminalnych dokonañ obdarzony jest swego rodzaju zwierzêc¹ chytroœci¹, któr¹ mo¿na tylko podziwiaæ, bez wzglêdu na to, jak bardzo gardzi siê innymi jego przymiotami.}
-{272}{}{O tak, jego taktyka wynajmowania tych "najeŸdŸców" w celu nêkania Kryptopolis wydaje siê ca³kiem efektywna.}
+{261}{}{Czy moÅ¼esz opowiedzieÄ‡ mi o panu Bishopie?}
+{262}{}{Czy moÅ¼esz opowiedzieÄ‡ mi o rodzinie BishopÃ³w?}
+{263}{}{SÅ‚yszaÅ‚aÅ› kiedyÅ› o miejscu, ktÃ³re nazywa siÄ™ Krypta 13?}
+{264}{}{Wiesz moÅ¼e, gdzie moÅ¼na znaleÅºÄ‡ przedmiot o nazwie "Generator Ekosystemu Cudownej Krainy"?}
+{265}{}{NiewaÅ¼ne. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{270}{}{MÃ³j mÄ…Å¼? To proste. ZmarÅ‚. POTWORNA tragedia. WciÄ…Å¼ jeszcze nie doszÅ‚am do siebie po tym caÅ‚ym szampanie, ktÃ³ry wypiÅ‚am, gdy o tym usÅ‚yszaÅ‚am.}
+{271}{}{MÃ³j mÄ…Å¼? Jest gÅ‚owÄ… rodziny BishopÃ³w. W kwestiach dyplomacji, interesÃ³w i kryminalnych dokonaÅ„ obdarzony jest swego rodzaju zwierzÄ™cÄ… chytroÅ›ciÄ…, ktÃ³rÄ… moÅ¼na tylko podziwiaÄ‡, bez wzglÄ™du na to, jak bardzo gardzi siÄ™ innymi jego przymiotami.}
+{272}{}{O tak, jego taktyka wynajmowania tych "najeÅºdÅºcÃ³w" w celu nÄ™kania Kryptopolis wydaje siÄ™ caÅ‚kiem efektywna.}
 {273}{}{Inne przymioty?}
-{275}{}{Przepraszam za to pytanie. Lepiej ju¿ pójdê.}
-{276}{}{Przepraszam pani¹, natarczywoœæ nie by³a moim celem. Pójdê ju¿.}
-{280}{}{(Marszczy brwi) Pozostawiê to twojej wyobraŸni. (Wygl¹da na zdenerwowan¹) Czy to ju¿ *wszystko*?}
-{281}{}{W³aœciwie to mam kilka innych pytañ...}
-{285}{}{O "rodzinie" Bishopów nie da siê powiedzieæ zupe³nie nic. Och... jest jeszcze ta rozszerzona rodzina p³atnych opryszków, najemników, dziwek, dealerów i niewolników, ale to naprawdê wszystko, do czego mo¿na odnieœæ pojêcie "rodziny" Bishopów.}
-{286}{}{To brzmi, jak gdyby twoje ma³¿eñstwo nie by³o tak zdrowe, jak mog³oby byæ.}
-{287}{}{Có¿, jest jeszcze ta "rodzina" najemników, których zatrudni³ do napadów na Kryptopolis.}
-{288}{}{Och. Mam kilka innych pytañ...}
-{295}{}{((Rzuca zdziwione spojrzenie twojej drugiej po³owie) A twoje jest? (Znowu siê marszczy) }
-{296}{}{Nie... mój œwiêtej pamiêci ma³¿onek by³ zajêty gromadzeniem potêgi. To rzadko kiedy pozostawia miejsce na... cokolwiek innego. }
-{297}{}{Nie... mój ma³¿onek jest zajêty gromadzeniem potêgi. To rzadko kiedy pozostawia miejsce na... cokolwiek innego. }
-{298}{}{Ponadto moja ukochana córka szybko nauczy³a siê, co oznacza bycie kobiet¹ w Nowym Reno.}
-{299}{}{Twoja córka?}
-{300}{}{Twoja córka Angela?}
-{301}{}{Mam kilka innych pytañ...}
-{305}{}{Tak, Angela, z któr¹ *spa³eœ*. Z pewnoœci¹ pamiêtasz? (Rzuca ci beznadziejne spojrzenie) Mam *nadziejê*, ¿e zastosowaliœcie antykoncepcjê. Jej hormony s¹ tak nieobliczalne, ¿e zap³odni³aby j¹ nawet niewinna wzmianka o spermie.}
-{306}{}{Tak, moja córka Angela. Zrobi³ siê z niej ma³y nygus. (Uœmiecha siê z ¿alem) Jaka matka, taka córka... (Wzdycha z irytacj¹) A teraz, czy to ju¿ *wszystko*?}
-{308}{}{Uch, antyk... antyk-on-cja...? Uch, no có¿, chyba j¹ wziêliœmy... cokolwiek to jest. Wiesz co? Chyba lepiej natychmiast pójdê to sprawdziæ.}
-{309}{}{Uch, prezerwatywy? Pewnie, ¿e u¿yliœmy. Tak myœlê. To znaczy, jestem ca³kiem pewny. Mo¿e lepiej natychmiast pójdê to sprawdziæ.}
+{275}{}{Przepraszam za to pytanie. Lepiej juÅ¼ pÃ³jdÄ™.}
+{276}{}{Przepraszam paniÄ…, natarczywoÅ›Ä‡ nie byÅ‚a moim celem. PÃ³jdÄ™ juÅ¼.}
+{280}{}{(Marszczy brwi) PozostawiÄ™ to twojej wyobraÅºni. (WyglÄ…da na zdenerwowanÄ…) Czy to juÅ¼ *wszystko*?}
+{281}{}{WÅ‚aÅ›ciwie to mam kilka innych pytaÅ„...}
+{285}{}{O "rodzinie" BishopÃ³w nie da siÄ™ powiedzieÄ‡ zupeÅ‚nie nic. Och... jest jeszcze ta rozszerzona rodzina pÅ‚atnych opryszkÃ³w, najemnikÃ³w, dziwek, dealerÃ³w i niewolnikÃ³w, ale to naprawdÄ™ wszystko, do czego moÅ¼na odnieÅ›Ä‡ pojÄ™cie "rodziny" BishopÃ³w.}
+{286}{}{To brzmi, jak gdyby twoje maÅ‚Å¼eÅ„stwo nie byÅ‚o tak zdrowe, jak mogÅ‚oby byÄ‡.}
+{287}{}{CÃ³Å¼, jest jeszcze ta "rodzina" najemnikÃ³w, ktÃ³rych zatrudniÅ‚ do napadÃ³w na Kryptopolis.}
+{288}{}{Och. Mam kilka innych pytaÅ„...}
+{295}{}{((Rzuca zdziwione spojrzenie twojej drugiej poÅ‚owie) A twoje jest? (Znowu siÄ™ marszczy) }
+{296}{}{Nie... mÃ³j Å›wiÄ™tej pamiÄ™ci maÅ‚Å¼onek byÅ‚ zajÄ™ty gromadzeniem potÄ™gi. To rzadko kiedy pozostawia miejsce na... cokolwiek innego. }
+{297}{}{Nie... mÃ³j maÅ‚Å¼onek jest zajÄ™ty gromadzeniem potÄ™gi. To rzadko kiedy pozostawia miejsce na... cokolwiek innego. }
+{298}{}{Ponadto moja ukochana cÃ³rka szybko nauczyÅ‚a siÄ™, co oznacza bycie kobietÄ… w Nowym Reno.}
+{299}{}{Twoja cÃ³rka?}
+{300}{}{Twoja cÃ³rka Angela?}
+{301}{}{Mam kilka innych pytaÅ„...}
+{305}{}{Tak, Angela, z ktÃ³rÄ… *spaÅ‚eÅ›*. Z pewnoÅ›ciÄ… pamiÄ™tasz? (Rzuca ci beznadziejne spojrzenie) Mam *nadziejÄ™*, Å¼e zastosowaliÅ›cie antykoncepcjÄ™. Jej hormony sÄ… tak nieobliczalne, Å¼e zapÅ‚odniÅ‚aby jÄ… nawet niewinna wzmianka o spermie.}
+{306}{}{Tak, moja cÃ³rka Angela. ZrobiÅ‚ siÄ™ z niej maÅ‚y nygus. (UÅ›miecha siÄ™ z Å¼alem) Jaka matka, taka cÃ³rka... (Wzdycha z irytacjÄ…) A teraz, czy to juÅ¼ *wszystko*?}
+{308}{}{Uch, antyk... antyk-on-cja...? Uch, no cÃ³Å¼, chyba jÄ… wziÄ™liÅ›my... cokolwiek to jest. Wiesz co? Chyba lepiej natychmiast pÃ³jdÄ™ to sprawdziÄ‡.}
+{309}{}{Uch, prezerwatywy? Pewnie, Å¼e uÅ¼yliÅ›my. Tak myÅ›lÄ™. To znaczy, jestem caÅ‚kiem pewny. MoÅ¼e lepiej natychmiast pÃ³jdÄ™ to sprawdziÄ‡.}
 {315}{}{"}
-{316}{}{(Marszczy brwi) Bezimiennych wêdrowców. Jakie to niesamowicie otwarte i pe³ne zaufania z twojej strony. I jak ci siê na litoœæ Bosk¹ wydaje - w czym te¿ mogê pomóc "bezimiennym wêdrowcom"?}
-{321}{}{Niewa¿ne, dziêki. Muszê ju¿ lecieæ.}
-{325}{}{Wiem, gdzie mo¿na by znaleŸæ Generator Ekosystemu... ale to ci niewiele pomo¿e. Ten egzemplarz zosta³ ju¿ wykorzystany.}
-{326}{}{Gdzie siê znajduje ten Generator Ekosystemu Cudownej Krainy?}
-{328}{}{W takim razie jest dla mnie bezu¿yteczny... ale i tak dziêki.}
-{330}{}{(Uœmiecha siê nieznacznie, jak gdyby na wspomnienie czegoœ mi³ego) Zdarzy³o ci siê kiedyœ byæ w Kryptopolis? To na pó³nocny wschód od Nowego Reno. Mieli kiedyœ taki generator... kiedyœ, dawno temu, ale zu¿yli go, kiedy wyszli ze swojej Krypty na powierzchniê.}
+{316}{}{(Marszczy brwi) Bezimiennych wÄ™drowcÃ³w. Jakie to niesamowicie otwarte i peÅ‚ne zaufania z twojej strony. I jak ci siÄ™ na litoÅ›Ä‡ BoskÄ… wydaje - w czym teÅ¼ mogÄ™ pomÃ³c "bezimiennym wÄ™drowcom"?}
+{321}{}{NiewaÅ¼ne, dziÄ™ki. MuszÄ™ juÅ¼ lecieÄ‡.}
+{325}{}{Wiem, gdzie moÅ¼na by znaleÅºÄ‡ Generator Ekosystemu... ale to ci niewiele pomoÅ¼e. Ten egzemplarz zostaÅ‚ juÅ¼ wykorzystany.}
+{326}{}{Gdzie siÄ™ znajduje ten Generator Ekosystemu Cudownej Krainy?}
+{328}{}{W takim razie jest dla mnie bezuÅ¼yteczny... ale i tak dziÄ™ki.}
+{330}{}{(UÅ›miecha siÄ™ nieznacznie, jak gdyby na wspomnienie czegoÅ› miÅ‚ego) ZdarzyÅ‚o ci siÄ™ kiedyÅ› byÄ‡ w Kryptopolis? To na pÃ³Å‚nocny wschÃ³d od Nowego Reno. Mieli kiedyÅ› taki generator... kiedyÅ›, dawno temu, ale zuÅ¼yli go, kiedy wyszli ze swojej Krypty na powierzchniÄ™.}
 {331}{}{Opowiedz mi o Kryptopolis?}
-{332}{}{Mogê zadaæ inne pytanie?}
-{333}{}{A wiêc pójdê sprawdziæ w Kryptopolis. Dziêki za informacjê.}
-{335}{}{(Uœmiech znika, a w wyrazie jej twarzy widaæ ch³ód i urazê) Nie ma tu nic, o czym mo¿na by opowiadaæ. Myœlê, ¿e tamtejszy klimat wyda³by ci siê... odmienny. A teraz, czy to ju¿ wszystko?}
-{336}{}{Nie, prawdê mówi¹c, mam kilka innych pytañ...}
-{337}{}{Tak, to wszystko. Przepraszam za k³opot.}
-{340}{}{Jak ju¿ powiedzia³am, Kryptopolis le¿y na pó³nocnym wschodzie. Czy to jest to miejsce, do którego siê odnosisz?}
-{341}{}{Wiem o Krypto *polis* na pó³nocnym wschodzie. Czy to o to ci chodzi?}
+{332}{}{MogÄ™ zadaÄ‡ inne pytanie?}
+{333}{}{A wiÄ™c pÃ³jdÄ™ sprawdziÄ‡ w Kryptopolis. DziÄ™ki za informacjÄ™.}
+{335}{}{(UÅ›miech znika, a w wyrazie jej twarzy widaÄ‡ chÅ‚Ã³d i urazÄ™) Nie ma tu nic, o czym moÅ¼na by opowiadaÄ‡. MyÅ›lÄ™, Å¼e tamtejszy klimat wydaÅ‚by ci siÄ™... odmienny. A teraz, czy to juÅ¼ wszystko?}
+{336}{}{Nie, prawdÄ™ mÃ³wiÄ…c, mam kilka innych pytaÅ„...}
+{337}{}{Tak, to wszystko. Przepraszam za kÅ‚opot.}
+{340}{}{Jak juÅ¼ powiedziaÅ‚am, Kryptopolis leÅ¼y na pÃ³Å‚nocnym wschodzie. Czy to jest to miejsce, do ktÃ³rego siÄ™ odnosisz?}
+{341}{}{Wiem o Krypto *polis* na pÃ³Å‚nocnym wschodzie. Czy to o to ci chodzi?}
 {342}{}{Nie. Nie to miejsce.}
-{343}{}{Mo¿liwe.}
-{345}{}{Mo¿e... lepiej pójdê sprawdziæ. Dziêki.}
-{350}{}{Hmnnn. No có¿, w takim razie obawiam siê, ¿e nie potrafiê ci pomóc.}
-{352}{}{Znasz kogoœ, kto móg³by coœ wiedzieæ?}
-{353}{}{No tak, jasne... i tak dziêki.}
-{354}{}{W takim razie dziêkujê pani za poœwiêcony czas. Bardzo mi pani pomog³a.}
-{360}{}{W taki razie byæ mo¿e nale¿a³oby siê tam udaæ.}
-{362}{}{W porz¹dku, pójdê to sprawdziæ.}
-{363}{}{Rozumiem, dziêkujê za poœwiêcony czas. Bardzo mi pani pomog³a.}
-{370}{}{Mój drogi... }
+{343}{}{MoÅ¼liwe.}
+{345}{}{MoÅ¼e... lepiej pÃ³jdÄ™ sprawdziÄ‡. DziÄ™ki.}
+{350}{}{Hmnnn. No cÃ³Å¼, w takim razie obawiam siÄ™, Å¼e nie potrafiÄ™ ci pomÃ³c.}
+{352}{}{Znasz kogoÅ›, kto mÃ³gÅ‚by coÅ› wiedzieÄ‡?}
+{353}{}{No tak, jasne... i tak dziÄ™ki.}
+{354}{}{W takim razie dziÄ™kujÄ™ pani za poÅ›wiÄ™cony czas. Bardzo mi pani pomogÅ‚a.}
+{360}{}{W taki razie byÄ‡ moÅ¼e naleÅ¼aÅ‚oby siÄ™ tam udaÄ‡.}
+{362}{}{W porzÄ…dku, pÃ³jdÄ™ to sprawdziÄ‡.}
+{363}{}{Rozumiem, dziÄ™kujÄ™ za poÅ›wiÄ™cony czas. Bardzo mi pani pomogÅ‚a.}
+{370}{}{MÃ³j drogi... }
 {371}{}{Moja droga... }
-{372}{}{Ludziom z Nowego Reno wystarczaj¹co du¿o k³opotu sprawia przypomnienie sobie z rana, u której dziwki zostawili swojego ptaszka, nie wspominaj¹c ju¿ o znalezieniu czegokolwiek w rodzaju rzeczy, o której mówisz.}
-{374}{}{W porz¹dku... tak tylko pytam. Na razie.}
-{375}{}{Rozumiem. Dziêkujê za poœwiêcony czas.}
-{380}{}{Zaczekaj chwilkê. (Przygl¹da ci siê) Wygl¹da na to, ¿e jesteœ tu... od niedawna. Masz mo¿e chêæ na wspólnego drinka w moich komnatach? Porozmawiamy o Nowym Reno. To niebezpieczne miejsce dla tych, którym nieznane s¹ tutejsze obyczaje.}
-{381}{}{Jedna chwilka, zanim odejdziesz. (Znowu ci siê przygl¹da) Masz teraz czas na drinka? Czy te¿ mo¿e znów musisz pêdziæ?}
-{382}{}{Pod warunkiem, ¿e drink to tylko pocz¹tek.}
-{383}{}{Pewnie. Ma³y drink by³by mile widziany.}
-{384}{}{Przykro mi pani Bishop, ale ³¹cz¹ mnie œluby.}
-{385}{}{Nie, dziêki. Naprawdê muszê ju¿ iœæ.}
-{386}{}{Nie ma mowy. Nie chcê, aby pani m¹¿... mia³ z³y humor.}
-{387}{}{Pracujê dla pani mê¿a. To by nie by³o w porz¹dku.}
-{390}{}{(Unosi brew) To siê oka¿e.}
-{391}{}{To wszystko, co chcê wiedzieæ. ChodŸmy.}
-{392}{}{Przykro mi pani Bishop, ale muszê odmówiæ... tym razem.}
-{393}{}{Przykro mi pani Bishop, ale nie mogê. Naprawdê muszê ju¿ iœæ.}
-{394}{}{Nie ma mowy. Nie zamierzam wchodziæ w drogê pani mê¿owi.}
-{400}{}{(Œmieje siê) Przeceniasz siê. To tylko drink. }
-{401}{}{A JEŒLI cokolwiek mia³oby siê staæ, zapewniam ciê, ¿e mój m¹¿ jest CA£KIEM martwy. }
-{402}{}{A JEŒLI cokolwiek mia³oby siê staæ, zapewniam ciê, ¿e mój m¹¿ NIE jest zazdrosnym typem. }
-{404}{}{Przykro mi, pani Bishop, ale mimo to muszê odmówiæ... tym razem.}
-{410}{}{(Unosi brew) Mój m¹¿ mo¿e i jest martwy, ale jego ludzie s¹ do mojej dyspozycji. Mog¹ okazaæ siê doœæ... gniewni... gdy ktoœ odmówi zaproszenia od pani Bishop. Czy masz *ca³kowit¹* pewnoœæ, ¿e nie chcesz siê do mnie przy³¹czyæ?}
-{411}{}{((Unosi brew) Mój m¹¿ nie jest zazdrosnym typem, ale mo¿e okazaæ siê doœæ... gniewny... jeœli ³askawe zaproszenie ze strony cz³onka rodziny Bishopów zostanie odrzucone. Czy masz *ca³kowit¹* pewnoœæ, ¿e nie chcesz siê do mnie przy³¹czyæ?}
-{412}{}{Mimo to muszê odmówiæ.}
-{413}{}{No dobra. To tylko ma³y drink.}
-{414}{}{Przykro mi, muszê ju¿ iœæ.}
-{415}{}{(Marszczy brwi) A wiêc odejdŸ. Jeœli nasze œcie¿ki siê jeszcze kiedyœ skrzy¿uj¹, miej pewnoœæ, ¿e nie bêdê w najmniejszym stopniu zainteresowana rozmawianiem z tob¹.}
-{416}{}{Rozumiem... ¿egnam.}
-{420}{}{(Kiwa g³ow¹ i uœmiecha siê) Doskonale. ChodŸ ze mn¹.}
-{425}{}{A wiêc wróæ kiedyœ. To zaproszenie pozostaje otwart¹ propozycj¹.}
+{372}{}{Ludziom z Nowego Reno wystarczajÄ…co duÅ¼o kÅ‚opotu sprawia przypomnienie sobie z rana, u ktÃ³rej dziwki zostawili swojego ptaszka, nie wspominajÄ…c juÅ¼ o znalezieniu czegokolwiek w rodzaju rzeczy, o ktÃ³rej mÃ³wisz.}
+{374}{}{W porzÄ…dku... tak tylko pytam. Na razie.}
+{375}{}{Rozumiem. DziÄ™kujÄ™ za poÅ›wiÄ™cony czas.}
+{380}{}{Zaczekaj chwilkÄ™. (PrzyglÄ…da ci siÄ™) WyglÄ…da na to, Å¼e jesteÅ› tu... od niedawna. Masz moÅ¼e chÄ™Ä‡ na wspÃ³lnego drinka w moich komnatach? Porozmawiamy o Nowym Reno. To niebezpieczne miejsce dla tych, ktÃ³rym nieznane sÄ… tutejsze obyczaje.}
+{381}{}{Jedna chwilka, zanim odejdziesz. (Znowu ci siÄ™ przyglÄ…da) Masz teraz czas na drinka? Czy teÅ¼ moÅ¼e znÃ³w musisz pÄ™dziÄ‡?}
+{382}{}{Pod warunkiem, Å¼e drink to tylko poczÄ…tek.}
+{383}{}{Pewnie. MaÅ‚y drink byÅ‚by mile widziany.}
+{384}{}{Przykro mi pani Bishop, ale Å‚Ä…czÄ… mnie Å›luby.}
+{385}{}{Nie, dziÄ™ki. NaprawdÄ™ muszÄ™ juÅ¼ iÅ›Ä‡.}
+{386}{}{Nie ma mowy. Nie chcÄ™, aby pani mÄ…Å¼... miaÅ‚ zÅ‚y humor.}
+{387}{}{PracujÄ™ dla pani mÄ™Å¼a. To by nie byÅ‚o w porzÄ…dku.}
+{390}{}{(Unosi brew) To siÄ™ okaÅ¼e.}
+{391}{}{To wszystko, co chcÄ™ wiedzieÄ‡. ChodÅºmy.}
+{392}{}{Przykro mi pani Bishop, ale muszÄ™ odmÃ³wiÄ‡... tym razem.}
+{393}{}{Przykro mi pani Bishop, ale nie mogÄ™. NaprawdÄ™ muszÄ™ juÅ¼ iÅ›Ä‡.}
+{394}{}{Nie ma mowy. Nie zamierzam wchodziÄ‡ w drogÄ™ pani mÄ™Å¼owi.}
+{400}{}{(Åšmieje siÄ™) Przeceniasz siÄ™. To tylko drink. }
+{401}{}{A JEÅšLI cokolwiek miaÅ‚oby siÄ™ staÄ‡, zapewniam ciÄ™, Å¼e mÃ³j mÄ…Å¼ jest CAÅKIEM martwy. }
+{402}{}{A JEÅšLI cokolwiek miaÅ‚oby siÄ™ staÄ‡, zapewniam ciÄ™, Å¼e mÃ³j mÄ…Å¼ NIE jest zazdrosnym typem. }
+{404}{}{Przykro mi, pani Bishop, ale mimo to muszÄ™ odmÃ³wiÄ‡... tym razem.}
+{410}{}{(Unosi brew) MÃ³j mÄ…Å¼ moÅ¼e i jest martwy, ale jego ludzie sÄ… do mojej dyspozycji. MogÄ… okazaÄ‡ siÄ™ doÅ›Ä‡... gniewni... gdy ktoÅ› odmÃ³wi zaproszenia od pani Bishop. Czy masz *caÅ‚kowitÄ…* pewnoÅ›Ä‡, Å¼e nie chcesz siÄ™ do mnie przyÅ‚Ä…czyÄ‡?}
+{411}{}{((Unosi brew) MÃ³j mÄ…Å¼ nie jest zazdrosnym typem, ale moÅ¼e okazaÄ‡ siÄ™ doÅ›Ä‡... gniewny... jeÅ›li Å‚askawe zaproszenie ze strony czÅ‚onka rodziny BishopÃ³w zostanie odrzucone. Czy masz *caÅ‚kowitÄ…* pewnoÅ›Ä‡, Å¼e nie chcesz siÄ™ do mnie przyÅ‚Ä…czyÄ‡?}
+{412}{}{Mimo to muszÄ™ odmÃ³wiÄ‡.}
+{413}{}{No dobra. To tylko maÅ‚y drink.}
+{414}{}{Przykro mi, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{415}{}{(Marszczy brwi) A wiÄ™c odejdÅº. JeÅ›li nasze Å›cieÅ¼ki siÄ™ jeszcze kiedyÅ› skrzyÅ¼ujÄ…, miej pewnoÅ›Ä‡, Å¼e nie bÄ™dÄ™ w najmniejszym stopniu zainteresowana rozmawianiem z tobÄ….}
+{416}{}{Rozumiem... Å¼egnam.}
+{420}{}{(Kiwa gÅ‚owÄ… i uÅ›miecha siÄ™) Doskonale. ChodÅº ze mnÄ….}
+{425}{}{A wiÄ™c wrÃ³Ä‡ kiedyÅ›. To zaproszenie pozostaje otwartÄ… propozycjÄ….}
 {426}{}{Uch... dobrze. Do widzenia.}
-{430}{}{Nie mamy sobie nic do powiedzenia. OdejdŸ zanim zawo³am stra¿e.}
-{435}{}{(Na twój widok pani Bishop uœmiecha siê nieznacznie) Ale¿ proszê, witam znowu. W czym mogê ci pomóc?}
-{436}{}{Jeœli ma pani teraz chwilkê, to pragnê wypiæ drinka w pani towarzystwie.}
-{437}{}{Jeœli ma pani czas, pragnê... wypiæ z pani¹ kolejnego drinka.}
-{438}{}{Mam kilka pytañ...}
-{439}{}{Dziêki, ale nie w tej chwili. Muszê lecieæ.}
-{440}{}{No i? Mnie te¿. Czym wed³ug ciebie jest moje zaproszenie? Jakimœ wstêpem do rzeczy tylko dla doros³ych? Daj spokój, daruj sobie takie g³upoty. No to jak, idziesz?}
-{441}{}{W porz¹dku. To tylko drink.}
-{443}{}{Przykro mi, pani Bishop, ale nie mogê. Naprawdê muszê ju¿ iœæ.}
-{445}{}{A tak... to dobrze przez mojego mê¿a przemyœlana próba zmuszenia innych do przyjêcia jego gestu dobrej woli. Wola³abym raczej, ¿eby ci najeŸdŸcy sp³onêli w ogniu strzeg¹cych Kryptopolis dzia³ laserowych.}
+{430}{}{Nie mamy sobie nic do powiedzenia. OdejdÅº zanim zawoÅ‚am straÅ¼e.}
+{435}{}{(Na twÃ³j widok pani Bishop uÅ›miecha siÄ™ nieznacznie) AleÅ¼ proszÄ™, witam znowu. W czym mogÄ™ ci pomÃ³c?}
+{436}{}{JeÅ›li ma pani teraz chwilkÄ™, to pragnÄ™ wypiÄ‡ drinka w pani towarzystwie.}
+{437}{}{JeÅ›li ma pani czas, pragnÄ™... wypiÄ‡ z paniÄ… kolejnego drinka.}
+{438}{}{Mam kilka pytaÅ„...}
+{439}{}{DziÄ™ki, ale nie w tej chwili. MuszÄ™ lecieÄ‡.}
+{440}{}{No i? Mnie teÅ¼. Czym wedÅ‚ug ciebie jest moje zaproszenie? JakimÅ› wstÄ™pem do rzeczy tylko dla dorosÅ‚ych? Daj spokÃ³j, daruj sobie takie gÅ‚upoty. No to jak, idziesz?}
+{441}{}{W porzÄ…dku. To tylko drink.}
+{443}{}{Przykro mi, pani Bishop, ale nie mogÄ™. NaprawdÄ™ muszÄ™ juÅ¼ iÅ›Ä‡.}
+{445}{}{A tak... to dobrze przez mojego mÄ™Å¼a przemyÅ›lana prÃ³ba zmuszenia innych do przyjÄ™cia jego gestu dobrej woli. WolaÅ‚abym raczej, Å¼eby ci najeÅºdÅºcy spÅ‚onÄ™li w ogniu strzegÄ…cych Kryptopolis dziaÅ‚ laserowych.}
 {446}{}{"Gest dobrej woli"?}
-{447}{}{Rozumiem. Mam kilka innych pytañ...}
-{448}{}{Interesuj¹ce... có¿, dziêki za informacjê. Do widzenia.}
-{449}{}{Hmmm... interesuj¹ce. Dziêkujê pani za poœwiêcony czas.}
-{450}{}{Tak. Jego wstêpna propozycja sojuszu zosta³a odrzucona, wiêc spróbowa³ ponownie wcieliæ w ¿ycie swoje pokojowe plany poprzez u¿ycie przemocy, która mia³aby zmusiæ Kryptopolis do uleg³oœci... oczywiœcie poœredniej.}
-{451}{}{A w³aœnie, zastanawia³o mnie to. Czy zamiast przy³¹czaæ siê do Bishopa, Kryptopolis nie wola³oby raczej zwróciæ siê o pomoc do kogoœ innego?}
-{452}{}{A w³aœnie, zastanawia³o mnie to. Czy zamiast przy³¹czaæ siê do Bishopa, Kryptopolis nie wola³oby raczej zwróciæ siê o pomoc do kogoœ innego... na przyk³ad RNK?}
-{453}{}{Masz na to jakieœ dowody?}
-{460}{}{(Uœmiecha siê zalotnie) No no, ale¿ z *ciebie* têga g³owa...}
+{447}{}{Rozumiem. Mam kilka innych pytaÅ„...}
+{448}{}{InteresujÄ…ce... cÃ³Å¼, dziÄ™ki za informacjÄ™. Do widzenia.}
+{449}{}{Hmmm... interesujÄ…ce. DziÄ™kujÄ™ pani za poÅ›wiÄ™cony czas.}
+{450}{}{Tak. Jego wstÄ™pna propozycja sojuszu zostaÅ‚a odrzucona, wiÄ™c sprÃ³bowaÅ‚ ponownie wcieliÄ‡ w Å¼ycie swoje pokojowe plany poprzez uÅ¼ycie przemocy, ktÃ³ra miaÅ‚aby zmusiÄ‡ Kryptopolis do ulegÅ‚oÅ›ci... oczywiÅ›cie poÅ›redniej.}
+{451}{}{A wÅ‚aÅ›nie, zastanawiaÅ‚o mnie to. Czy zamiast przyÅ‚Ä…czaÄ‡ siÄ™ do Bishopa, Kryptopolis nie wolaÅ‚oby raczej zwrÃ³ciÄ‡ siÄ™ o pomoc do kogoÅ› innego?}
+{452}{}{A wÅ‚aÅ›nie, zastanawiaÅ‚o mnie to. Czy zamiast przyÅ‚Ä…czaÄ‡ siÄ™ do Bishopa, Kryptopolis nie wolaÅ‚oby raczej zwrÃ³ciÄ‡ siÄ™ o pomoc do kogoÅ› innego... na przykÅ‚ad RNK?}
+{453}{}{Masz na to jakieÅ› dowody?}
+{460}{}{(UÅ›miecha siÄ™ zalotnie) No no, aleÅ¼ z *ciebie* tÄ™ga gÅ‚owa...}
 {461}{}{No i? Wiesz, co planuje Bishop?}
-{462}{}{Mo¿e czasami... zale¿y kogo pytaæ. Mam kilka innych pytañ...}
-{470}{}{(Marszczy siê) Nie. A powinnam? (Przygl¹da ci siê uwa¿nie i uœmiecha siê zalotnie) }
-{471}{}{(Marszczy siê) Nie. A powinnam? (Przygl¹da ci siê uwa¿nie i znów zalotnie siê uœmiecha) }
-{472}{}{Z ca³¹ pewnoœci¹ zadajesz mnóstwo niebezpiecznych pytañ o interesy mojego mê¿a. Na twoim miejscu by³abym *bardzo* ostro¿na.}
-{473}{}{Uch, dziêki za radê. Mam kilka innych, bezpieczniejszych pytañ...}
-{474}{}{Tak zrobiê. Do widzenia.}
-{475}{}{Dziêkujê pani za poœwiêcony czas... i za radê.}
+{462}{}{MoÅ¼e czasami... zaleÅ¼y kogo pytaÄ‡. Mam kilka innych pytaÅ„...}
+{470}{}{(Marszczy siÄ™) Nie. A powinnam? (PrzyglÄ…da ci siÄ™ uwaÅ¼nie i uÅ›miecha siÄ™ zalotnie) }
+{471}{}{(Marszczy siÄ™) Nie. A powinnam? (PrzyglÄ…da ci siÄ™ uwaÅ¼nie i znÃ³w zalotnie siÄ™ uÅ›miecha) }
+{472}{}{Z caÅ‚Ä… pewnoÅ›ciÄ… zadajesz mnÃ³stwo niebezpiecznych pytaÅ„ o interesy mojego mÄ™Å¼a. Na twoim miejscu byÅ‚abym *bardzo* ostroÅ¼na.}
+{473}{}{Uch, dziÄ™ki za radÄ™. Mam kilka innych, bezpieczniejszych pytaÅ„...}
+{474}{}{Tak zrobiÄ™. Do widzenia.}
+{475}{}{DziÄ™kujÄ™ pani za poÅ›wiÄ™cony czas... i za radÄ™.}
 {480}{}{*Wzdycha*}
-{481}{}{Kolejny PRZEPIÊKNY dzieñ w Reno. Diabe³ pewnie tañczy z radoœci.}
-{482}{}{S¹dz¹c po t³umach w kasynie wygl¹da na to, ¿e mamy w Reno kolejny nap³yw ludzkiego œcieku...}
-{483}{}{Reno... "najohydniejsza przystañ ³ajdactwa i wystêpku". Hmmmph.}
-{490}{}{Widzisz pani¹ Bishop, która w tej chwili œpi. Uœmiecha siê przez sen z zadowoleniem.}
-{491}{}{Widzisz pani¹ Bishop, która w tej chwili œpi. Gdy na ni¹ patrzysz, wzdycha z zadowoleniem i obraca siê we œnie na drugi bok.}
-{500}{}{Widzisz pani¹ Bishop. Trudno jest w tej chwili skupiæ siê na jej wygl¹dzie, poniewa¿ w³aœnie wo³a stra¿e.}
+{481}{}{Kolejny PRZEPIÄ˜KNY dzieÅ„ w Reno. DiabeÅ‚ pewnie taÅ„czy z radoÅ›ci.}
+{482}{}{SÄ…dzÄ…c po tÅ‚umach w kasynie wyglÄ…da na to, Å¼e mamy w Reno kolejny napÅ‚yw ludzkiego Å›cieku...}
+{483}{}{Reno... "najohydniejsza przystaÅ„ Å‚ajdactwa i wystÄ™pku". Hmmmph.}
+{490}{}{Widzisz paniÄ… Bishop, ktÃ³ra w tej chwili Å›pi. UÅ›miecha siÄ™ przez sen z zadowoleniem.}
+{491}{}{Widzisz paniÄ… Bishop, ktÃ³ra w tej chwili Å›pi. Gdy na niÄ… patrzysz, wzdycha z zadowoleniem i obraca siÄ™ we Å›nie na drugi bok.}
+{500}{}{Widzisz paniÄ… Bishop. Trudno jest w tej chwili skupiÄ‡ siÄ™ na jej wyglÄ…dzie, poniewaÅ¼ wÅ‚aÅ›nie woÅ‚a straÅ¼e.}
 {510}{}{Mmmmm... och, }
 {511}{}{Mmmzrrmnmn... jeszcze raz, }
 {512}{}{Szzzyfr do zamka... }
 {515}{}{Na pomoc! Intruz!}
-{516}{}{Kradzie¿! Kradzie¿!}
-{517}{}{Stra¿! Stra¿! Intruz!}
-{520}{}{(Zabiera ciê na górê to dziwnego, ³adnie pachn¹cego pokoju. Kiedy ju¿ tam jesteœcie, zaczyna wydawaæ ci dziwne polecenia, które sprawiaj¹, ¿e odczuwasz jednoczeœnie szczêœcie i niepokój.) Nie masz ochoty mnie dotkn¹æ?}
+{516}{}{KradzieÅ¼! KradzieÅ¼!}
+{517}{}{StraÅ¼! StraÅ¼! Intruz!}
+{520}{}{(Zabiera ciÄ™ na gÃ³rÄ™ to dziwnego, Å‚adnie pachnÄ…cego pokoju. Kiedy juÅ¼ tam jesteÅ›cie, zaczyna wydawaÄ‡ ci dziwne polecenia, ktÃ³re sprawiajÄ…, Å¼e odczuwasz jednoczeÅ›nie szczÄ™Å›cie i niepokÃ³j.) Nie masz ochoty mnie dotknÄ…Ä‡?}
 {521}{}{Aha, aha.}
 {522}{}{Nia nia.}
-{525}{}{Hmmmm. Bardzo dobrze. W takim razie po prostu po³ó¿ siê na ³ó¿ku, a ja zrobiê resztê.}
+{525}{}{Hmmmm. Bardzo dobrze. W takim razie po prostu poÅ‚Ã³Å¼ siÄ™ na Å‚Ã³Å¼ku, a ja zrobiÄ™ resztÄ™.}
 {526}{}{Ja odmawia ja nie CHCE ja chce do DOMU do Arroyo-yo.}
-{527}{}{Rób co ci ka¿e.}
-{530}{}{(Pani Bishop bierze g³êboki wdech i zaczyna krzyczeæ tak g³oœno, ¿e a¿ bol¹ ciê uszy! Krzyczy coœ, ¿e "straszy" i coœ o "z³ocie", ale nie rozumiesz, co dok³adnie, bo za g³oœno krzyczy.)}
-{531}{}{Cii! Jak nie bêdziesz cicho, George nie pozwoli mi pobawiæ siê z króliczkami! Ciii!}
-{532}{}{Co ciê straszy? Po co ci z³oto?}
+{527}{}{RÃ³b co ci kaÅ¼e.}
+{530}{}{(Pani Bishop bierze gÅ‚Ä™boki wdech i zaczyna krzyczeÄ‡ tak gÅ‚oÅ›no, Å¼e aÅ¼ bolÄ… ciÄ™ uszy! Krzyczy coÅ›, Å¼e "straszy" i coÅ› o "zÅ‚ocie", ale nie rozumiesz, co dokÅ‚adnie, bo za gÅ‚oÅ›no krzyczy.)}
+{531}{}{Cii! Jak nie bÄ™dziesz cicho, George nie pozwoli mi pobawiÄ‡ siÄ™ z krÃ³liczkami! Ciii!}
+{532}{}{Co ciÄ™ straszy? Po co ci zÅ‚oto?}
 {533}{}{Nie kszyk! Nie kszyk!}
-{535}{}{Tak, wiem, plotki szybko rozchodz¹ siê po Reno. (Wzdycha) Niewa¿ne... myœlê, ¿e sam zauwa¿ysz, ¿e jestem od niej du¿o bardziej doœwiadczona w kwestiach sprawiania przyjemnoœci mê¿czyŸnie. (Milczy) ZASTOSOWALIŒCIE antykoncepcjê, prawda?}
-{536}{}{Antyk... antyko... gumkê?}
-{537}{}{Prezerwatywê?}
-{538}{}{Jasne, samo siê u¿y³o z mojego inwentarza. Na pocz¹tku nie wiedzia³em, co siê z nim sta³o, ale siê domyœli³em.}
-{539}{}{Um... NAPRAWDÊ muszê ju¿ iœæ.}
-{540}{}{Tak, *prezerwatywê*. (Gapi siê ciebie) Œwietnie. Po prostu œwietnie. (Wzrusza ramionami). Có¿, mo¿e bêdê mia³a wnuka. A zreszt¹. Przestañ gadaæ i chodŸ tu.}
-{541}{}{Wiesz, to nie takie oczywiste, jakby siê mog³o wydawaæ. Za³o¿ê siê, ¿e to taki kaprys projektanta. (Wzrusza ramionami) A zreszt¹. Przestañ gadaæ i chodŸ tu.}
-{542}{}{Bardziej doœwiadczona ni¿ Angela, co? MUSZÊ to zobaczyæ.}
-{543}{}{Muszê lecieæ.}
-{545}{}{(Idziesz z pani¹ Bishop do jej komnat na drinka. Rozmawiacie przez kilka chwil, po czym pani Bishop podchodzi i zaczyna siê przymilaæ.)}
-{546}{}{IdŸ na ca³oœæ.}
-{547}{}{Obejmij j¹...}
-{548}{}{Uch, proszê pani, spa³em z pani córk¹. Mo¿e nie powinniœmy...}
-{549}{}{Zanim to "zrobimy", czy nie zamierzasz otworzyæ swojego sejfu, tak jak twoja cór... eee, tak jak to jest w zwyczaju?}
-{550}{}{Przykro mi, ale naprawdê muszê ju¿ lecieæ.}
-{555}{}{Nie. A teraz chodŸ tu.}
-{556}{}{IdŸ na ca³oœæ.}
-{557}{}{Przykro mi, ale NAPRAWDÊ muszê lecieæ.}
-{560}{}{Och?! Gdzie ci siê tak œpieszy?}
+{535}{}{Tak, wiem, plotki szybko rozchodzÄ… siÄ™ po Reno. (Wzdycha) NiewaÅ¼ne... myÅ›lÄ™, Å¼e sam zauwaÅ¼ysz, Å¼e jestem od niej duÅ¼o bardziej doÅ›wiadczona w kwestiach sprawiania przyjemnoÅ›ci mÄ™Å¼czyÅºnie. (Milczy) ZASTOSOWALIÅšCIE antykoncepcjÄ™, prawda?}
+{536}{}{Antyk... antyko... gumkÄ™?}
+{537}{}{PrezerwatywÄ™?}
+{538}{}{Jasne, samo siÄ™ uÅ¼yÅ‚o z mojego inwentarza. Na poczÄ…tku nie wiedziaÅ‚em, co siÄ™ z nim staÅ‚o, ale siÄ™ domyÅ›liÅ‚em.}
+{539}{}{Um... NAPRAWDÄ˜ muszÄ™ juÅ¼ iÅ›Ä‡.}
+{540}{}{Tak, *prezerwatywÄ™*. (Gapi siÄ™ ciebie) Åšwietnie. Po prostu Å›wietnie. (Wzrusza ramionami). CÃ³Å¼, moÅ¼e bÄ™dÄ™ miaÅ‚a wnuka. A zresztÄ…. PrzestaÅ„ gadaÄ‡ i chodÅº tu.}
+{541}{}{Wiesz, to nie takie oczywiste, jakby siÄ™ mogÅ‚o wydawaÄ‡. ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e to taki kaprys projektanta. (Wzrusza ramionami) A zresztÄ…. PrzestaÅ„ gadaÄ‡ i chodÅº tu.}
+{542}{}{Bardziej doÅ›wiadczona niÅ¼ Angela, co? MUSZÄ˜ to zobaczyÄ‡.}
+{543}{}{MuszÄ™ lecieÄ‡.}
+{545}{}{(Idziesz z paniÄ… Bishop do jej komnat na drinka. Rozmawiacie przez kilka chwil, po czym pani Bishop podchodzi i zaczyna siÄ™ przymilaÄ‡.)}
+{546}{}{IdÅº na caÅ‚oÅ›Ä‡.}
+{547}{}{Obejmij jÄ…...}
+{548}{}{Uch, proszÄ™ pani, spaÅ‚em z pani cÃ³rkÄ…. MoÅ¼e nie powinniÅ›my...}
+{549}{}{Zanim to "zrobimy", czy nie zamierzasz otworzyÄ‡ swojego sejfu, tak jak twoja cÃ³r... eee, tak jak to jest w zwyczaju?}
+{550}{}{Przykro mi, ale naprawdÄ™ muszÄ™ juÅ¼ lecieÄ‡.}
+{555}{}{Nie. A teraz chodÅº tu.}
+{556}{}{IdÅº na caÅ‚oÅ›Ä‡.}
+{557}{}{Przykro mi, ale NAPRAWDÄ˜ muszÄ™ lecieÄ‡.}
+{560}{}{Och?! Gdzie ci siÄ™ tak Å›pieszy?}
 {561}{}{Gdziekolwiek.}
-{562}{}{Muszê spotkaæ siê z Julesem przy wjeŸdzie do miasta w celu... dokonania wyj¹tkowej transakcji.}
-{563}{}{Muszê spotkaæ siê z przyjacielem i nie mogê siê spóŸniæ.}
+{562}{}{MuszÄ™ spotkaÄ‡ siÄ™ z Julesem przy wjeÅºdzie do miasta w celu... dokonania wyjÄ…tkowej transakcji.}
+{563}{}{MuszÄ™ spotkaÄ‡ siÄ™ z przyjacielem i nie mogÄ™ siÄ™ spÃ³ÅºniÄ‡.}
 {564}{}{Moje pobudki to moja sprawa. Do widzenia pani.}
-{565}{}{Jeœli spróbujesz opuœciæ ten pokój, zawo³am stra¿e.}
-{566}{}{Wszystko zosta³o przemyœlane, prawdopodobnie towarzystwo stra¿ników bêdzie bezpieczniejsze ni¿ twoje. ¯egnam.}
-{567}{}{Muszê spotkaæ siê z Julesem przy wjeŸdzie do miasta w celu... dokonania wyj¹tkowej transakcji... i to zaraz.}
-{569}{}{No dobrze, dobrze. Po prostu bardziej by mi odpowiada³o, gdybyœ nie gra³a tak ostro. ChodŸ do mnie.}
-{570}{}{Chcê tylko, ¿ebyœ wiedzia³a, ¿e to jest z³e i gdyby mój krêgos³up moralny by³ mocniejszy, us³ysza³abyœ ode mnie to i owo. A teraz chodŸ do mnie.}
-{575}{}{Stra¿e! Intruz! Kradzie¿! Stra¿! Intruz w sypialni!}
-{576}{}{Gdzie? O czym pani mówi?}
-{577}{}{Kurwa! Nienawidzê tej gry!}
-{580}{}{Dobrze. Skoro nie chcesz spaæ ze mn¹ tym razem, chcê ci powiedzieæ, ¿e mo¿esz przyjœæ do mnie, kiedy tylko zechcesz, a coœ sobie urz¹dzimy. Czy rozumiesz, co do ciebie mówiê?}
-{581}{}{Tak. A teraz mnie wypuœæ.}
+{565}{}{JeÅ›li sprÃ³bujesz opuÅ›ciÄ‡ ten pokÃ³j, zawoÅ‚am straÅ¼e.}
+{566}{}{Wszystko zostaÅ‚o przemyÅ›lane, prawdopodobnie towarzystwo straÅ¼nikÃ³w bÄ™dzie bezpieczniejsze niÅ¼ twoje. Å»egnam.}
+{567}{}{MuszÄ™ spotkaÄ‡ siÄ™ z Julesem przy wjeÅºdzie do miasta w celu... dokonania wyjÄ…tkowej transakcji... i to zaraz.}
+{569}{}{No dobrze, dobrze. Po prostu bardziej by mi odpowiadaÅ‚o, gdybyÅ› nie graÅ‚a tak ostro. ChodÅº do mnie.}
+{570}{}{ChcÄ™ tylko, Å¼ebyÅ› wiedziaÅ‚a, Å¼e to jest zÅ‚e i gdyby mÃ³j krÄ™gosÅ‚up moralny byÅ‚ mocniejszy, usÅ‚yszaÅ‚abyÅ› ode mnie to i owo. A teraz chodÅº do mnie.}
+{575}{}{StraÅ¼e! Intruz! KradzieÅ¼! StraÅ¼! Intruz w sypialni!}
+{576}{}{Gdzie? O czym pani mÃ³wi?}
+{577}{}{Kurwa! NienawidzÄ™ tej gry!}
+{580}{}{Dobrze. Skoro nie chcesz spaÄ‡ ze mnÄ… tym razem, chcÄ™ ci powiedzieÄ‡, Å¼e moÅ¼esz przyjÅ›Ä‡ do mnie, kiedy tylko zechcesz, a coÅ› sobie urzÄ…dzimy. Czy rozumiesz, co do ciebie mÃ³wiÄ™?}
+{581}{}{Tak. A teraz mnie wypuÅ›Ä‡.}
 {582}{}{Tak, rozumiem.}
-{585}{}{(Opuszczacie pokój i pani Bishop wyprowadza ciê z tego piêtra. Schodzicie z powrotem na pierwsze piêtro.)}
+{585}{}{(Opuszczacie pokÃ³j i pani Bishop wyprowadza ciÄ™ z tego piÄ™tra. Schodzicie z powrotem na pierwsze piÄ™tro.)}
 {586}{}{Fiuu.}
-{590}{}{(Kochacie siê. Nie jest najlepiej. Nie jest najprzyjemniej. Ale na tê jedn¹ krótk¹ chwilê w burzliwym ¿yciu ty i pani Bishop zapominacie o wszystkich okrucieñstwach œwiata i zatracacie siê w sobie...) }
-{591}{}{(Porywaj¹ce wyczyny mi³osne. Pod koniec waszego mi³osnego maratonu pani Bishop z pe³nym rozkoszy uœmiechem k³adzie siê obok ciebie.) Mmmmm, }
-{592}{}{Jesteœ prawdziwym *mê¿czyzn¹*. (Dr¿y) Ten numer z jêzyczkiem by³...}
-{593}{}{Jesteœ prawdziw¹ *kobiet¹*. (Dr¿y) Ten numer z jêzyczkiem by³...}
-{594}{}{Wiêc... czego chcesz siê dowiedzieæ?}
+{590}{}{(Kochacie siÄ™. Nie jest najlepiej. Nie jest najprzyjemniej. Ale na tÄ™ jednÄ… krÃ³tkÄ… chwilÄ™ w burzliwym Å¼yciu ty i pani Bishop zapominacie o wszystkich okrucieÅ„stwach Å›wiata i zatracacie siÄ™ w sobie...) }
+{591}{}{(PorywajÄ…ce wyczyny miÅ‚osne. Pod koniec waszego miÅ‚osnego maratonu pani Bishop z peÅ‚nym rozkoszy uÅ›miechem kÅ‚adzie siÄ™ obok ciebie.) Mmmmm, }
+{592}{}{JesteÅ› prawdziwym *mÄ™Å¼czyznÄ…*. (DrÅ¼y) Ten numer z jÄ™zyczkiem byÅ‚...}
+{593}{}{JesteÅ› prawdziwÄ… *kobietÄ…*. (DrÅ¼y) Ten numer z jÄ™zyczkiem byÅ‚...}
+{594}{}{WiÄ™c... czego chcesz siÄ™ dowiedzieÄ‡?}
 {595}{}{Mmmmm, Leslie.}
-{596}{}{Uch, tak na WSZELKI wypadek, gdyby ktoœ patrzy³ na nas teraz z góry i przys³uchiwa³ siê wszystkiemu, co mówimy i robimy, zachowajmy te sekrety dla siebie. Zamiast tego zajmijmy siê jak¹œ odci¹gaj¹c¹ uwagê rozmow¹ ³ó¿kow¹.}
-{600}{}{(Pani Bishop wzdycha z zadowoleniem i przeci¹ga siê.)}
-{601}{}{Opowiedz mi o swoim mê¿u.}
-{602}{}{Opowiedz mi o swojej córce.}
+{596}{}{Uch, tak na WSZELKI wypadek, gdyby ktoÅ› patrzyÅ‚ na nas teraz z gÃ³ry i przysÅ‚uchiwaÅ‚ siÄ™ wszystkiemu, co mÃ³wimy i robimy, zachowajmy te sekrety dla siebie. Zamiast tego zajmijmy siÄ™ jakÄ…Å› odciÄ…gajÄ…cÄ… uwagÄ™ rozmowÄ… Å‚Ã³Å¼kowÄ….}
+{600}{}{(Pani Bishop wzdycha z zadowoleniem i przeciÄ…ga siÄ™.)}
+{601}{}{Opowiedz mi o swoim mÄ™Å¼u.}
+{602}{}{Opowiedz mi o swojej cÃ³rce.}
 {603}{}{Opowiedz mi o swojej rodzinie.}
-{604}{}{Nie jesteœ z Nowego Reno, prawda? Wys³awiasz siê inaczej ni¿ wiêkszoœæ tutejszych.}
-{605}{}{Jesteœ z Kryptopolis?}
-{606}{}{Lepiej ju¿ pójdê.}
-{610}{}{(Pani Bishop nieznacznie marszczy brwi i zakrywa siê g³êbiej ko³dr¹) Czy MUSIMY o nim rozmawiaæ? Nie rujnujmy nastroju.}
-{611}{}{Naprawdê chcê to wiedzieæ. Opowiedz mi o nim.}
-{612}{}{No dobrze, w takim razie, co mo¿esz mi powiedzieæ o...}
-{615}{}{(Œmieje siê) A kogo to obchodzi? John nie ¿yje. Niech ¿yje John! Ten drañ...}
-{616}{}{Ha! Zapewniam ciê, ¿e ja i John siê nie kochamy. Ta ma³a cz¹stka mi³oœci, która kiedyœ istnia³a, zdegenerowa³a siê do postaci porz¹dnych rozmiarów z³oœci. On ma swoje kobiety i ja te¿ mam swoje... przyjemnoœci.}
-{617}{}{Na pewno musicie siê wci¹¿ jeszcze kochaæ, przynajmniej trochê.}
+{604}{}{Nie jesteÅ› z Nowego Reno, prawda? WysÅ‚awiasz siÄ™ inaczej niÅ¼ wiÄ™kszoÅ›Ä‡ tutejszych.}
+{605}{}{JesteÅ› z Kryptopolis?}
+{606}{}{Lepiej juÅ¼ pÃ³jdÄ™.}
+{610}{}{(Pani Bishop nieznacznie marszczy brwi i zakrywa siÄ™ gÅ‚Ä™biej koÅ‚drÄ…) Czy MUSIMY o nim rozmawiaÄ‡? Nie rujnujmy nastroju.}
+{611}{}{NaprawdÄ™ chcÄ™ to wiedzieÄ‡. Opowiedz mi o nim.}
+{612}{}{No dobrze, w takim razie, co moÅ¼esz mi powiedzieÄ‡ o...}
+{615}{}{(Åšmieje siÄ™) A kogo to obchodzi? John nie Å¼yje. Niech Å¼yje John! Ten draÅ„...}
+{616}{}{Ha! Zapewniam ciÄ™, Å¼e ja i John siÄ™ nie kochamy. Ta maÅ‚a czÄ…stka miÅ‚oÅ›ci, ktÃ³ra kiedyÅ› istniaÅ‚a, zdegenerowaÅ‚a siÄ™ do postaci porzÄ…dnych rozmiarÃ³w zÅ‚oÅ›ci. On ma swoje kobiety i ja teÅ¼ mam swoje... przyjemnoÅ›ci.}
+{617}{}{Na pewno musicie siÄ™ wciÄ…Å¼ jeszcze kochaÄ‡, przynajmniej trochÄ™.}
 {618}{}{O co chodzi z nim i RNK?}
-{619}{}{O co chodzi z nim i tymi "NajeŸdŸcami", o których mi mówiono?}
-{620}{}{Znasz kombinacjê do sejfu Bishopa?}
-{621}{}{Mo¿e porozmawiajmy o czymœ innym...}
-{625}{}{(Marszczy brwi) Pozostawiê to twojej wyobraŸni. Czy mo¿emy ju¿ zostawiæ ten temat? *Proszê*. Porozmawiajmy o czymœ innym.}
-{630}{}{Chcesz, ¿eby go zabiæ?}
-{635}{}{Ach... to. No tak... *zieeew*... myœlê, ¿e John chce wejœæ z nimi w dobr¹ komitywêêêê... (przeci¹ga siê) ...a potem z ich pomoc¹ pozbyæ siê innych rodzin.}
+{619}{}{O co chodzi z nim i tymi "NajeÅºdÅºcami", o ktÃ³rych mi mÃ³wiono?}
+{620}{}{Znasz kombinacjÄ™ do sejfu Bishopa?}
+{621}{}{MoÅ¼e porozmawiajmy o czymÅ› innym...}
+{625}{}{(Marszczy brwi) PozostawiÄ™ to twojej wyobraÅºni. Czy moÅ¼emy juÅ¼ zostawiÄ‡ ten temat? *ProszÄ™*. Porozmawiajmy o czymÅ› innym.}
+{630}{}{Chcesz, Å¼eby go zabiÄ‡?}
+{635}{}{Ach... to. No tak... *zieeew*... myÅ›lÄ™, Å¼e John chce wejÅ›Ä‡ z nimi w dobrÄ… komitywÄ™Ä™Ä™Ä™... (przeciÄ…ga siÄ™) ...a potem z ich pomocÄ… pozbyÄ‡ siÄ™ innych rodzin.}
 {636}{}{Czy to wszystko, czego Bishop chce od RNK?}
-{637}{}{No dobrze, porozmawiajmy o czymœ innym...}
-{638}{}{Chcê dowiedzieæ siê czegoœ o innych planach Johna...}
-{645}{}{(Obraca siê na drugi bok) John wys³a³ paru najemników na wschód, w pobli¿e Kryptopolis, ¿eby je "nêkali". On usi³uje wywrzeæ na nich presjê, ¿eby b³agali RNK o pomoc.}
-{646}{}{B³agali *RNK* o pomoc? Po co?}
-{650}{}{Mmmmm... no... có¿... (Obraca siê) John obieca³ RNK, ¿e da im Kryptopolis, wiêc wys³a³ tam paru swoich ludzi i kaza³ udawaæ NajeŸdŸców, dopóki Kryptopolis nie zacznie panikowaæ.}
-{651}{}{Wiesz mo¿e, gdzie s¹ ci NajeŸdŸcy?}
-{652}{}{Uch... jest gdzieœ na to jakiœ DOWÓD?}
-{655}{}{Nie... John ma pewnie gdzieœ tutaj mapê z ich pozycj¹...}
-{657}{}{Porozmawiajmy o czymœ innym...}
-{660}{}{, jak s¹dzê... coœ w tym rodzaju...}
-{663}{}{Doskonale... czas w³amaæ siê do sejfu... s³odkich snów, pani Bishop.}
+{637}{}{No dobrze, porozmawiajmy o czymÅ› innym...}
+{638}{}{ChcÄ™ dowiedzieÄ‡ siÄ™ czegoÅ› o innych planach Johna...}
+{645}{}{(Obraca siÄ™ na drugi bok) John wysÅ‚aÅ‚ paru najemnikÃ³w na wschÃ³d, w pobliÅ¼e Kryptopolis, Å¼eby je "nÄ™kali". On usiÅ‚uje wywrzeÄ‡ na nich presjÄ™, Å¼eby bÅ‚agali RNK o pomoc.}
+{646}{}{BÅ‚agali *RNK* o pomoc? Po co?}
+{650}{}{Mmmmm... no... cÃ³Å¼... (Obraca siÄ™) John obiecaÅ‚ RNK, Å¼e da im Kryptopolis, wiÄ™c wysÅ‚aÅ‚ tam paru swoich ludzi i kazaÅ‚ udawaÄ‡ NajeÅºdÅºcÃ³w, dopÃ³ki Kryptopolis nie zacznie panikowaÄ‡.}
+{651}{}{Wiesz moÅ¼e, gdzie sÄ… ci NajeÅºdÅºcy?}
+{652}{}{Uch... jest gdzieÅ› na to jakiÅ› DOWÃ“D?}
+{655}{}{Nie... John ma pewnie gdzieÅ› tutaj mapÄ™ z ich pozycjÄ…...}
+{657}{}{Porozmawiajmy o czymÅ› innym...}
+{660}{}{, jak sÄ…dzÄ™... coÅ› w tym rodzaju...}
+{663}{}{Doskonale... czas wÅ‚amaÄ‡ siÄ™ do sejfu... sÅ‚odkich snÃ³w, pani Bishop.}
 {665}{}{Och, }
-{666}{}{Och. Dziêki.}
+{666}{}{Och. DziÄ™ki.}
 {670}{}{(Marszczy brwi) *Czemu* pytasz? }
-{671}{}{Jeœli chcesz opowiadaæ tym nierz¹dzie, który wspólnie uprawiacie, to *nie* chcê tego s³uchaæ. Mam nadziejê, ¿e dla w³asnego dobra u¿y³eœ prezerwatywy. }
-{672}{}{Ta ma³a latawica przeœpi siê z ka¿dym dzikusem, który pomacha jej przed nosem swoj¹ fajk¹ pokoju...}
-{673}{}{Uch... no tak... porozmawiajmy o czymœ innym...}
-{675}{}{(Lekko wzrusza ramionami) O czym tu mówiæ. Banda p³atnych rabusiów, najemników, dziwek, dealerów i niewolników... (Obraca siê) ...to w³aœnie "rodzina" Bishopów. Chcia³abym nigdy nie zadurzyæ siê w Johnie...}
-{677}{}{Hmmmm. Mam kilka innych pytañ...}
+{671}{}{JeÅ›li chcesz opowiadaÄ‡ tym nierzÄ…dzie, ktÃ³ry wspÃ³lnie uprawiacie, to *nie* chcÄ™ tego sÅ‚uchaÄ‡. Mam nadziejÄ™, Å¼e dla wÅ‚asnego dobra uÅ¼yÅ‚eÅ› prezerwatywy. }
+{672}{}{Ta maÅ‚a latawica przeÅ›pi siÄ™ z kaÅ¼dym dzikusem, ktÃ³ry pomacha jej przed nosem swojÄ… fajkÄ… pokoju...}
+{673}{}{Uch... no tak... porozmawiajmy o czymÅ› innym...}
+{675}{}{(Lekko wzrusza ramionami) O czym tu mÃ³wiÄ‡. Banda pÅ‚atnych rabusiÃ³w, najemnikÃ³w, dziwek, dealerÃ³w i niewolnikÃ³w... (Obraca siÄ™) ...to wÅ‚aÅ›nie "rodzina" BishopÃ³w. ChciaÅ‚abym nigdy nie zadurzyÄ‡ siÄ™ w Johnie...}
+{677}{}{Hmmmm. Mam kilka innych pytaÅ„...}
 {680}{}{A twoje jest? Hmmmpf. }
-{681}{}{Nie, moje "ma³¿eñstwo" nie by³o zdrowe. Mój œwiêtej pamiêci ma³¿onek by³ zajêty gromadzeniem potêgi, a to rzadko kiedy zostawia miejsce na... cokolwiek innego.}
-{682}{}{Nie, moje "ma³¿eñstwo" nie jest zdrowe. Mój ma³¿onek jest zajêty gromadzeniem potêgi, a to rzadko kiedy zostawia miejsce na... cokolwiek innego.}
-{683}{}{Myœlê, ¿e jesteœ nieszczêœliwa. Powinnaœ st¹d odejœæ, osi¹œæ gdzieœ indziej.}
-{684}{}{Hmmm. Mam kilka innych pytañ...}
-{690}{}{Ale¿ owszem, có¿ za GENIALNY pomys³! No i gdzie bym posz³a? Na Pustkowia, ¿eby ¿yæ z innymi dzikusami? Na po³udnie do RNK? Na pó³nocny zachód, do Redding, ¿eby wynajmowaæ swoje cia³o górnikom?}
-{691}{}{Czemu odejœcie z Reno jest takie niemo¿liwe? Nie jesteœ g³upi¹ kobiet¹. Wydaje mi siê, ¿e mog³abyœ zaj¹æ siê ka¿dym handlem, jaki tylko przyszed³by ci do g³owy.}
-{692}{}{Niewa¿ne. Wiesz co, mam kilka innych pytañ...}
-{700}{}{Odejdê, a mój m¹¿ sprowadzi mnie z powrotem. Rodzina pilnuje swoich cz³onków, bez wzglêdu na to, czy oni tego chc¹, czy nie.}
-{701}{}{Hmmm. Mo¿e tak zrobiê... po tym, jak John mia³ ten swój wypadek, na który tak sobie zas³u¿y³. (Uœmiecha siê z politowaniem) Mo¿e tak zrobiê. Pobyt w Reno staje siê... mêcz¹cy. (Zastanawia siê) A mo¿e po prostu potrzeba mu nowego zarz¹dcy...}
-{702}{}{Wiesz co, mam kilka innych pytañ...}
-{705}{}{Nie. (Odwraca siê, mamrocze przez sen) Nie mów idiotyzmów. Jak tylko ludzie siê dowiedz¹, bêd¹ ciê œcigaæ do koñca twego krótkiego ¿ycia.}
-{706}{}{A co gdyby ludzie nie dowiedzieli siê, ¿e to ja?}
-{710}{}{(Porusza siê, mruga oczami) O czym ty MÓWISZ? Nie gadaj g³upot.}
-{711}{}{Nie wiem, mo¿e jakaœ pu³apka? Albo coœ, co by wygl¹da³o na wypadek?}
-{712}{}{No dobrze. Wiesz co, mam kilka innych pytañ...}
-{715}{}{(Szeroko otwiera oczy) Jego sejf... za³o¿ono na nim ³adunki wybuchowe, na wypadek gdyby ktoœ przy nim grzeba³. Otwieranie go jest bezpieczne tylko jeœli wprowadzisz w³aœciw¹ kombinacjê. Oczywiœcie gdyby tê kombinacjê zmieniæ... "poprawiæ"... bez jego wiedzy...}
-{716}{}{Hmmmm. Mo¿e gdyby "naprawiæ" zamek przy jego sejfie... warto o tym pomyœleæ. Wiesz co, mam kilka innych pytañ...}
-{720}{}{Nie, *nie* wys³awiam siê jak reszta ludzi w okolicy. To siê nazywa "wykszta³cenie". (Obraca siê) IdŸ spaæ.}
-{721}{}{Gdzie mo¿na by dostaæ wykszta³cenie?}
-{725}{}{*Zieeew*... masz ju¿ wystarczaj¹co du¿o rozumu jak na moje potrzeby... a teraz idŸ spaæ. Jeœli próbujesz wypompowaæ ze mnie jakieœ informacje, to tworzysz deficyt.}
-{726}{}{Deficyt? Tu, w ³ó¿ku? Wcale nie!}
-{730}{}{(Otwiera szeroko jedno oko) Kto ci to powiedzia³?}
-{731}{}{Da³o siê zgadn¹æ po tym, jak opowiada³aœ o Kryptopolis. Mia³aœ takie nostalgiczne spojrzenie.}
-{735}{}{(Wyraz jej twarzy na moment ³agodnieje, po czym pani Bishop odwraca j¹ tak, by nie by³o jej widaæ.) Nie wspominaj o tym miejscu.}
-{736}{}{Co siê sta³o?}
-{740}{}{JOHN siê wydarzy³. Kiedyœ tam mieszka³am. Któregoœ dnia on tam przyjecha³, a ja by³am zauroczona jego... szorstkoœci¹, jak s¹dzê. By³ inny ni¿ wiêkszoœæ Obywateli. (Wzdycha) Oczywiœcie, da³ mi na spróbowanie takie ma³e coœ o nazwie "Jet"...}
+{681}{}{Nie, moje "maÅ‚Å¼eÅ„stwo" nie byÅ‚o zdrowe. MÃ³j Å›wiÄ™tej pamiÄ™ci maÅ‚Å¼onek byÅ‚ zajÄ™ty gromadzeniem potÄ™gi, a to rzadko kiedy zostawia miejsce na... cokolwiek innego.}
+{682}{}{Nie, moje "maÅ‚Å¼eÅ„stwo" nie jest zdrowe. MÃ³j maÅ‚Å¼onek jest zajÄ™ty gromadzeniem potÄ™gi, a to rzadko kiedy zostawia miejsce na... cokolwiek innego.}
+{683}{}{MyÅ›lÄ™, Å¼e jesteÅ› nieszczÄ™Å›liwa. PowinnaÅ› stÄ…d odejÅ›Ä‡, osiÄ…Å›Ä‡ gdzieÅ› indziej.}
+{684}{}{Hmmm. Mam kilka innych pytaÅ„...}
+{690}{}{AleÅ¼ owszem, cÃ³Å¼ za GENIALNY pomysÅ‚! No i gdzie bym poszÅ‚a? Na Pustkowia, Å¼eby Å¼yÄ‡ z innymi dzikusami? Na poÅ‚udnie do RNK? Na pÃ³Å‚nocny zachÃ³d, do Redding, Å¼eby wynajmowaÄ‡ swoje ciaÅ‚o gÃ³rnikom?}
+{691}{}{Czemu odejÅ›cie z Reno jest takie niemoÅ¼liwe? Nie jesteÅ› gÅ‚upiÄ… kobietÄ…. Wydaje mi siÄ™, Å¼e mogÅ‚abyÅ› zajÄ…Ä‡ siÄ™ kaÅ¼dym handlem, jaki tylko przyszedÅ‚by ci do gÅ‚owy.}
+{692}{}{NiewaÅ¼ne. Wiesz co, mam kilka innych pytaÅ„...}
+{700}{}{OdejdÄ™, a mÃ³j mÄ…Å¼ sprowadzi mnie z powrotem. Rodzina pilnuje swoich czÅ‚onkÃ³w, bez wzglÄ™du na to, czy oni tego chcÄ…, czy nie.}
+{701}{}{Hmmm. MoÅ¼e tak zrobiÄ™... po tym, jak John miaÅ‚ ten swÃ³j wypadek, na ktÃ³ry tak sobie zasÅ‚uÅ¼yÅ‚. (UÅ›miecha siÄ™ z politowaniem) MoÅ¼e tak zrobiÄ™. Pobyt w Reno staje siÄ™... mÄ™czÄ…cy. (Zastanawia siÄ™) A moÅ¼e po prostu potrzeba mu nowego zarzÄ…dcy...}
+{702}{}{Wiesz co, mam kilka innych pytaÅ„...}
+{705}{}{Nie. (Odwraca siÄ™, mamrocze przez sen) Nie mÃ³w idiotyzmÃ³w. Jak tylko ludzie siÄ™ dowiedzÄ…, bÄ™dÄ… ciÄ™ Å›cigaÄ‡ do koÅ„ca twego krÃ³tkiego Å¼ycia.}
+{706}{}{A co gdyby ludzie nie dowiedzieli siÄ™, Å¼e to ja?}
+{710}{}{(Porusza siÄ™, mruga oczami) O czym ty MÃ“WISZ? Nie gadaj gÅ‚upot.}
+{711}{}{Nie wiem, moÅ¼e jakaÅ› puÅ‚apka? Albo coÅ›, co by wyglÄ…daÅ‚o na wypadek?}
+{712}{}{No dobrze. Wiesz co, mam kilka innych pytaÅ„...}
+{715}{}{(Szeroko otwiera oczy) Jego sejf... zaÅ‚oÅ¼ono na nim Å‚adunki wybuchowe, na wypadek gdyby ktoÅ› przy nim grzebaÅ‚. Otwieranie go jest bezpieczne tylko jeÅ›li wprowadzisz wÅ‚aÅ›ciwÄ… kombinacjÄ™. OczywiÅ›cie gdyby tÄ™ kombinacjÄ™ zmieniÄ‡... "poprawiÄ‡"... bez jego wiedzy...}
+{716}{}{Hmmmm. MoÅ¼e gdyby "naprawiÄ‡" zamek przy jego sejfie... warto o tym pomyÅ›leÄ‡. Wiesz co, mam kilka innych pytaÅ„...}
+{720}{}{Nie, *nie* wysÅ‚awiam siÄ™ jak reszta ludzi w okolicy. To siÄ™ nazywa "wyksztaÅ‚cenie". (Obraca siÄ™) IdÅº spaÄ‡.}
+{721}{}{Gdzie moÅ¼na by dostaÄ‡ wyksztaÅ‚cenie?}
+{725}{}{*Zieeew*... masz juÅ¼ wystarczajÄ…co duÅ¼o rozumu jak na moje potrzeby... a teraz idÅº spaÄ‡. JeÅ›li prÃ³bujesz wypompowaÄ‡ ze mnie jakieÅ› informacje, to tworzysz deficyt.}
+{726}{}{Deficyt? Tu, w Å‚Ã³Å¼ku? Wcale nie!}
+{730}{}{(Otwiera szeroko jedno oko) Kto ci to powiedziaÅ‚?}
+{731}{}{DaÅ‚o siÄ™ zgadnÄ…Ä‡ po tym, jak opowiadaÅ‚aÅ› o Kryptopolis. MiaÅ‚aÅ› takie nostalgiczne spojrzenie.}
+{735}{}{(Wyraz jej twarzy na moment Å‚agodnieje, po czym pani Bishop odwraca jÄ… tak, by nie byÅ‚o jej widaÄ‡.) Nie wspominaj o tym miejscu.}
+{736}{}{Co siÄ™ staÅ‚o?}
+{740}{}{JOHN siÄ™ wydarzyÅ‚. KiedyÅ› tam mieszkaÅ‚am. KtÃ³regoÅ› dnia on tam przyjechaÅ‚, a ja byÅ‚am zauroczona jego... szorstkoÅ›ciÄ…, jak sÄ…dzÄ™. ByÅ‚ inny niÅ¼ wiÄ™kszoÅ›Ä‡ Obywateli. (Wzdycha) OczywiÅ›cie, daÅ‚ mi na sprÃ³bowanie takie maÅ‚e coÅ› o nazwie "Jet"...}
 {741}{}{No i?}
-{745}{}{Mieli tam rozszerzacze pamiêci do Pip-Boy'ów. Zawiera³y s³owniki i encyklopedie. Kiedy odchodzi³am, wziê³am jeden z rozszerzaczy jêzykowych, choæ w sumie nie wiem, po co.}
+{745}{}{Mieli tam rozszerzacze pamiÄ™ci do Pip-Boy'Ã³w. ZawieraÅ‚y sÅ‚owniki i encyklopedie. Kiedy odchodziÅ‚am, wziÄ™Å‚am jeden z rozszerzaczy jÄ™zykowych, choÄ‡ w sumie nie wiem, po co.}
 {746}{}{Gdzie jest ten rozszerzacz?}
-{750}{}{*Zieeew*... (Kuli siê) Le¿y w moim sejfie. Ale bez Pip-Boy'a nie ma z niego wiele po¿ytku. Nie mam pojêcia, po co go ci¹gle trzymam.}
-{751}{}{Mogê go dostaæ?}
-{752}{}{Hmmmnn. Mam kilka innych pytañ...}
-{760}{}{(Wzrusza ramionami) Pewnie, skoro chcesz. W³aœciwa kombinacja to }
-{761}{}{Jak siê tego u¿ywa?}
-{762}{}{Dziêki. Wiesz co, mam kilka innych pytañ...}
-{770}{}{(Pani Bishop odwraca siê i zamyka oczy. Po kilku sekundach zasypia.)}
-{771}{}{Po cichu wstañ z ³ó¿ka i ubierz siê.}
-{780}{}{Jedyna "mi³oœæ" jaka nas ³¹czy, polega na tym, ¿e John si³¹ wdziera siê do mojej sypialni i dosiada mnie jak pijanej braminy. A to jeszcze zapewne najmniej odra¿aj¹cy z jego przymiotów, bior¹c pod uwagê jego inne zainteresowania.}
+{750}{}{*Zieeew*... (Kuli siÄ™) LeÅ¼y w moim sejfie. Ale bez Pip-Boy'a nie ma z niego wiele poÅ¼ytku. Nie mam pojÄ™cia, po co go ciÄ…gle trzymam.}
+{751}{}{MogÄ™ go dostaÄ‡?}
+{752}{}{Hmmmnn. Mam kilka innych pytaÅ„...}
+{760}{}{(Wzrusza ramionami) Pewnie, skoro chcesz. WÅ‚aÅ›ciwa kombinacja to }
+{761}{}{Jak siÄ™ tego uÅ¼ywa?}
+{762}{}{DziÄ™ki. Wiesz co, mam kilka innych pytaÅ„...}
+{770}{}{(Pani Bishop odwraca siÄ™ i zamyka oczy. Po kilku sekundach zasypia.)}
+{771}{}{Po cichu wstaÅ„ z Å‚Ã³Å¼ka i ubierz siÄ™.}
+{780}{}{Jedyna "miÅ‚oÅ›Ä‡" jaka nas Å‚Ä…czy, polega na tym, Å¼e John siÅ‚Ä… wdziera siÄ™ do mojej sypialni i dosiada mnie jak pijanej braminy. A to jeszcze zapewne najmniej odraÅ¼ajÄ…cy z jego przymiotÃ³w, biorÄ…c pod uwagÄ™ jego inne zainteresowania.}
 {781}{}{Inne zainteresowania?}
-{790}{}{Pewnie chce te¿ mieæ coœ do powiedzenia w kwestii tego, kto ma kontrolowaæ handel prochami w Republice Nowej Kalifornii... on chce byæ tym kimœ. Ostatnio szuka³ sposobu na sfa³szowanie wyborów na po³udniuuuu... *zieeew*}
-{791}{}{A wiêc on tak naprawdê planuje PRZY£¥CZENIE Reno do Republiki... hmmmm. No dobrze, porozmawiajmy o czymœ innym...}
-{792}{}{Interesuj¹ce. Chcê dowiedzieæ siê czegoœ o innych planach Johna...}
-{800}{}{Jet jest w Kryptopolis oczywiœcie nielegalny. Inni Obywatele dowiedzieli siê i uniewa¿nili moje obywatelstwo. John by³ jedyn¹ osob¹, do której mog³am siê zwróciæ... i on to oczywiœcie wiedzia³. Zaplanowa³ sobie to wszystko.}
-{801}{}{A wiêc twoje wykszta³cenie pochodzi z Kryptopolis? To dlatego mówisz inaczej ni¿ wszyscy w Nowym Reno?}
-{810}{}{Po prostu umocuj opaskê, umieœæ czujnik optyczny nad prawym okiem, potem pod³¹cz drug¹ koñcówkê... hmpph... (Obraca siê) ...do Pip-Boya. Poczujesz lekkie uderzenie, trochê bólu, a potem poczujesz, ¿e twoja g³owa... mniej ci ci¹¿y.}
-{815}{}{Mmmmmnnn...? Nie wiem. Mo¿e w sejfie Johna w jego pokoju... on lubi przetrzymywaæ materia³y dotycz¹ce nawet najdrobniejszych szczegó³ów, na wypadek gdyby chcia³ kiedyœ kogoœ szanta¿owaæ.}
-{820}{}{(Na twoje pytanie odpowiada milczenie... pani Bishop zasnê³a. Uœmiecha siê szeroko, kurczowo tul¹c swoj¹ poduszkê i mrucz¹c twoje imiê.)}
-{821}{}{(Na twoje pytanie odpowiada milczenie... pani Bishop zasnê³a. Nie daje ci spokoju uporczywe wra¿enie, ¿e mo¿e zasnê³aby póŸniej, gdyby... twoje umiejêtnoœci by³y wiêksze, ale szybko pozbywasz siê tej myœli, zanim zd¹¿y zraniæ twoje ego.)}
-{822}{}{(Po cichu wstañ z ³ó¿ka.)}
-{825}{}{(Po kilku minutach twoich mi³osnych zabiegów pani Bishop nagle zasypia. Z jej cia³a zaczyna dobiegaæ ciche chrapanie.)}
-{826}{}{(Dokoñcz sprawê i wyjdŸ.)}
-{900}{}{Uda³o ci siê przekonaæ pani¹ Bishop, by zmieni³a swoje ¿ycie... na lepsze.}
+{790}{}{Pewnie chce teÅ¼ mieÄ‡ coÅ› do powiedzenia w kwestii tego, kto ma kontrolowaÄ‡ handel prochami w Republice Nowej Kalifornii... on chce byÄ‡ tym kimÅ›. Ostatnio szukaÅ‚ sposobu na sfaÅ‚szowanie wyborÃ³w na poÅ‚udniuuuu... *zieeew*}
+{791}{}{A wiÄ™c on tak naprawdÄ™ planuje PRZYÅÄ„CZENIE Reno do Republiki... hmmmm. No dobrze, porozmawiajmy o czymÅ› innym...}
+{792}{}{InteresujÄ…ce. ChcÄ™ dowiedzieÄ‡ siÄ™ czegoÅ› o innych planach Johna...}
+{800}{}{Jet jest w Kryptopolis oczywiÅ›cie nielegalny. Inni Obywatele dowiedzieli siÄ™ i uniewaÅ¼nili moje obywatelstwo. John byÅ‚ jedynÄ… osobÄ…, do ktÃ³rej mogÅ‚am siÄ™ zwrÃ³ciÄ‡... i on to oczywiÅ›cie wiedziaÅ‚. ZaplanowaÅ‚ sobie to wszystko.}
+{801}{}{A wiÄ™c twoje wyksztaÅ‚cenie pochodzi z Kryptopolis? To dlatego mÃ³wisz inaczej niÅ¼ wszyscy w Nowym Reno?}
+{810}{}{Po prostu umocuj opaskÄ™, umieÅ›Ä‡ czujnik optyczny nad prawym okiem, potem podÅ‚Ä…cz drugÄ… koÅ„cÃ³wkÄ™... hmpph... (Obraca siÄ™) ...do Pip-Boya. Poczujesz lekkie uderzenie, trochÄ™ bÃ³lu, a potem poczujesz, Å¼e twoja gÅ‚owa... mniej ci ciÄ…Å¼y.}
+{815}{}{Mmmmmnnn...? Nie wiem. MoÅ¼e w sejfie Johna w jego pokoju... on lubi przetrzymywaÄ‡ materiaÅ‚y dotyczÄ…ce nawet najdrobniejszych szczegÃ³Å‚Ã³w, na wypadek gdyby chciaÅ‚ kiedyÅ› kogoÅ› szantaÅ¼owaÄ‡.}
+{820}{}{(Na twoje pytanie odpowiada milczenie... pani Bishop zasnÄ™Å‚a. UÅ›miecha siÄ™ szeroko, kurczowo tulÄ…c swojÄ… poduszkÄ™ i mruczÄ…c twoje imiÄ™.)}
+{821}{}{(Na twoje pytanie odpowiada milczenie... pani Bishop zasnÄ™Å‚a. Nie daje ci spokoju uporczywe wraÅ¼enie, Å¼e moÅ¼e zasnÄ™Å‚aby pÃ³Åºniej, gdyby... twoje umiejÄ™tnoÅ›ci byÅ‚y wiÄ™ksze, ale szybko pozbywasz siÄ™ tej myÅ›li, zanim zdÄ…Å¼y zraniÄ‡ twoje ego.)}
+{822}{}{(Po cichu wstaÅ„ z Å‚Ã³Å¼ka.)}
+{825}{}{(Po kilku minutach twoich miÅ‚osnych zabiegÃ³w pani Bishop nagle zasypia. Z jej ciaÅ‚a zaczyna dobiegaÄ‡ ciche chrapanie.)}
+{826}{}{(DokoÅ„cz sprawÄ™ i wyjdÅº.)}
+{900}{}{UdaÅ‚o ci siÄ™ przekonaÄ‡ paniÄ… Bishop, by zmieniÅ‚a swoje Å¼ycie... na lepsze.}
 {1253}{}{.}
-{1315}{}{..." A wiêc "}
+{1315}{}{..." A wiÄ™c "}
 {1510}{}{, mmm-mmmm... mmmzmzrrm}
 {1511}{}{... oooch... }
 {1512}{}{... mmm...}
 {1591}{}{. }
-{1665}{}{... (Pani Bishop... Leslie... odwraca siê i opiera na ³okciach) Jego sejf jest chroniony pu³apk¹. Uwa¿aj, dobrze? Na nic mi siê nie przydasz bez swoich paluszków. (Uœmiecha siê i odwraca z powrotem)}
-{1760}{}{. Rozszerzacz le¿y w przegródce na samym spodzie sejfu... ¿aden z³odziej nie znajdzie go, o ile nie bêdzie wiedzia³, czego szuka.}
-{2315}{}{" ...jak ci siê, na litoœæ Bosk¹ wydaje - w czym mogê ci pomóc?}
+{1665}{}{... (Pani Bishop... Leslie... odwraca siÄ™ i opiera na Å‚okciach) Jego sejf jest chroniony puÅ‚apkÄ…. UwaÅ¼aj, dobrze? Na nic mi siÄ™ nie przydasz bez swoich paluszkÃ³w. (UÅ›miecha siÄ™ i odwraca z powrotem)}
+{1760}{}{. Rozszerzacz leÅ¼y w przegrÃ³dce na samym spodzie sejfu... Å¼aden zÅ‚odziej nie znajdzie go, o ile nie bÄ™dzie wiedziaÅ‚, czego szuka.}
+{2315}{}{" ...jak ci siÄ™, na litoÅ›Ä‡ BoskÄ… wydaje - w czym mogÄ™ ci pomÃ³c?}
 {2511}{}{... mmm}

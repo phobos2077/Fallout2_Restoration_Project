@@ -1,56 +1,56 @@
-{100}{}{Amandát látod.}
-{101}{}{Egy könnyes szem?, kimerült n?t látsz.}
-{102}{}{Amandát látod.}
-{103}{}{Egy könnyes szem?, kimerült n?t látsz.}
-{104}{}{Amandát látod. Most, hogy Joshua szabad, sokkal boldogabbnak t?nik.}
-{105}{}{Amandát látod.}
-{106}{}{Amandát látod. Most, hogy Joshua szabad, sokkal boldogabbnak t?nik.}
-{107}{}{Óh, Joshua !!!}
-{108}{}{Most mit csináljak?}
-{109}{}{Elfogyott a pénzem.}
-{110}{}{Bárcsak szabadon engednék szegényt.}
-{111}{}{Joshua, úgy örülök, hogy szabad vagy! Annyira aggódtam!}
-{112}{}{Sajnálom, de nincs semmim, amit adhatnék neked.}
-{113}{}{Kérlek, hagyj magamra, különben hívom az ?röket!}
+{100}{}{AmandÃ¡t lÃ¡tod.}
+{101}{}{Egy kÃ¶nnyes szem?, kimerÃ¼lt n?t lÃ¡tsz.}
+{102}{}{AmandÃ¡t lÃ¡tod.}
+{103}{}{Egy kÃ¶nnyes szem?, kimerÃ¼lt n?t lÃ¡tsz.}
+{104}{}{AmandÃ¡t lÃ¡tod. Most, hogy Joshua szabad, sokkal boldogabbnak t?nik.}
+{105}{}{AmandÃ¡t lÃ¡tod.}
+{106}{}{AmandÃ¡t lÃ¡tod. Most, hogy Joshua szabad, sokkal boldogabbnak t?nik.}
+{107}{}{Ã“h, Joshua !!!}
+{108}{}{Most mit csinÃ¡ljak?}
+{109}{}{Elfogyott a pÃ©nzem.}
+{110}{}{BÃ¡rcsak szabadon engednÃ©k szegÃ©nyt.}
+{111}{}{Joshua, Ãºgy Ã¶rÃ¼lÃ¶k, hogy szabad vagy! Annyira aggÃ³dtam!}
+{112}{}{SajnÃ¡lom, de nincs semmim, amit adhatnÃ©k neked.}
+{113}{}{KÃ©rlek, hagyj magamra, kÃ¼lÃ¶nben hÃ­vom az ?rÃ¶ket!}
 {114}{}{Mit akarsz?}
-{115}{}{Jól vagy? Egy kissé zaklatottnak t?nsz.}
+{115}{}{JÃ³l vagy? Egy kissÃ© zaklatottnak t?nsz.}
 {116}{}{Bocs, hogy zavartalak.}
-{117}{}{Szóval... a férjem, Joshua bajban van. Megütött egy Polgárt és letartóztatták. Nem állt szándékában, de hát ivott és...}
-{118}{}{Letartóztatták? Hol van most?}
-{119}{}{Részeg volt, verekedett. Mégis, mit vártál?}
-{120}{}{Sajnálom. Remélem, szabadon engedik.}
-{121}{}{A városban, a Szolgaközvetít? Központban. Azt mondták, ledolgozhatja a börtönbüntetését, mint Szolga, de ez évekig fog tartani.}
-{122}{}{Nem tudsz rajta segíteni?}
-{123}{}{Részeg volt, verekedett. Mégis, mit vártál?}
-{124}{}{Sajnálom. Remélem, szabadon engedik.}
-{125}{}{De hát csak baleset volt... ? nem akarta...}
-{126}{}{Elhiszem, de most már nyugodj meg, kérlek! Hol van most?}
-{127}{}{Nem akart megtámadni senkit? Na, persze, véletlenül belemászott az ökle egy Polgár képébe, igaz? Még hogy baleset! Remélem, mindketten tanultatok a történtekb?l.}
-{128}{}{Sajnálom. Remélem, szabadon engedik.}
-{129}{}{Elfogyott a pénzem, már nincs mib?l fizetni az ?röket. Hamarosan el kell mennem innen. Azt mondták, ha Joshuával akarok maradni, bel?lem is Szolgát csinálnak... *zokog*}
-{130}{}{Ez jó megoldásnak t?nik. A Szolgáknak jó életük van itt, nem igaz?}
-{131}{}{Rendben, segítek neked. Kit keressek?}
-{132}{}{Tudok segíteni, de nem ingyen.}
-{133}{}{Sajnálom. Remélem, szabadon engedik.}
-{134}{}{Nem akarom, hogy a fiam rabszolgaként n?jön fel. Azért jöttünk Menedékvárosba, mert úgy gondoltuk, itt új életet kezdhetünk, de amikor ideértünk... szóval itt van ez a csomó törvény, meg a fizetség az ?röknek. Semmi sem olyan, mint amilyennek elképzeltük.}
-{135}{}{Rendben, segítek neked. Kit keressek?}
-{136}{}{Sajnálom. Remélem, szabadon engedik.}
-{137}{}{A Szolgák f?nökét Barkusnak hívják, Barkus Hivatalnok. Még csak be sem tudtam jutni a városba, hogy lássam a férjemet. Azt sem tudom, él-e még egyáltalán.}
-{138}{}{Ne aggódj, beszélek vele! Visszakapod a férjed.}
-{139}{}{De hát nekem... nincs pénzem.}
-{140}{}{Én nem is pénzre gondoltam... szivi.}
-{141}{}{Bocsáss meg, egy pillanatra elvesztettem a fejem. Tehát kit keressek?}
-{142}{}{Hát az bizony nagy kár.}
-{143}{}{Mire célzol? Ó... nem... AZT... nem lehet. Úgy értem...}
-{144}{}{Mindent megtennél, hogy a férjedet szabadon engedjék, igaz? Egyébként is nem kell megtudnia.}
-{145}{}{Bocsáss meg, egy pillanatra elvesztettem a fejem. Tehát kit keressek?}
-{146}{}{Úgy érted... nem? Hát bizony az NAGY kár, aranyom. NAGY élményben lett volna részed.}
-{147}{}{Ha megígéred, hogy kiszabadítod a férjemet, én... én... hát legyen. Behajtom a sátorajtót. Azt hiszem, a fiam még mindig kint játszik, nem fog senki megzavarni minket.}
-{148}{}{Ne aggódj! Kiszabadítom a férjedet, miután jó alaposan... megismertük egymást.}
-{149}{}{Bocsáss meg, csak hülye tréfa volt. Megnézem, mit tehetek.}
-{150}{}{Tudod mit? Felejtsük el az egészet!}
-{151}{}{Hé, és velem mi lesz?!}
-{152}{}{Kérlek, szabadítsd ki Joshuát! A városban van, a Szolgaközvetít? Központban.}
-{153}{}{Köszönöm, hogy kiszabadítottad a férjemet. Kérlek, fogadd el ezt a kis pénzt! Nem sok, de ennél többet nem tudok adni.}
-{154}{}{Még egyszer köszönöm, hogy kiszabadítottad a férjemet. Hamarosan elmegyünk innen.}
-{155}{}{Köszönöm, hogy kiszabadítottad a férjemet... és... kérlek, ne mondd el neki, mi történt köztünk!}
+{117}{}{SzÃ³val... a fÃ©rjem, Joshua bajban van. MegÃ¼tÃ¶tt egy PolgÃ¡rt Ã©s letartÃ³ztattÃ¡k. Nem Ã¡llt szÃ¡ndÃ©kÃ¡ban, de hÃ¡t ivott Ã©s...}
+{118}{}{LetartÃ³ztattÃ¡k? Hol van most?}
+{119}{}{RÃ©szeg volt, verekedett. MÃ©gis, mit vÃ¡rtÃ¡l?}
+{120}{}{SajnÃ¡lom. RemÃ©lem, szabadon engedik.}
+{121}{}{A vÃ¡rosban, a SzolgakÃ¶zvetÃ­t? KÃ¶zpontban. Azt mondtÃ¡k, ledolgozhatja a bÃ¶rtÃ¶nbÃ¼ntetÃ©sÃ©t, mint Szolga, de ez Ã©vekig fog tartani.}
+{122}{}{Nem tudsz rajta segÃ­teni?}
+{123}{}{RÃ©szeg volt, verekedett. MÃ©gis, mit vÃ¡rtÃ¡l?}
+{124}{}{SajnÃ¡lom. RemÃ©lem, szabadon engedik.}
+{125}{}{De hÃ¡t csak baleset volt... ? nem akarta...}
+{126}{}{Elhiszem, de most mÃ¡r nyugodj meg, kÃ©rlek! Hol van most?}
+{127}{}{Nem akart megtÃ¡madni senkit? Na, persze, vÃ©letlenÃ¼l belemÃ¡szott az Ã¶kle egy PolgÃ¡r kÃ©pÃ©be, igaz? MÃ©g hogy baleset! RemÃ©lem, mindketten tanultatok a tÃ¶rtÃ©ntekb?l.}
+{128}{}{SajnÃ¡lom. RemÃ©lem, szabadon engedik.}
+{129}{}{Elfogyott a pÃ©nzem, mÃ¡r nincs mib?l fizetni az ?rÃ¶ket. Hamarosan el kell mennem innen. Azt mondtÃ¡k, ha JoshuÃ¡val akarok maradni, bel?lem is SzolgÃ¡t csinÃ¡lnak... *zokog*}
+{130}{}{Ez jÃ³ megoldÃ¡snak t?nik. A SzolgÃ¡knak jÃ³ Ã©letÃ¼k van itt, nem igaz?}
+{131}{}{Rendben, segÃ­tek neked. Kit keressek?}
+{132}{}{Tudok segÃ­teni, de nem ingyen.}
+{133}{}{SajnÃ¡lom. RemÃ©lem, szabadon engedik.}
+{134}{}{Nem akarom, hogy a fiam rabszolgakÃ©nt n?jÃ¶n fel. AzÃ©rt jÃ¶ttÃ¼nk MenedÃ©kvÃ¡rosba, mert Ãºgy gondoltuk, itt Ãºj Ã©letet kezdhetÃ¼nk, de amikor ideÃ©rtÃ¼nk... szÃ³val itt van ez a csomÃ³ tÃ¶rvÃ©ny, meg a fizetsÃ©g az ?rÃ¶knek. Semmi sem olyan, mint amilyennek elkÃ©pzeltÃ¼k.}
+{135}{}{Rendben, segÃ­tek neked. Kit keressek?}
+{136}{}{SajnÃ¡lom. RemÃ©lem, szabadon engedik.}
+{137}{}{A SzolgÃ¡k f?nÃ¶kÃ©t Barkusnak hÃ­vjÃ¡k, Barkus Hivatalnok. MÃ©g csak be sem tudtam jutni a vÃ¡rosba, hogy lÃ¡ssam a fÃ©rjemet. Azt sem tudom, Ã©l-e mÃ©g egyÃ¡ltalÃ¡n.}
+{138}{}{Ne aggÃ³dj, beszÃ©lek vele! Visszakapod a fÃ©rjed.}
+{139}{}{De hÃ¡t nekem... nincs pÃ©nzem.}
+{140}{}{Ã‰n nem is pÃ©nzre gondoltam... szivi.}
+{141}{}{BocsÃ¡ss meg, egy pillanatra elvesztettem a fejem. TehÃ¡t kit keressek?}
+{142}{}{HÃ¡t az bizony nagy kÃ¡r.}
+{143}{}{Mire cÃ©lzol? Ã“... nem... AZT... nem lehet. Ãšgy Ã©rtem...}
+{144}{}{Mindent megtennÃ©l, hogy a fÃ©rjedet szabadon engedjÃ©k, igaz? EgyÃ©bkÃ©nt is nem kell megtudnia.}
+{145}{}{BocsÃ¡ss meg, egy pillanatra elvesztettem a fejem. TehÃ¡t kit keressek?}
+{146}{}{Ãšgy Ã©rted... nem? HÃ¡t bizony az NAGY kÃ¡r, aranyom. NAGY Ã©lmÃ©nyben lett volna rÃ©szed.}
+{147}{}{Ha megÃ­gÃ©red, hogy kiszabadÃ­tod a fÃ©rjemet, Ã©n... Ã©n... hÃ¡t legyen. Behajtom a sÃ¡torajtÃ³t. Azt hiszem, a fiam mÃ©g mindig kint jÃ¡tszik, nem fog senki megzavarni minket.}
+{148}{}{Ne aggÃ³dj! KiszabadÃ­tom a fÃ©rjedet, miutÃ¡n jÃ³ alaposan... megismertÃ¼k egymÃ¡st.}
+{149}{}{BocsÃ¡ss meg, csak hÃ¼lye trÃ©fa volt. MegnÃ©zem, mit tehetek.}
+{150}{}{Tudod mit? FelejtsÃ¼k el az egÃ©szet!}
+{151}{}{HÃ©, Ã©s velem mi lesz?!}
+{152}{}{KÃ©rlek, szabadÃ­tsd ki JoshuÃ¡t! A vÃ¡rosban van, a SzolgakÃ¶zvetÃ­t? KÃ¶zpontban.}
+{153}{}{KÃ¶szÃ¶nÃ¶m, hogy kiszabadÃ­tottad a fÃ©rjemet. KÃ©rlek, fogadd el ezt a kis pÃ©nzt! Nem sok, de ennÃ©l tÃ¶bbet nem tudok adni.}
+{154}{}{MÃ©g egyszer kÃ¶szÃ¶nÃ¶m, hogy kiszabadÃ­tottad a fÃ©rjemet. Hamarosan elmegyÃ¼nk innen.}
+{155}{}{KÃ¶szÃ¶nÃ¶m, hogy kiszabadÃ­tottad a fÃ©rjemet... Ã©s... kÃ©rlek, ne mondd el neki, mi tÃ¶rtÃ©nt kÃ¶ztÃ¼nk!}

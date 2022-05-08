@@ -1,7 +1,7 @@
 {100}{}{Tu vois une ancienne console.}
-{101}{}{On dirait la vieille console de contrôle de lancement des torpilles. La plupart des moniteurs manquent ou sont cassés, un seul est tout juste opérationnel. Quelques données s'affichent aléatoirement sur l'écran vacillant.}
-{200}{}{Le système d'exploitation a l'air corrompu, il ne répond pas à tes commandes comme il devrait. Tu pourrais accéder au système avec une approche plus scientifique.}
-{210}{}{Avec quelques commandes avancées, tu redémarres le système correctement. Quelques lignes de codes plus tard, les systèmes de guidage des torpilles sont déconnectés et parés à exploser un petit moment après avoir quitté les tubes. Science !}
-{211}{}{Tu joues avec le système quelques minutes, mais c'est au-delà de tes compétences. On dirait qu'il va te falloir trouver un autre moyen de désactiver les torpilles.}
+{101}{}{On dirait la vieille console de contrÃ´le de lancement des torpilles. La plupart des moniteurs manquent ou sont cassÃ©s, un seul est tout juste opÃ©rationnel. Quelques donnÃ©es s'affichent alÃ©atoirement sur l'Ã©cran vacillant.}
+{200}{}{Le systÃ¨me d'exploitation a l'air corrompu, il ne rÃ©pond pas Ã  tes commandes comme il devrait. Tu pourrais accÃ©der au systÃ¨me avec une approche plus scientifique.}
+{210}{}{Avec quelques commandes avancÃ©es, tu redÃ©marres le systÃ¨me correctement. Quelques lignes de codes plus tard, les systÃ¨mes de guidage des torpilles sont dÃ©connectÃ©s et parÃ©s Ã  exploser un petit moment aprÃ¨s avoir quittÃ© les tubes. Science !}
+{211}{}{Tu joues avec le systÃ¨me quelques minutes, mais c'est au-delÃ  de tes compÃ©tences. On dirait qu'il va te falloir trouver un autre moyen de dÃ©sactiver les torpilles.}
 {212}{}{<Bip>}
 {213}{}{<Biip boop>}

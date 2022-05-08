@@ -5,137 +5,137 @@
 {200}{}{Ves a un hombre de aspecto harapiento.}
 {225}{}{No parece estar muy sano.}
 {250}{}{Ves a una mujer cautiva.}
-{275}{}{Está sucia y parece mal nutrida.}
-{300}{}{¡No daño, por favor!}
-{301}{}{¿Nosotros marchar ahora?}
+{275}{}{EstÃ¡ sucia y parece mal nutrida.}
+{300}{}{Â¡No daÃ±o, por favor!}
+{301}{}{Â¿Nosotros marchar ahora?}
 {302}{}{Ahora no hablar. Correr.}
 {303}{}{Gracias por tu ayuda.}
-{304}{}{¡Muchísimas gracias!}
+{304}{}{Â¡MuchÃ­simas gracias!}
 {305}{}{Eres una santa.}
-{306}{}{¿Qué haces? Debemos irnos.}
-{307}{}{Por favor, ayúdanos a escapar.}
-{320}{}{¡Malo!}
-{321}{}{Nosotros no hablar con tú.}
+{306}{}{Â¿QuÃ© haces? Debemos irnos.}
+{307}{}{Por favor, ayÃºdanos a escapar.}
+{320}{}{Â¡Malo!}
+{321}{}{Nosotros no hablar con tÃº.}
 {322}{}{Nosotros libres.}
 {323}{}{Tu no retener nosotros.}
-{324}{}{¡Esclavista!}
-{325}{}{¿Por qué los esclavistas nos hacéis esto?}
-{326}{}{¿Cómo puedes trabajar para esta gente?}
-{327}{}{¡No somos primitivos!}
-{328}{}{¿Es qué no tienes moral?}
-{329}{}{¿Qué nos va a pasar a nosotros?}
-{330}{}{¿Qué mal hemos hecho?}
-{331}{}{¡Déjanos en paz, esclavista!}
-{332}{}{¡No me hagas daño!}
-{333}{}{¡Aléjate de mi!}
-{350}{}{¿Quién tú?}
-{351}{}{Tú no esclavista.}
-{352}{}{¿Tú no daño?}
-{353}{}{¿Amigo?}
-{354}{}{¿Tú ayuda?}
-{355}{}{¿Qué nos va a pasar a nosotros?}
-{356}{}{¿También te han capturado?}
-{357}{}{¡No somos primitivos!}
-{358}{}{¿Quién se cree esta gente que somos?}
-{359}{}{¡Por favor, ayúdanos!}
-{360}{}{Sácame de aquí.}
-{380}{}{¡Tu no atrapar aquí!}
-{381}{}{¡No derecho!}
-{382}{}{¡Nosotros no malos!}
-{383}{}{¿Ayuda nosotros?}
-{384}{}{¡Libéranos!}
+{324}{}{Â¡Esclavista!}
+{325}{}{Â¿Por quÃ© los esclavistas nos hacÃ©is esto?}
+{326}{}{Â¿CÃ³mo puedes trabajar para esta gente?}
+{327}{}{Â¡No somos primitivos!}
+{328}{}{Â¿Es quÃ© no tienes moral?}
+{329}{}{Â¿QuÃ© nos va a pasar a nosotros?}
+{330}{}{Â¿QuÃ© mal hemos hecho?}
+{331}{}{Â¡DÃ©janos en paz, esclavista!}
+{332}{}{Â¡No me hagas daÃ±o!}
+{333}{}{Â¡AlÃ©jate de mi!}
+{350}{}{Â¿QuiÃ©n tÃº?}
+{351}{}{TÃº no esclavista.}
+{352}{}{Â¿TÃº no daÃ±o?}
+{353}{}{Â¿Amigo?}
+{354}{}{Â¿TÃº ayuda?}
+{355}{}{Â¿QuÃ© nos va a pasar a nosotros?}
+{356}{}{Â¿TambiÃ©n te han capturado?}
+{357}{}{Â¡No somos primitivos!}
+{358}{}{Â¿QuiÃ©n se cree esta gente que somos?}
+{359}{}{Â¡Por favor, ayÃºdanos!}
+{360}{}{SÃ¡came de aquÃ­.}
+{380}{}{Â¡Tu no atrapar aquÃ­!}
+{381}{}{Â¡No derecho!}
+{382}{}{Â¡Nosotros no malos!}
+{383}{}{Â¿Ayuda nosotros?}
+{384}{}{Â¡LibÃ©ranos!}
 {385}{}{No gusta.}
 {386}{}{Mal sitio.}
-{387}{}{¿Por qué gente mala hacer esto?}
-{388}{}{¡Nosotros no esclavos!}
+{387}{}{Â¿Por quÃ© gente mala hacer esto?}
+{388}{}{Â¡Nosotros no esclavos!}
 {389}{}{Nosotros no hacer nada malo.}
-{390}{}{¡Dejar marchar!}
-{391}{}{¿Qué pasar?}
-{392}{}{¿Gran ruido?}
-{393}{}{¿Quién luchar?}
-{394}{}{¿Qué ocurrir?}
-{395}{}{¿Ocurre algo?}
-{396}{}{¡Que alguien nos ayude!}
-{397}{}{¡Eh! ¿Es qué nadie me oye?}
-{398}{}{¡Esto está mal!}
-{399}{}{¡No hemos hecho nada!}
-{400}{}{¡Dejadnos salir!}
-{401}{}{¡Que alguien nos saque de aquí!}
-{402}{}{¿Qué hemos hecho?}
+{390}{}{Â¡Dejar marchar!}
+{391}{}{Â¿QuÃ© pasar?}
+{392}{}{Â¿Gran ruido?}
+{393}{}{Â¿QuiÃ©n luchar?}
+{394}{}{Â¿QuÃ© ocurrir?}
+{395}{}{Â¿Ocurre algo?}
+{396}{}{Â¡Que alguien nos ayude!}
+{397}{}{Â¡Eh! Â¿Es quÃ© nadie me oye?}
+{398}{}{Â¡Esto estÃ¡ mal!}
+{399}{}{Â¡No hemos hecho nada!}
+{400}{}{Â¡Dejadnos salir!}
+{401}{}{Â¡Que alguien nos saque de aquÃ­!}
+{402}{}{Â¿QuÃ© hemos hecho?}
 {403}{}{No hicimos nada.}
 {404}{}{No nos merecemos esto.}
-{405}{}{¡Bastardos!}
-{406}{}{¡Ayúdanos!}
-{407}{}{¡Déjame salir!}
-{408}{}{¡No somos esclavos!}
-{409}{}{¡No somos primitivos! ¡Déjanos salir de aquí!}
-{410}{}{¿Qué está pasando?}
-{411}{}{¿Alguien ha venido a salvarnos?}
-{412}{}{¡Eh, aquí!}
-{413}{}{¡Ayuda! ¡No nos dejes aquí!}
-{414}{}{¿Qué eran todos esos disparos?}
-{415}{}{¿Qué pasa?}
+{405}{}{Â¡Bastardos!}
+{406}{}{Â¡AyÃºdanos!}
+{407}{}{Â¡DÃ©jame salir!}
+{408}{}{Â¡No somos esclavos!}
+{409}{}{Â¡No somos primitivos! Â¡DÃ©janos salir de aquÃ­!}
+{410}{}{Â¿QuÃ© estÃ¡ pasando?}
+{411}{}{Â¿Alguien ha venido a salvarnos?}
+{412}{}{Â¡Eh, aquÃ­!}
+{413}{}{Â¡Ayuda! Â¡No nos dejes aquÃ­!}
+{414}{}{Â¿QuÃ© eran todos esos disparos?}
+{415}{}{Â¿QuÃ© pasa?}
 {420}{}{Ahhh!}
 {421}{}{Ug!}
-{422}{}{¡No pares!}
-{423}{}{¡Sí!}
-{424}{}{Voy a alejarme de este lugar lo más que pueda.}
-{425}{}{¡Sigue moviéndote!}
-{426}{}{¡Libre! ¡Libre al fin!}
-{440}{}{¿Qué ser esos disparos? ¿Qué querer?}
-{441}{}{¡Eh! ¿Qué han sido todos esos disparos? ¿Están muertos los esclavistas?}
-{442}{}{¡Eh! ¿Qué han sido todos esos disparos? ¿Qué está pasando?}
-{443}{}{Eso ha sido el último trago de Metzger.}
-{444}{}{Oh, nada. Tan sólo me aseguraba de que estabas aquí. Adiós.}
-{445}{}{Eres libre de irte. Metzger está muerto.}
+{422}{}{Â¡No pares!}
+{423}{}{Â¡SÃ­!}
+{424}{}{Voy a alejarme de este lugar lo mÃ¡s que pueda.}
+{425}{}{Â¡Sigue moviÃ©ndote!}
+{426}{}{Â¡Libre! Â¡Libre al fin!}
+{440}{}{Â¿QuÃ© ser esos disparos? Â¿QuÃ© querer?}
+{441}{}{Â¡Eh! Â¿QuÃ© han sido todos esos disparos? Â¿EstÃ¡n muertos los esclavistas?}
+{442}{}{Â¡Eh! Â¿QuÃ© han sido todos esos disparos? Â¿QuÃ© estÃ¡ pasando?}
+{443}{}{Eso ha sido el Ãºltimo trago de Metzger.}
+{444}{}{Oh, nada. Tan sÃ³lo me aseguraba de que estabas aquÃ­. AdiÃ³s.}
+{445}{}{Eres libre de irte. Metzger estÃ¡ muerto.}
 {446}{}{Tu libre.}
-{447}{}{ amigo. Él mata a Mezgur. Tú marchas. }
-{448}{}{ amiga. Ella mata a Mezgur. Tú marchas.}
-{460}{}{¿Muerto? ¡Yo gracias tú! Nosotros marchar pronto. Adiós. Tú, amiga.}
-{461}{}{¿Qué? ¿Metzger está muerto? Oh, ¡muchísimas gracias! Será mejor que nos vayamos antes de que aparezcan más. Gracias de nuevo.}
-{462}{}{De nada. Ahora lárgate de aquí.}
-{463}{}{Cuídate.}
-{464}{}{No hay de qué.}
-{470}{}{Espera, una cosa más. Estoy buscando a alguien especifico y no la veo aquí. ¿Sabes dónde podrían estar los otros esclavos?}
-{471}{}{Gran campamento cerca de aquí. (Los puntos tribales al sur oeste) Dos lunas desde aquí.}
-{472}{}{Hay un campamento a unos 2 días de viaje al sudeste de aquí. Ahí es donde estuve primero.}
-{473}{}{Gracias. Ahora fuera de aquí.}
+{447}{}{ amigo. Ã‰l mata a Mezgur. TÃº marchas. }
+{448}{}{ amiga. Ella mata a Mezgur. TÃº marchas.}
+{460}{}{Â¿Muerto? Â¡Yo gracias tÃº! Nosotros marchar pronto. AdiÃ³s. TÃº, amiga.}
+{461}{}{Â¿QuÃ©? Â¿Metzger estÃ¡ muerto? Oh, Â¡muchÃ­simas gracias! SerÃ¡ mejor que nos vayamos antes de que aparezcan mÃ¡s. Gracias de nuevo.}
+{462}{}{De nada. Ahora lÃ¡rgate de aquÃ­.}
+{463}{}{CuÃ­date.}
+{464}{}{No hay de quÃ©.}
+{470}{}{Espera, una cosa mÃ¡s. Estoy buscando a alguien especifico y no la veo aquÃ­. Â¿Sabes dÃ³nde podrÃ­an estar los otros esclavos?}
+{471}{}{Gran campamento cerca de aquÃ­. (Los puntos tribales al sur oeste) Dos lunas desde aquÃ­.}
+{472}{}{Hay un campamento a unos 2 dÃ­as de viaje al sudeste de aquÃ­. AhÃ­ es donde estuve primero.}
+{473}{}{Gracias. Ahora fuera de aquÃ­.}
 {474}{}{Gracias. Ten cuidado, entonces.}
-{475}{}{Espero. Busco a alguien. ¿Donde están más esclavos?}
-{476}{}{Gracias. ¡Ahora ir!}
-{480}{}{¿Qué quieres?}
-{481}{}{¿Qué quieres?}
+{475}{}{Espero. Busco a alguien. Â¿Donde estÃ¡n mÃ¡s esclavos?}
+{476}{}{Gracias. Â¡Ahora ir!}
+{480}{}{Â¿QuÃ© quieres?}
+{481}{}{Â¿QuÃ© quieres?}
 {482}{}{Oh, nada.}
-{500}{}{¿Eh?}
-{501}{}{Da igual. Eres libre de irte. Metzger está muerto.}
-{510}{}{¿Qué? ¿Libre? ¿Hombre malo irse? ¡Nosotros marchar ahora! Gracias. ¡Tú amiga! ¡Adiós!}
-{511}{}{¿Libre? ¿Qué? ¿Los has matado a todos? ¡Muchas gracias! Será mejor que nos vayamos mientras podamos. Gracias de nuevo, ¡eres una santa!}
-{520}{}{¡Te maldigo!}
-{521}{}{¡Púdrete en el infierno!}
-{522}{}{Pagarás por esto.}
-{523}{}{¿Por qué hablas conmigo?}
-{524}{}{Déjame tranquilo.}
+{500}{}{Â¿Eh?}
+{501}{}{Da igual. Eres libre de irte. Metzger estÃ¡ muerto.}
+{510}{}{Â¿QuÃ©? Â¿Libre? Â¿Hombre malo irse? Â¡Nosotros marchar ahora! Gracias. Â¡TÃº amiga! Â¡AdiÃ³s!}
+{511}{}{Â¿Libre? Â¿QuÃ©? Â¿Los has matado a todos? Â¡Muchas gracias! SerÃ¡ mejor que nos vayamos mientras podamos. Gracias de nuevo, Â¡eres una santa!}
+{520}{}{Â¡Te maldigo!}
+{521}{}{Â¡PÃºdrete en el infierno!}
+{522}{}{PagarÃ¡s por esto.}
+{523}{}{Â¿Por quÃ© hablas conmigo?}
+{524}{}{DÃ©jame tranquilo.}
 {525}{}{No quiero hablar contigo.}
-{526}{}{¡¿Cómo has podido?!}
+{526}{}{Â¡Â¿CÃ³mo has podido?!}
 {527}{}{No quiero volver a verte nunca.}
 {528}{}{Esto no va a cambiar las cosas.}
-{529}{}{Seguiré mi propio camino, si no te importa.}
+{529}{}{SeguirÃ© mi propio camino, si no te importa.}
 {530}{}{Por favor, deja que me vaya.}
-{531}{}{Tan sólo déjame seguir mi camino.}
+{531}{}{Tan sÃ³lo dÃ©jame seguir mi camino.}
 {532}{}{Sigo sin querer hablar contigo.}
-{533}{}{Déjame tranquilo.}
+{533}{}{DÃ©jame tranquilo.}
 {534}{}{Ni lo pienses.}
-{535}{}{¿Crees que esto mejorará las cosas?}
-{600}{}{¿Nosotros marchar?}
-{601}{}{¿No daño?}
-{602}{}{¡Adelante!}
-{603}{}{¡Casa!}
-{604}{}{¿Libre?}
-{605}{}{¿Eh?}
-{606}{}{¿Qué?}
-{607}{}{¿Has dicho libre?}
-{608}{}{¡Me largo de aquí!}
-{609}{}{¡Vámonos!}
-{610}{}{¡Todos! ¡Somos libres!}
-{611}{}{¡Vivaaaaa!}
+{535}{}{Â¿Crees que esto mejorarÃ¡ las cosas?}
+{600}{}{Â¿Nosotros marchar?}
+{601}{}{Â¿No daÃ±o?}
+{602}{}{Â¡Adelante!}
+{603}{}{Â¡Casa!}
+{604}{}{Â¿Libre?}
+{605}{}{Â¿Eh?}
+{606}{}{Â¿QuÃ©?}
+{607}{}{Â¿Has dicho libre?}
+{608}{}{Â¡Me largo de aquÃ­!}
+{609}{}{Â¡VÃ¡monos!}
+{610}{}{Â¡Todos! Â¡Somos libres!}
+{611}{}{Â¡Vivaaaaa!}
 {700}{}{Has liberado a los esclavos de sus jaulas.}

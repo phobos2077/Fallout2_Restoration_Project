@@ -1,8 +1,8 @@
-{100}{}{Ez egy SIAD-BG típusú tarack.}
-{101}{}{Bár rozogának t?nik, szerinted még képes tüzelni, feltéve, ha találsz hozzá lövedéket.}
-{102}{}{A tüzel? mechanizmus összeolvadt. Mostantól maximum egy két tonnás levélnehezéknek lehetne használni.}
-{200}{}{A tarack már meg van töltve.}
-{201}{}{Behelyezted a lövedéket a tarackba.}
-{210}{}{A tarackkal rál?sz az ajtóra, amin hatalmas nyílás robban.}
+{100}{}{Ez egy SIAD-BG tÃ­pusÃº tarack.}
+{101}{}{BÃ¡r rozogÃ¡nak t?nik, szerinted mÃ©g kÃ©pes tÃ¼zelni, feltÃ©ve, ha talÃ¡lsz hozzÃ¡ lÃ¶vedÃ©ket.}
+{102}{}{A tÃ¼zel? mechanizmus Ã¶sszeolvadt. MostantÃ³l maximum egy kÃ©t tonnÃ¡s levÃ©lnehezÃ©knek lehetne hasznÃ¡lni.}
+{200}{}{A tarack mÃ¡r meg van tÃ¶ltve.}
+{201}{}{Behelyezted a lÃ¶vedÃ©ket a tarackba.}
+{210}{}{A tarackkal rÃ¡l?sz az ajtÃ³ra, amin hatalmas nyÃ­lÃ¡s robban.}
 {211}{}{A tarackban nincs semmi, amit kil?hetne.}
-{212}{}{Elsütöd a tarackot.}
+{212}{}{ElsÃ¼tÃ¶d a tarackot.}

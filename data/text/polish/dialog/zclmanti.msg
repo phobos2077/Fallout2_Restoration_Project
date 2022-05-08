@@ -1,1 +1,1 @@
-{100}{}{Widzisz modliszkê.}
+{100}{}{Widzisz modliszkÄ™.}

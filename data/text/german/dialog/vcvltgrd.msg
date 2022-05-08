@@ -1,10 +1,10 @@
-{100}{}{Du siehst einen pflichtbewusst dreinschauenden Wachmann. Der Wachmann trägt eine
- Metallrüstung und ein schweres Gewehr.}
+{100}{}{Du siehst einen pflichtbewusst dreinschauenden Wachmann. Der Wachmann trÃ¤gt eine
+ MetallrÃ¼stung und ein schweres Gewehr.}
 {101}{}{Du siehst eine Wache von Vault City.}
 {102}{}{Ja? Was gibt es?}
 {103}{}{Ick gehn in gross LOCK in Seite von Higel.}
-{104}{}{Ich möchte gerne in die Vault.}
-{105}{}{Nichts. Entschuldige die Störung.}
+{104}{}{Ich mÃ¶chte gerne in die Vault.}
+{105}{}{Nichts. Entschuldige die StÃ¶rung.}
 {106}{}{Es ist schon nach 18 Uhr. Du musst gehen.}
 {107}{}{OK, ich hau ab.}
 {108}{}{OK. Nur noch eine Minute, bitte.}
@@ -15,30 +15,30 @@
 {113}{}{Brog Frup}
 {114}{}{Keine Sorge. Ich find schon allein raus..}
 {115}{}{Tut mir leid, aber ich habe meine Befehle.}
-{116}{}{OK...aber ich finde das nicht in Ordnung. Ich könnte offiziell Beschwerde einl...}
+{116}{}{OK...aber ich finde das nicht in Ordnung. Ich kÃ¶nnte offiziell Beschwerde einl...}
 {117}{}{Ich bleibe.}
-{118}{}{Ich möchte keine Gewalt anwenden, aber ich werde es notfalls tun. Mach es doch nicht noch
+{118}{}{Ich mÃ¶chte keine Gewalt anwenden, aber ich werde es notfalls tun. Mach es doch nicht noch
  schlimmer als es ist.}
 {119}{}{OK, ist ja gut... ich geh ja schon.}
 {120}{}{Wenn du es wagst, mich anzufassen, poliere ich dir die Fresse.}
-{121}{}{Hallo Bürger. Kann ich dir helfen?}
-{122}{}{Ich möchte gerne in die Vault.}
+{121}{}{Hallo BÃ¼rger. Kann ich dir helfen?}
+{122}{}{Ich mÃ¶chte gerne in die Vault.}
 {123}{}{Ick gehn in gross LOCK in Seite von Higel.}
 {124}{}{Nichts im Moment.}
-{125}{}{Tut mir leid. Nur Bürger dürfen die Vault betreten. Dafür hast du sicher Verständnis.}
-{126}{}{Nur Bürger dürfen hier hinein. Und jetzt verschwinde.}
+{125}{}{Tut mir leid. Nur BÃ¼rger dÃ¼rfen die Vault betreten. DafÃ¼r hast du sicher VerstÃ¤ndnis.}
+{126}{}{Nur BÃ¼rger dÃ¼rfen hier hinein. Und jetzt verschwinde.}
 {127}{}{OK.}
 {128}{}{Amgh}
-{129}{}{Selbstverständlich. Bitte tritt ein.}
+{129}{}{SelbstverstÃ¤ndlich. Bitte tritt ein.}
 {130}{}{Danki!}
 {131}{}{Danke.}
 {132}{}{Ja? Kann ich dir helfen?}
-{133}{}{Ich möchte gerne in die Vault.}
-{134}{}{Nichts. Entschuldige die Störung.}
-{135}{}{Tut mir leid, aber nur Bürger dürfen die Vault betreten.}
-{136}{}{Aber ich *bin* doch Bürger!}
-{137}{}{Tut mir leid... ich kenne dich nicht. Ich habe den Befehl, nur Bürger in die Vault
- zu lassen, die ich kenne. Vielleicht kann Erstbürgerin Lynette dir helfen. Schönen Tag noch.}
+{133}{}{Ich mÃ¶chte gerne in die Vault.}
+{134}{}{Nichts. Entschuldige die StÃ¶rung.}
+{135}{}{Tut mir leid, aber nur BÃ¼rger dÃ¼rfen die Vault betreten.}
+{136}{}{Aber ich *bin* doch BÃ¼rger!}
+{137}{}{Tut mir leid... ich kenne dich nicht. Ich habe den Befehl, nur BÃ¼rger in die Vault
+ zu lassen, die ich kenne. Vielleicht kann ErstbÃ¼rgerin Lynette dir helfen. SchÃ¶nen Tag noch.}
 {138}{}{Hallo, Hauptmann. Kann ich dir helfen?}
 {139}{}{Oh, okay.}
 {140}{}{Ja sicher. Ich hab mich nur umgesehen.}
@@ -49,37 +49,37 @@
 {145}{}{Briep... uup fuup fuup}
 {146}{}{Ein Ghul? Wo?}
 {147}{}{Ein Mutant? Wo?}
-{148}{}{Der gehört zu mir.}
-{149}{}{Wir reisen zusammen. Falls einer von euch Rassisten was dagegen hat, können wir das jetzt
- gleich an Ort und Stelle klären.}
-{150}{}{Wenn diese Kreatur mit dir zusammen reist, dann gehört ihr beide in den Vorhof, und nicht auf die Straßen von Vault City.}
+{148}{}{Der gehÃ¶rt zu mir.}
+{149}{}{Wir reisen zusammen. Falls einer von euch Rassisten was dagegen hat, kÃ¶nnen wir das jetzt
+ gleich an Ort und Stelle klÃ¤ren.}
+{150}{}{Wenn diese Kreatur mit dir zusammen reist, dann gehÃ¶rt ihr beide in den Vorhof, und nicht auf die StraÃŸen von Vault City.}
 {151}{}{Alles klar, wir kommen ganz friedlich mit.}
-{152}{}{Warum versucht ihr nicht, uns rauszubringen? Dabei könntet ihr ganz sicher was lernen.}
-{153}{}{Wie kommen diese Außenweltler denn überhaupt hier rein...?}
+{152}{}{Warum versucht ihr nicht, uns rauszubringen? Dabei kÃ¶nntet ihr ganz sicher was lernen.}
+{153}{}{Wie kommen diese AuÃŸenweltler denn Ã¼berhaupt hier rein...?}
 {154}{}{Diese Kreatur da.}
-{155}{}{Ihr gehört beide in den Vorhof, und nicht in die Straßen von Vault City.}
+{155}{}{Ihr gehÃ¶rt beide in den Vorhof, und nicht in die StraÃŸen von Vault City.}
 {156}{}{IG NIX GEH DAS FREUNT! DUH NIX FREUN!}
 {157}{}{Wir gehn ganz leise weg weg weg.}
 {158}{}{Alles klar, wir kommen ganz friedlich mit.}
-{159}{}{Wir reisen zusammen. Falls einer von euch Rassisten was dagegen hat, können wir das jetzt
- gleich an Ort und Stelle klären.}
+{159}{}{Wir reisen zusammen. Falls einer von euch Rassisten was dagegen hat, kÃ¶nnen wir das jetzt
+ gleich an Ort und Stelle klÃ¤ren.}
 {160}{}{Wache! Eindringlinge in der Stadt!}
 {161}{}{Hrnghhhhhhhh!}
 {162}{}{Bevor eure Freunde hier sind, seid ihr tot.}
 {163}{}{Heh! Du hast doch die Enklave besiegt!}
 {164}{}{Seht doch mal, es ist der, der die Enklave besiegt hat!}
 {165}{}{Willkommen in Vault City.}
-{166}{}{Dein Kampf gegen die Enklave hat selbst der Erstbürgerin beeindruckt.}
-{167}{}{Ich habe gehört, du bist bis ganz runter in den Süden gereist, bis nach San Francisco.
+{166}{}{Dein Kampf gegen die Enklave hat selbst der ErstbÃ¼rgerin beeindruckt.}
+{167}{}{Ich habe gehÃ¶rt, du bist bis ganz runter in den SÃ¼den gereist, bis nach San Francisco.
  Stimmt das?}
-{168}{}{Stimmt es, dass die Vereinigten Staaten den Krieg immer noch weitergeführt haben?}
+{168}{}{Stimmt es, dass die Vereinigten Staaten den Krieg immer noch weitergefÃ¼hrt haben?}
 {169}{}{Du solltest deine Reisen im Computer von Vault City dokumentieren.}
 {170}{}{Bleib hier in Vault City, so lange du willst.}
 {171}{}{Du solltest deine Heldentaten gegen die Enklave aufschreiben und auf dem Listenserver
- veröffentlichen.}
+ verÃ¶ffentlichen.}
 {172}{}{Hauptmann.}
 {173}{}{Vault City wird bestehen, Hauptmann.}
 {174}{}{Hallo, Hauptmann.}
-{175}{}{Vault City wird bestehen, Bürger.}
-{176}{}{Bürger.}
-{177}{}{Hallo Bürger.}
+{175}{}{Vault City wird bestehen, BÃ¼rger.}
+{176}{}{BÃ¼rger.}
+{177}{}{Hallo BÃ¼rger.}

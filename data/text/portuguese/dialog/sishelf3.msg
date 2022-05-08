@@ -4,4 +4,4 @@
 {200}{}{ doesn't think this bookcase is trapped.}
 {206}{}{Hey, don't plant that here.}
 {207}{}{Leave the damn bookcases alone before I have to impose extreme sanctions on your ass.}
-{208}{}{Não faça isso.}
+{208}{}{NÃ£o faÃ§a isso.}

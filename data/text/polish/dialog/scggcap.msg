@@ -1,18 +1,18 @@
-{100}{}{Widzisz kobietê w pancerzu z god³em RNK.}
-{101}{}{To kapitan stra¿y.}
-{102}{}{Mo¿e i jest kobiet¹, ale strzelba w jej rêku œwiadczy, ¿e potrafi daæ sobie radê.}
-{103}{}{Musisz mi wybaczyæ - jestem zajêt¹ kobiet¹. Nie mam czasu na pogawêdki.}
-{104}{}{Trzymaj siê z dala od k³opotów a wszystko bêdzie w porz¹dku, zrozumiano?}
-{105}{}{Masz jakieœ pytania? Porozmawiaj z szeryfem Dumontem. On udzieli ci wszelkich informacji.}
-{106}{}{Kodeks praw znajdziesz na tablicy, na zewn¹trz - ¿adnej broni, ¿adnych pijaków, ¿adnych k³opotów.}
-{107}{}{Co mogê dla ciebie zrobiæ, wêdrowcze?}
+{100}{}{Widzisz kobietÄ™ w pancerzu z godÅ‚em RNK.}
+{101}{}{To kapitan straÅ¼y.}
+{102}{}{MoÅ¼e i jest kobietÄ…, ale strzelba w jej rÄ™ku Å›wiadczy, Å¼e potrafi daÄ‡ sobie radÄ™.}
+{103}{}{Musisz mi wybaczyÄ‡ - jestem zajÄ™tÄ… kobietÄ…. Nie mam czasu na pogawÄ™dki.}
+{104}{}{Trzymaj siÄ™ z dala od kÅ‚opotÃ³w a wszystko bÄ™dzie w porzÄ…dku, zrozumiano?}
+{105}{}{Masz jakieÅ› pytania? Porozmawiaj z szeryfem Dumontem. On udzieli ci wszelkich informacji.}
+{106}{}{Kodeks praw znajdziesz na tablicy, na zewnÄ…trz - Å¼adnej broni, Å¼adnych pijakÃ³w, Å¼adnych kÅ‚opotÃ³w.}
+{107}{}{Co mogÄ™ dla ciebie zrobiÄ‡, wÄ™drowcze?}
 {108}{}{Znowu ty?}
-{109}{}{Ja wejœæ.}
-{110}{}{Chcê siê dostaæ do RNK.}
+{109}{}{Ja wejÅ›Ä‡.}
+{110}{}{ChcÄ™ siÄ™ dostaÄ‡ do RNK.}
 {111}{}{Nic nic.}
-{112}{}{Niegdzie nie wejdziesz, dopóki nie pozbêdziesz siê tej broni.}
-{113}{}{Ka¿dy musi odk³adaæ broñ na czas pobytu.}
-{114}{}{Hmm... có¿, wygl¹dasz na kogoœ wa¿nego. Jak siê nazywasz? Muszê ciê wpisaæ do dziennika.}
+{112}{}{Niegdzie nie wejdziesz, dopÃ³ki nie pozbÄ™dziesz siÄ™ tej broni.}
+{113}{}{KaÅ¼dy musi odkÅ‚adaÄ‡ broÅ„ na czas pobytu.}
+{114}{}{Hmm... cÃ³Å¼, wyglÄ…dasz na kogoÅ› waÅ¼nego. Jak siÄ™ nazywasz? MuszÄ™ ciÄ™ wpisaÄ‡ do dziennika.}
 {115}{}{}
-{116}{}{A wiêc dobrze, za chwilê ka¿ê otworzyæ dla ciebie bramê.}
-{117}{}{Przestañ przy tym grzebaæ! OdejdŸ st¹d, albo napytasz sobie biedy.}
+{116}{}{A wiÄ™c dobrze, za chwilÄ™ kaÅ¼Ä™ otworzyÄ‡ dla ciebie bramÄ™.}
+{117}{}{PrzestaÅ„ przy tym grzebaÄ‡! OdejdÅº stÄ…d, albo napytasz sobie biedy.}

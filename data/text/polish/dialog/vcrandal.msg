@@ -1,130 +1,130 @@
-{100}{}{Widzisz G³ównego Oficera Udogodnieniowego Randalla.}
-{101}{}{Widzisz cz³owieka w œrednim wieku z przerzedzonymi, czarnymi w³osami.}
-{102}{}{Widzisz G³ównego Oficera Udogodnieniowego Randalla.}
-{103}{}{Widzisz cz³owieka w œrednim wieku z przerzedzonymi, czarnymi w³osami.}
+{100}{}{Widzisz GÅ‚Ã³wnego Oficera Udogodnieniowego Randalla.}
+{101}{}{Widzisz czÅ‚owieka w Å›rednim wieku z przerzedzonymi, czarnymi wÅ‚osami.}
+{102}{}{Widzisz GÅ‚Ã³wnego Oficera Udogodnieniowego Randalla.}
+{103}{}{Widzisz czÅ‚owieka w Å›rednim wieku z przerzedzonymi, czarnymi wÅ‚osami.}
 {104}{}{Gratulacje, }
-{105}{}{. Tak trzymaæ z tymi skur... yyy, palantami, z Enklawy!}
-{106}{}{Hehe, podobno te durnie z Enklawy porz¹dnie oberwa³y... tak trzymaæ.}
-{107}{}{Intruz! Stra¿e! Stra¿e!}
-{108}{}{Co..?! Mutant! Stra¿e!}
-{109}{}{Co..? Ghul! Stra¿e!}
-{110}{}{Dzieñ dobry, Kapitanie.}
+{105}{}{. Tak trzymaÄ‡ z tymi skur... yyy, palantami, z Enklawy!}
+{106}{}{Hehe, podobno te durnie z Enklawy porzÄ…dnie oberwaÅ‚y... tak trzymaÄ‡.}
+{107}{}{Intruz! StraÅ¼e! StraÅ¼e!}
+{108}{}{Co..?! Mutant! StraÅ¼e!}
+{109}{}{Co..? Ghul! StraÅ¼e!}
+{110}{}{DzieÅ„ dobry, Kapitanie.}
 {111}{}{Kryptopolis na wieki, Kapitanie.}
-{112}{}{Dzieñ dobry, Obywatelu.}
+{112}{}{DzieÅ„ dobry, Obywatelu.}
 {113}{}{Kryptopolis ponad wszystkim, Obywatelu.}
-{114}{}{Muszê jeszcze wys³aæ Karty Dystrybucji do Biur Udogodnieñ A i B...}
-{115}{}{Muszê zrobiæ nowszy spis przedmiotów z magazynu i wprowadziæ go do serwera...}
-{116}{}{Ten nowy "system operacyjny" sprawia, ¿e zaczynam têskniæ za DOSem.}
+{114}{}{MuszÄ™ jeszcze wysÅ‚aÄ‡ Karty Dystrybucji do Biur UdogodnieÅ„ A i B...}
+{115}{}{MuszÄ™ zrobiÄ‡ nowszy spis przedmiotÃ³w z magazynu i wprowadziÄ‡ go do serwera...}
+{116}{}{Ten nowy "system operacyjny" sprawia, Å¼e zaczynam tÄ™skniÄ‡ za DOSem.}
 {117}{}{Pierwszy Obywatel nadal potrzebuje tej listy...}
-{118}{}{Przykro mi, zamykamy na wieczór. Zapraszamy ponownie rano.}
-{119}{}{Zamykamy. W³aœnie kompilujê spisy przedmiotów, zaraz potem idê do domu.}
-{120}{}{Witaj. Zawsze mi³o widzieæ now¹ twarz. Jestem Randall, G³ówny Oficer Udogodnieniowy. Potrzebujesz czegoœ?}
+{118}{}{Przykro mi, zamykamy na wieczÃ³r. Zapraszamy ponownie rano.}
+{119}{}{Zamykamy. WÅ‚aÅ›nie kompilujÄ™ spisy przedmiotÃ³w, zaraz potem idÄ™ do domu.}
+{120}{}{Witaj. Zawsze miÅ‚o widzieÄ‡ nowÄ… twarz. Jestem Randall, GÅ‚Ã³wny Oficer Udogodnieniowy. Potrzebujesz czegoÅ›?}
 {121}{}{Gekkk}
 {122}{}{Niiiiiie}
-{123}{}{OdejdŸ bez s³owa.}
-{124}{}{Hmm, to zale¿y. Co to za miejsce?}
-{125}{}{W³aœciwie... nie dzisiaj.}
-{126}{}{GECK? To inaczej Generator Ekosystemu Cudownej Krainy, taka szara skrzynka przypominaj¹ca trochê walizkê, tak? Hmm, nie pamiêtam, ¿eby ktoœ o tym wspomina³ od czasu... czasu... ha, od prawie zawsze.}
-{127}{}{Muszê mieæ Gekkk.}
-{128}{}{OdejdŸ bez s³owa.}
-{129}{}{Czy masz mo¿e jakiœ?}
-{130}{}{Mogê ciê jeszcze o coœ spytaæ?}
-{131}{}{Hmm, niewa¿ne.}
-{132}{}{Przykro mi ciê rozczarowaæ, ale zu¿yliœmy je wszystkie do budowy Kryptopolis... co do jednego.}
-{133}{}{Muszê mieæ Gekkk.}
-{134}{}{OdejdŸ bez s³owa.}
-{135}{}{A mo¿e wiesz o jakimœ miejscu gdzie mogê to znaleŸæ?}
-{136}{}{Mogê ciê jeszcze o coœ spytaæ?}
-{137}{}{Hmm, niewa¿ne.}
-{138}{}{Hmm, I tu masz problem: GECK to bardzo stara technologia... w³aœciwie jeszcze sprzed wojny. Nie mo¿esz tego po prostu "znaleŸæ". By³ dostêpny jedynie w Kryptach.}
-{139}{}{MUSZÊ KRYPTA.}
-{140}{}{OdejdŸ bez s³owa.}
-{141}{}{Wiesz mo¿e gdzie s¹ jakieœ inne Krypty?}
-{142}{}{Mogê ciê jeszcze o coœ spytaæ?}
-{143}{}{Hmm, niewa¿ne.}
-{144}{}{Mó¿naby to sprawdziæ w g³ównym komputerze Krypty, byæ mo¿e znajdziesz w nim coœ o innych. Pewnie nie znajdziesz, ale nie zaszkodzi sprawdziæ.}
-{145}{}{Hmm, jeœli siê ma dostêp do g³ównego komputera Krypty, mo¿na znaleŸæ w nim jakieœ informacje o nich. Niestety tylko mieszkañcy mog¹ wchodziæ do Krypty.}
-{146}{}{Dziêki.}
-{147}{}{Mogê ciê jeszcze o coœ spytaæ?}
-{148}{}{Dziêki za informacje.}
+{123}{}{OdejdÅº bez sÅ‚owa.}
+{124}{}{Hmm, to zaleÅ¼y. Co to za miejsce?}
+{125}{}{WÅ‚aÅ›ciwie... nie dzisiaj.}
+{126}{}{GECK? To inaczej Generator Ekosystemu Cudownej Krainy, taka szara skrzynka przypominajÄ…ca trochÄ™ walizkÄ™, tak? Hmm, nie pamiÄ™tam, Å¼eby ktoÅ› o tym wspominaÅ‚ od czasu... czasu... ha, od prawie zawsze.}
+{127}{}{MuszÄ™ mieÄ‡ Gekkk.}
+{128}{}{OdejdÅº bez sÅ‚owa.}
+{129}{}{Czy masz moÅ¼e jakiÅ›?}
+{130}{}{MogÄ™ ciÄ™ jeszcze o coÅ› spytaÄ‡?}
+{131}{}{Hmm, niewaÅ¼ne.}
+{132}{}{Przykro mi ciÄ™ rozczarowaÄ‡, ale zuÅ¼yliÅ›my je wszystkie do budowy Kryptopolis... co do jednego.}
+{133}{}{MuszÄ™ mieÄ‡ Gekkk.}
+{134}{}{OdejdÅº bez sÅ‚owa.}
+{135}{}{A moÅ¼e wiesz o jakimÅ› miejscu gdzie mogÄ™ to znaleÅºÄ‡?}
+{136}{}{MogÄ™ ciÄ™ jeszcze o coÅ› spytaÄ‡?}
+{137}{}{Hmm, niewaÅ¼ne.}
+{138}{}{Hmm, I tu masz problem: GECK to bardzo stara technologia... wÅ‚aÅ›ciwie jeszcze sprzed wojny. Nie moÅ¼esz tego po prostu "znaleÅºÄ‡". ByÅ‚ dostÄ™pny jedynie w Kryptach.}
+{139}{}{MUSZÄ˜ KRYPTA.}
+{140}{}{OdejdÅº bez sÅ‚owa.}
+{141}{}{Wiesz moÅ¼e gdzie sÄ… jakieÅ› inne Krypty?}
+{142}{}{MogÄ™ ciÄ™ jeszcze o coÅ› spytaÄ‡?}
+{143}{}{Hmm, niewaÅ¼ne.}
+{144}{}{MÃ³Å¼naby to sprawdziÄ‡ w gÅ‚Ã³wnym komputerze Krypty, byÄ‡ moÅ¼e znajdziesz w nim coÅ› o innych. Pewnie nie znajdziesz, ale nie zaszkodzi sprawdziÄ‡.}
+{145}{}{Hmm, jeÅ›li siÄ™ ma dostÄ™p do gÅ‚Ã³wnego komputera Krypty, moÅ¼na znaleÅºÄ‡ w nim jakieÅ› informacje o nich. Niestety tylko mieszkaÅ„cy mogÄ… wchodziÄ‡ do Krypty.}
+{146}{}{DziÄ™ki.}
+{147}{}{MogÄ™ ciÄ™ jeszcze o coÅ› spytaÄ‡?}
+{148}{}{DziÄ™ki za informacje.}
 {149}{}{Witam ponownie.}
-{150}{}{W czym mogê pomóc?}
+{150}{}{W czym mogÄ™ pomÃ³c?}
 {151}{}{Gekkk?}
-{152}{}{OdejdŸ bez s³owa.}
+{152}{}{OdejdÅº bez sÅ‚owa.}
 {153}{}{Co to za miejsce?!}
-{154}{}{Czy macie mo¿e GECK?}
-{155}{}{Valerie z zak³adu konserwacyjnego przyda³by siê nowy klucz i obcêgi.}
-{156}{}{Radny McClure mówi, ¿e mo¿ecie mieæ tutaj... to, hydro-coœtam potrzebne elektrowni w Gecko.}
-{157}{}{Radny McClure powiedzia³, ¿e u was znajdê hydroelektryczny regulator magnetosfery.}
-{158}{}{Pierwszy Obywatel przys³a³a mnie tutaj po moj¹ nagrodê.}
-{159}{}{W³aœciwie... nie dzisiaj.}
-{160}{}{To jest Biuro Udogodnieñ. Mamy to co zwykle... przedmioty codziennego u¿ytku, ksi¹¿ki, instrukcje, trochê narzêdzi, stimpaki, farmaceutyki i takie tam.}
-{161}{}{Brzmi nieŸle. Mogê zobaczyæ, co tam u siebie macie?}
-{162}{}{Masz mo¿e GECK?}
-{163}{}{Valerie z zak³adu konserwacyjnego przyda³by siê nowy klucz i obcêgi.}
-{164}{}{Radny McClure mówi, ¿e mo¿ecie mieæ tutaj... to, hydro-coœtam potrzebne elektrowni w Gecko.}
-{165}{}{Radny McClure powiedzia³, ¿e u was znajdê hydroelektryczny regulator magnetosfery.}
-{166}{}{Pierwszy Obywatel przys³a³a mnie tutaj po moj¹ nagrodê.}
-{167}{}{Mo¿esz odpowiedzieæ mi na parê innych pytañ?}
-{168}{}{Mo¿e wrócê kiedy indziej.}
-{169}{}{Przykro mi ciê rozczarowaæ, mogê przeprowadzaæ transakcje tylko z Obywatelami. Nie mam nic do ciebie, ale takie s¹ zasady. Jak chcesz, mo¿esz iœæ do sklepu Harry'ego na zewn¹trz miasta.}
-{170}{}{Przykro mi ciê rozczarowaæ, mogê przeprowadzaæ transakcje tylko z Obywatelami. Nie mam nic do ciebie, ale takie s¹ zasady. Jak chcesz, mo¿esz iœæ do sklepu Harry'ego na zewn¹trz miasta.}
-{171}{}{Jak mo¿na zostaæ Obywatelem?}
-{172}{}{Ale... przecie¿ ja jestem Obywatelem. Nie pamiêtasz mnie?}
-{173}{}{Hmm, myœlê, ¿e moje pieni¹dze s¹ tak samo dobre, jak pieni¹dze jakiegokolwiek innego Obywatela.}
-{174}{}{Radny McClure powiedzia³, ¿e u was znajdê hydroelektryczny regulator magnetosfery.}
-{175}{}{Pierwszy Obywatel przys³a³a mnie tutaj po moj¹ nagrodê.}
-{176}{}{Mo¿esz odpowiedzieæ mi na parê innych pytañ?}
-{177}{}{Jak sobie chcesz. ¯egnam.}
-{178}{}{Mo¿esz podejœæ do testu na Obywatela. Prokonsul Gregory robi ten test dla ka¿dego obcego, który chce zostaæ Obywatelem. Musisz jednak najpierw porozmawiaæ z Pierwszym Obywatelem Lynette. To ona tutaj dowodzi.}
-{179}{}{Dobra. Gdzie mogê j¹ znaleŸæ?}
-{180}{}{Aha. Mogê ciê spytaæ o coœ jeszcze?}
-{181}{}{Dziêki. Pójdê i poszukam jej.}
-{182}{}{Pewnie jest w Gmachu Rady Miasta... miñ ten budynek tutaj, skrêæ w prawo, potem ca³y czas ulic¹ przez park. £atwo tam trafiæ.}
-{183}{}{Aha. Mogê ciê spytaæ o coœ jeszcze?}
-{184}{}{Dziêki. Pójdê i poszukam jej.}
-{185}{}{Naprawdê? Jakoœ sobie ciebie nie przypominam. Masz przy sobie swoje dokumenty? To szybko rozwi¹¿e sprawê.}
+{154}{}{Czy macie moÅ¼e GECK?}
+{155}{}{Valerie z zakÅ‚adu konserwacyjnego przydaÅ‚by siÄ™ nowy klucz i obcÄ™gi.}
+{156}{}{Radny McClure mÃ³wi, Å¼e moÅ¼ecie mieÄ‡ tutaj... to, hydro-coÅ›tam potrzebne elektrowni w Gecko.}
+{157}{}{Radny McClure powiedziaÅ‚, Å¼e u was znajdÄ™ hydroelektryczny regulator magnetosfery.}
+{158}{}{Pierwszy Obywatel przysÅ‚aÅ‚a mnie tutaj po mojÄ… nagrodÄ™.}
+{159}{}{WÅ‚aÅ›ciwie... nie dzisiaj.}
+{160}{}{To jest Biuro UdogodnieÅ„. Mamy to co zwykle... przedmioty codziennego uÅ¼ytku, ksiÄ…Å¼ki, instrukcje, trochÄ™ narzÄ™dzi, stimpaki, farmaceutyki i takie tam.}
+{161}{}{Brzmi nieÅºle. MogÄ™ zobaczyÄ‡, co tam u siebie macie?}
+{162}{}{Masz moÅ¼e GECK?}
+{163}{}{Valerie z zakÅ‚adu konserwacyjnego przydaÅ‚by siÄ™ nowy klucz i obcÄ™gi.}
+{164}{}{Radny McClure mÃ³wi, Å¼e moÅ¼ecie mieÄ‡ tutaj... to, hydro-coÅ›tam potrzebne elektrowni w Gecko.}
+{165}{}{Radny McClure powiedziaÅ‚, Å¼e u was znajdÄ™ hydroelektryczny regulator magnetosfery.}
+{166}{}{Pierwszy Obywatel przysÅ‚aÅ‚a mnie tutaj po mojÄ… nagrodÄ™.}
+{167}{}{MoÅ¼esz odpowiedzieÄ‡ mi na parÄ™ innych pytaÅ„?}
+{168}{}{MoÅ¼e wrÃ³cÄ™ kiedy indziej.}
+{169}{}{Przykro mi ciÄ™ rozczarowaÄ‡, mogÄ™ przeprowadzaÄ‡ transakcje tylko z Obywatelami. Nie mam nic do ciebie, ale takie sÄ… zasady. Jak chcesz, moÅ¼esz iÅ›Ä‡ do sklepu Harry'ego na zewnÄ…trz miasta.}
+{170}{}{Przykro mi ciÄ™ rozczarowaÄ‡, mogÄ™ przeprowadzaÄ‡ transakcje tylko z Obywatelami. Nie mam nic do ciebie, ale takie sÄ… zasady. Jak chcesz, moÅ¼esz iÅ›Ä‡ do sklepu Harry'ego na zewnÄ…trz miasta.}
+{171}{}{Jak moÅ¼na zostaÄ‡ Obywatelem?}
+{172}{}{Ale... przecieÅ¼ ja jestem Obywatelem. Nie pamiÄ™tasz mnie?}
+{173}{}{Hmm, myÅ›lÄ™, Å¼e moje pieniÄ…dze sÄ… tak samo dobre, jak pieniÄ…dze jakiegokolwiek innego Obywatela.}
+{174}{}{Radny McClure powiedziaÅ‚, Å¼e u was znajdÄ™ hydroelektryczny regulator magnetosfery.}
+{175}{}{Pierwszy Obywatel przysÅ‚aÅ‚a mnie tutaj po mojÄ… nagrodÄ™.}
+{176}{}{MoÅ¼esz odpowiedzieÄ‡ mi na parÄ™ innych pytaÅ„?}
+{177}{}{Jak sobie chcesz. Å»egnam.}
+{178}{}{MoÅ¼esz podejÅ›Ä‡ do testu na Obywatela. Prokonsul Gregory robi ten test dla kaÅ¼dego obcego, ktÃ³ry chce zostaÄ‡ Obywatelem. Musisz jednak najpierw porozmawiaÄ‡ z Pierwszym Obywatelem Lynette. To ona tutaj dowodzi.}
+{179}{}{Dobra. Gdzie mogÄ™ jÄ… znaleÅºÄ‡?}
+{180}{}{Aha. MogÄ™ ciÄ™ spytaÄ‡ o coÅ› jeszcze?}
+{181}{}{DziÄ™ki. PÃ³jdÄ™ i poszukam jej.}
+{182}{}{Pewnie jest w Gmachu Rady Miasta... miÅ„ ten budynek tutaj, skrÄ™Ä‡ w prawo, potem caÅ‚y czas ulicÄ… przez park. Åatwo tam trafiÄ‡.}
+{183}{}{Aha. MogÄ™ ciÄ™ spytaÄ‡ o coÅ› jeszcze?}
+{184}{}{DziÄ™ki. PÃ³jdÄ™ i poszukam jej.}
+{185}{}{NaprawdÄ™? JakoÅ› sobie ciebie nie przypominam. Masz przy sobie swoje dokumenty? To szybko rozwiÄ…Å¼e sprawÄ™.}
 {186}{}{Nie, akurat nie mam ich przy sobie.}
-{187}{}{Oczywiœcie, oto one.}
-{188}{}{Niewa¿ne. Mo¿e pogadamy póŸniej.}
-{189}{}{Hmm, przepuszczê to tylko przez czytnik, upewnimy siê, ¿e wszystko jest w porz¹dku. To zajmie tylko chwilkê.}
+{187}{}{OczywiÅ›cie, oto one.}
+{188}{}{NiewaÅ¼ne. MoÅ¼e pogadamy pÃ³Åºniej.}
+{189}{}{Hmm, przepuszczÄ™ to tylko przez czytnik, upewnimy siÄ™, Å¼e wszystko jest w porzÄ…dku. To zajmie tylko chwilkÄ™.}
 {190}{}{Ej! Oddawaj te dokumenty!}
-{191}{}{Hmm... w³aœciwie nie mam teraz ochoty nic kupowaæ. Oddaj mi tylko dokumenty i ju¿ znikam.}
-{192}{}{Dobra. Jestem pewny, ¿e wszystko jest w absolutnym porz¹dku.}
+{191}{}{Hmm... wÅ‚aÅ›ciwie nie mam teraz ochoty nic kupowaÄ‡. Oddaj mi tylko dokumenty i juÅ¼ znikam.}
+{192}{}{Dobra. Jestem pewny, Å¼e wszystko jest w absolutnym porzÄ…dku.}
 {193}{}{Hmm... dobra.}
-{194}{}{Mogê ci zadaæ jeszcze parê pytañ?}
+{194}{}{MogÄ™ ci zadaÄ‡ jeszcze parÄ™ pytaÅ„?}
 {195}{}{Do zobaczenia.}
-{196}{}{Wszystko siê zgadza. Oto twoje dokumenty. W czym mogê pomóc?}
-{197}{}{Najpierw poka¿ mi co macie.}
-{198}{}{A mogê zamiast tego zadaæ ci parê pytañ?}
-{199}{}{W³aœciwie... nie dzisiaj.}
-{200}{}{A wiêc... jesteœ Obywatelem. }
-{201}{}{Taa. Powiedzia³, ¿e mo¿esz tu wpaœæ... }
+{196}{}{Wszystko siÄ™ zgadza. Oto twoje dokumenty. W czym mogÄ™ pomÃ³c?}
+{197}{}{Najpierw pokaÅ¼ mi co macie.}
+{198}{}{A mogÄ™ zamiast tego zadaÄ‡ ci parÄ™ pytaÅ„?}
+{199}{}{WÅ‚aÅ›ciwie... nie dzisiaj.}
+{200}{}{A wiÄ™c... jesteÅ› Obywatelem. }
+{201}{}{Taa. PowiedziaÅ‚, Å¼e moÅ¼esz tu wpaÅ›Ä‡... }
 {202}{}{Dobrze.}
-{203}{}{W³aœciwie... ech, niewa¿ne, wrócê po to póŸniej.}
-{204}{}{Dobra. Jeden Hy-Mag. Przypomina trochê lampê magmow¹, nie? Aha, uwa¿aj z nim... jest delikatny.}
+{203}{}{WÅ‚aÅ›ciwie... ech, niewaÅ¼ne, wrÃ³cÄ™ po to pÃ³Åºniej.}
+{204}{}{Dobra. Jeden Hy-Mag. Przypomina trochÄ™ lampÄ™ magmowÄ…, nie? Aha, uwaÅ¼aj z nim... jest delikatny.}
 {205}{}{Hmm, a co jeszcze tu macie?}
-{206}{}{Mogê ci zadaæ jeszcze parê pytañ?}
-{207}{}{Dziêki. Mogê siê gapiæ na niego przez kilka godzin, zanim zabiorê go do elektrowni w Gecko.}
-{208}{}{Mam. Dziêki.}
-{209}{}{Racja, Pierwszy Obywatel mówi³a, ¿e mo¿esz tu przyjœæ... Kapitanie. (Mruga porozumiewawczo) Czeka tu na ciebie pewna piêknoœæ.}
-{210}{}{Racja, Pierwszy Obywatel mówi³a, ¿e tu przyjdziesz. Ha, cz³owieku, czeka tu na ciebie prawdziwa piêknoœæ.}
+{206}{}{MogÄ™ ci zadaÄ‡ jeszcze parÄ™ pytaÅ„?}
+{207}{}{DziÄ™ki. MogÄ™ siÄ™ gapiÄ‡ na niego przez kilka godzin, zanim zabiorÄ™ go do elektrowni w Gecko.}
+{208}{}{Mam. DziÄ™ki.}
+{209}{}{Racja, Pierwszy Obywatel mÃ³wiÅ‚a, Å¼e moÅ¼esz tu przyjÅ›Ä‡... Kapitanie. (Mruga porozumiewawczo) Czeka tu na ciebie pewna piÄ™knoÅ›Ä‡.}
+{210}{}{Racja, Pierwszy Obywatel mÃ³wiÅ‚a, Å¼e tu przyjdziesz. Ha, czÅ‚owieku, czeka tu na ciebie prawdziwa piÄ™knoÅ›Ä‡.}
 {211}{}{Co to jest?}
-{212}{}{Hmm, potrzymaj to dla mnie. Wrócê po to póŸniej.}
-{213}{}{Ha, nic piêkniejszego ni¿ Heckler&Koch G11, jedna z najlepszych broni szturmowych jakie istniej¹... (wa¿y broñ w d³oni i podaje j¹ tobie) ...strzela pociskami bez³uskowymi 4.7mm, magazynek na 50 maboi. Kiedy to cacko siê odzywa, ludzie zaczynaj¹ s³uchaæ.}
-{214}{}{He he, pewnie. Dziêki.}
-{215}{}{Nie ma sprawy. Ma³o tego... masz tu jeszcze parê granatów od³amkowych. Uwa¿aj to za podziêkowanie za pozbycie siê tych NajeŸdŸców.}
-{216}{}{Œwietnie. Mo¿esz pokazaæ, co tam jeszcze masz?}
-{217}{}{Mogê zadaæ inne pytanie?}
-{218}{}{Dziêki. Zrobiê z nich dobry u¿ytek.}
-{219}{}{A wiêc to ju¿ wszystko?}
-{220}{}{Mo¿esz odpowiedzieæ mi na parê innych pytañ?}
-{221}{}{Taa, to by³oby na dzisiaj wszystko.}
-{222}{}{Tak, wiem. Czekam w³asnie, a¿ listy zadañ wyczyszcz¹ serwer, ale to trochê potrwa. Nic na to nie poradzê. Tak ju¿ jest w tych czasach.}
-{223}{}{Rozumiem. Mogê ci zadaæ jeszcze parê pytañ?}
-{224}{}{Hmm, widzê, ¿e bêdzie trzeba poszukaæ narzêdzi gdzieœ indziej.}
+{212}{}{Hmm, potrzymaj to dla mnie. WrÃ³cÄ™ po to pÃ³Åºniej.}
+{213}{}{Ha, nic piÄ™kniejszego niÅ¼ Heckler&Koch G11, jedna z najlepszych broni szturmowych jakie istniejÄ…... (waÅ¼y broÅ„ w dÅ‚oni i podaje jÄ… tobie) ...strzela pociskami bezÅ‚uskowymi 4.7mm, magazynek na 50 maboi. Kiedy to cacko siÄ™ odzywa, ludzie zaczynajÄ… sÅ‚uchaÄ‡.}
+{214}{}{He he, pewnie. DziÄ™ki.}
+{215}{}{Nie ma sprawy. MaÅ‚o tego... masz tu jeszcze parÄ™ granatÃ³w odÅ‚amkowych. UwaÅ¼aj to za podziÄ™kowanie za pozbycie siÄ™ tych NajeÅºdÅºcÃ³w.}
+{216}{}{Åšwietnie. MoÅ¼esz pokazaÄ‡, co tam jeszcze masz?}
+{217}{}{MogÄ™ zadaÄ‡ inne pytanie?}
+{218}{}{DziÄ™ki. ZrobiÄ™ z nich dobry uÅ¼ytek.}
+{219}{}{A wiÄ™c to juÅ¼ wszystko?}
+{220}{}{MoÅ¼esz odpowiedzieÄ‡ mi na parÄ™ innych pytaÅ„?}
+{221}{}{Taa, to byÅ‚oby na dzisiaj wszystko.}
+{222}{}{Tak, wiem. Czekam wÅ‚asnie, aÅ¼ listy zadaÅ„ wyczyszczÄ… serwer, ale to trochÄ™ potrwa. Nic na to nie poradzÄ™. Tak juÅ¼ jest w tych czasach.}
+{223}{}{Rozumiem. MogÄ™ ci zadaÄ‡ jeszcze parÄ™ pytaÅ„?}
+{224}{}{Hmm, widzÄ™, Å¼e bÄ™dzie trzeba poszukaÄ‡ narzÄ™dzi gdzieÅ› indziej.}
 {225}{}{!}
-{226}{}{, co? Aha, czekaj chwilê, zaraz pójdê po ten hydroelektom.... yyyy... po Hy-Mag.}
-{227}{}{, heh? Czekaj chwilkê, zaraz dostaniesz ten hydroelektrom... yyy, ten Hy-Mag.}
-{228}{}{Dziêkujê.}
+{226}{}{, co? Aha, czekaj chwilÄ™, zaraz pÃ³jdÄ™ po ten hydroelektom.... yyyy... po Hy-Mag.}
+{227}{}{, heh? Czekaj chwilkÄ™, zaraz dostaniesz ten hydroelektrom... yyy, ten Hy-Mag.}
+{228}{}{DziÄ™kujÄ™.}
 {229}{}{[Dalej.]}

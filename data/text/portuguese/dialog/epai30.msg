@@ -1,2 +1,2 @@
-{100}{}{Você limpa a gosma do ventilador e as lâminas começam a girar. O ar ao seu redor se sente um pouco melhor.}
-{101}{}{Você limpa a gosma do ventilador e as lâminas começam a girar. Agora é seguro estar na área - pelo menos neste final da sala.}
+{100}{}{VocÃª limpa a gosma do ventilador e as lÃ¢minas comeÃ§am a girar. O ar ao seu redor se sente um pouco melhor.}
+{101}{}{VocÃª limpa a gosma do ventilador e as lÃ¢minas comeÃ§am a girar. Agora Ã© seguro estar na Ã¡rea - pelo menos neste final da sala.}

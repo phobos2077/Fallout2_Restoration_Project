@@ -1,70 +1,70 @@
-{100}{}{Esse terminal está mostrando uma série de barras verdes que sobem e descem irregularmente.}
-{101}{}{Você vê um terminal médico de Vault City. }
-{102}{}{Esse terminal está mostrando uma série de barras verdes que sobem e descem irregularmente.}
-{103}{}{Você poderá pegar mais informações deste terminal possuindo maior familiaridade científica.}
-{104}{}{Você não consegue identificar como funciona este terminal.}
+{100}{}{Esse terminal estÃ¡ mostrando uma sÃ©rie de barras verdes que sobem e descem irregularmente.}
+{101}{}{VocÃª vÃª um terminal mÃ©dico de Vault City. }
+{102}{}{Esse terminal estÃ¡ mostrando uma sÃ©rie de barras verdes que sobem e descem irregularmente.}
+{103}{}{VocÃª poderÃ¡ pegar mais informaÃ§Ãµes deste terminal possuindo maior familiaridade cientÃ­fica.}
+{104}{}{VocÃª nÃ£o consegue identificar como funciona este terminal.}
 {105}{}{Porcaria de computadores.}
-{106}{}{Você não consegue identificar como funciona este terminal.}
-{107}{}{Pipó-pipó bizz}
-{108}{}{Você conseguiu acessar os dados do terminal médico de Vault City. Embora a enterface seja muito complicada de entender,
+{106}{}{VocÃª nÃ£o consegue identificar como funciona este terminal.}
+{107}{}{PipÃ³-pipÃ³ bizz}
+{108}{}{VocÃª conseguiu acessar os dados do terminal mÃ©dico de Vault City. Embora a enterface seja muito complicada de entender,
 e os dados parecem estar severamente danificados.}
-{109}{}{Pesquisar arquivos de localização das Vaults.}
+{109}{}{Pesquisar arquivos de localizaÃ§Ã£o das Vaults.}
 {110}{}{Pesquisar por arquivos que mencionam a GECK.}
-{111}{}{Pesquisar na base de dados médica por alguma coisa interessante.}
+{111}{}{Pesquisar na base de dados mÃ©dica por alguma coisa interessante.}
 {112}{}{Deslogar do terminal.}
-{113}{}{Você não encontrou nenhuma mensão sobre as Vaults na base de dados.
-Tem apenas informações médicas relatando anatomia, doenças conhecidas, tratamentos, remédios e implantes.}
+{113}{}{VocÃª nÃ£o encontrou nenhuma mensÃ£o sobre as Vaults na base de dados.
+Tem apenas informaÃ§Ãµes mÃ©dicas relatando anatomia, doenÃ§as conhecidas, tratamentos, remÃ©dios e implantes.}
 {114}{}{Pesquisar por arquivos que mencionam a GECK.}
-{115}{}{Pesquisar na base de dados médica por alguma coisa interessante.}
+{115}{}{Pesquisar na base de dados mÃ©dica por alguma coisa interessante.}
 {116}{}{Deslogar do terminal.}
-{117}{}{Você não encontrou nenhuma mensão sobre as Vaults na base de dados.
-Tem apenas informações médicas relatando anatomia, doenças conhecidas, tratamentos, remédios e implantes.}
-{118}{}{Pesquisar arquivos de localização das Vaults.}
-{119}{}{Pesquisar na base de dados médica por alguma coisa interessante.}
+{117}{}{VocÃª nÃ£o encontrou nenhuma mensÃ£o sobre as Vaults na base de dados.
+Tem apenas informaÃ§Ãµes mÃ©dicas relatando anatomia, doenÃ§as conhecidas, tratamentos, remÃ©dios e implantes.}
+{118}{}{Pesquisar arquivos de localizaÃ§Ã£o das Vaults.}
+{119}{}{Pesquisar na base de dados mÃ©dica por alguma coisa interessante.}
 {120}{}{Deslogar do terminal.}
-{121}{}{Você pesquisa na base de dados médica, a terminologia é muito formal para o entendimento.
-Se você possui conhecimento de medicina, não terá problemas para o entendimento.}
+{121}{}{VocÃª pesquisa na base de dados mÃ©dica, a terminologia Ã© muito formal para o entendimento.
+Se vocÃª possui conhecimento de medicina, nÃ£o terÃ¡ problemas para o entendimento.}
 {122}{}{Continuar a pesquisa nos arquivos do computador.}
 {123}{}{Deslogar do terminal.}
-{124}{}{Você pesquisa na base de dados e nota as incriveis informações contidas nos arquivos.
-As recentes pesquisas conduzidas em Vault City são fascinantes, e a técnologia médica está alem de qualquer coisa que você já viu.}
-{125}{}{Você pesquisa no banco de dados outra vez, porem não descobre nada novo. Os esquemas mostrados são na maioria informações inúteis.
-É possível que você tenha perdido algo, porem você acha que é pouco improvável.}
-{126}{}{Você pesquisa na data base denovo... mais uma vez... porem nada novo.
-Talvez se você pesquisar mais vinte vezes conseguirara encontrar alguma coisa.}
-{127}{}{Nós estamos apenas brincando. Realmente não existe mais nada por aqui.
-Talvez se você vasculhar os arquivos mais umas trinta vezes, você poderá encontrar algo enterrado bem fundo em um dos arquivos. Ha-ha.}
-{128}{}{Hum... veja, vá jogar o resto do jogo. Você não pode ficar aqui para sempre.}
+{124}{}{VocÃª pesquisa na base de dados e nota as incriveis informaÃ§Ãµes contidas nos arquivos.
+As recentes pesquisas conduzidas em Vault City sÃ£o fascinantes, e a tÃ©cnologia mÃ©dica estÃ¡ alem de qualquer coisa que vocÃª jÃ¡ viu.}
+{125}{}{VocÃª pesquisa no banco de dados outra vez, porem nÃ£o descobre nada novo. Os esquemas mostrados sÃ£o na maioria informaÃ§Ãµes inÃºteis.
+Ã‰ possÃ­vel que vocÃª tenha perdido algo, porem vocÃª acha que Ã© pouco improvÃ¡vel.}
+{126}{}{VocÃª pesquisa na data base denovo... mais uma vez... porem nada novo.
+Talvez se vocÃª pesquisar mais vinte vezes conseguirara encontrar alguma coisa.}
+{127}{}{NÃ³s estamos apenas brincando. Realmente nÃ£o existe mais nada por aqui.
+Talvez se vocÃª vasculhar os arquivos mais umas trinta vezes, vocÃª poderÃ¡ encontrar algo enterrado bem fundo em um dos arquivos. Ha-ha.}
+{128}{}{Hum... veja, vÃ¡ jogar o resto do jogo. VocÃª nÃ£o pode ficar aqui para sempre.}
 {129}{}{Esta bem. Continue olhando, pouco me importa.}
-{130}{}{Você está apenas perdendo seu tempo.}
-{131}{}{Sua inteligência é 4, certo?}
+{130}{}{VocÃª estÃ¡ apenas perdendo seu tempo.}
+{131}{}{Sua inteligÃªncia Ã© 4, certo?}
 {132}{}{Deixe disso.}
-{133}{}{Por que você não vai brincar com a enfermeira?}
-{134}{}{Não tem nada aqui!}
-{135}{}{Você procura nos arquivos e não encontra nada.}
-{136}{}{Você pesquisa no terminal umas 53 vezes. Você não encontra nada que interessa.}
-{137}{}{Só tem que pesquisa mais uma vez, não? Que coisa...}
-{138}{}{Ok, olha. Esse é o grande secredo, tenha certesa de acessar o computador principal no terceiro level após você terminar o jogo.
-Agora deslogue deste terminal e vá brincar lá fora.}
-{139}{}{Você procura nos arquivos e não encontra nada.}
+{133}{}{Por que vocÃª nÃ£o vai brincar com a enfermeira?}
+{134}{}{NÃ£o tem nada aqui!}
+{135}{}{VocÃª procura nos arquivos e nÃ£o encontra nada.}
+{136}{}{VocÃª pesquisa no terminal umas 53 vezes. VocÃª nÃ£o encontra nada que interessa.}
+{137}{}{SÃ³ tem que pesquisa mais uma vez, nÃ£o? Que coisa...}
+{138}{}{Ok, olha. Esse Ã© o grande secredo, tenha certesa de acessar o computador principal no terceiro level apÃ³s vocÃª terminar o jogo.
+Agora deslogue deste terminal e vÃ¡ brincar lÃ¡ fora.}
+{139}{}{VocÃª procura nos arquivos e nÃ£o encontra nada.}
 {140}{}{Continuar a pesquisa dos arquivos.}
-{141}{}{Pesquisar na base de dados novamente para ter certesa que não passou nada despercebido.}
+{141}{}{Pesquisar na base de dados novamente para ter certesa que nÃ£o passou nada despercebido.}
 {142}{}{Continuar a pesquisa dos arquivos.}
 {143}{}{Deslogar do terminal.}
-{144}{}{Você passa uma hora estudando os arquivos. Você se aprofunda no banco de dados e localiza uma série de velhos documentos
-contendo esquemas para uma espécia de "implante de combate."}
-{145}{}{Estudar a informação do implante.}
-{146}{}{O esquema detalha uma operação para a implantação de placas de impacto e membranas de dissipação térmica em um esqueleto humando.
-Concedendo-lhe grande resistencia a danos físicos e calor. Parece um procedimento complicado.}
-{147}{}{Faça uma anotação do mesmo e pesquise no banco de dados para mais informações.}
-{148}{}{Gravar as informações e em seguida deslogar do terminal.}
-{149}{}{Você voltou para o menu inicial. Uma série de arquivos e programas de pesquisa são listados na tela do terminal.}
-{150}{}{Pesquisar por qualquer menção da Vault 13 nos arquivos.}
+{144}{}{VocÃª passa uma hora estudando os arquivos. VocÃª se aprofunda no banco de dados e localiza uma sÃ©rie de velhos documentos
+contendo esquemas para uma espÃ©cia de "implante de combate."}
+{145}{}{Estudar a informaÃ§Ã£o do implante.}
+{146}{}{O esquema detalha uma operaÃ§Ã£o para a implantaÃ§Ã£o de placas de impacto e membranas de dissipaÃ§Ã£o tÃ©rmica em um esqueleto humando.
+Concedendo-lhe grande resistencia a danos fÃ­sicos e calor. Parece um procedimento complicado.}
+{147}{}{FaÃ§a uma anotaÃ§Ã£o do mesmo e pesquise no banco de dados para mais informaÃ§Ãµes.}
+{148}{}{Gravar as informaÃ§Ãµes e em seguida deslogar do terminal.}
+{149}{}{VocÃª voltou para o menu inicial. Uma sÃ©rie de arquivos e programas de pesquisa sÃ£o listados na tela do terminal.}
+{150}{}{Pesquisar por qualquer menÃ§Ã£o da Vault 13 nos arquivos.}
 {151}{}{Pesquisar por qualquer referencia sobre a GECK.}
-{152}{}{Pesquisar na base de dados médica por alguma coisa interessante.}
+{152}{}{Pesquisar na base de dados mÃ©dica por alguma coisa interessante.}
 {153}{}{Deslogar do terminal.}
-{200}{}{Você terminou de estudar o banco de dados médicos da Vault City.}
-{201}{}{Seu amigo tenta fazer você se interessar na tela colorida que faz BIP BIP, porem você não imagina como se abre. Eventuamente você fica entediado e a deixa sózinha.}
+{200}{}{VocÃª terminou de estudar o banco de dados mÃ©dicos da Vault City.}
+{201}{}{Seu amigo tenta fazer vocÃª se interessar na tela colorida que faz BIP BIP, porem vocÃª nÃ£o imagina como se abre. Eventuamente vocÃª fica entediado e a deixa sÃ³zinha.}
 {202}{}{Saindo fora.}
 {203}{}{*Beep*}
 {204}{}{*Biiiiip-boop*}
@@ -72,9 +72,9 @@ Concedendo-lhe grande resistencia a danos físicos e calor. Parece um procediment
 {206}{}{*Bee-Oop*}
 {207}{}{*Beep*}
 {208}{}{PING!}
-{209}{}{Me desculpe Dave, eu não posso fazer isso.}
+{209}{}{Me desculpe Dave, eu nÃ£o posso fazer isso.}
 {210}{}{Perigo! Will Robinson!}
 {211}{}{Trinta segundos para se afastar a uma distancia segura.}
 {212}{}{PING! Eu falei!}
-{213}{}{Favor remover seu cartão e retirar seu dinheiro.}
-{214}{}{Jogo estranho. A única forma de ganhar e não jogar.}
+{213}{}{Favor remover seu cartÃ£o e retirar seu dinheiro.}
+{214}{}{Jogo estranho. A Ãºnica forma de ganhar e nÃ£o jogar.}

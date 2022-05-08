@@ -1,5 +1,5 @@
-{100}{}{Widzisz ludzkie zw≥oki. Chyba zosta≥y pogryzione przez zwierzÍta.}
-{101}{}{Po dok≥adnej inspekcji dochodzisz do wniosku, øe denatka zosta≥a zastrzelona zanim pogryz≥y jπ zwierzÍta.}
-{102}{}{Widzisz cia≥o kobiety z Broken Hills.}
-{103}{}{Przy zmasakrowanych zw≥okach znajdujesz skrawek papieru.}
-{104}{}{Po dok≥adnej inspekcji dochodzisz do wniosku, øe denatka zosta≥a zastrzelona zanim pogryz≥y jπ zwierzÍta.}
+{100}{}{Widzisz ludzkie zw≈Çoki. Chyba zosta≈Çy pogryzione przez zwierzƒôta.}
+{101}{}{Po dok≈Çadnej inspekcji dochodzisz do wniosku, ≈ºe denatka zosta≈Ça zastrzelona zanim pogryz≈Çy jƒÖ zwierzƒôta.}
+{102}{}{Widzisz cia≈Ço kobiety z Broken Hills.}
+{103}{}{Przy zmasakrowanych zw≈Çokach znajdujesz skrawek papieru.}
+{104}{}{Po dok≈Çadnej inspekcji dochodzisz do wniosku, ≈ºe denatka zosta≈Ça zastrzelona zanim pogryz≈Çy jƒÖ zwierzƒôta.}

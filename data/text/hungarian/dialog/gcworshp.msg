@@ -1,39 +1,39 @@
-{100}{}{Ennek a ghoulnak a nyakában egy sajátos talizmán lóg.}
-{101}{}{Az illet? a Megújhodás Szektájának tagja.}
-{102}{}{Egy megelégedettségt?l sugárzó ghoult látsz.}
-{110}{}{? egy Fényl?. Nyakában sajátos talizmán függ.}
-{111}{}{Az illet? a Megújhodás Szektájának tagja.}
-{112}{}{Egy megelégedettségt?l sugárzó Fényl?t látsz.}
-{120}{}{Közénk való, közénk való...}
-{121}{}{Jöjjön a Megújhodás, bajtárs! Jöjjön a Megújhodás!}
-{122}{}{Megérett az id?!}
-{123}{}{Bajtársam! Hamarosan hozzád hasonló simab?r?ek leszünk!}
-{124}{}{Az Atom er?t ad nekünk.}
-{125}{}{Üdv, bajtárs! Az Agy mindennek a tudója!}
-{126}{}{A Megújhodás szinte kézzelfogható, bajtársam.}
-{127}{}{Közösen eggyé kovácsolódunk!}
-{128}{}{Le a radikalizmussal, bajtárs!}
-{129}{}{Közösen a Megújhodás útján!}
-{130}{}{Üdv, barátom. Az Agy mindennek a tudója.}
-{131}{}{Az Agy kedvel téged... hamarosan közénk tartozol.}
-{132}{}{A Megújhodás igéjét keresed, barátom?}
-{133}{}{Telepedj le rózsaszín lába mellé, és fogadd be a Megújhodás szavát.}
-{134}{}{A meggondoltak befogadják az ? bölcsességét!}
-{135}{}{Üdv, barátom. Te is a Megújhodás közös útját járod velünk?}
-{136}{}{Megújhodás! Megújhodás!}
-{137}{}{Bárcsak szerezhetnénk neki egy mókuskereket. (sóhajt)}
-{138}{}{Béke veled, barátom. A kiválasztottak számára közel a Megújhodás.}
-{139}{}{Kész csoda, ha valaki az Agy közvetlen barátja lehet.}
-{140}{}{Üdv! Légy óvatos!}
-{141}{}{Szemmel tartunk téged.}
-{142}{}{Szomjazd az Agy bölcsességéb?l áradó megvilágosodást!}
-{143}{}{Nem tudom, miért engedünk le ide simab?r?eket.}
-{144}{}{Járulj egyenesen hozzá.}
-{145}{}{Azért jöttél, hogy az Agy elé járulj?}
-{150}{}{Béke veled, simab?r?. Te is a Megújhodást keresed?}
-{151}{}{?bundássága látni óhajt téged.}
-{152}{}{Te is Megújhodhatsz ám!}
-{153}{}{Kövess minket és teljesedj be a Megújhodás által!}
-{154}{}{Látni akar téged?}
-{155}{}{A Megújhodás még a simab?r?ek számára is életcélt jelenthet.}
-{156}{}{Simab?r?ek is elfogadhatják a Megújhodás útját!}
+{100}{}{Ennek a ghoulnak a nyakÃ¡ban egy sajÃ¡tos talizmÃ¡n lÃ³g.}
+{101}{}{Az illet? a MegÃºjhodÃ¡s SzektÃ¡jÃ¡nak tagja.}
+{102}{}{Egy megelÃ©gedettsÃ©gt?l sugÃ¡rzÃ³ ghoult lÃ¡tsz.}
+{110}{}{? egy FÃ©nyl?. NyakÃ¡ban sajÃ¡tos talizmÃ¡n fÃ¼gg.}
+{111}{}{Az illet? a MegÃºjhodÃ¡s SzektÃ¡jÃ¡nak tagja.}
+{112}{}{Egy megelÃ©gedettsÃ©gt?l sugÃ¡rzÃ³ FÃ©nyl?t lÃ¡tsz.}
+{120}{}{KÃ¶zÃ©nk valÃ³, kÃ¶zÃ©nk valÃ³...}
+{121}{}{JÃ¶jjÃ¶n a MegÃºjhodÃ¡s, bajtÃ¡rs! JÃ¶jjÃ¶n a MegÃºjhodÃ¡s!}
+{122}{}{MegÃ©rett az id?!}
+{123}{}{BajtÃ¡rsam! Hamarosan hozzÃ¡d hasonlÃ³ simab?r?ek leszÃ¼nk!}
+{124}{}{Az Atom er?t ad nekÃ¼nk.}
+{125}{}{Ãœdv, bajtÃ¡rs! Az Agy mindennek a tudÃ³ja!}
+{126}{}{A MegÃºjhodÃ¡s szinte kÃ©zzelfoghatÃ³, bajtÃ¡rsam.}
+{127}{}{KÃ¶zÃ¶sen eggyÃ© kovÃ¡csolÃ³dunk!}
+{128}{}{Le a radikalizmussal, bajtÃ¡rs!}
+{129}{}{KÃ¶zÃ¶sen a MegÃºjhodÃ¡s ÃºtjÃ¡n!}
+{130}{}{Ãœdv, barÃ¡tom. Az Agy mindennek a tudÃ³ja.}
+{131}{}{Az Agy kedvel tÃ©ged... hamarosan kÃ¶zÃ©nk tartozol.}
+{132}{}{A MegÃºjhodÃ¡s igÃ©jÃ©t keresed, barÃ¡tom?}
+{133}{}{Telepedj le rÃ³zsaszÃ­n lÃ¡ba mellÃ©, Ã©s fogadd be a MegÃºjhodÃ¡s szavÃ¡t.}
+{134}{}{A meggondoltak befogadjÃ¡k az ? bÃ¶lcsessÃ©gÃ©t!}
+{135}{}{Ãœdv, barÃ¡tom. Te is a MegÃºjhodÃ¡s kÃ¶zÃ¶s ÃºtjÃ¡t jÃ¡rod velÃ¼nk?}
+{136}{}{MegÃºjhodÃ¡s! MegÃºjhodÃ¡s!}
+{137}{}{BÃ¡rcsak szerezhetnÃ©nk neki egy mÃ³kuskereket. (sÃ³hajt)}
+{138}{}{BÃ©ke veled, barÃ¡tom. A kivÃ¡lasztottak szÃ¡mÃ¡ra kÃ¶zel a MegÃºjhodÃ¡s.}
+{139}{}{KÃ©sz csoda, ha valaki az Agy kÃ¶zvetlen barÃ¡tja lehet.}
+{140}{}{Ãœdv! LÃ©gy Ã³vatos!}
+{141}{}{Szemmel tartunk tÃ©ged.}
+{142}{}{Szomjazd az Agy bÃ¶lcsessÃ©gÃ©b?l Ã¡radÃ³ megvilÃ¡gosodÃ¡st!}
+{143}{}{Nem tudom, miÃ©rt engedÃ¼nk le ide simab?r?eket.}
+{144}{}{JÃ¡rulj egyenesen hozzÃ¡.}
+{145}{}{AzÃ©rt jÃ¶ttÃ©l, hogy az Agy elÃ© jÃ¡rulj?}
+{150}{}{BÃ©ke veled, simab?r?. Te is a MegÃºjhodÃ¡st keresed?}
+{151}{}{?bundÃ¡ssÃ¡ga lÃ¡tni Ã³hajt tÃ©ged.}
+{152}{}{Te is MegÃºjhodhatsz Ã¡m!}
+{153}{}{KÃ¶vess minket Ã©s teljesedj be a MegÃºjhodÃ¡s Ã¡ltal!}
+{154}{}{LÃ¡tni akar tÃ©ged?}
+{155}{}{A MegÃºjhodÃ¡s mÃ©g a simab?r?ek szÃ¡mÃ¡ra is Ã©letcÃ©lt jelenthet.}
+{156}{}{Simab?r?ek is elfogadhatjÃ¡k a MegÃºjhodÃ¡s ÃºtjÃ¡t!}

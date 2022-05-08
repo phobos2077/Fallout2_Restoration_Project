@@ -1,13 +1,13 @@
 {100}{}{Fehlfunktion im Biolager!}
 {101}{}{Ebene 4 Abschottung durchbrochen.}
 {102}{}{Ebene 4 Kontaminiert.}
-{103}{}{Biorisikoversiegelung Ebene 3 gef‰hrdet.}
+{103}{}{Biorisikoversiegelung Ebene 3 gef√§hrdet.}
 {104}{}{Ebene 3 Abschottung durchbrochen.}
 {105}{}{Ebene 3 Kontaminiert.}
-{106}{}{Biorisikoversiegelung Ebene 2 gef‰hrdet.}
+{106}{}{Biorisikoversiegelung Ebene 2 gef√§hrdet.}
 {107}{}{Ebene 2 Abschottung durchbrochen.}
 {108}{}{Ebene 2 Kontaminiert.}
-{109}{}{Biorisikoversiegelung Ebene 1 gef‰hrdet.}
+{109}{}{Biorisikoversiegelung Ebene 1 gef√§hrdet.}
 {110}{}{Ebene 1 Abschottung durchbrochen.}
 {111}{}{Ebene 1 Kontaminiert.}
 {112}{}{ Minuten und }

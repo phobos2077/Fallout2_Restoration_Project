@@ -1,41 +1,41 @@
 {100}{}{Widzisz robotnika portowego. Patrzy na ciebie kiedy podchodzisz.}
-{101}{}{Widzisz melancholijnego pracownika portowego. Jego wype³nione smutkiem oczy œledz¹ ciê kiedy podchodzisz.}
-{200}{}{[Mamrocze do siebie.] Och, jakich to niegodziwoœci dopuœci³ siê biedny Meng w poprzednim ¿yciu ¿eby zas³u¿yæ na takie nieszczêœcie? A teraz przychodzi do mnie lao wai, i có¿ dobrego mo¿e to dla mnie oznaczaæ? Nic, oczywiœcie. Kompletnie nic...}
-{201}{}{Dlaczego nie zostawisz biednego Menga w spokoju? [Mamrocze do siebie.] Nie ¿ebym kiedykolwiek zazna³ spokoju. A, nawet jeœli, to ju¿ dawno zapomnia³em, jak odleg³y sen...}
-{202}{}{Ee, chyba przychodzê nie w porê. Czeœæ.}
-{203}{}{Masz jakiœ problem, Marudo?}
-{204}{}{Wygl¹dasz na nieszczêœliwego z jakiegoœ powodu. Zastanawiam siê czy mogê ci jakoœ pomóc.}
-{210}{}{Mój problem? [Œmieje siê gorzko.] Loa wai, ty nie chcesz wiedzieæ jaki mam problem. S³uchaæ smutków takich jak moje, to zapomnieæ œmiechu dzieci i ciep³ych objêæ mi³oœci. O nie, wierz mi, ty wolisz nie zagl¹daæ w moje osobiste piek³o.}
-{211}{}{W swoim czasie nieraz zdarzy³o mi siê byæ œwiadkiem strasznych rzeczy. Jakikolwiek jest twój problem, na pewno sobie z nim poradzê.}
-{212}{}{Myœlisz, ¿e *twoje* problemy s¹ straszne? Za³o¿ê siê, ¿e s¹ bez *porównania* z tym przez co ja przechodzê.}
-{213}{}{Przykro mi, ¿e jest ci ciê¿ko, ale rozmowa mo¿e pomóc. Jeœli chcesz o tym porozmawiaæ, chêtnie pos³ucham.}
-{214}{}{W porz¹dku Panie Melodramat, idê zanim wpêdzisz mnie w depresjê. Czeœæ.}
-{220}{}{Dobra. Ty chcesz znaæ mój problem. To ci powiem. Dwa lata temu, mój brat, który jest do mnie bardzo podobny, mia³ romans z dziewczyn¹ przywódcy lokalnego gangu. Przywódca gangu dowiedzia³ siê o tym i mój brat uciek³ z miasta. Gang z³apa³ mnie i myœl¹c, ¿e ja to mój brat, odciêli mi w ramach kary penisa. Teraz ja sikam przez rurkê.}
-{221}{}{No, có¿— }
-{230}{}{Cicho! Jeszcze nie skoñczy³em. Wtedy moja piêkna dziewczyna mnie opuœci³a, bo ja ju¿ nie "prawdziwy mê¿czyzna" i nie mogê jej zadowoliæ. Ona potem wysz³a za mojego s¹siada, który tak siê sk³ada jest te¿ moim szefem. Teraz, ca³y dzieñ w pracy, mn¹ pomiata i szydzi ze mnie razem z moimi wspó³pracownikami. I ka¿dej nocy muszê próbowaæ zasn¹æ s³uchaj¹c jak uprawia mi³oœæ z dziewczyn¹ któr¹ JA powinienem by³ poœlubiæ.}
-{231}{}{B³ahahaha! Ja pierdole, jaki frajer. Czemu nie zrobisz sobie przys³ugi i z tym nie skoñczysz?}
-{232}{}{Ja, yyy, ³a³, nie wiem co powiedzieæ. To okropna historia.}
-{233}{}{Przykro mi, ¿e ci siê coœ takiego przytrafi³o, Meng. ¯ycie potrafi byæ okrutne, ale zawsze mo¿e byæ lepiej. Dobrze ci radzê, przeprowadŸ siê i zmieñ pracê. W przeciwnym razie nigdy nie bêdziesz móg³ normalnie ¿yæ.}
-{240}{}{Tak. Tak, powinienem to by³ zrobiæ dawno temu. To jedyny sposób ¿eby zachowaæ tê odrobinê honoru jaka mi zosta³a. Dziêkujê ci, lao wai. [Wyci¹ga nó¿ i podcina sobie gard³o. Patrzysz jak szybko wykrwawia siê na œmieræ.]}
+{101}{}{Widzisz melancholijnego pracownika portowego. Jego wypeÅ‚nione smutkiem oczy Å›ledzÄ… ciÄ™ kiedy podchodzisz.}
+{200}{}{[Mamrocze do siebie.] Och, jakich to niegodziwoÅ›ci dopuÅ›ciÅ‚ siÄ™ biedny Meng w poprzednim Å¼yciu Å¼eby zasÅ‚uÅ¼yÄ‡ na takie nieszczÄ™Å›cie? A teraz przychodzi do mnie lao wai, i cÃ³Å¼ dobrego moÅ¼e to dla mnie oznaczaÄ‡? Nic, oczywiÅ›cie. Kompletnie nic...}
+{201}{}{Dlaczego nie zostawisz biednego Menga w spokoju? [Mamrocze do siebie.] Nie Å¼ebym kiedykolwiek zaznaÅ‚ spokoju. A, nawet jeÅ›li, to juÅ¼ dawno zapomniaÅ‚em, jak odlegÅ‚y sen...}
+{202}{}{Ee, chyba przychodzÄ™ nie w porÄ™. CzeÅ›Ä‡.}
+{203}{}{Masz jakiÅ› problem, Marudo?}
+{204}{}{WyglÄ…dasz na nieszczÄ™Å›liwego z jakiegoÅ› powodu. Zastanawiam siÄ™ czy mogÄ™ ci jakoÅ› pomÃ³c.}
+{210}{}{MÃ³j problem? [Åšmieje siÄ™ gorzko.] Loa wai, ty nie chcesz wiedzieÄ‡ jaki mam problem. SÅ‚uchaÄ‡ smutkÃ³w takich jak moje, to zapomnieÄ‡ Å›miechu dzieci i ciepÅ‚ych objÄ™Ä‡ miÅ‚oÅ›ci. O nie, wierz mi, ty wolisz nie zaglÄ…daÄ‡ w moje osobiste piekÅ‚o.}
+{211}{}{W swoim czasie nieraz zdarzyÅ‚o mi siÄ™ byÄ‡ Å›wiadkiem strasznych rzeczy. Jakikolwiek jest twÃ³j problem, na pewno sobie z nim poradzÄ™.}
+{212}{}{MyÅ›lisz, Å¼e *twoje* problemy sÄ… straszne? ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e sÄ… bez *porÃ³wnania* z tym przez co ja przechodzÄ™.}
+{213}{}{Przykro mi, Å¼e jest ci ciÄ™Å¼ko, ale rozmowa moÅ¼e pomÃ³c. JeÅ›li chcesz o tym porozmawiaÄ‡, chÄ™tnie posÅ‚ucham.}
+{214}{}{W porzÄ…dku Panie Melodramat, idÄ™ zanim wpÄ™dzisz mnie w depresjÄ™. CzeÅ›Ä‡.}
+{220}{}{Dobra. Ty chcesz znaÄ‡ mÃ³j problem. To ci powiem. Dwa lata temu, mÃ³j brat, ktÃ³ry jest do mnie bardzo podobny, miaÅ‚ romans z dziewczynÄ… przywÃ³dcy lokalnego gangu. PrzywÃ³dca gangu dowiedziaÅ‚ siÄ™ o tym i mÃ³j brat uciekÅ‚ z miasta. Gang zÅ‚apaÅ‚ mnie i myÅ›lÄ…c, Å¼e ja to mÃ³j brat, odciÄ™li mi w ramach kary penisa. Teraz ja sikam przez rurkÄ™.}
+{221}{}{No, cÃ³Å¼â€” }
+{230}{}{Cicho! Jeszcze nie skoÅ„czyÅ‚em. Wtedy moja piÄ™kna dziewczyna mnie opuÅ›ciÅ‚a, bo ja juÅ¼ nie "prawdziwy mÄ™Å¼czyzna" i nie mogÄ™ jej zadowoliÄ‡. Ona potem wyszÅ‚a za mojego sÄ…siada, ktÃ³ry tak siÄ™ skÅ‚ada jest teÅ¼ moim szefem. Teraz, caÅ‚y dzieÅ„ w pracy, mnÄ… pomiata i szydzi ze mnie razem z moimi wspÃ³Å‚pracownikami. I kaÅ¼dej nocy muszÄ™ prÃ³bowaÄ‡ zasnÄ…Ä‡ sÅ‚uchajÄ…c jak uprawia miÅ‚oÅ›Ä‡ z dziewczynÄ… ktÃ³rÄ… JA powinienem byÅ‚ poÅ›lubiÄ‡.}
+{231}{}{BÅ‚ahahaha! Ja pierdole, jaki frajer. Czemu nie zrobisz sobie przysÅ‚ugi i z tym nie skoÅ„czysz?}
+{232}{}{Ja, yyy, Å‚aÅ‚, nie wiem co powiedzieÄ‡. To okropna historia.}
+{233}{}{Przykro mi, Å¼e ci siÄ™ coÅ› takiego przytrafiÅ‚o, Meng. Å»ycie potrafi byÄ‡ okrutne, ale zawsze moÅ¼e byÄ‡ lepiej. Dobrze ci radzÄ™, przeprowadÅº siÄ™ i zmieÅ„ pracÄ™. W przeciwnym razie nigdy nie bÄ™dziesz mÃ³gÅ‚ normalnie Å¼yÄ‡.}
+{240}{}{Tak. Tak, powinienem to byÅ‚ zrobiÄ‡ dawno temu. To jedyny sposÃ³b Å¼eby zachowaÄ‡ tÄ™ odrobinÄ™ honoru jaka mi zostaÅ‚a. DziÄ™kujÄ™ ci, lao wai. [WyciÄ…ga nÃ³Å¼ i podcina sobie gardÅ‚o. Patrzysz jak szybko wykrwawia siÄ™ na Å›mierÄ‡.]}
 {241}{}{[dalej]}
-{250}{}{Tak. Przed tym ciê ostrzega³em. Teraz, zostaw mnie. Nie mam ci nic wiêcej do powiedzenia.}
+{250}{}{Tak. Przed tym ciÄ™ ostrzegaÅ‚em. Teraz, zostaw mnie. Nie mam ci nic wiÄ™cej do powiedzenia.}
 {251}{}{[dalej]}
-{260}{}{Mo¿e masz racjê. Przez ca³e moje ¿ycie, nie pozna³em niczego poza Shi. A nie zosta³o tu ju¿ dla mnie nic, poza smutkiem. Tak, myœlê, ¿e powinienem wyruszyæ w œwiat i ukuæ sobie nowe przeznaczenie. Nawet jeœli pustkowie nie ma mi nic do zaoferowania poza szybk¹ œmierci¹, wole to od pozostania tutaj. Dziêkujê Ci, lao wai.}
-{261}{}{Powodzenia, Meng. Mam nadziejê, ¿e szczêœcie siê do ciebie uœmiechnie.}
-{262}{}{Zanim zaczniesz siê pakowaæ, zastanawiam siê czy mo¿e bêdziesz móg³ mi odpowiedzieæ na jedno czy dwa pytania?}
-{270}{}{Czemu nie? W koñcu zrywam wszystkie wiêzi z Shi. Ich sekrety nic ju¿ dla mnie nie znacz¹. Pytaj o co chcesz.}
-{271}{}{Co mo¿esz mi powiedzieæ o tej strze¿onej motorówce, tam? }
-{272}{}{Niewa¿ne. Powodzenia w twoim nowym ¿yciu, Meng.}
-{280}{}{Shi u¿ywaj¹ tej motorówki, ¿eby dostaæ siê do naszego uœpionego stra¿nika, okrêtu podwodnego.}
-{281}{}{Co mo¿esz mi o nim powiedzieæ?}
-{290}{}{Shi-Huang-Ti okrêt podwodny który przywióz³ naszych przodków do tego miejsca z odleg³ego l¹du. W wyniku Wielkiej Wojny straci³ moc i osiad³ na mieliŸnie w zatoce San Francisko. Kapitan Ye Li i jego za³oga dotarli to tego miasta i za³o¿yli, maj¹ce staæ siê w przysz³oœci Shi, spo³eczeñstwo.}
-{291}{}{Nazwa³eœ go wczeœniej "œpi¹cym stra¿nikiem". Co mia³eœ na myœli?}
-{300}{}{Jak œpi¹cy smok którego chrapanie ci¹gle mo¿e siê przerodziæ w œmiertelny ogieñ, okrêt jest unieruchomiony, ale nie bezradny. Shi pracowali nad tym w sekrecie, potajemnie p³ywaj¹c na okrêt pod os³on¹ nocy. Jego broñ zosta³a reaktywowana i z pewnoœci¹ zniszczy ka¿dy nie-chiñski pojazd, który oœmieli siê wp³yn¹æ do tej zatoki.}
-{301}{}{Czyli, powiedzmy, *hipotetycznie*, je¿eli ten wielki tankowiec zacumowany tutaj spróbuje wyp³yn¹æ...}
-{310}{}{Wtedy… BUUM!}
-{311}{}{£apiê. Przypuszczam, ¿e nie wiesz jak mogê to rozbroiæ?}
-{320}{}{Tylko technicy Shi bêd¹ to wiedzieæ. Powiedzia³em ci wszystko co wiedzia³em.}
-{321}{}{Dziêkujê, Meng. Powodzenia w twoim nowym ¿yciu.}
-{330}{}{Czas aby rozpocz¹æ na nowo...}
+{260}{}{MoÅ¼e masz racjÄ™. Przez caÅ‚e moje Å¼ycie, nie poznaÅ‚em niczego poza Shi. A nie zostaÅ‚o tu juÅ¼ dla mnie nic, poza smutkiem. Tak, myÅ›lÄ™, Å¼e powinienem wyruszyÄ‡ w Å›wiat i ukuÄ‡ sobie nowe przeznaczenie. Nawet jeÅ›li pustkowie nie ma mi nic do zaoferowania poza szybkÄ… Å›mierciÄ…, wole to od pozostania tutaj. DziÄ™kujÄ™ Ci, lao wai.}
+{261}{}{Powodzenia, Meng. Mam nadziejÄ™, Å¼e szczÄ™Å›cie siÄ™ do ciebie uÅ›miechnie.}
+{262}{}{Zanim zaczniesz siÄ™ pakowaÄ‡, zastanawiam siÄ™ czy moÅ¼e bÄ™dziesz mÃ³gÅ‚ mi odpowiedzieÄ‡ na jedno czy dwa pytania?}
+{270}{}{Czemu nie? W koÅ„cu zrywam wszystkie wiÄ™zi z Shi. Ich sekrety nic juÅ¼ dla mnie nie znaczÄ…. Pytaj o co chcesz.}
+{271}{}{Co moÅ¼esz mi powiedzieÄ‡ o tej strzeÅ¼onej motorÃ³wce, tam? }
+{272}{}{NiewaÅ¼ne. Powodzenia w twoim nowym Å¼yciu, Meng.}
+{280}{}{Shi uÅ¼ywajÄ… tej motorÃ³wki, Å¼eby dostaÄ‡ siÄ™ do naszego uÅ›pionego straÅ¼nika, okrÄ™tu podwodnego.}
+{281}{}{Co moÅ¼esz mi o nim powiedzieÄ‡?}
+{290}{}{Shi-Huang-Ti okrÄ™t podwodny ktÃ³ry przywiÃ³zÅ‚ naszych przodkÃ³w do tego miejsca z odlegÅ‚ego lÄ…du. W wyniku Wielkiej Wojny straciÅ‚ moc i osiadÅ‚ na mieliÅºnie w zatoce San Francisko. Kapitan Ye Li i jego zaÅ‚oga dotarli to tego miasta i zaÅ‚oÅ¼yli, majÄ…ce staÄ‡ siÄ™ w przyszÅ‚oÅ›ci Shi, spoÅ‚eczeÅ„stwo.}
+{291}{}{NazwaÅ‚eÅ› go wczeÅ›niej "Å›piÄ…cym straÅ¼nikiem". Co miaÅ‚eÅ› na myÅ›li?}
+{300}{}{Jak Å›piÄ…cy smok ktÃ³rego chrapanie ciÄ…gle moÅ¼e siÄ™ przerodziÄ‡ w Å›miertelny ogieÅ„, okrÄ™t jest unieruchomiony, ale nie bezradny. Shi pracowali nad tym w sekrecie, potajemnie pÅ‚ywajÄ…c na okrÄ™t pod osÅ‚onÄ… nocy. Jego broÅ„ zostaÅ‚a reaktywowana i z pewnoÅ›ciÄ… zniszczy kaÅ¼dy nie-chiÅ„ski pojazd, ktÃ³ry oÅ›mieli siÄ™ wpÅ‚ynÄ…Ä‡ do tej zatoki.}
+{301}{}{Czyli, powiedzmy, *hipotetycznie*, jeÅ¼eli ten wielki tankowiec zacumowany tutaj sprÃ³buje wypÅ‚ynÄ…Ä‡...}
+{310}{}{Wtedyâ€¦ BUUM!}
+{311}{}{ÅapiÄ™. Przypuszczam, Å¼e nie wiesz jak mogÄ™ to rozbroiÄ‡?}
+{320}{}{Tylko technicy Shi bÄ™dÄ… to wiedzieÄ‡. PowiedziaÅ‚em ci wszystko co wiedziaÅ‚em.}
+{321}{}{DziÄ™kujÄ™, Meng. Powodzenia w twoim nowym Å¼yciu.}
+{330}{}{Czas aby rozpoczÄ…Ä‡ na nowo...}
 {350}{}{Zostaw mnie w spokoju, lao wai.}
-{400}{}{Uda³o ci siê przekonaæ Menga do zmiany jego dotychczasowego ¿ycia.}
+{400}{}{UdaÅ‚o ci siÄ™ przekonaÄ‡ Menga do zmiany jego dotychczasowego Å¼ycia.}

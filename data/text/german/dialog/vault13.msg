@@ -1,3 +1,3 @@
-{100}{}{Die Luft riecht übel, nach Metall und Blut.}
-{101}{}{Du erhältst }
-{102}{}{ Erfahrungspunkte für das Finden von Vault 13.}
+{100}{}{Die Luft riecht Ã¼bel, nach Metall und Blut.}
+{101}{}{Du erhÃ¤ltst }
+{102}{}{ Erfahrungspunkte fÃ¼r das Finden von Vault 13.}

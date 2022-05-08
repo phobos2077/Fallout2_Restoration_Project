@@ -1,63 +1,63 @@
-{100}{}{Rejtek egyik polgára.}
+{100}{}{Rejtek egyik polgÃ¡ra.}
 {101}{}{Derek.}
-{150}{}{Elég mozgékonynak t?nik.}
-{200}{}{Kotródj!}
-{201}{}{Túl fáradt vagyok én ahhoz, hogy beszélgessünk.}
+{150}{}{ElÃ©g mozgÃ©konynak t?nik.}
+{200}{}{KotrÃ³dj!}
+{201}{}{TÃºl fÃ¡radt vagyok Ã©n ahhoz, hogy beszÃ©lgessÃ¼nk.}
 {202}{}{Takarodj innen!}
-{203}{}{Menj a saját helyedre aludni!}
-{204}{}{Ne piszkálj!}
-{205}{}{Tanácstalan vagyok.}
+{203}{}{Menj a sajÃ¡t helyedre aludni!}
+{204}{}{Ne piszkÃ¡lj!}
+{205}{}{TanÃ¡cstalan vagyok.}
 {206}{}{Bah!}
-{207}{}{Mit csinálsz te itt?}
-{220}{}{Tartsd magad távol Metzgert?l, törzsbéli!}
-{221}{}{Miért van itt mindig olyan rohadt meleg?}
-{222}{}{Miért élünk mi a sivatagban?}
-{223}{}{Jól f?zök.}
-{224}{}{Egyszer majd saját éttermet nyitok.}
-{225}{}{Bárcsak lenne egy igazi konyhám.}
-{226}{}{Miért csak a csúnyábbik arcát mutatja felém az élet?}
-{227}{}{Miért csesztetnek állandóan az emberek?}
-{228}{}{Fred egy álmodozó. Tökéletes terv... persze, meg a nagy büdös valagam!}
-{240}{}{Pssszt! Ott vannak mindenütt!}
-{241}{}{Állítsd meg ?ket!}
-{242}{}{Szóval megtaláltad azt az átkozott könyvet?}
-{243}{}{Nem értem, Becky miért nem alkalmaz.}
-{244}{}{Azért sem ?rülök meg...}
-{245}{}{Megvan az apróm!}
-{246}{}{F?leg éjszaka jönnek el?.}
+{207}{}{Mit csinÃ¡lsz te itt?}
+{220}{}{Tartsd magad tÃ¡vol Metzgert?l, tÃ¶rzsbÃ©li!}
+{221}{}{MiÃ©rt van itt mindig olyan rohadt meleg?}
+{222}{}{MiÃ©rt Ã©lÃ¼nk mi a sivatagban?}
+{223}{}{JÃ³l f?zÃ¶k.}
+{224}{}{Egyszer majd sajÃ¡t Ã©ttermet nyitok.}
+{225}{}{BÃ¡rcsak lenne egy igazi konyhÃ¡m.}
+{226}{}{MiÃ©rt csak a csÃºnyÃ¡bbik arcÃ¡t mutatja felÃ©m az Ã©let?}
+{227}{}{MiÃ©rt csesztetnek Ã¡llandÃ³an az emberek?}
+{228}{}{Fred egy Ã¡lmodozÃ³. TÃ¶kÃ©letes terv... persze, meg a nagy bÃ¼dÃ¶s valagam!}
+{240}{}{Pssszt! Ott vannak mindenÃ¼tt!}
+{241}{}{ÃllÃ­tsd meg ?ket!}
+{242}{}{SzÃ³val megtalÃ¡ltad azt az Ã¡tkozott kÃ¶nyvet?}
+{243}{}{Nem Ã©rtem, Becky miÃ©rt nem alkalmaz.}
+{244}{}{AzÃ©rt sem ?rÃ¼lÃ¶k meg...}
+{245}{}{Megvan az aprÃ³m!}
+{246}{}{F?leg Ã©jszaka jÃ¶nnek el?.}
 {247}{}{Szeretem a krumplit!}
-{248}{}{Ne járj a zöld szutykon csizma nélkül!}
-{249}{}{Egyszer?en csak fordítsd ki!}
-{250}{}{Most már nagyon fáj a fejem.}
-{251}{}{Én profi séf vagyok!}
-{252}{}{Soha nem mérgezném meg egy jövevény ételét.}
-{260}{}{Üdv, frissen sült kenyeret keresel?}
+{248}{}{Ne jÃ¡rj a zÃ¶ld szutykon csizma nÃ©lkÃ¼l!}
+{249}{}{Egyszer?en csak fordÃ­tsd ki!}
+{250}{}{Most mÃ¡r nagyon fÃ¡j a fejem.}
+{251}{}{Ã‰n profi sÃ©f vagyok!}
+{252}{}{Soha nem mÃ©rgeznÃ©m meg egy jÃ¶vevÃ©ny Ã©telÃ©t.}
+{260}{}{Ãœdv, frissen sÃ¼lt kenyeret keresel?}
 {261}{}{Igen.}
-{262}{}{Becky könyvét keresem.}
-{263}{}{Nem, viszlát!}
-{270}{}{Helló! Jó, hogy újra látunk.}
-{271}{}{Hol van Becky könyve? }
-{272}{}{Kérhetek abból a kenyérb?l?}
-{273}{}{Viszlát!}
-{280}{}{Ha! Én is. Mondtam már, milyen jó szakács vagyok? Becky nem alkalmaz valmiért. Megbízhatatlannak tart.}
-{281}{}{Talán igaza van.}
-{282}{}{Becky könyvét keresem.}
-{283}{}{Az frankó. Nekem most ööö... mennem kell.}
-{290}{}{Mi? Menj te a büdös francba! Én nem... Óh... a jó kurva...}
-{291}{}{Mi? Menj te a büdös francba! Én nem... Óh... a jó kurva...}
+{262}{}{Becky kÃ¶nyvÃ©t keresem.}
+{263}{}{Nem, viszlÃ¡t!}
+{270}{}{HellÃ³! JÃ³, hogy Ãºjra lÃ¡tunk.}
+{271}{}{Hol van Becky kÃ¶nyve? }
+{272}{}{KÃ©rhetek abbÃ³l a kenyÃ©rb?l?}
+{273}{}{ViszlÃ¡t!}
+{280}{}{Ha! Ã‰n is. Mondtam mÃ¡r, milyen jÃ³ szakÃ¡cs vagyok? Becky nem alkalmaz valmiÃ©rt. MegbÃ­zhatatlannak tart.}
+{281}{}{TalÃ¡n igaza van.}
+{282}{}{Becky kÃ¶nyvÃ©t keresem.}
+{283}{}{Az frankÃ³. Nekem most Ã¶Ã¶Ã¶... mennem kell.}
+{290}{}{Mi? Menj te a bÃ¼dÃ¶s francba! Ã‰n nem... Ã“h... a jÃ³ kurva...}
+{291}{}{Mi? Menj te a bÃ¼dÃ¶s francba! Ã‰n nem... Ã“h... a jÃ³ kurva...}
 {292}{}{Francba!}
-{293}{}{Ölég...}
-{300}{}{Ja, igen... Nem tetszett. Túl sok szerelem volt benne. Eldobtam annak az épületnek a sarkánál... nem a másiknál.. nem... épület volt az egyáltalán? Talán egész máshol dobtam el... vagy el sem dobtam? Jaj, a fejem!}
-{301}{}{Könyv? Az a könyv. Ki küldött? Nem vagyok biztos benne, hogy ez a valóság. Ne feledd a zsebkend?t!}
-{302}{}{Nem tehetem! ?k... óh, a francba... Nálad van a sajt? Bújj el gyorsan!}
-{303}{}{Hé! Nem az én bajom. Mit kéne csinálnom! Harcolni velük? Kis zöld emberek, nagy hegyes fogak! Basszus! Au! Hagyd abba!}
+{293}{}{Ã–lÃ©g...}
+{300}{}{Ja, igen... Nem tetszett. TÃºl sok szerelem volt benne. Eldobtam annak az Ã©pÃ¼letnek a sarkÃ¡nÃ¡l... nem a mÃ¡siknÃ¡l.. nem... Ã©pÃ¼let volt az egyÃ¡ltalÃ¡n? TalÃ¡n egÃ©sz mÃ¡shol dobtam el... vagy el sem dobtam? Jaj, a fejem!}
+{301}{}{KÃ¶nyv? Az a kÃ¶nyv. Ki kÃ¼ldÃ¶tt? Nem vagyok biztos benne, hogy ez a valÃ³sÃ¡g. Ne feledd a zsebkend?t!}
+{302}{}{Nem tehetem! ?k... Ã³h, a francba... NÃ¡lad van a sajt? BÃºjj el gyorsan!}
+{303}{}{HÃ©! Nem az Ã©n bajom. Mit kÃ©ne csinÃ¡lnom! Harcolni velÃ¼k? Kis zÃ¶ld emberek, nagy hegyes fogak! Basszus! Au! Hagyd abba!}
 {304}{}{Hasogat a fejem! Mit.. ki mondta?}
-{305}{}{Ez sokat segít.}
-{306}{}{Öö.}
-{310}{}{Mi? Gúnyolódsz! Cseszd meg! Nem vagyok beszámíthatatlan! Tudok f?zni! Nincsennek hangok a fejemben!}
-{311}{}{Én most...! Kapd be! Bazmeg! Hagyd abba! Elhallgass! Hogy mi?... na jó, rendben.}
-{312}{}{Hé! Megá... csináld csak... basszus.}
-{313}{}{Viszlát!}
+{305}{}{Ez sokat segÃ­t.}
+{306}{}{Ã–Ã¶.}
+{310}{}{Mi? GÃºnyolÃ³dsz! Cseszd meg! Nem vagyok beszÃ¡mÃ­thatatlan! Tudok f?zni! Nincsennek hangok a fejemben!}
+{311}{}{Ã‰n most...! Kapd be! Bazmeg! Hagyd abba! Elhallgass! Hogy mi?... na jÃ³, rendben.}
+{312}{}{HÃ©! MegÃ¡... csinÃ¡ld csak... basszus.}
+{313}{}{ViszlÃ¡t!}
 {314}{}{Semmi.}
 {320}{}{Takarodj el?lem!}
-{321}{}{Hozzám ne érj!}
+{321}{}{HozzÃ¡m ne Ã©rj!}

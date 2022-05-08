@@ -1,65 +1,65 @@
-{100}{}{Egy kopasz emberkét látsz laborköpenyben.}
-{101}{}{Tom Murray, az Atomenegia-ügyi Társaság f?megbízottja.}
-{102}{}{Egy nagyon ideges emberkét látsz ?srégi, koszos laborköpenyben.}
-{103}{}{A gépem! A picikém, a gyönyör?ségem elszállt! (hüp, hüp)}
+{100}{}{Egy kopasz emberkÃ©t lÃ¡tsz laborkÃ¶penyben.}
+{101}{}{Tom Murray, az Atomenegia-Ã¼gyi TÃ¡rsasÃ¡g f?megbÃ­zottja.}
+{102}{}{Egy nagyon ideges emberkÃ©t lÃ¡tsz ?srÃ©gi, koszos laborkÃ¶penyben.}
+{103}{}{A gÃ©pem! A picikÃ©m, a gyÃ¶nyÃ¶r?sÃ©gem elszÃ¡llt! (hÃ¼p, hÃ¼p)}
 {104}{}{Mind halottak vagyunk.}
-{105}{}{A számítógép irányítása nélkül leolvad a reaktor!}
-{106}{}{És még csak úszni sem tudok!}
-{107}{}{Talán megszerelhetem...}
-{108}{}{Miért szól már megint ez a sziréna!?}
+{105}{}{A szÃ¡mÃ­tÃ³gÃ©p irÃ¡nyÃ­tÃ¡sa nÃ©lkÃ¼l leolvad a reaktor!}
+{106}{}{Ã‰s mÃ©g csak Ãºszni sem tudok!}
+{107}{}{TalÃ¡n megszerelhetem...}
+{108}{}{MiÃ©rt szÃ³l mÃ¡r megint ez a szirÃ©na!?}
 {109}{}{Mi folyik itt?}
-{110}{}{Csak semmi pánik, mindenki maradjon nyugodt! SEMMI PÁNIK!!!!!}
-{111}{}{Oké, csak nyugi!}
-{112}{}{Talán csak egy gyakorlat.}
-{113}{}{Menjen vissza a büntet?szintre!}
-{114}{}{Tényleg nagy a különbség.}
-{115}{}{A maga homloka túlságosan el?reugró.}
-{116}{}{Az agykapacitásával nem nagyon kéne felvágnia.}
-{117}{}{Ha jó lesz, gondoskodom róla, hogy megkapja a napi kábszerét a cellájában.}
-{118}{}{Hé, maga! Azt itt nem viselheti!}
-{119}{}{Nehogy már megmondja, hol, milyen páncélt hordok!}
-{120}{}{Óh, bocsánat! Már megyek is...}
-{121}{}{Valóban? Nos, akkor beveszem magát a jelentésembe.}
-{122}{}{Hajrá! Hadd legyen egy jó napom!}
-{123}{}{Jaj, kérem, ne tegye! Inkább elmegyek. Viszlát!}
+{110}{}{Csak semmi pÃ¡nik, mindenki maradjon nyugodt! SEMMI PÃNIK!!!!!}
+{111}{}{OkÃ©, csak nyugi!}
+{112}{}{TalÃ¡n csak egy gyakorlat.}
+{113}{}{Menjen vissza a bÃ¼ntet?szintre!}
+{114}{}{TÃ©nyleg nagy a kÃ¼lÃ¶nbsÃ©g.}
+{115}{}{A maga homloka tÃºlsÃ¡gosan el?reugrÃ³.}
+{116}{}{Az agykapacitÃ¡sÃ¡val nem nagyon kÃ©ne felvÃ¡gnia.}
+{117}{}{Ha jÃ³ lesz, gondoskodom rÃ³la, hogy megkapja a napi kÃ¡bszerÃ©t a cellÃ¡jÃ¡ban.}
+{118}{}{HÃ©, maga! Azt itt nem viselheti!}
+{119}{}{Nehogy mÃ¡r megmondja, hol, milyen pÃ¡ncÃ©lt hordok!}
+{120}{}{Ã“h, bocsÃ¡nat! MÃ¡r megyek is...}
+{121}{}{ValÃ³ban? Nos, akkor beveszem magÃ¡t a jelentÃ©sembe.}
+{122}{}{HajrÃ¡! Hadd legyen egy jÃ³ napom!}
+{123}{}{Jaj, kÃ©rem, ne tegye! InkÃ¡bb elmegyek. ViszlÃ¡t!}
 {124}{}{I'm Tom Murray, head of the Atomic Energy Commission. I control our atomic power plant here. Who the hell are you and what are you doing here?}
-{125}{}{Most meg mi a fenét akar?}
+{125}{}{Most meg mi a fenÃ©t akar?}
 {126}{}{Le kell kapcsolnom az atomreaktort.}
-{127}{}{Csak kíváncsi voltam, hogy m?ködik ez a bazi nagy izé.}
-{128}{}{Ki kell hogy végezzem!}
-{129}{}{Segítség! Segítség!}
-{130}{}{Behatoló! Riadó!}
-{131}{}{Mindenki meneküljön! Szöknek a barbárok!}
-{132}{}{?rség! Segítséééééééég!}
-{133}{}{Behatoló! Behatoló!}
+{127}{}{Csak kÃ­vÃ¡ncsi voltam, hogy m?kÃ¶dik ez a bazi nagy izÃ©.}
+{128}{}{Ki kell hogy vÃ©gezzem!}
+{129}{}{SegÃ­tsÃ©g! SegÃ­tsÃ©g!}
+{130}{}{BehatolÃ³! RiadÃ³!}
+{131}{}{Mindenki menekÃ¼ljÃ¶n! SzÃ¶knek a barbÃ¡rok!}
+{132}{}{?rsÃ©g! SegÃ­tsÃ©Ã©Ã©Ã©Ã©Ã©Ã©Ã©g!}
+{133}{}{BehatolÃ³! BehatolÃ³!}
 {134}{}{Lekapcsolni? Meg van maga hibbanva? Nem fogja lekapcsolni a REAKTOROMAT! }
-{135}{}{De, bizony, lefogom. Jobb, ha megmondja, hogy kell csinálni, különben magát fogom lekapcsolni, végérvényesen.}
-{136}{}{Azt mondtam volna, hogy lekapcsolni? Áh, csak kiváncsi voltam, hogy m?ködik.}
-{137}{}{Ja, hogy ez az egész a magáé? Bocs, nem tudtam. Na, viszlát!}
-{138}{}{Figyeljen rám, de nagyon! Megcsinálom magának, mert ha túl gyorsan akarja kiiktatni, túlmelegszik.}
-{139}{}{Nem érdekel! Csak állítsa le, vagy kifilézem, mint egy halat.}
-{140}{}{Ez veszélyesnek hangzik. Inkább hagyjuk. Viszlát!}
-{141}{}{Maga blöfföl! Úgysem meri megcsinálni.}
-{142}{}{De, megmerem. Ha nem hajlandó segíteni, akkor meghal.}
-{143}{}{Megadtam a lehet?séget, hogy együttm?ködjön velem, de nem akar. Csak nem gondolta komolyan, hogy engedem megnyomni a riasztót?}
-{144}{}{Hé, csak vicceltem! Inkább mondja meg, hogyan m?ködik ez az egész!}
-{145}{}{Igen, azt hiszem, igaza van. Jobb, ha csöndben marad, ha már elmentem. Viszlát!}
-{146}{}{Oké, oké, csak nyugi, megcsinálom, de azt el kell mondanom, hogy amint állítok a rudakon, túlmelegszik. Ha ilyen kényszerleállítást hajtunk végre, jobb, ha a nyakába szedi a lábát, különben kezdhet tanulni kínaiul.}
-{147}{}{Jól van, értem. Csak kapcsolja már ki azt a vackot!}
-{148}{}{Ez veszélyesen hangzik. Talán más módot keresek. Nem akarok senkit bántani. Viszlát!}
-{149}{}{Nem kockáztatom mások életét. Nem.}
-{150}{}{Ezt sajnálattal hallom. Akkor meg kell hogy öljem. Csak semmi személyeskedés.}
-{151}{}{Miért sodorná ez mások életét veszélybe? Hogy m?ködik ez a reaktor?}
-{152}{}{Akkor más megoldást kell találnom erre a problémára. Maradjon nyugton, ha már elmentem! Viszlát!}
-{153}{}{Rendben. Ööö, oké, lássuk csak, ezt toljuk zöldig... [a terminállal matat néhány percig, közben motyog magában...] Oké, megvan, de nem marad stabil sokáig, az biztos.}
-{154}{}{Jó munka volt! Most mennem kell. Maradjon csöndben egy ideig!}
-{155}{}{Jól, csinálta! Most azonban meg kell hogy öljem! Bocs, de nem hagyhatok tanúkat.}
-{156}{}{Most mennem kell. Viszlát!}
+{135}{}{De, bizony, lefogom. Jobb, ha megmondja, hogy kell csinÃ¡lni, kÃ¼lÃ¶nben magÃ¡t fogom lekapcsolni, vÃ©gÃ©rvÃ©nyesen.}
+{136}{}{Azt mondtam volna, hogy lekapcsolni? Ãh, csak kivÃ¡ncsi voltam, hogy m?kÃ¶dik.}
+{137}{}{Ja, hogy ez az egÃ©sz a magÃ¡Ã©? Bocs, nem tudtam. Na, viszlÃ¡t!}
+{138}{}{Figyeljen rÃ¡m, de nagyon! MegcsinÃ¡lom magÃ¡nak, mert ha tÃºl gyorsan akarja kiiktatni, tÃºlmelegszik.}
+{139}{}{Nem Ã©rdekel! Csak Ã¡llÃ­tsa le, vagy kifilÃ©zem, mint egy halat.}
+{140}{}{Ez veszÃ©lyesnek hangzik. InkÃ¡bb hagyjuk. ViszlÃ¡t!}
+{141}{}{Maga blÃ¶ffÃ¶l! Ãšgysem meri megcsinÃ¡lni.}
+{142}{}{De, megmerem. Ha nem hajlandÃ³ segÃ­teni, akkor meghal.}
+{143}{}{Megadtam a lehet?sÃ©get, hogy egyÃ¼ttm?kÃ¶djÃ¶n velem, de nem akar. Csak nem gondolta komolyan, hogy engedem megnyomni a riasztÃ³t?}
+{144}{}{HÃ©, csak vicceltem! InkÃ¡bb mondja meg, hogyan m?kÃ¶dik ez az egÃ©sz!}
+{145}{}{Igen, azt hiszem, igaza van. Jobb, ha csÃ¶ndben marad, ha mÃ¡r elmentem. ViszlÃ¡t!}
+{146}{}{OkÃ©, okÃ©, csak nyugi, megcsinÃ¡lom, de azt el kell mondanom, hogy amint Ã¡llÃ­tok a rudakon, tÃºlmelegszik. Ha ilyen kÃ©nyszerleÃ¡llÃ­tÃ¡st hajtunk vÃ©gre, jobb, ha a nyakÃ¡ba szedi a lÃ¡bÃ¡t, kÃ¼lÃ¶nben kezdhet tanulni kÃ­naiul.}
+{147}{}{JÃ³l van, Ã©rtem. Csak kapcsolja mÃ¡r ki azt a vackot!}
+{148}{}{Ez veszÃ©lyesen hangzik. TalÃ¡n mÃ¡s mÃ³dot keresek. Nem akarok senkit bÃ¡ntani. ViszlÃ¡t!}
+{149}{}{Nem kockÃ¡ztatom mÃ¡sok Ã©letÃ©t. Nem.}
+{150}{}{Ezt sajnÃ¡lattal hallom. Akkor meg kell hogy Ã¶ljem. Csak semmi szemÃ©lyeskedÃ©s.}
+{151}{}{MiÃ©rt sodornÃ¡ ez mÃ¡sok Ã©letÃ©t veszÃ©lybe? Hogy m?kÃ¶dik ez a reaktor?}
+{152}{}{Akkor mÃ¡s megoldÃ¡st kell talÃ¡lnom erre a problÃ©mÃ¡ra. Maradjon nyugton, ha mÃ¡r elmentem! ViszlÃ¡t!}
+{153}{}{Rendben. Ã–Ã¶Ã¶, okÃ©, lÃ¡ssuk csak, ezt toljuk zÃ¶ldig... [a terminÃ¡llal matat nÃ©hÃ¡ny percig, kÃ¶zben motyog magÃ¡ban...] OkÃ©, megvan, de nem marad stabil sokÃ¡ig, az biztos.}
+{154}{}{JÃ³ munka volt! Most mennem kell. Maradjon csÃ¶ndben egy ideig!}
+{155}{}{JÃ³l, csinÃ¡lta! Most azonban meg kell hogy Ã¶ljem! Bocs, de nem hagyhatok tanÃºkat.}
+{156}{}{Most mennem kell. ViszlÃ¡t!}
 {157}{}{I don't control that much of the reactor's operation. The central computer just north of the reactor controls most of the power plant functions. If that weren't there, we'd have no power at all.}
-{158}{}{Egyáltalán nem?}
-{159}{}{Hát, nem lenne elég mindenre. A világítás, az életfenntartó-és ment? valamint a védelmi rendszerek persze m?ködnének egy darabig, de az er?terek és más energiaigényes rendszerek azonnal leállnának.}
-{160}{}{Elég nagy felhajtás lehetne.}
-{161}{}{Nos, nem lenne valami jó, az igaz. Ha ez megtörténne, minden vízzáró ajtó azonnal zárna. Nincs az az isten a világon, amiért kinyílnának, ha egyszer reaktorleállás miatt ereszkedtek le. Ez biztonsági el?írás.}
-{162}{}{Ez érdekes. Viszont másról akartam beszélni magával.}
-{163}{}{Ez minden, amit akartam. Kösz a segítséget.}
-{164}{}{Kösz. Kár, hogy ezt már nem fogja megérni. Viszlát!}
+{158}{}{EgyÃ¡ltalÃ¡n nem?}
+{159}{}{HÃ¡t, nem lenne elÃ©g mindenre. A vilÃ¡gÃ­tÃ¡s, az Ã©letfenntartÃ³-Ã©s ment? valamint a vÃ©delmi rendszerek persze m?kÃ¶dnÃ©nek egy darabig, de az er?terek Ã©s mÃ¡s energiaigÃ©nyes rendszerek azonnal leÃ¡llnÃ¡nak.}
+{160}{}{ElÃ©g nagy felhajtÃ¡s lehetne.}
+{161}{}{Nos, nem lenne valami jÃ³, az igaz. Ha ez megtÃ¶rtÃ©nne, minden vÃ­zzÃ¡rÃ³ ajtÃ³ azonnal zÃ¡rna. Nincs az az isten a vilÃ¡gon, amiÃ©rt kinyÃ­lnÃ¡nak, ha egyszer reaktorleÃ¡llÃ¡s miatt ereszkedtek le. Ez biztonsÃ¡gi el?Ã­rÃ¡s.}
+{162}{}{Ez Ã©rdekes. Viszont mÃ¡srÃ³l akartam beszÃ©lni magÃ¡val.}
+{163}{}{Ez minden, amit akartam. KÃ¶sz a segÃ­tsÃ©get.}
+{164}{}{KÃ¶sz. KÃ¡r, hogy ezt mÃ¡r nem fogja megÃ©rni. ViszlÃ¡t!}

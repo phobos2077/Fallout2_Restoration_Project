@@ -1,146 +1,146 @@
 {100}{}{Tu vois un barman.}
-{101}{}{Tu vois un homme grand, vêtu d'un élégant costume. Il regarde droit devant lui et ne prête aucune attention aux clients autour de lui.}
+{101}{}{Tu vois un homme grand, vÃªtu d'un Ã©lÃ©gant costume. Il regarde droit devant lui et ne prÃªte aucune attention aux clients autour de lui.}
 {102}{}{Tu vois un barman.}
-{103}{}{Cet homme a un visage impassible. S'il a remarqué ta présence, il ne le montre pas.}
-{104}{}{Quelque chose à boire ?}
+{103}{}{Cet homme a un visage impassible. S'il a remarquÃ© ta prÃ©sence, il ne le montre pas.}
+{104}{}{Quelque chose Ã  boire ?}
 {105}{}{Bienvenue. Je t'en prie, assieds-toi au bar.}
-{106}{}{Allez ! Prends un siège et repose-toi un peu !}
-{107}{}{Bonne journée, Capitaine.}
-{108}{}{La Cité de l'Abri avant tout, Capitaine !}
+{106}{}{Allez ! Prends un siÃ¨ge et repose-toi un peu !}
+{107}{}{Bonne journÃ©e, Capitaine.}
+{108}{}{La CitÃ© de l'Abri avant tout, Capitaine !}
 {109}{}{Salut, citoyen.}
-{110}{}{La Cité de l'Abri avant tout, citoyen !}
+{110}{}{La CitÃ© de l'Abri avant tout, citoyen !}
 {111}{}{Un mutant ! Gardes ! Gardes !}
 {112}{}{Une Goule ! Gardes ! Gardes !}
-{113}{}{Désolé, le bar est fermé pour la soirée.}
-{114}{}{Le bar est fermé. Je rentre à la maison dès que j'ai fini l'inventaire.}
-{115}{}{Vous avez donc pas d'autres endroits où aller ?}
+{113}{}{DÃ©solÃ©, le bar est fermÃ© pour la soirÃ©e.}
+{114}{}{Le bar est fermÃ©. Je rentre Ã  la maison dÃ¨s que j'ai fini l'inventaire.}
+{115}{}{Vous avez donc pas d'autres endroits oÃ¹ aller ?}
 {116}{}{Bienvenue ! On a tous entendu parler de tes exploits contre l'Enclave. Je peux te servir quelque chose ?}
 {117}{}{Awnt-awnt.}
-{118}{}{Dégage !}
+{118}{}{DÃ©gage !}
 {119}{}{Qu'est-ce que t'as en pression ?}
 {120}{}{Je cherchais des renseignements.}
 {121}{}{Rien pour aujourd'hui, merci.}
-{122}{}{Hé-hé, « awnt-awnt » à toi aussi. Fais attention quand tu seras dans le désert.}
+{122}{}{HÃ©-hÃ©, Â« awnt-awnt Â» Ã  toi aussi. Fais attention quand tu seras dans le dÃ©sert.}
 {123}{}{Oonnt-oooont !}
-{124}{}{Dégage !}
+{124}{}{DÃ©gage !}
 {125}{}{Que puis-je pour vous, capitaine ?}
 {126}{}{Que puis-je faire pour toi, citoyen ?}
-{127}{}{Oui, puis-je vous être utile ?}
+{127}{}{Oui, puis-je vous Ãªtre utile ?}
 {128}{}{Awnt-awnt.}
-{129}{}{Dégage !}
+{129}{}{DÃ©gage !}
 {130}{}{Qu'est-ce que t'as en pression ?}
 {131}{}{Je cherchais des renseignements.}
 {132}{}{Rien pour aujourd'hui, merci.}
-{133}{}{Oui, « awnt-awnt » à toi aussi. Attends un peu que j'appelle les gardes pour qu'ils te « awnt-awnt » jusqu'au portail.}
+{133}{}{Oui, Â« awnt-awnt Â» Ã  toi aussi. Attends un peu que j'appelle les gardes pour qu'ils te Â« awnt-awnt Â» jusqu'au portail.}
 {134}{}{Ournt ! Ournt-ournt.}
-{135}{}{Dégage !}
-{136}{}{« A la pression » ? Bizarre.}
-{137}{}{On a de l'eau minérale, de l'eau distillée, de l'eau gazeuse. Et aussi plusieurs alcools de synthèse.}
-{138}{}{Hum.... Qu'avez-vous comme alcools de synthèse ?}
+{135}{}{DÃ©gage !}
+{136}{}{Â« A la pression Â» ? Bizarre.}
+{137}{}{On a de l'eau minÃ©rale, de l'eau distillÃ©e, de l'eau gazeuse. Et aussi plusieurs alcools de synthÃ¨se.}
+{138}{}{Hum.... Qu'avez-vous comme alcools de synthÃ¨se ?}
 {139}{}{Hum, vous n'auriez pas de vraies boissons ?}
 {140}{}{Un peu d'eau, ce sera parfait.}
 {141}{}{Bon. Je cherchais quelques renseignements.}
 {142}{}{Rien pour aujourd'hui, merci.}
-{143}{}{Très bien, m'sieur.}
-{144}{}{Très bien, m'dame.}
-{145}{}{Laquelle voulez-vous ? Minérale ? Distillée ? Ou gazeuse ? Elles sont toutes au prix modique de cinq dollars le verre.}
-{146}{}{Minérale, merci.}
-{147}{}{Je vais essayer l'eau distillée.}
+{143}{}{TrÃ¨s bien, m'sieur.}
+{144}{}{TrÃ¨s bien, m'dame.}
+{145}{}{Laquelle voulez-vous ? MinÃ©rale ? DistillÃ©e ? Ou gazeuse ? Elles sont toutes au prix modique de cinq dollars le verre.}
+{146}{}{MinÃ©rale, merci.}
+{147}{}{Je vais essayer l'eau distillÃ©e.}
 {148}{}{Cette eau gazeuse me fera du bien.}
-{149}{}{Qu'avez-vous comme alcools de synthèse ?}
+{149}{}{Qu'avez-vous comme alcools de synthÃ¨se ?}
 {150}{}{Bon. Je cherchais quelques renseignements.}
-{151}{}{C'est un peu chérot pour moi. Je reviendrai quand j'aurai plus d'argent.}
+{151}{}{C'est un peu chÃ©rot pour moi. Je reviendrai quand j'aurai plus d'argent.}
 {152}{}{Je crois que je vais m'abstenir, merci.}
-{153}{}{Nous avons des dérivés synthétiques H et T, et nous venons de mettre au point un breuvage très apprécié, l'« alcool-Z », très riche en pseudo-arômes de micro-brasserie. Chaque boisson est au prix modique de vingt dollars le verre.}
-{154}{}{Comment sont fabriqués ces alcools de synthèse ?}
+{153}{}{Nous avons des dÃ©rivÃ©s synthÃ©tiques H et T, et nous venons de mettre au point un breuvage trÃ¨s apprÃ©ciÃ©, l'Â« alcool-Z Â», trÃ¨s riche en pseudo-arÃ´mes de micro-brasserie. Chaque boisson est au prix modique de vingt dollars le verre.}
+{154}{}{Comment sont fabriquÃ©s ces alcools de synthÃ¨se ?}
 {155}{}{Hum, vous n'auriez pas de vraies boissons ?}
 {156}{}{Je crois que je vais juste prendre de l'eau.}
 {157}{}{Hum. Je vais tenter ce fameux alcool-Z.}
 {158}{}{Bon. Je cherchais quelques renseignements.}
-{159}{}{C'est un peu chérot. Je reviendrai quand j'aurai plus d'argent.}
+{159}{}{C'est un peu chÃ©rot. Je reviendrai quand j'aurai plus d'argent.}
 {160}{}{Rien pour aujourd'hui, merci.}
 {161}{}{Autre chose ?}
 {162}{}{Je voudrais encore un peu d'eau, merci.}
-{163}{}{Qu'avez-vous comme alcools de synthèse ?}
+{163}{}{Qu'avez-vous comme alcools de synthÃ¨se ?}
 {164}{}{Bon. Je cherchais quelques renseignements.}
 {165}{}{Rien pour aujourd'hui, merci.}
-{166}{}{Ca va bien, m'sieur ? On dirait que tout cet « alcool-Z », ça ne vous a pas réussi. Vous êtes sûr d'en vouloir encore ?}
-{167}{}{Ca va bien, m'sieur ? On dirait que tout cet « alcool-Z », ça ne vous a pas réussi. Vous êtes sûr d'en vouloir encore ?}
+{166}{}{Ca va bien, m'sieur ? On dirait que tout cet Â« alcool-Z Â», Ã§a ne vous a pas rÃ©ussi. Vous Ãªtes sÃ»r d'en vouloir encore ?}
+{167}{}{Ca va bien, m'sieur ? On dirait que tout cet Â« alcool-Z Â», Ã§a ne vous a pas rÃ©ussi. Vous Ãªtes sÃ»r d'en vouloir encore ?}
 {168}{}{Autre chose ?}
-{169}{}{Je me sens pas trop bien... Je vais juste sortir du dialogue un moment et vérifier mes points d'impact maximum.}
-{170}{}{Non, non, ça va très bien ! Je vais juste sortir du dialogue un moment et vérifier mes points d'impact maximum.}
+{169}{}{Je me sens pas trop bien... Je vais juste sortir du dialogue un moment et vÃ©rifier mes points d'impact maximum.}
+{170}{}{Non, non, Ã§a va trÃ¨s bien ! Je vais juste sortir du dialogue un moment et vÃ©rifier mes points d'impact maximum.}
 {171}{}{Je crois que je vais juste prendre de l'eau.}
-{172}{}{Je vais reprendre de ce délicieux alcool-Z.}
-{173}{}{Comment sont fabriqués ces alcools de synthèse ?}
+{172}{}{Je vais reprendre de ce dÃ©licieux alcool-Z.}
+{173}{}{Comment sont fabriquÃ©s ces alcools de synthÃ¨se ?}
 {174}{}{En fait, je cherchais des renseignements.}
 {175}{}{C'est tout pour aujourd'hui. Merci.}
-{176}{}{Les Autodocs de la Cité de l'Abri fabriquent des substituts synthétiques à des substances créant une dépendance. Si j'ai bien compris, ces produits de synthèse servaient de placebo pour les accros aux stimulants avant la guerre.}
-{177}{}{Tu as l'air d'en savoir long sur ces produits de synthèse.}
+{176}{}{Les Autodocs de la CitÃ© de l'Abri fabriquent des substituts synthÃ©tiques Ã  des substances crÃ©ant une dÃ©pendance. Si j'ai bien compris, ces produits de synthÃ¨se servaient de placebo pour les accros aux stimulants avant la guerre.}
+{177}{}{Tu as l'air d'en savoir long sur ces produits de synthÃ¨se.}
 {178}{}{Hum, vous n'auriez pas de vraies boissons ?}
 {179}{}{Oh. Bien, je crois que je vais prendre de l'eau.}
 {180}{}{Hum. Je vais essayer cet alcool-Z.}
-{181}{}{Intéressant. Au fait, j'aurais voulu des renseignements...}
+{181}{}{IntÃ©ressant. Au fait, j'aurais voulu des renseignements...}
 {182}{}{Je vois. Merci et au revoir.}
-{183}{}{J'ai été un domestique du Dr Troy pendant quelques mois avant d'être réaffecté ici. Il voulait que j'ingurgite la base de données médicales de la Cité de l'Abri.}
-{184}{}{« Ingurgiter » ? Il a le droit de te demander de faire ça à un ordinateur ?}
-{185}{}{Base de données médicale ?}
-{186}{}{Intéressant. Au fait, j'aurais voulu des renseignements...}
+{183}{}{J'ai Ã©tÃ© un domestique du Dr Troy pendant quelques mois avant d'Ãªtre rÃ©affectÃ© ici. Il voulait que j'ingurgite la base de donnÃ©es mÃ©dicales de la CitÃ© de l'Abri.}
+{184}{}{Â« Ingurgiter Â» ? Il a le droit de te demander de faire Ã§a Ã  un ordinateur ?}
+{185}{}{Base de donnÃ©es mÃ©dicale ?}
+{186}{}{IntÃ©ressant. Au fait, j'aurais voulu des renseignements...}
 {187}{}{Je vois. Merci et au revoir.}
-{188}{}{Heu... « Ingurgiter », ça veut dire connaître, apprendre.}
-{189}{}{Aha. Bon, si ça te fait plaisir de le dire comme ça, parfait. C'est quoi cette histoire de base de données médicale ?}
+{188}{}{Heu... Â« Ingurgiter Â», Ã§a veut dire connaÃ®tre, apprendre.}
+{189}{}{Aha. Bon, si Ã§a te fait plaisir de le dire comme Ã§a, parfait. C'est quoi cette histoire de base de donnÃ©es mÃ©dicale ?}
 {190}{}{J'aurais voulu d'autres renseignements...}
-{191}{}{Si tu préfères le silence, je comprends très bien. On en parlera plus tard.}
-{192}{}{Oui, plusieurs des ordinateurs du premier étage de l'Abri contiennent des données médicales de toutes sortes. C'est passionnant, bien que ce jargon soit un peu déroutant quand on n'est pas médecin.}
-{193}{}{Jargon ? C'est lui qui est chargé des ordinateurs ?}
-{194}{}{Intéressant. Au fait, j'aurais voulu des renseignements...}
+{191}{}{Si tu prÃ©fÃ¨res le silence, je comprends trÃ¨s bien. On en parlera plus tard.}
+{192}{}{Oui, plusieurs des ordinateurs du premier Ã©tage de l'Abri contiennent des donnÃ©es mÃ©dicales de toutes sortes. C'est passionnant, bien que ce jargon soit un peu dÃ©routant quand on n'est pas mÃ©decin.}
+{193}{}{Jargon ? C'est lui qui est chargÃ© des ordinateurs ?}
+{194}{}{IntÃ©ressant. Au fait, j'aurais voulu des renseignements...}
 {195}{}{Hmmm. Je vais aller jeter un oeil alors.}
-{196}{}{Heu, non. Le « jargon », c'est le vocabulaire, la terminologie, en général, c'est lié à une profession particulière.}
-{197}{}{Heu, ouais, bien sûr, bien sûr. Je voulais juste te tester. Au fait, j'aurais voulu des renseignements...}
-{198}{}{Si tu le dis. Tu diras à ce Jargon que je vais aller lui parler, d'accord ? Salut.}
-{199}{}{Si tu parles de ce qu'ils appellent de l'alcool dans le désert, alors non.}
-{200}{}{Nous n'avons jamais éprouvé le besoin de nous empoisonner avec ces breuvages bourrés de bactéries. Le bar de l'Entrée sera peut-être moins... regardant.}
+{196}{}{Heu, non. Le Â« jargon Â», c'est le vocabulaire, la terminologie, en gÃ©nÃ©ral, c'est liÃ© Ã  une profession particuliÃ¨re.}
+{197}{}{Heu, ouais, bien sÃ»r, bien sÃ»r. Je voulais juste te tester. Au fait, j'aurais voulu des renseignements...}
+{198}{}{Si tu le dis. Tu diras Ã  ce Jargon que je vais aller lui parler, d'accord ? Salut.}
+{199}{}{Si tu parles de ce qu'ils appellent de l'alcool dans le dÃ©sert, alors non.}
+{200}{}{Nous n'avons jamais Ã©prouvÃ© le besoin de nous empoisonner avec ces breuvages bourrÃ©s de bactÃ©ries. Le bar de l'EntrÃ©e sera peut-Ãªtre moins... regardant.}
 {201}{}{Alors, je vais juste prendre un peu d'eau.}
-{202}{}{Attends un peu. Qu'avez-vous comme « boissons de synthèse » ?}
+{202}{}{Attends un peu. Qu'avez-vous comme Â« boissons de synthÃ¨se Â» ?}
 {203}{}{Je cherchais des renseignements.}
 {204}{}{Bon, je vais aller voir, merci.}
-{205}{}{Bon, je vais peut-être aller ailleurs.}
-{206}{}{Tu devrais peut-être aller à notre centre d'informations, plutôt qu'ici. Il est situé en ville. Maintenant, il faut que tu partes... J'ai d'autres clients.}
+{205}{}{Bon, je vais peut-Ãªtre aller ailleurs.}
+{206}{}{Tu devrais peut-Ãªtre aller Ã  notre centre d'informations, plutÃ´t qu'ici. Il est situÃ© en ville. Maintenant, il faut que tu partes... J'ai d'autres clients.}
 {207}{}{Un instant, je veux boire quelque chose. Qu'y a-t-il en pression ?}
 {208}{}{Non, je crois que tu vas d'abord me dire ce que je veux savoir. Et puis tu vas changer de ton, si tu veux pas qu'il t'arrive des bricoles.}
-{209}{}{Bon, très bien. Bonne journée.}
-{210}{}{Bien sûr. Que voulez-vous savoir, m'sieur ?}
-{211}{}{Bien sûr. Que voulez-vous savoir, m'dame ?}
-{212}{}{Bien sûr. Que voulez-vous savoir, Capitaine ?}
-{213}{}{Bien sûr. Que voulez-vous savoir, citoyen ?}
-{214}{}{Tu peux me dire qui dirige la Cité de l'Abri ?}
-{215}{}{Peux-tu m'en dire un peu plus long sur l'esclavage dans la Cité de l'Abri ?}
+{209}{}{Bon, trÃ¨s bien. Bonne journÃ©e.}
+{210}{}{Bien sÃ»r. Que voulez-vous savoir, m'sieur ?}
+{211}{}{Bien sÃ»r. Que voulez-vous savoir, m'dame ?}
+{212}{}{Bien sÃ»r. Que voulez-vous savoir, Capitaine ?}
+{213}{}{Bien sÃ»r. Que voulez-vous savoir, citoyen ?}
+{214}{}{Tu peux me dire qui dirige la CitÃ© de l'Abri ?}
+{215}{}{Peux-tu m'en dire un peu plus long sur l'esclavage dans la CitÃ© de l'Abri ?}
 {216}{}{Bon. Je voulais boire quelque chose. Qu'y a-t-il en pression ?}
 {217}{}{Rien pour aujourd'hui, merci.}
-{218}{}{Bah, la Première citoyenne Lynette, bien sûr. Ca fait deux mandats qu'elle est à ce poste, maintenant. Elle doit toujours des comptes au Conseil, mais c'est elle qui décide l'essentiel des lois de la Cité de l'Abri.}
+{218}{}{Bah, la PremiÃ¨re citoyenne Lynette, bien sÃ»r. Ca fait deux mandats qu'elle est Ã  ce poste, maintenant. Elle doit toujours des comptes au Conseil, mais c'est elle qui dÃ©cide l'essentiel des lois de la CitÃ© de l'Abri.}
 {219}{}{Conseil ?}
-{220}{}{Peux-tu m'en dire un peu plus long sur l'esclavage dans la Cité de l'Abri ?}
+{220}{}{Peux-tu m'en dire un peu plus long sur l'esclavage dans la CitÃ© de l'Abri ?}
 {221}{}{Bon. Je voulais boire quelque chose. Qu'y a-t-il en pression ?}
 {222}{}{Je vois. Merci et au revoir.}
-{223}{}{Oui, il y a aussi un Conseil de la Cité de l'Abri. Le porte-parole, c'est Monsieur le Conseiller McClure. [Se penche vers toi.] En fait, McClure et la Première citoyenne se sont déjà querellés à plusieurs reprises.}
+{223}{}{Oui, il y a aussi un Conseil de la CitÃ© de l'Abri. Le porte-parole, c'est Monsieur le Conseiller McClure. [Se penche vers toi.] En fait, McClure et la PremiÃ¨re citoyenne se sont dÃ©jÃ  querellÃ©s Ã  plusieurs reprises.}
 {224}{}{Vraiment... ?}
-{225}{}{Peux-tu m'en dire un peu plus long sur l'esclavage dans la Cité de l'Abri ?}
+{225}{}{Peux-tu m'en dire un peu plus long sur l'esclavage dans la CitÃ© de l'Abri ?}
 {226}{}{Bon. Je voulais boire quelque chose. Qu'y a-t-il en pression ?}
 {227}{}{Je vois. Merci et au revoir.}
-{228}{}{Oh, oui. Récemment, il y a des citoyens qui ont demandé à McClure et au Conseil d'annuler certaines décisions de la Première citoyenne. Tu peux me croire que ça a fait des vagues.}
+{228}{}{Oh, oui. RÃ©cemment, il y a des citoyens qui ont demandÃ© Ã  McClure et au Conseil d'annuler certaines dÃ©cisions de la PremiÃ¨re citoyenne. Tu peux me croire que Ã§a a fait des vagues.}
 {229}{}{Hum. Il y a autre chose que je voulais savoir...}
-{230}{}{Je vois. Bon, je prendrais bien un verre. Qu'avez-vous à la pression ?}
+{230}{}{Je vois. Bon, je prendrais bien un verre. Qu'avez-vous Ã  la pression ?}
 {231}{}{Je vois. Merci et au revoir.}
-{232}{}{Oh, non, non... Ce n'est pas de l'esclavage. Ces gens qui travaillent dans la Cité sont des domestiques... comme moi. On est très bien traités ici, on nous apprend à lire et à écrire, on nous assure des soins, un logement et la nourriture.}
-{233}{}{Tout sauf la liberté, hein ?}
+{232}{}{Oh, non, non... Ce n'est pas de l'esclavage. Ces gens qui travaillent dans la CitÃ© sont des domestiques... comme moi. On est trÃ¨s bien traitÃ©s ici, on nous apprend Ã  lire et Ã  Ã©crire, on nous assure des soins, un logement et la nourriture.}
+{233}{}{Tout sauf la libertÃ©, hein ?}
 {234}{}{Si personne se plaint, alors c'est parfait.}
 {235}{}{Bon. Je voulais boire quelque chose. Qu'y a-t-il en pression ?}
 {236}{}{Je vois. Eh bien, merci d'avoir pris le temps de discuter avec moi. Au revoir.}
-{237}{}{Si vous ne commandez pas à boire, c'est peut-être préférable de partir, m'dame.}
-{238}{}{Si vous ne commandez pas à boire, c'est peut-être préférable de partir, m'sieur.}
+{237}{}{Si vous ne commandez pas Ã  boire, c'est peut-Ãªtre prÃ©fÃ©rable de partir, m'dame.}
+{238}{}{Si vous ne commandez pas Ã  boire, c'est peut-Ãªtre prÃ©fÃ©rable de partir, m'sieur.}
 {239}{}{Si personne se plaint de cette... servitude, alors c'est parfait.}
-{240}{}{Je vais prendre quelque chose, alors. Qu'avez-vous à la pression ?}
-{241}{}{Je ferais peut-être mieux, oui. Bonne journée.}
-{242}{}{Très bien. Puis-je être utile à quoi que ce soit ?}
-{243}{}{Je vais prendre quelque chose, alors. Qu'avez-vous à la pression ?}
-{244}{}{Pas aujourd'hui, en fait. Bonne journée.}
+{240}{}{Je vais prendre quelque chose, alors. Qu'avez-vous Ã  la pression ?}
+{241}{}{Je ferais peut-Ãªtre mieux, oui. Bonne journÃ©e.}
+{242}{}{TrÃ¨s bien. Puis-je Ãªtre utile Ã  quoi que ce soit ?}
+{243}{}{Je vais prendre quelque chose, alors. Qu'avez-vous Ã  la pression ?}
+{244}{}{Pas aujourd'hui, en fait. Bonne journÃ©e.}
 {245}{}{Zzzzzz.}

@@ -1,129 +1,129 @@
-{100}{}{Você vê um bandido.}
-{101}{}{Você vê Joey.}
-{150}{}{Esse cara não parece muito amigável.}
+{100}{}{VocÃª vÃª um bandido.}
+{101}{}{VocÃª vÃª Joey.}
+{150}{}{Esse cara nÃ£o parece muito amigÃ¡vel.}
 {151}{}{[FALAR]}
-{152}{}{Eu vou cortar você, filho da puta!}
+{152}{}{Eu vou cortar vocÃª, filho da puta!}
 {153}{}{Sim? Venha e experimente.}
 {154}{}{Ei, espere apenas um minuto!}
-{155}{}{Eu pensaria duas vezes se eu fosse você.}
-{156}{}{O que você quer? Por que eu não deveria simplesmente te matar ao invés de ouvir
-  as suas besteiras depois do que você fez?}
-{157}{}{Eu quero falar com você sobre um fantasma que vem aqui à noite.}
-{158}{}{Você pegou um medalhão da casa assombrada?}
-{159}{}{Deixa pra lá. Em vez disso, vou chutar a sua bunda.}
-{160}{}{Nada. Só de passagem.}
-{161}{}{O que diabos você está falando?}
-{162}{}{Você roubou um medalhão daquela casa assombrada?}
+{155}{}{Eu pensaria duas vezes se eu fosse vocÃª.}
+{156}{}{O que vocÃª quer? Por que eu nÃ£o deveria simplesmente te matar ao invÃ©s de ouvir
+Â  as suas besteiras depois do que vocÃª fez?}
+{157}{}{Eu quero falar com vocÃª sobre um fantasma que vem aqui Ã  noite.}
+{158}{}{VocÃª pegou um medalhÃ£o da casa assombrada?}
+{159}{}{Deixa pra lÃ¡. Em vez disso, vou chutar a sua bunda.}
+{160}{}{Nada. SÃ³ de passagem.}
+{161}{}{O que diabos vocÃª estÃ¡ falando?}
+{162}{}{VocÃª roubou um medalhÃ£o daquela casa assombrada?}
 {163}{}{Nada, esquece.}
-{164}{}{Esqueça. Vou matá-lo agora e resolver as peças mais tarde.}
-{165}{}{Eu-eu não sei do que você está falando.}
-{166}{}{Oh, eu acho que você sabe! Você roubou o medalhão de uma garota morta, e agora seu espírito não pode descansar.}
-{167}{}{Então eu vou levá-lo pela força.}
-{168}{}{I-Isso é louco! Você deveria ter sido r-realmente fodido em alguma merda de Tubby. Eu - eu nunca vi nenhum f-fantasma q-quando eu fiquei a-ali - apenas uma viagem ruim, não f-foi real.}
-{169}{}{Olha, eu vou comprá-lo de você.}
-{170}{}{Dê para mim ou você pode se juntar a ela.}
-{171}{}{Se você não devolver agora, ela irá atras de você. E ela não pode
-  ser parada.}
-{172}{}{Hã? Oh sim. Sim. I-Isso é com certeza. Você vai ter que ganhar com alguns dólares com certeza. Você não está conseguindo isso de graça! US $ 50 ou esqueça!}
-{173}{}{Ok, aqui está o dinheiro.}
-{174}{}{Pegue US $ 20 e fique feliz, eu não levo apenas isso de você.}
-{175}{}{Nah, eu mudei de idéia. Até mais.}
-{176}{}{Dê para mim ou eu mato você por isso.}
+{164}{}{EsqueÃ§a. Vou matÃ¡-lo agora e resolver as peÃ§as mais tarde.}
+{165}{}{Eu-eu nÃ£o sei do que vocÃª estÃ¡ falando.}
+{166}{}{Oh, eu acho que vocÃª sabe! VocÃª roubou o medalhÃ£o de uma garota morta, e agora seu espÃ­rito nÃ£o pode descansar.}
+{167}{}{EntÃ£o eu vou levÃ¡-lo pela forÃ§a.}
+{168}{}{I-Isso Ã© louco! VocÃª deveria ter sido r-realmente fodido em alguma merda de Tubby. Eu - eu nunca vi nenhum f-fantasma q-quando eu fiquei a-ali - apenas uma viagem ruim, nÃ£o f-foi real.}
+{169}{}{Olha, eu vou comprÃ¡-lo de vocÃª.}
+{170}{}{DÃª para mim ou vocÃª pode se juntar a ela.}
+{171}{}{Se vocÃª nÃ£o devolver agora, ela irÃ¡ atras de vocÃª. E ela nÃ£o pode
+Â  ser parada.}
+{172}{}{HÃ£? Oh sim. Sim. I-Isso Ã© com certeza. VocÃª vai ter que ganhar com alguns dÃ³lares com certeza. VocÃª nÃ£o estÃ¡ conseguindo isso de graÃ§a! US $ 50 ou esqueÃ§a!}
+{173}{}{Ok, aqui estÃ¡ o dinheiro.}
+{174}{}{Pegue US $ 20 e fique feliz, eu nÃ£o levo apenas isso de vocÃª.}
+{175}{}{Nah, eu mudei de idÃ©ia. AtÃ© mais.}
+{176}{}{DÃª para mim ou eu mato vocÃª por isso.}
 {177}{}{Aqui. Agora me deixe em paz.}
 {178}{}{Alegremente.}
-{179}{}{Não me deixe pegar você fazendo isso de novo!}
-{180}{}{H-Hey! Você não tem dinheiro! Saia já daqui!}
+{179}{}{NÃ£o me deixe pegar vocÃª fazendo isso de novo!}
+{180}{}{H-Hey! VocÃª nÃ£o tem dinheiro! Saia jÃ¡ daqui!}
 {181}{}{Oops. Eu vou voltar.}
-{182}{}{Então eu acho que eu tenho que matar você.}
+{182}{}{EntÃ£o eu acho que eu tenho que matar vocÃª.}
 {183}{}{Ei. Como isso vai?}
-{184}{}{OK, e você?}
-{185}{}{Não é tão bom.}
-{186}{}{Você pegou um medalhão daquela casa assombrada?}
-{187}{}{O que você sabe sobre esse fantasma que chega aqui à noite?}
-{188}{}{Ei, cara, eu sou o Joey. O que você tá fazendo no meu gramado?}
-{189}{}{Seu gramado? Eu não penso assim.}
-{190}{}{Talvez eu esteja procurando por você.}
+{184}{}{OK, e vocÃª?}
+{185}{}{NÃ£o Ã© tÃ£o bom.}
+{186}{}{VocÃª pegou um medalhÃ£o daquela casa assombrada?}
+{187}{}{O que vocÃª sabe sobre esse fantasma que chega aqui Ã  noite?}
+{188}{}{Ei, cara, eu sou o Joey. O que vocÃª tÃ¡ fazendo no meu gramado?}
+{189}{}{Seu gramado? Eu nÃ£o penso assim.}
+{190}{}{Talvez eu esteja procurando por vocÃª.}
 {191}{}{Apenas saindo. Tchau.}
-{192}{}{Procurando algumas informações.}
-{193}{}{Ei, bosta de bebê. Você está procurando por Joey? Aqui estou.}
-{194}{}{Não. Vá embora.}
-{195}{}{Talvez. O que você está me oferecendo?}
-{196}{}{Eu precisava de algumas informações.}
-{197}{}{Não, desculpe. Eu tenho que ir agora.}
-{198}{}{Hey, eu tenho alguns jet. É uma coisa ótima e nova marca de Reno. Quer algumas?}
+{192}{}{Procurando algumas informaÃ§Ãµes.}
+{193}{}{Ei, bosta de bebÃª. VocÃª estÃ¡ procurando por Joey? Aqui estou.}
+{194}{}{NÃ£o. VÃ¡ embora.}
+{195}{}{Talvez. O que vocÃª estÃ¡ me oferecendo?}
+{196}{}{Eu precisava de algumas informaÃ§Ãµes.}
+{197}{}{NÃ£o, desculpe. Eu tenho que ir agora.}
+{198}{}{Hey, eu tenho alguns jet. Ã‰ uma coisa Ã³tima e nova marca de Reno. Quer algumas?}
 {199}{}{De jeito nenhum!}
 {200}{}{Quanto?}
-{201}{}{Não, eu quero informações.}
+{201}{}{NÃ£o, eu quero informaÃ§Ãµes.}
 {202}{}{Eu tenho que ir. Tchau.}
-{203}{}{Que tal você e eu entendi?}
+{203}{}{Que tal vocÃª e eu entendi?}
 {204}{}{Tudo bem.}
-{205}{}{Nem se você fosse o último homem não morto no planeta.}
-{206}{}{Er, não... eu não penso assim. Eu preciso de algo mais.}
-{207}{}{Você vai voltar.}
+{205}{}{Nem se vocÃª fosse o Ãºltimo homem nÃ£o morto no planeta.}
+{206}{}{Er, nÃ£o... eu nÃ£o penso assim. Eu preciso de algo mais.}
+{207}{}{VocÃª vai voltar.}
 {208}{}{Talvez.}
-{209}{}{Não conte com isso.}
+{209}{}{NÃ£o conte com isso.}
 {210}{}{Aguarde! Posso perguntar uma coisa?}
-{211}{}{Ninguém fala assim comigo!}
-{212}{}{Eu apenas fiz. Você faz mais do que falar?}
-{213}{}{Seja o que for. Você está vendendo alguma coisa ou apenas fazendo uma pequena conversa?}
-{214}{}{Me desculpe. Estou realmente olhando ao redor e não conheço a área.}
-{215}{}{O que você quer?}
-{216}{}{Eu estou procurando um medalhão.}
+{211}{}{NinguÃ©m fala assim comigo!}
+{212}{}{Eu apenas fiz. VocÃª faz mais do que falar?}
+{213}{}{Seja o que for. VocÃª estÃ¡ vendendo alguma coisa ou apenas fazendo uma pequena conversa?}
+{214}{}{Me desculpe. Estou realmente olhando ao redor e nÃ£o conheÃ§o a Ã¡rea.}
+{215}{}{O que vocÃª quer?}
+{216}{}{Eu estou procurando um medalhÃ£o.}
 {217}{}{Eu preciso saber mais sobre essa casa mal-assombrada.}
-{218}{}{Qual é o negócio com a velha igreja e os guardas?}
-{219}{}{Nada que você possa fornecer.}
-{220}{}{Você já ouviu falar do Vault 13?}
-{221}{}{Hum, não importa. Até a próxima.}
-{222}{}{Oh, você quer dizer Tyler e sua gangue? Eles guardam uma merda que vem da cidade de Vault. Grandes caixas de porra. De vez em quando você vê-los pegar as caravanas em direção a New Reno.}
+{218}{}{Qual Ã© o negÃ³cio com a velha igreja e os guardas?}
+{219}{}{Nada que vocÃª possa fornecer.}
+{220}{}{VocÃª jÃ¡ ouviu falar do Vault 13?}
+{221}{}{Hum, nÃ£o importa. AtÃ© a prÃ³xima.}
+{222}{}{Oh, vocÃª quer dizer Tyler e sua gangue? Eles guardam uma merda que vem da cidade de Vault. Grandes caixas de porra. De vez em quando vocÃª vÃª-los pegar as caravanas em direÃ§Ã£o a New Reno.}
 {223}{}{Posso perguntar-lhe mais sobre eles?}
 {224}{}{Posso pedir mais uma coisa?}
 {225}{}{OK, obrigado. Tchau.}
-{226}{}{O que mais você quer saber?}
-{227}{}{Quem é o Tyler?}
-{228}{}{Onde está o Novo Reno?}
-{229}{}{Então, o que eles estão protegendo?}
-{230}{}{Eu quero perguntar a você sobre algo.}
-{231}{}{É isso. Tchau.}
-{232}{}{Tyler é apenas uma doninha que ferrou todo o resto de nós por um doce negócio com
-  Metzger, mas foda-se essa merda! Eu não me importo mais. Eu poderia chutar o seu maldito culo, no entanto.
-  Lara e ele ainda têm um sangue muito ruim. Algo sobre Tyler e seu irmão.}
-{233}{}{Isso poderia ser útil. Posso lhe perguntar mais sobre eles?}
+{226}{}{O que mais vocÃª quer saber?}
+{227}{}{Quem Ã© o Tyler?}
+{228}{}{Onde estÃ¡ o Novo Reno?}
+{229}{}{EntÃ£o, o que eles estÃ£o protegendo?}
+{230}{}{Eu quero perguntar a vocÃª sobre algo.}
+{231}{}{Ã‰ isso. Tchau.}
+{232}{}{Tyler Ã© apenas uma doninha que ferrou todo o resto de nÃ³s por um doce negÃ³cio com
+Â  Metzger, mas foda-se essa merda! Eu nÃ£o me importo mais. Eu poderia chutar o seu maldito culo, no entanto.
+Â  Lara e ele ainda tÃªm um sangue muito ruim. Algo sobre Tyler e seu irmÃ£o.}
+{233}{}{Isso poderia ser Ãºtil. Posso lhe perguntar mais sobre eles?}
 {234}{}{Posso pedir mais uma coisa?}
 {235}{}{OK, obrigado. Tchau.}
-{236}{}{O novo Reno está no sul por longos caminhos, depois pelo leste. Há muito
-  de ação a ser feita lá, mas também é muito perigoso. Eu posso voltar
-  algum dia. Aqui, posso mostrar-lhe onde está naquela tela fantasiosa sua.}
-{237}{}{Eu acho que eu posso encontrá-lo agora. Posso perguntar-lhe mais sobre eles?}
+{236}{}{O novo Reno estÃ¡ no sul por longos caminhos, depois pelo leste. HÃ¡ muito
+Â  de aÃ§Ã£o a ser feita lÃ¡, mas tambÃ©m Ã© muito perigoso. Eu posso voltar
+Â  algum dia. Aqui, posso mostrar-lhe onde estÃ¡ naquela tela fantasiosa sua.}
+{237}{}{Eu acho que eu posso encontrÃ¡-lo agora. Posso perguntar-lhe mais sobre eles?}
 {238}{}{Posso pedir mais uma coisa?}
 {239}{}{OK, obrigado. Tchau.}
 {240}{}{Inferior se eu soubesse. }
 {241}{}{Interessantes. Posso perguntar-lhe mais sobre eles?}
 {242}{}{Posso pedir mais uma coisa?}
 {243}{}{OK, obrigado. Tchau.}
-{244}{}{Para você, eu vou vender o jet por $500.}
-{245}{}{Não, obrigado. Tchau.}
-{246}{}{Não, obrigado, mas eu gostaria de perguntar uma coisa.}
-{247}{}{Isso é demais!}
-{248}{}{OK, eu vou comprá-lo.}
-{249}{}{Se você não tem o dinheiro, volte quando você pode pagar. Não me deixe ver
-  você estar comprando de qualquer outra pessoa ou eu vou chutar seu bicho maldito. Eu sou o único com a pura
-  merda não cortada, enviada diretamente de New Reno.}
-{250}{}{Espere, eu vou comprá-lo.}
+{244}{}{Para vocÃª, eu vou vender o jet por $500.}
+{245}{}{NÃ£o, obrigado. Tchau.}
+{246}{}{NÃ£o, obrigado, mas eu gostaria de perguntar uma coisa.}
+{247}{}{Isso Ã© demais!}
+{248}{}{OK, eu vou comprÃ¡-lo.}
+{249}{}{Se vocÃª nÃ£o tem o dinheiro, volte quando vocÃª pode pagar. NÃ£o me deixe ver
+Â  vocÃª estar comprando de qualquer outra pessoa ou eu vou chutar seu bicho maldito. Eu sou o Ãºnico com a pura
+Â  merda nÃ£o cortada, enviada diretamente de New Reno.}
+{250}{}{Espere, eu vou comprÃ¡-lo.}
 {251}{}{Bem, posso perguntar uma coisa?}
 {252}{}{Adeus.}
-{253}{}{OK, vou baixar o preço para $ 350, mas não menos! Essa é a minha oferta final. Você tem que pagar
-  valor superior pela boa merda. Não compre contra Tubby ou nenhum desses perdedores. Eles cortaram a
-  merda. Eu sou o único por milhas que pode conseguir as melhores coisas.}
-{254}{}{Esqueça. Posso te perguntar uma coisa?}
-{255}{}{OK, eu vou comprá-lo.}
-{256}{}{Deixa pra lá. Tchau.}
-{257}{}{Vault... Vault... Vault 13? Não, nunca ouvi falar disso. Não me diga que eles apareceram
-  com outro novo químico! Nada pode vencer o jet!}
-{258}{}{Não, seu idiota.}
-{259}{}{Não, é um lugar. Posso pedir outra coisa?}
-{260}{}{Sim, um químico foda.}
-{261}{}{Não, tchau.}
-{262}{}{Joey aqui não é muito conversador.}
-{300}{}{Provavelmente não. Tchau.}
-{350}{}{Você estava dormindo? Acontece que Lara é uma pequena puta, afinal. Ela tirou Tyler para baixo. Ouvi dizer que Metzger estava envolvido. Bem, é melhor eu voltar para ... trabalhar.}
-{351}{}{Você estava dormindo? Acontece que Lara era uma pequena puta depois disso, muito ruim, ela está morta. Tirou o grupo de Tyler. Sua gangue está mandando lá, agora, da última vez que eu ouvi.}
+{253}{}{OK, vou baixar o preÃ§o para $ 350, mas nÃ£o menos! Essa Ã© a minha oferta final. VocÃª tem que pagar
+Â  valor superior pela boa merda. NÃ£o compre contra Tubby ou nenhum desses perdedores. Eles cortaram a
+Â  merda. Eu sou o Ãºnico por milhas que pode conseguir as melhores coisas.}
+{254}{}{EsqueÃ§a. Posso te perguntar uma coisa?}
+{255}{}{OK, eu vou comprÃ¡-lo.}
+{256}{}{Deixa pra lÃ¡. Tchau.}
+{257}{}{Vault... Vault... Vault 13? NÃ£o, nunca ouvi falar disso. NÃ£o me diga que eles apareceram
+Â  com outro novo quÃ­mico! Nada pode vencer o jet!}
+{258}{}{NÃ£o, seu idiota.}
+{259}{}{NÃ£o, Ã© um lugar. Posso pedir outra coisa?}
+{260}{}{Sim, um quÃ­mico foda.}
+{261}{}{NÃ£o, tchau.}
+{262}{}{Joey aqui nÃ£o Ã© muito conversador.}
+{300}{}{Provavelmente nÃ£o. Tchau.}
+{350}{}{VocÃª estava dormindo? Acontece que Lara Ã© uma pequena puta, afinal. Ela tirou Tyler para baixo. Ouvi dizer que Metzger estava envolvido. Bem, Ã© melhor eu voltar para ... trabalhar.}
+{351}{}{VocÃª estava dormindo? Acontece que Lara era uma pequena puta depois disso, muito ruim, ela estÃ¡ morta. Tirou o grupo de Tyler. Sua gangue estÃ¡ mandando lÃ¡, agora, da Ãºltima vez que eu ouvi.}

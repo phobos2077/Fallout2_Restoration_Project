@@ -1,1 +1,1 @@
-{100}{}{A könyv RENGETEG bels? információt tartalmaz a játékról, és sok egyebet. Ezzel még jobbá válhatsz.}
+{100}{}{A kÃ¶nyv RENGETEG bels? informÃ¡ciÃ³t tartalmaz a jÃ¡tÃ©krÃ³l, Ã©s sok egyebet. Ezzel mÃ©g jobbÃ¡ vÃ¡lhatsz.}

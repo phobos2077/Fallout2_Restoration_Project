@@ -1,4 +1,4 @@
-{100}{}{Ezeket az ajtókat képtelen vagy kinyitni. Úgy látszik, máshogy kell próbálkoznod.}
-{101}{}{Ezen az ajtón semmilyen szokványos zárószerkezetet nem látsz.}
-{102}{}{A felvonó ajtaját látod.}
-{103}{}{A felvonó ajtaja szemlátomást valami egyéb módon nyílik.}
+{100}{}{Ezeket az ajtÃ³kat kÃ©ptelen vagy kinyitni. Ãšgy lÃ¡tszik, mÃ¡shogy kell prÃ³bÃ¡lkoznod.}
+{101}{}{Ezen az ajtÃ³n semmilyen szokvÃ¡nyos zÃ¡rÃ³szerkezetet nem lÃ¡tsz.}
+{102}{}{A felvonÃ³ ajtajÃ¡t lÃ¡tod.}
+{103}{}{A felvonÃ³ ajtaja szemlÃ¡tomÃ¡st valami egyÃ©b mÃ³don nyÃ­lik.}

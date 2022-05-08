@@ -1,16 +1,16 @@
-{100}{}{Witamy w Komputerze Kontroli Robotów AOŒ. Co chcesz zrobiæ?}
-{101}{}{Polecenia dla robotów.}
-{102}{}{Uruchom diagnostykê.}
-{103}{}{OdejdŸ.}
-{104}{}{!B£¥D! !B£¥D! NAPOTKANO PROBLEM, ZAMYKAM SYSTEM!}
-{105}{}{Wróæ do Menu G³ównego}
-{106}{}{Procedura diagnostyczna...b³¹d obwodu p³yty g³ównej....sekcja czwarta...luŸny przewód.}
+{100}{}{Witamy w Komputerze Kontroli RobotÃ³w AOÅš. Co chcesz zrobiÄ‡?}
+{101}{}{Polecenia dla robotÃ³w.}
+{102}{}{Uruchom diagnostykÄ™.}
+{103}{}{OdejdÅº.}
+{104}{}{!BÅÄ„D! !BÅÄ„D! NAPOTKANO PROBLEM, ZAMYKAM SYSTEM!}
+{105}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{106}{}{Procedura diagnostyczna...bÅ‚Ä…d obwodu pÅ‚yty gÅ‚Ã³wnej....sekcja czwarta...luÅºny przewÃ³d.}
 {107}{}{GOTOWE}
-{108}{}{Nie jesteœ w stanie tego naprawiæ.}
-{109}{}{Udaje ci siê naprawiæ maszynê i ponownie uruchomiæ komputer.}
-{110}{}{Witamy w komputerze zarz¹dzania robotami AOŒ. Nie masz uprawnieñ do korzystania z tego terminalu. Zamykam system.}
+{108}{}{Nie jesteÅ› w stanie tego naprawiÄ‡.}
+{109}{}{Udaje ci siÄ™ naprawiÄ‡ maszynÄ™ i ponownie uruchomiÄ‡ komputer.}
+{110}{}{Witamy w komputerze zarzÄ…dzania robotami AOÅš. Nie masz uprawnieÅ„ do korzystania z tego terminalu. Zamykam system.}
 {111}{}{GOTOWE}
 {112}{}{Biip!}
 {113}{}{Boop!}
 {114}{}{Bzzz...}
-{115}{}{To ju¿ zosta³o naprawione przez ciebie.}
+{115}{}{To juÅ¼ zostaÅ‚o naprawione przez ciebie.}

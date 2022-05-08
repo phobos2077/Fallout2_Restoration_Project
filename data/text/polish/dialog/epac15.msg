@@ -1,8 +1,8 @@
 {100}{}{Widzisz plemiennego.}
 {101}{}{Widzisz plemiennego, pojmanego przez Doktora.}
-{102}{}{Widzisz smutnego wiêŸnia, nale¿¹cego do Doktora.}
+{102}{}{Widzisz smutnego wiÄ™Åºnia, naleÅ¼Ä…cego do Doktora.}
 {103}{}{POMOCY!}
-{104}{}{POMÓ¯ NAM!}
-{105}{}{Proszê, wypuœæ nas!!}
-{106}{}{D³u¿ej ju¿ nie wytrzymamy!!}
-{107}{}{Dziêkujê, przyjacielu!}
+{104}{}{POMÃ“Å» NAM!}
+{105}{}{ProszÄ™, wypuÅ›Ä‡ nas!!}
+{106}{}{DÅ‚uÅ¼ej juÅ¼ nie wytrzymamy!!}
+{107}{}{DziÄ™kujÄ™, przyjacielu!}

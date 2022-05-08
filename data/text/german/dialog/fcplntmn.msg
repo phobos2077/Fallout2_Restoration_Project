@@ -1,15 +1,15 @@
-{100}{}{Sie sehen einen Humanoiden, der mit Pflanzenwachstum bedeckt ist. Grüner Schlamm tropft herunter.}
-{101}{}{Du siehst eine von Dr. Shengs üblen Kreationen.}
-{102}{}{Du siehst eine von Dr. Shengs üblen Kreationen. Es sieht so aus, als wäre diese nicht so gut gelungen.}
+{100}{}{Sie sehen einen Humanoiden, der mit Pflanzenwachstum bedeckt ist. GrÃ¼ner Schlamm tropft herunter.}
+{101}{}{Du siehst eine von Dr. Shengs Ã¼blen Kreationen.}
+{102}{}{Du siehst eine von Dr. Shengs Ã¼blen Kreationen. Es sieht so aus, als wÃ¤re diese nicht so gut gelungen.}
 {200}{}{Sprich zum Meister, Mensch.}
-{201}{}{Dein Körper wäre ein guter Wirt...}
+{201}{}{Dein KÃ¶rper wÃ¤re ein guter Wirt...}
 {202}{}{Der Meister sagte, du hast keinen Zutritt ... vorerst.}
-{300}{}{[Ein halbes Dutzend seltsamer humanoider Kreaturen schlurfen langsam auf dich zu. Ihre ausgemergelten Reben und moosbedeckten Körper machen bei jedem unangenehmen Schritt abstoßende Quietschgeräusche. Die Hauptkreatur spricht dich mit einem harten Krächzen an.] Der Meister möchte mit dir sprechen. Komm mit uns, Mensch, und wehr dich nicht ... oder wir machen einen Wirt aus dir.}
+{300}{}{[Ein halbes Dutzend seltsamer humanoider Kreaturen schlurfen langsam auf dich zu. Ihre ausgemergelten Reben und moosbedeckten KÃ¶rper machen bei jedem unangenehmen Schritt abstoÃŸende QuietschgerÃ¤usche. Die Hauptkreatur spricht dich mit einem harten KrÃ¤chzen an.] Der Meister mÃ¶chte mit dir sprechen. Komm mit uns, Mensch, und wehr dich nicht ... oder wir machen einen Wirt aus dir.}
 {301}{}{[Achselzucken] Das sollte interessant werden. Geh voraus.}
 {302}{}{Ich folge Euch nirgendwo hin, Pflanze ... Kreatur ... Ding.}
-{303}{}{Für den Mist hab ich keine Zeit.}
+{303}{}{FÃ¼r den Mist hab ich keine Zeit.}
 {304}{}{Warte mal. Wer ist dein Meister? Und was genau bist du?}
-{310}{}{Du hast keine Wahl, Mensch. Entweder kommst du und sprichst mit dem Meister oder wir werden auf Gewalt zurückgreifen.}
+{310}{}{Du hast keine Wahl, Mensch. Entweder kommst du und sprichst mit dem Meister oder wir werden auf Gewalt zurÃ¼ckgreifen.}
 {311}{}{Dann lass uns mal tanzen.}
 {312}{}{Alles klar. Ich werde euren Meister treffen.}
 {320}{}{Meister wird alle Fragen beantworten. Jetzt, komm mit.}
@@ -21,5 +21,5 @@
 {403}{}{Ohhh...}
 {410}{}{Der Meister sagt, dass niemand eintreten darf.}
 {420}{}{Der Meister sagt, dass du eintreten darfst, Mensch.}
-{500}{}{Du besprühst die Kreatur und sie stöhnt heftig. Teile des Pflanzenwuchses, die sie bedecken, fallen schlaff auf den Boden.}
-{501}{}{Du besprühst die Kreatur; sie stöhnt heftig und zerfließt vor deinen Augen zu einer Pfütze.}
+{500}{}{Du besprÃ¼hst die Kreatur und sie stÃ¶hnt heftig. Teile des Pflanzenwuchses, die sie bedecken, fallen schlaff auf den Boden.}
+{501}{}{Du besprÃ¼hst die Kreatur; sie stÃ¶hnt heftig und zerflieÃŸt vor deinen Augen zu einer PfÃ¼tze.}

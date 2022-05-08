@@ -1,1 +1,1 @@
-{100}{}{W twoim samochodzie skoñczy³o siê paliwo. Na pewno wozisz ze sob¹ jakiœ zapas.}
+{100}{}{W twoim samochodzie skoÅ„czyÅ‚o siÄ™ paliwo. Na pewno wozisz ze sobÄ… jakiÅ› zapas.}

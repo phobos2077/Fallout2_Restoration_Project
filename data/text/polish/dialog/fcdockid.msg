@@ -1,17 +1,17 @@
 {100}{}{Widzisz dzieciaka.}
-{101}{}{Widzisz dzieciaka z doków.}
+{101}{}{Widzisz dzieciaka z dokÃ³w.}
 {102}{}{Widzisz dzieciaka.}
-{103}{}{Nie podoba mi siê tutaj.}
-{104}{}{Na pla¿y le¿y wielka i œmierdz¹ca zdech³a ryba!}
+{103}{}{Nie podoba mi siÄ™ tutaj.}
+{104}{}{Na plaÅ¼y leÅ¼y wielka i Å›mierdzÄ…ca zdechÅ‚a ryba!}
 {105}{}{Blee! Co to jest?}
-{106}{}{Jakoœ dziwnie tu pachnie.}
-{107}{}{Chcesz trochê pop³ywaæ?}
-{108}{}{Idê siê bawiæ.}
+{106}{}{JakoÅ› dziwnie tu pachnie.}
+{107}{}{Chcesz trochÄ™ popÅ‚ywaÄ‡?}
+{108}{}{IdÄ™ siÄ™ bawiÄ‡.}
 {109}{}{Gdzie jest moja mama?}
-{110}{}{Mieszkamy na pla¿y!}
+{110}{}{Mieszkamy na plaÅ¼y!}
 {111}{}{Nuuudy.}
 {112}{}{Aaaa!}
 {113}{}{Pomocy!}
-{114}{}{Och nie! Straszny potwór!}
+{114}{}{Och nie! Straszny potwÃ³r!}
 {115}{}{Maaamoooo!}
-{116}{}{Uciekajcie! To potwór!}
+{116}{}{Uciekajcie! To potwÃ³r!}

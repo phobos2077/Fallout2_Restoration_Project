@@ -15,7 +15,7 @@
 {111}{}{You need a guard, huh?}
 {112}{}{What do you trade?}
 {113}{}{Why are you waiting until the 21st?}
-{114}{}{Não acho que isso seja pra mim. Tchau.}
+{114}{}{NÃ£o acho que isso seja pra mim. Tchau.}
 {115}{}{They sure picked the wrong caravan to mess with.}
 {116}{}{Fuck with my caravan, will they?}
 {117}{}{Motherfuckers should know better than to try that with my caravan.}

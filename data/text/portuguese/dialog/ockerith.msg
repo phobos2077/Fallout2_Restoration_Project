@@ -1,7 +1,7 @@
-{100}{}{Você vê um deathclaw.}
-{101}{}{Você vê Kerith, a mãe deathclaw.}
-{102}{}{Você vê um típico deathclaw. A criatura é grande, com um corpo poderoso, dentes pontudos e garras
- longas. Esse parece ser uma fêmea, mas não se pode ter certeza. Você nota cicatrizes de vários machucados pelo seu corpo.}
+{100}{}{VocÃª vÃª um deathclaw.}
+{101}{}{VocÃª vÃª Kerith, a mÃ£e deathclaw.}
+{102}{}{VocÃª vÃª um tÃ­pico deathclaw. A criatura Ã© grande, com um corpo poderoso, dentes pontudos e garras
+ longas. Esse parece ser uma fÃªmea, mas nÃ£o se pode ter certeza. VocÃª nota cicatrizes de vÃ¡rios machucados pelo seu corpo.}
 {103}{}{A human visitor is an unexpected but not unwelcome event. I am Kerith.}
 {104}{}{Com o que posso ajudar?}
 {105}{}{You D'claw mother?}
@@ -9,8 +9,8 @@
 {107}{}{Door look like crap. What happen?}
 {108}{}{Who build nest room?}
 {109}{}{Eu vou agora.}
-{110}{}{Então, você é a mãe deathclaw?}
-{111}{}{Quem é o pai deathclaw?}
+{110}{}{EntÃ£o, vocÃª Ã© a mÃ£e deathclaw?}
+{111}{}{Quem Ã© o pai deathclaw?}
 {112}{}{What happened to the door? It looks like it has seen better days.}
 {113}{}{Who built this hatchery?}
 {114}{}{I'll be leaving now.}

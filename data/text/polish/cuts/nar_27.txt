@@ -1,2 +1,2 @@
-1:Dzielni obroñcy Z³omowa spowalniaj¹, lecz nie zatrzymuj¹ ofensywy mutantów.
-2:Gdy ich armia koñczy brutalne oblê¿enie osady, ze Z³omowa nic nie pozostaje.
+1:Dzielni obroÅ„cy ZÅ‚omowa spowalniajÄ…, lecz nie zatrzymujÄ… ofensywy mutantÃ³w.
+2:Gdy ich armia koÅ„czy brutalne oblÄ™Å¼enie osady, ze ZÅ‚omowa nic nie pozostaje.

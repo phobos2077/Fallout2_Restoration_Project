@@ -1,9 +1,9 @@
 {100}{}{Ves a un cazarrecompensas.}
-{101}{}{Estás a punto de morir.}
+{101}{}{EstÃ¡s a punto de morir.}
 {102}{}{Vas a morir.}
-{103}{}{Así que tú eres la que ha sido marcada para morir.}
-{104}{}{Deberías aprender modales.}
-{105}{}{¡Muere, escoria!}
+{103}{}{AsÃ­ que tÃº eres la que ha sido marcada para morir.}
+{104}{}{DeberÃ­as aprender modales.}
+{105}{}{Â¡Muere, escoria!}
 {106}{}{Que les den... se pueden quedar con la recompensa.}
-{107}{}{Me largo de aquí.}
+{107}{}{Me largo de aquÃ­.}
 {108}{}{Me largo.}

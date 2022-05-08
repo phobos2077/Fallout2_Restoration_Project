@@ -1,11 +1,11 @@
 {100}{}{Ves a un habitante de La Guarida.}
 {101}{}{Ves a un habitante de La Guarida.}
-{200}{}{Hola y bienvenido a- Hey! Tu eres el que ayudó a hacer posible este lugar. La gente de La Guarida realmente aprecia
-lo qué has hecho.}
-{201}{}{Fue un placer. ¿Cómo están los niños?}
-{202}{}{Ellos están bien. Gracias a ti, están fuera de las calles y ahora tienen un lugar para vivir. Los okupas con los que negociaste
-también son de gran ayuda por aquí. Gracias de nuevo por todo!}
-{203}{}{Ellos están bien. Gracias a ti, están fuera de las calles y ahora tienen un lugar para vivir. Gracias de nuevo por todo!}
-{204}{}{Me alegro oírlo. Cuídate.}
-{205}{}{¡Hola de nuevo! ¿Te puedo ayudar en algo?}
-{206}{}{No, tan sólo estoy echando un vistazo.}
+{200}{}{Hola y bienvenido a- Hey! Tu eres el que ayudÃ³ a hacer posible este lugar. La gente de La Guarida realmente aprecia
+lo quÃ© has hecho.}
+{201}{}{Fue un placer. Â¿CÃ³mo estÃ¡n los niÃ±os?}
+{202}{}{Ellos estÃ¡n bien. Gracias a ti, estÃ¡n fuera de las calles y ahora tienen un lugar para vivir. Los okupas con los que negociaste
+tambiÃ©n son de gran ayuda por aquÃ­. Gracias de nuevo por todo!}
+{203}{}{Ellos estÃ¡n bien. Gracias a ti, estÃ¡n fuera de las calles y ahora tienen un lugar para vivir. Gracias de nuevo por todo!}
+{204}{}{Me alegro oÃ­rlo. CuÃ­date.}
+{205}{}{Â¡Hola de nuevo! Â¿Te puedo ayudar en algo?}
+{206}{}{No, tan sÃ³lo estoy echando un vistazo.}

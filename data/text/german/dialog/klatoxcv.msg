@@ -1,1 +1,1 @@
-{100}{}{Du hast die Gifthöhlen betreten.}
+{100}{}{Du hast die GifthÃ¶hlen betreten.}

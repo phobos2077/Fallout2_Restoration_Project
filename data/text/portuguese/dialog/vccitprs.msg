@@ -1,8 +1,8 @@
-{100}{}{Você vê um preso.}
-{101}{}{Você vê um cidadão preso.}
-{102}{}{Não é uma boa idéia retrucar a Lynnete.}
+{100}{}{VocÃª vÃª um preso.}
+{101}{}{VocÃª vÃª um cidadÃ£o preso.}
+{102}{}{NÃ£o Ã© uma boa idÃ©ia retrucar a Lynnete.}
 {103}{}{Apenas dormindo para curar a ressaca.}
-{104}{}{Não fiz algo tão grave para ter minha cidadania revogada.}
+{104}{}{NÃ£o fiz algo tÃ£o grave para ter minha cidadania revogada.}
 {105}{}{Moore *disse* que fui pego...}
-{106}{}{Estou aqui para o meu próprio bem.}
-{107}{}{Precisava aprender esta lição.}
+{106}{}{Estou aqui para o meu prÃ³prio bem.}
+{107}{}{Precisava aprender esta liÃ§Ã£o.}

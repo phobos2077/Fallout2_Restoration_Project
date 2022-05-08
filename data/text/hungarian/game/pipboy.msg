@@ -1,90 +1,90 @@
-{100}{}{Boldog új évet!}
+{100}{}{Boldog Ãºj Ã©vet!}
 {101}{}{Boldog Valentin napot!}
-{102}{}{Kellemes bolondok napját!}
-{103}{}{Boldog játékkiadási évfordulót!}
-{104}{}{Boldog függetlenség napját!}
+{102}{}{Kellemes bolondok napjÃ¡t!}
+{103}{}{Boldog jÃ¡tÃ©kkiadÃ¡si Ã©vfordulÃ³t!}
+{104}{}{Boldog fÃ¼ggetlensÃ©g napjÃ¡t!}
 {105}{}{Boldog mindenszenteket!}
-{106}{}{Boldog hálaadást!}
-{107}{}{Boldog karácsonyt!}
-{200}{}{TOVÁBB}
+{106}{}{Boldog hÃ¡laadÃ¡st!}
+{107}{}{Boldog karÃ¡csonyt!}
+{200}{}{TOVÃBB}
 {201}{}{VISSZA}
-{202}{}{STÁTUSZ}
+{202}{}{STÃTUSZ}
 {203}{}{Nincs feladat.}
 {204}{}{NYOMOK}
-{205}{}{TÉRKÉPEK}
-{206}{}{VIDEO ARCHÍVUM}
+{205}{}{TÃ‰RKÃ‰PEK}
+{206}{}{VIDEO ARCHÃVUM}
 {207}{}{ADATOK}
 {208}{}{}
 {209}{}{}
-{210}{}{Státusz}
+{210}{}{StÃ¡tusz}
 {211}{}{ADATOK}
 {212}{}{/}
 {213}{}{oldal}
-{214}{}{KÉSZ}
+{214}{}{KÃ‰SZ}
 {215}{}{Ezen a helyen nem pihenhetsz!}
-{300}{}{ÉBRESZTÕÓRA}
-{301}{}{Életpont}
-{302}{}{10 percnyi pihenés}
-{303}{}{30 percnyi pihenés}
-{304}{}{1 órányi pihenés}
-{305}{}{2 órányi pihenés}
-{306}{}{3 órányi pihenés}
-{307}{}{4 órányi pihenés}
-{308}{}{5 órányi pihenés}
-{309}{}{6 órányi pihenés}
-{310}{}{Pihenés reggelig (08:00)}
-{311}{}{Pihenés délig (12:00)}
-{312}{}{Pihenés estig (18:00)}
-{313}{}{Pihenés éjfélig (00:00)}
-{314}{}{Pihenés gyógyulásig}
-{315}{}{Pihenés a csapat gyógyulásáig}
-{400}{}{13-as Menedék Hololemez}
-{401}{}{Katonai bázis, felszín}
-{402}{}{Katonai bázis, 1-es szint}
-{403}{}{Katonai bázis, 2-es szint}
-{404}{}{Katonai bázis, 3-as szint}
-{405}{}{Katonai bázis, 4-es szint}
-{406}{}{Sierra raktár Kísérletnapló}
-{407}{}{Sierra raktár Orvosi napló}
-{408}{}{Sierra raktár Evakuáció}
-{409}{}{Sierra raktár GHH másolat}
-{410}{}{Sierra raktár Feladatok}
+{300}{}{Ã‰BRESZTÅÃ“RA}
+{301}{}{Ã‰letpont}
+{302}{}{10 percnyi pihenÃ©s}
+{303}{}{30 percnyi pihenÃ©s}
+{304}{}{1 Ã³rÃ¡nyi pihenÃ©s}
+{305}{}{2 Ã³rÃ¡nyi pihenÃ©s}
+{306}{}{3 Ã³rÃ¡nyi pihenÃ©s}
+{307}{}{4 Ã³rÃ¡nyi pihenÃ©s}
+{308}{}{5 Ã³rÃ¡nyi pihenÃ©s}
+{309}{}{6 Ã³rÃ¡nyi pihenÃ©s}
+{310}{}{PihenÃ©s reggelig (08:00)}
+{311}{}{PihenÃ©s dÃ©lig (12:00)}
+{312}{}{PihenÃ©s estig (18:00)}
+{313}{}{PihenÃ©s Ã©jfÃ©lig (00:00)}
+{314}{}{PihenÃ©s gyÃ³gyulÃ¡sig}
+{315}{}{PihenÃ©s a csapat gyÃ³gyulÃ¡sÃ¡ig}
+{400}{}{13-as MenedÃ©k Hololemez}
+{401}{}{Katonai bÃ¡zis, felszÃ­n}
+{402}{}{Katonai bÃ¡zis, 1-es szint}
+{403}{}{Katonai bÃ¡zis, 2-es szint}
+{404}{}{Katonai bÃ¡zis, 3-as szint}
+{405}{}{Katonai bÃ¡zis, 4-es szint}
+{406}{}{Sierra raktÃ¡r KÃ­sÃ©rletnaplÃ³}
+{407}{}{Sierra raktÃ¡r Orvosi naplÃ³}
+{408}{}{Sierra raktÃ¡r EvakuÃ¡ciÃ³}
+{409}{}{Sierra raktÃ¡r GHH mÃ¡solat}
+{410}{}{Sierra raktÃ¡r Feladatok}
 {411}{}{Hubologista tanok}
 {412}{}{Vault City Designer Notes}
-{413}{}{Menedékváros Útikalauz}
-{414}{}{ÚKK Kém hololemez}
-{415}{}{ÚKK Történeti hololemeze}
+{413}{}{MenedÃ©kvÃ¡ros Ãštikalauz}
+{414}{}{ÃšKK KÃ©m hololemez}
+{415}{}{ÃšKK TÃ¶rtÃ©neti hololemeze}
 {416}{}{Westin hololemeze}
-{417}{}{A nemzet állama}
-{418}{}{Szavak listája}
+{417}{}{A nemzet Ã¡llama}
+{418}{}{Szavak listÃ¡ja}
 {419}{}{A Projekt}
-{420}{}{Erõmû üzemeltetés}
+{420}{}{ErÅ‘mÅ± Ã¼zemeltetÃ©s}
 {500}{}{InterPlay Logo}
-{501}{}{Intró}
-{502}{}{A törzsfõ beszéde}
-{503}{}{Menedékruha megszerzése}
-{504}{}{Arroyo bukása}
-{505}{}{Arroyo elpusztítása}
-{506}{}{Az autó elindítása}
-{507}{}{Cartucci család}
-{508}{}{Halálkarom vezetõ}
-{509}{}{Tankhajó útja a fúrótoronyig}
-{510}{}{Az Enklávé rabjai}
-{511}{}{Az Enklávé megsemmisülése}
-{512}{}{Arroyo álom 1}
-{513}{}{Arroyo álom 2}
-{514}{}{Arroyo álom 3}
-{515}{}{Arroyo álom 4}
-{516}{}{Stáblista}
-{600}{}{Státusz}
+{501}{}{IntrÃ³}
+{502}{}{A tÃ¶rzsfÅ‘ beszÃ©de}
+{503}{}{MenedÃ©kruha megszerzÃ©se}
+{504}{}{Arroyo bukÃ¡sa}
+{505}{}{Arroyo elpusztÃ­tÃ¡sa}
+{506}{}{Az autÃ³ elindÃ­tÃ¡sa}
+{507}{}{Cartucci csalÃ¡d}
+{508}{}{HalÃ¡lkarom vezetÅ‘}
+{509}{}{TankhajÃ³ Ãºtja a fÃºrÃ³toronyig}
+{510}{}{Az EnklÃ¡vÃ© rabjai}
+{511}{}{Az EnklÃ¡vÃ© megsemmisÃ¼lÃ©se}
+{512}{}{Arroyo Ã¡lom 1}
+{513}{}{Arroyo Ã¡lom 2}
+{514}{}{Arroyo Ã¡lom 3}
+{515}{}{Arroyo Ã¡lom 4}
+{516}{}{StÃ¡blista}
+{600}{}{StÃ¡tusz}
 {601}{}{Nyomok}
-{602}{}{Térképek}
-{603}{}{Archívum}
-{604}{}{Ébresztõ óra}
-{605}{}{Dú da dú da dám di di dúdli dú dám dám dám dú da dú da dú da dú da dú da dú da dú}
+{602}{}{TÃ©rkÃ©pek}
+{603}{}{ArchÃ­vum}
+{604}{}{Ã‰bresztÅ‘ Ã³ra}
+{605}{}{DÃº da dÃº da dÃ¡m di di dÃºdli dÃº dÃ¡m dÃ¡m dÃ¡m dÃº da dÃº da dÃº da dÃº da dÃº da dÃº da dÃº}
 {606}{}{Welcome to the RobCo Pip-Boy 2000.}
-{607}{}{Ég áldja!}
-{608}{}{Ébresztõ!}
+{607}{}{Ã‰g Ã¡ldja!}
+{608}{}{Ã‰bresztÅ‘!}
 {700}{}{13-as Menedek}
 {701}{}{Calm rebel faction.}
 {702}{}{Destroy the Mutant leader.}
@@ -114,11 +114,11 @@
 {763}{}{Dispose of merchant.}
 {764}{}{Find the missing caravans.}
 {765}{}{Steal necklace from the Merchants.}
-{770}{}{Testvériség}
+{770}{}{TestvÃ©risÃ©g}
 {771}{}{Become an Initiate.}
 {772}{}{Rescue Initiate from the Hub.}
 {780}{}{Katonai bazis}
-{790}{}{Izzás}
+{790}{}{IzzÃ¡s}
 {791}{}{Disarm Traps for the Facility.}
 {792}{}{Turn on power for the Glow.}
 {800}{}{Boneyard}
@@ -129,862 +129,862 @@
 {805}{}{Fix hydroponic farms in Adytum.}
 {806}{}{Rescue Jason Zimmerman.}
 {807}{}{Stop the Gangs from attacking Adytum.}
-{810}{}{Katedrális}
-{1000}{}{13-as Menedék HOLO Ziggytõl}
+{810}{}{KatedrÃ¡lis}
+{1000}{}{13-as MenedÃ©k HOLO ZiggytÅ‘l}
 {1001}{}{**END-PAR**}
 {1002}{}{This holodisk gives the location of Vault 13. The       }
-{1003}{}{A pontos hely megjelent a térképeden.              }
+{1003}{}{A pontos hely megjelent a tÃ©rkÃ©peden.              }
 {1004}{}{**END-DISK**}
-{2000}{}{Címzett: Központ}
-{2001}{}{A kutatóink befejezték a minta vizsgálatát, melyet a}
-{2002}{}{bázisban találtunk, és 99%-osan tisztának bizonyult.}
-{2003}{}{Már elküldtük, várhatóan hamarosan megérkezik. Ahogy}
-{2004}{}{vártuk, a dolgozók gyorsan mutálódni kezdtek, miután}
-{2005}{}{feltárták a minta forrását. Nagy, de még elfogadható}
-{2006}{}{veszteségeket szenvedtünk. Elrendeltem a bázis eva-}
-{2007}{}{kuálását. Amint mindenki kint lesz, felrobbantjuk a}
-{2008}{}{bejáratot, és ezzel bezárjuk a szerencsétlen munká-}
+{2000}{}{CÃ­mzett: KÃ¶zpont}
+{2001}{}{A kutatÃ³ink befejeztÃ©k a minta vizsgÃ¡latÃ¡t, melyet a}
+{2002}{}{bÃ¡zisban talÃ¡ltunk, Ã©s 99%-osan tisztÃ¡nak bizonyult.}
+{2003}{}{MÃ¡r elkÃ¼ldtÃ¼k, vÃ¡rhatÃ³an hamarosan megÃ©rkezik. Ahogy}
+{2004}{}{vÃ¡rtuk, a dolgozÃ³k gyorsan mutÃ¡lÃ³dni kezdtek, miutÃ¡n}
+{2005}{}{feltÃ¡rtÃ¡k a minta forrÃ¡sÃ¡t. Nagy, de mÃ©g elfogadhatÃ³}
+{2006}{}{vesztesÃ©geket szenvedtÃ¼nk. Elrendeltem a bÃ¡zis eva-}
+{2007}{}{kuÃ¡lÃ¡sÃ¡t. Amint mindenki kint lesz, felrobbantjuk a}
+{2008}{}{bejÃ¡ratot, Ã©s ezzel bezÃ¡rjuk a szerencsÃ©tlen munkÃ¡-}
 {2009}{}{}
 {2010}{}{Colonel Sanders}
 {2011}{}{**END-DISK**}
-{3000}{}{Pickard kapitány jelentkezik az 1-es megfigyelõpont-}
-{3001}{}{ról. A 2-es és 3-as pontokkal megszakadt a kapcsolat.}
-{3002}{}{A legrosszabbat feltételezhetjük. A szörnyek csak úgy}
-{3003}{}{özönlenek felfelé. Minden megállításukra tett próbál-}
-{3004}{}{kozás csõdöt mondott. Megpróbáljuk feltartani õket,}
+{3000}{}{Pickard kapitÃ¡ny jelentkezik az 1-es megfigyelÅ‘pont-}
+{3001}{}{rÃ³l. A 2-es Ã©s 3-as pontokkal megszakadt a kapcsolat.}
+{3002}{}{A legrosszabbat feltÃ©telezhetjÃ¼k. A szÃ¶rnyek csak Ãºgy}
+{3003}{}{Ã¶zÃ¶nlenek felfelÃ©. Minden megÃ¡llÃ­tÃ¡sukra tett prÃ³bÃ¡l-}
+{3004}{}{kozÃ¡s csÅ‘dÃ¶t mondott. MegprÃ³bÃ¡ljuk feltartani Å‘ket,}
 {3005}{}{ameddig csak tudjuk.}
 {3006}{}{**END-DISK**}
-{4000}{}{A 3-as megfigyelõpont támadás alatt áll. Elõvigyáza-}
-{4001}{}{tosságból lekapcsoltuk a bázis felvonóit, de hallom,}
-{4002}{}{ahogy másznak fel az aknán át. Szent ég! Óriási,}
-{4003}{}{undorító, zöld szörnyetegek jönnek fel az alsó szin-}
-{4004}{}{tekrõl! Ez lehet az, amit a vezérkar keres. Valami-}
-{4005}{}{féle szuperkatonák. Amíg lelövünk egyet, két másik}
-{4006}{}{mászik elõ az aknából, mire a lelõttek is felkelnek,}
-{4007}{}{és csak egyre jönnek tovább! Küldjetek erõ...}
+{4000}{}{A 3-as megfigyelÅ‘pont tÃ¡madÃ¡s alatt Ã¡ll. ElÅ‘vigyÃ¡za-}
+{4001}{}{tossÃ¡gbÃ³l lekapcsoltuk a bÃ¡zis felvonÃ³it, de hallom,}
+{4002}{}{ahogy mÃ¡sznak fel az aknÃ¡n Ã¡t. Szent Ã©g! Ã“riÃ¡si,}
+{4003}{}{undorÃ­tÃ³, zÃ¶ld szÃ¶rnyetegek jÃ¶nnek fel az alsÃ³ szin-}
+{4004}{}{tekrÅ‘l! Ez lehet az, amit a vezÃ©rkar keres. Valami-}
+{4005}{}{fÃ©le szuperkatonÃ¡k. AmÃ­g lelÃ¶vÃ¼nk egyet, kÃ©t mÃ¡sik}
+{4006}{}{mÃ¡szik elÅ‘ az aknÃ¡bÃ³l, mire a lelÅ‘ttek is felkelnek,}
+{4007}{}{Ã©s csak egyre jÃ¶nnek tovÃ¡bb! KÃ¼ldjetek erÅ‘...}
 {4008}{}{**END-DISK**}
-{5000}{}{Bracks õrmester jelentkezik a 3-as megfigyelõpontról.}
-{5001}{}{Minden rendben, pont mint tegnap és tegnapelõtt. Nem}
-{5002}{}{tudom, miért kell õriznünk ezeket a nyomorult bányá-}
-{5003}{}{szokat. Olyan soványak és gyengék, hogy a csákányt is}
-{5004}{}{alig bírják megemelni. Na, mindegy, a laborkukacok}
-{5005}{}{nemrég mentek el valamiféle mintával. Nagyon izgatott-}
-{5006}{}{nak tûntek. Nem tudja valaki, azt találták-e meg, amit}
-{5007}{}{kerestek? Akkor végre leléphetnénk errõl az elátkozott}
-{5008}{}{helyrõl. A hideg futkos a hátamon. Egy pillanat, újabb}
-{5009}{}{rakomány jön föl a bányából. Atyaisten! Mik ezek?}
-{5010}{}{Lerohannak minket! Küldjetek segítséget! Ismétlem, ez}
+{5000}{}{Bracks Å‘rmester jelentkezik a 3-as megfigyelÅ‘pontrÃ³l.}
+{5001}{}{Minden rendben, pont mint tegnap Ã©s tegnapelÅ‘tt. Nem}
+{5002}{}{tudom, miÃ©rt kell Å‘riznÃ¼nk ezeket a nyomorult bÃ¡nyÃ¡-}
+{5003}{}{szokat. Olyan sovÃ¡nyak Ã©s gyengÃ©k, hogy a csÃ¡kÃ¡nyt is}
+{5004}{}{alig bÃ­rjÃ¡k megemelni. Na, mindegy, a laborkukacok}
+{5005}{}{nemrÃ©g mentek el valamifÃ©le mintÃ¡val. Nagyon izgatott-}
+{5006}{}{nak tÅ±ntek. Nem tudja valaki, azt talÃ¡ltÃ¡k-e meg, amit}
+{5007}{}{kerestek? Akkor vÃ©gre lelÃ©phetnÃ©nk errÅ‘l az elÃ¡tkozott}
+{5008}{}{helyrÅ‘l. A hideg futkos a hÃ¡tamon. Egy pillanat, Ãºjabb}
+{5009}{}{rakomÃ¡ny jÃ¶n fÃ¶l a bÃ¡nyÃ¡bÃ³l. Atyaisten! Mik ezek?}
+{5010}{}{Lerohannak minket! KÃ¼ldjetek segÃ­tsÃ©get! IsmÃ©tlem, ez}
 {5011}{}{our position! Send help! Repeat, this is; check point 3}
 {5012}{}{**END-DISK**}
 {5013}{}{**END-DISK**}
-{6000}{}{Az ásatás a tervek szerint halad. A bázis régi terv-}
-{6001}{}{rajzai alapján hamarosan el kell érnünk a vírusmedencék}
-{6002}{}{termét. A FEV vírus nagyobb mértékben mutatható ki}
-{6003}{}{a levegõ-, és talajmintákban, melyeket nemrég vettünk.}
-{6004}{}{Szerencsére a ruhánk kiszûri a vírust. Értesítsétek az}
-{6005}{}{Enklávét, hogy hamarosan kapnak egy tiszta mintát}
-{6006}{}{a mutagénbõl.}
+{6000}{}{Az Ã¡satÃ¡s a tervek szerint halad. A bÃ¡zis rÃ©gi terv-}
+{6001}{}{rajzai alapjÃ¡n hamarosan el kell Ã©rnÃ¼nk a vÃ­rusmedencÃ©k}
+{6002}{}{termÃ©t. A FEV vÃ­rus nagyobb mÃ©rtÃ©kben mutathatÃ³ ki}
+{6003}{}{a levegÅ‘-, Ã©s talajmintÃ¡kban, melyeket nemrÃ©g vettÃ¼nk.}
+{6004}{}{SzerencsÃ©re a ruhÃ¡nk kiszÅ±ri a vÃ­rust. Ã‰rtesÃ­tsÃ©tek az}
+{6005}{}{EnklÃ¡vÃ©t, hogy hamarosan kapnak egy tiszta mintÃ¡t}
+{6006}{}{a mutagÃ©nbÅ‘l.}
 {6007}{}{**END-PAR**}
-{6008}{}{Emellett észrevettem néhány változást a bányászokon.}
-{6009}{}{Növekvõ erõ és állóképesség jeleit mutatják, és a bõr-}
-{6010}{}{színük alig láthatóan megváltozott. A FEV okozta mutá-}
-{6011}{}{ció összetéveszthetetlen tünetei. Az emberek kezdenek}
+{6008}{}{Emellett Ã©szrevettem nÃ©hÃ¡ny vÃ¡ltozÃ¡st a bÃ¡nyÃ¡szokon.}
+{6009}{}{NÃ¶vekvÅ‘ erÅ‘ Ã©s Ã¡llÃ³kÃ©pessÃ©g jeleit mutatjÃ¡k, Ã©s a bÅ‘r-}
+{6010}{}{szÃ­nÃ¼k alig lÃ¡thatÃ³an megvÃ¡ltozott. A FEV okozta mutÃ¡-}
+{6011}{}{ciÃ³ Ã¶sszetÃ©veszthetetlen tÃ¼netei. Az emberek kezdenek}
 {6012}{}{nervous, as they too have noticed the change. Although}
 {6013}{}{I've increased the number of guards, I fear if the}
 {6014}{}{workers completely mutate, we'll be vastly outnumbered.}
 {6015}{}{It is my hope, that since we are using the local}
 {6016}{}{inhabitants as a work force, full mutation won't occur}
-{6017}{}{közvetlenül egy tiszta vírusforrásba vagy kapcsolatba}
-{6018}{}{valami tartósan fertõzõ dologgal. Ha emlékszel, csak}
-{6019}{}{kis mennyiségben találtunk vírust a térségben. Az itt}
-{6020}{}{élõkön készített tesztek azt mutatták, hogy egyfajta}
-{6021}{}{védelmet épített fel a szervezetük a FEV vírus ellen.}
-{6022}{}{Ennek ellenére óvatosságra intek, mivel a FEV vírus}
-{6023}{}{általi fertõzés ilyen magas szintjével soha nem végez-}
-{6024}{}{tünk számításokat. Tanácsolom, hogy a bázis bejáratát}
-{6025}{}{szereljük fel robbanóanyaggal, hogy amint tiszta mintát}
-{6026}{}{találunk, beomlaszthassuk. Ez bezárná a fertõzött}
-{6027}{}{bányászokat a bázisba, és miután mi már végeztünk, }
-{6028}{}{meggátolna másokat a vírus megszerzésében.}
+{6017}{}{kÃ¶zvetlenÃ¼l egy tiszta vÃ­rusforrÃ¡sba vagy kapcsolatba}
+{6018}{}{valami tartÃ³san fertÅ‘zÅ‘ dologgal. Ha emlÃ©kszel, csak}
+{6019}{}{kis mennyisÃ©gben talÃ¡ltunk vÃ­rust a tÃ©rsÃ©gben. Az itt}
+{6020}{}{Ã©lÅ‘kÃ¶n kÃ©szÃ­tett tesztek azt mutattÃ¡k, hogy egyfajta}
+{6021}{}{vÃ©delmet Ã©pÃ­tett fel a szervezetÃ¼k a FEV vÃ­rus ellen.}
+{6022}{}{Ennek ellenÃ©re Ã³vatossÃ¡gra intek, mivel a FEV vÃ­rus}
+{6023}{}{Ã¡ltali fertÅ‘zÃ©s ilyen magas szintjÃ©vel soha nem vÃ©gez-}
+{6024}{}{tÃ¼nk szÃ¡mÃ­tÃ¡sokat. TanÃ¡csolom, hogy a bÃ¡zis bejÃ¡ratÃ¡t}
+{6025}{}{szereljÃ¼k fel robbanÃ³anyaggal, hogy amint tiszta mintÃ¡t}
+{6026}{}{talÃ¡lunk, beomlaszthassuk. Ez bezÃ¡rnÃ¡ a fertÅ‘zÃ¶tt}
+{6027}{}{bÃ¡nyÃ¡szokat a bÃ¡zisba, Ã©s miutÃ¡n mi mÃ¡r vÃ©geztÃ¼nk, }
+{6028}{}{meggÃ¡tolna mÃ¡sokat a vÃ­rus megszerzÃ©sÃ©ben.}
 {6029}{}{**END-DISK**}
-{7000}{}{Sierra hadiraktár - K & F}
-{7001}{}{Gondozó orvos - Dr. H. Lector}
-{7002}{}{Személyes napló}
+{7000}{}{Sierra hadiraktÃ¡r - K & F}
+{7001}{}{GondozÃ³ orvos - Dr. H. Lector}
+{7002}{}{SzemÃ©lyes naplÃ³}
 {7003}{}{**END-PAR**}
-{7004}{}{2077. június 28.}
-{7005}{}{Ma durván megvicceltek a bioraktáros srácok. Valame-}
-{7006}{}{lyik vicces kedvû megbabrálta a Menedék-Tek automata}
-{7007}{}{szervkivágó gépem beállításait. Haver, baromira meg-}
-{7008}{}{lepõdtem, amikor Callow közlegény kijött a mûtõbõl}
-{7009}{}{a vastagbele nélkül. Szerencse, hogy már rég meghalt,}
-{7010}{}{különben most bajban lennék. Beállítottam a gépet,}
-{7011}{}{hogy csak agyakat operáljon ki, így ez nem fordulhat}
-{7012}{}{elõ még egyszer. Visszakapják ezt még!}
+{7004}{}{2077. jÃºnius 28.}
+{7005}{}{Ma durvÃ¡n megvicceltek a bioraktÃ¡ros srÃ¡cok. Valame-}
+{7006}{}{lyik vicces kedvÅ± megbabrÃ¡lta a MenedÃ©k-Tek automata}
+{7007}{}{szervkivÃ¡gÃ³ gÃ©pem beÃ¡llÃ­tÃ¡sait. Haver, baromira meg-}
+{7008}{}{lepÅ‘dtem, amikor Callow kÃ¶zlegÃ©ny kijÃ¶tt a mÅ±tÅ‘bÅ‘l}
+{7009}{}{a vastagbele nÃ©lkÃ¼l. Szerencse, hogy mÃ¡r rÃ©g meghalt,}
+{7010}{}{kÃ¼lÃ¶nben most bajban lennÃ©k. BeÃ¡llÃ­tottam a gÃ©pet,}
+{7011}{}{hogy csak agyakat operÃ¡ljon ki, Ã­gy ez nem fordulhat}
+{7012}{}{elÅ‘ mÃ©g egyszer. VisszakapjÃ¡k ezt mÃ©g!}
 {7013}{}{**END-PAR**}
-{7014}{}{2077. június 29.}
-{7015}{}{Kivágtam Callow közlegény máját és megfõztem. Lekül-}
-{7016}{}{dettem a fiúknak a bioraktárba nagyszemû bab körettel.}
-{7017}{}{Azt hitték, hogy a tábornok különleges ajándéka a}
-{7018}{}{kiváló teljesítményért...}
-{7019}{}{Imádom a munkámat!}
+{7014}{}{2077. jÃºnius 29.}
+{7015}{}{KivÃ¡gtam Callow kÃ¶zlegÃ©ny mÃ¡jÃ¡t Ã©s megfÅ‘ztem. LekÃ¼l-}
+{7016}{}{dettem a fiÃºknak a bioraktÃ¡rba nagyszemÅ± bab kÃ¶rettel.}
+{7017}{}{Azt hittÃ©k, hogy a tÃ¡bornok kÃ¼lÃ¶nleges ajÃ¡ndÃ©ka a}
+{7018}{}{kivÃ¡lÃ³ teljesÃ­tmÃ©nyÃ©rt...}
+{7019}{}{ImÃ¡dom a munkÃ¡mat!}
 {7020}{}{**END-PAR**}
-{7021}{}{2077. június 30.}
+{7021}{}{2077. jÃºnius 30.}
 {7022}{}{I tried a new drug cocktail of Buffout and Psychos}
 {7023}{}{on one of my patients, mixed with some special}
-{7024}{}{speciális hatásnövelõvel, amivel mostanában ját-}
-{7025}{}{szadozom. A hatás ígéretes. Az alany iszonyatosan}
-{7026}{}{agresszív lett és sikerült kitörnie a cellájából.}
-{7027}{}{Szerencsére az új biztonsági robotoknak sikerült}
-{7028}{}{semlegesíteniük. Szólnom kell majd a karbantartók-}
-{7029}{}{nak, hogy jöjjenek le és tegyék vissza az ajtót.}
+{7024}{}{speciÃ¡lis hatÃ¡snÃ¶velÅ‘vel, amivel mostanÃ¡ban jÃ¡t-}
+{7025}{}{szadozom. A hatÃ¡s Ã­gÃ©retes. Az alany iszonyatosan}
+{7026}{}{agresszÃ­v lett Ã©s sikerÃ¼lt kitÃ¶rnie a cellÃ¡jÃ¡bÃ³l.}
+{7027}{}{SzerencsÃ©re az Ãºj biztonsÃ¡gi robotoknak sikerÃ¼lt}
+{7028}{}{semlegesÃ­teniÃ¼k. SzÃ³lnom kell majd a karbantartÃ³k-}
+{7029}{}{nak, hogy jÃ¶jjenek le Ã©s tegyÃ©k vissza az ajtÃ³t.}
 {7030}{}{**END-PAR**}
-{7031}{}{2077. július 1.}
-{7032}{}{Meghalt a kedvenc kísérletem alanya. Szigorú diétán}
-{7033}{}{tartottam, ami Mentátot és a speciális hatásnövelõmet}
-{7034}{}{tartalmazta. Néhány hét alatt 39-rõl 200-ra nõtt az}
-{7035}{}{IQ-ja. Szomorú vagyok, mert egyike volt azoknak,}
-{7036}{}{akikkel igazán lehetett beszélgetni.}
-{7037}{}{Nagyon fog hiányozni.}
+{7031}{}{2077. jÃºlius 1.}
+{7032}{}{Meghalt a kedvenc kÃ­sÃ©rletem alanya. SzigorÃº diÃ©tÃ¡n}
+{7033}{}{tartottam, ami MentÃ¡tot Ã©s a speciÃ¡lis hatÃ¡snÃ¶velÅ‘met}
+{7034}{}{tartalmazta. NÃ©hÃ¡ny hÃ©t alatt 39-rÅ‘l 200-ra nÅ‘tt az}
+{7035}{}{IQ-ja. SzomorÃº vagyok, mert egyike volt azoknak,}
+{7036}{}{akikkel igazÃ¡n lehetett beszÃ©lgetni.}
+{7037}{}{Nagyon fog hiÃ¡nyozni.}
 {7038}{}{**END-PAR**}
-{7039}{}{2077. július 5.}
-{7040}{}{Úgy tûnik, a kibernetikus agy végre elkészült. Még el}
-{7041}{}{kell végeznünk néhány tesztet rajta, de nagyon}
-{7042}{}{ígéretesnek tûnik.}
+{7039}{}{2077. jÃºlius 5.}
+{7040}{}{Ãšgy tÅ±nik, a kibernetikus agy vÃ©gre elkÃ©szÃ¼lt. MÃ©g el}
+{7041}{}{kell vÃ©geznÃ¼nk nÃ©hÃ¡ny tesztet rajta, de nagyon}
+{7042}{}{Ã­gÃ©retesnek tÅ±nik.}
 {7043}{}{**END-PAR**}
-{7044}{}{2077. július 6.}
-{7045}{}{A robottechnikusaink nem nagyon örülnek, hogy a}
-{7046}{}{számítógépüket át kellett állítani a bázis védelmének}
-{7047}{}{irányítására az evakuáció miatt. Én sem vagyok túl}
-{7048}{}{túl boldog, mivel a Skynet felbecsülhetetlen érték}
-{7049}{}{volt az új kibernetikus agy fejlesztésében.}
+{7044}{}{2077. jÃºlius 6.}
+{7045}{}{A robottechnikusaink nem nagyon Ã¶rÃ¼lnek, hogy a}
+{7046}{}{szÃ¡mÃ­tÃ³gÃ©pÃ¼ket Ã¡t kellett Ã¡llÃ­tani a bÃ¡zis vÃ©delmÃ©nek}
+{7047}{}{irÃ¡nyÃ­tÃ¡sÃ¡ra az evakuÃ¡ciÃ³ miatt. Ã‰n sem vagyok tÃºl}
+{7048}{}{tÃºl boldog, mivel a Skynet felbecsÃ¼lhetetlen Ã©rtÃ©k}
+{7049}{}{volt az Ãºj kibernetikus agy fejlesztÃ©sÃ©ben.}
 {7050}{}{**END-PAR**}
-{7051}{}{2077. július 9.}
-{7052}{}{Nyakunkon az evakuáció. Ezt a pocsék idõzítést! Épp}
-{7053}{}{elkezdtük volna az új kibernetikus agy beültetését.}
-{7054}{}{Azt mondják, hogy az evakuáció csak idõleges, szóval}
-{7055}{}{ha visszajövünk, folytathatom a kutatásaimat. Egy jó}
-{7056}{}{darabig valószínûleg ez lesz az utolsó bejegyzésem,}
-{7057}{}{mert még össze szeretném gyûjteni az elvihetõ kuta-}
-{7058}{}{tási anyagaimat.}
+{7051}{}{2077. jÃºlius 9.}
+{7052}{}{Nyakunkon az evakuÃ¡ciÃ³. Ezt a pocsÃ©k idÅ‘zÃ­tÃ©st! Ã‰pp}
+{7053}{}{elkezdtÃ¼k volna az Ãºj kibernetikus agy beÃ¼ltetÃ©sÃ©t.}
+{7054}{}{Azt mondjÃ¡k, hogy az evakuÃ¡ciÃ³ csak idÅ‘leges, szÃ³val}
+{7055}{}{ha visszajÃ¶vÃ¼nk, folytathatom a kutatÃ¡saimat. Egy jÃ³}
+{7056}{}{darabig valÃ³szÃ­nÅ±leg ez lesz az utolsÃ³ bejegyzÃ©sem,}
+{7057}{}{mert mÃ©g Ã¶ssze szeretnÃ©m gyÅ±jteni az elvihetÅ‘ kuta-}
+{7058}{}{tÃ¡si anyagaimat.}
 {7059}{}{**END-DISK**}
 {7060}{}{**END-DISK**}
-{8000}{}{2077. július 5.}
-{8001}{}{Sierra hadiraktár - Gyengélkedõ}
-{8002}{}{Gondozó orvos - Dr. Solomon}
+{8000}{}{2077. jÃºlius 5.}
+{8001}{}{Sierra hadiraktÃ¡r - GyengÃ©lkedÅ‘}
+{8002}{}{GondozÃ³ orvos - Dr. Solomon}
 {8003}{}{Gondozott - Dixon tizedes}
-{8004}{}{Baleseti jelentés # 8332-523D}
+{8004}{}{Baleseti jelentÃ©s # 8332-523D}
 {8005}{}{**END-PAR**}
-{8006}{}{A beteg megpróbált egy támadó aknát élesíteni a}
-{8007}{}{raktárban. Az eszköz a Sierra hadiraktár evakuációs}
+{8006}{}{A beteg megprÃ³bÃ¡lt egy tÃ¡madÃ³ aknÃ¡t Ã©lesÃ­teni a}
+{8007}{}{raktÃ¡rban. Az eszkÃ¶z a Sierra hadiraktÃ¡r evakuÃ¡ciÃ³s}
 {8008}{}{evacuation defenses. Mine detonated prematurely,}
-{8009}{}{súlyosan megsebesítve ezzel Dixon tizedest és}
-{8010}{}{Clifton tábornokot. Dixon tizedes súlyos sebeket}
-{8011}{}{szerzett a karjain, a mellkasán és az arcán. Jobb}
-{8012}{}{karja teljesen leszakadt, a hiányzó testrészt nem}
-{8013}{}{találtuk meg. A mellkas és az arc súlyos, nyílt}
-{8014}{}{sérülései azonnali és nagymértékû sebészeti bea-}
-{8015}{}{vatkozást követeltek. A mûtét során 32 aknarepeszt}
-{8016}{}{távolítottunk el a beteg testébõl. Dixon tizedes}
-{8017}{}{jobb szeme megsérült a beavatkozás során, így azt}
-{8018}{}{sebészeti úton el kellett távolítanunk. Reményeink}
-{8019}{}{szerint ha a sérült, de még élõ szemet az új kísérleti}
-{8020}{}{Biomed gélbe helyezzük, az képes lehet regenerálni}
-{8021}{}{saját magát. Remélhetõleg késõbb visszaoperálhatjuk}
-{8022}{}{Dixon tizedes szervezetébe. Ez a kísérleti Biomed}
-{8023}{}{gél nagyon ígéretesnek tûnik élõ sejtek növekedésé-}
-{8024}{}{nek stimulálására. Sajnálatos módon a jelenlegi}
-{8025}{}{körülmények között lehetetlen az új zselé ered-}
+{8009}{}{sÃºlyosan megsebesÃ­tve ezzel Dixon tizedest Ã©s}
+{8010}{}{Clifton tÃ¡bornokot. Dixon tizedes sÃºlyos sebeket}
+{8011}{}{szerzett a karjain, a mellkasÃ¡n Ã©s az arcÃ¡n. Jobb}
+{8012}{}{karja teljesen leszakadt, a hiÃ¡nyzÃ³ testrÃ©szt nem}
+{8013}{}{talÃ¡ltuk meg. A mellkas Ã©s az arc sÃºlyos, nyÃ­lt}
+{8014}{}{sÃ©rÃ¼lÃ©sei azonnali Ã©s nagymÃ©rtÃ©kÅ± sebÃ©szeti bea-}
+{8015}{}{vatkozÃ¡st kÃ¶veteltek. A mÅ±tÃ©t sorÃ¡n 32 aknarepeszt}
+{8016}{}{tÃ¡volÃ­tottunk el a beteg testÃ©bÅ‘l. Dixon tizedes}
+{8017}{}{jobb szeme megsÃ©rÃ¼lt a beavatkozÃ¡s sorÃ¡n, Ã­gy azt}
+{8018}{}{sebÃ©szeti Ãºton el kellett tÃ¡volÃ­tanunk. RemÃ©nyeink}
+{8019}{}{szerint ha a sÃ©rÃ¼lt, de mÃ©g Ã©lÅ‘ szemet az Ãºj kÃ­sÃ©rleti}
+{8020}{}{Biomed gÃ©lbe helyezzÃ¼k, az kÃ©pes lehet regenerÃ¡lni}
+{8021}{}{sajÃ¡t magÃ¡t. RemÃ©lhetÅ‘leg kÃ©sÅ‘bb visszaoperÃ¡lhatjuk}
+{8022}{}{Dixon tizedes szervezetÃ©be. Ez a kÃ­sÃ©rleti Biomed}
+{8023}{}{gÃ©l nagyon Ã­gÃ©retesnek tÅ±nik Ã©lÅ‘ sejtek nÃ¶vekedÃ©sÃ©-}
+{8024}{}{nek stimulÃ¡lÃ¡sÃ¡ra. SajnÃ¡latos mÃ³don a jelenlegi}
+{8025}{}{kÃ¶rÃ¼lmÃ©nyek kÃ¶zÃ¶tt lehetetlen az Ãºj zselÃ© ered-}
 {8026}{}{It is, however, unfortunate to test this new gel}
 {8027}{}{**END-DISK**}
 {8028}{}{**END-DISK**}
-{9000}{}{2077. július 9.}
-{9001}{}{Sürgõs közlemény}
-{9002}{}{Általános postázás}
+{9000}{}{2077. jÃºlius 9.}
+{9001}{}{SÃ¼rgÅ‘s kÃ¶zlemÃ©ny}
+{9002}{}{ÃltalÃ¡nos postÃ¡zÃ¡s}
 {9003}{}{}
-{9004}{}{A személyzet minden tagjának! A Sierra hadiraktár}
-{9005}{}{evakuálását 1 héttel elõbbre rendelték el. A bizton-}
-{9006}{}{sági és védelmi berendezések felállítását ekkorra kell}
-{9007}{}{befejezni. Az utasításokat mindenki a saját részleg-}
-{9008}{}{vezetõjétõl kapja ez ügyben. A fennmaradó idõben a}
-{9009}{}{biztonsági intézkedések szigorodnak; a személy-}
+{9004}{}{A szemÃ©lyzet minden tagjÃ¡nak! A Sierra hadiraktÃ¡r}
+{9005}{}{evakuÃ¡lÃ¡sÃ¡t 1 hÃ©ttel elÅ‘bbre rendeltÃ©k el. A bizton-}
+{9006}{}{sÃ¡gi Ã©s vÃ©delmi berendezÃ©sek felÃ¡llÃ­tÃ¡sÃ¡t ekkorra kell}
+{9007}{}{befejezni. Az utasÃ­tÃ¡sokat mindenki a sajÃ¡t rÃ©szleg-}
+{9008}{}{vezetÅ‘jÃ©tÅ‘l kapja ez Ã¼gyben. A fennmaradÃ³ idÅ‘ben a}
+{9009}{}{biztonsÃ¡gi intÃ©zkedÃ©sek szigorodnak; a szemÃ©ly-}
 {9010}{}{strictly enforced; ID badges must be worn}
-{9011}{}{kötelezõ.}
+{9011}{}{kÃ¶telezÅ‘.}
 {9012}{}{}
 {9013}{}{Clifton ezredes parancsa}
 {9014}{}{**END-DISK**}
 {10000}{}{Sierra hadiraktar}
-{10001}{}{Feladat-meghatározás 1942 - 1991}
-{10002}{}{Elegendõ hadianyag raktározása és karbantartása}
-{10003}{}{védelmi célra. Invázió esetén a Sierra hadiraktár}
-{10004}{}{köteles segítséget nyújtani a szomszédos katonai}
-{10005}{}{bázisoknak, biztosítva azok megfelelõ felszereltségét.}
+{10001}{}{Feladat-meghatÃ¡rozÃ¡s 1942 - 1991}
+{10002}{}{ElegendÅ‘ hadianyag raktÃ¡rozÃ¡sa Ã©s karbantartÃ¡sa}
+{10003}{}{vÃ©delmi cÃ©lra. InvÃ¡ziÃ³ esetÃ©n a Sierra hadiraktÃ¡r}
+{10004}{}{kÃ¶teles segÃ­tsÃ©get nyÃºjtani a szomszÃ©dos katonai}
+{10005}{}{bÃ¡zisoknak, biztosÃ­tva azok megfelelÅ‘ felszereltsÃ©gÃ©t.}
 {10006}{}{**END-PAR**}
 {10007}{}{Sierra hadiraktar}
-{10008}{}{Feladat meghatározás 1992 - 2050}
-{10009}{}{A raktár felelõs a fölösleges és mai harcászati célok-}
-{10010}{}{ra nem megfelelõ hadianyagokat tartalmazó raktárak}
-{10011}{}{demilitarizálásáért. Ezt a feladatot az Ipari Feladatok}
-{10012}{}{Parancsnoksága ellenõrzi (IFP) együttmûködésben a}
-{10013}{}{Környezetvédelmi Ügynökséggel (KVÜ), a hadianyagok}
-{10014}{}{elrendezésének tisztább, zöldebb megoldásáért.}
+{10008}{}{Feladat meghatÃ¡rozÃ¡s 1992 - 2050}
+{10009}{}{A raktÃ¡r felelÅ‘s a fÃ¶lÃ¶sleges Ã©s mai harcÃ¡szati cÃ©lok-}
+{10010}{}{ra nem megfelelÅ‘ hadianyagokat tartalmazÃ³ raktÃ¡rak}
+{10011}{}{demilitarizÃ¡lÃ¡sÃ¡Ã©rt. Ezt a feladatot az Ipari Feladatok}
+{10012}{}{ParancsnoksÃ¡ga ellenÅ‘rzi (IFP) egyÃ¼ttmÅ±kÃ¶dÃ©sben a}
+{10013}{}{KÃ¶rnyezetvÃ©delmi ÃœgynÃ¶ksÃ©ggel (KVÃœ), a hadianyagok}
+{10014}{}{elrendezÃ©sÃ©nek tisztÃ¡bb, zÃ¶ldebb megoldÃ¡sÃ¡Ã©rt.}
 {10015}{}{**END-PAR**}
 {10016}{}{Sierra hadiraktar}
-{10017}{}{Feladat meghatározás 2050 - 2076}
-{10018}{}{TITKOSÍTOTT}
-{10019}{}{5-ös szintû engedély szükséges}
-{10020}{}{A bázist felszereljük a legújabb technológiával, és}
-{10021}{}{titkos kutató-fejlesztõ bázissá alakítjuk át, melyben}
-{10022}{}{robotokat, valamint biológiai- és hagyományos fegy-}
+{10017}{}{Feladat meghatÃ¡rozÃ¡s 2050 - 2076}
+{10018}{}{TITKOSÃTOTT}
+{10019}{}{5-Ã¶s szintÅ± engedÃ©ly szÃ¼ksÃ©ges}
+{10020}{}{A bÃ¡zist felszereljÃ¼k a legÃºjabb technolÃ³giÃ¡val, Ã©s}
+{10021}{}{titkos kutatÃ³-fejlesztÅ‘ bÃ¡zissÃ¡ alakÃ­tjuk Ã¡t, melyben}
+{10022}{}{robotokat, valamint biolÃ³giai- Ã©s hagyomÃ¡nyos fegy-}
 {10023}{}{vereket fogunk fejleszteni valamint tesztelni.}
 {10024}{}{**END-PAR**}
 {10025}{}{Sierra hadiraktar}
-{10026}{}{Feladat meghatározás 2077}
-{10027}{}{Képzett személyzet hiánya miatt a Sierra hadiraktárat}
-{10028}{}{automatikus védelmû bázissá alakítjuk át. A személyze-}
+{10026}{}{Feladat meghatÃ¡rozÃ¡s 2077}
+{10027}{}{KÃ©pzett szemÃ©lyzet hiÃ¡nya miatt a Sierra hadiraktÃ¡rat}
+{10028}{}{automatikus vÃ©delmÅ± bÃ¡zissÃ¡ alakÃ­tjuk Ã¡t. A szemÃ©lyze-}
 {10029}{}{personnel are to be relocated to neighboring}
 {10030}{}{installations or sent to the front line.}
 {10031}{}{**END-DISK**}
-{11000}{}{Galaxis Hírhálózat}
-{11001}{}{2073. január 11-ei adás másolata}
-{11002}{}{A mai csúcshír itt a GHH-n. Az Egyesült Államoknak}
-{11003}{}{pénzügyi puccsal sikerült megszereznie a Föld utolsó}
-{11004}{}{olajforrását. Mostanáig úgy tartották, hogy ez az}
-{11005}{}{olajtartalék elérhetetlen, tekintve hogy több ezer}
-{11006}{}{láb mélyen a Csendes Óceán alatt található. Mivel}
-{11007}{}{a világ olajkészletei közel járnak a kimerüléshez,}
-{11008}{}{óriási verseny kezdõdött a megfelelõ módszer ki-}
-{11009}{}{fejlesztésére, hogy az olajat kinyerhessék. A GHH}
-{11010}{}{büszkén jelenti, hogy mi lettünk az elsõk a ver-}
+{11000}{}{Galaxis HÃ­rhÃ¡lÃ³zat}
+{11001}{}{2073. januÃ¡r 11-ei adÃ¡s mÃ¡solata}
+{11002}{}{A mai csÃºcshÃ­r itt a GHH-n. Az EgyesÃ¼lt Ãllamoknak}
+{11003}{}{pÃ©nzÃ¼gyi puccsal sikerÃ¼lt megszereznie a FÃ¶ld utolsÃ³}
+{11004}{}{olajforrÃ¡sÃ¡t. MostanÃ¡ig Ãºgy tartottÃ¡k, hogy ez az}
+{11005}{}{olajtartalÃ©k elÃ©rhetetlen, tekintve hogy tÃ¶bb ezer}
+{11006}{}{lÃ¡b mÃ©lyen a Csendes Ã“ceÃ¡n alatt talÃ¡lhatÃ³. Mivel}
+{11007}{}{a vilÃ¡g olajkÃ©szletei kÃ¶zel jÃ¡rnak a kimerÃ¼lÃ©shez,}
+{11008}{}{Ã³riÃ¡si verseny kezdÅ‘dÃ¶tt a megfelelÅ‘ mÃ³dszer ki-}
+{11009}{}{fejlesztÃ©sÃ©re, hogy az olajat kinyerhessÃ©k. A GHH}
+{11010}{}{bÃ¼szkÃ©n jelenti, hogy mi lettÃ¼nk az elsÅ‘k a ver-}
 {11011}{}{are proud to announce that the US is the first to do}
-{11012}{}{Államok tulajdonába került.}
-{11013}{}{Szabad a pálya, Amerika!}
+{11012}{}{Ãllamok tulajdonÃ¡ba kerÃ¼lt.}
+{11013}{}{Szabad a pÃ¡lya, Amerika!}
 {11014}{}{**END-PAR**}
-{11015}{}{Kína õrjöng, ahogy az U.S.A. sikerének híre bejárja}
-{11016}{}{a földgolyót. Kína vezetõje, Xin elnök szerint az õ}
-{11017}{}{fúróplatform-projektjüknek hónapokkal az amerikainál}
-{11018}{}{elõbb be kellett volna fejezõdnie, de sajnos a kínai}
-{11019}{}{platform elkészülését szerencsétlen balesetek egész}
-{11020}{}{sora hátráltatta. Xin elnök elmondása szerint bi-}
-{11021}{}{zonyítékkal rendelkezik arról, hogy az Egyesült Ál-}
-{11022}{}{lamok áll az olajplatformot célzó szabotázsakciók}
-{11023}{}{mögött, és nemzetközi vizsgálóbizottság felállítását}
-{11024}{}{indítványozza az igazság kiderítésére.}
+{11015}{}{KÃ­na Å‘rjÃ¶ng, ahogy az U.S.A. sikerÃ©nek hÃ­re bejÃ¡rja}
+{11016}{}{a fÃ¶ldgolyÃ³t. KÃ­na vezetÅ‘je, Xin elnÃ¶k szerint az Å‘}
+{11017}{}{fÃºrÃ³platform-projektjÃ¼knek hÃ³napokkal az amerikainÃ¡l}
+{11018}{}{elÅ‘bb be kellett volna fejezÅ‘dnie, de sajnos a kÃ­nai}
+{11019}{}{platform elkÃ©szÃ¼lÃ©sÃ©t szerencsÃ©tlen balesetek egÃ©sz}
+{11020}{}{sora hÃ¡trÃ¡ltatta. Xin elnÃ¶k elmondÃ¡sa szerint bi-}
+{11021}{}{zonyÃ­tÃ©kkal rendelkezik arrÃ³l, hogy az EgyesÃ¼lt Ãl-}
+{11022}{}{lamok Ã¡ll az olajplatformot cÃ©lzÃ³ szabotÃ¡zsakciÃ³k}
+{11023}{}{mÃ¶gÃ¶tt, Ã©s nemzetkÃ¶zi vizsgÃ¡lÃ³bizottsÃ¡g felÃ¡llÃ­tÃ¡sÃ¡t}
+{11024}{}{indÃ­tvÃ¡nyozza az igazsÃ¡g kiderÃ­tÃ©sÃ©re.}
 {11025}{}{**END-PAR**}
-{11026}{}{Más hírek az üzemanyagárak miatti zavargásokról szá-}
-{11027}{}{molnak be, melyeket a soha nem látott mértékû áremel-}
-{11028}{}{kedés váltott ki. A benzin jelenlegi ára meghaladja}
-{11029}{}{az arany tõzsdei értékét.}
+{11026}{}{MÃ¡s hÃ­rek az Ã¼zemanyagÃ¡rak miatti zavargÃ¡sokrÃ³l szÃ¡-}
+{11027}{}{molnak be, melyeket a soha nem lÃ¡tott mÃ©rtÃ©kÅ± Ã¡remel-}
+{11028}{}{kedÃ©s vÃ¡ltott ki. A benzin jelenlegi Ã¡ra meghaladja}
+{11029}{}{az arany tÅ‘zsdei Ã©rtÃ©kÃ©t.}
 {11030}{}{**END-PAR**}
-{11031}{}{Itthon a tél meglehetõsen fagyos, országszerte 100-}
-{11032}{}{110F-et mértek, de helyenként a tengerpartokon 90F-}
-{11033}{}{ig is lecsökken a hõmérséklet. Öltözzenek melegen!}
+{11031}{}{Itthon a tÃ©l meglehetÅ‘sen fagyos, orszÃ¡gszerte 100-}
+{11032}{}{110F-et mÃ©rtek, de helyenkÃ©nt a tengerpartokon 90F-}
+{11033}{}{ig is lecsÃ¶kken a hÅ‘mÃ©rsÃ©klet. Ã–ltÃ¶zzenek melegen!}
 {11034}{}{**END-PAR**}
-{11035}{}{Galaxis Hírhálózat}
-{11036}{}{2074. június 24-ei adás másolata}
-{11037}{}{Az Egyesült Államok és más nagyhatalmak közti tárgya-}
-{11038}{}{lások drámai véget értek, amikor az elnök kivonult a}
-{11039}{}{tárgyalóterembõl. Éles viták és szócsata után az elnök}
-{11040}{}{gyorsan távozott a találkozóról, de elõtte leszögezte,}
-{11041}{}{hogy a Föld utolsó nyersolaj-lelõ forrását az Egyesült}
-{11042}{}{Államok fogja kitermelni, és nem kíván egy csepp olajat}
-{11043}{}{sem eladni külföldre. Az Egyesült Nemzetek fenyegetõ-}
-{11044}{}{zései hiábavalónak bizonyultak.}
+{11035}{}{Galaxis HÃ­rhÃ¡lÃ³zat}
+{11036}{}{2074. jÃºnius 24-ei adÃ¡s mÃ¡solata}
+{11037}{}{Az EgyesÃ¼lt Ãllamok Ã©s mÃ¡s nagyhatalmak kÃ¶zti tÃ¡rgya-}
+{11038}{}{lÃ¡sok drÃ¡mai vÃ©get Ã©rtek, amikor az elnÃ¶k kivonult a}
+{11039}{}{tÃ¡rgyalÃ³terembÅ‘l. Ã‰les vitÃ¡k Ã©s szÃ³csata utÃ¡n az elnÃ¶k}
+{11040}{}{gyorsan tÃ¡vozott a talÃ¡lkozÃ³rÃ³l, de elÅ‘tte leszÃ¶gezte,}
+{11041}{}{hogy a FÃ¶ld utolsÃ³ nyersolaj-lelÅ‘ forrÃ¡sÃ¡t az EgyesÃ¼lt}
+{11042}{}{Ãllamok fogja kitermelni, Ã©s nem kÃ­vÃ¡n egy csepp olajat}
+{11043}{}{sem eladni kÃ¼lfÃ¶ldre. Az EgyesÃ¼lt Nemzetek fenyegetÅ‘-}
+{11044}{}{zÃ©sei hiÃ¡bavalÃ³nak bizonyultak.}
 {11045}{}{**END-PAR**}
-{11046}{}{Ahogy az olajtartalékok elapadtak, világszerte leállt}
-{11047}{}{az ipar. A kétségbeesett országok könyörgései azonban}
-{11048}{}{nem találtak süket fülekre, mivel az Egyesült Államok}
-{11049}{}{olajexportja, az ENSZ szankciók ellenére is hússzoro-}
-{11050}{}{sára növekedett. Hazánk gazdasága a Raegan-éra óta}
-{11051}{}{nem látott iramban fejlõdik.}
+{11046}{}{Ahogy az olajtartalÃ©kok elapadtak, vilÃ¡gszerte leÃ¡llt}
+{11047}{}{az ipar. A kÃ©tsÃ©gbeesett orszÃ¡gok kÃ¶nyÃ¶rgÃ©sei azonban}
+{11048}{}{nem talÃ¡ltak sÃ¼ket fÃ¼lekre, mivel az EgyesÃ¼lt Ãllamok}
+{11049}{}{olajexportja, az ENSZ szankciÃ³k ellenÃ©re is hÃºsszoro-}
+{11050}{}{sÃ¡ra nÃ¶vekedett. HazÃ¡nk gazdasÃ¡ga a Raegan-Ã©ra Ã³ta}
+{11051}{}{nem lÃ¡tott iramban fejlÅ‘dik.}
 {11052}{}{**END-PAR**}
-{11053}{}{Galaxis Hírhálózat}
-{11054}{}{2075. február 14-ei adás másolata}
-{11055}{}{Kanada ma történelmet írt, mivel lakossága egyöntetû}
-{11056}{}{követelésére beleegyezett, hogy az Egyesült Államok}
-{11057}{}{magához csatolja. Idézet az elnökünktõl: "Kanada egyike}
-{11058}{}{a világ legjobb hokijátékosait adó országoknak" és}
-{11059}{}{üdvözöljük az Egyesült Államok körében. A hírforrások}
-{11060}{}{szerint Kanada a világ megmaradt olajkészletének 10%-át}
-{11061}{}{kapja cserébe a teljes annexióért, továbbá 50%-os}
-{11062}{}{adócsökkentést, mivel az Államok adózási törvényei}
-{11063}{}{mostantól rájuk is vonatkoznak.}
+{11053}{}{Galaxis HÃ­rhÃ¡lÃ³zat}
+{11054}{}{2075. februÃ¡r 14-ei adÃ¡s mÃ¡solata}
+{11055}{}{Kanada ma tÃ¶rtÃ©nelmet Ã­rt, mivel lakossÃ¡ga egyÃ¶ntetÅ±}
+{11056}{}{kÃ¶vetelÃ©sÃ©re beleegyezett, hogy az EgyesÃ¼lt Ãllamok}
+{11057}{}{magÃ¡hoz csatolja. IdÃ©zet az elnÃ¶kÃ¼nktÅ‘l: "Kanada egyike}
+{11058}{}{a vilÃ¡g legjobb hokijÃ¡tÃ©kosait adÃ³ orszÃ¡goknak" Ã©s}
+{11059}{}{Ã¼dvÃ¶zÃ¶ljÃ¼k az EgyesÃ¼lt Ãllamok kÃ¶rÃ©ben. A hÃ­rforrÃ¡sok}
+{11060}{}{szerint Kanada a vilÃ¡g megmaradt olajkÃ©szletÃ©nek 10%-Ã¡t}
+{11061}{}{kapja cserÃ©be a teljes annexiÃ³Ã©rt, tovÃ¡bbÃ¡ 50%-os}
+{11062}{}{adÃ³csÃ¶kkentÃ©st, mivel az Ãllamok adÃ³zÃ¡si tÃ¶rvÃ©nyei}
+{11063}{}{mostantÃ³l rÃ¡juk is vonatkoznak.}
 {11064}{}{**END-PAR**}
-{11065}{}{Sport: a Little Rock Saints és az Anaheim Jets játszot-}
-{11066}{}{ta ma a 112. Super Bowl döntõjét. A mérkõzés végig}
-{11067}{}{rendkívül szoros volt, de IV J. Montanának sikerült}
-{11068}{}{megmentenie a helyzetet egy 5 yardos vonalról való}
+{11065}{}{Sport: a Little Rock Saints Ã©s az Anaheim Jets jÃ¡tszot-}
+{11066}{}{ta ma a 112. Super Bowl dÃ¶ntÅ‘jÃ©t. A mÃ©rkÅ‘zÃ©s vÃ©gig}
+{11067}{}{rendkÃ­vÃ¼l szoros volt, de IV J. MontanÃ¡nak sikerÃ¼lt}
+{11068}{}{megmentenie a helyzetet egy 5 yardos vonalrÃ³l valÃ³}
 {11069}{}{to score the winning touchdown during the final seconds}
-{11070}{}{meccs utolsó másodperceiben. A végeredmény: 95 - 90,}
-{11071}{}{mellyel, az Anaheim Jets nyerte a 112. Super Bowl kupát.}
+{11070}{}{meccs utolsÃ³ mÃ¡sodperceiben. A vÃ©geredmÃ©ny: 95 - 90,}
+{11071}{}{mellyel, az Anaheim Jets nyerte a 112. Super Bowl kupÃ¡t.}
 {11072}{}{**END-PAR**}
-{11073}{}{Galaxis Hírhálózat}
-{11074}{}{2075. február 15-ei adás másolata}
-{11075}{}{A képviselõház és a kongresszus, meglepõ egyetértés-}
-{11076}{}{ben, névtelenül szavazott az elnök szabálytalan közle-}
-{11077}{}{kedésrõl szóló perérõl. Mindkét ház megállapította, hogy}
-{11078}{}{az elnök nem áll törvényen felül, és ennek tudatában}
-{11079}{}{jobban kellett volna figyelnie. A házak tagadják, hogy}
-{11080}{}{ennek bármi köze lenne Kanada tegnapi annexiójához.}
+{11073}{}{Galaxis HÃ­rhÃ¡lÃ³zat}
+{11074}{}{2075. februÃ¡r 15-ei adÃ¡s mÃ¡solata}
+{11075}{}{A kÃ©pviselÅ‘hÃ¡z Ã©s a kongresszus, meglepÅ‘ egyetÃ©rtÃ©s-}
+{11076}{}{ben, nÃ©vtelenÃ¼l szavazott az elnÃ¶k szabÃ¡lytalan kÃ¶zle-}
+{11077}{}{kedÃ©srÅ‘l szÃ³lÃ³ perÃ©rÅ‘l. MindkÃ©t hÃ¡z megÃ¡llapÃ­totta, hogy}
+{11078}{}{az elnÃ¶k nem Ã¡ll tÃ¶rvÃ©nyen felÃ¼l, Ã©s ennek tudatÃ¡ban}
+{11079}{}{jobban kellett volna figyelnie. A hÃ¡zak tagadjÃ¡k, hogy}
+{11080}{}{ennek bÃ¡rmi kÃ¶ze lenne Kanada tegnapi annexiÃ³jÃ¡hoz.}
 {11081}{}{**END-PAR**}
-{11082}{}{Galaxis Hírhálózat}
-{11083}{}{2076. március 30-ai adás másolata}
-{11084}{}{Az elnök ma a teljes Csendes-Óceáni Flottát a Poseidon}
-{11085}{}{mélytengeri fúrótoronyhoz rendelte, melynek pontos he-}
+{11082}{}{Galaxis HÃ­rhÃ¡lÃ³zat}
+{11083}{}{2076. mÃ¡rcius 30-ai adÃ¡s mÃ¡solata}
+{11084}{}{Az elnÃ¶k ma a teljes Csendes-Ã“ceÃ¡ni FlottÃ¡t a Poseidon}
+{11085}{}{mÃ©lytengeri fÃºrÃ³toronyhoz rendelte, melynek pontos he-}
 {11086}{}{location out in the Pacific. He cited concerns over}
 {11087}{}{military exercises staged by the Chinese fleet that are}
-{11088}{}{gadhatatlanul közel van a stratégiai olajkészleteink-}
-{11089}{}{hez." A kínai vezetés tagadta az ellenséges szándékot.}
+{11088}{}{gadhatatlanul kÃ¶zel van a stratÃ©giai olajkÃ©szleteink-}
+{11089}{}{hez." A kÃ­nai vezetÃ©s tagadta az ellensÃ©ges szÃ¡ndÃ©kot.}
 {11090}{}{**END-PAR**}
-{11091}{}{A mai szavazás szerint a GHH nézõinek 54%-a úgy gon-}
-{11092}{}{dolja, hogy az elnök ezt azért tette, hogy elterelje a}
-{11093}{}{figyelmet arról a nemrégiben beismert tényrõl, miszerint}
-{11094}{}{több házasságon kívüli viszonya is volt néhány, a kam-}
-{11095}{}{pányában résztvevõ nõvel. A szavazás szerint a nézõk}
-{11096}{}{70%-át nem érdeklik ezek az afférok, és elégedettek az}
-{11097}{}{elnök munkájával. Meglepõ viszont, hogy 60% úgy gondolja,}
-{11098}{}{ha ez az ára az ország megfelelõ mûködésének, akkor az}
-{11099}{}{elnöknek igenis legyenek ilyen viszonyai.}
+{11091}{}{A mai szavazÃ¡s szerint a GHH nÃ©zÅ‘inek 54%-a Ãºgy gon-}
+{11092}{}{dolja, hogy az elnÃ¶k ezt azÃ©rt tette, hogy elterelje a}
+{11093}{}{figyelmet arrÃ³l a nemrÃ©giben beismert tÃ©nyrÅ‘l, miszerint}
+{11094}{}{tÃ¶bb hÃ¡zassÃ¡gon kÃ­vÃ¼li viszonya is volt nÃ©hÃ¡ny, a kam-}
+{11095}{}{pÃ¡nyÃ¡ban rÃ©sztvevÅ‘ nÅ‘vel. A szavazÃ¡s szerint a nÃ©zÅ‘k}
+{11096}{}{70%-Ã¡t nem Ã©rdeklik ezek az affÃ©rok, Ã©s elÃ©gedettek az}
+{11097}{}{elnÃ¶k munkÃ¡jÃ¡val. MeglepÅ‘ viszont, hogy 60% Ãºgy gondolja,}
+{11098}{}{ha ez az Ã¡ra az orszÃ¡g megfelelÅ‘ mÅ±kÃ¶dÃ©sÃ©nek, akkor az}
+{11099}{}{elnÃ¶knek igenis legyenek ilyen viszonyai.}
 {11100}{}{**END-PAR**}
-{11101}{}{Galaxis Hírhálózat}
+{11101}{}{Galaxis HÃ­rhÃ¡lÃ³zat}
 {11102}{}{Transcript of Broadcast October 10, 2077}
-{11103}{}{HÁBORÚ! Kína megtámadta Alaszkát, hadat üzenve ezzel}
-{11104}{}{az Egyesült Államoknak! Az USA ugyan tiltakozott, hogy}
-{11105}{}{az ENSZ tanácsa figyelmen kívül hagyta az agresszió}
-{11106}{}{eme durva megnyilvánulását, mégsem ért el eredményt.}
-{11107}{}{Az Egyesült Államok elnöke TÉGED szólít, hogy segíts meg-}
-{11108}{}{védeni országunkat azok ellen, akik ártani akarnak neki.}
-{11109}{}{Menj el a helyi toborzóirodába és csatlakozz a fegyveres}
-{11110}{}{erõkhöz! Uncle Sam-nek szüksége van RÁD! Az Igazságért,}
-{11111}{}{a szabadságért és a Mami Almáspitéjéért.}
+{11103}{}{HÃBORÃš! KÃ­na megtÃ¡madta AlaszkÃ¡t, hadat Ã¼zenve ezzel}
+{11104}{}{az EgyesÃ¼lt Ãllamoknak! Az USA ugyan tiltakozott, hogy}
+{11105}{}{az ENSZ tanÃ¡csa figyelmen kÃ­vÃ¼l hagyta az agressziÃ³}
+{11106}{}{eme durva megnyilvÃ¡nulÃ¡sÃ¡t, mÃ©gsem Ã©rt el eredmÃ©nyt.}
+{11107}{}{Az EgyesÃ¼lt Ãllamok elnÃ¶ke TÃ‰GED szÃ³lÃ­t, hogy segÃ­ts meg-}
+{11108}{}{vÃ©deni orszÃ¡gunkat azok ellen, akik Ã¡rtani akarnak neki.}
+{11109}{}{Menj el a helyi toborzÃ³irodÃ¡ba Ã©s csatlakozz a fegyveres}
+{11110}{}{erÅ‘khÃ¶z! Uncle Sam-nek szÃ¼ksÃ©ge van RÃD! Az IgazsÃ¡gÃ©rt,}
+{11111}{}{a szabadsÃ¡gÃ©rt Ã©s a Mami AlmÃ¡spitÃ©jÃ©Ã©rt.}
 {11112}{}{**END-PAR**}
-{11113}{}{Galaxis Hírhálózat}
+{11113}{}{Galaxis HÃ­rhÃ¡lÃ³zat}
 {11114}{}{Transcript of Broadcast October 22, 2077}
-{11115}{}{Hála a fegyveres erõk bátor katonáinak és az újonnan}
-{11116}{}{kifejlesztett energiameghajtású páncélruháknak, az}
-{11117}{}{Egyesült Államok seregei visszaverték a kínai megszál-}
+{11115}{}{HÃ¡la a fegyveres erÅ‘k bÃ¡tor katonÃ¡inak Ã©s az Ãºjonnan}
+{11116}{}{kifejlesztett energiameghajtÃ¡sÃº pÃ¡ncÃ©lruhÃ¡knak, az}
+{11117}{}{EgyesÃ¼lt Ãllamok seregei visszavertÃ©k a kÃ­nai megszÃ¡l-}
 {11118}{}{fuel, the invaders have been pushed back to their}
-{11119}{}{szen fõvárosukig, Pekingig szorították vissza katonáink.}
+{11119}{}{szen fÅ‘vÃ¡rosukig, Pekingig szorÃ­tottÃ¡k vissza katonÃ¡ink.}
 {11120}{}{**END-DISK**}
-{12000}{}{Üdvözöllek!}
+{12000}{}{ÃœdvÃ¶zÃ¶llek!}
 {12001}{}{Welcome to the Hubology Holodisk! Within these electronic}
-{12002}{}{az elektronikus oldalakon rövid leírást találsz a hitünk-}
-{12003}{}{rõl, belelértve a Hub tanításainak újbóli kiadását. A}
+{12002}{}{az elektronikus oldalakon rÃ¶vid leÃ­rÃ¡st talÃ¡lsz a hitÃ¼nk-}
+{12003}{}{rÅ‘l, belelÃ©rtve a Hub tanÃ­tÃ¡sainak ÃºjbÃ³li kiadÃ¡sÃ¡t. A}
 {12004}{}{This holodisk isn't meant to represent the final word on}
-{12005}{}{tekintsd csupán a témakör ábécéskönyvének, ahogyan}
-{12006}{}{minket a te szellemi õrzõidnek.}
+{12005}{}{tekintsd csupÃ¡n a tÃ©makÃ¶r Ã¡bÃ©cÃ©skÃ¶nyvÃ©nek, ahogyan}
+{12006}{}{minket a te szellemi Å‘rzÅ‘idnek.}
 {12007}{}{**END-PAR**}
-{12008}{}{FÕMENÜ}
-{12009}{}{Történet}
-{12010}{}{Filozófia}
-{12011}{}{Rövid szójegyzék}
-{12012}{}{A Hub bibliográfiája}
+{12008}{}{FÅMENÃœ}
+{12009}{}{TÃ¶rtÃ©net}
+{12010}{}{FilozÃ³fia}
+{12011}{}{RÃ¶vid szÃ³jegyzÃ©k}
+{12012}{}{A Hub bibliogrÃ¡fiÃ¡ja}
 {12013}{}{**END-PAR**}
-{12014}{}{TÖRTÉNET}
-{12015}{}{Rendünket a Nagy Özönvíz elõtt alakította egy férfi, név}
-{12016}{}{szerint Dick Hubbell, író és nagy ígéretek látnoka. A}
-{12017}{}{saját idejében szemtanúja volt a gyógyszerek bukásának,}
-{12018}{}{a vallás bukásának csakúgy, mint a kormány bukásának.}
-{12019}{}{Jól tudta, hogy a világnak valami újra van szüksége... a}
-{12020}{}{világnak a Hubológia kellett. Az idõ szavától és föl-}
+{12014}{}{TÃ–RTÃ‰NET}
+{12015}{}{RendÃ¼nket a Nagy Ã–zÃ¶nvÃ­z elÅ‘tt alakÃ­totta egy fÃ©rfi, nÃ©v}
+{12016}{}{szerint Dick Hubbell, Ã­rÃ³ Ã©s nagy Ã­gÃ©retek lÃ¡tnoka. A}
+{12017}{}{sajÃ¡t idejÃ©ben szemtanÃºja volt a gyÃ³gyszerek bukÃ¡sÃ¡nak,}
+{12018}{}{a vallÃ¡s bukÃ¡sÃ¡nak csakÃºgy, mint a kormÃ¡ny bukÃ¡sÃ¡nak.}
+{12019}{}{JÃ³l tudta, hogy a vilÃ¡gnak valami Ãºjra van szÃ¼ksÃ©ge... a}
+{12020}{}{vilÃ¡gnak a HubolÃ³gia kellett. Az idÅ‘ szavÃ¡tÃ³l Ã©s fÃ¶l-}
 {12021}{}{time and his own personal experience with extraterrestrial}
-{12022}{}{kelt, hogy megmutassa, miképp tartsuk mozgásban az ég}
-{12023}{}{kerekeit, hogyan értsük meg az Élet Nagy Kerekét.}
+{12022}{}{kelt, hogy megmutassa, mikÃ©pp tartsuk mozgÃ¡sban az Ã©g}
+{12023}{}{kerekeit, hogyan Ã©rtsÃ¼k meg az Ã‰let Nagy KerekÃ©t.}
 {12024}{}{**END-PAR**}
-{12025}{}{Úgy hívjuk õt, hogy Hub, mivel rajta keresztül értettük}
-{12026}{}{meg a saját helyünket a Kerékben - Õ a mi középpontunk}
-{12027}{}{és mi vagyunk az õ küllõi. Az õ tanításai körül keringünk}
+{12025}{}{Ãšgy hÃ­vjuk Å‘t, hogy Hub, mivel rajta keresztÃ¼l Ã©rtettÃ¼k}
+{12026}{}{meg a sajÃ¡t helyÃ¼nket a KerÃ©kben - Å a mi kÃ¶zÃ©ppontunk}
+{12027}{}{Ã©s mi vagyunk az Å‘ kÃ¼llÅ‘i. Az Å‘ tanÃ­tÃ¡sai kÃ¶rÃ¼l keringÃ¼nk}
 {12028}{}{mi mindannyian.}
 {12029}{}{**END-PAR**}
-{12030}{}{Számtalan könyv és folyóirat kiadásával a Hub elkezdte}
-{12031}{}{a Hubológia tanait terjeszteni - és azonnal célpontjává}
-{12032}{}{vált az õt bírálóknak. Õk csak "áltudománynak" vagy}
-{12033}{}{"veszélyes fecsegésnek" hívták a tudományát, ami csak}
-{12034}{}{bajt okoz a benne hívõknek. Dacára annak, hogy többször}
-{12035}{}{is láttak Földöntúli Jármûveket szerte a Földön, meg}
-{12036}{}{akarták semmisíteni a Hub tanait. Tudjuk, hogy csak}
-{12037}{}{együgyûek és megfontolatlanok voltak, de ugyanakkor}
-{12038}{}{hatalmuk is volt. Kormányzatokat és egyéb szervezeteket}
-{12039}{}{állítottak az oldalukra, és megakadályozták, hogy az ige}
-{12040}{}{eljuthasson a Föld embereihez.}
+{12030}{}{SzÃ¡mtalan kÃ¶nyv Ã©s folyÃ³irat kiadÃ¡sÃ¡val a Hub elkezdte}
+{12031}{}{a HubolÃ³gia tanait terjeszteni - Ã©s azonnal cÃ©lpontjÃ¡vÃ¡}
+{12032}{}{vÃ¡lt az Å‘t bÃ­rÃ¡lÃ³knak. Åk csak "Ã¡ltudomÃ¡nynak" vagy}
+{12033}{}{"veszÃ©lyes fecsegÃ©snek" hÃ­vtÃ¡k a tudomÃ¡nyÃ¡t, ami csak}
+{12034}{}{bajt okoz a benne hÃ­vÅ‘knek. DacÃ¡ra annak, hogy tÃ¶bbszÃ¶r}
+{12035}{}{is lÃ¡ttak FÃ¶ldÃ¶ntÃºli JÃ¡rmÅ±veket szerte a FÃ¶ldÃ¶n, meg}
+{12036}{}{akartÃ¡k semmisÃ­teni a Hub tanait. Tudjuk, hogy csak}
+{12037}{}{egyÃ¼gyÅ±ek Ã©s megfontolatlanok voltak, de ugyanakkor}
+{12038}{}{hatalmuk is volt. KormÃ¡nyzatokat Ã©s egyÃ©b szervezeteket}
+{12039}{}{Ã¡llÃ­tottak az oldalukra, Ã©s megakadÃ¡lyoztÃ¡k, hogy az ige}
+{12040}{}{eljuthasson a FÃ¶ld embereihez.}
 {12041}{}{**END-PAR**}
-{12042}{}{A Hubológiának egy ideig a föld alá kellett menekülnie,}
-{12043}{}{erõit az egyszerûségét és józanságát irigylõk támadásai-}
-{12044}{}{nak elhárítására kellett fordítania. Míg végül a Hubolo-}
-{12045}{}{gisták vissza nem vágtak úgy, hogy csak kevesen tudtak}
-{12046}{}{védekezni ellenük. Behatoltak azokba a szervezetekbe,}
-{12047}{}{melyek õket akarták elpusztítani, és "televízió" adá-}
-{12048}{}{sokat készítettek, hogy felfedjék a kormány népbutító}
-{12049}{}{hazugságait.}
+{12042}{}{A HubolÃ³giÃ¡nak egy ideig a fÃ¶ld alÃ¡ kellett menekÃ¼lnie,}
+{12043}{}{erÅ‘it az egyszerÅ±sÃ©gÃ©t Ã©s jÃ³zansÃ¡gÃ¡t irigylÅ‘k tÃ¡madÃ¡sai-}
+{12044}{}{nak elhÃ¡rÃ­tÃ¡sÃ¡ra kellett fordÃ­tania. MÃ­g vÃ©gÃ¼l a Hubolo-}
+{12045}{}{gistÃ¡k vissza nem vÃ¡gtak Ãºgy, hogy csak kevesen tudtak}
+{12046}{}{vÃ©dekezni ellenÃ¼k. Behatoltak azokba a szervezetekbe,}
+{12047}{}{melyek Å‘ket akartÃ¡k elpusztÃ­tani, Ã©s "televÃ­ziÃ³" adÃ¡-}
+{12048}{}{sokat kÃ©szÃ­tettek, hogy felfedjÃ©k a kormÃ¡ny nÃ©pbutÃ­tÃ³}
+{12049}{}{hazugsÃ¡gait.}
 {12050}{}{**END-PAR**}
-{12051}{}{Ez enyhe javulást hozott a hitünk számára. Az emberek}
-{12052}{}{továbbra is kétségbe vonták a Hubológiát, hála a mé-}
-{12053}{}{diának, amiért eltorzította a rólunk szóló valóságot.}
-{12054}{}{Nagy kampányt kellett indítanunk a minket bírálók ellen.}
-{12055}{}{Fájdalmunkra, ez idõ alatt távozott közülünk a nagy Hub.}
+{12051}{}{Ez enyhe javulÃ¡st hozott a hitÃ¼nk szÃ¡mÃ¡ra. Az emberek}
+{12052}{}{tovÃ¡bbra is kÃ©tsÃ©gbe vontÃ¡k a HubolÃ³giÃ¡t, hÃ¡la a mÃ©-}
+{12053}{}{diÃ¡nak, amiÃ©rt eltorzÃ­totta a rÃ³lunk szÃ³lÃ³ valÃ³sÃ¡got.}
+{12054}{}{Nagy kampÃ¡nyt kellett indÃ­tanunk a minket bÃ­rÃ¡lÃ³k ellen.}
+{12055}{}{FÃ¡jdalmunkra, ez idÅ‘ alatt tÃ¡vozott kÃ¶zÃ¼lÃ¼nk a nagy Hub.}
 {12056}{}{**END-PAR**}
-{12057}{}{A Hub, tudásának köszönhetõen, egyesülhetett a Csillag-}
-{12058}{}{béli Atyával, s ez segített, hogy a kozmikus kerék a mi}
-{12059}{}{irányunkba forduljon, mely az öntudat újabb szintjének}
-{12060}{}{elérését jelentette, így biztosak maradhattunk abban,}
-{12061}{}{hogy a miénk az igaz út. Az idõ múltával egyre több hí-}
-{12062}{}{vünk lett, kik közül sokan egyszerûen csak hinni akartak}
-{12063}{}{abban, hogy valahol van egy hely, ami jobb ennél a}
-{12064}{}{világnál. Mi új életet ajánlottunk nekik más bolygókon,}
-{12065}{}{és megismertettünk õket a filozófiánkkal, mellyel meg-}
-{12066}{}{érthették az univerzum mûködését. Lenyûgözve eszméink}
-{12067}{}{igazságától mind többen és többen jöttek hozzánk. A}
-{12068}{}{tény, hogy sértetlenül túléltük a Nagy Özönvizet vilá-}
-{12069}{}{gossá tette számunkra, hogy az Élet Nagy Kereke a mi}
-{12070}{}{tanításaink felé fordul!}
+{12057}{}{A Hub, tudÃ¡sÃ¡nak kÃ¶szÃ¶nhetÅ‘en, egyesÃ¼lhetett a Csillag-}
+{12058}{}{bÃ©li AtyÃ¡val, s ez segÃ­tett, hogy a kozmikus kerÃ©k a mi}
+{12059}{}{irÃ¡nyunkba forduljon, mely az Ã¶ntudat Ãºjabb szintjÃ©nek}
+{12060}{}{elÃ©rÃ©sÃ©t jelentette, Ã­gy biztosak maradhattunk abban,}
+{12061}{}{hogy a miÃ©nk az igaz Ãºt. Az idÅ‘ mÃºltÃ¡val egyre tÃ¶bb hÃ­-}
+{12062}{}{vÃ¼nk lett, kik kÃ¶zÃ¼l sokan egyszerÅ±en csak hinni akartak}
+{12063}{}{abban, hogy valahol van egy hely, ami jobb ennÃ©l a}
+{12064}{}{vilÃ¡gnÃ¡l. Mi Ãºj Ã©letet ajÃ¡nlottunk nekik mÃ¡s bolygÃ³kon,}
+{12065}{}{Ã©s megismertettÃ¼nk Å‘ket a filozÃ³fiÃ¡nkkal, mellyel meg-}
+{12066}{}{Ã©rthettÃ©k az univerzum mÅ±kÃ¶dÃ©sÃ©t. LenyÅ±gÃ¶zve eszmÃ©ink}
+{12067}{}{igazsÃ¡gÃ¡tÃ³l mind tÃ¶bben Ã©s tÃ¶bben jÃ¶ttek hozzÃ¡nk. A}
+{12068}{}{tÃ©ny, hogy sÃ©rtetlenÃ¼l tÃºlÃ©ltÃ¼k a Nagy Ã–zÃ¶nvizet vilÃ¡-}
+{12069}{}{gossÃ¡ tette szÃ¡munkra, hogy az Ã‰let Nagy Kereke a mi}
+{12070}{}{tanÃ­tÃ¡saink felÃ© fordul!}
 {12071}{}{**END-PAR**}
-{12072}{}{FILOZÓFIA}
-{12073}{}{A Hubológiának egyszerû a filozófiája, hála érte az Özön-}
-{12074}{}{víz elõtti Föld legnagyszerûbb vallási és filozófiai el-}
-{12075}{}{méinek. Mi úgy hisszük, hogy az élet, a világmindenség,}
-{12076}{}{meg minden úgy szimbolizálható legjobban, mint egy forgó}
-{12077}{}{kerék. A kerék peremén azok találhatók, akik nem értik a}
-{12078}{}{tanításainkat és akik nem ismerik az igazságot. Úgy hív-}
-{12079}{}{juk õket, hogy "Perem Pép", mert ahogy a Kerék forog,}
-{12080}{}{újra és újra összezúzza õket, amiért nem értik és méltá-}
-{12081}{}{nyolják a munkáját.}
+{12072}{}{FILOZÃ“FIA}
+{12073}{}{A HubolÃ³giÃ¡nak egyszerÅ± a filozÃ³fiÃ¡ja, hÃ¡la Ã©rte az Ã–zÃ¶n-}
+{12074}{}{vÃ­z elÅ‘tti FÃ¶ld legnagyszerÅ±bb vallÃ¡si Ã©s filozÃ³fiai el-}
+{12075}{}{mÃ©inek. Mi Ãºgy hisszÃ¼k, hogy az Ã©let, a vilÃ¡gmindensÃ©g,}
+{12076}{}{meg minden Ãºgy szimbolizÃ¡lhatÃ³ legjobban, mint egy forgÃ³}
+{12077}{}{kerÃ©k. A kerÃ©k peremÃ©n azok talÃ¡lhatÃ³k, akik nem Ã©rtik a}
+{12078}{}{tanÃ­tÃ¡sainkat Ã©s akik nem ismerik az igazsÃ¡got. Ãšgy hÃ­v-}
+{12079}{}{juk Å‘ket, hogy "Perem PÃ©p", mert ahogy a KerÃ©k forog,}
+{12080}{}{Ãºjra Ã©s Ãºjra Ã¶sszezÃºzza Å‘ket, amiÃ©rt nem Ã©rtik Ã©s mÃ©ltÃ¡-}
+{12081}{}{nyoljÃ¡k a munkÃ¡jÃ¡t.}
 {12082}{}{**END-PAR**}
-{12083}{}{Mindazok, akik gyakorolják a Hubológiát, a Kerék Küllõi.}
-{12084}{}{Mi értjük a Kerék mozgását, és mindent megteszünk, hogy}
-{12085}{}{megkönnyítsük a forgást. Azokat, akik a Kerék egy-egy}
-{12086}{}{részét irányítják, úgy hívjuk, hogy Hub - és tudomásunk}
-{12087}{}{szerint eleddig csak néhány Hub létezett. Megvilágoso-}
-{12088}{}{dottak, akik embertársaik sorsának jobbátételén fára-}
-{12089}{}{doztak. A Hubológia alapítójára 'A' Hub-ként emlékezünk,}
-{12090}{}{mert õ az egyetlen, akinek tanításai a legigazabbak.}
+{12083}{}{Mindazok, akik gyakoroljÃ¡k a HubolÃ³giÃ¡t, a KerÃ©k KÃ¼llÅ‘i.}
+{12084}{}{Mi Ã©rtjÃ¼k a KerÃ©k mozgÃ¡sÃ¡t, Ã©s mindent megteszÃ¼nk, hogy}
+{12085}{}{megkÃ¶nnyÃ­tsÃ¼k a forgÃ¡st. Azokat, akik a KerÃ©k egy-egy}
+{12086}{}{rÃ©szÃ©t irÃ¡nyÃ­tjÃ¡k, Ãºgy hÃ­vjuk, hogy Hub - Ã©s tudomÃ¡sunk}
+{12087}{}{szerint eleddig csak nÃ©hÃ¡ny Hub lÃ©tezett. MegvilÃ¡goso-}
+{12088}{}{dottak, akik embertÃ¡rsaik sorsÃ¡nak jobbÃ¡tÃ©telÃ©n fÃ¡ra-}
+{12089}{}{doztak. A HubolÃ³gia alapÃ­tÃ³jÃ¡ra 'A' Hub-kÃ©nt emlÃ©kezÃ¼nk,}
+{12090}{}{mert Å‘ az egyetlen, akinek tanÃ­tÃ¡sai a legigazabbak.}
 {12091}{}{**END-PAR**}
-{12092}{}{Vallásunk gyakorlásában felhasználjuk a Hub által fej-}
-{12093}{}{lesztett és a tagok által tökéletesített technikákat,}
-{12094}{}{hogy behangoljuk a hibás neurodinokat, melyek diszharmó-}
-{12095}{}{niát okoznak, és aszimmetrikus kereket hoznak létre. Ez}
-{12096}{}{lehetõvé teszi, hogy megtisztítsuk magunkat és felké-}
-{12097}{}{szüljünk az önvizsgálatra. Ez az egyetlen módja annak,}
-{12098}{}{hogy sikeresek legyünk, valamint annak, hogy megértsük}
-{12099}{}{helyünket a világegyetemben és a Nagy Keréken. Csak ön-}
-{12100}{}{vizsgálat útján fedezhetjük fel magunkban, hogy méltók}
-{12101}{}{vagyunk a tüzes gyûrûkhöz való csatlakozásra, amikoris}
-{12102}{}{találkozunk velük a Quetzel bolygón.}
+{12092}{}{VallÃ¡sunk gyakorlÃ¡sÃ¡ban felhasznÃ¡ljuk a Hub Ã¡ltal fej-}
+{12093}{}{lesztett Ã©s a tagok Ã¡ltal tÃ¶kÃ©letesÃ­tett technikÃ¡kat,}
+{12094}{}{hogy behangoljuk a hibÃ¡s neurodinokat, melyek diszharmÃ³-}
+{12095}{}{niÃ¡t okoznak, Ã©s aszimmetrikus kereket hoznak lÃ©tre. Ez}
+{12096}{}{lehetÅ‘vÃ© teszi, hogy megtisztÃ­tsuk magunkat Ã©s felkÃ©-}
+{12097}{}{szÃ¼ljÃ¼nk az Ã¶nvizsgÃ¡latra. Ez az egyetlen mÃ³dja annak,}
+{12098}{}{hogy sikeresek legyÃ¼nk, valamint annak, hogy megÃ©rtsÃ¼k}
+{12099}{}{helyÃ¼nket a vilÃ¡gegyetemben Ã©s a Nagy KerÃ©ken. Csak Ã¶n-}
+{12100}{}{vizsgÃ¡lat ÃºtjÃ¡n fedezhetjÃ¼k fel magunkban, hogy mÃ©ltÃ³k}
+{12101}{}{vagyunk a tÃ¼zes gyÅ±rÅ±khÃ¶z valÃ³ csatlakozÃ¡sra, amikoris}
+{12102}{}{talÃ¡lkozunk velÃ¼k a Quetzel bolygÃ³n.}
 {12103}{}{**END-PAR**}
-{12104}{}{Úgy gondolunk magunkra, mint egy vallásra, melyet a leg-}
-{12105}{}{jobb tudományos technikával egyesítettek. Tudományos}
-{12106}{}{szellemiség, ahogyan mi hívjuk... és reméljük, nem kell}
-{12107}{}{sok idõnek eltelnie, hogy te is így hívd!}
+{12104}{}{Ãšgy gondolunk magunkra, mint egy vallÃ¡sra, melyet a leg-}
+{12105}{}{jobb tudomÃ¡nyos technikÃ¡val egyesÃ­tettek. TudomÃ¡nyos}
+{12106}{}{szellemisÃ©g, ahogyan mi hÃ­vjuk... Ã©s remÃ©ljÃ¼k, nem kell}
+{12107}{}{sok idÅ‘nek eltelnie, hogy te is Ã­gy hÃ­vd!}
 {12108}{}{**END-PAR**}
-{12109}{}{Íme a mi teremtéstörténetünk: Korszakokkal ezelõtt}
-{12110}{}{mindenki békében és egyetértésben élt egymással. Test,}
-{12111}{}{elme és lélek egyesült minden teremtményben, a techno-}
-{12112}{}{lógiai szint minden elképzelést felülmúlt. A béke, a}
-{12113}{}{kreativitás és a behangolások kora volt, de elérkeztek a}
-{12114}{}{Sötét Napok. Thrakazog, a Kátyú elkezdte hirdetni az el-}
-{12115}{}{me és a test nagyságát, a lélek háttérbe szorítását, ami}
-{12116}{}{háborút szült. A Nagy Háború megsemmisítette a lelkeket,}
-{12117}{}{a testeket, és szétszóra maradványaikat az univerzumban.}
-{12118}{}{A Nagy Kerék közel került ahhoz, hogy leváljon a létezés}
-{12119}{}{tengelyérõl, küllõi eltörjenek a keréknyomban, melyet}
-{12120}{}{Thrakazog, a Kátyú kreált. Új életnek kellett ébrednie.}
+{12109}{}{Ãme a mi teremtÃ©stÃ¶rtÃ©netÃ¼nk: Korszakokkal ezelÅ‘tt}
+{12110}{}{mindenki bÃ©kÃ©ben Ã©s egyetÃ©rtÃ©sben Ã©lt egymÃ¡ssal. Test,}
+{12111}{}{elme Ã©s lÃ©lek egyesÃ¼lt minden teremtmÃ©nyben, a techno-}
+{12112}{}{lÃ³giai szint minden elkÃ©pzelÃ©st felÃ¼lmÃºlt. A bÃ©ke, a}
+{12113}{}{kreativitÃ¡s Ã©s a behangolÃ¡sok kora volt, de elÃ©rkeztek a}
+{12114}{}{SÃ¶tÃ©t Napok. Thrakazog, a KÃ¡tyÃº elkezdte hirdetni az el-}
+{12115}{}{me Ã©s a test nagysÃ¡gÃ¡t, a lÃ©lek hÃ¡ttÃ©rbe szorÃ­tÃ¡sÃ¡t, ami}
+{12116}{}{hÃ¡borÃºt szÃ¼lt. A Nagy HÃ¡borÃº megsemmisÃ­tette a lelkeket,}
+{12117}{}{a testeket, Ã©s szÃ©tszÃ³ra maradvÃ¡nyaikat az univerzumban.}
+{12118}{}{A Nagy KerÃ©k kÃ¶zel kerÃ¼lt ahhoz, hogy levÃ¡ljon a lÃ©tezÃ©s}
+{12119}{}{tengelyÃ©rÅ‘l, kÃ¼llÅ‘i eltÃ¶rjenek a kerÃ©knyomban, melyet}
+{12120}{}{Thrakazog, a KÃ¡tyÃº kreÃ¡lt. Ãšj Ã©letnek kellett Ã©brednie.}
 {12121}{}{**END-PAR**}
-{12122}{}{És fel is ébredt a Föld nevû bolygón, ahogyan más plané-}
-{12123}{}{tákon is szerte a világegyetemben. (Mi a Földön született}
+{12122}{}{Ã‰s fel is Ã©bredt a FÃ¶ld nevÅ± bolygÃ³n, ahogyan mÃ¡s planÃ©-}
+{12123}{}{tÃ¡kon is szerte a vilÃ¡gegyetemben. (Mi a FÃ¶ldÃ¶n szÃ¼letett}
 {12124}{}{arose on Terra, for while we believe that we will once }
-{12125}{}{ra csillagtestvéreinkkel együtt gyógyíthatjuk a Kerék}
-{12126}{}{görbe küllõit, elõször arra kell koncentrálnunk, hogy mi}
-{12127}{}{magunk is hasznos küllõk legyünk.) Az új életet megfer-}
-{12128}{}{tõzték a halott lélekfoszlányok. Ez gyûlölethez, félre-}
-{12129}{}{értésekhez vezetett. Háború sújtotta a Földet, míg egy}
-{12130}{}{nap a látnokok egyike tudatára ébredt, hogy az egyetlen}
-{12131}{}{út a békéhez, a megértéshez és a megvilágosodáshoz, ha}
-{12132}{}{megtisztítjuk az emberek lelkét a halott lélekdaraboktól.}
-{12133}{}{E látnok maga A Hub volt, s a megtisztulás ma is tart.}
+{12125}{}{ra csillagtestvÃ©reinkkel egyÃ¼tt gyÃ³gyÃ­thatjuk a KerÃ©k}
+{12126}{}{gÃ¶rbe kÃ¼llÅ‘it, elÅ‘szÃ¶r arra kell koncentrÃ¡lnunk, hogy mi}
+{12127}{}{magunk is hasznos kÃ¼llÅ‘k legyÃ¼nk.) Az Ãºj Ã©letet megfer-}
+{12128}{}{tÅ‘ztÃ©k a halott lÃ©lekfoszlÃ¡nyok. Ez gyÅ±lÃ¶lethez, fÃ©lre-}
+{12129}{}{Ã©rtÃ©sekhez vezetett. HÃ¡borÃº sÃºjtotta a FÃ¶ldet, mÃ­g egy}
+{12130}{}{nap a lÃ¡tnokok egyike tudatÃ¡ra Ã©bredt, hogy az egyetlen}
+{12131}{}{Ãºt a bÃ©kÃ©hez, a megÃ©rtÃ©shez Ã©s a megvilÃ¡gosodÃ¡shoz, ha}
+{12132}{}{megtisztÃ­tjuk az emberek lelkÃ©t a halott lÃ©lekdaraboktÃ³l.}
+{12133}{}{E lÃ¡tnok maga A Hub volt, s a megtisztulÃ¡s ma is tart.}
 {12134}{}{**END-PAR**}
-{12135}{}{RÖVID SZÓJEGYZÉK}
-{12136}{}{BHK/Behangolt Hub Keresõ: A megvilágosodás szintje a}
-{12137}{}{neurodinok tisztaságának mértékétõl függ. A test ener-}
-{12138}{}{giáját meg kell tisztítani, és át kell alakítani pozitív}
-{12139}{}{mentális energiává. Ha elegendõ nagyságú zéta-energiát}
-{12140}{}{sikerül összegyûjtened, elutazhatsz Quetzelre, vagy}
-{12141}{}{várhatsz, és reménykedhetsz, hogy a Felemelkedés még az}
-{12142}{}{életedben bekövetkezik.}
+{12135}{}{RÃ–VID SZÃ“JEGYZÃ‰K}
+{12136}{}{BHK/Behangolt Hub KeresÅ‘: A megvilÃ¡gosodÃ¡s szintje a}
+{12137}{}{neurodinok tisztasÃ¡gÃ¡nak mÃ©rtÃ©kÃ©tÅ‘l fÃ¼gg. A test ener-}
+{12138}{}{giÃ¡jÃ¡t meg kell tisztÃ­tani, Ã©s Ã¡t kell alakÃ­tani pozitÃ­v}
+{12139}{}{mentÃ¡lis energiÃ¡vÃ¡. Ha elegendÅ‘ nagysÃ¡gÃº zÃ©ta-energiÃ¡t}
+{12140}{}{sikerÃ¼l Ã¶sszegyÅ±jtened, elutazhatsz Quetzelre, vagy}
+{12141}{}{vÃ¡rhatsz, Ã©s remÃ©nykedhetsz, hogy a FelemelkedÃ©s mÃ©g az}
+{12142}{}{Ã©letedben bekÃ¶vetkezik.}
 {12143}{}{**END-PAR**}
-{12144}{}{Behangolás: Ha egy neurodin szennyezett és alacsonyan}
-{12145}{}{tartja a Keresõ zéta-szintjét, egy zéta-szken végrehaj-}
-{12146}{}{tásával hozzáhangoljuk a szintet a világegyetem Kereké-}
-{12147}{}{hez. Ezzel tisztítjuk meg a neurodint a szennytõl. Túl}
-{12148}{}{nagymértékû hangolás jelentõsen károsíthatja a lelket.}
+{12144}{}{BehangolÃ¡s: Ha egy neurodin szennyezett Ã©s alacsonyan}
+{12145}{}{tartja a KeresÅ‘ zÃ©ta-szintjÃ©t, egy zÃ©ta-szken vÃ©grehaj-}
+{12146}{}{tÃ¡sÃ¡val hozzÃ¡hangoljuk a szintet a vilÃ¡gegyetem KerekÃ©-}
+{12147}{}{hez. Ezzel tisztÃ­tjuk meg a neurodint a szennytÅ‘l. TÃºl}
+{12148}{}{nagymÃ©rtÃ©kÅ± hangolÃ¡s jelentÅ‘sen kÃ¡rosÃ­thatja a lelket.}
 {12149}{}{**END-PAR**}
-{12150}{}{Megvilágosodás: A BHK-9 utáni állapotot hívjuk megvilá-}
-{12151}{}{gosodásnak, amikor a Keresõ már olyan nagy tudásra tett}
-{12152}{}{szert, hogy szerves részévé válik a Nagy Keréknek, és}
-{12153}{}{itthagyja földi létezését. A Megvilágosodottak közül}
-{12154}{}{néhányan ittmaradnak Terrán, hogy elvezessenek minket a}
-{12155}{}{megváltásba, hogy megmutassák nekünk, mi módon irányít-}
-{12156}{}{suk saját életünk Kerekét.}
+{12150}{}{MegvilÃ¡gosodÃ¡s: A BHK-9 utÃ¡ni Ã¡llapotot hÃ­vjuk megvilÃ¡-}
+{12151}{}{gosodÃ¡snak, amikor a KeresÅ‘ mÃ¡r olyan nagy tudÃ¡sra tett}
+{12152}{}{szert, hogy szerves rÃ©szÃ©vÃ© vÃ¡lik a Nagy KerÃ©knek, Ã©s}
+{12153}{}{itthagyja fÃ¶ldi lÃ©tezÃ©sÃ©t. A MegvilÃ¡gosodottak kÃ¶zÃ¼l}
+{12154}{}{nÃ©hÃ¡nyan ittmaradnak TerrÃ¡n, hogy elvezessenek minket a}
+{12155}{}{megvÃ¡ltÃ¡sba, hogy megmutassÃ¡k nekÃ¼nk, mi mÃ³don irÃ¡nyÃ­t-}
+{12156}{}{suk sajÃ¡t Ã©letÃ¼nk KerekÃ©t.}
 {12157}{}{**END-PAR**}
-{12158}{}{Nagy Kerék: A kerék utal az univerzum, az ûr és az idõ}
-{12159}{}{ciklikus természetére. Minden része a Nagy Keréknek.}
-{12160}{}{Néhányan irányítani is tudják a Kereket -vagy csak egy-}
-{12161}{}{szerûen ismerik az irányt, amerre a Kerék gördül-, õket}
-{12162}{}{hívjuk isteneknek, prófétáknak vagy látnokoknak. Minda-}
-{12163}{}{zok, akik értik és irányítják a Nagy Kereket, az igazán}
-{12164}{}{megvilágosodottak.}
+{12158}{}{Nagy KerÃ©k: A kerÃ©k utal az univerzum, az Å±r Ã©s az idÅ‘}
+{12159}{}{ciklikus termÃ©szetÃ©re. Minden rÃ©sze a Nagy KerÃ©knek.}
+{12160}{}{NÃ©hÃ¡nyan irÃ¡nyÃ­tani is tudjÃ¡k a Kereket -vagy csak egy-}
+{12161}{}{szerÅ±en ismerik az irÃ¡nyt, amerre a KerÃ©k gÃ¶rdÃ¼l-, Å‘ket}
+{12162}{}{hÃ­vjuk isteneknek, prÃ³fÃ©tÃ¡knak vagy lÃ¡tnokoknak. Minda-}
+{12163}{}{zok, akik Ã©rtik Ã©s irÃ¡nyÃ­tjÃ¡k a Nagy Kereket, az igazÃ¡n}
+{12164}{}{megvilÃ¡gosodottak.}
 {12165}{}{**END-PAR**}
-{12166}{}{Neurodin: A lélek különbözõ állapotai a neurodinok. Az}
-{12167}{}{õsi vallások "shakra" néven emlékeznek rájuk. Lélekfosz-}
-{12168}{}{lányok és elnyomóktól származó negatív energia szennyez-}
-{12169}{}{heti õket.}
+{12166}{}{Neurodin: A lÃ©lek kÃ¼lÃ¶nbÃ¶zÅ‘ Ã¡llapotai a neurodinok. Az}
+{12167}{}{Å‘si vallÃ¡sok "shakra" nÃ©ven emlÃ©keznek rÃ¡juk. LÃ©lekfosz-}
+{12168}{}{lÃ¡nyok Ã©s elnyomÃ³ktÃ³l szÃ¡rmazÃ³ negatÃ­v energia szennyez-}
+{12169}{}{heti Å‘ket.}
 {12170}{}{**END-PAR**}
-{12171}{}{Elnyomók: Elnyomóknak hívjuk azokat, akik annyira telve}
-{12172}{}{vannak negatív energiával és szennyezett lélekfoszlá-}
-{12173}{}{nyokkal, hogy puszta jelenlétükkel hátráltathatják a}
-{12174}{}{megvilágosodást keresõket. Elkerülendõk, mivel sokan}
-{12175}{}{közülük oly mértékben szennyesek, hogy nem fogják fel}
-{12176}{}{a megtisztulás értékét. Mindent megtesznek, hogy}
-{12177}{}{a Nagy Kereket eltérítsék a pályájáról.}
+{12171}{}{ElnyomÃ³k: ElnyomÃ³knak hÃ­vjuk azokat, akik annyira telve}
+{12172}{}{vannak negatÃ­v energiÃ¡val Ã©s szennyezett lÃ©lekfoszlÃ¡-}
+{12173}{}{nyokkal, hogy puszta jelenlÃ©tÃ¼kkel hÃ¡trÃ¡ltathatjÃ¡k a}
+{12174}{}{megvilÃ¡gosodÃ¡st keresÅ‘ket. ElkerÃ¼lendÅ‘k, mivel sokan}
+{12175}{}{kÃ¶zÃ¼lÃ¼k oly mÃ©rtÃ©kben szennyesek, hogy nem fogjÃ¡k fel}
+{12176}{}{a megtisztulÃ¡s Ã©rtÃ©kÃ©t. Mindent megtesznek, hogy}
+{12177}{}{a Nagy Kereket eltÃ©rÃ­tsÃ©k a pÃ¡lyÃ¡jÃ¡rÃ³l.}
 {12178}{}{**END-PAR**}
-{12179}{}{Quetzel: A bolygó, ahova a Csillagbéli Atya visz minket,}
-{12180}{}{miután optimalizálódtunk. A bolygó, ahol találkozunk}
-{12181}{}{majd csillagtestvéreinkkel és egyesülünk velük az ég}
-{12182}{}{tüzes kerekeiben.}
+{12179}{}{Quetzel: A bolygÃ³, ahova a CsillagbÃ©li Atya visz minket,}
+{12180}{}{miutÃ¡n optimalizÃ¡lÃ³dtunk. A bolygÃ³, ahol talÃ¡lkozunk}
+{12181}{}{majd csillagtestvÃ©reinkkel Ã©s egyesÃ¼lÃ¼nk velÃ¼k az Ã©g}
+{12182}{}{tÃ¼zes kerekeiben.}
 {12183}{}{**END-PAR**}
-{12184}{}{Perem Pép: Azok az emberek, akik még nincsenek behan-}
-{12185}{}{golva, neurodinjaik még nem tiszták.}
+{12184}{}{Perem PÃ©p: Azok az emberek, akik mÃ©g nincsenek behan-}
+{12185}{}{golva, neurodinjaik mÃ©g nem tisztÃ¡k.}
 {12186}{}{**END-PAR**}
-{12187}{}{Csillagbéli Atya: Néhányan esetleg "Istennek" hívnák õt,}
-{12188}{}{mi úgy gondolunk rá, mint a mindenható erõre, melybõl}
-{12189}{}{az energiánkat nyerjük, s amely a mi energiánkból táp-}
-{12190}{}{lálkozik. Ez is egyfajta körkörös viszony.}
+{12187}{}{CsillagbÃ©li Atya: NÃ©hÃ¡nyan esetleg "Istennek" hÃ­vnÃ¡k Å‘t,}
+{12188}{}{mi Ãºgy gondolunk rÃ¡, mint a mindenhatÃ³ erÅ‘re, melybÅ‘l}
+{12189}{}{az energiÃ¡nkat nyerjÃ¼k, s amely a mi energiÃ¡nkbÃ³l tÃ¡p-}
+{12190}{}{lÃ¡lkozik. Ez is egyfajta kÃ¶rkÃ¶rÃ¶s viszony.}
 {12191}{}{**END-PAR**}
-{12192}{}{Felemelkedés: Csillagbéli Atyánk hazaszólít bennünket }
-{12193}{}{Quetzelre, ahol földönkívüli testvéreinkkel találkoz-}
-{12194}{}{hatunk, és közelebb kerülhetünk a Nagy Kerék tenge-}
-{12195}{}{lyéhez. Mindazok, akik erõfeszítést tesznek, hogy}
-{12196}{}{megértsék és magukévá tegyék a Hub tanait, függetlenül}
-{12197}{}{a BHK szintjüktõl, meghívatnak, hogy egyesülhessenek a}
-{12198}{}{Csillagbéli Atyával a mennyekben, a Quetzel bolygón.}
+{12192}{}{FelemelkedÃ©s: CsillagbÃ©li AtyÃ¡nk hazaszÃ³lÃ­t bennÃ¼nket }
+{12193}{}{Quetzelre, ahol fÃ¶ldÃ¶nkÃ­vÃ¼li testvÃ©reinkkel talÃ¡lkoz-}
+{12194}{}{hatunk, Ã©s kÃ¶zelebb kerÃ¼lhetÃ¼nk a Nagy KerÃ©k tenge-}
+{12195}{}{lyÃ©hez. Mindazok, akik erÅ‘feszÃ­tÃ©st tesznek, hogy}
+{12196}{}{megÃ©rtsÃ©k Ã©s magukÃ©vÃ¡ tegyÃ©k a Hub tanait, fÃ¼ggetlenÃ¼l}
+{12197}{}{a BHK szintjÃ¼ktÅ‘l, meghÃ­vatnak, hogy egyesÃ¼lhessenek a}
+{12198}{}{CsillagbÃ©li AtyÃ¡val a mennyekben, a Quetzel bolygÃ³n.}
 {12199}{}{**END-PAR**}
-{12200}{}{Zéta-szken: A "behangolás" másik elnevezése. A zéta-}
-{12201}{}{szken kitisztítja a neurodinokat és megtisztítja a}
-{12202}{}{lelket. Egy gép végzi, mely erõs elektromos dózisokat}
-{12203}{}{juttat keresztül a bõrön. A feszültséget gondosan kell}
-{12204}{}{beállítani a megfelelõ mértékre, hogy az áramadagok}
-{12205}{}{kiûzzék a neurodinból a negatív energiát. Ha aláveted}
-{12206}{}{magad a zéta-szkennek, az életed útiránya megváltozik,}
-{12207}{}{hogy összhangba kerüljön a Nagy Kerék mozgásának}
-{12208}{}{irányával.}
+{12200}{}{ZÃ©ta-szken: A "behangolÃ¡s" mÃ¡sik elnevezÃ©se. A zÃ©ta-}
+{12201}{}{szken kitisztÃ­tja a neurodinokat Ã©s megtisztÃ­tja a}
+{12202}{}{lelket. Egy gÃ©p vÃ©gzi, mely erÅ‘s elektromos dÃ³zisokat}
+{12203}{}{juttat keresztÃ¼l a bÅ‘rÃ¶n. A feszÃ¼ltsÃ©get gondosan kell}
+{12204}{}{beÃ¡llÃ­tani a megfelelÅ‘ mÃ©rtÃ©kre, hogy az Ã¡ramadagok}
+{12205}{}{kiÅ±zzÃ©k a neurodinbÃ³l a negatÃ­v energiÃ¡t. Ha alÃ¡veted}
+{12206}{}{magad a zÃ©ta-szkennek, az Ã©leted ÃºtirÃ¡nya megvÃ¡ltozik,}
+{12207}{}{hogy Ã¶sszhangba kerÃ¼ljÃ¶n a Nagy KerÃ©k mozgÃ¡sÃ¡nak}
+{12208}{}{irÃ¡nyÃ¡val.}
 {12209}{}{**END-PAR**}
-{12210}{}{BIBLIOGRÁFIA}
-{12211}{}{A Hub könyvei: (A címszó alatt több száz könyv címe}
-{12212}{}{található, úgymint: Tudományos szellemiség, Háború}
-{12213}{}{Quetzelen, Csillagbéli Atya a mennyekben, Bevásárló-}
-{12214}{}{listák gyûjteménye, Jegyzetek és elmélkedések, Hogyan}
-{12215}{}{pereld az ellenségeidet hatékonyan, Hogyan teremtsünk}
-{12216}{}{kultuszt és A jövõ könyvei, amelyeket halálom után}
-{12217}{}{írok.)}
+{12210}{}{BIBLIOGRÃFIA}
+{12211}{}{A Hub kÃ¶nyvei: (A cÃ­mszÃ³ alatt tÃ¶bb szÃ¡z kÃ¶nyv cÃ­me}
+{12212}{}{talÃ¡lhatÃ³, Ãºgymint: TudomÃ¡nyos szellemisÃ©g, HÃ¡borÃº}
+{12213}{}{Quetzelen, CsillagbÃ©li Atya a mennyekben, BevÃ¡sÃ¡rlÃ³-}
+{12214}{}{listÃ¡k gyÅ±jtemÃ©nye, Jegyzetek Ã©s elmÃ©lkedÃ©sek, Hogyan}
+{12215}{}{pereld az ellensÃ©geidet hatÃ©konyan, Hogyan teremtsÃ¼nk}
+{12216}{}{kultuszt Ã©s A jÃ¶vÅ‘ kÃ¶nyvei, amelyeket halÃ¡lom utÃ¡n}
+{12217}{}{Ã­rok.)}
 {12218}{}{**END-DISK**}
 {13000}{}{VAULT CITY DESIGNER NOTES}
 {13001}{}{**END-PAR**}
 {13002}{}{Vault City went through many incarnations. It was}
-{13003}{}{Anderson, Feargus Urquhart, és Chris Avellone tervezte.}
-{13004}{}{Scott Everts készítette a térképeket, a bátor ember pe-}
-{13005}{}{dig, aki ezt az építészeti Frankensteint szkriptelte nem}
-{13006}{}{más, mint Rob Hertenstein III és Dan Spitzley. Végül}
-{13007}{}{Eric Pribish volt az, aki majdnem az életét vesztette}
-{13008}{}{Menedékváros szörnyetegének tesztelése közben.}
+{13003}{}{Anderson, Feargus Urquhart, Ã©s Chris Avellone tervezte.}
+{13004}{}{Scott Everts kÃ©szÃ­tette a tÃ©rkÃ©peket, a bÃ¡tor ember pe-}
+{13005}{}{dig, aki ezt az Ã©pÃ­tÃ©szeti Frankensteint szkriptelte nem}
+{13006}{}{mÃ¡s, mint Rob Hertenstein III Ã©s Dan Spitzley. VÃ©gÃ¼l}
+{13007}{}{Eric Pribish volt az, aki majdnem az Ã©letÃ©t vesztette}
+{13008}{}{MenedÃ©kvÃ¡ros szÃ¶rnyetegÃ©nek tesztelÃ©se kÃ¶zben.}
 {13009}{}{**END-PAR**}
-{13010}{}{Chris a következõknek szeretne köszönetet mondani, akik}
-{13011}{}{segítettek a Fallout 2 létrehozásában: Robnak, Scotty-}
-{13012}{}{nak és (természetesen) Dannek, Eileen Suhnak, Sarah}
-{13013}{}{Smartnak, Emily Yancenek, Thuy Dangnak (neki sosem kö-}
-{13014}{}{szöntem meg semmit), Chris Wrightnak és Tim Winklenek.}
+{13010}{}{Chris a kÃ¶vetkezÅ‘knek szeretne kÃ¶szÃ¶netet mondani, akik}
+{13011}{}{segÃ­tettek a Fallout 2 lÃ©trehozÃ¡sÃ¡ban: Robnak, Scotty-}
+{13012}{}{nak Ã©s (termÃ©szetesen) Dannek, Eileen Suhnak, Sarah}
+{13013}{}{Smartnak, Emily Yancenek, Thuy Dangnak (neki sosem kÃ¶-}
+{13014}{}{szÃ¶ntem meg semmit), Chris Wrightnak Ã©s Tim Winklenek.}
 {13015}{}{**END-PAR**}
-{13016}{}{Scotty nekik szeretne köszönetet mondani: Don & Aileen}
-{13017}{}{Evertsnek és Avis Andrenak. Továbbá kösz Bill Bridges-}
-{13018}{}{nek azokért a frankó Fading Suns könyvekért!}
+{13016}{}{Scotty nekik szeretne kÃ¶szÃ¶netet mondani: Don & Aileen}
+{13017}{}{Evertsnek Ã©s Avis Andrenak. TovÃ¡bbÃ¡ kÃ¶sz Bill Bridges-}
+{13018}{}{nek azokÃ©rt a frankÃ³ Fading Suns kÃ¶nyvekÃ©rt!}
 {13019}{}{**END-PAR**}
-{13020}{}{Dan köszönetnyilvánítása a következõ embereknek szól:}
-{13021}{}{Split Enznek a jó kis zenékért, James Cameronnak a}
-{13022}{}{True Lies-ért, Joe Viskocilnek a fasza robbanásokért,}
-{13023}{}{a Chong's étteremnek a Triangle téren a kajáért,}
-{13024}{}{Carlos Kotkinnak, amiért végül megpróbálta (hamarosan}
-{13025}{}{láthatjátok az elsõ nagyfilmjének premierjét), Jon}
-{13026}{}{Landnek a szórakoztatóan valószínûtlen Blaine McCracken}
-{13027}{}{novellákért, Red Dwarfnak a nevetésekért és végül, mint}
-{13028}{}{mindig, Apunak és Anyunak, amiért jók voltak hozzám.}
+{13020}{}{Dan kÃ¶szÃ¶netnyilvÃ¡nÃ­tÃ¡sa a kÃ¶vetkezÅ‘ embereknek szÃ³l:}
+{13021}{}{Split Enznek a jÃ³ kis zenÃ©kÃ©rt, James Cameronnak a}
+{13022}{}{True Lies-Ã©rt, Joe Viskocilnek a fasza robbanÃ¡sokÃ©rt,}
+{13023}{}{a Chong's Ã©tteremnek a Triangle tÃ©ren a kajÃ¡Ã©rt,}
+{13024}{}{Carlos Kotkinnak, amiÃ©rt vÃ©gÃ¼l megprÃ³bÃ¡lta (hamarosan}
+{13025}{}{lÃ¡thatjÃ¡tok az elsÅ‘ nagyfilmjÃ©nek premierjÃ©t), Jon}
+{13026}{}{Landnek a szÃ³rakoztatÃ³an valÃ³szÃ­nÅ±tlen Blaine McCracken}
+{13027}{}{novellÃ¡kÃ©rt, Red Dwarfnak a nevetÃ©sekÃ©rt Ã©s vÃ©gÃ¼l, mint}
+{13028}{}{mindig, Apunak Ã©s Anyunak, amiÃ©rt jÃ³k voltak hozzÃ¡m.}
 {13029}{}{**END-PAR**}
-{13030}{}{Rob Hertenstein nekik szeretne köszönetet nyilvánítani:}
-{13031}{}{Becky Warnernek (aki most is megpróbál megvédeni a baj-}
-{13032}{}{tól), Billie Rydernek (amiért megóvott a megõrüléstõl a}
-{13033}{}{a projekt alatt), Little Rydernek (aki várhatóan hama-}
-{13034}{}{rosan megérkezik, egyidõben a játékkal) és Nicole}
-{13035}{}{Romannek (amiért ott volt).}
+{13030}{}{Rob Hertenstein nekik szeretne kÃ¶szÃ¶netet nyilvÃ¡nÃ­tani:}
+{13031}{}{Becky Warnernek (aki most is megprÃ³bÃ¡l megvÃ©deni a baj-}
+{13032}{}{tÃ³l), Billie Rydernek (amiÃ©rt megÃ³vott a megÅ‘rÃ¼lÃ©stÅ‘l a}
+{13033}{}{a projekt alatt), Little Rydernek (aki vÃ¡rhatÃ³an hama-}
+{13034}{}{rosan megÃ©rkezik, egyidÅ‘ben a jÃ¡tÃ©kkal) Ã©s Nicole}
+{13035}{}{Romannek (amiÃ©rt ott volt).}
 {13036}{}{**END-PAR**}
-{13037}{}{Eric Pribish köszönetnyilvánítása nekik szól: Tommy Hood,}
-{13038}{}{Jr.-nak, Joe Isipnek és Julio Matanak, amiért nem}
-{13039}{}{tagadtak meg, amikor át kellett mennem a D&D-sekhez.}
-{13040}{}{Régi barátaimnak, Brad és Dave Carnesnek, amiért kapcso-}
-{13041}{}{latban maradtunk. Végül, és legjobban, meg szeretném}
-{13042}{}{köszönni szeretõ barátnõmnek Rhonda Lauffernek, amiért}
-{13043}{}{mindig megértett, mikor hosszú éjszakákon és hétvégéken}
-{13044}{}{át nem lehettem vele, és amiért mindig ott volt, amikor}
-{13045}{}{éppen hazaérkeztem.}
+{13037}{}{Eric Pribish kÃ¶szÃ¶netnyilvÃ¡nÃ­tÃ¡sa nekik szÃ³l: Tommy Hood,}
+{13038}{}{Jr.-nak, Joe Isipnek Ã©s Julio Matanak, amiÃ©rt nem}
+{13039}{}{tagadtak meg, amikor Ã¡t kellett mennem a D&D-sekhez.}
+{13040}{}{RÃ©gi barÃ¡taimnak, Brad Ã©s Dave Carnesnek, amiÃ©rt kapcso-}
+{13041}{}{latban maradtunk. VÃ©gÃ¼l, Ã©s legjobban, meg szeretnÃ©m}
+{13042}{}{kÃ¶szÃ¶nni szeretÅ‘ barÃ¡tnÅ‘mnek Rhonda Lauffernek, amiÃ©rt}
+{13043}{}{mindig megÃ©rtett, mikor hosszÃº Ã©jszakÃ¡kon Ã©s hÃ©tvÃ©gÃ©ken}
+{13044}{}{Ã¡t nem lehettem vele, Ã©s amiÃ©rt mindig ott volt, amikor}
+{13045}{}{Ã©ppen hazaÃ©rkeztem.}
 {13046}{}{**END-PAR**}
-{13047}{}{Kitüntetésként, amiért legyõzted az Enklávét, Chris,}
-{13048}{}{Scotty, Rob, Dan és Eric meg szeretné ragadni az alkal-}
-{13049}{}{mat, hogy elmondják neked a következõt: menj a szint bal}
-{13050}{}{felsõ számítógép-termináljához és használd!}
+{13047}{}{KitÃ¼ntetÃ©skÃ©nt, amiÃ©rt legyÅ‘zted az EnklÃ¡vÃ©t, Chris,}
+{13048}{}{Scotty, Rob, Dan Ã©s Eric meg szeretnÃ© ragadni az alkal-}
+{13049}{}{mat, hogy elmondjÃ¡k neked a kÃ¶vetkezÅ‘t: menj a szint bal}
+{13050}{}{felsÅ‘ szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡ljÃ¡hoz Ã©s hasznÃ¡ld!}
 {13051}{}{**END-PAR**}
-{13052}{}{Gratulálunk a világ megmentéséhez! És még egyszer kösz,}
-{13053}{}{hogy a Fallout 2-vel játszottál.}
+{13052}{}{GratulÃ¡lunk a vilÃ¡g megmentÃ©sÃ©hez! Ã‰s mÃ©g egyszer kÃ¶sz,}
+{13053}{}{hogy a Fallout 2-vel jÃ¡tszottÃ¡l.}
 {13054}{}{**END-DISK**}
-{14000}{}{MENEDÉKVÁROS ÉSZAK KALIFORNIAI ÚTIKALAUZA}
+{14000}{}{MENEDÃ‰KVÃROS Ã‰SZAK KALIFORNIAI ÃšTIKALAUZA}
 {14001}{}{**END-PAR**}
-{14002}{}{FIGYELEM: Amennyiben bármely Menedékpolgár szüksé-}
-{14003}{}{gesnek találja a Menedékvároson kívüli utazást, magával}
-{14004}{}{kell vinnie az alábbi listán felsoroltakat:}
+{14002}{}{FIGYELEM: Amennyiben bÃ¡rmely MenedÃ©kpolgÃ¡r szÃ¼ksÃ©-}
+{14003}{}{gesnek talÃ¡lja a MenedÃ©kvÃ¡roson kÃ­vÃ¼li utazÃ¡st, magÃ¡val}
+{14004}{}{kell vinnie az alÃ¡bbi listÃ¡n felsoroltakat:}
 {14005}{}{}
-{14006}{}{1. Egy adag Menedékvárosban elõre csomagolt élelmiszer.}
-{14007}{}{   Soha ne egyél kívülálló által felajánlott ételbõl,}
-{14008}{}{   mert baktériumokat vagy radioaktív anyagokat juttat-}
+{14006}{}{1. Egy adag MenedÃ©kvÃ¡rosban elÅ‘re csomagolt Ã©lelmiszer.}
+{14007}{}{   Soha ne egyÃ©l kÃ­vÃ¼lÃ¡llÃ³ Ã¡ltal felajÃ¡nlott Ã©telbÅ‘l,}
+{14008}{}{   mert baktÃ©riumokat vagy radioaktÃ­v anyagokat juttat-}
 {14009}{}{   hatnak a szervezetedbe!}
 {14010}{}{}
-{14011}{}{2. Egy Geiger-számláló. Rendszeresen ellenõrizd a hát-}
-{14012}{}{   térsugárzást, akármerre is utazz!}
+{14011}{}{2. Egy Geiger-szÃ¡mlÃ¡lÃ³. Rendszeresen ellenÅ‘rizd a hÃ¡t-}
+{14012}{}{   tÃ©rsugÃ¡rzÃ¡st, akÃ¡rmerre is utazz!}
 {14013}{}{}
-{14014}{}{3. Szinte mindig legalább két stimpakk. A legkönnyebb}
-{14015}{}{   sérülésen keresztül is veszélyes baktériumok jut-}
+{14014}{}{3. Szinte mindig legalÃ¡bb kÃ©t stimpakk. A legkÃ¶nnyebb}
+{14015}{}{   sÃ©rÃ¼lÃ©sen keresztÃ¼l is veszÃ©lyes baktÃ©riumok jut-}
 {14016}{}{   hatnak a szervezetedbe!}
 {14017}{}{**END-PAR**}
-{14018}{}{REDDING: Kis bányászközösség Menedékvárostól nyugat-}
-{14019}{}{ra. Redding aranyércet szállít Menedékvárosnak orvosi}
-{14020}{}{felszerelésekért cserébe. Fokozott óvatosságra intünk}
+{14018}{}{REDDING: Kis bÃ¡nyÃ¡szkÃ¶zÃ¶ssÃ©g MenedÃ©kvÃ¡rostÃ³l nyugat-}
+{14019}{}{ra. Redding aranyÃ©rcet szÃ¡llÃ­t MenedÃ©kvÃ¡rosnak orvosi}
+{14020}{}{felszerelÃ©sekÃ©rt cserÃ©be. Fokozott Ã³vatossÃ¡gra intÃ¼nk}
 {14021}{}{to exercise extreme caution when traveling inside}
-{14022}{}{bányászokat és lakosokat nem felügyelik karhatalmi}
+{14022}{}{bÃ¡nyÃ¡szokat Ã©s lakosokat nem felÃ¼gyelik karhatalmi}
 {14023}{}{szervek.}
 {14024}{}{}
-{14025}{}{NÉPESSÉG: Népszámlálási adatok nincsenek, de Redding}
-{14026}{}{lakóinak számát több százra becsülik.}
-{14027}{}{KORMÁNYZÁS: Polgármester és falutanács.}
-{14028}{}{HÁTTÉRSUGÁRZÁS MÉRTÉKE: Érvényes mérési adat}
+{14025}{}{NÃ‰PESSÃ‰G: NÃ©pszÃ¡mlÃ¡lÃ¡si adatok nincsenek, de Redding}
+{14026}{}{lakÃ³inak szÃ¡mÃ¡t tÃ¶bb szÃ¡zra becsÃ¼lik.}
+{14027}{}{KORMÃNYZÃS: PolgÃ¡rmester Ã©s falutanÃ¡cs.}
+{14028}{}{HÃTTÃ‰RSUGÃRZÃS MÃ‰RTÃ‰KE: Ã‰rvÃ©nyes mÃ©rÃ©si adat}
 {14029}{}{nincs.}
-{14030}{}{MUTÁCIÓ MÉRTÉKE: Ismeretlen, alacsonyra becsült.}
+{14030}{}{MUTÃCIÃ“ MÃ‰RTÃ‰KE: Ismeretlen, alacsonyra becsÃ¼lt.}
 {14031}{}{**END-PAR**}
-{14032}{}{NEW RENO: Menedékvárostól dél-nyugatra fekvõ város.}
-{14033}{}{Aranyércet ad Menedékváros orvosi felszereléseiért}
-{14034}{}{cserébe. A háború alatt kisebb épületi sérüléseket}
-{14035}{}{szenvedett (a lopások és egyéb vagyoni károk sem}
-{14036}{}{javítottak a mérlegen), így több utca és épület épen}
-{14037}{}{maradt. Figyelem, nincsenek központi igazgatási és}
+{14032}{}{NEW RENO: MenedÃ©kvÃ¡rostÃ³l dÃ©l-nyugatra fekvÅ‘ vÃ¡ros.}
+{14033}{}{AranyÃ©rcet ad MenedÃ©kvÃ¡ros orvosi felszerelÃ©seiÃ©rt}
+{14034}{}{cserÃ©be. A hÃ¡borÃº alatt kisebb Ã©pÃ¼leti sÃ©rÃ¼lÃ©seket}
+{14035}{}{szenvedett (a lopÃ¡sok Ã©s egyÃ©b vagyoni kÃ¡rok sem}
+{14036}{}{javÃ­tottak a mÃ©rlegen), Ã­gy tÃ¶bb utca Ã©s Ã©pÃ¼let Ã©pen}
+{14037}{}{maradt. Figyelem, nincsenek kÃ¶zponti igazgatÃ¡si Ã©s}
 {14038}{}{enforcement. Gambling, prostitution, and drug use}
-{14039}{}{a szerencsejáték és a drogfogyasztás. Minden}
-{14040}{}{Menedékpolgárt óva intünk Reno meglátogatásától!}
+{14039}{}{a szerencsejÃ¡tÃ©k Ã©s a drogfogyasztÃ¡s. Minden}
+{14040}{}{MenedÃ©kpolgÃ¡rt Ã³va intÃ¼nk Reno meglÃ¡togatÃ¡sÃ¡tÃ³l!}
 {14041}{}{}
-{14042}{}{NÉPESSÉG: Népszámlálási adatok nincsenek, több}
-{14043}{}{ezer... "emberre" becsült.}
-{14044}{}{KORMÁNYZÁS: New Reno jelenleg anarchia-közeli álla-}
-{14045}{}{potban van. Jelentések szerint a várost "bûnözõcsa-}
-{14046}{}{ládok" osztották fel egymás között.}
-{14047}{}{HÁTTÉRSUGÁRZÁS MÉRTÉKE: Érvényes mérési adat}
+{14042}{}{NÃ‰PESSÃ‰G: NÃ©pszÃ¡mlÃ¡lÃ¡si adatok nincsenek, tÃ¶bb}
+{14043}{}{ezer... "emberre" becsÃ¼lt.}
+{14044}{}{KORMÃNYZÃS: New Reno jelenleg anarchia-kÃ¶zeli Ã¡lla-}
+{14045}{}{potban van. JelentÃ©sek szerint a vÃ¡rost "bÅ±nÃ¶zÅ‘csa-}
+{14046}{}{lÃ¡dok" osztottÃ¡k fel egymÃ¡s kÃ¶zÃ¶tt.}
+{14047}{}{HÃTTÃ‰RSUGÃRZÃS MÃ‰RTÃ‰KE: Ã‰rvÃ©nyes mÃ©rÃ©si adat}
 {14048}{}{nincs.}
-{14049}{}{MUTÁCIÓ MÉRTÉKE: Ismeretlen, alacsonyra becsült.}
+{14049}{}{MUTÃCIÃ“ MÃ‰RTÃ‰KE: Ismeretlen, alacsonyra becsÃ¼lt.}
 {14050}{}{**END-PAR**}
-{14051}{}{ÚJ KALIFORNIA KÖZTÁRSASÁG: Tartományai délre}
-{14052}{}{találhatók Menedékvárostól. Gépalkatrészeket, aranyat}
-{14053}{}{és különbözõ többlettermékeket kínál Menedékváros}
-{14054}{}{orvosi technológiájáért cserébe. Az ÚKK a közelmúltban}
-{14055}{}{lépéseket tett, hogy magához csatolja Menedékvárost}
-{14056}{}{északi határvárosként, tehát minden Menedékpolgár}
-{14057}{}{fokozott óvatossággal utazzon az ÚKK-ba!}
+{14051}{}{ÃšJ KALIFORNIA KÃ–ZTÃRSASÃG: TartomÃ¡nyai dÃ©lre}
+{14052}{}{talÃ¡lhatÃ³k MenedÃ©kvÃ¡rostÃ³l. GÃ©palkatrÃ©szeket, aranyat}
+{14053}{}{Ã©s kÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¶bblettermÃ©keket kÃ­nÃ¡l MenedÃ©kvÃ¡ros}
+{14054}{}{orvosi technolÃ³giÃ¡jÃ¡Ã©rt cserÃ©be. Az ÃšKK a kÃ¶zelmÃºltban}
+{14055}{}{lÃ©pÃ©seket tett, hogy magÃ¡hoz csatolja MenedÃ©kvÃ¡rost}
+{14056}{}{Ã©szaki hatÃ¡rvÃ¡roskÃ©nt, tehÃ¡t minden MenedÃ©kpolgÃ¡r}
+{14057}{}{fokozott Ã³vatossÃ¡ggal utazzon az ÃšKK-ba!}
 {14058}{}{}
-{14059}{}{NÉPESSÉG: Bár népszámlálás volt foganatosítva, nem}
-{14060}{}{tudunk hozzáférni az adatokhoz. Az ÚKK lakóinak száma}
-{14061}{}{több tízezerre becsülhetõ.}
-{14062}{}{KORMÁNYZÁS: Elnök és kongresszus.}
-{14063}{}{HÁTTÉRSUGÁRZÁS MÉRTÉKE: Érvényes mérési adat}
+{14059}{}{NÃ‰PESSÃ‰G: BÃ¡r nÃ©pszÃ¡mlÃ¡lÃ¡s volt foganatosÃ­tva, nem}
+{14060}{}{tudunk hozzÃ¡fÃ©rni az adatokhoz. Az ÃšKK lakÃ³inak szÃ¡ma}
+{14061}{}{tÃ¶bb tÃ­zezerre becsÃ¼lhetÅ‘.}
+{14062}{}{KORMÃNYZÃS: ElnÃ¶k Ã©s kongresszus.}
+{14063}{}{HÃTTÃ‰RSUGÃRZÃS MÃ‰RTÃ‰KE: Ã‰rvÃ©nyes mÃ©rÃ©si adat}
 {14064}{}{nincs.}
-{14065}{}{MUTÁCIÓ MÉRTÉKE: Területenként változó.}
+{14065}{}{MUTÃCIÃ“ MÃ‰RTÃ‰KE: TerÃ¼letenkÃ©nt vÃ¡ltozÃ³.}
 {14066}{}{**END-PAR**}
-{14067}{}{BROKEN HILLS: Bányászközösség délre Menedékváros-}
-{14068}{}{tól, mely uránércet bányászik. Az ércet Menedékváros}
-{14069}{}{orvosi felszereléseire cseréli, leginkább Rad-X-re és}
-{14070}{}{RadAway-re. Az embereket mutánsokkal és ghoulokkal}
-{14071}{}{való együttélésre kényszerítik a városban. A lakók}
-{14072}{}{természete és a fertõzés magas valószínûsége miatt}
-{14073}{}{minden menedékpolgár kerülje el Broken Hills városát,}
-{14074}{}{bármi áron!}
+{14067}{}{BROKEN HILLS: BÃ¡nyÃ¡szkÃ¶zÃ¶ssÃ©g dÃ©lre MenedÃ©kvÃ¡ros-}
+{14068}{}{tÃ³l, mely urÃ¡nÃ©rcet bÃ¡nyÃ¡szik. Az Ã©rcet MenedÃ©kvÃ¡ros}
+{14069}{}{orvosi felszerelÃ©seire cserÃ©li, leginkÃ¡bb Rad-X-re Ã©s}
+{14070}{}{RadAway-re. Az embereket mutÃ¡nsokkal Ã©s ghoulokkal}
+{14071}{}{valÃ³ egyÃ¼ttÃ©lÃ©sre kÃ©nyszerÃ­tik a vÃ¡rosban. A lakÃ³k}
+{14072}{}{termÃ©szete Ã©s a fertÅ‘zÃ©s magas valÃ³szÃ­nÅ±sÃ©ge miatt}
+{14073}{}{minden menedÃ©kpolgÃ¡r kerÃ¼lje el Broken Hills vÃ¡rosÃ¡t,}
+{14074}{}{bÃ¡rmi Ã¡ron!}
 {14075}{}{}
-{14076}{}{NÉPESSÉG: Népszámlálási adatok nincsenek, de több}
-{14077}{}{százra becsülhetõ.}
-{14078}{}{KORMÁNYZÁS: A hírek szerint a közösség elsõ polgára}
-{14079}{}{egy MUTÁNS! Ez valószínûleg nem igaz, mivel a legtöbb}
-{14080}{}{mutáns képtelen a magasabb szintû következtetésre.}
-{14081}{}{Amennyiben mégis igaz, egy okkal több van, miért kell}
-{14082}{}{minden Menedékpolgárnak elkerülni Broken Hills városát.}
-{14083}{}{HÁTTÉRSUGÁRZÁS MÉRTÉKE: Érvényes mérési adat}
-{14084}{}{nincs. Magasra becsült.}
-{14085}{}{MUTÁCIÓ MÉRTÉKE: Magasra becsült. Broken Hillsben}
-{14086}{}{nagymértékû a degeneratív mutáció aránya.}
+{14076}{}{NÃ‰PESSÃ‰G: NÃ©pszÃ¡mlÃ¡lÃ¡si adatok nincsenek, de tÃ¶bb}
+{14077}{}{szÃ¡zra becsÃ¼lhetÅ‘.}
+{14078}{}{KORMÃNYZÃS: A hÃ­rek szerint a kÃ¶zÃ¶ssÃ©g elsÅ‘ polgÃ¡ra}
+{14079}{}{egy MUTÃNS! Ez valÃ³szÃ­nÅ±leg nem igaz, mivel a legtÃ¶bb}
+{14080}{}{mutÃ¡ns kÃ©ptelen a magasabb szintÅ± kÃ¶vetkeztetÃ©sre.}
+{14081}{}{Amennyiben mÃ©gis igaz, egy okkal tÃ¶bb van, miÃ©rt kell}
+{14082}{}{minden MenedÃ©kpolgÃ¡rnak elkerÃ¼lni Broken Hills vÃ¡rosÃ¡t.}
+{14083}{}{HÃTTÃ‰RSUGÃRZÃS MÃ‰RTÃ‰KE: Ã‰rvÃ©nyes mÃ©rÃ©si adat}
+{14084}{}{nincs. Magasra becsÃ¼lt.}
+{14085}{}{MUTÃCIÃ“ MÃ‰RTÃ‰KE: Magasra becsÃ¼lt. Broken Hillsben}
+{14086}{}{nagymÃ©rtÃ©kÅ± a degeneratÃ­v mutÃ¡ciÃ³ arÃ¡nya.}
 {14087}{}{**END-PAR**}
-{14088}{}{MENEDÉKVÁROS: Ez az utópia mentes minden bûntõl és}
-{14089}{}{szociológiai betegségtõl, mely Észak-Kalifornia más}
-{14090}{}{közösségeire jellemzõ. Azóta független, mióta lakói}
-{14091}{}{elõjöttek a 8-as Menedékbõl. Virágzó gazdasága az}
-{14092}{}{orvosi technológián alapszik, melyet kívülálló közös-}
-{14093}{}{ségeknek exportál szerte Észak-Kaliforniában. A pol-}
-{14094}{}{gároknak ajánlott Menedékváros biztonságában maradni,}
-{14095}{}{ha lehetséges.}
+{14088}{}{MENEDÃ‰KVÃROS: Ez az utÃ³pia mentes minden bÅ±ntÅ‘l Ã©s}
+{14089}{}{szociolÃ³giai betegsÃ©gtÅ‘l, mely Ã‰szak-Kalifornia mÃ¡s}
+{14090}{}{kÃ¶zÃ¶ssÃ©geire jellemzÅ‘. AzÃ³ta fÃ¼ggetlen, miÃ³ta lakÃ³i}
+{14091}{}{elÅ‘jÃ¶ttek a 8-as MenedÃ©kbÅ‘l. VirÃ¡gzÃ³ gazdasÃ¡ga az}
+{14092}{}{orvosi technolÃ³giÃ¡n alapszik, melyet kÃ­vÃ¼lÃ¡llÃ³ kÃ¶zÃ¶s-}
+{14093}{}{sÃ©geknek exportÃ¡l szerte Ã‰szak-KaliforniÃ¡ban. A pol-}
+{14094}{}{gÃ¡roknak ajÃ¡nlott MenedÃ©kvÃ¡ros biztonsÃ¡gÃ¡ban maradni,}
+{14095}{}{ha lehetsÃ©ges.}
 {14096}{}{}
-{14097}{}{NÉPESSÉG: A legutóbbi számlálás szerint 103 polgár.}
-{14098}{}{KORMÁNYZÁS: Elsõ Polgár és tanács.}
-{14099}{}{HÁTTÉRSUGÁRZÁS MÉRTÉKE: A fájlokat törölték, hiá-}
-{14100}{}{nyoznak a következõ hivatkozások: [-$Gekkó- /}
-{14101}{}{-$Talajvíz-szennyezõdés-]}
-{14102}{}{MUTÁCIÓ MÉRTÉKE: A fájlokat törölték, hiányoznak a kö-}
-{14103}{}{vetkezõ hivatkozások: [-$Születési_arány-]}
+{14097}{}{NÃ‰PESSÃ‰G: A legutÃ³bbi szÃ¡mlÃ¡lÃ¡s szerint 103 polgÃ¡r.}
+{14098}{}{KORMÃNYZÃS: ElsÅ‘ PolgÃ¡r Ã©s tanÃ¡cs.}
+{14099}{}{HÃTTÃ‰RSUGÃRZÃS MÃ‰RTÃ‰KE: A fÃ¡jlokat tÃ¶rÃ¶ltÃ©k, hiÃ¡-}
+{14100}{}{nyoznak a kÃ¶vetkezÅ‘ hivatkozÃ¡sok: [-$GekkÃ³- /}
+{14101}{}{-$TalajvÃ­z-szennyezÅ‘dÃ©s-]}
+{14102}{}{MUTÃCIÃ“ MÃ‰RTÃ‰KE: A fÃ¡jlokat tÃ¶rÃ¶ltÃ©k, hiÃ¡nyoznak a kÃ¶-}
+{14103}{}{vetkezÅ‘ hivatkozÃ¡sok: [-$SzÃ¼letÃ©si_arÃ¡ny-]}
 {14104}{}{**END-DISK**}
-{15000}{}{ÚJ KALIFORNIA KÖZTÁRSASÁG, INFORMÁCIÓS LEMEZ 5}
+{15000}{}{ÃšJ KALIFORNIA KÃ–ZTÃRSASÃG, INFORMÃCIÃ“S LEMEZ 5}
 {15001}{}{**END-PAR**}
 {15002}{}{This disk seems to be filled with reports about NCR - }
-{15003}{}{jelentésekkel: havi össztermelés, karaván menetrendek,}
-{15004}{}{biztonsági szolgálati beosztás, kongresszusi meghall- }
-{15005}{}{gatások jegyzõkönyvei, titkos szenátusi jelentések,   }
-{15006}{}{diplomáciai levelezés New Renóval, Reddinggel és Mene-}
-{15007}{}{dékvárossal, még Tandi elnök pár hetes idõbeosztása is}
-{15008}{}{itt van. Azonban semmi nincs a 13-as Menedékrõl vagy  }
-{15009}{}{az ÉLET-rõl. Minden jelentést Darionnak címeztek, és }
-{15010}{}{így írtak alá: "F-".}
+{15003}{}{jelentÃ©sekkel: havi Ã¶ssztermelÃ©s, karavÃ¡n menetrendek,}
+{15004}{}{biztonsÃ¡gi szolgÃ¡lati beosztÃ¡s, kongresszusi meghall- }
+{15005}{}{gatÃ¡sok jegyzÅ‘kÃ¶nyvei, titkos szenÃ¡tusi jelentÃ©sek,   }
+{15006}{}{diplomÃ¡ciai levelezÃ©s New RenÃ³val, Reddinggel Ã©s Mene-}
+{15007}{}{dÃ©kvÃ¡rossal, mÃ©g Tandi elnÃ¶k pÃ¡r hetes idÅ‘beosztÃ¡sa is}
+{15008}{}{itt van. Azonban semmi nincs a 13-as MenedÃ©krÅ‘l vagy  }
+{15009}{}{az Ã‰LET-rÅ‘l. Minden jelentÃ©st Darionnak cÃ­meztek, Ã©s }
+{15010}{}{Ã­gy Ã­rtak alÃ¡: "F-".}
 {15011}{}{**END-DISK**}
-{16000}{}{ÚJ KALIFORNIA KÖZTÁRSASÁG, INFORMÁCIÓS LEMEZ 1}
+{16000}{}{ÃšJ KALIFORNIA KÃ–ZTÃRSASÃG, INFORMÃCIÃ“S LEMEZ 1}
 {16001}{}{**END-PAR**}
-{16002}{}{Mi itt vagyunk! Miért ne csatlakoznál?}
+{16002}{}{Mi itt vagyunk! MiÃ©rt ne csatlakoznÃ¡l?}
 {16003}{}{**END-PAR**}
-{16004}{}{Csodálatos jövõ áll elõttünk, és ha csatlakozol az}
-{16005}{}{Új Kalifornia Köztársasághoz, ez a tiéd is lehet!}
+{16004}{}{CsodÃ¡latos jÃ¶vÅ‘ Ã¡ll elÅ‘ttÃ¼nk, Ã©s ha csatlakozol az}
+{16005}{}{Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡ghoz, ez a tiÃ©d is lehet!}
 {16006}{}{**END-PAR**}
-{16007}{}{De mi is ez az egész? Szeretnéd tudni?}
+{16007}{}{De mi is ez az egÃ©sz? SzeretnÃ©d tudni?}
 {16008}{}{**END-PAR**}
-{16009}{}{MILYEN NAGY AZ ÚKK?}
-{16010}{}{Nyolcvan éve alapították, mára már magába foglalja Shady,}
-{16011}{}{Los Angeles, Maxson, Hub és Dayglow államait.  }
-{16012}{}{Az Új Kalifornia Köztársaságot körülbelül 700000 polgár}
-{16013}{}{hívja örömmel az otthonának.}
+{16009}{}{MILYEN NAGY AZ ÃšKK?}
+{16010}{}{Nyolcvan Ã©ve alapÃ­tottÃ¡k, mÃ¡ra mÃ¡r magÃ¡ba foglalja Shady,}
+{16011}{}{Los Angeles, Maxson, Hub Ã©s Dayglow Ã¡llamait.  }
+{16012}{}{Az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡got kÃ¶rÃ¼lbelÃ¼l 700000 polgÃ¡r}
+{16013}{}{hÃ­vja Ã¶rÃ¶mmel az otthonÃ¡nak.}
 {16014}{}{**END-PAR**}
-{16015}{}{MIK AZ ÚKK VEZÉRELVEI?}
-{16016}{}{Az Új Kaliforniai Köztársaság célja a béke, a biztonság}
-{16017}{}{és az igazság megteremtése a nyugat népei számára.    }
-{16018}{}{Az ÚKK hatékony rendõri erõi állandóan õrjáratoznak,  }
+{16015}{}{MIK AZ ÃšKK VEZÃ‰RELVEI?}
+{16016}{}{Az Ãšj Kaliforniai KÃ¶ztÃ¡rsasÃ¡g cÃ©lja a bÃ©ke, a biztonsÃ¡g}
+{16017}{}{Ã©s az igazsÃ¡g megteremtÃ©se a nyugat nÃ©pei szÃ¡mÃ¡ra.    }
+{16018}{}{Az ÃšKK hatÃ©kony rendÅ‘ri erÅ‘i Ã¡llandÃ³an Å‘rjÃ¡ratoznak,  }
 {16019}{}{arrest any raiders, cannibals, slavers, and lawless  }
-{16020}{}{vényen kívüli mutánst letartóztatva az országban, a   }
-{16021}{}{hadsereg pedig hõsiesen védi a határokat a kinti fosz-}
-{16022}{}{togatókkal szemben. Az igazság és szabadság biztosítá-}
-{16023}{}{sának érdekében, minden polgár látogathatja az igazga-}
-{16024}{}{tási intézményeket, és szavazhat saját választású     }
-{16025}{}{országgyûlési képviselõre. Tandi elnök szavaival élve:}
-{16026}{}{"A biztonságban élõ ember erõs ember."                }
+{16020}{}{vÃ©nyen kÃ­vÃ¼li mutÃ¡nst letartÃ³ztatva az orszÃ¡gban, a   }
+{16021}{}{hadsereg pedig hÅ‘siesen vÃ©di a hatÃ¡rokat a kinti fosz-}
+{16022}{}{togatÃ³kkal szemben. Az igazsÃ¡g Ã©s szabadsÃ¡g biztosÃ­tÃ¡-}
+{16023}{}{sÃ¡nak Ã©rdekÃ©ben, minden polgÃ¡r lÃ¡togathatja az igazga-}
+{16024}{}{tÃ¡si intÃ©zmÃ©nyeket, Ã©s szavazhat sajÃ¡t vÃ¡lasztÃ¡sÃº     }
+{16025}{}{orszÃ¡ggyÅ±lÃ©si kÃ©pviselÅ‘re. Tandi elnÃ¶k szavaival Ã©lve:}
+{16026}{}{"A biztonsÃ¡gban Ã©lÅ‘ ember erÅ‘s ember."                }
 {16027}{}{**END-PAR**}
-{16028}{}{KI VEZETI AZ ÚKK-T?}
-{16029}{}{Az ÚKK e téren kicsit más lehet, mint amit megszoktál.}
-{16030}{}{Nálunk nincs törzsfõnök, városi vezetõ, király vagy   }
-{16031}{}{diktátor. A mi vezetõinket a polgárok választják!     }
-{16032}{}{Igen, jól értetted: minden tagállamnak joga van képvise-}
-{16033}{}{lõt küldenie az országházba. Ezek a képviselõk  választ-}
-{16034}{}{ják meg az elnököt és az alelnököt a szenátus élére,  }
-{16035}{}{és az elnök az õ tanácsaik szerint kormányozza az     }
-{16036}{}{országot. Tandi elnököt már tíz választási ciklus óta }
-{16037}{}{szavazta meg a szenátus egyhangúan elsõ embernek,     }
-{16038}{}{mivel tudása, bölcsessége és elõrelátása tiszteletre}
-{16039}{}{méltó.                                                }
+{16028}{}{KI VEZETI AZ ÃšKK-T?}
+{16029}{}{Az ÃšKK e tÃ©ren kicsit mÃ¡s lehet, mint amit megszoktÃ¡l.}
+{16030}{}{NÃ¡lunk nincs tÃ¶rzsfÅ‘nÃ¶k, vÃ¡rosi vezetÅ‘, kirÃ¡ly vagy   }
+{16031}{}{diktÃ¡tor. A mi vezetÅ‘inket a polgÃ¡rok vÃ¡lasztjÃ¡k!     }
+{16032}{}{Igen, jÃ³l Ã©rtetted: minden tagÃ¡llamnak joga van kÃ©pvise-}
+{16033}{}{lÅ‘t kÃ¼ldenie az orszÃ¡ghÃ¡zba. Ezek a kÃ©pviselÅ‘k  vÃ¡laszt-}
+{16034}{}{jÃ¡k meg az elnÃ¶kÃ¶t Ã©s az alelnÃ¶kÃ¶t a szenÃ¡tus Ã©lÃ©re,  }
+{16035}{}{Ã©s az elnÃ¶k az Å‘ tanÃ¡csaik szerint kormÃ¡nyozza az     }
+{16036}{}{orszÃ¡got. Tandi elnÃ¶kÃ¶t mÃ¡r tÃ­z vÃ¡lasztÃ¡si ciklus Ã³ta }
+{16037}{}{szavazta meg a szenÃ¡tus egyhangÃºan elsÅ‘ embernek,     }
+{16038}{}{mivel tudÃ¡sa, bÃ¶lcsessÃ©ge Ã©s elÅ‘relÃ¡tÃ¡sa tiszteletre}
+{16039}{}{mÃ©ltÃ³.                                                }
 {16040}{}{**END-PAR**}
-{16041}{}{JÓL HANGZIK! HOGYAN CSATLAKOZHATNÉK?}
-{16042}{}{Minden békés és törvénytisztelõ ember vagy mutáns     }
-{16043}{}{esélyes arra, hogy az ÚKK polgára legyen. Eléréséhez  }
-{16044}{}{mindössze annyit kell tenned, hogy eljössz az ÚKK-ba, }
-{16045}{}{és benyújtod a bevándorlási kérelmedet. A kérelem el- }
-{16046}{}{bírálása és a polgári oktatás után, az új státuszod   }
-{16047}{}{ideiglenes polgár (IP) lesz. Innen már csak egy kis}
-{16048}{}{lépés a teljes polgárság megszerzése! }
+{16041}{}{JÃ“L HANGZIK! HOGYAN CSATLAKOZHATNÃ‰K?}
+{16042}{}{Minden bÃ©kÃ©s Ã©s tÃ¶rvÃ©nytisztelÅ‘ ember vagy mutÃ¡ns     }
+{16043}{}{esÃ©lyes arra, hogy az ÃšKK polgÃ¡ra legyen. ElÃ©rÃ©sÃ©hez  }
+{16044}{}{mindÃ¶ssze annyit kell tenned, hogy eljÃ¶ssz az ÃšKK-ba, }
+{16045}{}{Ã©s benyÃºjtod a bevÃ¡ndorlÃ¡si kÃ©relmedet. A kÃ©relem el- }
+{16046}{}{bÃ­rÃ¡lÃ¡sa Ã©s a polgÃ¡ri oktatÃ¡s utÃ¡n, az Ãºj stÃ¡tuszod   }
+{16047}{}{ideiglenes polgÃ¡r (IP) lesz. Innen mÃ¡r csak egy kis}
+{16048}{}{lÃ©pÃ©s a teljes polgÃ¡rsÃ¡g megszerzÃ©se! }
 {16049}{}{**END-PAR**}
-{16050}{}{Természetesen az ÚKK nem mindenki számára nyitott.   }
-{16051}{}{Rabszolga-tartók, szervezetlen mutánsok, hírhedt fosz- }
-{16052}{}{togatók és más nem kívánt elemek hiába pályáznak.     }
+{16050}{}{TermÃ©szetesen az ÃšKK nem mindenki szÃ¡mÃ¡ra nyitott.   }
+{16051}{}{Rabszolga-tartÃ³k, szervezetlen mutÃ¡nsok, hÃ­rhedt fosz- }
+{16052}{}{togatÃ³k Ã©s mÃ¡s nem kÃ­vÃ¡nt elemek hiÃ¡ba pÃ¡lyÃ¡znak.     }
 {16053}{}{**END-PAR**}
 {16054}{}{BUT WHAT IF MY ENTIRE TOWN WANTS TO JOIN?}
-{16055}{}{A földrajzi helytõl függõen az ÚKK elfogad kérvényt  }
-{16056}{}{falvaktól, városoktól, bázisoktól, városállamoktól, sõt}
-{16057}{}{kisebb királyságoktól is, melyek felvételüket kérik   }
-{16058}{}{az ÚKK-ba. Ha a kérvényt elfogadjuk, az ÚKK területi  }
-{16059}{}{státuszt ad a városodnak. Amint a szükséges rendõri   }
-{16060}{}{és katonai szervezetek létrejönnek, és minden banditiz-}
-{16061}{}{mus és egyéb jogtalanság megszûnik, a városod folya- }
-{16062}{}{modhat a teljes jogú tartomány címéért az ÚKK-hoz. }
-{16063}{}{Ilyen egyszerû!}
+{16055}{}{A fÃ¶ldrajzi helytÅ‘l fÃ¼ggÅ‘en az ÃšKK elfogad kÃ©rvÃ©nyt  }
+{16056}{}{falvaktÃ³l, vÃ¡rosoktÃ³l, bÃ¡zisoktÃ³l, vÃ¡rosÃ¡llamoktÃ³l, sÅ‘t}
+{16057}{}{kisebb kirÃ¡lysÃ¡goktÃ³l is, melyek felvÃ©telÃ¼ket kÃ©rik   }
+{16058}{}{az ÃšKK-ba. Ha a kÃ©rvÃ©nyt elfogadjuk, az ÃšKK terÃ¼leti  }
+{16059}{}{stÃ¡tuszt ad a vÃ¡rosodnak. Amint a szÃ¼ksÃ©ges rendÅ‘ri   }
+{16060}{}{Ã©s katonai szervezetek lÃ©trejÃ¶nnek, Ã©s minden banditiz-}
+{16061}{}{mus Ã©s egyÃ©b jogtalansÃ¡g megszÅ±nik, a vÃ¡rosod folya- }
+{16062}{}{modhat a teljes jogÃº tartomÃ¡ny cÃ­mÃ©Ã©rt az ÃšKK-hoz. }
+{16063}{}{Ilyen egyszerÅ±!}
 {16064}{}{**END-PAR**}
-{16065}{}{Ne felejtsd: MI ITT VAGYUNK. MIÉRT NE CSATLAKOZNÁL?}
+{16065}{}{Ne felejtsd: MI ITT VAGYUNK. MIÃ‰RT NE CSATLAKOZNÃL?}
 {16066}{}{**END-PAR**}
 {16067}{}{Prepared by the New California Relations Advisory Panel.}
 {16068}{}{**END-PAR**}
-{16069}{}{ÚJKAL Köz. #A7-7893b}
-{16070}{}{Ezt az oldalt szándékosan üresen hagyták.}
+{16069}{}{ÃšJKAL KÃ¶z. #A7-7893b}
+{16070}{}{Ezt az oldalt szÃ¡ndÃ©kosan Ã¼resen hagytÃ¡k.}
 {16071}{}{**END-DISK**}
-{17000}{}{Lynette Elsõ Polgár részére;}
+{17000}{}{Lynette ElsÅ‘ PolgÃ¡r rÃ©szÃ©re;}
 {17001}{}{**END-PAR**}
-{17002}{}{A futár kézbesítette a levelet, amit küldtél. Igazad  }
-{17003}{}{volt. Az információ felettébb hasznos lehet a követ-  }
-{17004}{}{kezõ szenátusi ülésen. Ennek birtokában egészen biz- }
-{17005}{}{tosan sikerül majd hátráltatni, vagy talán meg is hiú-}
-{17006}{}{sítani az alakuló ÚKK-New Reno szövetséget.           }
+{17002}{}{A futÃ¡r kÃ©zbesÃ­tette a levelet, amit kÃ¼ldtÃ©l. Igazad  }
+{17003}{}{volt. Az informÃ¡ciÃ³ felettÃ©bb hasznos lehet a kÃ¶vet-  }
+{17004}{}{kezÅ‘ szenÃ¡tusi Ã¼lÃ©sen. Ennek birtokÃ¡ban egÃ©szen biz- }
+{17005}{}{tosan sikerÃ¼l majd hÃ¡trÃ¡ltatni, vagy talÃ¡n meg is hiÃº-}
+{17006}{}{sÃ­tani az alakulÃ³ ÃšKK-New Reno szÃ¶vetsÃ©get.           }
 {17007}{}{**END-PAR**}
-{17008}{}{Biztosíthatlak, hogy ha sikerrel járok, az ÚKK nem    }
-{17009}{}{fog többé beavatkozni Menedékváros ügyeibe. Én, a ma- }
-{17010}{}{gam részérõl elismerem a függetlenségeteket, és nem   }
-{17011}{}{támogatom azokat a bajkeverõket, akik megpróbálják    }
-{17012}{}{megfosztani ártatlan szomszédainkat az õket megilletõ }
-{17013}{}{szabadságtól.                                         }
+{17008}{}{BiztosÃ­thatlak, hogy ha sikerrel jÃ¡rok, az ÃšKK nem    }
+{17009}{}{fog tÃ¶bbÃ© beavatkozni MenedÃ©kvÃ¡ros Ã¼gyeibe. Ã‰n, a ma- }
+{17010}{}{gam rÃ©szÃ©rÅ‘l elismerem a fÃ¼ggetlensÃ©geteket, Ã©s nem   }
+{17011}{}{tÃ¡mogatom azokat a bajkeverÅ‘ket, akik megprÃ³bÃ¡ljÃ¡k    }
+{17012}{}{megfosztani Ã¡rtatlan szomszÃ©dainkat az Å‘ket megilletÅ‘ }
+{17013}{}{szabadsÃ¡gtÃ³l.                                         }
 {17014}{}{**END-PAR**}
-{17015}{}{Barátod és szövetségesed,}
+{17015}{}{BarÃ¡tod Ã©s szÃ¶vetsÃ©gesed,}
 {17016}{}{Roger Westin}
 {17017}{}{**END-DISK**}
-{18000}{}{Memo: A Nemzet állama}
-{18001}{}{Küldõ: Dick Richardson Elnök}
-{18002}{}{Címzett: E nagyszerû Nemzet népe}
-{18003}{}{Téma: Az Egyesült Államok üdvözlése}
+{18000}{}{Memo: A Nemzet Ã¡llama}
+{18001}{}{KÃ¼ldÅ‘: Dick Richardson ElnÃ¶k}
+{18002}{}{CÃ­mzett: E nagyszerÅ± Nemzet nÃ©pe}
+{18003}{}{TÃ©ma: Az EgyesÃ¼lt Ãllamok Ã¼dvÃ¶zlÃ©se}
 {18004}{}{**END-PAR**}
-{18005}{}{Amerika polgárai! Megtiszteltetés, hogy én lehetek a}
-{18006}{}{vezetõ, aki visszaviszi Amerika népét a kontinensre,}
-{18007}{}{hogy az Egyesült Államokat visszaszerezzük igazi polgárai}
-{18008}{}{számára. Száz év elteltével mi leszünk az elsõ generáció,}
-{18009}{}{mely szabad lesz a mutánsok fenyegetésétõl.}
+{18005}{}{Amerika polgÃ¡rai! MegtiszteltetÃ©s, hogy Ã©n lehetek a}
+{18006}{}{vezetÅ‘, aki visszaviszi Amerika nÃ©pÃ©t a kontinensre,}
+{18007}{}{hogy az EgyesÃ¼lt Ãllamokat visszaszerezzÃ¼k igazi polgÃ¡rai}
+{18008}{}{szÃ¡mÃ¡ra. SzÃ¡z Ã©v elteltÃ©vel mi leszÃ¼nk az elsÅ‘ generÃ¡ciÃ³,}
+{18009}{}{mely szabad lesz a mutÃ¡nsok fenyegetÃ©sÃ©tÅ‘l.}
 {18010}{}{**END-PAR**}
-{18011}{}{Sokat vártuk erre, és a munka, mely mindezt lehetõvé}
-{18012}{}{tette nem volt könnyû. Voltak idõk, amikor az egész}
+{18011}{}{Sokat vÃ¡rtuk erre, Ã©s a munka, mely mindezt lehetÅ‘vÃ©}
+{18012}{}{tette nem volt kÃ¶nnyÅ±. Voltak idÅ‘k, amikor az egÃ©sz}
 {18013}{}{impossible; however, through the brave and tireless }
-{18014}{}{szeti Testület fejének bátor és fáradhatatlan igyeke-}
-{18015}{}{zete végül meghozta gyümölcsét. Közel az üdvözülés!}
+{18014}{}{szeti TestÃ¼let fejÃ©nek bÃ¡tor Ã©s fÃ¡radhatatlan igyeke-}
+{18015}{}{zete vÃ©gÃ¼l meghozta gyÃ¼mÃ¶lcsÃ©t. KÃ¶zel az Ã¼dvÃ¶zÃ¼lÃ©s!}
 {18016}{}{ }
 {18017}{}{**END-PAR**}
-{18018}{}{Bátor, kitartó, bla, bla, bla. Húú, egyáltalán figyel-}
-{18019}{}{nek az emberek az ilyen hülyeségekre?}
+{18018}{}{BÃ¡tor, kitartÃ³, bla, bla, bla. HÃºÃº, egyÃ¡ltalÃ¡n figyel-}
+{18019}{}{nek az emberek az ilyen hÃ¼lyesÃ©gekre?}
 {18020}{}{**END-PAR**}
-{18021}{}{--Megjegyzések magamnak-}
-{18022}{}{1)  Folytasd így egy ideig, hogy álcázd Curlinget.}
+{18021}{}{--MegjegyzÃ©sek magamnak-}
+{18022}{}{1)  Folytasd Ã­gy egy ideig, hogy Ã¡lcÃ¡zd Curlinget.}
 {18023}{}{2)  Tell everyone how steadfast, etc., they are.}
 {18024}{}{     Yadda, yadda, yadda.}
 {18025}{}{**END-PAR**}
 {18026}{}{Be sure to make a plug for re-election.}
 {18027}{}{**END-PAR**}
-{18028}{}{Emlékezzek, hogy NE öleljem meg az orvosomat a pódiumról}
-{18029}{}{lefelé menet!}
+{18028}{}{EmlÃ©kezzek, hogy NE Ã¶leljem meg az orvosomat a pÃ³diumrÃ³l}
+{18029}{}{lefelÃ© menet!}
 {18030}{}{**END-PAR**}
-{18031}{}{Fontos: Gyorsan fejezd be ennek a beszédnek a megírását.}
-{18032}{}{Bármelyik héten elgázosíthatjuk a rohadt mutánsokat, ha }
-{18033}{}{igaz, amit Curling ír a jelentésében.}
+{18031}{}{Fontos: Gyorsan fejezd be ennek a beszÃ©dnek a megÃ­rÃ¡sÃ¡t.}
+{18032}{}{BÃ¡rmelyik hÃ©ten elgÃ¡zosÃ­thatjuk a rohadt mutÃ¡nsokat, ha }
+{18033}{}{igaz, amit Curling Ã­r a jelentÃ©sÃ©ben.}
 {18034}{}{**END-DISK**}
-{19000}{}{Memo: Szavak listája}
-{19001}{}{Küldõ: Daniel Bird alelnök}
-{19002}{}{Címzett: Én}
-{19003}{}{Téma: A saját szó-listám}
+{19000}{}{Memo: Szavak listÃ¡ja}
+{19001}{}{KÃ¼ldÅ‘: Daniel Bird alelnÃ¶k}
+{19002}{}{CÃ­mzett: Ã‰n}
+{19003}{}{TÃ©ma: A sajÃ¡t szÃ³-listÃ¡m}
 {19004}{}{**END-PAR**}
 {19005}{}{Bonyolult szavak:}
 {19006}{}{--------------------}
@@ -992,155 +992,155 @@
 {19008}{}{Pritamin}
 {19009}{}{Pszicho}
 {19010}{}{California}
-{19011}{}{Elkészülni}
-{19012}{}{Szószátyárság}
-{19013}{}{Artikulálatlan}
-{19014}{}{Árnyalt}
+{19011}{}{ElkÃ©szÃ¼lni}
+{19012}{}{SzÃ³szÃ¡tyÃ¡rsÃ¡g}
+{19013}{}{ArtikulÃ¡latlan}
+{19014}{}{Ãrnyalt}
 {19015}{}{**END-PAR**}
-{19016}{}{Megváltoztatandó szavak:}
+{19016}{}{MegvÃ¡ltoztatandÃ³ szavak:}
 {19017}{}{----------------------}
 {19018}{}{Krumpli}
 {19019}{}{Paradicsom}
-{19020}{}{Szihó}
+{19020}{}{SzihÃ³}
 {19021}{}{Kalifornia}
-{19022}{}{Elkészülni}
-{19023}{}{Árnyalt}
-{19024}{}{Sakántilop - ez legyen az új nemzeti kabalaállat! (Va-}
-{19025}{}{jon amerikai állat??)}
+{19022}{}{ElkÃ©szÃ¼lni}
+{19023}{}{Ãrnyalt}
+{19024}{}{SakÃ¡ntilop - ez legyen az Ãºj nemzeti kabalaÃ¡llat! (Va-}
+{19025}{}{jon amerikai Ã¡llat??)}
 {19026}{}{**END-DISK**}
-{20000}{}{Memo: A Projekt, Negyedéves állapot-beszámoló}
-{20001}{}{Küldõ: Lt. Col., Dr Charles Curling, Vegy. Testület}
-{20002}{}{Címzett: Kormány}
-{20003}{}{Téma: A Projekt hamarosan teljesen elkészül}
+{20000}{}{Memo: A Projekt, NegyedÃ©ves Ã¡llapot-beszÃ¡molÃ³}
+{20001}{}{KÃ¼ldÅ‘: Lt. Col., Dr Charles Curling, Vegy. TestÃ¼let}
+{20002}{}{CÃ­mzett: KormÃ¡ny}
+{20003}{}{TÃ©ma: A Projekt hamarosan teljesen elkÃ©szÃ¼l}
 {20004}{}{**END-PAR**}
-{20005}{}{Megtiszteltetés és örömteli kiváltság, hogy jelenthetem:}
-{20006}{}{A Projekt hamarosan elkészül. Több év munka után végre}
-{20007}{}{sikerült izolálni a F.E.V. vírus legtoxikusabb válto-}
-{20008}{}{zatát. A nem rég dekódolt információ, amit a kontinens}
-{20009}{}{egyik elhagyatott bázisban talált mintából nyertünk ki,}
-{20010}{}{nagy szerepet játszott a kutatás elõrevitelében.}
+{20005}{}{MegtiszteltetÃ©s Ã©s Ã¶rÃ¶mteli kivÃ¡ltsÃ¡g, hogy jelenthetem:}
+{20006}{}{A Projekt hamarosan elkÃ©szÃ¼l. TÃ¶bb Ã©v munka utÃ¡n vÃ©gre}
+{20007}{}{sikerÃ¼lt izolÃ¡lni a F.E.V. vÃ­rus legtoxikusabb vÃ¡lto-}
+{20008}{}{zatÃ¡t. A nem rÃ©g dekÃ³dolt informÃ¡ciÃ³, amit a kontinens}
+{20009}{}{egyik elhagyatott bÃ¡zisban talÃ¡lt mintÃ¡bÃ³l nyertÃ¼nk ki,}
+{20010}{}{nagy szerepet jÃ¡tszott a kutatÃ¡s elÅ‘revitelÃ©ben.}
 {20011}{}{**END-PAR**}
-{20012}{}{Felfedeztük, hogy a F.E.V. vírus eredetileg nem azért ké-}
+{20012}{}{FelfedeztÃ¼k, hogy a F.E.V. vÃ­rus eredetileg nem azÃ©rt kÃ©-}
 {20013}{}{designed to be used as an agent for the creation of}
 {20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
-{20015}{}{amit csak késõbb manipuláltak annak érdekében, hogy}
-{20016}{}{a segítségével szuperkatonákat teremthessenek.}
+{20015}{}{amit csak kÃ©sÅ‘bb manipulÃ¡ltak annak Ã©rdekÃ©ben, hogy}
+{20016}{}{a segÃ­tsÃ©gÃ©vel szuperkatonÃ¡kat teremthessenek.}
 {20017}{}{**END-PAR**}
-{20018}{}{Némileg visszalépve a kutatásban és az új információ}
-{20019}{}{birtokában, amit a katonai bázis feljegyzései között}
-{20020}{}{találtunk, sikerült a saját F.E.V. változatunkat}
-{20021}{}{(F.E.V. Curling-13) sokkal toxikusabb anyaggá változ-}
+{20018}{}{NÃ©mileg visszalÃ©pve a kutatÃ¡sban Ã©s az Ãºj informÃ¡ciÃ³}
+{20019}{}{birtokÃ¡ban, amit a katonai bÃ¡zis feljegyzÃ©sei kÃ¶zÃ¶tt}
+{20020}{}{talÃ¡ltunk, sikerÃ¼lt a sajÃ¡t F.E.V. vÃ¡ltozatunkat}
+{20021}{}{(F.E.V. Curling-13) sokkal toxikusabb anyaggÃ¡ vÃ¡ltoz-}
 {20022}{}{tatni.}
 {20023}{}{**END-PAR**}
-{20024}{}{A legutóbbi tesztek, melyeket Arroyo falu menedéklakók-}
-{20025}{}{tól származó lakosain végeztünk, nulla százalékos túlé-}
-{20026}{}{lési arányt mutattak, melynél a legtöbb halál egy órán}
-{20027}{}{belül következett be 0,0001%-es légoldat hatására. Ezzel}
-{20028}{}{szemben a 13-as Menedékbõl gyûjtött alanyoknál belsõ}
-{20029}{}{vérzést és rángatózást figyeltünk meg az egy órás idõ-}
-{20030}{}{szakban, a halál csak átlagosan 14,5 órával késõbb kö-}
+{20024}{}{A legutÃ³bbi tesztek, melyeket Arroyo falu menedÃ©klakÃ³k-}
+{20025}{}{tÃ³l szÃ¡rmazÃ³ lakosain vÃ©geztÃ¼nk, nulla szÃ¡zalÃ©kos tÃºlÃ©-}
+{20026}{}{lÃ©si arÃ¡nyt mutattak, melynÃ©l a legtÃ¶bb halÃ¡l egy Ã³rÃ¡n}
+{20027}{}{belÃ¼l kÃ¶vetkezett be 0,0001%-es lÃ©goldat hatÃ¡sÃ¡ra. Ezzel}
+{20028}{}{szemben a 13-as MenedÃ©kbÅ‘l gyÅ±jtÃ¶tt alanyoknÃ¡l belsÅ‘}
+{20029}{}{vÃ©rzÃ©st Ã©s rÃ¡ngatÃ³zÃ¡st figyeltÃ¼nk meg az egy Ã³rÃ¡s idÅ‘-}
+{20030}{}{szakban, a halÃ¡l csak Ã¡tlagosan 14,5 Ã³rÃ¡val kÃ©sÅ‘bb kÃ¶-}
 {20031}{}{average, for another 14.5 hours.}
 {20032}{}{**END-PAR**}
-{20033}{}{Mindkét esetben a F.E.V. fertõzési szintje már megfele-}
-{20034}{}{lõ ahhoz, hogy biztosan "megtisztítsuk" a fertõzött}
-{20035}{}{(azaz nem Enklávé) területeket. A jelenleg kiengedhetõ}
-{20036}{}{F.E.V. Curling-13 95%-os valószínûséget mutat 0,00007%-}
-{20037}{}{os átlagos telítettség mellett. Bár a Vegyészeti Testület}
-{20038}{}{véleménye szerint ez a szint megfelelõ lenne a Projekt}
-{20039}{}{sikeres végrehajtásához, úgy gondoljuk, hogy érdemes}
-{20040}{}{várni, amíg nem lesz elég F.E.V. toxin, hogy elérjük a}
-{20041}{}{0,0001%-os telítettséget és a 99,5%-os pusztítási való-}
-{20042}{}{színûséget.}
+{20033}{}{MindkÃ©t esetben a F.E.V. fertÅ‘zÃ©si szintje mÃ¡r megfele-}
+{20034}{}{lÅ‘ ahhoz, hogy biztosan "megtisztÃ­tsuk" a fertÅ‘zÃ¶tt}
+{20035}{}{(azaz nem EnklÃ¡vÃ©) terÃ¼leteket. A jelenleg kiengedhetÅ‘}
+{20036}{}{F.E.V. Curling-13 95%-os valÃ³szÃ­nÅ±sÃ©get mutat 0,00007%-}
+{20037}{}{os Ã¡tlagos telÃ­tettsÃ©g mellett. BÃ¡r a VegyÃ©szeti TestÃ¼let}
+{20038}{}{vÃ©lemÃ©nye szerint ez a szint megfelelÅ‘ lenne a Projekt}
+{20039}{}{sikeres vÃ©grehajtÃ¡sÃ¡hoz, Ãºgy gondoljuk, hogy Ã©rdemes}
+{20040}{}{vÃ¡rni, amÃ­g nem lesz elÃ©g F.E.V. toxin, hogy elÃ©rjÃ¼k a}
+{20041}{}{0,0001%-os telÃ­tettsÃ©get Ã©s a 99,5%-os pusztÃ­tÃ¡si valÃ³-}
+{20042}{}{szÃ­nÅ±sÃ©get.}
 {20043}{}{**END-PAR**}
 {20044}{}{Current F.E.V. Curling-13 production levels show that}
-{20045}{}{szerint hat héten belül elérjük a célunkban kitûzött}
-{20046}{}{250000 gallonnyi mennyiséget.}
+{20045}{}{szerint hat hÃ©ten belÃ¼l elÃ©rjÃ¼k a cÃ©lunkban kitÅ±zÃ¶tt}
+{20046}{}{250000 gallonnyi mennyisÃ©get.}
 {20047}{}{**END-PAR**}
-{20048}{}{Gratulálok, hölgyeim és uraim. Hosszú évekig tartó}
-{20049}{}{munkánk hamarosan befejezõdik.}
-{20050}{}{Isten áldja Amerikát!}
+{20048}{}{GratulÃ¡lok, hÃ¶lgyeim Ã©s uraim. HosszÃº Ã©vekig tartÃ³}
+{20049}{}{munkÃ¡nk hamarosan befejezÅ‘dik.}
+{20050}{}{Isten Ã¡ldja AmerikÃ¡t!}
 {20051}{}{**END-DISK**}
-{21000}{}{Memo: A.B., Állapotjelentés}
-{21001}{}{Küldõ: Tom Murray, Elnök, Atomenergia Bizottság}
-{21002}{}{Címzett: Kormány}
-{21003}{}{Téma: A központi számítógép egyedüli reaktorvezérlõ}
-{21004}{}{szerepe jelentette veszély}
+{21000}{}{Memo: A.B., ÃllapotjelentÃ©s}
+{21001}{}{KÃ¼ldÅ‘: Tom Murray, ElnÃ¶k, Atomenergia BizottsÃ¡g}
+{21002}{}{CÃ­mzett: KormÃ¡ny}
+{21003}{}{TÃ©ma: A kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©p egyedÃ¼li reaktorvezÃ©rlÅ‘}
+{21004}{}{szerepe jelentette veszÃ©ly}
 {21005}{}{**END-PAR**}
-{21006}{}{FIGYELMEZTETÉS A KORMÁNYNAK: Utálok ezzel folyton elõ-}
-{21007}{}{hozakodni, de nem gyõzöm hangsúlyozni az atomerõmûvünk}
-{21008}{}{másodlagos biztonsági vezérlésének fontosságát. Itt a}
-{21009}{}{hivatalos jelentésem. Remélem, ha elolvassák, megértik,}
-{21010}{}{hogy miért fontos egy biztonsági rendszer felállítása.}
+{21006}{}{FIGYELMEZTETÃ‰S A KORMÃNYNAK: UtÃ¡lok ezzel folyton elÅ‘-}
+{21007}{}{hozakodni, de nem gyÅ‘zÃ¶m hangsÃºlyozni az atomerÅ‘mÅ±vÃ¼nk}
+{21008}{}{mÃ¡sodlagos biztonsÃ¡gi vezÃ©rlÃ©sÃ©nek fontossÃ¡gÃ¡t. Itt a}
+{21009}{}{hivatalos jelentÃ©sem. RemÃ©lem, ha elolvassÃ¡k, megÃ©rtik,}
+{21010}{}{hogy miÃ©rt fontos egy biztonsÃ¡gi rendszer felÃ¡llÃ­tÃ¡sa.}
 {21011}{}{a backup system.}
 {21012}{}{  Tom}
 {21013}{}{**END-PAR**}
-{21014}{}{Az atomreaktor szabályzórendszere}
+{21014}{}{Az atomreaktor szabÃ¡lyzÃ³rendszere}
 {21015}{}{------------------------------------------}
-{21016}{}{A Menedék-Tek új Uránalapú Nukleáris Reaktora maximális}
-{21017}{}{hatásfokon üzemel. A vezérlõ-számítógép, melyet kifeje-}
-{21018}{}{zetten arra terveztek, hogy más kulcsfeladatok ellátása}
-{21019}{}{mellett a hûtõfolyadék hõmérsékletét szabályozza, lehe-}
-{21020}{}{tõvé teszi, hogy a reaktor minimális emberi felügyelet}
+{21016}{}{A MenedÃ©k-Tek Ãºj UrÃ¡nalapÃº NukleÃ¡ris Reaktora maximÃ¡lis}
+{21017}{}{hatÃ¡sfokon Ã¼zemel. A vezÃ©rlÅ‘-szÃ¡mÃ­tÃ³gÃ©p, melyet kifeje-}
+{21018}{}{zetten arra terveztek, hogy mÃ¡s kulcsfeladatok ellÃ¡tÃ¡sa}
+{21019}{}{mellett a hÅ±tÅ‘folyadÃ©k hÅ‘mÃ©rsÃ©kletÃ©t szabÃ¡lyozza, lehe-}
+{21020}{}{tÅ‘vÃ© teszi, hogy a reaktor minimÃ¡lis emberi felÃ¼gyelet}
 {21021}{}{mellett dolgozhasson.}
 {21022}{}{**END-PAR**}
-{21023}{}{Az új szinkron-multiprocesszorok, melyeket a tri-pro-}
-{21024}{}{cesszoros alaplapba ültettünk, képesek egy idõben felü-}
-{21025}{}{gyelni a hõmérsékletet, a friss tengervíz felvételét,}
-{21026}{}{az elhasznált hûtõvíz és a nukleáris hulladék kibocsá-}
-{21027}{}{tását és a neutronmennyiség szabályozását, mellyel az}
-{21028}{}{uránt bombázzuk. A számítógép-rendszer nélkül a reaktor}
-{21029}{}{azonnal kibillenne egyensúlyából, mely az urán lánc-}
-{21030}{}{reakciószerû egyre gyorsuló hasadásához vezetne.}
-{21031}{}{Két órával késõbb, vagy még kevesebb idõ múlva mindez}
-{21032}{}{egy 100 kilotonnásnak megfelelõ nukleáris robbanást}
-{21033}{}{eredményezne.}
+{21023}{}{Az Ãºj szinkron-multiprocesszorok, melyeket a tri-pro-}
+{21024}{}{cesszoros alaplapba Ã¼ltettÃ¼nk, kÃ©pesek egy idÅ‘ben felÃ¼-}
+{21025}{}{gyelni a hÅ‘mÃ©rsÃ©kletet, a friss tengervÃ­z felvÃ©telÃ©t,}
+{21026}{}{az elhasznÃ¡lt hÅ±tÅ‘vÃ­z Ã©s a nukleÃ¡ris hulladÃ©k kibocsÃ¡-}
+{21027}{}{tÃ¡sÃ¡t Ã©s a neutronmennyisÃ©g szabÃ¡lyozÃ¡sÃ¡t, mellyel az}
+{21028}{}{urÃ¡nt bombÃ¡zzuk. A szÃ¡mÃ­tÃ³gÃ©p-rendszer nÃ©lkÃ¼l a reaktor}
+{21029}{}{azonnal kibillenne egyensÃºlyÃ¡bÃ³l, mely az urÃ¡n lÃ¡nc-}
+{21030}{}{reakciÃ³szerÅ± egyre gyorsulÃ³ hasadÃ¡sÃ¡hoz vezetne.}
+{21031}{}{KÃ©t Ã³rÃ¡val kÃ©sÅ‘bb, vagy mÃ©g kevesebb idÅ‘ mÃºlva mindez}
+{21032}{}{egy 100 kilotonnÃ¡snak megfelelÅ‘ nukleÃ¡ris robbanÃ¡st}
+{21033}{}{eredmÃ©nyezne.}
 {21034}{}{**END-PAR**}
-{21035}{}{A fõreaktor teljes egészében víz alatt található, a}
-{21036}{}{bázis lábainál. Ez az elrendezés azért hasznos, mert}
-{21037}{}{így az óceán természetes hõmérséklete miatt, külsõ}
-{21038}{}{hûtõközegként funkcionál. A tengervizet 500 méterrõl}
-{21039}{}{szivattyúzzuk a hûtõkamrába. A víz nagy része a reaktor-}
-{21040}{}{blokkba kerül, ahol a mag és a kadmiumrudak találhatók.}
-{21041}{}{Mialatt körbeáramlik a mag körül, ahol a nukleáris reak-}
-{21042}{}{ciók zajlanak, felforrósodik, majd eléri forráspontját.}
-{21043}{}{A generátor lapátjait a keletkezõ gõz hajtja meg, így}
-{21044}{}{termelve elektromos áramot az egész bázis számára.}
-{21045}{}{A gõz ezután lecsapódik a falakra és lefolyik a szûrõ-}
-{21046}{}{tartályba. A megtisztított vizet visszaengedjük az elõ-}
-{21047}{}{készítõtartályba, ahonnan hamarosan kiengedve újrakezdi}
-{21048}{}{az egész folyamatot.}
+{21035}{}{A fÅ‘reaktor teljes egÃ©szÃ©ben vÃ­z alatt talÃ¡lhatÃ³, a}
+{21036}{}{bÃ¡zis lÃ¡bainÃ¡l. Ez az elrendezÃ©s azÃ©rt hasznos, mert}
+{21037}{}{Ã­gy az Ã³ceÃ¡n termÃ©szetes hÅ‘mÃ©rsÃ©klete miatt, kÃ¼lsÅ‘}
+{21038}{}{hÅ±tÅ‘kÃ¶zegkÃ©nt funkcionÃ¡l. A tengervizet 500 mÃ©terrÅ‘l}
+{21039}{}{szivattyÃºzzuk a hÅ±tÅ‘kamrÃ¡ba. A vÃ­z nagy rÃ©sze a reaktor-}
+{21040}{}{blokkba kerÃ¼l, ahol a mag Ã©s a kadmiumrudak talÃ¡lhatÃ³k.}
+{21041}{}{Mialatt kÃ¶rbeÃ¡ramlik a mag kÃ¶rÃ¼l, ahol a nukleÃ¡ris reak-}
+{21042}{}{ciÃ³k zajlanak, felforrÃ³sodik, majd elÃ©ri forrÃ¡spontjÃ¡t.}
+{21043}{}{A generÃ¡tor lapÃ¡tjait a keletkezÅ‘ gÅ‘z hajtja meg, Ã­gy}
+{21044}{}{termelve elektromos Ã¡ramot az egÃ©sz bÃ¡zis szÃ¡mÃ¡ra.}
+{21045}{}{A gÅ‘z ezutÃ¡n lecsapÃ³dik a falakra Ã©s lefolyik a szÅ±rÅ‘-}
+{21046}{}{tartÃ¡lyba. A megtisztÃ­tott vizet visszaengedjÃ¼k az elÅ‘-}
+{21047}{}{kÃ©szÃ­tÅ‘tartÃ¡lyba, ahonnan hamarosan kiengedve Ãºjrakezdi}
+{21048}{}{az egÃ©sz folyamatot.}
 {21049}{}{**END-PAR**}
-{21050}{}{A már erõsen sugárzó vizet és a különbözõ toxikus anya-}
-{21051}{}{gokat kipumpáljuk a bázison kívülre egy kifolyócsövön}
-{21052}{}{keresztül, melynek vége egy mérföldre délre található.}
-{21053}{}{Megfigyelõcsapataink jelentése szerint a hulladékanyag}
-{21054}{}{Dél-Kalifornia és Mexikó partjaihoz sodródik, ahol visz-}
-{21055}{}{szafordíthatatlan ökológiai károkat okoz. A partvidék}
-{21056}{}{nagy részére kirakódott a toxikus hulladék, és jelentõs}
-{21057}{}{sugárfertõzést okozott az élõlényeknek. Ránk nem hat.}
+{21050}{}{A mÃ¡r erÅ‘sen sugÃ¡rzÃ³ vizet Ã©s a kÃ¼lÃ¶nbÃ¶zÅ‘ toxikus anya-}
+{21051}{}{gokat kipumpÃ¡ljuk a bÃ¡zison kÃ­vÃ¼lre egy kifolyÃ³csÃ¶vÃ¶n}
+{21052}{}{keresztÃ¼l, melynek vÃ©ge egy mÃ©rfÃ¶ldre dÃ©lre talÃ¡lhatÃ³.}
+{21053}{}{MegfigyelÅ‘csapataink jelentÃ©se szerint a hulladÃ©kanyag}
+{21054}{}{DÃ©l-Kalifornia Ã©s MexikÃ³ partjaihoz sodrÃ³dik, ahol visz-}
+{21055}{}{szafordÃ­thatatlan Ã¶kolÃ³giai kÃ¡rokat okoz. A partvidÃ©k}
+{21056}{}{nagy rÃ©szÃ©re kirakÃ³dott a toxikus hulladÃ©k, Ã©s jelentÅ‘s}
+{21057}{}{sugÃ¡rfertÅ‘zÃ©st okozott az Ã©lÅ‘lÃ©nyeknek. RÃ¡nk nem hat.}
 {21058}{}{**END-PAR**}
-{21059}{}{Ha a reaktor bármilyen körülmények között leállna, van}
-{21060}{}{pár biztonsági akkumulátorunk, melyek mûködésben tartják}
-{21061}{}{az Enklávé létfontosságú rendszereit (ebbe nem tartoznak}
-{21062}{}{bele a magasfeszültségû szerkezetek, mint például az erõ-}
+{21059}{}{Ha a reaktor bÃ¡rmilyen kÃ¶rÃ¼lmÃ©nyek kÃ¶zÃ¶tt leÃ¡llna, van}
+{21060}{}{pÃ¡r biztonsÃ¡gi akkumulÃ¡torunk, melyek mÅ±kÃ¶dÃ©sben tartjÃ¡k}
+{21061}{}{az EnklÃ¡vÃ© lÃ©tfontossÃ¡gÃº rendszereit (ebbe nem tartoznak}
+{21062}{}{bele a magasfeszÃ¼ltsÃ©gÅ± szerkezetek, mint pÃ©ldÃ¡ul az erÅ‘-}
 {21063}{}{items such as forcefields. Also, as a safety precaution}
-{21064}{}{ságból, ha az áramellátás csökken, bizonyos vízálló ajtók}
-{21065}{}{lezárulnak, (hogy meggátoljuk a bázis eláradását veszély}
-{21066}{}{esetén). Ez ugyan korlátozza a bázison való mozgást, de a}
-{21067}{}{legfelsõbb szintre így is el lehet jutni különbözõ}
-{21068}{}{mellékútvonalakon.}
+{21064}{}{sÃ¡gbÃ³l, ha az Ã¡ramellÃ¡tÃ¡s csÃ¶kken, bizonyos vÃ­zÃ¡llÃ³ ajtÃ³k}
+{21065}{}{lezÃ¡rulnak, (hogy meggÃ¡toljuk a bÃ¡zis elÃ¡radÃ¡sÃ¡t veszÃ©ly}
+{21066}{}{esetÃ©n). Ez ugyan korlÃ¡tozza a bÃ¡zison valÃ³ mozgÃ¡st, de a}
+{21067}{}{legfelsÅ‘bb szintre Ã­gy is el lehet jutni kÃ¼lÃ¶nbÃ¶zÅ‘}
+{21068}{}{mellÃ©kÃºtvonalakon.}
 {21069}{}{**END-PAR**}
-{21070}{}{Az igazi problémát az jelentené, ha a számítógép leállna,}
-{21071}{}{vagy megsemmisülne. Mindkét esetben kritikus állapotba}
-{21072}{}{kerülne a reaktor, mely hozzávetõleg két órán belül leol-}
-{21073}{}{vadáshoz vezetne. Ezért szükséges, hogy megépítsünk egy}
-{21074}{}{emberek által felügyelt biztonsági rendszert. Tudom, hogy}
-{21075}{}{azt gondolják rólam, vészmadár vagyok, amiért ilyen el-}
-{21076}{}{képzelhetetlen eshetõségeken gondolkozom, de sosem árt}
-{21077}{}{felkészülni.}
+{21070}{}{Az igazi problÃ©mÃ¡t az jelentenÃ©, ha a szÃ¡mÃ­tÃ³gÃ©p leÃ¡llna,}
+{21071}{}{vagy megsemmisÃ¼lne. MindkÃ©t esetben kritikus Ã¡llapotba}
+{21072}{}{kerÃ¼lne a reaktor, mely hozzÃ¡vetÅ‘leg kÃ©t Ã³rÃ¡n belÃ¼l leol-}
+{21073}{}{vadÃ¡shoz vezetne. EzÃ©rt szÃ¼ksÃ©ges, hogy megÃ©pÃ­tsÃ¼nk egy}
+{21074}{}{emberek Ã¡ltal felÃ¼gyelt biztonsÃ¡gi rendszert. Tudom, hogy}
+{21075}{}{azt gondoljÃ¡k rÃ³lam, vÃ©szmadÃ¡r vagyok, amiÃ©rt ilyen el-}
+{21076}{}{kÃ©pzelhetetlen eshetÅ‘sÃ©geken gondolkozom, de sosem Ã¡rt}
+{21077}{}{felkÃ©szÃ¼lni.}
 {21078}{}{**END-PAR**}
-{21079}{}{Addig is egyszerûen biztosítsuk, hogy ne robbantsa fel}
-{21080}{}{senki a számítógépet (he-he-he).}
+{21079}{}{Addig is egyszerÅ±en biztosÃ­tsuk, hogy ne robbantsa fel}
+{21080}{}{senki a szÃ¡mÃ­tÃ³gÃ©pet (he-he-he).}
 {21081}{}{**END-PAR**}
-{21082}{}{Tisztelettel, Tom Murray, Elnök, A.B.}
+{21082}{}{Tisztelettel, Tom Murray, ElnÃ¶k, A.B.}
 {21083}{}{**END-DISK**}

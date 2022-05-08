@@ -1,10 +1,10 @@
-{100}{}{Ez a generátor súlyosan megrongálódott.}
-{101}{}{Talán meg tudod javítani.}
-{102}{}{Ez egy alig-alig m?köd? generátor.}
-{103}{}{M?ködik, de nem szakítja meg magát.}
-{104}{}{Hát igen, ez tönkrement. A rugdalgatás nemigen segít rajta.}
+{100}{}{Ez a generÃ¡tor sÃºlyosan megrongÃ¡lÃ³dott.}
+{101}{}{TalÃ¡n meg tudod javÃ­tani.}
+{102}{}{Ez egy alig-alig m?kÃ¶d? generÃ¡tor.}
+{103}{}{M?kÃ¶dik, de nem szakÃ­tja meg magÃ¡t.}
+{104}{}{HÃ¡t igen, ez tÃ¶nkrement. A rugdalgatÃ¡s nemigen segÃ­t rajta.}
 {105}{}{Majdnem megvolt.}
-{106}{}{Csak még egy kicsikét...}
-{107}{}{Ezt lehetetlenségnek t?nik megjavítani.}
-{108}{}{Ahogy a generátor életre kel, a fények villogva kigyulladnak.}
-{200}{}{Sikeresen megjavítottad a generátort.}
+{106}{}{Csak mÃ©g egy kicsikÃ©t...}
+{107}{}{Ezt lehetetlensÃ©gnek t?nik megjavÃ­tani.}
+{108}{}{Ahogy a generÃ¡tor Ã©letre kel, a fÃ©nyek villogva kigyulladnak.}
+{200}{}{Sikeresen megjavÃ­tottad a generÃ¡tort.}

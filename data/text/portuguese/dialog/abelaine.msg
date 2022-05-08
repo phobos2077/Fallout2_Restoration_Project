@@ -1,35 +1,35 @@
-{100}{}{Você vê uma freira robusta.}
-{101}{}{Você vê Elaine.}
-{102}{}{Você ainda a vê.}
+{100}{}{VocÃª vÃª uma freira robusta.}
+{101}{}{VocÃª vÃª Elaine.}
+{102}{}{VocÃª ainda a vÃª.}
 {200}{}{Meus cumprimentos!}
-{201}{}{Oi, qual é o seu nome?}
-{202}{}{O que você pode me dizer sobre a Abadia?}
+{201}{}{Oi, qual Ã© o seu nome?}
+{202}{}{O que vocÃª pode me dizer sobre a Abadia?}
 {203}{}{Adeus.}
-{300}{}{Se você quer saber mais sobre nossa ordem, falar com o Abade. Você pode encontrá-lo em seus aposentos no terceiro andar.}
+{300}{}{Se vocÃª quer saber mais sobre nossa ordem, falar com o Abade. VocÃª pode encontrÃ¡-lo em seus aposentos no terceiro andar.}
 {301}{}{Eu vejo. Mais algumas perguntas...}
-{400}{}{Claro. O que você gostaria de saber?}
-{401}{}{Qual é o seu nome?}
+{400}{}{Claro. O que vocÃª gostaria de saber?}
+{401}{}{Qual Ã© o seu nome?}
 {402}{}{Nada realmente, tchau.}
-{403}{}{O que você pode me dizer sobre a Abadia?}
-{500}{}{Meu nome é Elaine.}
+{403}{}{O que vocÃª pode me dizer sobre a Abadia?}
+{500}{}{Meu nome Ã© Elaine.}
 {501}{}{Eu vejo. Mais algumas perguntas...}
-{600}{}{Ei! Antes de ir, talvez você possa me fazer um favor. Eu deveria trazer essa máquina para Max na
-  sala de cópia do porão. Mas você vê, meu joelho esquerdo tem doído ultimamente, e é uma dor real para eu subir e descer
-  todas aquelas escadas. Você se incomodaria demais para lhe trazer essa parte?}
+{600}{}{Ei! Antes de ir, talvez vocÃª possa me fazer um favor. Eu deveria trazer essa mÃ¡quina para Max na
+Â  sala de cÃ³pia do porÃ£o. Mas vocÃª vÃª, meu joelho esquerdo tem doÃ­do ultimamente, e Ã© uma dor real para eu subir e descer
+Â  todas aquelas escadas. VocÃª se incomodaria demais para lhe trazer essa parte?}
 {601}{}{Com certeza.}
-{602}{}{Desculpe, eu não tenho tempo para isso. Tchau.}
-{603}{}{Eu pareço o pessoal do serviço de entrega? Faça você mesmo, sua cadela gorda preguiçosa. Tchau.}
-{604}{}{Obrigado! Aqui está a parte. A sala de cópia está no porão. Basta usar as escadas diretamente atrás do irmão Matthew
-  na área da capela.}
-{605}{}{Não é um problema. [Você toma a parte.] Vou levar-lo para Max imediatamente.}
+{602}{}{Desculpe, eu nÃ£o tenho tempo para isso. Tchau.}
+{603}{}{Eu pareÃ§o o pessoal do serviÃ§o de entrega? FaÃ§a vocÃª mesmo, sua cadela gorda preguiÃ§osa. Tchau.}
+{604}{}{Obrigado! Aqui estÃ¡ a parte. A sala de cÃ³pia estÃ¡ no porÃ£o. Basta usar as escadas diretamente atrÃ¡s do irmÃ£o Matthew
+Â  na Ã¡rea da capela.}
+{605}{}{NÃ£o Ã© um problema. [VocÃª toma a parte.] Vou levar-lo para Max imediatamente.}
 {700}{}{Eu}
-{701}{}{Quem você?}
+{701}{}{Quem vocÃª?}
 {710}{}{Hehe. Que bonito nome.}
 {711}{}{Adeus!}
-{720}{}{Você é um pequeno homem especial, você não é? Você poderia me fazer um grande favor e ser meu ajudante especial hoje?}
-{721}{}{Você é um pequeno homem especial, você não é? Você poderia me fazer um grande favor e ser meu ajudante especial hoje?}
+{720}{}{VocÃª Ã© um pequeno homem especial, vocÃª nÃ£o Ã©? VocÃª poderia me fazer um grande favor e ser meu ajudante especial hoje?}
+{721}{}{VocÃª Ã© um pequeno homem especial, vocÃª nÃ£o Ã©? VocÃª poderia me fazer um grande favor e ser meu ajudante especial hoje?}
 {722}{}{Eu especial. Eu ajudo.}
-{723}{}{Eu não quero ajudar.}
-{730}{}{Mesmo? Ótimo! Por favor, entregue esta peça de máquina para Max na sala de cópia. Ele pode ser encontrado no SÓTÃO. OK?}
-{731}{}{Eu não vou deixar você para baixo!}
-{740}{}{Você continua caminhando agora.}
+{723}{}{Eu nÃ£o quero ajudar.}
+{730}{}{Mesmo? Ã“timo! Por favor, entregue esta peÃ§a de mÃ¡quina para Max na sala de cÃ³pia. Ele pode ser encontrado no SÃ“TÃƒO. OK?}
+{731}{}{Eu nÃ£o vou deixar vocÃª para baixo!}
+{740}{}{VocÃª continua caminhando agora.}

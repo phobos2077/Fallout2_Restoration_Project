@@ -1,27 +1,27 @@
-{100}{}{Ves al jefe de Asignaciones Ilícitas, Chet.}
+{100}{}{Ves al jefe de Asignaciones IlÃ­citas, Chet.}
 {101}{}{Ves a un hombre de aspecto sospechoso con un uniforme del Refugio 13.}
-{102}{}{Ves al jefe de Asignaciones Ilícitas, Chet.}
+{102}{}{Ves al jefe de Asignaciones IlÃ­citas, Chet.}
 {103}{}{Ves a un hombre de aspecto sospechoso con un uniforme del Refugio 13.}
-{104}{}{Eh, tú. Soy el jefe de Asignaciones Ilícitas... pero puedes llamarme Chet. ¿Necesitas algo?}
-{105}{}{¿Necesitas algo más?}
+{104}{}{Eh, tÃº. Soy el jefe de Asignaciones IlÃ­citas... pero puedes llamarme Chet. Â¿Necesitas algo?}
+{105}{}{Â¿Necesitas algo mÃ¡s?}
 {106}{}{Activa el indicador de fin de juego, Chet. Ya he terminado.}
-{107}{}{Hazme capitán de la guardia. Ahora.}
-{108}{}{Conviérteme en un auténtico Ciudadano, si te place.}
-{109}{}{Hazme falso Ciudadano y entrégame los documentos.}
-{110}{}{Haz que me retiren la Ciudadanía.}
-{111}{}{Cambia mi reputación.}
+{107}{}{Hazme capitÃ¡n de la guardia. Ahora.}
+{108}{}{ConviÃ©rteme en un autÃ©ntico Ciudadano, si te place.}
+{109}{}{Hazme falso Ciudadano y entrÃ©game los documentos.}
+{110}{}{Haz que me retiren la CiudadanÃ­a.}
+{111}{}{Cambia mi reputaciÃ³n.}
 {112}{}{(No funciona) Necesito un personaje en mi grupo.}
 {113}{}{No, nada.}
-{114}{}{¿A qué?}
+{114}{}{Â¿A quÃ©?}
 {115}{}{Hazme esclavista.}
-{116}{}{Hazme asesino de niños.}
-{117}{}{Nada... sólo baja mi karma a 100.}
-{118}{}{No importa. Quería algo más...}
+{116}{}{Hazme asesino de niÃ±os.}
+{117}{}{Nada... sÃ³lo baja mi karma a 100.}
+{118}{}{No importa. QuerÃ­a algo mÃ¡s...}
 {119}{}{No, nada.}
-{120}{}{¿Quién?}
+{120}{}{Â¿QuiÃ©n?}
 {121}{}{Marcus.}
 {122}{}{Lenny.}
 {123}{}{Vic.}
 {124}{}{Myron.}
-{125}{}{Nadie. Necesito más cosas.}
-{126}{}{No importa. Adiós.}
+{125}{}{Nadie. Necesito mÃ¡s cosas.}
+{126}{}{No importa. AdiÃ³s.}

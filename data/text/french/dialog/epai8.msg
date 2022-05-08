@@ -1,5 +1,5 @@
-{100}{}{Cet ascenseur semble avoir un problème.}
-{101}{}{Il est évident que cet ascenseur ne fonctionne pas. Tu vas devoir trouver un autre chemin.}
-{102}{}{Tu vois une porte d'ascenseur abîmée.}
-{103}{}{En regardant mieux, tu te rends compte que la cabine n'est pas présente et que les portes sont coincées.}
-{104}{}{Tu n'as aucune chance de réparer ceci.}
+{100}{}{Cet ascenseur semble avoir un problÃ¨me.}
+{101}{}{Il est Ã©vident que cet ascenseur ne fonctionne pas. Tu vas devoir trouver un autre chemin.}
+{102}{}{Tu vois une porte d'ascenseur abÃ®mÃ©e.}
+{103}{}{En regardant mieux, tu te rends compte que la cabine n'est pas prÃ©sente et que les portes sont coincÃ©es.}
+{104}{}{Tu n'as aucune chance de rÃ©parer ceci.}

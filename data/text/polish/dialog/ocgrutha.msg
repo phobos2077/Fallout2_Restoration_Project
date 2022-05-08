@@ -1,140 +1,140 @@
-{100}{}{Widzisz du¿ego szpona œmierci. To stworzenie sk³ada siê z rozroœniêtych miêœni, ostrych zêbów i pazurów.}
-{101}{}{Widzisz Gruthara, przywódcê szponów œmierci.}
-{102}{}{Widzisz najdorodniejszego szpona œmierci, jakiego tylko mo¿na sobie wyobraziæ. To stworzenie musi byæ jedyne w swoim rodzaju.}
-{103}{}{Nie obawiaj siê mnie, cz³owieku. Nie zamierzam wyrz¹dziæ ci krzywdy. Nazywam siê Gruthar i jestem przywódc¹ tego stada szponów œmierci. W jakim celu tu przybywasz?}
+{100}{}{Widzisz duÅ¼ego szpona Å›mierci. To stworzenie skÅ‚ada siÄ™ z rozroÅ›niÄ™tych miÄ™Å›ni, ostrych zÄ™bÃ³w i pazurÃ³w.}
+{101}{}{Widzisz Gruthara, przywÃ³dcÄ™ szponÃ³w Å›mierci.}
+{102}{}{Widzisz najdorodniejszego szpona Å›mierci, jakiego tylko moÅ¼na sobie wyobraziÄ‡. To stworzenie musi byÄ‡ jedyne w swoim rodzaju.}
+{103}{}{Nie obawiaj siÄ™ mnie, czÅ‚owieku. Nie zamierzam wyrzÄ…dziÄ‡ ci krzywdy. Nazywam siÄ™ Gruthar i jestem przywÃ³dcÄ… tego stada szponÃ³w Å›mierci. W jakim celu tu przybywasz?}
 {104}{}{W jakim celu tu przybywasz?}
 {105}{}{Uch...}
-{106}{}{¯eby skopaæ twój ty³ek!}
-{107}{}{Jak to mo¿liwe, ¿eby szpon œmierci potrafi³ mówiæ... i to tak dobrze?}
-{108}{}{Chcê wiedzieæ, co siê sta³o z ludŸmi, którzy tu kiedyœ mieszkali.}
-{109}{}{Szukam przedmiotu, który nazywa siê GECK. Powiedziano mi, ¿e mogê go tu znaleŸæ.}
-{110}{}{Poproszono mnie o oczyszczenie nory niebezpiecznych szponów œmierci...}
-{111}{}{Prowadzê œledztwo w sprawie napadów na okoliczne rancza bramin. Czy wiesz coœ na ten temat?}
-{112}{}{Myœlê, ¿e ju¿ sobie pójdê.}
-{113}{}{Nie jesteœ idiot¹, cz³owieku. Widzê prawdê w twoich oczach. Proszê, nie próbuj mnie oszukaæ. Nie mam cierpliwoœci do takich gier.}
-{114}{}{Bardzo dobrze. Jeœli ¿yczysz sobie, aby uwa¿ano ciê za idiotê, to niech tak bêdzie. Wróæ do mnie, gdy zmienisz zdanie.}
-{115}{}{Przepraszam. Sprawiasz wra¿enie osoby upoœledzonej umys³owo. Nie stanowisz zagro¿enia dla mnie ani dla mojego stada. Witamy ciê tu z przyjaŸni¹ i mo¿esz uznaæ to miejsce za bezpieczn¹ przystañ chronion¹ przed œwiatem zewnêtrznym. Nie skrzywdŸ nikogo i trzymaj siê z dala od k³opotów, a bêdziemy ciê tu zawsze mi³o witaæ.}
-{116}{}{Wybacz mi. Nie chcê byæ niegrzeczny, ale nie s¹dzê, aby to wnosi³o coœ do naszej rozmowy. Potrafiê mówiæ twoim jêzykiem, potrafiê te¿ czytaæ wasze pismo. Có¿ jeszcze trzeba powiedzieæ?}
+{106}{}{Å»eby skopaÄ‡ twÃ³j tyÅ‚ek!}
+{107}{}{Jak to moÅ¼liwe, Å¼eby szpon Å›mierci potrafiÅ‚ mÃ³wiÄ‡... i to tak dobrze?}
+{108}{}{ChcÄ™ wiedzieÄ‡, co siÄ™ staÅ‚o z ludÅºmi, ktÃ³rzy tu kiedyÅ› mieszkali.}
+{109}{}{Szukam przedmiotu, ktÃ³ry nazywa siÄ™ GECK. Powiedziano mi, Å¼e mogÄ™ go tu znaleÅºÄ‡.}
+{110}{}{Poproszono mnie o oczyszczenie nory niebezpiecznych szponÃ³w Å›mierci...}
+{111}{}{ProwadzÄ™ Å›ledztwo w sprawie napadÃ³w na okoliczne rancza bramin. Czy wiesz coÅ› na ten temat?}
+{112}{}{MyÅ›lÄ™, Å¼e juÅ¼ sobie pÃ³jdÄ™.}
+{113}{}{Nie jesteÅ› idiotÄ…, czÅ‚owieku. WidzÄ™ prawdÄ™ w twoich oczach. ProszÄ™, nie prÃ³buj mnie oszukaÄ‡. Nie mam cierpliwoÅ›ci do takich gier.}
+{114}{}{Bardzo dobrze. JeÅ›li Å¼yczysz sobie, aby uwaÅ¼ano ciÄ™ za idiotÄ™, to niech tak bÄ™dzie. WrÃ³Ä‡ do mnie, gdy zmienisz zdanie.}
+{115}{}{Przepraszam. Sprawiasz wraÅ¼enie osoby upoÅ›ledzonej umysÅ‚owo. Nie stanowisz zagroÅ¼enia dla mnie ani dla mojego stada. Witamy ciÄ™ tu z przyjaÅºniÄ… i moÅ¼esz uznaÄ‡ to miejsce za bezpiecznÄ… przystaÅ„ chronionÄ… przed Å›wiatem zewnÄ™trznym. Nie skrzywdÅº nikogo i trzymaj siÄ™ z dala od kÅ‚opotÃ³w, a bÄ™dziemy ciÄ™ tu zawsze miÅ‚o witaÄ‡.}
+{116}{}{Wybacz mi. Nie chcÄ™ byÄ‡ niegrzeczny, ale nie sÄ…dzÄ™, aby to wnosiÅ‚o coÅ› do naszej rozmowy. PotrafiÄ™ mÃ³wiÄ‡ twoim jÄ™zykiem, potrafiÄ™ teÅ¼ czytaÄ‡ wasze pismo. CÃ³Å¼ jeszcze trzeba powiedzieÄ‡?}
 {117}{}{Rozumiem.}
-{118}{}{Nie chcê siê narzucaæ, jednak z pewnoœci¹ rozumiesz moje zainteresowanie w tej kwestii.}
-{119}{}{Jasne, a mo¿e jednak pozwól mi zdecydowaæ, co wnosi, a co nie wnosi?}
-{120}{}{Tak, zdecydowanie rozumiem. Bardzo dobrze. Jeœli rozstaniemy siê jak przyjaciele, cz³owieku, to polecam ci rozmowê z Gorisem. On ma wiêcej zrozumienia dla tych kwestii ni¿ ja. Zwykle mo¿na go znaleŸæ w bibliotece Krypty.}
-{121}{}{Dziêkujê. Z niecierpliwoœci¹ oczekujê spotkania z Gorisem.}
-{122}{}{Nie mam zamiaru dodawaæ szpona œmierci do listy moich przyjació³. ¯egnaj!}
+{118}{}{Nie chcÄ™ siÄ™ narzucaÄ‡, jednak z pewnoÅ›ciÄ… rozumiesz moje zainteresowanie w tej kwestii.}
+{119}{}{Jasne, a moÅ¼e jednak pozwÃ³l mi zdecydowaÄ‡, co wnosi, a co nie wnosi?}
+{120}{}{Tak, zdecydowanie rozumiem. Bardzo dobrze. JeÅ›li rozstaniemy siÄ™ jak przyjaciele, czÅ‚owieku, to polecam ci rozmowÄ™ z Gorisem. On ma wiÄ™cej zrozumienia dla tych kwestii niÅ¼ ja. Zwykle moÅ¼na go znaleÅºÄ‡ w bibliotece Krypty.}
+{121}{}{DziÄ™kujÄ™. Z niecierpliwoÅ›ciÄ… oczekujÄ™ spotkania z Gorisem.}
+{122}{}{Nie mam zamiaru dodawaÄ‡ szpona Å›mierci do listy moich przyjaciÃ³Å‚. Å»egnaj!}
 {123}{}{Dobrze.}
-{124}{}{Nie ma ich tu, cz³owieku. Nie zabiliœmy ich, by zabraæ im dom. To nie jest sposób, w jaki postêpujemy. Rozumiem, ¿e mo¿esz mi nie uwierzyæ, ale mam nadziejê, ¿e bêdziesz mnie s¹dziæ po moich czynach wobec ciebie, a nie po w³asnych uprzedzeniach i lêku.}
-{125}{}{Hej, mo¿e ci przyjdzie do ³ba, ¿e mogê skopaæ twój ty³ek?}
-{126}{}{Grutharze, sprawiasz wra¿enie istoty postêpuj¹cej zgodnie z zasadami honoru.}
+{124}{}{Nie ma ich tu, czÅ‚owieku. Nie zabiliÅ›my ich, by zabraÄ‡ im dom. To nie jest sposÃ³b, w jaki postÄ™pujemy. Rozumiem, Å¼e moÅ¼esz mi nie uwierzyÄ‡, ale mam nadziejÄ™, Å¼e bÄ™dziesz mnie sÄ…dziÄ‡ po moich czynach wobec ciebie, a nie po wÅ‚asnych uprzedzeniach i lÄ™ku.}
+{125}{}{Hej, moÅ¼e ci przyjdzie do Å‚ba, Å¼e mogÄ™ skopaÄ‡ twÃ³j tyÅ‚ek?}
+{126}{}{Grutharze, sprawiasz wraÅ¼enie istoty postÄ™pujÄ…cej zgodnie z zasadami honoru.}
 {127}{}{Ta, chyba tak.}
-{128}{}{GECK. Czy to nie jest ma³a jaszczurka... nie, zaczekaj... to gekon. Przykro mi, ale nie wiem, czym jest GECK, ani gdzie mo¿na go znaleŸæ.}
-{129}{}{Tak, wydaje mi siê, ¿e ju¿ wczeœniej o tym rozmawialiœmy. Nie wiem, czym jest GECK, ani gdzie mo¿na go znaleŸæ.}
-{130}{}{Czy wpuœcisz mnie i pozwolisz mi go poszukaæ?}
-{131}{}{Hej, ten komentarz o ma³ej jaszczurce by³ naprawdê zabawny. Czy to aby nie jest twój krewny?}
-{132}{}{To oczywiste, ¿e rozmowa z tob¹ jest strat¹ czasu. ¯egnam.}
-{133}{}{Szczerze mówi¹c ja te¿ nie mam ca³kowitej pewnoœci, co to jest. Czy bêdzie to w porz¹dku, jeœli go tu poszukam?}
-{134}{}{Przykro mi, ale nie pozwalam ka¿demu chodziæ po tych korytarzach. Jestem odpowiedzialny za bezpieczeñstwo tych, którzy tu ¿yj¹ i muszê zachowaæ ostro¿noœæ. Jednak¿e poszukam tego GECKa i jeœli go znajdê, dam ci znaæ.}
-{135}{}{Przykro mi, ale nie pozwalam ka¿demu chodziæ po tych korytarzach. Jestem odpowiedzialny za bezpieczeñstwo tych, którzy tu ¿yj¹ i muszê zachowaæ ostro¿noœæ.}
-{136}{}{S³uchaj. Nie jesteœ w³aœcicielem tego miejsca. Mo¿e rozejrzê siê wokó³ bez wzglêdu na to, czy ci siê to podoba, czy nie!}
-{137}{}{Rozumiem to Grutharze i uszanujê wasz¹ potrzebê prywatnoœci.}
-{138}{}{Rozumiem to. Nie znasz mnie wystarczaj¹co dobrze, by mi zaufaæ. A mo¿e pomogê wam jakoœ, a w zamian za to ty pozwolisz mi siê rozejrzeæ?}
-{139}{}{[Gruthar przez chwilê uporczywie wpatruje siê w ciebie] Czy mo¿e ciê interesowaæ pomaganie nam? Tak, wyczuwam, ¿e niewiele w tobie z³a. Bardzo dobrze, zaufam ci.}
-{140}{}{[Gruthar przez chwilê uporczywie wpatruje siê w ciebie] Nie s¹dzê. Wyczuwam w tobie z³o, cz³owieku. Nie mogê ryzykowaæ ¿yciem tych, których chroniê, ryzykuj¹c wspó³pracê z tob¹.}
-{141}{}{Dziêkujê.}
-{142}{}{Œwietnie. Myœlê, ¿e ma³okalibrowa lobotomia jest w³aœciwym rozwi¹zaniem mojego problemu.}
-{143}{}{Przykro mi, ¿e tak to odbierasz, Grutharze.}
-{144}{}{A wiêc bêdê siê ju¿ zbieraæ.}
-{145}{}{Jest tu wiele maszyn zbudowanych przez ludzi. D³onie szpona œmierci nie potrafi¹ ich obs³ugiwaæ. Jednak¿e jest jedna maszyna, która rozumie pytania. Proszê j¹, by uruchamia³a inne maszyny, a ona jest pos³uszna. Ta maszyna ju¿ nie s³ucha. Nie bêdzie ju¿ uruchamiaæ innych maszyn. Zaczyna nam brakowaæ wody i ¿ywnoœci. Zarz¹dzi³em napady na ziemie ludzi, abyœmy mogli przetrwaæ. Nie przynosi mi to dumy i chêtnie po³o¿ê temu kres. Jeœli naprawisz maszynê, bêdê móg³ znowu ¿ywiæ swój lud. Wtedy z chêci¹ odwo³am napady. Czy zgodzisz siê na to?}
-{146}{}{Przykro mi, ale nie mam pojêcia jak naprawiæ coœ takiego.}
-{147}{}{Nie jestem technikiem, ale mogê spróbowaæ.}
-{148}{}{Hmm... wygl¹da na to, ¿e zepsu³ siê wam modu³ rozpoznawania mowy. ChodŸmy obejrzeæ tê maszynê.}
-{149}{}{Po chwili zastanowienia dochodzê do wniosku, ¿e muszê to jeszcze przemyœleæ.}
-{150}{}{Zrobiê dla was co siê da.}
-{151}{}{Odmawiam pomocy szponom œmierci.}
-{152}{}{Dziêkujê. Maszyna znajduje siê w sterowni na trzecim poziomie. Jeœli mo¿esz j¹ naprawiæ, to proszê, zrób to. Pok³adam w tobie moje zaufanie. Proszê, nie zawiedŸ go. Witamy.}
-{153}{}{Grutharze, nie zawiodê ciê. Masz moje s³owo.}
-{154}{}{Dziêki. Od razu siê za to zabiorê.}
-{155}{}{Rzeczywiœcie co minutê rodzi siê kolejny...}
-{156}{}{Rozumiem... no có¿, szpony œmierci s¹ z natury niebezpieczne i kiedy siê je spotyka w dziczy, nale¿y zachowaæ ogromn¹ ostro¿noœæ. Jednak¿e jestem pewien, ¿e nie usz³o twej uwadze, i¿ stanowimy wyj¹tek. Moje stado nie stanowi zagro¿enia dla ciebie ani dla waszych ludzkich spo³ecznoœci. Wyewoluowaliœmy dalej ni¿ nasi zwykli kuzyni i ¿yczymy sobie jedynie, by nas zostawiono w spokoju.}
+{128}{}{GECK. Czy to nie jest maÅ‚a jaszczurka... nie, zaczekaj... to gekon. Przykro mi, ale nie wiem, czym jest GECK, ani gdzie moÅ¼na go znaleÅºÄ‡.}
+{129}{}{Tak, wydaje mi siÄ™, Å¼e juÅ¼ wczeÅ›niej o tym rozmawialiÅ›my. Nie wiem, czym jest GECK, ani gdzie moÅ¼na go znaleÅºÄ‡.}
+{130}{}{Czy wpuÅ›cisz mnie i pozwolisz mi go poszukaÄ‡?}
+{131}{}{Hej, ten komentarz o maÅ‚ej jaszczurce byÅ‚ naprawdÄ™ zabawny. Czy to aby nie jest twÃ³j krewny?}
+{132}{}{To oczywiste, Å¼e rozmowa z tobÄ… jest stratÄ… czasu. Å»egnam.}
+{133}{}{Szczerze mÃ³wiÄ…c ja teÅ¼ nie mam caÅ‚kowitej pewnoÅ›ci, co to jest. Czy bÄ™dzie to w porzÄ…dku, jeÅ›li go tu poszukam?}
+{134}{}{Przykro mi, ale nie pozwalam kaÅ¼demu chodziÄ‡ po tych korytarzach. Jestem odpowiedzialny za bezpieczeÅ„stwo tych, ktÃ³rzy tu Å¼yjÄ… i muszÄ™ zachowaÄ‡ ostroÅ¼noÅ›Ä‡. JednakÅ¼e poszukam tego GECKa i jeÅ›li go znajdÄ™, dam ci znaÄ‡.}
+{135}{}{Przykro mi, ale nie pozwalam kaÅ¼demu chodziÄ‡ po tych korytarzach. Jestem odpowiedzialny za bezpieczeÅ„stwo tych, ktÃ³rzy tu Å¼yjÄ… i muszÄ™ zachowaÄ‡ ostroÅ¼noÅ›Ä‡.}
+{136}{}{SÅ‚uchaj. Nie jesteÅ› wÅ‚aÅ›cicielem tego miejsca. MoÅ¼e rozejrzÄ™ siÄ™ wokÃ³Å‚ bez wzglÄ™du na to, czy ci siÄ™ to podoba, czy nie!}
+{137}{}{Rozumiem to Grutharze i uszanujÄ™ waszÄ… potrzebÄ™ prywatnoÅ›ci.}
+{138}{}{Rozumiem to. Nie znasz mnie wystarczajÄ…co dobrze, by mi zaufaÄ‡. A moÅ¼e pomogÄ™ wam jakoÅ›, a w zamian za to ty pozwolisz mi siÄ™ rozejrzeÄ‡?}
+{139}{}{[Gruthar przez chwilÄ™ uporczywie wpatruje siÄ™ w ciebie] Czy moÅ¼e ciÄ™ interesowaÄ‡ pomaganie nam? Tak, wyczuwam, Å¼e niewiele w tobie zÅ‚a. Bardzo dobrze, zaufam ci.}
+{140}{}{[Gruthar przez chwilÄ™ uporczywie wpatruje siÄ™ w ciebie] Nie sÄ…dzÄ™. Wyczuwam w tobie zÅ‚o, czÅ‚owieku. Nie mogÄ™ ryzykowaÄ‡ Å¼yciem tych, ktÃ³rych chroniÄ™, ryzykujÄ…c wspÃ³Å‚pracÄ™ z tobÄ….}
+{141}{}{DziÄ™kujÄ™.}
+{142}{}{Åšwietnie. MyÅ›lÄ™, Å¼e maÅ‚okalibrowa lobotomia jest wÅ‚aÅ›ciwym rozwiÄ…zaniem mojego problemu.}
+{143}{}{Przykro mi, Å¼e tak to odbierasz, Grutharze.}
+{144}{}{A wiÄ™c bÄ™dÄ™ siÄ™ juÅ¼ zbieraÄ‡.}
+{145}{}{Jest tu wiele maszyn zbudowanych przez ludzi. DÅ‚onie szpona Å›mierci nie potrafiÄ… ich obsÅ‚ugiwaÄ‡. JednakÅ¼e jest jedna maszyna, ktÃ³ra rozumie pytania. ProszÄ™ jÄ…, by uruchamiaÅ‚a inne maszyny, a ona jest posÅ‚uszna. Ta maszyna juÅ¼ nie sÅ‚ucha. Nie bÄ™dzie juÅ¼ uruchamiaÄ‡ innych maszyn. Zaczyna nam brakowaÄ‡ wody i Å¼ywnoÅ›ci. ZarzÄ…dziÅ‚em napady na ziemie ludzi, abyÅ›my mogli przetrwaÄ‡. Nie przynosi mi to dumy i chÄ™tnie poÅ‚oÅ¼Ä™ temu kres. JeÅ›li naprawisz maszynÄ™, bÄ™dÄ™ mÃ³gÅ‚ znowu Å¼ywiÄ‡ swÃ³j lud. Wtedy z chÄ™ciÄ… odwoÅ‚am napady. Czy zgodzisz siÄ™ na to?}
+{146}{}{Przykro mi, ale nie mam pojÄ™cia jak naprawiÄ‡ coÅ› takiego.}
+{147}{}{Nie jestem technikiem, ale mogÄ™ sprÃ³bowaÄ‡.}
+{148}{}{Hmm... wyglÄ…da na to, Å¼e zepsuÅ‚ siÄ™ wam moduÅ‚ rozpoznawania mowy. ChodÅºmy obejrzeÄ‡ tÄ™ maszynÄ™.}
+{149}{}{Po chwili zastanowienia dochodzÄ™ do wniosku, Å¼e muszÄ™ to jeszcze przemyÅ›leÄ‡.}
+{150}{}{ZrobiÄ™ dla was co siÄ™ da.}
+{151}{}{Odmawiam pomocy szponom Å›mierci.}
+{152}{}{DziÄ™kujÄ™. Maszyna znajduje siÄ™ w sterowni na trzecim poziomie. JeÅ›li moÅ¼esz jÄ… naprawiÄ‡, to proszÄ™, zrÃ³b to. PokÅ‚adam w tobie moje zaufanie. ProszÄ™, nie zawiedÅº go. Witamy.}
+{153}{}{Grutharze, nie zawiodÄ™ ciÄ™. Masz moje sÅ‚owo.}
+{154}{}{DziÄ™ki. Od razu siÄ™ za to zabiorÄ™.}
+{155}{}{RzeczywiÅ›cie co minutÄ™ rodzi siÄ™ kolejny...}
+{156}{}{Rozumiem... no cÃ³Å¼, szpony Å›mierci sÄ… z natury niebezpieczne i kiedy siÄ™ je spotyka w dziczy, naleÅ¼y zachowaÄ‡ ogromnÄ… ostroÅ¼noÅ›Ä‡. JednakÅ¼e jestem pewien, Å¼e nie uszÅ‚o twej uwadze, iÅ¼ stanowimy wyjÄ…tek. Moje stado nie stanowi zagroÅ¼enia dla ciebie ani dla waszych ludzkich spoÅ‚ecznoÅ›ci. WyewoluowaliÅ›my dalej niÅ¼ nasi zwykli kuzyni i Å¼yczymy sobie jedynie, by nas zostawiono w spokoju.}
 {157}{}{Uch... jasne.}
-{158}{}{Grutharze, twoja podwy¿szona inteligencja mog³aby uczyniæ ciê jeszcze wiêkszym zagro¿eniem ni¿ przeciêtny szpon œmierci.}
-{159}{}{Dostrzegam to, ¿e nie jesteœcie takimi dzikimi zabójcami, za jakich zwykle uchodz¹ szpony œmierci.}
-{160}{}{Spêdzi³em wiele bezsennych nocy, zastanawiaj¹c siê nad tym i rozpatruj¹c tego rodzaju kwestie. Wreszcie doszed³em do wniosku, ¿e ciê¿ary i zobowi¹zania zwi¹zane z darem inteligencji s¹ nieŸliczone. S¹ tylko dwie rzeczy, które mo¿e wybraæ ka¿da myœl¹ca istota. Mo¿e albo zaakceptowaæ ¿ycie i wyci¹gn¹æ z niego najwiêksz¹ korzyœæ dla siebie i dla innych, albo zwyczajnie przestaæ istnieæ. Postanowi³em zaakceptowaæ wyzwania, jakie przede mn¹ stawia ¿ycie. Jeœli to czyni mnie zagro¿eniem dla ludzkoœci, to ¿al mi ma³ego rozumu, który widzi to w ten sposób...}
-{161}{}{No tak... mo¿e i mam ma³y rozum, ale za to mam DU¯¥ broñ.}
-{162}{}{Zgadzam siê z tob¹ w ca³ej rozci¹g³oœci, Grutharze. Nie s¹dzê, ¿ebyœ by³ zagro¿eniem.}
-{163}{}{Uch... jasne. Co pomówi³eœ.}
-{164}{}{[Gruthar nic nie mówi i zdaje siê uwa¿nie rozwa¿aæ swoj¹ odpowiedŸ] Muszê z przykroœci¹ stwierdziæ, ¿e to ja zarz¹dzi³em napady na ziemie ludzi. Jestem odpowiedzialny za ¿ycie wielu. Zaczyna brakowaæ nam ¿ywnoœci, wody i innych zapasów. Dopóki nie uda nam siê zmieniæ tej sytuacji, zmuszony jestem braæ to, o co ja, szpon œmierci, nie mogê ludzi poprosiæ.}
-{165}{}{Skoro ju¿ znam Ÿród³o napadów, po prostu je wyeliminujê!}
-{166}{}{Przykro mi to s³yszeæ. Czy mogê pomóc wam w jakiœ sposób, tak, abyœcie mogli zaprzestaæ napadów?}
-{167}{}{Wiem ju¿ dosyæ. Muszê to teraz przemyœleæ.}
+{158}{}{Grutharze, twoja podwyÅ¼szona inteligencja mogÅ‚aby uczyniÄ‡ ciÄ™ jeszcze wiÄ™kszym zagroÅ¼eniem niÅ¼ przeciÄ™tny szpon Å›mierci.}
+{159}{}{Dostrzegam to, Å¼e nie jesteÅ›cie takimi dzikimi zabÃ³jcami, za jakich zwykle uchodzÄ… szpony Å›mierci.}
+{160}{}{SpÄ™dziÅ‚em wiele bezsennych nocy, zastanawiajÄ…c siÄ™ nad tym i rozpatrujÄ…c tego rodzaju kwestie. Wreszcie doszedÅ‚em do wniosku, Å¼e ciÄ™Å¼ary i zobowiÄ…zania zwiÄ…zane z darem inteligencji sÄ… nieÅºliczone. SÄ… tylko dwie rzeczy, ktÃ³re moÅ¼e wybraÄ‡ kaÅ¼da myÅ›lÄ…ca istota. MoÅ¼e albo zaakceptowaÄ‡ Å¼ycie i wyciÄ…gnÄ…Ä‡ z niego najwiÄ™kszÄ… korzyÅ›Ä‡ dla siebie i dla innych, albo zwyczajnie przestaÄ‡ istnieÄ‡. PostanowiÅ‚em zaakceptowaÄ‡ wyzwania, jakie przede mnÄ… stawia Å¼ycie. JeÅ›li to czyni mnie zagroÅ¼eniem dla ludzkoÅ›ci, to Å¼al mi maÅ‚ego rozumu, ktÃ³ry widzi to w ten sposÃ³b...}
+{161}{}{No tak... moÅ¼e i mam maÅ‚y rozum, ale za to mam DUÅ»Ä„ broÅ„.}
+{162}{}{Zgadzam siÄ™ z tobÄ… w caÅ‚ej rozciÄ…gÅ‚oÅ›ci, Grutharze. Nie sÄ…dzÄ™, Å¼ebyÅ› byÅ‚ zagroÅ¼eniem.}
+{163}{}{Uch... jasne. Co pomÃ³wiÅ‚eÅ›.}
+{164}{}{[Gruthar nic nie mÃ³wi i zdaje siÄ™ uwaÅ¼nie rozwaÅ¼aÄ‡ swojÄ… odpowiedÅº] MuszÄ™ z przykroÅ›ciÄ… stwierdziÄ‡, Å¼e to ja zarzÄ…dziÅ‚em napady na ziemie ludzi. Jestem odpowiedzialny za Å¼ycie wielu. Zaczyna brakowaÄ‡ nam Å¼ywnoÅ›ci, wody i innych zapasÃ³w. DopÃ³ki nie uda nam siÄ™ zmieniÄ‡ tej sytuacji, zmuszony jestem braÄ‡ to, o co ja, szpon Å›mierci, nie mogÄ™ ludzi poprosiÄ‡.}
+{165}{}{Skoro juÅ¼ znam ÅºrÃ³dÅ‚o napadÃ³w, po prostu je wyeliminujÄ™!}
+{166}{}{Przykro mi to sÅ‚yszeÄ‡. Czy mogÄ™ pomÃ³c wam w jakiÅ› sposÃ³b, tak, abyÅ›cie mogli zaprzestaÄ‡ napadÃ³w?}
+{167}{}{Wiem juÅ¼ dosyÄ‡. MuszÄ™ to teraz przemyÅ›leÄ‡.}
 {168}{}{Rozumiem...}
-{169}{}{Nie podoba mi siê twoja decyzja, ale akceptujê j¹. Mo¿esz odejœæ, ale proszê, wróæ tu, jeœli zmienisz zdanie.}
+{169}{}{Nie podoba mi siÄ™ twoja decyzja, ale akceptujÄ™ jÄ…. MoÅ¼esz odejÅ›Ä‡, ale proszÄ™, wrÃ³Ä‡ tu, jeÅ›li zmienisz zdanie.}
 {170}{}{Zrobione.}
 {171}{}{Witaj}
-{172}{}{Nie, ale ju¿ siê za to zabieram.}
-{173}{}{Przykro mi, Grutharze. Zepsu³ siê modu³ rozpoznawania mowy. Muszê pójœæ znaleŸæ jakiœ.}
-{174}{}{Nie rozumiem, jak dzia³aj¹ takie rzeczy, ale ci ufam,}
+{172}{}{Nie, ale juÅ¼ siÄ™ za to zabieram.}
+{173}{}{Przykro mi, Grutharze. ZepsuÅ‚ siÄ™ moduÅ‚ rozpoznawania mowy. MuszÄ™ pÃ³jÅ›Ä‡ znaleÅºÄ‡ jakiÅ›.}
+{174}{}{Nie rozumiem, jak dziaÅ‚ajÄ… takie rzeczy, ale ci ufam,}
 {175}{}{Zrobione.}
-{176}{}{Jeszcze wrócê, masz moje s³owo.}
+{176}{}{Jeszcze wrÃ³cÄ™, masz moje sÅ‚owo.}
 {177}{}{Witaj}
-{178}{}{Nie, wci¹¿ szukam.}
+{178}{}{Nie, wciÄ…Å¼ szukam.}
 {179}{}{Tak, oto ona!}
 {180}{}{}
-{181}{}{Moja wiara w ludzi zosta³a przywrócona. Dziêkujê za wszystko, co zawdziêcza ci stado. Czy jest coœ, co móg³bym zrobiæ dla ciebie w zamian?}
-{182}{}{Powiedzia³eœ, ¿e dasz mi znaæ, jeœli znajdziesz GECKa. Uda³o ci siê go zlokalizowaæ?}
-{183}{}{Tak, szukam GECKa. Powiedziano mi, ¿e mo¿na tu takowy znaleŸæ. Wiesz, gdzie siê znajduje?}
-{184}{}{Nie, dziêkujê. Mam wszystko, czego potrzebujê.}
-{185}{}{Tak, w magazynie by³ jeden GECK. Jest twój wraz z podziêkowaniami.}
-{186}{}{Tak, w magazynie znajdowa³ siê jeden GECK. Niestety, znikn¹³. Przykro mi, ¿e nie mogê ci go ofiarowaæ jako nagrodê za twoj¹ szczodr¹ pomoc.}
-{187}{}{Dziêki!}
-{188}{}{Uch... nic nie szkodzi. Spróbujê znaleŸæ go gdzieœ indziej.}
-{189}{}{Witaj ponownie, cz³owieku. Mam nadziejê, ¿e nie zamierzasz udawaæ przede mn¹ g³upca.}
-{190}{}{Grutharze, pragnê przeprosiæ i zacz¹æ wszystko od nowa.}
-{191}{}{Wybacz, muszê iœæ.}
-{192}{}{Uch, ja przepraszaæ.}
-{193}{}{Witaj, cz³owieku. Czy twoje zdanie uleg³o zmianie? Pomo¿esz nam?}
-{194}{}{Kurde, nie. Chcê tylko jeszcze trochê pos³uchaæ, jak zarzynasz jêzyk.}
-{195}{}{Nie, nie s¹dzê.}
-{196}{}{Tak Grutharze. Pomogê wam.}
-{197}{}{Witam ciê z przyjaŸni¹. Czy wiesz ju¿, co siê sta³o maszynie?}
-{198}{}{Jeszcze nie, ale zaraz siê za to zabiorê.}
-{199}{}{Witam ciê z przyjaŸni¹. Stado zawdziêcza ci ratunek i dziêkujemy ci za to.}
+{181}{}{Moja wiara w ludzi zostaÅ‚a przywrÃ³cona. DziÄ™kujÄ™ za wszystko, co zawdziÄ™cza ci stado. Czy jest coÅ›, co mÃ³gÅ‚bym zrobiÄ‡ dla ciebie w zamian?}
+{182}{}{PowiedziaÅ‚eÅ›, Å¼e dasz mi znaÄ‡, jeÅ›li znajdziesz GECKa. UdaÅ‚o ci siÄ™ go zlokalizowaÄ‡?}
+{183}{}{Tak, szukam GECKa. Powiedziano mi, Å¼e moÅ¼na tu takowy znaleÅºÄ‡. Wiesz, gdzie siÄ™ znajduje?}
+{184}{}{Nie, dziÄ™kujÄ™. Mam wszystko, czego potrzebujÄ™.}
+{185}{}{Tak, w magazynie byÅ‚ jeden GECK. Jest twÃ³j wraz z podziÄ™kowaniami.}
+{186}{}{Tak, w magazynie znajdowaÅ‚ siÄ™ jeden GECK. Niestety, zniknÄ…Å‚. Przykro mi, Å¼e nie mogÄ™ ci go ofiarowaÄ‡ jako nagrodÄ™ za twojÄ… szczodrÄ… pomoc.}
+{187}{}{DziÄ™ki!}
+{188}{}{Uch... nic nie szkodzi. SprÃ³bujÄ™ znaleÅºÄ‡ go gdzieÅ› indziej.}
+{189}{}{Witaj ponownie, czÅ‚owieku. Mam nadziejÄ™, Å¼e nie zamierzasz udawaÄ‡ przede mnÄ… gÅ‚upca.}
+{190}{}{Grutharze, pragnÄ™ przeprosiÄ‡ i zaczÄ…Ä‡ wszystko od nowa.}
+{191}{}{Wybacz, muszÄ™ iÅ›Ä‡.}
+{192}{}{Uch, ja przepraszaÄ‡.}
+{193}{}{Witaj, czÅ‚owieku. Czy twoje zdanie ulegÅ‚o zmianie? PomoÅ¼esz nam?}
+{194}{}{Kurde, nie. ChcÄ™ tylko jeszcze trochÄ™ posÅ‚uchaÄ‡, jak zarzynasz jÄ™zyk.}
+{195}{}{Nie, nie sÄ…dzÄ™.}
+{196}{}{Tak Grutharze. PomogÄ™ wam.}
+{197}{}{Witam ciÄ™ z przyjaÅºniÄ…. Czy wiesz juÅ¼, co siÄ™ staÅ‚o maszynie?}
+{198}{}{Jeszcze nie, ale zaraz siÄ™ za to zabiorÄ™.}
+{199}{}{Witam ciÄ™ z przyjaÅºniÄ…. Stado zawdziÄ™cza ci ratunek i dziÄ™kujemy ci za to.}
 {200}{}{}
 {201}{}{}
-{202}{}{Giñ, zdradziecki cz³ecze!}
+{202}{}{GiÅ„, zdradziecki czÅ‚ecze!}
 {203}{}{}
 {204}{}{}
-{205}{}{Nie mam z tob¹ zatargów, cz³owieku i nie chcê ich mieæ. Staram siê odnosiæ do ciebie w cywilizowany sposób. Proszê, odwzajemnij tê uprzejmoœæ!}
+{205}{}{Nie mam z tobÄ… zatargÃ³w, czÅ‚owieku i nie chcÄ™ ich mieÄ‡. Staram siÄ™ odnosiÄ‡ do ciebie w cywilizowany sposÃ³b. ProszÄ™, odwzajemnij tÄ™ uprzejmoÅ›Ä‡!}
 {206}{}{No dobra, porozmawiajmy.}
-{207}{}{Jesteœ szponem œmierci, a to oznacza wyrok œmierci... znaczy siê, dla ciebie!}
+{207}{}{JesteÅ› szponem Å›mierci, a to oznacza wyrok Å›mierci... znaczy siÄ™, dla ciebie!}
 {208}{}{Przepraszam, Grutharze. Porozmawiajmy.}
-{209}{}{Cokolwiek. Zmiatam st¹d.}
-{210}{}{Nie. Ale jestem tu przywódc¹, wiêc ja decydujê. Jeœli ci siê to nie podoba, mo¿esz wróciæ do swoich ludzkich ziem!}
-{211}{}{Poca³uj mnie w dupê!}
-{212}{}{Dobra, ju¿ sobie idê.}
-{213}{}{Oczywiœcie, Grutharze. To niedobrze, ¿e siê tak zapominam.}
-{214}{}{Zapewniam ciê, ¿e nie próbujê bawiæ siê twoim kosztem. Proszê, wybacz mi, jeœli sprawiam takie wra¿enie. Pomogê, jeœli tylko istnieje taka mo¿liwoœæ.}
-{215}{}{Dziêki.}
-{216}{}{Przepraszam, nie zamierzam siê dalej tak wym¹drzaæ.}
-{217}{}{Daj se, koleœ, siana z t¹ ca³¹ cywilizacj¹. To na mnie nie dzia³a.}
-{218}{}{[Gruthar wydaje z siebie seriê gard³owych warkniêæ] Mo¿e nie jestem w³aœcicielem tego miejsca, ale to jest dom mój i innych, którzy ufaj¹, ¿e ich ochroniê. Nie popychaj mnie do czynów, których ty i ja bêdziemy ¿a³owaæ!}
-{219}{}{Przepraszam. To by³o z mojej strony niegrzeczne.}
-{220}{}{Wal siê ty i wszyscy, którzy ciê przypominaj¹!}
-{221}{}{£³oj! Zmiatam st¹d.}
-{222}{}{Dziêkujê. Proszê, pójdŸ do sterowni i wymieñ modu³.}
-{223}{}{Ju¿ siê robi!}
+{209}{}{Cokolwiek. Zmiatam stÄ…d.}
+{210}{}{Nie. Ale jestem tu przywÃ³dcÄ…, wiÄ™c ja decydujÄ™. JeÅ›li ci siÄ™ to nie podoba, moÅ¼esz wrÃ³ciÄ‡ do swoich ludzkich ziem!}
+{211}{}{PocaÅ‚uj mnie w dupÄ™!}
+{212}{}{Dobra, juÅ¼ sobie idÄ™.}
+{213}{}{OczywiÅ›cie, Grutharze. To niedobrze, Å¼e siÄ™ tak zapominam.}
+{214}{}{Zapewniam ciÄ™, Å¼e nie prÃ³bujÄ™ bawiÄ‡ siÄ™ twoim kosztem. ProszÄ™, wybacz mi, jeÅ›li sprawiam takie wraÅ¼enie. PomogÄ™, jeÅ›li tylko istnieje taka moÅ¼liwoÅ›Ä‡.}
+{215}{}{DziÄ™ki.}
+{216}{}{Przepraszam, nie zamierzam siÄ™ dalej tak wymÄ…drzaÄ‡.}
+{217}{}{Daj se, koleÅ›, siana z tÄ… caÅ‚Ä… cywilizacjÄ…. To na mnie nie dziaÅ‚a.}
+{218}{}{[Gruthar wydaje z siebie seriÄ™ gardÅ‚owych warkniÄ™Ä‡] MoÅ¼e nie jestem wÅ‚aÅ›cicielem tego miejsca, ale to jest dom mÃ³j i innych, ktÃ³rzy ufajÄ…, Å¼e ich ochroniÄ™. Nie popychaj mnie do czynÃ³w, ktÃ³rych ty i ja bÄ™dziemy Å¼aÅ‚owaÄ‡!}
+{219}{}{Przepraszam. To byÅ‚o z mojej strony niegrzeczne.}
+{220}{}{Wal siÄ™ ty i wszyscy, ktÃ³rzy ciÄ™ przypominajÄ…!}
+{221}{}{ÅÅ‚oj! Zmiatam stÄ…d.}
+{222}{}{DziÄ™kujÄ™. ProszÄ™, pÃ³jdÅº do sterowni i wymieÅ„ moduÅ‚.}
+{223}{}{JuÅ¼ siÄ™ robi!}
 {224}{}{}
-{225}{}{W tej chwili nie ¿yczymy sobie ciê tu widzieæ. Mo¿esz odejœæ.}
-{226}{}{¯egnam}
-{227}{}{¯egnam}
+{225}{}{W tej chwili nie Å¼yczymy sobie ciÄ™ tu widzieÄ‡. MoÅ¼esz odejÅ›Ä‡.}
+{226}{}{Å»egnam}
+{227}{}{Å»egnam}
 {228}{}{Zrobione.}
-{229}{}{Przeprosiny przyjête, cz³owieku. Mi³ego dnia!}
+{229}{}{Przeprosiny przyjÄ™te, czÅ‚owieku. MiÅ‚ego dnia!}
 {230}{}{Zrobione.}
-{231}{}{. Czy wiesz ju¿, co siê sta³o maszynie?}
-{232}{}{. Poczekam, a¿ wrócisz.}
-{233}{}{. Czy masz ju¿ czêœæ potrzebn¹ do naprawienia maszyny?}
-{234}{}{Uhm, w porz¹dku.}
-{235}{}{Mam nadziejê, ¿e podoba ci siê u nas.}
-{236}{}{Niestety musia³o do tego dojœæ. Pozwoli³em mu zostaæ bez szwanku tak d³ugo, jak nie przedstawia³ zagro¿enia dla stada. Sam wybra³ swoj¹ œcie¿kê. Mam nadziejê, ¿e rozumiesz.}
-{237}{}{Ty z³y.}
+{231}{}{. Czy wiesz juÅ¼, co siÄ™ staÅ‚o maszynie?}
+{232}{}{. Poczekam, aÅ¼ wrÃ³cisz.}
+{233}{}{. Czy masz juÅ¼ czÄ™Å›Ä‡ potrzebnÄ… do naprawienia maszyny?}
+{234}{}{Uhm, w porzÄ…dku.}
+{235}{}{Mam nadziejÄ™, Å¼e podoba ci siÄ™ u nas.}
+{236}{}{Niestety musiaÅ‚o do tego dojÅ›Ä‡. PozwoliÅ‚em mu zostaÄ‡ bez szwanku tak dÅ‚ugo, jak nie przedstawiaÅ‚ zagroÅ¼enia dla stada. Sam wybraÅ‚ swojÄ… Å›cieÅ¼kÄ™. Mam nadziejÄ™, Å¼e rozumiesz.}
+{237}{}{Ty zÅ‚y.}
 {238}{}{Rozumiem to, Grutharze.}
 {239}{}{Tak. Matt nie dobry.}

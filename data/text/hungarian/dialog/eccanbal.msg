@@ -1,8 +1,8 @@
-{100}{}{Egy kannibált látsz.}
+{100}{}{Egy kannibÃ¡lt lÃ¡tsz.}
 {101}{}{Kajaaa!}
 {102}{}{Zabaid?!}
-{103}{}{Hmmm...fehér hús.}
+{103}{}{Hmmm...fehÃ©r hÃºs.}
 {104}{}{Nyami!}
 {105}{}{Fincsi!}
-{106}{}{Porhanyósnak látszik.}
-{107}{}{::Szürcsöl::}
+{106}{}{PorhanyÃ³snak lÃ¡tszik.}
+{107}{}{::SzÃ¼rcsÃ¶l::}

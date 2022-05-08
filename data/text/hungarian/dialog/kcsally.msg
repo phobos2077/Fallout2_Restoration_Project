@@ -1,80 +1,80 @@
 {100}{}{You see a plump, older woman with a large nose.}
-{101}{}{? Nagyorrú Sally, a Fürd?ház tulajdonosa.}
-{200}{}{Helló, én Sally Dunton vagyok. Hmm, értetted, amit mondtam?}
-{201}{}{Szelli dánton? Hö?}
+{101}{}{? NagyorrÃº Sally, a FÃ¼rd?hÃ¡z tulajdonosa.}
+{200}{}{HellÃ³, Ã©n Sally Dunton vagyok. Hmm, Ã©rtetted, amit mondtam?}
+{201}{}{Szelli dÃ¡nton? HÃ¶?}
 {202}{}{Pisiiilnem kell}
-{203}{}{Miiii? (megrázod a fejed)}
-{204}{}{Szép próbálkozás egy idiótától, de nem szeretem az ilyeneket a házamban. Takarodj! Sicc, sicc!}
-{205}{}{Tudom, hogy törzsbéli vagy, meg minden, de ez egy fürd?ház, nem budi. Tünjé' el, miel?tt kidobatlak!}
-{206}{}{Tudom, hogy a fiaim összeálltak már sok szerencsétlennel, de te vagy eddig a legrosszabb. Nem tudom elhinni, hogy cserben hagytad ?ket. Takarodj a szemem el?l!}
+{203}{}{Miiii? (megrÃ¡zod a fejed)}
+{204}{}{SzÃ©p prÃ³bÃ¡lkozÃ¡s egy idiÃ³tÃ¡tÃ³l, de nem szeretem az ilyeneket a hÃ¡zamban. Takarodj! Sicc, sicc!}
+{205}{}{Tudom, hogy tÃ¶rzsbÃ©li vagy, meg minden, de ez egy fÃ¼rd?hÃ¡z, nem budi. TÃ¼njÃ©' el, miel?tt kidobatlak!}
+{206}{}{Tudom, hogy a fiaim Ã¶sszeÃ¡lltak mÃ¡r sok szerencsÃ©tlennel, de te vagy eddig a legrosszabb. Nem tudom elhinni, hogy cserben hagytad ?ket. Takarodj a szemem el?l!}
 {210}{}{My name's Sally Dunton, but mostly they call me Big Nose Sally. I'm the owner of this here
  bathhouse. We have a whole houseful of special, attended baths for you to pick from.}
-{211}{}{Miféle különleges, segédeket felvonultató fürd?kr?l van szó?}
-{212}{}{Nahát, Sally, én csak egy közönséges fürd?t szerettem volna. Nincsen pezsg?fürd?tök, ugye?}
-{213}{}{Meggondoltam magam, talán kés?bb kipróbálom.}
-{220}{}{'Nagyorrú' Sally Dunton vagyok és én vezetem ezt a fürd?házat. Sajnálom, de csak n?i fürd?-segédeink vannak. Megfelel ez neked?}
-{221}{}{Csak egy sima fürd?t szeretnék.}
-{222}{}{A n?k is ugyanúgy megfelelnek.}
-{223}{}{A kutyafáját, tényleg elkelt volna egy férfi segéd!}
-{224}{}{Nem éppen erre vágyom...}
-{225}{}{Sajnálom, hogy nem tudtunk segíteni. Azért kés?bb még gyere vissza!}
-{230}{}{Ha segédnélküli fürd?t szeretnél, próbáld ki az Arany Gekkót vagy a Buckner Házat, bár kétlem, hogy azok is ilyen élvezetesek lennének.}
-{231}{}{Kösz, Nagyorrú Sally, inkább megpróbálom máshol. Viszlát!}
-{232}{}{Csak vicceltem, egy különleges fürd?t szeretnék.}
-{240}{}{A fürd?k árai attól függnek, mennyit tölt veled a lány, és hogy milyen egyéb szolgáltatásokban részesülsz.}
-{241}{}{Úgy érted, hogy egy hús-vér lánnyal lehetek? Naná, hogy érdekel!}
-{242}{}{Nem vagyok erre felkészülve, inkább megyek.}
-{243}{}{Remélem, a segéd külseje is beleszámít az árba.}
-{250}{}{Íme, a választható fürd?ink: a Mosdókeszty?s Kézi Dörzsölés, egy rövid Teljes Fürdetés, és végül az Egetrenget? Ultrapöpec Szolgáltatás, amit a gyönyör? és tehetséges Jenny végez el. Rejtek legjobb m?intézetében tanult.}
-{251}{}{Azt hiszem, most elég lesz a Kézi Dörzsölés. Mennyibe kerül?}
-{252}{}{Jól hangzik a Teljes Fürdetés. Mennyibe kerülne ez nekem?}
-{253}{}{Gyönyör? és tehetséges? Többet akarok hallani err?l az Egetrenget? Ultrapöpec Szolgáltatásról.}
-{254}{}{Nem tudnék úgy fürdeni, hogy közben valaki figyel. Inkább elmegyek.}
-{255}{}{Keverhetem a különböz? fajta fürd?ket?}
-{256}{}{Mi lenne, ha kapnék egy kis kedvezményt azokra a fürd?kre?}
-{260}{}{Nem, egyszerre csak egyet választhatsz, de mindig visszajöhetsz egy újabb fürdésre. Általában egy rövid pihenést követ?en.}
-{261}{}{Mondd el még egyszer, milyen fürd?k közül választhatok!}
-{262}{}{Ha nem keverhetem, akkor nem is kell. Lelépek!}
-{270}{}{Hát, egy magadfajta vonzó egyénnek 25 dollárért megszámítom.}
-{271}{}{25 dollár? Ez aztán az üzlet, bevállalom!}
-{272}{}{Hmm, milyen egyéb fürd?k vannak?}
-{273}{}{Talán mégsincs erre most szükségem. Viszlát!}
-{280}{}{Hmm, el?bb egy igazi fürd?re lenne neked szükséged. 35 dollár lesz.}
-{281}{}{35? Kicsit meredek, de azt hiszem, elég koszos vagyok. Kifizetem.}
-{282}{}{Mib?l választhatnék még?}
-{283}{}{Kösz, de inkább megnézem máshol.}
-{284}{}{35? Túl drága, nincs helyette valami aranyos brahminotok?}
-{290}{}{Azt hiszem, bármelyik lányunk szívesen adna neked egy teljes fürdetést. Jobb lesz, ha én is nézem, hogy biztosan rövid legyen (kuncog). A Rövid Teljes Fürdetés 55 dollárba kerül.}
-{291}{}{Jól hangzik. Tessék az 55 dollár.}
-{292}{}{Hmm, mik közül is választhatok?}
-{293}{}{Kösz, de inkább takarékoskodom a pénzzel.}
-{300}{}{Rád férne egy igazi sikálás. A törzsbéliek ismerik a szappant? Mindegy, A Rövid Teljes Fürdetés 70 dollárba kerül... de biztos vagyok benne, hogy elégedett leszel az eredménnyel.}
-{301}{}{Az igen! 70 dollár? Hát nem adják ingyen, de biztos megéri. Kipróbálom...}
-{302}{}{Milyen más fürd?k vannak?}
-{303}{}{Mégsem szeretnék pénzt kiadni egy fürd?ért.}
-{310}{}{Biztos vagyok benne, hogy az egetrenget? utazásod izgalmas lesz Jennyvel. Egy ideig biztos nem felejted el. Pazar ajánlat csak 125 dollárért.}
-{311}{}{Alig várom, hogy Jenny különleges tehetségét élvezhessem. Itt a 125 dollár.}
-{312}{}{Inkább meghallgatnám, milyen más fürd?k léteznek.}
-{313}{}{Nem hiszem, hogy valaha is 125 dollárt fogok fizetni egy fürd?ért. El is megyek, miel?tt bajba keverem magam.}
-{320}{}{Hmm, nem hinném, hogy Jenny elvállalna ilyen állapotban. Nem ártana el?tte egy alapos súrolás. (magának: vajon Gerda ráér erre?) Az Egetrenget? Ultrapöpec Szolgáltatás el?-dörzsöléssel csak 185 dollárba kerül.}
-{321}{}{Gerdát és Jennyt is megkapom? Micsoda ajánlat! Itt a 185 dollár!}
-{322}{}{Gerda az a nagy, borostás n?? Milyen egyéb fürd?k vannak még?}
-{323}{}{Ezt most nem engedhetem meg magamnak. Inkább elmegyek.}
-{324}{}{Gerda nem is n?, ugye? Nem hinném, hogy egy tagbaszakadt transzvesztita segítségére lenne szükségem. Na, én lelépek.}
-{330}{}{Remek választás, ha nincs sok id?d vagy pénzed.}
-{340}{}{Szerintem élvezni fogod.}
-{350}{}{Sokkal jobban fogod élvezni a fürd?zést Jennyvel, mint eddig bármilyen fürd?t életedben.}
-{360}{}{Mi olyanokat nem tartunk itt. Kérdezd meg a fiaimat, Chuck és Buck Duntont. Úgy tudom, a brahminjaik nagyon közkedveltek.}
-{361}{}{Nincs elég pénzed, gyere vissza, ha már ki tudod fizetni!}
-{362}{}{Látom, sokat akar a szarka, de nem bírja a farka. Talán egy olcsóbb megoldást kéne választanod!}
-{363}{}{Biztos vagyok benne, hogy az egyik fiam szívesen segít neked, de utána jobb, ha visszajössz ide. A legtöbb lány szívesen fürdik, miután a fiaimmal volt.}
-{370}{}{Hát visszajöttél? A legtöbb ember visszajön egy újabb mosdásra.}
-{371}{}{Most csak körülnézek, nem akarok megmártózni.}
-{372}{}{Milyen fürd?k közül lehet választani?}
-{373}{}{Nem kapok törzsvásárlói kedvezményt?}
-{380}{}{Hát, nem lenne igazságos, ha bármelyik fürd?t leáraznám. A lányok megérik a pénzüket.}
-{381}{}{Hát, ha nem kapok kedvezményt, akkor elmegyek.}
-{382}{}{Így igazságos. Milyen fürd?k közül választhatok?}
-{390}{}{Miel?tt tovább mennénk, tudod kell, hogy a fürd?k egyénekre vannak szabva, nem csoportokra. Te befizeted a saját fürd?det, utána a barátaid is megtehetik, ha kedvük van hozzá.}
-{391}{}{Oké.}
-{400}{}{Mi nem kérünk a maga fajtájából.}
+{211}{}{MifÃ©le kÃ¼lÃ¶nleges, segÃ©deket felvonultatÃ³ fÃ¼rd?kr?l van szÃ³?}
+{212}{}{NahÃ¡t, Sally, Ã©n csak egy kÃ¶zÃ¶nsÃ©ges fÃ¼rd?t szerettem volna. Nincsen pezsg?fÃ¼rd?tÃ¶k, ugye?}
+{213}{}{Meggondoltam magam, talÃ¡n kÃ©s?bb kiprÃ³bÃ¡lom.}
+{220}{}{'NagyorrÃº' Sally Dunton vagyok Ã©s Ã©n vezetem ezt a fÃ¼rd?hÃ¡zat. SajnÃ¡lom, de csak n?i fÃ¼rd?-segÃ©deink vannak. Megfelel ez neked?}
+{221}{}{Csak egy sima fÃ¼rd?t szeretnÃ©k.}
+{222}{}{A n?k is ugyanÃºgy megfelelnek.}
+{223}{}{A kutyafÃ¡jÃ¡t, tÃ©nyleg elkelt volna egy fÃ©rfi segÃ©d!}
+{224}{}{Nem Ã©ppen erre vÃ¡gyom...}
+{225}{}{SajnÃ¡lom, hogy nem tudtunk segÃ­teni. AzÃ©rt kÃ©s?bb mÃ©g gyere vissza!}
+{230}{}{Ha segÃ©dnÃ©lkÃ¼li fÃ¼rd?t szeretnÃ©l, prÃ³bÃ¡ld ki az Arany GekkÃ³t vagy a Buckner HÃ¡zat, bÃ¡r kÃ©tlem, hogy azok is ilyen Ã©lvezetesek lennÃ©nek.}
+{231}{}{KÃ¶sz, NagyorrÃº Sally, inkÃ¡bb megprÃ³bÃ¡lom mÃ¡shol. ViszlÃ¡t!}
+{232}{}{Csak vicceltem, egy kÃ¼lÃ¶nleges fÃ¼rd?t szeretnÃ©k.}
+{240}{}{A fÃ¼rd?k Ã¡rai attÃ³l fÃ¼ggnek, mennyit tÃ¶lt veled a lÃ¡ny, Ã©s hogy milyen egyÃ©b szolgÃ¡ltatÃ¡sokban rÃ©szesÃ¼lsz.}
+{241}{}{Ãšgy Ã©rted, hogy egy hÃºs-vÃ©r lÃ¡nnyal lehetek? NanÃ¡, hogy Ã©rdekel!}
+{242}{}{Nem vagyok erre felkÃ©szÃ¼lve, inkÃ¡bb megyek.}
+{243}{}{RemÃ©lem, a segÃ©d kÃ¼lseje is beleszÃ¡mÃ­t az Ã¡rba.}
+{250}{}{Ãme, a vÃ¡laszthatÃ³ fÃ¼rd?ink: a MosdÃ³keszty?s KÃ©zi DÃ¶rzsÃ¶lÃ©s, egy rÃ¶vid Teljes FÃ¼rdetÃ©s, Ã©s vÃ©gÃ¼l az Egetrenget? UltrapÃ¶pec SzolgÃ¡ltatÃ¡s, amit a gyÃ¶nyÃ¶r? Ã©s tehetsÃ©ges Jenny vÃ©gez el. Rejtek legjobb m?intÃ©zetÃ©ben tanult.}
+{251}{}{Azt hiszem, most elÃ©g lesz a KÃ©zi DÃ¶rzsÃ¶lÃ©s. Mennyibe kerÃ¼l?}
+{252}{}{JÃ³l hangzik a Teljes FÃ¼rdetÃ©s. Mennyibe kerÃ¼lne ez nekem?}
+{253}{}{GyÃ¶nyÃ¶r? Ã©s tehetsÃ©ges? TÃ¶bbet akarok hallani err?l az Egetrenget? UltrapÃ¶pec SzolgÃ¡ltatÃ¡srÃ³l.}
+{254}{}{Nem tudnÃ©k Ãºgy fÃ¼rdeni, hogy kÃ¶zben valaki figyel. InkÃ¡bb elmegyek.}
+{255}{}{Keverhetem a kÃ¼lÃ¶nbÃ¶z? fajta fÃ¼rd?ket?}
+{256}{}{Mi lenne, ha kapnÃ©k egy kis kedvezmÃ©nyt azokra a fÃ¼rd?kre?}
+{260}{}{Nem, egyszerre csak egyet vÃ¡laszthatsz, de mindig visszajÃ¶hetsz egy Ãºjabb fÃ¼rdÃ©sre. ÃltalÃ¡ban egy rÃ¶vid pihenÃ©st kÃ¶vet?en.}
+{261}{}{Mondd el mÃ©g egyszer, milyen fÃ¼rd?k kÃ¶zÃ¼l vÃ¡laszthatok!}
+{262}{}{Ha nem keverhetem, akkor nem is kell. LelÃ©pek!}
+{270}{}{HÃ¡t, egy magadfajta vonzÃ³ egyÃ©nnek 25 dollÃ¡rÃ©rt megszÃ¡mÃ­tom.}
+{271}{}{25 dollÃ¡r? Ez aztÃ¡n az Ã¼zlet, bevÃ¡llalom!}
+{272}{}{Hmm, milyen egyÃ©b fÃ¼rd?k vannak?}
+{273}{}{TalÃ¡n mÃ©gsincs erre most szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{280}{}{Hmm, el?bb egy igazi fÃ¼rd?re lenne neked szÃ¼ksÃ©ged. 35 dollÃ¡r lesz.}
+{281}{}{35? Kicsit meredek, de azt hiszem, elÃ©g koszos vagyok. Kifizetem.}
+{282}{}{Mib?l vÃ¡laszthatnÃ©k mÃ©g?}
+{283}{}{KÃ¶sz, de inkÃ¡bb megnÃ©zem mÃ¡shol.}
+{284}{}{35? TÃºl drÃ¡ga, nincs helyette valami aranyos brahminotok?}
+{290}{}{Azt hiszem, bÃ¡rmelyik lÃ¡nyunk szÃ­vesen adna neked egy teljes fÃ¼rdetÃ©st. Jobb lesz, ha Ã©n is nÃ©zem, hogy biztosan rÃ¶vid legyen (kuncog). A RÃ¶vid Teljes FÃ¼rdetÃ©s 55 dollÃ¡rba kerÃ¼l.}
+{291}{}{JÃ³l hangzik. TessÃ©k az 55 dollÃ¡r.}
+{292}{}{Hmm, mik kÃ¶zÃ¼l is vÃ¡laszthatok?}
+{293}{}{KÃ¶sz, de inkÃ¡bb takarÃ©koskodom a pÃ©nzzel.}
+{300}{}{RÃ¡d fÃ©rne egy igazi sikÃ¡lÃ¡s. A tÃ¶rzsbÃ©liek ismerik a szappant? Mindegy, A RÃ¶vid Teljes FÃ¼rdetÃ©s 70 dollÃ¡rba kerÃ¼l... de biztos vagyok benne, hogy elÃ©gedett leszel az eredmÃ©nnyel.}
+{301}{}{Az igen! 70 dollÃ¡r? HÃ¡t nem adjÃ¡k ingyen, de biztos megÃ©ri. KiprÃ³bÃ¡lom...}
+{302}{}{Milyen mÃ¡s fÃ¼rd?k vannak?}
+{303}{}{MÃ©gsem szeretnÃ©k pÃ©nzt kiadni egy fÃ¼rd?Ã©rt.}
+{310}{}{Biztos vagyok benne, hogy az egetrenget? utazÃ¡sod izgalmas lesz Jennyvel. Egy ideig biztos nem felejted el. Pazar ajÃ¡nlat csak 125 dollÃ¡rÃ©rt.}
+{311}{}{Alig vÃ¡rom, hogy Jenny kÃ¼lÃ¶nleges tehetsÃ©gÃ©t Ã©lvezhessem. Itt a 125 dollÃ¡r.}
+{312}{}{InkÃ¡bb meghallgatnÃ¡m, milyen mÃ¡s fÃ¼rd?k lÃ©teznek.}
+{313}{}{Nem hiszem, hogy valaha is 125 dollÃ¡rt fogok fizetni egy fÃ¼rd?Ã©rt. El is megyek, miel?tt bajba keverem magam.}
+{320}{}{Hmm, nem hinnÃ©m, hogy Jenny elvÃ¡llalna ilyen Ã¡llapotban. Nem Ã¡rtana el?tte egy alapos sÃºrolÃ¡s. (magÃ¡nak: vajon Gerda rÃ¡Ã©r erre?) Az Egetrenget? UltrapÃ¶pec SzolgÃ¡ltatÃ¡s el?-dÃ¶rzsÃ¶lÃ©ssel csak 185 dollÃ¡rba kerÃ¼l.}
+{321}{}{GerdÃ¡t Ã©s Jennyt is megkapom? Micsoda ajÃ¡nlat! Itt a 185 dollÃ¡r!}
+{322}{}{Gerda az a nagy, borostÃ¡s n?? Milyen egyÃ©b fÃ¼rd?k vannak mÃ©g?}
+{323}{}{Ezt most nem engedhetem meg magamnak. InkÃ¡bb elmegyek.}
+{324}{}{Gerda nem is n?, ugye? Nem hinnÃ©m, hogy egy tagbaszakadt transzvesztita segÃ­tsÃ©gÃ©re lenne szÃ¼ksÃ©gem. Na, Ã©n lelÃ©pek.}
+{330}{}{Remek vÃ¡lasztÃ¡s, ha nincs sok id?d vagy pÃ©nzed.}
+{340}{}{Szerintem Ã©lvezni fogod.}
+{350}{}{Sokkal jobban fogod Ã©lvezni a fÃ¼rd?zÃ©st Jennyvel, mint eddig bÃ¡rmilyen fÃ¼rd?t Ã©letedben.}
+{360}{}{Mi olyanokat nem tartunk itt. KÃ©rdezd meg a fiaimat, Chuck Ã©s Buck Duntont. Ãšgy tudom, a brahminjaik nagyon kÃ¶zkedveltek.}
+{361}{}{Nincs elÃ©g pÃ©nzed, gyere vissza, ha mÃ¡r ki tudod fizetni!}
+{362}{}{LÃ¡tom, sokat akar a szarka, de nem bÃ­rja a farka. TalÃ¡n egy olcsÃ³bb megoldÃ¡st kÃ©ne vÃ¡lasztanod!}
+{363}{}{Biztos vagyok benne, hogy az egyik fiam szÃ­vesen segÃ­t neked, de utÃ¡na jobb, ha visszajÃ¶ssz ide. A legtÃ¶bb lÃ¡ny szÃ­vesen fÃ¼rdik, miutÃ¡n a fiaimmal volt.}
+{370}{}{HÃ¡t visszajÃ¶ttÃ©l? A legtÃ¶bb ember visszajÃ¶n egy Ãºjabb mosdÃ¡sra.}
+{371}{}{Most csak kÃ¶rÃ¼lnÃ©zek, nem akarok megmÃ¡rtÃ³zni.}
+{372}{}{Milyen fÃ¼rd?k kÃ¶zÃ¼l lehet vÃ¡lasztani?}
+{373}{}{Nem kapok tÃ¶rzsvÃ¡sÃ¡rlÃ³i kedvezmÃ©nyt?}
+{380}{}{HÃ¡t, nem lenne igazsÃ¡gos, ha bÃ¡rmelyik fÃ¼rd?t leÃ¡raznÃ¡m. A lÃ¡nyok megÃ©rik a pÃ©nzÃ¼ket.}
+{381}{}{HÃ¡t, ha nem kapok kedvezmÃ©nyt, akkor elmegyek.}
+{382}{}{Ãgy igazsÃ¡gos. Milyen fÃ¼rd?k kÃ¶zÃ¼l vÃ¡laszthatok?}
+{390}{}{Miel?tt tovÃ¡bb mennÃ©nk, tudod kell, hogy a fÃ¼rd?k egyÃ©nekre vannak szabva, nem csoportokra. Te befizeted a sajÃ¡t fÃ¼rd?det, utÃ¡na a barÃ¡taid is megtehetik, ha kedvÃ¼k van hozzÃ¡.}
+{391}{}{OkÃ©.}
+{400}{}{Mi nem kÃ©rÃ¼nk a maga fajtÃ¡jÃ¡bÃ³l.}

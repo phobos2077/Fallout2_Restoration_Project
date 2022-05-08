@@ -1,5 +1,5 @@
 {100}{}{Ah, une nouvelle recrue !}
-{101}{}{Suis-nous ou crève !}
+{101}{}{Suis-nous ou crÃ¨ve !}
 {102}{}{Exprime-toi !}
 {103}{}{Les rares, les fiers et les mercenaires.}
 {104}{}{Viens avec nous !}

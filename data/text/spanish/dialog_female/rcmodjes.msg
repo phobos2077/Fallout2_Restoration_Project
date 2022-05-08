@@ -3,180 +3,180 @@
 {102}{}{Quiero estar sola.}
 {103}{}{Por favor, tan solo vete.}
 {104}{}{No me molestes.}
-{105}{}{Déjame, por favor.}
+{105}{}{DÃ©jame, por favor.}
 {106}{}{No tolero a los tontos.}
-{107}{}{La mayor parte de la plebe sólo trabaja para conseguir Jet suficiente. Necesitan algo que lleve sus mentes
+{107}{}{La mayor parte de la plebe sÃ³lo trabaja para conseguir Jet suficiente. Necesitan algo que lleve sus mentes
  lejos de este lugar.}
-{108}{}{Déjame hacerte otra pregunta.}
-{109}{}{¿Jet? ¿Qué es el Jet?}
-{110}{}{Ya veo. Adiós.}
-{111}{}{El Jet tiene su utilidad. Tiende a provocar que se ponga un poco menos de atención sobre la miseria circundante.}
-{112}{}{Déjame hacerte otra pregunta.}
-{113}{}{¿Jet? ¿Qué es el Jet?}
-{114}{}{Ya veo. Adiós.}
-{115}{}{El Jet es muy caro últimamente. Es algo criminal. Hablando de eso… he oído que nuestro querido
- alcalde Ascorti está trabajando para conseguirnos más Jet. Siempre un campeón de las masas, el hombre.}
-{116}{}{Déjame hacerte otra pregunta.}
-{117}{}{¿Alcalde Ascorti? ¿Quién es exactamente?}
-{118}{}{¿Jet? ¿Qué es el Jet?}
-{119}{}{Ya veo. Adiós.}
-{120}{}{Parece que todo el mundo esté enfermo. Ese último lote de Jet hizo que todo el mundo dejara esa mierda. Pero
- supongo que pronto volverán a engancharse con él.}
-{121}{}{Déjame hacerte otra pregunta.}
-{122}{}{¿Jet? ¿Qué es el Jet?}
-{123}{}{Ya veo. Adiós.}
-{124}{}{Parece que me había equivocado. La mayoría de veteranos del Jet dejaron de tomarlo.
- Después de ese último lote malo, la mayoría de nosotros no podemos ni oler esa mierda si sentirnos fatal
- del estómago.}
-{125}{}{Déjame hacerte otra pregunta.}
-{126}{}{¿Jet? ¿Qué es el Jet?}
-{127}{}{Ya veo. Adiós.}
-{128}{}{Soy… Madame Modjeska. ¿Qué quieres de mí?}
-{129}{}{¿Puedo ayudarte en algo?}
-{130}{}{No tengo tiempo que perder. ¿Qué quieres de Madame Modjeska?}
-{131}{}{Apenas se me puede molestar con eso ahora. ¿Qué es lo que quieres?}
-{132}{}{Madame Modjeska se encuentra indispuesta hoy. ¿Qué quieres de ella?}
-{133}{}{Noto como si mi cabeza se quisiera partir en dos. ¿Qué quieres de mí?}
-{134}{}{Soy Madame Modjeska. En tiempos usuaria de Jet, entre otro material. Ahora sólo coqueteo con otras cosas.
+{108}{}{DÃ©jame hacerte otra pregunta.}
+{109}{}{Â¿Jet? Â¿QuÃ© es el Jet?}
+{110}{}{Ya veo. AdiÃ³s.}
+{111}{}{El Jet tiene su utilidad. Tiende a provocar que se ponga un poco menos de atenciÃ³n sobre la miseria circundante.}
+{112}{}{DÃ©jame hacerte otra pregunta.}
+{113}{}{Â¿Jet? Â¿QuÃ© es el Jet?}
+{114}{}{Ya veo. AdiÃ³s.}
+{115}{}{El Jet es muy caro Ãºltimamente. Es algo criminal. Hablando de esoâ€¦ he oÃ­do que nuestro querido
+ alcalde Ascorti estÃ¡ trabajando para conseguirnos mÃ¡s Jet. Siempre un campeÃ³n de las masas, el hombre.}
+{116}{}{DÃ©jame hacerte otra pregunta.}
+{117}{}{Â¿Alcalde Ascorti? Â¿QuiÃ©n es exactamente?}
+{118}{}{Â¿Jet? Â¿QuÃ© es el Jet?}
+{119}{}{Ya veo. AdiÃ³s.}
+{120}{}{Parece que todo el mundo estÃ© enfermo. Ese Ãºltimo lote de Jet hizo que todo el mundo dejara esa mierda. Pero
+ supongo que pronto volverÃ¡n a engancharse con Ã©l.}
+{121}{}{DÃ©jame hacerte otra pregunta.}
+{122}{}{Â¿Jet? Â¿QuÃ© es el Jet?}
+{123}{}{Ya veo. AdiÃ³s.}
+{124}{}{Parece que me habÃ­a equivocado. La mayorÃ­a de veteranos del Jet dejaron de tomarlo.
+ DespuÃ©s de ese Ãºltimo lote malo, la mayorÃ­a de nosotros no podemos ni oler esa mierda si sentirnos fatal
+ del estÃ³mago.}
+{125}{}{DÃ©jame hacerte otra pregunta.}
+{126}{}{Â¿Jet? Â¿QuÃ© es el Jet?}
+{127}{}{Ya veo. AdiÃ³s.}
+{128}{}{Soyâ€¦ Madame Modjeska. Â¿QuÃ© quieres de mÃ­?}
+{129}{}{Â¿Puedo ayudarte en algo?}
+{130}{}{No tengo tiempo que perder. Â¿QuÃ© quieres de Madame Modjeska?}
+{131}{}{Apenas se me puede molestar con eso ahora. Â¿QuÃ© es lo que quieres?}
+{132}{}{Madame Modjeska se encuentra indispuesta hoy. Â¿QuÃ© quieres de ella?}
+{133}{}{Noto como si mi cabeza se quisiera partir en dos. Â¿QuÃ© quieres de mÃ­?}
+{134}{}{Soy Madame Modjeska. En tiempos usuaria de Jet, entre otro material. Ahora sÃ³lo coqueteo con otras cosas.
  Ese Jet ya no me agrada.}
-{135}{}{¿Qué puede hacer Madame por ti?}
-{136}{}{¿Qué haces aquí, Madame Modjeska?}
-{137}{}{Parece como si un montón de gente de por aquí fueran adictos. ¿Qué está pasando últimamente en la ciudad?}
-{138}{}{¿Has oído algún rumor interesante?}
-{139}{}{¿Por qué te llaman Madame Modjeska?}
-{140}{}{¿Qué es lo que te pasa?}
-{141}{}{¿Qué te sucedió?}
-{142}{}{Últimamente, no hago gran cosa. Solía dirigir parte de las operaciones de Lou en el Salón Malamute,
- pero nos peleamos, así que lo dejé.}
+{135}{}{Â¿QuÃ© puede hacer Madame por ti?}
+{136}{}{Â¿QuÃ© haces aquÃ­, Madame Modjeska?}
+{137}{}{Parece como si un montÃ³n de gente de por aquÃ­ fueran adictos. Â¿QuÃ© estÃ¡ pasando Ãºltimamente en la ciudad?}
+{138}{}{Â¿Has oÃ­do algÃºn rumor interesante?}
+{139}{}{Â¿Por quÃ© te llaman Madame Modjeska?}
+{140}{}{Â¿QuÃ© es lo que te pasa?}
+{141}{}{Â¿QuÃ© te sucediÃ³?}
+{142}{}{Ãšltimamente, no hago gran cosa. SolÃ­a dirigir parte de las operaciones de Lou en el SalÃ³n Malamute,
+ pero nos peleamos, asÃ­ que lo dejÃ©.}
 {143}{}{Entonces deja que te pregunte otra cosa.}
-{144}{}{Lo entiendo. Bien, eso es todo lo que necesitaba saber. Adiós.}
-{145}{}{Todo lo que escucho va sobre política. Eso siempre parece causar un gran revuelo en una discusión.}
-{146}{}{¿Política? ¿Qué quieres decir?}
+{144}{}{Lo entiendo. Bien, eso es todo lo que necesitaba saber. AdiÃ³s.}
+{145}{}{Todo lo que escucho va sobre polÃ­tica. Eso siempre parece causar un gran revuelo en una discusiÃ³n.}
+{146}{}{Â¿PolÃ­tica? Â¿QuÃ© quieres decir?}
 {147}{}{Por supuesto. Deja que te pregunte otra cosa.}
-{148}{}{Bien, eso es todo lo que necesitaba saber. Adiós.}
-{149}{}{Solía trabajar en el Salón Malamute. Como parte de ese trabajo, la gente me llamaba Madame. El nombre
- se quedó, a pesar de que ya no trabajo allí.}
-{150}{}{¿Dónde trabajas ahora?}
-{151}{}{Déjame hacerte otra pregunta.}
-{152}{}{Creo que eso es todo lo que necesito saber. Adiós.}
-{153}{}{Probé un poco de Jet hace unos días y me hizo sentir muy mal. Debe haber sido un lote
+{148}{}{Bien, eso es todo lo que necesitaba saber. AdiÃ³s.}
+{149}{}{SolÃ­a trabajar en el SalÃ³n Malamute. Como parte de ese trabajo, la gente me llamaba Madame. El nombre
+ se quedÃ³, a pesar de que ya no trabajo allÃ­.}
+{150}{}{Â¿DÃ³nde trabajas ahora?}
+{151}{}{DÃ©jame hacerte otra pregunta.}
+{152}{}{Creo que eso es todo lo que necesito saber. AdiÃ³s.}
+{153}{}{ProbÃ© un poco de Jet hace unos dÃ­as y me hizo sentir muy mal. Debe haber sido un lote
  contaminado. No estoy dispuesta a intentarlo de nuevo. Oh, en fin, vuelta a la botella, supongo.}
 {154}{}{Suena mal. Entonces deja que te pregunte otra cosa.}
-{155}{}{Lo entiendo. Bien, eso es todo lo que necesitaba saber. Adiós.}
+{155}{}{Lo entiendo. Bien, eso es todo lo que necesitaba saber. AdiÃ³s.}
 {156}{}{Me siento mejor de lo que parezco. No por mucho, pero lo suficiente.}
-{157}{}{¿Qué quieres decir? ¿Qué sucedió?}
-{158}{}{¿Has visto alguna vez un concurso del brahmin engrasado?}
-{159}{}{Claro que sí. Eh, un montón de veces. Déjame preguntarte otra cosa.}
-{160}{}{No, nunca he oído hablar de algo así. Háblame sobre ello.}
-{161}{}{No sé qué tiene que ver con la política local, y no creo que quiera saberlo. Adiós.}
-{162}{}{Tras ese último lote contaminado de Jet, he renunciado a esa mierda. Quizá cuando me sienta mejor
- lo que haga sea emborracharme (se ríe).}
+{157}{}{Â¿QuÃ© quieres decir? Â¿QuÃ© sucediÃ³?}
+{158}{}{Â¿Has visto alguna vez un concurso del brahmin engrasado?}
+{159}{}{Claro que sÃ­. Eh, un montÃ³n de veces. DÃ©jame preguntarte otra cosa.}
+{160}{}{No, nunca he oÃ­do hablar de algo asÃ­. HÃ¡blame sobre ello.}
+{161}{}{No sÃ© quÃ© tiene que ver con la polÃ­tica local, y no creo que quiera saberlo. AdiÃ³s.}
+{162}{}{Tras ese Ãºltimo lote contaminado de Jet, he renunciado a esa mierda. QuizÃ¡ cuando me sienta mejor
+ lo que haga sea emborracharme (se rÃ­e).}
 {163}{}{Bueno, bien por ti, supongo. Deja que te pregunte algo.}
-{164}{}{Interesante. Bueno, te dejaré con tu recuperación. Adiós.}
+{164}{}{Interesante. Bueno, te dejarÃ© con tu recuperaciÃ³n. AdiÃ³s.}
 {165}{}{Lo que hacen es engrasar la pantorrilla de un brahmin, y entonces todo el mundo intenta hacerse
- con ella. Si no puedes atraparla, debes asegurarte de que nadie más pueda.}
-{166}{}{No veo qué tiene que ver eso con la política.}
-{167}{}{Sí, claro. Ya he oído bastante, Madame Modjeska. Adiós.}
-{168}{}{En este juego, Redding es el brahmin engrasado... y de oro, además. Nuevo Reno, la República
+ con ella. Si no puedes atraparla, debes asegurarte de que nadie mÃ¡s pueda.}
+{166}{}{No veo quÃ© tiene que ver eso con la polÃ­tica.}
+{167}{}{SÃ­, claro. Ya he oÃ­do bastante, Madame Modjeska. AdiÃ³s.}
+{168}{}{En este juego, Redding es el brahmin engrasado... y de oro, ademÃ¡s. Nuevo Reno, la RepÃºblica
  de Nueva California, y Ciudad Refugio intentan atraparnos... o al menos evitar que los otros
  lo hagan.}
-{169}{}{¿Qué quieres decir?}
-{170}{}{Eso está bien. En fin, será mejor que me vaya, Madame. Gracias por la comprensión. Adiós.}
-{171}{}{Aquí en Redding extraemos oro. Después lo enviamos a Nuevo Reno, la RNC, y Ciudad Refugio a cambio de
- bienes. Cada uno de esos lugares querría tener todo el oro -y el comercio- para ellos sólos.}
-{172}{}{¿Entonces por qué simplemente no atacan y se lo quedan?}
-{173}{}{¿Quién no lo haría? Creo que voy a intentar encontrar yo misma algo de ese oro. Gracias, y adiós.}
+{169}{}{Â¿QuÃ© quieres decir?}
+{170}{}{Eso estÃ¡ bien. En fin, serÃ¡ mejor que me vaya, Madame. Gracias por la comprensiÃ³n. AdiÃ³s.}
+{171}{}{AquÃ­ en Redding extraemos oro. DespuÃ©s lo enviamos a Nuevo Reno, la RNC, y Ciudad Refugio a cambio de
+ bienes. Cada uno de esos lugares querrÃ­a tener todo el oro -y el comercio- para ellos sÃ³los.}
+{172}{}{Â¿Entonces por quÃ© simplemente no atacan y se lo quedan?}
+{173}{}{Â¿QuiÃ©n no lo harÃ­a? Creo que voy a intentar encontrar yo misma algo de ese oro. Gracias, y adiÃ³s.}
 {174}{}{Somos demasiado grandes y estamos lo bastante lejos como para que una conquista sea costosa y peligrosa. Es mucho
- más eficaz que nos unamos de buena gana.}
-{175}{}{¿Qué quieres decir?}
-{176}{}{Eso tiene sentido. Gracias por ponerme sobre esa pista. Adiós.}
-{177}{}{Las tres potencias están intentando que Redding elija con quién aliarse. Todos
- tienen poderosos aliados en la ciudad, y parece que las cosas están llegando a un punto crítico. Pronto, Redding va a
- tener que tomar una decisión.}
-{178}{}{¿Una decisión?}
-{179}{}{¿Quién está trabajando para quién?}
-{180}{}{Dinero. Hmm. Bien, tengo que irme. Adiós.}
-{181}{}{La capa de grasa de esa pantorrilla de brahmin cada vez es más fina. Pronto, una de las potencias va a tener
- que hacer una jugada importante para quedarse con Redding antes de que lo hagan las demás. Cuando eso ocurra, la gente va a salir
- herida. Un montón de gente.}
-{182}{}{¿Quién está trabajando para quién?}
-{183}{}{¿Por qué la gente va salir herida?}
-{184}{}{Gracias por la información. Adiós.}
-{185}{}{No estoy totalmente segura, pero creo que la alineación es más o menos así: Dan McGrew está con Nuevo Reno,
- Marge LeBarge con la RNC, Doc Johnson con Ciudad Refugio, y aún no sé con quién está el alcalde Ascorti.}
-{186}{}{¿Cómo pueden ayudar ellos a tomar el poder?}
-{187}{}{¿Quién es Marge LeBarge?}
-{188}{}{¿Quién es Dan McGrew?}
-{189}{}{¿Quién es Doc Johnson?}
-{190}{}{¿Quién es el alcalde Ascorti?}
-{191}{}{Gracias por la información. Adiós.}
-{192}{}{La gente va a salir herida porque esta clase de cambio no es fácil. Aquellos que creen
- que no van a conseguir el premio tendrán metido en la cabeza que nadie más lo consiga. La
- única forma de evitarlo es que decidamos unirnos a una de las potencias y hacer una alianza rápida antes de
+ mÃ¡s eficaz que nos unamos de buena gana.}
+{175}{}{Â¿QuÃ© quieres decir?}
+{176}{}{Eso tiene sentido. Gracias por ponerme sobre esa pista. AdiÃ³s.}
+{177}{}{Las tres potencias estÃ¡n intentando que Redding elija con quiÃ©n aliarse. Todos
+ tienen poderosos aliados en la ciudad, y parece que las cosas estÃ¡n llegando a un punto crÃ­tico. Pronto, Redding va a
+ tener que tomar una decisiÃ³n.}
+{178}{}{Â¿Una decisiÃ³n?}
+{179}{}{Â¿QuiÃ©n estÃ¡ trabajando para quiÃ©n?}
+{180}{}{Dinero. Hmm. Bien, tengo que irme. AdiÃ³s.}
+{181}{}{La capa de grasa de esa pantorrilla de brahmin cada vez es mÃ¡s fina. Pronto, una de las potencias va a tener
+ que hacer una jugada importante para quedarse con Redding antes de que lo hagan las demÃ¡s. Cuando eso ocurra, la gente va a salir
+ herida. Un montÃ³n de gente.}
+{182}{}{Â¿QuiÃ©n estÃ¡ trabajando para quiÃ©n?}
+{183}{}{Â¿Por quÃ© la gente va salir herida?}
+{184}{}{Gracias por la informaciÃ³n. AdiÃ³s.}
+{185}{}{No estoy totalmente segura, pero creo que la alineaciÃ³n es mÃ¡s o menos asÃ­: Dan McGrew estÃ¡ con Nuevo Reno,
+ Marge LeBarge con la RNC, Doc Johnson con Ciudad Refugio, y aÃºn no sÃ© con quiÃ©n estÃ¡ el alcalde Ascorti.}
+{186}{}{Â¿CÃ³mo pueden ayudar ellos a tomar el poder?}
+{187}{}{Â¿QuiÃ©n es Marge LeBarge?}
+{188}{}{Â¿QuiÃ©n es Dan McGrew?}
+{189}{}{Â¿QuiÃ©n es Doc Johnson?}
+{190}{}{Â¿QuiÃ©n es el alcalde Ascorti?}
+{191}{}{Gracias por la informaciÃ³n. AdiÃ³s.}
+{192}{}{La gente va a salir herida porque esta clase de cambio no es fÃ¡cil. Aquellos que creen
+ que no van a conseguir el premio tendrÃ¡n metido en la cabeza que nadie mÃ¡s lo consiga. La
+ Ãºnica forma de evitarlo es que decidamos unirnos a una de las potencias y hacer una alianza rÃ¡pida antes de
  que las otras se enteren.}
-{193}{}{¿Qué crees que ocurrirá?}
-{194}{}{Ya veo. Gracias. Adiós.}
-{195}{}{Creo que la gente de aquí seguirá el liderazgo del alcalde Ascorti. Es un sinvergüenza, pero la gente confía en
- él. Irá con quienquiera que sea el más poderoso. Verás, lo que sea bueno para Ascorti también lo será para
- Redding. Creo que aún no tiene claro quién está más cerca de la cima. Pero tendrá que
+{193}{}{Â¿QuÃ© crees que ocurrirÃ¡?}
+{194}{}{Ya veo. Gracias. AdiÃ³s.}
+{195}{}{Creo que la gente de aquÃ­ seguirÃ¡ el liderazgo del alcalde Ascorti. Es un sinvergÃ¼enza, pero la gente confÃ­a en
+ Ã©l. IrÃ¡ con quienquiera que sea el mÃ¡s poderoso. VerÃ¡s, lo que sea bueno para Ascorti tambiÃ©n lo serÃ¡ para
+ Redding. Creo que aÃºn no tiene claro quiÃ©n estÃ¡ mÃ¡s cerca de la cima. Pero tendrÃ¡ que
  elegir pronto.}
-{196}{}{Déjame preguntarte algo más.}
-{197}{}{Gracias por hacerme saber lo que está pasando por aquí. Adiós.}
-{198}{}{Marge LeBarge es la propietaria de la mina Kokoweef. Junto a la mina Morningstar, son las únicas dos
- minas funcionales que quedan en Redding. Creo que Marge es más del tipo de la RNC. No creo que le guste su
- mojigatería, pero reconoce el poder en cuanto lo ve.}
-{199}{}{¿Quién es Dan McGrew?}
-{200}{}{¿Quién es Doc Johnson?}
-{201}{}{¿Quién es el alcalde Ascorti?}
-{202}{}{¿Cómo pueden ayudar ellos a tomar el poder?}
-{203}{}{Gracias por la información. Adiós.}
-{204}{}{Dañino Dan McGrew, ah, sí. Es el propietario de la mina Morningstar. Ella y la Kokoweef
- son las dos únicas minas operativas que quedan en Redding. Creo que Dan se está inclinando hacia Nuevo Reno, si tuviera
+{196}{}{DÃ©jame preguntarte algo mÃ¡s.}
+{197}{}{Gracias por hacerme saber lo que estÃ¡ pasando por aquÃ­. AdiÃ³s.}
+{198}{}{Marge LeBarge es la propietaria de la mina Kokoweef. Junto a la mina Morningstar, son las Ãºnicas dos
+ minas funcionales que quedan en Redding. Creo que Marge es mÃ¡s del tipo de la RNC. No creo que le guste su
+ mojigaterÃ­a, pero reconoce el poder en cuanto lo ve.}
+{199}{}{Â¿QuiÃ©n es Dan McGrew?}
+{200}{}{Â¿QuiÃ©n es Doc Johnson?}
+{201}{}{Â¿QuiÃ©n es el alcalde Ascorti?}
+{202}{}{Â¿CÃ³mo pueden ayudar ellos a tomar el poder?}
+{203}{}{Gracias por la informaciÃ³n. AdiÃ³s.}
+{204}{}{DaÃ±ino Dan McGrew, ah, sÃ­. Es el propietario de la mina Morningstar. Ella y la Kokoweef
+ son las dos Ãºnicas minas operativas que quedan en Redding. Creo que Dan se estÃ¡ inclinando hacia Nuevo Reno, si tuviera
  que apostar por ello. Le gustan sus mineros drogados y felices.}
-{205}{}{¿Quién es Marge LeBarge?}
-{206}{}{¿Quién es Doc Johnson?}
-{207}{}{¿Quién es el alcalde Ascorti?}
-{208}{}{¿Cómo pueden ayudar ellos a tomar el poder?}
-{209}{}{Gracias por la información. Adiós.}
-{210}{}{Ascorti es el alcalde. Dirige El As de Ascorti en el centro de la ciudad. Se encarga de comprar y vender un montón
- de cosas. También suele estar en medio de un montón de cosas.}
-{211}{}{Ascorti es el alcalde de Redding. Pero no sé exactamente dónde está. Hace tiempo que no
- me he topado con él.}
-{212}{}{Déjame preguntarte algo más.}
-{213}{}{Creo que ya te he escuchado un tiempo más que suficiente. Adiós.}
-{214}{}{El Jet es una maravillosa droga que me permite pasar de largo por esta miserable existencia, cariño.}
-{215}{}{Déjame hacerte otra pregunta.}
-{216}{}{Interesante. Gracias y adiós.}
-{217}{}{El Jet es una droga que me ayuda a sentirme realmente viva. Soy la dueña del cielo gracias al Jet.}
-{218}{}{Déjame hacerte otra pregunta.}
-{219}{}{Interesante. Gracias y adiós.}
-{220}{}{Mmmm, te diré qué es el Jet. Es algo delicioso, eso es lo que es. Jet tiene algo para
+{205}{}{Â¿QuiÃ©n es Marge LeBarge?}
+{206}{}{Â¿QuiÃ©n es Doc Johnson?}
+{207}{}{Â¿QuiÃ©n es el alcalde Ascorti?}
+{208}{}{Â¿CÃ³mo pueden ayudar ellos a tomar el poder?}
+{209}{}{Gracias por la informaciÃ³n. AdiÃ³s.}
+{210}{}{Ascorti es el alcalde. Dirige El As de Ascorti en el centro de la ciudad. Se encarga de comprar y vender un montÃ³n
+ de cosas. TambiÃ©n suele estar en medio de un montÃ³n de cosas.}
+{211}{}{Ascorti es el alcalde de Redding. Pero no sÃ© exactamente dÃ³nde estÃ¡. Hace tiempo que no
+ me he topado con Ã©l.}
+{212}{}{DÃ©jame preguntarte algo mÃ¡s.}
+{213}{}{Creo que ya te he escuchado un tiempo mÃ¡s que suficiente. AdiÃ³s.}
+{214}{}{El Jet es una maravillosa droga que me permite pasar de largo por esta miserable existencia, cariÃ±o.}
+{215}{}{DÃ©jame hacerte otra pregunta.}
+{216}{}{Interesante. Gracias y adiÃ³s.}
+{217}{}{El Jet es una droga que me ayuda a sentirme realmente viva. Soy la dueÃ±a del cielo gracias al Jet.}
+{218}{}{DÃ©jame hacerte otra pregunta.}
+{219}{}{Interesante. Gracias y adiÃ³s.}
+{220}{}{Mmmm, te dirÃ© quÃ© es el Jet. Es algo delicioso, eso es lo que es. Jet tiene algo para
  todo el mundo.}
-{221}{}{Déjame hacerte otra pregunta.}
-{222}{}{Interesante. Gracias y adiós.}
-{223}{}{El Jet era lo mejor. Ahora está haciendo que mis tripas den vueltas y vueltas como una lavadora
- desgastada. No te recomendaría probar el lote actual. Ese Jet es mierda, pero ahora literalmente,
- cariño.}
-{224}{}{Claro, lo siento. Deja que te pregunte algo más.}
-{225}{}{Interesante. Gracias y adiós.}
-{226}{}{Algo debió salir mal con el último lote de Jet que vino a la ciudad. Lo debieron
- enmierdar de más. Más que colocarme me descolocó. Así que ahora bebo: eso es algo con lo que siempre
+{221}{}{DÃ©jame hacerte otra pregunta.}
+{222}{}{Interesante. Gracias y adiÃ³s.}
+{223}{}{El Jet era lo mejor. Ahora estÃ¡ haciendo que mis tripas den vueltas y vueltas como una lavadora
+ desgastada. No te recomendarÃ­a probar el lote actual. Ese Jet es mierda, pero ahora literalmente,
+ cariÃ±o.}
+{224}{}{Claro, lo siento. Deja que te pregunte algo mÃ¡s.}
+{225}{}{Interesante. Gracias y adiÃ³s.}
+{226}{}{Algo debiÃ³ salir mal con el Ãºltimo lote de Jet que vino a la ciudad. Lo debieron
+ enmierdar de mÃ¡s. MÃ¡s que colocarme me descolocÃ³. AsÃ­ que ahora bebo: eso es algo con lo que siempre
  puedes contar.}
-{227}{}{Déjame hacerte otra pregunta.}
-{228}{}{Interesante. Gracias y adiós.}
-{229}{}{Indoloro Doc Johnson es un hombre misterioso. No sé de dónde vino, pero es un auténtico
- médico, eso seguro. El único lugar en el que podría haber recibido ese tipo de formación es Ciudad Refugio. Apuesto a que lo colocaron
- aquí para promover sus intereses. Pero debe haber cabreado a alguien para recibir esa misión;
+{227}{}{DÃ©jame hacerte otra pregunta.}
+{228}{}{Interesante. Gracias y adiÃ³s.}
+{229}{}{Indoloro Doc Johnson es un hombre misterioso. No sÃ© de dÃ³nde vino, pero es un autÃ©ntico
+ mÃ©dico, eso seguro. El Ãºnico lugar en el que podrÃ­a haber recibido ese tipo de formaciÃ³n es Ciudad Refugio. Apuesto a que lo colocaron
+ aquÃ­ para promover sus intereses. Pero debe haber cabreado a alguien para recibir esa misiÃ³n;
  a esos Ciudadanos no les gusta demasiado el exterior.}
-{230}{}{¿Quién es Marge LeBarge?}
-{231}{}{¿Quién es Dan McGrew?}
-{232}{}{¿Quién es el alcalde Ascorti?}
-{233}{}{¿Cómo pueden ayudar ellos a tomar el poder?}
-{234}{}{Gracias por la información. Adiós.}
-{235}{}{El alcalde es un hombre que sabe cómo jugar a dos bandas mientras roba a ambas. No le quedan
- muchos escrúpulos, pero hará sobre todo lo que esté bien para Redding que coincida con mantener a salvo sus propios intereses.}
-{236}{}{¿Quién es Marge LeBarge?}
-{237}{}{¿Quién es Dan McGrew?}
-{238}{}{¿Quién es Doc Johnson?}
-{239}{}{¿Cómo pueden ayudar ellos a tomar el poder?}
-{240}{}{Gracias por la información. Adiós.}
+{230}{}{Â¿QuiÃ©n es Marge LeBarge?}
+{231}{}{Â¿QuiÃ©n es Dan McGrew?}
+{232}{}{Â¿QuiÃ©n es el alcalde Ascorti?}
+{233}{}{Â¿CÃ³mo pueden ayudar ellos a tomar el poder?}
+{234}{}{Gracias por la informaciÃ³n. AdiÃ³s.}
+{235}{}{El alcalde es un hombre que sabe cÃ³mo jugar a dos bandas mientras roba a ambas. No le quedan
+ muchos escrÃºpulos, pero harÃ¡ sobre todo lo que estÃ© bien para Redding que coincida con mantener a salvo sus propios intereses.}
+{236}{}{Â¿QuiÃ©n es Marge LeBarge?}
+{237}{}{Â¿QuiÃ©n es Dan McGrew?}
+{238}{}{Â¿QuiÃ©n es Doc Johnson?}
+{239}{}{Â¿CÃ³mo pueden ayudar ellos a tomar el poder?}
+{240}{}{Gracias por la informaciÃ³n. AdiÃ³s.}

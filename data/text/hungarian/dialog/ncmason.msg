@@ -1,201 +1,201 @@
 {100}{}{Ez az ember Mason.}
-{150}{}{Egy ritkuló hajú, tagbaszakadt, középkorú férfi áll el?tted.}
-{151}{}{? Mason. Gyanakodva figyel téged.}
-{200}{}{Mi dolgod idefönn?}
-{205}{}{Csak leellen?riztem ezt a rakás csürhét.}
-{210}{}{Ha még egyszer hozzányúlsz ahhoz az ajtóhoz, hamut csinálok bel?led!}
+{150}{}{Egy ritkulÃ³ hajÃº, tagbaszakadt, kÃ¶zÃ©pkorÃº fÃ©rfi Ã¡ll el?tted.}
+{151}{}{? Mason. Gyanakodva figyel tÃ©ged.}
+{200}{}{Mi dolgod idefÃ¶nn?}
+{205}{}{Csak leellen?riztem ezt a rakÃ¡s csÃ¼rhÃ©t.}
+{210}{}{Ha mÃ©g egyszer hozzÃ¡nyÃºlsz ahhoz az ajtÃ³hoz, hamut csinÃ¡lok bel?led!}
 {215}{}{Bemehetsz... most az egyszer.}
-{220}{}{Rossz helyre tetted a lábad, vadember! Kopás!}
-{221}{}{Ez nem pornóstúdió! Kopás!}
-{222}{}{Mit keresel itt, bokszbajnok? Eltévedtél a ring felé menet? Na, lódulj kifelé!}
-{223}{}{Legyél okos}
-{224}{}{Úúg jelents küldetést}
-{225}{}{Elpályázol}
-{226}{}{Mi van amögött az ajtó mögött?}
-{227}{}{Szeretnék találkozni Mr. Salvatoréval.}
-{228}{}{Megkérdezhetem, honnan vannak azok a lézerpisztolyok?}
-{229}{}{Azt rebesgetik, a Salvatore klán mérgezte meg a Wright gyereket.}
-{230}{}{Jól van, már itt sem vagyok.}
-{240}{}{Kopj le, te retardált! Nem akarom még egyszer mondani!}
-{241}{}{Mondani eccer még?}
-{250}{}{Az élet csupa csalódás. Na, lehet lépni! Capiche?}
-{251}{}{(Gúnyos hangon szól.) Amögött az ajtó mögött? Éppen amögött? Egészen véletlenül Mr. SALVATORE szobája van mögötte. Most pedig akár le is kophatsz!}
-{252}{}{Találkozni szeretnék Mr. Salvatoréval. Megbízatás ügyében jöttem.}
-{253}{}{Figyelj rám, pöcsarc... szeretnéd, ha még holnap is meglenne az állásod? Az egyik renói családról van némi információm, amit Mr. Salvatore bizonyára szívesen meghallgatna. Beszélnem kell vele. MOST.}
-{254}{}{Honnan szerzitek azokat a lézerpisztolyokat?}
+{220}{}{Rossz helyre tetted a lÃ¡bad, vadember! KopÃ¡s!}
+{221}{}{Ez nem pornÃ³stÃºdiÃ³! KopÃ¡s!}
+{222}{}{Mit keresel itt, bokszbajnok? EltÃ©vedtÃ©l a ring felÃ© menet? Na, lÃ³dulj kifelÃ©!}
+{223}{}{LegyÃ©l okos}
+{224}{}{ÃšÃºg jelents kÃ¼ldetÃ©st}
+{225}{}{ElpÃ¡lyÃ¡zol}
+{226}{}{Mi van amÃ¶gÃ¶tt az ajtÃ³ mÃ¶gÃ¶tt?}
+{227}{}{SzeretnÃ©k talÃ¡lkozni Mr. SalvatorÃ©val.}
+{228}{}{MegkÃ©rdezhetem, honnan vannak azok a lÃ©zerpisztolyok?}
+{229}{}{Azt rebesgetik, a Salvatore klÃ¡n mÃ©rgezte meg a Wright gyereket.}
+{230}{}{JÃ³l van, mÃ¡r itt sem vagyok.}
+{240}{}{Kopj le, te retardÃ¡lt! Nem akarom mÃ©g egyszer mondani!}
+{241}{}{Mondani eccer mÃ©g?}
+{250}{}{Az Ã©let csupa csalÃ³dÃ¡s. Na, lehet lÃ©pni! Capiche?}
+{251}{}{(GÃºnyos hangon szÃ³l.) AmÃ¶gÃ¶tt az ajtÃ³ mÃ¶gÃ¶tt? Ã‰ppen amÃ¶gÃ¶tt? EgÃ©szen vÃ©letlenÃ¼l Mr. SALVATORE szobÃ¡ja van mÃ¶gÃ¶tte. Most pedig akÃ¡r le is kophatsz!}
+{252}{}{TalÃ¡lkozni szeretnÃ©k Mr. SalvatorÃ©val. MegbÃ­zatÃ¡s Ã¼gyÃ©ben jÃ¶ttem.}
+{253}{}{Figyelj rÃ¡m, pÃ¶csarc... szeretnÃ©d, ha mÃ©g holnap is meglenne az Ã¡llÃ¡sod? Az egyik renÃ³i csalÃ¡drÃ³l van nÃ©mi informÃ¡ciÃ³m, amit Mr. Salvatore bizonyÃ¡ra szÃ­vesen meghallgatna. BeszÃ©lnem kell vele. MOST.}
+{254}{}{Honnan szerzitek azokat a lÃ©zerpisztolyokat?}
 {265}{}{}
-{266}{}{Barátom, ha így mersz beszélni velem, te hülyébb vagy, mint a sokévi átlag! Egy szót szólj, csak EGY szót, és egy rakás hamut csinálok bel?led!}
-{267}{}{Kislány, ha így mersz beszélni velem, te hülyébb vagy, mint a sokévi átlag! Egy szót szólj, csak EGY szót, és egy rakás hamut csinálok bel?led!}
-{268}{}{AZT MONDTAM, szeretnék találkozni Mr. Salvatoréval.}
-{270}{}{(Csendben távozol.)}
-{275}{}{(Elvörösödik, aztán fennhangon beszélni kezd.) Elnézést, Mr. Salvatore, itt Mason. }
-{276}{}{Ez a... fickó... azt állítja, hogy tud valamit, amir?l mindenképpen hallania kell.}
-{277}{}{Ez a... n?... azt állítja, hogy tud valamit, amir?l mindenképpen hallania kell.}
-{278}{}{(Vársz...)}
-{279}{}{(Megtámadod Masont, miel?tt folytathatná.)}
-{285}{}{Na, figyelj, lehet, hogy nem hallottad kristálytisztán, vadember, de ez itt a Salvatore f?hadiszállás. Az ÉN munkám az, hogy a f?nököt ne zavarják a hozzád hasonló csahos ebek. Most pedig futás vissza a törzsedhez, és f?zzétek meg a társatokat ebédre!}
-{295}{}{Ezek itt? Jaj hát nem is tudom, egész elfelejtettem. (Haragos képet vág.) Na, idefigyelj, vadember! Ha nem húzod el a beled azonnal, egy rakás hamut csinálok bel?led. Kopás van!}
-{298}{}{Oké! Megyek! Megyek!}
-{299}{}{Szótlanul távozol.}
-{305}{}{FIGYELMEZTETTELEK, seggfej, na most majd... (Mason hirtelen megdermed, és valami általad nem hallható hangra figyel. Egy pillanat múltán összeszorítja a fogát.) Mr. Salvatore azt mondja, hogy bemehetsz... }
-{306}{}{Persze-persze, bemegyek rögvest... de el?bb kinyírlak.}
-{307}{}{Köszi, seggfejhús, biztos lehetsz benne, hogy a viselkedésedr?l beszámolok Mr. Salvatorénak!}
+{266}{}{BarÃ¡tom, ha Ã­gy mersz beszÃ©lni velem, te hÃ¼lyÃ©bb vagy, mint a sokÃ©vi Ã¡tlag! Egy szÃ³t szÃ³lj, csak EGY szÃ³t, Ã©s egy rakÃ¡s hamut csinÃ¡lok bel?led!}
+{267}{}{KislÃ¡ny, ha Ã­gy mersz beszÃ©lni velem, te hÃ¼lyÃ©bb vagy, mint a sokÃ©vi Ã¡tlag! Egy szÃ³t szÃ³lj, csak EGY szÃ³t, Ã©s egy rakÃ¡s hamut csinÃ¡lok bel?led!}
+{268}{}{AZT MONDTAM, szeretnÃ©k talÃ¡lkozni Mr. SalvatorÃ©val.}
+{270}{}{(Csendben tÃ¡vozol.)}
+{275}{}{(ElvÃ¶rÃ¶sÃ¶dik, aztÃ¡n fennhangon beszÃ©lni kezd.) ElnÃ©zÃ©st, Mr. Salvatore, itt Mason. }
+{276}{}{Ez a... fickÃ³... azt Ã¡llÃ­tja, hogy tud valamit, amir?l mindenkÃ©ppen hallania kell.}
+{277}{}{Ez a... n?... azt Ã¡llÃ­tja, hogy tud valamit, amir?l mindenkÃ©ppen hallania kell.}
+{278}{}{(VÃ¡rsz...)}
+{279}{}{(MegtÃ¡madod Masont, miel?tt folytathatnÃ¡.)}
+{285}{}{Na, figyelj, lehet, hogy nem hallottad kristÃ¡lytisztÃ¡n, vadember, de ez itt a Salvatore f?hadiszÃ¡llÃ¡s. Az Ã‰N munkÃ¡m az, hogy a f?nÃ¶kÃ¶t ne zavarjÃ¡k a hozzÃ¡d hasonlÃ³ csahos ebek. Most pedig futÃ¡s vissza a tÃ¶rzsedhez, Ã©s f?zzÃ©tek meg a tÃ¡rsatokat ebÃ©dre!}
+{295}{}{Ezek itt? Jaj hÃ¡t nem is tudom, egÃ©sz elfelejtettem. (Haragos kÃ©pet vÃ¡g.) Na, idefigyelj, vadember! Ha nem hÃºzod el a beled azonnal, egy rakÃ¡s hamut csinÃ¡lok bel?led. KopÃ¡s van!}
+{298}{}{OkÃ©! Megyek! Megyek!}
+{299}{}{SzÃ³tlanul tÃ¡vozol.}
+{305}{}{FIGYELMEZTETTELEK, seggfej, na most majd... (Mason hirtelen megdermed, Ã©s valami Ã¡ltalad nem hallhatÃ³ hangra figyel. Egy pillanat mÃºltÃ¡n Ã¶sszeszorÃ­tja a fogÃ¡t.) Mr. Salvatore azt mondja, hogy bemehetsz... }
+{306}{}{Persze-persze, bemegyek rÃ¶gvest... de el?bb kinyÃ­rlak.}
+{307}{}{KÃ¶szi, seggfejhÃºs, biztos lehetsz benne, hogy a viselkedÃ©sedr?l beszÃ¡molok Mr. SalvatorÃ©nak!}
 {308}{}{Akkor rendben vagyunk.}
 {315}{}{(Mason stops you.) Look... (Leans in, lowers voice.) ...Some ground rules, boy. }
-{316}{}{Figyelj rám... (Közelebb hajol és suttogóra fogja.) ...ami az alapszabályokat illeti, kislány. }
-{317}{}{Ne pazarold Mr. Salvatore idejét, és ne szarakodj vele, különben velem gy?lik meg a bajod!}
-{318}{}{Megértettem.}
-{319}{}{Persze, persze, ahogy mondod. Állj el az utamból!}
-{325}{}{(Mason újra megállít.) Még nem végeztem! TISZTELETET kell mutatnod iránta. Csakis Mr. Salvatorénak szólíthatod, és ha beszél, szótlanul hallgasd! Megértetted?}
-{327}{}{Ez az utolsó esélyed, Mason: Állj el a francba az utamból!}
-{335}{}{Egy szép napon majd kitárgyaljuk, milyen problémáid is származnak a rádruházott hatalomból kifolyólag.}
-{336}{}{Nincs énnekem semmiféle problémám! Minden okés.}
+{316}{}{Figyelj rÃ¡m... (KÃ¶zelebb hajol Ã©s suttogÃ³ra fogja.) ...ami az alapszabÃ¡lyokat illeti, kislÃ¡ny. }
+{317}{}{Ne pazarold Mr. Salvatore idejÃ©t, Ã©s ne szarakodj vele, kÃ¼lÃ¶nben velem gy?lik meg a bajod!}
+{318}{}{MegÃ©rtettem.}
+{319}{}{Persze, persze, ahogy mondod. Ãllj el az utambÃ³l!}
+{325}{}{(Mason Ãºjra megÃ¡llÃ­t.) MÃ©g nem vÃ©geztem! TISZTELETET kell mutatnod irÃ¡nta. Csakis Mr. SalvatorÃ©nak szÃ³lÃ­thatod, Ã©s ha beszÃ©l, szÃ³tlanul hallgasd! MegÃ©rtetted?}
+{327}{}{Ez az utolsÃ³ esÃ©lyed, Mason: Ãllj el a francba az utambÃ³l!}
+{335}{}{Egy szÃ©p napon majd kitÃ¡rgyaljuk, milyen problÃ©mÃ¡id is szÃ¡rmaznak a rÃ¡druhÃ¡zott hatalombÃ³l kifolyÃ³lag.}
+{336}{}{Nincs Ã©nnekem semmifÃ©le problÃ©mÃ¡m! Minden okÃ©s.}
 {337}{}{Kapd be!}
-{345}{}{Na, jó, ebb?l elég, okostóni! Betelt a pohár... (Megropogtatja az ízületeit.) ...ez most fájni fog...}
-{346}{}{Fog? Fáj a fogad?}
-{347}{}{Táncoljunk!}
-{348}{}{Nem nekem, hanem neked fog FÁJNI! Hallod, amit mondok, MASON?! TE LESZEL AZ, AKI MOST...}
-{355}{}{Na, végre idetoltad a képed, haver! }
-{356}{}{Na, végre idetoltad a képed, kislány! }
-{357}{}{Na, végre idetoltad a képed! Nem tudom, Mr. Salvatore miért bérel fel pornóhulladékokat, de az is biztos, hogy nem fogok rákérdezni nála. }
-{358}{}{Van egy csavargó, aki meglopta Mr. Salvatorét, a neve Lloyd. Mr. Salvatore azt szeretné, ha az illet? meghalna, a lopott pénz pedig visszajutna hozzá. Ha végeztél, gyere vissza hozzám, értve? Képes vagy megcsinálni?}
-{359}{}{Hol találom Lloydot?}
-{360}{}{Hogy néz ki ez a Lloyd?}
+{345}{}{Na, jÃ³, ebb?l elÃ©g, okostÃ³ni! Betelt a pohÃ¡r... (Megropogtatja az Ã­zÃ¼leteit.) ...ez most fÃ¡jni fog...}
+{346}{}{Fog? FÃ¡j a fogad?}
+{347}{}{TÃ¡ncoljunk!}
+{348}{}{Nem nekem, hanem neked fog FÃJNI! Hallod, amit mondok, MASON?! TE LESZEL AZ, AKI MOST...}
+{355}{}{Na, vÃ©gre idetoltad a kÃ©ped, haver! }
+{356}{}{Na, vÃ©gre idetoltad a kÃ©ped, kislÃ¡ny! }
+{357}{}{Na, vÃ©gre idetoltad a kÃ©ped! Nem tudom, Mr. Salvatore miÃ©rt bÃ©rel fel pornÃ³hulladÃ©kokat, de az is biztos, hogy nem fogok rÃ¡kÃ©rdezni nÃ¡la. }
+{358}{}{Van egy csavargÃ³, aki meglopta Mr. SalvatorÃ©t, a neve Lloyd. Mr. Salvatore azt szeretnÃ©, ha az illet? meghalna, a lopott pÃ©nz pedig visszajutna hozzÃ¡. Ha vÃ©geztÃ©l, gyere vissza hozzÃ¡m, Ã©rtve? KÃ©pes vagy megcsinÃ¡lni?}
+{359}{}{Hol talÃ¡lom Lloydot?}
+{360}{}{Hogy nÃ©z ki ez a Lloyd?}
 {361}{}{Mennyit lopott el?}
-{362}{}{Miért nem mentek és kutatjátok fel Lloydot magatok?}
-{364}{}{Hogyne. Köszi, Mason.}
-{365}{}{Valszeg elboldogulok. Most pedig állj el az utamból, és hagyj dolgozni!}
-{366}{}{Én már pontot tettem a Lloyd "ügy" végére.}
+{362}{}{MiÃ©rt nem mentek Ã©s kutatjÃ¡tok fel Lloydot magatok?}
+{364}{}{Hogyne. KÃ¶szi, Mason.}
+{365}{}{Valszeg elboldogulok. Most pedig Ã¡llj el az utambÃ³l, Ã©s hagyj dolgozni!}
+{366}{}{Ã‰n mÃ¡r pontot tettem a Lloyd "Ã¼gy" vÃ©gÃ©re.}
 {367}{}{Who was the dealer at the table Lloyd won the money from?}
-{375}{}{Igen? Éspedig?}
-{381}{}{Ennél többet nem is akarok tudni. Köszi, Mason.}
-{382}{}{Ennél többet nem is akarok tudni. Állj félre és hagyj dolgozni, Mason!}
-{390}{}{A srác jól meghúzódott valahol, szóval a felkutatása a TE feladatod lesz, fiam. }
-{391}{}{A srác jól meghúzódott valahol, szóval a felkutatása a TE feladatod lesz, kislány. }
-{392}{}{Mi a tippem? Nézd végig a Sz?z utcai bárokat. Lloyd valszeg ott garázdálkodik.}
-{393}{}{Lenne pár kérdésem.}
-{400}{}{Lloyd? Picsába... egy átlagos magasságú, fehér b?r?, barna hajú ipse. Amikor utoljára láttam, barna pólót és sötét sálat viselt. Nem valószín?, hogy azóta ruhát váltott.}
-{401}{}{Az a helyzet, hogy -nem túl meglep? módon- ez a leírás nagyon sok emberre ráillik, akiket Arroyóból való eljövetelem óta láttam.}
-{410}{}{Hah! Ahogy mondod. Manapság csak név alapján lehet az embereket megkülönböztetni. Lassan már csak kábé tíz féle ember létezik a világban. (Közelebb hajol.) Nagy rá az esély, hogy régen történt valami nagy klónozási baleset.}
-{420}{}{Nagyjából ezer dolcsit. Figyelj ide, ez az összeg Mr. Salvatorét nem igazán hatja meg, de van egy sajátos hozzáállása azokhoz, akik BÁRMIT elvesznek t?le. A helyedben észben tartanám ezt. Mr. Salvatore az összes pénzét vissza akarja kapni az utolsó centig.}
-{430}{}{Ezidáig egyfolytában nyitva tartottam a szemem, de Lloyd nagyon ügyesen elrejt?zött el?lünk... A Salvatore szemek el?l. Gondolom, a f?nök szerint te majd nagyobb szerencsével jársz, hiszen új vagy a városban, vagy mifene.}
+{375}{}{Igen? Ã‰spedig?}
+{381}{}{EnnÃ©l tÃ¶bbet nem is akarok tudni. KÃ¶szi, Mason.}
+{382}{}{EnnÃ©l tÃ¶bbet nem is akarok tudni. Ãllj fÃ©lre Ã©s hagyj dolgozni, Mason!}
+{390}{}{A srÃ¡c jÃ³l meghÃºzÃ³dott valahol, szÃ³val a felkutatÃ¡sa a TE feladatod lesz, fiam. }
+{391}{}{A srÃ¡c jÃ³l meghÃºzÃ³dott valahol, szÃ³val a felkutatÃ¡sa a TE feladatod lesz, kislÃ¡ny. }
+{392}{}{Mi a tippem? NÃ©zd vÃ©gig a Sz?z utcai bÃ¡rokat. Lloyd valszeg ott garÃ¡zdÃ¡lkodik.}
+{393}{}{Lenne pÃ¡r kÃ©rdÃ©sem.}
+{400}{}{Lloyd? PicsÃ¡ba... egy Ã¡tlagos magassÃ¡gÃº, fehÃ©r b?r?, barna hajÃº ipse. Amikor utoljÃ¡ra lÃ¡ttam, barna pÃ³lÃ³t Ã©s sÃ¶tÃ©t sÃ¡lat viselt. Nem valÃ³szÃ­n?, hogy azÃ³ta ruhÃ¡t vÃ¡ltott.}
+{401}{}{Az a helyzet, hogy -nem tÃºl meglep? mÃ³don- ez a leÃ­rÃ¡s nagyon sok emberre rÃ¡illik, akiket ArroyÃ³bÃ³l valÃ³ eljÃ¶vetelem Ã³ta lÃ¡ttam.}
+{410}{}{Hah! Ahogy mondod. ManapsÃ¡g csak nÃ©v alapjÃ¡n lehet az embereket megkÃ¼lÃ¶nbÃ¶ztetni. Lassan mÃ¡r csak kÃ¡bÃ© tÃ­z fÃ©le ember lÃ©tezik a vilÃ¡gban. (KÃ¶zelebb hajol.) Nagy rÃ¡ az esÃ©ly, hogy rÃ©gen tÃ¶rtÃ©nt valami nagy klÃ³nozÃ¡si baleset.}
+{420}{}{NagyjÃ¡bÃ³l ezer dolcsit. Figyelj ide, ez az Ã¶sszeg Mr. SalvatorÃ©t nem igazÃ¡n hatja meg, de van egy sajÃ¡tos hozzÃ¡Ã¡llÃ¡sa azokhoz, akik BÃRMIT elvesznek t?le. A helyedben Ã©szben tartanÃ¡m ezt. Mr. Salvatore az Ã¶sszes pÃ©nzÃ©t vissza akarja kapni az utolsÃ³ centig.}
+{430}{}{EzidÃ¡ig egyfolytÃ¡ban nyitva tartottam a szemem, de Lloyd nagyon Ã¼gyesen elrejt?zÃ¶tt el?lÃ¼nk... A Salvatore szemek el?l. Gondolom, a f?nÃ¶k szerint te majd nagyobb szerencsÃ©vel jÃ¡rsz, hiszen Ãºj vagy a vÃ¡rosban, vagy mifene.}
 {431}{}{Ja-ja... Most mennem k...}
-{432}{}{Lenne még néhány kérd...}
-{433}{}{Akkor jó, megyek és utánané...}
+{432}{}{Lenne mÃ©g nÃ©hÃ¡ny kÃ©rd...}
+{433}{}{Akkor jÃ³, megyek Ã©s utÃ¡nanÃ©...}
 {440}{}{Akkor rendben vagyunk.}
-{442}{}{Ennél többet nem akarok most tudni. Állj félre és hagyj dolgozni!}
-{465}{}{Megtaláltad már Lloydot?}
-{466}{}{(Komor képet vág.) Remélem, JOBB híreket hoztál nekem. Megtaláltad már Lloydot?}
-{467}{}{(Komor képet vág.) Remélem, JOBB híreket hoztál Mr. Salvatore számára, különben radskorpiókkal fogsz hálni ma este.}
-{468}{}{Nem, még nem. Viszont kérdeznék még Lloyddal kapcsolatban...}
-{470}{}{Ja, megtaláltam Lloydot.}
-{472}{}{Nem, szerintem meglépett a városból és magával vitte a pénzt.}
-{473}{}{Még nem. Bocs, nem akartalak zavarni.}
-{480}{}{Na, várjunk egy picit, hékás! Megpróbálom közérthet?en megfogalmazni, hátha még te is fel tudod fogni: Addig ne gyere ide még egyszer, amíg meg nem találtad Lloydot! Különben nagyon megkeserülöd! Most pedig MUNKÁRA!}
-{481}{}{Már itt sem vagyok.}
-{482}{}{Bukj rá, Mason!}
-{490}{}{Megmondtam, hogy ne gyere vissza addig, amíg nem találtad meg Lloydot... MEGMONDTAM. (A fejét fogja.) Teljesen hülye vagy? Nyilván, ha már megint itt esz a fene! Hülye barom... és mostantól hulla.}
-{491}{}{Na, gyerünk, szarpöcs!}
-{492}{}{Ne fogja vissza magát!}
-{493}{}{Nem-nem, TE VAGY A HÜLYE BAROM HULLA! HALLASZ, MASON?! TE VAGY A HÜ...}
-{500}{}{(Hitetlenkedve bámul rád.) Elcseszted! Egy tök egyszer? feladatot kapsz, erre EL-CSESZ-TED! }
-{501}{}{Te a leghülyébb faszkalap vagy, aki ezen a földön él. }
-{502}{}{Te a leghülyébb ringyó vagy, aki ezen a földön él. }
-{503}{}{(Kihívó pillantással a fegyveréért nyúl.) Most megdöglesz, vadember!}
-{506}{}{Nem-nem, TE FOGSZ MEGDÖGLENI! HALLASZ, MASON? TE FOGSZ MEGDÖG...}
-{514}{}{Akkor mi a francért nem ezzel kezdted, te idióta? Eridj és mondd el Mr. Salvatorénak a hírt!}
-{515}{}{(Bólogat, és kissé összevonja a szemöldökét.) Akkor jó... menj és mondd el Mr. Salvatorénak a hírt!}
-{516}{}{CSAKUGYAN? Ezt kéne tennem? Köszi, Mason. Nem is tudom, mire jutnék nélküled. Ezt a barmot...}
+{442}{}{EnnÃ©l tÃ¶bbet nem akarok most tudni. Ãllj fÃ©lre Ã©s hagyj dolgozni!}
+{465}{}{MegtalÃ¡ltad mÃ¡r Lloydot?}
+{466}{}{(Komor kÃ©pet vÃ¡g.) RemÃ©lem, JOBB hÃ­reket hoztÃ¡l nekem. MegtalÃ¡ltad mÃ¡r Lloydot?}
+{467}{}{(Komor kÃ©pet vÃ¡g.) RemÃ©lem, JOBB hÃ­reket hoztÃ¡l Mr. Salvatore szÃ¡mÃ¡ra, kÃ¼lÃ¶nben radskorpiÃ³kkal fogsz hÃ¡lni ma este.}
+{468}{}{Nem, mÃ©g nem. Viszont kÃ©rdeznÃ©k mÃ©g Lloyddal kapcsolatban...}
+{470}{}{Ja, megtalÃ¡ltam Lloydot.}
+{472}{}{Nem, szerintem meglÃ©pett a vÃ¡rosbÃ³l Ã©s magÃ¡val vitte a pÃ©nzt.}
+{473}{}{MÃ©g nem. Bocs, nem akartalak zavarni.}
+{480}{}{Na, vÃ¡rjunk egy picit, hÃ©kÃ¡s! MegprÃ³bÃ¡lom kÃ¶zÃ©rthet?en megfogalmazni, hÃ¡tha mÃ©g te is fel tudod fogni: Addig ne gyere ide mÃ©g egyszer, amÃ­g meg nem talÃ¡ltad Lloydot! KÃ¼lÃ¶nben nagyon megkeserÃ¼lÃ¶d! Most pedig MUNKÃRA!}
+{481}{}{MÃ¡r itt sem vagyok.}
+{482}{}{Bukj rÃ¡, Mason!}
+{490}{}{Megmondtam, hogy ne gyere vissza addig, amÃ­g nem talÃ¡ltad meg Lloydot... MEGMONDTAM. (A fejÃ©t fogja.) Teljesen hÃ¼lye vagy? NyilvÃ¡n, ha mÃ¡r megint itt esz a fene! HÃ¼lye barom... Ã©s mostantÃ³l hulla.}
+{491}{}{Na, gyerÃ¼nk, szarpÃ¶cs!}
+{492}{}{Ne fogja vissza magÃ¡t!}
+{493}{}{Nem-nem, TE VAGY A HÃœLYE BAROM HULLA! HALLASZ, MASON?! TE VAGY A HÃœ...}
+{500}{}{(Hitetlenkedve bÃ¡mul rÃ¡d.) Elcseszted! Egy tÃ¶k egyszer? feladatot kapsz, erre EL-CSESZ-TED! }
+{501}{}{Te a leghÃ¼lyÃ©bb faszkalap vagy, aki ezen a fÃ¶ldÃ¶n Ã©l. }
+{502}{}{Te a leghÃ¼lyÃ©bb ringyÃ³ vagy, aki ezen a fÃ¶ldÃ¶n Ã©l. }
+{503}{}{(KihÃ­vÃ³ pillantÃ¡ssal a fegyverÃ©Ã©rt nyÃºl.) Most megdÃ¶glesz, vadember!}
+{506}{}{Nem-nem, TE FOGSZ MEGDÃ–GLENI! HALLASZ, MASON? TE FOGSZ MEGDÃ–G...}
+{514}{}{Akkor mi a francÃ©rt nem ezzel kezdted, te idiÃ³ta? Eridj Ã©s mondd el Mr. SalvatorÃ©nak a hÃ­rt!}
+{515}{}{(BÃ³logat, Ã©s kissÃ© Ã¶sszevonja a szemÃ¶ldÃ¶kÃ©t.) Akkor jÃ³... menj Ã©s mondd el Mr. SalvatorÃ©nak a hÃ­rt!}
+{516}{}{CSAKUGYAN? Ezt kÃ©ne tennem? KÃ¶szi, Mason. Nem is tudom, mire jutnÃ©k nÃ©lkÃ¼led. Ezt a barmot...}
 {517}{}{Rendben.}
-{520}{}{Végeztél a feladatoddal?}
-{525}{}{Menj be Mr. Salvatoréhoz! Már vár rád.}
-{530}{}{Naszóval... Ezúttal egyszemélyes behajtó ügynökség leszel. A feladat rém egyszer?. Elmész Renesco Patikájába a Kereskedelmi Negyedben, és beszeded az 1000 dolláros tartozást. Utána visszajössz szépen!}
-{531}{}{Mi sem könnyebb ennél... más egyéb?}
-{535}{}{Beszedted már a tartozást?}
-{536}{}{(Összeráncolja a homlokát.) Beszedted már a tartozást?}
-{537}{}{(Zord arcot vág.) Ezúttal nálad legyen ám a pénz, pöcsfej! Mr. Salvatore már várja.}
-{539}{}{Kit?l is kell beszednem a pénzt?}
-{540}{}{Renesco le se szart. Azt állítja, hogy már két hete odaadta a pénzt, és a következ? hónapig nem fizet egy kanyit sem.}
-{542}{}{Ööö... megvan. Itt a pénz.}
-{543}{}{Beszedtem a pénzt, de most épp nincs nálam...}
-{544}{}{Majdnem. Következ? alkalommal nálam lesz, Mason.}
-{546}{}{Itt van a tartozás... hulla úr.}
-{555}{}{*Renesco Patikája*. A Nyugati Kerületben. Ezer dollár. Most pedig leléphetsz.}
-{556}{}{Ennyit akartam tudni. Most pedig állj el az útból és hagyj dolgozni, Mason!}
-{565}{}{Na, várjunk egy picit, hékás! Megpróbálom közérthet?en megfogalmazni, hátha még te is fel tudod fogni: Addig ne gyere ide még egyszer, amíg meg nem találtad Lloydot. Különben nagyon mérges leszek. Most pedig MUNKÁRA!}
-{575}{}{Megmondtam, hogy ne gyere vissza addig, amíg nem találtad meg Lloydot... MEGMONDTAM. (A fejét fogja.) Teljesen hülye vagy? Nyilván, ha már megint itt esz a fene! Hülye barom... és mostantól hulla.}
-{585}{}{(Mason szeme összesz?kül.) Most akkor mi a pöcs van? Elmondtad neki, kinek dolgozol?}
+{520}{}{VÃ©geztÃ©l a feladatoddal?}
+{525}{}{Menj be Mr. SalvatorÃ©hoz! MÃ¡r vÃ¡r rÃ¡d.}
+{530}{}{NaszÃ³val... EzÃºttal egyszemÃ©lyes behajtÃ³ Ã¼gynÃ¶ksÃ©g leszel. A feladat rÃ©m egyszer?. ElmÃ©sz Renesco PatikÃ¡jÃ¡ba a Kereskedelmi Negyedben, Ã©s beszeded az 1000 dollÃ¡ros tartozÃ¡st. UtÃ¡na visszajÃ¶ssz szÃ©pen!}
+{531}{}{Mi sem kÃ¶nnyebb ennÃ©l... mÃ¡s egyÃ©b?}
+{535}{}{Beszedted mÃ¡r a tartozÃ¡st?}
+{536}{}{(Ã–sszerÃ¡ncolja a homlokÃ¡t.) Beszedted mÃ¡r a tartozÃ¡st?}
+{537}{}{(Zord arcot vÃ¡g.) EzÃºttal nÃ¡lad legyen Ã¡m a pÃ©nz, pÃ¶csfej! Mr. Salvatore mÃ¡r vÃ¡rja.}
+{539}{}{Kit?l is kell beszednem a pÃ©nzt?}
+{540}{}{Renesco le se szart. Azt Ã¡llÃ­tja, hogy mÃ¡r kÃ©t hete odaadta a pÃ©nzt, Ã©s a kÃ¶vetkez? hÃ³napig nem fizet egy kanyit sem.}
+{542}{}{Ã–Ã¶Ã¶... megvan. Itt a pÃ©nz.}
+{543}{}{Beszedtem a pÃ©nzt, de most Ã©pp nincs nÃ¡lam...}
+{544}{}{Majdnem. KÃ¶vetkez? alkalommal nÃ¡lam lesz, Mason.}
+{546}{}{Itt van a tartozÃ¡s... hulla Ãºr.}
+{555}{}{*Renesco PatikÃ¡ja*. A Nyugati KerÃ¼letben. Ezer dollÃ¡r. Most pedig lelÃ©phetsz.}
+{556}{}{Ennyit akartam tudni. Most pedig Ã¡llj el az ÃºtbÃ³l Ã©s hagyj dolgozni, Mason!}
+{565}{}{Na, vÃ¡rjunk egy picit, hÃ©kÃ¡s! MegprÃ³bÃ¡lom kÃ¶zÃ©rthet?en megfogalmazni, hÃ¡tha mÃ©g te is fel tudod fogni: Addig ne gyere ide mÃ©g egyszer, amÃ­g meg nem talÃ¡ltad Lloydot. KÃ¼lÃ¶nben nagyon mÃ©rges leszek. Most pedig MUNKÃRA!}
+{575}{}{Megmondtam, hogy ne gyere vissza addig, amÃ­g nem talÃ¡ltad meg Lloydot... MEGMONDTAM. (A fejÃ©t fogja.) Teljesen hÃ¼lye vagy? NyilvÃ¡n, ha mÃ¡r megint itt esz a fene! HÃ¼lye barom... Ã©s mostantÃ³l hulla.}
+{585}{}{(Mason szeme Ã¶sszesz?kÃ¼l.) Most akkor mi a pÃ¶cs van? Elmondtad neki, kinek dolgozol?}
 {586}{}{Igen.}
-{587}{}{Hát, nem annyira...}
+{587}{}{HÃ¡t, nem annyira...}
 {595}{}{Akkor MEGMUTATTAD neki, hogy kinek dolgozol?}
-{596}{}{Ezt hogy érted?}
-{598}{}{Ööö, nem. Legközelebb nálam lesz, Mason.}
-{605}{}{Micsoda? Hát folyton a kezedet kell fognom? A világ legkibaszottul egyszer?bb dolgát kell megcsinálnod, erre jössz ide sírni, hogy "Mason, Mason, így meg úgy nem akarja kifizetni a tartozást."}
-{606}{}{Na, várjunk...}
-{615}{}{(Amint megpillant, Mason elkomorul.) Na, már csak ez az ostoba faszkalap hiányzott! }
-{617}{}{Halott emberekt?l nem tudsz pénzt behajtani. (A fegyveréért nyúl.) Jól elcseszted, mint ÁLLAT!}
-{618}{}{Ja, egyébként amúgy is fárasztottál már...}
+{596}{}{Ezt hogy Ã©rted?}
+{598}{}{Ã–Ã¶Ã¶, nem. LegkÃ¶zelebb nÃ¡lam lesz, Mason.}
+{605}{}{Micsoda? HÃ¡t folyton a kezedet kell fognom? A vilÃ¡g legkibaszottul egyszer?bb dolgÃ¡t kell megcsinÃ¡lnod, erre jÃ¶ssz ide sÃ­rni, hogy "Mason, Mason, Ã­gy meg Ãºgy nem akarja kifizetni a tartozÃ¡st."}
+{606}{}{Na, vÃ¡rjunk...}
+{615}{}{(Amint megpillant, Mason elkomorul.) Na, mÃ¡r csak ez az ostoba faszkalap hiÃ¡nyzott! }
+{617}{}{Halott emberekt?l nem tudsz pÃ©nzt behajtani. (A fegyverÃ©Ã©rt nyÃºl.) JÃ³l elcseszted, mint ÃLLAT!}
+{618}{}{Ja, egyÃ©bkÃ©nt amÃºgy is fÃ¡rasztottÃ¡l mÃ¡r...}
 {619}{}{No, YOU'RE the one who's DONE SCREWED UP BUT GOOD! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S DONE SCR --}
-{625}{}{(Mason bólint, de láthatóan elégedetlen.) Heh. Azt hittem, a vén Renescóból már kisajtoltuk az utolsó vasát is. Rendben van... vidd a f?nökhöz! (Összevonja a szemöldökét.) Gyerünk...}
-{635}{}{Lehet lekopni! Mr. Salvatore nem akar több megbízatást adni neked.}
-{640}{}{Rendbe', a f?nök azt mondja, hogy velünk jössz egy kis TRANZAKCIÓRA, ami éppen esedékessé vált. Fegyver legyen nálad... persze ne valami dugóspuskát hozzál!... Ha készen állsz, keress fel újra!}
-{642}{}{Mr. Salvatore azt mondta, hogy kapok t?led egy lézerpisztolyt.}
+{625}{}{(Mason bÃ³lint, de lÃ¡thatÃ³an elÃ©gedetlen.) Heh. Azt hittem, a vÃ©n RenescÃ³bÃ³l mÃ¡r kisajtoltuk az utolsÃ³ vasÃ¡t is. Rendben van... vidd a f?nÃ¶khÃ¶z! (Ã–sszevonja a szemÃ¶ldÃ¶kÃ©t.) GyerÃ¼nk...}
+{635}{}{Lehet lekopni! Mr. Salvatore nem akar tÃ¶bb megbÃ­zatÃ¡st adni neked.}
+{640}{}{Rendbe', a f?nÃ¶k azt mondja, hogy velÃ¼nk jÃ¶ssz egy kis TRANZAKCIÃ“RA, ami Ã©ppen esedÃ©kessÃ© vÃ¡lt. Fegyver legyen nÃ¡lad... persze ne valami dugÃ³spuskÃ¡t hozzÃ¡l!... Ha kÃ©szen Ã¡llsz, keress fel Ãºjra!}
+{642}{}{Mr. Salvatore azt mondta, hogy kapok t?led egy lÃ©zerpisztolyt.}
 {643}{}{What is this transaction we're doing?}
-{644}{}{Akár most is mehetünk. Én készen állok.}
-{645}{}{Adj egy kis id?t, hogy felkészüljek, aztán majd visszajövök!}
-{655}{}{Igen, hallottam róla. Tessék... azért ne játszadozz vele! Ha valakit megsebesítesz vele, kinyírlak!}
-{656}{}{Meg tudod tanítani, hogy kell használni ezt az izét?}
-{658}{}{Akkor jól van, én kész vagyok. Induljunk!}
-{665}{}{(Komor képet vág.) Ha a f?nök nem mondta el, akkor nem rád tartozik. Szóval állítsd alapállásba a szádat... és ne kürtöld szét mindenkinek, hogy mi folyik itt, különben gondoskodom róla, hogy mást se nagyon mondj többet.}
+{644}{}{AkÃ¡r most is mehetÃ¼nk. Ã‰n kÃ©szen Ã¡llok.}
+{645}{}{Adj egy kis id?t, hogy felkÃ©szÃ¼ljek, aztÃ¡n majd visszajÃ¶vÃ¶k!}
+{655}{}{Igen, hallottam rÃ³la. TessÃ©k... azÃ©rt ne jÃ¡tszadozz vele! Ha valakit megsebesÃ­tesz vele, kinyÃ­rlak!}
+{656}{}{Meg tudod tanÃ­tani, hogy kell hasznÃ¡lni ezt az izÃ©t?}
+{658}{}{Akkor jÃ³l van, Ã©n kÃ©sz vagyok. Induljunk!}
+{665}{}{(Komor kÃ©pet vÃ¡g.) Ha a f?nÃ¶k nem mondta el, akkor nem rÃ¡d tartozik. SzÃ³val Ã¡llÃ­tsd alapÃ¡llÃ¡sba a szÃ¡dat... Ã©s ne kÃ¼rtÃ¶ld szÃ©t mindenkinek, hogy mi folyik itt, kÃ¼lÃ¶nben gondoskodom rÃ³la, hogy mÃ¡st se nagyon mondj tÃ¶bbet.}
 {675}{}{Akkor induljunk!}
-{676}{}{A többi Salvatore bérenccel együtt elindultok a sivatagba...}
-{685}{}{El ne késs! Csak 24 óránk van az üzletkötésre. Ha lemaradsz, gondoskodom róla, hogy a Golgotán rohadj meg.}
-{686}{}{Te csak ne aggódj! Itt leszek.}
-{695}{}{Na, kialudtad magad? Akár mehetünk is?}
+{676}{}{A tÃ¶bbi Salvatore bÃ©renccel egyÃ¼tt elindultok a sivatagba...}
+{685}{}{El ne kÃ©ss! Csak 24 Ã³rÃ¡nk van az Ã¼zletkÃ¶tÃ©sre. Ha lemaradsz, gondoskodom rÃ³la, hogy a GolgotÃ¡n rohadj meg.}
+{686}{}{Te csak ne aggÃ³dj! Itt leszek.}
+{695}{}{Na, kialudtad magad? AkÃ¡r mehetÃ¼nk is?}
 {696}{}{What is this transaction we're doing again?}
-{697}{}{Igen. Húzzunk bele!}
-{698}{}{Még kéne egy kis id?, aztán visszajövök.}
-{699}{}{Meg tudod tanítani, hogy kell bánni ezzel a pisztollyal?}
-{705}{}{Már régóta viszket a tenyerem, hogy kinyírjalak... figyelmeztettelek, hogy mi fog történni, ha nem érsz ide id?ben!}
-{706}{}{Bassza meg, már megbocsáss, hogy nincs órám!}
-{707}{}{Nem, A FIGYELMEZTETÉST TE KAPTAD! HALLASZ, MASON? MEGKAPTAD A FI...}
-{715}{}{Miért kell neked mindenre, amit mondok, kérdéssel válaszolni? Vésd eszedbe: A tranzakció másik résztvev?jét nem sebzik ezek a fényhozók, érted? Szóval jobb, ha valami MÁST pakolsz be.}
-{725}{}{(Horkant egyet.) Abüdöséletbe... na figyelj rám, ÍGY kell tartani. (Megigazítja a kezedet.) A betölt? itt van... (Egy óra elteltével, és némi gyakorlás után, Mason feljebb tornázta az Energiafegyver képzettséged.)}
-{726}{}{Szóval miért kéne ennél jobb fegyver? Ezek a pisztolyok elég brutálnak t?nnek.}
-{728}{}{Én készen állok. Mehetünk.}
-{729}{}{Jól van. Hadd készüljek fel, és rövidesen visszajövök.}
-{735}{}{(Horkant egyet.) Hékás...}
-{736}{}{Elteszed a tárgyakat.}
-{745}{}{Ezenkívül a Salvatore családnak van egy... speciális SZERZ?DÉSE Kitty kisasszonnyal a Cat's Paw-ban, valamint Eldridge-dzsel, a fegyverboltossal, és Renescóval. (Rádkacsint.) Érezd jól magad!}
-{746}{}{Köszi, Mason.}
-{747}{}{Hát, Mason, köszi... viszont legközelebb akár hívhatnál "uramnak" is. Eléggé tetszene. HA HA HA HA HA HA...}
-{748}{}{Hát, Mason, köszi... viszont legközelebb akár hívhatnál "asszonyomnak" is. Eléggé tetszene. HA HA HA HA HA HA...}
+{697}{}{Igen. HÃºzzunk bele!}
+{698}{}{MÃ©g kÃ©ne egy kis id?, aztÃ¡n visszajÃ¶vÃ¶k.}
+{699}{}{Meg tudod tanÃ­tani, hogy kell bÃ¡nni ezzel a pisztollyal?}
+{705}{}{MÃ¡r rÃ©gÃ³ta viszket a tenyerem, hogy kinyÃ­rjalak... figyelmeztettelek, hogy mi fog tÃ¶rtÃ©nni, ha nem Ã©rsz ide id?ben!}
+{706}{}{Bassza meg, mÃ¡r megbocsÃ¡ss, hogy nincs Ã³rÃ¡m!}
+{707}{}{Nem, A FIGYELMEZTETÃ‰ST TE KAPTAD! HALLASZ, MASON? MEGKAPTAD A FI...}
+{715}{}{MiÃ©rt kell neked mindenre, amit mondok, kÃ©rdÃ©ssel vÃ¡laszolni? VÃ©sd eszedbe: A tranzakciÃ³ mÃ¡sik rÃ©sztvev?jÃ©t nem sebzik ezek a fÃ©nyhozÃ³k, Ã©rted? SzÃ³val jobb, ha valami MÃST pakolsz be.}
+{725}{}{(Horkant egyet.) AbÃ¼dÃ¶sÃ©letbe... na figyelj rÃ¡m, ÃGY kell tartani. (MegigazÃ­tja a kezedet.) A betÃ¶lt? itt van... (Egy Ã³ra elteltÃ©vel, Ã©s nÃ©mi gyakorlÃ¡s utÃ¡n, Mason feljebb tornÃ¡zta az Energiafegyver kÃ©pzettsÃ©ged.)}
+{726}{}{SzÃ³val miÃ©rt kÃ©ne ennÃ©l jobb fegyver? Ezek a pisztolyok elÃ©g brutÃ¡lnak t?nnek.}
+{728}{}{Ã‰n kÃ©szen Ã¡llok. MehetÃ¼nk.}
+{729}{}{JÃ³l van. Hadd kÃ©szÃ¼ljek fel, Ã©s rÃ¶videsen visszajÃ¶vÃ¶k.}
+{735}{}{(Horkant egyet.) HÃ©kÃ¡s...}
+{736}{}{Elteszed a tÃ¡rgyakat.}
+{745}{}{EzenkÃ­vÃ¼l a Salvatore csalÃ¡dnak van egy... speciÃ¡lis SZERZ?DÃ‰SE Kitty kisasszonnyal a Cat's Paw-ban, valamint Eldridge-dzsel, a fegyverboltossal, Ã©s RenescÃ³val. (RÃ¡dkacsint.) Ã‰rezd jÃ³l magad!}
+{746}{}{KÃ¶szi, Mason.}
+{747}{}{HÃ¡t, Mason, kÃ¶szi... viszont legkÃ¶zelebb akÃ¡r hÃ­vhatnÃ¡l "uramnak" is. ElÃ©ggÃ© tetszene. HA HA HA HA HA HA...}
+{748}{}{HÃ¡t, Mason, kÃ¶szi... viszont legkÃ¶zelebb akÃ¡r hÃ­vhatnÃ¡l "asszonyomnak" is. ElÃ©ggÃ© tetszene. HA HA HA HA HA HA...}
 {755}{}{Hello... sir.}
-{756}{}{Üdvözöljük... asszonyom.}
-{765}{}{(Mason ledermed, fülel valami általad nem hallható hangra. Egy pillanat múlva összeszorítja a fogát.) Mr. Salvatore azt mondja, bemehetsz, }
-{766}{}{Köszi, seggfejhús. Biztos lehetsz benne, hogy a viselkedésedet megemlítem Mr. Salvatorénak.}
-{775}{}{(Összesz?kül a szeme.) Ha netán azt SUGALLOD, hogy nem végzem a MUNKÁMAT, akkor ezt most személyesen megbeszélhetjük. Mr. Salvatore nem fog kérdez?sködni, hogy ugyan mi a szar történt veled.}
-{776}{}{Én nem sugallom, hogy nem végzed a dolgodat, fitymafej?, hanem ÁLLÍTOM.}
-{777}{}{Nyugi-nyugi! Csak kiváncsi voltam.}
-{778}{}{Ez a beszélgetés kezd untatni. Megyek a sunyiba.}
-{785}{}{Ne hagyd, hogy a tata átvágjon a palánkon... ha megpróbálná, közöld vele, hogy Mr. Salvatorénak dolgozol. Ez majd tisztázza a félreértéseket. Veszed az adást?}
-{786}{}{Veszem. Na, akkor félre az útból, és hagyj dolgozni!}
-{795}{}{Tököt felkötni, fiam, aztán *járj a végére*!}
-{796}{}{Gondolhattam volna, hogy ez lesz, ha n?t küld az ember férfimunkára. Hagyd abba a vernyákolást, és *járj a dolog végére!*}
-{797}{}{Megyek és a végére járok. Köszi, Mason. NAGY segítségemre voltál.}
-{798}{}{Akkor megyek és a végére járok.}
-{799}{}{Ah, a végére fogok járni. De veled kezdem.}
-{805}{}{Szegény Mr. Salvatore... már nagyon öregecske volt. Kilehelte a lelkét.}
-{806}{}{*Szipog* ...Mr. Salvatore... olyan volt, mintha az apám lett volna.}
-{807}{}{Szerettem azt a ziháló, vén csontot. Most hogy meghalt, soha nem fogja megtudni, mit éreztem iránta.}
-{815}{}{(Amikor meglát, komor képet vág.) Hallottam, hogy Renescót valami "baleset" érte. Azt rebesgetik, volt valami közöd hozzá. Csak azért, hogy tudd, ? az egyik EMBERÜNK volt, vadember. Most már te tartozol nekünk... a véreddel.}
-{818}{}{Nem, TE FOGSZ SZÉPEN MEGNYÚVADNI! HALLASZ, MASON? TE FOGSZ SZÉPEN MEGNYÚ..}
-{825}{}{(Mason arca k?keménnyé válik, aztán a fegyveréért nyúl.)}
-{826}{}{Nem hiszem, hogy olyan könnyen meg fogsz ölni, mint amilyen könnyen megmérgeztétek azt a gyereket...}
-{835}{}{Felejtsd el! A feladatot lefújtuk. T?nés innen!}
-{840}{}{Örülök, hogy nagynehezen visszajöttél. A f?nök látni akar.}
+{756}{}{ÃœdvÃ¶zÃ¶ljÃ¼k... asszonyom.}
+{765}{}{(Mason ledermed, fÃ¼lel valami Ã¡ltalad nem hallhatÃ³ hangra. Egy pillanat mÃºlva Ã¶sszeszorÃ­tja a fogÃ¡t.) Mr. Salvatore azt mondja, bemehetsz, }
+{766}{}{KÃ¶szi, seggfejhÃºs. Biztos lehetsz benne, hogy a viselkedÃ©sedet megemlÃ­tem Mr. SalvatorÃ©nak.}
+{775}{}{(Ã–sszesz?kÃ¼l a szeme.) Ha netÃ¡n azt SUGALLOD, hogy nem vÃ©gzem a MUNKÃMAT, akkor ezt most szemÃ©lyesen megbeszÃ©lhetjÃ¼k. Mr. Salvatore nem fog kÃ©rdez?skÃ¶dni, hogy ugyan mi a szar tÃ¶rtÃ©nt veled.}
+{776}{}{Ã‰n nem sugallom, hogy nem vÃ©gzed a dolgodat, fitymafej?, hanem ÃLLÃTOM.}
+{777}{}{Nyugi-nyugi! Csak kivÃ¡ncsi voltam.}
+{778}{}{Ez a beszÃ©lgetÃ©s kezd untatni. Megyek a sunyiba.}
+{785}{}{Ne hagyd, hogy a tata Ã¡tvÃ¡gjon a palÃ¡nkon... ha megprÃ³bÃ¡lnÃ¡, kÃ¶zÃ¶ld vele, hogy Mr. SalvatorÃ©nak dolgozol. Ez majd tisztÃ¡zza a fÃ©lreÃ©rtÃ©seket. Veszed az adÃ¡st?}
+{786}{}{Veszem. Na, akkor fÃ©lre az ÃºtbÃ³l, Ã©s hagyj dolgozni!}
+{795}{}{TÃ¶kÃ¶t felkÃ¶tni, fiam, aztÃ¡n *jÃ¡rj a vÃ©gÃ©re*!}
+{796}{}{Gondolhattam volna, hogy ez lesz, ha n?t kÃ¼ld az ember fÃ©rfimunkÃ¡ra. Hagyd abba a vernyÃ¡kolÃ¡st, Ã©s *jÃ¡rj a dolog vÃ©gÃ©re!*}
+{797}{}{Megyek Ã©s a vÃ©gÃ©re jÃ¡rok. KÃ¶szi, Mason. NAGY segÃ­tsÃ©gemre voltÃ¡l.}
+{798}{}{Akkor megyek Ã©s a vÃ©gÃ©re jÃ¡rok.}
+{799}{}{Ah, a vÃ©gÃ©re fogok jÃ¡rni. De veled kezdem.}
+{805}{}{SzegÃ©ny Mr. Salvatore... mÃ¡r nagyon Ã¶regecske volt. Kilehelte a lelkÃ©t.}
+{806}{}{*Szipog* ...Mr. Salvatore... olyan volt, mintha az apÃ¡m lett volna.}
+{807}{}{Szerettem azt a zihÃ¡lÃ³, vÃ©n csontot. Most hogy meghalt, soha nem fogja megtudni, mit Ã©reztem irÃ¡nta.}
+{815}{}{(Amikor meglÃ¡t, komor kÃ©pet vÃ¡g.) Hallottam, hogy RenescÃ³t valami "baleset" Ã©rte. Azt rebesgetik, volt valami kÃ¶zÃ¶d hozzÃ¡. Csak azÃ©rt, hogy tudd, ? az egyik EMBERÃœNK volt, vadember. Most mÃ¡r te tartozol nekÃ¼nk... a vÃ©reddel.}
+{818}{}{Nem, TE FOGSZ SZÃ‰PEN MEGNYÃšVADNI! HALLASZ, MASON? TE FOGSZ SZÃ‰PEN MEGNYÃš..}
+{825}{}{(Mason arca k?kemÃ©nnyÃ© vÃ¡lik, aztÃ¡n a fegyverÃ©Ã©rt nyÃºl.)}
+{826}{}{Nem hiszem, hogy olyan kÃ¶nnyen meg fogsz Ã¶lni, mint amilyen kÃ¶nnyen megmÃ©rgeztÃ©tek azt a gyereket...}
+{835}{}{Felejtsd el! A feladatot lefÃºjtuk. T?nÃ©s innen!}
+{840}{}{Ã–rÃ¼lÃ¶k, hogy nagynehezen visszajÃ¶ttÃ©l. A f?nÃ¶k lÃ¡tni akar.}
 {900}{}{Her name's Nikki. She's downstairs in the backroom. (Mason stares off into the distance.) Man does she have a perfect ass.}
-{901}{}{Lenne pár kérdésem.}
+{901}{}{Lenne pÃ¡r kÃ©rdÃ©sem.}
 {1305}{}{ vagyok.}
-{5735}{}{. Mr. Salvatore értesített az el?meneteledr?l. Gratula. Van egy két cuccom a számodra... nesze... (Átad egy rakás tárgyat.) Vigyázz azzal ott...}
+{5735}{}{. Mr. Salvatore Ã©rtesÃ­tett az el?meneteledr?l. Gratula. Van egy kÃ©t cuccom a szÃ¡modra... nesze... (Ãtad egy rakÃ¡s tÃ¡rgyat.) VigyÃ¡zz azzal ott...}
 {5765}{}{ vagyok.}

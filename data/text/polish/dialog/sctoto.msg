@@ -1,4 +1,4 @@
-{100}{}{To du¿y robot trzymaj¹cy narzêdzia i inne rzeczy tego typu.}
+{100}{}{To duÅ¼y robot trzymajÄ…cy narzÄ™dzia i inne rzeczy tego typu.}
 {101}{}{To Toto, robot konserwacyjny Doroty.}
 {102}{}{To robot, model konserwacyjny.}
 {103}{}{Bzzz... Hau, hau!... Bzzt. Klik... Hau!}

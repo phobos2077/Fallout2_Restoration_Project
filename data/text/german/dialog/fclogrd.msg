@@ -8,12 +8,12 @@
 {107}{}{Behandle unser Volk mit Respekt.}
 {108}{}{Fass das nicht an und das ist die letzte Warnung.}
 {109}{}{Bleib da weg!}
-{110}{}{Zurück, Lao Wai, oder ich blas dich mit soviel Blei voll, dass es scheppert, wenn du
- läufst! }
-{111}{}{Zieh dich ganz langsam zurück. Eine falsche Bewegung und du bist tot.}
+{110}{}{ZurÃ¼ck, Lao Wai, oder ich blas dich mit soviel Blei voll, dass es scheppert, wenn du
+ lÃ¤ufst! }
+{111}{}{Zieh dich ganz langsam zurÃ¼ck. Eine falsche Bewegung und du bist tot.}
 {112}{}{Daran solltest du nicht mal denken.}
 {113}{}{Schluss damit. SOFORT!}
 {114}{}{Stirb, Feind unseres Volkes!}
-{115}{}{Fahr zur Hölle des Glühenden Eisens!}
-{116}{}{Buddha sei deiner Seele gnädig!}
+{115}{}{Fahr zur HÃ¶lle des GlÃ¼henden Eisens!}
+{116}{}{Buddha sei deiner Seele gnÃ¤dig!}
 {117}{}{Nimm das, Elender!}

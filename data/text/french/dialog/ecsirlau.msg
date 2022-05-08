@@ -4,7 +4,7 @@
 {103}{}{Sieur Lancelot, pour vous servir.}
 {104}{}{Casse-toi !}
 {105}{}{Tu cherches la bagarre ?}
-{106}{}{Aïe ! Arrête !}
-{200}{}{Hé, tes mains sont glacées !}
+{106}{}{AÃ¯e ! ArrÃªte !}
+{200}{}{HÃ©, tes mains sont glacÃ©es !}
 {201}{}{Cela ne t'appartient pas.}
-{202}{}{Hé, c'est à moi !}
+{202}{}{HÃ©, c'est Ã  moi !}

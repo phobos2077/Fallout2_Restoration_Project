@@ -1,35 +1,35 @@
 {10}{}{<None>}
-{100}{}{Üveg}
-{101}{}{Fém}
+{100}{}{Ãœveg}
+{101}{}{FÃ©m}
 {102}{}{M?anyag}
 {103}{}{Fa}
 {104}{}{Piszok}
 {105}{}{K?}
 {106}{}{Beton}
 {107}{}{B?r}
-{150}{}{Páncél}
-{151}{}{Konténer}
+{150}{}{PÃ¡ncÃ©l}
+{151}{}{KontÃ©ner}
 {152}{}{Drog}
 {153}{}{Fegyver}
 {154}{}{L?szer}
-{155}{}{Egyéb tárgy}
+{155}{}{EgyÃ©b tÃ¡rgy}
 {156}{}{Kulcs}
-{200}{}{Portál}
-{201}{}{Lépcs?}
+{200}{}{PortÃ¡l}
+{201}{}{LÃ©pcs?}
 {202}{}{Lift}
-{203}{}{Létra alja}
-{204}{}{Létra teteje}
-{205}{}{Tipikus táj}
-{250}{}{normál}
-{251}{}{lézer}
+{203}{}{LÃ©tra alja}
+{204}{}{LÃ©tra teteje}
+{205}{}{Tipikus tÃ¡j}
+{250}{}{normÃ¡l}
+{251}{}{lÃ©zer}
 {252}{}{t?z}
 {253}{}{plazma}
 {254}{}{elektromos}
 {255}{}{emp}
-{256}{}{robbanás}
+{256}{}{robbanÃ¡s}
 {300}{}{Semmilyen.}
-{301}{}{Rakéta}
-{302}{}{Lángszóró üzemanyag}
+{301}{}{RakÃ©ta}
+{302}{}{LÃ¡ngszÃ³rÃ³ Ã¼zemanyag}
 {303}{}{C energiacella}
 {304}{}{D energiacella}
 {305}{}{.223}
@@ -43,60 +43,60 @@
 {313}{}{BB}
 {314}{}{.45 kal}
 {315}{}{2mm}
-{316}{}{4.7mm hüvelynélküli}
-{317}{}{HN szög}
+{316}{}{4.7mm hÃ¼velynÃ©lkÃ¼li}
+{317}{}{HN szÃ¶g}
 {318}{}{7.62mm}
-{350}{}{Fehér}
+{350}{}{FehÃ©r}
 {351}{}{Afrikai}
-{400}{}{Kétlábú}
-{401}{}{Négylábú}
+{400}{}{KÃ©tlÃ¡bÃº}
+{401}{}{NÃ©gylÃ¡bÃº}
 {402}{}{Robot}
-{450}{}{Férfi}
+{450}{}{FÃ©rfi}
 {451}{}{N?}
 {452}{}{Gyerek}
 {453}{}{Super mutants}
 {454}{}{Ghoul}
 {455}{}{Brahmin}
-{456}{}{Radskorpió}
-{457}{}{Patkány}
+{456}{}{RadskorpiÃ³}
+{457}{}{PatkÃ¡ny}
 {458}{}{Lebeg?}
 {459}{}{Kentaur}
 {460}{}{Robot}
 {461}{}{Kutya}
-{462}{}{Sáska}
+{462}{}{SÃ¡ska}
 {463}{}{Deathclaws}
-{464}{}{Növény}
-{465}{}{Ez a szám mutatja, hány férfit öltél meg a kalandozásaid során.}
-{466}{}{Ez a szám mutatja, hány n?t öltél meg a kalandozásaid során.}
-{467}{}{Ez a szám mutatja, hány gyereket öltél meg. Te gyerekgyilkos!}
-{468}{}{Azon szupermutánsok száma, melyeket kalandozásaid közben mészároltál le.}
-{469}{}{Ez a szám mutatja, hány férfi és n? ghoult gyilkoltál meg eddig.}
-{470}{}{Ez a szám mutatja, hány brahmint (mutáns tehén) vágtál le utazásaid során.}
-{471}{}{Az általad elpusztított radskorpiók száma.}
-{472}{}{Az eddig elpusztított patkányok száma, beleértve a patkányok valamennyi fajtáját .}
-{473}{}{Ez a szám mutatja, hány mutáns lebeg?t pusztítottál el.}
-{474}{}{Ennyi mutáns kentaurt tettél el láb alól.}
-{475}{}{Ez a szám mutatja, hány robotot semmisítettél meg vagy szereltél szét.}
-{476}{}{Azon kutyák száma, amiket te küldtél fel a hatalmas égi kutyaólba.}
-{477}{}{Ez a szám mutatja, hány sáskát, azaz hány sáska-szer? mutáns rovart tapostál el.}
-{478}{}{Ez a szám mutatja, hány halálkarmot és halálkarom kölyköt öltél meg.}
+{464}{}{NÃ¶vÃ©ny}
+{465}{}{Ez a szÃ¡m mutatja, hÃ¡ny fÃ©rfit Ã¶ltÃ©l meg a kalandozÃ¡said sorÃ¡n.}
+{466}{}{Ez a szÃ¡m mutatja, hÃ¡ny n?t Ã¶ltÃ©l meg a kalandozÃ¡said sorÃ¡n.}
+{467}{}{Ez a szÃ¡m mutatja, hÃ¡ny gyereket Ã¶ltÃ©l meg. Te gyerekgyilkos!}
+{468}{}{Azon szupermutÃ¡nsok szÃ¡ma, melyeket kalandozÃ¡said kÃ¶zben mÃ©szÃ¡roltÃ¡l le.}
+{469}{}{Ez a szÃ¡m mutatja, hÃ¡ny fÃ©rfi Ã©s n? ghoult gyilkoltÃ¡l meg eddig.}
+{470}{}{Ez a szÃ¡m mutatja, hÃ¡ny brahmint (mutÃ¡ns tehÃ©n) vÃ¡gtÃ¡l le utazÃ¡said sorÃ¡n.}
+{471}{}{Az Ã¡ltalad elpusztÃ­tott radskorpiÃ³k szÃ¡ma.}
+{472}{}{Az eddig elpusztÃ­tott patkÃ¡nyok szÃ¡ma, beleÃ©rtve a patkÃ¡nyok valamennyi fajtÃ¡jÃ¡t .}
+{473}{}{Ez a szÃ¡m mutatja, hÃ¡ny mutÃ¡ns lebeg?t pusztÃ­tottÃ¡l el.}
+{474}{}{Ennyi mutÃ¡ns kentaurt tettÃ©l el lÃ¡b alÃ³l.}
+{475}{}{Ez a szÃ¡m mutatja, hÃ¡ny robotot semmisÃ­tettÃ©l meg vagy szereltÃ©l szÃ©t.}
+{476}{}{Azon kutyÃ¡k szÃ¡ma, amiket te kÃ¼ldtÃ©l fel a hatalmas Ã©gi kutyaÃ³lba.}
+{477}{}{Ez a szÃ¡m mutatja, hÃ¡ny sÃ¡skÃ¡t, azaz hÃ¡ny sÃ¡ska-szer? mutÃ¡ns rovart tapostÃ¡l el.}
+{478}{}{Ez a szÃ¡m mutatja, hÃ¡ny halÃ¡lkarmot Ã©s halÃ¡lkarom kÃ¶lykÃ¶t Ã¶ltÃ©l meg.}
 {479}{}{The number of plants whose quest for sunlight you have terminated.}
 {480}{}{%s.}
-{485}{}{%s átkutatása.}
-{486}{}{Az el?tted lév? %s becsukása nem okozott gondot.}
-{487}{}{Zárva van.}
+{485}{}{%s Ã¡tkutatÃ¡sa.}
+{486}{}{Az el?tted lÃ©v? %s becsukÃ¡sa nem okozott gondot.}
+{487}{}{ZÃ¡rva van.}
 {490}{}{%s.}
-{491}{}{%s maradványai.}
-{492}{}{%s maradványai.}
-{493}{}{Nem látsz semmi különöset.}
+{491}{}{%s maradvÃ¡nyai.}
+{492}{}{%s maradvÃ¡nyai.}
+{493}{}{Nem lÃ¡tsz semmi kÃ¼lÃ¶nÃ¶set.}
 {500}{}{Halott}
 {501}{}{Majdnem halott}
-{502}{}{Súlyosan sebesült}
-{503}{}{Sebesült}
-{504}{}{Sértetlen}
-{510}{}{VÉ Mód.: %d}
-{511}{}{SE Mód.: %d}
-{512}{}{Sebz. Mód.: %d/%d}
+{502}{}{SÃºlyosan sebesÃ¼lt}
+{503}{}{SebesÃ¼lt}
+{504}{}{SÃ©rtetlen}
+{510}{}{VÃ‰ MÃ³d.: %d}
+{511}{}{SE MÃ³d.: %d}
+{512}{}{Sebz. MÃ³d.: %d/%d}
 {518}{}{Ez egy: %s }
 {519}{}{%s %s }
 {520}{}{%s vagy.}
@@ -104,40 +104,40 @@
 {522}{}{%s.}
 {523}{}{%s.}
 {524}{}{%s.}
-{525}{}{%s: Az Életpontjai száma %d/%d.}
+{525}{}{%s: Az Ã‰letpontjai szÃ¡ma %d/%d.}
 {526}{}{benne %d/%d %s.}
-{530}{}{és sérült végtagjai vannak.}
-{531}{}{de sérült végtagjai vannak.}
-{532}{}{és sérült végtagjai vannak.}
-{533}{}{de sérült végtagjai vannak.}
-{535}{}{Az Életpontjai száma %d/%d}
-{536}{}{Az Életpontjai száma %d/%d}
-{537}{}{Az Életpontjai száma %d/%d}
+{530}{}{Ã©s sÃ©rÃ¼lt vÃ©gtagjai vannak.}
+{531}{}{de sÃ©rÃ¼lt vÃ©gtagjai vannak.}
+{532}{}{Ã©s sÃ©rÃ¼lt vÃ©gtagjai vannak.}
+{533}{}{de sÃ©rÃ¼lt vÃ©gtagjai vannak.}
+{535}{}{Az Ã‰letpontjai szÃ¡ma %d/%d}
+{536}{}{Az Ã‰letpontjai szÃ¡ma %d/%d}
+{537}{}{Az Ã‰letpontjai szÃ¡ma %d/%d}
 {540}{}{%d fontot nyom.}
 {541}{}{%d fontot nyom.}
 {544}{}{, }
 {545}{}{ vagyok.}
 {546}{}{. Fegyvere %s.}
 {547}{}{. Fegyvere %s, benne %d/%d %s.}
-{548}{}{Az autó most épp nem m?ködik.}
-{549}{}{Az autóban %d%% üzemanyag van.}
+{548}{}{Az autÃ³ most Ã©pp nem m?kÃ¶dik.}
+{549}{}{Az autÃ³ban %d%% Ã¼zemanyag van.}
 {550}{}{\nError: lookup_val out of range!}
 {551}{}{\nError: obj_examine: proto_ptr failed!}
-{580}{}{Használod: %s.}
-{581}{}{Használod a %s-t a %s-n.}
-{582}{}{Ezzel nem jutottál semmire.}
-{583}{}{Megdöbbensz, mikor észreveszed, hogy már meghalt.}
-{584}{}{Ahogy lenyúlsz, észreveszed, hogy már meghalt.}
-{585}{}{Hát, elkéstél.}
-{586}{}{Ez nemigen segít a holtakon.}
-{587}{}{Meggyújtod a fáklyát.}
-{588}{}{A fáklya már ég.}
-{589}{}{Beállítod az id?zít?t.}
-{590}{}{Az óra már ketyeg!}
-{595}{}{Feltöltöd az autót.}
-{596}{}{Az autó már maximum energián van.}
-{597}{}{Az ajtót elállja valaki.}
-{620}{}{%d tapasztalati pontot kaptál, mert megölted: %s.}
+{580}{}{HasznÃ¡lod: %s.}
+{581}{}{HasznÃ¡lod a %s-t a %s-n.}
+{582}{}{Ezzel nem jutottÃ¡l semmire.}
+{583}{}{MegdÃ¶bbensz, mikor Ã©szreveszed, hogy mÃ¡r meghalt.}
+{584}{}{Ahogy lenyÃºlsz, Ã©szreveszed, hogy mÃ¡r meghalt.}
+{585}{}{HÃ¡t, elkÃ©stÃ©l.}
+{586}{}{Ez nemigen segÃ­t a holtakon.}
+{587}{}{MeggyÃºjtod a fÃ¡klyÃ¡t.}
+{588}{}{A fÃ¡klya mÃ¡r Ã©g.}
+{589}{}{BeÃ¡llÃ­tod az id?zÃ­t?t.}
+{590}{}{Az Ã³ra mÃ¡r ketyeg!}
+{595}{}{FeltÃ¶ltÃ¶d az autÃ³t.}
+{596}{}{Az autÃ³ mÃ¡r maximum energiÃ¡n van.}
+{597}{}{Az ajtÃ³t elÃ¡llja valaki.}
+{620}{}{%d tapasztalati pontot kaptÃ¡l, mert megÃ¶lted: %s.}
 {621}{}{%s you gain %d experience points.}
 {622}{}{For defeating your enemies,}
 {623}{}{For slaying your opponents,}
@@ -145,75 +145,75 @@
 {625}{}{For crushing your enemies,}
 {626}{}{For destroying your enemies without taking a scratch,}
 {650}{}{[DONE]}
-{651}{}{[TOVÁBB]}
-{652}{}{Tovább}
+{651}{}{[TOVÃBB]}
+{652}{}{TovÃ¡bb}
 {653}{}{[BACK]}
 {654}{}{Vissza.}
-{655}{}{Vigyázz arra, hogy mit csinálsz,}
-{656}{}{Ööö...}
-{660}{}{Nem látsz odáig.}
-{661}{}{Túl messze van.}
-{670}{}{Oké.}
+{655}{}{VigyÃ¡zz arra, hogy mit csinÃ¡lsz,}
+{656}{}{Ã–Ã¶Ã¶...}
+{660}{}{Nem lÃ¡tsz odÃ¡ig.}
+{661}{}{TÃºl messze van.}
+{670}{}{OkÃ©.}
 {671}{}{Hogyne.}
 {672}{}{Ahogy akarod.}
-{673}{}{Nem probléma.}
-{674}{}{Megpróbálom.}
+{673}{}{Nem problÃ©ma.}
+{674}{}{MegprÃ³bÃ¡lom.}
 {675}{}{Nem tehetem.}
-{676}{}{Nem hinném, hogy meg tudnám tenni.}
+{676}{}{Nem hinnÃ©m, hogy meg tudnÃ¡m tenni.}
 {677}{}{Vau!}
-{678}{}{Vaúú!}
-{700}{}{Nincs elég AP-d.}
-{800}{}{Elolvastad a könyvet.}
-{801}{}{Semmi újat nem tanultál.}
-{802}{}{Új tudományos ismereteket szereztél.}
-{803}{}{Sok újat tanultál a lerobbant berendezések javításáról.}
-{804}{}{Új gyógyítási módokat tanultál.}
+{678}{}{VaÃºÃº!}
+{700}{}{Nincs elÃ©g AP-d.}
+{800}{}{Elolvastad a kÃ¶nyvet.}
+{801}{}{Semmi Ãºjat nem tanultÃ¡l.}
+{802}{}{Ãšj tudomÃ¡nyos ismereteket szereztÃ©l.}
+{803}{}{Sok Ãºjat tanultÃ¡l a lerobbant berendezÃ©sek javÃ­tÃ¡sÃ¡rÃ³l.}
+{804}{}{Ãšj gyÃ³gyÃ­tÃ¡si mÃ³dokat tanultÃ¡l.}
 {805}{}{Megtanultad, hogyan kezelheted jobban a fegyvereidet.}
-{806}{}{Sokat tanultál a vadonban való túlélésr?l.}
-{900}{}{Az orvosi táskából kifogyott a felszerelés.}
-{901}{}{Az els?segély láda kiürült.}
-{902}{}{Ezt harc közben nem csinálhatod.}
-{903}{}{Ez a személy nem fog veled üzletelni.}
-{904}{}{Ez a személy semmit nem akar neked mondani.}
-{905}{}{Ezt a tárgyat nem veheted fel. Elérted a teherbírásod fels? határát.}
-{910}{}{Az orvosi táskából kifogyott a felszerelés.}
-{911}{}{Nincs több felszerelés az els?segély csomagban.}
-{913}{}{Ez a lény nem tud cipelni semmit.}
-{1450}{}{Férfi}
+{806}{}{Sokat tanultÃ¡l a vadonban valÃ³ tÃºlÃ©lÃ©sr?l.}
+{900}{}{Az orvosi tÃ¡skÃ¡bÃ³l kifogyott a felszerelÃ©s.}
+{901}{}{Az els?segÃ©ly lÃ¡da kiÃ¼rÃ¼lt.}
+{902}{}{Ezt harc kÃ¶zben nem csinÃ¡lhatod.}
+{903}{}{Ez a szemÃ©ly nem fog veled Ã¼zletelni.}
+{904}{}{Ez a szemÃ©ly semmit nem akar neked mondani.}
+{905}{}{Ezt a tÃ¡rgyat nem veheted fel. ElÃ©rted a teherbÃ­rÃ¡sod fels? hatÃ¡rÃ¡t.}
+{910}{}{Az orvosi tÃ¡skÃ¡bÃ³l kifogyott a felszerelÃ©s.}
+{911}{}{Nincs tÃ¶bb felszerelÃ©s az els?segÃ©ly csomagban.}
+{913}{}{Ez a lÃ©ny nem tud cipelni semmit.}
+{1450}{}{FÃ©rfi}
 {1451}{}{N?}
 {1452}{}{Gyerek}
-{1453}{}{Szupermutáns}
+{1453}{}{SzupermutÃ¡ns}
 {1454}{}{Ghoul}
 {1455}{}{Brahmin}
-{1456}{}{Radskorpió}
-{1457}{}{Patkány}
+{1456}{}{RadskorpiÃ³}
+{1457}{}{PatkÃ¡ny}
 {1458}{}{Lebeg?}
 {1459}{}{Kentaur}
 {1460}{}{Robot}
 {1461}{}{Kutya}
-{1462}{}{Sáska}
+{1462}{}{SÃ¡ska}
 {1463}{}{Deathclaws}
-{1464}{}{Növény}
-{1465}{}{Gekkó}
+{1464}{}{NÃ¶vÃ©ny}
+{1465}{}{GekkÃ³}
 {1466}{}{Idegen}
-{1467}{}{Óriáshangya}
-{1468}{}{Csúnya Nagy F?ellenség}
-{1469}{}{Ez a szám mutatja, hány férfit öltél meg a kalandozásaid során.}
-{1470}{}{Ez a szám mutatja, hány n?t öltél meg a kalandozásaid során.}
-{1471}{}{Ez a szám mutatja, hány gyereket öltél meg. Te gyerekgyilkos!}
-{1472}{}{Azon szupermutánsok száma, melyeket kalandozásaid közben mészároltál le.}
-{1473}{}{Ez a szám mutatja, hány férfi és n? ghoult gyilkoltál meg eddig.}
-{1474}{}{Ez a szám mutatja, hány brahmint (mutáns tehén) vágtál le utazásaid során.}
-{1475}{}{Az általad elpusztított radskorpiók száma.}
-{1476}{}{Az eddig elpusztított patkányok száma, beleértve a patkányok valamennyi fajtáját .}
-{1477}{}{Ez a szám mutatja, hány mutáns lebeg?t pusztítottál el.}
-{1478}{}{Ennyi mutáns kentaurt tettél el láb alól.}
-{1479}{}{Ez a szám mutatja, hány robotot semmisítettél meg vagy szereltél szét.}
-{1480}{}{Azon kutyák száma, amiket te küldtél fel a hatalmas égi kutyaólba.}
-{1481}{}{Ez a szám mutatja, hány sáskát, azaz hány sáska-szer? mutáns rovart tapostál el.}
-{1482}{}{Ez a szám mutatja, hány halálkarmot és halálkarom kölyköt öltél meg.}
-{1483}{}{Ennyi növényt gyomláltál ki a világból.}
-{1484}{}{Ez a szám mutatja, hány aranyos hüll?t?l szabadítottad meg a világot.}
-{1485}{}{Ennyi idegen pusztult el a kezed által.}
-{1486}{}{Ez a szám mutatja, hány rovart irtottál ki a pusztaságban.}
-{1487}{}{Ennyi genetikailag-fejlesztett, mániákus gyilkos, kiborg test?rt öltél meg.}
+{1467}{}{Ã“riÃ¡shangya}
+{1468}{}{CsÃºnya Nagy F?ellensÃ©g}
+{1469}{}{Ez a szÃ¡m mutatja, hÃ¡ny fÃ©rfit Ã¶ltÃ©l meg a kalandozÃ¡said sorÃ¡n.}
+{1470}{}{Ez a szÃ¡m mutatja, hÃ¡ny n?t Ã¶ltÃ©l meg a kalandozÃ¡said sorÃ¡n.}
+{1471}{}{Ez a szÃ¡m mutatja, hÃ¡ny gyereket Ã¶ltÃ©l meg. Te gyerekgyilkos!}
+{1472}{}{Azon szupermutÃ¡nsok szÃ¡ma, melyeket kalandozÃ¡said kÃ¶zben mÃ©szÃ¡roltÃ¡l le.}
+{1473}{}{Ez a szÃ¡m mutatja, hÃ¡ny fÃ©rfi Ã©s n? ghoult gyilkoltÃ¡l meg eddig.}
+{1474}{}{Ez a szÃ¡m mutatja, hÃ¡ny brahmint (mutÃ¡ns tehÃ©n) vÃ¡gtÃ¡l le utazÃ¡said sorÃ¡n.}
+{1475}{}{Az Ã¡ltalad elpusztÃ­tott radskorpiÃ³k szÃ¡ma.}
+{1476}{}{Az eddig elpusztÃ­tott patkÃ¡nyok szÃ¡ma, beleÃ©rtve a patkÃ¡nyok valamennyi fajtÃ¡jÃ¡t .}
+{1477}{}{Ez a szÃ¡m mutatja, hÃ¡ny mutÃ¡ns lebeg?t pusztÃ­tottÃ¡l el.}
+{1478}{}{Ennyi mutÃ¡ns kentaurt tettÃ©l el lÃ¡b alÃ³l.}
+{1479}{}{Ez a szÃ¡m mutatja, hÃ¡ny robotot semmisÃ­tettÃ©l meg vagy szereltÃ©l szÃ©t.}
+{1480}{}{Azon kutyÃ¡k szÃ¡ma, amiket te kÃ¼ldtÃ©l fel a hatalmas Ã©gi kutyaÃ³lba.}
+{1481}{}{Ez a szÃ¡m mutatja, hÃ¡ny sÃ¡skÃ¡t, azaz hÃ¡ny sÃ¡ska-szer? mutÃ¡ns rovart tapostÃ¡l el.}
+{1482}{}{Ez a szÃ¡m mutatja, hÃ¡ny halÃ¡lkarmot Ã©s halÃ¡lkarom kÃ¶lykÃ¶t Ã¶ltÃ©l meg.}
+{1483}{}{Ennyi nÃ¶vÃ©nyt gyomlÃ¡ltÃ¡l ki a vilÃ¡gbÃ³l.}
+{1484}{}{Ez a szÃ¡m mutatja, hÃ¡ny aranyos hÃ¼ll?t?l szabadÃ­tottad meg a vilÃ¡got.}
+{1485}{}{Ennyi idegen pusztult el a kezed Ã¡ltal.}
+{1486}{}{Ez a szÃ¡m mutatja, hÃ¡ny rovart irtottÃ¡l ki a pusztasÃ¡gban.}
+{1487}{}{Ennyi genetikailag-fejlesztett, mÃ¡niÃ¡kus gyilkos, kiborg test?rt Ã¶ltÃ©l meg.}

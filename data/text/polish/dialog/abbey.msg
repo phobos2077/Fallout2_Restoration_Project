@@ -1,1 +1,1 @@
-{100}{}{Trafiasz na obszar ma≥ego klasztoru i osady zbudowanej wokÛ≥ niego.}
+{100}{}{Trafiasz na obszar ma≈Çego klasztoru i osady zbudowanej wok√≥≈Ç niego.}

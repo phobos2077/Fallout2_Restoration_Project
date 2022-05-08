@@ -1,11 +1,11 @@
-{100}{}{Widzisz dziecko wykrzykuj¹ce slogany reklamowe.}
-{101}{}{To brudne dziecko wydaje siê byæ zatrudnione do reklamowania jakiejœ atrakcji turystycznej.}
-{500}{}{Zobacz Tajemnicz¹ Mumiê!}
-{501}{}{Obejrzyj Staro¿ytny Cud!}
+{100}{}{Widzisz dziecko wykrzykujÄ…ce slogany reklamowe.}
+{101}{}{To brudne dziecko wydaje siÄ™ byÄ‡ zatrudnione do reklamowania jakiejÅ› atrakcji turystycznej.}
+{500}{}{Zobacz TajemniczÄ… MumiÄ™!}
+{501}{}{Obejrzyj StaroÅ¼ytny Cud!}
 {502}{}{Auto-styczna Mumia, tu i teraz!}
-{503}{}{Zobacz Ksiêcia Egiptu!}
-{504}{}{Obejrzyj Królow¹ Nilu!}
-{505}{}{WejdŸ do Auto-stycznie Nawiedzonego Domu!}
-{506}{}{Odkryj Tajemnice Zaœwiatów!}
-{507}{}{ChodŸcie wszyscy!}
-{508}{}{¯yciowa Szansa Edukacyjna!}
+{503}{}{Zobacz KsiÄ™cia Egiptu!}
+{504}{}{Obejrzyj KrÃ³lowÄ… Nilu!}
+{505}{}{WejdÅº do Auto-stycznie Nawiedzonego Domu!}
+{506}{}{Odkryj Tajemnice ZaÅ›wiatÃ³w!}
+{507}{}{ChodÅºcie wszyscy!}
+{508}{}{Å»yciowa Szansa Edukacyjna!}

@@ -1,11 +1,11 @@
-{100}{}{Widzisz stra¿niczkê.}
-{101}{}{Widzisz jednego ze stra¿ników pomagaj¹cych ci przy pilnowaniu karawany.}
-{200}{}{Widzisz kierowcê.}
-{201}{}{Widzisz jednego z kierowców wchodz¹cych w sk³ad karawany.}
-{300}{}{Mam nadziejê, ¿e nie spotkaj¹ nas na drodze dalsze niespodzianki.}
-{301}{}{Nie mogê siê ju¿ doczekaæ wyp³aty po dotarciu do celu.}
-{302}{}{Mam nadziejê, ¿e jak dojedziemy na miejsce bary bêd¹ jeszcze otwarte.}
-{303}{}{Nie mogê siê doczekaæ normalnego jedzenia.}
-{304}{}{Zawsze chcia³em podró¿owaæ. Praca w karawanie to jak spe³nienie marzeñ.}
-{305}{}{Ale¿ mnie bol¹ stopy! Te g³upie braminy mog³yby siê trochê pospieszyæ.}
-{306}{}{Podobno cel podró¿y jest ju¿ niedaleko.}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{101}{}{Widzisz jednego ze straÅ¼nikÃ³w pomagajÄ…cych ci przy pilnowaniu karawany.}
+{200}{}{Widzisz kierowcÄ™.}
+{201}{}{Widzisz jednego z kierowcÃ³w wchodzÄ…cych w skÅ‚ad karawany.}
+{300}{}{Mam nadziejÄ™, Å¼e nie spotkajÄ… nas na drodze dalsze niespodzianki.}
+{301}{}{Nie mogÄ™ siÄ™ juÅ¼ doczekaÄ‡ wypÅ‚aty po dotarciu do celu.}
+{302}{}{Mam nadziejÄ™, Å¼e jak dojedziemy na miejsce bary bÄ™dÄ… jeszcze otwarte.}
+{303}{}{Nie mogÄ™ siÄ™ doczekaÄ‡ normalnego jedzenia.}
+{304}{}{Zawsze chciaÅ‚em podrÃ³Å¼owaÄ‡. Praca w karawanie to jak speÅ‚nienie marzeÅ„.}
+{305}{}{AleÅ¼ mnie bolÄ… stopy! Te gÅ‚upie braminy mogÅ‚yby siÄ™ trochÄ™ pospieszyÄ‡.}
+{306}{}{Podobno cel podrÃ³Å¼y jest juÅ¼ niedaleko.}

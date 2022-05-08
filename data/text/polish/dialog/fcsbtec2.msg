@@ -1,28 +1,28 @@
-{100}{}{Widzisz osobê w œmiesznej pi¿amie. Wygl¹da na zajêtego.}
-{101}{}{Widzisz technika okrêtowego Shi.}
-{150}{}{Uch, co robisz, ¿e tak siê skradasz?}
-{151}{}{Jesteœ szpiegiem, czy coœ?}
-{200}{}{By³oby ³atwiej gdybym lepiej zna³ chiñski...}
-{201}{}{B³¹d I/O!? Jak system naprowadzania mo¿e mieæ b³¹d I/O!?}
-{202}{}{001100010010011110100001101101110011? Gdzie moja tabela b³êdów...}
-{203}{}{Wola³bym ¿eby baza danych IFF ci¹gle dzia³a³a. By³oby mi du¿o ³atwiej.}
-{300}{}{Czego chcesz, lao wai? Nie widzisz, ¿e próbuje przekonfigurowaæ system namierzania celu?}
-{301}{}{W³aœciwie, po to tu jestem. Mam nowe specyfikacje dla tych systemów, sprawdzonych przez Cesarza, uch, osobiœcie. Mo¿esz je wprowadziæ? Wydajesz siê wiedzieæ najwiêcej o tym podsystemie.}
-{302}{}{Po to tu jestem, mogê ci pomóc w konfiguracji systemów. Wygl¹da, ¿e po³¹czenie miêdzy systemem nawigacji i transpondera  IFF okrêtu w koñcu pad³o, wiêc bêdziesz musia³ zrobiæ obejœcie. Mogê ci pomóc?}
-{303}{}{Przepraszam, ju¿ nie przeszkadzam.}
-{310}{}{Hm, wieki czeka³em na te nowe specyfikacje! Powinienem je dostaæ tydzieñ temu, kiedy pracowa³em nad tym co zosta³o z bojowej bazy danych. Teraz znowu bêdê musia³ to rozk³adaæ... Có¿, takie ¿ycie technika, jak s¹dzê.}
-{311}{}{Mi³ej zabawy. Sprawdzê co jeszcze potrzebuje naprawy.}
-{320}{}{Ledwie ciê znam! Jak dla mnie lao wai, mo¿esz byæ zagranicznym szpiegiem, chc¹cym rozbroiæ ten okrêt podwodny, ¿eby udaæ siê w jakieœ dziwne zamorskie miejsce bez komplikuj¹cych ten zamiar torped zatapiaj¹cych twój statek! Jestem pewien, ¿e Ken Lee nie wpuœci³by obcego ze z³ymi intencjami na pok³ad Shi-Huang-Ti, wiêc wybacz, ale nie mogê przyj¹æ tych koordynat o ile nasz przywódca nie wrêczy mi ich osobiœcie.}
-{321}{}{Có¿, mogê ci chocia¿ pomóc przy konfiguracji systemów okrêtu? Mam trochê doœwiadczenia w obs³udze staro¿ytnych systemów komputerowych, wystarczaj¹co ¿eby wiedzieæ dlaczego 200 letni system oparty na lampach pró¿niowych mo¿e odmówiæ pos³uszeñstwa swemu panu.}
-{322}{}{Dobra, przepraszam, ju¿ nie przeszkadzam.}
-{330}{}{Chyba mo¿esz mi pomóc, masz, ty spróbuj. [Technik Shi udziela ci dostêpu. Po kilku chwilach zapoznawania siê z interfejsem u¿ytkownika, zaczynasz pracê. Kilka minut póŸniej nie tylko rekonfigurujesz parametry namierzania, tak ¿eby okrêt nie zatopi³ tankowca, ale równie¿ usuwasz b³¹d z systemu, uniemo¿liwiaj¹cy technikom ³atwy dostêp do podsystemu.]}
-{331}{}{Dobra, proszê bardzo. System naprawiony. Nie powinien ci ju¿ sprawiaæ k³opotów. Mam nadziejê, ¿e to u³atwi ci pracê.}
-{340}{}{Dziêkujê za pomoc, ciê¿ko w dzisiejszych czasach o dobrego technika komputerowego.}
-{350}{}{Przepraszam ciê, ale nie. Jeszcze coœ zepsujesz i na dobre stracimy podsystem, a *nie* zamierzam rêcznie ustawiaæ modu³ów namierzania celu torped. Wiêc, o ile nie masz czegoœ naprawdê *wa¿nego* dla mnie, to proszê pozwól, ¿e wrócê do swojej pracy.}
-{351}{}{W³aœciwie, to mam. Mam nowe parametry namierzania dla torped, sprawdzone przez Cesarza, uch, osobiœcie. Jesteœ rezyduj¹cym komputerowym czarodziejem, wiêc chyba mogê ci je powierzyæ.}
-{352}{}{Przepraszam, ju¿ nie przeszkadzam.}
-{360}{}{Nie, nie potrzebujê ¿adnej pomocy ani ¿adnych nowych danych. Jestem tu ¿eby pracowaæ, a ty mi w tym przeszkadzasz, wiêc odejdŸ, albo za³atwiê ¿eby ciê st¹d *wynieœli*!}
-{361}{}{Przepraszam, ju¿ nie przeszkadzam.}
-{370}{}{Hej, jestem zajêty.}
-{371}{}{Przepraszam, pracujê.}
-{400}{}{Uda³o ci siê wmanewrowaæ technika w rozbrojenie okrêtu podwodnego.}
+{100}{}{Widzisz osobÄ™ w Å›miesznej piÅ¼amie. WyglÄ…da na zajÄ™tego.}
+{101}{}{Widzisz technika okrÄ™towego Shi.}
+{150}{}{Uch, co robisz, Å¼e tak siÄ™ skradasz?}
+{151}{}{JesteÅ› szpiegiem, czy coÅ›?}
+{200}{}{ByÅ‚oby Å‚atwiej gdybym lepiej znaÅ‚ chiÅ„ski...}
+{201}{}{BÅ‚Ä…d I/O!? Jak system naprowadzania moÅ¼e mieÄ‡ bÅ‚Ä…d I/O!?}
+{202}{}{001100010010011110100001101101110011? Gdzie moja tabela bÅ‚Ä™dÃ³w...}
+{203}{}{WolaÅ‚bym Å¼eby baza danych IFF ciÄ…gle dziaÅ‚aÅ‚a. ByÅ‚oby mi duÅ¼o Å‚atwiej.}
+{300}{}{Czego chcesz, lao wai? Nie widzisz, Å¼e prÃ³buje przekonfigurowaÄ‡ system namierzania celu?}
+{301}{}{WÅ‚aÅ›ciwie, po to tu jestem. Mam nowe specyfikacje dla tych systemÃ³w, sprawdzonych przez Cesarza, uch, osobiÅ›cie. MoÅ¼esz je wprowadziÄ‡? Wydajesz siÄ™ wiedzieÄ‡ najwiÄ™cej o tym podsystemie.}
+{302}{}{Po to tu jestem, mogÄ™ ci pomÃ³c w konfiguracji systemÃ³w. WyglÄ…da, Å¼e poÅ‚Ä…czenie miÄ™dzy systemem nawigacji i transpondera  IFF okrÄ™tu w koÅ„cu padÅ‚o, wiÄ™c bÄ™dziesz musiaÅ‚ zrobiÄ‡ obejÅ›cie. MogÄ™ ci pomÃ³c?}
+{303}{}{Przepraszam, juÅ¼ nie przeszkadzam.}
+{310}{}{Hm, wieki czekaÅ‚em na te nowe specyfikacje! Powinienem je dostaÄ‡ tydzieÅ„ temu, kiedy pracowaÅ‚em nad tym co zostaÅ‚o z bojowej bazy danych. Teraz znowu bÄ™dÄ™ musiaÅ‚ to rozkÅ‚adaÄ‡... CÃ³Å¼, takie Å¼ycie technika, jak sÄ…dzÄ™.}
+{311}{}{MiÅ‚ej zabawy. SprawdzÄ™ co jeszcze potrzebuje naprawy.}
+{320}{}{Ledwie ciÄ™ znam! Jak dla mnie lao wai, moÅ¼esz byÄ‡ zagranicznym szpiegiem, chcÄ…cym rozbroiÄ‡ ten okrÄ™t podwodny, Å¼eby udaÄ‡ siÄ™ w jakieÅ› dziwne zamorskie miejsce bez komplikujÄ…cych ten zamiar torped zatapiajÄ…cych twÃ³j statek! Jestem pewien, Å¼e Ken Lee nie wpuÅ›ciÅ‚by obcego ze zÅ‚ymi intencjami na pokÅ‚ad Shi-Huang-Ti, wiÄ™c wybacz, ale nie mogÄ™ przyjÄ…Ä‡ tych koordynat o ile nasz przywÃ³dca nie wrÄ™czy mi ich osobiÅ›cie.}
+{321}{}{CÃ³Å¼, mogÄ™ ci chociaÅ¼ pomÃ³c przy konfiguracji systemÃ³w okrÄ™tu? Mam trochÄ™ doÅ›wiadczenia w obsÅ‚udze staroÅ¼ytnych systemÃ³w komputerowych, wystarczajÄ…co Å¼eby wiedzieÄ‡ dlaczego 200 letni system oparty na lampach prÃ³Å¼niowych moÅ¼e odmÃ³wiÄ‡ posÅ‚uszeÅ„stwa swemu panu.}
+{322}{}{Dobra, przepraszam, juÅ¼ nie przeszkadzam.}
+{330}{}{Chyba moÅ¼esz mi pomÃ³c, masz, ty sprÃ³buj. [Technik Shi udziela ci dostÄ™pu. Po kilku chwilach zapoznawania siÄ™ z interfejsem uÅ¼ytkownika, zaczynasz pracÄ™. Kilka minut pÃ³Åºniej nie tylko rekonfigurujesz parametry namierzania, tak Å¼eby okrÄ™t nie zatopiÅ‚ tankowca, ale rÃ³wnieÅ¼ usuwasz bÅ‚Ä…d z systemu, uniemoÅ¼liwiajÄ…cy technikom Å‚atwy dostÄ™p do podsystemu.]}
+{331}{}{Dobra, proszÄ™ bardzo. System naprawiony. Nie powinien ci juÅ¼ sprawiaÄ‡ kÅ‚opotÃ³w. Mam nadziejÄ™, Å¼e to uÅ‚atwi ci pracÄ™.}
+{340}{}{DziÄ™kujÄ™ za pomoc, ciÄ™Å¼ko w dzisiejszych czasach o dobrego technika komputerowego.}
+{350}{}{Przepraszam ciÄ™, ale nie. Jeszcze coÅ› zepsujesz i na dobre stracimy podsystem, a *nie* zamierzam rÄ™cznie ustawiaÄ‡ moduÅ‚Ã³w namierzania celu torped. WiÄ™c, o ile nie masz czegoÅ› naprawdÄ™ *waÅ¼nego* dla mnie, to proszÄ™ pozwÃ³l, Å¼e wrÃ³cÄ™ do swojej pracy.}
+{351}{}{WÅ‚aÅ›ciwie, to mam. Mam nowe parametry namierzania dla torped, sprawdzone przez Cesarza, uch, osobiÅ›cie. JesteÅ› rezydujÄ…cym komputerowym czarodziejem, wiÄ™c chyba mogÄ™ ci je powierzyÄ‡.}
+{352}{}{Przepraszam, juÅ¼ nie przeszkadzam.}
+{360}{}{Nie, nie potrzebujÄ™ Å¼adnej pomocy ani Å¼adnych nowych danych. Jestem tu Å¼eby pracowaÄ‡, a ty mi w tym przeszkadzasz, wiÄ™c odejdÅº, albo zaÅ‚atwiÄ™ Å¼eby ciÄ™ stÄ…d *wynieÅ›li*!}
+{361}{}{Przepraszam, juÅ¼ nie przeszkadzam.}
+{370}{}{Hej, jestem zajÄ™ty.}
+{371}{}{Przepraszam, pracujÄ™.}
+{400}{}{UdaÅ‚o ci siÄ™ wmanewrowaÄ‡ technika w rozbrojenie okrÄ™tu podwodnego.}

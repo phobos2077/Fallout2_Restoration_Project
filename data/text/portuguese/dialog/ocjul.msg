@@ -1,20 +1,20 @@
-{100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
+{100}{}{VocÃª vÃª um garra mortal. Ele observa vocÃª com olhos estranhamente inteligentes.}
 {101}{}{You see Jul, the Deathclaw.}
-{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
+{102}{}{VocÃª vÃª um tÃ­pico garra mortal. A criatura Ã© enorme, com um corpo poderoso, dentes afiados, e longas garras.}
 {103}{}{Stop. You not go here. This place off limits.}
 {104}{}{Tudo bem. - Me ir.}
 {105}{}{O que este lugar?}
-{106}{}{Quem é você?}
+{106}{}{Quem Ã© vocÃª?}
 {107}{}{All right, I'll leave}
 {108}{}{I go where I please, lizard breath!}
-{109}{}{O que é este lugar?}
-{110}{}{Quem é você?}
+{109}{}{O que Ã© este lugar?}
+{110}{}{Quem Ã© vocÃª?}
 {111}{}{This hatchery. Pack mother inside. Eggs inside. I guard. All of pack guard.}
 {112}{}{Me want talk mother.}
-{113}{}{Quem é você?}
+{113}{}{Quem Ã© vocÃª?}
 {114}{}{Eu vou agora.}
 {115}{}{I'll be leaving then.}
-{116}{}{Quem é você?}
+{116}{}{Quem Ã© vocÃª?}
 {117}{}{I'd like to speak to the mother.}
 {118}{}{I Jul. Pack warrior. I guard hatchery. I guard mother.}
 {119}{}{Eu}
@@ -45,7 +45,7 @@
 {140}{}{Who you say you be?}
 {141}{}{O que este lugar?}
 {142}{}{Just dropped by to say hello.}
-{143}{}{O que é este lugar?}
+{143}{}{O que Ã© este lugar?}
 {144}{}{Who are you again?}
 {145}{}{You already dead. You just too dumb to fall over.}
 {146}{}{. Me want talk mother.}

@@ -1,68 +1,68 @@
-{100}{}{Widzisz starszego mê¿czyznê z g³êbokimi zmarszczkami widocznymi na ca³ej twarzy.}
+{100}{}{Widzisz starszego mÄ™Å¼czyznÄ™ z gÅ‚Ä™bokimi zmarszczkami widocznymi na caÅ‚ej twarzy.}
 {101}{}{Widzisz Johna MacRae.}
-{102}{}{Hej, cz³owieku, nigdym wczeœniej ciê tu nie widzia³. Jestem MacRae - prowadzê ten lokal. W czym mogê ci pomóc?}
+{102}{}{Hej, czÅ‚owieku, nigdym wczeÅ›niej ciÄ™ tu nie widziaÅ‚. Jestem MacRae - prowadzÄ™ ten lokal. W czym mogÄ™ ci pomÃ³c?}
 {103}{}{Szukam Krypty.}
-{104}{}{Czy wci¹¿ myœlisz o tym, ¿eby siê st¹d wynieœæ?}
-{105}{}{Co masz na sk³adzie?}
-{106}{}{Czy coœ ciekawego dzia³o siê tu ostatnio?}
+{104}{}{Czy wciÄ…Å¼ myÅ›lisz o tym, Å¼eby siÄ™ stÄ…d wynieÅ›Ä‡?}
+{105}{}{Co masz na skÅ‚adzie?}
+{106}{}{Czy coÅ› ciekawego dziaÅ‚o siÄ™ tu ostatnio?}
 {107}{}{Ug Nog}
-{108}{}{Dziêki, ale dziœ nie skorzystam.}
-{109}{}{Krypty? Jedyna Krypta, o której wiem, to ta w Wewnêtrznym Mieœcie. Wielka, odra¿aj¹ca dziura... wierz mi, nie mo¿na jej przegapiæ.}
-{110}{}{Masz coœ do picia?}
-{111}{}{Czy coœ ciekawego dzia³o siê tu ostatnio?}
-{112}{}{Dziêki za wskazówki. Powodzenia.}
-{113}{}{Ta, ale tylko jakieœ be³ty. Piwo za $20, seta whiskacza za $30. W sumie nic specjalnego. Chcesz czegoœ?}
-{114}{}{Wiesz coœ na temat Krypty?}
-{115}{}{Poproszê piwo.}
-{116}{}{Strzelê sobie setê.}
-{117}{}{Dzieje siê tu coœ ciekawego?}
-{118}{}{Dziœ niczego nie potrzebujê, ale dziêki. ¯egnam.}
-{119}{}{W tej okolicy? Wci¹¿ i wci¹¿ to samo, mo¿na zanudziæ siê na œmieræ. A co, szukasz czegoœ?}
-{120}{}{Masz coœ do picia?}
-{121}{}{Co mo¿esz mi powiedzieæ w temacie Krypty?}
-{122}{}{Nie mo¿e byæ a¿ tak Ÿle.}
+{108}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{109}{}{Krypty? Jedyna Krypta, o ktÃ³rej wiem, to ta w WewnÄ™trznym MieÅ›cie. Wielka, odraÅ¼ajÄ…ca dziura... wierz mi, nie moÅ¼na jej przegapiÄ‡.}
+{110}{}{Masz coÅ› do picia?}
+{111}{}{Czy coÅ› ciekawego dziaÅ‚o siÄ™ tu ostatnio?}
+{112}{}{DziÄ™ki za wskazÃ³wki. Powodzenia.}
+{113}{}{Ta, ale tylko jakieÅ› beÅ‚ty. Piwo za $20, seta whiskacza za $30. W sumie nic specjalnego. Chcesz czegoÅ›?}
+{114}{}{Wiesz coÅ› na temat Krypty?}
+{115}{}{PoproszÄ™ piwo.}
+{116}{}{StrzelÄ™ sobie setÄ™.}
+{117}{}{Dzieje siÄ™ tu coÅ› ciekawego?}
+{118}{}{DziÅ› niczego nie potrzebujÄ™, ale dziÄ™ki. Å»egnam.}
+{119}{}{W tej okolicy? WciÄ…Å¼ i wciÄ…Å¼ to samo, moÅ¼na zanudziÄ‡ siÄ™ na Å›mierÄ‡. A co, szukasz czegoÅ›?}
+{120}{}{Masz coÅ› do picia?}
+{121}{}{Co moÅ¼esz mi powiedzieÄ‡ w temacie Krypty?}
+{122}{}{Nie moÅ¼e byÄ‡ aÅ¼ tak Åºle.}
 {123}{}{Nic takiego. Na razie.}
-{124}{}{Ach... rozumiem, walnêli ciê w g³owê o ten jeden raz za du¿o. Wybacz, trudno mi siê gada z pó³g³ówkami.}
-{125}{}{Proszê ciê bardzo. Do dna. To jedyna przyjemnoœæ, jakiej mo¿esz zaznaæ w tym kutwiastym miejscu.}
-{126}{}{Nie mo¿e byæ a¿ tak Ÿle.}
-{127}{}{Dziêki za drinka. Bêdê siê ju¿ zbieraæ.}
-{128}{}{Czekaj, czekaj. Zapyta³em ciê, czy chcesz drinka, a potem powiedzia³em ci, ile to bêdzie kosztowaæ. Wiêkszoœæ ludzi zna tê procedurê. Jeœli nie masz pieniêdzy, nie nale¿a³o prosiæ o drinka.}
-{129}{}{Wybacz. Wydawa³o mi siê, ¿e gdzieœ tu jeszcze by³o trochê kasy. Niemo¿noœæ zobaczenia swoich pieniêdzy z okna dialogowego stwarza trochê problemów, no nie?}
-{130}{}{Tia, jak chcesz. Spadam st¹d.}
-{131}{}{Jest gorzej. Obywatele nie pij¹ zbyt du¿o, wiêc siedzê tu jak g³upi rozdaj¹c drinki kupcom. Nastêpny sp³ukany pacan, który spróbuje naci¹gn¹æ mnie na darmowego drinka, dostanie takiego kopa w dupê, ¿e...}
-{132}{}{Zdaje siê masz ju¿ ca³kiem doœæ tego miejsca.}
-{133}{}{Wyrazy wspó³czucia. Co wiesz na temat Krypty?}
-{134}{}{Wszyscy siê czasem mylimy... niektórzy czêœciej ni¿ inni. A wiêc czego sobie ¿yczysz?}
-{135}{}{Dzieje siê tu coœ ciekawego?}
-{136}{}{Dziœ niczego nie potrzebujê, ale dziêki. ¯egnam.}
-{137}{}{Do wszystkich diab³ów, tak! Chcia³bym siê st¹d w koñcu wynieœæ.}
-{138}{}{Wiêc czemu nie odejdziesz?}
-{139}{}{Samotnie wyruszyæ w pustkowia? Nudzi mi siê, ale nie jestem g³upi.}
-{140}{}{Wybieram siê nied³ugo w podró¿. Chcia³byœ siê przy³¹czyæ?}
-{141}{}{¯yczê powodzenia!}
-{142}{}{Eee... i tak ju¿ krêci siê z tob¹ wystarczaj¹co du¿y t³um.}
-{143}{}{W porz¹dku. Trzymaj siê.}
-{144}{}{Wiesz co? To wcale nie jest g³upi pomys³. Mo¿esz mnie doliczyæ do paczki.}
+{124}{}{Ach... rozumiem, walnÄ™li ciÄ™ w gÅ‚owÄ™ o ten jeden raz za duÅ¼o. Wybacz, trudno mi siÄ™ gada z pÃ³Å‚gÅ‚Ã³wkami.}
+{125}{}{ProszÄ™ ciÄ™ bardzo. Do dna. To jedyna przyjemnoÅ›Ä‡, jakiej moÅ¼esz zaznaÄ‡ w tym kutwiastym miejscu.}
+{126}{}{Nie moÅ¼e byÄ‡ aÅ¼ tak Åºle.}
+{127}{}{DziÄ™ki za drinka. BÄ™dÄ™ siÄ™ juÅ¼ zbieraÄ‡.}
+{128}{}{Czekaj, czekaj. ZapytaÅ‚em ciÄ™, czy chcesz drinka, a potem powiedziaÅ‚em ci, ile to bÄ™dzie kosztowaÄ‡. WiÄ™kszoÅ›Ä‡ ludzi zna tÄ™ procedurÄ™. JeÅ›li nie masz pieniÄ™dzy, nie naleÅ¼aÅ‚o prosiÄ‡ o drinka.}
+{129}{}{Wybacz. WydawaÅ‚o mi siÄ™, Å¼e gdzieÅ› tu jeszcze byÅ‚o trochÄ™ kasy. NiemoÅ¼noÅ›Ä‡ zobaczenia swoich pieniÄ™dzy z okna dialogowego stwarza trochÄ™ problemÃ³w, no nie?}
+{130}{}{Tia, jak chcesz. Spadam stÄ…d.}
+{131}{}{Jest gorzej. Obywatele nie pijÄ… zbyt duÅ¼o, wiÄ™c siedzÄ™ tu jak gÅ‚upi rozdajÄ…c drinki kupcom. NastÄ™pny spÅ‚ukany pacan, ktÃ³ry sprÃ³buje naciÄ…gnÄ…Ä‡ mnie na darmowego drinka, dostanie takiego kopa w dupÄ™, Å¼e...}
+{132}{}{Zdaje siÄ™ masz juÅ¼ caÅ‚kiem doÅ›Ä‡ tego miejsca.}
+{133}{}{Wyrazy wspÃ³Å‚czucia. Co wiesz na temat Krypty?}
+{134}{}{Wszyscy siÄ™ czasem mylimy... niektÃ³rzy czÄ™Å›ciej niÅ¼ inni. A wiÄ™c czego sobie Å¼yczysz?}
+{135}{}{Dzieje siÄ™ tu coÅ› ciekawego?}
+{136}{}{DziÅ› niczego nie potrzebujÄ™, ale dziÄ™ki. Å»egnam.}
+{137}{}{Do wszystkich diabÅ‚Ã³w, tak! ChciaÅ‚bym siÄ™ stÄ…d w koÅ„cu wynieÅ›Ä‡.}
+{138}{}{WiÄ™c czemu nie odejdziesz?}
+{139}{}{Samotnie wyruszyÄ‡ w pustkowia? Nudzi mi siÄ™, ale nie jestem gÅ‚upi.}
+{140}{}{Wybieram siÄ™ niedÅ‚ugo w podrÃ³Å¼. ChciaÅ‚byÅ› siÄ™ przyÅ‚Ä…czyÄ‡?}
+{141}{}{Å»yczÄ™ powodzenia!}
+{142}{}{Eee... i tak juÅ¼ krÄ™ci siÄ™ z tobÄ… wystarczajÄ…co duÅ¼y tÅ‚um.}
+{143}{}{W porzÄ…dku. Trzymaj siÄ™.}
+{144}{}{Wiesz co? To wcale nie jest gÅ‚upi pomysÅ‚. MoÅ¼esz mnie doliczyÄ‡ do paczki.}
 {145}{}{Taa, czego?}
-{146}{}{Chcê, ¿ebyœ zszed³ mi z drogi.}
-{147}{}{Jak siê masz?}
-{148}{}{Podlecz siê.}
-{149}{}{Poczekaj tu a¿ wrócê, dobrze?}
+{146}{}{ChcÄ™, Å¼ebyÅ› zszedÅ‚ mi z drogi.}
+{147}{}{Jak siÄ™ masz?}
+{148}{}{Podlecz siÄ™.}
+{149}{}{Poczekaj tu aÅ¼ wrÃ³cÄ™, dobrze?}
 {150}{}{Ty! Oojag!}
 {151}{}{To tyle. Przynajmniej na razie.}
-{152}{}{Dobra, wszystko ju¿ gra. Ruszajmy.}
-{153}{}{Dobra, chyba jestem ju¿ za³atany.}
-{154}{}{To mi ca³kiem dobrze zrobi³o, ale przyda³oby siê jeszcze parê stimów.}
-{155}{}{Zrobi³em ju¿ wszystko, co mog³em, ale wci¹¿ nie czujê siê najlepiej. Masz na zbyciu parê stimów?}
-{156}{}{U¿yj na sobie zdolnoœci Pierwsza Pomoc.}
-{157}{}{Niewa¿ne.}
-{158}{}{W porz¹dku.}
+{152}{}{Dobra, wszystko juÅ¼ gra. Ruszajmy.}
+{153}{}{Dobra, chyba jestem juÅ¼ zaÅ‚atany.}
+{154}{}{To mi caÅ‚kiem dobrze zrobiÅ‚o, ale przydaÅ‚oby siÄ™ jeszcze parÄ™ stimÃ³w.}
+{155}{}{ZrobiÅ‚em juÅ¼ wszystko, co mogÅ‚em, ale wciÄ…Å¼ nie czujÄ™ siÄ™ najlepiej. Masz na zbyciu parÄ™ stimÃ³w?}
+{156}{}{UÅ¼yj na sobie zdolnoÅ›ci Pierwsza Pomoc.}
+{157}{}{NiewaÅ¼ne.}
+{158}{}{W porzÄ…dku.}
 {159}{}{Dobra, poczekam tutaj.}
-{160}{}{Niewa¿ne.}
-{161}{}{W porz¹dku.}
+{160}{}{NiewaÅ¼ne.}
+{161}{}{W porzÄ…dku.}
 {162}{}{Ruszajmy.}
-{163}{}{W porz¹dku.}
-{164}{}{Nie, ju¿ dosyæ luda wisi u twego rêkawa.}
-{165}{}{Taa, jedŸmy dalej z tym koksem.}
-{166}{}{Niee... chyba zrobiê sobie przerwê.}
-{167}{}{Myœlê, ¿e pokrêcê siê tu jeszcze chwilkê.}
+{163}{}{W porzÄ…dku.}
+{164}{}{Nie, juÅ¼ dosyÄ‡ luda wisi u twego rÄ™kawa.}
+{165}{}{Taa, jedÅºmy dalej z tym koksem.}
+{166}{}{Niee... chyba zrobiÄ™ sobie przerwÄ™.}
+{167}{}{MyÅ›lÄ™, Å¼e pokrÄ™cÄ™ siÄ™ tu jeszcze chwilkÄ™.}

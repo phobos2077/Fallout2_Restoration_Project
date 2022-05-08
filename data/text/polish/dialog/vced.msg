@@ -1,67 +1,67 @@
-{100}{}{Widzisz szczerbatego mê¿czyznê w brudnej, niebieskiej koszuli. Czuæ go silnie braminami.}
+{100}{}{Widzisz szczerbatego mÄ™Å¼czyznÄ™ w brudnej, niebieskiej koszuli. CzuÄ‡ go silnie braminami.}
 {101}{}{Widzisz Eda, handlarza braminami.}
-{102}{}{Cholerne braminy. Bez przerwy mucz¹.}
-{103}{}{S³owo honoru, kiedyœ jeden bramin zacz¹³ do mnie gadaæ. "Muuutko œwiêta", powiedzia³.}
-{104}{}{Coœ interes ostatnio podupada.}
-{105}{}{Nie mam pojêcia sk¹d siê bierze tyle tego braminowego gówna. Co rano jest go wiêcej.}
-{106}{}{Witam, witam. Jestem Ed, tutejszy handlarz braminami. Mogê w czymœ pomóc?}
-{107}{}{Mi³o ciê znów widzieæ. Co mogê dla ciebie zrobiæ?}
-{108}{}{Znasz kupca imieniem Vic? Podobno kupi³ od ciebie tê manierkê z Krypty.}
+{102}{}{Cholerne braminy. Bez przerwy muczÄ….}
+{103}{}{SÅ‚owo honoru, kiedyÅ› jeden bramin zaczÄ…Å‚ do mnie gadaÄ‡. "Muuutko Å›wiÄ™ta", powiedziaÅ‚.}
+{104}{}{CoÅ› interes ostatnio podupada.}
+{105}{}{Nie mam pojÄ™cia skÄ…d siÄ™ bierze tyle tego braminowego gÃ³wna. Co rano jest go wiÄ™cej.}
+{106}{}{Witam, witam. Jestem Ed, tutejszy handlarz braminami. MogÄ™ w czymÅ› pomÃ³c?}
+{107}{}{MiÅ‚o ciÄ™ znÃ³w widzieÄ‡. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{108}{}{Znasz kupca imieniem Vic? Podobno kupiÅ‚ od ciebie tÄ™ manierkÄ™ z Krypty.}
 {109}{}{Znasz kupca imieniem Vic?}
-{110}{}{Mój przyjaciel, Vic twierdzi, ¿e kupi³ od ciebie pewn¹ manierkê.}
-{111}{}{Przypomnia³eœ sobie sk¹d wzi¹³eœ tê manierkê?}
+{110}{}{MÃ³j przyjaciel, Vic twierdzi, Å¼e kupiÅ‚ od ciebie pewnÄ… manierkÄ™.}
+{111}{}{PrzypomniaÅ‚eÅ› sobie skÄ…d wziÄ…Å‚eÅ› tÄ™ manierkÄ™?}
 {112}{}{Szukam Krypty.}
 {113}{}{Opowiedz mi o Kryptopolis?}
-{114}{}{Czym siê zajmujesz?}
-{115}{}{¯egnaj.}
+{114}{}{Czym siÄ™ zajmujesz?}
+{115}{}{Å»egnaj.}
 {116}{}{Vic?}
-{117}{}{Sprzeda³ ci manierkê? Tak¹ z du¿¹ trzynastk¹?}
-{118}{}{Niewa¿ne. Muszê ju¿ iœæ.}
-{119}{}{Masz j¹ przy sobie? Mo¿e jak j¹ zobaczê, to sobie przypomnê.}
-{120}{}{W takim razie niewa¿ne. Mam kilka innych pytañ...}
-{121}{}{Spróbujê j¹ sk¹dœ wytrzasn¹æ. Do zobaczenia.}
-{122}{}{A, tak, tak... przypominam sobie. To by³o kawa³ czasu temu... Vic. Manierka, taa? I co z ni¹?}
-{123}{}{A, tak, tak... taki grubas, nie? Skórzana kamizelka? £ysiej¹cy? Pamiêtam go. Co z nim?}
-{124}{}{Mo¿esz mi powiedzieæ, gdzie znalaz³eœ manierkê?}
-{125}{}{Powiedzia³, ¿e sprzeda³ ci manierkê?}
-{126}{}{Chcê tylko wiedzieæ, czy go znasz. Dziêki.}
-{127}{}{Wiesz co, jakoœ sobie nie przypominam... Mia³em kilka takich cudeniek, chyba znalaz³em je podczas przepêdzania byd³a. Po osiedleniu siê by³y mi niepotrzebne.}
-{128}{}{Przepêdzania byd³a?}
-{129}{}{Ach, trudno. Mimo to - dziêki.}
-{130}{}{Kiedy by³em m³odszy czêsto przeprowadza³em stada braminów przez 'Wielkie Ko³o'... Broken Hills, Nowe Reno, Redding, Norê, Modoc, i znowu tu. Jakiœ czas temu takie wyprawy sta³y siê zbyt niebezpieczne, wiêc da³em sobie spokój i osiad³em tutaj.}
-{131}{}{Gdzie s¹ te wszystkie miasta?}
-{132}{}{Rozumiem. Dziêki za informacje.}
-{133}{}{Zaznaczê je na twojej mapie. Widzisz, Broken Hills jest na po³udnie... potem idŸ na zachód, i dotrzesz do Reno. Na pó³nocny zachód od Reno jest Redding, potem na pó³noc do Nory, na wschód do Modoc, i dalej do Kryptopolis.}
-{134}{}{Pamiêtasz gdzie dok³adnie znalaz³eœ tê manierkê?}
-{135}{}{Dziêki za informacje.}
-{136}{}{Przykro mi, ale nie. To by³o wiele lat temu. Czemu pytasz?}
-{137}{}{Szukam Krypty, z której pochodzi ta manierka.}
-{138}{}{Dziêki za informacje.}
-{139}{}{Cholera, jeœli szukasz Krypty, to jedna znajduje siê po drugiej stronie murów, w Kryptopolis.}
-{140}{}{Krypta 13 znajduje siê za murami?}
-{141}{}{Dziêki za informacje.}
-{142}{}{Có¿, nie wiem, czy akurat "13", ale jakaœ Krypta jest tam na pewno. Nawet jeœli nie jest to ta, której szukasz, to centralny komputer powinien wiedzieæ, gdzie s¹ pozosta³e. Ta maszyna wie prawie wszystko.}
-{143}{}{Mam kilka innych pytañ...}
-{144}{}{Dziêki za informacje.}
-{145}{}{Jasne. Co chcesz wiedzieæ?}
-{146}{}{Znasz kupca imieniem Vic? Podobno kupi³ od ciebie tê manierkê z Krypty.}
+{117}{}{SprzedaÅ‚ ci manierkÄ™? TakÄ… z duÅ¼Ä… trzynastkÄ…?}
+{118}{}{NiewaÅ¼ne. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{119}{}{Masz jÄ… przy sobie? MoÅ¼e jak jÄ… zobaczÄ™, to sobie przypomnÄ™.}
+{120}{}{W takim razie niewaÅ¼ne. Mam kilka innych pytaÅ„...}
+{121}{}{SprÃ³bujÄ™ jÄ… skÄ…dÅ› wytrzasnÄ…Ä‡. Do zobaczenia.}
+{122}{}{A, tak, tak... przypominam sobie. To byÅ‚o kawaÅ‚ czasu temu... Vic. Manierka, taa? I co z niÄ…?}
+{123}{}{A, tak, tak... taki grubas, nie? SkÃ³rzana kamizelka? ÅysiejÄ…cy? PamiÄ™tam go. Co z nim?}
+{124}{}{MoÅ¼esz mi powiedzieÄ‡, gdzie znalazÅ‚eÅ› manierkÄ™?}
+{125}{}{PowiedziaÅ‚, Å¼e sprzedaÅ‚ ci manierkÄ™?}
+{126}{}{ChcÄ™ tylko wiedzieÄ‡, czy go znasz. DziÄ™ki.}
+{127}{}{Wiesz co, jakoÅ› sobie nie przypominam... MiaÅ‚em kilka takich cudeniek, chyba znalazÅ‚em je podczas przepÄ™dzania bydÅ‚a. Po osiedleniu siÄ™ byÅ‚y mi niepotrzebne.}
+{128}{}{PrzepÄ™dzania bydÅ‚a?}
+{129}{}{Ach, trudno. Mimo to - dziÄ™ki.}
+{130}{}{Kiedy byÅ‚em mÅ‚odszy czÄ™sto przeprowadzaÅ‚em stada braminÃ³w przez 'Wielkie KoÅ‚o'... Broken Hills, Nowe Reno, Redding, NorÄ™, Modoc, i znowu tu. JakiÅ› czas temu takie wyprawy staÅ‚y siÄ™ zbyt niebezpieczne, wiÄ™c daÅ‚em sobie spokÃ³j i osiadÅ‚em tutaj.}
+{131}{}{Gdzie sÄ… te wszystkie miasta?}
+{132}{}{Rozumiem. DziÄ™ki za informacje.}
+{133}{}{ZaznaczÄ™ je na twojej mapie. Widzisz, Broken Hills jest na poÅ‚udnie... potem idÅº na zachÃ³d, i dotrzesz do Reno. Na pÃ³Å‚nocny zachÃ³d od Reno jest Redding, potem na pÃ³Å‚noc do Nory, na wschÃ³d do Modoc, i dalej do Kryptopolis.}
+{134}{}{PamiÄ™tasz gdzie dokÅ‚adnie znalazÅ‚eÅ› tÄ™ manierkÄ™?}
+{135}{}{DziÄ™ki za informacje.}
+{136}{}{Przykro mi, ale nie. To byÅ‚o wiele lat temu. Czemu pytasz?}
+{137}{}{Szukam Krypty, z ktÃ³rej pochodzi ta manierka.}
+{138}{}{DziÄ™ki za informacje.}
+{139}{}{Cholera, jeÅ›li szukasz Krypty, to jedna znajduje siÄ™ po drugiej stronie murÃ³w, w Kryptopolis.}
+{140}{}{Krypta 13 znajduje siÄ™ za murami?}
+{141}{}{DziÄ™ki za informacje.}
+{142}{}{CÃ³Å¼, nie wiem, czy akurat "13", ale jakaÅ› Krypta jest tam na pewno. Nawet jeÅ›li nie jest to ta, ktÃ³rej szukasz, to centralny komputer powinien wiedzieÄ‡, gdzie sÄ… pozostaÅ‚e. Ta maszyna wie prawie wszystko.}
+{143}{}{Mam kilka innych pytaÅ„...}
+{144}{}{DziÄ™ki za informacje.}
+{145}{}{Jasne. Co chcesz wiedzieÄ‡?}
+{146}{}{Znasz kupca imieniem Vic? Podobno kupiÅ‚ od ciebie tÄ™ manierkÄ™ z Krypty.}
 {147}{}{Znasz kupca imieniem Vic?}
-{148}{}{Mój przyjaciel, Vic twierdzi, ¿e kupi³ od ciebie pewn¹ manierkê.}
-{149}{}{Przypomnia³eœ sobie sk¹d wzi¹³eœ tê manierkê?}
+{148}{}{MÃ³j przyjaciel, Vic twierdzi, Å¼e kupiÅ‚ od ciebie pewnÄ… manierkÄ™.}
+{149}{}{PrzypomniaÅ‚eÅ› sobie skÄ…d wziÄ…Å‚eÅ› tÄ™ manierkÄ™?}
 {150}{}{Szukam Krypty.}
 {151}{}{Opowiedz mi o Kryptopolis?}
-{152}{}{Czym siê zajmujesz?}
-{153}{}{¯egnaj.}
-{154}{}{Có¿... mamy tu Kryptê w g³ównej czêœci miasta. Mo¿e to ta, której szukasz?}
-{155}{}{Có¿... mamy tu Kryptê w g³ównej czêœci miasta. Tego szukasz?}
-{156}{}{Mo¿e. Mam jeszcze kilka pytañ...}
-{157}{}{Mo¿liwe. Dziêki za informacje.}
-{158}{}{Spoko miejsce... jeœli wiesz, jak obchodziæ siê z Obywatelami. Nie podzielam czêœci ich pogl¹dów, ale da siê tu jakoœ wy¿yæ.}
-{159}{}{Mam kilka innych pytañ...}
-{160}{}{Rozumiem. Dziêki za informacje. Do zobaczenia.}
-{161}{}{Sprzedajê braminy ludziom, którzy chc¹ je kupiæ. Trzeba jakoœ p³aciæ rachunki.}
-{162}{}{Mam kilka innych pytañ...}
-{163}{}{Rozumiem. Dziêki za informacje. Do zobaczenia.}
-{164}{}{Znam braminy m¹drzejsze od ciebie. Spadaj.}
-{165}{}{To chyba dom Eda. To od niego kupi³em tê manierkê.}
-{166}{}{Wiesz ju¿ sk¹d pochodzi manierka.}
+{152}{}{Czym siÄ™ zajmujesz?}
+{153}{}{Å»egnaj.}
+{154}{}{CÃ³Å¼... mamy tu KryptÄ™ w gÅ‚Ã³wnej czÄ™Å›ci miasta. MoÅ¼e to ta, ktÃ³rej szukasz?}
+{155}{}{CÃ³Å¼... mamy tu KryptÄ™ w gÅ‚Ã³wnej czÄ™Å›ci miasta. Tego szukasz?}
+{156}{}{MoÅ¼e. Mam jeszcze kilka pytaÅ„...}
+{157}{}{MoÅ¼liwe. DziÄ™ki za informacje.}
+{158}{}{Spoko miejsce... jeÅ›li wiesz, jak obchodziÄ‡ siÄ™ z Obywatelami. Nie podzielam czÄ™Å›ci ich poglÄ…dÃ³w, ale da siÄ™ tu jakoÅ› wyÅ¼yÄ‡.}
+{159}{}{Mam kilka innych pytaÅ„...}
+{160}{}{Rozumiem. DziÄ™ki za informacje. Do zobaczenia.}
+{161}{}{SprzedajÄ™ braminy ludziom, ktÃ³rzy chcÄ… je kupiÄ‡. Trzeba jakoÅ› pÅ‚aciÄ‡ rachunki.}
+{162}{}{Mam kilka innych pytaÅ„...}
+{163}{}{Rozumiem. DziÄ™ki za informacje. Do zobaczenia.}
+{164}{}{Znam braminy mÄ…drzejsze od ciebie. Spadaj.}
+{165}{}{To chyba dom Eda. To od niego kupiÅ‚em tÄ™ manierkÄ™.}
+{166}{}{Wiesz juÅ¼ skÄ…d pochodzi manierka.}

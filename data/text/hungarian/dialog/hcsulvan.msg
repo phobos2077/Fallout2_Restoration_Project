@@ -1,65 +1,65 @@
-{100}{}{Egy magas, ?szül? férfit látsz, hatalmas söröskriglivel a kezében.}
-{101}{}{John L. Sullivan, a bokszoló.}
-{102}{}{Egy magas, öreged? férfit látsz, felt?n?en izmos karokkal. Szürkül?, ápolt bajuszt visel.}
-{103}{}{Már így is egy picinyt sokat kaptál.}
-{104}{}{Begorah, nem vagy te hülyegyerek!}
-{105}{}{Jól megdolgoztattad Torrt a pénzéért.}
-{106}{}{Menj a dolgodra, apró idegen!}
-{107}{}{Ah, még egy mitugrász törzsbéli...}
-{108}{}{(Tet?t?l-talpig végigmér) Na, lássuk csak, mib?l élünk... Úgy gondolom, nem sokat tudsz a tudományok legszebbikér?l, igaz?}
-{109}{}{Ha leszállnál az aprócska magas lóról, esetleg segíthetnék egy kicsit pallérozni a képességeidet.}
-{110}{}{Mir?l beszélsz?}
-{111}{}{Öö, igen, hát persze, uram. Még találkozunk. Talán.}
-{112}{}{Nos, lehet, hogy ez csak az én szerény véleményem, de a mozdulataidat látva szolgálhatok néhány jó tanáccsal.}
-{113}{}{Tanácsok? Mire?}
-{114}{}{Nem hinném, fater. Nehezen tudnám elképzelni, hogy *maga* bármit is tudna tanítani nekem. Viszlát!}
-{115}{}{Természetesen a tudományok legszebbikér?l. A sport m?vészetér?l.}
-{116}{}{Öö, m?vészet? Varázslatról beszél!?! Meg tud tanítani varázsolni?}
-{117}{}{Mir?l beszélsz?}
-{118}{}{(szélesen vigyorog) De még mennyire! Megtaníthatlak az aprónépek, leprechaun-ok, spriggan-ok, Ban'sidhe-k és hasonlók világára. Szeretnéd?}
-{119}{}{Jól hangzik. Tanítson!}
-{120}{}{Boksz, a pusztakezes harc férfias m?vészete. Erre gondoltam.}
-{121}{}{Boksz, a pusztakezes harc férfias, öö, és n?ies m?vészete. Erre gondoltam.}
-{122}{}{Hát, azt hiszem, jól jönne egy kis segítség.}
-{123}{}{Azt hiszem, már most többet tudok err?l, mint amit valaha is megtaníthatna nekem.}
-{124}{}{(a körülötted állókhoz beszél) Hallottátok? Kerítettem egy él? példányt. Akarjátok hallani a mesét az apró goblinokról meg hasonlókról? (Húú, ha, ha - a hasát fogja a nevetést?l) Haver, guríts le egy italt az egészségemre, ez a belép?d a tündérek világába!}
-{125}{}{(a körülötted állókhoz beszél) Hallottátok? Kerítettem egy él? példányt. Akarjátok hallani a mesét az apró goblinokról és hasonlókról? (Húú, ha, ha - a hasát fogja a nevetést?l) Kislány, guríts le egy italt az egészségemre, ez a belép?d a tündérek világába!}
-{126}{}{Csupán egy italra van szükségem? Remek. Kösz a tippért.}
-{127}{}{Valahogy olyan érzésem van, mintha egy kicsit ugratna...}
-{128}{}{Nos, az ital csak a kezdet. Meg kell találnod a tündérdombot! (a körülötted álló vendégekre kacsint)}
-{129}{}{És utána?}
-{130}{}{Ülj le a dombra, és várj, amíg meg nem látod a tündérkört a harmatban. Ha a kör közepébe ugrasz, hajnalig táncolnod kell az aprónéppel. Ha túléled, akkor elillannak veled tündérországba. (heee, hah, hah, hah)}
-{131}{}{Az igen, hogy jött rá erre?}
+{100}{}{Egy magas, ?szÃ¼l? fÃ©rfit lÃ¡tsz, hatalmas sÃ¶rÃ¶skriglivel a kezÃ©ben.}
+{101}{}{John L. Sullivan, a bokszolÃ³.}
+{102}{}{Egy magas, Ã¶reged? fÃ©rfit lÃ¡tsz, felt?n?en izmos karokkal. SzÃ¼rkÃ¼l?, Ã¡polt bajuszt visel.}
+{103}{}{MÃ¡r Ã­gy is egy picinyt sokat kaptÃ¡l.}
+{104}{}{Begorah, nem vagy te hÃ¼lyegyerek!}
+{105}{}{JÃ³l megdolgoztattad Torrt a pÃ©nzÃ©Ã©rt.}
+{106}{}{Menj a dolgodra, aprÃ³ idegen!}
+{107}{}{Ah, mÃ©g egy mitugrÃ¡sz tÃ¶rzsbÃ©li...}
+{108}{}{(Tet?t?l-talpig vÃ©gigmÃ©r) Na, lÃ¡ssuk csak, mib?l Ã©lÃ¼nk... Ãšgy gondolom, nem sokat tudsz a tudomÃ¡nyok legszebbikÃ©r?l, igaz?}
+{109}{}{Ha leszÃ¡llnÃ¡l az aprÃ³cska magas lÃ³rÃ³l, esetleg segÃ­thetnÃ©k egy kicsit pallÃ©rozni a kÃ©pessÃ©geidet.}
+{110}{}{Mir?l beszÃ©lsz?}
+{111}{}{Ã–Ã¶, igen, hÃ¡t persze, uram. MÃ©g talÃ¡lkozunk. TalÃ¡n.}
+{112}{}{Nos, lehet, hogy ez csak az Ã©n szerÃ©ny vÃ©lemÃ©nyem, de a mozdulataidat lÃ¡tva szolgÃ¡lhatok nÃ©hÃ¡ny jÃ³ tanÃ¡ccsal.}
+{113}{}{TanÃ¡csok? Mire?}
+{114}{}{Nem hinnÃ©m, fater. Nehezen tudnÃ¡m elkÃ©pzelni, hogy *maga* bÃ¡rmit is tudna tanÃ­tani nekem. ViszlÃ¡t!}
+{115}{}{TermÃ©szetesen a tudomÃ¡nyok legszebbikÃ©r?l. A sport m?vÃ©szetÃ©r?l.}
+{116}{}{Ã–Ã¶, m?vÃ©szet? VarÃ¡zslatrÃ³l beszÃ©l!?! Meg tud tanÃ­tani varÃ¡zsolni?}
+{117}{}{Mir?l beszÃ©lsz?}
+{118}{}{(szÃ©lesen vigyorog) De mÃ©g mennyire! MegtanÃ­thatlak az aprÃ³nÃ©pek, leprechaun-ok, spriggan-ok, Ban'sidhe-k Ã©s hasonlÃ³k vilÃ¡gÃ¡ra. SzeretnÃ©d?}
+{119}{}{JÃ³l hangzik. TanÃ­tson!}
+{120}{}{Boksz, a pusztakezes harc fÃ©rfias m?vÃ©szete. Erre gondoltam.}
+{121}{}{Boksz, a pusztakezes harc fÃ©rfias, Ã¶Ã¶, Ã©s n?ies m?vÃ©szete. Erre gondoltam.}
+{122}{}{HÃ¡t, azt hiszem, jÃ³l jÃ¶nne egy kis segÃ­tsÃ©g.}
+{123}{}{Azt hiszem, mÃ¡r most tÃ¶bbet tudok err?l, mint amit valaha is megtanÃ­thatna nekem.}
+{124}{}{(a kÃ¶rÃ¼lÃ¶tted Ã¡llÃ³khoz beszÃ©l) HallottÃ¡tok? KerÃ­tettem egy Ã©l? pÃ©ldÃ¡nyt. AkarjÃ¡tok hallani a mesÃ©t az aprÃ³ goblinokrÃ³l meg hasonlÃ³krÃ³l? (HÃºÃº, ha, ha - a hasÃ¡t fogja a nevetÃ©st?l) Haver, gurÃ­ts le egy italt az egÃ©szsÃ©gemre, ez a belÃ©p?d a tÃ¼ndÃ©rek vilÃ¡gÃ¡ba!}
+{125}{}{(a kÃ¶rÃ¼lÃ¶tted Ã¡llÃ³khoz beszÃ©l) HallottÃ¡tok? KerÃ­tettem egy Ã©l? pÃ©ldÃ¡nyt. AkarjÃ¡tok hallani a mesÃ©t az aprÃ³ goblinokrÃ³l Ã©s hasonlÃ³krÃ³l? (HÃºÃº, ha, ha - a hasÃ¡t fogja a nevetÃ©st?l) KislÃ¡ny, gurÃ­ts le egy italt az egÃ©szsÃ©gemre, ez a belÃ©p?d a tÃ¼ndÃ©rek vilÃ¡gÃ¡ba!}
+{126}{}{CsupÃ¡n egy italra van szÃ¼ksÃ©gem? Remek. KÃ¶sz a tippÃ©rt.}
+{127}{}{Valahogy olyan Ã©rzÃ©sem van, mintha egy kicsit ugratna...}
+{128}{}{Nos, az ital csak a kezdet. Meg kell talÃ¡lnod a tÃ¼ndÃ©rdombot! (a kÃ¶rÃ¼lÃ¶tted Ã¡llÃ³ vendÃ©gekre kacsint)}
+{129}{}{Ã‰s utÃ¡na?}
+{130}{}{Ãœlj le a dombra, Ã©s vÃ¡rj, amÃ­g meg nem lÃ¡tod a tÃ¼ndÃ©rkÃ¶rt a harmatban. Ha a kÃ¶r kÃ¶zepÃ©be ugrasz, hajnalig tÃ¡ncolnod kell az aprÃ³nÃ©ppel. Ha tÃºlÃ©led, akkor elillannak veled tÃ¼ndÃ©rorszÃ¡gba. (heee, hah, hah, hah)}
+{131}{}{Az igen, hogy jÃ¶tt rÃ¡ erre?}
 {132}{}{Valahogy, azt hiszem, maga ugrat engem.}
-{133}{}{Ó, ez a véremben van, természetesen. Erin a henceg?! (megemeli a kriglijét)}
-{134}{}{Igen, gyerünk, hencegjen csak Erin-r?l! Oké. Kösz a tippeket. Na, hadd kérdezzek valami mást!}
-{135}{}{Valahogy olyan érzésem támadt, hogy maga ezzel az egésszel csak ugrat engem.}
-{136}{}{Öö, hát, öö, látom, maga aztán elfoglalt ember. Még találkozunk. Viszlát!}
-{137}{}{(Alaposan végigmér.) Talán. Talán. Nos, tégy, ahogy akarsz.}
-{138}{}{Úgy lesz. Viszlát!}
-{139}{}{Talán. Mindazonáltal te csinos kis sportot csináltál bel?le. Tessék, egy sör, amiért olyan jól viselted.}
-{140}{}{Kösz. Mit is mondott a tudományok legszebbikér?l?}
-{141}{}{Nem fogadom el a sört. Többet tudok annál, mint amit megtaníthat nekem, részeg vénember. Viszlát!}
-{142}{}{Na, gyerünk kifele, lássuk, mit tudok neked tanítani! Látod, ez az egész csak azon múlik, hogy tudod-e az apró testedet ostorként használni...}
-{143}{}{(Bólogatsz)}
-{144}{}{Most nincs erre id?m. Viszlát!}
-{145}{}{(Jónéhány izzadsággal teli órával kés?bb) Na, látod már, hogy mit csinálsz rosszul?}
-{146}{}{Igen. Köszönöm, hogy id?t szakított rám, Mr. Sullivan.}
-{147}{}{Ez remek volt! Hadd adjak 10 dollárt, igyon az egészségemre! Ez a legkevesebb, amit tehetek.}
-{148}{}{Igen, azt hiszem. Köszönöm. Viszlát!}
-{149}{}{Enyém a megtiszteltetés. Most már vigyázz magadra. És ha bárki is kérdezi... mondd el nekik, hogy a Bunyós John Sullivan tanított verekedni.}
-{150}{}{Így lesz, John. Kösz. Viszlát!}
-{151}{}{Nem, nem, nem! Nem fogadhatom el a pénzed. Öröm volt számomra, hogy megtaníthattalak a tudásomra. Most pedig nagyon vigyázz magadra! Igazi tehetség lakozik benned.}
-{152}{}{Remek. Hadd kérdezzek valamit! Hol tanult meg így bunyózni?}
-{153}{}{Kösz, John. Viszlát!}
-{154}{}{Az már nagyon régen volt. Amikor még apró kis srác, és teljesen fafej voltam. Egy Reno nev? helyen. Tartsd tisztán az orrod, és maradj távol az olyan helyekt?l!}
+{133}{}{Ã“, ez a vÃ©remben van, termÃ©szetesen. Erin a henceg?! (megemeli a kriglijÃ©t)}
+{134}{}{Igen, gyerÃ¼nk, hencegjen csak Erin-r?l! OkÃ©. KÃ¶sz a tippeket. Na, hadd kÃ©rdezzek valami mÃ¡st!}
+{135}{}{Valahogy olyan Ã©rzÃ©sem tÃ¡madt, hogy maga ezzel az egÃ©sszel csak ugrat engem.}
+{136}{}{Ã–Ã¶, hÃ¡t, Ã¶Ã¶, lÃ¡tom, maga aztÃ¡n elfoglalt ember. MÃ©g talÃ¡lkozunk. ViszlÃ¡t!}
+{137}{}{(Alaposan vÃ©gigmÃ©r.) TalÃ¡n. TalÃ¡n. Nos, tÃ©gy, ahogy akarsz.}
+{138}{}{Ãšgy lesz. ViszlÃ¡t!}
+{139}{}{TalÃ¡n. MindazonÃ¡ltal te csinos kis sportot csinÃ¡ltÃ¡l bel?le. TessÃ©k, egy sÃ¶r, amiÃ©rt olyan jÃ³l viselted.}
+{140}{}{KÃ¶sz. Mit is mondott a tudomÃ¡nyok legszebbikÃ©r?l?}
+{141}{}{Nem fogadom el a sÃ¶rt. TÃ¶bbet tudok annÃ¡l, mint amit megtanÃ­that nekem, rÃ©szeg vÃ©nember. ViszlÃ¡t!}
+{142}{}{Na, gyerÃ¼nk kifele, lÃ¡ssuk, mit tudok neked tanÃ­tani! LÃ¡tod, ez az egÃ©sz csak azon mÃºlik, hogy tudod-e az aprÃ³ testedet ostorkÃ©nt hasznÃ¡lni...}
+{143}{}{(BÃ³logatsz)}
+{144}{}{Most nincs erre id?m. ViszlÃ¡t!}
+{145}{}{(JÃ³nÃ©hÃ¡ny izzadsÃ¡ggal teli Ã³rÃ¡val kÃ©s?bb) Na, lÃ¡tod mÃ¡r, hogy mit csinÃ¡lsz rosszul?}
+{146}{}{Igen. KÃ¶szÃ¶nÃ¶m, hogy id?t szakÃ­tott rÃ¡m, Mr. Sullivan.}
+{147}{}{Ez remek volt! Hadd adjak 10 dollÃ¡rt, igyon az egÃ©szsÃ©gemre! Ez a legkevesebb, amit tehetek.}
+{148}{}{Igen, azt hiszem. KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{149}{}{EnyÃ©m a megtiszteltetÃ©s. Most mÃ¡r vigyÃ¡zz magadra. Ã‰s ha bÃ¡rki is kÃ©rdezi... mondd el nekik, hogy a BunyÃ³s John Sullivan tanÃ­tott verekedni.}
+{150}{}{Ãgy lesz, John. KÃ¶sz. ViszlÃ¡t!}
+{151}{}{Nem, nem, nem! Nem fogadhatom el a pÃ©nzed. Ã–rÃ¶m volt szÃ¡momra, hogy megtanÃ­thattalak a tudÃ¡somra. Most pedig nagyon vigyÃ¡zz magadra! Igazi tehetsÃ©g lakozik benned.}
+{152}{}{Remek. Hadd kÃ©rdezzek valamit! Hol tanult meg Ã­gy bunyÃ³zni?}
+{153}{}{KÃ¶sz, John. ViszlÃ¡t!}
+{154}{}{Az mÃ¡r nagyon rÃ©gen volt. Amikor mÃ©g aprÃ³ kis srÃ¡c, Ã©s teljesen fafej voltam. Egy Reno nev? helyen. Tartsd tisztÃ¡n az orrod, Ã©s maradj tÃ¡vol az olyan helyekt?l!}
 {155}{}{Merre van Reno?}
-{156}{}{Ó, rendben. Kösz, John. Viszlát!}
-{157}{}{Ezt nem akarom elmondani neked. Jól haladsz, csak ne állj a baj útjába! Most pedig viszlát!}
-{158}{}{Oké, köszönöm még egyszer. Viszlát, John!}
-{159}{}{Ne keveredj bajba! Megtanítottalak mindenre.}
-{160}{}{Kösz. Említett valamit a m?vészetr?l...}
-{161}{}{Kösz, John. Értékelem, amit értem tett. Viszlát!}
-{162}{}{A boksz m?vészetére gondoltam. A másik dologgal csak ugrattalak. Legjobb lesz, ha a saját dolgommal foglalkozok. Sok szerencsét!}
-{163}{}{Ó, rendben. Kösz, John. Viszlát!}
-{164}{}{John Sullivan segítségével némileg fejl?dött a Közelharc és Fegyvertelen harc képességed.}
+{156}{}{Ã“, rendben. KÃ¶sz, John. ViszlÃ¡t!}
+{157}{}{Ezt nem akarom elmondani neked. JÃ³l haladsz, csak ne Ã¡llj a baj ÃºtjÃ¡ba! Most pedig viszlÃ¡t!}
+{158}{}{OkÃ©, kÃ¶szÃ¶nÃ¶m mÃ©g egyszer. ViszlÃ¡t, John!}
+{159}{}{Ne keveredj bajba! MegtanÃ­tottalak mindenre.}
+{160}{}{KÃ¶sz. EmlÃ­tett valamit a m?vÃ©szetr?l...}
+{161}{}{KÃ¶sz, John. Ã‰rtÃ©kelem, amit Ã©rtem tett. ViszlÃ¡t!}
+{162}{}{A boksz m?vÃ©szetÃ©re gondoltam. A mÃ¡sik dologgal csak ugrattalak. Legjobb lesz, ha a sajÃ¡t dolgommal foglalkozok. Sok szerencsÃ©t!}
+{163}{}{Ã“, rendben. KÃ¶sz, John. ViszlÃ¡t!}
+{164}{}{John Sullivan segÃ­tsÃ©gÃ©vel nÃ©mileg fejl?dÃ¶tt a KÃ¶zelharc Ã©s Fegyvertelen harc kÃ©pessÃ©ged.}

@@ -1,4 +1,4 @@
-{100}{}{Você vê um terminal.}
+{100}{}{VocÃª vÃª um terminal.}
 {101}{}{You see a terminal. It appears to be operational.}
 {102}{}{You see a DataPlex 2000 SmarTerminal, with a full 64k of RAM, it's the very latest in computer technology - too bad it's not working right now.}
 {103}{}{You see a DataPlex 2000 SmarTerminal, with a full 64k of RAM, it's the very latest in computer technology.}

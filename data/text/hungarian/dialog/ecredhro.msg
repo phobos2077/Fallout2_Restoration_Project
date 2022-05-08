@@ -1,18 +1,18 @@
-{100}{}{Egy vörös hajú h?sn?-karaktert látsz.}
-{101}{}{Egy gyönyör? vörös hajú lányt látsz a 13-as Menedék kezeslábasában. Dühösen néz a messzeségbe...}
-{102}{}{Egy vörös hajú h?sn?-karaktert látsz. Tekintete a messzeségbe réved.}
-{103}{}{Egy vörös hajú h?sn?-karaktert látsz. Tekintete a messzeségbe réved.}
-{104}{}{Nem hiszem el, hogy az utolsó fordulóban estem ki a Fallout 1-b?l.}
-{105}{}{A fekete hajú *lotyót* választották helyettem. Volt képük!}
-{106}{}{*Fekete hajú* n?i karakter. Átlagosabb már nem is lehetnere? UN-CSIII!}
-{107}{}{A vörösek összehasonlíthatatlanul érdekesebbek.}
-{108}{}{A fekete hajú n? csak azért került be, mert minden játéktervez?vel lefeküdt.}
-{109}{}{ÉS a programozókkal is.}
-{110}{}{Nem is beszélve a projektvezet?r?l. Olyan könny? ?ket befolyásolni. Csak mutatsz nekik egy kis ezt-azt magadból, és máris az ujjad köré csavarhatod ?ket.}
-{111}{}{Szóval kiestem és "töltelék NJK"-ként végeztem a 13-as Menedékben. Jéé-zus! Beskatulyáztak!}
-{112}{}{Csodálom, hogy egyáltalán ruhában renderelték le a fekete hajú n?t.}
-{113}{}{Úgy értem, nem hiszem, hogy lett volna rajta ruha, amikor "dolgoztak rajta".}
-{114}{}{*Sóhajt*}
-{115}{}{Utálom a férfiakat.}
-{116}{}{Kivéve azt az ábrándos kép? Scotty Evertset.}
-{117}{}{Azt hiszem, ? bír engem. Csak párszor kellett lefeküdnöm vele, hogy rám szavazzon.}
+{100}{}{Egy vÃ¶rÃ¶s hajÃº h?sn?-karaktert lÃ¡tsz.}
+{101}{}{Egy gyÃ¶nyÃ¶r? vÃ¶rÃ¶s hajÃº lÃ¡nyt lÃ¡tsz a 13-as MenedÃ©k kezeslÃ¡basÃ¡ban. DÃ¼hÃ¶sen nÃ©z a messzesÃ©gbe...}
+{102}{}{Egy vÃ¶rÃ¶s hajÃº h?sn?-karaktert lÃ¡tsz. Tekintete a messzesÃ©gbe rÃ©ved.}
+{103}{}{Egy vÃ¶rÃ¶s hajÃº h?sn?-karaktert lÃ¡tsz. Tekintete a messzesÃ©gbe rÃ©ved.}
+{104}{}{Nem hiszem el, hogy az utolsÃ³ fordulÃ³ban estem ki a Fallout 1-b?l.}
+{105}{}{A fekete hajÃº *lotyÃ³t* vÃ¡lasztottÃ¡k helyettem. Volt kÃ©pÃ¼k!}
+{106}{}{*Fekete hajÃº* n?i karakter. Ãtlagosabb mÃ¡r nem is lehetnere? UN-CSIII!}
+{107}{}{A vÃ¶rÃ¶sek Ã¶sszehasonlÃ­thatatlanul Ã©rdekesebbek.}
+{108}{}{A fekete hajÃº n? csak azÃ©rt kerÃ¼lt be, mert minden jÃ¡tÃ©ktervez?vel lefekÃ¼dt.}
+{109}{}{Ã‰S a programozÃ³kkal is.}
+{110}{}{Nem is beszÃ©lve a projektvezet?r?l. Olyan kÃ¶nny? ?ket befolyÃ¡solni. Csak mutatsz nekik egy kis ezt-azt magadbÃ³l, Ã©s mÃ¡ris az ujjad kÃ¶rÃ© csavarhatod ?ket.}
+{111}{}{SzÃ³val kiestem Ã©s "tÃ¶ltelÃ©k NJK"-kÃ©nt vÃ©geztem a 13-as MenedÃ©kben. JÃ©Ã©-zus! BeskatulyÃ¡ztak!}
+{112}{}{CsodÃ¡lom, hogy egyÃ¡ltalÃ¡n ruhÃ¡ban rendereltÃ©k le a fekete hajÃº n?t.}
+{113}{}{Ãšgy Ã©rtem, nem hiszem, hogy lett volna rajta ruha, amikor "dolgoztak rajta".}
+{114}{}{*SÃ³hajt*}
+{115}{}{UtÃ¡lom a fÃ©rfiakat.}
+{116}{}{KivÃ©ve azt az Ã¡brÃ¡ndos kÃ©p? Scotty Evertset.}
+{117}{}{Azt hiszem, ? bÃ­r engem. Csak pÃ¡rszor kellett lefekÃ¼dnÃ¶m vele, hogy rÃ¡m szavazzon.}

@@ -1,6 +1,6 @@
-{100}{}{Widzisz robota Pana Z³ot¹ R¹czkê.}
-{101}{}{Ten robot wygl¹da jakby zosta³ przygotowany do przewo¿enia ciê¿kich ³adunków.}
+{100}{}{Widzisz robota Pana ZÅ‚otÄ… RÄ…czkÄ™.}
+{101}{}{Ten robot wyglÄ…da jakby zostaÅ‚ przygotowany do przewoÅ¼enia ciÄ™Å¼kich Å‚adunkÃ³w.}
 {200}{}{Biip.}
 {201}{}{*Klik*}
 {202}{}{*Bibop*}
-{203}{}{PrzechodŸ ostro¿nie przez obszar prac.}
+{203}{}{PrzechodÅº ostroÅ¼nie przez obszar prac.}

@@ -1,188 +1,188 @@
-{100}{}{? egy hosszúhajú, langaléta ghoul.}
+{100}{}{? egy hosszÃºhajÃº, langalÃ©ta ghoul.}
 {101}{}{Wooz.}
-{102}{}{Ez a hosszúhajú ghoul hihetetlenül cingár és girhes.}
+{102}{}{Ez a hosszÃºhajÃº ghoul hihetetlenÃ¼l cingÃ¡r Ã©s girhes.}
 {110}{}{Wooz vagyok. Akarsz valamit?}
-{111}{}{Mondd már, mit akarsz! Megzazultál?}
-{112}{}{Üdv! Mit akarnál?}
-{113}{}{Woozo, kéne Ouzo!}
-{114}{}{Mi a munkád?}
+{111}{}{Mondd mÃ¡r, mit akarsz! MegzazultÃ¡l?}
+{112}{}{Ãœdv! Mit akarnÃ¡l?}
+{113}{}{Woozo, kÃ©ne Ouzo!}
+{114}{}{Mi a munkÃ¡d?}
 {115}{}{Mondj valamit err?l a helyr?l!}
-{116}{}{Édenkert Létrehozást El?segít? Táska - hallott már valaha ilyesmir?l?}
-{117}{}{Nem akarok semmit... viszlát!}
-{120}{}{Épp most mondtam, hogy minden Menedékben tárolnak olyat. Szerinted ez a hely mennyiben hasonlít egy Menedékre? Meg vagy zazulva? Miért pont itt kutatsz az ÉLET után? Próbálkozz egy Menedékben!}
-{121}{}{Merre van a legközelebbi Menedék?}
-{122}{}{Figyelj csak, laza, a dumád túl zaza. Én vagyok a Kiválasztott, felfogod?}
-{123}{}{Hát, szóval éppen... arra gondoltam, hátha te... na felejtsd el. Viszlát!}
-{130}{}{Az Édenkert Létesítést El?segít? Táskát említetted? Arra a berendezésre gondolsz, amit a menedékeiket elhagyó embereknek szántak új életterek létrehozásához?}
-{131}{}{Igen! Az az!!! Hol találok olyat?}
-{132}{}{Öö.. nem, egy másfajta Édenkert Létesítést El?segít? Táskára gondoltam.}
-{140}{}{Ez a hely az enyém. Tán zaza vagy? Piát árulok, csereberélek, anekdotázgatok és Tragic-ot játszok. Mihez volna kedved?}
+{116}{}{Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡ska - hallott mÃ¡r valaha ilyesmir?l?}
+{117}{}{Nem akarok semmit... viszlÃ¡t!}
+{120}{}{Ã‰pp most mondtam, hogy minden MenedÃ©kben tÃ¡rolnak olyat. Szerinted ez a hely mennyiben hasonlÃ­t egy MenedÃ©kre? Meg vagy zazulva? MiÃ©rt pont itt kutatsz az Ã‰LET utÃ¡n? PrÃ³bÃ¡lkozz egy MenedÃ©kben!}
+{121}{}{Merre van a legkÃ¶zelebbi MenedÃ©k?}
+{122}{}{Figyelj csak, laza, a dumÃ¡d tÃºl zaza. Ã‰n vagyok a KivÃ¡lasztott, felfogod?}
+{123}{}{HÃ¡t, szÃ³val Ã©ppen... arra gondoltam, hÃ¡tha te... na felejtsd el. ViszlÃ¡t!}
+{130}{}{Az Ã‰denkert LÃ©tesÃ­tÃ©st El?segÃ­t? TÃ¡skÃ¡t emlÃ­tetted? Arra a berendezÃ©sre gondolsz, amit a menedÃ©keiket elhagyÃ³ embereknek szÃ¡ntak Ãºj Ã©letterek lÃ©trehozÃ¡sÃ¡hoz?}
+{131}{}{Igen! Az az!!! Hol talÃ¡lok olyat?}
+{132}{}{Ã–Ã¶.. nem, egy mÃ¡sfajta Ã‰denkert LÃ©tesÃ­tÃ©st El?segÃ­t? TÃ¡skÃ¡ra gondoltam.}
+{140}{}{Ez a hely az enyÃ©m. TÃ¡n zaza vagy? PiÃ¡t Ã¡rulok, csereberÃ©lek, anekdotÃ¡zgatok Ã©s Tragic-ot jÃ¡tszok. Mihez volna kedved?}
 {141}{}{Akkor MOST mit akarsz?}
 {142}{}{Inni.}
-{143}{}{Csereberélni.}
-{144}{}{Szoktál anekdotázgatni?}
-{145}{}{Tragic-ot játszol?}
-{146}{}{Nincs már semmi másra szükségem ebben a pillanatban. A viszontlátásra!}
-{150}{}{Csereberélni? Én aztán mindig kapható vagyok a Tragic lapok cserélgetésére. Van néhány tucat lapom a régi ?skorszakból. Ilyenek, hogy Vox Mubies, Black Dahlia, meg egy-kett? a Rare Earths-b?l.}
-{151}{}{Gondolom áruk csereberéjére gondoltál, nem?}
-{152}{}{Mi a fenér?l beszélsz?}
-{153}{}{Öö... nem tudom, mit forgatsz a fejedben, de remélem, van némi cserére szánt árud.}
-{154}{}{Igen, jöhet a cserebere!}
-{155}{}{Hmm... el?ször hadd tegyek fel néhány kérdést.}
-{156}{}{Most nem akarok csereberélni. Még találkozunk.}
-{160}{}{Tényleg nem sokat tudok mondani. Csak egy rakás ghoul szerencsétlenkedik itt naphosszat. Makacsul kapaszkodnak az életnek nevezett valamijükbe.}
-{161}{}{Úgy értem, mondhatnál valamit err?l az ivóról.}
-{162}{}{Hát ez elég sok emberre ráillik. Semmi újdonság nincs benne.}
-{170}{}{Inni akarsz? Hát választhatsz a sajátkészítés? Gamma Glutty sörünkb?l 5 dollár per palack áron, aztán a különleges alkalmakra tartogatott Röntgen Rumból 12 dollárért per palack.}
+{143}{}{CsereberÃ©lni.}
+{144}{}{SzoktÃ¡l anekdotÃ¡zgatni?}
+{145}{}{Tragic-ot jÃ¡tszol?}
+{146}{}{Nincs mÃ¡r semmi mÃ¡sra szÃ¼ksÃ©gem ebben a pillanatban. A viszontlÃ¡tÃ¡sra!}
+{150}{}{CsereberÃ©lni? Ã‰n aztÃ¡n mindig kaphatÃ³ vagyok a Tragic lapok cserÃ©lgetÃ©sÃ©re. Van nÃ©hÃ¡ny tucat lapom a rÃ©gi ?skorszakbÃ³l. Ilyenek, hogy Vox Mubies, Black Dahlia, meg egy-kett? a Rare Earths-b?l.}
+{151}{}{Gondolom Ã¡ruk csereberÃ©jÃ©re gondoltÃ¡l, nem?}
+{152}{}{Mi a fenÃ©r?l beszÃ©lsz?}
+{153}{}{Ã–Ã¶... nem tudom, mit forgatsz a fejedben, de remÃ©lem, van nÃ©mi cserÃ©re szÃ¡nt Ã¡rud.}
+{154}{}{Igen, jÃ¶het a cserebere!}
+{155}{}{Hmm... el?szÃ¶r hadd tegyek fel nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{156}{}{Most nem akarok csereberÃ©lni. MÃ©g talÃ¡lkozunk.}
+{160}{}{TÃ©nyleg nem sokat tudok mondani. Csak egy rakÃ¡s ghoul szerencsÃ©tlenkedik itt naphosszat. Makacsul kapaszkodnak az Ã©letnek nevezett valamijÃ¼kbe.}
+{161}{}{Ãšgy Ã©rtem, mondhatnÃ¡l valamit err?l az ivÃ³rÃ³l.}
+{162}{}{HÃ¡t ez elÃ©g sok emberre rÃ¡illik. Semmi ÃºjdonsÃ¡g nincs benne.}
+{170}{}{Inni akarsz? HÃ¡t vÃ¡laszthatsz a sajÃ¡tkÃ©szÃ­tÃ©s? Gamma Glutty sÃ¶rÃ¼nkb?l 5 dollÃ¡r per palack Ã¡ron, aztÃ¡n a kÃ¼lÃ¶nleges alkalmakra tartogatott RÃ¶ntgen RumbÃ³l 12 dollÃ¡rÃ©rt per palack.}
 {171}{}{Melyik legyen?}
-{172}{}{Ászok?}
-{173}{}{Jöhet az a Gamma Glutty. Világít is ahogy a neve sugallja?}
-{174}{}{Hát ha úgy vesszük, ez különleges alkalom. Kipróbálom a Röntgen Rumot.}
-{175}{}{Mindenkit meghívok az ivóban egy kör Gamma Gluttyra.}
-{176}{}{Húha, na viszlát!}
-{180}{}{Nincs elég pénzed, zaza barátom!}
+{172}{}{Ãszok?}
+{173}{}{JÃ¶het az a Gamma Glutty. VilÃ¡gÃ­t is ahogy a neve sugallja?}
+{174}{}{HÃ¡t ha Ãºgy vesszÃ¼k, ez kÃ¼lÃ¶nleges alkalom. KiprÃ³bÃ¡lom a RÃ¶ntgen Rumot.}
+{175}{}{Mindenkit meghÃ­vok az ivÃ³ban egy kÃ¶r Gamma Gluttyra.}
+{176}{}{HÃºha, na viszlÃ¡t!}
+{180}{}{Nincs elÃ©g pÃ©nzed, zaza barÃ¡tom!}
 {181}{}{Haza?}
-{182}{}{Ó, bocs. Akkor vásárolok mást.}
-{183}{}{Rendben, akkor viszont feltennék néhány kérdést.}
-{184}{}{Hát lehet, hogy megzazultam. Elnézést, inkább másfel?l kérdez?sködöm.}
-{185}{}{Zaza? Az ilyen hülye duma nagyon nem jön be nálam, öreg. Még bajod eshet, ha folytatod. Na, csá...}
-{186}{}{Bocs, viszlát!}
-{190}{}{Az egész brancsnak vásárolsz egy kör piát? Látom, jócskán hiányoznak a barátok. 35 dollár lesz...}
-{191}{}{Az ár nem számít, jóbarátom. Szeretném, ha ma mindenki a vendégem lenne, Wooz.}
-{192}{}{Wooz cimbora, szeretnék az összes ittlév? barátomnak rendelni egy italt. Ezek a srácok a legjobbak a világon!}
-{193}{}{Wooz, figyuzz mán ide... ehzekhnél a skacoknál jobb baráthot keresve sem találhatnék. Lökjé' még egy kört mindegyiknek...}
-{194}{}{Wooz cimbora! Mindegyik havernak aggyá még egy kört! Ehzek a skacok itt a legjobbak ám. SZERETLEK TITEKET, SKACOK! Mindenkit ölelek!}
-{195}{}{Most hogy jobban utánagondolok, lehet, hogy valami baj van az agyammal, ha egy rakás zombinak italt akarok venni.}
-{196}{}{Asszem, inkább csak magamnak rendelek italt.}
-{200}{}{Van egy jó anekdotám. Nagyon mókás. Vegyünk egy fejet, rendben?}
-{201}{}{Fejet mondtál?}
-{202}{}{Öö.. asszem, már hallottam ezt korábban. Most nincs id?m újra végighallgatni. Léptem...}
+{182}{}{Ã“, bocs. Akkor vÃ¡sÃ¡rolok mÃ¡st.}
+{183}{}{Rendben, akkor viszont feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{184}{}{HÃ¡t lehet, hogy megzazultam. ElnÃ©zÃ©st, inkÃ¡bb mÃ¡sfel?l kÃ©rdez?skÃ¶dÃ¶m.}
+{185}{}{Zaza? Az ilyen hÃ¼lye duma nagyon nem jÃ¶n be nÃ¡lam, Ã¶reg. MÃ©g bajod eshet, ha folytatod. Na, csÃ¡...}
+{186}{}{Bocs, viszlÃ¡t!}
+{190}{}{Az egÃ©sz brancsnak vÃ¡sÃ¡rolsz egy kÃ¶r piÃ¡t? LÃ¡tom, jÃ³cskÃ¡n hiÃ¡nyoznak a barÃ¡tok. 35 dollÃ¡r lesz...}
+{191}{}{Az Ã¡r nem szÃ¡mÃ­t, jÃ³barÃ¡tom. SzeretnÃ©m, ha ma mindenki a vendÃ©gem lenne, Wooz.}
+{192}{}{Wooz cimbora, szeretnÃ©k az Ã¶sszes ittlÃ©v? barÃ¡tomnak rendelni egy italt. Ezek a srÃ¡cok a legjobbak a vilÃ¡gon!}
+{193}{}{Wooz, figyuzz mÃ¡n ide... ehzekhnÃ©l a skacoknÃ¡l jobb barÃ¡thot keresve sem talÃ¡lhatnÃ©k. LÃ¶kjÃ©' mÃ©g egy kÃ¶rt mindegyiknek...}
+{194}{}{Wooz cimbora! Mindegyik havernak aggyÃ¡ mÃ©g egy kÃ¶rt! Ehzek a skacok itt a legjobbak Ã¡m. SZERETLEK TITEKET, SKACOK! Mindenkit Ã¶lelek!}
+{195}{}{Most hogy jobban utÃ¡nagondolok, lehet, hogy valami baj van az agyammal, ha egy rakÃ¡s zombinak italt akarok venni.}
+{196}{}{Asszem, inkÃ¡bb csak magamnak rendelek italt.}
+{200}{}{Van egy jÃ³ anekdotÃ¡m. Nagyon mÃ³kÃ¡s. VegyÃ¼nk egy fejet, rendben?}
+{201}{}{Fejet mondtÃ¡l?}
+{202}{}{Ã–Ã¶.. asszem, mÃ¡r hallottam ezt korÃ¡bban. Most nincs id?m Ãºjra vÃ©gighallgatni. LÃ©ptem...}
 {210}{}{Are you dumb? Tragic the Garnering is the most addictive thing since Jet.}
-{211}{}{Csak ismételni tudom magam. A "Tragic the Garnering" a játékok játéka...}
-{212}{}{Mondj valamit err?l a "Tragic the Garnering" izér?l!}
+{211}{}{Csak ismÃ©telni tudom magam. A "Tragic the Garnering" a jÃ¡tÃ©kok jÃ¡tÃ©ka...}
+{212}{}{Mondj valamit err?l a "Tragic the Garnering" izÃ©r?l!}
 {213}{}{Mi az a Jet?}
-{214}{}{Szavad ne feledd, mindjárt jövök!}
-{220}{}{Hmm, sajnálom. Csak err?l az egyr?l tudok. Apropó, láttál mostanában almát?}
-{221}{}{Almát mondtál?}
-{222}{}{Túl csalódott vagyok ahhoz, hogy most beszélgessek. Majd még jövök.}
-{230}{}{Egyszer?en odavagyok az almáért, de nem nagyon maradt már sehol. Úgy elt?nt, mintha sosem lett volna.}
-{231}{}{Nem is tudtam, hogy ilyen gyümölcsfétisiszta vagy. Egyéb mesélnivalód nincs?}
-{232}{}{Úgy hallottam, igazán ízlelgetheted az almát, mivel olyan lassan lehet enni.}
-{240}{}{Lassan? Zaza vagy már megint, baszódnál meg! Az almát ugyanolyan gyorsan lehet enni, mint a többi gyümölcsöt. Az alma király dolog. Ha nem szenvednénk a gyümölcstermeszt?k összeesküvését?l, mindannyian ehetnénk almát.}
-{241}{}{Elment az eszed? Szerintem túl sokat kóstolgattad a saját l?rédet! Na, inkább beszéljünk másról.}
-{242}{}{Na, igen... az alma csodálatos dolog (lassan hátrálsz). Igen, ehhez kétség nem férhet. Jól van Wooz, nincs semmi baj. Kés?bb még jövök ám...}
-{250}{}{Asszem, most végre közös nevez?re jutottunk. Szolgálhatok még valamivel?}
-{251}{}{Tulajdonképpen, inkább valami másra fájna a fogam.}
-{252}{}{Most, hogy a csereberén túlestünk, volna néhány kérdésem.}
-{253}{}{Most nem kell semmi más. Legyen jó napod!}
-{260}{}{Ó, a Kiválasztott. Ó egek, hogy nem jöttem rá magam! Megpróbálok lehiggadni és elárulni valamit neked (Wooz mosolyog) Jer közelebb, hadd súgjam a füledbe...}
-{261}{}{Na, ebb?l elég. Ennél sokkal több tiszteletet érdemlek.}
-{262}{}{Ennél közelebb nem megyek hozzád, csontrakéta. Ne közelíts! Viszlát!}
-{270}{}{A legközelebbi Menedék? H???... hát nem tudom. Talán meg kéne kérdezned a Menedékvárosiakat, merre találhatnál egy Menedéket. Menedékváros délre van innen, de hogy zaza vagy, az tuti...}
-{271}{}{Tudtam én! Csak teszteltelek. Azta, Wooz, te aztán nem vagy semmi. Na, beszéljünk másról...}
-{272}{}{Én nem vagyok zaza, te viszont igen. És végszóra megyek is...}
-{280}{}{(Wooz közelebb von téged.) Hadd súgjak valamit...}
-{281}{}{Oké.}
-{282}{}{Szerintem ne súgdossál te semmit! Egyszer?en az agyamra mész! Na, léptem, viszlát!}
-{290}{}{BASZÓDJ MEG!!! Most pedig kifelé az ivóból! Méghogy Kiválasztott. Nevetséges, ezt a balfaszt!}
-{291}{}{Egy percig sem maradok a béna ivódban, szóval ne üvöltözz! Viszlát!}
-{292}{}{Értem, te kis faszfej? leprafészek. Itt az id?, hogy beadjak egy kis ólominjekciót.}
-{300}{}{Baszódj meg, zazagyerek! Mi a pöcsöt akarsz itt, he???}
-{301}{}{Öö, bocsánat, hogy kiakasztottam, Wooz úr. Csak néhány kérdésem lett volna.}
-{302}{}{Én baszódjak meg? Baszódj meg te a gyökér ivóddal együtt! Már itt sem vagyok!}
+{214}{}{Szavad ne feledd, mindjÃ¡rt jÃ¶vÃ¶k!}
+{220}{}{Hmm, sajnÃ¡lom. Csak err?l az egyr?l tudok. ApropÃ³, lÃ¡ttÃ¡l mostanÃ¡ban almÃ¡t?}
+{221}{}{AlmÃ¡t mondtÃ¡l?}
+{222}{}{TÃºl csalÃ³dott vagyok ahhoz, hogy most beszÃ©lgessek. Majd mÃ©g jÃ¶vÃ¶k.}
+{230}{}{Egyszer?en odavagyok az almÃ¡Ã©rt, de nem nagyon maradt mÃ¡r sehol. Ãšgy elt?nt, mintha sosem lett volna.}
+{231}{}{Nem is tudtam, hogy ilyen gyÃ¼mÃ¶lcsfÃ©tisiszta vagy. EgyÃ©b mesÃ©lnivalÃ³d nincs?}
+{232}{}{Ãšgy hallottam, igazÃ¡n Ã­zlelgetheted az almÃ¡t, mivel olyan lassan lehet enni.}
+{240}{}{Lassan? Zaza vagy mÃ¡r megint, baszÃ³dnÃ¡l meg! Az almÃ¡t ugyanolyan gyorsan lehet enni, mint a tÃ¶bbi gyÃ¼mÃ¶lcsÃ¶t. Az alma kirÃ¡ly dolog. Ha nem szenvednÃ©nk a gyÃ¼mÃ¶lcstermeszt?k Ã¶sszeeskÃ¼vÃ©sÃ©t?l, mindannyian ehetnÃ©nk almÃ¡t.}
+{241}{}{Elment az eszed? Szerintem tÃºl sokat kÃ³stolgattad a sajÃ¡t l?rÃ©det! Na, inkÃ¡bb beszÃ©ljÃ¼nk mÃ¡srÃ³l.}
+{242}{}{Na, igen... az alma csodÃ¡latos dolog (lassan hÃ¡trÃ¡lsz). Igen, ehhez kÃ©tsÃ©g nem fÃ©rhet. JÃ³l van Wooz, nincs semmi baj. KÃ©s?bb mÃ©g jÃ¶vÃ¶k Ã¡m...}
+{250}{}{Asszem, most vÃ©gre kÃ¶zÃ¶s nevez?re jutottunk. SzolgÃ¡lhatok mÃ©g valamivel?}
+{251}{}{TulajdonkÃ©ppen, inkÃ¡bb valami mÃ¡sra fÃ¡jna a fogam.}
+{252}{}{Most, hogy a csereberÃ©n tÃºlestÃ¼nk, volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{253}{}{Most nem kell semmi mÃ¡s. Legyen jÃ³ napod!}
+{260}{}{Ã“, a KivÃ¡lasztott. Ã“ egek, hogy nem jÃ¶ttem rÃ¡ magam! MegprÃ³bÃ¡lok lehiggadni Ã©s elÃ¡rulni valamit neked (Wooz mosolyog) Jer kÃ¶zelebb, hadd sÃºgjam a fÃ¼ledbe...}
+{261}{}{Na, ebb?l elÃ©g. EnnÃ©l sokkal tÃ¶bb tiszteletet Ã©rdemlek.}
+{262}{}{EnnÃ©l kÃ¶zelebb nem megyek hozzÃ¡d, csontrakÃ©ta. Ne kÃ¶zelÃ­ts! ViszlÃ¡t!}
+{270}{}{A legkÃ¶zelebbi MenedÃ©k? H???... hÃ¡t nem tudom. TalÃ¡n meg kÃ©ne kÃ©rdezned a MenedÃ©kvÃ¡rosiakat, merre talÃ¡lhatnÃ¡l egy MenedÃ©ket. MenedÃ©kvÃ¡ros dÃ©lre van innen, de hogy zaza vagy, az tuti...}
+{271}{}{Tudtam Ã©n! Csak teszteltelek. Azta, Wooz, te aztÃ¡n nem vagy semmi. Na, beszÃ©ljÃ¼nk mÃ¡srÃ³l...}
+{272}{}{Ã‰n nem vagyok zaza, te viszont igen. Ã‰s vÃ©gszÃ³ra megyek is...}
+{280}{}{(Wooz kÃ¶zelebb von tÃ©ged.) Hadd sÃºgjak valamit...}
+{281}{}{OkÃ©.}
+{282}{}{Szerintem ne sÃºgdossÃ¡l te semmit! Egyszer?en az agyamra mÃ©sz! Na, lÃ©ptem, viszlÃ¡t!}
+{290}{}{BASZÃ“DJ MEG!!! Most pedig kifelÃ© az ivÃ³bÃ³l! MÃ©ghogy KivÃ¡lasztott. NevetsÃ©ges, ezt a balfaszt!}
+{291}{}{Egy percig sem maradok a bÃ©na ivÃ³dban, szÃ³val ne Ã¼vÃ¶ltÃ¶zz! ViszlÃ¡t!}
+{292}{}{Ã‰rtem, te kis faszfej? leprafÃ©szek. Itt az id?, hogy beadjak egy kis Ã³lominjekciÃ³t.}
+{300}{}{BaszÃ³dj meg, zazagyerek! Mi a pÃ¶csÃ¶t akarsz itt, he???}
+{301}{}{Ã–Ã¶, bocsÃ¡nat, hogy kiakasztottam, Wooz Ãºr. Csak nÃ©hÃ¡ny kÃ©rdÃ©sem lett volna.}
+{302}{}{Ã‰n baszÃ³djak meg? BaszÃ³dj meg te a gyÃ¶kÃ©r ivÃ³ddal egyÃ¼tt! MÃ¡r itt sem vagyok!}
 {303}{}{Semmi, semmi. Bocs, Wooz.}
-{304}{}{Öö... említettem már mennyire odavagyok az almáért?}
-{310}{}{Nocsak. Nem gondoltam volna. Hát aki az almát szereti, rossz ember nem lehet. Most pedig ki vele, mit akarsz!}
-{311}{}{Kérdeznék ezt-azt, Wooz.}
-{320}{}{Zombit mondtál? Baszódj meg, mi ghoulok vagyunk! A zombik akarat nélküli él?holtak. Annak ellenére, hogy hasonló a kinézetünk, f?leg a rohadó hús és a jellegzetes torzulások miatt, mi szabadon gondolkodó lények vagyunk. Hadd demonstráljam...}
-{321}{}{Nahát...}
-{330}{}{Szeretném a szabad akaratomat demonstrálni, és azt közölni veled, hogy TAKARODJ A PICSÁBA! Rohadt simab?r? faszfej. Mennyé vissza Menedékvárosba a gyökér rokonaidhoz!!!}
-{331}{}{Ghoul, zombi egyre megy. Mindannyian torzszülöttek vagytok.}
-{340}{}{Hát a "Tragic the Garnering" nem egy közönséges játék, hanem létforma. Vonatkoztass el a biológiától. Néhányan azt hiszik, hogy a játékosok élete egyszer?en tragikus lesz t?le, de ez marhaság.}
-{341}{}{Hát hogy is mondjam...}
+{304}{}{Ã–Ã¶... emlÃ­tettem mÃ¡r mennyire odavagyok az almÃ¡Ã©rt?}
+{310}{}{Nocsak. Nem gondoltam volna. HÃ¡t aki az almÃ¡t szereti, rossz ember nem lehet. Most pedig ki vele, mit akarsz!}
+{311}{}{KÃ©rdeznÃ©k ezt-azt, Wooz.}
+{320}{}{Zombit mondtÃ¡l? BaszÃ³dj meg, mi ghoulok vagyunk! A zombik akarat nÃ©lkÃ¼li Ã©l?holtak. Annak ellenÃ©re, hogy hasonlÃ³ a kinÃ©zetÃ¼nk, f?leg a rohadÃ³ hÃºs Ã©s a jellegzetes torzulÃ¡sok miatt, mi szabadon gondolkodÃ³ lÃ©nyek vagyunk. Hadd demonstrÃ¡ljam...}
+{321}{}{NahÃ¡t...}
+{330}{}{SzeretnÃ©m a szabad akaratomat demonstrÃ¡lni, Ã©s azt kÃ¶zÃ¶lni veled, hogy TAKARODJ A PICSÃBA! Rohadt simab?r? faszfej. MennyÃ© vissza MenedÃ©kvÃ¡rosba a gyÃ¶kÃ©r rokonaidhoz!!!}
+{331}{}{Ghoul, zombi egyre megy. Mindannyian torzszÃ¼lÃ¶ttek vagytok.}
+{340}{}{HÃ¡t a "Tragic the Garnering" nem egy kÃ¶zÃ¶nsÃ©ges jÃ¡tÃ©k, hanem lÃ©tforma. Vonatkoztass el a biolÃ³giÃ¡tÃ³l. NÃ©hÃ¡nyan azt hiszik, hogy a jÃ¡tÃ©kosok Ã©lete egyszer?en tragikus lesz t?le, de ez marhasÃ¡g.}
+{341}{}{HÃ¡t hogy is mondjam...}
 {350}{}{Jet's a drug that comes from New Reno. Were you born yesterday, or are you just dumb?}
-{351}{}{Ja, hogy az a Jet? Hát persze, hogy hallottam róla. Mondj még valamit err?l a "Tragic the Garnering"-r?l!}
-{360}{}{Nem az, tényleg! Csodálatos! Ki kéne próbálnod! Legalább egyszer. Az els? pakli ingyenes. Kis ajándék t?lem, neked.}
-{361}{}{Köszi. Hé, ez tök jól néz ki. (letéped a csomagolást róla.) Mmm, hogy bírom az illatát...}
-{362}{}{Inkább NEM-et mondanék erre a kártyásdira. Viszlát!}
-{370}{}{Üdv! Úgy t?nik, te is Tragic játékos vagy. Van kedved játszani?}
-{371}{}{Igazán nincs sok id?m erre a... mennyi id? is lenne egy gyors játék?...}
-{372}{}{Hogyne, csak engedd meg, hogy én... Nem! Nem szabad (a kezed a pakli felé nyúl, látszik, hogy nem vagy ura a cselekedeteidnek) Neeeeeee!}
-{375}{}{Játszanék én Tragic-ot veled, de nincs nálam egy szál pakli sem.}
-{376}{}{Várj a következ? hétig, addig talán összedobok egy paklit, amit nem lehet lenyomni.}
-{377}{}{Elvetted a legjobb lapjaimat. Ez a játék szar!!!}
-{380}{}{Ez még csak a kezdet. Most, hogy közénk tartozol, akarsz játszani egyet?}
+{351}{}{Ja, hogy az a Jet? HÃ¡t persze, hogy hallottam rÃ³la. Mondj mÃ©g valamit err?l a "Tragic the Garnering"-r?l!}
+{360}{}{Nem az, tÃ©nyleg! CsodÃ¡latos! Ki kÃ©ne prÃ³bÃ¡lnod! LegalÃ¡bb egyszer. Az els? pakli ingyenes. Kis ajÃ¡ndÃ©k t?lem, neked.}
+{361}{}{KÃ¶szi. HÃ©, ez tÃ¶k jÃ³l nÃ©z ki. (letÃ©ped a csomagolÃ¡st rÃ³la.) Mmm, hogy bÃ­rom az illatÃ¡t...}
+{362}{}{InkÃ¡bb NEM-et mondanÃ©k erre a kÃ¡rtyÃ¡sdira. ViszlÃ¡t!}
+{370}{}{Ãœdv! Ãšgy t?nik, te is Tragic jÃ¡tÃ©kos vagy. Van kedved jÃ¡tszani?}
+{371}{}{IgazÃ¡n nincs sok id?m erre a... mennyi id? is lenne egy gyors jÃ¡tÃ©k?...}
+{372}{}{Hogyne, csak engedd meg, hogy Ã©n... Nem! Nem szabad (a kezed a pakli felÃ© nyÃºl, lÃ¡tszik, hogy nem vagy ura a cselekedeteidnek) Neeeeeee!}
+{375}{}{JÃ¡tszanÃ©k Ã©n Tragic-ot veled, de nincs nÃ¡lam egy szÃ¡l pakli sem.}
+{376}{}{VÃ¡rj a kÃ¶vetkez? hÃ©tig, addig talÃ¡n Ã¶sszedobok egy paklit, amit nem lehet lenyomni.}
+{377}{}{Elvetted a legjobb lapjaimat. Ez a jÃ¡tÃ©k szar!!!}
+{380}{}{Ez mÃ©g csak a kezdet. Most, hogy kÃ¶zÃ©nk tartozol, akarsz jÃ¡tszani egyet?}
 {381}{}{Persze, de el?bb meg kell mutatnod, hogy kell.}
-{382}{}{Nem hinném, hogy volna erre most id?m. Inkább kérdeznék ezt meg azt.}
-{383}{}{Szívesen maradnék, és csereberélnék Tragic kártyákat, de épp dolgom van. Tudod, a való élet egy kicsit más. Na, üdv...}
-{390}{}{Mi sem egyszer?bb ennél. Még a legzazább alak is megérti. El?ször is összeállítasz egy paklit a nálad lév? lapokból, aztán...}
-{391}{}{Ajjaj! Azt mondod, csütörtök kivételével minden nap osztasz a harmadik játékosnak? Rendben, fogom. Játsszunk!}
-{392}{}{Lehet, hogy majd kés?bb játszom. Azért kösz, hogy elmondtad a szabályokat. Viszlát!}
-{400}{}{Nehogy má nyerjél, baszódjá' meg! Kéne erre valami szabály! Egyszer?en szerencsés voltál. A jelenlegi kártyáim egyszer?en nem értek semmit, jobbat kell összeraknom.}
-{401}{}{Kösz a kártyáért, Wooz. Azt hittem, tudsz játszani, de már látom, hogy csak egy jó nagy zazagyerek vagy.}
-{402}{}{Ezek mennek, meg a bárányfelh?k, Wooz. Na, viszlát!}
-{410}{}{Én nyertem, baszódj meg! Zaza vagy! Lealáztalak! A kártyáidból még jobb paklit tudok csinálni.}
-{411}{}{Hát igen. Te nyertél. Akkor mennék is...}
-{412}{}{Micsoda meglepetés. Legalább nem kell az anekdotáidat hallgatnom. Na, üdv...}
-{420}{}{Nincs id?. Menjünk! Van egy új paklim, amit ki kell próbálnom.}
+{382}{}{Nem hinnÃ©m, hogy volna erre most id?m. InkÃ¡bb kÃ©rdeznÃ©k ezt meg azt.}
+{383}{}{SzÃ­vesen maradnÃ©k, Ã©s csereberÃ©lnÃ©k Tragic kÃ¡rtyÃ¡kat, de Ã©pp dolgom van. Tudod, a valÃ³ Ã©let egy kicsit mÃ¡s. Na, Ã¼dv...}
+{390}{}{Mi sem egyszer?bb ennÃ©l. MÃ©g a legzazÃ¡bb alak is megÃ©rti. El?szÃ¶r is Ã¶sszeÃ¡llÃ­tasz egy paklit a nÃ¡lad lÃ©v? lapokbÃ³l, aztÃ¡n...}
+{391}{}{Ajjaj! Azt mondod, csÃ¼tÃ¶rtÃ¶k kivÃ©telÃ©vel minden nap osztasz a harmadik jÃ¡tÃ©kosnak? Rendben, fogom. JÃ¡tsszunk!}
+{392}{}{Lehet, hogy majd kÃ©s?bb jÃ¡tszom. AzÃ©rt kÃ¶sz, hogy elmondtad a szabÃ¡lyokat. ViszlÃ¡t!}
+{400}{}{Nehogy mÃ¡ nyerjÃ©l, baszÃ³djÃ¡' meg! KÃ©ne erre valami szabÃ¡ly! Egyszer?en szerencsÃ©s voltÃ¡l. A jelenlegi kÃ¡rtyÃ¡im egyszer?en nem Ã©rtek semmit, jobbat kell Ã¶sszeraknom.}
+{401}{}{KÃ¶sz a kÃ¡rtyÃ¡Ã©rt, Wooz. Azt hittem, tudsz jÃ¡tszani, de mÃ¡r lÃ¡tom, hogy csak egy jÃ³ nagy zazagyerek vagy.}
+{402}{}{Ezek mennek, meg a bÃ¡rÃ¡nyfelh?k, Wooz. Na, viszlÃ¡t!}
+{410}{}{Ã‰n nyertem, baszÃ³dj meg! Zaza vagy! LealÃ¡ztalak! A kÃ¡rtyÃ¡idbÃ³l mÃ©g jobb paklit tudok csinÃ¡lni.}
+{411}{}{HÃ¡t igen. Te nyertÃ©l. Akkor mennÃ©k is...}
+{412}{}{Micsoda meglepetÃ©s. LegalÃ¡bb nem kell az anekdotÃ¡idat hallgatnom. Na, Ã¼dv...}
+{420}{}{Nincs id?. MenjÃ¼nk! Van egy Ãºj paklim, amit ki kell prÃ³bÃ¡lnom.}
 {421}{}{Okay. Let us play then.}
-{422}{}{Nem! Ellent kell, hogy álljak a szirén hívásának. Távozz t?lem, Kártya! Inkább kérdeznék valamit helyette.}
-{430}{}{Tudom, mire gondolsz. Bármikor abbahagyhatnám, de nem ma fogom, az ziher.}
-{431}{}{Hát te aztán nem viccelsz! Tulajdonképp, föl akartam tenni néhány kérdést.}
-{432}{}{Arrrgh! Addig hagylak itt, amíg nem kés?. Üdv!}
-{440}{}{Naszóval, a Hárfa a háború el?tti egyik kedvenc lebujom után kapta a nevét. Valószín?leg nosztalgiából. Poénnak megteszi.}
-{441}{}{A háború el?tt? De hát az iszonyú rég volt.}
-{442}{}{Poénnak? Miféle poénnak?}
-{450}{}{Meglehet, de nem sokan mondhatják el magukról, hogy egy egész város az ? vérükre szomjazik.}
-{451}{}{Ezt most hogy kell értenem?}
-{460}{}{Hát az tuti, hogy jó rég volt. Mit gondolsz, hogy lettek a ghoulok? Szerinted az egyik reggel felkeltünk és azt mondtuk magunknak: "Azta, de jó lenne, ha a húsunk lerohadhatna a kibaszott testünkr?l!"}
-{461}{}{Hát nem éppen erre gondoltam. Végül is hogy lesznek a ghoulok?}
-{462}{}{Igazából a tökömet se érdekli, hogy mit?l lettetek ilyen rusnyák. Most pedig lépek...}
-{470}{}{Azok a menedékvárosi faszkalapok. Ha valaki betesz nekünk, hát ?k betesznek. Az egész gárda úgy ahogy van, el van baszva. Nem mutatsz még egy olyan elbaszott agyú népséget. Én vigyáznék magamra, ha a közelükben vagyok.}
-{471}{}{Jó tanácsnak t?nik. Vigyázni fogok majd, de most inkább mondhatnál még egy két okosságot.}
-{472}{}{Gondolom, megvan a maguk észjárása. Egy kis genetikai tisztogatásról van szó. Remélem, veled kezdik. Na, csá...}
+{422}{}{Nem! Ellent kell, hogy Ã¡lljak a szirÃ©n hÃ­vÃ¡sÃ¡nak. TÃ¡vozz t?lem, KÃ¡rtya! InkÃ¡bb kÃ©rdeznÃ©k valamit helyette.}
+{430}{}{Tudom, mire gondolsz. BÃ¡rmikor abbahagyhatnÃ¡m, de nem ma fogom, az ziher.}
+{431}{}{HÃ¡t te aztÃ¡n nem viccelsz! TulajdonkÃ©pp, fÃ¶l akartam tenni nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{432}{}{Arrrgh! Addig hagylak itt, amÃ­g nem kÃ©s?. Ãœdv!}
+{440}{}{NaszÃ³val, a HÃ¡rfa a hÃ¡borÃº el?tti egyik kedvenc lebujom utÃ¡n kapta a nevÃ©t. ValÃ³szÃ­n?leg nosztalgiÃ¡bÃ³l. PoÃ©nnak megteszi.}
+{441}{}{A hÃ¡borÃº el?tt? De hÃ¡t az iszonyÃº rÃ©g volt.}
+{442}{}{PoÃ©nnak? MifÃ©le poÃ©nnak?}
+{450}{}{Meglehet, de nem sokan mondhatjÃ¡k el magukrÃ³l, hogy egy egÃ©sz vÃ¡ros az ? vÃ©rÃ¼kre szomjazik.}
+{451}{}{Ezt most hogy kell Ã©rtenem?}
+{460}{}{HÃ¡t az tuti, hogy jÃ³ rÃ©g volt. Mit gondolsz, hogy lettek a ghoulok? Szerinted az egyik reggel felkeltÃ¼nk Ã©s azt mondtuk magunknak: "Azta, de jÃ³ lenne, ha a hÃºsunk lerohadhatna a kibaszott testÃ¼nkr?l!"}
+{461}{}{HÃ¡t nem Ã©ppen erre gondoltam. VÃ©gÃ¼l is hogy lesznek a ghoulok?}
+{462}{}{IgazÃ¡bÃ³l a tÃ¶kÃ¶met se Ã©rdekli, hogy mit?l lettetek ilyen rusnyÃ¡k. Most pedig lÃ©pek...}
+{470}{}{Azok a menedÃ©kvÃ¡rosi faszkalapok. Ha valaki betesz nekÃ¼nk, hÃ¡t ?k betesznek. Az egÃ©sz gÃ¡rda Ãºgy ahogy van, el van baszva. Nem mutatsz mÃ©g egy olyan elbaszott agyÃº nÃ©psÃ©get. Ã‰n vigyÃ¡znÃ©k magamra, ha a kÃ¶zelÃ¼kben vagyok.}
+{471}{}{JÃ³ tanÃ¡csnak t?nik. VigyÃ¡zni fogok majd, de most inkÃ¡bb mondhatnÃ¡l mÃ©g egy kÃ©t okossÃ¡got.}
+{472}{}{Gondolom, megvan a maguk Ã©szjÃ¡rÃ¡sa. Egy kis genetikai tisztogatÃ¡srÃ³l van szÃ³. RemÃ©lem, veled kezdik. Na, csÃ¡...}
 {473}{}{Well, right now they're pretty crazed about the village nearby. Do you know anything about this?}
-{480}{}{Mi, ghoulok, csak azzal érezhetjük kvittnek magunkat, ha a saját hárfánkkal bíbel?dhetünk.}
-{481}{}{Nem gondoltam volna, hogy a ghoulok ennyire muzikálisak.}
-{482}{}{Ah, értem. Hehe... Ellenben kérdeznék valamit.}
-{490}{}{Várok egy pohár italra, Várom, hogy messze vigyen... Megzazzantál, he? A sugárzástól van basszus. Mégis mit?l lenne? Gondolod, ha egy rakás bomba felrobban, villódznak kicsit, aztán meleg lesz, a hús pedig szépen rotyog, te meg lazán megúszod az éppcsaknemhalszmeg-típusú brutál sugárzást?}
-{491}{}{Szóval, úgy értem...}
-{500}{}{Te csak ne értsél itt semmit sehogy. Baszódj meg ott ahol vagy, amiért ezeket az iszonyat fájdalmas emlékeket el?hozod itt nekem. Vadbarom! Az itteniek nem mások, mint egy nagy rakás kibaszott hulladék... egy kicsit odakozmált hulladék...}
-{501}{}{Én magam is a közepesen átsült húst kedvelem... Na, akkor dumáljunk valami másról.}
-{502}{}{Hát... izé... Bocsi... akkor magadra is hagylak az önsajnálatban verg?dni. Kés?bb még jövök...}
-{510}{}{Hát általában a vendégek üres fején dobolgatok... tudod, mint a kongán. Hogy a fészkes fenébe engedhettek el téged a faludból? Ön- és közveszélyes vagy.}
-{511}{}{Hogy jön ide a konga?}
-{520}{}{Hé, leestél valami szar fáról, és minden rohadt ágba beütötted a fejed, he?}
-{521}{}{Milyen fáról beszélsz? A dumád nagyon nem jön be, haver. Na, inkább válaszolj egy-két kérdésre!}
-{530}{}{Igen, egy fejr?l van szó. De nem kapcsolódik a testhez. Egész pontosan, le van metszve.}
-{531}{}{Le van metszve... értem... és ez mikortól kezd érdekfeszít? lenni?}
-{540}{}{Várj egy picit. Ez a lemetszett fej, ha érted, mire gondolok, a pokolban van. (haha) És közben körbe-körbe röpköd ott, tudod, a pokolban. Alkalmasint híres emberekbe is ütközik... (ho, ho, ho)}
-{541}{}{Na, várjál, egy levágott fej van a pokolban, és körbe-körbe röpköd... és közben mit csinál?}
-{550}{}{Hát ezt is azt is (he, he) Tudod te azt. Olyasmit, amihez kedve van, vagy rákényszerítik. A lényeg az, hogy ezt is azt is, ott lenn a pokolban. Ó Istenem, (ha, ha, ha) egyszer?en nem bírom ki!}
-{551}{}{Asszem, az agyadra ment ez nem? Hmm. Te és a kedves mamád jól kijöttetek annó? Sosem voltak ágybavizelési problémáid?}
-{560}{}{Látom, nem érted. A lényeg a lemetszett fej. Fogod? He, he, he, annyira mókás! Hogy vagy képes magad elé képzelni a lemetszett fejet, amint összevissza mászkál a pokolban, és itt közben tök fapofát vágsz...}
-{561}{}{Wooz, nem igazán ismerlek jól téged, és az is biztos, hogy nem is nagyon akarlak. Mindezek ellenére azt javaslom... komolyan, minden túlzás nélkül,... hogy nagyon sürg?sen menj el orvoshoz. Azonnal szakért?re van szükséged.}
-{562}{}{Á, értem. Hát persze-persze. Nagyon de nagyon vicces... He, he... Alig tudom visszafogni a nevetést... Most viszont elég a humorból - jaj az oldalam még mindig fáj a nevetést?l - szóval feltennék néhány kérdést.}
-{570}{}{Baszódj meg! Ugyanolyan vagy, mint a többi köcsög. Ez nem nevetésre fakasztóan vicces. Nem az én hibám, ha a humorérzék szikrája sincs meg benned.}
-{571}{}{Igazad van, Wooz. Egyszer?en nem vagyok annyira agyas, mint te. Igazi állócsillagként ragyogsz az égen. Na, mondj valami mást inkább.}
-{572}{}{Van annyi humorérzékem, hogy felismerjem, ha másvalakiben nincs. Járok egyet.}
-{600}{}{Zaza vagy? Már meséltem a Tragic-ról. Rövid az agyad.}
-{601}{}{Érted már? Mondtam, hogy mókás. Akarsz még valamit?}
+{480}{}{Mi, ghoulok, csak azzal Ã©rezhetjÃ¼k kvittnek magunkat, ha a sajÃ¡t hÃ¡rfÃ¡nkkal bÃ­bel?dhetÃ¼nk.}
+{481}{}{Nem gondoltam volna, hogy a ghoulok ennyire muzikÃ¡lisak.}
+{482}{}{Ah, Ã©rtem. Hehe... Ellenben kÃ©rdeznÃ©k valamit.}
+{490}{}{VÃ¡rok egy pohÃ¡r italra, VÃ¡rom, hogy messze vigyen... MegzazzantÃ¡l, he? A sugÃ¡rzÃ¡stÃ³l van basszus. MÃ©gis mit?l lenne? Gondolod, ha egy rakÃ¡s bomba felrobban, villÃ³dznak kicsit, aztÃ¡n meleg lesz, a hÃºs pedig szÃ©pen rotyog, te meg lazÃ¡n megÃºszod az Ã©ppcsaknemhalszmeg-tÃ­pusÃº brutÃ¡l sugÃ¡rzÃ¡st?}
+{491}{}{SzÃ³val, Ãºgy Ã©rtem...}
+{500}{}{Te csak ne Ã©rtsÃ©l itt semmit sehogy. BaszÃ³dj meg ott ahol vagy, amiÃ©rt ezeket az iszonyat fÃ¡jdalmas emlÃ©keket el?hozod itt nekem. Vadbarom! Az itteniek nem mÃ¡sok, mint egy nagy rakÃ¡s kibaszott hulladÃ©k... egy kicsit odakozmÃ¡lt hulladÃ©k...}
+{501}{}{Ã‰n magam is a kÃ¶zepesen Ã¡tsÃ¼lt hÃºst kedvelem... Na, akkor dumÃ¡ljunk valami mÃ¡srÃ³l.}
+{502}{}{HÃ¡t... izÃ©... Bocsi... akkor magadra is hagylak az Ã¶nsajnÃ¡latban verg?dni. KÃ©s?bb mÃ©g jÃ¶vÃ¶k...}
+{510}{}{HÃ¡t Ã¡ltalÃ¡ban a vendÃ©gek Ã¼res fejÃ©n dobolgatok... tudod, mint a kongÃ¡n. Hogy a fÃ©szkes fenÃ©be engedhettek el tÃ©ged a faludbÃ³l? Ã–n- Ã©s kÃ¶zveszÃ©lyes vagy.}
+{511}{}{Hogy jÃ¶n ide a konga?}
+{520}{}{HÃ©, leestÃ©l valami szar fÃ¡rÃ³l, Ã©s minden rohadt Ã¡gba beÃ¼tÃ¶tted a fejed, he?}
+{521}{}{Milyen fÃ¡rÃ³l beszÃ©lsz? A dumÃ¡d nagyon nem jÃ¶n be, haver. Na, inkÃ¡bb vÃ¡laszolj egy-kÃ©t kÃ©rdÃ©sre!}
+{530}{}{Igen, egy fejr?l van szÃ³. De nem kapcsolÃ³dik a testhez. EgÃ©sz pontosan, le van metszve.}
+{531}{}{Le van metszve... Ã©rtem... Ã©s ez mikortÃ³l kezd Ã©rdekfeszÃ­t? lenni?}
+{540}{}{VÃ¡rj egy picit. Ez a lemetszett fej, ha Ã©rted, mire gondolok, a pokolban van. (haha) Ã‰s kÃ¶zben kÃ¶rbe-kÃ¶rbe rÃ¶pkÃ¶d ott, tudod, a pokolban. Alkalmasint hÃ­res emberekbe is Ã¼tkÃ¶zik... (ho, ho, ho)}
+{541}{}{Na, vÃ¡rjÃ¡l, egy levÃ¡gott fej van a pokolban, Ã©s kÃ¶rbe-kÃ¶rbe rÃ¶pkÃ¶d... Ã©s kÃ¶zben mit csinÃ¡l?}
+{550}{}{HÃ¡t ezt is azt is (he, he) Tudod te azt. Olyasmit, amihez kedve van, vagy rÃ¡kÃ©nyszerÃ­tik. A lÃ©nyeg az, hogy ezt is azt is, ott lenn a pokolban. Ã“ Istenem, (ha, ha, ha) egyszer?en nem bÃ­rom ki!}
+{551}{}{Asszem, az agyadra ment ez nem? Hmm. Te Ã©s a kedves mamÃ¡d jÃ³l kijÃ¶ttetek annÃ³? Sosem voltak Ã¡gybavizelÃ©si problÃ©mÃ¡id?}
+{560}{}{LÃ¡tom, nem Ã©rted. A lÃ©nyeg a lemetszett fej. Fogod? He, he, he, annyira mÃ³kÃ¡s! Hogy vagy kÃ©pes magad elÃ© kÃ©pzelni a lemetszett fejet, amint Ã¶sszevissza mÃ¡szkÃ¡l a pokolban, Ã©s itt kÃ¶zben tÃ¶k fapofÃ¡t vÃ¡gsz...}
+{561}{}{Wooz, nem igazÃ¡n ismerlek jÃ³l tÃ©ged, Ã©s az is biztos, hogy nem is nagyon akarlak. Mindezek ellenÃ©re azt javaslom... komolyan, minden tÃºlzÃ¡s nÃ©lkÃ¼l,... hogy nagyon sÃ¼rg?sen menj el orvoshoz. Azonnal szakÃ©rt?re van szÃ¼ksÃ©ged.}
+{562}{}{Ã, Ã©rtem. HÃ¡t persze-persze. Nagyon de nagyon vicces... He, he... Alig tudom visszafogni a nevetÃ©st... Most viszont elÃ©g a humorbÃ³l - jaj az oldalam mÃ©g mindig fÃ¡j a nevetÃ©st?l - szÃ³val feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{570}{}{BaszÃ³dj meg! Ugyanolyan vagy, mint a tÃ¶bbi kÃ¶csÃ¶g. Ez nem nevetÃ©sre fakasztÃ³an vicces. Nem az Ã©n hibÃ¡m, ha a humorÃ©rzÃ©k szikrÃ¡ja sincs meg benned.}
+{571}{}{Igazad van, Wooz. Egyszer?en nem vagyok annyira agyas, mint te. Igazi Ã¡llÃ³csillagkÃ©nt ragyogsz az Ã©gen. Na, mondj valami mÃ¡st inkÃ¡bb.}
+{572}{}{Van annyi humorÃ©rzÃ©kem, hogy felismerjem, ha mÃ¡svalakiben nincs. JÃ¡rok egyet.}
+{600}{}{Zaza vagy? MÃ¡r mesÃ©ltem a Tragic-rÃ³l. RÃ¶vid az agyad.}
+{601}{}{Ã‰rted mÃ¡r? Mondtam, hogy mÃ³kÃ¡s. Akarsz mÃ©g valamit?}
 {700}{}{Zaza vagy?}
-{701}{}{Adj egy nagy adag kólát!}
-{702}{}{Erre szabályt kell bevezetni!}
-{703}{}{Ide a rozsdás bök?t...}
+{701}{}{Adj egy nagy adag kÃ³lÃ¡t!}
+{702}{}{Erre szabÃ¡lyt kell bevezetni!}
+{703}{}{Ide a rozsdÃ¡s bÃ¶k?t...}
 {704}{}{Mi van, kibic?}
 {705}{}{Baszd meg!}
-{706}{}{Ez szart se ér!}
-{707}{}{Játsszunk Tragic-ot!}
-{708}{}{A legrosszabb Tragic játékos vagyok a világon.}
-{709}{}{KIRÁLY!}
-{710}{}{Minden játékban béna vagyok.}
-{711}{}{Én vagyok a legzazább, akit valaha láttam!}
-{712}{}{FOSRAKÁS!!!}
-{713}{}{Hol vannak a törp n?-hegyek?}
-{714}{}{Láttál már valaha feln?tt férfit MEZTELENÜL?}
+{706}{}{Ez szart se Ã©r!}
+{707}{}{JÃ¡tsszunk Tragic-ot!}
+{708}{}{A legrosszabb Tragic jÃ¡tÃ©kos vagyok a vilÃ¡gon.}
+{709}{}{KIRÃLY!}
+{710}{}{Minden jÃ¡tÃ©kban bÃ©na vagyok.}
+{711}{}{Ã‰n vagyok a legzazÃ¡bb, akit valaha lÃ¡ttam!}
+{712}{}{FOSRAKÃS!!!}
+{713}{}{Hol vannak a tÃ¶rp n?-hegyek?}
+{714}{}{LÃ¡ttÃ¡l mÃ¡r valaha feln?tt fÃ©rfit MEZTELENÃœL?}
 {715}{}{Nah, maybe some other time Wooz. I got some questions though...}
 {716}{}{Hmmm... Say, maybe you should call it a day and put those Tragic cards away. I think you have played enough for today.}
 {717}{}{NEVER! BRING FORTH THE GARNERING!}
@@ -193,7 +193,7 @@
 {722}{}{Yeah, it is. One Gamma Gulp coming right up.}
 {723}{}{Alright, enjoy. Anything else?}
 {724}{}{Special occasion, huh? Well lah-de-dah, aren't we special today. One Roetgen coming right up then.}
-{725}{}{Nem, kösz.}
+{725}{}{Nem, kÃ¶sz.}
 {726}{}{Yeah, what else do you have?}
 {727}{}{Whatever, I'll take one.}
 {728}{}{Right. Let me get something else.}
@@ -203,5 +203,5 @@
 {732}{}{Yeah, another round for everyone.}
 {740}{}{Heh, yeah I heard those assholes are getting attacked by molerats who're protecting those smoothskins. Serves 'em right for fucking with other people's
  business. I don't really know much more than that though. Lumpy over in the junkyard might know more. That smoothskin's always hearing things.}
-{741}{}{Kösz az információt. Viszlát!}
+{741}{}{KÃ¶sz az informÃ¡ciÃ³t. ViszlÃ¡t!}
 {742}{}{Good to know. Let me ask you something else.}

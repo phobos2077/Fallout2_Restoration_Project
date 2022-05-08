@@ -1,22 +1,22 @@
-{100}{}{Widzisz zmêczonego stra¿nika Centrologów.}
-{101}{}{Wygl¹da na œmiertelnie znudzonego.}
-{200}{}{[Patrzy na ciebie znudzonym wzrokiem.] Hej. Co ciê tu sprowadza?}
-{201}{}{Mam ciê zluzowaæ wczeœniej. Jestem stra¿nikiem z nastêpnej zmiany.}
-{202}{}{Ashton przys³a³ mnie po ciebie. Mówi³, ¿e musi siê z tob¹ skonsultowaæ w sprawie datków z ostatniej zbiórki.}
-{210}{}{Naprawdê - Hej, czekaj! Nigdy ciê tu wczeœniej nie widzia³em. Co ty tu robisz?}
+{100}{}{Widzisz zmÄ™czonego straÅ¼nika CentrologÃ³w.}
+{101}{}{WyglÄ…da na Å›miertelnie znudzonego.}
+{200}{}{[Patrzy na ciebie znudzonym wzrokiem.] Hej. Co ciÄ™ tu sprowadza?}
+{201}{}{Mam ciÄ™ zluzowaÄ‡ wczeÅ›niej. Jestem straÅ¼nikiem z nastÄ™pnej zmiany.}
+{202}{}{Ashton przysÅ‚aÅ‚ mnie po ciebie. MÃ³wiÅ‚, Å¼e musi siÄ™ z tobÄ… skonsultowaÄ‡ w sprawie datkÃ³w z ostatniej zbiÃ³rki.}
+{210}{}{NaprawdÄ™ - Hej, czekaj! Nigdy ciÄ™ tu wczeÅ›niej nie widziaÅ‚em. Co ty tu robisz?}
 {211}{}{Niedawno mnie tu przeniesiono.}
-{212}{}{Tak, przys³ano mnie tu ¿eby ciê zabiæ. Czas umieraæ.}
-{220}{}{Cholera. Nie mam czasu na takie pierdo³y, moja zmiana siê ju¿ koñczy.}
-{221}{}{S³uchaj, wygl¹da³ na wkurzonego. Nie s¹dzê, ¿eby rozwa¿nie by³o kazaæ mu czekaæ.}
-{230}{}{A, do diab³a. Dobra. Przypilnuj rzeczy tutaj jak mnie nie bêdzie. Wrócê za kilka minut.}
+{212}{}{Tak, przysÅ‚ano mnie tu Å¼eby ciÄ™ zabiÄ‡. Czas umieraÄ‡.}
+{220}{}{Cholera. Nie mam czasu na takie pierdoÅ‚y, moja zmiana siÄ™ juÅ¼ koÅ„czy.}
+{221}{}{SÅ‚uchaj, wyglÄ…daÅ‚ na wkurzonego. Nie sÄ…dzÄ™, Å¼eby rozwaÅ¼nie byÅ‚o kazaÄ‡ mu czekaÄ‡.}
+{230}{}{A, do diabÅ‚a. Dobra. Przypilnuj rzeczy tutaj jak mnie nie bÄ™dzie. WrÃ³cÄ™ za kilka minut.}
 {231}{}{Nie ma sprawy.}
-{240}{}{Nowy narybek, tak? Mamy tu takich od czasu do czasu. Moim zdaniem piekielnie nudna robota. Ale lepsze to ni¿ rekrutacja, wiêc nie narzekam. Dobrze ciê mieæ u nas.}
-{241}{}{Dziêki. IdŸ ju¿, Ashton nie lubi czekaæ.}
-{242}{}{Dziêki za powitanie. Wiêc, zainteresowany ¿eby skoñczyæ wartê wczeœniej?}
-{250}{}{Pewnie, czemu nie. I tak nigdy nie dzieje siê tu nic ciekawego. W takim razie, do zobaczenia póŸniej.}
-{251}{}{Trzymaj siê.}
-{260}{}{Nowy rekrut? Gówno prawda. Prawie nam ich tu nie przysy³aj¹. Zdaje siê, ¿e z³apa³em szczura. ¯egnaj!}
-{300}{}{Co do cholery! Ashton nigdy nie chce mnie widzieæ. Nie wiem co siê tu do cholery dzieje, ale nie mia³em ¿adnej informacji o twoim przybyciu. Wygl¹da, ¿e mamy intruza. Czas umieraæ.}
-{400}{}{Co ty u diab³a robisz!? Próbujesz nas okraœæ, wprost pod moim nosem. Chyba ci s³oneczko za bardzo przygrza³o. Czas umieraæ!}
-{401}{}{Hej, co ty do cholery robisz!? To prywatna posesja. Niczego nie dotykaj. To jedyne ostrze¿enie.}
-{402}{}{Ostrzega³em ciê. Próbujesz nas okraœæ wprost pod moim nosem. Chyba ci s³oneczko za bardzo przygrza³o. Czas umieraæ!}
+{240}{}{Nowy narybek, tak? Mamy tu takich od czasu do czasu. Moim zdaniem piekielnie nudna robota. Ale lepsze to niÅ¼ rekrutacja, wiÄ™c nie narzekam. Dobrze ciÄ™ mieÄ‡ u nas.}
+{241}{}{DziÄ™ki. IdÅº juÅ¼, Ashton nie lubi czekaÄ‡.}
+{242}{}{DziÄ™ki za powitanie. WiÄ™c, zainteresowany Å¼eby skoÅ„czyÄ‡ wartÄ™ wczeÅ›niej?}
+{250}{}{Pewnie, czemu nie. I tak nigdy nie dzieje siÄ™ tu nic ciekawego. W takim razie, do zobaczenia pÃ³Åºniej.}
+{251}{}{Trzymaj siÄ™.}
+{260}{}{Nowy rekrut? GÃ³wno prawda. Prawie nam ich tu nie przysyÅ‚ajÄ…. Zdaje siÄ™, Å¼e zÅ‚apaÅ‚em szczura. Å»egnaj!}
+{300}{}{Co do cholery! Ashton nigdy nie chce mnie widzieÄ‡. Nie wiem co siÄ™ tu do cholery dzieje, ale nie miaÅ‚em Å¼adnej informacji o twoim przybyciu. WyglÄ…da, Å¼e mamy intruza. Czas umieraÄ‡.}
+{400}{}{Co ty u diabÅ‚a robisz!? PrÃ³bujesz nas okraÅ›Ä‡, wprost pod moim nosem. Chyba ci sÅ‚oneczko za bardzo przygrzaÅ‚o. Czas umieraÄ‡!}
+{401}{}{Hej, co ty do cholery robisz!? To prywatna posesja. Niczego nie dotykaj. To jedyne ostrzeÅ¼enie.}
+{402}{}{OstrzegaÅ‚em ciÄ™. PrÃ³bujesz nas okraÅ›Ä‡ wprost pod moim nosem. Chyba ci sÅ‚oneczko za bardzo przygrzaÅ‚o. Czas umieraÄ‡!}

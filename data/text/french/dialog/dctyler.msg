@@ -1,149 +1,149 @@
 {100}{}{Tu vois Tyler.}
 {101}{}{Tu vois Tyler, le chef de ce gang.}
-{150}{}{Il a l'air plutôt fort.}
-{200}{}{Hé ! Touche pas à cette porte !}
-{201}{}{Débile !}
+{150}{}{Il a l'air plutÃ´t fort.}
+{200}{}{HÃ© ! Touche pas Ã  cette porte !}
+{201}{}{DÃ©bile !}
 {210}{}{Maintenant, faut finir.}
-{220}{}{Je t'avais dit que ça serait du gâteau.}
-{221}{}{C'était comme si on menait des agneaux à l'abattoir.}
-{222}{}{Cette salope est enfin crevée !}
-{223}{}{Merci pour le conseil, c'était très sympa.}
-{230}{}{T'étais où, bordel ?}
-{231}{}{Un piège, mon cul ! Tu mens comme tu respires.}
-{232}{}{Je devrais t'étriper !}
+{220}{}{Je t'avais dit que Ã§a serait du gÃ¢teau.}
+{221}{}{C'Ã©tait comme si on menait des agneaux Ã  l'abattoir.}
+{222}{}{Cette salope est enfin crevÃ©e !}
+{223}{}{Merci pour le conseil, c'Ã©tait trÃ¨s sympa.}
+{230}{}{T'Ã©tais oÃ¹, bordel ?}
+{231}{}{Un piÃ¨ge, mon cul ! Tu mens comme tu respires.}
+{232}{}{Je devrais t'Ã©triper !}
 {233}{}{D'enfer le plan !!!}
-{234}{}{J'espère que t'as pas passé ton temps à te foutre de ma gueule !}
-{235}{}{Comment t'as fait pour bousiller celui-là ?}
-{240}{}{Amène ces connards ici qu'on les cloue au mur !}
+{234}{}{J'espÃ¨re que t'as pas passÃ© ton temps Ã  te foutre de ma gueule !}
+{235}{}{Comment t'as fait pour bousiller celui-lÃ  ?}
+{240}{}{AmÃ¨ne ces connards ici qu'on les cloue au mur !}
 {241}{}{On attend.}
 {242}{}{On peut pas attendre toute la nuit.}
-{243}{}{Qu'est-ce qu'on attend ? J'veux que ça saigne moi.}
+{243}{}{Qu'est-ce qu'on attend ? J'veux que Ã§a saigne moi.}
 {244}{}{Ben vas-y ! N'attends pas qu'ils se doutent de quelque chose !}
 {245}{}{Magne-toi !}
 {250}{}{Qui es-tu et que veux-tu ?}
 {251}{}{Que veux-tu, cette fois ?}
 {252}{}{Metzger m'envoie. Il a besoin de quelques esclaves.}
-{253}{}{Je suis là pour inspecter l'église.}
+{253}{}{Je suis lÃ  pour inspecter l'Ã©glise.}
 {254}{}{Je reviendrai.}
 {255}{}{Moi }
 {256}{}{Arouva ?}
 {260}{}{Pour quoi faire ? Ses affaires ne bougent pas d'ici.}
-{261}{}{Ses trucs n'ont pas bougé d'un pouce.}
+{261}{}{Ses trucs n'ont pas bougÃ© d'un pouce.}
 {262}{}{Ah ouais ? T'es esclavagiste maintenant, hein ? Alors, que voulait-il ? Ca ne bouge pas d'ici... impossible.}
-{263}{}{Il voulait que je vérifie à sa place.}
-{264}{}{Eh bien, il veut seulement être sûr.}
+{263}{}{Il voulait que je vÃ©rifie Ã  sa place.}
+{264}{}{Eh bien, il veut seulement Ãªtre sÃ»r.}
 {265}{}{Ca ne fait rien.}
-{270}{}{Ouais c'est ça. J'ai jamais vu ta tête par ici, alors, casse-toi !}
-{271}{}{Laisse-moi rentrer *tout de suite* ou j'me fâche !}
-{272}{}{Ecoute, il m'a fait venir en ville pour que j'inspecte ses foutus trucs. Moi, j'en ai rien à cirer.}
+{270}{}{Ouais c'est Ã§a. J'ai jamais vu ta tÃªte par ici, alors, casse-toi !}
+{271}{}{Laisse-moi rentrer *tout de suite* ou j'me fÃ¢che !}
+{272}{}{Ecoute, il m'a fait venir en ville pour que j'inspecte ses foutus trucs. Moi, j'en ai rien Ã  cirer.}
 {273}{}{Ok.}
-{280}{}{Bon, d'accord, l'esclavagiste. Vas-y. Il croit peut-être que ça va s'envoler comme ça ? De toute façon, j'vois pas qui voudrait de cette merde...}
-{281}{}{Et merde. Vas-y. Il croit peut-être que ça va s'envoler comme ça ? De toute façon, j'vois pas qui voudrait de cette merde...}
+{280}{}{Bon, d'accord, l'esclavagiste. Vas-y. Il croit peut-Ãªtre que Ã§a va s'envoler comme Ã§a ? De toute faÃ§on, j'vois pas qui voudrait de cette merde...}
+{281}{}{Et merde. Vas-y. Il croit peut-Ãªtre que Ã§a va s'envoler comme Ã§a ? De toute faÃ§on, j'vois pas qui voudrait de cette merde...}
 {282}{}{Salut.}
-{290}{}{D'accord. De toute façon, je m'en fiche. Que pourrais-tu faire avec ces merdes de toute façon ?}
+{290}{}{D'accord. De toute faÃ§on, je m'en fiche. Que pourrais-tu faire avec ces merdes de toute faÃ§on ?}
 {291}{}{Grrrr.}
 {292}{}{Merci.}
-{300}{}{Casse-toi, mon gars. Sinon, je me fâche et c'est toi qui prends !}
-{301}{}{Tire-toi, la pétasse. Metzger n'aurait jamais envoyé une femme. Alors, bouge de là.}
-{302}{}{Pétasse, hein ? Je vais te montrer moi ce que la pétasse peut faire !}
+{300}{}{Casse-toi, mon gars. Sinon, je me fÃ¢che et c'est toi qui prends !}
+{301}{}{Tire-toi, la pÃ©tasse. Metzger n'aurait jamais envoyÃ© une femme. Alors, bouge de lÃ .}
+{302}{}{PÃ©tasse, hein ? Je vais te montrer moi ce que la pÃ©tasse peut faire !}
 {303}{}{Va te faire mettre !}
 {304}{}{[Partir]}
 {310}{}{Va-t'en !}
 {320}{}{Sympa ! Moi Tyler. Moi partir. Salut.}
 {321}{}{Heu.}
 {322}{}{Euh...}
-{330}{}{Dégage, espèce de monstre.}
+{330}{}{DÃ©gage, espÃ¨ce de monstre.}
 {331}{}{Couillole !}
 {332}{}{Aroug !}
 {340}{}{Je crois pas. Maintenant, tire-toi.}
 {341}{}{Ok.}
 {342}{}{Mais !}
-{343}{}{Très bien.}
-{350}{}{Ouais, tu m'étonnes. Qui t'envoie ?}
-{351}{}{Ouais, tu te répètes, tête à claques. Qui t'envoie ?}
-{352}{}{D'après toi, débile ? Arrête de me faire chier et laisse-moi rentrer !}
-{353}{}{La panthère rose.}
+{343}{}{TrÃ¨s bien.}
+{350}{}{Ouais, tu m'Ã©tonnes. Qui t'envoie ?}
+{351}{}{Ouais, tu te rÃ©pÃ¨tes, tÃªte Ã  claques. Qui t'envoie ?}
+{352}{}{D'aprÃ¨s toi, dÃ©bile ? ArrÃªte de me faire chier et laisse-moi rentrer !}
+{353}{}{La panthÃ¨re rose.}
 {354}{}{Bon, eh bien, tu vas le regretter !}
 {360}{}{La quoi ? Barre-toi d'ici !}
 {361}{}{Mais...}
-{362}{}{Très bien.}
+{362}{}{TrÃ¨s bien.}
 {370}{}{Bon, qu'est-ce qu'il veut, le Patron ? Encore une inspection de mes deux ?}
 {371}{}{Oui ?}
 {372}{}{Quoi encore ?}
-{373}{}{Comment ça va ?}
+{373}{}{Comment Ã§a va ?}
 {374}{}{Excuse-moi, je dois partir.}
 {375}{}{Ok.}
 {376}{}{Hein ?}
-{380}{}{Au fait, super ! J'avais presque oublié. Un de mes potes a gagné gros au jeu et maintenant il doit partager son magot, si tu vois ce que j'veux dire.}
-{381}{}{Ca m'emmerde de monter la garde. Mais, ça pourrait être pire ! Un de mes potes a gagné gros au jeu et maintenant il doit partager son magot, si tu vois ce que j'veux dire.}
+{380}{}{Au fait, super ! J'avais presque oubliÃ©. Un de mes potes a gagnÃ© gros au jeu et maintenant il doit partager son magot, si tu vois ce que j'veux dire.}
+{381}{}{Ca m'emmerde de monter la garde. Mais, Ã§a pourrait Ãªtre pire ! Un de mes potes a gagnÃ© gros au jeu et maintenant il doit partager son magot, si tu vois ce que j'veux dire.}
 {382}{}{Des grands projets, hein ?}
 {383}{}{Ca a l'air cool.}
-{390}{}{Ouais, il organise une fête ce soir chez lui. Ca va cartonner.}
-{391}{}{Ouais, il organise une fête ce soir chez lui. Ca devrait être top. J'aimerais t'inviter, mon chou, mais c'est réservé à ses amis intimes.}
-{392}{}{Bois quelques verres à ma santé.}
+{390}{}{Ouais, il organise une fÃªte ce soir chez lui. Ca va cartonner.}
+{391}{}{Ouais, il organise une fÃªte ce soir chez lui. Ca devrait Ãªtre top. J'aimerais t'inviter, mon chou, mais c'est rÃ©servÃ© Ã  ses amis intimes.}
+{392}{}{Bois quelques verres Ã  ma santÃ©.}
 {393}{}{Je comprends. Amuse-toi bien.}
 {394}{}{A plus. }
-{400}{}{Crois-moi. On va boire jusqu'à ce qu'on tombe par terre !}
+{400}{}{Crois-moi. On va boire jusqu'Ã  ce qu'on tombe par terre !}
 {401}{}{Salut.}
-{410}{}{En quoi ça t'regarde ? Casse-toi.}
+{410}{}{En quoi Ã§a t'regarde ? Casse-toi.}
 {411}{}{Ouais, ouais.}
-{412}{}{T'essaies de m'énerver ?}
+{412}{}{T'essaies de m'Ã©nerver ?}
 {413}{}{Pas mal.}
 {414}{}{Fatiguant.}
 {415}{}{Ok.}
 {416}{}{Va-t'en !}
 {417}{}{Ca pourrait aller mieux.}
 {418}{}{Oh !}
-{430}{}{Je me languis de cette fête ! J'espère qu'il va "réinviter" ses filles...}
-{431}{}{Mon pote sait vraiment bien organiser les fêtes.}
-{432}{}{C'est bientôt l'heure de faire la fête !}
-{433}{}{La fête ! J'aimerais déjà y être !}
-{440}{}{Hé, quoi de neuf ? C'est presque l'heure de la fête !}
+{430}{}{Je me languis de cette fÃªte ! J'espÃ¨re qu'il va "rÃ©inviter" ses filles...}
+{431}{}{Mon pote sait vraiment bien organiser les fÃªtes.}
+{432}{}{C'est bientÃ´t l'heure de faire la fÃªte !}
+{433}{}{La fÃªte ! J'aimerais dÃ©jÃ  y Ãªtre !}
+{440}{}{HÃ©, quoi de neuf ? C'est presque l'heure de la fÃªte !}
 {441}{}{Quoi de neuf ?}
-{442}{}{J'ai quelques renseignements susceptibles de t'intéresser.}
+{442}{}{J'ai quelques renseignements susceptibles de t'intÃ©resser.}
 {443}{}{Rien.}
 {444}{}{Argh.}
 {445}{}{Ouga ?}
-{450}{}{Merde, qu'est-ce que t'as aujourd'hui ? Arrête un peu de planer !}
+{450}{}{Merde, qu'est-ce que t'as aujourd'hui ? ArrÃªte un peu de planer !}
 {451}{}{Les stimulants, c'est mauvais pour toi, mon vieux.}
 {452}{}{Les stimulants, c'est mauvais pour toi, ma vieille.}
 {453}{}{[grognement]}
 {460}{}{Ah ouais ? Et quoi donc ?}
-{461}{}{Les infos, ça s'paie...}
+{461}{}{Les infos, Ã§a s'paie...}
 {462}{}{Lara doit faire une descente ici ce soir.}
 {463}{}{Attends une minute.}
-{470}{}{Tiens. Tu l'as bien gagné ton argent. Ca fait un bon moment qu'j'essaie de les liquider.}
-{480}{}{Va t'faire foutre. Ca dépend de ce que c'est. Dis-moi et après, je déciderai si je te paie ou non.}
+{470}{}{Tiens. Tu l'as bien gagnÃ© ton argent. Ca fait un bon moment qu'j'essaie de les liquider.}
+{480}{}{Va t'faire foutre. Ca dÃ©pend de ce que c'est. Dis-moi et aprÃ¨s, je dÃ©ciderai si je te paie ou non.}
 {481}{}{Lara doit faire une descente ici ce soir.}
-{482}{}{Non, désolé.}
-{490}{}{Ah bon ? Alors elle a des couilles finalement ? Bon, ça vaut $100.}
+{482}{}{Non, dÃ©solÃ©.}
+{490}{}{Ah bon ? Alors elle a des couilles finalement ? Bon, Ã§a vaut $100.}
 {491}{}{Merci.}
-{500}{}{Pas si vite. D'abord, je veux voir... Tu pourrais très bien me mentir après tout. Fais en sorte qu'ils se montrent et ensuite, je te paierai.}
+{500}{}{Pas si vite. D'abord, je veux voir... Tu pourrais trÃ¨s bien me mentir aprÃ¨s tout. Fais en sorte qu'ils se montrent et ensuite, je te paierai.}
 {501}{}{Mais, j'fais l'amour moi, pas la guerre.}
-{502}{}{Ca m'a l'air honnête.}
-{510}{}{Ecoute, j'en ai rien à cirer de savoir c'que tu fais ! Tu n'auras pas un dollar avant qu'ils se montrent. On se battra, mais assure-toi qu'ils viennent.}
+{502}{}{Ca m'a l'air honnÃªte.}
+{510}{}{Ecoute, j'en ai rien Ã  cirer de savoir c'que tu fais ! Tu n'auras pas un dollar avant qu'ils se montrent. On se battra, mais assure-toi qu'ils viennent.}
 {511}{}{Ok.}
 {600}{}{Alors, c'est toi la nouvelle coqueluche du Patron ?}
 {601}{}{Que veux-tu ?}
 {602}{}{Qu'est-ce qu'il a Metzger, il ne nous fait plus confiance ?}
-{603}{}{T'as fini de vérifier cette camelote ?}
+{603}{}{T'as fini de vÃ©rifier cette camelote ?}
 {604}{}{Je t'avais dit que la camelote de Metzger n'irait nulle part.}
-{605}{}{Alors, tu as bientôt fini ou quoi ?}
+{605}{}{Alors, tu as bientÃ´t fini ou quoi ?}
 {606}{}{Je parie que Metzger a besoin de toi. Va vite voir.}
 {607}{}{Il y a quelque chose qui tourne pas rond chez Metzger. Il croit qu'on ne surveille pas son matos...}
-{608}{}{T'es encore là ! T'as pas une autre course à faire pour Metzger ?}
+{608}{}{T'es encore lÃ  ! T'as pas une autre course Ã  faire pour Metzger ?}
 {609}{}{Alors, c'est toi la nouvelle coqueluche du Patron ?}
 {700}{}{Je ne suis pas d'humeur.}
 {701}{}{Pas maintenant.}
-{702}{}{J'ai à faire.}
-{710}{}{L'enfoiré est de retour ! Alors, tu cherches quoi dans cette église ? Pourquoi ? Il n'y a rien ici qui pourrait t'intéresser.}
+{702}{}{J'ai Ã  faire.}
+{710}{}{L'enfoirÃ© est de retour ! Alors, tu cherches quoi dans cette Ã©glise ? Pourquoi ? Il n'y a rien ici qui pourrait t'intÃ©resser.}
 {711}{}{Bordel, mais que veux-tu ?}
 {712}{}{Tu vois cette marque sur mon front ? Laisse-moi entrer. Tout de suite.}
-{713}{}{Je suis sa nouvelle nana, c'est pour ça. Si tu ne me laisses pas immédiatement entrer, je parie que tu seras en haut de sa liste d'ordures.}
+{713}{}{Je suis sa nouvelle nana, c'est pour Ã§a. Si tu ne me laisses pas immÃ©diatement entrer, je parie que tu seras en haut de sa liste d'ordures.}
 {714}{}{Ecoute, mon pote. Metzger va me faire la peau si je n'inspecte pas tout rapidement. Tu sais comment il est.}
-{715}{}{Putain, ce ne sont pas tes affaires. Si le Boss veut qu'on vérifie sa merde, je le fais. Je ne pose pas de questions.}
+{715}{}{Putain, ce ne sont pas tes affaires. Si le Boss veut qu'on vÃ©rifie sa merde, je le fais. Je ne pose pas de questions.}
 {716}{}{Ca ne fait rien.}
 {717}{}{Shaka ?}
-{800}{}{Qui est - Hé ! C'est toi. Tu viens faire la fête <Hips> avec nous. Je sais que tu en as envie. (Tyler trébuche sur toi et t'attrape l'épaule) Je t'ai déjà dit à quel point je - (Il remarque le gang de Lara) Putain de merde ! Pas question ! Cette fête ne se terminera pas <Hips> à cause d'une salope et ses larbins. C'est l'heure de se défoncer les gars !}
+{800}{}{Qui est - HÃ© ! C'est toi. Tu viens faire la fÃªte <Hips> avec nous. Je sais que tu en as envie. (Tyler trÃ©buche sur toi et t'attrape l'Ã©paule) Je t'ai dÃ©jÃ  dit Ã  quel point je - (Il remarque le gang de Lara) Putain de merde ! Pas question ! Cette fÃªte ne se terminera pas <Hips> Ã  cause d'une salope et ses larbins. C'est l'heure de se dÃ©foncer les gars !}
 {801}{}{[FIN]}
 {1255}{}{ !}

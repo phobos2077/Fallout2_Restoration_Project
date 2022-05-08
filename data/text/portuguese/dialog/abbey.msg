@@ -1,1 +1,1 @@
-{100}{}{Você encontrou um mosteiro e uma pequena comunidade construída em torno dele.}
+{100}{}{VocÃª encontrou um mosteiro e uma pequena comunidade construÃ­da em torno dele.}

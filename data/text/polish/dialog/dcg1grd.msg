@@ -1,33 +1,33 @@
-{100}{}{Widzisz stra¿niczkê.}
-{150}{}{To jeden ze stra¿ników Tylera.}
-{151}{}{To jedna ze stra¿niczek Tylera.}
-{200}{}{Jeszcze ¿yjesz?}
-{210}{}{Aleœmy im pokazali, co?}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{150}{}{To jeden ze straÅ¼nikÃ³w Tylera.}
+{151}{}{To jedna ze straÅ¼niczek Tylera.}
+{200}{}{Jeszcze Å¼yjesz?}
+{210}{}{AleÅ›my im pokazali, co?}
 {211}{}{Nikt z nami nie zadziera.}
-{212}{}{Skopaliœmy im dupy.}
-{213}{}{Skoñczyliœmy z nimi w sam¹ porê.}
-{214}{}{Nie mogê zapomnieæ jego miny. To by³o œwietne.}
-{215}{}{Dziwiê siê, ¿e Metzger siê o to nie wkurzy³.}
-{216}{}{Ciekawe dlaczego Metzger siê nie wtr¹ci³.}
-{225}{}{Nie wiem, po co Metzger kaza³ nam pilnowaæ tego gówna.}
-{226}{}{Kto chcia³by to ukraœæ?}
-{227}{}{Ta robota to ³atwizna.}
+{212}{}{SkopaliÅ›my im dupy.}
+{213}{}{SkoÅ„czyliÅ›my z nimi w samÄ… porÄ™.}
+{214}{}{Nie mogÄ™ zapomnieÄ‡ jego miny. To byÅ‚o Å›wietne.}
+{215}{}{DziwiÄ™ siÄ™, Å¼e Metzger siÄ™ o to nie wkurzyÅ‚.}
+{216}{}{Ciekawe dlaczego Metzger siÄ™ nie wtrÄ…ciÅ‚.}
+{225}{}{Nie wiem, po co Metzger kazaÅ‚ nam pilnowaÄ‡ tego gÃ³wna.}
+{226}{}{Kto chciaÅ‚by to ukraÅ›Ä‡?}
+{227}{}{Ta robota to Å‚atwizna.}
 {228}{}{Nikt z nami nigdy nie zadziera.}
-{229}{}{To pochodzi chyba z jakiejœ Krypty.}
-{230}{}{Czego ty tu w ogóle szukasz?}
+{229}{}{To pochodzi chyba z jakiejÅ› Krypty.}
+{230}{}{Czego ty tu w ogÃ³le szukasz?}
 {231}{}{Tutaj nikogo nie ma, tylko my, myszy.}
-{232}{}{Nie traæ czasu. Sprawdzaliœmy to ju¿ milion razy.}
+{232}{}{Nie traÄ‡ czasu. SprawdzaliÅ›my to juÅ¼ milion razy.}
 {233}{}{To jest ta noc.}
-{234}{}{Nie znoszê czekania.}
-{235}{}{Stawiam kolejkê za tê akcjê.}
-{236}{}{Czy to ju¿ teraz? Nie mogê siê doczekaæ.}
-{237}{}{Mam nadziejê, ¿e ustrzelê pierwszego.}
-{238}{}{Dlaczego czekali tak d³ugo, ¿eby z nami zadrzeæ?}
-{239}{}{To bêdzie interesuj¹ce.}
-{240}{}{Szkoda, ¿e wszystko rozesz³o siê po koœciach.}
+{234}{}{Nie znoszÄ™ czekania.}
+{235}{}{Stawiam kolejkÄ™ za tÄ™ akcjÄ™.}
+{236}{}{Czy to juÅ¼ teraz? Nie mogÄ™ siÄ™ doczekaÄ‡.}
+{237}{}{Mam nadziejÄ™, Å¼e ustrzelÄ™ pierwszego.}
+{238}{}{Dlaczego czekali tak dÅ‚ugo, Å¼eby z nami zadrzeÄ‡?}
+{239}{}{To bÄ™dzie interesujÄ…ce.}
+{240}{}{Szkoda, Å¼e wszystko rozeszÅ‚o siÄ™ po koÅ›ciach.}
 {241}{}{Ciekawe dlaczego zmienili zdanie.}
 {242}{}{Tyle czekania na nic.}
-{243}{}{Wiêc co siê sta³o z t¹ pu³apk¹, któr¹ dziêki tobie zastawiliœmy?}
-{244}{}{Co siê sta³o tamtej nocy?}
-{245}{}{Szkoda, ¿e ci tchórze spietrali. Dobrze by³oby wreszcie ich odstrzeliæ.}
-{246}{}{Nie mogê uwierzyæ, ¿e te bêkarty planowa³y napaœæ na nas.}
+{243}{}{WiÄ™c co siÄ™ staÅ‚o z tÄ… puÅ‚apkÄ…, ktÃ³rÄ… dziÄ™ki tobie zastawiliÅ›my?}
+{244}{}{Co siÄ™ staÅ‚o tamtej nocy?}
+{245}{}{Szkoda, Å¼e ci tchÃ³rze spietrali. Dobrze byÅ‚oby wreszcie ich odstrzeliÄ‡.}
+{246}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e te bÄ™karty planowaÅ‚y napaÅ›Ä‡ na nas.}

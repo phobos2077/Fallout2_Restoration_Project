@@ -1,6 +1,6 @@
 {100}{}{Ves un terminal de computadora.}
 {101}{}{Ves el terminal de una biblioteca.}
-{102}{}{Ves un terminal est醤dar. Parece estar funcionando y listo para usar.}
-{103}{}{Accedes a la computadora y r醦idamente escaneas todos los archivos disponibles. Encuentras la localizaci髇 del Refugio 13 y lo copias en tu PipBoy.}
+{102}{}{Ves un terminal est谩ndar. Parece estar funcionando y listo para usar.}
+{103}{}{Accedes a la computadora y r谩pidamente escaneas todos los archivos disponibles. Encuentras la localizaci贸n del Refugio 13 y lo copias en tu PipBoy.}
 {104}{}{Tienes dificultades para acceder a los archivos.}
-{106}{}{Con excepci髇 de la localizaci髇 del Refugio 13, la computadora no contiene m醩 informaci髇 鷗il.}
+{106}{}{Con excepci贸n de la localizaci贸n del Refugio 13, la computadora no contiene m谩s informaci贸n 煤til.}

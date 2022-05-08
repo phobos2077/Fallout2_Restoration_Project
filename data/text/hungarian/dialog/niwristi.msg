@@ -1,14 +1,14 @@
-{100}{}{Ez egy hatalmas alkohollepárló. Halk búgó hangot ad.}
-{110}{}{Ez egy hatalmas alkohollepárló. A belsejében egy radskorpió farok úszik.}
-{120}{}{Ez egy hatalmas alkohollepárló. Romos állapotban van, és eléggé javíthatatlannak t?nik.}
-{130}{}{A lepárló csikorogva leáll. Eléggé megjavíthatatlan állapotba került.}
-{140}{}{Beledobod a lepárlóba, és figyeled, ahogy lesüllyed az aljára. Közben a méregtasakból folyamatosan szivárog a méreg.}
-{150}{}{Eléggé megjavíthatatlannak t?nik.}
-{200}{}{::Csikorgás::}
-{201}{}{::Kattanás::}
-{202}{}{::Nyikorgás::}
-{203}{}{::Kerregés::}
-{204}{}{::Kattogás::}
+{100}{}{Ez egy hatalmas alkohollepÃ¡rlÃ³. Halk bÃºgÃ³ hangot ad.}
+{110}{}{Ez egy hatalmas alkohollepÃ¡rlÃ³. A belsejÃ©ben egy radskorpiÃ³ farok Ãºszik.}
+{120}{}{Ez egy hatalmas alkohollepÃ¡rlÃ³. Romos Ã¡llapotban van, Ã©s elÃ©ggÃ© javÃ­thatatlannak t?nik.}
+{130}{}{A lepÃ¡rlÃ³ csikorogva leÃ¡ll. ElÃ©ggÃ© megjavÃ­thatatlan Ã¡llapotba kerÃ¼lt.}
+{140}{}{Beledobod a lepÃ¡rlÃ³ba, Ã©s figyeled, ahogy lesÃ¼llyed az aljÃ¡ra. KÃ¶zben a mÃ©regtasakbÃ³l folyamatosan szivÃ¡rog a mÃ©reg.}
+{150}{}{ElÃ©ggÃ© megjavÃ­thatatlannak t?nik.}
+{200}{}{::CsikorgÃ¡s::}
+{201}{}{::KattanÃ¡s::}
+{202}{}{::NyikorgÃ¡s::}
+{203}{}{::KerregÃ©s::}
+{204}{}{::KattogÃ¡s::}
 {250}{}{Hmmmmmmmm}
 {251}{}{Thmmmmmmm}
 {300}{}{You have destroyed family Wright's stills.}

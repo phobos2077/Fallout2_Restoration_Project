@@ -1,1 +1,1 @@
-{100}{}{Du siehst die sterblichen Überreste einiger Bürger von Broken Hills.}
+{100}{}{Du siehst die sterblichen Ãœberreste einiger BÃ¼rger von Broken Hills.}

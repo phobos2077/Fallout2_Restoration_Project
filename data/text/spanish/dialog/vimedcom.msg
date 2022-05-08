@@ -1,83 +1,83 @@
-{100}{}{Este terminal está mostrando una serie de resplandecientes barras verdes que suben y bajan con un ritmo irregular.}
-{101}{}{ves una terminal médico de Ciudad Refugio. }
-{102}{}{Este terminal está mostrando una serie de resplandecientes barras verdes que suben y bajan con un ritmo irregular.}
-{103}{}{Podrías obtener más información de este terminal con una aproximación más científica.}
-{104}{}{Parece que no puedes entender cómo funciona este terminal.}
+{100}{}{Este terminal estÃ¡ mostrando una serie de resplandecientes barras verdes que suben y bajan con un ritmo irregular.}
+{101}{}{ves una terminal mÃ©dico de Ciudad Refugio. }
+{102}{}{Este terminal estÃ¡ mostrando una serie de resplandecientes barras verdes que suben y bajan con un ritmo irregular.}
+{103}{}{PodrÃ­as obtener mÃ¡s informaciÃ³n de este terminal con una aproximaciÃ³n mÃ¡s cientÃ­fica.}
+{104}{}{Parece que no puedes entender cÃ³mo funciona este terminal.}
 {105}{}{Malditas computadoras.}
-{106}{}{Parece que no puedes entender cómo funciona este terminal.}
+{106}{}{Parece que no puedes entender cÃ³mo funciona este terminal.}
 {107}{}{Com-putador feo}
-{108}{}{Has entrado en la base de datos médica de Ciudad Refugio. Aunque la interfaz es difícil de
- entender, la base de datos en sí parece estar dividida en una serie de archivos.}
-{109}{}{Buscas en los archivos la localización de Refugios.}
-{110}{}{Buscas en los archivos cualquier mención del Kit de Creación del Jardín del Edén.}
-{111}{}{Buscas en la base de datos médica cualquier cosa de interés.}
-{112}{}{Finalizas la sesión en el terminal.}
-{113}{}{Usted no encontrará ninguna referencia de Bóvedas en la base de datos. Es sobre todo información médica relacionada
- a la anatomía, enfermedades, medicamentos, tratamientos e implantes.}
-{114}{}{Buscas en los archivos cualquier mención del Kit de Creación del Jardín del Edén.}
-{115}{}{Buscas en la base de datos médica cualquier cosa de interés.}
-{116}{}{Finalizas la sesión en el terminal.}
-{117}{}{Usted no encontrará ninguna referencia a la GECK en la base de datos. Es, en su mayoría médicos de archivos relativos a
- anatomía, enfermedades, medicamentos, tratamientos e implantes.}
-{118}{}{Buscas en los archivos la localización de Refugios.}
-{119}{}{Buscas en la base de datos médica cualquier cosa de interés.}
-{120}{}{Finalizas la sesión en el terminal.}
-{121}{}{Buscas en la base de datos, pero la terminología médica es demasiado críptica para entenderla. Si supieras
- más sobre la profesión médica, no sería un problema.}
+{108}{}{Has entrado en la base de datos mÃ©dica de Ciudad Refugio. Aunque la interfaz es difÃ­cil de
+ entender, la base de datos en sÃ­ parece estar dividida en una serie de archivos.}
+{109}{}{Buscas en los archivos la localizaciÃ³n de Refugios.}
+{110}{}{Buscas en los archivos cualquier menciÃ³n del Kit de CreaciÃ³n del JardÃ­n del EdÃ©n.}
+{111}{}{Buscas en la base de datos mÃ©dica cualquier cosa de interÃ©s.}
+{112}{}{Finalizas la sesiÃ³n en el terminal.}
+{113}{}{Usted no encontrarÃ¡ ninguna referencia de BÃ³vedas en la base de datos. Es sobre todo informaciÃ³n mÃ©dica relacionada
+ a la anatomÃ­a, enfermedades, medicamentos, tratamientos e implantes.}
+{114}{}{Buscas en los archivos cualquier menciÃ³n del Kit de CreaciÃ³n del JardÃ­n del EdÃ©n.}
+{115}{}{Buscas en la base de datos mÃ©dica cualquier cosa de interÃ©s.}
+{116}{}{Finalizas la sesiÃ³n en el terminal.}
+{117}{}{Usted no encontrarÃ¡ ninguna referencia a la GECK en la base de datos. Es, en su mayorÃ­a mÃ©dicos de archivos relativos a
+ anatomÃ­a, enfermedades, medicamentos, tratamientos e implantes.}
+{118}{}{Buscas en los archivos la localizaciÃ³n de Refugios.}
+{119}{}{Buscas en la base de datos mÃ©dica cualquier cosa de interÃ©s.}
+{120}{}{Finalizas la sesiÃ³n en el terminal.}
+{121}{}{Buscas en la base de datos, pero la terminologÃ­a mÃ©dica es demasiado crÃ­ptica para entenderla. Si supieras
+ mÃ¡s sobre la profesiÃ³n mÃ©dica, no serÃ­a un problema.}
 {122}{}{Continuas buscando en los archivos de la computadora.}
-{123}{}{Finalizas la sesión en el terminal.}
-{124}{}{Buscas en la base de datos y te sorprende la información contenida en los archivos. La investigación
- actual llevada a cabo en Ciudad Refugio es fascinante, y su tecnología médica es muy superior a cualquiera que
+{123}{}{Finalizas la sesiÃ³n en el terminal.}
+{124}{}{Buscas en la base de datos y te sorprende la informaciÃ³n contenida en los archivos. La investigaciÃ³n
+ actual llevada a cabo en Ciudad Refugio es fascinante, y su tecnologÃ­a mÃ©dica es muy superior a cualquiera que
  hayas visto antes.}
-{125}{}{Buscas en la base de datos pero no descubres nada nuevo. Los esquemas de implantes fueron la información
- más útil de los archivos. Es posible que te hayas dejado algo, pero crees que es poco probable.}
-{126}{}{Buscas en la base de datos... otra vez... pero no descubres nada nuevo. Quizá si buscas veinte
- veces más, encuentres algo nuevo.}
-{127}{}{Debes estar de broma. De verdad que no hay nada más aquí. Quizá si escarbases entre los archivos
- treinta veces más, podrías encontrar algo profundamente enterrado en uno de ellos. Ja-ja.}
-{128}{}{Eh... oye. Sigue jugando al resto del juego. No puedes estar aquí encerrado para siempre.}
+{125}{}{Buscas en la base de datos pero no descubres nada nuevo. Los esquemas de implantes fueron la informaciÃ³n
+ mÃ¡s Ãºtil de los archivos. Es posible que te hayas dejado algo, pero crees que es poco probable.}
+{126}{}{Buscas en la base de datos... otra vez... pero no descubres nada nuevo. QuizÃ¡ si buscas veinte
+ veces mÃ¡s, encuentres algo nuevo.}
+{127}{}{Debes estar de broma. De verdad que no hay nada mÃ¡s aquÃ­. QuizÃ¡ si escarbases entre los archivos
+ treinta veces mÃ¡s, podrÃ­as encontrar algo profundamente enterrado en uno de ellos. Ja-ja.}
+{128}{}{Eh... oye. Sigue jugando al resto del juego. No puedes estar aquÃ­ encerrado para siempre.}
 {129}{}{Pues vale. Sigue buscando. Ya ves si me importa.}
-{130}{}{Sólo estás perdiendo el tiempo.}
-{131}{}{Tu inteligencia es 4, ¿verdad?}
+{130}{}{SÃ³lo estÃ¡s perdiendo el tiempo.}
+{131}{}{Tu inteligencia es 4, Â¿verdad?}
 {132}{}{Corta el rollo.}
-{133}{}{¿Por qué no vas a jugar con la enfermera?}
-{134}{}{¡Que no hay nada aquí!}
+{133}{}{Â¿Por quÃ© no vas a jugar con la enfermera?}
+{134}{}{Â¡Que no hay nada aquÃ­!}
 {135}{}{Buscas en los archivos y encuentras... nada.}
-{136}{}{Has investigado este terminal 53 veces. No has encontrado nada de interés.}
-{137}{}{Tenías que probar una vez más, ¿eh? Cristo.}
-{138}{}{Está bien, oye. Este es el gran secreto. Asegúrate de ir a visitar la computadora principal del nivel tres después
+{136}{}{Has investigado este terminal 53 veces. No has encontrado nada de interÃ©s.}
+{137}{}{TenÃ­as que probar una vez mÃ¡s, Â¿eh? Cristo.}
+{138}{}{EstÃ¡ bien, oye. Este es el gran secreto. AsegÃºrate de ir a visitar la computadora principal del nivel tres despuÃ©s
  de acabar el juego. Ahora sal del terminal y sigue jugando fuera.}
 {139}{}{Buscas en los archivos y encuentras... nada.}
-{140}{}{Continúas buscando en los archivos.}
+{140}{}{ContinÃºas buscando en los archivos.}
 {141}{}{Buscas en la base de datos de nuevo para asegurarte de que no te dejaste nada.}
-{142}{}{Continúas buscando en los archivos.}
-{143}{}{Finalizas la sesión en el terminal.}
-{144}{}{Pasas casi una hora estudiando los archivos. A medida que rebuscas más profundamente en la base de datos, te topas
- con una serie de archivos más antiguos que contienen esquemas para alguna clase de "implantes de combate".}
-{145}{}{Estudias la información sobre implantes.}
-{146}{}{Los esquemas detallan una operación para injertar placas de impacto y membranas de disipación térmica
- a un esqueleto humano, concediendo al sujeto resistencia al trauma físico y al calor. Parece un
+{142}{}{ContinÃºas buscando en los archivos.}
+{143}{}{Finalizas la sesiÃ³n en el terminal.}
+{144}{}{Pasas casi una hora estudiando los archivos. A medida que rebuscas mÃ¡s profundamente en la base de datos, te topas
+ con una serie de archivos mÃ¡s antiguos que contienen esquemas para alguna clase de "implantes de combate".}
+{145}{}{Estudias la informaciÃ³n sobre implantes.}
+{146}{}{Los esquemas detallan una operaciÃ³n para injertar placas de impacto y membranas de disipaciÃ³n tÃ©rmica
+ a un esqueleto humano, concediendo al sujeto resistencia al trauma fÃ­sico y al calor. Parece un
  procedimiento complicado.}
-{147}{}{Tomas nota de ello, y luego buscas más información en la base de datos.}
-{148}{}{Grabas la información, y luego finalizas la sesión en el terminal.}
-{149}{}{Has vuelto al menú principal. Una serie de archivos y programas de búsqueda se listan en la
+{147}{}{Tomas nota de ello, y luego buscas mÃ¡s informaciÃ³n en la base de datos.}
+{148}{}{Grabas la informaciÃ³n, y luego finalizas la sesiÃ³n en el terminal.}
+{149}{}{Has vuelto al menÃº principal. Una serie de archivos y programas de bÃºsqueda se listan en la
  pantalla del terminal.}
-{150}{}{Buscas cualquier mención del Refugio 13 en los archivos.}
-{151}{}{Buscas cualquier referencia al Kit de Creación del Jardín del Edén.}
-{152}{}{Buscas en la base de datos médica cualquier cosa de interés.}
-{153}{}{Finalizas la sesión en el terminal.}
-{200}{}{Has terminado de estudiar la base de datos médica de Ciudad Refugio.}
-{201}{}{Tu amigo trata de llamar tu atención sobre la ventana coloreada que hace BIP BIP, pero no crees que puedas encontrar la forma de abrirla, así que finalmente te aburres y lo dejas solo.}
+{150}{}{Buscas cualquier menciÃ³n del Refugio 13 en los archivos.}
+{151}{}{Buscas cualquier referencia al Kit de CreaciÃ³n del JardÃ­n del EdÃ©n.}
+{152}{}{Buscas en la base de datos mÃ©dica cualquier cosa de interÃ©s.}
+{153}{}{Finalizas la sesiÃ³n en el terminal.}
+{200}{}{Has terminado de estudiar la base de datos mÃ©dica de Ciudad Refugio.}
+{201}{}{Tu amigo trata de llamar tu atenciÃ³n sobre la ventana coloreada que hace BIP BIP, pero no crees que puedas encontrar la forma de abrirla, asÃ­ que finalmente te aburres y lo dejas solo.}
 {202}{}{Te alejas.}
 {203}{}{*Beep*}
 {204}{}{*Beeee-oop*}
 {205}{}{*Dweeee-oop*}
 {206}{}{*Bee-Oop*}
 {207}{}{*Beep*}
-{208}{}{¡PING!}
+{208}{}{Â¡PING!}
 {209}{}{Lo siento, Dave. Me temo que no puedo hacer eso.}
-{210}{}{¡Peligro! ¡Will Robinson!}
-{211}{}{Treinta segundos para alcanzar la distancia de seguridad mínima.}
-{212}{}{¡PING! ¡He dicho!}
+{210}{}{Â¡Peligro! Â¡Will Robinson!}
+{211}{}{Treinta segundos para alcanzar la distancia de seguridad mÃ­nima.}
+{212}{}{Â¡PING! Â¡He dicho!}
 {213}{}{Por favor, retire su tarjeta para recibir dinero.}
-{214}{}{Extraño juego. El único movimiento para ganar es no jugar.}
+{214}{}{ExtraÃ±o juego. El Ãºnico movimiento para ganar es no jugar.}

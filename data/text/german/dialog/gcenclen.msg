@@ -1,1 +1,1 @@
-{100}{}{Du hast soeben eine große Ebene außerhalb von Gecko betreten. Einige Leute hier tragen dir unbekannte High-tech Rüstungen und Waffen.}
+{100}{}{Du hast soeben eine groÃŸe Ebene auÃŸerhalb von Gecko betreten. Einige Leute hier tragen dir unbekannte High-tech RÃ¼stungen und Waffen.}

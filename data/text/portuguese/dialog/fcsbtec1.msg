@@ -1,11 +1,11 @@
-{100}{}{Você vê uma pessoa com um pijama engraçado. Ele parece preocupado.}
-{101}{}{Você vê um técnico de submarino Shi.}
-{150}{}{Uh, o que você está fazendo se esgueirando por aí?}
-{151}{}{Você é algum tipo de espião?}
+{100}{}{VocÃª vÃª uma pessoa com um pijama engraÃ§ado. Ele parece preocupado.}
+{101}{}{VocÃª vÃª um tÃ©cnico de submarino Shi.}
+{150}{}{Uh, o que vocÃª estÃ¡ fazendo se esgueirando por aÃ­?}
+{151}{}{VocÃª Ã© algum tipo de espiÃ£o?}
 {200}{}{Odeio trabalhar com esse lixo.}
-{201}{}{Vamos recalibrar isso... aí.}
+{201}{}{Vamos recalibrar isso... aÃ­.}
 {202}{}{Todos aqueles cabos soltos e nenhum isolamento aparecendo...}
-{203}{}{Tomara que eu não seja eletrocutado ao recarregar o gerador.}
+{203}{}{Tomara que eu nÃ£o seja eletrocutado ao recarregar o gerador.}
 {300}{}{Eai, estou ocupado aqui.}
 {301}{}{Desculpe, estou trabalhando.}
-{302}{}{Esses cabos não se consertam sozinhos, encontre alguém para incomodar.}
+{302}{}{Esses cabos nÃ£o se consertam sozinhos, encontre alguÃ©m para incomodar.}

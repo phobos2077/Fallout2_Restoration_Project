@@ -1,97 +1,97 @@
-{100}{}{Si³a}
+{100}{}{SiÅ‚a}
 {101}{}{Percepcja}
-{102}{}{Wytrzyma³oœæ}
+{102}{}{WytrzymaÅ‚oÅ›Ä‡}
 {103}{}{Charyzma}
 {104}{}{Inteligencja}
-{105}{}{Zrêcznoœæ}
-{106}{}{Szczêœcie}
+{105}{}{ZrÄ™cznoÅ›Ä‡}
+{106}{}{SzczÄ™Å›cie}
 {107}{}{Maks. PW}
 {108}{}{Maks. PA}
 {109}{}{Klasa pancerza}
-{110}{}{Obra¿enia bez broni}
-{111}{}{Obr. w walce wrêcz}
-{112}{}{UdŸwig}
+{110}{}{ObraÅ¼enia bez broni}
+{111}{}{Obr. w walce wrÄ™cz}
+{112}{}{UdÅºwig}
 {113}{}{Inicjatywa}
 {114}{}{Tempo zdrowienia}
 {115}{}{Szansa na trafienie krytyczne}
-{116}{}{Cz³owiek-demolka}
-{117}{}{Próg uszkodzeñ}
-{118}{}{Próg uszkodzeñ - laser}
-{119}{}{Próg uszkodzeñ - ogieñ}
-{120}{}{Próg uszkodzeñ - plazma}
-{121}{}{Próg uszkodzeñ - elektrycznoœæ}
-{122}{}{Próg uszkodzeñ - EMP}
-{123}{}{Próg uszkodzeñ - eksplozje}
-{124}{}{Odpornoœæ na obra¿enia}
-{125}{}{Odpornoœæ na obra¿enia - laser}
-{126}{}{Odpornoœæ na obra¿enia - ogieñ}
-{127}{}{Odpornoœæ na obra¿enia - plazma}
-{128}{}{Odpornoœæ na obra¿enia - elektrycznoœæ}
-{129}{}{Odpornoœæ na obra¿enia - EMP}
-{130}{}{Odpornoœæ na obra¿enia - eksplozje}
-{131}{}{Odpornoœæ na promieniowanie}
-{132}{}{Odpornoœæ na trucizny}
+{116}{}{CzÅ‚owiek-demolka}
+{117}{}{PrÃ³g uszkodzeÅ„}
+{118}{}{PrÃ³g uszkodzeÅ„ - laser}
+{119}{}{PrÃ³g uszkodzeÅ„ - ogieÅ„}
+{120}{}{PrÃ³g uszkodzeÅ„ - plazma}
+{121}{}{PrÃ³g uszkodzeÅ„ - elektrycznoÅ›Ä‡}
+{122}{}{PrÃ³g uszkodzeÅ„ - EMP}
+{123}{}{PrÃ³g uszkodzeÅ„ - eksplozje}
+{124}{}{OdpornoÅ›Ä‡ na obraÅ¼enia}
+{125}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - laser}
+{126}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - ogieÅ„}
+{127}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - plazma}
+{128}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - elektrycznoÅ›Ä‡}
+{129}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - EMP}
+{130}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - eksplozje}
+{131}{}{OdpornoÅ›Ä‡ na promieniowanie}
+{132}{}{OdpornoÅ›Ä‡ na trucizny}
 {133}{}{Wiek}
-{134}{}{P³eæ}
+{134}{}{PÅ‚eÄ‡}
 {135}{}{PW}
 {136}{}{Poziom zatrucia}
 {137}{}{Poziom napromieniowania}
-{200}{}{Surowa si³a fizyczna. Wysoka przydaje siê zw³aszcza osobom toruj¹cym sobie drogê przez ¿ycie za pomoc¹ piêœci. Si³a okreœla liczbê punktów wytrzyma³oœci, iloœæ obra¿eñ zadawanych w walce wrêcz oraz udŸwig.}
-{201}{}{Zdolnoœæ widzenia, s³yszenia, smakowania oraz zauwa¿ania niezwyk³ych rzeczy. Wysoka percepcja potrzebna jest strzelcowi wyborowemu. Wp³ywa ona na inicjatywê oraz modyfikatory dystansu w walce na odleg³oœæ.}
-{202}{}{Tê¿yzna i krzepkoœæ fizyczna. Wytrzyma³oœæ determinuje liczbê PW, odpornoœæ na trucizny i prom., tempo zdrowienia oraz liczbê PW otrzymywanych przy awansie na wy¿szy poziom.}
-{203}{}{Po³¹czenie aparycji i uroku osobistego. Wysoka charyzma wa¿na jest dla postaci, które pragn¹ wp³ywaæ na innych za pomoc¹ s³ów. Modyfikuje ona reakcje innych osób oraz ceny.}
-{204}{}{Wiedza, m¹droœæ ¿yciowa i zdolnoœæ szybkiego myœlenia. Okreœla liczbê nowych punktów umiejêtnoœci otrzymywanych przy awansie, dostêpne opcje dialogowe i poziom wielu umiejêtnoœci.}
-{205}{}{Koordynacja ruchowa i zdolnoœæ sprawnego poruszania siê. Wp³ywa na liczbê dostêpnych punktów akcji, klasê pancerza, inicjatywê oraz poziom wielu umiejêtnoœci.}
-{206}{}{Los. Karma. Skrajnie wysokie lub niskie szczêœcie wp³ywa na twoj¹ postaæ w taki czy inny sposób. Wydarzenia i sytuacje zmieniaj¹ siê w zale¿noœci od tego, jak bardzo jest ona obdarzona szczêœciem (lub pechem).}
-{207}{}{Liczba punktów wytrzyma³oœci (PW) obrazuje iloœæ obra¿eñ, jakie mo¿e znieœæ twój organizm nim nast¹pi jego œmieræ. Jeœli zejdziesz do poziomu 0 PW lub ni¿szego, jesteœ trupem.}
-{208}{}{Twoje punkty akcji (PA) wyznaczaj¹ zakres dzia³añ, które mo¿esz podj¹æ w trakcie pojedynczej tury walki.}
-{209}{}{Modyfikuje prawdopodobieñstwo trafienia ciê przez przeciwników.}
-{210}{}{Wielkoœæ dodatkowych obra¿eñ, które zadajesz przeciwnikom w walce wrêcz.}
-{211}{}{Wielkoœæ dodatkowych obra¿eñ, które zadajesz przeciwnikom w walce wrêcz.}
-{212}{}{Maksymalny ciê¿ar ekwipunku, który jesteœ w stanie nieœæ, wyra¿ony w funtach.}
-{213}{}{Okreœla, po uwzglêdnieniu inicjatyw innych postaci, moment tury walki, w którym mo¿esz podj¹æ dzia³anie.}
-{214}{}{Pod koniec ka¿dego dnia odzyskujesz 1 utracony PW na ka¿dy punkt tempa twojego zdrowienia. Gdy œpisz, proces samoczynnego zdrowienia daje takie same efekty co 6 godzin.}
-{215}{}{Szansa na zadanie przez ciebie krytycznego trafienia przeciwnikowi podczas ataku roœnie o tê wartoœæ.}
-{216}{}{Cz³owiek-demolka}
-{217}{}{Próg uszkodzeñ}
-{218}{}{Próg uszkodzeñ - laser}
-{219}{}{Próg uszkodzeñ - ogieñ}
-{220}{}{Próg uszkodzeñ - plazma}
-{221}{}{Próg uszkodzeñ - elektrycznoœæ}
-{222}{}{Próg uszkodzeñ - EMP}
-{223}{}{Próg uszkodzeñ - eksplozje}
-{224}{}{Wielkoœæ wszelkich obra¿eñ ponoszonych przez twój organizm maleje o tê wartoœæ. Mo¿esz podwy¿szyæ tw¹ odpornoœæ poprzez stosowanie uzbrojenia ochronnego.}
-{225}{}{Odpornoœæ na obra¿enia - laser}
-{226}{}{Odpornoœæ na obra¿enia - ogieñ}
-{227}{}{Odpornoœæ na obra¿enia - plazma}
-{228}{}{Odpornoœæ na obra¿enia - elektrycznoœæ}
-{229}{}{Odpornoœæ na obra¿enia - EMP}
-{230}{}{Odpornoœæ na obra¿enia - eksplozje}
-{231}{}{Dawka radiacji, jaka ewentualnie dociera do twojego organizmu, ulega zmniejszeniu o tê wielkoœæ. Mo¿e siê zmieniaæ w zale¿noœci od typu u¿ywanej przez ciebie odzie¿y ochronnej oraz pod wp³ywem narkotyków antyradiacyjnych.}
-{232}{}{Obra¿enia wywo³ane przez zatrucie (w szczególnoœci jadem) s¹ pomniejszane o tê wartoœæ.}
+{200}{}{Surowa siÅ‚a fizyczna. Wysoka przydaje siÄ™ zwÅ‚aszcza osobom torujÄ…cym sobie drogÄ™ przez Å¼ycie za pomocÄ… piÄ™Å›ci. SiÅ‚a okreÅ›la liczbÄ™ punktÃ³w wytrzymaÅ‚oÅ›ci, iloÅ›Ä‡ obraÅ¼eÅ„ zadawanych w walce wrÄ™cz oraz udÅºwig.}
+{201}{}{ZdolnoÅ›Ä‡ widzenia, sÅ‚yszenia, smakowania oraz zauwaÅ¼ania niezwykÅ‚ych rzeczy. Wysoka percepcja potrzebna jest strzelcowi wyborowemu. WpÅ‚ywa ona na inicjatywÄ™ oraz modyfikatory dystansu w walce na odlegÅ‚oÅ›Ä‡.}
+{202}{}{TÄ™Å¼yzna i krzepkoÅ›Ä‡ fizyczna. WytrzymaÅ‚oÅ›Ä‡ determinuje liczbÄ™ PW, odpornoÅ›Ä‡ na trucizny i prom., tempo zdrowienia oraz liczbÄ™ PW otrzymywanych przy awansie na wyÅ¼szy poziom.}
+{203}{}{PoÅ‚Ä…czenie aparycji i uroku osobistego. Wysoka charyzma waÅ¼na jest dla postaci, ktÃ³re pragnÄ… wpÅ‚ywaÄ‡ na innych za pomocÄ… sÅ‚Ã³w. Modyfikuje ona reakcje innych osÃ³b oraz ceny.}
+{204}{}{Wiedza, mÄ…droÅ›Ä‡ Å¼yciowa i zdolnoÅ›Ä‡ szybkiego myÅ›lenia. OkreÅ›la liczbÄ™ nowych punktÃ³w umiejÄ™tnoÅ›ci otrzymywanych przy awansie, dostÄ™pne opcje dialogowe i poziom wielu umiejÄ™tnoÅ›ci.}
+{205}{}{Koordynacja ruchowa i zdolnoÅ›Ä‡ sprawnego poruszania siÄ™. WpÅ‚ywa na liczbÄ™ dostÄ™pnych punktÃ³w akcji, klasÄ™ pancerza, inicjatywÄ™ oraz poziom wielu umiejÄ™tnoÅ›ci.}
+{206}{}{Los. Karma. Skrajnie wysokie lub niskie szczÄ™Å›cie wpÅ‚ywa na twojÄ… postaÄ‡ w taki czy inny sposÃ³b. Wydarzenia i sytuacje zmieniajÄ… siÄ™ w zaleÅ¼noÅ›ci od tego, jak bardzo jest ona obdarzona szczÄ™Å›ciem (lub pechem).}
+{207}{}{Liczba punktÃ³w wytrzymaÅ‚oÅ›ci (PW) obrazuje iloÅ›Ä‡ obraÅ¼eÅ„, jakie moÅ¼e znieÅ›Ä‡ twÃ³j organizm nim nastÄ…pi jego Å›mierÄ‡. JeÅ›li zejdziesz do poziomu 0 PW lub niÅ¼szego, jesteÅ› trupem.}
+{208}{}{Twoje punkty akcji (PA) wyznaczajÄ… zakres dziaÅ‚aÅ„, ktÃ³re moÅ¼esz podjÄ…Ä‡ w trakcie pojedynczej tury walki.}
+{209}{}{Modyfikuje prawdopodobieÅ„stwo trafienia ciÄ™ przez przeciwnikÃ³w.}
+{210}{}{WielkoÅ›Ä‡ dodatkowych obraÅ¼eÅ„, ktÃ³re zadajesz przeciwnikom w walce wrÄ™cz.}
+{211}{}{WielkoÅ›Ä‡ dodatkowych obraÅ¼eÅ„, ktÃ³re zadajesz przeciwnikom w walce wrÄ™cz.}
+{212}{}{Maksymalny ciÄ™Å¼ar ekwipunku, ktÃ³ry jesteÅ› w stanie nieÅ›Ä‡, wyraÅ¼ony w funtach.}
+{213}{}{OkreÅ›la, po uwzglÄ™dnieniu inicjatyw innych postaci, moment tury walki, w ktÃ³rym moÅ¼esz podjÄ…Ä‡ dziaÅ‚anie.}
+{214}{}{Pod koniec kaÅ¼dego dnia odzyskujesz 1 utracony PW na kaÅ¼dy punkt tempa twojego zdrowienia. Gdy Å›pisz, proces samoczynnego zdrowienia daje takie same efekty co 6 godzin.}
+{215}{}{Szansa na zadanie przez ciebie krytycznego trafienia przeciwnikowi podczas ataku roÅ›nie o tÄ™ wartoÅ›Ä‡.}
+{216}{}{CzÅ‚owiek-demolka}
+{217}{}{PrÃ³g uszkodzeÅ„}
+{218}{}{PrÃ³g uszkodzeÅ„ - laser}
+{219}{}{PrÃ³g uszkodzeÅ„ - ogieÅ„}
+{220}{}{PrÃ³g uszkodzeÅ„ - plazma}
+{221}{}{PrÃ³g uszkodzeÅ„ - elektrycznoÅ›Ä‡}
+{222}{}{PrÃ³g uszkodzeÅ„ - EMP}
+{223}{}{PrÃ³g uszkodzeÅ„ - eksplozje}
+{224}{}{WielkoÅ›Ä‡ wszelkich obraÅ¼eÅ„ ponoszonych przez twÃ³j organizm maleje o tÄ™ wartoÅ›Ä‡. MoÅ¼esz podwyÅ¼szyÄ‡ twÄ… odpornoÅ›Ä‡ poprzez stosowanie uzbrojenia ochronnego.}
+{225}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - laser}
+{226}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - ogieÅ„}
+{227}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - plazma}
+{228}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - elektrycznoÅ›Ä‡}
+{229}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - EMP}
+{230}{}{OdpornoÅ›Ä‡ na obraÅ¼enia - eksplozje}
+{231}{}{Dawka radiacji, jaka ewentualnie dociera do twojego organizmu, ulega zmniejszeniu o tÄ™ wielkoÅ›Ä‡. MoÅ¼e siÄ™ zmieniaÄ‡ w zaleÅ¼noÅ›ci od typu uÅ¼ywanej przez ciebie odzieÅ¼y ochronnej oraz pod wpÅ‚ywem narkotykÃ³w antyradiacyjnych.}
+{232}{}{ObraÅ¼enia wywoÅ‚ane przez zatrucie (w szczegÃ³lnoÅ›ci jadem) sÄ… pomniejszane o tÄ™ wartoÅ›Ä‡.}
 {233}{}{Wiek}
-{234}{}{P³eæ}
+{234}{}{PÅ‚eÄ‡}
 {235}{}{PW}
 {236}{}{Poziom zatrucia}
 {237}{}{Poziom napromieniowania}
 {301}{}{Dno!}
-{302}{}{le}
+{302}{}{Å¹le}
 {303}{}{Marnie}
-{304}{}{S³abo}
-{305}{}{Œrednio}
+{304}{}{SÅ‚abo}
+{305}{}{Åšrednio}
 {306}{}{Dobrze}
 {307}{}{B.dobrze}
-{308}{}{Œwietnie}
+{308}{}{Åšwietnie}
 {309}{}{Idealnie}
 {310}{}{Epicko}
-{400}{}{Niewykorzystane punkty umiejêtnoœci}
-{401}{}{Poziom doœwiadczenia}
-{402}{}{Punkty doœwiadczenia}
+{400}{}{Niewykorzystane punkty umiejÄ™tnoÅ›ci}
+{401}{}{Poziom doÅ›wiadczenia}
+{402}{}{Punkty doÅ›wiadczenia}
 {403}{}{Reputacja}
 {404}{}{Karma}
-{500}{}{Punkty te zosta³y przez ciebie uzyskane za awans na wy¿szy poziom doœwiadczenia. Mo¿esz je wykorzystaæ do podniesienia twoich umiejêtnoœci - zwyk³ych (w relacji 1:1) oraz g³ównych (w relacji 1:2).}
-{501}{}{Obraz twoich ogólnych kompetencji. Miara twojego doœwiadczenia i zdolnoœci.}
-{502}{}{Doœwiadczenie jest nagrod¹ za wykonywanie stawianych przed tob¹ zadañ oraz pokonywanie wrogów. Du¿e iloœci punktów doœwiadczenia (PD) s¹ niezbêdne do osi¹gniêcia wy¿szych poziomów.}
-{503}{}{Reputacja odzwierciedla, co jak dot¹d œwiat us³ysza³ o tobie i twoich czynach. Jej wysokoœæ wp³ywa na reakcje innych osób wzglêdem ciebie.}
-{504}{}{Sumaryczne skutki wyborów etycznych, jakich dokonujesz.}
-{600}{}{Awansujesz na wy¿szy poziom doœwiadczenia.}
+{500}{}{Punkty te zostaÅ‚y przez ciebie uzyskane za awans na wyÅ¼szy poziom doÅ›wiadczenia. MoÅ¼esz je wykorzystaÄ‡ do podniesienia twoich umiejÄ™tnoÅ›ci - zwykÅ‚ych (w relacji 1:1) oraz gÅ‚Ã³wnych (w relacji 1:2).}
+{501}{}{Obraz twoich ogÃ³lnych kompetencji. Miara twojego doÅ›wiadczenia i zdolnoÅ›ci.}
+{502}{}{DoÅ›wiadczenie jest nagrodÄ… za wykonywanie stawianych przed tobÄ… zadaÅ„ oraz pokonywanie wrogÃ³w. DuÅ¼e iloÅ›ci punktÃ³w doÅ›wiadczenia (PD) sÄ… niezbÄ™dne do osiÄ…gniÄ™cia wyÅ¼szych poziomÃ³w.}
+{503}{}{Reputacja odzwierciedla, co jak dotÄ…d Å›wiat usÅ‚yszaÅ‚ o tobie i twoich czynach. Jej wysokoÅ›Ä‡ wpÅ‚ywa na reakcje innych osÃ³b wzglÄ™dem ciebie.}
+{504}{}{Sumaryczne skutki wyborÃ³w etycznych, jakich dokonujesz.}
+{600}{}{Awansujesz na wyÅ¼szy poziom doÅ›wiadczenia.}

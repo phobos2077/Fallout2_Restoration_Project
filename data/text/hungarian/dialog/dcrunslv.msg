@@ -1,44 +1,44 @@
-{100}{}{Egy nagy darab, primitív embert látsz.}
-{101}{}{Egy karcsú, de primitív n?t látsz.}
-{200}{}{Egy fura külsej? embert látsz.}
-{201}{}{Egy szakadt külsej? embert látsz.}
-{202}{}{Egy toprongyos embert látsz.}
+{100}{}{Egy nagy darab, primitÃ­v embert lÃ¡tsz.}
+{101}{}{Egy karcsÃº, de primitÃ­v n?t lÃ¡tsz.}
+{200}{}{Egy fura kÃ¼lsej? embert lÃ¡tsz.}
+{201}{}{Egy szakadt kÃ¼lsej? embert lÃ¡tsz.}
+{202}{}{Egy toprongyos embert lÃ¡tsz.}
 {210}{}{Egy piszkos n?.}
-{211}{}{Egy eléggé koszos n?t látsz.}
-{212}{}{Egy cingár n?.}
-{270}{}{Nem taná'nak meg.}
-{271}{}{E' k? bújni. E' k? bújni.}
-{272}{}{Mér akar ?k bántani minket?}
+{211}{}{Egy elÃ©ggÃ© koszos n?t lÃ¡tsz.}
+{212}{}{Egy cingÃ¡r n?.}
+{270}{}{Nem tanÃ¡'nak meg.}
+{271}{}{E' k? bÃºjni. E' k? bÃºjni.}
+{272}{}{MÃ©r akar ?k bÃ¡ntani minket?}
 {273}{}{Megijedtem.}
 {274}{}{Nem harcolok.}
-{275}{}{Élni akarok.}
-{276}{}{Ne báncs család!}
-{280}{}{Ó, a fenébe!}
-{281}{}{Miért csinálják ezt?}
-{282}{}{Mi van a családommal?}
+{275}{}{Ã‰lni akarok.}
+{276}{}{Ne bÃ¡ncs csalÃ¡d!}
+{280}{}{Ã“, a fenÃ©be!}
+{281}{}{MiÃ©rt csinÃ¡ljÃ¡k ezt?}
+{282}{}{Mi van a csalÃ¡dommal?}
 {283}{}{Nem akarok meghalni!}
 {284}{}{Nem akarok rabszolga lenni.}
-{285}{}{Én jobbat érdemlek.}
+{285}{}{Ã‰n jobbat Ã©rdemlek.}
 {300}{}{Ahhh!}
-{301}{}{Ne öjjé'! Ne öjjé'!}
-{302}{}{Állj!}
-{303}{}{Segííííccs!}
+{301}{}{Ne Ã¶jjÃ©'! Ne Ã¶jjÃ©'!}
+{302}{}{Ãllj!}
+{303}{}{SegÃ­Ã­Ã­Ã­ccs!}
 {304}{}{Fuss!}
-{305}{}{Haggyá' békén!}
-{306}{}{Ne báncsá'!}
-{307}{}{Nem bántalak!}
+{305}{}{HaggyÃ¡' bÃ©kÃ©n!}
+{306}{}{Ne bÃ¡ncsÃ¡'!}
+{307}{}{Nem bÃ¡ntalak!}
 {308}{}{Nem harcolok!}
-{350}{}{Fussatok, ha kedves az életetek!}
+{350}{}{Fussatok, ha kedves az Ã©letetek!}
 {351}{}{Ne hagyd, hogy elfogjanak!}
-{352}{}{Rabszolga-vadászok! Futás!}
-{353}{}{Valaki segítsen! Kérem!}
+{352}{}{Rabszolga-vadÃ¡szok! FutÃ¡s!}
+{353}{}{Valaki segÃ­tsen! KÃ©rem!}
 {354}{}{Fuss, Marty!}
 {355}{}{Ahhh!}
-{356}{}{Állítsd meg ezt az ?rületet!}
-{357}{}{Nem csináltunk semmit! Hagyj békén minket!}
-{358}{}{Ismerem ezt a tetoválást!}
-{359}{}{Kérlek, ne!}
-{360}{}{Kérlek, ne ölj meg!}
-{361}{}{Nem harcolok, ne ölj meg!}
-{362}{}{Kérlek, nem akarok meghalni!}
-{363}{}{Ugye maguk rabszolga-hajcsárok? Jaj nekem!}
+{356}{}{ÃllÃ­tsd meg ezt az ?rÃ¼letet!}
+{357}{}{Nem csinÃ¡ltunk semmit! Hagyj bÃ©kÃ©n minket!}
+{358}{}{Ismerem ezt a tetovÃ¡lÃ¡st!}
+{359}{}{KÃ©rlek, ne!}
+{360}{}{KÃ©rlek, ne Ã¶lj meg!}
+{361}{}{Nem harcolok, ne Ã¶lj meg!}
+{362}{}{KÃ©rlek, nem akarok meghalni!}
+{363}{}{Ugye maguk rabszolga-hajcsÃ¡rok? Jaj nekem!}

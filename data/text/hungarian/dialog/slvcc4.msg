@@ -1,30 +1,30 @@
 {100}{}{Rabszolga.}
 {101}{}{You see a healthy looking slave.}
 {320}{}{Rossz vagy!}
-{321}{}{Nem beszélünk veled.}
+{321}{}{Nem beszÃ©lÃ¼nk veled.}
 {322}{}{Ki fogunk szabadulni.}
 {323}{}{Nem tarthattok itt minket!}
-{324}{}{Te nyomorult hajcsár!}
-{325}{}{Ti hajcsárok, miért csináljátok ezt?}
+{324}{}{Te nyomorult hajcsÃ¡r!}
+{325}{}{Ti hajcsÃ¡rok, miÃ©rt csinÃ¡ljÃ¡tok ezt?}
 {326}{}{Hogy dolgozhatsz ezeknek az embereknek?}
-{327}{}{Nem vagyunk primitívek!}
-{328}{}{Nincs morális fenntartásod?}
-{329}{}{Mi történik velünk?}
-{330}{}{Mit csináltunk rosszul?}
-{331}{}{Hagyj minket békén, hajcsár!}
-{332}{}{Ne bánts!}
+{327}{}{Nem vagyunk primitÃ­vek!}
+{328}{}{Nincs morÃ¡lis fenntartÃ¡sod?}
+{329}{}{Mi tÃ¶rtÃ©nik velÃ¼nk?}
+{330}{}{Mit csinÃ¡ltunk rosszul?}
+{331}{}{Hagyj minket bÃ©kÃ©n, hajcsÃ¡r!}
+{332}{}{Ne bÃ¡nts!}
 {333}{}{Takarodj a szemem el?l!}
 {350}{}{Te ki?}
-{351}{}{Te nem vagy rabszolga-hajcsár.}
-{352}{}{Nem bántasz?}
-{353}{}{Barát vagy?}
-{354}{}{Segítesz?}
-{355}{}{Mi történik velünk?}
-{356}{}{Téged is elfogtak?}
-{357}{}{Nem vagyunk primitívek!}
-{358}{}{Mit képzelnek magukról?}
-{359}{}{Kérlek, segíts rajtunk!}
-{360}{}{Vigyél el innen!}
+{351}{}{Te nem vagy rabszolga-hajcsÃ¡r.}
+{352}{}{Nem bÃ¡ntasz?}
+{353}{}{BarÃ¡t vagy?}
+{354}{}{SegÃ­tesz?}
+{355}{}{Mi tÃ¶rtÃ©nik velÃ¼nk?}
+{356}{}{TÃ©ged is elfogtak?}
+{357}{}{Nem vagyunk primitÃ­vek!}
+{358}{}{Mit kÃ©pzelnek magukrÃ³l?}
+{359}{}{KÃ©rlek, segÃ­ts rajtunk!}
+{360}{}{VigyÃ©l el innen!}
 {400}{}{Oh, why me!}
 {401}{}{*cough*}
 {402}{}{*scratches self*}

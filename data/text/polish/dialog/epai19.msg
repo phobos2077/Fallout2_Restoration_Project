@@ -1,8 +1,8 @@
-{100}{}{Widzisz pewn¹ szczególn¹ maszynê.}
+{100}{}{Widzisz pewnÄ… szczegÃ³lnÄ… maszynÄ™.}
 {101}{}{Widzisz projektor zapasowy Hologramu 00000.}
-{102}{}{Widzisz maszynê s³u¿¹c¹ wy³¹cznie do wyœwietlania Hologramu Nauki.}
-{103}{}{Usterka w tej maszynê zosta³a usuniêta.}
-{104}{}{Ta maszyna jest ju¿ naprawiona.}
-{105}{}{Naprawa tej maszyny wydaje siê zbyt skomplikowana.}
+{102}{}{Widzisz maszynÄ™ sÅ‚uÅ¼Ä…cÄ… wyÅ‚Ä…cznie do wyÅ›wietlania Hologramu Nauki.}
+{103}{}{Usterka w tej maszynÄ™ zostaÅ‚a usuniÄ™ta.}
+{104}{}{Ta maszyna jest juÅ¼ naprawiona.}
+{105}{}{Naprawa tej maszyny wydaje siÄ™ zbyt skomplikowana.}
 {106}{}{Czego ja  tu szukam?}
-{107}{}{Nawet przy u¿yciu narzêdzi nie jesteœ w stanie tego naprawiæ, brakuje ci umiejêtnoœci.}
+{107}{}{Nawet przy uÅ¼yciu narzÄ™dzi nie jesteÅ› w stanie tego naprawiÄ‡, brakuje ci umiejÄ™tnoÅ›ci.}

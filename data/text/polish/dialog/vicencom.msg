@@ -1,182 +1,182 @@
-{100}{}{Widzisz terminal komputerowy. W³aœnie przeprowadza jak¹œ procedurê diagnostyczn¹.}
+{100}{}{Widzisz terminal komputerowy. WÅ‚aÅ›nie przeprowadza jakÄ…Å› procedurÄ™ diagnostycznÄ….}
 {101}{}{Widzisz centralny komputer Kryptopolis. }
-{102}{}{Widzisz terminal komputerowy. W³aœnie przeprowadza jak¹œ procedurê diagnostyczn¹.}
-{103}{}{Widzisz metalowe pud³o, które gada samo do siebie kobiecym g³osem.}
-{104}{}{Widzisz gadaj¹ce metalowe pud³o.}
-{105}{}{Widzisz metalowe pud³o, które gada samo do siebie kobiecym g³osem.}
-{106}{}{Terminal komputerowy wy³¹czy³ siê.}
-{107}{}{Rozpoczynam diagnostykê systemu. }
-{108}{}{Po uruchomieniu diagnostyka systemu mo¿e zostaæ w dowolnym momencie przerwana przez operatora systemu.}
-{109}{}{KrypTech zaleca regularn¹ konserwacjê i diagnostykê dla zachowania niezak³óconej pracy.}
+{102}{}{Widzisz terminal komputerowy. WÅ‚aÅ›nie przeprowadza jakÄ…Å› procedurÄ™ diagnostycznÄ….}
+{103}{}{Widzisz metalowe pudÅ‚o, ktÃ³re gada samo do siebie kobiecym gÅ‚osem.}
+{104}{}{Widzisz gadajÄ…ce metalowe pudÅ‚o.}
+{105}{}{Widzisz metalowe pudÅ‚o, ktÃ³re gada samo do siebie kobiecym gÅ‚osem.}
+{106}{}{Terminal komputerowy wyÅ‚Ä…czyÅ‚ siÄ™.}
+{107}{}{Rozpoczynam diagnostykÄ™ systemu. }
+{108}{}{Po uruchomieniu diagnostyka systemu moÅ¼e zostaÄ‡ w dowolnym momencie przerwana przez operatora systemu.}
+{109}{}{KrypTech zaleca regularnÄ… konserwacjÄ™ i diagnostykÄ™ dla zachowania niezakÅ‚Ã³conej pracy.}
 {110}{}{KrypTech: Pierwsza i ostatnia nazwa w technologii Krypt.}
-{111}{}{Rozpoczynam Diagnostykê Systemu.}
-{112}{}{Systemy Bezpieczeñstwa...}
-{113}{}{Terminal Wejœciowy: Wy³¹czony.}
-{114}{}{Kamery Bezpieczeñstwa... 1A... 1B... 1C dzia³aj¹ z optymaln¹ wydajnoœci¹.}
-{115}{}{Systemy Bezpieczeñstwa... 2A... 2B... 2C dzia³aj¹ z optymaln¹ wydajnoœci¹.}
-{116}{}{Systemy Bezpieczeñstwa... 3A... 3B... 3C dzia³aj¹ z optymaln¹ wydajnoœci¹.}
-{117}{}{Systemy Œrodowiskowe...}
-{118}{}{Systemy wentylacyjne... 1A... 1B... dzia³aj¹ z optymaln¹ wydajnoœci¹.}
+{111}{}{Rozpoczynam DiagnostykÄ™ Systemu.}
+{112}{}{Systemy BezpieczeÅ„stwa...}
+{113}{}{Terminal WejÅ›ciowy: WyÅ‚Ä…czony.}
+{114}{}{Kamery BezpieczeÅ„stwa... 1A... 1B... 1C dziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
+{115}{}{Systemy BezpieczeÅ„stwa... 2A... 2B... 2C dziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
+{116}{}{Systemy BezpieczeÅ„stwa... 3A... 3B... 3C dziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
+{117}{}{Systemy Åšrodowiskowe...}
+{118}{}{Systemy wentylacyjne... 1A... 1B... dziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
 {119}{}{Systemy wentylacyjne... 2A... 2B...}
 {120}{}{2B...}
 {121}{}{Potwierdzanie...}
 {122}{}{Uwaga: wykryta przeszkoda w systemie wentylacyjnym 2B. }
-{123}{}{Ponowne badanie Systemów Œrodowiskowych...}
-{124}{}{Przeszkoda zosta³a odnotowana w raporcie konserwacyjnym, odpowiedni operator zosta³ powiadomiony.}
+{123}{}{Ponowne badanie SystemÃ³w Åšrodowiskowych...}
+{124}{}{Przeszkoda zostaÅ‚a odnotowana w raporcie konserwacyjnym, odpowiedni operator zostaÅ‚ powiadomiony.}
 {125}{}{Sprawdzanie kontynuowane...}
-{126}{}{Systemy wentylacyjne... 2C... 2D... dzia³aj¹ z optymaln¹ wydajnoœci¹.}
-{127}{}{Systemy wentylacyjne... 3A... 3B... 3C... 3D... 3E... Dzia³aj¹ z optymaln¹ wydajnoœci¹.}
-{128}{}{Temperatura i wilgotnoœæ wewn¹trz Krypty w granicach wymaganych wartoœci.}
+{126}{}{Systemy wentylacyjne... 2C... 2D... dziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
+{127}{}{Systemy wentylacyjne... 3A... 3B... 3C... 3D... 3E... DziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
+{128}{}{Temperatura i wilgotnoÅ›Ä‡ wewnÄ…trz Krypty w granicach wymaganych wartoÅ›ci.}
 {129}{}{Zasilanie...}
-{130}{}{Wszystkie poziomy energetyczne w granicach wymaganych wartoœci. }
-{131}{}{Tryb oszczêdzania energii dla poziomów drugiego i trzeciego pozostaj¹ w mocy.}
-{132}{}{Uwaga: Drzwi do Krypty s¹ otwarte. W razie niebezpieczeñstwa drzwi zostan¹ zamkniête.}
+{130}{}{Wszystkie poziomy energetyczne w granicach wymaganych wartoÅ›ci. }
+{131}{}{Tryb oszczÄ™dzania energii dla poziomÃ³w drugiego i trzeciego pozostajÄ… w mocy.}
+{132}{}{Uwaga: Drzwi do Krypty sÄ… otwarte. W razie niebezpieczeÅ„stwa drzwi zostanÄ… zamkniÄ™te.}
 {133}{}{Wszystkie odczyty w normie. Diagnostyka systemu podsumowana. Przygotowanie do zapisu na dysk...}
-{134}{}{Odczyty zosta³y zapisane na holodysk. }
-{135}{}{Lista odczytów zosta³a przes³ana do g³ównego Biura List.}
-{136}{}{Trzy listy zapasowe s¹ obecnie wprowadzane do Banku Zasobów.}
-{137}{}{Zapasowa kopia list jest obecnie przesy³ana do g³ównego serwera list dla dalszej dystrybucji do wszystkich innych terminali w Kryptopolis.}
-{138}{}{Mo¿na teraz bezpiecznie wy³¹czyæ terminal. }
-{139}{}{Dziêkujê.}
-{140}{}{Rozpoczynam diagnostykê systemu. }
-{141}{}{Po uruchomieniu diagnostyka systemu mo¿e zostaæ w dowolnym momencie przerwana przez operatora systemu.}
-{142}{}{KrypTech zaleca regularn¹ konserwacjê i diagnostykê dla zachowania niezak³óconej pracy.}
+{134}{}{Odczyty zostaÅ‚y zapisane na holodysk. }
+{135}{}{Lista odczytÃ³w zostaÅ‚a przesÅ‚ana do gÅ‚Ã³wnego Biura List.}
+{136}{}{Trzy listy zapasowe sÄ… obecnie wprowadzane do Banku ZasobÃ³w.}
+{137}{}{Zapasowa kopia list jest obecnie przesyÅ‚ana do gÅ‚Ã³wnego serwera list dla dalszej dystrybucji do wszystkich innych terminali w Kryptopolis.}
+{138}{}{MoÅ¼na teraz bezpiecznie wyÅ‚Ä…czyÄ‡ terminal. }
+{139}{}{DziÄ™kujÄ™.}
+{140}{}{Rozpoczynam diagnostykÄ™ systemu. }
+{141}{}{Po uruchomieniu diagnostyka systemu moÅ¼e zostaÄ‡ w dowolnym momencie przerwana przez operatora systemu.}
+{142}{}{KrypTech zaleca regularnÄ… konserwacjÄ™ i diagnostykÄ™ dla zachowania niezakÅ‚Ã³conej pracy.}
 {143}{}{KrypTech: Pierwsza i ostatnia nazwa w technologii Krypt.}
-{144}{}{Rozpoczynam Diagnostykê Systemu.}
-{145}{}{Systemy Bezpieczeñstwa...}
-{146}{}{Terminal Wejœciowy: Wy³¹czony.}
-{147}{}{Kamery Bezpieczeñstwa... 1A... 1B... 1C dzia³aj¹ z optymaln¹ wydajnoœci¹.}
-{148}{}{Systemy Bezpieczeñstwa... 2A... 2B... 2C dzia³aj¹ z optymaln¹ wydajnoœci¹.}
-{149}{}{Systemy Bezpieczeñstwa... 3A... 3B... 3C dzia³aj¹ z optymaln¹ wydajnoœci¹.}
-{150}{}{Systemy Œrodowiskowe... }
-{151}{}{Systemy wentylacyjne... 1A... 1B... dzia³aj¹ z optymaln¹ wydajnoœci¹.}
-{152}{}{Systemy wentylacyjne... 2A... 2B... 2C... 2D... dzia³aj¹ z optymaln¹ wydajnoœci¹.}
-{153}{}{Systemy wentylacyjne... 3A... 3B... 3C... 3D... 3E... Dzia³aj¹ z optymaln¹ wydajnoœci¹.}
-{154}{}{Temperatura i wilgotnoœæ wewn¹trz Krypty w granicach wymaganych wartoœci.}
+{144}{}{Rozpoczynam DiagnostykÄ™ Systemu.}
+{145}{}{Systemy BezpieczeÅ„stwa...}
+{146}{}{Terminal WejÅ›ciowy: WyÅ‚Ä…czony.}
+{147}{}{Kamery BezpieczeÅ„stwa... 1A... 1B... 1C dziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
+{148}{}{Systemy BezpieczeÅ„stwa... 2A... 2B... 2C dziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
+{149}{}{Systemy BezpieczeÅ„stwa... 3A... 3B... 3C dziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
+{150}{}{Systemy Åšrodowiskowe... }
+{151}{}{Systemy wentylacyjne... 1A... 1B... dziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
+{152}{}{Systemy wentylacyjne... 2A... 2B... 2C... 2D... dziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
+{153}{}{Systemy wentylacyjne... 3A... 3B... 3C... 3D... 3E... DziaÅ‚ajÄ… z optymalnÄ… wydajnoÅ›ciÄ….}
+{154}{}{Temperatura i wilgotnoÅ›Ä‡ wewnÄ…trz Krypty w granicach wymaganych wartoÅ›ci.}
 {155}{}{Zasilanie...}
-{156}{}{Wszystkie poziomy energetyczne w granicach wymaganych wartoœci. }
-{157}{}{Tryb oszczêdzania energii dla poziomów drugiego i trzeciego pozostaj¹ w mocy.}
-{158}{}{Uwaga: Drzwi do Krypty s¹ otwarte. W razie niebezpieczeñstwa drzwi zostan¹ zamkniête.}
+{156}{}{Wszystkie poziomy energetyczne w granicach wymaganych wartoÅ›ci. }
+{157}{}{Tryb oszczÄ™dzania energii dla poziomÃ³w drugiego i trzeciego pozostajÄ… w mocy.}
+{158}{}{Uwaga: Drzwi do Krypty sÄ… otwarte. W razie niebezpieczeÅ„stwa drzwi zostanÄ… zamkniÄ™te.}
 {159}{}{Wszystkie odczyty w normie. Diagnostyka systemu podsumowana. Przygotowanie do zapisu na dysk...}
-{160}{}{Odczyty zosta³y zapisane na holodysk. }
-{161}{}{Lista odczytów zosta³a przes³ana do g³ównego Biura List.}
-{162}{}{Trzy listy zapasowe s¹ obecnie wprowadzane do Banku Zasobów.}
-{163}{}{Zapasowa kopia list jest obecnie przesy³ana do g³ównego serwera list dla dalszej dystrybucji do wszystkich innych terminali w Kryptopolis.}
-{164}{}{Mo¿na teraz bezpiecznie wy³¹czyæ terminal. }
-{165}{}{Dziêkujê.}
-{166}{}{Widzisz metalowe pud³o gadaj¹ce do powietrza kobiecym g³osem. Kobieta musi byæ w œrodku tego pud³a! Musi jej tam byæ bardzo, bardzo ciasno.}
-{167}{}{Logujesz siê do G³ównego Komputera Kryptopolis. Obs³uga jest doœæ prosta, a informacje s¹ podzielone na archiwa.}
+{160}{}{Odczyty zostaÅ‚y zapisane na holodysk. }
+{161}{}{Lista odczytÃ³w zostaÅ‚a przesÅ‚ana do gÅ‚Ã³wnego Biura List.}
+{162}{}{Trzy listy zapasowe sÄ… obecnie wprowadzane do Banku ZasobÃ³w.}
+{163}{}{Zapasowa kopia list jest obecnie przesyÅ‚ana do gÅ‚Ã³wnego serwera list dla dalszej dystrybucji do wszystkich innych terminali w Kryptopolis.}
+{164}{}{MoÅ¼na teraz bezpiecznie wyÅ‚Ä…czyÄ‡ terminal. }
+{165}{}{DziÄ™kujÄ™.}
+{166}{}{Widzisz metalowe pudÅ‚o gadajÄ…ce do powietrza kobiecym gÅ‚osem. Kobieta musi byÄ‡ w Å›rodku tego pudÅ‚a! Musi jej tam byÄ‡ bardzo, bardzo ciasno.}
+{167}{}{Logujesz siÄ™ do GÅ‚Ã³wnego Komputera Kryptopolis. ObsÅ‚uga jest doÅ›Ä‡ prosta, a informacje sÄ… podzielone na archiwa.}
 {168}{}{Haaalo? Haaalo?}
-{169}{}{Spróbuj wywa¿yæ œcianê pud³a, ¿eby kobieta mog³a wyjœæ.}
-{170}{}{OdejdŸ bez s³owa.}
+{169}{}{SprÃ³buj wywaÅ¼yÄ‡ Å›cianÄ™ pudÅ‚a, Å¼eby kobieta mogÅ‚a wyjÅ›Ä‡.}
+{170}{}{OdejdÅº bez sÅ‚owa.}
 {171}{}{Poszukaj w archiwach lokalizacji Krypty 13.}
 {172}{}{Poszukaj w archiwum jakichkolwiek wzmianek na temat Generatora Ekosystemu Cudownej Krainy.}
-{173}{}{W³ó¿ do komputera dysk z Elektrowni w Gecko.}
-{174}{}{Wywa¿ pokrywê komputera i poszukaj systemu rozpoznawania g³osu.}
-{175}{}{W³ó¿ Pip-Boya do gniazda, które wczeœniej zwróci³o twoj¹ uwagê.}
-{176}{}{W³ó¿ Pip-Boya do gniazda, które wczeœniej zwróci³o twoj¹ uwagê.}
-{177}{}{Wyloguj siê z terminala.}
-{178}{}{Metalowe pud³o nie odpowiada.}
-{179}{}{Spróbuj wywa¿yæ œcianê pud³a, ¿eby kobieta mog³a wyjœæ.}
-{180}{}{OdejdŸ bez s³owa.}
-{181}{}{Klêkasz przy metalowym pudle. Zag³êbiasz palce w jedn¹ z p³yt pod pud³em i wyrywasz j¹. Nie ma tam ¿adnej kobiety! Tylko masa martwych wê¿y i migaj¹ce œwiate³ka.}
-{182}{}{Siêgnij miedzy wê¿e, poszperaj.}
-{183}{}{OdejdŸ bez s³owa.}
-{184}{}{Nag³y BZZZZZZZZZT i...}
-{185}{}{...budzisz siê.}
-{186}{}{OdejdŸ bez s³owa.}
-{187}{}{Wywa¿asz panel pod maszyn¹ i szukasz modu³u rozpoznawania g³osu. Nie ma go tam... p³yty z obwodami wygl¹daj¹ zupe³nie inaczej ni¿ te w komputerze Krypty 13.}
-{188}{}{Za³ó¿ panel z powrotem i przejrzyj archiwa w komputerze.}
-{189}{}{Warto by³o spróbowaæ. Lepiej poszukaj gdzie indziej.}
-{190}{}{Jednak¿e, gdy mocujesz panel, zauwa¿asz nagle pod terminalem ma³y obrazek przedstawiaj¹cy Pip-Boya. Obok obrazka znajduje siê gniazdo, które w przybli¿eniu odpowiada wielkoœci twojego Pip-Boya.}
-{191}{}{W³ó¿ Pip-Boya do pustego gniazda.}
-{192}{}{OdejdŸ od terminala.}
-{193}{}{Gdy ju¿ chcesz sobie pójœæ, zauwa¿asz uœmiechaj¹c¹ siê ma³¹ osóbkê z ma³ego, mrugaj¹cego Pip-Boya pod metalowym pud³em! Wskazuje ona na puste miejsce obok niej. Mo¿e chce porozmawiaæ z ma³¹ osob¹ z twojego Pip-Boya.}
-{194}{}{W momencie, gdy ju¿ masz odejœæ, zauwa¿asz nagle pod terminalem ma³y obrazek przedstawiaj¹cy Pip-Boya. Obok obrazka znajduje siê gniazdo, które w przybli¿eniu odpowiada wielkoœci twojego Pip-Boya.}
-{195}{}{Wsuñ urz¹dzonko twojego Pip-Boya do dziury, ¿eby mogli porozmawiaæ.}
-{196}{}{W³ó¿ Pip-Boya do pustego gniazda.}
-{197}{}{OdejdŸ od terminala.}
-{198}{}{O rany! Ta dwójka ma sobie DU¯O do powiedzenia! Mówi¹ œmiesznym jêzykiem, który brzmi jak buczenie, œwiergotanie i szuranie. W koñcu s³yszysz pikniecie, a twój Pip-Boy powraca do ciebie.}
-{199}{}{WeŸ swojego Pip-Boya i odejdŸ.}
-{200}{}{Na ekranie terminala otwiera siê ma³e okienko, a tu¿ obok widzisz ma³ego Pip-Boya. Gdy tak go obserwujesz, Pip-Boy zaczyna cichutko pogwizdywaæ i podskakiwaæ. Obok slotu komputerowego œwieci siê czerwone œwiat³o.}
+{173}{}{WÅ‚Ã³Å¼ do komputera dysk z Elektrowni w Gecko.}
+{174}{}{WywaÅ¼ pokrywÄ™ komputera i poszukaj systemu rozpoznawania gÅ‚osu.}
+{175}{}{WÅ‚Ã³Å¼ Pip-Boya do gniazda, ktÃ³re wczeÅ›niej zwrÃ³ciÅ‚o twojÄ… uwagÄ™.}
+{176}{}{WÅ‚Ã³Å¼ Pip-Boya do gniazda, ktÃ³re wczeÅ›niej zwrÃ³ciÅ‚o twojÄ… uwagÄ™.}
+{177}{}{Wyloguj siÄ™ z terminala.}
+{178}{}{Metalowe pudÅ‚o nie odpowiada.}
+{179}{}{SprÃ³buj wywaÅ¼yÄ‡ Å›cianÄ™ pudÅ‚a, Å¼eby kobieta mogÅ‚a wyjÅ›Ä‡.}
+{180}{}{OdejdÅº bez sÅ‚owa.}
+{181}{}{KlÄ™kasz przy metalowym pudle. ZagÅ‚Ä™biasz palce w jednÄ… z pÅ‚yt pod pudÅ‚em i wyrywasz jÄ…. Nie ma tam Å¼adnej kobiety! Tylko masa martwych wÄ™Å¼y i migajÄ…ce Å›wiateÅ‚ka.}
+{182}{}{SiÄ™gnij miedzy wÄ™Å¼e, poszperaj.}
+{183}{}{OdejdÅº bez sÅ‚owa.}
+{184}{}{NagÅ‚y BZZZZZZZZZT i...}
+{185}{}{...budzisz siÄ™.}
+{186}{}{OdejdÅº bez sÅ‚owa.}
+{187}{}{WywaÅ¼asz panel pod maszynÄ… i szukasz moduÅ‚u rozpoznawania gÅ‚osu. Nie ma go tam... pÅ‚yty z obwodami wyglÄ…dajÄ… zupeÅ‚nie inaczej niÅ¼ te w komputerze Krypty 13.}
+{188}{}{ZaÅ‚Ã³Å¼ panel z powrotem i przejrzyj archiwa w komputerze.}
+{189}{}{Warto byÅ‚o sprÃ³bowaÄ‡. Lepiej poszukaj gdzie indziej.}
+{190}{}{JednakÅ¼e, gdy mocujesz panel, zauwaÅ¼asz nagle pod terminalem maÅ‚y obrazek przedstawiajÄ…cy Pip-Boya. Obok obrazka znajduje siÄ™ gniazdo, ktÃ³re w przybliÅ¼eniu odpowiada wielkoÅ›ci twojego Pip-Boya.}
+{191}{}{WÅ‚Ã³Å¼ Pip-Boya do pustego gniazda.}
+{192}{}{OdejdÅº od terminala.}
+{193}{}{Gdy juÅ¼ chcesz sobie pÃ³jÅ›Ä‡, zauwaÅ¼asz uÅ›miechajÄ…cÄ… siÄ™ maÅ‚Ä… osÃ³bkÄ™ z maÅ‚ego, mrugajÄ…cego Pip-Boya pod metalowym pudÅ‚em! Wskazuje ona na puste miejsce obok niej. MoÅ¼e chce porozmawiaÄ‡ z maÅ‚Ä… osobÄ… z twojego Pip-Boya.}
+{194}{}{W momencie, gdy juÅ¼ masz odejÅ›Ä‡, zauwaÅ¼asz nagle pod terminalem maÅ‚y obrazek przedstawiajÄ…cy Pip-Boya. Obok obrazka znajduje siÄ™ gniazdo, ktÃ³re w przybliÅ¼eniu odpowiada wielkoÅ›ci twojego Pip-Boya.}
+{195}{}{WsuÅ„ urzÄ…dzonko twojego Pip-Boya do dziury, Å¼eby mogli porozmawiaÄ‡.}
+{196}{}{WÅ‚Ã³Å¼ Pip-Boya do pustego gniazda.}
+{197}{}{OdejdÅº od terminala.}
+{198}{}{O rany! Ta dwÃ³jka ma sobie DUÅ»O do powiedzenia! MÃ³wiÄ… Å›miesznym jÄ™zykiem, ktÃ³ry brzmi jak buczenie, Å›wiergotanie i szuranie. W koÅ„cu sÅ‚yszysz pikniecie, a twÃ³j Pip-Boy powraca do ciebie.}
+{199}{}{WeÅº swojego Pip-Boya i odejdÅº.}
+{200}{}{Na ekranie terminala otwiera siÄ™ maÅ‚e okienko, a tuÅ¼ obok widzisz maÅ‚ego Pip-Boya. Gdy tak go obserwujesz, Pip-Boy zaczyna cichutko pogwizdywaÄ‡ i podskakiwaÄ‡. Obok slotu komputerowego Å›wieci siÄ™ czerwone Å›wiatÅ‚o.}
 {201}{}{Czekaj...}
-{202}{}{Przerwij procedurê i wyloguj siê z terminala.}
-{203}{}{Ze slotu wydobywa siê jakiœ podejrzany trzask. Pip-Boy nadal pogwizduje i tupie stop¹.}
+{202}{}{Przerwij procedurÄ™ i wyloguj siÄ™ z terminala.}
+{203}{}{Ze slotu wydobywa siÄ™ jakiÅ› podejrzany trzask. Pip-Boy nadal pogwizduje i tupie stopÄ….}
 {204}{}{Czekaj...}
-{205}{}{Przerwij procedurê i wyloguj siê z terminala.}
-{206}{}{Pip-Boy nagle zatrzymuje siê - i marszczy brwi. Nad g³ow¹ pojawia mu siê znak zapytania, a on sam grozi ci palcem. }
-{207}{}{Poka¿ ma³emu draniowi œrodkowy palec!}
-{208}{}{Spróbuj dojœæ, co jest nie tak.}
-{209}{}{Przerwij procedurê i wyloguj siê z terminala.}
-{210}{}{Ma³y napis pod Pip-Boyem wskazuje, ¿e ostatni przewidziany przegl¹d odby³ siê 50.352 lat temu. Archiwa s¹ uszkodzone i musz¹ zostaæ "przeformatowane". Czy chcesz kontynuowaæ?}
+{205}{}{Przerwij procedurÄ™ i wyloguj siÄ™ z terminala.}
+{206}{}{Pip-Boy nagle zatrzymuje siÄ™ - i marszczy brwi. Nad gÅ‚owÄ… pojawia mu siÄ™ znak zapytania, a on sam grozi ci palcem. }
+{207}{}{PokaÅ¼ maÅ‚emu draniowi Å›rodkowy palec!}
+{208}{}{SprÃ³buj dojÅ›Ä‡, co jest nie tak.}
+{209}{}{Przerwij procedurÄ™ i wyloguj siÄ™ z terminala.}
+{210}{}{MaÅ‚y napis pod Pip-Boyem wskazuje, Å¼e ostatni przewidziany przeglÄ…d odbyÅ‚ siÄ™ 50.352 lat temu. Archiwa sÄ… uszkodzone i muszÄ… zostaÄ‡ "przeformatowane". Czy chcesz kontynuowaÄ‡?}
 {211}{}{Uch... jasne.}
-{212}{}{Chwila... nie! W ¿adnym razie! }
-{213}{}{Przerwij procedurê i wyloguj siê z terminala.}
+{212}{}{Chwila... nie! W Å¼adnym razie! }
+{213}{}{Przerwij procedurÄ™ i wyloguj siÄ™ z terminala.}
 {214}{}{Rozpoczynanie procedury inicjalizacji... Przeformatowywanie Pip-Boya...}
 {215}{}{}
 {216}{}{Czekaj...}
-{217}{}{Przerwij procedurê i wyloguj siê z terminala.}
+{217}{}{Przerwij procedurÄ™ i wyloguj siÄ™ z terminala.}
 {218}{}{Rozpoczynanie procedury inicjalizacji...}
 {219}{}{                             Przeformatowywanie Pip-Boya...}
 {220}{}{Hej! Oddawaj mi mojego cholernego Pip-Boya!}
-{221}{}{Wróæ! Wróæ! }
-{222}{}{Geograficzne Archiwum Pó³nocnej Kalifornii jest kopiowane do bazy danych Pip-Boya. }
-{223}{}{Kopiujê archiwum... Broken Hills... Gecko... Republika Nowej Kalifornii... Nowe Reno... Redding... Kryptopolis... kopiowanie zakoñczone.}
-{224}{}{Kontynuuj przeszukiwanie archiwów.}
-{225}{}{Wyloguj siê z terminala.}
-{226}{}{Powracasz do g³ównego menu. Lista archiwów i programów wyszukuj¹cych jest wyœwietlona na ekranie.}
+{221}{}{WrÃ³Ä‡! WrÃ³Ä‡! }
+{222}{}{Geograficzne Archiwum PÃ³Å‚nocnej Kalifornii jest kopiowane do bazy danych Pip-Boya. }
+{223}{}{KopiujÄ™ archiwum... Broken Hills... Gecko... Republika Nowej Kalifornii... Nowe Reno... Redding... Kryptopolis... kopiowanie zakoÅ„czone.}
+{224}{}{Kontynuuj przeszukiwanie archiwÃ³w.}
+{225}{}{Wyloguj siÄ™ z terminala.}
+{226}{}{Powracasz do gÅ‚Ã³wnego menu. Lista archiwÃ³w i programÃ³w wyszukujÄ…cych jest wyÅ›wietlona na ekranie.}
 {227}{}{Poszukaj jakichkolwiek wzmianek na temat Krypty 13.}
-{228}{}{Poszukaj w archiwum jakichkolwiek odwolañ do Generatora Ekosystemu Cudownej Krainy.}
-{229}{}{Przywo³aj raporty generatora mocy Kryptopolis. }
-{230}{}{Wyloguj siê z terminala.}
-{231}{}{Wed³ug raportu wyjœciowego wygl¹da na to, ¿e Gordon mia³ racjê. Generator Kryptopolis ju¿ osi¹ga swoje granice wydajnoœci. Bez nowego Ÿród³a zasilania Kryptopolis nie bêdzie mog³o siê rozwijaæ.}
-{232}{}{Kontynuuj przeszukiwanie archiwów.}
-{233}{}{Wyloguj siê z terminala.}
-{234}{}{W archiwach zapisane s¹ tylko dwie Krypty: Krypta 8 (to ta, w której jesteœ) i Krypta 15, które jest daleko na po³udnie. Dziwne, ale nie ma wzmianki o Krypcie 13.}
-{235}{}{Wprowadzasz lokalizacjê Krypty 15 do Pip-Boya.}
-{236}{}{Kontynuuj przeszukiwanie archiwów.}
-{237}{}{Wyloguj siê z terminala.}
-{238}{}{Z archiwów wynika, ¿e w tej chwili Biuro Udogodnieñ Kryptopolis nie ma na stanie GECKa. Mieszkañcy Kryptopolis prawdopodobnie wykorzystali jedyn¹ tak¹ jednostkê, któr¹ posiadali, aby stworzyæ to miejsce, gdy wyszli na powierzchniê.}
-{239}{}{Przewiñ pozosta³e informacje.}
-{240}{}{Z tego, co mo¿esz wyczytaæ w archiwum wynika, ¿e w sk³ad standardowego wyposa¿enia ka¿dej Krypty wchodzi³y dwa GECKi. Jednak¿e tylko jeden zosta³ dostarczony do Krypty 8.}
-{241}{}{SprawdŸ odnoœniki do informacji o przesy³ce GECKów.}
-{242}{}{Wróæ do g³ównego menu.}
-{243}{}{Wyloguj siê z terminala.}
-{244}{}{Wygl¹da na to, ¿e z powodu b³êdu logistycznego Krypta 8 otrzyma³a pud³o pe³ne hydroprocesorów przeznaczonych dla innej Krypty. Tamta Krypta otrzyma³a zapewne drugiego GECKa Krypty 8.}
-{245}{}{Wróæ do g³ównego menu.}
-{246}{}{Wyloguj siê z terminala.}
-{247}{}{Na ekranie terminala otwiera siê ma³e okienko, a tu¿ obok widzisz uœmiechniêtego Pip-Boya. Gdy tak go obserwujesz, Pip-Boy patrzy prosto na ciebie, mruga i podnosi obydwa kciuki w gore. Obok slotu komputerowego œwieci siê czerwone œwiat³o.}
-{248}{}{Poka¿ Pip-Boyowi kciuki w górze.}
-{249}{}{Poka¿ Pip-Boyowi œrodkowy palec.}
-{250}{}{Informacje o twórcach Fallout 2 zostan¹ skopiowane do Pip-Boya. Kopiowanie plików... Informacje o twórcach Kryptopolis... Kopiowanie zakoñczone.}
-{251}{}{Dziêkujê.}
-{252}{}{Lepiej, ¿eby ten badziew by³ wart parê punktów umiejêtnoœci, bo inaczej porz¹dnie siê wkurzê.}
-{253}{}{Na ekranie Pip-Boy macha ci na po¿egnanie, potem zaœ obraz znika. Terminal wy³¹czy³ siê.}
-{254}{}{[OdejdŸ.]}
-{255}{}{Ta, lepiej zwiewaj, ma³y gnojku.}
-{256}{}{Terminal wy³¹czy³ siê. Nie masz pojêcia, jak mo¿na go w³¹czyæ z powrotem.}
-{257}{}{OdejdŸ.}
-{258}{}{Czytanie Dysku... Dane Reaktora: Elektrownia Atomowa... Wydajnoœæ: 43%/75%... B³¹d: Kalibracja Elektrowni - MD4/gh1... Czy chcesz zoptymalizowaæ?}
+{228}{}{Poszukaj w archiwum jakichkolwiek odwolaÅ„ do Generatora Ekosystemu Cudownej Krainy.}
+{229}{}{PrzywoÅ‚aj raporty generatora mocy Kryptopolis. }
+{230}{}{Wyloguj siÄ™ z terminala.}
+{231}{}{WedÅ‚ug raportu wyjÅ›ciowego wyglÄ…da na to, Å¼e Gordon miaÅ‚ racjÄ™. Generator Kryptopolis juÅ¼ osiÄ…ga swoje granice wydajnoÅ›ci. Bez nowego ÅºrÃ³dÅ‚a zasilania Kryptopolis nie bÄ™dzie mogÅ‚o siÄ™ rozwijaÄ‡.}
+{232}{}{Kontynuuj przeszukiwanie archiwÃ³w.}
+{233}{}{Wyloguj siÄ™ z terminala.}
+{234}{}{W archiwach zapisane sÄ… tylko dwie Krypty: Krypta 8 (to ta, w ktÃ³rej jesteÅ›) i Krypta 15, ktÃ³re jest daleko na poÅ‚udnie. Dziwne, ale nie ma wzmianki o Krypcie 13.}
+{235}{}{Wprowadzasz lokalizacjÄ™ Krypty 15 do Pip-Boya.}
+{236}{}{Kontynuuj przeszukiwanie archiwÃ³w.}
+{237}{}{Wyloguj siÄ™ z terminala.}
+{238}{}{Z archiwÃ³w wynika, Å¼e w tej chwili Biuro UdogodnieÅ„ Kryptopolis nie ma na stanie GECKa. MieszkaÅ„cy Kryptopolis prawdopodobnie wykorzystali jedynÄ… takÄ… jednostkÄ™, ktÃ³rÄ… posiadali, aby stworzyÄ‡ to miejsce, gdy wyszli na powierzchniÄ™.}
+{239}{}{PrzewiÅ„ pozostaÅ‚e informacje.}
+{240}{}{Z tego, co moÅ¼esz wyczytaÄ‡ w archiwum wynika, Å¼e w skÅ‚ad standardowego wyposaÅ¼enia kaÅ¼dej Krypty wchodziÅ‚y dwa GECKi. JednakÅ¼e tylko jeden zostaÅ‚ dostarczony do Krypty 8.}
+{241}{}{SprawdÅº odnoÅ›niki do informacji o przesyÅ‚ce GECKÃ³w.}
+{242}{}{WrÃ³Ä‡ do gÅ‚Ã³wnego menu.}
+{243}{}{Wyloguj siÄ™ z terminala.}
+{244}{}{WyglÄ…da na to, Å¼e z powodu bÅ‚Ä™du logistycznego Krypta 8 otrzymaÅ‚a pudÅ‚o peÅ‚ne hydroprocesorÃ³w przeznaczonych dla innej Krypty. Tamta Krypta otrzymaÅ‚a zapewne drugiego GECKa Krypty 8.}
+{245}{}{WrÃ³Ä‡ do gÅ‚Ã³wnego menu.}
+{246}{}{Wyloguj siÄ™ z terminala.}
+{247}{}{Na ekranie terminala otwiera siÄ™ maÅ‚e okienko, a tuÅ¼ obok widzisz uÅ›miechniÄ™tego Pip-Boya. Gdy tak go obserwujesz, Pip-Boy patrzy prosto na ciebie, mruga i podnosi obydwa kciuki w gore. Obok slotu komputerowego Å›wieci siÄ™ czerwone Å›wiatÅ‚o.}
+{248}{}{PokaÅ¼ Pip-Boyowi kciuki w gÃ³rze.}
+{249}{}{PokaÅ¼ Pip-Boyowi Å›rodkowy palec.}
+{250}{}{Informacje o twÃ³rcach Fallout 2 zostanÄ… skopiowane do Pip-Boya. Kopiowanie plikÃ³w... Informacje o twÃ³rcach Kryptopolis... Kopiowanie zakoÅ„czone.}
+{251}{}{DziÄ™kujÄ™.}
+{252}{}{Lepiej, Å¼eby ten badziew byÅ‚ wart parÄ™ punktÃ³w umiejÄ™tnoÅ›ci, bo inaczej porzÄ…dnie siÄ™ wkurzÄ™.}
+{253}{}{Na ekranie Pip-Boy macha ci na poÅ¼egnanie, potem zaÅ› obraz znika. Terminal wyÅ‚Ä…czyÅ‚ siÄ™.}
+{254}{}{[OdejdÅº.]}
+{255}{}{Ta, lepiej zwiewaj, maÅ‚y gnojku.}
+{256}{}{Terminal wyÅ‚Ä…czyÅ‚ siÄ™. Nie masz pojÄ™cia, jak moÅ¼na go wÅ‚Ä…czyÄ‡ z powrotem.}
+{257}{}{OdejdÅº.}
+{258}{}{Czytanie Dysku... Dane Reaktora: Elektrownia Atomowa... WydajnoÅ›Ä‡: 43%/75%... BÅ‚Ä…d: Kalibracja Elektrowni - MD4/gh1... Czy chcesz zoptymalizowaÄ‡?}
 {259}{}{}
 {260}{}{}
 {261}{}{}
 {262}{}{}
-{263}{}{Rozpocznij procedurê optymalizacji.}
-{264}{}{Przerwij operacjê i przeszukaj archiwa.}
-{265}{}{Wyloguj siê z terminala.}
-{266}{}{Rozpoczynam procedurê optymalizacji... Optymalizujê... Optymalizacja zakoñczona. Proszê wyj¹æ dysk.}
+{263}{}{Rozpocznij procedurÄ™ optymalizacji.}
+{264}{}{Przerwij operacjÄ™ i przeszukaj archiwa.}
+{265}{}{Wyloguj siÄ™ z terminala.}
+{266}{}{Rozpoczynam procedurÄ™ optymalizacji... OptymalizujÄ™... Optymalizacja zakoÅ„czona. ProszÄ™ wyjÄ…Ä‡ dysk.}
 {267}{}{}
 {268}{}{}
 {269}{}{}
 {270}{}{Przeszukaj archiwa.}
-{271}{}{Wyloguj siê z terminala.}
+{271}{}{Wyloguj siÄ™ z terminala.}
 {272}{}{Aaaaaaaaa. Det tynzzz.}
-{300}{}{Kiedy w³aœnie masz zamiar wróciæ do listy archiwów, umiejêtnie wy³apujesz ukryty wpis.}
-{301}{}{Kiedy w³aœnie masz siê wylogowaæ z terminala, umiejêtnie wy³apujesz ukryty wpis w liœcie archiwów.}
+{300}{}{Kiedy wÅ‚aÅ›nie masz zamiar wrÃ³ciÄ‡ do listy archiwÃ³w, umiejÄ™tnie wyÅ‚apujesz ukryty wpis.}
+{301}{}{Kiedy wÅ‚aÅ›nie masz siÄ™ wylogowaÄ‡ z terminala, umiejÄ™tnie wyÅ‚apujesz ukryty wpis w liÅ›cie archiwÃ³w.}
 {302}{}{[KONTYNUUJ]}
-{303}{}{Po kilku minutach, uzyskujesz dostêp do zabezpieczonego archiwum. Jest tam tylko jeden plik i jest oznaczony jako "Poufne". Wygl¹da na to, ¿e twoje punktu umiejêtnoœci przeznaczone na naukê nie posz³y na marne.}
+{303}{}{Po kilku minutach, uzyskujesz dostÄ™p do zabezpieczonego archiwum. Jest tam tylko jeden plik i jest oznaczony jako "Poufne". WyglÄ…da na to, Å¼e twoje punktu umiejÄ™tnoÅ›ci przeznaczone na naukÄ™ nie poszÅ‚y na marne.}
 {304}{}{[Przeczytaj plik.]}
-{305}{}{Czytaj¹c plik, dowiadujesz siê, ¿e jedynym celem Krypty 8 by³o dzia³anie jako "Krypta kontrolna" serii Krypt zbudowanych przez firmê KrypTech. Krypta 8 mia³a byæ otwarta po 10 latach w celu ponownego skolonizowania powierzchni. Okazuje siê te¿, ¿e Krypta 8 nie by³a jedyn¹ Krypt¹ z przeznaczeniem innym ni¿ tylko zapewnienie jej mieszkañcom przetrwania Wielkiej Wojny. Byæ mo¿e, gdzieindziej uda siê znaleŸæ coœ wiêcej o prawdziwym przeznaczeniu tych Krypt.}
-{306}{}{[Powrót do listy archiwów.]}
+{305}{}{CzytajÄ…c plik, dowiadujesz siÄ™, Å¼e jedynym celem Krypty 8 byÅ‚o dziaÅ‚anie jako "Krypta kontrolna" serii Krypt zbudowanych przez firmÄ™ KrypTech. Krypta 8 miaÅ‚a byÄ‡ otwarta po 10 latach w celu ponownego skolonizowania powierzchni. Okazuje siÄ™ teÅ¼, Å¼e Krypta 8 nie byÅ‚a jedynÄ… KryptÄ… z przeznaczeniem innym niÅ¼ tylko zapewnienie jej mieszkaÅ„com przetrwania Wielkiej Wojny. ByÄ‡ moÅ¼e, gdzieindziej uda siÄ™ znaleÅºÄ‡ coÅ› wiÄ™cej o prawdziwym przeznaczeniu tych Krypt.}
+{306}{}{[PowrÃ³t do listy archiwÃ³w.]}
 {307}{}{[Wyloguj.]}
-{308}{}{Dowiadujesz siê o prawdziwym przeznaczeniu Krypty 8 i o tym, ¿e kryje siê coœ wiêcej za budow¹ tych wszystkich Krypt ni¿ mo¿e siê wydawaæ na pierwszy rzut oka.}
+{308}{}{Dowiadujesz siÄ™ o prawdziwym przeznaczeniu Krypty 8 i o tym, Å¼e kryje siÄ™ coÅ› wiÄ™cej za budowÄ… tych wszystkich Krypt niÅ¼ moÅ¼e siÄ™ wydawaÄ‡ na pierwszy rzut oka.}

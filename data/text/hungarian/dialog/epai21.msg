@@ -18,6 +18,6 @@
 {115}{}{Return to main menu.}
 {116}{}{Thank you for using the location finder.}
 {117}{}{[DONE]}
-{118}{}{Egy sz·mÌtÛgÈpet l·tsz.}
+{118}{}{Egy sz√°m√≠t√≥g√©pet l√°tsz.}
 {119}{}{You see the EPA Location Finder.}
 {120}{}{You see a computer with detailed information about the levels in the EPA.}

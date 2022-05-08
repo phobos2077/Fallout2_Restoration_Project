@@ -1,2 +1,2 @@
-{100}{}{Widzisz terminal steruj¹cy drzwiami.}
-{101}{}{To chyba komputer kontroluj¹cy pobliskie drzwi.}
+{100}{}{Widzisz terminal sterujÄ…cy drzwiami.}
+{101}{}{To chyba komputer kontrolujÄ…cy pobliskie drzwi.}

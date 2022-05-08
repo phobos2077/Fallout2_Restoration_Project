@@ -2,17 +2,17 @@
 {101}{}{Tu vois un technicien informatique.}
 {102}{}{Tu vois quelqu'un en blouse de laboratoire avec un cache poche et un paquet de stylos.}
 {103}{}{Bonjour, soldat.}
-{104}{}{Ne touche à rien, s'il te plaît.}
-{105}{}{Les bidasses ne sont pas censés venir ici.}
+{104}{}{Ne touche Ã  rien, s'il te plaÃ®t.}
+{105}{}{Les bidasses ne sont pas censÃ©s venir ici.}
 {106}{}{Tu ne portes pas ton uniforme.}
-{107}{}{Tu ferais mieux d'aller mettre ton uniforme. L'armurerie est sous le hall à gauche.}
-{108}{}{Tu prends des gros risques en te promenant sans uniforme. Tu ferais mieux d'aller à la réserve.}
+{107}{}{Tu ferais mieux d'aller mettre ton uniforme. L'armurerie est sous le hall Ã  gauche.}
+{108}{}{Tu prends des gros risques en te promenant sans uniforme. Tu ferais mieux d'aller Ã  la rÃ©serve.}
 {109}{}{Mais bon sang, qui es-tu ?! -- Alerte ! Des intrus !!!}
-{110}{}{La base a été infiltrée ! Alerte !!}
+{110}{}{La base a Ã©tÃ© infiltrÃ©e ! Alerte !!}
 {111}{}{Un groupe d'intrus ! Sonnez l'alarme !!}
 {112}{}{Merde ! Lancez les sauvegardes !}
-{113}{}{Arrêtez toutes les opérations secrètes.}
-{114}{}{Verrouillez le système et activez tous les mots de passe.}
+{113}{}{ArrÃªtez toutes les opÃ©rations secrÃ¨tes.}
+{114}{}{Verrouillez le systÃ¨me et activez tous les mots de passe.}
 {115}{}{Je suis un chercheur, pas un combattant !}
-{116}{}{Le point rouge de la diode du laser se pose sur l'ennemi. Tu presses la détente.}
+{116}{}{Le point rouge de la diode du laser se pose sur l'ennemi. Tu presses la dÃ©tente.}
 {117}{}{A l'aide ! Au centre informatique !}

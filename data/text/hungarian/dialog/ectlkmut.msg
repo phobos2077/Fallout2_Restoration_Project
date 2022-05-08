@@ -1,12 +1,12 @@
-{100}{}{Akarol hallani új recept?}
+{100}{}{Akarol hallani Ãºj recept?}
 {101}{}{Milyent?}
-{102}{}{Patkány meglepetés.}
-{103}{}{Hangzik jól. Hogy csinájjuk?}
-{104}{}{Fogjá' patkány! Óvatossan csapjad agyba, ne túl laposra!}
-{105}{}{Hogyanhogy ne túl laposra? Akárháncor én lecsapni egy, fröccsen szétfele. Tiszta trutyi.}
-{106}{}{Akarod hallani recept, vagy nem? Patkányfogás lenni tied probléma.}
-{107}{}{Én sajnálja.}
-{108}{}{Ahogy én aztat mondtam, fogjá' patkány! Lógassad falra farkánál fogva!}
-{109}{}{Haggyad lógva, mígcsak esik lefele magától. Akkor van kész.}
-{110}{}{Egyed gyorsan megfele, ha túl soká hagyod, meglepetés mászik bel?le ki azt' repül elfele.}
+{102}{}{PatkÃ¡ny meglepetÃ©s.}
+{103}{}{Hangzik jÃ³l. Hogy csinÃ¡jjuk?}
+{104}{}{FogjÃ¡' patkÃ¡ny! Ã“vatossan csapjad agyba, ne tÃºl laposra!}
+{105}{}{Hogyanhogy ne tÃºl laposra? AkÃ¡rhÃ¡ncor Ã©n lecsapni egy, frÃ¶ccsen szÃ©tfele. Tiszta trutyi.}
+{106}{}{Akarod hallani recept, vagy nem? PatkÃ¡nyfogÃ¡s lenni tied problÃ©ma.}
+{107}{}{Ã‰n sajnÃ¡lja.}
+{108}{}{Ahogy Ã©n aztat mondtam, fogjÃ¡' patkÃ¡ny! LÃ³gassad falra farkÃ¡nÃ¡l fogva!}
+{109}{}{Haggyad lÃ³gva, mÃ­gcsak esik lefele magÃ¡tÃ³l. Akkor van kÃ©sz.}
+{110}{}{Egyed gyorsan megfele, ha tÃºl sokÃ¡ hagyod, meglepetÃ©s mÃ¡szik bel?le ki azt' repÃ¼l elfele.}
 {111}{}{Hm, hangzik fincsisen.}

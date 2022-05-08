@@ -1,84 +1,84 @@
-{100}{}{Ves a un necrófago grasiento y sudoroso.}
+{100}{}{Ves a un necrÃ³fago grasiento y sudoroso.}
 {101}{}{Ves a Eric.}
-{102}{}{Ves a un necrófago grasiento y sudoroso. Parece bastante abatido.}
-{103}{}{Como si esta ciudad necesitara más mala suerte. Como si *yo* necesitara más mala suerte.}
-{104}{}{¡Entra ya! ¡Y cierra la puerta! ¡Que no entren las moscas!}
-{105}{}{¿Moscas? F-f-f!}
-{106}{}{Está bien, está bien. No hace falta gritar.}
-{107}{}{¿Me estás gritando a mí?}
-{108}{}{Dejaré entrar a todas las malditas moscas que quiera. Perdedor.}
+{102}{}{Ves a un necrÃ³fago grasiento y sudoroso. Parece bastante abatido.}
+{103}{}{Como si esta ciudad necesitara mÃ¡s mala suerte. Como si *yo* necesitara mÃ¡s mala suerte.}
+{104}{}{Â¡Entra ya! Â¡Y cierra la puerta! Â¡Que no entren las moscas!}
+{105}{}{Â¿Moscas? F-f-f!}
+{106}{}{EstÃ¡ bien, estÃ¡ bien. No hace falta gritar.}
+{107}{}{Â¿Me estÃ¡s gritando a mÃ­?}
+{108}{}{DejarÃ© entrar a todas las malditas moscas que quiera. Perdedor.}
 {109}{}{De acuerdo. Hasta luego.}
-{110}{}{¡Cierra la puerta! ¡Por favor! ¡Vete y llévate a esas malditas moscas contigo!}
-{111}{}{¡Vale!}
-{112}{}{Lo siento. Estoy un poco más nervioso de lo normal. Todas esas malditas moscas, y sin aire acondicionado. Si tan solo tuviera un poco más de energía podría quitármelas de encima... pero no la tengo.}
-{113}{}{¿Quién eres?}
-{114}{}{¿Cómo consigues la energía?}
-{115}{}{¿Porqué las moscas vienen aquí?}
-{116}{}{Podrías probar bañándote.}
+{110}{}{Â¡Cierra la puerta! Â¡Por favor! Â¡Vete y llÃ©vate a esas malditas moscas contigo!}
+{111}{}{Â¡Vale!}
+{112}{}{Lo siento. Estoy un poco mÃ¡s nervioso de lo normal. Todas esas malditas moscas, y sin aire acondicionado. Si tan solo tuviera un poco mÃ¡s de energÃ­a podrÃ­a quitÃ¡rmelas de encima... pero no la tengo.}
+{113}{}{Â¿QuiÃ©n eres?}
+{114}{}{Â¿CÃ³mo consigues la energÃ­a?}
+{115}{}{Â¿PorquÃ© las moscas vienen aquÃ­?}
+{116}{}{PodrÃ­as probar baÃ±Ã¡ndote.}
 {117}{}{Mala suerte para ti, amigo. Hasta luego.}
 {118}{}{Hmm. Mala suerte. Hasta luego.}
-{119}{}{Hay una estación generadora en el centro que controla la energía de la ciudad. Si pudieras ir allí y conseguir permiso para enviarme un poco más de energía para mi aire acondicionado, te lo agradecería.}
-{120}{}{¿Cómo me lo agradecerías? ¿Dinero o equipamiento?}
-{121}{}{Sí, lo haré por ti.}
-{122}{}{No tengo tiempo. Quizá más tarde.}
-{123}{}{¿Estás loco? Ni hablar. Ojalá tengas una muerte miserable. Hazle un favor al mundo.}
-{124}{}{Vienen aquí porque por alguna extraña razón exudo nutrientes para moscas. Mi cuerpo es rico en alimento para ellas, y este sudor sólo lo empeora.}
-{125}{}{Eso es simplemente repugnante. ¿Por qué no te das un baño o algo así?}
-{126}{}{Entonces te haré un favor matándote.}
-{127}{}{Ya veo. Eso es más de lo que necesitaba saber. Adiós.}
-{128}{}{He intentado eso. Lo he intentado todo. Lo único que mantiene alejadas a las moscas es que no sude... y como no tengo suficiente energía para mantener el frescor, no puedo.}
-{129}{}{Ya veo. Tengo más preguntas.}
-{130}{}{Ya veo. Adiós.}
-{131}{}{¿Sí?}
-{132}{}{He hablado con Brian y ha dicho que las raciones de energía están tan ajustadas que no es posible aumentar tu parte.}
-{133}{}{¿De dónde vienen las moscas?}
-{134}{}{¿Has probado bañándote?}
-{135}{}{¿Dónde está el generador de energía?}
-{136}{}{¿Quién eres?}
-{137}{}{Se está mucho mejor aquí. ¿Estás cómodo?}
-{138}{}{Nada. Olvídalo.}
-{139}{}{Podría raspar un poco para ti si quieres. No puedo prometerte mucho, pero claro, tampoco es un favor demasiado grande.}
-{140}{}{Ya tienes un trato. Tan solo asegúrate de tener algo para mí cuando te consiga la energía.}
-{141}{}{Lo haré gratis. Sin coste.}
-{142}{}{Olvídalo. No quiero hacerlo.}
-{143}{}{Déjame pensar en ello.}
-{144}{}{No te puedes ni imaginar lo mucho que te lo agradezco. Por favor, avísame en cuanto lo hayas hecho para que pueda subir el aire acondicionado y tomar un baño.}
-{145}{}{Lo haré. Tenía algunas otras preguntas.}
-{146}{}{Lo haré. Hasta luego.}
-{147}{}{Por favor, no esperes demasiado... todas estas moscas me están poniendo realmente enfermo.}
-{148}{}{Claro. Tenía algunas otras preguntas.}
-{149}{}{Claro. Te lo haré saber.}
-{150}{}{Muchas gracias por tu compasión. Es un sarcasmo, por cierto, en el caso de que no lo hayas notado. Sal de mi puta casa.}
-{151}{}{¿Por qué no te mueres y te vas al infierno?}
-{152}{}{¡Hasta luego, chico mosca!}
-{153}{}{El generador de energía está a tu izquierda según entras en Broken Hills desde el mundo exterior. Lo dirige un tipo llamado Brian, un perezoso hijo de puta que trabaja tan poco como es posible.}
-{154}{}{Parece un trabajo de verdad. Gracias. Tengo más preguntas.}
+{119}{}{Hay una estaciÃ³n generadora en el centro que controla la energÃ­a de la ciudad. Si pudieras ir allÃ­ y conseguir permiso para enviarme un poco mÃ¡s de energÃ­a para mi aire acondicionado, te lo agradecerÃ­a.}
+{120}{}{Â¿CÃ³mo me lo agradecerÃ­as? Â¿Dinero o equipamiento?}
+{121}{}{SÃ­, lo harÃ© por ti.}
+{122}{}{No tengo tiempo. QuizÃ¡ mÃ¡s tarde.}
+{123}{}{Â¿EstÃ¡s loco? Ni hablar. OjalÃ¡ tengas una muerte miserable. Hazle un favor al mundo.}
+{124}{}{Vienen aquÃ­ porque por alguna extraÃ±a razÃ³n exudo nutrientes para moscas. Mi cuerpo es rico en alimento para ellas, y este sudor sÃ³lo lo empeora.}
+{125}{}{Eso es simplemente repugnante. Â¿Por quÃ© no te das un baÃ±o o algo asÃ­?}
+{126}{}{Entonces te harÃ© un favor matÃ¡ndote.}
+{127}{}{Ya veo. Eso es mÃ¡s de lo que necesitaba saber. AdiÃ³s.}
+{128}{}{He intentado eso. Lo he intentado todo. Lo Ãºnico que mantiene alejadas a las moscas es que no sude... y como no tengo suficiente energÃ­a para mantener el frescor, no puedo.}
+{129}{}{Ya veo. Tengo mÃ¡s preguntas.}
+{130}{}{Ya veo. AdiÃ³s.}
+{131}{}{Â¿SÃ­?}
+{132}{}{He hablado con Brian y ha dicho que las raciones de energÃ­a estÃ¡n tan ajustadas que no es posible aumentar tu parte.}
+{133}{}{Â¿De dÃ³nde vienen las moscas?}
+{134}{}{Â¿Has probado baÃ±Ã¡ndote?}
+{135}{}{Â¿DÃ³nde estÃ¡ el generador de energÃ­a?}
+{136}{}{Â¿QuiÃ©n eres?}
+{137}{}{Se estÃ¡ mucho mejor aquÃ­. Â¿EstÃ¡s cÃ³modo?}
+{138}{}{Nada. OlvÃ­dalo.}
+{139}{}{PodrÃ­a raspar un poco para ti si quieres. No puedo prometerte mucho, pero claro, tampoco es un favor demasiado grande.}
+{140}{}{Ya tienes un trato. Tan solo asegÃºrate de tener algo para mÃ­ cuando te consiga la energÃ­a.}
+{141}{}{Lo harÃ© gratis. Sin coste.}
+{142}{}{OlvÃ­dalo. No quiero hacerlo.}
+{143}{}{DÃ©jame pensar en ello.}
+{144}{}{No te puedes ni imaginar lo mucho que te lo agradezco. Por favor, avÃ­same en cuanto lo hayas hecho para que pueda subir el aire acondicionado y tomar un baÃ±o.}
+{145}{}{Lo harÃ©. TenÃ­a algunas otras preguntas.}
+{146}{}{Lo harÃ©. Hasta luego.}
+{147}{}{Por favor, no esperes demasiado... todas estas moscas me estÃ¡n poniendo realmente enfermo.}
+{148}{}{Claro. TenÃ­a algunas otras preguntas.}
+{149}{}{Claro. Te lo harÃ© saber.}
+{150}{}{Muchas gracias por tu compasiÃ³n. Es un sarcasmo, por cierto, en el caso de que no lo hayas notado. Sal de mi puta casa.}
+{151}{}{Â¿Por quÃ© no te mueres y te vas al infierno?}
+{152}{}{Â¡Hasta luego, chico mosca!}
+{153}{}{El generador de energÃ­a estÃ¡ a tu izquierda segÃºn entras en Broken Hills desde el mundo exterior. Lo dirige un tipo llamado Brian, un perezoso hijo de puta que trabaja tan poco como es posible.}
+{154}{}{Parece un trabajo de verdad. Gracias. Tengo mÃ¡s preguntas.}
 {155}{}{Ya veo. Bueno, eso es todo por ahora.}
-{156}{}{Soy Eric. Solía dirigir el hotel de la ciudad, pero tuve que venderlo debido a mi problema con las moscas. También dirigía la taberna, pero tuve que irme de allí, de nuevo, por la misma razón. Finalmente, solía dirigir el generador, pero las moscas se quedaban dentro.}
-{157}{}{Eso es un buen montón de trabajos. Tengo más preguntas.}
-{158}{}{Ya veo. ¡Hasta luego!}
-{159}{}{Eso dijo, ¿eh? Bien, dile que el generador es de uranio y que la minúscula cantidad de energía que requiero apenas se notaría en el generador. ¡Y dile que quiero mi energía!}
-{160}{}{¡Lo haré! ¡Buen discurso!}
-{161}{}{Se lo diré. Tengo otras preguntas.}
-{162}{}{Claro. Adiós.}
-{163}{}{¿Has solucionado lo del generador? Gracias, de verdad. No puedo ni empezar a describir lo agradecido que estoy.}
-{164}{}{La forma habitual de expresar agradecimientos es a través de regalos, dinero o equipamiento.}
+{156}{}{Soy Eric. SolÃ­a dirigir el hotel de la ciudad, pero tuve que venderlo debido a mi problema con las moscas. TambiÃ©n dirigÃ­a la taberna, pero tuve que irme de allÃ­, de nuevo, por la misma razÃ³n. Finalmente, solÃ­a dirigir el generador, pero las moscas se quedaban dentro.}
+{157}{}{Eso es un buen montÃ³n de trabajos. Tengo mÃ¡s preguntas.}
+{158}{}{Ya veo. Â¡Hasta luego!}
+{159}{}{Eso dijo, Â¿eh? Bien, dile que el generador es de uranio y que la minÃºscula cantidad de energÃ­a que requiero apenas se notarÃ­a en el generador. Â¡Y dile que quiero mi energÃ­a!}
+{160}{}{Â¡Lo harÃ©! Â¡Buen discurso!}
+{161}{}{Se lo dirÃ©. Tengo otras preguntas.}
+{162}{}{Claro. AdiÃ³s.}
+{163}{}{Â¿Has solucionado lo del generador? Gracias, de verdad. No puedo ni empezar a describir lo agradecido que estoy.}
+{164}{}{La forma habitual de expresar agradecimientos es a travÃ©s de regalos, dinero o equipamiento.}
 {165}{}{No lo hagas, entonces. Me vale con un gracias.}
-{166}{}{El mutante Francis tiene un puño energético. Lo apuesta habitualmente en concursos de pulsos. El problema es ser más fuerte que él. Si te interesa, puedo darte unas píldoras que deberían darte ventaja sobre él.}
+{166}{}{El mutante Francis tiene un puÃ±o energÃ©tico. Lo apuesta habitualmente en concursos de pulsos. El problema es ser mÃ¡s fuerte que Ã©l. Si te interesa, puedo darte unas pÃ­ldoras que deberÃ­an darte ventaja sobre Ã©l.}
 {167}{}{Por supuesto.}
-{168}{}{Preferiría dinero, si lo tienes.}
+{168}{}{PreferirÃ­a dinero, si lo tienes.}
 {169}{}{No quiero una recompensa.}
-{170}{}{Estas píldoras se llaman esteroides. Incrementan tu fuerza, pero tu mente sufrirá un poco. No tomes demasiados o podrías engancharte. ¡Buena suerte con el puño!}
-{171}{}{¡Gracias! ¡Hasta luego!}
-{172}{}{¿Crees que puedes ayudarme con mi problema con las moscas? Te estaría muy agradecido.}
-{173}{}{¿Cómo de agradecido?}
+{170}{}{Estas pÃ­ldoras se llaman esteroides. Incrementan tu fuerza, pero tu mente sufrirÃ¡ un poco. No tomes demasiados o podrÃ­as engancharte. Â¡Buena suerte con el puÃ±o!}
+{171}{}{Â¡Gracias! Â¡Hasta luego!}
+{172}{}{Â¿Crees que puedes ayudarme con mi problema con las moscas? Te estarÃ­a muy agradecido.}
+{173}{}{Â¿CÃ³mo de agradecido?}
 {174}{}{Por supuesto.}
-{175}{}{Déjame pensar en ello.}
-{176}{}{No hay elección.}
-{177}{}{Aquí está todo el dinero que tengo... 150 dólares. Gracias.}
+{175}{}{DÃ©jame pensar en ello.}
+{176}{}{No hay elecciÃ³n.}
+{177}{}{AquÃ­ estÃ¡ todo el dinero que tengo... 150 dÃ³lares. Gracias.}
 {178}{}{No, gracias. Hasta luego.}
-{179}{}{Entonces estoy doblemente agradecido. Oh... he oído que estás buscando un GECK. Inténtalo en RNC. Está al sur.}
-{180}{}{¡Gracias! ¡Adiós!}
-{181}{}{Oh, sí. Las moscas han disminuido, el aire es fresco, y yo sudo menos. ¡Todos salimos ganando!}
-{182}{}{Totalmente de acuerdo. Bueno, eso es todo. ¡Hasta luego!}
+{179}{}{Entonces estoy doblemente agradecido. Oh... he oÃ­do que estÃ¡s buscando un GECK. IntÃ©ntalo en RNC. EstÃ¡ al sur.}
+{180}{}{Â¡Gracias! Â¡AdiÃ³s!}
+{181}{}{Oh, sÃ­. Las moscas han disminuido, el aire es fresco, y yo sudo menos. Â¡Todos salimos ganando!}
+{182}{}{Totalmente de acuerdo. Bueno, eso es todo. Â¡Hasta luego!}
 {183}{}{Ves a un hombre grasiento y sudoroso. Parece bastante abatido.}

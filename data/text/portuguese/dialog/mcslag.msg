@@ -1,22 +1,22 @@
 {100}{}{Corre!}
 {101}{}{Ajuda!}
-{102}{}{Estamos sob ataque da superfície.}
+{102}{}{Estamos sob ataque da superfÃ­cie.}
 {103}{}{Nos deixe em paz.}
-{104}{}{Nos não podemos ficar juntos?}
+{104}{}{Nos nÃ£o podemos ficar juntos?}
 {150}{}{Volte para onde veio.}
-{151}{}{Você não é procurado aqui.}
-{152}{}{Todos vocês da superfície são iguais.}
-{153}{}{Você não vai escapar.}
+{151}{}{VocÃª nÃ£o Ã© procurado aqui.}
+{152}{}{Todos vocÃªs da superfÃ­cie sÃ£o iguais.}
+{153}{}{VocÃª nÃ£o vai escapar.}
 {200}{}{Groan!}
 {201}{}{Boo!}
 {202}{}{Moaaaaaaan.}
 {203}{}{*Clank*}
 {204}{}{*Clink*}
-{250}{}{Costumávamos viver na superfície.}
-{251}{}{Como é lá na superfície?}
-{252}{}{Lá em cima é ENORME.}
+{250}{}{CostumÃ¡vamos viver na superfÃ­cie.}
+{251}{}{Como Ã© lÃ¡ na superfÃ­cie?}
+{252}{}{LÃ¡ em cima Ã© ENORME.}
 {253}{}{Como o sol se parace?}
-{254}{}{Olá, pessoa da superfície.}
-{300}{}{Sabia que poderia confiar em você.}
+{254}{}{OlÃ¡, pessoa da superfÃ­cie.}
+{300}{}{Sabia que poderia confiar em vocÃª.}
 {301}{}{Obrigado por nos ajudar.}
-{302}{}{Bom ver você de novo.}
+{302}{}{Bom ver vocÃª de novo.}

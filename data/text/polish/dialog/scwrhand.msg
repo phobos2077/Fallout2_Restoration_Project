@@ -1,12 +1,12 @@
-{100}{}{Widzisz osobê nosz¹c¹ zakurzony strój roboczy.}
-{101}{}{Jeden z robotników Westina na ranczu.}
-{102}{}{To mo¿e byæ tylko robotnik na ranczu, ale mo¿e to byæ tak¿e wynajêty morderca. Z pewnoœci¹ jest gotowy na wszystko.}
-{103}{}{Masz tutaj tak ³aziæ?}
-{104}{}{Je¿eli szukasz roboty pogadaj z Felixem.}
-{105}{}{Mam ju¿ dosyæ bramin.}
-{106}{}{S³ysza³em, ¿e Bishopowie dosypali coœ naszemu szefowi.}
-{107}{}{Chcesz z kimœ pogadaæ, to idŸ do brygadzisty, Felixa.}
+{100}{}{Widzisz osobÄ™ noszÄ…cÄ… zakurzony strÃ³j roboczy.}
+{101}{}{Jeden z robotnikÃ³w Westina na ranczu.}
+{102}{}{To moÅ¼e byÄ‡ tylko robotnik na ranczu, ale moÅ¼e to byÄ‡ takÅ¼e wynajÄ™ty morderca. Z pewnoÅ›ciÄ… jest gotowy na wszystko.}
+{103}{}{Masz tutaj tak Å‚aziÄ‡?}
+{104}{}{JeÅ¼eli szukasz roboty pogadaj z Felixem.}
+{105}{}{Mam juÅ¼ dosyÄ‡ bramin.}
+{106}{}{SÅ‚yszaÅ‚em, Å¼e Bishopowie dosypali coÅ› naszemu szefowi.}
+{107}{}{Chcesz z kimÅ› pogadaÄ‡, to idÅº do brygadzisty, Felixa.}
 {108}{}{Nie trzymasz z Bishopami, prawda?}
-{109}{}{Wiemy, ¿e to by³o morderstwo. Z³apiemy gada, jego œmieræ nie bêdzie szybka.}
-{110}{}{Felix przysiêga, ¿e to Bishopowie za tym stoj¹. Mówi, ¿e ktoœ na tym zyska.}
-{111}{}{Có¿, chyba ju¿ czas siê st¹d zabieraæ. Wszystko tu posz³o w diab³y.}
+{109}{}{Wiemy, Å¼e to byÅ‚o morderstwo. ZÅ‚apiemy gada, jego Å›mierÄ‡ nie bÄ™dzie szybka.}
+{110}{}{Felix przysiÄ™ga, Å¼e to Bishopowie za tym stojÄ…. MÃ³wi, Å¼e ktoÅ› na tym zyska.}
+{111}{}{CÃ³Å¼, chyba juÅ¼ czas siÄ™ stÄ…d zabieraÄ‡. Wszystko tu poszÅ‚o w diabÅ‚y.}

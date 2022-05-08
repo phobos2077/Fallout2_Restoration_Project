@@ -1,40 +1,40 @@
-{100}{}{Ez egy rakás rongy, ami alatt lehet hogy van valaki.}
-{101}{}{? Ratch, valószín?leg tetvészkedik.}
-{102}{}{Ember is lehet, mutáns is lehet. Egy biztos, irtó büdös szegény.}
-{103}{}{Eladó a szemét, eladó a szemét! Nézd át, és mondj egy árat!}
+{100}{}{Ez egy rakÃ¡s rongy, ami alatt lehet hogy van valaki.}
+{101}{}{? Ratch, valÃ³szÃ­n?leg tetvÃ©szkedik.}
+{102}{}{Ember is lehet, mutÃ¡ns is lehet. Egy biztos, irtÃ³ bÃ¼dÃ¶s szegÃ©ny.}
+{103}{}{EladÃ³ a szemÃ©t, eladÃ³ a szemÃ©t! NÃ©zd Ã¡t, Ã©s mondj egy Ã¡rat!}
 {104}{}{Persze-persze.}
 {105}{}{Nem-nem.}
-{106}{}{Szóval milyen eladó dolgaid vannak?}
-{107}{}{Úgy látszik, ügyeskez? vagy. Ugye vannak kezeid?}
-{108}{}{5 dollárért tudsz valami pletykát?}
-{109}{}{Viszlát!}
+{106}{}{SzÃ³val milyen eladÃ³ dolgaid vannak?}
+{107}{}{Ãšgy lÃ¡tszik, Ã¼gyeskez? vagy. Ugye vannak kezeid?}
+{108}{}{5 dollÃ¡rÃ©rt tudsz valami pletykÃ¡t?}
+{109}{}{ViszlÃ¡t!}
 {110}{}{See that one there? That's my favorite - that one's Edna. I name all my stuff, see - they're like children to me. I hate having to sell 'em, but I got to eat.}
-{111}{}{A gyermekeimmel szemétkedsz!}
-{112}{}{Ja, jól van. Itt egy ötös. Tudsz valami jó pletykát?}
-{113}{}{Okééé... nem vagy valami spéci! Talán valahol máshol fogok vásárolni.}
-{114}{}{Hadd nézzem meg újra a készletedet!}
-{115}{}{Azt hiszem, Edna és én lassan indulunk.}
+{111}{}{A gyermekeimmel szemÃ©tkedsz!}
+{112}{}{Ja, jÃ³l van. Itt egy Ã¶tÃ¶s. Tudsz valami jÃ³ pletykÃ¡t?}
+{113}{}{OkÃ©Ã©Ã©... nem vagy valami spÃ©ci! TalÃ¡n valahol mÃ¡shol fogok vÃ¡sÃ¡rolni.}
+{114}{}{Hadd nÃ©zzem meg Ãºjra a kÃ©szletedet!}
+{115}{}{Azt hiszem, Edna Ã©s Ã©n lassan indulunk.}
 {116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
-{117}{}{Öhhh... hogyne.}
+{117}{}{Ã–hhh... hogyne.}
 {118}{}{Rendben, azt hiszem, megyek is...}
-{119}{}{Rengeteg dolgot meg tudok javítani. Van egy Claudia nev? kompresszorom, a legtöbb autóhoz illik - jó sok pacit ad a motornak. Csak 1000 dollár. Érdekel?}
-{120}{}{Te fajankó, err?l már beszéltünk!}
-{121}{}{Fogadjunk, hogy Claudia az én... na mindegy...}
-{122}{}{Talán valami más érdekelne...}
-{123}{}{Hallottam a szóbeszédet, hogy él egy doki a városban. Valami csodálatos gyógymódot tulajdonítanak neki. Nem nagyon veszem ezt be...}
-{124}{}{Aztán ott van még Sóshús. A hülye öreg azt mondogatja, hogy talált egy aranybányát...}
+{119}{}{Rengeteg dolgot meg tudok javÃ­tani. Van egy Claudia nev? kompresszorom, a legtÃ¶bb autÃ³hoz illik - jÃ³ sok pacit ad a motornak. Csak 1000 dollÃ¡r. Ã‰rdekel?}
+{120}{}{Te fajankÃ³, err?l mÃ¡r beszÃ©ltÃ¼nk!}
+{121}{}{Fogadjunk, hogy Claudia az Ã©n... na mindegy...}
+{122}{}{TalÃ¡n valami mÃ¡s Ã©rdekelne...}
+{123}{}{Hallottam a szÃ³beszÃ©det, hogy Ã©l egy doki a vÃ¡rosban. Valami csodÃ¡latos gyÃ³gymÃ³dot tulajdonÃ­tanak neki. Nem nagyon veszem ezt be...}
+{124}{}{AztÃ¡n ott van mÃ©g SÃ³shÃºs. A hÃ¼lye Ã¶reg azt mondogatja, hogy talÃ¡lt egy aranybÃ¡nyÃ¡t...}
 {125}{}{Miss Dorothy and Toto was out here last week, looking for some parts to fix the power plant. I couldn't help them, though...}
-{126}{}{Az a szóbeszéd járja a városban, hogy ami Westinnnel történt, nem baleset volt. Egyesek szerint túl sok gyanús egyén kószál errefelé...}
-{127}{}{Kösz a pénzt, de nem tudok semmi egyebet mondani.}
-{128}{}{Itt van még egy ötös.}
-{129}{}{Láthatnám a cuccaidat?}
-{130}{}{Hát, köszi az információkat.}
-{131}{}{Rendben, adj hat órát! Akkorra biztos kész leszek.}
-{132}{}{Miel?tt belekezdesz, hadd raboljak még egy kicsit az id?db?l.}
-{133}{}{Megfelel. Kés?bb tálálkozunk.}
-{134}{}{Ha megvan a pénz, gyere vissza! Valószín?leg még nálam lesz.}
-{135}{}{Megegyeztünk.}
-{136}{}{Viszlát!}
-{137}{}{Készen is van! Claudia beszerelve.}
-{138}{}{Adj még egy kis id?t! Még mindig dolgozom azon a megátalkodott alkatrészen.}
-{139}{}{Na, szépen vagyunk! Nem hiszem, hogy van egy tartalék agyam a számodra.}
+{126}{}{Az a szÃ³beszÃ©d jÃ¡rja a vÃ¡rosban, hogy ami Westinnnel tÃ¶rtÃ©nt, nem baleset volt. Egyesek szerint tÃºl sok gyanÃºs egyÃ©n kÃ³szÃ¡l errefelÃ©...}
+{127}{}{KÃ¶sz a pÃ©nzt, de nem tudok semmi egyebet mondani.}
+{128}{}{Itt van mÃ©g egy Ã¶tÃ¶s.}
+{129}{}{LÃ¡thatnÃ¡m a cuccaidat?}
+{130}{}{HÃ¡t, kÃ¶szi az informÃ¡ciÃ³kat.}
+{131}{}{Rendben, adj hat Ã³rÃ¡t! Akkorra biztos kÃ©sz leszek.}
+{132}{}{Miel?tt belekezdesz, hadd raboljak mÃ©g egy kicsit az id?db?l.}
+{133}{}{Megfelel. KÃ©s?bb tÃ¡lÃ¡lkozunk.}
+{134}{}{Ha megvan a pÃ©nz, gyere vissza! ValÃ³szÃ­n?leg mÃ©g nÃ¡lam lesz.}
+{135}{}{MegegyeztÃ¼nk.}
+{136}{}{ViszlÃ¡t!}
+{137}{}{KÃ©szen is van! Claudia beszerelve.}
+{138}{}{Adj mÃ©g egy kis id?t! MÃ©g mindig dolgozom azon a megÃ¡talkodott alkatrÃ©szen.}
+{139}{}{Na, szÃ©pen vagyunk! Nem hiszem, hogy van egy tartalÃ©k agyam a szÃ¡modra.}

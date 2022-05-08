@@ -1,5 +1,5 @@
 {100}{}{Plbbt. Nem kapsz el!}
-{101}{}{Az apukám mindenkit legy?z!}
+{101}{}{Az apukÃ¡m mindenkit legy?z!}
 {102}{}{Vedd el!}
 {103}{}{Menjen innen!}
 {104}{}{Pblbbt!}

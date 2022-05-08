@@ -1,49 +1,49 @@
 {100}{}{Widzisz barczystego trapera.}
 {101}{}{Widzisz krzepkiego trapera.}
-{102}{}{Widzisz ³owcê gekonów.}
-{200}{}{Bêdziesz tu nieŸle pasowaæ.}
-{201}{}{Mo¿e postawisz kolejkê?}
-{202}{}{Bêdziesz siê próbowaæ z Duntonami?}
-{203}{}{Wygl¹dasz na kogoœ z pó³nocy.}
-{204}{}{Na co sieê tak gapisz?}
-{205}{}{Ale¿ ty masz g³adk¹ skórê, kochanie. He, he, he.}
-{206}{}{Glup, przyda³ by siê jeszcze jeden kubek jaszczurzych szczyn.}
-{207}{}{Jak potrzebujesz kasy to zajrzyj do Duntonów. Potrzebuj¹ kogoœ do pomocy.}
-{208}{}{Jesteœ ca³kiem spoko, jak na dzikusa.}
-{209}{}{96 kubków szczyn na murze, 96 kubków szczyn...}
-{210}{}{Ruszam na po³udnie, do Nory. Tam zawsze jest coœ do roboty.}
-{211}{}{Daj tu wiêcej tych jaszczurzych szczyn, Salvadore!}
-{212}{}{Trudno ostatnio wy¿yæ z polowania. Mo¿e trzeba zmieniæ bran¿ê?}
+{102}{}{Widzisz Å‚owcÄ™ gekonÃ³w.}
+{200}{}{BÄ™dziesz tu nieÅºle pasowaÄ‡.}
+{201}{}{MoÅ¼e postawisz kolejkÄ™?}
+{202}{}{BÄ™dziesz siÄ™ prÃ³bowaÄ‡ z Duntonami?}
+{203}{}{WyglÄ…dasz na kogoÅ› z pÃ³Å‚nocy.}
+{204}{}{Na co sieÄ™ tak gapisz?}
+{205}{}{AleÅ¼ ty masz gÅ‚adkÄ… skÃ³rÄ™, kochanie. He, he, he.}
+{206}{}{Glup, przydaÅ‚ by siÄ™ jeszcze jeden kubek jaszczurzych szczyn.}
+{207}{}{Jak potrzebujesz kasy to zajrzyj do DuntonÃ³w. PotrzebujÄ… kogoÅ› do pomocy.}
+{208}{}{JesteÅ› caÅ‚kiem spoko, jak na dzikusa.}
+{209}{}{96 kubkÃ³w szczyn na murze, 96 kubkÃ³w szczyn...}
+{210}{}{Ruszam na poÅ‚udnie, do Nory. Tam zawsze jest coÅ› do roboty.}
+{211}{}{Daj tu wiÄ™cej tych jaszczurzych szczyn, Salvadore!}
+{212}{}{Trudno ostatnio wyÅ¼yÄ‡ z polowania. MoÅ¼e trzeba zmieniÄ‡ branÅ¼Ä™?}
 {213}{}{Nieestem tak piany jak sie wam wydae.}
-{214}{}{Hej, koleœ, czy te koœci wygl¹daj¹ ci na trefne? (grzechot)}
-{215}{}{Jeœli szukasz pracy to pogadaj z Duntonami albo z barmanem.}
-{216}{}{Witaj w najlepszym lokalu pod s³oñcem.}
-{217}{}{Nie, Bishop. Tylko nie ta sztuczka z no¿em.}
-{218}{}{Chce ktoœ zagraæ w koœci?}
-{219}{}{Na szczêœcie Aldo nie zatruwa nam tu powietrza.}
-{220}{}{Zda¿y³o ci siê kiedyœ zbraæbramina, który nie nale¿a³ do ciebie?}
-{221}{}{Uwa¿aj na Ducha Który Chodzi!}
-{222}{}{W kanionie na wschód st¹d straszy!}
-{223}{}{Traperstwo to nie zabawa. Parê tygodni temu straciliœmy jednego z najlepszych ludzi.}
-{224}{}{Lubiê siê dra¿niæ z tym Torrem.}
-{300}{}{Patrzcie no, kto tu zajrza³.}
-{301}{}{(mamrocze) ...i wysmykn¹³ oknem na pole... (be³kocze)}
-{302}{}{Chyba ci siê pomyli³y czêœci miasta?}
-{303}{}{Nie chcemy tu dzikusów takich jak ty.}
-{304}{}{Mo¿e jak nam wszystkim postawisz drinka to pozwolimy ci zostaæ.}
+{214}{}{Hej, koleÅ›, czy te koÅ›ci wyglÄ…dajÄ… ci na trefne? (grzechot)}
+{215}{}{JeÅ›li szukasz pracy to pogadaj z Duntonami albo z barmanem.}
+{216}{}{Witaj w najlepszym lokalu pod sÅ‚oÅ„cem.}
+{217}{}{Nie, Bishop. Tylko nie ta sztuczka z noÅ¼em.}
+{218}{}{Chce ktoÅ› zagraÄ‡ w koÅ›ci?}
+{219}{}{Na szczÄ™Å›cie Aldo nie zatruwa nam tu powietrza.}
+{220}{}{ZdaÅ¼yÅ‚o ci siÄ™ kiedyÅ› zbraÄ‡bramina, ktÃ³ry nie naleÅ¼aÅ‚ do ciebie?}
+{221}{}{UwaÅ¼aj na Ducha KtÃ³ry Chodzi!}
+{222}{}{W kanionie na wschÃ³d stÄ…d straszy!}
+{223}{}{Traperstwo to nie zabawa. ParÄ™ tygodni temu straciliÅ›my jednego z najlepszych ludzi.}
+{224}{}{LubiÄ™ siÄ™ draÅ¼niÄ‡ z tym Torrem.}
+{300}{}{Patrzcie no, kto tu zajrzaÅ‚.}
+{301}{}{(mamrocze) ...i wysmyknÄ…Å‚ oknem na pole... (beÅ‚kocze)}
+{302}{}{Chyba ci siÄ™ pomyliÅ‚y czÄ™Å›ci miasta?}
+{303}{}{Nie chcemy tu dzikusÃ³w takich jak ty.}
+{304}{}{MoÅ¼e jak nam wszystkim postawisz drinka to pozwolimy ci zostaÄ‡.}
 {305}{}{Spadaj, dzikusie.}
-{306}{}{W co siê tak wpatrujesz?}
-{307}{}{Duntonowie ju¿ siê tob¹ zajm¹, dzikusie.}
+{306}{}{W co siÄ™ tak wpatrujesz?}
+{307}{}{Duntonowie juÅ¼ siÄ™ tobÄ… zajmÄ…, dzikusie.}
 {308}{}{To chyba nie jest odpowiednie miejsce dla ciebie.}
-{309}{}{Twojej mamusi tu nie ma, dzieciaku. Spróbuj w £aŸni.}
-{310}{}{Mo¿e pójdziesz siê pobawiæ gdzie indziej?}
-{311}{}{Mamy tu taki kanion, który koniecznie musisz zobaczyæ. To na wschód st¹d.}
+{309}{}{Twojej mamusi tu nie ma, dzieciaku. SprÃ³buj w ÅaÅºni.}
+{310}{}{MoÅ¼e pÃ³jdziesz siÄ™ pobawiÄ‡ gdzie indziej?}
+{311}{}{Mamy tu taki kanion, ktÃ³ry koniecznie musisz zobaczyÄ‡. To na wschÃ³d stÄ…d.}
 {312}{}{Czego chcesz?}
-{313}{}{Lepiej pilnuj w³asnego nosa.}
-{314}{}{Nazywasz siê Torr? (he, he, he)}
-{315}{}{Mo¿e pójdziesz na drinka z Aldo, co?}
+{313}{}{Lepiej pilnuj wÅ‚asnego nosa.}
+{314}{}{Nazywasz siÄ™ Torr? (he, he, he)}
+{315}{}{MoÅ¼e pÃ³jdziesz na drinka z Aldo, co?}
 {316}{}{Nie ma tu miejsca dla ciebie.}
 {317}{}{Nie pijam z takimi jak ty.}
-{318}{}{Humpf. (pluje na ziemiê)}
-{319}{}{Nie chcê na ciebie patrzeæ.}
-{320}{}{Pójdziesz st¹d wreszcie?}
+{318}{}{Humpf. (pluje na ziemiÄ™)}
+{319}{}{Nie chcÄ™ na ciebie patrzeÄ‡.}
+{320}{}{PÃ³jdziesz stÄ…d wreszcie?}

@@ -1,11 +1,11 @@
-{100}{}{Przechowywanie i zarz¹dzanie danymi. Wybierz opcjê.}
-{101}{}{Uruchom diagnostykê.}
+{100}{}{Przechowywanie i zarzÄ…dzanie danymi. Wybierz opcjÄ™.}
+{101}{}{Uruchom diagnostykÄ™.}
 {102}{}{[dalej]}
-{103}{}{Sprawdzam... Inicjujê...Kompilujê...Dziêkujê za cierpliwoœæ podczas trwania procedury...Zakoñczone. Baza danych, sprawnoœæ 84%. Problem z po³¹czeniami p³yty g³ównej powoduje, ¿e cewki magnetyczne s¹ zasilane zbyt wysokim napiêciem. Nienaprawienie tej usterki bêdzie przyczyn¹ dalszych problemów z dzia³aniem terminalu. Sprawdzanie zakoñczone.}
+{103}{}{Sprawdzam... InicjujÄ™...KompilujÄ™...DziÄ™kujÄ™ za cierpliwoÅ›Ä‡ podczas trwania procedury...ZakoÅ„czone. Baza danych, sprawnoÅ›Ä‡ 84%. Problem z poÅ‚Ä…czeniami pÅ‚yty gÅ‚Ã³wnej powoduje, Å¼e cewki magnetyczne sÄ… zasilane zbyt wysokim napiÄ™ciem. Nienaprawienie tej usterki bÄ™dzie przyczynÄ… dalszych problemÃ³w z dziaÅ‚aniem terminalu. Sprawdzanie zakoÅ„czone.}
 {104}{}{[dalej]}
 {105}{}{Widzisz komputer.}
-{106}{}{Widzisz komputer magazynuj¹cy dane AOŒ.}
-{107}{}{Widzisz komputer zapewniaj¹cy w³aœciwe i bezpieczne przechowywanie danych AOŒ.}
-{108}{}{Mam ciê!}
-{109}{}{Udaje ci siê rozwi¹zaæ problem cewek magnetycznych.}
-{1030}{}{Sprawdzam... Inicjujê...Kompilujê...Dziêkujê za cierpliwoœæ podczas trwania procedury...Zakoñczone. Baza danych, sprawnoœæ 100%. Dziêkuje i ¿yczê mi³ego dnia. Koniec sprawdzania.}
+{106}{}{Widzisz komputer magazynujÄ…cy dane AOÅš.}
+{107}{}{Widzisz komputer zapewniajÄ…cy wÅ‚aÅ›ciwe i bezpieczne przechowywanie danych AOÅš.}
+{108}{}{Mam ciÄ™!}
+{109}{}{Udaje ci siÄ™ rozwiÄ…zaÄ‡ problem cewek magnetycznych.}
+{1030}{}{Sprawdzam... InicjujÄ™...KompilujÄ™...DziÄ™kujÄ™ za cierpliwoÅ›Ä‡ podczas trwania procedury...ZakoÅ„czone. Baza danych, sprawnoÅ›Ä‡ 100%. DziÄ™kuje i Å¼yczÄ™ miÅ‚ego dnia. Koniec sprawdzania.}

@@ -1,3 +1,3 @@
-1:Estás muerta.
-2:Quizás deberías comenzar el juego con un personaje diferente.
+1:EstÃ¡s muerta.
+2:QuizÃ¡s deberÃ­as comenzar el juego con un personaje diferente.
 3:Tu reparto de puntos da pena.

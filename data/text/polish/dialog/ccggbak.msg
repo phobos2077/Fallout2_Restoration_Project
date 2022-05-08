@@ -1,18 +1,18 @@
-{100}{}{Widzisz stra¿niczkê.}
-{101}{}{Widzisz stra¿nika w pancerzu wspomaganym.}
-{102}{}{Widzisz kogoœ w nietypowym pancerzu wspomaganym. Na napierœniku widnieje nieznany ci symbol.}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{101}{}{Widzisz straÅ¼nika w pancerzu wspomaganym.}
+{102}{}{Widzisz kogoÅ› w nietypowym pancerzu wspomaganym. Na napierÅ›niku widnieje nieznany ci symbol.}
 {103}{}{Ni tamuj ruchu.}
-{104}{}{Jestem na s³u¿bie. Nie mam czasu na pogawêdki.}
-{105}{}{Nie zatrzymywaæ siê. Brama jest tam.}
-{106}{}{Bierz siê lepiej do roboty.}
-{107}{}{Nie w³ócz siê tu bez uniformu.}
-{108}{}{Jesteœ teraz w armii. Nie wa³êsaj siê tak bez uniformu.}
-{109}{}{Intruzi przy g³ównej bramie!}
-{110}{}{Intruzi! W³¹czyæ alarm!}
-{111}{}{Przys³aæ wsparcie do g³ównej bramy. Mamy tu intruzów!}
-{112}{}{Alarm przy g³ównej bramie!}
-{113}{}{Wszyscy na stanowiska! G³ówna brama jest atakowana!}
-{114}{}{Czerwony stan gotowoœci przy g³ównej bramie!}
-{115}{}{Rozgnieciemy ciê!}
-{116}{}{Enklawa bêdzie rz¹dziæ œwiatem!}
-{117}{}{Umrzesz, by Enklawa mog³a przetrwaæ!}
+{104}{}{Jestem na sÅ‚uÅ¼bie. Nie mam czasu na pogawÄ™dki.}
+{105}{}{Nie zatrzymywaÄ‡ siÄ™. Brama jest tam.}
+{106}{}{Bierz siÄ™ lepiej do roboty.}
+{107}{}{Nie wÅ‚Ã³cz siÄ™ tu bez uniformu.}
+{108}{}{JesteÅ› teraz w armii. Nie waÅ‚Ä™saj siÄ™ tak bez uniformu.}
+{109}{}{Intruzi przy gÅ‚Ã³wnej bramie!}
+{110}{}{Intruzi! WÅ‚Ä…czyÄ‡ alarm!}
+{111}{}{PrzysÅ‚aÄ‡ wsparcie do gÅ‚Ã³wnej bramy. Mamy tu intruzÃ³w!}
+{112}{}{Alarm przy gÅ‚Ã³wnej bramie!}
+{113}{}{Wszyscy na stanowiska! GÅ‚Ã³wna brama jest atakowana!}
+{114}{}{Czerwony stan gotowoÅ›ci przy gÅ‚Ã³wnej bramie!}
+{115}{}{Rozgnieciemy ciÄ™!}
+{116}{}{Enklawa bÄ™dzie rzÄ…dziÄ‡ Å›wiatem!}
+{117}{}{Umrzesz, by Enklawa mogÅ‚a przetrwaÄ‡!}

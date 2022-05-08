@@ -1,2 +1,2 @@
-{100}{}{U¿y³eœ Medycznego Modu³u Rozszerzaj¹cego Pip Boya. Ogromna iloœæ wiedzy medycznej zalewa twój umys³.}
+{100}{}{UÅ¼yÅ‚eÅ› Medycznego ModuÅ‚u RozszerzajÄ…cego Pip Boya. Ogromna iloÅ›Ä‡ wiedzy medycznej zalewa twÃ³j umysÅ‚.}
 {200}{}{Hej! A to ci doktorek.}

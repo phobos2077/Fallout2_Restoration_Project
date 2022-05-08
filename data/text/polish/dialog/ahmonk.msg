@@ -1,115 +1,115 @@
 {100}{}{Widzisz Opata tego klasztoru.}
-{101}{}{Ten mnich jest swego rodzaju przywódc¹.}
+{101}{}{Ten mnich jest swego rodzaju przywÃ³dcÄ….}
 {200}{}{Witaj.}
-{201}{}{Pokój, tobie.}
-{202}{}{Jesteœmy stra¿nikami wiedzy.}
-{203}{}{Przykro mi, ale wiedza zawarta w naszych ksiêgach jest bezu¿yteczna dla ciebie.}
-{300}{}{Witaj w Opactwie. Jak mogê ci pomóc?}
-{301}{}{Co mo¿esz mi powiedzieæ o twoim zakonie?}
-{302}{}{Czy s³ysza³eœ kiedykolwiek o GECKu?}
-{303}{}{Czy wiesz gdzie mogê znaleŸæ Kryptê 13?}
+{201}{}{PokÃ³j, tobie.}
+{202}{}{JesteÅ›my straÅ¼nikami wiedzy.}
+{203}{}{Przykro mi, ale wiedza zawarta w naszych ksiÄ™gach jest bezuÅ¼yteczna dla ciebie.}
+{300}{}{Witaj w Opactwie. Jak mogÄ™ ci pomÃ³c?}
+{301}{}{Co moÅ¼esz mi powiedzieÄ‡ o twoim zakonie?}
+{302}{}{Czy sÅ‚yszaÅ‚eÅ› kiedykolwiek o GECKu?}
+{303}{}{Czy wiesz gdzie mogÄ™ znaleÅºÄ‡ KryptÄ™ 13?}
 {304}{}{Bywaj.}
-{400}{}{Co chcesz wiedzieæ?}
-{401}{}{W porz¹dku. Muszê jeszcze o coœ zapytaæ.}
-{402}{}{Hm… to *faktycznie* brzmi znajomo. A tak, przypominam sobie, Brat Thomas coœ na ten temat wspomina³. Przepraszam, ale nie pamiêtam co dok³adnie.}
-{403}{}{W porz¹dku. Po prostu powiedz mi gdzie znajdê Brata Thomasa, to pójdê go zapytaæ}
+{400}{}{Co chcesz wiedzieÄ‡?}
+{401}{}{W porzÄ…dku. MuszÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{402}{}{Hmâ€¦ to *faktycznie* brzmi znajomo. A tak, przypominam sobie, Brat Thomas coÅ› na ten temat wspominaÅ‚. Przepraszam, ale nie pamiÄ™tam co dokÅ‚adnie.}
+{403}{}{W porzÄ…dku. Po prostu powiedz mi gdzie znajdÄ™ Brata Thomasa, to pÃ³jdÄ™ go zapytaÄ‡}
 {404}{}{Nic o tym nie wiem.}
-{405}{}{Có¿, dziêki za informacje.}
-{406}{}{Obawiam siê, ¿e nie mogê tego zrobiæ. Widzisz, wydaje mi siê, ¿e Brata Thomasa nie ma ju¿ wœród ¿ywych. Ale, na twoje szczêœcie by³ jednym z najlepszych je¿eli chodzi o transkrypcje do bazy danych. Jestem pewien, ¿e na cokolwiek trafi³ dotycz¹cego tematu o który pytasz, zosta³o przepisane do komputera.}
-{407}{}{Czekaj, "wydaje ci siê", ¿e Brata Thomasa nie ma ju¿ wœród ¿ywych? Tam sk¹d ja pochodzê, œmieræ jest doœæ jednoznaczna. Wiêc, ¿yje czy nie?}
-{408}{}{Brat Thomas zagin¹³ kilka dni temu, od kiedy zszed³ do jaskiñ pod Opactwem. [Wzdycha, smutnie.] Widzisz, niektórzy mieszkañcy Opactwa twierdzili, ¿e widzieli tam ogromn¹ bestiê, a Brat Thomas podchodzi³ do tego doœæ sceptycznie. Postanowi³ wiêc zakoñczyæ kr¹¿¹ce plotki, mimo to, jak siê okaza³o, jego znikniêcie tylko je umocni³o.}
-{409}{}{Hmm. Mo¿e czas ¿eby zejœæ tam osobiœcie. W koñcu to *JA JESTEM* Dzieckiem Przeznaczenia...}
-{410}{}{Szukam przygód. Mogê tam zajrzeæ.}
-{411}{}{Naprawdê chcesz to zrobiæ? Mo¿e przy okazji, skoro ju¿ tam bêdziesz, rozej¿ysz siê za pewna konkretn¹ ksiêg¹. Widzisz, ostatnie co wiemy, to ¿e by³a w posiadaniu Brata Thomasa, jest dla nas bardzo wa¿na, bo przekazali nam j¹ za³o¿yciele. Je¿eli uda³oby ci siê j¹ odzyskaæ, by³bym bardzo wdziêczny. A nawet udzieli³bym ci pe³nego dostêpu do naszych komputerów, do wszystkich danych jakich potrzebujesz.}
-{412}{}{Umowa stoi. Nied³ugo wrócê.}
-{413}{}{Mo¿e, pozwól mi nad tym pomyœleæ...}
-{414}{}{Œwietnie, daj znaæ jak bêdziesz mieæ t¹ ksi¹¿kê.}
-{415}{}{W porz¹dku, czeœæ.}
+{405}{}{CÃ³Å¼, dziÄ™ki za informacje.}
+{406}{}{Obawiam siÄ™, Å¼e nie mogÄ™ tego zrobiÄ‡. Widzisz, wydaje mi siÄ™, Å¼e Brata Thomasa nie ma juÅ¼ wÅ›rÃ³d Å¼ywych. Ale, na twoje szczÄ™Å›cie byÅ‚ jednym z najlepszych jeÅ¼eli chodzi o transkrypcje do bazy danych. Jestem pewien, Å¼e na cokolwiek trafiÅ‚ dotyczÄ…cego tematu o ktÃ³ry pytasz, zostaÅ‚o przepisane do komputera.}
+{407}{}{Czekaj, "wydaje ci siÄ™", Å¼e Brata Thomasa nie ma juÅ¼ wÅ›rÃ³d Å¼ywych? Tam skÄ…d ja pochodzÄ™, Å›mierÄ‡ jest doÅ›Ä‡ jednoznaczna. WiÄ™c, Å¼yje czy nie?}
+{408}{}{Brat Thomas zaginÄ…Å‚ kilka dni temu, od kiedy zszedÅ‚ do jaskiÅ„ pod Opactwem. [Wzdycha, smutnie.] Widzisz, niektÃ³rzy mieszkaÅ„cy Opactwa twierdzili, Å¼e widzieli tam ogromnÄ… bestiÄ™, a Brat Thomas podchodziÅ‚ do tego doÅ›Ä‡ sceptycznie. PostanowiÅ‚ wiÄ™c zakoÅ„czyÄ‡ krÄ…Å¼Ä…ce plotki, mimo to, jak siÄ™ okazaÅ‚o, jego znikniÄ™cie tylko je umocniÅ‚o.}
+{409}{}{Hmm. MoÅ¼e czas Å¼eby zejÅ›Ä‡ tam osobiÅ›cie. W koÅ„cu to *JA JESTEM* Dzieckiem Przeznaczenia...}
+{410}{}{Szukam przygÃ³d. MogÄ™ tam zajrzeÄ‡.}
+{411}{}{NaprawdÄ™ chcesz to zrobiÄ‡? MoÅ¼e przy okazji, skoro juÅ¼ tam bÄ™dziesz, rozejÅ¼ysz siÄ™ za pewna konkretnÄ… ksiÄ™gÄ…. Widzisz, ostatnie co wiemy, to Å¼e byÅ‚a w posiadaniu Brata Thomasa, jest dla nas bardzo waÅ¼na, bo przekazali nam jÄ… zaÅ‚oÅ¼yciele. JeÅ¼eli udaÅ‚oby ci siÄ™ jÄ… odzyskaÄ‡, byÅ‚bym bardzo wdziÄ™czny. A nawet udzieliÅ‚bym ci peÅ‚nego dostÄ™pu do naszych komputerÃ³w, do wszystkich danych jakich potrzebujesz.}
+{412}{}{Umowa stoi. NiedÅ‚ugo wrÃ³cÄ™.}
+{413}{}{MoÅ¼e, pozwÃ³l mi nad tym pomyÅ›leÄ‡...}
+{414}{}{Åšwietnie, daj znaÄ‡ jak bÄ™dziesz mieÄ‡ tÄ… ksiÄ…Å¼kÄ™.}
+{415}{}{W porzÄ…dku, czeÅ›Ä‡.}
 {416}{}{Witaj ponownie, dziecko.}
-{417}{}{Uda³o mi siê zabiæ bestiê i odzyska³em ksi¹¿kê.}
-{418}{}{Œwietnie! Pozwól, ¿e j¹ wezmê!}
+{417}{}{UdaÅ‚o mi siÄ™ zabiÄ‡ bestiÄ™ i odzyskaÅ‚em ksiÄ…Å¼kÄ™.}
+{418}{}{Åšwietnie! PozwÃ³l, Å¼e jÄ… wezmÄ™!}
 {419}{}{Trzymaj.}
 {420}{}{Nie tak szybko. Ile jest dla ciebie warta?}
-{421}{}{[Bierze od ciebie ksi¹¿kê i g³adzi jej ok³adkê jakby j¹ uspokaja³.] Jestem ci niezmiernie wdziêczny za tê przys³ugê. Od teraz masz wolny dostêp do komputerów naszej biblioteki. Powiedz Bratu Paulowi, ¿e masz zgodê na dostêp do naszych plików.}
-{422}{}{Dziêkujê.}
-{423}{}{Chcesz za to pieniêdzy? Dobrze, masz tu 250$. IdŸ do Brata Paula on udzieli ci dostêpu do naszych komputerów.}
-{424}{}{Dziêki za pieni¹dze, czeœæ.}
-{425}{}{Teraz maj¹c dostêp do komputerów, zajrzyj do naszej biblioteki na dole.}
-{426}{}{W porz¹dku, czeœæ.}
+{421}{}{[Bierze od ciebie ksiÄ…Å¼kÄ™ i gÅ‚adzi jej okÅ‚adkÄ™ jakby jÄ… uspokajaÅ‚.] Jestem ci niezmiernie wdziÄ™czny za tÄ™ przysÅ‚ugÄ™. Od teraz masz wolny dostÄ™p do komputerÃ³w naszej biblioteki. Powiedz Bratu Paulowi, Å¼e masz zgodÄ™ na dostÄ™p do naszych plikÃ³w.}
+{422}{}{DziÄ™kujÄ™.}
+{423}{}{Chcesz za to pieniÄ™dzy? Dobrze, masz tu 250$. IdÅº do Brata Paula on udzieli ci dostÄ™pu do naszych komputerÃ³w.}
+{424}{}{DziÄ™ki za pieniÄ…dze, czeÅ›Ä‡.}
+{425}{}{Teraz majÄ…c dostÄ™p do komputerÃ³w, zajrzyj do naszej biblioteki na dole.}
+{426}{}{W porzÄ…dku, czeÅ›Ä‡.}
 {430}{}{Jaka jest misja waszego zakonu?}
 {431}{}{Jaka jest historia Opactwa?}
-{432}{}{Hmm, w tej chwili nie mam wiêcej pytañ.}
-{433}{}{Nasz¹ œwiêt¹ misj¹ jest czytaæ, kopiowaæ i dbaæ o œwiête ksiêgi wiedzy i inne relikwie utraconej epoki. Nasz¹ nadziej¹ jest, ¿e dziêki tej wiedzy uda nam siê stworzyæ Arkê Pamiêci, która pewnego dnia mo¿e pomóc ludzkoœci wyjœæ z tej Ery Mroku, w któr¹ sami siê wpêdziliœmy. Wszelkie informacje, na które trafiliœmy zosta³y spisane aby nie zginê³y jak tak wiele w wielkim Ognistym Potopie.}
-{434}{}{Po Wielkiej Wojnie, nasi przodkowie przybyli tu i trafili na stary koœció³. Na szczêœcie to miejsce nie dozna³o du¿ych zniszczeñ, a promieniowanie by³o dostatecznie niskie ¿eby tu zamieszkaæ. Po tym jak siê tutaj osiedlili, natrafili tu na ca³kiem spor¹ bibliotekê. I to nie tylko teksty religijne, o nie, ta biblioteka zawiera³a szeroki wybór spisanych prac, od klasyki literatury po naukowe encyklopedie.}
-{435}{}{Co siê dzia³o potem?}
-{436}{}{Wystarczy mi tego s³uchania.}
-{437}{}{Szybko zdali sobie sprawê ze skarbu w tym zbiorze wiedzy—szczególnie w tomach naukowych. Tutaj by³y zapisane dzieje upad³ej cywilizacji. Utraconej epoki. Nieliczni chcieli zniszczenia tej wiedzy, ze strachu ¿e ponownie powiedzie ona ludzi do apokalipsy. Ale w koñcu zadecydowano, ¿e zamiast tego poœwiêc¹ ¿ycie przetrwaniu tych ksi¹g, aby je ujawniæ kiedy œwiat bêdzie na to gotowy.}
+{432}{}{Hmm, w tej chwili nie mam wiÄ™cej pytaÅ„.}
+{433}{}{NaszÄ… Å›wiÄ™tÄ… misjÄ… jest czytaÄ‡, kopiowaÄ‡ i dbaÄ‡ o Å›wiÄ™te ksiÄ™gi wiedzy i inne relikwie utraconej epoki. NaszÄ… nadziejÄ… jest, Å¼e dziÄ™ki tej wiedzy uda nam siÄ™ stworzyÄ‡ ArkÄ™ PamiÄ™ci, ktÃ³ra pewnego dnia moÅ¼e pomÃ³c ludzkoÅ›ci wyjÅ›Ä‡ z tej Ery Mroku, w ktÃ³rÄ… sami siÄ™ wpÄ™dziliÅ›my. Wszelkie informacje, na ktÃ³re trafiliÅ›my zostaÅ‚y spisane aby nie zginÄ™Å‚y jak tak wiele w wielkim Ognistym Potopie.}
+{434}{}{Po Wielkiej Wojnie, nasi przodkowie przybyli tu i trafili na stary koÅ›ciÃ³Å‚. Na szczÄ™Å›cie to miejsce nie doznaÅ‚o duÅ¼ych zniszczeÅ„, a promieniowanie byÅ‚o dostatecznie niskie Å¼eby tu zamieszkaÄ‡. Po tym jak siÄ™ tutaj osiedlili, natrafili tu na caÅ‚kiem sporÄ… bibliotekÄ™. I to nie tylko teksty religijne, o nie, ta biblioteka zawieraÅ‚a szeroki wybÃ³r spisanych prac, od klasyki literatury po naukowe encyklopedie.}
+{435}{}{Co siÄ™ dziaÅ‚o potem?}
+{436}{}{Wystarczy mi tego sÅ‚uchania.}
+{437}{}{Szybko zdali sobie sprawÄ™ ze skarbu w tym zbiorze wiedzyâ€”szczegÃ³lnie w tomach naukowych. Tutaj byÅ‚y zapisane dzieje upadÅ‚ej cywilizacji. Utraconej epoki. Nieliczni chcieli zniszczenia tej wiedzy, ze strachu Å¼e ponownie powiedzie ona ludzi do apokalipsy. Ale w koÅ„cu zadecydowano, Å¼e zamiast tego poÅ›wiÄ™cÄ… Å¼ycie przetrwaniu tych ksiÄ…g, aby je ujawniÄ‡ kiedy Å›wiat bÄ™dzie na to gotowy.}
 {438}{}{[DALEJ]}
-{439}{}{Od tego czasu, u¿ywaj¹c ma³ej maszyny drukarskiej, powielano ksiêgi, oraz przepisywano je do komputerów Opactwa, aby zachowaæ je w formie cyfrowej, na wypadek gdyby ksiêgi zosta³y zniszczone. Przez te lata, inni przybywali do Opactwa, niektórzy zdecydowali siê wieœæ swoje ¿ycia tutaj w zaciszu i spokoju naszego górskiego domu.}
-{440}{}{Dziêki za opowieœæ.}
-{441}{}{Sk¹d przybyli wasi przodkowie?}
-{442}{}{Nigdy tego nie powiedzieli. Podejrzewamy, ¿e przyszli tu ze wschodu.}
-{443}{}{Có¿, dziêki za opowieœæ.}
-{444}{}{Czy potrzebujecie jakiejœ pomocy tu w klasztorze?}
-{445}{}{Ju¿ wiem co siê sta³o z pompa wodn¹.}
-{446}{}{Czy wiecie cokolwiek o za³o¿ycielach?}
-{447}{}{Nie znam wszystkich imion naszych za³o¿ycieli, ale znam najwa¿niejszego z nich, nazywa³ siê Edward Leibowitz. Przed Wielka Wojn¹ by³ in¿ynierem elektrykiem pracuj¹cym dla rz¹du Stanów Zjednoczonych. Krótko "po" przeszed³ na Katolicyzm i przysi¹g³ sobie poœwiêciæ ¿ycie przetrwaniu wiedzy przesz³oœci. Jego najwiêkszym lêkiem by³o to, ¿e ta wiedza mog³a by byæ przepaœæ na zawszê, wed³ug niego powinna przetrwaæ dla dobra potomnych.}
-{448}{}{Musisz mieæ wielk¹ wiedzê po przeczytaniu tych wszystkich ksi¹¿ek.}
-{449}{}{Faktycznie przeczyta³em wiele w swoim ¿yciu. Ale muszê ciê rozczarowaæ, moja wiedza jest bardziej ograniczona ni¿ ci siê wydaje. Zrozum, zapisujemy i dbamy o jej przetrwanie. Korzystanie z tej wiedzy jest zabronione, wiêc nasze zrozumienie tych tekstów jest ograniczone.}
-{450}{}{Czekaj, czyli œlepo przepisujesz cokolwiek przeczytasz. Nie próbujesz tego poj¹æ?}
-{451}{}{Jak ju¿ powiedzia³em, naszym zadaniem jest zachowanie wiedzy, nie zrozumienie jej. Zanim ta wiedza zostanie zwrócona ludzkoœci, musi najpierw udowodniæ ¿e wznios³a siê ponad swoje zapêdy do masowego ludobójstwa. To jedyny sposób, ¿eby historia siê nie powtarza³a.}
-{452}{}{Có¿, mam dla ciebie wiadomoœæ z ostatniej chwili: ten dzieñ nigdy nie nadejdzie. A kiedy wy trzymacie ca³¹ tê wiedzê w swoim ma³ym, górskim raju, ludzie na pustkowiu walcz¹ o ka¿dy dzieñ. Moje ca³e plemiê, jest na krawêdzi zag³ady. Wiedza zamkniêta w tych ksiêgach mog³aby pomóc leczyæ chorych, ulepszyæ uprawy, znacznie podnieœæ, szanse ludzkoœci na przetrwanie.}
-{453}{}{Tak, có¿, mo¿e i masz racjê. Ale wydaje mi siê, ¿e informacje tu zebrane mog¹ pomóc wielu ludziom. Nawet jeœli uwa¿asz, ¿e œwiat nie jest gotów na tê wiedzê, nie widzê przeszkód aby nie mog³a s³u¿yæ *Tobie*.
- W przeciwnym razie, jaki by³by sens jej przechowywania?}
-{454}{}{Rozumiem dlaczego nie podobaj¹ Ci siê nasze metody, ale musisz zrozumieæ, ¿e dla nas zawsze tak by³o. Zmieniaæ to teraz, po tylu latach... to by³oby bluŸnierstwo przeciwko naszej wierze. Nie. Musimy nadal ¿yæ wed³ug zasada ustanowionych przez naszych przodków.}
-{455}{}{Rozumiem dlaczego nie podobaj¹ Ci siê nasze metody, ale musisz zrozumieæ, ¿e dla nas zawsze tak by³o. Zmieniaæ to teraz, po tylu latach... to by³oby bluŸnierstwo przeciwko naszej wierze... Jednak, rozwa¿ê twoje s³owa. Wyczuwam w tobie wielka wiedzê. Szkoda, ¿e spotka³em tak niewielu tobie podobnych.}
-{456}{}{Dziêkujê. Ale chcê wiedzieæ coœ jeszcze.}
-{457}{}{Niech bêdzie. Ale chcê wiedzieæ coœ jeszcze.}
-{500}{}{Przestañ!}
-{501}{}{Dostajesz 200 punktów doœwiadczenia za przyniesienie ksi¹¿ki.}
-{600}{}{Naprawi³em pompê wodn¹ na zewn¹trz koœcio³a.}
-{601}{}{To w rzeczy samej, wspania³a nowina. Ta pompa wodna sprawia³a problemy ju¿ od jakiegoœ czasu. Ci handlarze powiedzieli, ¿e mog¹ siê tym zaj¹æ, ale jak widaæ nie sz³o im najlepiej. Dobrze, ¿e tu jesteœ. Jeszcze raz, dziêkujê.}
-{602}{}{Dla twojej wiadomoœci, spodziewam siê za to wynagrodzenia. No, wyskakuj z kasy!}
-{603}{}{¯aden problem. Ale mam jeszcze inne pytania.}
-{604}{}{Cieszê siê, ¿e uda³o mi siê pomóc. Trzymaj siê.}
-{605}{}{[Wzdrygn¹³ siê.] Rozumiem. Dobrze, proszê, weŸ te monety. A teraz odejdŸ i przestañ mnie drêczyæ.}
-{606}{}{Dziêki ci *ojcze*.}
-{700}{}{Yyy...nie wygl¹da na to, ¿e siê gdzieœ zapodzia³a.}
-{701}{}{Co!? [Wzdycha ciê¿ko.] To bardzo nie dobrze, ¿e nie uda³o ci siê odzyskaæ ksiêgi. Ale mówisz, ¿e bestia nie ¿yje? Hm... to znaczy mogê bezpiecznie pos³aæ tam naszych ludzi, aby kontynuowali poszukiwania. W ka¿dym razie, za twoje zas³ugi, przyznam ci dostêp do naszych komputerów. PójdŸ do Brata Paula on wrêczy ci klucz dostêpu.}
-{702}{}{Dziêkujê.}
-{800}{}{W³aœciwie, to tak. Nasz g³ówna pompa wodna ju¿ od jakiegoœ czasu sprawia³a problemy, a¿ w koñcu ca³kowicie siê zepsu³a. Jeœli znasz siê trochê na mechanice, zaj¿yj prosze do niej, czy da siê coœ z tym zrobiæ?
- Kilku handlarzy siê ju¿ tym zajmuje. Ale jak do tej pory niewiele zrobili.}
-{801}{}{Z chêci¹ pomogê. Wrócê jak uda mi siê coœ ustaliæ.}
-{802}{}{Pewnie, chêtnie pomogê... oczywiœcie za op³at¹.}
-{803}{}{W³aœciwie, po zastanowieniu, pozwól, ¿e zapytam ciê o coœ innego.}
-{804}{}{Co!? Dobra. Skoro jesteœ tego typu osob¹, otrzymasz zap³atê za swoje us³ugi. Proszê 25 monet zaliczki.  Proszê, daj mi znaæ je¿eli da siê coœ z tym zrobiæ. [Mê¿czyzna wzdycha podaj¹c ci monety.]}
-{805}{}{Hej, nie ma co wzdychaæ. Myœlisz, ¿e w ¿yciu wszystko przychodzi za darmo? A teraz pozwól, ¿e wezmê siê za swoj¹ pracê.}
-{806}{}{Naprawdê? Proszê mów.}
-{807}{}{Wygl¹da, ¿e silnik diabli wziêli i z³¹cza na kablach razem z nim. Wybieram siê do Kryptopolis po nowe czêœci.}
-{808}{}{Naprawdê jestem ci wdziêczny. W istocie, wielce nam pomagasz. Proszê zg³oœ siê do mnie, kiedy ju¿ zainstalujesz nowe czêœci.}
-{809}{}{Tak zrobiê. Nied³ugo wrócê.}
-{900}{}{T³umaczysz Opatowi, ¿e chocia¿ przechowywana przez nich wiedza mo¿e doprowadziæ ludzkoœæ do zag³ady, to mo¿e j¹ te¿ ocaliæ.}
-{901}{}{Dowiadujesz siê o prawdziwym za³o¿ycielu Opactwa.}
-{1000}{}{Ja ubiæ straszny potwór na dó³ w jaskinia.}
-{1010}{}{Naprawdê? To wspaniale. Bardzo dzielnie siê spisa³eœ. Du¿y z ciebie ch³opiec.}
-{1011}{}{Naprawdê? To wspaniale. Bardzo dzielnie siê spisa³aœ. Du¿a z ciebie dziewczynka.}
-{1012}{}{[Uœmiechasz siê.] Wiem.}
-{1020}{}{Uda³o ci siê tam znaleŸæ ksiêgê? Mój zaginiony przyjaciel j¹ mia³.}
-{1021}{}{Ja znaleŸæ ksi¹¿ka. Proszê, byæ ciê¿ka i bez obrasków.}
-{1022}{}{Je nie znaleŸæ ksi¹¿ka. Przeprasiaæ. Ja pójœæ poszukaæ, teraz.}
-{1030}{}{ZnaleŸæ ksi¹¿ka.}
-{1031}{}{To wspaniale. Dziêkujê. Jesteœ naprawdê wyj¹tkowym ch³opcem.}
-{1032}{}{To wspaniale. Dziêkujê. Jesteœ naprawdê wyj¹tkow¹ dziewczynk¹.}
+{439}{}{Od tego czasu, uÅ¼ywajÄ…c maÅ‚ej maszyny drukarskiej, powielano ksiÄ™gi, oraz przepisywano je do komputerÃ³w Opactwa, aby zachowaÄ‡ je w formie cyfrowej, na wypadek gdyby ksiÄ™gi zostaÅ‚y zniszczone. Przez te lata, inni przybywali do Opactwa, niektÃ³rzy zdecydowali siÄ™ wieÅ›Ä‡ swoje Å¼ycia tutaj w zaciszu i spokoju naszego gÃ³rskiego domu.}
+{440}{}{DziÄ™ki za opowieÅ›Ä‡.}
+{441}{}{SkÄ…d przybyli wasi przodkowie?}
+{442}{}{Nigdy tego nie powiedzieli. Podejrzewamy, Å¼e przyszli tu ze wschodu.}
+{443}{}{CÃ³Å¼, dziÄ™ki za opowieÅ›Ä‡.}
+{444}{}{Czy potrzebujecie jakiejÅ› pomocy tu w klasztorze?}
+{445}{}{JuÅ¼ wiem co siÄ™ staÅ‚o z pompa wodnÄ….}
+{446}{}{Czy wiecie cokolwiek o zaÅ‚oÅ¼ycielach?}
+{447}{}{Nie znam wszystkich imion naszych zaÅ‚oÅ¼ycieli, ale znam najwaÅ¼niejszego z nich, nazywaÅ‚ siÄ™ Edward Leibowitz. Przed Wielka WojnÄ… byÅ‚ inÅ¼ynierem elektrykiem pracujÄ…cym dla rzÄ…du StanÃ³w Zjednoczonych. KrÃ³tko "po" przeszedÅ‚ na Katolicyzm i przysiÄ…gÅ‚ sobie poÅ›wiÄ™ciÄ‡ Å¼ycie przetrwaniu wiedzy przeszÅ‚oÅ›ci. Jego najwiÄ™kszym lÄ™kiem byÅ‚o to, Å¼e ta wiedza mogÅ‚a by byÄ‡ przepaÅ›Ä‡ na zawszÄ™, wedÅ‚ug niego powinna przetrwaÄ‡ dla dobra potomnych.}
+{448}{}{Musisz mieÄ‡ wielkÄ… wiedzÄ™ po przeczytaniu tych wszystkich ksiÄ…Å¼ek.}
+{449}{}{Faktycznie przeczytaÅ‚em wiele w swoim Å¼yciu. Ale muszÄ™ ciÄ™ rozczarowaÄ‡, moja wiedza jest bardziej ograniczona niÅ¼ ci siÄ™ wydaje. Zrozum, zapisujemy i dbamy o jej przetrwanie. Korzystanie z tej wiedzy jest zabronione, wiÄ™c nasze zrozumienie tych tekstÃ³w jest ograniczone.}
+{450}{}{Czekaj, czyli Å›lepo przepisujesz cokolwiek przeczytasz. Nie prÃ³bujesz tego pojÄ…Ä‡?}
+{451}{}{Jak juÅ¼ powiedziaÅ‚em, naszym zadaniem jest zachowanie wiedzy, nie zrozumienie jej. Zanim ta wiedza zostanie zwrÃ³cona ludzkoÅ›ci, musi najpierw udowodniÄ‡ Å¼e wzniosÅ‚a siÄ™ ponad swoje zapÄ™dy do masowego ludobÃ³jstwa. To jedyny sposÃ³b, Å¼eby historia siÄ™ nie powtarzaÅ‚a.}
+{452}{}{CÃ³Å¼, mam dla ciebie wiadomoÅ›Ä‡ z ostatniej chwili: ten dzieÅ„ nigdy nie nadejdzie. A kiedy wy trzymacie caÅ‚Ä… tÄ™ wiedzÄ™ w swoim maÅ‚ym, gÃ³rskim raju, ludzie na pustkowiu walczÄ… o kaÅ¼dy dzieÅ„. Moje caÅ‚e plemiÄ™, jest na krawÄ™dzi zagÅ‚ady. Wiedza zamkniÄ™ta w tych ksiÄ™gach mogÅ‚aby pomÃ³c leczyÄ‡ chorych, ulepszyÄ‡ uprawy, znacznie podnieÅ›Ä‡, szanse ludzkoÅ›ci na przetrwanie.}
+{453}{}{Tak, cÃ³Å¼, moÅ¼e i masz racjÄ™. Ale wydaje mi siÄ™, Å¼e informacje tu zebrane mogÄ… pomÃ³c wielu ludziom. Nawet jeÅ›li uwaÅ¼asz, Å¼e Å›wiat nie jest gotÃ³w na tÄ™ wiedzÄ™, nie widzÄ™ przeszkÃ³d aby nie mogÅ‚a sÅ‚uÅ¼yÄ‡ *Tobie*.
+ W przeciwnym razie, jaki byÅ‚by sens jej przechowywania?}
+{454}{}{Rozumiem dlaczego nie podobajÄ… Ci siÄ™ nasze metody, ale musisz zrozumieÄ‡, Å¼e dla nas zawsze tak byÅ‚o. ZmieniaÄ‡ to teraz, po tylu latach... to byÅ‚oby bluÅºnierstwo przeciwko naszej wierze. Nie. Musimy nadal Å¼yÄ‡ wedÅ‚ug zasada ustanowionych przez naszych przodkÃ³w.}
+{455}{}{Rozumiem dlaczego nie podobajÄ… Ci siÄ™ nasze metody, ale musisz zrozumieÄ‡, Å¼e dla nas zawsze tak byÅ‚o. ZmieniaÄ‡ to teraz, po tylu latach... to byÅ‚oby bluÅºnierstwo przeciwko naszej wierze... Jednak, rozwaÅ¼Ä™ twoje sÅ‚owa. Wyczuwam w tobie wielka wiedzÄ™. Szkoda, Å¼e spotkaÅ‚em tak niewielu tobie podobnych.}
+{456}{}{DziÄ™kujÄ™. Ale chcÄ™ wiedzieÄ‡ coÅ› jeszcze.}
+{457}{}{Niech bÄ™dzie. Ale chcÄ™ wiedzieÄ‡ coÅ› jeszcze.}
+{500}{}{PrzestaÅ„!}
+{501}{}{Dostajesz 200 punktÃ³w doÅ›wiadczenia za przyniesienie ksiÄ…Å¼ki.}
+{600}{}{NaprawiÅ‚em pompÄ™ wodnÄ… na zewnÄ…trz koÅ›cioÅ‚a.}
+{601}{}{To w rzeczy samej, wspaniaÅ‚a nowina. Ta pompa wodna sprawiaÅ‚a problemy juÅ¼ od jakiegoÅ› czasu. Ci handlarze powiedzieli, Å¼e mogÄ… siÄ™ tym zajÄ…Ä‡, ale jak widaÄ‡ nie szÅ‚o im najlepiej. Dobrze, Å¼e tu jesteÅ›. Jeszcze raz, dziÄ™kujÄ™.}
+{602}{}{Dla twojej wiadomoÅ›ci, spodziewam siÄ™ za to wynagrodzenia. No, wyskakuj z kasy!}
+{603}{}{Å»aden problem. Ale mam jeszcze inne pytania.}
+{604}{}{CieszÄ™ siÄ™, Å¼e udaÅ‚o mi siÄ™ pomÃ³c. Trzymaj siÄ™.}
+{605}{}{[WzdrygnÄ…Å‚ siÄ™.] Rozumiem. Dobrze, proszÄ™, weÅº te monety. A teraz odejdÅº i przestaÅ„ mnie drÄ™czyÄ‡.}
+{606}{}{DziÄ™ki ci *ojcze*.}
+{700}{}{Yyy...nie wyglÄ…da na to, Å¼e siÄ™ gdzieÅ› zapodziaÅ‚a.}
+{701}{}{Co!? [Wzdycha ciÄ™Å¼ko.] To bardzo nie dobrze, Å¼e nie udaÅ‚o ci siÄ™ odzyskaÄ‡ ksiÄ™gi. Ale mÃ³wisz, Å¼e bestia nie Å¼yje? Hm... to znaczy mogÄ™ bezpiecznie posÅ‚aÄ‡ tam naszych ludzi, aby kontynuowali poszukiwania. W kaÅ¼dym razie, za twoje zasÅ‚ugi, przyznam ci dostÄ™p do naszych komputerÃ³w. PÃ³jdÅº do Brata Paula on wrÄ™czy ci klucz dostÄ™pu.}
+{702}{}{DziÄ™kujÄ™.}
+{800}{}{WÅ‚aÅ›ciwie, to tak. Nasz gÅ‚Ã³wna pompa wodna juÅ¼ od jakiegoÅ› czasu sprawiaÅ‚a problemy, aÅ¼ w koÅ„cu caÅ‚kowicie siÄ™ zepsuÅ‚a. JeÅ›li znasz siÄ™ trochÄ™ na mechanice, zajÅ¼yj prosze do niej, czy da siÄ™ coÅ› z tym zrobiÄ‡?
+ Kilku handlarzy siÄ™ juÅ¼ tym zajmuje. Ale jak do tej pory niewiele zrobili.}
+{801}{}{Z chÄ™ciÄ… pomogÄ™. WrÃ³cÄ™ jak uda mi siÄ™ coÅ› ustaliÄ‡.}
+{802}{}{Pewnie, chÄ™tnie pomogÄ™... oczywiÅ›cie za opÅ‚atÄ….}
+{803}{}{WÅ‚aÅ›ciwie, po zastanowieniu, pozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{804}{}{Co!? Dobra. Skoro jesteÅ› tego typu osobÄ…, otrzymasz zapÅ‚atÄ™ za swoje usÅ‚ugi. ProszÄ™ 25 monet zaliczki.  ProszÄ™, daj mi znaÄ‡ jeÅ¼eli da siÄ™ coÅ› z tym zrobiÄ‡. [MÄ™Å¼czyzna wzdycha podajÄ…c ci monety.]}
+{805}{}{Hej, nie ma co wzdychaÄ‡. MyÅ›lisz, Å¼e w Å¼yciu wszystko przychodzi za darmo? A teraz pozwÃ³l, Å¼e wezmÄ™ siÄ™ za swojÄ… pracÄ™.}
+{806}{}{NaprawdÄ™? ProszÄ™ mÃ³w.}
+{807}{}{WyglÄ…da, Å¼e silnik diabli wziÄ™li i zÅ‚Ä…cza na kablach razem z nim. Wybieram siÄ™ do Kryptopolis po nowe czÄ™Å›ci.}
+{808}{}{NaprawdÄ™ jestem ci wdziÄ™czny. W istocie, wielce nam pomagasz. ProszÄ™ zgÅ‚oÅ› siÄ™ do mnie, kiedy juÅ¼ zainstalujesz nowe czÄ™Å›ci.}
+{809}{}{Tak zrobiÄ™. NiedÅ‚ugo wrÃ³cÄ™.}
+{900}{}{TÅ‚umaczysz Opatowi, Å¼e chociaÅ¼ przechowywana przez nich wiedza moÅ¼e doprowadziÄ‡ ludzkoÅ›Ä‡ do zagÅ‚ady, to moÅ¼e jÄ… teÅ¼ ocaliÄ‡.}
+{901}{}{Dowiadujesz siÄ™ o prawdziwym zaÅ‚oÅ¼ycielu Opactwa.}
+{1000}{}{Ja ubiÄ‡ straszny potwÃ³r na dÃ³Å‚ w jaskinia.}
+{1010}{}{NaprawdÄ™? To wspaniale. Bardzo dzielnie siÄ™ spisaÅ‚eÅ›. DuÅ¼y z ciebie chÅ‚opiec.}
+{1011}{}{NaprawdÄ™? To wspaniale. Bardzo dzielnie siÄ™ spisaÅ‚aÅ›. DuÅ¼a z ciebie dziewczynka.}
+{1012}{}{[UÅ›miechasz siÄ™.] Wiem.}
+{1020}{}{UdaÅ‚o ci siÄ™ tam znaleÅºÄ‡ ksiÄ™gÄ™? MÃ³j zaginiony przyjaciel jÄ… miaÅ‚.}
+{1021}{}{Ja znaleÅºÄ‡ ksiÄ…Å¼ka. ProszÄ™, byÄ‡ ciÄ™Å¼ka i bez obraskÃ³w.}
+{1022}{}{Je nie znaleÅºÄ‡ ksiÄ…Å¼ka. PrzeprasiaÄ‡. Ja pÃ³jÅ›Ä‡ poszukaÄ‡, teraz.}
+{1030}{}{ZnaleÅºÄ‡ ksiÄ…Å¼ka.}
+{1031}{}{To wspaniale. DziÄ™kujÄ™. JesteÅ› naprawdÄ™ wyjÄ…tkowym chÅ‚opcem.}
+{1032}{}{To wspaniale. DziÄ™kujÄ™. JesteÅ› naprawdÄ™ wyjÄ…tkowÄ… dziewczynkÄ….}
 {1033}{}{JUPI.}
-{1100}{}{Uda³o mi siê ju¿ tam trafiæ. By³o tam kilka trupów, zgadujê, ¿e jednym z nich by³ wasz zaginiony mnich. Jak to ci w czymœ pomo¿e wiedz, ¿e bestia odpowiedzialna za ich œmieræ, nie ¿yje.}
-{1110}{}{Ach... czyli jest tak jak siê obawia³em. Bêdzie nam brakowa³o Brata Thomasa. Masz nasz¹ wdziêcznoœæ za pozbycie siê tej bestii z pustkowia, czymkolwiek by³a. Ale, mo¿e uda³o ci siê znaleŸæ tam pewn¹ ksiêgê. To bardzo wa¿na ksiêga, która ostatnio by³a w posiadaniu Brata Thomasa.}
-{1111}{}{Nie, ale mogê tam zejœæ i poszukaæ.}
-{1112}{}{Masz na myœli tê ksiêgê?}
-{1113}{}{Zanim pójdê, pozwól, ¿e zapytam jeszcze o coœ.}
-{1411}{}{Baaardzo interesuj¹ce. Muszê iœæ.}
-{3000}{}{Jak mogê ci pomóc?}
-{4091}{}{Wiêc nikt nie zada³ sobie nawet trudu ¿eby do niego zajrzeæ, sprawdziæ czy ¿yje? Co jeœli jest tam jakoœ uwiêziony i powoli umiera z g³odu?}
-{4092}{}{Myœlê, ¿e to mo¿liwe, ale musisz zrozumieæ. Jesteœmy spokojnymi ludŸmi. Myœl o zejœciu tam i walczeniu z tym potworem z pustkowi przera¿a nas. Nie jesteœmy odpowiednio wyposa¿eni do takiej konfrontacji. }
-{4177}{}{Uda³o mi siê zabiæ bestiê.}
-{4188}{}{Œwietnie! A co z ksi¹¿k¹, uda³o ci siê j¹ odzyskaæ?}
-{6020}{}{Jeœli naprawdê chcesz okazaæ mi wdziêcznoœæ, zap³aæ.}
+{1100}{}{UdaÅ‚o mi siÄ™ juÅ¼ tam trafiÄ‡. ByÅ‚o tam kilka trupÃ³w, zgadujÄ™, Å¼e jednym z nich byÅ‚ wasz zaginiony mnich. Jak to ci w czymÅ› pomoÅ¼e wiedz, Å¼e bestia odpowiedzialna za ich Å›mierÄ‡, nie Å¼yje.}
+{1110}{}{Ach... czyli jest tak jak siÄ™ obawiaÅ‚em. BÄ™dzie nam brakowaÅ‚o Brata Thomasa. Masz naszÄ… wdziÄ™cznoÅ›Ä‡ za pozbycie siÄ™ tej bestii z pustkowia, czymkolwiek byÅ‚a. Ale, moÅ¼e udaÅ‚o ci siÄ™ znaleÅºÄ‡ tam pewnÄ… ksiÄ™gÄ™. To bardzo waÅ¼na ksiÄ™ga, ktÃ³ra ostatnio byÅ‚a w posiadaniu Brata Thomasa.}
+{1111}{}{Nie, ale mogÄ™ tam zejÅ›Ä‡ i poszukaÄ‡.}
+{1112}{}{Masz na myÅ›li tÄ™ ksiÄ™gÄ™?}
+{1113}{}{Zanim pÃ³jdÄ™, pozwÃ³l, Å¼e zapytam jeszcze o coÅ›.}
+{1411}{}{Baaardzo interesujÄ…ce. MuszÄ™ iÅ›Ä‡.}
+{3000}{}{Jak mogÄ™ ci pomÃ³c?}
+{4091}{}{WiÄ™c nikt nie zadaÅ‚ sobie nawet trudu Å¼eby do niego zajrzeÄ‡, sprawdziÄ‡ czy Å¼yje? Co jeÅ›li jest tam jakoÅ› uwiÄ™ziony i powoli umiera z gÅ‚odu?}
+{4092}{}{MyÅ›lÄ™, Å¼e to moÅ¼liwe, ale musisz zrozumieÄ‡. JesteÅ›my spokojnymi ludÅºmi. MyÅ›l o zejÅ›ciu tam i walczeniu z tym potworem z pustkowi przeraÅ¼a nas. Nie jesteÅ›my odpowiednio wyposaÅ¼eni do takiej konfrontacji. }
+{4177}{}{UdaÅ‚o mi siÄ™ zabiÄ‡ bestiÄ™.}
+{4188}{}{Åšwietnie! A co z ksiÄ…Å¼kÄ…, udaÅ‚o ci siÄ™ jÄ… odzyskaÄ‡?}
+{6020}{}{JeÅ›li naprawdÄ™ chcesz okazaÄ‡ mi wdziÄ™cznoÅ›Ä‡, zapÅ‚aÄ‡.}

@@ -1,70 +1,70 @@
 {100}{}{Widzisz Frenchy'ego.}
 {101}{}{Widzisz Paine'a.}
 {102}{}{Widzisz Simsa.}
-{150}{}{Widzisz obdartego, œpiewaj¹cego mê¿czyznê przytulonego do p³on¹cego œmietnika. Ma ca³kiem niez³y g³os.}
-{151}{}{Widzisz przytulonego do p³on¹cego œmietnika œpiewaka, zajêtego œpiewem.}
+{150}{}{Widzisz obdartego, Å›piewajÄ…cego mÄ™Å¼czyznÄ™ przytulonego do pÅ‚onÄ…cego Å›mietnika. Ma caÅ‚kiem niezÅ‚y gÅ‚os.}
+{151}{}{Widzisz przytulonego do pÅ‚onÄ…cego Å›mietnika Å›piewaka, zajÄ™tego Å›piewem.}
 {200}{}{Hej... }
-{203}{}{Pomóc ci w czymœ synu?}
-{204}{}{::Poprawia wyimaginowan¹ czapkê.:: Pomóc ci w czymœ panienko?}
-{205}{}{Wy znaæ "p³yñ p³yñ ³odzi¹ po horyzont hen?"}
-{206}{}{Mo... mo¿e wy zasipijewaæ Dwa BILIony razy dusze pifo dawaj?}
-{207}{}{Nieeee ja ju¿ iœæ}
-{208}{}{To y³by dla mnie zaszczyt. Dziêki wam ch³opaki.}
-{209}{}{Macie tu parê dolców. Mo¿e zaœpiewajcie coœ innego?}
-{210}{}{Nie, tak tylko s³ucham. Dziêki.}
-{300}{}{W porz¹dku... s³yszeliœcie pana. Zaœpiewajmy coœ innego.}
-{301}{}{W porz¹dku... s³yszeliœcie pani¹. Zaœpiewajmy coœ innego.}
+{203}{}{PomÃ³c ci w czymÅ› synu?}
+{204}{}{::Poprawia wyimaginowanÄ… czapkÄ™.:: PomÃ³c ci w czymÅ› panienko?}
+{205}{}{Wy znaÄ‡ "pÅ‚yÅ„ pÅ‚yÅ„ Å‚odziÄ… po horyzont hen?"}
+{206}{}{Mo... moÅ¼e wy zasipijewaÄ‡ Dwa BILIony razy dusze pifo dawaj?}
+{207}{}{Nieeee ja juÅ¼ iÅ›Ä‡}
+{208}{}{To yÅ‚by dla mnie zaszczyt. DziÄ™ki wam chÅ‚opaki.}
+{209}{}{Macie tu parÄ™ dolcÃ³w. MoÅ¼e zaÅ›piewajcie coÅ› innego?}
+{210}{}{Nie, tak tylko sÅ‚ucham. DziÄ™ki.}
+{300}{}{W porzÄ…dku... sÅ‚yszeliÅ›cie pana. ZaÅ›piewajmy coÅ› innego.}
+{301}{}{W porzÄ…dku... sÅ‚yszeliÅ›cie paniÄ…. ZaÅ›piewajmy coÅ› innego.}
 {302}{}{Dzienks.}
-{303}{}{Dziêki wam ch³opaki.}
+{303}{}{DziÄ™ki wam chÅ‚opaki.}
 {400}{}{Oooooch}
-{402}{}{W moim œmietniku obgryz³em wszystkie koœci...}
-{405}{}{W moim œmietniku pogryz³em kilku goœci...}
-{408}{}{Bo ja chcia³bym ¿yæ w mieœcie mi³oœci...}
+{402}{}{W moim Å›mietniku obgryzÅ‚em wszystkie koÅ›ci...}
+{405}{}{W moim Å›mietniku pogryzÅ‚em kilku goÅ›ci...}
+{408}{}{Bo ja chciaÅ‚bym Å¼yÄ‡ w mieÅ›cie miÅ‚oÅ›ci...}
 {409}{}{}
-{500}{}{Mój dom}
+{500}{}{MÃ³j dom}
 {501}{}{To te szare ulice}
-{502}{}{To kolejka po pracê}
+{502}{}{To kolejka po pracÄ™}
 {503}{}{}
-{600}{}{ Razy Du¿e Piwo Dawaj...}
+{600}{}{ Razy DuÅ¼e Piwo Dawaj...}
 {601}{}{ Razy po Piwie...}
-{602}{}{WeŸ jedno...}
+{602}{}{WeÅº jedno...}
 {603}{}{Wychyl do dna...}
 {605}{}{}
-{700}{}{P³yñ P³yñ P³yñ}
-{701}{}{£odzi¹}
-{702}{}{A¿ po Horyzont Hen}
-{703}{}{Wci¹¿ Dziarsko}
-{706}{}{¯ycie to tylko sen...}
+{700}{}{PÅ‚yÅ„ PÅ‚yÅ„ PÅ‚yÅ„}
+{701}{}{ÅodziÄ…}
+{702}{}{AÅ¼ po Horyzont Hen}
+{703}{}{WciÄ…Å¼ Dziarsko}
+{706}{}{Å»ycie to tylko sen...}
 {707}{}{}
-{800}{}{£i dont nid anader hiro³...}
-{801}{}{£i dont nidta no³ de³ej h¹m...}
-{802}{}{Ol ³i nid iz ³oz bij¹d...}
+{800}{}{Åi dont nid anader hiroÅ‚...}
+{801}{}{Åi dont nidta noÅ‚ deÅ‚ej hÄ…m...}
+{802}{}{Ol Å‚i nid iz Å‚oz bijÄ…d...}
 {803}{}{Metadon}
 {804}{}{}
 {900}{}{Daj mi}
-{901}{}{Swe usta bym móg³ marzyæ}
-{902}{}{A ma wyobraŸnia}
+{901}{}{Swe usta bym mÃ³gÅ‚ marzyÄ‡}
+{902}{}{A ma wyobraÅºnia}
 {903}{}{Rozkwitnie po tym tak}
 {904}{}{Mmmmm}
 {905}{}{Luba,}
-{906}{}{Nic nie chcê ale choæ}
+{906}{}{Nic nie chcÄ™ ale choÄ‡}
 {910}{}{Swe usta nim odejdziesz}
 {912}{}{Nakarmi serce me}
-{913}{}{Jedno nim po¿ednamy siê...}
+{913}{}{Jedno nim poÅ¼ednamy siÄ™...}
 {915}{}{Gdy jestem sam}
 {916}{}{Z mymi snami}
 {917}{}{Ja tu i ty}
-{918}{}{Tworz¹c romanse}
-{919}{}{Wierz¹c, ¿e prawd¹ s¹}
-{920}{}{Och, daj mi twe usta choæ na moment}
-{921}{}{A moja wyobraŸnia utrwali moment ten}
-{923}{}{Tylko ty jedna mo¿esz daæ}
+{918}{}{TworzÄ…c romanse}
+{919}{}{WierzÄ…c, Å¼e prawdÄ… sÄ…}
+{920}{}{Och, daj mi twe usta choÄ‡ na moment}
+{921}{}{A moja wyobraÅºnia utrwali moment ten}
+{923}{}{Tylko ty jedna moÅ¼esz daÄ‡}
 {925}{}{::pogwizduje::}
-{930}{}{Bêdê... Tuuuu z tob¹}
+{930}{}{BÄ™dÄ™... Tuuuu z tobÄ…}
 {933}{}{Oooch}
-{935}{}{Usta choæ na moment}
+{935}{}{Usta choÄ‡ na moment}
 {937}{}{Utrwali moment ten}
 {941}{}{}
-{1200}{}{! To ty! W czym mo¿na pomóc? Mo¿e zaspiewaæ coœ specjalnie dla ciebie, hê?}
-{1201}{}{. Jak mo¿em pomóc?}
-{1202}{}{. Mo¿em ci w czym pomóc, co czempi?}
+{1200}{}{! To ty! W czym moÅ¼na pomÃ³c? MoÅ¼e zaspiewaÄ‡ coÅ› specjalnie dla ciebie, hÄ™?}
+{1201}{}{. Jak moÅ¼em pomÃ³c?}
+{1202}{}{. MoÅ¼em ci w czym pomÃ³c, co czempi?}

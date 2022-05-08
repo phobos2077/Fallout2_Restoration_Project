@@ -16,19 +16,19 @@
 {256}{}{(The man wimpers and scurries away.)}
 {257}{}{Hehe. Nice doggie...}
 {258}{}{Hehe. Me super doogie...}
-{300}{}{Va˙?}
+{300}{}{Va√∫?}
 {301}{}{Yeah. Just listen closely to this series of letters I am about to say...}
 {302}{}{(You slowly verbalize the series of letters you learned from the computer at the EPA, making sure the correct
  inflections are used on each letter. When you are done reading the phrase you look back up at the man. He looks back
  at you then shakes his whole body like a dog trying to dry himself after a rainstorm.)}
-{303}{}{[TOV¡BB]}
+{303}{}{[TOV√ÅBB]}
 {304}{}{Woo- Woah. Hey, I can speak normally! Wow, this is great. What'd you do to me?}
 {305}{}{I learned that if you read a specific series of letters, making sure to use the correct inflections on each
  letter, you can cure someone with either autism or epilepsy.}
 {306}{}{Sounds like a bunch of hoop-la to me, but hey, I'm talking, so there must be something to it. Anyway, I really
  appreciate what you've done. Here, take these stimpacks. I found 'em when I was scavenging for food behind all these buildings.}
 {307}{}{Thanks. See you around.}
-{350}{}{Va˙˙!}
+{350}{}{Va√∫√∫!}
 {351}{}{Woof! Woooof!}
 {352}{}{*scratches self*}
 {400}{}{Woof! Heh, just kidding. Thanks again for curing me.}

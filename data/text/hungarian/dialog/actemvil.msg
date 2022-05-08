@@ -1,90 +1,90 @@
-{100}{}{? Cameron, az egyik törzsbéli társad.}
+{100}{}{? Cameron, az egyik tÃ¶rzsbÃ©li tÃ¡rsad.}
 {101}{}{? Cameron.}
-{102}{}{Egy ifjú embert látsz duzzadó izmokkal és merész arckifejezéssel.}
-{103}{}{Légy üdvözölve, }
-{104}{}{. Enyém a megtiszteltetés, hogy ismertessem utolsó feladatod. A küldetésed folytatásához le kell engem gy?znöd közelharcban, fegyverek nélkül. Kezdhetjük?}
-{105}{}{Én van kérdések.}
-{106}{}{Oké, mi harcol.}
-{107}{}{Nem, felkészülni én el?ször.}
-{108}{}{El?ször lenne hozzád néhány kérdésem.}
-{109}{}{Rendben, kezdhetjük.}
-{110}{}{Várj egy pillanatot, el?bb felkészülnék!}
-{111}{}{Mit szeretnél tudni? }
-{112}{}{Miért harcol mi?}
-{113}{}{Harcolunk mi halálba?}
-{114}{}{Harcolunk mi fegyver nélkül?}
+{102}{}{Egy ifjÃº embert lÃ¡tsz duzzadÃ³ izmokkal Ã©s merÃ©sz arckifejezÃ©ssel.}
+{103}{}{LÃ©gy Ã¼dvÃ¶zÃ¶lve, }
+{104}{}{. EnyÃ©m a megtiszteltetÃ©s, hogy ismertessem utolsÃ³ feladatod. A kÃ¼ldetÃ©sed folytatÃ¡sÃ¡hoz le kell engem gy?znÃ¶d kÃ¶zelharcban, fegyverek nÃ©lkÃ¼l. KezdhetjÃ¼k?}
+{105}{}{Ã‰n van kÃ©rdÃ©sek.}
+{106}{}{OkÃ©, mi harcol.}
+{107}{}{Nem, felkÃ©szÃ¼lni Ã©n el?szÃ¶r.}
+{108}{}{El?szÃ¶r lenne hozzÃ¡d nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{109}{}{Rendben, kezdhetjÃ¼k.}
+{110}{}{VÃ¡rj egy pillanatot, el?bb felkÃ©szÃ¼lnÃ©k!}
+{111}{}{Mit szeretnÃ©l tudni? }
+{112}{}{MiÃ©rt harcol mi?}
+{113}{}{Harcolunk mi halÃ¡lba?}
+{114}{}{Harcolunk mi fegyver nÃ©lkÃ¼l?}
 {115}{}{Rendben, most harcolunk mi.}
-{116}{}{Nekem kell készülni fel.}
-{117}{}{Miért kell harcolnunk?}
-{118}{}{Élet-halál harcra számíthatok?}
-{119}{}{Azt mondtad, fegyverek nélkül harcolunk?}
-{120}{}{Legyünk túl ezen a harcon!}
-{121}{}{Egy pillanat, még fel kell készülnöm.}
-{122}{}{A Kiválasztott útját nem könny? végigjárni, }
-{123}{}{. Rengeteg megpróbáltatásban lesz még részed életed során, és ezek közül a legnehezebb az, ha a társaddal kell összecsapnod. Eljön majd az id?, amikor a diplomácia és a cselek cs?döt mondanak, ezért a puszta kezedet kell használnod. Ez a megpróbáltatás felkészít arra, hogy ha meglátod az ellenséged, a szemébe nézhess, és tudd, hogy meg kell ölnöd ?t.}
-{124}{}{Oké.}
-{125}{}{Értem.}
-{126}{}{Nem, barátom, csak le kell gy?znöd. Ha eljön az ideje, rögtön abbahagyjuk a küzdelmet.}
-{127}{}{Én érteni.}
+{116}{}{Nekem kell kÃ©szÃ¼lni fel.}
+{117}{}{MiÃ©rt kell harcolnunk?}
+{118}{}{Ã‰let-halÃ¡l harcra szÃ¡mÃ­thatok?}
+{119}{}{Azt mondtad, fegyverek nÃ©lkÃ¼l harcolunk?}
+{120}{}{LegyÃ¼nk tÃºl ezen a harcon!}
+{121}{}{Egy pillanat, mÃ©g fel kell kÃ©szÃ¼lnÃ¶m.}
+{122}{}{A KivÃ¡lasztott ÃºtjÃ¡t nem kÃ¶nny? vÃ©gigjÃ¡rni, }
+{123}{}{. Rengeteg megprÃ³bÃ¡ltatÃ¡sban lesz mÃ©g rÃ©szed Ã©leted sorÃ¡n, Ã©s ezek kÃ¶zÃ¼l a legnehezebb az, ha a tÃ¡rsaddal kell Ã¶sszecsapnod. EljÃ¶n majd az id?, amikor a diplomÃ¡cia Ã©s a cselek cs?dÃ¶t mondanak, ezÃ©rt a puszta kezedet kell hasznÃ¡lnod. Ez a megprÃ³bÃ¡ltatÃ¡s felkÃ©szÃ­t arra, hogy ha meglÃ¡tod az ellensÃ©ged, a szemÃ©be nÃ©zhess, Ã©s tudd, hogy meg kell Ã¶lnÃ¶d ?t.}
+{124}{}{OkÃ©.}
+{125}{}{Ã‰rtem.}
+{126}{}{Nem, barÃ¡tom, csak le kell gy?znÃ¶d. Ha eljÃ¶n az ideje, rÃ¶gtÃ¶n abbahagyjuk a kÃ¼zdelmet.}
+{127}{}{Ã‰n Ã©rteni.}
 {128}{}{Rendben.}
-{129}{}{Igen. A fegyverek csak akadályoznának bennünket a harcban, és gyengítenék az egymás elleni cselekedeteink hatását. Mikor puszta ököllel harcolsz egy másik ember ellen, látod is, érzed is a fájdalmat, amit okoztál. A harc nagyon személyessé válik kett?tök között. Ez fontos lecke lehet számodra, }
+{129}{}{Igen. A fegyverek csak akadÃ¡lyoznÃ¡nak bennÃ¼nket a harcban, Ã©s gyengÃ­tenÃ©k az egymÃ¡s elleni cselekedeteink hatÃ¡sÃ¡t. Mikor puszta Ã¶kÃ¶llel harcolsz egy mÃ¡sik ember ellen, lÃ¡tod is, Ã©rzed is a fÃ¡jdalmat, amit okoztÃ¡l. A harc nagyon szemÃ©lyessÃ© vÃ¡lik kett?tÃ¶k kÃ¶zÃ¶tt. Ez fontos lecke lehet szÃ¡modra, }
 {130}{}{ vagyok.}
 {131}{}{Ah.}
-{132}{}{Értem.}
-{133}{}{Nagyon jó. Kezdhetjük?}
-{134}{}{Én készen állni.}
-{135}{}{Nem, felkészülni én el?ször.}
-{136}{}{Készen állok.}
-{137}{}{Nem, kell egy kis id?, amíg felkészülök.}
-{138}{}{Rendben van. Gyere vissza, és szólj, ha készen állsz!}
-{139}{}{Készen állsz a feladatra, }
+{132}{}{Ã‰rtem.}
+{133}{}{Nagyon jÃ³. KezdhetjÃ¼k?}
+{134}{}{Ã‰n kÃ©szen Ã¡llni.}
+{135}{}{Nem, felkÃ©szÃ¼lni Ã©n el?szÃ¶r.}
+{136}{}{KÃ©szen Ã¡llok.}
+{137}{}{Nem, kell egy kis id?, amÃ­g felkÃ©szÃ¼lÃ¶k.}
+{138}{}{Rendben van. Gyere vissza, Ã©s szÃ³lj, ha kÃ©szen Ã¡llsz!}
+{139}{}{KÃ©szen Ã¡llsz a feladatra, }
 {140}{}{?}
-{141}{}{Én készen. }
-{142}{}{Én még nem lenni kész.}
+{141}{}{Ã‰n kÃ©szen. }
+{142}{}{Ã‰n mÃ©g nem lenni kÃ©sz.}
 {143}{}{Azt hiszem, igen.}
-{144}{}{Nem, adj még egy percet!}
-{145}{}{Nagyszer?! A felszerelésed az ajtó melletti ládában lesz, a másik teremben. A harc után magadhoz veheted. Harcra fel! Sok szerencsét, }
+{144}{}{Nem, adj mÃ©g egy percet!}
+{145}{}{Nagyszer?! A felszerelÃ©sed az ajtÃ³ melletti lÃ¡dÃ¡ban lesz, a mÃ¡sik teremben. A harc utÃ¡n magadhoz veheted. Harcra fel! Sok szerencsÃ©t, }
 {146}{}{ vagyok.}
-{147}{}{Örülök, hogy újra láthatlak, Kiválasztott. Miben segíthetek?}
-{148}{}{Én akarja újra menni be templom.}
-{149}{}{Akarsz velem újra harcolni?}
-{150}{}{Csak mondani üdv. Én mostan már menni.}
-{151}{}{Szeretnék újra bemenni a templomba.}
-{152}{}{Üdv, Cameron! Készen állsz egy újabb harcra?}
-{153}{}{Csak gondoltam, beköszönök. Kés?bb találkozunk.}
-{154}{}{Rendben, Kiválasztott. Ez a barlang mögöttem a templom utolsó kamrájába vezet.}
-{155}{}{Oké. Menni.}
-{156}{}{Rendben. Köszönöm.}
-{157}{}{Nem, kösz, Kiválasztott. Még mindig megvannak a sebeim, amiket t?led szereztem a harcban, és több évbe fog telni, amíg teljesen meggyógyulok!}
-{158}{}{Üdv, Cameron.}
-{159}{}{Hát akkor, sok szerencsét, Cameron!}
-{160}{}{Kiválasztott ám a valagam! Meg foglak ölni!}
-{161}{}{Legy?ztél. Méltó vagy a feladatra, Kiválasztott.}
-{165}{}{Nem értek veled egyet. Szerintem ezt békésen is megoldhatnánk.}
-{166}{}{Talán igazad van, }
-{167}{}{, de a mi helyzetünkben ez most nem lehetséges. Le kell gy?znöd engem, hogy kiálld a próbát!}
+{147}{}{Ã–rÃ¼lÃ¶k, hogy Ãºjra lÃ¡thatlak, KivÃ¡lasztott. Miben segÃ­thetek?}
+{148}{}{Ã‰n akarja Ãºjra menni be templom.}
+{149}{}{Akarsz velem Ãºjra harcolni?}
+{150}{}{Csak mondani Ã¼dv. Ã‰n mostan mÃ¡r menni.}
+{151}{}{SzeretnÃ©k Ãºjra bemenni a templomba.}
+{152}{}{Ãœdv, Cameron! KÃ©szen Ã¡llsz egy Ãºjabb harcra?}
+{153}{}{Csak gondoltam, bekÃ¶szÃ¶nÃ¶k. KÃ©s?bb talÃ¡lkozunk.}
+{154}{}{Rendben, KivÃ¡lasztott. Ez a barlang mÃ¶gÃ¶ttem a templom utolsÃ³ kamrÃ¡jÃ¡ba vezet.}
+{155}{}{OkÃ©. Menni.}
+{156}{}{Rendben. KÃ¶szÃ¶nÃ¶m.}
+{157}{}{Nem, kÃ¶sz, KivÃ¡lasztott. MÃ©g mindig megvannak a sebeim, amiket t?led szereztem a harcban, Ã©s tÃ¶bb Ã©vbe fog telni, amÃ­g teljesen meggyÃ³gyulok!}
+{158}{}{Ãœdv, Cameron.}
+{159}{}{HÃ¡t akkor, sok szerencsÃ©t, Cameron!}
+{160}{}{KivÃ¡lasztott Ã¡m a valagam! Meg foglak Ã¶lni!}
+{161}{}{Legy?ztÃ©l. MÃ©ltÃ³ vagy a feladatra, KivÃ¡lasztott.}
+{165}{}{Nem Ã©rtek veled egyet. Szerintem ezt bÃ©kÃ©sen is megoldhatnÃ¡nk.}
+{166}{}{TalÃ¡n igazad van, }
+{167}{}{, de a mi helyzetÃ¼nkben ez most nem lehetsÃ©ges. Le kell gy?znÃ¶d engem, hogy kiÃ¡lld a prÃ³bÃ¡t!}
 {168}{}{Look, I don't know all of your strengths and weaknesses, and you don't know mine.
  Accidents do happen, so what if one of us inadvertently kills the other? Let's just
  end this now rather than take that chance, okay?}
-{169}{}{Hmm... Értem, mire gondolsz. Nem akarom, hogy véletlenül meghalj, miközben csak a harci képességeidet tesztelném. Rendben... továbbmehetsz, Kiválasztott!}
-{170}{}{Hmm... Értem, mire gondolsz, de mindenképp harcolnunk kell. Megígérem, hogy nem fogok nagy fájdalmat okozni.}
-{171}{}{Köszönöm! Majd találkozunk a faluban.}
-{172}{}{Értem.}
-{200}{}{Mintha nem emlékeznék az utolsó harcunkra, Kiválasztott. Egész életemben csodálkozni fogok, hogyan vettél rá arra, hogy tovább engedjelek.}
-{201}{}{Nyelved akár az ezüst, Kiválasztott. Úgy bánsz a szavakkal, hogy minden bizonnyal hasznát tudod majd venni utazásod során.}
+{169}{}{Hmm... Ã‰rtem, mire gondolsz. Nem akarom, hogy vÃ©letlenÃ¼l meghalj, mikÃ¶zben csak a harci kÃ©pessÃ©geidet tesztelnÃ©m. Rendben... tovÃ¡bbmehetsz, KivÃ¡lasztott!}
+{170}{}{Hmm... Ã‰rtem, mire gondolsz, de mindenkÃ©pp harcolnunk kell. MegÃ­gÃ©rem, hogy nem fogok nagy fÃ¡jdalmat okozni.}
+{171}{}{KÃ¶szÃ¶nÃ¶m! Majd talÃ¡lkozunk a faluban.}
+{172}{}{Ã‰rtem.}
+{200}{}{Mintha nem emlÃ©keznÃ©k az utolsÃ³ harcunkra, KivÃ¡lasztott. EgÃ©sz Ã©letemben csodÃ¡lkozni fogok, hogyan vettÃ©l rÃ¡ arra, hogy tovÃ¡bb engedjelek.}
+{201}{}{Nyelved akÃ¡r az ezÃ¼st, KivÃ¡lasztott. Ãšgy bÃ¡nsz a szavakkal, hogy minden bizonnyal hasznÃ¡t tudod majd venni utazÃ¡sod sorÃ¡n.}
 {300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
-{301}{}{Köszönöm, Cameron.}
+{301}{}{KÃ¶szÃ¶nÃ¶m, Cameron.}
 {302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
-{303}{}{Igen, te tanít engem.}
-{304}{}{Nem, én nem kell ezt.}
-{305}{}{Jó, kérlek taníts meg mindenre, amit tudsz!}
-{306}{}{Köszönöm, de jól meg tudom védeni magam.}
-{307}{}{Jól tanulsz, Kiválasztott. Azt hiszem, most már boldogulni fogsz a harcban. Emlékezz azonban arra, hogy a leger?sebb harcosoknak is vissza kell vonulniuk egyszer! Nincs ebben semmi szégyen.}
-{308}{}{Én köszönni neked, Cameron.}
-{309}{}{Köszönöm, Cameron. Emlékezni fogok a szavaidra.}
-{310}{}{Hát jó. Térj vissza, ha meggondolod magad!}
-{311}{}{Én köszönni neked, Cameron.}
-{312}{}{Köszönöm, Cameron. Emlékezni fogok a szavaidra.}
+{303}{}{Igen, te tanÃ­t engem.}
+{304}{}{Nem, Ã©n nem kell ezt.}
+{305}{}{JÃ³, kÃ©rlek tanÃ­ts meg mindenre, amit tudsz!}
+{306}{}{KÃ¶szÃ¶nÃ¶m, de jÃ³l meg tudom vÃ©deni magam.}
+{307}{}{JÃ³l tanulsz, KivÃ¡lasztott. Azt hiszem, most mÃ¡r boldogulni fogsz a harcban. EmlÃ©kezz azonban arra, hogy a leger?sebb harcosoknak is vissza kell vonulniuk egyszer! Nincs ebben semmi szÃ©gyen.}
+{308}{}{Ã‰n kÃ¶szÃ¶nni neked, Cameron.}
+{309}{}{KÃ¶szÃ¶nÃ¶m, Cameron. EmlÃ©kezni fogok a szavaidra.}
+{310}{}{HÃ¡t jÃ³. TÃ©rj vissza, ha meggondolod magad!}
+{311}{}{Ã‰n kÃ¶szÃ¶nni neked, Cameron.}
+{312}{}{KÃ¶szÃ¶nÃ¶m, Cameron. EmlÃ©kezni fogok a szavaidra.}
 {400}{}{Do you ever think about stepping down from your position as the Temple's final trial? I mean, it can be pretty risky.}
 {401}{}{Life is a constant series of risks, Chosen One. With each new dawn, every one of us takes a risk simply by stepping from our homes to greet the unknown day. Why do you ask?}
 {402}{}{No reason. I'll talk with you later, Cameron.}

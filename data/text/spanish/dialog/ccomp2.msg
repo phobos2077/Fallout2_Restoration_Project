@@ -1,40 +1,40 @@
-{100}{}{Ves a un técnico.}
-{101}{}{Ves a un técnico del Enclave.}
-{102}{}{Ves a alguien que lleva una bata de laboratorio. Parece confiado y seguro de sí mismo.}
-{103}{}{¿Sí, soldado?}
-{104}{}{¿Qué es este lugar?}
-{105}{}{Sólo digo hola. Marcho.}
-{106}{}{¿Qué lugar es éste?}
-{107}{}{Sólo pasaba a saludar. Nos vemos.}
-{108}{}{Esta es la sala de la computadora. Eso es la computadora central de todo esto, la interfaz del terminal está al lado, y estos aparatos son las unidades holográficas de almacenamiento de datos. Son lo último y, desde luego, lo mejor.}
-{109}{}{Oh. Eh, ¿qué haces tú?}
-{110}{}{Entonces, ¿qué haces aquí?}
-{111}{}{Soy el jefe de análisis informático. Desde aquí me encargo de mantener todo el equipo.}
-{112}{}{Oh. ¿Puedo usar computadora?}
+{100}{}{Ves a un tÃ©cnico.}
+{101}{}{Ves a un tÃ©cnico del Enclave.}
+{102}{}{Ves a alguien que lleva una bata de laboratorio. Parece confiado y seguro de sÃ­ mismo.}
+{103}{}{Â¿SÃ­, soldado?}
+{104}{}{Â¿QuÃ© es este lugar?}
+{105}{}{SÃ³lo digo hola. Marcho.}
+{106}{}{Â¿QuÃ© lugar es Ã©ste?}
+{107}{}{SÃ³lo pasaba a saludar. Nos vemos.}
+{108}{}{Esta es la sala de la computadora. Eso es la computadora central de todo esto, la interfaz del terminal estÃ¡ al lado, y estos aparatos son las unidades hologrÃ¡ficas de almacenamiento de datos. Son lo Ãºltimo y, desde luego, lo mejor.}
+{109}{}{Oh. Eh, Â¿quÃ© haces tÃº?}
+{110}{}{Entonces, Â¿quÃ© haces aquÃ­?}
+{111}{}{Soy el jefe de anÃ¡lisis informÃ¡tico. Desde aquÃ­ me encargo de mantener todo el equipo.}
+{112}{}{Oh. Â¿Puedo usar computadora?}
 {113}{}{No entiendo. Me voy.}
-{114}{}{Decir, ¿puedo utilizar el sistema durante un minuto? Sabes, échale un vistazo?}
-{115}{}{Eh, encantado de hablar contigo. Te veré mas tarde.}
+{114}{}{Decir, Â¿puedo utilizar el sistema durante un minuto? Sabes, Ã©chale un vistazo?}
+{115}{}{Eh, encantado de hablar contigo. Te verÃ© mas tarde.}
 {116}{}{Bueno... se supone que no se permite a personal no cualificado usar el equipo. Es todo muy complejo y delicado, ya me entiendes.}
-{117}{}{¿Por favor? No rompo yo.}
+{117}{}{Â¿Por favor? No rompo yo.}
 {118}{}{Prometo no estropear nada.}
-{119}{}{De acuerdo. Puedes acceder al sistema desde aquel terminal. Pero ten cuidado, por favor. Nos matarán si estropeas la maquina. ¡Ah! la contraseña para invitados es 'Caramelito'.}
-{120}{}{Lo siento, pero está fuera de lugar. Se supone que no estoy autorizado a que el personal de tropa permanezca en la sala, mucho menos a dejar que utilicen el equipo.}
-{121}{}{¿"Caramelito"? ¿Qué caramelito?}
+{119}{}{De acuerdo. Puedes acceder al sistema desde aquel terminal. Pero ten cuidado, por favor. Nos matarÃ¡n si estropeas la maquina. Â¡Ah! la contraseÃ±a para invitados es 'Caramelito'.}
+{120}{}{Lo siento, pero estÃ¡ fuera de lugar. Se supone que no estoy autorizado a que el personal de tropa permanezca en la sala, mucho menos a dejar que utilicen el equipo.}
+{121}{}{Â¿"Caramelito"? Â¿QuÃ© caramelito?}
 {122}{}{Vale. Yo entiendo.}
-{123}{}{¿"Caramelito"? ¿Por qué diablos "Caramelito"?}
+{123}{}{Â¿"Caramelito"? Â¿Por quÃ© diablos "Caramelito"?}
 {124}{}{De acuerdo. Lo entiendo.}
-{125}{}{"Caramelito" es el mote que le he puesto a mi novia. A mí me parece mono. A propósito, es aquella del pasillo. Es una de los guardias.}
+{125}{}{"Caramelito" es el mote que le he puesto a mi novia. A mÃ­ me parece mono. A propÃ³sito, es aquella del pasillo. Es una de los guardias.}
 {126}{}{De acuerdo, bien. Gracias.}
-{127}{}{Sí... muy mono. Gracias.}
+{127}{}{SÃ­... muy mono. Gracias.}
 {128}{}{No llevas el uniforme.}
-{129}{}{Será mejor que te equipes. La armería está por el pasillo a la izquierda.}
-{130}{}{Te la estás jugando al no llevar el uniforme. Será mejor que te presentes ante Intendencia.}
-{131}{}{¿Quién demonios sois vosotros... ¡Alerta! ¡Intrusos!}
-{132}{}{¡Hemos sufrido una infiltración! ¡Alerta!}
-{133}{}{¡Múltiples intrusos! ¡Dad la alarma!}
-{134}{}{¡Mierda! Guardad una copia de seguridad de todo.}
+{129}{}{SerÃ¡ mejor que te equipes. La armerÃ­a estÃ¡ por el pasillo a la izquierda.}
+{130}{}{Te la estÃ¡s jugando al no llevar el uniforme. SerÃ¡ mejor que te presentes ante Intendencia.}
+{131}{}{Â¿QuiÃ©n demonios sois vosotros... Â¡Alerta! Â¡Intrusos!}
+{132}{}{Â¡Hemos sufrido una infiltraciÃ³n! Â¡Alerta!}
+{133}{}{Â¡MÃºltiples intrusos! Â¡Dad la alarma!}
+{134}{}{Â¡Mierda! Guardad una copia de seguridad de todo.}
 {135}{}{Cancelad todas las operaciones clasificadas.}
-{136}{}{Asegurad el sistema y habilitad todas las contraseñas de seguridad.}
-{137}{}{¡Soy un científico, no un soldado!}
-{138}{}{Apunta directamente con el láser al enemigo. Entonces, aprieta el gatillo.}
-{139}{}{¡Socorro! ¡Socorro! ¡Al laboratorio informático!}
+{136}{}{Asegurad el sistema y habilitad todas las contraseÃ±as de seguridad.}
+{137}{}{Â¡Soy un cientÃ­fico, no un soldado!}
+{138}{}{Apunta directamente con el lÃ¡ser al enemigo. Entonces, aprieta el gatillo.}
+{139}{}{Â¡Socorro! Â¡Socorro! Â¡Al laboratorio informÃ¡tico!}

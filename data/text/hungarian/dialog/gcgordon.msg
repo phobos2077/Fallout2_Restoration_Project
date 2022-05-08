@@ -1,111 +1,111 @@
-{100}{}{Egy újabb ghoul a sok közül. Elfoglaltnak t?nik.}
-{101}{}{? a gekkói Gordon.}
-{102}{}{Egy igen jólöltözött ghoulhoz van szerencséd. A haja hátra van zselézve.}
-{110}{}{Nincs id?m hülyékre.}
-{111}{}{Fontos dolgom van. T?nés innen!}
-{112}{}{Épp olyan idióta vagy, mint a többi.}
-{113}{}{Ez a szoba nem olvasásórára lett kitalálva.}
-{114}{}{Szerintem a simab?r?ek között túl nagy a belterjesség.}
-{120}{}{Üdv, Gordonnak hívnak. A gekkói Gordon.}
-{121}{}{Üdvözlet minálunk, }
-{122}{}{Üdv, Gordon, a nevem }
-{123}{}{Örülök, hogy találkoztunk, a nevem }
-{124}{}{Mit is mondtál Gordon, mit csinálsz itt?}
-{125}{}{Szép sorban beugrom az összes barátomhoz. Örülök, hogy láttalak. Legközelebb is jövök.}
-{130}{}{Lehet?ségek után kutatok.}
+{100}{}{Egy Ãºjabb ghoul a sok kÃ¶zÃ¼l. Elfoglaltnak t?nik.}
+{101}{}{? a gekkÃ³i Gordon.}
+{102}{}{Egy igen jÃ³lÃ¶ltÃ¶zÃ¶tt ghoulhoz van szerencsÃ©d. A haja hÃ¡tra van zselÃ©zve.}
+{110}{}{Nincs id?m hÃ¼lyÃ©kre.}
+{111}{}{Fontos dolgom van. T?nÃ©s innen!}
+{112}{}{Ã‰pp olyan idiÃ³ta vagy, mint a tÃ¶bbi.}
+{113}{}{Ez a szoba nem olvasÃ¡sÃ³rÃ¡ra lett kitalÃ¡lva.}
+{114}{}{Szerintem a simab?r?ek kÃ¶zÃ¶tt tÃºl nagy a belterjessÃ©g.}
+{120}{}{Ãœdv, Gordonnak hÃ­vnak. A gekkÃ³i Gordon.}
+{121}{}{ÃœdvÃ¶zlet minÃ¡lunk, }
+{122}{}{Ãœdv, Gordon, a nevem }
+{123}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk, a nevem }
+{124}{}{Mit is mondtÃ¡l Gordon, mit csinÃ¡lsz itt?}
+{125}{}{SzÃ©p sorban beugrom az Ã¶sszes barÃ¡tomhoz. Ã–rÃ¼lÃ¶k, hogy lÃ¡ttalak. LegkÃ¶zelebb is jÃ¶vÃ¶k.}
+{130}{}{Lehet?sÃ©gek utÃ¡n kutatok.}
 {131}{}{Opportunities? Like what?}
-{135}{}{Keresem a módját, hogyan tudnám magam a lehet? legértékesebbé tenni.}
-{136}{}{Hmm, eléggé úgy hangzik, mint a kapzsiság.}
-{140}{}{Kapzsi vagyok. Sajnos a legtöbb ember félreértelmezi a kapzsiságot. A kapzsiság er?s mozgatórugó. A történelem során az emberiség legnagyobb találmányait olyan embereknek köszönhetjük, akik egyre jobb pozíciókba törekedtek. Kapzsiság hajtotta ?ket. A kapzsiság, lévén nincs jobb szó rá, jó dolog.}
-{141}{}{Értem én, értem én, Gordon, de mi köze van a kapzsiságnak Gekkóhoz?}
-{150}{}{Eddig nem sok, de Gekkó felvirágzása a kapzsiságban rejlik. Fontos információim vannak Gekkó túlélésével kapcsolatban, de senki a világon nem akar végighallgatni.}
-{151}{}{Miféle információról beszélsz?}
-{160}{}{Az a helyzet, hogy kiszámoltam, ha a reaktorunk rendesen m?ködne, óriási mennyiség? tartalék áramot tudnánk termelni. Jóval többet, mint amennyire Gekkónak szüksége van.}
-{161}{}{Valóban?}
-{170}{}{Most, hogy segítettél megjavítani az atomer?m?vünket, sokkal jobb esélyeim vannak, hogy megcsillanthassam a tehetségemet.}
-{171}{}{Mit értesz a tehetséged megcsillantása alatt?}
+{135}{}{Keresem a mÃ³djÃ¡t, hogyan tudnÃ¡m magam a lehet? legÃ©rtÃ©kesebbÃ© tenni.}
+{136}{}{Hmm, elÃ©ggÃ© Ãºgy hangzik, mint a kapzsisÃ¡g.}
+{140}{}{Kapzsi vagyok. Sajnos a legtÃ¶bb ember fÃ©lreÃ©rtelmezi a kapzsisÃ¡got. A kapzsisÃ¡g er?s mozgatÃ³rugÃ³. A tÃ¶rtÃ©nelem sorÃ¡n az emberisÃ©g legnagyobb talÃ¡lmÃ¡nyait olyan embereknek kÃ¶szÃ¶nhetjÃ¼k, akik egyre jobb pozÃ­ciÃ³kba tÃ¶rekedtek. KapzsisÃ¡g hajtotta ?ket. A kapzsisÃ¡g, lÃ©vÃ©n nincs jobb szÃ³ rÃ¡, jÃ³ dolog.}
+{141}{}{Ã‰rtem Ã©n, Ã©rtem Ã©n, Gordon, de mi kÃ¶ze van a kapzsisÃ¡gnak GekkÃ³hoz?}
+{150}{}{Eddig nem sok, de GekkÃ³ felvirÃ¡gzÃ¡sa a kapzsisÃ¡gban rejlik. Fontos informÃ¡ciÃ³im vannak GekkÃ³ tÃºlÃ©lÃ©sÃ©vel kapcsolatban, de senki a vilÃ¡gon nem akar vÃ©gighallgatni.}
+{151}{}{MifÃ©le informÃ¡ciÃ³rÃ³l beszÃ©lsz?}
+{160}{}{Az a helyzet, hogy kiszÃ¡moltam, ha a reaktorunk rendesen m?kÃ¶dne, Ã³riÃ¡si mennyisÃ©g? tartalÃ©k Ã¡ramot tudnÃ¡nk termelni. JÃ³val tÃ¶bbet, mint amennyire GekkÃ³nak szÃ¼ksÃ©ge van.}
+{161}{}{ValÃ³ban?}
+{170}{}{Most, hogy segÃ­tettÃ©l megjavÃ­tani az atomer?m?vÃ¼nket, sokkal jobb esÃ©lyeim vannak, hogy megcsillanthassam a tehetsÃ©gemet.}
+{171}{}{Mit Ã©rtesz a tehetsÃ©ged megcsillantÃ¡sa alatt?}
 {172}{}{Is this greed talking again, Gordon?}
-{180}{}{Arra is rájöttem, mégpedig igen megbízható forrásból, hogy elegend? áram nélkül Menedékváros nem tud tovább terjeszkedni.}
-{181}{}{Menedékváros nem képes terjeszkedni?}
-{182}{}{Mégis mi lenne az az igen megbízható forrás?}
-{190}{}{Amint azt tudod, Menedékvárosnak annyi árama van, amennyivel éppen jól elvannak magukban... mindaddig, amíg átgondoltan cselekszenek. Az a baj, hogy a menedékvárosi er?m?vet nem arra tervezték, hogy a megnövekedett igényeket el tudja látni. Már most csúcsra van járatva, viszont áram nélkül gúzsba van kötve a kezük.}
-{191}{}{Nem tudom, ez téged mennyiben motivál...}
-{200}{}{Nos, ha az er?m?vünk hatékonyabban m?ködne, eladhatnánk a fölös áramot a technikai tudásunkkal együtt, cserébe pedig gyógyszereket kérhetnénk Menedékvárostól.}
-{201}{}{És?}
-{210}{}{Több áram nélkül Menedékváros reaktorai 15 éven belül gallyra mennek. Ha a gekkói er?m?vet nem javítjuk meg, nekünk fele annyi id? is elég. Aztán az sem elvetend? probléma, hogy a gyógyászati technológia híján Gekkó lakosai húsz éven belül mind kipusztulnak. Ha a két város nem m?ködik együtt, azon mindenki csak veszít.}
-{211}{}{Szóval te vagy itt a jó Szamaritánus, he? Nem tudom, miért, de nem vagyok vev? erre.}
-{220}{}{Dehogyis. Az én sorsom meg van írva. Automatikusan engem választanak majd, hogy ezt a projektet vezessem. Kapzsiság hajt, de ezrek életét mentjük meg. A kapzsiság tehát jó dolog. Legalábbis lehetne, ha rá tudnék venni legalább egy menedékvárosi személyt, hogy a városgazdálkodási adataimat átnézze.}
-{221}{}{Nem hinném, hogy szívesen látnálak bármilyen projekt élén.}
-{222}{}{Hmm, esetleg megmutathatnám az adataidat valakinek Menedékvárosban.}
-{223}{}{Le merném fogadni, hogy McClure tanácsos venné a fáradtságot, hogy ránézzen arra az adathalmazra. Olyan embernek t?nik, aki el?ítéletek helyett az eszét használja.}
-{224}{}{Ez aztán a történet, Gordon! Ilyen jót már rég hallottam [kuncogsz]. Nem felejtem el egy darabig. Na, ég áldjon.}
-{230}{}{Rendszeresen frissítek egy gazdálkodási adatbázist Gekkóval kapcsolatban, és meg is szoktam mutatni Haroldnak. A baj az, hogy sosem figyel rám.}
-{231}{}{Sajnálattal hallom ezt. Miket érint ez a gazdálkodási adatbázis?}
-{232}{}{Harold valószín?leg nagyon elfoglalt. Kés?bb még találkozunk.}
-{240}{}{Egyik éjszaka hallottam, amint egy hang a nevemen szólít a kinti reaktormag fel?l. A hang az árnyékból jött. Nem tudtam, mire véljem els?re, de sok értelmeset, általam is tapasztalt dolgot mondott. Nem tudom, ki vagy mi beszélt hozzám, de a tények alátámasztják a mondandóját.}
+{180}{}{Arra is rÃ¡jÃ¶ttem, mÃ©gpedig igen megbÃ­zhatÃ³ forrÃ¡sbÃ³l, hogy elegend? Ã¡ram nÃ©lkÃ¼l MenedÃ©kvÃ¡ros nem tud tovÃ¡bb terjeszkedni.}
+{181}{}{MenedÃ©kvÃ¡ros nem kÃ©pes terjeszkedni?}
+{182}{}{MÃ©gis mi lenne az az igen megbÃ­zhatÃ³ forrÃ¡s?}
+{190}{}{Amint azt tudod, MenedÃ©kvÃ¡rosnak annyi Ã¡rama van, amennyivel Ã©ppen jÃ³l elvannak magukban... mindaddig, amÃ­g Ã¡tgondoltan cselekszenek. Az a baj, hogy a menedÃ©kvÃ¡rosi er?m?vet nem arra terveztÃ©k, hogy a megnÃ¶vekedett igÃ©nyeket el tudja lÃ¡tni. MÃ¡r most csÃºcsra van jÃ¡ratva, viszont Ã¡ram nÃ©lkÃ¼l gÃºzsba van kÃ¶tve a kezÃ¼k.}
+{191}{}{Nem tudom, ez tÃ©ged mennyiben motivÃ¡l...}
+{200}{}{Nos, ha az er?m?vÃ¼nk hatÃ©konyabban m?kÃ¶dne, eladhatnÃ¡nk a fÃ¶lÃ¶s Ã¡ramot a technikai tudÃ¡sunkkal egyÃ¼tt, cserÃ©be pedig gyÃ³gyszereket kÃ©rhetnÃ©nk MenedÃ©kvÃ¡rostÃ³l.}
+{201}{}{Ã‰s?}
+{210}{}{TÃ¶bb Ã¡ram nÃ©lkÃ¼l MenedÃ©kvÃ¡ros reaktorai 15 Ã©ven belÃ¼l gallyra mennek. Ha a gekkÃ³i er?m?vet nem javÃ­tjuk meg, nekÃ¼nk fele annyi id? is elÃ©g. AztÃ¡n az sem elvetend? problÃ©ma, hogy a gyÃ³gyÃ¡szati technolÃ³gia hÃ­jÃ¡n GekkÃ³ lakosai hÃºsz Ã©ven belÃ¼l mind kipusztulnak. Ha a kÃ©t vÃ¡ros nem m?kÃ¶dik egyÃ¼tt, azon mindenki csak veszÃ­t.}
+{211}{}{SzÃ³val te vagy itt a jÃ³ SzamaritÃ¡nus, he? Nem tudom, miÃ©rt, de nem vagyok vev? erre.}
+{220}{}{Dehogyis. Az Ã©n sorsom meg van Ã­rva. Automatikusan engem vÃ¡lasztanak majd, hogy ezt a projektet vezessem. KapzsisÃ¡g hajt, de ezrek Ã©letÃ©t mentjÃ¼k meg. A kapzsisÃ¡g tehÃ¡t jÃ³ dolog. LegalÃ¡bbis lehetne, ha rÃ¡ tudnÃ©k venni legalÃ¡bb egy menedÃ©kvÃ¡rosi szemÃ©lyt, hogy a vÃ¡rosgazdÃ¡lkodÃ¡si adataimat Ã¡tnÃ©zze.}
+{221}{}{Nem hinnÃ©m, hogy szÃ­vesen lÃ¡tnÃ¡lak bÃ¡rmilyen projekt Ã©lÃ©n.}
+{222}{}{Hmm, esetleg megmutathatnÃ¡m az adataidat valakinek MenedÃ©kvÃ¡rosban.}
+{223}{}{Le mernÃ©m fogadni, hogy McClure tanÃ¡csos vennÃ© a fÃ¡radtsÃ¡got, hogy rÃ¡nÃ©zzen arra az adathalmazra. Olyan embernek t?nik, aki el?Ã­tÃ©letek helyett az eszÃ©t hasznÃ¡lja.}
+{224}{}{Ez aztÃ¡n a tÃ¶rtÃ©net, Gordon! Ilyen jÃ³t mÃ¡r rÃ©g hallottam [kuncogsz]. Nem felejtem el egy darabig. Na, Ã©g Ã¡ldjon.}
+{230}{}{Rendszeresen frissÃ­tek egy gazdÃ¡lkodÃ¡si adatbÃ¡zist GekkÃ³val kapcsolatban, Ã©s meg is szoktam mutatni Haroldnak. A baj az, hogy sosem figyel rÃ¡m.}
+{231}{}{SajnÃ¡lattal hallom ezt. Miket Ã©rint ez a gazdÃ¡lkodÃ¡si adatbÃ¡zis?}
+{232}{}{Harold valÃ³szÃ­n?leg nagyon elfoglalt. KÃ©s?bb mÃ©g talÃ¡lkozunk.}
+{240}{}{Egyik Ã©jszaka hallottam, amint egy hang a nevemen szÃ³lÃ­t a kinti reaktormag fel?l. A hang az Ã¡rnyÃ©kbÃ³l jÃ¶tt. Nem tudtam, mire vÃ©ljem els?re, de sok Ã©rtelmeset, Ã¡ltalam is tapasztalt dolgot mondott. Nem tudom, ki vagy mi beszÃ©lt hozzÃ¡m, de a tÃ©nyek alÃ¡tÃ¡masztjÃ¡k a mondandÃ³jÃ¡t.}
 {241}{}{Mit mondott az a hang?}
-{250}{}{Egyfolytában a képességeim lehet? legjobb kihasználásáról beszélt.}
-{251}{}{A képességeid lehet? legjobb kihasználásáról? Mintha a kapzsiságodra apellált volna.}
-{260}{}{Egyfolytában a képességeim lehet? legjobb kihasználásáról beszélt.}
-{261}{}{A képességeid lehet? legjobb kihasználásáról? Mintha a kapzsiságodra apellált volna.}
+{250}{}{EgyfolytÃ¡ban a kÃ©pessÃ©geim lehet? legjobb kihasznÃ¡lÃ¡sÃ¡rÃ³l beszÃ©lt.}
+{251}{}{A kÃ©pessÃ©geid lehet? legjobb kihasznÃ¡lÃ¡sÃ¡rÃ³l? Mintha a kapzsisÃ¡godra apellÃ¡lt volna.}
+{260}{}{EgyfolytÃ¡ban a kÃ©pessÃ©geim lehet? legjobb kihasznÃ¡lÃ¡sÃ¡rÃ³l beszÃ©lt.}
+{261}{}{A kÃ©pessÃ©geid lehet? legjobb kihasznÃ¡lÃ¡sÃ¡rÃ³l? Mintha a kapzsisÃ¡godra apellÃ¡lt volna.}
 {270}{}{Merthogy?}
-{271}{}{Valahogy nem jön be nálam a kapzsiság ilyenforma felfogása. Szerintem bármit is bíznának rád, egyszer?en túladnál rajta, és lelépnél a pénzzel. Viszlát!}
-{272}{}{Mivel kihagytál egy fontos tényez?t a tervedb?l. Egy partnert... nevezetesen engem.}
-{280}{}{Minden fontos gazdálkodási adat fenn van egy lemezen. Odaadom, ha megígéred, hogy megmutatod Menedékvárosban egy olyan személynek, aki a rajta tárolt adatokat egyrészt megérti, másrészt tud is kezdeni vele valamit. Persze, jó, ha diszkréten kezeled... nem mindenki fog repesni ott az örömt?l, hogy ghoulokkal tartod a kapcsolatot.}
-{281}{}{Nem hiszem, hogy bajlódni szeretnék azzal a lemezzel. Amúgy kösz. Viszlát!}
-{282}{}{Rendben, átveszem a lemezt. Biztos vagyok benne, hogy jó kezekbe kerül majd. Még találkozunk.}
-{290}{}{Hm... nem tartok igényt a segítségedre! Te csak egy törzsbéli vagy.}
-{291}{}{Hát nem hinném, hogy csak Menedékvárosban élnek korlátolt emberek, Gordon fiam. Na, ég veled.}
+{271}{}{Valahogy nem jÃ¶n be nÃ¡lam a kapzsisÃ¡g ilyenforma felfogÃ¡sa. Szerintem bÃ¡rmit is bÃ­znÃ¡nak rÃ¡d, egyszer?en tÃºladnÃ¡l rajta, Ã©s lelÃ©pnÃ©l a pÃ©nzzel. ViszlÃ¡t!}
+{272}{}{Mivel kihagytÃ¡l egy fontos tÃ©nyez?t a tervedb?l. Egy partnert... nevezetesen engem.}
+{280}{}{Minden fontos gazdÃ¡lkodÃ¡si adat fenn van egy lemezen. Odaadom, ha megÃ­gÃ©red, hogy megmutatod MenedÃ©kvÃ¡rosban egy olyan szemÃ©lynek, aki a rajta tÃ¡rolt adatokat egyrÃ©szt megÃ©rti, mÃ¡srÃ©szt tud is kezdeni vele valamit. Persze, jÃ³, ha diszkrÃ©ten kezeled... nem mindenki fog repesni ott az Ã¶rÃ¶mt?l, hogy ghoulokkal tartod a kapcsolatot.}
+{281}{}{Nem hiszem, hogy bajlÃ³dni szeretnÃ©k azzal a lemezzel. AmÃºgy kÃ¶sz. ViszlÃ¡t!}
+{282}{}{Rendben, Ã¡tveszem a lemezt. Biztos vagyok benne, hogy jÃ³ kezekbe kerÃ¼l majd. MÃ©g talÃ¡lkozunk.}
+{290}{}{Hm... nem tartok igÃ©nyt a segÃ­tsÃ©gedre! Te csak egy tÃ¶rzsbÃ©li vagy.}
+{291}{}{HÃ¡t nem hinnÃ©m, hogy csak MenedÃ©kvÃ¡rosban Ã©lnek korlÃ¡tolt emberek, Gordon fiam. Na, Ã©g veled.}
 {300}{}{Our atomic power plant is still barely operational. You must not take the information to
  Vault City yet.}
-{301}{}{Nem hinném, hogy Menedékvárosban túlságosan fogékonyak lennének a ghoul forrásból származó adatokra.}
-{302}{}{Nem, valóban nem, de ami késik, nem múlik. Viszlát!}
+{301}{}{Nem hinnÃ©m, hogy MenedÃ©kvÃ¡rosban tÃºlsÃ¡gosan fogÃ©konyak lennÃ©nek a ghoul forrÃ¡sbÃ³l szÃ¡rmazÃ³ adatokra.}
+{302}{}{Nem, valÃ³ban nem, de ami kÃ©sik, nem mÃºlik. ViszlÃ¡t!}
 {303}{}{Delivering that data to Vault City is only one of the many steps you need to take. Our atomic power
  plant is still barely operational and needs to be fixed.}
 {304}{}{I will get right on it. Goodbye.}
 {305}{}{Yeah, maybe some other time.}
-{310}{}{Köszönjük, hogy megjavítottad az er?m?vet. A jó öreg Gordon tervei jól haladnak. A kapzsiság csodálatos dolog. Büszke lehetnél, hogy részese vagy.}
-{311}{}{A kapzsiság valóban jó dolog, Gordon. Nekem is vannak saját terveim, amiket véghez kéne vinni. Viszlát!}
-{320}{}{Végünk. Végünk. Most már senki nem menthet meg minket. Menj el!}
-{321}{}{Ne is lássalak.}
-{322}{}{Rendben, viszlátásra.}
-{330}{}{Leköteleztél. Mostantól pedig mindent véghezvihetek, amit csak akartam, persze Gekkó és Menedékváros költségére. Egyszer?en csak meg kell választaniuk el?ljárójukká. Harold lassan lapátra kerül.}
-{331}{}{Hát persze, nem kétlem, Gordon [kényszeredetten ide-oda nézel]. Azt hiszem, elérkezett a távozás pillanata.}
-{332}{}{Jobb lesz, ha vigyázol magadra, Gordon. Könnyebb megszerezni valamit, mint megtartani. Na, légy jó.}
-{340}{}{Látom, nálad van a szimbólum. Az információért jöttél?}
-{341}{}{Milyen szimbólum?}
-{342}{}{Milyen információért?}
-{343}{}{Persze, büszkén viselem a szimbólumot, és az információ most azonnal kell.}
-{344}{}{Shhh. Most nem, testvérem. Figyelnek bennünket. Kés?bb...}
-{350}{}{A Megújhodás szimbólumát viseled. Közénk tartozol. Közel a Megújhodás, bajtárs! Közel a Megújhodás!}
-{351}{}{Igen-igen, közétek tartozom. Közel a Megujja... öö... Megújhodás!}
-{352}{}{Ezt találtam valahol. Mi ez?}
+{310}{}{KÃ¶szÃ¶njÃ¼k, hogy megjavÃ­tottad az er?m?vet. A jÃ³ Ã¶reg Gordon tervei jÃ³l haladnak. A kapzsisÃ¡g csodÃ¡latos dolog. BÃ¼szke lehetnÃ©l, hogy rÃ©szese vagy.}
+{311}{}{A kapzsisÃ¡g valÃ³ban jÃ³ dolog, Gordon. Nekem is vannak sajÃ¡t terveim, amiket vÃ©ghez kÃ©ne vinni. ViszlÃ¡t!}
+{320}{}{VÃ©gÃ¼nk. VÃ©gÃ¼nk. Most mÃ¡r senki nem menthet meg minket. Menj el!}
+{321}{}{Ne is lÃ¡ssalak.}
+{322}{}{Rendben, viszlÃ¡tÃ¡sra.}
+{330}{}{LekÃ¶teleztÃ©l. MostantÃ³l pedig mindent vÃ©ghezvihetek, amit csak akartam, persze GekkÃ³ Ã©s MenedÃ©kvÃ¡ros kÃ¶ltsÃ©gÃ©re. Egyszer?en csak meg kell vÃ¡lasztaniuk el?ljÃ¡rÃ³jukkÃ¡. Harold lassan lapÃ¡tra kerÃ¼l.}
+{331}{}{HÃ¡t persze, nem kÃ©tlem, Gordon [kÃ©nyszeredetten ide-oda nÃ©zel]. Azt hiszem, elÃ©rkezett a tÃ¡vozÃ¡s pillanata.}
+{332}{}{Jobb lesz, ha vigyÃ¡zol magadra, Gordon. KÃ¶nnyebb megszerezni valamit, mint megtartani. Na, lÃ©gy jÃ³.}
+{340}{}{LÃ¡tom, nÃ¡lad van a szimbÃ³lum. Az informÃ¡ciÃ³Ã©rt jÃ¶ttÃ©l?}
+{341}{}{Milyen szimbÃ³lum?}
+{342}{}{Milyen informÃ¡ciÃ³Ã©rt?}
+{343}{}{Persze, bÃ¼szkÃ©n viselem a szimbÃ³lumot, Ã©s az informÃ¡ciÃ³ most azonnal kell.}
+{344}{}{Shhh. Most nem, testvÃ©rem. Figyelnek bennÃ¼nket. KÃ©s?bb...}
+{350}{}{A MegÃºjhodÃ¡s szimbÃ³lumÃ¡t viseled. KÃ¶zÃ©nk tartozol. KÃ¶zel a MegÃºjhodÃ¡s, bajtÃ¡rs! KÃ¶zel a MegÃºjhodÃ¡s!}
+{351}{}{Igen-igen, kÃ¶zÃ©tek tartozom. KÃ¶zel a Megujja... Ã¶Ã¶... MegÃºjhodÃ¡s!}
+{352}{}{Ezt talÃ¡ltam valahol. Mi ez?}
 {353}{}{Egy holttestr?l szedtem ezt le. Mi a fene ez?}
-{360}{}{Téged küldött az adatlemezért?}
-{361}{}{Igen, az adatlemez miatt vagyok itt. Add át rögvest!}
-{362}{}{Miféle lemezért?}
-{370}{}{Ah, hát persze, sosem szolgálhatjuk elegen az ügyünket. Több bajtárs azt jelenti, hogy a jó öreg Gordon hamarabb eléri, amit akar. A lemezért jöttél?}
-{371}{}{Miféle lemezért?}
-{372}{}{Szerintem a sugárzás kikezdte az agyad! Már itt sem vagyok.}
-{380}{}{Tessék, de nehogy egy illetéktelennek eláruld, hogy nálad van! Ha Menedékvárosban vagy, csakis McClure tanácsos kezébe adhatod.}
-{381}{}{Természetesen. Öö... Közel a Meghújhodás, testvér!}
-{382}{}{Nem viszek el semmiféle ghoul lemezt Menedékvárosba! Azok ott a fejemet veszik ezért! Viszlát!}
-{390}{}{Ez a gazdálkodási adatlemez, amely bebizonyítja, hogy Gekkónak és Menedékvárosnak közösen kell munkálkodnia a közös fennmaradásért. Az összes simab?r? ilyen gyengeelméj??}
-{391}{}{Ja, igen, arról a lemezr?l van szó. Azt elviszem.}
-{392}{}{Hát eléggé komplikáltnak hangzik, az biztos. Persze egy ilyen agyatlan alak, mint jómagam, sosem értené. Na, veszem a kalapom.}
-{400}{}{Hát persze. [kacsingat]. Mindannyian "rátaláltunk" a szimbólumra! Közel a Megújhodás, bajtárs! A lemezért jöttél?}
-{401}{}{Igen, azért. Hol van?}
-{402}{}{Miféle lemezért?}
-{403}{}{Nem, nem igazán. Csak beestem véletlenül. Viszlát!}
-{410}{}{Holttestr?l? Melyikünk halt meg már megint?}
-{411}{}{Ööö... úgy értem, valaki adta nekem.}
-{412}{}{Melyik?tök halt meg? Ti mind halottak vagytok, ember. Csak bóklászó él?holtak vagytok, nemde? Az egyik ghoul barátod adta egyébként.}
-{413}{}{Hát rákérdezhetsz, melyik?töket nem öltem még meg. Err?l viszont az a remek dolog jut eszembe, hogy te leszel a következ?.}
-{414}{}{Nem, félreértesz. Azt találtam mondani, hogy egy holt testülett?l szedték ezt be. Közel a Megújhodás, testvér!}
-{420}{}{A tények magukért beszélnek. Ha egy elég nyitott embernek mutatod meg, az adatok meggy?z?en fognak hatni.}
-{421}{}{Na, jó, legyen, megpróbálom. Kés?bb majd jövök.}
-{422}{}{Majd gondolkodom még rajta, seriff. Viszlát!}
-{500}{}{. Mivel foglalkozol errefelé?}
-{501}{}{. Kés?bb látjuk egymást, Gordon. Viszlát!}
+{360}{}{TÃ©ged kÃ¼ldÃ¶tt az adatlemezÃ©rt?}
+{361}{}{Igen, az adatlemez miatt vagyok itt. Add Ã¡t rÃ¶gvest!}
+{362}{}{MifÃ©le lemezÃ©rt?}
+{370}{}{Ah, hÃ¡t persze, sosem szolgÃ¡lhatjuk elegen az Ã¼gyÃ¼nket. TÃ¶bb bajtÃ¡rs azt jelenti, hogy a jÃ³ Ã¶reg Gordon hamarabb elÃ©ri, amit akar. A lemezÃ©rt jÃ¶ttÃ©l?}
+{371}{}{MifÃ©le lemezÃ©rt?}
+{372}{}{Szerintem a sugÃ¡rzÃ¡s kikezdte az agyad! MÃ¡r itt sem vagyok.}
+{380}{}{TessÃ©k, de nehogy egy illetÃ©ktelennek elÃ¡ruld, hogy nÃ¡lad van! Ha MenedÃ©kvÃ¡rosban vagy, csakis McClure tanÃ¡csos kezÃ©be adhatod.}
+{381}{}{TermÃ©szetesen. Ã–Ã¶... KÃ¶zel a MeghÃºjhodÃ¡s, testvÃ©r!}
+{382}{}{Nem viszek el semmifÃ©le ghoul lemezt MenedÃ©kvÃ¡rosba! Azok ott a fejemet veszik ezÃ©rt! ViszlÃ¡t!}
+{390}{}{Ez a gazdÃ¡lkodÃ¡si adatlemez, amely bebizonyÃ­tja, hogy GekkÃ³nak Ã©s MenedÃ©kvÃ¡rosnak kÃ¶zÃ¶sen kell munkÃ¡lkodnia a kÃ¶zÃ¶s fennmaradÃ¡sÃ©rt. Az Ã¶sszes simab?r? ilyen gyengeelmÃ©j??}
+{391}{}{Ja, igen, arrÃ³l a lemezr?l van szÃ³. Azt elviszem.}
+{392}{}{HÃ¡t elÃ©ggÃ© komplikÃ¡ltnak hangzik, az biztos. Persze egy ilyen agyatlan alak, mint jÃ³magam, sosem Ã©rtenÃ©. Na, veszem a kalapom.}
+{400}{}{HÃ¡t persze. [kacsingat]. Mindannyian "rÃ¡talÃ¡ltunk" a szimbÃ³lumra! KÃ¶zel a MegÃºjhodÃ¡s, bajtÃ¡rs! A lemezÃ©rt jÃ¶ttÃ©l?}
+{401}{}{Igen, azÃ©rt. Hol van?}
+{402}{}{MifÃ©le lemezÃ©rt?}
+{403}{}{Nem, nem igazÃ¡n. Csak beestem vÃ©letlenÃ¼l. ViszlÃ¡t!}
+{410}{}{Holttestr?l? MelyikÃ¼nk halt meg mÃ¡r megint?}
+{411}{}{Ã–Ã¶Ã¶... Ãºgy Ã©rtem, valaki adta nekem.}
+{412}{}{Melyik?tÃ¶k halt meg? Ti mind halottak vagytok, ember. Csak bÃ³klÃ¡szÃ³ Ã©l?holtak vagytok, nemde? Az egyik ghoul barÃ¡tod adta egyÃ©bkÃ©nt.}
+{413}{}{HÃ¡t rÃ¡kÃ©rdezhetsz, melyik?tÃ¶ket nem Ã¶ltem mÃ©g meg. Err?l viszont az a remek dolog jut eszembe, hogy te leszel a kÃ¶vetkez?.}
+{414}{}{Nem, fÃ©lreÃ©rtesz. Azt talÃ¡ltam mondani, hogy egy holt testÃ¼lett?l szedtÃ©k ezt be. KÃ¶zel a MegÃºjhodÃ¡s, testvÃ©r!}
+{420}{}{A tÃ©nyek magukÃ©rt beszÃ©lnek. Ha egy elÃ©g nyitott embernek mutatod meg, az adatok meggy?z?en fognak hatni.}
+{421}{}{Na, jÃ³, legyen, megprÃ³bÃ¡lom. KÃ©s?bb majd jÃ¶vÃ¶k.}
+{422}{}{Majd gondolkodom mÃ©g rajta, seriff. ViszlÃ¡t!}
+{500}{}{. Mivel foglalkozol errefelÃ©?}
+{501}{}{. KÃ©s?bb lÃ¡tjuk egymÃ¡st, Gordon. ViszlÃ¡t!}
 {502}{}{ vagyok.}
-{600}{}{Kösz az információt, Gordon. Viszlát!}
+{600}{}{KÃ¶sz az informÃ¡ciÃ³t, Gordon. ViszlÃ¡t!}

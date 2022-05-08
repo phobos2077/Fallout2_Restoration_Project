@@ -3,14 +3,14 @@
 {102}{}{Tu veux jouer au Black Jack ? La mise minimale est de $}
 {103}{}{.}
 {104}{}{Certainement.}
-{105}{}{Pas de problème.}
-{106}{}{Qui être black jack ?}
+{105}{}{Pas de problÃ¨me.}
+{106}{}{Qui Ãªtre black jack ?}
 {107}{}{Je regrette mais tu n'as pas assez d'argent pour miser. Reviens quand tu auras plus d'argent.}
 {108}{}{Ok, toutes les mises minimales sont en jeu.}
 {109}{}{[Donne les cartes]}
 {110}{}{Ici, c'est une table de Black Jack. La mise minimale est de $}
 {111}{}{.}
-{112}{}{Tu as tiré un }
+{112}{}{Tu as tirÃ© un }
 {113}{}{ de }
 {114}{}{, un }
 {115}{}{ et un }
@@ -24,8 +24,8 @@
 {123}{}{Je regrette, tu as atteint ta limite. Je dois te demander de partir.}
 {124}{}{[Tu gagnes la partie.]}
 {125}{}{[Le croupier gagne la partie.]}
-{126}{}{[Ce jeu est à la hausse.]}
-{127}{}{Bien sûr.}
+{126}{}{[Ce jeu est Ã  la hausse.]}
+{127}{}{Bien sÃ»r.}
 {128}{}{Je vais te montrer ma limite !}
 {129}{}{Tu n'as plus l'autorisation de jouer ici. Je te prie de partir.}
 {130}{}{Ohhh, pardon.}
@@ -47,4 +47,4 @@
 {251}{}{coeur}
 {252}{}{Carreau}
 {253}{}{Pique}
-{254}{}{Trèfle}
+{254}{}{TrÃ¨fle}

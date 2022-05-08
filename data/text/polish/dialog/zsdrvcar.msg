@@ -1,9 +1,9 @@
-{100}{}{Ten samochód nie sprawia wra¿enia dzia³aj¹cego. Mimo to wygl¹da, ¿e jest w lepszym stanie ni¿ reszta samochodów w okolicy. Mo¿e da siê go naprawiæ.}
-{101}{}{W tej chwili samochód nie sprawia wra¿enia dzia³aj¹cego. Potrzebuje kontrolera ogniw zasilaj¹cych.}
-{200}{}{Udaje ci siê naprawiæ samochód za pomoc¹ kontrolera ogniw zasilaj¹cych.}
-{210}{}{Nie udaje ci siê naprawiæ samochodu za pomoc¹ kontrolera ogniw zasilaj¹cych.}
-{220}{}{Udaje ci siê ulepszyæ samochód przez zamontowanie regulatora ogniw zasilaj¹cych.}
-{230}{}{Nie udaje ci siê zamontowaæ regulatora ogniw zasilaj¹cych}
-{250}{}{Skoñczy³a siê energia w samochodzie. Musisz wymieniæ ogniwa zasilaj¹ce ¿eby znowu ruszy³.}
-{300}{}{Nie udaje ci siê naprawiæ samochodu. Mo¿e da³oby siê go naprawiæ za pomoc¹ tego kontrolera ogniw zasilaj¹cych, o którym mówi³ Smitty.}
-{400}{}{Otwarcie maski i zajêcie siê samochodem narobi³oby zbyt du¿o ha³asu.}
+{100}{}{Ten samochÃ³d nie sprawia wraÅ¼enia dziaÅ‚ajÄ…cego. Mimo to wyglÄ…da, Å¼e jest w lepszym stanie niÅ¼ reszta samochodÃ³w w okolicy. MoÅ¼e da siÄ™ go naprawiÄ‡.}
+{101}{}{W tej chwili samochÃ³d nie sprawia wraÅ¼enia dziaÅ‚ajÄ…cego. Potrzebuje kontrolera ogniw zasilajÄ…cych.}
+{200}{}{Udaje ci siÄ™ naprawiÄ‡ samochÃ³d za pomocÄ… kontrolera ogniw zasilajÄ…cych.}
+{210}{}{Nie udaje ci siÄ™ naprawiÄ‡ samochodu za pomocÄ… kontrolera ogniw zasilajÄ…cych.}
+{220}{}{Udaje ci siÄ™ ulepszyÄ‡ samochÃ³d przez zamontowanie regulatora ogniw zasilajÄ…cych.}
+{230}{}{Nie udaje ci siÄ™ zamontowaÄ‡ regulatora ogniw zasilajÄ…cych}
+{250}{}{SkoÅ„czyÅ‚a siÄ™ energia w samochodzie. Musisz wymieniÄ‡ ogniwa zasilajÄ…ce Å¼eby znowu ruszyÅ‚.}
+{300}{}{Nie udaje ci siÄ™ naprawiÄ‡ samochodu. MoÅ¼e daÅ‚oby siÄ™ go naprawiÄ‡ za pomocÄ… tego kontrolera ogniw zasilajÄ…cych, o ktÃ³rym mÃ³wiÅ‚ Smitty.}
+{400}{}{Otwarcie maski i zajÄ™cie siÄ™ samochodem narobiÅ‚oby zbyt duÅ¼o haÅ‚asu.}

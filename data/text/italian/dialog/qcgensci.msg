@@ -34,7 +34,7 @@
 {133}{}{Mi sento male.}
 {134}{}{Sto diventando troppo debole per reggermi in piedi.}
 {135}{}{Ohhhh nooooooo.}
-{136}{}{Vedo la luce… sto arrivando, mamma.}
+{136}{}{Vedo la luceâ€¦ sto arrivando, mamma.}
 {137}{}{Non vedo nessuno.}
 {138}{}{Dev'essere un'altra esercitazione della sicurezza.}
 {139}{}{Ma quei soldati non si stancano mai di tutte queste esercitazioni?}

@@ -1,10 +1,10 @@
-{100}{}{Widzisz mê¿czyznê stroj¹cego lutniê.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ strojÄ…cego lutniÄ™.}
 {101}{}{To Joshua.}
-{102}{}{Jest wêdrownym muzykiem.}
-{103}{}{Tak Sir Robin nogê da³...}
-{104}{}{Mê¿ny junak wia³ na schwa³...}
-{105}{}{Gdy œmierci czo³a stawiæ mia³, nasz dzielny m¹¿ jak sta³, tak zwia³...}
-{106}{}{Tak, dzielny Robin zrobi³ zwrot...}
-{107}{}{I czujny niczym dziki kot, pêdem rzuci³ siê do ty³u...}
-{108}{}{A¿ siê za nim zakurzy³o...}
-{109}{}{Tak waleczny by³ Sir Robin.}
+{102}{}{Jest wÄ™drownym muzykiem.}
+{103}{}{Tak Sir Robin nogÄ™ daÅ‚...}
+{104}{}{MÄ™Å¼ny junak wiaÅ‚ na schwaÅ‚...}
+{105}{}{Gdy Å›mierci czoÅ‚a stawiÄ‡ miaÅ‚, nasz dzielny mÄ…Å¼ jak staÅ‚, tak zwiaÅ‚...}
+{106}{}{Tak, dzielny Robin zrobiÅ‚ zwrot...}
+{107}{}{I czujny niczym dziki kot, pÄ™dem rzuciÅ‚ siÄ™ do tyÅ‚u...}
+{108}{}{AÅ¼ siÄ™ za nim zakurzyÅ‚o...}
+{109}{}{Tak waleczny byÅ‚ Sir Robin.}

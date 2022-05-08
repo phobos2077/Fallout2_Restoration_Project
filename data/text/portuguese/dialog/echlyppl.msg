@@ -1,7 +1,7 @@
-{100}{}{Como você se atreve a interromper a minha meditação!}
-{101}{}{Espíritos da terra, ataque!}
-{102}{}{Grande Espírito, proteger-me.}
+{100}{}{Como vocÃª se atreve a interromper a minha meditaÃ§Ã£o!}
+{101}{}{EspÃ­ritos da terra, ataque!}
+{102}{}{Grande EspÃ­rito, proteger-me.}
 {103}{}{Meus ossos nutrir a terra...muitos anos a partir de agora.}
-{104}{}{Dane-se os espíritos; Estou fora daqui.}
-{105}{}{Você vê um homem santo.}
-{106}{}{Você vê uma mulher santa.}
+{104}{}{Dane-se os espÃ­ritos; Estou fora daqui.}
+{105}{}{VocÃª vÃª um homem santo.}
+{106}{}{VocÃª vÃª uma mulher santa.}

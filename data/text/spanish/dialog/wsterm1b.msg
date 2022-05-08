@@ -1,14 +1,14 @@
 {100}{}{Un terminal de computadora.}
-{101}{}{El salvapantallas está activado.}
+{101}{}{El salvapantallas estÃ¡ activado.}
 {102}{}{Eres incapaz de leer lo que pone en el monitor.}
 {103}{}{Sistemas de seguridad Skynet
                                        Intruso Nivel 1
                                                          Activando contramedidas nivel 1
-                                    Contramedidas - Transmisión interrumpida  --  Activando sistema de reparación automático}
+                                    Contramedidas - TransmisiÃ³n interrumpida  --  Activando sistema de reparaciÃ³n automÃ¡tico}
 {104}{}{Sistemas de seguridad Skynet
                                        Intruso Nivel 1
                                                          Activando contramedidas nivel 1
-                                    Intentando redirigir energía para generadores de campo}
+                                    Intentando redirigir energÃ­a para generadores de campo}
 {105}{}{Sistemas de seguridad Skynet
                                        Intruso Nivel 1
                                                          Activando contramedidas nivel 1}
@@ -16,39 +16,39 @@
 {107}{}{[Te fijas en una tecla etiquetada como "Ayuda"]. Pulsar tecla.}
 {108}{}{Piratear los sistemas de seguridad}
 {109}{}{Salir.}
-{110}{}{¡Arg! [Golpeas el teclado frustrado].}
+{110}{}{Â¡Arg! [Golpeas el teclado frustrado].}
 {112}{}{Sistemas de seguridad Skynet
-                                       Detectados intrusos - Perímetro exterior
-                       Reparaciones automáticas iniciadas
+                                       Detectados intrusos - PerÃ­metro exterior
+                       Reparaciones automÃ¡ticas iniciadas
                                 Puerta principal - Error de funcionamiento
                    Reinicializando...
-                                                   Puerta principal informa de pestillos de cierre aún en posición  --  Volviendo a modo ahorro de energía}
+                                                   Puerta principal informa de pestillos de cierre aÃºn en posiciÃ³n  --  Volviendo a modo ahorro de energÃ­a}
 {113}{}{Activar sistema de alarma nivel 1}
-{114}{}{Ejecutar programa de auto-diagnóstico.}
+{114}{}{Ejecutar programa de auto-diagnÃ³stico.}
 {115}{}{Salir.}
-{116}{}{¡Arg! [Golpeas el teclado frustrado].}
+{116}{}{Â¡Arg! [Golpeas el teclado frustrado].}
 {118}{}{Sistemas de seguridad Skynet  --  Acceso a terminal denegado.}
 {120}{}{Salir.}
 {122}{}{Error 29  --  Imposible contactar con servidor  --  Por favor reinicie}
 {124}{}{Salir.}
 {125}{}{Analizando comando - Por favor espere.
-                            Válido
+                            VÃ¡lido
                                                                    Terminando sistemas de alarma nivel 1}
-{126}{}{[Con una seguridad tan mala, no sería de extrañar que se hubiesen hecho saltar por los aires ellos mismos]. Salir.}
-{127}{}{[Aparece un menú]:
+{126}{}{[Con una seguridad tan mala, no serÃ­a de extraÃ±ar que se hubiesen hecho saltar por los aires ellos mismos]. Salir.}
+{127}{}{[Aparece un menÃº]:
                                                      Para desactivar alarma, pulse - 1
-                                  Para chequeo de diagnóstico, pulse - 2
+                                  Para chequeo de diagnÃ³stico, pulse - 2
                            Para salir, pulse - 3}
 {128}{}{Pulsar 1}
 {129}{}{Pulsar 2}
 {130}{}{Pulsar 3}
-{131}{}{¡Alerta! Este programa funcionará mejor si apaga todos los programas. ¿Desea hacerlo ahora?}
-{132}{}{Sí.}
+{131}{}{Â¡Alerta! Este programa funcionarÃ¡ mejor si apaga todos los programas. Â¿Desea hacerlo ahora?}
+{132}{}{SÃ­.}
 {133}{}{No}
 {134}{}{Salir.}
 {135}{}{Apagando todos los programas
                                   Apagando programa de seguridad Skynet - Nivel 1
-        Última vez que se realizó un diagnóstico - 15 Oct. 1990
+        Ãšltima vez que se realizÃ³ un diagnÃ³stico - 15 Oct. 1990
         Analizando sistema...
                                              Tiempo estimado para completar - 99:24:60:60}
 {136}{}{[No crees que esto vaya a terminar pronto]. Salir.}
@@ -61,4 +61,4 @@
 {138}{}{Salir.}
 {139}{}{Acceso no autorizado  --  Iniciando bloqueo de seguridad de terminal remota  --  Acceso de usuario a este terminal TERMINADO}
 {140}{}{Salir.}
-{200}{}{Ordenador en modo diagnóstico. Por favor, espere hasta que la rutina de diagnóstico haya finalizado.}
+{200}{}{Ordenador en modo diagnÃ³stico. Por favor, espere hasta que la rutina de diagnÃ³stico haya finalizado.}

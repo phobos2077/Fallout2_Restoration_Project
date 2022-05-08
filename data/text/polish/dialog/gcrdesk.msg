@@ -1,48 +1,48 @@
-{100}{}{Widzisz kogoœ, kogo skóra uleg³a straszliwym poparzeniom. NajwyraŸniej stoi tu na stra¿y.}
-{101}{}{Widzisz ghula stoj¹cego na stra¿y.}
-{102}{}{Widzisz kogoœ, kogo skóra uleg³a popromiennemu poparzeniu. Taka dawka promieniowania powinna byæ œmiertelna, ale istota nic sobie z tego nie robi. Wygl¹da na to, ¿e stoi tu na stra¿y.}
-{110}{}{Witamy w elektrowni atomowej. Krótkie ostrze¿enie: jeœli coœ pójdzie nie tak podczas twojej wizyty, ca³a wina spadnie na ciebie, g³adkolica istoto.}
-{111}{}{Witaj, przyjacielu. Musisz wiedzieæ, ¿e jeœli coœ pójdzie nie tak, wina spadnie na wszystkie nie-ghule, w³¹cznie z tob¹! }
+{100}{}{Widzisz kogoÅ›, kogo skÃ³ra ulegÅ‚a straszliwym poparzeniom. NajwyraÅºniej stoi tu na straÅ¼y.}
+{101}{}{Widzisz ghula stojÄ…cego na straÅ¼y.}
+{102}{}{Widzisz kogoÅ›, kogo skÃ³ra ulegÅ‚a popromiennemu poparzeniu. Taka dawka promieniowania powinna byÄ‡ Å›miertelna, ale istota nic sobie z tego nie robi. WyglÄ…da na to, Å¼e stoi tu na straÅ¼y.}
+{110}{}{Witamy w elektrowni atomowej. KrÃ³tkie ostrzeÅ¼enie: jeÅ›li coÅ› pÃ³jdzie nie tak podczas twojej wizyty, caÅ‚a wina spadnie na ciebie, gÅ‚adkolica istoto.}
+{111}{}{Witaj, przyjacielu. Musisz wiedzieÄ‡, Å¼e jeÅ›li coÅ› pÃ³jdzie nie tak, wina spadnie na wszystkie nie-ghule, wÅ‚Ä…cznie z tobÄ…! }
 {112}{}{Bluk?}
-{113}{}{Zachowam ostro¿noœæ. Szukam czegoœ. Mo¿e móg³byœ mi pomóc?}
-{114}{}{Rozumiem. Bêdê nale¿ycie uwa¿aæ. Do zobaczenia.}
-{120}{}{Znowu tutaj? Czy¿byœmy siê zgubili?}
+{113}{}{Zachowam ostroÅ¼noÅ›Ä‡. Szukam czegoÅ›. MoÅ¼e mÃ³gÅ‚byÅ› mi pomÃ³c?}
+{114}{}{Rozumiem. BÄ™dÄ™ naleÅ¼ycie uwaÅ¼aÄ‡. Do zobaczenia.}
+{120}{}{Znowu tutaj? CzyÅ¼byÅ›my siÄ™ zgubili?}
 {121}{}{Bruga.}
-{122}{}{Prawdê mówi¹c, szukam teraz czegoœ innego.}
-{123}{}{Zdaje siê, ¿e mieszkaj¹ tu równie¿ ludzie. Czy to bezpieczne?}
-{124}{}{Nie. Wszystko w porz¹dku. Po prostu trochê siê rozgl¹dam.}
-{130}{}{To zale¿y czego szukasz. Centrum sterowania reaktora, magazynu zaopatrzeniowego, centrum sterowania robota czy samego reaktora?}
+{122}{}{PrawdÄ™ mÃ³wiÄ…c, szukam teraz czegoÅ› innego.}
+{123}{}{Zdaje siÄ™, Å¼e mieszkajÄ… tu rÃ³wnieÅ¼ ludzie. Czy to bezpieczne?}
+{124}{}{Nie. Wszystko w porzÄ…dku. Po prostu trochÄ™ siÄ™ rozglÄ…dam.}
+{130}{}{To zaleÅ¼y czego szukasz. Centrum sterowania reaktora, magazynu zaopatrzeniowego, centrum sterowania robota czy samego reaktora?}
 {131}{}{Centrum sterowania reaktora.}
 {132}{}{Magazynu zaopatrzeniowego.}
 {133}{}{Centrum sterowania robota.}
 {134}{}{Reaktor.}
-{135}{}{Mo¿e jednak poradzê sobie bez wskazówek. Do zobaczenia.}
-{140}{}{Chyba Jeremy ma klucz. Klucze maj¹ stra¿nicy przy drzwiach i parê osób mieszkaj¹cych na terenie reaktora.}
-{141}{}{To ciekawe. Interesuje mnie jeszcze coœ.}
-{142}{}{Dziêki. To chyba wszystko. Do zobaczenia.}
-{150}{}{Reaktor znajduje siê zaraz za centrum sterowania i za pokojem Festusa. Ale bez Czerwonej Przepustki tam nie wejdziesz.}
+{135}{}{MoÅ¼e jednak poradzÄ™ sobie bez wskazÃ³wek. Do zobaczenia.}
+{140}{}{Chyba Jeremy ma klucz. Klucze majÄ… straÅ¼nicy przy drzwiach i parÄ™ osÃ³b mieszkajÄ…cych na terenie reaktora.}
+{141}{}{To ciekawe. Interesuje mnie jeszcze coÅ›.}
+{142}{}{DziÄ™ki. To chyba wszystko. Do zobaczenia.}
+{150}{}{Reaktor znajduje siÄ™ zaraz za centrum sterowania i za pokojem Festusa. Ale bez Czerwonej Przepustki tam nie wejdziesz.}
 {151}{}{Gdzie jest centrum sterowania reaktora?}
-{152}{}{To ciekawe. Interesuje mnie jeszcze coœ.}
-{153}{}{Przepustki? A gdzie mogê tak¹ zdobyæ?}
-{154}{}{Dziêki. To chyba wszystko. Do zobaczenia.}
-{160}{}{Magazyn jest za drzwiami na lewo od wejœcia do budynku. Pogadaj z Jeremym, jeœli potrzebujesz czegoœ stamt¹d.}
-{161}{}{Dziêki. Mam jeszcze jedno pytanie.}
-{162}{}{Dziêki. To chyba wszystko. Do zobaczenia.}
-{170}{}{Nam siê ten drobny przeciek nawet podoba. Œwiec¹cy po prostu uwielbiaj¹ odrobinê promieniowania. Bez niej czulibyœmy siê du¿o gorzej.}
-{171}{}{To ciekawe. Interesuje mnie jeszcze coœ.}
+{152}{}{To ciekawe. Interesuje mnie jeszcze coÅ›.}
+{153}{}{Przepustki? A gdzie mogÄ™ takÄ… zdobyÄ‡?}
+{154}{}{DziÄ™ki. To chyba wszystko. Do zobaczenia.}
+{160}{}{Magazyn jest za drzwiami na lewo od wejÅ›cia do budynku. Pogadaj z Jeremym, jeÅ›li potrzebujesz czegoÅ› stamtÄ…d.}
+{161}{}{DziÄ™ki. Mam jeszcze jedno pytanie.}
+{162}{}{DziÄ™ki. To chyba wszystko. Do zobaczenia.}
+{170}{}{Nam siÄ™ ten drobny przeciek nawet podoba. ÅšwiecÄ…cy po prostu uwielbiajÄ… odrobinÄ™ promieniowania. Bez niej czulibyÅ›my siÄ™ duÅ¼o gorzej.}
+{171}{}{To ciekawe. Interesuje mnie jeszcze coÅ›.}
 {172}{}{Drobny przeciek?!?!}
-{173}{}{To œwietnie. To ju¿ wszystko, co chcê wiedzieæ. Do zobaczenia.}
-{180}{}{Centrum sterowania reaktora znajduje siê na prawo od drzwi wejœciowych do budynku. Potem przez drzwi na koñcu korytarza, przez ¯ó³te Drzwi i w prawo. Ale bez przepustki nie przejdziesz przez ¯ó³te Drzwi.}
-{181}{}{To ciekawe. Interesuje mnie jeszcze coœ.}
-{182}{}{Przepustki? A gdzie mogê tak¹ zdobyæ?}
-{183}{}{Dziêki. To chyba wszystko. Do zobaczenia.}
-{190}{}{Ale po co chcesz tam iœæ? Ten przeklêty robot i tak siê popsu³. Tak czy inaczej - to za centrum sterowania reaktora.}
+{173}{}{To Å›wietnie. To juÅ¼ wszystko, co chcÄ™ wiedzieÄ‡. Do zobaczenia.}
+{180}{}{Centrum sterowania reaktora znajduje siÄ™ na prawo od drzwi wejÅ›ciowych do budynku. Potem przez drzwi na koÅ„cu korytarza, przez Å»Ã³Å‚te Drzwi i w prawo. Ale bez przepustki nie przejdziesz przez Å»Ã³Å‚te Drzwi.}
+{181}{}{To ciekawe. Interesuje mnie jeszcze coÅ›.}
+{182}{}{Przepustki? A gdzie mogÄ™ takÄ… zdobyÄ‡?}
+{183}{}{DziÄ™ki. To chyba wszystko. Do zobaczenia.}
+{190}{}{Ale po co chcesz tam iÅ›Ä‡? Ten przeklÄ™ty robot i tak siÄ™ popsuÅ‚. Tak czy inaczej - to za centrum sterowania reaktora.}
 {191}{}{Gdzie jest centrum sterowania reaktora?}
-{192}{}{To ciekawe. Interesuje mnie jeszcze coœ.}
-{193}{}{Przepustki? A gdzie mogê tak¹ zdobyæ?}
-{194}{}{Dziêki. To chyba wszystko. Do zobaczenia.}
-{200}{}{Nie martwi³bym siê na twoim miejscu. No chyba ¿e chcesz tu zostaæ przez parê tygodni. Wiêkszoœæ ska¿enia sp³ywa z wod¹ pod ziemiê. Ta odrobina, która wydostaje siê na powierzchniê, z jakichœ powodów sprawia nam przyjemnoœæ.}
-{201}{}{No to chyba wszystko jest w porz¹dku. Mam jeszcze jedno pytanie.}
-{202}{}{Hmm, chyba lepiej bêdzie jak sobie pójdê. Do zobaczenia.}
-{300}{}{Pewnie. Co jeszcze chcesz wiedzieæ?}
-{301}{}{Potrzebujê dalszych wskazówek.}
+{192}{}{To ciekawe. Interesuje mnie jeszcze coÅ›.}
+{193}{}{Przepustki? A gdzie mogÄ™ takÄ… zdobyÄ‡?}
+{194}{}{DziÄ™ki. To chyba wszystko. Do zobaczenia.}
+{200}{}{Nie martwiÅ‚bym siÄ™ na twoim miejscu. No chyba Å¼e chcesz tu zostaÄ‡ przez parÄ™ tygodni. WiÄ™kszoÅ›Ä‡ skaÅ¼enia spÅ‚ywa z wodÄ… pod ziemiÄ™. Ta odrobina, ktÃ³ra wydostaje siÄ™ na powierzchniÄ™, z jakichÅ› powodÃ³w sprawia nam przyjemnoÅ›Ä‡.}
+{201}{}{No to chyba wszystko jest w porzÄ…dku. Mam jeszcze jedno pytanie.}
+{202}{}{Hmm, chyba lepiej bÄ™dzie jak sobie pÃ³jdÄ™. Do zobaczenia.}
+{300}{}{Pewnie. Co jeszcze chcesz wiedzieÄ‡?}
+{301}{}{PotrzebujÄ™ dalszych wskazÃ³wek.}

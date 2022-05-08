@@ -56,7 +56,7 @@
 {155}{}{Ho ancora un paio di domande.}
 {156}{}{Vorrei delle altre cose.}
 {157}{}{Capisco. E' tutto. Grazie.}
-{158}{}{Se mi fido di lui? Naturalmente… fino a un certo punto. Mi fido abbastanza da fargli condurre le carovane per conto mio. Sara' anche un tipo sospetto, ma finche' non mi da' una ragione per non fidarmi di lui, continuero' a farlo come sempre.}
+{158}{}{Se mi fido di lui? Naturalmenteâ€¦ fino a un certo punto. Mi fido abbastanza da fargli condurre le carovane per conto mio. Sara' anche un tipo sospetto, ma finche' non mi da' una ragione per non fidarmi di lui, continuero' a farlo come sempre.}
 {159}{}{Ho ancora un paio di domande.}
 {160}{}{Vorrei delle altre cose.}
 {161}{}{Ottimo. Grazie per avermi concesso un po' del tuo tempo.}
@@ -67,7 +67,7 @@
 {166}{}{Non sono in servizio, adesso. Parlami quando sono nel mio ufficio.}
 {167}{}{Se l'e' cercata? Brutto pezzo di merda, anche se aveva rubato non meritava di morire. Sparisci subito dal mio ufficio.}
 {168}{}{Addio.}
-{169}{}{In qualsiasi casino si trovi, ha fatto tutto da solo. E' un vero peccato… era davvero un ottimo capo carovaniere. Ti serve qualcosa?}
+{169}{}{In qualsiasi casino si trovi, ha fatto tutto da solo. E' un vero peccatoâ€¦ era davvero un ottimo capo carovaniere. Ti serve qualcosa?}
 {170}{}{Fuori dal mio ufficio. Non ti voglio qui dentro.}
 {171}{}{Sei pronto per andare a Vault City? }
 {172}{}{Sei pronto per andare a NCR? }

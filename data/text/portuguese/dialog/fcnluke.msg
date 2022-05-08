@@ -1,43 +1,43 @@
-{100}{}{Você vê um homem em armadura de metal.}
-{101}{}{Voê vê Luke.}
-{102}{}{Você vê um homem vestindo uma armadura de metal com uma insígnia de raio.}
-{103}{}{Olá,}
-{104}{}{. Meu nome é Luke, o que posso fazer por você?}
-{105}{}{Como você conhece o nome?}
-{106}{}{Como você sabe o meu nome?}
-{107}{}{Joshua mencionou sua passagem em Den. Ele disse que você era um pequeno peixe provocando grandes ondas.}
-{108}{}{Os boatos se espalham. Você é um pequeno peixe provocando grandes ondas.}
+{100}{}{VocÃª vÃª um homem em armadura de metal.}
+{101}{}{VoÃª vÃª Luke.}
+{102}{}{VocÃª vÃª um homem vestindo uma armadura de metal com uma insÃ­gnia de raio.}
+{103}{}{OlÃ¡,}
+{104}{}{. Meu nome Ã© Luke, o que posso fazer por vocÃª?}
+{105}{}{Como vocÃª conhece o nome?}
+{106}{}{Como vocÃª sabe o meu nome?}
+{107}{}{Joshua mencionou sua passagem em Den. Ele disse que vocÃª era um pequeno peixe provocando grandes ondas.}
+{108}{}{Os boatos se espalham. VocÃª Ã© um pequeno peixe provocando grandes ondas.}
 {109}{}{O que isso significa?}
-{110}{}{O que você quer dizer com isso?}
-{111}{}{Você está atraindo a atenção de muita gente. Você precisa tomar cuidado.}
+{110}{}{O que vocÃª quer dizer com isso?}
+{111}{}{VocÃª estÃ¡ atraindo a atenÃ§Ã£o de muita gente. VocÃª precisa tomar cuidado.}
 {112}{}{Continue.}
-{113}{}{Vá em frente, eu estou ouvindo.}
-{114}{}{Eu já disse o suficiente por enquanto. Eu acho que você deveria se preocupar com seus negócios.}
+{113}{}{VÃ¡ em frente, eu estou ouvindo.}
+{114}{}{Eu jÃ¡ disse o suficiente por enquanto. Eu acho que vocÃª deveria se preocupar com seus negÃ³cios.}
 {115}{}{A mesma lorota que mim receber do Joshua. Mim precisa fazer pergunta.}
 {116}{}{Espere, eu preciso fazer a pergunta.}
-{117}{}{É a mesma lorota que eu recebi do Joshua. Eu posso fazer algumas perguntas?}
+{117}{}{Ã‰ a mesma lorota que eu recebi do Joshua. Eu posso fazer algumas perguntas?}
 {118}{}{Espere, eu preciso fazer algumas perguntas.}
 {119}{}{Joshua permitiu um pergunta; eu vou fazer o mesmo. Qual vai ser?}
-{120}{}{Tudo bem, você tem uma pergunta. O que será?}
-{121}{}{Você sabe onde me encontrar GECK?}
-{122}{}{Você sabe onde eu encontro o Vault 13?}
-{123}{}{Quem diabos são vocês?}
-{124}{}{Você sabe onde eu posso encontrar um GECK?}
-{125}{}{Você sabe onde eu posso encontrar o Vault 13?}
-{126}{}{Quem diabos são vocês?}
-{127}{}{Sim, eu acredito que o Vault 13 nunca usou o deles. É capaz de você conseguir encontrar um por lá. Boa sorte,}
+{120}{}{Tudo bem, vocÃª tem uma pergunta. O que serÃ¡?}
+{121}{}{VocÃª sabe onde me encontrar GECK?}
+{122}{}{VocÃª sabe onde eu encontro o Vault 13?}
+{123}{}{Quem diabos sÃ£o vocÃªs?}
+{124}{}{VocÃª sabe onde eu posso encontrar um GECK?}
+{125}{}{VocÃª sabe onde eu posso encontrar o Vault 13?}
+{126}{}{Quem diabos sÃ£o vocÃªs?}
+{127}{}{Sim, eu acredito que o Vault 13 nunca usou o deles. Ã‰ capaz de vocÃª conseguir encontrar um por lÃ¡. Boa sorte,}
 {128}{}{Espera! Onde fica vault?}
 {129}{}{Espere um minuto! Onde fica o vault?}
-{130}{}{Sua localização está armazenada no sistema dos computadores do Vault 15. Boa sorte,}
+{130}{}{Sua localizaÃ§Ã£o estÃ¡ armazenada no sistema dos computadores do Vault 15. Boa sorte,}
 {131}{}{.}
 {132}{}{Obrigado.}
-{133}{}{Nós somos a Brotherhood of Steel. Não há mais nada para eu te dizer agora. Boa sorte,}
+{133}{}{NÃ³s somos a Brotherhood of Steel. NÃ£o hÃ¡ mais nada para eu te dizer agora. Boa sorte,}
 {134}{}{Espera! Mim precisa saber mais!}
-{135}{}{Espere, você não pode deixar as coisas vagas desse jeito!}
-{136}{}{Olá novamente. Eu não tenho nada mais a dizer para você.}
-{137}{}{. Bem... com certeza você andou um longo caminho da tribo até aqui. Você deveria visitar nosso posto em San Francisco, você vai achar muito recompensante. Agora, se me dá licença. Eu tenho que ir.}
-{138}{}{Olá novamente. Eu não tenho nada mais a dizer para você.}
+{135}{}{Espere, vocÃª nÃ£o pode deixar as coisas vagas desse jeito!}
+{136}{}{OlÃ¡ novamente. Eu nÃ£o tenho nada mais a dizer para vocÃª.}
+{137}{}{. Bem... com certeza vocÃª andou um longo caminho da tribo atÃ© aqui. VocÃª deveria visitar nosso posto em San Francisco, vocÃª vai achar muito recompensante. Agora, se me dÃ¡ licenÃ§a. Eu tenho que ir.}
+{138}{}{OlÃ¡ novamente. Eu nÃ£o tenho nada mais a dizer para vocÃª.}
 {139}{}{Aguarde...}
-{140}{}{Isso é um escritório privado.}
-{141}{}{Não há nada para você lá.}
-{142}{}{Esta é uma propriedade privada, então, avance.}
+{140}{}{Isso Ã© um escritÃ³rio privado.}
+{141}{}{NÃ£o hÃ¡ nada para vocÃª lÃ¡.}
+{142}{}{Esta Ã© uma propriedade privada, entÃ£o, avance.}

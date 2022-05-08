@@ -2,4 +2,4 @@
 {101}{}{Miam... cerveaux.}
 {102}{}{Envoie plus d'aventuriers.}
 {103}{}{Arhgrrrrrrrghhhhh}
-{104}{}{Faire arrêter la douleur.}
+{104}{}{Faire arrÃªter la douleur.}

@@ -25,7 +25,7 @@
 {124}{}{}
 {125}{}{}
 {126}{}{Tudo certo.}
-{127}{}{O que você quer saber?}
+{127}{}{O que vocÃª quer saber?}
 {128}{}{You prisoner?}
 {129}{}{D'claws treat you ok?}
 {130}{}{Want leave?}

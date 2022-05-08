@@ -1,8 +1,8 @@
-{100}{}{On dirait un générateur.}
-{101}{}{Ce générateur alimente probablement l'ascenseur.}
-{200}{}{Il faut d'abord réparer le générateur.}
-{201}{}{Le générateur fonctionne déjà.}
-{202}{}{Tu as éteint le générateur.}
-{300}{}{Cette compétence est inutile sur un générateur.}
-{400}{}{Tu répares le générateur et tu le démarres.}
-{401}{}{Tu n'as pas réussi à réparer le générateur.}
+{100}{}{On dirait un gÃ©nÃ©rateur.}
+{101}{}{Ce gÃ©nÃ©rateur alimente probablement l'ascenseur.}
+{200}{}{Il faut d'abord rÃ©parer le gÃ©nÃ©rateur.}
+{201}{}{Le gÃ©nÃ©rateur fonctionne dÃ©jÃ .}
+{202}{}{Tu as Ã©teint le gÃ©nÃ©rateur.}
+{300}{}{Cette compÃ©tence est inutile sur un gÃ©nÃ©rateur.}
+{400}{}{Tu rÃ©pares le gÃ©nÃ©rateur et tu le dÃ©marres.}
+{401}{}{Tu n'as pas rÃ©ussi Ã  rÃ©parer le gÃ©nÃ©rateur.}

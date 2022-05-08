@@ -1,9 +1,9 @@
 {100}{}{Du siehst ein Grab.}
 {101}{}{Du siehst ein offenes Grab.}
 {102}{}{Dies ist ein Grabmal.}
-{103}{}{Dieses Grabmal wurde geöffnet.}
+{103}{}{Dieses Grabmal wurde geÃ¶ffnet.}
 {150}{}{Das Grabmal wurde geschlossen.}
-{151}{}{Das Grabmal wurde geöffnet.}
+{151}{}{Das Grabmal wurde geÃ¶ffnet.}
 {200}{}{Du siehst einen Grabstein.}
 {201}{}{Du siehst einen Grabstein.}
 {250}{}{Der Grabstein hat keine Inschrift.}
@@ -16,13 +16,13 @@
 {263}{}{Der Name und das Datum auf diesem Grabstein sind mit der Zeit verwittert.}
 {275}{}{Auf dem Grabstein steht: }
 {276}{}{Die Grabinschrift lautet: }
-{300}{}{"Hier ruht Chris Avellone, König des Tanzparketts."}
+{300}{}{"Hier ruht Chris Avellone, KÃ¶nig des Tanzparketts."}
 {301}{}{"Chris Jones. Nightwing"}
 {302}{}{"Christopher Michael Holland, alias 'Chris Holland', alias 'Chris': Es gibt zweieinhalb
- Gründe, diesen Grabstein zu lesen... Normalerweise würden man erwarten, dass diese Gründe genannt
+ GrÃ¼nde, diesen Grabstein zu lesen... Normalerweise wÃ¼rden man erwarten, dass diese GrÃ¼nde genannt
  sind."}
 {303}{}{"Colin McComb: Auch eine sinnlose Existenz."}
-{304}{}{"David Hendee: der Lauteste unter den Toten. Möge er in Frieden RUHEn."}
+{304}{}{"David Hendee: der Lauteste unter den Toten. MÃ¶ge er in Frieden RUHEn."}
 {305}{}{"Ed Hyland. Hat der Welt mitgeteilt, was sie ihn kann."}
 {306}{}{"Eric Demilt. Der WAHRE Combat Boy."}
 {307}{}{"Feargus Urquhart. Hat eine verdammte Liste zuviel erstellt."}
@@ -32,28 +32,28 @@
 {311}{}{"Jason G. Suinn."}
 {312}{}{"Jason Taylor."}
 {313}{}{"Jeremy Barnes. Der kahle Affe von Black Isle"}
-{314}{}{"Jesse Reynolds. Mochte Ingwerplätzchen. Etwas zu sehr."}
+{314}{}{"Jesse Reynolds. Mochte IngwerplÃ¤tzchen. Etwas zu sehr."}
 {315}{}{"John Deiley."}
 {316}{}{"John Price."}
 {317}{}{"Leonard Boyarski. Im Exil von Vault City."}
 {318}{}{"Rupert Dinkos, verstorben im Winter '00."}
-{319}{}{"Matt Norton. Der hätt was werden können. Der hätt oben mitmischen könn' statt 'n Penner
+{319}{}{"Matt Norton. Der hÃ¤tt was werden kÃ¶nnen. Der hÃ¤tt oben mitmischen kÃ¶nn' statt 'n Penner
  zu sein. Aber er war 'n Penner."}
 {320}{}{"Nick Kesting." [Darauf steht ein kleiner Eimer mit runden Kupfergeschossen.]}
-{321}{}{"Robert Collier. Leise. Tödlich. Rob."}
+{321}{}{"Robert Collier. Leise. TÃ¶dlich. Rob."}
 {322}{}{"Robert Hertenstein II. Sein Arzt hat versucht, es ihm zu sagen, aber er meinte immer
  nur: 'Das will ich alles gar nicht wissen.'"}
 {323}{}{"Scott Campbell. Nicht die Suppe."}
-{324}{}{"Hier ruht Scott Everts. Immer zu spät zur Arbeit. Und jetzt ist sowieso alles zu spät."}
-{325}{}{"Scott Rodenhizer. Baute 3D-Köpfe."}
+{324}{}{"Hier ruht Scott Everts. Immer zu spÃ¤t zur Arbeit. Und jetzt ist sowieso alles zu spÃ¤t."}
+{325}{}{"Scott Rodenhizer. Baute 3D-KÃ¶pfe."}
 {326}{}{"Thomas French: Gestorben beim Versuch, Meister im Guillotinen-Jonglieren zu werden."}
-{327}{}{"Tim Cain. Gründer, Liebhaber, Kämpfer, Programmier."}
-{328}{}{"Tramell Ray Isaac: Hier ruht ein Mann, der in dieser Branche am härtesten gearbeitet.
+{327}{}{"Tim Cain. GrÃ¼nder, Liebhaber, KÃ¤mpfer, Programmier."}
+{328}{}{"Tramell Ray Isaac: Hier ruht ein Mann, der in dieser Branche am hÃ¤rtesten gearbeitet.
  Animator Extraordinare (wie schreibt man das?). Glaub ich. Ruhe in Frieden, T.Ray"}
-{329}{}{"Zeb - Immer noch älter als Dreck"}
-{330}{}{"Dennis Presnell. Wir können ihn fast hören: 'Das nennt ihr eine Beerdigung?! Das war 'ne
- Krankheit! Ihr seid doch verdammte !@#löcher! Ich sterb nie wieder! Blablabla...'" Darunter
- wurden folgende Worte eingeritzt: "Ruhe in Frieden 'Cryin' D. Hättste bloß das Pflaster nicht abgemacht."}
+{329}{}{"Zeb - Immer noch Ã¤lter als Dreck"}
+{330}{}{"Dennis Presnell. Wir kÃ¶nnen ihn fast hÃ¶ren: 'Das nennt ihr eine Beerdigung?! Das war 'ne
+ Krankheit! Ihr seid doch verdammte !@#lÃ¶cher! Ich sterb nie wieder! Blablabla...'" Darunter
+ wurden folgende Worte eingeritzt: "Ruhe in Frieden 'Cryin' D. HÃ¤ttste bloÃŸ das Pflaster nicht abgemacht."}
 {331}{}{"Rupert Diukos, verstorben am 24.9.96"}
 {332}{}{"Sal De Ban, verstorben am 24.9.96"}
 {333}{}{"Greg Zeschule, Herbst '99"}
@@ -61,74 +61,74 @@
 {335}{}{"Evan Chantland, 74-??: Er war doch nicht paranoid - sie waren wirklich hinter ihm her."}
 {336}{}{"Hier ruht Moose, kalt und im Dreck. Wir fanden ihn hier, doch der Kopf war weg."}
 {337}{}{"Amy Presnell"}
-{338}{}{"Stephen Bokkes, im Alter von 25 Jahren. In der Blüte seines Lebens von den Fallstricken
- eines ungeheuren Vermögens zu Fall gebracht." }
-{339}{}{"Ruhe in Frieden Doug "Skully" Finch (Datum spielt keine Rolle) Wurde getötet, weil er
- auf dem französischen Markt geraucht hat. Seine letzten Worte waren: Ihr könnt mich mal!"}
-{340}{}{"Hier ruht Donnie Cornwell, in 'nem Sarg, 'nem bequemen -Größe XL, um den Schwellkopf
+{338}{}{"Stephen Bokkes, im Alter von 25 Jahren. In der BlÃ¼te seines Lebens von den Fallstricken
+ eines ungeheuren VermÃ¶gens zu Fall gebracht." }
+{339}{}{"Ruhe in Frieden Doug "Skully" Finch (Datum spielt keine Rolle) Wurde getÃ¶tet, weil er
+ auf dem franzÃ¶sischen Markt geraucht hat. Seine letzten Worte waren: Ihr kÃ¶nnt mich mal!"}
+{340}{}{"Hier ruht Donnie Cornwell, in 'nem Sarg, 'nem bequemen -GrÃ¶ÃŸe XL, um den Schwellkopf
  aufzunehmen."}
 {341}{}{"Rob Giampa lebte sein Leben so, wie er die Frauen geliebt hat: schnell, billig und
  einfallslos."}
 {342}{}{"T. D. Hamilton: Hier ruht eine miese, stinkende Ratte, die's mit dem Sterben nicht *zu*
- eilig hatte. Schmor in der Hölle, du SCHLAMPE!"}
+ eilig hatte. Schmor in der HÃ¶lle, du SCHLAMPE!"}
 {343}{}{"Ein weiteres Opfer der Deadline."}
 {344}{}{"Hundsfott ist tot. Lang lebe der Hund."}
-{345}{}{"Kris Snider: Viel zu wettbewerbsfähig"}
+{345}{}{"Kris Snider: Viel zu wettbewerbsfÃ¤hig"}
 {346}{}{"Machst du irgendwas Sinnvolles mit deinem Leben?"}
-{347}{}{"Warum bringst du dich nicht einfach selbst um und ersparst anderen den Ärger?"}
+{347}{}{"Warum bringst du dich nicht einfach selbst um und ersparst anderen den Ã„rger?"}
 {348}{}{"Charles Cuevas: Er sagte einst: 'Hockey oder Sterben.' Das mit dem Hockey hat nicht ganz
  geklappt."}
 {349}{}{"William Lebus"}
-{350}{}{"Reg Arnedo: wir können seine Stimme immer noch in diesen Hallen hören."}
+{350}{}{"Reg Arnedo: wir kÃ¶nnen seine Stimme immer noch in diesen Hallen hÃ¶ren."}
 {351}{}{"Shanna SanPaolo"}
 {352}{}{"Brahmin-Cowboy"}
-{353}{}{"Josh Walters, 1971-2011. Er starb an Komplikationen während seiner fünften
+{353}{}{"Josh Walters, 1971-2011. Er starb an Komplikationen wÃ¤hrend seiner fÃ¼nften
  Lebertransplantation."}
-{354}{}{"Doug Avery. Hasste den Krieg dafür, dass er seinen Lebensstil ruinierte."}
-{355}{}{"Hier ruht Ezekial Aikle, Alter 102. Wen die Götter lieben, den rufen sie früh zu sich."}
+{354}{}{"Doug Avery. Hasste den Krieg dafÃ¼r, dass er seinen Lebensstil ruinierte."}
+{355}{}{"Hier ruht Ezekial Aikle, Alter 102. Wen die GÃ¶tter lieben, den rufen sie frÃ¼h zu sich."}
 {356}{}{"Hier ruht Ann Mann, sie lebte als alte Jungfer und starb als alter Mann. 8. Dezember
  1767"}
 {357}{}{"Die Kinder Israels wollten Brot, und der Herr sandte ihnen Manna. Der alte Wallace
  wollte 'ne Frau, und der Teufel sandte ihm Anna."}
 {358}{}{"Hier ruht Johnny Hefe. Aber der Sarg wird trotzdem nicht aufgehen."}
-{359}{}{"Hier ruhen die sterblichen Überreste von Jonathan Lemse, er trat auf das Gas anstatt auf
+{359}{}{"Hier ruhen die sterblichen Ãœberreste von Jonathan Lemse, er trat auf das Gas anstatt auf
  die Bremse."}
-{360}{}{"Hier ruht Butch, ein blöder Genosse. Im Leben stets hohl. Jetzt voll(er Geschosse)."}
+{360}{}{"Hier ruht Butch, ein blÃ¶der Genosse. Im Leben stets hohl. Jetzt voll(er Geschosse)."}
 {361}{}{"In Erinnerung an meinen geliebten Ehegatten John Barnes, verstorben am 3. Januar 1803.
- Seine ansehnliche junge Frau, 23, verfügt über viele Qualitäten einer guten Ehefrau und sehnt
- sich danach, getröstet zu werden."}
+ Seine ansehnliche junge Frau, 23, verfÃ¼gt Ã¼ber viele QualitÃ¤ten einer guten Ehefrau und sehnt
+ sich danach, getrÃ¶stet zu werden."}
 {362}{}{"Sir John Selten - hier ruht ein ehrlicher Anwalt und das ist Selten."}
 {363}{}{"Ich war jemand. Wer, geht euch nichts an."}
 {364}{}{"Hier ruht Lester Meer, vier 44er-Kugeln, nicht weniger und nicht mehr."}
 {365}{}{"Ich hab euch doch gesagt, ich bin krank!"}
-{366}{}{"Wenn Mangel an Geld du verspürst, so grabe einen Meter tief und du wirst finden einen
+{366}{}{"Wenn Mangel an Geld du verspÃ¼rst, so grabe einen Meter tief und du wirst finden einen
  Penny."}
-{367}{}{"Sie hat immer gesagt, dass ihre Füße sie eines Tages umbringen würden. Aber niemand
+{367}{}{"Sie hat immer gesagt, dass ihre FÃ¼ÃŸe sie eines Tages umbringen wÃ¼rden. Aber niemand
  glaubte ihr."}
-{368}{}{"Ein Stoß in die Saite am 22. Mai - da war's für John Fiddle endgültig vorbei."}
+{368}{}{"Ein StoÃŸ in die Saite am 22. Mai - da war's fÃ¼r John Fiddle endgÃ¼ltig vorbei."}
 {369}{}{"Hier ruht der Leichnam von Anne, sie kam um durch eine Banane. Nicht die Frucht brachte
- sie in Bedrängnis, sondern die Schale war ihr Verhängnis."}
+ sie in BedrÃ¤ngnis, sondern die Schale war ihr VerhÃ¤ngnis."}
 {370}{}{"Sticky Moor versank im Moor - leider kommt sowas auch heute noch vor."}
 {371}{}{"In Erinnerung an den kleinen Chris Holts. Hier ruht Holts an Holz ganz dicht. Aufs
- äußere Holz sind wir gar stolz, aufs innere ganz und gar nicht."}
+ Ã¤uÃŸere Holz sind wir gar stolz, aufs innere ganz und gar nicht."}
 {372}{}{"Im vergangenen Winter ging in die Binsen unsre geliebte Joanna Linsen. Sie ist nicht
  mehr hier, nur noch ihre Schote. Ganz ohne Linsen, sie ist nun 'ne Tote."}
-{373}{}{"Starb am 21. März 1870 bei der Explosion einer Lampe, gefüllt mit 'R.E. Danforths nicht
+{373}{}{"Starb am 21. MÃ¤rz 1870 bei der Explosion einer Lampe, gefÃ¼llt mit 'R.E. Danforths nicht
  explosivem Petroleum'."}
 {374}{}{"Geboren 1903 - Gestorben 1942. Er schaute im Aufzugsschacht nach oben, ob die Kabine auf dem Weg nach unten war. Sie war es."}
 {375}{}{"Hier ruht ein Atheist - im Sonntagsstaat und kann nirgends hin..."}
-{376}{}{"Eileen Faclagsy: Studierte Jura an der W&M-Universität; jetzt heißt sie Eileen 
+{376}{}{"Eileen Faclagsy: Studierte Jura an der W&M-UniversitÃ¤t; jetzt heiÃŸt sie Eileen 
 Verklag-Sie"}
 {377}{}{"Sarah Smart: Rednerin, Autorin, Professorin, 'De Amicitia'"}
-{378}{}{"Tim Winkle - Ich kann Heuchelei nicht ertragen, außer meiner eigenen."}
+{378}{}{"Tim Winkle - Ich kann Heuchelei nicht ertragen, auÃŸer meiner eigenen."}
 {379}{}{"Jughead - King of Queen Archie's World".}
-{380}{}{"Ruhe in Frieden Casey Donahue. Verstorben am 6.8.98. Getötet von einem mutierten
- bösartigen Seebarsch."}
-{381}{}{"Christopher 'Nightwing' Jones: Verursacher zahlloser Blutergüsse"}
-{382}{}{"Jay 'Quadratlatsche' Nielson. Musiker. Verstarb im Alter von 104, während eines
+{380}{}{"Ruhe in Frieden Casey Donahue. Verstorben am 6.8.98. GetÃ¶tet von einem mutierten
+ bÃ¶sartigen Seebarsch."}
+{381}{}{"Christopher 'Nightwing' Jones: Verursacher zahlloser BlutergÃ¼sse"}
+{382}{}{"Jay 'Quadratlatsche' Nielson. Musiker. Verstarb im Alter von 104, wÃ¤hrend eines
  Trommelsolos."}
-{383}{}{"Thuy Dang. Möge Gott seinem Namen gnädig sein."}
-{384}{}{"Hier ruht Michael 'Balou' Esser. Gestorben bei der Übersetzung von FALLOUT 2. Möge er
+{383}{}{"Thuy Dang. MÃ¶ge Gott seinem Namen gnÃ¤dig sein."}
+{384}{}{"Hier ruht Michael 'Balou' Esser. Gestorben bei der Ãœbersetzung von FALLOUT 2. MÃ¶ge er
  und seine Finger in Frieden ruhen."}
 {500}{}{Du hast geschickt eine Falle im Grab aufgestellt.}
 {501}{}{Du schaffst es nicht, die Falle im Grab aufzustellen.}
@@ -138,7 +138,7 @@ Verklag-Sie"}
 {516}{}{Du findest keine Fallen auf dem Grab.}
 {520}{}{ findet eine Falle auf dem Grab.}
 {521}{}{ findet keine Fallen auf dem Grab.}
-{525}{}{Geschickt schaffst du es, die Falle zu entschärfen.}
-{526}{}{Du schaffst es nicht, die Falle zu entschärfen.}
-{530}{}{ entschärft die Falle geschickt.}
-{531}{}{ schafft es nicht, die Falle zu entschärfen.}
+{525}{}{Geschickt schaffst du es, die Falle zu entschÃ¤rfen.}
+{526}{}{Du schaffst es nicht, die Falle zu entschÃ¤rfen.}
+{530}{}{ entschÃ¤rft die Falle geschickt.}
+{531}{}{ schafft es nicht, die Falle zu entschÃ¤rfen.}

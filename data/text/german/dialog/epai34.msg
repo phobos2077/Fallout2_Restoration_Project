@@ -1,9 +1,9 @@
 {100}{}{Du sieht eine seltsame Maschine.}
-{101}{}{Die Maschine kontrolliert die in diesem Raum befindlichen Projektoren für die Hologramme.}
+{101}{}{Die Maschine kontrolliert die in diesem Raum befindlichen Projektoren fÃ¼r die Hologramme.}
 {103}{}{Ein Fehler wurde gefunden und schnell repariert.}
 {104}{}{Die Maschine ist schon repariert.}
-{105}{}{Sieht so aus als würden Interferenzen auftreten, die die Sprachausgabe des Hologramms verstümmeln.}
+{105}{}{Sieht so aus als wÃ¼rden Interferenzen auftreten, die die Sprachausgabe des Hologramms verstÃ¼mmeln.}
 {106}{}{Es scheint zu kompliziert zu sein, diese Maschine zu reparieren.}
 {107}{}{Wonach such ich hier eigentlich?}
-{108}{}{Verdammt. Das ist für mich zu schwer. Reparieren ist wohl nicht meine Stärke.}
-{109}{}{Verdammt. Das ist sogar mit Werkzeugen zu schwer für mich. Reparieren ist wohl nicht meine Stärke.}
+{108}{}{Verdammt. Das ist fÃ¼r mich zu schwer. Reparieren ist wohl nicht meine StÃ¤rke.}
+{109}{}{Verdammt. Das ist sogar mit Werkzeugen zu schwer fÃ¼r mich. Reparieren ist wohl nicht meine StÃ¤rke.}

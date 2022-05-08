@@ -1,80 +1,80 @@
-{100}{}{Egy laborköpenyes férfit látsz, aki teljesen belefeledkezett a munkájába.}
-{101}{}{A Professzort látod. Úgy t?nik, valami nagyon fontos kísérleten dolgozik.}
-{102}{}{Egy eléggé elfoglalt, laborköpenyes embert látsz. Különféle laborfelszerelések veszik körül. Szemében ?rült fény csillog.}
-{103}{}{Már megint maga az?}
-{104}{}{Mit akarsz? Ki vele! Nem érek rá!}
-{105}{}{Nem érsz?}
+{100}{}{Egy laborkÃ¶penyes fÃ©rfit lÃ¡tsz, aki teljesen belefeledkezett a munkÃ¡jÃ¡ba.}
+{101}{}{A Professzort lÃ¡tod. Ãšgy t?nik, valami nagyon fontos kÃ­sÃ©rleten dolgozik.}
+{102}{}{Egy elÃ©ggÃ© elfoglalt, laborkÃ¶penyes embert lÃ¡tsz. KÃ¼lÃ¶nfÃ©le laborfelszerelÃ©sek veszik kÃ¶rÃ¼l. SzemÃ©ben ?rÃ¼lt fÃ©ny csillog.}
+{103}{}{MÃ¡r megint maga az?}
+{104}{}{Mit akarsz? Ki vele! Nem Ã©rek rÃ¡!}
+{105}{}{Nem Ã©rsz?}
 {106}{}{Teszt!}
-{107}{}{Ki vagy te? És mit keres itt ez a skorpió?}
-{108}{}{Szeretném alávetni magamat az egyik tesztednek.}
-{109}{}{Semmit. Viszlát!}
-{110}{}{Á, egy tesztalany! Szeretnéd tesztelni magadat, barátom?}
+{107}{}{Ki vagy te? Ã‰s mit keres itt ez a skorpiÃ³?}
+{108}{}{SzeretnÃ©m alÃ¡vetni magamat az egyik tesztednek.}
+{109}{}{Semmit. ViszlÃ¡t!}
+{110}{}{Ã, egy tesztalany! SzeretnÃ©d tesztelni magadat, barÃ¡tom?}
 {111}{}{Igen!}
 {112}{}{Nem!}
-{113}{}{Szóval tesztelni szeretnéd magadat? A kéz, a szem, vagy az agy próbáját szeretnéd végigcsinálni?}
-{114}{}{Géz!}
+{113}{}{SzÃ³val tesztelni szeretnÃ©d magadat? A kÃ©z, a szem, vagy az agy prÃ³bÃ¡jÃ¡t szeretnÃ©d vÃ©gigcsinÃ¡lni?}
+{114}{}{GÃ©z!}
 {115}{}{Szem!}
 {116}{}{Adj!}
 {117}{}{Egyiksenem!}
-{118}{}{Akkor ne rabold az id?met! Mondtam, hogy nem érek rá, nemde? Túl sok a dolgom, hogy leálljak olyanokkal beszélgetni, mint... egyáltalán miért beszélek még mindig veled? Szép napot!}
-{119}{}{Páááááá!}
-{120}{}{Ööö... aha. Viszlát!}
-{121}{}{Szóval tesztelni szeretnéd magad? A kézügyességedet, a látásodat vagy az intelligenciádat szeretnéd próbára tenni?}
-{122}{}{Legyen az ügyesség!}
-{123}{}{Teszteljük a látásomat!}
-{124}{}{Mit szólsz az ész próbájához?}
+{118}{}{Akkor ne rabold az id?met! Mondtam, hogy nem Ã©rek rÃ¡, nemde? TÃºl sok a dolgom, hogy leÃ¡lljak olyanokkal beszÃ©lgetni, mint... egyÃ¡ltalÃ¡n miÃ©rt beszÃ©lek mÃ©g mindig veled? SzÃ©p napot!}
+{119}{}{PÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡!}
+{120}{}{Ã–Ã¶Ã¶... aha. ViszlÃ¡t!}
+{121}{}{SzÃ³val tesztelni szeretnÃ©d magad? A kÃ©zÃ¼gyessÃ©gedet, a lÃ¡tÃ¡sodat vagy az intelligenciÃ¡dat szeretnÃ©d prÃ³bÃ¡ra tenni?}
+{122}{}{Legyen az Ã¼gyessÃ©g!}
+{123}{}{TeszteljÃ¼k a lÃ¡tÃ¡somat!}
+{124}{}{Mit szÃ³lsz az Ã©sz prÃ³bÃ¡jÃ¡hoz?}
 {125}{}{Hmm. Egyiket sem. Hagyjuk!}
-{126}{}{Rendben. A skorpió lesz az ellenfeled. Mindkett?töknek ki kell nyitni a láda zárját. Sok sikert!}
-{127}{}{Menjünk!}
-{128}{}{Csináljuk!}
-{129}{}{Rendben. Állj a rács mögé, és a skorpióval együtt olvasd fel felülr?l lefelé, balról jobbra az onnan látható bet?ket!}
-{130}{}{Menjünk!}
-{131}{}{Értem. Gyerünk!}
-{132}{}{Játszanod kell egy menetet a skorpióval az általam fejlesztett játékkal. A neve "sakk". Készen állsz?}
+{126}{}{Rendben. A skorpiÃ³ lesz az ellenfeled. Mindkett?tÃ¶knek ki kell nyitni a lÃ¡da zÃ¡rjÃ¡t. Sok sikert!}
+{127}{}{MenjÃ¼nk!}
+{128}{}{CsinÃ¡ljuk!}
+{129}{}{Rendben. Ãllj a rÃ¡cs mÃ¶gÃ©, Ã©s a skorpiÃ³val egyÃ¼tt olvasd fel felÃ¼lr?l lefelÃ©, balrÃ³l jobbra az onnan lÃ¡thatÃ³ bet?ket!}
+{130}{}{MenjÃ¼nk!}
+{131}{}{Ã‰rtem. GyerÃ¼nk!}
+{132}{}{JÃ¡tszanod kell egy menetet a skorpiÃ³val az Ã¡ltalam fejlesztett jÃ¡tÃ©kkal. A neve "sakk". KÃ©szen Ã¡llsz?}
 {133}{}{Ige'!}
-{134}{}{Igen, készen.}
-{135}{}{Én vagyok a Professzor. Az alkalmazott intelligenciát vizsgálom. Intelligencianövel? gyógyszereket fejlesztek. Most épp a skorpión kísérletezem, mivel a növényekkel kudarcot vallottam.}
-{136}{}{Növényekkel is megpróbáltad?}
-{137}{}{Szeretném tesztelni a képességeimet.}
-{138}{}{Csináltál már valaha bármit, ami m?ködött?}
-{139}{}{Értem. Csak ennyit akartam tudni. Viszlát!}
-{140}{}{Persze, hogy megpróbáltam növényekkel is!  Az intelligenciát a nulláról szeretném felfejleszteni!}
-{141}{}{Értem. Csináltál már valaha bármit, ami m?ködött?}
-{142}{}{Szeretném tesztelni a képességeimet.}
-{143}{}{Értem. Csak ennyit akartam tudni}
+{134}{}{Igen, kÃ©szen.}
+{135}{}{Ã‰n vagyok a Professzor. Az alkalmazott intelligenciÃ¡t vizsgÃ¡lom. IntelligencianÃ¶vel? gyÃ³gyszereket fejlesztek. Most Ã©pp a skorpiÃ³n kÃ­sÃ©rletezem, mivel a nÃ¶vÃ©nyekkel kudarcot vallottam.}
+{136}{}{NÃ¶vÃ©nyekkel is megprÃ³bÃ¡ltad?}
+{137}{}{SzeretnÃ©m tesztelni a kÃ©pessÃ©geimet.}
+{138}{}{CsinÃ¡ltÃ¡l mÃ¡r valaha bÃ¡rmit, ami m?kÃ¶dÃ¶tt?}
+{139}{}{Ã‰rtem. Csak ennyit akartam tudni. ViszlÃ¡t!}
+{140}{}{Persze, hogy megprÃ³bÃ¡ltam nÃ¶vÃ©nyekkel is!  Az intelligenciÃ¡t a nullÃ¡rÃ³l szeretnÃ©m felfejleszteni!}
+{141}{}{Ã‰rtem. CsinÃ¡ltÃ¡l mÃ¡r valaha bÃ¡rmit, ami m?kÃ¶dÃ¶tt?}
+{142}{}{SzeretnÃ©m tesztelni a kÃ©pessÃ©geimet.}
+{143}{}{Ã‰rtem. Csak ennyit akartam tudni}
 {144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
-{145}{}{Oké, oké. Ki szeretném próbálni a képességeimet a skorpiód ellen.}
-{146}{}{Oké, hiszek neked, de azt hiszem mennem kell.}
-{147}{}{Hogyan... hogyan ölhetted meg a skorpiómat? Olyan közel voltam már... olyan közel...}
+{145}{}{OkÃ©, okÃ©. Ki szeretnÃ©m prÃ³bÃ¡lni a kÃ©pessÃ©geimet a skorpiÃ³d ellen.}
+{146}{}{OkÃ©, hiszek neked, de azt hiszem mennem kell.}
+{147}{}{Hogyan... hogyan Ã¶lhetted meg a skorpiÃ³mat? Olyan kÃ¶zel voltam mÃ¡r... olyan kÃ¶zel...}
 {148}{}{[Elcsoszogsz]}
-{200}{}{Hajrá! Ezt gy?zd le, Mr. Új-gerinchúros!}
-{201}{}{Haajrááááá!}
+{200}{}{HajrÃ¡! Ezt gy?zd le, Mr. Ãšj-gerinchÃºros!}
+{201}{}{HaajrÃ¡Ã¡Ã¡Ã¡Ã¡!}
 {202}{}{A fene!}
 {203}{}{Aaaargh!}
 {204}{}{::klikk klakk::}
-{205}{}{Hogy a jó életbe tudtad kinyitni a zárat OLLÓKKAL?}
-{206}{}{Hodjan nyitol OLLÓVA'?}
+{205}{}{Hogy a jÃ³ Ã©letbe tudtad kinyitni a zÃ¡rat OLLÃ“KKAL?}
+{206}{}{Hodjan nyitol OLLÃ“VA'?}
 {207}{}{::klakatt::}
-{208}{}{Döntetlen.}
-{209}{}{Vesztettél. Skorpió: }
+{208}{}{DÃ¶ntetlen.}
+{209}{}{VesztettÃ©l. SkorpiÃ³: }
 {210}{}{, }
 {211}{}{: }
 {212}{}{ vagyok.}
 {213}{}{He?}
-{214}{}{Bebizonyítottad, hogy vagy olyan ügyes, mint a radskorpió.}
-{215}{}{Tessék, fogd ezt a doboz Mentátot! Szükséged lehet rá.}
+{214}{}{BebizonyÃ­tottad, hogy vagy olyan Ã¼gyes, mint a radskorpiÃ³.}
+{215}{}{TessÃ©k, fogd ezt a doboz MentÃ¡tot! SzÃ¼ksÃ©ged lehet rÃ¡.}
 {300}{}{E...Z...W...T...O...D...F...E..R...T...F...P...Y...J...M}
 {301}{}{Igen, helyes.}
-{302}{}{M...Ú...Ú... Múú?}
-{303}{}{Ööö... nem, sajnálom. Nem nyert.}
-{304}{}{::klakatt klakatt:: ::klikk klakk:: ::kipk (faroklengetés)::}
-{305}{}{Úgy van! Jó fiú! Jóóóóó fiú! Szépen fejl?dik a Morse-kód használatod.}
-{306}{}{Bebizonyítottad, hogy van olyan éles szemed, mint a radskorpiónak.}
+{302}{}{M...Ãš...Ãš... MÃºÃº?}
+{303}{}{Ã–Ã¶Ã¶... nem, sajnÃ¡lom. Nem nyert.}
+{304}{}{::klakatt klakatt:: ::klikk klakk:: ::kipk (faroklengetÃ©s)::}
+{305}{}{Ãšgy van! JÃ³ fiÃº! JÃ³Ã³Ã³Ã³Ã³ fiÃº! SzÃ©pen fejl?dik a Morse-kÃ³d hasznÃ¡latod.}
+{306}{}{BebizonyÃ­tottad, hogy van olyan Ã©les szemed, mint a radskorpiÃ³nak.}
 {400}{}{Sakkmatt ::klikk::}
-{401}{}{MI? Csaltál!}
+{401}{}{MI? CsaltÃ¡l!}
 {402}{}{Kakmaty?}
 {403}{}{Nem tudsz veszteni?}
 {404}{}{And... checkmate!}
 {405}{}{Saaaaakkkmattt!}
-{406}{}{::klakatt:: A növény meghal! ::klikk-klakk-klikk::}
-{407}{}{Bebizonyítottad, hogy egy nálad intelligensebb radskorpiót is le tudsz gy?zni.}
+{406}{}{::klakatt:: A nÃ¶vÃ©ny meghal! ::klikk-klakk-klikk::}
+{407}{}{BebizonyÃ­tottad, hogy egy nÃ¡lad intelligensebb radskorpiÃ³t is le tudsz gy?zni.}

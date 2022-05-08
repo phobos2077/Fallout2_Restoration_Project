@@ -1,2 +1,2 @@
-1:Tu as tué le Maître avant qu'il ne puisse réaliser son plan, mais c'est la destruction des Cuves qui a mis fin à la menace mutante.
-2:Sans la possibilité de créer d'autres mutants et de faire appliquer leur justice sévère, ses armées s'enfuirent très loin vers l'est.
+1:Tu as tuÃ© le MaÃ®tre avant qu'il ne puisse rÃ©aliser son plan, mais c'est la destruction des Cuves qui a mis fin Ã  la menace mutante.
+2:Sans la possibilitÃ© de crÃ©er d'autres mutants et de faire appliquer leur justice sÃ©vÃ¨re, ses armÃ©es s'enfuirent trÃ¨s loin vers l'est.

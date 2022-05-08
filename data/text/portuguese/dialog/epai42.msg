@@ -1,1 +1,1 @@
-{100}{}{Há uma corda presa.}
+{100}{}{HÃ¡ uma corda presa.}

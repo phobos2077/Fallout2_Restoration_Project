@@ -1,35 +1,35 @@
-{100}{}{Widzisz du¿y samolot.}
+{100}{}{Widzisz duÅ¼y samolot.}
 {101}{}{Widzisz latacz.}
-{200}{}{[Wspinasz siê do samolotu i wchodzisz do kokpitu.] Witaj w PoseidoNet. Ten terminal jest ograniczony do trasy eskadra Enclave Vertibird - dok l¹dowiska platformy. Polecenia?}
+{200}{}{[Wspinasz siÄ™ do samolotu i wchodzisz do kokpitu.] Witaj w PoseidoNet. Ten terminal jest ograniczony do trasy eskadra Enclave Vertibird - dok lÄ…dowiska platformy. Polecenia?}
 {201}{}{Status.}
 {202}{}{Wyloguj.}
-{203}{}{Ten samolot ma wystarczaj¹c¹ iloœæ paliwa na podró¿ z posterunku Navarro do l¹dowiska platformy i z powrotem. Wszystkie procedury s¹ automatyczne i ¿adne dzia³ania ze strony za³ogi nie s¹ wymagane. Obecny stan zbiornika paliwa: Pe³ny.}
-{204}{}{Lot na Platformê Wiertnicz¹.}
+{203}{}{Ten samolot ma wystarczajÄ…cÄ… iloÅ›Ä‡ paliwa na podrÃ³Å¼ z posterunku Navarro do lÄ…dowiska platformy i z powrotem. Wszystkie procedury sÄ… automatyczne i Å¼adne dziaÅ‚ania ze strony zaÅ‚ogi nie sÄ… wymagane. Obecny stan zbiornika paliwa: PeÅ‚ny.}
+{204}{}{Lot na PlatformÄ™ WiertniczÄ….}
 {205}{}{Wyloguj.}
-{206}{}{B³¹d. Brak ¯ó³tej Karty Reaktora. Ka¿dy pilot otrzymuje tak¹ kartê przy wydaniu zgody na lot. Automatyczny lot nie nast¹pi bez karty upowa¿niaj¹cej.}
-{207}{}{W³ó¿ kartê.}
-{208}{}{Cholera. Wygl¹d na to, ¿e trzeba poszukaæ tej karty.}
-{209}{}{Karta zaakceptowana. Samolot jest gotów do lotu.}
-{210}{}{Uruchom auto-diagnostykê.}
+{206}{}{BÅ‚Ä…d. Brak Å»Ã³Å‚tej Karty Reaktora. KaÅ¼dy pilot otrzymuje takÄ… kartÄ™ przy wydaniu zgody na lot. Automatyczny lot nie nastÄ…pi bez karty upowaÅ¼niajÄ…cej.}
+{207}{}{WÅ‚Ã³Å¼ kartÄ™.}
+{208}{}{Cholera. WyglÄ…d na to, Å¼e trzeba poszukaÄ‡ tej karty.}
+{209}{}{Karta zaakceptowana. Samolot jest gotÃ³w do lotu.}
+{210}{}{Uruchom auto-diagnostykÄ™.}
 {211}{}{Wyloguj.}
-{212}{}{Rozpoczynam diagnostykê systemów...ukoñczono 35%...ukoñczono 75%...ukoñczono 100%. Wszystkie systemy sprawne. Czekam na odpowiedŸ z l¹dowiska platformy...}
+{212}{}{Rozpoczynam diagnostykÄ™ systemÃ³w...ukoÅ„czono 35%...ukoÅ„czono 75%...ukoÅ„czono 100%. Wszystkie systemy sprawne. Czekam na odpowiedÅº z lÄ…dowiska platformy...}
 {213}{}{[KONTYNUUJ]}
-{214}{}{Brak odpowiedzi z l¹dowiska. Przyczyna: Brak po³¹czenia z satelit¹, automatyczne l¹dowanie na Platformnie Wiertniczej niemo¿liwe. Proszê, potwierdziæ czy dok l¹dowiska jest przygotowany na przyjêcie samolotu.}
-{215}{}{Hmm...Wygl¹da na to, ¿e trzeba bêdzie jeszcze ustanowiæ po³¹czenie z satelit¹.}
-{216}{}{Hê?}
+{214}{}{Brak odpowiedzi z lÄ…dowiska. Przyczyna: Brak poÅ‚Ä…czenia z satelitÄ…, automatyczne lÄ…dowanie na Platformnie Wiertniczej niemoÅ¼liwe. ProszÄ™, potwierdziÄ‡ czy dok lÄ…dowiska jest przygotowany na przyjÄ™cie samolotu.}
+{215}{}{Hmm...WyglÄ…da na to, Å¼e trzeba bÄ™dzie jeszcze ustanowiÄ‡ poÅ‚Ä…czenie z satelitÄ….}
+{216}{}{HÄ™?}
 {220}{}{Samolot aktywny. Polecenie?}
-{221}{}{Uruchom auto-diagnostykê.}
+{221}{}{Uruchom auto-diagnostykÄ™.}
 {222}{}{Wyloguj.}
-{230}{}{Sygna³ testowy odebrany. Przyjmuje koordynaty dokowania...zakoñczone. Samolot gotów do startu.}
+{230}{}{SygnaÅ‚ testowy odebrany. Przyjmuje koordynaty dokowania...zakoÅ„czone. Samolot gotÃ³w do startu.}
 {231}{}{Start.}
 {232}{}{Wyloguj.}
-{240}{}{Trasa lotu ustalona. Czas lotu w przybli¿eniu 6 godzin. Mi³ego lotu.}
-{241}{}{Nadesz³a chwila prawdy. Chwila wszystkich chwil. Moje plemiê jest w tarapatach, teraz wszystko zale¿y od mnie. Moje stopy s¹ obola³e, nie k¹pa³em siê od lat i nie pamiêtam kiedy ostatnio zjad³em porz¹dny posi³ek. To s¹ chwile, dla których ¿yjemy. Nie ma odwrotu. }
-{242}{}{ , czas pokazaæ œwiatu z czego ciê zrobili. Zobaczymy na co staæ Enclavê!}
-{243}{}{Hehe...Leæ ptaszku, leæ! }
-{244}{}{ uratujê dzieñ.}
-{300}{}{[Wspinasz siê do samolotu i wchodzisz do kokpitu.] Witaj w PoseidoNet. Ten terminal jest ograniczony do trasy eskadra Enclave Vertibird - dok l¹dowiska platformy. Polecenia?}
+{240}{}{Trasa lotu ustalona. Czas lotu w przybliÅ¼eniu 6 godzin. MiÅ‚ego lotu.}
+{241}{}{NadeszÅ‚a chwila prawdy. Chwila wszystkich chwil. Moje plemiÄ™ jest w tarapatach, teraz wszystko zaleÅ¼y od mnie. Moje stopy sÄ… obolaÅ‚e, nie kÄ…paÅ‚em siÄ™ od lat i nie pamiÄ™tam kiedy ostatnio zjadÅ‚em porzÄ…dny posiÅ‚ek. To sÄ… chwile, dla ktÃ³rych Å¼yjemy. Nie ma odwrotu. }
+{242}{}{ , czas pokazaÄ‡ Å›wiatu z czego ciÄ™ zrobili. Zobaczymy na co staÄ‡ EnclavÄ™!}
+{243}{}{Hehe...LeÄ‡ ptaszku, leÄ‡! }
+{244}{}{ uratujÄ™ dzieÅ„.}
+{300}{}{[Wspinasz siÄ™ do samolotu i wchodzisz do kokpitu.] Witaj w PoseidoNet. Ten terminal jest ograniczony do trasy eskadra Enclave Vertibird - dok lÄ…dowiska platformy. Polecenia?}
 {301}{}{Status.}
 {302}{}{Wyloguj.}
-{303}{}{ Ten samolot ma wystarczaj¹c¹ iloœæ paliwa na podró¿ z posterunku Navarro do l¹dowiska platformy i z powrotem. Wszystkie procedury s¹ automatyczne i ¿adne dzia³ania ze strony za³ogi nie s¹ wymagane. Obecny stan zbiornika paliwa: Pusty.}
+{303}{}{ Ten samolot ma wystarczajÄ…cÄ… iloÅ›Ä‡ paliwa na podrÃ³Å¼ z posterunku Navarro do lÄ…dowiska platformy i z powrotem. Wszystkie procedury sÄ… automatyczne i Å¼adne dziaÅ‚ania ze strony zaÅ‚ogi nie sÄ… wymagane. Obecny stan zbiornika paliwa: Pusty.}
 {304}{}{Wyloguj.}

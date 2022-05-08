@@ -3,24 +3,24 @@
 {102}{}{Du siehst einen gut gekleideten Mann, der am Rande eines Nervenzusammenbruchs zu sein
  scheint.}
 {103}{}{Wer bist du? Was machst du in meinem Haus?}
-{104}{}{Hääh? Huuhh?}
+{104}{}{HÃ¤Ã¤h? Huuhh?}
 {105}{}{Ich bin }
 {106}{}{Niemand Wichtiges.}
 {107}{}{Ich bin auf Raubzug.}
-{108}{}{Nichts. Niemand. Tschüss.}
-{109}{}{Bitte nicht in meinem Haus. Draußen auf der Straße kannst du schlafen und alles andere
+{108}{}{Nichts. Niemand. TschÃ¼ss.}
+{109}{}{Bitte nicht in meinem Haus. DrauÃŸen auf der StraÃŸe kannst du schlafen und alles andere
  machen, was ihr "besonderen" Leute so macht.}
 {110}{}{Phhh!}
-{111}{}{Ich bin begeistert. Schön, dich kennenzulernen. [Sieht zerstreut aus.] Sag mal...du bist
+{111}{}{Ich bin begeistert. SchÃ¶n, dich kennenzulernen. [Sieht zerstreut aus.] Sag mal...du bist
  doch so ein Abenteurer, oder?}
 {112}{}{Ja.}
-{113}{}{Erkennst du etwa das Auserwählte Wesen nicht?}
+{113}{}{Erkennst du etwa das AuserwÃ¤hlte Wesen nicht?}
 {114}{}{Nein.}
 {115}{}{Was geht dich das an?}
-{116}{}{Ich frage ja nur, weil meine Frau vermisst ist. Ich weiß nicht, wo sie ist. Sie ist schon
+{116}{}{Ich frage ja nur, weil meine Frau vermisst ist. Ich weiÃŸ nicht, wo sie ist. Sie ist schon
  seit Tagen weg. Ich hab in der Stadt herumgefragt, aber niemand hat sie gesehen. Kannst du sie
- nicht für mich finden?}
-{117}{}{Wieviel ist für mich drin?}
+ nicht fÃ¼r mich finden?}
+{117}{}{Wieviel ist fÃ¼r mich drin?}
 {118}{}{Ich seh mich mal um. Wie sieht sie denn aus?}
 {119}{}{Nee, ich hab zu tun.}
 {120}{}{Ich kann dir $500 geben. Das ist mein gesamtes Erspartes.}
@@ -38,8 +38,8 @@
  hoffentlich klar, dass du mein Herz gebrochen hast.    }
 {130}{}{Bis dann, du Verlierer.}
 {131}{}{Sie ist blond, sexy und hat eine unglaubliche Singstimme... Ich hab sie zuletzt hier im
- Viertel gesehen. Sie konnte Mutanten und Ghuls nicht leiden, denen wär sie also nicht zu nahe
- gekommen. Keiner weiß, wo sie ist, als wenn sie einfach verschwunden wäre.}
+ Viertel gesehen. Sie konnte Mutanten und Ghuls nicht leiden, denen wÃ¤r sie also nicht zu nahe
+ gekommen. Keiner weiÃŸ, wo sie ist, als wenn sie einfach verschwunden wÃ¤re.}
 {132}{}{Das sollte eigentlich reichen.}
 {133}{}{Und? Hast du sie gefunden? Mein Herz schmerzt jede Sekunde mehr, die ich ohne sie bin.}
 {134}{}{Tut mir leid, Mann, ich suche immer noch.}
@@ -53,7 +53,7 @@
 {142}{}{Ich hab mehrere Tote in den Tunnels unter der Stadt gefunden. Sie war auch dabei. Tut mir
  leid.}
 {143}{}{Was? Nein, sie hatte tolle Beine!}
-{144}{}{Oh. Richtig. Nun, Sie hat jetzt keine tollen Beine mehr. Ihr wurde übel mitgespielt und
+{144}{}{Oh. Richtig. Nun, Sie hat jetzt keine tollen Beine mehr. Ihr wurde Ã¼bel mitgespielt und
  Ihre beine sind AB. Sie ist tot und Sie litt bevor Sie starb.}
 {145}{}{Ja, ja. Ich hab sie in den Tunnels unter der Stadt gefunden. Sie ist tot. Tut mir leid.}
 {146}{}{Danke, dass du es mir gesagt hast. Jetzt muss ich mich ausweinen.}
@@ -61,16 +61,16 @@
 {148}{}{Tut mir leid, Mann.}
 {149}{}{Ich hasse dich! Alle hassen dich! Kratz doch ab! ::schluchz::}
 {150}{}{Ich hab einen Brief bei deiner Frau gefunden. Es sieht so aus, als ob sie zu einer
- Verschwörung gehörte, die die Mutanten in Broken Hills umbringen wollte.}
+ VerschwÃ¶rung gehÃ¶rte, die die Mutanten in Broken Hills umbringen wollte.}
 {151}{}{Mein Gott! Das...kann ich nicht glauben... Das stimmt nicht... [Seufzt tief]. Du kannst
- natürlich recht haben. Sie schien alle Mutanten und Ghuls zu hassen, mit denen sie zu tun
+ natÃ¼rlich recht haben. Sie schien alle Mutanten und Ghuls zu hassen, mit denen sie zu tun
  hatte. Ich hab das nie so genau verstanden.}
-{152}{}{Wie dem auch sei, du solltest dir überlegen, dass die Mörder vielleicht nicht bei deiner
- Frau halt machen. Wenn sie in der Sache drinsteckte, kann das auch für dich gelten.}
+{152}{}{Wie dem auch sei, du solltest dir Ã¼berlegen, dass die MÃ¶rder vielleicht nicht bei deiner
+ Frau halt machen. Wenn sie in der Sache drinsteckte, kann das auch fÃ¼r dich gelten.}
 {153}{}{Willst du damit sagen, dass mein Leben in Gefahr ist? Ach du lieber Gott. Da kannst du
- natürlich recht haben. Ich hab nachts schon komische Geräusche ums Haus herum gehört. Flüstern
+ natÃ¼rlich recht haben. Ich hab nachts schon komische GerÃ¤usche ums Haus herum gehÃ¶rt. FlÃ¼stern
  und Schritte.}
-{154}{}{Du solltest vielleicht hier weggehen. Sei auf der Hut. Viel Glück.}
-{155}{}{Vielen Dank für deine Hilfe. Ich bleibe hier nicht länger als notwendig.}
-{156}{}{Du hast Dan erzählt, dass seine Frau ermordet wurde.}
+{154}{}{Du solltest vielleicht hier weggehen. Sei auf der Hut. Viel GlÃ¼ck.}
+{155}{}{Vielen Dank fÃ¼r deine Hilfe. Ich bleibe hier nicht lÃ¤nger als notwendig.}
+{156}{}{Du hast Dan erzÃ¤hlt, dass seine Frau ermordet wurde.}
 {157}{}{.}

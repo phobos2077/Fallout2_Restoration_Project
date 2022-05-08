@@ -1,16 +1,16 @@
-{100}{}{Widzisz stra¿niczkê.}
-{101}{}{Widzisz stra¿nika Baru z Kasynem Becky.}
-{150}{}{Wygl¹da, jakby wzrokiem wyszukiwa³ w t³umie z³odziei.}
-{151}{}{Wygl¹da, jakby mia³ na oku ka¿dego w tym pomieszczeniu.}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{101}{}{Widzisz straÅ¼nika Baru z Kasynem Becky.}
+{150}{}{WyglÄ…da, jakby wzrokiem wyszukiwaÅ‚ w tÅ‚umie zÅ‚odziei.}
+{151}{}{WyglÄ…da, jakby miaÅ‚ na oku kaÅ¼dego w tym pomieszczeniu.}
 {200}{}{Teraz dostaniesz.}
 {201}{}{Tym razem nie zwiejesz.}
-{210}{}{Przykro mi, ale Becky nie chce, ¿ebyœmy przeszkadzali klientom.}
-{211}{}{Mam nadziejê, ¿e dobrze siê bawisz.}
-{212}{}{Nie tolerujemy tu z³odziejstwa.}
-{213}{}{Tu mo¿esz czuæ siê bezpiecznie.}
+{210}{}{Przykro mi, ale Becky nie chce, Å¼ebyÅ›my przeszkadzali klientom.}
+{211}{}{Mam nadziejÄ™, Å¼e dobrze siÄ™ bawisz.}
+{212}{}{Nie tolerujemy tu zÅ‚odziejstwa.}
+{213}{}{Tu moÅ¼esz czuÄ‡ siÄ™ bezpiecznie.}
 {214}{}{Rebeka ma najlepsze drinki.}
-{215}{}{Rebeka jest najlepszym szefem z jakim mia³em okazjê pracowaæ.}
-{216}{}{Czujesz, ¿e masz dzisiaj szczêœcie? Oko to moja gra.}
-{217}{}{Jeœli czegoœ potrzebujesz, to Becky jest tam.}
-{218}{}{U Rebeki gra siê uczciwie, wiêc spróbuj swego szczêœcia.}
-{230}{}{Nie tolerujemy tu z³odziejstwa.}
+{215}{}{Rebeka jest najlepszym szefem z jakim miaÅ‚em okazjÄ™ pracowaÄ‡.}
+{216}{}{Czujesz, Å¼e masz dzisiaj szczÄ™Å›cie? Oko to moja gra.}
+{217}{}{JeÅ›li czegoÅ› potrzebujesz, to Becky jest tam.}
+{218}{}{U Rebeki gra siÄ™ uczciwie, wiÄ™c sprÃ³buj swego szczÄ™Å›cia.}
+{230}{}{Nie tolerujemy tu zÅ‚odziejstwa.}

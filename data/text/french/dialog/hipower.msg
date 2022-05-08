@@ -1,2 +1,2 @@
-{100}{}{Voici le générateur des Collines Brisées.}
-{101}{}{Le générateur semble être alimenté avec des bâtons d'uranium et fonctionner de manière très efficace.}
+{100}{}{Voici le gÃ©nÃ©rateur des Collines BrisÃ©es.}
+{101}{}{Le gÃ©nÃ©rateur semble Ãªtre alimentÃ© avec des bÃ¢tons d'uranium et fonctionner de maniÃ¨re trÃ¨s efficace.}

@@ -1,30 +1,30 @@
-{100}{}{Egy Polgár.}
-{101}{}{Egy világoskék kezeslábast visel? Polgárt látsz, amint épp könnyít magán.}
-{102}{}{Mindjárt tapsolok haver, csak foglalt a kezem.}
-{103}{}{Gratulálok az Enklávé felett aratott gy?zelmedhez. ?ket is a... mellékhelységben lepted meg?}
-{104}{}{Szívesen meghallgatnám a történeteidet, de látod, most épp van egy "kis" dolgom.}
-{105}{}{Kifelé! Hülye kukkoló! T?nés!}
+{100}{}{Egy PolgÃ¡r.}
+{101}{}{Egy vilÃ¡goskÃ©k kezeslÃ¡bast visel? PolgÃ¡rt lÃ¡tsz, amint Ã©pp kÃ¶nnyÃ­t magÃ¡n.}
+{102}{}{MindjÃ¡rt tapsolok haver, csak foglalt a kezem.}
+{103}{}{GratulÃ¡lok az EnklÃ¡vÃ© felett aratott gy?zelmedhez. ?ket is a... mellÃ©khelysÃ©gben lepted meg?}
+{104}{}{SzÃ­vesen meghallgatnÃ¡m a tÃ¶rtÃ©neteidet, de lÃ¡tod, most Ã©pp van egy "kis" dolgom.}
+{105}{}{KifelÃ©! HÃ¼lye kukkolÃ³! T?nÃ©s!}
 {106}{}{Sejtettem, hogy nem kellett volna ennyit vedelnem.}
-{107}{}{Úgy érzem, sose hagyom abba.}
+{107}{}{Ãšgy Ã©rzem, sose hagyom abba.}
 {108}{}{Ahhhhhhhh.}
-{109}{}{Kiszolgáltatottnak érzem magam. Mintha valaki figyelne.}
-{110}{}{Nincs is jobb, mint egy kiadós, csobógós-tocsogós hugyozás.}
-{111}{}{Ne zavar...  ó... a francba! A nadrágom!}
-{112}{}{Ne szólj hozzám! A végén még mellélövök!}
-{113}{}{Figyu, "Kiválasztott"! Épp összpontosítani próbálok, oké?}
-{114}{}{Bárcsak fülkék lennének itt.}
-{115}{}{Annak az embernek, aki a mellékhelységben társalgást kezdeményez, még sok tanulnivalója van az ürítési etikettr?l.}
-{116}{}{Azt hiszem, összetévesztettél valakivel, barátom. Valakivel, aki...  épp... NEM... PISÁL!!!}
-{117}{}{Ez egyike azoknak a Kevin és Bean féle toalett-interjúknak?}
-{118}{}{Ki akar félmunkát végezni?!}
-{119}{}{Azt hiszem, a közös mellékhelység használata nem volt túl jó ötlet.}
-{120}{}{Ne most, szivi. Ha nem vetted volna észre, épp könnyítek magamon.}
+{109}{}{KiszolgÃ¡ltatottnak Ã©rzem magam. Mintha valaki figyelne.}
+{110}{}{Nincs is jobb, mint egy kiadÃ³s, csobÃ³gÃ³s-tocsogÃ³s hugyozÃ¡s.}
+{111}{}{Ne zavar...  Ã³... a francba! A nadrÃ¡gom!}
+{112}{}{Ne szÃ³lj hozzÃ¡m! A vÃ©gÃ©n mÃ©g mellÃ©lÃ¶vÃ¶k!}
+{113}{}{Figyu, "KivÃ¡lasztott"! Ã‰pp Ã¶sszpontosÃ­tani prÃ³bÃ¡lok, okÃ©?}
+{114}{}{BÃ¡rcsak fÃ¼lkÃ©k lennÃ©nek itt.}
+{115}{}{Annak az embernek, aki a mellÃ©khelysÃ©gben tÃ¡rsalgÃ¡st kezdemÃ©nyez, mÃ©g sok tanulnivalÃ³ja van az Ã¼rÃ­tÃ©si etikettr?l.}
+{116}{}{Azt hiszem, Ã¶sszetÃ©vesztettÃ©l valakivel, barÃ¡tom. Valakivel, aki...  Ã©pp... NEM... PISÃL!!!}
+{117}{}{Ez egyike azoknak a Kevin Ã©s Bean fÃ©le toalett-interjÃºknak?}
+{118}{}{Ki akar fÃ©lmunkÃ¡t vÃ©gezni?!}
+{119}{}{Azt hiszem, a kÃ¶zÃ¶s mellÃ©khelysÃ©g hasznÃ¡lata nem volt tÃºl jÃ³ Ã¶tlet.}
+{120}{}{Ne most, szivi. Ha nem vetted volna Ã©szre, Ã©pp kÃ¶nnyÃ­tek magamon.}
 {121}{}{Bocs, kedves, de most nem alkalmas a pillanat.}
-{122}{}{Ez nem pihen?hely, haver. Evezz odébb, oké?}
-{123}{}{Azt hiszem, összekeversz valakivel, haver. Én nem szoktam férfiakkal randizni a vécében.}
-{124}{}{Nem, nem fogok használati útmutatót adni a vécéhez.}
-{125}{}{Egy mutáns! ?rség! ?rség!!!}
-{126}{}{Egy ghoul! ?rség! ?rség!!!}
-{127}{}{Hé! Ne lökdöss! Várd ki a sorod!}
-{128}{}{Van még egy vécé. Használd azt!}
-{129}{}{Csak még egyszer lökj meg és lepisillek. Értve vagyok? Komolyan mondom!}
+{122}{}{Ez nem pihen?hely, haver. Evezz odÃ©bb, okÃ©?}
+{123}{}{Azt hiszem, Ã¶sszekeversz valakivel, haver. Ã‰n nem szoktam fÃ©rfiakkal randizni a vÃ©cÃ©ben.}
+{124}{}{Nem, nem fogok hasznÃ¡lati ÃºtmutatÃ³t adni a vÃ©cÃ©hez.}
+{125}{}{Egy mutÃ¡ns! ?rsÃ©g! ?rsÃ©g!!!}
+{126}{}{Egy ghoul! ?rsÃ©g! ?rsÃ©g!!!}
+{127}{}{HÃ©! Ne lÃ¶kdÃ¶ss! VÃ¡rd ki a sorod!}
+{128}{}{Van mÃ©g egy vÃ©cÃ©. HasznÃ¡ld azt!}
+{129}{}{Csak mÃ©g egyszer lÃ¶kj meg Ã©s lepisillek. Ã‰rtve vagyok? Komolyan mondom!}

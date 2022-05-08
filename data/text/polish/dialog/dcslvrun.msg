@@ -1,84 +1,84 @@
-{100}{}{Widzisz wielkiego mê¿czyznê. Wygl¹da na dzikusa.}
-{101}{}{Mê¿czyzna czujnie rozgl¹da siê po okolicy.}
-{110}{}{Widzisz szczup³¹ dzikuskê.}
-{111}{}{Mimo swoich rozmiarów zdaje siê byæ niebezpieczna.}
-{120}{}{Widzisz dziwnie wygl¹daj¹cego mê¿czyznê.}
+{100}{}{Widzisz wielkiego mÄ™Å¼czyznÄ™. WyglÄ…da na dzikusa.}
+{101}{}{MÄ™Å¼czyzna czujnie rozglÄ…da siÄ™ po okolicy.}
+{110}{}{Widzisz szczupÅ‚Ä… dzikuskÄ™.}
+{111}{}{Mimo swoich rozmiarÃ³w zdaje siÄ™ byÄ‡ niebezpieczna.}
+{120}{}{Widzisz dziwnie wyglÄ…dajÄ…cego mÄ™Å¼czyznÄ™.}
 {121}{}{Jest niesamowicie wychudzony.}
-{130}{}{Widzisz mê¿czyznê odzianego w ³achmany.}
-{131}{}{Wygl¹da na niez³ego osi³ka.}
-{140}{}{Widzisz obdartego mê¿czyznê.}
-{141}{}{Porusza siê szybko i zwinnie.}
-{150}{}{Widzisz bardzo brudn¹ kobietê.}
-{151}{}{Chyba nigdy w ¿yciu siê nie my³a.}
-{160}{}{Widzisz postawn¹ kobietê.}
-{161}{}{Wygl¹da na groŸnego przeciwnika.}
-{170}{}{Widzisz chorowit¹ kobietê.}
-{171}{}{Ta nie powinna sprawiaæ k³opotów.}
-{200}{}{Giñ!}
+{130}{}{Widzisz mÄ™Å¼czyznÄ™ odzianego w Å‚achmany.}
+{131}{}{WyglÄ…da na niezÅ‚ego osiÅ‚ka.}
+{140}{}{Widzisz obdartego mÄ™Å¼czyznÄ™.}
+{141}{}{Porusza siÄ™ szybko i zwinnie.}
+{150}{}{Widzisz bardzo brudnÄ… kobietÄ™.}
+{151}{}{Chyba nigdy w Å¼yciu siÄ™ nie myÅ‚a.}
+{160}{}{Widzisz postawnÄ… kobietÄ™.}
+{161}{}{WyglÄ…da na groÅºnego przeciwnika.}
+{170}{}{Widzisz chorowitÄ… kobietÄ™.}
+{171}{}{Ta nie powinna sprawiaÄ‡ kÅ‚opotÃ³w.}
+{200}{}{GiÅ„!}
 {201}{}{Czego tu?}
-{202}{}{Rozwalê ci ³eb.}
-{210}{}{Zap³acisz mi za to!}
-{211}{}{Niech szlag wszystkich £owców!}
-{212}{}{Nie darujê ci tego!}
+{202}{}{RozwalÄ™ ci Å‚eb.}
+{210}{}{ZapÅ‚acisz mi za to!}
+{211}{}{Niech szlag wszystkich ÅowcÃ³w!}
+{212}{}{Nie darujÄ™ ci tego!}
 {220}{}{Zostaw!}
 {221}{}{Nie bij!}
 {222}{}{Czemu bijesz?!}
-{223}{}{Ja nie walczê!}
-{230}{}{Znam ten tatua¿!}
-{231}{}{Nie, proszê!}
-{232}{}{B³agam, nie zabijaj mnie!}
-{233}{}{Poddajê siê, nie strzelaj!}
-{234}{}{B³agam! Nie chcê umieraæ!}
-{235}{}{Jesteœcie £owcami, prawda? Bo¿e...}
+{223}{}{Ja nie walczÄ™!}
+{230}{}{Znam ten tatuaÅ¼!}
+{231}{}{Nie, proszÄ™!}
+{232}{}{BÅ‚agam, nie zabijaj mnie!}
+{233}{}{PoddajÄ™ siÄ™, nie strzelaj!}
+{234}{}{BÅ‚agam! Nie chcÄ™ umieraÄ‡!}
+{235}{}{JesteÅ›cie Åowcami, prawda? BoÅ¼e...}
 {245}{}{Cicho! Oni blisko.}
-{246}{}{Zabiæ bandziora!}
+{246}{}{ZabiÄ‡ bandziora!}
 {247}{}{Nie oddam rodziny.}
-{248}{}{Broniæ rodziny.}
-{249}{}{Nie mog¹ nas znaleŸæ.}
-{250}{}{Oni Ÿli ludzie.}
-{260}{}{£owcy niewolników! B¹dŸcie cicho.}
-{261}{}{B¹dŸcie czujni. Chyba s¹ ju¿ niedaleko.}
-{262}{}{Nie poddam siê bez walki.}
-{263}{}{Nie wezm¹ nas ¿ywych.}
-{264}{}{Po¿a³uj¹, ¿e tu przyszli.}
-{265}{}{Nie pozwolê skrzywdziæ mojej rodziny.}
-{270}{}{Nie znajd¹ mnie.}
-{271}{}{Trzeba chowaæ. Trzeba chowaæ.}
-{272}{}{Dlaczego oni krzywdz¹?}
+{248}{}{BroniÄ‡ rodziny.}
+{249}{}{Nie mogÄ… nas znaleÅºÄ‡.}
+{250}{}{Oni Åºli ludzie.}
+{260}{}{Åowcy niewolnikÃ³w! BÄ…dÅºcie cicho.}
+{261}{}{BÄ…dÅºcie czujni. Chyba sÄ… juÅ¼ niedaleko.}
+{262}{}{Nie poddam siÄ™ bez walki.}
+{263}{}{Nie wezmÄ… nas Å¼ywych.}
+{264}{}{PoÅ¼aÅ‚ujÄ…, Å¼e tu przyszli.}
+{265}{}{Nie pozwolÄ™ skrzywdziÄ‡ mojej rodziny.}
+{270}{}{Nie znajdÄ… mnie.}
+{271}{}{Trzeba chowaÄ‡. Trzeba chowaÄ‡.}
+{272}{}{Dlaczego oni krzywdzÄ…?}
 {273}{}{Strach!}
-{274}{}{Ja nie walczê.}
-{275}{}{Ja bêdê ¿yæ.}
-{276}{}{Nie krzywdziæ rodziny.}
+{274}{}{Ja nie walczÄ™.}
+{275}{}{Ja bÄ™dÄ™ Å¼yÄ‡.}
+{276}{}{Nie krzywdziÄ‡ rodziny.}
 {280}{}{O, cholera!}
-{281}{}{Dlaczego oni to robi¹?}
-{282}{}{A co z moj¹ rodzin¹?}
-{283}{}{Nie chcê umieraæ.}
-{284}{}{Nie chcê byæ niewolnikiem.}
-{285}{}{Nie zas³ugujê na taki los.}
-{290}{}{Giñ!}
-{291}{}{Zabijê!}
-{292}{}{Nie krzywdziæ rodziny!}
-{293}{}{Nie z³apaæ rodziny!}
-{294}{}{Broniæ!}
-{295}{}{Biæ!}
-{296}{}{Zap³acisz!}
-{300}{}{Nie pozwolê ci skrzywdziæ mojej rodziny!}
-{301}{}{Giñ przeklêty £owco!}
-{302}{}{Zap³acisz mi za to!}
-{303}{}{Prêdzej zdechnê, ni¿ pozwolê ci skrzywdziæ moich bliskich!}
+{281}{}{Dlaczego oni to robiÄ…?}
+{282}{}{A co z mojÄ… rodzinÄ…?}
+{283}{}{Nie chcÄ™ umieraÄ‡.}
+{284}{}{Nie chcÄ™ byÄ‡ niewolnikiem.}
+{285}{}{Nie zasÅ‚ugujÄ™ na taki los.}
+{290}{}{GiÅ„!}
+{291}{}{ZabijÄ™!}
+{292}{}{Nie krzywdziÄ‡ rodziny!}
+{293}{}{Nie zÅ‚apaÄ‡ rodziny!}
+{294}{}{BroniÄ‡!}
+{295}{}{BiÄ‡!}
+{296}{}{ZapÅ‚acisz!}
+{300}{}{Nie pozwolÄ™ ci skrzywdziÄ‡ mojej rodziny!}
+{301}{}{GiÅ„ przeklÄ™ty Åowco!}
+{302}{}{ZapÅ‚acisz mi za to!}
+{303}{}{PrÄ™dzej zdechnÄ™, niÅ¼ pozwolÄ™ ci skrzywdziÄ‡ moich bliskich!}
 {304}{}{Nie ujdzie ci to na sucho!}
-{305}{}{Nie pozwolê krzywdziæ moich przyjació³!}
+{305}{}{Nie pozwolÄ™ krzywdziÄ‡ moich przyjaciÃ³Å‚!}
 {310}{}{Aaa!}
 {311}{}{Nie zabijaj! Nie zabijaj!}
-{312}{}{Stój!}
+{312}{}{StÃ³j!}
 {313}{}{Pomooocy!}
-{314}{}{Uciekaæ!}
-{315}{}{Nie rób tak!}
-{320}{}{Ratuj siê kto mo¿e!}
-{321}{}{Uciekajcie st¹d!}
-{322}{}{£owcy niewolników! W nogi!}
+{314}{}{UciekaÄ‡!}
+{315}{}{Nie rÃ³b tak!}
+{320}{}{Ratuj siÄ™ kto moÅ¼e!}
+{321}{}{Uciekajcie stÄ…d!}
+{322}{}{Åowcy niewolnikÃ³w! W nogi!}
 {323}{}{Ratunku! Pomocy!}
 {324}{}{Uciekaj, Marty!}
 {325}{}{Aaa!}
-{326}{}{Przestañcie, b³agam!}
-{327}{}{Co wam zrobiliœmy! Zostawcie nas w spokoju!}
+{326}{}{PrzestaÅ„cie, bÅ‚agam!}
+{327}{}{Co wam zrobiliÅ›my! Zostawcie nas w spokoju!}

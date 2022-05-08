@@ -1,19 +1,19 @@
-{100}{}{¡Cuidado! ¡Es un escorpión rad!}
-{101}{}{Mirando más de cerca, este escorpión parece usar gafas de montura metálica.
+{100}{}{Â¡Cuidado! Â¡Es un escorpiÃ³n rad!}
+{101}{}{Mirando mÃ¡s de cerca, este escorpiÃ³n parece usar gafas de montura metÃ¡lica.
  En realidad parece bastante inteligente y no amenazador.}
 {102}{}{::click:: ::click clack::}
-{103}{}{¿Puedo ayudarte en algo? ¡Estás interrumpiendo mis experimentos!}
+{103}{}{Â¿Puedo ayudarte en algo? Â¡EstÃ¡s interrumpiendo mis experimentos!}
 {104}{}{::se escabulle:: ::click click click::}
-{105}{}{¿Qué? ¿Qué es lo que quieres de él?}
-{106}{}{¡Fffff!}
-{107}{}{¡Buen chico! ¡Ponte en pie!}
+{105}{}{Â¿QuÃ©? Â¿QuÃ© es lo que quieres de Ã©l?}
+{106}{}{Â¡Fffff!}
+{107}{}{Â¡Buen chico! Â¡Ponte en pie!}
 {108}{}{[te mira cautelosamente]}
 {109}{}{[hace gestos con sus pinzas]}
 {110}{}{[casi parece amistoso]}
-{111}{}{Por favor, no molestes al escorpión. Ha tenido un día duro.}
+{111}{}{Por favor, no molestes al escorpiÃ³n. Ha tenido un dÃ­a duro.}
 {112}{}{Ahora mismo no parece encontrarse bien.}
 {113}{}{::se escabulle::}
 {114}{}{::click::}
 {115}{}{::click-clack::}
-{116}{}{::despabilándose::}
-{117}{}{Mirando más de cerca, este escorpión parece bastante inteligente y no amenazador.}
+{116}{}{::despabilÃ¡ndose::}
+{117}{}{Mirando mÃ¡s de cerca, este escorpiÃ³n parece bastante inteligente y no amenazador.}

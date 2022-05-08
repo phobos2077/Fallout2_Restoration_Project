@@ -1,51 +1,51 @@
 {100}{}{Widzisz boksera.}
-{150}{}{Widzisz potê¿nie umiêœnionego murzyna. Zdaje siê w³aœnie skoñczy³ æwiczyæ.}
-{151}{}{Widzisz ogromnego murzyna. I mówiê ci, jest naprawdê OGROMNY.}
-{152}{}{Wygl¹da na to, ¿e w³aœnie zakoñczy³ æwiczenia.}
-{153}{}{Prawie udaje ci siê pomyliæ go z ma³¹ gór¹.}
+{150}{}{Widzisz potÄ™Å¼nie umiÄ™Å›nionego murzyna. Zdaje siÄ™ wÅ‚aÅ›nie skoÅ„czyÅ‚ Ä‡wiczyÄ‡.}
+{151}{}{Widzisz ogromnego murzyna. I mÃ³wiÄ™ ci, jest naprawdÄ™ OGROMNY.}
+{152}{}{WyglÄ…da na to, Å¼e wÅ‚aÅ›nie zakoÅ„czyÅ‚ Ä‡wiczenia.}
+{153}{}{Prawie udaje ci siÄ™ pomyliÄ‡ go z maÅ‚Ä… gÃ³rÄ….}
 {154}{}{Jest ogromny. Ogroooomny.}
-{155}{}{Szczerzy siê do ciebie w bezzêbnym uœmiechu.}
-{156}{}{Wygl¹da na to, ¿e w³aœnie zakoñczy³ æwiczenia.}
-{157}{}{Prawie udaje ci siê pomyliæ go z ma³¹ gór¹.}
+{155}{}{Szczerzy siÄ™ do ciebie w bezzÄ™bnym uÅ›miechu.}
+{156}{}{WyglÄ…da na to, Å¼e wÅ‚aÅ›nie zakoÅ„czyÅ‚ Ä‡wiczenia.}
+{157}{}{Prawie udaje ci siÄ™ pomyliÄ‡ go z maÅ‚Ä… gÃ³rÄ….}
 {158}{}{Jest ogromny. Ogroooomny.}
-{159}{}{Szczerzy siê do ciebie w bezzêbnym uœmiechu.}
-{160}{}{Szturcha jakiegoœ niewidzialnego przeciwnika i rzuca w powietrze groŸby.}
-{161}{}{Przez chwilê wygl¹da na zak³opotanego, zupe³nie jakby zapomnia³ kim jest, po czym uœmiecha siê i drapie po g³owie.}
+{159}{}{Szczerzy siÄ™ do ciebie w bezzÄ™bnym uÅ›miechu.}
+{160}{}{Szturcha jakiegoÅ› niewidzialnego przeciwnika i rzuca w powietrze groÅºby.}
+{161}{}{Przez chwilÄ™ wyglÄ…da na zakÅ‚opotanego, zupeÅ‚nie jakby zapomniaÅ‚ kim jest, po czym uÅ›miecha siÄ™ i drapie po gÅ‚owie.}
 {162}{}{Robi przysiady.}
-{163}{}{Widzisz du¿ego, bia³ego mê¿czyznê. Jego ramiona przypominaj¹ pnie drzew.}
-{164}{}{Widzisz potê¿nie umiêœnionego, bia³ego mê¿czyznê. Napina miêœnie i mruczy coœ do siebie.}
-{165}{}{Widzisz potê¿nie umiêœnionego, bia³ego mê¿czyznê. Patrzy na twoj¹ g³owê, jakby to by³ worek treningowy.}
-{166}{}{Szturcha jakiegoœ niewidzialnego przeciwnika i rzuca w powietrze groŸby.}
-{167}{}{Przez chwilê wygl¹da na zak³opotanego, zupe³nie jakby zapomnia³ kim jest, po czym uœmiecha siê i drapie po g³owie.}
-{168}{}{Patrzy na twoj¹ g³owê, jakby to by³ worek treningowy.}
+{163}{}{Widzisz duÅ¼ego, biaÅ‚ego mÄ™Å¼czyznÄ™. Jego ramiona przypominajÄ… pnie drzew.}
+{164}{}{Widzisz potÄ™Å¼nie umiÄ™Å›nionego, biaÅ‚ego mÄ™Å¼czyznÄ™. Napina miÄ™Å›nie i mruczy coÅ› do siebie.}
+{165}{}{Widzisz potÄ™Å¼nie umiÄ™Å›nionego, biaÅ‚ego mÄ™Å¼czyznÄ™. Patrzy na twojÄ… gÅ‚owÄ™, jakby to byÅ‚ worek treningowy.}
+{166}{}{Szturcha jakiegoÅ› niewidzialnego przeciwnika i rzuca w powietrze groÅºby.}
+{167}{}{Przez chwilÄ™ wyglÄ…da na zakÅ‚opotanego, zupeÅ‚nie jakby zapomniaÅ‚ kim jest, po czym uÅ›miecha siÄ™ i drapie po gÅ‚owie.}
+{168}{}{Patrzy na twojÄ… gÅ‚owÄ™, jakby to byÅ‚ worek treningowy.}
 {200}{}{Hnffff}
 {201}{}{Hnrggg}
-{202}{}{::Napina miêœnie::}
-{203}{}{::Bokser patrzy na ciebie przera¿onym wzrokiem::}
+{202}{}{::Napina miÄ™Å›nie::}
+{203}{}{::Bokser patrzy na ciebie przeraÅ¼onym wzrokiem::}
 {204}{}{Tajest?}
-{205}{}{Mogê po¿yczyæ pare zembuf?}
+{205}{}{MogÄ™ poÅ¼yczyÄ‡ pare zembuf?}
 {206}{}{Potrzebujesz kibica?}
 {207}{}{Yhy.}
-{208}{}{::G³upkowato kiwa g³ow¹ przy ka¿dym twoim s³owie.::}
-{209}{}{Ty du¿a osób. Ja ma³y.}
-{210}{}{Ty twardzi. Ja s³aby.}
-{211}{}{Ja g³odny.}
-{212}{}{Ja nie chce rozmawiaæ.}
-{213}{}{Ty ³aaadnie pchnie.}
+{208}{}{::GÅ‚upkowato kiwa gÅ‚owÄ… przy kaÅ¼dym twoim sÅ‚owie.::}
+{209}{}{Ty duÅ¼a osÃ³b. Ja maÅ‚y.}
+{210}{}{Ty twardzi. Ja sÅ‚aby.}
+{211}{}{Ja gÅ‚odny.}
+{212}{}{Ja nie chce rozmawiaÄ‡.}
+{213}{}{Ty Å‚aaadnie pchnie.}
 {214}{}{Ty pachnie jak mama.}
-{215}{}{Doœæ gadaæ. Czas do ³ó¿ka.}
-{216}{}{::Szczerzy siê w bezzêbnym uœmiechu::}
-{217}{}{::Drapie siê::}
-{218}{}{::Napina miêœnie::}
+{215}{}{DoÅ›Ä‡ gadaÄ‡. Czas do Å‚Ã³Å¼ka.}
+{216}{}{::Szczerzy siÄ™ w bezzÄ™bnym uÅ›miechu::}
+{217}{}{::Drapie siÄ™::}
+{218}{}{::Napina miÄ™Å›nie::}
 {219}{}{Grrr}
-{220}{}{Ty ja walczyæ?}
-{221}{}{Ja z³y ja z³y ja z³y.}
+{220}{}{Ty ja walczyÄ‡?}
+{221}{}{Ja zÅ‚y ja zÅ‚y ja zÅ‚y.}
 {222}{}{Skup-siem, Skup-siem.}
-{223}{}{Z³ap krytyka.}
-{224}{}{Stratuj to góno.}
+{223}{}{ZÅ‚ap krytyka.}
+{224}{}{Stratuj to gÃ³no.}
 {225}{}{Ja musi kibic.}
-{226}{}{Ty ma³y.}
-{227}{}{Ja nie chce rozmawiaæ.}
+{226}{}{Ty maÅ‚y.}
+{227}{}{Ja nie chce rozmawiaÄ‡.}
 {300}{}{Ernh}
 {301}{}{Unfff}
 {302}{}{Hrgh}
@@ -55,42 +55,42 @@
 {310}{}{Za wolno!}
 {311}{}{Nie w twarz!}
 {312}{}{Walczysz jak moja babka!}
-{313}{}{¯adnych ciosów poni¿ej pasa!}
-{314}{}{NieŸle.}
-{315}{}{Tylko na to ciê staæ?}
-{320}{}{I le¿eæ mi tu!}
+{313}{}{Å»adnych ciosÃ³w poniÅ¼ej pasa!}
+{314}{}{NieÅºle.}
+{315}{}{Tylko na to ciÄ™ staÄ‡?}
+{320}{}{I leÅ¼eÄ‡ mi tu!}
 {321}{}{Kurwa nokaut!}
-{322}{}{Kim jest twój tatuœ?}
+{322}{}{Kim jest twÃ³j tatuÅ›?}
 {323}{}{Jak on umrze, to umrze.}
-{330}{}{Mog³em byæ zawodnikiem!}
-{331}{}{Jak to mog³o... gegggh...}
-{332}{}{*B³³³³³³eeeeeee*}
+{330}{}{MogÅ‚em byÄ‡ zawodnikiem!}
+{331}{}{Jak to mogÅ‚o... gegggh...}
+{332}{}{*BÅ‚Å‚Å‚Å‚Å‚Å‚eeeeeee*}
 {333}{}{Ooo, troskliwych misi...}
-{334}{}{Chyba lepiej sobie tutaj chwilkê pole¿ê.}
+{334}{}{Chyba lepiej sobie tutaj chwilkÄ™ poleÅ¼Ä™.}
 {335}{}{Nie boli, nie boli, nie boli...}
 {340}{}{A masz!}
 {341}{}{Co powiesz na to?!}
 {342}{}{Suka!}
-{343}{}{Mam ciê.}
-{344}{}{Zielonych beretów zjadam na œniadanie.}
+{343}{}{Mam ciÄ™.}
+{344}{}{Zielonych beretÃ³w zjadam na Å›niadanie.}
 {345}{}{Haaduukin.}
 {346}{}{ZGINIESZ.}
-{347}{}{SUPER... ATOMOWA... TR¥BO-POWIETRZNA... PI¥CHA...}
+{347}{}{SUPER... ATOMOWA... TRÄ„BO-POWIETRZNA... PIÄ„CHA...}
 {350}{}{Adrian! Adrian!}
 {351}{}{Do piachu!}
-{352}{}{Przer¿nê ciê...}
-{353}{}{Muszê ciê nat³uc.}
-{354}{}{Bijesz siê jak lump!}
+{352}{}{PrzerÅ¼nÄ™ ciÄ™...}
+{353}{}{MuszÄ™ ciÄ™ natÅ‚uc.}
+{354}{}{Bijesz siÄ™ jak lump!}
 {355}{}{Nie masz jaj!}
-{356}{}{Jesteœ baba! Baba!}
-{357}{}{Zbijê ciê jak psa...}
-{360}{}{Rewan¿u nie bêdzie!}
-{361}{}{Bijesz siê jak motylek...}
-{362}{}{Trzymaj rêce w górze...}
-{363}{}{Uwa¿aj!}
-{364}{}{Stratuj to gówno!}
-{365}{}{Z³ap krytyka!}
+{356}{}{JesteÅ› baba! Baba!}
+{357}{}{ZbijÄ™ ciÄ™ jak psa...}
+{360}{}{RewanÅ¼u nie bÄ™dzie!}
+{361}{}{Bijesz siÄ™ jak motylek...}
+{362}{}{Trzymaj rÄ™ce w gÃ³rze...}
+{363}{}{UwaÅ¼aj!}
+{364}{}{Stratuj to gÃ³wno!}
+{365}{}{ZÅ‚ap krytyka!}
 {366}{}{Naskocz mi Mick.}
-{367}{}{Pamiêtaj, wal przed siebie!}
-{368}{}{Widzê ich troje!}
-{400}{}{Poci siê obficie.}
+{367}{}{PamiÄ™taj, wal przed siebie!}
+{368}{}{WidzÄ™ ich troje!}
+{400}{}{Poci siÄ™ obficie.}

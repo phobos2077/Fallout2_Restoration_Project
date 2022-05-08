@@ -1,115 +1,115 @@
-{100}{}{Tu vois un homme bien habillé.}
+{100}{}{Tu vois un homme bien habillÃ©.}
 {101}{}{Tu vois AHS-9, le Grand et le Terrible.}
-{102}{}{Tu vois un homme bien habillé.}
-{103}{}{Tu blasphèmes le nom d'Hubol ! Tu dois mourir !}
-{104}{}{Ta nature perfide ne connaît pas de limite !}
+{102}{}{Tu vois un homme bien habillÃ©.}
+{103}{}{Tu blasphÃ¨mes le nom d'Hubol ! Tu dois mourir !}
+{104}{}{Ta nature perfide ne connaÃ®t pas de limite !}
 {105}{}{La Grande Roue te roulera dessus !}
-{106}{}{Tu es en présence d'AHS-9, le Grand et le Terrible. Que veux-tu de lui ?}
+{106}{}{Tu es en prÃ©sence d'AHS-9, le Grand et le Terrible. Que veux-tu de lui ?}
 {107}{}{Agh gnan, AHS !}
-{108}{}{Je cherche mon peuple. J'ai entendu dire qu'il était venu ici dans des vaisseaux volants.}
-{109}{}{J'ai de nombreuses questions à te poser, AHS-9.}
-{110}{}{L'Eclairée de la RNC voulait que je te remette cette lettre. Elle a parlé d'une récompense...}
-{111}{}{L'Eclairée de la RNC voulait que je te remette cette lettre. La voici.}
-{112}{}{ô AHS-9, je suis porteur d'une lettre de ton agent de la RNC. Je m'incline devant ta gloire.}
+{108}{}{Je cherche mon peuple. J'ai entendu dire qu'il Ã©tait venu ici dans des vaisseaux volants.}
+{109}{}{J'ai de nombreuses questions Ã  te poser, AHS-9.}
+{110}{}{L'EclairÃ©e de la RNC voulait que je te remette cette lettre. Elle a parlÃ© d'une rÃ©compense...}
+{111}{}{L'EclairÃ©e de la RNC voulait que je te remette cette lettre. La voici.}
+{112}{}{Ã´ AHS-9, je suis porteur d'une lettre de ton agent de la RNC. Je m'incline devant ta gloire.}
 {113}{}{Ta mort. Adieu, vieil homme.}
 {114}{}{Rien, pardon.}
 {115}{}{Oui, mon enfant ?}
 {116}{}{Hinchoaf ? [Tu me comprends ?]}
-{117}{}{Agga da gou dou ! [Oh, dieu soit loué ! Je cherche mon peuple. Je dois passer au-dessus de la grande eau.]}
-{118}{}{Pou papi ! [Eh bien, merci de m'avoir accordé un peu de ton temps. Je dois continuer maintenant. Ce fut un plaisir de parler avec toi.]}
-{119}{}{Je ne comprends pas un mot de ce que tu racontes. Tu devrais peut-être voir avec Juan ou Vikki pour un balayage.}
+{117}{}{Agga da gou dou ! [Oh, dieu soit louÃ© ! Je cherche mon peuple. Je dois passer au-dessus de la grande eau.]}
+{118}{}{Pou papi ! [Eh bien, merci de m'avoir accordÃ© un peu de ton temps. Je dois continuer maintenant. Ce fut un plaisir de parler avec toi.]}
+{119}{}{Je ne comprends pas un mot de ce que tu racontes. Tu devrais peut-Ãªtre voir avec Juan ou Vikki pour un balayage.}
 {120}{}{Merssi !}
-{121}{}{Bien sûr, mon enfant. Le balayage a purifié tes neurodines de base et les a alignées aux miennes et aux rayons de la Grande Roue. De quoi as-tu besoin ?}
-{122}{}{Agga da gou dou ! [Oh, dieu soit loué ! Je cherche mon peuple. Je dois passer au-dessus de la grande eau.]}
-{123}{}{B-b-b-enèssi [Rien, merci. Mais ça fait du bien de pouvoir te parler. Au revoir !]}
+{121}{}{Bien sÃ»r, mon enfant. Le balayage a purifiÃ© tes neurodines de base et les a alignÃ©es aux miennes et aux rayons de la Grande Roue. De quoi as-tu besoin ?}
+{122}{}{Agga da gou dou ! [Oh, dieu soit louÃ© ! Je cherche mon peuple. Je dois passer au-dessus de la grande eau.]}
+{123}{}{B-b-b-enÃ¨ssi [Rien, merci. Mais Ã§a fait du bien de pouvoir te parler. Au revoir !]}
 {124}{}{Si tu acceptes de me rendre un service, je pourrai t'aider, mon enfant.}
 {125}{}{Ko'a ? [De quoi s'agit-il ? J'aimerais beaucoup t'aider.]}
 {126}{}{Non !}
-{127}{}{Mon homologue, l'Empereur de Shitown, a fait de ma vie un désastre et j'aimerais que tu mettes un terme à cela. En échange de ce service, je veillerai à ce que tu puisses te rendre où tu le souhaites.}
+{127}{}{Mon homologue, l'Empereur de Shitown, a fait de ma vie un dÃ©sastre et j'aimerais que tu mettes un terme Ã  cela. En Ã©change de ce service, je veillerai Ã  ce que tu puisses te rendre oÃ¹ tu le souhaites.}
 {128}{}{Aouh ! [Je vais le faire.]}
 {129}{}{Non !}
-{130}{}{Si tu changes d'avis, préviens-moi. N'oublie pas que je suis probablement le seul capable de t'aider à retrouver ta famille.}
+{130}{}{Si tu changes d'avis, prÃ©viens-moi. N'oublie pas que je suis probablement le seul capable de t'aider Ã  retrouver ta famille.}
 {131}{}{Ok ? [Quel est ce service ?]}
-{132}{}{Nannenni ! [Merci, mais je ne veux rien devoir à personne. Au revoir !]}
-{133}{}{Bien. Dis-moi quand tu auras terminé, et en même temps, je tâcherai de trouver un moyen qui nous permettra d'atteindre ton objectif. Au revoir, mon enfant.}
+{132}{}{Nannenni ! [Merci, mais je ne veux rien devoir Ã  personne. Au revoir !]}
+{133}{}{Bien. Dis-moi quand tu auras terminÃ©, et en mÃªme temps, je tÃ¢cherai de trouver un moyen qui nous permettra d'atteindre ton objectif. Au revoir, mon enfant.}
 {134}{}{Au 'voirr ! [Au revoir, AHS-9. Tu es un grand homme.]}
-{135}{}{As-tu mené à bien ta tâche ? Ton avenir et celui de la Roue sur cette planète en dépendent.}
+{135}{}{As-tu menÃ© Ã  bien ta tÃ¢che ? Ton avenir et celui de la Roue sur cette planÃ¨te en dÃ©pendent.}
 {136}{}{Euh nalut. [Pas encore. Je voulais juste dire bonjour.]}
 {137}{}{Je m'en occupe. Mais dis-moi...}
 {138}{}{Pas encore. Je vais revenir te voir.}
-{139}{}{Salutations à toi aussi. Maintenant, je te prie de terminer ton travail pour que je puisse t'aider.}
+{139}{}{Salutations Ã  toi aussi. Maintenant, je te prie de terminer ton travail pour que je puisse t'aider.}
 {140}{}{Ng ! Ng ! [Oui, m'sieur !]}
-{141}{}{Tes émanations me disent que tu as réussi à débarrasser le monde des neurodines polluantes de l'Empereur.}
-{142}{}{Jirsi ! [Oui, j'ai réussi. Comment vas-tu faire pour remplir ta part du marché ?]}
-{143}{}{Oui, j'ai réussi. Maintenant, je demande en retour ton aide pour sauver mon peuple.}
-{144}{}{Sur les quais de Shitown, tu trouveras le PMV Valdez. Une fois à bord du navire, dirige-toi vers la droite et monte au bureau du capitaine. Appuie sur le bouton Go et le pétrolier t'emmènera à destination.}
+{141}{}{Tes Ã©manations me disent que tu as rÃ©ussi Ã  dÃ©barrasser le monde des neurodines polluantes de l'Empereur.}
+{142}{}{Jirsi ! [Oui, j'ai rÃ©ussi. Comment vas-tu faire pour remplir ta part du marchÃ© ?]}
+{143}{}{Oui, j'ai rÃ©ussi. Maintenant, je demande en retour ton aide pour sauver mon peuple.}
+{144}{}{Sur les quais de Shitown, tu trouveras le PMV Valdez. Une fois Ã  bord du navire, dirige-toi vers la droite et monte au bureau du capitaine. Appuie sur le bouton Go et le pÃ©trolier t'emmÃ¨nera Ã  destination.}
 {145}{}{'Essi ! [Ce fut un plaisir, AHS-9. Je te souhaite tout ce qu'il y a de meilleur. Au revoir.]}
-{146}{}{Des vaisseaux volants ? Tu dois parler de l'Enclave et de ses hélicos.}
-{147}{}{Ouais, ça doit être ça.}
+{146}{}{Des vaisseaux volants ? Tu dois parler de l'Enclave et de ses hÃ©licos.}
+{147}{}{Ouais, Ã§a doit Ãªtre Ã§a.}
 {148}{}{L'Enclave ? L'Enclave, qui ?}
-{149}{}{Tu peux me croire, mon enfant, tu fais référence à l'Enclave.}
+{149}{}{Tu peux me croire, mon enfant, tu fais rÃ©fÃ©rence Ã  l'Enclave.}
 {150}{}{Ouais, d'accord. Comment faire pour les trouver ?}
-{151}{}{L'Enclave est le vestige d'un passé révolu, une neurodine n'a pas encore été purifiée. Elle possède des bases cachées partout dans l'ancienne Californie et son principal bastion se trouve à l'Ouest, par-delà les eaux.}
+{151}{}{L'Enclave est le vestige d'un passÃ© rÃ©volu, une neurodine n'a pas encore Ã©tÃ© purifiÃ©e. Elle possÃ¨de des bases cachÃ©es partout dans l'ancienne Californie et son principal bastion se trouve Ã  l'Ouest, par-delÃ  les eaux.}
 {152}{}{Comment dois-je faire pour y aller ?}
-{153}{}{Comment sais-tu tout ça ?}
-{154}{}{Ca, mon enfant, tu devras le découvrir par toi-même. Demande autour de toi et tu trouveras la vérité.}
+{153}{}{Comment sais-tu tout Ã§a ?}
+{154}{}{Ca, mon enfant, tu devras le dÃ©couvrir par toi-mÃªme. Demande autour de toi et tu trouveras la vÃ©ritÃ©.}
 {155}{}{Cela m'aide vraiment. J'ai d'autres questions.}
-{156}{}{Comment sais-tu tout ça ?}
+{156}{}{Comment sais-tu tout Ã§a ?}
 {157}{}{Allez va, salut.}
-{158}{}{Mon enfant, je suis AHS-9. Je vois beaucoup de choses qui se passent dans le monde charnel. As-tu d'autres questions ou puis-je retourner à mes méditations ?}
+{158}{}{Mon enfant, je suis AHS-9. Je vois beaucoup de choses qui se passent dans le monde charnel. As-tu d'autres questions ou puis-je retourner Ã  mes mÃ©ditations ?}
 {159}{}{J'ai d'autres questions.}
-{160}{}{Retourne à tes méditations, j'en ai fini.}
-{161}{}{As-tu tué l'Empereur et neutralisé ses larbins ?}
+{160}{}{Retourne Ã  tes mÃ©ditations, j'en ai fini.}
+{161}{}{As-tu tuÃ© l'Empereur et neutralisÃ© ses larbins ?}
 {162}{}{Oui.}
-{163}{}{Eh bien, maintenant, plus personne ne peut rester en travers de mon chemin ! Mais je ne veux pas être redevable envers un simple instrument. Adieu donc, et bon débarras.}
-{164}{}{Hé, tas de merde. Je vais te tuer le premier.}
-{165}{}{Oh. Eh bien, si c'est comme ça que ça doit se passer, au revoir.}
-{166}{}{Une lettre de l'Eclairée ? C'est comme ça qu'elle se fait appeler désormais ? Bah. [Il te prend la lettre.] Et elle a promis une récompense ? Voilà ma récompense : ma gratitude. Au revoir.}
+{163}{}{Eh bien, maintenant, plus personne ne peut rester en travers de mon chemin ! Mais je ne veux pas Ãªtre redevable envers un simple instrument. Adieu donc, et bon dÃ©barras.}
+{164}{}{HÃ©, tas de merde. Je vais te tuer le premier.}
+{165}{}{Oh. Eh bien, si c'est comme Ã§a que Ã§a doit se passer, au revoir.}
+{166}{}{Une lettre de l'EclairÃ©e ? C'est comme Ã§a qu'elle se fait appeler dÃ©sormais ? Bah. [Il te prend la lettre.] Et elle a promis une rÃ©compense ? VoilÃ  ma rÃ©compense : ma gratitude. Au revoir.}
 {167}{}{Quoi ? Vieillard, t'es un homme mort.}
 {168}{}{Euh, j'avais des questions.}
-{169}{}{Cool, très bien. Au revoir.}
-{170}{}{Pose tes questions à AHS-7. Je suis AHS-9 le Grand et le Terrible et j'ai de nombreuses préoccupations à l'esprit. Ne me dérange pas, infidèle.}
-{171}{}{Si tu ne réponds pas à mes questions, tu répondras à mes armes.}
+{169}{}{Cool, trÃ¨s bien. Au revoir.}
+{170}{}{Pose tes questions Ã  AHS-7. Je suis AHS-9 le Grand et le Terrible et j'ai de nombreuses prÃ©occupations Ã  l'esprit. Ne me dÃ©range pas, infidÃ¨le.}
+{171}{}{Si tu ne rÃ©ponds pas Ã  mes questions, tu rÃ©pondras Ã  mes armes.}
 {172}{}{Peu importe.}
-{173}{}{Ha, une lettre de mon agent. Quel dommage qu'elle se fasse appeler *l'Eclairée* ! Cela prouve qu'elle n'est vraiment pas éclairée. Je te remercie.}
-{174}{}{Pas de problème. J'ai cependant une ou deux questions à te poser.}
+{173}{}{Ha, une lettre de mon agent. Quel dommage qu'elle se fasse appeler *l'EclairÃ©e* ! Cela prouve qu'elle n'est vraiment pas Ã©clairÃ©e. Je te remercie.}
+{174}{}{Pas de problÃ¨me. J'ai cependant une ou deux questions Ã  te poser.}
 {175}{}{Formidable. Au revoir.}
 {176}{}{Oui, mon enfant ?}
-{177}{}{Quand le vaisseau spatial décolle-t-il ?}
+{177}{}{Quand le vaisseau spatial dÃ©colle-t-il ?}
 {178}{}{As-tu du travail pour moi ?}
-{179}{}{Où va tout l'argent que l'on offre ?}
+{179}{}{OÃ¹ va tout l'argent que l'on offre ?}
 {180}{}{Oh, rien. Laisse tomber.}
-{181}{}{Mon homologue, l'Empereur de Shitown, a fait de ma vie un désastre et j'aimerais que tu mettes un terme à cela. En échange de ce service, je veillerai à ce que tu puisses te rendre où tu le souhaites.}
+{181}{}{Mon homologue, l'Empereur de Shitown, a fait de ma vie un dÃ©sastre et j'aimerais que tu mettes un terme Ã  cela. En Ã©change de ce service, je veillerai Ã  ce que tu puisses te rendre oÃ¹ tu le souhaites.}
 {182}{}{Oui chef. A plus.}
-{183}{}{Je ne préfère pas.}
-{184}{}{Va voir Badger, sa présence caustique rassemble ces vagabonds minables à bord du pétrolier. Débarrasse-nous de lui. Et ensuite, va voir AHS-7.}
+{183}{}{Je ne prÃ©fÃ¨re pas.}
+{184}{}{Va voir Badger, sa prÃ©sence caustique rassemble ces vagabonds minables Ã  bord du pÃ©trolier. DÃ©barrasse-nous de lui. Et ensuite, va voir AHS-7.}
 {185}{}{Oui chef. A plus.}
-{186}{}{Je ne préfère pas.}
-{187}{}{Ce n'était pas une demande, mon petit. Tue-le !}
+{186}{}{Je ne prÃ©fÃ¨re pas.}
+{187}{}{Ce n'Ã©tait pas une demande, mon petit. Tue-le !}
 {188}{}{Non.}
-{189}{}{Très bien, je le ferai.}
-{190}{}{Tu désobéis aux ordres d'AHS-9 le Grand et le Terrible !?! Alors, tu dois mourir.}
+{189}{}{TrÃ¨s bien, je le ferai.}
+{190}{}{Tu dÃ©sobÃ©is aux ordres d'AHS-9 le Grand et le Terrible !?! Alors, tu dois mourir.}
 {191}{}{Vas-y.}
-{192}{}{Attends, j'ai changé d'avis.}
-{193}{}{Trop tard, infidèle. Tu as prouvé qu'on ne pouvait pas te faire confiance. Meurs !}
-{194}{}{[Terminé]}
-{195}{}{Il y a des choses que tu ne dois pas savoir pour le moment, mon enfant. [Il esquisse un léger sourire.]}
-{196}{}{Très bien. J'ai d'autres questions.}
+{192}{}{Attends, j'ai changÃ© d'avis.}
+{193}{}{Trop tard, infidÃ¨le. Tu as prouvÃ© qu'on ne pouvait pas te faire confiance. Meurs !}
+{194}{}{[TerminÃ©]}
+{195}{}{Il y a des choses que tu ne dois pas savoir pour le moment, mon enfant. [Il esquisse un lÃ©ger sourire.]}
+{196}{}{TrÃ¨s bien. J'ai d'autres questions.}
 {197}{}{Hum. Au revoir.}
-{198}{}{L'HSS Quetzel décollera lorsque les étoiles seront bien alignées.}
-{199}{}{Très bien. J'ai d'autres questions.}
+{198}{}{L'HSS Quetzel dÃ©collera lorsque les Ã©toiles seront bien alignÃ©es.}
+{199}{}{TrÃ¨s bien. J'ai d'autres questions.}
 {200}{}{Merci. Au revoir.}
 {201}{}{A en juger par ton aura, tu es ici avec l'intention de me nuire. Dis-moi, mon enfant, veux-tu tirer parti du risque que tu as pris ?}
 {202}{}{Oui.}
 {203}{}{Non.}
-{204}{}{Non, je veux juste que tu crèves.}
-{205}{}{Bon alors, voilà ce que je te propose. Retourne chez les Shis et élimine Ken Lee et l'Empereur. Pour te récompenser, je te donnerai plus d'argent que tu n'en as jamais rêvé.}
+{204}{}{Non, je veux juste que tu crÃ¨ves.}
+{205}{}{Bon alors, voilÃ  ce que je te propose. Retourne chez les Shis et Ã©limine Ken Lee et l'Empereur. Pour te rÃ©compenser, je te donnerai plus d'argent que tu n'en as jamais rÃªvÃ©.}
 {206}{}{Non, je ne crois pas.}
-{207}{}{Marché conclu, gros lard.}
-{208}{}{Alors va, et châtie ces âmes désagréables. J'attends des nouvelles de ta réussite. [Il sourit béatement.]}
+{207}{}{MarchÃ© conclu, gros lard.}
+{208}{}{Alors va, et chÃ¢tie ces Ã¢mes dÃ©sagrÃ©ables. J'attends des nouvelles de ta rÃ©ussite. [Il sourit bÃ©atement.]}
 {209}{}{Au revoir.}
-{210}{}{Non, attends, j'ai changé d'avis. Je veux te buter finalement.}
-{211}{}{Ha, mon enfant, comment as-tu pu t'éloigner autant du chemin de la vérité ? Je vois à ton aura que tu envisages de me tuer. Je suis extrêmement déçu. Extrêmement. Allez ! Laisse-nous continuer.}
+{210}{}{Non, attends, j'ai changÃ© d'avis. Je veux te buter finalement.}
+{211}{}{Ha, mon enfant, comment as-tu pu t'Ã©loigner autant du chemin de la vÃ©ritÃ© ? Je vois Ã  ton aura que tu envisages de me tuer. Je suis extrÃªmement dÃ©Ã§u. ExtrÃªmement. Allez ! Laisse-nous continuer.}
 {212}{}{Oui, allez, meurs.}
-{213}{}{N'oublie pas que tu devras aller voir AHS-7 après avoir mené à bien ta tâche.}
-{214}{}{Tous nos besoins ont été satisfaits. Il est maintenant temps pour moi de méditer.}
+{213}{}{N'oublie pas que tu devras aller voir AHS-7 aprÃ¨s avoir menÃ© Ã  bien ta tÃ¢che.}
+{214}{}{Tous nos besoins ont Ã©tÃ© satisfaits. Il est maintenant temps pour moi de mÃ©diter.}

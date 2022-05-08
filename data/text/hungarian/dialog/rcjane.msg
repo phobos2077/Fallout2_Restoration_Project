@@ -1,183 +1,183 @@
-{100}{}{Egy nyers, de széles mosolyú n?t látsz.}
-{101}{}{Jackpot Jane-t, az állatviadalok szervez?jét látod.}
-{102}{}{Egy határozott n?t látsz, éles szeme minden részletre odafigyel.}
-{103}{}{Üdv, barátom! Az állatviadalt jöttél megnézni?}
-{104}{}{Óóóó. Sz?rmi.}
+{100}{}{Egy nyers, de szÃ©les mosolyÃº n?t lÃ¡tsz.}
+{101}{}{Jackpot Jane-t, az Ã¡llatviadalok szervez?jÃ©t lÃ¡tod.}
+{102}{}{Egy hatÃ¡rozott n?t lÃ¡tsz, Ã©les szeme minden rÃ©szletre odafigyel.}
+{103}{}{Ãœdv, barÃ¡tom! Az Ã¡llatviadalt jÃ¶ttÃ©l megnÃ©zni?}
+{104}{}{Ã“Ã³Ã³Ã³. Sz?rmi.}
 {105}{}{Csini sz?r.}
-{106}{}{Á, már értem. Új lehetsz a városban. Na, idefigyelj. A holnapi meccsre, csak neked külön speciális tétet ajánlok. Elfogadod?}
+{106}{}{Ã, mÃ¡r Ã©rtem. Ãšj lehetsz a vÃ¡rosban. Na, idefigyelj. A holnapi meccsre, csak neked kÃ¼lÃ¶n speciÃ¡lis tÃ©tet ajÃ¡nlok. Elfogadod?}
 {107}{}{(You nod) Ook, ook. (and hold out your purse)}
-{108}{}{Múúk? Gaga. Pá sz?rmi.}
-{109}{}{Jó ötlet. Gyere vissza holnap és ha nyer a jószágod, adok neked pénzt. Jó lesz?}
-{110}{}{Oké, jól léptél. Garantálom, hogy egy igazi különleges fogadást csinálok neked. Viszlát!}
+{108}{}{MÃºÃºk? Gaga. PÃ¡ sz?rmi.}
+{109}{}{JÃ³ Ã¶tlet. Gyere vissza holnap Ã©s ha nyer a jÃ³szÃ¡god, adok neked pÃ©nzt. JÃ³ lesz?}
+{110}{}{OkÃ©, jÃ³l lÃ©ptÃ©l. GarantÃ¡lom, hogy egy igazi kÃ¼lÃ¶nleges fogadÃ¡st csinÃ¡lok neked. ViszlÃ¡t!}
 {111}{}{Nyer?}
-{112}{}{Oké... pá, pá.}
-{113}{}{Nem, attól tartok nem. De a következ?re igazán jó megérzésem van. Akarsz egy újabb speciális fogadást?}
-{114}{}{Oké. Danku. (biccentesz és felé nyújtod a tárcád)}
-{115}{}{Búúú? Pá.}
-{116}{}{Igazán sajnálom, de nincs semmid, amivel fogadhatnál. Gyere vissza, ha összekapartál pár fityinget!}
-{117}{}{Oké, csini, csini. Csá!}
-{118}{}{Legyél minden nap dél körül a karámnál!}
-{119}{}{Most nincs meccs, legyél délben a karámnál!}
-{120}{}{Most éppen nem történik semmi.}
-{121}{}{Délig várnod kell a meccsekre. Most hagyj magamra!}
-{122}{}{Hé, te! Találkozunk a karámnál, vagy t?nj el innen!}
-{123}{}{Ez ígéretesnek látszik, emberek. Komolyan méregetik egymást.}
-{124}{}{Néhány jó mozdulatból meg lehet mondani, ezek ketten már korábban is csináltak ilyesmit.}
-{125}{}{Jó kör, jó kör! Nagyon gy?lölik egymást abban a karámban.}
-{126}{}{El tudod képzelni ennek a kett?nek az állóképességét? Ezek aztán b?ven tudnak adni is, kapni is.}
-{127}{}{Micsoda alávágás! Ez aztán fájhatott!}
-{128}{}{Ó igen! Testet soroz, testet soroz!}
-{129}{}{Nem hiszem, hogy látta volna, mi jön. Szerencsés lépés volt.}
-{130}{}{Ajjaj! Ez nagyon fájhatott!}
-{131}{}{Most jön majd az igazi büntetés, emberek!}
-{132}{}{Szép mozgás, jó mancsmunka!}
-{133}{}{Testre megy. Jól mozog, emberek!}
-{134}{}{Szép kombináció! Született bajnok ez!}
-{135}{}{Ez az, bal-jobb kombináció, megperdíti az ellenfelet!}
-{136}{}{Ez a két pofozógép lucskosra hajtja magát!}
-{137}{}{Nézd ezt a sok vért és még mindig folytatják! Micsoda harc!}
-{138}{}{Ez az a látványosság, aminek a kedvéért ide jöttetek! Klasszikus mozdulatok, klasszikus mozdulatok.}
-{139}{}{Rajta, adj a pofájának! Ez igen, ez aztán fog vérezni!}
-{140}{}{Láttad, milyen messze fröccsent a vére annak? Hú, micsoda er?!}
-{141}{}{Úgy mozog, mint az olajozott villám! Nézd, hogy tépi ki a húst!}
-{142}{}{Nézd csak a szerterepül? húscafatokat mindenfelé! Az a kett? aztán ad egymásnak!}
-{143}{}{Helló, Jackpot Jane vagyok, én rendezem az állatviadalokat a városban. Azért jöttél, hogy fogadj az els?dleges látványosságaink egyikére? Állat állat ellen, a legdurvább formában...}
-{144}{}{Gyere közelebb, tedd meg a téted! Melyik lesz?}
-{145}{}{Öö, mi folyik itt?}
-{146}{}{Fogadni szeretnék.}
-{147}{}{Szerintem ezeket a meccseket megbundázzák.}
-{148}{}{Csak nézel?döm. Viszlát!}
-{149}{}{Ez igazán egyszer?: nem csalás, nem ámítás, kett?t az itt látható rettenetes bestiák közül beterelünk a ringbe. Másodpercek múlva tanúja lehetsz Természet Anyánk nyers erejének.}
-{150}{}{Mi köze van Természet Anyánknak ehhez?}
-{151}{}{És tudok ebb?l valahogy pénzt csinálni?}
-{152}{}{Jöjjön, mindenki jöjjön, nézzék az ÉVSZÁZAD CSATÁJÁT!}
-{153}{}{Jöjjön és tegye meg pénzét a GY?ZTESRE!}
-{154}{}{Nézzék a bestiák titáni küzdelmét!}
-{155}{}{Tegyék meg tétjeiket, miel?tt zárjuk a fogadást! Ne habozzon, nehogy lemaradjon!}
-{156}{}{Vigyázzon a szétfröccsen? vérre és belekre! A vezetés nem vállal felel?sséget a foltokért!}
-{157}{}{Naponta több ezer dollár nyereményt osztunk szét!}
-{158}{}{Csinálja meg a saját aranybányáját! Csak itt és most!}
-{159}{}{Nézze meg a nap párbaját!}
-{160}{}{Vadállatok küzdenek, és csak d?l a pénz! IMÁDNI FOGJA!}
-{161}{}{Hozzák csak a feszül? pénztárcákat és a még feszültebb elvárásaikat! ERRE-ERRE!}
+{112}{}{OkÃ©... pÃ¡, pÃ¡.}
+{113}{}{Nem, attÃ³l tartok nem. De a kÃ¶vetkez?re igazÃ¡n jÃ³ megÃ©rzÃ©sem van. Akarsz egy Ãºjabb speciÃ¡lis fogadÃ¡st?}
+{114}{}{OkÃ©. Danku. (biccentesz Ã©s felÃ© nyÃºjtod a tÃ¡rcÃ¡d)}
+{115}{}{BÃºÃºÃº? PÃ¡.}
+{116}{}{IgazÃ¡n sajnÃ¡lom, de nincs semmid, amivel fogadhatnÃ¡l. Gyere vissza, ha Ã¶sszekapartÃ¡l pÃ¡r fityinget!}
+{117}{}{OkÃ©, csini, csini. CsÃ¡!}
+{118}{}{LegyÃ©l minden nap dÃ©l kÃ¶rÃ¼l a karÃ¡mnÃ¡l!}
+{119}{}{Most nincs meccs, legyÃ©l dÃ©lben a karÃ¡mnÃ¡l!}
+{120}{}{Most Ã©ppen nem tÃ¶rtÃ©nik semmi.}
+{121}{}{DÃ©lig vÃ¡rnod kell a meccsekre. Most hagyj magamra!}
+{122}{}{HÃ©, te! TalÃ¡lkozunk a karÃ¡mnÃ¡l, vagy t?nj el innen!}
+{123}{}{Ez Ã­gÃ©retesnek lÃ¡tszik, emberek. Komolyan mÃ©regetik egymÃ¡st.}
+{124}{}{NÃ©hÃ¡ny jÃ³ mozdulatbÃ³l meg lehet mondani, ezek ketten mÃ¡r korÃ¡bban is csinÃ¡ltak ilyesmit.}
+{125}{}{JÃ³ kÃ¶r, jÃ³ kÃ¶r! Nagyon gy?lÃ¶lik egymÃ¡st abban a karÃ¡mban.}
+{126}{}{El tudod kÃ©pzelni ennek a kett?nek az Ã¡llÃ³kÃ©pessÃ©gÃ©t? Ezek aztÃ¡n b?ven tudnak adni is, kapni is.}
+{127}{}{Micsoda alÃ¡vÃ¡gÃ¡s! Ez aztÃ¡n fÃ¡jhatott!}
+{128}{}{Ã“ igen! Testet soroz, testet soroz!}
+{129}{}{Nem hiszem, hogy lÃ¡tta volna, mi jÃ¶n. SzerencsÃ©s lÃ©pÃ©s volt.}
+{130}{}{Ajjaj! Ez nagyon fÃ¡jhatott!}
+{131}{}{Most jÃ¶n majd az igazi bÃ¼ntetÃ©s, emberek!}
+{132}{}{SzÃ©p mozgÃ¡s, jÃ³ mancsmunka!}
+{133}{}{Testre megy. JÃ³l mozog, emberek!}
+{134}{}{SzÃ©p kombinÃ¡ciÃ³! SzÃ¼letett bajnok ez!}
+{135}{}{Ez az, bal-jobb kombinÃ¡ciÃ³, megperdÃ­ti az ellenfelet!}
+{136}{}{Ez a kÃ©t pofozÃ³gÃ©p lucskosra hajtja magÃ¡t!}
+{137}{}{NÃ©zd ezt a sok vÃ©rt Ã©s mÃ©g mindig folytatjÃ¡k! Micsoda harc!}
+{138}{}{Ez az a lÃ¡tvÃ¡nyossÃ¡g, aminek a kedvÃ©Ã©rt ide jÃ¶ttetek! Klasszikus mozdulatok, klasszikus mozdulatok.}
+{139}{}{Rajta, adj a pofÃ¡jÃ¡nak! Ez igen, ez aztÃ¡n fog vÃ©rezni!}
+{140}{}{LÃ¡ttad, milyen messze frÃ¶ccsent a vÃ©re annak? HÃº, micsoda er?!}
+{141}{}{Ãšgy mozog, mint az olajozott villÃ¡m! NÃ©zd, hogy tÃ©pi ki a hÃºst!}
+{142}{}{NÃ©zd csak a szerterepÃ¼l? hÃºscafatokat mindenfelÃ©! Az a kett? aztÃ¡n ad egymÃ¡snak!}
+{143}{}{HellÃ³, Jackpot Jane vagyok, Ã©n rendezem az Ã¡llatviadalokat a vÃ¡rosban. AzÃ©rt jÃ¶ttÃ©l, hogy fogadj az els?dleges lÃ¡tvÃ¡nyossÃ¡gaink egyikÃ©re? Ãllat Ã¡llat ellen, a legdurvÃ¡bb formÃ¡ban...}
+{144}{}{Gyere kÃ¶zelebb, tedd meg a tÃ©ted! Melyik lesz?}
+{145}{}{Ã–Ã¶, mi folyik itt?}
+{146}{}{Fogadni szeretnÃ©k.}
+{147}{}{Szerintem ezeket a meccseket megbundÃ¡zzÃ¡k.}
+{148}{}{Csak nÃ©zel?dÃ¶m. ViszlÃ¡t!}
+{149}{}{Ez igazÃ¡n egyszer?: nem csalÃ¡s, nem Ã¡mÃ­tÃ¡s, kett?t az itt lÃ¡thatÃ³ rettenetes bestiÃ¡k kÃ¶zÃ¼l beterelÃ¼nk a ringbe. MÃ¡sodpercek mÃºlva tanÃºja lehetsz TermÃ©szet AnyÃ¡nk nyers erejÃ©nek.}
+{150}{}{Mi kÃ¶ze van TermÃ©szet AnyÃ¡nknak ehhez?}
+{151}{}{Ã‰s tudok ebb?l valahogy pÃ©nzt csinÃ¡lni?}
+{152}{}{JÃ¶jjÃ¶n, mindenki jÃ¶jjÃ¶n, nÃ©zzÃ©k az Ã‰VSZÃZAD CSATÃJÃT!}
+{153}{}{JÃ¶jjÃ¶n Ã©s tegye meg pÃ©nzÃ©t a GY?ZTESRE!}
+{154}{}{NÃ©zzÃ©k a bestiÃ¡k titÃ¡ni kÃ¼zdelmÃ©t!}
+{155}{}{TegyÃ©k meg tÃ©tjeiket, miel?tt zÃ¡rjuk a fogadÃ¡st! Ne habozzon, nehogy lemaradjon!}
+{156}{}{VigyÃ¡zzon a szÃ©tfrÃ¶ccsen? vÃ©rre Ã©s belekre! A vezetÃ©s nem vÃ¡llal felel?ssÃ©get a foltokÃ©rt!}
+{157}{}{Naponta tÃ¶bb ezer dollÃ¡r nyeremÃ©nyt osztunk szÃ©t!}
+{158}{}{CsinÃ¡lja meg a sajÃ¡t aranybÃ¡nyÃ¡jÃ¡t! Csak itt Ã©s most!}
+{159}{}{NÃ©zze meg a nap pÃ¡rbajÃ¡t!}
+{160}{}{VadÃ¡llatok kÃ¼zdenek, Ã©s csak d?l a pÃ©nz! IMÃDNI FOGJA!}
+{161}{}{HozzÃ¡k csak a feszÃ¼l? pÃ©nztÃ¡rcÃ¡kat Ã©s a mÃ©g feszÃ¼ltebb elvÃ¡rÃ¡saikat! ERRE-ERRE!}
 {162}{}{T?nj a francba!}
-{163}{}{Az ilyen pénzkereset engem nem érdekel!}
-{164}{}{Vidd máshova!}
-{165}{}{Egyszer?en tartsd távol magad a karámomtól!}
-{166}{}{Nem érdekel a pénzed.}
-{167}{}{Nahát, ahogy mondtam, a két jószág nekiesik egymásnak, de olyan elszánt dühvel, amilyet még ember nem pipált a hatalmas gépek megjelenése óta!}
-{168}{}{Hatalmas gépek?}
-{169}{}{Öö igen, és aztán?}
+{163}{}{Az ilyen pÃ©nzkereset engem nem Ã©rdekel!}
+{164}{}{Vidd mÃ¡shova!}
+{165}{}{Egyszer?en tartsd tÃ¡vol magad a karÃ¡momtÃ³l!}
+{166}{}{Nem Ã©rdekel a pÃ©nzed.}
+{167}{}{NahÃ¡t, ahogy mondtam, a kÃ©t jÃ³szÃ¡g nekiesik egymÃ¡snak, de olyan elszÃ¡nt dÃ¼hvel, amilyet mÃ©g ember nem pipÃ¡lt a hatalmas gÃ©pek megjelenÃ©se Ã³ta!}
+{168}{}{Hatalmas gÃ©pek?}
+{169}{}{Ã–Ã¶ igen, Ã©s aztÃ¡n?}
 {170}{}{OK, listen, pal, would it help if I said - The likes of which haven't been seen since the great thunder lizards roamed the earth. Is that what tweaks your twinky? So you in or out? (aside) Jeez, everyone's a critic these days.}
-{171}{}{Öö, azt hiszem, beszállok.}
-{172}{}{A nagy gyíkok megrémítenek. Jobb, ha távol maradok ett?l. Viszlát! (magadnak: H?, ez szoros volt!)}
-{173}{}{A sport-része a dolognak a fogadás a meccs kimenetelére. Úgy m?ködik, hogy szólsz nekem, hogy fogadni akarsz. Én megmondom, hogy melyik két jószág fog küzdeni a következ? körben, te meg megmondod, hogy melyikre teszed a pénzed.}
-{174}{}{Utána?}
+{171}{}{Ã–Ã¶, azt hiszem, beszÃ¡llok.}
+{172}{}{A nagy gyÃ­kok megrÃ©mÃ­tenek. Jobb, ha tÃ¡vol maradok ett?l. ViszlÃ¡t! (magadnak: H?, ez szoros volt!)}
+{173}{}{A sport-rÃ©sze a dolognak a fogadÃ¡s a meccs kimenetelÃ©re. Ãšgy m?kÃ¶dik, hogy szÃ³lsz nekem, hogy fogadni akarsz. Ã‰n megmondom, hogy melyik kÃ©t jÃ³szÃ¡g fog kÃ¼zdeni a kÃ¶vetkez? kÃ¶rben, te meg megmondod, hogy melyikre teszed a pÃ©nzed.}
+{174}{}{UtÃ¡na?}
 {175}{}{Simple, if your critter wins you double your money. TRIPLE in the event of a first-round takedown! If your critter loses, then your money belongs to me. There are usually several fights each day. Until the stock of critters runs low, you can bet on all of 'em. But just one bet per fight. Oh, yeah, just to keep things nice an' easy, all bets are $100.}
-{176}{}{Oké, felfogtam. Hadd próbáljam meg!}
-{177}{}{Értem. Hmm, azt hiszem, majd máskor próbálkozom. Viszlát!}
+{176}{}{OkÃ©, felfogtam. Hadd prÃ³bÃ¡ljam meg!}
+{177}{}{Ã‰rtem. Hmm, azt hiszem, majd mÃ¡skor prÃ³bÃ¡lkozom. ViszlÃ¡t!}
 {178}{}{Ez igazi pofonorgia lesz. }
-{179}{}{ és kihívója }
-{180}{}{ és még gy?lölik is egymást! Melyikre fogadsz?}
-{181}{}{Ez egy igazi, vérre men? meccs lesz! A legjobbak legjobbja }
-{182}{}{ és }
-{183}{}{. Melyikre teszed a pénzed?}
-{184}{}{Soha nem voltam még ilyen közel a mérk?z?khöz. }
-{185}{}{ és }
-{186}{}{ küzd ebben a körben. Jó harc lesz. Melyikre teszed a pénzed?}
+{179}{}{ Ã©s kihÃ­vÃ³ja }
+{180}{}{ Ã©s mÃ©g gy?lÃ¶lik is egymÃ¡st! Melyikre fogadsz?}
+{181}{}{Ez egy igazi, vÃ©rre men? meccs lesz! A legjobbak legjobbja }
+{182}{}{ Ã©s }
+{183}{}{. Melyikre teszed a pÃ©nzed?}
+{184}{}{Soha nem voltam mÃ©g ilyen kÃ¶zel a mÃ©rk?z?khÃ¶z. }
+{185}{}{ Ã©s }
+{186}{}{ kÃ¼zd ebben a kÃ¶rben. JÃ³ harc lesz. Melyikre teszed a pÃ©nzed?}
 {187}{}{Bajnok }
-{188}{}{ és ellenfele }
-{189}{}{. Micsoda meccs! Melyik lesz ma a szerencseszámod?}
-{190}{}{Oké, mehet a menet.}
-{191}{}{ ellenfele a jó öreg }
-{192}{}{. Ilyen küzdelmet nem látsz egyhamar. Mi tetszik?}
+{188}{}{ Ã©s ellenfele }
+{189}{}{. Micsoda meccs! Melyik lesz ma a szerencseszÃ¡mod?}
+{190}{}{OkÃ©, mehet a menet.}
+{191}{}{ ellenfele a jÃ³ Ã¶reg }
+{192}{}{. Ilyen kÃ¼zdelmet nem lÃ¡tsz egyhamar. Mi tetszik?}
 {193}{}{Legyen mondjuk }
 {194}{}{ vagyok.}
 {195}{}{Legyen mondjuk }
 {196}{}{ vagyok.}
 {197}{}{Hmm, azt hiszem, ezt most kihagyom.}
-{198}{}{Azt hiszem, mára elegem van ebb?l. Valamikor még visszajövök. Viszlát!}
-{199}{}{És most jössz te, bajnok. Itt a nyereményed. Ez volt ma az utolsó menet. Ha még több izgalomra vágysz, gyere vissza holnap!}
-{200}{}{Folytatjuk. Akarsz fogadni a következ? meccsre?}
-{201}{}{Úgy teszek.}
-{202}{}{Azt hiszem, a következ?t kihagyom.}
-{203}{}{Figyelj, senki sem kényszerít, hogy fogadj rájuk, nem? Ha nem tetszik, amit látsz, állj csak arrébb, nem fogsz hiányozni! Megértetted?}
-{204}{}{Értem.}
-{205}{}{Micsoda lövés!}
+{198}{}{Azt hiszem, mÃ¡ra elegem van ebb?l. Valamikor mÃ©g visszajÃ¶vÃ¶k. ViszlÃ¡t!}
+{199}{}{Ã‰s most jÃ¶ssz te, bajnok. Itt a nyeremÃ©nyed. Ez volt ma az utolsÃ³ menet. Ha mÃ©g tÃ¶bb izgalomra vÃ¡gysz, gyere vissza holnap!}
+{200}{}{Folytatjuk. Akarsz fogadni a kÃ¶vetkez? meccsre?}
+{201}{}{Ãšgy teszek.}
+{202}{}{Azt hiszem, a kÃ¶vetkez?t kihagyom.}
+{203}{}{Figyelj, senki sem kÃ©nyszerÃ­t, hogy fogadj rÃ¡juk, nem? Ha nem tetszik, amit lÃ¡tsz, Ã¡llj csak arrÃ©bb, nem fogsz hiÃ¡nyozni! MegÃ©rtetted?}
+{204}{}{Ã‰rtem.}
+{205}{}{Micsoda lÃ¶vÃ©s!}
 {206}{}{ lenyomta }
-{207}{}{ fiút a legels? menetben! Micsoda meccs!}
-{208}{}{H?, ez szoros volt, de a nap utolsó meccsén }
-{209}{}{ nyert. Mindenkit kifizetek, de jöjjenek vissza holnap is. Újabb nagyszer? küzdelmek várhatók!}
-{210}{}{Micsoda vérfürd?! Nem is emlékszem, mikor láttam ilyen küzdelmet! A gy?ztes }
-{211}{}{. Hadd fizessek ki mindenkit, aztán jöhet a következ? kör.}
-{212}{}{ nyerte ezt a kört! Kezeket, izé karmokat le! Hadd fizessek ki mindenkit, aztán jöhet a következ? kör.}
-{213}{}{És a nyeeerteees... }
-{214}{}{ vért?l csöpög? karmai által. Hadd fizessek ki mindenkit, aztán jöhet a következ? kör.}
-{215}{}{Csak azt akartam mondani, hogy Ascorti-nál különleges izé, "sült" lesz ma este. Mindjárt jövök, csak kihúzzuk a vesztest a porondról. }
-{216}{}{ nyerte ezt a küzdelmet! Hadd fizessek ki mindenkit, aztán jöhet a következ? kör.}
-{217}{}{Úgy néz ki, hogy }
-{218}{}{ nyert. Ekkora zakót még nem láttam. Hadd fizessek ki mindenkit, aztán jöhet a következ? kör.}
-{219}{}{Juhé! Nyertem!}
+{207}{}{ fiÃºt a legels? menetben! Micsoda meccs!}
+{208}{}{H?, ez szoros volt, de a nap utolsÃ³ meccsÃ©n }
+{209}{}{ nyert. Mindenkit kifizetek, de jÃ¶jjenek vissza holnap is. Ãšjabb nagyszer? kÃ¼zdelmek vÃ¡rhatÃ³k!}
+{210}{}{Micsoda vÃ©rfÃ¼rd?! Nem is emlÃ©kszem, mikor lÃ¡ttam ilyen kÃ¼zdelmet! A gy?ztes }
+{211}{}{. Hadd fizessek ki mindenkit, aztÃ¡n jÃ¶het a kÃ¶vetkez? kÃ¶r.}
+{212}{}{ nyerte ezt a kÃ¶rt! Kezeket, izÃ© karmokat le! Hadd fizessek ki mindenkit, aztÃ¡n jÃ¶het a kÃ¶vetkez? kÃ¶r.}
+{213}{}{Ã‰s a nyeeerteees... }
+{214}{}{ vÃ©rt?l csÃ¶pÃ¶g? karmai Ã¡ltal. Hadd fizessek ki mindenkit, aztÃ¡n jÃ¶het a kÃ¶vetkez? kÃ¶r.}
+{215}{}{Csak azt akartam mondani, hogy Ascorti-nÃ¡l kÃ¼lÃ¶nleges izÃ©, "sÃ¼lt" lesz ma este. MindjÃ¡rt jÃ¶vÃ¶k, csak kihÃºzzuk a vesztest a porondrÃ³l. }
+{216}{}{ nyerte ezt a kÃ¼zdelmet! Hadd fizessek ki mindenkit, aztÃ¡n jÃ¶het a kÃ¶vetkez? kÃ¶r.}
+{217}{}{Ãšgy nÃ©z ki, hogy }
+{218}{}{ nyert. Ekkora zakÃ³t mÃ©g nem lÃ¡ttam. Hadd fizessek ki mindenkit, aztÃ¡n jÃ¶het a kÃ¶vetkez? kÃ¶r.}
+{219}{}{JuhÃ©! Nyertem!}
 {220}{}{Ez az! Ez a nyer?!}
-{221}{}{Valódi tehetségem van ehhez.}
-{222}{}{Tudom én, melyik .}
+{221}{}{ValÃ³di tehetsÃ©gem van ehhez.}
+{222}{}{Tudom Ã©n, melyik .}
 {223}{}{A francba, vesztettem!}
-{224}{}{Szerencsés voltam.}
+{224}{}{SzerencsÃ©s voltam.}
 {225}{}{Mehetett volna jobban is.}
-{226}{}{Talán legközelebb jobban választok.}
-{227}{}{Még jó, hogy nem fogadtam rá.}
-{228}{}{Örülök, hogy a pénzemnél vagyok.}
-{229}{}{Sokba került volna nekem.}
-{230}{}{Jó harc volt, de azért örülök, hogy nem fogadtam.}
-{231}{}{Oké, köszönöm.}
-{300}{}{Éles Sikoly}
+{226}{}{TalÃ¡n legkÃ¶zelebb jobban vÃ¡lasztok.}
+{227}{}{MÃ©g jÃ³, hogy nem fogadtam rÃ¡.}
+{228}{}{Ã–rÃ¼lÃ¶k, hogy a pÃ©nzemnÃ©l vagyok.}
+{229}{}{Sokba kerÃ¼lt volna nekem.}
+{230}{}{JÃ³ harc volt, de azÃ©rt Ã¶rÃ¼lÃ¶k, hogy nem fogadtam.}
+{231}{}{OkÃ©, kÃ¶szÃ¶nÃ¶m.}
+{300}{}{Ã‰les Sikoly}
 {301}{}{Vicky}
-{302}{}{Tüske}
+{302}{}{TÃ¼ske}
 {303}{}{Doug}
-{304}{}{Sápadtvölgy}
+{304}{}{SÃ¡padtvÃ¶lgy}
 {305}{}{Marengo}
 {306}{}{Jackelope}
 {307}{}{Gyilkos}
-{308}{}{F?nök}
+{308}{}{F?nÃ¶k}
 {310}{}{Tanker}
 {311}{}{Dinka}
 {312}{}{Krumpli}
 {313}{}{Larry}
 {314}{}{Joe}
 {315}{}{Kong}
-{316}{}{Gorgó}
+{316}{}{GorgÃ³}
 {317}{}{Willard}
 {318}{}{Ben}
-{320}{}{Féllábú}
-{321}{}{Aprító}
+{320}{}{FÃ©llÃ¡bÃº}
+{321}{}{AprÃ­tÃ³}
 {322}{}{Hasfelmetsz?}
 {323}{}{Skree}
 {324}{}{Buban}
 {325}{}{Bongo}
-{326}{}{Félszem?}
-{327}{}{Pötty}
+{326}{}{FÃ©lszem?}
+{327}{}{PÃ¶tty}
 {328}{}{Lord Wiggler}
-{330}{}{Szerencsés}
+{330}{}{SzerencsÃ©s}
 {331}{}{Nagy Zoroaszter}
 {332}{}{Shub}
 {333}{}{Usuthu}
-{334}{}{Morgó}
+{334}{}{MorgÃ³}
 {335}{}{Puggsly}
-{336}{}{Drágaságom}
+{336}{}{DrÃ¡gasÃ¡gom}
 {337}{}{Fraggle}
-{338}{}{Éjfél Kapitány}
-{340}{}{Kalapács}
-{341}{}{Titkár}
+{338}{}{Ã‰jfÃ©l KapitÃ¡ny}
+{340}{}{KalapÃ¡cs}
+{341}{}{TitkÃ¡r}
 {342}{}{Fegyveres}
 {343}{}{Sancho Panza}
 {344}{}{Loki}
 {345}{}{Cerberusz}
 {346}{}{Grendel}
 {347}{}{Lady Penelope}
-{348}{}{Zsákos Úr}
-{350}{}{Villám}
+{348}{}{ZsÃ¡kos Ãšr}
+{350}{}{VillÃ¡m}
 {351}{}{Percy}
-{352}{}{Virág}
+{352}{}{VirÃ¡g}
 {353}{}{Rumplestiltskin}
 {354}{}{Shagrat}
 {355}{}{Muktar}

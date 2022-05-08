@@ -1,70 +1,70 @@
 {100}{}{Ves a Frenchy.}
 {101}{}{Ves a Paine.}
 {102}{}{Ves a Sims.}
-{150}{}{Ves a un hombre harapiento. Está acurrucado cerca de un bidón con fuego, cantando. Tiene una voz muy bonita.}
-{151}{}{Ves a un cantante. Está acurrucado cerca de un bidón con fuego, cantando.}
+{150}{}{Ves a un hombre harapiento. EstÃ¡ acurrucado cerca de un bidÃ³n con fuego, cantando. Tiene una voz muy bonita.}
+{151}{}{Ves a un cantante. EstÃ¡ acurrucado cerca de un bidÃ³n con fuego, cantando.}
 {200}{}{Eh...}
-{203}{}{¿Te ayudamos en algo, hijo?}
-{204}{}{::Se toca un sombrero imaginario.:: ¿Te ayudamos en algo, señora?}
-{205}{}{¿Conocéis 'Rema rema bote río abajo'?}
-{206}{}{¿Podríais… podríais cantar 'Noventa y nueve botellas de cerveza en la pared'?}
+{203}{}{Â¿Te ayudamos en algo, hijo?}
+{204}{}{::Se toca un sombrero imaginario.:: Â¿Te ayudamos en algo, seÃ±ora?}
+{205}{}{Â¿ConocÃ©is 'Rema rema bote rÃ­o abajo'?}
+{206}{}{Â¿PodrÃ­aisâ€¦ podrÃ­ais cantar 'Noventa y nueve botellas de cerveza en la pared'?}
 {207}{}{Nooo marcho ahora}
-{208}{}{Estaría honrado si lo hicierais. Gracias, muchachos.}
-{209}{}{Ahí van un par de pavos. ¿Puedes cantar otra cosa?}
-{210}{}{No, sólo escuchar, gracias.}
-{300}{}{De acuerdo entonces… ya habéis oído al caballero, muchachos. Probemos otra cosa.}
-{301}{}{De acuerdo entonces… ya habéis oído a la dama, muchachos. Probemos otra cosa.}
+{208}{}{EstarÃ­a honrado si lo hicierais. Gracias, muchachos.}
+{209}{}{AhÃ­ van un par de pavos. Â¿Puedes cantar otra cosa?}
+{210}{}{No, sÃ³lo escuchar, gracias.}
+{300}{}{De acuerdo entoncesâ€¦ ya habÃ©is oÃ­do al caballero, muchachos. Probemos otra cosa.}
+{301}{}{De acuerdo entoncesâ€¦ ya habÃ©is oÃ­do a la dama, muchachos. Probemos otra cosa.}
 {302}{}{Graciasss.}
 {303}{}{Gracias, muchachos.}
 {400}{}{Oooooh}
-{402}{}{Mi chica no volvió a casa...}
+{402}{}{Mi chica no volviÃ³ a casa...}
 {405}{}{Mi chica no lo hizo bieeeeeen...}
 {408}{}{Mi chica se fue y me abandonooooo...}
 {409}{}{}
 {500}{}{Bien.}
 {501}{}{Siente el dolor}
-{502}{}{Ven de nuevo algún otro día}
+{502}{}{Ven de nuevo algÃºn otro dÃ­a}
 {503}{}{}
 {600}{}{ Botellas de cerveza en la pared...}
 {601}{}{ Botellas de cerveza...}
 {602}{}{Abre una...}
-{603}{}{Pásala...}
+{603}{}{PÃ¡sala...}
 {605}{}{}
 {700}{}{Rema Rema Rema}
 {701}{}{Tu Bote}
 {702}{}{Suavemente baja la Corriente}
 {703}{}{Alegremente}
-{706}{}{La vida es como un sueño...}
+{706}{}{La vida es como un sueÃ±o...}
 {707}{}{}
-{800}{}{No necesitamos otro héroe...}
+{800}{}{No necesitamos otro hÃ©roe...}
 {801}{}{No necesitamos saber el camino a casa...}
-{802}{}{Todo lo que necesitamos está más allá...}
+{802}{}{Todo lo que necesitamos estÃ¡ mÃ¡s allÃ¡...}
 {803}{}{Metadona}
 {804}{}{}
 {900}{}{Dame}
-{901}{}{Un beso para construir un sueño}
-{902}{}{Y mi imaginación}
-{903}{}{Crecerá por encima de ese beso}
+{901}{}{Un beso para construir un sueÃ±o}
+{902}{}{Y mi imaginaciÃ³n}
+{903}{}{CrecerÃ¡ por encima de ese beso}
 {904}{}{Mmmmm}
-{905}{}{Dulce corazón,}
-{906}{}{No te pido más que esto:}
+{905}{}{Dulce corazÃ³n,}
+{906}{}{No te pido mÃ¡s que esto:}
 {910}{}{Un beso antes de que me dejes}
-{912}{}{Sentirás mi hambriento corazón}
-{913}{}{Déjame una sola cosa antes de partir…}
-{915}{}{Cuando esté solo}
-{916}{}{Con mis fantasías}
+{912}{}{SentirÃ¡s mi hambriento corazÃ³n}
+{913}{}{DÃ©jame una sola cosa antes de partirâ€¦}
+{915}{}{Cuando estÃ© solo}
+{916}{}{Con mis fantasÃ­as}
 {917}{}{Estareeeee contiiiigo}
 {918}{}{Tejiendo romances}
 {919}{}{Haciendo creer que son ciertos}
-{920}{}{Oh, dame tus labios sólo un momento}
-{921}{}{Y mi imaginación hará vivir este momento…}
-{923}{}{Dame lo que sólo tú puedes darme}
+{920}{}{Oh, dame tus labios sÃ³lo un momento}
+{921}{}{Y mi imaginaciÃ³n harÃ¡ vivir este momentoâ€¦}
+{923}{}{Dame lo que sÃ³lo tÃº puedes darme}
 {925}{}{::Trompeteo con la boca::}
 {930}{}{Voy a... estar con yoooou}
 {933}{}{Ohhhh}
-{935}{}{Labios un sólo momento}
-{937}{}{Harán vivir ese momento}
+{935}{}{Labios un sÃ³lo momento}
+{937}{}{HarÃ¡n vivir ese momento}
 {941}{}{}
-{1200}{}{!El gran héroe! ¿Cómo podemos ayudarte? Quizá cantándote algo especial, ¿eh?}
-{1201}{}{. ¿Podemos ayudarte?}
-{1202}{}{. ¿Te ayudamos en algo, campeón?}
+{1200}{}{!El gran hÃ©roe! Â¿CÃ³mo podemos ayudarte? QuizÃ¡ cantÃ¡ndote algo especial, Â¿eh?}
+{1201}{}{. Â¿Podemos ayudarte?}
+{1202}{}{. Â¿Te ayudamos en algo, campeÃ³n?}

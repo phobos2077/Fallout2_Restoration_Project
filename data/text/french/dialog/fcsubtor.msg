@@ -1,6 +1,6 @@
 {100}{}{Tu vois des torpilles.}
-{101}{}{Ces armes potentiellement dangereuses regorgent d'explosifs. Les coques sont corrodées et on dirait que les propulseurs vont tomber d'une seconde à l'autre.}
-{200}{}{Malgré son aspect, cette torpille est encore une arme potentielle. Le propulseur libre est en fait une part intégrale de son système de navigation, lui donnant une manoeuvrabilité sans précédent. Tu vas avoir besoin d'outils pour la désactiver.}
-{210}{}{Au bout de 2 siècles de corrosion, le système de propulsion rouillé est facile à démonter. Quelques instants plus tard, il est remonté, cette fois totalement immobilisé.}
-{211}{}{Le système de propulsion rouillé est un trop grand défi pour toi. Les écrous sont bloqués et tu n'imagines pas comment démonter le propulseur sans te blesser.}
-{220}{}{Tu as disposé des charges près de plusieurs torpilles hautement explosives. Ce serait une bonne idée de foutre le camp de là.}
+{101}{}{Ces armes potentiellement dangereuses regorgent d'explosifs. Les coques sont corrodÃ©es et on dirait que les propulseurs vont tomber d'une seconde Ã  l'autre.}
+{200}{}{MalgrÃ© son aspect, cette torpille est encore une arme potentielle. Le propulseur libre est en fait une part intÃ©grale de son systÃ¨me de navigation, lui donnant une manoeuvrabilitÃ© sans prÃ©cÃ©dent. Tu vas avoir besoin d'outils pour la dÃ©sactiver.}
+{210}{}{Au bout de 2 siÃ¨cles de corrosion, le systÃ¨me de propulsion rouillÃ© est facile Ã  dÃ©monter. Quelques instants plus tard, il est remontÃ©, cette fois totalement immobilisÃ©.}
+{211}{}{Le systÃ¨me de propulsion rouillÃ© est un trop grand dÃ©fi pour toi. Les Ã©crous sont bloquÃ©s et tu n'imagines pas comment dÃ©monter le propulseur sans te blesser.}
+{220}{}{Tu as disposÃ© des charges prÃ¨s de plusieurs torpilles hautement explosives. Ce serait une bonne idÃ©e de foutre le camp de lÃ .}

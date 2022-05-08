@@ -1,18 +1,18 @@
 {100}{}{Ves a una mujer con un uniforme blindado de la RNC.}
-{101}{}{Es la capitán de la guardia.}
-{102}{}{Puede que sea una mujer, pero esa escopeta que cuelga de su cadera dice que no va a ser fácil de tratar.}
-{103}{}{Tendrás que perdonarme, pero soy una mujer ocupada. No tengo tiempo para charlar.}
+{101}{}{Es la capitÃ¡n de la guardia.}
+{102}{}{Puede que sea una mujer, pero esa escopeta que cuelga de su cadera dice que no va a ser fÃ¡cil de tratar.}
+{103}{}{TendrÃ¡s que perdonarme, pero soy una mujer ocupada. No tengo tiempo para charlar.}
 {104}{}{No metas las narices donde no te llaman y nos llevaremos bien, extranjero.}
-{105}{}{¿Tienes preguntas? Busca al sheriff Dumont. Él te pondrá al corriente.}
-{106}{}{Las normas están en los tablones de mensajes por ahí fuera: nada de armas, nada de bebidas, nada de problemas.}
-{107}{}{¿Qué puedo hacer por ti, extranjero?}
-{108}{}{¿Otra vez tú?}
-{109}{}{Entraré.}
-{110}{}{Me gustaría entrar en RNC.}
+{105}{}{Â¿Tienes preguntas? Busca al sheriff Dumont. Ã‰l te pondrÃ¡ al corriente.}
+{106}{}{Las normas estÃ¡n en los tablones de mensajes por ahÃ­ fuera: nada de armas, nada de bebidas, nada de problemas.}
+{107}{}{Â¿QuÃ© puedo hacer por ti, extranjero?}
+{108}{}{Â¿Otra vez tÃº?}
+{109}{}{EntrarÃ©.}
+{110}{}{Me gustarÃ­a entrar en RNC.}
 {111}{}{Nada.}
 {112}{}{No vas a ir a ninguna parte hasta que guardes tus armas.}
 {113}{}{Todo el mundo debe guardar sus armas.}
-{114}{}{Hmm... bueno, pareces lo bastante respetable. ¿Cuál es tu nombre? He de indicarlo en el libro de registro.}
+{114}{}{Hmm... bueno, pareces lo bastante respetable. Â¿CuÃ¡l es tu nombre? He de indicarlo en el libro de registro.}
 {115}{}{}
-{116}{}{De acuerdo entonces, abriré la puerta durante un solo segundo.}
-{117}{}{¡No manipules eso! Por favor, déjalo ahora mismo o tendrás problemas.}
+{116}{}{De acuerdo entonces, abrirÃ© la puerta durante un solo segundo.}
+{117}{}{Â¡No manipules eso! Por favor, dÃ©jalo ahora mismo o tendrÃ¡s problemas.}

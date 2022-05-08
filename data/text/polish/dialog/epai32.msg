@@ -1,50 +1,50 @@
-{100}{}{Widzisz pracuj¹cy komputer.}
-{101}{}{Widzisz terminal botaniczny AOŒ.}
-{200}{}{Witamy w terminalu botanicznym AOŒ. Prosimy o wybranie jednej z poni¿szych opcji.}
-{201}{}{Dostêp do bazy danych.}
-{202}{}{Dostêp do magazynu nasion.}
+{100}{}{Widzisz pracujÄ…cy komputer.}
+{101}{}{Widzisz terminal botaniczny AOÅš.}
+{200}{}{Witamy w terminalu botanicznym AOÅš. Prosimy o wybranie jednej z poniÅ¼szych opcji.}
+{201}{}{DostÄ™p do bazy danych.}
+{202}{}{DostÄ™p do magazynu nasion.}
 {203}{}{Wyloguj.}
-{210}{}{Aktualnie w bazie danych dostêpne s¹ 3 kategorie. Prosimy o dokonanie wyboru.}
-{211}{}{Otwórz plik p³odozmian.}
-{212}{}{Otwórz plik botanika.}
-{213}{}{Otwórz plik testy na zwierzêtach i testy biologiczne.}
-{214}{}{Wróæ.}
-{220}{}{P³odozmian zapobiega spadkowi ¿yznoœci gleby. Ci¹g³e sadzenie tych samych roœlin w jednym miejscu powoduje spadek iloœci soli mineralnych w glebie. Uprawy, które pobieraj¹ z gleby jeden rodzaj zwi¹zków od¿ywczych s¹ w nastêpnym sezonie zastêpowane przez inne uprawy, które oddaj¹ ten zwi¹zek do gleby b¹dŸ pobieraj¹ inny rodzaj zwi¹zków od¿ywczych.}
+{210}{}{Aktualnie w bazie danych dostÄ™pne sÄ… 3 kategorie. Prosimy o dokonanie wyboru.}
+{211}{}{OtwÃ³rz plik pÅ‚odozmian.}
+{212}{}{OtwÃ³rz plik botanika.}
+{213}{}{OtwÃ³rz plik testy na zwierzÄ™tach i testy biologiczne.}
+{214}{}{WrÃ³Ä‡.}
+{220}{}{PÅ‚odozmian zapobiega spadkowi Å¼yznoÅ›ci gleby. CiÄ…gÅ‚e sadzenie tych samych roÅ›lin w jednym miejscu powoduje spadek iloÅ›ci soli mineralnych w glebie. Uprawy, ktÃ³re pobierajÄ… z gleby jeden rodzaj zwiÄ…zkÃ³w odÅ¼ywczych sÄ… w nastÄ™pnym sezonie zastÄ™powane przez inne uprawy, ktÃ³re oddajÄ… ten zwiÄ…zek do gleby bÄ…dÅº pobierajÄ… inny rodzaj zwiÄ…zkÃ³w odÅ¼ywczych.}
 {221}{}{[KONTYNUUJ]}
-{222}{}{P³odozmian stosowany jest równie¿ do kontroli szkodników i chorób które z czasem mog¹ zagnieŸdziæ siê w glebie. Roœliny z tej samej rodziny maj¹ tendencjê do posiadania tych samych szkodników i chorób. Poprzez regularn¹ rotacjê czynniki te mo¿na ograniczyæ, a nawet ca³kowicie wyeliminowaæ.}
-{223}{}{Wróæ.}
-{230}{}{Botanika jest to dzia³ biologii zajmuj¹cy siê roœlinami. Tak jak inne formy ¿ycia w biologii, roœliny mog¹ byæ badane z ró¿nych perspektyw, od strony molekularnej a¿ po sam¹ roœlinê. Zrozumienie roœlin jest niezbêdne dla ludzkoœci, ze wzglêdu na:                                                            
- -produkcjê ¿ywnoœci dla stale powiêkszaj¹cej siê populacji, 
- -zrozumienie podstaw procesów ¿yciowych,                      
- -produkcjê leków,                                                    
- -lepsze zrozumienie zmian œrodowiska.                                                                                                    
- Reszta informacji to wykresy, tabele oraz fotografie ró¿nych roœlin.}
+{222}{}{PÅ‚odozmian stosowany jest rÃ³wnieÅ¼ do kontroli szkodnikÃ³w i chorÃ³b ktÃ³re z czasem mogÄ… zagnieÅºdziÄ‡ siÄ™ w glebie. RoÅ›liny z tej samej rodziny majÄ… tendencjÄ™ do posiadania tych samych szkodnikÃ³w i chorÃ³b. Poprzez regularnÄ… rotacjÄ™ czynniki te moÅ¼na ograniczyÄ‡, a nawet caÅ‚kowicie wyeliminowaÄ‡.}
+{223}{}{WrÃ³Ä‡.}
+{230}{}{Botanika jest to dziaÅ‚ biologii zajmujÄ…cy siÄ™ roÅ›linami. Tak jak inne formy Å¼ycia w biologii, roÅ›liny mogÄ… byÄ‡ badane z rÃ³Å¼nych perspektyw, od strony molekularnej aÅ¼ po samÄ… roÅ›linÄ™. Zrozumienie roÅ›lin jest niezbÄ™dne dla ludzkoÅ›ci, ze wzglÄ™du na:                                                            
+ -produkcjÄ™ Å¼ywnoÅ›ci dla stale powiÄ™kszajÄ…cej siÄ™ populacji, 
+ -zrozumienie podstaw procesÃ³w Å¼yciowych,                      
+ -produkcjÄ™ lekÃ³w,                                                    
+ -lepsze zrozumienie zmian Å›rodowiska.                                                                                                    
+ Reszta informacji to wykresy, tabele oraz fotografie rÃ³Å¼nych roÅ›lin.}
 {231}{}{Skopiuj dane na holodysk.}
-{232}{}{Wróæ.}
-{240}{}{W tej placówce przeprowadzane s¹ liczne badania na biologicznych formach ¿ycia. Badania zosta³y wyj¹tkowo szeroko przeprowadzone na roœlinach, roœlino-podobnych formach ¿ycia przypominaj¹cych rosiczkê, oraz podobnych zwierzêtom formach ¿ycia znanych jako Centaury, Wisielce, i Radskorpiony.}
-{241}{}{Czytaj o eksperymentach na roœlinach.}
-{242}{}{Czytaj o drapie¿nych roœlinach.}
+{232}{}{WrÃ³Ä‡.}
+{240}{}{W tej placÃ³wce przeprowadzane sÄ… liczne badania na biologicznych formach Å¼ycia. Badania zostaÅ‚y wyjÄ…tkowo szeroko przeprowadzone na roÅ›linach, roÅ›lino-podobnych formach Å¼ycia przypominajÄ…cych rosiczkÄ™, oraz podobnych zwierzÄ™tom formach Å¼ycia znanych jako Centaury, Wisielce, i Radskorpiony.}
+{241}{}{Czytaj o eksperymentach na roÅ›linach.}
+{242}{}{Czytaj o drapieÅ¼nych roÅ›linach.}
 {243}{}{Czytaj o Centaurach i Wisielcach.}
 {244}{}{Czytaj o Radskorpionach.}
-{250}{}{Przeprowadziliœmy ró¿ne eksperymenty maj¹ce na celu wyhodowanie nowej roœliny. Kilka z tych prób by³o udanych, a powsta³e w ten sposób roœliny mo¿na zobaczyæ w szkó³ce leœnej. Stan zbiorników wskazuje, ¿e pozosta³y w nich próbki nasion do dalszych testów.}
-{251}{}{Drapie¿na roœlina jest zmutowan¹ form¹ roœliny podobnej do rosiczki. Testy wykaza³y, ¿e jest bardzo agresywna i stosuje dwa rodzaje ataków. Pierwszym jest wystrzeliwany  ostry zarodnik. Kolejnym jest ugryzienie kolczast¹ paszcz¹. Zalecamy szczególn¹ ostro¿noœæ przy przeprowadzaniu na nich testów.}
-{252}{}{Po przeprowadzeniu szerokich badaniach wynika, ¿e centaury s¹ produktem ubocznym Wirusa Wymuszonej Ewolucji. Wydaj¹ siê byæ mieszank¹ kota, psa, braminy i kilku innych form ¿ycia. FEV nie jest jednak jedynym czynnikiem mutacyjnym, radiacja mia³a tu równie¿ swój udzia³. Lubi¹ silnie napromieniowane miejsca, a one same napromieniowuj¹ wszystko wokó³ nich.}
+{250}{}{PrzeprowadziliÅ›my rÃ³Å¼ne eksperymenty majÄ…ce na celu wyhodowanie nowej roÅ›liny. Kilka z tych prÃ³b byÅ‚o udanych, a powstaÅ‚e w ten sposÃ³b roÅ›liny moÅ¼na zobaczyÄ‡ w szkÃ³Å‚ce leÅ›nej. Stan zbiornikÃ³w wskazuje, Å¼e pozostaÅ‚y w nich prÃ³bki nasion do dalszych testÃ³w.}
+{251}{}{DrapieÅ¼na roÅ›lina jest zmutowanÄ… formÄ… roÅ›liny podobnej do rosiczki. Testy wykazaÅ‚y, Å¼e jest bardzo agresywna i stosuje dwa rodzaje atakÃ³w. Pierwszym jest wystrzeliwany  ostry zarodnik. Kolejnym jest ugryzienie kolczastÄ… paszczÄ…. Zalecamy szczegÃ³lnÄ… ostroÅ¼noÅ›Ä‡ przy przeprowadzaniu na nich testÃ³w.}
+{252}{}{Po przeprowadzeniu szerokich badaniach wynika, Å¼e centaury sÄ… produktem ubocznym Wirusa Wymuszonej Ewolucji. WydajÄ… siÄ™ byÄ‡ mieszankÄ… kota, psa, braminy i kilku innych form Å¼ycia. FEV nie jest jednak jedynym czynnikiem mutacyjnym, radiacja miaÅ‚a tu rÃ³wnieÅ¼ swÃ³j udziaÅ‚. LubiÄ… silnie napromieniowane miejsca, a one same napromieniowujÄ… wszystko wokÃ³Å‚ nich.}
 {253}{}{[KONTYNUUJ]}
-{254}{}{ród³o i etymologia wisielców pozostaj¹ nieznane, lecz wydaj¹ siê mieæ zwi¹zek z centaurami, w pobli¿u których czêsto s¹ spotykane. One równie¿ s¹ wynikiem dzia³ania FEV. Dalsze testy wykazuj¹ u nich kompletn¹ niewra¿liwoœæ na dzia³anie elektrycznoœci.}
-{255}{}{Radskorpiony s¹ ekstremalnie przeroœniêt¹ wersj¹ pó³nocno amerykañskiego skopiona cesarskiego, zmutowanego przez promieniowanie. Przeciwnie do przypuszczeñ, ich trucizna sta³a siê jeszcze bardziej skuteczna i stê¿ona. Prowadz¹ nocny tryb ¿ycia i s¹ wra¿liwe na œwiat³o. Dalsze testy udowadniaj¹, ¿e z trucizny uzyskanej z ich ogonów mo¿na tworzyæ antidotum.}
-{256}{}{Wróæ.}
-{257}{}{Przeprowadziliœmy mnóstwo eksperymentów maj¹cych na celu wyhodowanie nowej roœliny. Kilka z tych prób by³o udanych, a powsta³e w ten sposób roœliny mo¿na zobaczyæ w szkó³ce leœnej. Stan zbiorników wskazuje, ¿e nie ma wiêcej próbek nasion do dalszych testów.}
-{260}{}{Aktualnie nasiona znajduj¹ siê w zbiornikach 1 i 2.}
-{261}{}{Aktualnie nasiona znajduj¹ siê w zbiorniku 2.}
-{262}{}{Aktualnie nasiona znajduj¹ siê w zbiorniku 1.}
-{263}{}{Aktualnie ¿adne nasiona nie znajduj¹ siê w zbiornikach.}
-{264}{}{Uzyskaj dostêp do zbiornika pierwszego.}
-{265}{}{Uzyskaj dostêp do zbiornika drugiego.}
-{266}{}{Wróæ.}
-{270}{}{Zbiornik 1 zg³asza, ¿e pozosta³o 5 paczek z amerykañskiego Programu Ulepszania ¯ywnoœci. Nasiona kukurydzy zosta³y genetycznie zmodyfikowane tak, aby by³y odporne na szkodniki i choroby.}
-{271}{}{Zbiornik 2 zg³asza, ¿e pozosta³y 2 paczki nasion, ka¿da z podobnych lub ró¿nych rodzin. Nie przeprowadzono ¿adnych badañ, efekt ich zasiania nie jest znany.}
+{254}{}{Å¹rÃ³dÅ‚o i etymologia wisielcÃ³w pozostajÄ… nieznane, lecz wydajÄ… siÄ™ mieÄ‡ zwiÄ…zek z centaurami, w pobliÅ¼u ktÃ³rych czÄ™sto sÄ… spotykane. One rÃ³wnieÅ¼ sÄ… wynikiem dziaÅ‚ania FEV. Dalsze testy wykazujÄ… u nich kompletnÄ… niewraÅ¼liwoÅ›Ä‡ na dziaÅ‚anie elektrycznoÅ›ci.}
+{255}{}{Radskorpiony sÄ… ekstremalnie przeroÅ›niÄ™tÄ… wersjÄ… pÃ³Å‚nocno amerykaÅ„skiego skopiona cesarskiego, zmutowanego przez promieniowanie. Przeciwnie do przypuszczeÅ„, ich trucizna staÅ‚a siÄ™ jeszcze bardziej skuteczna i stÄ™Å¼ona. ProwadzÄ… nocny tryb Å¼ycia i sÄ… wraÅ¼liwe na Å›wiatÅ‚o. Dalsze testy udowadniajÄ…, Å¼e z trucizny uzyskanej z ich ogonÃ³w moÅ¼na tworzyÄ‡ antidotum.}
+{256}{}{WrÃ³Ä‡.}
+{257}{}{PrzeprowadziliÅ›my mnÃ³stwo eksperymentÃ³w majÄ…cych na celu wyhodowanie nowej roÅ›liny. Kilka z tych prÃ³b byÅ‚o udanych, a powstaÅ‚e w ten sposÃ³b roÅ›liny moÅ¼na zobaczyÄ‡ w szkÃ³Å‚ce leÅ›nej. Stan zbiornikÃ³w wskazuje, Å¼e nie ma wiÄ™cej prÃ³bek nasion do dalszych testÃ³w.}
+{260}{}{Aktualnie nasiona znajdujÄ… siÄ™ w zbiornikach 1 i 2.}
+{261}{}{Aktualnie nasiona znajdujÄ… siÄ™ w zbiorniku 2.}
+{262}{}{Aktualnie nasiona znajdujÄ… siÄ™ w zbiorniku 1.}
+{263}{}{Aktualnie Å¼adne nasiona nie znajdujÄ… siÄ™ w zbiornikach.}
+{264}{}{Uzyskaj dostÄ™p do zbiornika pierwszego.}
+{265}{}{Uzyskaj dostÄ™p do zbiornika drugiego.}
+{266}{}{WrÃ³Ä‡.}
+{270}{}{Zbiornik 1 zgÅ‚asza, Å¼e pozostaÅ‚o 5 paczek z amerykaÅ„skiego Programu Ulepszania Å»ywnoÅ›ci. Nasiona kukurydzy zostaÅ‚y genetycznie zmodyfikowane tak, aby byÅ‚y odporne na szkodniki i choroby.}
+{271}{}{Zbiornik 2 zgÅ‚asza, Å¼e pozostaÅ‚y 2 paczki nasion, kaÅ¼da z podobnych lub rÃ³Å¼nych rodzin. Nie przeprowadzono Å¼adnych badaÅ„, efekt ich zasiania nie jest znany.}
 {273}{}{Pobierz nasiona.}
-{280}{}{Pobieranie nasion...Pobrano 5 paczek genetycznie zmodyfikowanej kukurydzy. Przesy³anie paczek do komory odbiorczej... wykonano... Zamykanie zbiornika... wykonano.}
-{281}{}{Pobieranie nasion...Pobrano 2 paczki nieznanych nasion. Przesy³anie paczek do komory odbiorczej...wykonano... Zamykanie zbiornika...wykonano..}
-{290}{}{Pobieranie Botanicznej Bazy Danych... ukoñczono 75%... Zakoñczono. Prosimy wyj¹æ dysk i powróciæ do menu.}
-{291}{}{Wróæ.}
+{280}{}{Pobieranie nasion...Pobrano 5 paczek genetycznie zmodyfikowanej kukurydzy. PrzesyÅ‚anie paczek do komory odbiorczej... wykonano... Zamykanie zbiornika... wykonano.}
+{281}{}{Pobieranie nasion...Pobrano 2 paczki nieznanych nasion. PrzesyÅ‚anie paczek do komory odbiorczej...wykonano... Zamykanie zbiornika...wykonano..}
+{290}{}{Pobieranie Botanicznej Bazy Danych... ukoÅ„czono 75%... ZakoÅ„czono. Prosimy wyjÄ…Ä‡ dysk i powrÃ³ciÄ‡ do menu.}
+{291}{}{WrÃ³Ä‡.}

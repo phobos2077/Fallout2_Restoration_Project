@@ -1,3 +1,3 @@
-{100}{}{Widzisz wrednie wyglπdajπcego szpona úmierci.}
-{101}{}{Widzisz wielkiego szpona úmierci pokrytego bliznami. Oddycha powoli i g≥oúno.}
-{102}{}{Dostajesz 500 punktÛw doúwiadczenia za zabicie bestii.}
+{100}{}{Widzisz wrednie wyglƒÖdajƒÖcego szpona ≈õmierci.}
+{101}{}{Widzisz wielkiego szpona ≈õmierci pokrytego bliznami. Oddycha powoli i g≈Ço≈õno.}
+{102}{}{Dostajesz 500 punkt√≥w do≈õwiadczenia za zabicie bestii.}

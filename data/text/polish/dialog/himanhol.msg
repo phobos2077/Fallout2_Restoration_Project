@@ -1,1 +1,1 @@
-{100}{}{Uda³o ci siê wejœæ do skrytki na broñ Liz.}
+{100}{}{UdaÅ‚o ci siÄ™ wejÅ›Ä‡ do skrytki na broÅ„ Liz.}

@@ -1,55 +1,55 @@
 {100}{}{Um vendedor.}
 {101}{}{Willy.}
 {102}{}{Uma mancha de caixeiro-viajante.}
-{103}{}{Saudações, amigo, meu nome é Willy e tenho um acordo para você. [Ele parece estar lendo de
-  um cartão, e depois de um tempo você cochila.]}
+{103}{}{SaudaÃ§Ãµes, amigo, meu nome Ã© Willy e tenho um acordo para vocÃª. [Ele parece estar lendo de
+Â  um cartÃ£o, e depois de um tempo vocÃª cochila.]}
 {104}{}{Zzzzzzz...}
-{105}{}{[Você groggily abre seus olhos como você finalmente percebe que alguém está chutando você.] Bem, você está
-  interessado ou não?}
-{106}{}{Interessados em quê?}
+{105}{}{[VocÃª groggily abre seus olhos como vocÃª finalmente percebe que alguÃ©m estÃ¡ chutando vocÃª.] Bem, vocÃª estÃ¡
+Â  interessado ou nÃ£o?}
+{106}{}{Interessados em quÃª?}
 {107}{}{Erg?}
-{108}{}{Por isso, ele fatias ele corta e ele também vai vir a calhar contra bichos traquinas. Uma pechincha em qualquer o preço, mas para você é especial por somente}
-{109}{}{Por que é feito apenas da melhor madeira ao redor. Use-o para jab em criaturas para mantê-los à distância ou,
-  Se você é habilidoso o suficiente, jogue-o. É muito aerodinâmico e não vai impactar. O que você disse?
-  É um roubo apenas}
-{110}{}{Esta arma é feita com o melhor aço reciclado. Apenas sinta como isso se encaixa confortavelmente em sua
-  mão. E não se preocupe, nossos engenheiros o testaram por segurança e confiabilidade. Nenhum ladrão no seu direito
-  A mente se atreveu a tentar roubar se você acenou este bebê ao redor. E isso só irá torná-lo de volta}
-{111}{}{Esta pequena jóia é verdadeiramente um de um tipo. Dos confins de... funciona apontando
-como - Olha, eu não sei o que diabos é isso. Você quer ou não? O preço é de }
-{112}{}{Este pequeno dandy só grita. "Não mexa comigo!" A mera visão dele irá enviar o seu
+{108}{}{Por isso, ele fatias ele corta e ele tambÃ©m vai vir a calhar contra bichos traquinas. Uma pechincha em qualquer o preÃ§o, mas para vocÃª Ã© especial por somente}
+{109}{}{Por que Ã© feito apenas da melhor madeira ao redor. Use-o para jab em criaturas para mantÃª-los Ã  distÃ¢ncia ou,
+Â  Se vocÃª Ã© habilidoso o suficiente, jogue-o. Ã‰ muito aerodinÃ¢mico e nÃ£o vai impactar. O que vocÃª disse?
+Â  Ã‰ um roubo apenas}
+{110}{}{Esta arma Ã© feita com o melhor aÃ§o reciclado. Apenas sinta como isso se encaixa confortavelmente em sua
+Â  mÃ£o. E nÃ£o se preocupe, nossos engenheiros o testaram por seguranÃ§a e confiabilidade. Nenhum ladrÃ£o no seu direito
+Â  A mente se atreveu a tentar roubar se vocÃª acenou este bebÃª ao redor. E isso sÃ³ irÃ¡ tornÃ¡-lo de volta}
+{111}{}{Esta pequena jÃ³ia Ã© verdadeiramente um de um tipo. Dos confins de... funciona apontando
+como - Olha, eu nÃ£o sei o que diabos Ã© isso. VocÃª quer ou nÃ£o? O preÃ§o Ã© de }
+{112}{}{Este pequeno dandy sÃ³ grita. "NÃ£o mexa comigo!" A mera visÃ£o dele irÃ¡ enviar o seu
 inimigos a correr. Uma pechincha no }
-{113}{}{Posso dizer que você é o tipo de pessoa que gosta de se aproximar e pessoal ao lidar com
-  riff raff. Bem, este pequeno doohickey é exatamente o que você precisa, e isso só vai custar-lhe}
-{114}{}{Eu vou levá-la.}
+{113}{}{Posso dizer que vocÃª Ã© o tipo de pessoa que gosta de se aproximar e pessoal ao lidar com
+Â  riff raff. Bem, este pequeno doohickey Ã© exatamente o que vocÃª precisa, e isso sÃ³ vai custar-lhe}
+{114}{}{Eu vou levÃ¡-la.}
 {115}{}{Eu vou passar.}
-{116}{}{Sim, de fato, você não vai se arrepender disso. Foi bom dar-lhe o negócio. Até a próxima.}
+{116}{}{Sim, de fato, vocÃª nÃ£o vai se arrepender disso. Foi bom dar-lhe o negÃ³cio. AtÃ© a prÃ³xima.}
 {117}{}{[Fim]}
-{118}{}{Merda! Que desperdício do meu tempo. Continue, saia!}
+{118}{}{Merda! Que desperdÃ­cio do meu tempo. Continue, saia!}
 {119}{}{[Fim]}
-{120}{}{Bem, esse foi um desperdício de discurso. $}
+{120}{}{Bem, esse foi um desperdÃ­cio de discurso. $}
 {121}{}{Sim.}
-{122}{}{Não.}
-{123}{}{Ei, é você de novo. Eu tenho algumas coisas novas - você está interessado?}
-{124}{}{Com certeza, vamos ouvir o que você tem.}
-{125}{}{Não é um acaso, Willy.}
+{122}{}{NÃ£o.}
+{123}{}{Ei, Ã© vocÃª de novo. Eu tenho algumas coisas novas - vocÃª estÃ¡ interessado?}
+{124}{}{Com certeza, vamos ouvir o que vocÃª tem.}
+{125}{}{NÃ£o Ã© um acaso, Willy.}
 {126}{}{Sim.}
-{127}{}{Não.}
+{127}{}{NÃ£o.}
 {128}{}{Cai fora! Eu estou ocupado.}
-{129}{}{Volte quando você ganhou algum dinheiro.}
-{130}{}{VÁ EMBORA!}
+{129}{}{Volte quando vocÃª ganhou algum dinheiro.}
+{130}{}{VÃ EMBORA!}
 {131}{}{Nenhum reembolso.}
 {132}{}{Sem trocas.}
-{133}{}{Nenhum crédito.}
-{134}{}{Vá embora, estou ocupado.}
-{135}{}{Não é uma jogada inteligente.}
+{133}{}{Nenhum crÃ©dito.}
+{134}{}{VÃ¡ embora, estou ocupado.}
+{135}{}{NÃ£o Ã© uma jogada inteligente.}
 {136}{}{Safado!}
-{137}{}{Isso deveria me fazer baixar meus preços?}
-{138}{}{Tudo bem, eu vou reduzir os preços.}
+{137}{}{Isso deveria me fazer baixar meus preÃ§os?}
+{138}{}{Tudo bem, eu vou reduzir os preÃ§os.}
 {139}{}{Como cerca de 20% de desconto?}
 {140}{}{Como cerca de 40% de desconto?}
 {141}{}{Como cerca de 80% de desconto?}
-{142}{}{Ok, GRÁTIS; aqui, tome isso!}
+{142}{}{Ok, GRÃTIS; aqui, tome isso!}
 {143}{}{Willy.}
 {144}{}{George}
 {145}{}{Mike}
@@ -59,5 +59,5 @@ inimigos a correr. Uma pechincha no }
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-{152}{}{. Você quer ou não?}
+{152}{}{. VocÃª quer ou nÃ£o?}
 {200}{}{.}

@@ -1,4 +1,4 @@
-{100}{}{Egy hatalmas, fehér óriáspatkányt látsz.}
-{101}{}{Ez bizony a Patkány Király.}
-{102}{}{Ennek az albínó óriáspatkánynak hatalmas agya van, ráadásul habzik a szája.}
-{103}{}{Elpusztítottad a Patkány Királyt!}
+{100}{}{Egy hatalmas, fehÃ©r Ã³riÃ¡spatkÃ¡nyt lÃ¡tsz.}
+{101}{}{Ez bizony a PatkÃ¡ny KirÃ¡ly.}
+{102}{}{Ennek az albÃ­nÃ³ Ã³riÃ¡spatkÃ¡nynak hatalmas agya van, rÃ¡adÃ¡sul habzik a szÃ¡ja.}
+{103}{}{ElpusztÃ­tottad a PatkÃ¡ny KirÃ¡lyt!}

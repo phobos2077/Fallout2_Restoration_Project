@@ -1,15 +1,15 @@
-{100}{}{Widzisz osiedleñca.}
+{100}{}{Widzisz osiedleÅ„ca.}
 {101}{}{Widzisz Johna, squattera.}
-{102}{}{Widzisz mê¿czyznê w œrednim wieku ubranego w znoszone ubranie.}
-{103}{}{Przykro mi, przybyszu, ale nie mam czasu na pogawêdki z tob¹.}
-{104}{}{Dlaczego nie rozmawiaæ?}
-{105}{}{Dobra, siê ma.}
-{106}{}{W porz¹dku, do zobaczenia.}
-{107}{}{Zaczekaj. Dlaczego nie chcesz ze mn¹ porozmawiaæ?}
-{108}{}{Jesteœmy spo³ecznoœci¹ bardzo szanuj¹c¹ prywatnoœæ, nie chcemy ¿adnych k³opotów ani wp³ywów z zewn¹trz. Proszê zostaw nas.}
-{109}{}{W porz¹dku.}
-{110}{}{Witaj... i ¿egnaj.}
-{111}{}{Dziêkujê za wszystko co zrobi³eœ. Przepraszam, ¿e tak zimno ciê przyjêliœmy wczeœniej.}
-{112}{}{Pieprz siê, dupku!}
-{113}{}{Nich to szlag, nie cierpiê, kiedy tak siê dzieje.}
-{114}{}{Spróbuj tego! Tak, to ci poka¿e.}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ w Å›rednim wieku ubranego w znoszone ubranie.}
+{103}{}{Przykro mi, przybyszu, ale nie mam czasu na pogawÄ™dki z tobÄ….}
+{104}{}{Dlaczego nie rozmawiaÄ‡?}
+{105}{}{Dobra, siÄ™ ma.}
+{106}{}{W porzÄ…dku, do zobaczenia.}
+{107}{}{Zaczekaj. Dlaczego nie chcesz ze mnÄ… porozmawiaÄ‡?}
+{108}{}{JesteÅ›my spoÅ‚ecznoÅ›ciÄ… bardzo szanujÄ…cÄ… prywatnoÅ›Ä‡, nie chcemy Å¼adnych kÅ‚opotÃ³w ani wpÅ‚ywÃ³w z zewnÄ…trz. ProszÄ™ zostaw nas.}
+{109}{}{W porzÄ…dku.}
+{110}{}{Witaj... i Å¼egnaj.}
+{111}{}{DziÄ™kujÄ™ za wszystko co zrobiÅ‚eÅ›. Przepraszam, Å¼e tak zimno ciÄ™ przyjÄ™liÅ›my wczeÅ›niej.}
+{112}{}{Pieprz siÄ™, dupku!}
+{113}{}{Nich to szlag, nie cierpiÄ™, kiedy tak siÄ™ dzieje.}
+{114}{}{SprÃ³buj tego! Tak, to ci pokaÅ¼e.}

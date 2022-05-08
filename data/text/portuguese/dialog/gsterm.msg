@@ -1,217 +1,217 @@
-{100}{}{VocÍ vÍ um terminal funcional.}
-{101}{}{VocÍ vÍ o terminal de controle do robÙ de reparaÁ„o e manutenÁ„o do reator.}
-{102}{}{VocÍ vÍ um terminal. Ele parece estar operando.}
-{110}{}{Ol·. Bem vindo ao RMR&RCT da estaÁ„o 3.}
+{100}{}{Voc√™ v√™ um terminal funcional.}
+{101}{}{Voc√™ v√™ o terminal de controle do rob√¥ de repara√ß√£o e manuten√ß√£o do reator.}
+{102}{}{Voc√™ v√™ um terminal. Ele parece estar operando.}
+{110}{}{Ol√°. Bem vindo ao RMR&RCT da esta√ß√£o 3.}
 {111}{}{RMRRCT?}
-{112}{}{FunÁ„o?}
-{113}{}{AÁ„o:}
+{112}{}{Fun√ß√£o?}
+{113}{}{A√ß√£o:}
 {114}{}{Inicializar:}
-{115}{}{Fim de sess„o.}
-{120}{}{EstaÁ„o #3 Terminal de controle do robÙ de reparo e manutenÁ„o do reator.}
-{121}{}{FunÁ„o?}
-{122}{}{Um robÙ, È? Deixe eu ver o que posso descobrir disso.}
-{123}{}{Fim de sess„o.}
-{130}{}{Este terminal foi projetado para coordenar e comandar um robÙ de reparo e manutenÁ„o do reator.}
+{115}{}{Fim de sess√£o.}
+{120}{}{Esta√ß√£o #3 Terminal de controle do rob√¥ de reparo e manuten√ß√£o do reator.}
+{121}{}{Fun√ß√£o?}
+{122}{}{Um rob√¥, √©? Deixe eu ver o que posso descobrir disso.}
+{123}{}{Fim de sess√£o.}
+{130}{}{Este terminal foi projetado para coordenar e comandar um rob√¥ de reparo e manuten√ß√£o do reator.}
 {131}{}{RMRRCT?}
-{132}{}{Um robÙ, È? Deixe eu ver o que posso descobrir disso.}
-{133}{}{Fim de sess„o.}
-{140}{}{Este terminal È usado para inserir dados para a unidade de manutenÁ„o e reparo robÛtica atribuÌda ao reator Poseidon #5. Este terminal tambÈm permite o acesso ao PoseidoNet.}
-{141}{}{Um robÙ? Deixe eu ver o que posso descobrir disso.}
-{142}{}{Algum tipo de rede, È? Me pergunto se posso acessar isso.}
-{143}{}{Fim de sess„o.}
-{150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (dkhdsdsklfjsd? Iniciando Win21, aguarde... Comando de sistema operacional n„o reconhecido. Iniciando a exclus„o HDD BN.}
+{132}{}{Um rob√¥, √©? Deixe eu ver o que posso descobrir disso.}
+{133}{}{Fim de sess√£o.}
+{140}{}{Este terminal √© usado para inserir dados para a unidade de manuten√ß√£o e reparo rob√≥tica atribu√≠da ao reator Poseidon #5. Este terminal tamb√©m permite o acesso ao PoseidoNet.}
+{141}{}{Um rob√¥? Deixe eu ver o que posso descobrir disso.}
+{142}{}{Algum tipo de rede, √©? Me pergunto se posso acessar isso.}
+{143}{}{Fim de sess√£o.}
+{150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (dkhdsdsklfjsd? Iniciando Win21, aguarde... Comando de sistema operacional n√£o reconhecido. Iniciando a exclus√£o HDD BN.}
 {151}{}{Hmmm. Ook?}
 {152}{}{Afjasdfaa kljkljl;jljljj?}
-{160}{}{O robÙ de manutenÁ„o do reator est· pronto para a sequÍncia de inicializaÁ„o/arranque. CÛdigo de acesso funcional?:}
-{161}{}{FunÁ„o?}
-{162}{}{AÁ„o?}
+{160}{}{O rob√¥ de manuten√ß√£o do reator est√° pronto para a sequ√™ncia de inicializa√ß√£o/arranque. C√≥digo de acesso funcional?:}
+{161}{}{Fun√ß√£o?}
+{162}{}{A√ß√£o?}
 {163}{}{35C76863}
 {164}{}{A1546761}
 {165}{}{5B576005}
-{166}{}{Fim de sess„o.}
-{170}{}{CÛdigo de acesso funcional inicial aceito. Digite o cÛdigo de acesso funcional secund·rio.}
+{166}{}{Fim de sess√£o.}
+{170}{}{C√≥digo de acesso funcional inicial aceito. Digite o c√≥digo de acesso funcional secund√°rio.}
 {171}{}{Resetar.}
-{172}{}{FunÁ„o?}
-{173}{}{AÁ„o?}
+{172}{}{Fun√ß√£o?}
+{173}{}{A√ß√£o?}
 {174}{}{35C76863}
 {175}{}{A1546761}
 {176}{}{5B576005}
-{177}{}{Fim de sess„o.}
-{180}{}{CÛdigo de acesso funcional secund·rio aceito. Digite o cÛdigo de acesso funcional terci·rio.}
+{177}{}{Fim de sess√£o.}
+{180}{}{C√≥digo de acesso funcional secund√°rio aceito. Digite o c√≥digo de acesso funcional terci√°rio.}
 {181}{}{Resetar.}
-{182}{}{FunÁ„o?}
-{183}{}{AÁ„o?}
+{182}{}{Fun√ß√£o?}
+{183}{}{A√ß√£o?}
 {184}{}{35C76863}
 {185}{}{A1546761}
 {186}{}{5B576005}
-{187}{}{Fim de sess„o.}
-{190}{}{CÛdigo de acesso funcional terci·rio aceito. Unidade RM&RR aquecendo... Unidade pronta para serviÁo. Procedimento de serviÁo?:}
-{191}{}{Unidade RM&RR pronta para serviÁo. Procedimento de serviÁo?:}
-{192}{}{Inicie a sequÍncia de manutenÁ„o geral.}
-{193}{}{Inicie a sequÍncia de manutenÁ„o do lÌquido de arrefecimento.}
-{194}{}{Inicie a sequÍncia de limpeza.}
-{195}{}{Inicie a sequÍncia de reparo.}
-{196}{}{PermaneÁa no status em espera e desconecte.}
-{200}{}{Este procedimento de serviÁo n„o est· disponÌvel na memÛria. Carregar procedimento de serviÁo atual?}
-{201}{}{Carregar procedimento de serviÁo atual.}
+{187}{}{Fim de sess√£o.}
+{190}{}{C√≥digo de acesso funcional terci√°rio aceito. Unidade RM&RR aquecendo... Unidade pronta para servi√ßo. Procedimento de servi√ßo?:}
+{191}{}{Unidade RM&RR pronta para servi√ßo. Procedimento de servi√ßo?:}
+{192}{}{Inicie a sequ√™ncia de manuten√ß√£o geral.}
+{193}{}{Inicie a sequ√™ncia de manuten√ß√£o do l√≠quido de arrefecimento.}
+{194}{}{Inicie a sequ√™ncia de limpeza.}
+{195}{}{Inicie a sequ√™ncia de reparo.}
+{196}{}{Permane√ßa no status em espera e desconecte.}
+{200}{}{Este procedimento de servi√ßo n√£o est√° dispon√≠vel na mem√≥ria. Carregar procedimento de servi√ßo atual?}
+{201}{}{Carregar procedimento de servi√ßo atual.}
 {202}{}{Voltar.}
-{203}{}{Fim de sess„o.}
-{210}{}{Procurando... AtualizaÁ„o do procedimento de serviÁo n„o disponÌvel localmente.}
+{203}{}{Fim de sess√£o.}
+{210}{}{Procurando... Atualiza√ß√£o do procedimento de servi√ßo n√£o dispon√≠vel localmente.}
 {211}{}{Voltar.}
 {212}{}{Download.}
-{213}{}{Fim de sess„o.}
-{220}{}{Conex„o com PosiedoNet central iniciado. Digite a sequÍncia do cÛdigo de acesso de seguranÁa prim·ria: 70Y644, 008Z21, 9X7299, A46123.}
+{213}{}{Fim de sess√£o.}
+{220}{}{Conex√£o com PosiedoNet central iniciado. Digite a sequ√™ncia do c√≥digo de acesso de seguran√ßa prim√°ria: 70Y644, 008Z21, 9X7299, A46123.}
 {221}{}{70Y644}
 {222}{}{008Z21}
 {223}{}{9X7299}
 {224}{}{A46123}
-{225}{}{Fim de sess„o.}
-{230}{}{SequÍncia de manutenÁ„o do refrigerante iniciada. Preparando para passar para a v·lvula de refrigeraÁ„o principal.}
-{231}{}{Isso foi muito mais f·cil do que eu tinha pensado.}
-{232}{}{Fim de sess„o.}
-{240}{}{ServiÁo de reparo iniciado. Procurando... Regulador hidroelÈtrico da magnetosfera necess·rio. Preparando-se para passar para a v·lvula de refrigeraÁ„o principal para substituiÁ„o de peÁas. Coloque a peÁa na bandeja de transferÍncia abaixo do terminal.}
+{225}{}{Fim de sess√£o.}
+{230}{}{Sequ√™ncia de manuten√ß√£o do refrigerante iniciada. Preparando para passar para a v√°lvula de refrigera√ß√£o principal.}
+{231}{}{Isso foi muito mais f√°cil do que eu tinha pensado.}
+{232}{}{Fim de sess√£o.}
+{240}{}{Servi√ßo de reparo iniciado. Procurando... Regulador hidroel√©trico da magnetosfera necess√°rio. Preparando-se para passar para a v√°lvula de refrigera√ß√£o principal para substitui√ß√£o de pe√ßas. Coloque a pe√ßa na bandeja de transfer√™ncia abaixo do terminal.}
 {241}{}{Oh, acho que se refere a isso.}
-{242}{}{Acho que n„o tenho a parte que se precisa.}
-{243}{}{Fim de sess„o.}
-{250}{}{Este terminal est· fechado por motivos de seguranÁa. Por favor, informe ao Supervisor da PoseidoNet.}
-{251}{}{Hmm, parece que n„o vou conseguir tirar nada disso.}
-{252}{}{Hmm, eu me pergunto se isso tem uma reinicializaÁ„o local. Tem uma. Vou tentar.}
-{300}{}{CÛdigo de acesso de seguranÁa incorreto.}
-{301}{}{CÛdigo de acesso de seguranÁa incorreto. Acesso negado. Por favor, insira o cÛdigo correto. VocÍ tem mais duas tentativas.}
-{302}{}{CÛdigo de acesso de seguranÁa incorreto. Acesso negado. VocÍ tem mais uma tentativa.}
-{303}{}{CÛdigo de acesso de seguranÁa incorreto. Acesso negado. Procedimentos de seguranÁa interna ativados.}
+{242}{}{Acho que n√£o tenho a parte que se precisa.}
+{243}{}{Fim de sess√£o.}
+{250}{}{Este terminal est√° fechado por motivos de seguran√ßa. Por favor, informe ao Supervisor da PoseidoNet.}
+{251}{}{Hmm, parece que n√£o vou conseguir tirar nada disso.}
+{252}{}{Hmm, eu me pergunto se isso tem uma reinicializa√ß√£o local. Tem uma. Vou tentar.}
+{300}{}{C√≥digo de acesso de seguran√ßa incorreto.}
+{301}{}{C√≥digo de acesso de seguran√ßa incorreto. Acesso negado. Por favor, insira o c√≥digo correto. Voc√™ tem mais duas tentativas.}
+{302}{}{C√≥digo de acesso de seguran√ßa incorreto. Acesso negado. Voc√™ tem mais uma tentativa.}
+{303}{}{C√≥digo de acesso de seguran√ßa incorreto. Acesso negado. Procedimentos de seguran√ßa interna ativados.}
 {304}{}{Oops.}
-{305}{}{… melhor eu ter mais cuidado.}
-{306}{}{… melhor eu n„o errar dessa vez.}
-{307}{}{N„o me parece bom.}
-{308}{}{Fim de sess„o.}
-{310}{}{Digite a sequÍncia do cÛdigo de acesso de seguranÁa secund·ria: 70Y644, 008Z21, 9X7299, A46123.}
+{305}{}{√â melhor eu ter mais cuidado.}
+{306}{}{√â melhor eu n√£o errar dessa vez.}
+{307}{}{N√£o me parece bom.}
+{308}{}{Fim de sess√£o.}
+{310}{}{Digite a sequ√™ncia do c√≥digo de acesso de seguran√ßa secund√°ria: 70Y644, 008Z21, 9X7299, A46123.}
 {311}{}{70Y644}
 {312}{}{008Z21}
 {313}{}{9X7299}
 {314}{}{A46123}
-{315}{}{Fim de sess„o.}
-{320}{}{Digite a sequÍncia de cÛdigo de acesso de seguranÁa terci·ria: 70Y644, 008Z21, 9X7299, A46123.}
+{315}{}{Fim de sess√£o.}
+{320}{}{Digite a sequ√™ncia de c√≥digo de acesso de seguran√ßa terci√°ria: 70Y644, 008Z21, 9X7299, A46123.}
 {321}{}{70Y644}
 {322}{}{008Z21}
 {323}{}{9X7299}
 {324}{}{A46123}
-{325}{}{Fim de sess„o.}
-{330}{}{SequÍncia de cÛdigo de acesso de seguranÁa aceita. Bem-vindo ao PoseidoNet: }
-{331}{}{Baixar as Rotinas do RobÙ de ManutenÁ„o.}
-{332}{}{Lista de outras estaÁıes.}
-{333}{}{Fim de sess„o.}
-{340}{}{Procurando... Rotinas do robÙ de manutenÁ„o n„o encontradas.}
-{341}{}{Hmm, acho que n„o est„o aqui.}
-{342}{}{Lista de estaÁıes.}
-{343}{}{Fim de sess„o.}
+{325}{}{Fim de sess√£o.}
+{330}{}{Sequ√™ncia de c√≥digo de acesso de seguran√ßa aceita. Bem-vindo ao PoseidoNet: }
+{331}{}{Baixar as Rotinas do Rob√¥ de Manuten√ß√£o.}
+{332}{}{Lista de outras esta√ß√µes.}
+{333}{}{Fim de sess√£o.}
+{340}{}{Procurando... Rotinas do rob√¥ de manuten√ß√£o n√£o encontradas.}
+{341}{}{Hmm, acho que n√£o est√£o aqui.}
+{342}{}{Lista de esta√ß√µes.}
+{343}{}{Fim de sess√£o.}
 {350}{}{Pesquisando links... Pesquisando... Montanha de Ferro... Offline, NORAD... Offline, SAC... Offline. Pesquisando PoseidoNet... --Mais?--}
-{351}{}{Baixar as Rotinas do RobÙ de ManutenÁ„o.}
+{351}{}{Baixar as Rotinas do Rob√¥ de Manuten√ß√£o.}
 {352}{}{Mais.}
-{353}{}{Fim de sess„o.}
-{360}{}{EstaÁıes PoseidoNet ativas: Central de energia atÙmica #5, Refinaria Navarro, EstaÁ„o de controle ENCLAVE, controle ENCLAVE de Pesquisas de vault... Acesso Negado}
-{361}{}{As luzes est„o acesas, mas ninguÈm est· em casa. }
-{362}{}{Tudo est· fechado, exceto o controle ENCLAVE de Pesquisas de vault. O que isso pode ser?}
-{363}{}{Hmm, parece que as coisas est„o offline ou fechadas. Ah, saco.}
-{370}{}{Acessando... Acesso a estaÁ„o Enclave negado.}
-{371}{}{Acessando... de novo... Acesso ‡ EstaÁ„o Enclave negado.}
-{372}{}{Acessando... mais uma vez... cara persistente, hein?... Acesso ‡ estaÁ„o Enclave negado.}
-{373}{}{Acessando... mais uma vez... ainda n„o se cansou disso?... Acesso ‡ estaÁ„o Enclave negado.}
-{374}{}{Acessando... mais uma vez... vocÍ n„o tem nada melhor para fazer?... Acesso ‡ estaÁ„o Enclave negado.}
-{375}{}{J· chega. Estou farto dessa sua insistÍncia. Se vocÍ tentar mais uma vez, vai se arrepender.}
-{376}{}{N„o diga que eu n„o avisei. (Assim que vocÍ lÍ isto, vocÍ sente uma onda de eletricidade saindo do teclado atravÈs de seus dedos).}
+{353}{}{Fim de sess√£o.}
+{360}{}{Esta√ß√µes PoseidoNet ativas: Central de energia at√¥mica #5, Refinaria Navarro, Esta√ß√£o de controle ENCLAVE, controle ENCLAVE de Pesquisas de vault... Acesso Negado}
+{361}{}{As luzes est√£o acesas, mas ningu√©m est√° em casa. }
+{362}{}{Tudo est√° fechado, exceto o controle ENCLAVE de Pesquisas de vault. O que isso pode ser?}
+{363}{}{Hmm, parece que as coisas est√£o offline ou fechadas. Ah, saco.}
+{370}{}{Acessando... Acesso a esta√ß√£o Enclave negado.}
+{371}{}{Acessando... de novo... Acesso √† Esta√ß√£o Enclave negado.}
+{372}{}{Acessando... mais uma vez... cara persistente, hein?... Acesso √† esta√ß√£o Enclave negado.}
+{373}{}{Acessando... mais uma vez... ainda n√£o se cansou disso?... Acesso √† esta√ß√£o Enclave negado.}
+{374}{}{Acessando... mais uma vez... voc√™ n√£o tem nada melhor para fazer?... Acesso √† esta√ß√£o Enclave negado.}
+{375}{}{J√° chega. Estou farto dessa sua insist√™ncia. Se voc√™ tentar mais uma vez, vai se arrepender.}
+{376}{}{N√£o diga que eu n√£o avisei. (Assim que voc√™ l√™ isto, voc√™ sente uma onda de eletricidade saindo do teclado atrav√©s de seus dedos).}
 {377}{}{E se eu tentar novamente?}
-{378}{}{… muito. … melhor vocÍ fazer essa unidade RR&MR funcionar. }
-{379}{}{Droga, devo ter perdido a comunicaÁ„o.}
-{380}{}{O regulador hidroelÈtrico da magnetosfera È necess·rio antes do inÌcio da sequÍncia de reparo.}
-{381}{}{Inicie a manutenÁ„o do refrigerante}
-{382}{}{Fim de sess„o.}
-{390}{}{Regulador hidroelÈtrico magnetosfera aceito. Digitalizando... PeÁa dentro das restriÁıes nominais de QA... TransferÍncia para unidade de reparo concluÌda... Continuar?}
+{378}{}{√â muito. √â melhor voc√™ fazer essa unidade RR&MR funcionar. }
+{379}{}{Droga, devo ter perdido a comunica√ß√£o.}
+{380}{}{O regulador hidroel√©trico da magnetosfera √© necess√°rio antes do in√≠cio da sequ√™ncia de reparo.}
+{381}{}{Inicie a manuten√ß√£o do refrigerante}
+{382}{}{Fim de sess√£o.}
+{390}{}{Regulador hidroel√©trico magnetosfera aceito. Digitalizando... Pe√ßa dentro das restri√ß√µes nominais de QA... Transfer√™ncia para unidade de reparo conclu√≠da... Continuar?}
 {391}{}{Sim.}
-{392}{}{Fim de sess„o.}
-{400}{}{Circuitos lÛgicos danificados. Em caso de emergÍncia, a unidade RM&RR pode ser direcionada manualmente.}
+{392}{}{Fim de sess√£o.}
+{400}{}{Circuitos l√≥gicos danificados. Em caso de emerg√™ncia, a unidade RM&RR pode ser direcionada manualmente.}
 {401}{}{Bem, isso explica tudo. Acho que posso tentar.}
-{402}{}{Hmm, isso n„o parece muito promissor. Vou fazer logoff.}
-{410}{}{ImplantaÁ„o da unidade RM&RR iniciada. Verificando os sistemas de acionamento... OK, Verificando o braÁo do manipulador... OK, Verificando o estabilizador interno... OK, circuitos lÛgicos... ERRO.}
-{411}{}{Os circuitos lÛgicos falharam. Me pergunto o que isso pode ser.}
-{412}{}{Parece que tem mais coisas funcionando do que n„o. Vamos ver o que temos aqui.}
-{420}{}{Reconhecimento de localizaÁ„o de tarefa de trabalho inoperante. A unidade n„o È capaz de reconhecer locais de movimento em dist‚ncias extensas. Recomendado: Mova a unidade para locais intermedi·rios como pontos de passagem para o local da tarefa final.}
-{421}{}{O que ser· que acontece se eu n„o colocar as tarefas na ordem certa?}
-{422}{}{Acho que j· li avisos suficientes. Hora de usar essa coisa.}
+{402}{}{Hmm, isso n√£o parece muito promissor. Vou fazer logoff.}
+{410}{}{Implanta√ß√£o da unidade RM&RR iniciada. Verificando os sistemas de acionamento... OK, Verificando o bra√ßo do manipulador... OK, Verificando o estabilizador interno... OK, circuitos l√≥gicos... ERRO.}
+{411}{}{Os circuitos l√≥gicos falharam. Me pergunto o que isso pode ser.}
+{412}{}{Parece que tem mais coisas funcionando do que n√£o. Vamos ver o que temos aqui.}
+{420}{}{Reconhecimento de localiza√ß√£o de tarefa de trabalho inoperante. A unidade n√£o √© capaz de reconhecer locais de movimento em dist√¢ncias extensas. Recomendado: Mova a unidade para locais intermedi√°rios como pontos de passagem para o local da tarefa final.}
+{421}{}{O que ser√° que acontece se eu n√£o colocar as tarefas na ordem certa?}
+{422}{}{Acho que j√° li avisos suficientes. Hora de usar essa coisa.}
 {430}{}{A unidade retorna ao seu compartimento se o programa de comando conter erros de terminal.}
-{431}{}{Ah bem; t· explicado. O que ser· que acontece com a falha do circuito lÛgico?}
+{431}{}{Ah bem; t√° explicado. O que ser√° que acontece com a falha do circuito l√≥gico?}
 {432}{}{Estou pronto para usar essa coisa.}
-{440}{}{DireÁ„o manual: A unidade RM&RR deve ser direcionada manualmente ao seu destino alvo. A unidade seguir· os comandos de movimento que vocÍ der, mas se seu caminho for bloqueado ou se a unidade sofrer danos excessivos, ela retornar· automaticamente ao seu compartimento.}
-{441}{}{Para onde devo mover o robÙ? Deixe eu ver os procedimentos.}
-{442}{}{Acho que estou pronto para comeÁar.}
-{443}{}{Fim de sess„o.}
-{450}{}{SolicitaÁ„o de informaÁıes sobre o procedimento:}
-{451}{}{Quero saber onde preciso ir para substituir o Regulador HidrelÈtrico da Magnetosfera.}
-{452}{}{Preciso saber onde est· a v·lvula principal de corte do refrigerante.}
-{453}{}{Fim de sess„o.}
-{460}{}{O Regulador HidrelÈtrico da Magnetosfera est· localizado na parede Leste do N˙cleo do Reator. Ele est· localizado ‡ direita da V·lvula Principal de Corte do Refrigerante.}
-{461}{}{Onde est· a v·lvula de corte do refrigerante principal?}
-{462}{}{Acho que estou pronto para comeÁar.}
-{463}{}{Fim de sess„o.}
-{470}{}{A v·lvula principal de corte do refrigerante est· localizada perto da parede leste do n˙cleo do reator. A v·lvula È controlada por uma grande roda vermelha.}
-{471}{}{Isso n„o deve ser muito difÌcil de encontrar... contanto que a tinta vermelha n„o tenha descascado.}
-{472}{}{Acho que estou pronto para comeÁar.}
-{473}{}{Fim de sess„o.}
-{480}{}{Controle manual de emergÍncia da unidade RM&RR: Para mover a unidade, ela deve receber os comandos de virar para esquerda, para direita, mover para frente e, em seguida, o ˙ltimo comando dado em qualquer sequÍncia È o de executar procedimento.}
-{482}{}{Se isso j· foi tentado antes, mostre a sÈrie de comandos anteriores aqui. Pedidos?: MoveVar1}
-{484}{}{Se isso j· foi tentado antes, mostre a sÈrie de comandos anteriores aqui. Temperatura a 5% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2}
-{486}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 10% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3}
-{488}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 15% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4}
-{490}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 20% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
-{492}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 25% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
-{494}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 30% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
-{496}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 35% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
-{498}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 40% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
-{500}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 45% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
-{502}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 50% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
-{504}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 55% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
-{506}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 60% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13}
-{508}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 65% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14}
-{510}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 70% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15}
-{512}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 75% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
-{514}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 80% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
-{516}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 85% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
-{518}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 90% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
-{520}{}{Se isso j· foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 95% da toler‚ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
+{440}{}{Dire√ß√£o manual: A unidade RM&RR deve ser direcionada manualmente ao seu destino alvo. A unidade seguir√° os comandos de movimento que voc√™ der, mas se seu caminho for bloqueado ou se a unidade sofrer danos excessivos, ela retornar√° automaticamente ao seu compartimento.}
+{441}{}{Para onde devo mover o rob√¥? Deixe eu ver os procedimentos.}
+{442}{}{Acho que estou pronto para come√ßar.}
+{443}{}{Fim de sess√£o.}
+{450}{}{Solicita√ß√£o de informa√ß√µes sobre o procedimento:}
+{451}{}{Quero saber onde preciso ir para substituir o Regulador Hidrel√©trico da Magnetosfera.}
+{452}{}{Preciso saber onde est√° a v√°lvula principal de corte do refrigerante.}
+{453}{}{Fim de sess√£o.}
+{460}{}{O Regulador Hidrel√©trico da Magnetosfera est√° localizado na parede Leste do N√∫cleo do Reator. Ele est√° localizado √† direita da V√°lvula Principal de Corte do Refrigerante.}
+{461}{}{Onde est√° a v√°lvula de corte do refrigerante principal?}
+{462}{}{Acho que estou pronto para come√ßar.}
+{463}{}{Fim de sess√£o.}
+{470}{}{A v√°lvula principal de corte do refrigerante est√° localizada perto da parede leste do n√∫cleo do reator. A v√°lvula √© controlada por uma grande roda vermelha.}
+{471}{}{Isso n√£o deve ser muito dif√≠cil de encontrar... contanto que a tinta vermelha n√£o tenha descascado.}
+{472}{}{Acho que estou pronto para come√ßar.}
+{473}{}{Fim de sess√£o.}
+{480}{}{Controle manual de emerg√™ncia da unidade RM&RR: Para mover a unidade, ela deve receber os comandos de virar para esquerda, para direita, mover para frente e, em seguida, o √∫ltimo comando dado em qualquer sequ√™ncia √© o de executar procedimento.}
+{482}{}{Se isso j√° foi tentado antes, mostre a s√©rie de comandos anteriores aqui. Pedidos?: MoveVar1}
+{484}{}{Se isso j√° foi tentado antes, mostre a s√©rie de comandos anteriores aqui. Temperatura a 5% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2}
+{486}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 10% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3}
+{488}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 15% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4}
+{490}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 20% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
+{492}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 25% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
+{494}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 30% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
+{496}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 35% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
+{498}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 40% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
+{500}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 45% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
+{502}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 50% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
+{504}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 55% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
+{506}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 60% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13}
+{508}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 65% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14}
+{510}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 70% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15}
+{512}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 75% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
+{514}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 80% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
+{516}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 85% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
+{518}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 90% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{520}{}{Se isso j√° foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 95% da toler√¢ncia da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
 {522}{}{Virar a esquerda.}
 {524}{}{Virar a direita.}
 {526}{}{Avance.}
-{530}{}{Execute o procedimento: Instale o regulador hidrelÈtrico da magnetosfera}
-{531}{}{Execute o procedimento: desligue a v·lvula de refrigeraÁ„o principal}
-{535}{}{Controle manual de emergÍncia da unidade RM&RR:}
+{530}{}{Execute o procedimento: Instale o regulador hidrel√©trico da magnetosfera}
+{531}{}{Execute o procedimento: desligue a v√°lvula de refrigera√ß√£o principal}
+{535}{}{Controle manual de emerg√™ncia da unidade RM&RR:}
 {540}{}{Adicione um comando.}
 {541}{}{Lista de programas.}
-{542}{}{RelatÛrio de sensores ambientais.}
+{542}{}{Relat√≥rio de sensores ambientais.}
 {543}{}{Informe os danos.}
 {544}{}{Exclua todos os comandos.}
 {545}{}{Executar programa.}
 {546}{}{Voltar.}
-{547}{}{Fim de sess„o.}
+{547}{}{Fim de sess√£o.}
 {550}{}{Voltar ao menu principal.}
 {600}{}{Selecione um comando:}
-{601}{}{Calibre o controlador de haste de ur‚nio.}
-{602}{}{Amplifique o escudo PlutÙnio-Gamma.}
-{603}{}{Ative o capacitor de tens„o da classe Saturno.}
-{604}{}{Desarmonizar impulsor de Nept˙nio.}
-{605}{}{Testar o compilador de ondas de J˙piter.}
-{606}{}{Instalar o regulador hidroelÈtrico da magnetosfera.}
-{607}{}{Desligar a v·lvula principal do refrigerante.}
-{608}{}{Ligar a v·lvula principal do refrigerante.}
+{601}{}{Calibre o controlador de haste de ur√¢nio.}
+{602}{}{Amplifique o escudo Plut√¥nio-Gamma.}
+{603}{}{Ative o capacitor de tens√£o da classe Saturno.}
+{604}{}{Desarmonizar impulsor de Nept√∫nio.}
+{605}{}{Testar o compilador de ondas de J√∫piter.}
+{606}{}{Instalar o regulador hidroel√©trico da magnetosfera.}
+{607}{}{Desligar a v√°lvula principal do refrigerante.}
+{608}{}{Ligar a v√°lvula principal do refrigerante.}
 {620}{}{Lista de programas:}
 {630}{}{Informe ambiental:}
 {640}{}{Informe de danos:}
 {650}{}{Comandos deletados.}
 {660}{}{--FINALIZAR PROGRAMA--}
 {700}{}{Espere um momento. Programa sendo executado.}
-{710}{}{Unidade n„o responde.}
-{720}{}{Erro de comando inv·lido. N˙cleo descarregado. A unidade voltou para a doca de controle.}
+{710}{}{Unidade n√£o responde.}
+{720}{}{Erro de comando inv√°lido. N√∫cleo descarregado. A unidade voltou para a doca de controle.}
 {730}{}{Erro em excesso de pedido.}
 {740}{}{Ok.}
-{800}{}{Procedimento de otimizaÁ„o bem sucedido.}
+{800}{}{Procedimento de otimiza√ß√£o bem sucedido.}
 {900}{}{Processamento de arquivos em lote. Por favor, aguarde.}
 {910}{}{[FEITO]}

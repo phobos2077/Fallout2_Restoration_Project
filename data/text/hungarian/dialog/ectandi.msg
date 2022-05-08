@@ -1,12 +1,12 @@
-{100}{}{Hogy mik vannak... Tandit látod.}
-{101}{}{Egy aranyos, hollófekete hajú lányt látsz, kedves arckifejezéssel. Álmodózva a távolba réved.}
-{102}{}{? Tandi. Álmodozva a távolba réved.}
-{103}{}{? Tandi. Álmodozva a távolba réved.}
-{104}{}{Üdv! Szóval te vagy a Fallout 1 h?sének a leszármazottja? Nem semmi. Én Tandi vagyok! Szia!}
-{105}{}{Nem akartam kifecsegni, de a nagyapád nagyon aranyos volt! *Sóhajt*}
+{100}{}{Hogy mik vannak... Tandit lÃ¡tod.}
+{101}{}{Egy aranyos, hollÃ³fekete hajÃº lÃ¡nyt lÃ¡tsz, kedves arckifejezÃ©ssel. ÃlmodÃ³zva a tÃ¡volba rÃ©ved.}
+{102}{}{? Tandi. Ãlmodozva a tÃ¡volba rÃ©ved.}
+{103}{}{? Tandi. Ãlmodozva a tÃ¡volba rÃ©ved.}
+{104}{}{Ãœdv! SzÃ³val te vagy a Fallout 1 h?sÃ©nek a leszÃ¡rmazottja? Nem semmi. Ã‰n Tandi vagyok! Szia!}
+{105}{}{Nem akartam kifecsegni, de a nagyapÃ¡d nagyon aranyos volt! *SÃ³hajt*}
 {106}{}{Ian? I think he's still in Fallout 2 somewhere. Vault City, maybe?}
-{107}{}{Tulajdonképpen azt hallottam, hogy *én magam is* a Fallout 2-ben vagyok valahol. De nem akarom megkeresni magam... mindkett?nket halálra rémítene a találkozás.}
-{108}{}{Sajnálom, hogy a harc terén nem voltam elég képzett a Fallout 1-ben. Nem sokat járok a nagyvilágban.}
-{109}{}{Mondd csak... te és Tycho szoktatok még találkozni?}
-{110}{}{Szóval volt ez a hiba, hogy amikor megmentettél a banditáktól, és visszavittél Apuhoz, ? meg dührohamot kapott. Amindenit! Szívás volt a javából!}
-{111}{}{Szívesen csatlakoznék hozzád, de éppen Apura, Aradeshre várok. Már jónéhány programrevízió óta találkoznunk kellett volna.}
+{107}{}{TulajdonkÃ©ppen azt hallottam, hogy *Ã©n magam is* a Fallout 2-ben vagyok valahol. De nem akarom megkeresni magam... mindkett?nket halÃ¡lra rÃ©mÃ­tene a talÃ¡lkozÃ¡s.}
+{108}{}{SajnÃ¡lom, hogy a harc terÃ©n nem voltam elÃ©g kÃ©pzett a Fallout 1-ben. Nem sokat jÃ¡rok a nagyvilÃ¡gban.}
+{109}{}{Mondd csak... te Ã©s Tycho szoktatok mÃ©g talÃ¡lkozni?}
+{110}{}{SzÃ³val volt ez a hiba, hogy amikor megmentettÃ©l a banditÃ¡ktÃ³l, Ã©s visszavittÃ©l Apuhoz, ? meg dÃ¼hrohamot kapott. Amindenit! SzÃ­vÃ¡s volt a javÃ¡bÃ³l!}
+{111}{}{SzÃ­vesen csatlakoznÃ©k hozzÃ¡d, de Ã©ppen Apura, Aradeshre vÃ¡rok. MÃ¡r jÃ³nÃ©hÃ¡ny programrevÃ­ziÃ³ Ã³ta talÃ¡lkoznunk kellett volna.}

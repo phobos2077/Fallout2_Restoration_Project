@@ -1,11 +1,11 @@
-{100}{}{Számítógép-terminál.}
-{101}{}{Úgy látszik, ehhez a számítógéphez egy kamera van csatlakoztatva.}
-{102}{}{Képtelen vagy elolvasni, mi van a képerny?re írva.}
-{103}{}{[A kamera elfordul az utasításaidra.]
-                               Skynet Biztonsági Rendszer
-                                        Biztonsági Terminál Felülbírálása - 3. Szint
-                      Személyi adatok visszakeresése - Dixon tizedes
-              Összehasonlítás - Nem felel meg
+{100}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l.}
+{101}{}{Ãšgy lÃ¡tszik, ehhez a szÃ¡mÃ­tÃ³gÃ©phez egy kamera van csatlakoztatva.}
+{102}{}{KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.}
+{103}{}{[A kamera elfordul az utasÃ­tÃ¡saidra.]
+                               Skynet BiztonsÃ¡gi Rendszer
+                                        BiztonsÃ¡gi TerminÃ¡l FelÃ¼lbÃ­rÃ¡lÃ¡sa - 3. Szint
+                      SzemÃ©lyi adatok visszakeresÃ©se - Dixon tizedes
+              Ã–sszehasonlÃ­tÃ¡s - Nem felel meg
                                    -Ki... vagy... te? -}
 {104}{}{}
 {105}{}{}
@@ -14,63 +14,63 @@
 {108}{}{}
 {109}{}{Mi a... Ki a fene vagy?}
 {110}{}{Dixon tizedes vagyok.}
-{111}{}{Én }
+{111}{}{Ã‰n }
 {112}{}{Uh!}
-{113}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
-{114}{}{Hiba! Nincs programállomány jelen.                                              Kérem, indítsa újra a számítógépet!}
+{113}{}{[KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.]}
+{114}{}{Hiba! Nincs programÃ¡llomÃ¡ny jelen.                                              KÃ©rem, indÃ­tsa Ãºjra a szÃ¡mÃ­tÃ³gÃ©pet!}
 {115}{}{}
 {116}{}{}
 {117}{}{Ah...}
-{118}{}{Kilépés.}
-{119}{}{Skynet vagyok. 59234-es számú Mesterséges Intelligencia projekt.
-                                                     Els?dleges cél: Kutatás és fejlesztés. 
-                           Másodlagos cél: Megvédeni a Sierra Hadiraktárat az ellenséges lényekkel szemben.
-                               Kérlek, azonosítsd magad!}
+{118}{}{KilÃ©pÃ©s.}
+{119}{}{Skynet vagyok. 59234-es szÃ¡mÃº MestersÃ©ges Intelligencia projekt.
+                                                     Els?dleges cÃ©l: KutatÃ¡s Ã©s fejlesztÃ©s. 
+                           MÃ¡sodlagos cÃ©l: MegvÃ©deni a Sierra HadiraktÃ¡rat az ellensÃ©ges lÃ©nyekkel szemben.
+                               KÃ©rlek, azonosÃ­tsd magad!}
 {120}{}{}
 {121}{}{Dixon tizedes vagyok.}
-{122}{}{Én }
-{123}{}{A barátod vagyok.}
-{124}{}{Kilépés.}
-{125}{}{Figyelem! A letapogatott kép nem egyezik a Dixon tizedes személyes adataiban találhatóval.
-                         Következtetés: Az Alany hazudik.
-                         Következtetés: Ellenség
-                               Következtetés: Megsemmisíteni.
+{122}{}{Ã‰n }
+{123}{}{A barÃ¡tod vagyok.}
+{124}{}{KilÃ©pÃ©s.}
+{125}{}{Figyelem! A letapogatott kÃ©p nem egyezik a Dixon tizedes szemÃ©lyes adataiban talÃ¡lhatÃ³val.
+                         KÃ¶vetkeztetÃ©s: Az Alany hazudik.
+                         KÃ¶vetkeztetÃ©s: EllensÃ©g
+                               KÃ¶vetkeztetÃ©s: MegsemmisÃ­teni.
  
- -Átvitel Vége-}
+ -Ãtvitel VÃ©ge-}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {129}{}{}
-{130}{}{Kilépés.}
-{131}{}{A személyi fájlok között nem található ilyen azonosító.
-         Szkennelés...
+{130}{}{KilÃ©pÃ©s.}
+{131}{}{A szemÃ©lyi fÃ¡jlok kÃ¶zÃ¶tt nem talÃ¡lhatÃ³ ilyen azonosÃ­tÃ³.
+         SzkennelÃ©s...
                                                            Ember  - N?
-                                                         További analízisre menj a vezérl?terembe!
+                                                         TovÃ¡bbi analÃ­zisre menj a vezÃ©rl?terembe!
  
- -Átvitel Vége-}
+ -Ãtvitel VÃ©ge-}
 {132}{}{}
 {133}{}{}
 {134}{}{}
-{135}{}{A személyi fájlok között nem található ilyen azonosító.
-         Szkennelés...
-                                                           Ember  - Férfi
-                                                         További analízisre menj a vezérl?terembe!
+{135}{}{A szemÃ©lyi fÃ¡jlok kÃ¶zÃ¶tt nem talÃ¡lhatÃ³ ilyen azonosÃ­tÃ³.
+         SzkennelÃ©s...
+                                                           Ember  - FÃ©rfi
+                                                         TovÃ¡bbi analÃ­zisre menj a vezÃ©rl?terembe!
  
- -Átvitel Vége-}
+ -Ãtvitel VÃ©ge-}
 {136}{}{}
 {137}{}{}
 {138}{}{}
-{139}{}{Kilépés.}
-{140}{}{Meghatározás: Barát
-                                                   F?név - Valaki, aki nem ellenség.
-                                   További analízisre menj a vezérl?terembe!
+{139}{}{KilÃ©pÃ©s.}
+{140}{}{MeghatÃ¡rozÃ¡s: BarÃ¡t
+                                                   F?nÃ©v - Valaki, aki nem ellensÃ©g.
+                                   TovÃ¡bbi analÃ­zisre menj a vezÃ©rl?terembe!
  
- -Átvitel Vége-}
+ -Ãtvitel VÃ©ge-}
 {141}{}{}
 {142}{}{}
-{143}{}{Kilépés.}
-{200}{}{ képtelen elolvasni, mi van a képerny?re írva.}
-{300}{}{Úgy látszik, a számítógép védelmi berendezéssel van ellátva.}
-{301}{}{Áramütés ért, ezért -}
-{302}{}{, a társad, áramütést szenvedett, ezért -}
-{303}{}{ ÉP a büntetés!}
+{143}{}{KilÃ©pÃ©s.}
+{200}{}{ kÃ©ptelen elolvasni, mi van a kÃ©perny?re Ã­rva.}
+{300}{}{Ãšgy lÃ¡tszik, a szÃ¡mÃ­tÃ³gÃ©p vÃ©delmi berendezÃ©ssel van ellÃ¡tva.}
+{301}{}{ÃramÃ¼tÃ©s Ã©rt, ezÃ©rt -}
+{302}{}{, a tÃ¡rsad, Ã¡ramÃ¼tÃ©st szenvedett, ezÃ©rt -}
+{303}{}{ Ã‰P a bÃ¼ntetÃ©s!}

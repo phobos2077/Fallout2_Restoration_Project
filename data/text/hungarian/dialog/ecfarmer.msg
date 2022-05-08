@@ -1,40 +1,40 @@
-{100}{}{Egy szikár, napbarnított embert látsz.}
+{100}{}{Egy szikÃ¡r, napbarnÃ­tott embert lÃ¡tsz.}
 {101}{}{Telepes.}
 {102}{}{A farmerekre jellemz? napcserzett b?re van.}
-{103}{}{Épp a legjobbkor érkeztél. Ha kés?bb jöttél volna... szóval, hálát adok az égnek, hogy id?ben érkeztél. Nincs túl sok értékünk, de szeretném ha elfogadnád ezt jutalmul, amiért segítettél nekünk. [Átad neked valamit.]}
-{104}{}{Köszönöm!}
+{103}{}{Ã‰pp a legjobbkor Ã©rkeztÃ©l. Ha kÃ©s?bb jÃ¶ttÃ©l volna... szÃ³val, hÃ¡lÃ¡t adok az Ã©gnek, hogy id?ben Ã©rkeztÃ©l. Nincs tÃºl sok Ã©rtÃ©kÃ¼nk, de szeretnÃ©m ha elfogadnÃ¡d ezt jutalmul, amiÃ©rt segÃ­tettÃ©l nekÃ¼nk. [Ãtad neked valamit.]}
+{104}{}{KÃ¶szÃ¶nÃ¶m!}
 {105}{}{Ah...}
-{106}{}{Még egyszer köszönjük, hogy segítettél.}
+{106}{}{MÃ©g egyszer kÃ¶szÃ¶njÃ¼k, hogy segÃ­tettÃ©l.}
 {107}{}{}
 {108}{}{}
-{109}{}{Csak tartsd olyan helyen a kezed, ahol láthatom! Mostanában egyre több bandita járkál errefelé, és szerintem te is az vagy. Mit akarsz?}
-{110}{}{Csak venni szeretnék ezt-azt.}
-{111}{}{Átutazóban vagyok. Megyek is.}
+{109}{}{Csak tartsd olyan helyen a kezed, ahol lÃ¡thatom! MostanÃ¡ban egyre tÃ¶bb bandita jÃ¡rkÃ¡l errefelÃ©, Ã©s szerintem te is az vagy. Mit akarsz?}
+{110}{}{Csak venni szeretnÃ©k ezt-azt.}
+{111}{}{ÃtutazÃ³ban vagyok. Megyek is.}
 {112}{}{Ah...}
-{113}{}{Hát, azt hiszem, azzal nem árthatsz. Itt van a kínálatom.}
+{113}{}{HÃ¡t, azt hiszem, azzal nem Ã¡rthatsz. Itt van a kÃ­nÃ¡latom.}
 {114}{}{[Cserebere]}
-{115}{}{Oké, most eriggy!}
+{115}{}{OkÃ©, most eriggy!}
 {116}{}{[Cserebere]}
 {117}{}{Mondom, eriggy!}
 {118}{}{}
-{119}{}{[Megnyugszik egy kicsit.] Túl hülye vagy ahhoz, hogy bandita légy. Üzletelni akarsz?}
-{120}{}{Hát hogy is mondjam...}
+{119}{}{[Megnyugszik egy kicsit.] TÃºl hÃ¼lye vagy ahhoz, hogy bandita lÃ©gy. Ãœzletelni akarsz?}
+{120}{}{HÃ¡t hogy is mondjam...}
 {121}{}{[ingatod a fejed]}
-{122}{}{Jól van. Megvolt az üzlet. Kérlek, távozz!}
-{123}{}{[vége]}
+{122}{}{JÃ³l van. Megvolt az Ã¼zlet. KÃ©rlek, tÃ¡vozz!}
+{123}{}{[vÃ©ge]}
 {124}{}{Hagyd el a farmomat!}
 {125}{}{Senki nem veheti el t?lem az otthonomat!}
-{126}{}{Mocskos banditák!}
-{127}{}{T?nj a földemr?l!}
-{128}{}{Manapság már senkiben sem lehet megbízni.}
-{129}{}{Rohadt banditák!}
-{130}{}{Túl keményen dolgoztam ahhoz, hogy most feladjam.}
-{131}{}{Talán máshol telepedek le.}
-{132}{}{Csak egy szegény farmer vagyok.}
-{133}{}{Kérlek, ne égesd fel a farmomat!}
-{134}{}{Úgysem szerettem kapálni.}
-{135}{}{Mindjárt jövök.}
-{136}{}{Vidd inkább a feleségemet... kérlek...}
-{200}{}{Egy szikár, napbarnított n?t látsz.}
+{126}{}{Mocskos banditÃ¡k!}
+{127}{}{T?nj a fÃ¶ldemr?l!}
+{128}{}{ManapsÃ¡g mÃ¡r senkiben sem lehet megbÃ­zni.}
+{129}{}{Rohadt banditÃ¡k!}
+{130}{}{TÃºl kemÃ©nyen dolgoztam ahhoz, hogy most feladjam.}
+{131}{}{TalÃ¡n mÃ¡shol telepedek le.}
+{132}{}{Csak egy szegÃ©ny farmer vagyok.}
+{133}{}{KÃ©rlek, ne Ã©gesd fel a farmomat!}
+{134}{}{Ãšgysem szerettem kapÃ¡lni.}
+{135}{}{MindjÃ¡rt jÃ¶vÃ¶k.}
+{136}{}{Vidd inkÃ¡bb a felesÃ©gemet... kÃ©rlek...}
+{200}{}{Egy szikÃ¡r, napbarnÃ­tott n?t lÃ¡tsz.}
 {201}{}{Telepes.}
 {202}{}{A farmerekre jellemz? napcserzett b?re van.}

@@ -5,23 +5,23 @@
 {200}{}{Vattene da qui!}
 {210}{}{Ragazzi, scappate! E' un sicario!}
 {211}{}{Ti ammazzero', bastardo pezzo di merda.}
-{212}{}{Ce l'hai il coraggio di farti sotto…?}
-{213}{}{E cosi' ti hanno mandato per fare il lavoro sporco…}
-{214}{}{Sicario da strapazzo, questo sara' il tuo ultimo incarico…}
+{212}{}{Ce l'hai il coraggio di farti sottoâ€¦?}
+{213}{}{E cosi' ti hanno mandato per fare il lavoro sporcoâ€¦}
+{214}{}{Sicario da strapazzo, questo sara' il tuo ultimo incaricoâ€¦}
 {220}{}{Il matrimonio non e' una parola. E' una condanna a vita.}
-{221}{}{Dannati Salvatore…}
-{222}{}{Dove sono quei dannati ragazzi…?}
+{221}{}{Dannati Salvatoreâ€¦}
+{222}{}{Dove sono quei dannati ragazziâ€¦?}
 {223}{}{Nessuno ha visto Christopher, in giro? Dite a quel ragazzo che voglio vederlo. Subito.}
-{224}{}{Mi chiedo se il nostro matrimonio sia legalmente vincolante…}
-{225}{}{I profitti dell'ultimo periodo sono in calo… sara' meglio cominciare ad annacquare il liquore.}
-{226}{}{Ho bisogno di piu' alcol etilico. E di meno Ethyl Wright…}
-{227}{}{I Salvatore sono stati tranquilli, ultimamente…}
+{224}{}{Mi chiedo se il nostro matrimonio sia legalmente vincolanteâ€¦}
+{225}{}{I profitti dell'ultimo periodo sono in caloâ€¦ sara' meglio cominciare ad annacquare il liquore.}
+{226}{}{Ho bisogno di piu' alcol etilico. E di meno Ethyl Wrightâ€¦}
+{227}{}{I Salvatore sono stati tranquilli, ultimamenteâ€¦}
 {228}{}{Dove diavolo e' quella donna? Ethyl! Ethyl!}
 {229}{}{Devo smetterla di mandare a quel paese i ragazzi...}
 {230}{}{Dovremo espandere la nostra rete di distribuzione se vogliamo rimanere nella mappa di Reno...}
 {231}{}{Se Christopher si azzarda ancora a rispondermi a quel modo...}
 {232}{}{Portatemi il mio libro.}
-{233}{}{Povero Richard…}
+{233}{}{Povero Richardâ€¦}
 {234}{}{E' forse troppo chiedere un po' di pace e tranquillita'?! Piantatela!}
 {240}{}{(La faccia di questo vecchio e' piena di grinze... sembra che qualsiasi espressione diversa da questa smorfia arrabbiata gli sia ignota. Solo pochi capelli castani rimangono nella sua folta chioma grigia.) }
 {241}{}{Parla, selvaggio. Chi sei e che cosa vuoi?}
@@ -31,7 +31,7 @@
 {245}{}{Yoo Boo Hoo Yooooo}
 {246}{}{Kootchie Kootchie Koooo}
 {247}{}{Chi diavolo tu?}
-{248}{}{Sono un semplice viandante… in cerca di lavoro.}
+{248}{}{Sono un semplice viandanteâ€¦ in cerca di lavoro.}
 {249}{}{Mi chiamo }
 {250}{}{In realta' credo di esser entrato nella stanza sbagliata. Me ne vado subito.}
 {260}{}{(Si incupisce.) Sparisci dalla mia vista. Fatti rivedere da queste parti e ti faro' sparare, hai capito?}
@@ -43,7 +43,7 @@
 {276}{}{(Wright esplode in un ringhio e comincia a urlare.) }
 {277}{}{Ragazzi! Qui c'e' un ospite che sta cercando di ottenere un pezzo di terra sul Golgotha! Venite subito!}
 {278}{}{Venire subito, ragazzi! Me vuole giocare}
-{279}{}{Whoa, aspettate un attimo…!}
+{279}{}{Whoa, aspettate un attimoâ€¦!}
 {280}{}{Adesso BASTA! Ne ho abbastanza delle tue stronzate. Sarai morto prima che i tuoi ragazzi possano arrivare.}
 {281}{}{Non arriveranno in tempo per salvarti la vita...}
 {282}{}{Se vuole scusarmi... Io e l'uscita avremmo un appuntamento...}
@@ -56,7 +56,7 @@
 {301}{}{Non mi racconti BALLE? (Sul suo volto spunta un ghigno.) Beh, piacere di conoscerti, SCHIAVISTA. Sono felice che tu sia passato di qua, molto gentile da parte tua. (Mentre ti osserva, il ghigno si trasforma in un'espressione imbronciata.) Noi non trattiamo con quelli come te, hai capito? Adesso vattene!}
 {302}{}{Si', io --}
 {303}{}{In realta', pare che io sia entrato nella stanza sbagliata. Voglia scusarmi...}
-{304}{}{Aspetta un secondo, non ho ancora FINITO di parlare con te. Io…}
+{304}{}{Aspetta un secondo, non ho ancora FINITO di parlare con te. Ioâ€¦}
 {305}{}{D'accordo. Credo proprio che me ne andro'.}
 {310}{}{Non mi racconti BALLE? (Sul suo volto spunta un ghigno.) Beh, piacere di conoscerti, "}
 {311}{}{Si', io --}
@@ -70,7 +70,7 @@
 {332}{}{Non che io sappia. Ma credo che me ne ricorderei, se ne avessi.}
 {340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
 {341}{}{Come posso aiutarti?}
-{342}{}{Uh… Non vedo proprio come io potrei es --}
+{342}{}{Uhâ€¦ Non vedo proprio come io potrei es --}
 {350}{}{Voglio sapere quale spacciatore ha dato quella MERDA a Richard e l'ha costretto a prenderla. Ogni volta che mando i miei ragazzi a indagare, non riescono a scoprire nulla. Forse qualcuno che non ha il sangue degli Wright nelle vene potra' ottenere delle risposte.}
 {351}{}{Uh, "l'ha costretto a prenderla"?}
 {352}{}{Accetto l'incarico.}
@@ -98,12 +98,12 @@
 {415}{}{Davvero? In giro si dice che quel bastardo sia GIA' morto... ma non credo di dirti nulla di nuovo. Ti avevo DETTO di non toccarlo - e tu hai fatto una cazzata. Adesso, quello morto sei TU.}
 {416}{}{Aspetti --}
 {417}{}{Oh, gia', beh --}
-{425}{}{Quel bastardo ha vissuto i suoi ultimi giorni. Entro domattina sara' morto. Ma sara' una morte molto LUNGA…}
-{426}{}{Ora: a proposito della ricompensa…}
+{425}{}{Quel bastardo ha vissuto i suoi ultimi giorni. Entro domattina sara' morto. Ma sara' una morte molto LUNGAâ€¦}
+{426}{}{Ora: a proposito della ricompensaâ€¦}
 {427}{}{E' quel che si merita.}
 {428}{}{Uh, ma Renesco non ha dato il Jet a Richard... non sapeva a chi fosse destinato... sono stati i SALVATORE ad avvelenare suo figlio.}
-{435}{}{Ti sono debitore… ti sono debitore. }
-{436}{}{Bene, prima di entrare nei dettagli, vediamo di chiudere questo conto… }
+{435}{}{Ti sono debitoreâ€¦ ti sono debitore. }
+{436}{}{Bene, prima di entrare nei dettagli, vediamo di chiudere questo contoâ€¦ }
 {437}{}{Ecco un po' di soldi per il disturbo, piu' qualche munizione, del liquore proveniente dalla mia riserva privata... e un altro lavoro per te, se ti interessa.}
 {438}{}{Mi interessa.}
 {439}{}{No grazie. Ci vediamo.}
@@ -115,7 +115,7 @@
 {449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
 {451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
 {453}{}{Esci subito di qui.}
-{465}{}{Capita che, non troppo tempo fa, io sia entrato in possesso di una mappa che indica la posizione di una vecchia base dell'esercito nelle montagne, non lontano da qui. Trova il modo per entrarci e io sapro' ricompensarti…}
+{465}{}{Capita che, non troppo tempo fa, io sia entrato in possesso di una mappa che indica la posizione di una vecchia base dell'esercito nelle montagne, non lontano da qui. Trova il modo per entrarci e io sapro' ricompensartiâ€¦}
 {466}{}{Okee Signor Orderville }
 {467}{}{ va. }
 {468}{}{D'accordo. Andro' a controllare.}
@@ -143,8 +143,8 @@
 {536}{}{Se sei tornato senza fatto quello che ti avevo chiesto, preparati a soffrire le pene dell'inferno.}
 {537}{}{Non ancora.}
 {538}{}{Si'. Sono riuscito ad entrare e ho trovato un sacco di vecchie armi e apparecchiature militari. Aspettano soltanto che qualcuno le vada a prendere.
- Ora, a proposito della mia ricompensa…}
-{539}{}{Sono entrato nella base, ma c'e' stato un…incidente… la base e' contaminata.}
+ Ora, a proposito della mia ricompensaâ€¦}
+{539}{}{Sono entrato nella base, ma c'e' stato unâ€¦incidenteâ€¦ la base e' contaminata.}
 {540}{}{Mi spiace. Tornero' quando saro' riuscito ad entrare nella base militare.}
 {541}{}{'Fanculo questo lavoro, e 'fanculo tu. Me ne vado.}
 {550}{}{Se non hai FATTO quello che ti avevo chiesto, allora cosa DIAVOLO ci fai qui?! Devi penetrare in quella base, quindi non tornare qui finche' non ce l'avrai fatta!}
@@ -156,7 +156,7 @@
 {576}{}{Grazie. Lo faro'.}
 {580}{}{(Gli occhi luccicano.) Sei stato bravo, }
 {581}{}{Un "incidente"? Aw, diavolo, non voglio nemmeno saperlo. Vattene da qui e non farti mai piu' rivedere.}
-{582}{}{Grazie, Mr. Wright. Se sono un picciotto, mi piacerebbe farmi chiamare…}
+{582}{}{Grazie, Mr. Wright. Se sono un picciotto, mi piacerebbe farmi chiamareâ€¦}
 {583}{}{D'accordo.}
 {584}{}{Allora, come vuoi essere chiamato?}
 {590}{}{(Sorride quando ti vede.) }
@@ -164,15 +164,15 @@
 {592}{}{Certo. Passavo solo di qua, Mr. Wright. Stia bene, signore.}
 {600}{}{(Sogghigna.) Non male, non male. Mia moglie e' sempre un sacro terrore, ma non e' una novita'. Le gioie del matrimonio.}
 {601}{}{Capisco. Beh, volevo soltanto salutarla, Mr. Wright. Stia bene, signore.}
-{610}{}{Arrabbiato? Diavolo, si': la mia dannatissima moglie se l'e' appena presa con uno dei miei distillatori. Non so come diavolo l'abbia scoperto, ma…}
-{611}{}{Arrabbiato? Diavolo, si': qualche stronzo figlio di troia ha distrutto uno dei miei distillatori. Non so come diavolo sia potuto succedere, ma…}
+{610}{}{Arrabbiato? Diavolo, si': la mia dannatissima moglie se l'e' appena presa con uno dei miei distillatori. Non so come diavolo l'abbia scoperto, maâ€¦}
+{611}{}{Arrabbiato? Diavolo, si': qualche stronzo figlio di troia ha distrutto uno dei miei distillatori. Non so come diavolo sia potuto succedere, maâ€¦}
 {612}{}{Arrabbiato? Diavolo, si': i miei clienti stanno scomparendo... letteralmente. C'e' qualcosa che non va nell'alcol e credo che stia uccidendo la gente. Mi domando se il processo di fermentazione sia stato avvelenato...}
 {613}{}{Probabilmente si e' trattato di un caso. Pura fortuna, di sicuro! Non credo che qualcuno gliel'abbia detto... no... molto improbabile.}
 {614}{}{Beh, quei vecchi macchinari si rompono in continuazione! Non credo che qualcuno l'abbia fatto di proposito. Molto improbabile.}
 {615}{}{Beh, di sicuro non ha nulla a che fare con del veleno di radscorpione che fuoriesce da una coda mozzata di radscorpione buttata in una delle vasche di fermentazione. Non la terrei neanche in considerazione come ipotesi.}
-{620}{}{E' strano che tu me lo chieda. Mio figlio ha preso una pistola da qualche parte... credo sia stata una delle altre famiglie a fargliela trovare, nella speranza che si ammazzasse o che sparasse al suo vecchio. Quando becchero' quel bastardo…}
+{620}{}{E' strano che tu me lo chieda. Mio figlio ha preso una pistola da qualche parte... credo sia stata una delle altre famiglie a fargliela trovare, nella speranza che si ammazzasse o che sparasse al suo vecchio. Quando becchero' quel bastardoâ€¦}
 {621}{}{Uh, una pistola? Davvero? Ha ragione, signore: probabilmente e' stato un membro delle altre famiglie a dargliela. Sara' difficile scoprire chi e' stato, pero'. Io non ci penserei piu'.}
-{625}{}{(Annuisce.) Gia'... Aw, beh…}
+{625}{}{(Annuisce.) Gia'... Aw, behâ€¦}
 {626}{}{Certo. Oh, beh, passavo soltanto di qua, Mr. Wright. Stia bene, signore.}
 {630}{}{(Aggrotta le sopracciglia.) Per come la vedo io, e' stato probabilmente uno dei pusher dei Mordino... quella dannata famiglia controlla quasi tutto il Jet di Reno. Se fossi in te terrei d'occhio il Desperado, per vedere quali spacciatori bazzicano da quelle parti.}
 {640}{}{Cos -? "Avvelenato"? Di che cosa diavolo stai parlando?}
@@ -182,13 +182,13 @@
 {644}{}{E' stato avvelenato con del veleno di radscorpione. L'overdose di Jet era soltanto una copertura per l'avvelenamento.}
 {650}{}{"Esaminato il cadavere di mio figlio"?!?}
 {651}{}{Gia', ho aperto la sua tomba e ho eseguito un'autopsia.}
-{652}{}{Uh…beh, NO. Mi sono espresso male. "Cadavere di suo figlio"? No, volevo dire "di un coniglio"! Si', questo volevo dire.}
+{652}{}{Uhâ€¦beh, NO. Mi sono espresso male. "Cadavere di suo figlio"? No, volevo dire "di un coniglio"! Si', questo volevo dire.}
 {653}{}{Credo che questo non sia il momento migliore per discuterne. Ne parleremo piu' tardi.}
-{660}{}{Tu, brutto figlio di puttana…}
-{661}{}{Tu, grandissima troia…}
+{660}{}{Tu, brutto figlio di puttanaâ€¦}
+{661}{}{Tu, grandissima troiaâ€¦}
 {662}{}{ ti sei appena guadagnato il TUO pezzo di terra sul Golgotha. Sempre che riescano a ritrovare tutti i tuoi pezzi. (Comincia a gridare.) Ragazzi! Venite qui! E portate i coltelli!}
 {663}{}{Aspetta! Non possiamo parlarne?}
-{664}{}{Per farmi fuori avrete bisogno di qualcosa di piu' che qualche coltello…}
+{664}{}{Per farmi fuori avrete bisogno di qualcosa di piu' che qualche coltelloâ€¦}
 {665}{}{Se vuole scusarmi... L'uscita e io avremmo un appuntamento.}
 {670}{}{Mettiamo per un secondo che io ti creda... e non dico che lo STO facendo... allora chi avrebbe AVVELENATO mio figlio? E perche' prendersi il disturbo di imbottirlo di Jet?}
 {671}{}{Si dice che siano stati i Salvatore. L'hanno riempito di Jet mischiato con veleno di radscorpione e poi l'hanno lasciato in un posto dove voi poteste trovarlo.}
@@ -199,10 +199,10 @@
  be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
  Salvatores... all they have to worry about then is the Bishops.}
 {682}{}{Non lo so. Forse dovrebbe chiederlo a loro.}
-{690}{}{(Ti fissa per diversi istanti, poi una secca risata gli esce dalle labbra.) Tu mi dai una risposta e io non posso farci nulla. I Salvatore…che Dio li maledica. (Respira profondamente.)}
+{690}{}{(Ti fissa per diversi istanti, poi una secca risata gli esce dalle labbra.) Tu mi dai una risposta e io non posso farci nulla. I Salvatoreâ€¦che Dio li maledica. (Respira profondamente.)}
 {691}{}{Cosa c'e'?}
 {692}{}{"Non puo' farci nulla"? Che cosa intende dire?}
-{700}{}{Ma tu sai che tipo di ARMI hanno quei bastardi dei Salvatore, amico? Hanno quei dannati fulminatori. Un SOLO Salvatore in possesso di una di quelle bocche da fuoco puo' uccidere tutta la mia famiglia senza battere ciglio. Per contrastarli mi servirebbe…}
+{700}{}{Ma tu sai che tipo di ARMI hanno quei bastardi dei Salvatore, amico? Hanno quei dannati fulminatori. Un SOLO Salvatore in possesso di una di quelle bocche da fuoco puo' uccidere tutta la mia famiglia senza battere ciglio. Per contrastarli mi servirebbeâ€¦}
 {701}{}{Cosa?}
 {702}{}{Non si preoccupi, ho gia' annientato i Salvatore.}
 {710}{}{Ah! Quelli di Reno, forse, ma tu hai molto da imparare riguardo alle famiglie... ci sono altri Salvatore oltre a quelli di Reno, e anche se ne rimanesse soltanto uno, sarebbe comunque un problema. Per sconfiggerli mi servirebbe...}
@@ -218,6 +218,6 @@
 {5261}{}{!}
 {5310}{}{". Sono felice che tu sia passato di qua, molto gentile da parte tua. (Mentre ti osserva, il ghigno si trasforma in un'espressione imbronciata.) Vuoi lavorare per la famiglia Wright, eh?}
 {5467}{}{ penetrato in base. }
-{5580}{}{. Vai al Cat's Paw e al New Reno Arms… di' loro che ti mando io e ti tratteranno bene. Adesso fai parte della famiglia... sei un picciotto e presto tutta Reno lo sapra'.}
-{5590}{}{…ti trattano tutti col dovuto rispetto? Nessun problema?}
+{5580}{}{. Vai al Cat's Paw e al New Reno Armsâ€¦ di' loro che ti mando io e ti tratteranno bene. Adesso fai parte della famiglia... sei un picciotto e presto tutta Reno lo sapra'.}
+{5590}{}{â€¦ti trattano tutti col dovuto rispetto? Nessun problema?}
 {6467}{}{ schiaccia!}

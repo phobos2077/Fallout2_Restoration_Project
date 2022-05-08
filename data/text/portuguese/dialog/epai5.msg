@@ -1,18 +1,18 @@
-{100}{}{Você vê uma porta.}
-{101}{}{Você vê uma porta eletrônica.}
-{102}{}{Você vê uma porta eletrônica com uma substituição, ativada por voz, bloqueio.}
-{200}{}{Confirme o código:}
+{100}{}{VocÃª vÃª uma porta.}
+{101}{}{VocÃª vÃª uma porta eletrÃ´nica.}
+{102}{}{VocÃª vÃª uma porta eletrÃ´nica com uma substituiÃ§Ã£o, ativada por voz, bloqueio.}
+{200}{}{Confirme o cÃ³digo:}
 {201}{}{XY104FD}
 {202}{}{BFN12}
 {203}{}{Aberto}
 {204}{}{Trigo}
 {205}{}{Abre}
 {206}{}{[FIM]}
-{300}{}{Código de porta incorreto. Porta bloqueada. Entre em contato com o chefe de Relações Públicas para o código de substituição.}
+{300}{}{CÃ³digo de porta incorreto. Porta bloqueada. Entre em contato com o chefe de RelaÃ§Ãµes PÃºblicas para o cÃ³digo de substituiÃ§Ã£o.}
 {301}{}{[FIM]}
-{400}{}{Confirme o código de substituição.}
+{400}{}{Confirme o cÃ³digo de substituiÃ§Ã£o.}
 {401}{}{[FIM]}
-{402}{}{Esta porta está bloqueada eletronicamente.}
-{403}{}{Destrancando a porta. Obrigado e tenha um dia agradável.}
+{402}{}{Esta porta estÃ¡ bloqueada eletronicamente.}
+{403}{}{Destrancando a porta. Obrigado e tenha um dia agradÃ¡vel.}
 {404}{}{[FIM]}
-{500}{}{Não existe nenhum bloqueio para escolher.}
+{500}{}{NÃ£o existe nenhum bloqueio para escolher.}

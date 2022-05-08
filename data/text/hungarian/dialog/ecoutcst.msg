@@ -1,7 +1,7 @@
 {100}{}{Ne fuss el!}
-{101}{}{A barátaid vagyunk.}
-{102}{}{Ne támadj!}
+{101}{}{A barÃ¡taid vagyunk.}
+{102}{}{Ne tÃ¡madj!}
 {103}{}{Barom!}
-{104}{}{Hagyj békén!}
-{105}{}{Tisztátalan!}
+{104}{}{Hagyj bÃ©kÃ©n!}
+{105}{}{TisztÃ¡talan!}
 {106}{}{Menjen innen!}

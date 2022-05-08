@@ -1,17 +1,17 @@
 {100}{}{Tu vois un terminal d'ordinateur.}
-{101}{}{Tu vois un terminal d'ordinateur de sécurité.}
-{102}{}{Tu vois un terminal d'ordinateur standard. Il semble fonctionnel et prêt à l'utilisation.}
-{103}{}{Ce terminal contrôle les générateurs de champs de force. Il indique que tout fonctionne normalement.}
-{104}{}{Ce terminal contrôle les générateurs de champs de force. Il indique qu'une unité est déconnectée en raison d'un problème d'énergie.}
-{105}{}{Désactiver le champ de force.}
+{101}{}{Tu vois un terminal d'ordinateur de sÃ©curitÃ©.}
+{102}{}{Tu vois un terminal d'ordinateur standard. Il semble fonctionnel et prÃªt Ã  l'utilisation.}
+{103}{}{Ce terminal contrÃ´le les gÃ©nÃ©rateurs de champs de force. Il indique que tout fonctionne normalement.}
+{104}{}{Ce terminal contrÃ´le les gÃ©nÃ©rateurs de champs de force. Il indique qu'une unitÃ© est dÃ©connectÃ©e en raison d'un problÃ¨me d'Ã©nergie.}
+{105}{}{DÃ©sactiver le champ de force.}
 {106}{}{Activer le champ de force.}
-{107}{}{C'est terminé !}
-{108}{}{Tu donnes l'ordre de désactiver le champ de force.}
-{109}{}{Visiblement, tu ne parviens pas à contourner les codes de sécurité pour désactiver le champ de force.}
-{110}{}{C'est terminé !}
+{107}{}{C'est terminÃ© !}
+{108}{}{Tu donnes l'ordre de dÃ©sactiver le champ de force.}
+{109}{}{Visiblement, tu ne parviens pas Ã  contourner les codes de sÃ©curitÃ© pour dÃ©sactiver le champ de force.}
+{110}{}{C'est terminÃ© !}
 {111}{}{Tu donnes l'ordre d'activer le champ de force.}
-{112}{}{Visiblement, tu ne parviens pas à contourner les codes de sécurité pour activer le champ de force.}
-{113}{}{C'est terminé !}
-{114}{}{Ce terminal contrôle les générateurs de champs de force. Il indique que le champ de force est désactivé.}
-{115}{}{Ce terminal contrôle les générateurs de champs de force. Il indique que le champ de force est temporairement désactivé.}
-{116}{}{Ce terminal contrôle les générateurs de champs de force. Il indique que le champ de force est endommagé.}
+{112}{}{Visiblement, tu ne parviens pas Ã  contourner les codes de sÃ©curitÃ© pour activer le champ de force.}
+{113}{}{C'est terminÃ© !}
+{114}{}{Ce terminal contrÃ´le les gÃ©nÃ©rateurs de champs de force. Il indique que le champ de force est dÃ©sactivÃ©.}
+{115}{}{Ce terminal contrÃ´le les gÃ©nÃ©rateurs de champs de force. Il indique que le champ de force est temporairement dÃ©sactivÃ©.}
+{116}{}{Ce terminal contrÃ´le les gÃ©nÃ©rateurs de champs de force. Il indique que le champ de force est endommagÃ©.}

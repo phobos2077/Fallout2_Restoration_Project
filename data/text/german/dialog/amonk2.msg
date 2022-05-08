@@ -1,11 +1,11 @@
-{100}{}{Du siehst einen Mönch.}
+{100}{}{Du siehst einen MÃ¶nch.}
 {101}{}{Du siehst eine heilige Frau.}
-{102}{}{Du siehst einen gewöhnlichen Mönch von Abbey.}
-{103}{}{Du siehst eine gewöhnliche Nonne von Abbey.}
-{200}{}{Grüße.}
+{102}{}{Du siehst einen gewÃ¶hnlichen MÃ¶nch von Abbey.}
+{103}{}{Du siehst eine gewÃ¶hnliche Nonne von Abbey.}
+{200}{}{GrÃ¼ÃŸe.}
 {201}{}{Willkommen in Abbey.}
-{202}{}{Du solltest mit unserem Anführer reden, wenn du Informationen erhalten möchtest.}
+{202}{}{Du solltest mit unserem AnfÃ¼hrer reden, wenn du Informationen erhalten mÃ¶chtest.}
 {203}{}{Guten Tag... oder ist es schon Nacht?}
 {204}{}{Es gibt soviel Arbeit, die getan werden muss.}
-{205}{}{Das Leben hier in Abbey ist sehr friedlich. Etwas sehr kostbares in diesem elenden Ödland.}
-{500}{}{Hör auf damit!}
+{205}{}{Das Leben hier in Abbey ist sehr friedlich. Etwas sehr kostbares in diesem elenden Ã–dland.}
+{500}{}{HÃ¶r auf damit!}

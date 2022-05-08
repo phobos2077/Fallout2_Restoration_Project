@@ -1,5 +1,5 @@
-1:A mutánsok elpusztítása a város halálához vezetett.
-2:Erejük, és a mérgekkel szembeni ellenállóképességük nélkül az értékes ércek elérhetetlenné váltak a bányában.
-3:Eleinte csak örvendeztek azok, akik a pusztulásukat okozták, egészen addig, amíg rá nem döbbentek, mekkora ?rültséget cselekedtek.
-4:Igyekeztek fenntartani a közösség virágzását, mindhiába.
-5:A szél és a pusztaság letakarította Broken Hills-t a térképr?l.
+1:A mutÃ¡nsok elpusztÃ­tÃ¡sa a vÃ¡ros halÃ¡lÃ¡hoz vezetett.
+2:ErejÃ¼k, Ã©s a mÃ©rgekkel szembeni ellenÃ¡llÃ³kÃ©pessÃ©gÃ¼k nÃ©lkÃ¼l az Ã©rtÃ©kes Ã©rcek elÃ©rhetetlennÃ© vÃ¡ltak a bÃ¡nyÃ¡ban.
+3:Eleinte csak Ã¶rvendeztek azok, akik a pusztulÃ¡sukat okoztÃ¡k, egÃ©szen addig, amÃ­g rÃ¡ nem dÃ¶bbentek, mekkora ?rÃ¼ltsÃ©get cselekedtek.
+4:Igyekeztek fenntartani a kÃ¶zÃ¶ssÃ©g virÃ¡gzÃ¡sÃ¡t, mindhiÃ¡ba.
+5:A szÃ©l Ã©s a pusztasÃ¡g letakarÃ­totta Broken Hills-t a tÃ©rkÃ©pr?l.

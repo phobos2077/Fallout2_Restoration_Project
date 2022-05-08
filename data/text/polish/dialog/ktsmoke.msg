@@ -1,1 +1,1 @@
-{100}{}{Pomieszczenie wype≥nia silny zapach palonego drewna.}
+{100}{}{Pomieszczenie wype≈Çnia silny zapach palonego drewna.}

@@ -1,128 +1,128 @@
-{100}{}{Você vê a pesquisadora chefe, Marjorie Reed.}
-{150}{}{Você vê uma mulher cansada. Sua cabeça foi raspada e está vestindo um jaleco branco.}
-{151}{}{Você vê Marjorie Reed. Ela está enchendo uma seringa, resmungando baixo.}
-{200}{}{Olá, Myron.}
+{100}{}{VocÃª vÃª a pesquisadora chefe, Marjorie Reed.}
+{150}{}{VocÃª vÃª uma mulher cansada. Sua cabeÃ§a foi raspada e estÃ¡ vestindo um jaleco branco.}
+{151}{}{VocÃª vÃª Marjorie Reed. Ela estÃ¡ enchendo uma seringa, resmungando baixo.}
+{200}{}{OlÃ¡, Myron.}
 {201}{}{Myron, tem um minuto...?}
-{202}{}{Sabe quando os novos escravos chegarão, Myron?}
-{203}{}{Myron, estes novos resultados são muito promissores…}
+{202}{}{Sabe quando os novos escravos chegarÃ£o, Myron?}
+{203}{}{Myron, estes novos resultados sÃ£o muito promissoresâ€¦}
 {204}{}{Myron, tem um minuto?}
 {215}{}{Onde o Myron se enfiou...}
 {216}{}{Traga o Myron aqui. Ele tem que ver isso.}
-{217}{}{Bem que esses escravos poderiam calar a boca…}
+{217}{}{Bem que esses escravos poderiam calar a bocaâ€¦}
 {218}{}{Onde deixei essa seringa...}
-{219}{}{Alguém viu o número 31? Ele estava aqui há um segunda atrás.}
-{220}{}{Faça os escravos trazerem mais do Jet Beta.}
-{221}{}{Resultados dos testes com o Jet Beta são muito promissores, mas…}
-{222}{}{O estado de êxtase dura de 15 min a uma hora... calculando um dose/hora... hmmmnnn.}
-{223}{}{No. 12 ainda está com hemorragia nasal…}
-{224}{}{É a quinta vez que o No. 12 tem uma convulsão... aumente a dose, vamos ver o que acontece…}
-{225}{}{Bem, que TIPO de alucinações ele estava tendo?}
-{226}{}{Cheque o batimento cardíaco deste aqui. Se ainda estiver em limites toleráveis, aumente a dose.}
-{227}{}{Por que a escrava no grupo de controle se matou? Nós nem a estávamos testando!}
-{228}{}{Damn guards can keep track of their own asses…}
-{235}{}{Olá, Myron, senhor. Os teste estão prosseguindo como no planejamento.}
-{236}{}{Myron, senhor, esse novo tipo de Jet é extremamente viaciante. Os escravos estão quase matando uns aos outros por mais.}
-{237}{}{Myron, senhor, o senhor ficará satisfeito em saber que os escravos estão preferindo Jet a comer.}
-{238}{}{Quem são estas pessoas com você, Myron? Novos escravos?}
+{219}{}{AlguÃ©m viu o nÃºmero 31? Ele estava aqui hÃ¡ um segunda atrÃ¡s.}
+{220}{}{FaÃ§a os escravos trazerem mais do Jet Beta.}
+{221}{}{Resultados dos testes com o Jet Beta sÃ£o muito promissores, masâ€¦}
+{222}{}{O estado de Ãªxtase dura de 15 min a uma hora... calculando um dose/hora... hmmmnnn.}
+{223}{}{No. 12 ainda estÃ¡ com hemorragia nasalâ€¦}
+{224}{}{Ã‰ a quinta vez que o No. 12 tem uma convulsÃ£o... aumente a dose, vamos ver o que aconteceâ€¦}
+{225}{}{Bem, que TIPO de alucinaÃ§Ãµes ele estava tendo?}
+{226}{}{Cheque o batimento cardÃ­aco deste aqui. Se ainda estiver em limites tolerÃ¡veis, aumente a dose.}
+{227}{}{Por que a escrava no grupo de controle se matou? NÃ³s nem a estÃ¡vamos testando!}
+{228}{}{Damn guards can keep track of their own assesâ€¦}
+{235}{}{OlÃ¡, Myron, senhor. Os teste estÃ£o prosseguindo como no planejamento.}
+{236}{}{Myron, senhor, esse novo tipo de Jet Ã© extremamente viaciante. Os escravos estÃ£o quase matando uns aos outros por mais.}
+{237}{}{Myron, senhor, o senhor ficarÃ¡ satisfeito em saber que os escravos estÃ£o preferindo Jet a comer.}
+{238}{}{Quem sÃ£o estas pessoas com vocÃª, Myron? Novos escravos?}
 {239}{}{Myron, senhor, o terceito grupo de teste parece estar ragindo melhor de todos os grupo.}
-{240}{}{Myron, senhor, se tiver um momento... eu acho que o próximo grupo de teste deve ter pelo menos três crianças, senhor.}
-{241}{}{Myron, senhor, o No. 46 teve um ataque cardíaco; nós estamos restringindo as doses para seis de agora me diante.}
-{242}{}{Myron, senhor, por favor... nós precisamos de um novo carregamento de seringas de Vault City. Não podemos continuar reutilizando estas.}
-{243}{}{Sabe quando os novos escravos chegarão, Myron, senhor?}
-{244}{}{Myron, senhor, nós mudamos três escravos do grupo de controle para o grupo de teste devido àquelas falhas respiratórias que tivemos semana passada.}
-{245}{}{Myron, más notícias, senhor. Nós tivemos que atirar em um dos escravos que tentaram escapar. Que desperdício.}
-{246}{}{Myron, esse novo alunicinógeno que você desenvolver é muito promissor, mas não é tão viciante quanto o Jet…}
+{240}{}{Myron, senhor, se tiver um momento... eu acho que o prÃ³ximo grupo de teste deve ter pelo menos trÃªs crianÃ§as, senhor.}
+{241}{}{Myron, senhor, o No. 46 teve um ataque cardÃ­aco; nÃ³s estamos restringindo as doses para seis de agora me diante.}
+{242}{}{Myron, senhor, por favor... nÃ³s precisamos de um novo carregamento de seringas de Vault City. NÃ£o podemos continuar reutilizando estas.}
+{243}{}{Sabe quando os novos escravos chegarÃ£o, Myron, senhor?}
+{244}{}{Myron, senhor, nÃ³s mudamos trÃªs escravos do grupo de controle para o grupo de teste devido Ã quelas falhas respiratÃ³rias que tivemos semana passada.}
+{245}{}{Myron, mÃ¡s notÃ­cias, senhor. NÃ³s tivemos que atirar em um dos escravos que tentaram escapar. Que desperdÃ­cio.}
+{246}{}{Myron, esse novo alunicinÃ³geno que vocÃª desenvolver Ã© muito promissor, mas nÃ£o Ã© tÃ£o viciante quanto o Jetâ€¦}
 {250}{}{(A mulher careca sequer olha por cima da prancheta.) Sim?}
-{251}{}{Não!}
+{251}{}{NÃ£o!}
 {252}{}{Sim!}
-{253}{}{Heh-heh. Você careca. Você parecer homem}
+{253}{}{Heh-heh. VocÃª careca. VocÃª parecer homem}
 {254}{}{Delenn?}
 {255}{}{Cai fora}
-{256}{}{Quem é você?}
-{257}{}{Desculpe, eu pensei que você era outro tipo de mulher careca com prancheta. Eu vou sair agora.}
-{265}{}{(A mulher levanta a cabeça e olha pra você.) Você é um dos escravos de controle? Como se isso tivesse importância. Guadas! Detenham esse escravo!}
-{266}{}{Onde escravo? Mim não ver um}
-{275}{}{Olha, eu estou MUITO ocupada, então se você não se importa... [Olha pra você por cima da prancheta, então fecha a cara] QUEM é você? Como chegou aqui?}
-{276}{}{Olha, eu estou MUITO ocupada, então se você não se importa... [Olha pra você por cima da prancheta, então fecha a cara] VOCÊ de novo? O que quer agora?}
+{256}{}{Quem Ã© vocÃª?}
+{257}{}{Desculpe, eu pensei que vocÃª era outro tipo de mulher careca com prancheta. Eu vou sair agora.}
+{265}{}{(A mulher levanta a cabeÃ§a e olha pra vocÃª.) VocÃª Ã© um dos escravos de controle? Como se isso tivesse importÃ¢ncia. Guadas! Detenham esse escravo!}
+{266}{}{Onde escravo? Mim nÃ£o ver um}
+{275}{}{Olha, eu estou MUITO ocupada, entÃ£o se vocÃª nÃ£o se importa... [Olha pra vocÃª por cima da prancheta, entÃ£o fecha a cara] QUEM Ã© vocÃª? Como chegou aqui?}
+{276}{}{Olha, eu estou MUITO ocupada, entÃ£o se vocÃª nÃ£o se importa... [Olha pra vocÃª por cima da prancheta, entÃ£o fecha a cara] VOCÃŠ de novo? O que quer agora?}
 {277}{}{Your barn door's open. Heh-heh... get it? I kill me.}
 {278}{}{Sou um dos novos empregados aqui.}
-{279}{}{Estou procurando pelo Myron. Ele está por perto?}
-{280}{}{São resultados de testes nessa prancheta? Eu posso vê-los?}
-{282}{}{Deixa pra lá. Desculpe incomodá-lo.}
-{295}{}{Esta área não está aberta para... visitantes. Saia ou chamarei os guardas.}
-{296}{}{Mas então, eu tenho outras perguntas...}
-{298}{}{São resultados de testes nessa prancheta? Eu posso vê-los? Eu também sou uma espécie de pesquisador.}
-{300}{}{Muito bem. Desculpe o incômodo.}
+{279}{}{Estou procurando pelo Myron. Ele estÃ¡ por perto?}
+{280}{}{SÃ£o resultados de testes nessa prancheta? Eu posso vÃª-los?}
+{282}{}{Deixa pra lÃ¡. Desculpe incomodÃ¡-lo.}
+{295}{}{Esta Ã¡rea nÃ£o estÃ¡ aberta para... visitantes. Saia ou chamarei os guardas.}
+{296}{}{Mas entÃ£o, eu tenho outras perguntas...}
+{298}{}{SÃ£o resultados de testes nessa prancheta? Eu posso vÃª-los? Eu tambÃ©m sou uma espÃ©cie de pesquisador.}
+{300}{}{Muito bem. Desculpe o incÃ´modo.}
 {310}{}{Guardas! Guardas, detenham essa pessoa!}
-{315}{}{MAIS guardas. Ha! Como se ele fizessem algo de útil... olha, você DEVE ter recebido instruções de seja lá quem for que te mandou aqui. Fale
- com os outros guardas para descobrir suas tarefas. Agora vá.}
-{316}{}{Eu não sou guarda, eu faço pesquisas. Você tem alguma tarefa para mim?}
-{317}{}{Desculpe, mas eu esperava que VOCÊ me mostrasse o lugar. Eu vi você parada bem aqui e
- me senti na OBRIGAÇÃO de falar com você. Talvez depois do "tour" nós poderíamos almoçar...?}
-{318}{}{Agradeço. Você foi muito útil.}
-{325}{}{Um dos PESQUISADORES...? Hmmmm. Eu nunca te vi antes. O que você sabe sobe pesquisa farmaceutica?}
+{315}{}{MAIS guardas. Ha! Como se ele fizessem algo de Ãºtil... olha, vocÃª DEVE ter recebido instruÃ§Ãµes de seja lÃ¡ quem for que te mandou aqui. Fale
+ com os outros guardas para descobrir suas tarefas. Agora vÃ¡.}
+{316}{}{Eu nÃ£o sou guarda, eu faÃ§o pesquisas. VocÃª tem alguma tarefa para mim?}
+{317}{}{Desculpe, mas eu esperava que VOCÃŠ me mostrasse o lugar. Eu vi vocÃª parada bem aqui e
+ me senti na OBRIGAÃ‡ÃƒO de falar com vocÃª. Talvez depois do "tour" nÃ³s poderÃ­amos almoÃ§ar...?}
+{318}{}{AgradeÃ§o. VocÃª foi muito Ãºtil.}
+{325}{}{Um dos PESQUISADORES...? Hmmmm. Eu nunca te vi antes. O que vocÃª sabe sobe pesquisa farmaceutica?}
 {326}{}{Certo. Sente-se e escute.}
-{327}{}{Eu tenho amplo conhecimento sobre composição e manufatura da base de componente neuroquímicos, e acho que
+{327}{}{Eu tenho amplo conhecimento sobre composiÃ§Ã£o e manufatura da base de componente neuroquÃ­micos, e acho que
  poderia ajudar nos seus estudos.}
 {328}{}{Tenho que ir.}
-{335}{}{Ha! Acho que vou ver você sair agora mesmo. Saia ou eu chamo os guardas.}
+{335}{}{Ha! Acho que vou ver vocÃª sair agora mesmo. Saia ou eu chamo os guardas.}
 {336}{}{Tudo certo.}
-{337}{}{Eu vou…::resmungo::…sua puta careca.}
-{345}{}{Hmmmm. Muito bem, então. Deixe-me fazer um resumo do que nós fazemos aqui: nós testamos os efeitos e a potência da metanfetamina
+{337}{}{Eu vouâ€¦::resmungo::â€¦sua puta careca.}
+{345}{}{Hmmmm. Muito bem, entÃ£o. Deixe-me fazer um resumo do que nÃ³s fazemos aqui: nÃ³s testamos os efeitos e a potÃªncia da metanfetamina
  chamada Jet..}
 {346}{}{Entendo. E como anda a pesquisa?}
-{347}{}{Acho que entendi. Vou examinar o resto da área de teste por mim memso.}
-{355}{}{Não muito bem. Nosso prazo é curto e nós precisamos purificar o processo de manufaturo do Jet o quanto antes.}
+{347}{}{Acho que entendi. Vou examinar o resto da Ã¡rea de teste por mim memso.}
+{355}{}{NÃ£o muito bem. Nosso prazo Ã© curto e nÃ³s precisamos purificar o processo de manufaturo do Jet o quanto antes.}
 {356}{}{Por que? O Jet parece viciante o suficiente.}
 {357}{}{Por que o prazo curto?}
-{358}{}{Parece um trabalho duro. Olha, eu tenho que resolver algo rápido - volto logo.}
-{365}{}{Ninguém sair por aí dizendo isso, mas provavelmente é devido à distribuição de Jet em Redding. O Jet já potente *o sufuciente*, mas
- há um grande espaço para melhoras, e o chefe quer um aumento do vício de Jet em Redding.}
-{366}{}{Qual é o lance com Redding?}
+{358}{}{Parece um trabalho duro. Olha, eu tenho que resolver algo rÃ¡pido - volto logo.}
+{365}{}{NinguÃ©m sair por aÃ­ dizendo isso, mas provavelmente Ã© devido Ã  distribuiÃ§Ã£o de Jet em Redding. O Jet jÃ¡ potente *o sufuciente*, mas
+ hÃ¡ um grande espaÃ§o para melhoras, e o chefe quer um aumento do vÃ­cio de Jet em Redding.}
+{366}{}{Qual Ã© o lance com Redding?}
 {367}{}{Bem, boa sorte com prazo.}
-{375}{}{Já é potente o suficiente, mas ainda há espaço para melhoras. O chefe quer aumentar a distribuição de Jet em
- Redding, e eles querem o grau de vício o mais perto possível de 100%. Vai nos custar longas horas de trabalho.}
-{377}{}{Ogradeço a informação. Eu volto mais tarde.}
-{385}{}{Viciar os mineradores em Redding com Jet, e seja lá quem controla o Jet, controla Redding. Típico jogo de poder.}
-{386}{}{Então... quem controla as drogas?}
-{395}{}{Quem controla as drogas? Os Mordinos. É claro, Myron lida com todo o trabalho de composição do Jet.
- Nós fazemos o trabalho de limpeza.}
-{396}{}{Myron é seu chefe?}
-{405}{}{Pode-se dizer que sim. Ele é cabeça por aqui, mas ele não se importa com o que acontece
- aqui em cima. Ele fica mais na vault subterrânea... sem visitas, exceto pelo trem de prostitutas. Típico projeto de líder.}
-{406}{}{Eu posso vê-lo?}
-{407}{}{É, negócio de markenting. De qualquer forma, agradeço a informação. Eu volto mais tarde.}
-{415}{}{Eu suponho... vou te dar um crachá temporário; apenas mostre-o aos guardas. Seja rápido, Myron não
- gosta que pessoas fiquem lá por muito tempo.}
-{416}{}{Eu suponho... vou te dar um crachá temporário; apenas mostre-o aos guardas. Seja rápido, Myron não
- gostaqude pessoas fiquem lá por muito tempo. Apesar de ele poder fazer uma exceção no seu caso.}
+{375}{}{JÃ¡ Ã© potente o suficiente, mas ainda hÃ¡ espaÃ§o para melhoras. O chefe quer aumentar a distribuiÃ§Ã£o de Jet em
+ Redding, e eles querem o grau de vÃ­cio o mais perto possÃ­vel de 100%. Vai nos custar longas horas de trabalho.}
+{377}{}{OgradeÃ§o a informaÃ§Ã£o. Eu volto mais tarde.}
+{385}{}{Viciar os mineradores em Redding com Jet, e seja lÃ¡ quem controla o Jet, controla Redding. TÃ­pico jogo de poder.}
+{386}{}{EntÃ£o... quem controla as drogas?}
+{395}{}{Quem controla as drogas? Os Mordinos. Ã‰ claro, Myron lida com todo o trabalho de composiÃ§Ã£o do Jet.
+ NÃ³s fazemos o trabalho de limpeza.}
+{396}{}{Myron Ã© seu chefe?}
+{405}{}{Pode-se dizer que sim. Ele Ã© cabeÃ§a por aqui, mas ele nÃ£o se importa com o que acontece
+ aqui em cima. Ele fica mais na vault subterrÃ¢nea... sem visitas, exceto pelo trem de prostitutas. TÃ­pico projeto de lÃ­der.}
+{406}{}{Eu posso vÃª-lo?}
+{407}{}{Ã‰, negÃ³cio de markenting. De qualquer forma, agradeÃ§o a informaÃ§Ã£o. Eu volto mais tarde.}
+{415}{}{Eu suponho... vou te dar um crachÃ¡ temporÃ¡rio; apenas mostre-o aos guardas. Seja rÃ¡pido, Myron nÃ£o
+ gosta que pessoas fiquem lÃ¡ por muito tempo.}
+{416}{}{Eu suponho... vou te dar um crachÃ¡ temporÃ¡rio; apenas mostre-o aos guardas. Seja rÃ¡pido, Myron nÃ£o
+ gostaqude pessoas fiquem lÃ¡ por muito tempo. Apesar de ele poder fazer uma exceÃ§Ã£o no seu caso.}
 {417}{}{Certo. Te vejo depois.}
-{425}{}{Olha, eu sou MUITO ocupado, se não se importa...}
-{426}{}{Olha, eu... eu estou, hã, muito ocupada, então se você puder me der licença…}
-{427}{}{Deixe pra lá, então...}
+{425}{}{Olha, eu sou MUITO ocupado, se nÃ£o se importa...}
+{426}{}{Olha, eu... eu estou, hÃ£, muito ocupada, entÃ£o se vocÃª puder me der licenÃ§aâ€¦}
+{427}{}{Deixe pra lÃ¡, entÃ£o...}
 {428}{}{De qualquer forma, obrigado.}
 {429}{}{Certo. ::resmungo:: ...sua puta careca.}
-{435}{}{Isso...hmm...eu estou MUITO lisojeada, mas estou muito ocupada no momento... então... hã...}
-{436}{}{Bem, você se importa se eu te pegar depois do trabalho? Sem pressão.. só um jantar, alguma
- conversa. Você parece um pessoa necessitada de um pausa no trabalho. As coisas aqui devem te manter muito ocupada.}
-{437}{}{Bem, eu tinha que perguntar. Agradeço assim mesmo.}
-{445}{}{Bem, não TÃO ocupada... heh... bem, não, muito ocupada. Digo, a maior parte da rotina é testar as drogas e ocasionamente nós temos
- um escravo além da conta...}
-{446}{}{Injetar metanfetaminas propositalmente para pesquisa não te faz questionar sua humanidade?}
-{447}{}{Uau. Isso parece perigoso. Você nunca se machucou? Já teve fatalidades com pacientes?}
-{448}{}{Testar drogas? Sério? Como vão as coisas?}
-{449}{}{Parece interessante, mas eu tenho que ir. hã, eu vou mais tarde.}
+{435}{}{Isso...hmm...eu estou MUITO lisojeada, mas estou muito ocupada no momento... entÃ£o... hÃ£...}
+{436}{}{Bem, vocÃª se importa se eu te pegar depois do trabalho? Sem pressÃ£o.. sÃ³ um jantar, alguma
+ conversa. VocÃª parece um pessoa necessitada de um pausa no trabalho. As coisas aqui devem te manter muito ocupada.}
+{437}{}{Bem, eu tinha que perguntar. AgradeÃ§o assim mesmo.}
+{445}{}{Bem, nÃ£o TÃƒO ocupada... heh... bem, nÃ£o, muito ocupada. Digo, a maior parte da rotina Ã© testar as drogas e ocasionamente nÃ³s temos
+ um escravo alÃ©m da conta...}
+{446}{}{Injetar metanfetaminas propositalmente para pesquisa nÃ£o te faz questionar sua humanidade?}
+{447}{}{Uau. Isso parece perigoso. VocÃª nunca se machucou? JÃ¡ teve fatalidades com pacientes?}
+{448}{}{Testar drogas? SÃ©rio? Como vÃ£o as coisas?}
+{449}{}{Parece interessante, mas eu tenho que ir. hÃ£, eu vou mais tarde.}
 {455}{}{Essa foi uma tentativa fraca ou uma piada?}
-{456}{}{Só perguntando. Digo, o que você acharia se fosse vendida pela escravidão, trazida até aqui e então te enchessem de drogas?}
-{457}{}{Hã, sim. Eu tenho que ir.}
-{465}{}{Eu estou DESTE lado, eles estão DAQUELE lado. Desde que estamos fazendo hipóteses, VOCÊ
- gostaria de saber como é estar com eles? Nós temos mais uma vaga ou duas.}
+{456}{}{SÃ³ perguntando. Digo, o que vocÃª acharia se fosse vendida pela escravidÃ£o, trazida atÃ© aqui e entÃ£o te enchessem de drogas?}
+{457}{}{HÃ£, sim. Eu tenho que ir.}
+{465}{}{Eu estou DESTE lado, eles estÃ£o DAQUELE lado. Desde que estamos fazendo hipÃ³teses, VOCÃŠ
+ gostaria de saber como Ã© estar com eles? NÃ³s temos mais uma vaga ou duas.}
 {466}{}{Espere um minuto...}
-{467}{}{Hã, não mesmo. Desculpe o incômodo.}
+{467}{}{HÃ£, nÃ£o mesmo. Desculpe o incÃ´modo.}
 {475}{}{Morte de escravos? Um pouco. Maioria por overdose - geralmente culpa de um tecnico - ou eles mesmo se machucam.
- Alguns ingerem Jet demais, e ele REALMENTE querem ficar doidões.}
+ Alguns ingerem Jet demais, e ele REALMENTE querem ficar doidÃµes.}
 {476}{}{E como anda o teste das drogas?}
-{477}{}{Aposto que sim. Bem, agradeço a informação. Você foi muito útil.}
-{485}{}{Tente as escadas para o laboratório. A porta vigiada. Se você o vir, diga para ele vir aqui pra cima quando tiver
- tempo. SE ele não estiver muito ocupado.}
-{1000}{}{Você ganhou um crachá temporário da Marjorie.}
+{477}{}{Aposto que sim. Bem, agradeÃ§o a informaÃ§Ã£o. VocÃª foi muito Ãºtil.}
+{485}{}{Tente as escadas para o laboratÃ³rio. A porta vigiada. Se vocÃª o vir, diga para ele vir aqui pra cima quando tiver
+ tempo. SE ele nÃ£o estiver muito ocupado.}
+{1000}{}{VocÃª ganhou um crachÃ¡ temporÃ¡rio da Marjorie.}

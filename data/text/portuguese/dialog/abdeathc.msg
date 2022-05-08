@@ -1,3 +1,3 @@
-{100}{}{Você vê uma garra mortal de aparência média.}
-{101}{}{Você vê uma enorme garra mortal coberta de cicatrizes. Está a respirar devagar e alto.}
-{102}{}{Você ganha 500 pontos de experiência por matar a besta.}
+{100}{}{VocÃª vÃª uma garra mortal de aparÃªncia mÃ©dia.}
+{101}{}{VocÃª vÃª uma enorme garra mortal coberta de cicatrizes. EstÃ¡ a respirar devagar e alto.}
+{102}{}{VocÃª ganha 500 pontos de experiÃªncia por matar a besta.}

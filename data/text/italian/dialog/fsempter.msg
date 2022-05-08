@@ -241,7 +241,7 @@ Warning! Uplink to CIN central Beijing server unavailable. Retrieving archived d
  contained within operational directives. May our souls return to this Earth.}
 {401}{}{::back::}
 {410}{}{From: Central Command                                            All forces in position. Transmitting final confirmation
- codes. Operation Youmíng is go.}
+ codes. Operation YoumÃ­ng is go.}
 {411}{}{::back::}
 {420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
                                                 CIN Beijing...		offline

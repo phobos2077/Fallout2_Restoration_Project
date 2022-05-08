@@ -1,57 +1,57 @@
-{100}{}{Egy barátságos arcú, szikár embert látsz.}
-{101}{}{Chad, a karavánvezet?.}
-{102}{}{Egy szikár embert látsz, arcán olyan mosollyal, akár egy pajzs. Ruhája teljesen jellegtelen, és úgy járkál fel-alá, mintha aki tudja, mit csinál.}
-{120}{}{Hahó, barátom! Mit tehetek érted?}
-{121}{}{Még több kérdés? Meglátom, mit tehetek érted a válaszok terén.}
-{122}{}{Dörk digglerr!}
+{100}{}{Egy barÃ¡tsÃ¡gos arcÃº, szikÃ¡r embert lÃ¡tsz.}
+{101}{}{Chad, a karavÃ¡nvezet?.}
+{102}{}{Egy szikÃ¡r embert lÃ¡tsz, arcÃ¡n olyan mosollyal, akÃ¡r egy pajzs. RuhÃ¡ja teljesen jellegtelen, Ã©s Ãºgy jÃ¡rkÃ¡l fel-alÃ¡, mintha aki tudja, mit csinÃ¡l.}
+{120}{}{HahÃ³, barÃ¡tom! Mit tehetek Ã©rted?}
+{121}{}{MÃ©g tÃ¶bb kÃ©rdÃ©s? MeglÃ¡tom, mit tehetek Ã©rted a vÃ¡laszok terÃ©n.}
+{122}{}{DÃ¶rk digglerr!}
 {123}{}{Te ki lenni?}
-{124}{}{Marcus kérdez?sködik fel?led.}
+{124}{}{Marcus kÃ©rdez?skÃ¶dik fel?led.}
 {125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
 {126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
 {127}{}{Ki vagy te?}
 {128}{}{Mondj valamit err?l a helyr?l!}
-{129}{}{Semmit. Viszlát!}
-{130}{}{Nézd már, mit fújt be a sivatagi szél a városba! Bocs, haver, nem tudok rajtad segíteni.}
-{131}{}{Szióka!}
+{129}{}{Semmit. ViszlÃ¡t!}
+{130}{}{NÃ©zd mÃ¡r, mit fÃºjt be a sivatagi szÃ©l a vÃ¡rosba! Bocs, haver, nem tudok rajtad segÃ­teni.}
+{131}{}{SziÃ³ka!}
 {132}{}{Chad vagyok. }
-{133}{}{Bocs, elég sok dolgom van. Keress valaki mást!}
+{133}{}{Bocs, elÃ©g sok dolgom van. Keress valaki mÃ¡st!}
 {134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days, I'm focusing primarily on Gecko.}
-{135}{}{Okké!}
-{136}{}{Lenne valami munka a számomra?}
+{135}{}{OkkÃ©!}
+{136}{}{Lenne valami munka a szÃ¡momra?}
 {137}{}{Izgalmas lehet.}
 {138}{}{Unalmas lehet.}
-{139}{}{Volna még néhány kérdésem.}
-{140}{}{Kösz. Viszlát!}
+{139}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{140}{}{KÃ¶sz. ViszlÃ¡t!}
 {141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
  that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
  responsible for the livelihood of the town.}
-{142}{}{Volna még néhány kérdésem.}
-{143}{}{Viszlát!}
-{144}{}{Úgymint?}
+{142}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{143}{}{ViszlÃ¡t!}
+{144}{}{Ãšgymint?}
 {145}{}{He suspects that you're skimming money that's supposed to be going to Broken Hills.}
 {146}{}{Nothing really, Bye.}
 {147}{}{Look, I don't know anything about that, and I sure as hell don't like it when people accuse me of things. Now I suggest you leave.}
 {150}{}{I'm going to find out the truth. Bye.}
-{156}{}{Beszélj Billel! ? tud segíteni.}
-{157}{}{Volna még néhány kérdésem.}
-{158}{}{Kösz. Viszlát!}
-{159}{}{Igen, az. Nem is gondolnád, de sokat kell utaznom, így láthatom a világot... és úgy érzem, ezzel hozzájárulok a város el?relépéséhez. Jó élet ez.}
-{160}{}{Jól hangzik. Szeretnék egy ilyen állást.}
-{161}{}{Hát, ez elég unalmasan hangzik.}
-{162}{}{Volna még néhány kérdésem.}
-{163}{}{Viszlát!}
-{164}{}{Szerintem százszor izgalmasabb, mint amit te csinálsz az életeddel, seggfej!}
-{165}{}{Igen, persze. Mást kérdeznék.}
-{166}{}{Ha ha ha ha! Hát persze. Viszlát, te vesztes!}
-{167}{}{Egyszer megfizetsz ezért, te tet?!}
+{156}{}{BeszÃ©lj Billel! ? tud segÃ­teni.}
+{157}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{158}{}{KÃ¶sz. ViszlÃ¡t!}
+{159}{}{Igen, az. Nem is gondolnÃ¡d, de sokat kell utaznom, Ã­gy lÃ¡thatom a vilÃ¡got... Ã©s Ãºgy Ã©rzem, ezzel hozzÃ¡jÃ¡rulok a vÃ¡ros el?relÃ©pÃ©sÃ©hez. JÃ³ Ã©let ez.}
+{160}{}{JÃ³l hangzik. SzeretnÃ©k egy ilyen Ã¡llÃ¡st.}
+{161}{}{HÃ¡t, ez elÃ©g unalmasan hangzik.}
+{162}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{163}{}{ViszlÃ¡t!}
+{164}{}{Szerintem szÃ¡zszor izgalmasabb, mint amit te csinÃ¡lsz az Ã©leteddel, seggfej!}
+{165}{}{Igen, persze. MÃ¡st kÃ©rdeznÃ©k.}
+{166}{}{Ha ha ha ha! HÃ¡t persze. ViszlÃ¡t, te vesztes!}
+{167}{}{Egyszer megfizetsz ezÃ©rt, te tet?!}
 {168}{}{T?nj innen, te mocsok!}
-{169}{}{Ezt jól elbaltáztad, barátom. Ennyit a pénzedr?l.}
-{170}{}{Hát, ezt rendesen elcseszted, haver. Sok sikert ahhoz, hogy másik munkát találj Broken Hillsben!}
-{171}{}{Szép munka volt! Itt a 200 dolcsid.}
-{172}{}{T?nj innen! Nincs szükségünk többé a segítségedre!}
+{169}{}{Ezt jÃ³l elbaltÃ¡ztad, barÃ¡tom. Ennyit a pÃ©nzedr?l.}
+{170}{}{HÃ¡t, ezt rendesen elcseszted, haver. Sok sikert ahhoz, hogy mÃ¡sik munkÃ¡t talÃ¡lj Broken Hillsben!}
+{171}{}{SzÃ©p munka volt! Itt a 200 dolcsid.}
+{172}{}{T?nj innen! Nincs szÃ¼ksÃ©gÃ¼nk tÃ¶bbÃ© a segÃ­tsÃ©gedre!}
 {173}{}{Tartsd nyitva a szemed!}
-{174}{}{Hátulról fedezlek!}
-{175}{}{Ne engedd a mocskokat közel magadhoz!}
+{174}{}{HÃ¡tulrÃ³l fedezlek!}
+{175}{}{Ne engedd a mocskokat kÃ¶zel magadhoz!}
 {200}{}{I don't know what yer talking about. I suggest you drop this matter before you start to piss people off. Now get outta here.}
 {201}{}{I got a better idea. How about I beat you to death instead.}
 {202}{}{Wrong answer. Looks like you picked the wrong guy to mess with.}
@@ -80,7 +80,7 @@
 {221}{}{Alright, Alright. I admit to everything. I don't want to die for this. Tell Marcus I'll come peacefully.}
 {222}{}{Alright, don't move. I'll go get Marcus.}
 {300}{}{You allow Chad to skip town.}
-{400}{}{Haggyá' békén!}
+{400}{}{HaggyÃ¡' bÃ©kÃ©n!}
 {2040}{}{Ah dammit I knew this wouldn't last forever. (Looks around and lowers his voice.) Alright listen. Keep your
  mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money and you hand him his briefcase.]
  Now if you excuse me I have to get going.}

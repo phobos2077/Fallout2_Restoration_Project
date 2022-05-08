@@ -23,7 +23,7 @@
 {122}{}{Ok. Me capisce.}
 {123}{}{Snookie? Che diavolo e' uno snookie?}
 {124}{}{Va bene. Capisco.}
-{125}{}{‘Snookie’ e' il soprannome della mia fidanzata. Penso sia carino. A proposito, e' la ragazza nel corridoio. E' una delle guardie.}
+{125}{}{â€˜Snookieâ€™ e' il soprannome della mia fidanzata. Penso sia carino. A proposito, e' la ragazza nel corridoio. E' una delle guardie.}
 {126}{}{Ok, bene. Grazie.}
 {127}{}{Si'... carino. Grazie.}
 {128}{}{Sei senza uniforme. }

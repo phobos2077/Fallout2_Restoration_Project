@@ -1,70 +1,70 @@
-{100}{}{Ves a un necrófago bajito.}
-{101}{}{Ves a Percy Crump, el próspero comerciante necrófago.}
-{102}{}{Ves a un necrófago bajito y grueso. Es bastante atractivo... eh, como necrófago, claro.}
-{103}{}{Por Dios y su santo bisabuelo. Vaya que si no puedo decirte las gracias por devolverme a mi amigo. Recontracórcholis. Tengo que darte algo por las molestias.}
+{100}{}{Ves a un necrÃ³fago bajito.}
+{101}{}{Ves a Percy Crump, el prÃ³spero comerciante necrÃ³fago.}
+{102}{}{Ves a un necrÃ³fago bajito y grueso. Es bastante atractivo... eh, como necrÃ³fago, claro.}
+{103}{}{Por Dios y su santo bisabuelo. Vaya que si no puedo decirte las gracias por devolverme a mi amigo. RecontracÃ³rcholis. Tengo que darte algo por las molestias.}
 {104}{}{Me alegra haberte ayudado.}
-{105}{}{¿Qué me voy a llevar?}
-{106}{}{Bien, pues será mejor que merezca la pena. Ciertamente ha supuesto un montón de trabajo, y unos cuantos viajes. Peligroso, es lo que ha sido. Me podrían haber herido.}
-{107}{}{¿Segurísimo que no quieres ayudar al viejo Percy con su problema? Porque vaya que si me vendría bien.}
-{108}{}{Eh, deja que me lo piense un poco más. Mientras tanto, ¿tienes algo para comerciar?}
-{109}{}{Bueno, ¿y si me lo vuelves a contar?}
-{110}{}{No sabía que me ibas a estar molestando con eso cada vez que entrase aquí. Carajo. Adiós.}
-{111}{}{¿Todavía no has encontrado a Woody? Vaya que si estoy precupado de verdad. Nunca antes se había marchado tanto tiempo.}
-{112}{}{Eh, aún no, pero lo sigo buscando. Oye, ¿tienes algo para intercambiar?}
-{113}{}{No, claro que no. Será mejor que salga ahí fuera y siga buscando.}
-{114}{}{Muy buenas, yo soy Percy Crump, el comerciante principal de esta localidad. Pero resulta que me puedes llamar nada más que viejo Percy. Sí, puedes.
- Qué coño, todos pueden. Y ahora, ¿qué puedo ir haciendo por ti?}
-{115}{}{¿Qué puede hacer por ti el viejo Percy?}
-{116}{}{Sólo me estaba preguntando cómo están las cosas por el pueblo.}
-{117}{}{Me preguntaba si tendrías algo que pudiera comprar o intercambiar.}
-{118}{}{Eh, en realidad nada. Sólo estaba echando un vistazo. Adiós.}
-{119}{}{¿Inte-cambia?}
-{120}{}{Marcho, adiós.}
-{121}{}{Vaya que si me congratula que hayas puesto a funcionar a nuestro reactor atómico tan guapamente. Ahora ronronea como un gatito.
- Pero eso sí, por otro lado, mi amigo Woody resulta que está desaparecido.}
-{122}{}{Vaya que si tengo que darte las gracias graciitas por reparar nuestro reactor atómico. El tontorroncito de Festus nunca habría hecho nada medio bien.
- Pero eso sí, por otro lado, mi amigo Woody resulta que está desaparecido.}
-{123}{}{No es que haya nada ni medio nuevo en el pueblo. He oído que Wooz le sacó a algún novato una Orquídea Negra el otro día o así. Je, je, jee.
- Pero eso sí, por otro lado, mi amigo Woody resulta que está desaparecido.}
-{124}{}{Bueno, cuéntame más sobre ello.}
-{125}{}{Oh, qué mala suerte. Bueno, odio los cuentos tristes. Te dejaré sólo con tu pena. Adiós.}
-{126}{}{Vaya que sí, qué coño, todo tipo de cosas a su precio justo que tengo.}
-{127}{}{¿Tienes todo lo que necesitas o quieres algo más?}
-{128}{}{¿Quiero cosas?}
-{129}{}{Hmm, veamos qué es lo que tienes.}
+{105}{}{Â¿QuÃ© me voy a llevar?}
+{106}{}{Bien, pues serÃ¡ mejor que merezca la pena. Ciertamente ha supuesto un montÃ³n de trabajo, y unos cuantos viajes. Peligroso, es lo que ha sido. Me podrÃ­an haber herido.}
+{107}{}{Â¿SegurÃ­simo que no quieres ayudar al viejo Percy con su problema? Porque vaya que si me vendrÃ­a bien.}
+{108}{}{Eh, deja que me lo piense un poco mÃ¡s. Mientras tanto, Â¿tienes algo para comerciar?}
+{109}{}{Bueno, Â¿y si me lo vuelves a contar?}
+{110}{}{No sabÃ­a que me ibas a estar molestando con eso cada vez que entrase aquÃ­. Carajo. AdiÃ³s.}
+{111}{}{Â¿TodavÃ­a no has encontrado a Woody? Vaya que si estoy precupado de verdad. Nunca antes se habÃ­a marchado tanto tiempo.}
+{112}{}{Eh, aÃºn no, pero lo sigo buscando. Oye, Â¿tienes algo para intercambiar?}
+{113}{}{No, claro que no. SerÃ¡ mejor que salga ahÃ­ fuera y siga buscando.}
+{114}{}{Muy buenas, yo soy Percy Crump, el comerciante principal de esta localidad. Pero resulta que me puedes llamar nada mÃ¡s que viejo Percy. SÃ­, puedes.
+ QuÃ© coÃ±o, todos pueden. Y ahora, Â¿quÃ© puedo ir haciendo por ti?}
+{115}{}{Â¿QuÃ© puede hacer por ti el viejo Percy?}
+{116}{}{SÃ³lo me estaba preguntando cÃ³mo estÃ¡n las cosas por el pueblo.}
+{117}{}{Me preguntaba si tendrÃ­as algo que pudiera comprar o intercambiar.}
+{118}{}{Eh, en realidad nada. SÃ³lo estaba echando un vistazo. AdiÃ³s.}
+{119}{}{Â¿Inte-cambia?}
+{120}{}{Marcho, adiÃ³s.}
+{121}{}{Vaya que si me congratula que hayas puesto a funcionar a nuestro reactor atÃ³mico tan guapamente. Ahora ronronea como un gatito.
+ Pero eso sÃ­, por otro lado, mi amigo Woody resulta que estÃ¡ desaparecido.}
+{122}{}{Vaya que si tengo que darte las gracias graciitas por reparar nuestro reactor atÃ³mico. El tontorroncito de Festus nunca habrÃ­a hecho nada medio bien.
+ Pero eso sÃ­, por otro lado, mi amigo Woody resulta que estÃ¡ desaparecido.}
+{123}{}{No es que haya nada ni medio nuevo en el pueblo. He oÃ­do que Wooz le sacÃ³ a algÃºn novato una OrquÃ­dea Negra el otro dÃ­a o asÃ­. Je, je, jee.
+ Pero eso sÃ­, por otro lado, mi amigo Woody resulta que estÃ¡ desaparecido.}
+{124}{}{Bueno, cuÃ©ntame mÃ¡s sobre ello.}
+{125}{}{Oh, quÃ© mala suerte. Bueno, odio los cuentos tristes. Te dejarÃ© sÃ³lo con tu pena. AdiÃ³s.}
+{126}{}{Vaya que sÃ­, quÃ© coÃ±o, todo tipo de cosas a su precio justo que tengo.}
+{127}{}{Â¿Tienes todo lo que necesitas o quieres algo mÃ¡s?}
+{128}{}{Â¿Quiero cosas?}
+{129}{}{Hmm, veamos quÃ© es lo que tienes.}
 {130}{}{Dejame echar otro vistazo a tus productos.}
-{131}{}{De momento me vale. Gracias, Percy. Adiós.}
-{132}{}{Oog. Marcho adiós yo.}
-{133}{}{Ese pedazo de cofre con medicina contra-irra-diación vaya que si no me sirve de nada. Pues vaya que si no ha pasado un manojo de años
- como para que me hagan algo. Je, je, jeee. Aquí tienes, porque vaya si sé que los amigos son más valiosos a cada año que pasa y pasa. Gracias... amigo.}
+{131}{}{De momento me vale. Gracias, Percy. AdiÃ³s.}
+{132}{}{Oog. Marcho adiÃ³s yo.}
+{133}{}{Ese pedazo de cofre con medicina contra-irra-diaciÃ³n vaya que si no me sirve de nada. Pues vaya que si no ha pasado un manojo de aÃ±os
+ como para que me hagan algo. Je, je, jeee. AquÃ­ tienes, porque vaya si sÃ© que los amigos son mÃ¡s valiosos a cada aÃ±o que pasa y pasa. Gracias... amigo.}
 {134}{}{Encantado de ayudar a Woody y a ti. Gracias por las medicinas.}
-{135}{}{Genial, un trabajo fácil y una buena recompensa. Justo como me gusta.}
-{136}{}{Pues ya verás, tenía un amigo que se llama Woody. El tal Woody puede dormirse como nadie que haya visto. Y aún peor, adora
+{135}{}{Genial, un trabajo fÃ¡cil y una buena recompensa. Justo como me gusta.}
+{136}{}{Pues ya verÃ¡s, tenÃ­a un amigo que se llama Woody. El tal Woody puede dormirse como nadie que haya visto. Y aÃºn peor, adora
  viajar. Vaya que si le encanta patear el polvo del camino.}
 {137}{}{Vale.}
-{138}{}{Bueno, pues no es que sea un problema así grande, si es que anda por aquí. Pero lo último que oí de Woody es que se marchaba de paseo
- hasta La Guarida. ¿Sabes dónde está?}
-{139}{}{Sí, sé dónde está La Guarida. Continúa.}
-{140}{}{En realidad, no sé dónde está La Guarida.}
-{141}{}{Oh, vaya que si es fácil llegar. Mira: te haré una marca en ese cacharrito de mapa tuyo.}
-{142}{}{¡Oye, cuidado con eso! De acuerdo, continúa.}
-{143}{}{Bueno, pues eso, que lo que decía es que no es que sea un problema en Gecko. Pero, ya ves, la gente por otras partes
+{138}{}{Bueno, pues no es que sea un problema asÃ­ grande, si es que anda por aquÃ­. Pero lo Ãºltimo que oÃ­ de Woody es que se marchaba de paseo
+ hasta La Guarida. Â¿Sabes dÃ³nde estÃ¡?}
+{139}{}{SÃ­, sÃ© dÃ³nde estÃ¡ La Guarida. ContinÃºa.}
+{140}{}{En realidad, no sÃ© dÃ³nde estÃ¡ La Guarida.}
+{141}{}{Oh, vaya que si es fÃ¡cil llegar. Mira: te harÃ© una marca en ese cacharrito de mapa tuyo.}
+{142}{}{Â¡Oye, cuidado con eso! De acuerdo, continÃºa.}
+{143}{}{Bueno, pues eso, que lo que decÃ­a es que no es que sea un problema en Gecko. Pero, ya ves, la gente por otras partes
  resulta que no les gusta nuestra pinta.}
-{144}{}{¿Y?}
-{145}{}{Pero suma dos y dos: vaya que si me preocupa que ese Woody se esté echando la siesta en La Guarida -que es un viaje
- largo, digo yo- y que resulte que han enterrado vivo al pobre gilipollas. Necesito que alguien eche una miradita por ahí.}
-{146}{}{¿Y...?}
-{147}{}{Bueno, vaya que si le echo de menos. Por eso. (Percy parpadea nervioso) Oh, entiendo, ¿quieres saber lo que hay para ti?}
-{148}{}{Normalmente es el momento en el que escucho con más interés. Dime.}
-{149}{}{Bueno, vaya que si sé dónde sacar un jodido montonazo de genuino material de antes de la guerra, Rad-X y RadAway. A mí
- ni me sirven, pero supongo que a un piel suave como tú vaya que si le iban a gustar. ¿Quieres hacer el trabajo para mí o no? Sólo
- te pienso pagar si me entero de que Woody está seguro.}
-{150}{}{¿Cuánto es un jodido montonazo?}
-{151}{}{Sí, lo haré. Volveré pronto.}
+{144}{}{Â¿Y?}
+{145}{}{Pero suma dos y dos: vaya que si me preocupa que ese Woody se estÃ© echando la siesta en La Guarida -que es un viaje
+ largo, digo yo- y que resulte que han enterrado vivo al pobre gilipollas. Necesito que alguien eche una miradita por ahÃ­.}
+{146}{}{Â¿Y...?}
+{147}{}{Bueno, vaya que si le echo de menos. Por eso. (Percy parpadea nervioso) Oh, entiendo, Â¿quieres saber lo que hay para ti?}
+{148}{}{Normalmente es el momento en el que escucho con mÃ¡s interÃ©s. Dime.}
+{149}{}{Bueno, vaya que si sÃ© dÃ³nde sacar un jodido montonazo de genuino material de antes de la guerra, Rad-X y RadAway. A mÃ­
+ ni me sirven, pero supongo que a un piel suave como tÃº vaya que si le iban a gustar. Â¿Quieres hacer el trabajo para mÃ­ o no? SÃ³lo
+ te pienso pagar si me entero de que Woody estÃ¡ seguro.}
+{150}{}{Â¿CuÃ¡nto es un jodido montonazo?}
+{151}{}{SÃ­, lo harÃ©. VolverÃ© pronto.}
 {152}{}{No, creo que no quiero ayudarte ahora mismo.}
-{153}{}{Déjame pensar en ello. Adiós.}
-{154}{}{Pues como la tira más de lo que vayas a necesitar nunca, eso es. ¿Lo harás?}
-{155}{}{Sí, lo haré. Volveré pronto.}
+{153}{}{DÃ©jame pensar en ello. AdiÃ³s.}
+{154}{}{Pues como la tira mÃ¡s de lo que vayas a necesitar nunca, eso es. Â¿Lo harÃ¡s?}
+{155}{}{SÃ­, lo harÃ©. VolverÃ© pronto.}
 {156}{}{No, creo que no quiero ayudarte ahora mismo.}
-{157}{}{Déjame pensar en ello. Adiós.}
-{158}{}{Gracias graciitas por encontrar a mi compadre Woody. ¿Y qué puede hacer por ti ahora el viejo Percy?}
+{157}{}{DÃ©jame pensar en ello. AdiÃ³s.}
+{158}{}{Gracias graciitas por encontrar a mi compadre Woody. Â¿Y quÃ© puede hacer por ti ahora el viejo Percy?}

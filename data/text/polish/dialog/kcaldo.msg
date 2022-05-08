@@ -1,77 +1,77 @@
-{100}{}{Widzisz niechlujnego mê¿czyznê w bardzo brudnym ubraniu.}
-{101}{}{Widzisz Aldo, lokalny komitet powitalny. Czujesz jego oddech nawet z tej odleg³oœci.}
-{200}{}{Witam serdecznie, pierwszy raz w Klamath, prawda? Jestem Aldo. (czka) Moim zadaniem jest witanie podró¿nych i udzielanie informacji na temat lokalnych atrakcji. Witamy w Klamath. (czka) Czym siê zajmujesz?}
-{201}{}{Umm, dziêki za powitanie. Podró¿ujê tu i ówdzie.}
+{100}{}{Widzisz niechlujnego mÄ™Å¼czyznÄ™ w bardzo brudnym ubraniu.}
+{101}{}{Widzisz Aldo, lokalny komitet powitalny. Czujesz jego oddech nawet z tej odlegÅ‚oÅ›ci.}
+{200}{}{Witam serdecznie, pierwszy raz w Klamath, prawda? Jestem Aldo. (czka) Moim zadaniem jest witanie podrÃ³Å¼nych i udzielanie informacji na temat lokalnych atrakcji. Witamy w Klamath. (czka) Czym siÄ™ zajmujesz?}
+{201}{}{Umm, dziÄ™ki za powitanie. PodrÃ³Å¼ujÄ™ tu i Ã³wdzie.}
 {202}{}{Jestem }
-{203}{}{. Dziêki za powitanie.}
+{203}{}{. DziÄ™ki za powitanie.}
 {204}{}{ z Arroyo. Jestem Dzieckiem Przeznaczenia.}
-{205}{}{Mojej imiê nie powinno ciê interesowaæ. Spadaj st¹d, brudny moczymordo.}
-{206}{}{Nie wierzê, ¿e takie miasto jak Klamath zatrudni³oby kogoœ takiego jak ty, ¿eby wita³ podró¿ników.}
+{205}{}{Mojej imiÄ™ nie powinno ciÄ™ interesowaÄ‡. Spadaj stÄ…d, brudny moczymordo.}
+{206}{}{Nie wierzÄ™, Å¼e takie miasto jak Klamath zatrudniÅ‚oby kogoÅ› takiego jak ty, Å¼eby witaÅ‚ podrÃ³Å¼nikÃ³w.}
 {300}{}{Dziecko Przeznaczenia! Och, }
-{301}{}{, musisz cieszyæ siê przeogromnym szacunkiem wœród swojego ludu. Jestem pewien, ¿e ktoœ o twojej pozycji (czka) chêtnie wspomo¿e biednego cz³owieka choæby grosikiem. (czka)}
-{302}{}{Dam ci dobr¹ radê - trzymaj siê z dala od wódy.}
-{303}{}{Grosik, tak? Chyba warto, jeœli siê wreszcie ode mnie odczepisz. Masz tu $5}
-{304}{}{Có¿, jeœli rzeczywiœcie jesteœ taki biedny. Czy $5 wystarczy? }
-{305}{}{To ty powinieneœ mi zap³aciæ za to, ¿e nie rozsmarujê twoich wnêtrznoœci po tej ulicy.}
-{306}{}{Przykro mi, Dziecko Przeznaczenia nie zawraca sobie g³owy tak przyziemnymi sprawami jak pieni¹dze.}
-{350}{}{Có¿ }
-{351}{}{, poniewa¿ goœcisz tu pierwszy raz (czka) i najwyraŸniej nie wiesz jak zachowaæ siê w wielkim mieœcie, podpowiem ci, ¿e w dobrym tonie jest daæ napiwek komitetowi powitalnemu zanim zaczniesz zadawaæ pytania.}
-{355}{}{Szkoda na ciebie moich pieniêdzy.}
-{400}{}{Poniewa¿ goœcisz tu pierwszy raz (czka) i najwyraŸniej nie wiesz jak zachowaæ siê w wielkim mieœcie, podpowiem ci, ¿e w dobrym tonie jest daæ napiwek komitetowi powitalnemu zanim zaczniesz zadawaæ pytania.}
-{450}{}{Dziêki za pieni¹dze, przyjacielu. (czka) Kupiê za nie jakieœ lekarstwo na moje biedne, wysuszone gard³o. To chyba tyle, jeœli chodzi o czêœæ oficjaln¹. Witaj w Klamath. Masz mo¿e jakieœ pytania co do lokalnych atrakcji?}
-{451}{}{Nie, dziêkujê. Chyba dam sobie jakoœ radê bez twojej pomocy.}
-{452}{}{Prawdê mówi¹c, mam kilka pytañ.}
-{453}{}{Aldo, szukam kupca, który sprzedaje rzeczy sprzed wojny. No wiesz, zabytki...}
-{500}{}{Pytaj, dobroczyñco.}
-{501}{}{Czym zajmuj¹ siê ludzie w Klamath?}
-{502}{}{Gdzie mogê coœ kupiæ i znaleŸæ medyka?}
+{301}{}{, musisz cieszyÄ‡ siÄ™ przeogromnym szacunkiem wÅ›rÃ³d swojego ludu. Jestem pewien, Å¼e ktoÅ› o twojej pozycji (czka) chÄ™tnie wspomoÅ¼e biednego czÅ‚owieka choÄ‡by grosikiem. (czka)}
+{302}{}{Dam ci dobrÄ… radÄ™ - trzymaj siÄ™ z dala od wÃ³dy.}
+{303}{}{Grosik, tak? Chyba warto, jeÅ›li siÄ™ wreszcie ode mnie odczepisz. Masz tu $5}
+{304}{}{CÃ³Å¼, jeÅ›li rzeczywiÅ›cie jesteÅ› taki biedny. Czy $5 wystarczy? }
+{305}{}{To ty powinieneÅ› mi zapÅ‚aciÄ‡ za to, Å¼e nie rozsmarujÄ™ twoich wnÄ™trznoÅ›ci po tej ulicy.}
+{306}{}{Przykro mi, Dziecko Przeznaczenia nie zawraca sobie gÅ‚owy tak przyziemnymi sprawami jak pieniÄ…dze.}
+{350}{}{CÃ³Å¼ }
+{351}{}{, poniewaÅ¼ goÅ›cisz tu pierwszy raz (czka) i najwyraÅºniej nie wiesz jak zachowaÄ‡ siÄ™ w wielkim mieÅ›cie, podpowiem ci, Å¼e w dobrym tonie jest daÄ‡ napiwek komitetowi powitalnemu zanim zaczniesz zadawaÄ‡ pytania.}
+{355}{}{Szkoda na ciebie moich pieniÄ™dzy.}
+{400}{}{PoniewaÅ¼ goÅ›cisz tu pierwszy raz (czka) i najwyraÅºniej nie wiesz jak zachowaÄ‡ siÄ™ w wielkim mieÅ›cie, podpowiem ci, Å¼e w dobrym tonie jest daÄ‡ napiwek komitetowi powitalnemu zanim zaczniesz zadawaÄ‡ pytania.}
+{450}{}{DziÄ™ki za pieniÄ…dze, przyjacielu. (czka) KupiÄ™ za nie jakieÅ› lekarstwo na moje biedne, wysuszone gardÅ‚o. To chyba tyle, jeÅ›li chodzi o czÄ™Å›Ä‡ oficjalnÄ…. Witaj w Klamath. Masz moÅ¼e jakieÅ› pytania co do lokalnych atrakcji?}
+{451}{}{Nie, dziÄ™kujÄ™. Chyba dam sobie jakoÅ› radÄ™ bez twojej pomocy.}
+{452}{}{PrawdÄ™ mÃ³wiÄ…c, mam kilka pytaÅ„.}
+{453}{}{Aldo, szukam kupca, ktÃ³ry sprzedaje rzeczy sprzed wojny. No wiesz, zabytki...}
+{500}{}{Pytaj, dobroczyÅ„co.}
+{501}{}{Czym zajmujÄ… siÄ™ ludzie w Klamath?}
+{502}{}{Gdzie mogÄ™ coÅ› kupiÄ‡ i znaleÅºÄ‡ medyka?}
 {503}{}{Opowiedz mi o gekonach.}
-{504}{}{Gdzie tu mo¿na kupiæ alkohol?}
-{505}{}{Dziêki. Nie potrzebujê wiêcej informacji.}
-{506}{}{Wiesz mo¿e, gdzie mogê znaleŸæ GECKa?}
-{550}{}{Niech ciê diabli. Mam nadziejê, ¿e d³ugo tu nie zabawisz. Nie potrzebujemy tu takich jak ty. Cholerne dzikusy - wszyscy s¹ tacy sami.}
-{600}{}{W Klamath? Niektórzy uprawiaj¹ ziemiê, niektórzy hoduj¹ byd³o, ale najczêœciej poluj¹ na gekony.}
+{504}{}{Gdzie tu moÅ¼na kupiÄ‡ alkohol?}
+{505}{}{DziÄ™ki. Nie potrzebujÄ™ wiÄ™cej informacji.}
+{506}{}{Wiesz moÅ¼e, gdzie mogÄ™ znaleÅºÄ‡ GECKa?}
+{550}{}{Niech ciÄ™ diabli. Mam nadziejÄ™, Å¼e dÅ‚ugo tu nie zabawisz. Nie potrzebujemy tu takich jak ty. Cholerne dzikusy - wszyscy sÄ… tacy sami.}
+{600}{}{W Klamath? NiektÃ³rzy uprawiajÄ… ziemiÄ™, niektÃ³rzy hodujÄ… bydÅ‚o, ale najczÄ™Å›ciej polujÄ… na gekony.}
 {601}{}{Gekony? Co to takiego?}
-{602}{}{Dziêki. To chyba ju¿ wszystko.}
-{603}{}{Interesuj¹ce. Mam jeszcze jedno pytanie.}
-{650}{}{Gekon to taka du¿a jaszczurka. Tutejsi myœliwi poluj¹ na nie dla miêsa i skór. Ale te cholery wcale nie daj¹ siê ³atwo z³apaæ, jeœli wiesz co mam na myœli. Pos³uchaj mojej rady i omijaj je z daleka. To zbyt niebezpieczne.}
-{651}{}{Dziêki. To chyba ju¿ wszystko.}
+{602}{}{DziÄ™ki. To chyba juÅ¼ wszystko.}
+{603}{}{InteresujÄ…ce. Mam jeszcze jedno pytanie.}
+{650}{}{Gekon to taka duÅ¼a jaszczurka. Tutejsi myÅ›liwi polujÄ… na nie dla miÄ™sa i skÃ³r. Ale te cholery wcale nie dajÄ… siÄ™ Å‚atwo zÅ‚apaÄ‡, jeÅ›li wiesz co mam na myÅ›li. PosÅ‚uchaj mojej rady i omijaj je z daleka. To zbyt niebezpieczne.}
+{651}{}{DziÄ™ki. To chyba juÅ¼ wszystko.}
 {652}{}{Hmm. Jeszcze jedno, Aldo.}
-{700}{}{Handlowaæ mo¿esz u Bucknerów i w Z³otym Gekonie. Czasem maj¹ tam nawet zio³a lecznicze - chocia¿ na moj¹ chorobê nie znaleŸli jeszcze lekarstwa. Obydwa lokale prowadz¹ straszne sknery. Spróbuj wzi¹æ coœ na kreskê, a wykopi¹ ciê za drzwi.}
-{701}{}{Dziêki za informacje. To ju¿ chyba wszystko.}
-{702}{}{Osobiœcie nie mam nic przeciwko spaniu pod go³ym niebem. Hmm, mam jeszcze jedno pytanie.}
-{750}{}{Wiem, ¿e niechêtnie myœlisz o wynagrodzeniu komitetu powitalnego, ale (czka)mo¿e teraz zmienisz zdanie i zgodzisz siê na oficjalne powitanie w Klamath.}
-{751}{}{Dam ci $5 jeœli tylko siê ode mnie odczepisz.}
-{752}{}{Ten moment musia³ nast¹piæ prêdzej czy póŸniej. Masz tu $5. Mo¿esz zacz¹æ mnie witaæ.}
-{753}{}{Nie skorzystam. Nie potrzebujê oficjalnego powitania.}
-{754}{}{A mo¿e twoje flaki chcia³yby powitaæ mój nó¿?}
-{800}{}{Witaj ponownie! Mo¿e zechcesz wspomóc mnie finansowo. Zbieram pieni¹dze na zakup lekarstwa. Moje gard³o wysycha w b³yskawicznym (czka) tempie. Jeœli chcesz, zorganizujê dla ciebie nastêpne oficjalne powitanie.}
+{700}{}{HandlowaÄ‡ moÅ¼esz u BucknerÃ³w i w ZÅ‚otym Gekonie. Czasem majÄ… tam nawet zioÅ‚a lecznicze - chociaÅ¼ na mojÄ… chorobÄ™ nie znaleÅºli jeszcze lekarstwa. Obydwa lokale prowadzÄ… straszne sknery. SprÃ³buj wziÄ…Ä‡ coÅ› na kreskÄ™, a wykopiÄ… ciÄ™ za drzwi.}
+{701}{}{DziÄ™ki za informacje. To juÅ¼ chyba wszystko.}
+{702}{}{OsobiÅ›cie nie mam nic przeciwko spaniu pod goÅ‚ym niebem. Hmm, mam jeszcze jedno pytanie.}
+{750}{}{Wiem, Å¼e niechÄ™tnie myÅ›lisz o wynagrodzeniu komitetu powitalnego, ale (czka)moÅ¼e teraz zmienisz zdanie i zgodzisz siÄ™ na oficjalne powitanie w Klamath.}
+{751}{}{Dam ci $5 jeÅ›li tylko siÄ™ ode mnie odczepisz.}
+{752}{}{Ten moment musiaÅ‚ nastÄ…piÄ‡ prÄ™dzej czy pÃ³Åºniej. Masz tu $5. MoÅ¼esz zaczÄ…Ä‡ mnie witaÄ‡.}
+{753}{}{Nie skorzystam. Nie potrzebujÄ™ oficjalnego powitania.}
+{754}{}{A moÅ¼e twoje flaki chciaÅ‚yby powitaÄ‡ mÃ³j nÃ³Å¼?}
+{800}{}{Witaj ponownie! MoÅ¼e zechcesz wspomÃ³c mnie finansowo. Zbieram pieniÄ…dze na zakup lekarstwa. Moje gardÅ‚o wysycha w bÅ‚yskawicznym (czka) tempie. JeÅ›li chcesz, zorganizujÄ™ dla ciebie nastÄ™pne oficjalne powitanie.}
 {801}{}{Czemu nie. Masz tu $5 na lekarstwo.}
-{802}{}{Przykro mi, Aldo. Mo¿e innym razem.}
-{803}{}{Chyba masz ju¿ doœ tego 'lekarstwa'. WeŸ siê lepiej do uczciwej pracy - bêdziesz zdrowszy.}
-{810}{}{Niech ciê szlag. Jak mo¿na tak okrutnie traktowaæ chorego cz³owieka? Dzikus bez serca! (Aldo spluwa na ziemiê przed tob¹. Niestety nie udaje mu siê unikn¹æ oplucia w³asnej brody)}
-{820}{}{Zapewniam ciê, ¿e pomoc udzielona komuœ tak potrzebuj¹cemu jak ja przyniesie ci (czka) du¿o szczêœcia. Mam nadziejê, ¿e jeszcze siê spotkamy.}
-{830}{}{Ach, jak bardzo przyda³y by mi siê pieni¹dze na lekarstwo. No ale skoro (kaszle) mówisz, ¿e nie mo¿esz sobie (kaszle) na to pozwoliæ, to oczywiœcie rozumiem. Mo¿e innym razem (kaszle) jeœli do¿yjê.}
-{850}{}{Masz na myœli moje kochane lekarstwo? (czka) Kiedyœ kupowa³em je albo pod Z³otym Gekonem, albo u Bucknerów, ale teraz nie chc¹ mi ju¿ sprzedawaæ na kredyt. Na szczêœcie Bob Flacha sporz¹dza odrobinê lekarstwa na potrzeby swoje i znajomych.}
-{851}{}{Cieszê siê, ¿e znalaz³eœ Ÿród³o... lekarstwa. To ju¿ chyba wszystko co chcê wiedzieæ.}
-{852}{}{Ciekawe. A gdzie mogê znaleŸæ tego Boba Flachê?}
-{853}{}{Dziêki, Aldo. Mam jeszcze jedno pytanie.}
-{860}{}{Bob przesiaduje zwykle u Bucknerów, tu niedaleko. Ale chyba od jakiegoœ czasu nie zagl¹da³ do swojej aparatury. To niezbyt sta³e Ÿród³o, jak dla kogoœ o moim s³abym zdrowiu.}
-{861}{}{Dziêki za informacje, Aldo. To chyba wszystko co chcê wiedzieæ.}
-{862}{}{Dobrze, ¿e znalaz³eœ innego dostawcê. Czy móg³byœ... tak mocno nie chuchaæ? Dziêki. Mam jeszcze jedno pytanie.}
-{870}{}{Witaj, przyjacielu - wygl¹dasz na kogoœ, komu przyda³ by siê przyjaciel. Jestem Aldo, lokalny komitet powitalny.}
+{802}{}{Przykro mi, Aldo. MoÅ¼e innym razem.}
+{803}{}{Chyba masz juÅ¼ doÅ› tego 'lekarstwa'. WeÅº siÄ™ lepiej do uczciwej pracy - bÄ™dziesz zdrowszy.}
+{810}{}{Niech ciÄ™ szlag. Jak moÅ¼na tak okrutnie traktowaÄ‡ chorego czÅ‚owieka? Dzikus bez serca! (Aldo spluwa na ziemiÄ™ przed tobÄ…. Niestety nie udaje mu siÄ™ uniknÄ…Ä‡ oplucia wÅ‚asnej brody)}
+{820}{}{Zapewniam ciÄ™, Å¼e pomoc udzielona komuÅ› tak potrzebujÄ…cemu jak ja przyniesie ci (czka) duÅ¼o szczÄ™Å›cia. Mam nadziejÄ™, Å¼e jeszcze siÄ™ spotkamy.}
+{830}{}{Ach, jak bardzo przydaÅ‚y by mi siÄ™ pieniÄ…dze na lekarstwo. No ale skoro (kaszle) mÃ³wisz, Å¼e nie moÅ¼esz sobie (kaszle) na to pozwoliÄ‡, to oczywiÅ›cie rozumiem. MoÅ¼e innym razem (kaszle) jeÅ›li doÅ¼yjÄ™.}
+{850}{}{Masz na myÅ›li moje kochane lekarstwo? (czka) KiedyÅ› kupowaÅ‚em je albo pod ZÅ‚otym Gekonem, albo u BucknerÃ³w, ale teraz nie chcÄ… mi juÅ¼ sprzedawaÄ‡ na kredyt. Na szczÄ™Å›cie Bob Flacha sporzÄ…dza odrobinÄ™ lekarstwa na potrzeby swoje i znajomych.}
+{851}{}{CieszÄ™ siÄ™, Å¼e znalazÅ‚eÅ› ÅºrÃ³dÅ‚o... lekarstwa. To juÅ¼ chyba wszystko co chcÄ™ wiedzieÄ‡.}
+{852}{}{Ciekawe. A gdzie mogÄ™ znaleÅºÄ‡ tego Boba FlachÄ™?}
+{853}{}{DziÄ™ki, Aldo. Mam jeszcze jedno pytanie.}
+{860}{}{Bob przesiaduje zwykle u BucknerÃ³w, tu niedaleko. Ale chyba od jakiegoÅ› czasu nie zaglÄ…daÅ‚ do swojej aparatury. To niezbyt staÅ‚e ÅºrÃ³dÅ‚o, jak dla kogoÅ› o moim sÅ‚abym zdrowiu.}
+{861}{}{DziÄ™ki za informacje, Aldo. To chyba wszystko co chcÄ™ wiedzieÄ‡.}
+{862}{}{Dobrze, Å¼e znalazÅ‚eÅ› innego dostawcÄ™. Czy mÃ³gÅ‚byÅ›... tak mocno nie chuchaÄ‡? DziÄ™ki. Mam jeszcze jedno pytanie.}
+{870}{}{Witaj, przyjacielu - wyglÄ…dasz na kogoÅ›, komu przydaÅ‚ by siÄ™ przyjaciel. Jestem Aldo, lokalny komitet powitalny.}
 {871}{}{Przyjaciel? He, he, }
 {872}{}{ lubi przyjaciel.}
-{873}{}{Urk, (niuch, niuch) z³y zapach. IdŸ sobie.}
-{880}{}{Jak mi dasz $20 zostanê twoim przyjacielem. I wszyscy inni te¿ bêd¹ twoimi przyjació³mi. Tak to ju¿ jest w du¿ym mieœcie.}
-{881}{}{Dwa-cie-œcia? Uuk? Duuu¿a Cia-sto? Uuk?}
-{882}{}{Daæ listek, taa?}
-{890}{}{GECK? Mo¿e gekon? O GECKu nic mi nie wiadomo, ale mogê ci opowiedzieæ o gekonach.}
-{900}{}{Zabytki, hê? (czka) No... Jedyny kupiec w tej bran¿y, jakiego znam, to stary Vic.}
-{901}{}{Vic? Gdzie go mogê znaleŸæ?}
-{910}{}{A to ju¿ inna kwestia (czka), jakoœ go ostatnio nie widujê. Nie bardzo wiem, gdzie go teraz (czka) szszsz... (czka) szukaæ. Pogadaj z Jenny z £aŸni. Ona i Vic byli ca³kiem blisko, dos³ownie i w przenoœni. He, he, he. Chwytasz? I w przenoœni! Jeszcze nie straci³em poczucia humoru.}
-{911}{}{Musia³byœ je najpierw mieæ... Pozwól, ¿e zaryzykujê jeszcze jedno pytanie.}
-{912}{}{Wielkie dziêki, jesteœ jedyny w swoim rodzaju Aldo. To ju¿ chyba wszystko. Trzymaj siê.}
-{920}{}{Witam ponownie mojego przyjaciela. Masz kolejne 20 dolarów do stracenia, aby nasza przyjaŸñ nadal kwit³a?}
+{873}{}{Urk, (niuch, niuch) zÅ‚y zapach. IdÅº sobie.}
+{880}{}{Jak mi dasz $20 zostanÄ™ twoim przyjacielem. I wszyscy inni teÅ¼ bÄ™dÄ… twoimi przyjaciÃ³Å‚mi. Tak to juÅ¼ jest w duÅ¼ym mieÅ›cie.}
+{881}{}{Dwa-cie-Å›cia? Uuk? DuuuÅ¼a Cia-sto? Uuk?}
+{882}{}{DaÄ‡ listek, taa?}
+{890}{}{GECK? MoÅ¼e gekon? O GECKu nic mi nie wiadomo, ale mogÄ™ ci opowiedzieÄ‡ o gekonach.}
+{900}{}{Zabytki, hÄ™? (czka) No... Jedyny kupiec w tej branÅ¼y, jakiego znam, to stary Vic.}
+{901}{}{Vic? Gdzie go mogÄ™ znaleÅºÄ‡?}
+{910}{}{A to juÅ¼ inna kwestia (czka), jakoÅ› go ostatnio nie widujÄ™. Nie bardzo wiem, gdzie go teraz (czka) szszsz... (czka) szukaÄ‡. Pogadaj z Jenny z ÅaÅºni. Ona i Vic byli caÅ‚kiem blisko, dosÅ‚ownie i w przenoÅ›ni. He, he, he. Chwytasz? I w przenoÅ›ni! Jeszcze nie straciÅ‚em poczucia humoru.}
+{911}{}{MusiaÅ‚byÅ› je najpierw mieÄ‡... PozwÃ³l, Å¼e zaryzykujÄ™ jeszcze jedno pytanie.}
+{912}{}{Wielkie dziÄ™ki, jesteÅ› jedyny w swoim rodzaju Aldo. To juÅ¼ chyba wszystko. Trzymaj siÄ™.}
+{920}{}{Witam ponownie mojego przyjaciela. Masz kolejne 20 dolarÃ³w do stracenia, aby nasza przyjaÅºÅ„ nadal kwitÅ‚a?}
 {921}{}{Ook.}
 {922}{}{Nie moja sprawa. Pa.}

@@ -1,1 +1,1 @@
-{100}{}{Es scheint eine Stadt westlich der Milit‰rbasis zu geben. Gib es in deinen PIPBoy ein.}
+{100}{}{Es scheint eine Stadt westlich der Milit√§rbasis zu geben. Gib es in deinen PIPBoy ein.}

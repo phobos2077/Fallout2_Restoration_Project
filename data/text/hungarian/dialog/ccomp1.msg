@@ -1,18 +1,18 @@
 {100}{}{Technikus.}
-{101}{}{Egy számítógép-technikust látsz. }
-{102}{}{Ez az ember egy rakás tollat hord a köpenye zsebében.}
-{103}{}{Jó napot, katona!}
-{104}{}{Kérem, ne nyúljon semmihez!}
-{105}{}{A katonáknak nem szabadna itt lennie.}
+{101}{}{Egy szÃ¡mÃ­tÃ³gÃ©p-technikust lÃ¡tsz. }
+{102}{}{Ez az ember egy rakÃ¡s tollat hord a kÃ¶penye zsebÃ©ben.}
+{103}{}{JÃ³ napot, katona!}
+{104}{}{KÃ©rem, ne nyÃºljon semmihez!}
+{105}{}{A katonÃ¡knak nem szabadna itt lennie.}
 {106}{}{You're out of uniform. }
-{107}{}{Jobb lenne, ha felöltözne. A fegyvertár a terem végén van balra.}
-{108}{}{Nagy kockázatot válalsz, ha csak így flangálsz itt. Vegyél fel egy páncélt!}
-{109}{}{Kik ezek a fickók?... Behatolók! Riadó!}
-{110}{}{Megtámadtak bennünket! Riadó!}
-{111}{}{Behatolók! Riadó!}
-{112}{}{Picsába! Kezdjük gyorsan az archiválást!}
+{107}{}{Jobb lenne, ha felÃ¶ltÃ¶zne. A fegyvertÃ¡r a terem vÃ©gÃ©n van balra.}
+{108}{}{Nagy kockÃ¡zatot vÃ¡lalsz, ha csak Ã­gy flangÃ¡lsz itt. VegyÃ©l fel egy pÃ¡ncÃ©lt!}
+{109}{}{Kik ezek a fickÃ³k?... BehatolÃ³k! RiadÃ³!}
+{110}{}{MegtÃ¡madtak bennÃ¼nket! RiadÃ³!}
+{111}{}{BehatolÃ³k! RiadÃ³!}
+{112}{}{PicsÃ¡ba! KezdjÃ¼k gyorsan az archivÃ¡lÃ¡st!}
 {113}{}{Minden titkos m?veletet hagyjatok abba}
-{114}{}{Biztosítsátok a rendszert!}
-{115}{}{Tudós vagyok, nem katona!}
-{116}{}{"A hegyes végén lév? lézerdiódát irányítsa rá a célpontra, aztán húzza meg a ravaszt!"}
-{117}{}{Segítség! Er?sítést a számítógép-laborba!}
+{114}{}{BiztosÃ­tsÃ¡tok a rendszert!}
+{115}{}{TudÃ³s vagyok, nem katona!}
+{116}{}{"A hegyes vÃ©gÃ©n lÃ©v? lÃ©zerdiÃ³dÃ¡t irÃ¡nyÃ­tsa rÃ¡ a cÃ©lpontra, aztÃ¡n hÃºzza meg a ravaszt!"}
+{117}{}{SegÃ­tsÃ©g! Er?sÃ­tÃ©st a szÃ¡mÃ­tÃ³gÃ©p-laborba!}

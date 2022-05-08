@@ -1,3 +1,3 @@
 {100}{}{Du hast das Gecko Atomkraftwerk betreten.}
-{200}{}{Du hast den Reaktor zerstört.}
+{200}{}{Du hast den Reaktor zerstÃ¶rt.}
 {300}{}{Der Roboter hat das Kraftwerk repariert.}

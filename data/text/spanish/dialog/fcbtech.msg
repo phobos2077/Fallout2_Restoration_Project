@@ -1,8 +1,8 @@
 {100}{}{Usted ve un ansioso Shi guardia.}
 {101}{}{La guardia de los ojos de cambio nerviosamente sobre la penumbra.}
-{200}{}{Este lugar es sagrado. Increíblemente inquietante, pero sagrado.}
+{200}{}{Este lugar es sagrado. IncreÃ­blemente inquietante, pero sagrado.}
 {201}{}{Vamos a terminar con esto.}
-{202}{}{Puedo sentir los espíritus de mis antepasados entre nosotros.}
-{203}{}{Ir a hacer su tech cosa para que podamos regresar a la península.}
-{204}{}{¿Escuchaste eso? Juro que he oído algo.}
-{205}{}{¿Por qué siempre me asignados a este? }
+{202}{}{Puedo sentir los espÃ­ritus de mis antepasados entre nosotros.}
+{203}{}{Ir a hacer su tech cosa para que podamos regresar a la penÃ­nsula.}
+{204}{}{Â¿Escuchaste eso? Juro que he oÃ­do algo.}
+{205}{}{Â¿Por quÃ© siempre me asignados a este? }

@@ -1,25 +1,25 @@
-{100}{}{Você vê um guarda.}
-{101}{}{Você vê Marc, um guarda.}
-{102}{}{Você vê Marc, um dos guardas de Tyler.}
+{100}{}{VocÃª vÃª um guarda.}
+{101}{}{VocÃª vÃª Marc, um guarda.}
+{102}{}{VocÃª vÃª Marc, um dos guardas de Tyler.}
 {150}{}{Yo, Tyler!}
 {200}{}{Mas o que...?}
 {225}{}{Obrigado pela dica. Essa foi uma coisa divertida.}
 {226}{}{Eu sabia que poderia pegar os bichanos.}
 {227}{}{Pena que matou todos eles. Agora o que vamos fazer?}
-{228}{}{Está quente ou o que?}
-{229}{}{Nós somos muito bons.}
-{230}{}{Nós caralho chutamos algumas bundas! Foda-se!}
-{250}{}{Tyler é o único a falar, eu não, senhora.}
-{251}{}{Estás bem. Você precisa de algo; você tem que falar com Tyler aqui.}
-{252}{}{O que você está procurando?}
-{253}{}{Tyler é a pessoa com quem falar, não eu, cara.}
-{255}{}{Vamos arrasar hoje à noite!}
-{256}{}{Esta noite é a noite!}
+{228}{}{EstÃ¡ quente ou o que?}
+{229}{}{NÃ³s somos muito bons.}
+{230}{}{NÃ³s caralho chutamos algumas bundas! Foda-se!}
+{250}{}{Tyler Ã© o Ãºnico a falar, eu nÃ£o, senhora.}
+{251}{}{EstÃ¡s bem. VocÃª precisa de algo; vocÃª tem que falar com Tyler aqui.}
+{252}{}{O que vocÃª estÃ¡ procurando?}
+{253}{}{Tyler Ã© a pessoa com quem falar, nÃ£o eu, cara.}
+{255}{}{Vamos arrasar hoje Ã  noite!}
+{256}{}{Esta noite Ã© a noite!}
 {257}{}{Vou lembrar desta noite, com certeza.}
-{258}{}{Não vai mesmo me dizer que eles se acovardaram.}
+{258}{}{NÃ£o vai mesmo me dizer que eles se acovardaram.}
 {259}{}{Oh, eu espero que esses filhos da puta mostrem-se.}
-{260}{}{Eu sabia que os bichanos não iria mostrar-se.}
-{261}{}{Nós devemos simplesmente ir chutar suas bundas apenas por pensar em lutar contra nós.}
-{262}{}{Nós os teríamos rasgado se tivessem aparecido.}
+{260}{}{Eu sabia que os bichanos nÃ£o iria mostrar-se.}
+{261}{}{NÃ³s devemos simplesmente ir chutar suas bundas apenas por pensar em lutar contra nÃ³s.}
+{262}{}{NÃ³s os terÃ­amos rasgado se tivessem aparecido.}
 {263}{}{Eu poderia ter vencido por mim mesmo.}
-{264}{}{Tyler e eu teríamos chutado uns traseiros sério.}
+{264}{}{Tyler e eu terÃ­amos chutado uns traseiros sÃ©rio.}

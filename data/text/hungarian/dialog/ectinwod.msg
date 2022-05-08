@@ -1,7 +1,7 @@
-{100}{}{Egy férfit látsz, valamiféle páncélzatban.}
-{101}{}{Egy férfit látsz, valamiféle páncélzatban.}
-{102}{}{A páncélzata meglehet?sen rozsdásnak t?nik.}
+{100}{}{Egy fÃ©rfit lÃ¡tsz, valamifÃ©le pÃ¡ncÃ©lzatban.}
+{101}{}{Egy fÃ©rfit lÃ¡tsz, valamifÃ©le pÃ¡ncÃ©lzatban.}
+{102}{}{A pÃ¡ncÃ©lzata meglehet?sen rozsdÃ¡snak t?nik.}
 {103}{}{Olajoskanna...}
-{104}{}{Nagyon köszönöm. Fogalmad sincs, mióta rostokolok itt. Tessék, ezt fogadd el cserébe a fáradságodért. Mennem kell...}
-{105}{}{Uhh, kösz.}
-{106}{}{Sajnálom, rohannom kell. Valamikor majd még találkozunk.}
+{104}{}{Nagyon kÃ¶szÃ¶nÃ¶m. Fogalmad sincs, miÃ³ta rostokolok itt. TessÃ©k, ezt fogadd el cserÃ©be a fÃ¡radsÃ¡godÃ©rt. Mennem kell...}
+{105}{}{Uhh, kÃ¶sz.}
+{106}{}{SajnÃ¡lom, rohannom kell. Valamikor majd mÃ©g talÃ¡lkozunk.}

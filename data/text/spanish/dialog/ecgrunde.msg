@@ -1,9 +1,9 @@
-{100}{}{Aquí, ratoncito, ratoncito.}
+{100}{}{AquÃ­, ratoncito, ratoncito.}
 {101}{}{Grundel te necesita para hacer filetes.}
-{102}{}{Ven aquí, pekeño ratoncito.}
-{103}{}{Grundel bueno, no hacerte daño.}
-{104}{}{Sabrosos y pequeñitos...}
+{102}{}{Ven aquÃ­, pekeÃ±o ratoncito.}
+{103}{}{Grundel bueno, no hacerte daÃ±o.}
+{104}{}{Sabrosos y pequeÃ±itos...}
 {105}{}{Vamos, ratoncito. Yo tengo hambre.}
-{106}{}{Squeek, Squeeeek. ¡SQUEEEEK!}
+{106}{}{Squeek, Squeeeek. Â¡SQUEEEEK!}
 {107}{}{Vale, vale, yo mentir, yo voy a comerte.}
-{110}{}{¡Oooh! Eres un gran ratoncito. Tu hacer buena cena para Grundel.}
+{110}{}{Â¡Oooh! Eres un gran ratoncito. Tu hacer buena cena para Grundel.}

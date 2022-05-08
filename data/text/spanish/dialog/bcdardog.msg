@@ -1,3 +1,3 @@
-{100}{}{Est·s viendo a un perro.}
+{100}{}{Est√°s viendo a un perro.}
 {101}{}{Ves al perro de Darion.}
-{102}{}{Ves a un animal con un montÛn de pelo y cuatro patas. Si un perro pudiera sonreir con malicÌa, dirÌas que Èste lo hace.}
+{102}{}{Ves a un animal con un mont√≥n de pelo y cuatro patas. Si un perro pudiera sonreir con malic√≠a, dir√≠as que √©ste lo hace.}

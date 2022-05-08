@@ -1,20 +1,20 @@
-{100}{}{Du siehst einen Mann in einer Kampfrüstung.}
-{101}{}{Du siehst eine Frau in einer Kampfrüstung.}
-{102}{}{Er trägt das Abzeichen der NCR Ranger.}
-{103}{}{Sie trägt das Abzeichen der NCR Ranger.}
-{200}{}{Hallo Kamerad. Bleibst du über Nacht?}
-{201}{}{Heute schon Sklavenhändler erwischt?}
+{100}{}{Du siehst einen Mann in einer KampfrÃ¼stung.}
+{101}{}{Du siehst eine Frau in einer KampfrÃ¼stung.}
+{102}{}{Er trÃ¤gt das Abzeichen der NCR Ranger.}
+{103}{}{Sie trÃ¤gt das Abzeichen der NCR Ranger.}
+{200}{}{Hallo Kamerad. Bleibst du Ã¼ber Nacht?}
+{201}{}{Heute schon SklavenhÃ¤ndler erwischt?}
 {202}{}{Wir haben heute ein Dutzend Sklaven befreit.}
-{203}{}{Das Ödland zu schützen ist wirklich ein dreckiger Job. Aber einer muss es ja machen.}
-{204}{}{Schön dich hier zu haben. Bleib so lange du möchtest.}
-{205}{}{Hab gehört was Metzger widerfahren ist. Gut gemacht!}
-{300}{}{Das ist ein Sklavenhändler. Angriff!}
-{301}{}{Scheiße, wir werden angegriffen!}
-{400}{}{Grüße Freund.}
-{401}{}{Das ist Privatgelände. Kein Herumlungern.}
-{402}{}{Du magst Sklavenhändler? Ich hoffe für dich, dass es nicht so ist.}
-{500}{}{Was zum!? — Sklavenhändler? Wie zum Teufel haben sie uns gefunden? Wir müssen uns verteidigen. Macht sie fertig!}
-{501}{}{Warte! Wir stehen auf der selben Seite. Ich wollte dich nur zu ein paar Zielübungen einladen.
- [Du drehst dich zu den Sklavenhändlern.] Sorry Jungs, Ihr habt mich wohl falsch eingeschätzt. [Angriff auf die Sklavenhändler.]}
-{502}{}{Das wird ein Spaß! [Angriff auf die Ranger.]}
-{600}{}{Du hast den Unterschlupf der Ranger ausgelöscht.}
+{203}{}{Das Ã–dland zu schÃ¼tzen ist wirklich ein dreckiger Job. Aber einer muss es ja machen.}
+{204}{}{SchÃ¶n dich hier zu haben. Bleib so lange du mÃ¶chtest.}
+{205}{}{Hab gehÃ¶rt was Metzger widerfahren ist. Gut gemacht!}
+{300}{}{Das ist ein SklavenhÃ¤ndler. Angriff!}
+{301}{}{ScheiÃŸe, wir werden angegriffen!}
+{400}{}{GrÃ¼ÃŸe Freund.}
+{401}{}{Das ist PrivatgelÃ¤nde. Kein Herumlungern.}
+{402}{}{Du magst SklavenhÃ¤ndler? Ich hoffe fÃ¼r dich, dass es nicht so ist.}
+{500}{}{Was zum!? â€” SklavenhÃ¤ndler? Wie zum Teufel haben sie uns gefunden? Wir mÃ¼ssen uns verteidigen. Macht sie fertig!}
+{501}{}{Warte! Wir stehen auf der selben Seite. Ich wollte dich nur zu ein paar ZielÃ¼bungen einladen.
+ [Du drehst dich zu den SklavenhÃ¤ndlern.] Sorry Jungs, Ihr habt mich wohl falsch eingeschÃ¤tzt. [Angriff auf die SklavenhÃ¤ndler.]}
+{502}{}{Das wird ein SpaÃŸ! [Angriff auf die Ranger.]}
+{600}{}{Du hast den Unterschlupf der Ranger ausgelÃ¶scht.}

@@ -1,12 +1,12 @@
 {100}{}{Metabolismo Acelerado}
 {101}{}{Brutamonte}
 {102}{}{Franzino}
-{103}{}{Mão Dominante}
+{103}{}{MÃ£o Dominante}
 {104}{}{Destreza}
 {105}{}{Kamikaze}
-{106}{}{Mão Pesada}
+{106}{}{MÃ£o Pesada}
 {107}{}{Veloz}
-{108}{}{Sanguinário}
+{108}{}{SanguinÃ¡rio}
 {109}{}{Azarado}
 {110}{}{Diplomata}
 {111}{}{Viciado em drogas.}
@@ -14,19 +14,19 @@
 {113}{}{Sexy}
 {114}{}{Talentoso}
 {115}{}{Super Dotado}
-{200}{}{A sua taxa metabólica é o dobro do normal. Isso significa que você é muito menos resistente à radiação e veneno, mas o seu corpo recupera depressa.}
-{201}{}{Um pouco mais lento, mas um pouco maior. Você não pode lutar com frequência, mas eles vão sentir dor quando lutar! Seus pontos de ação totais são reduzidos, mas sua força é maior.}
-{202}{}{Você não é tão grande como os outros aldeões, mas isso nunca te deixou pra baixo. Você não pode carregar muito peso, mas você é mais ágil.}
-{203}{}{Uma das suas mãos é muito dominante. Você se destacar com armas de uma mão, mas as armas de duas mãos são um problema.}
-{204}{}{Seus ataques mostram muita destreza. Você não faz tanto dano, mas tem mais acertos críticos.}
-{205}{}{Você pode agir muito mais rápido que o normal. Isso diminui sua classe de armadura para apenas o que você está vestindo, mas sua reação é muito mais rápida no combate.}
-{206}{}{Você bate com mais força. Seus ataques são brutais, mas falta destreza. Você raramente causa dano crítico, mas sempre faz mais em corpo-a-corpo.}
-{207}{}{Você não tem tempo para apontar precisamente porque você dispara mais rápido do que as pessoas normais. Armas de fogo e armas de arremesso te custam 1 P.A.}
-{208}{}{Por uma estranha ironia do destino, as pessoas ao seu redor morrem violentamente. Você sempre vê a pior forma que uma pessoa pode morrer.}
-{209}{}{A coisa boa é que todos ao seu redor possui falhas mais críticas em combate, a única coisa ruim é que você também!}
-{210}{}{Você estudou habilidades pacíficas quando você estava crescendo. Suas habilidades de combate começam em um nível mais baixo, mas suas habilidades em Primeiros Socorros, Médico, fala e negociação são melhores.}
-{211}{}{Você se vicia em drogas com mais facilidade.  Sua chance de ser viciado em drogas é o dobro, mas você se recupera mais rápido dos efeitos nocivos delas.}
-{212}{}{As drogas afetam você apenas na metade do tempo normal, mas sua chance de se viciar também é cortada pela metade.}
-{213}{}{Você é um garanhão". Os membros do sexo oposto se setiram atraídos por você, mas aqueles do mesmo sexo tendem a ficar bastante ciumento.}
-{214}{}{Você passou mais tempo melhorando suas habilidades, ganha 5 pontos de habilidade adicionais por nível de experiência. A desvantagem é que você não ganhar o máximo de habilidades extras.}
-{215}{}{Você tem mais habilidades do que a maioria. Suas estatísticas primárias aumentam em +1, mas você perde 10% em todas as habilidades para começar, e recebe menos 5 pontos de perícia por nível.}
+{200}{}{A sua taxa metabÃ³lica Ã© o dobro do normal. Isso significa que vocÃª Ã© muito menos resistente Ã  radiaÃ§Ã£o e veneno, mas o seu corpo recupera depressa.}
+{201}{}{Um pouco mais lento, mas um pouco maior. VocÃª nÃ£o pode lutar com frequÃªncia, mas eles vÃ£o sentir dor quando lutar! Seus pontos de aÃ§Ã£o totais sÃ£o reduzidos, mas sua forÃ§a Ã© maior.}
+{202}{}{VocÃª nÃ£o Ã© tÃ£o grande como os outros aldeÃµes, mas isso nunca te deixou pra baixo. VocÃª nÃ£o pode carregar muito peso, mas vocÃª Ã© mais Ã¡gil.}
+{203}{}{Uma das suas mÃ£os Ã© muito dominante. VocÃª se destacar com armas de uma mÃ£o, mas as armas de duas mÃ£os sÃ£o um problema.}
+{204}{}{Seus ataques mostram muita destreza. VocÃª nÃ£o faz tanto dano, mas tem mais acertos crÃ­ticos.}
+{205}{}{VocÃª pode agir muito mais rÃ¡pido que o normal. Isso diminui sua classe de armadura para apenas o que vocÃª estÃ¡ vestindo, mas sua reaÃ§Ã£o Ã© muito mais rÃ¡pida no combate.}
+{206}{}{VocÃª bate com mais forÃ§a. Seus ataques sÃ£o brutais, mas falta destreza. VocÃª raramente causa dano crÃ­tico, mas sempre faz mais em corpo-a-corpo.}
+{207}{}{VocÃª nÃ£o tem tempo para apontar precisamente porque vocÃª dispara mais rÃ¡pido do que as pessoas normais. Armas de fogo e armas de arremesso te custam 1 P.A.}
+{208}{}{Por uma estranha ironia do destino, as pessoas ao seu redor morrem violentamente. VocÃª sempre vÃª a pior forma que uma pessoa pode morrer.}
+{209}{}{A coisa boa Ã© que todos ao seu redor possui falhas mais crÃ­ticas em combate, a Ãºnica coisa ruim Ã© que vocÃª tambÃ©m!}
+{210}{}{VocÃª estudou habilidades pacÃ­ficas quando vocÃª estava crescendo. Suas habilidades de combate comeÃ§am em um nÃ­vel mais baixo, mas suas habilidades em Primeiros Socorros, MÃ©dico, fala e negociaÃ§Ã£o sÃ£o melhores.}
+{211}{}{VocÃª se vicia em drogas com mais facilidade.  Sua chance de ser viciado em drogas Ã© o dobro, mas vocÃª se recupera mais rÃ¡pido dos efeitos nocivos delas.}
+{212}{}{As drogas afetam vocÃª apenas na metade do tempo normal, mas sua chance de se viciar tambÃ©m Ã© cortada pela metade.}
+{213}{}{VocÃª Ã© um garanhÃ£o". Os membros do sexo oposto se setiram atraÃ­dos por vocÃª, mas aqueles do mesmo sexo tendem a ficar bastante ciumento.}
+{214}{}{VocÃª passou mais tempo melhorando suas habilidades, ganha 5 pontos de habilidade adicionais por nÃ­vel de experiÃªncia. A desvantagem Ã© que vocÃª nÃ£o ganhar o mÃ¡ximo de habilidades extras.}
+{215}{}{VocÃª tem mais habilidades do que a maioria. Suas estatÃ­sticas primÃ¡rias aumentam em +1, mas vocÃª perde 10% em todas as habilidades para comeÃ§ar, e recebe menos 5 pontos de perÃ­cia por nÃ­vel.}

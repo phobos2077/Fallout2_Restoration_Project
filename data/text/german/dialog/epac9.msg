@@ -1,12 +1,12 @@
-{100}{}{Du siehst einen großen Computer.}
+{100}{}{Du siehst einen groÃŸen Computer.}
 {101}{}{Du siehst Mr. Chemmie!}
-{102}{}{Du siehst einen großen Computer zur Medikamentenherstellung.}
+{102}{}{Du siehst einen groÃŸen Computer zur Medikamentenherstellung.}
 {200}{}{Hallo Benutzer! Ich bin Mr. Chemmie, der Pharmazeut der Zukunft! Wie kann ich ihnen helfen?}
 {201}{}{Was machst'n du so?}
-{210}{}{Ich mache Arzneimittel! Alle Sorten! Wenns mit dem Leben schlecht steht, Mr. Chemmie hilft ihnen wieder auf die Beine! Wie funktioniert Mr. Chemmie? Es ist so einfach! Alles was sie brauchen, ist etwas wissenschaftliches Interesse und die richtigen Zutaten. Den Rest lassen sie mich machen! Los, probier mich aus! Denkt daran Kinder, dass ihr erst die Erlaubnis von Mammi und Pappi braucht, um mit Mr. Chemmie spielen zu können!}
+{210}{}{Ich mache Arzneimittel! Alle Sorten! Wenns mit dem Leben schlecht steht, Mr. Chemmie hilft ihnen wieder auf die Beine! Wie funktioniert Mr. Chemmie? Es ist so einfach! Alles was sie brauchen, ist etwas wissenschaftliches Interesse und die richtigen Zutaten. Den Rest lassen sie mich machen! Los, probier mich aus! Denkt daran Kinder, dass ihr erst die Erlaubnis von Mammi und Pappi braucht, um mit Mr. Chemmie spielen zu kÃ¶nnen!}
 {211}{}{Ok, ich probiers mal aus.}
-{212}{}{Vielleicht später.}
-{220}{}{In Ordnung! Lassen Sie uns Medikamente machen! Was möchten sie herstellen?!}
+{212}{}{Vielleicht spÃ¤ter.}
+{220}{}{In Ordnung! Lassen Sie uns Medikamente machen! Was mÃ¶chten sie herstellen?!}
 {221}{}{Stimpak}
 {222}{}{Super-Stimpak}
 {223}{}{Gift}
@@ -16,47 +16,47 @@
 {227}{}{Buffout}
 {228}{}{Mentats}
 {229}{}{Psycho}
-{230}{}{Hervorragend! Um ein Stimpak herzustellen, benötigen sie: Eine Brocblume, eine Xanderwurzel und eine leere Injektionsspritze! Lecker!}
+{230}{}{Hervorragend! Um ein Stimpak herzustellen, benÃ¶tigen sie: Eine Brocblume, eine Xanderwurzel und eine leere Injektionsspritze! Lecker!}
 {231}{}{Mach ein Stimpak.}
 {232}{}{Die habe ich gerade nicht bei mir.}
-{233}{}{Zurück zum Hauptmenü.}
-{240}{}{Hervorragend! Um ein Super-Stimpak herzustellen, benötigen sie: Ein ordinäres Stimpak, ein Stück Obst und eine Nuka Cola! Lecker!}
+{233}{}{ZurÃ¼ck zum HauptmenÃ¼.}
+{240}{}{Hervorragend! Um ein Super-Stimpak herzustellen, benÃ¶tigen sie: Ein ordinÃ¤res Stimpak, ein StÃ¼ck Obst und eine Nuka Cola! Lecker!}
 {241}{}{Mach ein Super-Stimpak.}
-{250}{}{Hervorragend! Um Psycho herzustellen, benötigen sie: Ein Mentat, ein Buffout, ein Stück Obst und ein Stimpak! Lecker!}
+{250}{}{Hervorragend! Um Psycho herzustellen, benÃ¶tigen sie: Ein Mentat, ein Buffout, ein StÃ¼ck Obst und ein Stimpak! Lecker!}
 {251}{}{Mach Psycho.}
-{260}{}{Hervorragend! Um Mentats herzustellen, benötigen sie: Einen Erste Hilfe Kasten, einen Apfel und Schnapps! Lecker!}
+{260}{}{Hervorragend! Um Mentats herzustellen, benÃ¶tigen sie: Einen Erste Hilfe Kasten, einen Apfel und Schnapps! Lecker!}
 {262}{}{Mach Mentats.}
 {263}{}{Beenden}
-{270}{}{Hervorragend! Um eine Arzttasche herzustellen, benötigen sie: Ein Stimpak, ein Ersthilfekit, eine Injektionsspritze und ein Gegengift! Lecker!}
+{270}{}{Hervorragend! Um eine Arzttasche herzustellen, benÃ¶tigen sie: Ein Stimpak, ein Ersthilfekit, eine Injektionsspritze und ein Gegengift! Lecker!}
 {272}{}{Mach eine Arzttasche.}
-{280}{}{Hervorragend! Um einen Erste Hilfe Kasten herzustellen, benötigen sie: Ein Stimpak, eine Injektionsspritze, ein Gegengift und ein Rad Away! Lecker!}
+{280}{}{Hervorragend! Um einen Erste Hilfe Kasten herzustellen, benÃ¶tigen sie: Ein Stimpak, eine Injektionsspritze, ein Gegengift und ein Rad Away! Lecker!}
 {282}{}{Mach einen Erste Hilfe Kasten.}
-{290}{}{Hervorragend! Um Gift herzustellen, benötigen sie: Eine Injektionsspritze, einen Skorpionschwanz und eine Nuka Cola! Lecker!}
+{290}{}{Hervorragend! Um Gift herzustellen, benÃ¶tigen sie: Eine Injektionsspritze, einen Skorpionschwanz und eine Nuka Cola! Lecker!}
 {292}{}{Mach etwas Gift.}
-{300}{}{Hervorragend! Um Buffout herzustellen, benötigen sie: Einen Erste Hilfe Kasten, ein Bier und eine Nuka Cola! Lecker!}
+{300}{}{Hervorragend! Um Buffout herzustellen, benÃ¶tigen sie: Einen Erste Hilfe Kasten, ein Bier und eine Nuka Cola! Lecker!}
 {302}{}{Mach Buffout.}
-{310}{}{Hervorragend! Um Rad-X herzustellen, benötigen sie: Einen Erste Hilfe Kasten und eine Nuka Cola! Lecker!}
+{310}{}{Hervorragend! Um Rad-X herzustellen, benÃ¶tigen sie: Einen Erste Hilfe Kasten und eine Nuka Cola! Lecker!}
 {312}{}{Mach ein Rad-X.}
-{320}{}{Hervorragend! Um Rad-Away herzustellen, benötigen sie: Eine Nuka Cola, eine Injektionsspritze und ein Stimpak! Lecker!}
+{320}{}{Hervorragend! Um Rad-Away herzustellen, benÃ¶tigen sie: Eine Nuka Cola, eine Injektionsspritze und ein Stimpak! Lecker!}
 {322}{}{Mach ein Rad-Away.}
-{330}{}{Hervorragend! Um Gegengift herzustellen, benötigen sie: Einen Skorpionschwanz und Schnapps. Lecker!}
+{330}{}{Hervorragend! Um Gegengift herzustellen, benÃ¶tigen sie: Einen Skorpionschwanz und Schnapps. Lecker!}
 {331}{}{Mach Gegengift.}
-{340}{}{Oh Mann! Eine Spezialanforderung! Welches spezielle Mittel soll Mr. Chemmie heute für Sie herstellen?!}
+{340}{}{Oh Mann! Eine Spezialanforderung! Welches spezielle Mittel soll Mr. Chemmie heute fÃ¼r Sie herstellen?!}
 {341}{}{Marihuana.}
-{342}{}{Chemikalien für den Doktor.}
+{342}{}{Chemikalien fÃ¼r den Doktor.}
 {343}{}{Mein Freund Cassidy hat ein Herzproblem. Kannst du etwas herstellen um ihm zu helfen?}
-{344}{}{Umweltabstoßungssyndrom-Hemmstoffe.}
-{350}{}{Heute ist Ihr Glückstag! Ich habe genügend Chemikalien in meinem Vorratsspeicher, um dieses herzustellen! Soll es Mr. Chemmie für Sie herstellen?}
+{344}{}{UmweltabstoÃŸungssyndrom-Hemmstoffe.}
+{350}{}{Heute ist Ihr GlÃ¼ckstag! Ich habe genÃ¼gend Chemikalien in meinem Vorratsspeicher, um dieses herzustellen! Soll es Mr. Chemmie fÃ¼r Sie herstellen?}
 {351}{}{Herstellen.}
-{352}{}{Zurück zum Hauptmenü.}
-{360}{}{Oh-oh! Ich habe nicht genügend Chemikalien übrig um diese herzustellen!}
-{370}{}{Auswahl kreiert! Das war spaßig! Bitte Artikel aus der Maschine entnehmen! Danke, dass sie Mr. Chemmie benutzt haben! Lassen Sie uns irgendwann noch einmal Arzneimittel herstellen!}
+{352}{}{ZurÃ¼ck zum HauptmenÃ¼.}
+{360}{}{Oh-oh! Ich habe nicht genÃ¼gend Chemikalien Ã¼brig um diese herzustellen!}
+{370}{}{Auswahl kreiert! Das war spaÃŸig! Bitte Artikel aus der Maschine entnehmen! Danke, dass sie Mr. Chemmie benutzt haben! Lassen Sie uns irgendwann noch einmal Arzneimittel herstellen!}
 {371}{}{Weitere Optionen.}
-{375}{}{Mr. Chemmie liebt es zu helfen! Ich kann eine Substanz namens Nitroglyzerin herstellen, welche irreguläre Herzschläge kontrolliert und vor Herzinfarkten schützt!}
+{375}{}{Mr. Chemmie liebt es zu helfen! Ich kann eine Substanz namens Nitroglyzerin herstellen, welche irregulÃ¤re HerzschlÃ¤ge kontrolliert und vor Herzinfarkten schÃ¼tzt!}
 {380}{}{Rad-X}
 {381}{}{Rad-Away}
 {382}{}{Etwas spezielles}
 {383}{}{Nichts}
-{390}{}{Heute ist Ihr Glückstag! Ich habe genügend Chemikalien in meinem Vorratsspeicher, um einen UASH-Behälter herzustellen! Soll Mr. Chemmie einen für Sie herstellen?}
+{390}{}{Heute ist Ihr GlÃ¼ckstag! Ich habe genÃ¼gend Chemikalien in meinem Vorratsspeicher, um einen UASH-BehÃ¤lter herzustellen! Soll Mr. Chemmie einen fÃ¼r Sie herstellen?}
 {391}{}{Herstellen.}
 {392}{}{Beenden}

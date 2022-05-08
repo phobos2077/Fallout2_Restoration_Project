@@ -1,82 +1,82 @@
-{100}{}{Widzisz przypakowan¹ górniczkê.}
-{101}{}{Widzisz Blasphemous Bette, górniczkê z kopalni Morningstar.}
-{102}{}{Widzisz dobrze umiêœnion¹ kobietê, pe³n¹ wiary w siebie.}
-{103}{}{Caminetto, wszyscy wasi górnicy z kopalni Kokoweef s¹ tacy sami. Przyszliœcie i nic...}
-{104}{}{Ju¿ wkrótce *nic* bêdzie jedyn¹ rzecz¹, jak¹ bêdziesz widzieæ, Blasphemous Bette.}
-{105}{}{S³owo nic dobrze oddaje to, co mo¿esz mi zrobiæ!}
-{106}{}{Nic ci jeszcze nie zrobi³em, bo nie mogê siê zmusiæ, by podejœæ do ciebie!}
-{107}{}{Nie pochlebiaj sobie, ty ma³y wieprzku!}
-{108}{}{Mo¿e i jestem wieprzkiem, ale wy za to wcale nie umiecie obs³ugiwaæ maszyn górniczych!}
-{109}{}{Czemu tak uwa¿asz? U nas wiert³a wytrzymuj¹ d³u¿ej ni¿ 30 sekund, nie tak jak u was!}
-{110}{}{30 sekund... To pewnie dlatego maszyny w Morningstar psuj¹ siê tak czêsto.}
-{111}{}{Zaraz moje piêœci zepsuj¹ twoj¹ twarz!}
-{112}{}{Twoje piêœci? Wystarczy sam oddech!}
-{113}{}{Ty za to œmierdzisz ca³y... Pewnie dlatego, ¿e nie my³eœ siê ju¿ ze 3 tygodnie.}
-{114}{}{Za to samo patrzenie na ciebie mo¿e wywo³aæ ból!}
-{115}{}{Co ty tam wiesz o bólu? Ja ci zaraz poka¿ê ból!}
-{116}{}{Ty mi poka¿esz?}
-{117}{}{Pewnie, bo twoja mamusia najwyraŸniej zapomnia³a!}
-{118}{}{Zaczynasz naje¿d¿aæ na moj¹ matkê? Jakie¿ to pomys³owe.}
-{119}{}{Zajmij siê lepiej wymyœlaniem nowej twarzy dla siebie, na tê star¹ a¿ ¿al patrzeæ!}
-{120}{}{Nic mi nie zrobisz, jesteœ za s³aba!}
-{121}{}{Rozwalê ciê bez problemu! I mogê siê za³o¿yæ, ¿e my, ekipa z Morningstar za³atwimy was, frajerów z Kokoweef, kiedy tylko bêdziemy chcieli!}
-{122}{}{Nie s¹dzê. Kokoweef tu rz¹dzi. Muszê ciê tego dobrze nauczyæ.}
-{123}{}{Trudno ci bêdzie uczyæ, gdy bêdziesz nieprzytomny.}
-{124}{}{Liczysz na szczêœcie, hê?}
-{125}{}{Nie potrzebujê szczêœcia, by ciê obiæ...}
-{126}{}{Obiæ? Chyba swoim brzuchem! Zaczynam siê baæ!}
-{127}{}{Lepiej zacznij siê biæ, albo siê przymknij!}
-{128}{}{No dalej, wiedŸmo!}
-{129}{}{I kto tu teraz liczy na szczêœcie?}
-{130}{}{Mam tego doœæ, ju¿ po tobie!}
-{131}{}{Hej, ktoœ nas podgl¹da!}
-{132}{}{To ktos obcy! Hej, to sprawa osobista! Ju¿ nie ¿yjesz!}
-{133}{}{Chocia¿ raz siê zgadzamy. Ju¿ nie ¿yjesz!}
-{134}{}{I kto teraz bêdzie do cholery wydobywa³ z³oto, co?}
-{135}{}{Przyda³by mi siê pierdolony urlop.}
-{136}{}{Mam siedzieæ tym gównianym wiêzieniu z tym palantem?}
-{137}{}{Caminetto, twoje pierdolone dni s¹ ju¿ policzone!}
+{100}{}{Widzisz przypakowanÄ… gÃ³rniczkÄ™.}
+{101}{}{Widzisz Blasphemous Bette, gÃ³rniczkÄ™ z kopalni Morningstar.}
+{102}{}{Widzisz dobrze umiÄ™Å›nionÄ… kobietÄ™, peÅ‚nÄ… wiary w siebie.}
+{103}{}{Caminetto, wszyscy wasi gÃ³rnicy z kopalni Kokoweef sÄ… tacy sami. PrzyszliÅ›cie i nic...}
+{104}{}{JuÅ¼ wkrÃ³tce *nic* bÄ™dzie jedynÄ… rzeczÄ…, jakÄ… bÄ™dziesz widzieÄ‡, Blasphemous Bette.}
+{105}{}{SÅ‚owo nic dobrze oddaje to, co moÅ¼esz mi zrobiÄ‡!}
+{106}{}{Nic ci jeszcze nie zrobiÅ‚em, bo nie mogÄ™ siÄ™ zmusiÄ‡, by podejÅ›Ä‡ do ciebie!}
+{107}{}{Nie pochlebiaj sobie, ty maÅ‚y wieprzku!}
+{108}{}{MoÅ¼e i jestem wieprzkiem, ale wy za to wcale nie umiecie obsÅ‚ugiwaÄ‡ maszyn gÃ³rniczych!}
+{109}{}{Czemu tak uwaÅ¼asz? U nas wiertÅ‚a wytrzymujÄ… dÅ‚uÅ¼ej niÅ¼ 30 sekund, nie tak jak u was!}
+{110}{}{30 sekund... To pewnie dlatego maszyny w Morningstar psujÄ… siÄ™ tak czÄ™sto.}
+{111}{}{Zaraz moje piÄ™Å›ci zepsujÄ… twojÄ… twarz!}
+{112}{}{Twoje piÄ™Å›ci? Wystarczy sam oddech!}
+{113}{}{Ty za to Å›mierdzisz caÅ‚y... Pewnie dlatego, Å¼e nie myÅ‚eÅ› siÄ™ juÅ¼ ze 3 tygodnie.}
+{114}{}{Za to samo patrzenie na ciebie moÅ¼e wywoÅ‚aÄ‡ bÃ³l!}
+{115}{}{Co ty tam wiesz o bÃ³lu? Ja ci zaraz pokaÅ¼Ä™ bÃ³l!}
+{116}{}{Ty mi pokaÅ¼esz?}
+{117}{}{Pewnie, bo twoja mamusia najwyraÅºniej zapomniaÅ‚a!}
+{118}{}{Zaczynasz najeÅ¼dÅ¼aÄ‡ na mojÄ… matkÄ™? JakieÅ¼ to pomysÅ‚owe.}
+{119}{}{Zajmij siÄ™ lepiej wymyÅ›laniem nowej twarzy dla siebie, na tÄ™ starÄ… aÅ¼ Å¼al patrzeÄ‡!}
+{120}{}{Nic mi nie zrobisz, jesteÅ› za sÅ‚aba!}
+{121}{}{RozwalÄ™ ciÄ™ bez problemu! I mogÄ™ siÄ™ zaÅ‚oÅ¼yÄ‡, Å¼e my, ekipa z Morningstar zaÅ‚atwimy was, frajerÃ³w z Kokoweef, kiedy tylko bÄ™dziemy chcieli!}
+{122}{}{Nie sÄ…dzÄ™. Kokoweef tu rzÄ…dzi. MuszÄ™ ciÄ™ tego dobrze nauczyÄ‡.}
+{123}{}{Trudno ci bÄ™dzie uczyÄ‡, gdy bÄ™dziesz nieprzytomny.}
+{124}{}{Liczysz na szczÄ™Å›cie, hÄ™?}
+{125}{}{Nie potrzebujÄ™ szczÄ™Å›cia, by ciÄ™ obiÄ‡...}
+{126}{}{ObiÄ‡? Chyba swoim brzuchem! Zaczynam siÄ™ baÄ‡!}
+{127}{}{Lepiej zacznij siÄ™ biÄ‡, albo siÄ™ przymknij!}
+{128}{}{No dalej, wiedÅºmo!}
+{129}{}{I kto tu teraz liczy na szczÄ™Å›cie?}
+{130}{}{Mam tego doÅ›Ä‡, juÅ¼ po tobie!}
+{131}{}{Hej, ktoÅ› nas podglÄ…da!}
+{132}{}{To ktos obcy! Hej, to sprawa osobista! JuÅ¼ nie Å¼yjesz!}
+{133}{}{ChociaÅ¼ raz siÄ™ zgadzamy. JuÅ¼ nie Å¼yjesz!}
+{134}{}{I kto teraz bÄ™dzie do cholery wydobywaÅ‚ zÅ‚oto, co?}
+{135}{}{PrzydaÅ‚by mi siÄ™ pierdolony urlop.}
+{136}{}{Mam siedzieÄ‡ tym gÃ³wnianym wiÄ™zieniu z tym palantem?}
+{137}{}{Caminetto, twoje pierdolone dni sÄ… juÅ¼ policzone!}
 {138}{}{Zginiesz za to!}
-{139}{}{Wypuœæcie mnie st¹d, do kurwy nêdzy!!!}
-{140}{}{Hej, pojebus, wypuœæ mnie!}
-{141}{}{Hej, szeryfie... Zrobiê ci laskê, jeœli mnie wypuœcisz.}
-{142}{}{Nastêpnym razem zajmê siê, kurwa, tob¹!}
-{143}{}{Na co siê gapisz, do cholery?}
-{144}{}{Czego chcesz, gównojadku?}
-{145}{}{Nie pozwolê wam siê pobiæ.}
-{146}{}{Tak siê tylko zastanawiam, co siê tu dzieje.}
-{147}{}{W barze jest kupa gówna i ja oraz moi kumple z Morningstar wyrzucimy je ³opatami na ulicê. A najwiêksze gówno ze wszystkich to ten Caminetto.}
-{148}{}{Czemu? Jak to siê zaczê³o?}
-{149}{}{Aha. Nie mogê na to pozwoliæ. Musicie siê rozejœæ.}
-{150}{}{Po prostu popatrz na te zwiêd³e fajfusy. Kto nie chcia³by ich rozgnieœæ?}
-{151}{}{To trochê za ma³o. Nie pozwolê na bójke.}
-{152}{}{No tak, to jest problem. Nie winiê was. Powodzenia.}
-{153}{}{A co taki pajac jak ty mo¿e nam zrobiæ, do cholery?}
-{154}{}{Zabijê pierwsz¹ osobê, która uderzy.}
-{155}{}{Poproszê was bardzo grzecznie. Nastêpnie za³adujê broñ i poczekam, a¿ zacznie siê zabawa w strzelnicê.}
-{156}{}{Szeryf poprosi³ mnie o pomoc, dopóki nie wyleczy nogi. Muszê dotrzymaæ obietnicy.}
-{157}{}{Tak? Ten Marion jest ca³kiem przystojny. Dobra, dla niego damy spokój tym pedziom na jakiœ czas.}
-{158}{}{Dziêki. Cieszê siê, ¿e te¿ tak to widzisz. Do widzenia.}
-{159}{}{Nie myœl, ¿e jesteœ jakimœ zajebistym kowbojem. Nie podoba mi siê takie kurewskie podejœcie.}
-{160}{}{Nie musi ci siê podobaæ. Pójdziesz ze mn¹ do paki, albo zaci¹gnê tam twoje zw³oki. Twój wybór.}
-{161}{}{Przepraszam za moj¹ niegrzecznoœæ. Ju¿ sobie idê. Do widzenia.}
-{162}{}{Tak? Dobra, zrobimy tak: pójdê, jeœli zapuszkujesz te¿ tego dupka Caminetto.}
-{163}{}{To ju¿ nie twoja decyzja.}
-{164}{}{Niez³y pomys³. Oddzielenie was kratkami powinno och³odziæ trochê atmosferê pomiedzy wami. No, idziemy.}
-{165}{}{Nie cierpisz mo¿e na zamianê dupy z g³ow¹? Jeœli spróbujesz czegoœ, to obskoczymy ciê i za³atwimy dla rozgrzewki. A potem poleje siê krew. Myœlisz, ¿e szeryfowi spodoba siê wtedy twoja robota?}
+{139}{}{WypuÅ›Ä‡cie mnie stÄ…d, do kurwy nÄ™dzy!!!}
+{140}{}{Hej, pojebus, wypuÅ›Ä‡ mnie!}
+{141}{}{Hej, szeryfie... ZrobiÄ™ ci laskÄ™, jeÅ›li mnie wypuÅ›cisz.}
+{142}{}{NastÄ™pnym razem zajmÄ™ siÄ™, kurwa, tobÄ…!}
+{143}{}{Na co siÄ™ gapisz, do cholery?}
+{144}{}{Czego chcesz, gÃ³wnojadku?}
+{145}{}{Nie pozwolÄ™ wam siÄ™ pobiÄ‡.}
+{146}{}{Tak siÄ™ tylko zastanawiam, co siÄ™ tu dzieje.}
+{147}{}{W barze jest kupa gÃ³wna i ja oraz moi kumple z Morningstar wyrzucimy je Å‚opatami na ulicÄ™. A najwiÄ™ksze gÃ³wno ze wszystkich to ten Caminetto.}
+{148}{}{Czemu? Jak to siÄ™ zaczÄ™Å‚o?}
+{149}{}{Aha. Nie mogÄ™ na to pozwoliÄ‡. Musicie siÄ™ rozejÅ›Ä‡.}
+{150}{}{Po prostu popatrz na te zwiÄ™dÅ‚e fajfusy. Kto nie chciaÅ‚by ich rozgnieÅ›Ä‡?}
+{151}{}{To trochÄ™ za maÅ‚o. Nie pozwolÄ™ na bÃ³jke.}
+{152}{}{No tak, to jest problem. Nie winiÄ™ was. Powodzenia.}
+{153}{}{A co taki pajac jak ty moÅ¼e nam zrobiÄ‡, do cholery?}
+{154}{}{ZabijÄ™ pierwszÄ… osobÄ™, ktÃ³ra uderzy.}
+{155}{}{PoproszÄ™ was bardzo grzecznie. NastÄ™pnie zaÅ‚adujÄ™ broÅ„ i poczekam, aÅ¼ zacznie siÄ™ zabawa w strzelnicÄ™.}
+{156}{}{Szeryf poprosiÅ‚ mnie o pomoc, dopÃ³ki nie wyleczy nogi. MuszÄ™ dotrzymaÄ‡ obietnicy.}
+{157}{}{Tak? Ten Marion jest caÅ‚kiem przystojny. Dobra, dla niego damy spokÃ³j tym pedziom na jakiÅ› czas.}
+{158}{}{DziÄ™ki. CieszÄ™ siÄ™, Å¼e teÅ¼ tak to widzisz. Do widzenia.}
+{159}{}{Nie myÅ›l, Å¼e jesteÅ› jakimÅ› zajebistym kowbojem. Nie podoba mi siÄ™ takie kurewskie podejÅ›cie.}
+{160}{}{Nie musi ci siÄ™ podobaÄ‡. PÃ³jdziesz ze mnÄ… do paki, albo zaciÄ…gnÄ™ tam twoje zwÅ‚oki. TwÃ³j wybÃ³r.}
+{161}{}{Przepraszam za mojÄ… niegrzecznoÅ›Ä‡. JuÅ¼ sobie idÄ™. Do widzenia.}
+{162}{}{Tak? Dobra, zrobimy tak: pÃ³jdÄ™, jeÅ›li zapuszkujesz teÅ¼ tego dupka Caminetto.}
+{163}{}{To juÅ¼ nie twoja decyzja.}
+{164}{}{NiezÅ‚y pomysÅ‚. Oddzielenie was kratkami powinno ochÅ‚odziÄ‡ trochÄ™ atmosferÄ™ pomiedzy wami. No, idziemy.}
+{165}{}{Nie cierpisz moÅ¼e na zamianÄ™ dupy z gÅ‚owÄ…? JeÅ›li sprÃ³bujesz czegoÅ›, to obskoczymy ciÄ™ i zaÅ‚atwimy dla rozgrzewki. A potem poleje siÄ™ krew. MyÅ›lisz, Å¼e szeryfowi spodoba siÄ™ wtedy twoja robota?}
 {166}{}{No, raczej nie.}
-{167}{}{Jak dla mnie to nie jest to wa¿ne, bo nie bêdzie to moja krew.}
-{168}{}{No, mo¿e i przyda³oby mi siê trochê pierdolonego odpoczynku. Ostatnio pracowaliœmy ciê¿ko jak cholera. [do reszty] Rozchodzimy siê. Bêdê jutro w pracy.}
-{169}{}{Dobry wybór.}
-{170}{}{Nie martw siê, Caminetto dotrzyma ci towarzystwa. Prawda, Caminetto?}
-{171}{}{Kurwa, ty po prostu nie rozumiesz, nie? Jeœli spróbujesz siê wpierdoliæ, to i ja, i ten kutas Caminetto rozwalimy ciê na kawalki.}
-{172}{}{W takim razie zapuszkujê was oboje.}
-{173}{}{W takim razie zabijê was oboje.}
-{174}{}{Hmm, chyba wzywaj¹ mnie do innej czêœci miasta. Do widzenia.}
-{175}{}{Chyba masz trochê bystrzejszy umys³ ni¿ na to wygl¹da. Ale w koñcu musisz mieæ, bo stoisz na nogach. Po prostu biegnij do mamusi i powiedz, ¿e nic nie da³o siê zrobiæ.}
-{176}{}{Dobra. Mam doœæ twojego gadania. Ostatnia szansa: chodŸ ze mn¹, albo rozerwê ciê na kawa³ki.}
-{177}{}{Tak te¿ zrobiê. W koñcu nie chcê nikogo krzywdziæ. Do widzenia.}
-{178}{}{Widzê, do czego to zmierza, ty kupo gówna. Okej, mo¿esz aresztowaæ i mnie i Caminetto. (do Caminetta) Prawda, mój ty ma³y pierdolcu?}
-{179}{}{No, tak ju¿ lepiej.}
-{180}{}{Teraz nigdzie ju¿ nie pójdziecie... Zaraz zacznie siê niez³a jatka... }
-{181}{}{Przypuszczam, ¿e skopiê dupê Cominetto kiedy indziej.}
+{167}{}{Jak dla mnie to nie jest to waÅ¼ne, bo nie bÄ™dzie to moja krew.}
+{168}{}{No, moÅ¼e i przydaÅ‚oby mi siÄ™ trochÄ™ pierdolonego odpoczynku. Ostatnio pracowaliÅ›my ciÄ™Å¼ko jak cholera. [do reszty] Rozchodzimy siÄ™. BÄ™dÄ™ jutro w pracy.}
+{169}{}{Dobry wybÃ³r.}
+{170}{}{Nie martw siÄ™, Caminetto dotrzyma ci towarzystwa. Prawda, Caminetto?}
+{171}{}{Kurwa, ty po prostu nie rozumiesz, nie? JeÅ›li sprÃ³bujesz siÄ™ wpierdoliÄ‡, to i ja, i ten kutas Caminetto rozwalimy ciÄ™ na kawalki.}
+{172}{}{W takim razie zapuszkujÄ™ was oboje.}
+{173}{}{W takim razie zabijÄ™ was oboje.}
+{174}{}{Hmm, chyba wzywajÄ… mnie do innej czÄ™Å›ci miasta. Do widzenia.}
+{175}{}{Chyba masz trochÄ™ bystrzejszy umysÅ‚ niÅ¼ na to wyglÄ…da. Ale w koÅ„cu musisz mieÄ‡, bo stoisz na nogach. Po prostu biegnij do mamusi i powiedz, Å¼e nic nie daÅ‚o siÄ™ zrobiÄ‡.}
+{176}{}{Dobra. Mam doÅ›Ä‡ twojego gadania. Ostatnia szansa: chodÅº ze mnÄ…, albo rozerwÄ™ ciÄ™ na kawaÅ‚ki.}
+{177}{}{Tak teÅ¼ zrobiÄ™. W koÅ„cu nie chcÄ™ nikogo krzywdziÄ‡. Do widzenia.}
+{178}{}{WidzÄ™, do czego to zmierza, ty kupo gÃ³wna. Okej, moÅ¼esz aresztowaÄ‡ i mnie i Caminetto. (do Caminetta) Prawda, mÃ³j ty maÅ‚y pierdolcu?}
+{179}{}{No, tak juÅ¼ lepiej.}
+{180}{}{Teraz nigdzie juÅ¼ nie pÃ³jdziecie... Zaraz zacznie siÄ™ niezÅ‚a jatka... }
+{181}{}{Przypuszczam, Å¼e skopiÄ™ dupÄ™ Cominetto kiedy indziej.}

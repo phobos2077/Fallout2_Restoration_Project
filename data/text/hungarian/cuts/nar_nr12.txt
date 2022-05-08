@@ -1,3 +1,3 @@
-1:Habár egy gyanúsítottat el?állítottak és megbüntettek, sosem derült fény arra,
-2:ki ölte meg valójában Mr. Wright fiát.
-3:A gyilkosságról soha többet nem beszéltek, lezárt fejezetté vált a Wright család történetében.
+1:HabÃ¡r egy gyanÃºsÃ­tottat el?Ã¡llÃ­tottak Ã©s megbÃ¼ntettek, sosem derÃ¼lt fÃ©ny arra,
+2:ki Ã¶lte meg valÃ³jÃ¡ban Mr. Wright fiÃ¡t.
+3:A gyilkossÃ¡grÃ³l soha tÃ¶bbet nem beszÃ©ltek, lezÃ¡rt fejezettÃ© vÃ¡lt a Wright csalÃ¡d tÃ¶rtÃ©netÃ©ben.

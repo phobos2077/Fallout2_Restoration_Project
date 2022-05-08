@@ -1,9 +1,9 @@
-{100}{}{Tu vois une grande cuve de fermentation d'alcool. Elle émet un léger bourdonnement.}
-{110}{}{Tu vois une grande cuve de fermentation d'alcool. Une queue de radscorpion flotte à l'intérieur.}
-{120}{}{Tu vois une grande cuve de fermentation d'alcool. Elle est cassée et les dommages semblent irréparables.}
-{130}{}{La cuve grince, puis s'arrête. Elle semble irréparable.}
-{140}{}{Tu le jettes dans la cuve et tu le regardes couler vers le fond, le venin s'échappant du sac de poison.}
-{150}{}{Elle a l'air irréparable.}
+{100}{}{Tu vois une grande cuve de fermentation d'alcool. Elle Ã©met un lÃ©ger bourdonnement.}
+{110}{}{Tu vois une grande cuve de fermentation d'alcool. Une queue de radscorpion flotte Ã  l'intÃ©rieur.}
+{120}{}{Tu vois une grande cuve de fermentation d'alcool. Elle est cassÃ©e et les dommages semblent irrÃ©parables.}
+{130}{}{La cuve grince, puis s'arrÃªte. Elle semble irrÃ©parable.}
+{140}{}{Tu le jettes dans la cuve et tu le regardes couler vers le fond, le venin s'Ã©chappant du sac de poison.}
+{150}{}{Elle a l'air irrÃ©parable.}
 {200}{}{<Ker-chunk>}
 {201}{}{<Klunk>}
 {202}{}{<Whirrrr-klunk>}
@@ -11,4 +11,4 @@
 {204}{}{<Kzzztttt>}
 {250}{}{<Hummmmmmmm>}
 {251}{}{<Thummmmmmm>}
-{300}{}{Tu as détruit les alambics de la famille Wright.}
+{300}{}{Tu as dÃ©truit les alambics de la famille Wright.}

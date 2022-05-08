@@ -1,86 +1,86 @@
-{100}{}{Egy nagy darab, vaskos férfit látsz, rövid, bozontos hajjal.}
-{101}{}{James Hoffyt, a karaván f?nökét látod.}
-{102}{}{Egy sebhelyes arcú, keménykötés? férfit látsz, latolgató tekintettel.}
-{103}{}{Gyerünk, t?nj innen!}
-{104}{}{Ez nem jótékonysági intézmény. Ki innen!}
-{105}{}{Egyébként ki engedett ki a házból?}
+{100}{}{Egy nagy darab, vaskos fÃ©rfit lÃ¡tsz, rÃ¶vid, bozontos hajjal.}
+{101}{}{James Hoffyt, a karavÃ¡n f?nÃ¶kÃ©t lÃ¡tod.}
+{102}{}{Egy sebhelyes arcÃº, kemÃ©nykÃ¶tÃ©s? fÃ©rfit lÃ¡tsz, latolgatÃ³ tekintettel.}
+{103}{}{GyerÃ¼nk, t?nj innen!}
+{104}{}{Ez nem jÃ³tÃ©konysÃ¡gi intÃ©zmÃ©ny. Ki innen!}
+{105}{}{EgyÃ©bkÃ©nt ki engedett ki a hÃ¡zbÃ³l?}
 {106}{}{Van valaki otthon?}
-{107}{}{Még a röfögéshez is ostoba vagy, mi?}
-{108}{}{Gyerünk, menj már innen!}
-{109}{}{Nincs id?m hülyékre!}
-{110}{}{Hallottam, hogy volt egy kis z?r a karavánjaid körül. Néha mindenkinek vannak z?rjei - csak ne csináljon bel?le szokást.}
-{111}{}{Úgy hallottam, már dolgoztál karaván mellett. Ez bizony jó dolog. Használható karaván kísér?knek mindig van hely.}
+{107}{}{MÃ©g a rÃ¶fÃ¶gÃ©shez is ostoba vagy, mi?}
+{108}{}{GyerÃ¼nk, menj mÃ¡r innen!}
+{109}{}{Nincs id?m hÃ¼lyÃ©kre!}
+{110}{}{Hallottam, hogy volt egy kis z?r a karavÃ¡njaid kÃ¶rÃ¼l. NÃ©ha mindenkinek vannak z?rjei - csak ne csinÃ¡ljon bel?le szokÃ¡st.}
+{111}{}{Ãšgy hallottam, mÃ¡r dolgoztÃ¡l karavÃ¡n mellett. Ez bizony jÃ³ dolog. HasznÃ¡lhatÃ³ karavÃ¡n kÃ­sÃ©r?knek mindig van hely.}
 {112}{}{Ki vagy te?}
-{113}{}{Van indulásra váró karaván?}
-{114}{}{Általában hova mennek a karavánok Reddingb?l?}
-{115}{}{Hallottál mostanában helyi pletykákat?}
-{116}{}{Hallottál már az Édenkert Létrehozását El?segít? Táska néven ismert tárgyról?}
-{117}{}{Kösz, hogy megosztottad velem. Viszlát!}
-{118}{}{Helló, James Hoffy vagyok. Az emberek általában csak Jimmynek hívnak. Én szervezem a karavánokat errefelé.}
+{113}{}{Van indulÃ¡sra vÃ¡rÃ³ karavÃ¡n?}
+{114}{}{ÃltalÃ¡ban hova mennek a karavÃ¡nok Reddingb?l?}
+{115}{}{HallottÃ¡l mostanÃ¡ban helyi pletykÃ¡kat?}
+{116}{}{HallottÃ¡l mÃ¡r az Ã‰denkert LÃ©trehozÃ¡sÃ¡t El?segÃ­t? TÃ¡ska nÃ©ven ismert tÃ¡rgyrÃ³l?}
+{117}{}{KÃ¶sz, hogy megosztottad velem. ViszlÃ¡t!}
+{118}{}{HellÃ³, James Hoffy vagyok. Az emberek Ã¡ltalÃ¡ban csak Jimmynek hÃ­vnak. Ã‰n szervezem a karavÃ¡nokat errefelÃ©.}
 {119}{}{Mit akarsz, Haver?}
-{120}{}{Van indulásra váró karaván?}
-{121}{}{Általában hova mennek a karavánok Reddingb?l?}
-{122}{}{Hallottál mostanában helyi pletykákat?}
-{123}{}{Hallottál már az Édenkert Létrehozását El?segít? Táska néven ismert tárgyról?}
-{124}{}{Csak körbenéztem, Jimmy. Kösz. Viszlát!}
+{120}{}{Van indulÃ¡sra vÃ¡rÃ³ karavÃ¡n?}
+{121}{}{ÃltalÃ¡ban hova mennek a karavÃ¡nok Reddingb?l?}
+{122}{}{HallottÃ¡l mostanÃ¡ban helyi pletykÃ¡kat?}
+{123}{}{HallottÃ¡l mÃ¡r az Ã‰denkert LÃ©trehozÃ¡sÃ¡t El?segÃ­t? TÃ¡ska nÃ©ven ismert tÃ¡rgyrÃ³l?}
+{124}{}{Csak kÃ¶rbenÃ©ztem, Jimmy. KÃ¶sz. ViszlÃ¡t!}
 {125}{}{That I don't know. You'd have to ask the caravan drivers. You can usually find a caravan here
  on the 1st, 11th, and 21st of each month. If they are not here on those days, then that means the caravan is on its way
  to arrive at Redding rather than leave it. Real neat and tidy that way. You see here, this is the way
  it works: When a caravan's in town and looking for help, the caravan master has his tent set up
  here just south of my castle. Real neat and tidy that way.}
-{126}{}{Milyen kastélyról beszélsz?}
-{127}{}{Értem. Akkor azt hiszem, beszélek velük. Kösz. Viszlát!}
-{128}{}{Mi futtatjuk a karavánokat az egész környéken. Ha tudni akarod, elmondom, hogy aranyércet szállítunk Menedékvárosba, valamennyit New Renóba is (ooo-la-la, ha érted, mire gondolok), és még azoknak az ÚKK-s, fontoskodó gyökereknek is jut egy kevés.}
-{129}{}{Mit tudsz mondani nekem Menedékvárosról?}
-{130}{}{Mit tudsz mondani nekem New Renóról?}
-{131}{}{Mit tudsz mondani nekem az ÚKK-ról?}
-{132}{}{Hadd kérdezzek valami mást.}
-{133}{}{Ezt akartam tudni. Kösz, viszlát!}
-{134}{}{Mi más lehet egy ember otthona? Pffff, jurtában nevelkedtél, vagy mi fene?}
-{135}{}{Nos, igazándiból... igen.}
-{136}{}{Eleget hallottam t?led, elfuserált, bigott "barátom". Viszlát!}
-{137}{}{Ó, igen. Hát ez megmagyaráz dolgokat. Egy csomó dolgot. Hehe.}
-{138}{}{Most, hogy ezt is tisztáztuk, hadd kérdezzek valami mást.}
-{139}{}{Aha, ha te mondod. Viszlát!}
-{140}{}{Menedékváros (Jimmy megvet?en köp egyet). Igen, mondok neked valamit azokról az elbaszott barmokról. Azt hiszik, hogy sokkal jobbak mindenki másnál. Csak azért adnak el nekünk gyógyszereket, mert szükségük van az aranyunkra. Egyébként simán hagynának minket elrohadni. Nem töltenék túl sok id?t ott, kölyök. De ha látni akarod, Ben Wade minden hónap 1-én arrafelé megy.}
-{141}{}{Mit tudsz mondani nekem New Renóról?}
-{142}{}{Mit tudsz mondani nekem az ÚKK-ról?}
-{143}{}{Kösz. Hadd kérdezzek valami mást!}
-{144}{}{Ezt akartam tudni. Viszlát!}
+{126}{}{Milyen kastÃ©lyrÃ³l beszÃ©lsz?}
+{127}{}{Ã‰rtem. Akkor azt hiszem, beszÃ©lek velÃ¼k. KÃ¶sz. ViszlÃ¡t!}
+{128}{}{Mi futtatjuk a karavÃ¡nokat az egÃ©sz kÃ¶rnyÃ©ken. Ha tudni akarod, elmondom, hogy aranyÃ©rcet szÃ¡llÃ­tunk MenedÃ©kvÃ¡rosba, valamennyit New RenÃ³ba is (ooo-la-la, ha Ã©rted, mire gondolok), Ã©s mÃ©g azoknak az ÃšKK-s, fontoskodÃ³ gyÃ¶kereknek is jut egy kevÃ©s.}
+{129}{}{Mit tudsz mondani nekem MenedÃ©kvÃ¡rosrÃ³l?}
+{130}{}{Mit tudsz mondani nekem New RenÃ³rÃ³l?}
+{131}{}{Mit tudsz mondani nekem az ÃšKK-rÃ³l?}
+{132}{}{Hadd kÃ©rdezzek valami mÃ¡st.}
+{133}{}{Ezt akartam tudni. KÃ¶sz, viszlÃ¡t!}
+{134}{}{Mi mÃ¡s lehet egy ember otthona? Pffff, jurtÃ¡ban nevelkedtÃ©l, vagy mi fene?}
+{135}{}{Nos, igazÃ¡ndibÃ³l... igen.}
+{136}{}{Eleget hallottam t?led, elfuserÃ¡lt, bigott "barÃ¡tom". ViszlÃ¡t!}
+{137}{}{Ã“, igen. HÃ¡t ez megmagyarÃ¡z dolgokat. Egy csomÃ³ dolgot. Hehe.}
+{138}{}{Most, hogy ezt is tisztÃ¡ztuk, hadd kÃ©rdezzek valami mÃ¡st.}
+{139}{}{Aha, ha te mondod. ViszlÃ¡t!}
+{140}{}{MenedÃ©kvÃ¡ros (Jimmy megvet?en kÃ¶p egyet). Igen, mondok neked valamit azokrÃ³l az elbaszott barmokrÃ³l. Azt hiszik, hogy sokkal jobbak mindenki mÃ¡snÃ¡l. Csak azÃ©rt adnak el nekÃ¼nk gyÃ³gyszereket, mert szÃ¼ksÃ©gÃ¼k van az aranyunkra. EgyÃ©bkÃ©nt simÃ¡n hagynÃ¡nak minket elrohadni. Nem tÃ¶ltenÃ©k tÃºl sok id?t ott, kÃ¶lyÃ¶k. De ha lÃ¡tni akarod, Ben Wade minden hÃ³nap 1-Ã©n arrafelÃ© megy.}
+{141}{}{Mit tudsz mondani nekem New RenÃ³rÃ³l?}
+{142}{}{Mit tudsz mondani nekem az ÃšKK-rÃ³l?}
+{143}{}{KÃ¶sz. Hadd kÃ©rdezzek valami mÃ¡st!}
+{144}{}{Ezt akartam tudni. ViszlÃ¡t!}
 {145}{}{Now that's a town. Just make sure you keep your wits about you and your gun handy. Lots of
  fighting going on there. If those families ever worked together on something, then New Reno'd really be
  a power to be reckoned with. The way it is though... Pffft. You want to get there, join up with Savinelli -
  he leaves here on the 21st of each month.}
-{146}{}{Mit tudsz mondani nekem Menedékvárosról?}
-{147}{}{Mit tudsz mondani nekem az ÚKK-ról?}
-{148}{}{Kösz. Hadd kérdezzek valami mást!}
-{149}{}{Ezt akartam tudni. Viszlát!}
-{150}{}{Az Új Kaliforniai Köztársaság tele van önelégült baromarcúakkal. Mindent a saját szájuk íze szerint intéznek el. Kicsit talán túlságosan is. Annyira álszent egy banda, hogy olyanokat keresve sem találsz máshol. Stanwell karavánja minden hónap 11-én indul az ÚKK-ba.}
-{151}{}{Mit tudsz mondani nekem Menedékvárosról?}
-{152}{}{Mit tudsz mondani nekem New Renóról?}
-{153}{}{Kösz. Hadd kérdezzek valami mást!}
-{154}{}{Ezt akartam tudni. Viszlát!}
-{155}{}{Édenkert Létrehozást El?segít? Táska? Nem tudok róla semmit biztosan, talán azt leszámítva, hogy nekünk nincs ilyesmink. Hmm. Talán egy Menedékben kellene megpróbálnod. Úgy tartják, nekik van mindenféle m?szaki bizbaszuk, nem?}
-{156}{}{Azt hiszem, meg fogom próbálni. Hadd kérdezzek valami mást!}
-{157}{}{Kösz a tippet. Viszlát!}
-{158}{}{Igen, hallottam, hogy fogtak valami zöldfül?t a Wanamingo bánya átkutatására valami régi alkatrészért.}
+{146}{}{Mit tudsz mondani nekem MenedÃ©kvÃ¡rosrÃ³l?}
+{147}{}{Mit tudsz mondani nekem az ÃšKK-rÃ³l?}
+{148}{}{KÃ¶sz. Hadd kÃ©rdezzek valami mÃ¡st!}
+{149}{}{Ezt akartam tudni. ViszlÃ¡t!}
+{150}{}{Az Ãšj Kaliforniai KÃ¶ztÃ¡rsasÃ¡g tele van Ã¶nelÃ©gÃ¼lt baromarcÃºakkal. Mindent a sajÃ¡t szÃ¡juk Ã­ze szerint intÃ©znek el. Kicsit talÃ¡n tÃºlsÃ¡gosan is. Annyira Ã¡lszent egy banda, hogy olyanokat keresve sem talÃ¡lsz mÃ¡shol. Stanwell karavÃ¡nja minden hÃ³nap 11-Ã©n indul az ÃšKK-ba.}
+{151}{}{Mit tudsz mondani nekem MenedÃ©kvÃ¡rosrÃ³l?}
+{152}{}{Mit tudsz mondani nekem New RenÃ³rÃ³l?}
+{153}{}{KÃ¶sz. Hadd kÃ©rdezzek valami mÃ¡st!}
+{154}{}{Ezt akartam tudni. ViszlÃ¡t!}
+{155}{}{Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡ska? Nem tudok rÃ³la semmit biztosan, talÃ¡n azt leszÃ¡mÃ­tva, hogy nekÃ¼nk nincs ilyesmink. Hmm. TalÃ¡n egy MenedÃ©kben kellene megprÃ³bÃ¡lnod. Ãšgy tartjÃ¡k, nekik van mindenfÃ©le m?szaki bizbaszuk, nem?}
+{156}{}{Azt hiszem, meg fogom prÃ³bÃ¡lni. Hadd kÃ©rdezzek valami mÃ¡st!}
+{157}{}{KÃ¶sz a tippet. ViszlÃ¡t!}
+{158}{}{Igen, hallottam, hogy fogtak valami zÃ¶ldfÃ¼l?t a Wanamingo bÃ¡nya Ã¡tkutatÃ¡sÃ¡ra valami rÃ©gi alkatrÃ©szÃ©rt.}
 {159}{}{I heard that the Sheriff got someone to do some of his dirty work for him.}
-{160}{}{Nem sok minden történik mostanában. Azt hiszem. Csak a szokásos ásás, és karavánok meg ilyesmi.}
-{161}{}{Igen, hát ez a zöldfül? történetesen én vagyok. Van valami probléma ezzel?}
-{162}{}{Valakinek rendet kell tartania ebben a bolhafészek városban.}
-{163}{}{Hadd kérdezzek valami mást!}
-{164}{}{Csak benéztem. Kösz, és viszlát!}
-{165}{}{Nem, egyáltalán nem probléma. Azt remélem, tudod, hogy ezzel a politikába is beletenyereltél... elég rendesen.}
-{166}{}{Ezt most hogy kell értenem?}
-{167}{}{Igen, hogyne. Viszlát!}
-{168}{}{Nos, bármelyik bánya tulajdonosának is adod oda a csipet, annak nagyon jól fog menni. Olyannyira, hogy simán tönkre tudja tenni a másikat.}
+{160}{}{Nem sok minden tÃ¶rtÃ©nik mostanÃ¡ban. Azt hiszem. Csak a szokÃ¡sos Ã¡sÃ¡s, Ã©s karavÃ¡nok meg ilyesmi.}
+{161}{}{Igen, hÃ¡t ez a zÃ¶ldfÃ¼l? tÃ¶rtÃ©netesen Ã©n vagyok. Van valami problÃ©ma ezzel?}
+{162}{}{Valakinek rendet kell tartania ebben a bolhafÃ©szek vÃ¡rosban.}
+{163}{}{Hadd kÃ©rdezzek valami mÃ¡st!}
+{164}{}{Csak benÃ©ztem. KÃ¶sz, Ã©s viszlÃ¡t!}
+{165}{}{Nem, egyÃ¡ltalÃ¡n nem problÃ©ma. Azt remÃ©lem, tudod, hogy ezzel a politikÃ¡ba is beletenyereltÃ©l... elÃ©g rendesen.}
+{166}{}{Ezt most hogy kell Ã©rtenem?}
+{167}{}{Igen, hogyne. ViszlÃ¡t!}
+{168}{}{Nos, bÃ¡rmelyik bÃ¡nya tulajdonosÃ¡nak is adod oda a csipet, annak nagyon jÃ³l fog menni. Olyannyira, hogy simÃ¡n tÃ¶nkre tudja tenni a mÃ¡sikat.}
 {169}{}{Merthogy...?}
-{170}{}{Ezt hívják kapitalizmusnak, barátom. Viszlát!}
+{170}{}{Ezt hÃ­vjÃ¡k kapitalizmusnak, barÃ¡tom. ViszlÃ¡t!}
 {171}{}{Well, if the mine you give the chip to happens to be the Kokoweef Mine, then we're gonna get a
  lot of those NCR pukes nosing around. If you give the chip to Dan McGrew over at the Morningstar, then 
  we're going to see a lot more Jet in town, instead. Either way, someone wins an' someone loses.}
-{172}{}{Ha nem én teszem meg, akkor valaki más fogja. Beszéljünk valami másról!}
-{173}{}{Így m?ködik a világ, nem? Viszlát!}
-{174}{}{Egészen addig, amíg nem rólam van szó, haver. Amíg nem rólam van szó.}
-{175}{}{Hadd kérdezzek valami mást!}
-{176}{}{Csak benéztem. Viszlát!}
+{172}{}{Ha nem Ã©n teszem meg, akkor valaki mÃ¡s fogja. BeszÃ©ljÃ¼nk valami mÃ¡srÃ³l!}
+{173}{}{Ãgy m?kÃ¶dik a vilÃ¡g, nem? ViszlÃ¡t!}
+{174}{}{EgÃ©szen addig, amÃ­g nem rÃ³lam van szÃ³, haver. AmÃ­g nem rÃ³lam van szÃ³.}
+{175}{}{Hadd kÃ©rdezzek valami mÃ¡st!}
+{176}{}{Csak benÃ©ztem. ViszlÃ¡t!}

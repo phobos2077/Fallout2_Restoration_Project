@@ -1,1 +1,1 @@
-{100}{}{MenedÈkv·ros belv·ros·ban vagy.}
+{100}{}{Mened√©kv√°ros belv√°ros√°ban vagy.}

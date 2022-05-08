@@ -1,1 +1,1 @@
-{100}{}{A bejárat nem olyan rég omolhatott le. Egy jól elhelyezett robbanóanyag talán utat vághatna.}
+{100}{}{A bejÃ¡rat nem olyan rÃ©g omolhatott le. Egy jÃ³l elhelyezett robbanÃ³anyag talÃ¡n utat vÃ¡ghatna.}

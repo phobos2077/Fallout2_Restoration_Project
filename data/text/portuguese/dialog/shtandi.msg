@@ -56,7 +56,7 @@
 {155}{}{That all. Me go now.}
 {156}{}{What can you tell me about Vault 15?}
 {157}{}{Why haven't you made a deal with the squatters?}
-{158}{}{Você sabe onde é o Vault 13?}
+{158}{}{VocÃª sabe onde Ã© o Vault 13?}
 {159}{}{I'm looking for a GECK. Would you happen to have one?}
 {160}{}{What can you tell me about New Reno?}
 {161}{}{What can you tell me about Roger Westin?}
@@ -102,7 +102,7 @@
 {201}{tand18}{New Reno? A damn bucket of brahmin spit. Got every vice there is. We've gotta be tough with them if we're going to unify this land. Congress has got to understand that.}
 {202}{}{What know about Bishop?}
 {203}{}{Tell about congress?}
-{204}{}{Eu peço mais.}
+{204}{}{Eu peÃ§o mais.}
 {205}{}{What about the Bishops?}
 {206}{}{Tell me about the congress.}
 {207}{}{I see. Can you tell me some more?}
@@ -120,14 +120,14 @@
 {219}{}{Eu vejo.}
 {220}{}{Who is this Westin person?}
 {221}{tand22}{Congressman Westin? One of the biggest brahmin ranchers around. His spreads on the west side of town. Just don't bring up New Reno if you talk to him - it gets him going. If you're looking for a steady job... but you aren't that type, are you?}
-{222}{}{Não, obrigado.}
+{222}{}{NÃ£o, obrigado.}
 {223}{tand23}{Stubborn as a mule... but a good man. Why?}
 {224}{}{Me curious about work.}
 {225}{}{Me curious about work.}
 {226}{}{I'm curious about some work.}
 {227}{}{I'm curious about some work.}
 {228}{tand24}{Seems to me that you've got enough on your plate already.}
-{229}{}{Ok. Nada não.}
+{229}{}{Ok. Nada nÃ£o.}
 {230}{}{Yeah, you're right.}
 {231}{tand25}{Ever since Westin died, Carlson's been holed up in his office. Probably won't see you, but you can talk to his boys.}
 {232}{}{Ok.}
@@ -152,7 +152,7 @@
 {251}{}{Tell me about the NCR please.}
 {252}{}{Deixe-me perguntar-lhe algo mais.}
 {253}{tand32}{Lord, I could talk about that forever and I just don't have the time. Here's a holodisk on the NCR. We make 'em to spread the good word.}
-{254}{}{Hã, valeu.}
+{254}{}{HÃ£, valeu.}
 {255}{tand33}{So, they finally got reasonable. I can bull the Congress into sending supplies and techs. You sure we can get into the vault?}
 {256}{}{Me sure. Lowlifes there but me kick ass.}
 {257}{}{Quite sure. There were some lowlifes there but I kicked their ass.}
@@ -171,16 +171,16 @@
 {270}{}{Eu levo, mas preciso fazer perguntas.}
 {271}{}{Me not interested.}
 {272}{}{I'll take it but I need some information.}
-{273}{}{Não interessado.}
+{273}{}{NÃ£o interessado.}
 {274}{tand37a}{I'm Tandi, president of the NCR. So you whupped my boy, Hoss, over at Dusty's? Maybe you're the right man at the right time. Interested in some work?}
 {275}{tand37b}{I'm Tandi, president of the NCR. So you're the girl who whupped my boy Hoss? I should've had such a daughter! I've got a job you might want. Interested?}
 {276}{}{Maybe. What job?}
 {277}{}{I might be, what's the job?}
 {278}{tand38}{I'm Tandi, president of the New California Republic. Welcome to Shady Sands. I hear some pretty impressive things about you. No point in dancing. Got some business I want to discuss.}
-{279}{}{Hã, certo.}
+{279}{}{HÃ£, certo.}
 {280}{}{Fine, what can I do for you?}
 {281}{tand39}{You're back. So, you interested in a job or not?}
-{282}{}{Não.}
+{282}{}{NÃ£o.}
 {283}{}{Ok.}
 {284}{tand40}{Back, are you stranger? So's the job done? Do we have access to the vault?}
 {285}{}{Me working on it. Bye.}

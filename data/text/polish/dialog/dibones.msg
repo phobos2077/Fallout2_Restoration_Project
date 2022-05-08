@@ -1,1 +1,1 @@
-{100}{}{Widzisz jakieú koúci.}
+{100}{}{Widzisz jakie≈õ ko≈õci.}

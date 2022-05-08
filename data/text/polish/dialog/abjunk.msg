@@ -1,4 +1,4 @@
-{100}{}{Widzisz przedwojenne gadøety.}
-{101}{}{Roz≥oøone na stole, jak úwiÍte relikwie, imponujπca wystawa przedwojennych gadøetÛw i innych ustrojstw.
- Szkoda, øe nie sprawnych.}
-{102}{}{Nie ma tu niczego uøytecznego.}
+{100}{}{Widzisz przedwojenne gad≈ºety.}
+{101}{}{Roz≈Ço≈ºone na stole, jak ≈õwiƒôte relikwie, imponujƒÖca wystawa przedwojennych gad≈ºet√≥w i innych ustrojstw.
+ Szkoda, ≈ºe nie sprawnych.}
+{102}{}{Nie ma tu niczego u≈ºytecznego.}

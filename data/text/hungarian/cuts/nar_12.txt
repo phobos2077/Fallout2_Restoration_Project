@@ -1,2 +1,2 @@
-1:Necropolis ghoul-jai els? kézb?l tapasztalhatják meg, mit is jelent az igazi kiszáradás, ahogy városuk a sivatag homokjába roskad, és elfogy az utolsó csepp ivóvíz is.
-2:A víztisztító chip nélkül nem fognak életben maradni.
+1:Necropolis ghoul-jai els? kÃ©zb?l tapasztalhatjÃ¡k meg, mit is jelent az igazi kiszÃ¡radÃ¡s, ahogy vÃ¡rosuk a sivatag homokjÃ¡ba roskad, Ã©s elfogy az utolsÃ³ csepp ivÃ³vÃ­z is.
+2:A vÃ­ztisztÃ­tÃ³ chip nÃ©lkÃ¼l nem fognak Ã©letben maradni.

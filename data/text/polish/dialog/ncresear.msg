@@ -1,113 +1,113 @@
-{100}{}{Widzisz szefow¹ dzia³u badañ, Marjorie Reed.}
-{150}{}{Widzisz zmêczon¹ kobietê. Jej g³owê ogolono na ³yso. Ma na sobie bia³y kitel.}
-{151}{}{Widzisz Marjorie Reed. Przegl¹da w³aœnie wyniki badañ mrucz¹c coœ do siebie pod nosem.}
+{100}{}{Widzisz szefowÄ… dziaÅ‚u badaÅ„, Marjorie Reed.}
+{150}{}{Widzisz zmÄ™czonÄ… kobietÄ™. Jej gÅ‚owÄ™ ogolono na Å‚yso. Ma na sobie biaÅ‚y kitel.}
+{151}{}{Widzisz Marjorie Reed. PrzeglÄ…da wÅ‚aÅ›nie wyniki badaÅ„ mruczÄ…c coÅ› do siebie pod nosem.}
 {200}{}{Witaj, Myron.}
-{201}{}{Myron, mogê ciê na chwilê prosiæ?}
-{202}{}{Myron, wiesz mo¿e, kiedy dostaniemy nowy transport niewolników?}
-{203}{}{Myron, wyniki ostatnich badañ s¹ bardzo obiecuj¹ce.}
-{204}{}{Myron, masz woln¹ chwilê?}
-{215}{}{Gdzie u diab³a jest Myron...}
-{216}{}{Dajcie tu na górê Myrona. Musi to zobaczyæ.}
-{217}{}{Szkoda, ¿e ci niewolnicy nie chc¹ siê zamkn¹æ...}
+{201}{}{Myron, mogÄ™ ciÄ™ na chwilÄ™ prosiÄ‡?}
+{202}{}{Myron, wiesz moÅ¼e, kiedy dostaniemy nowy transport niewolnikÃ³w?}
+{203}{}{Myron, wyniki ostatnich badaÅ„ sÄ… bardzo obiecujÄ…ce.}
+{204}{}{Myron, masz wolnÄ… chwilÄ™?}
+{215}{}{Gdzie u diabÅ‚a jest Myron...}
+{216}{}{Dajcie tu na gÃ³rÄ™ Myrona. Musi to zobaczyÄ‡.}
+{217}{}{Szkoda, Å¼e ci niewolnicy nie chcÄ… siÄ™ zamknÄ…Ä‡...}
 {218}{}{Gdzie jest ta strzykawka...}
-{219}{}{Czy ktoœ widzia³ Numer 31? By³ tutaj dos³ownie przed chwil¹.}
-{220}{}{Ka¿cie niewolnikom przynieœæ wiêcej Jetu Beta.}
-{221}{}{Wyniki testów Jetu Beta s¹ bardzo obiecuj¹ce, ale...}
-{222}{}{"Haj" trwa od 15 minut do godziny... przyjmijmy odstêp jednej dawki na godzinê... hmmmmnnn.}
-{223}{}{Nie. Numer 12 wci¹¿ ma krwawienia z nosa...}
-{224}{}{To ju¿ pi¹ty atak u Numeru 12... zwiêkszcie dawkê, zobaczymy co siê stanie...}
-{225}{}{A wiêc jakiego RODZAJU to by³y halucynacje?}
-{226}{}{SprawdŸ têtno tego tutaj. Jeœli siê jeszcze mieœci w granicach tolerancji, zwiêksz dawkê.}
-{227}{}{Dlaczego niewolnica z grupy kontrolnej zabi³a sama siebie? Nawet nie robiliœmy na niej testów!}
-{228}{}{Cholerni stra¿nicy s¹ zupe³nie do niczego...}
-{235}{}{Dzieñ dobry, panie Myron. Testy przebiegaj¹ zgodnie z planem.}
-{236}{}{Panie Myron, ten nowy rodzaj Jetu jest niesamowicie uzale¿niaj¹cy. Nasi niewolnicy gotowi s¹ dla niego zabiæ.}
-{237}{}{Ucieszy siê pan zapewne s³ysz¹c, ¿e nasi niewolnicy gotowi s¹ zrezygnowaæ z jedzenia, ¿eby tylko dostawaæ kolejne dzia³ki Jetu Beta.}
-{238}{}{Myronie, kim s¹ ci ludzie? To nowe obiekty?}
+{219}{}{Czy ktoÅ› widziaÅ‚ Numer 31? ByÅ‚ tutaj dosÅ‚ownie przed chwilÄ….}
+{220}{}{KaÅ¼cie niewolnikom przynieÅ›Ä‡ wiÄ™cej Jetu Beta.}
+{221}{}{Wyniki testÃ³w Jetu Beta sÄ… bardzo obiecujÄ…ce, ale...}
+{222}{}{"Haj" trwa od 15 minut do godziny... przyjmijmy odstÄ™p jednej dawki na godzinÄ™... hmmmmnnn.}
+{223}{}{Nie. Numer 12 wciÄ…Å¼ ma krwawienia z nosa...}
+{224}{}{To juÅ¼ piÄ…ty atak u Numeru 12... zwiÄ™kszcie dawkÄ™, zobaczymy co siÄ™ stanie...}
+{225}{}{A wiÄ™c jakiego RODZAJU to byÅ‚y halucynacje?}
+{226}{}{SprawdÅº tÄ™tno tego tutaj. JeÅ›li siÄ™ jeszcze mieÅ›ci w granicach tolerancji, zwiÄ™ksz dawkÄ™.}
+{227}{}{Dlaczego niewolnica z grupy kontrolnej zabiÅ‚a sama siebie? Nawet nie robiliÅ›my na niej testÃ³w!}
+{228}{}{Cholerni straÅ¼nicy sÄ… zupeÅ‚nie do niczego...}
+{235}{}{DzieÅ„ dobry, panie Myron. Testy przebiegajÄ… zgodnie z planem.}
+{236}{}{Panie Myron, ten nowy rodzaj Jetu jest niesamowicie uzaleÅ¼niajÄ…cy. Nasi niewolnicy gotowi sÄ… dla niego zabiÄ‡.}
+{237}{}{Ucieszy siÄ™ pan zapewne sÅ‚yszÄ…c, Å¼e nasi niewolnicy gotowi sÄ… zrezygnowaÄ‡ z jedzenia, Å¼eby tylko dostawaÄ‡ kolejne dziaÅ‚ki Jetu Beta.}
+{238}{}{Myronie, kim sÄ… ci ludzie? To nowe obiekty?}
 {239}{}{Trzecia grupa ma zdecydowanie najlepsze wyniki ze wszystkich.}
-{240}{}{Myron, jeœli znalaz³by pan chwilê czasu... Moim zdaniem w sk³ad kolejnej grupy powinno wejœæ co najmniej troje dzieci.}
-{241}{}{Numer 46 mia³ atak serca. Postanowiliœmy zmniejszyæ dozowanie do szeœciu dzia³ek dziennie.}
-{242}{}{Panie Myron... pilnie potrzebujemy kolejnej dostawy strzykawek z Kryptopolis. Nie mo¿emy u¿ywaæ tych w nieskoñczonoœæ.}
-{243}{}{Czy s¹ jakieœ wieœci o tym, kiedy dostarcz¹ nam nowych niewolników?}
-{244}{}{Musieliœmy przenieœæ trzy jednostki z grupy nadzorczej do laboratoryjnej z powodu tych ataków.}
-{245}{}{Mam z³e wiadomoœci. Musieliœmy zastrzeliæ jednego niewolnika podczas próby ucieczki. Co za marnotrawstwo!}
-{246}{}{Ten pana nowy halucynogen jest obiecuj¹cy, choæ nie uzale¿nia tak silnie jak Jet...}
-{250}{}{(£ysa kobieta nawet nie podnosi wzroku, ¿eby na ciebie spojrzeæ) Tak?}
+{240}{}{Myron, jeÅ›li znalazÅ‚by pan chwilÄ™ czasu... Moim zdaniem w skÅ‚ad kolejnej grupy powinno wejÅ›Ä‡ co najmniej troje dzieci.}
+{241}{}{Numer 46 miaÅ‚ atak serca. PostanowiliÅ›my zmniejszyÄ‡ dozowanie do szeÅ›ciu dziaÅ‚ek dziennie.}
+{242}{}{Panie Myron... pilnie potrzebujemy kolejnej dostawy strzykawek z Kryptopolis. Nie moÅ¼emy uÅ¼ywaÄ‡ tych w nieskoÅ„czonoÅ›Ä‡.}
+{243}{}{Czy sÄ… jakieÅ› wieÅ›ci o tym, kiedy dostarczÄ… nam nowych niewolnikÃ³w?}
+{244}{}{MusieliÅ›my przenieÅ›Ä‡ trzy jednostki z grupy nadzorczej do laboratoryjnej z powodu tych atakÃ³w.}
+{245}{}{Mam zÅ‚e wiadomoÅ›ci. MusieliÅ›my zastrzeliÄ‡ jednego niewolnika podczas prÃ³by ucieczki. Co za marnotrawstwo!}
+{246}{}{Ten pana nowy halucynogen jest obiecujÄ…cy, choÄ‡ nie uzaleÅ¼nia tak silnie jak Jet...}
+{250}{}{(Åysa kobieta nawet nie podnosi wzroku, Å¼eby na ciebie spojrzeÄ‡) Tak?}
 {251}{}{Nie!}
 {252}{}{Tak!}
-{253}{}{He he. Ty ³ysa. Wygl¹da jak ch³op.}
+{253}{}{He he. Ty Å‚ysa. WyglÄ…da jak chÅ‚op.}
 {254}{}{Delen?}
-{255}{}{OdejdŸ}
-{256}{}{Kim jesteœ?}
-{257}{}{Przepraszam, szukam innej ³ysej kobiety studiuj¹cej wynik badañ. Lepiej ju¿ sobie pójdê.}
-{265}{}{(Kobieta przygl¹da ci siê ze zdziwieniem) Jesteœ obiektem z grupy nadzorczej? A zreszt¹, czy to wa¿ne... Stra¿! Zamkn¹æ ten obiekt!}
+{255}{}{OdejdÅº}
+{256}{}{Kim jesteÅ›?}
+{257}{}{Przepraszam, szukam innej Å‚ysej kobiety studiujÄ…cej wynik badaÅ„. Lepiej juÅ¼ sobie pÃ³jdÄ™.}
+{265}{}{(Kobieta przyglÄ…da ci siÄ™ ze zdziwieniem) JesteÅ› obiektem z grupy nadzorczej? A zresztÄ…, czy to waÅ¼ne... StraÅ¼! ZamknÄ…Ä‡ ten obiekt!}
 {266}{}{Gdzie obiekt? Moja nie widzi.}
-{275}{}{S³uchaj, jestem bardzo zajêta... [Podnosi wzrok, obrzuca ciê zdziwionym spojrzeniem i zaczyna krzyczeæ.] KIM jesteœ? Kto ciê tu wpuœci³?}
-{276}{}{S³uchaj, jestem bardzo zajêta... [Podnosi wzrok, obrzuca ciê zdziwionym spojrzeniem i zaczyna krzyczeæ.] Znowu ty? Czego chcesz tym razem?}
-{277}{}{Drzwi by³y otwarte jak wrota stodo³y. He he... ³apiesz? Wrota stodo³y!}
+{275}{}{SÅ‚uchaj, jestem bardzo zajÄ™ta... [Podnosi wzrok, obrzuca ciÄ™ zdziwionym spojrzeniem i zaczyna krzyczeÄ‡.] KIM jesteÅ›? Kto ciÄ™ tu wpuÅ›ciÅ‚?}
+{276}{}{SÅ‚uchaj, jestem bardzo zajÄ™ta... [Podnosi wzrok, obrzuca ciÄ™ zdziwionym spojrzeniem i zaczyna krzyczeÄ‡.] Znowu ty? Czego chcesz tym razem?}
+{277}{}{Drzwi byÅ‚y otwarte jak wrota stodoÅ‚y. He he... Å‚apiesz? Wrota stodoÅ‚y!}
 {278}{}{Przydzielono mnie do pracy tutaj.}
-{279}{}{Szukam Myrona. Jest gdzieœ tutaj?}
-{280}{}{Widzê, ¿e przegl¹dasz wyniki badañ? Mogê rzuciæ okiem?}
-{282}{}{Niewa¿ne. Przepraszam za zawracanie g³owy.}
-{295}{}{Ten obszar jest zamkniêty dla... goœci. WyjdŸ st¹d, zanim wezwê stra¿.}
-{296}{}{Sekundê, chcê ciê najpierw o coœ zapytaæ...}
-{298}{}{Widzê, ¿e przegl¹dasz wyniki badañ? Mogê rzuciæ okiem? Chemia to takie moje ma³e hobby.}
-{300}{}{W porz¹dku. Nie bêdê ci dalej przeszkadzaæ.}
-{310}{}{Stra¿! Stra¿, wyprowadŸcie intruza!}
-{315}{}{NASTÊPNY stra¿nik. Ha! Jakby by³ z was jakiœ po¿ytek... S³uchaj, ktokolwiek ciê tu przys³a³ powinien udzieliæ ci odpowiednich instrukcji. W razie w¹tpliwoœci porozmawiaj z innymi stra¿nikami. A teraz przestañ zawracaæ mi g³owê.}
-{316}{}{Nie jestem stra¿nikiem, tylko naukowcem. Czym mam siê zaj¹æ?}
-{317}{}{Przepraszam, ale odk¹d mój wzrok pad³ na ciebie marzê wprost o tym, ¿ebyœ to TY mnie oprowadzi³a. Mo¿e póŸniej umówimy siê na kolacjê...?}
-{318}{}{Dziêki. Jesteœ bardzo mi³a.}
-{325}{}{Jesteœ NAUKOWCEM...? Hmmmm. Nigdy ciê tu nie widzia³am. Co wiesz o badaniach farmaceutycznych?}
-{326}{}{Wystarczaj¹co du¿o. Chcesz zobaczyæ, co potrafiê?}
-{327}{}{Wiem ca³kiem sporo o sposobach uzyskiwania podstawowych zwi¹zków neurochemicznych. Myœlê, ¿e przyda ci siê ktoœ taki jak ja.}
-{328}{}{Muszê ju¿ iœæ.}
-{335}{}{Nie! Chcê zobaczyæ jak st¹d wychodzisz! Zmykaj, zanim wezwê stra¿e.}
+{279}{}{Szukam Myrona. Jest gdzieÅ› tutaj?}
+{280}{}{WidzÄ™, Å¼e przeglÄ…dasz wyniki badaÅ„? MogÄ™ rzuciÄ‡ okiem?}
+{282}{}{NiewaÅ¼ne. Przepraszam za zawracanie gÅ‚owy.}
+{295}{}{Ten obszar jest zamkniÄ™ty dla... goÅ›ci. WyjdÅº stÄ…d, zanim wezwÄ™ straÅ¼.}
+{296}{}{SekundÄ™, chcÄ™ ciÄ™ najpierw o coÅ› zapytaÄ‡...}
+{298}{}{WidzÄ™, Å¼e przeglÄ…dasz wyniki badaÅ„? MogÄ™ rzuciÄ‡ okiem? Chemia to takie moje maÅ‚e hobby.}
+{300}{}{W porzÄ…dku. Nie bÄ™dÄ™ ci dalej przeszkadzaÄ‡.}
+{310}{}{StraÅ¼! StraÅ¼, wyprowadÅºcie intruza!}
+{315}{}{NASTÄ˜PNY straÅ¼nik. Ha! Jakby byÅ‚ z was jakiÅ› poÅ¼ytek... SÅ‚uchaj, ktokolwiek ciÄ™ tu przysÅ‚aÅ‚ powinien udzieliÄ‡ ci odpowiednich instrukcji. W razie wÄ…tpliwoÅ›ci porozmawiaj z innymi straÅ¼nikami. A teraz przestaÅ„ zawracaÄ‡ mi gÅ‚owÄ™.}
+{316}{}{Nie jestem straÅ¼nikiem, tylko naukowcem. Czym mam siÄ™ zajÄ…Ä‡?}
+{317}{}{Przepraszam, ale odkÄ…d mÃ³j wzrok padÅ‚ na ciebie marzÄ™ wprost o tym, Å¼ebyÅ› to TY mnie oprowadziÅ‚a. MoÅ¼e pÃ³Åºniej umÃ³wimy siÄ™ na kolacjÄ™...?}
+{318}{}{DziÄ™ki. JesteÅ› bardzo miÅ‚a.}
+{325}{}{JesteÅ› NAUKOWCEM...? Hmmmm. Nigdy ciÄ™ tu nie widziaÅ‚am. Co wiesz o badaniach farmaceutycznych?}
+{326}{}{WystarczajÄ…co duÅ¼o. Chcesz zobaczyÄ‡, co potrafiÄ™?}
+{327}{}{Wiem caÅ‚kiem sporo o sposobach uzyskiwania podstawowych zwiÄ…zkÃ³w neurochemicznych. MyÅ›lÄ™, Å¼e przyda ci siÄ™ ktoÅ› taki jak ja.}
+{328}{}{MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{335}{}{Nie! ChcÄ™ zobaczyÄ‡ jak stÄ…d wychodzisz! Zmykaj, zanim wezwÄ™ straÅ¼e.}
 {336}{}{Dobrze.}
-{337}{}{Ju¿ idê... ::pod nosem::... ty ³ysa zdziro.}
-{345}{}{Hmmmm. W porz¹dku. Pozwól, ¿e przedstawiê ci pokrótce obszar naszych badañ: testujemy tu efekty dzia³ania metaamfetaminy zwanej Jet i pracujemy nad jej udoskonaleniem.}
-{346}{}{Rozumiem. I jak postêpuj¹ badania?}
-{347}{}{Rozumiem. Jeœli pozwolisz, chêtnie siê tutaj rozejrzê.}
-{355}{}{Nie najlepiej. Goni nas termin i musimy jak najszybciej udoskonaliæ proces produkcji Jetu.}
-{356}{}{Dlaczego? Jet i tak jest niezwykle silnie uzale¿niaj¹cym œrodkiem.}
-{357}{}{Sk¹d ten poœpiech?}
-{358}{}{Niewdziêczna robota. S³uchaj, muszê siê zaj¹æ pewn¹ piln¹ spraw¹, ale nied³ugo wrócê.}
-{365}{}{Nikt nam tego nie powiedzia³ wprost, ale zapewne chodzi o dystrybucjê Jetu w Redding. Jet jest *doœæ* skuteczny, ale mo¿na przy nim jeszcze wiele ulepszyæ. Zw³aszcza, ¿e 'góra' chce zwiêkszyæ liczbê uzale¿nionych w Redding.}
-{366}{}{O co chodzi z tym ca³ym Redding?}
-{367}{}{Có¿, w takim razie pozostaje mi ¿yczyæ ci powodzenia.}
-{375}{}{Jet jest *doœæ* skuteczny, ale mo¿na przy nim jeszcze wiele ulepszyæ. 'Góra' chce zwiêkszyæ iloœæ towaru trafiaj¹cego do Redding. Odsetek uzale¿nionych ma siê zbli¿yæ do 100%. Dlatego musimy pracowaæ dniem i noc¹.}
-{377}{}{Dziêki za informacje. Wrócê innym razem.}
-{385}{}{Uzale¿nij górników z Redding od Jetu, a ktokolwiek bêdzie kontrolowa³ dostawy narkotyku, bêdzie kontrolowa³ ca³e miasto. Tak zyskuje siê w³adzê.}
+{337}{}{JuÅ¼ idÄ™... ::pod nosem::... ty Å‚ysa zdziro.}
+{345}{}{Hmmmm. W porzÄ…dku. PozwÃ³l, Å¼e przedstawiÄ™ ci pokrÃ³tce obszar naszych badaÅ„: testujemy tu efekty dziaÅ‚ania metaamfetaminy zwanej Jet i pracujemy nad jej udoskonaleniem.}
+{346}{}{Rozumiem. I jak postÄ™pujÄ… badania?}
+{347}{}{Rozumiem. JeÅ›li pozwolisz, chÄ™tnie siÄ™ tutaj rozejrzÄ™.}
+{355}{}{Nie najlepiej. Goni nas termin i musimy jak najszybciej udoskonaliÄ‡ proces produkcji Jetu.}
+{356}{}{Dlaczego? Jet i tak jest niezwykle silnie uzaleÅ¼niajÄ…cym Å›rodkiem.}
+{357}{}{SkÄ…d ten poÅ›piech?}
+{358}{}{NiewdziÄ™czna robota. SÅ‚uchaj, muszÄ™ siÄ™ zajÄ…Ä‡ pewnÄ… pilnÄ… sprawÄ…, ale niedÅ‚ugo wrÃ³cÄ™.}
+{365}{}{Nikt nam tego nie powiedziaÅ‚ wprost, ale zapewne chodzi o dystrybucjÄ™ Jetu w Redding. Jet jest *doÅ›Ä‡* skuteczny, ale moÅ¼na przy nim jeszcze wiele ulepszyÄ‡. ZwÅ‚aszcza, Å¼e 'gÃ³ra' chce zwiÄ™kszyÄ‡ liczbÄ™ uzaleÅ¼nionych w Redding.}
+{366}{}{O co chodzi z tym caÅ‚ym Redding?}
+{367}{}{CÃ³Å¼, w takim razie pozostaje mi Å¼yczyÄ‡ ci powodzenia.}
+{375}{}{Jet jest *doÅ›Ä‡* skuteczny, ale moÅ¼na przy nim jeszcze wiele ulepszyÄ‡. 'GÃ³ra' chce zwiÄ™kszyÄ‡ iloÅ›Ä‡ towaru trafiajÄ…cego do Redding. Odsetek uzaleÅ¼nionych ma siÄ™ zbliÅ¼yÄ‡ do 100%. Dlatego musimy pracowaÄ‡ dniem i nocÄ….}
+{377}{}{DziÄ™ki za informacje. WrÃ³cÄ™ innym razem.}
+{385}{}{UzaleÅ¼nij gÃ³rnikÃ³w z Redding od Jetu, a ktokolwiek bÄ™dzie kontrolowaÅ‚ dostawy narkotyku, bÄ™dzie kontrolowaÅ‚ caÅ‚e miasto. Tak zyskuje siÄ™ wÅ‚adzÄ™.}
 {386}{}{A kto kontroluje prochy?}
-{395}{}{Kto kontroluje prochy? Rodzina Mordino. Przecie¿ to na ich ¿yczenie Myron wykona³ wszystkie badania przygotowawcze, w wyniku których powsta³ Jet. My zajmujemy siê tylko szczegó³ami.}
-{396}{}{To znaczy, ¿e Myron jest twoim szefem?}
-{405}{}{Mo¿na tak powiedzieæ. Ch³opak jest bystry, trudno mu tego odmówiæ, ale nie interesuje go, co siê tutaj dzieje. Zwykle siedzi w tej swojej podziemnej norze... nie przyjmuje ¿adnych goœci, tylko od czasu do czasu jakieœ prostytutki. Typowy manager projektu.}
-{406}{}{Mogê siê z nim zobaczyæ?}
-{407}{}{Tak, ale ci z marketingu s¹ jeszcze gorsi. Dziêki za informacje. Zajrzê do ciebie póŸniej.}
-{415}{}{Czemu nie... wystawiê ci tymczasow¹ przepustkê, poka¿ j¹ stra¿nikom. Tylko nie siedŸ tam zbyt d³ugo, Myron nie jest zbyt towarzyski.}
-{416}{}{Czemu nie... wystawiê ci tymczasow¹ przepustkê, poka¿ j¹ stra¿nikom. Tylko nie siedŸ tam zbyt d³ugo, Myron nie jest zbyt towarzyski... chodŸ w twoim przypadku mo¿e zrobiæ wyj¹tek.}
-{417}{}{Dziêki za przepustkê. Zobaczymy siê póŸniej.}
-{425}{}{S³uchaj, jestem bardzo zajêta, wiêc jeœli pozwolisz...}
-{426}{}{S³uchaj, ja... jestem... bardzo zajêta. Przykro mi...}
+{395}{}{Kto kontroluje prochy? Rodzina Mordino. PrzecieÅ¼ to na ich Å¼yczenie Myron wykonaÅ‚ wszystkie badania przygotowawcze, w wyniku ktÃ³rych powstaÅ‚ Jet. My zajmujemy siÄ™ tylko szczegÃ³Å‚ami.}
+{396}{}{To znaczy, Å¼e Myron jest twoim szefem?}
+{405}{}{MoÅ¼na tak powiedzieÄ‡. ChÅ‚opak jest bystry, trudno mu tego odmÃ³wiÄ‡, ale nie interesuje go, co siÄ™ tutaj dzieje. Zwykle siedzi w tej swojej podziemnej norze... nie przyjmuje Å¼adnych goÅ›ci, tylko od czasu do czasu jakieÅ› prostytutki. Typowy manager projektu.}
+{406}{}{MogÄ™ siÄ™ z nim zobaczyÄ‡?}
+{407}{}{Tak, ale ci z marketingu sÄ… jeszcze gorsi. DziÄ™ki za informacje. ZajrzÄ™ do ciebie pÃ³Åºniej.}
+{415}{}{Czemu nie... wystawiÄ™ ci tymczasowÄ… przepustkÄ™, pokaÅ¼ jÄ… straÅ¼nikom. Tylko nie siedÅº tam zbyt dÅ‚ugo, Myron nie jest zbyt towarzyski.}
+{416}{}{Czemu nie... wystawiÄ™ ci tymczasowÄ… przepustkÄ™, pokaÅ¼ jÄ… straÅ¼nikom. Tylko nie siedÅº tam zbyt dÅ‚ugo, Myron nie jest zbyt towarzyski... chodÅº w twoim przypadku moÅ¼e zrobiÄ‡ wyjÄ…tek.}
+{417}{}{DziÄ™ki za przepustkÄ™. Zobaczymy siÄ™ pÃ³Åºniej.}
+{425}{}{SÅ‚uchaj, jestem bardzo zajÄ™ta, wiÄ™c jeÅ›li pozwolisz...}
+{426}{}{SÅ‚uchaj, ja... jestem... bardzo zajÄ™ta. Przykro mi...}
 {427}{}{Trudno...}
-{428}{}{Có¿, trudno.}
-{429}{}{Mimo to, dziêki... ::pod nosem:: ...ty sztywna, jajog³owa zdziro.}
-{435}{}{To... hmm... Jestem zaszczycona, ale i bardzo zajêta... wiêc... hmm...}
-{436}{}{Có¿, mo¿e w takim razie odbiorê ciê z pracy i pójdziemy na kolacjê? ¯adnych zobowi¹zañ. Wygl¹dasz na kogoœ, komu przyda siê przerwa w pracy... odrobina relaksu.}
-{437}{}{Có¿, warto by³o spróbowaæ. Do zobaczenia.}
-{445}{}{Có¿, nie jestem a¿ tak zajêta... ha... prawdê mówi¹c, to jestem bardzo zajêta. To znaczy: zwykle wykonujê tylko rutynowe testy chemiczne. Tylko od czasu do czasu jakiœ niewolnik zeœwiruje...}
-{446}{}{Czy celowe podawanie eksperymentalnej metaamfetaminy nie k³óci siê z twoim sumieniem?}
-{447}{}{Ojej. To brzmi niebezpiecznie. Nie boisz siê, ¿e coœ ci siê stanie? Czy œmiertelnoœæ wœród pacjentów jest wysoka?}
-{448}{}{Testy chemiczne? Naprawdê? I jak posuwaj¹ siê badania?}
-{449}{}{Brzmi fascynuj¹co, ale muszê ju¿ iœæ.... wrócê... innym razem.}
-{455}{}{To mia³ byæ jakiœ dowcip?}
-{456}{}{Tylko pytam. A co by by³o, gdyby schwytali ciê ³owcy niewolników i sprzedali tutaj, gdzie napompowano by ciê jakimiœ prochami?}
-{457}{}{Tak, oczywiœcie. Muszê ju¿ iœæ.}
-{465}{}{Ja jestem po TEJ stronie krat, oni po TAMTEJ. Skoro ju¿ rozwa¿amy sytuacjê hipotetyczne, chcesz siê dowiedzieæ, jak to jest byæ jednym z nich? Znajdzie siê jeszcze miejsce dla dodatkowego niewolnika.}
+{428}{}{CÃ³Å¼, trudno.}
+{429}{}{Mimo to, dziÄ™ki... ::pod nosem:: ...ty sztywna, jajogÅ‚owa zdziro.}
+{435}{}{To... hmm... Jestem zaszczycona, ale i bardzo zajÄ™ta... wiÄ™c... hmm...}
+{436}{}{CÃ³Å¼, moÅ¼e w takim razie odbiorÄ™ ciÄ™ z pracy i pÃ³jdziemy na kolacjÄ™? Å»adnych zobowiÄ…zaÅ„. WyglÄ…dasz na kogoÅ›, komu przyda siÄ™ przerwa w pracy... odrobina relaksu.}
+{437}{}{CÃ³Å¼, warto byÅ‚o sprÃ³bowaÄ‡. Do zobaczenia.}
+{445}{}{CÃ³Å¼, nie jestem aÅ¼ tak zajÄ™ta... ha... prawdÄ™ mÃ³wiÄ…c, to jestem bardzo zajÄ™ta. To znaczy: zwykle wykonujÄ™ tylko rutynowe testy chemiczne. Tylko od czasu do czasu jakiÅ› niewolnik zeÅ›wiruje...}
+{446}{}{Czy celowe podawanie eksperymentalnej metaamfetaminy nie kÅ‚Ã³ci siÄ™ z twoim sumieniem?}
+{447}{}{Ojej. To brzmi niebezpiecznie. Nie boisz siÄ™, Å¼e coÅ› ci siÄ™ stanie? Czy Å›miertelnoÅ›Ä‡ wÅ›rÃ³d pacjentÃ³w jest wysoka?}
+{448}{}{Testy chemiczne? NaprawdÄ™? I jak posuwajÄ… siÄ™ badania?}
+{449}{}{Brzmi fascynujÄ…co, ale muszÄ™ juÅ¼ iÅ›Ä‡.... wrÃ³cÄ™... innym razem.}
+{455}{}{To miaÅ‚ byÄ‡ jakiÅ› dowcip?}
+{456}{}{Tylko pytam. A co by byÅ‚o, gdyby schwytali ciÄ™ Å‚owcy niewolnikÃ³w i sprzedali tutaj, gdzie napompowano by ciÄ™ jakimiÅ› prochami?}
+{457}{}{Tak, oczywiÅ›cie. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{465}{}{Ja jestem po TEJ stronie krat, oni po TAMTEJ. Skoro juÅ¼ rozwaÅ¼amy sytuacjÄ™ hipotetyczne, chcesz siÄ™ dowiedzieÄ‡, jak to jest byÄ‡ jednym z nich? Znajdzie siÄ™ jeszcze miejsce dla dodatkowego niewolnika.}
 {466}{}{Zaraz, zaraz...}
-{467}{}{Nie, dziêki. Do zobaczenia.}
-{475}{}{Œmiertelnoœæ? Ca³kiem spora. G³ównie przypadkowe przedawkowania - b³¹d laborantów - lub samookaleczenia. Niektórzy niewolnicy sami b³agaj¹ nas o wiêksz¹ dawkê, w rezultacie której gin¹.}
-{476}{}{A poza tym, jak przebiegaj¹ badania?}
-{477}{}{Rozumiem. Wielkie dziêki za informacje.}
-{485}{}{Spróbuj na dole, w laboratorium. To te pilnie strze¿one drzwi. Jak go spotkasz, powiedz mu, ¿eby tu do nas zajrza³... jeœli nie jest ZBYT zajêty.}
-{1000}{}{Marjorie da³a ci tymczasow¹ przepustkê.}
+{467}{}{Nie, dziÄ™ki. Do zobaczenia.}
+{475}{}{ÅšmiertelnoÅ›Ä‡? CaÅ‚kiem spora. GÅ‚Ã³wnie przypadkowe przedawkowania - bÅ‚Ä…d laborantÃ³w - lub samookaleczenia. NiektÃ³rzy niewolnicy sami bÅ‚agajÄ… nas o wiÄ™kszÄ… dawkÄ™, w rezultacie ktÃ³rej ginÄ….}
+{476}{}{A poza tym, jak przebiegajÄ… badania?}
+{477}{}{Rozumiem. Wielkie dziÄ™ki za informacje.}
+{485}{}{SprÃ³buj na dole, w laboratorium. To te pilnie strzeÅ¼one drzwi. Jak go spotkasz, powiedz mu, Å¼eby tu do nas zajrzaÅ‚... jeÅ›li nie jest ZBYT zajÄ™ty.}
+{1000}{}{Marjorie daÅ‚a ci tymczasowÄ… przepustkÄ™.}

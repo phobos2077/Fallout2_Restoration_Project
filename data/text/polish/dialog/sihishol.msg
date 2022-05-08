@@ -1,3 +1,3 @@
-{100}{}{Widzisz sfatygowana taúmÍ.}
-{101}{}{Pip-Boy wyúwietla: Plik znaleziony w systemie. Kopiowanie przerwane.}
-{102}{}{Pip-Boy wyúwietla: Zgrywanie danych z dysku.}
+{100}{}{Widzisz sfatygowana ta≈õmƒô.}
+{101}{}{Pip-Boy wy≈õwietla: Plik znaleziony w systemie. Kopiowanie przerwane.}
+{102}{}{Pip-Boy wy≈õwietla: Zgrywanie danych z dysku.}

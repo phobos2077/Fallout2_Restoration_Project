@@ -1,56 +1,56 @@
 {100}{}{Ves a un Nuevo Khan.}
 {101}{}{Ves a Phil, un guardia Nuevo Khan.}
-{102}{}{Ves a un joven de aspecto duro que lleva una armadura de metal. Está fuertemente armado.}
-{103}{}{Debería matarte, pero tengo curiosidad por lo que tengas que decirme.}
-{104}{}{Busco espía. Venir por aquí.}
-{105}{}{Busco chica que desaparece. ¿Dónde encuentro?}
-{106}{}{Yo aquí por accidente. Marcho ahora.}
+{102}{}{Ves a un joven de aspecto duro que lleva una armadura de metal. EstÃ¡ fuertemente armado.}
+{103}{}{DeberÃ­a matarte, pero tengo curiosidad por lo que tengas que decirme.}
+{104}{}{Busco espÃ­a. Venir por aquÃ­.}
+{105}{}{Busco chica que desaparece. Â¿DÃ³nde encuentro?}
+{106}{}{Yo aquÃ­ por accidente. Marcho ahora.}
 {107}{}{Te jodan. Yo mato.}
-{108}{}{Uh, ¿mejor hablar?}
-{109}{}{Estoy buscando a un fisgón que vino por aquí.}
-{110}{}{Estoy buscando a una chica desaparecida. ¿La has visto?}
-{111}{}{Lo siento, me equivoqué de camino. Me voy.}
-{112}{}{Métete por el culo estas balas, gilipollas.}
-{113}{}{Creo que podríamos discutir esto como dos personas civilizadas.}
-{114}{}{Ah, ese debo ser yo. Ahora que me has encontrado, ¿qué vas a hacer?}
-{115}{}{¿Por qué espiar Rebecca?}
-{116}{}{Ahora yo sé que disparo a persona no equivocada. ¡Gracias!}
+{108}{}{Uh, Â¿mejor hablar?}
+{109}{}{Estoy buscando a un fisgÃ³n que vino por aquÃ­.}
+{110}{}{Estoy buscando a una chica desaparecida. Â¿La has visto?}
+{111}{}{Lo siento, me equivoquÃ© de camino. Me voy.}
+{112}{}{MÃ©tete por el culo estas balas, gilipollas.}
+{113}{}{Creo que podrÃ­amos discutir esto como dos personas civilizadas.}
+{114}{}{Ah, ese debo ser yo. Ahora que me has encontrado, Â¿quÃ© vas a hacer?}
+{115}{}{Â¿Por quÃ© espiar Rebecca?}
+{116}{}{Ahora yo sÃ© que disparo a persona no equivocada. Â¡Gracias!}
 {117}{}{Nada, marcho.}
-{118}{}{¿Por qué espías a Rebecca?}
-{119}{}{Sólo quería asegurarme de que mataba a la persona correcta. Gracias, ¡y que tengas un buen día!}
-{120}{}{Hmm. Nada, supongo que me marcharé.}
-{121}{}{¡No puedo creerme que pienses que puedes andar por aquí y que vamos a responder a tus preguntas! Oh, qué demonios, de todas formas vas a morir y hoy me siento generoso. Tenemos a su chica encerrada en el cuarto de atrás y hemos estado divirtiéndonos con ella. Esa puta, Rebecca, ha estado intentando encontrarla, así que hemos estado ojo avizor para asegurarnos de que no se acercaba demasiado.}
-{122}{}{Tú enfermo en cabeza. Yo ayudo arrancando cabeza.}
-{123}{}{¿Qué dices de divertir con ella?}
+{118}{}{Â¿Por quÃ© espÃ­as a Rebecca?}
+{119}{}{SÃ³lo querÃ­a asegurarme de que mataba a la persona correcta. Gracias, Â¡y que tengas un buen dÃ­a!}
+{120}{}{Hmm. Nada, supongo que me marcharÃ©.}
+{121}{}{Â¡No puedo creerme que pienses que puedes andar por aquÃ­ y que vamos a responder a tus preguntas! Oh, quÃ© demonios, de todas formas vas a morir y hoy me siento generoso. Tenemos a su chica encerrada en el cuarto de atrÃ¡s y hemos estado divirtiÃ©ndonos con ella. Esa puta, Rebecca, ha estado intentando encontrarla, asÃ­ que hemos estado ojo avizor para asegurarnos de que no se acercaba demasiado.}
+{122}{}{TÃº enfermo en cabeza. Yo ayudo arrancando cabeza.}
+{123}{}{Â¿QuÃ© dices de divertir con ella?}
 {124}{}{Oh, eso aclara todo. Marcho ahora yo.}
 {125}{}{Eres igual que un cachorrito enfermo. Creo que voy a sacrificarte.}
-{126}{}{Bien, divertíos que yo me marcho.}
-{127}{}{Entrega a la chica y todos saldremos de aquí con vida.}
-{128}{}{Piensa en ello mientras te mueres, estúpido.}
+{126}{}{Bien, divertÃ­os que yo me marcho.}
+{127}{}{Entrega a la chica y todos saldremos de aquÃ­ con vida.}
+{128}{}{Piensa en ello mientras te mueres, estÃºpido.}
 {129}{}{}
 {130}{}{}
-{131}{}{¿Por qué demonios tendría que hacer eso?}
-{132}{}{Es una buena acción para tu alma inmortal.}
-{133}{}{Porque soy lo peor que podría ocurrirte. Entrégala o te haré daño.}
-{134}{}{Porque si luchamos, uno de nosotros morirá. Si no quieres morir más de lo que lo quiero yo, entonces terminemos con esto pacíficamente, ¿de acuerdo?}
+{131}{}{Â¿Por quÃ© demonios tendrÃ­a que hacer eso?}
+{132}{}{Es una buena acciÃ³n para tu alma inmortal.}
+{133}{}{Porque soy lo peor que podrÃ­a ocurrirte. EntrÃ©gala o te harÃ© daÃ±o.}
+{134}{}{Porque si luchamos, uno de nosotros morirÃ¡. Si no quieres morir mÃ¡s de lo que lo quiero yo, entonces terminemos con esto pacÃ­ficamente, Â¿de acuerdo?}
 {135}{}{Que te jodan.}
 {136}{}{}
 {137}{}{}
-{138}{}{Eso ha sonado a un desafío. Lo acepto.}
+{138}{}{Eso ha sonado a un desafÃ­o. Lo acepto.}
 {139}{}{}
 {140}{}{}
-{141}{}{Hmm... Yo... sí. De acuerdo. Aquí está la llave de su celda, es la habitación trasera de la choza. Llévatela, lárgate, y no vuelvas. Si vuelvo a verte, veremos quién vive y quién muere.}
-{142}{}{Veamos quién sale vivo de esto.}
+{141}{}{Hmm... Yo... sÃ­. De acuerdo. AquÃ­ estÃ¡ la llave de su celda, es la habitaciÃ³n trasera de la choza. LlÃ©vatela, lÃ¡rgate, y no vuelvas. Si vuelvo a verte, veremos quiÃ©n vive y quiÃ©n muere.}
+{142}{}{Veamos quiÃ©n sale vivo de esto.}
 {143}{}{Gracias, has hecho lo correcto.}
-{144}{}{La única forma en la que saldrás de aquí es con los pies por delante, en un caja de pino.}
+{144}{}{La Ãºnica forma en la que saldrÃ¡s de aquÃ­ es con los pies por delante, en un caja de pino.}
 {145}{}{}
 {146}{}{}
-{147}{}{Oh, quieres decir la puerta de atrás que he estado forzando. No, no la he visto.}
-{148}{}{Tú enfermo en cabeza. Yo ayudo arrancando cabeza.}
-{149}{}{¿Qué dices de divertir con ella?}
+{147}{}{Oh, quieres decir la puerta de atrÃ¡s que he estado forzando. No, no la he visto.}
+{148}{}{TÃº enfermo en cabeza. Yo ayudo arrancando cabeza.}
+{149}{}{Â¿QuÃ© dices de divertir con ella?}
 {150}{}{Oh. Marcho ahora.}
 {151}{}{Eres igual que un cachorrito enfermo. Creo que voy a sacrificarte.}
-{152}{}{Bien, divertíos que yo me marcho.}
-{153}{}{Entrega a la chica y todos saldremos de aquí con vida.}
-{154}{}{Así que has vuelto. Veamos quién queda en pie.}
-{155}{}{Hemos matado a la puta de Chrissy, ¡y ahora es tu turno!}
+{152}{}{Bien, divertÃ­os que yo me marcho.}
+{153}{}{Entrega a la chica y todos saldremos de aquÃ­ con vida.}
+{154}{}{AsÃ­ que has vuelto. Veamos quiÃ©n queda en pie.}
+{155}{}{Hemos matado a la puta de Chrissy, Â¡y ahora es tu turno!}

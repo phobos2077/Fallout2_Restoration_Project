@@ -1,56 +1,56 @@
-{100}{}{Widzisz Amandê.}
-{101}{}{Widzisz zmeczon¹ kobietê, która wygl¹da jakby niedawno p³aka³a.}
-{102}{}{Widzisz Amandê.}
-{103}{}{Widzisz zmeczon¹ kobietê, która wygl¹da jakby niedawno p³aka³a.}
-{104}{}{Widzisz Amandê. Teraz, kiedy Joshua jest wolny, wydaje siê byæ o wiele szczêœliwsza.}
-{105}{}{Widzisz Amandê.}
-{106}{}{Widzisz Amandê. Teraz, kiedy Joshua jest wolny, wydaje siê byæ o wiele szczêœliwsza.}
+{100}{}{Widzisz AmandÄ™.}
+{101}{}{Widzisz zmeczonÄ… kobietÄ™, ktÃ³ra wyglÄ…da jakby niedawno pÅ‚akaÅ‚a.}
+{102}{}{Widzisz AmandÄ™.}
+{103}{}{Widzisz zmeczonÄ… kobietÄ™, ktÃ³ra wyglÄ…da jakby niedawno pÅ‚akaÅ‚a.}
+{104}{}{Widzisz AmandÄ™. Teraz, kiedy Joshua jest wolny, wydaje siÄ™ byÄ‡ o wiele szczÄ™Å›liwsza.}
+{105}{}{Widzisz AmandÄ™.}
+{106}{}{Widzisz AmandÄ™. Teraz, kiedy Joshua jest wolny, wydaje siÄ™ byÄ‡ o wiele szczÄ™Å›liwsza.}
 {107}{}{Och, Joshua...}
-{108}{}{I co ja teraz zrobiê?}
-{109}{}{Wszystkie pieni¹dze siê skoñczy³y....}
-{110}{}{Gdyby tylko Obywatele pozwolili mu odejœæ...}
-{111}{}{Joshua! Jestem taka szczêœliwa, ¿e jesteœ wolny. Martwi³am siê...}
-{112}{}{Przykro mi, ale nie mam dla ciebie ¿adnej nagrody.}
-{113}{}{Proszê, zostaw mnie, bo zawo³am stra¿.}
+{108}{}{I co ja teraz zrobiÄ™?}
+{109}{}{Wszystkie pieniÄ…dze siÄ™ skoÅ„czyÅ‚y....}
+{110}{}{Gdyby tylko Obywatele pozwolili mu odejÅ›Ä‡...}
+{111}{}{Joshua! Jestem taka szczÄ™Å›liwa, Å¼e jesteÅ› wolny. MartwiÅ‚am siÄ™...}
+{112}{}{Przykro mi, ale nie mam dla ciebie Å¼adnej nagrody.}
+{113}{}{ProszÄ™, zostaw mnie, bo zawoÅ‚am straÅ¼.}
 {114}{}{Czego chcesz?}
-{115}{}{Wszystko w porz¹dku? Wygl¹dasz na zmartwion¹.}
-{116}{}{Nic. Przepraszam, ¿e przeszkadzam.}
-{117}{}{Ja... to... to mój m¹¿ Joshua. On... wpakowa³ siê w k³opoty w... barze. Przypadkowo uderzy³ Obywatela i zosta³ aresztowany. On nie chcia³, ale przedtem trochê pi³ i....}
+{115}{}{Wszystko w porzÄ…dku? WyglÄ…dasz na zmartwionÄ….}
+{116}{}{Nic. Przepraszam, Å¼e przeszkadzam.}
+{117}{}{Ja... to... to mÃ³j mÄ…Å¼ Joshua. On... wpakowaÅ‚ siÄ™ w kÅ‚opoty w... barze. Przypadkowo uderzyÅ‚ Obywatela i zostaÅ‚ aresztowany. On nie chciaÅ‚, ale przedtem trochÄ™ piÅ‚ i....}
 {118}{}{Aresztowany? Gdzie jest teraz?}
-{119}{}{Jeœli upi³ siê, i zaatakowa³ kogoœ, to powinien zostaæ aresztowany.}
-{120}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e go wypuszcz¹.}
-{121}{}{W mieœcie, w Centrum Rozmieszczania S³u¿¹cych... Powiedzieli, ¿e móg³by odpracowaæ swój wyrok jako s³u¿¹cy... Ale to potrwa latami!}
-{122}{}{Co mogê zrobiæ, aby mu pomóc?}
-{123}{}{Jeœli upi³ siê, i zaatakowa³ kogoœ, to powinien zostaæ aresztowany.}
-{124}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e go wypuszcz¹.}
-{125}{}{Ale to by³ wypadek! Ja... On nie chcia³ tego zrobiæ!}
+{119}{}{JeÅ›li upiÅ‚ siÄ™, i zaatakowaÅ‚ kogoÅ›, to powinien zostaÄ‡ aresztowany.}
+{120}{}{Przykro mi to sÅ‚yszeÄ‡. Mam nadziejÄ™, Å¼e go wypuszczÄ….}
+{121}{}{W mieÅ›cie, w Centrum Rozmieszczania SÅ‚uÅ¼Ä…cych... Powiedzieli, Å¼e mÃ³gÅ‚by odpracowaÄ‡ swÃ³j wyrok jako sÅ‚uÅ¼Ä…cy... Ale to potrwa latami!}
+{122}{}{Co mogÄ™ zrobiÄ‡, aby mu pomÃ³c?}
+{123}{}{JeÅ›li upiÅ‚ siÄ™, i zaatakowaÅ‚ kogoÅ›, to powinien zostaÄ‡ aresztowany.}
+{124}{}{Przykro mi to sÅ‚yszeÄ‡. Mam nadziejÄ™, Å¼e go wypuszczÄ….}
+{125}{}{Ale to byÅ‚ wypadek! Ja... On nie chciaÅ‚ tego zrobiÄ‡!}
 {126}{}{Gdzie jest teraz?}
-{127}{}{Nie chcia³ nikogo atakowaæ? Jasne. Mo¿e to bêdzie dla ciebie dobra lekcja.}
-{128}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e go wypuszcz¹.}
-{129}{}{Nie zosta³o mi zbyt wiele pieniêdzy, wiêc bêdziemy musieli wkrótce odejœæ, bo nie bêdzie nas staæ na zap³acenie stra¿nikom za ochronê. Powiedzieli, ¿e je¿eli chcemy zostaæ z Joshu¹, mog¹ z nas te¿ zrobiæ s³u¿¹cych i...}
-{130}{}{To brzmi jak dobre rozwi¹zanie. S³u¿¹cy w Kryptopolis s¹ traktowani ca³kiem dobrze, czy¿ nie?}
-{131}{}{Daj mi pomyœleæ, dobrze? Mo¿e mogê porozmawiaæ z kimœ w Centrum Rozmieszczania...}
-{132}{}{Mogê ci pomóc. Ale nic za darmo.}
-{133}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e go wypuszcz¹.}
-{134}{}{Nie chcê, ¿eby mój syn by³ wychowany na niewolnika! Przybyliœmy do Kryptopolis bo s³yszeliœmy, ¿e to wolne miasto... ale kiedy tu przybyliœmy, poznaliœmy tutejsze prawa... op³aty dla stra¿y... I... to nie s¹ rzeczy, które nam opowiedziano.}
-{135}{}{Daj mi pomyœleæ, dobrze? Mo¿e mogê porozmawiaæ z kimœ w Centrum Rozmieszczania...}
-{136}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e go wypuszcz¹.}
-{137}{}{Zarz¹dza tam Barkus, Oficer Barkus. Nie mogê nawet dostaæ siê do miasta, ¿eby siê z nim zobaczyæ. Nawet nie wiem czy Joshua jest ca³y! Ja...}
-{138}{}{Nie martw siê. Zobaczê co mogê zrobiæ.}
-{139}{}{Ale ja nie mam zbyt wiele pieniêdzy...}
-{140}{}{Nie myœla³em o twoich pieni¹dzach.}
-{141}{}{Niewa¿ne. Mo¿e mogê porozmawiaæ z kimœ w Centrum Rozmieszczania...}
-{142}{}{Przykro mi to s³yszeæ. Mo¿e po prostu go wypuszcz¹. ¯egnaj.}
-{143}{}{Co mia³eœ na my...? Och, nie. Ja... nie mog³abym, ja... to znaczy.. ja...}
-{144}{}{Chcesz, ¿eby twój m¹¿ by³ wolny czy nie? Twój m¹¿ nie musi siê o tym dowiedzieæ.}
-{145}{}{Niewa¿ne. Mo¿e mogê porozmawiaæ z kimœ w Centrum Rozmieszczania...}
-{146}{}{Przykro mi to s³yszeæ. Wygl¹da na to, ¿e twój m¹¿ nigdy nie odzyska wolnoœci. ¯egnaj.}
-{147}{}{Jeœli obiecasz uwolniæ mojego mê¿a, Ja... ja... dobrze. Ja... zas³onie wejœcie do namiotu. Ja... myœlê, ¿e mój syn wci¹¿ bawi siê na zewn¹trz, wiêc nie bêdziemy niepokojeni.}
-{148}{}{Nie martw siê, uwolniê twojego mê¿a. Jak tylko otrzymam zap³atê.}
-{149}{}{Zapomnij o tym. Mo¿e mogê porozmawiaæ z kimœ w Centrum Rozmieszczania...}
-{150}{}{Niewa¿ne. Zapomnij, ¿e kiedykolwiek siê spotkaliœmy.}
-{151}{}{Hej, a co ze mn¹?!}
-{152}{}{Proszê uratuj Joshue. Jest w mieœcie, w Centrum Rozmieszczania S³u¿¹cych...}
-{153}{}{Dziêkujê ci za uratowanie mojego mê¿a! Proszê... weŸ to jako nagrodê... To niewiele, ale...}
-{154}{}{Dziêkujê ponownie za uratowanie mego mê¿a. Wkrótce bêdziemy wyruszaæ.}
-{155}{}{Och... Dziêkujê, ¿e uratowa³eœ mojego mê¿a... Ale proszê... nie mów mu o tym, co zasz³o miêdzy nami.}
+{127}{}{Nie chciaÅ‚ nikogo atakowaÄ‡? Jasne. MoÅ¼e to bÄ™dzie dla ciebie dobra lekcja.}
+{128}{}{Przykro mi to sÅ‚yszeÄ‡. Mam nadziejÄ™, Å¼e go wypuszczÄ….}
+{129}{}{Nie zostaÅ‚o mi zbyt wiele pieniÄ™dzy, wiÄ™c bÄ™dziemy musieli wkrÃ³tce odejÅ›Ä‡, bo nie bÄ™dzie nas staÄ‡ na zapÅ‚acenie straÅ¼nikom za ochronÄ™. Powiedzieli, Å¼e jeÅ¼eli chcemy zostaÄ‡ z JoshuÄ…, mogÄ… z nas teÅ¼ zrobiÄ‡ sÅ‚uÅ¼Ä…cych i...}
+{130}{}{To brzmi jak dobre rozwiÄ…zanie. SÅ‚uÅ¼Ä…cy w Kryptopolis sÄ… traktowani caÅ‚kiem dobrze, czyÅ¼ nie?}
+{131}{}{Daj mi pomyÅ›leÄ‡, dobrze? MoÅ¼e mogÄ™ porozmawiaÄ‡ z kimÅ› w Centrum Rozmieszczania...}
+{132}{}{MogÄ™ ci pomÃ³c. Ale nic za darmo.}
+{133}{}{Przykro mi to sÅ‚yszeÄ‡. Mam nadziejÄ™, Å¼e go wypuszczÄ….}
+{134}{}{Nie chcÄ™, Å¼eby mÃ³j syn byÅ‚ wychowany na niewolnika! PrzybyliÅ›my do Kryptopolis bo sÅ‚yszeliÅ›my, Å¼e to wolne miasto... ale kiedy tu przybyliÅ›my, poznaliÅ›my tutejsze prawa... opÅ‚aty dla straÅ¼y... I... to nie sÄ… rzeczy, ktÃ³re nam opowiedziano.}
+{135}{}{Daj mi pomyÅ›leÄ‡, dobrze? MoÅ¼e mogÄ™ porozmawiaÄ‡ z kimÅ› w Centrum Rozmieszczania...}
+{136}{}{Przykro mi to sÅ‚yszeÄ‡. Mam nadziejÄ™, Å¼e go wypuszczÄ….}
+{137}{}{ZarzÄ…dza tam Barkus, Oficer Barkus. Nie mogÄ™ nawet dostaÄ‡ siÄ™ do miasta, Å¼eby siÄ™ z nim zobaczyÄ‡. Nawet nie wiem czy Joshua jest caÅ‚y! Ja...}
+{138}{}{Nie martw siÄ™. ZobaczÄ™ co mogÄ™ zrobiÄ‡.}
+{139}{}{Ale ja nie mam zbyt wiele pieniÄ™dzy...}
+{140}{}{Nie myÅ›laÅ‚em o twoich pieniÄ…dzach.}
+{141}{}{NiewaÅ¼ne. MoÅ¼e mogÄ™ porozmawiaÄ‡ z kimÅ› w Centrum Rozmieszczania...}
+{142}{}{Przykro mi to sÅ‚yszeÄ‡. MoÅ¼e po prostu go wypuszczÄ…. Å»egnaj.}
+{143}{}{Co miaÅ‚eÅ› na my...? Och, nie. Ja... nie mogÅ‚abym, ja... to znaczy.. ja...}
+{144}{}{Chcesz, Å¼eby twÃ³j mÄ…Å¼ byÅ‚ wolny czy nie? TwÃ³j mÄ…Å¼ nie musi siÄ™ o tym dowiedzieÄ‡.}
+{145}{}{NiewaÅ¼ne. MoÅ¼e mogÄ™ porozmawiaÄ‡ z kimÅ› w Centrum Rozmieszczania...}
+{146}{}{Przykro mi to sÅ‚yszeÄ‡. WyglÄ…da na to, Å¼e twÃ³j mÄ…Å¼ nigdy nie odzyska wolnoÅ›ci. Å»egnaj.}
+{147}{}{JeÅ›li obiecasz uwolniÄ‡ mojego mÄ™Å¼a, Ja... ja... dobrze. Ja... zasÅ‚onie wejÅ›cie do namiotu. Ja... myÅ›lÄ™, Å¼e mÃ³j syn wciÄ…Å¼ bawi siÄ™ na zewnÄ…trz, wiÄ™c nie bÄ™dziemy niepokojeni.}
+{148}{}{Nie martw siÄ™, uwolniÄ™ twojego mÄ™Å¼a. Jak tylko otrzymam zapÅ‚atÄ™.}
+{149}{}{Zapomnij o tym. MoÅ¼e mogÄ™ porozmawiaÄ‡ z kimÅ› w Centrum Rozmieszczania...}
+{150}{}{NiewaÅ¼ne. Zapomnij, Å¼e kiedykolwiek siÄ™ spotkaliÅ›my.}
+{151}{}{Hej, a co ze mnÄ…?!}
+{152}{}{ProszÄ™ uratuj Joshue. Jest w mieÅ›cie, w Centrum Rozmieszczania SÅ‚uÅ¼Ä…cych...}
+{153}{}{DziÄ™kujÄ™ ci za uratowanie mojego mÄ™Å¼a! ProszÄ™... weÅº to jako nagrodÄ™... To niewiele, ale...}
+{154}{}{DziÄ™kujÄ™ ponownie za uratowanie mego mÄ™Å¼a. WkrÃ³tce bÄ™dziemy wyruszaÄ‡.}
+{155}{}{Och... DziÄ™kujÄ™, Å¼e uratowaÅ‚eÅ› mojego mÄ™Å¼a... Ale proszÄ™... nie mÃ³w mu o tym, co zaszÅ‚o miÄ™dzy nami.}

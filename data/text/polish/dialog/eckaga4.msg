@@ -1,21 +1,21 @@
-{100}{}{Widzisz mê¿czyznê w pancerzu bojowym.}
-{101}{}{Widzisz Kagê w pancerzu bojowym.}
-{102}{}{Ma na sobie pancerz bojowy i zdaje siê byæ nieŸle uzbrojony.}
-{103}{}{Tym razem Kaga jest przygotowany na spotkanie z tob¹.}
-{104}{}{Dziecko Przeznaczenia nigdy ju¿ nie wróci do Arroyo!}
-{105}{}{Kaga ciê zmia¿d¿y!}
-{106}{}{Kaga nie lêka siê nikogo!}
-{107}{}{Stój w miejscu, Kaga chce dobrze wycelowaæ.}
-{108}{}{Jeszcze spotkasz Kagê!}
-{109}{}{Nie po raz ostatni widzisz Kagê.}
-{110}{}{Kaga zdecydowanie musi jeszcze trochê potrenowaæ.}
-{120}{}{Kaga, idŸ sobie!}
-{150}{}{[Staje przed tob¹ wysoki, potê¿nie zbudowany wojownik. Patrzy na ciebie, a w jego oczach p³onie nienawiœæ.] Wiêc to tak, wyrzucaj¹ Kagê, a potem okrzykuj¹ CIEBIE Dzieckiem Przeznaczenia? Tak?! Myœlisz, ¿e to ¿e twój dziadek by³ Przybyszem z Krypty cokolwiek tutaj znaczy?! Myœlisz, ¿e Kaga Wielki jest od ciebie gorszy?!}
-{151}{}{Có¿, to JA JESTEM, Dzieckiem Przeznaczenia, prawda?}
-{152}{}{Hej stój, czekaj chwileczkê. Kto mówi, ¿e jesteœ ode mnie gorszy.}
-{160}{}{Ten tytu³ bêdzie gówno wart kiedy Kaga wyrwie ci g³owê z ramion!}
-{161}{}{¯adne s³owa nie uratuj¹ twojego ty³ka. Wraz z twoj¹ œmierci¹, Kaga odzyska honor. Kaga teraz siê zemœci!}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ w pancerzu bojowym.}
+{101}{}{Widzisz KagÄ™ w pancerzu bojowym.}
+{102}{}{Ma na sobie pancerz bojowy i zdaje siÄ™ byÄ‡ nieÅºle uzbrojony.}
+{103}{}{Tym razem Kaga jest przygotowany na spotkanie z tobÄ….}
+{104}{}{Dziecko Przeznaczenia nigdy juÅ¼ nie wrÃ³ci do Arroyo!}
+{105}{}{Kaga ciÄ™ zmiaÅ¼dÅ¼y!}
+{106}{}{Kaga nie lÄ™ka siÄ™ nikogo!}
+{107}{}{StÃ³j w miejscu, Kaga chce dobrze wycelowaÄ‡.}
+{108}{}{Jeszcze spotkasz KagÄ™!}
+{109}{}{Nie po raz ostatni widzisz KagÄ™.}
+{110}{}{Kaga zdecydowanie musi jeszcze trochÄ™ potrenowaÄ‡.}
+{120}{}{Kaga, idÅº sobie!}
+{150}{}{[Staje przed tobÄ… wysoki, potÄ™Å¼nie zbudowany wojownik. Patrzy na ciebie, a w jego oczach pÅ‚onie nienawiÅ›Ä‡.] WiÄ™c to tak, wyrzucajÄ… KagÄ™, a potem okrzykujÄ… CIEBIE Dzieckiem Przeznaczenia? Tak?! MyÅ›lisz, Å¼e to Å¼e twÃ³j dziadek byÅ‚ Przybyszem z Krypty cokolwiek tutaj znaczy?! MyÅ›lisz, Å¼e Kaga Wielki jest od ciebie gorszy?!}
+{151}{}{CÃ³Å¼, to JA JESTEM, Dzieckiem Przeznaczenia, prawda?}
+{152}{}{Hej stÃ³j, czekaj chwileczkÄ™. Kto mÃ³wi, Å¼e jesteÅ› ode mnie gorszy.}
+{160}{}{Ten tytuÅ‚ bÄ™dzie gÃ³wno wart kiedy Kaga wyrwie ci gÅ‚owÄ™ z ramion!}
+{161}{}{Å»adne sÅ‚owa nie uratujÄ… twojego tyÅ‚ka. Wraz z twojÄ… Å›mierciÄ…, Kaga odzyska honor. Kaga teraz siÄ™ zemÅ›ci!}
 {200}{}{Brzyyydal?}
-{201}{}{Co!? Wybrali *ciebie* na dziecko przeznaczenia? Cholera, musz¹ byæ naprawdê zdesperowani.}
-{202}{}{Ja nie lubieæ. Ty byæ z³y.}
-{203}{}{Kaga nawet nie bêdzie z tob¹ gadaæ. Przygotuj siê na œmieræ z r¹k Kagi!}
+{201}{}{Co!? Wybrali *ciebie* na dziecko przeznaczenia? Cholera, muszÄ… byÄ‡ naprawdÄ™ zdesperowani.}
+{202}{}{Ja nie lubieÄ‡. Ty byÄ‡ zÅ‚y.}
+{203}{}{Kaga nawet nie bÄ™dzie z tobÄ… gadaÄ‡. Przygotuj siÄ™ na Å›mierÄ‡ z rÄ…k Kagi!}

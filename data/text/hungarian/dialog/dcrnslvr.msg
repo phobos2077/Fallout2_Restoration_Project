@@ -1,60 +1,60 @@
-{100}{}{Egy középkorú, er?s rabszolga-hajcsárt látsz.}
-{101}{}{Ennek a hajcsárnak jó nagy vágás van a fején.}
-{102}{}{Egy elég nagy darab rabszolga-hajcsárt látsz.}
-{150}{}{Egy rabszolga-hajcsár, aki szemlátomást élvezi a munkáját.}
+{100}{}{Egy kÃ¶zÃ©pkorÃº, er?s rabszolga-hajcsÃ¡rt lÃ¡tsz.}
+{101}{}{Ennek a hajcsÃ¡rnak jÃ³ nagy vÃ¡gÃ¡s van a fejÃ©n.}
+{102}{}{Egy elÃ©g nagy darab rabszolga-hajcsÃ¡rt lÃ¡tsz.}
+{150}{}{Egy rabszolga-hajcsÃ¡r, aki szemlÃ¡tomÃ¡st Ã©lvezi a munkÃ¡jÃ¡t.}
 {151}{}{This slaver seems to be very strong but not too bright.}
-{152}{}{Ez a hajcsár jól felszereltnek t?nik, csakúgy, mint a társai.}
+{152}{}{Ez a hajcsÃ¡r jÃ³l felszereltnek t?nik, csakÃºgy, mint a tÃ¡rsai.}
 {225}{}{Kapjuk el ?ket!}
-{226}{}{Csak azokat öldd meg, akik ellenállást fejtenek ki!}
-{227}{}{Menj el?l, mögötted leszünk!}
-{228}{}{Csak a támadókkal végezz, a többiért pénzt kéne kapni!}
-{229}{}{Készen állok, hogy széthasítsak néhány koponyát.}
-{230}{}{Hol vannak? Látod ?ket?}
-{235}{}{Még nem végeztünk.}
-{236}{}{A többi ellenség a tied.}
-{237}{}{Hagyd a fegyverteleneket! Kapd el a többit!}
-{238}{}{Még vár ránk egy-két vérfürd?.}
-{245}{}{Ez katasztrofális vadászat volt.}
-{246}{}{Ez alig érte meg. Szart se kerestünk.}
-{247}{}{Legközelebb, csak az ellenségeseket öld meg! Ez nem csak móka, játék, kacagás...}
+{226}{}{Csak azokat Ã¶ldd meg, akik ellenÃ¡llÃ¡st fejtenek ki!}
+{227}{}{Menj el?l, mÃ¶gÃ¶tted leszÃ¼nk!}
+{228}{}{Csak a tÃ¡madÃ³kkal vÃ©gezz, a tÃ¶bbiÃ©rt pÃ©nzt kÃ©ne kapni!}
+{229}{}{KÃ©szen Ã¡llok, hogy szÃ©thasÃ­tsak nÃ©hÃ¡ny koponyÃ¡t.}
+{230}{}{Hol vannak? LÃ¡tod ?ket?}
+{235}{}{MÃ©g nem vÃ©geztÃ¼nk.}
+{236}{}{A tÃ¶bbi ellensÃ©g a tied.}
+{237}{}{Hagyd a fegyverteleneket! Kapd el a tÃ¶bbit!}
+{238}{}{MÃ©g vÃ¡r rÃ¡nk egy-kÃ©t vÃ©rfÃ¼rd?.}
+{245}{}{Ez katasztrofÃ¡lis vadÃ¡szat volt.}
+{246}{}{Ez alig Ã©rte meg. Szart se kerestÃ¼nk.}
+{247}{}{LegkÃ¶zelebb, csak az ellensÃ©geseket Ã¶ld meg! Ez nem csak mÃ³ka, jÃ¡tÃ©k, kacagÃ¡s...}
 {248}{}{Metzger ideges lesz.}
-{255}{}{Nem rossz... de legközelebb hagyd élve a fegyverteleneket, ha azt akarod, hogy valami pénz is leessen.}
-{256}{}{Nem volt olyan rossz. Jóféle rabszolgákat szereztünk.}
-{257}{}{Volt már jobb is, de legalább kapunk értünk pénzt.}
-{265}{}{Hé, egész jók voltunk. Majdnem mindet elkaptunk.}
-{266}{}{Kösz a segítséget.}
-{267}{}{Jó munka volt! Remélem, szép fizetséget kapunk ezért a zsákmányért.}
-{268}{}{Ez jó móka volt, biztos jó pénzt kapunk érte.}
-{275}{}{Szétrúgtunk pár segget. Jobb lesz, ha Metzger készíti a prémiumot.}
-{276}{}{Ez tökéletes volt! Jól be fogok rúgni ma este.}
-{277}{}{Ez kibaszott jó volt! Szétrúgtuk a seggüket.}
-{278}{}{Így kell ezt csinálni!}
+{255}{}{Nem rossz... de legkÃ¶zelebb hagyd Ã©lve a fegyverteleneket, ha azt akarod, hogy valami pÃ©nz is leessen.}
+{256}{}{Nem volt olyan rossz. JÃ³fÃ©le rabszolgÃ¡kat szereztÃ¼nk.}
+{257}{}{Volt mÃ¡r jobb is, de legalÃ¡bb kapunk Ã©rtÃ¼nk pÃ©nzt.}
+{265}{}{HÃ©, egÃ©sz jÃ³k voltunk. Majdnem mindet elkaptunk.}
+{266}{}{KÃ¶sz a segÃ­tsÃ©get.}
+{267}{}{JÃ³ munka volt! RemÃ©lem, szÃ©p fizetsÃ©get kapunk ezÃ©rt a zsÃ¡kmÃ¡nyÃ©rt.}
+{268}{}{Ez jÃ³ mÃ³ka volt, biztos jÃ³ pÃ©nzt kapunk Ã©rte.}
+{275}{}{SzÃ©trÃºgtunk pÃ¡r segget. Jobb lesz, ha Metzger kÃ©szÃ­ti a prÃ©miumot.}
+{276}{}{Ez tÃ¶kÃ©letes volt! JÃ³l be fogok rÃºgni ma este.}
+{277}{}{Ez kibaszott jÃ³ volt! SzÃ©trÃºgtuk a seggÃ¼ket.}
+{278}{}{Ãgy kell ezt csinÃ¡lni!}
 {285}{}{Hol vannak?}
-{286}{}{Be kéne ugrani valami jó kis bordélyba...}
-{287}{}{Fogadok, hogy most többet ölök meg, mint te.}
+{286}{}{Be kÃ©ne ugrani valami jÃ³ kis bordÃ©lyba...}
+{287}{}{Fogadok, hogy most tÃ¶bbet Ã¶lÃ¶k meg, mint te.}
 {288}{}{Cic-cic-cic.}
-{295}{}{Embereitek többsége már meghalt, csak még nem tudjátok.}
-{296}{}{El?lünk nem tudtok elbújni!}
-{297}{}{Gyertek el?, különben széjjellövöm a fejeteket!}
-{298}{}{Áh, ez jó volt! Hol van a többi?}
-{305}{}{Picsába...}
+{295}{}{Embereitek tÃ¶bbsÃ©ge mÃ¡r meghalt, csak mÃ©g nem tudjÃ¡tok.}
+{296}{}{El?lÃ¼nk nem tudtok elbÃºjni!}
+{297}{}{Gyertek el?, kÃ¼lÃ¶nben szÃ©jjellÃ¶vÃ¶m a fejeteket!}
+{298}{}{Ãh, ez jÃ³ volt! Hol van a tÃ¶bbi?}
+{305}{}{PicsÃ¡ba...}
 {306}{}{Ez egy nagy szar volt.}
-{307}{}{Franc ott egye az egészet!}
-{308}{}{Jobb, ha ezt többé nem csináljuk.}
-{309}{}{Bassza meg... még ittam volna ma este.}
-{310}{}{T?njünk el innen! Ez kibaszott szarul sikerült.}
+{307}{}{Franc ott egye az egÃ©szet!}
+{308}{}{Jobb, ha ezt tÃ¶bbÃ© nem csinÃ¡ljuk.}
+{309}{}{Bassza meg... mÃ©g ittam volna ma este.}
+{310}{}{T?njÃ¼nk el innen! Ez kibaszott szarul sikerÃ¼lt.}
 {320}{}{Nem rossz.}
-{321}{}{Remélem, eleget fogtunk. Után kell töltenem a Jet-készleteimet.}
-{322}{}{Gyerünk!}
-{323}{}{Láttam már jobbat is, de a pénz az pénz.}
+{321}{}{RemÃ©lem, eleget fogtunk. UtÃ¡n kell tÃ¶ltenem a Jet-kÃ©szleteimet.}
+{322}{}{GyerÃ¼nk!}
+{323}{}{LÃ¡ttam mÃ¡r jobbat is, de a pÃ©nz az pÃ©nz.}
 {324}{}{Metzgernek tetszeni fognak.}
-{325}{}{Egész jól.}
+{325}{}{EgÃ©sz jÃ³l.}
 {326}{}{Siess! Kapjuk el.}
-{327}{}{Ez egészen megteszi...}
-{328}{}{Szép szállítmány.}
-{329}{}{Menjünk! A pénzemet akarom.}
-{335}{}{Ajándék ez a nap!}
+{327}{}{Ez egÃ©szen megteszi...}
+{328}{}{SzÃ©p szÃ¡llÃ­tmÃ¡ny.}
+{329}{}{MenjÃ¼nk! A pÃ©nzemet akarom.}
+{335}{}{AjÃ¡ndÃ©k ez a nap!}
 {336}{}{Fasza gyerekek vagyunk!}
-{337}{}{Tereljük össze ?ket és induljunk!}
-{338}{}{Ne bámészkodj! Indulás!}
-{339}{}{Átkozottul jól sikerült ez a kis vadászat...}
+{337}{}{TereljÃ¼k Ã¶ssze ?ket Ã©s induljunk!}
+{338}{}{Ne bÃ¡mÃ©szkodj! IndulÃ¡s!}
+{339}{}{Ãtkozottul jÃ³l sikerÃ¼lt ez a kis vadÃ¡szat...}

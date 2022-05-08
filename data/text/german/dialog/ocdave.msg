@@ -1,27 +1,27 @@
-{100}{}{Du siehst einen traurigen, älteren Mann.}
+{100}{}{Du siehst einen traurigen, Ã¤lteren Mann.}
 {101}{}{Du siehst Dave, "Mr. Depression".}
-{102}{}{Du siehst einen mürrischen, älteren Mann Anfang sechzig. Sein Gesicht ist verwittert und
+{102}{}{Du siehst einen mÃ¼rrischen, Ã¤lteren Mann Anfang sechzig. Sein Gesicht ist verwittert und
  er sieht reichlich mitgenommen aus.}
 {103}{}{Oh. Ich hab dich da nicht stehen sehen.}
-{104}{}{Wie nicht sehen? Ich groß.}
+{104}{}{Wie nicht sehen? Ich groÃŸ.}
 {105}{}{Traurig aussehen. Warum?}
 {106}{}{Ich gehn, winke-winke.}
 {107}{}{Schon OK, wir sind alle mal abwesend. Du siehst ziemlich fertig aus. Darf ich fragen,
  warum?}
-{108}{}{Tja, was auch immer. Warum bist du so betrübt?}
-{109}{}{Soll ich dir das nächste Mal eins überziehen, um deine Aufmerksamkeit zu erregen?}
+{108}{}{Tja, was auch immer. Warum bist du so betrÃ¼bt?}
+{109}{}{Soll ich dir das nÃ¤chste Mal eins Ã¼berziehen, um deine Aufmerksamkeit zu erregen?}
 {110}{}{Was auch immer; ich hab mich gerade erinnert, dass ich wohin muss.}
-{111}{}{Hey, das kann passieren — und wenn's passiert, passiert's mir.}
-{112}{}{Äh... ich jetzt gehn.}
+{111}{}{Hey, das kann passieren â€” und wenn's passiert, passiert's mir.}
+{112}{}{Ã„h... ich jetzt gehn.}
 {113}{}{Wie zum Beispiel?}
-{114}{}{Hübscher Anblick. Wie kam's dazu?}
-{115}{}{Ich wär jetzt gern woanders.}
-{116}{}{Ich wurde zwei Monate zu früh geboren. Als ich ein Jahr alt war, wurde ich auf der
- Veranda fallengelassen. Als ich zwei war, hatte ich Lungenentzündung. Mit drei hatte ich die
- Windpocken. Mit vier fiel ich die Treppen runter und brach mir sechs Rippen. Als ich fünf war,
- wurde mein Onkel geköpft. Als ich sechs war schlugen mich meine Eltern mit einer Schaufel auf
+{114}{}{HÃ¼bscher Anblick. Wie kam's dazu?}
+{115}{}{Ich wÃ¤r jetzt gern woanders.}
+{116}{}{Ich wurde zwei Monate zu frÃ¼h geboren. Als ich ein Jahr alt war, wurde ich auf der
+ Veranda fallengelassen. Als ich zwei war, hatte ich LungenentzÃ¼ndung. Mit drei hatte ich die
+ Windpocken. Mit vier fiel ich die Treppen runter und brach mir sechs Rippen. Als ich fÃ¼nf war,
+ wurde mein Onkel gekÃ¶pft. Als ich sechs war schlugen mich meine Eltern mit einer Schaufel auf
  den Kopf. Mit sieben biss mir meine Ratte den rechten Zeigefinger ab.}
-{117}{}{Äh, ich höre jemanden rufen. Tschüss.}
+{117}{}{Ã„h, ich hÃ¶re jemanden rufen. TschÃ¼ss.}
 {118}{}{Mir leid tun, dass alles schlecht.}
 {119}{}{Vergangenheit schlecht, nicht reden. Jetzt gut?}
 {120}{}{Wow! Ich bin froh, nicht in deiner Haut zu stecken.}
@@ -29,49 +29,49 @@
 {122}{}{Es tut mir wirklich leid, dass du so viel Schlimmes erlebt hast. Aber ich hoffe, es hat
  sich alles zum Positiven entwickelt?}
 {123}{}{Warte mal. Ich hab vergessen, dass ich noch was anderes zu tun habe.}
-{124}{}{Tja, Unglücke passieren — und wenn sie passieren, dann mir.}
+{124}{}{Tja, UnglÃ¼cke passieren â€” und wenn sie passieren, dann mir.}
 {125}{}{Was passieren jetzt?}
-{126}{}{Ich hören vorher. Tschüss.}
-{127}{}{Also, was ist jetzt passiert, dass dich so ärgert?}
-{128}{}{Ich hab keine Lust, mir das anzuhören. Ich geh jetzt.}
-{129}{}{Naja, ich reiste gerade durch die Wüste, als plötzlich mein Brahmin tot umfiel. Plötzlich
- musste ich feststellen, dass meine Wasservorräte knapp waren und ich seit längerem nichts mehr
+{126}{}{Ich hÃ¶ren vorher. TschÃ¼ss.}
+{127}{}{Also, was ist jetzt passiert, dass dich so Ã¤rgert?}
+{128}{}{Ich hab keine Lust, mir das anzuhÃ¶ren. Ich geh jetzt.}
+{129}{}{Naja, ich reiste gerade durch die WÃ¼ste, als plÃ¶tzlich mein Brahmin tot umfiel. PlÃ¶tzlich
+ musste ich feststellen, dass meine WasservorrÃ¤te knapp waren und ich seit lÃ¤ngerem nichts mehr
  getrunken hatte. Dann fingen meine Knochen an zu schmerzen, mein Kopf tat weh, ich bekam
  Durchfall und diesen Ausschlag, der nicht wegging. Es war Zeit sich hinzusetzen und zu sterben.}
-{130}{}{Ich... äh... du... du keine Frau oder Kinder?}
+{130}{}{Ich... Ã¤h... du... du keine Frau oder Kinder?}
 {131}{}{Du nicht mehr reden. Ich gehn.}
-{132}{}{Ich will nichts mehr hören. Ich will hier raus, weg von dir. Tschüss.}
+{132}{}{Ich will nichts mehr hÃ¶ren. Ich will hier raus, weg von dir. TschÃ¼ss.}
 {133}{}{Bitte sag, dass du keine Kinder hast.}
 {134}{}{Nein. Als ich zweiundzwanzig wurde, wuchs dieser komische Pilz an meinen Hod...}
 {135}{}{Arrg! Du nicht weiterreden! Ich gehn!}
 {136}{}{Stopp! Ich will's nicht wissen!}
-{137}{}{Oh, hi. Was kann ich für dich tun?}
-{138}{}{Äh, wie sein Geschichte von dir?}
+{137}{}{Oh, hi. Was kann ich fÃ¼r dich tun?}
+{138}{}{Ã„h, wie sein Geschichte von dir?}
 {139}{}{Tut leid. Ich gehn.}
-{140}{}{Kann ich deine Geschichte noch mal hören?}
-{141}{}{Warte mal. Ich dachte, du wärst jemand anderes.}
-{142}{}{Zumindest ist meine Zeit jetzt gekommen. Wirst du mich jetzt töten?}
+{140}{}{Kann ich deine Geschichte noch mal hÃ¶ren?}
+{141}{}{Warte mal. Ich dachte, du wÃ¤rst jemand anderes.}
+{142}{}{Zumindest ist meine Zeit jetzt gekommen. Wirst du mich jetzt tÃ¶ten?}
 {143}{}{Ja.}
 {144}{}{Nein.}
-{145}{}{Als ich acht war, wurde mein Hund von einem Traktor überfahren. Als ich neun war, verlor
- meine Mutter ihren Arm durch ein tollwütiges Brahmin. Als ich zehn war, wurde meine Schwester
- von einem Rudel Hunde zerfetzt. Als ich elf war, hat mein Großvater sich umgebracht, weil ich
- hässlich war. Als ich zwölf war, nahm sich meine Großmutter das Leben, weil ich hässlich war. Als
+{145}{}{Als ich acht war, wurde mein Hund von einem Traktor Ã¼berfahren. Als ich neun war, verlor
+ meine Mutter ihren Arm durch ein tollwÃ¼tiges Brahmin. Als ich zehn war, wurde meine Schwester
+ von einem Rudel Hunde zerfetzt. Als ich elf war, hat mein GroÃŸvater sich umgebracht, weil ich
+ hÃ¤sslich war. Als ich zwÃ¶lf war, nahm sich meine GroÃŸmutter das Leben, weil ich hÃ¤sslich war. Als
  ich dreizehn war, stach sich mein Vater im Suff mit einer Heugabel beide Augen aus.}
-{146}{}{Als ich vierzehn war, verlor mein Bruder seine Hand an ein Wallaby. Als ich fünfzehn war,
- erstickte meine Tante an einem Hühnerknochen. Mit sechzehn verlor ich meinen Cousin an einen
- Dachs. Mit siebzehn habe ich mir meinen linken großen Zeh mit einer Hacke abgehackt. Als ich
+{146}{}{Als ich vierzehn war, verlor mein Bruder seine Hand an ein Wallaby. Als ich fÃ¼nfzehn war,
+ erstickte meine Tante an einem HÃ¼hnerknochen. Mit sechzehn verlor ich meinen Cousin an einen
+ Dachs. Mit siebzehn habe ich mir meinen linken groÃŸen Zeh mit einer Hacke abgehackt. Als ich
  achtzehn war, verlor mein Vater sein rechtes Bein durch den gleichen Traktor, der meinen Hund
- getötet hatte. Als ich neunzehn war...}
-{147}{}{Ja, da saß ich nun in der Wüste und wartete darauf, dass die Welt mein erbärmliches Dasein verschlucken würde, als plötzlich ein Rudel Deathclaws auftauchte. Ich hab gedacht, so, das war's jetzt. Jetzt kann ich sterben. Ich kann mein Leben als ein Haufen Deathclawkacke in der Wüste beenden. Aber nein, das Schicksal hatte noch eine grausame Karte, die es gegen mich ausspielte.}
-{148}{}{Du siehst, die Deathclaws haben mich nicht getötet. Statt dessen gaben sie mir Wasser,
+ getÃ¶tet hatte. Als ich neunzehn war...}
+{147}{}{Ja, da saÃŸ ich nun in der WÃ¼ste und wartete darauf, dass die Welt mein erbÃ¤rmliches Dasein verschlucken wÃ¼rde, als plÃ¶tzlich ein Rudel Deathclaws auftauchte. Ich hab gedacht, so, das war's jetzt. Jetzt kann ich sterben. Ich kann mein Leben als ein Haufen Deathclawkacke in der WÃ¼ste beenden. Aber nein, das Schicksal hatte noch eine grausame Karte, die es gegen mich ausspielte.}
+{148}{}{Du siehst, die Deathclaws haben mich nicht getÃ¶tet. Statt dessen gaben sie mir Wasser,
  brachten mich hierher, gaben mir zu essen, wuschen mich und lassen mich jetzt nicht mehr gehen.
- Ich weiß, dass sie für mich ein unbekanntes, aber schreckliches Schicksal mästen. Ich erzähle
+ Ich weiÃŸ, dass sie fÃ¼r mich ein unbekanntes, aber schreckliches Schicksal mÃ¤sten. Ich erzÃ¤hle
  ihnen immer wieder, dass ich wahrscheinlich besser schmecke, wenn ich schlanker bin, aber es
- hilft nichts. Sie lächeln nur — wenn man das so nennen kann — tätscheln mir den Kopf und
- sagen 'Mach dir keine Sorgen, Mensch. Alles wird gut'. HA! Wir wissen beide was das heißt.}
+ hilft nichts. Sie lÃ¤cheln nur â€” wenn man das so nennen kann â€” tÃ¤tscheln mir den Kopf und
+ sagen 'Mach dir keine Sorgen, Mensch. Alles wird gut'. HA! Wir wissen beide was das heiÃŸt.}
 {149}{}{Naja, um alles noch schlimmer zu machen, haben sie angefangen, mir eine Art Medizin zu
- geben. Sie machte mich geschwätzig, also habe ich sie nicht mehr genommen — und das war gut so.
- Ich glaube, es war sowas wie eine Hirnwäsche-Pille, weil mir plötzlich alles nicht mehr so
+ geben. Sie machte mich geschwÃ¤tzig, also habe ich sie nicht mehr genommen â€” und das war gut so.
+ Ich glaube, es war sowas wie eine HirnwÃ¤sche-Pille, weil mir plÃ¶tzlich alles nicht mehr so
  schlimm vorkam, wie es eigentlich ist. Naja, das ist es eigentlich soweit. Ich warte eigentlich
- nur noch darauf, dass das Buffet freigegeben wird und sie über mich herfallen.}
+ nur noch darauf, dass das Buffet freigegeben wird und sie Ã¼ber mich herfallen.}

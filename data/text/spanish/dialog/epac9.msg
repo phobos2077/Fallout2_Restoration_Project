@@ -1,62 +1,62 @@
 {100}{}{Ves una computadora grande. }
-{101}{}{¡Ves al  Sr. Chemmie!}
-{102}{}{Una gran computadora de fabricación de drogas.}
-{200}{}{¡Hola usuario! Soy el farmacéutico del futuro, Sr. Chemmie. ¡¿Como puedo ayudarte?!}
-{201}{}{¿Qué haces?}
-{210}{}{¡Yo hago drogas! ¡Todo tipo de drogas! Cuando la vida te deprime, ¡el Sr. Chemmie está aquí para recogerte! ¿Cómo funciona el Sr. Chemmie? ¡Es sencillo! Todo lo que necesitas es un poco de conocimiento científico y los ingredientes correctos, ¡luego deja el resto en mis manos! ¡Seguir! ¡Déme una oportunidad! ¡Y niños, recuerden pedirle permiso a mamá o papá antes de jugar con el Sr. Chemmie!}
-{211}{}{Muy bien, lo intentaré.}
-{212}{}{Quizá más tarde.}
-{220}{}{¡Bien! ¡Hagamos drogas! ¡¿Qué deseas crear?!}
+{101}{}{Â¡Ves al  Sr. Chemmie!}
+{102}{}{Una gran computadora de fabricaciÃ³n de drogas.}
+{200}{}{Â¡Hola usuario! Soy el farmacÃ©utico del futuro, Sr. Chemmie. Â¡Â¿Como puedo ayudarte?!}
+{201}{}{Â¿QuÃ© haces?}
+{210}{}{Â¡Yo hago drogas! Â¡Todo tipo de drogas! Cuando la vida te deprime, Â¡el Sr. Chemmie estÃ¡ aquÃ­ para recogerte! Â¿CÃ³mo funciona el Sr. Chemmie? Â¡Es sencillo! Todo lo que necesitas es un poco de conocimiento cientÃ­fico y los ingredientes correctos, Â¡luego deja el resto en mis manos! Â¡Seguir! Â¡DÃ©me una oportunidad! Â¡Y niÃ±os, recuerden pedirle permiso a mamÃ¡ o papÃ¡ antes de jugar con el Sr. Chemmie!}
+{211}{}{Muy bien, lo intentarÃ©.}
+{212}{}{QuizÃ¡ mÃ¡s tarde.}
+{220}{}{Â¡Bien! Â¡Hagamos drogas! Â¡Â¿QuÃ© deseas crear?!}
 {221}{}{Estimulante}
 {222}{}{Superestimulante}
 {223}{}{Veneno}
-{224}{}{Antídoto de veneno  }
-{225}{}{Botiquín de 1º Auxilios}
-{226}{}{Maletín de Médico}
+{224}{}{AntÃ­doto de veneno  }
+{225}{}{BotiquÃ­n de 1Âº Auxilios}
+{226}{}{MaletÃ­n de MÃ©dico}
 {227}{}{Esteroides}
 {228}{}{Mentats}
 {229}{}{Psico}
-{230}{}{¡Gran elección! Para hacer un Estimulante, por favor dame de comer: una Flor de Broquía, una Raíz de Xandría y una Aguja hipodérmica vacía. ¡Yum Yum!}
+{230}{}{Â¡Gran elecciÃ³n! Para hacer un Estimulante, por favor dame de comer: una Flor de BroquÃ­a, una RaÃ­z de XandrÃ­a y una Aguja hipodÃ©rmica vacÃ­a. Â¡Yum Yum!}
 {231}{}{Hacer un estimulante. }
 {232}{}{No tengo esos en este momento.}
-{233}{}{Volver al menú principal.}
-{240}{}{¡Gran elección! Para hacer un Superestimulante, por favor dame de comer: un Estimulante ordinario, una pieza de fruta y una Nuka Cola. ¡Yum Yum!}
+{233}{}{Volver al menÃº principal.}
+{240}{}{Â¡Gran elecciÃ³n! Para hacer un Superestimulante, por favor dame de comer: un Estimulante ordinario, una pieza de fruta y una Nuka Cola. Â¡Yum Yum!}
 {241}{}{Hacer un Superestimulante}
-{250}{}{¡Gran elección! Para hacer Psico, por favor dame de comer: una caja de Mentats, un Esteroide, una Fruta y un Estimulante. ¡Yum Yum!}
+{250}{}{Â¡Gran elecciÃ³n! Para hacer Psico, por favor dame de comer: una caja de Mentats, un Esteroide, una Fruta y un Estimulante. Â¡Yum Yum!}
 {251}{}{Hacer Psico.}
-{260}{}{¡Gran elección! Para hacer algunos Mentats, por favor dame de comer: un Botiquín de Primeros Auxilios, una Pieza de Fruta y una Botella de Alcohol. ¡Yum Yum!}
+{260}{}{Â¡Gran elecciÃ³n! Para hacer algunos Mentats, por favor dame de comer: un BotiquÃ­n de Primeros Auxilios, una Pieza de Fruta y una Botella de Alcohol. Â¡Yum Yum!}
 {262}{}{Haz algunos Mentats.}
 {263}{}{Salir.}
-{270}{}{¡Gran elección! Para hacer una Maletín de Doctor, por favor dame de comer: un Estimulante, un Botiquín de Primeros Auxilios, una Aguja Hipodérmica Vacía y un Antídoto de Veneno. ¡Yum Yum!}
-{272}{}{Hacer un Maletín de Doctor. }
-{280}{}{¡Gran elección! Para hacer un Botiquín de Primeros Auxilios, por favor dame de comer: un Estimulante, una Aguja Hipodérmica Vacía, un Antídoto de Veneno y un Rad Away. ¡Yum Yum!}
-{282}{}{Hacer un Botiquín de Primeros Auxilios. }
-{290}{}{¡Gran elección! Para hacer Veneno, por favor dame de comer: ¡una Aguja Hipodérmica Vacía, una Cola de Escorpión y una Nuka Cola! ¡Yum Yum!}
+{270}{}{Â¡Gran elecciÃ³n! Para hacer una MaletÃ­n de Doctor, por favor dame de comer: un Estimulante, un BotiquÃ­n de Primeros Auxilios, una Aguja HipodÃ©rmica VacÃ­a y un AntÃ­doto de Veneno. Â¡Yum Yum!}
+{272}{}{Hacer un MaletÃ­n de Doctor. }
+{280}{}{Â¡Gran elecciÃ³n! Para hacer un BotiquÃ­n de Primeros Auxilios, por favor dame de comer: un Estimulante, una Aguja HipodÃ©rmica VacÃ­a, un AntÃ­doto de Veneno y un Rad Away. Â¡Yum Yum!}
+{282}{}{Hacer un BotiquÃ­n de Primeros Auxilios. }
+{290}{}{Â¡Gran elecciÃ³n! Para hacer Veneno, por favor dame de comer: Â¡una Aguja HipodÃ©rmica VacÃ­a, una Cola de EscorpiÃ³n y una Nuka Cola! Â¡Yum Yum!}
 {292}{}{Hacer algo de veneno.}
-{300}{}{¡Gran elección! Para hacer Esteroides, por favor dame de comer: ¡un Botiquín de Primeros Auxilios, una Botella de Cerveza y una Nuka Cola! ¡Yum Yum!}
+{300}{}{Â¡Gran elecciÃ³n! Para hacer Esteroides, por favor dame de comer: Â¡un BotiquÃ­n de Primeros Auxilios, una Botella de Cerveza y una Nuka Cola! Â¡Yum Yum!}
 {302}{}{Hacer Esteroides.}
-{310}{}{¡Gran elección! Para hacer Rad-X, por favor dame de comer: ¡un Botiquín de Primeros Auxilios y una Nuka Cola! ¡Yum Yum!}
+{310}{}{Â¡Gran elecciÃ³n! Para hacer Rad-X, por favor dame de comer: Â¡un BotiquÃ­n de Primeros Auxilios y una Nuka Cola! Â¡Yum Yum!}
 {312}{}{Hacer Rad-X.}
-{320}{}{¡Gran elección! Para hacer Rad Away, por favor dame de comer: una Nuka Cola, una Aguja Hipodérmica Vacía y un Estimulante. ¡Yum Yum!}
+{320}{}{Â¡Gran elecciÃ³n! Para hacer Rad Away, por favor dame de comer: una Nuka Cola, una Aguja HipodÃ©rmica VacÃ­a y un Estimulante. Â¡Yum Yum!}
 {322}{}{Hacer Rad Away.}
-{330}{}{¡Gran elección! Para hacer un Antídoto de Veneno, por favor dame de comer: ¡una Cola de Escorpión y una Botella de Alcohol! ¡Yum Yum!}
-{331}{}{Hacer antídoto del veneno.}
-{340}{}{¡Oh chico! ¡Una solicitud especial! ¡¿Qué tipo de droga especial te gustaría que el Sr. Chemmie creara para ti hoy?!}
+{330}{}{Â¡Gran elecciÃ³n! Para hacer un AntÃ­doto de Veneno, por favor dame de comer: Â¡una Cola de EscorpiÃ³n y una Botella de Alcohol! Â¡Yum Yum!}
+{331}{}{Hacer antÃ­doto del veneno.}
+{340}{}{Â¡Oh chico! Â¡Una solicitud especial! Â¡Â¿QuÃ© tipo de droga especial te gustarÃ­a que el Sr. Chemmie creara para ti hoy?!}
 {341}{}{Marihuana. }
-{342}{}{Productos químicos de Doctor. }
-{343}{}{Mi amigo Cassidy tiene un problema con su corazón. ¿Puedes hacer algo para ayudarlo?}
-{344}{}{Inhibidores del síndrome de rechazo ambiental.}
-{350}{}{¡Este es tu día de suerte! ¡Tengo suficientes productos químicos en mis tanques de almacenamiento para hacerlos! ¡¿Te gustaría que el Sr. Chemmie los hiciera para ti?!}
+{342}{}{Productos quÃ­micos de Doctor. }
+{343}{}{Mi amigo Cassidy tiene un problema con su corazÃ³n. Â¿Puedes hacer algo para ayudarlo?}
+{344}{}{Inhibidores del sÃ­ndrome de rechazo ambiental.}
+{350}{}{Â¡Este es tu dÃ­a de suerte! Â¡Tengo suficientes productos quÃ­micos en mis tanques de almacenamiento para hacerlos! Â¡Â¿Te gustarÃ­a que el Sr. Chemmie los hiciera para ti?!}
 {351}{}{Crear.}
-{352}{}{Volver al menú principal.}
-{360}{}{¡Uh-oh! Lo siento, ¡pero ya no tengo los productos químicos necesarios para crearlos!}
-{370}{}{¡Selección creada! ¡Eso fue divertido! ¡Recoge el artículo de la máquina! ¡Gracias por usar al Sr. Chemmie! ¡Hagamos drogas otra vez alguna vez!}
-{371}{}{Más Opciones.}
-{375}{}{¡Al Sr. Chemmie le encanta ayudar! ¡Puedo crear una sustancia llamada nitroglicerina, que controlará un latido cardíaco irregular y evitará ataques cardíacos!}
+{352}{}{Volver al menÃº principal.}
+{360}{}{Â¡Uh-oh! Lo siento, Â¡pero ya no tengo los productos quÃ­micos necesarios para crearlos!}
+{370}{}{Â¡SelecciÃ³n creada! Â¡Eso fue divertido! Â¡Recoge el artÃ­culo de la mÃ¡quina! Â¡Gracias por usar al Sr. Chemmie! Â¡Hagamos drogas otra vez alguna vez!}
+{371}{}{MÃ¡s Opciones.}
+{375}{}{Â¡Al Sr. Chemmie le encanta ayudar! Â¡Puedo crear una sustancia llamada nitroglicerina, que controlarÃ¡ un latido cardÃ­aco irregular y evitarÃ¡ ataques cardÃ­acos!}
 {380}{}{Rad-X}
 {381}{}{Rad Away}
 {382}{}{Algo especial}
 {383}{}{Nada.}
-{390}{}{¡Este es tu día de suerte! ¡Tengo suficientes productos químicos en mis tanques de almacenamiento para hacer un lote de ERSI! ¡¿Te gustaría que el señor Chemmie los hiciera para ti?!}
+{390}{}{Â¡Este es tu dÃ­a de suerte! Â¡Tengo suficientes productos quÃ­micos en mis tanques de almacenamiento para hacer un lote de ERSI! Â¡Â¿Te gustarÃ­a que el seÃ±or Chemmie los hiciera para ti?!}
 {391}{}{Crear.}
 {392}{}{Salir.}

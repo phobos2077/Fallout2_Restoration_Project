@@ -1,5 +1,5 @@
-{100}{}{Azon t?n?dsz, hogy ezek a vezetékek vajon a padlóhoz vannak-e csatlakoztatva.}
-{110}{}{Elvágod a vezetékeket, így megszakad az összeköttetés a padlóval.}
-{111}{}{ elvágja a vezetékeket, így megszakad az összeköttetés a padlóval.}
-{120}{}{Fogalmad sincs, melyik vezetéket vágd el.}
-{121}{}{ nem tudja, melyik vezetéket vágja el.}
+{100}{}{Azon t?n?dsz, hogy ezek a vezetÃ©kek vajon a padlÃ³hoz vannak-e csatlakoztatva.}
+{110}{}{ElvÃ¡god a vezetÃ©keket, Ã­gy megszakad az Ã¶sszekÃ¶ttetÃ©s a padlÃ³val.}
+{111}{}{ elvÃ¡gja a vezetÃ©keket, Ã­gy megszakad az Ã¶sszekÃ¶ttetÃ©s a padlÃ³val.}
+{120}{}{Fogalmad sincs, melyik vezetÃ©ket vÃ¡gd el.}
+{121}{}{ nem tudja, melyik vezetÃ©ket vÃ¡gja el.}

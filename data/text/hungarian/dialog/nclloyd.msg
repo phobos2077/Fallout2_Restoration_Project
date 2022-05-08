@@ -1,174 +1,174 @@
-{150}{}{Egy sovány, éhes kinézet? férfi áll itt. Nagyon le van épülve, az állát pedig több napos borosta borítja.}
-{151}{}{? Szépfiú Lloyd.}
-{152}{}{? Szépfiú Lloyd. Bizalmatlanul méreget.}
-{200}{}{El kéne t?nnöm a városból...}
-{210}{}{Ki vagy te? Mit csinálsz idelenn?}
-{211}{}{Már megint te vagy?! Mit csinálsz idelenn?}
+{150}{}{Egy sovÃ¡ny, Ã©hes kinÃ©zet? fÃ©rfi Ã¡ll itt. Nagyon le van Ã©pÃ¼lve, az Ã¡llÃ¡t pedig tÃ¶bb napos borosta borÃ­tja.}
+{151}{}{? SzÃ©pfiÃº Lloyd.}
+{152}{}{? SzÃ©pfiÃº Lloyd. Bizalmatlanul mÃ©reget.}
+{200}{}{El kÃ©ne t?nnÃ¶m a vÃ¡rosbÃ³l...}
+{210}{}{Ki vagy te? Mit csinÃ¡lsz idelenn?}
+{211}{}{MÃ¡r megint te vagy?! Mit csinÃ¡lsz idelenn?}
 {212}{}{Semmitsenem kedves}
-{213}{}{Én }
-{214}{}{Elpályázol}
-{215}{}{TE mit csinálsz idelenn?}
-{216}{}{Nyugodtság, barátom! Ha sikerült lenyugodni, beszélhetünk. Minden rendben van?}
-{217}{}{Te Lloyd vagy? Szépfiú Lloyd?}
-{218}{}{Semmi különöset. Csak körbenézek itt. Csá...}
-{225}{}{Hát akkor t?nj innen! És meg ne mondd senkinek, hogy találkoztunk, hallod-e!}
-{226}{}{Én itten. Most menek elfele!}
-{230}{}{Semmi közöd hozzá... barátom. Javaslom, hogy szépen menj vissza azon a lépcs?n és felejtsd el, hogy valaha is találkoztunk.}
-{231}{}{Én felejt. Fel-lejt, Fél-lejt... ööö... mit is felejt?}
+{213}{}{Ã‰n }
+{214}{}{ElpÃ¡lyÃ¡zol}
+{215}{}{TE mit csinÃ¡lsz idelenn?}
+{216}{}{NyugodtsÃ¡g, barÃ¡tom! Ha sikerÃ¼lt lenyugodni, beszÃ©lhetÃ¼nk. Minden rendben van?}
+{217}{}{Te Lloyd vagy? SzÃ©pfiÃº Lloyd?}
+{218}{}{Semmi kÃ¼lÃ¶nÃ¶set. Csak kÃ¶rbenÃ©zek itt. CsÃ¡...}
+{225}{}{HÃ¡t akkor t?nj innen! Ã‰s meg ne mondd senkinek, hogy talÃ¡lkoztunk, hallod-e!}
+{226}{}{Ã‰n itten. Most menek elfele!}
+{230}{}{Semmi kÃ¶zÃ¶d hozzÃ¡... barÃ¡tom. Javaslom, hogy szÃ©pen menj vissza azon a lÃ©pcs?n Ã©s felejtsd el, hogy valaha is talÃ¡lkoztunk.}
+{231}{}{Ã‰n felejt. Fel-lejt, FÃ©l-lejt... Ã¶Ã¶Ã¶... mit is felejt?}
 {232}{}{Oki Doki}
-{233}{}{Nem nagyon izgat, mit javasolsz... barátom. Szóval mi is itt a tényálladék?}
-{234}{}{Nagyon olyan ember benyomását kelted, mint aki bajban van. Esetleg segíthetnék.}
-{235}{}{Olyan embernek t?nsz, aki nagyra értékeli a magányt. Egy olyan beszédes embernek, mint én, drága mulatság lenne rólad megfeledkezni.}
+{233}{}{Nem nagyon izgat, mit javasolsz... barÃ¡tom. SzÃ³val mi is itt a tÃ©nyÃ¡lladÃ©k?}
+{234}{}{Nagyon olyan ember benyomÃ¡sÃ¡t kelted, mint aki bajban van. Esetleg segÃ­thetnÃ©k.}
+{235}{}{Olyan embernek t?nsz, aki nagyra Ã©rtÃ©keli a magÃ¡nyt. Egy olyan beszÃ©des embernek, mint Ã©n, drÃ¡ga mulatsÃ¡g lenne rÃ³lad megfeledkezni.}
 {236}{}{All right then... sorry to bother you.}
-{245}{}{Probléma? Itt áll el?ttem a probléma.}
-{246}{}{Nem akarom még egyszer mondani, barátom: Menj innen!}
-{247}{}{Nem akarom még egyszer mondani, édesem: Menj innen!}
-{248}{}{Te *fenyegetsz* engem? Nagyon gondold meg, mit válaszolsz!}
-{255}{}{Probléma? Nincs itt semmiféle probléma, barátom. Egyszer?en egy kis magányra vágyom.}
-{256}{}{Probléma? Nincs itt semmiféle probléma, édesem. Egyszer?en egy kis magányra vágyom.}
-{257}{}{Probléma? Nincs itt semmiféle probléma. Csak egy kis magányra vágyom. Igaz, ami igaz... nem volt szép t?lem egy ilyen csinos hölgyet olyan durván elutasítani.}
-{258}{}{Azt hiszem, neked van itt problémád! Ez a nagy magány el?segíti, hogy ne nagyon hallják, mi folyik idelenn. Lehet, hogy csak egyszer?en megöllek, mit szólsz?}
-{260}{}{Egy ilyen beszédes embernek, mint jómagam, a magány igen költséges mulatság lehet.}
+{245}{}{ProblÃ©ma? Itt Ã¡ll el?ttem a problÃ©ma.}
+{246}{}{Nem akarom mÃ©g egyszer mondani, barÃ¡tom: Menj innen!}
+{247}{}{Nem akarom mÃ©g egyszer mondani, Ã©desem: Menj innen!}
+{248}{}{Te *fenyegetsz* engem? Nagyon gondold meg, mit vÃ¡laszolsz!}
+{255}{}{ProblÃ©ma? Nincs itt semmifÃ©le problÃ©ma, barÃ¡tom. Egyszer?en egy kis magÃ¡nyra vÃ¡gyom.}
+{256}{}{ProblÃ©ma? Nincs itt semmifÃ©le problÃ©ma, Ã©desem. Egyszer?en egy kis magÃ¡nyra vÃ¡gyom.}
+{257}{}{ProblÃ©ma? Nincs itt semmifÃ©le problÃ©ma. Csak egy kis magÃ¡nyra vÃ¡gyom. Igaz, ami igaz... nem volt szÃ©p t?lem egy ilyen csinos hÃ¶lgyet olyan durvÃ¡n elutasÃ­tani.}
+{258}{}{Azt hiszem, neked van itt problÃ©mÃ¡d! Ez a nagy magÃ¡ny el?segÃ­ti, hogy ne nagyon halljÃ¡k, mi folyik idelenn. Lehet, hogy csak egyszer?en megÃ¶llek, mit szÃ³lsz?}
+{260}{}{Egy ilyen beszÃ©des embernek, mint jÃ³magam, a magÃ¡ny igen kÃ¶ltsÃ©ges mulatsÃ¡g lehet.}
 {261}{}{Rendben van. Bocs, hogy zavartalak.}
 {262}{}{Igazad van. Durva volt. Most viszont itthagylak.}
-{270}{}{(Besz?külnek a szemei.) }
-{271}{}{Ha azért jöttél ide, hogy bajt keverj, megütötted a f?nyereményt, barátom! }
-{272}{}{Ha azért jöttél ide, hogy bajt keverj, megütötted a f?nyereményt, édesem! }
-{273}{}{Remélem, végeztél a tiszteleted kimutatásával...}
-{274}{}{Bajt akarsz? Hát most MEGKA...}
-{283}{}{Ööö... nézd... én nem fenyegetek senkit, és egyáltalán nem keresem a bajt.}
-{284}{}{Azt hiszem, neked van itt problémád! Ez a nagy magány el?segíti, hogy ne nagyon halljanak itt rólam. Lehet, hogy csak egyszer?en megöllek, mit szólsz?}
-{285}{}{Olyan embernek t?nsz, mint aki bajban van, talán segíthetnék. Mit szólsz hozzá?}
-{286}{}{Olyan embernek t?nsz, aki nagyra értékeli a magányt. Egy olyan beszédes embernek, mint én, drága mulatság lenne rólad megfeledkezni.}
+{270}{}{(Besz?kÃ¼lnek a szemei.) }
+{271}{}{Ha azÃ©rt jÃ¶ttÃ©l ide, hogy bajt keverj, megÃ¼tÃ¶tted a f?nyeremÃ©nyt, barÃ¡tom! }
+{272}{}{Ha azÃ©rt jÃ¶ttÃ©l ide, hogy bajt keverj, megÃ¼tÃ¶tted a f?nyeremÃ©nyt, Ã©desem! }
+{273}{}{RemÃ©lem, vÃ©geztÃ©l a tiszteleted kimutatÃ¡sÃ¡val...}
+{274}{}{Bajt akarsz? HÃ¡t most MEGKA...}
+{283}{}{Ã–Ã¶Ã¶... nÃ©zd... Ã©n nem fenyegetek senkit, Ã©s egyÃ¡ltalÃ¡n nem keresem a bajt.}
+{284}{}{Azt hiszem, neked van itt problÃ©mÃ¡d! Ez a nagy magÃ¡ny el?segÃ­ti, hogy ne nagyon halljanak itt rÃ³lam. Lehet, hogy csak egyszer?en megÃ¶llek, mit szÃ³lsz?}
+{285}{}{Olyan embernek t?nsz, mint aki bajban van, talÃ¡n segÃ­thetnÃ©k. Mit szÃ³lsz hozzÃ¡?}
+{286}{}{Olyan embernek t?nsz, aki nagyra Ã©rtÃ©keli a magÃ¡nyt. Egy olyan beszÃ©des embernek, mint Ã©n, drÃ¡ga mulatsÃ¡g lenne rÃ³lad megfeledkezni.}
 {287}{}{All right then... sorry to bother you.}
-{295}{}{Ööö... hát... izé... nincs szükség az ilyen beszédre. Talán társaloghatnánk MÁSRÓL is. Lloyd barátod miben segíthet neked?}
-{296}{}{Érdekel a dolog. Folytasd csak, amit elkezdtél!}
-{297}{}{Nem érdekel az egész. Megyek is.}
-{298}{}{Felejtsd el, Lloyd! Ütött az óra. Készülj a halálra!}
-{305}{}{(A férfi elsápad. Nagyot nyel... aztán rádveti magát!)}
+{295}{}{Ã–Ã¶Ã¶... hÃ¡t... izÃ©... nincs szÃ¼ksÃ©g az ilyen beszÃ©dre. TalÃ¡n tÃ¡rsaloghatnÃ¡nk MÃSRÃ“L is. Lloyd barÃ¡tod miben segÃ­thet neked?}
+{296}{}{Ã‰rdekel a dolog. Folytasd csak, amit elkezdtÃ©l!}
+{297}{}{Nem Ã©rdekel az egÃ©sz. Megyek is.}
+{298}{}{Felejtsd el, Lloyd! ÃœtÃ¶tt az Ã³ra. KÃ©szÃ¼lj a halÃ¡lra!}
+{305}{}{(A fÃ©rfi elsÃ¡pad. Nagyot nyel... aztÃ¡n rÃ¡dveti magÃ¡t!)}
 {306}{}{Mocskos kiba...}
-{315}{}{Van nálam egy kis lóvé... talán egy kevéske pénz megtisztítja a köztünk lév? mérgezett leveg?t, és civil mederben tartja a beszélgetést. Mit szólsz?}
-{316}{}{Remek. Adj át mindent, ami nálad van!}
-{318}{}{Tartsd meg a pénzed! Húzok innen.}
-{325}{}{Jól van akkor, jól van... (Belenyúl a zsebébe, el?vesz némi pénzt, és átnyújtja.) ...most, hogy megkaptad a pénzem, mit szólnál, ha felmennél azon a lépcs?n és békén hagynád Lloydot, he?}
-{326}{}{Lehet, hogy süket vagy. AZT MONDTAM, mindent adj oda, amid van!}
-{327}{}{Oké. Legyen. Miután megöltelek.}
-{328}{}{Jól van akkor, most szépen elmegyek.}
-{335}{}{Ööö, az a helyzet... hogy semmi egyebem nem maradt ezen a világon. Nincs más nálam. Odaadtam mindent.}
-{336}{}{Ne szívass, Lloyd! TUDOM, hogy van még más is. Ravasz gyerek vagy te. Az utolsó esélyt adom: hol van a többi?}
-{337}{}{Hát majd meglátjuk, Lloyd. Meglátjuk, mit találok, ha átkutatom majd a holttestedet.}
-{345}{}{Azt mondtam... ehhh... na mindegy... tudom, hol találhatsz több pénzt... persze, nem az enyém, és nagyobb bajt jelent, mint amennyit ér az egész... de hát ha igényt tartasz rá, a tied lehet.}
-{346}{}{Talán tudok egy helyet, ahol több pénzt találhatsz... persze, nem az enyém, és nagyobb bajt jelent, mint amennyit ér az egész... de hát ha igényt tartasz rá, a tied lehet.}
-{347}{}{Csak mondd tovább, és legyen ugyanolyan érdekes, mint eddig!}
-{348}{}{Igazság szerint csak vicceltem, amikor egy utolsó esélyr?l beszéltem, Lloyd. Egyszer?en megöllek, aztán majd odafent szétválogatnak.}
-{349}{}{Nem érdekel ez a kétszín? brahminfos duma. Megyek a fenébe.}
-{355}{}{Na, jó... a cucc a Renótól délre lév? Golgota mez?n van elásva az egyik sírhalom mélyére. Mellesleg, egyedül én tudom, hol van.}
+{315}{}{Van nÃ¡lam egy kis lÃ³vÃ©... talÃ¡n egy kevÃ©ske pÃ©nz megtisztÃ­tja a kÃ¶ztÃ¼nk lÃ©v? mÃ©rgezett leveg?t, Ã©s civil mederben tartja a beszÃ©lgetÃ©st. Mit szÃ³lsz?}
+{316}{}{Remek. Adj Ã¡t mindent, ami nÃ¡lad van!}
+{318}{}{Tartsd meg a pÃ©nzed! HÃºzok innen.}
+{325}{}{JÃ³l van akkor, jÃ³l van... (BelenyÃºl a zsebÃ©be, el?vesz nÃ©mi pÃ©nzt, Ã©s Ã¡tnyÃºjtja.) ...most, hogy megkaptad a pÃ©nzem, mit szÃ³lnÃ¡l, ha felmennÃ©l azon a lÃ©pcs?n Ã©s bÃ©kÃ©n hagynÃ¡d Lloydot, he?}
+{326}{}{Lehet, hogy sÃ¼ket vagy. AZT MONDTAM, mindent adj oda, amid van!}
+{327}{}{OkÃ©. Legyen. MiutÃ¡n megÃ¶ltelek.}
+{328}{}{JÃ³l van akkor, most szÃ©pen elmegyek.}
+{335}{}{Ã–Ã¶Ã¶, az a helyzet... hogy semmi egyebem nem maradt ezen a vilÃ¡gon. Nincs mÃ¡s nÃ¡lam. Odaadtam mindent.}
+{336}{}{Ne szÃ­vass, Lloyd! TUDOM, hogy van mÃ©g mÃ¡s is. Ravasz gyerek vagy te. Az utolsÃ³ esÃ©lyt adom: hol van a tÃ¶bbi?}
+{337}{}{HÃ¡t majd meglÃ¡tjuk, Lloyd. MeglÃ¡tjuk, mit talÃ¡lok, ha Ã¡tkutatom majd a holttestedet.}
+{345}{}{Azt mondtam... ehhh... na mindegy... tudom, hol talÃ¡lhatsz tÃ¶bb pÃ©nzt... persze, nem az enyÃ©m, Ã©s nagyobb bajt jelent, mint amennyit Ã©r az egÃ©sz... de hÃ¡t ha igÃ©nyt tartasz rÃ¡, a tied lehet.}
+{346}{}{TalÃ¡n tudok egy helyet, ahol tÃ¶bb pÃ©nzt talÃ¡lhatsz... persze, nem az enyÃ©m, Ã©s nagyobb bajt jelent, mint amennyit Ã©r az egÃ©sz... de hÃ¡t ha igÃ©nyt tartasz rÃ¡, a tied lehet.}
+{347}{}{Csak mondd tovÃ¡bb, Ã©s legyen ugyanolyan Ã©rdekes, mint eddig!}
+{348}{}{IgazsÃ¡g szerint csak vicceltem, amikor egy utolsÃ³ esÃ©lyr?l beszÃ©ltem, Lloyd. Egyszer?en megÃ¶llek, aztÃ¡n majd odafent szÃ©tvÃ¡logatnak.}
+{349}{}{Nem Ã©rdekel ez a kÃ©tszÃ­n? brahminfos duma. Megyek a fenÃ©be.}
+{355}{}{Na, jÃ³... a cucc a RenÃ³tÃ³l dÃ©lre lÃ©v? Golgota mez?n van elÃ¡sva az egyik sÃ­rhalom mÃ©lyÃ©re. Mellesleg, egyedÃ¼l Ã©n tudom, hol van.}
 {357}{}{Mondd el!}
-{358}{}{Ez a legnagyobb létez?... a francba, egyszer?en megöllek, Lloyd, aztán majd odafent szétválogatnak.}
-{359}{}{Na, felejtsd el ezt a lószart, megyek innen!}
-{365}{}{Állj szembe az útjelz?vel a Golgota útkeresztez?désben, menj észak-nyugat felé a harmadik sírig, aztán haladj észak-keleti irányba az els? karóig. Van a közelében egy sír, "Arch Stanton" felirattal. Ha kb. hat láb mélyre leásol, megtalálod.}
-{366}{}{Álljunk szembe az útjelz?vel, észak-nyugat felé menjünk a harmadik sírig, aztán menet észak-keletre az els? karóig, és keressük "Arch Stanton"-t... Rendben van, Lloyd, menjünk! Valakinek ugye ásni is kell.}
-{367}{}{Jól van akkor, megyek innen. Te is vedd a sátorfádat! (Hagyod, hogy Lloyd elmenjen.)}
-{368}{}{Ennél többet nem akartam tudni... majd reggel eltemetnek téged a sírnál.}
-{375}{}{(Lloyd szemlátomást mondani akar valamit, de aztán meggondolja magát, és bólint.) Értem én. Úgy t?nik, nincs sok választásom. Menjünk!}
-{376}{}{El?bb el kell intéznem egy-két dolgot. Várj itt, és egy órán belül visszajövök. (Otthagyod, elbújsz a küls? szobában és megnézed, vajon Lloyd elmegy-e.)}
-{377}{}{El?bb el kell intéznem egy-két dolgot. Várj itt, hamarosan visszajövök. }
-{378}{}{Szorosan mögötted jövök.}
-{385}{}{Hmmmmm. Nem ismerlek, barátom... de ezen szívesen változtatnék. A nevem Lloyd. Néhányan Szépfiú Lloydnak szólítanak, de ez az ? dolguk.}
-{386}{}{Hmmmmm. Nem ismerlek, kedvesem... de ezen szívesen változtatnék. A nevem Lloyd. Néhányan Szépfiú Lloydnak szólítanak, de ez az ? dolguk.}
-{387}{}{Hmmmmm. Nem vagyok akkora marha, hogy egy szépséges n? segítségét visszautasítsam. A nevem Lloyd. Néhányan Szépfiú Lloydnak szólítanak, de ez az ? dolguk.}
-{388}{}{Örülök, hogy találkoztunk. Nos... mi a helyzet az ajánlatommal...?}
-{395}{}{A Salvatore családnak és nekem volt egy kis... nézeteltérésünk a kártyaasztalnál felmutatott sikereim miatt. Az egyetlen megoldás úgy t?nik az, hogy minél messzebb húzok New Renóból.}
-{396}{}{A kártyaasztalnál felmutatott sikereid miatt? Mégis mennyit nyertél, Lloyd barátom?}
-{397}{}{És én mégis hogy segíthetek ebben?}
+{358}{}{Ez a legnagyobb lÃ©tez?... a francba, egyszer?en megÃ¶llek, Lloyd, aztÃ¡n majd odafent szÃ©tvÃ¡logatnak.}
+{359}{}{Na, felejtsd el ezt a lÃ³szart, megyek innen!}
+{365}{}{Ãllj szembe az Ãºtjelz?vel a Golgota Ãºtkeresztez?dÃ©sben, menj Ã©szak-nyugat felÃ© a harmadik sÃ­rig, aztÃ¡n haladj Ã©szak-keleti irÃ¡nyba az els? karÃ³ig. Van a kÃ¶zelÃ©ben egy sÃ­r, "Arch Stanton" felirattal. Ha kb. hat lÃ¡b mÃ©lyre leÃ¡sol, megtalÃ¡lod.}
+{366}{}{Ãlljunk szembe az Ãºtjelz?vel, Ã©szak-nyugat felÃ© menjÃ¼nk a harmadik sÃ­rig, aztÃ¡n menet Ã©szak-keletre az els? karÃ³ig, Ã©s keressÃ¼k "Arch Stanton"-t... Rendben van, Lloyd, menjÃ¼nk! Valakinek ugye Ã¡sni is kell.}
+{367}{}{JÃ³l van akkor, megyek innen. Te is vedd a sÃ¡torfÃ¡dat! (Hagyod, hogy Lloyd elmenjen.)}
+{368}{}{EnnÃ©l tÃ¶bbet nem akartam tudni... majd reggel eltemetnek tÃ©ged a sÃ­rnÃ¡l.}
+{375}{}{(Lloyd szemlÃ¡tomÃ¡st mondani akar valamit, de aztÃ¡n meggondolja magÃ¡t, Ã©s bÃ³lint.) Ã‰rtem Ã©n. Ãšgy t?nik, nincs sok vÃ¡lasztÃ¡som. MenjÃ¼nk!}
+{376}{}{El?bb el kell intÃ©znem egy-kÃ©t dolgot. VÃ¡rj itt, Ã©s egy Ã³rÃ¡n belÃ¼l visszajÃ¶vÃ¶k. (Otthagyod, elbÃºjsz a kÃ¼ls? szobÃ¡ban Ã©s megnÃ©zed, vajon Lloyd elmegy-e.)}
+{377}{}{El?bb el kell intÃ©znem egy-kÃ©t dolgot. VÃ¡rj itt, hamarosan visszajÃ¶vÃ¶k. }
+{378}{}{Szorosan mÃ¶gÃ¶tted jÃ¶vÃ¶k.}
+{385}{}{Hmmmmm. Nem ismerlek, barÃ¡tom... de ezen szÃ­vesen vÃ¡ltoztatnÃ©k. A nevem Lloyd. NÃ©hÃ¡nyan SzÃ©pfiÃº Lloydnak szÃ³lÃ­tanak, de ez az ? dolguk.}
+{386}{}{Hmmmmm. Nem ismerlek, kedvesem... de ezen szÃ­vesen vÃ¡ltoztatnÃ©k. A nevem Lloyd. NÃ©hÃ¡nyan SzÃ©pfiÃº Lloydnak szÃ³lÃ­tanak, de ez az ? dolguk.}
+{387}{}{Hmmmmm. Nem vagyok akkora marha, hogy egy szÃ©psÃ©ges n? segÃ­tsÃ©gÃ©t visszautasÃ­tsam. A nevem Lloyd. NÃ©hÃ¡nyan SzÃ©pfiÃº Lloydnak szÃ³lÃ­tanak, de ez az ? dolguk.}
+{388}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk. Nos... mi a helyzet az ajÃ¡nlatommal...?}
+{395}{}{A Salvatore csalÃ¡dnak Ã©s nekem volt egy kis... nÃ©zeteltÃ©rÃ©sÃ¼nk a kÃ¡rtyaasztalnÃ¡l felmutatott sikereim miatt. Az egyetlen megoldÃ¡s Ãºgy t?nik az, hogy minÃ©l messzebb hÃºzok New RenÃ³bÃ³l.}
+{396}{}{A kÃ¡rtyaasztalnÃ¡l felmutatott sikereid miatt? MÃ©gis mennyit nyertÃ©l, Lloyd barÃ¡tom?}
+{397}{}{Ã‰s Ã©n mÃ©gis hogy segÃ­thetek ebben?}
 {398}{}{Mi esik le nekem ebb?l?}
-{399}{}{Nem hinném, hogy tudnék segíteni, Lloyd. Szerintem felejtsük el, hogy valaha találkoztunk. Légy jó.}
-{405}{}{Hmmmm... elég jól felszereltnek t?nsz, hogy akár test?r is lehess. Segíts kijutnom a városból! Vezess el, kérlek, a délen fekv? Golgota mez?höz, és kapsz t?lem némi pénzt a fáradozásodért!}
-{407}{}{Legyen. Menjünk! (Utána mész.)}
-{415}{}{(Elsápad, aztán összeszedi magát.) Éppen eleget, hogy berágjanak. A legjavát Salvatore keményfiúinak megvesztegetésére költöttem, hogy egyáltalán le tudjak ide jönni és elbújni. Nagyon félek kimenni a városba...}
-{416}{}{(Meglep?dik, aztán összeszedi magát.) Éppen eleget, hogy berágjanak. A legjavát Salvatore keményfiúinak megvesztegetésére költöttem, hogy egyáltalán le tudjak ide jönni és elbújni. Nagyon félek kimenni a városba...}
-{417}{}{Segítek, de a nyeremény felét magamnak akarom, Lloyd. Ha kedves az életed, ne verj át!}
-{418}{}{Ha a nyeremény felét átadod, segítek neked, Lloyd. Szerintem ez méltányos ár, hogy egy darabban kijuss a városból.}
-{419}{}{Rendben, segítek. T?njünk innen! (Utána mész.)}
-{420}{}{Nem hinném, hogy tudnék segíteni, Lloyd. Viszlát!}
-{425}{}{(Lloyd szemlátomást mondani akar valamit, de aztán meggondolja magát, és rábólint.) Úgy t?nik, nincs sok választásom. Menjünk!}
-{427}{}{Nem, itt vársz szép csendben, amíg vissza nem jövök. Le kell rendeznem még egy-két dolgot, aztán mehetünk.}
-{435}{}{(H?vösebb lesz a modora.) Esetleg. Ki is vagy te? Nem emlékszem, hogy találkoztunk volna...}
-{436}{}{(H?vösebb lesz a modora, aztán felhúzza a szemöldökét) Esetleg. Biztos vagyok benne, hogy emlékeznék rád, kis hölgy. Nem emlékszem, hogy találkoztunk volna.}
-{437}{}{Ne szarakodj, Lloyd! Azért a pénzért jöttem, amit Mr. Salvatorétól loptál el!}
-{438}{}{Figyelj rám, Lloyd! Add át a pénzt, és amíg meghúzod magad, hajlandó vagyok elfelejteni, hogy valaha is láttalak!}
-{439}{}{Lloyd, Mr. Salvatore azért küldött hozzád, hogy visszakapja a pénzét és... példát statuáljak rajtad. Ha mi ketten egyezségre tudunk jutni, ennek nem feltétlenül kell így történnie...}
-{445}{}{Rendben... rendben van... (Nyel egyet.) A pénz a Renótól délre fekv? Golgotán van elásva az egyik sírba. Persze csakis én tudom, hol van pontosan.}
+{399}{}{Nem hinnÃ©m, hogy tudnÃ©k segÃ­teni, Lloyd. Szerintem felejtsÃ¼k el, hogy valaha talÃ¡lkoztunk. LÃ©gy jÃ³.}
+{405}{}{Hmmmm... elÃ©g jÃ³l felszereltnek t?nsz, hogy akÃ¡r test?r is lehess. SegÃ­ts kijutnom a vÃ¡rosbÃ³l! Vezess el, kÃ©rlek, a dÃ©len fekv? Golgota mez?hÃ¶z, Ã©s kapsz t?lem nÃ©mi pÃ©nzt a fÃ¡radozÃ¡sodÃ©rt!}
+{407}{}{Legyen. MenjÃ¼nk! (UtÃ¡na mÃ©sz.)}
+{415}{}{(ElsÃ¡pad, aztÃ¡n Ã¶sszeszedi magÃ¡t.) Ã‰ppen eleget, hogy berÃ¡gjanak. A legjavÃ¡t Salvatore kemÃ©nyfiÃºinak megvesztegetÃ©sÃ©re kÃ¶ltÃ¶ttem, hogy egyÃ¡ltalÃ¡n le tudjak ide jÃ¶nni Ã©s elbÃºjni. Nagyon fÃ©lek kimenni a vÃ¡rosba...}
+{416}{}{(Meglep?dik, aztÃ¡n Ã¶sszeszedi magÃ¡t.) Ã‰ppen eleget, hogy berÃ¡gjanak. A legjavÃ¡t Salvatore kemÃ©nyfiÃºinak megvesztegetÃ©sÃ©re kÃ¶ltÃ¶ttem, hogy egyÃ¡ltalÃ¡n le tudjak ide jÃ¶nni Ã©s elbÃºjni. Nagyon fÃ©lek kimenni a vÃ¡rosba...}
+{417}{}{SegÃ­tek, de a nyeremÃ©ny felÃ©t magamnak akarom, Lloyd. Ha kedves az Ã©leted, ne verj Ã¡t!}
+{418}{}{Ha a nyeremÃ©ny felÃ©t Ã¡tadod, segÃ­tek neked, Lloyd. Szerintem ez mÃ©ltÃ¡nyos Ã¡r, hogy egy darabban kijuss a vÃ¡rosbÃ³l.}
+{419}{}{Rendben, segÃ­tek. T?njÃ¼nk innen! (UtÃ¡na mÃ©sz.)}
+{420}{}{Nem hinnÃ©m, hogy tudnÃ©k segÃ­teni, Lloyd. ViszlÃ¡t!}
+{425}{}{(Lloyd szemlÃ¡tomÃ¡st mondani akar valamit, de aztÃ¡n meggondolja magÃ¡t, Ã©s rÃ¡bÃ³lint.) Ãšgy t?nik, nincs sok vÃ¡lasztÃ¡som. MenjÃ¼nk!}
+{427}{}{Nem, itt vÃ¡rsz szÃ©p csendben, amÃ­g vissza nem jÃ¶vÃ¶k. Le kell rendeznem mÃ©g egy-kÃ©t dolgot, aztÃ¡n mehetÃ¼nk.}
+{435}{}{(H?vÃ¶sebb lesz a modora.) Esetleg. Ki is vagy te? Nem emlÃ©kszem, hogy talÃ¡lkoztunk volna...}
+{436}{}{(H?vÃ¶sebb lesz a modora, aztÃ¡n felhÃºzza a szemÃ¶ldÃ¶kÃ©t) Esetleg. Biztos vagyok benne, hogy emlÃ©keznÃ©k rÃ¡d, kis hÃ¶lgy. Nem emlÃ©kszem, hogy talÃ¡lkoztunk volna.}
+{437}{}{Ne szarakodj, Lloyd! AzÃ©rt a pÃ©nzÃ©rt jÃ¶ttem, amit Mr. SalvatorÃ©tÃ³l loptÃ¡l el!}
+{438}{}{Figyelj rÃ¡m, Lloyd! Add Ã¡t a pÃ©nzt, Ã©s amÃ­g meghÃºzod magad, hajlandÃ³ vagyok elfelejteni, hogy valaha is lÃ¡ttalak!}
+{439}{}{Lloyd, Mr. Salvatore azÃ©rt kÃ¼ldÃ¶tt hozzÃ¡d, hogy visszakapja a pÃ©nzÃ©t Ã©s... pÃ©ldÃ¡t statuÃ¡ljak rajtad. Ha mi ketten egyezsÃ©gre tudunk jutni, ennek nem feltÃ©tlenÃ¼l kell Ã­gy tÃ¶rtÃ©nnie...}
+{445}{}{Rendben... rendben van... (Nyel egyet.) A pÃ©nz a RenÃ³tÃ³l dÃ©lre fekv? GolgotÃ¡n van elÃ¡sva az egyik sÃ­rba. Persze csakis Ã©n tudom, hol van pontosan.}
 {446}{}{Vezess oda!}
-{448}{}{Ez a legnagyobb... a francba, egyszer?en kinyírlak és megkeresem magam a lóvét!}
-{455}{}{Hmmmmmm. Nem hinném, hogy bármelyikünk is igazán hisz ebben.. (Nyel egyet.) Persze lehet, hogy bízhatok benned. A pénz a Renótól délre fekv? Golgotán van elásva az egyik sírba. Persze csakis én tudom, hol van pontosan.}
-{459}{}{Na, felejtsük el ezt a szarságot! Megyek a fenébe! Tartsd meg a pénzedet, a titkodat, és t?nj el a szemem el?l!}
-{465}{}{Hmmmm. Szóval egyezséget ajánlasz... rendben, rendben... mégis mit akarsz?}
-{466}{}{A Mr. Salvatorétól elnyert pénz feléért kiviszlek a városból, Lloyd.}
-{467}{}{A Mr. Salvatorétól elnyert pénzért kiviszlek a városból, Lloyd.}
-{468}{}{Áh, hagyjuk, nem akarok semmit. Húzd el a csíkot, miel?tt meggondolom magam! (Úgy teszel, mintha távoznál, de ehelyett elbújsz és követed.)}
-{469}{}{Áh, hagyjuk, nem akarok semmit. Húzd el a csíkot, miel?tt meggondolom magam!}
-{475}{}{Hát... hmmmm... úgy t?nik, nincs választásom. Elviszlek oda, ahol a cuccos el van ásva. Egyedül sosem találnád meg. Menjünk!}
-{476}{}{El?bb el kell intéznem egy-két ügyet. Várj itt, visszajövök egy órán belül! (Úgy teszel, mintha távoznál, de ehelyett elbújsz és követed.)}
-{477}{}{Nem, itt vársz szép csendben, amíg vissza nem jövök! Le kell rendeznem még egy-két dolgot, aztán mehetünk.}
-{478}{}{Közvetlenül a sarkadban leszek. (Követed ?t.)}
-{555}{}{(Összerezzen.) Ööö... mehetünk?}
-{556}{}{Igen. Mehetünk. (Utána mész.)}
-{557}{}{Nem, itt vársz szép csendben, amíg vissza nem jövök. El?bb el kell intéznem egy-két ügyet.}
-{565}{}{Ami az ajánlatodat illeti, ELKELNE egy kis segítség. Bizony ki kéne jutnom a városból, de a dolgok egy kicsit összezavarodtak, amióta... történt egy sajnálatos félreértés...}
-{566}{}{Miféle félreértésr?l beszélsz?}
-{585}{}{Itt az id?, hogy elhúzzunk Renóból...}
-{586}{}{Francos láda...}
-{587}{}{Nehezebb, mint amire emlékeztem...}
+{448}{}{Ez a legnagyobb... a francba, egyszer?en kinyÃ­rlak Ã©s megkeresem magam a lÃ³vÃ©t!}
+{455}{}{Hmmmmmm. Nem hinnÃ©m, hogy bÃ¡rmelyikÃ¼nk is igazÃ¡n hisz ebben.. (Nyel egyet.) Persze lehet, hogy bÃ­zhatok benned. A pÃ©nz a RenÃ³tÃ³l dÃ©lre fekv? GolgotÃ¡n van elÃ¡sva az egyik sÃ­rba. Persze csakis Ã©n tudom, hol van pontosan.}
+{459}{}{Na, felejtsÃ¼k el ezt a szarsÃ¡got! Megyek a fenÃ©be! Tartsd meg a pÃ©nzedet, a titkodat, Ã©s t?nj el a szemem el?l!}
+{465}{}{Hmmmm. SzÃ³val egyezsÃ©get ajÃ¡nlasz... rendben, rendben... mÃ©gis mit akarsz?}
+{466}{}{A Mr. SalvatorÃ©tÃ³l elnyert pÃ©nz felÃ©Ã©rt kiviszlek a vÃ¡rosbÃ³l, Lloyd.}
+{467}{}{A Mr. SalvatorÃ©tÃ³l elnyert pÃ©nzÃ©rt kiviszlek a vÃ¡rosbÃ³l, Lloyd.}
+{468}{}{Ãh, hagyjuk, nem akarok semmit. HÃºzd el a csÃ­kot, miel?tt meggondolom magam! (Ãšgy teszel, mintha tÃ¡voznÃ¡l, de ehelyett elbÃºjsz Ã©s kÃ¶veted.)}
+{469}{}{Ãh, hagyjuk, nem akarok semmit. HÃºzd el a csÃ­kot, miel?tt meggondolom magam!}
+{475}{}{HÃ¡t... hmmmm... Ãºgy t?nik, nincs vÃ¡lasztÃ¡som. Elviszlek oda, ahol a cuccos el van Ã¡sva. EgyedÃ¼l sosem talÃ¡lnÃ¡d meg. MenjÃ¼nk!}
+{476}{}{El?bb el kell intÃ©znem egy-kÃ©t Ã¼gyet. VÃ¡rj itt, visszajÃ¶vÃ¶k egy Ã³rÃ¡n belÃ¼l! (Ãšgy teszel, mintha tÃ¡voznÃ¡l, de ehelyett elbÃºjsz Ã©s kÃ¶veted.)}
+{477}{}{Nem, itt vÃ¡rsz szÃ©p csendben, amÃ­g vissza nem jÃ¶vÃ¶k! Le kell rendeznem mÃ©g egy-kÃ©t dolgot, aztÃ¡n mehetÃ¼nk.}
+{478}{}{KÃ¶zvetlenÃ¼l a sarkadban leszek. (KÃ¶veted ?t.)}
+{555}{}{(Ã–sszerezzen.) Ã–Ã¶Ã¶... mehetÃ¼nk?}
+{556}{}{Igen. MehetÃ¼nk. (UtÃ¡na mÃ©sz.)}
+{557}{}{Nem, itt vÃ¡rsz szÃ©p csendben, amÃ­g vissza nem jÃ¶vÃ¶k. El?bb el kell intÃ©znem egy-kÃ©t Ã¼gyet.}
+{565}{}{Ami az ajÃ¡nlatodat illeti, ELKELNE egy kis segÃ­tsÃ©g. Bizony ki kÃ©ne jutnom a vÃ¡rosbÃ³l, de a dolgok egy kicsit Ã¶sszezavarodtak, amiÃ³ta... tÃ¶rtÃ©nt egy sajnÃ¡latos fÃ©lreÃ©rtÃ©s...}
+{566}{}{MifÃ©le fÃ©lreÃ©rtÃ©sr?l beszÃ©lsz?}
+{585}{}{Itt az id?, hogy elhÃºzzunk RenÃ³bÃ³l...}
+{586}{}{Francos lÃ¡da...}
+{587}{}{Nehezebb, mint amire emlÃ©keztem...}
 {595}{}{Na, itt vagyunk...}
 {596}{}{Ez az.}
-{605}{}{Megérkeztünk... *pfú* ...a pénz ott van... ebben a sírban.}
-{606}{}{Ásd ki, Lloyd!}
-{607}{}{Hadd vessek el?bb egy pillantást erre a sírra...}
-{609}{}{Na, akkor állj arrébb, hadd ássam ki...}
-{610}{}{Lekophatsz, Lloyd. A pénz mostantól az enyém.}
-{615}{}{(Elakad a lélegzete.) Az... ?rség ellátása... mellett eléggé... hálás lennék, ha... kiásnád.}
-{616}{}{Öö...}
-{617}{}{Kétféle ember létezik a világon, Lloyd. Az egyiknek töltött fegyver van a kezében, a másik ás.}
+{605}{}{MegÃ©rkeztÃ¼nk... *pfÃº* ...a pÃ©nz ott van... ebben a sÃ­rban.}
+{606}{}{Ãsd ki, Lloyd!}
+{607}{}{Hadd vessek el?bb egy pillantÃ¡st erre a sÃ­rra...}
+{609}{}{Na, akkor Ã¡llj arrÃ©bb, hadd Ã¡ssam ki...}
+{610}{}{Lekophatsz, Lloyd. A pÃ©nz mostantÃ³l az enyÃ©m.}
+{615}{}{(Elakad a lÃ©legzete.) Az... ?rsÃ©g ellÃ¡tÃ¡sa... mellett elÃ©ggÃ©... hÃ¡lÃ¡s lennÃ©k, ha... kiÃ¡snÃ¡d.}
+{616}{}{Ã–Ã¶...}
+{617}{}{KÃ©tfÃ©le ember lÃ©tezik a vilÃ¡gon, Lloyd. Az egyiknek tÃ¶ltÃ¶tt fegyver van a kezÃ©ben, a mÃ¡sik Ã¡s.}
 {620}{}{All right then, I'll do it...}
-{625}{}{(Lloyd mormog valamit a foga közt, aztán nekiáll ásni.)}
-{626}{}{(Lloyd mormog valamit a foga közt, aztán nekiáll ásni... igen gondosan. Alig egy perccel kés?bb el?húz egy taposóaknát a földb?l és félrerakja. Ártatlan képpel von vállat.)}
-{627}{}{Ez az! Nagyon jól csinálod! Csak így tovább! Áss egy kicsit gyorsabban!}
-{628}{}{Szép darab, Lloyd. Na, ÁSS tovább! Nézzük, mi egyéb lapul ott!}
-{635}{}{(Fél órával kés?bb, miután Lloyd elég földet kiásott, egy keskeny lejárat t?nik el?... biztos vagy benne, hogy ha Lloyd nem segített volna, sosem találod meg. Lloyd mély lélegzetet vesz és megtörli a homlokát.) Ez egy régi... atombunker.}
-{636}{}{(Fél órával kés?bb, miután elég földet kiástál, egy keskeny lejárat t?nik fel... biztos vagy benne, hogy ha Lloyd nem mondja el, hol áss, sosem találod meg. Ahogy el?t?nik a lejárat, Lloyd megszólal.) Ez egy régi atombunker. Egy hete találtam, mikor átfésültem ezt a területet.}
-{637}{}{Na, akkor most kinyitom szépen és rátérhetünk az üzletre.}
-{638}{}{Nyisd ki a lejáratot, Lloyd!}
-{645}{}{(A sír körüli talaj arról árulkodik, hogy nemrég bolygathatták meg. Mivel Lloyd elég messze álldogál a sírtól, hogy-hogy nem, azon kezdesz t?n?dni, vajon nem raktak-e valami csapdát ide.)}
-{646}{}{Azt hiszem, jobb lesz, ha te ásol, Lloyd!}
-{647}{}{Hmmmm. Hadd vizsgáljam már meg közelebbr?l ezt a sírt...}
-{648}{}{Húzódj hátrébb, Lloyd! Nekiállok ásni.}
-{655}{}{(A sír körüli talaj arról árulkodik, hogy nemrég bolygathatták meg. Ha Lloyd tényleg ide ásta el a pénzét, van benne ráció.)}
-{665}{}{(Megvizsgálod a helyet és eltakarítod a földet. Miközben ezt teszed, észreveszel egy taposóaknát. Gondosan hatástalanítod és elrakod a felszereléseid közé.)}
-{666}{}{Felejtsem el, Lloyd? Lássuk, hogy TE el tudod-e felejteni, hullajelölt!}
-{667}{}{Azt hiszem, mostantól te fogsz ásni. Gyerünk, repülj rá a témára!}
-{668}{}{Na, ezt most az egyszer elnézem, Lloyd... Állj egy kicsit hátrébb, amíg befejezem az ásást!}
-{675}{}{(A csapóajtó rozsdás nyikorgással kinyílik, és el?t?nik egy sötét, lefelé vezet? járat.)}
-{676}{}{Gyerünk lefelé, Lloyd!}
-{677}{}{El onnan, Lloyd! Én megyek els?nek!}
-{685}{}{(Lloyd összeráncolja a homlokát, mint aki megjegyzést akar f?zni a dologhoz, de aztán vállat von és lemászik.)}
-{686}{}{Ne gatyázz, Lloyd!}
-{687}{}{HÉ, LLOYD, KAPD EL! (Ledobod neki a taposóaknát.)}
-{688}{}{Megyek utánad, Lloyd.}
-{695}{}{(Hallod Lloydot morgolódni odalentr?l.) Türelem... már majdnem megvan... (Fémcsikorgás hallatszik, aztán néma csend.)}
-{696}{}{Ne tököl?dj már, Lloyd! Nem akarom itt tölteni az egész napomat!}
-{698}{}{Jövök utánad, Lloyd!}
-{706}{}{Semmiség...}
-{715}{}{Jól van, jól van... az egész a tied. Nem probléma. Viszont akkor leléptem. (Megfordul és elsétál.)}
+{625}{}{(Lloyd mormog valamit a foga kÃ¶zt, aztÃ¡n nekiÃ¡ll Ã¡sni.)}
+{626}{}{(Lloyd mormog valamit a foga kÃ¶zt, aztÃ¡n nekiÃ¡ll Ã¡sni... igen gondosan. Alig egy perccel kÃ©s?bb el?hÃºz egy taposÃ³aknÃ¡t a fÃ¶ldb?l Ã©s fÃ©lrerakja. Ãrtatlan kÃ©ppel von vÃ¡llat.)}
+{627}{}{Ez az! Nagyon jÃ³l csinÃ¡lod! Csak Ã­gy tovÃ¡bb! Ãss egy kicsit gyorsabban!}
+{628}{}{SzÃ©p darab, Lloyd. Na, ÃSS tovÃ¡bb! NÃ©zzÃ¼k, mi egyÃ©b lapul ott!}
+{635}{}{(FÃ©l Ã³rÃ¡val kÃ©s?bb, miutÃ¡n Lloyd elÃ©g fÃ¶ldet kiÃ¡sott, egy keskeny lejÃ¡rat t?nik el?... biztos vagy benne, hogy ha Lloyd nem segÃ­tett volna, sosem talÃ¡lod meg. Lloyd mÃ©ly lÃ©legzetet vesz Ã©s megtÃ¶rli a homlokÃ¡t.) Ez egy rÃ©gi... atombunker.}
+{636}{}{(FÃ©l Ã³rÃ¡val kÃ©s?bb, miutÃ¡n elÃ©g fÃ¶ldet kiÃ¡stÃ¡l, egy keskeny lejÃ¡rat t?nik fel... biztos vagy benne, hogy ha Lloyd nem mondja el, hol Ã¡ss, sosem talÃ¡lod meg. Ahogy el?t?nik a lejÃ¡rat, Lloyd megszÃ³lal.) Ez egy rÃ©gi atombunker. Egy hete talÃ¡ltam, mikor Ã¡tfÃ©sÃ¼ltem ezt a terÃ¼letet.}
+{637}{}{Na, akkor most kinyitom szÃ©pen Ã©s rÃ¡tÃ©rhetÃ¼nk az Ã¼zletre.}
+{638}{}{Nyisd ki a lejÃ¡ratot, Lloyd!}
+{645}{}{(A sÃ­r kÃ¶rÃ¼li talaj arrÃ³l Ã¡rulkodik, hogy nemrÃ©g bolygathattÃ¡k meg. Mivel Lloyd elÃ©g messze Ã¡lldogÃ¡l a sÃ­rtÃ³l, hogy-hogy nem, azon kezdesz t?n?dni, vajon nem raktak-e valami csapdÃ¡t ide.)}
+{646}{}{Azt hiszem, jobb lesz, ha te Ã¡sol, Lloyd!}
+{647}{}{Hmmmm. Hadd vizsgÃ¡ljam mÃ¡r meg kÃ¶zelebbr?l ezt a sÃ­rt...}
+{648}{}{HÃºzÃ³dj hÃ¡trÃ©bb, Lloyd! NekiÃ¡llok Ã¡sni.}
+{655}{}{(A sÃ­r kÃ¶rÃ¼li talaj arrÃ³l Ã¡rulkodik, hogy nemrÃ©g bolygathattÃ¡k meg. Ha Lloyd tÃ©nyleg ide Ã¡sta el a pÃ©nzÃ©t, van benne rÃ¡ciÃ³.)}
+{665}{}{(MegvizsgÃ¡lod a helyet Ã©s eltakarÃ­tod a fÃ¶ldet. MikÃ¶zben ezt teszed, Ã©szreveszel egy taposÃ³aknÃ¡t. Gondosan hatÃ¡stalanÃ­tod Ã©s elrakod a felszerelÃ©seid kÃ¶zÃ©.)}
+{666}{}{Felejtsem el, Lloyd? LÃ¡ssuk, hogy TE el tudod-e felejteni, hullajelÃ¶lt!}
+{667}{}{Azt hiszem, mostantÃ³l te fogsz Ã¡sni. GyerÃ¼nk, repÃ¼lj rÃ¡ a tÃ©mÃ¡ra!}
+{668}{}{Na, ezt most az egyszer elnÃ©zem, Lloyd... Ãllj egy kicsit hÃ¡trÃ©bb, amÃ­g befejezem az Ã¡sÃ¡st!}
+{675}{}{(A csapÃ³ajtÃ³ rozsdÃ¡s nyikorgÃ¡ssal kinyÃ­lik, Ã©s el?t?nik egy sÃ¶tÃ©t, lefelÃ© vezet? jÃ¡rat.)}
+{676}{}{GyerÃ¼nk lefelÃ©, Lloyd!}
+{677}{}{El onnan, Lloyd! Ã‰n megyek els?nek!}
+{685}{}{(Lloyd Ã¶sszerÃ¡ncolja a homlokÃ¡t, mint aki megjegyzÃ©st akar f?zni a dologhoz, de aztÃ¡n vÃ¡llat von Ã©s lemÃ¡szik.)}
+{686}{}{Ne gatyÃ¡zz, Lloyd!}
+{687}{}{HÃ‰, LLOYD, KAPD EL! (Ledobod neki a taposÃ³aknÃ¡t.)}
+{688}{}{Megyek utÃ¡nad, Lloyd.}
+{695}{}{(Hallod Lloydot morgolÃ³dni odalentr?l.) TÃ¼relem... mÃ¡r majdnem megvan... (FÃ©mcsikorgÃ¡s hallatszik, aztÃ¡n nÃ©ma csend.)}
+{696}{}{Ne tÃ¶kÃ¶l?dj mÃ¡r, Lloyd! Nem akarom itt tÃ¶lteni az egÃ©sz napomat!}
+{698}{}{JÃ¶vÃ¶k utÃ¡nad, Lloyd!}
+{706}{}{SemmisÃ©g...}
+{715}{}{JÃ³l van, jÃ³l van... az egÃ©sz a tied. Nem problÃ©ma. Viszont akkor lelÃ©ptem. (Megfordul Ã©s elsÃ©tÃ¡l.)}
 {716}{}{(Hagyod menni.)}
-{717}{}{(Hátba lövöd.)}
-{1000}{}{Hosszú kutyagolás után elértek a Golgotához. Lloyd odavezet az egyik sírhoz.}
-{1001}{}{Követed Lloydot a Golgotára. Mikor odaértek, kiássa az egyik sírt.}
-{1002}{}{Mikor kiértek New Renóból, Lloyd kereket old.}
+{717}{}{(HÃ¡tba lÃ¶vÃ¶d.)}
+{1000}{}{HosszÃº kutyagolÃ¡s utÃ¡n elÃ©rtek a GolgotÃ¡hoz. Lloyd odavezet az egyik sÃ­rhoz.}
+{1001}{}{KÃ¶veted Lloydot a GolgotÃ¡ra. Mikor odaÃ©rtek, kiÃ¡ssa az egyik sÃ­rt.}
+{1002}{}{Mikor kiÃ©rtek New RenÃ³bÃ³l, Lloyd kereket old.}
 {1050}{}{Hagyod, hogy Lloyd elmenjen.}
 {1051}{}{*grumble* Coulda been my money.}
 {1052}{}{Uh... Thanks for letting me live.}
 {1053}{}{When you reemerge from the grave Llyod is nowhere to be seen.}
 {1054}{}{Forget you. This is my money and you aint getting any of it!}
-{5213}{}{ Én }
+{5213}{}{ Ã‰n }
 {7213}{}{Ki vagyol?}

@@ -1,6 +1,6 @@
-{200}{}{Jeœli przywi¹¿ê tu linê, bêdzie mo¿na tam zejœæ.}
-{201}{}{Zdecydowanie przyda³aby siê lina.}
-{300}{}{To powinno wystarczyæ.}
-{301}{}{Lina jest ju¿ tu przywi¹zana.}
-{302}{}{Przywi¹zujesz linê do jednej z krat szybu wentylacyjnego i opuszczasz resztê w dó³ szybu. S³yszysz g³uchy dŸwiêk, kiedy lina uderza o dno.}
-{400}{}{Jesteœ w jednym z szybów systemu wentylacji oœrodka AOŒ. S³yszysz przeró¿ne owady przemykaj¹ce obok ciebie.}
+{200}{}{JeÅ›li przywiÄ…Å¼Ä™ tu linÄ™, bÄ™dzie moÅ¼na tam zejÅ›Ä‡.}
+{201}{}{Zdecydowanie przydaÅ‚aby siÄ™ lina.}
+{300}{}{To powinno wystarczyÄ‡.}
+{301}{}{Lina jest juÅ¼ tu przywiÄ…zana.}
+{302}{}{PrzywiÄ…zujesz linÄ™ do jednej z krat szybu wentylacyjnego i opuszczasz resztÄ™ w dÃ³Å‚ szybu. SÅ‚yszysz gÅ‚uchy dÅºwiÄ™k, kiedy lina uderza o dno.}
+{400}{}{JesteÅ› w jednym z szybÃ³w systemu wentylacji oÅ›rodka AOÅš. SÅ‚yszysz przerÃ³Å¼ne owady przemykajÄ…ce obok ciebie.}

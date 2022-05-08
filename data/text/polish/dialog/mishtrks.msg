@@ -1,2 +1,2 @@
-{100}{}{£adunek wybuchowy powinien bez problemu udro¿niæ to przejœcie.}
-{200}{}{Uda³o ci siê wysadziæ zawa³.}
+{100}{}{Åadunek wybuchowy powinien bez problemu udroÅ¼niÄ‡ to przejÅ›cie.}
+{200}{}{UdaÅ‚o ci siÄ™ wysadziÄ‡ zawaÅ‚.}

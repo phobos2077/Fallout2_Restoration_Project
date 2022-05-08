@@ -1,1 +1,1 @@
-{100}{}{Wkraczasz na obszar z wieloma opuszczonymi namiotami. S³yszysz wycie wiatru.}
+{100}{}{Wkraczasz na obszar z wieloma opuszczonymi namiotami. SÅ‚yszysz wycie wiatru.}

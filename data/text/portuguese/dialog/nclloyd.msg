@@ -22,7 +22,7 @@
 {234}{}{You sound like a man in trouble. I might be able to help you.}
 {235}{}{You look like a man who values his privacy. For someone as talkative as I am, forgetting
  you could be very expensive.}
-{236}{}{Tudo bem ent„o... desculpe incomod·-lo.}
+{236}{}{Tudo bem ent√£o... desculpe incomod√°-lo.}
 {245}{}{Problem? The problem's standing right in front of me. }
 {246}{}{Now I'm not going to say it again, fella: Leave.}
 {247}{}{Now I'm not going to say it again, sweetheart: Leave.}
@@ -46,7 +46,7 @@
 {285}{}{You look like a man in trouble, and I might be able to help you. What do you say?}
 {286}{}{You sound like a man who values his privacy. For someone as talkative as I am, forgetting
  you could be very expensive.}
-{287}{}{Tudo bem ent„o... desculpe incomod·-lo.}
+{287}{}{Tudo bem ent√£o... desculpe incomod√°-lo.}
 {295}{}{Uh... hey, now... there's, uh, no need for that kind of talk. Maybe we can talk about something
  ELSE: how much your friend Lloyd can help you.}
 {296}{}{I'm interested. You keep on talking.}
@@ -100,12 +100,12 @@
  Lloyd, but that's them, not me.}
 {387}{}{Hmmmmm. 'm not fool enough to turn down help from a beautiful woman. Name's Lloyd. Some call me Pretty Boy
  Lloyd, but that's them, not me.}
-{388}{}{Prazer em conhecÍ-lo. Ent„o... sobre a minha oferta...?}
+{388}{}{Prazer em conhec√™-lo. Ent√£o... sobre a minha oferta...?}
 {395}{}{The Salvatore family and I had a... disagreement over my success at one of their gambling tables.
  I think the matter can only be settled by removing myself as far from New Reno as possible.}
 {396}{}{Success at their gambling tables, eh? How much you win, Lloyd?}
 {397}{}{Como posso ajudar?}
-{398}{}{O quÍ tem pra mim?}
+{398}{}{O qu√™ tem pra mim?}
 {399}{}{I don't think I can help you, Lloyd. I think we better just forget we met. Goodbye.}
 {405}{}{Hmmmm... you look well-equipped to serve as a bodyguard. Help me get out of town. Escort me
  to the Gologtha plain to the south, and I can pay you some chips for your trouble.}
@@ -162,7 +162,7 @@
 {566}{}{What misunderstanding?}
 {585}{}{Hora de dar o fora de Reno...}
 {586}{}{Merda de caixa...}
-{587}{}{Bem mais difÌcil do que eu me lembro...}
+{587}{}{Bem mais dif√≠cil do que eu me lembro...}
 {595}{}{Aqui estamos...}
 {596}{}{It's this one right here.}
 {605}{}{Here we are...*whew*...the money's in... this grave here.}
@@ -173,7 +173,7 @@
 {615}{}{(Looks winded.) As... part of your... guard duties, I'd... be grateful if you'd... dig it up.}
 {616}{}{Uh...}
 {617}{}{There's two types of people in this world, Lloyd. Those with loaded guns and those that dig.}
-{620}{}{Tudo bem ent„o, eu farei isso...}
+{620}{}{Tudo bem ent√£o, eu farei isso...}
 {625}{}{(Lloyd mumbles under his breath, then proceeds to dig.)}
 {626}{}{(Lloyd mumbles under his breath, then proceeds to dig... carefully. Less than a minute
  later, he pulls out a landmine from beneath the dirt and sets it aside. He shrugs sheepishly.)}

@@ -1,7 +1,7 @@
 {100}{}{Ves a una anciana, flaca y degradada.}
 {101}{}{Ves a Tandi, presidente de la RNC.}
-{102}{}{Ves a una mujer dura y segura de sí misma. Es evidente que usa esas características para obtener el respeto de los demás.}
-{103}{tand1}{Soy Tandi, presidente de la RNC. Mis chicos me dicen que estás buscando trabajo. ¿En qué eres hábil?}
+{102}{}{Ves a una mujer dura y segura de sÃ­ misma. Es evidente que usa esas caracterÃ­sticas para obtener el respeto de los demÃ¡s.}
+{103}{tand1}{Soy Tandi, presidente de la RNC. Mis chicos me dicen que estÃ¡s buscando trabajo. Â¿En quÃ© eres hÃ¡bil?}
 {104}{}{Bueno con armas yo. El mejor.}
 {105}{}{Bueno para hablar con gente.}
 {106}{}{Bueno peleando. Patadas en el culo.}
@@ -9,213 +9,213 @@
 {108}{}{Yo tengo muchos t-talentos.}
 {109}{}{Eh, cosas sin importancia.}
 {110}{}{Soy bueno con un arma. Uno de los mejores.}
-{111}{}{Me han dicho, señora presidente, que tengo facilidad de palabra.}
+{111}{}{Me han dicho, seÃ±ora presidente, que tengo facilidad de palabra.}
 {112}{}{Soy bueno en el combate sin armas, en el cuerpo a cuerpo.}
-{113}{}{Soy bueno colándome donde necesito ir sin ser visto ni oído.}
-{114}{}{Tengo muchos talentos, y todos están a tu disposición.}
+{113}{}{Soy bueno colÃ¡ndome donde necesito ir sin ser visto ni oÃ­do.}
+{114}{}{Tengo muchos talentos, y todos estÃ¡n a tu disposiciÃ³n.}
 {115}{}{Tan solo cosas sin importancia, supongo.}
-{116}{tand2}{Hmmm. No eres realmente lo que estoy buscando. ¿Seguro que puedes valerte por ti mismo?}
-{117}{}{Yo no sé. ¿Qué trabajo?}
-{118}{}{Creo en yo mismo. ¡Puedo hacer!}
+{116}{tand2}{Hmmm. No eres realmente lo que estoy buscando. Â¿Seguro que puedes valerte por ti mismo?}
+{117}{}{Yo no sÃ©. Â¿QuÃ© trabajo?}
+{118}{}{Creo en yo mismo. Â¡Puedo hacer!}
 {119}{}{Eso depende del trabajo que ofrezcas.}
-{120}{}{Sí, confío en mis habilidades y en mí mismo.}
+{120}{}{SÃ­, confÃ­o en mis habilidades y en mÃ­ mismo.}
 {121}{tand3}{Parece que eres justo lo que necesitamos.}
-{122}{}{Bueno. ¿Ayudar yo?}
-{123}{}{Excelente, ¿cómo puedo ayudarte?}
-{124}{tand4}{Necesitamos ciertas piezas de computadora de nuestra antigua base: el Refugio 15. El problema es que hay ocupantes ilegales que no permitirán entrar a nadie. Alguien tiene que convencerles de que le permitan entrar... o simplemente volver con las piezas. ¿Aceptas el trabajo?}
+{122}{}{Bueno. Â¿Ayudar yo?}
+{123}{}{Excelente, Â¿cÃ³mo puedo ayudarte?}
+{124}{tand4}{Necesitamos ciertas piezas de computadora de nuestra antigua base: el Refugio 15. El problema es que hay ocupantes ilegales que no permitirÃ¡n entrar a nadie. Alguien tiene que convencerles de que le permitan entrar... o simplemente volver con las piezas. Â¿Aceptas el trabajo?}
 {125}{}{No gusta. No hago.}
 {126}{}{Hago por ti esto.}
-{127}{}{Yo estado allí. Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio.}
-{128}{}{Yo estado allí. Tengo piezas.}
-{129}{}{Yo estado allí. Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio. Y aquí piezas.}
+{127}{}{Yo estado allÃ­. Ok-kupas quieren trato. TÃº enseÃ±as, ayudas, ellos te dan Refugio.}
+{128}{}{Yo estado allÃ­. Tengo piezas.}
+{129}{}{Yo estado allÃ­. Ok-kupas quieren trato. TÃº enseÃ±as, ayudas, ellos te dan Refugio. Y aquÃ­ piezas.}
 {130}{}{Lo lamento, pero eso no se parece a mi estilo de trabajo.}
-{131}{}{Me encantaría ayudarte con ello.}
-{132}{}{Me interesa, pero ¿cuál es el pago por el trabajo?}
-{133}{}{Ya me he encargado de casi todo. Los okupas quieren un trato. Les ayudáis a ser autosuficientes y ellos os darán acceso al Refugio.}
-{134}{}{He estado allí y tengo las piezas que buscabas.}
-{135}{}{Ya me he encargado de todo. Los okupas quieren un trato. Les ayudáis a ser autosuficientes y ellos os darán acceso al Refugio. Además, aquí están las piezas.}
-{136}{tand5}{Rayos y centellas... es tu elección, pero si cambias de opinión...}
+{131}{}{Me encantarÃ­a ayudarte con ello.}
+{132}{}{Me interesa, pero Â¿cuÃ¡l es el pago por el trabajo?}
+{133}{}{Ya me he encargado de casi todo. Los okupas quieren un trato. Les ayudÃ¡is a ser autosuficientes y ellos os darÃ¡n acceso al Refugio.}
+{134}{}{He estado allÃ­ y tengo las piezas que buscabas.}
+{135}{}{Ya me he encargado de todo. Los okupas quieren un trato. Les ayudÃ¡is a ser autosuficientes y ellos os darÃ¡n acceso al Refugio. AdemÃ¡s, aquÃ­ estÃ¡n las piezas.}
+{136}{tand5}{Rayos y centellas... es tu elecciÃ³n, pero si cambias de opiniÃ³n...}
 {137}{}{Hecho.}
-{138}{tand6a}{Me parece justo. Hazlo bien y habrá un recompensa.}
-{139}{tand6b}{Cristo, sé que me estoy equivocando, pero... lo intento: si entendieras algo de lo que he dicho.}
+{138}{tand6a}{Me parece justo. Hazlo bien y habrÃ¡ un recompensa.}
+{139}{tand6b}{Cristo, sÃ© que me estoy equivocando, pero... lo intento: si entendieras algo de lo que he dicho.}
 {140}{}{Vale. Yo voy.}
 {141}{}{Tengo preguntas.}
-{142}{}{Bien. Voy para allá.}
-{143}{}{Me gustaría hacerte algunas preguntas.}
+{142}{}{Bien. Voy para allÃ¡.}
+{143}{}{Me gustarÃ­a hacerte algunas preguntas.}
 {144}{tand7a}{Bueno, puedo perder un poco de tiempo.}
-{145}{tand7b}{¿Qué quieres saber?}
-{146}{}{¿Qué puedes decirme del Refugio 15?}
-{147}{}{¿Por qué no hacer un trato con los okupas?}
-{148}{}{¿Sabes dónde está el Refugio 13?}
-{149}{}{Busco GECK. ¿Tienes?}
-{150}{}{¿Qué puedes decirme de Nuevo Reno?}
-{151}{}{¿Qué puedes decirme de Roger Westin?}
-{152}{}{¿Qué puedes decirme de Carlson?}
-{153}{}{Anciana cuenta historia. Habla de Morador de Refugio, habla de Tandi. ¿Tú esa Tandi?}
-{154}{}{¿Esto es Arenasombra que dijo Anciana?}
+{145}{tand7b}{Â¿QuÃ© quieres saber?}
+{146}{}{Â¿QuÃ© puedes decirme del Refugio 15?}
+{147}{}{Â¿Por quÃ© no hacer un trato con los okupas?}
+{148}{}{Â¿Sabes dÃ³nde estÃ¡ el Refugio 13?}
+{149}{}{Busco GECK. Â¿Tienes?}
+{150}{}{Â¿QuÃ© puedes decirme de Nuevo Reno?}
+{151}{}{Â¿QuÃ© puedes decirme de Roger Westin?}
+{152}{}{Â¿QuÃ© puedes decirme de Carlson?}
+{153}{}{Anciana cuenta historia. Habla de Morador de Refugio, habla de Tandi. Â¿TÃº esa Tandi?}
+{154}{}{Â¿Esto es Arenasombra que dijo Anciana?}
 {155}{}{Esto todo. Marcho ahora.}
-{156}{}{¿Qué puedes decirme del Refugio 15?}
-{157}{}{¿Por qué no has hecho un trato con los okupas?}
-{158}{}{¿Sabes dónde está el Refugio 13?}
-{159}{}{Estoy buscando un GECK. ¿No tendrías uno?}
-{160}{}{¿Qué puedes decirme de Nuevo Reno?}
-{161}{}{¿Qué puedes decirme de Roger Westin?}
-{162}{}{¿Qué puedes decirme de Carlson?}
-{163}{}{La Anciana me contó una historia acerca del Morador del Refugio y alguien llamado Tandi. ¿Eres tú esa Tandi?}
-{164}{}{¿Esto es la Arenas Sombrías que nombró la Anciana?}
-{165}{}{Nada más por ahora. Me marcho.}
-{166}{tand8}{Está justo al este de aquí, un Refugio subterráneo de la guerra. La mayoría de familias de RNC proceden de allí, así que es legítimamente nuestro.}
-{167}{}{Cuéntame más.}
-{168}{}{Continúa.}
-{169}{tand9}{Hace un par de años algunos okupas llegaron y construyeron un mísero asentamiento en la superficie. Lo llaman 'Ocupación'. Son como el perro del hortelano. No pueden entrar en el Refugio pero no nos dejan acercarnos.}
-{170}{}{Más preguntas.}
+{156}{}{Â¿QuÃ© puedes decirme del Refugio 15?}
+{157}{}{Â¿Por quÃ© no has hecho un trato con los okupas?}
+{158}{}{Â¿Sabes dÃ³nde estÃ¡ el Refugio 13?}
+{159}{}{Estoy buscando un GECK. Â¿No tendrÃ­as uno?}
+{160}{}{Â¿QuÃ© puedes decirme de Nuevo Reno?}
+{161}{}{Â¿QuÃ© puedes decirme de Roger Westin?}
+{162}{}{Â¿QuÃ© puedes decirme de Carlson?}
+{163}{}{La Anciana me contÃ³ una historia acerca del Morador del Refugio y alguien llamado Tandi. Â¿Eres tÃº esa Tandi?}
+{164}{}{Â¿Esto es la Arenas SombrÃ­as que nombrÃ³ la Anciana?}
+{165}{}{Nada mÃ¡s por ahora. Me marcho.}
+{166}{tand8}{EstÃ¡ justo al este de aquÃ­, un Refugio subterrÃ¡neo de la guerra. La mayorÃ­a de familias de RNC proceden de allÃ­, asÃ­ que es legÃ­timamente nuestro.}
+{167}{}{CuÃ©ntame mÃ¡s.}
+{168}{}{ContinÃºa.}
+{169}{tand9}{Hace un par de aÃ±os algunos okupas llegaron y construyeron un mÃ­sero asentamiento en la superficie. Lo llaman 'OcupaciÃ³n'. Son como el perro del hortelano. No pueden entrar en el Refugio pero no nos dejan acercarnos.}
+{170}{}{MÃ¡s preguntas.}
 {171}{}{Ya veo. Necesito preguntarte acerca de algunas otras cosas.}
-{172}{tand10}{Lo intenté. Envié a algunas personas allí, pero después de los primeros, dejaron de volver. No puedo demostrar que los okupas sean responsables. Mis muchachos capturaron a uno de ellos, pero no quiere hablar. Lo tenemos encerrado en el centro de la ciudad.}
-{173}{}{Saber más.}
-{174}{}{Unas cuantas preguntas más, por favor.}
-{175}{tand11}{Pero rápido. No puedo perder todo el día contigo.}
+{172}{tand10}{Lo intentÃ©. EnviÃ© a algunas personas allÃ­, pero despuÃ©s de los primeros, dejaron de volver. No puedo demostrar que los okupas sean responsables. Mis muchachos capturaron a uno de ellos, pero no quiere hablar. Lo tenemos encerrado en el centro de la ciudad.}
+{173}{}{Saber mÃ¡s.}
+{174}{}{Unas cuantas preguntas mÃ¡s, por favor.}
+{175}{tand11}{Pero rÃ¡pido. No puedo perder todo el dÃ­a contigo.}
 {176}{}{Ok, me apuro.}
-{177}{}{Intentaré darme prisa.}
-{178}{tand12}{Con ese uniforme que llevas me figuraba que ya lo sabías.}
+{177}{}{IntentarÃ© darme prisa.}
+{178}{tand12}{Con ese uniforme que llevas me figuraba que ya lo sabÃ­as.}
 {179}{}{Uniforme en poblado mucho tiempo. Era de Morador del Refugio, hacedor de tribu.}
-{180}{}{Este uniforme ha estado en nuestro poblado desde el principio. Perteneció al Morador del Refugio, nuestro fundador.}
-{181}{tand13}{Hablas en serio, ¿verdad? Si estamos hablando de la misma persona, salvó mi vida (resopla). Luego desapareció. Cuando empiezo a pensar que sólo fue un sueño, voy a ver la estatua.}
-{182}{}{¿Estatua?}
-{183}{tand14a}{Correcto. Por ahuyentar a los saqueadores. Se mantuvieron lejos de Arenas Sombrías poco después de que tuviéramos tiempo de reorganizarnos. Hicimos de él un héroe... incluso aunque no creyéramos una palabra acerca de su procedencia del Refugio 13.}
-{184}{}{Recuerdo. ¿Pregunto más?}
-{185}{}{Lo tendré en cuenta. ¿Puedo preguntarte algo más?}
-{186}{tand15}{¿Refugio 13? ¿Por qué lo preguntas?}
+{180}{}{Este uniforme ha estado en nuestro poblado desde el principio. PerteneciÃ³ al Morador del Refugio, nuestro fundador.}
+{181}{tand13}{Hablas en serio, Â¿verdad? Si estamos hablando de la misma persona, salvÃ³ mi vida (resopla). Luego desapareciÃ³. Cuando empiezo a pensar que sÃ³lo fue un sueÃ±o, voy a ver la estatua.}
+{182}{}{Â¿Estatua?}
+{183}{tand14a}{Correcto. Por ahuyentar a los saqueadores. Se mantuvieron lejos de Arenas SombrÃ­as poco despuÃ©s de que tuviÃ©ramos tiempo de reorganizarnos. Hicimos de Ã©l un hÃ©roe... incluso aunque no creyÃ©ramos una palabra acerca de su procedencia del Refugio 13.}
+{184}{}{Recuerdo. Â¿Pregunto mÃ¡s?}
+{185}{}{Lo tendrÃ© en cuenta. Â¿Puedo preguntarte algo mÃ¡s?}
+{186}{tand15}{Â¿Refugio 13? Â¿Por quÃ© lo preguntas?}
 {187}{}{Yo curioso.}
 {188}{}{Yo Elegido. Vengo de Morador de Refugio.}
 {189}{}{Da igual. Hago preguntas.}
-{190}{}{He oído historias y tengo curiosidad.}
+{190}{}{He oÃ­do historias y tengo curiosidad.}
 {191}{}{Soy el Elegido de mi poblado. Soy un descendiente del Morador del Refugio.}
-{192}{}{No importa. Sólo era curiosidad.}
-{193}{tand16}{No es más que un maldito mito, como las minas perdidas de uranio. Conocí a un extraño una vez, que decía proceder de allí. Mucha gente murió intentando encontrar ese Refugio, más tarde.}
+{192}{}{No importa. SÃ³lo era curiosidad.}
+{193}{tand16}{No es mÃ¡s que un maldito mito, como las minas perdidas de uranio. ConocÃ­ a un extraÃ±o una vez, que decÃ­a proceder de allÃ­. Mucha gente muriÃ³ intentando encontrar ese Refugio, mÃ¡s tarde.}
 {194}{}{Morador de Refugio es de verdad. Yo d-descendiente.}
-{195}{}{Quiero saber más.}
+{195}{}{Quiero saber mÃ¡s.}
 {196}{}{El Morador del Refugio fue real. Yo soy uno de sus descendientes.}
-{197}{}{Ya veo. Déjame que te pregunte otra cosa.}
-{198}{tand17}{¿Un geck? ¿Como los lagartos? Están por todas partes.}
+{197}{}{Ya veo. DÃ©jame que te pregunte otra cosa.}
+{198}{tand17}{Â¿Un geck? Â¿Como los lagartos? EstÃ¡n por todas partes.}
 {199}{}{No lagarto... da igual. Hago pregunta.}
-{200}{}{No, no los malditos lagartos... no importa. Necesito preguntarte algo más.}
-{201}{tand18}{¿Nuevo Reno? Un maldito cubo de escupitajos de brahmin. Allí están presentes todos los vicios. Tenemos que ser duros con ellos si queremos unificar este país. El Congreso tiene que entenderlo.}
-{202}{}{¿Sabes de Bishop?}
-{203}{}{Qué es congreso?}
-{204}{}{Pregunto más.}
-{205}{}{¿Qué sabes sobre los Bishop?}
-{206}{}{Háblame sobre el Congreso.}
-{207}{}{Ya veo. ¿Puedo preguntarte algo más?}
-{208}{tand19}{Bien, puedo hablar con una serpiente pero no esperes que la abrace. Si los ves, se lo puedes decir también.}
+{200}{}{No, no los malditos lagartos... no importa. Necesito preguntarte algo mÃ¡s.}
+{201}{tand18}{Â¿Nuevo Reno? Un maldito cubo de escupitajos de brahmin. AllÃ­ estÃ¡n presentes todos los vicios. Tenemos que ser duros con ellos si queremos unificar este paÃ­s. El Congreso tiene que entenderlo.}
+{202}{}{Â¿Sabes de Bishop?}
+{203}{}{QuÃ© es congreso?}
+{204}{}{Pregunto mÃ¡s.}
+{205}{}{Â¿QuÃ© sabes sobre los Bishop?}
+{206}{}{HÃ¡blame sobre el Congreso.}
+{207}{}{Ya veo. Â¿Puedo preguntarte algo mÃ¡s?}
+{208}{tand19}{Bien, puedo hablar con una serpiente pero no esperes que la abrace. Si los ves, se lo puedes decir tambiÃ©n.}
 {209}{}{Oigo que RNC hace trato con Bishop.}
-{210}{}{Vale. Quiero saber más.}
-{211}{}{Se rumorea que la RNC está haciendo un trato con los Bishop.}
-{212}{}{Está bien, vamos con otras cosas.}
-{213}{tand20}{No tiene sentido intentar guardar secretos por aquí. Estamos negociando con Nuevo Reno para hacerlo miembro de la RNC. Deberían recibir algo de presión de lugares como Ciudad Refugio.}
+{210}{}{Vale. Quiero saber mÃ¡s.}
+{211}{}{Se rumorea que la RNC estÃ¡ haciendo un trato con los Bishop.}
+{212}{}{EstÃ¡ bien, vamos con otras cosas.}
+{213}{tand20}{No tiene sentido intentar guardar secretos por aquÃ­. Estamos negociando con Nuevo Reno para hacerlo miembro de la RNC. DeberÃ­an recibir algo de presiÃ³n de lugares como Ciudad Refugio.}
 {214}{}{Veo.}
 {215}{}{De acuerdo.}
-{216}{tand21}{La mayoría acepta que tenemos que trabajar con Nuevo Reno de una forma u otra. Pero gente como Westin y los ganaderos culpan a Nuevo Reno del robo de las manadas de ganado que van de aquí a Redding.}
+{216}{tand21}{La mayorÃ­a acepta que tenemos que trabajar con Nuevo Reno de una forma u otra. Pero gente como Westin y los ganaderos culpan a Nuevo Reno del robo de las manadas de ganado que van de aquÃ­ a Redding.}
 {217}{}{Humph.}
-{218}{}{¿Quién Westin?}
+{218}{}{Â¿QuiÃ©n Westin?}
 {219}{}{Ya veo.}
-{220}{}{¿Quién es ese Westin?}
-{221}{tand22}{¿El congresista Westin? Es uno de los mayores ganaderos de brahmines de los alrededores. Su finca está en la zona oeste de la ciudad. No traigas a colación Nuevo Reno si hablas con él: le saca de sus casillas. Si estás buscando un trabajo estable... pero no pareces de esos, ¿cierto?}
+{220}{}{Â¿QuiÃ©n es ese Westin?}
+{221}{tand22}{Â¿El congresista Westin? Es uno de los mayores ganaderos de brahmines de los alrededores. Su finca estÃ¡ en la zona oeste de la ciudad. No traigas a colaciÃ³n Nuevo Reno si hablas con Ã©l: le saca de sus casillas. Si estÃ¡s buscando un trabajo estable... pero no pareces de esos, Â¿cierto?}
 {222}{}{No, gracias.}
-{223}{tand23}{Stubborn es una mula... pero un buen hombre. ¿Por qué?}
+{223}{tand23}{Stubborn es una mula... pero un buen hombre. Â¿Por quÃ©?}
 {224}{}{Curioso por un trabajo yo.}
 {225}{}{Curioso por un trabajo yo.}
 {226}{}{Tengo curiosidad por cierto trabajo.}
 {227}{}{Tengo curiosidad por cierto trabajo.}
 {228}{tand24}{Me parece que ya tienes bastantes cosas entre manos.}
 {229}{}{Vale. no importa.}
-{230}{}{Sí, tienes razón.}
-{231}{tand25}{Desde que murió Westin, Carlson ha estado encerrado en su oficina. Probablemente no te verá, pero puedes hablar con sus chicos.}
+{230}{}{SÃ­, tienes razÃ³n.}
+{231}{tand25}{Desde que muriÃ³ Westin, Carlson ha estado encerrado en su oficina. Probablemente no te verÃ¡, pero puedes hablar con sus chicos.}
 {232}{}{Vale.}
-{233}{tand26}{Escucha. A la mayoría de la gente, yo incluida, nos gusta el viejo Carlson aunque no estemos de acuerdo sobre lo de Nuevo Reno. Si algo le sucede, no nos lo tomaremos nada bien. Cualquiera que piense que su vida sería más fácil si él no estuviera está muy, muy equivocado. ¿Entendido?}
-{234}{}{Sí. Entiendo yo.}
-{235}{}{Sí, lo comprendo.}
-{236}{tand27}{¡Cristo, eso fue hace mucho tiempo! Apenas recuerdo quién era yo entonces... apenas una joven ingenua. El que llamas Morador del Refugio, ¿sigue vivo?}
-{237}{}{Él ahora anc-cestro. Vive con espíritus, y en yo.}
-{238}{}{El Morador del Refugio es mi ancestro. Vive en mí.}
-{239}{tand28}{Sí... hay cierto parecido. Tienes el mismo fuego. Siempre temí que acabara como un esqueleto en algún lugar del desierto.}
-{240}{}{Quiero oír historia tuya.}
-{241}{}{Me gustaría oír tu historia.}
-{242}{tand29}{Imagínate. (suspira) Bueno, yo era bastante joven cuando nos conocimos. Había un grupo de saqueadores -Los Khans- que me habían raptado. Las cosas estaban muy mal, cuando de repente, apareció ese extraño y me rescató. Tu Morador del Refugio.}
+{233}{tand26}{Escucha. A la mayorÃ­a de la gente, yo incluida, nos gusta el viejo Carlson aunque no estemos de acuerdo sobre lo de Nuevo Reno. Si algo le sucede, no nos lo tomaremos nada bien. Cualquiera que piense que su vida serÃ­a mÃ¡s fÃ¡cil si Ã©l no estuviera estÃ¡ muy, muy equivocado. Â¿Entendido?}
+{234}{}{SÃ­. Entiendo yo.}
+{235}{}{SÃ­, lo comprendo.}
+{236}{tand27}{Â¡Cristo, eso fue hace mucho tiempo! Apenas recuerdo quiÃ©n era yo entonces... apenas una joven ingenua. El que llamas Morador del Refugio, Â¿sigue vivo?}
+{237}{}{Ã‰l ahora anc-cestro. Vive con espÃ­ritus, y en yo.}
+{238}{}{El Morador del Refugio es mi ancestro. Vive en mÃ­.}
+{239}{tand28}{SÃ­... hay cierto parecido. Tienes el mismo fuego. Siempre temÃ­ que acabara como un esqueleto en algÃºn lugar del desierto.}
+{240}{}{Quiero oÃ­r historia tuya.}
+{241}{}{Me gustarÃ­a oÃ­r tu historia.}
+{242}{tand29}{ImagÃ­nate. (suspira) Bueno, yo era bastante joven cuando nos conocimos. HabÃ­a un grupo de saqueadores -Los Khans- que me habÃ­an raptado. Las cosas estaban muy mal, cuando de repente, apareciÃ³ ese extraÃ±o y me rescatÃ³. Tu Morador del Refugio.}
 {243}{}{Morador aventurero mucho.}
 {244}{}{El Morador del Refugio tuvo muchas aventuras parecidas.}
-{245}{tand30}{Solía envidiarle por ello. Yo quería una vida de aventuras, pero me quedé aquí y asumí el cargo de alcaldesa cuando mi padre murió. He estado dirigiendo este lugar y construyendo la RNC desde entonces. Supongo que resultó ser una vida bastante importante después de todo.}
-{246}{}{Anciana contenta de que tú todavía viva. Lamento, pero necesito más preguntas.}
-{247}{}{La Anciana se alegrará de saber que aún sigues viva. Perdona, pero tengo que saber más cosas.}
-{248}{tand31}{Era Arenas Sombrías; la mayoría de la gente lo llama RNC ahora. República de Nueva California: un nombre bastante impresionante ¿eh?}
+{245}{tand30}{SolÃ­a envidiarle por ello. Yo querÃ­a una vida de aventuras, pero me quedÃ© aquÃ­ y asumÃ­ el cargo de alcaldesa cuando mi padre muriÃ³. He estado dirigiendo este lugar y construyendo la RNC desde entonces. Supongo que resultÃ³ ser una vida bastante importante despuÃ©s de todo.}
+{246}{}{Anciana contenta de que tÃº todavÃ­a viva. Lamento, pero necesito mÃ¡s preguntas.}
+{247}{}{La Anciana se alegrarÃ¡ de saber que aÃºn sigues viva. Perdona, pero tengo que saber mÃ¡s cosas.}
+{248}{tand31}{Era Arenas SombrÃ­as; la mayorÃ­a de la gente lo llama RNC ahora. RepÃºblica de Nueva California: un nombre bastante impresionante Â¿eh?}
 {249}{}{Habla de RNC.}
 {250}{}{Pregunto sobre otras cosas.}
-{251}{}{Háblame sobre la RNC, por favor.}
-{252}{}{Déjame hacerte otra pregunta.}
-{253}{tand32}{Cristo, podría hablar sobre eso durante horas pero me falta tiempo. Aquí hay un holodisco sobre la RNC. Lo usamos para difundir la buena palabra.}
+{251}{}{HÃ¡blame sobre la RNC, por favor.}
+{252}{}{DÃ©jame hacerte otra pregunta.}
+{253}{tand32}{Cristo, podrÃ­a hablar sobre eso durante horas pero me falta tiempo. AquÃ­ hay un holodisco sobre la RNC. Lo usamos para difundir la buena palabra.}
 {254}{}{Eh, gracias.}
-{255}{tand33}{Conque finalmente se atuvieron a razones. Puedo convencer al Congreso para que envíen suministros y técnicos. ¿Seguro que podemos entrar en el Refugio?}
-{256}{}{Seguro. Allí había malos pero yo dí patadas en el culo.}
-{257}{}{Bastante seguro. Había algunos maleantes por allí pero les pateé sus culos.}
-{258}{tand34}{Siempre he creído en un buen precio a cambio de un buen trabajo. Mi ayudante se encargará de ello.}
-{259}{}{Encontrado problema. Mira disco. Hay espía en RNC.}
-{260}{}{Digo una cosa más. ¿Qué si yo encuentro Refugio 13 ya?}
-{261}{}{Me temo que tienes otro problema. Si compruebas este holodisco verás que tenéis un espía en la RNC.}
-{262}{}{Sólo una cosa más. ¿Y si te dijera que he encontrado el Refugio 13?}
+{255}{tand33}{Conque finalmente se atuvieron a razones. Puedo convencer al Congreso para que envÃ­en suministros y tÃ©cnicos. Â¿Seguro que podemos entrar en el Refugio?}
+{256}{}{Seguro. AllÃ­ habÃ­a malos pero yo dÃ­ patadas en el culo.}
+{257}{}{Bastante seguro. HabÃ­a algunos maleantes por allÃ­ pero les pateÃ© sus culos.}
+{258}{tand34}{Siempre he creÃ­do en un buen precio a cambio de un buen trabajo. Mi ayudante se encargarÃ¡ de ello.}
+{259}{}{Encontrado problema. Mira disco. Hay espÃ­a en RNC.}
+{260}{}{Digo una cosa mÃ¡s. Â¿QuÃ© si yo encuentro Refugio 13 ya?}
+{261}{}{Me temo que tienes otro problema. Si compruebas este holodisco verÃ¡s que tenÃ©is un espÃ­a en la RNC.}
+{262}{}{SÃ³lo una cosa mÃ¡s. Â¿Y si te dijera que he encontrado el Refugio 13?}
 {263}{}{Gracias.}
-{264}{tand35}{¡Maldición, la única persona que conocía todo esto era Feargus! No estoy sugiriendo nada, pero quizá Gunther debería saber esto.}
+{264}{tand35}{Â¡MaldiciÃ³n, la Ãºnica persona que conocÃ­a todo esto era Feargus! No estoy sugiriendo nada, pero quizÃ¡ Gunther deberÃ­a saber esto.}
 {265}{}{Yo cuento. Marcho ahora.}
-{266}{}{Digo una cosa más. ¿Qué si yo encuentro Refugio 13 ya?}
-{267}{}{Sólo una cosa más. ¿Y si te dijera que he encontrado el Refugio 13?}
-{268}{}{Hablaré con él. Adiós.}
-{269}{tand36}{Sólo negocios, ¿eh? De acuerdo. Quinientos, cuando esté hecho. Yo no regateo, así que tómalo o no me hagas perder el tiempo.}
+{266}{}{Digo una cosa mÃ¡s. Â¿QuÃ© si yo encuentro Refugio 13 ya?}
+{267}{}{SÃ³lo una cosa mÃ¡s. Â¿Y si te dijera que he encontrado el Refugio 13?}
+{268}{}{HablarÃ© con Ã©l. AdiÃ³s.}
+{269}{tand36}{SÃ³lo negocios, Â¿eh? De acuerdo. Quinientos, cuando estÃ© hecho. Yo no regateo, asÃ­ que tÃ³malo o no me hagas perder el tiempo.}
 {270}{}{Me tome pero me necesitan hacer preguntas.}
 {271}{}{No interesado.}
-{272}{}{Lo aceptaré pero necesito cierta información.}
+{272}{}{Lo aceptarÃ© pero necesito cierta informaciÃ³n.}
 {273}{}{No estoy interesado.}
-{274}{tand37a}{Soy Tandi, presidente de la RNC. ¿Conque tú te cargaste a mi hijo, Hoss, donde Dusty? Quizá eres el hombre adecuado en el momento preciso. ¿Te interesa cierto trabajo?}
-{275}{tand37b}{Soy Tandi, presidente de la RNC. ¿Conque tú eres la chica que se cargó a mi hijo Hoss? ¡Debería haber tenido una hija! Tengo un trabajo que te podría interesar. ¿Qué me dices?}
-{276}{}{Tal vez. ¿Qué trabajo?}
-{277}{}{Podría ser. ¿Cuál es el trabajo?}
-{278}{tand38}{Soy Tandi, presidente de la República de Nueva California. Bienvenido a Arenas Sombrías. He oído cosas bastante impresionantes sobre ti. Voy directa al grano: tengo algunos negocios que quiero discutir.}
+{274}{tand37a}{Soy Tandi, presidente de la RNC. Â¿Conque tÃº te cargaste a mi hijo, Hoss, donde Dusty? QuizÃ¡ eres el hombre adecuado en el momento preciso. Â¿Te interesa cierto trabajo?}
+{275}{tand37b}{Soy Tandi, presidente de la RNC. Â¿Conque tÃº eres la chica que se cargÃ³ a mi hijo Hoss? Â¡DeberÃ­a haber tenido una hija! Tengo un trabajo que te podrÃ­a interesar. Â¿QuÃ© me dices?}
+{276}{}{Tal vez. Â¿QuÃ© trabajo?}
+{277}{}{PodrÃ­a ser. Â¿CuÃ¡l es el trabajo?}
+{278}{tand38}{Soy Tandi, presidente de la RepÃºblica de Nueva California. Bienvenido a Arenas SombrÃ­as. He oÃ­do cosas bastante impresionantes sobre ti. Voy directa al grano: tengo algunos negocios que quiero discutir.}
 {279}{}{Eh, vale.}
-{280}{}{De acuerdo, ¿qué puedo hacer por ti?}
-{281}{tand39}{Has vuelto. Entonces, ¿estás interesado en un trabajo o no?}
+{280}{}{De acuerdo, Â¿quÃ© puedo hacer por ti?}
+{281}{tand39}{Has vuelto. Entonces, Â¿estÃ¡s interesado en un trabajo o no?}
 {282}{}{No.}
 {283}{}{Vale.}
-{284}{tand40}{¿De vuelta, forastero? ¿El trabajo está hecho? ¿Tenemos el acceso al Refugio?}
-{285}{}{Trabajo con ello yo. Adiós.}
-{286}{}{Yo estado allí. Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio.}
-{287}{}{Yo estado allí. Tengo piezas.}
-{288}{}{Yo estado allí. Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio. Y aquí piezas.}
+{284}{tand40}{Â¿De vuelta, forastero? Â¿El trabajo estÃ¡ hecho? Â¿Tenemos el acceso al Refugio?}
+{285}{}{Trabajo con ello yo. AdiÃ³s.}
+{286}{}{Yo estado allÃ­. Ok-kupas quieren trato. TÃº enseÃ±as, ayudas, ellos te dan Refugio.}
+{287}{}{Yo estado allÃ­. Tengo piezas.}
+{288}{}{Yo estado allÃ­. Ok-kupas quieren trato. TÃº enseÃ±as, ayudas, ellos te dan Refugio. Y aquÃ­ piezas.}
 {289}{}{Sigo trabajando en ello. Nos vemos.}
-{290}{}{Ya me he encargado de casi todo. Los okupas quieren un trato. Les ayudáis a ser autosuficientes y ellos os darán acceso al Refugio.}
-{291}{}{He estado allí y tengo las piezas que buscabas.}
-{292}{}{Ya me he encargado de todo. Los okupas quieren un trato. Les ayudáis a ser autosuficientes y ellos os darán acceso al Refugio. Además, aquí están las piezas.}
-{293}{tand41}{¡Rayos y truenos! ¡Entonces deja de hacerme perder el tiempo!}
+{290}{}{Ya me he encargado de casi todo. Los okupas quieren un trato. Les ayudÃ¡is a ser autosuficientes y ellos os darÃ¡n acceso al Refugio.}
+{291}{}{He estado allÃ­ y tengo las piezas que buscabas.}
+{292}{}{Ya me he encargado de todo. Los okupas quieren un trato. Les ayudÃ¡is a ser autosuficientes y ellos os darÃ¡n acceso al Refugio. AdemÃ¡s, aquÃ­ estÃ¡n las piezas.}
+{293}{tand41}{Â¡Rayos y truenos! Â¡Entonces deja de hacerme perder el tiempo!}
 {294}{}{Lo siento.}
-{295}{tand42}{El Refugio 13... ¿lo has encontrado? ¡Eso resuelve todos nuestros problemas! ¿Dónde está?}
+{295}{tand42}{El Refugio 13... Â¿lo has encontrado? Â¡Eso resuelve todos nuestros problemas! Â¿DÃ³nde estÃ¡?}
 {296}{}{Eh, yo digo pero primero hay problema con Refugio.}
-{297}{}{Yo dibujo mapa. Aquí.}
-{298}{}{Antes de decírtelo, hay un pequeño problema con el Refugio.}
+{297}{}{Yo dibujo mapa. AquÃ­.}
+{298}{}{Antes de decÃ­rtelo, hay un pequeÃ±o problema con el Refugio.}
 {299}{}{He dibujado un mapa. Es tuyo.}
 {300}{}{No soy de los que simplemente entregan una mina de oro gratuitamente. Quiero 20 de los grandes o te puedes ir olvidando.}
-{301}{tand43}{¿Qué?}
+{301}{tand43}{Â¿QuÃ©?}
 {302}{}{Lleno de Garras mortales. Listos. Hablan.}
-{303}{}{Está lleno de Garras mortales inteligentes. Incluso pueden hablar.}
-{304}{tand44a}{Ya, claro (mueve la cabeza). Dios, eres más tonto incluso de lo que dijo Hoss! (suspira) Ahí está la puerta.}
-{305}{tand44b}{Vale (mueve la cabeza). Está bien, dejemos de perder el tiempo. (suspira) Ahí está la puerta.}
+{303}{}{EstÃ¡ lleno de Garras mortales inteligentes. Incluso pueden hablar.}
+{304}{tand44a}{Ya, claro (mueve la cabeza). Dios, eres mÃ¡s tonto incluso de lo que dijo Hoss! (suspira) AhÃ­ estÃ¡ la puerta.}
+{305}{tand44b}{Vale (mueve la cabeza). EstÃ¡ bien, dejemos de perder el tiempo. (suspira) AhÃ­ estÃ¡ la puerta.}
 {306}{}{Yo irme ahora.}
-{307}{}{De acuerdo. Me iré.}
-{308}{tand45}{Te has ganado una bonificación. Mi ayudante lo arreglará.}
+{307}{}{De acuerdo. Me irÃ©.}
+{308}{tand45}{Te has ganado una bonificaciÃ³n. Mi ayudante lo arreglarÃ¡.}
 {309}{}{}
 {310}{}{Gracias.}
-{311}{tand46}{Eres un verdadero regateador. De acuerdo, habla con Gunther. Él hará los arreglos.}
+{311}{tand46}{Eres un verdadero regateador. De acuerdo, habla con Gunther. Ã‰l harÃ¡ los arreglos.}
 {312}{}{Gracias.}
-{313}{tand47}{¡Chicos, sacad a este montón de mierda de brahmin de mi oficina! Llegó tu hora de marcharte, forastero.}
+{313}{tand47}{Â¡Chicos, sacad a este montÃ³n de mierda de brahmin de mi oficina! LlegÃ³ tu hora de marcharte, forastero.}
 {314}{}{Hecho}
-{315}{tand14b}{Mi padre y Seth buscaron durante años el Refugio 13. Murieron buscando, y siempre decían que estaba al oeste de aquí. Si alguien encontrase el Refugio 13, eso nos vendría mejor que el 15.}
-{316}{}{Tendrás que hablar con mi ayudante, Gunther, sobre eso.}
-{400}{}{Ok-kupas quieren trato. Tú enseñas, ayudas, ellos te dan Refugio.}
-{401}{}{Los okupas quieren un trato. Les ayudáis a ser autosuficientes y ellos os darán acceso al Refugio.}
-{410}{}{Como dije. Allí había malos pero yo dí patadas en el culo. Adiós.}
-{411}{}{Como he mencionado antes, había algunos maleantes por allí pero les pateé sus culos. Nos vemos.}
+{315}{tand14b}{Mi padre y Seth buscaron durante aÃ±os el Refugio 13. Murieron buscando, y siempre decÃ­an que estaba al oeste de aquÃ­. Si alguien encontrase el Refugio 13, eso nos vendrÃ­a mejor que el 15.}
+{316}{}{TendrÃ¡s que hablar con mi ayudante, Gunther, sobre eso.}
+{400}{}{Ok-kupas quieren trato. TÃº enseÃ±as, ayudas, ellos te dan Refugio.}
+{401}{}{Los okupas quieren un trato. Les ayudÃ¡is a ser autosuficientes y ellos os darÃ¡n acceso al Refugio.}
+{410}{}{Como dije. AllÃ­ habÃ­a malos pero yo dÃ­ patadas en el culo. AdiÃ³s.}
+{411}{}{Como he mencionado antes, habÃ­a algunos maleantes por allÃ­ pero les pateÃ© sus culos. Nos vemos.}

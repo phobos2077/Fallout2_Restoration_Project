@@ -1,121 +1,121 @@
 {100}{}{Ves a un hombre viejo con una barba rala y una gran nariz roja.}
 {101}{}{Ves a Whisky Bob.}
-{110}{}{Hola, ¿qué tal? Mi nombre es Whisky Bob. ¿Cuál es el tuyo, amiga?}
-{111}{}{Mira que preciosidad. Mi nombre es Bob, Whisky Bob: ¿cuál es el tuyo?}
-{112}{}{¿Whicky Gob? ¿Zug, zug?}
+{110}{}{Hola, Â¿quÃ© tal? Mi nombre es Whisky Bob. Â¿CuÃ¡l es el tuyo, amiga?}
+{111}{}{Mira que preciosidad. Mi nombre es Bob, Whisky Bob: Â¿cuÃ¡l es el tuyo?}
+{112}{}{Â¿Whicky Gob? Â¿Zug, zug?}
 {113}{}{Nariz roja (je, je).}
 {114}{}{Yo }
 {115}{}{. Marcho.}
-{120}{}{No eres muy lista, ¿verdad? Bueno, de todas formas gracias por la charla. Hasta luego.}
-{121}{}{Cariño, me rompes el corazón cada vez que abres la boca. Quizás en otro momento pueda llevarte al barrio de los tramperos y enseñarte mis 'grabados' (je, je). Adiós, preciosa.}
-{130}{}{Bien, señor, quizás nos veamos de nuevo más tarde. Adiós.}
-{131}{}{Bien, espero verte de nuevo por aquí, preciosa. Adiós.}
-{140}{}{Humph, no quiero que seas mi compañero de borracheras. Vete.}
-{141}{}{Humph, creo que sería mejor que fuera a la Casa de Baños de Sally que perder el tiempo contigo. Vete.}
-{150}{}{Saludos, forastera. Mi nombre es Whisky Bob. ¿Cuál es el tuyo?}
+{120}{}{No eres muy lista, Â¿verdad? Bueno, de todas formas gracias por la charla. Hasta luego.}
+{121}{}{CariÃ±o, me rompes el corazÃ³n cada vez que abres la boca. QuizÃ¡s en otro momento pueda llevarte al barrio de los tramperos y enseÃ±arte mis 'grabados' (je, je). AdiÃ³s, preciosa.}
+{130}{}{Bien, seÃ±or, quizÃ¡s nos veamos de nuevo mÃ¡s tarde. AdiÃ³s.}
+{131}{}{Bien, espero verte de nuevo por aquÃ­, preciosa. AdiÃ³s.}
+{140}{}{Humph, no quiero que seas mi compaÃ±ero de borracheras. Vete.}
+{141}{}{Humph, creo que serÃ­a mejor que fuera a la Casa de BaÃ±os de Sally que perder el tiempo contigo. Vete.}
+{150}{}{Saludos, forastera. Mi nombre es Whisky Bob. Â¿CuÃ¡l es el tuyo?}
 {151}{}{Mi nombre es }
 {152}{}{. Encantado de conocerte, Whisky Bob.}
 {153}{}{Soy }
-{154}{}{. ¿Qué está pasando en el pueblo?}
+{154}{}{. Â¿QuÃ© estÃ¡ pasando en el pueblo?}
 {155}{}{No creo que necesites saber mi nombre.}
-{160}{}{Siempre me alegro de encontrar otro compañero de borracheras. ¿Quieres pedirme una copa? Hablar hace que me entre sed.}
+{160}{}{Siempre me alegro de encontrar otro compaÃ±ero de borracheras. Â¿Quieres pedirme una copa? Hablar hace que me entre sed.}
 {161}{}{Claro, Bob. No me importa.}
-{162}{}{Ahora mismo no puedo permitírmelo.}
+{162}{}{Ahora mismo no puedo permitÃ­rmelo.}
 {163}{}{No, no voy a invitarte, Whisky Bob.}
-{164}{}{Con un apodo como el tuyo, quizás deberías ser tú quien pidiera la bebida.}
-{170}{}{Gracias, compañera. Ahora que me he tomado la copa, siento que puedo compartir contigo un pequeño problemilla que tengo. Oye... ¿quizá tú pudieras ayudarme?}
+{164}{}{Con un apodo como el tuyo, quizÃ¡s deberÃ­as ser tÃº quien pidiera la bebida.}
+{170}{}{Gracias, compaÃ±era. Ahora que me he tomado la copa, siento que puedo compartir contigo un pequeÃ±o problemilla que tengo. Oye... Â¿quizÃ¡ tÃº pudieras ayudarme?}
 {171}{}{Bueno, ahora mismo estoy bastante ocupada. No creo que pueda serte de ayuda.}
-{172}{}{¿Cómo puedo ayudarte?}
-{173}{}{Si no me lleva mucho tiempo, supongo que podría ayudarte. Por algo a cambio, por supuesto.}
-{174}{}{Quizás pueda ayudarte, siempre que no sea demasiado peligroso.}
-{175}{}{¿Ocurre algo extraño en el pueblo últimamente?}
+{172}{}{Â¿CÃ³mo puedo ayudarte?}
+{173}{}{Si no me lleva mucho tiempo, supongo que podrÃ­a ayudarte. Por algo a cambio, por supuesto.}
+{174}{}{QuizÃ¡s pueda ayudarte, siempre que no sea demasiado peligroso.}
+{175}{}{Â¿Ocurre algo extraÃ±o en el pueblo Ãºltimamente?}
 {180}{}{Parece que se te ha secado la cartera. No tienes suficiente dinero para pagarle una copa al viejo Bob.}
-{181}{}{[MÁS]}
-{190}{}{Bueno, mira, tengo un pequeño negocio con el que necesito algo de ayuda para atenderlo. Tengo un alambique ilegal en las afueras del pueblo que necesita que ser reabastecido con frecuencia. Desde que un gecko me mordió la pierna, no puedo llegar cojeando hasta allí antes de que se quede sin combustible. Si te digo donde está, ¿lo reabastecerías de combustible por mí? Te daría 50 dólares.}
-{191}{}{No suena mal... cuéntame más.}
+{181}{}{[MÃS]}
+{190}{}{Bueno, mira, tengo un pequeÃ±o negocio con el que necesito algo de ayuda para atenderlo. Tengo un alambique ilegal en las afueras del pueblo que necesita que ser reabastecido con frecuencia. Desde que un gecko me mordiÃ³ la pierna, no puedo llegar cojeando hasta allÃ­ antes de que se quede sin combustible. Si te digo donde estÃ¡, Â¿lo reabastecerÃ­as de combustible por mÃ­? Te darÃ­a 50 dÃ³lares.}
+{191}{}{No suena mal... cuÃ©ntame mÃ¡s.}
 {192}{}{No creo que vaya a hacer eso por ti. Lo siento, Whisky Bob.}
-{200}{}{No, no va a llevarte mucho tiempo y no es nada peligroso. Probablemente. ¿Quieres que te lo cuente o no?}
-{201}{}{Vale, adelante, cuéntamelo.}
-{202}{}{Me parece que ya he oído bastante. Adiós.}
-{210}{}{Es justo. Eres bastante lista, no voy a negarlo. Aquí hay algo de licor. Ahora a cambio, vas a escuchar mi pequeño problema.}
-{220}{}{Todo lo que tienes que hacer es encontrar una pequeña choza justo al sur del pueblo. Ve adentro y echa algo de leña en el alambique. Vuelve aquí y te daré tu dinero. Pero tienes que hacerlo antes de terminar el día de mañana, o mi lote de whisky se echará a perder.}
-{221}{}{Parece bastante sencillo. De acuerdo, lo haré.}
+{200}{}{No, no va a llevarte mucho tiempo y no es nada peligroso. Probablemente. Â¿Quieres que te lo cuente o no?}
+{201}{}{Vale, adelante, cuÃ©ntamelo.}
+{202}{}{Me parece que ya he oÃ­do bastante. AdiÃ³s.}
+{210}{}{Es justo. Eres bastante lista, no voy a negarlo. AquÃ­ hay algo de licor. Ahora a cambio, vas a escuchar mi pequeÃ±o problema.}
+{220}{}{Todo lo que tienes que hacer es encontrar una pequeÃ±a choza justo al sur del pueblo. Ve adentro y echa algo de leÃ±a en el alambique. Vuelve aquÃ­ y te darÃ© tu dinero. Pero tienes que hacerlo antes de terminar el dÃ­a de maÃ±ana, o mi lote de whisky se echarÃ¡ a perder.}
+{221}{}{Parece bastante sencillo. De acuerdo, lo harÃ©.}
 {222}{}{No voy a ayudarte a hacer esto. Lo siento, Bob.}
-{223}{}{50 dólares no parece suficiente para un trabajo como ese.}
-{230}{}{¿Lo harás? Genial. Recuerda, tienes que hacerlo pronto o mi whisky se echará a perder. Muchas gracias. Espero verte pronto.}
-{231}{}{Sin problemas, Bob. Te veo en un día.}
-{232}{}{Me alegra ser de ayuda. Pero antes, vas a contarme que está pasando últimamente en el pueblo.}
-{240}{}{Bien, eres un negociante muy lista, no voy a negarlo. Vale, que sean 65 dólares. ¿Lo harás?}
-{241}{}{Buen intento, pero 50 dólares es lo más que estoy dispuesto a pagar. No puedo permitirme pagarte más.}
-{242}{}{Muy bien, lo haré.}
-{243}{}{No voy a hacerlo por ese dinero. Mi tiempo vale mucho más que eso.}
-{250}{}{Hola, compañero. De vuelta a ver otra vez a Whisky Bob, ¿eh? ¿Listo para hablar de bebida, negocios y otros asuntos?}
-{251}{}{Hola, chica. ¿Vienes para hablar otra vez con Whisky Bob de bebida, negocios y otros asuntos?? ¡Te dejaré que te sientes en mis rodillas! (je, je) Es broma.}
+{223}{}{50 dÃ³lares no parece suficiente para un trabajo como ese.}
+{230}{}{Â¿Lo harÃ¡s? Genial. Recuerda, tienes que hacerlo pronto o mi whisky se echarÃ¡ a perder. Muchas gracias. Espero verte pronto.}
+{231}{}{Sin problemas, Bob. Te veo en un dÃ­a.}
+{232}{}{Me alegra ser de ayuda. Pero antes, vas a contarme que estÃ¡ pasando Ãºltimamente en el pueblo.}
+{240}{}{Bien, eres un negociante muy lista, no voy a negarlo. Vale, que sean 65 dÃ³lares. Â¿Lo harÃ¡s?}
+{241}{}{Buen intento, pero 50 dÃ³lares es lo mÃ¡s que estoy dispuesto a pagar. No puedo permitirme pagarte mÃ¡s.}
+{242}{}{Muy bien, lo harÃ©.}
+{243}{}{No voy a hacerlo por ese dinero. Mi tiempo vale mucho mÃ¡s que eso.}
+{250}{}{Hola, compaÃ±ero. De vuelta a ver otra vez a Whisky Bob, Â¿eh? Â¿Listo para hablar de bebida, negocios y otros asuntos?}
+{251}{}{Hola, chica. Â¿Vienes para hablar otra vez con Whisky Bob de bebida, negocios y otros asuntos?? Â¡Te dejarÃ© que te sientes en mis rodillas! (je, je) Es broma.}
 {252}{}{Claro, Bob... hablemos de bebidas y negocios.}
-{253}{}{Creo que ya tuve suficiente la última vez.}
-{260}{}{¿Has acabado de reabastecer mi alambique? Nah, me parece que aún no lo has hecho. Asegúrate de hacerlo y vuelve cuando hayas acabado.}
-{270}{}{¡Alguien me ha destrozado el alambique! Y eres la única persona a la que se lo había contado. Si fuera más joven, y tuviera la energía de antes, te enseñaría una buena lección. ¡Sal de mi vista, traidora!}
-{280}{}{Bien, gracias por reabastecer mi alambique. Aquí están tus 50 dólares. ¿Tienes alguna pregunta que pueda responder?}
-{281}{}{Gracias. Ahora no tendré que ir cojeando hasta allí... incluso aún que me haya costado 65 dólares. Aquí está tu dinero. ¿Alguna pregunta que pueda responder?}
-{282}{}{Sí. Cuéntame que está pasando en el pueblo últimamente.}
-{283}{}{No, gracias, Bob. Creo que ya sé todo lo que necesito.}
-{290}{}{Todo tipo de cosas que están pasando últimamente en los alrededores. Tenemos }
-{291}{}{Háblame de las mutilaciones de ganado.}
-{292}{}{Háblame del espíritu andante.}
-{293}{}{¿Ratas gigantes? Cuéntame más de ellas.}
-{294}{}{¿Una guarida? ¿Qué clase de guarida?}
-{295}{}{¿Desapariciones? Cuéntame más.}
-{296}{}{Necesito preguntarte otra cosa. ¿Has oído hablar de algo llamado Kit de Creación del Jardín del Edén?}
+{253}{}{Creo que ya tuve suficiente la Ãºltima vez.}
+{260}{}{Â¿Has acabado de reabastecer mi alambique? Nah, me parece que aÃºn no lo has hecho. AsegÃºrate de hacerlo y vuelve cuando hayas acabado.}
+{270}{}{Â¡Alguien me ha destrozado el alambique! Y eres la Ãºnica persona a la que se lo habÃ­a contado. Si fuera mÃ¡s joven, y tuviera la energÃ­a de antes, te enseÃ±arÃ­a una buena lecciÃ³n. Â¡Sal de mi vista, traidora!}
+{280}{}{Bien, gracias por reabastecer mi alambique. AquÃ­ estÃ¡n tus 50 dÃ³lares. Â¿Tienes alguna pregunta que pueda responder?}
+{281}{}{Gracias. Ahora no tendrÃ© que ir cojeando hasta allÃ­... incluso aÃºn que me haya costado 65 dÃ³lares. AquÃ­ estÃ¡ tu dinero. Â¿Alguna pregunta que pueda responder?}
+{282}{}{SÃ­. CuÃ©ntame que estÃ¡ pasando en el pueblo Ãºltimamente.}
+{283}{}{No, gracias, Bob. Creo que ya sÃ© todo lo que necesito.}
+{290}{}{Todo tipo de cosas que estÃ¡n pasando Ãºltimamente en los alrededores. Tenemos }
+{291}{}{HÃ¡blame de las mutilaciones de ganado.}
+{292}{}{HÃ¡blame del espÃ­ritu andante.}
+{293}{}{Â¿Ratas gigantes? CuÃ©ntame mÃ¡s de ellas.}
+{294}{}{Â¿Una guarida? Â¿QuÃ© clase de guarida?}
+{295}{}{Â¿Desapariciones? CuÃ©ntame mÃ¡s.}
+{296}{}{Necesito preguntarte otra cosa. Â¿Has oÃ­do hablar de algo llamado Kit de CreaciÃ³n del JardÃ­n del EdÃ©n?}
 {297}{}{No necesito escuchar todo eso.}
-{298}{}{Claro, Bob, déjame hablar de un pez tan alto como yo que capturé en un barril de agua.}
-{310}{}{Gracias por ayudarme con mi alambique. Cuando mi pierna se cure un poco debería ser capaz de hacerlo yo sólo. ¿Tienes alguna pregunta que hacerle a un galgo viejo como yo?}
-{311}{}{Bueno, he estado pensando en algunos de los rumores que he oído por el pueblo.}
-{312}{}{Ahora mismo no necesito información, Bob.}
-{320}{}{Dicen que los bichos se parecen a hombres gigantes con forma de insecto, con caparazón y todo, y que están mutilando a los brahmines por la noche. Todo lo que encuentran son los cadáveres de los brahmines hechos trizas y horriblemente mutilados.}
+{298}{}{Claro, Bob, dÃ©jame hablar de un pez tan alto como yo que capturÃ© en un barril de agua.}
+{310}{}{Gracias por ayudarme con mi alambique. Cuando mi pierna se cure un poco deberÃ­a ser capaz de hacerlo yo sÃ³lo. Â¿Tienes alguna pregunta que hacerle a un galgo viejo como yo?}
+{311}{}{Bueno, he estado pensando en algunos de los rumores que he oÃ­do por el pueblo.}
+{312}{}{Ahora mismo no necesito informaciÃ³n, Bob.}
+{320}{}{Dicen que los bichos se parecen a hombres gigantes con forma de insecto, con caparazÃ³n y todo, y que estÃ¡n mutilando a los brahmines por la noche. Todo lo que encuentran son los cadÃ¡veres de los brahmines hechos trizas y horriblemente mutilados.}
 {321}{}{Suena horrible.}
 {330}{}{Unos pocos han visto a los hombres bicho, pero el que mejor les ha visto ha sido Torr, el chico de los Buckner. Lo que vio le ha dejado medio tonto, y el pobrecillo no es que fuera ninguna lumbrera.}
-{331}{}{¡Increíble! Déjame hacerte otra pregunta.}
-{332}{}{Creo que es suficiente por ahora, adiós.}
-{340}{}{Hay un cañón justo al oeste del pueblo en el que hubo una luz brillante hace unos pocos meses. Desde entonces y hasta ahora, ha habido un horrible chillido que viene del cañón. Los brahmines que se aventuran por la zona no regresan. Todo el mundo tiene miedo de acercarse demasiado.}
-{341}{}{Sí, parece una señal clara de una plaga de espíritus. Si tan sólo tuvierais un chamán competente... Hablemos de otra cosa.}
-{342}{}{Basta por ahora. Creo que pensaré en ello durante un tiempo. Adiós.}
-{350}{}{Bien, en el interior del barrio de los tramperos, justo al oeste del centro, hay una sección trasera que está infestada de ratas. Cuando más entras en ella, más grandes son. Algunos dicen que hay un espíritu de una rata gigante que las guía a todas. Algunos de los tramperos ni siquiera osan quedarse por allí. Dicen que es demasiado peligroso.}
-{351}{}{¿Tramperos asustados por las ratas? Hablemos de otra cosa.}
-{352}{}{Miedo de las ratas. Hmm, deben de ser ratas diferentes de las que tenemos en casa. Bueno, ya es suficiente. Adiós.}
-{360}{}{No una guarida... La Guarida. No encontrarás nunca otro lugar como éste, tan lleno de maldad y vileza. ¿Dónde he oído eso? En todo caso, es un mal sitio a unos pocos días de viaje al sur de Klamath. Se puede comprar cualquier cosa por el precio adecuado... hasta esclavos. Pero has de tener mucho cuidado allí... hay mucha gente armada y con muy mal genio. No creo que quieran mucho de nosotros, de todas formas; somos demasiado pobres.}
-{361}{}{Creo que estaré a salvo, sé cómo arreglármelas yo sólo. Déjame hacerte otra pregunta.}
-{362}{}{Ya he oído suficiente, Whisky Bob. Adiós.}
-{370}{}{Últimamente han desaparecido un par de personas. Un comerciante, llamado Vic, que está especializado en objetos de antes de la guerra; y uno de nuestros mejores tramperos.}
-{371}{}{Cuéntame más sobre ese comerciante llamado... ¿Vic?}
-{372}{}{Quiero saber más sobre el trampero.}
-{373}{}{Déjame preguntarte algo más.}
-{374}{}{Es todo lo que necesito saber. Adiós, Whisky Bob.}
-{380}{}{Si, Vic era un buen amigo. No le gustaba trabajar mucho, así que se especializó en objetos caros de antes de la guerra y solía ir a venderlos a La Guarida... o incluso a esos estúpidos tribales como objetos religiosos (se ríe). Ups, sin ofender. De todos modos, no le he visto desde hace tiempo. La última vez que oí hablar de él, se fue al sur a vender cosas. Quizás a La Guarida.}
-{381}{}{¿Y qué pasa con el trampero desaparecido?}
+{331}{}{Â¡IncreÃ­ble! DÃ©jame hacerte otra pregunta.}
+{332}{}{Creo que es suficiente por ahora, adiÃ³s.}
+{340}{}{Hay un caÃ±Ã³n justo al oeste del pueblo en el que hubo una luz brillante hace unos pocos meses. Desde entonces y hasta ahora, ha habido un horrible chillido que viene del caÃ±Ã³n. Los brahmines que se aventuran por la zona no regresan. Todo el mundo tiene miedo de acercarse demasiado.}
+{341}{}{SÃ­, parece una seÃ±al clara de una plaga de espÃ­ritus. Si tan sÃ³lo tuvierais un chamÃ¡n competente... Hablemos de otra cosa.}
+{342}{}{Basta por ahora. Creo que pensarÃ© en ello durante un tiempo. AdiÃ³s.}
+{350}{}{Bien, en el interior del barrio de los tramperos, justo al oeste del centro, hay una secciÃ³n trasera que estÃ¡ infestada de ratas. Cuando mÃ¡s entras en ella, mÃ¡s grandes son. Algunos dicen que hay un espÃ­ritu de una rata gigante que las guÃ­a a todas. Algunos de los tramperos ni siquiera osan quedarse por allÃ­. Dicen que es demasiado peligroso.}
+{351}{}{Â¿Tramperos asustados por las ratas? Hablemos de otra cosa.}
+{352}{}{Miedo de las ratas. Hmm, deben de ser ratas diferentes de las que tenemos en casa. Bueno, ya es suficiente. AdiÃ³s.}
+{360}{}{No una guarida... La Guarida. No encontrarÃ¡s nunca otro lugar como Ã©ste, tan lleno de maldad y vileza. Â¿DÃ³nde he oÃ­do eso? En todo caso, es un mal sitio a unos pocos dÃ­as de viaje al sur de Klamath. Se puede comprar cualquier cosa por el precio adecuado... hasta esclavos. Pero has de tener mucho cuidado allÃ­... hay mucha gente armada y con muy mal genio. No creo que quieran mucho de nosotros, de todas formas; somos demasiado pobres.}
+{361}{}{Creo que estarÃ© a salvo, sÃ© cÃ³mo arreglÃ¡rmelas yo sÃ³lo. DÃ©jame hacerte otra pregunta.}
+{362}{}{Ya he oÃ­do suficiente, Whisky Bob. AdiÃ³s.}
+{370}{}{Ãšltimamente han desaparecido un par de personas. Un comerciante, llamado Vic, que estÃ¡ especializado en objetos de antes de la guerra; y uno de nuestros mejores tramperos.}
+{371}{}{CuÃ©ntame mÃ¡s sobre ese comerciante llamado... Â¿Vic?}
+{372}{}{Quiero saber mÃ¡s sobre el trampero.}
+{373}{}{DÃ©jame preguntarte algo mÃ¡s.}
+{374}{}{Es todo lo que necesito saber. AdiÃ³s, Whisky Bob.}
+{380}{}{Si, Vic era un buen amigo. No le gustaba trabajar mucho, asÃ­ que se especializÃ³ en objetos caros de antes de la guerra y solÃ­a ir a venderlos a La Guarida... o incluso a esos estÃºpidos tribales como objetos religiosos (se rÃ­e). Ups, sin ofender. De todos modos, no le he visto desde hace tiempo. La Ãºltima vez que oÃ­ hablar de Ã©l, se fue al sur a vender cosas. QuizÃ¡s a La Guarida.}
+{381}{}{Â¿Y quÃ© pasa con el trampero desaparecido?}
 {382}{}{Otra pregunta, Bob.}
-{383}{}{Gracias, tengo que pensar en todo lo que me has contado. Adiós, Whisky Bob.}
-{390}{}{Con quien deberías hablar sobre el trampero desaparecido es con la señora Buckner. Ella y Smiley estaban muy unidos. Él fue al norte buscando la cueva de los geckos dorados y no se le ha vuelto a ver desde entonces. Hace ya un tiempo.}
-{391}{}{¿Qué pasa con el comerciante desaparecido?}
+{383}{}{Gracias, tengo que pensar en todo lo que me has contado. AdiÃ³s, Whisky Bob.}
+{390}{}{Con quien deberÃ­as hablar sobre el trampero desaparecido es con la seÃ±ora Buckner. Ella y Smiley estaban muy unidos. Ã‰l fue al norte buscando la cueva de los geckos dorados y no se le ha vuelto a ver desde entonces. Hace ya un tiempo.}
+{391}{}{Â¿QuÃ© pasa con el comerciante desaparecido?}
 {392}{}{Hmm, interesante. Hablemos de otra cosa.}
-{393}{}{Es suficiente. Adiós, Whisky Bob.}
-{400}{}{Ojala no te hubiera dicho nada. No reabasteciste mi alambique a tiempo, ¡y mi último lote de whisky se ha echado a perder! No quiero volver a tratar nada contigo y espero que nadie más quiera.}
-{401}{}{Pero yo, yo creía que tenía más tiempo...}
-{402}{}{Seguramente sabría igual lo hubiera hecho o no.}
+{393}{}{Es suficiente. AdiÃ³s, Whisky Bob.}
+{400}{}{Ojala no te hubiera dicho nada. No reabasteciste mi alambique a tiempo, Â¡y mi Ãºltimo lote de whisky se ha echado a perder! No quiero volver a tratar nada contigo y espero que nadie mÃ¡s quiera.}
+{401}{}{Pero yo, yo creÃ­a que tenÃ­a mÃ¡s tiempo...}
+{402}{}{Seguramente sabrÃ­a igual lo hubiera hecho o no.}
 {403}{}{De todos modos tu whisky sabe a meado de perro.}
-{404}{}{El combustible no debió crear una llama a la suficiente temperatura para una fermentación correcta.}
-{410}{}{No quiero oír tus malditas excusas. ¡Desaparece de mi vista! Pero te digo una cosa; todo el mundo va a saber lo poco que vale tu palabra después de esto.}
-{420}{}{¿Un Kit de Creación del Jardín del Edén? Creo haber visto uno de esos nombrado en una página de un viejo catálogo que estaba mirando mientras estaba sentado, en el campo. Pero no sé mucho más que eso.}
-{421}{}{¿De verdad? Me gustaría ver ese catálogo.}
-{430}{}{Eh, (avergonzado). Es que usé esa pagina para ocuparme de cierto asunto. ¿Sabes lo que quiero decir?}
-{431}{}{¿Asunto? Oh, esa clase de asunto. Yo prefiero los periódicos viejos. Oh, venga, hablemos de otra cosa.}
-{432}{}{Maldición, estaba tan cerca. Es suficiente decepción por el momento. Adiós, Bob.}
-{500}{}{Hola, ¿qué tal? ¿Qué puedo hacer por ti?}
-{501}{}{¿Qué está pasando aquí?}
+{404}{}{El combustible no debiÃ³ crear una llama a la suficiente temperatura para una fermentaciÃ³n correcta.}
+{410}{}{No quiero oÃ­r tus malditas excusas. Â¡Desaparece de mi vista! Pero te digo una cosa; todo el mundo va a saber lo poco que vale tu palabra despuÃ©s de esto.}
+{420}{}{Â¿Un Kit de CreaciÃ³n del JardÃ­n del EdÃ©n? Creo haber visto uno de esos nombrado en una pÃ¡gina de un viejo catÃ¡logo que estaba mirando mientras estaba sentado, en el campo. Pero no sÃ© mucho mÃ¡s que eso.}
+{421}{}{Â¿De verdad? Me gustarÃ­a ver ese catÃ¡logo.}
+{430}{}{Eh, (avergonzado). Es que usÃ© esa pagina para ocuparme de cierto asunto. Â¿Sabes lo que quiero decir?}
+{431}{}{Â¿Asunto? Oh, esa clase de asunto. Yo prefiero los periÃ³dicos viejos. Oh, venga, hablemos de otra cosa.}
+{432}{}{MaldiciÃ³n, estaba tan cerca. Es suficiente decepciÃ³n por el momento. AdiÃ³s, Bob.}
+{500}{}{Hola, Â¿quÃ© tal? Â¿QuÃ© puedo hacer por ti?}
+{501}{}{Â¿QuÃ© estÃ¡ pasando aquÃ­?}
 {502}{}{Nada, gracias.}
 {550}{}{Bob no quiere hablar contigo.}
 {2900}{}{Las cosas se han ralentizado recientemente. Nada de lo que digo.}
 {2901}{}{mutiladores de los brahmines}
-{2902}{}{espíritus que andan}
+{2902}{}{espÃ­ritus que andan}
 {2903}{}{ratas gigantes}
 {2904}{}{la gente desaparecida}
-{2905}{}{. Algunos incluso dicen que La Guarida está involucrada.}
+{2905}{}{. Algunos incluso dicen que La Guarida estÃ¡ involucrada.}

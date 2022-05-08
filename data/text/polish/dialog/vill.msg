@@ -1,5 +1,5 @@
-{100}{}{Kiedy wchodzisz do ma³ej wioski, twój nos zostaje zaatakowany przez znajomy smród gryzoni. Widzisz kilka ³a¿¹cych w pobli¿u kretoszczurów. Dziwne, wydaj¹ siê nie byæ zainteresowane atakowaniem ciebie czy wieœniaków tu mieszkaj¹cych.}
-{101}{}{Wioska wydaje siê pusta. Powietrze œmierdzi gnij¹cymi zw³okami kretoszczurów.}
-{102}{}{Wioska bardzo siê zmieni³a od twojej ostatniej wizyty.}
-{103}{}{Zasz³o tu jeszcze wiêcej zmian od twojej ostatniej wizyty. Zdaje siê, ¿e ochrona kretoszczurów zosta³a zast¹piona murem.}
-{104}{}{Hej! Gdzie siê wszyscy podziali?}
+{100}{}{Kiedy wchodzisz do maÅ‚ej wioski, twÃ³j nos zostaje zaatakowany przez znajomy smrÃ³d gryzoni. Widzisz kilka Å‚aÅ¼Ä…cych w pobliÅ¼u kretoszczurÃ³w. Dziwne, wydajÄ… siÄ™ nie byÄ‡ zainteresowane atakowaniem ciebie czy wieÅ›niakÃ³w tu mieszkajÄ…cych.}
+{101}{}{Wioska wydaje siÄ™ pusta. Powietrze Å›mierdzi gnijÄ…cymi zwÅ‚okami kretoszczurÃ³w.}
+{102}{}{Wioska bardzo siÄ™ zmieniÅ‚a od twojej ostatniej wizyty.}
+{103}{}{ZaszÅ‚o tu jeszcze wiÄ™cej zmian od twojej ostatniej wizyty. Zdaje siÄ™, Å¼e ochrona kretoszczurÃ³w zostaÅ‚a zastÄ…piona murem.}
+{104}{}{Hej! Gdzie siÄ™ wszyscy podziali?}

@@ -1,163 +1,163 @@
-{100}{}{Você vê um homem que se parece muito com um lojista.}
-{101}{}{Você vê Lao Chou, o lojista.}
-{102}{}{Você vê um homem em roupas funcionais e confortáveis.}
-{103}{}{Saudações! Bem vindo à minha loja, Flying Dragon 8.}
-{104}{}{O que posso fazer por você?}
+{100}{}{VocÃª vÃª um homem que se parece muito com um lojista.}
+{101}{}{VocÃª vÃª Lao Chou, o lojista.}
+{102}{}{VocÃª vÃª um homem em roupas funcionais e confortÃ¡veis.}
+{103}{}{SaudaÃ§Ãµes! Bem vindo Ã  minha loja, Flying Dragon 8.}
+{104}{}{O que posso fazer por vocÃª?}
 {105}{}{Pastel de Flango!}
 {106}{}{Coisas!}
-{107}{}{Quem é você?}
+{107}{}{Quem Ã© vocÃª?}
 {108}{}{Estou procurando por algum equipamento.}
-{109}{}{Estou procurando por alguma informação.}
+{109}{}{Estou procurando por alguma informaÃ§Ã£o.}
 {110}{}{Adeus.}
-{111}{}{Você quer comprar algo?}
-{112}{}{:: acene com a cabeça ::}
-{113}{}{::balançar a cabeça::}
-{114}{}{Isso é o que temos, então.}
+{111}{}{VocÃª quer comprar algo?}
+{112}{}{:: acene com a cabeÃ§a ::}
+{113}{}{::balanÃ§ar a cabeÃ§a::}
+{114}{}{Isso Ã© o que temos, entÃ£o.}
 {115}{}{[FEITO]}
-{116}{}{Bem, temo que é tudo que posso fazer por você. Tenha um bom dia. }
+{116}{}{Bem, temo que Ã© tudo que posso fazer por vocÃª. Tenha um bom dia. }
 {117}{}{[FEITO]}
-{118}{}{Eu sou Lao Chou. Eu dirijo este estabelecimento, Flying Dragon 8, uma loja geral. Eu sou conhecido por trocar ... informação.}
-{119}{}{Que tipo de informação?}
+{118}{}{Eu sou Lao Chou. Eu dirijo este estabelecimento, Flying Dragon 8, uma loja geral. Eu sou conhecido por trocar ... informaÃ§Ã£o.}
+{119}{}{Que tipo de informaÃ§Ã£o?}
 {120}{}{Entendo. Eu gostaria de algum equipamento.}
-{121}{}{Pouco acontece nesta cidade que eu não conheço. Claro, você deve saber a pergunta certa a se fazer, sim? O que você precisa saber?}
-{122}{}{Estou procurando algumas atualizações no meu equipamento.}
+{121}{}{Pouco acontece nesta cidade que eu nÃ£o conheÃ§o. Claro, vocÃª deve saber a pergunta certa a se fazer, sim? O que vocÃª precisa saber?}
+{122}{}{Estou procurando algumas atualizaÃ§Ãµes no meu equipamento.}
 {123}{}{Onde posso encontrar planos de vertibird?}
-{124}{}{Eu preciso encontrar combustível para o PMV Valdez.}
+{124}{}{Eu preciso encontrar combustÃ­vel para o PMV Valdez.}
 {125}{}{Eu entendo que preciso de um FOB para acessar o computador do Valdez.}
-{126}{}{Eu preciso de algumas peças de computador para o PMV Valdez.}
-{127}{}{Estou procurando por um baço.}
-{128}{}{Eu ouvi que algumas máquinas voadoras trouxeram uma carga de aldeões por este caminho.}
+{126}{}{Eu preciso de algumas peÃ§as de computador para o PMV Valdez.}
+{127}{}{Estou procurando por um baÃ§o.}
+{128}{}{Eu ouvi que algumas mÃ¡quinas voadoras trouxeram uma carga de aldeÃµes por este caminho.}
 {129}{}{Nada. Tchau.}
-{130}{}{Fale com Crockett, no acampamento Hubologista. Ele é o cientista chefe deles.}
-{131}{}{Obrigado. Eu preciso de mais informação.}
+{130}{}{Fale com Crockett, no acampamento Hubologista. Ele Ã© o cientista chefe deles.}
+{131}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {132}{}{Obrigado. Tchau.}
-{133}{}{Olhe para o norte, em Navarro. Há uma base escondida perto do posto de gasolina.}
-{134}{}{Obrigado. Eu preciso de mais informação.}
+{133}{}{Olhe para o norte, em Navarro. HÃ¡ uma base escondida perto do posto de gasolina.}
+{134}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {135}{}{Obrigado. Tchau.}
-{136}{}{Você já tentou procurar nos antigos Refúgios? Eu ouvi dizer que eles são uma riqueza de informações e tecnologia dos antigos.}
-{137}{}{Obrigado. Eu preciso de mais informação.}
+{136}{}{VocÃª jÃ¡ tentou procurar nos antigos RefÃºgios? Eu ouvi dizer que eles sÃ£o uma riqueza de informaÃ§Ãµes e tecnologia dos antigos.}
+{137}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {138}{}{Obrigado. Tchau.}
-{139}{}{Um baço? Ha ha! Sim, Chip do Valdez perdeu o baço em um jogo de cartas no outro dia. Eu vendi para o Dr. Wong. Ele ficou fascinado por isso.}
-{140}{}{Dr. Wong? Onde posso encontrá-lo?}
-{141}{}{Como você perde um baço?}
+{139}{}{Um baÃ§o? Ha ha! Sim, Chip do Valdez perdeu o baÃ§o em um jogo de cartas no outro dia. Eu vendi para o Dr. Wong. Ele ficou fascinado por isso.}
+{140}{}{Dr. Wong? Onde posso encontrÃ¡-lo?}
+{141}{}{Como vocÃª perde um baÃ§o?}
 {142}{}{Obrigado. Eu tenho mais perguntas.}
-{143}{}{Ah, então Tchau.}
-{144}{}{O Dr. Wong é o cientista chefe do Palácio de Aço. Procure-o lá.}
-{145}{}{Como você perde um baço, aliás?}
-{146}{}{Obrigado. Eu preciso de mais informação.}
+{143}{}{Ah, entÃ£o Tchau.}
+{144}{}{O Dr. Wong Ã© o cientista chefe do PalÃ¡cio de AÃ§o. Procure-o lÃ¡.}
+{145}{}{Como vocÃª perde um baÃ§o, aliÃ¡s?}
+{146}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {147}{}{Obrigado. Tchau.}
-{148}{}{Ele estava bêbado. Muito, muito bêbado. Ele estava obcecado com o baço a noite toda. E então ele o aposta.}
-{149}{}{Então você pegou o BAÇO dele?}
+{148}{}{Ele estava bÃªbado. Muito, muito bÃªbado. Ele estava obcecado com o baÃ§o a noite toda. E entÃ£o ele o aposta.}
+{149}{}{EntÃ£o vocÃª pegou o BAÃ‡O dele?}
 {150}{}{Eu vejo. Bem, eu tenho mais perguntas.}
-{151}{}{Sim. Foi uma dívida. Ele é um homem honrado.}
-{152}{}{Entendo. Eu preciso de mais informações.}
-{153}{}{Você é um bastardo rude e doente, não é?}
+{151}{}{Sim. Foi uma dÃ­vida. Ele Ã© um homem honrado.}
+{152}{}{Entendo. Eu preciso de mais informaÃ§Ãµes.}
+{153}{}{VocÃª Ã© um bastardo rude e doente, nÃ£o Ã©?}
 {154}{}{Direito. Tchau.}
-{155}{}{Você é uma pessoa desonrosa. Eu não quero você na minha loja. Volte outra hora.}
+{155}{}{VocÃª Ã© uma pessoa desonrosa. Eu nÃ£o quero vocÃª na minha loja. Volte outra hora.}
 {156}{}{Seja o que for.}
-{157}{}{Não. Eles vieram do norte e voaram sobre nós, indo para o mar.}
-{158}{}{Além do horizonte? Como diabos eu chego lá?}
-{159}{}{Sim, eles fizeram. Diga-me onde eles estão antes de eu abrir você como uma lata de sardinha.}
-{160}{}{Bem... nenhum dos nossos barcos é capaz de percorrer essa distância. A menos que...}
+{157}{}{NÃ£o. Eles vieram do norte e voaram sobre nÃ³s, indo para o mar.}
+{158}{}{AlÃ©m do horizonte? Como diabos eu chego lÃ¡?}
+{159}{}{Sim, eles fizeram. Diga-me onde eles estÃ£o antes de eu abrir vocÃª como uma lata de sardinha.}
+{160}{}{Bem... nenhum dos nossos barcos Ã© capaz de percorrer essa distÃ¢ncia. A menos que...}
 {161}{}{A menos que...?}
 {162}{}{Obrigado pela "ajuda". Eu vou procurar um conselho de verdade.}
-{163}{}{... a menos que você consiga colocar o velho petroleiro nas docas funcionando. É um navio antigo, mas provavelmente ainda funciona com um pouquinho de trabalho em cima dele. Pergunte aos punks para mais informações.}
-{164}{}{Obrigado. Eu preciso de mais informação.}
+{163}{}{... a menos que vocÃª consiga colocar o velho petroleiro nas docas funcionando. Ã‰ um navio antigo, mas provavelmente ainda funciona com um pouquinho de trabalho em cima dele. Pergunte aos punks para mais informaÃ§Ãµes.}
+{164}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {165}{}{Obrigado. Tchau.}
-{166}{}{Dizem que os Hubologistas conseguiram uma grande quantidade de combustível recentemente. Negocie com eles.}
-{167}{}{Obrigado. Eu preciso de mais informação.}
+{166}{}{Dizem que os Hubologistas conseguiram uma grande quantidade de combustÃ­vel recentemente. Negocie com eles.}
+{167}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {168}{}{Obrigado. Tchau.}
-{169}{}{Você pode tentar alguns dos cientistas Shi no Palácio de Aço. Talvez eles possam ajudá-lo com suas necessidades de combustível.}
-{170}{}{Obrigado. Eu preciso de mais informação.}
+{169}{}{VocÃª pode tentar alguns dos cientistas Shi no PalÃ¡cio de AÃ§o. Talvez eles possam ajudÃ¡-lo com suas necessidades de combustÃ­vel.}
+{170}{}{Obrigado. Eu preciso de mais informaÃ§Ã£o.}
 {171}{}{Obrigado. Tchau.}
-{172}{}{Você é um inimigo do meu povo. Morra!}
-{173}{}{Você fez bem para o meu pessoal ao matar o AHS-9. Espero poder ajudá-lo de alguma forma.}
-{174}{}{Quem é você?}
+{172}{}{VocÃª Ã© um inimigo do meu povo. Morra!}
+{173}{}{VocÃª fez bem para o meu pessoal ao matar o AHS-9. Espero poder ajudÃ¡-lo de alguma forma.}
+{174}{}{Quem Ã© vocÃª?}
 {175}{}{Estou procurando por algum equipamento.}
-{176}{}{Estou procurando por alguma informação.}
+{176}{}{Estou procurando por alguma informaÃ§Ã£o.}
 {177}{}{Adeus.}
-{178}{}{Você já entregou aos Hubologistas. Não?}
+{178}{}{VocÃª jÃ¡ entregou aos Hubologistas. NÃ£o?}
 {179}{}{Ah sim ... ah ... Posso perguntar outra coisa?}
 {180}{}{Ah sim...Tchau}
-{200}{}{O que mais você pode me dizer sobre o petroleiro?}
-{210}{}{Mesmo que você consiga ter o NavCom funcionando e o tanque cheio, você ainda precisará de muita sorte
-  se realmente quer que o navio navegue novamente.}
-{211}{}{O que você quer dizer com "muita sorte"?'}
-{220}{}{Quero dizer que o pedaço de lixo é mais velho que a maioria dos ghouls. Seria um milagre se não afundasse com você. Isso é tudo o que eu quis dizer.}
-{221}{}{Tenho a sensação de que você não está me contando algo sobre o petroleiro.}
-{230}{}{Talvez tenha. (sorrindo) Ou talvez a Wasteland tenha feito você paranóico.}
-{231}{}{Escute, eu preciso encontrar minha tribo. Esses bastardos que os pegaram são perigosos e precisam ser parados.}
-{232}{}{Qual é? O que há de tão especial sobre o petroleiro? Somos só duas pessoas conversando.}
-{233}{}{Tem certeza? Eu vou fazer valer a pena para você.}
-{234}{}{Eu não tenho tempo para esses joguinhos mentais. Adeus.}
-{240}{}{Bah. Eles não são nada. No entanto, não é o petroleiro que é especial. É apenas um grande petroleiro enferrujado como você disse.
+{200}{}{O que mais vocÃª pode me dizer sobre o petroleiro?}
+{210}{}{Mesmo que vocÃª consiga ter o NavCom funcionando e o tanque cheio, vocÃª ainda precisarÃ¡ de muita sorte
+Â  se realmente quer que o navio navegue novamente.}
+{211}{}{O que vocÃª quer dizer com "muita sorte"?'}
+{220}{}{Quero dizer que o pedaÃ§o de lixo Ã© mais velho que a maioria dos ghouls. Seria um milagre se nÃ£o afundasse com vocÃª. Isso Ã© tudo o que eu quis dizer.}
+{221}{}{Tenho a sensaÃ§Ã£o de que vocÃª nÃ£o estÃ¡ me contando algo sobre o petroleiro.}
+{230}{}{Talvez tenha. (sorrindo) Ou talvez a Wasteland tenha feito vocÃª paranÃ³ico.}
+{231}{}{Escute, eu preciso encontrar minha tribo. Esses bastardos que os pegaram sÃ£o perigosos e precisam ser parados.}
+{232}{}{Qual Ã©? O que hÃ¡ de tÃ£o especial sobre o petroleiro? Somos sÃ³ duas pessoas conversando.}
+{233}{}{Tem certeza? Eu vou fazer valer a pena para vocÃª.}
+{234}{}{Eu nÃ£o tenho tempo para esses joguinhos mentais. Adeus.}
+{240}{}{Bah. Eles nÃ£o sÃ£o nada. No entanto, nÃ£o Ã© o petroleiro que Ã© especial. Ã‰ apenas um grande petroleiro enferrujado como vocÃª disse.
  Nosso submarino, por outro lado ...}
 {241}{}{Submarino?}
-{250}{}{Vamos conversar então. Mas não há nada especial sobre o petroleiro. Eu te dou minha palavra.}
+{250}{}{Vamos conversar entÃ£o. Mas nÃ£o hÃ¡ nada especial sobre o petroleiro. Eu te dou minha palavra.}
 {251}{}{E se eu te pagasse para me dizer?}
-{260}{}{Hmm ... Os negócios estão lentos ultimamente. Eu poderia usar mais clientes. Ou uma doação de um muito generoso. Talvez, $ 2000?}
-{261}{}{Aqui está. Mas é melhor que sua informação seja útil.}
-{262}{}{$ 1.500 e essa é a minha oferta final.}
-{263}{}{Acho que não. Isso é demais.}
-{270}{}{(Lao Chou embolsa US $ 2000). Não é o navio-tanque que é especial. É apenas um grande petroleiro enferrujado como você disse.
-  Nosso submarino, por outro lado ...}
+{260}{}{Hmm ... Os negÃ³cios estÃ£o lentos ultimamente. Eu poderia usar mais clientes. Ou uma doaÃ§Ã£o de um muito generoso. Talvez, $ 2000?}
+{261}{}{Aqui estÃ¡. Mas Ã© melhor que sua informaÃ§Ã£o seja Ãºtil.}
+{262}{}{$ 1.500 e essa Ã© a minha oferta final.}
+{263}{}{Acho que nÃ£o. Isso Ã© demais.}
+{270}{}{(Lao Chou embolsa US $ 2000). NÃ£o Ã© o navio-tanque que Ã© especial. Ã‰ apenas um grande petroleiro enferrujado como vocÃª disse.
+Â  Nosso submarino, por outro lado ...}
 {271}{}{Submarino?}
-{280}{}{Não temos mais nada a discutir, então.}
-{281}{}{Tem certeza? Minha querida esposa Miria certamente fará valer a pena.}
+{280}{}{NÃ£o temos mais nada a discutir, entÃ£o.}
+{281}{}{Tem certeza? Minha querida esposa Miria certamente farÃ¡ valer a pena.}
 {282}{}{Adeus.}
-{285}{}{Você barganha muito bem. Tudo bem, $1500.}
-{286}{}{Aqui está. Mas é melhor que sua informação seja útil.}
-{287}{}{(Lao Chou embolsa os $ 1500). Não é o navio-tanque que é especial. É apenas um grande petroleiro enferrujado como você disse.
-  Nosso submarino, por outro lado ...}
+{285}{}{VocÃª barganha muito bem. Tudo bem, $1500.}
+{286}{}{Aqui estÃ¡. Mas Ã© melhor que sua informaÃ§Ã£o seja Ãºtil.}
+{287}{}{(Lao Chou embolsa os $ 1500). NÃ£o Ã© o navio-tanque que Ã© especial. Ã‰ apenas um grande petroleiro enferrujado como vocÃª disse.
+Â  Nosso submarino, por outro lado ...}
 {288}{}{Submarino?}
-{290}{}{Bem, se você coloca dessa maneira, eu tenho ficado confinado nesta loja empoeirada por um muito tempo. Já faz um bom tempo desde que eu tenha estado na companhia de uma mulher encantadora como você.}
+{290}{}{Bem, se vocÃª coloca dessa maneira, eu tenho ficado confinado nesta loja empoeirada por um muito tempo. JÃ¡ faz um bom tempo desde que eu tenha estado na companhia de uma mulher encantadora como vocÃª.}
 {291}{}{[CONTINUAR]}
-{300}{}{[As horas passam como em uma infinidade. Você começa a suspeitar que Lao Chou pode não ser completamente humano. Você desmaia, eventualmente.]}
+{300}{}{[As horas passam como em uma infinidade. VocÃª comeÃ§a a suspeitar que Lao Chou pode nÃ£o ser completamente humano. VocÃª desmaia, eventualmente.]}
 {301}{}{uhhh... O que aconteceu?}
-{310}{}{Você desmaiou enquanto eu nos movia para a posição do lótus triplo, e eu tive que terminar me dando prazer com o estilo panda-sorridente.
-  Mas um acordo é um acordo. Não é o tanque que é especial - é apenas um grande tanque enferrujado como você disse. Nosso submarino, por outro lado...}
+{310}{}{VocÃª desmaiou enquanto eu nos movia para a posiÃ§Ã£o do lÃ³tus triplo, e eu tive que terminar me dando prazer com o estilo panda-sorridente.
+Â  Mas um acordo Ã© um acordo. NÃ£o Ã© o tanque que Ã© especial - Ã© apenas um grande tanque enferrujado como vocÃª disse. Nosso submarino, por outro lado...}
 {311}{}{Submarino?}
-{330}{}{Eu... acho que não}
-{331}{}{Não tente e lute agora. Você me quer e você sabe disso.}
-{340}{}{Na verdade não. Você não faz o meu tipo.}
-{341}{}{Ah, eu intendi. Você não gosta de mulheres.}
-{350}{}{Eu gosto. Eu só não te acho muito atraente. Talvez se eu estivesse bêbado.}
-{351}{}{Você é obviamente cego. Tanto faz. É você quem está perdendo.}
-{360}{}{O que você está propondo? Ahh ... bem, eu tenho estado confinado nesta loja há muito tempo. Eu revelarei tudo o que sei
-  em troca de uma amostra dos encantos de sua amiga.}
-{361}{}{Miria, querida... Eu acho que você terá que, bem... dar para esse cara em troca de informações.}
-{362}{}{Eu estava brincando, velho. Como se eu fosse deixar você comer a minha esposa... Eu estou saindo.}
-{370}{}{[Você espera do lado de fora e ouve gemidos de dentro do Flying Dragon 8. Passa uma hora e depois outra. Você
-  bate na porta, gritando: "Apressem-se aí!". Finalmente, os gemidos se tornam um grito primitivo.]}
-{371}{}{[Arrombar a porta] Ei, o que vocês dois estão fazendo aí?}
-{380}{}{Um sorridente Lao Chou sai do quarto, ainda puxando as calças. Alguns momentos depois Miria tropeça atrás dele, parecendo atordoada e confusa, mas profundamente satisfeita. Sua esposa é muito mais experiente do que parece.}
-{381}{}{Eu sei. Agora puxe sua maldita calça e me diga o que há de tão especial no navio.}
-{390}{}{Não há nada de especial no navio-tanque. É apenas um grande petroleiro enferrujado como você disse. Nosso submarino, por outro lado ...}
+{330}{}{Eu... acho que nÃ£o}
+{331}{}{NÃ£o tente e lute agora. VocÃª me quer e vocÃª sabe disso.}
+{340}{}{Na verdade nÃ£o. VocÃª nÃ£o faz o meu tipo.}
+{341}{}{Ah, eu intendi. VocÃª nÃ£o gosta de mulheres.}
+{350}{}{Eu gosto. Eu sÃ³ nÃ£o te acho muito atraente. Talvez se eu estivesse bÃªbado.}
+{351}{}{VocÃª Ã© obviamente cego. Tanto faz. Ã‰ vocÃª quem estÃ¡ perdendo.}
+{360}{}{O que vocÃª estÃ¡ propondo? Ahh ... bem, eu tenho estado confinado nesta loja hÃ¡ muito tempo. Eu revelarei tudo o que sei
+Â  em troca de uma amostra dos encantos de sua amiga.}
+{361}{}{Miria, querida... Eu acho que vocÃª terÃ¡ que, bem... dar para esse cara em troca de informaÃ§Ãµes.}
+{362}{}{Eu estava brincando, velho. Como se eu fosse deixar vocÃª comer a minha esposa... Eu estou saindo.}
+{370}{}{[VocÃª espera do lado de fora e ouve gemidos de dentro do Flying Dragon 8. Passa uma hora e depois outra. VocÃª
+Â  bate na porta, gritando: "Apressem-se aÃ­!". Finalmente, os gemidos se tornam um grito primitivo.]}
+{371}{}{[Arrombar a porta] Ei, o que vocÃªs dois estÃ£o fazendo aÃ­?}
+{380}{}{Um sorridente Lao Chou sai do quarto, ainda puxando as calÃ§as. Alguns momentos depois Miria tropeÃ§a atrÃ¡s dele, parecendo atordoada e confusa, mas profundamente satisfeita. Sua esposa Ã© muito mais experiente do que parece.}
+{381}{}{Eu sei. Agora puxe sua maldita calÃ§a e me diga o que hÃ¡ de tÃ£o especial no navio.}
+{390}{}{NÃ£o hÃ¡ nada de especial no navio-tanque. Ã‰ apenas um grande petroleiro enferrujado como vocÃª disse. Nosso submarino, por outro lado ...}
 {391}{}{Submarino?}
-{400}{}{O Shi-Huang-Ti. Meu bisavô, Ye Li, era seu capitão. Ele desencadeou seus fogos nucleares como um dragão terrível na costa da Califórnia.}
-{401}{}{Não brinca.}
-{410}{}{Ironicamente, um míssil defeituoso de nossa própria nação ancestral saiu do curso e explodiu sobre o oceano perto da localização do submarino. A explosão derrubou os sistemas da Shi-Huang-Ti, deixando o capitão Ye Li e sua tripulação presos no mar.}
-{411}{}{Isso é karma para você.}
-{420}{}{Mas houve salvação. Depois de semanas á deriva, o submarino acabou por descansar nas águas rasas da
-  Baía de São Francisco. Esta cidade se tornou nossa nova casa. Nós finalmente restauramos o Shi-Huang-Ti; seus sistemas de segmentação,
-  armas. Tem poder de fogo suficiente para explodir quaisquer potenciais invasores fora da água. Então, mesmo se você tenha aquele velho petroleiro
-  funcionando, não iria longe, pois o submarino destruiria qualquer embarcação não chinesa que navegasse pela baía.}
-{421}{}{Isso soa como um problema. Então, como eu chegaria ao submarino?}
-{430}{}{Você nada. Ou pega a lancha nas docas. Porém, ela é protegida por um dos nossos melhores soldados, e ele não vai
-  deixar um estranho como você passar por ele.}
-{431}{}{Você tem alguma ideia de como eu posso passar por ele então, sem atirar na cara dele?}
-{440}{}{Ele está sob ordens estritas para protege-lo 24h. Ele não deixará ninguém passar sem a senha correta.}
-{441}{}{Eu suponho que você não saiba isso?}
-{450}{}{Depende. Eu suponho que você não tenha $ 10.000 para garantir a continuidade da prosperidade da minha loja?}
-{451}{}{Aqui está seus $10.000.}
-{452}{}{Isso é demais para uma simples senha. Minha oferta é $5.000 e não passo disso.}
+{400}{}{O Shi-Huang-Ti. Meu bisavÃ´, Ye Li, era seu capitÃ£o. Ele desencadeou seus fogos nucleares como um dragÃ£o terrÃ­vel na costa da CalifÃ³rnia.}
+{401}{}{NÃ£o brinca.}
+{410}{}{Ironicamente, um mÃ­ssil defeituoso de nossa prÃ³pria naÃ§Ã£o ancestral saiu do curso e explodiu sobre o oceano perto da localizaÃ§Ã£o do submarino. A explosÃ£o derrubou os sistemas da Shi-Huang-Ti, deixando o capitÃ£o Ye Li e sua tripulaÃ§Ã£o presos no mar.}
+{411}{}{Isso Ã© karma para vocÃª.}
+{420}{}{Mas houve salvaÃ§Ã£o. Depois de semanas Ã¡ deriva, o submarino acabou por descansar nas Ã¡guas rasas da
+Â  BaÃ­a de SÃ£o Francisco. Esta cidade se tornou nossa nova casa. NÃ³s finalmente restauramos o Shi-Huang-Ti; seus sistemas de segmentaÃ§Ã£o,
+Â  armas. Tem poder de fogo suficiente para explodir quaisquer potenciais invasores fora da Ã¡gua. EntÃ£o, mesmo se vocÃª tenha aquele velho petroleiro
+Â  funcionando, nÃ£o iria longe, pois o submarino destruiria qualquer embarcaÃ§Ã£o nÃ£o chinesa que navegasse pela baÃ­a.}
+{421}{}{Isso soa como um problema. EntÃ£o, como eu chegaria ao submarino?}
+{430}{}{VocÃª nada. Ou pega a lancha nas docas. PorÃ©m, ela Ã© protegida por um dos nossos melhores soldados, e ele nÃ£o vai
+Â  deixar um estranho como vocÃª passar por ele.}
+{431}{}{VocÃª tem alguma ideia de como eu posso passar por ele entÃ£o, sem atirar na cara dele?}
+{440}{}{Ele estÃ¡ sob ordens estritas para protege-lo 24h. Ele nÃ£o deixarÃ¡ ninguÃ©m passar sem a senha correta.}
+{441}{}{Eu suponho que vocÃª nÃ£o saiba isso?}
+{450}{}{Depende. Eu suponho que vocÃª nÃ£o tenha $ 10.000 para garantir a continuidade da prosperidade da minha loja?}
+{451}{}{Aqui estÃ¡ seus $10.000.}
+{452}{}{Isso Ã© demais para uma simples senha. Minha oferta Ã© $5.000 e nÃ£o passo disso.}
 {453}{}{Nenhum acordo.}
-{460}{}{Ah, muito obrigado. A senha é XY8QIV2SHI. Outros podem começar a me vijiar depois disso, então não esqueça a senha. Se alguma vez conversarmos novamente, precisarei de mais dinheiro para subornos.}
+{460}{}{Ah, muito obrigado. A senha Ã© XY8QIV2SHI. Outros podem comeÃ§ar a me vijiar depois disso, entÃ£o nÃ£o esqueÃ§a a senha. Se alguma vez conversarmos novamente, precisarei de mais dinheiro para subornos.}
 {461}{}{Obrigado. Adeus.}
-{470}{}{Você é astuto, eu vou te dar isso. Certo. Eu aceito sua oferta. A senha é XY8QIV2SHI. Não esqueça, ou você terá que comprar de mim novamente.}
+{470}{}{VocÃª Ã© astuto, eu vou te dar isso. Certo. Eu aceito sua oferta. A senha Ã© XY8QIV2SHI. NÃ£o esqueÃ§a, ou vocÃª terÃ¡ que comprar de mim novamente.}
 {471}{}{Obrigado. Adeus.}
-{480}{}{Não me insulte com suas ofertas escassas. $10.000. É pegar ou largar.}
-{481}{}{Bem. Aqui está o seus $10.000.}
+{480}{}{NÃ£o me insulte com suas ofertas escassas. $10.000. Ã‰ pegar ou largar.}
+{481}{}{Bem. Aqui estÃ¡ o seus $10.000.}
 {482}{}{Nenhum acordo.}
-{490}{}{Azar o seu então. Não acredito que tenhamos mais algo para discutir. Adeus.}
+{490}{}{Azar o seu entÃ£o. NÃ£o acredito que tenhamos mais algo para discutir. Adeus.}
 {491}{}{Adeus.}

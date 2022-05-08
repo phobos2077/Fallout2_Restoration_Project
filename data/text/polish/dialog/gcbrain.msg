@@ -1,195 +1,195 @@
-{100}{}{Widzisz kretoszczura niezwyk³ych rozmiarów.}
-{101}{}{To Mózg.}
-{102}{}{Widzisz wielkiego kretoszczura-albinosa. Ma bardzo du¿¹ g³owê i zdaje siê byæ bardzo inteligentny.}
-{110}{}{Przewy¿szasz g³upot¹ wiêkszoœæ ludzi, którzy staj¹ przed moim obliczem. Teraz zginiesz!}
-{120}{}{Nie wiem czego tu szukasz, ale lepiej od razu siê st¹d wynoœ.}
-{121}{}{Nie mam dla ciebie czasu. Zamierzam przej¹æ kontrolê nad œwiatem. IdŸ ju¿ sobie.}
-{122}{}{Ostrzegam po raz ostatni: przestañ mi przeszkadzaæ.}
-{123}{}{Mam ju¿ doœæ. Zomak! Zabij go!}
-{130}{}{Zbli¿aj¹ siê wielkie zmiany. Ale nic siê nie stanie, dopóki nie weŸmiesz siê za naprawê naszego reaktora atomowego. (do siebie) Ludzie... S¹ tacy... rozczarowuj¹cy. }
-{131}{}{Naprawê reaktora atomowego?}
-{132}{}{No tak. Lepiej od razu wezmê siê do roboty. ¯egnaj.}
-{140}{}{Wyczuwam przy tobie jeden z moich talizmanów, ale nie przypominam sobie, ¿ebym ci jakiœ dawa³.}
-{141}{}{Nie pamiêtam, sk¹d go mam.}
-{142}{}{Eee, pewnie po prostu zapomnia³eœ.}
-{143}{}{To moja woda koloñska. Myszette - podoba ci siê?}
-{144}{}{No tak. Jeden z twoich poddanych wola³ oddaæ ¿ycie, ni¿ siê z nim rozstaæ.}
-{145}{}{Mam go z wioski niedaleko Kryptopolis. Tamtejsi mieszkañcy powiedzieli mi, ¿e twoi wyznawcy zostawili to z nimi.}
-{150}{}{Chcesz staæ siê jednym z nas?}
-{151}{}{Naturalnie. Mam coœ podpisaæ?}
+{100}{}{Widzisz kretoszczura niezwykÅ‚ych rozmiarÃ³w.}
+{101}{}{To MÃ³zg.}
+{102}{}{Widzisz wielkiego kretoszczura-albinosa. Ma bardzo duÅ¼Ä… gÅ‚owÄ™ i zdaje siÄ™ byÄ‡ bardzo inteligentny.}
+{110}{}{PrzewyÅ¼szasz gÅ‚upotÄ… wiÄ™kszoÅ›Ä‡ ludzi, ktÃ³rzy stajÄ… przed moim obliczem. Teraz zginiesz!}
+{120}{}{Nie wiem czego tu szukasz, ale lepiej od razu siÄ™ stÄ…d wynoÅ›.}
+{121}{}{Nie mam dla ciebie czasu. Zamierzam przejÄ…Ä‡ kontrolÄ™ nad Å›wiatem. IdÅº juÅ¼ sobie.}
+{122}{}{Ostrzegam po raz ostatni: przestaÅ„ mi przeszkadzaÄ‡.}
+{123}{}{Mam juÅ¼ doÅ›Ä‡. Zomak! Zabij go!}
+{130}{}{ZbliÅ¼ajÄ… siÄ™ wielkie zmiany. Ale nic siÄ™ nie stanie, dopÃ³ki nie weÅºmiesz siÄ™ za naprawÄ™ naszego reaktora atomowego. (do siebie) Ludzie... SÄ… tacy... rozczarowujÄ…cy. }
+{131}{}{NaprawÄ™ reaktora atomowego?}
+{132}{}{No tak. Lepiej od razu wezmÄ™ siÄ™ do roboty. Å»egnaj.}
+{140}{}{Wyczuwam przy tobie jeden z moich talizmanÃ³w, ale nie przypominam sobie, Å¼ebym ci jakiÅ› dawaÅ‚.}
+{141}{}{Nie pamiÄ™tam, skÄ…d go mam.}
+{142}{}{Eee, pewnie po prostu zapomniaÅ‚eÅ›.}
+{143}{}{To moja woda koloÅ„ska. Myszette - podoba ci siÄ™?}
+{144}{}{No tak. Jeden z twoich poddanych wolaÅ‚ oddaÄ‡ Å¼ycie, niÅ¼ siÄ™ z nim rozstaÄ‡.}
+{145}{}{Mam go z wioski niedaleko Kryptopolis. Tamtejsi mieszkaÅ„cy powiedzieli mi, Å¼e twoi wyznawcy zostawili to z nimi.}
+{150}{}{Chcesz staÄ‡ siÄ™ jednym z nas?}
+{151}{}{Naturalnie. Mam coÅ› podpisaÄ‡?}
 {152}{}{Jednym z was? To znaczy ogromnym szczurem.}
-{153}{}{Nie chcê mieæ z wami nic wspólnego.}
-{154}{}{A kim niby s¹ 'my'... to znaczy - 'wy'?}
-{160}{}{Aby przetrwaæ, Gecko i Kryptopolis musz¹ zacz¹æ ze sob¹ wspó³pracowaæ. ¯eby dalej siê rozwijaæ, Kryptopolis potrzebuje energii z naszej elektrowni atomowej, a nam przyda siê ich technologia medyczna. Jeœli nie znajdziemy wspólnego jêzyka, popadniemy w stagnacjê. Kryptopolis powinno nam pomóc w naprawieniu naszej elektrowni.}
-{161}{}{Jak zamierzasz ich do tego przekonaæ?}
-{170}{}{Znany jestem po prostu jako MÓZG. To w uznaniu mojego geniuszu. Niewiele rzeczy w Gecko, i tylko trochê wiêcej poza nim, uchodzi mojej uwadze.}
-{171}{}{Przecie¿ jesteœ tylko wielkim szczurem!}
-{172}{}{Mówi³eœ coœ o przy³¹czeniu do was?}
-{180}{}{Nie obchodzi mnie sk¹d go masz. Pytanie brzmi: czy zamierzasz do nas do³¹czyæ i zas³u¿yæ na jego noszenie?}
-{181}{}{Do³¹czyæ do was? Co masz na myœli?}
-{182}{}{Prêdzej wyczyszczê ci klatkê, ni¿ siê do ciebie przy³¹czê.}
-{183}{}{To zale¿y od tego czy pomo¿esz mi w pewnej istotnej sprawie.}
-{184}{}{W czym mam ci pomóc?}
-{185}{}{Chcê, aby twoje kretoszczury przesta³y atakowaæ patrole z Kryptopolis.}
-{186}{}{Dobrze, ataki ustan¹, ale tylko je¿eli najpierw ty zrobisz coœ dla mnie.}
-{187}{}{Ja mam najpierw coœ zrobiæ dla ciebie? Na przyk³ad co?}
-{188}{}{Dobra, ale pamiêtaj mamy umowê- Ja naprawiam reaktor, a ty wycofujesz swoje potworki.}
-{189}{}{Có¿, dobrze by by³o, gdyby uda³o ci siê te¿ zoptymalizowaæ elektrowniê.}
-{190}{}{Có¿, jako czêœæ mojego planu zaw³adniêcia œwiatem zamierzam nagrodziæ moje wierne ghule znajduj¹c sposób na przywrócenie im cz³owieczeñstwa.}
-{191}{}{Jak zamierzasz tego dokonaæ?}
-{200}{}{Kiedy uda mi siê zjednoczyæ Gecko i Kryptopolis pod moim przywództwem, wykorzystam laboratoria medyczne tego ostatniego do opracowania œrodka odwracaj¹cego skutki napromieniowania, które zmieni³o ludzi w ghuli. Zostan¹ odrodzeni... znów bêd¹ ludŸmi.}
-{201}{}{Brzmi interesuj¹co.}
-{210}{}{Ankh jest symbolem ¿ycia. Jeœli przyjmiesz ten talizman, staniesz siê jednym z nas. Twoi bracia chêtniej pomog¹ ci na twej drodze ku Odrodzeniu. Ale musisz zachowaæ ostro¿noœæ. Niektórym ludziom lepiej go nie pokazywaæ.}
-{211}{}{Czy jesteœ w stanie uwierzyæ w Odrodzenie? Czy przyjmiesz mój talizman?}
-{212}{}{Dobrze, przyjmujê twój talizman.}
-{213}{}{Nie chcê siê odradzaæ. Nie mam nic przeciwko temu kim jestem teraz. Nie potrzebujê twojego talizmanu.}
-{214}{}{Odrodzenie? Co masz na myœli?}
-{220}{}{Niszcz¹c nasz reaktor ci g³upcy z Kryptopolis podpisali na siebie wyrok œmierci.}
-{221}{}{Teraz muszê opracowaæ inny sposób na przejêcie w³adzy nad œwiatem. Wynoœ siê st¹d.}
-{222}{}{Mam ju¿ doœæ twojego prostactwa. Zomak! Zabij go.}
-{230}{}{Naprawienie reaktora to dopiero pierwszy etap mojego planu. Po DRUGIM etapie bêdziemy mieæ pewnoœæ, ¿e Gecko i Kryptopolis przetrwaj¹.}
+{153}{}{Nie chcÄ™ mieÄ‡ z wami nic wspÃ³lnego.}
+{154}{}{A kim niby sÄ… 'my'... to znaczy - 'wy'?}
+{160}{}{Aby przetrwaÄ‡, Gecko i Kryptopolis muszÄ… zaczÄ…Ä‡ ze sobÄ… wspÃ³Å‚pracowaÄ‡. Å»eby dalej siÄ™ rozwijaÄ‡, Kryptopolis potrzebuje energii z naszej elektrowni atomowej, a nam przyda siÄ™ ich technologia medyczna. JeÅ›li nie znajdziemy wspÃ³lnego jÄ™zyka, popadniemy w stagnacjÄ™. Kryptopolis powinno nam pomÃ³c w naprawieniu naszej elektrowni.}
+{161}{}{Jak zamierzasz ich do tego przekonaÄ‡?}
+{170}{}{Znany jestem po prostu jako MÃ“ZG. To w uznaniu mojego geniuszu. Niewiele rzeczy w Gecko, i tylko trochÄ™ wiÄ™cej poza nim, uchodzi mojej uwadze.}
+{171}{}{PrzecieÅ¼ jesteÅ› tylko wielkim szczurem!}
+{172}{}{MÃ³wiÅ‚eÅ› coÅ› o przyÅ‚Ä…czeniu do was?}
+{180}{}{Nie obchodzi mnie skÄ…d go masz. Pytanie brzmi: czy zamierzasz do nas doÅ‚Ä…czyÄ‡ i zasÅ‚uÅ¼yÄ‡ na jego noszenie?}
+{181}{}{DoÅ‚Ä…czyÄ‡ do was? Co masz na myÅ›li?}
+{182}{}{PrÄ™dzej wyczyszczÄ™ ci klatkÄ™, niÅ¼ siÄ™ do ciebie przyÅ‚Ä…czÄ™.}
+{183}{}{To zaleÅ¼y od tego czy pomoÅ¼esz mi w pewnej istotnej sprawie.}
+{184}{}{W czym mam ci pomÃ³c?}
+{185}{}{ChcÄ™, aby twoje kretoszczury przestaÅ‚y atakowaÄ‡ patrole z Kryptopolis.}
+{186}{}{Dobrze, ataki ustanÄ…, ale tylko jeÅ¼eli najpierw ty zrobisz coÅ› dla mnie.}
+{187}{}{Ja mam najpierw coÅ› zrobiÄ‡ dla ciebie? Na przykÅ‚ad co?}
+{188}{}{Dobra, ale pamiÄ™taj mamy umowÄ™- Ja naprawiam reaktor, a ty wycofujesz swoje potworki.}
+{189}{}{CÃ³Å¼, dobrze by byÅ‚o, gdyby udaÅ‚o ci siÄ™ teÅ¼ zoptymalizowaÄ‡ elektrowniÄ™.}
+{190}{}{CÃ³Å¼, jako czÄ™Å›Ä‡ mojego planu zawÅ‚adniÄ™cia Å›wiatem zamierzam nagrodziÄ‡ moje wierne ghule znajdujÄ…c sposÃ³b na przywrÃ³cenie im czÅ‚owieczeÅ„stwa.}
+{191}{}{Jak zamierzasz tego dokonaÄ‡?}
+{200}{}{Kiedy uda mi siÄ™ zjednoczyÄ‡ Gecko i Kryptopolis pod moim przywÃ³dztwem, wykorzystam laboratoria medyczne tego ostatniego do opracowania Å›rodka odwracajÄ…cego skutki napromieniowania, ktÃ³re zmieniÅ‚o ludzi w ghuli. ZostanÄ… odrodzeni... znÃ³w bÄ™dÄ… ludÅºmi.}
+{201}{}{Brzmi interesujÄ…co.}
+{210}{}{Ankh jest symbolem Å¼ycia. JeÅ›li przyjmiesz ten talizman, staniesz siÄ™ jednym z nas. Twoi bracia chÄ™tniej pomogÄ… ci na twej drodze ku Odrodzeniu. Ale musisz zachowaÄ‡ ostroÅ¼noÅ›Ä‡. NiektÃ³rym ludziom lepiej go nie pokazywaÄ‡.}
+{211}{}{Czy jesteÅ› w stanie uwierzyÄ‡ w Odrodzenie? Czy przyjmiesz mÃ³j talizman?}
+{212}{}{Dobrze, przyjmujÄ™ twÃ³j talizman.}
+{213}{}{Nie chcÄ™ siÄ™ odradzaÄ‡. Nie mam nic przeciwko temu kim jestem teraz. Nie potrzebujÄ™ twojego talizmanu.}
+{214}{}{Odrodzenie? Co masz na myÅ›li?}
+{220}{}{NiszczÄ…c nasz reaktor ci gÅ‚upcy z Kryptopolis podpisali na siebie wyrok Å›mierci.}
+{221}{}{Teraz muszÄ™ opracowaÄ‡ inny sposÃ³b na przejÄ™cie wÅ‚adzy nad Å›wiatem. WynoÅ› siÄ™ stÄ…d.}
+{222}{}{Mam juÅ¼ doÅ›Ä‡ twojego prostactwa. Zomak! Zabij go.}
+{230}{}{Naprawienie reaktora to dopiero pierwszy etap mojego planu. Po DRUGIM etapie bÄ™dziemy mieÄ‡ pewnoÅ›Ä‡, Å¼e Gecko i Kryptopolis przetrwajÄ….}
 {231}{}{Drugi etap?}
-{232}{}{A¿ tak ci le¿y na sercu ich dobro, co?}
-{233}{}{Doœæ. Nie bêdziesz siê mn¹ dalej wys³ugiwa³. Do zobaczenia.}
-{234}{}{Czemu wielki, gadaj¹cy szczur tak bardzo siê przejmuje dobrem ludzi?}
-{240}{}{Dobra robota. Zarówno Gecko jak i Kryptopolis maj¹ powody do œwiêtowania. Teraz, kiedy nasz reaktor pracuje pe³n¹ par¹, mój plan zaw³adniêcia œwiatem jest ju¿ bliski spe³nienia. Mo¿esz odejœæ. Mam jeszcze du¿o pracy.}
-{241}{}{Nie myœl sobie, ¿e robiê to dla ciebie. Do widzenia.}
-{242}{}{Chyba poprzewraca³o ci siê w g³owie. ¯egnaj.}
-{250}{}{Có¿, reaktor pracuje, ale niezbyt wydajnie. Musimy wykorzystaæ g³ówny komputer Kryptopolis do analizy raportu wydajnoœci naszego reaktora.}
-{251}{}{Centralny komputer Kryptopolis, tak? Có¿, tolerancyjni mieszkañcy Kryptopolis z pewnoœci¹ chêtnie pomog¹ wielkiemu, zmutowanemu szczurowi i miastu pe³nemu ghuli.}
-{252}{}{Jak zamierzasz tego dokonaæ?}
-{260}{}{Czy troszczê siê o ich dobro? W pewnym sensie. Przecie¿ ¿eby przej¹æ kontrolê nad œwiatem muszê do³o¿yæ starañ, ¿eby by³o NAD CZYM j¹ przej¹æ. Poza tym z Gecko i Kryptopolis chcê zrobiæ swoje zaplecze.}
-{261}{}{Szczur próbuj¹cy przej¹æ kontrolê nad œwiatem?}
-{270}{}{Mimo twoich obiekcji co do sprawowania kontroli nad œwiatem przez gryzonia, musisz pamiêtaæ, ¿e moje dzia³ania zmierzaj¹ ku poprawie ¿ycia tysiêcy mieszkañców Kryptopolis i Gecko. Moje pobudki nie powinny przys³aniaæ ci szczytnego celu, ku któremu zmierzamy.}
-{271}{}{Opowiedz mi o tym ostatnim etapie, a ja zastanowiê siê, czy ci pomóc.}
-{272}{}{Ciarki mnie przechodz¹ na sam¹ myœl o wspieraniu twoich szaleñczych d¹¿eñ. ¯egnaj.}
-{280}{}{Có¿, pozwol¹ ci, jeœli uda ci siê ich przekonaæ, ¿e odnios¹ wymierne korzyœci. Mam tu raport ekonomiczny, z którego jasno wynika, ¿e usprawnienie pracy reaktora w Gecko pozytywnie wp³ynie na rozwój Kryptopolis. Powiadomiê naszych towarzyszy w Gecko o twojej misji.}
-{281}{}{Jeœli uda ci siê udowodniæ im, ¿e twoje dzia³ania pozytywnie wp³yn¹ na rozwój Kryptopolis, na pewno zgodz¹ siê wydaæ ci hydroelektryczny regulator magnetosfery. Przygotowa³em raport ekonomiczny, z którego jasno wynika, ¿e sprawne funkcjonowanie naszej elektrowni nie jest bez znaczenia dla Kryptopolis. Powiadomiê naszych towarzyszy w Gecko o twojej misji.}
-{282}{}{To wspaniale, ale mieszkañcy Kryptopolis nie zechc¹ nawet spojrzeæ na taki raport!}
-{283}{}{Porozmawiaj z tym starym, œmierdz¹cym prykiem - Festusem. Znajdziesz go w elektrowni. Mo¿e uda ci siê wyci¹gn¹æ od niego jakieœ u¿yteczne informacje na temat optymalizacji pracy naszego reaktora.}
-{284}{}{To chyba dobry pomys³. Do widzenia.}
-{290}{}{McClure jest chyba jedynym cz³onkiem Rady Kryptopolis, który ma doœæ sprytu, ¿eby dostrzec w naszym planie wielk¹ szansê dla tego miasta. On da ci wszystko, czego potrzebujesz.}
-{291}{}{O nie! Nie zamierzam byæ niczyim ch³opcem na posy³ki.}
-{292}{}{Có¿, chyba warto spróbowaæ. Gdzie jest ten raport?}
-{300}{}{IdŸ na górê, na wysypisko. Odszukaj ghula imieniem Gordon. Bêdziesz mieæ mój talizman, wiêc da ci dysk z raportem ekonomicznym.}
+{232}{}{AÅ¼ tak ci leÅ¼y na sercu ich dobro, co?}
+{233}{}{DoÅ›Ä‡. Nie bÄ™dziesz siÄ™ mnÄ… dalej wysÅ‚ugiwaÅ‚. Do zobaczenia.}
+{234}{}{Czemu wielki, gadajÄ…cy szczur tak bardzo siÄ™ przejmuje dobrem ludzi?}
+{240}{}{Dobra robota. ZarÃ³wno Gecko jak i Kryptopolis majÄ… powody do Å›wiÄ™towania. Teraz, kiedy nasz reaktor pracuje peÅ‚nÄ… parÄ…, mÃ³j plan zawÅ‚adniÄ™cia Å›wiatem jest juÅ¼ bliski speÅ‚nienia. MoÅ¼esz odejÅ›Ä‡. Mam jeszcze duÅ¼o pracy.}
+{241}{}{Nie myÅ›l sobie, Å¼e robiÄ™ to dla ciebie. Do widzenia.}
+{242}{}{Chyba poprzewracaÅ‚o ci siÄ™ w gÅ‚owie. Å»egnaj.}
+{250}{}{CÃ³Å¼, reaktor pracuje, ale niezbyt wydajnie. Musimy wykorzystaÄ‡ gÅ‚Ã³wny komputer Kryptopolis do analizy raportu wydajnoÅ›ci naszego reaktora.}
+{251}{}{Centralny komputer Kryptopolis, tak? CÃ³Å¼, tolerancyjni mieszkaÅ„cy Kryptopolis z pewnoÅ›ciÄ… chÄ™tnie pomogÄ… wielkiemu, zmutowanemu szczurowi i miastu peÅ‚nemu ghuli.}
+{252}{}{Jak zamierzasz tego dokonaÄ‡?}
+{260}{}{Czy troszczÄ™ siÄ™ o ich dobro? W pewnym sensie. PrzecieÅ¼ Å¼eby przejÄ…Ä‡ kontrolÄ™ nad Å›wiatem muszÄ™ doÅ‚oÅ¼yÄ‡ staraÅ„, Å¼eby byÅ‚o NAD CZYM jÄ… przejÄ…Ä‡. Poza tym z Gecko i Kryptopolis chcÄ™ zrobiÄ‡ swoje zaplecze.}
+{261}{}{Szczur prÃ³bujÄ…cy przejÄ…Ä‡ kontrolÄ™ nad Å›wiatem?}
+{270}{}{Mimo twoich obiekcji co do sprawowania kontroli nad Å›wiatem przez gryzonia, musisz pamiÄ™taÄ‡, Å¼e moje dziaÅ‚ania zmierzajÄ… ku poprawie Å¼ycia tysiÄ™cy mieszkaÅ„cÃ³w Kryptopolis i Gecko. Moje pobudki nie powinny przysÅ‚aniaÄ‡ ci szczytnego celu, ku ktÃ³remu zmierzamy.}
+{271}{}{Opowiedz mi o tym ostatnim etapie, a ja zastanowiÄ™ siÄ™, czy ci pomÃ³c.}
+{272}{}{Ciarki mnie przechodzÄ… na samÄ… myÅ›l o wspieraniu twoich szaleÅ„czych dÄ…Å¼eÅ„. Å»egnaj.}
+{280}{}{CÃ³Å¼, pozwolÄ… ci, jeÅ›li uda ci siÄ™ ich przekonaÄ‡, Å¼e odniosÄ… wymierne korzyÅ›ci. Mam tu raport ekonomiczny, z ktÃ³rego jasno wynika, Å¼e usprawnienie pracy reaktora w Gecko pozytywnie wpÅ‚ynie na rozwÃ³j Kryptopolis. PowiadomiÄ™ naszych towarzyszy w Gecko o twojej misji.}
+{281}{}{JeÅ›li uda ci siÄ™ udowodniÄ‡ im, Å¼e twoje dziaÅ‚ania pozytywnie wpÅ‚ynÄ… na rozwÃ³j Kryptopolis, na pewno zgodzÄ… siÄ™ wydaÄ‡ ci hydroelektryczny regulator magnetosfery. PrzygotowaÅ‚em raport ekonomiczny, z ktÃ³rego jasno wynika, Å¼e sprawne funkcjonowanie naszej elektrowni nie jest bez znaczenia dla Kryptopolis. PowiadomiÄ™ naszych towarzyszy w Gecko o twojej misji.}
+{282}{}{To wspaniale, ale mieszkaÅ„cy Kryptopolis nie zechcÄ… nawet spojrzeÄ‡ na taki raport!}
+{283}{}{Porozmawiaj z tym starym, Å›mierdzÄ…cym prykiem - Festusem. Znajdziesz go w elektrowni. MoÅ¼e uda ci siÄ™ wyciÄ…gnÄ…Ä‡ od niego jakieÅ› uÅ¼yteczne informacje na temat optymalizacji pracy naszego reaktora.}
+{284}{}{To chyba dobry pomysÅ‚. Do widzenia.}
+{290}{}{McClure jest chyba jedynym czÅ‚onkiem Rady Kryptopolis, ktÃ³ry ma doÅ›Ä‡ sprytu, Å¼eby dostrzec w naszym planie wielkÄ… szansÄ™ dla tego miasta. On da ci wszystko, czego potrzebujesz.}
+{291}{}{O nie! Nie zamierzam byÄ‡ niczyim chÅ‚opcem na posyÅ‚ki.}
+{292}{}{CÃ³Å¼, chyba warto sprÃ³bowaÄ‡. Gdzie jest ten raport?}
+{300}{}{IdÅº na gÃ³rÄ™, na wysypisko. Odszukaj ghula imieniem Gordon. BÄ™dziesz mieÄ‡ mÃ³j talizman, wiÄ™c da ci dysk z raportem ekonomicznym.}
 {301}{}{Jaki talizman?}
-{310}{}{Chcesz skazaæ obywateli obydwu miast na powoln¹ œmieræ?}
+{310}{}{Chcesz skazaÄ‡ obywateli obydwu miast na powolnÄ… Å›mierÄ‡?}
 {311}{}{Nie. Chyba nie. Dobrze, powiedz mi gdzie jest ten raport.}
-{312}{}{Lepsza powolna œmieræ ni¿ rz¹dy brudnego szczura. ¯egnaj.}
-{320}{}{(Niuch, niuch) Hmmm, czy¿bym wyczuwa³ boski aromat Serowych Chrupków? Mo¿e masz kilka na zbyciu? Uwielbiam Serowe Chrupki.}
-{321}{}{Hmm, nie. Nie mam ¿adnych Serowych Chrupków.}
-{322}{}{Có¿, chyba mogê ciê kilkoma poczêstowaæ...}
-{330}{}{Teraz nale¿ysz do nas. Wkrótce przejmê kontrolê nad œwiatem, a ciebie czeka Odrodzenie.}
+{312}{}{Lepsza powolna Å›mierÄ‡ niÅ¼ rzÄ…dy brudnego szczura. Å»egnaj.}
+{320}{}{(Niuch, niuch) Hmmm, czyÅ¼bym wyczuwaÅ‚ boski aromat Serowych ChrupkÃ³w? MoÅ¼e masz kilka na zbyciu? Uwielbiam Serowe Chrupki.}
+{321}{}{Hmm, nie. Nie mam Å¼adnych Serowych ChrupkÃ³w.}
+{322}{}{CÃ³Å¼, chyba mogÄ™ ciÄ™ kilkoma poczÄ™stowaÄ‡...}
+{330}{}{Teraz naleÅ¼ysz do nas. WkrÃ³tce przejmÄ™ kontrolÄ™ nad Å›wiatem, a ciebie czeka Odrodzenie.}
 {331}{}{Eee... jasne.}
-{332}{}{Doœæ! Doœæ tych bredni. Ktoœ musi wreszcie po³o¿yæ kres temu szaleñstwu - i tym kimœ bêdê JA.}
-{340}{}{Có¿, w takim razie nie mamy chyba sobie nic wiêcej do powiedzenia. Ale musisz wiedzieæ, ¿e nie pozwolê ci st¹d odejœæ. Do³¹cz do nas, albo giñ!}
-{341}{}{Prêdzej zginê, ni¿ pomogê komuœ takiemu jak ty.}
-{342}{}{Hmm, mo¿e oceniam ciê zbyt pochopnie.}
-{343}{}{Nie krêpuj siê, Albercik.}
-{350}{}{G³upcze. Zomak! Zabij intruza.}
-{360}{}{Wy, ludzie, jesteœcie tacy nietolerancyjni. To promieniowanie Wielkiego Wybuchu da³o mi umys³ i wolê. Gdyby nie wasza chêæ dominacji nad ca³ym œwiatem, nigdy nie sta³bym siê tym, kim jestem.}
-{361}{}{A kim tak naprawdê jesteœ?}
-{370}{}{Teraz, kiedy wiesz ju¿ wszystko, przy³¹czysz siê do nas?}
-{371}{}{Có¿, czemu by nie.}
-{372}{}{Wiem ju¿ wszystko? Tak, wiem doœæ, ¿eby chcieæ jak najszybciej wydostaæ siê z tego domu wariatów.}
-{380}{}{Kiedyœ by³em zwyk³ym szczurem, jakich tysi¹ce wiêziono w laboratoriach badawczych. Pewnego dnia us³ysza³em eksplozjê. Nasze klatki zosta³y zniszczone, a my wyl¹dowaliœmy w wielkich kadziach z lepkim p³ynem.}
-{381}{}{Co siê dzieje potem?}
-{390}{}{Uda³o mi siê wydostaæ na powierzchniê. Wkrótce zauwa¿y³em, ¿e moje cia³o zaczyna siê zmieniaæ. Nie tylko cia³o! Próbowa³em porozumieæ siê z ludŸmi, ale im zale¿a³o tylko na zabiciu mnie. Ludzie s¹ zbyt brutalni by przetrwaæ pod w³asnymi rz¹dami... ale to ju¿ inna historia. Teraz musimy zaj¹æ siê napraw¹ reaktora.}
-{391}{}{Napraw¹ reaktora?}
-{400}{}{Tak. Musisz zdobyæ hydroelektryczny regulator magnetosfery z Kryptopolis. Przy jego pomocy naprawimy reaktor elektrowni w Gecko. W przeciwnym razie Kryptpolis spróbuje zniszczyæ elektrowniê i tym samym, z perspektywy lat - przypieczêtuje w³asn¹ zgubê.}
-{401}{}{W³asn¹ zgubê? Dlaczego?}
-{402}{}{Dlaczego myœlisz, ¿e Kryptopolis zechce pomóc w naprawie elektrowni w Gecko?}
-{410}{}{Musisz im udowodniæ, ¿e od tego zale¿y ich w³asny dobrobyt. Dzia³anie we w³asnym interesie to skuteczny œrodek motywacyjny.}
-{411}{}{Nie wydaje mi siê, ¿eby obywatele Kryptopolis chcieli pomagaæ w naprawie waszej elektrowni atomowej.}
-{420}{}{Ale chwilowo masz chyba coœ wa¿nego do zrobienia?}
-{421}{}{No tak, lepiej bêdzie jak zajmê siê t¹ elektrowni¹ atomow¹. Do zobaczenia.}
-{422}{}{Oczywiœcie. Muszê siê st¹d jak najszybciej wynieœæ.}
-{430}{}{Nie k³am! Mój nos jest niezwykle wyczulony. Jestem pewien, ¿e masz przy sobie Serowe Chrupki. Daj mi je natychmiast. Proszê.}
-{431}{}{Chcesz wzi¹æ moje Chrupki? Po moim trupie!}
-{432}{}{Ojej, a co to? No proszê, chyba jednak mam kilka Serowych Chrupków!}
-{440}{}{(chrum, krum, krum) Mmmm, uwielbiam Serowe Chrupki. S¹ takie... serooowe. W nagrodê mo¿esz zostaæ cz³onkiem mojego specjalnego kultu i pomóc mi w przejêciu w³adzy nad œwiatem.}
-{441}{}{(chrum, krum, krum) Mmmm, uwielbiam Serowe Chrupki. S¹ takie... serooowe. Dobrze, ¿e pozwoli³em ci do nas do³¹czyæ. Ale zaraz, czy ty nie masz przypadkiem czegoœ do roboty?}
-{442}{}{(chrum, krum, krum) Mmmm, uwielbiam Serowe Chrupki. S¹ takie... serooowe.}
-{443}{}{(chrum, krum, krum) Mmmm, uwielbiam Serowe Chrupki. S¹ takie... serooowe.}
+{332}{}{DoÅ›Ä‡! DoÅ›Ä‡ tych bredni. KtoÅ› musi wreszcie poÅ‚oÅ¼yÄ‡ kres temu szaleÅ„stwu - i tym kimÅ› bÄ™dÄ™ JA.}
+{340}{}{CÃ³Å¼, w takim razie nie mamy chyba sobie nic wiÄ™cej do powiedzenia. Ale musisz wiedzieÄ‡, Å¼e nie pozwolÄ™ ci stÄ…d odejÅ›Ä‡. DoÅ‚Ä…cz do nas, albo giÅ„!}
+{341}{}{PrÄ™dzej zginÄ™, niÅ¼ pomogÄ™ komuÅ› takiemu jak ty.}
+{342}{}{Hmm, moÅ¼e oceniam ciÄ™ zbyt pochopnie.}
+{343}{}{Nie krÄ™puj siÄ™, Albercik.}
+{350}{}{GÅ‚upcze. Zomak! Zabij intruza.}
+{360}{}{Wy, ludzie, jesteÅ›cie tacy nietolerancyjni. To promieniowanie Wielkiego Wybuchu daÅ‚o mi umysÅ‚ i wolÄ™. Gdyby nie wasza chÄ™Ä‡ dominacji nad caÅ‚ym Å›wiatem, nigdy nie staÅ‚bym siÄ™ tym, kim jestem.}
+{361}{}{A kim tak naprawdÄ™ jesteÅ›?}
+{370}{}{Teraz, kiedy wiesz juÅ¼ wszystko, przyÅ‚Ä…czysz siÄ™ do nas?}
+{371}{}{CÃ³Å¼, czemu by nie.}
+{372}{}{Wiem juÅ¼ wszystko? Tak, wiem doÅ›Ä‡, Å¼eby chcieÄ‡ jak najszybciej wydostaÄ‡ siÄ™ z tego domu wariatÃ³w.}
+{380}{}{KiedyÅ› byÅ‚em zwykÅ‚ym szczurem, jakich tysiÄ…ce wiÄ™ziono w laboratoriach badawczych. Pewnego dnia usÅ‚yszaÅ‚em eksplozjÄ™. Nasze klatki zostaÅ‚y zniszczone, a my wylÄ…dowaliÅ›my w wielkich kadziach z lepkim pÅ‚ynem.}
+{381}{}{Co siÄ™ dzieje potem?}
+{390}{}{UdaÅ‚o mi siÄ™ wydostaÄ‡ na powierzchniÄ™. WkrÃ³tce zauwaÅ¼yÅ‚em, Å¼e moje ciaÅ‚o zaczyna siÄ™ zmieniaÄ‡. Nie tylko ciaÅ‚o! PrÃ³bowaÅ‚em porozumieÄ‡ siÄ™ z ludÅºmi, ale im zaleÅ¼aÅ‚o tylko na zabiciu mnie. Ludzie sÄ… zbyt brutalni by przetrwaÄ‡ pod wÅ‚asnymi rzÄ…dami... ale to juÅ¼ inna historia. Teraz musimy zajÄ…Ä‡ siÄ™ naprawÄ… reaktora.}
+{391}{}{NaprawÄ… reaktora?}
+{400}{}{Tak. Musisz zdobyÄ‡ hydroelektryczny regulator magnetosfery z Kryptopolis. Przy jego pomocy naprawimy reaktor elektrowni w Gecko. W przeciwnym razie Kryptpolis sprÃ³buje zniszczyÄ‡ elektrowniÄ™ i tym samym, z perspektywy lat - przypieczÄ™tuje wÅ‚asnÄ… zgubÄ™.}
+{401}{}{WÅ‚asnÄ… zgubÄ™? Dlaczego?}
+{402}{}{Dlaczego myÅ›lisz, Å¼e Kryptopolis zechce pomÃ³c w naprawie elektrowni w Gecko?}
+{410}{}{Musisz im udowodniÄ‡, Å¼e od tego zaleÅ¼y ich wÅ‚asny dobrobyt. DziaÅ‚anie we wÅ‚asnym interesie to skuteczny Å›rodek motywacyjny.}
+{411}{}{Nie wydaje mi siÄ™, Å¼eby obywatele Kryptopolis chcieli pomagaÄ‡ w naprawie waszej elektrowni atomowej.}
+{420}{}{Ale chwilowo masz chyba coÅ› waÅ¼nego do zrobienia?}
+{421}{}{No tak, lepiej bÄ™dzie jak zajmÄ™ siÄ™ tÄ… elektrowniÄ… atomowÄ…. Do zobaczenia.}
+{422}{}{OczywiÅ›cie. MuszÄ™ siÄ™ stÄ…d jak najszybciej wynieÅ›Ä‡.}
+{430}{}{Nie kÅ‚am! MÃ³j nos jest niezwykle wyczulony. Jestem pewien, Å¼e masz przy sobie Serowe Chrupki. Daj mi je natychmiast. ProszÄ™.}
+{431}{}{Chcesz wziÄ…Ä‡ moje Chrupki? Po moim trupie!}
+{432}{}{Ojej, a co to? No proszÄ™, chyba jednak mam kilka Serowych ChrupkÃ³w!}
+{440}{}{(chrum, krum, krum) Mmmm, uwielbiam Serowe Chrupki. SÄ… takie... serooowe. W nagrodÄ™ moÅ¼esz zostaÄ‡ czÅ‚onkiem mojego specjalnego kultu i pomÃ³c mi w przejÄ™ciu wÅ‚adzy nad Å›wiatem.}
+{441}{}{(chrum, krum, krum) Mmmm, uwielbiam Serowe Chrupki. SÄ… takie... serooowe. Dobrze, Å¼e pozwoliÅ‚em ci do nas doÅ‚Ä…czyÄ‡. Ale zaraz, czy ty nie masz przypadkiem czegoÅ› do roboty?}
+{442}{}{(chrum, krum, krum) Mmmm, uwielbiam Serowe Chrupki. SÄ… takie... serooowe.}
+{443}{}{(chrum, krum, krum) Mmmm, uwielbiam Serowe Chrupki. SÄ… takie... serooowe.}
 {444}{}{Uch...}
-{450}{}{Niech i tak bêdzie. Zomak! Zabij tego g³upca. Tylko uwa¿aj na Serowe Chrupki!}
-{460}{}{Musisz u¿yæ dysku z odczytem z reaktora w centralnym komputerze Kryptopolis. Mo¿esz spróbowaæ siê tam wœlizn¹æ po cichu, albo - jeœli masz nasz raport ekonomiczny - porozmawiaj z McClurem.}
+{450}{}{Niech i tak bÄ™dzie. Zomak! Zabij tego gÅ‚upca. Tylko uwaÅ¼aj na Serowe Chrupki!}
+{460}{}{Musisz uÅ¼yÄ‡ dysku z odczytem z reaktora w centralnym komputerze Kryptopolis. MoÅ¼esz sprÃ³bowaÄ‡ siÄ™ tam wÅ›liznÄ…Ä‡ po cichu, albo - jeÅ›li masz nasz raport ekonomiczny - porozmawiaj z McClurem.}
 {461}{}{Raport ekonomiczny?}
-{462}{}{Och, w porz¹dku.}
-{463}{}{Przynieœ przeanalizowany dysk z odczytem reaktora Festusowi, a on na podstawie tych danych spróbuje usprawniæ pracê elektrowni.}
-{464}{}{Kiedy zdobêdziesz hydroelektryczny regulator magnetosfery, przynieœ go do elektrowni i spróbuj przekonaæ tego nadêtego bubka, Festusa, ¿eby go zainstalowa³. Mo¿esz równie¿ pos³u¿yæ siê do tego celu robotem naprawczym lub przeprowadziæ instalacjê samodzielnie, jeœli posiadasz odpowiednie umiejêtnoœci.}
-{465}{}{Jak mogê zdobyæ potrzebn¹ czêœæ?}
-{466}{}{Rozumiem. Dziêki za informacje. Do zobaczenia.}
-{467}{}{Festus to ten zgryŸliwy, stary ghul, który kieruje prac¹ elektrowni atomowej. Nie jest szczególnie bystry, ale sporo wie o reaktorach. Jego biuro znajduje siê w po³udniowo-wschodnim rogu elektrowni. Zanieœ mu dysk z danymi a on ju¿ bêdzie wiedzia³ co z nim zrobiæ.}
-{468}{}{Rozumiem, dziêki. Do zobaczenia.}
-{500}{}{(mruczy do siebie) Tak wiele rzeczy odchodzi w cieñ. Kiedyœ by³o inaczej. (wzdycha) Mój jedyny krewniak odszed³. Czy by³ szalony? Pewnie tak, ale mia³em szczer¹ nadziejê, ¿e i on zazna trochê szczêœcia w tych trudnych czasach. (do ciebie) No, starczy ju¿ tego rozczulania siê.}
-{501}{}{Uhm, w porz¹dku.}
-{504}{}{Hydroelektryczny regulator magnetosfery. Tak nazywa siê czêœæ, któr¹ musisz zdobyæ w Kryptopolis. Przynieœ j¹ tutaj i dopilnuj, by zosta³a zainstalowana w elektrowni.}
-{505}{}{Zainstalowana w elektrowni? Jak mam to zrobiæ?}
-{506}{}{W porz¹dku. Dziêki.}
-{510}{}{Plan optymalizacji pracy reaktora zosta³ zapisany na dysku, który posiadasz. Teraz musisz go tylko dostarczyæ temu nadêtemu bubkowi, Festusowi. Chyba ¿e nie masz ochoty rozmawiaæ z tym zgryŸliwym ghulem. W takim wypadku u¿yj dysku w terminalu kontrolnym robota naprawczego.}
+{462}{}{Och, w porzÄ…dku.}
+{463}{}{PrzynieÅ› przeanalizowany dysk z odczytem reaktora Festusowi, a on na podstawie tych danych sprÃ³buje usprawniÄ‡ pracÄ™ elektrowni.}
+{464}{}{Kiedy zdobÄ™dziesz hydroelektryczny regulator magnetosfery, przynieÅ› go do elektrowni i sprÃ³buj przekonaÄ‡ tego nadÄ™tego bubka, Festusa, Å¼eby go zainstalowaÅ‚. MoÅ¼esz rÃ³wnieÅ¼ posÅ‚uÅ¼yÄ‡ siÄ™ do tego celu robotem naprawczym lub przeprowadziÄ‡ instalacjÄ™ samodzielnie, jeÅ›li posiadasz odpowiednie umiejÄ™tnoÅ›ci.}
+{465}{}{Jak mogÄ™ zdobyÄ‡ potrzebnÄ… czÄ™Å›Ä‡?}
+{466}{}{Rozumiem. DziÄ™ki za informacje. Do zobaczenia.}
+{467}{}{Festus to ten zgryÅºliwy, stary ghul, ktÃ³ry kieruje pracÄ… elektrowni atomowej. Nie jest szczegÃ³lnie bystry, ale sporo wie o reaktorach. Jego biuro znajduje siÄ™ w poÅ‚udniowo-wschodnim rogu elektrowni. ZanieÅ› mu dysk z danymi a on juÅ¼ bÄ™dzie wiedziaÅ‚ co z nim zrobiÄ‡.}
+{468}{}{Rozumiem, dziÄ™ki. Do zobaczenia.}
+{500}{}{(mruczy do siebie) Tak wiele rzeczy odchodzi w cieÅ„. KiedyÅ› byÅ‚o inaczej. (wzdycha) MÃ³j jedyny krewniak odszedÅ‚. Czy byÅ‚ szalony? Pewnie tak, ale miaÅ‚em szczerÄ… nadziejÄ™, Å¼e i on zazna trochÄ™ szczÄ™Å›cia w tych trudnych czasach. (do ciebie) No, starczy juÅ¼ tego rozczulania siÄ™.}
+{501}{}{Uhm, w porzÄ…dku.}
+{504}{}{Hydroelektryczny regulator magnetosfery. Tak nazywa siÄ™ czÄ™Å›Ä‡, ktÃ³rÄ… musisz zdobyÄ‡ w Kryptopolis. PrzynieÅ› jÄ… tutaj i dopilnuj, by zostaÅ‚a zainstalowana w elektrowni.}
+{505}{}{Zainstalowana w elektrowni? Jak mam to zrobiÄ‡?}
+{506}{}{W porzÄ…dku. DziÄ™ki.}
+{510}{}{Plan optymalizacji pracy reaktora zostaÅ‚ zapisany na dysku, ktÃ³ry posiadasz. Teraz musisz go tylko dostarczyÄ‡ temu nadÄ™temu bubkowi, Festusowi. Chyba Å¼e nie masz ochoty rozmawiaÄ‡ z tym zgryÅºliwym ghulem. W takim wypadku uÅ¼yj dysku w terminalu kontrolnym robota naprawczego.}
 {511}{}{Festus? Kto to taki?}
-{512}{}{Rozumiem. Dziêki. Do zobaczenia.}
-{600}{}{Zbli¿a siê Odrodzenie. Ale jeœli natychmiast nie zabierzesz siê za naprawê reaktora, mo¿e nigdy nie nadejœæ! (do siebie) Ludzie... s¹ tacy... rozczarowuj¹cy.}
-{601}{}{Zbli¿a siê Odrodzenie. Ale jeœli nie u¿yjesz dysku z odczytem pracy reaktora w centralnym komputerze Kryptopolis, mo¿e nigdy nie nadejœæ! Ach! Nawet cz³owiek powinien byæ w stanie poj¹æ coœ TAK prostego.}
-{602}{}{Ju¿ nied³ugo, dziêki tobie, nadejdzie dzieñ Odrodzenia. Teraz musisz tylko zanieœæ te przeanalizowane dane Festusowi.}
-{603}{}{Wiesz, ¿e do naprawy reaktora potrzebny bêdzie hydroelektryczny regulator magnetosfery. Czasem mam wra¿enie, ¿e jeœli dalej bêdê polega³ na ludziach, dzieñ Odrodzenia nigdy nie nadejdzie.}
-{604}{}{Naprawê reaktora? O czym ty mówisz?}
-{605}{}{Dysk z odczytem pracy reaktora? Niby jak mam to zrobiæ?}
-{606}{}{Mam go daæ Festusowi?}
+{512}{}{Rozumiem. DziÄ™ki. Do zobaczenia.}
+{600}{}{ZbliÅ¼a siÄ™ Odrodzenie. Ale jeÅ›li natychmiast nie zabierzesz siÄ™ za naprawÄ™ reaktora, moÅ¼e nigdy nie nadejÅ›Ä‡! (do siebie) Ludzie... sÄ… tacy... rozczarowujÄ…cy.}
+{601}{}{ZbliÅ¼a siÄ™ Odrodzenie. Ale jeÅ›li nie uÅ¼yjesz dysku z odczytem pracy reaktora w centralnym komputerze Kryptopolis, moÅ¼e nigdy nie nadejÅ›Ä‡! Ach! Nawet czÅ‚owiek powinien byÄ‡ w stanie pojÄ…Ä‡ coÅ› TAK prostego.}
+{602}{}{JuÅ¼ niedÅ‚ugo, dziÄ™ki tobie, nadejdzie dzieÅ„ Odrodzenia. Teraz musisz tylko zanieÅ›Ä‡ te przeanalizowane dane Festusowi.}
+{603}{}{Wiesz, Å¼e do naprawy reaktora potrzebny bÄ™dzie hydroelektryczny regulator magnetosfery. Czasem mam wraÅ¼enie, Å¼e jeÅ›li dalej bÄ™dÄ™ polegaÅ‚ na ludziach, dzieÅ„ Odrodzenia nigdy nie nadejdzie.}
+{604}{}{NaprawÄ™ reaktora? O czym ty mÃ³wisz?}
+{605}{}{Dysk z odczytem pracy reaktora? Niby jak mam to zrobiÄ‡?}
+{606}{}{Mam go daÄ‡ Festusowi?}
 {607}{}{Hydro-co? Nie rozumiem.}
-{608}{}{O co chodzi³o z tym reaktorem?}
-{609}{}{Komu go daæ?}
-{610}{}{No tak. Lepiej od razu wezmê siê do roboty. ¯egnaj.}
-{611}{}{Przed uruchomieniem elektrowni musisz zainstalowaæ Hydroelektryczny Regulator Magnetosfery.}
-{620}{}{Nazywaj¹ mnie Mózg. Po prostu Mózg. To w uznaniu mojego geniuszu. Niewiele rzeczy w Gecko i tylko trochê wiêcej poza nim, uchodzi mojej uwadze.}
-{621}{}{Przecie¿ jesteœ tylko wielkim szczurem!}
-{622}{}{Mówi³eœ coœ o przy³¹czeniu do was?}
-{630}{}{Moje dzia³ania zmierzaj¹ ku poprawie ¿ycia tysiêcy mieszkañców Kryptopolis i Gecko. Moje pobudki nie powinny przys³aniaæ ci szczytnego celu, ku któremu zmierzamy.}
-{631}{}{Masz ju¿ dysk z danymi z reaktora. Teraz musisz go u¿yæ.}
-{632}{}{Dysk z danymi zosta³ przeanalizowany. Teraz musisz coœ z nim zrobiæ.}
-{633}{}{Do naprawy naszego reaktora potrzebna jest pewna specjalistyczna czêœæ.}
-{634}{}{Masz ju¿ wszystkie dane potrzebne do optymalizacji pracy naszego reaktora. Teraz musisz je dostarczyæ Festusowi.}
-{635}{}{Mo¿e przedstawisz mi swoj¹ propozycjê.}
-{636}{}{U¿yæ dysku z danymi? Niby jak mam to zrobiæ?}
+{608}{}{O co chodziÅ‚o z tym reaktorem?}
+{609}{}{Komu go daÄ‡?}
+{610}{}{No tak. Lepiej od razu wezmÄ™ siÄ™ do roboty. Å»egnaj.}
+{611}{}{Przed uruchomieniem elektrowni musisz zainstalowaÄ‡ Hydroelektryczny Regulator Magnetosfery.}
+{620}{}{NazywajÄ… mnie MÃ³zg. Po prostu MÃ³zg. To w uznaniu mojego geniuszu. Niewiele rzeczy w Gecko i tylko trochÄ™ wiÄ™cej poza nim, uchodzi mojej uwadze.}
+{621}{}{PrzecieÅ¼ jesteÅ› tylko wielkim szczurem!}
+{622}{}{MÃ³wiÅ‚eÅ› coÅ› o przyÅ‚Ä…czeniu do was?}
+{630}{}{Moje dziaÅ‚ania zmierzajÄ… ku poprawie Å¼ycia tysiÄ™cy mieszkaÅ„cÃ³w Kryptopolis i Gecko. Moje pobudki nie powinny przysÅ‚aniaÄ‡ ci szczytnego celu, ku ktÃ³remu zmierzamy.}
+{631}{}{Masz juÅ¼ dysk z danymi z reaktora. Teraz musisz go uÅ¼yÄ‡.}
+{632}{}{Dysk z danymi zostaÅ‚ przeanalizowany. Teraz musisz coÅ› z nim zrobiÄ‡.}
+{633}{}{Do naprawy naszego reaktora potrzebna jest pewna specjalistyczna czÄ™Å›Ä‡.}
+{634}{}{Masz juÅ¼ wszystkie dane potrzebne do optymalizacji pracy naszego reaktora. Teraz musisz je dostarczyÄ‡ Festusowi.}
+{635}{}{MoÅ¼e przedstawisz mi swojÄ… propozycjÄ™.}
+{636}{}{UÅ¼yÄ‡ dysku z danymi? Niby jak mam to zrobiÄ‡?}
 {637}{}{Tyle wiem, ale co?}
-{638}{}{Czêœæ? Jaka czêœæ?}
-{639}{}{Mo¿e opowiesz mi o tym ostatnim etapie, a ja zastanowiê siê, czy ci pomóc.}
-{640}{}{Komu go daæ?}
+{638}{}{CzÄ™Å›Ä‡? Jaka czÄ™Å›Ä‡?}
+{639}{}{MoÅ¼e opowiesz mi o tym ostatnim etapie, a ja zastanowiÄ™ siÄ™, czy ci pomÃ³c.}
+{640}{}{Komu go daÄ‡?}
 {641}{}{Drugi etap?}
-{650}{}{ Mimo twoich obiekcji co do sprawowania kontroli nad œwiatem przez gryzonia, musisz pamiêtaæ, ¿e moje dzia³ania zmierzaj¹ ku poprawie ¿ycia tysiêcy mieszkañców Kryptopolis i Gecko. Moje pobudki nie powinny przys³aniaæ ci szczytnego celu, ku któremu zmierzamy.}
-{651}{}{Masz ju¿ dysk z danymi z reaktora. Teraz musisz coœ z nim zrobiæ.}
-{652}{}{Dysk z danymi zosta³ ju¿ przeanalizowany. Teraz musisz go u¿yæ.}
-{653}{}{Do naprawy naszego reaktora potrzebna jest pewna specjalistyczna czêœæ.}
-{654}{}{Mo¿e opowiesz mi o dzia³aniach, które proponujesz?}
-{655}{}{U¿yæ dysku z danymi? Niby jak mam to zrobiæ?}
+{650}{}{ Mimo twoich obiekcji co do sprawowania kontroli nad Å›wiatem przez gryzonia, musisz pamiÄ™taÄ‡, Å¼e moje dziaÅ‚ania zmierzajÄ… ku poprawie Å¼ycia tysiÄ™cy mieszkaÅ„cÃ³w Kryptopolis i Gecko. Moje pobudki nie powinny przysÅ‚aniaÄ‡ ci szczytnego celu, ku ktÃ³remu zmierzamy.}
+{651}{}{Masz juÅ¼ dysk z danymi z reaktora. Teraz musisz coÅ› z nim zrobiÄ‡.}
+{652}{}{Dysk z danymi zostaÅ‚ juÅ¼ przeanalizowany. Teraz musisz go uÅ¼yÄ‡.}
+{653}{}{Do naprawy naszego reaktora potrzebna jest pewna specjalistyczna czÄ™Å›Ä‡.}
+{654}{}{MoÅ¼e opowiesz mi o dziaÅ‚aniach, ktÃ³re proponujesz?}
+{655}{}{UÅ¼yÄ‡ dysku z danymi? Niby jak mam to zrobiÄ‡?}
 {656}{}{Tyle wiem, ale co?}
-{657}{}{Na przyk³ad?}
-{658}{}{Czêœæ? Jaka czêœæ?}
-{659}{}{Mo¿e opowiedz mi o tym ostatnim etapie, a ja zastanowiê siê, czy ci pomóc.}
-{670}{}{Reaktor, reaktor, ci¹gle tylko REAKTOR (wzdycha). Wróæ, kiedy uda ci siê ju¿ czegoœ dokonaæ.}
-{671}{}{Wróæ póŸniej. Porozumiewam siê teraz z si³¹ wy¿sz¹... albo coœ w tym stylu (wzdycha).}
-{672}{}{S³uchaj, je¿eli nie bêdziesz robiæ jak ci ka¿ê, to ludzie z Wioski bêd¹ cierpieæ.}
+{657}{}{Na przykÅ‚ad?}
+{658}{}{CzÄ™Å›Ä‡? Jaka czÄ™Å›Ä‡?}
+{659}{}{MoÅ¼e opowiedz mi o tym ostatnim etapie, a ja zastanowiÄ™ siÄ™, czy ci pomÃ³c.}
+{670}{}{Reaktor, reaktor, ciÄ…gle tylko REAKTOR (wzdycha). WrÃ³Ä‡, kiedy uda ci siÄ™ juÅ¼ czegoÅ› dokonaÄ‡.}
+{671}{}{WrÃ³Ä‡ pÃ³Åºniej. Porozumiewam siÄ™ teraz z siÅ‚Ä… wyÅ¼szÄ…... albo coÅ› w tym stylu (wzdycha).}
+{672}{}{SÅ‚uchaj, jeÅ¼eli nie bÄ™dziesz robiÄ‡ jak ci kaÅ¼Ä™, to ludzie z Wioski bÄ™dÄ… cierpieÄ‡.}
 {700}{}{Nie mam ci nic do powiedzenia.}
-{701}{}{Dobra ty paskudny z-kurwy-synu, mam dla ciebie now¹ propozycjê: Albo odwo³asz swoje gryzonie, albo przysiêgam ci, wysadzê ten przeklêty reaktor!}
-{702}{}{Dobrze, ju¿ dobrze... Uwa¿aj to za zrobione. Tylko, nie ruszaj reaktora. [mamrocze] Przeklêci psychotyczni ludzie...}
-{703}{}{Skoro ju¿ doszliœmy do porozumienia, co mówi³eœ o optymalizacji reaktora?}
-{704}{}{W takim razie za³atwione. ¯egnaj.}
-{705}{}{Uda³o ci siê rozwi¹zaæ problem z potworami Mózga.}
-{706}{}{Dobrze, ale czy móg³byœ najpierw spe³niæ moj¹ proœbê?}
-{707}{}{Prosisz o moj¹ pomoc, jednak zostawiasz zadanie tylko na wpó³-wykonane. [Do siebie.] Typowy cz³owiek. [Do ciebie.] Zoptymalizuj reaktor, dopiero wtedy i tylko wtedy, udzielê ci mojej pomocy.}
-{708}{}{Dobra, co trzeba zrobiæ?}
-{709}{}{S³uchaj uwa¿nie, ty radioaktywny szczurze, zaczynasz mnie wkurzaæ. Sam powiedzia³eœ, ¿e twój krewniak kopn¹³ w kalendarz. Có¿, chcê ¿ebyœ wiedzia³ – osob¹, która go wykoñczy³a, jestem JA. A teraz myœlê, ¿e dokoñczê robotê i dopilnujê wyginiêcia twojego gatunku.}
-{710}{}{S³uchaj uwa¿nie, ty radioaktywny szczurze, zaczynasz mnie wkurzaæ. Nadszed³ czas, aby powstrzymaæ to szaleñstwo.}
-{711}{}{Muszê to przemyœleæ.}
-{712}{}{Bardzo interesuj¹ce... a ja myœla³em, ¿e zale¿y ci na dobru Kryptopolis. W ka¿dym razie, bezpieczeñstwo wioski jest integraln¹ czêœci¹ mojego planu. Tym samym, spe³niê twoj¹ proœbê, cz³owieku.}
-{713}{}{Wygl¹da na to, ¿e za naprawienie reaktora nale¿y ci siê moja pomoc. Czego potrzebujesz?}
-{714}{}{Dziêkujê! Coœ mówi³eœ o optymalizacji?}
-{715}{}{Dziêkujê! Czeœæ.}
-{716}{}{Okazuje siê, ¿e Gordon da³ ci ju¿ dysk z danymi, o którym mówi³em. Natychmiast zanieœ go do Kryptopolis.}
+{701}{}{Dobra ty paskudny z-kurwy-synu, mam dla ciebie nowÄ… propozycjÄ™: Albo odwoÅ‚asz swoje gryzonie, albo przysiÄ™gam ci, wysadzÄ™ ten przeklÄ™ty reaktor!}
+{702}{}{Dobrze, juÅ¼ dobrze... UwaÅ¼aj to za zrobione. Tylko, nie ruszaj reaktora. [mamrocze] PrzeklÄ™ci psychotyczni ludzie...}
+{703}{}{Skoro juÅ¼ doszliÅ›my do porozumienia, co mÃ³wiÅ‚eÅ› o optymalizacji reaktora?}
+{704}{}{W takim razie zaÅ‚atwione. Å»egnaj.}
+{705}{}{UdaÅ‚o ci siÄ™ rozwiÄ…zaÄ‡ problem z potworami MÃ³zga.}
+{706}{}{Dobrze, ale czy mÃ³gÅ‚byÅ› najpierw speÅ‚niÄ‡ mojÄ… proÅ›bÄ™?}
+{707}{}{Prosisz o mojÄ… pomoc, jednak zostawiasz zadanie tylko na wpÃ³Å‚-wykonane. [Do siebie.] Typowy czÅ‚owiek. [Do ciebie.] Zoptymalizuj reaktor, dopiero wtedy i tylko wtedy, udzielÄ™ ci mojej pomocy.}
+{708}{}{Dobra, co trzeba zrobiÄ‡?}
+{709}{}{SÅ‚uchaj uwaÅ¼nie, ty radioaktywny szczurze, zaczynasz mnie wkurzaÄ‡. Sam powiedziaÅ‚eÅ›, Å¼e twÃ³j krewniak kopnÄ…Å‚ w kalendarz. CÃ³Å¼, chcÄ™ Å¼ebyÅ› wiedziaÅ‚ â€“ osobÄ…, ktÃ³ra go wykoÅ„czyÅ‚a, jestem JA. A teraz myÅ›lÄ™, Å¼e dokoÅ„czÄ™ robotÄ™ i dopilnujÄ™ wyginiÄ™cia twojego gatunku.}
+{710}{}{SÅ‚uchaj uwaÅ¼nie, ty radioaktywny szczurze, zaczynasz mnie wkurzaÄ‡. NadszedÅ‚ czas, aby powstrzymaÄ‡ to szaleÅ„stwo.}
+{711}{}{MuszÄ™ to przemyÅ›leÄ‡.}
+{712}{}{Bardzo interesujÄ…ce... a ja myÅ›laÅ‚em, Å¼e zaleÅ¼y ci na dobru Kryptopolis. W kaÅ¼dym razie, bezpieczeÅ„stwo wioski jest integralnÄ… czÄ™Å›ciÄ… mojego planu. Tym samym, speÅ‚niÄ™ twojÄ… proÅ›bÄ™, czÅ‚owieku.}
+{713}{}{WyglÄ…da na to, Å¼e za naprawienie reaktora naleÅ¼y ci siÄ™ moja pomoc. Czego potrzebujesz?}
+{714}{}{DziÄ™kujÄ™! CoÅ› mÃ³wiÅ‚eÅ› o optymalizacji?}
+{715}{}{DziÄ™kujÄ™! CzeÅ›Ä‡.}
+{716}{}{Okazuje siÄ™, Å¼e Gordon daÅ‚ ci juÅ¼ dysk z danymi, o ktÃ³rym mÃ³wiÅ‚em. Natychmiast zanieÅ› go do Kryptopolis.}
 {717}{}{Jasne.}
-{718}{}{Yyy...ta jasne, mo¿e póŸniej.}
-{719}{}{Jak ju¿ mówi³em, ¿eby naprawiæ reaktor w Gecko musisz zdobyæ z Kryptopolis Hydroelektryczny Regulator Magnetosfery. Jeœli tego nie zrobisz, Kryptopolis z ca³¹ pewnoœci¹ zaatakuje Gecko. Je¿eli mi pomo¿esz spe³niê twoj¹ proœbê. Przy³¹czysz siê do nas?}
-{720}{}{W porz¹dku, pomogê wam.}
-{721}{}{Nie, wal siê szczurzy mó¿d¿ku. Mam tego doœæ. Czas umieraæ!}
-{4211}{}{Yyy, to ja ju¿ pójdê po ten dysk do Gordona. Czeœæ.}
+{718}{}{Yyy...ta jasne, moÅ¼e pÃ³Åºniej.}
+{719}{}{Jak juÅ¼ mÃ³wiÅ‚em, Å¼eby naprawiÄ‡ reaktor w Gecko musisz zdobyÄ‡ z Kryptopolis Hydroelektryczny Regulator Magnetosfery. JeÅ›li tego nie zrobisz, Kryptopolis z caÅ‚Ä… pewnoÅ›ciÄ… zaatakuje Gecko. JeÅ¼eli mi pomoÅ¼esz speÅ‚niÄ™ twojÄ… proÅ›bÄ™. PrzyÅ‚Ä…czysz siÄ™ do nas?}
+{720}{}{W porzÄ…dku, pomogÄ™ wam.}
+{721}{}{Nie, wal siÄ™ szczurzy mÃ³Å¼dÅ¼ku. Mam tego doÅ›Ä‡. Czas umieraÄ‡!}
+{4211}{}{Yyy, to ja juÅ¼ pÃ³jdÄ™ po ten dysk do Gordona. CzeÅ›Ä‡.}

@@ -1,3 +1,3 @@
-{100}{}{Joshuát látod.}
-{101}{}{Egy zavarban lév?,zsíroshajú, fiatal férfit látsz.}
-{102}{}{Köszönöm, hogy kihoztál onnan. Hálás vagyok. Én és a feleségem hamarosan elmegyünk innen.}
+{100}{}{JoshuÃ¡t lÃ¡tod.}
+{101}{}{Egy zavarban lÃ©v?,zsÃ­roshajÃº, fiatal fÃ©rfit lÃ¡tsz.}
+{102}{}{KÃ¶szÃ¶nÃ¶m, hogy kihoztÃ¡l onnan. HÃ¡lÃ¡s vagyok. Ã‰n Ã©s a felesÃ©gem hamarosan elmegyÃ¼nk innen.}

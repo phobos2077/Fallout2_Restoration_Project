@@ -1,84 +1,84 @@
 {100}{}{You see a greasy, sweating ghoul.}
 {101}{}{Eric.}
 {102}{}{You see a greasy, sweating ghoul. He looks quite miserable.}
-{103}{}{Ennek a városnak nem kell több pech. Nekem sem kell több.}
-{104}{}{Gyere már, gyere már! Csukd be gyorsan az ajtót! Bejönnek a legyek!}
+{103}{}{Ennek a vÃ¡rosnak nem kell tÃ¶bb pech. Nekem sem kell tÃ¶bb.}
+{104}{}{Gyere mÃ¡r, gyere mÃ¡r! Csukd be gyorsan az ajtÃ³t! BejÃ¶nnek a legyek!}
 {105}{}{Legyek mi?}
-{106}{}{Oké, jól van. Nem kell kiabálni!}
-{107}{}{Te kiabálsz velem?}
+{106}{}{OkÃ©, jÃ³l van. Nem kell kiabÃ¡lni!}
+{107}{}{Te kiabÃ¡lsz velem?}
 {108}{}{Annyi legyet engedek be, amennyit csak akarok. Seggfej!}
-{109}{}{Aha. Na, légy jó!}
-{110}{}{Csukd be az ajtót! Kérlek! Menj és vidd magaddal a legyeket is!}
-{111}{}{Okké!}
-{112}{}{Bocs. Kicsit ideges vagyok. Itt ez a sok légy, és nem m?ködik a légkondicionáló. Ha több áramot kapnék, nem lenne gond velük... de nem kapok.}
+{109}{}{Aha. Na, lÃ©gy jÃ³!}
+{110}{}{Csukd be az ajtÃ³t! KÃ©rlek! Menj Ã©s vidd magaddal a legyeket is!}
+{111}{}{OkkÃ©!}
+{112}{}{Bocs. Kicsit ideges vagyok. Itt ez a sok lÃ©gy, Ã©s nem m?kÃ¶dik a lÃ©gkondicionÃ¡lÃ³. Ha tÃ¶bb Ã¡ramot kapnÃ©k, nem lenne gond velÃ¼k... de nem kapok.}
 {113}{}{Ki vagy te?}
-{114}{}{Honnan kapsz áramot?}
-{115}{}{Miért jönnek a legyek ide?}
-{116}{}{Fürdened kéne inkább, nem gondolod?}
-{117}{}{Peched van, haver. Na, viszlát!}
-{118}{}{Hmmm. Szar ügy. Viszlát!}
-{119}{}{A belvárosban van egy generátorállomás, ami ellátja a várost árammal. Ha elmennél oda, és kérnél nekem még egy kis áramot a légkondicionálómhoz, hálás lennék.}
-{120}{}{Mennyire hálás? Pénz vagy felszerelés?}
-{121}{}{Oké, megpróbálom.}
-{122}{}{Nincs rá id?m. Talán kés?bb.}
-{123}{}{Te hülye vagy? Nem. Olyan szánalmas vagy, hogy szívességet tennél a világnak, ha meghalnál!}
-{124}{}{Azért, mert valami furcsa oknál fogva légytápanyagot izzadok. A testem kaját jelent nekik, és ez az izzadás csak ront a helyzetemen.}
-{125}{}{Ez elég szar lehet. Miért nem fürdesz, vagy valami?}
-{126}{}{Akkor szívességet teszek, ha megöllek.}
-{127}{}{Értem. Ez több, mint amit tudni akartam. Viszlát!}
-{128}{}{Próbáltam. Mindent próbáltam már. Az egyetlen dolog, ami távoltartaná a legyeket, ha nem izzadnék... de ha nincs elég áram, soha nem lesz itt h?vös.}
-{129}{}{Értem. Volna még néhány kérdésem.}
-{130}{}{Értem. Viszlát!}
+{114}{}{Honnan kapsz Ã¡ramot?}
+{115}{}{MiÃ©rt jÃ¶nnek a legyek ide?}
+{116}{}{FÃ¼rdened kÃ©ne inkÃ¡bb, nem gondolod?}
+{117}{}{Peched van, haver. Na, viszlÃ¡t!}
+{118}{}{Hmmm. Szar Ã¼gy. ViszlÃ¡t!}
+{119}{}{A belvÃ¡rosban van egy generÃ¡torÃ¡llomÃ¡s, ami ellÃ¡tja a vÃ¡rost Ã¡rammal. Ha elmennÃ©l oda, Ã©s kÃ©rnÃ©l nekem mÃ©g egy kis Ã¡ramot a lÃ©gkondicionÃ¡lÃ³mhoz, hÃ¡lÃ¡s lennÃ©k.}
+{120}{}{Mennyire hÃ¡lÃ¡s? PÃ©nz vagy felszerelÃ©s?}
+{121}{}{OkÃ©, megprÃ³bÃ¡lom.}
+{122}{}{Nincs rÃ¡ id?m. TalÃ¡n kÃ©s?bb.}
+{123}{}{Te hÃ¼lye vagy? Nem. Olyan szÃ¡nalmas vagy, hogy szÃ­vessÃ©get tennÃ©l a vilÃ¡gnak, ha meghalnÃ¡l!}
+{124}{}{AzÃ©rt, mert valami furcsa oknÃ¡l fogva lÃ©gytÃ¡panyagot izzadok. A testem kajÃ¡t jelent nekik, Ã©s ez az izzadÃ¡s csak ront a helyzetemen.}
+{125}{}{Ez elÃ©g szar lehet. MiÃ©rt nem fÃ¼rdesz, vagy valami?}
+{126}{}{Akkor szÃ­vessÃ©get teszek, ha megÃ¶llek.}
+{127}{}{Ã‰rtem. Ez tÃ¶bb, mint amit tudni akartam. ViszlÃ¡t!}
+{128}{}{PrÃ³bÃ¡ltam. Mindent prÃ³bÃ¡ltam mÃ¡r. Az egyetlen dolog, ami tÃ¡voltartanÃ¡ a legyeket, ha nem izzadnÃ©k... de ha nincs elÃ©g Ã¡ram, soha nem lesz itt h?vÃ¶s.}
+{129}{}{Ã‰rtem. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{130}{}{Ã‰rtem. ViszlÃ¡t!}
 {131}{}{Igen?}
-{132}{}{Beszéltem Briannel, és azt mondta, hogy a sz?kös készletekre való tekintettel nem adhat több áramot.}
-{133}{}{Miért jönnek ide a legyek?}
-{134}{}{Próbáltál már fürdeni?}
-{135}{}{Hol van a generátorállomás?}
+{132}{}{BeszÃ©ltem Briannel, Ã©s azt mondta, hogy a sz?kÃ¶s kÃ©szletekre valÃ³ tekintettel nem adhat tÃ¶bb Ã¡ramot.}
+{133}{}{MiÃ©rt jÃ¶nnek ide a legyek?}
+{134}{}{PrÃ³bÃ¡ltÃ¡l mÃ¡r fÃ¼rdeni?}
+{135}{}{Hol van a generÃ¡torÃ¡llomÃ¡s?}
 {136}{}{Ki vagy te?}
-{137}{}{Most már sokkal jobb. Megfelel?}
+{137}{}{Most mÃ¡r sokkal jobb. Megfelel?}
 {138}{}{Semmi. Hagyjuk!}
-{139}{}{Össze tudok neked kaparni egy-két dolgot, ha megcsinálod. Nem ígérhetek sokat, de hát ez nem is olyan nagy kérés.}
-{140}{}{Megegyeztünk. Csak legyen valami, amit elvihetek, ha visszajövök a jó hírrel!}
-{141}{}{Megcsinálom ingyen. Nem kell semmi.}
-{142}{}{Hagyjuk! Nem akarom megcsinálni.}
+{139}{}{Ã–ssze tudok neked kaparni egy-kÃ©t dolgot, ha megcsinÃ¡lod. Nem Ã­gÃ©rhetek sokat, de hÃ¡t ez nem is olyan nagy kÃ©rÃ©s.}
+{140}{}{MegegyeztÃ¼nk. Csak legyen valami, amit elvihetek, ha visszajÃ¶vÃ¶k a jÃ³ hÃ­rrel!}
+{141}{}{MegcsinÃ¡lom ingyen. Nem kell semmi.}
+{142}{}{Hagyjuk! Nem akarom megcsinÃ¡lni.}
 {143}{}{Gondolkozom rajta.}
-{144}{}{El sem tudom mondani, milyen hálás vagyok! Kérlek, azonnal szólj, ha sikerült, hogy rögtön bekapcsolhassam a légkondicionálót és fürödhessek egyet!}
-{145}{}{Persze, de lenne még pár kérdésem.}
-{146}{}{Tiszta sor. Viszlát!}
-{147}{}{Kérlek, ne halaszd sokára... kezdek meg?rülni ezekt?l a pimasz legyekt?l!}
-{148}{}{Oké, csak lenne még pár kérdésem.}
+{144}{}{El sem tudom mondani, milyen hÃ¡lÃ¡s vagyok! KÃ©rlek, azonnal szÃ³lj, ha sikerÃ¼lt, hogy rÃ¶gtÃ¶n bekapcsolhassam a lÃ©gkondicionÃ¡lÃ³t Ã©s fÃ¼rÃ¶dhessek egyet!}
+{145}{}{Persze, de lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{146}{}{Tiszta sor. ViszlÃ¡t!}
+{147}{}{KÃ©rlek, ne halaszd sokÃ¡ra... kezdek meg?rÃ¼lni ezekt?l a pimasz legyekt?l!}
+{148}{}{OkÃ©, csak lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
 {149}{}{Rendben.}
-{150}{}{Kösz az együttérzést! Ez szarkazmus volt, ha nem vetted volna észre. T?nj a pokolba a házamból!}
-{151}{}{Miért nem döglesz meg és mész te a pokolba?}
-{152}{}{Viszlát, légyetet?!}
-{153}{}{Az er?m? rögtön a bal kezed felé van, amikor belépsz Broken Hillsbe. Egy Brian nev? fickó üzemelteti. Amolyan naplopó, aki igyekszik minél kevesebbet dolgozni.}
-{154}{}{Frankó munka lehet. Kösz. Lenne még pár kérdésem.}
-{155}{}{Értem. Akkor megyek is.}
-{156}{}{Eric vagyok. Én vezettem a város hoteljét, de el kellett adnom a légy-problémám miatt. A kocsmát is én vezettem, de azt is el kellett adnom, ugyanazért. A generátort is én felügyeltem, de a legyek folyton belerepültek.}
-{157}{}{Ez szörnyen sok munka. Lenne még pár kérdésem.}
-{158}{}{Értem. Viszlát!}
-{159}{}{Azt mondta? Akkor mondd meg neki, hogy a generátor uránnal üzemel, és az a minimális energiatöbblet, amit kérek meg sem kottyanna a generátornak. És mondd meg neki azt is, hogy az áramomat akarom!}
-{160}{}{Úgy lesz! Ez a beszéd!}
-{161}{}{Megmondom neki, de el?bb kérdeznék valamit.}
-{162}{}{Oké. Viszlát!}
-{163}{}{Sikerült? Nagyon köszönöm. El sem tudom mondani, milyen hálás vagyok.}
-{164}{}{A hála kifejezésének elterjedt módja a pénz, vagy más használható tárgy ajándékozása.}
-{165}{}{Ne legyél. Beérem a köszöneteddel.}
-{166}{}{Francisnak, a mutánsnak er?keszty?je van. Mindenkit kihív szkanderezni, és mindenkit le is gy?z. A gond az, hogy er?sebb mindenkinél. Ha érdekel, tudok adni pár pirulát, amivel legy?zheted.}
+{150}{}{KÃ¶sz az egyÃ¼ttÃ©rzÃ©st! Ez szarkazmus volt, ha nem vetted volna Ã©szre. T?nj a pokolba a hÃ¡zambÃ³l!}
+{151}{}{MiÃ©rt nem dÃ¶glesz meg Ã©s mÃ©sz te a pokolba?}
+{152}{}{ViszlÃ¡t, lÃ©gyetet?!}
+{153}{}{Az er?m? rÃ¶gtÃ¶n a bal kezed felÃ© van, amikor belÃ©psz Broken Hillsbe. Egy Brian nev? fickÃ³ Ã¼zemelteti. Amolyan naplopÃ³, aki igyekszik minÃ©l kevesebbet dolgozni.}
+{154}{}{FrankÃ³ munka lehet. KÃ¶sz. Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{155}{}{Ã‰rtem. Akkor megyek is.}
+{156}{}{Eric vagyok. Ã‰n vezettem a vÃ¡ros hoteljÃ©t, de el kellett adnom a lÃ©gy-problÃ©mÃ¡m miatt. A kocsmÃ¡t is Ã©n vezettem, de azt is el kellett adnom, ugyanazÃ©rt. A generÃ¡tort is Ã©n felÃ¼gyeltem, de a legyek folyton belerepÃ¼ltek.}
+{157}{}{Ez szÃ¶rnyen sok munka. Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{158}{}{Ã‰rtem. ViszlÃ¡t!}
+{159}{}{Azt mondta? Akkor mondd meg neki, hogy a generÃ¡tor urÃ¡nnal Ã¼zemel, Ã©s az a minimÃ¡lis energiatÃ¶bblet, amit kÃ©rek meg sem kottyanna a generÃ¡tornak. Ã‰s mondd meg neki azt is, hogy az Ã¡ramomat akarom!}
+{160}{}{Ãšgy lesz! Ez a beszÃ©d!}
+{161}{}{Megmondom neki, de el?bb kÃ©rdeznÃ©k valamit.}
+{162}{}{OkÃ©. ViszlÃ¡t!}
+{163}{}{SikerÃ¼lt? Nagyon kÃ¶szÃ¶nÃ¶m. El sem tudom mondani, milyen hÃ¡lÃ¡s vagyok.}
+{164}{}{A hÃ¡la kifejezÃ©sÃ©nek elterjedt mÃ³dja a pÃ©nz, vagy mÃ¡s hasznÃ¡lhatÃ³ tÃ¡rgy ajÃ¡ndÃ©kozÃ¡sa.}
+{165}{}{Ne legyÃ©l. BeÃ©rem a kÃ¶szÃ¶neteddel.}
+{166}{}{Francisnak, a mutÃ¡nsnak er?keszty?je van. Mindenkit kihÃ­v szkanderezni, Ã©s mindenkit le is gy?z. A gond az, hogy er?sebb mindenkinÃ©l. Ha Ã©rdekel, tudok adni pÃ¡r pirulÃ¡t, amivel legy?zheted.}
 {167}{}{Hogyne.}
-{168}{}{Inkább pénzt kérnék, ha van.}
+{168}{}{InkÃ¡bb pÃ©nzt kÃ©rnÃ©k, ha van.}
 {169}{}{Nem kell jutalom.}
-{170}{}{Ezt a drogot Buffoutnak hívják. Megnöveli az er?t, de elködösíti az agyat. Ne vegyél be túl sokat egyszerre, mert függ?vé válhatsz! Sok sikert!}
-{171}{}{Kösz! Viszlát!}
-{172}{}{Tudnál segíteni a légy-problémámon? Nagyon hálás lennék.}
-{173}{}{Mennyire hálás?}
+{170}{}{Ezt a drogot Buffoutnak hÃ­vjÃ¡k. MegnÃ¶veli az er?t, de elkÃ¶dÃ¶sÃ­ti az agyat. Ne vegyÃ©l be tÃºl sokat egyszerre, mert fÃ¼gg?vÃ© vÃ¡lhatsz! Sok sikert!}
+{171}{}{KÃ¶sz! ViszlÃ¡t!}
+{172}{}{TudnÃ¡l segÃ­teni a lÃ©gy-problÃ©mÃ¡mon? Nagyon hÃ¡lÃ¡s lennÃ©k.}
+{173}{}{Mennyire hÃ¡lÃ¡s?}
 {174}{}{Hogyne.}
 {175}{}{Gondolkozom rajta.}
-{176}{}{Nem érdekel.}
-{177}{}{Itt az összes pénzem... 150 dollár. Köszönöm!}
-{178}{}{Nem, én köszönöm. Viszlát!}
-{179}{}{Akkor kétszeresen is hálás vagyok. Ó... úgy hallottam, egy ÉLET-et keresel. Nézz körül az ÚKK-ban, innen délre!}
-{180}{}{Kösz! Viszlát!}
-{181}{}{Nagyon is. A legyek megfogyatkoztak, a leveg? h?vös, és nem izzadok annyit. Mindenkinek jobb így a környéken!}
-{182}{}{Rendben. Hát ez minden. Viszlát!}
-{183}{}{Egy kövér, kevésbé izzadó embert látsz. Láthatóan jól érzi magát.}
+{176}{}{Nem Ã©rdekel.}
+{177}{}{Itt az Ã¶sszes pÃ©nzem... 150 dollÃ¡r. KÃ¶szÃ¶nÃ¶m!}
+{178}{}{Nem, Ã©n kÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{179}{}{Akkor kÃ©tszeresen is hÃ¡lÃ¡s vagyok. Ã“... Ãºgy hallottam, egy Ã‰LET-et keresel. NÃ©zz kÃ¶rÃ¼l az ÃšKK-ban, innen dÃ©lre!}
+{180}{}{KÃ¶sz! ViszlÃ¡t!}
+{181}{}{Nagyon is. A legyek megfogyatkoztak, a leveg? h?vÃ¶s, Ã©s nem izzadok annyit. Mindenkinek jobb Ã­gy a kÃ¶rnyÃ©ken!}
+{182}{}{Rendben. HÃ¡t ez minden. ViszlÃ¡t!}
+{183}{}{Egy kÃ¶vÃ©r, kevÃ©sbÃ© izzadÃ³ embert lÃ¡tsz. LÃ¡thatÃ³an jÃ³l Ã©rzi magÃ¡t.}

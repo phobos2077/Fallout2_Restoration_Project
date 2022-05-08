@@ -1,19 +1,19 @@
-{100}{}{Widzisz poszukiwacza z³ota}
-{101}{}{Hej, ty tam! Stój! Z regu³y nie zaczepiam nieznajomych, ale potrzebujê zapasów, a nie mogê zostawiæ swojej dzia³ki bez opieki. Chcesz coœ sprzedaæ?}
+{100}{}{Widzisz poszukiwacza zÅ‚ota}
+{101}{}{Hej, ty tam! StÃ³j! Z reguÅ‚y nie zaczepiam nieznajomych, ale potrzebujÄ™ zapasÃ³w, a nie mogÄ™ zostawiÄ‡ swojej dziaÅ‚ki bez opieki. Chcesz coÅ› sprzedaÄ‡?}
 {102}{}{Jasne.}
-{103}{}{Przykro mi, nie mam nic na sprzeda¿.}
+{103}{}{Przykro mi, nie mam nic na sprzedaÅ¼.}
 {104}{}{Bala.}
-{105}{}{Ja to mam szczêœcie. Nie potrafisz mówiæ, prawda? No to nie powiesz nikomu gdzie jest moja dzia³ka. Bierzmy siê do wymiany.}
+{105}{}{Ja to mam szczÄ™Å›cie. Nie potrafisz mÃ³wiÄ‡, prawda? No to nie powiesz nikomu gdzie jest moja dziaÅ‚ka. Bierzmy siÄ™ do wymiany.}
 {106}{}{[Handluj]}
-{107}{}{Dobra, spadaj! Tylko nie mów nikomu gdzie le¿y moja dzia³ka.}
+{107}{}{Dobra, spadaj! Tylko nie mÃ³w nikomu gdzie leÅ¼y moja dziaÅ‚ka.}
 {108}{}{[Koniec]}
-{109}{}{Lepiej ju¿ sobie idŸ.}
-{110}{}{Nie mamy ju¿ o czym mówiæ.}
-{111}{}{Uciekaj st¹d!}
-{112}{}{Ju¿ po tobie.}
-{113}{}{Nikt nie mo¿e siê dowiedzieæ, gdzie le¿y moja dzia³ka.}
+{109}{}{Lepiej juÅ¼ sobie idÅº.}
+{110}{}{Nie mamy juÅ¼ o czym mÃ³wiÄ‡.}
+{111}{}{Uciekaj stÄ…d!}
+{112}{}{JuÅ¼ po tobie.}
+{113}{}{Nikt nie moÅ¼e siÄ™ dowiedzieÄ‡, gdzie leÅ¼y moja dziaÅ‚ka.}
 {114}{}{Czemu mnie atakujesz?}
-{115}{}{Teraz muszê ciê zabiæ.}
-{116}{}{Chcia³em tylko trochê ¿ywnoœci.}
-{117}{}{Bierz moj¹ dzia³kê, tylko mnie nie zabijaj!}
-{118}{}{Litoœci!}
+{115}{}{Teraz muszÄ™ ciÄ™ zabiÄ‡.}
+{116}{}{ChciaÅ‚em tylko trochÄ™ Å¼ywnoÅ›ci.}
+{117}{}{Bierz mojÄ… dziaÅ‚kÄ™, tylko mnie nie zabijaj!}
+{118}{}{LitoÅ›ci!}

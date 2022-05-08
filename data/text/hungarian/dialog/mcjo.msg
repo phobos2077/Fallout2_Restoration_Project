@@ -4,136 +4,136 @@
 {104}{}{You see Sheriff Jo.}
 {105}{}{You see Mayor Jo.}
 {106}{}{You see Justice of the Peace Jo.}
-{150}{}{Mindenkit megöltünk. Még a gyerekeket is... [zokog]}
-{151}{}{Találkozzunk a Kísértetfarmon! Azonnal támadunk.}
-{152}{}{Köszönöm, hogy megmentette Modoc lakosságát.}
-{153}{}{Mit csinál itt?}
-{154}{}{Hé! Hagyja azt békén!}
+{150}{}{Mindenkit megÃ¶ltÃ¼nk. MÃ©g a gyerekeket is... [zokog]}
+{151}{}{TalÃ¡lkozzunk a KÃ­sÃ©rtetfarmon! Azonnal tÃ¡madunk.}
+{152}{}{KÃ¶szÃ¶nÃ¶m, hogy megmentette Modoc lakossÃ¡gÃ¡t.}
+{153}{}{Mit csinÃ¡l itt?}
+{154}{}{HÃ©! Hagyja azt bÃ©kÃ©n!}
 {155}{}{Tolvaj!}
-{156}{}{Sajnálom, az aszály miatt zárva tartjuk a kereskedést.}
-{157}{}{Ki mondta, hogy vásárolni akarok?}
-{158}{}{Új vagyok errefelé. Mit érdemes tudni err?l a helyr?l?}
-{159}{}{Ugye nem is remélhetem, hogy van egy eladó aranyórája?}
-{160}{}{ÉLET!}
-{161}{}{Mit tehetek magáért?}
-{162}{}{Egy bizonyos dolgot keresek. Azon törtem a fejem, vajon tudna-e nekem segíteni a felkutatásában.}
-{164}{}{Szeretnék venni egy aranyórát. Nem tudja, honnan szerezhetnék egyet?}
-{165}{}{Mit tudsz felajánlani?}
-{166}{}{Mit tud mondani err?l a városról?}
-{167}{}{Mi a munkád?}
-{168}{}{ÉLET!}
-{169}{}{Visszajött hát! Mit talált a farmon?}
-{170}{}{Megoldottam a Kísértetfarm problémáját. Bármikor odamehet és beköltözhet.}
-{171}{}{Üzenetet hoztam magának az Aljanépt?l.}
-{172}{}{Üzze-neth.}
+{156}{}{SajnÃ¡lom, az aszÃ¡ly miatt zÃ¡rva tartjuk a kereskedÃ©st.}
+{157}{}{Ki mondta, hogy vÃ¡sÃ¡rolni akarok?}
+{158}{}{Ãšj vagyok errefelÃ©. Mit Ã©rdemes tudni err?l a helyr?l?}
+{159}{}{Ugye nem is remÃ©lhetem, hogy van egy eladÃ³ aranyÃ³rÃ¡ja?}
+{160}{}{Ã‰LET!}
+{161}{}{Mit tehetek magÃ¡Ã©rt?}
+{162}{}{Egy bizonyos dolgot keresek. Azon tÃ¶rtem a fejem, vajon tudna-e nekem segÃ­teni a felkutatÃ¡sÃ¡ban.}
+{164}{}{SzeretnÃ©k venni egy aranyÃ³rÃ¡t. Nem tudja, honnan szerezhetnÃ©k egyet?}
+{165}{}{Mit tudsz felajÃ¡nlani?}
+{166}{}{Mit tud mondani err?l a vÃ¡rosrÃ³l?}
+{167}{}{Mi a munkÃ¡d?}
+{168}{}{Ã‰LET!}
+{169}{}{VisszajÃ¶tt hÃ¡t! Mit talÃ¡lt a farmon?}
+{170}{}{Megoldottam a KÃ­sÃ©rtetfarm problÃ©mÃ¡jÃ¡t. BÃ¡rmikor odamehet Ã©s bekÃ¶ltÃ¶zhet.}
+{171}{}{Ãœzenetet hoztam magÃ¡nak az AljanÃ©pt?l.}
+{172}{}{Ãœzze-neth.}
 {173}{}{Farm?}
 {174}{}{Rossz dolgok mind elt?ntenek!}
-{175}{}{Én megy.}
-{176}{}{Ha többr?l tudok beszámolni, megint beszélünk.}
-{179}{}{Van egy részeges fazon Rejtekben, akire ráillik a leírás. Aszongya, ? is termel? volt.}
-{180}{}{Azok a testek nem igaziak. Leraktak valami bábukat és Brahminbeleket szórtak szét rajtuk. Csak azért vannak, hogy elriassza magukat a földekr?l.}
-{181}{}{Mit is kéne tehát csinálnom?}
-{182}{}{Hogy mondja? Ja, nyilván újnak tetszik itt lenni. Üdv Modocban. A nevem Jo, és enyém a modoc-i kereskedés.}
-{183}{}{Küldetésben járok a szent ÉLET nyomában. Van ötlete, hol találhatnám meg?}
-{186}{}{Maga aztán szerencsés. Mit tesz isten, tudom, hol van és közben egy kis üzletet is nyélbe üthetnénk.}
-{187}{}{Üzletet? Csak mondja meg, hol van a szent ÉLET és már itt sem vagyok.}
-{188}{}{Nekünk csak egyetlen üzletet kell összehoznunk. Miel?tt morcos leszek, maga szépen elmondja, hol van a szent ÉLET.}
-{189}{}{Mit akar ezért az információért?}
-{190}{}{Na, igen, nézzük, mit is akarok... Ha még nem vette volna észre, a mi kis termel? közösségünk a lehet? legrosszabb aszályt fogta ki idén. Az es?s évszak szokatlanul rövid volt és a vízhiány következtében a termés egyszer?en elhal. Röviden, kis településünk lassan feléli a tartalékait.}
-{191}{}{Hmm... Gondolom tisztában van azzal, hogy nem tudok es?t csinálni...}
-{192}{}{[Halkan kuncog...] Persze, persze... hogy is tudna. Lehetetlent sosem kérnék. Es?t csinálni nyilván nem tud, így van? Hát persze, hogy nem... Viszont ahogy azt mán említettem, bajban vagyunk, és elkelne a maga segítsége.}
+{175}{}{Ã‰n megy.}
+{176}{}{Ha tÃ¶bbr?l tudok beszÃ¡molni, megint beszÃ©lÃ¼nk.}
+{179}{}{Van egy rÃ©szeges fazon Rejtekben, akire rÃ¡illik a leÃ­rÃ¡s. Aszongya, ? is termel? volt.}
+{180}{}{Azok a testek nem igaziak. Leraktak valami bÃ¡bukat Ã©s Brahminbeleket szÃ³rtak szÃ©t rajtuk. Csak azÃ©rt vannak, hogy elriassza magukat a fÃ¶ldekr?l.}
+{181}{}{Mit is kÃ©ne tehÃ¡t csinÃ¡lnom?}
+{182}{}{Hogy mondja? Ja, nyilvÃ¡n Ãºjnak tetszik itt lenni. Ãœdv Modocban. A nevem Jo, Ã©s enyÃ©m a modoc-i kereskedÃ©s.}
+{183}{}{KÃ¼ldetÃ©sben jÃ¡rok a szent Ã‰LET nyomÃ¡ban. Van Ã¶tlete, hol talÃ¡lhatnÃ¡m meg?}
+{186}{}{Maga aztÃ¡n szerencsÃ©s. Mit tesz isten, tudom, hol van Ã©s kÃ¶zben egy kis Ã¼zletet is nyÃ©lbe Ã¼thetnÃ©nk.}
+{187}{}{Ãœzletet? Csak mondja meg, hol van a szent Ã‰LET Ã©s mÃ¡r itt sem vagyok.}
+{188}{}{NekÃ¼nk csak egyetlen Ã¼zletet kell Ã¶sszehoznunk. Miel?tt morcos leszek, maga szÃ©pen elmondja, hol van a szent Ã‰LET.}
+{189}{}{Mit akar ezÃ©rt az informÃ¡ciÃ³Ã©rt?}
+{190}{}{Na, igen, nÃ©zzÃ¼k, mit is akarok... Ha mÃ©g nem vette volna Ã©szre, a mi kis termel? kÃ¶zÃ¶ssÃ©gÃ¼nk a lehet? legrosszabb aszÃ¡lyt fogta ki idÃ©n. Az es?s Ã©vszak szokatlanul rÃ¶vid volt Ã©s a vÃ­zhiÃ¡ny kÃ¶vetkeztÃ©ben a termÃ©s egyszer?en elhal. RÃ¶viden, kis telepÃ¼lÃ©sÃ¼nk lassan felÃ©li a tartalÃ©kait.}
+{191}{}{Hmm... Gondolom tisztÃ¡ban van azzal, hogy nem tudok es?t csinÃ¡lni...}
+{192}{}{[Halkan kuncog...] Persze, persze... hogy is tudna. Lehetetlent sosem kÃ©rnÃ©k. Es?t csinÃ¡lni nyilvÃ¡n nem tud, Ã­gy van? HÃ¡t persze, hogy nem... Viszont ahogy azt mÃ¡n emlÃ­tettem, bajban vagyunk, Ã©s elkelne a maga segÃ­tsÃ©ge.}
 {193}{}{Rendben, hallgatom.}
-{194}{}{A város határában van egy farm, ahol nem kéne lennie neki. Néhány évvel ezel?tt a semmib?l "t?nt" el?.}
-{195}{}{Azt állítja, hogy az egyik éjszaka a semmib?l el?ugrott? Hát persze, így megy ez!}
-{196}{}{Néhányan éppen vadászni voltunk, amikor észrevettük az új farmot. De nem ez az érdekes, hanem, hogy röviddel ezután együtt ellátogattunk az új szomszédhoz, és azt kellett látnunk, hogy nem él ott senki.}
+{194}{}{A vÃ¡ros hatÃ¡rÃ¡ban van egy farm, ahol nem kÃ©ne lennie neki. NÃ©hÃ¡ny Ã©vvel ezel?tt a semmib?l "t?nt" el?.}
+{195}{}{Azt Ã¡llÃ­tja, hogy az egyik Ã©jszaka a semmib?l el?ugrott? HÃ¡t persze, Ã­gy megy ez!}
+{196}{}{NÃ©hÃ¡nyan Ã©ppen vadÃ¡szni voltunk, amikor Ã©szrevettÃ¼k az Ãºj farmot. De nem ez az Ã©rdekes, hanem, hogy rÃ¶viddel ezutÃ¡n egyÃ¼tt ellÃ¡togattunk az Ãºj szomszÃ©dhoz, Ã©s azt kellett lÃ¡tnunk, hogy nem Ã©l ott senki.}
 {197}{}{Folytasd!}
-{198}{}{Miután hónapokig próbálkoztunk, hogy a pórul járt tulajdonosokkal felvegyük a kapcsolatot, arra jutottunk, hogy a farmot közvetlenül a megépítése után elhagyták. Ezért aztán ahelyett, hogy hagytuk volna a termést megrohadni a mez?n, Karl fiú beköltözött.}
+{198}{}{MiutÃ¡n hÃ³napokig prÃ³bÃ¡lkoztunk, hogy a pÃ³rul jÃ¡rt tulajdonosokkal felvegyÃ¼k a kapcsolatot, arra jutottunk, hogy a farmot kÃ¶zvetlenÃ¼l a megÃ©pÃ­tÃ©se utÃ¡n elhagytÃ¡k. EzÃ©rt aztÃ¡n ahelyett, hogy hagytuk volna a termÃ©st megrohadni a mez?n, Karl fiÃº bekÃ¶ltÃ¶zÃ¶tt.}
 {199}{}{Hmm... }
-{200}{}{Na, ekkor fordultak rosszra a dolgok. Karl pletykákat kezdett terjeszteni, hogy éjszakánként fura, izzó alakok dolgoznak a földeken és etetik az állatokat. Mindannyian nevettünk rajta, azt hittük csak a fejéb?l pattant ki a sok sületlenség. Aztán egy nap Karl nem jött többé a városba.}
-{201}{}{Mi történt vele? Nekiálltak keresni ?t?}
+{200}{}{Na, ekkor fordultak rosszra a dolgok. Karl pletykÃ¡kat kezdett terjeszteni, hogy Ã©jszakÃ¡nkÃ©nt fura, izzÃ³ alakok dolgoznak a fÃ¶ldeken Ã©s etetik az Ã¡llatokat. Mindannyian nevettÃ¼nk rajta, azt hittÃ¼k csak a fejÃ©b?l pattant ki a sok sÃ¼letlensÃ©g. AztÃ¡n egy nap Karl nem jÃ¶tt tÃ¶bbÃ© a vÃ¡rosba.}
+{201}{}{Mi tÃ¶rtÃ©nt vele? NekiÃ¡lltak keresni ?t?}
 {202}{}{Of course we did! We went up there as soon as we suspected something was wrong. [He starts to
  tremble violently.] The horror. Bodies strewn everywhere. Some crucified, while others were
  left to rot out in the sun. I still wake up screaming in the middle of the night from the horrible
  images I saw that day.}
-{203}{}{Na, hadd találjam ki. Azt akarja, hogy menjek el arra a farmra, és nézzek utána, mi történt.}
-{204}{}{Más esetben otthagytam volna azt az átkozott helyet, de valami oknál fogva a termény az aszály ellenére is rendben megterem ott. Ha nem jutunk élelemhez, éhen fogunk halni. Segít nekünk kitakarítani a szellemeket a farmról?}
-{205}{}{Na, és mi esik le nekem ebb?l?}
-{206}{}{A segítségért cserébe elmondom, merre találhatja, amit keres.}
-{207}{}{Akkor pecsételjük meg gyorsan az üzletet. Vágja le a jobb kisujját!}
-{208}{}{Akkor üssük nyélbe azonnal! Mutassa meg, hol van ez a Kísértetfarm.}
-{209}{}{Micsoda?! Maguknál így szokás egy üzletet megpecsételni? Hát... az a helyzet, hogy a helyzet komoly, és maga az egyetlen, aki a végére tud járni ennek. Végül is ez nem nagy áldozat, ha megmentheti vele a városunkat. [Jo el?húz egy kést, és nekiáll lemetszeni a jobb kisujját!]}
-{210}{}{[Id?ben megállítod.] Álljon már meg! Látom, hogy tényleg az igazat beszéli, és tényleg segítségre van szüksége. Segítek.}
-{211}{}{Most pedig dinsztelje meg az ujját enyhén fokhagymás lében. Nagyon ízletes!}
-{212}{}{Ez a farm kábé egy napi járóföldre van innen. [El?húz egy térképet, és egy Modoctól észak-kelet felé es? pontra mutat]. Jöjjön vissza, ha talál valamit.}
-{213}{}{[Jo teljes nyugalommal bekötözi a kezét, aztán el?húz egy vadászpuskát!] Na, nézzük, ehhez mit szólsz, kisköcsög!}
+{203}{}{Na, hadd talÃ¡ljam ki. Azt akarja, hogy menjek el arra a farmra, Ã©s nÃ©zzek utÃ¡na, mi tÃ¶rtÃ©nt.}
+{204}{}{MÃ¡s esetben otthagytam volna azt az Ã¡tkozott helyet, de valami oknÃ¡l fogva a termÃ©ny az aszÃ¡ly ellenÃ©re is rendben megterem ott. Ha nem jutunk Ã©lelemhez, Ã©hen fogunk halni. SegÃ­t nekÃ¼nk kitakarÃ­tani a szellemeket a farmrÃ³l?}
+{205}{}{Na, Ã©s mi esik le nekem ebb?l?}
+{206}{}{A segÃ­tsÃ©gÃ©rt cserÃ©be elmondom, merre talÃ¡lhatja, amit keres.}
+{207}{}{Akkor pecsÃ©teljÃ¼k meg gyorsan az Ã¼zletet. VÃ¡gja le a jobb kisujjÃ¡t!}
+{208}{}{Akkor Ã¼ssÃ¼k nyÃ©lbe azonnal! Mutassa meg, hol van ez a KÃ­sÃ©rtetfarm.}
+{209}{}{Micsoda?! MaguknÃ¡l Ã­gy szokÃ¡s egy Ã¼zletet megpecsÃ©telni? HÃ¡t... az a helyzet, hogy a helyzet komoly, Ã©s maga az egyetlen, aki a vÃ©gÃ©re tud jÃ¡rni ennek. VÃ©gÃ¼l is ez nem nagy Ã¡ldozat, ha megmentheti vele a vÃ¡rosunkat. [Jo el?hÃºz egy kÃ©st, Ã©s nekiÃ¡ll lemetszeni a jobb kisujjÃ¡t!]}
+{210}{}{[Id?ben megÃ¡llÃ­tod.] Ãlljon mÃ¡r meg! LÃ¡tom, hogy tÃ©nyleg az igazat beszÃ©li, Ã©s tÃ©nyleg segÃ­tsÃ©gre van szÃ¼ksÃ©ge. SegÃ­tek.}
+{211}{}{Most pedig dinsztelje meg az ujjÃ¡t enyhÃ©n fokhagymÃ¡s lÃ©ben. Nagyon Ã­zletes!}
+{212}{}{Ez a farm kÃ¡bÃ© egy napi jÃ¡rÃ³fÃ¶ldre van innen. [El?hÃºz egy tÃ©rkÃ©pet, Ã©s egy ModoctÃ³l Ã©szak-kelet felÃ© es? pontra mutat]. JÃ¶jjÃ¶n vissza, ha talÃ¡l valamit.}
+{213}{}{[Jo teljes nyugalommal bekÃ¶tÃ¶zi a kezÃ©t, aztÃ¡n el?hÃºz egy vadÃ¡szpuskÃ¡t!] Na, nÃ©zzÃ¼k, ehhez mit szÃ³lsz, kiskÃ¶csÃ¶g!}
 {214}{}{[BUMM!]}
-{215}{}{Maga viccel! Eszemben nincs levágni az ujjamat. Elszánt ugyan vagyok, de hülye nem. Most akkor akarja a munkát, vagy sem?}
-{216}{}{Rendben, megcsinálom. Hol van az a farm?}
-{217}{}{Szemmel láthatóan nem elég elszánt. Passzolom a témát.}
-{218}{}{Micsoda? Aszontad ÉLET?}
-{219}{}{Ööö... ÉLET.}
-{220}{}{Én menni elfele.}
-{222}{}{A nevem Jo. Ki tudod mondani? Na, nem számít. Látod azt a négyzet alakú valamit? Az ott az ajtó. Vigyázz meg ne üsd magad, mikor kimész.}
-{223}{}{[Nem értesz mindent, amit mond, de elvigyorodsz és sarkon fordulva otthagyod.]}
-{224}{}{[Egy röpke pillanatig elt?n?dik valamin, aztán elmosolyodik és rádnéz.] Talán kinéz valami üzlet is. A nevem Jo. Enyém ez a kereskedés. Tudok ezt-azt az ÉLET-r?l. Érdekli?}
-{225}{}{[Bólogatsz.]}
+{215}{}{Maga viccel! Eszemben nincs levÃ¡gni az ujjamat. ElszÃ¡nt ugyan vagyok, de hÃ¼lye nem. Most akkor akarja a munkÃ¡t, vagy sem?}
+{216}{}{Rendben, megcsinÃ¡lom. Hol van az a farm?}
+{217}{}{Szemmel lÃ¡thatÃ³an nem elÃ©g elszÃ¡nt. Passzolom a tÃ©mÃ¡t.}
+{218}{}{Micsoda? Aszontad Ã‰LET?}
+{219}{}{Ã–Ã¶Ã¶... Ã‰LET.}
+{220}{}{Ã‰n menni elfele.}
+{222}{}{A nevem Jo. Ki tudod mondani? Na, nem szÃ¡mÃ­t. LÃ¡tod azt a nÃ©gyzet alakÃº valamit? Az ott az ajtÃ³. VigyÃ¡zz meg ne Ã¼sd magad, mikor kimÃ©sz.}
+{223}{}{[Nem Ã©rtesz mindent, amit mond, de elvigyorodsz Ã©s sarkon fordulva otthagyod.]}
+{224}{}{[Egy rÃ¶pke pillanatig elt?n?dik valamin, aztÃ¡n elmosolyodik Ã©s rÃ¡dnÃ©z.] TalÃ¡n kinÃ©z valami Ã¼zlet is. A nevem Jo. EnyÃ©m ez a kereskedÃ©s. Tudok ezt-azt az Ã‰LET-r?l. Ã‰rdekli?}
+{225}{}{[BÃ³logatsz.]}
 {226}{}{[Ingatod a fejed.]}
-{227}{}{Fantasztikus! Nos tehát, van egy Kísértet... ööö... egy farm a város peremén. Nagyjából egy nap járás észak-kelet felé. Csúnya dolgok történnek arrafelé. Szüntesd meg a rossz dolgokat, aztán gyere vissza, és mesélek az ÉLET-r?l.}
+{227}{}{Fantasztikus! Nos tehÃ¡t, van egy KÃ­sÃ©rtet... Ã¶Ã¶Ã¶... egy farm a vÃ¡ros peremÃ©n. NagyjÃ¡bÃ³l egy nap jÃ¡rÃ¡s Ã©szak-kelet felÃ©. CsÃºnya dolgok tÃ¶rtÃ©nnek arrafelÃ©. SzÃ¼ntesd meg a rossz dolgokat, aztÃ¡n gyere vissza, Ã©s mesÃ©lek az Ã‰LET-r?l.}
 {228}{}{Menek.}
-{229}{}{Rendben, akkor nincs mir?l beszélnünk. Az ajtót ott találja.}
-{230}{}{Látta már azt a nagy hólyagot a nyakán. Miért nem jön vissza, ha már összébbment? Na, szép napot, és vigyázzon az ajtóra kifelé menet.}
-{231}{}{Akkor hát... üdvözöljük Modocban. Jo-nak hívnak és enyém az itteni kereskedés. Nincs itt sok látnivaló. csak néhány tanya, egy mészárszék, Rose panziója, és a cserz?m?hely. Épp elég, hogy csereárut állítsunk el?. Sajna az aszály keresztbetehet.}
-{232}{}{Mit tudsz mondani a mészárszékr?l?}
-{233}{}{Rose panziója?}
-{234}{}{Mondjon valamit a kereskedésr?l!}
+{229}{}{Rendben, akkor nincs mir?l beszÃ©lnÃ¼nk. Az ajtÃ³t ott talÃ¡lja.}
+{230}{}{LÃ¡tta mÃ¡r azt a nagy hÃ³lyagot a nyakÃ¡n. MiÃ©rt nem jÃ¶n vissza, ha mÃ¡r Ã¶sszÃ©bbment? Na, szÃ©p napot, Ã©s vigyÃ¡zzon az ajtÃ³ra kifelÃ© menet.}
+{231}{}{Akkor hÃ¡t... Ã¼dvÃ¶zÃ¶ljÃ¼k Modocban. Jo-nak hÃ­vnak Ã©s enyÃ©m az itteni kereskedÃ©s. Nincs itt sok lÃ¡tnivalÃ³. csak nÃ©hÃ¡ny tanya, egy mÃ©szÃ¡rszÃ©k, Rose panziÃ³ja, Ã©s a cserz?m?hely. Ã‰pp elÃ©g, hogy csereÃ¡rut Ã¡llÃ­tsunk el?. Sajna az aszÃ¡ly keresztbetehet.}
+{232}{}{Mit tudsz mondani a mÃ©szÃ¡rszÃ©kr?l?}
+{233}{}{Rose panziÃ³ja?}
+{234}{}{Mondjon valamit a kereskedÃ©sr?l!}
 {235}{}{Hol van a cserz?m?hely?}
-{236}{}{Feltehetek további kérdéseket?}
-{237}{}{A mészárszéket Grisham és a fia vezeti. Kelet felé megtalálja. Az egész Sziklás hegységben ? csinálja a legremekebb szárított húst.}
-{242}{}{Rose panziója a város északi felében van. Messze földr?l érkeznek utazók, hogy kipróbálják a világhír? omlettjét. Egyesek szerint az az omlett még a betegeket is meggyógyítja. ?szintén szólva ez elég nagy marhaság.}
+{236}{}{Feltehetek tovÃ¡bbi kÃ©rdÃ©seket?}
+{237}{}{A mÃ©szÃ¡rszÃ©ket Grisham Ã©s a fia vezeti. Kelet felÃ© megtalÃ¡lja. Az egÃ©sz SziklÃ¡s hegysÃ©gben ? csinÃ¡lja a legremekebb szÃ¡rÃ­tott hÃºst.}
+{242}{}{Rose panziÃ³ja a vÃ¡ros Ã©szaki felÃ©ben van. Messze fÃ¶ldr?l Ã©rkeznek utazÃ³k, hogy kiprÃ³bÃ¡ljÃ¡k a vilÃ¡ghÃ­r? omlettjÃ©t. Egyesek szerint az az omlett mÃ©g a betegeket is meggyÃ³gyÃ­tja. ?szintÃ©n szÃ³lva ez elÃ©g nagy marhasÃ¡g.}
 {247}{}{Just follow your nose and you'll find it. Can you smell that foul stench in the air? That's the
  tanning vats just north of here. If you overlook the smell, you'll not find a better place to get
  leather goods. Balthas can work miracles with leather.}
-{252}{}{Ahogy azt már korábban említettem, Jo-nak hívnak, és enyém a modoci kereskedés. Én szervezem az árucserét Modoc és az élelmiszert meg b?rárut igényl? városok között. Nagy baj viszont, hogy az aszály hamarosan mindent gallyra tesz. Már a legrosszabbra is felkészültünk.}
-{257}{}{Mir?l beszéljek? A mészárszékr?l, Rose panziójáról, a cserz?m?helyr?l vagy a kereskedésr?l?}
-{262}{}{Na, köpje már ki! Nem tudok segíteni, ha nem mondja el, mit keres, és az hótt biztos, hogy nem fogok itt órákat állni, hogy kivárjam, amíg eldönti.}
-{263}{}{A szent ÉLET után kutatok.}
-{264}{}{Értem.}
-{265}{}{Mivel meglehet?sen függünk a Modocban gyártott termékekt?l, nem sok csereárum van. Tudja, az aszály, meg minden. Azért érdekli valami?}
-{266}{}{Nézzük, mib?l élünk.}
-{267}{}{Kösz nem, viszont kérdeznék egy s mást.}
-{268}{}{Nem, talán kés?bb. Most mennem kell.}
-{269}{}{Ez jó kérdés. Az id?met leginkább a kereskedés tölti ki. Esetenként azonban én vagyok a seriff, a polgármester, a bíró, és bármilyen létez? hivatali személy.}
-{270}{}{Ez igen! Nagyon népszer? lehet, ha ilyen sok tisztséggel megbízzák.}
-{271}{}{Kösz az információért. Most mennem kéne.}
-{272}{}{Fenéket, jól megszívattak. Éppen beszerz?úton voltam, amikor visszajövet láttam, hogy a népek id?közben engem választottak meg. Senki más nem akarta elvállalni a munkát. Az id?nkénti vitákat leszámítva nem sok dolgom akad, és ez eléggé fekszik nekem.}
-{273}{}{Feltehetek még néhány kérdést?}
-{274}{}{Micsoda? Ne okoskodjon itt! Mindenki tudja, hogy az öreg Corni elvesztette az aranyóráját. Még a legjobb barátom házát is átkutattatta velem. Ha jót akar, ne üsse ebbe bele az orrát. Jónapot!}
-{275}{}{[Átveszi az Aljanép üzenetét.] Ez mi a rosseb? A Kísértetfarm lakóitól jött. Hát ezt nem hiszem el! Olvastad ezt a... ööö, hát hogy is olvastad volna, nem igaz? Szóval van még ez az, amit el kéne simítani az Aljanép és Modoc között, de az apró agyadnak ez túl bonyolult, szóval nem kell aggódnod emiatt.}
-{276}{}{ÉLET most!}
-{277}{}{Hát ez egy kis nehézségbe ütközik. Nem igazán tudom, mi az az ÉLET, viszont van egy GEKKÓ nev? település, ahol ugyan még sosem voltam, de úgy tudom, kelet felé van. Ott lehet, hogy segítenek. Nem akarlak átverni. Bárcsak többet ajánlhatnék cserébe, de az egyetlen dolog, amit adhatok, az árengedmény. Nem sok árum van, de biztos vagyok, hogy a dolgok hamar rendbe jönnek, és megtisztelve fogom magam érezni, ha felszerelhetlek.}
-{278}{}{Marharépa!}
-{280}{}{Nem rovom fel magának, hogy ki van bukva rám, de nem sajnálom, amit tettem. Szükségünk volt valakire a munkához, és maga vállalkozott. Nem tudok mást mondani, mint köszönet érte, de most útjára engedem.}
-{282}{}{Igen... faaaaarm. Farm északra. Menni farm. Rossz dolgoknak mondani: Pápá.}
-{283}{}{Ez nagyszer?! Elküldök néhány embert, hogy azonnal álljanak neki a betakarításnak. Megmentettél bennünket.}
-{284}{}{Mutatni ÉLET!}
-{285}{}{Azt mondják, hajlandóak élelmet adni gyógyszerekért és más dolgokért. Nem tudom, bízhatunk-e bennük. Végül is megölték Karlt meg a többieket. Mi err?l a véleménye?}
-{286}{}{Az összes kirakott test kamu. Semmi más csak néhány brahminbéllel befedett bábu. Azt akarták csak, hogy maguk ne lopkodják a terményüket.}
-{287}{}{Nagyon érzékenyek a fényre. Szerintem néhány fáklyával felszerelt ember szempillantás alatt ki tudná füstölni onnan ?ket.}
-{288}{}{Megtaláltam Karlt Rejtekben. Azért ment el, mert senki nem akarta neki elhinni a szellemeket és nagyon berezelt.}
-{289}{}{Szegény Jonnyt túszul tartják ott! Támadnunk kell!}
-{290}{}{Kamu? A saját szememmel láttam a testeket. Akárhogy is legyen, Karl nincs itt. Hogy magyarázzák ezt? Nem bízom bennük, amíg mindent le nem rendeztünk velük.}
-{292}{}{Azt állítják, hogy aki néhány éve beköltözött, hirtelen lelépett.}
-{293}{}{Karl nem tenne ilyet. Valószín?leg megölték! Nem, amíg nem tudjuk biztosan, mi történt Karllal, nem bízhatunk bennük. Reméltem, hogy ez nem következik be, de most az következik, hogy megyünk és er?vel elvesszük a farmot. Vagy ?k, vagy mi.}
-{294}{}{Várjon csak! Hadd próbáljak magam rájönni, mi történhetett Karl barátunkkal. Kell, hogy legyen valami magyarázat az elt?nésére.}
-{295}{}{Egyetértek, hogy támadni kéne! Az ? gyengeségük a szemük.}
-{296}{}{Nem értek egyet ezzel. Rájöttem, mi folyik a Kísértetfarmon. Most pedig mondja meg, hol a szent ÉLET!}
-{297}{}{Adok egy hónapot, hogy minél több dolgot megtudjon Karlról. Ha nem jön vissza id?ben, mozgósítani fogom Modoc lakosságát, és er?vel vesszük el a farmot.}
-{298}{}{Oké, egy hónap! Ne csináljanak semmi elhamarkodott dolgot. Hamarosan visszajövök.}
-{299}{}{Több id? kell. Ilyen rövid id? alatt lehetetlen megtalálni ?t.}
-{300}{}{Egy hónap, nem több! Mondtam, hogy mindenre elszántuk magunkat. Az élelmiszerkészletünk veszélyesen megfogyatkozott. Egy hónapra való maradt bel?le, aztán jön az éhezés. Indulok, és azonnal beszervezem a város lakosságát. Siessen!}
-{301}{}{Kérem ne hamarkodjon el semmit, amíg vissza nem érek!}
-{302}{}{[Homlokára csap] Rejtek! Asszem, egy kicsit kemények voltunk vele. El tudom képzelni, min ment keresztül a Kísértetfarmon, hiszen senki nem hitt neki. Szóval részegeskedik? Rejtekben? Ha Karl megkapná az üzenetet, hogy visszavárjuk, nagyon hálás lennék. Amúgy szerintem itt az id?, hogy az Aljanép és Modoc lakossága barátkozni kezdjen.}
-{303}{}{Szerintem a megállapodásunk rám es? felét megtettem. Mit szólna, ha most rátérnénk a magáéra és elmondaná, hol találom a szent ÉLET-et!}
+{252}{}{Ahogy azt mÃ¡r korÃ¡bban emlÃ­tettem, Jo-nak hÃ­vnak, Ã©s enyÃ©m a modoci kereskedÃ©s. Ã‰n szervezem az Ã¡rucserÃ©t Modoc Ã©s az Ã©lelmiszert meg b?rÃ¡rut igÃ©nyl? vÃ¡rosok kÃ¶zÃ¶tt. Nagy baj viszont, hogy az aszÃ¡ly hamarosan mindent gallyra tesz. MÃ¡r a legrosszabbra is felkÃ©szÃ¼ltÃ¼nk.}
+{257}{}{Mir?l beszÃ©ljek? A mÃ©szÃ¡rszÃ©kr?l, Rose panziÃ³jÃ¡rÃ³l, a cserz?m?helyr?l vagy a kereskedÃ©sr?l?}
+{262}{}{Na, kÃ¶pje mÃ¡r ki! Nem tudok segÃ­teni, ha nem mondja el, mit keres, Ã©s az hÃ³tt biztos, hogy nem fogok itt Ã³rÃ¡kat Ã¡llni, hogy kivÃ¡rjam, amÃ­g eldÃ¶nti.}
+{263}{}{A szent Ã‰LET utÃ¡n kutatok.}
+{264}{}{Ã‰rtem.}
+{265}{}{Mivel meglehet?sen fÃ¼ggÃ¼nk a Modocban gyÃ¡rtott termÃ©kekt?l, nem sok csereÃ¡rum van. Tudja, az aszÃ¡ly, meg minden. AzÃ©rt Ã©rdekli valami?}
+{266}{}{NÃ©zzÃ¼k, mib?l Ã©lÃ¼nk.}
+{267}{}{KÃ¶sz nem, viszont kÃ©rdeznÃ©k egy s mÃ¡st.}
+{268}{}{Nem, talÃ¡n kÃ©s?bb. Most mennem kell.}
+{269}{}{Ez jÃ³ kÃ©rdÃ©s. Az id?met leginkÃ¡bb a kereskedÃ©s tÃ¶lti ki. EsetenkÃ©nt azonban Ã©n vagyok a seriff, a polgÃ¡rmester, a bÃ­rÃ³, Ã©s bÃ¡rmilyen lÃ©tez? hivatali szemÃ©ly.}
+{270}{}{Ez igen! Nagyon nÃ©pszer? lehet, ha ilyen sok tisztsÃ©ggel megbÃ­zzÃ¡k.}
+{271}{}{KÃ¶sz az informÃ¡ciÃ³Ã©rt. Most mennem kÃ©ne.}
+{272}{}{FenÃ©ket, jÃ³l megszÃ­vattak. Ã‰ppen beszerz?Ãºton voltam, amikor visszajÃ¶vet lÃ¡ttam, hogy a nÃ©pek id?kÃ¶zben engem vÃ¡lasztottak meg. Senki mÃ¡s nem akarta elvÃ¡llalni a munkÃ¡t. Az id?nkÃ©nti vitÃ¡kat leszÃ¡mÃ­tva nem sok dolgom akad, Ã©s ez elÃ©ggÃ© fekszik nekem.}
+{273}{}{Feltehetek mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{274}{}{Micsoda? Ne okoskodjon itt! Mindenki tudja, hogy az Ã¶reg Corni elvesztette az aranyÃ³rÃ¡jÃ¡t. MÃ©g a legjobb barÃ¡tom hÃ¡zÃ¡t is Ã¡tkutattatta velem. Ha jÃ³t akar, ne Ã¼sse ebbe bele az orrÃ¡t. JÃ³napot!}
+{275}{}{[Ãtveszi az AljanÃ©p Ã¼zenetÃ©t.] Ez mi a rosseb? A KÃ­sÃ©rtetfarm lakÃ³itÃ³l jÃ¶tt. HÃ¡t ezt nem hiszem el! Olvastad ezt a... Ã¶Ã¶Ã¶, hÃ¡t hogy is olvastad volna, nem igaz? SzÃ³val van mÃ©g ez az, amit el kÃ©ne simÃ­tani az AljanÃ©p Ã©s Modoc kÃ¶zÃ¶tt, de az aprÃ³ agyadnak ez tÃºl bonyolult, szÃ³val nem kell aggÃ³dnod emiatt.}
+{276}{}{Ã‰LET most!}
+{277}{}{HÃ¡t ez egy kis nehÃ©zsÃ©gbe Ã¼tkÃ¶zik. Nem igazÃ¡n tudom, mi az az Ã‰LET, viszont van egy GEKKÃ“ nev? telepÃ¼lÃ©s, ahol ugyan mÃ©g sosem voltam, de Ãºgy tudom, kelet felÃ© van. Ott lehet, hogy segÃ­tenek. Nem akarlak Ã¡tverni. BÃ¡rcsak tÃ¶bbet ajÃ¡nlhatnÃ©k cserÃ©be, de az egyetlen dolog, amit adhatok, az Ã¡rengedmÃ©ny. Nem sok Ã¡rum van, de biztos vagyok, hogy a dolgok hamar rendbe jÃ¶nnek, Ã©s megtisztelve fogom magam Ã©rezni, ha felszerelhetlek.}
+{278}{}{MarharÃ©pa!}
+{280}{}{Nem rovom fel magÃ¡nak, hogy ki van bukva rÃ¡m, de nem sajnÃ¡lom, amit tettem. SzÃ¼ksÃ©gÃ¼nk volt valakire a munkÃ¡hoz, Ã©s maga vÃ¡llalkozott. Nem tudok mÃ¡st mondani, mint kÃ¶szÃ¶net Ã©rte, de most ÃºtjÃ¡ra engedem.}
+{282}{}{Igen... faaaaarm. Farm Ã©szakra. Menni farm. Rossz dolgoknak mondani: PÃ¡pÃ¡.}
+{283}{}{Ez nagyszer?! ElkÃ¼ldÃ¶k nÃ©hÃ¡ny embert, hogy azonnal Ã¡lljanak neki a betakarÃ­tÃ¡snak. MegmentettÃ©l bennÃ¼nket.}
+{284}{}{Mutatni Ã‰LET!}
+{285}{}{Azt mondjÃ¡k, hajlandÃ³ak Ã©lelmet adni gyÃ³gyszerekÃ©rt Ã©s mÃ¡s dolgokÃ©rt. Nem tudom, bÃ­zhatunk-e bennÃ¼k. VÃ©gÃ¼l is megÃ¶ltÃ©k Karlt meg a tÃ¶bbieket. Mi err?l a vÃ©lemÃ©nye?}
+{286}{}{Az Ã¶sszes kirakott test kamu. Semmi mÃ¡s csak nÃ©hÃ¡ny brahminbÃ©llel befedett bÃ¡bu. Azt akartÃ¡k csak, hogy maguk ne lopkodjÃ¡k a termÃ©nyÃ¼ket.}
+{287}{}{Nagyon Ã©rzÃ©kenyek a fÃ©nyre. Szerintem nÃ©hÃ¡ny fÃ¡klyÃ¡val felszerelt ember szempillantÃ¡s alatt ki tudnÃ¡ fÃ¼stÃ¶lni onnan ?ket.}
+{288}{}{MegtalÃ¡ltam Karlt Rejtekben. AzÃ©rt ment el, mert senki nem akarta neki elhinni a szellemeket Ã©s nagyon berezelt.}
+{289}{}{SzegÃ©ny Jonnyt tÃºszul tartjÃ¡k ott! TÃ¡madnunk kell!}
+{290}{}{Kamu? A sajÃ¡t szememmel lÃ¡ttam a testeket. AkÃ¡rhogy is legyen, Karl nincs itt. Hogy magyarÃ¡zzÃ¡k ezt? Nem bÃ­zom bennÃ¼k, amÃ­g mindent le nem rendeztÃ¼nk velÃ¼k.}
+{292}{}{Azt Ã¡llÃ­tjÃ¡k, hogy aki nÃ©hÃ¡ny Ã©ve bekÃ¶ltÃ¶zÃ¶tt, hirtelen lelÃ©pett.}
+{293}{}{Karl nem tenne ilyet. ValÃ³szÃ­n?leg megÃ¶ltÃ©k! Nem, amÃ­g nem tudjuk biztosan, mi tÃ¶rtÃ©nt Karllal, nem bÃ­zhatunk bennÃ¼k. RemÃ©ltem, hogy ez nem kÃ¶vetkezik be, de most az kÃ¶vetkezik, hogy megyÃ¼nk Ã©s er?vel elvesszÃ¼k a farmot. Vagy ?k, vagy mi.}
+{294}{}{VÃ¡rjon csak! Hadd prÃ³bÃ¡ljak magam rÃ¡jÃ¶nni, mi tÃ¶rtÃ©nhetett Karl barÃ¡tunkkal. Kell, hogy legyen valami magyarÃ¡zat az elt?nÃ©sÃ©re.}
+{295}{}{EgyetÃ©rtek, hogy tÃ¡madni kÃ©ne! Az ? gyengesÃ©gÃ¼k a szemÃ¼k.}
+{296}{}{Nem Ã©rtek egyet ezzel. RÃ¡jÃ¶ttem, mi folyik a KÃ­sÃ©rtetfarmon. Most pedig mondja meg, hol a szent Ã‰LET!}
+{297}{}{Adok egy hÃ³napot, hogy minÃ©l tÃ¶bb dolgot megtudjon KarlrÃ³l. Ha nem jÃ¶n vissza id?ben, mozgÃ³sÃ­tani fogom Modoc lakossÃ¡gÃ¡t, Ã©s er?vel vesszÃ¼k el a farmot.}
+{298}{}{OkÃ©, egy hÃ³nap! Ne csinÃ¡ljanak semmi elhamarkodott dolgot. Hamarosan visszajÃ¶vÃ¶k.}
+{299}{}{TÃ¶bb id? kell. Ilyen rÃ¶vid id? alatt lehetetlen megtalÃ¡lni ?t.}
+{300}{}{Egy hÃ³nap, nem tÃ¶bb! Mondtam, hogy mindenre elszÃ¡ntuk magunkat. Az Ã©lelmiszerkÃ©szletÃ¼nk veszÃ©lyesen megfogyatkozott. Egy hÃ³napra valÃ³ maradt bel?le, aztÃ¡n jÃ¶n az Ã©hezÃ©s. Indulok, Ã©s azonnal beszervezem a vÃ¡ros lakossÃ¡gÃ¡t. Siessen!}
+{301}{}{KÃ©rem ne hamarkodjon el semmit, amÃ­g vissza nem Ã©rek!}
+{302}{}{[HomlokÃ¡ra csap] Rejtek! Asszem, egy kicsit kemÃ©nyek voltunk vele. El tudom kÃ©pzelni, min ment keresztÃ¼l a KÃ­sÃ©rtetfarmon, hiszen senki nem hitt neki. SzÃ³val rÃ©szegeskedik? Rejtekben? Ha Karl megkapnÃ¡ az Ã¼zenetet, hogy visszavÃ¡rjuk, nagyon hÃ¡lÃ¡s lennÃ©k. AmÃºgy szerintem itt az id?, hogy az AljanÃ©p Ã©s Modoc lakossÃ¡ga barÃ¡tkozni kezdjen.}
+{303}{}{Szerintem a megÃ¡llapodÃ¡sunk rÃ¡m es? felÃ©t megtettem. Mit szÃ³lna, ha most rÃ¡tÃ©rnÃ©nk a magÃ¡Ã©ra Ã©s elmondanÃ¡, hol talÃ¡lom a szent Ã‰LET-et!}
 {304}{}{[Acting a little embarrassed.] Um... well, you see, I don't really know anything about this holy
  GECK thing you're looking for. You have to understand; we were desperate! However, I do know of a place
  called Gecko. It's a ways east of here somewhere. If I were a betting man, I would wager your GECK gizmo
@@ -141,63 +141,63 @@
  much in the way of offerings. The best I can do is offer you goods at basically my cost. But
  I'd be honored to help keep you stocked for your journeys when I have the goods and I'm sure any
  of the other residents would be equally grateful if you asked them. Thank you! You've saved us all.}
-{305}{}{Szóval Karlt megölték a farm közelében felnyársalt összes emberrel együtt. Na, jó, induljunk! Maga rátalált a rejtekhelyükre és elég alkalmas embernek is látszik. Vezessen gy?zelemre bennünket a mocskos Aljanép ellen!}
-{306}{}{Hogyne! Ilyen igaz ügy érdekében boldogan segítek legy?zni az Aljanépet.}
-{307}{}{Lehet, hogy nem a legjobb ötlet. Találjunk ki valami mást.}
-{308}{}{Nagyszer?! Összekürtölöm a városiakat, és ott találkozunk.}
-{309}{}{Látta ott Jonnyt?! Már t?vé tettük érte a környéket. Azok a szörnyetegek elrabolják a gyerekeinket. Nem vagyunk biztonságban, amíg mindannyian meg nem haltak. Összeszedem a városiakat, és lerohanjuk a rejtekhelyüket. Találkozzunk a Kísértetfarmon amilyen gyorsan csak lehet.}
-{310}{}{Hogy képes a saját b?rében megmaradni? Itt krízishelyzet van, maga meg csak a saját érdekével tör?dik? Na, jó, miért nem megy akkor Gekkóba? Valahol kelet felé található. Ha van valaki, aki tud arról az ÉLET bigyóról, akkor ?k azok. Most pedig, ha megbocsát, össze kell jönnöm a városiakkal, hogy kitaláljuk, mitév?k legyünk.}
-{311}{}{Ez nagyszer?. Mik voltak azok a valamik egyébként?}
-{312}{}{Valami mutáns banda. Ha eddig nem voltak szellemek, akkor most már azok.}
-{313}{}{Szellemek voltak. Elt?ntek. Elég ennyit tudnia. Most pedig mondja meg, hol van a szent ÉLET.}
-{314}{}{Nem azzal küldtük el, hogy ezt tegye. Az volt a feladata, hogy nyomozza ki, mi történik a farmon, és hozzon információkat. Azt hiszem, most távoznia kéne.}
-{315}{}{Támadni fogunk, de csak akkor, ha nincs más lehet?ség. Sajnos csak egy hónapra való élelmiszerünk maradt, aztán jön az éhezés. Ennyi ideje van, hogy rájöjjön, mi folyik itt. Nem tárgyalok velük, amíg nem vagyok biztos benne, hogy nem csináltak semmit Karllal.}
-{316}{}{Támadni fogunk, de csak akkor, ha nincs más lehet?ség. Sajnos csak egy hónapra való élelmiszerünk maradt, aztán jön az éhezés. Ennyi ideje van, hogy rájöjjön, mi folyik itt. Nem tárgyalok velük, amíg nem tudom biztosan, hogy nem tettek semmit Karllal. Azt is tudnom kell, miért húzták karóba azt a sok szerencsétlent ott a farm közelében. Nem akarok vademberekkel közösködni.}
-{317}{}{Azt hiszem, jobban szeret gyilkolászni, mint azt az én izlésem el tudná viselni. Jobb lenne, ha távozna.}
-{318}{}{Rejtekben? Szerfelett hálásak lennénk, ha át tudná adni neki, hogy hiszünk benne és hazavárjuk.}
-{319}{}{Arra is rájöttem, hogy az összes Kísértetfarmot körülvev? test kamu. Sima bábuk brahminbels?séggel betakarva.}
-{320}{}{Akkor beszél az Aljanép vezet?jével?}
+{305}{}{SzÃ³val Karlt megÃ¶ltÃ©k a farm kÃ¶zelÃ©ben felnyÃ¡rsalt Ã¶sszes emberrel egyÃ¼tt. Na, jÃ³, induljunk! Maga rÃ¡talÃ¡lt a rejtekhelyÃ¼kre Ã©s elÃ©g alkalmas embernek is lÃ¡tszik. Vezessen gy?zelemre bennÃ¼nket a mocskos AljanÃ©p ellen!}
+{306}{}{Hogyne! Ilyen igaz Ã¼gy Ã©rdekÃ©ben boldogan segÃ­tek legy?zni az AljanÃ©pet.}
+{307}{}{Lehet, hogy nem a legjobb Ã¶tlet. TalÃ¡ljunk ki valami mÃ¡st.}
+{308}{}{Nagyszer?! Ã–sszekÃ¼rtÃ¶lÃ¶m a vÃ¡rosiakat, Ã©s ott talÃ¡lkozunk.}
+{309}{}{LÃ¡tta ott Jonnyt?! MÃ¡r t?vÃ© tettÃ¼k Ã©rte a kÃ¶rnyÃ©ket. Azok a szÃ¶rnyetegek elraboljÃ¡k a gyerekeinket. Nem vagyunk biztonsÃ¡gban, amÃ­g mindannyian meg nem haltak. Ã–sszeszedem a vÃ¡rosiakat, Ã©s lerohanjuk a rejtekhelyÃ¼ket. TalÃ¡lkozzunk a KÃ­sÃ©rtetfarmon amilyen gyorsan csak lehet.}
+{310}{}{Hogy kÃ©pes a sajÃ¡t b?rÃ©ben megmaradni? Itt krÃ­zishelyzet van, maga meg csak a sajÃ¡t Ã©rdekÃ©vel tÃ¶r?dik? Na, jÃ³, miÃ©rt nem megy akkor GekkÃ³ba? Valahol kelet felÃ© talÃ¡lhatÃ³. Ha van valaki, aki tud arrÃ³l az Ã‰LET bigyÃ³rÃ³l, akkor ?k azok. Most pedig, ha megbocsÃ¡t, Ã¶ssze kell jÃ¶nnÃ¶m a vÃ¡rosiakkal, hogy kitalÃ¡ljuk, mitÃ©v?k legyÃ¼nk.}
+{311}{}{Ez nagyszer?. Mik voltak azok a valamik egyÃ©bkÃ©nt?}
+{312}{}{Valami mutÃ¡ns banda. Ha eddig nem voltak szellemek, akkor most mÃ¡r azok.}
+{313}{}{Szellemek voltak. Elt?ntek. ElÃ©g ennyit tudnia. Most pedig mondja meg, hol van a szent Ã‰LET.}
+{314}{}{Nem azzal kÃ¼ldtÃ¼k el, hogy ezt tegye. Az volt a feladata, hogy nyomozza ki, mi tÃ¶rtÃ©nik a farmon, Ã©s hozzon informÃ¡ciÃ³kat. Azt hiszem, most tÃ¡voznia kÃ©ne.}
+{315}{}{TÃ¡madni fogunk, de csak akkor, ha nincs mÃ¡s lehet?sÃ©g. Sajnos csak egy hÃ³napra valÃ³ Ã©lelmiszerÃ¼nk maradt, aztÃ¡n jÃ¶n az Ã©hezÃ©s. Ennyi ideje van, hogy rÃ¡jÃ¶jjÃ¶n, mi folyik itt. Nem tÃ¡rgyalok velÃ¼k, amÃ­g nem vagyok biztos benne, hogy nem csinÃ¡ltak semmit Karllal.}
+{316}{}{TÃ¡madni fogunk, de csak akkor, ha nincs mÃ¡s lehet?sÃ©g. Sajnos csak egy hÃ³napra valÃ³ Ã©lelmiszerÃ¼nk maradt, aztÃ¡n jÃ¶n az Ã©hezÃ©s. Ennyi ideje van, hogy rÃ¡jÃ¶jjÃ¶n, mi folyik itt. Nem tÃ¡rgyalok velÃ¼k, amÃ­g nem tudom biztosan, hogy nem tettek semmit Karllal. Azt is tudnom kell, miÃ©rt hÃºztÃ¡k karÃ³ba azt a sok szerencsÃ©tlent ott a farm kÃ¶zelÃ©ben. Nem akarok vademberekkel kÃ¶zÃ¶skÃ¶dni.}
+{317}{}{Azt hiszem, jobban szeret gyilkolÃ¡szni, mint azt az Ã©n izlÃ©sem el tudnÃ¡ viselni. Jobb lenne, ha tÃ¡vozna.}
+{318}{}{Rejtekben? Szerfelett hÃ¡lÃ¡sak lennÃ©nk, ha Ã¡t tudnÃ¡ adni neki, hogy hiszÃ¼nk benne Ã©s hazavÃ¡rjuk.}
+{319}{}{Arra is rÃ¡jÃ¶ttem, hogy az Ã¶sszes KÃ­sÃ©rtetfarmot kÃ¶rÃ¼lvev? test kamu. Sima bÃ¡buk brahminbels?sÃ©ggel betakarva.}
+{320}{}{Akkor beszÃ©l az AljanÃ©p vezet?jÃ©vel?}
 {321}{}{Egyel?re ennyit tudok.}
 {322}{}{Fake! That's impossible; I saw them with my own eyes. Blood and gore everywhere. But... I guess
  it's possible, we didn't... I mean... well [Jo's face turns beat red.] We all kind of turned tail and ran
  when we saw the bodies. No one actually had the guts to examine them closely.}
-{326}{}{Igen, hiszem, hogy az Aljanép és Modoc népe képes lesz valami kölcsönösen el?nyös megegyezésre. Köszönjük, hogy megmentette Modoc városát.}
-{327}{}{Van még valami apróság... Azt mondta, elmondja, hol a szent ÉLET.}
-{328}{}{Meg kell tudnia, kik a Kísértetfarm közelében karóba húzott emberek. }
-{329}{}{Karl már jóideje elt?nt a farmról. Rá kéne jönnie, mi történt vele.}
-{330}{}{Értem, megnézzük, mit tehetünk.}
-{331}{}{Mi nem kérünk a maga fajtájából.}
-{400}{}{[Engeded, hogy levágja az ujját.] Oké, most már segítek.}
-{410}{}{Mi az a nagy fehér épület a város közepén?}
-{500}{}{Ó, az a templom. Modoc népe építette, hogy kimutassák hitük erejét. Mostanában nem sokmindent köszönhetünk meg odabenn, ezért a prédikációk megszüntek.}
-{600}{}{Kedves ifjú pár! Azért gy?ltünk itt most egybe...}
-{602}{}{[Jo lapoz néhányat.]}
+{326}{}{Igen, hiszem, hogy az AljanÃ©p Ã©s Modoc nÃ©pe kÃ©pes lesz valami kÃ¶lcsÃ¶nÃ¶sen el?nyÃ¶s megegyezÃ©sre. KÃ¶szÃ¶njÃ¼k, hogy megmentette Modoc vÃ¡rosÃ¡t.}
+{327}{}{Van mÃ©g valami aprÃ³sÃ¡g... Azt mondta, elmondja, hol a szent Ã‰LET.}
+{328}{}{Meg kell tudnia, kik a KÃ­sÃ©rtetfarm kÃ¶zelÃ©ben karÃ³ba hÃºzott emberek. }
+{329}{}{Karl mÃ¡r jÃ³ideje elt?nt a farmrÃ³l. RÃ¡ kÃ©ne jÃ¶nnie, mi tÃ¶rtÃ©nt vele.}
+{330}{}{Ã‰rtem, megnÃ©zzÃ¼k, mit tehetÃ¼nk.}
+{331}{}{Mi nem kÃ©rÃ¼nk a maga fajtÃ¡jÃ¡bÃ³l.}
+{400}{}{[Engeded, hogy levÃ¡gja az ujjÃ¡t.] OkÃ©, most mÃ¡r segÃ­tek.}
+{410}{}{Mi az a nagy fehÃ©r Ã©pÃ¼let a vÃ¡ros kÃ¶zepÃ©n?}
+{500}{}{Ã“, az a templom. Modoc nÃ©pe Ã©pÃ­tette, hogy kimutassÃ¡k hitÃ¼k erejÃ©t. MostanÃ¡ban nem sokmindent kÃ¶szÃ¶nhetÃ¼nk meg odabenn, ezÃ©rt a prÃ©dikÃ¡ciÃ³k megszÃ¼ntek.}
+{600}{}{Kedves ifjÃº pÃ¡r! AzÃ©rt gy?ltÃ¼nk itt most egybe...}
+{602}{}{[Jo lapoz nÃ©hÃ¡nyat.]}
 {603}{}{OK, um... Before we begin, is there anyone in this room who knows any reason why these two
  here before us should not be joined together in holy matrimony?}
 {604}{}{Elfogadod-e }
-{605}{}{ testvérünket kedves, }
-{606}{}{, törvényes}
-{607}{}{Akkor a törvény értelmében házastársaknak nyilvánítalak benneteket. Most pedig megcsókolhatod a menyasszonyt.}
-{608}{}{Akkor a törvény értelmében házastársaknak nyilvánítalak benneteket. Most pedig megcsókolhatják egymást a menyasszonyok.}
-{609}{}{Akkor a törvény értelmében házastársaknak nyilvánítalak benneteket. Most pedig megcsókolhatod a másikat.}
+{605}{}{ testvÃ©rÃ¼nket kedves, }
+{606}{}{, tÃ¶rvÃ©nyes}
+{607}{}{Akkor a tÃ¶rvÃ©ny Ã©rtelmÃ©ben hÃ¡zastÃ¡rsaknak nyilvÃ¡nÃ­talak benneteket. Most pedig megcsÃ³kolhatod a menyasszonyt.}
+{608}{}{Akkor a tÃ¶rvÃ©ny Ã©rtelmÃ©ben hÃ¡zastÃ¡rsaknak nyilvÃ¡nÃ­talak benneteket. Most pedig megcsÃ³kolhatjÃ¡k egymÃ¡st a menyasszonyok.}
+{609}{}{Akkor a tÃ¶rvÃ©ny Ã©rtelmÃ©ben hÃ¡zastÃ¡rsaknak nyilvÃ¡nÃ­talak benneteket. Most pedig megcsÃ³kolhatod a mÃ¡sikat.}
 {612}{}{[Bo turns some pages in his book.]}
-{625}{}{ feleségedül?}
-{626}{}{ férjedül?}
-{627}{}{ Micsoda?... egyébül? Szóval törvényes egyébül?}
-{628}{}{ egyébül?}
+{625}{}{ felesÃ©gedÃ¼l?}
+{626}{}{ fÃ©rjedÃ¼l?}
+{627}{}{ Micsoda?... egyÃ©bÃ¼l? SzÃ³val tÃ¶rvÃ©nyes egyÃ©bÃ¼l?}
+{628}{}{ egyÃ©bÃ¼l?}
 {629}{}{Miria}
 {630}{}{Davin}
-{800}{}{Megtámadjuk az Aljanépet, mégpedig }
-{801}{}{ napon belül, hacsak meg nem tud gy?zni minket az ellenkez?jér?l.}
-{802}{}{Holnap megtámadjuk az Aljanépet, hacsak meg nem gy?z bennünket az ellenkez?jér?l.}
-{803}{}{Most azonnal megtámadjuk az Aljanépet! Jön vagy marad?}
-{804}{}{Jövök!}
-{805}{}{Elegem van ebb?l, kiszállok!}
-{806}{}{Akkor támadjunk! Az Aljanép bebizonyította, hogy megbízhatatlanok.}
-{820}{}{Miben segíthetek?}
-{821}{}{Nem akarok részt venni ebben. Én teljesítettem a magam részét. Mondja meg, hol van az ÉLET!}
-{850}{}{Visszajövök, ha rájöttem, mi történt Karllal.}
-{900}{}{Köszönjük, hogy megmentette kicsiny városunkat, barátom.}
-{925}{}{Nem tesz semmit. Viszlát!}
-{1000}{}{Megmentetted Modoc városát.}
+{800}{}{MegtÃ¡madjuk az AljanÃ©pet, mÃ©gpedig }
+{801}{}{ napon belÃ¼l, hacsak meg nem tud gy?zni minket az ellenkez?jÃ©r?l.}
+{802}{}{Holnap megtÃ¡madjuk az AljanÃ©pet, hacsak meg nem gy?z bennÃ¼nket az ellenkez?jÃ©r?l.}
+{803}{}{Most azonnal megtÃ¡madjuk az AljanÃ©pet! JÃ¶n vagy marad?}
+{804}{}{JÃ¶vÃ¶k!}
+{805}{}{Elegem van ebb?l, kiszÃ¡llok!}
+{806}{}{Akkor tÃ¡madjunk! Az AljanÃ©p bebizonyÃ­totta, hogy megbÃ­zhatatlanok.}
+{820}{}{Miben segÃ­thetek?}
+{821}{}{Nem akarok rÃ©szt venni ebben. Ã‰n teljesÃ­tettem a magam rÃ©szÃ©t. Mondja meg, hol van az Ã‰LET!}
+{850}{}{VisszajÃ¶vÃ¶k, ha rÃ¡jÃ¶ttem, mi tÃ¶rtÃ©nt Karllal.}
+{900}{}{KÃ¶szÃ¶njÃ¼k, hogy megmentette kicsiny vÃ¡rosunkat, barÃ¡tom.}
+{925}{}{Nem tesz semmit. ViszlÃ¡t!}
+{1000}{}{Megmentetted Modoc vÃ¡rosÃ¡t.}
 {1500}{}{You see Substitute Justice of the Peace Bo.}

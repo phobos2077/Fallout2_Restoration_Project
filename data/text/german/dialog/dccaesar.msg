@@ -1,103 +1,103 @@
-{100}{}{Du siehst ein Mitglied der Sklavenhändler-Gilde.}
-{150}{}{Du siehst Metzger, den Anführer der Sklavenhändler-Gilde.}
-{151}{}{[GESPRÄCH]}
+{100}{}{Du siehst ein Mitglied der SklavenhÃ¤ndler-Gilde.}
+{150}{}{Du siehst Metzger, den AnfÃ¼hrer der SklavenhÃ¤ndler-Gilde.}
+{151}{}{[GESPRÃ„CH]}
 {152}{}{Wachen! Angriff!}
 {153}{}{[Fertig]}
-{154}{}{Komm am Morgen zurück, verdammt nochmal! Ich mache meine Geschäfte tagsüber.}
+{154}{}{Komm am Morgen zurÃ¼ck, verdammt nochmal! Ich mache meine GeschÃ¤fte tagsÃ¼ber.}
 {155}{}{[Fertig]}
-{156}{}{Was ist es denn nun schon wieder? Langsam fängst Du an, mir mächtig auf die Nerven zu gehen.}
-{157}{}{Ich möchte mich entschuldigen.}
-{158}{}{Tut mir leid, ich hatte Jet genommen. Ich wollte Dir nichts Böses.}
+{156}{}{Was ist es denn nun schon wieder? Langsam fÃ¤ngst Du an, mir mÃ¤chtig auf die Nerven zu gehen.}
+{157}{}{Ich mÃ¶chte mich entschuldigen.}
+{158}{}{Tut mir leid, ich hatte Jet genommen. Ich wollte Dir nichts BÃ¶ses.}
 {159}{}{Holla, was ist Dein Problem?}
 {160}{}{Ich wollte Dich etwas fragen.}
 {161}{}{Das habe ich, in der Tat. Auf Wiedersehen.}
 {162}{}{Uaah.}
-{163}{}{Tja, dafür ist es zu spät. Hau ab.}
+{163}{}{Tja, dafÃ¼r ist es zu spÃ¤t. Hau ab.}
 {164}{}{Bitte, bitte, bitte. Es tut mir leid.}
 {165}{}{Na, gut, ich hab's versucht.}
 {166}{}{Dann verzieh' Dich!}
 {167}{}{Ist ja schon gut. Entschuldigung angenommen.}
 {168}{}{Puh. Kann ich Dir ein paar Fragen stellen?}
-{169}{}{Ich bin froh, dass wir das geklärt haben. Bis später dann.}
-{170}{}{Hallo. Schön, Dich zu sehen.}
-{171}{}{Hi Metzger. Wir müssen uns unterhalten.}
-{172}{}{Ebenso. Tschüss.}
+{169}{}{Ich bin froh, dass wir das geklÃ¤rt haben. Bis spÃ¤ter dann.}
+{170}{}{Hallo. SchÃ¶n, Dich zu sehen.}
+{171}{}{Hi Metzger. Wir mÃ¼ssen uns unterhalten.}
+{172}{}{Ebenso. TschÃ¼ss.}
 {173}{}{Blub.}
-{174}{}{Ich bin Metzger, Anführer der Sklavenhändler-Gilde. Was brauchste?}
+{174}{}{Ich bin Metzger, AnfÃ¼hrer der SklavenhÃ¤ndler-Gilde. Was brauchste?}
 {175}{}{Ja, ich habe einige Fragen.}
 {176}{}{Nein danke. Ich gehe jetzt einfach.}
 {177}{}{Swavuh???}
 {178}{}{Bitte geh. Sofort.}
 {179}{}{Oder was?}
 {180}{}{Na gut. Aber ich komme wieder!}
-{181}{}{OK. Tschüss.}
-{182}{}{Was möchtest du denn wissen?}
-{183}{}{Über den Händler Vic...}
-{184}{}{Kann ich Mitglied in der Sklavenhändler-Gilde werden?}
-{185}{}{Ich möchte meinen Ehemann als Sklaven verkaufen.}
-{186}{}{Ich möchte meine Frau verkaufen. Wieviel bekomme ich?}
-{187}{}{Ich möchte einen meiner Freunde hier verkaufen.}
-{188}{}{Erzähl mir von der Gilde.}
-{189}{}{Welche Städte kaufen Eure Sklaven?}
-{190}{}{Ich möchte einen Sklaven kaufen.}
-{191}{}{Ich bin auf der Suche nach Vault 13. Schon mal davon gehört?}
-{192}{}{Metzger? Was für ein seltsamer Name.}
+{181}{}{OK. TschÃ¼ss.}
+{182}{}{Was mÃ¶chtest du denn wissen?}
+{183}{}{Ãœber den HÃ¤ndler Vic...}
+{184}{}{Kann ich Mitglied in der SklavenhÃ¤ndler-Gilde werden?}
+{185}{}{Ich mÃ¶chte meinen Ehemann als Sklaven verkaufen.}
+{186}{}{Ich mÃ¶chte meine Frau verkaufen. Wieviel bekomme ich?}
+{187}{}{Ich mÃ¶chte einen meiner Freunde hier verkaufen.}
+{188}{}{ErzÃ¤hl mir von der Gilde.}
+{189}{}{Welche StÃ¤dte kaufen Eure Sklaven?}
+{190}{}{Ich mÃ¶chte einen Sklaven kaufen.}
+{191}{}{Ich bin auf der Suche nach Vault 13. Schon mal davon gehÃ¶rt?}
+{192}{}{Metzger? Was fÃ¼r ein seltsamer Name.}
 {193}{}{Nichts. Ich muss gehen.}
 {195}{}{Er stammt von einer alten Sprache, wahrscheinlich aus Vorkriegszeiten. }
-{196}{}{Metzger heißt Fleischer. Passt doch, oder nicht?}
-{197}{}{Das war der Name meines Großvaters. Er kam von irgendwo aus dem fernen Osten über ein großes Gewässer.}
-{198}{}{Ich habe ein Buch über einen Metzger gelesen. Er war ein Präsident oder so etwas.}
+{196}{}{Metzger heiÃŸt Fleischer. Passt doch, oder nicht?}
+{197}{}{Das war der Name meines GroÃŸvaters. Er kam von irgendwo aus dem fernen Osten Ã¼ber ein groÃŸes GewÃ¤sser.}
+{198}{}{Ich habe ein Buch Ã¼ber einen Metzger gelesen. Er war ein PrÃ¤sident oder so etwas.}
 {199}{}{Sieh mal an, wer da wie ein Eingeborener spricht.}
-{200}{}{Es ist Detsch, Deutsch, Dentsch oder so ähnlich. Eine antike Sprache aus alten Zeiten.}
+{200}{}{Es ist Detsch, Deutsch, Dentsch oder so Ã¤hnlich. Eine antike Sprache aus alten Zeiten.}
 {201}{}{Und Du, Brutus?}
 {202}{}{Ich verstehe. Ich habe aber noch immer eine Frage.}
-{203}{}{Das ist das Dümmste, was ich je gehört habe.}
+{203}{}{Das ist das DÃ¼mmste, was ich je gehÃ¶rt habe.}
 {204}{}{Faszinierend. Ich muss los.}
 {205}{}{Unser Auftrag lautet, eine stabile und hochwertige Arbeitstruppe zusammenzustellen, welche den
- ständig wachsenden Anforderungen der größeren Städte gerecht werden kann.
- Möchtest du dabei sein?}
-{206}{}{Sicher. Hört sich super an.}
+ stÃ¤ndig wachsenden Anforderungen der grÃ¶ÃŸeren StÃ¤dte gerecht werden kann.
+ MÃ¶chtest du dabei sein?}
+{206}{}{Sicher. HÃ¶rt sich super an.}
 {207}{}{Niemals.}
-{208}{}{Ich komme deswegen auf Dich zurück. Welche Städte kaufen Deine Sklaven?}
+{208}{}{Ich komme deswegen auf Dich zurÃ¼ck. Welche StÃ¤dte kaufen Deine Sklaven?}
 {209}{}{Tut mir leid, das sind private Informationen der Gilde.}
 {210}{}{OK. Trag mich ein!}
 {211}{}{Nein! Ihr Typen seid doch krank!}
-{212}{}{Ich überleg's mir. Ich habe noch weitere Fragen.}
-{213}{}{Hm, ich komme später wieder.}
-{214}{}{Wir müssen Dir ein kleines Zeichen auf die Stirn brennen, als Zeichen dafür, dass Du zur Gilde gehörst. 
+{212}{}{Ich Ã¼berleg's mir. Ich habe noch weitere Fragen.}
+{213}{}{Hm, ich komme spÃ¤ter wieder.}
+{214}{}{Wir mÃ¼ssen Dir ein kleines Zeichen auf die Stirn brennen, als Zeichen dafÃ¼r, dass Du zur Gilde gehÃ¶rst. 
  Bist Du bereit?}
-{215}{}{Hört sich super an! Fang an!}
-{216}{}{Ich habe es mir überlegt. Kann ich dich noch was fragen?}
+{215}{}{HÃ¶rt sich super an! Fang an!}
+{216}{}{Ich habe es mir Ã¼berlegt. Kann ich dich noch was fragen?}
 {217}{}{Ich habe jetzt keine Zeit. Ich muss jetzt gehen.}
 {218}{}{Willkommen in der Gilde!}
 {219}{}{Klasse, ich habe Fragen!}
 {220}{}{OK, Danke. Ich komme wieder.}
-{221}{}{Vault 13? Nein. Warte mal... Ich glaube, Vic ist aus Vault City. Vielleicht ist das die Lösung.}
+{221}{}{Vault 13? Nein. Warte mal... Ich glaube, Vic ist aus Vault City. Vielleicht ist das die LÃ¶sung.}
 {222}{}{Ja, wo liegt das?}
 {223}{}{Nein. Ich habe aber noch eine Frage.}
 {224}{}{Nein, mach Dir nichts daraus.}
-{225}{}{Die meisten Sklaven verkaufen wir an Vault City und New Reno. New Reno liegt südöstlich von hier. Die meisten aus Den handeln mit ihr.}
+{225}{}{Die meisten Sklaven verkaufen wir an Vault City und New Reno. New Reno liegt sÃ¼dÃ¶stlich von hier. Die meisten aus Den handeln mit ihr.}
 {226}{}{Wo liegt Vault City?}
 {227}{}{Ich habe noch weitere Fragen.}
 {228}{}{Danke, ich muss los.}
-{229}{}{Vault City liegt östlich von hier. Vic stammt von dort.}
+{229}{}{Vault City liegt Ã¶stlich von hier. Vic stammt von dort.}
 {230}{}{Ich habe noch weitere Fragen.}
 {231}{}{Danke. Ich muss los.}
 {232}{}{Hm, scheint ein gesunder Sklave zu sein. Ich gebe Dir }
-{233}{}{ Münzen.}
-{234}{}{OK! Das ist ein Geschäft.}
+{233}{}{ MÃ¼nzen.}
+{234}{}{OK! Das ist ein GeschÃ¤ft.}
 {235}{}{Ach, kein Problem.}
 {236}{}{Auf keinen Fall! Ich will das Doppelte!}
-{237}{}{Du kämpfst mit harten Bandagen. Da ist Dein Geld!}
+{237}{}{Du kÃ¤mpfst mit harten Bandagen. Da ist Dein Geld!}
 {238}{}{Danke. Ich habe weitere Fragen.}
-{239}{}{Danke. Tschüss.}
+{239}{}{Danke. TschÃ¼ss.}
 {240}{}{Noch irgendwas?}
 {241}{}{Ja, ich habe eine Frage.}
-{242}{}{Nee. Tschüss.}
+{242}{}{Nee. TschÃ¼ss.}
 {243}{}{Welchen "Freund" willst Du verkaufen?}
 {244}{}{Ach, kein Problem.}
 {245}{}{Interessant. Ich gebe Dir }
-{246}{}{ Münzen.}
+{246}{}{ MÃ¼nzen.}
 {247}{}{Verkauft!}
 {248}{}{Nein, danke.}
 {249}{}{Ich will mehr Geld!}
@@ -106,56 +106,56 @@
 {252}{}{Verkauft!}
 {253}{}{Das reicht nicht.}
 {254}{}{Das ist viel zu wenig. Ich gehe.}
-{255}{}{Was willst Du mit Vic? Er gehört jetzt mir. Er hätte mich nicht verarschen sollen.}
-{256}{}{Ich möchte ihn kaufen.}
-{257}{}{Warum behältst du ihn hier?}
+{255}{}{Was willst Du mit Vic? Er gehÃ¶rt jetzt mir. Er hÃ¤tte mich nicht verarschen sollen.}
+{256}{}{Ich mÃ¶chte ihn kaufen.}
+{257}{}{Warum behÃ¤ltst du ihn hier?}
 {258}{}{Nichts. Vergiss es.}
 {259}{}{Er steht noch nicht zum Verkauf.}
 {260}{}{Wieso nicht?}
 {261}{}{Oh, okay.}
 {262}{}{Er kostet $2000.}
 {263}{}{Hier ist Dein Geld.}
-{264}{}{Das ist ganz schön viel. Später vielleicht.}
+{264}{}{Das ist ganz schÃ¶n viel. SpÃ¤ter vielleicht.}
 {265}{}{Der Preis ist $1000.}
 {266}{}{Hier ist Dein Geld.}
-{267}{}{Soviel hab ich noch nicht. Tschüss.}
-{268}{}{Unser Funkgerät ist kaputt und er muss es reparieren.}
+{267}{}{Soviel hab ich noch nicht. TschÃ¼ss.}
+{268}{}{Unser FunkgerÃ¤t ist kaputt und er muss es reparieren.}
 {269}{}{Ich verstehe.}
 {270}{}{Du hast das Geld nicht!}
-{271}{}{Schlecht für mich. Kann ich Dich etwas fragen?}
+{271}{}{Schlecht fÃ¼r mich. Kann ich Dich etwas fragen?}
 {272}{}{Tut mir leid, ich komme wieder.}
-{307}{}{Wie kannst Du es wagen, zurückzukommen, nachdem Du Deine Brüder während des Sklavenfangs
+{307}{}{Wie kannst Du es wagen, zurÃ¼ckzukommen, nachdem Du Deine BrÃ¼der wÃ¤hrend des Sklavenfangs
  im Stich gelassen hast! Wachen! Angreifen!}
 {308}{}{[Fertig]}
-{309}{}{Ausgezeichnet! Es dauert wahrscheinlich einige Tage, um hin und zurück zu reisen. Bist
+{309}{}{Ausgezeichnet! Es dauert wahrscheinlich einige Tage, um hin und zurÃ¼ck zu reisen. Bist
  Du bereit zu gehen?}
-{310}{}{Nein. Ich komm zurück.}
+{310}{}{Nein. Ich komm zurÃ¼ck.}
 {311}{}{Ja, ich bin soweit. Los geht's.}
-{312}{}{Aha, Du bist zurück vom Sklavenfang. Mal sehen, wie Du Dich gemacht hast...}
+{312}{}{Aha, Du bist zurÃ¼ck vom Sklavenfang. Mal sehen, wie Du Dich gemacht hast...}
 {313}{}{[weiter]}
 {314}{}{[weiter]}
-{315}{}{Du hast potentielle Sklaven getötet! Ein toter Mann bringt uns nichts ein! Du sollst nur
- diejenigen töten, die eine Bedrohung für uns sind, die anderen waren keine Bedrohung.}
+{315}{}{Du hast potentielle Sklaven getÃ¶tet! Ein toter Mann bringt uns nichts ein! Du sollst nur
+ diejenigen tÃ¶ten, die eine Bedrohung fÃ¼r uns sind, die anderen waren keine Bedrohung.}
 {316}{}{[weiter]}
-{317}{}{Du hast überhaupt keine Sklaven gebracht! Was zum Teufel ist mit dir los? Wir versuchen
+{317}{}{Du hast Ã¼berhaupt keine Sklaven gebracht! Was zum Teufel ist mit dir los? Wir versuchen
  hier, Geld zu verdienen, nicht zu verlieren.}
 {318}{}{[weiter]}
 {319}{}{Insgesamt warst Du gut in diesem Fang. Mach weiter so, dann behalte ich Dich noch eine
  Weile.}
 {320}{}{Danke. Das werde ich tun.}
-{321}{}{Ich bin mir nicht sicher, ob es mir wirklich gefällt.}
+{321}{}{Ich bin mir nicht sicher, ob es mir wirklich gefÃ¤llt.}
 {322}{}{Du musst Deine Versklavungstechnik verbessern.}
 {323}{}{Ich werde es versuchen.}
-{324}{}{Ich entschuldige mich für meine armselige Vorstellung.}
+{324}{}{Ich entschuldige mich fÃ¼r meine armselige Vorstellung.}
 {325}{}{Ich finde, dass ich gut genug bin.}
-{326}{}{Verdammt! Du warst fürchterlich schlecht in diesem Fang. Willst Du mich ruinieren? Sei
- vorsichtiger beim nächsten Mal. Du musst sie nicht alle töten! Töte nur die, die uns feindlich
- gesinnt sind. Lass' die unbewaffneten für die Sammlung übrig.}
+{326}{}{Verdammt! Du warst fÃ¼rchterlich schlecht in diesem Fang. Willst Du mich ruinieren? Sei
+ vorsichtiger beim nÃ¤chsten Mal. Du musst sie nicht alle tÃ¶ten! TÃ¶te nur die, die uns feindlich
+ gesinnt sind. Lass' die unbewaffneten fÃ¼r die Sammlung Ã¼brig.}
 {327}{}{Tut mir leid, Metzger.}
-{328}{}{Hey, es ist ganz schön anstrengend, ein Sklavenhändler zu sein!}
-{329}{}{Ich möchte, dass Du es besser machst.}
-{330}{}{Ich würde gern bei einer Sklavenjagd mitmachen.}
+{328}{}{Hey, es ist ganz schÃ¶n anstrengend, ein SklavenhÃ¤ndler zu sein!}
+{329}{}{Ich mÃ¶chte, dass Du es besser machst.}
+{330}{}{Ich wÃ¼rde gern bei einer Sklavenjagd mitmachen.}
 {331}{}{Verdammt! Ich hasse es, Mitglieder der Gilde bei einem Fang zu verlieren. Versucht,
  aufeinander aufzupassen!}
 {332}{}{Insgesamt hast Du Dich bei diesem Fang ganz gut gemacht. Hier sind $}
-{333}{}{ als Anreiz für Dich, so gut weiter zu machen.}
+{333}{}{ als Anreiz fÃ¼r Dich, so gut weiter zu machen.}

@@ -1,24 +1,24 @@
-{100}{}{Tu vois un ordinateur PoséidoNet.}
-{101}{}{Tu vois un ordinateur PoséidoNet.}
-{102}{}{Tu vois un ordinateur PoséidoNet.}
-{103}{}{<Bip> Problème de fonctionnement du terminal. Installation de NavComp requise. <Bip>}
-{104}{}{[Terminé]}
-{105}{}{Bienvenue sur PoséidoNet. Ce terminal est réservé aux transmissions entre un pétrolier, le PMV Valdez, et une installation portuaire. Commande ?}
+{100}{}{Tu vois un ordinateur PosÃ©idoNet.}
+{101}{}{Tu vois un ordinateur PosÃ©idoNet.}
+{102}{}{Tu vois un ordinateur PosÃ©idoNet.}
+{103}{}{<Bip> ProblÃ¨me de fonctionnement du terminal. Installation de NavComp requise. <Bip>}
+{104}{}{[TerminÃ©]}
+{105}{}{Bienvenue sur PosÃ©idoNet. Ce terminal est rÃ©servÃ© aux transmissions entre un pÃ©trolier, le PMV Valdez, et une installation portuaire. Commande ?}
 {106}{}{Lancement.}
-{107}{}{Vérifier état.}
-{108}{}{[Déconnexion]}
-{109}{}{Réservoirs de carburant : Vides - Cale : Vide - Ordinateur de navigation : Non opérationnel - Câbles d'amarrage : Attachés}
+{107}{}{VÃ©rifier Ã©tat.}
+{108}{}{[DÃ©connexion]}
+{109}{}{RÃ©servoirs de carburant : Vides - Cale : Vide - Ordinateur de navigation : Non opÃ©rationnel - CÃ¢bles d'amarrage : AttachÃ©s}
 {110}{}{[Retour]}
-{111}{}{[Déconnexion]}
-{112}{}{Réservoirs de carburant : Pleins - Cale : Vide - Ordinateur de navigation : Non opérationnel - Câbles d'amarrage : Attachés}
+{111}{}{[DÃ©connexion]}
+{112}{}{RÃ©servoirs de carburant : Pleins - Cale : Vide - Ordinateur de navigation : Non opÃ©rationnel - CÃ¢bles d'amarrage : AttachÃ©s}
 {113}{}{[Retour]}
-{114}{}{[Déconnexion]}
-{115}{}{ERREUR : Réservoirs de carburant vides.}
-{116}{}{ERREUR : Ordinateur de navigation non opérationnel.}
-{117}{}{Réservoirs de carburant : Vides - Cale : Vide - Ordinateur de navigation : Opérationnel - Câbles d'amarrage : Attachés}
-{118}{}{Réservoirs de carburant : pleins - Cale : Vide - Ordinateur de navigation : Opérationnel - Câbles d'amarrage : Attachés}
-{119}{}{Tu vois un ordinateur de navigation PoséidoNet.}
-{129}{}{[Tu lances rapidement la séquence de largage et le navire part comme une flèche en direction de la plate-forme pétrolière.]}
-{130}{}{[Terminé]}
+{114}{}{[DÃ©connexion]}
+{115}{}{ERREUR : RÃ©servoirs de carburant vides.}
+{116}{}{ERREUR : Ordinateur de navigation non opÃ©rationnel.}
+{117}{}{RÃ©servoirs de carburant : Vides - Cale : Vide - Ordinateur de navigation : OpÃ©rationnel - CÃ¢bles d'amarrage : AttachÃ©s}
+{118}{}{RÃ©servoirs de carburant : pleins - Cale : Vide - Ordinateur de navigation : OpÃ©rationnel - CÃ¢bles d'amarrage : AttachÃ©s}
+{119}{}{Tu vois un ordinateur de navigation PosÃ©idoNet.}
+{129}{}{[Tu lances rapidement la sÃ©quence de largage et le navire part comme une flÃ¨che en direction de la plate-forme pÃ©troliÃ¨re.]}
+{130}{}{[TerminÃ©]}
 {131}{}{Ordinateur de navigation en ligne.}
-{200}{}{ATTENTION : Sous-marin toujours actif. Continuer entraînerait la destruction du pétrolier et tout ce qui s'y trouve.}
+{200}{}{ATTENTION : Sous-marin toujours actif. Continuer entraÃ®nerait la destruction du pÃ©trolier et tout ce qui s'y trouve.}

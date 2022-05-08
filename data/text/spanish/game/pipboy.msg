@@ -1,27 +1,27 @@
-{100}{}{°Feliz AÒo Nuevo!}
-{101}{}{°Feliz DÌa de San ValentÌn!}
-{102}{}{°Feliz 1 de Abril!}
-{103}{}{°Feliz DÌa de EnvÌos Gratis!}
-{104}{}{°Feliz DÌa de la Independencia!}
-{105}{}{°Feliz Halloween!}
-{106}{}{°Feliz DÌa de AcciÛn de Gracias!}
-{107}{}{°Feliz Navidad!}
-{200}{}{M¡S}
+{100}{}{¬°Feliz A√±o Nuevo!}
+{101}{}{¬°Feliz D√≠a de San Valent√≠n!}
+{102}{}{¬°Feliz 1 de Abril!}
+{103}{}{¬°Feliz D√≠a de Env√≠os Gratis!}
+{104}{}{¬°Feliz D√≠a de la Independencia!}
+{105}{}{¬°Feliz Halloween!}
+{106}{}{¬°Feliz D√≠a de Acci√≥n de Gracias!}
+{107}{}{¬°Feliz Navidad!}
+{200}{}{M√ÅS}
 {201}{}{VOLVER}
 {202}{}{ESTADO}
 {203}{}{No hay tareas actuales.}
 {204}{}{PISTAS}
 {205}{}{AUTOMAPAS}
-{206}{}{ARCHIVOS DE VÕDEO}
+{206}{}{ARCHIVOS DE V√çDEO}
 {207}{}{DATOS}
 {208}{}{}
 {209}{}{}
 {210}{}{Estado}
 {211}{}{DATOS}
 {212}{}{de}
-{213}{}{P·gina}
+{213}{}{P√°gina}
 {214}{}{HECHO}
-{215}{}{°No puedes descansar aquÌ!}
+{215}{}{¬°No puedes descansar aqu√≠!}
 {300}{}{DESPERTADOR}
 {301}{}{Puntos de Salud}
 {302}{}{Descansar 10 minutos}
@@ -32,8 +32,8 @@
 {307}{}{Descansar 4 horas}
 {308}{}{Descansar 5 horas}
 {309}{}{Descansar 6 horas}
-{310}{}{Descansar hasta la maÒana (0800)}
-{311}{}{Descansar hasta mediodÌa (1200)}
+{310}{}{Descansar hasta la ma√±ana (0800)}
+{311}{}{Descansar hasta mediod√≠a (1200)}
 {312}{}{Descansar hasta la tarde (1800)}
 {313}{}{Descansar hasta medianoche (0000)}
 {314}{}{Descansar hasta curarse del todo}
@@ -44,38 +44,38 @@
 {403}{}{Base Militar Nivel 2}
 {404}{}{Base Militar Nivel 3}
 {405}{}{Base Militar Nivel 4}
-{406}{}{A.M.S.: Inf. InvestigaciÛn}
-{407}{}{A.M.S.: Inf. MÈdico}
-{408}{}{A.M.S.: Aviso EvacuaciÛn}
-{409}{}{A.M.S.: EmisiÛn GNN}
-{410}{}{A.M.S.: Informe MisiÛn}
-{411}{}{EnseÒanzas de la HubologÌa}
-{412}{}{Notas de DiseÒo de Ciudad Refugio}
-{413}{}{GuÌa de Viaje}
-{414}{}{Holodisco del espÌa en la RNC}
+{406}{}{A.M.S.: Inf. Investigaci√≥n}
+{407}{}{A.M.S.: Inf. M√©dico}
+{408}{}{A.M.S.: Aviso Evacuaci√≥n}
+{409}{}{A.M.S.: Emisi√≥n GNN}
+{410}{}{A.M.S.: Informe Misi√≥n}
+{411}{}{Ense√±anzas de la Hubolog√≠a}
+{412}{}{Notas de Dise√±o de Ciudad Refugio}
+{413}{}{Gu√≠a de Viaje}
+{414}{}{Holodisco del esp√≠a en la RNC}
 {415}{}{Holodisco de la RNC}
 {416}{}{Holodisco de Westin}
-{417}{}{Estado de la NaciÛn}
-{418}{}{Listado de TÈrminos}
+{417}{}{Estado de la Naci√≥n}
+{418}{}{Listado de T√©rminos}
 {419}{}{El Proyecto}
 {420}{}{Operaciones Central Nuclear}
 {500}{}{Logo de InterPlay}
 {501}{}{Intro}
 {502}{}{Discurso de la Anciana}
-{503}{}{RecuperaciÛn del Uniforme del Refugio}
-{504}{}{La caÌda de Arroyo}
+{503}{}{Recuperaci√≥n del Uniforme del Refugio}
+{504}{}{La ca√≠da de Arroyo}
 {505}{}{Arroyo destruido}
-{506}{}{Arrancando el vehÌculo}
+{506}{}{Arrancando el veh√≠culo}
 {507}{}{La Familia Cartucci}
-{508}{}{La Garra mortal lÌder}
+{508}{}{La Garra mortal l√≠der}
 {509}{}{Petrolero a Plataforma}
 {510}{}{Prisioneros en El Enclave}
 {511}{}{Plataforma explotando}
-{512}{}{SueÒo de Arroyo 1}
-{513}{}{SueÒo de Arroyo 2}
-{514}{}{SueÒo de Arroyo 3}
-{515}{}{SueÒo de Arroyo 4}
-{516}{}{CrÈditos}
+{512}{}{Sue√±o de Arroyo 1}
+{513}{}{Sue√±o de Arroyo 2}
+{514}{}{Sue√±o de Arroyo 3}
+{515}{}{Sue√±o de Arroyo 4}
+{516}{}{Cr√©ditos}
 {600}{}{Estado}
 {601}{}{Pistas}
 {602}{}{Automapas}
@@ -86,15 +86,15 @@
 {607}{}{Hasta la vista.}
 {608}{}{Despierta.}
 {700}{}{Refugio 13}
-{701}{}{Calmar a la facciÛn rebelde.}
-{702}{}{Destruir al lÌder mutante.}
+{701}{}{Calmar a la facci√≥n rebelde.}
+{702}{}{Destruir al l√≠der mutante.}
 {703}{}{Destruir la fuente de mutantes.}
 {704}{}{Encontrar el chip de agua.}
-{705}{}{Encontrar al ladrÛn del agua.}
+{705}{}{Encontrar al ladr√≥n del agua.}
 {710}{}{Buried Vault}
-{720}{}{Arenas SombrÌas}
-{721}{}{Curar a Jarvis del veneno de escorpiÛn rad.}
-{722}{}{Hacer antÌdoto del veneno.}
+{720}{}{Arenas Sombr√≠as}
+{721}{}{Curar a Jarvis del veneno de escorpi√≥n rad.}
+{722}{}{Hacer ant√≠doto del veneno.}
 {723}{}{Rescatar a Tandi de los saqueadores.}
 {724}{}{Detener a los escorpiones rad.}
 {730}{}{Ciudad Vertedero}
@@ -105,9 +105,9 @@
 {735}{}{Detener a Gizmo.}
 {736}{}{Acabar con la banda Kalavera.}
 {740}{}{Raiders}
-{750}{}{NecrÛpolis}
+{750}{}{Necr√≥polis}
 {751}{}{Destruir a los Super Mutantes en el Watershed.}
-{752}{}{Fijar la bomba de agua de NecrÛpolis.}
+{752}{}{Fijar la bomba de agua de Necr√≥polis.}
 {760}{}{Eje}
 {761}{}{Destruir las Garras mortales.}
 {762}{}{Deshacerse de Jain.}
@@ -119,395 +119,395 @@
 {772}{}{Rescatar al Iniciado de los Hub.}
 {780}{}{Base Militar}
 {790}{}{Ardor}
-{791}{}{Desarmar las trampas de la instalaciÛn.}
-{792}{}{Encender la energÌa del Ardor.}
+{791}{}{Desarmar las trampas de la instalaci√≥n.}
+{792}{}{Encender la energ√≠a del Ardor.}
 {800}{}{Cementerio}
 {801}{}{Convertirse en un Blade.}
 {802}{}{Entregar el collar para Romero.}
 {803}{}{Entregar el paquete de los Gun Runners.}
-{804}{}{Encontrar al niÒo espÌa entre los seguidores.}
-{805}{}{Fijar la granja hidropÛnica en Adytum.}
+{804}{}{Encontrar al ni√±o esp√≠a entre los seguidores.}
+{805}{}{Fijar la granja hidrop√≥nica en Adytum.}
 {806}{}{Rescatar a Jason Zimmerman.}
 {807}{}{Evitar que las Bandas ataquen Adytum.}
 {810}{}{Catedral}
 {1000}{}{REFUGIO 13 HOLO por Ziggy}
 {1001}{}{**END-PAR**}
-{1002}{}{Este disco contiene la localizaciÛn del Refugio 13.}
-{1003}{}{La localizaciÛn se ha marcado en tu mapa.}
+{1002}{}{Este disco contiene la localizaci√≥n del Refugio 13.}
+{1003}{}{La localizaci√≥n se ha marcado en tu mapa.}
 {1004}{}{**END-DISK**}
 {2000}{}{A: CHQ}
-{2001}{}{Nuestro equipo de cientÌficos ha finalizado el an·lisis}
+{2001}{}{Nuestro equipo de cient√≠ficos ha finalizado el an√°lisis}
 {2002}{}{del ejemplar obtenido de la base. Confirmado un 99% de}
 {2003}{}{pureza. Esperen inminente llegada del ejemplar. Como se}
-{2004}{}{preveÌa, la poblaciÛn de obreros ha mutado con enorme}
+{2004}{}{preve√≠a, la poblaci√≥n de obreros ha mutado con enorme}
 {2005}{}{rapidez una vez expuestos a una fuente pura. Se}
 {2006}{}{informa de grandes pero aceptables bajas. He ordenado}
-{2007}{}{la evacuaciÛn de la base. Tan pronto todo el personal}
-{2008}{}{estÈ fuera, volaremos la entrada a la base y proce-}
+{2007}{}{la evacuaci√≥n de la base. Tan pronto todo el personal}
+{2008}{}{est√© fuera, volaremos la entrada a la base y proce-}
 {2009}{}{}
 {2010}{}{Coronel Sanders.}
 {2011}{}{**END-DISK**}
-{3000}{}{Capit·n Pickard informando en el punto de control 1.}
-{3001}{}{Contacto con puntos de control 2 y 3 negativos. SÛlo}
-{3002}{}{podemos asumir lo peor. Los monstruos est·n inva-}
+{3000}{}{Capit√°n Pickard informando en el punto de control 1.}
+{3001}{}{Contacto con puntos de control 2 y 3 negativos. S√≥lo}
+{3002}{}{podemos asumir lo peor. Los monstruos est√°n inva-}
 {3003}{}{diendo los pozos de la mina. Todo intento de detenerlos}
 {3004}{}{ha fracasado. Intentaremos contenerlos en esta}
-{3005}{}{posiciÛn todo el tiempo que podamos.}
+{3005}{}{posici√≥n todo el tiempo que podamos.}
 {3006}{}{**END-DISK**}
 {4000}{}{Atacado punto de control 3. Hemos volado los ascenso-}
-{4001}{}{res de la mina por precauciÛn, pero puedo oÌrles su-}
-{4002}{}{biendo por las galerÌas. °Mierda! °Criaturas enormes,}
+{4001}{}{res de la mina por precauci√≥n, pero puedo o√≠rles su-}
+{4002}{}{biendo por las galer√≠as. ¬°Mierda! ¬°Criaturas enormes,}
 {4003}{}{horribles y verdes trepando desde los niveles inferio-}
-{4004}{}{res! øEn esto se han transformado? Alg˙n tipo de su-}
-{4005}{}{persoldado. Tan pronto abatimos uno aparecen dos m·s}
-{4006}{}{trepando por las galerÌas, °y los que abatimos se levan-}
-{4007}{}{tan avanzando hacia nosotros! °NECESITAMOS REFUERZ...}
+{4004}{}{res! ¬øEn esto se han transformado? Alg√∫n tipo de su-}
+{4005}{}{persoldado. Tan pronto abatimos uno aparecen dos m√°s}
+{4006}{}{trepando por las galer√≠as, ¬°y los que abatimos se levan-}
+{4007}{}{tan avanzando hacia nosotros! ¬°NECESITAMOS REFUERZ...}
 {4008}{}{**END-DISK**}
 {5000}{}{Sargento Bracks informando desde el punto de control 3.}
-{5001}{}{Sin novedad, igual que ayer y anteayer. No sÈ por quÈ}
+{5001}{}{Sin novedad, igual que ayer y anteayer. No s√© por qu√©}
 {5002}{}{nos tienen vigilando a esos desgraciados mineros. Son}
-{5003}{}{tan escu·lidos y debiluchos que apenas pueden levan-}
+{5003}{}{tan escu√°lidos y debiluchos que apenas pueden levan-}
 {5004}{}{tar un pico. De todas formas los batas blancas pasaron}
-{5005}{}{hace un instante con alg˙n tipo de muestra. ParecÌan}
-{5006}{}{muy excitados por ello. øSabes si han encontrado lo}
-{5007}{}{que est·n buscando? Quiz· podamos largarnos de una}
-{5008}{}{vez de este lugar abandonado. Me provoca escalofrÌos.}
-{5009}{}{Un momento... algo se acerca por las galerÌas de la}
-{5010}{}{mina. °DIOS MÕO! øQuÈ son esas cosas? °Est·n invadien-}
-{5011}{}{do nuestra posiciÛn! °ENVIAD AYUDA! Repito, punto de}
+{5005}{}{hace un instante con alg√∫n tipo de muestra. Parec√≠an}
+{5006}{}{muy excitados por ello. ¬øSabes si han encontrado lo}
+{5007}{}{que est√°n buscando? Quiz√° podamos largarnos de una}
+{5008}{}{vez de este lugar abandonado. Me provoca escalofr√≠os.}
+{5009}{}{Un momento... algo se acerca por las galer√≠as de la}
+{5010}{}{mina. ¬°DIOS M√çO! ¬øQu√© son esas cosas? ¬°Est√°n invadien-}
+{5011}{}{do nuestra posici√≥n! ¬°ENVIAD AYUDA! Repito, punto de}
 {5012}{}{control 3 solicitando ayu...}
 {5013}{}{**END-DISK**}
-{6000}{}{La excavaciÛn marcha seg˙n los plazos previstos. A}
-{6001}{}{juzgar por los antiguos mapas de la base, deberÌamos}
+{6000}{}{La excavaci√≥n marcha seg√∫n los plazos previstos. A}
+{6001}{}{juzgar por los antiguos mapas de la base, deber√≠amos}
 {6002}{}{alcanzar la zona de cubas pronto. Hay elevados niveles}
 {6003}{}{del virus VEF presentes en las muestras tomadas. Afor-}
-{6004}{}{tunadamente nuestros trajes impiden la filtraciÛn del}
+{6004}{}{tunadamente nuestros trajes impiden la filtraci√≥n del}
 {6005}{}{virus. Informen a los miembros del Enclave de que se}
-{6006}{}{deberÌa obtener una muestra pura del mut·geno pronto.}
+{6006}{}{deber√≠a obtener una muestra pura del mut√°geno pronto.}
 {6007}{}{**END-PAR**}
-{6008}{}{TambiÈn hemos empezado a notar algunos cambios en los}
+{6008}{}{Tambi√©n hemos empezado a notar algunos cambios en los}
 {6009}{}{mineros. Parecen estar mostrando signos de un aumento}
 {6010}{}{de fuerza y resistencia, y ligeros cambios de tono de}
 {6011}{}{piel: obviamente, signos de mutaciones del virus VEF.}
-{6012}{}{Los hombres est·n nerviosos, ya que tambiÈn ellos han}
-{6013}{}{apreciado los cambios. Aumentar el n˙mero}
+{6012}{}{Los hombres est√°n nerviosos, ya que tambi√©n ellos han}
+{6013}{}{apreciado los cambios. Aumentar el n√∫mero}
 {6014}{}{de guardias, temo que si los trabajadores mutan por}
-{6015}{}{completo nos veamos sobrepasados en n˙mero. Mi espe-}
+{6015}{}{completo nos veamos sobrepasados en n√∫mero. Mi espe-}
 {6016}{}{ranza es que, usando habitantes de la zona como fuerza}
-{6017}{}{de trabajo, la mutaciÛn no ocurrir· mientras no estÈn}
+{6017}{}{de trabajo, la mutaci√≥n no ocurrir√° mientras no est√©n}
 {6018}{}{directamente expuestos a la fuente pura o a una expo-}
-{6019}{}{siciÛn prolongada al virus. Como advertÌa, se han de-}
+{6019}{}{sici√≥n prolongada al virus. Como advert√≠a, se han de-}
 {6020}{}{tectado significativas cantidades de virus en toda esta}
-{6021}{}{regiÛn. Las pruebas en los sujetos de esta zona han}
+{6021}{}{regi√≥n. Las pruebas en los sujetos de esta zona han}
 {6022}{}{mostrado cierta tolerancia al VEF. No obstante, acon-}
-{6023}{}{sejo precauciÛn, ya que una exposiciÛn al virus a este}
+{6023}{}{sejo precauci√≥n, ya que una exposici√≥n al virus a este}
 {6024}{}{nivel nunca se ha calculado. Aconsejo sellar la entra-}
-{6025}{}{da a la base colaps·ndola tan pronto como se obtenga}
-{6026}{}{una muestra pura. …sto bloquear· a los mineros expues-}
-{6027}{}{tos e impedir· a cualquier enemigo obtener el virus}
+{6025}{}{da a la base colaps√°ndola tan pronto como se obtenga}
+{6026}{}{una muestra pura. √âsto bloquear√° a los mineros expues-}
+{6027}{}{tos e impedir√° a cualquier enemigo obtener el virus}
 {6028}{}{una vez hayamos evacuado la base.}
 {6029}{}{**END-DISK**}
-{7000}{}{AlmacÈn Militar Sierra - Departamento I + D}
-{7001}{}{MÈdico a cargo: Dr. H. Lector}
+{7000}{}{Almac√©n Militar Sierra - Departamento I + D}
+{7001}{}{M√©dico a cargo: Dr. H. Lector}
 {7002}{}{Diario Personal}
 {7003}{}{**END-PAR**}
 {7004}{}{28 de Junio de 2077}
 {7005}{}{Hoy, los muchachos de bio-almacenamiento me gastaron una}
-{7006}{}{buena broma. Alg˙n graciosillo alterÛ la configuraciÛn}
-{7007}{}{de mi extractor automatizado de Ûrganos Vault-Tec.}
-{7008}{}{Dios, vaya sorpresa cuando el soldado Callow saliÛ de}
+{7006}{}{buena broma. Alg√∫n graciosillo alter√≥ la configuraci√≥n}
+{7007}{}{de mi extractor automatizado de √≥rganos Vault-Tec.}
+{7008}{}{Dios, vaya sorpresa cuando el soldado Callow sali√≥ de}
 {7009}{}{la sala de operaciones sin colon. Menos mal que ya esta-}
-{7010}{}{ba muerto, o habrÌa tenido problemas. He configurado}
-{7011}{}{la m·quina para que ˙nicamente extraiga cerebros, asÌ}
-{7012}{}{que esto no deberÌa volver a pasar. …sta me la pagar·n.}
+{7010}{}{ba muerto, o habr√≠a tenido problemas. He configurado}
+{7011}{}{la m√°quina para que √∫nicamente extraiga cerebros, as√≠}
+{7012}{}{que esto no deber√≠a volver a pasar. √âsta me la pagar√°n.}
 {7013}{}{**END-PAR**}
 {7014}{}{29 de Junio de 2077}
-{7015}{}{He extraÌdo el hÌgado del soldado Callow y lo he co-}
+{7015}{}{He extra√≠do el h√≠gado del soldado Callow y lo he co-}
 {7016}{}{cinado. Luego, se lo he enviado a los chicos de}
-{7017}{}{bio-almacenamiento acompaÒado de habas y un buen Chianti.}
+{7017}{}{bio-almacenamiento acompa√±ado de habas y un buen Chianti.}
 {7018}{}{Creyeron que era un agradecimiento especial del general}
 {7019}{}{por un trabajo bien hecho. Me encanta mi trabajo.}
 {7020}{}{**END-PAR**}
 {7021}{}{30 de Junio de 2077}
-{7022}{}{He probado un nuevo cÛctel quÌmico de esteroides y }
+{7022}{}{He probado un nuevo c√≥ctel qu√≠mico de esteroides y }
 {7023}{}{psico en uno de mis pacientes, lo he mezclado con un }
 {7024}{}{potenciador especial con el que he estado trasteando.}
 {7025}{}{Los resultados han sido prometedores. El sujeto se}
-{7026}{}{volviÛ muy violento y consiguiÛ escapar de su habita-}
-{7027}{}{ciÛn. Afortunadamente, los nuevos robots de seguridad}
-{7028}{}{estaban en su sitio y pudieron amansarlo. TendrÈ que}
+{7026}{}{volvi√≥ muy violento y consigui√≥ escapar de su habita-}
+{7027}{}{ci√≥n. Afortunadamente, los nuevos robots de seguridad}
+{7028}{}{estaban en su sitio y pudieron amansarlo. Tendr√© que}
 {7029}{}{llamar a mantenimiento para que sustituyan la puerta.}
 {7030}{}{**END-PAR**}
 {7031}{}{01 de Julio de 2077}
 {7032}{}{Mi experimento favorito ha muerto. Lo estaba alimen-}
 {7033}{}{tando con una dieta constante a base de Mentats mez-}
-{7034}{}{clados con mi potenciador especial. El sujeto pasÛ de}
+{7034}{}{clados con mi potenciador especial. El sujeto pas√≥ de}
 {7035}{}{un C.I. de 39 a 200 en un plazo de pocas semanas.}
 {7036}{}{Estoy algo triste, ya que era una de las pocas personas}
-{7037}{}{con las que podÌa hablar. Lo echarÈ mucho de menos.}
+{7037}{}{con las que pod√≠a hablar. Lo echar√© mucho de menos.}
 {7038}{}{**END-PAR**}
 {7039}{}{05 de Julio de 2077}
-{7040}{}{Creemos que el nuevo cerebro cibernÈtico est· por fin}
-{7041}{}{preparado. A˙n tenemos que realizar algunas pruebas}
-{7042}{}{m·s, pero parece prometedor.}
+{7040}{}{Creemos que el nuevo cerebro cibern√©tico est√° por fin}
+{7041}{}{preparado. A√∫n tenemos que realizar algunas pruebas}
+{7042}{}{m√°s, pero parece prometedor.}
 {7043}{}{**END-PAR**}
 {7044}{}{06 de Julio de 2077}
-{7045}{}{RobÛtica no parece contenta de que su preciosa com-}
+{7045}{}{Rob√≥tica no parece contenta de que su preciosa com-}
 {7046}{}{putadora se haya modificado para dirigir la seguridad}
-{7047}{}{de la base tras la evacuaciÛn. Yo tampoco puedo decir}
-{7048}{}{que estÈ contento, ya que Skynet ha resultado inesti-}
-{7049}{}{mable en el desarrollo del nuevo cerebro cibernÈtico.}
+{7047}{}{de la base tras la evacuaci√≥n. Yo tampoco puedo decir}
+{7048}{}{que est√© contento, ya que Skynet ha resultado inesti-}
+{7049}{}{mable en el desarrollo del nuevo cerebro cibern√©tico.}
 {7050}{}{**END-PAR**}
 {7051}{}{09 de Julio de 2077}
-{7052}{}{La evacuaciÛn se est· llevando a cabo. QuÈ}
-{7053}{}{inoportuno. Est·bamos a punto de comenzar la ins-}
-{7054}{}{talaciÛn del nuevo cerebro cibernÈtico. Dicen que}
-{7055}{}{la evacuaciÛn ser· temporal, asÌ que tendrÈ que}
-{7056}{}{seguir con mi investigaciÛn cuando regrese. …ste ser·,}
-{7057}{}{probablemente, mi ˙ltimo informe durante un tiempo,}
-{7058}{}{ya que estarÈ ocupado intentando retomar mi inves-}
-{7059}{}{tigaciÛn lo antes posible.}
+{7052}{}{La evacuaci√≥n se est√° llevando a cabo. Qu√©}
+{7053}{}{inoportuno. Est√°bamos a punto de comenzar la ins-}
+{7054}{}{talaci√≥n del nuevo cerebro cibern√©tico. Dicen que}
+{7055}{}{la evacuaci√≥n ser√° temporal, as√≠ que tendr√© que}
+{7056}{}{seguir con mi investigaci√≥n cuando regrese. √âste ser√°,}
+{7057}{}{probablemente, mi √∫ltimo informe durante un tiempo,}
+{7058}{}{ya que estar√© ocupado intentando retomar mi inves-}
+{7059}{}{tigaci√≥n lo antes posible.}
 {7060}{}{**END-DISK**}
 {8000}{}{05 de Julio de 2077}
-{8001}{}{AlmacÈn Militar Sierra - EnfermerÌa}
-{8002}{}{MÈdico a cargo: Dr. Solomon}
+{8001}{}{Almac√©n Militar Sierra - Enfermer√≠a}
+{8002}{}{M√©dico a cargo: Dr. Solomon}
 {8003}{}{Sujeto - Cabo Dixon}
 {8004}{}{Informe de Accidente # 8332-523D}
 {8005}{}{**END-PAR**}
 {8006}{}{El sujeto estaba tratando de armar una mina en el}
-{8007}{}{depÛsito como parte de las defensas de evacuaciÛn}
-{8008}{}{del almacÈn militar Sierra. La mina detonÛ prematura-}
+{8007}{}{dep√≥sito como parte de las defensas de evacuaci√≥n}
+{8008}{}{del almac√©n militar Sierra. La mina deton√≥ prematura-}
 {8009}{}{mente hiriendo gravemente al cabo Dixon y al general}
-{8010}{}{Clifton. El cabo Dixon sufriÛ heridas graves en}
-{8011}{}{ambas manos, el pecho y el ·rea facial.}
+{8010}{}{Clifton. El cabo Dixon sufri√≥ heridas graves en}
+{8011}{}{ambas manos, el pecho y el √°rea facial.}
 {8012}{}{La mano derecha estaba completamente arrancada}
-{8013}{}{y no fuimos capaces de localizar el apÈndice perdido.}
-{8014}{}{Graves heridas inciso-contusas en pecho y ·rea}
-{8015}{}{facial requirieron de cirugÌa mayor para repararlas.}
-{8016}{}{32 fragmentos de mina fueron extraÌdos en total. El}
-{8017}{}{ojo derecho estaba irreparablemente daÒado. La cirugÌa}
-{8018}{}{que aplicamos sÛlo nos permitiÛ extirparlo.}
+{8013}{}{y no fuimos capaces de localizar el ap√©ndice perdido.}
+{8014}{}{Graves heridas inciso-contusas en pecho y √°rea}
+{8015}{}{facial requirieron de cirug√≠a mayor para repararlas.}
+{8016}{}{32 fragmentos de mina fueron extra√≠dos en total. El}
+{8017}{}{ojo derecho estaba irreparablemente da√±ado. La cirug√≠a}
+{8018}{}{que aplicamos s√≥lo nos permiti√≥ extirparlo.}
 {8019}{}{Nuestra esperanza no es poder reemplazar el ojo}
-{8020}{}{daÒado, sino revivirlo en un nuevo gel experimental}
-{8021}{}{biomÈdico, donde el ojo deberÌa ser capaz de}
-{8022}{}{regenerarse por sÌ mismo. Espero que podamos ser}
-{8023}{}{capaces de reimplantar el ojo m·s adelante.}
-{8024}{}{Este gel biomÈdico experimental parece muy prometedor}
-{8025}{}{en la estimulaciÛn del crecimiento en cÈlulas vivas.}
-{8026}{}{Sin embargo, es penoso que sÛlo se pueda probar este}
+{8020}{}{da√±ado, sino revivirlo en un nuevo gel experimental}
+{8021}{}{biom√©dico, donde el ojo deber√≠a ser capaz de}
+{8022}{}{regenerarse por s√≠ mismo. Espero que podamos ser}
+{8023}{}{capaces de reimplantar el ojo m√°s adelante.}
+{8024}{}{Este gel biom√©dico experimental parece muy prometedor}
+{8025}{}{en la estimulaci√≥n del crecimiento en c√©lulas vivas.}
+{8026}{}{Sin embargo, es penoso que s√≥lo se pueda probar este}
 {8027}{}{nuevo gel bajo circunstancias tan extremas.}
 {8028}{}{**END-DISK**}
 {9000}{}{09 de Julio de 2077}
-{9001}{}{M·xima Prioridad}
+{9001}{}{M√°xima Prioridad}
 {9002}{}{Aviso General}
 {9003}{}{}
-{9004}{}{Noticia para todo el personal. La evacuaciÛn del almacÈn}
+{9004}{}{Noticia para todo el personal. La evacuaci√≥n del almac√©n}
 {9005}{}{militar Sierra se ha adelantado una semana.}
-{9006}{}{La instalaciÛn de medidas de seguridad y defensa deber·}
+{9006}{}{La instalaci√≥n de medidas de seguridad y defensa deber√°}
 {9007}{}{estar completada para entonces. Todo el personal debe}
-{9008}{}{comprobar con sus jefes de secciÛn las nuevas Ûrdenes.}
-{9009}{}{Durante este tiempo, la seguridad estar· fuertemente}
-{9010}{}{reforzada; Ser· obligatorio llevar encima la tarjeta}
+{9008}{}{comprobar con sus jefes de secci√≥n las nuevas √≥rdenes.}
+{9009}{}{Durante este tiempo, la seguridad estar√° fuertemente}
+{9010}{}{reforzada; Ser√° obligatorio llevar encima la tarjeta}
 {9011}{}{ID en todo momento.}
 {9012}{}{}
 {9013}{}{Por orden del general Clifton.}
 {9014}{}{**END-DISK**}
-{10000}{}{AlmacÈn Militar Sierra}
-{10001}{}{Informe de MisiÛn 1942 - 1991}
+{10000}{}{Almac√©n Militar Sierra}
+{10001}{}{Informe de Misi√≥n 1942 - 1991}
 {10002}{}{Almacenar y mantener un suministro defensivo de arte-}
-{10003}{}{factos militares. En caso de invasiÛn, el almacÈn Sierra}
-{10004}{}{prestar· apoyo a las bases militares vecinas, asegur·n-}
-{10005}{}{dose de que estÈn adecuadamente surtidas y equipadas.}
+{10003}{}{factos militares. En caso de invasi√≥n, el almac√©n Sierra}
+{10004}{}{prestar√° apoyo a las bases militares vecinas, asegur√°n-}
+{10005}{}{dose de que est√©n adecuadamente surtidas y equipadas.}
 {10006}{}{**END-PAR**}
-{10007}{}{AlmacÈn Militar Sierra}
-{10008}{}{Informe de MisiÛn 1992 - 2050}
-{10009}{}{Responsabilidad de la desmilitarizaciÛn del depÛsito de}
-{10010}{}{municiÛn sobrante considerada no apta u obsoleta para}
-{10011}{}{propÛsitos militares. Esta misiÛn debe ser inspeccionada}
+{10007}{}{Almac√©n Militar Sierra}
+{10008}{}{Informe de Misi√≥n 1992 - 2050}
+{10009}{}{Responsabilidad de la desmilitarizaci√≥n del dep√≥sito de}
+{10010}{}{munici√≥n sobrante considerada no apta u obsoleta para}
+{10011}{}{prop√≥sitos militares. Esta misi√≥n debe ser inspeccionada}
 {10012}{}{por el Comando de Operaciones Industriales (COI) junto}
-{10013}{}{con la Agencia de ProtecciÛn Ambiental (APA), ofre-}
-{10014}{}{ciendo la mejor disposiciÛn de los artefactos militares.}
+{10013}{}{con la Agencia de Protecci√≥n Ambiental (APA), ofre-}
+{10014}{}{ciendo la mejor disposici√≥n de los artefactos militares.}
 {10015}{}{**END-PAR**}
-{10016}{}{AlmacÈn Militar Sierra}
-{10017}{}{Informe de MisiÛn 2050 - 2076}
+{10016}{}{Almac√©n Militar Sierra}
+{10017}{}{Informe de Misi√≥n 2050 - 2076}
 {10018}{}{CLASIFICADO}
 {10019}{}{Requerido Permiso de Nivel 5}
-{10020}{}{Base restaurada con la ˙ltima tecnologÌa y usada como}
-{10021}{}{instalaciÛn de investigaciÛn secreta para desarrollo}
-{10022}{}{de armamento robÛtico, biolÛgico y convencional.}
+{10020}{}{Base restaurada con la √∫ltima tecnolog√≠a y usada como}
+{10021}{}{instalaci√≥n de investigaci√≥n secreta para desarrollo}
+{10022}{}{de armamento rob√≥tico, biol√≥gico y convencional.}
 {10023}{}{armas.}
 {10024}{}{**END-PAR**}
-{10025}{}{AlmacÈn Militar Sierra}
-{10026}{}{Informe de MisiÛn 2077}
-{10027}{}{Debido a un dÈficit de personal entrenado, Sierra}
-{10028}{}{ser· modificada como una base de defensa automatizada.}
-{10029}{}{el personal se trasladÛ a la vecina}
-{10030}{}{instalaciones o enviados a la lÌnea de frente.}
+{10025}{}{Almac√©n Militar Sierra}
+{10026}{}{Informe de Misi√≥n 2077}
+{10027}{}{Debido a un d√©ficit de personal entrenado, Sierra}
+{10028}{}{ser√° modificada como una base de defensa automatizada.}
+{10029}{}{el personal se traslad√≥ a la vecina}
+{10030}{}{instalaciones o enviados a la l√≠nea de frente.}
 {10031}{}{**END-DISK**}
 {11000}{}{Galaxy News Network}
-{11001}{}{TranscripciÛn de EmisiÛn, 11 de Enero de 2073}
+{11001}{}{Transcripci√≥n de Emisi√≥n, 11 de Enero de 2073}
 {11002}{}{Titular de hoy en GNN: En un golpe maestro financiero,}
 {11003}{}{los EEUU se las arreglaron para ser los primeros en per-}
-{11004}{}{forar los ˙ltimas reservas mundiales de petrÛleo. Hasta}
-{11005}{}{hace poco estas reservas se creÌan inalcanzables debido}
-{11006}{}{a que los depÛsitos se localizaban a miles de pies bajo}
-{11007}{}{la superficie del OcÈano PacÌfico. Con el suministro}
-{11008}{}{mundial de petrÛleo cercano al agotamiento, ha habido}
-{11009}{}{una carrera para ser el primero en crear un mÈtodo de}
-{11010}{}{extracciÛn de estos depÛsitos. GNN se complace en}
+{11004}{}{forar los √∫ltimas reservas mundiales de petr√≥leo. Hasta}
+{11005}{}{hace poco estas reservas se cre√≠an inalcanzables debido}
+{11006}{}{a que los dep√≥sitos se localizaban a miles de pies bajo}
+{11007}{}{la superficie del Oc√©ano Pac√≠fico. Con el suministro}
+{11008}{}{mundial de petr√≥leo cercano al agotamiento, ha habido}
+{11009}{}{una carrera para ser el primero en crear un m√©todo de}
+{11010}{}{extracci√≥n de estos dep√≥sitos. GNN se complace en}
 {11011}{}{anunciarles que los EEUU son los primeros en lograrlo}
 {11012}{}{y, debido a esto, han reclamado la propiedad de las}
-{11013}{}{reservas de crudo. °Sigue asÌ, AmÈrica!}
+{11013}{}{reservas de crudo. ¬°Sigue as√≠, Am√©rica!}
 {11014}{}{**END-PAR**}
 {11015}{}{China acusa de juego sucio mientras la noticia circula}
-{11016}{}{alrededor del globo. Seg˙n el Presidente chino Xin, su}
-{11017}{}{proyecto de plataforma de perforaciÛn tenia previsto}
+{11016}{}{alrededor del globo. Seg√∫n el Presidente chino Xin, su}
+{11017}{}{proyecto de plataforma de perforaci√≥n tenia previsto}
 {11018}{}{completarse meses antes que el proyecto americano. No}
-{11019}{}{obstante, la plataforma china sufriÛ una cadena de des-}
+{11019}{}{obstante, la plataforma china sufri√≥ una cadena de des-}
 {11020}{}{graciados accidentes que demoraron su proyecto signifi-}
-{11021}{}{cativamente. TambiÈn comentÛ que tenia pruebas definiti-}
-{11022}{}{vas de que los EEUU habÌan estado detr·s del sabotaje}
-{11023}{}{de sus plataformas petrolÌferas y solicitÛ formalmente}
-{11024}{}{que se designe un comitÈ internacional para investigarlo.}
+{11021}{}{cativamente. Tambi√©n coment√≥ que tenia pruebas definiti-}
+{11022}{}{vas de que los EEUU hab√≠an estado detr√°s del sabotaje}
+{11023}{}{de sus plataformas petrol√≠feras y solicit√≥ formalmente}
+{11024}{}{que se designe un comit√© internacional para investigarlo.}
 {11025}{}{**END-PAR**}
 {11026}{}{En otro orden de cosas, motines y disturbios sacuden la}
-{11027}{}{naciÛn mientras el precio del crudo sube vertiginosamente}
-{11028}{}{hasta cotas histÛricas. Los rÈcords se han superado y el}
-{11029}{}{precio del gas rebasÛ el cambio actual del lingote de oro.}
+{11027}{}{naci√≥n mientras el precio del crudo sube vertiginosamente}
+{11028}{}{hasta cotas hist√≥ricas. Los r√©cords se han superado y el}
+{11029}{}{precio del gas rebas√≥ el cambio actual del lingote de oro.}
 {11030}{}{**END-PAR**}
-{11031}{}{AquÌ en casa, las temperaturas invernales son de 37 a}
-{11032}{}{42∫C de frÌo con descensos que alcanzar·n unos helados}
-{11033}{}{32∫C a lo largo de la costa. °AbrÌguense hoy!}
+{11031}{}{Aqu√≠ en casa, las temperaturas invernales son de 37 a}
+{11032}{}{42¬∫C de fr√≠o con descensos que alcanzar√°n unos helados}
+{11033}{}{32¬∫C a lo largo de la costa. ¬°Abr√≠guense hoy!}
 {11034}{}{**END-PAR**}
 {11035}{}{Galaxy News Network}
-{11036}{}{TranscripciÛn de EmisiÛn, 24 de Junio de 2074}
+{11036}{}{Transcripci√≥n de Emisi√≥n, 24 de Junio de 2074}
 {11037}{}{Las negociaciones entre los EEUU y otras potencias mun-}
-{11038}{}{diales han llegado a un final dram·tico, con el Presidente}
-{11039}{}{abandonando las conversaciones del crudo con las dem·s}
+{11038}{}{diales han llegado a un final dram√°tico, con el Presidente}
+{11039}{}{abandonando las conversaciones del crudo con las dem√°s}
 {11040}{}{potencias. Tras un acalorado debate, el Presidente inte-}
-{11041}{}{rrumpiÛ el encuentro y declarÛ que las ˙ltimas reservas}
-{11042}{}{conocidas de crudo ser·n usadas exclusivamente por los}
-{11043}{}{EEUU y que no vender·n o comerciar·n con ning˙n gobier-}
-{11044}{}{no. Las amenazas de sanciÛn de la ONU fueron in˙tiles.}
+{11041}{}{rrumpi√≥ el encuentro y declar√≥ que las √∫ltimas reservas}
+{11042}{}{conocidas de crudo ser√°n usadas exclusivamente por los}
+{11043}{}{EEUU y que no vender√°n o comerciar√°n con ning√∫n gobier-}
+{11044}{}{no. Las amenazas de sanci√≥n de la ONU fueron in√∫tiles.}
 {11045}{}{**END-PAR**}
 {11046}{}{La industria se para a lo largo del globo debido ya que las}
-{11047}{}{reservas de crudo est·n agotadas. Sin embargo, los gri-}
-{11048}{}{tos de desesperaciÛn no han sido desoÌdos, y las ex-}
+{11047}{}{reservas de crudo est√°n agotadas. Sin embargo, los gri-}
+{11048}{}{tos de desesperaci√≥n no han sido deso√≠dos, y las ex-}
 {11049}{}{portaciones de los EEUU se han incrementado un 20% a}
-{11050}{}{pesar de las sanciones de la ONU. La economÌa americana}
+{11050}{}{pesar de las sanciones de la ONU. La econom√≠a americana}
 {11051}{}{alcanza su mayor crecimiento desde la era Reagan.}
 {11052}{}{**END-PAR**}
 {11053}{}{Galaxy News Network}
-{11054}{}{TranscripciÛn de EmisiÛn, 14 de Febrero de 2075}
-{11055}{}{Hoy se ha hecho historia al ser Canad·, por demanda}
+{11054}{}{Transcripci√≥n de Emisi√≥n, 14 de Febrero de 2075}
+{11055}{}{Hoy se ha hecho historia al ser Canad√°, por demanda}
 {11056}{}{popular de sus ciudadanos, anexionada por los EEUU.}
-{11057}{}{El Presidente dijo textualmente, "Canad· es uno de los}
+{11057}{}{El Presidente dijo textualmente, "Canad√° es uno de los}
 {11058}{}{mayores recursos mundiales de jugadores de hockey y}
-{11059}{}{ser·n bienvenidos a los EEUU". En compensaciÛn,}
-{11060}{}{Canad· recibir· el 10% de las restantes reservas}
+{11059}{}{ser√°n bienvenidos a los EEUU". En compensaci√≥n,}
+{11060}{}{Canad√° recibir√° el 10% de las restantes reservas}
 {11061}{}{mundiales de crudo, controladas exclusivamente por los}
-{11062}{}{EEUU, asÌ como un 50% de reducciÛn en impuestos ya que }
-{11063}{}{ahora est·n bajo las leyes tributarias americanas.}
+{11062}{}{EEUU, as√≠ como un 50% de reducci√≥n en impuestos ya que }
+{11063}{}{ahora est√°n bajo las leyes tributarias americanas.}
 {11064}{}{**END-PAR**}
 {11065}{}{En deportes, hoy los Little Rock Saints y los Anaheim}
 {11066}{}{Jets se enfrentaron en la CXII Super Bowl. Fue un duelo}
-{11067}{}{vibrante, pero J. Montana IV culminÛ magistralmente el}
-{11068}{}{partido corriendo con la pelota desde la lÌnea de 5 yardas}
+{11067}{}{vibrante, pero J. Montana IV culmin√≥ magistralmente el}
+{11068}{}{partido corriendo con la pelota desde la l√≠nea de 5 yardas}
 {11069}{}{para marcar el touchdown ganador durante los segundos}
 {11070}{}{finales del partido. El marcador final fue 90-95. Los}
 {11071}{}{Anaheim Jets ganan la CXII Super Bowl.}
 {11072}{}{**END-PAR**}
 {11073}{}{Galaxy News Network}
-{11074}{}{TranscripciÛn de EmisiÛn, 15 de Febrero de 2075}
-{11075}{}{En una imponente muestra de unanimidad, la C·mara de}
+{11074}{}{Transcripci√≥n de Emisi√≥n, 15 de Febrero de 2075}
+{11075}{}{En una imponente muestra de unanimidad, la C√°mara de}
 {11076}{}{Representantes y el Congreso votaron el cese del Pre-}
 {11077}{}{sidente por cruzar la calle en rojo. Declararon que el}
-{11078}{}{Presidente no est· por encima de la ley y deberÌa saber}
+{11078}{}{Presidente no est√° por encima de la ley y deber√≠a saber}
 {11079}{}{mejor que nadie que no se puede cruzar en rojo. Se ha}
-{11080}{}{negado relaciÛn alguna con la reciente anexiÛn de Canad·.}
+{11080}{}{negado relaci√≥n alguna con la reciente anexi√≥n de Canad√°.}
 {11081}{}{**END-PAR**}
 {11082}{}{Galaxy News Network}
-{11083}{}{TranscripciÛn de EmisiÛn, 30 de Marzo de 2076}
-{11084}{}{Hoy, el Presidente ha ordenado a la Flota del PacÌfico}
-{11085}{}{avanzar hacia la torre petrolÌfera Poseidon situada en}
-{11086}{}{un lugar secreto del ocÈano. Ha mostrado su preocupa-}
-{11087}{}{ciÛn por las maniobras militares chinas, "inaceptables}
-{11088}{}{tan cerca de nuestras reservas estratÈgicas de crudo".}
+{11083}{}{Transcripci√≥n de Emisi√≥n, 30 de Marzo de 2076}
+{11084}{}{Hoy, el Presidente ha ordenado a la Flota del Pac√≠fico}
+{11085}{}{avanzar hacia la torre petrol√≠fera Poseidon situada en}
+{11086}{}{un lugar secreto del oc√©ano. Ha mostrado su preocupa-}
+{11087}{}{ci√≥n por las maniobras militares chinas, "inaceptables}
+{11088}{}{tan cerca de nuestras reservas estrat√©gicas de crudo".}
 {11089}{}{El gobierno chino ha negado tener intenciones hostiles.}
 {11090}{}{**END-PAR**}
 {11091}{}{Una reciente encuesta sugiere que el 54% de los espec-}
-{11092}{}{tadores de GNN cree que el Presidente est· usando}
-{11093}{}{Èsto como t·ctica de despiste para desviar la mirada de}
-{11094}{}{la opiniÛn p˙blica del reciente esc·ndalo de sus rela-}
-{11095}{}{ciones sexuales con personal de su campaÒa. La encuesta}
-{11096}{}{tambiÈn sugiere que al 70% no le importa esas relacio-}
-{11097}{}{nes y se muestran felices de cÛmo el Presidente est·}
-{11098}{}{llevando el paÌs. Un 60% tambiÈn piensa que deberÌa man-}
-{11099}{}{tenerlas si ello le ayuda a dirigir bien al paÌs.}
+{11092}{}{tadores de GNN cree que el Presidente est√° usando}
+{11093}{}{√©sto como t√°ctica de despiste para desviar la mirada de}
+{11094}{}{la opini√≥n p√∫blica del reciente esc√°ndalo de sus rela-}
+{11095}{}{ciones sexuales con personal de su campa√±a. La encuesta}
+{11096}{}{tambi√©n sugiere que al 70% no le importa esas relacio-}
+{11097}{}{nes y se muestran felices de c√≥mo el Presidente est√°}
+{11098}{}{llevando el pa√≠s. Un 60% tambi√©n piensa que deber√≠a man-}
+{11099}{}{tenerlas si ello le ayuda a dirigir bien al pa√≠s.}
 {11100}{}{**END-PAR**}
 {11101}{}{Galaxy News Network}
-{11102}{}{TranscripciÛn de EmisiÛn 10 de Octubre de 2077}
-{11103}{}{°GUERRA! °El estado de guerra ha sido declarado despuÈs}
-{11104}{}{de que China haya invadido los EEUU a travÈs de Alaska!}
-{11105}{}{El Consejo de la ONU ha desoÌdo las protestas de EEUU}
-{11106}{}{y prefiriÛ ignorar este evidente acto de agresiÛn. El}
+{11102}{}{Transcripci√≥n de Emisi√≥n 10 de Octubre de 2077}
+{11103}{}{¬°GUERRA! ¬°El estado de guerra ha sido declarado despu√©s}
+{11104}{}{de que China haya invadido los EEUU a trav√©s de Alaska!}
+{11105}{}{El Consejo de la ONU ha deso√≠do las protestas de EEUU}
+{11106}{}{y prefiri√≥ ignorar este evidente acto de agresi√≥n. El}
 {11107}{}{Presidente de los EEUU TE RECLAMA para ayudar a}
-{11108}{}{defender nuestro paÌs contra quienes quieren daÒarlo.}
+{11108}{}{defender nuestro pa√≠s contra quienes quieren da√±arlo.}
 {11109}{}{Debes dirigirte a tu oficina de reclutamiento local y unir-}
-{11110}{}{te a las fuerzas armadas. °El TÌo Sam te NECESITA! Por}
-{11111}{}{la Justicia, la Libertad y el pastel de manzana de Mam·.}
+{11110}{}{te a las fuerzas armadas. ¬°El T√≠o Sam te NECESITA! Por}
+{11111}{}{la Justicia, la Libertad y el pastel de manzana de Mam√°.}
 {11112}{}{**END-PAR**}
 {11113}{}{Galaxy News Network}
-{11114}{}{TranscripciÛn de EmisiÛn 22 de Octubre de 2077}
-{11115}{}{Gracias al bravo espÌritu de nuestras fuerzas armadas y}
+{11114}{}{Transcripci√≥n de Emisi√≥n 22 de Octubre de 2077}
+{11115}{}{Gracias al bravo esp√≠ritu de nuestras fuerzas armadas y}
 {11116}{}{a nuestras recientemente desarrolladas Servoarmaduras,}
 {11117}{}{las fuerzas de los EEUU empujan a los invasores chinos}
 {11118}{}{fuera de Alaska. Mermados por la falta de combustible,}
-{11119}{}{los invasores chinos retroceden hacia su capital, PekÌn.}
+{11119}{}{los invasores chinos retroceden hacia su capital, Pek√≠n.}
 {11120}{}{**END-DISK**}
-{12000}{}{°Bienvenido!}
-{12001}{}{°Bienvenido al Holodisco de la HubologÌa! A travÈs de}
-{12002}{}{estas p·ginas electrÛnicas, usted encontrar· una breve}
-{12003}{}{descripciÛn de nuestras creencias, incluyendo las}
-{12004}{}{enseÒanzas de Hub. Este holodisco no intenta ser la}
-{12005}{}{˙ltima palabra en HubologÌa. ConsidÈrelo como un manual,}
+{12000}{}{¬°Bienvenido!}
+{12001}{}{¬°Bienvenido al Holodisco de la Hubolog√≠a! A trav√©s de}
+{12002}{}{estas p√°ginas electr√≥nicas, usted encontrar√° una breve}
+{12003}{}{descripci√≥n de nuestras creencias, incluyendo las}
+{12004}{}{ense√±anzas de Hub. Este holodisco no intenta ser la}
+{12005}{}{√∫ltima palabra en Hubolog√≠a. Consid√©relo como un manual,}
 {12006}{}{y a nosotros como sus guardianes espirituales.}
 {12007}{}{**END-PAR**}
 {12008}{}{MENU PRINCIPAL}
 {12009}{}{Historia}
-{12010}{}{FilosofÌa}
-{12011}{}{Breve Glosario de TÈrminos}
-{12012}{}{BibliografÌa HubolÛgica}
+{12010}{}{Filosof√≠a}
+{12011}{}{Breve Glosario de T√©rminos}
+{12012}{}{Bibliograf√≠a Hubol√≥gica}
 {12013}{}{**END-PAR**}
 {12014}{}{HISTORIA}
-{12015}{}{Fuimos fundamos aÒos antes del Gran Diluvio, por un}
-{12016}{}{autor y visionario de gran Èxito, un hombre llamado Dick}
-{12017}{}{Hubbell. …l vio el fracaso de la medicina de entonces, el}
-{12018}{}{fracaso de la religiÛn, y el fracaso de los Gobiernos. Sa-}
-{12019}{}{bÌa que el mundo necesitaba algo nuevo... el mundo nece-}
-{12020}{}{sitaba HubologÌa. Inspirado por la m˙sica del momento y}
+{12015}{}{Fuimos fundamos a√±os antes del Gran Diluvio, por un}
+{12016}{}{autor y visionario de gran √©xito, un hombre llamado Dick}
+{12017}{}{Hubbell. √âl vio el fracaso de la medicina de entonces, el}
+{12018}{}{fracaso de la religi√≥n, y el fracaso de los Gobiernos. Sa-}
+{12019}{}{b√≠a que el mundo necesitaba algo nuevo... el mundo nece-}
+{12020}{}{sitaba Hubolog√≠a. Inspirado por la m√∫sica del momento y}
 {12021}{}{su propia experiencia personal con seres extraterres-}
 {12022}{}{tres, se propuso mostrarnos las ruedas del cielo, man-}
 {12023}{}{tenerlas calientes, y entender la Gran Rueda de la Vida.}
 {12024}{}{**END-PAR**}
-{12025}{}{Nosotros lo llamamos Hub, el Eje, porque a travÈs de}
-{12026}{}{Èl entendemos nuestro sitio en la rueda: Èl es nuestro}
+{12025}{}{Nosotros lo llamamos Hub, el Eje, porque a trav√©s de}
+{12026}{}{√©l entendemos nuestro sitio en la rueda: √©l es nuestro}
 {12027}{}{centro, y nosotros somos sus radios. Es en su ense-}
-{12028}{}{Òanza sobre la que giramos.}
+{12028}{}{√±anza sobre la que giramos.}
 {12029}{}{**END-PAR**}
-{12030}{}{Con la divulgaciÛn de incontables libros y publicaciones,}
-{12031}{}{Hub comenzÛ a propagar la palabra de la HubologÌa e in-}
+{12030}{}{Con la divulgaci√≥n de incontables libros y publicaciones,}
+{12031}{}{Hub comenz√≥ a propagar la palabra de la Hubolog√≠a e in-}
 {12032}{}{mediatamente fue objetivo de sus detractores. La lla-}
 {12033}{}{maron "pseudo-ciencia" y "peligrosa secta". A pesar}
 {12034}{}{de las pruebas de avistamientos y contactos con OVNIS}
 {12035}{}{a lo largo del globo, insistieron en criminalizar la pa-}
-{12036}{}{labra de Hub. Sabemos que sÛlo eran est˙pidos y esta-}
-{12037}{}{ban mal encaminados, pero eran muy poderosos; incluÌan}
+{12036}{}{labra de Hub. Sabemos que s√≥lo eran est√∫pidos y esta-}
+{12037}{}{ban mal encaminados, pero eran muy poderosos; inclu√≠an}
 {12038}{}{Gobiernos, corporaciones y otras entidades, que ocul-}
-{12039}{}{taron a la gente la noticia m·s importante de todos los}
+{12039}{}{taron a la gente la noticia m√°s importante de todos los}
 {12040}{}{tiempos.}
 {12041}{}{**END-PAR**}
-{12042}{}{Por un tiempo, la HubologÌa se moviÛ clandestinamente,}
+{12042}{}{Por un tiempo, la Hubolog√≠a se movi√≥ clandestinamente,}
 {12043}{}{movilizando sus fuerzas contra los ataques de aquellos}
 {12044}{}{que envidiaban su simpleza y facilidad de uso para el}
 {12045}{}{hombre de a pie. Cuando al fin, los hubologistas del mo-}
@@ -516,220 +516,220 @@
 {12048}{}{anhelaban destruirnos y creamos "shows" televisivos que}
 {12049}{}{buscaban mostrar a la gente las mentiras del Gobierno.}
 {12050}{}{**END-PAR**}
-{12051}{}{Esto provocÛ una astuta reacciÛn contra nuestra fe. La}
-{12052}{}{gente encontrÛ razones para dudar de la HubologÌa por}
+{12051}{}{Esto provoc√≥ una astuta reacci√≥n contra nuestra fe. La}
+{12052}{}{gente encontr√≥ razones para dudar de la Hubolog√≠a por}
 {12053}{}{las noticias distorsionadas de los medios, y tuvimos que}
-{12054}{}{costear una gran campaÒa contra los que nos llamaban}
-{12055}{}{chiflados. Entonces, tristemente, el gran Hub falleciÛ.}
+{12054}{}{costear una gran campa√±a contra los que nos llamaban}
+{12055}{}{chiflados. Entonces, tristemente, el gran Hub falleci√≥.}
 {12056}{}{**END-PAR**}
-{12057}{}{Reforzados por el conocimiento de que Hub habÌa logrado}
+{12057}{}{Reforzados por el conocimiento de que Hub hab√≠a logrado}
 {12058}{}{la unidad con el Padre Estelar, ayudando a alinear la}
-{12059}{}{rueda cÛsmica en nuestra direcciÛn, y alcanzando otro}
+{12059}{}{rueda c√≥smica en nuestra direcci√≥n, y alcanzando otro}
 {12060}{}{nivel de consciencia, nos fuimos concienciando de que el}
 {12061}{}{nuestro era el buen camino. Durante el proceso, ganamos}
-{12062}{}{adeptos. La mayorÌa de ellos simplemente deseaban creer}
-{12063}{}{que habÌa un lugar exterior que era mejor que este mun-}
+{12062}{}{adeptos. La mayor√≠a de ellos simplemente deseaban creer}
+{12063}{}{que hab√≠a un lugar exterior que era mejor que este mun-}
 {12064}{}{do. Ofrecimos pruebas de vida en otros planetas, y una}
-{12065}{}{filosofÌa que nos permitiÛ entender el funcionamiento del}
+{12065}{}{filosof√≠a que nos permiti√≥ entender el funcionamiento del}
 {12066}{}{universo. La gente de todas las edades vino a nosotros}
 {12067}{}{impresionada por lo justo de nuestros pensamientos.}
-{12068}{}{°Y el hecho de que hayamos sobrevivido al Gran Diluvio}
-{12069}{}{ilesos, nos mostrÛ que la Gran Rueda se orientaba}
-{12070}{}{en la direcciÛn de nuestras enseÒanzas!}
+{12068}{}{¬°Y el hecho de que hayamos sobrevivido al Gran Diluvio}
+{12069}{}{ilesos, nos mostr√≥ que la Gran Rueda se orientaba}
+{12070}{}{en la direcci√≥n de nuestras ense√±anzas!}
 {12071}{}{**END-PAR**}
-{12072}{}{FILOSOFÕA}
-{12073}{}{La HubologÌa contiene una filosofÌa sencilla, sacada de}
-{12074}{}{los m·s sutiles pensamientos religiosos y filosÛficos de}
-{12075}{}{la Tierra pre-Dil˙vica: creemos que la vida, el universo,}
+{12072}{}{FILOSOF√çA}
+{12073}{}{La Hubolog√≠a contiene una filosof√≠a sencilla, sacada de}
+{12074}{}{los m√°s sutiles pensamientos religiosos y filos√≥ficos de}
+{12075}{}{la Tierra pre-Dil√∫vica: creemos que la vida, el universo,}
 {12076}{}{todo, puede ser simbolizado por una rueda que gira. El}
 {12077}{}{borde exterior de la rueda contiene a aquellos que no}
-{12078}{}{entienden nuestras enseÒanzas y quienes no entienden}
+{12078}{}{entienden nuestras ense√±anzas y quienes no entienden}
 {12079}{}{la verdad. Los llamamos "Carne del Anillo", porque la}
 {12080}{}{Rueda gira sobre ellos y los desgasta, y no aprecian}
-{12081}{}{sus enseÒanzas.}
+{12081}{}{sus ense√±anzas.}
 {12082}{}{**END-PAR**}
-{12083}{}{Quienes practican HubologÌa son los Radios de la Rueda.}
+{12083}{}{Quienes practican Hubolog√≠a son los Radios de la Rueda.}
 {12084}{}{Entendemos el movimiento de la Rueda y hacemos lo me-}
 {12085}{}{jor para facilitar su giro. Los que controlan una parte}
 {12086}{}{de la Rueda son llamados Ejes: por lo que sabemos, hay}
 {12087}{}{solo unos pocos Ejes, individuos ilustrados que anhelan}
 {12088}{}{mejorar a miles de sus camaradas terrestres. Nos}
-{12089}{}{referimos al fundador de la HubologÌa como Hub, porque}
-{12090}{}{Èl es el poseedor de la doctrina m·s correcta.}
+{12089}{}{referimos al fundador de la Hubolog√≠a como Hub, porque}
+{12090}{}{√©l es el poseedor de la doctrina m√°s correcta.}
 {12091}{}{**END-PAR**}
-{12092}{}{En la pr·ctica de nuestra religiÛn, simplemente aplicamos}
-{12093}{}{tÈcnicas cientÌficas desarrolladas por Hub y perfeccio-}
+{12092}{}{En la pr√°ctica de nuestra religi√≥n, simplemente aplicamos}
+{12093}{}{t√©cnicas cient√≠ficas desarrolladas por Hub y perfeccio-}
 {12094}{}{nadas por sus herederos para alinear las neurodinas de-}
-{12095}{}{fectuosas que crean desharmonÌas y una rueda asimÈ-}
+{12095}{}{fectuosas que crean desharmon√≠as y una rueda asim√©-}
 {12096}{}{trica. Esto nos permite purificarnos y prepararnos para}
-{12097}{}{el auto-examen. SÛlo con el auto-examen podremos tri-}
-{12098}{}{unfar y sÛlo con el auto-examen comprendemos nuestro}
-{12099}{}{lugar en el cosmos y en la Gran Rueda. SÛlo con el auto-}
+{12097}{}{el auto-examen. S√≥lo con el auto-examen podremos tri-}
+{12098}{}{unfar y s√≥lo con el auto-examen comprendemos nuestro}
+{12099}{}{lugar en el cosmos y en la Gran Rueda. S√≥lo con el auto-}
 {12100}{}{examen podemos conocernos a nosotros mismos para}
 {12101}{}{ser dignos de subir a bordo de los platillos llameantes}
 {12102}{}{cuando nos lleven al encuentro del planeta Quetzel.}
 {12103}{}{**END-PAR**}
-{12104}{}{Nos consideramos como una religiÛn combinada con lo}
-{12105}{}{mejor de la tÈcnica cientÌfica: espiritualidad cientÌfica}
-{12106}{}{la llamamos... °y esperamos que t˙ tambiÈn la llames asÌ}
-{12107}{}{lo m·s pronto posible!}
+{12104}{}{Nos consideramos como una religi√≥n combinada con lo}
+{12105}{}{mejor de la t√©cnica cient√≠fica: espiritualidad cient√≠fica}
+{12106}{}{la llamamos... ¬°y esperamos que t√∫ tambi√©n la llames as√≠}
+{12107}{}{lo m√°s pronto posible!}
 {12108}{}{**END-PAR**}
-{12109}{}{Esta es nuestra historia de la creaciÛn: Hace eones,}
-{12110}{}{todos vivÌan en paz y armonÌa. Cuerpo, mente y espÌri-}
+{12109}{}{Esta es nuestra historia de la creaci√≥n: Hace eones,}
+{12110}{}{todos viv√≠an en paz y armon√≠a. Cuerpo, mente y esp√≠ri-}
 {12111}{}{tu participaban en equilibrio en todas las criaturas,}
-{12112}{}{y la tecnologÌa existente abrumaba la imaginaciÛn. Fue}
-{12113}{}{un tiempo de paz, creatividad y alineaciÛn, pero enton-}
-{12114}{}{ces llegaron los DÌas Oscuros. Thrakazog el 'Bache'}
-{12115}{}{empezÛ a enseÒar el dualismo cuerpo-mente y la sepa-}
-{12116}{}{raciÛn del espÌritu, y la guerra surgiÛ. La Gran Guerra}
-{12117}{}{destruyÛ almas y cuerpos y esparciÛ sus restos por el}
-{12118}{}{universo. La Gran Rueda apareciÛ junto con la separa-}
-{12119}{}{ciÛn del eje de la existencia, rompiendo sus radios la}
-{12120}{}{senda que Thrakazog creÛ. Empezaba una nueva vida.}
+{12112}{}{y la tecnolog√≠a existente abrumaba la imaginaci√≥n. Fue}
+{12113}{}{un tiempo de paz, creatividad y alineaci√≥n, pero enton-}
+{12114}{}{ces llegaron los D√≠as Oscuros. Thrakazog el 'Bache'}
+{12115}{}{empez√≥ a ense√±ar el dualismo cuerpo-mente y la sepa-}
+{12116}{}{raci√≥n del esp√≠ritu, y la guerra surgi√≥. La Gran Guerra}
+{12117}{}{destruy√≥ almas y cuerpos y esparci√≥ sus restos por el}
+{12118}{}{universo. La Gran Rueda apareci√≥ junto con la separa-}
+{12119}{}{ci√≥n del eje de la existencia, rompiendo sus radios la}
+{12120}{}{senda que Thrakazog cre√≥. Empezaba una nueva vida.}
 {12121}{}{**END-PAR**}
-{12122}{}{Y empezÛ en la Tierra, asÌ como en otros planetas del}
+{12122}{}{Y empez√≥ en la Tierra, as√≠ como en otros planetas del}
 {12123}{}{universo (Nos centramos sobretodo en la Tierra porque}
 {12124}{}{creemos que para reparar de nuevo los radios separados}
 {12125}{}{de la Rueda de nuestros hermanos estelares, debemos}
-{12126}{}{primero concentrarnos en crear radios ˙tiles). Esta}
+{12126}{}{primero concentrarnos en crear radios √∫tiles). Esta}
 {12127}{}{nueva vida fue corrompida por los restos del alma de}
-{12128}{}{los muertos. LlevÛ al odio y al desacuerdo y las gue-}
+{12128}{}{los muertos. Llev√≥ al odio y al desacuerdo y las gue-}
 {12129}{}{rras se propagaron por la superficie de la Tierra hasta}
-{12130}{}{que un dÌa un visionario se dio cuenta de que la forma}
-{12131}{}{de conseguir la paz, el acuerdo y la iluminaciÛn era pu-}
-{12132}{}{rificar las partes del alma de los espÌritus de la humani-}
-{12133}{}{dad. Ese visionario era Hub. Su purificaciÛn contin˙a hoy.}
+{12130}{}{que un d√≠a un visionario se dio cuenta de que la forma}
+{12131}{}{de conseguir la paz, el acuerdo y la iluminaci√≥n era pu-}
+{12132}{}{rificar las partes del alma de los esp√≠ritus de la humani-}
+{12133}{}{dad. Ese visionario era Hub. Su purificaci√≥n contin√∫a hoy.}
 {12134}{}{**END-PAR**}
 {12135}{}{BREVE GLOSARIO}
-{12136}{}{Buscador Alineado del Eje/AHS: Los niveles de alineaciÛn}
+{12136}{}{Buscador Alineado del Eje/AHS: Los niveles de alineaci√≥n}
 {12137}{}{son medidos por la pureza de tus neurodinas, vaciando}
-{12138}{}{la energÌa base negativa de tu carne y convirtiÈndola en}
-{12139}{}{energÌa mental positiva. Cuando consigas un nivel lo}
-{12140}{}{bastante fuerte de energÌa Zeta, podr·s viajar a}
-{12141}{}{Quetzel, o podr·s quedarte esperando a que la Ilumina-}
-{12142}{}{ciÛn lleguÈ a lo largo de tu vida.}
+{12138}{}{la energ√≠a base negativa de tu carne y convirti√©ndola en}
+{12139}{}{energ√≠a mental positiva. Cuando consigas un nivel lo}
+{12140}{}{bastante fuerte de energ√≠a Zeta, podr√°s viajar a}
+{12141}{}{Quetzel, o podr√°s quedarte esperando a que la Ilumina-}
+{12142}{}{ci√≥n llegu√© a lo largo de tu vida.}
 {12143}{}{**END-PAR**}
-{12144}{}{AlineaciÛn: Cuando una neurodina se corrompe y hace que}
+{12144}{}{Alineaci√≥n: Cuando una neurodina se corrompe y hace que}
 {12145}{}{los niveles Zeta del buscador bajen, "alineamos" los ni-}
-{12146}{}{veles a la Rueda universal con una exploraciÛn Zeta en}
-{12147}{}{la neurodina afectada, limpi·ndola de corrupciÛn. Pero}
-{12148}{}{una alineaciÛn muy r·pida es daÒina para el espÌritu.}
+{12146}{}{veles a la Rueda universal con una exploraci√≥n Zeta en}
+{12147}{}{la neurodina afectada, limpi√°ndola de corrupci√≥n. Pero}
+{12148}{}{una alineaci√≥n muy r√°pida es da√±ina para el esp√≠ritu.}
 {12149}{}{**END-PAR**}
-{12150}{}{IluminaciÛn: IluminaciÛn es el estado logrado pasado el}
+{12150}{}{Iluminaci√≥n: Iluminaci√≥n es el estado logrado pasado el}
 {12151}{}{AHS-9. Cuando el Buscador consigue mucho conocimiento,}
 {12152}{}{llega a ser una parte integral de la Gran Rueda y}
 {12153}{}{abandona esta existencia terrenal. Algunos de los}
 {12154}{}{Iluminados permanecen en la Tierra para guiar al resto}
 {12155}{}{de nosotros hasta el estado de gracia, y mostrarnos}
-{12156}{}{cÛmo mantenernos en la Rueda.}
+{12156}{}{c√≥mo mantenernos en la Rueda.}
 {12157}{}{**END-PAR**}
-{12158}{}{Gran Rueda: se refiere a la naturaleza cÌclica del uni-}
+{12158}{}{Gran Rueda: se refiere a la naturaleza c√≠clica del uni-}
 {12159}{}{verso, el espacio y el tiempo. Todo es parte de la Gran}
 {12160}{}{Rueda. Algunos pueden tomar el control de la Rueda (o}
-{12161}{}{quiz·s simplemente entienden la direcciÛn en la que}
+{12161}{}{quiz√°s simplemente entienden la direcci√≥n en la que}
 {12162}{}{gira) y nosotros los llamamos dioses, profetas, y vi-}
 {12163}{}{sionarios. Aquellos que dirigen la Gran Rueda son}
 {12164}{}{en verdad iluminados.}
 {12165}{}{**END-PAR**}
-{12166}{}{Neurodina: Neurodinas son los estados del espÌritu. }
+{12166}{}{Neurodina: Neurodinas son los estados del esp√≠ritu. }
 {12167}{}{Las religiones antiguas los llamaban "chakras". Pueden}
-{12168}{}{ser corrompidas por partes del alma y la energÌa ne-}
+{12168}{}{ser corrompidas por partes del alma y la energ√≠a ne-}
 {12169}{}{gativa que emana de los opresivos.}
 {12170}{}{**END-PAR**}
-{12171}{}{Opresivos: Opresivos son aquellos individuos que est·n}
-{12172}{}{llenos de energÌa negativa y partes del alma corrompidas,}
-{12173}{}{que arrastran a aquellos que buscan la iluminaciÛn. Deben}
-{12174}{}{ser evitados: la mayorÌa de ellos est·n tan corrompidos}
+{12171}{}{Opresivos: Opresivos son aquellos individuos que est√°n}
+{12172}{}{llenos de energ√≠a negativa y partes del alma corrompidas,}
+{12173}{}{que arrastran a aquellos que buscan la iluminaci√≥n. Deben}
+{12174}{}{ser evitados: la mayor√≠a de ellos est√°n tan corrompidos}
 {12175}{}{que no reconocen la importancia de poder tener una}
-{12176}{}{buena purificaciÛn, y ponen todo su empeÒo para invertir}
+{12176}{}{buena purificaci√≥n, y ponen todo su empe√±o para invertir}
 {12177}{}{el curso de la Gran Rueda.}
 {12178}{}{**END-PAR**}
-{12179}{}{Quetzel: El planeta al que el Padre Estelar nos llevar·}
+{12179}{}{Quetzel: El planeta al que el Padre Estelar nos llevar√°}
 {12180}{}{cuando consigamos ser optimizados, cuando nos encon-}
 {12181}{}{tremos con nuestro hermano llameante y podamos unir-}
 {12182}{}{nos a sus ruedas ardientes en el cielo.}
 {12183}{}{**END-PAR**}
-{12184}{}{Carne de Anillo: Una persona normal, que a˙n no ha sido}
+{12184}{}{Carne de Anillo: Una persona normal, que a√∫n no ha sido}
 {12185}{}{alineada para purificar sus neurodinas.}
 {12186}{}{**END-PAR**}
-{12187}{}{Padre Estelar: Algunos llamarÌan al Padre Estelar "Dios",}
+{12187}{}{Padre Estelar: Algunos llamar√≠an al Padre Estelar "Dios",}
 {12188}{}{nosotros preferimos decir que es la fuerza universal}
-{12189}{}{desde la cual exhalamos nuestra energÌa, y por la que}
-{12190}{}{vuelve a nosotros: de nuevo, una relaciÛn cÌclica.}
+{12189}{}{desde la cual exhalamos nuestra energ√≠a, y por la que}
+{12190}{}{vuelve a nosotros: de nuevo, una relaci√≥n c√≠clica.}
 {12191}{}{**END-PAR**}
-{12192}{}{ElevaciÛn: El momento en que el Padre Estelar nos llame al}
+{12192}{}{Elevaci√≥n: El momento en que el Padre Estelar nos llame al}
 {12193}{}{hogar, Quetzel, donde hallaremos a nuestros hermanos}
 {12194}{}{extraterrestres y nos pondremos cerca del centro de la}
 {12195}{}{Gran Rueda. Los que hayan hecho un esfuerzo para}
 {12196}{}{entender y adoptar las palabras de Hub, independiente-}
-{12197}{}{mente de su nivel AHS, ser·n invitados a unirse al Padre}
+{12197}{}{mente de su nivel AHS, ser√°n invitados a unirse al Padre}
 {12198}{}{Estelar en los cielos del planeta Quetzel.}
 {12199}{}{**END-PAR**}
-{12200}{}{ExploraciÛn Zeta: Otra palabra para "alineamiento", la}
-{12201}{}{ExploraciÛn Zeta ayuda a purificar nuestras neurodinas y}
-{12202}{}{a purgar el espÌritu. Consiste en una m·quina que aplica}
+{12200}{}{Exploraci√≥n Zeta: Otra palabra para "alineamiento", la}
+{12201}{}{Exploraci√≥n Zeta ayuda a purificar nuestras neurodinas y}
+{12202}{}{a purgar el esp√≠ritu. Consiste en una m√°quina que aplica}
 {12203}{}{dosis masivas de electricidad por la piel (esta electri-}
-{12204}{}{cidad ha sido cuidadosamente calculada, al m·s mÌnimo vol-}
-{12205}{}{tio, para saber la cantidad de energÌa necesaria para re-}
-{12206}{}{conducir la energÌa negativa de una neurodina). Acep-}
-{12207}{}{tando una ExploraciÛn Zeta, su trayectoria se corrige}
-{12208}{}{para situarlo en lÌnea con el movimiento de la Rueda.}
+{12204}{}{cidad ha sido cuidadosamente calculada, al m√°s m√≠nimo vol-}
+{12205}{}{tio, para saber la cantidad de energ√≠a necesaria para re-}
+{12206}{}{conducir la energ√≠a negativa de una neurodina). Acep-}
+{12207}{}{tando una Exploraci√≥n Zeta, su trayectoria se corrige}
+{12208}{}{para situarlo en l√≠nea con el movimiento de la Rueda.}
 {12209}{}{**END-PAR**}
-{12210}{}{BIBLIOGRAFÕA}
+{12210}{}{BIBLIOGRAF√çA}
 {12211}{}{Libros de Hub}
-{12212}{}{(Hay cientos y cientos de libros listados aquÌ, incluyendo}
-{12213}{}{tÌtulos como: 'Espiritualidad cientÌfica',  'Campo de ba-}
+{12212}{}{(Hay cientos y cientos de libros listados aqu√≠, incluyendo}
+{12213}{}{t√≠tulos como: 'Espiritualidad cient√≠fica',  'Campo de ba-}
 {12214}{}{talla: Quetzel',  'Padre Estelar desde lo alto', 'Listas}
-{12215}{}{de compras',  'Notas y reflexiones',  'CÛmo demandar a}
-{12216}{}{tus enemigos eficazmente',  'CÛmo crear una secta', y }
-{12217}{}{'CÛmo traducir esto y sobrevivir en el intento'.)}
+{12215}{}{de compras',  'Notas y reflexiones',  'C√≥mo demandar a}
+{12216}{}{tus enemigos eficazmente',  'C√≥mo crear una secta', y }
+{12217}{}{'C√≥mo traducir esto y sobrevivir en el intento'.)}
 {12218}{}{**END-DISK**}
-{13000}{}{NOTAS DE DISE—O DE CIUDAD REFUGIO}
+{13000}{}{NOTAS DE DISE√ëO DE CIUDAD REFUGIO}
 {13001}{}{**END-PAR**}
-{13002}{}{Desarrollar Ciudad Refugio costÛ mucho esfuerzo. Fue}
-{13003}{}{diseÒada por Leonard Boyarsky, Jason Anderson,}
+{13002}{}{Desarrollar Ciudad Refugio cost√≥ mucho esfuerzo. Fue}
+{13003}{}{dise√±ada por Leonard Boyarsky, Jason Anderson,}
 {13004}{}{Feargus Urquhart y Chris Avellone. Scott Everts hizo}
 {13005}{}{el mapa, y los valientes que realizaron los scripts de}
-{13006}{}{este Frankenstein arquitectÛnico fueron Rob Hertenstein}
+{13006}{}{este Frankenstein arquitect√≥nico fueron Rob Hertenstein}
 {13007}{}{III y Dan Spitzley. Finalmente, Eric Pribish casi pierde la}
 {13008}{}{vida testeando la monstruosidad que es Ciudad Refugio.}
 {13009}{}{**END-PAR**}
 {13010}{}{Chris quiere agradecer a las siguientes personas que le}
-{13011}{}{ayudaron durante la producciÛn de Fallout 2: Rob,}
+{13011}{}{ayudaron durante la producci√≥n de Fallout 2: Rob,}
 {13012}{}{Scotty, Dan (por supuesto), Eileen Suh, Sarah Smart,}
 {13013}{}{Emily Yance, Thuy Dang (a la que nunca le agradezco}
 {13014}{}{nada), Chris Wright y Tim Winkle.}
 {13015}{}{**END-PAR**}
 {13016}{}{Scotty quiere dar las gracias a: Don, Aileen Everts y}
-{13017}{}{a Avis Andre. °Y gracias a Bill Bridges por todos los}
+{13017}{}{a Avis Andre. ¬°Y gracias a Bill Bridges por todos los}
 {13018}{}{libros de Soles Exhaustos!}
 {13019}{}{**END-PAR**}
 {13020}{}{Dan quiere dar las gracias a:}
-{13021}{}{Split Enz por su gran m˙sica, James Cameron por}
+{13021}{}{Split Enz por su gran m√∫sica, James Cameron por}
 {13022}{}{"Mentiras Arriesgadas", Joe Viskocil por sus geniales}
 {13023}{}{explosiones, Chong's en Triangle Square por alimentarme,}
-{13024}{}{Carlos Kotkin por dar el paso finalmente (ver·s la}
-{13025}{}{premiere de su primera pelÌcula cualquier dÌa de estos),}
+{13024}{}{Carlos Kotkin por dar el paso finalmente (ver√°s la}
+{13025}{}{premiere de su primera pel√≠cula cualquier d√≠a de estos),}
 {13026}{}{a Jon Land por las inusualmente entretenidas novelas}
 {13027}{}{de Blaine McCracken, a "Enano Rojo" por las risas y,}
-{13028}{}{como siempre, a Mam· y Pap· por ser tan buenos.}
+{13028}{}{como siempre, a Mam√° y Pap√° por ser tan buenos.}
 {13029}{}{**END-PAR**}
 {13030}{}{Rob Hertenstein agradece a las siguientes personas:}
-{13031}{}{Becky Warner (todavÌa tratando de alejarme de los pro-}
+{13031}{}{Becky Warner (todav√≠a tratando de alejarme de los pro-}
 {13032}{}{blemas), Billie Ryder (por mantenerme cuerdo a lo largo}
 {13033}{}{de este proyecto), Little Ryder (quien se supone que }
-{13034}{}{llegar· al mismo tiempo que el juego), y Nicole Roman}
-{13035}{}{(por estar ahÌ).}
+{13034}{}{llegar√° al mismo tiempo que el juego), y Nicole Roman}
+{13035}{}{(por estar ah√≠).}
 {13036}{}{**END-PAR**}
 {13037}{}{Eric Pribish da las gracias a las siguientes personas:}
 {13038}{}{Tommy Hood, Jr., Joe Isip y Julio Mata por no repudiarme}
 {13039}{}{cuando tuve que dejarlo en D&D. A mis viejos amigos}
 {13040}{}{Brad y Dave Carnes por mantenerse en contacto (to-}
-{13041}{}{dos estos aÒos). Finalmente, y lo m·s importante,}
+{13041}{}{dos estos a√±os). Finalmente, y lo m√°s importante,}
 {13042}{}{quiero agradecer a mi querida novia Rhonda Lauffer por}
 {13043}{}{entender todas esas largas noches y fines de semana}
-{13044}{}{cuando el trabajo me mantenÌa fuera y por estar siempre}
-{13045}{}{para mÌ cuando llegaba a casa.}
+{13044}{}{cuando el trabajo me manten√≠a fuera y por estar siempre}
+{13045}{}{para m√≠ cuando llegaba a casa.}
 {13046}{}{**END-PAR**}
 {13047}{}{Como recompensa por derrotar el Enclave, Chris, Scotty,}
 {13048}{}{Rob, Dan, y Eric quieren aprovechar esta oportunidad}
@@ -742,237 +742,237 @@
 {14000}{}{CUADERNO DE VIAJE DEL NORTE DE CALIFORNIA}
 {14001}{}{**END-PAR**}
 {14002}{}{AVISO: Si los Ciudadanos del Refugio creen necesario}
-{14003}{}{viajar al exterior de Ciudad Refugio, deberÌan conservar}
+{14003}{}{viajar al exterior de Ciudad Refugio, deber√≠an conservar}
 {14004}{}{los siguientes elementos entre sus pertenencias:}
 {14005}{}{}
 {14006}{}{1.Suministro de raciones en conserva de Ciudad Refugio.}
-{14007}{}{   °Nunca comas ning˙n alimento ofrecido por un extraÒo,}
-{14008}{}{   ya que introducirÌas partÌculas radiactivas o bacterias}
+{14007}{}{   ¬°Nunca comas ning√∫n alimento ofrecido por un extra√±o,}
+{14008}{}{   ya que introducir√≠as part√≠culas radiactivas o bacterias}
 {14009}{}{   tu sistema!}
 {14010}{}{}
-{14011}{}{2.Contador Geiger. °Aseg˙rate siempre de monitorizar los}
-{14012}{}{   niveles de radiaciÛn ambiental donde quiera que viajes!}
+{14011}{}{2.Contador Geiger. ¬°Aseg√∫rate siempre de monitorizar los}
+{14012}{}{   niveles de radiaci√≥n ambiental donde quiera que viajes!}
 {14013}{}{}
-{14014}{}{3.Al menos dos estimulantes a la vez. °El m·s ligero}
-{14015}{}{   corte o rasguÒo puede introducir bacterias daÒinas en}
+{14014}{}{3.Al menos dos estimulantes a la vez. ¬°El m√°s ligero}
+{14015}{}{   corte o rasgu√±o puede introducir bacterias da√±inas en}
 {14016}{}{   tu sistema!}
 {14017}{}{**END-PAR**}
-{14018}{}{REDDING: PequeÒa comunidad minera situada al Oeste de}
+{14018}{}{REDDING: Peque√±a comunidad minera situada al Oeste de}
 {14019}{}{Ciudad Refugio. Redding comercia mineral de oro a cambio}
-{14020}{}{de suministros mÈdicos de Ciudad Refugio. Todos los Ciu-}
+{14020}{}{de suministros m√©dicos de Ciudad Refugio. Todos los Ciu-}
 {14021}{}{dadanos del Refugio deben ser cuidadosos en extremo}
 {14022}{}{cuando viajen hasta Redding, ya que los mineros pro-}
-{14023}{}{vincianos no est·n muy rÌgidamente gobernados.}
+{14023}{}{vincianos no est√°n muy r√≠gidamente gobernados.}
 {14024}{}{}
-{14025}{}{POBLACI”N: No se cuenta con un censo, pero se cree que}
+{14025}{}{POBLACI√ìN: No se cuenta con un censo, pero se cree que}
 {14026}{}{Redding tiene cientos de residentes.}
 {14027}{}{GOBIERNO: Alcalde y Consejo de la Ciudad.}
-{14028}{}{ESTUDIOS DE RADIACI”N DE FONDO: Actualmente no}
-{14029}{}{hay lecturas de radiaciÛn disponibles.}
-{14030}{}{TASA DE MUTACI”N: Desconocida, se cree baja.}
+{14028}{}{ESTUDIOS DE RADIACI√ìN DE FONDO: Actualmente no}
+{14029}{}{hay lecturas de radiaci√≥n disponibles.}
+{14030}{}{TASA DE MUTACI√ìN: Desconocida, se cree baja.}
 {14031}{}{**END-PAR**}
 {14032}{}{NUEVO RENO: Ciudad al suroeste de Ciudad Refugio. Cam-}
-{14033}{}{bia mineral de oro por suministros mÈdicos de Ciudad}
-{14034}{}{Refugio. Reno sufriÛ un ligero daÒo estructural durante}
-{14035}{}{la guerra (aunque el saqueo y daÒos a la propiedad se}
-{14036}{}{han cobrado su peaje), asÌ que muchas calles y edificios}
-{14037}{}{permanecen intactos. °AVISO! No hay Gobierno central ni}
-{14038}{}{fuerzas de la ley. El juego, la prostituciÛn, y el uso de}
-{14039}{}{drogas es desenfrenado. °Los Ciudadanos del Refugio}
+{14033}{}{bia mineral de oro por suministros m√©dicos de Ciudad}
+{14034}{}{Refugio. Reno sufri√≥ un ligero da√±o estructural durante}
+{14035}{}{la guerra (aunque el saqueo y da√±os a la propiedad se}
+{14036}{}{han cobrado su peaje), as√≠ que muchas calles y edificios}
+{14037}{}{permanecen intactos. ¬°AVISO! No hay Gobierno central ni}
+{14038}{}{fuerzas de la ley. El juego, la prostituci√≥n, y el uso de}
+{14039}{}{drogas es desenfrenado. ¬°Los Ciudadanos del Refugio}
 {14040}{}{deben evitar Nuevo Reno a cualquier precio!}
 {14041}{}{}
-{14042}{}{POBLACI”N: No hay un censo actualmente, pero se cree}
+{14042}{}{POBLACI√ìN: No hay un censo actualmente, pero se cree}
 {14043}{}{que son varios miles de... "personas".}
 {14044}{}{GOBIERNO: En Nuevo Reno existe un estado de cuasi-}
-{14045}{}{anarquÌa. Seg˙n informes, varias "familias criminales"}
+{14045}{}{anarqu√≠a. Seg√∫n informes, varias "familias criminales"}
 {14046}{}{se han dividido la ciudad entre ellas.}
-{14047}{}{ESTUDIOS DE RADIACI”N DE FONDO: Actualmente no}
-{14048}{}{hay lecturas de radiaciÛn disponibles.}
-{14049}{}{TASA DE MUTACI”N: Desconocida, se cree baja.}
+{14047}{}{ESTUDIOS DE RADIACI√ìN DE FONDO: Actualmente no}
+{14048}{}{hay lecturas de radiaci√≥n disponibles.}
+{14049}{}{TASA DE MUTACI√ìN: Desconocida, se cree baja.}
 {14050}{}{**END-PAR**}
-{14051}{}{REP⁄BLICA DE NUEVA CALIFORNIA: Los territorios de la}
+{14051}{}{REP√öBLICA DE NUEVA CALIFORNIA: Los territorios de la}
 {14052}{}{RNC se localizan lejos, hacia el Sur de Ciudad Refugio.}
-{14053}{}{Comercian equipo mec·nico, oro, y varios excedentes a}
-{14054}{}{cambio de tecnologÌa mÈdica de Ciudad Refugio. La RNC}
-{14055}{}{˙ltimamente ha aumentado el esfuerzo para absorber a}
-{14056}{}{Ciudad Refugio como territorio limÌtrofe, asÌ que los Ciu-}
-{14057}{}{dadanos deben tener precauciÛn extrema al viajar a RNC.}
+{14053}{}{Comercian equipo mec√°nico, oro, y varios excedentes a}
+{14054}{}{cambio de tecnolog√≠a m√©dica de Ciudad Refugio. La RNC}
+{14055}{}{√∫ltimamente ha aumentado el esfuerzo para absorber a}
+{14056}{}{Ciudad Refugio como territorio lim√≠trofe, as√≠ que los Ciu-}
+{14057}{}{dadanos deben tener precauci√≥n extrema al viajar a RNC.}
 {14058}{}{}
-{14059}{}{POBLACI”N: Aunque se han realizado censos, no tenemos}
+{14059}{}{POBLACI√ìN: Aunque se han realizado censos, no tenemos}
 {14060}{}{acceso a las cifras. Se cree que la RNC tiene varias}
 {14061}{}{decenas de miles de habitantes.}
 {14062}{}{GOBIERNO: Presidente y Congreso.}
-{14063}{}{ESTUDIOS DE RADIACI”N DE FONDO: Actualmente no}
-{14064}{}{hay lecturas de radiaciÛn disponibles.}
-{14065}{}{TASA DE MUTACI”N: VarÌa entre territorios.}
+{14063}{}{ESTUDIOS DE RADIACI√ìN DE FONDO: Actualmente no}
+{14064}{}{hay lecturas de radiaci√≥n disponibles.}
+{14065}{}{TASA DE MUTACI√ìN: Var√≠a entre territorios.}
 {14066}{}{**END-PAR**}
 {14067}{}{BROKEN HILLS: Comunidad minera al Sur de Ciudad Refugio}
-{14068}{}{que extrae minerales de uranio. …ste mineral se comer-}
-{14069}{}{cia con Ciudad Refugio a cambio de suministros mÈdi-}
+{14068}{}{que extrae minerales de uranio. √âste mineral se comer-}
+{14069}{}{cia con Ciudad Refugio a cambio de suministros m√©di-}
 {14070}{}{cos, sobretodo Rad-X y RadAway. Se cree que los huma-}
-{14071}{}{nos est·n obligados a vivir con mutantes y necrÛfagos}
+{14071}{}{nos est√°n obligados a vivir con mutantes y necr√≥fagos}
 {14072}{}{dentro de la ciudad. Debido a la naturaleza de los habi-}
-{14073}{}{tantes y las altas probabilidades de contaminaciÛn, °los}
+{14073}{}{tantes y las altas probabilidades de contaminaci√≥n, ¬°los}
 {14074}{}{Ciudadanos deben evitar Broken Hills a cualquier precio!}
 {14075}{}{}
-{14076}{}{POBLACI”N: Aunque no hay censo, se cree que viven}
+{14076}{}{POBLACI√ìN: Aunque no hay censo, se cree que viven}
 {14077}{}{cientos de residentes.}
 {14078}{}{GOBIERNO: Los rumores indican que un MUTANTE ejerce}
 {14079}{}{de Primer Ciudadano de esta comunidad. Esto es altamen-}
-{14080}{}{te improbable, ya que la mayorÌa de los mutantes son in-}
-{14081}{}{capaces de razonar mÌnimamente. Si el rumor es cierto,}
-{14082}{}{es otra razÛn para evitar Broken Hills absolutamente.}
-{14083}{}{ESTUDIOS DE RADIACI”N DE FONDO: Actualmente no}
-{14084}{}{hay lecturas de radiaciÛn. Se cree que alta.}
-{14085}{}{TASA DE MUTACI”N: Se cree que alta. En Broken Hills}
-{14086}{}{habrÌa una alta tasa de mutaciones degenerativas.}
+{14080}{}{te improbable, ya que la mayor√≠a de los mutantes son in-}
+{14081}{}{capaces de razonar m√≠nimamente. Si el rumor es cierto,}
+{14082}{}{es otra raz√≥n para evitar Broken Hills absolutamente.}
+{14083}{}{ESTUDIOS DE RADIACI√ìN DE FONDO: Actualmente no}
+{14084}{}{hay lecturas de radiaci√≥n. Se cree que alta.}
+{14085}{}{TASA DE MUTACI√ìN: Se cree que alta. En Broken Hills}
+{14086}{}{habr√≠a una alta tasa de mutaciones degenerativas.}
 {14087}{}{**END-PAR**}
-{14088}{}{CIUDAD REFUGIO: Esta utÛpica ciudad no conoce el crimen}
-{14089}{}{ni otras enfermedades sociolÛgicas que afligen a otras}
+{14088}{}{CIUDAD REFUGIO: Esta ut√≥pica ciudad no conoce el crimen}
+{14089}{}{ni otras enfermedades sociol√≥gicas que afligen a otras}
 {14090}{}{comunidades del Norte de California. Es independiente}
-{14091}{}{desde la apertura del Refugio 8, y mantiene una prÛspe-}
-{14092}{}{ra economÌa basada en la exportaciÛn de suministros mÈ-}
+{14091}{}{desde la apertura del Refugio 8, y mantiene una pr√≥spe-}
+{14092}{}{ra econom√≠a basada en la exportaci√≥n de suministros m√©-}
 {14093}{}{dicos a comunidades exteriores del Norte de California.}
 {14094}{}{Todos los Ciudadanos son alentados a permanecer en}
 {14095}{}{Ciudad Refugio tanto tiempo como les sea posible.}
 {14096}{}{}
-{14097}{}{POBLACI”N: Censo actual: 103 Ciudadanos.}
+{14097}{}{POBLACI√ìN: Censo actual: 103 Ciudadanos.}
 {14098}{}{GOBIERNO: Primer Ciudadano y Consejo.}
-{14099}{}{ESTUDIOS DE RADIACI”N DE FONDO: Los archivos han sido}
+{14099}{}{ESTUDIOS DE RADIACI√ìN DE FONDO: Los archivos han sido}
 {14100}{}{borrados, perdiendo las siguientes entradas: [-$Gecko-/-$Groundwater}
-{14101}{}{ContaminaciÛn-]}
-{14102}{}{TASA DE MUTACI”N: Los archivos han sido borrados, per-}
+{14101}{}{Contaminaci√≥n-]}
+{14102}{}{TASA DE MUTACI√ìN: Los archivos han sido borrados, per-}
 {14103}{}{diendo las siguientes entradas: [-$TasadeNatalidad %-]}
 {14104}{}{**END-DISK**}
-{15000}{}{DISCO 5 DE INFORMACI”N DE LA RNC}
+{15000}{}{DISCO 5 DE INFORMACI√ìN DE LA RNC}
 {15001}{}{**END-PAR**}
 {15002}{}{Este disco parece contener informes sobre la RNC: }
 {15003}{}{Producciones mensuales totales, inventario de caravanas,}
 {15004}{}{registros de seguridad, actas de audiencias del Con-}
 {15005}{}{greso, informes secretos del Consejo, correspondencia}
-{15006}{}{diplom·tica desde Nuevo Reno, Redding, y Ciudad Refugio,}
+{15006}{}{diplom√°tica desde Nuevo Reno, Redding, y Ciudad Refugio,}
 {15007}{}{e incluso varias semanas de la valiosa agenda de trabajo}
 {15008}{}{de la Presidente Tandi, aunque no hay nada sobre el}
-{15009}{}{Refugio 13 o el GECK. Todos los informes est·n dirigidos}
-{15010}{}{a Darion y est·n firmados por "F-".}
+{15009}{}{Refugio 13 o el GECK. Todos los informes est√°n dirigidos}
+{15010}{}{a Darion y est√°n firmados por "F-".}
 {15011}{}{**END-DISK**}
-{16000}{}{DISCO 1 DE INFORMACI”N DE LA RNC}
+{16000}{}{DISCO 1 DE INFORMACI√ìN DE LA RNC}
 {16001}{}{**END-PAR**}
-{16002}{}{°Estamos AquÌ! øPor quÈ no te unes a nosotros?}
+{16002}{}{¬°Estamos Aqu√≠! ¬øPor qu√© no te unes a nosotros?}
 {16003}{}{**END-PAR**}
-{16004}{}{Nos espera un maravilloso futuro por delante - °y puede}
-{16005}{}{ser tuyo con la REP⁄BLICA DE NUEVA CALIFORNIA!}
+{16004}{}{Nos espera un maravilloso futuro por delante - ¬°y puede}
+{16005}{}{ser tuyo con la REP√öBLICA DE NUEVA CALIFORNIA!}
 {16006}{}{**END-PAR**}
-{16007}{}{øPero quÈ es, quieres saberlo?}
+{16007}{}{¬øPero qu√© es, quieres saberlo?}
 {16008}{}{**END-PAR**}
-{16009}{}{øC”MO DE GRANDE ES LA RNC?}
-{16010}{}{Fundada hace ochenta aÒos, la RNC est· ahora com-}
+{16009}{}{¬øC√ìMO DE GRANDE ES LA RNC?}
+{16010}{}{Fundada hace ochenta a√±os, la RNC est√° ahora com-}
 {16011}{}{puesta por los estados de Arenas, Los Angeles, Maxson,}
 {16012}{}{Eje, y Dayglow. Alrededor de 700.000 ciudadanos tienen}
 {16013}{}{el placer de llamar a la RNC su hogar.}
 {16014}{}{**END-PAR**}
-{16015}{}{øPARA QU… SE FUND” LA RNC?}
-{16016}{}{La Rep˙blica de Nueva California se dedica a llevar la}
+{16015}{}{¬øPARA QU√â SE FUND√ì LA RNC?}
+{16016}{}{La Rep√∫blica de Nueva California se dedica a llevar la}
 {16017}{}{paz, seguridad y justicia a la gente del gran Oeste.}
-{16018}{}{La polÌtica de la RNC obliga constantemente a patrullar}
-{16019}{}{y arrestar a cualquier criminal, canÌbal, esclavista  }
-{16020}{}{o mutante sin ley dentro del paÌs, y el ejÈrcito de la}
+{16018}{}{La pol√≠tica de la RNC obliga constantemente a patrullar}
+{16019}{}{y arrestar a cualquier criminal, can√≠bal, esclavista  }
+{16020}{}{o mutante sin ley dentro del pa√≠s, y el ej√©rcito de la}
 {16021}{}{RNC protege las fronteras contra amenazas externas.}
 {16022}{}{Para asegurar la justicia y la libertad, todos los    }
 {16023}{}{Ciudadanos tienen acceso a los juzgados y el derecho a}
-{16024}{}{votar a un representante de su elecciÛn para que se   }
+{16024}{}{votar a un representante de su elecci√≥n para que se   }
 {16025}{}{siente en el Congreso. En palabras de la Presidente   }
 {16026}{}{Tandi, "Un pueblo seguro es un pueblo fuerte".}
 {16027}{}{**END-PAR**}
-{16028}{}{øQUI…N EST¡ AL MANDO AQUÕ?}
-{16029}{}{La RNC es algo diferente a lo que est·s acostumbrado. }
-{16030}{}{AquÌ no hay caciques, caudillos, reyes, o dictadores. }
-{16031}{}{°Nuestros lÌderes son elegidos por la gente! AsÌ es.  }
+{16028}{}{¬øQUI√âN EST√Å AL MANDO AQU√ç?}
+{16029}{}{La RNC es algo diferente a lo que est√°s acostumbrado. }
+{16030}{}{Aqu√≠ no hay caciques, caudillos, reyes, o dictadores. }
+{16031}{}{¬°Nuestros l√≠deres son elegidos por la gente! As√≠ es.  }
 {16032}{}{Cada estado tiene el derecho de enviar representantes }
-{16033}{}{al Congreso. …stos eligen al Presidente y al Vicepre- }
+{16033}{}{al Congreso. √âstos eligen al Presidente y al Vicepre- }
 {16034}{}{sidente para encabezar el Consejo y su presencia sirve}
-{16035}{}{de guÌa de las decisiones del Presidente.             }
+{16035}{}{de gu√≠a de las decisiones del Presidente.             }
 {16036}{}{Durante diez mandatos consecutivos, la Presidente     }
-{16037}{}{Tandi ha sido un·nimente elegida por el Consejo,      }
-{16038}{}{el cual respeta su sabidurÌa y previsiÛn.             }
+{16037}{}{Tandi ha sido un√°nimente elegida por el Consejo,      }
+{16038}{}{el cual respeta su sabidur√≠a y previsi√≥n.             }
 {16039}{}{ }
 {16040}{}{**END-PAR**}
-{16041}{}{°PARECE GENIAL! øCOMO ME UNO A LA RNC?}
-{16042}{}{Toda persona que respete la ley y sea pacÌfica, humana}
+{16041}{}{¬°PARECE GENIAL! ¬øCOMO ME UNO A LA RNC?}
+{16042}{}{Toda persona que respete la ley y sea pac√≠fica, humana}
 {16043}{}{o mutante, puede convertirse en ciudadano de la RNC.}
 {16044}{}{Para lograrlo, todo lo que se ha de hacer es ir a RNC y}
-{16045}{}{presentar la solicitud en inmigraciÛn. Tras un cursillo de}
-{16046}{}{CiudadanÌa y procesamiento de la solicitud, se notificar·}
-{16047}{}{su nuevo estatus de CP (Ciudadano Provisional). °A partir}
-{16048}{}{de aquÌ solo queda un paso para la CiudadanÌa completa!}
+{16045}{}{presentar la solicitud en inmigraci√≥n. Tras un cursillo de}
+{16046}{}{Ciudadan√≠a y procesamiento de la solicitud, se notificar√°}
+{16047}{}{su nuevo estatus de CP (Ciudadano Provisional). ¬°A partir}
+{16048}{}{de aqu√≠ solo queda un paso para la Ciudadan√≠a completa!}
 {16049}{}{**END-PAR**}
 {16050}{}{Desde luego, la RNC no es para todo el mundo. }
-{16051}{}{°Esclavistas, mutantes no reformados, criminales famo-}
+{16051}{}{¬°Esclavistas, mutantes no reformados, criminales famo-}
 {16052}{}{sos, y otros indeseables no son bienvenidos!}
 {16053}{}{**END-PAR**}
-{16054}{}{PERO, øY SI TODO MI PUEBLO QUIERE UNIRSE?}
-{16055}{}{Dependiendo de donde se sit˙e tu ciudad, la RNC acepta}
+{16054}{}{PERO, ¬øY SI TODO MI PUEBLO QUIERE UNIRSE?}
+{16055}{}{Dependiendo de donde se sit√∫e tu ciudad, la RNC acepta}
 {16056}{}{solicitudes de pueblos, ciudades, bases, estados, inclu-}
-{16057}{}{so pequeÒos reinos, para su anexiÛn por la RNC.}
-{16058}{}{Una vez que se acepte la peticiÛn, la RNC garantizar·}
+{16057}{}{so peque√±os reinos, para su anexi√≥n por la RNC.}
+{16058}{}{Una vez que se acepte la petici√≥n, la RNC garantizar√°}
 {16059}{}{el estatus territorial de la ciudad. Una vez que la   }
-{16060}{}{necesaria policÌa y presencia militar sea establecida }
+{16060}{}{necesaria polic√≠a y presencia militar sea establecida }
 {16061}{}{y cualquier bandido u otro elemento fuera de la ley   }
-{16062}{}{haya sido castigado, se podr· aplicar el estatus de   }
-{16063}{}{Estado de la RNC a tu ciudad. °Es asÌ de simple!}
+{16062}{}{haya sido castigado, se podr√° aplicar el estatus de   }
+{16063}{}{Estado de la RNC a tu ciudad. ¬°Es as√≠ de simple!}
 {16064}{}{**END-PAR**}
-{16065}{}{AsÌ que recuerda: ESTAMOS AQUÕ. øPORQU… NO TE UNES?}
+{16065}{}{As√≠ que recuerda: ESTAMOS AQU√ç. ¬øPORQU√â NO TE UNES?}
 {16066}{}{**END-PAR**}
-{16067}{}{Preparado por el ComitÈ Asesor de Relaciones P˙blicas. .}
+{16067}{}{Preparado por el Comit√© Asesor de Relaciones P√∫blicas. .}
 {16068}{}{**END-PAR**}
 {16069}{}{NCRAP Pub. #A7-7893b}
-{16070}{}{Esta p·gina se ha dejado en blanco intencionadamente.}
+{16070}{}{Esta p√°gina se ha dejado en blanco intencionadamente.}
 {16071}{}{**END-DISK**}
 {17000}{}{Primera Ciudadana Lynette;}
 {17001}{}{**END-PAR**}
 {17002}{}{El correo ha entregado el disco que enviaste. Hiciste lo}
-{17003}{}{correcto, desde luego. La informaciÛn se probar· m·s que}
-{17004}{}{˙til en el prÛximo debate del Consejo. Con lo que me has}
+{17003}{}{correcto, desde luego. La informaci√≥n se probar√° m√°s que}
+{17004}{}{√∫til en el pr√≥ximo debate del Consejo. Con lo que me has}
 {17005}{}{enviado estoy seguro de poder impedir, si no frustrar,}
 {17006}{}{cualquier lejano intento de alianza de la RNC con Reno.}
 {17007}{}{**END-PAR**}
-{17008}{}{    SÛlo puedo asegurarles que si se les da a mi manera, como yo }
-{17009}{}{espero, no habr· m·s interferencias o provocaciones}
+{17008}{}{    S√≥lo puedo asegurarles que si se les da a mi manera, como yo }
+{17009}{}{espero, no habr√° m√°s interferencias o provocaciones}
 {17010}{}{de la RNC en cualquier asunto de Ciudad Refugio.}
-{17011}{}{Yo, sobretodo, respeto vuestra soberanÌa, y no coincido}
+{17011}{}{Yo, sobretodo, respeto vuestra soberan√≠a, y no coincido}
 {17012}{}{con los perturbadores que desean privar a nuestros}
 {17013}{}{inocentes vecinos de sus libertades.}
 {17014}{}{**END-PAR**}
 {17015}{}{Tu amigo y aliado,}
 {17016}{}{Roger Westin}
 {17017}{}{**END-DISK**}
-{18000}{}{Memo: Estado de la NaciÛn}
+{18000}{}{Memo: Estado de la Naci√≥n}
 {18001}{}{De: Presidente Dick Richardson}
-{18002}{}{A: La gente de esta Gran NaciÛn}
-{18003}{}{Asunto: Dirigido al Estado de la UniÛn}
+{18002}{}{A: La gente de esta Gran Naci√≥n}
+{18003}{}{Asunto: Dirigido al Estado de la Uni√≥n}
 {18004}{}{**END-PAR**}
 {18005}{}{Compatriotas Americanos, me siento honrado de ser el}
-{18006}{}{administrador que devolver· al pueblo americano al con-}
-{18007}{}{tinente y reclamar· los Estados Unidos para sus ciu-}
-{18008}{}{dadanos.  Seremos la primera generaciÛn libre de los mu-}
-{18009}{}{tantes que nos han amenazado los ˙ltimos cien aÒos.}
+{18006}{}{administrador que devolver√° al pueblo americano al con-}
+{18007}{}{tinente y reclamar√° los Estados Unidos para sus ciu-}
+{18008}{}{dadanos.  Seremos la primera generaci√≥n libre de los mu-}
+{18009}{}{tantes que nos han amenazado los √∫ltimos cien a√±os.}
 {18010}{}{**END-PAR**}
 {18011}{}{Ha sido una larga espera, y el trabajo que lo ha hecho}
-{18012}{}{posible no ha sido f·cil. A veces incluso parecÌa imposible.}
+{18012}{}{posible no ha sido f√°cil. A veces incluso parec√≠a imposible.}
 {18013}{}{No obstante, por medio del bravo y incansable esfuerzo}
-{18014}{}{de nuestro propio jefe de la Unidad de Guerra QuÌmica,}
-{18015}{}{doctor Charles Curling, la hora de nuestra salvaciÛn}
-{18016}{}{est· al alcance de la mano.}
+{18014}{}{de nuestro propio jefe de la Unidad de Guerra Qu√≠mica,}
+{18015}{}{doctor Charles Curling, la hora de nuestra salvaci√≥n}
+{18016}{}{est√° al alcance de la mano.}
 {18017}{}{**END-PAR**}
 {18018}{}{Bravo, constante, resuelto, tenaz, bla, bla, bla... Por}
-{18019}{}{Dios, øhay realmente alguien capaz de escuchar esto?}
+{18019}{}{Dios, ¬øhay realmente alguien capaz de escuchar esto?}
 {18020}{}{**END-PAR**}
 {18021}{}{--Notas personales-}
 {18022}{}{1) Seguir este rollo para encubrir el proyecto de Curling.}
 {18023}{}{2) Decirle a todo el mundo lo leales, etc, que son.}
 {18024}{}{     Bla, bla, bla.}
 {18025}{}{**END-PAR**}
-{18026}{}{Asegurarse de hacer publicidad para la reelecciÛn.}
+{18026}{}{Asegurarse de hacer publicidad para la reelecci√≥n.}
 {18027}{}{**END-PAR**}
 {18028}{}{Recordar NO abrazar a mi becaria al bajar del podio.}
 {18029}{}{ }
@@ -981,12 +981,12 @@
 {18032}{}{capaces de gasear a esos malditos mutantes cualquier}
 {18033}{}{semana de estas si el informe de Curling es correcto.}
 {18034}{}{**END-DISK**}
-{19000}{}{Memo: Lista de TÈrminos}
+{19000}{}{Memo: Lista de T√©rminos}
 {19001}{}{De: Vicepresidente Daniel Bird}
 {19002}{}{A: Mi}
-{19003}{}{Tema: Lista de TÈrminos}
+{19003}{}{Tema: Lista de T√©rminos}
 {19004}{}{**END-PAR**}
-{19005}{}{TÈrminos Complicados:}
+{19005}{}{T√©rminos Complicados:}
 {19006}{}{--------------------}
 {19007}{}{Patata}
 {19008}{}{Mahonesa}
@@ -995,9 +995,9 @@
 {19011}{}{Subreticio}
 {19012}{}{Verbosidad}
 {19013}{}{Simbiosis}
-{19014}{}{SubtÌtulo}
+{19014}{}{Subt√≠tulo}
 {19015}{}{**END-PAR**}
-{19016}{}{TÈrminos a Cambiar:}
+{19016}{}{T√©rminos a Cambiar:}
 {19017}{}{----------------------}
 {19018}{}{Batata}
 {19019}{}{Mayonesa}
@@ -1006,62 +1006,62 @@
 {19022}{}{Subreticio}
 {19023}{}{Barbosidad}
 {19024}{}{Simiosis- convertirlo en la nueva mascota nacional.}
-{19025}{}{(øEs Èsta una criatura Americana?)}
+{19025}{}{(¬øEs √©sta una criatura Americana?)}
 {19026}{}{**END-DISK**}
 {20000}{}{Memo: Informe Trimestral de Estado de Proyectos}
-{20001}{}{DE: Dr. C. Curling, Unidad de Guerra QuÌmica de EEUU}
+{20001}{}{DE: Dr. C. Curling, Unidad de Guerra Qu√≠mica de EEUU}
 {20002}{}{A: Gabinete}
 {20003}{}{Asunto: Proyecto cerca de Estado Operativo Completo.}
 {20004}{}{**END-PAR**}
 {20005}{}{Es un honor y un privilegio informar de que estamos a}
-{20006}{}{punto de completar el Proyecto. Tras aÒos de trabajo,}
-{20007}{}{hemos logrado aislar la mayorÌa de elementos tÛxicos del}
-{20008}{}{VEF. Cierta informaciÛn recientemente descodificada y}
+{20006}{}{punto de completar el Proyecto. Tras a√±os de trabajo,}
+{20007}{}{hemos logrado aislar la mayor√≠a de elementos t√≥xicos del}
+{20008}{}{VEF. Cierta informaci√≥n recientemente descodificada y}
 {20009}{}{recuperada de la base militar del continente ha sido}
-{20010}{}{decisiva para el progreso de nuestra investigaciÛn.}
+{20010}{}{decisiva para el progreso de nuestra investigaci√≥n.}
 {20011}{}{**END-PAR**}
 {20012}{}{Hemos descubierto que el VEF no estaba originalmente}
-{20013}{}{diseÒado para ser utilizado como un agente para la creaciÛn de}
+{20013}{}{dise√±ado para ser utilizado como un agente para la creaci√≥n de}
 {20014}{}{super-soldados. Inicialmente, parece, la F. E. V. fue }
-{20015}{}{diseÒÛ como toxina vÌrica. Solo posteriormente el virus}
-{20016}{}{VEF se manipulÛ en un intento de crear supersoldados.}
+{20015}{}{dise√±√≥ como toxina v√≠rica. Solo posteriormente el virus}
+{20016}{}{VEF se manipul√≥ en un intento de crear supersoldados.}
 {20017}{}{**END-PAR**}
-{20018}{}{Revisando una parte de nuestra investigaciÛn, y con la}
-{20019}{}{ayuda de la informaciÛn adicional de las grabaciones de la}
+{20018}{}{Revisando una parte de nuestra investigaci√≥n, y con la}
+{20019}{}{ayuda de la informaci√≥n adicional de las grabaciones de la}
 {20020}{}{base militar, fuimos capaces de transformar nuestra}
-{20021}{}{versiÛn del VEF (VEF Curling-13) en un agente infini-}
-{20022}{}{tamente m·s tÛxico.}
+{20021}{}{versi√≥n del VEF (VEF Curling-13) en un agente infini-}
+{20022}{}{tamente m√°s t√≥xico.}
 {20023}{}{**END-PAR**}
 {20024}{}{Las pruebas finales llevadas a cabo en sujetos descen-}
 {20025}{}{dientes de un Refugio del poblado "Arroyo", muestran}
-{20026}{}{una tasa de supervivencia del 0%, con mayorÌa de muertes}
-{20027}{}{en la 1™ hora de exposiciÛn con una soluciÛn en aerosol}
+{20026}{}{una tasa de supervivencia del 0%, con mayor√≠a de muertes}
+{20027}{}{en la 1¬™ hora de exposici√≥n con una soluci√≥n en aerosol}
 {20028}{}{del .0001%. En contraste, los sujetos del Refugio 13}
 {20029}{}{tienden a sufrir hemorragias subdurales y convulsiones}
-{20030}{}{en la primera hora de exposiciÛn, sin que haya sucedido}
+{20030}{}{en la primera hora de exposici√≥n, sin que haya sucedido}
 {20031}{}{ninguna muerte, por promedio, en las primeras 14,5 horas.}
 {20032}{}{**END-PAR**}
 {20033}{}{En cualquier caso, los niveles de toxicidad del VEF son}
 {20034}{}{ahora suficientes para asegurar una limpieza de todas las}
 {20035}{}{zonas infectadas (no-Enclave). Los niveles actuales}
 {20036}{}{del VEF Curling-13 tienen una eficacia del 95% de}
-{20037}{}{promedio al .00007% de saturaciÛn. Aunque el consenso}
-{20038}{}{en la Unidad de Guerra QuÌmica es que Èste serÌa un}
-{20039}{}{nivel suficiente para asegurar la realizaciÛn del}
+{20037}{}{promedio al .00007% de saturaci√≥n. Aunque el consenso}
+{20038}{}{en la Unidad de Guerra Qu√≠mica es que √©ste ser√≠a un}
+{20039}{}{nivel suficiente para asegurar la realizaci√≥n del}
 {20040}{}{Proyecto, creemos que vale la pena esperar hasta que}
 {20041}{}{podamos acumular suficiente toxina para nuestra meta:}
-{20042}{}{nivel de saturaciÛn del .0001% y de exterminio del 99.5%.}
+{20042}{}{nivel de saturaci√≥n del .0001% y de exterminio del 99.5%.}
 {20043}{}{**END-PAR**}
-{20044}{}{Los niveles actuales de producciÛn de V.E.F Curling-13 nos}
+{20044}{}{Los niveles actuales de producci√≥n de V.E.F Curling-13 nos}
 {20045}{}{permiten afirmar que alcanzaremos nuestra meta de}
 {20046}{}{1.136.500 litros en un plazo de seis semanas.}
 {20047}{}{**END-PAR**}
-{20048}{}{Felicidades, seÒoras y seÒores, nuestro esfuerzo de}
-{20049}{}{tantos aÒos est· llegando a su fin.}
-{20050}{}{Que Dios bendiga a AmÈrica.}
+{20048}{}{Felicidades, se√±oras y se√±ores, nuestro esfuerzo de}
+{20049}{}{tantos a√±os est√° llegando a su fin.}
+{20050}{}{Que Dios bendiga a Am√©rica.}
 {20051}{}{**END-DISK**}
 {21000}{}{Memo: C.E.A., Informe de Estado}
-{21001}{}{De: Tom Murray, Presidente, ComisiÛn de EnergÌa AtÛmica}
+{21001}{}{De: Tom Murray, Presidente, Comisi√≥n de Energ√≠a At√≥mica}
 {21002}{}{A: Gabinete}
 {21003}{}{Asunto: Peligro de sobredependencia de la computadora}
 {21004}{}{central para el control total del reactor.}
@@ -1069,77 +1069,77 @@
 {21006}{}{NOTA al GABINETE: Odio importunarles por tratar este}
 {21007}{}{problema a todas horas, pero no puedo minimizar la}
 {21008}{}{importancia de diversificar los sistemas de control de}
-{21009}{}{nuestra central nuclear. AquÌ est· mi informe oficial.}
-{21010}{}{Creo que despuÈs de que lo lean, entender·n por quÈ}
+{21009}{}{nuestra central nuclear. Aqu√≠ est√° mi informe oficial.}
+{21010}{}{Creo que despu√©s de que lo lean, entender√°n por qu√©}
 {21011}{}{necesitamos tener un sistema de seguridad.}
 {21012}{}{--Tom}
 {21013}{}{**END-PAR**}
-{21014}{}{Regulador del Reactor de EnergÌa AtÛmica}
+{21014}{}{Regulador del Reactor de Energ√≠a At√≥mica}
 {21015}{}{------------------------------------------}
 {21016}{}{El nuevo reactor nuclear de uranio de Vault-Tec lleva}
-{21017}{}{tiempo trabajando al m·ximo de su eficiencia. Con los sis-}
-{21018}{}{temas de computaciÛn tÈcnica diseÒados especÌficamen-}
-{21019}{}{te para la regulaciÛn de la temperatura del refrigeran-}
-{21020}{}{te, asÌ como otras funciones clave, nos podemos permitir}
-{21021}{}{hacer funcionar al reactor con una supervisiÛn mÌnima.}
+{21017}{}{tiempo trabajando al m√°ximo de su eficiencia. Con los sis-}
+{21018}{}{temas de computaci√≥n t√©cnica dise√±ados espec√≠ficamen-}
+{21019}{}{te para la regulaci√≥n de la temperatura del refrigeran-}
+{21020}{}{te, as√≠ como otras funciones clave, nos podemos permitir}
+{21021}{}{hacer funcionar al reactor con una supervisi√≥n m√≠nima.}
 {21022}{}{**END-PAR**}
-{21023}{}{Los nuevos multi-procesadores sincrÛnicos montados en}
+{21023}{}{Los nuevos multi-procesadores sincr√≥nicos montados en}
 {21024}{}{la placa base tri-procesadora son capaces de contro-}
 {21025}{}{lar la temperatura del refrigerante, la entrada de}
-{21026}{}{agua marina frÌa, la salida del refrigerante consumido en}
-{21027}{}{las reacciones, y la regulaciÛn del bombardeo de neu-}
-{21028}{}{trones sobre el uranio. Sin los sistemas de computaciÛn,}
-{21029}{}{el reactor se desestabilizarÌa casi al instante,}
-{21030}{}{causando una reacciÛn en cadena por bombardeo de los}
-{21031}{}{isÛtopos de uranio. En dos horas o menos, darÌa como}
-{21032}{}{resultado una explosiÛn nuclear de 100 kilotones de}
+{21026}{}{agua marina fr√≠a, la salida del refrigerante consumido en}
+{21027}{}{las reacciones, y la regulaci√≥n del bombardeo de neu-}
+{21028}{}{trones sobre el uranio. Sin los sistemas de computaci√≥n,}
+{21029}{}{el reactor se desestabilizar√≠a casi al instante,}
+{21030}{}{causando una reacci√≥n en cadena por bombardeo de los}
+{21031}{}{is√≥topos de uranio. En dos horas o menos, dar√≠a como}
+{21032}{}{resultado una explosi√≥n nuclear de 100 kilotones de}
 {21033}{}{potencia.}
 {21034}{}{**END-PAR**}
 {21035}{}{Casi todas las partes principales del reactor se loca-}
-{21036}{}{lizan bajo el agua. Esta disposiciÛn permite que la}
-{21037}{}{temperatura oce·nica exterior mantenga frÌo el lÌquido}
+{21036}{}{lizan bajo el agua. Esta disposici√≥n permite que la}
+{21037}{}{temperatura oce√°nica exterior mantenga fr√≠o el l√≠quido}
 {21038}{}{refrigerante. El agua marina, a 500 metros, se bom-}
-{21039}{}{bea a la c·mara de refrigeraciÛn. Una parte del agua}
-{21040}{}{frÌa se desvÌa a la unidad de contenciÛn, donde est·}
-{21041}{}{el n˙cleo y las barras de control. AllÌ circula a travÈs}
-{21042}{}{de Èl, calent·ndose por la reacciÛn nuclear que tiene}
-{21043}{}{lugar. El agua marina alcanza el punto de ebulliciÛn y el}
+{21039}{}{bea a la c√°mara de refrigeraci√≥n. Una parte del agua}
+{21040}{}{fr√≠a se desv√≠a a la unidad de contenci√≥n, donde est√°}
+{21041}{}{el n√∫cleo y las barras de control. All√≠ circula a trav√©s}
+{21042}{}{de √©l, calent√°ndose por la reacci√≥n nuclear que tiene}
+{21043}{}{lugar. El agua marina alcanza el punto de ebullici√≥n y el}
 {21044}{}{vapor resultante se usa para mover la turbina del gene-}
-{21045}{}{rador, creando nuestra energÌa elÈctrica. Entonces,}
+{21045}{}{rador, creando nuestra energ√≠a el√©ctrica. Entonces,}
 {21046}{}{el vapor se condensa, y regresa a un tanque de filtrado.}
-{21047}{}{El agua filtrada se desvÌa a un tanque de preparaciÛn,}
+{21047}{}{El agua filtrada se desv√≠a a un tanque de preparaci√≥n,}
 {21048}{}{lista para comenzar todo el ciclo de nuevo.}
 {21049}{}{**END-PAR**}
-{21050}{}{El agua irradiada y mezclada con materiales tÛxicos, se}
-{21051}{}{bombea fuera de la estaciÛn a travÈs de un conducto de}
+{21050}{}{El agua irradiada y mezclada con materiales t√≥xicos, se}
+{21051}{}{bombea fuera de la estaci√≥n a trav√©s de un conducto de}
 {21052}{}{residuos, que desemboca una milla al sur. Por informes}
-{21053}{}{de nuestro equipo de inspecciÛn, nuestros efluvios son}
-{21054}{}{arrastrados a la costa del sur de California y MÈxico,}
-{21055}{}{causando daÒos ecolÛgicos irreparables. La mayorÌa de las}
-{21056}{}{playas est·n saturadas de residuos tÛxicos, irradian-}
+{21053}{}{de nuestro equipo de inspecci√≥n, nuestros efluvios son}
+{21054}{}{arrastrados a la costa del sur de California y M√©xico,}
+{21055}{}{causando da√±os ecol√≥gicos irreparables. La mayor√≠a de las}
+{21056}{}{playas est√°n saturadas de residuos t√≥xicos, irradian-}
 {21057}{}{do la vida marina. Afortunadamente, esto no nos afecta.}
 {21058}{}{**END-PAR**}
 {21059}{}{En cualquier caso, si el reactor se desactiva, tenemos}
 {21060}{}{generadores de seguridad que pueden usarse para los}
-{21061}{}{sistemas vitales del Enclave hasta restaurar la energÌa.}
+{21061}{}{sistemas vitales del Enclave hasta restaurar la energ√≠a.}
 {21062}{}{Sin embargo, esto no incluye elementos de alto consumo}
-{21063}{}{como campos de fuerza. TambiÈn, por precauciÛn de segu-}
-{21064}{}{ridad, ciertas puertas estancas por toda la estaciÛn se}
-{21065}{}{cerrar·n ante reducciones de energÌa (para prevenir}
-{21066}{}{inundaciones en caso de emergencia). Esto restringir· el}
-{21067}{}{movimiento a travÈs de la estaciÛn, pero seguir·}
-{21068}{}{siendo posible a travÈs de rutas alternativas.}
+{21063}{}{como campos de fuerza. Tambi√©n, por precauci√≥n de segu-}
+{21064}{}{ridad, ciertas puertas estancas por toda la estaci√≥n se}
+{21065}{}{cerrar√°n ante reducciones de energ√≠a (para prevenir}
+{21066}{}{inundaciones en caso de emergencia). Esto restringir√° el}
+{21067}{}{movimiento a trav√©s de la estaci√≥n, pero seguir√°}
+{21068}{}{siendo posible a trav√©s de rutas alternativas.}
 {21069}{}{**END-PAR**}
-{21070}{}{El autÈntico problema es que si la computadora se a-}
+{21070}{}{El aut√©ntico problema es que si la computadora se a-}
 {21071}{}{pagase o destruyese, ambos eventos altamente impro-}
-{21072}{}{bables, el n˙cleo alcanzar· el punto crÌtico de fusiÛn}
-{21073}{}{en un plazo de dos horas. Necesitamos instalar alg˙n}
-{21074}{}{tipo de sistema de mantenimiento humano. SÈ que}
-{21075}{}{pensar·n que soy un alarmista por el hecho de observar}
+{21072}{}{bables, el n√∫cleo alcanzar√° el punto cr√≠tico de fusi√≥n}
+{21073}{}{en un plazo de dos horas. Necesitamos instalar alg√∫n}
+{21074}{}{tipo de sistema de mantenimiento humano. S√© que}
+{21075}{}{pensar√°n que soy un alarmista por el hecho de observar}
 {21076}{}{estas previsiones para un evento impensable, pero sin}
 {21077}{}{embargo es indispensable estar preparado.}
 {21078}{}{**END-PAR**}
-{21079}{}{Mientras tanto, asegurÈmonos de que nadie vuele}
+{21079}{}{Mientras tanto, asegur√©monos de que nadie vuele}
 {21080}{}{nuestra computadora (ja, ja).}
 {21081}{}{**END-PAR**}
 {21082}{}{Atentamente: Tom Murray, Presidente, C.E.A.}

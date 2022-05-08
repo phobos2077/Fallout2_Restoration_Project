@@ -1,109 +1,109 @@
 {100}{}{Ves a un esclavista.}
-{150}{}{Parece capaz de arreglárselas en una pelea.}
-{200}{}{Ah, carne fresca... Bienvenio al gremio de esclavistas. Mi nombre es Aidan. ¿Tas aquí por negocios? Mejor que lo estés.}
-{201}{}{¿Exactamente a qué se dedica tu gremio?}
-{202}{}{¿Gremio de Esclavistas?}
-{203}{}{¿G-gremio de Revistas?}
-{204}{}{¿Aruk kun sung?}
-{215}{}{[Aidan te mira de arriba a abajo.] Bueno, ties pinta de que encajarías bien aquí, colega, pero tendrás que hablar con Metzger, por supuesto. Sigue por la puerta del fondo.}
-{216}{}{[Aidan te mira de arriba a abajo.] No ties pinta de poder con ello, amigo, ¿pero quién soy yo pa juzgar? Tendrás que hablar con Metzger. Está tras la puerta del fondo.}
-{217}{}{He dicho que hables con Metzger. ¿Tas sorda e idiota o sólo idiota?}
-{218}{}{¿Quién es Metzger?}
+{150}{}{Parece capaz de arreglÃ¡rselas en una pelea.}
+{200}{}{Ah, carne fresca... Bienvenio al gremio de esclavistas. Mi nombre es Aidan. Â¿Tas aquÃ­ por negocios? Mejor que lo estÃ©s.}
+{201}{}{Â¿Exactamente a quÃ© se dedica tu gremio?}
+{202}{}{Â¿Gremio de Esclavistas?}
+{203}{}{Â¿G-gremio de Revistas?}
+{204}{}{Â¿Aruk kun sung?}
+{215}{}{[Aidan te mira de arriba a abajo.] Bueno, ties pinta de que encajarÃ­as bien aquÃ­, colega, pero tendrÃ¡s que hablar con Metzger, por supuesto. Sigue por la puerta del fondo.}
+{216}{}{[Aidan te mira de arriba a abajo.] No ties pinta de poder con ello, amigo, Â¿pero quiÃ©n soy yo pa juzgar? TendrÃ¡s que hablar con Metzger. EstÃ¡ tras la puerta del fondo.}
+{217}{}{He dicho que hables con Metzger. Â¿Tas sorda e idiota o sÃ³lo idiota?}
+{218}{}{Â¿QuiÃ©n es Metzger?}
 {219}{}{Otra pregunta.}
-{220}{}{Gracias, lo haré.}
+{220}{}{Gracias, lo harÃ©.}
 {221}{}{Medger}
 {222}{}{Eh... vale.}
-{230}{}{Ahora, morirás.}
-{240}{}{¡Debes estar de coña! Capturamos y vendemos esclavos. Estás aquí pa eso, ¿no? ¿Tas buscando acción?}
-{241}{}{¡Debes estar de coña! Capturamos y vendemos esclavos. Si no estás aquí pa eso, ¿qué quies?}
-{242}{}{Así que te has unío. Esto será interesante. Si te gusta la acción, estás en el sitio adecuado. Si no te gusta, no durarás mucho.}
-{243}{}{Nunca pensé que vería a una mujer con ese tatuaje. Aunque te queda bien. Me ha sorprendido Metzger... joder. Así que, ¿qué te hace falta?}
-{244}{}{¿Qué quies? ¿Tas perdido o qué?}
-{245}{}{Hola de nuevo, chiquilla. ¿Qué quies?}
-{246}{}{¿Qué?}
+{230}{}{Ahora, morirÃ¡s.}
+{240}{}{Â¡Debes estar de coÃ±a! Capturamos y vendemos esclavos. EstÃ¡s aquÃ­ pa eso, Â¿no? Â¿Tas buscando acciÃ³n?}
+{241}{}{Â¡Debes estar de coÃ±a! Capturamos y vendemos esclavos. Si no estÃ¡s aquÃ­ pa eso, Â¿quÃ© quies?}
+{242}{}{AsÃ­ que te has unÃ­o. Esto serÃ¡ interesante. Si te gusta la acciÃ³n, estÃ¡s en el sitio adecuado. Si no te gusta, no durarÃ¡s mucho.}
+{243}{}{Nunca pensÃ© que verÃ­a a una mujer con ese tatuaje. Aunque te queda bien. Me ha sorprendido Metzger... joder. AsÃ­ que, Â¿quÃ© te hace falta?}
+{244}{}{Â¿QuÃ© quies? Â¿Tas perdido o quÃ©?}
+{245}{}{Hola de nuevo, chiquilla. Â¿QuÃ© quies?}
+{246}{}{Â¿QuÃ©?}
 {247}{}{Quiero unirme.}
-{248}{}{¿De dónde conseguís los esclavos?}
-{249}{}{Me gustaría comprar algunos esclavos.}
-{250}{}{¿Conoces a un hombre llamado Vic?}
+{248}{}{Â¿De dÃ³nde conseguÃ­s los esclavos?}
+{249}{}{Me gustarÃ­a comprar algunos esclavos.}
+{250}{}{Â¿Conoces a un hombre llamado Vic?}
 {251}{}{Busco a un mercader}
-{252}{}{¿Has oído hablar del Refugio 13?}
-{253}{}{Adiós.}
+{252}{}{Â¿Has oÃ­do hablar del Refugio 13?}
+{253}{}{AdiÃ³s.}
 {254}{}{Trabajo.}
 {255}{}{Comida.}
 {256}{}{Matar.}
 {257}{}{Uhg.}
 {270}{}{Ah, una sedienta de sangre. Bien... habla con el jefe. Puede que tengamos sitio para ti. Cruza la puerta del fondo.}
-{271}{}{Metzger nunca ha tenido a una puta esclavista, pero si de verdad tienes tanta sed de sangre, ve a verle. Está justo tras la puerta del fondo.}
+{271}{}{Metzger nunca ha tenido a una puta esclavista, pero si de verdad tienes tanta sed de sangre, ve a verle. EstÃ¡ justo tras la puerta del fondo.}
 {272}{}{Bieeeen.}
 {273}{}{Uh.}
 {274}{}{Matar...}
-{280}{}{Habla con Metzger pa eso. Normalmente no suele vender al público. Tiene las manos ocupadas con... clientes muy grandes.}
-{281}{}{¿Quién es Metzger?}
-{282}{}{¿Podría hacerte otra pregunta?}
-{283}{}{De acuerdo, adiós.}
-{284}{}{¿Podría comprar a Vic?}
-{290}{}{¡Qué dices! ¡Lárgate!}
-{291}{}{Puta estúpida.}
-{292}{}{¿Valeeee?}
+{280}{}{Habla con Metzger pa eso. Normalmente no suele vender al pÃºblico. Tiene las manos ocupadas con... clientes muy grandes.}
+{281}{}{Â¿QuiÃ©n es Metzger?}
+{282}{}{Â¿PodrÃ­a hacerte otra pregunta?}
+{283}{}{De acuerdo, adiÃ³s.}
+{284}{}{Â¿PodrÃ­a comprar a Vic?}
+{290}{}{Â¡QuÃ© dices! Â¡LÃ¡rgate!}
+{291}{}{Puta estÃºpida.}
+{292}{}{Â¿Valeeee?}
 {293}{}{Hmph.}
-{300}{}{No lo creo. Ese imbécil de Vic cabreó a Metzger por un asunto de una radio o algo así. Dudo que quiera venderlo. Pero tendrás que hablarlo con él.}
-{301}{}{Bueno, he oído que finalmente arregló la radio. Deberías pedírselo a Metzger. Ahora ya no es de mucha utilidad, no podríamos venderlo por mucho.}
-{302}{}{¿Quién es Metzger?}
-{303}{}{¿Dónde está Metzger?}
-{304}{}{Vale, gracias. Adiós.}
-{310}{}{Está en la habitación del fondo, cruzando esa puerta de ahí.}
-{311}{}{¿Estás jugando conmigo? Está justo al fondo. Tan sólo cruza por esa puerta.}
+{300}{}{No lo creo. Ese imbÃ©cil de Vic cabreÃ³ a Metzger por un asunto de una radio o algo asÃ­. Dudo que quiera venderlo. Pero tendrÃ¡s que hablarlo con Ã©l.}
+{301}{}{Bueno, he oÃ­do que finalmente arreglÃ³ la radio. DeberÃ­as pedÃ­rselo a Metzger. Ahora ya no es de mucha utilidad, no podrÃ­amos venderlo por mucho.}
+{302}{}{Â¿QuiÃ©n es Metzger?}
+{303}{}{Â¿DÃ³nde estÃ¡ Metzger?}
+{304}{}{Vale, gracias. AdiÃ³s.}
+{310}{}{EstÃ¡ en la habitaciÃ³n del fondo, cruzando esa puerta de ahÃ­.}
+{311}{}{Â¿EstÃ¡s jugando conmigo? EstÃ¡ justo al fondo. Tan sÃ³lo cruza por esa puerta.}
 {312}{}{Vale.}
 {313}{}{Gracias.}
-{320}{}{Maldición, ¿no sabes quién es Metzger? ¿Y qué tas haciendo en este pueblo, si no es pa verle? Es el jefe del Gremio de Esclavistas.}
-{321}{}{¿Cuántas veces tengo que decírtelo? Es el maestro esclavista. Dirige los asuntos en este pueblo.}
-{322}{}{¿Puedo preguntarte algo más?}
+{320}{}{MaldiciÃ³n, Â¿no sabes quiÃ©n es Metzger? Â¿Y quÃ© tas haciendo en este pueblo, si no es pa verle? Es el jefe del Gremio de Esclavistas.}
+{321}{}{Â¿CuÃ¡ntas veces tengo que decÃ­rtelo? Es el maestro esclavista. Dirige los asuntos en este pueblo.}
+{322}{}{Â¿Puedo preguntarte algo mÃ¡s?}
 {323}{}{Vale, gracias.}
-{330}{}{No voy a hablar de eso. Metzger me ahorcaría. Además, nosotros no querríamos competencia.}
+{330}{}{No voy a hablar de eso. Metzger me ahorcarÃ­a. AdemÃ¡s, nosotros no querrÃ­amos competencia.}
 {331}{}{Ya te lo he dicho, no voy a hablar de eso.}
-{332}{}{Dímelo antes de que te haga un agujero en la cabeza.}
-{333}{}{Entiendo. ¿Otra pregunta?}
-{334}{}{De acuerdo, adiós.}
-{340}{}{Escucha, gilipollas. No te atrevas a amenazarme a mí o nadie del gremio, o estás muerto. ¿Me oyes? Muerto.}
-{341}{}{Escucha, pequeña puta. No te atrevas a amenazarme a mí o nadie del gremio, o estás muerta. ¿Me oyes? Muerta.}
-{342}{}{Y ahora, morirás.}
-{343}{}{Jódete.}
-{344}{}{Lo siento, por favor no me hagas daño.}
-{345}{}{No importa. Te dejaré vivir por esta vez.}
-{350}{}{Oh, ¿de verdad? Quizás simplemente debería meterte una bala en la cabeza aquí y ahora mismo. ¿Qué piensas, pez gordo?}
-{351}{}{Adelante, atrévete.}
-{352}{}{No me hagas reír.}
-{353}{}{Sólo bromeaba, hombre.}
-{354}{}{Lo siento. Sólo trataba de impresionarte.}
+{332}{}{DÃ­melo antes de que te haga un agujero en la cabeza.}
+{333}{}{Entiendo. Â¿Otra pregunta?}
+{334}{}{De acuerdo, adiÃ³s.}
+{340}{}{Escucha, gilipollas. No te atrevas a amenazarme a mÃ­ o nadie del gremio, o estÃ¡s muerto. Â¿Me oyes? Muerto.}
+{341}{}{Escucha, pequeÃ±a puta. No te atrevas a amenazarme a mÃ­ o nadie del gremio, o estÃ¡s muerta. Â¿Me oyes? Muerta.}
+{342}{}{Y ahora, morirÃ¡s.}
+{343}{}{JÃ³dete.}
+{344}{}{Lo siento, por favor no me hagas daÃ±o.}
+{345}{}{No importa. Te dejarÃ© vivir por esta vez.}
+{350}{}{Oh, Â¿de verdad? QuizÃ¡s simplemente deberÃ­a meterte una bala en la cabeza aquÃ­ y ahora mismo. Â¿QuÃ© piensas, pez gordo?}
+{351}{}{Adelante, atrÃ©vete.}
+{352}{}{No me hagas reÃ­r.}
+{353}{}{SÃ³lo bromeaba, hombre.}
+{354}{}{Lo siento. SÃ³lo trataba de impresionarte.}
 {360}{}{Sal corriendo antes de que cambie de idea.}
 {361}{}{Vale.}
-{370}{}{¿Qué? Oh, debes estar buscando el restaurante de Mamá. Te has equivocado. Está en el edificio justo al sur. S-U-R. Por allí. [Aidan señala a la puerta.]}
-{371}{}{¿Eh? Uh… Oh.}
-{380}{}{Parece que encajarías, pero Metzger nunca ha contratado a una mujer. No estoy seguro del porqué, pero dudo que vaya a empezar ahora.}
-{381}{}{No das el perfil. Demonios, Metzger nunca ha contratado a una mujer. No estoy seguro del porqué, pero dudo que vaya a empezar ahora.}
+{370}{}{Â¿QuÃ©? Oh, debes estar buscando el restaurante de MamÃ¡. Te has equivocado. EstÃ¡ en el edificio justo al sur. S-U-R. Por allÃ­. [Aidan seÃ±ala a la puerta.]}
+{371}{}{Â¿Eh? Uhâ€¦ Oh.}
+{380}{}{Parece que encajarÃ­as, pero Metzger nunca ha contratado a una mujer. No estoy seguro del porquÃ©, pero dudo que vaya a empezar ahora.}
+{381}{}{No das el perfil. Demonios, Metzger nunca ha contratado a una mujer. No estoy seguro del porquÃ©, pero dudo que vaya a empezar ahora.}
 {382}{}{Te dije que hablaras con Metzger.}
-{383}{}{¿Quién es Metzger?}
+{383}{}{Â¿QuiÃ©n es Metzger?}
 {384}{}{Otra pregunta.}
-{385}{}{Gracias, lo haré.}
+{385}{}{Gracias, lo harÃ©.}
 {386}{}{Medger}
 {387}{}{Eh... vale.}
-{400}{}{No, pero lo consultaré con el jefe. Él ha debido estar en todos lados.}
+{400}{}{No, pero lo consultarÃ© con el jefe. Ã‰l ha debido estar en todos lados.}
 {401}{}{Otra pregunta.}
-{402}{}{Vale, gracias. Adiós.}
-{410}{}{¿Mercader? Oh, debes hablar de Vic, el tipo que le vende cosas viejas de los refugios. Está jodido. Metzger está bastante cabreado con él.}
-{411}{}{Si, Vic… ese mercader, ¿verdad? El que vende los cacharros viejos de los refugios. Está jodido. Metzger está bastante cabreado con él.}
-{412}{}{¿Cuántas veces me lo vas a preguntar? Metzger le ha cogido.}
-{413}{}{¿Quién es Metzger?}
-{414}{}{¿Puedo preguntarte otra cosa?}
-{415}{}{¿Está en venta?}
+{402}{}{Vale, gracias. AdiÃ³s.}
+{410}{}{Â¿Mercader? Oh, debes hablar de Vic, el tipo que le vende cosas viejas de los refugios. EstÃ¡ jodido. Metzger estÃ¡ bastante cabreado con Ã©l.}
+{411}{}{Si, Vicâ€¦ ese mercader, Â¿verdad? El que vende los cacharros viejos de los refugios. EstÃ¡ jodido. Metzger estÃ¡ bastante cabreado con Ã©l.}
+{412}{}{Â¿CuÃ¡ntas veces me lo vas a preguntar? Metzger le ha cogido.}
+{413}{}{Â¿QuiÃ©n es Metzger?}
+{414}{}{Â¿Puedo preguntarte otra cosa?}
+{415}{}{Â¿EstÃ¡ en venta?}
 {416}{}{Vale, gracias.}
 {430}{}{Eh, chicos, mirad quien ha vuelto.}
-{431}{}{¡Corred, es una esclavista! Ah, me parto.}
-{432}{}{¿Vuelves a por más acción?}
+{431}{}{Â¡Corred, es una esclavista! Ah, me parto.}
+{432}{}{Â¿Vuelves a por mÃ¡s acciÃ³n?}
 {433}{}{Ya sabes el camino.}
 {434}{}{Vamos, entra.}
-{435}{}{Te está esperando.}
-{436}{}{¿Y ahora qué?}
+{435}{}{Te estÃ¡ esperando.}
+{436}{}{Â¿Y ahora quÃ©?}
 {437}{}{Ya me conozco tu fea cara.}
-{438}{}{¿Cómo te va?}
-{439}{}{Has vuelto. ¿Te vas a unir?}
+{438}{}{Â¿CÃ³mo te va?}
+{439}{}{Has vuelto. Â¿Te vas a unir?}

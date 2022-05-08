@@ -1,1 +1,1 @@
-{100}{}{Widzisz szcz¹tki kilku mieszkañców Broken Hills.}
+{100}{}{Widzisz szczÄ…tki kilku mieszkaÅ„cÃ³w Broken Hills.}

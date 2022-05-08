@@ -1,63 +1,63 @@
 {100}{}{Tu vois un citoyen de La Fosse.}
 {101}{}{Tu vois Derek.}
-{150}{}{Il a l'air très agile.}
+{150}{}{Il a l'air trÃ¨s agile.}
 {200}{}{Va-t'en !}
 {201}{}{J'ai pas la force de parler.}
 {202}{}{Sors de chez moi !}
 {203}{}{Trouve-toi un autre endroit pour dormir.}
-{204}{}{Arrête de m'embêter !}
+{204}{}{ArrÃªte de m'embÃªter !}
 {205}{}{Je suis sur les rotules.}
 {206}{}{Ho !}
-{207}{}{Hé, que fais-tu là ?}
-{220}{}{Hé, tribal ! Ne t'approche pas de Metzger !}
+{207}{}{HÃ©, que fais-tu lÃ  ?}
+{220}{}{HÃ©, tribal ! Ne t'approche pas de Metzger !}
 {221}{}{Pourquoi fait-il toujours si chaud ?}
-{222}{}{Pourquoi vit-on dans le désert ?}
+{222}{}{Pourquoi vit-on dans le dÃ©sert ?}
 {223}{}{J'suis un bon cuisto.}
 {224}{}{Un jour, j'ouvrirai mon propre restaurant.}
 {225}{}{Ca m'plairait tellement d'avoir une vraie cuisine !}
 {226}{}{Pourquoi est-ce que je me fais toujours avoir ?}
 {227}{}{Les gens m'arnaquent tout le temps.}
-{228}{}{Fred est un rêveur. Son plan directeur, mon c%$ oui !}
+{228}{}{Fred est un rÃªveur. Son plan directeur, mon c%$ oui !}
 {240}{}{Chut ! Ils sont partout.}
-{241}{}{Arrête-les ?}
-{242}{}{Alors, tu l'as trouvé ce bouquin ?}
+{241}{}{ArrÃªte-les ?}
+{242}{}{Alors, tu l'as trouvÃ© ce bouquin ?}
 {243}{}{Je ne sais pas pourquoi Babeth ne veut pas m'embaucher.}
 {244}{}{Je ne disjoncterai pas !}
 {245}{}{Quel pied !}
 {246}{}{Ils sortent habituellement la nuit.}
 {247}{}{J'aime les pommes de terre !}
 {248}{}{Ne marche pas sur ce truc vert sans bottes !}
-{249}{}{Mets-le à l'envers.}
-{250}{}{Oh, j'ai vraiment mal à la tête maintenant.}
+{249}{}{Mets-le Ã  l'envers.}
+{250}{}{Oh, j'ai vraiment mal Ã  la tÃªte maintenant.}
 {251}{}{Je suis un vrai Cordon Bleu !}
-{252}{}{Je n'empoisonnerai jamais la nourriture des nouveaux-nés.}
-{260}{}{Hé, tu cherches du pain frais ?}
+{252}{}{Je n'empoisonnerai jamais la nourriture des nouveaux-nÃ©s.}
+{260}{}{HÃ©, tu cherches du pain frais ?}
 {261}{}{Oui.}
 {262}{}{Je cherche le livre de Babeth.}
 {263}{}{Non, salut.}
 {270}{}{Oh, salut !}
 {271}{}{Je ne le trouve nulle part.}
-{272}{}{Hé, que dis-tu de ce pain ?}
+{272}{}{HÃ©, que dis-tu de ce pain ?}
 {273}{}{Salut.}
-{280}{}{Ha ! C'est moi. Je t'ai dit que j'étais un vrai cordon bleu ? Babeth ne veut pas me prendre. Elle dit que je suis instable.}
-{281}{}{Elle a peut-être raison.}
+{280}{}{Ha ! C'est moi. Je t'ai dit que j'Ã©tais un vrai cordon bleu ? Babeth ne veut pas me prendre. Elle dit que je suis instable.}
+{281}{}{Elle a peut-Ãªtre raison.}
 {282}{}{Je cherche le livre de Babeth.}
 {283}{}{C'est super. Il faut que... heu, j'y aille.}
 {290}{}{Quoi ? Toi ! Va t'faire mec ! Je suis pas... Oh ! Merde.}
-{291}{}{Quoi ? Toi ! Va t'faire foutre pôv' pouff ! Je suis pas... Oh ! Merde.}
+{291}{}{Quoi ? Toi ! Va t'faire foutre pÃ´v' pouff ! Je suis pas... Oh ! Merde.}
 {292}{}{Putain.}
 {293}{}{J'en ai assez dit.}
-{300}{}{Oh oui. Je n'aimais pas ça. Trop de bisous. Je l'ai jeté au coin de ce bâtiment... non celui-ci, non celui-là...}
+{300}{}{Oh oui. Je n'aimais pas Ã§a. Trop de bisous. Je l'ai jetÃ© au coin de ce bÃ¢timent... non celui-ci, non celui-lÃ ...}
 {301}{}{Un livre ? Oh, ce livre ? Qui t'envoie ? Je sais pas si c'est bien. N'oublie pas ton mouchoir.}
 {302}{}{Je ne peux pas ! Ils... oh merde... As-tu le fromage ? Cache-toi ?}
-{303}{}{Hé, c'est pas mon problème. Qu'aurais-je dû faire ? Me battre contre eux ? Petits hommes verts, grandes dents pointues ! Merde ! Aïe ! Arrête !}
-{304}{}{J'ai mal à la tête ! Quoi... qui a dit ça ?}
-{305}{}{C'est très utile.}
+{303}{}{HÃ©, c'est pas mon problÃ¨me. Qu'aurais-je dÃ» faire ? Me battre contre eux ? Petits hommes verts, grandes dents pointues ! Merde ! AÃ¯e ! ArrÃªte !}
+{304}{}{J'ai mal Ã  la tÃªte ! Quoi... qui a dit Ã§a ?}
+{305}{}{C'est trÃ¨s utile.}
 {306}{}{Heu.}
 {310}{}{Quoi ! Tu te moques de moi ! Va te faire foutre ! Je ne suis pas instable ! Je sais cuisiner ! J'entends pas de voix !}
-{311}{}{Je vais... merde ! Fais chier ! Arrête ça ! Silence ! Quoi ? D'accord.}
-{312}{}{Hé ! Arr... ne... merde.}
+{311}{}{Je vais... merde ! Fais chier ! ArrÃªte Ã§a ! Silence ! Quoi ? D'accord.}
+{312}{}{HÃ© ! Arr... ne... merde.}
 {313}{}{Salut.}
 {314}{}{Rien.}
-{320}{}{Hé ! Casse-toi de là !}
+{320}{}{HÃ© ! Casse-toi de lÃ  !}
 {321}{}{Ne me touche pas !}

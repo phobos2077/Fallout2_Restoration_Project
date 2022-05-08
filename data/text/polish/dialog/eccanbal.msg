@@ -1,7 +1,7 @@
 {100}{}{Widzisz kanibala.}
-{101}{}{¯aaarcie!}
+{101}{}{Å»aaarcie!}
 {102}{}{Czas na obiad!}
-{103}{}{Hmmm... bia³e miêsko.}
+{103}{}{Hmmm... biaÅ‚e miÄ™sko.}
 {104}{}{Mniam!}
 {105}{}{Pycha!}
 {106}{}{Jakie kruchutkie.}

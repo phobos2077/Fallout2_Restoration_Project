@@ -1,30 +1,30 @@
 {100}{}{Vedi un attore comico.}
 {150}{}{Vedi un comico molto scarso. E' nervoso, e si vede.}
 {200}{}{Adesso e' troppo occupato nella sua performance per parlarti.}
-{1000}{}{Allora…uhm…perche' il radscorpione ha attraversato la strada?}
+{1000}{}{Alloraâ€¦uhmâ€¦perche' il radscorpione ha attraversato la strada?}
 {1001}{}{Per non dover ascoltare 'sta NOIA!}
 {1002}{}{Propongo di uccidere questo tipo!}
-{1003}{}{Perche' il radscorpione…uh, voleva allontanarsi dalle particelle radioattive del fallout…}
+{1003}{}{Perche' il radscorpioneâ€¦uh, voleva allontanarsi dalle particelle radioattive del falloutâ€¦}
 {1004}{}{Fai schifo!}
 {1005}{}{FOTTITI!}
-{1006}{}{Uh, lo scherzo, vedete... dato che era gia' un mutante, non aveva bisogno di attraversare la strada, percio'…uhm…}
+{1006}{}{Uh, lo scherzo, vedete... dato che era gia' un mutante, non aveva bisogno di attraversare la strada, percio'â€¦uhmâ€¦}
 {1007}{}{}
-{2000}{}{Eh-eh. Gecko…ghoul, giusto? Ghoul…cavoli, puzzano da far SCHIFO.}
+{2000}{}{Eh-eh. Geckoâ€¦ghoul, giusto? Ghoulâ€¦cavoli, puzzano da far SCHIFO.}
 {2001}{}{Puzzi!}
 {2002}{}{Questo tipo potrebbe fare soltanto il Saturday Night!}
-{2003}{}{Uhm… eh-eh… allora, uhm, i ghoul, cioe', puzzano terribilmente. Allora, come, uhm…}
+{2003}{}{Uhmâ€¦ eh-ehâ€¦ allora, uhm, i ghoul, cioe', puzzano terribilmente. Allora, come, uhmâ€¦}
 {2004}{}{Ho gia' detto che i ghoul puzzano?}
 {2005}{}{Uhm, dunque, trovo questo ghoul, cioe', e gli dico, "Voialtri siete invidiosi del fatto che io non puzzo?"}
 {2006}{}{E lui fa, "No. Uhm, perche' me lo chiedi?"}
 {2007}{}{E io gli dico "Perche' siete VERDI!"}
-{2008}{}{Uhm…verdi d'invidia. Capito?}
+{2008}{}{Uhmâ€¦verdi d'invidia. Capito?}
 {2010}{}{Buuu!}
 {2011}{}{}
-{3000}{}{Allora…c'era questa prostituta, cioe', questa stupida puttana…}
+{3000}{}{Alloraâ€¦c'era questa prostituta, cioe', questa stupida puttanaâ€¦}
 {3001}{}{Tua mamma era un puttana!}
 {3002}{}{"Puttana"? Ti sgozzero' non appena finito lo spettacolo!}
-{3003}{}{E…uhm…lei fa, cioe', lei fa, "Hai un gecko in tasca o sei solo...uhm, contento di vedermi?"}
-{3006}{}{Uhm…vi ho detto che si trattava di un Gecko sputafuoco...? Eh-eh.}
+{3003}{}{Eâ€¦uhmâ€¦lei fa, cioe', lei fa, "Hai un gecko in tasca o sei solo...uhm, contento di vedermi?"}
+{3006}{}{Uhmâ€¦vi ho detto che si trattava di un Gecko sputafuoco...? Eh-eh.}
 {3007}{}{}
 {4000}{}{E i Vertibird?}
 {4001}{}{Verti-che?}

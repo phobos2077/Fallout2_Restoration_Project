@@ -1,4 +1,4 @@
-1:A tudósok által mutánssá tett új növény érz? lénnyé vált.
-2:Megölte a laboratóriumi technikusokat, és átvette a kreátor laborjának irányítását.
-3:Komoly er?feszítést igényelt, hogy elpusztítsák a lényt, és ez nyomorba taszította a Shi-ket.
-4:Ezt követ?en végleg elt?ntek a pusztaságban.
+1:A tudÃ³sok Ã¡ltal mutÃ¡nssÃ¡ tett Ãºj nÃ¶vÃ©ny Ã©rz? lÃ©nnyÃ© vÃ¡lt.
+2:MegÃ¶lte a laboratÃ³riumi technikusokat, Ã©s Ã¡tvette a kreÃ¡tor laborjÃ¡nak irÃ¡nyÃ­tÃ¡sÃ¡t.
+3:Komoly er?feszÃ­tÃ©st igÃ©nyelt, hogy elpusztÃ­tsÃ¡k a lÃ©nyt, Ã©s ez nyomorba taszÃ­totta a Shi-ket.
+4:Ezt kÃ¶vet?en vÃ©gleg elt?ntek a pusztasÃ¡gban.

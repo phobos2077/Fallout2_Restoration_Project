@@ -1,289 +1,289 @@
-{100}{}{Ez itt egy lepusztult csöves.}
-{101}{}{Ez egy hiperaktív csöves.}
-{150}{}{Ez itt egy lepusztult csöves. Nagyon lassan mozog.}
-{151}{}{Ez itt egy lepusztult csöves. Betegnek t?nik.}
+{100}{}{Ez itt egy lepusztult csÃ¶ves.}
+{101}{}{Ez egy hiperaktÃ­v csÃ¶ves.}
+{150}{}{Ez itt egy lepusztult csÃ¶ves. Nagyon lassan mozog.}
+{151}{}{Ez itt egy lepusztult csÃ¶ves. Betegnek t?nik.}
 {152}{}{You see a wasted-looking junkie. He is so thin he looks like he would break in a strong wind.}
-{153}{}{Ez itt egy lepusztult csöves. Üres tekintettel néz vissza rád.}
-{154}{}{Ez itt egy lepusztult csöves. Olyan véreresek a szemei, hogy akár vért tudna könnyezni.}
-{155}{}{Ez itt egy lepusztult csöves. Akármikor mozdul egyet, összerezzen, mintha t?kkel szurkálnák.}
-{156}{}{Ez itt egy lepusztult csöves. A szemei táskásak, arcán fájdalmas kifejezés ül.}
-{160}{}{Ez itt egy csöves. Arcán üdvözült kifejezés ül.}
-{161}{}{Ez itt egy csöves. Arcán halovány mosoly ül és valami érzékelhetetlen ritmusra mozog.}
-{162}{}{Ez itt egy csöves. Üresen bámul a semmibe.}
-{163}{}{Ez itt egy csöves. Mosolyog és mögéd integet.}
-{164}{}{Ez itt egy csöves. Egyfolytában tapogatja az arcát és magában mormog.}
-{165}{}{Ez itt egy csöves. A szeme alatt lév? táskák ellenére úgy mosolyog, mintha épp az imént nyert volna a lottón.}
-{170}{}{Ez itt egy lepusztult csöves. Nagyon lassan mozog.}
-{171}{}{Ez itt egy lepusztult csöves. A n? úgy néz ki, mint aki hónapok óta nem evett.}
-{172}{}{Ez itt egy lepusztult csöves. Annyira sovány, hogy a legkisebb szél is elfújná.}
-{173}{}{Ez itt egy lepusztult csöves. A szeme akár egy kiment biztosíték.}
-{174}{}{Ez itt egy lepusztult csöves. Éhes pillantásokat vet rád.}
-{175}{}{Ez itt egy lepusztult, véreres szem? csöves.}
-{176}{}{Ez itt egy lepusztult csöves. Akárhányszor mozdul egyet, összerezdül, mintha t?vel szurkálnák.}
-{177}{}{Ez itt egy lepusztult csöves. A szeme táskás, az arcán fájdalmas kifejezés ül.}
-{180}{}{Ez itt egy csöves. A n? arcán üdvözült kifejezés ül.}
-{181}{}{Ez itt egy csöves. Egyszerre sír és nevet.}
-{182}{}{Ez itt egy csöves. Egyfolytában mosolyog és valami nem hallható zenére táncol.}
-{183}{}{Ez itt egy csöves. A semmibe bámul és sóhajtozik.}
-{184}{}{Ez itt egy csöves. Egyfolytában mosolyog és mögéd integet.}
-{185}{}{Ez itt egy csöves. Folyamatosan vakarja a kézfejét.}
-{186}{}{Ez itt egy csöves. Ide-oda hajlong és alig bír megállni a lábán.}
-{187}{}{Ez itt egy csöves. Lerobbant kinézete ellenére úgy mosolyog, mintha épp az imént nyert volna a lottón.}
-{200}{}{::Éljenez, aztán összerezzen::}
-{201}{}{::Er?tlenül tapsol, minden egyes tapsnál összerezdül::}
-{202}{}{::Alig hallhatóan fütyül::}
-{210}{}{Te vagy a legjobb... öö, valami. Te vagy a legjobb VALAMI!}
-{211}{}{::Ordít::}
-{212}{}{, te még a JET-nél is jobb vagy!}
-{213}{}{::Vadul éljenez::}
+{153}{}{Ez itt egy lepusztult csÃ¶ves. Ãœres tekintettel nÃ©z vissza rÃ¡d.}
+{154}{}{Ez itt egy lepusztult csÃ¶ves. Olyan vÃ©reresek a szemei, hogy akÃ¡r vÃ©rt tudna kÃ¶nnyezni.}
+{155}{}{Ez itt egy lepusztult csÃ¶ves. AkÃ¡rmikor mozdul egyet, Ã¶sszerezzen, mintha t?kkel szurkÃ¡lnÃ¡k.}
+{156}{}{Ez itt egy lepusztult csÃ¶ves. A szemei tÃ¡skÃ¡sak, arcÃ¡n fÃ¡jdalmas kifejezÃ©s Ã¼l.}
+{160}{}{Ez itt egy csÃ¶ves. ArcÃ¡n Ã¼dvÃ¶zÃ¼lt kifejezÃ©s Ã¼l.}
+{161}{}{Ez itt egy csÃ¶ves. ArcÃ¡n halovÃ¡ny mosoly Ã¼l Ã©s valami Ã©rzÃ©kelhetetlen ritmusra mozog.}
+{162}{}{Ez itt egy csÃ¶ves. Ãœresen bÃ¡mul a semmibe.}
+{163}{}{Ez itt egy csÃ¶ves. Mosolyog Ã©s mÃ¶gÃ©d integet.}
+{164}{}{Ez itt egy csÃ¶ves. EgyfolytÃ¡ban tapogatja az arcÃ¡t Ã©s magÃ¡ban mormog.}
+{165}{}{Ez itt egy csÃ¶ves. A szeme alatt lÃ©v? tÃ¡skÃ¡k ellenÃ©re Ãºgy mosolyog, mintha Ã©pp az imÃ©nt nyert volna a lottÃ³n.}
+{170}{}{Ez itt egy lepusztult csÃ¶ves. Nagyon lassan mozog.}
+{171}{}{Ez itt egy lepusztult csÃ¶ves. A n? Ãºgy nÃ©z ki, mint aki hÃ³napok Ã³ta nem evett.}
+{172}{}{Ez itt egy lepusztult csÃ¶ves. Annyira sovÃ¡ny, hogy a legkisebb szÃ©l is elfÃºjnÃ¡.}
+{173}{}{Ez itt egy lepusztult csÃ¶ves. A szeme akÃ¡r egy kiment biztosÃ­tÃ©k.}
+{174}{}{Ez itt egy lepusztult csÃ¶ves. Ã‰hes pillantÃ¡sokat vet rÃ¡d.}
+{175}{}{Ez itt egy lepusztult, vÃ©reres szem? csÃ¶ves.}
+{176}{}{Ez itt egy lepusztult csÃ¶ves. AkÃ¡rhÃ¡nyszor mozdul egyet, Ã¶sszerezdÃ¼l, mintha t?vel szurkÃ¡lnÃ¡k.}
+{177}{}{Ez itt egy lepusztult csÃ¶ves. A szeme tÃ¡skÃ¡s, az arcÃ¡n fÃ¡jdalmas kifejezÃ©s Ã¼l.}
+{180}{}{Ez itt egy csÃ¶ves. A n? arcÃ¡n Ã¼dvÃ¶zÃ¼lt kifejezÃ©s Ã¼l.}
+{181}{}{Ez itt egy csÃ¶ves. Egyszerre sÃ­r Ã©s nevet.}
+{182}{}{Ez itt egy csÃ¶ves. EgyfolytÃ¡ban mosolyog Ã©s valami nem hallhatÃ³ zenÃ©re tÃ¡ncol.}
+{183}{}{Ez itt egy csÃ¶ves. A semmibe bÃ¡mul Ã©s sÃ³hajtozik.}
+{184}{}{Ez itt egy csÃ¶ves. EgyfolytÃ¡ban mosolyog Ã©s mÃ¶gÃ©d integet.}
+{185}{}{Ez itt egy csÃ¶ves. Folyamatosan vakarja a kÃ©zfejÃ©t.}
+{186}{}{Ez itt egy csÃ¶ves. Ide-oda hajlong Ã©s alig bÃ­r megÃ¡llni a lÃ¡bÃ¡n.}
+{187}{}{Ez itt egy csÃ¶ves. Lerobbant kinÃ©zete ellenÃ©re Ãºgy mosolyog, mintha Ã©pp az imÃ©nt nyert volna a lottÃ³n.}
+{200}{}{::Ã‰ljenez, aztÃ¡n Ã¶sszerezzen::}
+{201}{}{::Er?tlenÃ¼l tapsol, minden egyes tapsnÃ¡l Ã¶sszerezdÃ¼l::}
+{202}{}{::Alig hallhatÃ³an fÃ¼tyÃ¼l::}
+{210}{}{Te vagy a legjobb... Ã¶Ã¶, valami. Te vagy a legjobb VALAMI!}
+{211}{}{::OrdÃ­t::}
+{212}{}{, te mÃ©g a JET-nÃ©l is jobb vagy!}
+{213}{}{::Vadul Ã©ljenez::}
 {214}{}{::Vadul tapsol::}
-{215}{}{::Fütyül::}
+{215}{}{::FÃ¼tyÃ¼l::}
 {220}{}{A fejem...}
-{221}{}{Kész vagyok... kész vagyok...}
-{222}{}{Rosszabb, mint múltkor...}
-{223}{}{Szerintem ez nagyon-nagyon sokáig így marad...}
-{224}{}{::Óóóóóóó::}
-{225}{}{::Sír::}
-{226}{}{::Köhög::}
-{227}{}{::Vakaródzik::}
-{228}{}{::Magában mormog::}
-{229}{}{Ez így... így nem mehet... tovább...}
-{230}{}{Láttad Jules-t mostanában? Kéne anyag.}
-{231}{}{Láttad Csipkés Jimmy J.-t mostanában? Kéne anyag.}
-{232}{}{Renesco gyógyszertárába igyekszem. Ott majd helyrepofoznak.}
+{221}{}{KÃ©sz vagyok... kÃ©sz vagyok...}
+{222}{}{Rosszabb, mint mÃºltkor...}
+{223}{}{Szerintem ez nagyon-nagyon sokÃ¡ig Ã­gy marad...}
+{224}{}{::Ã“Ã³Ã³Ã³Ã³Ã³Ã³::}
+{225}{}{::SÃ­r::}
+{226}{}{::KÃ¶hÃ¶g::}
+{227}{}{::VakarÃ³dzik::}
+{228}{}{::MagÃ¡ban mormog::}
+{229}{}{Ez Ã­gy... Ã­gy nem mehet... tovÃ¡bb...}
+{230}{}{LÃ¡ttad Jules-t mostanÃ¡ban? KÃ©ne anyag.}
+{231}{}{LÃ¡ttad CsipkÃ©s Jimmy J.-t mostanÃ¡ban? KÃ©ne anyag.}
+{232}{}{Renesco gyÃ³gyszertÃ¡rÃ¡ba igyekszem. Ott majd helyrepofoznak.}
 {233}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new GeForce card.}
-{240}{}{[Énekel.] Ez az adag éppen jó, ez az anyag éppen jó... Összeraknám a testem egy másik égi testen.}
-{241}{}{[Énekel.] Félre a tréfát ?rhajós vagyok, ...mm mm... még egy rakétát! }
-{242}{}{Vigyázat! Rózsaszín halálkarom három óránál!}
-{243}{}{Túl sok a fény! Kiégeti a szemem, kiégeti a szemem...}
-{244}{}{A fények... túl er?sek... ::Elsírja magát::}
+{240}{}{[Ã‰nekel.] Ez az adag Ã©ppen jÃ³, ez az anyag Ã©ppen jÃ³... Ã–sszeraknÃ¡m a testem egy mÃ¡sik Ã©gi testen.}
+{241}{}{[Ã‰nekel.] FÃ©lre a trÃ©fÃ¡t ?rhajÃ³s vagyok, ...mm mm... mÃ©g egy rakÃ©tÃ¡t! }
+{242}{}{VigyÃ¡zat! RÃ³zsaszÃ­n halÃ¡lkarom hÃ¡rom Ã³rÃ¡nÃ¡l!}
+{243}{}{TÃºl sok a fÃ©ny! KiÃ©geti a szemem, kiÃ©geti a szemem...}
+{244}{}{A fÃ©nyek... tÃºl er?sek... ::ElsÃ­rja magÃ¡t::}
 {245}{}{Reeeeeeeeno. Reeeeeeeeno. Reno?}
 {246}{}{Hol hagytam a fejem?}
-{247}{}{Igyál sört, szívjál füvet}
+{247}{}{IgyÃ¡l sÃ¶rt, szÃ­vjÃ¡l fÃ¼vet}
 {248}{}{Snootchie Boochies}
 {249}{}{::Kuncog::}
 {250}{}{::Nevet::}
-{251}{}{::Mosolyog és enyhén imbolyog::}
+{251}{}{::Mosolyog Ã©s enyhÃ©n imbolyog::}
 {252}{}{Ihhhiiiiiijjjjjjjjjjjjjjjjjjj}
-{253}{}{Szójafasírt. Szójakolbász. Szójatok a n?vérnek, hogy beálltam.}
-{254}{}{Hééló... hova t?nt az égbolt?}
-{255}{}{Ha a ruhám nem hagyja abba a pofázást, én rögtön leveszem.}
-{256}{}{Lélegzik a cip?m!}
+{253}{}{SzÃ³jafasÃ­rt. SzÃ³jakolbÃ¡sz. SzÃ³jatok a n?vÃ©rnek, hogy beÃ¡lltam.}
+{254}{}{HÃ©Ã©lÃ³... hova t?nt az Ã©gbolt?}
+{255}{}{Ha a ruhÃ¡m nem hagyja abba a pofÃ¡zÃ¡st, Ã©n rÃ¶gtÃ¶n leveszem.}
+{256}{}{LÃ©legzik a cip?m!}
 {257}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new GeForce card.}
-{258}{}{Te engem bámulsz?! Te engem bámulsz?!! Megöllek!}
-{270}{}{Öö... megünnepelném veled az Enklávés gy?zelmet, de a fejem tisztára lüktet. Gyere vissza éjszaka!}
-{271}{}{::Próbál tapsolni, de nem sikerül::}
-{272}{}{Remek volt! Túlságosan bel?ttem magam, hogy tudjam, mit csináltál, de biztos nagyszer? dologról van szó.}
-{273}{}{Ööö... kösz, hogy megmentettél minket. Van... ööö... egy kis felesleges apród?}
-{274}{}{Már én is megmentettem egyszer a világot. Talán túlságosan be voltam l?ve.}
-{275}{}{Az Enklávénak volt Jetje?}
-{276}{}{Te okoztad azt a nagy pukkanást délen? Megfájdult t?le a fejem.}
-{277}{}{Tudom, hogy megmentetted a világot, de nekünk, mellékszerepl?knek kell viselni a következményeit.}
-{278}{}{Engem Chris Avellone tervezett és Tom French szkriptelt. Nem én vagyok felel?s a Jetfügg?ségemért.}
-{279}{}{Igen, igen, nagyszer?, hogy megnyerted a játékot. Gondolom ez azt is jelenti, hogy hamarosan letörölsz minket a vinyódról. El?re is kösz.}
-{291}{}{Te vagy a legjobb... öö, valami. Te vagy a legjobb VALAMI!}
-{292}{}{, te még a JET-nél is jobb vagy!}
-{293}{}{Ember, bárcsak láthattam volna azt a robbanást, miközben be voltam l?ve. Nem lehetett semmi, he?}
-{294}{}{IMÁDLAK! H?S VAGY. EGY ISTENVERTE H?S. HALÁLRA TUDNÁLAK ÖLELNI.}
-{295}{}{Ha legközelebb mész Enklávét gyakni, engem is vigyél!}
-{296}{}{Király vagy, }
-{297}{}{Tudom, hogy megmentetted a világot, de nekünk, mellékszerepl?knek kell viselni a következményeit.}
+{258}{}{Te engem bÃ¡mulsz?! Te engem bÃ¡mulsz?!! MegÃ¶llek!}
+{270}{}{Ã–Ã¶... megÃ¼nnepelnÃ©m veled az EnklÃ¡vÃ©s gy?zelmet, de a fejem tisztÃ¡ra lÃ¼ktet. Gyere vissza Ã©jszaka!}
+{271}{}{::PrÃ³bÃ¡l tapsolni, de nem sikerÃ¼l::}
+{272}{}{Remek volt! TÃºlsÃ¡gosan bel?ttem magam, hogy tudjam, mit csinÃ¡ltÃ¡l, de biztos nagyszer? dologrÃ³l van szÃ³.}
+{273}{}{Ã–Ã¶Ã¶... kÃ¶sz, hogy megmentettÃ©l minket. Van... Ã¶Ã¶Ã¶... egy kis felesleges aprÃ³d?}
+{274}{}{MÃ¡r Ã©n is megmentettem egyszer a vilÃ¡got. TalÃ¡n tÃºlsÃ¡gosan be voltam l?ve.}
+{275}{}{Az EnklÃ¡vÃ©nak volt Jetje?}
+{276}{}{Te okoztad azt a nagy pukkanÃ¡st dÃ©len? MegfÃ¡jdult t?le a fejem.}
+{277}{}{Tudom, hogy megmentetted a vilÃ¡got, de nekÃ¼nk, mellÃ©kszerepl?knek kell viselni a kÃ¶vetkezmÃ©nyeit.}
+{278}{}{Engem Chris Avellone tervezett Ã©s Tom French szkriptelt. Nem Ã©n vagyok felel?s a JetfÃ¼gg?sÃ©gemÃ©rt.}
+{279}{}{Igen, igen, nagyszer?, hogy megnyerted a jÃ¡tÃ©kot. Gondolom ez azt is jelenti, hogy hamarosan letÃ¶rÃ¶lsz minket a vinyÃ³drÃ³l. El?re is kÃ¶sz.}
+{291}{}{Te vagy a legjobb... Ã¶Ã¶, valami. Te vagy a legjobb VALAMI!}
+{292}{}{, te mÃ©g a JET-nÃ©l is jobb vagy!}
+{293}{}{Ember, bÃ¡rcsak lÃ¡thattam volna azt a robbanÃ¡st, mikÃ¶zben be voltam l?ve. Nem lehetett semmi, he?}
+{294}{}{IMÃDLAK! H?S VAGY. EGY ISTENVERTE H?S. HALÃLRA TUDNÃLAK Ã–LELNI.}
+{295}{}{Ha legkÃ¶zelebb mÃ©sz EnklÃ¡vÃ©t gyakni, engem is vigyÃ©l!}
+{296}{}{KirÃ¡ly vagy, }
+{297}{}{Tudom, hogy megmentetted a vilÃ¡got, de nekÃ¼nk, mellÃ©kszerepl?knek kell viselni a kÃ¶vetkezmÃ©nyeit.}
 {298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
  I LOVE that one.}
-{299}{}{Kösz, hogy megmentettél bennünket. Megcsókolnálak, ha nem volna hányásszagú a leheletem.}
-{300}{}{Ha elég Jetet szednék be, én magam is le tudnám nyomni az Enklávét.}
-{301}{}{[Énekel egy részt a Mad Max 3-ból.] "We don't need another hero, we don't need to know the way home..."}
-{302}{}{Engem Chris Avellone tervezett és Tom French szkriptelt. Nem én vagyok felel?s a Jetfügg?ségemért.}
-{303}{}{L?jünk be közösen egy kis Jetet és ünnepeljük meg a gy?zelmet! Te fizetsz!}
-{304}{}{Ha letörlöd a játékot a merevlemezr?l, mi még megmaradunk?}
+{299}{}{KÃ¶sz, hogy megmentettÃ©l bennÃ¼nket. MegcsÃ³kolnÃ¡lak, ha nem volna hÃ¡nyÃ¡sszagÃº a leheletem.}
+{300}{}{Ha elÃ©g Jetet szednÃ©k be, Ã©n magam is le tudnÃ¡m nyomni az EnklÃ¡vÃ©t.}
+{301}{}{[Ã‰nekel egy rÃ©szt a Mad Max 3-bÃ³l.] "We don't need another hero, we don't need to know the way home..."}
+{302}{}{Engem Chris Avellone tervezett Ã©s Tom French szkriptelt. Nem Ã©n vagyok felel?s a JetfÃ¼gg?sÃ©gemÃ©rt.}
+{303}{}{L?jÃ¼nk be kÃ¶zÃ¶sen egy kis Jetet Ã©s Ã¼nnepeljÃ¼k meg a gy?zelmet! Te fizetsz!}
+{304}{}{Ha letÃ¶rlÃ¶d a jÃ¡tÃ©kot a merevlemezr?l, mi mÃ©g megmaradunk?}
 {305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
-{320}{}{Hogy mész fürdeni, ha ez a fémvacak rajtad van?}
-{321}{}{Ööö... te hozzám beszélsz?}
-{322}{}{Ó, te jó ég... ez a drogterápia egyre rosszabb. Most már beszél? bádogembereket látok magam körül.}
-{323}{}{Valaki fémet öntött rád?}
-{324}{}{Hé, ööö... van odabenn egy kis Jet?}
-{325}{}{Adj egy kis pénzt... á, hagyjuk...}
-{326}{}{::Kopog a páncélodon:: Hahó! Van otthon valaki?}
+{320}{}{Hogy mÃ©sz fÃ¼rdeni, ha ez a fÃ©mvacak rajtad van?}
+{321}{}{Ã–Ã¶Ã¶... te hozzÃ¡m beszÃ©lsz?}
+{322}{}{Ã“, te jÃ³ Ã©g... ez a drogterÃ¡pia egyre rosszabb. Most mÃ¡r beszÃ©l? bÃ¡dogembereket lÃ¡tok magam kÃ¶rÃ¼l.}
+{323}{}{Valaki fÃ©met Ã¶ntÃ¶tt rÃ¡d?}
+{324}{}{HÃ©, Ã¶Ã¶Ã¶... van odabenn egy kis Jet?}
+{325}{}{Adj egy kis pÃ©nzt... Ã¡, hagyjuk...}
+{326}{}{::Kopog a pÃ¡ncÃ©lodon:: HahÃ³! Van otthon valaki?}
 {327}{}{Te valami fridzsider-ember hibrid vagy?}
-{328}{}{Nem melegszik fel belülr?l az az izé?}
-{350}{}{Ha adsz egy kis Jetet, hajcsár, megmondom, hol lehet könnyen friss utánpótláshoz jutni errefelé.}
-{351}{}{Hajcsár, megtarthatod a gyerekemet, ha adsz egy kis Jetet cserébe...}
-{352}{}{Ha adsz pár dolcsit, a rabszolgád leszek... de el?ször is Jetre van szükségem.}
-{353}{}{Ha adsz egy kis Jetet, a rabszolgád leszek.}
-{354}{}{Ha adsz egy kis Jetet, eladhatsz rabszolgának.}
+{328}{}{Nem melegszik fel belÃ¼lr?l az az izÃ©?}
+{350}{}{Ha adsz egy kis Jetet, hajcsÃ¡r, megmondom, hol lehet kÃ¶nnyen friss utÃ¡npÃ³tlÃ¡shoz jutni errefelÃ©.}
+{351}{}{HajcsÃ¡r, megtarthatod a gyerekemet, ha adsz egy kis Jetet cserÃ©be...}
+{352}{}{Ha adsz pÃ¡r dolcsit, a rabszolgÃ¡d leszek... de el?szÃ¶r is Jetre van szÃ¼ksÃ©gem.}
+{353}{}{Ha adsz egy kis Jetet, a rabszolgÃ¡d leszek.}
+{354}{}{Ha adsz egy kis Jetet, eladhatsz rabszolgÃ¡nak.}
 {355}{}{No, man, I'm off drugs. Uh... why? You buying?}
-{360}{}{Te vagy az a bunyós? Kölcsönkérhetek egy kis lóvét?}
-{361}{}{Naaa, adj már egy kis pénzt!}
-{362}{}{Kérhetek t?led egy kis pénzt? Hidd el, visszafizetem!}
-{363}{}{Hé, ööö... van egy kis Jet nálad?}
-{364}{}{Ember, *repülnöm* kell most azonnal, ha tudod mire gondolok...}
-{365}{}{A fiamnak éget?en szüksége van egy orvosságra. Segíts, kérlek!}
-{366}{}{Nem adnál egy kis aprót?}
-{367}{}{Kéne egy kis pénz ételre...}
-{368}{}{Ha adsz egy kis Jetet, a rabszolgád leszek.}
-{369}{}{Ha adsz egy kis Jetet, eladhatsz rabszolgának.}
+{360}{}{Te vagy az a bunyÃ³s? KÃ¶lcsÃ¶nkÃ©rhetek egy kis lÃ³vÃ©t?}
+{361}{}{Naaa, adj mÃ¡r egy kis pÃ©nzt!}
+{362}{}{KÃ©rhetek t?led egy kis pÃ©nzt? Hidd el, visszafizetem!}
+{363}{}{HÃ©, Ã¶Ã¶Ã¶... van egy kis Jet nÃ¡lad?}
+{364}{}{Ember, *repÃ¼lnÃ¶m* kell most azonnal, ha tudod mire gondolok...}
+{365}{}{A fiamnak Ã©get?en szÃ¼ksÃ©ge van egy orvossÃ¡gra. SegÃ­ts, kÃ©rlek!}
+{366}{}{Nem adnÃ¡l egy kis aprÃ³t?}
+{367}{}{KÃ©ne egy kis pÃ©nz Ã©telre...}
+{368}{}{Ha adsz egy kis Jetet, a rabszolgÃ¡d leszek.}
+{369}{}{Ha adsz egy kis Jetet, eladhatsz rabszolgÃ¡nak.}
 {370}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {371}{}{Te a }
-{372}{}{Kölcsönkérhetek egy kis pénzt...? Ugyan már, nem nyúlom le!}
-{373}{}{Megdolgoznék egy kis Jetért...}
-{380}{}{Hé, tesó! Nem segítenél repülni?}
-{381}{}{Egy kis pénzért bármit megteszek érted. Vagy Jetért, ha van nálad.}
-{382}{}{Nem akarsz valakit, akivel elszállhatnál?}
+{372}{}{KÃ¶lcsÃ¶nkÃ©rhetek egy kis pÃ©nzt...? Ugyan mÃ¡r, nem nyÃºlom le!}
+{373}{}{MegdolgoznÃ©k egy kis JetÃ©rt...}
+{380}{}{HÃ©, tesÃ³! Nem segÃ­tenÃ©l repÃ¼lni?}
+{381}{}{Egy kis pÃ©nzÃ©rt bÃ¡rmit megteszek Ã©rted. Vagy JetÃ©rt, ha van nÃ¡lad.}
+{382}{}{Nem akarsz valakit, akivel elszÃ¡llhatnÃ¡l?}
 {383}{}{Apu?}
-{384}{}{Ember, *repülnöm* kell most azonnal, ha tudod mire gondolok...}
+{384}{}{Ember, *repÃ¼lnÃ¶m* kell most azonnal, ha tudod mire gondolok...}
 {385}{}{No, man, I'm off drugs. Uh... why? You buying?}
-{386}{}{Psszt... Nem tudnál megdobni egy kis Jettel?}
-{387}{}{Kölcsönkérhetek egy kis pénzt...? Meglásd visszafizetem!}
-{388}{}{Megdolgoznék egy kis Jetért...}
-{389}{}{Ugyan, barátom, adj már egy kis pénzt!}
-{390}{}{Kérhetek t?led egy kis pénzt? Hidd el, visszafizetem!}
-{391}{}{Hé, ööö... nincs nálad egy kis jet, barátom?}
-{392}{}{A fiamnak éget?en szüksége van egy orvosságra. Segíts, kérlek!}
-{393}{}{Nem adnál egy kis aprót?}
-{394}{}{Kellene egy kis pénz kajára... olyan nagy kérés ez?}
-{395}{}{Egy kis Jetért vagy pénzért lefekszem veled. Tiszta vagyok, nekem elhiheted!}
-{396}{}{Valamikor a renói nagymen?k közé tartoztam. Egy kis Jetért fejtágítást kaphatsz t?lem...}
-{397}{}{Ha adsz egy kis Jetet, a rabszolgád leszek.}
-{398}{}{Ha adsz egy kis Jetet, eladhatsz rabszolgának.}
-{399}{}{Hé, húgocskám! Segíts már repülnöm!}
-{400}{}{Ugyan, kisasszony, csak egy kevés aprót, ha lehetne...}
-{401}{}{Hahó, ööö... nincs egy kis Jetje, kisasszony?}
-{402}{}{Figyelj, nekem most azonnal *repülnöm* kell, ha érted, mire gondolok!}
+{386}{}{Psszt... Nem tudnÃ¡l megdobni egy kis Jettel?}
+{387}{}{KÃ¶lcsÃ¶nkÃ©rhetek egy kis pÃ©nzt...? MeglÃ¡sd visszafizetem!}
+{388}{}{MegdolgoznÃ©k egy kis JetÃ©rt...}
+{389}{}{Ugyan, barÃ¡tom, adj mÃ¡r egy kis pÃ©nzt!}
+{390}{}{KÃ©rhetek t?led egy kis pÃ©nzt? Hidd el, visszafizetem!}
+{391}{}{HÃ©, Ã¶Ã¶Ã¶... nincs nÃ¡lad egy kis jet, barÃ¡tom?}
+{392}{}{A fiamnak Ã©get?en szÃ¼ksÃ©ge van egy orvossÃ¡gra. SegÃ­ts, kÃ©rlek!}
+{393}{}{Nem adnÃ¡l egy kis aprÃ³t?}
+{394}{}{Kellene egy kis pÃ©nz kajÃ¡ra... olyan nagy kÃ©rÃ©s ez?}
+{395}{}{Egy kis JetÃ©rt vagy pÃ©nzÃ©rt lefekszem veled. Tiszta vagyok, nekem elhiheted!}
+{396}{}{Valamikor a renÃ³i nagymen?k kÃ¶zÃ© tartoztam. Egy kis JetÃ©rt fejtÃ¡gÃ­tÃ¡st kaphatsz t?lem...}
+{397}{}{Ha adsz egy kis Jetet, a rabszolgÃ¡d leszek.}
+{398}{}{Ha adsz egy kis Jetet, eladhatsz rabszolgÃ¡nak.}
+{399}{}{HÃ©, hÃºgocskÃ¡m! SegÃ­ts mÃ¡r repÃ¼lnÃ¶m!}
+{400}{}{Ugyan, kisasszony, csak egy kevÃ©s aprÃ³t, ha lehetne...}
+{401}{}{HahÃ³, Ã¶Ã¶Ã¶... nincs egy kis Jetje, kisasszony?}
+{402}{}{Figyelj, nekem most azonnal *repÃ¼lnÃ¶m* kell, ha Ã©rted, mire gondolok!}
 {403}{}{No, I'm off drugs. Uh... why? You buying?}
 {404}{}{Mami?}
-{420}{}{Hé, tesó! Nem segítenél repülni?}
-{421}{}{Gyerünk, fiú, adj már egy kis pénzt!}
-{422}{}{Egy kis Jetért vagy pénzért lefekszem veled. Tiszta vagyok, nekem elhiheted!}
-{423}{}{Olcsóbb vagyok, mint a családok kurvái. Öö, azért ne mondd el nekik, hogy elszedem el?lük a kuncsaftokat!}
-{424}{}{Bármit megteszek, ha adsz egy kis pénzt... vagy Jetet, ha van nálad.}
-{425}{}{Egyszer szépségversenyt nyertem Renóban. Látod, semmit nem változtam...}
-{426}{}{Nem akarsz valakit, akivel elszállhatnál?}
+{420}{}{HÃ©, tesÃ³! Nem segÃ­tenÃ©l repÃ¼lni?}
+{421}{}{GyerÃ¼nk, fiÃº, adj mÃ¡r egy kis pÃ©nzt!}
+{422}{}{Egy kis JetÃ©rt vagy pÃ©nzÃ©rt lefekszem veled. Tiszta vagyok, nekem elhiheted!}
+{423}{}{OlcsÃ³bb vagyok, mint a csalÃ¡dok kurvÃ¡i. Ã–Ã¶, azÃ©rt ne mondd el nekik, hogy elszedem el?lÃ¼k a kuncsaftokat!}
+{424}{}{BÃ¡rmit megteszek, ha adsz egy kis pÃ©nzt... vagy Jetet, ha van nÃ¡lad.}
+{425}{}{Egyszer szÃ©psÃ©gversenyt nyertem RenÃ³ban. LÃ¡tod, semmit nem vÃ¡ltoztam...}
+{426}{}{Nem akarsz valakit, akivel elszÃ¡llhatnÃ¡l?}
 {427}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {428}{}{Apu?}
-{429}{}{Psszt... Nem tudnál megdobni egy kis Jettel?}
-{430}{}{Kölcsönkérhetek egy kis pénzt...? Meglásd visszafizetem!}
-{431}{}{Megdolgoznék egy kis Jetért...}
-{432}{}{Kérhetek t?led egy kis pénzt? Hidd el, visszafizetem!}
-{433}{}{Hé, ööö... van nálad egy kis Jet, barátom? Ember, "repülnöm kell", ha érted, mire gondolok!}
-{434}{}{A fiamnak éget?en szüksége van egy orvosságra. Segíts, kérlek!}
-{435}{}{Nem adnál egy kis aprót?}
-{436}{}{Kellene egy kis pénz kajára... olyan nagy kérés ez?}
-{437}{}{Ha adsz egy kis Jetet, a rabszolgád leszek.}
-{438}{}{Ha adsz egy kis Jetet, eladhatsz rabszolgának.}
-{439}{}{Ugyan, kisasszony, csak egy kevés aprót, ha lehetne...}
-{440}{}{Hé, húgocskám! Segíts már repülnöm!}
+{429}{}{Psszt... Nem tudnÃ¡l megdobni egy kis Jettel?}
+{430}{}{KÃ¶lcsÃ¶nkÃ©rhetek egy kis pÃ©nzt...? MeglÃ¡sd visszafizetem!}
+{431}{}{MegdolgoznÃ©k egy kis JetÃ©rt...}
+{432}{}{KÃ©rhetek t?led egy kis pÃ©nzt? Hidd el, visszafizetem!}
+{433}{}{HÃ©, Ã¶Ã¶Ã¶... van nÃ¡lad egy kis Jet, barÃ¡tom? Ember, "repÃ¼lnÃ¶m kell", ha Ã©rted, mire gondolok!}
+{434}{}{A fiamnak Ã©get?en szÃ¼ksÃ©ge van egy orvossÃ¡gra. SegÃ­ts, kÃ©rlek!}
+{435}{}{Nem adnÃ¡l egy kis aprÃ³t?}
+{436}{}{Kellene egy kis pÃ©nz kajÃ¡ra... olyan nagy kÃ©rÃ©s ez?}
+{437}{}{Ha adsz egy kis Jetet, a rabszolgÃ¡d leszek.}
+{438}{}{Ha adsz egy kis Jetet, eladhatsz rabszolgÃ¡nak.}
+{439}{}{Ugyan, kisasszony, csak egy kevÃ©s aprÃ³t, ha lehetne...}
+{440}{}{HÃ©, hÃºgocskÃ¡m! SegÃ­ts mÃ¡r repÃ¼lnÃ¶m!}
 {441}{}{A kedvedre teszek... ha adsz egy kis Jetet.}
-{442}{}{Hé, ööö... nincs egy kis Jet nálad, húgi?}
-{443}{}{Húgocskám, "repülnöm" kell, ha érted, mire célzok.}
+{442}{}{HÃ©, Ã¶Ã¶Ã¶... nincs egy kis Jet nÃ¡lad, hÃºgi?}
+{443}{}{HÃºgocskÃ¡m, "repÃ¼lnÃ¶m" kell, ha Ã©rted, mire cÃ©lzok.}
 {444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
 {445}{}{Mami?}
-{450}{}{Szentséges...! Te meg mi a fene vagy? Valami robot?}
-{451}{}{Mit szedtél be, hogy ilyen fémes küls?d lett?}
-{452}{}{Öcsém! Egy vasember! És beszél hozzám...}
-{453}{}{Ha egy másik bolygóról jöttél, jobb ha visszamész... itt már nincs mit meghódítani.}
-{454}{}{A mindenségit... Látom Reno fényeit a sisakrostélyodban.}
-{455}{}{Úgy elszálltam, hogy... ööö, mit is akartam mondani?}
-{456}{}{Ember, nincs meleged ebben az izében?}
+{450}{}{SzentsÃ©ges...! Te meg mi a fene vagy? Valami robot?}
+{451}{}{Mit szedtÃ©l be, hogy ilyen fÃ©mes kÃ¼ls?d lett?}
+{452}{}{Ã–csÃ©m! Egy vasember! Ã‰s beszÃ©l hozzÃ¡m...}
+{453}{}{Ha egy mÃ¡sik bolygÃ³rÃ³l jÃ¶ttÃ©l, jobb ha visszamÃ©sz... itt mÃ¡r nincs mit meghÃ³dÃ­tani.}
+{454}{}{A mindensÃ©git... LÃ¡tom Reno fÃ©nyeit a sisakrostÃ©lyodban.}
+{455}{}{Ãšgy elszÃ¡lltam, hogy... Ã¶Ã¶Ã¶, mit is akartam mondani?}
+{456}{}{Ember, nincs meleged ebben az izÃ©ben?}
 {457}{}{Van valaki abban a vacakban?}
-{458}{}{Megáll az eszem, ha ez nem Mr. Darttttth Vadrrrr}
-{459}{}{Ember, nekem is kéne az anyagból, amit használsz. Úgy nézel ki, mint egy nagy, fém... valami...}
-{460}{}{Ember, te rossz játékba csöppentél! Próbálj ki valami csatarobotos játékot.}
-{461}{}{Te ?rhajós vagy?}
-{462}{}{El?bb még be kell l?nöm magamba néhány Jetet, hogy egyáltalán eszembe jusson a veled való kekeckedés...}
-{470}{}{Hé, hajcsár, mi a nagy helyzet?}
-{471}{}{El akarsz adni rabszolgának? He? Próbáld csak meg! Legy?zhetetlen vagyok!}
-{472}{}{Gyere, kapj el, hajcsár!}
-{473}{}{Nincs egy kis Jeted a számomra, hajcsár?}
-{474}{}{Olyan magasan szállok, hajcsár, hogy alig látlak odalenn.}
-{475}{}{Kötözködni akarsz, hajcsár? Én egy Jet hajtotta pofozógép vagyok! Úgy picsán rúglak, hogy attól koldulsz!}
-{476}{}{Akarsz velem repülni, hajcsár?}
-{477}{}{Mért látok kett?t bel?letek? ? a testvéred?}
-{478}{}{Hö? Te igazi vagyol?}
-{479}{}{Úgy elszálltam, hogy... ööö, mit is akartam mondani?}
-{480}{}{Repülni akarsz? Beszélj Juuuuules-el!}
-{481}{}{Csipkés Jimmy J. mindenkit rendbehoz. Ugye veszed az adást?}
-{482}{}{Ha találkozol Renescóval, mondd meg neki, hogy holnap megadom neki a tartozásomat.}
-{483}{}{Csipkés Jimmy cucca a LEGJOBB. Úgy elszállsz t?le, hogy többé nem akarsz földet érni.}
-{484}{}{Hozzám beszélsz? Hozzám beszélsz?!}
+{458}{}{MegÃ¡ll az eszem, ha ez nem Mr. Darttttth Vadrrrr}
+{459}{}{Ember, nekem is kÃ©ne az anyagbÃ³l, amit hasznÃ¡lsz. Ãšgy nÃ©zel ki, mint egy nagy, fÃ©m... valami...}
+{460}{}{Ember, te rossz jÃ¡tÃ©kba csÃ¶ppentÃ©l! PrÃ³bÃ¡lj ki valami csatarobotos jÃ¡tÃ©kot.}
+{461}{}{Te ?rhajÃ³s vagy?}
+{462}{}{El?bb mÃ©g be kell l?nÃ¶m magamba nÃ©hÃ¡ny Jetet, hogy egyÃ¡ltalÃ¡n eszembe jusson a veled valÃ³ kekeckedÃ©s...}
+{470}{}{HÃ©, hajcsÃ¡r, mi a nagy helyzet?}
+{471}{}{El akarsz adni rabszolgÃ¡nak? He? PrÃ³bÃ¡ld csak meg! Legy?zhetetlen vagyok!}
+{472}{}{Gyere, kapj el, hajcsÃ¡r!}
+{473}{}{Nincs egy kis Jeted a szÃ¡momra, hajcsÃ¡r?}
+{474}{}{Olyan magasan szÃ¡llok, hajcsÃ¡r, hogy alig lÃ¡tlak odalenn.}
+{475}{}{KÃ¶tÃ¶zkÃ¶dni akarsz, hajcsÃ¡r? Ã‰n egy Jet hajtotta pofozÃ³gÃ©p vagyok! Ãšgy picsÃ¡n rÃºglak, hogy attÃ³l koldulsz!}
+{476}{}{Akarsz velem repÃ¼lni, hajcsÃ¡r?}
+{477}{}{MÃ©rt lÃ¡tok kett?t bel?letek? ? a testvÃ©red?}
+{478}{}{HÃ¶? Te igazi vagyol?}
+{479}{}{Ãšgy elszÃ¡lltam, hogy... Ã¶Ã¶Ã¶, mit is akartam mondani?}
+{480}{}{RepÃ¼lni akarsz? BeszÃ©lj Juuuuules-el!}
+{481}{}{CsipkÃ©s Jimmy J. mindenkit rendbehoz. Ugye veszed az adÃ¡st?}
+{482}{}{Ha talÃ¡lkozol RenescÃ³val, mondd meg neki, hogy holnap megadom neki a tartozÃ¡somat.}
+{483}{}{CsipkÃ©s Jimmy cucca a LEGJOBB. Ãšgy elszÃ¡llsz t?le, hogy tÃ¶bbÃ© nem akarsz fÃ¶ldet Ã©rni.}
+{484}{}{HozzÃ¡m beszÃ©lsz? HozzÃ¡m beszÃ©lsz?!}
 {485}{}{Akarsz egy kicsit ebb?l?! He?}
 {486}{}{::Glares at you past drug-hazed eyes::}
-{487}{}{Akarsz velem repülni?}
-{488}{}{Hé, bajnok, mi a helyzet mostanában?}
-{489}{}{Bokszolni akarsz? He? Na, gyerünk!}
-{490}{}{Kötözködni akarsz, bajnok? Én egy Jet hajtotta pofozógép vagyok! Picsán foglak rúgni ám!}
-{500}{}{Hohó! Egy Családtag jött közénk!}
-{501}{}{Olyan magasan szállok, gengszter, hogy alig látlak odalenn.}
-{502}{}{Mért látok kett?t bel?letek? ? a testvéred?}
-{503}{}{Hé... te igazi Családtag vagy?}
-{504}{}{Hé, gengszter, úgy elszálltam, hogy... ööö, mit is akartam mondani?}
-{505}{}{Akarsz velem repülni, gengszter?}
-{506}{}{Repülni akarsz, gengszter? Beszélj Juuuuules-el!}
-{507}{}{Csipkés Jimmy J. mindenkit rendbehoz. Ugye veszed az adást?}
-{508}{}{Ha Renesco megbízásából jöttél, mondd meg neki, hogy holnapra meglesz a pénz!}
-{509}{}{Csipkés Jimmy cucca a LEGJOBB. Öö... kivéve, ha nem csíped ?t.}
-{510}{}{Hozzám beszélsz? Hozzám beszélsz?!}
-{511}{}{Kötözködni akarsz, te maffia bérenc? Én egy Jet hajtotta pofozógép vagyok! Jól picsán foglak rúgni!}
+{487}{}{Akarsz velem repÃ¼lni?}
+{488}{}{HÃ©, bajnok, mi a helyzet mostanÃ¡ban?}
+{489}{}{Bokszolni akarsz? He? Na, gyerÃ¼nk!}
+{490}{}{KÃ¶tÃ¶zkÃ¶dni akarsz, bajnok? Ã‰n egy Jet hajtotta pofozÃ³gÃ©p vagyok! PicsÃ¡n foglak rÃºgni Ã¡m!}
+{500}{}{HohÃ³! Egy CsalÃ¡dtag jÃ¶tt kÃ¶zÃ©nk!}
+{501}{}{Olyan magasan szÃ¡llok, gengszter, hogy alig lÃ¡tlak odalenn.}
+{502}{}{MÃ©rt lÃ¡tok kett?t bel?letek? ? a testvÃ©red?}
+{503}{}{HÃ©... te igazi CsalÃ¡dtag vagy?}
+{504}{}{HÃ©, gengszter, Ãºgy elszÃ¡lltam, hogy... Ã¶Ã¶Ã¶, mit is akartam mondani?}
+{505}{}{Akarsz velem repÃ¼lni, gengszter?}
+{506}{}{RepÃ¼lni akarsz, gengszter? BeszÃ©lj Juuuuules-el!}
+{507}{}{CsipkÃ©s Jimmy J. mindenkit rendbehoz. Ugye veszed az adÃ¡st?}
+{508}{}{Ha Renesco megbÃ­zÃ¡sÃ¡bÃ³l jÃ¶ttÃ©l, mondd meg neki, hogy holnapra meglesz a pÃ©nz!}
+{509}{}{CsipkÃ©s Jimmy cucca a LEGJOBB. Ã–Ã¶... kivÃ©ve, ha nem csÃ­ped ?t.}
+{510}{}{HozzÃ¡m beszÃ©lsz? HozzÃ¡m beszÃ©lsz?!}
+{511}{}{KÃ¶tÃ¶zkÃ¶dni akarsz, te maffia bÃ©renc? Ã‰n egy Jet hajtotta pofozÃ³gÃ©p vagyok! JÃ³l picsÃ¡n foglak rÃºgni!}
 {512}{}{Akarsz ebb?l egy kicsit, gengszter? He?}
 {513}{}{::Glares at you past drug-hazed eyes::}
-{520}{}{A mindenit... mivel lövöd magad? Nem maradt egy kicsi mutatóba?}
-{521}{}{Aszittem én vagyok itt a legelbaszottabb figura.}
-{522}{}{Hé, barátom... adj már abból az anyagból, amit magadba nyomtál!}
-{523}{}{Mondanám, hogy szálljunk együtt, de látom, már fenn vagy...}
-{524}{}{Mért látok kett?t bel?letek? ? a testvéred?}
-{525}{}{Honnan vetted azt a vackot, amit magadba nyomtál?}
-{530}{}{Ember, tudtad, hogy egy agyas robot követ mindenhova?}
-{531}{}{Szép! Biztos megint valami szar anyagot vettem be... most már agyas robotokat látok.}
-{532}{}{Ha még egyszer meglátom azt az agyas robotot itt zizeregni, rögtön felhagyok a Jettel!}
-{533}{}{Korábban én is úgy éreztem magam, mint a robot barátod... mondd meg neki, hogy rendben lesz, ha egyszer leszokik.}
-{534}{}{Mi a franc történt az agyas barátoddal? Elvesztette a testét?}
-{535}{}{Mondd már, hogy az a robotagy nem igazi! Légyszi...}
+{520}{}{A mindenit... mivel lÃ¶vÃ¶d magad? Nem maradt egy kicsi mutatÃ³ba?}
+{521}{}{Aszittem Ã©n vagyok itt a legelbaszottabb figura.}
+{522}{}{HÃ©, barÃ¡tom... adj mÃ¡r abbÃ³l az anyagbÃ³l, amit magadba nyomtÃ¡l!}
+{523}{}{MondanÃ¡m, hogy szÃ¡lljunk egyÃ¼tt, de lÃ¡tom, mÃ¡r fenn vagy...}
+{524}{}{MÃ©rt lÃ¡tok kett?t bel?letek? ? a testvÃ©red?}
+{525}{}{Honnan vetted azt a vackot, amit magadba nyomtÃ¡l?}
+{530}{}{Ember, tudtad, hogy egy agyas robot kÃ¶vet mindenhova?}
+{531}{}{SzÃ©p! Biztos megint valami szar anyagot vettem be... most mÃ¡r agyas robotokat lÃ¡tok.}
+{532}{}{Ha mÃ©g egyszer meglÃ¡tom azt az agyas robotot itt zizeregni, rÃ¶gtÃ¶n felhagyok a Jettel!}
+{533}{}{KorÃ¡bban Ã©n is Ãºgy Ã©reztem magam, mint a robot barÃ¡tod... mondd meg neki, hogy rendben lesz, ha egyszer leszokik.}
+{534}{}{Mi a franc tÃ¶rtÃ©nt az agyas barÃ¡toddal? Elvesztette a testÃ©t?}
+{535}{}{Mondd mÃ¡r, hogy az a robotagy nem igazi! LÃ©gyszi...}
 {536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
-{537}{}{Akarsz velem repülni? És mi a helyzet a robot haveroddal?}
-{538}{}{Kötözködni akarsz, te robotgy?jt?? Én egy Jet hajtotta pofozógép vagyok! Picsán foglak rúgni, aztán a kutyádat is szépen picsán fogom rúgni!}
+{537}{}{Akarsz velem repÃ¼lni? Ã‰s mi a helyzet a robot haveroddal?}
+{538}{}{KÃ¶tÃ¶zkÃ¶dni akarsz, te robotgy?jt?? Ã‰n egy Jet hajtotta pofozÃ³gÃ©p vagyok! PicsÃ¡n foglak rÃºgni, aztÃ¡n a kutyÃ¡dat is szÃ©pen picsÃ¡n fogom rÃºgni!}
 {539}{}{Akarsz ebb?l, te kis robotgy?jt??! He?}
-{540}{}{Hö? Te igazi vagyol?}
-{541}{}{Úgy elszálltam, hogy... ööö, mit is akartam mondani?}
-{542}{}{Repülni akarsz? Beszélj Juuuuules-el!}
-{543}{}{Csipkés Jimmy J. mindenkit rendbehoz. Ugye veszed az adást?}
-{544}{}{Ha találkozol Renescóval, mondd meg neki, hogy holnap megadom neki a tartozásomat.}
-{545}{}{Csipkés Jimmy cucca a LEGJOBB. Úgy elszállsz t?le, hogy többé nem akarsz földet érni.}
-{546}{}{Hozzám beszélsz? Hozzám beszélsz?!}
+{540}{}{HÃ¶? Te igazi vagyol?}
+{541}{}{Ãšgy elszÃ¡lltam, hogy... Ã¶Ã¶Ã¶, mit is akartam mondani?}
+{542}{}{RepÃ¼lni akarsz? BeszÃ©lj Juuuuules-el!}
+{543}{}{CsipkÃ©s Jimmy J. mindenkit rendbehoz. Ugye veszed az adÃ¡st?}
+{544}{}{Ha talÃ¡lkozol RenescÃ³val, mondd meg neki, hogy holnap megadom neki a tartozÃ¡somat.}
+{545}{}{CsipkÃ©s Jimmy cucca a LEGJOBB. Ãšgy elszÃ¡llsz t?le, hogy tÃ¶bbÃ© nem akarsz fÃ¶ldet Ã©rni.}
+{546}{}{HozzÃ¡m beszÃ©lsz? HozzÃ¡m beszÃ©lsz?!}
 {547}{}{::Glares at you past drug-hazed eyes::}
-{548}{}{Ember, tudtad, hogy egy mutáns jár a nyomodban?}
-{549}{}{Szépen vagyunk Valami szart vehettem be... most már mutánsokat hallucinálok.}
-{550}{}{Most én vagyok bel?ve vagy a barátod tényleg ekkora bazi nagy állat?}
-{551}{}{::Nevet:: A mutánsnak satu n?tt a vállára!}
-{552}{}{Öö... az most egy mutáns, vagy be vagyok állva?}
-{553}{}{A batár barátod elég elbaszott egy figurának látszik!}
-{554}{}{A batár barátod nagyon fosul néz ki... ::Kuncog::}
-{555}{}{Az a nagy darab pasi igazi? Tisztára úgy néz ki, mint egy mutáns.}
-{556}{}{Akarsz velem repülni? És mi a helyzet a mutáns haveroddal?}
-{557}{}{Kötözködsz, mutánsok kedvence? Én egy Jet f?tötte pofozógép vagyok! Jól PICSÁN foglak rúgni!}
-{558}{}{Akarsz ebb?l, te mutánsok kedvence?! He?}
-{560}{}{Ember, tudtad, hogy egy kannibál jár a nyomodban?}
-{561}{}{Azta! Még az a vadember! Szép dákó került az orrába.}
-{562}{}{Azta. A haverod tudja, hogy egy dákó n?tt az orrába?}
-{563}{}{Azta! Valami nagyon szar anyagot vehettem be... épp most láttam egy fickót, akinek dákó n?tt az orrába.}
-{564}{}{Most én vagyok betépve, vagy a haverodnak dákó n?tt az orrába?}
-{565}{}{Mondd már meg a haverodnak, hogy valaki belevert egy dákót az orrába.}
-{566}{}{Annyira elszálltam, hogy alig látlak odalenn.}
-{567}{}{Mért látok kett?t bel?letek? ? a testvéred?}
-{568}{}{Hö? Te igazi vagyol?}
-{569}{}{Úgy elszálltam, hogy... ööö, mit is akartam mondani?}
-{570}{}{Akarsz velem repülni?}
-{571}{}{Repülni akarsz? Beszélj Juuuuules-el!}
-{572}{}{Csipkés Jimmy J. mindenkit rendbehoz. Ugye veszed az adást?}
-{573}{}{Ha találkozol Renescóval, mondd meg neki, hogy holnap megadom neki a tartozásomat.}
-{574}{}{Csipkés Jimmy cucca a LEGJOBB. Úgy elszállsz t?le, hogy többé nem akarsz földet érni.}
-{575}{}{Hozzám beszélsz? Hozzám beszélsz?!}
-{576}{}{Kötözködsz? Egy Jettel töltött pofozógép vagyok! Jól PICSÁN foglak rúgni!}
+{548}{}{Ember, tudtad, hogy egy mutÃ¡ns jÃ¡r a nyomodban?}
+{549}{}{SzÃ©pen vagyunk Valami szart vehettem be... most mÃ¡r mutÃ¡nsokat hallucinÃ¡lok.}
+{550}{}{Most Ã©n vagyok bel?ve vagy a barÃ¡tod tÃ©nyleg ekkora bazi nagy Ã¡llat?}
+{551}{}{::Nevet:: A mutÃ¡nsnak satu n?tt a vÃ¡llÃ¡ra!}
+{552}{}{Ã–Ã¶... az most egy mutÃ¡ns, vagy be vagyok Ã¡llva?}
+{553}{}{A batÃ¡r barÃ¡tod elÃ©g elbaszott egy figurÃ¡nak lÃ¡tszik!}
+{554}{}{A batÃ¡r barÃ¡tod nagyon fosul nÃ©z ki... ::Kuncog::}
+{555}{}{Az a nagy darab pasi igazi? TisztÃ¡ra Ãºgy nÃ©z ki, mint egy mutÃ¡ns.}
+{556}{}{Akarsz velem repÃ¼lni? Ã‰s mi a helyzet a mutÃ¡ns haveroddal?}
+{557}{}{KÃ¶tÃ¶zkÃ¶dsz, mutÃ¡nsok kedvence? Ã‰n egy Jet f?tÃ¶tte pofozÃ³gÃ©p vagyok! JÃ³l PICSÃN foglak rÃºgni!}
+{558}{}{Akarsz ebb?l, te mutÃ¡nsok kedvence?! He?}
+{560}{}{Ember, tudtad, hogy egy kannibÃ¡l jÃ¡r a nyomodban?}
+{561}{}{Azta! MÃ©g az a vadember! SzÃ©p dÃ¡kÃ³ kerÃ¼lt az orrÃ¡ba.}
+{562}{}{Azta. A haverod tudja, hogy egy dÃ¡kÃ³ n?tt az orrÃ¡ba?}
+{563}{}{Azta! Valami nagyon szar anyagot vehettem be... Ã©pp most lÃ¡ttam egy fickÃ³t, akinek dÃ¡kÃ³ n?tt az orrÃ¡ba.}
+{564}{}{Most Ã©n vagyok betÃ©pve, vagy a haverodnak dÃ¡kÃ³ n?tt az orrÃ¡ba?}
+{565}{}{Mondd mÃ¡r meg a haverodnak, hogy valaki belevert egy dÃ¡kÃ³t az orrÃ¡ba.}
+{566}{}{Annyira elszÃ¡lltam, hogy alig lÃ¡tlak odalenn.}
+{567}{}{MÃ©rt lÃ¡tok kett?t bel?letek? ? a testvÃ©red?}
+{568}{}{HÃ¶? Te igazi vagyol?}
+{569}{}{Ãšgy elszÃ¡lltam, hogy... Ã¶Ã¶Ã¶, mit is akartam mondani?}
+{570}{}{Akarsz velem repÃ¼lni?}
+{571}{}{RepÃ¼lni akarsz? BeszÃ©lj Juuuuules-el!}
+{572}{}{CsipkÃ©s Jimmy J. mindenkit rendbehoz. Ugye veszed az adÃ¡st?}
+{573}{}{Ha talÃ¡lkozol RenescÃ³val, mondd meg neki, hogy holnap megadom neki a tartozÃ¡somat.}
+{574}{}{CsipkÃ©s Jimmy cucca a LEGJOBB. Ãšgy elszÃ¡llsz t?le, hogy tÃ¶bbÃ© nem akarsz fÃ¶ldet Ã©rni.}
+{575}{}{HozzÃ¡m beszÃ©lsz? HozzÃ¡m beszÃ©lsz?!}
+{576}{}{KÃ¶tÃ¶zkÃ¶dsz? Egy Jettel tÃ¶ltÃ¶tt pofozÃ³gÃ©p vagyok! JÃ³l PICSÃN foglak rÃºgni!}
 {577}{}{Akarsz egy kicsit ebb?l?! He?}
 {578}{}{::Glares at you past drug-hazed eyes::}
-{600}{}{Szép...}
+{600}{}{SzÃ©p...}
 {601}{}{Mmmm...}
 {602}{}{Haver vagy.}
 {603}{}{j}
 {604}{}{J}
-{605}{}{Adj egy J...öööö...}
-{796}{}{! KIRÁLY VAGY!! MI A KÖVETKEZ? LÉPÉS, BÉBI, MI A KÖVETKEZ??!!}
-{871}{}{ család tagja vagy? Nem tudnál meglepni egy kis Jettel?}
+{605}{}{Adj egy J...Ã¶Ã¶Ã¶Ã¶...}
+{796}{}{! KIRÃLY VAGY!! MI A KÃ–VETKEZ? LÃ‰PÃ‰S, BÃ‰BI, MI A KÃ–VETKEZ??!!}
+{871}{}{ csalÃ¡d tagja vagy? Nem tudnÃ¡l meglepni egy kis Jettel?}

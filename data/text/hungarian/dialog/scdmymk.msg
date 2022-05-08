@@ -1,6 +1,6 @@
-{100}{}{Ez keménykötés? férfi igen jól öltözött, és megfontolt lassúsággal mozog.}
-{101}{}{? Merk. Az itteniek csak Az Igazi Embernek hívják errefelé.}
-{102}{}{Ez az ember arrogáns h?vösséget áraszt magából. Nagyjából annyit érsz neki, mint a légy, amit szétmorzsol az ujjai közt.}
-{200}{}{Ez is olyan fickónak t?nik, aki inkább az öklével gondolkodik, mint a fejével.}
+{100}{}{Ez kemÃ©nykÃ¶tÃ©s? fÃ©rfi igen jÃ³l Ã¶ltÃ¶zÃ¶tt, Ã©s megfontolt lassÃºsÃ¡ggal mozog.}
+{101}{}{? Merk. Az itteniek csak Az Igazi Embernek hÃ­vjÃ¡k errefelÃ©.}
+{102}{}{Ez az ember arrogÃ¡ns h?vÃ¶ssÃ©get Ã¡raszt magÃ¡bÃ³l. NagyjÃ¡bÃ³l annyit Ã©rsz neki, mint a lÃ©gy, amit szÃ©tmorzsol az ujjai kÃ¶zt.}
+{200}{}{Ez is olyan fickÃ³nak t?nik, aki inkÃ¡bb az Ã¶klÃ©vel gondolkodik, mint a fejÃ©vel.}
 {201}{}{Hmmm. Merk egyik test?re.}
-{202}{}{Nagy. Kemény. Hülye. Test?r.}
+{202}{}{Nagy. KemÃ©ny. HÃ¼lye. Test?r.}

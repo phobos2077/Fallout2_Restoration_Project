@@ -1,16 +1,16 @@
-{100}{}{Ez a személy az ÚKK rend?rségének egyenruháját viseli.}
+{100}{}{Ez a szemÃ©ly az ÃšKK rend?rsÃ©gÃ©nek egyenruhÃ¡jÃ¡t viseli.}
 {101}{}{It's an NCR cop.}
-{102}{}{Elnézve ezeket az arcokat, nem számíthatsz túl sok kegyelemre.}
-{103}{}{Tegye el a fegyverét - MOST AZONNAL!}
-{104}{}{A szabályzat tiltja a fegyverviselést a városban. Tegye el azonnal!}
-{105}{}{Tegye el a fegyvert, és nem esik bántódása!}
-{106}{}{Mit keres itt éjnek évadján? Menjen haza!}
-{107}{}{Menjen tovább! Nincs itt semmi látnivaló!}
-{108}{}{Nem kellene éjszaka az utcán bolyongania!}
-{109}{}{Üdvözlöm, idegen! Új itt nálunk?}
-{110}{}{Menjen tovább! Nincs itt semmi látnivaló!}
-{111}{}{Szolgálatban vagyok. Ha problémája akadna, szóljon a seriffnek!}
-{112}{}{Hé, hagyja azt békén!}
-{113}{}{T?njön el onnan!}
-{114}{}{Nem kellene hozzányúlnia!}
-{115}{}{Ha nem hagyja abba, jogomban áll lel?ni magát.}
+{102}{}{ElnÃ©zve ezeket az arcokat, nem szÃ¡mÃ­thatsz tÃºl sok kegyelemre.}
+{103}{}{Tegye el a fegyverÃ©t - MOST AZONNAL!}
+{104}{}{A szabÃ¡lyzat tiltja a fegyverviselÃ©st a vÃ¡rosban. Tegye el azonnal!}
+{105}{}{Tegye el a fegyvert, Ã©s nem esik bÃ¡ntÃ³dÃ¡sa!}
+{106}{}{Mit keres itt Ã©jnek Ã©vadjÃ¡n? Menjen haza!}
+{107}{}{Menjen tovÃ¡bb! Nincs itt semmi lÃ¡tnivalÃ³!}
+{108}{}{Nem kellene Ã©jszaka az utcÃ¡n bolyongania!}
+{109}{}{ÃœdvÃ¶zlÃ¶m, idegen! Ãšj itt nÃ¡lunk?}
+{110}{}{Menjen tovÃ¡bb! Nincs itt semmi lÃ¡tnivalÃ³!}
+{111}{}{SzolgÃ¡latban vagyok. Ha problÃ©mÃ¡ja akadna, szÃ³ljon a seriffnek!}
+{112}{}{HÃ©, hagyja azt bÃ©kÃ©n!}
+{113}{}{T?njÃ¶n el onnan!}
+{114}{}{Nem kellene hozzÃ¡nyÃºlnia!}
+{115}{}{Ha nem hagyja abba, jogomban Ã¡ll lel?ni magÃ¡t.}

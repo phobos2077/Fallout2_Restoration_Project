@@ -1,42 +1,42 @@
-{100}{}{Egy ghoult látsz. Épp az els? lökhárítód alatt fekszik.}
-{101}{}{Lumpyt látod. Reméled, hogy nincs semmi baja.}
-{102}{}{Egy ghoult látsz, akinek, úgy t?nik, er?s fájdalmai vannak. Talán ha jobban tudnál vezetni, elkerülhetted volna ezt.}
-{103}{}{Oooooh! De fáj!}
+{100}{}{Egy ghoult lÃ¡tsz. Ã‰pp az els? lÃ¶khÃ¡rÃ­tÃ³d alatt fekszik.}
+{101}{}{Lumpyt lÃ¡tod. RemÃ©led, hogy nincs semmi baja.}
+{102}{}{Egy ghoult lÃ¡tsz, akinek, Ãºgy t?nik, er?s fÃ¡jdalmai vannak. TalÃ¡n ha jobban tudnÃ¡l vezetni, elkerÃ¼lhetted volna ezt.}
+{103}{}{Oooooh! De fÃ¡j!}
 {104}{}{Jaj! A gyomrom!}
-{105}{}{Nem látta valaki az epehólyagomat?}
+{105}{}{Nem lÃ¡tta valaki az epehÃ³lyagomat?}
 {106}{}{A gerincem! A gerincem!}
-{107}{}{Hamarosan találkozunk, Elizabeth!}
+{107}{}{Hamarosan talÃ¡lkozunk, Elizabeth!}
 {108}{}{Orvost...}
-{109}{}{Nem akar valaki segíteni? Nem tudom elolvasni a rendszámot.}
-{110}{}{Hé, haver!}
-{111}{}{Hé, kölyök!}
-{112}{}{A nevem Lumpy. Nem segítenél ki innen?}
-{113}{}{Ajjaj! Te jól lenni, Lumpy?}
-{114}{}{Istenem! Jól vagy, Lumpy?}
-{115}{}{Hopplá...}
-{116}{}{Óh, semmi gond. Eltekintve a többszöri csonttörést?l és az orrdíszt?l, ami jó magasra felcsúszott a seggembe, jól vagyok.}
-{117}{}{Ohhh. Kell segítsegg?}
-{118}{}{Tuti. Pá-pá.}
-{119}{}{Jól van, nyugodj meg! Kell segítség?}
-{120}{}{Hála istennek! Azt hittem, valami komoly bajod esett. Hát akkor, viszlát kés?bb!}
-{121}{}{[Lumpy csendesen a szemedbe néz. Pislant egyet. Majd még egyet.]}
-{122}{}{Uhhh... hüjje kéédés. Ugyi?}
+{109}{}{Nem akar valaki segÃ­teni? Nem tudom elolvasni a rendszÃ¡mot.}
+{110}{}{HÃ©, haver!}
+{111}{}{HÃ©, kÃ¶lyÃ¶k!}
+{112}{}{A nevem Lumpy. Nem segÃ­tenÃ©l ki innen?}
+{113}{}{Ajjaj! Te jÃ³l lenni, Lumpy?}
+{114}{}{Istenem! JÃ³l vagy, Lumpy?}
+{115}{}{HopplÃ¡...}
+{116}{}{Ã“h, semmi gond. Eltekintve a tÃ¶bbszÃ¶ri csonttÃ¶rÃ©st?l Ã©s az orrdÃ­szt?l, ami jÃ³ magasra felcsÃºszott a seggembe, jÃ³l vagyok.}
+{117}{}{Ohhh. Kell segÃ­tsegg?}
+{118}{}{Tuti. PÃ¡-pÃ¡.}
+{119}{}{JÃ³l van, nyugodj meg! Kell segÃ­tsÃ©g?}
+{120}{}{HÃ¡la istennek! Azt hittem, valami komoly bajod esett. HÃ¡t akkor, viszlÃ¡t kÃ©s?bb!}
+{121}{}{[Lumpy csendesen a szemedbe nÃ©z. Pislant egyet. Majd mÃ©g egyet.]}
+{122}{}{Uhhh... hÃ¼jje kÃ©Ã©dÃ©s. Ugyi?}
 {123}{}{Ezt igennek veszem.}
-{124}{}{Rohadtul úgy van! Mozdulni sem tudok! Ne félj, nem panaszkodok! Voltak már durvább sérüléseim is. Ez össze sem hasonlítható azzal, amikor pár évvel ezel?tt a kólás kamion ment át rajtam. Látnod kellett volna, kölyök! Kupakok mindenütt!}
-{125}{}{Áááááh. Vicces!}
-{126}{}{Nahát! Képzeld el, ha valaki rátalál a sivatagban! Hogy meggazdagodott volna!}
-{127}{}{Ahogy mondod. Arrh! Aúú! Kár, hogy véget kell vetnem ennek a sziporkázó beszélgetésnek, de ha segítenél kimászni a lökhárító alól, leköteleznél vele.}
+{124}{}{Rohadtul Ãºgy van! Mozdulni sem tudok! Ne fÃ©lj, nem panaszkodok! Voltak mÃ¡r durvÃ¡bb sÃ©rÃ¼lÃ©seim is. Ez Ã¶ssze sem hasonlÃ­thatÃ³ azzal, amikor pÃ¡r Ã©vvel ezel?tt a kÃ³lÃ¡s kamion ment Ã¡t rajtam. LÃ¡tnod kellett volna, kÃ¶lyÃ¶k! Kupakok mindenÃ¼tt!}
+{125}{}{ÃÃ¡Ã¡Ã¡Ã¡h. Vicces!}
+{126}{}{NahÃ¡t! KÃ©pzeld el, ha valaki rÃ¡talÃ¡l a sivatagban! Hogy meggazdagodott volna!}
+{127}{}{Ahogy mondod. Arrh! AÃºÃº! KÃ¡r, hogy vÃ©get kell vetnem ennek a sziporkÃ¡zÃ³ beszÃ©lgetÃ©snek, de ha segÃ­tenÃ©l kimÃ¡szni a lÃ¶khÃ¡rÃ­tÃ³ alÃ³l, lekÃ¶teleznÃ©l vele.}
 {128}{}{Szabad lenni?}
-{129}{}{Biztos vagy benne? Talán jobb lenne, ha nem mozdulnál!}
-{130}{}{Á, ne aggódj! El?bb-utóbb mindenem vissza fog ugrani a helyére.}
-{131}{}{Okké. Kész?}
-{132}{}{Rendben. Kész vagy?}
-{133}{}{Igen... hopplá! Hol a pokolban tanultál meg így vezetni?}
-{134}{}{Énmagamtó'.}
-{135}{}{Hát, ami azt illeti, önképz? vagyok.}
-{136}{}{Látszik, ha engem kérdezel.}
-{137}{}{Oh. Te Oké?}
-{138}{}{Óh... nos... hmmmm. Minden... rendben?}
-{139}{}{Én mondtam nekik, hogy közlekedési táblák kellenének, de figyeltek rám? Neeem... Ne is figyeljetek a vén Lumpyra!}
-{200}{}{Ó, basszus!}
+{129}{}{Biztos vagy benne? TalÃ¡n jobb lenne, ha nem mozdulnÃ¡l!}
+{130}{}{Ã, ne aggÃ³dj! El?bb-utÃ³bb mindenem vissza fog ugrani a helyÃ©re.}
+{131}{}{OkkÃ©. KÃ©sz?}
+{132}{}{Rendben. KÃ©sz vagy?}
+{133}{}{Igen... hopplÃ¡! Hol a pokolban tanultÃ¡l meg Ã­gy vezetni?}
+{134}{}{Ã‰nmagamtÃ³'.}
+{135}{}{HÃ¡t, ami azt illeti, Ã¶nkÃ©pz? vagyok.}
+{136}{}{LÃ¡tszik, ha engem kÃ©rdezel.}
+{137}{}{Oh. Te OkÃ©?}
+{138}{}{Ã“h... nos... hmmmm. Minden... rendben?}
+{139}{}{Ã‰n mondtam nekik, hogy kÃ¶zlekedÃ©si tÃ¡blÃ¡k kellenÃ©nek, de figyeltek rÃ¡m? Neeem... Ne is figyeljetek a vÃ©n Lumpyra!}
+{200}{}{Ã“, basszus!}
 {201}{}{Uh, oh. Me hit smelly man.}

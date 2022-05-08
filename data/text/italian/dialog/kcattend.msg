@@ -9,7 +9,7 @@
 {111}{}{Era da tanto tempo che non lo facevi, vero, caro?}
 {112}{}{Forse la prossima volta durerai piu' a lungo.}
 {113}{}{Questa non e' una gara di velocita, sai?.}
-{114}{}{Per caso i tuoi amici ti chiamano ‘Speedy’?}
+{114}{}{Per caso i tuoi amici ti chiamano â€˜Speedyâ€™?}
 {115}{}{Se tutti i miei clienti fossero cosi' veloci, potrei andarmene a casa prima.}
 {116}{}{E' piu' divertente se mi dai il tempo di aiutarti.}
 {117}{}{Se tu avessi aspettato che mi fossi spogliata, scommetto che ti sarebbe piaciuto di piu'.}

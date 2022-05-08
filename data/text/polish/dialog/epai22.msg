@@ -1,2 +1,2 @@
-{100}{}{Widzisz ciê¿kie drzwi prowadz¹ce do nastêpnej czêœci AOŒ.}
+{100}{}{Widzisz ciÄ™Å¼kie drzwi prowadzÄ…ce do nastÄ™pnej czÄ™Å›ci AOÅš.}
 {101}{}{Widzisz drzwi.}

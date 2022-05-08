@@ -1,7 +1,7 @@
-{100}{}{Widzisz osiedleñca.}
-{101}{}{Widzisz Sarê, bezdomn¹.}
-{102}{}{Widzisz kobietê w œrednim wieku, odzian¹ w podniszczone ubranie.}
-{103}{}{Proszê nie przeszkadzaj mi. Jestem teraz zajêta.}
-{104}{}{OdejdŸ proszê. Nic tu dla ciebie nie ma.}
-{105}{}{Dziêki, za pomoc Rebece. To by³ wspania³y uczynek bior¹c pod uwagê to, ¿e nawet jej nie znasz.}
-{106}{}{Nic ci nie zrobi³am! B³agam, nie zabijaj mnie.}
+{100}{}{Widzisz osiedleÅ„ca.}
+{101}{}{Widzisz SarÄ™, bezdomnÄ….}
+{102}{}{Widzisz kobietÄ™ w Å›rednim wieku, odzianÄ… w podniszczone ubranie.}
+{103}{}{ProszÄ™ nie przeszkadzaj mi. Jestem teraz zajÄ™ta.}
+{104}{}{OdejdÅº proszÄ™. Nic tu dla ciebie nie ma.}
+{105}{}{DziÄ™ki, za pomoc Rebece. To byÅ‚ wspaniaÅ‚y uczynek biorÄ…c pod uwagÄ™ to, Å¼e nawet jej nie znasz.}
+{106}{}{Nic ci nie zrobiÅ‚am! BÅ‚agam, nie zabijaj mnie.}

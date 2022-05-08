@@ -1,123 +1,123 @@
-{100}{}{Egy nagy darab, piszkos férfit látsz, halvány mosollyal és üres tekintettel.}
-{101}{}{? Torr Buckner, a város legostobább embere.}
-{102}{}{Egy nagy és er?s férfit látsz piszkos ruhában, üdvözült mosollyal az arcán.}
-{110}{}{Te lenni rossz. Bántani Torrt. Mennyél el!}
-{111}{}{Menny rossz ember! Ne báncsad Torrt!}
-{112}{}{Aúúúúú! T?nnyél el!}
-{113}{}{Haggyad abba Torr bántás.}
+{100}{}{Egy nagy darab, piszkos fÃ©rfit lÃ¡tsz, halvÃ¡ny mosollyal Ã©s Ã¼res tekintettel.}
+{101}{}{? Torr Buckner, a vÃ¡ros legostobÃ¡bb embere.}
+{102}{}{Egy nagy Ã©s er?s fÃ©rfit lÃ¡tsz piszkos ruhÃ¡ban, Ã¼dvÃ¶zÃ¼lt mosollyal az arcÃ¡n.}
+{110}{}{Te lenni rossz. BÃ¡ntani Torrt. MennyÃ©l el!}
+{111}{}{Menny rossz ember! Ne bÃ¡ncsad Torrt!}
+{112}{}{AÃºÃºÃºÃºÃº! T?nnyÃ©l el!}
+{113}{}{Haggyad abba Torr bÃ¡ntÃ¡s.}
 {114}{}{Torr good. No hurt Torr.}
-{115}{}{Torr fáj. Rossz emberek! Rossz emberek menni el!}
-{120}{}{Segít Torr! (Kérlek, segíts! Van valamiféle lény, ami nem hagyja, hogy elhagyjam ezt a helyet.)}
-{121}{}{Segít Torr!}
-{122}{}{Segít Torrnak. (Máris jövök és segítek, Torr, csak tarts ki még egy kicsit!)}
-{123}{}{Megpróbálok segíteni, Torr.}
-{130}{}{Szellem rossz, vigyázz! Segít Torr! (Vigyázz a Szellemmel a kanyonban! Majd beszélhetünk, ha kiszabadítottál innen.)}
-{131}{}{Nyüssz-nyüssz! Ááá! Szellem rossz! Segít Torr! Torr megy most!}
-{132}{}{Ookéé Torr! (Jól hangzik, Torr, t?njünk el innen.)}
-{133}{}{Majd kés?bb beszélünk. Most inkább t?njünk el innen.}
+{115}{}{Torr fÃ¡j. Rossz emberek! Rossz emberek menni el!}
+{120}{}{SegÃ­t Torr! (KÃ©rlek, segÃ­ts! Van valamifÃ©le lÃ©ny, ami nem hagyja, hogy elhagyjam ezt a helyet.)}
+{121}{}{SegÃ­t Torr!}
+{122}{}{SegÃ­t Torrnak. (MÃ¡ris jÃ¶vÃ¶k Ã©s segÃ­tek, Torr, csak tarts ki mÃ©g egy kicsit!)}
+{123}{}{MegprÃ³bÃ¡lok segÃ­teni, Torr.}
+{130}{}{Szellem rossz, vigyÃ¡zz! SegÃ­t Torr! (VigyÃ¡zz a Szellemmel a kanyonban! Majd beszÃ©lhetÃ¼nk, ha kiszabadÃ­tottÃ¡l innen.)}
+{131}{}{NyÃ¼ssz-nyÃ¼ssz! ÃÃ¡Ã¡! Szellem rossz! SegÃ­t Torr! Torr megy most!}
+{132}{}{OokÃ©Ã© Torr! (JÃ³l hangzik, Torr, t?njÃ¼nk el innen.)}
+{133}{}{Majd kÃ©s?bb beszÃ©lÃ¼nk. Most inkÃ¡bb t?njÃ¼nk el innen.}
 {140}{}{Me Torr. (I'm Torr. Can I help you with anything?)}
 {141}{}{Me Torr.}
 {142}{}{You Torr. (Hello, Torr. I do have a few questions for you.)}
-{143}{}{Örülök, hogy találkoztunk, Torr. Mi újság errefelé?}
+{143}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk, Torr. Mi ÃºjsÃ¡g errefelÃ©?}
 {144}{}{I am here about the brah- err, I mean moo-moos.}
-{150}{}{Én ?riz mú-múk bogárembert?l. (Én ?rzöm a család brahminjait a kétlábú, páncélos lények - amiket bogárembereknek hívok - kegyetlen éjszakai támadásaitól.)}
-{151}{}{Én ?riz mú-múk bogáremberekt?l.}
-{152}{}{Bogárember? (Bogáremberek? Ez jó megnevezésnek t?nik a leírásod alapján. Mesélj még róluk!)}
-{153}{}{Bogárember?}
+{150}{}{Ã‰n ?riz mÃº-mÃºk bogÃ¡rembert?l. (Ã‰n ?rzÃ¶m a csalÃ¡d brahminjait a kÃ©tlÃ¡bÃº, pÃ¡ncÃ©los lÃ©nyek - amiket bogÃ¡rembereknek hÃ­vok - kegyetlen Ã©jszakai tÃ¡madÃ¡saitÃ³l.)}
+{151}{}{Ã‰n ?riz mÃº-mÃºk bogÃ¡remberekt?l.}
+{152}{}{BogÃ¡rember? (BogÃ¡remberek? Ez jÃ³ megnevezÃ©snek t?nik a leÃ­rÃ¡sod alapjÃ¡n. MesÃ©lj mÃ©g rÃ³luk!)}
+{153}{}{BogÃ¡rember?}
 {160}{}{Bugmen take moo-moos at night. Torr scared! Hep Torr? (Well, as I said, they are nocturnal in
  their feeding habits. I sure could use some assistance in guarding the brahmin. Will you kill any
  bugmen that you see near the brahmin?)}
-{161}{}{Bogárember visznek mú-múkat éjjel. Torr fél. Segít Torr?}
+{161}{}{BogÃ¡rember visznek mÃº-mÃºkat Ã©jjel. Torr fÃ©l. SegÃ­t Torr?}
 {162}{}{Hep Torr hep moo-moo. (Yes, of course I'll help you fend off the predation of your family's
  brahmin by these nefarious bugmen.)}
-{163}{}{Bogáremberek rosszak. Nem segít Torrnak. (Hmm, most nem tudok segíteni neked a bogáremberek ügyében. sok szerencsét kívánok. Viszlát!)}
-{164}{}{Öm, persze, Torr. Segítek neked a brahminok ?rzésében.}
-{165}{}{Nem tudok (rázod a fejed) segíteni. Viszlát!}
-{166}{}{Cserél??? (Miel?tt belemennénk ebbe, nem ismersz egy keresked?t, aki itt él?)}
-{170}{}{Te seggít Torr. Mú-mú mez? (keletre mutat) sötét ugye? (mosolyog) (Köszönöm a támogatásod. Ma este tényleg szükségem van a segítségedre.)}
-{171}{}{Te segít Torr. Mú-mú mez?. (keletre mutat) sötét ugye? (mosolyog)}
-{172}{}{Segít Torr. (A keletre lév? legel?n találkozunk napnyugtakor.)}
-{173}{}{Torr? (Segítek ?rizni a brahminokat, de el?bb lenne még egy pár kérdésem.)}
-{174}{}{Ma este segítek ?rizni a brahminokat. Napnyugtakor találkozunk a legel?n. Viszlát!}
-{175}{}{Nem tudok segíteni a brahminok ?rzésében. Viszlát, Torr!}
-{180}{}{Torr beszél? (Mit szeretnél tudni, barátom?)}
-{181}{}{ itt! (Mi történik errefelé mostanában?)}
-{182}{}{ Zzzzzzz. Okkéé? (Kéne egy hely, ahol aludhatnék.)}
-{183}{}{Akar! (a cuccaidra mutatsz) (Hol tudnék csereberélni?)}
-{184}{}{Bar-ba ÉLET? (Hallottál már az Édenkert Létrehozást El?segít? Táskáról?)}
+{163}{}{BogÃ¡remberek rosszak. Nem segÃ­t Torrnak. (Hmm, most nem tudok segÃ­teni neked a bogÃ¡remberek Ã¼gyÃ©ben. sok szerencsÃ©t kÃ­vÃ¡nok. ViszlÃ¡t!)}
+{164}{}{Ã–m, persze, Torr. SegÃ­tek neked a brahminok ?rzÃ©sÃ©ben.}
+{165}{}{Nem tudok (rÃ¡zod a fejed) segÃ­teni. ViszlÃ¡t!}
+{166}{}{CserÃ©l??? (Miel?tt belemennÃ©nk ebbe, nem ismersz egy keresked?t, aki itt Ã©l?)}
+{170}{}{Te seggÃ­t Torr. MÃº-mÃº mez? (keletre mutat) sÃ¶tÃ©t ugye? (mosolyog) (KÃ¶szÃ¶nÃ¶m a tÃ¡mogatÃ¡sod. Ma este tÃ©nyleg szÃ¼ksÃ©gem van a segÃ­tsÃ©gedre.)}
+{171}{}{Te segÃ­t Torr. MÃº-mÃº mez?. (keletre mutat) sÃ¶tÃ©t ugye? (mosolyog)}
+{172}{}{SegÃ­t Torr. (A keletre lÃ©v? legel?n talÃ¡lkozunk napnyugtakor.)}
+{173}{}{Torr? (SegÃ­tek ?rizni a brahminokat, de el?bb lenne mÃ©g egy pÃ¡r kÃ©rdÃ©sem.)}
+{174}{}{Ma este segÃ­tek ?rizni a brahminokat. Napnyugtakor talÃ¡lkozunk a legel?n. ViszlÃ¡t!}
+{175}{}{Nem tudok segÃ­teni a brahminok ?rzÃ©sÃ©ben. ViszlÃ¡t, Torr!}
+{180}{}{Torr beszÃ©l? (Mit szeretnÃ©l tudni, barÃ¡tom?)}
+{181}{}{ itt! (Mi tÃ¶rtÃ©nik errefelÃ© mostanÃ¡ban?)}
+{182}{}{ Zzzzzzz. OkkÃ©Ã©? (KÃ©ne egy hely, ahol aludhatnÃ©k.)}
+{183}{}{Akar! (a cuccaidra mutatsz) (Hol tudnÃ©k csereberÃ©lni?)}
+{184}{}{Bar-ba Ã‰LET? (HallottÃ¡l mÃ¡r az Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡rÃ³l?)}
 {185}{}{Menni Torr. (Ez minden, amit meg akartam tudni.)}
-{190}{}{Okkké! Ogárembe, Ulik törzsi, Smiley t?nni. (Hát, itt van a bogárember problémám, akkor ott van Sulik, aki anyámnál dolgozza le a tartozását (azt hiszem, húgi szerelmes belé). Mami barátja, egy Smiley nev? fickó, elt?nt valahol nyugaton. Egész izgalmas itt mostanában.)}
-{191}{}{Torr? (Sok minden történik errefelé. Hadd kérdezzelek valami másról!)}
-{192}{}{Okké! (Ennyi információ elég is mára. Viszlát!)}
-{200}{}{Zzzzzz? Torr Zzzzz. (Hát, nyugodtan aludhatsz az én szobámban... ingyen.)}
-{201}{}{Torr Zzzzzz? (Aludhatok veled? Ez nagyon kedves t?led, most szavadon foglak. Kösz.)}
-{202}{}{Zzzzz? (Most nem szeretnék aludni, talán kés?bb. Viszont kérdeznék még valamit.)}
-{203}{}{Zzzzz No Torr. (Most nem akarok aludni. Köszönöm a nagylelk?ségedet. Viszlát, barátom!)}
-{210}{}{Uckner! Jóóó (A Buckner házban vannak a legjobb árak. Az Arany Gekkóban úgyis csak kiröhögnek.)}
-{211}{}{Uckner Jóóó? (Kösz, Ott fogok vásárolni. Hadd kérdezzek még valami mást!)}
-{212}{}{Jóóó nem. (Kössz a tanácsot, de most másra nincs szükségem. Viszlát!)}
-{220}{}{ÉLET Vic (Szóval egy ÉLET-et keresel? A menedékeknek volt olyanjuk, nem? Nem tudom, hogy manapság hol találnál ilyet, de Vic biztos tudja. ? f?leg háború el?tti dolgokkal üzletel. Klamath észak-keleti részén lakik.)}
-{221}{}{ÉLET Vic? (Kösz a felvilágosítást. Akkor megkérdezem Vict?l, de most lenne még pár kérdésem.)}
-{222}{}{Vettem? Élet Vic, Haji! (Kösz, megyek és megkeresem Vicet. Viszlát!)}
+{190}{}{OkkkÃ©! OgÃ¡rembe, Ulik tÃ¶rzsi, Smiley t?nni. (HÃ¡t, itt van a bogÃ¡rember problÃ©mÃ¡m, akkor ott van Sulik, aki anyÃ¡mnÃ¡l dolgozza le a tartozÃ¡sÃ¡t (azt hiszem, hÃºgi szerelmes belÃ©). Mami barÃ¡tja, egy Smiley nev? fickÃ³, elt?nt valahol nyugaton. EgÃ©sz izgalmas itt mostanÃ¡ban.)}
+{191}{}{Torr? (Sok minden tÃ¶rtÃ©nik errefelÃ©. Hadd kÃ©rdezzelek valami mÃ¡srÃ³l!)}
+{192}{}{OkkÃ©! (Ennyi informÃ¡ciÃ³ elÃ©g is mÃ¡ra. ViszlÃ¡t!)}
+{200}{}{Zzzzzz? Torr Zzzzz. (HÃ¡t, nyugodtan aludhatsz az Ã©n szobÃ¡mban... ingyen.)}
+{201}{}{Torr Zzzzzz? (Aludhatok veled? Ez nagyon kedves t?led, most szavadon foglak. KÃ¶sz.)}
+{202}{}{Zzzzz? (Most nem szeretnÃ©k aludni, talÃ¡n kÃ©s?bb. Viszont kÃ©rdeznÃ©k mÃ©g valamit.)}
+{203}{}{Zzzzz No Torr. (Most nem akarok aludni. KÃ¶szÃ¶nÃ¶m a nagylelk?sÃ©gedet. ViszlÃ¡t, barÃ¡tom!)}
+{210}{}{Uckner! JÃ³Ã³Ã³ (A Buckner hÃ¡zban vannak a legjobb Ã¡rak. Az Arany GekkÃ³ban Ãºgyis csak kirÃ¶hÃ¶gnek.)}
+{211}{}{Uckner JÃ³Ã³Ã³? (KÃ¶sz, Ott fogok vÃ¡sÃ¡rolni. Hadd kÃ©rdezzek mÃ©g valami mÃ¡st!)}
+{212}{}{JÃ³Ã³Ã³ nem. (KÃ¶ssz a tanÃ¡csot, de most mÃ¡sra nincs szÃ¼ksÃ©gem. ViszlÃ¡t!)}
+{220}{}{Ã‰LET Vic (SzÃ³val egy Ã‰LET-et keresel? A menedÃ©keknek volt olyanjuk, nem? Nem tudom, hogy manapsÃ¡g hol talÃ¡lnÃ¡l ilyet, de Vic biztos tudja. ? f?leg hÃ¡borÃº el?tti dolgokkal Ã¼zletel. Klamath Ã©szak-keleti rÃ©szÃ©n lakik.)}
+{221}{}{Ã‰LET Vic? (KÃ¶sz a felvilÃ¡gosÃ­tÃ¡st. Akkor megkÃ©rdezem Vict?l, de most lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.)}
+{222}{}{Vettem? Ã‰let Vic, Haji! (KÃ¶sz, megyek Ã©s megkeresem Vicet. ViszlÃ¡t!)}
 {229}{}{Torr szereti }
-{230}{}{. Torr köszöni. Bogáremberek rosszak, megeszik mú-mút! (Nagyon köszönöm a segítséget. Ezek a bogáremberek a frászt hozzák rám. Remélem, sikerül megakadályozni a brahminok elt?nését.)}
-{231}{}{. Torr köszöni. Bogáremberek rossz, nem hagyni bogáremberek megenni mú-mú!}
-{232}{}{Torr. (Biztos vagyok benne, hogy ketten már meg tudjuk akadályozni ?ket.) }
-{233}{}{Remélem, meg tudjuk védeni a mú-múkat ezekt?l az izékt?l. Ööö, azaz a brahminokat. Szerintem semmi nem fog megtámadni, ha mindketten itt vagyunk.}
-{234}{}{Az az igazság, azért vagyok itt, hogy figyelmeztesselek. Láttam pár bogárembert azokon a sziklákon túl. Figyelem én a brahminokat, amíg te elmész segítségért.}
-{240}{}{Okké? Segít Torrnak mú-mú? Ne bogárember! Bogárember rossz! (Azért vagy itt, hogy segíts megvédeni a brahminokat a bogáremberek támadásától?)}
-{241}{}{Okké? Segít Torrnak mú-mú? Ne bogárember! Bogárember rossz! }
-{242}{}{ segít mú-mú Torr. (Igen , azért vagyok itt, hogy segítsek neked megvédeni a brahminokat a bogáremberekkel szemben. Nem fognak elkapni egyet sem, ha mind a ketten itt vagyunk.)}
-{243}{}{Nem segít. (Sajnálom, de csak körülnézek, nem azért vagyok itt, hogy segítsek neked. Viszlát!)}
-{244}{}{Ööö, igen... azért vagyok itt, hogy segítsek ?rizni a brahminokat, azaz a mú-múkat, a bogáremberekt?l.}
-{245}{}{Az az igazság, azért vagyok itt, hogy figyelmeztesselek. Láttam pár bogárembert azokon a sziklákon túl. Figyelem én a mú-múkat, amíg te elmész segítségért.}
-{246}{}{Bocs Torr, de túl elfoglalt vagyok, hogy egy rakás brahmin mellett álldogáljak.}
+{230}{}{. Torr kÃ¶szÃ¶ni. BogÃ¡remberek rosszak, megeszik mÃº-mÃºt! (Nagyon kÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get. Ezek a bogÃ¡remberek a frÃ¡szt hozzÃ¡k rÃ¡m. RemÃ©lem, sikerÃ¼l megakadÃ¡lyozni a brahminok elt?nÃ©sÃ©t.)}
+{231}{}{. Torr kÃ¶szÃ¶ni. BogÃ¡remberek rossz, nem hagyni bogÃ¡remberek megenni mÃº-mÃº!}
+{232}{}{Torr. (Biztos vagyok benne, hogy ketten mÃ¡r meg tudjuk akadÃ¡lyozni ?ket.) }
+{233}{}{RemÃ©lem, meg tudjuk vÃ©deni a mÃº-mÃºkat ezekt?l az izÃ©kt?l. Ã–Ã¶Ã¶, azaz a brahminokat. Szerintem semmi nem fog megtÃ¡madni, ha mindketten itt vagyunk.}
+{234}{}{Az az igazsÃ¡g, azÃ©rt vagyok itt, hogy figyelmeztesselek. LÃ¡ttam pÃ¡r bogÃ¡rembert azokon a sziklÃ¡kon tÃºl. Figyelem Ã©n a brahminokat, amÃ­g te elmÃ©sz segÃ­tsÃ©gÃ©rt.}
+{240}{}{OkkÃ©? SegÃ­t Torrnak mÃº-mÃº? Ne bogÃ¡rember! BogÃ¡rember rossz! (AzÃ©rt vagy itt, hogy segÃ­ts megvÃ©deni a brahminokat a bogÃ¡remberek tÃ¡madÃ¡sÃ¡tÃ³l?)}
+{241}{}{OkkÃ©? SegÃ­t Torrnak mÃº-mÃº? Ne bogÃ¡rember! BogÃ¡rember rossz! }
+{242}{}{ segÃ­t mÃº-mÃº Torr. (Igen , azÃ©rt vagyok itt, hogy segÃ­tsek neked megvÃ©deni a brahminokat a bogÃ¡remberekkel szemben. Nem fognak elkapni egyet sem, ha mind a ketten itt vagyunk.)}
+{243}{}{Nem segÃ­t. (SajnÃ¡lom, de csak kÃ¶rÃ¼lnÃ©zek, nem azÃ©rt vagyok itt, hogy segÃ­tsek neked. ViszlÃ¡t!)}
+{244}{}{Ã–Ã¶Ã¶, igen... azÃ©rt vagyok itt, hogy segÃ­tsek ?rizni a brahminokat, azaz a mÃº-mÃºkat, a bogÃ¡remberekt?l.}
+{245}{}{Az az igazsÃ¡g, azÃ©rt vagyok itt, hogy figyelmeztesselek. LÃ¡ttam pÃ¡r bogÃ¡rembert azokon a sziklÃ¡kon tÃºl. Figyelem Ã©n a mÃº-mÃºkat, amÃ­g te elmÃ©sz segÃ­tsÃ©gÃ©rt.}
+{246}{}{Bocs Torr, de tÃºl elfoglalt vagyok, hogy egy rakÃ¡s brahmin mellett Ã¡lldogÃ¡ljak.}
 {249}{}{Torr szeret }
-{250}{}{. Torr szeret mama. Torr szeret papa. (Nagyon örülök, hogy megtaláltál. Már arra gondoltam, hogy megveszem azt a farmot.)}
+{250}{}{. Torr szeret mama. Torr szeret papa. (Nagyon Ã¶rÃ¼lÃ¶k, hogy megtalÃ¡ltÃ¡l. MÃ¡r arra gondoltam, hogy megveszem azt a farmot.)}
 {251}{}{. Torr szeret mama. Torr szeret papa.}
-{252}{}{Torr jó. (Semmiség az egész, te is megtetted volna értem, de most lenne pár kérdésem.)}
-{253}{}{Torr hehehe. (Hát, igazán vicces voltál, fogvatartott az az automata. Legközelebb légy óvatosabb! Viszlát!)}
-{254}{}{Torr, most már vigyázz magadra, oké? Hát, akkor, viszlát, Torr!}
-{255}{}{Fogalmad nincs, hogy mir?l beszélek, ugye? Te hülye idióta! Majdnem meghaltam miattad. Viszlát... a soha viszont nem látásra!}
-{260}{}{Bogárember rossz. Torr fél.}
-{261}{}{Torr látta bogáremberek bántják mú-mút.}
-{262}{}{Mú-mú sérült!}
-{263}{}{Bogárember kanyonból jön.}
-{264}{}{Torr látta halott bogárember.}
+{252}{}{Torr jÃ³. (SemmisÃ©g az egÃ©sz, te is megtetted volna Ã©rtem, de most lenne pÃ¡r kÃ©rdÃ©sem.)}
+{253}{}{Torr hehehe. (HÃ¡t, igazÃ¡n vicces voltÃ¡l, fogvatartott az az automata. LegkÃ¶zelebb lÃ©gy Ã³vatosabb! ViszlÃ¡t!)}
+{254}{}{Torr, most mÃ¡r vigyÃ¡zz magadra, okÃ©? HÃ¡t, akkor, viszlÃ¡t, Torr!}
+{255}{}{Fogalmad nincs, hogy mir?l beszÃ©lek, ugye? Te hÃ¼lye idiÃ³ta! Majdnem meghaltam miattad. ViszlÃ¡t... a soha viszont nem lÃ¡tÃ¡sra!}
+{260}{}{BogÃ¡rember rossz. Torr fÃ©l.}
+{261}{}{Torr lÃ¡tta bogÃ¡remberek bÃ¡ntjÃ¡k mÃº-mÃºt.}
+{262}{}{MÃº-mÃº sÃ©rÃ¼lt!}
+{263}{}{BogÃ¡rember kanyonbÃ³l jÃ¶n.}
+{264}{}{Torr lÃ¡tta halott bogÃ¡rember.}
 {265}{}{Hehehe.}
 {266}{}{Leonard?}
 {267}{}{Duntonok rosszak.}
-{268}{}{Szárított hús jóó.}
+{268}{}{SzÃ¡rÃ­tott hÃºs jÃ³Ã³.}
 {269}{}{Torr er?s.}
 {270}{}{Ook?}
-{271}{}{Zágzág.}
-{272}{}{Szörcs?}
-{273}{}{Aróó?}
+{271}{}{ZÃ¡gzÃ¡g.}
+{272}{}{SzÃ¶rcs?}
+{273}{}{ArÃ³Ã³?}
 {274}{}{Pisilnem kell.}
-{275}{}{Helló!}
+{275}{}{HellÃ³!}
 {276}{}{Szia!}
 {277}{}{Torr!}
-{279}{}{Torr lát }
-{280}{}{! (Üdv, barátom. Segíthetek valamiben?)}
-{281}{}{ lát Torr (Hát, igazából lenne pár kérdésem.)}
-{282}{}{Torr, viszlát! (Örülök, hogy újra látlak, Torr, de csak átutazóban vagyok. Viszlát!)}
-{300}{}{Torr szerez segítség! (Torr elrohan az éjszakába, és otthagy a mú-múkkal, illetve a brahminokkal.)}
-{301}{}{Bogár halott. Mú-múk jól. Torr köszöni!}
-{400}{}{Te segít Torr védni mú-múk arra (kelet felé mutat) most? (mosolyog) (Köszönöm a segítséget. Indulhatunk is.)}
-{401}{}{Te segít Torr védni mú-múk arra (kelet felé mutat) most? (mosolyog)}
-{402}{}{Segít Torr. (Veled tartok a legel?re.)}
-{404}{}{Akkor menjünk és védjük meg azokat a brahminokat, Torr!}
-{405}{}{Sajnos most nem érek rá segíteni neked, Torr.}
-{500}{}{Védni meg mú-múk!}
-{501}{}{Torr segít mú-múk!}
-{502}{}{Rossz n?, rossz! Nem bánt mú-múk!}
+{279}{}{Torr lÃ¡t }
+{280}{}{! (Ãœdv, barÃ¡tom. SegÃ­thetek valamiben?)}
+{281}{}{ lÃ¡t Torr (HÃ¡t, igazÃ¡bÃ³l lenne pÃ¡r kÃ©rdÃ©sem.)}
+{282}{}{Torr, viszlÃ¡t! (Ã–rÃ¼lÃ¶k, hogy Ãºjra lÃ¡tlak, Torr, de csak Ã¡tutazÃ³ban vagyok. ViszlÃ¡t!)}
+{300}{}{Torr szerez segÃ­tsÃ©g! (Torr elrohan az Ã©jszakÃ¡ba, Ã©s otthagy a mÃº-mÃºkkal, illetve a brahminokkal.)}
+{301}{}{BogÃ¡r halott. MÃº-mÃºk jÃ³l. Torr kÃ¶szÃ¶ni!}
+{400}{}{Te segÃ­t Torr vÃ©dni mÃº-mÃºk arra (kelet felÃ© mutat) most? (mosolyog) (KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get. Indulhatunk is.)}
+{401}{}{Te segÃ­t Torr vÃ©dni mÃº-mÃºk arra (kelet felÃ© mutat) most? (mosolyog)}
+{402}{}{SegÃ­t Torr. (Veled tartok a legel?re.)}
+{404}{}{Akkor menjÃ¼nk Ã©s vÃ©djÃ¼k meg azokat a brahminokat, Torr!}
+{405}{}{Sajnos most nem Ã©rek rÃ¡ segÃ­teni neked, Torr.}
+{500}{}{VÃ©dni meg mÃº-mÃºk!}
+{501}{}{Torr segÃ­t mÃº-mÃºk!}
+{502}{}{Rossz n?, rossz! Nem bÃ¡nt mÃº-mÃºk!}
 {503}{}{Menny el, te lenni rossz!}
 {504}{}{Rossz n?, rossz! Menny el!}
-{505}{}{Rossz emberek! Nem bánt mú-múk!}
-{506}{}{Nem bántani mú-múk!}
-{507}{}{Torr megment mú-múk!}
-{600}{}{Torr köszöni. Torr jól lenni. Te menni.}
-{700}{}{Cserél?? Itten? Vic ment Rejtek. (Egy helyi keresked?? Igen, Vic régiségekkel kereskedik, de most nincs a városban. Úgy tudom, Rejtekbe ment. Az délre van innen.)}
-{701}{}{Juhé! (Köszönöm, Torr. Mit is mondtál azokról a ragadozókról?)}
-{702}{}{Juhé! Torr! (Hálásan köszönöm, Torr. Te vagy itt a legjobb ember. Most mennem kell, de sok sikert kívánok az állataidhoz. Viszlát, Torr barátom!)}
+{505}{}{Rossz emberek! Nem bÃ¡nt mÃº-mÃºk!}
+{506}{}{Nem bÃ¡ntani mÃº-mÃºk!}
+{507}{}{Torr megment mÃº-mÃºk!}
+{600}{}{Torr kÃ¶szÃ¶ni. Torr jÃ³l lenni. Te menni.}
+{700}{}{CserÃ©l?? Itten? Vic ment Rejtek. (Egy helyi keresked?? Igen, Vic rÃ©gisÃ©gekkel kereskedik, de most nincs a vÃ¡rosban. Ãšgy tudom, Rejtekbe ment. Az dÃ©lre van innen.)}
+{701}{}{JuhÃ©! (KÃ¶szÃ¶nÃ¶m, Torr. Mit is mondtÃ¡l azokrÃ³l a ragadozÃ³krÃ³l?)}
+{702}{}{JuhÃ©! Torr! (HÃ¡lÃ¡san kÃ¶szÃ¶nÃ¶m, Torr. Te vagy itt a legjobb ember. Most mennem kell, de sok sikert kÃ­vÃ¡nok az Ã¡llataidhoz. ViszlÃ¡t, Torr barÃ¡tom!)}
 {800}{}{You have successfully rescued Torr.}

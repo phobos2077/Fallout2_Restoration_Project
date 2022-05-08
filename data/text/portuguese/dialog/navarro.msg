@@ -1,2 +1,2 @@
-{100}{}{Você encontrou um antigo posto de gasolina.}
-{101}{}{Você se encontra dentro de uma base militar ativa.}
+{100}{}{VocÃª encontrou um antigo posto de gasolina.}
+{101}{}{VocÃª se encontra dentro de uma base militar ativa.}

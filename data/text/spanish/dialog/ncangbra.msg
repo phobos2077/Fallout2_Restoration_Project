@@ -1,6 +1,6 @@
 {100}{}{Ves a un brahmin aparentemente enfermo.}
-{150}{}{Ves a un brahmin enorme y aparentemente enfermo. Su tripa parece dilatada y sus ojos están inyectados en sangre.}
-{151}{}{Ves a un brahmin enorme y aparentemente enfermo. Su tripa parece dilatada y sus ojos están inyectados en sangre. Parece muy enfermo. Quizá haya alguna forma de ayudarlo.}
+{150}{}{Ves a un brahmin enorme y aparentemente enfermo. Su tripa parece dilatada y sus ojos estÃ¡n inyectados en sangre.}
+{151}{}{Ves a un brahmin enorme y aparentemente enfermo. Su tripa parece dilatada y sus ojos estÃ¡n inyectados en sangre. Parece muy enfermo. QuizÃ¡ haya alguna forma de ayudarlo.}
 {198}{}{::Rnnnrrrrr?::}
 {199}{}{::Hrrnnnnr?::}
 {200}{}{Moo}

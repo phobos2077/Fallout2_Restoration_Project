@@ -1,69 +1,69 @@
 {100}{}{Te estoy vigilando, errante.}
 {101}{}{Creo que ya es hora de que te vayas.}
 {102}{}{No me gusta tu aspecto.}
-{103}{}{No metas las narices donde no debes, o te retiraré ese pase.}
-{104}{}{Ya son más de las seis de la tarde. Es hora de que vuelvas al Patio.}
-{105}{}{Está bien. Me marcho ahora mismo.}
+{103}{}{No metas las narices donde no debes, o te retirarÃ© ese pase.}
+{104}{}{Ya son mÃ¡s de las seis de la tarde. Es hora de que vuelvas al Patio.}
+{105}{}{EstÃ¡ bien. Me marcho ahora mismo.}
 {106}{}{De acuerdo. En un minuto me voy.}
 {107}{}{Tengo cosas que hacer. Voy a ir cuando yo estoy listo para ir.}
-{108}{}{¡¿¡Umag Nak!?! ¡Umag NAK!}
-{109}{}{Bien, me aseguraré de que llegues al Patio sano y salvo. Venga, en
+{108}{}{Â¡Â¿Â¡Umag Nak!?! Â¡Umag NAK!}
+{109}{}{Bien, me asegurarÃ© de que llegues al Patio sano y salvo. Venga, en
  marcha.}
-{110}{}{Bien. Vámonos.}
+{110}{}{Bien. VÃ¡monos.}
 {111}{}{Brog Frup}
 {112}{}{Puedo ir yo sola.}
-{113}{}{Lo siento, tengo mis órdenes. Debo escoltarte al otro lado de la puerta.}
-{114}{}{Está bien... pero no es algo que me haga feliz. Puedo elevar una queja form--}
-{115}{}{Lo siento, yo tengo *mis* órdenes. Me quedo.}
-{116}{}{(Se encoge de hombros). Oye, ya sido un día *muy* largo, amigo. Ven conmigo, no causes problemas,
- y este día no empeorará para ninguno de los dos. ¿Entendido?}
-{117}{}{Vale, está bien. Iré.}
-{118}{}{¡Por encima de mi cadáver!}
+{113}{}{Lo siento, tengo mis Ã³rdenes. Debo escoltarte al otro lado de la puerta.}
+{114}{}{EstÃ¡ bien... pero no es algo que me haga feliz. Puedo elevar una queja form--}
+{115}{}{Lo siento, yo tengo *mis* Ã³rdenes. Me quedo.}
+{116}{}{(Se encoge de hombros). Oye, ya sido un dÃ­a *muy* largo, amigo. Ven conmigo, no causes problemas,
+ y este dÃ­a no empeorarÃ¡ para ninguno de los dos. Â¿Entendido?}
+{117}{}{Vale, estÃ¡ bien. IrÃ©.}
+{118}{}{Â¡Por encima de mi cadÃ¡ver!}
 {119}{}{Ciudad Refugio prevalece, Ciudadana.}
 {120}{}{Encantado de verte, Ciudadana.}
-{121}{}{¿Un día ocupado, Ciudadana?}
-{122}{}{Después de ti, Ciudadana.}
+{121}{}{Â¿Un dÃ­a ocupado, Ciudadana?}
+{122}{}{DespuÃ©s de ti, Ciudadana.}
 {123}{}{Hola, viajera.}
-{124}{}{Métete en tus asuntos, Errante.}
+{124}{}{MÃ©tete en tus asuntos, Errante.}
 {125}{}{Recuerda, tienes hasta las seis de la tarde.}
-{126}{}{Debes irte de aquí a las seis de la tarde.}
+{126}{}{Debes irte de aquÃ­ a las seis de la tarde.}
 {127}{}{Oye, soy una Ciudadana.}
-{128}{}{Nada que informar, capitán.}
-{129}{}{Mantengo los ojos abiertos por aquí, capitán.}
-{130}{}{Ciudad Refugio prevalece, capitán.}
-{131}{}{Que le vaya bien, capitán.}
-{132}{}{¡Eh, tú! ¡Alto! ¡¿Qué está haciendo ese necrófago en Ciudad Refugio?!}
-{133}{}{¡Eh, tú! ¡Alto! ¡¿Qué está haciendo ese mutante en Ciudad Refugio?!}
+{128}{}{Nada que informar, capitÃ¡n.}
+{129}{}{Mantengo los ojos abiertos por aquÃ­, capitÃ¡n.}
+{130}{}{Ciudad Refugio prevalece, capitÃ¡n.}
+{131}{}{Que le vaya bien, capitÃ¡n.}
+{132}{}{Â¡Eh, tÃº! Â¡Alto! Â¡Â¿QuÃ© estÃ¡ haciendo ese necrÃ³fago en Ciudad Refugio?!}
+{133}{}{Â¡Eh, tÃº! Â¡Alto! Â¡Â¿QuÃ© estÃ¡ haciendo ese mutante en Ciudad Refugio?!}
 {134}{}{Breep-oop foop foop}
-{135}{}{¿Un necrófago? ¿Dónde?}
-{136}{}{¿Un mutante? ¿Dónde?}
-{137}{}{Está conmigo.}
-{138}{}{Viaja conmigo. Si alguno de vosotros, racistas, tenéis algún problema con eso, quizás deberíamos discutirlo aquí y ahora.}
-{139}{}{¿Está contigo? Entonces vais a venir con nosotros. Vamos a volver al Patio, donde tú... y esa cosa... pertenecéis.}
-{140}{}{De acuerdo, nos iremos pacíficamente.}
-{141}{}{¿Por qué no intentas escoltarnos fuera de aquí? Te garantizo que será una experiencia muy educativa.}
+{135}{}{Â¿Un necrÃ³fago? Â¿DÃ³nde?}
+{136}{}{Â¿Un mutante? Â¿DÃ³nde?}
+{137}{}{EstÃ¡ conmigo.}
+{138}{}{Viaja conmigo. Si alguno de vosotros, racistas, tenÃ©is algÃºn problema con eso, quizÃ¡s deberÃ­amos discutirlo aquÃ­ y ahora.}
+{139}{}{Â¿EstÃ¡ contigo? Entonces vais a venir con nosotros. Vamos a volver al Patio, donde tÃº... y esa cosa... pertenecÃ©is.}
+{140}{}{De acuerdo, nos iremos pacÃ­ficamente.}
+{141}{}{Â¿Por quÃ© no intentas escoltarnos fuera de aquÃ­? Te garantizo que serÃ¡ una experiencia muy educativa.}
 {142}{}{Genial, parece que tenemos entre nosotros a un par de idiotas. Muy bien, tonta.}
 {143}{}{Muy divertido.}
-{144}{}{Vais a venir con nosotros. Vamos a volver al Patio, donde tú... y esa cosa... pertenecéis.}
-{145}{}{¡NO ME VOY CON AMIGOS! TU NO AMIGO!}
+{144}{}{Vais a venir con nosotros. Vamos a volver al Patio, donde tÃº... y esa cosa... pertenecÃ©is.}
+{145}{}{Â¡NO ME VOY CON AMIGOS! TU NO AMIGO!}
 {146}{}{Nos vamos vamos sin ruidos}
-{147}{}{De acuerdo, nos iremos pacíficamente.}
-{148}{}{Viaja conmigo. Y si alguno de vosotros, capullos, tenéis un problema con eso, vamos a tener un baño de sangre ahora mismo.}
-{149}{}{¿Quieres hacerlo del modo difícil? Muy bien. ¡Guardias! ¡Intrusos!}
-{150}{}{¡Hrnghhhhhhhhhh!}
-{151}{}{Estarás muerto antes de que aparezcan esos amigos tuyos.}
-{152}{}{¡Vaya! ¡Es la que derrotó al Enclave!}
-{153}{}{¡Oye, enhorabuena por derrotar al Enclave!}
-{154}{}{¡Bienvenida a Ciudad Refugio, heroína!}
-{155}{}{Tu lucha contra el Enclave impresionó incluso a la Primer Ciudadano.}
-{156}{}{He oído que has viajado hacia el sur incluso hasta San Francisco. ¿Es cierto?}
-{157}{}{¿Es cierto que los Estados Unidos aún luchan en la guerra?}
-{158}{}{Deberías catalogar tus viajes en la computadora de Ciudad Refugio.}
-{159}{}{Estás invitado a quedarte en Ciudad Refugio tanto tiempo como quieras.}
-{160}{}{Deberías catalogar tus hazañas contra el Enclave y añadirlas al Servidor de Listas.}
-{161}{}{No te reconozco. ¿Dónde están tus documentos?}
-{162}{}{Aquí están, "oficial". Creo que comprobarás que todo está en orden.}
+{147}{}{De acuerdo, nos iremos pacÃ­ficamente.}
+{148}{}{Viaja conmigo. Y si alguno de vosotros, capullos, tenÃ©is un problema con eso, vamos a tener un baÃ±o de sangre ahora mismo.}
+{149}{}{Â¿Quieres hacerlo del modo difÃ­cil? Muy bien. Â¡Guardias! Â¡Intrusos!}
+{150}{}{Â¡Hrnghhhhhhhhhh!}
+{151}{}{EstarÃ¡s muerto antes de que aparezcan esos amigos tuyos.}
+{152}{}{Â¡Vaya! Â¡Es la que derrotÃ³ al Enclave!}
+{153}{}{Â¡Oye, enhorabuena por derrotar al Enclave!}
+{154}{}{Â¡Bienvenida a Ciudad Refugio, heroÃ­na!}
+{155}{}{Tu lucha contra el Enclave impresionÃ³ incluso a la Primer Ciudadano.}
+{156}{}{He oÃ­do que has viajado hacia el sur incluso hasta San Francisco. Â¿Es cierto?}
+{157}{}{Â¿Es cierto que los Estados Unidos aÃºn luchan en la guerra?}
+{158}{}{DeberÃ­as catalogar tus viajes en la computadora de Ciudad Refugio.}
+{159}{}{EstÃ¡s invitado a quedarte en Ciudad Refugio tanto tiempo como quieras.}
+{160}{}{DeberÃ­as catalogar tus hazaÃ±as contra el Enclave y aÃ±adirlas al Servidor de Listas.}
+{161}{}{No te reconozco. Â¿DÃ³nde estÃ¡n tus documentos?}
+{162}{}{AquÃ­ estÃ¡n, "oficial". Creo que comprobarÃ¡s que todo estÃ¡ en orden.}
 {163}{}{No los llevo encima en este momento, pero --}
-{164}{}{Hmmmm. Está bien, todo parece estar en orden. Lamento la molestia, Ciudadana. Ciudad Refugio prevalece.}
-{165}{}{Sí. Ciudad Refugio prevalece.}
-{166}{}{Tienes suerte de que no te denuncie. Lárgate de aquí.}
+{164}{}{Hmmmm. EstÃ¡ bien, todo parece estar en orden. Lamento la molestia, Ciudadana. Ciudad Refugio prevalece.}
+{165}{}{SÃ­. Ciudad Refugio prevalece.}
+{166}{}{Tienes suerte de que no te denuncie. LÃ¡rgate de aquÃ­.}

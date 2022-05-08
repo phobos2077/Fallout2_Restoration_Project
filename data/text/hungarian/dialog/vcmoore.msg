@@ -1,145 +1,145 @@
-{100}{}{Egy izzó tekintet? embert látsz. Annak ellenére, hogy csimbókos a haja és ápolatlan a szakálla, az öltözéke tiszta és gondozott.}
+{100}{}{Egy izzÃ³ tekintet? embert lÃ¡tsz. Annak ellenÃ©re, hogy csimbÃ³kos a haja Ã©s Ã¡polatlan a szakÃ¡lla, az Ã¶ltÃ¶zÃ©ke tiszta Ã©s gondozott.}
 {101}{}{Thomas Moore.}
-{102}{}{Egy izzó tekintet? embert látsz. Annak ellenére, hogy csimbókos a haja és ápolatlan a szakálla, az öltözéke tiszta és gondozott.}
-{103}{}{Üdvözöllek, utazó! Hallottad már a szót?}
+{102}{}{Egy izzÃ³ tekintet? embert lÃ¡tsz. Annak ellenÃ©re, hogy csimbÃ³kos a haja Ã©s Ã¡polatlan a szakÃ¡lla, az Ã¶ltÃ¶zÃ©ke tiszta Ã©s gondozott.}
+{103}{}{ÃœdvÃ¶zÃ¶llek, utazÃ³! Hallottad mÃ¡r a szÃ³t?}
 {104}{}{Uurmph}
 {105}{}{Ecch}
 {106}{}{Hummagbuu}
 {107}{}{[Elcsoszogsz]}
-{108}{}{A szót? Milyen szót?}
+{108}{}{A szÃ³t? Milyen szÃ³t?}
 {109}{}{Ki vagy te?}
-{110}{}{Még nem, de nem is vagyok rá kíváncsi.}
-{111}{}{A szó, barátom... a szó az, hogy ÖNZÉS. Adj hozzá némi gyilkos arroganciát és megkapod Menedékvárost, a képmutatás és a rabszolga-kereskedelem fellegvárát!}
-{112}{}{Ha így érzel, miért vagy itt?}
-{113}{}{Szívemb?l szóltál, testvérem!}
-{114}{}{Asszem, épp eleget hallottam. Viszlát!}
-{115}{}{Nem vagyok kíváncsi erre a maszlagra.}
+{110}{}{MÃ©g nem, de nem is vagyok rÃ¡ kÃ­vÃ¡ncsi.}
+{111}{}{A szÃ³, barÃ¡tom... a szÃ³ az, hogy Ã–NZÃ‰S. Adj hozzÃ¡ nÃ©mi gyilkos arroganciÃ¡t Ã©s megkapod MenedÃ©kvÃ¡rost, a kÃ©pmutatÃ¡s Ã©s a rabszolga-kereskedelem fellegvÃ¡rÃ¡t!}
+{112}{}{Ha Ã­gy Ã©rzel, miÃ©rt vagy itt?}
+{113}{}{SzÃ­vemb?l szÃ³ltÃ¡l, testvÃ©rem!}
+{114}{}{Asszem, Ã©pp eleget hallottam. ViszlÃ¡t!}
+{115}{}{Nem vagyok kÃ­vÃ¡ncsi erre a maszlagra.}
 {116}{}{Igen! }
-{117}{}{Itt az id?, hogy meghalljuk eme falakon kívül él? rokonaink jajveszékelését és beengedjük ?ket. Több, mint elég er?forrás áll a rendelkezésünkre, hogy befogadjuk és etessük testvéreinket. Hisz' nem kell gazdagnak lennünk, ha oly HATALMAS odakint a szegénység.}
-{118}{}{Jól beszélsz, testvérem!}
-{119}{}{Szentigaz! Miért rekesszünk ki másokat, ha egyszer a segítség itt van, e falak közt?!}
+{117}{}{Itt az id?, hogy meghalljuk eme falakon kÃ­vÃ¼l Ã©l? rokonaink jajveszÃ©kelÃ©sÃ©t Ã©s beengedjÃ¼k ?ket. TÃ¶bb, mint elÃ©g er?forrÃ¡s Ã¡ll a rendelkezÃ©sÃ¼nkre, hogy befogadjuk Ã©s etessÃ¼k testvÃ©reinket. Hisz' nem kell gazdagnak lennÃ¼nk, ha oly HATALMAS odakint a szegÃ©nysÃ©g.}
+{118}{}{JÃ³l beszÃ©lsz, testvÃ©rem!}
+{119}{}{Szentigaz! MiÃ©rt rekesszÃ¼nk ki mÃ¡sokat, ha egyszer a segÃ­tsÃ©g itt van, e falak kÃ¶zt?!}
 {120}{}{Nekem erre nincs id?m.}
-{121}{}{Barátom! Ahogy rád nézek, ER?T látok... HITET látok. Ugye nem csalt meg a szemem? Egy jótét lélek állt elibém, aki hozzám hasonlóan érez?}
-{122}{}{A te szavaid az én szívemb?l szólanak! Ámen, testvér!}
-{123}{}{Igen! Eljött az id?... az ID?, hogy ez a b?nre és rabszolgaságra épült város végre megnyissa a kapuit.}
-{124}{}{Mennem kell. Jó volt beszélgetni... hmm... hallgatni téged.}
-{125}{}{Engedd meg, hogy megkérdezzem, barátom! Milyen MESSZIRE mennél, hogy terjeszd a hitet?}
-{126}{}{Ez attól függ, barátom, milyen VASTAG a pénztárcád.}
-{127}{}{Semmi sincs túl messze, ha igaz ügyr?l, és helyes igér?l van szó. Bármit is kell tennem, én megteszem!}
+{121}{}{BarÃ¡tom! Ahogy rÃ¡d nÃ©zek, ER?T lÃ¡tok... HITET lÃ¡tok. Ugye nem csalt meg a szemem? Egy jÃ³tÃ©t lÃ©lek Ã¡llt elibÃ©m, aki hozzÃ¡m hasonlÃ³an Ã©rez?}
+{122}{}{A te szavaid az Ã©n szÃ­vemb?l szÃ³lanak! Ãmen, testvÃ©r!}
+{123}{}{Igen! EljÃ¶tt az id?... az ID?, hogy ez a b?nre Ã©s rabszolgasÃ¡gra Ã©pÃ¼lt vÃ¡ros vÃ©gre megnyissa a kapuit.}
+{124}{}{Mennem kell. JÃ³ volt beszÃ©lgetni... hmm... hallgatni tÃ©ged.}
+{125}{}{Engedd meg, hogy megkÃ©rdezzem, barÃ¡tom! Milyen MESSZIRE mennÃ©l, hogy terjeszd a hitet?}
+{126}{}{Ez attÃ³l fÃ¼gg, barÃ¡tom, milyen VASTAG a pÃ©nztÃ¡rcÃ¡d.}
+{127}{}{Semmi sincs tÃºl messze, ha igaz Ã¼gyr?l, Ã©s helyes igÃ©r?l van szÃ³. BÃ¡rmit is kell tennem, Ã©n megteszem!}
 {128}{}{Kezd nem tetszeni, amit hallok.}
-{129}{}{Még akkor is, ha ezzel kirekeszted magad ebb?l az oázisból?}
-{130}{}{Ez nem oázis, testvérem, ez egy önzésre és kapzsiságra épült város. Meg kell menteni önmagától. Ennek fényében a kirekesztés nem is túl nagy ár.}
-{131}{}{Igen, még akkor is! Bármit megteszek, hogy kiszabadítsam felebarátaimat a béklyóikból!}
-{132}{}{Nem is tudom, elbizonytalanodtam. Tulajdonképpen mit is kéne tennem?}
-{133}{}{Azt hiszem, ezen még gondolkodnom kell. Viszlát!}
-{134}{}{... [körbepillant és közelebb hajol]... Itt van ez a táska, benne létfontosságú információkkal. Elvinnéd New Renóba? Magam is megtenném, de a Polgárok figyelnek.}
-{135}{}{Lebuktál, tesókám!!! Szóval kapcsolatban állsz New Renóval, igaz? A hallgatásom sok pénzedbe fog kerülni.}
-{136}{}{Örömmel megteszem, a hitem er?t ad. Számíthatsz rám!}
-{137}{}{Ez túl kockázatos, sajnálom.}
-{138}{}{Itt van, rejtsd el! A címzett egy férfi, John Bishop, New Reno. Légy óvatos, barátom, és hirdesd az igét!}
-{139}{}{Szóval John Bishop, New Reno. Rendben. Nem fogsz csalódni bennem, testvérem.}
-{140}{}{Thomas Moore, az ige és az igazság hirdet?je. Mi szél hozott erre, barátom? Te is keresed a szót?}
-{141}{}{Miféle szót?}
-{142}{}{Nem, én az ÉLET-et keresem. Viszlát!}
-{143}{}{Még a legártalmatlanabbak is becsaphatják az ige naiv hirdet?jét. Honnan tudjam, hogy te IGAZ hív? vagy?}
-{144}{}{Igaz hív? vagyok! Bízz bennem! Különben... szétrúgom a hájas segged!}
-{145}{}{Az vagyok. Tudom! Érzem!!! Hogy bizonyíthatnám az ügy iránti elkötelezettségemet?}
-{146}{}{Nem tudom, hogy igaz hív? vagyok-e, csak azt, hogy e város tartópillérei a b?n és a rabszolgaság. Ett?l csakis az igazak tisztíthatják meg.}
-{147}{}{Ezen még gondolkodnom kell.}
-{148}{}{Tudatlan pogány! Van füled, de nem hallasz! Van szemed, de vak vagy! T?nj el... MOCSKOS DISZNÓ!}
-{149}{}{Mocskos disznó?! Remélem, senkid sincs, aki megsiratna. Halott vagy, Moore!}
-{150}{}{Senki nem beszélhet így velem, különösen nem egy ostoba, eszement hittérít?! Itt az ideje, hogy móresre tanítsalak.}
-{151}{}{Nyugalom, félreértettük egymást! Még találkozunk.}
-{152}{}{Hmmm... félnünk kell a kígyóktól, akik az igazság szavait visszhangozzák, de hamisságot rejtenek a szívükben.}
-{153}{}{Pont így érzek én is, testvérem!}
-{154}{}{Ha nem bízol bennem, elmegyek.}
-{155}{}{Úgy látom, nincs mit mondanunk egymásnak.}
-{156}{}{Micsoda?! Hogy merészelsz zsarolni engem, én most... én most... [összehúzza a szemöldökét]... én most elhallgatok.}
-{157}{}{Eldugulásról szó sem lehet, öreg. Beszéljük csak meg a fizetségem!}
-{158}{}{Hogy miért? Hát hol máshol kéne hirdetni az igét mint ott, ahol a legnagyobb szükség van rá?}
-{159}{}{Úgy vélem, igazad van. Ki vagy te?}
-{160}{}{Tégy bizonyságot, testvér! Hirdesd az igét, mondd a szót!}
-{161}{}{A szívemb?l szóltál! Ez a város a b?n és rabszolgaság fellegvára és az igazak erejére van szükség, hogy megvédjük a kárhozattól!}
-{162}{}{Akkor hirdesd csak tovább az igét, nekem mennem kell!}
-{163}{}{Tessék. Ebben a táskában vannak a szükséges kódok. Vidd el John Bishopnak New Renóba, ? majd hozzáférést ad a számlámhoz!}
-{164}{}{Nem bízom benned!}
-{165}{}{Dugd föl magadnak a táskát! Nem megyek sehová.}
-{166}{}{Nagyszer?! Remélem, egy nagy, zsíros összegr?l van szó.}
-{167}{}{Úgy látom, a sors már megbüntetett, rabszolga-hajcsár. Egy nap talán b?nbocsánatban részesülsz.}
-{168}{}{Eh... nem egészen. Légy körültekint? a pusztában, egyszer? barátom!}
+{129}{}{MÃ©g akkor is, ha ezzel kirekeszted magad ebb?l az oÃ¡zisbÃ³l?}
+{130}{}{Ez nem oÃ¡zis, testvÃ©rem, ez egy Ã¶nzÃ©sre Ã©s kapzsisÃ¡gra Ã©pÃ¼lt vÃ¡ros. Meg kell menteni Ã¶nmagÃ¡tÃ³l. Ennek fÃ©nyÃ©ben a kirekesztÃ©s nem is tÃºl nagy Ã¡r.}
+{131}{}{Igen, mÃ©g akkor is! BÃ¡rmit megteszek, hogy kiszabadÃ­tsam felebarÃ¡taimat a bÃ©klyÃ³ikbÃ³l!}
+{132}{}{Nem is tudom, elbizonytalanodtam. TulajdonkÃ©ppen mit is kÃ©ne tennem?}
+{133}{}{Azt hiszem, ezen mÃ©g gondolkodnom kell. ViszlÃ¡t!}
+{134}{}{... [kÃ¶rbepillant Ã©s kÃ¶zelebb hajol]... Itt van ez a tÃ¡ska, benne lÃ©tfontossÃ¡gÃº informÃ¡ciÃ³kkal. ElvinnÃ©d New RenÃ³ba? Magam is megtennÃ©m, de a PolgÃ¡rok figyelnek.}
+{135}{}{LebuktÃ¡l, tesÃ³kÃ¡m!!! SzÃ³val kapcsolatban Ã¡llsz New RenÃ³val, igaz? A hallgatÃ¡som sok pÃ©nzedbe fog kerÃ¼lni.}
+{136}{}{Ã–rÃ¶mmel megteszem, a hitem er?t ad. SzÃ¡mÃ­thatsz rÃ¡m!}
+{137}{}{Ez tÃºl kockÃ¡zatos, sajnÃ¡lom.}
+{138}{}{Itt van, rejtsd el! A cÃ­mzett egy fÃ©rfi, John Bishop, New Reno. LÃ©gy Ã³vatos, barÃ¡tom, Ã©s hirdesd az igÃ©t!}
+{139}{}{SzÃ³val John Bishop, New Reno. Rendben. Nem fogsz csalÃ³dni bennem, testvÃ©rem.}
+{140}{}{Thomas Moore, az ige Ã©s az igazsÃ¡g hirdet?je. Mi szÃ©l hozott erre, barÃ¡tom? Te is keresed a szÃ³t?}
+{141}{}{MifÃ©le szÃ³t?}
+{142}{}{Nem, Ã©n az Ã‰LET-et keresem. ViszlÃ¡t!}
+{143}{}{MÃ©g a legÃ¡rtalmatlanabbak is becsaphatjÃ¡k az ige naiv hirdet?jÃ©t. Honnan tudjam, hogy te IGAZ hÃ­v? vagy?}
+{144}{}{Igaz hÃ­v? vagyok! BÃ­zz bennem! KÃ¼lÃ¶nben... szÃ©trÃºgom a hÃ¡jas segged!}
+{145}{}{Az vagyok. Tudom! Ã‰rzem!!! Hogy bizonyÃ­thatnÃ¡m az Ã¼gy irÃ¡nti elkÃ¶telezettsÃ©gemet?}
+{146}{}{Nem tudom, hogy igaz hÃ­v? vagyok-e, csak azt, hogy e vÃ¡ros tartÃ³pillÃ©rei a b?n Ã©s a rabszolgasÃ¡g. Ett?l csakis az igazak tisztÃ­thatjÃ¡k meg.}
+{147}{}{Ezen mÃ©g gondolkodnom kell.}
+{148}{}{Tudatlan pogÃ¡ny! Van fÃ¼led, de nem hallasz! Van szemed, de vak vagy! T?nj el... MOCSKOS DISZNÃ“!}
+{149}{}{Mocskos disznÃ³?! RemÃ©lem, senkid sincs, aki megsiratna. Halott vagy, Moore!}
+{150}{}{Senki nem beszÃ©lhet Ã­gy velem, kÃ¼lÃ¶nÃ¶sen nem egy ostoba, eszement hittÃ©rÃ­t?! Itt az ideje, hogy mÃ³resre tanÃ­tsalak.}
+{151}{}{Nyugalom, fÃ©lreÃ©rtettÃ¼k egymÃ¡st! MÃ©g talÃ¡lkozunk.}
+{152}{}{Hmmm... fÃ©lnÃ¼nk kell a kÃ­gyÃ³ktÃ³l, akik az igazsÃ¡g szavait visszhangozzÃ¡k, de hamissÃ¡got rejtenek a szÃ­vÃ¼kben.}
+{153}{}{Pont Ã­gy Ã©rzek Ã©n is, testvÃ©rem!}
+{154}{}{Ha nem bÃ­zol bennem, elmegyek.}
+{155}{}{Ãšgy lÃ¡tom, nincs mit mondanunk egymÃ¡snak.}
+{156}{}{Micsoda?! Hogy merÃ©szelsz zsarolni engem, Ã©n most... Ã©n most... [Ã¶sszehÃºzza a szemÃ¶ldÃ¶kÃ©t]... Ã©n most elhallgatok.}
+{157}{}{EldugulÃ¡srÃ³l szÃ³ sem lehet, Ã¶reg. BeszÃ©ljÃ¼k csak meg a fizetsÃ©gem!}
+{158}{}{Hogy miÃ©rt? HÃ¡t hol mÃ¡shol kÃ©ne hirdetni az igÃ©t mint ott, ahol a legnagyobb szÃ¼ksÃ©g van rÃ¡?}
+{159}{}{Ãšgy vÃ©lem, igazad van. Ki vagy te?}
+{160}{}{TÃ©gy bizonysÃ¡got, testvÃ©r! Hirdesd az igÃ©t, mondd a szÃ³t!}
+{161}{}{A szÃ­vemb?l szÃ³ltÃ¡l! Ez a vÃ¡ros a b?n Ã©s rabszolgasÃ¡g fellegvÃ¡ra Ã©s az igazak erejÃ©re van szÃ¼ksÃ©g, hogy megvÃ©djÃ¼k a kÃ¡rhozattÃ³l!}
+{162}{}{Akkor hirdesd csak tovÃ¡bb az igÃ©t, nekem mennem kell!}
+{163}{}{TessÃ©k. Ebben a tÃ¡skÃ¡ban vannak a szÃ¼ksÃ©ges kÃ³dok. Vidd el John Bishopnak New RenÃ³ba, ? majd hozzÃ¡fÃ©rÃ©st ad a szÃ¡mlÃ¡mhoz!}
+{164}{}{Nem bÃ­zom benned!}
+{165}{}{Dugd fÃ¶l magadnak a tÃ¡skÃ¡t! Nem megyek sehovÃ¡.}
+{166}{}{Nagyszer?! RemÃ©lem, egy nagy, zsÃ­ros Ã¶sszegr?l van szÃ³.}
+{167}{}{Ãšgy lÃ¡tom, a sors mÃ¡r megbÃ¼ntetett, rabszolga-hajcsÃ¡r. Egy nap talÃ¡n b?nbocsÃ¡natban rÃ©szesÃ¼lsz.}
+{168}{}{Eh... nem egÃ©szen. LÃ©gy kÃ¶rÃ¼ltekint? a pusztÃ¡ban, egyszer? barÃ¡tom!}
 {169}{}{Murf}
-{170}{}{Nos, barátom, átgondoltad a szavaimat?}
-{171}{}{De át ám. Szerintem te kém vagy és nagyon sokba fog kerülni a hallgatásom. Értve vagyok?}
-{172}{}{Láttam a fényt, testvérem. Igazat szóltál. Mit tegyek?}
-{173}{}{Még nem. Viszlát!}
+{170}{}{Nos, barÃ¡tom, Ã¡tgondoltad a szavaimat?}
+{171}{}{De Ã¡t Ã¡m. Szerintem te kÃ©m vagy Ã©s nagyon sokba fog kerÃ¼lni a hallgatÃ¡som. Ã‰rtve vagyok?}
+{172}{}{LÃ¡ttam a fÃ©nyt, testvÃ©rem. Igazat szÃ³ltÃ¡l. Mit tegyek?}
+{173}{}{MÃ©g nem. ViszlÃ¡t!}
 {174}{}{Eh... mit keresel te itt? Nem vitted el...}
-{175}{}{...a táskát Bishophoz? Nos, én MEGPRÓBÁLTAM átadni neki, csakhogy ? elolvasta azt a kis cetlit, amit szíveskedtél a táskába rejteni és megpróbált MEGÖLNI. Vicces, mi? Remélem, már megkaptad az utolsó kenetet, Moore!}
-{176}{}{Elvittem, de visszajöttem, hogy tucatnyi lyukkal dekoráljam ki a tested és szép vékony rétegben földet terítsek rá.}
-{177}{}{Csak kíváncsi voltam, hogy vagy, de már megyek is.}
-{178}{}{Légy üdvözölve, igazságkeres? barátom. Miben segíthetek?}
-{179}{}{Mit tudsz az ÚKK-ról?}
-{180}{}{Nem értek valamit. Miért vannak rabszolgák Menedékvárosban? Úgy tudtam, ez egy szabad város.}
-{181}{}{Hallani akarom a szót, testvérem!}
-{182}{}{Ez a város a b?nre és rabszolgaságra épült, de eljöttem, és meghoztam a fényt!}
-{183}{}{Kösz, egyel?re elleszek magam is.}
-{184}{}{Tudom, hogy ismert az igazság, de senki sem fog segít? kezet nyújtani.}
-{185}{}{Mit tehetünk?}
-{186}{}{Ez bizony árulásnak t?nik.}
-{187}{}{Hát ez nagy kár, viszlát!}
-{188}{}{Szélesre tárjuk a kapukat és befogadjuk a rászorulókat. Szükségük van a segítségünkre.}
+{175}{}{...a tÃ¡skÃ¡t Bishophoz? Nos, Ã©n MEGPRÃ“BÃLTAM Ã¡tadni neki, csakhogy ? elolvasta azt a kis cetlit, amit szÃ­veskedtÃ©l a tÃ¡skÃ¡ba rejteni Ã©s megprÃ³bÃ¡lt MEGÃ–LNI. Vicces, mi? RemÃ©lem, mÃ¡r megkaptad az utolsÃ³ kenetet, Moore!}
+{176}{}{Elvittem, de visszajÃ¶ttem, hogy tucatnyi lyukkal dekorÃ¡ljam ki a tested Ã©s szÃ©p vÃ©kony rÃ©tegben fÃ¶ldet terÃ­tsek rÃ¡.}
+{177}{}{Csak kÃ­vÃ¡ncsi voltam, hogy vagy, de mÃ¡r megyek is.}
+{178}{}{LÃ©gy Ã¼dvÃ¶zÃ¶lve, igazsÃ¡gkeres? barÃ¡tom. Miben segÃ­thetek?}
+{179}{}{Mit tudsz az ÃšKK-rÃ³l?}
+{180}{}{Nem Ã©rtek valamit. MiÃ©rt vannak rabszolgÃ¡k MenedÃ©kvÃ¡rosban? Ãšgy tudtam, ez egy szabad vÃ¡ros.}
+{181}{}{Hallani akarom a szÃ³t, testvÃ©rem!}
+{182}{}{Ez a vÃ¡ros a b?nre Ã©s rabszolgasÃ¡gra Ã©pÃ¼lt, de eljÃ¶ttem, Ã©s meghoztam a fÃ©nyt!}
+{183}{}{KÃ¶sz, egyel?re elleszek magam is.}
+{184}{}{Tudom, hogy ismert az igazsÃ¡g, de senki sem fog segÃ­t? kezet nyÃºjtani.}
+{185}{}{Mit tehetÃ¼nk?}
+{186}{}{Ez bizony Ã¡rulÃ¡snak t?nik.}
+{187}{}{HÃ¡t ez nagy kÃ¡r, viszlÃ¡t!}
+{188}{}{SzÃ©lesre tÃ¡rjuk a kapukat Ã©s befogadjuk a rÃ¡szorulÃ³kat. SzÃ¼ksÃ©gÃ¼k van a segÃ­tsÃ©gÃ¼nkre.}
 {189}{}{Amen! Vault City's advanced technology should be shared, not hoarded.}
-{190}{}{Nem is tudom, nekünk jó életünk van itt. Biztos, hogy szükségünk van rájuk? Végülis csak rontanák az életszínvonalat és megfert?znének minket.}
-{191}{}{Ezen még gondolkodnom kell.}
-{192}{}{Ezt én nem mondanám... egy rabszolga-tartásra épül? város nem lehet igazán szabad.}
-{193}{}{Ez igaz, de így könnyebb meggazdagodni, nem?}
-{194}{}{Szavaid a szívemb?l szóltak. Meglehet, hogy a rabszolgák felszabadítása és befogadása lenne a legjobb megoldás.}
-{195}{}{Szabadítsuk fel a rabszolgákat, és fogadjuk testvéreinkké ?ket!}
-{196}{}{Ne etess ezzel a brahminfossal! A rabszolgaság és Menedékváros még sokáig összetartozó fogalmak lesznek.}
-{197}{}{Megfontolandó, amit mondasz, még gondolkodom rajta.}
-{198}{}{Látom, te az emberi hús keresked?je vagy. Nincs SEMMI mondanivalóm a magadfajtának.}
+{190}{}{Nem is tudom, nekÃ¼nk jÃ³ Ã©letÃ¼nk van itt. Biztos, hogy szÃ¼ksÃ©gÃ¼nk van rÃ¡juk? VÃ©gÃ¼lis csak rontanÃ¡k az Ã©letszÃ­nvonalat Ã©s megfert?znÃ©nek minket.}
+{191}{}{Ezen mÃ©g gondolkodnom kell.}
+{192}{}{Ezt Ã©n nem mondanÃ¡m... egy rabszolga-tartÃ¡sra Ã©pÃ¼l? vÃ¡ros nem lehet igazÃ¡n szabad.}
+{193}{}{Ez igaz, de Ã­gy kÃ¶nnyebb meggazdagodni, nem?}
+{194}{}{Szavaid a szÃ­vemb?l szÃ³ltak. Meglehet, hogy a rabszolgÃ¡k felszabadÃ­tÃ¡sa Ã©s befogadÃ¡sa lenne a legjobb megoldÃ¡s.}
+{195}{}{SzabadÃ­tsuk fel a rabszolgÃ¡kat, Ã©s fogadjuk testvÃ©reinkkÃ© ?ket!}
+{196}{}{Ne etess ezzel a brahminfossal! A rabszolgasÃ¡g Ã©s MenedÃ©kvÃ¡ros mÃ©g sokÃ¡ig Ã¶sszetartozÃ³ fogalmak lesznek.}
+{197}{}{MegfontolandÃ³, amit mondasz, mÃ©g gondolkodom rajta.}
+{198}{}{LÃ¡tom, te az emberi hÃºs keresked?je vagy. Nincs SEMMI mondanivalÃ³m a magadfajtÃ¡nak.}
 {199}{}{Uurmph}
 {200}{}{Ecch}
 {201}{}{Hummagbuu}
 {202}{}{[Elcsoszogsz]}
-{203}{}{A sors, az ínség kényszerített rá, de a szívem tiszta.}
-{204}{}{Azért én kérdeznék valamit. Miért vannak rabszolgák Menedékvárosban? Azt hittem, ez egy szabad város.}
-{205}{}{A nemes cél még a legaljasabb eszközt is szentesíti.}
-{206}{}{Értem. Viszlát!}
-{207}{}{Jó látni a megtestesült türelmetlenséget. Viszlát!}
-{208}{}{Egyik kutya, másik eb. El veled, rabszolga-hajcsár!}
-{209}{}{Kérlek, várj! Rájöttem, hogy rossz úton járok.}
-{210}{}{Rendben. Ideje felvágni a hasad és megnézni, mi van ott belül.}
+{203}{}{A sors, az Ã­nsÃ©g kÃ©nyszerÃ­tett rÃ¡, de a szÃ­vem tiszta.}
+{204}{}{AzÃ©rt Ã©n kÃ©rdeznÃ©k valamit. MiÃ©rt vannak rabszolgÃ¡k MenedÃ©kvÃ¡rosban? Azt hittem, ez egy szabad vÃ¡ros.}
+{205}{}{A nemes cÃ©l mÃ©g a legaljasabb eszkÃ¶zt is szentesÃ­ti.}
+{206}{}{Ã‰rtem. ViszlÃ¡t!}
+{207}{}{JÃ³ lÃ¡tni a megtestesÃ¼lt tÃ¼relmetlensÃ©get. ViszlÃ¡t!}
+{208}{}{Egyik kutya, mÃ¡sik eb. El veled, rabszolga-hajcsÃ¡r!}
+{209}{}{KÃ©rlek, vÃ¡rj! RÃ¡jÃ¶ttem, hogy rossz Ãºton jÃ¡rok.}
+{210}{}{Rendben. Ideje felvÃ¡gni a hasad Ã©s megnÃ©zni, mi van ott belÃ¼l.}
 {211}{}{Akkor rendben vagyunk.}
 {212}{}{I have nothing to say to one of such foul disposition. Leave.}
-{213}{}{Hitetlen?! Hiszek benne, hogy két másodperc alatt kicsinállak.}
-{214}{}{Ráébredtem, hogy rossz úton járok. Vezekelni jöttem és hallgatni a szót.}
-{215}{}{A szívem szakad meg, amikor látom, hogy ember embernek farkasa.}
-{216}{}{Jól van, elmegyek.}
-{217}{}{Üdvözöllek, hittársam! Átadtad az információt, ahogy kértem?}
-{218}{}{Üdvözöllek, hittársam! Miben segíthetek?}
-{219}{}{Hagyjuk a süket dumát, hittérít?! Mindent tudok rólad és az ÚKK-s barátaidról.}
-{220}{}{Miért dolgozol az ÚKK-nak? Azt hittem, becsületes ember vagy.}
-{221}{}{Nézd! Bishop azt mondta, hogy az ÚKK-nak dolgozol. Igaz ez?}
-{222}{}{Csak szólni akartam, hogy elintéztem.}
-{223}{}{Jó tudni, hogy a szavaim gyökeret vertek a szívedben. Lehet, hogy az útjaink még összefutnak valamikor.}
-{224}{}{Talán igen. Tartsd a hited, testvér!}
-{225}{}{Viszlát!}
-{226}{}{Az ÚKK megpróbál rendet teremteni egész Kaliforniában és Menedékvárosnak megvan ehhez a hatalma. Gondolj bele! Mi mindent megtehetnénk Menedékváros technológiájával!}
-{227}{}{Engem ez nem érdekel! Beköplek!... Persze ha fizetsz a hallgatásomért, az más tészta.}
-{228}{}{De menedékvárosi technológiáról van szó. Másoknak nincs joguk hozzá.}
-{229}{}{Semmi jó nem származik a hazugságból és az árulásból, Moore. Menedékváros évek óta hazudik magának. Te ne tedd ezt, rendben?}
-{230}{}{Ezen még gondolkodnom kell.}
-{231}{}{Igazad van. Bocsáss meg, hogy kételkedtem benned!}
-{232}{}{MINDENKINEK joga van az óvilág gyümölcseihez. A technológiát megosztani kell és nem kisajátítani.}
-{233}{}{Ugye nem ÉRTED a lényeget, Moore? Talán egy jó, régimódi seggberúgás magadhoz térít.}
-{234}{}{Hagyjuk ezt az "Isten-nevében" hablatyot! Adj pénzt, vagy a megfelel? fülekbe susogom, ki vagy te valójában!}
-{235}{}{Ezen még gondolkodnom kell.}
-{236}{}{Kérlek, vidd el a táskát New Renóba, barátom! Sürget az id?.}
-{237}{}{Mit tegyél? Terjeszd a hitet, ez elég. Légy óvatos a pusztában! A szavaid fénye világítsa be utad.}
-{238}{}{Köszönöm, testvér. Úgy teszek, ahogy mondtad.}
-{239}{}{Figyelmezz rám, testvérem!}
-{240}{}{Halld az igét! Az ige felszabadít!}
-{241}{}{A rabszolgaság elátkozza ezt a várost!}
-{242}{}{Ki kell tárnunk Menedékváros kapuit és befogadni a külvilágot!}
+{213}{}{Hitetlen?! Hiszek benne, hogy kÃ©t mÃ¡sodperc alatt kicsinÃ¡llak.}
+{214}{}{RÃ¡Ã©bredtem, hogy rossz Ãºton jÃ¡rok. Vezekelni jÃ¶ttem Ã©s hallgatni a szÃ³t.}
+{215}{}{A szÃ­vem szakad meg, amikor lÃ¡tom, hogy ember embernek farkasa.}
+{216}{}{JÃ³l van, elmegyek.}
+{217}{}{ÃœdvÃ¶zÃ¶llek, hittÃ¡rsam! Ãtadtad az informÃ¡ciÃ³t, ahogy kÃ©rtem?}
+{218}{}{ÃœdvÃ¶zÃ¶llek, hittÃ¡rsam! Miben segÃ­thetek?}
+{219}{}{Hagyjuk a sÃ¼ket dumÃ¡t, hittÃ©rÃ­t?! Mindent tudok rÃ³lad Ã©s az ÃšKK-s barÃ¡taidrÃ³l.}
+{220}{}{MiÃ©rt dolgozol az ÃšKK-nak? Azt hittem, becsÃ¼letes ember vagy.}
+{221}{}{NÃ©zd! Bishop azt mondta, hogy az ÃšKK-nak dolgozol. Igaz ez?}
+{222}{}{Csak szÃ³lni akartam, hogy elintÃ©ztem.}
+{223}{}{JÃ³ tudni, hogy a szavaim gyÃ¶keret vertek a szÃ­vedben. Lehet, hogy az Ãºtjaink mÃ©g Ã¶sszefutnak valamikor.}
+{224}{}{TalÃ¡n igen. Tartsd a hited, testvÃ©r!}
+{225}{}{ViszlÃ¡t!}
+{226}{}{Az ÃšKK megprÃ³bÃ¡l rendet teremteni egÃ©sz KaliforniÃ¡ban Ã©s MenedÃ©kvÃ¡rosnak megvan ehhez a hatalma. Gondolj bele! Mi mindent megtehetnÃ©nk MenedÃ©kvÃ¡ros technolÃ³giÃ¡jÃ¡val!}
+{227}{}{Engem ez nem Ã©rdekel! BekÃ¶plek!... Persze ha fizetsz a hallgatÃ¡somÃ©rt, az mÃ¡s tÃ©szta.}
+{228}{}{De menedÃ©kvÃ¡rosi technolÃ³giÃ¡rÃ³l van szÃ³. MÃ¡soknak nincs joguk hozzÃ¡.}
+{229}{}{Semmi jÃ³ nem szÃ¡rmazik a hazugsÃ¡gbÃ³l Ã©s az Ã¡rulÃ¡sbÃ³l, Moore. MenedÃ©kvÃ¡ros Ã©vek Ã³ta hazudik magÃ¡nak. Te ne tedd ezt, rendben?}
+{230}{}{Ezen mÃ©g gondolkodnom kell.}
+{231}{}{Igazad van. BocsÃ¡ss meg, hogy kÃ©telkedtem benned!}
+{232}{}{MINDENKINEK joga van az Ã³vilÃ¡g gyÃ¼mÃ¶lcseihez. A technolÃ³giÃ¡t megosztani kell Ã©s nem kisajÃ¡tÃ­tani.}
+{233}{}{Ugye nem Ã‰RTED a lÃ©nyeget, Moore? TalÃ¡n egy jÃ³, rÃ©gimÃ³di seggberÃºgÃ¡s magadhoz tÃ©rÃ­t.}
+{234}{}{Hagyjuk ezt az "Isten-nevÃ©ben" hablatyot! Adj pÃ©nzt, vagy a megfelel? fÃ¼lekbe susogom, ki vagy te valÃ³jÃ¡ban!}
+{235}{}{Ezen mÃ©g gondolkodnom kell.}
+{236}{}{KÃ©rlek, vidd el a tÃ¡skÃ¡t New RenÃ³ba, barÃ¡tom! SÃ¼rget az id?.}
+{237}{}{Mit tegyÃ©l? Terjeszd a hitet, ez elÃ©g. LÃ©gy Ã³vatos a pusztÃ¡ban! A szavaid fÃ©nye vilÃ¡gÃ­tsa be utad.}
+{238}{}{KÃ¶szÃ¶nÃ¶m, testvÃ©r. Ãšgy teszek, ahogy mondtad.}
+{239}{}{Figyelmezz rÃ¡m, testvÃ©rem!}
+{240}{}{Halld az igÃ©t! Az ige felszabadÃ­t!}
+{241}{}{A rabszolgasÃ¡g elÃ¡tkozza ezt a vÃ¡rost!}
+{242}{}{Ki kell tÃ¡rnunk MenedÃ©kvÃ¡ros kapuit Ã©s befogadni a kÃ¼lvilÃ¡got!}
 {243}{}{Osztozzunk a javainkban!}
-{244}{}{Nem hallod a falakon kívüliek jajveszékelését?}
+{244}{}{Nem hallod a falakon kÃ­vÃ¼liek jajveszÃ©kelÃ©sÃ©t?}

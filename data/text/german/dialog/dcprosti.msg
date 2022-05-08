@@ -1,5 +1,5 @@
 {100}{}{Du siehst eine Prostituierte.}
 {101}{}{Sie sieht ziemlich "runtergeritten" aus}
-{110}{}{Hey Süßer.}
+{110}{}{Hey SÃ¼ÃŸer.}
 {111}{}{Hey Babe.}
-{112}{}{Willst du auch Spaß haben?}
+{112}{}{Willst du auch SpaÃŸ haben?}

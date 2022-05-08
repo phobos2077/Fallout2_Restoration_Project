@@ -1,5 +1,5 @@
-{100}{}{Tu vois un "humain" affreusement défiguré.}
-{101}{}{Tu vois un humain pathétique au visage difforme, il arbore des traits animaux. Ca a l'air de mourir de faim.}
+{100}{}{Tu vois un "humain" affreusement dÃ©figurÃ©.}
+{101}{}{Tu vois un humain pathÃ©tique au visage difforme, il arbore des traits animaux. Ca a l'air de mourir de faim.}
 {200}{}{Urg !}
 {201}{}{Faaaaaim !}
 {202}{}{::Grognement::}

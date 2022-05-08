@@ -1,10 +1,10 @@
 {100}{}{You see a tribal.}
-{101}{}{Árnyékban-Járó-t látod.}
-{150}{}{Egy izmos benszülöttet látsz, akinek fekete sebhelyek borítják az arcát. Csendben figyel téged.}
-{151}{}{Arnyékban-Járót-t látod. Az arca tele van karcolt törzsi tetoválásokkal.}
-{200}{}{::Csak némán bámul rád.::}
-{201}{}{::Csendben figyel téged.::}
-{300}{}{Psszt... Nyúlhra vhadászom.}
+{101}{}{ÃrnyÃ©kban-JÃ¡rÃ³-t lÃ¡tod.}
+{150}{}{Egy izmos benszÃ¼lÃ¶ttet lÃ¡tsz, akinek fekete sebhelyek borÃ­tjÃ¡k az arcÃ¡t. Csendben figyel tÃ©ged.}
+{151}{}{ArnyÃ©kban-JÃ¡rÃ³t-t lÃ¡tod. Az arca tele van karcolt tÃ¶rzsi tetovÃ¡lÃ¡sokkal.}
+{200}{}{::Csak nÃ©mÃ¡n bÃ¡mul rÃ¡d.::}
+{201}{}{::Csendben figyel tÃ©ged.::}
+{300}{}{Psszt... NyÃºlhra vhadÃ¡szom.}
 {400}{}{[He looks upon you with untrusting eyes.] Who goes there?}
 {401}{}{A nevem }
 {402}{}{. Who are you?}
@@ -12,7 +12,7 @@
 {404}{}{My name is not important. I have come to warn you. You are in great danger!}
 {405}{}{I am your nemesis. Prepare to join your ancestors!}
 {406}{}{I'm French. Why do you think I have this outrageous accent? [Stare at him oddly.]}
-{407}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
+{407}{}{Vegye Ãºgy, hogy nem is szÃ³ltam! BocsÃ¡nat, hogy zavartam.}
 {410}{}{You speak to Shadow Who Walks. Why have you come here?}
 {411}{}{I'm trying to stop raider attacks on Vault City, and I have reason to believe that this is the raiders' base of operations. What do you know about the raiders?}
 {412}{}{I was sent by Vault City on account of Raiders attacking them.}
@@ -95,13 +95,13 @@
 {727}{}{Never mind, I'll just leave.}
 {728}{}{I don't wanna talk to you no more, you empty headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!}
 {800}{}{Shadow Who Walks believes you not. Shadow Who Walks is through talking. Goodbye.}
-{801}{}{[vége]}
+{801}{}{[vÃ©ge]}
 {802}{}{Don't you turn your back on me tribal. I'm talking to you.}
 {810}{}{How dare you threaten Shadow Who Walks. Leave now.}
 {811}{}{[Walk Away]}
 {812}{}{[Attack]}
 {850}{}{Mi folyik itt?}
-{851}{}{Psszt... Nyúlhra vhadászom.}
+{851}{}{Psszt... NyÃºlhra vhadÃ¡szom.}
 {852}{}{HeeeeHeee! Hehe... He... You have nice paintings like a picture... Heeee!}
 {900}{}{Shadow Who Walks does not understand. What do you mean?}
 {901}{}{You are in great danger! Just tell me what you do here. I need to know whether I am speaking to the right person.}
@@ -128,5 +128,5 @@
  through the mountains. Pray daily to the spirits and only then will their anger be lifted.}
 {960}{}{Shadow Who Walks obeys. [Shadow Who Walks runs toward the ladder leading to the outside]}
 {961}{}{You are welcome Shadow Who Runs.}
-{1000}{}{Megtörted a fosztogatók erejét. Többé nem terrorizálhatják a környéket.}
+{1000}{}{MegtÃ¶rted a fosztogatÃ³k erejÃ©t. TÃ¶bbÃ© nem terrorizÃ¡lhatjÃ¡k a kÃ¶rnyÃ©ket.}
 {1001}{}{Give it a day or two and I'm sure these Raiders will abandon this place. Then I can look around for information.}

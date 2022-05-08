@@ -18,7 +18,7 @@
 {117}{}{[Baratta]}
 {118}{}{Ho cambiato idea.}
 {119}{}{Mi pareva di averti gia' visto da qualche parte... Oh merda! La tua faccia e' su tutti quei manifesti da ricercato! Senti, non vogliamo guai. Tu vai per la tua strada e noi andiamo per la nostra. Non diro' a nessuno che ti abbiamo incontrato. Adesso vattene!}
-{120}{}{Ehi! Ma la tua faccia e' su un sacco di manifesti da ricercato! Non preoccuparti, non ti tradiro'; se ben ricordo, anch'io sono ricercato in un paio di posti. Ora... mi pareva tu volessi comprare qualcosa…}
+{120}{}{Ehi! Ma la tua faccia e' su un sacco di manifesti da ricercato! Non preoccuparti, non ti tradiro'; se ben ricordo, anch'io sono ricercato in un paio di posti. Ora... mi pareva tu volessi comprare qualcosaâ€¦}
 {121}{}{[Baratta]}
 {122}{}{Va bene, allora. Adesso dobbiamo andare. Non temere, non diro' alla legge che ti ho visto.}
 {123}{}{Aspetta un secondo! Ho sentito parlare di te. Tu sei quel benefattore che se ne va in giro a salvare e ad aiutare le persone. Non ci piacciono i tipi come te, per cui: smamma!}
@@ -30,14 +30,14 @@
 {129}{}{Addio.}
 {130}{}{In giro si dice che ultimamente un tipo che ti assomiglia se ne va in giro a causare guai. Non faccio affari con i tipi come te. Mi spiace.}
 {131}{}{Non conosco il motivo per cui sei ricercato, e francamente me ne infischio. Non facciamo affari con i tipi come te.}
-{132}{}{Perche' non te ne vai a fare…"del bene" da qualche altra parte? }
+{132}{}{Perche' non te ne vai a fareâ€¦"del bene" da qualche altra parte? }
 {133}{}{Sono sicuro che una persona con la tua reputazione puo' trovare scorte in qualsiasi villaggio.}
 {134}{}{Cosa ci fai qui?}
 {135}{}{Dove siete diretti?}
 {136}{}{Cosa trasportate?}
 {137}{}{Addio.}
 {138}{}{Ug.}
-{139}{}{Molto… carino da parte tua. Buona giornata. }
+{139}{}{Moltoâ€¦ carino da parte tua. Buona giornata. }
 {150}{}{medicine.}
 {151}{}{oro.}
 {152}{}{uranio.}

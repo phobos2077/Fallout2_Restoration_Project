@@ -1,53 +1,53 @@
 {100}{}{Widzisz handlarza.}
-{102}{}{Widzisz handlarza, który próbuje naprawiæ pompê wodn¹.}
-{103}{}{Nie mogê tego naprawiæ!}
-{104}{}{Wygl¹da, ¿e bêdzie trudno to naprawiæ.}
-{105}{}{Co za kupa gówna!}
-{106}{}{Jesteœmy upartym skurczybykiem, co?}
-{107}{}{Móg³byœ mi pomóc?}
-{108}{}{Mo¿e bêdziesz mia³ z tym wiêcej szczêœcia.}
-{109}{}{Hej, dziêki za naprawienie pompy wodnej!}
-{110}{}{Powinieneœ powiadomiæ Opata, ¿e pompa wodna jest naprawiona.}
-{200}{}{Dziêki za pomoc przy tym.}
-{300}{}{Aaa, co za kupa gó...yym, jestem trochê zajêty. Potrzebujesz czegoœ czy tylko marnujesz mój czas?}
-{301}{}{W³aœciwie tak, Opat mnie przys³a³. Mówi³, ¿e s¹ jakieœ problemy z pomp¹ wodn¹.}
-{302}{}{Heh, " jakieœ problemy" to niedomówienie. Ta stara pompa to kompletny rupieæ. I nie ma sposobu ¿eby j¹ zmusiæ do dzia³ania.}
-{303}{}{Có¿, mogê spojrzeæ? Obieca³em Opatowi, ¿e zrobiê, co w mojej mocy.}
-{304}{}{Pewnie, proszê bardzo. I tak nie mo¿na jej ju¿ bardziej zepsuæ.}
-{305}{}{Nie chcia³bym przeszkadzaæ, w czym tkwi problem?}
-{306}{}{G³ówna pompa wodna dla Opactwa jest zepsuta. Cholera rzêzi³a przez kilka ostatnich dni i w koñcu zdech³a.}
-{307}{}{Jestem doœæ techniczny, mogê rzuciæ okiem?}
-{308}{}{Có¿, nie jestem za dobry je¿eli chodzi o maszyny, ale mo¿e mogê zobaczyæ czy coœ dam radê z tym zrobiæ.}
-{309}{}{Pewnie, nikt ciê nie bêdzie powstrzymywa³.}
-{310}{}{Uuu, przepraszam. Czeœæ.}
-{311}{}{Zobaczê, co mogê zrobiæ.}
-{312}{}{Chcê tylko pomóc, ale jak wolisz byæ dupkiem, to proszê bardzo, radŸ sobie sam.}
-{313}{}{Opat prosi³ ¿eby ci pomóc, ale jak chcesz byæ takim dupkiem, to proszê bardzo, radŸ sobie sam.}
-{320}{}{[Spi¹³ siê na chwilê, potem powoli wypuœci³ powietrze w westchnieniu.] Przepraszam, to przez te cholerê jestem taki rozdra¿niony. Nie chcia³em na ciebie wybuchn¹æ.}
+{102}{}{Widzisz handlarza, ktÃ³ry prÃ³buje naprawiÄ‡ pompÄ™ wodnÄ….}
+{103}{}{Nie mogÄ™ tego naprawiÄ‡!}
+{104}{}{WyglÄ…da, Å¼e bÄ™dzie trudno to naprawiÄ‡.}
+{105}{}{Co za kupa gÃ³wna!}
+{106}{}{JesteÅ›my upartym skurczybykiem, co?}
+{107}{}{MÃ³gÅ‚byÅ› mi pomÃ³c?}
+{108}{}{MoÅ¼e bÄ™dziesz miaÅ‚ z tym wiÄ™cej szczÄ™Å›cia.}
+{109}{}{Hej, dziÄ™ki za naprawienie pompy wodnej!}
+{110}{}{PowinieneÅ› powiadomiÄ‡ Opata, Å¼e pompa wodna jest naprawiona.}
+{200}{}{DziÄ™ki za pomoc przy tym.}
+{300}{}{Aaa, co za kupa gÃ³...yym, jestem trochÄ™ zajÄ™ty. Potrzebujesz czegoÅ› czy tylko marnujesz mÃ³j czas?}
+{301}{}{WÅ‚aÅ›ciwie tak, Opat mnie przysÅ‚aÅ‚. MÃ³wiÅ‚, Å¼e sÄ… jakieÅ› problemy z pompÄ… wodnÄ….}
+{302}{}{Heh, " jakieÅ› problemy" to niedomÃ³wienie. Ta stara pompa to kompletny rupieÄ‡. I nie ma sposobu Å¼eby jÄ… zmusiÄ‡ do dziaÅ‚ania.}
+{303}{}{CÃ³Å¼, mogÄ™ spojrzeÄ‡? ObiecaÅ‚em Opatowi, Å¼e zrobiÄ™, co w mojej mocy.}
+{304}{}{Pewnie, proszÄ™ bardzo. I tak nie moÅ¼na jej juÅ¼ bardziej zepsuÄ‡.}
+{305}{}{Nie chciaÅ‚bym przeszkadzaÄ‡, w czym tkwi problem?}
+{306}{}{GÅ‚Ã³wna pompa wodna dla Opactwa jest zepsuta. Cholera rzÄ™ziÅ‚a przez kilka ostatnich dni i w koÅ„cu zdechÅ‚a.}
+{307}{}{Jestem doÅ›Ä‡ techniczny, mogÄ™ rzuciÄ‡ okiem?}
+{308}{}{CÃ³Å¼, nie jestem za dobry jeÅ¼eli chodzi o maszyny, ale moÅ¼e mogÄ™ zobaczyÄ‡ czy coÅ› dam radÄ™ z tym zrobiÄ‡.}
+{309}{}{Pewnie, nikt ciÄ™ nie bÄ™dzie powstrzymywaÅ‚.}
+{310}{}{Uuu, przepraszam. CzeÅ›Ä‡.}
+{311}{}{ZobaczÄ™, co mogÄ™ zrobiÄ‡.}
+{312}{}{ChcÄ™ tylko pomÃ³c, ale jak wolisz byÄ‡ dupkiem, to proszÄ™ bardzo, radÅº sobie sam.}
+{313}{}{Opat prosiÅ‚ Å¼eby ci pomÃ³c, ale jak chcesz byÄ‡ takim dupkiem, to proszÄ™ bardzo, radÅº sobie sam.}
+{320}{}{[SpiÄ…Å‚ siÄ™ na chwilÄ™, potem powoli wypuÅ›ciÅ‚ powietrze w westchnieniu.] Przepraszam, to przez te cholerÄ™ jestem taki rozdraÅ¼niony. Nie chciaÅ‚em na ciebie wybuchnÄ…Ä‡.}
 {321}{}{Do rzeczy, w czym tkwi problem?}
-{322}{}{Niewa¿ne, czeœæ.}
-{330}{}{Wróæ i porozmawiaj ze mn¹ rano.}
-{400}{}{O, to znowu ty. Trochê wiêcej szczêœcia tym razem?}
-{401}{}{Nie, jeszcze nie. Wrócê do ciebie jak na coœ trafiê.}
-{402}{}{W³aœciwie, tak. Zajrza³em do œrodka i wygl¹da, ¿e silnik jest do wymiany. Po³¹czenia te¿ s¹ zerwane, czyli wygl¹da na to, ¿e musimy zdobyæ nowy silnik, a na dodatek te¿ kable, ¿eby znowu wszystko pod³¹czyæ do kupy, bo stare s¹ spalone.}
-{500}{}{Hmm...po³¹czenia z g³ównym silnikiem s¹ spalone, co? Có¿, mam tu trochê kabli ze sob¹ które powinny pasowaæ, ale nie mam tego typu silnika. Jestem pewien, ¿e w Vault City musz¹ mieæ takie czêœci. IdŸ tam i porozmawiaj z Harrym na g³ównym placu. Powiedz, ¿e Dave ciê przys³a³. Przeklêty silnik jest drogi, ale powinien daæ ci dobr¹ cenê.}
-{501}{}{W takim razie, komu w drogê... Wrócê wkrótce.}
-{502}{}{Co…  czekaj…  zaraz... Co innego pomóc ci znaleŸæ przyczynê, a co innego w³óczyæ siê po pustkowiu w poszukiwaniu drogiego silnika? Je¿eli mam pomóc, to bêdzie ciê to kosztowa³o.}
-{503}{}{A sam se porozmawiasz z Harrym jak sobie pójdziesz po tê pieprzon¹ czêœæ? Nie jestem twoim ch³opcem na posy³ki. Czeœæ.}
-{510}{}{Dobra, nie spodziewa³em siê, ¿e bêdziesz dla mnie pracowaæ za darmo. Czêœæ bêdzie kosztowa³a jakieœ piêæ stówek plus stówa za twój k³opot, sadzê ¿e wystarczy. Trzymaj, szeœæ stów.}
-{511}{}{Tak lepiej. Wrócê z czêœci¹.}
-{600}{}{Powiod³o ci siê z t¹ czêœci¹? Ta maszyna siê sama nie naprawi.}
-{601}{}{Nie, jeszcze nie. Wrócê jak ju¿ j¹ zdobêdê.}
-{602}{}{Taa, mam j¹ tutaj.}
-{700}{}{Œwietnie. Chcesz ¿ebym ja zainstalowa³ silnik, czy sam chcesz mieæ tê przyjemnoœæ?}
-{701}{}{Myœlê, ¿e sobie z tym poradzê. Odsuñ siê.}
-{702}{}{W³aœciwie, myœlê, ¿e ty to powinieneœ zrobiæ, ja mam doœæ. Bierz siê do roboty.}
-{800}{}{W porz¹dku, podaj mi go.}
+{322}{}{NiewaÅ¼ne, czeÅ›Ä‡.}
+{330}{}{WrÃ³Ä‡ i porozmawiaj ze mnÄ… rano.}
+{400}{}{O, to znowu ty. TrochÄ™ wiÄ™cej szczÄ™Å›cia tym razem?}
+{401}{}{Nie, jeszcze nie. WrÃ³cÄ™ do ciebie jak na coÅ› trafiÄ™.}
+{402}{}{WÅ‚aÅ›ciwie, tak. ZajrzaÅ‚em do Å›rodka i wyglÄ…da, Å¼e silnik jest do wymiany. PoÅ‚Ä…czenia teÅ¼ sÄ… zerwane, czyli wyglÄ…da na to, Å¼e musimy zdobyÄ‡ nowy silnik, a na dodatek teÅ¼ kable, Å¼eby znowu wszystko podÅ‚Ä…czyÄ‡ do kupy, bo stare sÄ… spalone.}
+{500}{}{Hmm...poÅ‚Ä…czenia z gÅ‚Ã³wnym silnikiem sÄ… spalone, co? CÃ³Å¼, mam tu trochÄ™ kabli ze sobÄ… ktÃ³re powinny pasowaÄ‡, ale nie mam tego typu silnika. Jestem pewien, Å¼e w Vault City muszÄ… mieÄ‡ takie czÄ™Å›ci. IdÅº tam i porozmawiaj z Harrym na gÅ‚Ã³wnym placu. Powiedz, Å¼e Dave ciÄ™ przysÅ‚aÅ‚. PrzeklÄ™ty silnik jest drogi, ale powinien daÄ‡ ci dobrÄ… cenÄ™.}
+{501}{}{W takim razie, komu w drogÄ™... WrÃ³cÄ™ wkrÃ³tce.}
+{502}{}{Coâ€¦  czekajâ€¦  zaraz... Co innego pomÃ³c ci znaleÅºÄ‡ przyczynÄ™, a co innego wÅ‚Ã³czyÄ‡ siÄ™ po pustkowiu w poszukiwaniu drogiego silnika? JeÅ¼eli mam pomÃ³c, to bÄ™dzie ciÄ™ to kosztowaÅ‚o.}
+{503}{}{A sam se porozmawiasz z Harrym jak sobie pÃ³jdziesz po tÄ™ pieprzonÄ… czÄ™Å›Ä‡? Nie jestem twoim chÅ‚opcem na posyÅ‚ki. CzeÅ›Ä‡.}
+{510}{}{Dobra, nie spodziewaÅ‚em siÄ™, Å¼e bÄ™dziesz dla mnie pracowaÄ‡ za darmo. CzÄ™Å›Ä‡ bÄ™dzie kosztowaÅ‚a jakieÅ› piÄ™Ä‡ stÃ³wek plus stÃ³wa za twÃ³j kÅ‚opot, sadzÄ™ Å¼e wystarczy. Trzymaj, szeÅ›Ä‡ stÃ³w.}
+{511}{}{Tak lepiej. WrÃ³cÄ™ z czÄ™Å›ciÄ….}
+{600}{}{PowiodÅ‚o ci siÄ™ z tÄ… czÄ™Å›ciÄ…? Ta maszyna siÄ™ sama nie naprawi.}
+{601}{}{Nie, jeszcze nie. WrÃ³cÄ™ jak juÅ¼ jÄ… zdobÄ™dÄ™.}
+{602}{}{Taa, mam jÄ… tutaj.}
+{700}{}{Åšwietnie. Chcesz Å¼ebym ja zainstalowaÅ‚ silnik, czy sam chcesz mieÄ‡ tÄ™ przyjemnoÅ›Ä‡?}
+{701}{}{MyÅ›lÄ™, Å¼e sobie z tym poradzÄ™. OdsuÅ„ siÄ™.}
+{702}{}{WÅ‚aÅ›ciwie, myÅ›lÄ™, Å¼e ty to powinieneÅ› zrobiÄ‡, ja mam doÅ›Ä‡. Bierz siÄ™ do roboty.}
+{800}{}{W porzÄ…dku, podaj mi go.}
 {801}{}{Trzymaj.}
-{900}{}{To powinno wystarczyæ.}
-{901}{}{Pompa wodna zosta³a naprawiona.}
-{910}{}{(Wyciera pot z czo³a.) Chcesz czegoœ?}
-{911}{}{Opat mówi³, ¿e mo¿esz potrzebowaæ pomocy. W czym masz problem?}
-{912}{}{Niewa¿ne. ¯egnaj.}
-{913}{}{Ca³kowicie zniszczony silnik, poskrêcane kable. Trzeba wymieniæ przewody na nowe, stare s¹ przepalone.
- Przede wszystkim muszê dostaæ w swoje rêce nowy silnik.}
+{900}{}{To powinno wystarczyÄ‡.}
+{901}{}{Pompa wodna zostaÅ‚a naprawiona.}
+{910}{}{(Wyciera pot z czoÅ‚a.) Chcesz czegoÅ›?}
+{911}{}{Opat mÃ³wiÅ‚, Å¼e moÅ¼esz potrzebowaÄ‡ pomocy. W czym masz problem?}
+{912}{}{NiewaÅ¼ne. Å»egnaj.}
+{913}{}{CaÅ‚kowicie zniszczony silnik, poskrÄ™cane kable. Trzeba wymieniÄ‡ przewody na nowe, stare sÄ… przepalone.
+ Przede wszystkim muszÄ™ dostaÄ‡ w swoje rÄ™ce nowy silnik.}

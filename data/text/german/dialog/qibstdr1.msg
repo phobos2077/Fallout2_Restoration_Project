@@ -1,4 +1,4 @@
-{100}{}{Die Tür besitzt keinen sichtbaren Schließmechanismus.}
-{101}{}{Gewöhnlicher Sprengstoff scheint bei diesen Türen machtlos zu sein.}
-{102}{}{Du siehst stabile Schutztüren. Sie scheinen mit dem Boden und der Decke zu verschmelzen.}
-{103}{}{Du siehst keine Möglichkeit, die Tür zu öffnen.}
+{100}{}{Die TÃ¼r besitzt keinen sichtbaren SchlieÃŸmechanismus.}
+{101}{}{GewÃ¶hnlicher Sprengstoff scheint bei diesen TÃ¼ren machtlos zu sein.}
+{102}{}{Du siehst stabile SchutztÃ¼ren. Sie scheinen mit dem Boden und der Decke zu verschmelzen.}
+{103}{}{Du siehst keine MÃ¶glichkeit, die TÃ¼r zu Ã¶ffnen.}

@@ -1,9 +1,9 @@
-{100}{}{Cette porte est verrouillée.}
-{101}{}{Tu vois une porte verrouillée, empêchant tout accès plus loin.}
+{100}{}{Cette porte est verrouillÃ©e.}
+{101}{}{Tu vois une porte verrouillÃ©e, empÃªchant tout accÃ¨s plus loin.}
 {102}{}{Tu vois une porte solide.}
-{103}{}{La porte est maintenant déverrouillée.}
-{104}{}{Cette porte a déjà été déverrouillée et ouverte.}
-{105}{}{Tu n'as pas réussi à déverrouiller la porte.}
-{106}{}{La serrure est bloquée maintenant.}
-{107}{}{La porte est maintenant verrouillée.}
-{108}{}{Tu ne parviens pas à fermer la porte à clé.}
+{103}{}{La porte est maintenant dÃ©verrouillÃ©e.}
+{104}{}{Cette porte a dÃ©jÃ  Ã©tÃ© dÃ©verrouillÃ©e et ouverte.}
+{105}{}{Tu n'as pas rÃ©ussi Ã  dÃ©verrouiller la porte.}
+{106}{}{La serrure est bloquÃ©e maintenant.}
+{107}{}{La porte est maintenant verrouillÃ©e.}
+{108}{}{Tu ne parviens pas Ã  fermer la porte Ã  clÃ©.}

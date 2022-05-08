@@ -1,13 +1,13 @@
-{100}{}{Egy húsev? növényt látsz.}
-{101}{}{Seymour, a húsev? növény.}
-{102}{}{Egy húsev? növényt látsz. Mintha az intelligencia aurája érz?dne körülötte.}
-{103}{}{Helló! Szép id?nk van, nemdebár?}
-{104}{}{Te beszélsz?}
+{100}{}{Egy hÃºsev? nÃ¶vÃ©nyt lÃ¡tsz.}
+{101}{}{Seymour, a hÃºsev? nÃ¶vÃ©ny.}
+{102}{}{Egy hÃºsev? nÃ¶vÃ©nyt lÃ¡tsz. Mintha az intelligencia aurÃ¡ja Ã©rz?dne kÃ¶rÃ¼lÃ¶tte.}
+{103}{}{HellÃ³! SzÃ©p id?nk van, nemdebÃ¡r?}
+{104}{}{Te beszÃ©lsz?}
 {105}{}{Rrr?}
-{106}{}{Elnézést, de jól hallom, hogy egy növény beszél?}
-{107}{}{Nincs valami közöd ahhoz a tudóshoz, itt nem messze?}
-{108}{}{Viszlát!}
-{109}{}{Igen, beszélek. Jobban, mint néhány ember. Most elmosolyodnék, csak nincsenek mosolygóizmaim. [nevet] Mondd csak, megtennél nekem egy szívességet?}
+{106}{}{ElnÃ©zÃ©st, de jÃ³l hallom, hogy egy nÃ¶vÃ©ny beszÃ©l?}
+{107}{}{Nincs valami kÃ¶zÃ¶d ahhoz a tudÃ³shoz, itt nem messze?}
+{108}{}{ViszlÃ¡t!}
+{109}{}{Igen, beszÃ©lek. Jobban, mint nÃ©hÃ¡ny ember. Most elmosolyodnÃ©k, csak nincsenek mosolygÃ³izmaim. [nevet] Mondd csak, megtennÃ©l nekem egy szÃ­vessÃ©get?}
 {110}{}{Ige'.}
 {111}{}{Nehm.}
 {112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation. I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
@@ -15,71 +15,71 @@
 {114}{}{Nehm!}
 {115}{}{Hogyne.}
 {116}{}{Asszem, nem.}
-{117}{}{Óriási! Nincs másra szükséged, csak egy ásóra. Áss ki, és ültess el ott! Ha megteszed, elárulok neked egy titkot.}
-{118}{}{Oké!}
+{117}{}{Ã“riÃ¡si! Nincs mÃ¡sra szÃ¼ksÃ©ged, csak egy Ã¡sÃ³ra. Ãss ki, Ã©s Ã¼ltess el ott! Ha megteszed, elÃ¡rulok neked egy titkot.}
+{118}{}{OkÃ©!}
 {119}{}{Ne-ehm.}
-{120}{}{Rendben. Nos, ööö... akkor itt várlak. Nem mintha lenne más választásom. Viszlát!}
-{121}{}{Pááá!}
-{122}{}{Hát, ha meggondolnád magad, tudod hol találsz. Itt eresztettem gyökeret. Ha ha ha! Csak egy kis növényhumor volt. Óh, nem akarlak feltartani. Viszlát!}
-{123}{}{Viszlát!}
-{124}{}{Nocsak, nocsak! Milyen üdít? látni egy homo sapienst, aki kihasználja teljes agyi kapacitását. Kedves barátom, tennél nekem egy szívességet?}
+{120}{}{Rendben. Nos, Ã¶Ã¶Ã¶... akkor itt vÃ¡rlak. Nem mintha lenne mÃ¡s vÃ¡lasztÃ¡som. ViszlÃ¡t!}
+{121}{}{PÃ¡Ã¡Ã¡!}
+{122}{}{HÃ¡t, ha meggondolnÃ¡d magad, tudod hol talÃ¡lsz. Itt eresztettem gyÃ¶keret. Ha ha ha! Csak egy kis nÃ¶vÃ©nyhumor volt. Ã“h, nem akarlak feltartani. ViszlÃ¡t!}
+{123}{}{ViszlÃ¡t!}
+{124}{}{Nocsak, nocsak! Milyen Ã¼dÃ­t? lÃ¡tni egy homo sapienst, aki kihasznÃ¡lja teljes agyi kapacitÃ¡sÃ¡t. Kedves barÃ¡tom, tennÃ©l nekem egy szÃ­vessÃ©get?}
 {125}{}{Ige'.}
 {126}{}{Nehm!}
-{127}{}{Igen! Igen! Nagyon ravasz, barátom, nagyon ravasz. Látom, nem most csíráztál ki! Er?sszárú barátom, lennél oly kedves és tennél nekem egy szívességet?}
+{127}{}{Igen! Igen! Nagyon ravasz, barÃ¡tom, nagyon ravasz. LÃ¡tom, nem most csÃ­rÃ¡ztÃ¡l ki! Er?sszÃ¡rÃº barÃ¡tom, lennÃ©l oly kedves Ã©s tennÃ©l nekem egy szÃ­vessÃ©get?}
 {128}{}{Hogyne.}
-{129}{}{Nem hinném.}
-{130}{}{Naaagyszer?! Nagyon, nagyon hálás vagyok! Szerezz egy ásót, és gyere vissza! Ha megvagyunk, talán elmondok neked egy titkot. Barátom, remélem, tovább virágzol!}
-{131}{}{Ööö, persze. Viszlát!}
+{129}{}{Nem hinnÃ©m.}
+{130}{}{Naaagyszer?! Nagyon, nagyon hÃ¡lÃ¡s vagyok! Szerezz egy Ã¡sÃ³t, Ã©s gyere vissza! Ha megvagyunk, talÃ¡n elmondok neked egy titkot. BarÃ¡tom, remÃ©lem, tovÃ¡bb virÃ¡gzol!}
+{131}{}{Ã–Ã¶Ã¶, persze. ViszlÃ¡t!}
 {132}{}{Meggondoltam magam.}
 {133}{}{Oh, yes, the Professor. He grew me from a tiny spore and nurtured me... but I realized from an early age that if I were to act as smart as I truly
  am, he'd cut me into pieces to examine me. So, I played dumb and got planted out here. It's nice... but I'd like to branch out a little.
  Y'know, maybe get planted someplace else...}
-{134}{}{"Kinyújtózni." Hát persze.}
-{135}{}{Értem. Mit akarsz?}
-{136}{}{Öö... izé. Mennem kell. Viszlát!}
-{137}{}{Szóval még megvan a skorpiója? Az egy aljas kis sakkjátékos... ugat is, harap is, ha érted, mire gondolok... de én tudom, hogyan lehet legy?zni. Ha megteszel nekem egy szívességet, elmondom.}
-{138}{}{Tényleg? Hogyan?}
-{139}{}{Ez érdekes. Egy sakkjátékos növény. Milyen prózai. Na, viszlát!}
-{140}{}{Kedves barátom, ha átültetsz az öreg ghoulok kertjébe, olyan boldog leszek, hogy megosztom veled mélyen gyökerez? sakktudásomat.}
-{141}{}{Áll az alku.}
-{142}{}{Nem, kösz. Elverem én a skorpiót magamtól is.}
-{143}{}{Ááá, barátom, hát visszatértél. Ez a hely csodás. Az árnyék tökéletes, a társaság pedig sziporkázó. Ez a Typhon micsoda egy mókamester! Csörgedezésre készteti az intellektuális nedveimet!}
+{134}{}{"KinyÃºjtÃ³zni." HÃ¡t persze.}
+{135}{}{Ã‰rtem. Mit akarsz?}
+{136}{}{Ã–Ã¶... izÃ©. Mennem kell. ViszlÃ¡t!}
+{137}{}{SzÃ³val mÃ©g megvan a skorpiÃ³ja? Az egy aljas kis sakkjÃ¡tÃ©kos... ugat is, harap is, ha Ã©rted, mire gondolok... de Ã©n tudom, hogyan lehet legy?zni. Ha megteszel nekem egy szÃ­vessÃ©get, elmondom.}
+{138}{}{TÃ©nyleg? Hogyan?}
+{139}{}{Ez Ã©rdekes. Egy sakkjÃ¡tÃ©kos nÃ¶vÃ©ny. Milyen prÃ³zai. Na, viszlÃ¡t!}
+{140}{}{Kedves barÃ¡tom, ha Ã¡tÃ¼ltetsz az Ã¶reg ghoulok kertjÃ©be, olyan boldog leszek, hogy megosztom veled mÃ©lyen gyÃ¶kerez? sakktudÃ¡somat.}
+{141}{}{Ãll az alku.}
+{142}{}{Nem, kÃ¶sz. Elverem Ã©n a skorpiÃ³t magamtÃ³l is.}
+{143}{}{ÃÃ¡Ã¡, barÃ¡tom, hÃ¡t visszatÃ©rtÃ©l. Ez a hely csodÃ¡s. Az Ã¡rnyÃ©k tÃ¶kÃ©letes, a tÃ¡rsasÃ¡g pedig sziporkÃ¡zÃ³. Ez a Typhon micsoda egy mÃ³kamester! CsÃ¶rgedezÃ©sre kÃ©szteti az intellektuÃ¡lis nedveimet!}
 {144}{}{Sakk?}
-{145}{}{Mi volt az, amit a sakkról említettél?}
-{146}{}{Viszlát!}
-{147}{}{Nos, arról van szó, hogyan lehet legy?zni a professzor skorpióját sakkban. Nincs ennél egyszer?bb dolog, barátom. A Repül? Máj Támadás olyan annak a rovarnak, mint egy légypapír - belekerül és nem tud szabadulni bel?le. A gy?zelem garantált.}
-{148}{}{Köszi! Pá!}
-{149}{}{Kösz az infót. Viszlát!}
-{150}{}{Barátom! Eleget süt-e rád a nap? Remélem, szépen virágzik az életed? Készen állsz a költöztetésre? Biztosíthatlak, én igen!}
+{145}{}{Mi volt az, amit a sakkrÃ³l emlÃ­tettÃ©l?}
+{146}{}{ViszlÃ¡t!}
+{147}{}{Nos, arrÃ³l van szÃ³, hogyan lehet legy?zni a professzor skorpiÃ³jÃ¡t sakkban. Nincs ennÃ©l egyszer?bb dolog, barÃ¡tom. A RepÃ¼l? MÃ¡j TÃ¡madÃ¡s olyan annak a rovarnak, mint egy lÃ©gypapÃ­r - belekerÃ¼l Ã©s nem tud szabadulni bel?le. A gy?zelem garantÃ¡lt.}
+{148}{}{KÃ¶szi! PÃ¡!}
+{149}{}{KÃ¶sz az infÃ³t. ViszlÃ¡t!}
+{150}{}{BarÃ¡tom! Eleget sÃ¼t-e rÃ¡d a nap? RemÃ©lem, szÃ©pen virÃ¡gzik az Ã©leted? KÃ©szen Ã¡llsz a kÃ¶ltÃ¶ztetÃ©sre? BiztosÃ­thatlak, Ã©n igen!}
 {151}{}{Ige'!}
-{152}{}{Nehm! Nem mész!}
-{153}{}{Gyerünk!}
-{154}{}{Meggondoltam magam. Nem segítek neked.}
-{155}{}{Olyan izgatott vagyok, hogy mindjárt összespórázom magam! Menjünk!}
-{156}{}{-kész-}
-{157}{}{Kár, nagy-nagy kár. Remélem, meggondolod magad. Remélem, határozatlanságod pollenjét messze viszi a szél. Szép napot!}
-{158}{}{Öö.}
-{159}{}{Szép napot!}
+{152}{}{Nehm! Nem mÃ©sz!}
+{153}{}{GyerÃ¼nk!}
+{154}{}{Meggondoltam magam. Nem segÃ­tek neked.}
+{155}{}{Olyan izgatott vagyok, hogy mindjÃ¡rt Ã¶sszespÃ³rÃ¡zom magam! MenjÃ¼nk!}
+{156}{}{-kÃ©sz-}
+{157}{}{KÃ¡r, nagy-nagy kÃ¡r. RemÃ©lem, meggondolod magad. RemÃ©lem, hatÃ¡rozatlansÃ¡god pollenjÃ©t messze viszi a szÃ©l. SzÃ©p napot!}
+{158}{}{Ã–Ã¶.}
+{159}{}{SzÃ©p napot!}
 {160}{}{Oooh... the soil here feels so... different. Cleaner, somehow. Probably because I don't have to share it with
  those other plants. Ahhh. Oh! Yes! If you ever run across the Professor and his scorpion, remember this chess
  maneuver: It's called the Flying Liver Attack, and the scorpion cannot stand against it.}
-{161}{}{Köszi!}
-{162}{}{Kösz. Kipróbálom. Viszlát!}
-{163}{}{Megsúgok még valamit: véletlenül tudom, hogy a Typhon nev? ghoul, itt a házban, ismeri valamilyen kincsnek a rejtekhelyét. Talán jól jöhet még valamikor.}
-{164}{}{Köszi! Páá!}
-{165}{}{Csak nem meggondoltad magad? Segítesz?}
+{161}{}{KÃ¶szi!}
+{162}{}{KÃ¶sz. KiprÃ³bÃ¡lom. ViszlÃ¡t!}
+{163}{}{MegsÃºgok mÃ©g valamit: vÃ©letlenÃ¼l tudom, hogy a Typhon nev? ghoul, itt a hÃ¡zban, ismeri valamilyen kincsnek a rejtekhelyÃ©t. TalÃ¡n jÃ³l jÃ¶het mÃ©g valamikor.}
+{164}{}{KÃ¶szi! PÃ¡Ã¡!}
+{165}{}{Csak nem meggondoltad magad? SegÃ­tesz?}
 {166}{}{Ige'!}
 {167}{}{Nehm!}
 {168}{}{Hogyne.}
 {169}{}{Asszem, nem.}
-{170}{}{Úgy nézem, nincs nálad ásó. Amíg nem szerzel egyet, nem mehetek. Visszafojtott bibével várom visszatérted.}
-{171}{}{Viszlát!}
-{172}{}{Psszt! Hé! Hé, haver! Ide, ide!}
-{173}{}{Gyere ide! Megígérem, hogy nem bántalak.}
-{174}{}{Gyerünk! Félsz egy növényt?l?}
+{170}{}{Ãšgy nÃ©zem, nincs nÃ¡lad Ã¡sÃ³. AmÃ­g nem szerzel egyet, nem mehetek. Visszafojtott bibÃ©vel vÃ¡rom visszatÃ©rted.}
+{171}{}{ViszlÃ¡t!}
+{172}{}{Psszt! HÃ©! HÃ©, haver! Ide, ide!}
+{173}{}{Gyere ide! MegÃ­gÃ©rem, hogy nem bÃ¡ntalak.}
+{174}{}{GyerÃ¼nk! FÃ©lsz egy nÃ¶vÃ©nyt?l?}
 {175}{}{Itt vagyok! Gyere ide!}
-{176}{}{Igen, én egy beszél? növény vagyok. Tedd túl magad rajta, és beszélgessünk!}
-{177}{}{Hé, haver! Ne áss ész nélkül! El?bb beszéljük meg a költözési stratégiát!}
-{178}{}{Átültetted Seymourt az öreg ghoulok kertjébe.}
-{179}{}{Van ássó! Átültet!}
-{180}{}{Véletlenül van nálam egy ásó. Gyerünk!}
+{176}{}{Igen, Ã©n egy beszÃ©l? nÃ¶vÃ©ny vagyok. Tedd tÃºl magad rajta, Ã©s beszÃ©lgessÃ¼nk!}
+{177}{}{HÃ©, haver! Ne Ã¡ss Ã©sz nÃ©lkÃ¼l! El?bb beszÃ©ljÃ¼k meg a kÃ¶ltÃ¶zÃ©si stratÃ©giÃ¡t!}
+{178}{}{ÃtÃ¼ltetted Seymourt az Ã¶reg ghoulok kertjÃ©be.}
+{179}{}{Van Ã¡ssÃ³! ÃtÃ¼ltet!}
+{180}{}{VÃ©letlenÃ¼l van nÃ¡lam egy Ã¡sÃ³. GyerÃ¼nk!}

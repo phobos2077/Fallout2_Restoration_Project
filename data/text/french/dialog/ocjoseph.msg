@@ -1,26 +1,26 @@
 {100}{}{Tu vois un petit homme tenant un livre dans les mains.}
 {101}{}{Tu vois Joseph, l'herboriste.}
-{102}{}{Tu vois un petit homme portant un livre intitulé "Les herbes et leurs applications médicales".}
+{102}{}{Tu vois un petit homme portant un livre intitulÃ© "Les herbes et leurs applications mÃ©dicales".}
 {103}{}{Bonjour, je suis Joseph, l'herboriste. Que puis-je faire pour toi ?}
 {104}{}{Moi avoir bobos. Toi soigner ?}
 {105}{}{Moi malade. Toi soigner ?}
-{106}{}{Moi cassé, toi soigner ?}
+{106}{}{Moi cassÃ©, toi soigner ?}
 {107}{}{Avoir questions. D'accord ?}
 {108}{}{Pardon, moi partir.}
 {109}{}{Peux-tu soigner mes blessures ?}
 {110}{}{Je suis malade, peux-tu m'aider ?}
-{111}{}{Je suis estropié, peux-tu m'aider ?}
+{111}{}{Je suis estropiÃ©, peux-tu m'aider ?}
 {112}{}{Je voulais te poser quelques questions.}
 {113}{}{Juste dire bonjour.}
-{114}{}{Mais certainement. Hum. Tu vas devoir prendre ça. Je vais appliquer ce baume sur ta blessure. Maintenant allonge-toi et repose-toi quelques heures.}
+{114}{}{Mais certainement. Hum. Tu vas devoir prendre Ã§a. Je vais appliquer ce baume sur ta blessure. Maintenant allonge-toi et repose-toi quelques heures.}
 {115}{}{Moi dire merci. Au revoir.}
 {116}{}{Merci Doc. Je me sens beaucoup mieux.}
-{117}{}{Mais certainement. Hum. Ca va prendre un certain temps, alors tu vas devoir passer la nuit ici. Tu vas boire tout ça... Je sais, c'est vraiment pas bon. Maintenant, allonge-toi, je te réveillerai demain matin.}
+{117}{}{Mais certainement. Hum. Ca va prendre un certain temps, alors tu vas devoir passer la nuit ici. Tu vas boire tout Ã§a... Je sais, c'est vraiment pas bon. Maintenant, allonge-toi, je te rÃ©veillerai demain matin.}
 {118}{}{Moi sentir bien. Au revoir.}
-{119}{}{Merci, ça aura été efficace.}
-{120}{}{Je regrette mais je ne suis pas docteur et je ne peux pas pratiquer la chirurgie. Je te conseille d'aller consulter un chirurgien dans une grande ville. Essaie la République de Nouvelle Californie, à l'Est d'ici.}
+{119}{}{Merci, Ã§a aura Ã©tÃ© efficace.}
+{120}{}{Je regrette mais je ne suis pas docteur et je ne peux pas pratiquer la chirurgie. Je te conseille d'aller consulter un chirurgien dans une grande ville. Essaie la RÃ©publique de Nouvelle Californie, Ã  l'Est d'ici.}
 {121}{}{Ok. Au revoir.}
-{122}{}{Très bien. Merci quand même.}
+{122}{}{TrÃ¨s bien. Merci quand mÃªme.}
 {123}{}{Que veux-tu savoir ?}
 {124}{}{Toi prisonnier ?}
 {125}{}{Toi peux partir quand vouloir ?}
@@ -30,34 +30,34 @@
 {129}{}{Es-tu retenu prisonnier ici ?}
 {130}{}{Es-tu libre de partir d'ici si tu le souhaites ?}
 {131}{}{Que peux-tu me dire sur les Griffemorts ?}
-{132}{}{Comment es-tu arrivé ici ?}
+{132}{}{Comment es-tu arrivÃ© ici ?}
 {133}{}{Merci du renseignement. Je m'en vais maintenant.}
-{134}{}{Non, je ne suis pas retenu prisonnier. Je reste parce qu'on a besoin de moi ici. J'ai appris à accepter le fait que certains de mes patients sont des Griffemorts.}
+{134}{}{Non, je ne suis pas retenu prisonnier. Je reste parce qu'on a besoin de moi ici. J'ai appris Ã  accepter le fait que certains de mes patients sont des Griffemorts.}
 {135}{}{Ok. Besoin savoir plus.}
 {136}{}{Merci. Au revoir.}
 {137}{}{C'est vraiment louable de ta part.}
 {138}{}{Je vois.}
-{139}{}{Je ne suis pas d'accord avec cette décision, mais c'est ta vie.}
-{140}{}{Oui et je le fais souvent. Je dois ramasser mes herbes de temps en temps, et personne ne m'en a jamais empêché. Je me suis souvent demandé si les Griffemorts me suivaient secrètement et s'ils m'arrêteraient si j'essayais de partir. Alors un jour, j'ai tenté l'expérience.}
+{139}{}{Je ne suis pas d'accord avec cette dÃ©cision, mais c'est ta vie.}
+{140}{}{Oui et je le fais souvent. Je dois ramasser mes herbes de temps en temps, et personne ne m'en a jamais empÃªchÃ©. Je me suis souvent demandÃ© si les Griffemorts me suivaient secrÃ¨tement et s'ils m'arrÃªteraient si j'essayais de partir. Alors un jour, j'ai tentÃ© l'expÃ©rience.}
 {141}{}{Moi comprendre. Partir maintenant.}
 {142}{}{Besoin demander plus.}
-{143}{}{Tu as pris un gros risque et tu as de la chance que ça ait marché.}
+{143}{}{Tu as pris un gros risque et tu as de la chance que Ã§a ait marchÃ©.}
 {144}{}{D'accord.}
-{145}{}{Bonne idée. Quel plaisir de voir que ça a marché !}
-{146}{}{Eh bien, voyons... Les Griffemorts sont des caméléons Jackson ayant subi une mutation, de la famille des caméléons cornus. Il existe encore de nos jours de nombreuses similitudes, mais aussi des différences encore plus nombreuses. Le facteur de mutation est assez élevé. Cette espèce est très intelligente, l'équivalent d'un enfant de huit ans, mais certains atteignent le niveau d'humains normaux. Ils apprennent vite et sont capables de penser et de raisonner.}
+{145}{}{Bonne idÃ©e. Quel plaisir de voir que Ã§a a marchÃ© !}
+{146}{}{Eh bien, voyons... Les Griffemorts sont des camÃ©lÃ©ons Jackson ayant subi une mutation, de la famille des camÃ©lÃ©ons cornus. Il existe encore de nos jours de nombreuses similitudes, mais aussi des diffÃ©rences encore plus nombreuses. Le facteur de mutation est assez Ã©levÃ©. Cette espÃ¨ce est trÃ¨s intelligente, l'Ã©quivalent d'un enfant de huit ans, mais certains atteignent le niveau d'humains normaux. Ils apprennent vite et sont capables de penser et de raisonner.}
 {147}{}{Euh... Quoi toi dire ?}
 {148}{}{Moi devoir partir.}
 {149}{}{Euh-euh.}
 {150}{}{Ouah, tes connaissances m'impressionnent...}
 {151}{}{Ce ne sont que des foutaises pour moi.}
-{152}{}{Je ramassais des herbes une nuit lorsqu'une voix m'a appelé dans l'obscurité. "Je te surveillais" disait cette voix puis "Je sais que tu es soigneur. Es-tu assez dévoué pour accepter de soigner un étranger ? Quelqu'un que beaucoup considèrent comme un ennemi ?"}
+{152}{}{Je ramassais des herbes une nuit lorsqu'une voix m'a appelÃ© dans l'obscuritÃ©. "Je te surveillais" disait cette voix puis "Je sais que tu es soigneur. Es-tu assez dÃ©vouÃ© pour accepter de soigner un Ã©tranger ? Quelqu'un que beaucoup considÃ¨rent comme un ennemi ?"}
 {153}{}{Pouah !}
 {154}{}{Merci. Moi partir maintenant.}
-{155}{}{Quel gâchis d'être là alors que tu pourrais aider les autres !}
-{156}{}{Tu es un homme dévoué qui mérite d'être reconnu.}
-{157}{}{Intéressant.}
+{155}{}{Quel gÃ¢chis d'Ãªtre lÃ  alors que tu pourrais aider les autres !}
+{156}{}{Tu es un homme dÃ©vouÃ© qui mÃ©rite d'Ãªtre reconnu.}
+{157}{}{IntÃ©ressant.}
 {158}{}{Je n'aiderai pas quelqu'un comme toi. Va-t'en.}
-{159}{}{J'ai rejoint une autre ville et j'y suis resté environ une semaine avant de revenir. A mon retour, un accueil chaleureux m'a été réservé. Gruthar, le chef de la meute, est venu me voir et m'a personnellement remercié d'être revenu. Non, je suis ici de mon plein gré.}
-{160}{}{Même s'ils n'ont pas de cordes vocales, les Griffemorts semblent imiter la façon de parler des humains, comme des perroquets. Je dois encore découvrir le mécanisme exact derrière tout ça et je ne peux donc pas t'en dire davantage. Socialement, ce sont des animaux vivant en meute et répondant à un code éthique très rigide. Ils sont menés par un *Mâle alpha* qui dirige la meute avec le consentement de tous. Ils sont extrêmement loyaux envers la meute en général et la considèrent comme une grande famille plutôt qu'un ensemble de familles individuelles, comme les humains.}
-{161}{}{Leur sens du bien et du mal est très bien défini. Ils suivent un code éthique mis en place par toute la meute. La violence n'est jamais utilisée comme la solution à un problème au sein de la meute, d'après ce que j'en vois. Nul *crime capital* n'a été commis ici et je ne peux donc pas en dire plus là-dessus. Hum. C'est tout ce à quoi je pense pour le moment. J'espère que cela va t'aider.}
-{162}{}{J'ai répondu que je respectais toutes les formes de vie et que je ferais de mon mieux pour soigner les blessés, quels qu'ils soient. Hum. Je pensais devoir soigner un voleur ou un pillard blessé. Hé, tu ne peux pas imaginer ma surprise lorsque j'ai vu surgir de la nuit deux Griffemorts accompagnés d'un ami blessé. Quelqu'un lui avait tiré dessus. Je leur ai dit que je ne pouvais pas le soigner là où nous nous trouvions et ils m'ont bandé les yeux pour m'amener ici. Je suis ici depuis ce jour.}
+{159}{}{J'ai rejoint une autre ville et j'y suis restÃ© environ une semaine avant de revenir. A mon retour, un accueil chaleureux m'a Ã©tÃ© rÃ©servÃ©. Gruthar, le chef de la meute, est venu me voir et m'a personnellement remerciÃ© d'Ãªtre revenu. Non, je suis ici de mon plein grÃ©.}
+{160}{}{MÃªme s'ils n'ont pas de cordes vocales, les Griffemorts semblent imiter la faÃ§on de parler des humains, comme des perroquets. Je dois encore dÃ©couvrir le mÃ©canisme exact derriÃ¨re tout Ã§a et je ne peux donc pas t'en dire davantage. Socialement, ce sont des animaux vivant en meute et rÃ©pondant Ã  un code Ã©thique trÃ¨s rigide. Ils sont menÃ©s par un *MÃ¢le alpha* qui dirige la meute avec le consentement de tous. Ils sont extrÃªmement loyaux envers la meute en gÃ©nÃ©ral et la considÃ¨rent comme une grande famille plutÃ´t qu'un ensemble de familles individuelles, comme les humains.}
+{161}{}{Leur sens du bien et du mal est trÃ¨s bien dÃ©fini. Ils suivent un code Ã©thique mis en place par toute la meute. La violence n'est jamais utilisÃ©e comme la solution Ã  un problÃ¨me au sein de la meute, d'aprÃ¨s ce que j'en vois. Nul *crime capital* n'a Ã©tÃ© commis ici et je ne peux donc pas en dire plus lÃ -dessus. Hum. C'est tout ce Ã  quoi je pense pour le moment. J'espÃ¨re que cela va t'aider.}
+{162}{}{J'ai rÃ©pondu que je respectais toutes les formes de vie et que je ferais de mon mieux pour soigner les blessÃ©s, quels qu'ils soient. Hum. Je pensais devoir soigner un voleur ou un pillard blessÃ©. HÃ©, tu ne peux pas imaginer ma surprise lorsque j'ai vu surgir de la nuit deux Griffemorts accompagnÃ©s d'un ami blessÃ©. Quelqu'un lui avait tirÃ© dessus. Je leur ai dit que je ne pouvais pas le soigner lÃ  oÃ¹ nous nous trouvions et ils m'ont bandÃ© les yeux pour m'amener ici. Je suis ici depuis ce jour.}

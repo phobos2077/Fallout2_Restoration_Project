@@ -1,44 +1,44 @@
-{100}{}{Widzisz stra¿niczkê.}
-{101}{}{Widzisz Granta, stra¿nika}
-{102}{}{Widzisz stra¿nika. Jego zbroja i broñ s¹ w doskona³ym stanie.}
-{103}{}{To jest prywatna posesja, odejdŸ st¹d.}
-{104}{}{Kto tu mieszkaæ?}
-{105}{}{Dobra, moja iœæ.}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{101}{}{Widzisz Granta, straÅ¼nika}
+{102}{}{Widzisz straÅ¼nika. Jego zbroja i broÅ„ sÄ… w doskonaÅ‚ym stanie.}
+{103}{}{To jest prywatna posesja, odejdÅº stÄ…d.}
+{104}{}{Kto tu mieszkaÄ‡?}
+{105}{}{Dobra, moja iÅ›Ä‡.}
 {106}{}{Przepraszam, kto tu mieszka?}
-{107}{}{Dobra, idê.}
-{108}{}{Chcesz ju¿ wyjœæ?}
-{109}{}{Moja chcieæ iœæ.}
+{107}{}{Dobra, idÄ™.}
+{108}{}{Chcesz juÅ¼ wyjÅ›Ä‡?}
+{109}{}{Moja chcieÄ‡ iÅ›Ä‡.}
 {110}{}{Nie, moja zostaje.}
-{111}{}{Tak, muszê ju¿ iœæ.}
-{112}{}{Nie, zostanê tu trochê d³u¿ej.}
+{111}{}{Tak, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{112}{}{Nie, zostanÄ™ tu trochÄ™ dÅ‚uÅ¼ej.}
 {113}{}{To jest Ranczo Westina, dom radnego Westina.}
-{114}{}{Moja musieæ zobaczyæ.}
-{115}{}{OK. Czeœæ.}
-{116}{}{Proszê, muszê siê zobaczyæ z radnym.}
-{117}{}{Rozumiem. Có¿, pójdê ju¿ sobie.}
-{118}{}{Jaka sprawê masz do pana Westina?}
-{119}{}{Ja chcieæ praca.}
-{120}{}{Chcieæ tylko ga...wêdziæ.}
+{114}{}{Moja musieÄ‡ zobaczyÄ‡.}
+{115}{}{OK. CzeÅ›Ä‡.}
+{116}{}{ProszÄ™, muszÄ™ siÄ™ zobaczyÄ‡ z radnym.}
+{117}{}{Rozumiem. CÃ³Å¼, pÃ³jdÄ™ juÅ¼ sobie.}
+{118}{}{Jaka sprawÄ™ masz do pana Westina?}
+{119}{}{Ja chcieÄ‡ praca.}
+{120}{}{ChcieÄ‡ tylko ga...wÄ™dziÄ‡.}
 {121}{}{Uch...}
-{122}{}{Niewa¿ne.}
-{123}{}{Szukam pracy. Podobno chce kogoœ zatrudniæ.}
-{124}{}{Chcê tylko pogawêdziæ z panem Westinem.}
-{125}{}{Niewa¿ne, wpadnê tu póŸniej.}
-{126}{}{Hmm... Coœ sobie przypominam o wolnej posadzie. W porz¹dku, wejdŸ. Tylko nie sprawiaj ¿adnych k³opotów, bêdê ciê mia³ na oku.}
-{127}{}{Moja dziêkowaæ.}
-{128}{}{Dziêkujê.}
-{129}{}{Pan Westin nie 'gawêdzi' z nikim z ulicy. Jeœli nie masz do niego konkretnej sprawy sugeruje, odejœæ dopóki to siê nie zmieni. A teraz idŸ st¹d, proszê.}
+{122}{}{NiewaÅ¼ne.}
+{123}{}{Szukam pracy. Podobno chce kogoÅ› zatrudniÄ‡.}
+{124}{}{ChcÄ™ tylko pogawÄ™dziÄ‡ z panem Westinem.}
+{125}{}{NiewaÅ¼ne, wpadnÄ™ tu pÃ³Åºniej.}
+{126}{}{Hmm... CoÅ› sobie przypominam o wolnej posadzie. W porzÄ…dku, wejdÅº. Tylko nie sprawiaj Å¼adnych kÅ‚opotÃ³w, bÄ™dÄ™ ciÄ™ miaÅ‚ na oku.}
+{127}{}{Moja dziÄ™kowaÄ‡.}
+{128}{}{DziÄ™kujÄ™.}
+{129}{}{Pan Westin nie 'gawÄ™dzi' z nikim z ulicy. JeÅ›li nie masz do niego konkretnej sprawy sugeruje, odejÅ›Ä‡ dopÃ³ki to siÄ™ nie zmieni. A teraz idÅº stÄ…d, proszÄ™.}
 {130}{}{[dalej]}
-{131}{}{(wzdycha) S³ysza³em, ¿e pan Westin ma s³aboœæ do ludzi twojego pokroju. WejdŸ.}
-{132}{}{Moja dziêkuje.}
-{133}{}{Tak, tak. Chyba widzisz, ¿e jestem zajêty.}
-{134}{}{Hej, odejdŸ stamt¹d!}
-{135}{}{Musisz zapytaæ o pozwolenie jeœli chcesz siê bawiæ rzeczami, które nie nale¿¹ do ciebie.}
-{136}{}{Witaj. Chcesz siê ponownie zobaczyæ z panem Westinem?}
+{131}{}{(wzdycha) SÅ‚yszaÅ‚em, Å¼e pan Westin ma sÅ‚aboÅ›Ä‡ do ludzi twojego pokroju. WejdÅº.}
+{132}{}{Moja dziÄ™kuje.}
+{133}{}{Tak, tak. Chyba widzisz, Å¼e jestem zajÄ™ty.}
+{134}{}{Hej, odejdÅº stamtÄ…d!}
+{135}{}{Musisz zapytaÄ‡ o pozwolenie jeÅ›li chcesz siÄ™ bawiÄ‡ rzeczami, ktÃ³re nie naleÅ¼Ä… do ciebie.}
+{136}{}{Witaj. Chcesz siÄ™ ponownie zobaczyÄ‡ z panem Westinem?}
 {137}{}{Tak.}
 {138}{}{Nie.}
-{139}{}{Moja mieæ rzeczy z Kryptopolis dla pana Westina.}
-{140}{}{Mam coœ z Kryptopolis dla pana Westina.}
-{141}{}{W porz¹dku, wchodŸ. Tylko nie sprawiaj ¿adnych k³opotów, bêdê ciê mia³ na oku.}
-{142}{}{Jeœli nie przychodzisz w oficjalnej sprawie, nie mo¿esz wejœæ na ranczo.}
-{150}{}{Przykro mi, by³ wypadek i nikt nie mo¿e spacerowaæ po terenie tego obiektu. Proszê odejœæ.}
+{139}{}{Moja mieÄ‡ rzeczy z Kryptopolis dla pana Westina.}
+{140}{}{Mam coÅ› z Kryptopolis dla pana Westina.}
+{141}{}{W porzÄ…dku, wchodÅº. Tylko nie sprawiaj Å¼adnych kÅ‚opotÃ³w, bÄ™dÄ™ ciÄ™ miaÅ‚ na oku.}
+{142}{}{JeÅ›li nie przychodzisz w oficjalnej sprawie, nie moÅ¼esz wejÅ›Ä‡ na ranczo.}
+{150}{}{Przykro mi, byÅ‚ wypadek i nikt nie moÅ¼e spacerowaÄ‡ po terenie tego obiektu. ProszÄ™ odejÅ›Ä‡.}

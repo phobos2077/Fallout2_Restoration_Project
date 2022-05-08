@@ -1,5 +1,5 @@
-{100}{}{Egy számítógépet látsz.}
-{101}{}{Ez egy tökéletesen m?köd? számítógép.}
-{102}{}{Ez a számítógép láthatólag igen sérült állapotban van.}
-{103}{}{Aktív. Teszt futtatása folyamatban...}
-{104}{}{Ez nem jött be.}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©pet lÃ¡tsz.}
+{101}{}{Ez egy tÃ¶kÃ©letesen m?kÃ¶d? szÃ¡mÃ­tÃ³gÃ©p.}
+{102}{}{Ez a szÃ¡mÃ­tÃ³gÃ©p lÃ¡thatÃ³lag igen sÃ©rÃ¼lt Ã¡llapotban van.}
+{103}{}{AktÃ­v. Teszt futtatÃ¡sa folyamatban...}
+{104}{}{Ez nem jÃ¶tt be.}

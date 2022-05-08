@@ -1,4 +1,4 @@
-{100}{}{Você vê um ancião, parece frágil.}
+{100}{}{VocÃª vÃª um anciÃ£o, parece frÃ¡gil.}
 {101}{}{It's Vice-President Carlson.}
 {102}{}{Though physically weak, his eyes reveal a powerful moral strength. This is a determined man.}
 {103}{}{What are you doing here? Guards!}

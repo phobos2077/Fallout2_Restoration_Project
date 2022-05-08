@@ -1,81 +1,81 @@
-{100}{}{Widzisz Stra¿nika Mostu Œmierci.}
-{101}{}{Widzisz starca o dzikim spojrzeniu, i skrzecz¹cym g³osie. Ma zmierzwion¹ brodê, a jego lewe oko chyba chce wyskoczyæ z oczodo³u.}
-{102}{}{Widzisz Stra¿nika Mostu Œmierci.}
-{103}{}{Widzisz starca o dzikim spojrzeniu, i skrzecz¹cym g³osie. Ma zmierzwion¹ brodê, a jego lewe oko chyba chce wyskoczyæ z oczodo³u.}
-{104}{}{Stój! Kto chce przekroczyæ Œmierci Most, odpowie na pytania trzy nim drug¹ stronê zobaczy.}
+{100}{}{Widzisz StraÅ¼nika Mostu Åšmierci.}
+{101}{}{Widzisz starca o dzikim spojrzeniu, i skrzeczÄ…cym gÅ‚osie. Ma zmierzwionÄ… brodÄ™, a jego lewe oko chyba chce wyskoczyÄ‡ z oczodoÅ‚u.}
+{102}{}{Widzisz StraÅ¼nika Mostu Åšmierci.}
+{103}{}{Widzisz starca o dzikim spojrzeniu, i skrzeczÄ…cym gÅ‚osie. Ma zmierzwionÄ… brodÄ™, a jego lewe oko chyba chce wyskoczyÄ‡ z oczodoÅ‚u.}
+{104}{}{StÃ³j! Kto chce przekroczyÄ‡ Åšmierci Most, odpowie na pytania trzy nim drugÄ… stronÄ™ zobaczy.}
 {105}{}{Cee... Deeee... Eee... efff... Ggiee}
-{106}{}{Odcz³ap.}
+{106}{}{OdczÅ‚ap.}
 {107}{}{Dobrze.}
-{108}{}{Zadaj pytanie, Stra¿niku Mostu. Ja siê nie bojê.}
-{109}{}{Mo¿e lepiej st¹d pójdê.}
-{110}{}{Jak masz na imiê?}
+{108}{}{Zadaj pytanie, StraÅ¼niku Mostu. Ja siÄ™ nie bojÄ™.}
+{109}{}{MoÅ¼e lepiej stÄ…d pÃ³jdÄ™.}
+{110}{}{Jak masz na imiÄ™?}
 {111}{}{Hhhh.... Iii... Jot... Kaaaa... elll...}
 {112}{}{?}
 {113}{}{Ja}
-{114}{}{Odcz³ap.}
+{114}{}{OdczÅ‚ap.}
 {115}{}{Z Arroyo.}
 {116}{}{Harry}
 {117}{}{Hakunin}
 {118}{}{Testokles}
 {119}{}{Richard Grey}
-{120}{}{Boguœ Linda}
+{120}{}{BoguÅ› Linda}
 {121}{}{Dziecko Przeznaczenia!}
-{122}{}{Mo¿e lepiej st¹d pójdê.}
-{123}{}{Jaki jest twój cel?}
+{122}{}{MoÅ¼e lepiej stÄ…d pÃ³jdÄ™.}
+{123}{}{Jaki jest twÃ³j cel?}
 {124}{}{Mmmm... nnnn... ooo... peee}
 {125}{}{GEK. Arro-yo}
-{126}{}{(OdejdŸ jakby nigdy nic)}
-{127}{}{OdnaleŸæ œwiêtego GECKa.}
-{128}{}{ZnaleŸæ sposób na ocalenie mojej wioski.}
-{129}{}{OdnaleŸæ moje plemiê.}
-{130}{}{Naprawiæ tankowiec.}
+{126}{}{(OdejdÅº jakby nigdy nic)}
+{127}{}{OdnaleÅºÄ‡ Å›wiÄ™tego GECKa.}
+{128}{}{ZnaleÅºÄ‡ sposÃ³b na ocalenie mojej wioski.}
+{129}{}{OdnaleÅºÄ‡ moje plemiÄ™.}
+{130}{}{NaprawiÄ‡ tankowiec.}
 {131}{}{Uch... cel?}
-{132}{}{Mo¿e wrócê póŸniej, jak ju¿ ci przejdzie, co?}
-{133}{}{Który z BNów z Fallout 1 pojawi³ siê w czêœci drugiej, choæ jest teraz du¿o starszy?}
-{134}{}{Który z BNów z Fallout 1 pojawi³ siê w czêœci drugiej?}
+{132}{}{MoÅ¼e wrÃ³cÄ™ pÃ³Åºniej, jak juÅ¼ ci przejdzie, co?}
+{133}{}{KtÃ³ry z BNÃ³w z Fallout 1 pojawiÅ‚ siÄ™ w czÄ™Å›ci drugiej, choÄ‡ jest teraz duÅ¼o starszy?}
+{134}{}{KtÃ³ry z BNÃ³w z Fallout 1 pojawiÅ‚ siÄ™ w czÄ™Å›ci drugiej?}
 {135}{}{Hmm MPEC?}
-{136}{}{D³uga czeœæ?}
-{137}{}{(OdejdŸ jakby nigdy nic)}
+{136}{}{DÅ‚uga czeÅ›Ä‡?}
+{137}{}{(OdejdÅº jakby nigdy nic)}
 {138}{}{Co...?! Tego nie wiem!}
 {139}{}{Uch... Ian?}
 {140}{}{Uch... Dogmeat?}
 {141}{}{Uch... Tandi?}
 {142}{}{Uch... Tycho?}
 {143}{}{Uch... Harold?}
-{144}{}{Co masz na myœli? Czy spotkania losowe zaliczasz do drugiej czêœci czy traktujesz je jako wydarzenia specjalne?}
-{145}{}{Co masz na myœli? BNów-wrogów czy BNów-przyjació³?}
-{146}{}{Jaki ciê¿ar uniesie postaæ o sile 6, z korzyœci¹ Silne Plecy?}
-{147}{}{Nie mam pojêcia.}
-{148}{}{Uch... 200 funtów?}
-{149}{}{Uch... 225 funtów?}
-{150}{}{Uch... 250 funtów?}
-{151}{}{Uch... 275 funtów?}
-{152}{}{Uch... 300 funtów?}
-{153}{}{Uch... 325 funtów?}
-{154}{}{A ile poziomów tej korzyœci ma ta postaæ?}
-{155}{}{Jakie trzeba spe³niæ warunki, aby mieæ mo¿liwoœæ skorzystania z profitu Szybkie Kieszenie?}
-{156}{}{Nie mam pojêcia.}
+{144}{}{Co masz na myÅ›li? Czy spotkania losowe zaliczasz do drugiej czÄ™Å›ci czy traktujesz je jako wydarzenia specjalne?}
+{145}{}{Co masz na myÅ›li? BNÃ³w-wrogÃ³w czy BNÃ³w-przyjaciÃ³Å‚?}
+{146}{}{Jaki ciÄ™Å¼ar uniesie postaÄ‡ o sile 6, z korzyÅ›ciÄ… Silne Plecy?}
+{147}{}{Nie mam pojÄ™cia.}
+{148}{}{Uch... 200 funtÃ³w?}
+{149}{}{Uch... 225 funtÃ³w?}
+{150}{}{Uch... 250 funtÃ³w?}
+{151}{}{Uch... 275 funtÃ³w?}
+{152}{}{Uch... 300 funtÃ³w?}
+{153}{}{Uch... 325 funtÃ³w?}
+{154}{}{A ile poziomÃ³w tej korzyÅ›ci ma ta postaÄ‡?}
+{155}{}{Jakie trzeba speÅ‚niÄ‡ warunki, aby mieÄ‡ moÅ¼liwoÅ›Ä‡ skorzystania z profitu Szybkie Kieszenie?}
+{156}{}{Nie mam pojÄ™cia.}
 {157}{}{Uch... SI 5?}
 {158}{}{Uch... ZR 5?}
 {159}{}{Uch... ZR 6?}
 {160}{}{Uch... trzeci poziom?}
-{161}{}{Uch... szósty poziom?}
-{162}{}{Uch... dziewi¹ty poziom?}
-{163}{}{Co masz na myœli? Wspó³czynniki, czy poziom doœwiadczenia?}
-{164}{}{Dok³adnie. Mo¿esz przejœæ.}
-{165}{}{Pêdol siem}
+{161}{}{Uch... szÃ³sty poziom?}
+{162}{}{Uch... dziewiÄ…ty poziom?}
+{163}{}{Co masz na myÅ›li? WspÃ³Å‚czynniki, czy poziom doÅ›wiadczenia?}
+{164}{}{DokÅ‚adnie. MoÅ¼esz przejÅ›Ä‡.}
+{165}{}{PÄ™dol siem}
 {166}{}{Cacy}
-{167}{}{Och, dziêkujê. Dziêkujê bardzo.}
+{167}{}{Och, dziÄ™kujÄ™. DziÄ™kujÄ™ bardzo.}
 {168}{}{Tego nie wiem!}
-{169}{}{Gracz zosta³ zdezintegrowany.}
+{169}{}{Gracz zostaÅ‚ zdezintegrowany.}
 {170}{}{He, he.}
-{171}{}{Chyba muszê pilnie zapisaæ stan gry.}
-{172}{}{Jak ty na imiê?}
-{173}{}{Nigdy nie pozwalaj¹ mi zadawaæ fajnych pytañ.}
-{174}{}{Muszê to omówiæ z moim agentem.}
-{175}{}{Zawsze powtarzam, ¿e doœæ mam ju¿ tych ról epizodycznych.}
-{176}{}{Jak ja mam niby zostaæ gwiazd¹, graj¹c tylko w nisko bud¿etowych filmach I grach komputerowych?}
-{177}{}{Hmmm... Chyba powinienem zmieniæ bran¿ê. Mo¿e zostanê akwizytorem?}
-{178}{}{Podobno w akwizycji mo¿na zrobiæ niez³¹ kasê.}
+{171}{}{Chyba muszÄ™ pilnie zapisaÄ‡ stan gry.}
+{172}{}{Jak ty na imiÄ™?}
+{173}{}{Nigdy nie pozwalajÄ… mi zadawaÄ‡ fajnych pytaÅ„.}
+{174}{}{MuszÄ™ to omÃ³wiÄ‡ z moim agentem.}
+{175}{}{Zawsze powtarzam, Å¼e doÅ›Ä‡ mam juÅ¼ tych rÃ³l epizodycznych.}
+{176}{}{Jak ja mam niby zostaÄ‡ gwiazdÄ…, grajÄ…c tylko w nisko budÅ¼etowych filmach I grach komputerowych?}
+{177}{}{Hmmm... Chyba powinienem zmieniÄ‡ branÅ¼Ä™. MoÅ¼e zostanÄ™ akwizytorem?}
+{178}{}{Podobno w akwizycji moÅ¼na zrobiÄ‡ niezÅ‚Ä… kasÄ™.}
 {200}{}{AAAAAAAAACH!}
-{1171}{}{Uh, yyy. Ja powinien zapisaæ stan gry w nowy slot.}
+{1171}{}{Uh, yyy. Ja powinien zapisaÄ‡ stan gry w nowy slot.}

@@ -1,20 +1,20 @@
-{100}{}{Du siehst einen älteren Mann mit einem wirren Bart und einer großen roten Nase.}
+{100}{}{Du siehst einen Ã¤lteren Mann mit einem wirren Bart und einer groÃŸen roten Nase.}
 {101}{}{Du siehst Whiskey Bob.}
 {110}{}{Wie geht's? Ich bin Whiskey Bob. Und du?}
-{111}{}{Was bist du doch für ein kleines niedliches Ding. Mein Name ist Bob, Whiskey Bob - und wie heißt du?}
+{111}{}{Was bist du doch fÃ¼r ein kleines niedliches Ding. Mein Name ist Bob, Whiskey Bob - und wie heiÃŸt du?}
 {112}{}{Whicky Gob? Sug, sug?}
-{113}{}{Glänzende Nase (heh, heh)}
+{113}{}{GlÃ¤nzende Nase (heh, heh)}
 {114}{}{Ich }
 {115}{}{[Hau ab]}
-{120}{}{Du hast die Intelligenz ja wohl nicht mit Löffeln gefressen, was? War trotzdem nett, mit dir zu reden. Mach's gut.}
-{121}{}{Schätzchen, du brichst mir jedesmal das Herz, wenn du den Mund aufmachst. Vielleicht kann ich dich ein anderes Mal in die Trapperstadt begleiten und dir meine Briefmarkensammlung zeigen (heh, heh). Tschau, Darling.}
-{130}{}{Naja, Mister, vielleicht sieht man sich ja irgendwann mal wieder in der Gegend. Tschüss.}
-{131}{}{Naja, ich hoffe, man sieht sich mal wieder hier in der Gegend, Darling. Tschüss.}
+{120}{}{Du hast die Intelligenz ja wohl nicht mit LÃ¶ffeln gefressen, was? War trotzdem nett, mit dir zu reden. Mach's gut.}
+{121}{}{SchÃ¤tzchen, du brichst mir jedesmal das Herz, wenn du den Mund aufmachst. Vielleicht kann ich dich ein anderes Mal in die Trapperstadt begleiten und dir meine Briefmarkensammlung zeigen (heh, heh). Tschau, Darling.}
+{130}{}{Naja, Mister, vielleicht sieht man sich ja irgendwann mal wieder in der Gegend. TschÃ¼ss.}
+{131}{}{Naja, ich hoffe, man sieht sich mal wieder hier in der Gegend, Darling. TschÃ¼ss.}
 {140}{}{Hmpf, wenn du nicht mit mir trinken willst, dann hau ab.}
 {141}{}{Hmpf, ich glaube, ich gehe lieber zu Sallys Badehaus, anstatt meine Zeit mit dir zu verschwenden. Jetzt verschwinde.}
-{150}{}{Wie geht's, Fremder. Ich bin Whiskey Bob. Wie heißt du?}
-{151}{}{Ich heiße }
-{152}{}{. Schön, dich kennenzulernen, Whiskey Bob.}
+{150}{}{Wie geht's, Fremder. Ich bin Whiskey Bob. Wie heiÃŸt du?}
+{151}{}{Ich heiÃŸe }
+{152}{}{. SchÃ¶n, dich kennenzulernen, Whiskey Bob.}
 {153}{}{Ich bin }
 {154}{}{. Was geht hier in der Stadt so ab?}
 {155}{}{Ich glaube nicht, dass mein Name dich was angeht.}
@@ -22,99 +22,99 @@
 {161}{}{Klar, Bob. Mach ich gern.}
 {162}{}{Kann ich mir gerade nicht leisten.}
 {163}{}{Ich will dir keinen Drink ausgeben, Whiskey Bob.}
-{164}{}{Mit deinem Spitznamen, Whiskey Bob, solltest du dich vielleicht um die Drinks kümmern.}
-{170}{}{Danke für den Drink, Partner. Jetzt, meine Kehle angefeuchtet ist, kann ich dir wohl ein kleines Problem anvertrauen - vielleicht kannst du mir ja weiterhelfen?}
-{171}{}{Naja, ich bin gerade ziemlich beschäftigt. Ich glaub nicht, dass ich dir weiterhelfen kann.}
+{164}{}{Mit deinem Spitznamen, Whiskey Bob, solltest du dich vielleicht um die Drinks kÃ¼mmern.}
+{170}{}{Danke fÃ¼r den Drink, Partner. Jetzt, meine Kehle angefeuchtet ist, kann ich dir wohl ein kleines Problem anvertrauen - vielleicht kannst du mir ja weiterhelfen?}
+{171}{}{Naja, ich bin gerade ziemlich beschÃ¤ftigt. Ich glaub nicht, dass ich dir weiterhelfen kann.}
 {172}{}{Wie kann ich dir weiterhelfen?}
-{173}{}{Wenn's nicht zu lange dauert, kann ich dir vielleicht weiterhelfen. Natürlich nicht umsonst.}
-{174}{}{Ich kann dir vielleicht helfen, vorausgesetzt, es ist nicht zu gefährlich.}
-{175}{}{Ist in letzter Zeit etwas ungewöhnliches in der Stadt passiert?}
+{173}{}{Wenn's nicht zu lange dauert, kann ich dir vielleicht weiterhelfen. NatÃ¼rlich nicht umsonst.}
+{174}{}{Ich kann dir vielleicht helfen, vorausgesetzt, es ist nicht zu gefÃ¤hrlich.}
+{175}{}{Ist in letzter Zeit etwas ungewÃ¶hnliches in der Stadt passiert?}
 {180}{}{Sieht so aus, als ob in deinem Geldbeutel Ebbe ist. Du hast nicht genug Geld, um dem alten Bob einen Drink zu kaufen.}
 {181}{}{[Mehr]}
-{190}{}{Tja, weißt du, ich hab noch 'n kleine Nebenbeschäftigung, für die ich Unterstützung bräuchte. Außerhalb der Stadt hab ich 'ne Schwarzbrennerei, in der ab und zu eingeheizt werden muss. Seit mich ein Gecko ins Bein gebissen hat, schaff ich es nicht mehr, rauszugehen, bevor das Feuer ausgeht. Wenn ich dir sage, wo sie ist, würdest du's dann neu anzünden? Das wär mir $50 wert.}
-{191}{}{Hört sich gar nicht schlecht an - erzähl mir mehr darüber.}
-{192}{}{Ich glaube nicht, dass ich das möchte. Tut mir leid, Whiskey Bob.}
-{200}{}{Glaub mir, es wird nicht lange dauern und es ist auch nicht besonders gefährlich. Wahrscheinlich. Willst du mehr darüber wissen oder nicht?}
-{201}{}{OK, schieß los, erzähl mir mehr davon.}
-{202}{}{Also weißt du, das reicht mir jetzt. Mach's gut.}
-{210}{}{In Ordnung. Du bist ziemlich clever, kein Zweifel. Hier hast du Schnaps. Dafür erzähl ich dir von meinem kleinen Problem.}
-{220}{}{Du musst nur nach einer kleinen Hütte südlich der Stadt suchen. Da gehst du rein und legst etwas Feuerholz in den Destillator. Dann kommst du wieder hierher zurück und du bekommst das Geld. Aber du musst es morgen erledigen, sonst wird mein Schnaps schlecht.}
-{221}{}{Das hört sich ja ziemlich einfach an. OK, ich werd's machen.}
-{222}{}{Ich möchte dir dabei nicht helfen. Tut mir leid, Bob.}
-{223}{}{$50 scheint mir nicht gerade viel für diesen Job.}
+{190}{}{Tja, weiÃŸt du, ich hab noch 'n kleine NebenbeschÃ¤ftigung, fÃ¼r die ich UnterstÃ¼tzung brÃ¤uchte. AuÃŸerhalb der Stadt hab ich 'ne Schwarzbrennerei, in der ab und zu eingeheizt werden muss. Seit mich ein Gecko ins Bein gebissen hat, schaff ich es nicht mehr, rauszugehen, bevor das Feuer ausgeht. Wenn ich dir sage, wo sie ist, wÃ¼rdest du's dann neu anzÃ¼nden? Das wÃ¤r mir $50 wert.}
+{191}{}{HÃ¶rt sich gar nicht schlecht an - erzÃ¤hl mir mehr darÃ¼ber.}
+{192}{}{Ich glaube nicht, dass ich das mÃ¶chte. Tut mir leid, Whiskey Bob.}
+{200}{}{Glaub mir, es wird nicht lange dauern und es ist auch nicht besonders gefÃ¤hrlich. Wahrscheinlich. Willst du mehr darÃ¼ber wissen oder nicht?}
+{201}{}{OK, schieÃŸ los, erzÃ¤hl mir mehr davon.}
+{202}{}{Also weiÃŸt du, das reicht mir jetzt. Mach's gut.}
+{210}{}{In Ordnung. Du bist ziemlich clever, kein Zweifel. Hier hast du Schnaps. DafÃ¼r erzÃ¤hl ich dir von meinem kleinen Problem.}
+{220}{}{Du musst nur nach einer kleinen HÃ¼tte sÃ¼dlich der Stadt suchen. Da gehst du rein und legst etwas Feuerholz in den Destillator. Dann kommst du wieder hierher zurÃ¼ck und du bekommst das Geld. Aber du musst es morgen erledigen, sonst wird mein Schnaps schlecht.}
+{221}{}{Das hÃ¶rt sich ja ziemlich einfach an. OK, ich werd's machen.}
+{222}{}{Ich mÃ¶chte dir dabei nicht helfen. Tut mir leid, Bob.}
+{223}{}{$50 scheint mir nicht gerade viel fÃ¼r diesen Job.}
 {230}{}{Du machst es? Super. Aber vergiss nicht, du musst es bald machen, sonst wird mein Schnaps schlecht. Vielen Dank. Wir sehen uns dann bald hier wieder.}
 {231}{}{Kein Problem, Bob. Wir sehen uns morgen. }
-{232}{}{Ich helfe gern. Aber erzähl mir zuerst, was es Neues in der Stadt gibt.}
-{240}{}{Du bist wirklich ein harter Geschäftsmann. OK, ich geb dir $65. Machst du es?}
+{232}{}{Ich helfe gern. Aber erzÃ¤hl mir zuerst, was es Neues in der Stadt gibt.}
+{240}{}{Du bist wirklich ein harter GeschÃ¤ftsmann. OK, ich geb dir $65. Machst du es?}
 {241}{}{Guter Versuch, aber mehr als $50 ist es mir nicht wert. Hey, ich kann es mir nicht leisten, mehr zu zahlen. }
 {242}{}{OK, ich mach's.}
-{243}{}{Für das bisschen Geld möchte ich das nicht machen. Meine Zeit ist mehr wert.}
-{250}{}{Hallo, mein Freund. Zurück, um dich wieder mit Whiskey Bob zu treffen, hm? Bist du bereit, über Drinks und Geschäfte und so zu reden?}
-{251}{}{Hey, Mädel, möchtest du mit Whiskey Bob wieder über Drinks und Geschäfte und so reden? Ich lass dich auf meinem Schoß sitzen! (Heh, heh) War nur ein Witz.}
-{252}{}{Klar, Bob. Reden wir über Drinks und Geschäfte.}
+{243}{}{FÃ¼r das bisschen Geld mÃ¶chte ich das nicht machen. Meine Zeit ist mehr wert.}
+{250}{}{Hallo, mein Freund. ZurÃ¼ck, um dich wieder mit Whiskey Bob zu treffen, hm? Bist du bereit, Ã¼ber Drinks und GeschÃ¤fte und so zu reden?}
+{251}{}{Hey, MÃ¤del, mÃ¶chtest du mit Whiskey Bob wieder Ã¼ber Drinks und GeschÃ¤fte und so reden? Ich lass dich auf meinem SchoÃŸ sitzen! (Heh, heh) War nur ein Witz.}
+{252}{}{Klar, Bob. Reden wir Ã¼ber Drinks und GeschÃ¤fte.}
 {253}{}{Ich glaube, ich hatte letztes Mal genug davon.}
-{260}{}{Hast du meinen Destillator eingeheizt? Nee, kann mir nicht vorstellen, dass du das schon erledigt hast. Kümmer dich darum und komm wieder, wenn du fertig bist.}
-{270}{}{Jemand hat meinen Destillator zerstört. Und du bist der einzige, dem ich davon erzählt habe. Also, wenn ich jünger wäre und mehr Saft hätte, würde ich dir eine Lehre erteilen! Verschwinde, ich will dich nicht mehr sehen, du Betrüger!}
-{280}{}{Danke, dass du dich um meinen Destillator gekümmert hast. Hier sind deine $50. Hast du noch irgendwelche Fragen?}
+{260}{}{Hast du meinen Destillator eingeheizt? Nee, kann mir nicht vorstellen, dass du das schon erledigt hast. KÃ¼mmer dich darum und komm wieder, wenn du fertig bist.}
+{270}{}{Jemand hat meinen Destillator zerstÃ¶rt. Und du bist der einzige, dem ich davon erzÃ¤hlt habe. Also, wenn ich jÃ¼nger wÃ¤re und mehr Saft hÃ¤tte, wÃ¼rde ich dir eine Lehre erteilen! Verschwinde, ich will dich nicht mehr sehen, du BetrÃ¼ger!}
+{280}{}{Danke, dass du dich um meinen Destillator gekÃ¼mmert hast. Hier sind deine $50. Hast du noch irgendwelche Fragen?}
 {281}{}{Danke. Jetzt muss ich wenigstens nicht selber da raushinken - auch wenn es mich $65 gekostet hat. Hier ist dein Geld. Hast du noch Fragen?}
-{282}{}{Ja. Erzähl mir, was es Neues in der Stadt gibt.}
+{282}{}{Ja. ErzÃ¤hl mir, was es Neues in der Stadt gibt.}
 {283}{}{Nein, danke, Bob. Ich glaube, ich hab alle Infos, die ich brauche.}
 {290}{}{All sorts of things going on hereabouts lately. We've got }
-{291}{}{Erzähl mir von den Verstümmlungen der Brahmin.}
-{292}{}{Erzähl mir von den Wandelnden Geistern.}
-{293}{}{Gigantische Ratten? Darüber will ich mehr hören.}
-{294}{}{Ein Den? Was für ein Den?}
-{295}{}{Verschwundene Leute? Erzähl mir mehr davon.}
-{296}{}{Ich habe noch eine andere Frage. Hast du jemals von einem Garden-Eden-Creation-Kit gehört?}
-{297}{}{Ich glaub nicht, dass ich mir das jetzt alles anhören muss.}
-{298}{}{Klar, Bob. Und ich werd dir von einem Fisch erzählen, so groß wie ich, den ich in einer Regentonne gefangen habe.}
-{310}{}{Danke, dass du mir mit meinem Destillator geholfen hast. Wenn mein Bein ein bisschen geheilt ist, kann ich mich wohl wieder selbst darum kümmern. Hast du noch Fragen an einen alten Kneipenhocker wie mich?}
-{311}{}{Ja, ich habe mir so meine Gedanken über einige Gerüchte gemacht, die in der Stadt kursieren.}
+{291}{}{ErzÃ¤hl mir von den VerstÃ¼mmlungen der Brahmin.}
+{292}{}{ErzÃ¤hl mir von den Wandelnden Geistern.}
+{293}{}{Gigantische Ratten? DarÃ¼ber will ich mehr hÃ¶ren.}
+{294}{}{Ein Den? Was fÃ¼r ein Den?}
+{295}{}{Verschwundene Leute? ErzÃ¤hl mir mehr davon.}
+{296}{}{Ich habe noch eine andere Frage. Hast du jemals von einem Garden-Eden-Creation-Kit gehÃ¶rt?}
+{297}{}{Ich glaub nicht, dass ich mir das jetzt alles anhÃ¶ren muss.}
+{298}{}{Klar, Bob. Und ich werd dir von einem Fisch erzÃ¤hlen, so groÃŸ wie ich, den ich in einer Regentonne gefangen habe.}
+{310}{}{Danke, dass du mir mit meinem Destillator geholfen hast. Wenn mein Bein ein bisschen geheilt ist, kann ich mich wohl wieder selbst darum kÃ¼mmern. Hast du noch Fragen an einen alten Kneipenhocker wie mich?}
+{311}{}{Ja, ich habe mir so meine Gedanken Ã¼ber einige GerÃ¼chte gemacht, die in der Stadt kursieren.}
 {312}{}{Ich glaube nicht, dass ich im Augenblick mehr wissen muss, Bob.}
-{320}{}{Man sagt, dass Wesen, die wie riesige menschenartige Wanzen aussehen, mit Panzer und so, nachts die Brahmin verstümmeln. Übrig bleiben dann die aufgeschlitzten, schrecklich verstümmelten Brahminkadaver.}
-{321}{}{Das hört sich ja furchtbar an.}
-{330}{}{Ein paar Leute haben die Wanzenmänner gesehen, aber Torr, der Buckner-Junge ist ihnen wirklich nahe gekommen. Bei dem Anblick hätte er fast den Verstand verloren und davon hat der arme Kerl ja eh nicht allzuviel. }
+{320}{}{Man sagt, dass Wesen, die wie riesige menschenartige Wanzen aussehen, mit Panzer und so, nachts die Brahmin verstÃ¼mmeln. Ãœbrig bleiben dann die aufgeschlitzten, schrecklich verstÃ¼mmelten Brahminkadaver.}
+{321}{}{Das hÃ¶rt sich ja furchtbar an.}
+{330}{}{Ein paar Leute haben die WanzenmÃ¤nner gesehen, aber Torr, der Buckner-Junge ist ihnen wirklich nahe gekommen. Bei dem Anblick hÃ¤tte er fast den Verstand verloren und davon hat der arme Kerl ja eh nicht allzuviel. }
 {331}{}{Unglaublich! Ich muss noch etwas anderes fragen.}
-{332}{}{Ich glaube, das reicht erst mal. Tschüss.}
-{340}{}{Westlich der Stadt gibt es einen Canyon. Vor ein paar Monaten schien darin ein helles Licht. Seitdem hört man ab und zu schreckliche Schreie aus dem Canyon. Brahmin, die dorthin gehen, kommen nicht mehr zurück. Jeder hat Angst, dem Canyon zu nahe zu kommen.}
-{341}{}{Ja, sicher, ein Zeichen von Geisterheimsuchung. Wenn ihr nur einen kompetenten Schamanen hättet. Erzähl mir noch was.}
-{342}{}{Das ist jetzt genug. Ich glaube, darüber denke ich erst einmal nach. Wiedersehn.}
-{350}{}{Naja, außerhalb der Trapperstadt, westlich der Stadtmitte, gibt es ein Gebiet, das von Ratten überrannt wird. Je weiter raus du gehst, desto größer werden sie. Manche behaupten, es gäbe einen riesigen Rattengeist, der sie alle führt. Einige der Fallensteller wollen sogar abhauen. Sie sagen, es sei zu gefährlich.}
-{351}{}{Fallensteller, die von Ratten vertrieben werden? Erzähl mir was von den anderen Sachen.}
-{352}{}{Angst vor Ratten. Hmm, die müssen anders sein als die Ratten, die es bei uns gibt. Ich hab genug gehört. Tschüss.}
-{360}{}{Nicht "Ein Den", sondern "Den". Es gibt keinen größeren Abschaum und keine fieseren Schurken als dort. Wer hat mir das nur erzählt? Egal, jedenfalls ist die Gegend, ein paar Tagesreisen südlich von Klamath, ein ziemlich rauhes Pflaster. Für Geld kriegst du dort alles - sogar Sklaven. Aber du musst dort sehr vorsichtig sein - dort laufen viele erhitzte Gemüter mit gefährlichen Waffen rum. Ich glaube aber nicht, dass sie sich sonderlich für uns interessieren. Wir sind hier einfach zu arm.}
-{361}{}{Ich glaube, ich wär dort einigermaßen sicher. Ich weiß, wie ich mich zu verhalten habe. Jetzt noch eine ganz andere Frage.}
-{362}{}{Ich hab jetzt erst mal genug gehört, Whiskey Bob. Wiedersehn.}
-{370}{}{In letzter Zeit sind einige Leute verschwunden. Ein Händler, namens Vic, der sich auf Vorkriegswaren spezialisiert hat und einer unserer besten Fallensteller.}
-{371}{}{Erzähl mir mehr von diesem Händler, der Vic genannt wird?}
-{372}{}{Ich möchte mehr über den Fallensteller wissen.}
-{373}{}{Ich möchte dich noch etwas fragen.}
+{332}{}{Ich glaube, das reicht erst mal. TschÃ¼ss.}
+{340}{}{Westlich der Stadt gibt es einen Canyon. Vor ein paar Monaten schien darin ein helles Licht. Seitdem hÃ¶rt man ab und zu schreckliche Schreie aus dem Canyon. Brahmin, die dorthin gehen, kommen nicht mehr zurÃ¼ck. Jeder hat Angst, dem Canyon zu nahe zu kommen.}
+{341}{}{Ja, sicher, ein Zeichen von Geisterheimsuchung. Wenn ihr nur einen kompetenten Schamanen hÃ¤ttet. ErzÃ¤hl mir noch was.}
+{342}{}{Das ist jetzt genug. Ich glaube, darÃ¼ber denke ich erst einmal nach. Wiedersehn.}
+{350}{}{Naja, auÃŸerhalb der Trapperstadt, westlich der Stadtmitte, gibt es ein Gebiet, das von Ratten Ã¼berrannt wird. Je weiter raus du gehst, desto grÃ¶ÃŸer werden sie. Manche behaupten, es gÃ¤be einen riesigen Rattengeist, der sie alle fÃ¼hrt. Einige der Fallensteller wollen sogar abhauen. Sie sagen, es sei zu gefÃ¤hrlich.}
+{351}{}{Fallensteller, die von Ratten vertrieben werden? ErzÃ¤hl mir was von den anderen Sachen.}
+{352}{}{Angst vor Ratten. Hmm, die mÃ¼ssen anders sein als die Ratten, die es bei uns gibt. Ich hab genug gehÃ¶rt. TschÃ¼ss.}
+{360}{}{Nicht "Ein Den", sondern "Den". Es gibt keinen grÃ¶ÃŸeren Abschaum und keine fieseren Schurken als dort. Wer hat mir das nur erzÃ¤hlt? Egal, jedenfalls ist die Gegend, ein paar Tagesreisen sÃ¼dlich von Klamath, ein ziemlich rauhes Pflaster. FÃ¼r Geld kriegst du dort alles - sogar Sklaven. Aber du musst dort sehr vorsichtig sein - dort laufen viele erhitzte GemÃ¼ter mit gefÃ¤hrlichen Waffen rum. Ich glaube aber nicht, dass sie sich sonderlich fÃ¼r uns interessieren. Wir sind hier einfach zu arm.}
+{361}{}{Ich glaube, ich wÃ¤r dort einigermaÃŸen sicher. Ich weiÃŸ, wie ich mich zu verhalten habe. Jetzt noch eine ganz andere Frage.}
+{362}{}{Ich hab jetzt erst mal genug gehÃ¶rt, Whiskey Bob. Wiedersehn.}
+{370}{}{In letzter Zeit sind einige Leute verschwunden. Ein HÃ¤ndler, namens Vic, der sich auf Vorkriegswaren spezialisiert hat und einer unserer besten Fallensteller.}
+{371}{}{ErzÃ¤hl mir mehr von diesem HÃ¤ndler, der Vic genannt wird?}
+{372}{}{Ich mÃ¶chte mehr Ã¼ber den Fallensteller wissen.}
+{373}{}{Ich mÃ¶chte dich noch etwas fragen.}
 {374}{}{Mehr muss ich nicht wissen. Auf Wiedersehen, Whiskey Bob.}
-{380}{}{Tja, Vic war wirklich ein feiner Kerl. Er wollte nicht zuviel arbeiten, deshalb hat er sich auf teure Vorkriegswaren spezialisiert, die er dann in Den verkauft hat. Machmal hat er seine Sachen sogar den dämlichen Wilden als religiöse Kultobjekte angedreht (kichert vor sich hin). Ups, sollte keine Beleidigung sein. Jedenfalls hab ich ihn schon eine Zeitlang nicht gesehen. Als ich das letzte Mal von ihm gehört habe, wollte er seine Sachen im Süden verkaufen. Vielleicht in Den.}
+{380}{}{Tja, Vic war wirklich ein feiner Kerl. Er wollte nicht zuviel arbeiten, deshalb hat er sich auf teure Vorkriegswaren spezialisiert, die er dann in Den verkauft hat. Machmal hat er seine Sachen sogar den dÃ¤mlichen Wilden als religiÃ¶se Kultobjekte angedreht (kichert vor sich hin). Ups, sollte keine Beleidigung sein. Jedenfalls hab ich ihn schon eine Zeitlang nicht gesehen. Als ich das letzte Mal von ihm gehÃ¶rt habe, wollte er seine Sachen im SÃ¼den verkaufen. Vielleicht in Den.}
 {381}{}{Was ist mit dem verschwundenen Fallensteller?}
 {382}{}{Noch eine ganz andere Frage, Bob.}
-{383}{}{Danke, ich muss über all das nachdenken. Tschüss, Whiskey Bob.}
-{390}{}{Mrs. Buckner kann dir alles über den verschwundenen Fallensteller erzählen. Sie und Smiley waren ziemlich eng befreundet. Er ging nach Norden, um nach der Höhle der goldenen Geckos zu suchen und wurde seither nicht mehr gesehen. Das ist auch schon eine Weile her.}
-{391}{}{Was ist mit dem verschwundenen Händler?}
-{392}{}{Hmm, interessant. Aber erzähl mir doch was anderes.}
+{383}{}{Danke, ich muss Ã¼ber all das nachdenken. TschÃ¼ss, Whiskey Bob.}
+{390}{}{Mrs. Buckner kann dir alles Ã¼ber den verschwundenen Fallensteller erzÃ¤hlen. Sie und Smiley waren ziemlich eng befreundet. Er ging nach Norden, um nach der HÃ¶hle der goldenen Geckos zu suchen und wurde seither nicht mehr gesehen. Das ist auch schon eine Weile her.}
+{391}{}{Was ist mit dem verschwundenen HÃ¤ndler?}
+{392}{}{Hmm, interessant. Aber erzÃ¤hl mir doch was anderes.}
 {393}{}{Das reicht erst mal. Wiedersehn, Whiskey Bob.}
-{400}{}{Ich wünschte wirklich, du hättest dich an dein Wort gehalten. Du warst nicht rechtzeitig bei meinem Destillator und jetzt ist meine ganze Ladung Schnaps ruiniert! Ich will nichts mehr mit dir zu tun haben. Und ich hoffe, auch sonst niemand.}
-{401}{}{Aber ich...ich dachte, ich hätte mehr Zeit.....}
+{400}{}{Ich wÃ¼nschte wirklich, du hÃ¤ttest dich an dein Wort gehalten. Du warst nicht rechtzeitig bei meinem Destillator und jetzt ist meine ganze Ladung Schnaps ruiniert! Ich will nichts mehr mit dir zu tun haben. Und ich hoffe, auch sonst niemand.}
+{401}{}{Aber ich...ich dachte, ich hÃ¤tte mehr Zeit.....}
 {402}{}{Der Schnaps schmeckt wahrscheinlich genauso, egal, ob ich den Destillator eingeheizt habe oder nicht.}
 {403}{}{Dein Schnaps schmeckt sowieso wie Hundepisse.}
-{404}{}{Mit dem Brennstoff konnte die richtige Temperatur für eine ordentliche Gärung nicht erreicht werden.}
-{410}{}{Ich will deine schäbigen Ausreden nicht hören. Hau endlich ab! Aber eines sag ich dir noch. Bevor ich fertig bin, wird jeder erfahren, was dein Wort wert ist.}
-{420}{}{Ein Garden-Eden-Creation-Kit? Ich glaube, ich hab das in einem alten Katalog gesehen, den ich durchgeblättert hab, als ich mich draußen hinsetzte. Viel mehr weiß ich allerdings nicht darüber.}
-{421}{}{Wirklich? Diesen Katalog würde ich gerne sehen.}
-{430}{}{Äh, (verlegen) ich hab diese Seite anderweitig verwendet, wenn du weißt, was ich meine.}
-{431}{}{Anderweitig? Ah, dafür. Ich für meinen Teil bevorzuge dafür altes Zeitungspapier. Egal, dann erzähl mir von was anderem.}
-{432}{}{Verdammt, ich dachte, ich wär so nah dran. Ich glaube, das ist genug Enttäuschung für heute. Wiedersehn, Bob.}
-{500}{}{Tach auch, was kann ich für dich tun?.}
+{404}{}{Mit dem Brennstoff konnte die richtige Temperatur fÃ¼r eine ordentliche GÃ¤rung nicht erreicht werden.}
+{410}{}{Ich will deine schÃ¤bigen Ausreden nicht hÃ¶ren. Hau endlich ab! Aber eines sag ich dir noch. Bevor ich fertig bin, wird jeder erfahren, was dein Wort wert ist.}
+{420}{}{Ein Garden-Eden-Creation-Kit? Ich glaube, ich hab das in einem alten Katalog gesehen, den ich durchgeblÃ¤ttert hab, als ich mich drauÃŸen hinsetzte. Viel mehr weiÃŸ ich allerdings nicht darÃ¼ber.}
+{421}{}{Wirklich? Diesen Katalog wÃ¼rde ich gerne sehen.}
+{430}{}{Ã„h, (verlegen) ich hab diese Seite anderweitig verwendet, wenn du weiÃŸt, was ich meine.}
+{431}{}{Anderweitig? Ah, dafÃ¼r. Ich fÃ¼r meinen Teil bevorzuge dafÃ¼r altes Zeitungspapier. Egal, dann erzÃ¤hl mir von was anderem.}
+{432}{}{Verdammt, ich dachte, ich wÃ¤r so nah dran. Ich glaube, das ist genug EnttÃ¤uschung fÃ¼r heute. Wiedersehn, Bob.}
+{500}{}{Tach auch, was kann ich fÃ¼r dich tun?.}
 {501}{}{Was geht denn hier so ab?}
 {502}{}{Nichts, Danke.}
 {550}{}{Es sieht nicht so aus, als ob Bob mit dir sprechen will.}
 {2900}{}{Die Dinge haben sich in letzter Zeit beruhigt. Es gibt nicht wirklich was zu berichten.}
-{2901}{}{Brahminverstümmler}
+{2901}{}{BrahminverstÃ¼mmler}
 {2902}{}{wandelnde Geister}
 {2903}{}{gigantische Ratten}
 {2904}{}{vermisste Personen}

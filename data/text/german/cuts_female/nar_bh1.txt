@@ -1,5 +1,5 @@
-1:Die Zerstörung der Mutanten besiegelte das Schicksal der Stadt.
-2:Ohne ihre Stärke und Widerstandsfähigkeit gegenüber den Giftstoffen in der Mine, wurde das wertvolle Erz unerreichbar.
-3:Diejenigen, die für die Zerstörung verantwortlich waren, jubelten zunächst.. bis ihnen ihre eigene Torheit bewusst wurde.
-4:Sie kämpften vergeblich, die Gemeinschaft am Blühen zu erhalten.
-5:Der Wind und die Wüste ließen Broken Hills von der Landkarte verschwinden.
+1:Die ZerstÃ¶rung der Mutanten besiegelte das Schicksal der Stadt.
+2:Ohne ihre StÃ¤rke und WiderstandsfÃ¤higkeit gegenÃ¼ber den Giftstoffen in der Mine, wurde das wertvolle Erz unerreichbar.
+3:Diejenigen, die fÃ¼r die ZerstÃ¶rung verantwortlich waren, jubelten zunÃ¤chst.. bis ihnen ihre eigene Torheit bewusst wurde.
+4:Sie kÃ¤mpften vergeblich, die Gemeinschaft am BlÃ¼hen zu erhalten.
+5:Der Wind und die WÃ¼ste lieÃŸen Broken Hills von der Landkarte verschwinden.

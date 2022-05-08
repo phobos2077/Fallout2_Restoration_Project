@@ -1,10 +1,10 @@
 {100}{}{Un viejo Highwayman destrozado.}
-{110}{}{Este vehÌculo est· en mucho peor estado de lo que parece... nada har· que vuelva a funcionar. Sin embargo, parece que una caja de repuestos de motor en el asiento trasero se ha conservado en buen estado.}
-{111}{}{Este vehÌculo est· en mal estado. Sin embargo, tiene un paquete en el asiento trasero.}
-{112}{}{Este vehÌculo parece idÈntico a los dem·s de enfrente. Parece que hay un paquete en el asiento trasero.}
-{113}{}{Este viejo vehÌculo est· en buen estado. Est·s seguro de que podrÌas arreglarlo de alg˙n modo. Si tan sÛlo tuvieras las piezas...}
-{120}{}{El motor parece estar demasiado oxidado como para que pueda arreglarse. Mientras buscas por el coche, encuentras una lata de aditivo para gasolina que podrÌa arder realmente bien.}
-{121}{}{El motor no es m·s que un montÛn de hierros que se cae a pedazos en cuanto abres el capÛ.}
-{122}{}{Este coche necesita un montÛn de reparaciones. No tienes la habilidad o las piezas necesarias para hacer funcionar esta cosa.}
-{123}{}{Parece que esta belleza est· casi a punto. Tan sÛlo unas pocas vueltas m·s en esta tuerca... (Te echas hacia atr·s por la sorpresa cuando el motor se cae del coche convirtiÈndose en montÛn de hierrajos oxidados).}
+{110}{}{Este veh√≠culo est√° en mucho peor estado de lo que parece... nada har√° que vuelva a funcionar. Sin embargo, parece que una caja de repuestos de motor en el asiento trasero se ha conservado en buen estado.}
+{111}{}{Este veh√≠culo est√° en mal estado. Sin embargo, tiene un paquete en el asiento trasero.}
+{112}{}{Este veh√≠culo parece id√©ntico a los dem√°s de enfrente. Parece que hay un paquete en el asiento trasero.}
+{113}{}{Este viejo veh√≠culo est√° en buen estado. Est√°s seguro de que podr√≠as arreglarlo de alg√∫n modo. Si tan s√≥lo tuvieras las piezas...}
+{120}{}{El motor parece estar demasiado oxidado como para que pueda arreglarse. Mientras buscas por el coche, encuentras una lata de aditivo para gasolina que podr√≠a arder realmente bien.}
+{121}{}{El motor no es m√°s que un mont√≥n de hierros que se cae a pedazos en cuanto abres el cap√≥.}
+{122}{}{Este coche necesita un mont√≥n de reparaciones. No tienes la habilidad o las piezas necesarias para hacer funcionar esta cosa.}
+{123}{}{Parece que esta belleza est√° casi a punto. Tan s√≥lo unas pocas vueltas m√°s en esta tuerca... (Te echas hacia atr√°s por la sorpresa cuando el motor se cae del coche convirti√©ndose en mont√≥n de hierrajos oxidados).}
 {130}{}{Encuentras un regulador de combustible en el asiento trasero.}

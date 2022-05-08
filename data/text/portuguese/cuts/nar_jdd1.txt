@@ -1,2 +1,2 @@
-1:Você está morto.
+1:VocÃª estÃ¡ morto.
 2:Novamente.

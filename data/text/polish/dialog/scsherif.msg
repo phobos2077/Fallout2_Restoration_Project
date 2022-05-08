@@ -1,80 +1,80 @@
-{100}{}{Widzisz siwego mê¿czyznê w mundurze policji RNK.}
+{100}{}{Widzisz siwego mÄ™Å¼czyznÄ™ w mundurze policji RNK.}
 {101}{}{To szeryf RNK.}
-{102}{}{Ten facet jest skrojony dok³adnie wed³ug regulaminu - obciêty po ¿o³niersku, o kwadratowej szczêce, typ nie daj¹cego sobie pluæ w kaszê cz³owieka.}
-{103}{}{Witamy w RNK, przybyszu. Nazywam siê Dumont - szeryf Dumont. Mam nadziejê, ¿e spêdzasz tu mi³o i spokojnie czas.}
-{104}{}{WeŸ sobie pod uwagê radê szeryfa Dumonta, przybyszu - to miasto nie przejmuje siê takimi, jak ty. Jakieœ k³opoty, a wjadê na ciebie z trepa. A teraz, czy jest coœ, w czym móg³bym ci pomóc?}
-{105}{}{Witaj ponownie. Co mogê dla ciebie zrobiæ?}
-{106}{}{Có¿, wypluj to wreszcie.}
+{102}{}{Ten facet jest skrojony dokÅ‚adnie wedÅ‚ug regulaminu - obciÄ™ty po Å¼oÅ‚niersku, o kwadratowej szczÄ™ce, typ nie dajÄ…cego sobie pluÄ‡ w kaszÄ™ czÅ‚owieka.}
+{103}{}{Witamy w RNK, przybyszu. Nazywam siÄ™ Dumont - szeryf Dumont. Mam nadziejÄ™, Å¼e spÄ™dzasz tu miÅ‚o i spokojnie czas.}
+{104}{}{WeÅº sobie pod uwagÄ™ radÄ™ szeryfa Dumonta, przybyszu - to miasto nie przejmuje siÄ™ takimi, jak ty. JakieÅ› kÅ‚opoty, a wjadÄ™ na ciebie z trepa. A teraz, czy jest coÅ›, w czym mÃ³gÅ‚bym ci pomÃ³c?}
+{105}{}{Witaj ponownie. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{106}{}{CÃ³Å¼, wypluj to wreszcie.}
 {107}{}{Urrrg.}
 {108}{}{Szukam Krypty 13. Czy wiesz, gdzie ono jest?}
-{109}{}{Masz mo¿e GECK?}
-{110}{}{Poszukujê uczciwej pracy. Czy mo¿esz mi pomóc?}
-{111}{}{Och, w porz¹dku. Wszystko jest wspaniale.}
-{112}{}{Prymityw, co? Ty. Pytania? Pytaæ ja. Ok?}
+{109}{}{Masz moÅ¼e GECK?}
+{110}{}{PoszukujÄ™ uczciwej pracy. Czy moÅ¼esz mi pomÃ³c?}
+{111}{}{Och, w porzÄ…dku. Wszystko jest wspaniale.}
+{112}{}{Prymityw, co? Ty. Pytania? PytaÄ‡ ja. Ok?}
 {113}{}{Krypty 13?}
 {114}{}{GECK?}
-{115}{}{W porz¹dku.}
-{116}{}{Nie, nie wiem. To coœ, co nawet Prezydent Tandi chcia³aby wiedzieæ. Rozwi¹za³oby to wiele k³opotów.}
-{117}{}{K³opotów?}
+{115}{}{W porzÄ…dku.}
+{116}{}{Nie, nie wiem. To coÅ›, co nawet Prezydent Tandi chciaÅ‚aby wiedzieÄ‡. RozwiÄ…zaÅ‚oby to wiele kÅ‚opotÃ³w.}
+{117}{}{KÅ‚opotÃ³w?}
 {118}{}{Prezydent Tandi?}
-{119}{}{Wspaniale. Takie to ju¿ moje szczêœcie. Dziêki.}
-{120}{}{S³uchaj, prowadzê czyste i porz¹dne ¿ycie! Nie mam GECKa, ani nic innego.}
+{119}{}{Wspaniale. Takie to juÅ¼ moje szczÄ™Å›cie. DziÄ™ki.}
+{120}{}{SÅ‚uchaj, prowadzÄ™ czyste i porzÄ…dne Å¼ycie! Nie mam GECKa, ani nic innego.}
 {121}{}{Przepraszam! Co wiesz o Krypcie 13?}
-{122}{}{Zapomnijmy o tym pytaniu. Pozostawiam ciê teraz samemu.}
-{123}{}{Przychodzi mi do g³owy parê rzeczy, je¿eli ciê to naprawdê interesuje.}
-{124}{}{¯artujesz, nie? Po tym, co siê sta³o z Jackiem? S¹dzê, ¿e potrafi³bym znaleŸæ ci sta³¹ pracê.}
-{125}{}{Na przyk³ad?}
-{126}{}{Nie, zmieñmy po prostu temat.}
-{127}{}{Niewa¿ne, to ju¿ nieaktualne. Do widzenia.}
+{122}{}{Zapomnijmy o tym pytaniu. Pozostawiam ciÄ™ teraz samemu.}
+{123}{}{Przychodzi mi do gÅ‚owy parÄ™ rzeczy, jeÅ¼eli ciÄ™ to naprawdÄ™ interesuje.}
+{124}{}{Å»artujesz, nie? Po tym, co siÄ™ staÅ‚o z Jackiem? SÄ…dzÄ™, Å¼e potrafiÅ‚bym znaleÅºÄ‡ ci staÅ‚Ä… pracÄ™.}
+{125}{}{Na przykÅ‚ad?}
+{126}{}{Nie, zmieÅ„my po prostu temat.}
+{127}{}{NiewaÅ¼ne, to juÅ¼ nieaktualne. Do widzenia.}
 {128}{}{Nie Krypta 13. Krypta 15, tak.}
-{129}{}{Piet-naœcie?}
-{130}{}{Ni. Trzy-naœcie!}
-{131}{}{Tak, 15! Ty mówiæ z Tandi. Du¿a szef RNK. Tandi zna Krypta. Chce pomóc. Ty iœæ do Tandi.}
+{129}{}{Piet-naÅ›cie?}
+{130}{}{Ni. Trzy-naÅ›cie!}
+{131}{}{Tak, 15! Ty mÃ³wiÄ‡ z Tandi. DuÅ¼a szef RNK. Tandi zna Krypta. Chce pomÃ³c. Ty iÅ›Ä‡ do Tandi.}
 {132}{}{Tandi?}
-{133}{}{Nie idœæ. Chcieæ 13!}
-{134}{}{Po-s³uchaj. Nie Krypta 13. Nie znaleŸæ. Nie widzieæ. Nie 13. Krypta 15 - ludzie znaleŸæ. Ludzie ¿yæ w Krypta 15. Rozumiesz?}
-{135}{}{Nie trzy-naœcie? Piet-naœcie?}
-{136}{}{NIE. CHCIEÆ TRZYNAŒCIE!}
-{137}{}{Rrg! NIE MA 13, TU G£UPI CEPIE! Nie 13. Nie znaleŸæ. Nigdy! Przenigdy!}
-{138}{}{Tandi du¿a szef. Tandi chce pomóc. Ty mówiæ z Tandi. Iœæ do Domu Kongresu. Dobra?}
+{133}{}{Nie idÅ›Ä‡. ChcieÄ‡ 13!}
+{134}{}{Po-sÅ‚uchaj. Nie Krypta 13. Nie znaleÅºÄ‡. Nie widzieÄ‡. Nie 13. Krypta 15 - ludzie znaleÅºÄ‡. Ludzie Å¼yÄ‡ w Krypta 15. Rozumiesz?}
+{135}{}{Nie trzy-naÅ›cie? Piet-naÅ›cie?}
+{136}{}{NIE. CHCIEÄ† TRZYNAÅšCIE!}
+{137}{}{Rrg! NIE MA 13, TU GÅUPI CEPIE! Nie 13. Nie znaleÅºÄ‡. Nigdy! Przenigdy!}
+{138}{}{Tandi duÅ¼a szef. Tandi chce pomÃ³c. Ty mÃ³wiÄ‡ z Tandi. IÅ›Ä‡ do Domu Kongresu. Dobra?}
 {139}{}{GECK?}
-{140}{}{W porz¹dku.}
+{140}{}{W porzÄ…dku.}
 {141}{}{Nie GECK. Ja zdrowy. Nie chory.}
 {142}{}{Krypty 13?}
-{143}{}{W porz¹dku.}
-{144}{}{Popatrz dooko³a. RNK to rozwijaj¹ce siê miejsce. Potrzebujemy czêœci, komputerów i Bóg wie czego jeszcze. To sta³o siê problemem, odk¹d ci bezdomni zajêli Kryptê 15.}
-{145}{}{Kryptê 15? Bezdomni? Co siê dzieje?}
+{143}{}{W porzÄ…dku.}
+{144}{}{Popatrz dookoÅ‚a. RNK to rozwijajÄ…ce siÄ™ miejsce. Potrzebujemy czÄ™Å›ci, komputerÃ³w i BÃ³g wie czego jeszcze. To staÅ‚o siÄ™ problemem, odkÄ…d ci bezdomni zajÄ™li KryptÄ™ 15.}
+{145}{}{KryptÄ™ 15? Bezdomni? Co siÄ™ dzieje?}
 {146}{}{A co z Prezydent Tandi?}
-{147}{}{Dziêki za informacjê.}
-{148}{}{Prezydent RNK, któ¿by inny? Sprawy tak j¹ zaniepokoi³y, ¿e nawet poprosi³a, aby wypo¿yczyæ jednego z moich zastêpców na specjaln¹ misjê. Przykro mi j¹ zawodziæ, ale nie mogê oddaæ nawet ma³ej czêœci si³y ludzkiej.}
-{149}{}{A co myœlisz o mnie? Móg³byœ mnie poleciæ.}
-{150}{}{Hmm. Masz chyba ciê¿ki ¿ywot.}
-{151}{}{Ciebie? Hmmm.... nie móg³bym. Nawet ciê nie znam - ale ona szuka kogoœ do zatrudnienia, wiêc mo¿esz iœæ z ni¹ porozmawiaæ. Jej biuro jest w Domu Kongresu.}
-{152}{}{Dziêki. Zrobiê tak.}
-{153}{}{Wiesz coœ o GECKu?}
-{154}{}{Có¿, to bardzo mi³o z twojej strony, przybyszu - i cholernie zuchwale. Nie znam ciê od Adamy i Ewy, nie podoba mi te¿ twoja twarz! Nie bêdê ciê nikomu poleca³. A teraz, robota czeka.}
-{155}{}{Có¿, mamy Duppo'a u Hodowców Byd³a. Zatrudnia ludzi do spêdu bramin. No i pan Westin. Je¿eli bêdziesz z nim mówi³, powiedz mu, ¿e ja ciê przysy³am. Nawet Prezydent Tandi poszukuje naoko³o kogoœ do pomocy.}
-{156}{}{Duppo w Stowarzyszeniu Hodowców Byd³a szuka r¹k przy spêdzie byd³a. Spytaj go.}
+{147}{}{DziÄ™ki za informacjÄ™.}
+{148}{}{Prezydent RNK, ktÃ³Å¼by inny? Sprawy tak jÄ… zaniepokoiÅ‚y, Å¼e nawet poprosiÅ‚a, aby wypoÅ¼yczyÄ‡ jednego z moich zastÄ™pcÃ³w na specjalnÄ… misjÄ™. Przykro mi jÄ… zawodziÄ‡, ale nie mogÄ™ oddaÄ‡ nawet maÅ‚ej czÄ™Å›ci siÅ‚y ludzkiej.}
+{149}{}{A co myÅ›lisz o mnie? MÃ³gÅ‚byÅ› mnie poleciÄ‡.}
+{150}{}{Hmm. Masz chyba ciÄ™Å¼ki Å¼ywot.}
+{151}{}{Ciebie? Hmmm.... nie mÃ³gÅ‚bym. Nawet ciÄ™ nie znam - ale ona szuka kogoÅ› do zatrudnienia, wiÄ™c moÅ¼esz iÅ›Ä‡ z niÄ… porozmawiaÄ‡. Jej biuro jest w Domu Kongresu.}
+{152}{}{DziÄ™ki. ZrobiÄ™ tak.}
+{153}{}{Wiesz coÅ› o GECKu?}
+{154}{}{CÃ³Å¼, to bardzo miÅ‚o z twojej strony, przybyszu - i cholernie zuchwale. Nie znam ciÄ™ od Adamy i Ewy, nie podoba mi teÅ¼ twoja twarz! Nie bÄ™dÄ™ ciÄ™ nikomu polecaÅ‚. A teraz, robota czeka.}
+{155}{}{CÃ³Å¼, mamy Duppo'a u HodowcÃ³w BydÅ‚a. Zatrudnia ludzi do spÄ™du bramin. No i pan Westin. JeÅ¼eli bÄ™dziesz z nim mÃ³wiÅ‚, powiedz mu, Å¼e ja ciÄ™ przysyÅ‚am. Nawet Prezydent Tandi poszukuje naokoÅ‚o kogoÅ› do pomocy.}
+{156}{}{Duppo w Stowarzyszeniu HodowcÃ³w BydÅ‚a szuka rÄ…k przy spÄ™dzie bydÅ‚a. Spytaj go.}
 {157}{}{Westin?}
 {158}{}{Prezydent Tandi?}
-{159}{}{Muszê ju¿ iœæ.}
-{160}{}{Roger Westin. Jego posiad³oœæ jest tu¿ za zachodni¹ bram¹. Ma jakieœ problemy ze szkodnikami. Sam by siê tym zaj¹³, ale jego zdrowie nie jest ju¿ takie, jak kiedyœ. Doktor Jubilee mówi o k³opotach z sercem.}
+{159}{}{MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{160}{}{Roger Westin. Jego posiadÅ‚oÅ›Ä‡ jest tuÅ¼ za zachodniÄ… bramÄ…. Ma jakieÅ› problemy ze szkodnikami. Sam by siÄ™ tym zajÄ…Å‚, ale jego zdrowie nie jest juÅ¼ takie, jak kiedyÅ›. Doktor Jubilee mÃ³wi o kÅ‚opotach z sercem.}
 {161}{}{Taak?}
-{162}{}{Czy w tym mieœcie znajdzie siê jakaœ praca?}
-{163}{}{Niewa¿ne. Idê ju¿.}
-{164}{}{Tylko postaraj siê, aby tak pozosta³o. Do widzenia.}
-{165}{}{To kawa³ cholernie dobrej roboty ze starym Jackiem, przybyszu. Jako szeryf, przejmujê sprawê.}
-{166}{}{Ca³y jest twój.}
-{167}{}{A co z nagrod¹?}
-{168}{}{Có¿, nie mogê powiedzieæ, ¿e mam dla ciebie jak¹œ nagrodê pieniê¿n¹. Najlepsze, co mogê ci daæ, to moje podziêkowania.}
-{169}{}{Chwila. Mam kilka pytañ.}
-{170}{}{Och, doskonale ciê rozumiem.}
-{171}{}{Przykro mi, nie mogê teraz rozmawiaæ. Ju¿ jestem spóŸniony na dochodzenie. Jak dla mnie wygl¹da na czyst¹ robotê.}
-{172}{}{Przykro mi, nie ma przestêpstwa, to nie ma i czasu.}
-{173}{}{Szczury pustyni. Musisz zrozumieæ - to miasto ma swoje korzenie jeszcze w 15. Wygl¹da na to, ¿e dawno temu by³y tam jakieœ problemy i ci, którzy prze¿yli, za³o¿yli Cieniste Piaski. A wiêc, zgodnie z prawem, Krypta 15 jest nasz¹ w³asnoœci¹. Kilka lat temu jacyœ bezdomni wprowadzili siê tam i od tej pory ci¹gle s¹ k³opoty. Porozmawiaj o tym lepiej z Tandi.}
+{162}{}{Czy w tym mieÅ›cie znajdzie siÄ™ jakaÅ› praca?}
+{163}{}{NiewaÅ¼ne. IdÄ™ juÅ¼.}
+{164}{}{Tylko postaraj siÄ™, aby tak pozostaÅ‚o. Do widzenia.}
+{165}{}{To kawaÅ‚ cholernie dobrej roboty ze starym Jackiem, przybyszu. Jako szeryf, przejmujÄ™ sprawÄ™.}
+{166}{}{CaÅ‚y jest twÃ³j.}
+{167}{}{A co z nagrodÄ…?}
+{168}{}{CÃ³Å¼, nie mogÄ™ powiedzieÄ‡, Å¼e mam dla ciebie jakÄ…Å› nagrodÄ™ pieniÄ™Å¼nÄ…. Najlepsze, co mogÄ™ ci daÄ‡, to moje podziÄ™kowania.}
+{169}{}{Chwila. Mam kilka pytaÅ„.}
+{170}{}{Och, doskonale ciÄ™ rozumiem.}
+{171}{}{Przykro mi, nie mogÄ™ teraz rozmawiaÄ‡. JuÅ¼ jestem spÃ³Åºniony na dochodzenie. Jak dla mnie wyglÄ…da na czystÄ… robotÄ™.}
+{172}{}{Przykro mi, nie ma przestÄ™pstwa, to nie ma i czasu.}
+{173}{}{Szczury pustyni. Musisz zrozumieÄ‡ - to miasto ma swoje korzenie jeszcze w 15. WyglÄ…da na to, Å¼e dawno temu byÅ‚y tam jakieÅ› problemy i ci, ktÃ³rzy przeÅ¼yli, zaÅ‚oÅ¼yli Cieniste Piaski. A wiÄ™c, zgodnie z prawem, Krypta 15 jest naszÄ… wÅ‚asnoÅ›ciÄ…. Kilka lat temu jacyÅ› bezdomni wprowadzili siÄ™ tam i od tej pory ciÄ…gle sÄ… kÅ‚opoty. Porozmawiaj o tym lepiej z Tandi.}
 {174}{}{Tandi?}
-{175}{}{Wezmê to pod rozwagê.}
-{176}{}{Nie ma ju¿ wiêcej pracy, o której by³oby mi wiadomo.}
-{177}{}{Duppo u Hodowców Byd³a zatrudnia ludzi do spêdu bramin. Prezydent Tandi poszukuje kogoœ do pomocy..}
-{178}{}{Ka¿dy inny o twojej reputacji ju¿ by opuœci³ miasto zamiast pytaæ o pracê.}
-{179}{}{Duppo u Hodowców Byd³a zatrudnia ludzi do spêdu bramin. No i pan Westin. Je¿eli bêdziesz z nim mówi³, powiedz mu, ¿e ja ciê przysy³am.}
+{175}{}{WezmÄ™ to pod rozwagÄ™.}
+{176}{}{Nie ma juÅ¼ wiÄ™cej pracy, o ktÃ³rej byÅ‚oby mi wiadomo.}
+{177}{}{Duppo u HodowcÃ³w BydÅ‚a zatrudnia ludzi do spÄ™du bramin. Prezydent Tandi poszukuje kogoÅ› do pomocy..}
+{178}{}{KaÅ¼dy inny o twojej reputacji juÅ¼ by opuÅ›ciÅ‚ miasto zamiast pytaÄ‡ o pracÄ™.}
+{179}{}{Duppo u HodowcÃ³w BydÅ‚a zatrudnia ludzi do spÄ™du bramin. No i pan Westin. JeÅ¼eli bÄ™dziesz z nim mÃ³wiÅ‚, powiedz mu, Å¼e ja ciÄ™ przysyÅ‚am.}

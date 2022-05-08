@@ -1,31 +1,31 @@
-{100}{}{A pessoa que você vê está emitindo uma luz fraca. Sua pele parece muito queimada.}
-{101}{}{Você vê o resplandecente, um cidadão de Gecko.}
-{102}{}{Você vê alguém que foi exposto a tanta radiação que emite um brilho fraco.
- Essa quantidade de radiação deveria tê-lo matado, mas eles parecem estar bem.}
-{110}{}{Tanta radiação representa mais segurança no trabalho para mim.}
-{111}{}{Veja como brilha. Pode vê-lo?}
+{100}{}{A pessoa que vocÃª vÃª estÃ¡ emitindo uma luz fraca. Sua pele parece muito queimada.}
+{101}{}{VocÃª vÃª o resplandecente, um cidadÃ£o de Gecko.}
+{102}{}{VocÃª vÃª alguÃ©m que foi exposto a tanta radiaÃ§Ã£o que emite um brilho fraco.
+ Essa quantidade de radiaÃ§Ã£o deveria tÃª-lo matado, mas eles parecem estar bem.}
+{110}{}{Tanta radiaÃ§Ã£o representa mais seguranÃ§a no trabalho para mim.}
+{111}{}{Veja como brilha. Pode vÃª-lo?}
 {112}{}{Eu amo ir trabalhar todos os dias.}
-{113}{}{Vou precisar de mais urânio de novo.}
-{114}{}{Acho que somos todos movidos a energia atômica aqui.}
+{113}{}{Vou precisar de mais urÃ¢nio de novo.}
+{114}{}{Acho que somos todos movidos a energia atÃ´mica aqui.}
 {120}{}{Como eu adoro o calor daqui.}
-{121}{}{Tenho uma sensação maravilhosa aqui.}
-{122}{}{Não sei o que faria se tivesse que morar em qualquer outro lugar.}
-{123}{}{Eu amo sentir a radiação pela manhã.}
+{121}{}{Tenho uma sensaÃ§Ã£o maravilhosa aqui.}
+{122}{}{NÃ£o sei o que faria se tivesse que morar em qualquer outro lugar.}
+{123}{}{Eu amo sentir a radiaÃ§Ã£o pela manhÃ£.}
 {124}{}{Pelo menos eu nunca preciso de uma luz noturna.}
-{125}{}{(aponta o dedo brilhante para você) Minha casa.}
-{126}{}{Você sabe, se você fechar a porta, eu não brilho mais.}
-{127}{}{Este é um lugar que eu realmente sinto que pertenço.}
-{128}{}{Eu não acredito que aquelas pessoas de Vault City querem destruir minha casa.}
+{125}{}{(aponta o dedo brilhante para vocÃª) Minha casa.}
+{126}{}{VocÃª sabe, se vocÃª fechar a porta, eu nÃ£o brilho mais.}
+{127}{}{Este Ã© um lugar que eu realmente sinto que pertenÃ§o.}
+{128}{}{Eu nÃ£o acredito que aquelas pessoas de Vault City querem destruir minha casa.}
 {129}{}{Reator, doce reator.}
-{130}{}{Você se sente tão humilde...}
-{131}{}{Aquecimento de energia atômica... você tem que adorar.}
-{140}{}{Obrigado por consertar o reator. Está um pouco mais frio agora, mas não muito.}
+{130}{}{VocÃª se sente tÃ£o humilde...}
+{131}{}{Aquecimento de energia atÃ´mica... vocÃª tem que adorar.}
+{140}{}{Obrigado por consertar o reator. EstÃ¡ um pouco mais frio agora, mas nÃ£o muito.}
 {141}{}{Brrr... obrigado por consertar nosso reator.}
 {142}{}{Eu gostaria de ter conseguido essa parte.}
 {143}{}{Obrigado por sua ajuda.}
-{144}{}{Talvez aquelas pessoas de Vault City não sejam tão ruins.}
-{150}{}{Não me lembro quando o reator funcionou tão bem.}
-{151}{}{Está frio demais hoje por por aqui.}
+{144}{}{Talvez aquelas pessoas de Vault City nÃ£o sejam tÃ£o ruins.}
+{150}{}{NÃ£o me lembro quando o reator funcionou tÃ£o bem.}
+{151}{}{EstÃ¡ frio demais hoje por por aqui.}
 {152}{}{Brrrr, estou congelando.}
 {153}{}{Acho que estou com queimaduras de frio ou algo assim.}
-{154}{}{Parece frio para você?}
+{154}{}{Parece frio para vocÃª?}

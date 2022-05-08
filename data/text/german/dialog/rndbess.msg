@@ -1,3 +1,3 @@
 {100}{}{Du scheuchst einen Schwarm Geier auf, die sich an einer toten Brahminherde weiden.}
-{101}{}{Puh! Es gibt nichts Ekligeres als moderndes Fleisch in der heiﬂen Sonne.}
+{101}{}{Puh! Es gibt nichts Ekligeres als moderndes Fleisch in der hei√üen Sonne.}
 {102}{}{Oh mein Gott, das ist ja Bess!}

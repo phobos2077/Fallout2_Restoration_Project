@@ -1,14 +1,14 @@
-{100}{}{Udaje ci siê otworzyæ zamek.}
-{101}{}{Nie udaje ci siê otworzyæ zamka.}
+{100}{}{Udaje ci siÄ™ otworzyÄ‡ zamek.}
+{101}{}{Nie udaje ci siÄ™ otworzyÄ‡ zamka.}
 {102}{}{Zamykasz zamek na tym obiekcie.}
-{103}{}{Nie udaje ci siê zamkn¹æ zamka na tym obiekcie.}
+{103}{}{Nie udaje ci siÄ™ zamknÄ…Ä‡ zamka na tym obiekcie.}
 {200}{}{ otwiera zamek.}
-{201}{}{ nie daje rady otworzyæ zamka.}
+{201}{}{ nie daje rady otworzyÄ‡ zamka.}
 {202}{}{ zamyka wskazany zamek.}
-{203}{}{ nie daje rady zamkn¹æ wskazanego zamka.}
+{203}{}{ nie daje rady zamknÄ…Ä‡ wskazanego zamka.}
 {300}{}{Wybuch niszczy zamek.}
-{301}{}{Wybuch nie zniszczy³ zamka.}
-{400}{}{Wy³amujesz zamek na tym obiekcie.}
-{401}{}{Nie udaje ci siê wy³amaæ zamka na tym obiekcie.}
-{500}{}{ wy³amuje zamek na wskazanym obiekcie.}
-{501}{}{ nie daje rady wy³amaæ zamka na wskazanym obiekcie.}
+{301}{}{Wybuch nie zniszczyÅ‚ zamka.}
+{400}{}{WyÅ‚amujesz zamek na tym obiekcie.}
+{401}{}{Nie udaje ci siÄ™ wyÅ‚amaÄ‡ zamka na tym obiekcie.}
+{500}{}{ wyÅ‚amuje zamek na wskazanym obiekcie.}
+{501}{}{ nie daje rady wyÅ‚amaÄ‡ zamka na wskazanym obiekcie.}

@@ -4,22 +4,22 @@
  you with something?}
 {103}{}{Was there something else you wanted?}
 {104}{}{Can you tell me about Vault City?}
-{105}{}{O que você faz por aqui?}
+{105}{}{O que vocÃª faz por aqui?}
 {106}{}{Estou a procura da Vault.}
-{107}{}{Eu gostaria de ajudá-lo com esse arado.}
+{107}{}{Eu gostaria de ajudÃ¡-lo com esse arado.}
 {108}{}{Your wife says things have been hard.}
 {109}{}{No, just passing through. Goodbye.}
 {110}{}{Um... Waga Nu-kik?}
 {111}{}{Well, what you see here ain't really Vault City... you're actually standing
  in the city's Courtyard.}
-{112}{}{Por que você não está na cidade?}
-{113}{}{O que você faz aqui?}
+{112}{}{Por que vocÃª nÃ£o estÃ¡ na cidade?}
+{113}{}{O que vocÃª faz aqui?}
 {114}{}{Posso pedir mais uma coisa?}
 {115}{}{Obrigado. Adeus.}
 {116}{}{My family and I work a farm here in the Courtyard. We get by. Don't know
  for how long, though.}
 {117}{}{What's the problem?}
-{118}{}{Por que você não está na cidade?}
+{118}{}{Por que vocÃª nÃ£o estÃ¡ na cidade?}
 {119}{}{Posso pedir mais uma coisa?}
 {120}{}{Yeah, times are tough. Goodbye.}
 {121}{}{That's right, big fella. I gotta get going.}
@@ -27,10 +27,10 @@
  inside the gates, along the cliff, I think. They only let the Citizens into it,
  though.}
 {123}{}{Posso pedir mais uma coisa?}
-{124}{}{Obrigado pelas direções. Tchau.}
+{124}{}{Obrigado pelas direÃ§Ãµes. Tchau.}
 {125}{}{Me and the family ain't the kind of people they let in there. So we
  live here under their protection.}
-{126}{}{Por que você não tem permissão para morar na cidade?}
+{126}{}{Por que vocÃª nÃ£o tem permissÃ£o para morar na cidade?}
 {127}{}{Protection? What kind of protection? }
 {128}{}{Posso pedir mais uma coisa?}
 {129}{}{I see. Well, thanks for your time. Goodbye.}
@@ -54,7 +54,7 @@
 {144}{}{Mary, keep away from this fella.}
 {145}{}{You'd help people like us? We can't offer much, but we sure would
  appreciate it.}
-{146}{}{Eh! Se você não pode pagar, não posso ajudá-lo.}
+{146}{}{Eh! Se vocÃª nÃ£o pode pagar, nÃ£o posso ajudÃ¡-lo.}
 {147}{}{Sem problemas. Eu gostaria de ajudar.}
 {148}{}{Posso pedir mais uma coisa?}
 {149}{}{I'll have to think about it. Goodbye.}

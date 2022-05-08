@@ -1,4 +1,4 @@
-{100}{}{Widzisz krzy¿. Napis na nim g³osi Œmieæ.'}
-{101}{}{Hmm... to jest krzy¿.}
-{102}{}{Hej, ktoœ zakopa³ pod tym krzy¿em jakieœ pieni¹dze.}
-{103}{}{Nic wiêcej tu nie ma.}
+{100}{}{Widzisz krzyÅ¼. Napis na nim gÅ‚osi ÅšmieÄ‡.'}
+{101}{}{Hmm... to jest krzyÅ¼.}
+{102}{}{Hej, ktoÅ› zakopaÅ‚ pod tym krzyÅ¼em jakieÅ› pieniÄ…dze.}
+{103}{}{Nic wiÄ™cej tu nie ma.}

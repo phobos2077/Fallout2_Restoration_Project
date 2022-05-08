@@ -8,12 +8,12 @@
 {110}{}{Vedi un'attraente giovane donna. Ha la faccia coperta da un sottile strato di un qualche tipo di polvere bianca.}
 {111}{}{Vedi una donna di mezz'eta' con un seno generoso.}
 {112}{}{Vedi una donna attraente che indossa degli abiti parzialmente sbottonati.}
-{113}{}{Vedi una donna che ti guarda attentamente…con una smorfia di disgusto sul volto.}
+{113}{}{Vedi una donna che ti guarda attentamenteâ€¦con una smorfia di disgusto sul volto.}
 {120}{}{Che velocita'!}
 {121}{}{Era da tanto tempo che non lo facevi, vero, caro?}
 {122}{}{Forse la prossima volta durerai piu' a lungo.}
 {123}{}{Questa non e' una gara di velocita, sai?.}
-{124}{}{Per caso i tuoi amici ti chiamano ‘Speedy’?}
+{124}{}{Per caso i tuoi amici ti chiamano â€˜Speedyâ€™?}
 {125}{}{Se tutti i miei clienti fossero cosi' veloci, potrei andarmene a casa prima.}
 {126}{}{E' piu' divertente se mi dai il tempo di aiutarti.}
 {127}{}{Se tu avessi aspettato che mi fossi spogliata, scommetto che ti sarebbe piaciuto di piu'.}

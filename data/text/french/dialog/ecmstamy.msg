@@ -1,5 +1,5 @@
-{100}{}{Un soldat restant de l'armée du Maître.}
-{101}{}{Le Maître a dit de lui amener tous les norms.}
-{102}{}{Tous les norms doivent être trempés.}
+{100}{}{Un soldat restant de l'armÃ©e du MaÃ®tre.}
+{101}{}{Le MaÃ®tre a dit de lui amener tous les norms.}
+{102}{}{Tous les norms doivent Ãªtre trempÃ©s.}
 {103}{}{Ecrabouillez les norms !}
-{104}{}{Moi vouloir entendre bruit quand réduire toi en bouillie.}
+{104}{}{Moi vouloir entendre bruit quand rÃ©duire toi en bouillie.}

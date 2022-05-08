@@ -1,6 +1,6 @@
 {970}{}{That is my name.}
 {971}{}{You are talking to me.}
-{972}{}{Miért kérdezel buta kérdéseket. Én vagyok az.}
-{980}{}{Arról semmit se tudok.}
-{981}{}{Sajnálom semmi nyom.}
+{972}{}{MiÃ©rt kÃ©rdezel buta kÃ©rdÃ©seket. Ã‰n vagyok az.}
+{980}{}{ArrÃ³l semmit se tudok.}
+{981}{}{SajnÃ¡lom semmi nyom.}
 {982}{}{Never heard of it.}

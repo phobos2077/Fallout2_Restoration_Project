@@ -1,1 +1,1 @@
-{100}{}{Uda³o ci siê znaleŸæ ukryt¹ komorê kopalni.}
+{100}{}{UdaÅ‚o ci siÄ™ znaleÅºÄ‡ ukrytÄ… komorÄ™ kopalni.}

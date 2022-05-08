@@ -1,72 +1,72 @@
 {100}{}{Ves a un viejo.}
 {101}{}{Ves a Cornelius.}
-{102}{}{Aparte de una expresión ligeramente inquieta en su rostro, no parece haber nada extraordinario en él.}
-{150}{}{Bienvenido a la Posada de Rose. Mi nombre es Rose -digo, Cornelius- y dirijo esta posada. ¿Puedo ayudarte?}
-{151}{}{Si eres tú quien dirige este lugar, ¿entonces por qué se llama Posada de ROSE?}
+{102}{}{Aparte de una expresiÃ³n ligeramente inquieta en su rostro, no parece haber nada extraordinario en Ã©l.}
+{150}{}{Bienvenido a la Posada de Rose. Mi nombre es Rose -digo, Cornelius- y dirijo esta posada. Â¿Puedo ayudarte?}
+{151}{}{Si eres tÃº quien dirige este lugar, Â¿entonces por quÃ© se llama Posada de ROSE?}
 {152}{}{Estoy buscando un reloj de oro.}
-{153}{}{¿Qué haces aquí?}
-{154}{}{¿Quién es Rose?}
-{155}{}{Estoy interesada en conseguir una habitación.}
-{156}{}{¿Preguntas? ¿Te estaba preguntando algo? Hola, mi nombre es Cornelius.}
+{153}{}{Â¿QuÃ© haces aquÃ­?}
+{154}{}{Â¿QuiÃ©n es Rose?}
+{155}{}{Estoy interesada en conseguir una habitaciÃ³n.}
+{156}{}{Â¿Preguntas? Â¿Te estaba preguntando algo? Hola, mi nombre es Cornelius.}
 {162}{}{Necesitas ayuda de verdad, anciano.}
 {163}{}{Farrel tiene tu reloj en una caja fuerte. Vamos a colgarle.}
-{164}{}{He encontrado tu reloj en la casa de Farrel. Tenías razón, Farrel era el ladrón.}
-{165}{}{Parece que una rata muy trabajadora se había hecho con tu reloj. Lo he recuperado de su nido.}
-{166}{}{¡Hola! ¿Nos conocemos?}
-{176}{}{¡Dios mío! ¡Alguien ha matado a Farrel, mi mejor amigo! El pueblo entero está buscando al asesino. ¡Vamos a lincharle cuando le atrapemos!}
-{177}{}{Yo le maté. ¿Qué piensas hacer, viejo loco?}
-{178}{}{¡Caramba! Mira qué tarde es. Tengo que irme.}
-{179}{}{Rose es mi esposa; este lugar se llama así por ella. ¿Sabías que estoy casado?}
-{180}{}{¿Puedo hacerte más preguntas?}
-{181}{}{¿ENTONCES POR QUÉ NO LE PREGUNTAS AL MALDITO FARREL? ¡QUIZÁS ÉL TE VENDA EL RELOJ QUE ME ROBÓ! Ahora, si no te importa, estoy muy ocupado. Tengo que esquilar a los brahmines.}
-{182}{}{Dirijo este motel. Sí, el lugar se caería a pedazos si no fuera por mí. ¿Has estado en el excusado? El excusado más limpio en el que jamás hayas estado. Ese es mi trabajo.}
-{183}{}{¿Qué tiene que ver tener un excusado limpio con dirigir este lugar?}
-{184}{}{Rose es mi esposa. Ella lleva la cocina. No encontrarás mejor comida en ningún otro lugar. Rose... es tan hermosa. Voy a casarme con ella algún día.}
-{185}{}{Creía que habías dicho que Rose era tu esposa.}
-{186}{}{Tengo una habitación. Duermo allí. ¿Donde duermes tú?}
-{187}{}{Creo que no me has entendido. Quiero alquilar una habitación para esta noche.}
-{188}{}{Hace tiempo, he olvidado cuando... era mi mejor amigo desde hace 30... ¿O eran 40 años? Oh, eso no importa, lo que importa es que me robó mi preciado reloj de bolsillo de oro. Había pertenecido a mi familia durante cinco, no, seis, err... cuatro generaciones. Si, recuerdo perfectamente haberlo dejado en mi escritorio. Entonces, cuando fui a mirar en la mesa de la cocina, ya no estaba.}
-{189}{}{Vale, te lo traeré de vuelta.}
-{190}{}{¿Has intentado buscarlo en tu escritorio?}
-{191}{}{¿Vas a ayudarme? ¡Genial! Ve a darle una buena a Farrel y tráeme mi reloj. Probablemente lo haya escondido bien así que destrózale la casa y búscalo.}
-{192}{}{¿De qué estás hablando?}
+{164}{}{He encontrado tu reloj en la casa de Farrel. TenÃ­as razÃ³n, Farrel era el ladrÃ³n.}
+{165}{}{Parece que una rata muy trabajadora se habÃ­a hecho con tu reloj. Lo he recuperado de su nido.}
+{166}{}{Â¡Hola! Â¿Nos conocemos?}
+{176}{}{Â¡Dios mÃ­o! Â¡Alguien ha matado a Farrel, mi mejor amigo! El pueblo entero estÃ¡ buscando al asesino. Â¡Vamos a lincharle cuando le atrapemos!}
+{177}{}{Yo le matÃ©. Â¿QuÃ© piensas hacer, viejo loco?}
+{178}{}{Â¡Caramba! Mira quÃ© tarde es. Tengo que irme.}
+{179}{}{Rose es mi esposa; este lugar se llama asÃ­ por ella. Â¿SabÃ­as que estoy casado?}
+{180}{}{Â¿Puedo hacerte mÃ¡s preguntas?}
+{181}{}{Â¿ENTONCES POR QUÃ‰ NO LE PREGUNTAS AL MALDITO FARREL? Â¡QUIZÃS Ã‰L TE VENDA EL RELOJ QUE ME ROBÃ“! Ahora, si no te importa, estoy muy ocupado. Tengo que esquilar a los brahmines.}
+{182}{}{Dirijo este motel. SÃ­, el lugar se caerÃ­a a pedazos si no fuera por mÃ­. Â¿Has estado en el excusado? El excusado mÃ¡s limpio en el que jamÃ¡s hayas estado. Ese es mi trabajo.}
+{183}{}{Â¿QuÃ© tiene que ver tener un excusado limpio con dirigir este lugar?}
+{184}{}{Rose es mi esposa. Ella lleva la cocina. No encontrarÃ¡s mejor comida en ningÃºn otro lugar. Rose... es tan hermosa. Voy a casarme con ella algÃºn dÃ­a.}
+{185}{}{CreÃ­a que habÃ­as dicho que Rose era tu esposa.}
+{186}{}{Tengo una habitaciÃ³n. Duermo allÃ­. Â¿Donde duermes tÃº?}
+{187}{}{Creo que no me has entendido. Quiero alquilar una habitaciÃ³n para esta noche.}
+{188}{}{Hace tiempo, he olvidado cuando... era mi mejor amigo desde hace 30... Â¿O eran 40 aÃ±os? Oh, eso no importa, lo que importa es que me robÃ³ mi preciado reloj de bolsillo de oro. HabÃ­a pertenecido a mi familia durante cinco, no, seis, err... cuatro generaciones. Si, recuerdo perfectamente haberlo dejado en mi escritorio. Entonces, cuando fui a mirar en la mesa de la cocina, ya no estaba.}
+{189}{}{Vale, te lo traerÃ© de vuelta.}
+{190}{}{Â¿Has intentado buscarlo en tu escritorio?}
+{191}{}{Â¿Vas a ayudarme? Â¡Genial! Ve a darle una buena a Farrel y trÃ¡eme mi reloj. Probablemente lo haya escondido bien asÃ­ que destrÃ³zale la casa y bÃºscalo.}
+{192}{}{Â¿De quÃ© estÃ¡s hablando?}
 {193}{}{Mira, no quiero tener nada que ver con esto.}
-{194}{}{Matar a Farrel, devolver reloj.... ¿de acuerdo? Volveré.}
-{195}{}{¿Matar a Farrel? ¿Quién va a matar a Farrel? ¡Es mi mejor amigo! Colgaré personalmente al villano que se atreva a intentar matar a Farrel.}
+{194}{}{Matar a Farrel, devolver reloj.... Â¿de acuerdo? VolverÃ©.}
+{195}{}{Â¿Matar a Farrel? Â¿QuiÃ©n va a matar a Farrel? Â¡Es mi mejor amigo! ColgarÃ© personalmente al villano que se atreva a intentar matar a Farrel.}
 {196}{}{Acepto el trabajo, y espero recibir una paga tras completarlo.}
-{197}{}{No aguanto más esto. Me voy.}
-{198}{}{Por supuesto, te pagaré. Tan pronto como acabes de limpiar el establo vuelve y ven a verme.}
-{199}{}{Tenía un reloj. Era un reloj de oro. Me pregunto donde lo habré puesto.}
-{200}{}{Sí, sí, sí. He mirado en el cajón de los calcetines. Tampoco está ahí.}
-{201}{}{Echaré un vistazo por si veo tu reloj mientras estoy en el pueblo.}
-{202}{}{No tengo intención de ayudar a un viejo loco como tú. Me largo de aquí.}
-{203}{}{¡Sabía que no podía confiar en él! Voy a colgarle por las orejas hasta que me devuelva mi reloj.}
-{204}{}{Ahí no hay nada. El Sheriff Jo y yo mismo ya buscamos allí.}
-{206}{}{¿Lo hizo? ¡Lo sabía! Le voy a enseñar una lección que no olvidará. Mejor que te quedes aquí o podrías resultar herida.}
-{207}{}{¡Ese es mi reloj! ¿Qué estás haciendo con él? ¡Devuélvelo! [Te arranca el reloj de las manos]. Creo que será mejor que te vayas; aquí no solemos ser corteses con los ladrones.}
-{208}{}{Qué gratitud la tuya.}
-{209}{}{¿Has probado las tortillas de Rose? Son deliciosas.}
-{210}{}{Vi a Jonny jugando cerca del pozo con su perro Laddie. Qué chico más majo.}
+{197}{}{No aguanto mÃ¡s esto. Me voy.}
+{198}{}{Por supuesto, te pagarÃ©. Tan pronto como acabes de limpiar el establo vuelve y ven a verme.}
+{199}{}{TenÃ­a un reloj. Era un reloj de oro. Me pregunto donde lo habrÃ© puesto.}
+{200}{}{SÃ­, sÃ­, sÃ­. He mirado en el cajÃ³n de los calcetines. Tampoco estÃ¡ ahÃ­.}
+{201}{}{EcharÃ© un vistazo por si veo tu reloj mientras estoy en el pueblo.}
+{202}{}{No tengo intenciÃ³n de ayudar a un viejo loco como tÃº. Me largo de aquÃ­.}
+{203}{}{Â¡SabÃ­a que no podÃ­a confiar en Ã©l! Voy a colgarle por las orejas hasta que me devuelva mi reloj.}
+{204}{}{AhÃ­ no hay nada. El Sheriff Jo y yo mismo ya buscamos allÃ­.}
+{206}{}{Â¿Lo hizo? Â¡Lo sabÃ­a! Le voy a enseÃ±ar una lecciÃ³n que no olvidarÃ¡. Mejor que te quedes aquÃ­ o podrÃ­as resultar herida.}
+{207}{}{Â¡Ese es mi reloj! Â¿QuÃ© estÃ¡s haciendo con Ã©l? Â¡DevuÃ©lvelo! [Te arranca el reloj de las manos]. Creo que serÃ¡ mejor que te vayas; aquÃ­ no solemos ser corteses con los ladrones.}
+{208}{}{QuÃ© gratitud la tuya.}
+{209}{}{Â¿Has probado las tortillas de Rose? Son deliciosas.}
+{210}{}{Vi a Jonny jugando cerca del pozo con su perro Laddie. QuÃ© chico mÃ¡s majo.}
 {211}{}{No vayas a la Granja Fantasma salvo que te hayas cansado de vivir.}
-{212}{}{Miria es una chica maja. Solíamos jugar a los médicos cuando era pequeña.}
-{213}{}{Davin es un chico majo. Me pregunto porque no se parecerá en nada a su padre.}
-{214}{}{Un día me senté en el retrete y un gran perro salió de la alcantarilla. Me dio un susto de muerte.}
+{212}{}{Miria es una chica maja. SolÃ­amos jugar a los mÃ©dicos cuando era pequeÃ±a.}
+{213}{}{Davin es un chico majo. Me pregunto porque no se parecerÃ¡ en nada a su padre.}
+{214}{}{Un dÃ­a me sentÃ© en el retrete y un gran perro saliÃ³ de la alcantarilla. Me dio un susto de muerte.}
 {215}{}{Grisham es buena gente. Nos vende los restos de los animales para alimentar a la gallina gigante.}
-{216}{}{¡Aléjate del gallinero! Casi pierdo un brazo dando de comer a esa cosa.}
-{217}{}{Los perros de Rose son feroces, pero les tiro algo de cecina y dejan de prestarme atención.}
+{216}{}{Â¡AlÃ©jate del gallinero! Casi pierdo un brazo dando de comer a esa cosa.}
+{217}{}{Los perros de Rose son feroces, pero les tiro algo de cecina y dejan de prestarme atenciÃ³n.}
 {218}{}{Farrel es el mejor amigo del mundo entero.}
-{219}{}{Laddie es un perro listo. Hablo con él todo el rato.}
-{220}{}{He oído que Grisham está intentando casar a sus hijos. Me pregunto si a Rose no le importaría que tuviera otra esposa.}
-{222}{}{¿Pog? ¿Qué le pasó a ese juego? Bueno, tengo que irme. Quizás podamos jugar más tarde.}
-{223}{}{¡HE ENCONTRADO AL ASESINO! ¡HA RECONOCIDO QUE HA MATADO A FARREL! ¡ATRAPÉMOSLE!}
-{224}{}{¡HE ENCONTRADO A LA ASESINA! ¡HA RECONOCIDO QUE HA MATADO A FARREL! ¡ATRAPÉMOSLA!}
+{219}{}{Laddie es un perro listo. Hablo con Ã©l todo el rato.}
+{220}{}{He oÃ­do que Grisham estÃ¡ intentando casar a sus hijos. Me pregunto si a Rose no le importarÃ­a que tuviera otra esposa.}
+{222}{}{Â¿Pog? Â¿QuÃ© le pasÃ³ a ese juego? Bueno, tengo que irme. QuizÃ¡s podamos jugar mÃ¡s tarde.}
+{223}{}{Â¡HE ENCONTRADO AL ASESINO! Â¡HA RECONOCIDO QUE HA MATADO A FARREL! Â¡ATRAPÃ‰MOSLE!}
+{224}{}{Â¡HE ENCONTRADO A LA ASESINA! Â¡HA RECONOCIDO QUE HA MATADO A FARREL! Â¡ATRAPÃ‰MOSLA!}
 {225}{}{Yo mato a Farrel.}
-{300}{}{[Hmmm... Ciertas palabras parecen hacerle reaccionar]. Rose... Habitación... Correr...}
+{300}{}{[Hmmm... Ciertas palabras parecen hacerle reaccionar]. Rose... HabitaciÃ³n... Correr...}
 {301}{}{Ooga.}
-{501}{}{¡Siempre supe que eras una ladrona!}
-{502}{}{¡Cómo pudiste hacerle eso a mi mejor amigo!}
-{503}{}{¡Te voy a matar!}
-{504}{}{¡Voy a arrancarte la cabeza y a exponerla como trofeo!}
+{501}{}{Â¡Siempre supe que eras una ladrona!}
+{502}{}{Â¡CÃ³mo pudiste hacerle eso a mi mejor amigo!}
+{503}{}{Â¡Te voy a matar!}
+{504}{}{Â¡Voy a arrancarte la cabeza y a exponerla como trofeo!}
 {550}{}{De momento, parece estar absorto.}
 {600}{}{Le has devuelto el reloj a Cornelius.}
 {650}{}{Has resuelto la disputa entre Cornelius y Farrel.}

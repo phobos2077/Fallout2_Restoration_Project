@@ -1,30 +1,30 @@
 {100}{}{Ves a un esclavo.}
 {101}{}{Usted ve un aspecto saludable esclavo.}
-{320}{}{¡Malo!}
-{321}{}{Nosotros no hablar con tú.}
+{320}{}{Â¡Malo!}
+{321}{}{Nosotros no hablar con tÃº.}
 {322}{}{Nosotros libres.}
 {323}{}{Tu no retener nosotros.}
-{324}{}{¡Esclavista!}
-{325}{}{¿Por qué los esclavistas nos hacéis esto?}
-{326}{}{¿Cómo puedes trabajar para esta gente?}
-{327}{}{¡No somos primitivos!}
-{328}{}{¿Es qué no tienes moral?}
-{329}{}{¿Qué nos va a pasar a nosotros?}
-{330}{}{¿Qué mal hemos hecho?}
-{331}{}{¡Déjanos en paz, esclavista!}
-{332}{}{¡No me hagas daño!}
-{333}{}{¡Aléjate de mi!}
-{350}{}{¿Quién tú?}
-{351}{}{Tú no esclavista.}
-{352}{}{¿Tú no daño?}
-{353}{}{¿Amigo?}
-{354}{}{¿Tú ayuda?}
-{355}{}{¿Qué nos va a pasar a nosotros?}
-{356}{}{¿También te han capturado?}
-{357}{}{¡No somos primitivos!}
-{358}{}{¿Quién se cree esta gente que somos?}
-{359}{}{¡Por favor, ayúdanos!}
-{360}{}{Sácame de aquí.}
-{400}{}{Oh, ¿por qué a mí!}
+{324}{}{Â¡Esclavista!}
+{325}{}{Â¿Por quÃ© los esclavistas nos hacÃ©is esto?}
+{326}{}{Â¿CÃ³mo puedes trabajar para esta gente?}
+{327}{}{Â¡No somos primitivos!}
+{328}{}{Â¿Es quÃ© no tienes moral?}
+{329}{}{Â¿QuÃ© nos va a pasar a nosotros?}
+{330}{}{Â¿QuÃ© mal hemos hecho?}
+{331}{}{Â¡DÃ©janos en paz, esclavista!}
+{332}{}{Â¡No me hagas daÃ±o!}
+{333}{}{Â¡AlÃ©jate de mi!}
+{350}{}{Â¿QuiÃ©n tÃº?}
+{351}{}{TÃº no esclavista.}
+{352}{}{Â¿TÃº no daÃ±o?}
+{353}{}{Â¿Amigo?}
+{354}{}{Â¿TÃº ayuda?}
+{355}{}{Â¿QuÃ© nos va a pasar a nosotros?}
+{356}{}{Â¿TambiÃ©n te han capturado?}
+{357}{}{Â¡No somos primitivos!}
+{358}{}{Â¿QuiÃ©n se cree esta gente que somos?}
+{359}{}{Â¡Por favor, ayÃºdanos!}
+{360}{}{SÃ¡came de aquÃ­.}
+{400}{}{Oh, Â¿por quÃ© a mÃ­!}
 {401}{}{*tos*}
-{402}{}{*los arañazos de auto*}
+{402}{}{*los araÃ±azos de auto*}

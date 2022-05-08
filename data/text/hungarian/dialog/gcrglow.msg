@@ -1,31 +1,31 @@
-{100}{}{Ez az alak enyhén világít. A b?re elég csúnyán megégett.}
-{101}{}{? egy Lámpás, Gekkó polgára.}
-{102}{}{Az illet?t annyi sugárzás érte, hogy halvány derengés látszik körülötte.
- Ennyi sugárzástól rendszerint meghalnak az emberek, de ? mégis él és virul.}
-{110}{}{Ez az irdatlan sugárzás jól jön a biztonsági szolgálatban.}
-{111}{}{Látod, hogy világítok?}
-{112}{}{Reggelente örömmel jövök ide dolgozni.}
-{113}{}{Még több uránra lesz szükségünk.}
+{100}{}{Ez az alak enyhÃ©n vilÃ¡gÃ­t. A b?re elÃ©g csÃºnyÃ¡n megÃ©gett.}
+{101}{}{? egy LÃ¡mpÃ¡s, GekkÃ³ polgÃ¡ra.}
+{102}{}{Az illet?t annyi sugÃ¡rzÃ¡s Ã©rte, hogy halvÃ¡ny derengÃ©s lÃ¡tszik kÃ¶rÃ¼lÃ¶tte.
+ Ennyi sugÃ¡rzÃ¡stÃ³l rendszerint meghalnak az emberek, de ? mÃ©gis Ã©l Ã©s virul.}
+{110}{}{Ez az irdatlan sugÃ¡rzÃ¡s jÃ³l jÃ¶n a biztonsÃ¡gi szolgÃ¡latban.}
+{111}{}{LÃ¡tod, hogy vilÃ¡gÃ­tok?}
+{112}{}{Reggelente Ã¶rÃ¶mmel jÃ¶vÃ¶k ide dolgozni.}
+{113}{}{MÃ©g tÃ¶bb urÃ¡nra lesz szÃ¼ksÃ©gÃ¼nk.}
 {114}{}{Szerintem itt mindenkit atomenergia hajt.}
-{120}{}{Bírom az itteni meleget.}
-{121}{}{Itt lenni csodálatos érzés.}
-{122}{}{Nem tudom, mit csinálnék, ha máshol élnék.}
-{123}{}{Imádom a reggeli sugárzásadagot.}
-{124}{}{Legalább éjszaka nem kell lámpát hordanom.}
-{125}{}{(Feléd nyújtja izzó ujját) Hazatelefonálok.}
-{126}{}{Ha az ajtókat lezárod, megsz?nik a derengés.}
-{127}{}{Ez olyan hely, ahova szívesen tartozom.}
-{128}{}{Nem igazán hiszem, hogy a menedékvárosiak lerombolnák az otthonomat.}
-{129}{}{Reaktorom, édes reaktorom.}
-{130}{}{Szerénység mindenek fölött.}
-{131}{}{Nukleáris f?tés... ez nagyon bejön.}
-{140}{}{Köszönjük, hogy rendbe raktad a reaktort. Kicsit h?vösebb lett, de ki lehet bírni.}
-{141}{}{Brrr... kösz, hogy megreparáltad a reaktort.}
-{142}{}{Bárcsak én szerezhettem volna meg azt az alkatrészt.}
-{143}{}{Kösz a segítséget.}
-{144}{}{A menedékvárosiak talán nem is olyan rossz emberek.}
-{150}{}{Idejét sem tudom, mikor m?ködött ilyen jól a reaktor.}
-{151}{}{Mostanában elég h?vös van itt.}
+{120}{}{BÃ­rom az itteni meleget.}
+{121}{}{Itt lenni csodÃ¡latos Ã©rzÃ©s.}
+{122}{}{Nem tudom, mit csinÃ¡lnÃ©k, ha mÃ¡shol Ã©lnÃ©k.}
+{123}{}{ImÃ¡dom a reggeli sugÃ¡rzÃ¡sadagot.}
+{124}{}{LegalÃ¡bb Ã©jszaka nem kell lÃ¡mpÃ¡t hordanom.}
+{125}{}{(FelÃ©d nyÃºjtja izzÃ³ ujjÃ¡t) HazatelefonÃ¡lok.}
+{126}{}{Ha az ajtÃ³kat lezÃ¡rod, megsz?nik a derengÃ©s.}
+{127}{}{Ez olyan hely, ahova szÃ­vesen tartozom.}
+{128}{}{Nem igazÃ¡n hiszem, hogy a menedÃ©kvÃ¡rosiak lerombolnÃ¡k az otthonomat.}
+{129}{}{Reaktorom, Ã©des reaktorom.}
+{130}{}{SzerÃ©nysÃ©g mindenek fÃ¶lÃ¶tt.}
+{131}{}{NukleÃ¡ris f?tÃ©s... ez nagyon bejÃ¶n.}
+{140}{}{KÃ¶szÃ¶njÃ¼k, hogy rendbe raktad a reaktort. Kicsit h?vÃ¶sebb lett, de ki lehet bÃ­rni.}
+{141}{}{Brrr... kÃ¶sz, hogy megreparÃ¡ltad a reaktort.}
+{142}{}{BÃ¡rcsak Ã©n szerezhettem volna meg azt az alkatrÃ©szt.}
+{143}{}{KÃ¶sz a segÃ­tsÃ©get.}
+{144}{}{A menedÃ©kvÃ¡rosiak talÃ¡n nem is olyan rossz emberek.}
+{150}{}{IdejÃ©t sem tudom, mikor m?kÃ¶dÃ¶tt ilyen jÃ³l a reaktor.}
+{151}{}{MostanÃ¡ban elÃ©g h?vÃ¶s van itt.}
 {152}{}{Brrrr, Megfagyok...}
 {153}{}{Szerintem lefagytak az ujjaim vagy ilyesmi.}
-{154}{}{Nem fázol?}
+{154}{}{Nem fÃ¡zol?}

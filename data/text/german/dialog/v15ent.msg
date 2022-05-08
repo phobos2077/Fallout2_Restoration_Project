@@ -1,1 +1,1 @@
-{100}{}{Heruntergekommene Zelte und Hütten bedecken den bewaldeten Hügel. Die mageren Leute sehen ziemlich wachsam aus.}
+{100}{}{Heruntergekommene Zelte und HÃ¼tten bedecken den bewaldeten HÃ¼gel. Die mageren Leute sehen ziemlich wachsam aus.}

@@ -1,30 +1,30 @@
-{100}{}{Widzisz osobê w œmiesznej pi¿amie. Wygl¹da na zajêtego.}
-{101}{}{Widzisz technika okrêtowego Shi.}
-{150}{}{Uch, co robisz, ¿e tak siê skradasz?}
-{151}{}{Jesteœ szpiegiem, czy coœ?}
+{100}{}{Widzisz osobÄ™ w Å›miesznej piÅ¼amie. WyglÄ…da na zajÄ™tego.}
+{101}{}{Widzisz technika okrÄ™towego Shi.}
+{150}{}{Uch, co robisz, Å¼e tak siÄ™ skradasz?}
+{151}{}{JesteÅ› szpiegiem, czy coÅ›?}
 {200}{}{Ale syf, patrz ile rdzy!}
-{201}{}{Nie rozumiem po co musimy trzymaæ to na chodzie.}
-{202}{}{Te torpedy w koñcu spowoduj¹ wypadek.}
-{300}{}{Nie przypominam sobie ¿ebym ciê tu kiedykolwiek widzia³, co ty robisz w przedziale torped? I kim ty w ogóle jesteœ?}
-{301}{}{Znowu ty? Co ty ci¹gle robisz w przedziale torped? I kim ty w ogóle jesteœ?}
-{302}{}{Do³¹czyli mnie w ostatniej chwili do waszego zespo³u technicznego. Przepraszam, ¿e tak bez uprzedzenia. A jestem tu ¿eby zrobiæ przegl¹d i konserwacjê torped. Wygl¹daj¹ nienajlepiej, a¿ prosz¹ siê o wypadek!}
-{303}{}{Niedawno mnie do³¹czyli do waszego zespo³u. Powiedziano mi ¿eby zaj¹æ siê systemami namierzania torped, bo ostatnio szwankuj¹. Myœlê, ¿e mo¿e to mieæ zwi¹zek z pewnymi nie naprawialnymi wadami projektowymi p³yt g³ównych Sungsam.}
-{304}{}{Jestem mechanikiem, œwie¿o dodanym do waszego zespo³u. Mam robiæ okresowe przegl¹dy torped, bo wygl¹daj¹ jak gówno! Popatrz ile rdzy! A te turbiny wygl¹daj¹ jakby mia³y zaraz odpaœæ!}
-{305}{}{Przepraszam, nie ten przedzia³.}
-{310}{}{Och, dobrze mieæ wreszcie wykwalifikowanego mechanika na pok³adzie. Ja mia³em to naprawiæ, ale nie mogê pokonaæ mojego strachu przed tymi torpedami. Wesz, ¿e jest w nich wystarczaj¹co materia³ów wybuchowych ¿eby rozerwaæ ca³y ten statek na drobne kawa³ki?}
-{311}{}{Bêdê dzia³aæ bardzo ostro¿nie, obiecujê.}
-{320}{}{Wreszcie przys³ali mechanika, po tylu tygodniach b³agania ich o to...}
-{330}{}{Uch, nie wygl¹dasz na mechanika. W³aœciwie s¹dzê, ¿e nie odró¿niasz klucza od œrubokrêta nawet jak masz je przed oczami, wiêc mo¿e wróæ i pomó¿ reszcie ch³opaków, zamiast siê krêciæ w przedziale torped? Nie chcê ¿ebyœmy przypadkiem wylecieli w powietrze.}
-{331}{}{Dobra. Idê.}
-{340}{}{To fajnie, ale, yyy, czemu szukasz konsoli w przedziale torped? Jest w pokoju za tob¹. Potrzebuje mechanika, a nie kolejnego technika, wiêc o ile nie jesteœ te¿ utalentowanym technikiem, to lepiej wyjdŸ.}
-{341}{}{W³aœciwe, to tak, jestem te¿ technikiem, ze sporym doœwiadczeniem w obchodzeniu siê ze staro¿ytn¹ technologi¹. Myœlê, ¿e dam sobie radê z tymi torpedami. Doprowadzê do porz¹dku turbiny i zadbam ¿eby nie zamieni³y nas w drobny z³om.}
-{342}{}{Dobra. Idê.}
-{350}{}{Och, na pustkowiu ma³o jest specjalistów w obu dziedzinach. Chyba mogê ci zaufaæ, wiêc proszê bardzo, bie¿ siê do roboty i napraw te torpedy ¿ebym móg³ wreszcie poczuæ siê bezpieczniej.}
+{201}{}{Nie rozumiem po co musimy trzymaÄ‡ to na chodzie.}
+{202}{}{Te torpedy w koÅ„cu spowodujÄ… wypadek.}
+{300}{}{Nie przypominam sobie Å¼ebym ciÄ™ tu kiedykolwiek widziaÅ‚, co ty robisz w przedziale torped? I kim ty w ogÃ³le jesteÅ›?}
+{301}{}{Znowu ty? Co ty ciÄ…gle robisz w przedziale torped? I kim ty w ogÃ³le jesteÅ›?}
+{302}{}{DoÅ‚Ä…czyli mnie w ostatniej chwili do waszego zespoÅ‚u technicznego. Przepraszam, Å¼e tak bez uprzedzenia. A jestem tu Å¼eby zrobiÄ‡ przeglÄ…d i konserwacjÄ™ torped. WyglÄ…dajÄ… nienajlepiej, aÅ¼ proszÄ… siÄ™ o wypadek!}
+{303}{}{Niedawno mnie doÅ‚Ä…czyli do waszego zespoÅ‚u. Powiedziano mi Å¼eby zajÄ…Ä‡ siÄ™ systemami namierzania torped, bo ostatnio szwankujÄ…. MyÅ›lÄ™, Å¼e moÅ¼e to mieÄ‡ zwiÄ…zek z pewnymi nie naprawialnymi wadami projektowymi pÅ‚yt gÅ‚Ã³wnych Sungsam.}
+{304}{}{Jestem mechanikiem, Å›wieÅ¼o dodanym do waszego zespoÅ‚u. Mam robiÄ‡ okresowe przeglÄ…dy torped, bo wyglÄ…dajÄ… jak gÃ³wno! Popatrz ile rdzy! A te turbiny wyglÄ…dajÄ… jakby miaÅ‚y zaraz odpaÅ›Ä‡!}
+{305}{}{Przepraszam, nie ten przedziaÅ‚.}
+{310}{}{Och, dobrze mieÄ‡ wreszcie wykwalifikowanego mechanika na pokÅ‚adzie. Ja miaÅ‚em to naprawiÄ‡, ale nie mogÄ™ pokonaÄ‡ mojego strachu przed tymi torpedami. Wesz, Å¼e jest w nich wystarczajÄ…co materiaÅ‚Ã³w wybuchowych Å¼eby rozerwaÄ‡ caÅ‚y ten statek na drobne kawaÅ‚ki?}
+{311}{}{BÄ™dÄ™ dziaÅ‚aÄ‡ bardzo ostroÅ¼nie, obiecujÄ™.}
+{320}{}{Wreszcie przysÅ‚ali mechanika, po tylu tygodniach bÅ‚agania ich o to...}
+{330}{}{Uch, nie wyglÄ…dasz na mechanika. WÅ‚aÅ›ciwie sÄ…dzÄ™, Å¼e nie odrÃ³Å¼niasz klucza od Å›rubokrÄ™ta nawet jak masz je przed oczami, wiÄ™c moÅ¼e wrÃ³Ä‡ i pomÃ³Å¼ reszcie chÅ‚opakÃ³w, zamiast siÄ™ krÄ™ciÄ‡ w przedziale torped? Nie chcÄ™ Å¼ebyÅ›my przypadkiem wylecieli w powietrze.}
+{331}{}{Dobra. IdÄ™.}
+{340}{}{To fajnie, ale, yyy, czemu szukasz konsoli w przedziale torped? Jest w pokoju za tobÄ…. Potrzebuje mechanika, a nie kolejnego technika, wiÄ™c o ile nie jesteÅ› teÅ¼ utalentowanym technikiem, to lepiej wyjdÅº.}
+{341}{}{WÅ‚aÅ›ciwe, to tak, jestem teÅ¼ technikiem, ze sporym doÅ›wiadczeniem w obchodzeniu siÄ™ ze staroÅ¼ytnÄ… technologiÄ…. MyÅ›lÄ™, Å¼e dam sobie radÄ™ z tymi torpedami. DoprowadzÄ™ do porzÄ…dku turbiny i zadbam Å¼eby nie zamieniÅ‚y nas w drobny zÅ‚om.}
+{342}{}{Dobra. IdÄ™.}
+{350}{}{Och, na pustkowiu maÅ‚o jest specjalistÃ³w w obu dziedzinach. Chyba mogÄ™ ci zaufaÄ‡, wiÄ™c proszÄ™ bardzo, bieÅ¼ siÄ™ do roboty i napraw te torpedy Å¼ebym mÃ³gÅ‚ wreszcie poczuÄ‡ siÄ™ bezpieczniej.}
 {351}{}{Dobra.}
-{360}{}{Hej, jestem zajêty.}
-{361}{}{Przepraszam, pracujê.}
+{360}{}{Hej, jestem zajÄ™ty.}
+{361}{}{Przepraszam, pracujÄ™.}
 {370}{}{Nie dotykaj tego!}
-{371}{}{Co ci powiedzia³em?!}
-{372}{}{Ostrzega³em ciê!}
-{375}{}{Co ty do diab³a robisz! Stra¿!}
-{380}{}{Przestañ marnowaæ czas i bie¿ siê do roboty.}
+{371}{}{Co ci powiedziaÅ‚em?!}
+{372}{}{OstrzegaÅ‚em ciÄ™!}
+{375}{}{Co ty do diabÅ‚a robisz! StraÅ¼!}
+{380}{}{PrzestaÅ„ marnowaÄ‡ czas i bieÅ¼ siÄ™ do roboty.}

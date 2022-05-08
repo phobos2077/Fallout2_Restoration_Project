@@ -1,6 +1,6 @@
 {100}{}{Tu vois un hubologiste.}
-{101}{}{Penses-tu pouvoir échapper à l'oeil courroucé du Centre ?}
-{102}{}{Vous n'êtes que de la chair à pâté, des recrues. Priez pour ne pas devenir des ennemis !}
-{103}{}{Tu aimerais peut-être te joindre aux Hubologistes ?}
-{104}{}{Marche avec précaution ici. On a des Shis en ville. N'abîme rien dans notre ville.}
-{105}{}{Tu auras peut-être le droit de jeter un coup d'oeil à notre projet.}
+{101}{}{Penses-tu pouvoir Ã©chapper Ã  l'oeil courroucÃ© du Centre ?}
+{102}{}{Vous n'Ãªtes que de la chair Ã  pÃ¢tÃ©, des recrues. Priez pour ne pas devenir des ennemis !}
+{103}{}{Tu aimerais peut-Ãªtre te joindre aux Hubologistes ?}
+{104}{}{Marche avec prÃ©caution ici. On a des Shis en ville. N'abÃ®me rien dans notre ville.}
+{105}{}{Tu auras peut-Ãªtre le droit de jeter un coup d'oeil Ã  notre projet.}

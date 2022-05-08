@@ -1,4 +1,4 @@
-{100}{}{Ves a un rufián intimidante.}
+{100}{}{Ves a un rufiÃ¡n intimidante.}
 {101}{}{Ves a un guardia de La Guarida.}
 {102}{}{Ahora no, estoy de servicio.}
 {103}{}{No puedo hablar contigo.}
@@ -6,7 +6,7 @@
 {105}{}{No me molestes.}
 {106}{}{Ve a ver a mi jefe.}
 {107}{}{No me permiten responder a tus preguntas.}
-{108}{}{Deberías dejar de molestarme.}
-{109}{}{Yo sólo trabajo aquí.}
-{110}{}{No sé nada.}
-{111}{}{Sólo hablo con mi jefe.}
+{108}{}{DeberÃ­as dejar de molestarme.}
+{109}{}{Yo sÃ³lo trabajo aquÃ­.}
+{110}{}{No sÃ© nada.}
+{111}{}{SÃ³lo hablo con mi jefe.}

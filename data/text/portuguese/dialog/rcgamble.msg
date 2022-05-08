@@ -1,4 +1,4 @@
-{100}{}{Você vê um jogador.}
+{100}{}{VocÃª vÃª um jogador.}
 {101}{}{You see a gambler hoping to make some money.}
 {102}{}{You see a nervously excited person gambling.}
 {103}{}{Come on, baby needs new shoes.}
@@ -29,7 +29,7 @@
 {128}{}{I just need a little more credit.}
 {129}{}{My luck's about to change; I can feel it.}
 {130}{}{Where's my lucky gecko-foot when I need it?}
-{131}{}{O que você quer?}
+{131}{}{O que vocÃª quer?}
 {132}{}{Back off, bub.}
 {133}{}{Hey, don't jinx me.}
 {134}{}{Are you giving me the evil eye?}

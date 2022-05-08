@@ -1,62 +1,62 @@
-{100}{}{Ves a un monje informático.}
+{100}{}{Ves a un monje informÃ¡tico.}
 {101}{}{Ves al Hermano Paul.}
 {102}{}{Este monje parece un friki de las computadoras.}
-{200}{}{¡Hola!}
+{200}{}{Â¡Hola!}
 {201}{}{Hola.}
 {202}{}{Ahora, hice una copia de seguridad de esos archivos de computadora hoy ...}
 {203}{}{Lo siento, pero no tengo tiempo para alguien de tu inteligencia.}
-{300}{}{¿Sí?}
-{301}{}{Ustedes tienen un montón de computadoras aquí.}
-{302}{}{¿Qué puedes contarme acerca de la Abadía?}
-{303}{}{Háblame de tu líder.}
-{304}{}{¿Tienes alguna información de un GECK?}
-{305}{}{¿Sabes dónde puedo encontrar el Refugio 13?}
-{306}{}{Adiós.}
-{307}{}{Necesito alguna información específica.}
-{308}{}{¿Como cuales?}
-{400}{}{Sí tenemos. Demasiados, en mi opinión. No puedo expresarte el tedio de tener que respaldar todos estos archivos todos los días. Hay tanta información para preservar, pero, por supuesto, debe hacerse.}
+{300}{}{Â¿SÃ­?}
+{301}{}{Ustedes tienen un montÃ³n de computadoras aquÃ­.}
+{302}{}{Â¿QuÃ© puedes contarme acerca de la AbadÃ­a?}
+{303}{}{HÃ¡blame de tu lÃ­der.}
+{304}{}{Â¿Tienes alguna informaciÃ³n de un GECK?}
+{305}{}{Â¿Sabes dÃ³nde puedo encontrar el Refugio 13?}
+{306}{}{AdiÃ³s.}
+{307}{}{Necesito alguna informaciÃ³n especÃ­fica.}
+{308}{}{Â¿Como cuales?}
+{400}{}{SÃ­ tenemos. Demasiados, en mi opiniÃ³n. No puedo expresarte el tedio de tener que respaldar todos estos archivos todos los dÃ­as. Hay tanta informaciÃ³n para preservar, pero, por supuesto, debe hacerse.}
 {401}{}{Por supuesto. De todos modos, tengo algunas otras preguntas.}
 {402}{}{Somos una comunidad independiente. Cualquiera es bienvenido siempre que se comporten.}
 {403}{}{Vale.}
-{404}{}{El Abad es un buen líder espiritual, pero ha estado un poco irritable desde que perdimos al Hermano Thomas por la bestia.}
-{405}{}{¿Qué tipo de bestia?}
-{406}{}{No lo he visto, personalmente, no hay nada en el mundo que pueda hacer que vaya allí y explore esas cavernas, pero si tuviera que adivinar, diría que probablemente sea solo un escorpión rad demasiado grande.}
-{407}{}{Si tú no lo has visto, ¿por que crees que es un escorpione rad?}
+{404}{}{El Abad es un buen lÃ­der espiritual, pero ha estado un poco irritable desde que perdimos al Hermano Thomas por la bestia.}
+{405}{}{Â¿QuÃ© tipo de bestia?}
+{406}{}{No lo he visto, personalmente, no hay nada en el mundo que pueda hacer que vaya allÃ­ y explore esas cavernas, pero si tuviera que adivinar, dirÃ­a que probablemente sea solo un escorpiÃ³n rad demasiado grande.}
+{407}{}{Si tÃº no lo has visto, Â¿por que crees que es un escorpione rad?}
 {408}{}{Porque he escuchado sonidos que resuenan desde las cuevas: los sonidos de las garras y las patas que se deslizan.}
 {409}{}{Eso es.}
-{410}{}{De hecho, lo hacemos. Echa un vistazo en esa computadora de allí. Aquí puede usar esta tarjeta para acceder a nuestros archivos encriptados. [Él te entrega una tarjeta de acceso.]}
-{411}{}{Caray, ¡muchas gracias!}
-{412}{}{No sé nada sobre El Refugio 13, pero está Ciudad Refugio hacia el sur. Tal vez ellos tienen la información que necesitas.}
+{410}{}{De hecho, lo hacemos. Echa un vistazo en esa computadora de allÃ­. AquÃ­ puede usar esta tarjeta para acceder a nuestros archivos encriptados. [Ã‰l te entrega una tarjeta de acceso.]}
+{411}{}{Caray, Â¡muchas gracias!}
+{412}{}{No sÃ© nada sobre El Refugio 13, pero estÃ¡ Ciudad Refugio hacia el sur. Tal vez ellos tienen la informaciÃ³n que necesitas.}
 {413}{}{Gracias.}
-{414}{}{La computadora que está cerca de mí debería tener la información que buscas, pero necesitarías una tarjeta de acceso para usarla. Somos muy selectivos con a quién le damos acceso, pero si habla con el Abad, tal vez le otorgue permiso.}
+{414}{}{La computadora que estÃ¡ cerca de mÃ­ deberÃ­a tener la informaciÃ³n que buscas, pero necesitarÃ­as una tarjeta de acceso para usarla. Somos muy selectivos con a quiÃ©n le damos acceso, pero si habla con el Abad, tal vez le otorgue permiso.}
 {415}{}{De acuerdo, gracias.}
-{420}{}{Supongo que has leído muchos libros en tu tiempo. Entonces, tengo curiosidad, ¿qué es lo más fascinante que podrías decirme?}
-{421}{}{Hmm, veamos. ¿Sabía que una muesca en un árbol permanecerá a la misma distancia del suelo mientras el árbol crece?}
-{422}{}{Claro. Si me encuentro con algo así, te lo haré saber.}
+{420}{}{Supongo que has leÃ­do muchos libros en tu tiempo. Entonces, tengo curiosidad, Â¿quÃ© es lo mÃ¡s fascinante que podrÃ­as decirme?}
+{421}{}{Hmm, veamos. Â¿SabÃ­a que una muesca en un Ã¡rbol permanecerÃ¡ a la misma distancia del suelo mientras el Ã¡rbol crece?}
+{422}{}{Claro. Si me encuentro con algo asÃ­, te lo harÃ© saber.}
 {423}{}{Vale... Bueno, tengo algunas otras preguntas.}
-{424}{}{¿Lo harías? Te lo agradecería.}
+{424}{}{Â¿Lo harÃ­as? Te lo agradecerÃ­a.}
 {425}{}{No hay problema. Tengo algunas otras preguntas.}
 {426}{}{Cualquier momento. Bueno, ya nos veremos.}
-{430}{}{Ha encontrado información sobra botánica que puede interesarte.}
-{431}{}{¡¿De Verdad?! Eso es genial. Por favor, dígaselo de inmediato.}
-{432}{}{¡Fascinante! Tomaré este holodisco y lo agregaré a la base de datos de la computadora de inmediato. Aprecio que se tomara el tiempo para encontrar esto para mí. Gracias por recoger esto por mí.}
-{433}{}{Bueno, ya ves ... Comprender la destrucción del hábitat y la extinción de las especies depende de un catálogo preciso y completo de la taxonomía y la sistemática de las plantas. Y luego esto significa que ...}
+{430}{}{Ha encontrado informaciÃ³n sobra botÃ¡nica que puede interesarte.}
+{431}{}{Â¡Â¿De Verdad?! Eso es genial. Por favor, dÃ­gaselo de inmediato.}
+{432}{}{Â¡Fascinante! TomarÃ© este holodisco y lo agregarÃ© a la base de datos de la computadora de inmediato. Aprecio que se tomara el tiempo para encontrar esto para mÃ­. Gracias por recoger esto por mÃ­.}
+{433}{}{Bueno, ya ves ... Comprender la destrucciÃ³n del hÃ¡bitat y la extinciÃ³n de las especies depende de un catÃ¡logo preciso y completo de la taxonomÃ­a y la sistemÃ¡tica de las plantas. Y luego esto significa que ...}
 {434}{}{Cualquier momento. Aunque tengo algunas otras preguntas.}
 {435}{}{Sin problema. Nos vemos.}
-{436}{}{¡Fascinante! Aprecio que se tome el tiempo para encontrar esto para mí. Por favor, vaya y suba esta información a nuestras computadoras.}
-{437}{}{Sin problemas, lo haré ahora. Nos vemos.}
-{500}{}{¡Deja de hacer eso, imbécil!}
-{550}{}{Esa computadora cerca de mí debería tener algo de información al respecto. Ahora tiene acceso, así que échele un vistazo.}
-{600}{}{El Abad me dio permiso para acceder a las computadoras aquí.}
-{601}{}{Ah sí, me enteré de lo que hiciste. Gracias por ocuparte de esa situación. Aquí está la clave de acceso. (Él te entrega la llave). ¡Disfrútala!}
+{436}{}{Â¡Fascinante! Aprecio que se tome el tiempo para encontrar esto para mÃ­. Por favor, vaya y suba esta informaciÃ³n a nuestras computadoras.}
+{437}{}{Sin problemas, lo harÃ© ahora. Nos vemos.}
+{500}{}{Â¡Deja de hacer eso, imbÃ©cil!}
+{550}{}{Esa computadora cerca de mÃ­ deberÃ­a tener algo de informaciÃ³n al respecto. Ahora tiene acceso, asÃ­ que Ã©chele un vistazo.}
+{600}{}{El Abad me dio permiso para acceder a las computadoras aquÃ­.}
+{601}{}{Ah sÃ­, me enterÃ© de lo que hiciste. Gracias por ocuparte de esa situaciÃ³n. AquÃ­ estÃ¡ la clave de acceso. (Ã‰l te entrega la llave). Â¡DisfrÃºtala!}
 {602}{}{Gracias. Hasta otra.}
-{650}{}{¡Saludos, viajero! Soy el Hermano Paul y estoy a cargo de la recopilación de información para la Abadía. ¿Qué puedo hacer por ti?}
+{650}{}{Â¡Saludos, viajero! Soy el Hermano Paul y estoy a cargo de la recopilaciÃ³n de informaciÃ³n para la AbadÃ­a. Â¿QuÃ© puedo hacer por ti?}
 {651}{}{Encantado de conocerte, Paul. Tengo algunas preguntas.}
 {652}{}{Nada. Ya nos veremos.}
-{4210}{}{Uh, no, no puedo decir que lo sabía. Eso es... interesante.}
-{4211}{}{¿Y sabías que un pepino tiene 96% de agua?}
-{4212}{}{Wow, 96%, ¿eh? Fascinante. Pero, um, ¿qué es un pepino?}
-{4213}{}{Nunca he visto uno, pero he leído sobre ellos. [Mira a su alrededor con nerviosismo y baja la voz.] Sé que se supone que no debemos estudiar estos libros, pero cuando estaba transcribiendo un libro sobre botánica, no pude evitar ser absorbido por ello. El mundo de las plantas es simplemente cautivador. Quizás, si, durante sus viajes, se encuentra con alguna información botánica, ¿podría traermela? Estaría muy agradecido. Por supuesto, tendría que ser nuestro secreto.}
-{4220}{}{No creo que quiero contribuir a tu obsesión de las plantas. Lo siento.}
-{4221}{}{Oh, bueno, entonces. Bien, olvídalo.}
-{4222}{}{Déjame hacerte otra pregunta.}
+{4210}{}{Uh, no, no puedo decir que lo sabÃ­a. Eso es... interesante.}
+{4211}{}{Â¿Y sabÃ­as que un pepino tiene 96% de agua?}
+{4212}{}{Wow, 96%, Â¿eh? Fascinante. Pero, um, Â¿quÃ© es un pepino?}
+{4213}{}{Nunca he visto uno, pero he leÃ­do sobre ellos. [Mira a su alrededor con nerviosismo y baja la voz.] SÃ© que se supone que no debemos estudiar estos libros, pero cuando estaba transcribiendo un libro sobre botÃ¡nica, no pude evitar ser absorbido por ello. El mundo de las plantas es simplemente cautivador. QuizÃ¡s, si, durante sus viajes, se encuentra con alguna informaciÃ³n botÃ¡nica, Â¿podrÃ­a traermela? EstarÃ­a muy agradecido. Por supuesto, tendrÃ­a que ser nuestro secreto.}
+{4220}{}{No creo que quiero contribuir a tu obsesiÃ³n de las plantas. Lo siento.}
+{4221}{}{Oh, bueno, entonces. Bien, olvÃ­dalo.}
+{4222}{}{DÃ©jame hacerte otra pregunta.}

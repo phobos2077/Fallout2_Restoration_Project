@@ -4,14 +4,14 @@
 {152}{}{You see Lil' Jesus Mordino. He is dressed mostly in black leather and playing with one of his knives.}
 {200}{}{E ae! }
 {201}{}{Do caralho, }
-{202}{}{::Faz o sinal de positivo pra vocÍ::}
+{202}{}{::Faz o sinal de positivo pra voc√™::}
 {203}{}{::Assobios::}
-{220}{}{Como vocÍ mija com um coisa dessas?}
+{220}{}{Como voc√™ mija com um coisa dessas?}
 {230}{}{Bela arma, }
-{240}{}{Pra quÍ est· se escondendo, hein, }
+{240}{}{Pra qu√™ est√° se escondendo, hein, }
 {250}{}{Wazzup, }
 {251}{}{Heeey... }
-{252}{}{Meeer-da, est· quente.}
+{252}{}{Meeer-da, est√° quente.}
 {253}{}{Heeey! Whacha been up to, }
 {254}{}{Good to see you, }
 {255}{}{Hey! Come and check out my new knife, }
@@ -19,71 +19,71 @@
 {257}{}{We goin' out tonight, }
 {258}{}{My knife needs some Bishop blood...}
 {259}{}{Gonna carve up so many Salvatores they'll call me the "butcher"...}
-{270}{}{Ei! CabrÛn! Est·s procurando pelo anjo da morte? Cai fora!}
+{270}{}{Ei! Cabr√≥n! Est√°s procurando pelo anjo da morte? Cai fora!}
 {271}{}{You got some cojones coming in here, }
-{272}{}{Hijo de una putaÖ}
+{272}{}{Hijo de una puta‚Ä¶}
 {273}{}{You }
 {274}{}{If you're still here when I finish my drink, I'm gonna carve my name on your face.}
 {275}{}{::Starts playing with his knife threateningly.::}
 {276}{}{Lookin for your hermana, }
-{277}{}{Mas que po... VocÍ! VocÍ, o que est· fazendo aqui?}
-{278}{}{Ei! Puta! Est·s procurando pelo anjo da morte? Cai fora!}
+{277}{}{Mas que po... Voc√™! Voc√™, o que est√° fazendo aqui?}
+{278}{}{Ei! Puta! Est√°s procurando pelo anjo da morte? Cai fora!}
 {279}{}{Thought they kept you locked up in the kennel, puta.}
 {280}{}{If you ain't here to kiss my ass, }
-{281}{}{Hija de una putaÖ}
+{281}{}{Hija de una puta‚Ä¶}
 {300}{}{Yo! Hombre, you can't be carrying that around in here.}
 {301}{}{Ei! Amigo, guarde essa coisa antes que as pessoas comecem a ficar nervosas.}
-{310}{}{Ei! Chica, vocÍ n„o pode andar aqui carregando essa coisa.}
+{310}{}{Ei! Chica, voc√™ n√£o pode andar aqui carregando essa coisa.}
 {311}{}{Ei! Chica, guarde essa coisa antes que as pessoas comecem a ficar nervosas.}
-{320}{}{Por que diabos vocÍ est· se escondendo, }
+{320}{}{Por que diabos voc√™ est√° se escondendo, }
 {330}{}{Por que se esconde, chica? Com esse gancho direito que tem, deveria andar com orgulho.}
-{340}{}{Onde vocÍ aprendeu a lutar, }
-{341}{}{VocÍ tem os cojones de um Mordino.}
-{342}{}{A ˙ltima luta foi Èpica, hombre.}
-{343}{}{Voa como uma borboleta, pica como uma abelha. Esse È vocÍ, }
-{344}{}{'CÍ sabe, os Mordinos fariam bom uso de seus m˙sculos, }
+{340}{}{Onde voc√™ aprendeu a lutar, }
+{341}{}{Voc√™ tem os cojones de um Mordino.}
+{342}{}{A √∫ltima luta foi √©pica, hombre.}
+{343}{}{Voa como uma borboleta, pica como uma abelha. Esse √© voc√™, }
+{344}{}{'C√™ sabe, os Mordinos fariam bom uso de seus m√∫sculos, }
 {345}{}{Bet on you, best money I ever placed. You were throwing hooks like nobody's business.}
-{346}{}{Vi vocÍ lutar no ringue.}
-{347}{}{Quanto vocÍ tem de envergadura, }
-{348}{}{Qual foi sua estratÈgia, hein?}
+{346}{}{Vi voc√™ lutar no ringue.}
+{347}{}{Quanto voc√™ tem de envergadura, }
+{348}{}{Qual foi sua estrat√©gia, hein?}
 {349}{}{Cuidado com o Masticator. Ele gosta de comer orelhas.}
-{350}{}{Eu te pagaria uma bebida se n„o tivesse perdido todo meu dinheiro apostando no seu oponente.}
-{351}{}{De onde vocÍ È, pra lutar assim? VocÍ È bom. Digo, BOM.}
-{352}{}{Onde aprendeu a lutar assim, chica? VocÍ È violenta.}
+{350}{}{Eu te pagaria uma bebida se n√£o tivesse perdido todo meu dinheiro apostando no seu oponente.}
+{351}{}{De onde voc√™ √©, pra lutar assim? Voc√™ √© bom. Digo, BOM.}
+{352}{}{Onde aprendeu a lutar assim, chica? Voc√™ √© violenta.}
 {353}{}{Last fight was something out of a fucking epic, chica.}
-{354}{}{Qual foi sua estratÈgia, hein? Precisa de um ajudante?}
+{354}{}{Qual foi sua estrat√©gia, hein? Precisa de um ajudante?}
 {370}{}{Hey, hey, hey! Chica, you need to me to put that weapon away for you?}
-{371}{}{O quÍ, vocÍ quer eu te reviste toda? Vamos l·, abaixe esse ferro antes que eu fique bravo.}
+{371}{}{O qu√™, voc√™ quer eu te reviste toda? Vamos l√°, abaixe esse ferro antes que eu fique bravo.}
 {390}{}{No way you're sneaking by Lil' Jesus with a bod like that, chica.}
 {400}{}{Your film wasn't bad, but you obviously need a few pointers from me. ::Laughs::}
 {401}{}{Ei, }
-{402}{}{Estou pronto, preparado, coloque-me num filme, certo? Falamos no escritÛrio, }
-{403}{}{Eu sou o maior amante Latino. N„o h· amante Latino como eu.}
+{402}{}{Estou pronto, preparado, coloque-me num filme, certo? Falamos no escrit√≥rio, }
+{403}{}{Eu sou o maior amante Latino. N√£o h√° amante Latino como eu.}
 {404}{}{Fale de mim para os Brothers, }
 {405}{}{Give a good word to the brothers for me, alright?}
-{406}{}{VocÍ est· fazendo a coisa certa, lidando com os Mordinos.}
+{406}{}{Voc√™ est√° fazendo a coisa certa, lidando com os Mordinos.}
 {407}{}{Need some drugs? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
-{408}{}{E ent„o, que tal um filme nosso? Eu te trato bem, chica. Eu te mostro o que um amante Latino sabe fazer.}
-{409}{}{Por que n„o passa aqui depois do trabalho?}
-{410}{}{VocÍ tem amigos?}
+{408}{}{E ent√£o, que tal um filme nosso? Eu te trato bem, chica. Eu te mostro o que um amante Latino sabe fazer.}
+{409}{}{Por que n√£o passa aqui depois do trabalho?}
+{410}{}{Voc√™ tem amigos?}
 {411}{}{Precisa de Jet? Eu posso te arrumar, chica.}
-{412}{}{Chica, n„o h· nada que eu n„o faria por vocÍ... vamos l·, me dÍ um beijinho.}
-{425}{}{N„o ande com ferro por aqui, chapa. Guarde isso.}
-{435}{}{N„o fique se escondendo por aÌ, escravagista. VocÍ est· entre amigos.}
-{445}{}{Ei! …s burro ou o quÍ? Guarde essa coisa antes que yo tenha que te machucar.}
-{446}{}{Est·s procurando um caix„o? Guarde essa coisa.}
-{447}{}{Ei, chica! …s burra ou o quÍ? Guarde essa coisa antes que yo tenha que te machucar.}
-{455}{}{Por que diabos est· se escondendo? Que levar um tiro?}
-{460}{}{Por que est· se escondendo, chica? Que levar um tiro?}
+{412}{}{Chica, n√£o h√° nada que eu n√£o faria por voc√™... vamos l√°, me d√™ um beijinho.}
+{425}{}{N√£o ande com ferro por aqui, chapa. Guarde isso.}
+{435}{}{N√£o fique se escondendo por a√≠, escravagista. Voc√™ est√° entre amigos.}
+{445}{}{Ei! √âs burro ou o qu√™? Guarde essa coisa antes que yo tenha que te machucar.}
+{446}{}{Est√°s procurando um caix√£o? Guarde essa coisa.}
+{447}{}{Ei, chica! √âs burra ou o qu√™? Guarde essa coisa antes que yo tenha que te machucar.}
+{455}{}{Por que diabos est√° se escondendo? Que levar um tiro?}
+{460}{}{Por que est√° se escondendo, chica? Que levar um tiro?}
 {465}{}{Tire essa lixeira rolante daqui.}
-{466}{}{RobÙs n„o s„o permitidos aqui. Caia fora.}
-{467}{}{Esse robÙ vai virar sucata se ficar aqui.}
+{466}{}{Rob√¥s n√£o s√£o permitidos aqui. Caia fora.}
+{467}{}{Esse rob√¥ vai virar sucata se ficar aqui.}
 {475}{}{YO ACHO que senti cheiro de mutante. Tire ele daqui antes que fiquemos bravos.}
-{476}{}{Gostas de mutantes? O lugar dele È L¡ FORA. Ou ent„o...}
+{476}{}{Gostas de mutantes? O lugar dele √© L√Å FORA. Ou ent√£o...}
 {477}{}{That mutant sticks around, he's gonna become target practice.}
-{485}{}{YO ACHO que senti cheiro de carniÁa. Tire esse ghoul daqui.}
+{485}{}{YO ACHO que senti cheiro de carni√ßa. Tire esse ghoul daqui.}
 {486}{}{Tire esse ghoul fedorento daqui. Agora.}
-{487}{}{Se esse ghoul n„o sair daqui em um minuto, vai ficar mais morto do que j· est·.}
+{487}{}{Se esse ghoul n√£o sair daqui em um minuto, vai ficar mais morto do que j√° est√°.}
 {495}{}{Hey, you. C'mon over here and let me see that knife.}
 {496}{}{Nice knife.}
 {497}{}{Can I see that knife for a second?}
@@ -92,31 +92,31 @@
 {507}{}{Something you want, chica?}
 {508}{}{Hoo ooh?}
 {511}{}{Cai fora}
-{512}{}{Quem È vocÍ?}
-{513}{}{Desculpe. Achei que vocÍ fosse outra pessoa.}
+{512}{}{Quem √© voc√™?}
+{513}{}{Desculpe. Achei que voc√™ fosse outra pessoa.}
 {522}{}{Eh...? You again? What do you want now?}
 {523}{}{Heeeey... whatzzup, friend? Something on your mind?}
 {524}{}{Me from under where}
 {525}{}{Ay-me-go?}
 {526}{}{Cheee-ka Cheeek-aaaah}
-{529}{}{Eu tenho algumas perguntasÖ}
-{530}{}{Deixa pra l·. Desculpe incomod·-lo.}
+{529}{}{Eu tenho algumas perguntas‚Ä¶}
+{530}{}{Deixa pra l√°. Desculpe incomod√°-lo.}
 {540}{}{}
 {541}{}{}
 {542}{}{Hey, hey, hey! You're }
 {544}{}{Fire it up fire it up}
-{547}{}{Obrigado, pequeno Jesus. Ei, eu tenho algumas perguntas para vocÍ...}
+{547}{}{Obrigado, pequeno Jesus. Ei, eu tenho algumas perguntas para voc√™...}
 {548}{}{Thanks for the compliment. I was just stopping by; I have to be going.}
 {549}{}{Yeah, I don't need you to tell me that. Just watch yourself.}
 {560}{}{Heeeey! How's it going, }
 {562}{}{You being helped, or do I got to call over one of the putas ta get you set up? Ha!}
 {563}{}{You being helped, or do I got to call over one of the waitresses ta get you set up? Ha!}
-{567}{}{N„o, eu tudo certo. Olhe, eu tenho algumas perguntas para vocÍ, Jesus...}
+{567}{}{N√£o, eu tudo certo. Olhe, eu tenho algumas perguntas para voc√™, Jesus...}
 {568}{}{No, I'm good, thanks. Catch you later.}
 {582}{}{Eh? You looking to deal, slaver? Got some stock you wanna unload?}
 {583}{}{Me unload! Me unload!}
 {586}{}{Sure. Are you the one to talk to?}
-{587}{}{Agora n„o. Mas eu tenho algumas perguntas para vocÍ...}
+{587}{}{Agora n√£o. Mas eu tenho algumas perguntas para voc√™...}
 {588}{}{Not right now. Maybe later.}
 {600}{}{Heh. You been out squatting in the sun too long. Get.}
 {601}{}{Eh... right. You take care, amigo. I'll catch you later.}
@@ -126,7 +126,7 @@
 {620}{}{Cai fora daqui.}
 {621}{}{Come around here again, and I'll fill you so full o' lead even Superman couldn't see through you.}
 {622}{}{::Plays with knife threateningly::}
-{623}{}{::Cospe no seu pÈ.::}
+{623}{}{::Cospe no seu p√©.::}
 {624}{}{You look like someone who don't know when they're about to die.}
 {625}{}{Beat it 'fore I waste you.}
 {626}{}{Come around here again, and I'll gut you.}
@@ -134,7 +134,7 @@
 {641}{}{(Picks his teeth with a dirty fingernail.) Yeah?}
 {642}{}{Something on your mind?}
 {643}{}{What was that you were saying about the Mordino Family again?}
-{644}{}{Estou ‡ procura de trabalho.}
+{644}{}{Estou √† procura de trabalho.}
 {645}{}{What is there to do around New Reno to relax?}
 {646}{}{You know anything about Richard Wright overdosing on Jet?}
 {647}{}{Can you teach me knife fighting?}
@@ -159,7 +159,7 @@
 {702}{}{If you ain't been there, you ain't missing nothing. Bunch of no-neck miners who like to FLY, know what I'm saying?}
 {703}{}{Not really. What do you mean?}
 {704}{}{They're a bunch of drug addicts?}
-{705}{}{Te ouÁo. Eu tenho algumas perguntas...}
+{705}{}{Te ou√ßo. Eu tenho algumas perguntas...}
 {706}{}{I have to go. Later, Jesus.}
 {720}{}{Bunch of no-neck miners, dig in the dirt, but they like to FLY, know what I'm saying?}
 {740}{}{Them no-necks dig for gold, see, but what WE give them is better than gold, know what I'm saying? They give us ALL
@@ -167,7 +167,7 @@
 {742}{}{Parece que sim. Olha, eu tinha algumas perguntas...}
 {760}{}{Well, when they got their first taste o' Jet, they were. You can't have just one.}
 {761}{}{Where does the Jet come from?}
-{762}{}{Eu ouÁo. Olha, eu tenho outras perguntas ..}
+{762}{}{Eu ou√ßo. Olha, eu tenho outras perguntas ..}
 {780}{}{The Jet? It comes from HERE. See, we don't dig for gold, we MAKE it: liquid gold. Jet. Worth a fortune to the miners, costs
  next to nothing to make. We ship it to Redding, they shoot up, they fly, they ship us gold. That simple.}
 {781}{}{How long has this been going on? It seems like you would have controlled all of Northern California by now if Jet was that
@@ -187,7 +187,7 @@
  ain't need to go nowhere else.}
 {842}{}{So... you wanna re-lax, chica? Heh... then how 'bout you and me get down to some sweet love?}
 {843}{}{Tempting, but I haven't got ten seconds for your sweet love right now, Little Jesus.}
-{844}{}{AgradeÁo muito, mas n„o obrigado. Olha, eu tenho algumas perguntas.}
+{844}{}{Agrade√ßo muito, mas n√£o obrigado. Olha, eu tenho algumas perguntas.}
 {846}{}{I'm looking for a job. Know of any place that's hiring?}
 {847}{}{Thanks for the tip, thanks.}
 {848}{}{Why don't you start without me? I have to go.}
@@ -197,7 +197,7 @@
  you a second smile on that neck of yours.}
 {862}{}{Try it and see what happens, LITTLE Jesus.}
 {863}{}{Try it, and I'll add so many scars to your face you'll look like a jigsaw puzzle.}
-{864}{}{Tranquilo... Eu sÛ estava zuando.}
+{864}{}{Tranquilo... Eu s√≥ estava zuando.}
 {865}{}{Frio. Eu tenha outras perguntas...}
 {867}{}{I'm leaving. Great talking to someone as cultured as you.}
 {880}{}{Ha! You all right, chica. You all right. Lil' Jesus gonna be keeping an eye on you... not that I couldn't help myself. What
@@ -221,29 +221,29 @@
  for some quick chips, my room's upstairs...}
 {904}{}{Tudo bem, entao. Eu tinha outras perguntas...}
 {905}{}{Eh, eu passo. Tenho algumas perguntas...}
-{906}{}{Prefiro que n„o, valeu. Eu tenho algumas perguntas para vocÍ, no entanto...}
+{906}{}{Prefiro que n√£o, valeu. Eu tenho algumas perguntas para voc√™, no entanto...}
 {907}{}{Oh, I bet it WOULD be quick. No thanks.}
 {908}{}{Nevermind then. Thanks anyway.}
 {909}{}{No thanks. I better be going.}
 {920}{}{Oh, so that makes it all better then, huh? (Spits at your feet.) Get the hell outta here 'fore I carve you.}
 {921}{}{Just try it and see what happens... LITTLE Jesus.}
 {922}{}{Calma, Jesus... Olha, eu tenho outras perguntas...}
-{923}{}{Estou de saÌda.}
+{923}{}{Estou de sa√≠da.}
 {924}{}{You spit on my shoe? You fuck! I'm gonna teach you a lesson about respect, mother fucker.}
 {930}{}{No, not me... head on upstairs and see my Pa. He's the one you want to talk to.}
-{931}{}{E vocÍ È...?}
-{932}{}{Tudo bem ent„o. Antes de ir, eu tinha algumas perguntas...}
+{931}{}{E voc√™ √©...?}
+{932}{}{Tudo bem ent√£o. Antes de ir, eu tinha algumas perguntas...}
 {933}{}{Obrigado.}
 {940}{}{FUCK you. Get outta my family's casino 'fore I carve my initials on your dead body.}
 {942}{}{Don't you threaten me, Jesus.}
-{943}{}{Calma l· - Eu tenho algumas perguntas...}
+{943}{}{Calma l√° - Eu tenho algumas perguntas...}
 {944}{}{Calm down, Jesus. I'm leaving.}
 {950}{}{That little piss-ass Wright kid? Ha! You trying to pin that shit on me? You outta luck; I ain't sorry the little
  fucker's dead, but I didn't have NOTHIN' to do with it.}
 {951}{}{Oh, yeah? Well, the Mordinos are the biggest suppliers of Jet in New Reno. That makes you the first ones who are
  gonna take the blame.}
 {952}{}{I don't believe you. I think you ARE the one responsible. You and the rest of the Mordinos.}
-{953}{}{Quem vocÍ acha que pode ter feito isso?}
+{953}{}{Quem voc√™ acha que pode ter feito isso?}
 {954}{}{Ok... Olha, eu tenho outras perguntas...}
 {955}{}{All right then. Just asking.}
 {965}{}{(Eyes narrow.) Look now, I ain't had NOTHING to do with that kid's death. I don't know what you heard, but if I'd killed
@@ -258,17 +258,17 @@
 {980}{}{Yeah, Renesco... the "Rocketman." Sells so much Jet, he could shoot you to the moon. He's on the west side, in Salvatore
  territory. He don't like the Wrights none, and his drugs ain't PURE, know what I'm saying?}
 {981}{}{He can't be the only dealer in a town this size.}
-{982}{}{Lado oeste, hein? Eu posso passar por l·. Eu tenho outras perguntas, no entanto...}
+{982}{}{Lado oeste, hein? Eu posso passar por l√°. Eu tenho outras perguntas, no entanto...}
 {983}{}{All right. I'll check it out. Thanks, Jesus.}
 {990}{}{No, there's others, but Renesco's the one who done it.}
 {991}{}{What makes you say that?}
 {992}{}{Who are the other dealers?}
-{993}{}{Sim, vocÍ j· disse isso. Olha, eu tinha outras perguntas ..}
+{993}{}{Sim, voc√™ j√° disse isso. Olha, eu tinha outras perguntas ..}
 {994}{}{All right, Jesus. Thanks for the info.}
 {1000}{}{CAUSE he's a half-blind cracker with a mean streak a mile wide that sells BAD SHIT, that's fucking why. You go see him,
  you see what he says about the Wright kid, and THEN you'll see I'm right.}
 {1001}{}{What other dealers are there?}
-{1002}{}{Eu faÁo isso. Olha, eu tenho outras perguntas ...}
+{1002}{}{Eu fa√ßo isso. Olha, eu tenho outras perguntas ...}
 {1003}{}{All right then, Jesus. I'll go check this Renesco out.}
 {1010}{}{There's Jules, front of town, peddles mostly to newcomers... n' Jagged Jimmy J, up on 2nd street by the gym... can't
  miss that punk-ass cause he cut his face up one night while on Jet... it's so bad his entire face is all scars.}
@@ -281,7 +281,7 @@
 {1022}{}{I may sell Jet sometimes, but I'm Lil' Jesus MORDINO, not some two-bit Jet-pushing punk that's got to addict ten
  customers a day just to make enough to eat. So FUCK you.}
 {1023}{}{You better watch your mouth with me, Jesus.}
-{1024}{}{Sussa, eu sÛ estava curioso... Olha, eu tenho outras perguntas...}
+{1024}{}{Sussa, eu s√≥ estava curioso... Olha, eu tenho outras perguntas...}
 {1025}{}{All right then. Thanks for the information.}
 {1030}{}{(Lil' Jesus glances at the knife in your hand, shakes his head.) }
 {1031}{}{(The man glances at the knife in your hand, shakes his head.) }
@@ -291,7 +291,7 @@
 {1035}{}{(Look at knife. Look at ugly man. Look at knife.) You touch }
 {1036}{}{Kagagoogoo}
 {1038}{}{Really? Can you teach me?}
-{1040}{}{Na verdade, eu tenho algumas perguntas para vocÍ, Jesus...}
+{1040}{}{Na verdade, eu tenho algumas perguntas para voc√™, Jesus...}
 {1041}{}{Maybe some other time, thanks.}
 {1050}{}{Hmmmmm...}
 {1051}{}{I don't know, homes... I mean, I ain't got a lot of free time and knife fighting's an ART, y'know?}
@@ -309,9 +309,9 @@
 {1072}{}{Tell me you mean 200 chips. PLEASE tell me you mean 200 chips.}
 {1073}{}{Oh, you were thinking of sex? Well, keep thinking, cause it ain't gonna happen.}
 {1074}{}{Uh, okay. Let's do it. Anything for some added knife skill.}
-{1075}{}{Tudo bem. Aqui est· o dinheiro.}
+{1075}{}{Tudo bem. Aqui est√° o dinheiro.}
 {1076}{}{Nevermind. Uh, who are you, anyway?}
-{1077}{}{EsqueÁa. Eu tinha outras perguntas...}
+{1077}{}{Esque√ßa. Eu tinha outras perguntas...}
 {1079}{}{Maybe some other time, thanks. I REALLY have to be going.}
 {1090}{}{Hmmmm... all right, yeah, I'll do it. You look like you might have the cojones for it. Look, now, the first thing you
  gotta do is...}
@@ -326,11 +326,11 @@
 {5200}{}{! Way to kick the Enclave's ass!}
 {5201}{}{, way to teach them dumb Enclave fucks how things are done DOWNTOWN.}
 {5230}{}{.}
-{5240}{}{? Os Mordinos andam de cabeÁa erguida.}
+{5240}{}{? Os Mordinos andam de cabe√ßa erguida.}
 {5250}{}{?}
 {5251}{}{! Que passa?}
 {5253}{}{?}
-{5254}{}{. Onde vocÍ esteve?}
+{5254}{}{. Onde voc√™ esteve?}
 {5255}{}{.}
 {5256}{}{?}
 {5257}{}{. You comin' wit us?}
@@ -338,14 +338,14 @@
 {5273}{}{s fuck with us, you'll be wormfood. Get outta here!}
 {5276}{}{? She just got done kissing my ass. Now you better blow, too.}
 {5280}{}{, you better leave.}
-{5320}{}{? Com esse gancho direito que tem vocÍ deveria andar com a cabeÁa erguida.}
+{5320}{}{? Com esse gancho direito que tem voc√™ deveria andar com a cabe√ßa erguida.}
 {5340}{}{? You're vicious. You got the MOVES, hombre.}
 {5343}{}{.}
-{5344}{}{. Se as outras famÌlias te virem, v„o te enterrar em segundos.}
+{5344}{}{. Se as outras fam√≠lias te virem, v√£o te enterrar em segundos.}
 {5346}{}{. You were *wasting* that guy.}
 {5347}{}{?}
 {5380}{}{? Vamos, ajeita essa postura.}
-{5401}{}{! Que passa? VocÍ vai fala de mim pros Brothers ou n„o?}
+{5401}{}{! Que passa? Voc√™ vai fala de mim pros Brothers ou n√£o?}
 {5402}{}{, bilheteria!}
 {5404}{}{...c'mon. I can *do* it.}
 {5542}{}{! The big ol' fighter! Man, you're good!}

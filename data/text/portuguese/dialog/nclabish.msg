@@ -8,7 +8,7 @@
 {203}{}{Knock-knock}
 {204}{}{(Stare at her breasts and drool.)}
 {205}{}{Cai fora}
-{206}{}{Quem é você?}
+{206}{}{Quem Ã© vocÃª?}
 {207}{}{I wanted to ask you some questions, Mrs. Bishop.}
 {208}{}{Sorry, I thought you were someone else. Goodbye.}
 {210}{}{*What?*}
@@ -40,17 +40,17 @@
  I am Leslie Anne Bishop. }
 {251}{}{My husband is the head of the Bishop family here in New Reno. And YOU are...?}
 {252}{}{My late husband was the head of the Bishop family here in New Reno. And YOU are...?}
-{253}{}{Meu nome é }
+{253}{}{Meu nome Ã© }
 {254}{}{I am a simple traveler.}
 {255}{}{I'm a traveler, looking for Vault 13. Have you heard of it?}
-{256}{}{Sou um viajante... você sabe onde posso encontrar um negócio chamado 'Kit de Criação do Jardim do Éden?'}
+{256}{}{Sou um viajante... vocÃª sabe onde posso encontrar um negÃ³cio chamado 'Kit de CriaÃ§Ã£o do Jardim do Ã‰den?'}
 {257}{}{Look, maybe I better be going. Goodbye.}
 {260}{}{Sim?}
 {261}{}{Can you tell me about Mr. Bishop?}
 {262}{}{Can you tell me about the Bishop Family?}
 {263}{}{Have you ever heard of a place called Vault 13?}
 {264}{}{Do you know where I could find something called the 'Garden of Eden Creation Kit?'}
-{265}{}{Deixa pra lá. É melhor eu ir.}
+{265}{}{Deixa pra lÃ¡. Ã‰ melhor eu ir.}
 {270}{}{My husband? That is simple. He is deceased. SUCH a tragedy. I'm still recovering from all the
  champagne I drunk when I heard.}
 {271}{}{My husband? He is the head of the Bishop family. In matters of diplomacy, business, and criminal
@@ -67,7 +67,7 @@
  amounts to.}
 {286}{}{It sounds as if your marriage life isn't as healthy as it could be.}
 {287}{}{Well, there's also that 'family' of mercenaries he hired to raid Vault City.}
-{288}{}{Oh. Ei, tenho algumas outras perguntas…}
+{288}{}{Oh. Ei, tenho algumas outras perguntasâ€¦}
 {295}{}{(She throws an amused glance at your spouse.) And yours is? (She frowns again.) }
 {296}{}{No... my late husband was in the business of accumulating power. That seldom leaves room for...
  anything else. }
@@ -162,7 +162,7 @@
  something I can do for you?}
 {436}{}{I'd like to join you for that drink now, if you have the time, Mrs. Bishop.}
 {437}{}{I'd like to join you for another... drink, if you have the time, Mrs. Bishop.}
-{438}{}{Eu tenho algumas perguntas…}
+{438}{}{Eu tenho algumas perguntasâ€¦}
 {439}{}{Not at the moment, thanks. I have to go.}
 {440}{}{So? So am I. What are you suggesting that my invitation is? Some sort of prelude
  to adultery? Come now, don't be foolish. Now, are you coming?}
@@ -211,14 +211,14 @@
 {520}{}{(She takes you upstairs to a strange, nice-smelling room. Once there, she starts
  giving you strange directions that make you feel both happy and uncomfortable.) Don't you
  want to touch me?}
-{521}{}{hã-ham.}
-{522}{}{hã-hã}
+{521}{}{hÃ£-ham.}
+{522}{}{hÃ£-hÃ£}
 {525}{}{Hmmmm. Very well. Just lay down on the bed then and I'll do the rest.}
 {526}{}{Me refuse me no WANT to me want to go HOME to Arroyo-yo}
 {527}{}{Do what she tells you to.}
 {530}{}{(She takes a big breath of air, then she starts yelling so loud it hurts your ears!
  Something about 'gards' and 'theef' which you can't make out because she's yelling so loudly.)}
-{531}{}{Shhh! Se você não ficar em silêncio, George não me deixará brincar com os coelhos! Shhh!}
+{531}{}{Shhh! Se vocÃª nÃ£o ficar em silÃªncio, George nÃ£o me deixarÃ¡ brincar com os coelhos! Shhh!}
 {532}{}{Whatz wrong with yor teef? What you need gardz for?}
 {533}{}{No screem! No screem!}
 {535}{}{Yes, I know; gossip travels quickly in Reno. (Sighs.) No matter... I think you'll
@@ -338,7 +338,7 @@
 {682}{}{No, my 'marriage' is not a healthy one. My husband is in the business of power,
  and that seldom leaves any room for... anything else.}
 {683}{}{You sound unhappy. You should leave here, go somewhere else.}
-{684}{}{Hmmm. Eu tenho outras perguntas…}
+{684}{}{Hmmm. Eu tenho outras perguntasâ€¦}
 {690}{}{Why, what a BRILLIANT idea! And where would I go? Into the Wastes to live
  amongst the savages? South, to NCR? Northwest, to Redding, to rent my body to miners?}
 {691}{}{Why is leaving Reno so impossible? You're not a stupid woman. I would think

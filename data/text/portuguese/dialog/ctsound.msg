@@ -1,1 +1,1 @@
-{100}{}{Este laboratório parece ser fortemente insonorizado.}
+{100}{}{Este laboratÃ³rio parece ser fortemente insonorizado.}

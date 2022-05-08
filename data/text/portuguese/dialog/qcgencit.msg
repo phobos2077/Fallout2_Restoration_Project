@@ -11,7 +11,7 @@
 {110}{}{God bless America.}
 {111}{}{The Project is our salvation.}
 {112}{}{I'm sure glad I'm not on the mainland.}
-{113}{}{… sÛ mais um exercÌcio militar.}
+{113}{}{√â s√≥ mais um exerc√≠cio militar.}
 {114}{}{What's all that racket?}
 {115}{}{That's the reactor alarm.}
 {116}{}{Uh, oh.}
@@ -19,7 +19,7 @@
 {118}{}{That thing's always breaking down.}
 {119}{}{I feel sunburnt.}
 {120}{}{Is it getting hotter in here?}
-{121}{}{Isso n„o ser bom.}
+{121}{}{Isso n√£o ser bom.}
 {122}{}{Shit, shit, shit.}
 {123}{}{Where's my breather mask?}
 {124}{}{Something smells funny.}

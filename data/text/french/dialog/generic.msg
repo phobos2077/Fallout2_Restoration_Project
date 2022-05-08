@@ -1,17 +1,17 @@
 {100}{}{Tu gagnes }
-{101}{}{ points d'expérience.}
-{102}{}{Tu réussis à désarmer le piège.}
-{103}{}{Tu ne parviens pas à désarmer le piège.}
-{104}{}{Tu déclenches accidentellement le piège.}
-{105}{}{ réussit à désarmer le piège.}
-{106}{}{ ne parvient pas à désarmer le piège.}
-{107}{}{ déclenche accidentellement le piège.}
+{101}{}{ points d'expÃ©rience.}
+{102}{}{Tu rÃ©ussis Ã  dÃ©sarmer le piÃ¨ge.}
+{103}{}{Tu ne parviens pas Ã  dÃ©sarmer le piÃ¨ge.}
+{104}{}{Tu dÃ©clenches accidentellement le piÃ¨ge.}
+{105}{}{ rÃ©ussit Ã  dÃ©sarmer le piÃ¨ge.}
+{106}{}{ ne parvient pas Ã  dÃ©sarmer le piÃ¨ge.}
+{107}{}{ dÃ©clenche accidentellement le piÃ¨ge.}
 {200}{}{Merci.}
 {201}{}{Salut.}
 {202}{}{Merci.}
 {203}{}{Merci !}
 {204}{}{Non merci.}
-{205}{}{Pas de problème.}
+{205}{}{Pas de problÃ¨me.}
 {206}{}{Certainement.}
 {207}{}{Oui.}
 {208}{}{Non.}
@@ -28,47 +28,47 @@
 {355}{}{[Donner l'argent]}
 {375}{}{Salut.}
 {376}{}{Salut.}
-{400}{}{Tu meurs suite à l'injection mortelle du Dr Troy.}
-{450}{}{La zone est dégagée. Le secteur est pacifié. Beau travail. Allons-y !}
-{900}{}{On dirait qu'un explosif bien placé pourrait détruire cette très vieille porte.}
-{901}{}{Tu vois la charrette à esclaves utilisée pour ramener les esclaves à la Fosse.}
+{400}{}{Tu meurs suite Ã  l'injection mortelle du Dr Troy.}
+{450}{}{La zone est dÃ©gagÃ©e. Le secteur est pacifiÃ©. Beau travail. Allons-y !}
+{900}{}{On dirait qu'un explosif bien placÃ© pourrait dÃ©truire cette trÃ¨s vieille porte.}
+{901}{}{Tu vois la charrette Ã  esclaves utilisÃ©e pour ramener les esclaves Ã  la Fosse.}
 {905}{}{Wouaf ! Wouaf !}
-{910}{}{Tu reçois une décharge du sol électrifié.}
-{911}{}{ reçoit une décharge du sol électrifié.}
-{912}{}{Le niveau de puissance tombe à zéro, puis remonte à 50% lorsque les générateurs de secours se mettent en marche.}
-{913}{}{Un léger bourdonnement se fait entendre alors que le flux d'électricité passe de nouveau dans la base.}
-{920}{}{Tu trébuches sur ce qui reste de Nagor, qui est mort en essayant de sauver son chien.}
+{910}{}{Tu reÃ§ois une dÃ©charge du sol Ã©lectrifiÃ©.}
+{911}{}{ reÃ§oit une dÃ©charge du sol Ã©lectrifiÃ©.}
+{912}{}{Le niveau de puissance tombe Ã  zÃ©ro, puis remonte Ã  50% lorsque les gÃ©nÃ©rateurs de secours se mettent en marche.}
+{913}{}{Un lÃ©ger bourdonnement se fait entendre alors que le flux d'Ã©lectricitÃ© passe de nouveau dans la base.}
+{920}{}{Tu trÃ©buches sur ce qui reste de Nagor, qui est mort en essayant de sauver son chien.}
 {921}{}{Nagor est mort en essayant de rapporter le corps de son chien au village.}
 {930}{}{::Huuuuuurlement::}
-{950}{}{Tu prends un peu de temps pour t'entraîner. Tes compétences de combat au Corps à Corps augmentent.}
+{950}{}{Tu prends un peu de temps pour t'entraÃ®ner. Tes compÃ©tences de combat au Corps Ã  Corps augmentent.}
 {951}{}{Le rataupe attaque et essuie un coup fatal.}
-{952}{}{Le match est terminé.}
-{1000}{}{Tu as réussi le test de citoyenneté.}
-{1001}{}{Tu fais part à McClure de la dépendance au Jet de Redding.}
-{1002}{}{Tu as libéré le commerce avec Redding.}
-{1003}{}{Tu désactives les champs de force.}
+{952}{}{Le match est terminÃ©.}
+{1000}{}{Tu as rÃ©ussi le test de citoyennetÃ©.}
+{1001}{}{Tu fais part Ã  McClure de la dÃ©pendance au Jet de Redding.}
+{1002}{}{Tu as libÃ©rÃ© le commerce avec Redding.}
+{1003}{}{Tu dÃ©sactives les champs de force.}
 {1004}{}{Tu pirates l'ordinateur.}
-{1005}{}{Tu répares le puits.}
-{1006}{}{Tu traînes Hakeswill en justice.}
+{1005}{}{Tu rÃ©pares le puits.}
+{1006}{}{Tu traÃ®nes Hakeswill en justice.}
 {1007}{}{Tu livres la puce de l'excavatrice.}
-{1008}{}{Tu as réglé le problème de la veuve Rooney.}
-{1009}{}{Tu as réussi les épreuves d'Arroyo.}
-{1010}{}{Tu as donné la formule de l'antidote au Dr Troy.}
-{1011}{}{Tu as détruit le réacteur.}
+{1008}{}{Tu as rÃ©glÃ© le problÃ¨me de la veuve Rooney.}
+{1009}{}{Tu as rÃ©ussi les Ã©preuves d'Arroyo.}
+{1010}{}{Tu as donnÃ© la formule de l'antidote au Dr Troy.}
+{1011}{}{Tu as dÃ©truit le rÃ©acteur.}
 {1012}{}{ALERTE ! FUSION COMPLETE DU REACTEUR !}
-{1013}{}{ALERTE ! Toxines rejetées dans les conduits d'aération !}
-{1014}{}{Tu as nettoyé la mine du Grand Wanamingo.}
-{1015}{}{Tu as survécu à la salle des énigmes.}
-{1016}{}{Oh là là, j'allais oublier le J.E.K. Peut-être qu'il y en aurait un dans les parages...}
+{1013}{}{ALERTE ! Toxines rejetÃ©es dans les conduits d'aÃ©ration !}
+{1014}{}{Tu as nettoyÃ© la mine du Grand Wanamingo.}
+{1015}{}{Tu as survÃ©cu Ã  la salle des Ã©nigmes.}
+{1016}{}{Oh lÃ  lÃ , j'allais oublier le J.E.K. Peut-Ãªtre qu'il y en aurait un dans les parages...}
 {1017}{}{Avec ton code J.E.K, la porte explose.}
-{1018}{}{Tu a éliminé la bande de Gâchette Morton.}
-{1019}{}{Tu as désactivé le champ de force.}
-{1020}{}{Tu as mis fin à la baston au bar.}
-{1021}{}{Tu as désactivé le terminal du robot de réparation.}
+{1018}{}{Tu a Ã©liminÃ© la bande de GÃ¢chette Morton.}
+{1019}{}{Tu as dÃ©sactivÃ© le champ de force.}
+{1020}{}{Tu as mis fin Ã  la baston au bar.}
+{1021}{}{Tu as dÃ©sactivÃ© le terminal du robot de rÃ©paration.}
 {1050}{}{Tu broies la toxine de radscorpion en antidote.}
-{1051}{}{Tu mélanges la racine de Xandre et la fleur de Broc pour obtenir une poudre de guérison.}
-{1099}{}{Le J.E.K est trop précieux au village pour que tu le laisses ici.}
-{2000}{}{zéro}
+{1051}{}{Tu mÃ©langes la racine de Xandre et la fleur de Broc pour obtenir une poudre de guÃ©rison.}
+{1099}{}{Le J.E.K est trop prÃ©cieux au village pour que tu le laisses ici.}
+{2000}{}{zÃ©ro}
 {2001}{}{un}
 {2002}{}{deux}
 {2003}{}{trois}
@@ -171,44 +171,44 @@
 {3000}{}{}
 {3025}{}{}
 {3050}{}{Si tu recommences, je devrai te tuer.}
-{3051}{}{Je n'ai rien à voler, espèce d'imbécile.}
-{3052}{}{Je ne crois pas qu'on se connaisse *si* bien que ça.}
-{3053}{}{Si tu touches encore à ça, tu me le payeras.}
+{3051}{}{Je n'ai rien Ã  voler, espÃ¨ce d'imbÃ©cile.}
+{3052}{}{Je ne crois pas qu'on se connaisse *si* bien que Ã§a.}
+{3053}{}{Si tu touches encore Ã  Ã§a, tu me le payeras.}
 {3054}{}{Ne me touche pas.}
-{3055}{}{Si jamais tu recommences, je te casserai la tête.}
+{3055}{}{Si jamais tu recommences, je te casserai la tÃªte.}
 {3056}{}{Bas les pattes !}
 {3057}{}{Tu cherches les ennuis ?}
 {3058}{}{Si jamais tu me touches encore, je te tuerai.}
-{3059}{}{Les ennuis, y'a que ça qui est gratuit.}
-{3060}{}{Hé ! Recule.}
+{3059}{}{Les ennuis, y'a que Ã§a qui est gratuit.}
+{3060}{}{HÃ© ! Recule.}
 {3061}{}{Attention !}
 {3062}{}{T'as envie de mourir ?}
-{3063}{}{Si tu recommences, je t'exploserai la tête.}
-{3064}{}{C'est à moi, bas les pattes !}
+{3063}{}{Si tu recommences, je t'exploserai la tÃªte.}
+{3064}{}{C'est Ã  moi, bas les pattes !}
 {3075}{}{}
 {3100}{}{}
 {3300}{}{}
-{3325}{}{Que dirais-tu de remettre tout ça là où tu l'as trouvé ?}
+{3325}{}{Que dirais-tu de remettre tout Ã§a lÃ  oÃ¹ tu l'as trouvÃ© ?}
 {3326}{}{Tu sais, c'est pas bien de prendre ce qui ne t'appartient pas.}
-{3327}{}{Dégage de là, crapule !}
-{3328}{}{Et ne viens pas me dire que tu *cherchais juste tes clés*. Dégage d'ici !}
+{3327}{}{DÃ©gage de lÃ , crapule !}
+{3328}{}{Et ne viens pas me dire que tu *cherchais juste tes clÃ©s*. DÃ©gage d'ici !}
 {3329}{}{Quoi que tu cherches, tu ne le trouveras pas ici. Compris ?}
 {3350}{}{}
 {3375}{}{}
 {3400}{}{}
 {3600}{}{}
-{3625}{}{Hé, toi ! Pourquoi tournes-tu autour de ce truc ?}
-{3626}{}{Si t'as pas une clé dans la main, tu ferais mieux de t'en aller.}
-{3627}{}{Si c'est fermé à clé, c'est qu'il y a une raison !}
-{3628}{}{Laisse tomber avant que ça tourne au vinaigre !}
+{3625}{}{HÃ©, toi ! Pourquoi tournes-tu autour de ce truc ?}
+{3626}{}{Si t'as pas une clÃ© dans la main, tu ferais mieux de t'en aller.}
+{3627}{}{Si c'est fermÃ© Ã  clÃ©, c'est qu'il y a une raison !}
+{3628}{}{Laisse tomber avant que Ã§a tourne au vinaigre !}
 {3650}{}{}
 {3675}{}{}
 {3700}{}{}
 {3900}{}{}
-{3925}{}{Hé toi ! Que fais-tu là ?}
-{3926}{}{Tu ne devrais pas être là !}
-{3927}{}{Si tu crois que tu vas te débarrasser de moi comme ça, tu te trompes !}
-{3928}{}{J'espère que t'es pas en train de manigancer ce à quoi je pense.}
+{3925}{}{HÃ© toi ! Que fais-tu lÃ  ?}
+{3926}{}{Tu ne devrais pas Ãªtre lÃ  !}
+{3927}{}{Si tu crois que tu vas te dÃ©barrasser de moi comme Ã§a, tu te trompes !}
+{3928}{}{J'espÃ¨re que t'es pas en train de manigancer ce Ã  quoi je pense.}
 {3929}{}{Quoi ? Tu croyais que j'allais pas te voir ? Sors d'ici !}
 {3950}{}{}
 {3975}{}{}
@@ -233,28 +233,28 @@
 {5150}{}{}
 {5175}{}{}
 {5200}{}{}
-{5400}{}{Ne touche pas à ça.}
-{9000}{}{Réparations terminées.}
-{9001}{}{Réarmement terminé.}
-{9002}{}{Réparation des dégâts structurels.}
+{5400}{}{Ne touche pas Ã  Ã§a.}
+{9000}{}{RÃ©parations terminÃ©es.}
+{9001}{}{RÃ©armement terminÃ©.}
+{9002}{}{RÃ©paration des dÃ©gÃ¢ts structurels.}
 {10000}{}{Dis-moi quelque chose.}
 {10001}{}{Tu devrais te soigner, maintenant.}
-{10002}{}{Je veux que tu attendes ici jusqu'à mon retour.}
+{10002}{}{Je veux que tu attendes ici jusqu'Ã  mon retour.}
 {10003}{}{Pose ton arme.}
-{10004}{}{Reste près de moi.}
+{10004}{}{Reste prÃ¨s de moi.}
 {10005}{}{Ne t'en vas pas trop loin.}
 {10006}{}{On devrait se disperser un peu.}
 {10007}{}{Ca suffit.}
 {10008}{}{Il faut changer la distance entre nous.}
-{10009}{}{Il faut que je te parle de ton équipement.}
-{10010}{}{Après réflexion, je pense que cette distance convient pour l'instant.}
-{10011}{}{Finalement, je crois qu'il n'y a rien que j'aie vraiment besoin de savoir sur ton équipement.}
-{10012}{}{Il faut que tu enlèves ton armure.}
+{10009}{}{Il faut que je te parle de ton Ã©quipement.}
+{10010}{}{AprÃ¨s rÃ©flexion, je pense que cette distance convient pour l'instant.}
+{10011}{}{Finalement, je crois qu'il n'y a rien que j'aie vraiment besoin de savoir sur ton Ã©quipement.}
+{10012}{}{Il faut que tu enlÃ¨ves ton armure.}
 {10013}{}{Il faut que je sache quelle sorte d'armes tu sais manier.}
 {10100}{}{C'est parti.}
 {20000}{}{Cela ne fait rien.}
 {20100}{}{Il n'y a pas de verrou sur cette porte.}
 {21020}{}{vingt}
-{30000}{}{Tu as volé ta propre tribu.}
-{40000}{}{Porte-poisse des machines à sous}
-{40001}{}{Merci à un petit appareil ménager, toujours courageux, grâce à qui tu connais un moyen secret de faire cracher tout leur argent aux machines à sous. Dommage que le processus casse la machine. Oops.}
+{30000}{}{Tu as volÃ© ta propre tribu.}
+{40000}{}{Porte-poisse des machines Ã  sous}
+{40001}{}{Merci Ã  un petit appareil mÃ©nager, toujours courageux, grÃ¢ce Ã  qui tu connais un moyen secret de faire cracher tout leur argent aux machines Ã  sous. Dommage que le processus casse la machine. Oops.}

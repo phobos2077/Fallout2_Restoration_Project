@@ -1,20 +1,20 @@
 {100}{}{Widzisz mutanta z przekrwionymi oczami.}
 {101}{}{Widzisz Elmo - pijanego mutanta.}
-{102}{}{Widzisz mutanta z przekrwionymi oczami, który ma wyraŸne k³opoty z alkoholem.}
-{103}{}{Och, moja biedna g³owa.}
-{104}{}{Dlaczego ja zawsze muszê siê budziæ w pudle?}
-{105}{}{Niech ktoœ zatrzyma tê karuzelê...}
-{106}{}{Chyba zwymiotujê.}
-{107}{}{Porcelanowa bogini, us³ysz me wo³anie! Och, moja g³owa...}
-{108}{}{Ciiiiiii! B³agam! Ciiiiii!}
+{102}{}{Widzisz mutanta z przekrwionymi oczami, ktÃ³ry ma wyraÅºne kÅ‚opoty z alkoholem.}
+{103}{}{Och, moja biedna gÅ‚owa.}
+{104}{}{Dlaczego ja zawsze muszÄ™ siÄ™ budziÄ‡ w pudle?}
+{105}{}{Niech ktoÅ› zatrzyma tÄ™ karuzelÄ™...}
+{106}{}{Chyba zwymiotujÄ™.}
+{107}{}{Porcelanowa bogini, usÅ‚ysz me woÅ‚anie! Och, moja gÅ‚owa...}
+{108}{}{Ciiiiiii! BÅ‚agam! Ciiiiii!}
 {109}{}{Kto ma moje ciemne okulary?}
-{110}{}{Marcus musi byæ nieŸle wkurzony, skoro tu znowu wyl¹dowa³em.}
-{111}{}{Masz mo¿e piwo? [mruga] Bezalkoholowe oczywiœcie.}
-{112}{}{Ale¿ mam pragnienie.}
-{113}{}{Kurde... jeden burbon, jedna szkocka, i jedno piwo, i nagle jestem w wiêzieniu.}
+{110}{}{Marcus musi byÄ‡ nieÅºle wkurzony, skoro tu znowu wylÄ…dowaÅ‚em.}
+{111}{}{Masz moÅ¼e piwo? [mruga] Bezalkoholowe oczywiÅ›cie.}
+{112}{}{AleÅ¼ mam pragnienie.}
+{113}{}{Kurde... jeden burbon, jedna szkocka, i jedno piwo, i nagle jestem w wiÄ™zieniu.}
 {114}{}{Nie pokazuj mi jedzenia... nie pokazuj mi jedzenia...}
-{115}{}{...nie idŸ tam... przed chwil¹ tam zwymiotowa³em.}
-{116}{}{Kurde... kolejna w izbie wytrzeŸwieñ.}
-{117}{}{Chcesz siê biæ? Nie czujê siê najlepiej.}
-{118}{}{[chwieje siê, potrz¹sa g³ow¹]}
-{119}{}{Mimo ¿e ciê nie znam - kocham ciê!}
+{115}{}{...nie idÅº tam... przed chwilÄ… tam zwymiotowaÅ‚em.}
+{116}{}{Kurde... kolejna w izbie wytrzeÅºwieÅ„.}
+{117}{}{Chcesz siÄ™ biÄ‡? Nie czujÄ™ siÄ™ najlepiej.}
+{118}{}{[chwieje siÄ™, potrzÄ…sa gÅ‚owÄ…]}
+{119}{}{Mimo Å¼e ciÄ™ nie znam - kocham ciÄ™!}

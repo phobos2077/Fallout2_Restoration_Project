@@ -1,18 +1,18 @@
-{100}{}{Você vê um técnico.}
-{101}{}{Você vê um técnico de computador.}
-{102}{}{Você vê alguém vestindo um jaleco de laboratório completo, com bolso e um protetor de estoque de canetas.}
+{100}{}{VocÃª vÃª um tÃ©cnico.}
+{101}{}{VocÃª vÃª um tÃ©cnico de computador.}
+{102}{}{VocÃª vÃª alguÃ©m vestindo um jaleco de laboratÃ³rio completo, com bolso e um protetor de estoque de canetas.}
 {103}{}{Bom dia, soldado.}
-{104}{}{Por favor, não toque em nada.}
-{105}{}{Vocês grunhidos não deveiam estar aqui.}
-{106}{}{Você está fora do uniforme. }
-{107}{}{É melhor você se adequar. Arsenal está no corredor do lado esquerdo.}
-{108}{}{Você está tendo uma grande chance de estar fora de uniforme. Melhor você informar ao fornecimento.}
-{109}{}{Quem diabos são vocês... Alerta! Intrusos!}
+{104}{}{Por favor, nÃ£o toque em nada.}
+{105}{}{VocÃªs grunhidos nÃ£o deveiam estar aqui.}
+{106}{}{VocÃª estÃ¡ fora do uniforme. }
+{107}{}{Ã‰ melhor vocÃª se adequar. Arsenal estÃ¡ no corredor do lado esquerdo.}
+{108}{}{VocÃª estÃ¡ tendo uma grande chance de estar fora de uniforme. Melhor vocÃª informar ao fornecimento.}
+{109}{}{Quem diabos sÃ£o vocÃªs... Alerta! Intrusos!}
 {110}{}{Temos sido infiltrados! Alerta!}
-{111}{}{Vários intrusos! Soar o alarme!}
-{112}{}{Merda! Obter as cópias de segurança iniciado.}
-{113}{}{Encerrar todas as operações secretas.}
-{114}{}{Proteger o sistema e habilitar todas as senhas de segurança.}
-{115}{}{Eu sou um cientista, não um lutador!}
+{111}{}{VÃ¡rios intrusos! Soar o alarme!}
+{112}{}{Merda! Obter as cÃ³pias de seguranÃ§a iniciado.}
+{113}{}{Encerrar todas as operaÃ§Ãµes secretas.}
+{114}{}{Proteger o sistema e habilitar todas as senhas de seguranÃ§a.}
+{115}{}{Eu sou um cientista, nÃ£o um lutador!}
 {116}{}{O extremo pontilhado com o diodo laser vai para o inimigo. Em seguida, puxe o gatilho.}
-{117}{}{Ajuda! Ajuda! Para o laboratório de informática!}
+{117}{}{Ajuda! Ajuda! Para o laboratÃ³rio de informÃ¡tica!}

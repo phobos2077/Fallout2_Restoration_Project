@@ -18,7 +18,7 @@
 {127}{}{Io domino il potere dell'atomo. E tu cosa fai?}
 {128}{}{Si sta proprio bene qui dentro. C'e' un bel teporino.}
 {129}{}{Dopo un po' non hai piu' bisogno di guardare gli indicatori.}
-{130}{}{Che noia -— nessuno di quegli indicatori funziona, comunque.}
+{130}{}{Che noia -â€” nessuno di quegli indicatori funziona, comunque.}
 {131}{}{Perdita? Che perdita?}
 {140}{}{In tutta Gecko non c'e' posto migliore di questo dove vivere.}
 {141}{}{Niente ti scalda il cuore meglio di una robusta dose di rontgen.}

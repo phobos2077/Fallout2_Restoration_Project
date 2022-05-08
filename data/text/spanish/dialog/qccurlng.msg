@@ -1,165 +1,165 @@
 {100}{}{Ves a una persona con bata blanca. Parece cansada.}
-{101}{}{Ves al doctor Curling, jefe de la Unidad de Guerra Química de los Estados Unidos.}
-{102}{}{Ves a un hombre con una bata de laboratorio manchada de productos químicos.}
-{103}{}{Qué estás haciendo fuera?}
-{104}{}{Creo que será mejor meterte otra vez en tu celda.}
-{105}{}{¡Guardias! Tenemos a otro suelto.}
-{106}{}{Espera aquí, llamaré a alguien para que se encargue de ti.}
-{107}{}{Interesante. No me imaginé que la toxina los volvería estúpidos.}
-{108}{}{¿Hola? Hola. ¿Hay alguien ahí?}
-{109}{}{Y en todo caso, ¿cómo has entrado aquí?}
+{101}{}{Ves al doctor Curling, jefe de la Unidad de Guerra QuÃ­mica de los Estados Unidos.}
+{102}{}{Ves a un hombre con una bata de laboratorio manchada de productos quÃ­micos.}
+{103}{}{QuÃ© estÃ¡s haciendo fuera?}
+{104}{}{Creo que serÃ¡ mejor meterte otra vez en tu celda.}
+{105}{}{Â¡Guardias! Tenemos a otro suelto.}
+{106}{}{Espera aquÃ­, llamarÃ© a alguien para que se encargue de ti.}
+{107}{}{Interesante. No me imaginÃ© que la toxina los volverÃ­a estÃºpidos.}
+{108}{}{Â¿Hola? Hola. Â¿Hay alguien ahÃ­?}
+{109}{}{Y en todo caso, Â¿cÃ³mo has entrado aquÃ­?}
 {110}{}{Fuera de mi laboratorio, soldado.}
 {111}{}{Esto no es parte de de tu ruta de patrulla.}
-{112}{}{Fuera de aquí, o avisaré a tu sargento.}
-{113}{}{Muévete, soldado.}
-{114}{}{No he informado de ningún problema por aquí.}
-{115}{}{Bienvenido a la Unidad de Guerra Química, soldado. Soy el teniente coronel doctor Charles
- Curling, y ahora que nos conocemos... ¡fuera de aquí!}
-{116}{}{No soy quien tú crees. Soy }
+{112}{}{Fuera de aquÃ­, o avisarÃ© a tu sargento.}
+{113}{}{MuÃ©vete, soldado.}
+{114}{}{No he informado de ningÃºn problema por aquÃ­.}
+{115}{}{Bienvenido a la Unidad de Guerra QuÃ­mica, soldado. Soy el teniente coronel doctor Charles
+ Curling, y ahora que nos conocemos... Â¡fuera de aquÃ­!}
+{116}{}{No soy quien tÃº crees. Soy }
 {117}{}{ de Arroyo, y tenemos que hablar.}
-{118}{}{Lo siento, señor. Me equivocado. Adiós.}
+{118}{}{Lo siento, seÃ±or. Me equivocado. AdiÃ³s.}
 {119}{}{Todo el mundo en estado de alarma.}
-{120}{}{¡Fuera de mi camino!}
-{121}{}{¡Listo para la acción!}
-{122}{}{Fuera de aquí, estoy muy ocupado para tratar contigo.}
-{123}{}{¿No has escuchado la alarma?}
-{124}{}{¡A cubierto! ¡La alarma ha sonado!}
+{120}{}{Â¡Fuera de mi camino!}
+{121}{}{Â¡Listo para la acciÃ³n!}
+{122}{}{Fuera de aquÃ­, estoy muy ocupado para tratar contigo.}
+{123}{}{Â¿No has escuchado la alarma?}
+{124}{}{Â¡A cubierto! Â¡La alarma ha sonado!}
 {125}{}{Espero que haya suficientes botes salvavidas.}
-{126}{}{¡Todo el mundo fuera!}
+{126}{}{Â¡Todo el mundo fuera!}
 {127}{}{Bueno, }
-{128}{}{, no sé cómo escapaste de tu celda, pero no creo que tengamos nada de lo que hablar.}
-{129}{}{Ahí es donde te equivocas. Y bastante.}
-{130}{}{Tienes razón. Estoy aquí sólo para matarte.}
-{131}{}{Quizá tengas razón. Adiós.}
-{132}{}{Soy el teniente coronel doctor Charles Curling, de la Unidad de Guerra Química de los Estados Unidos. ¿Y quién demonios eres tú?}
+{128}{}{, no sÃ© cÃ³mo escapaste de tu celda, pero no creo que tengamos nada de lo que hablar.}
+{129}{}{AhÃ­ es donde te equivocas. Y bastante.}
+{130}{}{Tienes razÃ³n. Estoy aquÃ­ sÃ³lo para matarte.}
+{131}{}{QuizÃ¡ tengas razÃ³n. AdiÃ³s.}
+{132}{}{Soy el teniente coronel doctor Charles Curling, de la Unidad de Guerra QuÃ­mica de los Estados Unidos. Â¿Y quiÃ©n demonios eres tÃº?}
 {133}{}{Soy tu peor pesadilla: un mutante con un arma al que todo se la trae al fresco.}
 {134}{}{Soy }
 {135}{}{ de Arroyo, y tenemos algo de que hablar.}
 {136}{}{Soy alguien que necesita hablarte.}
-{137}{}{¿Necesitas hablar conmigo? ¿Quién eres tú y por qué debería malgastar mi tiempo hablando contigo?}
+{137}{}{Â¿Necesitas hablar conmigo? Â¿QuiÃ©n eres tÃº y por quÃ© deberÃ­a malgastar mi tiempo hablando contigo?}
 {138}{}{Soy de Arroyo y necesito hablarte de salvar miles de vidas.}
 {139}{}{Soy }
 {140}{}{ y mejor que hables conmigo porque resulta que tengo las mejores cartas.}
-{141}{}{Tienes razón. No hay nada de lo que hablar. De todos modos eres hombre muerto.}
-{142}{}{Continúa, doctor. Te dejaré por ahora. Adiós.}
-{143}{}{El último recurso de todos los primitivos de mente pequeña. Es tan fácil ver lo que os separa de los verdaderos humanos normales como nosotros...}
-{144}{}{Joder, estás seguro de ti mismo, ¿verdad?}
-{145}{}{Maldito fanático. Necesitas que te eliminen, de inmediato.}
-{146}{}{No veo por qué tengo que hablar con un mutante. Pronto, cuando los auténticos humanos tomemos el planeta para nosotros, tú sólo serás un desafortunado recuerdo de la guerra. }
-{147}{}{¿Auténticos humanos? ¿De qué demonios estás hablando? Yo soy tan humano como tú.}
-{148}{}{Aquí tengo un desafortunado recuerdo para ti, justo en mi pistolera.}
-{149}{}{¡Guardias! ¡Auxilio! ¡Guardias!}
-{150}{}{¡Guardias! ¡Auxiiiiiiliooooo!}
-{151}{}{¡Se requiere ayuda en la Sección Química! ¡Urgente!}
-{152}{}{¡Guardias! ¡Alarma! ¡Guardias!}
-{153}{}{¿En serio? Nuestra investigación sobre los primitivos muestra claramente cambios en su ADN. Es un resultado natural de toda la radiación de fondo.}
-{154}{}{¿Y qué si nuestro ADN es un poco diferente?}
-{155}{}{No sé exactamente qué significa eso pero, ¿y qué si somos un poco diferentes?}
-{156}{}{No, en realidad no. En realidad eres bastante diferente, al menos lo es tu ADN. Un desafortunado efecto de las generaciones expuestas a la radiación de fondo, supongo.}
-{157}{}{¿Y qué si nuestro ADN es un poco diferente?}
-{158}{}{No sé qué significa eso pero, ¿y qué si somos un poco diferentes?}
-{159}{}{Oh, tu ADN es más que un *poco* diferente. Es bastante diferente. Si no estuviera tan presionado por el tiempo para el Proyecto, me interesaría hacer futuros experimentos con tu gente, otros aparte del estudio de la toxina V.E.F, por supuesto. Un trabajo fascinante en verdad.}
-{160}{}{¿Que querías saber?}
-{161}{}{¿En qué es nuestro ADN diferente?}
-{162}{}{¿Tú estás haciendo experimentos con mi tribu?}
-{163}{}{¿Qué demonios es el "Proyecto"?}
-{164}{}{Ya he oído suficiente. Debes ser exterminado como un gecko rabioso. Adiós, cabrón.}
-{165}{}{En principio hay ciertos cambios muy sutiles. Todavía no he tenido tiempo de estudiar sus ramificaciones. Además, tendría que rastrear hacia atrás vuestra muestra genética inicial para aislarla, antes de aventurar alguna idea sobre la dirección que están tomando los cambios. Sin embargo, la información actual ya es lo suficientemente clara.}
-{166}{}{¿Suficientemente clara? ¿Qué información?}
-{167}{}{Sí, tal vez. Déjame preguntarte algo más, doctor.}
-{168}{}{La información de que tú y tu tribu ya no sois humanos, por supuesto. Aunque tu tribu salió de un Refugio (el 13, ¿verdad?) hace sólo unos ochenta años, se puede asegurar que ha estado comprometida. Sí, me temo que la conclusión es inevitable.}
-{169}{}{¿Conclusión? ¿Qué conclusión?}
-{170}{}{Creía haberlo explicado claramente. La conclusión de que tú, y todos los de tu tipo, ya no sois seres humanos. Con el fin de recuperar la Tierra y mantener la integridad de la raza humana, todos los mutantes como tú deben ser destruidos.}
-{171}{}{¿Destruidos? ¿A qué te refieres?}
-{172}{}{El Proyecto al que el Enclave se ha dedicado durante las últimas décadas ha sido el restablecimiento de la raza humana, empezando por Estados Unidos. Dios bendiga América.}
-{173}{}{No parece que hayan hecho falta décadas para planearlo.}
-{174}{}{Ya basta de ese tema. Déjame preguntarte algo más.}
-{175}{}{Oh, acaba de establecer un puesto de avanzada, no tomará mucho tiempo. Hemos hecho ya que en Navarro. Pero ha tomado un largo tiempo para trabajar con el método apropiado para la erradicación de procedimiento.}
-{176}{}{¿Proceso de erradicación?}
-{177}{}{Sí, claro, no podemos arriesgarnos a volver a tierra firme para terminar contaminados por los cuasi-humanos que la habitan. Con el fin de hacer a los Estados Unidos seguros para los auténticos humanos, en primer lugar todos los mutantes deben ser exterminados.}
-{178}{}{¡¿¡Qué!?! ¿Estás loco? ¡Eso es monstruoso!}
-{179}{}{¿Exterminados? ¿Cómo vais a hacerlo?}
-{180}{}{No lo creo. Prefiero verlo como la máxima expresión del darwinismo social. La supervivencia de aquellos que aseguren más eficazmente su propia reproducción. El triunfo de las generaciones futuras, de toda la raza humana, depende de nosotros.}
-{181}{}{El cambio probablemente es una constante universal. Sólo porque seamos diferentes no significa que seamos malos. Es más, somos la prueba de la resistencia de la raza humana a los cambios. Como tales, mereceríamos sobrevivir *más* que tu gente.}
-{182}{}{¿Te has parado a pensar que aunque seamos diferentes somos tan humanos como vosotros?}
-{183}{}{Tú no tendrás generaciones futuras, doctor. Porque vas a estar muerto.}
+{141}{}{Tienes razÃ³n. No hay nada de lo que hablar. De todos modos eres hombre muerto.}
+{142}{}{ContinÃºa, doctor. Te dejarÃ© por ahora. AdiÃ³s.}
+{143}{}{El Ãºltimo recurso de todos los primitivos de mente pequeÃ±a. Es tan fÃ¡cil ver lo que os separa de los verdaderos humanos normales como nosotros...}
+{144}{}{Joder, estÃ¡s seguro de ti mismo, Â¿verdad?}
+{145}{}{Maldito fanÃ¡tico. Necesitas que te eliminen, de inmediato.}
+{146}{}{No veo por quÃ© tengo que hablar con un mutante. Pronto, cuando los autÃ©nticos humanos tomemos el planeta para nosotros, tÃº sÃ³lo serÃ¡s un desafortunado recuerdo de la guerra. }
+{147}{}{Â¿AutÃ©nticos humanos? Â¿De quÃ© demonios estÃ¡s hablando? Yo soy tan humano como tÃº.}
+{148}{}{AquÃ­ tengo un desafortunado recuerdo para ti, justo en mi pistolera.}
+{149}{}{Â¡Guardias! Â¡Auxilio! Â¡Guardias!}
+{150}{}{Â¡Guardias! Â¡Auxiiiiiiliooooo!}
+{151}{}{Â¡Se requiere ayuda en la SecciÃ³n QuÃ­mica! Â¡Urgente!}
+{152}{}{Â¡Guardias! Â¡Alarma! Â¡Guardias!}
+{153}{}{Â¿En serio? Nuestra investigaciÃ³n sobre los primitivos muestra claramente cambios en su ADN. Es un resultado natural de toda la radiaciÃ³n de fondo.}
+{154}{}{Â¿Y quÃ© si nuestro ADN es un poco diferente?}
+{155}{}{No sÃ© exactamente quÃ© significa eso pero, Â¿y quÃ© si somos un poco diferentes?}
+{156}{}{No, en realidad no. En realidad eres bastante diferente, al menos lo es tu ADN. Un desafortunado efecto de las generaciones expuestas a la radiaciÃ³n de fondo, supongo.}
+{157}{}{Â¿Y quÃ© si nuestro ADN es un poco diferente?}
+{158}{}{No sÃ© quÃ© significa eso pero, Â¿y quÃ© si somos un poco diferentes?}
+{159}{}{Oh, tu ADN es mÃ¡s que un *poco* diferente. Es bastante diferente. Si no estuviera tan presionado por el tiempo para el Proyecto, me interesarÃ­a hacer futuros experimentos con tu gente, otros aparte del estudio de la toxina V.E.F, por supuesto. Un trabajo fascinante en verdad.}
+{160}{}{Â¿Que querÃ­as saber?}
+{161}{}{Â¿En quÃ© es nuestro ADN diferente?}
+{162}{}{Â¿TÃº estÃ¡s haciendo experimentos con mi tribu?}
+{163}{}{Â¿QuÃ© demonios es el "Proyecto"?}
+{164}{}{Ya he oÃ­do suficiente. Debes ser exterminado como un gecko rabioso. AdiÃ³s, cabrÃ³n.}
+{165}{}{En principio hay ciertos cambios muy sutiles. TodavÃ­a no he tenido tiempo de estudiar sus ramificaciones. AdemÃ¡s, tendrÃ­a que rastrear hacia atrÃ¡s vuestra muestra genÃ©tica inicial para aislarla, antes de aventurar alguna idea sobre la direcciÃ³n que estÃ¡n tomando los cambios. Sin embargo, la informaciÃ³n actual ya es lo suficientemente clara.}
+{166}{}{Â¿Suficientemente clara? Â¿QuÃ© informaciÃ³n?}
+{167}{}{SÃ­, tal vez. DÃ©jame preguntarte algo mÃ¡s, doctor.}
+{168}{}{La informaciÃ³n de que tÃº y tu tribu ya no sois humanos, por supuesto. Aunque tu tribu saliÃ³ de un Refugio (el 13, Â¿verdad?) hace sÃ³lo unos ochenta aÃ±os, se puede asegurar que ha estado comprometida. SÃ­, me temo que la conclusiÃ³n es inevitable.}
+{169}{}{Â¿ConclusiÃ³n? Â¿QuÃ© conclusiÃ³n?}
+{170}{}{CreÃ­a haberlo explicado claramente. La conclusiÃ³n de que tÃº, y todos los de tu tipo, ya no sois seres humanos. Con el fin de recuperar la Tierra y mantener la integridad de la raza humana, todos los mutantes como tÃº deben ser destruidos.}
+{171}{}{Â¿Destruidos? Â¿A quÃ© te refieres?}
+{172}{}{El Proyecto al que el Enclave se ha dedicado durante las Ãºltimas dÃ©cadas ha sido el restablecimiento de la raza humana, empezando por Estados Unidos. Dios bendiga AmÃ©rica.}
+{173}{}{No parece que hayan hecho falta dÃ©cadas para planearlo.}
+{174}{}{Ya basta de ese tema. DÃ©jame preguntarte algo mÃ¡s.}
+{175}{}{Oh, acaba de establecer un puesto de avanzada, no tomarÃ¡ mucho tiempo. Hemos hecho ya que en Navarro. Pero ha tomado un largo tiempo para trabajar con el mÃ©todo apropiado para la erradicaciÃ³n de procedimiento.}
+{176}{}{Â¿Proceso de erradicaciÃ³n?}
+{177}{}{SÃ­, claro, no podemos arriesgarnos a volver a tierra firme para terminar contaminados por los cuasi-humanos que la habitan. Con el fin de hacer a los Estados Unidos seguros para los autÃ©nticos humanos, en primer lugar todos los mutantes deben ser exterminados.}
+{178}{}{Â¡Â¿Â¡QuÃ©!?! Â¿EstÃ¡s loco? Â¡Eso es monstruoso!}
+{179}{}{Â¿Exterminados? Â¿CÃ³mo vais a hacerlo?}
+{180}{}{No lo creo. Prefiero verlo como la mÃ¡xima expresiÃ³n del darwinismo social. La supervivencia de aquellos que aseguren mÃ¡s eficazmente su propia reproducciÃ³n. El triunfo de las generaciones futuras, de toda la raza humana, depende de nosotros.}
+{181}{}{El cambio probablemente es una constante universal. SÃ³lo porque seamos diferentes no significa que seamos malos. Es mÃ¡s, somos la prueba de la resistencia de la raza humana a los cambios. Como tales, merecerÃ­amos sobrevivir *mÃ¡s* que tu gente.}
+{182}{}{Â¿Te has parado a pensar que aunque seamos diferentes somos tan humanos como vosotros?}
+{183}{}{TÃº no tendrÃ¡s generaciones futuras, doctor. Porque vas a estar muerto.}
 {184}{}{Nunca me he parado a pensarlo de esa forma... por favor, dame un minuto mientras lo pienso cuidadosamente.}
-{185}{}{Está bien. Tómate tu tiempo, doctor. Es un concepto grande para asumirlo.}
-{186}{}{No tienes un minuto. Tu tiempo se ha acabado hace mucho. Adiós, gilipolla.}
-{187}{}{Eso es ridículo. Eres más una vaca mutada de dos cabezas que un humano normal como yo.}
-{188}{}{Si alguna vez hubo vacas de una sola cabeza, llevan muertas mucho tiempo. Pero la vaca, como especie, ha evolucionado y crecido más fuerte. El cambio es una parte integral en el orden natural.}
+{185}{}{EstÃ¡ bien. TÃ³mate tu tiempo, doctor. Es un concepto grande para asumirlo.}
+{186}{}{No tienes un minuto. Tu tiempo se ha acabado hace mucho. AdiÃ³s, gilipolla.}
+{187}{}{Eso es ridÃ­culo. Eres mÃ¡s una vaca mutada de dos cabezas que un humano normal como yo.}
+{188}{}{Si alguna vez hubo vacas de una sola cabeza, llevan muertas mucho tiempo. Pero la vaca, como especie, ha evolucionado y crecido mÃ¡s fuerte. El cambio es una parte integral en el orden natural.}
 {189}{}{Matar a todos en tierra firme simplemente es una locura.}
 {190}{}{Estoy cansado de toda esta mierda. Es hora de conocer a tu hacedor, doctor Muerte.}
-{191}{}{Es obvio que no eres capaz de entender lo que estoy tratando de decir. Es inútil. Deberías irte ahora.}
-{192}{}{Bueno, lo intenté. Hora de morir, fanático.}
-{193}{}{De acuerdo, me voy. Uno de los dos no tiene remedio, y creo que no soy yo. Adiós.}
-{194}{}{Estudios toxicológicos sobre la efectividad de la toxina V.E.F, sí.}
-{195}{}{¿La toxina V.E.F? ¿Qué es eso?}
-{196}{}{Déjame preguntarte algo más.}
-{197}{}{La toxina V.E.F es la solución perfecta para nuestro difícil problema.}
-{198}{}{¿Qué es la toxina V.E.F?}
-{199}{}{Espera un minuto. Déjame preguntarte sobre otra cosa.}
-{200}{}{Una de nuestras patrullas encontró el área de investigación, y muchas muestras del virus V.E.F en una antigua base militar que fue casi completamente destruida.}
-{201}{}{De acuerdo, ahora sé donde lo encontrasteis, pero... ¿qué es lo que hace?}
-{202}{}{Inicialmente el virus V.E.F se diseñó para convertir a humanos en super-soldados. El experimento parece que fue un completo fracaso, aunque yo probé una modificación del virus en uno de nuestros agentes del Servicio Secreto, con cierto éxito.}
-{203}{}{Bien por ti pero, ¿qué tiene esto que ver con erradicar a todos?}
-{204}{}{Oh, sí, bueno, yo era llegar a eso... La F. E. V. el virus de la fianza es específica de la especie, sólo vínculo con los humanos de la glicoproteína. Sólo tomó un par de años para ajustar la F. E. V. virus para hacer que sea más letal de lo que ya era. El resultado fue justo lo que recetó el doctor, perfecto en todos los sentidos. }
-{205}{}{¿Perfecto? ¿Cómo?}
-{206}{}{¿No es obvio, mi amigo mutante? El V.E.F es, gracias a mí, una toxina letal, y gracias a cierto misterioso genio llamado, de forma bastante melodramática, el Maestro, sólo funciona en humanos, mutados o no.}
-{207}{}{¿Y?}
-{208}{}{Eso significa que tenemos el dispositivo perfecto para la eliminación de los cuasi-humanos que infectan el globo. }
-{209}{}{Sigo sin entender cómo eso puede ser "perfecto".}
+{191}{}{Es obvio que no eres capaz de entender lo que estoy tratando de decir. Es inÃºtil. DeberÃ­as irte ahora.}
+{192}{}{Bueno, lo intentÃ©. Hora de morir, fanÃ¡tico.}
+{193}{}{De acuerdo, me voy. Uno de los dos no tiene remedio, y creo que no soy yo. AdiÃ³s.}
+{194}{}{Estudios toxicolÃ³gicos sobre la efectividad de la toxina V.E.F, sÃ­.}
+{195}{}{Â¿La toxina V.E.F? Â¿QuÃ© es eso?}
+{196}{}{DÃ©jame preguntarte algo mÃ¡s.}
+{197}{}{La toxina V.E.F es la soluciÃ³n perfecta para nuestro difÃ­cil problema.}
+{198}{}{Â¿QuÃ© es la toxina V.E.F?}
+{199}{}{Espera un minuto. DÃ©jame preguntarte sobre otra cosa.}
+{200}{}{Una de nuestras patrullas encontrÃ³ el Ã¡rea de investigaciÃ³n, y muchas muestras del virus V.E.F en una antigua base militar que fue casi completamente destruida.}
+{201}{}{De acuerdo, ahora sÃ© donde lo encontrasteis, pero... Â¿quÃ© es lo que hace?}
+{202}{}{Inicialmente el virus V.E.F se diseÃ±Ã³ para convertir a humanos en super-soldados. El experimento parece que fue un completo fracaso, aunque yo probÃ© una modificaciÃ³n del virus en uno de nuestros agentes del Servicio Secreto, con cierto Ã©xito.}
+{203}{}{Bien por ti pero, Â¿quÃ© tiene esto que ver con erradicar a todos?}
+{204}{}{Oh, sÃ­, bueno, yo era llegar a eso... La F. E. V. el virus de la fianza es especÃ­fica de la especie, sÃ³lo vÃ­nculo con los humanos de la glicoproteÃ­na. SÃ³lo tomÃ³ un par de aÃ±os para ajustar la F. E. V. virus para hacer que sea mÃ¡s letal de lo que ya era. El resultado fue justo lo que recetÃ³ el doctor, perfecto en todos los sentidos. }
+{205}{}{Â¿Perfecto? Â¿CÃ³mo?}
+{206}{}{Â¿No es obvio, mi amigo mutante? El V.E.F es, gracias a mÃ­, una toxina letal, y gracias a cierto misterioso genio llamado, de forma bastante melodramÃ¡tica, el Maestro, sÃ³lo funciona en humanos, mutados o no.}
+{207}{}{Â¿Y?}
+{208}{}{Eso significa que tenemos el dispositivo perfecto para la eliminaciÃ³n de los cuasi-humanos que infectan el globo. }
+{209}{}{Sigo sin entender cÃ³mo eso puede ser "perfecto".}
 {210}{}{Quiero preguntarte sobre tus otras locas ideas.}
-{211}{}{La toxina V.E.F sólo atacará a humanos, dejando todo lo demás vivo. Mejor aún, en menos de un mes todos lo mutantes estarán muertos y la toxina V.E.F se extinguirá tan pronto acabe con sus anfitriones.}
+{211}{}{La toxina V.E.F sÃ³lo atacarÃ¡ a humanos, dejando todo lo demÃ¡s vivo. Mejor aÃºn, en menos de un mes todos lo mutantes estarÃ¡n muertos y la toxina V.E.F se extinguirÃ¡ tan pronto acabe con sus anfitriones.}
 {212}{}{No puede haber suficientes vertibird para esparcir la toxina por todo el mundo.}
-{213}{}{Voy a hacerte anfitrión de unos cuantos proyectiles de alta energía. Reza tus oraciones.}
-{214}{}{Tienes razón, no los hay. Pero no los necesitamos. Tenemos un sistema de liberación que esparcirá la toxina V.E.F desde las cubas hasta la superficie. La reacción en cadena se encargará de todo lo demás. Saturación global en dos semanas.}
-{215}{}{¿Dos semanas?}
-{216}{}{Sí, dos semanas para que el virus se esparza, otro mes para que cumpla su ciclo, y entonces los Estados Unidos estarán listos para la re-colonización con verdaderos humanos. Nuestra especie se habrá salvado.}
-{217}{}{De verdad crees que haces lo correcto, ¿no es así?}
-{218}{}{Y tú eres un gran humanitario. Me iré antes de que no pueda contener el impulso de matarte. Adiós.}
-{219}{}{Quizá tu especie se salve, pero definitivamente tú no lo harás.}
-{220}{}{Sí, lo creo. No hay un precio demasiado alto si se habla de la salvación de la humanidad.}
-{221}{}{Me gustaría estar de acuerdo en eso. ¿No has pensado que los *mutantes*, como tú los llamas, sólo son otro tipo de humanos?}
-{222}{}{Me gustaría estar de acuerdo contigo, doctor. Creo que voy a hacer algo bueno por los mutantes. ¡Empezando contigo!}
+{213}{}{Voy a hacerte anfitriÃ³n de unos cuantos proyectiles de alta energÃ­a. Reza tus oraciones.}
+{214}{}{Tienes razÃ³n, no los hay. Pero no los necesitamos. Tenemos un sistema de liberaciÃ³n que esparcirÃ¡ la toxina V.E.F desde las cubas hasta la superficie. La reacciÃ³n en cadena se encargarÃ¡ de todo lo demÃ¡s. SaturaciÃ³n global en dos semanas.}
+{215}{}{Â¿Dos semanas?}
+{216}{}{SÃ­, dos semanas para que el virus se esparza, otro mes para que cumpla su ciclo, y entonces los Estados Unidos estarÃ¡n listos para la re-colonizaciÃ³n con verdaderos humanos. Nuestra especie se habrÃ¡ salvado.}
+{217}{}{De verdad crees que haces lo correcto, Â¿no es asÃ­?}
+{218}{}{Y tÃº eres un gran humanitario. Me irÃ© antes de que no pueda contener el impulso de matarte. AdiÃ³s.}
+{219}{}{QuizÃ¡ tu especie se salve, pero definitivamente tÃº no lo harÃ¡s.}
+{220}{}{SÃ­, lo creo. No hay un precio demasiado alto si se habla de la salvaciÃ³n de la humanidad.}
+{221}{}{Me gustarÃ­a estar de acuerdo en eso. Â¿No has pensado que los *mutantes*, como tÃº los llamas, sÃ³lo son otro tipo de humanos?}
+{222}{}{Me gustarÃ­a estar de acuerdo contigo, doctor. Creo que voy a hacer algo bueno por los mutantes. Â¡Empezando contigo!}
 {223}{}{Te dije que necesito un momento para pensar en esto.}
 {224}{}{De verdad que necesito tiempo para reflexionar.}
-{225}{}{Esta no es una decisión instantánea.}
+{225}{}{Esta no es una decisiÃ³n instantÃ¡nea.}
 {226}{}{Tengo que pensar sobre esto.}
-{227}{}{Dame un momento, ¿quieres?}
-{228}{}{Odio admitir esto, pero creo que tienes razón. Lo que habíamos planeado simplemente no es correcto. Estaba tan cegado intentando saltar los obstáculos que no pensé en la moralidad de mi misión.}
-{229}{}{Bien, ahora que has reflexionado, deberías destruir la toxina.}
-{230}{}{Eso podría... no, eso no funcionaría.}
-{231}{}{¿Por qué no?}
-{232}{}{Porque ellos empezarían de nuevo. Incluso conmigo muerto, hay suficientes datos entre aquí y Navarro para reproducir mi trabajo. Solo algo más drástico sería la solución.}
-{233}{}{¿Más drástico? ¿A qué te refieres?}
-{234}{}{El Enclave debe ser destruido. Por completo. De no ser así, simplemente unirán las piezas y empezarán de nuevo en otro lugar.}
-{235}{}{Lamento oír eso. Eh, doctor: ¿cómo sugieres que el Enclave sea destruido?}
-{236}{}{Creo que la mejor manera sería soltar la toxina V.E.F en el sistema de filtración de aire. Como el Enclave es un sistema sellado, la toxina debería encargarse de todos.}
-{237}{}{¿Y qué pasa con mi gente? ¿O conmigo? ¿O contigo, por cierto?}
-{238}{}{Puedo liberar el antídoto en el sistema de aire de las celdas. El área de detención tiene un sistema de ventilación separado del resto del Enclave. Todos pensarán que sólo estoy haciendo otra prueba. En cuanto a ti, te puedo inocular directamente, aquí y ahora (se acerca a ti con una jeringuilla).}
-{239}{}{Caramba, gracias, doctor. ¿Qué sucederá cuando se libere la toxina V.E.F?}
-{240}{}{¡Oye, espera un minuto, ¡no me vas a pinchar con eso!}
-{241}{}{Nada agradable. Deberías irte lo antes posible. Pero prefiero que en mi conciencia quede el peso de sólo mil antes que de mil millones. Nuestro tiempo se acabó. Tuvimos nuestra oportunidad.}
-{242}{}{¿Cómo puedo liberar a mi gente del área de detención?}
-{243}{}{Probablemente deberías cortar la corriente eléctrica. Sé que el reactor está controlado por una gran computadora cerca del reactor, pero no sé exactamente qué tendrás que hacer para apagarlo.}
-{244}{}{Gracias por la información. Tu sacrificio será recordado por todas las personas de la Tierra.}
-{245}{}{Ya era hora de que entraras en razón, viejo idiota. Ahora muévete.}
+{227}{}{Dame un momento, Â¿quieres?}
+{228}{}{Odio admitir esto, pero creo que tienes razÃ³n. Lo que habÃ­amos planeado simplemente no es correcto. Estaba tan cegado intentando saltar los obstÃ¡culos que no pensÃ© en la moralidad de mi misiÃ³n.}
+{229}{}{Bien, ahora que has reflexionado, deberÃ­as destruir la toxina.}
+{230}{}{Eso podrÃ­a... no, eso no funcionarÃ­a.}
+{231}{}{Â¿Por quÃ© no?}
+{232}{}{Porque ellos empezarÃ­an de nuevo. Incluso conmigo muerto, hay suficientes datos entre aquÃ­ y Navarro para reproducir mi trabajo. Solo algo mÃ¡s drÃ¡stico serÃ­a la soluciÃ³n.}
+{233}{}{Â¿MÃ¡s drÃ¡stico? Â¿A quÃ© te refieres?}
+{234}{}{El Enclave debe ser destruido. Por completo. De no ser asÃ­, simplemente unirÃ¡n las piezas y empezarÃ¡n de nuevo en otro lugar.}
+{235}{}{Lamento oÃ­r eso. Eh, doctor: Â¿cÃ³mo sugieres que el Enclave sea destruido?}
+{236}{}{Creo que la mejor manera serÃ­a soltar la toxina V.E.F en el sistema de filtraciÃ³n de aire. Como el Enclave es un sistema sellado, la toxina deberÃ­a encargarse de todos.}
+{237}{}{Â¿Y quÃ© pasa con mi gente? Â¿O conmigo? Â¿O contigo, por cierto?}
+{238}{}{Puedo liberar el antÃ­doto en el sistema de aire de las celdas. El Ã¡rea de detenciÃ³n tiene un sistema de ventilaciÃ³n separado del resto del Enclave. Todos pensarÃ¡n que sÃ³lo estoy haciendo otra prueba. En cuanto a ti, te puedo inocular directamente, aquÃ­ y ahora (se acerca a ti con una jeringuilla).}
+{239}{}{Caramba, gracias, doctor. Â¿QuÃ© sucederÃ¡ cuando se libere la toxina V.E.F?}
+{240}{}{Â¡Oye, espera un minuto, Â¡no me vas a pinchar con eso!}
+{241}{}{Nada agradable. DeberÃ­as irte lo antes posible. Pero prefiero que en mi conciencia quede el peso de sÃ³lo mil antes que de mil millones. Nuestro tiempo se acabÃ³. Tuvimos nuestra oportunidad.}
+{242}{}{Â¿CÃ³mo puedo liberar a mi gente del Ã¡rea de detenciÃ³n?}
+{243}{}{Probablemente deberÃ­as cortar la corriente elÃ©ctrica. SÃ© que el reactor estÃ¡ controlado por una gran computadora cerca del reactor, pero no sÃ© exactamente quÃ© tendrÃ¡s que hacer para apagarlo.}
+{244}{}{Gracias por la informaciÃ³n. Tu sacrificio serÃ¡ recordado por todas las personas de la Tierra.}
+{245}{}{Ya era hora de que entraras en razÃ³n, viejo idiota. Ahora muÃ©vete.}
 {246}{}{Cuando las estrellas arrojaron sus lanzas,}
-{247}{}{                      y mojaron el cielo con sus lágrimas,}
-{248}{}{                            ¿sonrió al contemplar su obra?}
-{249}{}{¿Aquel que hizo al cordero, te hizo a ti?}
-{250}{}{¿Eh?}
-{251}{}{Oh, sólo es algo que he recordado de un poeta muerto hace mucho. Me estaba preguntando si todavía hay un lugar para aquellos que trabajaron en un camino tan oscuro por tanto tiempo. Se acabó nuestro tiempo, el vuestro acaba de comenzar. ¡Vete!}
+{247}{}{                      y mojaron el cielo con sus lÃ¡grimas,}
+{248}{}{                            Â¿sonriÃ³ al contemplar su obra?}
+{249}{}{Â¿Aquel que hizo al cordero, te hizo a ti?}
+{250}{}{Â¿Eh?}
+{251}{}{Oh, sÃ³lo es algo que he recordado de un poeta muerto hace mucho. Me estaba preguntando si todavÃ­a hay un lugar para aquellos que trabajaron en un camino tan oscuro por tanto tiempo. Se acabÃ³ nuestro tiempo, el vuestro acaba de comenzar. Â¡Vete!}
 {252}{}{Oh, de acuerdo, gracias por toda tu ayuda. Eres un hombre valiente.}
-{253}{}{Eres un loco... pero un loco útil. Adiós.}
-{254}{}{¡Vámonos!}
-{255}{}{Vete de aquí.}
-{256}{}{¡Muévete!}
-{257}{}{¡No tienes tiempo para esto!}
-{258}{}{¡Vete mientras puedas!}
-{259}{}{¿Qué es lo que no entiendes? Sin la vacuna estarás muerto en cuestión de horas.}
-{260}{}{Oh, si es así, de acuerdo. Pínchame, doctor. ¿Qué es lo que ocurrirá cuando la toxina V.E.F se libere?}
-{261}{}{Sin agujas no hay forma, cómo no. Me arriesgaré.}
-{262}{}{Nunca lograrás salvar a tu pueblo a menos que estés vacunado. ¿Cuál es el problema? ¿Le temes a un pequeño pinchazo?}
-{263}{}{No, supongo que no. Mientras no te vea hacerlo. ¡Caramba! Entonces, ¿qué ocurrirá cuando la toxina V.E.F se libere?}
+{253}{}{Eres un loco... pero un loco Ãºtil. AdiÃ³s.}
+{254}{}{Â¡VÃ¡monos!}
+{255}{}{Vete de aquÃ­.}
+{256}{}{Â¡MuÃ©vete!}
+{257}{}{Â¡No tienes tiempo para esto!}
+{258}{}{Â¡Vete mientras puedas!}
+{259}{}{Â¿QuÃ© es lo que no entiendes? Sin la vacuna estarÃ¡s muerto en cuestiÃ³n de horas.}
+{260}{}{Oh, si es asÃ­, de acuerdo. PÃ­nchame, doctor. Â¿QuÃ© es lo que ocurrirÃ¡ cuando la toxina V.E.F se libere?}
+{261}{}{Sin agujas no hay forma, cÃ³mo no. Me arriesgarÃ©.}
+{262}{}{Nunca lograrÃ¡s salvar a tu pueblo a menos que estÃ©s vacunado. Â¿CuÃ¡l es el problema? Â¿Le temes a un pequeÃ±o pinchazo?}
+{263}{}{No, supongo que no. Mientras no te vea hacerlo. Â¡Caramba! Entonces, Â¿quÃ© ocurrirÃ¡ cuando la toxina V.E.F se libere?}

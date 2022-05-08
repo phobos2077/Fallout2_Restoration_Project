@@ -1,115 +1,115 @@
-{100}{}{Widzisz jednego ze stra¿ników przy bramie Kryptopolis.}
-{101}{}{Widzisz czujnego stra¿nika. Odziany jest w stalow¹ zbrojê a w rêku trzyma groŸnie wygl¹daj¹c¹ strzelbê.}
-{102}{}{Hej! Uciekaj stamt¹d!}
-{103}{}{Raz ju¿ ciê ostrzegaliœmy...}
-{104}{}{Hej! To pogromca Enklawy. Otwórzcie bramê.}
-{105}{}{Dzieñ dobry, Kapitanie.}
-{106}{}{To dla mnie zaszczyt, ¿e z tob¹ rozmawiam.}
+{100}{}{Widzisz jednego ze straÅ¼nikÃ³w przy bramie Kryptopolis.}
+{101}{}{Widzisz czujnego straÅ¼nika. Odziany jest w stalowÄ… zbrojÄ™ a w rÄ™ku trzyma groÅºnie wyglÄ…dajÄ…cÄ… strzelbÄ™.}
+{102}{}{Hej! Uciekaj stamtÄ…d!}
+{103}{}{Raz juÅ¼ ciÄ™ ostrzegaliÅ›my...}
+{104}{}{Hej! To pogromca Enklawy. OtwÃ³rzcie bramÄ™.}
+{105}{}{DzieÅ„ dobry, Kapitanie.}
+{106}{}{To dla mnie zaszczyt, Å¼e z tobÄ… rozmawiam.}
 {107}{}{Tak jest!}
 {108}{}{Kryptopolis na wieki, Kapitanie.}
-{109}{}{Przykro mi, Obywatelu, ale ghule maj¹ zakaz wstêpu do Kryptopolis.}
-{110}{}{Przykro mi, Obywatelu, ale mutanci maj¹ zakaz wstêpu do Kryptopolis.}
-{111}{}{Ten ghul ma siê natychmiast odsun¹æ od bramy!}
-{112}{}{Ten mutant ma siê natychmiast odsun¹æ od bramy.}
-{113}{}{Dzieñ dobry, Obywatelu.}
-{114}{}{Dobrze ciê widzieæ, Obywatelu.}
+{109}{}{Przykro mi, Obywatelu, ale ghule majÄ… zakaz wstÄ™pu do Kryptopolis.}
+{110}{}{Przykro mi, Obywatelu, ale mutanci majÄ… zakaz wstÄ™pu do Kryptopolis.}
+{111}{}{Ten ghul ma siÄ™ natychmiast odsunÄ…Ä‡ od bramy!}
+{112}{}{Ten mutant ma siÄ™ natychmiast odsunÄ…Ä‡ od bramy.}
+{113}{}{DzieÅ„ dobry, Obywatelu.}
+{114}{}{Dobrze ciÄ™ widzieÄ‡, Obywatelu.}
 {115}{}{Kryptopolis ponad wszystkim, Obywatelu.}
-{116}{}{Wynoœ siê st¹d.}
+{116}{}{WynoÅ› siÄ™ stÄ…d.}
 {117}{}{Spadaj.}
-{118}{}{Masz jakiœ problem? A mo¿e dopiero szukasz k³opotów?}
-{119}{}{Nie chcê ciê skrzywdziæ.}
-{120}{}{Nie ma przeszkód. Mo¿esz wejœæ.}
-{121}{}{Dzieñ dobry, przybyszu.}
+{118}{}{Masz jakiÅ› problem? A moÅ¼e dopiero szukasz kÅ‚opotÃ³w?}
+{119}{}{Nie chcÄ™ ciÄ™ skrzywdziÄ‡.}
+{120}{}{Nie ma przeszkÃ³d. MoÅ¼esz wejÅ›Ä‡.}
+{121}{}{DzieÅ„ dobry, przybyszu.}
 {122}{}{Witaj ponownie.}
-{123}{}{Twoja walka z Enklawa zrobi³a wra¿enie nawet na Pierwszym Obywatelu.}
-{124}{}{Podobno uda³o ci siê dotrzeæ do samego San Francisco. Czy to prawda?}
-{125}{}{Czy to prawda, ¿e USA wci¹¿ toczy³y wojnê?}
-{126}{}{Musisz koniecznie z³o¿yæ raport ze swoich podró¿y w komputerze Kryptopolis.}
-{127}{}{Mo¿esz zostaæ w Kryptopolis tak d³ugo jak tylko zechcesz.}
-{128}{}{Musisz koniecznie spisaæ dzieje twojej wyprawy przeciw Enklawie i umieœciæ je w komputerze Kryptopolis.}
-{129}{}{Ghulom wstêp wzbroniony. Zabierz st¹d... to coœ. I to szybko.}
-{130}{}{Mutantom wstêp wzbroniony. Zabierz st¹d... to coœ. I to szybko.}
-{131}{}{Stój, przyjacielu. Nikt nie przejdzie za ten posterunek bez odpowiedniego upowa¿nienia.}
-{132}{}{Pobiednie kupo-wa¿enie?}
-{133}{}{OdejdŸ bez s³owa.}
-{134}{}{Odpowiednie upowa¿nienie?}
+{123}{}{Twoja walka z Enklawa zrobiÅ‚a wraÅ¼enie nawet na Pierwszym Obywatelu.}
+{124}{}{Podobno udaÅ‚o ci siÄ™ dotrzeÄ‡ do samego San Francisco. Czy to prawda?}
+{125}{}{Czy to prawda, Å¼e USA wciÄ…Å¼ toczyÅ‚y wojnÄ™?}
+{126}{}{Musisz koniecznie zÅ‚oÅ¼yÄ‡ raport ze swoich podrÃ³Å¼y w komputerze Kryptopolis.}
+{127}{}{MoÅ¼esz zostaÄ‡ w Kryptopolis tak dÅ‚ugo jak tylko zechcesz.}
+{128}{}{Musisz koniecznie spisaÄ‡ dzieje twojej wyprawy przeciw Enklawie i umieÅ›ciÄ‡ je w komputerze Kryptopolis.}
+{129}{}{Ghulom wstÄ™p wzbroniony. Zabierz stÄ…d... to coÅ›. I to szybko.}
+{130}{}{Mutantom wstÄ™p wzbroniony. Zabierz stÄ…d... to coÅ›. I to szybko.}
+{131}{}{StÃ³j, przyjacielu. Nikt nie przejdzie za ten posterunek bez odpowiedniego upowaÅ¼nienia.}
+{132}{}{Pobiednie kupo-waÅ¼enie?}
+{133}{}{OdejdÅº bez sÅ‚owa.}
+{134}{}{Odpowiednie upowaÅ¼nienie?}
 {135}{}{No to trudno.}
-{136}{}{Zewnêtrzny œwiat jest podobno pe³en takich jak ty, ale w Kryptopolis was nie chcemy. Rozumiesz, przyg³upie? Wynoœ siê st¹d, zanim coœ ci siê stanie!}
-{137}{}{MOJA NIE IŒÆ!}
-{138}{}{OdejdŸ bez s³owa.}
-{139}{}{Tak, "Odpowiednie upowa¿nienie."}
-{140}{}{Jeœli chcesz siê dostaæ do Kryptopolis, musisz porozmawiaæ z Komisarzem Celnym, Wallacem. Od niego dostaniesz Dzienn¹ Przepustkê.}
-{141}{}{Gdzie znajdê Wallace'a?}
+{136}{}{ZewnÄ™trzny Å›wiat jest podobno peÅ‚en takich jak ty, ale w Kryptopolis was nie chcemy. Rozumiesz, przygÅ‚upie? WynoÅ› siÄ™ stÄ…d, zanim coÅ› ci siÄ™ stanie!}
+{137}{}{MOJA NIE IÅšÄ†!}
+{138}{}{OdejdÅº bez sÅ‚owa.}
+{139}{}{Tak, "Odpowiednie upowaÅ¼nienie."}
+{140}{}{JeÅ›li chcesz siÄ™ dostaÄ‡ do Kryptopolis, musisz porozmawiaÄ‡ z Komisarzem Celnym, Wallacem. Od niego dostaniesz DziennÄ… PrzepustkÄ™.}
+{141}{}{Gdzie znajdÄ™ Wallace'a?}
 {142}{}{Dzienna Przepustka? A co to takiego?}
-{143}{}{Dobra, dziêki.}
+{143}{}{Dobra, dziÄ™ki.}
 {144}{}{Wallace jest w budynku odpraw celnych, tutaj obok. }
-{145}{}{Nie tamuj ruchu! Nie mamy czasu na pogawêdki z takimi jak ty.}
+{145}{}{Nie tamuj ruchu! Nie mamy czasu na pogawÄ™dki z takimi jak ty.}
 {146}{}{Co to jest Dzienna Przepustka?}
-{147}{}{Dziêki za pomoc. Do zobaczenia.}
-{148}{}{Dzienna Przepustka pozwoli ci wejœæ do miasta... jeœli masz tam jakieœ interesy do za³atwienia. }
-{149}{}{Nie tamuj ruchu! Nie mamy czasu na pogawêdki z takimi jak ty.}
-{150}{}{Gdzie znajdê Wallace'a?}
-{151}{}{Dziêki za pomoc. Do zobaczenia.}
-{152}{}{¯eby dostaæ siê do miasta musisz mieæ Dzienn¹ Przepustkê.}
-{153}{}{Zdob¹dŸ Dzienn¹ Przepustkê. Wtedy ciê wpuœcimy.}
-{154}{}{Trzymaj siê z dala od bramy.}
-{155}{}{Przestañ siê w³óczyæ bez celu.}
-{156}{}{Masz Dzienn¹ Przepustkê?}
+{147}{}{DziÄ™ki za pomoc. Do zobaczenia.}
+{148}{}{Dzienna Przepustka pozwoli ci wejÅ›Ä‡ do miasta... jeÅ›li masz tam jakieÅ› interesy do zaÅ‚atwienia. }
+{149}{}{Nie tamuj ruchu! Nie mamy czasu na pogawÄ™dki z takimi jak ty.}
+{150}{}{Gdzie znajdÄ™ Wallace'a?}
+{151}{}{DziÄ™ki za pomoc. Do zobaczenia.}
+{152}{}{Å»eby dostaÄ‡ siÄ™ do miasta musisz mieÄ‡ DziennÄ… PrzepustkÄ™.}
+{153}{}{ZdobÄ…dÅº DziennÄ… PrzepustkÄ™. Wtedy ciÄ™ wpuÅ›cimy.}
+{154}{}{Trzymaj siÄ™ z dala od bramy.}
+{155}{}{PrzestaÅ„ siÄ™ wÅ‚Ã³czyÄ‡ bez celu.}
+{156}{}{Masz DziennÄ… PrzepustkÄ™?}
 {157}{}{Nie.}
 {158}{}{Nie, ale jestem Obywatelem.}
-{159}{}{Jak *œmiesz* mnie tak przes³uchiwaæ?! Jestem Obywatelem! Oto moje papiery!}
-{160}{}{Obywatel, tak? Poka¿ swoje papiery.}
+{159}{}{Jak *Å›miesz* mnie tak przesÅ‚uchiwaÄ‡?! Jestem Obywatelem! Oto moje papiery!}
+{160}{}{Obywatel, tak? PokaÅ¼ swoje papiery.}
 {161}{}{Eee... Chyba nie mam ich przy sobie.}
-{162}{}{Proszê bardzo.}
-{163}{}{To nieporozumienie. Pytam: jak mo¿na otrzymaæ obywatelstwo?}
-{164}{}{Przepraszam, Obywatelu. Nie chcia³em byæ nieuprzejmy. Oczywiœcie, mo¿esz wejœæ.}
+{162}{}{ProszÄ™ bardzo.}
+{163}{}{To nieporozumienie. Pytam: jak moÅ¼na otrzymaÄ‡ obywatelstwo?}
+{164}{}{Przepraszam, Obywatelu. Nie chciaÅ‚em byÄ‡ nieuprzejmy. OczywiÅ›cie, moÅ¼esz wejÅ›Ä‡.}
 {165}{}{Dobrze.}
-{166}{}{S³uchaj, "Obywatelu", bez Dziennej Przepustki nie wejdziesz do œrodka. I nie próbuj mnie wiêcej nabraæ.}
-{167}{}{(OdejdŸ.)}
-{168}{}{Hmmm... wygl¹daj¹ w porz¹dku. Dziwne, jakoœ sobie ciebie nie przypominam.}
-{169}{}{To mo¿e coœ nie tak z twoj¹ pamiêci¹. Mam spotkanie z Pierwszym Obywatelem. On mnie oczekuje.}
-{170}{}{Mam nadziejê, ¿e tym razem mnie zapamiêtasz.}
-{171}{}{Ale¿ tak, mam obywatelstwo we wszystkich Kryptach.}
-{172}{}{Jakoœ siê chyba nie z³o¿y³o. Mi³o mi ciê poznaæ.}
-{173}{}{O, naprawdê? S³uchaj, nie wiem kim jesteœ, ale obywatelstwa nie masz na pewno. Oddawaj te papiery i wynoœ siê st¹d! Jak chcesz wejœæ do œrodka, to zg³oœ siê do Wallace'a po Dzienn¹ Przepustkê, jak wszyscy inni.}
-{174}{}{Chcesz te papiery? To chodŸ i je weŸ!}
-{175}{}{Gdzie znajdê Wallace'a?}
-{176}{}{W porz¹dku. Do zobaczenia.}
-{177}{}{No dobrze, mo¿esz wejœæ. Kryptopolis na wieki, Obywatelu.}
+{166}{}{SÅ‚uchaj, "Obywatelu", bez Dziennej Przepustki nie wejdziesz do Å›rodka. I nie prÃ³buj mnie wiÄ™cej nabraÄ‡.}
+{167}{}{(OdejdÅº.)}
+{168}{}{Hmmm... wyglÄ…dajÄ… w porzÄ…dku. Dziwne, jakoÅ› sobie ciebie nie przypominam.}
+{169}{}{To moÅ¼e coÅ› nie tak z twojÄ… pamiÄ™ciÄ…. Mam spotkanie z Pierwszym Obywatelem. On mnie oczekuje.}
+{170}{}{Mam nadziejÄ™, Å¼e tym razem mnie zapamiÄ™tasz.}
+{171}{}{AleÅ¼ tak, mam obywatelstwo we wszystkich Kryptach.}
+{172}{}{JakoÅ› siÄ™ chyba nie zÅ‚oÅ¼yÅ‚o. MiÅ‚o mi ciÄ™ poznaÄ‡.}
+{173}{}{O, naprawdÄ™? SÅ‚uchaj, nie wiem kim jesteÅ›, ale obywatelstwa nie masz na pewno. Oddawaj te papiery i wynoÅ› siÄ™ stÄ…d! Jak chcesz wejÅ›Ä‡ do Å›rodka, to zgÅ‚oÅ› siÄ™ do Wallace'a po DziennÄ… PrzepustkÄ™, jak wszyscy inni.}
+{174}{}{Chcesz te papiery? To chodÅº i je weÅº!}
+{175}{}{Gdzie znajdÄ™ Wallace'a?}
+{176}{}{W porzÄ…dku. Do zobaczenia.}
+{177}{}{No dobrze, moÅ¼esz wejÅ›Ä‡. Kryptopolis na wieki, Obywatelu.}
 {178}{}{Hmm, no tak... Kryptopolis na wieki, Obywatelu.}
-{179}{}{Dziêkujê.}
-{180}{}{Poproszê Dzienn¹ Przepustkê.}
+{179}{}{DziÄ™kujÄ™.}
+{180}{}{PoproszÄ™ DziennÄ… PrzepustkÄ™.}
 {181}{}{Trzymaj.}
-{182}{}{Nie potrzebujê Przepustki. Jestem Obywatelem.}
-{183}{}{Tak tylko zagl¹dam, ¿eby sprawdziæ, co u was s³ychaæ.}
-{184}{}{Nie mam czasu na pogaduszki, rozumiesz? A teraz wynoœ siê st¹d.}
-{185}{}{Dobra ju¿, w porz¹dku. Staram siê zachowywaæ przyjaŸnie...}
-{186}{}{(OdejdŸ.)}
-{187}{}{W porz¹dku. Ale zanim wejdziesz musimy przeszukaæ twoje rzeczy osobiste.}
-{188}{}{Uhm, w porz¹dku.}
+{182}{}{Nie potrzebujÄ™ Przepustki. Jestem Obywatelem.}
+{183}{}{Tak tylko zaglÄ…dam, Å¼eby sprawdziÄ‡, co u was sÅ‚ychaÄ‡.}
+{184}{}{Nie mam czasu na pogaduszki, rozumiesz? A teraz wynoÅ› siÄ™ stÄ…d.}
+{185}{}{Dobra juÅ¼, w porzÄ…dku. Staram siÄ™ zachowywaÄ‡ przyjaÅºnie...}
+{186}{}{(OdejdÅº.)}
+{187}{}{W porzÄ…dku. Ale zanim wejdziesz musimy przeszukaÄ‡ twoje rzeczy osobiste.}
+{188}{}{Uhm, w porzÄ…dku.}
 {189}{}{Po co?}
-{190}{}{W takim razie nie wchodzê.}
-{191}{}{Stój! Ludziom z zewn¹trz wstêp po zmroku wzbroniony.}
-{192}{}{Ale mam Przepustkê.}
+{190}{}{W takim razie nie wchodzÄ™.}
+{191}{}{StÃ³j! Ludziom z zewnÄ…trz wstÄ™p po zmroku wzbroniony.}
+{192}{}{Ale mam PrzepustkÄ™.}
 {193}{}{Ale jestem Obywatelem.}
-{194}{}{Przepraszam. Ju¿ sobie idê.}
-{195}{}{Ach, wiêc TERAZ jesteœ Obywatelem, tak? Tak jak ostatnio? Oddawaj te lewe papiery i zmykaj st¹d.}
-{196}{}{Chcesz te papiery? To chodŸ i je weŸ!}
-{197}{}{Dobra ju¿, dobra.}
-{198}{}{Porozmawiaj z Komisarzem Celnym, Wallacem. I daj mi wreszcie spokój.}
+{194}{}{Przepraszam. JuÅ¼ sobie idÄ™.}
+{195}{}{Ach, wiÄ™c TERAZ jesteÅ› Obywatelem, tak? Tak jak ostatnio? Oddawaj te lewe papiery i zmykaj stÄ…d.}
+{196}{}{Chcesz te papiery? To chodÅº i je weÅº!}
+{197}{}{Dobra juÅ¼, dobra.}
+{198}{}{Porozmawiaj z Komisarzem Celnym, Wallacem. I daj mi wreszcie spokÃ³j.}
 {199}{}{Dobra. Do widzenia.}
-{200}{}{Tak, masz DZIENN¥ przepustkê. A czy teraz mamy dzieñ? Zmykaj st¹d.}
+{200}{}{Tak, masz DZIENNÄ„ przepustkÄ™. A czy teraz mamy dzieÅ„? Zmykaj stÄ…d.}
 {201}{}{Dobra, dobra.}
-{202}{}{Zdarzaj¹ siê próbu przemytu alkoholu i œrodków odurzaj¹cych do Kryptopolis: Wygrzew, Jet, Psycho, Mentaty... i wiele innych.}
-{203}{}{Rozumiem. Mo¿esz mnie przeszukaæ.}
-{204}{}{W takim razie nie wchodzê. A¿ tak mi siê nie œpieszy do tego waszego Kryptopolis.}
-{205}{}{Przykro mi, ale nie mo¿emy ciê wpuœciæ z tymi przedmiotami. Narkotyki i alkohol s¹ zabronione w Kryptopolis. Wróæ jak siê ich pozbêdziesz, dobrze?}
-{206}{}{W porz¹dku.}
-{207}{}{Chyba nie ma ¿adnych przeciwwskazañ. Mo¿esz wejœæ.}
-{208}{}{Dziêkujê.}
+{202}{}{ZdarzajÄ… siÄ™ prÃ³bu przemytu alkoholu i Å›rodkÃ³w odurzajÄ…cych do Kryptopolis: Wygrzew, Jet, Psycho, Mentaty... i wiele innych.}
+{203}{}{Rozumiem. MoÅ¼esz mnie przeszukaÄ‡.}
+{204}{}{W takim razie nie wchodzÄ™. AÅ¼ tak mi siÄ™ nie Å›pieszy do tego waszego Kryptopolis.}
+{205}{}{Przykro mi, ale nie moÅ¼emy ciÄ™ wpuÅ›ciÄ‡ z tymi przedmiotami. Narkotyki i alkohol sÄ… zabronione w Kryptopolis. WrÃ³Ä‡ jak siÄ™ ich pozbÄ™dziesz, dobrze?}
+{206}{}{W porzÄ…dku.}
+{207}{}{Chyba nie ma Å¼adnych przeciwwskazaÅ„. MoÅ¼esz wejÅ›Ä‡.}
+{208}{}{DziÄ™kujÄ™.}
 {209}{}{Taa. Jaasne}
 {210}{}{Paaaa}
-{211}{}{Uhmm... (Obserwuje ciê przez moment i wzrusza ramionami) }
+{211}{}{Uhmm... (Obserwuje ciÄ™ przez moment i wzrusza ramionami) }
 {212}{}{O-kej.}
 {213}{}{Nie. Paaa}
 {214}{}{Wpoorzoo}

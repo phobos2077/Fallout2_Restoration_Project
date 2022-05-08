@@ -13,7 +13,7 @@
 {311}{}{Then let's dance.}
 {312}{}{All right. I'll meet this master of yours.}
 {320}{}{Master will answer all questions. Now, come.}
-{321}{}{Nem hinném.}
+{321}{}{Nem hinnÃ©m.}
 {322}{}{All right. I'll meet this master of yours.}
 {400}{}{Uuuhhhhh...}
 {401}{}{Grrraaah!}

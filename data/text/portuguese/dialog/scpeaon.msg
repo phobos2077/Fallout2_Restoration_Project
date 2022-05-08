@@ -12,7 +12,7 @@
 {111}{}{You're some kind of sick criminal. I hope the guards get you.}
 {112}{}{Just go away, okay?}
 {113}{}{Hey, you shouldn't kill anyone - especially kids.}
-{114}{}{Eu não acho que gosto de você.}
+{114}{}{Eu nÃ£o acho que gosto de vocÃª.}
 {115}{}{Hey, just let me know when you are going to go postal.}
 {116}{}{Eu tenho que ir.}
 {117}{}{Who the hell do you think you are - coming into this town?}
@@ -20,8 +20,8 @@
 {119}{}{I don't like you.}
 {120}{}{The just will kill all like you.}
 {121}{}{Qual o seu problema?}
-{122}{}{Nos não podemos ficar juntos?}
-{123}{}{Não fala comigo.}
+{122}{}{Nos nÃ£o podemos ficar juntos?}
+{123}{}{NÃ£o fala comigo.}
 {124}{}{Whatever it is tell someone else.}
 {125}{}{I don't think you're all that tough.}
 {126}{}{Why don't you just leave?}

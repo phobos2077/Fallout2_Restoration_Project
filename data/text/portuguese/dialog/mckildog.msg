@@ -1,3 +1,3 @@
-{100}{}{:: Casca de árvore ::}
-{101}{}{:: Casca de árvore Casca de árvore ::}
-{102}{}{::  Casca de árvore Casca de árvore Casca de árvore ::}
+{100}{}{:: Casca de Ã¡rvore ::}
+{101}{}{:: Casca de Ã¡rvore Casca de Ã¡rvore ::}
+{102}{}{::  Casca de Ã¡rvore Casca de Ã¡rvore Casca de Ã¡rvore ::}

@@ -1,4 +1,4 @@
-{100}{}{Du siehst eine Tür.}
-{101}{}{Du siehst eine Tür.}
-{102}{}{Du siehst eine Tür. Es scheint kein Schloss daran zu sein wie bei normalen Türen.}
+{100}{}{Du siehst eine TÃ¼r.}
+{101}{}{Du siehst eine TÃ¼r.}
+{102}{}{Du siehst eine TÃ¼r. Es scheint kein Schloss daran zu sein wie bei normalen TÃ¼ren.}
 {103}{}{Du erreichst nichts.}

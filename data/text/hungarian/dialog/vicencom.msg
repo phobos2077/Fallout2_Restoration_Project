@@ -1,180 +1,180 @@
-{100}{}{E számítógép-terminálon egy öntesztel?, diagnosztikai program fut.}
-{101}{}{Menedékváros Központi Számítógépe.}
-{102}{}{E számítógép-terminálon egy öntesztel?, diagnosztikai program fut.}
-{103}{}{Egy n?i hangon beszél? fémdoboz.}
-{104}{}{Ez egy beszél? fémdoboz.}
-{105}{}{Egy n?i hangon beszél? fémdoboz.}
-{106}{}{Terminál blokkolva.}
-{107}{}{Rendszerellen?rzés megkezdve.}
-{108}{}{A rendszerellen?rzést az operátor bármikor megszakíthatja.}
-{109}{}{Menedék-Tek a problémamentes m?ködés érdekében az általános rendszervizsgálati tesztek futtatását javasolja.}
-{110}{}{Menedék-Tek. Az egyetlen név a Menedék-technológiában.}
-{111}{}{Rendszerellen?rzés megkezdve.}
-{112}{}{Biztonsági rendszerek :}
-{113}{}{Bemeneti terminál blokkolva.}
-{114}{}{Biztonsági kamerák... 1A... 1B... 1C... rendben.}
-{115}{}{Biztonsági kamerák... 2A... 2B... 2C... rendben.}
-{116}{}{Biztonsági alrendszerek... S1... S2... S3... rendben.}
-{117}{}{Környezeti rendszerek:}
-{118}{}{Ventillátorok... 1A... 1B... rendben.}
-{119}{}{Ventillátorok... 2A... 2B... zzzzzzz... bipp...bipp}
+{100}{}{E szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lon egy Ã¶ntesztel?, diagnosztikai program fut.}
+{101}{}{MenedÃ©kvÃ¡ros KÃ¶zponti SzÃ¡mÃ­tÃ³gÃ©pe.}
+{102}{}{E szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lon egy Ã¶ntesztel?, diagnosztikai program fut.}
+{103}{}{Egy n?i hangon beszÃ©l? fÃ©mdoboz.}
+{104}{}{Ez egy beszÃ©l? fÃ©mdoboz.}
+{105}{}{Egy n?i hangon beszÃ©l? fÃ©mdoboz.}
+{106}{}{TerminÃ¡l blokkolva.}
+{107}{}{Rendszerellen?rzÃ©s megkezdve.}
+{108}{}{A rendszerellen?rzÃ©st az operÃ¡tor bÃ¡rmikor megszakÃ­thatja.}
+{109}{}{MenedÃ©k-Tek a problÃ©mamentes m?kÃ¶dÃ©s Ã©rdekÃ©ben az Ã¡ltalÃ¡nos rendszervizsgÃ¡lati tesztek futtatÃ¡sÃ¡t javasolja.}
+{110}{}{MenedÃ©k-Tek. Az egyetlen nÃ©v a MenedÃ©k-technolÃ³giÃ¡ban.}
+{111}{}{Rendszerellen?rzÃ©s megkezdve.}
+{112}{}{BiztonsÃ¡gi rendszerek :}
+{113}{}{Bemeneti terminÃ¡l blokkolva.}
+{114}{}{BiztonsÃ¡gi kamerÃ¡k... 1A... 1B... 1C... rendben.}
+{115}{}{BiztonsÃ¡gi kamerÃ¡k... 2A... 2B... 2C... rendben.}
+{116}{}{BiztonsÃ¡gi alrendszerek... S1... S2... S3... rendben.}
+{117}{}{KÃ¶rnyezeti rendszerek:}
+{118}{}{VentillÃ¡torok... 1A... 1B... rendben.}
+{119}{}{VentillÃ¡torok... 2A... 2B... zzzzzzz... bipp...bipp}
 {120}{}{...2B...}
-{121}{}{... meger?sítésre várok...}
-{122}{}{Figyelem! Meghibásodás a 2B ventillátorban.}
-{123}{}{Környezeti rendszerek tesztje folyamatban.}
-{124}{}{Meghibásodás naplózva, karbantartók és rendszeradminisztrátor értesítve.}
-{125}{}{Környezeti rendszerek tesztje folyamatban.}
-{126}{}{Ventillátorok... 2C... 2D... rendben.}
-{127}{}{Ventillátorok... 3A... 3B... 3C... 3D... 3E... rendben.}
-{128}{}{A h?mérséklet és páratartalom... rendben.}
-{129}{}{Energiaellátás:}
-{130}{}{Alrendszerek energiaellátása... E1A... E1B... E2A... E2B...  rendben.}
-{131}{}{A második és harmadik szinten az energiatakarékos üzemmód érvényes.}
-{132}{}{FIGYELEM! A Menedék ajtaja nyitva van. Vészhelyzetben zárom.}
-{133}{}{Rendszerellen?rzés befejez?dött, alrendszerek üzemképesek. Lemezre írás el?készítése.}
-{134}{}{Rendszerteszt eredményének hololemezre mentése... rendben.}
-{135}{}{Rendszerteszt eredményének elküldése a Lista Hivatalba... rendben.}
-{136}{}{Három biztonsági másolat bejegyzése a Forrásment? adatbázisba... rendben.}
-{137}{}{Rendszerteszt eredményének továbbítása minden menedékvárosi terminálra... rendben.}
-{138}{}{Kikapcsolhatja a terminált.}
-{139}{}{Köszönöm!}
-{140}{}{Rendszerellen?rzés megkezdve.}
-{141}{}{A rendszerellen?rzést az operátor bármikor megszakíthatja.}
-{142}{}{Menedék-Tek a problémamentes m?ködés érdekében az általános rendszervizsgálati tesztek futtatását javasolja.}
-{143}{}{Menedék-Tek. Az egyetlen név a Menedék-technológiában.}
-{144}{}{Rendszerellen?rzés megkezdve.}
-{145}{}{Biztonsági rendszerek :}
-{146}{}{Bemeneti terminál blokkolva.}
-{147}{}{Biztonsági kamerák... 1A... 1B... 1C... rendben.}
-{148}{}{Biztonsági kamerák... 2A... 2B... 2C... rendben.}
-{149}{}{Biztonsági alrendszerek... S1... S2... S3... rendben.}
-{150}{}{Környezeti rendszerek:}
-{151}{}{Ventillátorok... 1A... 1B... rendben.}
-{152}{}{Ventillátorok... 2A... 2B... 2C... 2D... rendben.}
-{153}{}{Ventillátorok... 3A... 3B... 3C... 3D... 3E... rendben.}
-{154}{}{A h?mérséklet és páratartalom... rendben.}
-{155}{}{Energiaellátás:}
-{156}{}{Alrendszerek energiaellátása... E1A... E1B... E2A... E2B...  rendben.}
-{157}{}{A második és harmadik szinten az energiatakarékos üzemmód érvényes.}
-{158}{}{FIGYELEM! A Menedék ajtaja nyitva van. Vészhelyzetben zárom.}
-{159}{}{Rendszerellen?rzés befejez?dött, alrendszerek üzemképesek. Lemezre írás el?készítése.}
-{160}{}{Rendszerteszt eredményének hololemezre mentése... rendben.}
-{161}{}{Rendszerteszt eredményének elküldése a Lista Hivatalba... rendben.}
-{162}{}{Három biztonsági másolat bejegyzése a Forrásment? adatbázisba... rendben.}
-{163}{}{Rendszerteszt eredményének továbbítása minden menedékvárosi terminálra... rendben.}
-{164}{}{Kikapcsolhatja a terminált.}
-{165}{}{Köszönöm!}
-{166}{}{Egy n?i hangon beszél? fémdobozt látsz. Biztos egy n? van a dobozban! Nagyon-nagyon kényelmetlen lehet neki odabent.}
-{167}{}{Beléptél Menedékváros Központi Számítógépébe. Elég egyszer?nek t?nik a kezelése, úgy látszik, minden adat kategóriákra van bontva.}
-{168}{}{Halló? Hallóóóóó?}
-{169}{}{Megpróbálod felfeszíteni a dobozt, hogy a n? kimászhasson.}
+{121}{}{... meger?sÃ­tÃ©sre vÃ¡rok...}
+{122}{}{Figyelem! MeghibÃ¡sodÃ¡s a 2B ventillÃ¡torban.}
+{123}{}{KÃ¶rnyezeti rendszerek tesztje folyamatban.}
+{124}{}{MeghibÃ¡sodÃ¡s naplÃ³zva, karbantartÃ³k Ã©s rendszeradminisztrÃ¡tor Ã©rtesÃ­tve.}
+{125}{}{KÃ¶rnyezeti rendszerek tesztje folyamatban.}
+{126}{}{VentillÃ¡torok... 2C... 2D... rendben.}
+{127}{}{VentillÃ¡torok... 3A... 3B... 3C... 3D... 3E... rendben.}
+{128}{}{A h?mÃ©rsÃ©klet Ã©s pÃ¡ratartalom... rendben.}
+{129}{}{EnergiaellÃ¡tÃ¡s:}
+{130}{}{Alrendszerek energiaellÃ¡tÃ¡sa... E1A... E1B... E2A... E2B...  rendben.}
+{131}{}{A mÃ¡sodik Ã©s harmadik szinten az energiatakarÃ©kos Ã¼zemmÃ³d Ã©rvÃ©nyes.}
+{132}{}{FIGYELEM! A MenedÃ©k ajtaja nyitva van. VÃ©szhelyzetben zÃ¡rom.}
+{133}{}{Rendszerellen?rzÃ©s befejez?dÃ¶tt, alrendszerek Ã¼zemkÃ©pesek. Lemezre Ã­rÃ¡s el?kÃ©szÃ­tÃ©se.}
+{134}{}{Rendszerteszt eredmÃ©nyÃ©nek hololemezre mentÃ©se... rendben.}
+{135}{}{Rendszerteszt eredmÃ©nyÃ©nek elkÃ¼ldÃ©se a Lista Hivatalba... rendben.}
+{136}{}{HÃ¡rom biztonsÃ¡gi mÃ¡solat bejegyzÃ©se a ForrÃ¡sment? adatbÃ¡zisba... rendben.}
+{137}{}{Rendszerteszt eredmÃ©nyÃ©nek tovÃ¡bbÃ­tÃ¡sa minden menedÃ©kvÃ¡rosi terminÃ¡lra... rendben.}
+{138}{}{Kikapcsolhatja a terminÃ¡lt.}
+{139}{}{KÃ¶szÃ¶nÃ¶m!}
+{140}{}{Rendszerellen?rzÃ©s megkezdve.}
+{141}{}{A rendszerellen?rzÃ©st az operÃ¡tor bÃ¡rmikor megszakÃ­thatja.}
+{142}{}{MenedÃ©k-Tek a problÃ©mamentes m?kÃ¶dÃ©s Ã©rdekÃ©ben az Ã¡ltalÃ¡nos rendszervizsgÃ¡lati tesztek futtatÃ¡sÃ¡t javasolja.}
+{143}{}{MenedÃ©k-Tek. Az egyetlen nÃ©v a MenedÃ©k-technolÃ³giÃ¡ban.}
+{144}{}{Rendszerellen?rzÃ©s megkezdve.}
+{145}{}{BiztonsÃ¡gi rendszerek :}
+{146}{}{Bemeneti terminÃ¡l blokkolva.}
+{147}{}{BiztonsÃ¡gi kamerÃ¡k... 1A... 1B... 1C... rendben.}
+{148}{}{BiztonsÃ¡gi kamerÃ¡k... 2A... 2B... 2C... rendben.}
+{149}{}{BiztonsÃ¡gi alrendszerek... S1... S2... S3... rendben.}
+{150}{}{KÃ¶rnyezeti rendszerek:}
+{151}{}{VentillÃ¡torok... 1A... 1B... rendben.}
+{152}{}{VentillÃ¡torok... 2A... 2B... 2C... 2D... rendben.}
+{153}{}{VentillÃ¡torok... 3A... 3B... 3C... 3D... 3E... rendben.}
+{154}{}{A h?mÃ©rsÃ©klet Ã©s pÃ¡ratartalom... rendben.}
+{155}{}{EnergiaellÃ¡tÃ¡s:}
+{156}{}{Alrendszerek energiaellÃ¡tÃ¡sa... E1A... E1B... E2A... E2B...  rendben.}
+{157}{}{A mÃ¡sodik Ã©s harmadik szinten az energiatakarÃ©kos Ã¼zemmÃ³d Ã©rvÃ©nyes.}
+{158}{}{FIGYELEM! A MenedÃ©k ajtaja nyitva van. VÃ©szhelyzetben zÃ¡rom.}
+{159}{}{Rendszerellen?rzÃ©s befejez?dÃ¶tt, alrendszerek Ã¼zemkÃ©pesek. Lemezre Ã­rÃ¡s el?kÃ©szÃ­tÃ©se.}
+{160}{}{Rendszerteszt eredmÃ©nyÃ©nek hololemezre mentÃ©se... rendben.}
+{161}{}{Rendszerteszt eredmÃ©nyÃ©nek elkÃ¼ldÃ©se a Lista Hivatalba... rendben.}
+{162}{}{HÃ¡rom biztonsÃ¡gi mÃ¡solat bejegyzÃ©se a ForrÃ¡sment? adatbÃ¡zisba... rendben.}
+{163}{}{Rendszerteszt eredmÃ©nyÃ©nek tovÃ¡bbÃ­tÃ¡sa minden menedÃ©kvÃ¡rosi terminÃ¡lra... rendben.}
+{164}{}{Kikapcsolhatja a terminÃ¡lt.}
+{165}{}{KÃ¶szÃ¶nÃ¶m!}
+{166}{}{Egy n?i hangon beszÃ©l? fÃ©mdobozt lÃ¡tsz. Biztos egy n? van a dobozban! Nagyon-nagyon kÃ©nyelmetlen lehet neki odabent.}
+{167}{}{BelÃ©ptÃ©l MenedÃ©kvÃ¡ros KÃ¶zponti SzÃ¡mÃ­tÃ³gÃ©pÃ©be. ElÃ©g egyszer?nek t?nik a kezelÃ©se, Ãºgy lÃ¡tszik, minden adat kategÃ³riÃ¡kra van bontva.}
+{168}{}{HallÃ³? HallÃ³Ã³Ã³Ã³Ã³?}
+{169}{}{MegprÃ³bÃ¡lod felfeszÃ­teni a dobozt, hogy a n? kimÃ¡szhasson.}
 {170}{}{[Elcsoszogsz]}
-{171}{}{Adatok keresése: 13-as Menedék.}
-{172}{}{Adatok keresése: Édenkert Létrehozást El?segít? Táska.}
-{173}{}{A gekkói reaktor-lemez behelyezése a számítógépbe.}
-{174}{}{Felfeszíted a számítógépet és megpróbálod megtalálni a beszédfelismer? modult.}
-{175}{}{PipBoy csatlakoztatása.}
-{176}{}{PipBoy csatlakoztatása.}
-{177}{}{Kilépés.}
-{178}{}{A fémdoboz nem válaszol.}
-{179}{}{Megpróbálod felfeszíteni a dobozt, hogy a n? kimászhasson.}
+{171}{}{Adatok keresÃ©se: 13-as MenedÃ©k.}
+{172}{}{Adatok keresÃ©se: Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡ska.}
+{173}{}{A gekkÃ³i reaktor-lemez behelyezÃ©se a szÃ¡mÃ­tÃ³gÃ©pbe.}
+{174}{}{FelfeszÃ­ted a szÃ¡mÃ­tÃ³gÃ©pet Ã©s megprÃ³bÃ¡lod megtalÃ¡lni a beszÃ©dfelismer? modult.}
+{175}{}{PipBoy csatlakoztatÃ¡sa.}
+{176}{}{PipBoy csatlakoztatÃ¡sa.}
+{177}{}{KilÃ©pÃ©s.}
+{178}{}{A fÃ©mdoboz nem vÃ¡laszol.}
+{179}{}{MegprÃ³bÃ¡lod felfeszÃ­teni a dobozt, hogy a n? kimÃ¡szhasson.}
 {180}{}{[Elcsoszogsz]}
-{181}{}{Leguggolsz a fémdoboz mögé. Bedugod az ujjadat a nyílásba és lerántod a burkolólemezt. Nincs is n? odabent! Csak egy halom döglött kígyó meg villogó fények.}
-{182}{}{Benyúlsz a kígyók közé.}
+{181}{}{Leguggolsz a fÃ©mdoboz mÃ¶gÃ©. Bedugod az ujjadat a nyÃ­lÃ¡sba Ã©s lerÃ¡ntod a burkolÃ³lemezt. Nincs is n? odabent! Csak egy halom dÃ¶glÃ¶tt kÃ­gyÃ³ meg villogÃ³ fÃ©nyek.}
+{182}{}{BenyÃºlsz a kÃ­gyÃ³k kÃ¶zÃ©.}
 {183}{}{[Elcsoszogsz]}
-{184}{}{Ezt hallod: GZZZTTTTTTTTT és...}
-{185}{}{...felébredsz.}
+{184}{}{Ezt hallod: GZZZTTTTTTTTT Ã©s...}
+{185}{}{...felÃ©bredsz.}
 {186}{}{[Elcsoszogsz]}
-{187}{}{Felnyitod a hátsó panelt és a hangfelismer? modul után kutatsz. Nem találsz ilyet, az áramkörök egész máshogy néznek ki, mint a 13-as Menedékben.}
-{188}{}{Visszateszed a panelt és átkutatod az adattárat.}
-{189}{}{Valószín?leg csak az id?det pocsékolod. Jobb lesz máshol keresni.}
-{190}{}{Ahogy visszailleszted a panelt, észreveszel egy PipBoyt ábrázoló ikont. A kép mellett van egy nyílás, amibe éppen beleférne a PipBoyod.}
-{191}{}{Becsúsztatod a PipBoyt a nyílásba.}
-{192}{}{Otthagyod a terminált.}
-{193}{}{Már épp mennél, mikor meglátsz egy kis vigyorgó figurát a PipBoyodon! Egy nyílásra mutat. Talán beszélni szeretne a te kis PipBoy emberkéddel.}
-{194}{}{Már épp mennél, mikor meglátsz egy PipBoyt ábrázoló piktogramot a terminál oldalán. A kép mellett van egy nyílás.}
-{195}{}{Betuszkolod a PipBoyt a nyílásba, hogy beszélgethessenek egymással a kis emberkék.}
-{196}{}{Becsúsztatod a PipBoyt a nyílásba.}
-{197}{}{Otthagyod a terminált.}
-{198}{}{Hé! Ezek a kis fickók RENGETEGET beszélgetnek egymással! Furcsa csippanó, berreg?, sípoló hangok hallatszanak, végül egy hármas bippelés és a PipBoyod kicsusszan a nyílásból.}
+{187}{}{Felnyitod a hÃ¡tsÃ³ panelt Ã©s a hangfelismer? modul utÃ¡n kutatsz. Nem talÃ¡lsz ilyet, az Ã¡ramkÃ¶rÃ¶k egÃ©sz mÃ¡shogy nÃ©znek ki, mint a 13-as MenedÃ©kben.}
+{188}{}{Visszateszed a panelt Ã©s Ã¡tkutatod az adattÃ¡rat.}
+{189}{}{ValÃ³szÃ­n?leg csak az id?det pocsÃ©kolod. Jobb lesz mÃ¡shol keresni.}
+{190}{}{Ahogy visszailleszted a panelt, Ã©szreveszel egy PipBoyt Ã¡brÃ¡zolÃ³ ikont. A kÃ©p mellett van egy nyÃ­lÃ¡s, amibe Ã©ppen belefÃ©rne a PipBoyod.}
+{191}{}{BecsÃºsztatod a PipBoyt a nyÃ­lÃ¡sba.}
+{192}{}{Otthagyod a terminÃ¡lt.}
+{193}{}{MÃ¡r Ã©pp mennÃ©l, mikor meglÃ¡tsz egy kis vigyorgÃ³ figurÃ¡t a PipBoyodon! Egy nyÃ­lÃ¡sra mutat. TalÃ¡n beszÃ©lni szeretne a te kis PipBoy emberkÃ©ddel.}
+{194}{}{MÃ¡r Ã©pp mennÃ©l, mikor meglÃ¡tsz egy PipBoyt Ã¡brÃ¡zolÃ³ piktogramot a terminÃ¡l oldalÃ¡n. A kÃ©p mellett van egy nyÃ­lÃ¡s.}
+{195}{}{Betuszkolod a PipBoyt a nyÃ­lÃ¡sba, hogy beszÃ©lgethessenek egymÃ¡ssal a kis emberkÃ©k.}
+{196}{}{BecsÃºsztatod a PipBoyt a nyÃ­lÃ¡sba.}
+{197}{}{Otthagyod a terminÃ¡lt.}
+{198}{}{HÃ©! Ezek a kis fickÃ³k RENGETEGET beszÃ©lgetnek egymÃ¡ssal! Furcsa csippanÃ³, berreg?, sÃ­polÃ³ hangok hallatszanak, vÃ©gÃ¼l egy hÃ¡rmas bippelÃ©s Ã©s a PipBoyod kicsusszan a nyÃ­lÃ¡sbÃ³l.}
 {199}{}{Take your Pip-Boy and leave.}
-{200}{}{A képerny?n egy mosolygó PipBoy jelenik meg. A piktogram fütyörészik és türelmetlenül dobol a lábával. A nyílás mellett egy piros fény vadul villogni kezd.}
-{201}{}{Várakozol...}
-{202}{}{M?velet leállítása és kilépés a terminálból.}
-{203}{}{Baljós, berreg? hangot hallasz a nyílásából. A PipBoy tovább fütyörészik és dobog.}
-{204}{}{Várakozol...}
-{205}{}{M?velet leállítása és kilépés a terminálból.}
-{206}{}{A PipBoy hirtelen mozdulatlanná dermed. Egy felkiáltójel jelenik meg a feje felett és az ujját jobbra-balra mozgatja.}
-{207}{}{Én is bemutatok a kis szemétnek!}
-{208}{}{Megpróbálsz rájönni, hol a hiba.}
-{209}{}{M?velet leállítása és kilépés a terminálból.}
-{210}{}{A PipBoy alatt egy kis képerny? kiírja, hogy a karbantartást már 50.352 éve el kellett volna végezni. Az adattárat formattálni kell. Folytatod?}
-{211}{}{Öö... biztos.}
+{200}{}{A kÃ©perny?n egy mosolygÃ³ PipBoy jelenik meg. A piktogram fÃ¼tyÃ¶rÃ©szik Ã©s tÃ¼relmetlenÃ¼l dobol a lÃ¡bÃ¡val. A nyÃ­lÃ¡s mellett egy piros fÃ©ny vadul villogni kezd.}
+{201}{}{VÃ¡rakozol...}
+{202}{}{M?velet leÃ¡llÃ­tÃ¡sa Ã©s kilÃ©pÃ©s a terminÃ¡lbÃ³l.}
+{203}{}{BaljÃ³s, berreg? hangot hallasz a nyÃ­lÃ¡sÃ¡bÃ³l. A PipBoy tovÃ¡bb fÃ¼tyÃ¶rÃ©szik Ã©s dobog.}
+{204}{}{VÃ¡rakozol...}
+{205}{}{M?velet leÃ¡llÃ­tÃ¡sa Ã©s kilÃ©pÃ©s a terminÃ¡lbÃ³l.}
+{206}{}{A PipBoy hirtelen mozdulatlannÃ¡ dermed. Egy felkiÃ¡ltÃ³jel jelenik meg a feje felett Ã©s az ujjÃ¡t jobbra-balra mozgatja.}
+{207}{}{Ã‰n is bemutatok a kis szemÃ©tnek!}
+{208}{}{MegprÃ³bÃ¡lsz rÃ¡jÃ¶nni, hol a hiba.}
+{209}{}{M?velet leÃ¡llÃ­tÃ¡sa Ã©s kilÃ©pÃ©s a terminÃ¡lbÃ³l.}
+{210}{}{A PipBoy alatt egy kis kÃ©perny? kiÃ­rja, hogy a karbantartÃ¡st mÃ¡r 50.352 Ã©ve el kellett volna vÃ©gezni. Az adattÃ¡rat formattÃ¡lni kell. Folytatod?}
+{211}{}{Ã–Ã¶... biztos.}
 {212}{}{Mit? NEM! Dehogy!}
-{213}{}{M?velet leállítása és kilépés a terminálból.}
-{214}{}{M?velet el?készítése... PipBoy formattálása...}
+{213}{}{M?velet leÃ¡llÃ­tÃ¡sa Ã©s kilÃ©pÃ©s a terminÃ¡lbÃ³l.}
+{214}{}{M?velet el?kÃ©szÃ­tÃ©se... PipBoy formattÃ¡lÃ¡sa...}
 {215}{}{}
-{216}{}{Várakozol...}
-{217}{}{M?velet leállítása és kilépés a terminálból.}
-{218}{}{Inicializálás...}
-{219}{}{ PipBoy formattálása...}
-{220}{}{Hé! Add csak vissza azt a rohadt PipBoyt!!}
-{221}{}{Állj! ÁLLJ!!!}
-{222}{}{Észak-Kaliforniai Földrajzi Adattár másolása a PipBoy adatbázisába.}
-{223}{}{Adattár feltöltése... Broken Hills... Gekkó... Új Kaliforniai Köztársaság... New Reno... Redding... Menedékváros... a frissítés sikeresen befejez?dött.}
-{224}{}{További keresés az adattárban.}
-{225}{}{Kilépés.}
-{226}{}{Visszatértél a f?menübe. A képerny?n néhány adattár és keres?program látható.}
-{227}{}{Keresés: 13-as Menedék.}
-{228}{}{Keresés: Édenkert Létrehozást El?segít? Táska.}
-{229}{}{Menedékvárosi er?m?-jelentései.}
-{230}{}{Kilépés.}
-{231}{}{Gordonnak igaza volt. Menedékváros generátora maximális teljesítményen van járatva. Új energiaforrás nélkül Menedékváros nem tud terjeszkedni.}
-{232}{}{További keresés az adattárban.}
-{233}{}{Kilépés.}
-{234}{}{Az adattár csak két helyet említ. 8-as Menedéket (ezt) illetve a 15-öst, ami messze délre van innen. Furcsamód nem tud a 13-as Menedékr?l.}
-{235}{}{Eltárolod a 15-ös Menedék helyét a PipBoyban.}
-{236}{}{További keresés az adattárban.}
-{237}{}{Kilépés.}
-{238}{}{Az adattár szerint jelenleg nincs ÉLET a Komfort Hivatalban. Úgy t?nik, Menedékváros létrehozásánál felhasználták.}
-{239}{}{A maradék információ átkutatása.}
-{240}{}{Az adatokból arra következtetsz, hogy minden Menedék két ÉLET-tel rendelkezett, de furcsamód, ide csak egyet szállítottak.}
-{241}{}{Keresés: ÉLET szállítási információk.}
-{242}{}{Visszatérés a f?menübe.}
-{243}{}{Kilépés.}
-{244}{}{Egy adminisztrációs hiba miatt a 8-as Menedékbe egy plusz víztisztító-chip szállítmány érkezett és egy másik Menedék kapta az ide szánt tartalék ÉLET-et.}
-{245}{}{Visszatérés a f?menübe.}
-{246}{}{Kilépés.}
-{247}{}{Egy kis ablak jelenik meg a képerny?n, benne egy mosolygó PipBoyjal. A piktogram rád néz, bólint és felemeli a hüvelykujját. Egy piros fény villog a nyílás mellett.}
-{248}{}{Én is felemelem a hüvelykujjam.}
+{216}{}{VÃ¡rakozol...}
+{217}{}{M?velet leÃ¡llÃ­tÃ¡sa Ã©s kilÃ©pÃ©s a terminÃ¡lbÃ³l.}
+{218}{}{InicializÃ¡lÃ¡s...}
+{219}{}{ PipBoy formattÃ¡lÃ¡sa...}
+{220}{}{HÃ©! Add csak vissza azt a rohadt PipBoyt!!}
+{221}{}{Ãllj! ÃLLJ!!!}
+{222}{}{Ã‰szak-Kaliforniai FÃ¶ldrajzi AdattÃ¡r mÃ¡solÃ¡sa a PipBoy adatbÃ¡zisÃ¡ba.}
+{223}{}{AdattÃ¡r feltÃ¶ltÃ©se... Broken Hills... GekkÃ³... Ãšj Kaliforniai KÃ¶ztÃ¡rsasÃ¡g... New Reno... Redding... MenedÃ©kvÃ¡ros... a frissÃ­tÃ©s sikeresen befejez?dÃ¶tt.}
+{224}{}{TovÃ¡bbi keresÃ©s az adattÃ¡rban.}
+{225}{}{KilÃ©pÃ©s.}
+{226}{}{VisszatÃ©rtÃ©l a f?menÃ¼be. A kÃ©perny?n nÃ©hÃ¡ny adattÃ¡r Ã©s keres?program lÃ¡thatÃ³.}
+{227}{}{KeresÃ©s: 13-as MenedÃ©k.}
+{228}{}{KeresÃ©s: Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡ska.}
+{229}{}{MenedÃ©kvÃ¡rosi er?m?-jelentÃ©sei.}
+{230}{}{KilÃ©pÃ©s.}
+{231}{}{Gordonnak igaza volt. MenedÃ©kvÃ¡ros generÃ¡tora maximÃ¡lis teljesÃ­tmÃ©nyen van jÃ¡ratva. Ãšj energiaforrÃ¡s nÃ©lkÃ¼l MenedÃ©kvÃ¡ros nem tud terjeszkedni.}
+{232}{}{TovÃ¡bbi keresÃ©s az adattÃ¡rban.}
+{233}{}{KilÃ©pÃ©s.}
+{234}{}{Az adattÃ¡r csak kÃ©t helyet emlÃ­t. 8-as MenedÃ©ket (ezt) illetve a 15-Ã¶st, ami messze dÃ©lre van innen. FurcsamÃ³d nem tud a 13-as MenedÃ©kr?l.}
+{235}{}{EltÃ¡rolod a 15-Ã¶s MenedÃ©k helyÃ©t a PipBoyban.}
+{236}{}{TovÃ¡bbi keresÃ©s az adattÃ¡rban.}
+{237}{}{KilÃ©pÃ©s.}
+{238}{}{Az adattÃ¡r szerint jelenleg nincs Ã‰LET a Komfort Hivatalban. Ãšgy t?nik, MenedÃ©kvÃ¡ros lÃ©trehozÃ¡sÃ¡nÃ¡l felhasznÃ¡ltÃ¡k.}
+{239}{}{A maradÃ©k informÃ¡ciÃ³ Ã¡tkutatÃ¡sa.}
+{240}{}{Az adatokbÃ³l arra kÃ¶vetkeztetsz, hogy minden MenedÃ©k kÃ©t Ã‰LET-tel rendelkezett, de furcsamÃ³d, ide csak egyet szÃ¡llÃ­tottak.}
+{241}{}{KeresÃ©s: Ã‰LET szÃ¡llÃ­tÃ¡si informÃ¡ciÃ³k.}
+{242}{}{VisszatÃ©rÃ©s a f?menÃ¼be.}
+{243}{}{KilÃ©pÃ©s.}
+{244}{}{Egy adminisztrÃ¡ciÃ³s hiba miatt a 8-as MenedÃ©kbe egy plusz vÃ­ztisztÃ­tÃ³-chip szÃ¡llÃ­tmÃ¡ny Ã©rkezett Ã©s egy mÃ¡sik MenedÃ©k kapta az ide szÃ¡nt tartalÃ©k Ã‰LET-et.}
+{245}{}{VisszatÃ©rÃ©s a f?menÃ¼be.}
+{246}{}{KilÃ©pÃ©s.}
+{247}{}{Egy kis ablak jelenik meg a kÃ©perny?n, benne egy mosolygÃ³ PipBoyjal. A piktogram rÃ¡d nÃ©z, bÃ³lint Ã©s felemeli a hÃ¼velykujjÃ¡t. Egy piros fÃ©ny villog a nyÃ­lÃ¡s mellett.}
+{248}{}{Ã‰n is felemelem a hÃ¼velykujjam.}
 {249}{}{Vadul beintek a PipBoynak!}
 {250}{}{Fallout 2 Development Information is being entered into Pip-Boy database. Copying file...
  Vault City Development Credits... Download complete.}
-{251}{}{Köszönöm!}
-{252}{}{Ajánlom, hogy ez a cucc érjen pár tapasztalati pontot, különben lefejelem a monitoromat!}
-{253}{}{A PipBoy integet, a kép pedig elsötétül. A terminál kikapcsolt.}
+{251}{}{KÃ¶szÃ¶nÃ¶m!}
+{252}{}{AjÃ¡nlom, hogy ez a cucc Ã©rjen pÃ¡r tapasztalati pontot, kÃ¼lÃ¶nben lefejelem a monitoromat!}
+{253}{}{A PipBoy integet, a kÃ©p pedig elsÃ¶tÃ©tÃ¼l. A terminÃ¡l kikapcsolt.}
 {254}{}{[Leave.]}
-{255}{}{Jobb, ha elfutsz, kis szarházi!}
-{256}{}{A terminál kikapcsolt. Fogalmad sincs, hogy kell bekapcsolni.}
-{257}{}{Távozol.}
-{258}{}{Lemezen lév? adatok beolvasása... reaktor adatok... atomer?m? teljesítmény: 43%/75%... hiba: reaktor kalibrálás, MD4/gh1 alrendszer... Optimalizáljam?}
+{255}{}{Jobb, ha elfutsz, kis szarhÃ¡zi!}
+{256}{}{A terminÃ¡l kikapcsolt. Fogalmad sincs, hogy kell bekapcsolni.}
+{257}{}{TÃ¡vozol.}
+{258}{}{Lemezen lÃ©v? adatok beolvasÃ¡sa... reaktor adatok... atomer?m? teljesÃ­tmÃ©ny: 43%/75%... hiba: reaktor kalibrÃ¡lÃ¡s, MD4/gh1 alrendszer... OptimalizÃ¡ljam?}
 {259}{}{}
 {260}{}{}
 {261}{}{}
 {262}{}{}
-{263}{}{Természetesen, optimalizáld!}
-{264}{}{Ne, inkább hagyjuk! Vissza a f?menübe.}
-{265}{}{Kilépés.}
-{266}{}{Optimalizálás folyamatban: zzzzzzz... brrrrrrr... bippp... zzzzz... bipp bipp bipp... optimalizálás kész. Kérem, vegye ki a lemezt!}
+{263}{}{TermÃ©szetesen, optimalizÃ¡ld!}
+{264}{}{Ne, inkÃ¡bb hagyjuk! Vissza a f?menÃ¼be.}
+{265}{}{KilÃ©pÃ©s.}
+{266}{}{OptimalizÃ¡lÃ¡s folyamatban: zzzzzzz... brrrrrrr... bippp... zzzzz... bipp bipp bipp... optimalizÃ¡lÃ¡s kÃ©sz. KÃ©rem, vegye ki a lemezt!}
 {267}{}{}
 {268}{}{}
 {269}{}{}
-{270}{}{Vissza a f?menübe.}
-{271}{}{Kilépés.}
-{272}{}{Óóóóóóóh. Ez a tynglzzz.}
+{270}{}{Vissza a f?menÃ¼be.}
+{271}{}{KilÃ©pÃ©s.}
+{272}{}{Ã“Ã³Ã³Ã³Ã³Ã³Ã³h. Ez a tynglzzz.}
 {300}{}{As you are about to return to the archive listing, you skillfully notice a hidden entry in the list of archives..}
 {301}{}{As you are about to log off the terminal, you skillfully notice a hidden entry in the list of archives.}
-{302}{}{[FOLYTATÁS]}
+{302}{}{[FOLYTATÃS]}
 {303}{}{After a few minutes you are able to gain access to the locked archive. There is only one file listed and it is
  entitled "Classified." It looks like your skill points in Science are paying off.}
 {304}{}{[Read entry.]}

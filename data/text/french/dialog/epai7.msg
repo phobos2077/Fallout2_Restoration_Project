@@ -1,6 +1,6 @@
-{100}{}{Autorisation nécessaire. Porte verrouillée.}
-{101}{}{Autorisation acceptée. Déverrouillage de la porte.}
-{102}{}{La porte est déjà déverrouillée.}
-{103}{}{Tu vois une porte dans l'aile de sécurité.}
-{104}{}{Tu vois une porte renforcée dans l'aile de sécurité.}
-{200}{}{Il n'y a pas de serrure à crocheter.}
+{100}{}{Autorisation nÃ©cessaire. Porte verrouillÃ©e.}
+{101}{}{Autorisation acceptÃ©e. DÃ©verrouillage de la porte.}
+{102}{}{La porte est dÃ©jÃ  dÃ©verrouillÃ©e.}
+{103}{}{Tu vois une porte dans l'aile de sÃ©curitÃ©.}
+{104}{}{Tu vois une porte renforcÃ©e dans l'aile de sÃ©curitÃ©.}
+{200}{}{Il n'y a pas de serrure Ã  crocheter.}

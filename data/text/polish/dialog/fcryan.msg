@@ -1,27 +1,27 @@
-{100}{}{Widzisz czêœciowo wygolonego punka.}
-{101}{}{Widzisz Ryana, Krynicê Wszelkiej Wiedzy.}
-{102}{}{Widzisz punka, wokó³ którego czuje siê aurê zarozumialstwa i œmiesznoœci.}
-{103}{}{Musisz walczyæ przez to gówno.}
+{100}{}{Widzisz czÄ™Å›ciowo wygolonego punka.}
+{101}{}{Widzisz Ryana, KrynicÄ™ Wszelkiej Wiedzy.}
+{102}{}{Widzisz punka, wokÃ³Å‚ ktÃ³rego czuje siÄ™ aurÄ™ zarozumialstwa i Å›miesznoÅ›ci.}
+{103}{}{Musisz walczyÄ‡ przez to gÃ³wno.}
 {104}{}{To miejsce to szambo.}
-{105}{}{Zrobiê ci tak, ¿e bêdziesz krwawiæ. Wyrazi³em siê wystarczaj¹co jasno?}
+{105}{}{ZrobiÄ™ ci tak, Å¼e bÄ™dziesz krwawiÄ‡. WyraziÅ‚em siÄ™ wystarczajÄ…co jasno?}
 {106}{}{Ay carumba! Nalgas con queso!}
 {107}{}{Wu hu hu hu hu!}
-{108}{}{Zmiatam st¹d.}
-{109}{}{Zna³em Du¿ego Jezusa Mordina, gdy by³ jeszcze ma³ym dzieci¹tkiem.}
+{108}{}{Zmiatam stÄ…d.}
+{109}{}{ZnaÅ‚em DuÅ¼ego Jezusa Mordina, gdy byÅ‚ jeszcze maÅ‚ym dzieciÄ…tkiem.}
 {110}{}{Jezus Maria Matko Boska!}
-{111}{}{Jestem producentem. Robiê gry. Gry s¹ fajne. Zagraj w moje gry.}
+{111}{}{Jestem producentem. RobiÄ™ gry. Gry sÄ… fajne. Zagraj w moje gry.}
 {112}{}{Kupujcie kartki za bony.}
-{113}{}{Nazywaj¹ mnie AMERYKAÑSKI M£OTEK.}
-{114}{}{Przyby³em do San Francisco, ¿eby robiæ gry i skopaæ parê dup.}
-{115}{}{Lato, laato, lato wszêdzie...}
+{113}{}{NazywajÄ… mnie AMERYKAÅƒSKI MÅOTEK.}
+{114}{}{PrzybyÅ‚em do San Francisco, Å¼eby robiÄ‡ gry i skopaÄ‡ parÄ™ dup.}
+{115}{}{Lato, laato, lato wszÄ™dzie...}
 {116}{}{Hola, senor! Czy to senorita?}
 {117}{}{Iii-ha!}
-{118}{}{Rany... Niby ca³y czas tu wieje, a jest zero akcji.}
-{119}{}{Mój przyjaciel Scott myœla³, ¿e stolic¹ Starej Kalifornii by³o Stockton. Serio!}
-{120}{}{Ale bym se ola³ Chipa ciep³ym moczem.}
+{118}{}{Rany... Niby caÅ‚y czas tu wieje, a jest zero akcji.}
+{119}{}{MÃ³j przyjaciel Scott myÅ›laÅ‚, Å¼e stolicÄ… Starej Kalifornii byÅ‚o Stockton. Serio!}
+{120}{}{Ale bym se olaÅ‚ Chipa ciepÅ‚ym moczem.}
 {121}{}{Stary!}
 {122}{}{Eee, no dawaj!}
 {123}{}{Bryyyyyzzzzzza aktiv fresh!}
 {124}{}{Nie zmuszaj mnie do udawania twardziela.}
 {125}{}{Ta, prawda?}
-{126}{}{Dok³adnie, he he he.}
+{126}{}{DokÅ‚adnie, he he he.}

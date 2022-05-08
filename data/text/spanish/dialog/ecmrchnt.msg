@@ -1,16 +1,16 @@
 {100}{}{Ves a una persona muy viajada.}
 {101}{}{Ves a una comerciante.}
-{102}{}{Caray, pocas veces veo gente por aquí fuera.}
-{103}{}{¡Eh! ¡Espera! Tengo cosas que podrían ayudarte!}
-{104}{}{¡Eh! ¿Tienes algo con lo que comerciar por esto?}
-{105}{}{Este debe ser mi día de suerte. Ven, mira lo que tengo en venta.}
-{200}{}{¡Saludos, viajero! Raramente veo mucha gente por esta ruta, pero siempre me alegra tener nuevos clientes. ¿Quieres comerciar?}
-{201}{}{¡Eh, tú! Es genial que te hayas detenido. Mucha gente en esta ruta sigue directamente. Eh, ¿querrías comerciar con algunas cosas?}
-{202}{}{¿Estarías interesado en un poco de comercio?}
-{250}{}{Eso estará bien.}
+{102}{}{Caray, pocas veces veo gente por aquÃ­ fuera.}
+{103}{}{Â¡Eh! Â¡Espera! Tengo cosas que podrÃ­an ayudarte!}
+{104}{}{Â¡Eh! Â¿Tienes algo con lo que comerciar por esto?}
+{105}{}{Este debe ser mi dÃ­a de suerte. Ven, mira lo que tengo en venta.}
+{200}{}{Â¡Saludos, viajero! Raramente veo mucha gente por esta ruta, pero siempre me alegra tener nuevos clientes. Â¿Quieres comerciar?}
+{201}{}{Â¡Eh, tÃº! Es genial que te hayas detenido. Mucha gente en esta ruta sigue directamente. Eh, Â¿querrÃ­as comerciar con algunas cosas?}
+{202}{}{Â¿EstarÃ­as interesado en un poco de comercio?}
+{250}{}{Eso estarÃ¡ bien.}
 {251}{}{Lo siento, pero tengo que marcharme.}
-{252}{}{Ya. ¡Yo tengo cosas!}
+{252}{}{Ya. Â¡Yo tengo cosas!}
 {253}{}{Yo ir.}
 {260}{}{Un buen trueque contigo. Buena suerte en tus viajes.}
-{261}{}{Adiós.}
-{270}{}{Me alegra que hayas vuelto. ¿Te interesa algo de lo que tengo?}
+{261}{}{AdiÃ³s.}
+{270}{}{Me alegra que hayas vuelto. Â¿Te interesa algo de lo que tengo?}

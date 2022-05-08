@@ -1,6 +1,6 @@
-{100}{}{Widzisz szponi¹tko œmierci.}
-{101}{}{Widzisz szponi¹tko œmierci.}
-{102}{}{Z tymi wszystkimi pazurami i w ogóle, wygl¹da jak mniejsza wersja szpona œmierci.}
-{103}{}{Sk³aa... Rrr}
+{100}{}{Widzisz szponiÄ…tko Å›mierci.}
+{101}{}{Widzisz szponiÄ…tko Å›mierci.}
+{102}{}{Z tymi wszystkimi pazurami i w ogÃ³le, wyglÄ…da jak mniejsza wersja szpona Å›mierci.}
+{103}{}{SkÅ‚aa... Rrr}
 {104}{}{Maaamaa}
 {105}{}{patata...}

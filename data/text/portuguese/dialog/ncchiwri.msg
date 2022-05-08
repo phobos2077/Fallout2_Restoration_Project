@@ -1,145 +1,145 @@
-{100}{}{Você vê Chris Wright.}
-{150}{}{Você vê um jovem alto com um moicano. Ele está usando um monte de correntes e roupas de couro.}
-{151}{}{Você vê Chris Wright.}
-{152}{}{Você vê Chris Wright. Parece bem entediado.}
+{100}{}{VocÃª vÃª Chris Wright.}
+{150}{}{VocÃª vÃª um jovem alto com um moicano. Ele estÃ¡ usando um monte de correntes e roupas de couro.}
+{151}{}{VocÃª vÃª Chris Wright.}
+{152}{}{VocÃª vÃª Chris Wright. Parece bem entediado.}
 {200}{}{Ei! }
 {201}{}{Cheio, }
 {202}{}{Arrase, }
 {203}{}{::Assobios::}
 {204}{}{::Palmas::}
 {205}{}{::Assobios::}
-{215}{}{Como você usa o banheiro com isso?}
-{220}{}{Saudações, }
-{221}{}{Como está quente, }
-{222}{}{Saudações, }
-{230}{}{Ainda não consigo acreditar que papai está morto. Tinha tantas coisas que eu queria ter dito...}
+{215}{}{Como vocÃª usa o banheiro com isso?}
+{220}{}{SaudaÃ§Ãµes, }
+{221}{}{Como estÃ¡ quente, }
+{222}{}{SaudaÃ§Ãµes, }
+{230}{}{Ainda nÃ£o consigo acreditar que papai estÃ¡ morto. Tinha tantas coisas que eu queria ter dito...}
 {235}{}{Sai daqui.}
-{236}{}{Sai fora. Estou falando sério.}
-{237}{}{Não tenho nada para te dizer.}
+{236}{}{Sai fora. Estou falando sÃ©rio.}
+{237}{}{NÃ£o tenho nada para te dizer.}
 {245}{}{Sim?}
-{246}{}{Ei! Como você vai, }
-{247}{}{Ei, te agradeço por descobrir quem matou Richard, }
-{248}{}{. Devo muito a você, e a família Wright sempre paga suas dívidas. O que posso fazer por você?}
-{249}{}{Mattah. O homem é Mattah!}
+{246}{}{Ei! Como vocÃª vai, }
+{247}{}{Ei, te agradeÃ§o por descobrir quem matou Richard, }
+{248}{}{. Devo muito a vocÃª, e a famÃ­lia Wright sempre paga suas dÃ­vidas. O que posso fazer por vocÃª?}
+{249}{}{Mattah. O homem Ã© Mattah!}
 {250}{}{Hoobajuube}
 {251}{}{Cai fora}
-{252}{}{Quem é você?}
-{253}{}{Na verdade sim, estou procurando trabalho. A Família Wright está precisando?}
-{254}{}{Ei, eu encontrei sua mãe.}
-{255}{}{O que você pode me contar sobre Richard?}
+{252}{}{Quem Ã© vocÃª?}
+{253}{}{Na verdade sim, estou procurando trabalho. A FamÃ­lia Wright estÃ¡ precisando?}
+{254}{}{Ei, eu encontrei sua mÃ£e.}
+{255}{}{O que vocÃª pode me contar sobre Richard?}
 {256}{}{Nada, obrigado. Desculpe te incomodar.}
-{265}{}{Que se foda, retardado. Não tenho tempo para fazer gestos com você.}
+{265}{}{Que se foda, retardado. NÃ£o tenho tempo para fazer gestos com vocÃª.}
 {266}{}{Cai fora}
-{275}{}{Eu sou Chris, Chris Wright, da Família Wright. Quer me perguntar algo?}
-{276}{}{Na verdade sim, estou procurando trabalho. A Família Wright está precisando?}
-{277}{}{Família Wright? Quem são esses?}
-{278}{}{Chris Wright, é? Olha, eu encontrei sua mãe.}
-{279}{}{Você pode me contar o que aconteceu com seu irmão Richard?}
+{275}{}{Eu sou Chris, Chris Wright, da FamÃ­lia Wright. Quer me perguntar algo?}
+{276}{}{Na verdade sim, estou procurando trabalho. A FamÃ­lia Wright estÃ¡ precisando?}
+{277}{}{FamÃ­lia Wright? Quem sÃ£o esses?}
+{278}{}{Chris Wright, Ã©? Olha, eu encontrei sua mÃ£e.}
+{279}{}{VocÃª pode me contar o que aconteceu com seu irmÃ£o Richard?}
 {280}{}{Nada, na verdade. Desculpe incomodar.}
-{290}{}{Você nunca ouviu falar da Família Wright? Deve ter andado muito tempo no deserto. Família
- Wright é a maior família do crime em Reno, e vamos governar esta cidade.}
-{291}{}{Sério? Parece que a Família Wright tem o que precisa. Vocês estão contratando?}
-{292}{}{Na verdade, me pareceu que vocês eram uma das famílias mais fracas... Quero dizer, vocês só
- trabalham com álcool, não têm cassino ou comércio de drogas, e seu pessoal é muito menor que
- o de outras famílias.}
-{293}{}{Falando em família, me encontrei com sua mãe.}
-{294}{}{Você pode me contar o que aconteceu com seu irmão Richard?}
+{290}{}{VocÃª nunca ouviu falar da FamÃ­lia Wright? Deve ter andado muito tempo no deserto. FamÃ­lia
+ Wright Ã© a maior famÃ­lia do crime em Reno, e vamos governar esta cidade.}
+{291}{}{SÃ©rio? Parece que a FamÃ­lia Wright tem o que precisa. VocÃªs estÃ£o contratando?}
+{292}{}{Na verdade, me pareceu que vocÃªs eram uma das famÃ­lias mais fracas... Quero dizer, vocÃªs sÃ³
+ trabalham com Ã¡lcool, nÃ£o tÃªm cassino ou comÃ©rcio de drogas, e seu pessoal Ã© muito menor que
+ o de outras famÃ­lias.}
+{293}{}{Falando em famÃ­lia, me encontrei com sua mÃ£e.}
+{294}{}{VocÃª pode me contar o que aconteceu com seu irmÃ£o Richard?}
 {295}{}{Mesmo? Que interessante... bem, olhe, eu tenho que ir.}
-{305}{}{Como o quê?}
-{306}{}{Você pode me falar sobre a Família Wright?}
-{307}{}{A Família Wright está contratando?}
-{308}{}{Encontrei sua mãe há pouco tempo. Mulher agradável.}
-{309}{}{Você pode me contar o que aconteceu com seu irmão Richard?}
-{310}{}{Não, sem mais perguntas. É melhor eu ir.}
-{315}{}{(O jovem se vira para você, te olha de cima a baixo. Seus olhos param na marca em sua testa.) Bem, agora.
- (Ele zomba, depois cospe em seus pés.) Por que você não se faz útil e lambe isso, escravo?}
-{316}{}{(O jovem se vira para você, te olha de cima a baixo.) Bem, agora. (Ele zomba, depois cospe em seus pés.) Por que
- você não se torna útil e lambe isso, seu pedaço de merda [FA]?}
-{317}{}{Você o chuta com a bota que ele cuspiu.}
+{305}{}{Como o quÃª?}
+{306}{}{VocÃª pode me falar sobre a FamÃ­lia Wright?}
+{307}{}{A FamÃ­lia Wright estÃ¡ contratando?}
+{308}{}{Encontrei sua mÃ£e hÃ¡ pouco tempo. Mulher agradÃ¡vel.}
+{309}{}{VocÃª pode me contar o que aconteceu com seu irmÃ£o Richard?}
+{310}{}{NÃ£o, sem mais perguntas. Ã‰ melhor eu ir.}
+{315}{}{(O jovem se vira para vocÃª, te olha de cima a baixo. Seus olhos param na marca em sua testa.) Bem, agora.
+ (Ele zomba, depois cospe em seus pÃ©s.) Por que vocÃª nÃ£o se faz Ãºtil e lambe isso, escravo?}
+{316}{}{(O jovem se vira para vocÃª, te olha de cima a baixo.) Bem, agora. (Ele zomba, depois cospe em seus pÃ©s.) Por que
+ vocÃª nÃ£o se torna Ãºtil e lambe isso, seu pedaÃ§o de merda [FA]?}
+{317}{}{VocÃª o chuta com a bota que ele cuspiu.}
 {318}{}{Afasta-se }
-{319}{}{Você o deixa em paz e vai embora. Desta vez. }
-{325}{}{Bem... quero dizer, a família Wright... minha família... pode ter uma vaga. Eu não estou prometendo nada, mas vá para a
- mansão ao sul daqui, encontre meu irmão Keith e diga a ele que eu te enviei. O nome é Chris, Chris Wright.}
-{326}{}{Uh, Família Wright? Quem são?}
-{327}{}{Wright, é? Encontrei com sua mãe.}
-{328}{}{Você pode me contar o que aconteceu com seu irmão Richard?}
+{319}{}{VocÃª o deixa em paz e vai embora. Desta vez. }
+{325}{}{Bem... quero dizer, a famÃ­lia Wright... minha famÃ­lia... pode ter uma vaga. Eu nÃ£o estou prometendo nada, mas vÃ¡ para a
+ mansÃ£o ao sul daqui, encontre meu irmÃ£o Keith e diga a ele que eu te enviei. O nome Ã© Chris, Chris Wright.}
+{326}{}{Uh, FamÃ­lia Wright? Quem sÃ£o?}
+{327}{}{Wright, Ã©? Encontrei com sua mÃ£e.}
+{328}{}{VocÃª pode me contar o que aconteceu com seu irmÃ£o Richard?}
 {329}{}{Obrigado. Eu vou falar com ele.}
-{335}{}{Não, não consigo pensar em nenhum lugar que esteja contratando.  A maioria das famílias da cidade são bastante unidas.}
-{336}{}{Está certo então.}
+{335}{}{NÃ£o, nÃ£o consigo pensar em nenhum lugar que esteja contratando.  A maioria das famÃ­lias da cidade sÃ£o bastante unidas.}
+{336}{}{EstÃ¡ certo entÃ£o.}
 {345}{}{Oh, brilhante. Ele te deu um discurso?}
-{346}{}{Um pouco. Você não gosta da sua mãe?}
-{347}{}{Não. Você costuma fazer isso?}
-{348}{}{Na verdade, não. Olha, é melhor eu ir. }
-{355}{}{Isso é alguma *piada?* Se for, errou feio em encontrar o cara pra contar. Está tentando começar algo com a
- Família Wright, espertinho?}
-{356}{}{Começar algo? Não, só *acabar*.}
-{357}{}{Não, desculpe. Eu não queria dizer isso. Olha, eu tinha algumas outras perguntas...}
-{358}{}{Não, de jeito nenhum. Acho melhor eu ir. }
-{365}{}{Ela quase nunca não presta atenção ao que está acontecendo ao redor. Claro que eu a amo, mas às vezes ela é cega como uma mula.}
-{366}{}{Bem, não faz muito tempo, ela invadiu nosso alambique e acabou com o lugar, destruiu toda a produção! Claro que eu a amo, mas às vezes ela é teimosa como uma mula.}
-{367}{}{Heh heh. Ela também se parece com uma.}
-{368}{}{Cego? O que você quer dizer?}
-{369}{}{Oh. Ei, tenho algumas outras perguntas…}
-{370}{}{Suponho. Olha, é melhor eu ir. }
-{380}{}{Ela anda por aí e prega muito sobre pecado e tudo mais, só que ela nem sabe o que papai faz. É isso, ou ela
+{346}{}{Um pouco. VocÃª nÃ£o gosta da sua mÃ£e?}
+{347}{}{NÃ£o. VocÃª costuma fazer isso?}
+{348}{}{Na verdade, nÃ£o. Olha, Ã© melhor eu ir. }
+{355}{}{Isso Ã© alguma *piada?* Se for, errou feio em encontrar o cara pra contar. EstÃ¡ tentando comeÃ§ar algo com a
+ FamÃ­lia Wright, espertinho?}
+{356}{}{ComeÃ§ar algo? NÃ£o, sÃ³ *acabar*.}
+{357}{}{NÃ£o, desculpe. Eu nÃ£o queria dizer isso. Olha, eu tinha algumas outras perguntas...}
+{358}{}{NÃ£o, de jeito nenhum. Acho melhor eu ir. }
+{365}{}{Ela quase nunca nÃ£o presta atenÃ§Ã£o ao que estÃ¡ acontecendo ao redor. Claro que eu a amo, mas Ã s vezes ela Ã© cega como uma mula.}
+{366}{}{Bem, nÃ£o faz muito tempo, ela invadiu nosso alambique e acabou com o lugar, destruiu toda a produÃ§Ã£o! Claro que eu a amo, mas Ã s vezes ela Ã© teimosa como uma mula.}
+{367}{}{Heh heh. Ela tambÃ©m se parece com uma.}
+{368}{}{Cego? O que vocÃª quer dizer?}
+{369}{}{Oh. Ei, tenho algumas outras perguntasâ€¦}
+{370}{}{Suponho. Olha, Ã© melhor eu ir. }
+{380}{}{Ela anda por aÃ­ e prega muito sobre pecado e tudo mais, sÃ³ que ela nem sabe o que papai faz. Ã‰ isso, ou ela
  ignore.}
 {381}{}{O que o seu pai faz?}
 {382}{}{Hmmmm. Diga, eu tinha algumas outras perguntas...}
 {383}{}{Interessante. Bem, eu tenho que ir. }
-{390}{}{Fabrica álcool, usa armas, apaga as pessoas que fodem com ele... coisas típicas da família. Mamãe
- ficaria chateada se realmente reparasse nas coisas que estão acontecendo. E 'especialmente se ela encontrou isso ainda, aqui.}
-{391}{}{Quão chateada ela ficaria?}
+{390}{}{Fabrica Ã¡lcool, usa armas, apaga as pessoas que fodem com ele... coisas tÃ­picas da famÃ­lia. MamÃ£e
+ ficaria chateada se realmente reparasse nas coisas que estÃ£o acontecendo. E 'especialmente se ela encontrou isso ainda, aqui.}
+{391}{}{QuÃ£o chateada ela ficaria?}
 {392}{}{Hmmmm. Diga, eu tinha algumas outras perguntas...}
 {393}{}{Interessante. Bem, eu tenho que ir. }
-{400}{}{Provavelmente chateada o suficiente para destruir este lugar... pelo menos. Então ela dava a todos nós um
- sermão e alguns dias inteiros de pregação. Heh.}
+{400}{}{Provavelmente chateada o suficiente para destruir este lugar... pelo menos. EntÃ£o ela dava a todos nÃ³s um
+ sermÃ£o e alguns dias inteiros de pregaÃ§Ã£o. Heh.}
 {401}{}{Hum. Diga, eu tinha algumas outras perguntas...}
 {402}{}{Hmmmmm. Obrigado. }
-{410}{}{Rich? Oh, você sabe, eles o encontraram como aqueles viciados em Jet, morto em uma sarjeta. Até onde podemos 
- presumir, alguém o injetou com drogas até morrer.}
-{411}{}{'Alguém' deu muito a ele? Como você sabe que ele não teve uma overdose por tomar demais?}
-{412}{}{Quem você acha que pode ter feito isso?}
+{410}{}{Rich? Oh, vocÃª sabe, eles o encontraram como aqueles viciados em Jet, morto em uma sarjeta. AtÃ© onde podemos 
+ presumir, alguÃ©m o injetou com drogas atÃ© morrer.}
+{411}{}{'AlguÃ©m' deu muito a ele? Como vocÃª sabe que ele nÃ£o teve uma overdose por tomar demais?}
+{412}{}{Quem vocÃª acha que pode ter feito isso?}
 {413}{}{Lamento ouvir isso. Eu tinha outras perguntas...}
-{414}{}{Terrível. Olha, eu tenho que ir. }
-{420}{}{Porque ele era um garoto limpo... Mamãe o ensinou MUITO. E se você quiser achar algo diferente, talvez você e eu
- devêssemos resolver isso aqui.}
-{421}{}{Eu não quis dizer algo assim. Me desculpe.}
-{422}{}{Não ignore a possibilidade de que eu possa estar tomando Jet, é extremamente viciante.}
-{423}{}{Ei, GAROTO, se você sabe o que é bom para você, vai parar de jogar de derrubar qualquer verdade que
+{414}{}{TerrÃ­vel. Olha, eu tenho que ir. }
+{420}{}{Porque ele era um garoto limpo... MamÃ£e o ensinou MUITO. E se vocÃª quiser achar algo diferente, talvez vocÃª e eu
+ devÃªssemos resolver isso aqui.}
+{421}{}{Eu nÃ£o quis dizer algo assim. Me desculpe.}
+{422}{}{NÃ£o ignore a possibilidade de que eu possa estar tomando Jet, Ã© extremamente viciante.}
+{423}{}{Ei, GAROTO, se vocÃª sabe o que Ã© bom para vocÃª, vai parar de jogar de derrubar qualquer verdade que
  aparece direto na sua cara.}
-{424}{}{Quem você acha que pode ter feito isso?}
-{425}{}{Não procuro problemas. Será melhor eu ir. }
-{435}{}{Sim, bem, só tome cuidado. Existem muitas coisas enganosas sendo ditas sobre os Wrights, então não vá dizendo qualquer coisa por aí, beleza?}
-{436}{}{Não ignore a possibilidade de que eu possa estar tomando Jet, é extremamente viciante.}
-{437}{}{Olha, GARTO, não comece. Se você sabe o que é bom para você, vai parar de jogar de derrubar qualquer verdade
+{424}{}{Quem vocÃª acha que pode ter feito isso?}
+{425}{}{NÃ£o procuro problemas. SerÃ¡ melhor eu ir. }
+{435}{}{Sim, bem, sÃ³ tome cuidado. Existem muitas coisas enganosas sendo ditas sobre os Wrights, entÃ£o nÃ£o vÃ¡ dizendo qualquer coisa por aÃ­, beleza?}
+{436}{}{NÃ£o ignore a possibilidade de que eu possa estar tomando Jet, Ã© extremamente viciante.}
+{437}{}{Olha, GARTO, nÃ£o comece. Se vocÃª sabe o que Ã© bom para vocÃª, vai parar de jogar de derrubar qualquer verdade
  que aparece direto na sua cara.}
-{438}{}{Desculpe, não queria ofender. Diga, eu tinha algumas outras perguntas...}
-{439}{}{Entendo. É melhor eu ir. }
-{445}{}{Não me perturbe. Não tenho mais nada para te dizer.}
+{438}{}{Desculpe, nÃ£o queria ofender. Diga, eu tinha algumas outras perguntas...}
+{439}{}{Entendo. Ã‰ melhor eu ir. }
+{445}{}{NÃ£o me perturbe. NÃ£o tenho mais nada para te dizer.}
 {446}{}{Espere. Eu tenho mais perguntas.}
 {447}{}{Estou indo, estou indo. }
-{455}{}{(Chris olha para você por um momento, então te ataca!)}
-{456}{}{Então é assim que vai SER, hein? TUDO BEM ENTÃO, VAMOS G --}
-{465}{}{Meu palpite são os Mordinos, um de seus traficantes ou alguém da própria família Mordino. Esses desgraçados fazem toneladas de Jet.}
+{455}{}{(Chris olha para vocÃª por um momento, entÃ£o te ataca!)}
+{456}{}{EntÃ£o Ã© assim que vai SER, hein? TUDO BEM ENTÃƒO, VAMOS G --}
+{465}{}{Meu palpite sÃ£o os Mordinos, um de seus traficantes ou alguÃ©m da prÃ³pria famÃ­lia Mordino. Esses desgraÃ§ados fazem toneladas de Jet.}
 {466}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
-{467}{}{Qual dos traficantes você acha que vendeu para Richard?}
-{468}{}{Entendo. É melhor eu ir. }
+{467}{}{Qual dos traficantes vocÃª acha que vendeu para Richard?}
+{468}{}{Entendo. Ã‰ melhor eu ir. }
 {475}{}{Poderia ter sido qualquer um deles: Jagged Jimmy J, aquele filho da puta cheio de cicatrizes na esquina da Virgin
- Street, ou Renesco "o Homem-Foguete", aquele pilantra que vende Jet por fora do reservatório fortificado no West Side.}
+ Street, ou Renesco "o Homem-Foguete", aquele pilantra que vende Jet por fora do reservatÃ³rio fortificado no West Side.}
 {476}{}{Algum outro traficante?}
 {477}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
 {485}{}{Ei, cara, OBRIGADO.}
 {486}{}{Ei, senhorita, OBRIGADO.}
-{487}{}{Você descobre quem matou meu irmão, e toda a Família Wright te agradece. E não é um agradecimento pequeno, entendeu?}
+{487}{}{VocÃª descobre quem matou meu irmÃ£o, e toda a FamÃ­lia Wright te agradece. E nÃ£o Ã© um agradecimento pequeno, entendeu?}
 {488}{}{Entendo. Te encontro mais tarde, Chris. }
-{495}{}{Tem Jules que também vende jet, mais na cabeça da cidade, só que ele foca nos turistas... sobra o Pequeno
+{495}{}{Tem Jules que tambÃ©m vende jet, mais na cabeÃ§a da cidade, sÃ³ que ele foca nos turistas... sobra o Pequeno
  Jesus Mordino: ele pode ter empurrado drogas para Rich enquanto Rich estava sozinho. Ele fica no Desperado.}
 {496}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
-{497}{}{Jagged Jimmy J, Renesco, Jules e Pequeno Jesus... Vou dar uma olhada neles. Obrigado pela informação, Cris. }
+{497}{}{Jagged Jimmy J, Renesco, Jules e Pequeno Jesus... Vou dar uma olhada neles. Obrigado pela informaÃ§Ã£o, Cris. }
 {1200}{}{! Way to kick the Enclave's ass!}
-{1201}{}{! Você é demais!}
+{1201}{}{! VocÃª Ã© demais!}
 {1202}{}{!}
-{1220}{}{. O que você tem feito?}
+{1220}{}{. O que vocÃª tem feito?}
 {1221}{}{?}
-{1222}{}{. Como estão as coisas?}
-{1246}{}{? Todo mundo está te tratando bem? Tem alguma coisa que você precise?}
+{1222}{}{. Como estÃ£o as coisas?}
+{1246}{}{? Todo mundo estÃ¡ te tratando bem? Tem alguma coisa que vocÃª precise?}

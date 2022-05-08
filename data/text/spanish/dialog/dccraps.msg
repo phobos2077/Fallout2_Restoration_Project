@@ -1,1 +1,1 @@
-{100}{}{Lo siento, la jefa dice que no podemos seguir dej·ndole jugar.}
+{100}{}{Lo siento, la jefa dice que no podemos seguir dej√°ndole jugar.}

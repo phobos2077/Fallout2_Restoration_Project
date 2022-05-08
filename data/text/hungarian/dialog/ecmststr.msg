@@ -1,6 +1,6 @@
-{100}{}{Egy készséges idegent látsz.}
+{100}{}{Egy kÃ©szsÃ©ges idegent lÃ¡tsz.}
 {101}{}{? a "Titokzatos Idegen".}
 {102}{}{I will help thee.}
 {103}{}{I don't talk much.}
 {104}{}{Looks like you could use some assistance.}
-{105}{}{Gyerünk!}
+{105}{}{GyerÃ¼nk!}

@@ -1,80 +1,80 @@
-{100}{}{Ez az ?sz hajú férfi az ÚKK rend?rségének egyenruháját viseli.}
-{101}{}{? az ÚKK seriffje.}
-{102}{}{Ez a férfi a konzervativizmus netovábbja... a keményen dolgozó, ellentmondást nem t?r? fajta.}
-{103}{}{Üdvözöljük az ÚKK-ban, idegen. A nevem Dumont, én vagyok a seriff. Remélem, zavartalanul tölti nálunk az idejét.}
-{104}{}{Fogadjon meg egy tanácsot Dumont serifft?l, idegen! Ezt a várost hidegen hagyja a maga fajtája. Bármilyen gondot okoz, bekeményítek. Nos, tehetek magáért valamit?}
-{105}{}{Üdv! Tehetek valamit magáért?}
-{106}{}{Na, köpje már ki!}
-{107}{}{Örrrgh.}
-{108}{}{A 13-as Menedéket keresem. Nem tudja, merre van?}
-{109}{}{Nincs egy ÉLETED?}
-{110}{}{Tisztességes munkát keresek. Tudna segíteni?}
-{111}{}{Ó, rendben. Minden nagyon faszányos.}
-{112}{}{Elmaradottak vagyunk picit? Hozzád beszélek. Kérdezni akarsz? Hát kérdezz! Oké?}
-{113}{}{13-as Menedék?}
-{114}{}{ÉLET?}
-{115}{}{Oké.}
-{116}{}{Nem, fogalmam sincs. Err?l még Tandi elnökn? is szívesen hallana egy-két kézzelfogható információt. Sok problémát megoldana.}
-{117}{}{Miféle problémát?}
-{118}{}{Mondanál valamit Tandi Elnökn?r?l?}
-{119}{}{Nagyszer?! Ilyen az én formám... Köszönöm.}
-{120}{}{Figyeljen rám! Tiszta és egészséges életet élek! Mindenki firtassa a magáét!}
+{100}{}{Ez az ?sz hajÃº fÃ©rfi az ÃšKK rend?rsÃ©gÃ©nek egyenruhÃ¡jÃ¡t viseli.}
+{101}{}{? az ÃšKK seriffje.}
+{102}{}{Ez a fÃ©rfi a konzervativizmus netovÃ¡bbja... a kemÃ©nyen dolgozÃ³, ellentmondÃ¡st nem t?r? fajta.}
+{103}{}{ÃœdvÃ¶zÃ¶ljÃ¼k az ÃšKK-ban, idegen. A nevem Dumont, Ã©n vagyok a seriff. RemÃ©lem, zavartalanul tÃ¶lti nÃ¡lunk az idejÃ©t.}
+{104}{}{Fogadjon meg egy tanÃ¡csot Dumont serifft?l, idegen! Ezt a vÃ¡rost hidegen hagyja a maga fajtÃ¡ja. BÃ¡rmilyen gondot okoz, bekemÃ©nyÃ­tek. Nos, tehetek magÃ¡Ã©rt valamit?}
+{105}{}{Ãœdv! Tehetek valamit magÃ¡Ã©rt?}
+{106}{}{Na, kÃ¶pje mÃ¡r ki!}
+{107}{}{Ã–rrrgh.}
+{108}{}{A 13-as MenedÃ©ket keresem. Nem tudja, merre van?}
+{109}{}{Nincs egy Ã‰LETED?}
+{110}{}{TisztessÃ©ges munkÃ¡t keresek. Tudna segÃ­teni?}
+{111}{}{Ã“, rendben. Minden nagyon faszÃ¡nyos.}
+{112}{}{Elmaradottak vagyunk picit? HozzÃ¡d beszÃ©lek. KÃ©rdezni akarsz? HÃ¡t kÃ©rdezz! OkÃ©?}
+{113}{}{13-as MenedÃ©k?}
+{114}{}{Ã‰LET?}
+{115}{}{OkÃ©.}
+{116}{}{Nem, fogalmam sincs. Err?l mÃ©g Tandi elnÃ¶kn? is szÃ­vesen hallana egy-kÃ©t kÃ©zzelfoghatÃ³ informÃ¡ciÃ³t. Sok problÃ©mÃ¡t megoldana.}
+{117}{}{MifÃ©le problÃ©mÃ¡t?}
+{118}{}{MondanÃ¡l valamit Tandi ElnÃ¶kn?r?l?}
+{119}{}{Nagyszer?! Ilyen az Ã©n formÃ¡m... KÃ¶szÃ¶nÃ¶m.}
+{120}{}{Figyeljen rÃ¡m! Tiszta Ã©s egÃ©szsÃ©ges Ã©letet Ã©lek! Mindenki firtassa a magÃ¡Ã©t!}
 {121}{}{So-rry! I don't suppose you know where Vault 13 is?}
-{122}{}{Felejtsük el, hogy megkérdeztem! Most magára hagyom...}
-{123}{}{Egy halom dolgot tudnék említeni, ha érdekl?dést tanúsít.}
-{124}{}{Maga viccel, nemde? Azután, amit Jackkel tett? Gondolom, tud rendes munkát találni magának.}
-{125}{}{Úgymint?}
-{126}{}{Nem, térjünk rá valami más témára!}
-{127}{}{Felejtse el! Meggondoltam magam, viszlát!}
-{128}{}{Nem 13-as, 15-ös Menedék, igen...}
-{129}{}{Tizen-ötös?}
-{130}{}{Nem. Tizen-háromos!}
-{131}{}{Igen, 15-ös! Te beszél Tandi. Nagy f?nök ÚKK. Tandi ismer Menedék. Akar segítni. Menny Tandi.}
+{122}{}{FelejtsÃ¼k el, hogy megkÃ©rdeztem! Most magÃ¡ra hagyom...}
+{123}{}{Egy halom dolgot tudnÃ©k emlÃ­teni, ha Ã©rdekl?dÃ©st tanÃºsÃ­t.}
+{124}{}{Maga viccel, nemde? AzutÃ¡n, amit Jackkel tett? Gondolom, tud rendes munkÃ¡t talÃ¡lni magÃ¡nak.}
+{125}{}{Ãšgymint?}
+{126}{}{Nem, tÃ©rjÃ¼nk rÃ¡ valami mÃ¡s tÃ©mÃ¡ra!}
+{127}{}{Felejtse el! Meggondoltam magam, viszlÃ¡t!}
+{128}{}{Nem 13-as, 15-Ã¶s MenedÃ©k, igen...}
+{129}{}{Tizen-Ã¶tÃ¶s?}
+{130}{}{Nem. Tizen-hÃ¡romos!}
+{131}{}{Igen, 15-Ã¶s! Te beszÃ©l Tandi. Nagy f?nÃ¶k ÃšKK. Tandi ismer MenedÃ©k. Akar segÃ­tni. Menny Tandi.}
 {132}{}{Tandival? ? kicsoda?}
 {133}{}{Nem menni! Akarni 13!}
-{134}{}{Figyelni! Nem tizenháromos Menedék. Nem taláni. Nem látni. Nincsen tizenháromos. 15-ös van - népek talájják meg. Népek élnek 15-ös Menedékbe. Érteni?}
-{135}{}{Nem tizen-háromos? Tizen-öttös?}
-{136}{}{NEM. AKARNI TIZENHÁROMOS!}
-{137}{}{Arrgh! NINCSEN 13, OSTOBA FAJANKÓ! Nincsen 13! Nem találni. Sohase! Soha!}
-{138}{}{Tandi nagy f?nök. Tandi akarja segít. Beszélni Tandi. Menny Kon-gresszus ház. Rendbe'?}
-{139}{}{ÉLET?}
-{140}{}{Oké.}
-{141}{}{Enyém élet rendbe'...}
-{142}{}{13-as Menedék?}
-{143}{}{Oké.}
-{144}{}{Nézzen körül! Az ÚKK gyorsan növekv? hely. Szükségünk van mindenféle berendezésre, számítógépre, miegymásra. Ez már azóta problémát jelent, hogy a földbitorlók beköltöztek a 15-ös Menedékbe.}
-{145}{}{15-ös Menedék? Földbitorlók? Mi folyik itt?}
-{146}{}{Mi ez a dolog Tandi elnökn?vel?}
-{147}{}{Köszönöm az információt.}
-{148}{}{Az ÚKK elnöke, ki más? Az események annyira aggasztják, hogy még a helyettesemet is kölcsön akarta kérnni. Ki akart osztani neki valami különleges küldetést. Utálok ellentmondani, de egyszer?en nem nélkülözhetem az embereimet.}
-{149}{}{Mit szólna hozzám? Esetleg ajánlhatna engem...}
-{150}{}{Hmm. Az élet nem habostorta...}
-{151}{}{Magát? Hmmm... Nem lehet. Nem is ismerem magát. Mondjuk Tandi elnökn? mindenképp fel akar valakit bérelni, szóval nyugodtan beszéljen vele személyesen! Az irodája a Kongresszusi Épületben van.}
-{152}{}{Köszönöm. Úgy teszek.}
-{153}{}{Tud valamit az ÉLET-r?l?}
-{154}{}{Hát, ez aztán fene rendes magától, idegen... meg egy kicsit merész is. Nem ismerem magát úgy, mint a tenyeremet, és a kinézete sem tetszik! Senkinek nem fogom ajánlani magát. Most pedig dolgom van...}
+{134}{}{Figyelni! Nem tizenhÃ¡romos MenedÃ©k. Nem talÃ¡ni. Nem lÃ¡tni. Nincsen tizenhÃ¡romos. 15-Ã¶s van - nÃ©pek talÃ¡jjÃ¡k meg. NÃ©pek Ã©lnek 15-Ã¶s MenedÃ©kbe. Ã‰rteni?}
+{135}{}{Nem tizen-hÃ¡romos? Tizen-Ã¶ttÃ¶s?}
+{136}{}{NEM. AKARNI TIZENHÃROMOS!}
+{137}{}{Arrgh! NINCSEN 13, OSTOBA FAJANKÃ“! Nincsen 13! Nem talÃ¡lni. Sohase! Soha!}
+{138}{}{Tandi nagy f?nÃ¶k. Tandi akarja segÃ­t. BeszÃ©lni Tandi. Menny Kon-gresszus hÃ¡z. Rendbe'?}
+{139}{}{Ã‰LET?}
+{140}{}{OkÃ©.}
+{141}{}{EnyÃ©m Ã©let rendbe'...}
+{142}{}{13-as MenedÃ©k?}
+{143}{}{OkÃ©.}
+{144}{}{NÃ©zzen kÃ¶rÃ¼l! Az ÃšKK gyorsan nÃ¶vekv? hely. SzÃ¼ksÃ©gÃ¼nk van mindenfÃ©le berendezÃ©sre, szÃ¡mÃ­tÃ³gÃ©pre, miegymÃ¡sra. Ez mÃ¡r azÃ³ta problÃ©mÃ¡t jelent, hogy a fÃ¶ldbitorlÃ³k bekÃ¶ltÃ¶ztek a 15-Ã¶s MenedÃ©kbe.}
+{145}{}{15-Ã¶s MenedÃ©k? FÃ¶ldbitorlÃ³k? Mi folyik itt?}
+{146}{}{Mi ez a dolog Tandi elnÃ¶kn?vel?}
+{147}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t.}
+{148}{}{Az ÃšKK elnÃ¶ke, ki mÃ¡s? Az esemÃ©nyek annyira aggasztjÃ¡k, hogy mÃ©g a helyettesemet is kÃ¶lcsÃ¶n akarta kÃ©rnni. Ki akart osztani neki valami kÃ¼lÃ¶nleges kÃ¼ldetÃ©st. UtÃ¡lok ellentmondani, de egyszer?en nem nÃ©lkÃ¼lÃ¶zhetem az embereimet.}
+{149}{}{Mit szÃ³lna hozzÃ¡m? Esetleg ajÃ¡nlhatna engem...}
+{150}{}{Hmm. Az Ã©let nem habostorta...}
+{151}{}{MagÃ¡t? Hmmm... Nem lehet. Nem is ismerem magÃ¡t. Mondjuk Tandi elnÃ¶kn? mindenkÃ©pp fel akar valakit bÃ©relni, szÃ³val nyugodtan beszÃ©ljen vele szemÃ©lyesen! Az irodÃ¡ja a Kongresszusi Ã‰pÃ¼letben van.}
+{152}{}{KÃ¶szÃ¶nÃ¶m. Ãšgy teszek.}
+{153}{}{Tud valamit az Ã‰LET-r?l?}
+{154}{}{HÃ¡t, ez aztÃ¡n fene rendes magÃ¡tÃ³l, idegen... meg egy kicsit merÃ©sz is. Nem ismerem magÃ¡t Ãºgy, mint a tenyeremet, Ã©s a kinÃ©zete sem tetszik! Senkinek nem fogom ajÃ¡nlani magÃ¡t. Most pedig dolgom van...}
 {155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
 {156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
 {157}{}{Westin?}
-{158}{}{Mondanál valamit Tandi Elnökn?r?l?}
+{158}{}{MondanÃ¡l valamit Tandi ElnÃ¶kn?r?l?}
 {159}{}{Mennem kell.}
 {160}{}{Roger Westin. His spread's just out the west gate. He's been having some problem with varmints. He'd take care of it himself, but his health ain't what it used to be. Bad ticker, Doc Jubilee says.}
 {161}{}{Eggen?}
-{162}{}{Van valami munkalehet?ség a városban?}
-{163}{}{Áh, hagyjuk... Mennem kell.}
-{164}{}{Gondoskodjon róla, hogy így is maradnak a dolgok. Viszlát!}
-{165}{}{Nem semmi, amit a vén Jack gyerekkel csinált, idegen. Seriffként is megemelem a kalapomat.}
+{162}{}{Van valami munkalehet?sÃ©g a vÃ¡rosban?}
+{163}{}{Ãh, hagyjuk... Mennem kell.}
+{164}{}{Gondoskodjon rÃ³la, hogy Ã­gy is maradnak a dolgok. ViszlÃ¡t!}
+{165}{}{Nem semmi, amit a vÃ©n Jack gyerekkel csinÃ¡lt, idegen. SeriffkÃ©nt is megemelem a kalapomat.}
 {166}{}{Nem tesz semmit.}
-{167}{}{Mit szólna esetleg egy kis jutalomhoz?}
-{168}{}{Hát, nem igazán van jutalomra szánt pénzünk. A köszönetemen kívül mással nem szolgálhatok..}
-{169}{}{Vérjon! Szeretnék néhány kérdést feltenni.}
-{170}{}{Megértem... viszlát!}
-{171}{}{Elnézést, most nem beszélgethetek. Már így is elkéstem a halottszemlér?l. Számomra mondjuk tiszta ügy.}
-{172}{}{Elnézést, se b?nözés, se id?zés.}
-{173}{}{Sivatagi patkányok. Meg kell értenie... ez a város a 15-ös Menedékb?l származtatja magát. Úgy t?nik, volt itt a múltban valami z?r, és a túlél?k alapították Shady Sands városát. A 15-ös Menedék bennünket illet. Néhány évvel ezel?tt néhány földbitorló beköltözött oda, és azóta is csak a baj van velük. Beszéljen Tandival ezügyben!}
+{167}{}{Mit szÃ³lna esetleg egy kis jutalomhoz?}
+{168}{}{HÃ¡t, nem igazÃ¡n van jutalomra szÃ¡nt pÃ©nzÃ¼nk. A kÃ¶szÃ¶netemen kÃ­vÃ¼l mÃ¡ssal nem szolgÃ¡lhatok..}
+{169}{}{VÃ©rjon! SzeretnÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st feltenni.}
+{170}{}{MegÃ©rtem... viszlÃ¡t!}
+{171}{}{ElnÃ©zÃ©st, most nem beszÃ©lgethetek. MÃ¡r Ã­gy is elkÃ©stem a halottszemlÃ©r?l. SzÃ¡momra mondjuk tiszta Ã¼gy.}
+{172}{}{ElnÃ©zÃ©st, se b?nÃ¶zÃ©s, se id?zÃ©s.}
+{173}{}{Sivatagi patkÃ¡nyok. Meg kell Ã©rtenie... ez a vÃ¡ros a 15-Ã¶s MenedÃ©kb?l szÃ¡rmaztatja magÃ¡t. Ãšgy t?nik, volt itt a mÃºltban valami z?r, Ã©s a tÃºlÃ©l?k alapÃ­tottÃ¡k Shady Sands vÃ¡rosÃ¡t. A 15-Ã¶s MenedÃ©k bennÃ¼nket illet. NÃ©hÃ¡ny Ã©vvel ezel?tt nÃ©hÃ¡ny fÃ¶ldbitorlÃ³ bekÃ¶ltÃ¶zÃ¶tt oda, Ã©s azÃ³ta is csak a baj van velÃ¼k. BeszÃ©ljen Tandival ezÃ¼gyben!}
 {174}{}{Tandival? ? kicsoda?}
-{175}{}{Megfontolás tárgyává teszem...}
-{176}{}{Tudomásom szerint nincs több munkalehet?ség.}
+{175}{}{MegfontolÃ¡s tÃ¡rgyÃ¡vÃ¡ teszem...}
+{176}{}{TudomÃ¡som szerint nincs tÃ¶bb munkalehet?sÃ©g.}
 {177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
-{178}{}{Ezzel a szellemi potenciállal mindenki itthagyná ezt a várost, nemhogy még munkát keressen itt.}
+{178}{}{Ezzel a szellemi potenciÃ¡llal mindenki itthagynÃ¡ ezt a vÃ¡rost, nemhogy mÃ©g munkÃ¡t keressen itt.}
 {179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}

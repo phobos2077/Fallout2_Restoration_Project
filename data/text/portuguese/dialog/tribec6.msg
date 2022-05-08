@@ -13,7 +13,7 @@
 {133}{}{Thankee.}
 {140}{}{Greetings, fren.}
 {141}{}{How goes things, warrior?}
-{142}{}{Vá em frente.}
+{142}{}{VÃ¡ em frente.}
 {143}{}{Well met, warrior.}
 {144}{}{Good to peep you again, fren.}
 {260}{}{Me kill slaver!}

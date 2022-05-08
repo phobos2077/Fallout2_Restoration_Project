@@ -1,97 +1,97 @@
-{100}{}{Um bêbado. [Ele tem uma placa escrito "Trabalho por comida."]}
+{100}{}{Um bÃªbado. [Ele tem uma placa escrito "Trabalho por comida."]}
 {101}{}{Karl.}
-{102}{}{Ele está tão sujo que tem algumas flores silvestres crescendo em sua cabeça.}
+{102}{}{Ele estÃ¡ tÃ£o sujo que tem algumas flores silvestres crescendo em sua cabeÃ§a.}
 {150}{}{Toma essa cerveja.}
 {151}{}{Aqui, pegue essa garrafa de cana.}
 {152}{}{Aqui, pegue essa Nuka-Cola.}
-{153}{}{Olá.}
+{153}{}{OlÃ¡.}
 {154}{}{Hey!}
 {155}{}{EI!!}
-{156}{}{Os fantasmas não vão me achar aqui… [soluço]}
+{156}{}{Os fantasmas nÃ£o vÃ£o me achar aquiâ€¦ [soluÃ§o]}
 {157}{}{Bom estar em casa novamente.}
-{159}{}{É o Karl; ele desmaiou.}
+{159}{}{Ã‰ o Karl; ele desmaiou.}
 {160}{}{Ele vai precisar dar uma cochilada.}
 {161}{}{Ah! Os fantasmas da fazenda vieram me pegar!}
-{162}{}{Dá uma esmola para (hic) um fazendeiro aposentado?}
-{163}{}{Claro, cara; quanto você precisa?}
+{162}{}{DÃ¡ uma esmola para (hic) um fazendeiro aposentado?}
+{163}{}{Claro, cara; quanto vocÃª precisa?}
 {164}{}{Que tal um te comprar uma comida quentinha?}
 {165}{}{Desculpe, to sem dinheiro.}
-{166}{}{Qual é a sua história?}
+{166}{}{Qual Ã© a sua histÃ³ria?}
 {167}{}{Aqui esmola?}
 {168}{}{Jooky.}
 {169}{}{Oh, bondosa e generosa pessoa. (hic) Como posso te ajudar hoje? (hic) [Ele retira seu gorro em um gesto de humildade]}
 {170}{}{Aqui tem $100.}
-{173}{}{Desculpe, não tenho nada para você. Tchau.}
-{174}{}{Você sabe onde eu posso encontrar um GECK?}
-{175}{}{Antes você mencionou algo sobre um jardim. Fale mais sobre ele.}
+{173}{}{Desculpe, nÃ£o tenho nada para vocÃª. Tchau.}
+{174}{}{VocÃª sabe onde eu posso encontrar um GECK?}
+{175}{}{Antes vocÃª mencionou algo sobre um jardim. Fale mais sobre ele.}
 {178}{}{Eu vou.}
-{179}{}{Ei pão-duro! (hic) Vamos, eu sei que você tem grana… (hic) Só uma esmolinha… (hic) alguma coisa, qualquer coisa! Mostre alguma compaixão.}
-{180}{}{Pega aí $25.}
-{184}{}{Toma aí $1.}
+{179}{}{Ei pÃ£o-duro! (hic) Vamos, eu sei que vocÃª tem granaâ€¦ (hic) SÃ³ uma esmolinhaâ€¦ (hic) alguma coisa, qualquer coisa! Mostre alguma compaixÃ£o.}
+{180}{}{Pega aÃ­ $25.}
+{184}{}{Toma aÃ­ $1.}
 {185}{}{Aqui o dinheiro.}
 {186}{}{Sem grana.}
-{187}{}{O que você quer?}
+{187}{}{O que vocÃª quer?}
 {188}{}{[Diga para o Karl sobre o que Jo disse.]}
-{189}{}{Fastasmas, Karl… estão em todos lugares. Olha, tem um ali agora!}
+{189}{}{Fastasmas, Karlâ€¦ estÃ£o em todos lugares. Olha, tem um ali agora!}
 {190}{}{Uga uga.}
-{191}{}{Você aqui (hic) para se divertir com pobre Karl de novo? (hic) Bem, o que você está esperando? (hic) Vamos acabar com isso!}
-{198}{}{[Com uma voz insultante.] Que grande generosidade… (hic) Uns $1000 são mais que suficientes.}
+{191}{}{VocÃª aqui (hic) para se divertir com pobre Karl de novo? (hic) Bem, o que vocÃª estÃ¡ esperando? (hic) Vamos acabar com isso!}
+{198}{}{[Com uma voz insultante.] Que grande generosidadeâ€¦ (hic) Uns $1000 sÃ£o mais que suficientes.}
 {199}{}{Certo.}
-{200}{}{Por quanto tempo, um ano? Sem chance; toma aí $25.}
-{201}{}{Você deve achar que sou bobo. To fora.}
-{202}{}{[Karl fica boquiaberto] Obrigado! Você é (hic) uma pessoa muito generosa… (hic) Se precisar de algo (hic) pode pedir. Aliás, 
- (hic) meu nome é Karl.}
-{203}{}{Certamente, Karl; agora que você mencionou, estou procurando por um item chamado GECK. Alguma dica de onde posso achar um?}
+{200}{}{Por quanto tempo, um ano? Sem chance; toma aÃ­ $25.}
+{201}{}{VocÃª deve achar que sou bobo. To fora.}
+{202}{}{[Karl fica boquiaberto] Obrigado! VocÃª Ã© (hic) uma pessoa muito generosaâ€¦ (hic) Se precisar de algo (hic) pode pedir. AliÃ¡s, 
+ (hic) meu nome Ã© Karl.}
+{203}{}{Certamente, Karl; agora que vocÃª mencionou, estou procurando por um item chamado GECK. Alguma dica de onde posso achar um?}
 {204}{}{Eu vou lembrar disso. Se cuida, Karl.}
-{205}{}{Que tipo de pessoa você é? (hic) Sacaneando um fazendeiro pobre e sem lar. Me deixa em paz!}
-{206}{}{Sei… (hic) Me disseram que é um tipo de lagarto (hic). Porém nunca vi um.}
-{207}{}{Não, procurando um GECK, não um gecko.}
-{208}{}{Deixa pra lá. Agradeço a informação.}
-{209}{}{Oh! Você quer dizer um gecko… (hic) Sim, é um lagar-(hic)-tão. [Karl gesticula com as mãos para tentar te mostrar o tamanho. 
- Não dá para saber, o lagarto pode ter 20 centímetros ou 2 metros.]}
-{210}{}{Vou tentar explicar. Não estou procurando um lagarto chamado gecko. Estou procurando um objeto chamado GECK.}
-{212}{}{Porque não disse logo? (hic) Eu sei onde tem um… (hic) GECK… [Karl desmaiou e caiu de cara no chão.]}
-{213}{}{[Talvez quando Karl acordar, você possa falar com ele novamente.]}
-{214}{}{Abençoado seja! (hic) Você salvou minha vida.}
+{205}{}{Que tipo de pessoa vocÃª Ã©? (hic) Sacaneando um fazendeiro pobre e sem lar. Me deixa em paz!}
+{206}{}{Seiâ€¦ (hic) Me disseram que Ã© um tipo de lagarto (hic). PorÃ©m nunca vi um.}
+{207}{}{NÃ£o, procurando um GECK, nÃ£o um gecko.}
+{208}{}{Deixa pra lÃ¡. AgradeÃ§o a informaÃ§Ã£o.}
+{209}{}{Oh! VocÃª quer dizer um geckoâ€¦ (hic) Sim, Ã© um lagar-(hic)-tÃ£o. [Karl gesticula com as mÃ£os para tentar te mostrar o tamanho. 
+ NÃ£o dÃ¡ para saber, o lagarto pode ter 20 centÃ­metros ou 2 metros.]}
+{210}{}{Vou tentar explicar. NÃ£o estou procurando um lagarto chamado gecko. Estou procurando um objeto chamado GECK.}
+{212}{}{Porque nÃ£o disse logo? (hic) Eu sei onde tem umâ€¦ (hic) GECKâ€¦ [Karl desmaiou e caiu de cara no chÃ£o.]}
+{213}{}{[Talvez quando Karl acordar, vocÃª possa falar com ele novamente.]}
+{214}{}{AbenÃ§oado seja! (hic) VocÃª salvou minha vida.}
 {215}{}{Estou procurando um GECK; pode me ajudar?}
-{216}{}{Não esquenta. Vejo você por aí, Karl.}
-{217}{}{Hum… (hic) Não estou com fome agora… (hic) Que tal me dar a grana agora para eu comer mais tarde? (hic)}
-{219}{}{Seu pilantra. Aposto que usa o dinheiro que consegue para comprar drogas, não é?}
-{220}{}{Meeer… merrr… merda… O que foi que você colocou? (hic) Pegue de volta… (hic) Seja o que for, isso não é bom.}
-{221}{}{[Antes que você possa responder, Karl cai para frente e desmaia.]}
-{222}{}{Beeeleza… (hic) Você por acaso não teria alguma garrafa de bebi-(hic)-da. Pode ficar (hic) frio por aqui durante a noite.}
-{224}{}{Você realmente é (hic) meu melhor amigo (hic) nesse mundo de cão. [Karl começa a beber toda garrafa de bebida, até o ponto de desmaiar]}
-{225}{}{Bem, talvez você consiga conversar com o Karl mais tarde.}
-{226}{}{Você realmente é (hic) meu melhor amigo (hic) nesse mundo de cão. [Karl abre a garrafa e começa a beber  -- e então cospe tudo em você.] Eca! Que porra é essa?! Ta tentando me envenenar?! Sai fora daqui!}
-{227}{}{Pois, muito (hic) obrigado; você é tão (hic) generoso. Porque não deixa te ajudar com essa bolsa pesada? [Karl meche em sua bolsa e pega metade do seu dinheiro.] Muita bondade sua (hic) se precisar de algo, pode falar.}
+{216}{}{NÃ£o esquenta. Vejo vocÃª por aÃ­, Karl.}
+{217}{}{Humâ€¦ (hic) NÃ£o estou com fome agoraâ€¦ (hic) Que tal me dar a grana agora para eu comer mais tarde? (hic)}
+{219}{}{Seu pilantra. Aposto que usa o dinheiro que consegue para comprar drogas, nÃ£o Ã©?}
+{220}{}{Meeerâ€¦ merrrâ€¦ merdaâ€¦ O que foi que vocÃª colocou? (hic) Pegue de voltaâ€¦ (hic) Seja o que for, isso nÃ£o Ã© bom.}
+{221}{}{[Antes que vocÃª possa responder, Karl cai para frente e desmaia.]}
+{222}{}{Beeelezaâ€¦ (hic) VocÃª por acaso nÃ£o teria alguma garrafa de bebi-(hic)-da. Pode ficar (hic) frio por aqui durante a noite.}
+{224}{}{VocÃª realmente Ã© (hic) meu melhor amigo (hic) nesse mundo de cÃ£o. [Karl comeÃ§a a beber toda garrafa de bebida, atÃ© o ponto de desmaiar]}
+{225}{}{Bem, talvez vocÃª consiga conversar com o Karl mais tarde.}
+{226}{}{VocÃª realmente Ã© (hic) meu melhor amigo (hic) nesse mundo de cÃ£o. [Karl abre a garrafa e comeÃ§a a beber  -- e entÃ£o cospe tudo em vocÃª.] Eca! Que porra Ã© essa?! Ta tentando me envenenar?! Sai fora daqui!}
+{227}{}{Pois, muito (hic) obrigado; vocÃª Ã© tÃ£o (hic) generoso. Porque nÃ£o deixa te ajudar com essa bolsa pesada? [Karl meche em sua bolsa e pega metade do seu dinheiro.] Muita bondade sua (hic) se precisar de algo, pode falar.}
 {228}{}{GECK?}
 {229}{}{Eu vou.}
-{230}{}{Isso aqui… hic… é uma festa enlatada.}
-{231}{}{Então, talvez mais tarde.}
+{230}{}{Isso aquiâ€¦ hicâ€¦ Ã© uma festa enlatada.}
+{231}{}{EntÃ£o, talvez mais tarde.}
 {232}{}{Puxa... (hic) ...obrigado. Talvez eu possa comprar uma bala (hic) para atirar em mim
  mesmo. (hic) Claro que eu teria que economizar (hic) para a arma.}
-{233}{}{Quer dizer… que posso ir pra casa? Sem mais fantasmas? [Karl ajoelha e chora. Cara, não há nada como ver um homem chorando.] Muito obrigado, finalmente posso voltar para casa!}
-{234}{}{Onde?! Nããããooo! Eles me acharam!}
-{235}{}{Porque sim, eu tinha o maior jardim (hic) que uma pessoa poderia querer. Exceto que (hic) de onde eu sou, nós chamamos isso de fazenda…}
-{236}{}{Você não lembra? Estávamos falando sobre o GECK, e você mencinou algo sobre um jardim.}
-{237}{}{Esqueça, isso não vai dar em nada.}
-{238}{}{Ei! (hic) Você é uma graça! Vamos ali atrás (hic) para nos conhecer melhor. Eu posso pagar… tenho $1000. [Karl olha sugestivamente para você.]}
-{239}{}{você sabe que está falando com um homem, não sabe?}
+{233}{}{Quer dizerâ€¦ que posso ir pra casa? Sem mais fantasmas? [Karl ajoelha e chora. Cara, nÃ£o hÃ¡ nada como ver um homem chorando.] Muito obrigado, finalmente posso voltar para casa!}
+{234}{}{Onde?! NÃ£Ã£Ã£Ã£ooo! Eles me acharam!}
+{235}{}{Porque sim, eu tinha o maior jardim (hic) que uma pessoa poderia querer. Exceto que (hic) de onde eu sou, nÃ³s chamamos isso de fazendaâ€¦}
+{236}{}{VocÃª nÃ£o lembra? EstÃ¡vamos falando sobre o GECK, e vocÃª mencinou algo sobre um jardim.}
+{237}{}{EsqueÃ§a, isso nÃ£o vai dar em nada.}
+{238}{}{Ei! (hic) VocÃª Ã© uma graÃ§a! Vamos ali atrÃ¡s (hic) para nos conhecer melhor. Eu posso pagarâ€¦ tenho $1000. [Karl olha sugestivamente para vocÃª.]}
+{239}{}{vocÃª sabe que estÃ¡ falando com um homem, nÃ£o sabe?}
 {240}{}{Calro, mas vai te custar $1000.}
-{241}{}{Agradeço a oferta, mas prefiro falar sobre como encontrar um GECK.}
+{241}{}{AgradeÃ§o a oferta, mas prefiro falar sobre como encontrar um GECK.}
 {242}{}{Nem morto!}
-{243}{}{Você é tão agradável... (hic) Se você não fala alguma coisa, eu também não. (hic)}
-{244}{}{[Você quase não segura o vômito.] Preciso ir embora.}
+{243}{}{VocÃª Ã© tÃ£o agradÃ¡vel... (hic) Se vocÃª nÃ£o fala alguma coisa, eu tambÃ©m nÃ£o. (hic)}
+{244}{}{[VocÃª quase nÃ£o segura o vÃ´mito.] Preciso ir embora.}
 {245}{}{OK, $1000.}
-{246}{}{[Você e Karl escapam para uma rapidinha. Para sua surpresa, você até que gostou.]}
-{247}{}{[Ele rapidamente recupera a sobriedade e começa a contar sua história] Já fui um cidadão respeitável antes de vir para cá.
- Era um pacífico fazendeiro que trabalhava duro nos campos como qualquer homem – até que eles começaram a aparecer durante a noite.
- Todos brilhando, com uma pele pálida e pastosa... me caguei todo com medo disso. Noite após noite eles apareceram, roubando tanto as
- plantações quando as plantações. Não pude fazer nada para impedir. Eu sei o que você vai dizer – “Porque não pediu ajuda” E te digo que pedi!
- Mas ninguém acreditou em mim, acharam que eu tava louco. Teve uma hora que tudo isso era demais para mim. EU NÃO AGUENTAVA MAIS!
- Simplesmente fui embora e vim para cá – e aqui estou desde então. [Karl começa a chorar incontrolavelmente. Você resolve deixá-lo
+{246}{}{[VocÃª e Karl escapam para uma rapidinha. Para sua surpresa, vocÃª atÃ© que gostou.]}
+{247}{}{[Ele rapidamente recupera a sobriedade e comeÃ§a a contar sua histÃ³ria] JÃ¡ fui um cidadÃ£o respeitÃ¡vel antes de vir para cÃ¡.
+ Era um pacÃ­fico fazendeiro que trabalhava duro nos campos como qualquer homem â€“ atÃ© que eles comeÃ§aram a aparecer durante a noite.
+ Todos brilhando, com uma pele pÃ¡lida e pastosa... me caguei todo com medo disso. Noite apÃ³s noite eles apareceram, roubando tanto as
+ plantaÃ§Ãµes quando as plantaÃ§Ãµes. NÃ£o pude fazer nada para impedir. Eu sei o que vocÃª vai dizer â€“ â€œPorque nÃ£o pediu ajudaâ€ E te digo que pedi!
+ Mas ninguÃ©m acreditou em mim, acharam que eu tava louco. Teve uma hora que tudo isso era demais para mim. EU NÃƒO AGUENTAVA MAIS!
+ Simplesmente fui embora e vim para cÃ¡ â€“ e aqui estou desde entÃ£o. [Karl comeÃ§a a chorar incontrolavelmente. VocÃª resolve deixÃ¡-lo
  em seu sofrimento.]}
-{248}{}{Ó Jesus! Acho que deixei meu dinheiro cair em algum lugar. Pegue $}
+{248}{}{Ã“ Jesus! Acho que deixei meu dinheiro cair em algum lugar. Pegue $}
 {249}{}{.}
 {250}{}{Zzz}
 {251}{}{Zzzzzz}
@@ -99,8 +99,8 @@
 {253}{}{Zzzzzzzzzzzz}
 {254}{}{Zzzzzzzzzzzzzzz}
 {255}{}{*ronc* *aham* *ronc*}
-{260}{}{Ó Jesus! Acho que deixei meu dinheiro cair em algum lugar. Pegue $}
-{261}{}{É tudo que tenho.}
-{262}{}{Ó Jesus! Acho que deixei meu dinheiro cair em algum lugar. Desculpe, mas de qualquer forma foi divertido.}
-{300}{}{Vou para casa, graças a você!}
-{400}{}{Você mandou Karl de volta para Modoc.}
+{260}{}{Ã“ Jesus! Acho que deixei meu dinheiro cair em algum lugar. Pegue $}
+{261}{}{Ã‰ tudo que tenho.}
+{262}{}{Ã“ Jesus! Acho que deixei meu dinheiro cair em algum lugar. Desculpe, mas de qualquer forma foi divertido.}
+{300}{}{Vou para casa, graÃ§as a vocÃª!}
+{400}{}{VocÃª mandou Karl de volta para Modoc.}

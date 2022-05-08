@@ -1,3 +1,3 @@
-{100}{}{Widzisz stra¿niczkê.}
-{200}{}{Vegeir powiedzia³, ¿e jeszcze nie mo¿esz wyjœæ.}
-{210}{}{Vegeir powiedzia³, ¿e mogê ciê przepuœciæ.}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{200}{}{Vegeir powiedziaÅ‚, Å¼e jeszcze nie moÅ¼esz wyjÅ›Ä‡.}
+{210}{}{Vegeir powiedziaÅ‚, Å¼e mogÄ™ ciÄ™ przepuÅ›ciÄ‡.}

@@ -1,195 +1,195 @@
-{100}{}{Widzisz rozkoszn¹ "ma³¹ osóbkê".}
+{100}{}{Widzisz rozkosznÄ… "maÅ‚Ä… osÃ³bkÄ™".}
 {101}{}{Widzisz Stuarta Malutkiego.}
-{150}{}{Widzisz karze³ka w dzieciêcym ubranku, który trzymaj¹c w ustach wyka³aczkê uwa¿nie ci siê przygl¹da.}
-{151}{}{Widzisz Stuarta Malutkiego, kar³owatego mened¿era walk bokserskich, który trzymaj¹c w ustach wyka³aczkê uwa¿nie ci siê przygl¹da.}
-{152}{}{Widzisz Stuarta Malutkiego, kar³owatego mened¿era walk bokserskich. Wygl¹da rozkosznie, zupe³nie jak œmierdz¹cy, rudow³osy, pluszowy miœ.}
-{200}{}{Dzieciaku, wiedzia³em, ¿e sobie poradzisz, ale nie wiedzia³em, ¿e przy okazji uratujesz œwiat. Dobra robota.}
+{150}{}{Widzisz karzeÅ‚ka w dzieciÄ™cym ubranku, ktÃ³ry trzymajÄ…c w ustach wykaÅ‚aczkÄ™ uwaÅ¼nie ci siÄ™ przyglÄ…da.}
+{151}{}{Widzisz Stuarta Malutkiego, karÅ‚owatego menedÅ¼era walk bokserskich, ktÃ³ry trzymajÄ…c w ustach wykaÅ‚aczkÄ™ uwaÅ¼nie ci siÄ™ przyglÄ…da.}
+{152}{}{Widzisz Stuarta Malutkiego, karÅ‚owatego menedÅ¼era walk bokserskich. WyglÄ…da rozkosznie, zupeÅ‚nie jak Å›mierdzÄ…cy, rudowÅ‚osy, pluszowy miÅ›.}
+{200}{}{Dzieciaku, wiedziaÅ‚em, Å¼e sobie poradzisz, ale nie wiedziaÅ‚em, Å¼e przy okazji uratujesz Å›wiat. Dobra robota.}
 {201}{}{Jestem z ciebie dumny dzieciaku.}
-{202}{}{Uda³o ci siê dzieciaku. Stuart jest z ciebie dumny.}
-{210}{}{Szkoda, ¿e nie widzia³em jak stajesz do walki z Enklaw¹.}
-{211}{}{Ta bitwa z Enklaw¹ to musia³o byæ coœ. Cholera.}
-{212}{}{Ha! Przysz³o ci kiedyœ na myœl, ¿eby zamiast ratowaæ œwiat wykorzystaæ tê ca³¹ energiê do walki w RINGU?}
+{202}{}{UdaÅ‚o ci siÄ™ dzieciaku. Stuart jest z ciebie dumny.}
+{210}{}{Szkoda, Å¼e nie widziaÅ‚em jak stajesz do walki z EnklawÄ….}
+{211}{}{Ta bitwa z EnklawÄ… to musiaÅ‚o byÄ‡ coÅ›. Cholera.}
+{212}{}{Ha! PrzyszÅ‚o ci kiedyÅ› na myÅ›l, Å¼eby zamiast ratowaÄ‡ Å›wiat wykorzystaÄ‡ tÄ™ caÅ‚Ä… energiÄ™ do walki w RINGU?}
 {220}{}{Jak leci miszczu?}
-{221}{}{Ch³opie, dobrze wygl¹dasz.}
-{222}{}{Masz pi¹chy jak marzenie.}
-{223}{}{Dzieciaku, pewno jadasz b³yskawice i srasz gromami.}
-{224}{}{Uda³o ci siê rzuciæ tego skurrrrwysyna, jak siê rzuca palenie. Dobra robota.}
-{225}{}{Cieszê siê, kochana, ¿e da³em ci szansê.}
-{226}{}{Moja drodza, œwietnie wygl¹dasz.}
-{230}{}{Potrzebny mi jakiœ nowy talent...}
-{231}{}{Durne wa³konie...}
-{232}{}{Gdybym by³ chocia¿ trochê wy¿szy...}
-{233}{}{Oni wszyscy bij¹ siê jak jakieœ moczymordy...}
-{240}{}{(Kiedy podchodzisz do kar³a, ten przygl¹da ci siê uwa¿nie i wyjmuje z ust wyka³aczkê) }
-{241}{}{Te, du¿y, czego TY tu szukasz?}
-{242}{}{Co mogê dla ciebie zrobiæ, s³odziutka?}
-{243}{}{Hejka. Co mogê dla ciebie zrobiæ?}
-{244}{}{Hê?}
-{245}{}{Czemu ty taaaka ma³a?}
-{246}{}{[OdejdŸ]}
-{247}{}{Kim jesteœ?}
-{248}{}{Niewa¿ne. Tylko siê rozgl¹dam.}
-{250}{}{(Robi ruch jakby do ciebie strzela³) Sp³ywaj pó³g³ówku. Marnujesz mój czas.}
+{221}{}{ChÅ‚opie, dobrze wyglÄ…dasz.}
+{222}{}{Masz piÄ…chy jak marzenie.}
+{223}{}{Dzieciaku, pewno jadasz bÅ‚yskawice i srasz gromami.}
+{224}{}{UdaÅ‚o ci siÄ™ rzuciÄ‡ tego skurrrrwysyna, jak siÄ™ rzuca palenie. Dobra robota.}
+{225}{}{CieszÄ™ siÄ™, kochana, Å¼e daÅ‚em ci szansÄ™.}
+{226}{}{Moja drodza, Å›wietnie wyglÄ…dasz.}
+{230}{}{Potrzebny mi jakiÅ› nowy talent...}
+{231}{}{Durne waÅ‚konie...}
+{232}{}{Gdybym byÅ‚ chociaÅ¼ trochÄ™ wyÅ¼szy...}
+{233}{}{Oni wszyscy bijÄ… siÄ™ jak jakieÅ› moczymordy...}
+{240}{}{(Kiedy podchodzisz do karÅ‚a, ten przyglÄ…da ci siÄ™ uwaÅ¼nie i wyjmuje z ust wykaÅ‚aczkÄ™) }
+{241}{}{Te, duÅ¼y, czego TY tu szukasz?}
+{242}{}{Co mogÄ™ dla ciebie zrobiÄ‡, sÅ‚odziutka?}
+{243}{}{Hejka. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{244}{}{HÄ™?}
+{245}{}{Czemu ty taaaka maÅ‚a?}
+{246}{}{[OdejdÅº]}
+{247}{}{Kim jesteÅ›?}
+{248}{}{NiewaÅ¼ne. Tylko siÄ™ rozglÄ…dam.}
+{250}{}{(Robi ruch jakby do ciebie strzelaÅ‚) SpÅ‚ywaj pÃ³Å‚gÅ‚Ã³wku. Marnujesz mÃ³j czas.}
 {251}{}{Bzzzzzzz-bzzzzzz}
-{260}{}{(Wzdycha, wygl¹da jakby chcia³ coœ powiedzieæ, ale powstrzymuje siê spojrzawszy na twoj¹ posturê) Umiesz siê biæ? Wygl¹dasz ca³kiem, ca³kiem.}
-{261}{}{Ja du¿o BIÆ. Ja biæ ty?}
-{262}{}{Ja nie dasz ca³kiem. Ty lubiæ facet? Ja chcieæ.}
-{270}{}{Nie, nie... biæ siê w RINGU! No wiesz, w ringu? (Pokazuje ring bokserski, wyprowadza kilka ciosów w powietrze) Interesuje ciê to?}
-{271}{}{(Uderz ma³ego cz³owieczka w twarz i zabierz mu pieni¹dze, które mia³ wydaæ na obiad.)}
+{260}{}{(Wzdycha, wyglÄ…da jakby chciaÅ‚ coÅ› powiedzieÄ‡, ale powstrzymuje siÄ™ spojrzawszy na twojÄ… posturÄ™) Umiesz siÄ™ biÄ‡? WyglÄ…dasz caÅ‚kiem, caÅ‚kiem.}
+{261}{}{Ja duÅ¼o BIÄ†. Ja biÄ‡ ty?}
+{262}{}{Ja nie dasz caÅ‚kiem. Ty lubiÄ‡ facet? Ja chcieÄ‡.}
+{270}{}{Nie, nie... biÄ‡ siÄ™ w RINGU! No wiesz, w ringu? (Pokazuje ring bokserski, wyprowadza kilka ciosÃ³w w powietrze) Interesuje ciÄ™ to?}
+{271}{}{(Uderz maÅ‚ego czÅ‚owieczka w twarz i zabierz mu pieniÄ…dze, ktÃ³re miaÅ‚ wydaÄ‡ na obiad.)}
 {272}{}{Aha, aha.}
-{273}{}{Jak ja walczyæ, to dostaæ lody?}
+{273}{}{Jak ja walczyÄ‡, to dostaÄ‡ lody?}
 {274}{}{Nia nia.}
-{275}{}{Ja poœlubiæ szszygoda ja iœæ.}
-{280}{}{(Odskakuje) Ej ej ej, pó³g³ówku! Poczekaj z tym, a¿ wejdziesz na ring. No to jak - wchodzisz czy nie?}
+{275}{}{Ja poÅ›lubiÄ‡ szszygoda ja iÅ›Ä‡.}
+{280}{}{(Odskakuje) Ej ej ej, pÃ³Å‚gÅ‚Ã³wku! Poczekaj z tym, aÅ¼ wejdziesz na ring. No to jak - wchodzisz czy nie?}
 {281}{}{Ja wchodzisz.}
 {283}{}{Ja czynie.}
-{290}{}{(Uœmiecha siê) No dobra, jesteœmy umówieni. Stuart jestem, zwykle mówi¹ na mnie Stuart Malutki, ale to tylko dlatego... no, musisz tylko wiedzieæ, ¿e jestem DU¯Y wszêdzie tam, gdzie to jest wa¿ne. A ty pó³g³ówku to jakieœ imiê masz?}
+{290}{}{(UÅ›miecha siÄ™) No dobra, jesteÅ›my umÃ³wieni. Stuart jestem, zwykle mÃ³wiÄ… na mnie Stuart Malutki, ale to tylko dlatego... no, musisz tylko wiedzieÄ‡, Å¼e jestem DUÅ»Y wszÄ™dzie tam, gdzie to jest waÅ¼ne. A ty pÃ³Å‚gÅ‚Ã³wku to jakieÅ› imiÄ™ masz?}
 {291}{}{Ja }
 {292}{}{Ja... Yyy... Ja...}
-{293}{}{Ja Du¿y Stu.}
-{296}{}{[IdŸ sobie w poszukiwaniu przygód.]}
-{300}{}{Ty Ma-ja-mi, tak? "Miami"... PODOBA mi siê. PODOBA. No dobra, chodŸmy zadaæ jakieœ obra¿enia.}
-{301}{}{(Marszczy brwi) M¹drala, co? Phi... nikt mnie tu nie szanuje. (Wzrusza ramionami) No dobra, chodŸmy zadaæ jakieœ obra¿enia.}
+{293}{}{Ja DuÅ¼y Stu.}
+{296}{}{[IdÅº sobie w poszukiwaniu przygÃ³d.]}
+{300}{}{Ty Ma-ja-mi, tak? "Miami"... PODOBA mi siÄ™. PODOBA. No dobra, chodÅºmy zadaÄ‡ jakieÅ› obraÅ¼enia.}
+{301}{}{(Marszczy brwi) MÄ…drala, co? Phi... nikt mnie tu nie szanuje. (Wzrusza ramionami) No dobra, chodÅºmy zadaÄ‡ jakieÅ› obraÅ¼enia.}
 {302}{}{, tak? No dobra }
-{305}{}{[Ucieknij i schowaj siê.]}
-{310}{}{(Nadyma siê z oburzenia) S³uchaj. To, ¿e nie jestem osob¹ tak zwanego "œredniego wzrostu" nie oznacza, ¿e potrzebne mi s¹ jakieœ œrodki zastêpcze.}
+{305}{}{[Ucieknij i schowaj siÄ™.]}
+{310}{}{(Nadyma siÄ™ z oburzenia) SÅ‚uchaj. To, Å¼e nie jestem osobÄ… tak zwanego "Å›redniego wzrostu" nie oznacza, Å¼e potrzebne mi sÄ… jakieÅ› Å›rodki zastÄ™pcze.}
 {311}{}{Ach tak?}
-{320}{}{Precz mi z oczu pó³g³ówku. Nie ma dla ciebie nadziei w tym mieœcie. Spadaj!}
-{321}{}{Pieprzone rozczarowanie. NIGDY nie powinienem tak ryzykowaæ. A teraz wynoœ siê! Spadaj!}
+{320}{}{Precz mi z oczu pÃ³Å‚gÅ‚Ã³wku. Nie ma dla ciebie nadziei w tym mieÅ›cie. Spadaj!}
+{321}{}{Pieprzone rozczarowanie. NIGDY nie powinienem tak ryzykowaÄ‡. A teraz wynoÅ› siÄ™! Spadaj!}
 {322}{}{JA }
 {323}{}{A co z lody}
-{324}{}{[Ucieknij z p³aczem.]}
-{326}{}{[Uœmiechnij siê ³agodnie, przytaknij, a potem zaatakuj go.]}
-{327}{}{Stuart, daj mi jeszcze jedn¹ szansê. No weŸ, tylko JEDN¥ szasê. Poradzê sobie!}
-{328}{}{[OdejdŸ.]}
-{329}{}{(Kiedy wynosz¹ ciê z ringu, Stuart sprawia wra¿enie zniesmaczonego tob¹.)}
-{330}{}{Ch³optasiu, Prze¿uwacz odgryz³ ci uszy, czy co?! }
-{331}{}{Dziewczyno, Prze¿uwacz odgryz³ ci uszy, czy co?! }
-{332}{}{Powiedzia³em SPADAJ! Wynoœ siê st¹d!}
-{333}{}{[Kopnij ma³ego rudego faceta.]}
-{334}{}{[Wybiegnij tupi¹c ze z³oœci¹.]}
-{336}{}{(IdŸ w swoj¹ stronê.)}
-{337}{}{(Robi siê czerwony.) }
-{340}{}{Dam ci jeszcze jedn¹ szansê. Biorê 75% i ¿adnych dyskusji. }
-{341}{}{Dam ci jeszcze jedn¹ szansê. Ale nadal biorê 75% i nie chcê ¿adnych dyskusji. }
-{342}{}{Dobrze. Mogê zacz¹æ walkê od razu. ProwadŸ Stuart.}
-{343}{}{Dobrze. Daj mi chwilê na ma³y odpoczynek, a zaraz wezmê siê do walki.}
-{344}{}{Nic nie jest warte tylu zmartwieñ.}
-{345}{}{(Stuart robi siê czerwony, wygl¹da jakby mia³ zaraz zacz¹æ krzyczeæ, ale przechodzi mu) No dobrze. }
-{346}{}{Schrzañ robotê jeszcze raz, a wylecisz.}
-{350}{}{(Stuart uœmiecha siê jak ma³y szakal) Och }
-{351}{}{Ja mo¿e ju¿ MO¯E ZADAÆ TROCHÊ OBRA¯EÑ JU¯ JU¯ JU¯.}
-{352}{}{Ja uci¹æ ma³y drzemka potem ja mo¿e walczyæ.}
-{353}{}{Ja chcieæ lody.}
-{355}{}{Mogê zaczynaæ od razu. WeŸmy siê do roboty.}
-{356}{}{Najpierw muszê chwilkê odpocz¹æ, potem mogê walczyæ.}
-{357}{}{Wiesz Stuart, chyba mam ju¿ doœæ... tam, na ringu, œmieræ zajrza³a mi w oczy i trochê mnie wystraszy³a. Odk³adam rêkawice do szafki.}
-{360}{}{(Karze³ek mruga oczami i marszczy brwi) ¯e co?}
-{361}{}{Lody, lody, dla och³ody.}
+{324}{}{[Ucieknij z pÅ‚aczem.]}
+{326}{}{[UÅ›miechnij siÄ™ Å‚agodnie, przytaknij, a potem zaatakuj go.]}
+{327}{}{Stuart, daj mi jeszcze jednÄ… szansÄ™. No weÅº, tylko JEDNÄ„ szasÄ™. PoradzÄ™ sobie!}
+{328}{}{[OdejdÅº.]}
+{329}{}{(Kiedy wynoszÄ… ciÄ™ z ringu, Stuart sprawia wraÅ¼enie zniesmaczonego tobÄ….)}
+{330}{}{ChÅ‚optasiu, PrzeÅ¼uwacz odgryzÅ‚ ci uszy, czy co?! }
+{331}{}{Dziewczyno, PrzeÅ¼uwacz odgryzÅ‚ ci uszy, czy co?! }
+{332}{}{PowiedziaÅ‚em SPADAJ! WynoÅ› siÄ™ stÄ…d!}
+{333}{}{[Kopnij maÅ‚ego rudego faceta.]}
+{334}{}{[Wybiegnij tupiÄ…c ze zÅ‚oÅ›ciÄ….]}
+{336}{}{(IdÅº w swojÄ… stronÄ™.)}
+{337}{}{(Robi siÄ™ czerwony.) }
+{340}{}{Dam ci jeszcze jednÄ… szansÄ™. BiorÄ™ 75% i Å¼adnych dyskusji. }
+{341}{}{Dam ci jeszcze jednÄ… szansÄ™. Ale nadal biorÄ™ 75% i nie chcÄ™ Å¼adnych dyskusji. }
+{342}{}{Dobrze. MogÄ™ zaczÄ…Ä‡ walkÄ™ od razu. ProwadÅº Stuart.}
+{343}{}{Dobrze. Daj mi chwilÄ™ na maÅ‚y odpoczynek, a zaraz wezmÄ™ siÄ™ do walki.}
+{344}{}{Nic nie jest warte tylu zmartwieÅ„.}
+{345}{}{(Stuart robi siÄ™ czerwony, wyglÄ…da jakby miaÅ‚ zaraz zaczÄ…Ä‡ krzyczeÄ‡, ale przechodzi mu) No dobrze. }
+{346}{}{SchrzaÅ„ robotÄ™ jeszcze raz, a wylecisz.}
+{350}{}{(Stuart uÅ›miecha siÄ™ jak maÅ‚y szakal) Och }
+{351}{}{Ja moÅ¼e juÅ¼ MOÅ»E ZADAÄ† TROCHÄ˜ OBRAÅ»EÅƒ JUÅ» JUÅ» JUÅ».}
+{352}{}{Ja uciÄ…Ä‡ maÅ‚y drzemka potem ja moÅ¼e walczyÄ‡.}
+{353}{}{Ja chcieÄ‡ lody.}
+{355}{}{MogÄ™ zaczynaÄ‡ od razu. WeÅºmy siÄ™ do roboty.}
+{356}{}{Najpierw muszÄ™ chwilkÄ™ odpoczÄ…Ä‡, potem mogÄ™ walczyÄ‡.}
+{357}{}{Wiesz Stuart, chyba mam juÅ¼ doÅ›Ä‡... tam, na ringu, Å›mierÄ‡ zajrzaÅ‚a mi w oczy i trochÄ™ mnie wystraszyÅ‚a. OdkÅ‚adam rÄ™kawice do szafki.}
+{360}{}{(KarzeÅ‚ek mruga oczami i marszczy brwi) Å»e co?}
+{361}{}{Lody, lody, dla ochÅ‚ody.}
 {362}{}{Uch. Lody. LO-DY.}
-{363}{}{[IdŸ sobie w poszukiwaniu przygód.]}
-{370}{}{(Karze³ek uœmiecha siê niespokojnie) }
-{371}{}{Wiesz, ch³opie, mogê ci to za³atwiæ... ale tylko w sensie jakieœ dziwki albo prochów. }
-{372}{}{Wiesz, ma³a, mogê ci to za³atwiæ... ale tylko w sensie mêskiej prostytutki albo jakichœ prochów. }
-{373}{}{No to chcesz walczyæ czy nie?}
+{363}{}{[IdÅº sobie w poszukiwaniu przygÃ³d.]}
+{370}{}{(KarzeÅ‚ek uÅ›miecha siÄ™ niespokojnie) }
+{371}{}{Wiesz, chÅ‚opie, mogÄ™ ci to zaÅ‚atwiÄ‡... ale tylko w sensie jakieÅ› dziwki albo prochÃ³w. }
+{372}{}{Wiesz, maÅ‚a, mogÄ™ ci to zaÅ‚atwiÄ‡... ale tylko w sensie mÄ™skiej prostytutki albo jakichÅ› prochÃ³w. }
+{373}{}{No to chcesz walczyÄ‡ czy nie?}
 {374}{}{Dobra.}
-{375}{}{Ja musi najpierw od pocz¹æ.}
+{375}{}{Ja musi najpierw od poczÄ…Ä‡.}
 {376}{}{Nia.}
-{380}{}{No, nie bêdê ciê zmusza³, ale to móg³oby byæ naprawdê coœ, ekspresowa droga do sukcesu, szybka winda do nieba... wróæ, gdy zmienisz zdanie. Masz talent.}
-{390}{}{Wspaniale! JedŸmy z tym koksem!}
-{391}{}{[IdŸ za nim.]}
-{400}{}{Co... nikt ci nie MÓWI£ o mnie? O Stuarcie, Stuarcie Malutkim? Najwiêkszym agencie bokserskim w Nowym Reno? }
-{401}{}{Ktoœ ci, ch³opie, zrobi³ œwiñstwo nie mówi¹c o mnie. }
-{402}{}{Ktoœ ci, dziewczyno, zrobi³ œwiñstwo nie mówi¹c o mnie. }
-{404}{}{Hmmmpf. No i? Jak masz na imiê?}
+{380}{}{No, nie bÄ™dÄ™ ciÄ™ zmuszaÅ‚, ale to mÃ³gÅ‚oby byÄ‡ naprawdÄ™ coÅ›, ekspresowa droga do sukcesu, szybka winda do nieba... wrÃ³Ä‡, gdy zmienisz zdanie. Masz talent.}
+{390}{}{Wspaniale! JedÅºmy z tym koksem!}
+{391}{}{[IdÅº za nim.]}
+{400}{}{Co... nikt ci nie MÃ“WIÅ o mnie? O Stuarcie, Stuarcie Malutkim? NajwiÄ™kszym agencie bokserskim w Nowym Reno? }
+{401}{}{KtoÅ› ci, chÅ‚opie, zrobiÅ‚ Å›wiÅ„stwo nie mÃ³wiÄ…c o mnie. }
+{402}{}{KtoÅ› ci, dziewczyno, zrobiÅ‚ Å›wiÅ„stwo nie mÃ³wiÄ…c o mnie. }
+{404}{}{Hmmmpf. No i? Jak masz na imiÄ™?}
 {405}{}{Jestem }
-{407}{}{Pracowa³eœ kiedyœ w cyrku?}
+{407}{}{PracowaÅ‚eÅ› kiedyÅ› w cyrku?}
 {408}{}{"Stuart Malutki"?}
-{409}{}{Mam coœ wiêcej ni¿ tylko nogi. Wiêc b¹dŸ grzeczny, albo bêdziesz mia³ jeszcze wiêcej k³opotów z umawianiem siê na randki, ni¿ mia³eœ do tej pory, rozumiesz?}
-{410}{}{W³aœciwie tylko tak siê rozgl¹dam. Na razie Stuart.}
-{411}{}{(Wk³ada wyka³aczkê z powrotem do ust) Masz jakieœ imiê?}
-{412}{}{(Ogl¹da ciê od góry do do³u) Te nogi maj¹ jakieœ imiê?}
-{420}{}{(Stuart kiwa g³ow¹) }
+{409}{}{Mam coÅ› wiÄ™cej niÅ¼ tylko nogi. WiÄ™c bÄ…dÅº grzeczny, albo bÄ™dziesz miaÅ‚ jeszcze wiÄ™cej kÅ‚opotÃ³w z umawianiem siÄ™ na randki, niÅ¼ miaÅ‚eÅ› do tej pory, rozumiesz?}
+{410}{}{WÅ‚aÅ›ciwie tylko tak siÄ™ rozglÄ…dam. Na razie Stuart.}
+{411}{}{(WkÅ‚ada wykaÅ‚aczkÄ™ z powrotem do ust) Masz jakieÅ› imiÄ™?}
+{412}{}{(OglÄ…da ciÄ™ od gÃ³ry do doÅ‚u) Te nogi majÄ… jakieÅ› imiÄ™?}
+{420}{}{(Stuart kiwa gÅ‚owÄ…) }
 {421}{}{No dobrze, }
 {422}{}{... }
-{423}{}{Co mogê dla ciebie zrobiæ?}
-{424}{}{Chcê siê boksowaæ. Mo¿esz mi to za³atwiæ?}
-{430}{}{(Kiedy podchodzisz, Stuart kiwa g³ow¹ i uœmiecha siê) Hej! S³ysza³em o twoich wyczynach. Gratulacje. Jak leci?}
-{431}{}{(Kiedy podchodzisz, Stuart kiwa g³ow¹) Heeeej, }
-{432}{}{(Kiedy podchodzisz, Stuart uœmiecha siê szyderczo) Proszê, proszê, czy¿ to nie "}
-{433}{}{Moja chcieæ wiêcej walka.}
+{423}{}{Co mogÄ™ dla ciebie zrobiÄ‡?}
+{424}{}{ChcÄ™ siÄ™ boksowaÄ‡. MoÅ¼esz mi to zaÅ‚atwiÄ‡?}
+{430}{}{(Kiedy podchodzisz, Stuart kiwa gÅ‚owÄ… i uÅ›miecha siÄ™) Hej! SÅ‚yszaÅ‚em o twoich wyczynach. Gratulacje. Jak leci?}
+{431}{}{(Kiedy podchodzisz, Stuart kiwa gÅ‚owÄ…) Heeeej, }
+{432}{}{(Kiedy podchodzisz, Stuart uÅ›miecha siÄ™ szyderczo) ProszÄ™, proszÄ™, czyÅ¼ to nie "}
+{433}{}{Moja chcieÄ‡ wiÄ™cej walka.}
 {434}{}{Nic. Pa pa.}
-{435}{}{Ja chcieæ t³uc t³uc t³uc.}
-{436}{}{Stuart, daj mi jeszcze jedn¹ szansê. DAM radê! WeŸ nie b¹dŸ taki...}
-{437}{}{Tylko siê rozgl¹dam.}
-{440}{}{Chcesz siê BOKSOWAÆ? Uch, pozwól dzieciaku, ¿e bêdê z tob¹ szczery. Ty po prostu nie masz do tego formy.}
-{441}{}{Chcesz siê BOKSOWAÆ? No, od tej pory nic mnie ju¿ nie zaskoczy. Widzisz, wiêkszoœæ ofert pracy dla kobiet w Reno to... hmmm. Có¿, s¹dz¹c po tym, jak sprawy wygl¹daj¹, te oferty i tak nie s¹ przeznaczone dla ciebie.}
-{442}{}{Chcesz siê BOKSOWAÆ? No, od tej pory nic mnie ju¿ nie zaskoczy. Wiesz, nie chcê byæ okrutny czy co, ale boksowanie to BRZYDKI sport... i sprawia, ¿e ludzie te¿ staj¹ siê brzydcy. W twoim przypadku by³oby kurde szkoda.}
-{444}{}{Daj mi szansê, a wybaczê ci ten NIEZBYT udany dowcip.}
-{445}{}{Stuart, daj mi szansê.}
-{446}{}{Och, mam gdzieœ to ca³e gówno. Spadam st¹d.}
-{450}{}{Nie, s³odziutka, wybacz, ale to za du¿e ryzyko... mo¿e nawet w ogóle nie pozwoliliby ci walczyæ. Wracaj do domu, dobrze?}
-{451}{}{Nie, ch³opie, wybacz, ale to za du¿e ryzyko... to by by³a masakra. Wracaj do domy, dobrze?}
-{452}{}{Ale w³aœnie o to chodzi Stuart, ¿e nie ma ¿adnych bokserów p³ci ¿eñskiej. Bêdziesz pierwszym agentem sponsoruj¹cym boksera - kobietê. Ludziê bêd¹ waliæ T£UMAMI, ¿eby to zobaczyæ.}
-{453}{}{Ale w³aœnie o to chodzi Stu... mogê nazywaæ ciê Stu, prawda... to BY£ABY masakra. Wiesz, ile by to przyci¹gnê³o uwagi? To by by³o jak przyjœæ na egzekucjê!}
-{454}{}{Och, kit z tym. Spadam st¹d.}
-{460}{}{Nie, s³odziutka, wybacz, ale to za du¿e ryzyko... mo¿e nawet w ogóle nie pozwoliliby ci walczyæ. Wracaj do domu, dobrze?}
-{461}{}{Nie, ch³opie, wybacz, ale to nawet nie by³aby zabawna masakra. Wracaj do domu, dobrze?}
-{462}{}{Tak, to na pewno ryzyko... ale wiesz co Stuart, mog³abym siê trochê *rozebraæ* na rigu. To mog³oby przyci¹gn¹æ wiêcej luda ni¿ zwykle...}
-{463}{}{Och, kit z tym. Spadam st¹d.}
-{470}{}{Hmmmmm... no dobrze, dam ci szansê... ale nic nie obiecujê. Jeœli mi to chocia¿ trochê popsuje interesy, to wylatujesz. (K³adzie rêce na biodrach) Biorê po³owê ka¿dej wygranej i ¿adnych dyskusji.}
-{471}{}{Hmmmmm... dam ci szansê... ale nic nie obiecujê - bior¹c ciê na ring oddajê ci przys³ugê. Biorê po³owê ka¿dej wygranej... ¿adnych dyskusji.}
+{435}{}{Ja chcieÄ‡ tÅ‚uc tÅ‚uc tÅ‚uc.}
+{436}{}{Stuart, daj mi jeszcze jednÄ… szansÄ™. DAM radÄ™! WeÅº nie bÄ…dÅº taki...}
+{437}{}{Tylko siÄ™ rozglÄ…dam.}
+{440}{}{Chcesz siÄ™ BOKSOWAÄ†? Uch, pozwÃ³l dzieciaku, Å¼e bÄ™dÄ™ z tobÄ… szczery. Ty po prostu nie masz do tego formy.}
+{441}{}{Chcesz siÄ™ BOKSOWAÄ†? No, od tej pory nic mnie juÅ¼ nie zaskoczy. Widzisz, wiÄ™kszoÅ›Ä‡ ofert pracy dla kobiet w Reno to... hmmm. CÃ³Å¼, sÄ…dzÄ…c po tym, jak sprawy wyglÄ…dajÄ…, te oferty i tak nie sÄ… przeznaczone dla ciebie.}
+{442}{}{Chcesz siÄ™ BOKSOWAÄ†? No, od tej pory nic mnie juÅ¼ nie zaskoczy. Wiesz, nie chcÄ™ byÄ‡ okrutny czy co, ale boksowanie to BRZYDKI sport... i sprawia, Å¼e ludzie teÅ¼ stajÄ… siÄ™ brzydcy. W twoim przypadku byÅ‚oby kurde szkoda.}
+{444}{}{Daj mi szansÄ™, a wybaczÄ™ ci ten NIEZBYT udany dowcip.}
+{445}{}{Stuart, daj mi szansÄ™.}
+{446}{}{Och, mam gdzieÅ› to caÅ‚e gÃ³wno. Spadam stÄ…d.}
+{450}{}{Nie, sÅ‚odziutka, wybacz, ale to za duÅ¼e ryzyko... moÅ¼e nawet w ogÃ³le nie pozwoliliby ci walczyÄ‡. Wracaj do domu, dobrze?}
+{451}{}{Nie, chÅ‚opie, wybacz, ale to za duÅ¼e ryzyko... to by byÅ‚a masakra. Wracaj do domy, dobrze?}
+{452}{}{Ale wÅ‚aÅ›nie o to chodzi Stuart, Å¼e nie ma Å¼adnych bokserÃ³w pÅ‚ci Å¼eÅ„skiej. BÄ™dziesz pierwszym agentem sponsorujÄ…cym boksera - kobietÄ™. LudziÄ™ bÄ™dÄ… waliÄ‡ TÅUMAMI, Å¼eby to zobaczyÄ‡.}
+{453}{}{Ale wÅ‚aÅ›nie o to chodzi Stu... mogÄ™ nazywaÄ‡ ciÄ™ Stu, prawda... to BYÅABY masakra. Wiesz, ile by to przyciÄ…gnÄ™Å‚o uwagi? To by byÅ‚o jak przyjÅ›Ä‡ na egzekucjÄ™!}
+{454}{}{Och, kit z tym. Spadam stÄ…d.}
+{460}{}{Nie, sÅ‚odziutka, wybacz, ale to za duÅ¼e ryzyko... moÅ¼e nawet w ogÃ³le nie pozwoliliby ci walczyÄ‡. Wracaj do domu, dobrze?}
+{461}{}{Nie, chÅ‚opie, wybacz, ale to nawet nie byÅ‚aby zabawna masakra. Wracaj do domu, dobrze?}
+{462}{}{Tak, to na pewno ryzyko... ale wiesz co Stuart, mogÅ‚abym siÄ™ trochÄ™ *rozebraÄ‡* na rigu. To mogÅ‚oby przyciÄ…gnÄ…Ä‡ wiÄ™cej luda niÅ¼ zwykle...}
+{463}{}{Och, kit z tym. Spadam stÄ…d.}
+{470}{}{Hmmmmm... no dobrze, dam ci szansÄ™... ale nic nie obiecujÄ™. JeÅ›li mi to chociaÅ¼ trochÄ™ popsuje interesy, to wylatujesz. (KÅ‚adzie rÄ™ce na biodrach) BiorÄ™ poÅ‚owÄ™ kaÅ¼dej wygranej i Å¼adnych dyskusji.}
+{471}{}{Hmmmmm... dam ci szansÄ™... ale nic nie obiecujÄ™ - biorÄ…c ciÄ™ na ring oddajÄ™ ci przysÅ‚ugÄ™. BiorÄ™ poÅ‚owÄ™ kaÅ¼dej wygranej... Å¼adnych dyskusji.}
 {472}{}{Zrobione.}
-{473}{}{Obetnij swoj¹ dzia³kê do 25% i umowa stoi.}
-{474}{}{Och, kit z tym. Spadam st¹d.}
-{480}{}{(Stuart marszczy brwi jeszcze bardziej. Wygl¹da jakby chcia³ zaprotestowaæ, ale zamiast tego potrz¹sa g³ow¹ i uœmiecha siê). No dobrze ju¿, dobrze! Wiêc jak ju¿ CA£KIEM skoñczyliœmy z obdzieraniem mnie ze skóry, to mo¿e porozmawiajmy o szczegó³ach.}
+{473}{}{Obetnij swojÄ… dziaÅ‚kÄ™ do 25% i umowa stoi.}
+{474}{}{Och, kit z tym. Spadam stÄ…d.}
+{480}{}{(Stuart marszczy brwi jeszcze bardziej. WyglÄ…da jakby chciaÅ‚ zaprotestowaÄ‡, ale zamiast tego potrzÄ…sa gÅ‚owÄ… i uÅ›miecha siÄ™). No dobrze juÅ¼, dobrze! WiÄ™c jak juÅ¼ CAÅKIEM skoÅ„czyliÅ›my z obdzieraniem mnie ze skÃ³ry, to moÅ¼e porozmawiajmy o szczegÃ³Å‚ach.}
 {481}{}{Dobra...}
-{490}{}{No dobra... (Stuart przygl¹da ci siê) Potrzebne ci bêdzie imiê - no wiesz, ksywa. Coœ, co bêdzie dobrze brzmia³o. Potê¿nie. Bezlitoœnie. Coœ jak }
-{500}{}{(Karze³ marszczy brwi) Czy on nie umar³ wtedy po walce z tym Rosjaninem? Idziemy na ring?}
-{501}{}{(Karze³ uœmiecha siê) Wygl¹da na to, ¿e ty i Prze¿uwacz doskonale siê ze sob¹ dogadacie. Tylko nie odgryŸ zbyt wielu uszu. No to jak... idziemy na ring?}
-{502}{}{(Karze³ uœmiecha siê) Nie wygl¹dasz na kogoœ z Rosji. Ale jeœli to ci pasuje... idziemy na ring?}
-{503}{}{(Karze³ uœmiecha siê) "Wa³a zwyciê¿onym", tia? No dobra... ale miejmy nadziejê, ¿e TY masz przed sob¹ jak¹œ przysz³oœæ... Idziemy na ring?}
-{504}{}{(Karze³ uœmiecha siê) Oko Tygrysa, co? "Aaaydrian", "Aaaydrian"... he he he. Podoba mi siê... to imiê wagi ciê¿kiej. Idziemy na ring?}
-{505}{}{(Karze³ kiwa g³ow¹) }
-{506}{}{Zróbmy to.}
-{510}{}{Nie ma mowy. Fifty-fifty albo NIC. Jak ci siê nie podoba to zmykaj.}
-{511}{}{W porz¹dku. Kto by pomyœla³, ¿e zdarzaj¹ siê wampiry twojego wzrostu.}
-{512}{}{No dobra. 50/50. Coœ jeszcze?}
-{513}{}{Czy ktoœ mówi³ 25/75? OCZYWIŒCIE chodzi³o o 50/50. Podzielimy siê równo po po³owie. Nie ma sprawy.}
-{514}{}{[OdejdŸ]}
-{520}{}{Pewnie, pewnie, wiem, "Stuart Malutki". Moja mama czyta³a du¿o ksi¹¿ek E.R. White'a. A ty masz jakieœ imiê?}
-{521}{}{Hmmppf. Masz jakieœ imiê?}
-{526}{}{Mi³o mi ciê poznaæ Stu. Nie mam w tej chwili czasu na rozmowê. Na razie.}
-{530}{}{A co ka¿e ci s¹dziæ, ¿e kiedykolwiek odwiedzi³em cyrk, nie wspominaj¹c ju¿ o byciu zniewolonym przezeñ?}
-{531}{}{Uch... no, wiem, ¿e wielu mieszkañców Nowego Reno zachowuje siê jakby byli z cyrku i wydawa³o mi siê...}
-{540}{}{Wydawa³o siê TOBIE, ¿e poniewa¿ jest osob¹ niskiego wzrostu, to jedyn¹ mozliw¹ dla mnie drog¹ kariery jest droga na czubek namiotu?}
-{541}{}{Yyy... có¿, teraz...}
-{550}{}{Jedno KRÓTKIE spojrzenie na mnie wystarczy³o ci do okreœlenia ca³ego mojego ¿ycia. Nigdy wczeœniej nie zdarzy³o ci siê poznaæ osoby mojego wzrostu, która zrobi³aby karierê *mened¿era bokserskiego*.}
-{551}{}{Przepraszam. To by³o obraŸliwe z mojej strony.}
-{560}{}{A dlaczego mia³bym byæ obra¿ony? Tylko dlatego, ¿e wszyscy w tej grze maj¹ zwyczaj dokonywania natychmiastowych os¹dów innych BNów, wy³¹cznie na podstawie ich wygl¹du fizycznego?}
-{561}{}{No, nic mi nie wiadomo o NATYCHMIASTOWYCH os¹dach...}
-{570}{}{Wiesz, ja na przyk³ad zrobi³bym dok³adnie to samo z tob¹.}
+{490}{}{No dobra... (Stuart przyglÄ…da ci siÄ™) Potrzebne ci bÄ™dzie imiÄ™ - no wiesz, ksywa. CoÅ›, co bÄ™dzie dobrze brzmiaÅ‚o. PotÄ™Å¼nie. BezlitoÅ›nie. CoÅ› jak }
+{500}{}{(KarzeÅ‚ marszczy brwi) Czy on nie umarÅ‚ wtedy po walce z tym Rosjaninem? Idziemy na ring?}
+{501}{}{(KarzeÅ‚ uÅ›miecha siÄ™) WyglÄ…da na to, Å¼e ty i PrzeÅ¼uwacz doskonale siÄ™ ze sobÄ… dogadacie. Tylko nie odgryÅº zbyt wielu uszu. No to jak... idziemy na ring?}
+{502}{}{(KarzeÅ‚ uÅ›miecha siÄ™) Nie wyglÄ…dasz na kogoÅ› z Rosji. Ale jeÅ›li to ci pasuje... idziemy na ring?}
+{503}{}{(KarzeÅ‚ uÅ›miecha siÄ™) "WaÅ‚a zwyciÄ™Å¼onym", tia? No dobra... ale miejmy nadziejÄ™, Å¼e TY masz przed sobÄ… jakÄ…Å› przyszÅ‚oÅ›Ä‡... Idziemy na ring?}
+{504}{}{(KarzeÅ‚ uÅ›miecha siÄ™) Oko Tygrysa, co? "Aaaydrian", "Aaaydrian"... he he he. Podoba mi siÄ™... to imiÄ™ wagi ciÄ™Å¼kiej. Idziemy na ring?}
+{505}{}{(KarzeÅ‚ kiwa gÅ‚owÄ…) }
+{506}{}{ZrÃ³bmy to.}
+{510}{}{Nie ma mowy. Fifty-fifty albo NIC. Jak ci siÄ™ nie podoba to zmykaj.}
+{511}{}{W porzÄ…dku. Kto by pomyÅ›laÅ‚, Å¼e zdarzajÄ… siÄ™ wampiry twojego wzrostu.}
+{512}{}{No dobra. 50/50. CoÅ› jeszcze?}
+{513}{}{Czy ktoÅ› mÃ³wiÅ‚ 25/75? OCZYWIÅšCIE chodziÅ‚o o 50/50. Podzielimy siÄ™ rÃ³wno po poÅ‚owie. Nie ma sprawy.}
+{514}{}{[OdejdÅº]}
+{520}{}{Pewnie, pewnie, wiem, "Stuart Malutki". Moja mama czytaÅ‚a duÅ¼o ksiÄ…Å¼ek E.R. White'a. A ty masz jakieÅ› imiÄ™?}
+{521}{}{Hmmppf. Masz jakieÅ› imiÄ™?}
+{526}{}{MiÅ‚o mi ciÄ™ poznaÄ‡ Stu. Nie mam w tej chwili czasu na rozmowÄ™. Na razie.}
+{530}{}{A co kaÅ¼e ci sÄ…dziÄ‡, Å¼e kiedykolwiek odwiedziÅ‚em cyrk, nie wspominajÄ…c juÅ¼ o byciu zniewolonym przezeÅ„?}
+{531}{}{Uch... no, wiem, Å¼e wielu mieszkaÅ„cÃ³w Nowego Reno zachowuje siÄ™ jakby byli z cyrku i wydawaÅ‚o mi siÄ™...}
+{540}{}{WydawaÅ‚o siÄ™ TOBIE, Å¼e poniewaÅ¼ jest osobÄ… niskiego wzrostu, to jedynÄ… mozliwÄ… dla mnie drogÄ… kariery jest droga na czubek namiotu?}
+{541}{}{Yyy... cÃ³Å¼, teraz...}
+{550}{}{Jedno KRÃ“TKIE spojrzenie na mnie wystarczyÅ‚o ci do okreÅ›lenia caÅ‚ego mojego Å¼ycia. Nigdy wczeÅ›niej nie zdarzyÅ‚o ci siÄ™ poznaÄ‡ osoby mojego wzrostu, ktÃ³ra zrobiÅ‚aby karierÄ™ *menedÅ¼era bokserskiego*.}
+{551}{}{Przepraszam. To byÅ‚o obraÅºliwe z mojej strony.}
+{560}{}{A dlaczego miaÅ‚bym byÄ‡ obraÅ¼ony? Tylko dlatego, Å¼e wszyscy w tej grze majÄ… zwyczaj dokonywania natychmiastowych osÄ…dÃ³w innych BNÃ³w, wyÅ‚Ä…cznie na podstawie ich wyglÄ…du fizycznego?}
+{561}{}{No, nic mi nie wiadomo o NATYCHMIASTOWYCH osÄ…dach...}
+{570}{}{Wiesz, ja na przykÅ‚ad zrobiÅ‚bym dokÅ‚adnie to samo z tobÄ….}
 {571}{}{Och?}
-{580}{}{(Patrzy na ciebie ze wspó³czuciem) Nie dostrzegasz TRAGIZMU tej sytuacji? Omy³kowo zredukowa³em ciê do stereotypu, karykatury, pospolitej postaci z Fallouta, zamiast doceniæ twoj¹ wyj¹tkowoœæ i niepowtarzalnoœæ.}
-{581}{}{Uch, ale Stuart, ja JESTEM typow¹ postaci¹ bohatera. W³aœciwie to jestem postaci¹ gracza.}
-{590}{}{Nie wszystkie kobiety lgn¹ do wyprê¿onych, nadmiernie umiêœnionych postaci mêskich. Zdziwi³oby ciê jak wiele kobiet uwa¿a mój rozmiar za intryguj¹co POCI¥GAJ¥CY.}
-{591}{}{A ciebie zdziwi³oby jak wielu mê¿czyzn te¿ tak uwa¿a.}
-{600}{}{Patrz¹c na twoje absurdalnie przeroœniête miêsnie, twój kompleks dzielnego Mad-Maxxa i twój pozbawiony wyobraŸni rozdzia³ punktów cech doszed³em do wniosku, ¿e jesteœ typowym, mini-maksuj¹cym chojrakiem.}
-{601}{}{Patrz¹c na twoje przeroœniête cyce, twoj¹ bezsensown¹ manierê krêcenia ty³kiem przy chodzeniu, twój pozbawiony wyobraŸni rozdzia³ punktów cech i doszed³em do wniosku, ¿e jesteœ typow¹ mini-maksuj¹c¹ postaci¹ z kompleksem Laury Kroft... "po³ergamerem".}
+{580}{}{(Patrzy na ciebie ze wspÃ³Å‚czuciem) Nie dostrzegasz TRAGIZMU tej sytuacji? OmyÅ‚kowo zredukowaÅ‚em ciÄ™ do stereotypu, karykatury, pospolitej postaci z Fallouta, zamiast doceniÄ‡ twojÄ… wyjÄ…tkowoÅ›Ä‡ i niepowtarzalnoÅ›Ä‡.}
+{581}{}{Uch, ale Stuart, ja JESTEM typowÄ… postaciÄ… bohatera. WÅ‚aÅ›ciwie to jestem postaciÄ… gracza.}
+{590}{}{Nie wszystkie kobiety lgnÄ… do wyprÄ™Å¼onych, nadmiernie umiÄ™Å›nionych postaci mÄ™skich. ZdziwiÅ‚oby ciÄ™ jak wiele kobiet uwaÅ¼a mÃ³j rozmiar za intrygujÄ…co POCIÄ„GAJÄ„CY.}
+{591}{}{A ciebie zdziwiÅ‚oby jak wielu mÄ™Å¼czyzn teÅ¼ tak uwaÅ¼a.}
+{600}{}{PatrzÄ…c na twoje absurdalnie przeroÅ›niÄ™te miÄ™snie, twÃ³j kompleks dzielnego Mad-Maxxa i twÃ³j pozbawiony wyobraÅºni rozdziaÅ‚ punktÃ³w cech doszedÅ‚em do wniosku, Å¼e jesteÅ› typowym, mini-maksujÄ…cym chojrakiem.}
+{601}{}{PatrzÄ…c na twoje przeroÅ›niÄ™te cyce, twojÄ… bezsensownÄ… manierÄ™ krÄ™cenia tyÅ‚kiem przy chodzeniu, twÃ³j pozbawiony wyobraÅºni rozdziaÅ‚ punktÃ³w cech i doszedÅ‚em do wniosku, Å¼e jesteÅ› typowÄ… mini-maksujÄ…cÄ… postaciÄ… z kompleksem Laury Kroft... "poÅ‚ergamerem".}
 {602}{}{Ja...}
-{610}{}{Jeœli wolisz tak to nazwaæ, to jesteœ niczym wiêcej ni¿ typow¹ "mêsk¹ postaci¹ z gry RPG", jedn¹ z WIELU takich postaci, które zamieszkuj¹ ten œwiat ca³ymi stadami.}
-{611}{}{Jeœli wolisz tak to nazwaæ, to jesteœ niczym wiêcej ni¿ typow¹ "¿eñsk¹ postaci¹ z gry RPG", jedn¹ z WIELU takich postaci, które zamieszkuj¹ ten œwiat ca³ymi stadami.}
-{612}{}{No wiêc...}
-{1302}{}{, chodŸmy zadaæ jakieœ obra¿enia.}
-{1322}{}{ NIE PÓ£ G£ÓWEK JA ZABIÆ TY ZABIÆ ZABIÆ ZA...}
-{1350}{}{, cholernie dobrze ci posz³o... wszystko w porz¹dku, czujesz siê w porz¹dku? Powiedz mi jak siê przygotujesz do nastêpnej walki.}
+{610}{}{JeÅ›li wolisz tak to nazwaÄ‡, to jesteÅ› niczym wiÄ™cej niÅ¼ typowÄ… "mÄ™skÄ… postaciÄ… z gry RPG", jednÄ… z WIELU takich postaci, ktÃ³re zamieszkujÄ… ten Å›wiat caÅ‚ymi stadami.}
+{611}{}{JeÅ›li wolisz tak to nazwaÄ‡, to jesteÅ› niczym wiÄ™cej niÅ¼ typowÄ… "Å¼eÅ„skÄ… postaciÄ… z gry RPG", jednÄ… z WIELU takich postaci, ktÃ³re zamieszkujÄ… ten Å›wiat caÅ‚ymi stadami.}
+{612}{}{No wiÄ™c...}
+{1302}{}{, chodÅºmy zadaÄ‡ jakieÅ› obraÅ¼enia.}
+{1322}{}{ NIE PÃ“Å GÅÃ“WEK JA ZABIÄ† TY ZABIÄ† ZABIÄ† ZA...}
+{1350}{}{, cholernie dobrze ci poszÅ‚o... wszystko w porzÄ…dku, czujesz siÄ™ w porzÄ…dku? Powiedz mi jak siÄ™ przygotujesz do nastÄ™pnej walki.}
 {1405}{}{.}
-{1406}{}{, Chcê siê boksowaæ. Mo¿esz mi to za³atwiæ?}
-{1421}{}{. Mi³o ciê poznaæ. }
-{1422}{}{... Podoba mi siê. £adne imiê. Mi³o mi ciê poznaæ, }
-{1431}{}{(! Jak leci? Chcesz wróciæ na ring?}
-{1432}{}{"? Co ciê tu sprowadza?}
+{1406}{}{, ChcÄ™ siÄ™ boksowaÄ‡. MoÅ¼esz mi to zaÅ‚atwiÄ‡?}
+{1421}{}{. MiÅ‚o ciÄ™ poznaÄ‡. }
+{1422}{}{... Podoba mi siÄ™. Åadne imiÄ™. MiÅ‚o mi ciÄ™ poznaÄ‡, }
+{1431}{}{(! Jak leci? Chcesz wrÃ³ciÄ‡ na ring?}
+{1432}{}{"? Co ciÄ™ tu sprowadza?}
 {1490}{}{ Huragan, }
-{2490}{}{ Buldo¿er, coœ takiego.}
-{2505}{}{... nieŸle, nieŸle. Pasuje (Kiwa g³ow¹ w stronê ringu) No to jak? Bierzemy siê do roboty?}
+{2490}{}{ BuldoÅ¼er, coÅ› takiego.}
+{2505}{}{... nieÅºle, nieÅºle. Pasuje (Kiwa gÅ‚owÄ… w stronÄ™ ringu) No to jak? Bierzemy siÄ™ do roboty?}
 {3422}{}{. }

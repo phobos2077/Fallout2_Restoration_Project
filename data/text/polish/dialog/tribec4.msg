@@ -1,76 +1,76 @@
-{100}{}{Widzisz niskiego, m³odego mê¿czyznê w ³achmanach.}
+{100}{}{Widzisz niskiego, mÅ‚odego mÄ™Å¼czyznÄ™ w Å‚achmanach.}
 {101}{}{Widzisz szamana tej wioski.}
-{102}{}{Ten m³ody cz³owiek ma nawiedzony wyraz twarzy i ca³y siê trzêsie.}
-{103}{}{Szaman wydajê siê du¿o spokojniejszy.}
-{200}{}{[Wydaje siê byæ zamyœlony. Zauwa¿ywszy ciê odskakuje ze strachu, nastêpnie szybko wraca do siebie] Uh, tak, przybyszu? Jeœli przychodzisz szukaj¹c przewodnictwa duchowego, obawiam siê, ¿e w tej chwili nie czujê siê na si³ach. Byæ mo¿e... Byæ mo¿e innym razem.}
-{201}{}{Hê? Oh, to znowu ty. Nie powinieneœ siê tak skradaæ do ludzi. Spójrz, w tej chwili mam du¿o na g³owie. Mo¿e móg³bym pomóc innym razem.}
-{202}{}{Wygl¹dasz jakby coœ ciê trapi³o. Czy jest coœ w czym mogê ci pomóc?}
-{203}{}{Wrócê póŸniej.}
-{204}{}{Haha! Przestraszy³em ciê! Buuu!}
-{210}{}{Oferta pomocy jest mile widziana, ale... Nie, nie, to jest sprawa osobista, sam muszê j¹ rozwi¹zaæ.}
-{211}{}{[Intensywnie siê zastanawia, po czym wzdycha] Doœæ k³opotliwym jest siê do tego przyznaæ, ale... Widzisz, ja tak naprawdê nigdy nie wierzy³em w duchy, ¿ycie po œmierci, nic z tych rzeczy. Wiem, co myœlisz, jaki po¿ytek szamana, który nie wierzy w duchy? Niestety, nie zosta³em szamanem z wyboru, mog³em wybraæ spokojne ¿ycie szmmana lub chwyciæ w³ócznie i wraz z innymi wojownikami polowaæ na gekony. Dla mnie wybór by³ prosty. Czy ja ci wygl¹dam na wojownika? Czekaj, nie odpowiadaj.}
-{212}{}{Wiêc jesteœ tchórzem i oszustem. Obrzydzasz mnie.}
-{213}{}{Jeœli nie wierzysz w to wszystko, to jak zmierzasz spe³niaæ duchowe potrzeby twojej wioski?}
-{220}{}{Oh, nie winiê ciê. W rzeczywistoœci, mam obrzydzenie do samego siebie. Nie wiem dlaczego pomyœla³em, ¿e ktoœ mo¿e mi pomóc. Z pewnoœci¹ nie zas³ugujê na pomoc. Sam jestem sobie winien, wiêc sam muszê sobie poradziæ z moimi sprawami. Teraz, jeœli mi wybaczysz...}
-{221}{}{Wsrzymaj siê. Dlaczego nie mo¿esz mi powiedzieæ, jak dok³adnie mogê ci pomóc?}
-{222}{}{Nie, nie zamierzam ciê usprawiedliwiaæ - Zamierzam ciê wyeliminowaæ, uwolniæ œwiat od twojej ¿a³osnej egzystencji.}
-{230}{}{Có¿, do niedawna by³em tylko podw³adnym szamana wioski. To by³o ³atwe, po prostu mia³em pójœæ w jego œlady. Na moje nieszczêœcie pewnej nocy, bêd¹c kompletnie pijany stwierdzi³, ¿e przyda mu siê k¹piel w Wielkiej S³onej Wodzie, wtedy ja... Có¿, musia³em przej¹æ jego obowi¹zki. Nie s¹dzi³em, ¿e bêdzie a¿ tak Ÿle. Pomyœla³em, wylewka, odprawiê parê tych œmiesznych rytua³ów, powiem mistyczne hokus-pokus i wszyscy bêd¹ szczêœliwi. Ale nie, w tym samym dniu, nabywaj¹c tytu³ szamana znalaz³em siê w tej dziwnej sytuacji, jeœli nic siê nie zmieni z pewnoœci¹ oszaleje.}
-{231}{}{Co siê sta³o?}
-{240}{}{W lesie na po³udnie od wioski rzeczywiœcie jest zagubiona dusza! To prawda, widzia³em j¹ na w³asne oczy - ³adna dziewczyna z pustymi martwymi oczami. To jej spojrzenie potrafi przeszyæ cz³owieka na wylot. W chwili, gdy j¹ zobaczy³em, przerazi³em siê i przybieg³em tutaj tak szybko, jak tylko mog³em. Pozostali pragn¹ abym wróci³ i skierowa³ j¹ do mg³y, ale jak? Jestem zbyt przera¿ony, aby pójœæ do niej ponownie.}
-{241}{}{Wiêc co mogê zrobiæ, aby pomóc?}
-{242}{}{Dopóki nie zdobêdziesz dodatkowej pary jaj, nie wiem, co móg³bym zrobiæ, ¿eby ci pomóc.}
-{250}{}{Móg³byœ pójœæ do niej. Spróbuj dowiedzieæ siê, dlaczego zwleka w œwiecie œmiertelników. Pojawia siê po zmroku w lesie na po³udnie st¹d. Jeœli mo¿esz, dowiedz siê wszystkiego, co mog³oby mi pomóc. Bêdê bardzo wdziêczny.}
-{251}{}{Nie mój problem. W koñcu nada¿y³a siê okazja abyœ móg³ udowodniæ, ¿e jesteœ mê¿czyzn¹ i wykazaæ siê jako szaman.}
-{252}{}{Sprawdzê to.}
-{260}{}{Zmieni³eœ zdanie? Pomo¿esz mi z tym zagubionym duchem?}
-{261}{}{Tak jak powiedzia³em wczeœniej, to nie mój problem. ¯egnaj.}
-{262}{}{Eh, chyba mogê to sprawdziæ. Dam ci znaæ, jeœli siê czegoœ dowiem.}
-{270}{}{Wróci³eœ! Dowiedzia³eœ siê czegokolwiek interesuj¹cego?}
-{271}{}{Pracujê nad tym. Odezwê siê.}
-{272}{}{Rozmawia³em z ni¹, rozmawia³em z duchem. Wydaje siê, ¿e zosta³a zdradzona i zamordowana przez swojego kochanka, niejakiego Thorg'a.}
-{280}{}{Thorg? By³ szamanem. Wow, wiedzia³em, ¿e by³ dupkiem, ale nawet bym nie pomyœla³, ¿e jest zabójc¹ piêknych m³odych dziewcz¹t. Hmm, nieczyste sumienie, to pomaga wyjaœniæ pijack¹ k¹piel po pó³nocy, prowadz¹c¹ do œmierci. Wiêc Thorg jest morderc¹... Coœ takiego...}
-{281}{}{Wiêc co teraz?}
-{290}{}{[Ciê¿ko wzdycha] Teraz chyba muszê j¹ wys³aæ do mg³y. Myœlê, ¿e bêdê w stanie to zrobiæ, ale musisz pójœæ ze mn¹. To jedyny sposób na to, bym móg³ siê do niej zbli¿yæ tak by nikt inny w wiosce siê nie dowiedzia³ - uwa¿aj¹, ¿e to z³y omen dla nowego szamana spotkaæ zagubion¹ duszê.}
-{291}{}{Niee. I tak ju¿ zrobi³em wiêcej ni¿ trzeba. Resztê zostawiam tobie.}
-{292}{}{Nie martw siê, pomogê ci przez to przejœæ.}
-{293}{}{Dobra, pomogê ci. Ale robie to tylko dlatego, ¿e chce zobaczyæ jak wijesz siê ze strachu.}
-{300}{}{Proszê, powiedz mi, ¿e siê zdecydowa³eœ. Pójdziesz ze mn¹ uwolniæ tego zb³¹kanego ducha, prawda?}
-{301}{}{Zapomnij. Zrób co musisz zrobiæ na w³asn¹ rêkê. Pa.}
-{302}{}{Dobra, pomogê ci. Ale robie to tylko dlatego, ¿e chce zobaczyæ jak wijesz siê ze strachu.}
-{310}{}{O, cholera... O, cholera... Nie! Muszê to zrobiæ... Okej, spokojnie. Nessa?}
+{102}{}{Ten mÅ‚ody czÅ‚owiek ma nawiedzony wyraz twarzy i caÅ‚y siÄ™ trzÄ™sie.}
+{103}{}{Szaman wydajÄ™ siÄ™ duÅ¼o spokojniejszy.}
+{200}{}{[Wydaje siÄ™ byÄ‡ zamyÅ›lony. ZauwaÅ¼ywszy ciÄ™ odskakuje ze strachu, nastÄ™pnie szybko wraca do siebie] Uh, tak, przybyszu? JeÅ›li przychodzisz szukajÄ…c przewodnictwa duchowego, obawiam siÄ™, Å¼e w tej chwili nie czujÄ™ siÄ™ na siÅ‚ach. ByÄ‡ moÅ¼e... ByÄ‡ moÅ¼e innym razem.}
+{201}{}{HÄ™? Oh, to znowu ty. Nie powinieneÅ› siÄ™ tak skradaÄ‡ do ludzi. SpÃ³jrz, w tej chwili mam duÅ¼o na gÅ‚owie. MoÅ¼e mÃ³gÅ‚bym pomÃ³c innym razem.}
+{202}{}{WyglÄ…dasz jakby coÅ› ciÄ™ trapiÅ‚o. Czy jest coÅ› w czym mogÄ™ ci pomÃ³c?}
+{203}{}{WrÃ³cÄ™ pÃ³Åºniej.}
+{204}{}{Haha! PrzestraszyÅ‚em ciÄ™! Buuu!}
+{210}{}{Oferta pomocy jest mile widziana, ale... Nie, nie, to jest sprawa osobista, sam muszÄ™ jÄ… rozwiÄ…zaÄ‡.}
+{211}{}{[Intensywnie siÄ™ zastanawia, po czym wzdycha] DoÅ›Ä‡ kÅ‚opotliwym jest siÄ™ do tego przyznaÄ‡, ale... Widzisz, ja tak naprawdÄ™ nigdy nie wierzyÅ‚em w duchy, Å¼ycie po Å›mierci, nic z tych rzeczy. Wiem, co myÅ›lisz, jaki poÅ¼ytek szamana, ktÃ³ry nie wierzy w duchy? Niestety, nie zostaÅ‚em szamanem z wyboru, mogÅ‚em wybraÄ‡ spokojne Å¼ycie szmmana lub chwyciÄ‡ wÅ‚Ã³cznie i wraz z innymi wojownikami polowaÄ‡ na gekony. Dla mnie wybÃ³r byÅ‚ prosty. Czy ja ci wyglÄ…dam na wojownika? Czekaj, nie odpowiadaj.}
+{212}{}{WiÄ™c jesteÅ› tchÃ³rzem i oszustem. Obrzydzasz mnie.}
+{213}{}{JeÅ›li nie wierzysz w to wszystko, to jak zmierzasz speÅ‚niaÄ‡ duchowe potrzeby twojej wioski?}
+{220}{}{Oh, nie winiÄ™ ciÄ™. W rzeczywistoÅ›ci, mam obrzydzenie do samego siebie. Nie wiem dlaczego pomyÅ›laÅ‚em, Å¼e ktoÅ› moÅ¼e mi pomÃ³c. Z pewnoÅ›ciÄ… nie zasÅ‚ugujÄ™ na pomoc. Sam jestem sobie winien, wiÄ™c sam muszÄ™ sobie poradziÄ‡ z moimi sprawami. Teraz, jeÅ›li mi wybaczysz...}
+{221}{}{Wsrzymaj siÄ™. Dlaczego nie moÅ¼esz mi powiedzieÄ‡, jak dokÅ‚adnie mogÄ™ ci pomÃ³c?}
+{222}{}{Nie, nie zamierzam ciÄ™ usprawiedliwiaÄ‡ - Zamierzam ciÄ™ wyeliminowaÄ‡, uwolniÄ‡ Å›wiat od twojej Å¼aÅ‚osnej egzystencji.}
+{230}{}{CÃ³Å¼, do niedawna byÅ‚em tylko podwÅ‚adnym szamana wioski. To byÅ‚o Å‚atwe, po prostu miaÅ‚em pÃ³jÅ›Ä‡ w jego Å›lady. Na moje nieszczÄ™Å›cie pewnej nocy, bÄ™dÄ…c kompletnie pijany stwierdziÅ‚, Å¼e przyda mu siÄ™ kÄ…piel w Wielkiej SÅ‚onej Wodzie, wtedy ja... CÃ³Å¼, musiaÅ‚em przejÄ…Ä‡ jego obowiÄ…zki. Nie sÄ…dziÅ‚em, Å¼e bÄ™dzie aÅ¼ tak Åºle. PomyÅ›laÅ‚em, wylewka, odprawiÄ™ parÄ™ tych Å›miesznych rytuaÅ‚Ã³w, powiem mistyczne hokus-pokus i wszyscy bÄ™dÄ… szczÄ™Å›liwi. Ale nie, w tym samym dniu, nabywajÄ…c tytuÅ‚ szamana znalazÅ‚em siÄ™ w tej dziwnej sytuacji, jeÅ›li nic siÄ™ nie zmieni z pewnoÅ›ciÄ… oszaleje.}
+{231}{}{Co siÄ™ staÅ‚o?}
+{240}{}{W lesie na poÅ‚udnie od wioski rzeczywiÅ›cie jest zagubiona dusza! To prawda, widziaÅ‚em jÄ… na wÅ‚asne oczy - Å‚adna dziewczyna z pustymi martwymi oczami. To jej spojrzenie potrafi przeszyÄ‡ czÅ‚owieka na wylot. W chwili, gdy jÄ… zobaczyÅ‚em, przeraziÅ‚em siÄ™ i przybiegÅ‚em tutaj tak szybko, jak tylko mogÅ‚em. Pozostali pragnÄ… abym wrÃ³ciÅ‚ i skierowaÅ‚ jÄ… do mgÅ‚y, ale jak? Jestem zbyt przeraÅ¼ony, aby pÃ³jÅ›Ä‡ do niej ponownie.}
+{241}{}{WiÄ™c co mogÄ™ zrobiÄ‡, aby pomÃ³c?}
+{242}{}{DopÃ³ki nie zdobÄ™dziesz dodatkowej pary jaj, nie wiem, co mÃ³gÅ‚bym zrobiÄ‡, Å¼eby ci pomÃ³c.}
+{250}{}{MÃ³gÅ‚byÅ› pÃ³jÅ›Ä‡ do niej. SprÃ³buj dowiedzieÄ‡ siÄ™, dlaczego zwleka w Å›wiecie Å›miertelnikÃ³w. Pojawia siÄ™ po zmroku w lesie na poÅ‚udnie stÄ…d. JeÅ›li moÅ¼esz, dowiedz siÄ™ wszystkiego, co mogÅ‚oby mi pomÃ³c. BÄ™dÄ™ bardzo wdziÄ™czny.}
+{251}{}{Nie mÃ³j problem. W koÅ„cu nadaÅ¼yÅ‚a siÄ™ okazja abyÅ› mÃ³gÅ‚ udowodniÄ‡, Å¼e jesteÅ› mÄ™Å¼czyznÄ… i wykazaÄ‡ siÄ™ jako szaman.}
+{252}{}{SprawdzÄ™ to.}
+{260}{}{ZmieniÅ‚eÅ› zdanie? PomoÅ¼esz mi z tym zagubionym duchem?}
+{261}{}{Tak jak powiedziaÅ‚em wczeÅ›niej, to nie mÃ³j problem. Å»egnaj.}
+{262}{}{Eh, chyba mogÄ™ to sprawdziÄ‡. Dam ci znaÄ‡, jeÅ›li siÄ™ czegoÅ› dowiem.}
+{270}{}{WrÃ³ciÅ‚eÅ›! DowiedziaÅ‚eÅ› siÄ™ czegokolwiek interesujÄ…cego?}
+{271}{}{PracujÄ™ nad tym. OdezwÄ™ siÄ™.}
+{272}{}{RozmawiaÅ‚em z niÄ…, rozmawiaÅ‚em z duchem. Wydaje siÄ™, Å¼e zostaÅ‚a zdradzona i zamordowana przez swojego kochanka, niejakiego Thorg'a.}
+{280}{}{Thorg? ByÅ‚ szamanem. Wow, wiedziaÅ‚em, Å¼e byÅ‚ dupkiem, ale nawet bym nie pomyÅ›laÅ‚, Å¼e jest zabÃ³jcÄ… piÄ™knych mÅ‚odych dziewczÄ…t. Hmm, nieczyste sumienie, to pomaga wyjaÅ›niÄ‡ pijackÄ… kÄ…piel po pÃ³Å‚nocy, prowadzÄ…cÄ… do Å›mierci. WiÄ™c Thorg jest mordercÄ…... CoÅ› takiego...}
+{281}{}{WiÄ™c co teraz?}
+{290}{}{[CiÄ™Å¼ko wzdycha] Teraz chyba muszÄ™ jÄ… wysÅ‚aÄ‡ do mgÅ‚y. MyÅ›lÄ™, Å¼e bÄ™dÄ™ w stanie to zrobiÄ‡, ale musisz pÃ³jÅ›Ä‡ ze mnÄ…. To jedyny sposÃ³b na to, bym mÃ³gÅ‚ siÄ™ do niej zbliÅ¼yÄ‡ tak by nikt inny w wiosce siÄ™ nie dowiedziaÅ‚ - uwaÅ¼ajÄ…, Å¼e to zÅ‚y omen dla nowego szamana spotkaÄ‡ zagubionÄ… duszÄ™.}
+{291}{}{Niee. I tak juÅ¼ zrobiÅ‚em wiÄ™cej niÅ¼ trzeba. ResztÄ™ zostawiam tobie.}
+{292}{}{Nie martw siÄ™, pomogÄ™ ci przez to przejÅ›Ä‡.}
+{293}{}{Dobra, pomogÄ™ ci. Ale robie to tylko dlatego, Å¼e chce zobaczyÄ‡ jak wijesz siÄ™ ze strachu.}
+{300}{}{ProszÄ™, powiedz mi, Å¼e siÄ™ zdecydowaÅ‚eÅ›. PÃ³jdziesz ze mnÄ… uwolniÄ‡ tego zbÅ‚Ä…kanego ducha, prawda?}
+{301}{}{Zapomnij. ZrÃ³b co musisz zrobiÄ‡ na wÅ‚asnÄ… rÄ™kÄ™. Pa.}
+{302}{}{Dobra, pomogÄ™ ci. Ale robie to tylko dlatego, Å¼e chce zobaczyÄ‡ jak wijesz siÄ™ ze strachu.}
+{310}{}{O, cholera... O, cholera... Nie! MuszÄ™ to zrobiÄ‡... Okej, spokojnie. Nessa?}
 {311}{}{Ohhh... Tak zimno, tak samotnie...}
-{312}{}{Nessa, musisz us³yszeæ mój g³os. Przemawiam do ciebie ze œwiata œmiertelnych.}
-{313}{}{Ja... S³yszê kogoœ! Kto tam jest? }
-{314}{}{Jestem szamanem tej wioski. Musisz wejœæ we mg³ê. Tam znajdziesz spokój.}
-{315}{}{Tak! Tak! Teraz widzê mg³ê! Widzê kogoœ kiwaj¹cego do mnie.}
-{316}{}{IdŸ do nich, Nessa. IdŸ i do³¹cz do swoich przodków.}
-{317}{}{Ju¿ nigdy nie bêde samotna!}
-{320}{}{Dziêkujê ci za uratowanie Serina. Da³em mu trochê zió³, aby pomog³y mu odpocz¹æ i ul¿y³y w bólu. Za parê dni stanie na nogi.}
-{330}{}{Zobaczmy... Och, wyœmienicie. Te bêd¹ doskona³e. Proszê, weŸ trochê leczniczego proszku za twój czas. Niech twoi przodkowie czuwaj¹ nad tob¹.}
-{400}{}{Tak, tak, bardzo œmieszne. Teraz odejdŸ. Jestem zajêty.}
-{401}{}{::Udawaj przera¿onego:: Za tob¹! Za tob¹! Aaaaa!}
-{410}{}{Aaaaa! Cholera! Wynoœ siê st¹d! Precz!}
+{312}{}{Nessa, musisz usÅ‚yszeÄ‡ mÃ³j gÅ‚os. Przemawiam do ciebie ze Å›wiata Å›miertelnych.}
+{313}{}{Ja... SÅ‚yszÄ™ kogoÅ›! Kto tam jest? }
+{314}{}{Jestem szamanem tej wioski. Musisz wejÅ›Ä‡ we mgÅ‚Ä™. Tam znajdziesz spokÃ³j.}
+{315}{}{Tak! Tak! Teraz widzÄ™ mgÅ‚Ä™! WidzÄ™ kogoÅ› kiwajÄ…cego do mnie.}
+{316}{}{IdÅº do nich, Nessa. IdÅº i doÅ‚Ä…cz do swoich przodkÃ³w.}
+{317}{}{JuÅ¼ nigdy nie bÄ™de samotna!}
+{320}{}{DziÄ™kujÄ™ ci za uratowanie Serina. DaÅ‚em mu trochÄ™ ziÃ³Å‚, aby pomogÅ‚y mu odpoczÄ…Ä‡ i ulÅ¼yÅ‚y w bÃ³lu. Za parÄ™ dni stanie na nogi.}
+{330}{}{Zobaczmy... Och, wyÅ›mienicie. Te bÄ™dÄ… doskonaÅ‚e. ProszÄ™, weÅº trochÄ™ leczniczego proszku za twÃ³j czas. Niech twoi przodkowie czuwajÄ… nad tobÄ….}
+{400}{}{Tak, tak, bardzo Å›mieszne. Teraz odejdÅº. Jestem zajÄ™ty.}
+{401}{}{::Udawaj przeraÅ¼onego:: Za tobÄ…! Za tobÄ…! Aaaaa!}
+{410}{}{Aaaaa! Cholera! WynoÅ› siÄ™ stÄ…d! Precz!}
 {411}{}{He he, frajer.}
-{420}{}{Mówi³em ci ju¿ wczeœniej, proste, idŸ i zostaw mnie samego.}
-{500}{}{Nie wiem jak mam Ci dziêkowaæ za twoj¹ pomoc.}
-{501}{}{Zawszê bêdê twoim d³u¿nikiem.}
-{600}{}{Dziêkujê ci za uratowanie Serina. Da³em mu trochê zió³, aby pomog³y mu odpocz¹æ i ul¿y³y w bólu. Za parê dni bêdzie na nogach.}
-{601}{}{Mi³o mi to s³yszeæ. Czy mogê jeszcze jakoœ pomóc?}
-{602}{}{Cieszê siê, ¿e Serin z tego wyjdzie. Uwa¿aj na siebie.}
-{610}{}{W³aœciwie tak, jest coœ. Leczenie Serina wyczerpa³o wiêkszoœæ mojego zapasu zió³. By³bym niezmiernie wdziêczny za piêæ korzeni Xandrowych i trzy kwiaty Broca.}
-{611}{}{Piêæ korzeni Xandrowych i trzy kwiaty Broca, rozumiem. Wrócê kiedy je dla ciebie znajdê.}
-{612}{}{Wygl¹da, ¿e to twój szczêœliwy dzieñ. Mam ze sob¹ to czego szukasz. WeŸ je, s¹ twoje.}
-{613}{}{Wybacz, ale nie mam czasu na spacer po lesie, a tym bardziej na zbieranie zió³ dla ciebie.}
-{614}{}{Dlaczego dok³adnie tyle?}
-{620}{}{Poniewa¿, jestem... szczegó³owy w tych rzeczach. Tu chodzi o równowagê, konkretne liczby... [Zmarszczy³ siê.] S³uchaj, 
- nie spodziewam siê, ¿e to zrozumiesz, ale taki w³aœnie jestem. Potrzebujê piêciu korzeni Xandrowych i trzy kwiaty Broca, nie wiêcej,
- nie mniej. Pomo¿esz mi?}
+{420}{}{MÃ³wiÅ‚em ci juÅ¼ wczeÅ›niej, proste, idÅº i zostaw mnie samego.}
+{500}{}{Nie wiem jak mam Ci dziÄ™kowaÄ‡ za twojÄ… pomoc.}
+{501}{}{ZawszÄ™ bÄ™dÄ™ twoim dÅ‚uÅ¼nikiem.}
+{600}{}{DziÄ™kujÄ™ ci za uratowanie Serina. DaÅ‚em mu trochÄ™ ziÃ³Å‚, aby pomogÅ‚y mu odpoczÄ…Ä‡ i ulÅ¼yÅ‚y w bÃ³lu. Za parÄ™ dni bÄ™dzie na nogach.}
+{601}{}{MiÅ‚o mi to sÅ‚yszeÄ‡. Czy mogÄ™ jeszcze jakoÅ› pomÃ³c?}
+{602}{}{CieszÄ™ siÄ™, Å¼e Serin z tego wyjdzie. UwaÅ¼aj na siebie.}
+{610}{}{WÅ‚aÅ›ciwie tak, jest coÅ›. Leczenie Serina wyczerpaÅ‚o wiÄ™kszoÅ›Ä‡ mojego zapasu ziÃ³Å‚. ByÅ‚bym niezmiernie wdziÄ™czny za piÄ™Ä‡ korzeni Xandrowych i trzy kwiaty Broca.}
+{611}{}{PiÄ™Ä‡ korzeni Xandrowych i trzy kwiaty Broca, rozumiem. WrÃ³cÄ™ kiedy je dla ciebie znajdÄ™.}
+{612}{}{WyglÄ…da, Å¼e to twÃ³j szczÄ™Å›liwy dzieÅ„. Mam ze sobÄ… to czego szukasz. WeÅº je, sÄ… twoje.}
+{613}{}{Wybacz, ale nie mam czasu na spacer po lesie, a tym bardziej na zbieranie ziÃ³Å‚ dla ciebie.}
+{614}{}{Dlaczego dokÅ‚adnie tyle?}
+{620}{}{PoniewaÅ¼, jestem... szczegÃ³Å‚owy w tych rzeczach. Tu chodzi o rÃ³wnowagÄ™, konkretne liczby... [ZmarszczyÅ‚ siÄ™.] SÅ‚uchaj, 
+ nie spodziewam siÄ™, Å¼e to zrozumiesz, ale taki wÅ‚aÅ›nie jestem. PotrzebujÄ™ piÄ™ciu korzeni Xandrowych i trzy kwiaty Broca, nie wiÄ™cej,
+ nie mniej. PomoÅ¼esz mi?}
 {630}{}{Masz potrzebne mi rzeczy?}
-{631}{}{Tak, mam wszystko ze sob¹.}
-{632}{}{Ci¹gle szukam. Czeœæ.}
-{640}{}{Zobaczmy... Och, wyœmienicie. Te bêd¹ doskona³e. Proszê, weŸ trochê leczniczego proszku za twój czas.}
-{641}{}{Dziêkujê. Bywaj.}
-{1000}{}{Wybawiasz Szamana z jego problemów.}
-{2000}{}{Dostarczasz zio³a Szamanowi.}
-{3000}{}{Zawsze wiedzia³em, ¿e dokonasz wielkich rzeczy... duchy mi to powiedzia³y.}
-{3001}{}{Cieszê siê, ¿e moje proszki lecznicze chroni³y ciê przed Enklaw¹.}
+{631}{}{Tak, mam wszystko ze sobÄ….}
+{632}{}{CiÄ…gle szukam. CzeÅ›Ä‡.}
+{640}{}{Zobaczmy... Och, wyÅ›mienicie. Te bÄ™dÄ… doskonaÅ‚e. ProszÄ™, weÅº trochÄ™ leczniczego proszku za twÃ³j czas.}
+{641}{}{DziÄ™kujÄ™. Bywaj.}
+{1000}{}{Wybawiasz Szamana z jego problemÃ³w.}
+{2000}{}{Dostarczasz zioÅ‚a Szamanowi.}
+{3000}{}{Zawsze wiedziaÅ‚em, Å¼e dokonasz wielkich rzeczy... duchy mi to powiedziaÅ‚y.}
+{3001}{}{CieszÄ™ siÄ™, Å¼e moje proszki lecznicze chroniÅ‚y ciÄ™ przed EnklawÄ….}

@@ -1,50 +1,50 @@
-{100}{}{Tu vois un vieillard pas très propre et décoiffé.}
-{101}{}{Voici le type qu'ils appellent Bob le Petit Salé.}
-{102}{}{Il doit avoir 3 dents. Son visage est tordu et décoré de petites veines d'alcoolique. Il sent mauvais.}
-{103}{}{Salut à toi !}
+{100}{}{Tu vois un vieillard pas trÃ¨s propre et dÃ©coiffÃ©.}
+{101}{}{Voici le type qu'ils appellent Bob le Petit SalÃ©.}
+{102}{}{Il doit avoir 3 dents. Son visage est tordu et dÃ©corÃ© de petites veines d'alcoolique. Il sent mauvais.}
+{103}{}{Salut Ã  toi !}
 {104}{}{Grou ?}
 {105}{}{Qui es-tu ?}
-{106}{}{Je m'appelle Bob, Bob le Petit Salé, ouais. Et toi ?}
-{107}{}{C'est quoi ton nom déjà ? Moi, c'est Bob le Petit Salé.}
+{106}{}{Je m'appelle Bob, Bob le Petit SalÃ©, ouais. Et toi ?}
+{107}{}{C'est quoi ton nom dÃ©jÃ  ? Moi, c'est Bob le Petit SalÃ©.}
 {108}{}{[Nom du joueur]}
-{109}{}{Petit Salé ? C'est un nom à coucher dehors !}
+{109}{}{Petit SalÃ© ? C'est un nom Ã  coucher dehors !}
 {110}{}{Que fais-tu ici ?}
-{111}{}{C'est un très joli nom, ouais. Dis-moi, t'aurais pas un peu d'alcool sur toi ?}
+{111}{}{C'est un trÃ¨s joli nom, ouais. Dis-moi, t'aurais pas un peu d'alcool sur toi ?}
 {112}{}{Oui.}
 {113}{}{Non.}
 {114}{}{Ne t'approche pas de moi, sale ivrogne !}
-{115}{}{Ben, y a pas besoin d'être impoli. Je voulais juste une petite goutte, pour calmer mes nerfs.}
-{116}{}{Ho ho ho... Je suis sûr que tu caches une bonne bibine ! Dis, si on partageait ? Allez, une gorgée...}
+{115}{}{Ben, y a pas besoin d'Ãªtre impoli. Je voulais juste une petite goutte, pour calmer mes nerfs.}
+{116}{}{Ho ho ho... Je suis sÃ»r que tu caches une bonne bibine ! Dis, si on partageait ? Allez, une gorgÃ©e...}
 {117}{}{Boire ! Bon !}
 {118}{}{Grrrg !}
-{119}{}{Hé, doucement ! Y a pas de mal à demander ! Je te laisse.}
-{120}{}{<Glou, glou, glou> Aaaahhhh ! C'est très gentil à toi. <Glou> Vraiment très gentil. Tu es tout à fait le genre de personne qu'on devrait avoir comme ami. <Glou> Je t'ai déjà parlé du jour où j'ai fait la grève ?}
+{119}{}{HÃ©, doucement ! Y a pas de mal Ã  demander ! Je te laisse.}
+{120}{}{<Glou, glou, glou> Aaaahhhh ! C'est trÃ¨s gentil Ã  toi. <Glou> Vraiment trÃ¨s gentil. Tu es tout Ã  fait le genre de personne qu'on devrait avoir comme ami. <Glou> Je t'ai dÃ©jÃ  parlÃ© du jour oÃ¹ j'ai fait la grÃ¨ve ?}
 {121}{}{Non ?}
-{122}{}{Hé, te siffle pas toute ma bibine !}
+{122}{}{HÃ©, te siffle pas toute ma bibine !}
 {123}{}{Rahhg !}
-{124}{}{C'était en 78. J'étais avec Bessie, le meilleur robot qu'un homme ait jamais eu. On cherchait de l'u-ra-nium à l'Ouest. On n'en a pas trouvé l'équivalent d'un rad. Soudain, cinq... non, dix Griffemorts nous ont sautés dessus.}
-{125}{}{Ils se sont battus comme des fauves. J'ai tellement canardé que j'ai fondu le canon de mon fusil. J'allais les attaquer au couteau quand Bessie a disjoncté. J'ai essayé de la sauver mais y avait rien à faire. Finalement, j'ai dû abandonner, et les garder à distance avec des pierres en m'enfuyant.}
-{126}{}{Ca ne s'annonçait pas bien quand je suis entré dans la grotte. J'ai cru que j'étais foutu. J'ai pensé que c'était leur repère, j'avais pris ma torche alors je suis entré. Oh, il faisait très sombre. Alors j'ai vu...}
-{127}{}{C'était une grande porte, comme celles qu'on voit dans les vieux films policiers. C'était une grosse porte en acier. Et dessus, un gros 13 était gravé.}
-{128}{}{Je savais que je l'avais trouvé ce filon mère, l'Abri 13. Je me suis assis et j'ai dessiné une carte. J'ai failli mourir en sortant de là, après les Griffemorts, à cause du soleil, du désert et du manque d'eau.}
-{129}{}{Quand j'ai atteint les Sables Ombragés, j'étais presque mort. On m'a amené chez le toubib, il m'a rafistolé et en a profité pour me voler ma carte. Voilà ce que je sais.}
+{124}{}{C'Ã©tait en 78. J'Ã©tais avec Bessie, le meilleur robot qu'un homme ait jamais eu. On cherchait de l'u-ra-nium Ã  l'Ouest. On n'en a pas trouvÃ© l'Ã©quivalent d'un rad. Soudain, cinq... non, dix Griffemorts nous ont sautÃ©s dessus.}
+{125}{}{Ils se sont battus comme des fauves. J'ai tellement canardÃ© que j'ai fondu le canon de mon fusil. J'allais les attaquer au couteau quand Bessie a disjonctÃ©. J'ai essayÃ© de la sauver mais y avait rien Ã  faire. Finalement, j'ai dÃ» abandonner, et les garder Ã  distance avec des pierres en m'enfuyant.}
+{126}{}{Ca ne s'annonÃ§ait pas bien quand je suis entrÃ© dans la grotte. J'ai cru que j'Ã©tais foutu. J'ai pensÃ© que c'Ã©tait leur repÃ¨re, j'avais pris ma torche alors je suis entrÃ©. Oh, il faisait trÃ¨s sombre. Alors j'ai vu...}
+{127}{}{C'Ã©tait une grande porte, comme celles qu'on voit dans les vieux films policiers. C'Ã©tait une grosse porte en acier. Et dessus, un gros 13 Ã©tait gravÃ©.}
+{128}{}{Je savais que je l'avais trouvÃ© ce filon mÃ¨re, l'Abri 13. Je me suis assis et j'ai dessinÃ© une carte. J'ai failli mourir en sortant de lÃ , aprÃ¨s les Griffemorts, Ã  cause du soleil, du dÃ©sert et du manque d'eau.}
+{129}{}{Quand j'ai atteint les Sables OmbragÃ©s, j'Ã©tais presque mort. On m'a amenÃ© chez le toubib, il m'a rafistolÃ© et en a profitÃ© pour me voler ma carte. VoilÃ  ce que je sais.}
 {130}{}{[Continuer]}
-{131}{}{Zut, ça c'est un nom honnête et bon ! Les gars me laissent cuisiner par ici. Si tu te la jouais moins, tu saurais ce que ça veut dire et tu respecterais les vieux.}
+{131}{}{Zut, Ã§a c'est un nom honnÃªte et bon ! Les gars me laissent cuisiner par ici. Si tu te la jouais moins, tu saurais ce que Ã§a veut dire et tu respecterais les vieux.}
 {132}{}{Je regrette, mon vieux. Je ne voulais pas te vexer.}
 {133}{}{Va t'faire, mon vieux !}
-{134}{}{Me vexer ? Me vexer ! Tu ne m'as encore jamais vu vexé ! Barre-toi de là avant que je m'énerve ! Arghh ! Ouste !}
-{135}{}{Va t'faire toi-même ! Ah, on est d'accord. N'accepte l'insolence de personne avec toi. Dis, t'as un peu de bibine sur toi ? Rien qu'une gorgée ?}
+{134}{}{Me vexer ? Me vexer ! Tu ne m'as encore jamais vu vexÃ© ! Barre-toi de lÃ  avant que je m'Ã©nerve ! Arghh ! Ouste !}
+{135}{}{Va t'faire toi-mÃªme ! Ah, on est d'accord. N'accepte l'insolence de personne avec toi. Dis, t'as un peu de bibine sur toi ? Rien qu'une gorgÃ©e ?}
 {136}{}{Oui.}
 {137}{}{Non.}
 {138}{}{Ne t'approche pas de moi, sale ivrogne !}
-{139}{}{Hé, hé, hé ! Elle est à moi maintenant. Faudra que tu trouves la tienne.}
-{140}{}{Le patron me laisse rester ici. Je dirige cette étable ! Je fais un peu de ménage, je veille à ce que tout soit en ordre.}
-{141}{}{Petit Salé ? C'est un nom à coucher dehors !}
+{139}{}{HÃ©, hÃ©, hÃ© ! Elle est Ã  moi maintenant. Faudra que tu trouves la tienne.}
+{140}{}{Le patron me laisse rester ici. Je dirige cette Ã©table ! Je fais un peu de mÃ©nage, je veille Ã  ce que tout soit en ordre.}
+{141}{}{Petit SalÃ© ? C'est un nom Ã  coucher dehors !}
 {142}{}{C'est un plaisir de te rencontrer. Je m'appelle }
 {143}{}{Tonnerre de Dieu, encore toi ? Je veux plus voir ta sale Goule par ici !}
 {144}{}{Va t'faire !}
 {145}{}{Tu n'es qu'un vieux schnoque !}
-{146}{}{T'as raison ! T'as pas quelque chose à boire ? Pour un vieillard.}
+{146}{}{T'as raison ! T'as pas quelque chose Ã  boire ? Pour un vieillard.}
 {147}{}{Oui.}
 {148}{}{Non.}
 {149}{}{Ne t'approche pas de moi, sale ivrogne !}

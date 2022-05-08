@@ -1,2 +1,2 @@
-{200}{}{Woah, parece que essas sementes brotaram algo desagrad·vel.}
+{200}{}{Woah, parece que essas sementes brotaram algo desagrad√°vel.}
 {201}{}{Planta interessante. Eu me pergunto o que mais essas sementes podem crescer.}

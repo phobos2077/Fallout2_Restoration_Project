@@ -1,25 +1,25 @@
-{100}{}{Widzisz ¿a³osny wrak ludzkiej istoty.}
-{101}{}{Wci¹¿ widzisz ¿a³osny wrak ludzkiej istoty.}
-{102}{}{Widzisz naprawdê, ale to naprawdê ¿a³osny wrak ludzkiej istoty. Czemu siê tak gapisz?}
-{103}{}{Pomó¿ mi! Proszê, nie odwracaj siê do mnie plecami.}
-{104}{}{Mój pan mówi, ¿e nie mogê z nikim rozmawiaæ.}
-{105}{}{Powiem ci coœ - mój pan to prawdziwy dupek.}
-{106}{}{Naprawdê, nie narzekam na bycie niewolnikiem. To dobre ¿ycie - dostajê posi³ki, a moja pani jest ca³kiem dobra dla mnie.}
-{107}{}{OdejdŸ! Zostaw mnie w spokoju!}
-{108}{}{Hej! Ty! Musisz nam pomóc! Przegoñ naszych krzywdzicieli!}
-{109}{}{Nie mów do mnie! Nie chcê kolejnego bicia.}
-{110}{}{Niewolnictwo to tylko twór umys³u. Bo tak naprawdê, czy czujesz swoj¹ wolnoœæ?}
-{111}{}{Ju¿ nie! B³agam, nie Dom Bólu!}
-{112}{}{Nie zbli¿aj siê!}
+{100}{}{Widzisz Å¼aÅ‚osny wrak ludzkiej istoty.}
+{101}{}{WciÄ…Å¼ widzisz Å¼aÅ‚osny wrak ludzkiej istoty.}
+{102}{}{Widzisz naprawdÄ™, ale to naprawdÄ™ Å¼aÅ‚osny wrak ludzkiej istoty. Czemu siÄ™ tak gapisz?}
+{103}{}{PomÃ³Å¼ mi! ProszÄ™, nie odwracaj siÄ™ do mnie plecami.}
+{104}{}{MÃ³j pan mÃ³wi, Å¼e nie mogÄ™ z nikim rozmawiaÄ‡.}
+{105}{}{Powiem ci coÅ› - mÃ³j pan to prawdziwy dupek.}
+{106}{}{NaprawdÄ™, nie narzekam na bycie niewolnikiem. To dobre Å¼ycie - dostajÄ™ posiÅ‚ki, a moja pani jest caÅ‚kiem dobra dla mnie.}
+{107}{}{OdejdÅº! Zostaw mnie w spokoju!}
+{108}{}{Hej! Ty! Musisz nam pomÃ³c! PrzegoÅ„ naszych krzywdzicieli!}
+{109}{}{Nie mÃ³w do mnie! Nie chcÄ™ kolejnego bicia.}
+{110}{}{Niewolnictwo to tylko twÃ³r umysÅ‚u. Bo tak naprawdÄ™, czy czujesz swojÄ… wolnoÅ›Ä‡?}
+{111}{}{JuÅ¼ nie! BÅ‚agam, nie Dom BÃ³lu!}
+{112}{}{Nie zbliÅ¼aj siÄ™!}
 {113}{}{Potworze! Ty i inni tacy jak ty mi to zrobili!}
-{114}{}{Sprawiedliwoœæ Wszechpotê¿nego spadnie na ciebie!}
-{115}{}{Wykonujê ka¿de twoje s³owo.}
-{116}{}{I wierni posi¹d¹ Ziemiê.}
-{117}{}{Bêdê dobry. Jestem dobrym niewolnikiem.}
-{118}{}{Wolnoœæ! S³odka b³ogos³awiona wolnoœæ!}
-{119}{}{Zobacz, co siê przez ciebie sta³o - moje ¿ycie jest przez ciebie zrujnowane!}
-{120}{}{Nie mogê przestaæ. Muszê ju¿ lecieæ. Nie mogê pozwoliæ, aby mnie z³apali.}
-{121}{}{Do diab³a! Jestem zgubiony - z³api¹ mnie i zabij¹.}
-{122}{}{Gdzie teraz pójdê? Co teraz zrobiê?}
-{123}{}{Wielkie dziêki. A teraz mam trochê krwi ³owców niewolników do przelania.}
-{124}{}{Nie wierzê w to - wolnoœæ!}
+{114}{}{SprawiedliwoÅ›Ä‡ WszechpotÄ™Å¼nego spadnie na ciebie!}
+{115}{}{WykonujÄ™ kaÅ¼de twoje sÅ‚owo.}
+{116}{}{I wierni posiÄ…dÄ… ZiemiÄ™.}
+{117}{}{BÄ™dÄ™ dobry. Jestem dobrym niewolnikiem.}
+{118}{}{WolnoÅ›Ä‡! SÅ‚odka bÅ‚ogosÅ‚awiona wolnoÅ›Ä‡!}
+{119}{}{Zobacz, co siÄ™ przez ciebie staÅ‚o - moje Å¼ycie jest przez ciebie zrujnowane!}
+{120}{}{Nie mogÄ™ przestaÄ‡. MuszÄ™ juÅ¼ lecieÄ‡. Nie mogÄ™ pozwoliÄ‡, aby mnie zÅ‚apali.}
+{121}{}{Do diabÅ‚a! Jestem zgubiony - zÅ‚apiÄ… mnie i zabijÄ….}
+{122}{}{Gdzie teraz pÃ³jdÄ™? Co teraz zrobiÄ™?}
+{123}{}{Wielkie dziÄ™ki. A teraz mam trochÄ™ krwi Å‚owcÃ³w niewolnikÃ³w do przelania.}
+{124}{}{Nie wierzÄ™ w to - wolnoÅ›Ä‡!}

@@ -1,1 +1,1 @@
-{100}{}{Dieser Spind ist elektronisch gesichert. Es gibt keine Möglichkeit ihn von hier aufzuschließen.}
+{100}{}{Dieser Spind ist elektronisch gesichert. Es gibt keine MÃ¶glichkeit ihn von hier aufzuschlieÃŸen.}

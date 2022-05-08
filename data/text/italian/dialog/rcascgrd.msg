@@ -40,7 +40,7 @@
 {139}{}{Bisogna pagare per giocare, amico.}
 {140}{}{Te l'avevo detto di piantarla. E' un peccato che tu non mi abbia dato retta.}
 {141}{}{Adesso saro' costretto a farti male per davvero.}
-{142}{}{Questo fara' molto male… a te.}
+{142}{}{Questo fara' molto maleâ€¦ a te.}
 {143}{}{Faresti meglio a metter via quel "ferro", amico.}
 {144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Meglio se metti via quel cannone.}
@@ -61,13 +61,13 @@
 {160}{}{Divertiti.}
 {161}{}{Buona giornata.}
 {162}{}{Qui da Ascorti, tutti sono dei campioni.}
-{163}{}{Allora io ho detto: "togliete le vostre manacce dal mio…"}
+{163}{}{Allora io ho detto: "togliete le vostre manacce dal mioâ€¦"}
 {164}{}{Non credevo che qualcuno potesse essere cosi' stupido da raddoppiare la puntata.}
 {165}{}{Yup, quella io la chiamo la tipica puntata da idioti.}
 {166}{}{Cavoli, non mi sento troppo bene.}
 {167}{}{Quell'Ascorti e' proprio un furbo.}
 {168}{}{Psst, rimettiti in sesto, il capo ci guarda.}
-{169}{}{Vedi, e' andata piu' o meno cosi': c'erano almeno venti…}
+{169}{}{Vedi, e' andata piu' o meno cosi': c'erano almeno ventiâ€¦}
 {170}{}{Quel pasticcio di Gecko mi sta facendo venire la pirosi.}
 {171}{}{Hai fatto tardi, l'altra notte?}
 {172}{}{Dovresti essere impiccato per aver fatto una cosa del genere.}

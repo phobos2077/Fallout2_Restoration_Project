@@ -16,12 +16,12 @@
 {173}{}{Perche' cerchi di passare inosservato? Qualcuno ti sta cercando?}
 {180}{}{Beh, che mi venga un colpo se non e' }
 {181}{}{Ti sei PERSO, amico? Faresti meglio ad andartene da qui.}
-{182}{}{Questo tizio cerca guai…}
+{182}{}{Questo tizio cerca guaiâ€¦}
 {183}{}{Vattene da qui. Subito.}
 {184}{}{Se non stai cercando guai, faresti meglio ad andartene subito.}
 {185}{}{Beh, che mi venga un colpo se non e' }
 {186}{}{Ti sei PERSA, pupa? Faresti meglio ad andartene da qui.}
-{187}{}{Questa pupa cerca guai…}
+{187}{}{Questa pupa cerca guaiâ€¦}
 {195}{}{Qui dentro non sono ammesse armi.}
 {196}{}{Metti via quell'arma.}
 {200}{}{Miss, temo che saro' costretto a chiederle di metter via quell'arma.}
@@ -85,7 +85,7 @@
 {305}{}{Posso fare qualcosa per te?}
 {306}{}{Questo non e' il tuo set, Casanova.}
 {307}{}{Va' da qualche altra parte, Casanova.}
-{310}{}{Sono davvero dispiaciuto…davvero…ma adesso non ho tempo per parlare con te. Ripassa quando avro' finito il turno, se sei libera.}
+{310}{}{Sono davvero dispiaciutoâ€¦davveroâ€¦ma adesso non ho tempo per parlare con te. Ripassa quando avro' finito il turno, se sei libera.}
 {311}{}{Mi piange il cuore, ma adesso non posso proprio parlare con te.}
 {312}{}{Eddai, dolcezza... mi stai distraendo.}
 {313}{}{Non posso aiutarti.}
@@ -122,7 +122,7 @@
 {380}{}{Quel ghoul farebbe meglio ad andarse da qui... SUBITO.}
 {381}{}{Se quel ghoul sara' ancora qui quando mi saro' girato, gli daremo fuoco.}
 {382}{}{Se quel ghoul rimane qui, lo accenderemo come un fiammifero.}
-{1180}{}{. Il suo nome sara' presto inciso su una lapide, se non esce subito di qui…}
-{1185}{}{. Il suo nome sara' presto inciso su una lapide, se non esce subito di qui…}
+{1180}{}{. Il suo nome sara' presto inciso su una lapide, se non esce subito di quiâ€¦}
+{1185}{}{. Il suo nome sara' presto inciso su una lapide, se non esce subito di quiâ€¦}
 {1278}{}{, ma faresti meglio ad andare da qualche altra parte.}
 {1279}{}{, ma, se fossi in te, andrei da qualche altra parte.}

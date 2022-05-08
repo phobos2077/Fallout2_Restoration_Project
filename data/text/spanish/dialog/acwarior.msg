@@ -2,46 +2,46 @@
 {101}{}{Ves a un guerrero de la tribu.}
 {150}{}{Ante ti, se encuentra un gran guerrero de la tribu que viste pantalones hechos de pieles de animales.}
 {151}{}{[HABLAR]}
-{152}{}{Hola, Elegido, ¿puedo ayudarte con tu misión?}
-{153}{}{Tan solo estaba echando un último vistazo al poblado antes de partir.}
-{154}{}{¿Qué puedes contarme de los mercaderes que comercian con nosotros?}
-{155}{}{¿Podrías decirme dónde puedo encontrar más polvos curativos?}
-{156}{}{Que los Dioses te den alas para traernos el Edén antes de que sea demasiado tarde.}
+{152}{}{Hola, Elegido, Â¿puedo ayudarte con tu misiÃ³n?}
+{153}{}{Tan solo estaba echando un Ãºltimo vistazo al poblado antes de partir.}
+{154}{}{Â¿QuÃ© puedes contarme de los mercaderes que comercian con nosotros?}
+{155}{}{Â¿PodrÃ­as decirme dÃ³nde puedo encontrar mÃ¡s polvos curativos?}
+{156}{}{Que los Dioses te den alas para traernos el EdÃ©n antes de que sea demasiado tarde.}
 {157}{}{Tengo una pregunta para ti.}
-{158}{}{Adiós, amigo.}
-{159}{}{Oh, me estás probando. Ve a ver a Hakunin en la parte norte del poblado. Él es quién fabrica nuestras medicinas.}
-{160}{}{Gracias. Adiós.}
-{161}{}{Bueno, los he visto cuando Mynoc nos ha hecho vigilar el puente, pero él es quién hace los tratos con ellos. Habla con él, estará en el Gran Puente.}
-{162}{}{Gracias. Adiós.}
-{163}{}{¿Puedes decirme donde está el Gran Puente?}
-{164}{}{Una pregunta más, si no te importa.}
-{165}{}{Eh... ¿Elegido? El Gran Puente está en el extremo sur de nuestro poblado. Ya sabes... has estado allí miles de veces.}
-{166}{}{Gracias. Adiós.}
-{167}{}{Una pregunta más, si no te importa.}
-{168}{}{Por supuesto, ¿qué quieres saber?}
-{169}{}{¿Podrías decirme dónde puedo encontrar más hierbas curativas?}
-{170}{}{¿Qué puedes contarme de los mercaderes que comercian con nosotros?}
+{158}{}{AdiÃ³s, amigo.}
+{159}{}{Oh, me estÃ¡s probando. Ve a ver a Hakunin en la parte norte del poblado. Ã‰l es quiÃ©n fabrica nuestras medicinas.}
+{160}{}{Gracias. AdiÃ³s.}
+{161}{}{Bueno, los he visto cuando Mynoc nos ha hecho vigilar el puente, pero Ã©l es quiÃ©n hace los tratos con ellos. Habla con Ã©l, estarÃ¡ en el Gran Puente.}
+{162}{}{Gracias. AdiÃ³s.}
+{163}{}{Â¿Puedes decirme donde estÃ¡ el Gran Puente?}
+{164}{}{Una pregunta mÃ¡s, si no te importa.}
+{165}{}{Eh... Â¿Elegido? El Gran Puente estÃ¡ en el extremo sur de nuestro poblado. Ya sabes... has estado allÃ­ miles de veces.}
+{166}{}{Gracias. AdiÃ³s.}
+{167}{}{Una pregunta mÃ¡s, si no te importa.}
+{168}{}{Por supuesto, Â¿quÃ© quieres saber?}
+{169}{}{Â¿PodrÃ­as decirme dÃ³nde puedo encontrar mÃ¡s hierbas curativas?}
+{170}{}{Â¿QuÃ© puedes contarme de los mercaderes que comercian con nosotros?}
 {171}{}{No importa.}
-{172}{}{Ah, imbécil. Dicen que eres el Elegido, pero yo digo que los caminos del Fundador son inescrutables.}
+{172}{}{Ah, imbÃ©cil. Dicen que eres el Elegido, pero yo digo que los caminos del Fundador son inescrutables.}
 {173}{}{Oon Ga.}
-{174}{}{ Que tengas un buen viaje, imbécil... por nuestro bien.}
-{175}{}{¿¿¿???}
+{174}{}{ Que tengas un buen viaje, imbÃ©cil... por nuestro bien.}
+{175}{}{Â¿Â¿Â¿???}
 {176}{}{Nos has traicionado. Debes morir.}
-{177}{}{¡Un traidor a su propio pueblo!}
-{178}{}{¿Por qué haces esto?}
-{179}{}{¡Muerte al malvado!}
-{180}{}{¡Son basura! Se dedican a rebuscar entre los cadáveres para poder sobrevivir.}
-{181}{}{¿Podrías decirme dónde puedo encontrar más hierbas curativas?}
-{182}{}{Gracias. Adiós.}
-{183}{}{Una pregunta más, si no te importa.}
-{300}{}{Hola de nuevo, Elegido. Que los espíritus de los guerreros te protejan y te guíen.}
-{301}{}{¿Tienes dificultades, Elegido? No nos falles... por favor, apresúrate.}
-{302}{}{¿A qué estás esperando? Debemos conseguir el GECK cuanto antes. Elegido, nuestro poblado se muere.}
-{303}{}{Elegido, nuestro poblado está casi muerto. ¿Por qué no nos has traído aún el sagrado GECK?}
+{177}{}{Â¡Un traidor a su propio pueblo!}
+{178}{}{Â¿Por quÃ© haces esto?}
+{179}{}{Â¡Muerte al malvado!}
+{180}{}{Â¡Son basura! Se dedican a rebuscar entre los cadÃ¡veres para poder sobrevivir.}
+{181}{}{Â¿PodrÃ­as decirme dÃ³nde puedo encontrar mÃ¡s hierbas curativas?}
+{182}{}{Gracias. AdiÃ³s.}
+{183}{}{Una pregunta mÃ¡s, si no te importa.}
+{300}{}{Hola de nuevo, Elegido. Que los espÃ­ritus de los guerreros te protejan y te guÃ­en.}
+{301}{}{Â¿Tienes dificultades, Elegido? No nos falles... por favor, apresÃºrate.}
+{302}{}{Â¿A quÃ© estÃ¡s esperando? Debemos conseguir el GECK cuanto antes. Elegido, nuestro poblado se muere.}
+{303}{}{Elegido, nuestro poblado estÃ¡ casi muerto. Â¿Por quÃ© no nos has traÃ­do aÃºn el sagrado GECK?}
 {970}{}{Ese es mi nombre.}
-{971}{}{Estás hablando conmigo.}
-{972}{}{Vaya pregunta estúpida. Soy yo.}
-{980}{}{No sé nada de eso.}
+{971}{}{EstÃ¡s hablando conmigo.}
+{972}{}{Vaya pregunta estÃºpida. Soy yo.}
+{980}{}{No sÃ© nada de eso.}
 {981}{}{Lo siento. Ni idea.}
 {982}{}{Nunca he oido hablar de ello.}
 {1000}{}{Anciano}
@@ -51,20 +51,20 @@
 {1004}{}{Klamath}
 {1005}{}{Refugio}
 {1006}{}{Elegido}
-{1007}{}{Chamán}
+{1007}{}{ChamÃ¡n}
 {1008}{}{Hakunin}
 {1009}{}{Polvos curativos}
 {1010}{}{Puente}
 {1011}{}{Mynoc}
-{1100}{}{La Anciana es tu madre y nuestra líder.}
+{1100}{}{La Anciana es tu madre y nuestra lÃ­der.}
 {1101}{}{Nuestro gran antepasado que nos trajo conocimiento.}
 {1102}{}{El primero en luchar y vencer al caos.}
 {1103}{}{Nuestro hermoso poblado.}
-{1104}{}{Es un puesto comercial a pocos días al este de aquí.}
-{1105}{}{El Refugio es el paraíso.}
+{1104}{}{Es un puesto comercial a pocos dÃ­as al este de aquÃ­.}
+{1105}{}{El Refugio es el paraÃ­so.}
 {1106}{}{Eres el Elegido.}
-{1107}{}{Él nos cura con sus hierbas y su magia. Está en la parte norte del poblado.}
-{1108}{}{Él nos cura con sus hierbas y su magia. Está en la parte norte del poblado.}
-{1109}{}{Es un polvo mágico que te curará, pero también te dejará soñoliento.}
+{1107}{}{Ã‰l nos cura con sus hierbas y su magia. EstÃ¡ en la parte norte del poblado.}
+{1108}{}{Ã‰l nos cura con sus hierbas y su magia. EstÃ¡ en la parte norte del poblado.}
+{1109}{}{Es un polvo mÃ¡gico que te curarÃ¡, pero tambiÃ©n te dejarÃ¡ soÃ±oliento.}
 {1110}{}{El Gran Puente es la salida de nuestro poblado, al sur.}
 {1111}{}{Protege el puente que conduce a nuestro poblado.}

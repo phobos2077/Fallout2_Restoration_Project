@@ -1,15 +1,15 @@
 {100}{}{Tu vois un garde Hubologiste.}
-{101}{}{C'est une vraie armoire à glace et il est armé jusqu'aux dents.}
-{200}{}{Halte ! Ici c'est la propriété privée de la sainte Eglise de l'Hubologie. Qu'est-ce tu fous ici ?}
-{201}{}{J'viens braquer ct'endroit. J'ai entendu qu'il y avait plein de blé à se faire et des flingues à trouver.}
-{202}{}{Reste cool, mon frère. Je suis un des tiens. Moi aussi je fais partie de l'église de l'hubologie, peace.}
-{203}{}{Ah ouais ? [Il te regarde de bas en haut.] Alors ça ne te dérange pas que je te pose une question à propos de notre foi commune ?}
-{204}{}{[Il sourit sauvagement.] T'es plutôt audacieux. J'aime ça. Voyons voir si c'est toujours le cas quand tu mordras la poussière.}
-{205}{}{Demande-moi. Je suis prêt.}
-{206}{}{Un quiz ? Euh ? Tu sais quoi ? Fait chier -- J'ai menti, je vais te flinguer à la place.}
-{220}{}{Qui est le fondateur de l'église ?}
-{221}{}{L'église croit que la vie, l'univers, et tout ce qui peut-être, est symbolisé par quoi ?}
-{222}{}{En rapport avec l'église... qu'entend-t-on par *illumination* ?}
+{101}{}{C'est une vraie armoire Ã  glace et il est armÃ© jusqu'aux dents.}
+{200}{}{Halte ! Ici c'est la propriÃ©tÃ© privÃ©e de la sainte Eglise de l'Hubologie. Qu'est-ce tu fous ici ?}
+{201}{}{J'viens braquer ct'endroit. J'ai entendu qu'il y avait plein de blÃ© Ã  se faire et des flingues Ã  trouver.}
+{202}{}{Reste cool, mon frÃ¨re. Je suis un des tiens. Moi aussi je fais partie de l'Ã©glise de l'hubologie, peace.}
+{203}{}{Ah ouais ? [Il te regarde de bas en haut.] Alors Ã§a ne te dÃ©range pas que je te pose une question Ã  propos de notre foi commune ?}
+{204}{}{[Il sourit sauvagement.] T'es plutÃ´t audacieux. J'aime Ã§a. Voyons voir si c'est toujours le cas quand tu mordras la poussiÃ¨re.}
+{205}{}{Demande-moi. Je suis prÃªt.}
+{206}{}{Un quiz ? Euh ? Tu sais quoi ? Fait chier -- J'ai menti, je vais te flinguer Ã  la place.}
+{220}{}{Qui est le fondateur de l'Ã©glise ?}
+{221}{}{L'Ã©glise croit que la vie, l'univers, et tout ce qui peut-Ãªtre, est symbolisÃ© par quoi ?}
+{222}{}{En rapport avec l'Ã©glise... qu'entend-t-on par *illumination* ?}
 {230}{}{Herbert Jentz}
 {231}{}{Dick Hubbel}
 {232}{}{Tim Cruz}
@@ -20,33 +20,33 @@
 {242}{}{Une roue qui tourne.}
 {243}{}{La corne d'Odin.}
 {244}{}{Un poisson.}
-{250}{}{Le réapprovisionnement de l'essence corporelle.}
-{251}{}{Un état complètement euphorique.}
-{252}{}{Un état dans lequel on développe une compréhension divine de la réelle nature des choses.}
-{253}{}{Un état dans lequel on obtient tellement de connaissances qu'on devient une partie intégrante de l'univers, laissant notre existence terrienne derrière nous.}
-{254}{}{L'aboutissement final du chemin spirituel, quand la limite des sens du JE se confondent avec le NOUS suprême.}
-{260}{}{C'est vrai. Bienvenue camarade Hubologiste. Je peux te demander pourquoi tu viens ici ? Très peu de gens connaissent cet endroit.}
-{261}{}{Ha ! N'importe quoi. La méthode du quizz est infaillible. Il est temps qu'on se débarrasse de toi, M. l'imposteur !}
-{270}{}{AHS-9 m'a demandé de vérifier tous les dons. Il veut être sûr que tout est en ordre ici.}
+{250}{}{Le rÃ©approvisionnement de l'essence corporelle.}
+{251}{}{Un Ã©tat complÃ¨tement euphorique.}
+{252}{}{Un Ã©tat dans lequel on dÃ©veloppe une comprÃ©hension divine de la rÃ©elle nature des choses.}
+{253}{}{Un Ã©tat dans lequel on obtient tellement de connaissances qu'on devient une partie intÃ©grante de l'univers, laissant notre existence terrienne derriÃ¨re nous.}
+{254}{}{L'aboutissement final du chemin spirituel, quand la limite des sens du JE se confondent avec le NOUS suprÃªme.}
+{260}{}{C'est vrai. Bienvenue camarade Hubologiste. Je peux te demander pourquoi tu viens ici ? TrÃ¨s peu de gens connaissent cet endroit.}
+{261}{}{Ha ! N'importe quoi. La mÃ©thode du quizz est infaillible. Il est temps qu'on se dÃ©barrasse de toi, M. l'imposteur !}
+{270}{}{AHS-9 m'a demandÃ© de vÃ©rifier tous les dons. Il veut Ãªtre sÃ»r que tout est en ordre ici.}
 {271}{}{Je suis venu pour faire un don.}
-{280}{}{Oh, Je n'étais pas au courant que tu suivais les ordres divins. Dans ce cas tu peux entrer. Laisse-moi t'ouvrir la porte.}
-{281}{}{[Il grogne.] J'n'ai pas été informé de cette visite...}
+{280}{}{Oh, Je n'Ã©tais pas au courant que tu suivais les ordres divins. Dans ce cas tu peux entrer. Laisse-moi t'ouvrir la porte.}
+{281}{}{[Il grogne.] J'n'ai pas Ã©tÃ© informÃ© de cette visite...}
 {282}{}{Merci. A plus tard.}
-{283}{}{Ecoute, AHS-9 en personne m'a chargé de vérifier une chose. Il m'a demandé de retrouver un artefact spécial qui fait partie des dons. Il nous est indispensable pour accéder aux Etoiles.}
-{284}{}{Tu me rends malade avec tes conneries. Il est temps qu'on se débarrasse de toi.}
-{290}{}{Mais ce n'est pas ici que tu pourras faire un don. C'est dans l'une de nos églises.}
-{291}{}{Je sais ça, mais AHS-9 m'a dit que les nouvelles recrues sont autorisées à venir voir, avant de faire une contribution considérable.}
-{292}{}{[Il grogne.] J'n'ai pas été informé de cette visite...}
-{293}{}{Oh je vois. C'est entendu. Tu es libre d'entrer. Mais, ne traîne pas trop !}
-{294}{}{Ecoute, je suis prêt à donner une somme importante à l'église. Je veux être certain que mes biens seront gardés en lieu sûr.}
+{283}{}{Ecoute, AHS-9 en personne m'a chargÃ© de vÃ©rifier une chose. Il m'a demandÃ© de retrouver un artefact spÃ©cial qui fait partie des dons. Il nous est indispensable pour accÃ©der aux Etoiles.}
+{284}{}{Tu me rends malade avec tes conneries. Il est temps qu'on se dÃ©barrasse de toi.}
+{290}{}{Mais ce n'est pas ici que tu pourras faire un don. C'est dans l'une de nos Ã©glises.}
+{291}{}{Je sais Ã§a, mais AHS-9 m'a dit que les nouvelles recrues sont autorisÃ©es Ã  venir voir, avant de faire une contribution considÃ©rable.}
+{292}{}{[Il grogne.] J'n'ai pas Ã©tÃ© informÃ© de cette visite...}
+{293}{}{Oh je vois. C'est entendu. Tu es libre d'entrer. Mais, ne traÃ®ne pas trop !}
+{294}{}{Ecoute, je suis prÃªt Ã  donner une somme importante Ã  l'Ã©glise. Je veux Ãªtre certain que mes biens seront gardÃ©s en lieu sÃ»r.}
 {300}{}{Rebonjour.}
-{301}{}{J'espère que tout est en ordre.}
+{301}{}{J'espÃ¨re que tout est en ordre.}
 {400}{}{Moi vouloir entrer.}
 {410}{}{[Il te regarde bizarrement.] Eh bien, tu as besoin du mot de passe alors.}
 {411}{}{Moi donner maux de ventre, pas mot de passe.}
 {412}{}{Moi vouloir entrer !}
-{420}{}{Ecoute, je n'ai pas le temps pour ça. Tu n'as clairement pas le droit d'être ici, alors casse-toi ou tu vas avoir des ennuis.}
+{420}{}{Ecoute, je n'ai pas le temps pour Ã§a. Tu n'as clairement pas le droit d'Ãªtre ici, alors casse-toi ou tu vas avoir des ennuis.}
 {421}{}{Beuh aur'voir, m'sieur !}
 {422}{}{Moi vouloir cadeaux. Toi mourir.}
-{430}{}{Dernière chance. Va-t'en ou meurs.}
-{431}{}{Je t'ai prévenu !}
+{430}{}{DerniÃ¨re chance. Va-t'en ou meurs.}
+{431}{}{Je t'ai prÃ©venu !}

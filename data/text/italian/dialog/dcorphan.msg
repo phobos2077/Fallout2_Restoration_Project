@@ -14,10 +14,10 @@
 {230}{}{Questo e' il locale di Frankie.}
 {231}{}{Sei un amico di Frankie?}
 {232}{}{Questo posto ha un cattivo odore.}
-{233}{}{Il liquore di Frankie e' molto caro… cosi' ho sentito dire.}
+{233}{}{Il liquore di Frankie e' molto caroâ€¦ cosi' ho sentito dire.}
 {240}{}{Becky e' cosi' gentile...}
 {241}{}{Questo e' il locale di Becky.}
-{242}{}{Becky fa i prezzi migliori sui drink… cosi' ho sentito dire.}
+{242}{}{Becky fa i prezzi migliori sui drinkâ€¦ cosi' ho sentito dire.}
 {243}{}{Rebecca non mi lascia giocare ai suoi giochi.}
 {244}{}{Becky e' cosi' carina...}
 {245}{}{Hai incontrato Rebecca? Vorrei tanto che fosse la mia mamma.}

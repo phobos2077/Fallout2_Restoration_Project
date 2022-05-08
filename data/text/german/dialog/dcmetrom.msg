@@ -1,13 +1,13 @@
-{100}{}{Du siehst einen kräftigen Sklavenhändler mittleren Alters.}
-{101}{}{Du siehst einen ziemlich großen Sklavenhändler.}
-{150}{}{Ein Sklavenhändler, dem seine Arbeit anscheinend gefällt.}
-{151}{}{Dieser Sklavenhändler scheint sehr kräftig, aber nicht sehr klug zu sein.}
-{200}{}{Geh verdammt noch mal weg von der Tür.}
+{100}{}{Du siehst einen krÃ¤ftigen SklavenhÃ¤ndler mittleren Alters.}
+{101}{}{Du siehst einen ziemlich groÃŸen SklavenhÃ¤ndler.}
+{150}{}{Ein SklavenhÃ¤ndler, dem seine Arbeit anscheinend gefÃ¤llt.}
+{151}{}{Dieser SklavenhÃ¤ndler scheint sehr krÃ¤ftig, aber nicht sehr klug zu sein.}
+{200}{}{Geh verdammt noch mal weg von der TÃ¼r.}
 {201}{}{Was soll der Mist?}
-{202}{}{Metzger lässt dich köpfen! Weg da.}
-{203}{}{Hey du Schlampe! Weg da von der Tür.}
+{202}{}{Metzger lÃ¤sst dich kÃ¶pfen! Weg da.}
+{203}{}{Hey du Schlampe! Weg da von der TÃ¼r.}
 {204}{}{Keine Schlampe betritt das Zimmer von Metzger. Weg da!}
-{205}{}{Weg da, Schlampe. Ob Sklavenhändlerin oder nicht, das Zimmer von Metzger darf niemand
+{205}{}{Weg da, Schlampe. Ob SklavenhÃ¤ndlerin oder nicht, das Zimmer von Metzger darf niemand
  betreten.}
 {250}{}{Rede mit Metzger, nicht mit mir, Kumpel.}
 {251}{}{Willst du der Gilde beitreten?}
@@ -17,10 +17,10 @@
 {255}{}{Metzger stellt bestimmt keine Schlampe an, also hau ab.}
 {256}{}{Hau ab.}
 {257}{}{Hey, Mann!}
-{258}{}{Du hast Glück, dass du nur bei den Jagden mitmachen musst.}
-{259}{}{Türwache ist ein langweiliger Job.}
-{260}{}{Wie läuft es?}
+{258}{}{Du hast GlÃ¼ck, dass du nur bei den Jagden mitmachen musst.}
+{259}{}{TÃ¼rwache ist ein langweiliger Job.}
+{260}{}{Wie lÃ¤uft es?}
 {261}{}{Du bist die erste Frau, die Metzger je eingestellt hat.}
-{262}{}{Metzger muss was für dich übrig haben.}
+{262}{}{Metzger muss was fÃ¼r dich Ã¼brig haben.}
 {263}{}{Du bist ganz alleine, junge Dame.}
-{264}{}{Eine Sklavenhändlerin... dass ich das noch erleben darf!}
+{264}{}{Eine SklavenhÃ¤ndlerin... dass ich das noch erleben darf!}

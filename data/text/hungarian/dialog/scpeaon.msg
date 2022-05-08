@@ -1,47 +1,47 @@
 {100}{}{Egy helybeli lakos.}
 {101}{}{A helyiek egyike.}
-{102}{}{Semmi említésre méltót nem látsz rajta.}
+{102}{}{Semmi emlÃ­tÃ©sre mÃ©ltÃ³t nem lÃ¡tsz rajta.}
 {103}{}{Ahhh, hagyj engem!}
-{104}{}{Bocsánat! Még egyszer nem teszem.}
-{105}{}{Éppen indulni akartam.}
-{106}{}{?rség, visszajött!}
-{107}{}{Kérlek, hagyj békén!}
-{108}{}{Nézd, jobb, ha elkerüljük egymást.}
-{109}{}{Te gonosz vagy! Kérlek, ne szólj hozzám!}
-{110}{}{Hagyd békén a gyerekeinket!}
-{111}{}{Te valami beteges b?nöz? vagy. Remélem, lefülelnek az ?rök.}
-{112}{}{Menj innen, oké?}
-{113}{}{Nem kellett volna senkit se megölnöd! F?leg nem a gyerekeket!}
-{114}{}{Nem hiszem, hogy kedvelnélek.}
-{115}{}{Majd közöld velem el?re, ha beg?zölsz!}
+{104}{}{BocsÃ¡nat! MÃ©g egyszer nem teszem.}
+{105}{}{Ã‰ppen indulni akartam.}
+{106}{}{?rsÃ©g, visszajÃ¶tt!}
+{107}{}{KÃ©rlek, hagyj bÃ©kÃ©n!}
+{108}{}{NÃ©zd, jobb, ha elkerÃ¼ljÃ¼k egymÃ¡st.}
+{109}{}{Te gonosz vagy! KÃ©rlek, ne szÃ³lj hozzÃ¡m!}
+{110}{}{Hagyd bÃ©kÃ©n a gyerekeinket!}
+{111}{}{Te valami beteges b?nÃ¶z? vagy. RemÃ©lem, lefÃ¼lelnek az ?rÃ¶k.}
+{112}{}{Menj innen, okÃ©?}
+{113}{}{Nem kellett volna senkit se megÃ¶lnÃ¶d! F?leg nem a gyerekeket!}
+{114}{}{Nem hiszem, hogy kedvelnÃ©lek.}
+{115}{}{Majd kÃ¶zÃ¶ld velem el?re, ha beg?zÃ¶lsz!}
 {116}{}{Mennem kell.}
-{117}{}{Mit gondolsz, ki az ördög vagy te, hogy ebbe a városba jössz?}
-{118}{}{Menj innen, miel?tt megsérül valaki!}
-{119}{}{Ki nem állhatlak!}
-{120}{}{Az igazság kiirtja a magadfajtákat.}
+{117}{}{Mit gondolsz, ki az Ã¶rdÃ¶g vagy te, hogy ebbe a vÃ¡rosba jÃ¶ssz?}
+{118}{}{Menj innen, miel?tt megsÃ©rÃ¼l valaki!}
+{119}{}{Ki nem Ã¡llhatlak!}
+{120}{}{Az igazsÃ¡g kiirtja a magadfajtÃ¡kat.}
 {121}{}{Mi a gondod?}
-{122}{}{Nem tudnánk egyszer?en csak megférni egymás mellett?}
-{123}{}{Ne beszélj hozzám!}
-{124}{}{Akármi is az, boldogíts vele mást!}
-{125}{}{Nem hiszem, hogy annyira kemény vagy.}
-{126}{}{Miért nem mész el innen, mintha mi sem történt volna?}
-{127}{}{Hát, nekem most tojásért kell mennem.}
-{128}{}{Nem tudod, hogy kell bádog falburkolatot felrakni? }
-{129}{}{Helló!}
-{130}{}{Kérlek, ne zavarj, nagyon elfoglalt vagyok.}
-{131}{}{Kiváncsi vagyok, van-e még Dustynak brahminburgere.}
-{132}{}{Néha elgondolkodom, vajon mit tartogat az élet.}
-{133}{}{Ömm, kösz, most már tényleg mennem kell.}
+{122}{}{Nem tudnÃ¡nk egyszer?en csak megfÃ©rni egymÃ¡s mellett?}
+{123}{}{Ne beszÃ©lj hozzÃ¡m!}
+{124}{}{AkÃ¡rmi is az, boldogÃ­ts vele mÃ¡st!}
+{125}{}{Nem hiszem, hogy annyira kemÃ©ny vagy.}
+{126}{}{MiÃ©rt nem mÃ©sz el innen, mintha mi sem tÃ¶rtÃ©nt volna?}
+{127}{}{HÃ¡t, nekem most tojÃ¡sÃ©rt kell mennem.}
+{128}{}{Nem tudod, hogy kell bÃ¡dog falburkolatot felrakni? }
+{129}{}{HellÃ³!}
+{130}{}{KÃ©rlek, ne zavarj, nagyon elfoglalt vagyok.}
+{131}{}{KivÃ¡ncsi vagyok, van-e mÃ©g Dustynak brahminburgere.}
+{132}{}{NÃ©ha elgondolkodom, vajon mit tartogat az Ã©let.}
+{133}{}{Ã–mm, kÃ¶sz, most mÃ¡r tÃ©nyleg mennem kell.}
 {134}{}{Maybe later we can do lunch.}
-{135}{}{Óhh, hát persze... te vagy az új gyerek a városban.}
-{136}{}{Beszélned kéne a seriffel!}
-{137}{}{Hallottam, hogy hamarosan új házakat fognak építeni.}
-{138}{}{A város elég csöndes, mióta megválasztották Dumontot.}
-{139}{}{Jó napot, idegen!}
-{140}{}{Elég csöndes hely ez. Szép, mi?}
-{141}{}{Új vagy a városban? Nézz be az unokaöccsémhez, Duppóhoz!}
-{142}{}{Hallottam, hogy kemény a helyzet lent délen. Mikor tesz már végre valamit a kormányzat?}
-{143}{}{Északról jöttél? Nem sok északról jött ember lakik itt.}
-{144}{}{Azt hallottam, a pusztában mindenki mutáns, vagy vadember.}
-{145}{}{Nincs id?m beszélgetni. Mennem kell dolgozni.}
-{146}{}{Kiárusítás van Duppónál. Óh, biztos nem érdekel téged.}
+{135}{}{Ã“hh, hÃ¡t persze... te vagy az Ãºj gyerek a vÃ¡rosban.}
+{136}{}{BeszÃ©lned kÃ©ne a seriffel!}
+{137}{}{Hallottam, hogy hamarosan Ãºj hÃ¡zakat fognak Ã©pÃ­teni.}
+{138}{}{A vÃ¡ros elÃ©g csÃ¶ndes, miÃ³ta megvÃ¡lasztottÃ¡k Dumontot.}
+{139}{}{JÃ³ napot, idegen!}
+{140}{}{ElÃ©g csÃ¶ndes hely ez. SzÃ©p, mi?}
+{141}{}{Ãšj vagy a vÃ¡rosban? NÃ©zz be az unokaÃ¶ccsÃ©mhez, DuppÃ³hoz!}
+{142}{}{Hallottam, hogy kemÃ©ny a helyzet lent dÃ©len. Mikor tesz mÃ¡r vÃ©gre valamit a kormÃ¡nyzat?}
+{143}{}{Ã‰szakrÃ³l jÃ¶ttÃ©l? Nem sok Ã©szakrÃ³l jÃ¶tt ember lakik itt.}
+{144}{}{Azt hallottam, a pusztÃ¡ban mindenki mutÃ¡ns, vagy vadember.}
+{145}{}{Nincs id?m beszÃ©lgetni. Mennem kell dolgozni.}
+{146}{}{KiÃ¡rusÃ­tÃ¡s van DuppÃ³nÃ¡l. Ã“h, biztos nem Ã©rdekel tÃ©ged.}

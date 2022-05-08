@@ -1,16 +1,16 @@
-{100}{}{Bem-vindo ao EPA Computador de Controle de Robô. O que você pretende fazer?}
-{101}{}{Comando De Robôs.}
-{102}{}{Executar verificação de diagnóstico.}
+{100}{}{Bem-vindo ao EPA Computador de Controle de RobÃ´. O que vocÃª pretende fazer?}
+{101}{}{Comando De RobÃ´s.}
+{102}{}{Executar verificaÃ§Ã£o de diagnÃ³stico.}
 {103}{}{Deixar.}
-{104}{}{!ERRO! !ERRO! PROBLEMA ENCONTRADO ENCERRA SEQUÊNCIA!}
+{104}{}{!ERRO! !ERRO! PROBLEMA ENCONTRADO ENCERRA SEQUÃŠNCIA!}
 {105}{}{Voltar para o Menu Principal}
-{106}{}{Verificação de diagnóstico ... erro na placa de circuito .... seção quatro ... fiação solta.}
+{106}{}{VerificaÃ§Ã£o de diagnÃ³stico ... erro na placa de circuito .... seÃ§Ã£o quatro ... fiaÃ§Ã£o solta.}
 {107}{}{Feito}
-{108}{}{É muito difícil para reparar isso.}
-{109}{}{A falha no computador é reparada e a máquina é trazida de volta online.}
-{110}{}{Bem-vindo ao EPA Computador de Controle de Robô. Você não tem mais autorização de segurança para usar esses arquivos. Seqüência de terminação.}
+{108}{}{Ã‰ muito difÃ­cil para reparar isso.}
+{109}{}{A falha no computador Ã© reparada e a mÃ¡quina Ã© trazida de volta online.}
+{110}{}{Bem-vindo ao EPA Computador de Controle de RobÃ´. VocÃª nÃ£o tem mais autorizaÃ§Ã£o de seguranÃ§a para usar esses arquivos. SeqÃ¼Ãªncia de terminaÃ§Ã£o.}
 {111}{}{FEITO}
 {112}{}{BEEP!}
 {113}{}{BOOP!}
 {114}{}{Bzzzt..}
-{115}{}{Você já consertou.}
+{115}{}{VocÃª jÃ¡ consertou.}

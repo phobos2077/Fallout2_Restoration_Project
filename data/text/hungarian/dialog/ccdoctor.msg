@@ -1,107 +1,107 @@
-{100}{}{Tudós.}
+{100}{}{TudÃ³s.}
 {101}{}{Dr. Schreber.}
-{102}{}{Egy kopasz emberkét látsz laborköpenyben.}
-{103}{}{Remélem, jó okod van megzavarni a munkámat, katona.}
-{104}{}{Én kérdezni kérdés.}
-{105}{}{Nem, majd jönni vissza kés?bb.}
-{106}{}{Jól van. Együtt kell élnem a katonákkal, szóval jól teszem, ha megpróbálok rendesen kijönni veletek.}
+{102}{}{Egy kopasz emberkÃ©t lÃ¡tsz laborkÃ¶penyben.}
+{103}{}{RemÃ©lem, jÃ³ okod van megzavarni a munkÃ¡mat, katona.}
+{104}{}{Ã‰n kÃ©rdezni kÃ©rdÃ©s.}
+{105}{}{Nem, majd jÃ¶nni vissza kÃ©s?bb.}
+{106}{}{JÃ³l van. EgyÃ¼tt kell Ã©lnem a katonÃ¡kkal, szÃ³val jÃ³l teszem, ha megprÃ³bÃ¡lok rendesen kijÃ¶nni veletek.}
 {107}{}{Mit akarsz tudni?}
 {108}{}{Te ki?}
-{109}{}{Mit te csinál?}
+{109}{}{Mit te csinÃ¡l?}
 {110}{}{Mi lenni ez hely?}
-{111}{}{Szoba mér nem aggya hang?}
-{112}{}{Miért Halá'karom áll másik szoba?}
-{113}{}{Kutya miért nem mozdulni el sarokból?}
+{111}{}{Szoba mÃ©r nem aggya hang?}
+{112}{}{MiÃ©rt HalÃ¡'karom Ã¡ll mÃ¡sik szoba?}
+{113}{}{Kutya miÃ©rt nem mozdulni el sarokbÃ³l?}
 {114}{}{Mi menni most.}
 {115}{}{Ki vagy te?}
-{116}{}{Mi a munkád?}
-{117}{}{Mi ez a hely tulajdonképpen?}
-{118}{}{Miért hangszigetelt ez a szoba?}
-{119}{}{Miért van az a halálkarom a másik szobában?}
-{120}{}{Mi van azzal a kutyaszoborral az ajtónál?}
+{116}{}{Mi a munkÃ¡d?}
+{117}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{118}{}{MiÃ©rt hangszigetelt ez a szoba?}
+{119}{}{MiÃ©rt van az a halÃ¡lkarom a mÃ¡sik szobÃ¡ban?}
+{120}{}{Mi van azzal a kutyaszoborral az ajtÃ³nÃ¡l?}
 {121}{}{Most mennem kell.}
-{122}{}{A nevem Schreber, Dr. Schreber. A bázis katonai orvosa vagyok, többek között. Ne, ne fárassz a neveddel, katona, ti úgyis mind egyformán néztek ki ebben a páncélban.}
-{123}{}{Oké.}
-{124}{}{Értem.}
-{125}{}{Csak mellékesen dolgozom orvosként. Igazából genetikus vagyok.}
+{122}{}{A nevem Schreber, Dr. Schreber. A bÃ¡zis katonai orvosa vagyok, tÃ¶bbek kÃ¶zÃ¶tt. Ne, ne fÃ¡rassz a neveddel, katona, ti Ãºgyis mind egyformÃ¡n nÃ©ztek ki ebben a pÃ¡ncÃ©lban.}
+{123}{}{OkÃ©.}
+{124}{}{Ã‰rtem.}
+{125}{}{Csak mellÃ©kesen dolgozom orvoskÃ©nt. IgazÃ¡bÃ³l genetikus vagyok.}
 {126}{}{Mi lenni?}
 {127}{}{Mi a genetika?}
-{128}{}{Nem hiszem, hogy az agykapacitásoddal felfoghatnád a munkámat, katona. Mondjuk úgy, állatokat vagy embereket "tökéletesítek".}
-{129}{}{Hm... oké.}
-{130}{}{Oké... de még azért kérdeznék néhány dolgot.}
-{131}{}{Ez volt a bázis betegszobája, de úgy éreztem, a katonáknak nincsenek ilyen nagy betegellátási igényei, ezért átalakíttattam labornak.}
-{132}{}{Szép.}
-{133}{}{Ez igazán szép. Kérdeznék még, ha lehet.}
-{134}{}{Szoba mér nem aggya hang? Ja, bizonyára a hangszigetelésr?l beszélsz! A kutatásaim folyamán a tesztalanyok kissé... hangoskodnak. A bázisparancsnokot ez annyira idegesítete, hogy elrendelte a szigetelést.}
-{135}{}{A kutatásaim folyamán a tesztalanyok kissé... hangoskodnak. A bázisparancsnokot ez annyira idegesítete, hogy elrendelte a szigetelést.}
-{136}{}{Ó...}
-{137}{}{Értem.}
-{138}{}{A nagy barna, ronda dögre gondolsz? Egy kísérlet, amit most fejeztem be. A kivégzését hamarosan megejtjük.}
-{139}{}{Mit jelentni kivégzés?}
-{140}{}{Miért akarod megöletni?}
-{141}{}{Anyám... te aztán nem vagy egy IQ bajnok. Kivégezni. Kinyírni, hidegre tenni, elaltatni, megölni, eliminálni. Vágod?}
-{142}{}{Vágni. Miért akarni Halá'karom megölni?}
-{143}{}{Az Enklávénak olcsó és feláldozható katonák kellettek. A halálkarmokra esett a választás, mert er?sek és félelmet keltenek az ellenségben. Okosabb egyedek kellettek, hogy megértsék a parancsokat, de azért annyira nem, hogy az öntudatuk felszabaduljon. Tudsz követni?}
-{144}{}{Öh, igen.}
-{145}{}{Igen, eddig tudlak követni.}
+{128}{}{Nem hiszem, hogy az agykapacitÃ¡soddal felfoghatnÃ¡d a munkÃ¡mat, katona. Mondjuk Ãºgy, Ã¡llatokat vagy embereket "tÃ¶kÃ©letesÃ­tek".}
+{129}{}{Hm... okÃ©.}
+{130}{}{OkÃ©... de mÃ©g azÃ©rt kÃ©rdeznÃ©k nÃ©hÃ¡ny dolgot.}
+{131}{}{Ez volt a bÃ¡zis betegszobÃ¡ja, de Ãºgy Ã©reztem, a katonÃ¡knak nincsenek ilyen nagy betegellÃ¡tÃ¡si igÃ©nyei, ezÃ©rt Ã¡talakÃ­ttattam labornak.}
+{132}{}{SzÃ©p.}
+{133}{}{Ez igazÃ¡n szÃ©p. KÃ©rdeznÃ©k mÃ©g, ha lehet.}
+{134}{}{Szoba mÃ©r nem aggya hang? Ja, bizonyÃ¡ra a hangszigetelÃ©sr?l beszÃ©lsz! A kutatÃ¡saim folyamÃ¡n a tesztalanyok kissÃ©... hangoskodnak. A bÃ¡zisparancsnokot ez annyira idegesÃ­tete, hogy elrendelte a szigetelÃ©st.}
+{135}{}{A kutatÃ¡saim folyamÃ¡n a tesztalanyok kissÃ©... hangoskodnak. A bÃ¡zisparancsnokot ez annyira idegesÃ­tete, hogy elrendelte a szigetelÃ©st.}
+{136}{}{Ã“...}
+{137}{}{Ã‰rtem.}
+{138}{}{A nagy barna, ronda dÃ¶gre gondolsz? Egy kÃ­sÃ©rlet, amit most fejeztem be. A kivÃ©gzÃ©sÃ©t hamarosan megejtjÃ¼k.}
+{139}{}{Mit jelentni kivÃ©gzÃ©s?}
+{140}{}{MiÃ©rt akarod megÃ¶letni?}
+{141}{}{AnyÃ¡m... te aztÃ¡n nem vagy egy IQ bajnok. KivÃ©gezni. KinyÃ­rni, hidegre tenni, elaltatni, megÃ¶lni, eliminÃ¡lni. VÃ¡god?}
+{142}{}{VÃ¡gni. MiÃ©rt akarni HalÃ¡'karom megÃ¶lni?}
+{143}{}{Az EnklÃ¡vÃ©nak olcsÃ³ Ã©s felÃ¡ldozhatÃ³ katonÃ¡k kellettek. A halÃ¡lkarmokra esett a vÃ¡lasztÃ¡s, mert er?sek Ã©s fÃ©lelmet keltenek az ellensÃ©gben. Okosabb egyedek kellettek, hogy megÃ©rtsÃ©k a parancsokat, de azÃ©rt annyira nem, hogy az Ã¶ntudatuk felszabaduljon. Tudsz kÃ¶vetni?}
+{144}{}{Ã–h, igen.}
+{145}{}{Igen, eddig tudlak kÃ¶vetni.}
 {146}{}{Well, we succeeded! We actually managed to increase their
  intelligence. However, I began to suspect that we went too far.
  That maybe they were a lot smarter than they were letting on. So
  when I was transferred here I brought one of them with me so I
  could put my theory to the test.}
-{147}{}{És?}
-{148}{}{Igazam volt! A halálkarmok hülyének tettetik magukat el?ttünk, miközben egyre többet tanulnak el a viselkedésünkb?l és a lélektanunkból. Még az emberi beszédet is tudják utánozni! Sokat beszélgettem a másik szobában lév? példánnyal.}
-{149}{}{Akárhogy is, a tény, hogy ki tudott eszelni egy szökési tervet és hogy a fajtársai lerántották a leplet egy összeesküvésr?l, világosan mutatja, milyen veszélyesek is valójában.}
+{147}{}{Ã‰s?}
+{148}{}{Igazam volt! A halÃ¡lkarmok hÃ¼lyÃ©nek tettetik magukat el?ttÃ¼nk, mikÃ¶zben egyre tÃ¶bbet tanulnak el a viselkedÃ©sÃ¼nkb?l Ã©s a lÃ©lektanunkbÃ³l. MÃ©g az emberi beszÃ©det is tudjÃ¡k utÃ¡nozni! Sokat beszÃ©lgettem a mÃ¡sik szobÃ¡ban lÃ©v? pÃ©ldÃ¡nnyal.}
+{149}{}{AkÃ¡rhogy is, a tÃ©ny, hogy ki tudott eszelni egy szÃ¶kÃ©si tervet Ã©s hogy a fajtÃ¡rsai lerÃ¡ntottÃ¡k a leplet egy Ã¶sszeeskÃ¼vÃ©sr?l, vilÃ¡gosan mutatja, milyen veszÃ©lyesek is valÃ³jÃ¡ban.}
 {150}{}{Mostan mit tervezni?}
-{151}{}{És most mit akarsz csinálni?}
-{152}{}{Írni fogok egy jelentést a kutatásról és elküldöm az Enklávé vezérkarának. Természetesen azonnal el fogják rendelni az összes szaporulat kivégzését. }
-{153}{}{Én érteni. Kérdezni még.}
-{154}{}{Öhm... biztos lenni benne, hogy szoba nem adja hang?}
-{155}{}{Én akar megölni Halá'karom neked!}
-{156}{}{Megölhetem a halálkarmot neked?}
-{157}{}{Érdekes. Kérdezhetek valami mást?}
+{151}{}{Ã‰s most mit akarsz csinÃ¡lni?}
+{152}{}{Ãrni fogok egy jelentÃ©st a kutatÃ¡srÃ³l Ã©s elkÃ¼ldÃ¶m az EnklÃ¡vÃ© vezÃ©rkarÃ¡nak. TermÃ©szetesen azonnal el fogjÃ¡k rendelni az Ã¶sszes szaporulat kivÃ©gzÃ©sÃ©t. }
+{153}{}{Ã‰n Ã©rteni. KÃ©rdezni mÃ©g.}
+{154}{}{Ã–hm... biztos lenni benne, hogy szoba nem adja hang?}
+{155}{}{Ã‰n akar megÃ¶lni HalÃ¡'karom neked!}
+{156}{}{MegÃ¶lhetem a halÃ¡lkarmot neked?}
+{157}{}{Ã‰rdekes. KÃ©rdezhetek valami mÃ¡st?}
 {158}{}{Mondd csak doki, biztos, hogy ez a szoba hangszigetelt?}
-{159}{}{Persze. Különben a parancsnok már a falat kaparná. Miért?}
-{160}{}{Csak úgy!}
-{161}{}{Nem akarni, hogy hallatszódja, mikor sikítol fájdalomba!}
-{162}{}{Csak kíváncsi voltam.}
-{163}{}{Nem akarom, hogy hallják, ahogy kísérletezem rajtad.}
-{164}{}{Már megint itt vagy? Most éppen mit tehetek érted?}
-{165}{}{Öhm... biztos lenni benne, hogy szoba nem adja hang?}
-{166}{}{Lenni még kérdés.}
-{167}{}{Semmit. Mondok viszlát!}
+{159}{}{Persze. KÃ¼lÃ¶nben a parancsnok mÃ¡r a falat kaparnÃ¡. MiÃ©rt?}
+{160}{}{Csak Ãºgy!}
+{161}{}{Nem akarni, hogy hallatszÃ³dja, mikor sikÃ­tol fÃ¡jdalomba!}
+{162}{}{Csak kÃ­vÃ¡ncsi voltam.}
+{163}{}{Nem akarom, hogy halljÃ¡k, ahogy kÃ­sÃ©rletezem rajtad.}
+{164}{}{MÃ¡r megint itt vagy? Most Ã©ppen mit tehetek Ã©rted?}
+{165}{}{Ã–hm... biztos lenni benne, hogy szoba nem adja hang?}
+{166}{}{Lenni mÃ©g kÃ©rdÃ©s.}
+{167}{}{Semmit. Mondok viszlÃ¡t!}
 {168}{}{Mondd csak doki, biztos, hogy ez a szoba hangszigetelt?}
-{169}{}{Másvalamit akartam kérdezni t?led.}
-{170}{}{Semmi, csak benéztem.}
-{171}{}{Persze. Különben a parancsnok már a falat kaparná. Miért?}
-{172}{}{Csak úgy!}
-{173}{}{Nem akarni, hogy hallatszódja, mikor sikítol fájdalomba!}
-{174}{}{Csak kíváncsi voltam.}
-{175}{}{Nem akarom, hogy hallják, ahogy kísérletezem rajtad.}
-{176}{}{A vendégem vagy. A halálkarmot a mellettünk lév? szobában találod.}
-{177}{}{Köszönöm!}
-{178}{}{Az a K-9-es. A kutyám. Elhatároztam, hogy néhány kiber-beültetéssel felpiszkálom az intelligenciáját, de sajnos nem bizonyult elég h?ségesnek. Amikor egyszer megmakacsolta magát, megharapott.}
-{179}{}{Büntetésként kikapcsoltam a lábait, de egyébként teljesen m?köd?képes. Most itt kell állnia és t?rni kell a kísérleteimet.}
-{180}{}{Ó...}
-{181}{}{Javíthatni meg?}
-{182}{}{Értem.}
-{183}{}{Meg lehet javítani?}
-{184}{}{Persze. A motivátor-áramköre Raulnál van, a szervízben. Talán visszkérhetném... De majd máskor, ha látom, hogy a kutyának megváltozik a gazdájához való hozzáállása.}
-{185}{}{Oké.}
+{169}{}{MÃ¡svalamit akartam kÃ©rdezni t?led.}
+{170}{}{Semmi, csak benÃ©ztem.}
+{171}{}{Persze. KÃ¼lÃ¶nben a parancsnok mÃ¡r a falat kaparnÃ¡. MiÃ©rt?}
+{172}{}{Csak Ãºgy!}
+{173}{}{Nem akarni, hogy hallatszÃ³dja, mikor sikÃ­tol fÃ¡jdalomba!}
+{174}{}{Csak kÃ­vÃ¡ncsi voltam.}
+{175}{}{Nem akarom, hogy halljÃ¡k, ahogy kÃ­sÃ©rletezem rajtad.}
+{176}{}{A vendÃ©gem vagy. A halÃ¡lkarmot a mellettÃ¼nk lÃ©v? szobÃ¡ban talÃ¡lod.}
+{177}{}{KÃ¶szÃ¶nÃ¶m!}
+{178}{}{Az a K-9-es. A kutyÃ¡m. ElhatÃ¡roztam, hogy nÃ©hÃ¡ny kiber-beÃ¼ltetÃ©ssel felpiszkÃ¡lom az intelligenciÃ¡jÃ¡t, de sajnos nem bizonyult elÃ©g h?sÃ©gesnek. Amikor egyszer megmakacsolta magÃ¡t, megharapott.}
+{179}{}{BÃ¼ntetÃ©skÃ©nt kikapcsoltam a lÃ¡bait, de egyÃ©bkÃ©nt teljesen m?kÃ¶d?kÃ©pes. Most itt kell Ã¡llnia Ã©s t?rni kell a kÃ­sÃ©rleteimet.}
+{180}{}{Ã“...}
+{181}{}{JavÃ­thatni meg?}
+{182}{}{Ã‰rtem.}
+{183}{}{Meg lehet javÃ­tani?}
+{184}{}{Persze. A motivÃ¡tor-Ã¡ramkÃ¶re RaulnÃ¡l van, a szervÃ­zben. TalÃ¡n visszkÃ©rhetnÃ©m... De majd mÃ¡skor, ha lÃ¡tom, hogy a kutyÃ¡nak megvÃ¡ltozik a gazdÃ¡jÃ¡hoz valÃ³ hozzÃ¡Ã¡llÃ¡sa.}
+{185}{}{OkÃ©.}
 {186}{}{Rendben.}
 {187}{}{Civil vagy?}
-{188}{}{Ez a genetikai labor. A fegyvertár eggyel odébb van.}
-{189}{}{Miért nincs magán egyenruha?}
-{190}{}{Szent szar! Megtámadtak bennünket! Riadó!}
-{191}{}{Behatolók! Hívjátok az ?rséget!}
-{192}{}{?rség! Behatoló a laborban!}
-{193}{}{Mi van? Megtámadtak, vagy mi?}
-{194}{}{Miért van riadó? Mi történik?}
+{188}{}{Ez a genetikai labor. A fegyvertÃ¡r eggyel odÃ©bb van.}
+{189}{}{MiÃ©rt nincs magÃ¡n egyenruha?}
+{190}{}{Szent szar! MegtÃ¡madtak bennÃ¼nket! RiadÃ³!}
+{191}{}{BehatolÃ³k! HÃ­vjÃ¡tok az ?rsÃ©get!}
+{192}{}{?rsÃ©g! BehatolÃ³ a laborban!}
+{193}{}{Mi van? MegtÃ¡madtak, vagy mi?}
+{194}{}{MiÃ©rt van riadÃ³? Mi tÃ¶rtÃ©nik?}
 {195}{}{Mi a szar folyik itt?}
-{196}{}{Nem vagyok ellenség, ne l?j le!}
-{197}{}{Nem veszek részt csatákban, szóval hagyj békén!}
-{198}{}{A szentségit! Orvos vagyok, nem katona!}
-{200}{}{[TOVÁBB]}
-{201}{}{Fel szeretnék tenni néhány kérdést.}
-{202}{}{Nem, most nem. Sajnálom, hogy zavartalak.}
-{800}{}{Megölted Dr. Schrebert.}
+{196}{}{Nem vagyok ellensÃ©g, ne l?j le!}
+{197}{}{Nem veszek rÃ©szt csatÃ¡kban, szÃ³val hagyj bÃ©kÃ©n!}
+{198}{}{A szentsÃ©git! Orvos vagyok, nem katona!}
+{200}{}{[TOVÃBB]}
+{201}{}{Fel szeretnÃ©k tenni nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{202}{}{Nem, most nem. SajnÃ¡lom, hogy zavartalak.}
+{800}{}{MegÃ¶lted Dr. Schrebert.}

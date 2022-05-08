@@ -11,7 +11,7 @@
 {221}{}{? Sali.}
 {225}{}{Sei appena entrato nel posto SBAGLIATO, sacco di merda.}
 {226}{}{Beh, non si puo' dire che questo tipo non abbia le palle... smamma, ragazzo, prima che ti spari.}
-{227}{}{Questo tizio cerca guai…}
+{227}{}{Questo tizio cerca guaiâ€¦}
 {228}{}{Faresti meglio ad andartene, }
 {229}{}{Beh, che mi venga un colpo se non e' }
 {230}{}{Mi hanno detto che i }

@@ -1,8 +1,8 @@
-{100}{}{Você vê um tribal.}
-{101}{}{Você vê um cativo tribal do Médico.}
-{102}{}{Um prisioneiro triste, pertencente ao médico.}
+{100}{}{VocÃª vÃª um tribal.}
+{101}{}{VocÃª vÃª um cativo tribal do MÃ©dico.}
+{102}{}{Um prisioneiro triste, pertencente ao mÃ©dico.}
 {103}{}{AJUDA!}
 {104}{}{AJUDE-NOS!}
 {105}{}{Por favor, livre-nos!!}
-{106}{}{Nós não agüentamos mais!!}
+{106}{}{NÃ³s nÃ£o agÃ¼entamos mais!!}
 {107}{}{Obrigado, amigo!}

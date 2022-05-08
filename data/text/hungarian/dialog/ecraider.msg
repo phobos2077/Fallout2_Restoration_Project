@@ -1,19 +1,19 @@
-{100}{}{Egy durva kinézet? alakot látsz.}
-{101}{}{Ez itt egy fosztogató.}
+{100}{}{Egy durva kinÃ©zet? alakot lÃ¡tsz.}
+{101}{}{Ez itt egy fosztogatÃ³.}
 {200}{}{You trespass into our lands. Now you die!}
-{201}{}{Hogy mered idetolni a képed hívatlanul?}
-{202}{}{Meghalsz, városlakó!}
-{203}{}{A halálod hozni fog egy kis pénzt nekem.}
-{204}{}{Menekülj, pondró!}
-{205}{}{Tudják a dolgukat, uraim!}
-{206}{}{Ne legyen szemtanú!}
+{201}{}{Hogy mered idetolni a kÃ©ped hÃ­vatlanul?}
+{202}{}{Meghalsz, vÃ¡roslakÃ³!}
+{203}{}{A halÃ¡lod hozni fog egy kis pÃ©nzt nekem.}
+{204}{}{MenekÃ¼lj, pondrÃ³!}
+{205}{}{TudjÃ¡k a dolgukat, uraim!}
+{206}{}{Ne legyen szemtanÃº!}
 {207}{}{Fedezzetek!}
 {208}{}{Nincs kegyelem!}
-{209}{}{Nem lehet túlél?!}
-{210}{}{Bishop azt üzeni, hogy itt nincs átjárás!}
-{211}{}{Na, vegyük fel szépen a fizetést!}
+{209}{}{Nem lehet tÃºlÃ©l?!}
+{210}{}{Bishop azt Ã¼zeni, hogy itt nincs Ã¡tjÃ¡rÃ¡s!}
+{211}{}{Na, vegyÃ¼k fel szÃ©pen a fizetÃ©st!}
 {300}{}{H?t?s Morton.}
 {301}{}{Hentes Morton.}
-{302}{}{Betonozó Morton.}
-{303}{}{Koporsós Morton.}
-{305}{}{Megölted a fivéremet! Most megdöglesz!}
+{302}{}{BetonozÃ³ Morton.}
+{303}{}{KoporsÃ³s Morton.}
+{305}{}{MegÃ¶lted a fivÃ©remet! Most megdÃ¶glesz!}

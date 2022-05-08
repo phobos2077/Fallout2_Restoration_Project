@@ -1,2 +1,2 @@
-{100}{}{O gecko zombou de você.}
+{100}{}{O gecko zombou de vocÃª.}
 {101}{}{O gecko zombou de}

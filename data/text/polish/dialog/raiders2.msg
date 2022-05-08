@@ -1,4 +1,4 @@
-{100}{}{Jesteœ w ciemnej jaskini w zboczu góry.}
-{101}{}{Jesteœ w ci¹gu mrocznych jaskiñ. W ciemnoœciach s³yszysz trzaski kleszczy skorpionów.}
-{102}{}{Jaskinie wygl¹daj¹ jakby s³u¿y³y za baraki dla NajeŸdŸców.}
-{103}{}{Uda³o ci siê znaleŸæ kryjówkê NajeŸdŸców.}
+{100}{}{JesteÅ› w ciemnej jaskini w zboczu gÃ³ry.}
+{101}{}{JesteÅ› w ciÄ…gu mrocznych jaskiÅ„. W ciemnoÅ›ciach sÅ‚yszysz trzaski kleszczy skorpionÃ³w.}
+{102}{}{Jaskinie wyglÄ…dajÄ… jakby sÅ‚uÅ¼yÅ‚y za baraki dla NajeÅºdÅºcÃ³w.}
+{103}{}{UdaÅ‚o ci siÄ™ znaleÅºÄ‡ kryjÃ³wkÄ™ NajeÅºdÅºcÃ³w.}

@@ -1,9 +1,9 @@
-{100}{}{Ez az autó nem úgy néz ki, mintha m?ködne. Bár, jobb állapotban van, mint a többi autó a környéken. Ezt még talán meg lehet javítani.}
+{100}{}{Ez az autÃ³ nem Ãºgy nÃ©z ki, mintha m?kÃ¶dne. BÃ¡r, jobb Ã¡llapotban van, mint a tÃ¶bbi autÃ³ a kÃ¶rnyÃ©ken. Ezt mÃ©g talÃ¡n meg lehet javÃ­tani.}
 {101}{}{Currently, this car doesn't appear to be functional. It needs a fuel cell controller.}
-{200}{}{Sikeresen beszerelted az üzemanyagelosztót a kocsiba.}
+{200}{}{Sikeresen beszerelted az Ã¼zemanyagelosztÃ³t a kocsiba.}
 {210}{}{You fail to repair the car with the fuel cell controller.}
 {220}{}{You successfully upgrade the car with the fuel cell regulator.}
 {230}{}{You fail to install the fuel cell regulator.}
 {250}{}{The car is out of fuel. Refuel the car to get it started again.}
-{300}{}{Nem sikerült megjavítanod az autót. Talán tényleg az üzemanyagelosztó hiányzik bel?le, amir?l Smitty beszélt.}
-{400}{}{Túl sok zajjal járna felnyitni a motorháztet?t, és a megjavítani a kocsit.}
+{300}{}{Nem sikerÃ¼lt megjavÃ­tanod az autÃ³t. TalÃ¡n tÃ©nyleg az Ã¼zemanyagelosztÃ³ hiÃ¡nyzik bel?le, amir?l Smitty beszÃ©lt.}
+{400}{}{TÃºl sok zajjal jÃ¡rna felnyitni a motorhÃ¡ztet?t, Ã©s a megjavÃ­tani a kocsit.}

@@ -1,50 +1,50 @@
 {100}{}{Widzisz technika.}
 {101}{}{Widzisz technika z Enklawy.}
-{102}{}{Widzisz kogoœ ubranego w faruch laboratoryjny, kto wygl¹da na pewnego siebie i znaj¹cego swoj¹ wartoœæ.}
-{103}{}{¯o³nierzu?}
-{104}{}{Ja tu niedawna. Musi pytaæ.}
-{105}{}{Ja tylko witaæ. Ja ju¿ iœæ.}
-{106}{}{Jestem tu od niedawna i próbujê zapoznaæ siê z baz¹. Mogê zadaæ ci kilka pytañ?}
-{107}{}{Chcê siê tylko przywitaæ. Na razie.}
-{108}{}{Pewnie. Mam teraz woln¹ chwilkê.}
-{109}{}{W czym mogê ci pomóc?}
+{102}{}{Widzisz kogoÅ› ubranego w faruch laboratoryjny, kto wyglÄ…da na pewnego siebie i znajÄ…cego swojÄ… wartoÅ›Ä‡.}
+{103}{}{Å»oÅ‚nierzu?}
+{104}{}{Ja tu niedawna. Musi pytaÄ‡.}
+{105}{}{Ja tylko witaÄ‡. Ja juÅ¼ iÅ›Ä‡.}
+{106}{}{Jestem tu od niedawna i prÃ³bujÄ™ zapoznaÄ‡ siÄ™ z bazÄ…. MogÄ™ zadaÄ‡ ci kilka pytaÅ„?}
+{107}{}{ChcÄ™ siÄ™ tylko przywitaÄ‡. Na razie.}
+{108}{}{Pewnie. Mam teraz wolnÄ… chwilkÄ™.}
+{109}{}{W czym mogÄ™ ci pomÃ³c?}
 {110}{}{To miejsce co?}
 {111}{}{Co ty robi?}
-{112}{}{Gdzie g³ówna baza Enklawa?}
-{113}{}{Ja szuka plany latacz. Gdzie znaleŸæ?}
-{117}{}{Ja ju¿ sobie iœæ.}
+{112}{}{Gdzie gÅ‚Ã³wna baza Enklawa?}
+{113}{}{Ja szuka plany latacz. Gdzie znaleÅºÄ‡?}
+{117}{}{Ja juÅ¼ sobie iÅ›Ä‡.}
 {118}{}{Co to za miejsce?}
-{119}{}{Na czym polega twoje zajêcie?}
-{120}{}{Gdzie mieœci siê g³ówna baza Enklawy?}
-{121}{}{Muszê spojrzeæ na plany latacza. Gdzie siê je przechowuje?}
-{125}{}{Niewa¿ne. Muszê ju¿ iœæ.}
-{126}{}{To jest centrum kontroli lotów. Nadzorujemy st¹d przemieszczanie siê wszystkich lataczy.}
-{127}{}{Ja rozumi. Jeszcze kilka pytaæ.}
-{128}{}{Rozumiem. Mam jeszcze kilka pytañ.}
-{129}{}{Jestem technikiem komputerowym pierwszej kategorii. Obs³ugujê interakcjê z g³ównym komputerem, który mieœci siê poni¿ej.}
+{119}{}{Na czym polega twoje zajÄ™cie?}
+{120}{}{Gdzie mieÅ›ci siÄ™ gÅ‚Ã³wna baza Enklawy?}
+{121}{}{MuszÄ™ spojrzeÄ‡ na plany latacza. Gdzie siÄ™ je przechowuje?}
+{125}{}{NiewaÅ¼ne. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{126}{}{To jest centrum kontroli lotÃ³w. Nadzorujemy stÄ…d przemieszczanie siÄ™ wszystkich lataczy.}
+{127}{}{Ja rozumi. Jeszcze kilka pytaÄ‡.}
+{128}{}{Rozumiem. Mam jeszcze kilka pytaÅ„.}
+{129}{}{Jestem technikiem komputerowym pierwszej kategorii. ObsÅ‚ugujÄ™ interakcjÄ™ z gÅ‚Ã³wnym komputerem, ktÃ³ry mieÅ›ci siÄ™ poniÅ¼ej.}
 {130}{}{Uch... jasne.}
-{131}{}{Œwietnie. Tak trzymaæ.}
-{132}{}{Czy nie stamt¹d przybywasz?}
-{133}{}{Uch... nie, ja byæ od pó³noc.}
-{134}{}{Prawdê mówi¹c to nie, przybywam z pó³nocy.}
-{135}{}{Och... nikt mi nigdy nie mówi³, ¿e mamy tam jak¹œ placówkê. W ka¿dym razie, g³ówna baza mieœci siê na morzu, daleko od brzegu, w pewnej odleg³oœci od San Francisco.}
-{136}{}{Jak tam pójœæ?}
-{137}{}{Ach tak... jak mo¿na siê tam dostaæ?}
-{138}{}{Oczywiœcie za pomoc¹ latacza. Nie ma innego sposobu, chyba ¿e statkiem. To za daleko, ¿eby p³yn¹æ wp³aw.}
-{139}{}{Dziêkujê.}
-{140}{}{Dziêkujê.}
-{141}{}{Plany latacza... nie rozumiem, po co ci taka wiedza. Sugerujê, ¿eby porozmawiaæ z obs³ug¹ naziemn¹. To za tymi drzwiami.}
-{142}{}{W porz¹dku.}
-{143}{}{Kapujê.}
-{153}{}{Odni³o ci, ¿eby ³aziæ tu bez munduru? IdŸ siê ubraæ!}
-{154}{}{Jak ciê sier¿ant z³apie bez munduru, to ci urwie g³owê.}
+{131}{}{Åšwietnie. Tak trzymaÄ‡.}
+{132}{}{Czy nie stamtÄ…d przybywasz?}
+{133}{}{Uch... nie, ja byÄ‡ od pÃ³Å‚noc.}
+{134}{}{PrawdÄ™ mÃ³wiÄ…c to nie, przybywam z pÃ³Å‚nocy.}
+{135}{}{Och... nikt mi nigdy nie mÃ³wiÅ‚, Å¼e mamy tam jakÄ…Å› placÃ³wkÄ™. W kaÅ¼dym razie, gÅ‚Ã³wna baza mieÅ›ci siÄ™ na morzu, daleko od brzegu, w pewnej odlegÅ‚oÅ›ci od San Francisco.}
+{136}{}{Jak tam pÃ³jÅ›Ä‡?}
+{137}{}{Ach tak... jak moÅ¼na siÄ™ tam dostaÄ‡?}
+{138}{}{OczywiÅ›cie za pomocÄ… latacza. Nie ma innego sposobu, chyba Å¼e statkiem. To za daleko, Å¼eby pÅ‚ynÄ…Ä‡ wpÅ‚aw.}
+{139}{}{DziÄ™kujÄ™.}
+{140}{}{DziÄ™kujÄ™.}
+{141}{}{Plany latacza... nie rozumiem, po co ci taka wiedza. SugerujÄ™, Å¼eby porozmawiaÄ‡ z obsÅ‚ugÄ… naziemnÄ…. To za tymi drzwiami.}
+{142}{}{W porzÄ…dku.}
+{143}{}{KapujÄ™.}
+{153}{}{OdniÅ‚o ci, Å¼eby Å‚aziÄ‡ tu bez munduru? IdÅº siÄ™ ubraÄ‡!}
+{154}{}{Jak ciÄ™ sierÅ¼ant zÅ‚apie bez munduru, to ci urwie gÅ‚owÄ™.}
 {155}{}{Czemu nie masz munduru? }
-{156}{}{Kurwa! Zostaliœmy zaatakowani! Alarm!}
-{157}{}{Stra¿! Intruzi!}
-{158}{}{Wezwaæ stra¿e! Intruzi w centrum komunikacyjnym!}
+{156}{}{Kurwa! ZostaliÅ›my zaatakowani! Alarm!}
+{157}{}{StraÅ¼! Intruzi!}
+{158}{}{WezwaÄ‡ straÅ¼e! Intruzi w centrum komunikacyjnym!}
 {159}{}{Co jest? Zaatakowano nas?}
-{160}{}{Po co ten alarm? Co siê dzieje?}
-{161}{}{Co siê do jasnej cholery dzieje?}
+{160}{}{Po co ten alarm? Co siÄ™ dzieje?}
+{161}{}{Co siÄ™ do jasnej cholery dzieje?}
 {162}{}{Jestem tylko technikiem! Nie zabijaj mnie!}
 {163}{}{Nie jestem tu dla walki, tylko na szkoleniu technicznym!}
-{164}{}{To jest fartuch laboratoryjny, a nie pancerz! Zmiatam st¹d!}
+{164}{}{To jest fartuch laboratoryjny, a nie pancerz! Zmiatam stÄ…d!}

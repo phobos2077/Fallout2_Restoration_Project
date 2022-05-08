@@ -23,17 +23,17 @@
 {122}{}{Is that so? Well, I know EVERY Citizen in Vault City, and I don't recognize you. Where's your papers?}
 {123}{}{You want them? Come get them.}
 {124}{}{I don't have them on me.}
-{125}{}{Aqui está.}
+{125}{}{Aqui estÃ¡.}
 {126}{}{Then stop wasting my time, "Citizen." Come on, let's move it.}
 {127}{}{Your business is over for the day. Come on, let's move it.}
 {128}{}{I'm not going anywhere. You try and move me, you'll regret it.}
 {129}{}{Tudo bem, eu vou.}
 {130}{}{Captain. Can I help you... sir?}
-{131}{}{Posso ajudá-lo, Cidadão?}
-{132}{}{O que você quer?}
+{131}{}{Posso ajudÃ¡-lo, CidadÃ£o?}
+{132}{}{O que vocÃª quer?}
 {133}{}{Yah!}
 {134}{}{Desliga}
-{135}{}{Quem é você?}
+{135}{}{Quem Ã© vocÃª?}
 {136}{}{Nothing, sorry to disturb you.}
 {137}{}{Come with me, boy. NOW.}
 {138}{}{Come with me, lady. NOW.}
@@ -44,7 +44,7 @@
 {143}{}{Sergeant Stark... sir. Did you need something?}
 {144}{}{I am Citizen SERGEANT Stark, Citizen. Was there something I could help you with?}
 {145}{}{I am Citizen SERGEANT Stark, Outsider. What do you want?}
-{146}{}{O que você faz aqui?}
+{146}{}{O que vocÃª faz aqui?}
 {147}{}{Can you tell me where the Vault is?}
 {148}{}{Nothing, sorry to disturb you.}
 {149}{}{I do YOUR job, sir.}
@@ -72,19 +72,19 @@
 {171}{}{Yes, sir. I conducted an authorized raid on Mr. Cassidy's establishment.}
 {172}{}{Maybe your friend Cassidy there didn't tell you that he had illegal substances on the premises, and his license for alcohol distribution had expired. You forget to tell your friend here that, Cassidy?}
 {173}{}{Cassidy says he was all paid up and you raided his place anyway.}
-{174}{}{Esqueça. Eu tinha outras perguntas...}
+{174}{}{EsqueÃ§a. Eu tinha outras perguntas...}
 {175}{}{Never mind then. Goodbye.}
 {176}{}{No, sir. Mr. Cassidy had not paid his licensing fee for alcohol for the month, yet was still selling it on the premises. His list of payments are logged in the computer.}
 {177}{}{Cassidy was guilty of possession without a license. He doesn't like it, he can leave Vault City. That simple.}
 {178}{}{I believe you, Sergeant. Well done. Now listen to me: I want you to pardon Mr. Cassidy, wipe his record clean, and pay him restitution for the damages you caused his establishment.}
 {179}{}{You know, I think my fist and your face are about to have a conversation.}
-{180}{}{Esqueça. Eu tinha outras perguntas...}
-{181}{}{Não faz mal. Tchau.}
+{180}{}{EsqueÃ§a. Eu tinha outras perguntas...}
+{181}{}{NÃ£o faz mal. Tchau.}
 {182}{}{Thanks for looking out for me, friend. Stark's one stubborn sonuvabitch.}
 {183}{}{Just try it. I'll look forward to putting trash like you and Cassidy in their place.}
 {184}{}{Fine. I was looking forward to kicking your ass anyway.}
-{185}{}{Esqueça. Eu tinha outras perguntas...}
-{186}{}{Não faz mal. Tchau.}
+{185}{}{EsqueÃ§a. Eu tinha outras perguntas...}
+{186}{}{NÃ£o faz mal. Tchau.}
 {187}{}{Yes... SIR.}
 {188}{}{NOW, Sergeant.}
 {189}{}{Come on, Sergeant. Chop-chop.}
@@ -104,7 +104,7 @@
 {203}{}{That so? I don't recognize you, and I know every Citizen in Vault City.}
 {204}{}{Here's my papers. I think you'll find everything in order.}
 {205}{}{Uh, never mind. I had some other questions...}
-{206}{}{É melhor eu ir.}
+{206}{}{Ã‰ melhor eu ir.}
 {207}{}{Well, well, if it isn't those papers that were stolen last month. Looks like I finally found the culprit. Come with me, Outsider.}
 {208}{}{Touch me, and you'll regret it.}
 {209}{}{I'm going, I'm going. Stop pushing.}
@@ -166,7 +166,7 @@
 {265}{}{No, I'd like to try and find their base, maybe stop the attacks if I can.}
 {266}{}{You got me. I'm obviously in league with the raiders. Arrest me.}
 {267}{}{I'm leaving. You want to stop me? Go ahead.}
-{268}{}{Tudo bem, então...}
+{268}{}{Tudo bem, entÃ£o...}
 {269}{}{Whoa! Whoa! I didn't --}
 {270}{}{Bring it on, dead man.}
 {271}{}{I don't think we'll be dropping the subject quite that easily. Now... what do you know about the raiders?}
@@ -174,7 +174,7 @@
 {273}{}{Eu estava apenas curioso.}
 {274}{}{Look, I'm walking out of here right now. If you try and stop me, there's going to be trouble.}
 {275}{}{I don't know. These raiders don't make much sense. IF they are raiders.}
-{276}{}{O que você quer dizer?}
+{276}{}{O que vocÃª quer dizer?}
 {277}{}{Eu tenho mais algumas perguntas...}
 {278}{}{Tenho que ir.}
 {279}{}{They've got heavy firepower. Expensive firepower. They know military tactics. They stay in formation. They never cross their lines of fire. And they always stop short of breaking through our defenses.}
@@ -183,11 +183,11 @@
 {282}{}{Tenho que ir.}
 {283}{}{I've seen them do it. The last attack, they disabled a laser turret on the western perimeter. They had a clear shot into the city. Then I saw one of their "captains" ORDER them to fall back. Makes no sense.}
 {284}{}{Any idea where they're coming from?}
-{285}{}{Hmmm. Eu tenho outras perguntas…}
+{285}{}{Hmmm. Eu tenho outras perguntasâ€¦}
 {286}{}{Interesting. I have to be going.}
 {287}{}{No. That's the most frustrating part. They keep retreating south. I can't spare any men to go and scout the area. I think the raiders have some native guide that leads them through the southern canyons.}
 {288}{}{What's the deal with the south?}
-{289}{}{Hmmm. Eu tenho outras perguntas…}
+{289}{}{Hmmm. Eu tenho outras perguntasâ€¦}
 {290}{}{Interesting. I have to be going.}
 {291}{}{Plenty of places to hide if you don't know where to look. The place is riddled with caves.}
 {292}{}{I could probably find them.}
@@ -195,16 +195,16 @@
 {294}{}{Hmmm. I'll keep that in mind. Goodbye.}
 {295}{}{Go ahead and try. I'm betting the only way they'd let us find them is by giving us a map.}
 {296}{}{Eu tenho mais algumas perguntas...}
-{297}{}{Se for necessário... obrigado pela informação.}
+{297}{}{Se for necessÃ¡rio... obrigado pela informaÃ§Ã£o.}
 {298}{}{Yeah, we have a small group of patrols. Can barely spare the men to protect Vault City, much less do all the reconnaissance that needs to be done.}
 {299}{}{Recon-o-what?}
 {300}{}{I do a lot of traveling. Anything I can help with?}
 {301}{}{Lamento ouvir isso. Eu tinha outras perguntas...}
 {302}{}{Never mind then. Goodbye.}
 {303}{}{Scouting.}
-{304}{}{O que você quer dizer?}
+{304}{}{O que vocÃª quer dizer?}
 {305}{}{I could do some recon for you if you're short-handed.}
-{306}{}{Esqueça. Eu tinha outras perguntas...}
+{306}{}{EsqueÃ§a. Eu tinha outras perguntas...}
 {307}{}{Never mind then. Goodbye.}
 {308}{}{No, you'd need a Pip-Boy to get the job done right, and I can't spare one right now.}
 {309}{}{I already got a Pip-Boy. It's old... and cranky... and seems to have wires and buttons yanked out everywhere... but it works.}
@@ -213,7 +213,7 @@
 {312}{}{Yeah? Has it got a Northern California world map installed?}
 {313}{}{Yes. Well, at least from what I can see through the fog of war on the damn thing.}
 {314}{}{I got a job for you, then. I need someone to scout the terrain around Gecko... that ghoul encampment to the northeast. Hit the eight sectors on the world map around the town, then report back.}
-{315}{}{Por quê?}
+{315}{}{Por quÃª?}
 {316}{}{No problem. I've already scouted out the area.}
 {317}{}{All right. I'll come back when I've scouted the area.}
 {318}{}{On second thought, count me out. Goodbye.}
@@ -229,14 +229,14 @@
 {328}{}{Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
 {329}{}{Tudo bem...}
 {330}{}{This intelligence looks good. Well done. Here's your payment... three hundred dollars.}
-{331}{}{Tudo bem então... você tem mais trabalho para mim?}
+{331}{}{Tudo bem entÃ£o... vocÃª tem mais trabalho para mim?}
 {332}{}{Great. I had some other questions...}
 {333}{}{Thanks. Pleasure doing business with you.}
 {334}{}{Yeah, actually... I need someone to travel to NCR. Lately, I've been hearing reports that
  the Republic might be building up military strength. True or not, I need someone to plot a route to NCR and report back.}
 {335}{}{No problem. Already done.}
 {336}{}{Just travel to NCR, then come back?}
-{337}{}{Esqueça. Eu tinha outras perguntas...}
+{337}{}{EsqueÃ§a. Eu tinha outras perguntas...}
 {338}{}{No thanks. Goodbye.}
 {339}{}{That's all I need. I'm more interested in the route than the Republic itself, but I'll still need you to enter the city once you get there.}
 {340}{}{No problem. Already done.}
@@ -248,7 +248,7 @@
 {346}{}{All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
 {347}{}{Tudo certo.}
 {348}{}{This intelligence looks good. Well done. Here's payment for your services, five hundred dollars... plus, you might find this useful.}
-{349}{}{O que é?}
+{349}{}{O que Ã©?}
 {350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip-Boys, but it looks like it's compatible with your model.}
 {351}{}{How does it work?}
 {352}{}{Keep it in your hand and it IDs hostiles in your immediate area when you use it. Or you can call up the Pip-Boy automap as normal, then just click the "scanner" button and they're lit up like a neon sign.}
@@ -259,13 +259,13 @@
 {357}{}{You're back again? You lost, or do you need something?}
 {358}{}{Like what... sir?}
 {359}{}{Yes, Citizen. What did you want to know?}
-{360}{}{Como o quê?}
+{360}{}{Como o quÃª?}
 {361}{}{Hep-Hep Schlep-Bep}
 {362}{}{Desliga}
 {363}{}{You got some kind of problem, Sergeant?}
 {364}{}{You the one who busted up Cassidy's bar?}
 {365}{}{Have you heard of a Servant named Joshua?}
-{366}{}{O que você faz aqui?}
+{366}{}{O que vocÃª faz aqui?}
 {367}{}{Can you tell me where the Vault is?}
 {368}{}{I surveyed the area around Gecko for you.}
 {369}{}{Got any more recon work for me?}
@@ -305,7 +305,7 @@
 {403}{}{You killed all those big ugly rats? Really?}
 {404}{}{I was told you plan on turning the people of that village into servants, and that the mole rats were preventing you from doing it -- that's the real reason you wanted them exterminated.}
 {405}{}{Sim.}
-{406}{}{Ainda não.}
+{406}{}{Ainda nÃ£o.}
 {407}{}{Oh, you heard that, did you? Well, you heard right -- it's for their own good. Here, they'd be well fed and taken care of. I'm sure they'd come to realize how much better it is to serve in the great Vault City than dwell in their little village with rat shit up to their knees.}
 {408}{}{They're happy right where they are.}
 {409}{}{Doesn't matter. Will you complete your task or not?}

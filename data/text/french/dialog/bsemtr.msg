@@ -1,5 +1,5 @@
-{100}{}{Tu aperçois un étrange dispositif à côté du champ de force.}
-{101}{}{Tu vois un émetteur de champ de force.}
-{102}{}{C'est le mur le plus étrange qu'il t'a été donné de voir.}
-{103}{}{Ceci est un émetteur de champ de force. Il alimente en énergie le champ de force.}
-{104}{}{L'émetteur produit un sifflement puis explose.}
+{100}{}{Tu aperÃ§ois un Ã©trange dispositif Ã  cÃ´tÃ© du champ de force.}
+{101}{}{Tu vois un Ã©metteur de champ de force.}
+{102}{}{C'est le mur le plus Ã©trange qu'il t'a Ã©tÃ© donnÃ© de voir.}
+{103}{}{Ceci est un Ã©metteur de champ de force. Il alimente en Ã©nergie le champ de force.}
+{104}{}{L'Ã©metteur produit un sifflement puis explose.}

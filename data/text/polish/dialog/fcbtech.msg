@@ -1,8 +1,8 @@
-{100}{}{Widzisz zaniepokojonego stra¿nika Shi.}
-{101}{}{Stra¿nik nerwowo spogl¹da w mrok.}
-{200}{}{To miejsce jest œwiête. Niewyobra¿alnie dziwne, ale œwiête.}
-{201}{}{Miejmy to ju¿ za sob¹.}
-{202}{}{Czujê, ¿e duchy moich przodków s¹ wœród nas.}
-{203}{}{Rób swoje ¿ebyœmy mogli jak najszybciej wróciæ na kontynent.}
-{204}{}{S³uchaj, co to by³o? Przysiêgam, coœ s³ysza³em.}
-{205}{}{Dlaczego do tego zawsze mnie wyznaczaj¹? }
+{100}{}{Widzisz zaniepokojonego straÅ¼nika Shi.}
+{101}{}{StraÅ¼nik nerwowo spoglÄ…da w mrok.}
+{200}{}{To miejsce jest Å›wiÄ™te. NiewyobraÅ¼alnie dziwne, ale Å›wiÄ™te.}
+{201}{}{Miejmy to juÅ¼ za sobÄ….}
+{202}{}{CzujÄ™, Å¼e duchy moich przodkÃ³w sÄ… wÅ›rÃ³d nas.}
+{203}{}{RÃ³b swoje Å¼ebyÅ›my mogli jak najszybciej wrÃ³ciÄ‡ na kontynent.}
+{204}{}{SÅ‚uchaj, co to byÅ‚o? PrzysiÄ™gam, coÅ› sÅ‚yszaÅ‚em.}
+{205}{}{Dlaczego do tego zawsze mnie wyznaczajÄ…? }

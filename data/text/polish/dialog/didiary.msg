@@ -1,5 +1,5 @@
-{100}{}{Widzisz stary pamiêtnik.}
-{101}{}{Wygl¹da na to, ¿e ten pamiêtnik nale¿a³ do m³odej dziewczyny. Napis na wewnêtrznej ok³adce mówi: "W³asnoœæ Anny"
- Wiêkszoœæ stron jest podarta lub wyblak³a, ale jedna jest ci¹gle czytelna. "Dzieñ 271: Dzisiaj moja mama da³a mi z³oty naszyjnik.
- Jest najpiêkniejsz¹ rzecz¹ jak¹ kiedykolwiek mia³am. Nigdy siê z nim nie rozstanê."}
-{102}{}{Stary pamiêtnik jest zbyt kruchy, ¿eby go ci¹gle wertowaæ.}
+{100}{}{Widzisz stary pamiÄ™tnik.}
+{101}{}{WyglÄ…da na to, Å¼e ten pamiÄ™tnik naleÅ¼aÅ‚ do mÅ‚odej dziewczyny. Napis na wewnÄ™trznej okÅ‚adce mÃ³wi: "WÅ‚asnoÅ›Ä‡ Anny"
+ WiÄ™kszoÅ›Ä‡ stron jest podarta lub wyblakÅ‚a, ale jedna jest ciÄ…gle czytelna. "DzieÅ„ 271: Dzisiaj moja mama daÅ‚a mi zÅ‚oty naszyjnik.
+ Jest najpiÄ™kniejszÄ… rzeczÄ… jakÄ… kiedykolwiek miaÅ‚am. Nigdy siÄ™ z nim nie rozstanÄ™."}
+{102}{}{Stary pamiÄ™tnik jest zbyt kruchy, Å¼eby go ciÄ…gle wertowaÄ‡.}

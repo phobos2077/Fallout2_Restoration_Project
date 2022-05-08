@@ -1,4 +1,4 @@
-{200}{}{Tudván, hogy ez a szoba Richard-é volt, gondosan átkutatod a könyvespolcát.}
-{201}{}{Hé, ez egy üres Jet-adagoló a könyvespolc egyik zugában!}
-{202}{}{Itt nincs semmi egyéb.}
+{200}{}{TudvÃ¡n, hogy ez a szoba Richard-Ã© volt, gondosan Ã¡tkutatod a kÃ¶nyvespolcÃ¡t.}
+{201}{}{HÃ©, ez egy Ã¼res Jet-adagolÃ³ a kÃ¶nyvespolc egyik zugÃ¡ban!}
+{202}{}{Itt nincs semmi egyÃ©b.}
 {250}{}{You found a... clue. Beneath the dresser. In the Wright mansion.}

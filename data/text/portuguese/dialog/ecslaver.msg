@@ -1,13 +1,13 @@
-{100}{}{Estes v„o buscar um bom preÁo no mercado.}
-{101}{}{Tente n„o danificar a mercadoria.}
-{102}{}{VocÍ far· um escravo espirituoso.}
-{103}{}{Isso n„o È bom.}
+{100}{}{Estes v√£o buscar um bom pre√ßo no mercado.}
+{101}{}{Tente n√£o danificar a mercadoria.}
+{102}{}{Voc√™ far√° um escravo espirituoso.}
+{103}{}{Isso n√£o √© bom.}
 {104}{}{Retiro!}
-{105}{}{Talvez eu vou vender mÛveis em vez disso.}
-{106}{}{Os companheiros escravistas n„o devem atacar uns aos outros.}
-{107}{}{A guilda ouvir· sobre isso!}
-{108}{}{O que vocÍ est· fazendo?}
+{105}{}{Talvez eu vou vender m√≥veis em vez disso.}
+{106}{}{Os companheiros escravistas n√£o devem atacar uns aos outros.}
+{107}{}{A guilda ouvir√° sobre isso!}
+{108}{}{O que voc√™ est√° fazendo?}
 {109}{}{Alguma sorte?}
 {110}{}{Encontrou qualquer bom escravos?}
-{111}{}{Estamos ‡ procura de novas aÁıes.}
-{112}{}{Este È o nosso territÛrio.}
+{111}{}{Estamos √† procura de novas a√ß√µes.}
+{112}{}{Este √© o nosso territ√≥rio.}

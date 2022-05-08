@@ -1,82 +1,82 @@
-{100}{}{Widzisz przystojnego, m³odego cz³owieka w okularach.}
+{100}{}{Widzisz przystojnego, mÅ‚odego czÅ‚owieka w okularach.}
 {101}{}{To Gunther, pomocnik Prezydent Tandi. A przynajmniej tak jest napisane na tabliczce na drzwiach.}
-{102}{}{Wygl¹da na lubi¹cego rz¹dziæ ludŸmi i zajêtego, typ urodzonego biurokraty. Takiego, którego wszyscy nie cierpi¹.}
-{103}{}{W czym mogê pomóc?}
+{102}{}{WyglÄ…da na lubiÄ…cego rzÄ…dziÄ‡ ludÅºmi i zajÄ™tego, typ urodzonego biurokraty. Takiego, ktÃ³rego wszyscy nie cierpiÄ….}
+{103}{}{W czym mogÄ™ pomÃ³c?}
 {104}{}{Znowu ty?}
 {105}{}{Yyyyyy - praca. Praca Tandi.}
-{106}{}{Kim jesteœ?}
-{107}{}{Jestem tu, aby zobaczyæ siê z Prezydent Tandi w sprawie pracy.}
-{108}{}{Przepraszam, z³y pokój.}
+{106}{}{Kim jesteÅ›?}
+{107}{}{Jestem tu, aby zobaczyÄ‡ siÄ™ z Prezydent Tandi w sprawie pracy.}
+{108}{}{Przepraszam, zÅ‚y pokÃ³j.}
 {109}{}{Potrzebujesz pracy?}
-{110}{}{Spróbujmy jeszcze raz. Ty pomóc Tandi? Praca zrobiæ dla Tandi?}
+{110}{}{SprÃ³bujmy jeszcze raz. Ty pomÃ³c Tandi? Praca zrobiÄ‡ dla Tandi?}
 {111}{}{Taktaktaktak!}
-{112}{}{Tandi praca. Moja chcieæ.}
-{113}{}{Co ty robiæ?}
-{114}{}{Yyyyy... moja zabijaæ, du¿a zabijaæ!}
-{115}{}{Yyyyy... moja m¹dra. Starsza mówiæ moja mieæ mózga dzidzi. Mieæ 2 mózga. Moja m¹dra.}
-{116}{}{Nie mo¿esz podj¹æ siê pracy dla pani prezydent!}
+{112}{}{Tandi praca. Moja chcieÄ‡.}
+{113}{}{Co ty robiÄ‡?}
+{114}{}{Yyyyy... moja zabijaÄ‡, duÅ¼a zabijaÄ‡!}
+{115}{}{Yyyyy... moja mÄ…dra. Starsza mÃ³wiÄ‡ moja mieÄ‡ mÃ³zga dzidzi. MieÄ‡ 2 mÃ³zga. Moja mÄ…dra.}
+{116}{}{Nie moÅ¼esz podjÄ…Ä‡ siÄ™ pracy dla pani prezydent!}
 {117}{}{Nie?}
 {118}{}{A. OK.}
-{119}{}{Tak. Nie jestem pewien, czy to jest to, czego ona szuka. No có¿, powiedzia³a, ¿e mam wpuszczaæ wszystkich. Ty iœæ. Rozmawiaæ z Tandi teraz.}
-{120}{}{NE! Twoja g³upi. Prezydent m¹dre, mówiæ s³owa dwa-sylaba! Ty nie prezydent.}
-{121}{}{A. Co ja robiæ?}
-{122}{}{Moja nie lubiæ twoja. Twoja krzyczeæ. Z³a ludzia.}
-{123}{}{Nazywam siê Gunther, jestem osobistym asystentem Prezydent Tandi. A teraz, czym mogê s³u¿yæ?}
-{124}{}{Poszukujê Krypty 13.}
+{119}{}{Tak. Nie jestem pewien, czy to jest to, czego ona szuka. No cÃ³Å¼, powiedziaÅ‚a, Å¼e mam wpuszczaÄ‡ wszystkich. Ty iÅ›Ä‡. RozmawiaÄ‡ z Tandi teraz.}
+{120}{}{NE! Twoja gÅ‚upi. Prezydent mÄ…dre, mÃ³wiÄ‡ sÅ‚owa dwa-sylaba! Ty nie prezydent.}
+{121}{}{A. Co ja robiÄ‡?}
+{122}{}{Moja nie lubiÄ‡ twoja. Twoja krzyczeÄ‡. ZÅ‚a ludzia.}
+{123}{}{Nazywam siÄ™ Gunther, jestem osobistym asystentem Prezydent Tandi. A teraz, czym mogÄ™ sÅ‚uÅ¼yÄ‡?}
+{124}{}{PoszukujÄ™ Krypty 13.}
 {125}{}{Szukam GECKa.}
-{126}{}{Jak rozumiem pani prezydent ma pewn¹ pracê, któr¹ trzeba zrobiæ.}
-{127}{}{Pani Prezydent ju¿ nie udziela wywiadów dotycz¹cych Krypty 13. Przykro mi. Jest zbyt zajêta, aby spotykaæ siê z ka¿dym poszukiwaczem, który siê tu zjawi.}
+{126}{}{Jak rozumiem pani prezydent ma pewnÄ… pracÄ™, ktÃ³rÄ… trzeba zrobiÄ‡.}
+{127}{}{Pani Prezydent juÅ¼ nie udziela wywiadÃ³w dotyczÄ…cych Krypty 13. Przykro mi. Jest zbyt zajÄ™ta, aby spotykaÄ‡ siÄ™ z kaÅ¼dym poszukiwaczem, ktÃ³ry siÄ™ tu zjawi.}
 {128}{}{Co? Nie rozumiem.}
-{129}{}{A co z GECKiem? Mo¿e ona wie coœ na ten temat?}
-{130}{}{Mówi³o siê coœ o pracy.}
-{131}{}{Jesteœ kompletnie bezu¿yteczny. Idê st¹d.}
-{132}{}{Wiêc sugerujê przeczytaæ tablicê na pomniku na zewn¹trz. A teraz dobrego dnia ¿yczê.}
-{133}{}{Nie mam pojêcia, o czym ty mówisz. Czy masz jakieœ prawdziwe pytania?}
-{134}{}{Poszukujê Krypty 13.}
-{135}{}{Jak rozumiem pani prezydent ma pewn¹ pracê, któr¹ trzeba zrobiæ.}
-{136}{}{Niewa¿ne.}
-{137}{}{A tak. Có¿, poinstruowa³a mnie, aby wpuœciæ ka¿dego, kto o to pyta. Ju¿ ciê zapowiedzia³em. To te drzwi po mojej prawej.}
-{138}{}{Pani Prezydent ju¿ z tob¹ skoñczy³a? I jak posz³y sprawy?}
+{129}{}{A co z GECKiem? MoÅ¼e ona wie coÅ› na ten temat?}
+{130}{}{MÃ³wiÅ‚o siÄ™ coÅ› o pracy.}
+{131}{}{JesteÅ› kompletnie bezuÅ¼yteczny. IdÄ™ stÄ…d.}
+{132}{}{WiÄ™c sugerujÄ™ przeczytaÄ‡ tablicÄ™ na pomniku na zewnÄ…trz. A teraz dobrego dnia Å¼yczÄ™.}
+{133}{}{Nie mam pojÄ™cia, o czym ty mÃ³wisz. Czy masz jakieÅ› prawdziwe pytania?}
+{134}{}{PoszukujÄ™ Krypty 13.}
+{135}{}{Jak rozumiem pani prezydent ma pewnÄ… pracÄ™, ktÃ³rÄ… trzeba zrobiÄ‡.}
+{136}{}{NiewaÅ¼ne.}
+{137}{}{A tak. CÃ³Å¼, poinstruowaÅ‚a mnie, aby wpuÅ›ciÄ‡ kaÅ¼dego, kto o to pyta. JuÅ¼ ciÄ™ zapowiedziaÅ‚em. To te drzwi po mojej prawej.}
+{138}{}{Pani Prezydent juÅ¼ z tobÄ… skoÅ„czyÅ‚a? I jak poszÅ‚y sprawy?}
 {139}{}{Dobre. Moja pa-pa.}
-{140}{}{Dobrze. A teraz muszê ju¿ iœæ.}
-{141}{}{Jesteœ tu, aby zdaæ raport z wyników w Krypty 15?}
+{140}{}{Dobrze. A teraz muszÄ™ juÅ¼ iÅ›Ä‡.}
+{141}{}{JesteÅ› tu, aby zdaÄ‡ raport z wynikÃ³w w Krypty 15?}
 {142}{}{Tak.}
 {143}{}{Nie.}
-{144}{}{No to przykro mi, ale Pani Prezydent jest bardzo zajêta. Czemu nie wrócisz, gdy robota bêdzie ju¿ wykonana?}
-{145}{}{W porz¹dku.}
-{146}{}{Wspaniale! Zaraz ciê zapowiem.}
-{147}{}{Ty gnido! Stra¿e! Zabójca! Morderca!}
+{144}{}{No to przykro mi, ale Pani Prezydent jest bardzo zajÄ™ta. Czemu nie wrÃ³cisz, gdy robota bÄ™dzie juÅ¼ wykonana?}
+{145}{}{W porzÄ…dku.}
+{146}{}{Wspaniale! Zaraz ciÄ™ zapowiem.}
+{147}{}{Ty gnido! StraÅ¼e! ZabÃ³jca! Morderca!}
 {148}{}{Tak szybko z powrotem! I co teraz?}
 {149}{}{Na-groda.}
-{150}{}{Pani prezydent powiedzia³a, aby zg³osiæ siê do ciebie po nagrodê.}
+{150}{}{Pani prezydent powiedziaÅ‚a, aby zgÅ‚osiÄ‡ siÄ™ do ciebie po nagrodÄ™.}
 {151}{}{Ka-sa.}
-{152}{}{Jestem tu, aby odebraæ moj¹ zap³atê.}
-{153}{}{Twoja pani prezydent i ty powinniœcie wiedzieæ, ¿e macie u siebie szpiega - kogoœ o imieniu Feargus.}
+{152}{}{Jestem tu, aby odebraÄ‡ mojÄ… zapÅ‚atÄ™.}
+{153}{}{Twoja pani prezydent i ty powinniÅ›cie wiedzieÄ‡, Å¼e macie u siebie szpiega - kogoÅ› o imieniu Feargus.}
 {154}{}{Nic nic.}
-{155}{}{Oczywiœcie, przed chwil¹ poinformowa³a mnie o tym przez interkom. Nagroda w wysokoœci $6000 i podziêkowanie od spo³ecznoœci RNK. Tak powiedzia³a. A teraz mam pracê do wykonania. Do widzenia.}
-{156}{}{Zobaczmy. Kontrakt mówi o $500. Oto one.}
-{157}{}{Tak naprawdê, to przed chwil¹ powiedzia³a mi przez interkom, aby zmieniæ ci wysokoœæ zap³aty - wygl¹da na to, ¿e nale¿y ci siê premia. Oto $900 i podziêkowania od RNK. A teraz mam pracê do wykonania, wiêc do widzenia.}
-{158}{}{Twoja pani prezydent i ty powinniœcie wiedzieæ, ¿e macie u siebie szpiega - kogoœ o imieniu Feargus.}
-{159}{}{¯egnaj.}
-{160}{}{Feargus? Nie wierzê!}
+{155}{}{OczywiÅ›cie, przed chwilÄ… poinformowaÅ‚a mnie o tym przez interkom. Nagroda w wysokoÅ›ci $6000 i podziÄ™kowanie od spoÅ‚ecznoÅ›ci RNK. Tak powiedziaÅ‚a. A teraz mam pracÄ™ do wykonania. Do widzenia.}
+{156}{}{Zobaczmy. Kontrakt mÃ³wi o $500. Oto one.}
+{157}{}{Tak naprawdÄ™, to przed chwilÄ… powiedziaÅ‚a mi przez interkom, aby zmieniÄ‡ ci wysokoÅ›Ä‡ zapÅ‚aty - wyglÄ…da na to, Å¼e naleÅ¼y ci siÄ™ premia. Oto $900 i podziÄ™kowania od RNK. A teraz mam pracÄ™ do wykonania, wiÄ™c do widzenia.}
+{158}{}{Twoja pani prezydent i ty powinniÅ›cie wiedzieÄ‡, Å¼e macie u siebie szpiega - kogoÅ› o imieniu Feargus.}
+{159}{}{Å»egnaj.}
+{160}{}{Feargus? Nie wierzÄ™!}
 {161}{}{Zobacz ten dysk.}
-{162}{}{Jak chcesz. Idê st¹d.}
-{163}{}{Cholera. Wygl¹da nieciekawie. Có¿, zajmiemy siê tym. Oto $4000 za informacjê.}
-{164}{}{Nie biorê zakrwawionych pieniêdzy. Idê st¹d.}
-{165}{}{Dziêki. Mi³ego dnia.}
-{166}{}{Ach, to ty. S³uchaj, to nie jest najlepszy czas. Tak naprawdê, to s¹dzê, ¿e Pani Prezydent raczej nie chcia³aby ciê ju¿ wiêcej w nic mieszaæ. Dziêkujê ci i mi³ego dnia.}
-{167}{}{Wyjaœnijmy coœ sobie. Pani Prezydent nie zobaczy siê ju¿ z tob¹ - teraz, ani kiedy indziej. Zap³acono ci. A teraz odejdŸ.}
-{171}{}{Ja iœæ.}
-{172}{}{Zupe³nie nic.}
-{173}{}{Ty suko! Stra¿e! Zabójca! Morderca!}
-{174}{}{Krypta 15 zosta³a przeze mnie przeszukana. Muszê o tym porozmawiaæ z twoj¹ szefow¹.}
-{175}{}{Moja musieæ mówiæ Krypta 15.}
-{176}{}{Powinieneœ wiedzieæ, ¿e macie u siebie szpiega - kogoœ o imieniu na literê F.}
-{177}{}{Ja znaleŸæ te¿ szpieg. Ferrrgus.}
-{178}{}{Ja nie k³amaæ. Patrzeæ. (Wrêczasz mu dysk.)}
-{179}{}{Dziêkowaæ!}
-{500}{}{Nie bez powodu trzymamy zamkniête drzwi.}
-{501}{}{Muszê ciê prosiæ o opuszczenie tego miejsca.}
-{502}{}{To twoje ostatnie ostrze¿enie. OdejdŸ, zanim ka¿ê ciê usun¹æ.}
-{503}{}{Ochrona - zajmijcie siê tym szkodnikiem.}
-{510}{}{Dobra, zaczekach chwilkê. Mam do pogadania z twoim szefem na temat Krypty 15.}
+{162}{}{Jak chcesz. IdÄ™ stÄ…d.}
+{163}{}{Cholera. WyglÄ…da nieciekawie. CÃ³Å¼, zajmiemy siÄ™ tym. Oto $4000 za informacjÄ™.}
+{164}{}{Nie biorÄ™ zakrwawionych pieniÄ™dzy. IdÄ™ stÄ…d.}
+{165}{}{DziÄ™ki. MiÅ‚ego dnia.}
+{166}{}{Ach, to ty. SÅ‚uchaj, to nie jest najlepszy czas. Tak naprawdÄ™, to sÄ…dzÄ™, Å¼e Pani Prezydent raczej nie chciaÅ‚aby ciÄ™ juÅ¼ wiÄ™cej w nic mieszaÄ‡. DziÄ™kujÄ™ ci i miÅ‚ego dnia.}
+{167}{}{WyjaÅ›nijmy coÅ› sobie. Pani Prezydent nie zobaczy siÄ™ juÅ¼ z tobÄ… - teraz, ani kiedy indziej. ZapÅ‚acono ci. A teraz odejdÅº.}
+{171}{}{Ja iÅ›Ä‡.}
+{172}{}{ZupeÅ‚nie nic.}
+{173}{}{Ty suko! StraÅ¼e! ZabÃ³jca! Morderca!}
+{174}{}{Krypta 15 zostaÅ‚a przeze mnie przeszukana. MuszÄ™ o tym porozmawiaÄ‡ z twojÄ… szefowÄ….}
+{175}{}{Moja musieÄ‡ mÃ³wiÄ‡ Krypta 15.}
+{176}{}{PowinieneÅ› wiedzieÄ‡, Å¼e macie u siebie szpiega - kogoÅ› o imieniu na literÄ™ F.}
+{177}{}{Ja znaleÅºÄ‡ teÅ¼ szpieg. Ferrrgus.}
+{178}{}{Ja nie kÅ‚amaÄ‡. PatrzeÄ‡. (WrÄ™czasz mu dysk.)}
+{179}{}{DziÄ™kowaÄ‡!}
+{500}{}{Nie bez powodu trzymamy zamkniÄ™te drzwi.}
+{501}{}{MuszÄ™ ciÄ™ prosiÄ‡ o opuszczenie tego miejsca.}
+{502}{}{To twoje ostatnie ostrzeÅ¼enie. OdejdÅº, zanim kaÅ¼Ä™ ciÄ™ usunÄ…Ä‡.}
+{503}{}{Ochrona - zajmijcie siÄ™ tym szkodnikiem.}
+{510}{}{Dobra, zaczekach chwilkÄ™. Mam do pogadania z twoim szefem na temat Krypty 15.}

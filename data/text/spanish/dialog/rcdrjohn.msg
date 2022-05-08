@@ -1,306 +1,306 @@
 {100}{}{Ves a un hombre delgado y aparentemente nervioso.}
-{101}{}{Ves a Indoloro Doc Johnson, el médico residente de Redding.}
-{102}{}{Ves a un tipo cadavérico y nervioso de ojos saltones.}
-{103}{}{Tienes la cabeza más grande de lo que pensaba.}
+{101}{}{Ves a Indoloro Doc Johnson, el mÃ©dico residente de Redding.}
+{102}{}{Ves a un tipo cadavÃ©rico y nervioso de ojos saltones.}
+{103}{}{Tienes la cabeza mÃ¡s grande de lo que pensaba.}
 {104}{}{Tu desarrollada frente confirma mis sospechas.}
 {105}{}{Tienes una cresta sagital muy bien desarrollada.}
-{106}{}{Me pregunto si fue una larga exposición a la radiación lo que redujo tu capacidad craneal.}
-{107}{}{Aquí no hay comida. ¡Vete!}
-{108}{}{¡Desaparece, lárgate ya!}
+{106}{}{Me pregunto si fue una larga exposiciÃ³n a la radiaciÃ³n lo que redujo tu capacidad craneal.}
+{107}{}{AquÃ­ no hay comida. Â¡Vete!}
+{108}{}{Â¡Desaparece, lÃ¡rgate ya!}
 {109}{}{Vuelve al Yermo, salvaje.}
-{110}{}{Si los tribales fueran tan pasivos como un brahmin, podrían ser igual de útiles.}
+{110}{}{Si los tribales fueran tan pasivos como un brahmin, podrÃ­an ser igual de Ãºtiles.}
 {111}{}{Parece que has venido a ver a la persona adecuada. Soy Doc Johnson y puedo curarte.}
-{112}{}{Hola. ¿Has traído a tu amigo para que lo remiende? Soy Indoloro Doc Johnson, y me
- encargaré de él.}
+{112}{}{Hola. Â¿Has traÃ­do a tu amigo para que lo remiende? Soy Indoloro Doc Johnson, y me
+ encargarÃ© de Ã©l.}
 {113}{}{Parece que a tus colegas los eligieron por lo del extremo corto del palito. Soy Doc Johnson, y puedo
  remendarlos si quieres.}
-{114}{}{Hola, soy Doc Johnson, y en mi opinión profesional tienes pinta de estar un poco pachucho. ¿Necesitas
- que te haga un apaño?}
-{115}{}{Hola, soy Doc Johnson. Voy a tener que mirar más de cerca a tu amigo si quieres que le haga un
- apaño. No tiene buena pinta.}
-{116}{}{Lo que sea que hayáis pillado, seguro que puedo arreglarlo. Soy Doc Johnson.}
-{117}{}{Te han hecho pedazos, ¿eh? Bien, deja que Doc Johnson le eche un vistazo a eso. Calma, soy un
+{114}{}{Hola, soy Doc Johnson, y en mi opiniÃ³n profesional tienes pinta de estar un poco pachucho. Â¿Necesitas
+ que te haga un apaÃ±o?}
+{115}{}{Hola, soy Doc Johnson. Voy a tener que mirar mÃ¡s de cerca a tu amigo si quieres que le haga un
+ apaÃ±o. No tiene buena pinta.}
+{116}{}{Lo que sea que hayÃ¡is pillado, seguro que puedo arreglarlo. Soy Doc Johnson.}
+{117}{}{Te han hecho pedazos, Â¿eh? Bien, deja que Doc Johnson le eche un vistazo a eso. Calma, soy un
  profesional.}
-{118}{}{¿En qué habéis estado metidos vosotros? Dejad que el viejo Doc Johnson os eche un vistazo.}
-{119}{}{Gracias, Doc. ¿Cuánto va a costar esto?}
-{120}{}{Sólo quería comprar algunos suministros.}
+{118}{}{Â¿En quÃ© habÃ©is estado metidos vosotros? Dejad que el viejo Doc Johnson os eche un vistazo.}
+{119}{}{Gracias, Doc. Â¿CuÃ¡nto va a costar esto?}
+{120}{}{SÃ³lo querÃ­a comprar algunos suministros.}
 {121}{}{Ahora mismo no necesito que me curen tanto como algunas respuestas a unas preguntas.}
-{122}{}{Mucho gusto, pero ahora mismo no necesito ninguna cura. Gracias de todas formas, Doc. Adiós.}
-{123}{}{Te va a costar 50 dólares parchearte y dejarte como nuevo.}
-{124}{}{Te costará 50 dólares remendar a tu amigo. Y dejarlo como nuevo, te lo garantizo.}
-{125}{}{Aquí está tu dinero, Doc.}
+{122}{}{Mucho gusto, pero ahora mismo no necesito ninguna cura. Gracias de todas formas, Doc. AdiÃ³s.}
+{123}{}{Te va a costar 50 dÃ³lares parchearte y dejarte como nuevo.}
+{124}{}{Te costarÃ¡ 50 dÃ³lares remendar a tu amigo. Y dejarlo como nuevo, te lo garantizo.}
+{125}{}{AquÃ­ estÃ¡ tu dinero, Doc.}
 {126}{}{Supongo que ahora mismo no me lo puedo permitir. Lo siento, Doc; tal vez en otro momento.}
-{127}{}{50, ¿eh? Tal vez tenga que hacerlo más tarde. Adiós, Doc.}
-{128}{}{Te diré algo: te haré un descuento de grupo ya que todos estáis hechos un asco. 100 dólares por remendaros
+{127}{}{50, Â¿eh? Tal vez tenga que hacerlo mÃ¡s tarde. AdiÃ³s, Doc.}
+{128}{}{Te dirÃ© algo: te harÃ© un descuento de grupo ya que todos estÃ¡is hechos un asco. 100 dÃ³lares por remendaros
  a todos.}
-{129}{}{Aquí tienes tu dinero, Doc. Remiéndanos.}
+{129}{}{AquÃ­ tienes tu dinero, Doc. RemiÃ©ndanos.}
 {130}{}{Supongo que ahora mismo no me lo puedo permitir. Lo siento, Doc; tal vez en otro momento.}
-{131}{}{$100, ¿eh? Tal vez vamos a tener que hacer más adelante. Adiós, Doc.}
-{132}{}{Parece que no lo estás haciendo muy bien por ahí fuera. Puedo curar tus dolencias por 100 dólares. ¿Quieres que lo
+{131}{}{$100, Â¿eh? Tal vez vamos a tener que hacer mÃ¡s adelante. AdiÃ³s, Doc.}
+{132}{}{Parece que no lo estÃ¡s haciendo muy bien por ahÃ­ fuera. Puedo curar tus dolencias por 100 dÃ³lares. Â¿Quieres que lo
  haga?}
-{133}{}{Tus colegas no lo están haciendo muy bien. Creo que puedo curar sus dolencias por 100 dólares. ¿Quieres que lo intente?}
-{134}{}{Espero que hagas algo mejor que intentarlo, Doc. Aquí está tu dinero.}
+{133}{}{Tus colegas no lo estÃ¡n haciendo muy bien. Creo que puedo curar sus dolencias por 100 dÃ³lares. Â¿Quieres que lo intente?}
+{134}{}{Espero que hagas algo mejor que intentarlo, Doc. AquÃ­ estÃ¡ tu dinero.}
 {135}{}{Supongo que ahora mismo no me lo puedo permitir. Lo siento, Doc; tal vez en otro momento.}
-{136}{}{100, ¿eh? Tal vez tenga que hacerlo más tarde. Adiós, Doc.}
+{136}{}{100, Â¿eh? Tal vez tenga que hacerlo mÃ¡s tarde. AdiÃ³s, Doc.}
 {137}{}{Menuda camada de cachorritos enfermos. Bien, puedo intentar poneros a punto y curar todas vuestras dolencias, pero va a
- costar 150 dólares. ¿Quieres que me ponga a ello?}
-{138}{}{Sí, por favor. Aquí está tu dinero, Doc.}
+ costar 150 dÃ³lares. Â¿Quieres que me ponga a ello?}
+{138}{}{SÃ­, por favor. AquÃ­ estÃ¡ tu dinero, Doc.}
 {139}{}{Ahora mismo no me lo puedo permitir. Lo siento, Doc; tal vez en otro momento.}
-{140}{}{150, ¿eh? Tal vez tenga que hacerlo más tarde. Adiós, Doc.}
-{141}{}{Claro que me gustaría ayudarte, pero no tienes bastante para abonar la factura. Los suministros médicos cuestan
+{140}{}{150, Â¿eh? Tal vez tenga que hacerlo mÃ¡s tarde. AdiÃ³s, Doc.}
+{141}{}{Claro que me gustarÃ­a ayudarte, pero no tienes bastante para abonar la factura. Los suministros mÃ©dicos cuestan
  dinero.}
 {142}{}{Ay, venga, Doc. Necesitamos tu ayuda de verdad.}
-{143}{}{Volveré cuando tenga más dinero. Adiós. }
-{144}{}{Bueno, está bien. Lo haré por esta vez: pero será mejor que tengas dinero para la próxima.}
-{145}{}{Eso te sirvió… una vez. Que es precisamente lo que te dije. Esta vez necesito el dinero. No vas a conseguir nada gratis en este mundo... incluidos mis servicios.}
-{146}{}{Gracias, Doc. Vaya si lo agradezco. La próxima vez tendré dinero. Lo prometo.}
-{147}{}{Me siento un poco culpable por presionarte así. Será mejor que vuelva cuando tenga dinero para
+{143}{}{VolverÃ© cuando tenga mÃ¡s dinero. AdiÃ³s. }
+{144}{}{Bueno, estÃ¡ bien. Lo harÃ© por esta vez: pero serÃ¡ mejor que tengas dinero para la prÃ³xima.}
+{145}{}{Eso te sirviÃ³â€¦ una vez. Que es precisamente lo que te dije. Esta vez necesito el dinero. No vas a conseguir nada gratis en este mundo... incluidos mis servicios.}
+{146}{}{Gracias, Doc. Vaya si lo agradezco. La prÃ³xima vez tendrÃ© dinero. Lo prometo.}
+{147}{}{Me siento un poco culpable por presionarte asÃ­. SerÃ¡ mejor que vuelva cuando tenga dinero para
  pagarte.}
-{148}{}{Está bien, lo siento. Pero antes de irme, deja que te pregunte algo.}
-{149}{}{Vale, vale. Entonces seguiré mi camino. Adiós, Doc.}
-{150}{}{Lo siento. Sin dinero, no hay servicio. No puedo darle medicinas a todo el que las pide. Estaría arruinado
- en una semana. Tendrás que volver cuando tengas el dinero para pagar mi minuta.}
-{151}{}{No tengo dinero, pero sí cosas para intercambiar. ¿Puedo darte algo a cambio de tus servicios?}
+{148}{}{EstÃ¡ bien, lo siento. Pero antes de irme, deja que te pregunte algo.}
+{149}{}{Vale, vale. Entonces seguirÃ© mi camino. AdiÃ³s, Doc.}
+{150}{}{Lo siento. Sin dinero, no hay servicio. No puedo darle medicinas a todo el que las pide. EstarÃ­a arruinado
+ en una semana. TendrÃ¡s que volver cuando tengas el dinero para pagar mi minuta.}
+{151}{}{No tengo dinero, pero sÃ­ cosas para intercambiar. Â¿Puedo darte algo a cambio de tus servicios?}
 {152}{}{Antes de irme, deja que te pregunte algo.}
-{153}{}{Vale, trataré de reunir algo de dinero. Adiós.}
-{154}{}{¿Qué es lo que quieres saber?}
-{155}{}{¿Y ahora qué?}
-{156}{}{Creo que tengo una solución para el problema que tenéis aquí con el Jet.}
-{157}{}{He oído que Redding está teniendo problemas últimamente con sus exportaciones.}
-{158}{}{No me vendría mal que me curaran un poco.}
-{159}{}{Sólo me preguntaba qué pasa por la ciudad.}
-{160}{}{¿Por qué te llaman Indoloro Doc Johnson?}
-{161}{}{¿Tienes suministros médicos con los que podamos hacer un trueque?}
-{162}{}{Sólo echaba un vistazo. Adiós, Doc.}
-{163}{}{¿Qué te parece que es esto? ¿Una tienda en general? No, no hago trueque a cambio de servicios médicos. Sólo
- quiero cobrar con honestos dólares dorados, muchas gracias. Vuelve cuando tengas alguno.}
-{164}{}{Está bien. Ya lo he entendido. Adiós.}
-{165}{}{Podría proporcionarte algunos suministros; veamos lo que tienes para intercambiar.}
-{166}{}{Está bien, Doc.}
-{167}{}{No me refería ahora mismo. Sólo me preguntaba si tenías material para intercambiar. Pero tengo algunas
+{153}{}{Vale, tratarÃ© de reunir algo de dinero. AdiÃ³s.}
+{154}{}{Â¿QuÃ© es lo que quieres saber?}
+{155}{}{Â¿Y ahora quÃ©?}
+{156}{}{Creo que tengo una soluciÃ³n para el problema que tenÃ©is aquÃ­ con el Jet.}
+{157}{}{He oÃ­do que Redding estÃ¡ teniendo problemas Ãºltimamente con sus exportaciones.}
+{158}{}{No me vendrÃ­a mal que me curaran un poco.}
+{159}{}{SÃ³lo me preguntaba quÃ© pasa por la ciudad.}
+{160}{}{Â¿Por quÃ© te llaman Indoloro Doc Johnson?}
+{161}{}{Â¿Tienes suministros mÃ©dicos con los que podamos hacer un trueque?}
+{162}{}{SÃ³lo echaba un vistazo. AdiÃ³s, Doc.}
+{163}{}{Â¿QuÃ© te parece que es esto? Â¿Una tienda en general? No, no hago trueque a cambio de servicios mÃ©dicos. SÃ³lo
+ quiero cobrar con honestos dÃ³lares dorados, muchas gracias. Vuelve cuando tengas alguno.}
+{164}{}{EstÃ¡ bien. Ya lo he entendido. AdiÃ³s.}
+{165}{}{PodrÃ­a proporcionarte algunos suministros; veamos lo que tienes para intercambiar.}
+{166}{}{EstÃ¡ bien, Doc.}
+{167}{}{No me referÃ­a ahora mismo. SÃ³lo me preguntaba si tenÃ­as material para intercambiar. Pero tengo algunas
  preguntas.}
 {168}{}{Oh, no necesito nada ahora mismo. Ya nos veremos, Doc.}
-{169}{}{¿Conseguiste todo lo que necesitabas?}
-{170}{}{¿Y bien? ¿Te sirvió?}
-{171}{}{En realidad, déjame echar otro vistazo a tu material.}
+{169}{}{Â¿Conseguiste todo lo que necesitabas?}
+{170}{}{Â¿Y bien? Â¿Te sirviÃ³?}
+{171}{}{En realidad, dÃ©jame echar otro vistazo a tu material.}
 {172}{}{Gracias, Doc. Deja que te pregunte algo.}
-{173}{}{Claro que sí, Doc. Gracias. Adiós, por ahora.}
-{174}{}{Ahí tienes. Todo mejor. ¿Te vale?}
-{175}{}{En realidad, había algunas preguntas que quería hacerte.}
-{176}{}{Servirá. Gracias, Doc.}
+{173}{}{Claro que sÃ­, Doc. Gracias. AdiÃ³s, por ahora.}
+{174}{}{AhÃ­ tienes. Todo mejor. Â¿Te vale?}
+{175}{}{En realidad, habÃ­a algunas preguntas que querÃ­a hacerte.}
+{176}{}{ServirÃ¡. Gracias, Doc.}
 {177}{}{No dejes que eso avance demasiado. Algunas heridas se infectan y comienzan a supurar. Y entonces siempre hay
- gangrena. Claro que, últimamente, no he usado mis cuchillos tanto como hubiera querido. Se están oxidando un poco. Te diré
- algo: adelante, deja que avance tanto como quieras. Quizá más tarde pueda tener algo para practicar.}
+ gangrena. Claro que, Ãºltimamente, no he usado mis cuchillos tanto como hubiera querido. Se estÃ¡n oxidando un poco. Te dirÃ©
+ algo: adelante, deja que avance tanto como quieras. QuizÃ¡ mÃ¡s tarde pueda tener algo para practicar.}
 {178}{}{Ya veo. Mientras me estoy infectando, deja que te pregunte algo.}
-{179}{}{Eh, sí, bueno, pensaré en ello. Adiós, Doc.}
-{180}{}{Últimamente, parece como si los mineros pasasen más tiempo colocados por el Jet que excavando. Si esto
- sigue así, la producción de oro de Redding se detendrá. Pero a Nuevo Reno no parece importarle.}
-{181}{}{Todos los mineros sólo trabajan lo suficiente como para conseguir su siguiente dosis de Jet. La producción se
- ha ralentizado mucho. Si esto sigue así, Nuevo Reno se va a apoderar de Redding.}
-{182}{}{Todo lo que los mineros están haciendo aquí últimamente es drogarse. Ya casi nadie está extrayendo oro. Me
- preocupa que Nuevo Reno se apodere de esta ciudad. Desde luego, deseo que haya una forma de detener esta adicción al Jet.}
-{183}{}{¿Qué tiene que ver Nuevo Reno con eso?}
-{184}{}{¿De dónde viene el Jet?}
-{185}{}{Ya veo. Déjame que te pregunte otra cosa.}
-{186}{}{Gracias por la información. Ya nos veremos, Doc. Adiós.}
-{187}{}{Hola. Soy Indoloro Doc Johnson. ¿Qué puedo hacer por ti?}
-{188}{}{Qué puede hacer el viejo Doc Johnson por ti esta vez?}
-{189}{}{Oye, Doc. Tan solo tenía algunas preguntas para ti.}
-{190}{}{Me estaba preguntando si tendrías algún medicamento para negociar.}
-{191}{}{Doc, he oído hablar sobre ciertos implantes de armadura especiales. ¿Sabes algo de eso?}
-{192}{}{Sólo estaba echando un vistazo, Doc. Un placer conocerte. Adiós.}
-{193}{}{Gracias a ti, le estoy dando la vuelta al problema con el Jet. Ese antídoto tuyo que deslicé en
- el suministro de Jet está haciendo un gran trabajo en desenganchar a esos adictos.}
-{194}{}{Me alegra que funcione. Déjame preguntarte algo más.}
-{195}{}{¿La gente no sospecha al sentirse enfermos por el Jet que les has vendido?}
-{196}{}{Me alegra que funcione, Doc. Supongo que seguiré mi camino. Adiós.}
-{197}{}{Gracias al antídoto que me trajiste, los problemas de Redding con el Jet han acabado. Parece que
+{179}{}{Eh, sÃ­, bueno, pensarÃ© en ello. AdiÃ³s, Doc.}
+{180}{}{Ãšltimamente, parece como si los mineros pasasen mÃ¡s tiempo colocados por el Jet que excavando. Si esto
+ sigue asÃ­, la producciÃ³n de oro de Redding se detendrÃ¡. Pero a Nuevo Reno no parece importarle.}
+{181}{}{Todos los mineros sÃ³lo trabajan lo suficiente como para conseguir su siguiente dosis de Jet. La producciÃ³n se
+ ha ralentizado mucho. Si esto sigue asÃ­, Nuevo Reno se va a apoderar de Redding.}
+{182}{}{Todo lo que los mineros estÃ¡n haciendo aquÃ­ Ãºltimamente es drogarse. Ya casi nadie estÃ¡ extrayendo oro. Me
+ preocupa que Nuevo Reno se apodere de esta ciudad. Desde luego, deseo que haya una forma de detener esta adicciÃ³n al Jet.}
+{183}{}{Â¿QuÃ© tiene que ver Nuevo Reno con eso?}
+{184}{}{Â¿De dÃ³nde viene el Jet?}
+{185}{}{Ya veo. DÃ©jame que te pregunte otra cosa.}
+{186}{}{Gracias por la informaciÃ³n. Ya nos veremos, Doc. AdiÃ³s.}
+{187}{}{Hola. Soy Indoloro Doc Johnson. Â¿QuÃ© puedo hacer por ti?}
+{188}{}{QuÃ© puede hacer el viejo Doc Johnson por ti esta vez?}
+{189}{}{Oye, Doc. Tan solo tenÃ­a algunas preguntas para ti.}
+{190}{}{Me estaba preguntando si tendrÃ­as algÃºn medicamento para negociar.}
+{191}{}{Doc, he oÃ­do hablar sobre ciertos implantes de armadura especiales. Â¿Sabes algo de eso?}
+{192}{}{SÃ³lo estaba echando un vistazo, Doc. Un placer conocerte. AdiÃ³s.}
+{193}{}{Gracias a ti, le estoy dando la vuelta al problema con el Jet. Ese antÃ­doto tuyo que deslicÃ© en
+ el suministro de Jet estÃ¡ haciendo un gran trabajo en desenganchar a esos adictos.}
+{194}{}{Me alegra que funcione. DÃ©jame preguntarte algo mÃ¡s.}
+{195}{}{Â¿La gente no sospecha al sentirse enfermos por el Jet que les has vendido?}
+{196}{}{Me alegra que funcione, Doc. Supongo que seguirÃ© mi camino. AdiÃ³s.}
+{197}{}{Gracias al antÃ­doto que me trajiste, los problemas de Redding con el Jet han acabado. Parece que
  Nuevo Reno va a tener que encontrar otra forma de intentar conquistarnos.}
 {198}{}{Me alegra haber podido ayudar. Deja que te pregunte otra cosa.}
-{199}{}{¿La gente no sospecha al sentirse enfermos por el Jet que les has vendido?}
-{200}{}{Qué tenía que ver Nuevo Reno con eso?}
-{201}{}{Me alegra que funcionara, Doc. Adiós por ahora.}
-{202}{}{¿Una solución? ¿Qué quieres decir?}
-{203}{}{Quiero decir que tengo un antídoto para el Jet. El doctor Troy de Ciudad Refugio lo elaboró, y debería resolver
- el problema de adicción al Jet que tenéis aquí.}
-{204}{}{Oh, nada. Deja que te pregunte algo más, Doc.}
-{205}{}{Desde luego. Demasiado Jet, no suficiente trabajo, pero... ¿dónde has oído eso?}
-{206}{}{McClure, en Ciudad Refugio, me lo contó.}
-{207}{}{Sólo he oído un rumor, eso es todo.}
-{208}{}{Realmente no es importante. Deja que te pregunte algo más.}
+{199}{}{Â¿La gente no sospecha al sentirse enfermos por el Jet que les has vendido?}
+{200}{}{QuÃ© tenÃ­a que ver Nuevo Reno con eso?}
+{201}{}{Me alegra que funcionara, Doc. AdiÃ³s por ahora.}
+{202}{}{Â¿Una soluciÃ³n? Â¿QuÃ© quieres decir?}
+{203}{}{Quiero decir que tengo un antÃ­doto para el Jet. El doctor Troy de Ciudad Refugio lo elaborÃ³, y deberÃ­a resolver
+ el problema de adicciÃ³n al Jet que tenÃ©is aquÃ­.}
+{204}{}{Oh, nada. Deja que te pregunte algo mÃ¡s, Doc.}
+{205}{}{Desde luego. Demasiado Jet, no suficiente trabajo, pero... Â¿dÃ³nde has oÃ­do eso?}
+{206}{}{McClure, en Ciudad Refugio, me lo contÃ³.}
+{207}{}{SÃ³lo he oÃ­do un rumor, eso es todo.}
+{208}{}{Realmente no es importante. Deja que te pregunte algo mÃ¡s.}
 {209}{}{Nuevo Reno vende el Jet muy barato. El Jet es verdaderamente adictivo, como nada que hayas visto nunca antes.
- Suponen que si hay gente suficiente en una zona consumiéndolo, esa gente hará lo que sea para conseguir
- más. Lo que les daría, de facto, el control sobre esa zona: como Redding.}
-{210}{}{Ya veo. Déjame hacer otra pregunta, Doc.}
-{211}{}{Entonces, si no quieres que Nuevo Reno controle Redding, ¿quién quieres que lo haga?}
-{212}{}{Gracias por explicarme esto, Doc. Adiós.}
-{213}{}{Todo el Jet de esta ciudad lo envía la Familia Mordino de Nuevo Reno. Suele venir
- en grandes cargamentos, y entonces yo lo proceso en dosis individuales... así que lo termino vendiendo aquí mismo.}
+ Suponen que si hay gente suficiente en una zona consumiÃ©ndolo, esa gente harÃ¡ lo que sea para conseguir
+ mÃ¡s. Lo que les darÃ­a, de facto, el control sobre esa zona: como Redding.}
+{210}{}{Ya veo. DÃ©jame hacer otra pregunta, Doc.}
+{211}{}{Entonces, si no quieres que Nuevo Reno controle Redding, Â¿quiÃ©n quieres que lo haga?}
+{212}{}{Gracias por explicarme esto, Doc. AdiÃ³s.}
+{213}{}{Todo el Jet de esta ciudad lo envÃ­a la Familia Mordino de Nuevo Reno. Suele venir
+ en grandes cargamentos, y entonces yo lo proceso en dosis individuales... asÃ­ que lo termino vendiendo aquÃ­ mismo.}
 {214}{}{Debes sacar unas buenas ganancias con eso.}
 {215}{}{Debes de ser un verdadero amiguete de Nuevo Reno, entonces.}
-{216}{}{Ya veo. Déjame que te pregunte otra cosa.}
-{217}{}{Entonces, ¿tienes algo de Jet que yo pueda tomar?}
-{218}{}{En realidad, no. Supongo que están tan acostumbrados a que yo procese los grandes lotes de Jet en dosis individuales
- que ni siquiera se lo han pensado dos veces. Llevo haciéndolo desde que soy doctor, y
- he sido el doctor de aquí desde hace mucho tiempo.}
-{219}{}{Me alegra que no tengas problemas. Deja que te pregunte algo más, Doc.}
-{220}{}{Bien. Apuesto a que las cosas se habrían puesto feas si hubieran sospechado. En fin, adiós, Doc.}
-{221}{}{Bueno, todo el mundo quiere una parte del oro de Redding, así que tarde o temprano seremos controlados por alguien. Yo sólo quiero que tengamos al mando a quien haga lo mejor para Redding.}
-{222}{}{¿Y quién crees que es?}
-{223}{}{Tal y como yo lo veo, la mejor oportunidad de Redding es con Ciudad Refugio controlando las cosas por aquí. Es de donde
- yo soy -así que quizá sea parcial- pero realmente creo que Ciudad Refugio puede hacer un mejor trabajo ayudando a
+{216}{}{Ya veo. DÃ©jame que te pregunte otra cosa.}
+{217}{}{Entonces, Â¿tienes algo de Jet que yo pueda tomar?}
+{218}{}{En realidad, no. Supongo que estÃ¡n tan acostumbrados a que yo procese los grandes lotes de Jet en dosis individuales
+ que ni siquiera se lo han pensado dos veces. Llevo haciÃ©ndolo desde que soy doctor, y
+ he sido el doctor de aquÃ­ desde hace mucho tiempo.}
+{219}{}{Me alegra que no tengas problemas. Deja que te pregunte algo mÃ¡s, Doc.}
+{220}{}{Bien. Apuesto a que las cosas se habrÃ­an puesto feas si hubieran sospechado. En fin, adiÃ³s, Doc.}
+{221}{}{Bueno, todo el mundo quiere una parte del oro de Redding, asÃ­ que tarde o temprano seremos controlados por alguien. Yo sÃ³lo quiero que tengamos al mando a quien haga lo mejor para Redding.}
+{222}{}{Â¿Y quiÃ©n crees que es?}
+{223}{}{Tal y como yo lo veo, la mejor oportunidad de Redding es con Ciudad Refugio controlando las cosas por aquÃ­. Es de donde
+ yo soy -asÃ­ que quizÃ¡ sea parcial- pero realmente creo que Ciudad Refugio puede hacer un mejor trabajo ayudando a
  los ciudadanos de Redding.}
-{224}{}{¿Y eso por qué?}
-{225}{}{Porque dirigen Ciudad Refugio de forma muy humana. Podrían hacer lo mismo por Redding.
+{224}{}{Â¿Y eso por quÃ©?}
+{225}{}{Porque dirigen Ciudad Refugio de forma muy humana. PodrÃ­an hacer lo mismo por Redding.
  Estoy seguro de ello.}
 {226}{}{Ciudad Refugio cuida de sus ciudadanos, es cierto, pero tratan a los no-ciudadanos como basura.}
 {227}{}{Ya veo, doctor. Eso tiene cierto sentido.}
-{228}{}{Notarán los beneficios muy pronto. Estoy seguro de que darán la bienvenida a la administración
+{228}{}{NotarÃ¡n los beneficios muy pronto. Estoy seguro de que darÃ¡n la bienvenida a la administraciÃ³n
  de Ciudad Refugio con los brazos abiertos, eh, al final.}
-{229}{}{Ya veo. Bien, deja que te pregunte algo más sobre política.}
-{230}{}{Hmm, no lo sé. Adiós.}
-{231}{}{Eso no tiene sentido. Ciudad Refugio otorga privilegios especiales a los Ciudadanos, pero sólo porque están
- mejor cualificados para disfrutar tales cosas que los brutos no-ciudadanos. Además, cualquiera puede calificarse para la
- Ciudadanía de Ciudad Refugio si aprueba los tests.}
-{232}{}{No estoy seguro de cómo la gente de Redding reaccionaría a las leyes de Ciudad Refugio.}
-{233}{}{Sí, no hay duda. Adiós, Doc.}
-{234}{}{Lleno los frascos de Jet y después los distribuyo en toda su pureza como servicio a la gente de
- Redding. No obtengo beneficios por ello. Si no lo hiciera así, entonces cualquier curandero charlatán podría preparar
- la droga con equipamiento oxidado y lleno de gérmenes. Nunca podría mantener a esta gente libre de enfermedades después de eso.}
-{235}{}{Qué gran tipo eres, Doc. Eso es genial. Deja que te pregunte otra cosa, entonces.}
-{236}{}{Qué *noble* por tu parte, doctor.}
-{237}{}{Eso es interesante. Nos veremos más tarde, Doc. Adiós.}
-{238}{}{Te agradecería que no fueras tan sarcástico cuando dices eso. Llámalo nobleza si quieres; yo
- prefiero "sentido práctico". Los propietarios de las minas me pagan un salario para mantener a los mineros relativamente sanos y capacitados para
- trabajar. Si dejase que cualquier otro elaborase el Jet, nunca sería capaz de hacer el trabajo por el que me pagan.}
-{239}{}{Ya veo. Bueno, entonces déjame preguntarte otra cosa. }
-{240}{}{Hmm, gracias por contármelo. Adiós, Doc.}
-{241}{}{¿El doctor Troy? Le conozco. Un médico extraordinariamente talentoso. Trabajamos juntos cuando estuve en Ciudad
- Refugio. Háblame de ese antídoto.}
-{242}{}{¿Trabajaste en Ciudad Refugio?}
-{243}{}{El doctor Troy dijo que debería traerte el antídoto, y que tú sabrías qué hacer con él.}
-{244}{}{Sí, fue donde recibí mi formación médica. Soy un Ciudadano de Ciudad Refugio. Descubrí que había
- muchos lugares en el mundo que necesitaban mi experiencia médica más que Ciudad Refugio. Así que aquí estoy. Ahora,
- sobre ese antídoto...}
-{245}{}{El doctor Troy dijo que debería traerte el antídoto, y que tú sabrías qué hacer con él.}
-{246}{}{Por supuesto que sí. Déjamelo entonces.}
-{247}{}{Aquí tienes, Doc.}
-{248}{}{No tan rápido, Doc. ¿Cuánto vale para ti?}
-{249}{}{Creo que no estoy listo para deshacerme de él aún. Ya nos veremos, Doc. Adiós.}
-{250}{}{¿Que cuánto vale para mí? ¡Tú, pequeña comadreja! Debería…}
-{251}{}{Tranquilito, Doc; esa clase de comentarios me hacen sentir tan mal que me pongo a temblar. Se me podrían caer las cosas… como esta botella de antídoto.}
-{252}{}{Vale, vale. Oye, sólo bromeaba. Aquí está.}
-{253}{}{Gracias. Me aseguraré de que los mineros obtengan un pequeño *extra* con el próximo lote de
+{229}{}{Ya veo. Bien, deja que te pregunte algo mÃ¡s sobre polÃ­tica.}
+{230}{}{Hmm, no lo sÃ©. AdiÃ³s.}
+{231}{}{Eso no tiene sentido. Ciudad Refugio otorga privilegios especiales a los Ciudadanos, pero sÃ³lo porque estÃ¡n
+ mejor cualificados para disfrutar tales cosas que los brutos no-ciudadanos. AdemÃ¡s, cualquiera puede calificarse para la
+ CiudadanÃ­a de Ciudad Refugio si aprueba los tests.}
+{232}{}{No estoy seguro de cÃ³mo la gente de Redding reaccionarÃ­a a las leyes de Ciudad Refugio.}
+{233}{}{SÃ­, no hay duda. AdiÃ³s, Doc.}
+{234}{}{Lleno los frascos de Jet y despuÃ©s los distribuyo en toda su pureza como servicio a la gente de
+ Redding. No obtengo beneficios por ello. Si no lo hiciera asÃ­, entonces cualquier curandero charlatÃ¡n podrÃ­a preparar
+ la droga con equipamiento oxidado y lleno de gÃ©rmenes. Nunca podrÃ­a mantener a esta gente libre de enfermedades despuÃ©s de eso.}
+{235}{}{QuÃ© gran tipo eres, Doc. Eso es genial. Deja que te pregunte otra cosa, entonces.}
+{236}{}{QuÃ© *noble* por tu parte, doctor.}
+{237}{}{Eso es interesante. Nos veremos mÃ¡s tarde, Doc. AdiÃ³s.}
+{238}{}{Te agradecerÃ­a que no fueras tan sarcÃ¡stico cuando dices eso. LlÃ¡malo nobleza si quieres; yo
+ prefiero "sentido prÃ¡ctico". Los propietarios de las minas me pagan un salario para mantener a los mineros relativamente sanos y capacitados para
+ trabajar. Si dejase que cualquier otro elaborase el Jet, nunca serÃ­a capaz de hacer el trabajo por el que me pagan.}
+{239}{}{Ya veo. Bueno, entonces dÃ©jame preguntarte otra cosa. }
+{240}{}{Hmm, gracias por contÃ¡rmelo. AdiÃ³s, Doc.}
+{241}{}{Â¿El doctor Troy? Le conozco. Un mÃ©dico extraordinariamente talentoso. Trabajamos juntos cuando estuve en Ciudad
+ Refugio. HÃ¡blame de ese antÃ­doto.}
+{242}{}{Â¿Trabajaste en Ciudad Refugio?}
+{243}{}{El doctor Troy dijo que deberÃ­a traerte el antÃ­doto, y que tÃº sabrÃ­as quÃ© hacer con Ã©l.}
+{244}{}{SÃ­, fue donde recibÃ­ mi formaciÃ³n mÃ©dica. Soy un Ciudadano de Ciudad Refugio. DescubrÃ­ que habÃ­a
+ muchos lugares en el mundo que necesitaban mi experiencia mÃ©dica mÃ¡s que Ciudad Refugio. AsÃ­ que aquÃ­ estoy. Ahora,
+ sobre ese antÃ­doto...}
+{245}{}{El doctor Troy dijo que deberÃ­a traerte el antÃ­doto, y que tÃº sabrÃ­as quÃ© hacer con Ã©l.}
+{246}{}{Por supuesto que sÃ­. DÃ©jamelo entonces.}
+{247}{}{AquÃ­ tienes, Doc.}
+{248}{}{No tan rÃ¡pido, Doc. Â¿CuÃ¡nto vale para ti?}
+{249}{}{Creo que no estoy listo para deshacerme de Ã©l aÃºn. Ya nos veremos, Doc. AdiÃ³s.}
+{250}{}{Â¿Que cuÃ¡nto vale para mÃ­? Â¡TÃº, pequeÃ±a comadreja! DeberÃ­aâ€¦}
+{251}{}{Tranquilito, Doc; esa clase de comentarios me hacen sentir tan mal que me pongo a temblar. Se me podrÃ­an caer las cosasâ€¦ como esta botella de antÃ­doto.}
+{252}{}{Vale, vale. Oye, sÃ³lo bromeaba. AquÃ­ estÃ¡.}
+{253}{}{Gracias. Me asegurarÃ© de que los mineros obtengan un pequeÃ±o *extra* con el prÃ³ximo lote de
  Jet que prueben.}
-{254}{}{¿No sospecharán de ti, Doc?}
-{255}{}{Me alegra haber podido ayudar. Déjame preguntarte otra cosa, Doc.}
-{256}{}{Bien. Estoy harto de ver a todos esos adictos al Jet todo el tiempo colgados. Adiós, Doc, y
+{254}{}{Â¿No sospecharÃ¡n de ti, Doc?}
+{255}{}{Me alegra haber podido ayudar. DÃ©jame preguntarte otra cosa, Doc.}
+{256}{}{Bien. Estoy harto de ver a todos esos adictos al Jet todo el tiempo colgados. AdiÃ³s, Doc, y
  que tengas buena suerte.}
-{257}{}{Está bien, tú ganas. Te daré 2.000 dólares por él. Es todo lo que tengo.}
-{258}{}{Supongo que tendrá que valer. Muy bien, aquí está, Doc.}
-{259}{}{Creo que aún me lo voy a guardar un tiempo. Adiós, Doc.}
-{260}{}{Puedes hacerlo, pero no conseguirás de mí un precio mejor. De verdad que es todo lo que tengo.}
-{261}{}{Bueno, vale, supongo que me quedaré los 2.000. Aquí está el antídoto, Doc.}
-{262}{}{Ya veremos. Adiós, Doc.}
-{263}{}{Conozco a McClure. Está en el Consejo de Ciudad Refugio. ¿Qué te contó?}
-{264}{}{La producción minera está cayendo y los precios del oro subiendo.}
-{265}{}{No estoy seguro de que deba contártelo.}
-{266}{}{¿Oh? ¿Y qué decía ese rumor?}
-{267}{}{La producción minera está cayendo y los precios del oro subiendo.}
-{268}{}{Oh, la basura de siempre. Oye, déjame preguntarte algo más, Doc.}
-{269}{}{Eso es cierto. Los mineros están siempre colocados por el Jet en lugar de trabajando. Así que las exportaciones están
- cayendo y los precios aumentan. Esta situación no puede durar.}
-{270}{}{Eso no es bueno. Hmm, déjame preguntarte algo más.}
-{271}{}{Eso no suena bien, Doc. adiós.}
+{257}{}{EstÃ¡ bien, tÃº ganas. Te darÃ© 2.000 dÃ³lares por Ã©l. Es todo lo que tengo.}
+{258}{}{Supongo que tendrÃ¡ que valer. Muy bien, aquÃ­ estÃ¡, Doc.}
+{259}{}{Creo que aÃºn me lo voy a guardar un tiempo. AdiÃ³s, Doc.}
+{260}{}{Puedes hacerlo, pero no conseguirÃ¡s de mÃ­ un precio mejor. De verdad que es todo lo que tengo.}
+{261}{}{Bueno, vale, supongo que me quedarÃ© los 2.000. AquÃ­ estÃ¡ el antÃ­doto, Doc.}
+{262}{}{Ya veremos. AdiÃ³s, Doc.}
+{263}{}{Conozco a McClure. EstÃ¡ en el Consejo de Ciudad Refugio. Â¿QuÃ© te contÃ³?}
+{264}{}{La producciÃ³n minera estÃ¡ cayendo y los precios del oro subiendo.}
+{265}{}{No estoy seguro de que deba contÃ¡rtelo.}
+{266}{}{Â¿Oh? Â¿Y quÃ© decÃ­a ese rumor?}
+{267}{}{La producciÃ³n minera estÃ¡ cayendo y los precios del oro subiendo.}
+{268}{}{Oh, la basura de siempre. Oye, dÃ©jame preguntarte algo mÃ¡s, Doc.}
+{269}{}{Eso es cierto. Los mineros estÃ¡n siempre colocados por el Jet en lugar de trabajando. AsÃ­ que las exportaciones estÃ¡n
+ cayendo y los precios aumentan. Esta situaciÃ³n no puede durar.}
+{270}{}{Eso no es bueno. Hmm, dÃ©jame preguntarte algo mÃ¡s.}
+{271}{}{Eso no suena bien, Doc. adiÃ³s.}
 {272}{}{Se debe a que mis pacientes normalmente pierden el conocimiento antes de poder gritar demasiado. Viene a ser una
  broma.}
-{273}{}{Ya veo. Bueno, eso es, eh, reconfortante. Supongo. Déjame preguntarte otra cosa, entonces.}
+{273}{}{Ya veo. Bueno, eso es, eh, reconfortante. Supongo. DÃ©jame preguntarte otra cosa, entonces.}
 {274}{}{Creo que tengo que irme. Acabo de recordar una cita importante que tengo, eh,
- en alguna parte. Eh, adiós, Doc.}
-{275}{}{Puedes decírmelo. Soy un doctor.}
-{276}{}{Oh, sí. En fin, vale. Me dijo que la producción de oro en Redding está cayendo y los precios están
+ en alguna parte. Eh, adiÃ³s, Doc.}
+{275}{}{Puedes decÃ­rmelo. Soy un doctor.}
+{276}{}{Oh, sÃ­. En fin, vale. Me dijo que la producciÃ³n de oro en Redding estÃ¡ cayendo y los precios estÃ¡n
  subiendo.}
-{277}{}{Yo también he leído algo sobre eso. No es demasiado difícil si tienes la formación, y el
+{277}{}{Yo tambiÃ©n he leÃ­do algo sobre eso. No es demasiado difÃ­cil si tienes la formaciÃ³n, y el
  equipo adecuado.}
-{278}{}{¿Tienes lo que necesitas para llevar a cabo las operaciones?}
-{279}{}{En su mayor parte. Tengo la habilidad y la formación, pero no tengo el material para los implantes.}
-{280}{}{¿Y eso qué significa?}
+{278}{}{Â¿Tienes lo que necesitas para llevar a cabo las operaciones?}
+{279}{}{En su mayor parte. Tengo la habilidad y la formaciÃ³n, pero no tengo el material para los implantes.}
+{280}{}{Â¿Y eso quÃ© significa?}
 {281}{}{Significa que tendremos que improvisar. Creo que puedo sacar lo que necesito de una 
- armadura de combate estándar. Puedo extraer las placas de protección contra conmociones y también las células termales de la
+ armadura de combate estÃ¡ndar. Puedo extraer las placas de protecciÃ³n contra conmociones y tambiÃ©n las cÃ©lulas termales de la
  armadura.}
-{282}{}{Eso es genial. ¿Entonces puedes hacerlo?}
-{283}{}{Bueno, sí: pero si incluyo demasiada armadura, el paciente puede estar seguro de que no va a ganar ningún premio de belleza.}
-{284}{}{Eso no me importa; sólo quiero protección. ¿Qué puedes hacer, exactamente?}
-{285}{}{En realidad, hay cuatro operaciones diferentes que se pueden llevar a cabo. Está la armadura dérmica de impacto
- que protege contra los impactos, y está la armadura de implantes Phoenix que protege contra el calor. Después, cada
- una tiene una mejora de asalto. Tienes que tener la armadura básica antes de recibir una mejora
+{282}{}{Eso es genial. Â¿Entonces puedes hacerlo?}
+{283}{}{Bueno, sÃ­: pero si incluyo demasiada armadura, el paciente puede estar seguro de que no va a ganar ningÃºn premio de belleza.}
+{284}{}{Eso no me importa; sÃ³lo quiero protecciÃ³n. Â¿QuÃ© puedes hacer, exactamente?}
+{285}{}{En realidad, hay cuatro operaciones diferentes que se pueden llevar a cabo. EstÃ¡ la armadura dÃ©rmica de impacto
+ que protege contra los impactos, y estÃ¡ la armadura de implantes Phoenix que protege contra el calor. DespuÃ©s, cada
+ una tiene una mejora de asalto. Tienes que tener la armadura bÃ¡sica antes de recibir una mejora
  de asalto.}
-{286}{}{¿Sobre qué operación quieres informarte?}
-{287}{}{No creo que quiera hacer algo así. Deja que te pregunte otra cosa.}
-{288}{}{Háblame más sobre los implantes. Quizá quiera que me operes.}
-{289}{}{Creo que ya sé lo bastante. Tendré que pensar en ello. Adiós.}
-{290}{}{¿En qué operación estabas interesado?}
-{291}{}{La armadura dérmica de impacto.}
+{286}{}{Â¿Sobre quÃ© operaciÃ³n quieres informarte?}
+{287}{}{No creo que quiera hacer algo asÃ­. Deja que te pregunte otra cosa.}
+{288}{}{HÃ¡blame mÃ¡s sobre los implantes. QuizÃ¡ quiera que me operes.}
+{289}{}{Creo que ya sÃ© lo bastante. TendrÃ© que pensar en ello. AdiÃ³s.}
+{290}{}{Â¿En quÃ© operaciÃ³n estabas interesado?}
+{291}{}{La armadura dÃ©rmica de impacto.}
 {292}{}{La armadura de implantes Phoenix.}
-{293}{}{La mejora de asalto para la armadura dérmica de impacto.}
+{293}{}{La mejora de asalto para la armadura dÃ©rmica de impacto.}
 {294}{}{La mejora de asalto para la armadura de implantes Phoenix.}
-{295}{}{Doc, creo que preferiría preguntarte sobre algo menos… eh, invasivo.}
-{296}{}{La verdad es que no quiero oír nada más sobre una operación ahora mismo. Adiós.}
-{297}{}{Por lo que he leído, la armadura dérmica de impacto te otorga un 5% de resistencia al daño normal  y explosivo, añadido a cualquier otra armadura que lleves. La operación necesita unos dos días, una armadura de combate (para las piezas), y te costará 5.000 dólares. El procedimiento debería ser bastante simple… creo. Hmm, puede que incluso las cicatrices no sean tan malas.}
-{298}{}{Eso suena genial, Doc. Hagámoslo. Estoy harto de que me disparen, me apuñalen y me revienten todo el
- puñetero día.}
-{299}{}{Déjame preguntarte sobre una de las otras operaciones, Doc.}
-{300}{}{Tendré que volver cuando tenga más dinero, Doc. Adiós.}
-{301}{}{Tendré que volver cuando me tope con una armadura de combate, Doc. Adiós.}
-{302}{}{Creo que no quiero hacer esto ahora, después de todo. Adiós, Doc.}
-{303}{}{Necesitas tener instalada la armadura dérmica de impacto antes de que te pueda proporcionar la mejora
- de asalto. Pero te diré lo que supondría. La mejora de asalto te daría un total de un
- 10% de resistencia al daño normal y explosivo, añadido a cualquier otra armadura que lleves. La
- operación necesita unos cuantos días y te costará 30.000 dólares. Además, no vas a ser demasiado
- carismático después de que termine. Acumular todas esas placas de impacto bajo tu piel va a darte un aspecto
- anguloso de cojones, pero de forma muy aerodinámica. Pero a quién no le gusta el aspecto de un coche nuevo: intentaré
+{295}{}{Doc, creo que preferirÃ­a preguntarte sobre algo menosâ€¦ eh, invasivo.}
+{296}{}{La verdad es que no quiero oÃ­r nada mÃ¡s sobre una operaciÃ³n ahora mismo. AdiÃ³s.}
+{297}{}{Por lo que he leÃ­do, la armadura dÃ©rmica de impacto te otorga un 5% de resistencia al daÃ±o normal  y explosivo, aÃ±adido a cualquier otra armadura que lleves. La operaciÃ³n necesita unos dos dÃ­as, una armadura de combate (para las piezas), y te costarÃ¡ 5.000 dÃ³lares. El procedimiento deberÃ­a ser bastante simpleâ€¦ creo. Hmm, puede que incluso las cicatrices no sean tan malas.}
+{298}{}{Eso suena genial, Doc. HagÃ¡moslo. Estoy harto de que me disparen, me apuÃ±alen y me revienten todo el
+ puÃ±etero dÃ­a.}
+{299}{}{DÃ©jame preguntarte sobre una de las otras operaciones, Doc.}
+{300}{}{TendrÃ© que volver cuando tenga mÃ¡s dinero, Doc. AdiÃ³s.}
+{301}{}{TendrÃ© que volver cuando me tope con una armadura de combate, Doc. AdiÃ³s.}
+{302}{}{Creo que no quiero hacer esto ahora, despuÃ©s de todo. AdiÃ³s, Doc.}
+{303}{}{Necesitas tener instalada la armadura dÃ©rmica de impacto antes de que te pueda proporcionar la mejora
+ de asalto. Pero te dirÃ© lo que supondrÃ­a. La mejora de asalto te darÃ­a un total de un
+ 10% de resistencia al daÃ±o normal y explosivo, aÃ±adido a cualquier otra armadura que lleves. La
+ operaciÃ³n necesita unos cuantos dÃ­as y te costarÃ¡ 30.000 dÃ³lares. AdemÃ¡s, no vas a ser demasiado
+ carismÃ¡tico despuÃ©s de que termine. Acumular todas esas placas de impacto bajo tu piel va a darte un aspecto
+ anguloso de cojones, pero de forma muy aerodinÃ¡mica. Pero a quiÃ©n no le gusta el aspecto de un coche nuevo: intentarÃ©
  no dejarte aletas.}
-{304}{}{La mejora de asalto de la armadura dérmica de impacto debería proporcionarte un total de un 10% de resistencia al daño normal y explosivo, añadido a cualquier otra armadura que lleves. La operación necesita unos cuantos días y te costará 30.000 dólares. Además, no vas a ser demasiado carismático después de que termine. Acumular todas esas placas de impacto bajo tu piel va a darte un aspecto anguloso de cojones, pero de forma muy aerodinámica. Pero a quién no le gusta el aspecto de un coche nuevo: intentaré no dejarte aletas. ¿Listo para empezar?}
-{305}{}{Eso suena genial, Doc. Hagámoslo. Estoy todo el tiempo en modo asalto, y no me importa el
+{304}{}{La mejora de asalto de la armadura dÃ©rmica de impacto deberÃ­a proporcionarte un total de un 10% de resistencia al daÃ±o normal y explosivo, aÃ±adido a cualquier otra armadura que lleves. La operaciÃ³n necesita unos cuantos dÃ­as y te costarÃ¡ 30.000 dÃ³lares. AdemÃ¡s, no vas a ser demasiado carismÃ¡tico despuÃ©s de que termine. Acumular todas esas placas de impacto bajo tu piel va a darte un aspecto anguloso de cojones, pero de forma muy aerodinÃ¡mica. Pero a quiÃ©n no le gusta el aspecto de un coche nuevo: intentarÃ© no dejarte aletas. Â¿Listo para empezar?}
+{305}{}{Eso suena genial, Doc. HagÃ¡moslo. Estoy todo el tiempo en modo asalto, y no me importa el
  aspecto.}
-{306}{}{Déjame preguntarte sobre una de las otras operaciones, Doc.}
-{307}{}{Tendré que volver cuando tenga más dinero, Doc. Adiós.}
-{308}{}{Tendré que volver cuando me tope con una armadura de combate, Doc. Adiós.}
-{309}{}{Creo que no quiero hacer esto ahora, después de todo. Adiós, Doc.}
-{310}{}{Según los informes, la armadura de implantes Phoenix te otorgará un 5% de resistencia al daño termal (fuego,
- láser, y plasma), añadido a cualquier otra armadura que lleves. La operación requerirá unos días, una
- armadura de combate (para las membranas de disipación termal), y te costará 8.000 dólares. Y no hay que
- preocuparse; esta operación *debería* suponer sólo cicatrices mínimas, al menos eso es lo que he leído.}
-{311}{}{Eso suena genial, Doc. Estoy seguro de que después de esto no necesitaré protección solar extra.}
-{312}{}{Déjame preguntarte sobre una de las otras operaciones, Doc.}
-{313}{}{Tendré que volver cuando tenga más dinero, Doc. Adiós.}
-{314}{}{Tendré que volver cuando me tope con una armadura de combate, Doc. Adiós.}
-{315}{}{Creo que no quiero hacer esto ahora, después de todo. Adiós, Doc.}
-{316}{}{Necesitarás tener la armadura de implantes Phoenix antes de que pueda instalarte la mejora de asalto. Pero
- te diré lo que supondría. La mejora de asalto debería darte un total de un 10% de resistencia al
- daño termal (fuego, láser, y plasma), añadido a cualquier otra armadura que lleves. La operación
- necesita unos cuantos días y te costará 48.000 dólares. Además, no vas a ser demasiado carismático después
+{306}{}{DÃ©jame preguntarte sobre una de las otras operaciones, Doc.}
+{307}{}{TendrÃ© que volver cuando tenga mÃ¡s dinero, Doc. AdiÃ³s.}
+{308}{}{TendrÃ© que volver cuando me tope con una armadura de combate, Doc. AdiÃ³s.}
+{309}{}{Creo que no quiero hacer esto ahora, despuÃ©s de todo. AdiÃ³s, Doc.}
+{310}{}{SegÃºn los informes, la armadura de implantes Phoenix te otorgarÃ¡ un 5% de resistencia al daÃ±o termal (fuego,
+ lÃ¡ser, y plasma), aÃ±adido a cualquier otra armadura que lleves. La operaciÃ³n requerirÃ¡ unos dÃ­as, una
+ armadura de combate (para las membranas de disipaciÃ³n termal), y te costarÃ¡ 8.000 dÃ³lares. Y no hay que
+ preocuparse; esta operaciÃ³n *deberÃ­a* suponer sÃ³lo cicatrices mÃ­nimas, al menos eso es lo que he leÃ­do.}
+{311}{}{Eso suena genial, Doc. Estoy seguro de que despuÃ©s de esto no necesitarÃ© protecciÃ³n solar extra.}
+{312}{}{DÃ©jame preguntarte sobre una de las otras operaciones, Doc.}
+{313}{}{TendrÃ© que volver cuando tenga mÃ¡s dinero, Doc. AdiÃ³s.}
+{314}{}{TendrÃ© que volver cuando me tope con una armadura de combate, Doc. AdiÃ³s.}
+{315}{}{Creo que no quiero hacer esto ahora, despuÃ©s de todo. AdiÃ³s, Doc.}
+{316}{}{NecesitarÃ¡s tener la armadura de implantes Phoenix antes de que pueda instalarte la mejora de asalto. Pero
+ te dirÃ© lo que supondrÃ­a. La mejora de asalto deberÃ­a darte un total de un 10% de resistencia al
+ daÃ±o termal (fuego, lÃ¡ser, y plasma), aÃ±adido a cualquier otra armadura que lleves. La operaciÃ³n
+ necesita unos cuantos dÃ­as y te costarÃ¡ 48.000 dÃ³lares. AdemÃ¡s, no vas a ser demasiado carismÃ¡tico despuÃ©s
  de que termine. Instalar todos esos disipadores termales bajo tu piel te va a dar un aspecto un poco abultado,
  como una especie de burrito demasiado relleno.}
-{317}{}{La mejora de asalto de la armadura de implantes Phoenix debería darte un total de un 10% de resistencia
- al daño termal (fuego, láser, y plasma), añadido a cualquier otra armadura que lleves. La
- operación necesita unos cuantos días y te costará 48.000 dólares. Además, no vas a ser demasiado
- carismático después de que termine. Instalar todos esos disipadores termales bajo tu piel te va a dar un aspecto
- un poco abultado, como una especie de burrito demasiado relleno. ¿Listo para empezar?}
-{318}{}{Eso suena genial, Doc. Hagámoslo.}
-{319}{}{Déjame preguntarte sobre una de las otras operaciones, Doc.}
-{320}{}{Tendré que volver cuando tenga más dinero, Doc. Adiós.}
-{321}{}{Tendré que volver cuando me tope con una armadura de combate, Doc. Adiós.}
-{322}{}{Creo que no quiero hacer esto ahora, después de todo. Adiós, Doc.}
-{323}{}{Bueno, pues ya está. La operación ha sido un éxito. Ya no deberías preocuparte por golpes
- y contusiones. Esa hinchazón y el dolor desaparecerán en pocos días.}
-{324}{}{No hubiera creído que tu piel podría acomodar tantas de esas placas de impacto, pero
- ya estás listo para la acción. No sólo pareces un Frankenstein, sino que deberías ser tan duro como
- él también. Eh, intenta mantenerte lejos del sol hasta que la mayoría de las costras se desprendan.}
-{325}{}{Ha resultado bastante bien, creo. La armadura Phoenix se implantó bastante más pulcramente de lo que
- había pensado que lo haría. Esa sensación de ardor y picazón probablemente desaparecerá en pocas semanas... en cuanto tus
- entrañas se hayan acostumbrado a las fibras.}
-{326}{}{Hemos recobrado la consciencia, ¿eh? Ya estás simplemente repleto de disipadores termales y membranas disipadoras. No parecerás tan hinchado en unas semanas, pero tampoco vas a ganar ningún concurso de belleza. Intenta no rascarte las costras purulentas de las incisiones de drenaje hasta que dejen de supurar.}
-{327}{}{Gracias por el consejo, Doc. Esto es genial. Oye, déjame preguntarte algo más.}
-{328}{}{Gracias por el trabajito, Doc. Será mejor que me ponga en marcha. Adiós.}
-{329}{}{Entregar el Jet antídoto a Doc Johnson.}
+{317}{}{La mejora de asalto de la armadura de implantes Phoenix deberÃ­a darte un total de un 10% de resistencia
+ al daÃ±o termal (fuego, lÃ¡ser, y plasma), aÃ±adido a cualquier otra armadura que lleves. La
+ operaciÃ³n necesita unos cuantos dÃ­as y te costarÃ¡ 48.000 dÃ³lares. AdemÃ¡s, no vas a ser demasiado
+ carismÃ¡tico despuÃ©s de que termine. Instalar todos esos disipadores termales bajo tu piel te va a dar un aspecto
+ un poco abultado, como una especie de burrito demasiado relleno. Â¿Listo para empezar?}
+{318}{}{Eso suena genial, Doc. HagÃ¡moslo.}
+{319}{}{DÃ©jame preguntarte sobre una de las otras operaciones, Doc.}
+{320}{}{TendrÃ© que volver cuando tenga mÃ¡s dinero, Doc. AdiÃ³s.}
+{321}{}{TendrÃ© que volver cuando me tope con una armadura de combate, Doc. AdiÃ³s.}
+{322}{}{Creo que no quiero hacer esto ahora, despuÃ©s de todo. AdiÃ³s, Doc.}
+{323}{}{Bueno, pues ya estÃ¡. La operaciÃ³n ha sido un Ã©xito. Ya no deberÃ­as preocuparte por golpes
+ y contusiones. Esa hinchazÃ³n y el dolor desaparecerÃ¡n en pocos dÃ­as.}
+{324}{}{No hubiera creÃ­do que tu piel podrÃ­a acomodar tantas de esas placas de impacto, pero
+ ya estÃ¡s listo para la acciÃ³n. No sÃ³lo pareces un Frankenstein, sino que deberÃ­as ser tan duro como
+ Ã©l tambiÃ©n. Eh, intenta mantenerte lejos del sol hasta que la mayorÃ­a de las costras se desprendan.}
+{325}{}{Ha resultado bastante bien, creo. La armadura Phoenix se implantÃ³ bastante mÃ¡s pulcramente de lo que
+ habÃ­a pensado que lo harÃ­a. Esa sensaciÃ³n de ardor y picazÃ³n probablemente desaparecerÃ¡ en pocas semanas... en cuanto tus
+ entraÃ±as se hayan acostumbrado a las fibras.}
+{326}{}{Hemos recobrado la consciencia, Â¿eh? Ya estÃ¡s simplemente repleto de disipadores termales y membranas disipadoras. No parecerÃ¡s tan hinchado en unas semanas, pero tampoco vas a ganar ningÃºn concurso de belleza. Intenta no rascarte las costras purulentas de las incisiones de drenaje hasta que dejen de supurar.}
+{327}{}{Gracias por el consejo, Doc. Esto es genial. Oye, dÃ©jame preguntarte algo mÃ¡s.}
+{328}{}{Gracias por el trabajito, Doc. SerÃ¡ mejor que me ponga en marcha. AdiÃ³s.}
+{329}{}{Entregar el Jet antÃ­doto a Doc Johnson.}

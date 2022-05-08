@@ -1,11 +1,11 @@
 {100}{}{Ves a un monje.}
 {101}{}{Ves a una santa.}
-{102}{}{Ves a un monje ordinario de Abadía.}
-{103}{}{Ves a una monja regular de la Abadía.}
+{102}{}{Ves a un monje ordinario de AbadÃ­a.}
+{103}{}{Ves a una monja regular de la AbadÃ­a.}
 {200}{}{Saludos.}
-{201}{}{Bienvenida a la Abadía.}
-{202}{}{Deberías hablar con nuestro líder si quieres algo información.}
-{203}{}{Buenas días... ¿o es de noche ya?}
+{201}{}{Bienvenida a la AbadÃ­a.}
+{202}{}{DeberÃ­as hablar con nuestro lÃ­der si quieres algo informaciÃ³n.}
+{203}{}{Buenas dÃ­as... Â¿o es de noche ya?}
 {204}{}{Hay tanto trabajo que debe ser hecho.}
-{205}{}{La vida aquí en la Abadía es pacífica. Algo raro en este miserable Yermo.}
-{500}{}{¡Para eso!}
+{205}{}{La vida aquÃ­ en la AbadÃ­a es pacÃ­fica. Algo raro en este miserable Yermo.}
+{500}{}{Â¡Para eso!}

@@ -1,141 +1,141 @@
-{100}{}{Spotykasz rzezimieszków i wilki.}
-{101}{}{Spotykasz rzezimieszków.}
+{100}{}{Spotykasz rzezimieszkÃ³w i wilki.}
+{101}{}{Spotykasz rzezimieszkÃ³w.}
 {102}{}{Spotykasz wilki.}
 {103}{}{Spotykasz skorpiony.}
-{104}{}{Spotykasz drapie¿ne roœliny.}
-{105}{}{Spotykasz Patrol Jednoœci walcz¹cy z rzezimieszkami.}
-{106}{}{Spotykasz Patrol Jednoœci walcz¹cy z wilkami.}
-{107}{}{Spotykasz Patrol Jednoœci.}
-{150}{}{Spotykasz ³owców niewolników z psami.}
-{151}{}{Spotykasz ³owców niewolników.}
-{152}{}{Spotykasz z³ociste gekony.}
+{104}{}{Spotykasz drapieÅ¼ne roÅ›liny.}
+{105}{}{Spotykasz Patrol JednoÅ›ci walczÄ…cy z rzezimieszkami.}
+{106}{}{Spotykasz Patrol JednoÅ›ci walczÄ…cy z wilkami.}
+{107}{}{Spotykasz Patrol JednoÅ›ci.}
+{150}{}{Spotykasz Å‚owcÃ³w niewolnikÃ³w z psami.}
+{151}{}{Spotykasz Å‚owcÃ³w niewolnikÃ³w.}
+{152}{}{Spotykasz zÅ‚ociste gekony.}
 {153}{}{Spotykasz dzikie psy.}
-{154}{}{Spotykasz patrol z psami walcz¹cy z ³owcami niewolników.}
-{155}{}{Spotykasz ³owców niewolników walcz¹cy ze z³ocistymi gekonami.}
-{156}{}{Spotykasz patrol walcz¹cy z ³owcami niewolników.}
-{157}{}{Spotykasz patrol walcz¹cy ze z³ocistymi gekonami.}
-{158}{}{Spotykasz patrol walcz¹cy z dzikimi psami.}
+{154}{}{Spotykasz patrol z psami walczÄ…cy z Å‚owcami niewolnikÃ³w.}
+{155}{}{Spotykasz Å‚owcÃ³w niewolnikÃ³w walczÄ…cy ze zÅ‚ocistymi gekonami.}
+{156}{}{Spotykasz patrol walczÄ…cy z Å‚owcami niewolnikÃ³w.}
+{157}{}{Spotykasz patrol walczÄ…cy ze zÅ‚ocistymi gekonami.}
+{158}{}{Spotykasz patrol walczÄ…cy z dzikimi psami.}
 {159}{}{Spotykasz patrol.}
-{200}{}{Wpadasz w zasadzkê najeŸdŸców.}
+{200}{}{Wpadasz w zasadzkÄ™ najeÅºdÅºcÃ³w.}
 {201}{}{Spotykasz wilki.}
-{202}{}{Spotykasz karawanê napadniêt¹ przez najeŸdŸców.}
-{203}{}{Spotykasz karawanê napadniêt¹ przez najeŸdŸców.}
-{204}{}{Spotykasz karawanê napadniêt¹ przez najeŸdŸców.}
-{205}{}{Spotykasz karawanê napadniêt¹ przez najeŸdŸców.}
-{206}{}{Spotykasz karawanê.}
-{207}{}{Spotykasz karawanê.}
-{208}{}{Spotykasz karawanê.}
-{209}{}{Spotykasz karawanê.}
-{250}{}{Spotykasz maruderów.}
+{202}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez najeÅºdÅºcÃ³w.}
+{203}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez najeÅºdÅºcÃ³w.}
+{204}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez najeÅºdÅºcÃ³w.}
+{205}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez najeÅºdÅºcÃ³w.}
+{206}{}{Spotykasz karawanÄ™.}
+{207}{}{Spotykasz karawanÄ™.}
+{208}{}{Spotykasz karawanÄ™.}
+{209}{}{Spotykasz karawanÄ™.}
+{250}{}{Spotykasz maruderÃ³w.}
 {251}{}{Spotykasz wilki.}
 {252}{}{Spotykasz skorpiony.}
-{253}{}{Spotykasz karawanê napadniêt¹ przez maruderów.}
-{254}{}{Spotykasz karawanê napadniêt¹ przez maruderów.}
-{255}{}{Spotykasz karawanê napadniêt¹ przez wilki.}
-{256}{}{Spotykasz karawanê napadniêt¹ przez skorpiony.}
-{257}{}{Spotykasz karawanê.}
-{258}{}{Spotykasz karawanê.}
-{259}{}{Spotykasz karawanê.}
-{260}{}{Spotykasz karawanê.}
-{261}{}{Spotykasz wêdrowca.}
-{300}{}{Spotykasz pozosta³oœci armii Mistrza.}
-{301}{}{Spotykasz maruderów.}
-{302}{}{Spotykasz Stra¿ników RNK walcz¹cych z pozosta³oœciami armii Mistrza.}
-{303}{}{Spotykasz Stra¿ników RNK walcz¹cych z maruderami.}
-{304}{}{Spotykasz farmerów napadniêtych przez pozosta³oœci armii Mistrza.}
-{305}{}{Spotykasz famerów napadniêtych przez maruderów.}
-{306}{}{Spotykasz Stra¿ników RNK.}
-{307}{}{Spotykasz farmerów.}
-{350}{}{Spotykasz karawanê ³owców niewolników.}
-{351}{}{Spotykasz piratów drogowych i bandytów.}
-{352}{}{Spotykasz piratów drogowych.}
-{353}{}{Spotykasz bandytów.}
-{354}{}{Spotykasz karawanê napadniêt¹ przez piratów drogowych.}
-{355}{}{Spotykasz karawanê walczaca z bandytami.}
-{356}{}{Spotykasz karawanê walczaca z piratami drogowymi.}
-{357}{}{Spotykasz karawanê oblê¿on¹ przez bandytów.}
-{358}{}{Spotykasz karawanê ³owców niewolników walcz¹c¹ z karawan¹.}
-{359}{}{Spotykasz rozbójników walcz¹cych z bandytami.}
-{360}{}{Spotykasz karawanê.}
-{361}{}{Spotykasz karawanê.}
-{400}{}{Spotykasz piratów drogowych.}
-{401}{}{Spotykasz bandytów.}
-{402}{}{Spotykasz bandytów i piratów drogowych.}
-{403}{}{Spotykasz z³ociste gekony i skorpiony.}
-{404}{}{Spotykasz z³ociste gekony.}
-{405}{}{Spotykasz kretoszczury i œwinioszczury.}
+{253}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez maruderÃ³w.}
+{254}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez maruderÃ³w.}
+{255}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez wilki.}
+{256}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez skorpiony.}
+{257}{}{Spotykasz karawanÄ™.}
+{258}{}{Spotykasz karawanÄ™.}
+{259}{}{Spotykasz karawanÄ™.}
+{260}{}{Spotykasz karawanÄ™.}
+{261}{}{Spotykasz wÄ™drowca.}
+{300}{}{Spotykasz pozostaÅ‚oÅ›ci armii Mistrza.}
+{301}{}{Spotykasz maruderÃ³w.}
+{302}{}{Spotykasz StraÅ¼nikÃ³w RNK walczÄ…cych z pozostaÅ‚oÅ›ciami armii Mistrza.}
+{303}{}{Spotykasz StraÅ¼nikÃ³w RNK walczÄ…cych z maruderami.}
+{304}{}{Spotykasz farmerÃ³w napadniÄ™tych przez pozostaÅ‚oÅ›ci armii Mistrza.}
+{305}{}{Spotykasz famerÃ³w napadniÄ™tych przez maruderÃ³w.}
+{306}{}{Spotykasz StraÅ¼nikÃ³w RNK.}
+{307}{}{Spotykasz farmerÃ³w.}
+{350}{}{Spotykasz karawanÄ™ Å‚owcÃ³w niewolnikÃ³w.}
+{351}{}{Spotykasz piratÃ³w drogowych i bandytÃ³w.}
+{352}{}{Spotykasz piratÃ³w drogowych.}
+{353}{}{Spotykasz bandytÃ³w.}
+{354}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez piratÃ³w drogowych.}
+{355}{}{Spotykasz karawanÄ™ walczaca z bandytami.}
+{356}{}{Spotykasz karawanÄ™ walczaca z piratami drogowymi.}
+{357}{}{Spotykasz karawanÄ™ oblÄ™Å¼onÄ… przez bandytÃ³w.}
+{358}{}{Spotykasz karawanÄ™ Å‚owcÃ³w niewolnikÃ³w walczÄ…cÄ… z karawanÄ….}
+{359}{}{Spotykasz rozbÃ³jnikÃ³w walczÄ…cych z bandytami.}
+{360}{}{Spotykasz karawanÄ™.}
+{361}{}{Spotykasz karawanÄ™.}
+{400}{}{Spotykasz piratÃ³w drogowych.}
+{401}{}{Spotykasz bandytÃ³w.}
+{402}{}{Spotykasz bandytÃ³w i piratÃ³w drogowych.}
+{403}{}{Spotykasz zÅ‚ociste gekony i skorpiony.}
+{404}{}{Spotykasz zÅ‚ociste gekony.}
+{405}{}{Spotykasz kretoszczury i Å›winioszczury.}
 {406}{}{Spotykasz skorpiony.}
-{407}{}{Spotykasz drapie¿ne roœliny.}
-{408}{}{Spotykasz bandytów walcz¹cych z piratami drogowymi.}
-{409}{}{Spotykasz karawanê napadniêt¹ przez piratów drogowych.}
-{410}{}{Spotykasz karawanê napadniêt¹ przez bandytów.}
-{411}{}{Spotykasz karawanê napadniêt¹ przez skorpiony.}
-{412}{}{Spotykasz gekony walcz¹ce ze skorpionami.}
-{413}{}{Spotykasz karawanê.}
-{450}{}{Spotykasz piratów drogowych i bandytów.}
-{451}{}{Spotykasz piratów drogowych i gekony.}
-{452}{}{Spotykasz z³ociste gekony.}
-{453}{}{Spotykasz skorpiony i drapie¿ne roœliny.}
-{454}{}{Spotykasz bandytów walcz¹cych ze skorpionami.}
-{455}{}{Spotykasz skorpiony walcz¹ce z bandytami.}
-{456}{}{Spotykasz karawanê napadniêt¹ przez piratów drogowych.}
-{457}{}{Spotykasz karawanê napadniêt¹ przez bandytów.}
-{458}{}{Spotykasz kilku piratów drogowych plewi¹cych drapie¿ne roœliny.}
-{459}{}{Spotykasz karawanê.}
-{500}{}{Spotykasz piratów drogowych i dzikie psy.}
-{501}{}{Spotykasz bandytów i dzikie psy.}
-{502}{}{Spotykasz bandytów.}
-{503}{}{Spotykasz piratów drogowych.}
-{504}{}{Spotykasz rój modliszek i kilka drapie¿nych roœlin.}
-{505}{}{Spotykasz psy i drapie¿ne roœliny.}
-{506}{}{Spotykasz rój modliszek.}
+{407}{}{Spotykasz drapieÅ¼ne roÅ›liny.}
+{408}{}{Spotykasz bandytÃ³w walczÄ…cych z piratami drogowymi.}
+{409}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez piratÃ³w drogowych.}
+{410}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez bandytÃ³w.}
+{411}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez skorpiony.}
+{412}{}{Spotykasz gekony walczÄ…ce ze skorpionami.}
+{413}{}{Spotykasz karawanÄ™.}
+{450}{}{Spotykasz piratÃ³w drogowych i bandytÃ³w.}
+{451}{}{Spotykasz piratÃ³w drogowych i gekony.}
+{452}{}{Spotykasz zÅ‚ociste gekony.}
+{453}{}{Spotykasz skorpiony i drapieÅ¼ne roÅ›liny.}
+{454}{}{Spotykasz bandytÃ³w walczÄ…cych ze skorpionami.}
+{455}{}{Spotykasz skorpiony walczÄ…ce z bandytami.}
+{456}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez piratÃ³w drogowych.}
+{457}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez bandytÃ³w.}
+{458}{}{Spotykasz kilku piratÃ³w drogowych plewiÄ…cych drapieÅ¼ne roÅ›liny.}
+{459}{}{Spotykasz karawanÄ™.}
+{500}{}{Spotykasz piratÃ³w drogowych i dzikie psy.}
+{501}{}{Spotykasz bandytÃ³w i dzikie psy.}
+{502}{}{Spotykasz bandytÃ³w.}
+{503}{}{Spotykasz piratÃ³w drogowych.}
+{504}{}{Spotykasz rÃ³j modliszek i kilka drapieÅ¼nych roÅ›lin.}
+{505}{}{Spotykasz psy i drapieÅ¼ne roÅ›liny.}
+{506}{}{Spotykasz rÃ³j modliszek.}
 {507}{}{Spotykasz dzikie psy.}
-{508}{}{Spotykasz bandytów walcz¹cych z psami.}
-{509}{}{Spotykasz karawanê napadniêt¹ przez psy.}
-{510}{}{Spotykasz karawanê napadniêt¹ przez bandytów.}
-{511}{}{Spotykasz karawanê napadniêt¹ przez piratów drogowych.}
-{512}{}{Spotykasz karawanê.}
+{508}{}{Spotykasz bandytÃ³w walczÄ…cych z psami.}
+{509}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez psy.}
+{510}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez bandytÃ³w.}
+{511}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez piratÃ³w drogowych.}
+{512}{}{Spotykasz karawanÄ™.}
 {550}{}{Spotykasz gekony i wilki.}
-{551}{}{Spotykasz rabusiów.}
+{551}{}{Spotykasz rabusiÃ³w.}
 {552}{}{Spotykasz wilki.}
-{553}{}{Spotykasz z³ociste gekony.}
-{554}{}{Spotykasz poszukiwaczy z³ota napadniêtych przez rabusiów.}
-{555}{}{Spotykasz traperów poluj¹cych na gekony.}
-{556}{}{Spotykasz trepów walcz¹cych z wilkami.}
-{557}{}{Spotykasz rolników walcz¹cych z rabusiami}
-{558}{}{Spotykasz rolników walcz¹cych z wilkami.}
-{559}{}{Spotykasz trepów.}
-{560}{}{Spotykasz traperów.}
-{561}{}{Spotykasz poszukiwaczy z³ota.}
-{600}{}{Spotykasz szpony œmierci.}
+{553}{}{Spotykasz zÅ‚ociste gekony.}
+{554}{}{Spotykasz poszukiwaczy zÅ‚ota napadniÄ™tych przez rabusiÃ³w.}
+{555}{}{Spotykasz traperÃ³w polujÄ…cych na gekony.}
+{556}{}{Spotykasz trepÃ³w walczÄ…cych z wilkami.}
+{557}{}{Spotykasz rolnikÃ³w walczÄ…cych z rabusiami}
+{558}{}{Spotykasz rolnikÃ³w walczÄ…cych z wilkami.}
+{559}{}{Spotykasz trepÃ³w.}
+{560}{}{Spotykasz traperÃ³w.}
+{561}{}{Spotykasz poszukiwaczy zÅ‚ota.}
+{600}{}{Spotykasz szpony Å›mierci.}
 {601}{}{Spotykasz ogniste gekony.}
-{602}{}{Spotykasz karawanê uciekaj¹c¹ przed szponami œmierci.}
-{603}{}{Spotykasz karawanê walcz¹c¹ ze szponami œmierci.}
-{604}{}{Spotykasz karawanê walcz¹c¹ z ognistymi gekonami.}
-{605}{}{Spotykasz karawanê walcz¹c¹ z ognistymi gekonami.}
-{606}{}{Spotykasz karawanê.}
-{607}{}{Spotykasz karawanê.}
-{608}{}{Spotykasz karawanê.}
-{609}{}{Spotykasz karawanê.}
-{650}{}{Spotykasz obcych i szpony œmierci.}
+{602}{}{Spotykasz karawanÄ™ uciekajÄ…cÄ… przed szponami Å›mierci.}
+{603}{}{Spotykasz karawanÄ™ walczÄ…cÄ… ze szponami Å›mierci.}
+{604}{}{Spotykasz karawanÄ™ walczÄ…cÄ… z ognistymi gekonami.}
+{605}{}{Spotykasz karawanÄ™ walczÄ…cÄ… z ognistymi gekonami.}
+{606}{}{Spotykasz karawanÄ™.}
+{607}{}{Spotykasz karawanÄ™.}
+{608}{}{Spotykasz karawanÄ™.}
+{609}{}{Spotykasz karawanÄ™.}
+{650}{}{Spotykasz obcych i szpony Å›mierci.}
 {651}{}{Spotykasz centaury i wisielce.}
 {652}{}{Spotykasz ogniste gekony.}
 {653}{}{Spotykasz obcych.}
-{654}{}{Spotykasz szpony œmierci.}
+{654}{}{Spotykasz szpony Å›mierci.}
 {655}{}{Spotykasz ogniste gekony.}
 {656}{}{Spotykasz obcych.}
 {657}{}{Spotykasz centaury.}
 {658}{}{Spotykasz wisielce.}
-{700}{}{Spotykasz kilku cz³onków Yakuzy.}
+{700}{}{Spotykasz kilku czÅ‚onkÃ³w Yakuzy.}
 {701}{}{Spotykasz gang.}
-{702}{}{Spotykasz kilka wilków.}
-{703}{}{Spotykasz kilku gangsterów walcz¹cych z kilkoma cz³onkami Yakuzy.}
-{704}{}{Spotykasz kilku gangsterów walcz¹cych z pomniejszym gangiem.}
-{705}{}{Spotykasz kilku gangsterów.}
-{706}{}{Spotykasz wêdrowca.}
-{750}{}{Spotykasz karawanê napadniêt¹ przez pozosta³oœci armii Mistrza.}
-{751}{}{Spotykasz karawanê walcz¹c¹ z pozosta³oœciami armii Mistrza.}
-{752}{}{Spotykasz karawanê walcz¹c¹ ze szponami œmierci.}
-{753}{}{Spotykasz karawanê.}
-{754}{}{Spotykasz karawanê.}
-{755}{}{Spotykasz karawanê.}
+{702}{}{Spotykasz kilka wilkÃ³w.}
+{703}{}{Spotykasz kilku gangsterÃ³w walczÄ…cych z kilkoma czÅ‚onkami Yakuzy.}
+{704}{}{Spotykasz kilku gangsterÃ³w walczÄ…cych z pomniejszym gangiem.}
+{705}{}{Spotykasz kilku gangsterÃ³w.}
+{706}{}{Spotykasz wÄ™drowca.}
+{750}{}{Spotykasz karawanÄ™ napadniÄ™tÄ… przez pozostaÅ‚oÅ›ci armii Mistrza.}
+{751}{}{Spotykasz karawanÄ™ walczÄ…cÄ… z pozostaÅ‚oÅ›ciami armii Mistrza.}
+{752}{}{Spotykasz karawanÄ™ walczÄ…cÄ… ze szponami Å›mierci.}
+{753}{}{Spotykasz karawanÄ™.}
+{754}{}{Spotykasz karawanÄ™.}
+{755}{}{Spotykasz karawanÄ™.}

@@ -42,7 +42,7 @@
 {203}{}{Non ho la piu' pallida idea di cosa ci debbano fare con questo pezzo. Io ho solo il compito di ritirarlo.}
 {210}{}{Me lo dovevo aspettare. Come diavolo ha fatto Skeeter a farsi dare l'autorizzazione per ritirare dell'attrezzatura? Spero che questa volta non faccia scoppiare nulla. Oh beh. Non sono affari miei, immagino.}
 {211}{}{Uh, e il pezzo? Adesso dovrei ritirarlo.}
-{220}{}{Beh, puoi fartene dare uno da Harold, giu' in citta', oppure puoi chiedere a Festus, che si trova nella stanza di controllo del reattore. Non mi interessa da chi te lo farai dare, basta che me lo porti. Niente modulo firmato, niente attrezzature -— e' cosi' che funziona.}
+{220}{}{Beh, puoi fartene dare uno da Harold, giu' in citta', oppure puoi chiedere a Festus, che si trova nella stanza di controllo del reattore. Non mi interessa da chi te lo farai dare, basta che me lo porti. Niente modulo firmato, niente attrezzature -â€” e' cosi' che funziona.}
 {221}{}{Ti sei fatto dare un modulo di richiesta? Devi avere un modulo prima che io ti possa dare dell'attrezzatura.}
 {222}{}{Oh, okay. Beh, faro' meglio a farmene dare uno, allora. Ci vediamo.}
 {300}{}{In realta', penso che me ne faro' dare uno piu' tardi. Ci vediamo.}

@@ -6,11 +6,11 @@
 {210}{}{I'm the Director of Operations for the EPA.}
 {211}{}{Oh, right. [You scratch your head] What does that actually mean?}
 {220}{}{[He chuckles uneasily.] Why, I coordinate things. Get the ball rolling. Now it's in your court. I like to bring out the best in people. Here at the EPA, that's what it's all about. Honestly. Integrity. Thank you, we value your opinion.}
-{221}{}{Mi a fenér?l beszélsz?}
+{221}{}{Mi a fenÃ©r?l beszÃ©lsz?}
 {230}{}{I assure you that we are working diligently to resolve all issues. We've had a bit of downsizing, but things are looking up. I feel confident that all quotas will be achieved in due time.}
 {231}{}{What quotas? You're not making any sense. Do you actually do anything here? Can you help me, or not?}
 {240}{}{That all depends on your outlook. My hands are tied on this matter, but I'd be delighted to assist you if you could.}
-{241}{}{Felejtse el! Üdv!}
+{241}{}{Felejtse el! Ãœdv!}
 {242}{}{I'm sorry I couldn't be of further assistance.}
 {243}{}{Thank you for your time.}
 {244}{}{I don't want to comment.}

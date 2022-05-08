@@ -1,47 +1,47 @@
-{100}{}{Egy embert látsz, aki egy szép, nagy fegyvert szorongat a kezében.}
-{101}{}{A Broken Hillsi keresked? és ?rz? testület egyik tagját látod.}
-{102}{}{Egy embert látsz, akit az út pora borít. Szép nagy fegyvert tart a kezében.}
-{103}{}{Én mondom, még egy csapat útonálló, és legközelebb dinamitot is viszek magammal!}
-{104}{}{Hasznát látnánk egy kis segítségnek a karavánoknál.}
-{105}{}{Haver... az "Összefogás" ?rjárat kezd nagyon, nagyon kiöregedni.}
-{106}{}{Szóval akkor jött az a törzsbéli, mire én... ööö, hagyjuk.}
-{107}{}{Még egy "Szivárvány ?rjárat" seggség, és valakit biztosan kinyírok!}
-{108}{}{Ha az útonálók bekeményítenek, jöv?re mind meghalunk, az tuti.}
-{109}{}{Milyen faluból jössz?}
-{110}{}{Nem vennél egy kis piát egy dolgozó embernek?}
-{111}{}{Túlságosan kifáraszt a karavánmunka, hogy még beszélgessek is.}
-{112}{}{Ha kell valami, beszélj Billel, a karavánok szervez?jével!}
-{113}{}{Talán ennyi id? után, amit a puszta civilizálásával töltöttünk, közelebb kerültünk a célunkhoz.}
-{114}{}{Elegem van ebb?l az ember-mutáns veszekedésb?l. Nem éppen nekünk kellene példát mutatnunk?}
-{115}{}{Mit akarsz? Nem látod, hogy pihenek?}
-{116}{}{Mikor indul a következ? karaván?}
-{117}{}{Jár?rözni, jár?rözni, jár?rözni... mindig ugyanaz a meló.}
-{118}{}{Kezdek álmos lenni.}
-{119}{}{Fizetésemelést követelek! Ez veszélyes munkakör.}
-{200}{}{Segíthetek?}
-{201}{}{Igen, a karavánmestert keresem.}
-{202}{}{Chadról szeretnék kérdezni pár dolgot.}
+{100}{}{Egy embert lÃ¡tsz, aki egy szÃ©p, nagy fegyvert szorongat a kezÃ©ben.}
+{101}{}{A Broken Hillsi keresked? Ã©s ?rz? testÃ¼let egyik tagjÃ¡t lÃ¡tod.}
+{102}{}{Egy embert lÃ¡tsz, akit az Ãºt pora borÃ­t. SzÃ©p nagy fegyvert tart a kezÃ©ben.}
+{103}{}{Ã‰n mondom, mÃ©g egy csapat ÃºtonÃ¡llÃ³, Ã©s legkÃ¶zelebb dinamitot is viszek magammal!}
+{104}{}{HasznÃ¡t lÃ¡tnÃ¡nk egy kis segÃ­tsÃ©gnek a karavÃ¡noknÃ¡l.}
+{105}{}{Haver... az "Ã–sszefogÃ¡s" ?rjÃ¡rat kezd nagyon, nagyon kiÃ¶regedni.}
+{106}{}{SzÃ³val akkor jÃ¶tt az a tÃ¶rzsbÃ©li, mire Ã©n... Ã¶Ã¶Ã¶, hagyjuk.}
+{107}{}{MÃ©g egy "SzivÃ¡rvÃ¡ny ?rjÃ¡rat" seggsÃ©g, Ã©s valakit biztosan kinyÃ­rok!}
+{108}{}{Ha az ÃºtonÃ¡lÃ³k bekemÃ©nyÃ­tenek, jÃ¶v?re mind meghalunk, az tuti.}
+{109}{}{Milyen falubÃ³l jÃ¶ssz?}
+{110}{}{Nem vennÃ©l egy kis piÃ¡t egy dolgozÃ³ embernek?}
+{111}{}{TÃºlsÃ¡gosan kifÃ¡raszt a karavÃ¡nmunka, hogy mÃ©g beszÃ©lgessek is.}
+{112}{}{Ha kell valami, beszÃ©lj Billel, a karavÃ¡nok szervez?jÃ©vel!}
+{113}{}{TalÃ¡n ennyi id? utÃ¡n, amit a puszta civilizÃ¡lÃ¡sÃ¡val tÃ¶ltÃ¶ttÃ¼nk, kÃ¶zelebb kerÃ¼ltÃ¼nk a cÃ©lunkhoz.}
+{114}{}{Elegem van ebb?l az ember-mutÃ¡ns veszekedÃ©sb?l. Nem Ã©ppen nekÃ¼nk kellene pÃ©ldÃ¡t mutatnunk?}
+{115}{}{Mit akarsz? Nem lÃ¡tod, hogy pihenek?}
+{116}{}{Mikor indul a kÃ¶vetkez? karavÃ¡n?}
+{117}{}{JÃ¡r?rÃ¶zni, jÃ¡r?rÃ¶zni, jÃ¡r?rÃ¶zni... mindig ugyanaz a melÃ³.}
+{118}{}{Kezdek Ã¡lmos lenni.}
+{119}{}{FizetÃ©semelÃ©st kÃ¶vetelek! Ez veszÃ©lyes munkakÃ¶r.}
+{200}{}{SegÃ­thetek?}
+{201}{}{Igen, a karavÃ¡nmestert keresem.}
+{202}{}{ChadrÃ³l szeretnÃ©k kÃ©rdezni pÃ¡r dolgot.}
 {203}{}{Ki vagy te?}
-{204}{}{Nem, kösz.}
+{204}{}{Nem, kÃ¶sz.}
 {205}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He is inside that building over there.}
-{206}{}{Lenne még kérdésem.}
-{207}{}{Kösz. Viszlát!}
-{208}{}{Talán tudok válaszolni. Mit akarsz tudni?}
+{206}{}{Lenne mÃ©g kÃ©rdÃ©sem.}
+{207}{}{KÃ¶sz. ViszlÃ¡t!}
+{208}{}{TalÃ¡n tudok vÃ¡laszolni. Mit akarsz tudni?}
 {209}{}{Milyen ember?}
-{210}{}{Megbízható?}
-{211}{}{Honnan szerzi a pénzt?}
-{212}{}{Milyen a múltja?}
-{213}{}{Hagyjuk. Viszlát kés?bb!}
-{214}{}{Hogy én? }
-{215}{}{. Bill karavánjait kísérem. Más kérdés?}
-{216}{}{Hogy milyen ember? Hát, barátságos, de kemény. Jó vezet?, és általában rendesen bánik velünk Nem durvul velünk, meg ilyesmi, ha arra vagy kiváncsi. Van még kérdés?}
-{217}{}{Hát, egy kicsit gyanús, szerintem... de mindenki az manapság. Van még kérdésed?}
-{218}{}{Nekem mindig úgy t?nt, hogy egyszer?en van nála - és nem kevés. Ez nem az a fajta kérdés, amit csak úgy feltesz az ember valakinek, tudod. Egyéb kérdés?}
-{219}{}{Semmit nem tudok a múltjáról. Mi mind más városból jöttünk, hogy munkát szerezzünk itt, mint karavánkísér?. Gondolom, neki is siet?sen el kellett hagynia egy másik helyet, és így került ide. Egyéb kérdés?}
+{210}{}{MegbÃ­zhatÃ³?}
+{211}{}{Honnan szerzi a pÃ©nzt?}
+{212}{}{Milyen a mÃºltja?}
+{213}{}{Hagyjuk. ViszlÃ¡t kÃ©s?bb!}
+{214}{}{Hogy Ã©n? }
+{215}{}{. Bill karavÃ¡njait kÃ­sÃ©rem. MÃ¡s kÃ©rdÃ©s?}
+{216}{}{Hogy milyen ember? HÃ¡t, barÃ¡tsÃ¡gos, de kemÃ©ny. JÃ³ vezet?, Ã©s Ã¡ltalÃ¡ban rendesen bÃ¡nik velÃ¼nk Nem durvul velÃ¼nk, meg ilyesmi, ha arra vagy kivÃ¡ncsi. Van mÃ©g kÃ©rdÃ©s?}
+{217}{}{HÃ¡t, egy kicsit gyanÃºs, szerintem... de mindenki az manapsÃ¡g. Van mÃ©g kÃ©rdÃ©sed?}
+{218}{}{Nekem mindig Ãºgy t?nt, hogy egyszer?en van nÃ¡la - Ã©s nem kevÃ©s. Ez nem az a fajta kÃ©rdÃ©s, amit csak Ãºgy feltesz az ember valakinek, tudod. EgyÃ©b kÃ©rdÃ©s?}
+{219}{}{Semmit nem tudok a mÃºltjÃ¡rÃ³l. Mi mind mÃ¡s vÃ¡rosbÃ³l jÃ¶ttÃ¼nk, hogy munkÃ¡t szerezzÃ¼nk itt, mint karavÃ¡nkÃ­sÃ©r?. Gondolom, neki is siet?sen el kellett hagynia egy mÃ¡sik helyet, Ã©s Ã­gy kerÃ¼lt ide. EgyÃ©b kÃ©rdÃ©s?}
 {220}{}{Igen.}
 {221}{}{Nem.}
-{222}{}{Rendben. Lássuk csak!}
-{223}{}{Viszlát!}
+{222}{}{Rendben. LÃ¡ssuk csak!}
+{223}{}{ViszlÃ¡t!}
 {300}{}{Hatch}
 {301}{}{Stark}
 {302}{}{Darin}
@@ -71,5 +71,5 @@
 {412}{}{Julie}
 {413}{}{Sarah}
 {450}{}{? }
-{451}{}{, a karavánkísér?.}
+{451}{}{, a karavÃ¡nkÃ­sÃ©r?.}
 {2050}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He's the one wearing a hat, right over there.}

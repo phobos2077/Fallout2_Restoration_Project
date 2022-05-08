@@ -1,1 +1,1 @@
-{100}{}{Est·s una vez m·s en el poblado que te viÛ nacer, Arroyo.}
+{100}{}{Est√°s una vez m√°s en el poblado que te vi√≥ nacer, Arroyo.}

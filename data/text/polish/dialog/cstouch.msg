@@ -1,27 +1,27 @@
-{170}{}{Zrêcznie otwierasz zamek w drzwiach..}
-{171}{}{Twój brak umiejêtnoœci spowodowa³ zaciêcie siê zamka w tych drzwiach.}
-{172}{}{Nie udaje ci siê otworzyæ zamka w tych drzwiach.}
-{173}{}{ zrêcznie otwiera zamek w drzwiach.}
-{174}{}{ zacina zamek, z powodu braku umiejêtnoœci.}
+{170}{}{ZrÄ™cznie otwierasz zamek w drzwiach..}
+{171}{}{TwÃ³j brak umiejÄ™tnoÅ›ci spowodowaÅ‚ zaciÄ™cie siÄ™ zamka w tych drzwiach.}
+{172}{}{Nie udaje ci siÄ™ otworzyÄ‡ zamka w tych drzwiach.}
+{173}{}{ zrÄ™cznie otwiera zamek w drzwiach.}
+{174}{}{ zacina zamek, z powodu braku umiejÄ™tnoÅ›ci.}
 {175}{}{ zawodzi przy otwieraniu zamka.}
-{176}{}{Wy³amujesz zamek z drzwi.}
-{177}{}{Nadwerê¿asz siê próbuj¹c wy³amaæ zamek i odnosisz jeden punkt obra¿eñ.}
-{178}{}{Nadwerê¿asz siê próbuj¹c wy³amaæ zamek i odnosisz }
-{179}{}{ punktów obra¿eñ.}
-{180}{}{Brakuje ci si³, ¿eby wy³amaæ ten zamek.}
-{181}{}{ wy³amuje zamek z drzwi.}
-{182}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek z drzwi i odnosi jeden punkt obra¿eñ.}
-{183}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek i odnosi }
-{184}{}{ punktów obra¿eñ.}
-{185}{}{ nie ma doœæ si³ by wy³amaæ zamek.}
-{186}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek z drzwi i odnosi jeden punkt obra¿eñ.}
-{187}{}{ nadwerê¿a siê próbuj¹c wy³amaæ zamek i odnosi }
-{188}{}{ punktów obra¿eñ.}
-{189}{}{Zrêcznie zamykasz drzwi.}
-{190}{}{Nie udaje ci siê zamkn¹æ drzwi.}
-{191}{}{ zrêcznie zamyka drzwi.}
+{176}{}{WyÅ‚amujesz zamek z drzwi.}
+{177}{}{NadwerÄ™Å¼asz siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosisz jeden punkt obraÅ¼eÅ„.}
+{178}{}{NadwerÄ™Å¼asz siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosisz }
+{179}{}{ punktÃ³w obraÅ¼eÅ„.}
+{180}{}{Brakuje ci siÅ‚, Å¼eby wyÅ‚amaÄ‡ ten zamek.}
+{181}{}{ wyÅ‚amuje zamek z drzwi.}
+{182}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek z drzwi i odnosi jeden punkt obraÅ¼eÅ„.}
+{183}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosi }
+{184}{}{ punktÃ³w obraÅ¼eÅ„.}
+{185}{}{ nie ma doÅ›Ä‡ siÅ‚ by wyÅ‚amaÄ‡ zamek.}
+{186}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek z drzwi i odnosi jeden punkt obraÅ¼eÅ„.}
+{187}{}{ nadwerÄ™Å¼a siÄ™ prÃ³bujÄ…c wyÅ‚amaÄ‡ zamek i odnosi }
+{188}{}{ punktÃ³w obraÅ¼eÅ„.}
+{189}{}{ZrÄ™cznie zamykasz drzwi.}
+{190}{}{Nie udaje ci siÄ™ zamknÄ…Ä‡ drzwi.}
+{191}{}{ zrÄ™cznie zamyka drzwi.}
 {192}{}{ zawodzi przy zamykaniu drzwi.}
-{203}{}{Szafka wydaje siê byæ zamkniêta.}
+{203}{}{Szafka wydaje siÄ™ byÄ‡ zamkniÄ™ta.}
 {800}{}{Znajdujesz klucz.}
 {810}{}{Znajdujesz plany.}
-{820}{}{Uda³o ci siê zdobyæ motywator K-9.}
+{820}{}{UdaÅ‚o ci siÄ™ zdobyÄ‡ motywator K-9.}

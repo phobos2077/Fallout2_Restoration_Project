@@ -1,104 +1,104 @@
-{100}{}{Nem nehéz megállapítani, hogy a zöld haja és a haragos tekintete ellenére is ? a bár tulajdonosa.}
+{100}{}{Nem nehÃ©z megÃ¡llapÃ­tani, hogy a zÃ¶ld haja Ã©s a haragos tekintete ellenÃ©re is ? a bÃ¡r tulajdonosa.}
 {101}{}{That's Mira. She mixes a mean Rad-A-Waster.}
-{102}{}{Ez a n? fiatal és vonzó, de látszik a szemén, hogy nem egy ijed?s fajta. Ez, és a nyakába akasztott szöges bokszer jó bizonyíték erre.}
-{103}{}{Mirának hívnak. Mit szeretnél, idegen?}
-{104}{}{Üdv! Mivel szolgálhatok?}
+{102}{}{Ez a n? fiatal Ã©s vonzÃ³, de lÃ¡tszik a szemÃ©n, hogy nem egy ijed?s fajta. Ez, Ã©s a nyakÃ¡ba akasztott szÃ¶ges bokszer jÃ³ bizonyÃ­tÃ©k erre.}
+{103}{}{MirÃ¡nak hÃ­vnak. Mit szeretnÃ©l, idegen?}
+{104}{}{Ãœdv! Mivel szolgÃ¡lhatok?}
 {105}{}{Ital!}
-{106}{}{13-as Menedék?}
-{107}{}{ÉLET?}
-{108}{}{Tök mindegy. Adj a ház specialitásából!}
+{106}{}{13-as MenedÃ©k?}
+{107}{}{Ã‰LET?}
+{108}{}{TÃ¶k mindegy. Adj a hÃ¡z specialitÃ¡sÃ¡bÃ³l!}
 {109}{}{Gimme a beer.}
-{110}{}{Információ kell!}
-{111}{}{Munkát keresek.}
-{112}{}{Nézzenek oda, ki nem jött hozzánk! Pont ilyennek szeretem ?ket.}
-{113}{}{Újra nálunk?}
+{110}{}{InformÃ¡ciÃ³ kell!}
+{111}{}{MunkÃ¡t keresek.}
+{112}{}{NÃ©zzenek oda, ki nem jÃ¶tt hozzÃ¡nk! Pont ilyennek szeretem ?ket.}
+{113}{}{Ãšjra nÃ¡lunk?}
 {114}{}{Unka.}
 {115}{}{Whoa - ya just worked Lenny. Impressive! Have a drink on the house.}
-{116}{}{Amit Lennyvel csináltál... nagyon aljas volt!}
-{117}{}{Jó ég, a beszéd nagymestere. Mit akarnál? Jöhet egy Rad-A-Waster? Csak tíz dolcsi.}
+{116}{}{Amit Lennyvel csinÃ¡ltÃ¡l... nagyon aljas volt!}
+{117}{}{JÃ³ Ã©g, a beszÃ©d nagymestere. Mit akarnÃ¡l? JÃ¶het egy Rad-A-Waster? Csak tÃ­z dolcsi.}
 {118}{}{Igen.}
 {119}{}{Nem.}
-{120}{}{Vásárolsz piát? 10 dollár.}
+{120}{}{VÃ¡sÃ¡rolsz piÃ¡t? 10 dollÃ¡r.}
 {121}{}{Igen.}
 {122}{}{Nem.}
-{123}{}{Egy Rad-A-Waster rendel! 10 dollár lesz.}
-{124}{}{Oké.}
-{125}{}{Tíz dolcsi? Ez túl sok nekem.}
+{123}{}{Egy Rad-A-Waster rendel! 10 dollÃ¡r lesz.}
+{124}{}{OkÃ©.}
+{125}{}{TÃ­z dolcsi? Ez tÃºl sok nekem.}
 {126}{}{Hogyne, egy dolcsi lesz.}
-{127}{}{Oké.}
-{128}{}{Túl sok ez nekem.}
-{129}{}{Próbálkozz Merknél a hátsó szobában!}
-{130}{}{Nincs itt semmi a számodra, idegen!}
-{131}{}{Ami azt illeti... köszi.}
-{132}{}{Szóval ennyi, idegen?}
-{133}{}{13-as Menedék?}
-{134}{}{ÉLET?}
-{135}{}{Van egy kis id?d néhány kérdésre?}
-{136}{}{Én menni, pápá.}
+{127}{}{OkÃ©.}
+{128}{}{TÃºl sok ez nekem.}
+{129}{}{PrÃ³bÃ¡lkozz MerknÃ©l a hÃ¡tsÃ³ szobÃ¡ban!}
+{130}{}{Nincs itt semmi a szÃ¡modra, idegen!}
+{131}{}{Ami azt illeti... kÃ¶szi.}
+{132}{}{SzÃ³val ennyi, idegen?}
+{133}{}{13-as MenedÃ©k?}
+{134}{}{Ã‰LET?}
+{135}{}{Van egy kis id?d nÃ©hÃ¡ny kÃ©rdÃ©sre?}
+{136}{}{Ã‰n menni, pÃ¡pÃ¡.}
 {137}{}{Ennyi.}
-{138}{}{T?nés innen, csóringer!}
-{139}{}{Persze, hogy van id?m. Erre valók a csaposok. Aztán semmi hátsó gondolat...}
-{140}{}{Számodra, bébi, mindig van id?m. Mit szeretnél?}
+{138}{}{T?nÃ©s innen, csÃ³ringer!}
+{139}{}{Persze, hogy van id?m. Erre valÃ³k a csaposok. AztÃ¡n semmi hÃ¡tsÃ³ gondolat...}
+{140}{}{SzÃ¡modra, bÃ©bi, mindig van id?m. Mit szeretnÃ©l?}
 {141}{}{Hogyne.}
-{142}{}{Mesélj valamit err?l a városról!}
-{143}{}{Hallottál valaha a 13-as Menedékr?l?}
-{144}{}{Egy ÉLET nev? dolgot keresek. Tudsz valamit róla?}
-{145}{}{Mire mehetek ezzel a Merk nev? fickóval?}
-{146}{}{Van egy zsaru a városban, aki elég durva dolgokat mondogat rólad. Mi ez az egész?}
-{147}{}{Hát, akkor most a távozás mezejére lépnék...}
-{148}{}{Ez itt az ÚKK. Régen Shady Sands volt, de a Mester legy?zését követ?en Aradesh és a társai megalapították az Új Kalifornia Köztársaságot. Most az ÚKK a határváros. Innent?l délre mindent az ÚKK tart felügyelete alatt.}
-{149}{}{Adok egy tanácsot. Ne sok vizet zavarj a városban! A hatóságok nem nagyon vannak oda a mi fajtánkért, ha érted, mire gondolok. A Polgárokat több jog illeti, mint téged.}
-{150}{}{Nézd, ennél többet nem akarok err?l mondani.}
+{142}{}{MesÃ©lj valamit err?l a vÃ¡rosrÃ³l!}
+{143}{}{HallottÃ¡l valaha a 13-as MenedÃ©kr?l?}
+{144}{}{Egy Ã‰LET nev? dolgot keresek. Tudsz valamit rÃ³la?}
+{145}{}{Mire mehetek ezzel a Merk nev? fickÃ³val?}
+{146}{}{Van egy zsaru a vÃ¡rosban, aki elÃ©g durva dolgokat mondogat rÃ³lad. Mi ez az egÃ©sz?}
+{147}{}{HÃ¡t, akkor most a tÃ¡vozÃ¡s mezejÃ©re lÃ©pnÃ©k...}
+{148}{}{Ez itt az ÃšKK. RÃ©gen Shady Sands volt, de a Mester legy?zÃ©sÃ©t kÃ¶vet?en Aradesh Ã©s a tÃ¡rsai megalapÃ­tottÃ¡k az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡got. Most az ÃšKK a hatÃ¡rvÃ¡ros. Innent?l dÃ©lre mindent az ÃšKK tart felÃ¼gyelete alatt.}
+{149}{}{Adok egy tanÃ¡csot. Ne sok vizet zavarj a vÃ¡rosban! A hatÃ³sÃ¡gok nem nagyon vannak oda a mi fajtÃ¡nkÃ©rt, ha Ã©rted, mire gondolok. A PolgÃ¡rokat tÃ¶bb jog illeti, mint tÃ©ged.}
+{150}{}{NÃ©zd, ennÃ©l tÃ¶bbet nem akarok err?l mondani.}
 {151}{}{Hmm.}
-{152}{}{Lenne még néhány kérdésem...}
-{153}{}{Hát, köszönöm. észben tartom majd.}
-{154}{}{Na, egy újabb gyakomata elveszett kincsek után kutat? Meg kén' keresned Sóshús Bobot a Westin Farmon. Mindig ilyesmikr?l jár a szája. Persze lehet, hogy meg kell egy kicsit nedvesítened a torkát.}
-{155}{}{Sóshús? Menek.}
-{156}{}{Lenne még néhány kérdésem...}
-{157}{}{Hát, köszönöm. észben tartom majd.}
-{158}{}{Te elmondod, hogy kell összemixelni, én megcsinálom.}
-{159}{}{Nem pia. ÉLET az... ÉLET.}
-{160}{}{Ez nem egy ital, hanem az Édenkert Létrehozást El?segít? Táska.}
-{161}{}{Lenne még néhány kérdésem...}
-{162}{}{Hát, köszönöm. észben tartom majd.}
-{163}{}{Nagyszer? fickó. A f?nököm. Mit kéne mondanom róla?}
-{164}{}{Lenne még néhány kérdésem...}
-{165}{}{Hát, köszönöm. észben tartom majd.}
-{166}{}{Az egy mocsok... Zajos válásuk volt, ez minden.}
-{167}{}{Mit szólnál hozzá, ha most valami másról beszélnénk?}
+{152}{}{Lenne mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{153}{}{HÃ¡t, kÃ¶szÃ¶nÃ¶m. Ã©szben tartom majd.}
+{154}{}{Na, egy Ãºjabb gyakomata elveszett kincsek utÃ¡n kutat? Meg kÃ©n' keresned SÃ³shÃºs Bobot a Westin Farmon. Mindig ilyesmikr?l jÃ¡r a szÃ¡ja. Persze lehet, hogy meg kell egy kicsit nedvesÃ­tened a torkÃ¡t.}
+{155}{}{SÃ³shÃºs? Menek.}
+{156}{}{Lenne mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{157}{}{HÃ¡t, kÃ¶szÃ¶nÃ¶m. Ã©szben tartom majd.}
+{158}{}{Te elmondod, hogy kell Ã¶sszemixelni, Ã©n megcsinÃ¡lom.}
+{159}{}{Nem pia. Ã‰LET az... Ã‰LET.}
+{160}{}{Ez nem egy ital, hanem az Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡ska.}
+{161}{}{Lenne mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{162}{}{HÃ¡t, kÃ¶szÃ¶nÃ¶m. Ã©szben tartom majd.}
+{163}{}{Nagyszer? fickÃ³. A f?nÃ¶kÃ¶m. Mit kÃ©ne mondanom rÃ³la?}
+{164}{}{Lenne mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{165}{}{HÃ¡t, kÃ¶szÃ¶nÃ¶m. Ã©szben tartom majd.}
+{166}{}{Az egy mocsok... Zajos vÃ¡lÃ¡suk volt, ez minden.}
+{167}{}{Mit szÃ³lnÃ¡l hozzÃ¡, ha most valami mÃ¡srÃ³l beszÃ©lnÃ©nk?}
 {168}{}{Most asszem, mennem kell...}
-{169}{}{Óh, igazán nagyon informatív. Próbálkozz Dr. Henrynél, de most sok dolgom van, Dumbó!}
-{170}{}{Édenkert Létrehozást El?segít? Táska? Valami technikai cucc lesz. Próbálkozz Dorothynál, a város mérnökénél! }
-{171}{}{Lenne még néhány kérdésem...}
-{172}{}{Hát, köszönöm. észben tartom majd.}
-{173}{}{Hmm... munka? Dolgozni akarsz? Segítesz Mirának?}
+{169}{}{Ã“h, igazÃ¡n nagyon informatÃ­v. PrÃ³bÃ¡lkozz Dr. HenrynÃ©l, de most sok dolgom van, DumbÃ³!}
+{170}{}{Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡ska? Valami technikai cucc lesz. PrÃ³bÃ¡lkozz DorothynÃ¡l, a vÃ¡ros mÃ©rnÃ¶kÃ©nÃ©l! }
+{171}{}{Lenne mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{172}{}{HÃ¡t, kÃ¶szÃ¶nÃ¶m. Ã©szben tartom majd.}
+{173}{}{Hmm... munka? Dolgozni akarsz? SegÃ­tesz MirÃ¡nak?}
 {174}{}{Igen.}
 {175}{}{Nem.}
-{176}{}{Figyelj: rossz ember bántja Mirát. Rossz ember neve Jack. Bántsd a rossz embert! Mira szeret téged, ad neked szép fegyvert. Jó?}
+{176}{}{Figyelj: rossz ember bÃ¡ntja MirÃ¡t. Rossz ember neve Jack. BÃ¡ntsd a rossz embert! Mira szeret tÃ©ged, ad neked szÃ©p fegyvert. JÃ³?}
 {177}{}{Igen.}
 {178}{}{Nem.}
-{179}{}{Remek! Mirának van kötele a falon. Menj éjszaka! Találd meg a kötelet! Osonj be! Menj a nagy területre a falon! Találd meg Jacket! Bántsd ?t! Mira ad fegyvert!}
-{180}{}{Menj éjszaka! Találd meg a kötelet! Osonj be! Menj a nagy területre a falon! Találd meg Jacket! Bántsd ?t! Mira ad fegyvert! Most eredj! Nem láthatnak veled. Nem jó. Segíts Mirának és gyere vissza! Érted?}
-{181}{}{Mira hallotta, hogy Jacknek baja lett. Jó munka, Dumbó. Itt a fegyver, fogd! Kösz.}
-{182}{}{Menjél te a francba! Soha nem lesz nyugtom attól a rohadéktól.}
-{183}{}{Merkkel kéne beszélned, de most nincs itt. Gyere vissza éjszaka. Akkor szokott itt lenni.}
-{184}{}{Nem tudom, mit csináltál Lennyvel, de én nem lófrálnék itt a helyedben. Ett?l nemigen leszel népszer?.}
-{185}{}{Hé, én figyelmeztettelek! Szépen vagyunk...}
-{186}{}{Te vagy Mira, ugye? Egy zsaru mondott ezt-azt rólad.}
+{179}{}{Remek! MirÃ¡nak van kÃ¶tele a falon. Menj Ã©jszaka! TalÃ¡ld meg a kÃ¶telet! Osonj be! Menj a nagy terÃ¼letre a falon! TalÃ¡ld meg Jacket! BÃ¡ntsd ?t! Mira ad fegyvert!}
+{180}{}{Menj Ã©jszaka! TalÃ¡ld meg a kÃ¶telet! Osonj be! Menj a nagy terÃ¼letre a falon! TalÃ¡ld meg Jacket! BÃ¡ntsd ?t! Mira ad fegyvert! Most eredj! Nem lÃ¡thatnak veled. Nem jÃ³. SegÃ­ts MirÃ¡nak Ã©s gyere vissza! Ã‰rted?}
+{181}{}{Mira hallotta, hogy Jacknek baja lett. JÃ³ munka, DumbÃ³. Itt a fegyver, fogd! KÃ¶sz.}
+{182}{}{MenjÃ©l te a francba! Soha nem lesz nyugtom attÃ³l a rohadÃ©ktÃ³l.}
+{183}{}{Merkkel kÃ©ne beszÃ©lned, de most nincs itt. Gyere vissza Ã©jszaka. Akkor szokott itt lenni.}
+{184}{}{Nem tudom, mit csinÃ¡ltÃ¡l Lennyvel, de Ã©n nem lÃ³frÃ¡lnÃ©k itt a helyedben. Ett?l nemigen leszel nÃ©pszer?.}
+{185}{}{HÃ©, Ã©n figyelmeztettelek! SzÃ©pen vagyunk...}
+{186}{}{Te vagy Mira, ugye? Egy zsaru mondott ezt-azt rÃ³lad.}
 {187}{}{Te Mira? Rossz Jack mongya dolgok.}
-{188}{}{Az a mocsokláda Jack? Mit mondott már megint?}
+{188}{}{Az a mocsoklÃ¡da Jack? Mit mondott mÃ¡r megint?}
 {189}{}{Jack halni megfele. Bumm!}
-{190}{}{Én megöl. Aztat a rossz ember.}
-{191}{}{Én nem aggodalmaskodnék miatta. Meghalt. Felrobbant az er?m?ben.}
-{192}{}{Nem sokat. Megöltem.}
-{193}{}{Te viccelsz? Ez a mai nap legjobb híre! Remélem, jól mutat az agya a falon. Az az átkozott pszichopata megérdemelte! Igyál egy Rad-a-Waster-t az egészségemre!}
-{194}{}{Én teccik.}
-{195}{}{Én menni mostan.}
-{196}{}{Azt hiszem, mondhatjuk azt, hogy: Köszönöm. Volna id?d egy-két kérdésre?}
-{197}{}{Köszi. Gondoltam, nem árt, ha tudod.}
+{190}{}{Ã‰n megÃ¶l. Aztat a rossz ember.}
+{191}{}{Ã‰n nem aggodalmaskodnÃ©k miatta. Meghalt. Felrobbant az er?m?ben.}
+{192}{}{Nem sokat. MegÃ¶ltem.}
+{193}{}{Te viccelsz? Ez a mai nap legjobb hÃ­re! RemÃ©lem, jÃ³l mutat az agya a falon. Az az Ã¡tkozott pszichopata megÃ©rdemelte! IgyÃ¡l egy Rad-a-Waster-t az egÃ©szsÃ©gemre!}
+{194}{}{Ã‰n teccik.}
+{195}{}{Ã‰n menni mostan.}
+{196}{}{Azt hiszem, mondhatjuk azt, hogy: KÃ¶szÃ¶nÃ¶m. Volna id?d egy-kÃ©t kÃ©rdÃ©sre?}
+{197}{}{KÃ¶szi. Gondoltam, nem Ã¡rt, ha tudod.}
 {198}{}{You did what? Oh, if I wasn't on duty, I'd climb over this bar and... well, kiss you. The little prick deserved it. In fact, don't tell anyone but I was hoping to get some stupid ox to do the job for me. Had a little reward all set aside. It's yours now - as far as I'm concerned you earned it.}
-{199}{}{Azt hiszem, mondhatjuk azt, hogy: Köszönöm. Volna id?d egy-két kérdésre?}
-{200}{}{Köszi. Gondoltam, nem árt, ha tudod.}
-{201}{}{Dumbó, a legboldogabb n?t csináltad most bel?lem! Van itt egy kis ajándékom a számodra, a pult mögött. Az egész a tied.}
-{202}{}{Én szeresse Mira.}
-{203}{}{Én szeresse fegyver. Menek elfele, pápá.}
+{199}{}{Azt hiszem, mondhatjuk azt, hogy: KÃ¶szÃ¶nÃ¶m. Volna id?d egy-kÃ©t kÃ©rdÃ©sre?}
+{200}{}{KÃ¶szi. Gondoltam, nem Ã¡rt, ha tudod.}
+{201}{}{DumbÃ³, a legboldogabb n?t csinÃ¡ltad most bel?lem! Van itt egy kis ajÃ¡ndÃ©kom a szÃ¡modra, a pult mÃ¶gÃ¶tt. Az egÃ©sz a tied.}
+{202}{}{Ã‰n szeresse Mira.}
+{203}{}{Ã‰n szeresse fegyver. Menek elfele, pÃ¡pÃ¡.}

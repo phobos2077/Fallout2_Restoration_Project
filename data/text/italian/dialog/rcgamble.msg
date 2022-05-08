@@ -23,7 +23,7 @@
 {122}{}{Yeah, puoi scommeterci.}
 {123}{}{Fallo ballare.}
 {124}{}{La prossima volta raddoppiero'.}
-{125}{}{Vai baby, vai baby…}
+{125}{}{Vai baby, vai babyâ€¦}
 {126}{}{Posso dire addio alla mia casa.}
 {127}{}{Posso dire addio alla mia terra.}
 {128}{}{Ho bisogno solo di un po' piu' di credito.}

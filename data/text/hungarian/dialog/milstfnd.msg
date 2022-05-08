@@ -1,2 +1,2 @@
-{100}{}{A láda oldalára ez van írva: "Talált tárgyak"}
-{110}{}{A láda oldalára ez van írva: "Talált tárgyak"}
+{100}{}{A lÃ¡da oldalÃ¡ra ez van Ã­rva: "TalÃ¡lt tÃ¡rgyak"}
+{110}{}{A lÃ¡da oldalÃ¡ra ez van Ã­rva: "TalÃ¡lt tÃ¡rgyak"}

@@ -1,47 +1,47 @@
-{100}{}{Widzisz niskiego, ¿wawego d¿entelmena.}
-{101}{}{Widzisz Mickyego, poszukiwacza skarbów.}
-{102}{}{Ten bardzo niski cz³owiek wygl¹da przyjacielsko i odwa¿nie. Jego spojrzenie przeszukuje otoczenie, jakby szukaj¹c œwiec¹cych przedmiotów.}
-{103}{}{Witaj, przyjazna duszo! Nie wpad³y ci gdzieœ tu w oko jakieœ klejnoty, albo wartoœciowe metale?}
-{104}{}{Kolejny ju¿ raz zaszczycasz mnie swoj¹ obecnoœci¹. Czy le¿¹ tu gdzieœ jakieœ ukryte skarby, o których dobrze by³oby wiedzieæ?}
-{105}{}{A wiêc szukasz jakichœ kosztownoœci? Jestem w tym najlepszy z najlepszych!}
+{100}{}{Widzisz niskiego, Å¼wawego dÅ¼entelmena.}
+{101}{}{Widzisz Mickyego, poszukiwacza skarbÃ³w.}
+{102}{}{Ten bardzo niski czÅ‚owiek wyglÄ…da przyjacielsko i odwaÅ¼nie. Jego spojrzenie przeszukuje otoczenie, jakby szukajÄ…c Å›wiecÄ…cych przedmiotÃ³w.}
+{103}{}{Witaj, przyjazna duszo! Nie wpadÅ‚y ci gdzieÅ› tu w oko jakieÅ› klejnoty, albo wartoÅ›ciowe metale?}
+{104}{}{Kolejny juÅ¼ raz zaszczycasz mnie swojÄ… obecnoÅ›ciÄ…. Czy leÅ¼Ä… tu gdzieÅ› jakieÅ› ukryte skarby, o ktÃ³rych dobrze byÅ‚oby wiedzieÄ‡?}
+{105}{}{A wiÄ™c szukasz jakichÅ› kosztownoÅ›ci? Jestem w tym najlepszy z najlepszych!}
 {106}{}{Nie skaaaarby dziiisiaj.}
-{107}{}{Ta. Moja chcieæ pomóc.}
+{107}{}{Ta. Moja chcieÄ‡ pomÃ³c.}
 {108}{}{Kto twoja?}
 {109}{}{Bywaj.}
-{110}{}{Nie, nie dzisiaj. Je¿eli jednak natrafiê na jakieœ, natychmiast ciê o nich powiadomiê.}
-{111}{}{No có¿, owszem. S¹dzê, ¿e jesteœ doskona³ym partnerem do, nazwijmy to, "joint venture".}
-{112}{}{Jak siê nazywasz?}
-{113}{}{Niewa¿ne.}
-{114}{}{Ja? Jestem Micky, szarmancki i uroczy poszukiwacz skarbów z Broken Hills.}
+{110}{}{Nie, nie dzisiaj. JeÅ¼eli jednak natrafiÄ™ na jakieÅ›, natychmiast ciÄ™ o nich powiadomiÄ™.}
+{111}{}{No cÃ³Å¼, owszem. SÄ…dzÄ™, Å¼e jesteÅ› doskonaÅ‚ym partnerem do, nazwijmy to, "joint venture".}
+{112}{}{Jak siÄ™ nazywasz?}
+{113}{}{NiewaÅ¼ne.}
+{114}{}{Ja? Jestem Micky, szarmancki i uroczy poszukiwacz skarbÃ³w z Broken Hills.}
 {115}{}{Possssszukiwacz?}
 {116}{}{Pa pa.}
-{117}{}{Poszukiwacz skarbów?}
-{118}{}{Jak mi³o. Uszanowanie.}
-{119}{}{Nie mów, ¿e nie znasz mojego imienia! Nigdy nie opowiadano ci historii o Szybkim Mickym? O potyczkach strzeleckich, pojedynkach bokserskich i z³owrogich grabie¿ach?}
+{117}{}{Poszukiwacz skarbÃ³w?}
+{118}{}{Jak miÅ‚o. Uszanowanie.}
+{119}{}{Nie mÃ³w, Å¼e nie znasz mojego imienia! Nigdy nie opowiadano ci historii o Szybkim Mickym? O potyczkach strzeleckich, pojedynkach bokserskich i zÅ‚owrogich grabieÅ¼ach?}
 {120}{}{Nie.}
-{121}{}{Obawiam siê, ¿e nie dane mi by³o o tym us³yszeæ.}
-{122}{}{Có¿, du¿o tracisz, przyjazna duszo. Któregoœ dnia bêdê ci musia³ to wszystko opowiedzieæ w najkrwawszych szczegó³ach.}
+{121}{}{Obawiam siÄ™, Å¼e nie dane mi byÅ‚o o tym usÅ‚yszeÄ‡.}
+{122}{}{CÃ³Å¼, duÅ¼o tracisz, przyjazna duszo. KtÃ³regoÅ› dnia bÄ™dÄ™ ci musiaÅ‚ to wszystko opowiedzieÄ‡ w najkrwawszych szczegÃ³Å‚ach.}
 {123}{}{Doobreee.}
-{124}{}{Bêdê czekaæ z zapartym tchem.}
-{125}{}{No có¿. Chyba nie powinienem siê temu dziwiæ. Rynek pracy dla poszukiwaczy skarbów w ostatnich latach bardzo siê skurczy³. Ta ca³a œmieræ, g³ód i walka o przetrwanie przyt³umi³y w ludziach chêæ przygody. Je¿eli jednak coœ wyp³ynie, pamiêtaj o mnie.}
+{124}{}{BÄ™dÄ™ czekaÄ‡ z zapartym tchem.}
+{125}{}{No cÃ³Å¼. Chyba nie powinienem siÄ™ temu dziwiÄ‡. Rynek pracy dla poszukiwaczy skarbÃ³w w ostatnich latach bardzo siÄ™ skurczyÅ‚. Ta caÅ‚a Å›mierÄ‡, gÅ‚Ã³d i walka o przetrwanie przytÅ‚umiÅ‚y w ludziach chÄ™Ä‡ przygody. JeÅ¼eli jednak coÅ› wypÅ‚ynie, pamiÄ™taj o mnie.}
 {126}{}{Oki-doki.}
-{127}{}{Bêdziesz pierwszy na mojej liœcie.}
-{128}{}{Naprawdê?! To wspaniale! Co to bêdzie? Z³oto? Klejnoty? Œwiête artefakty?}
-{129}{}{Du¿a szmal.}
-{130}{}{Newa¿na.}
-{131}{}{Wygl¹da na to, ¿e du¿o pieniêdzy. Wystarczaj¹co, aby ¿yæ wygodnie przez d³ugi czas.}
-{132}{}{Có¿, chyba jeszcze trochê popracujê nad tym samodzielnie.}
-{133}{}{Super! To jest w³aœnie prze³om, na który czeka³em. Co powiesz na 50/50, partnerze?}
+{127}{}{BÄ™dziesz pierwszy na mojej liÅ›cie.}
+{128}{}{NaprawdÄ™?! To wspaniale! Co to bÄ™dzie? ZÅ‚oto? Klejnoty? ÅšwiÄ™te artefakty?}
+{129}{}{DuÅ¼a szmal.}
+{130}{}{NewaÅ¼na.}
+{131}{}{WyglÄ…da na to, Å¼e duÅ¼o pieniÄ™dzy. WystarczajÄ…co, aby Å¼yÄ‡ wygodnie przez dÅ‚ugi czas.}
+{132}{}{CÃ³Å¼, chyba jeszcze trochÄ™ popracujÄ™ nad tym samodzielnie.}
+{133}{}{Super! To jest wÅ‚aÅ›nie przeÅ‚om, na ktÃ³ry czekaÅ‚em. Co powiesz na 50/50, partnerze?}
 {134}{}{Ta!}
 {135}{}{Ni. Pa.}
 {136}{}{Ach, jasne.}
-{137}{}{Z drugiej strony sprawdzê, czy nie zdobêdê tego samodzielnie. Na razie.}
-{138}{}{Wspaniale! Jak to by³o? Gdzie s¹ ci Ÿli? Co mam robiæ?}
-{139}{}{Twoja ze mn¹! Iœæ ciemna miejsce.}
-{140}{}{Powiedzmy, ¿e spêdzisz trochê czasu w miejscowych "jaskiniach".}
-{141}{}{Fajowo! Po prostu poka¿ mi odpowiedni kierunek!}
-{142}{}{Gdzie skarba? Œrodka miasto?}
-{143}{}{Có¿, nie mam pewnoœci. Powiedziano mi, ¿e mogê znaleŸæ skarb gdzieœ tutaj.}
-{144}{}{Co? W centrum? Ha! Ktokolwiek ci to powiedzia³ albo k³amie, albo jest szalony. Poza kilkoma zapad³ymi melinami w Broken Hills by³em ju¿ wszêdzie i nic nie znalaz³em. Tak naprawdê to myœlê o ruszeniu dalej.}
+{137}{}{Z drugiej strony sprawdzÄ™, czy nie zdobÄ™dÄ™ tego samodzielnie. Na razie.}
+{138}{}{Wspaniale! Jak to byÅ‚o? Gdzie sÄ… ci Åºli? Co mam robiÄ‡?}
+{139}{}{Twoja ze mnÄ…! IÅ›Ä‡ ciemna miejsce.}
+{140}{}{Powiedzmy, Å¼e spÄ™dzisz trochÄ™ czasu w miejscowych "jaskiniach".}
+{141}{}{Fajowo! Po prostu pokaÅ¼ mi odpowiedni kierunek!}
+{142}{}{Gdzie skarba? Åšrodka miasto?}
+{143}{}{CÃ³Å¼, nie mam pewnoÅ›ci. Powiedziano mi, Å¼e mogÄ™ znaleÅºÄ‡ skarb gdzieÅ› tutaj.}
+{144}{}{Co? W centrum? Ha! Ktokolwiek ci to powiedziaÅ‚ albo kÅ‚amie, albo jest szalony. Poza kilkoma zapadÅ‚ymi melinami w Broken Hills byÅ‚em juÅ¼ wszÄ™dzie i nic nie znalazÅ‚em. Tak naprawdÄ™ to myÅ›lÄ™ o ruszeniu dalej.}
 {145}{}{Szkooooda. Pa pa.}
-{146}{}{Wielka szkoda. Jakieœ wskazówki bardzo by mi siê przyda³y. Có¿, do zobaczenia.}
+{146}{}{Wielka szkoda. JakieÅ› wskazÃ³wki bardzo by mi siÄ™ przydaÅ‚y. CÃ³Å¼, do zobaczenia.}

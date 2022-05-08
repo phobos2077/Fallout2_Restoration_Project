@@ -1,1 +1,1 @@
-{100}{}{On dirait qu'il y a eu une bataille ici assez récemment. Les corps semblent avoir été réduits en miettes.}
+{100}{}{On dirait qu'il y a eu une bataille ici assez rÃ©cemment. Les corps semblent avoir Ã©tÃ© rÃ©duits en miettes.}

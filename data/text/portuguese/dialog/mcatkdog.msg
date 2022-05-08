@@ -1,14 +1,14 @@
-{100}{}{Você vê um cão de guarda.}
-{101}{}{Você vê um cão selvagem.}
-{120}{}{Você vê um cão de guarda.}
-{121}{}{Você vê um cão selvagem.}
+{100}{}{VocÃª vÃª um cÃ£o de guarda.}
+{101}{}{VocÃª vÃª um cÃ£o selvagem.}
+{120}{}{VocÃª vÃª um cÃ£o de guarda.}
+{121}{}{VocÃª vÃª um cÃ£o selvagem.}
 {200}{}{:: GROWL ::}
 {201}{}{:: SNARL ::}
 {202}{}{:: ROOF ::}
 {205}{}{Woof}
 {206}{}{Woof woof}
-{210}{}{Os cães parecem ser treinados para proteger o que esta dentro do galpão.}
-{211}{}{Doggy não gosta de mim.}
-{212}{}{Bom cãozinho!}
-{250}{}{Este cão parece que poderia realmente rasgar-te se ele precisasse.}
-{300}{}{Você matou todos os cães que atacam os brahmin.}
+{210}{}{Os cÃ£es parecem ser treinados para proteger o que esta dentro do galpÃ£o.}
+{211}{}{Doggy nÃ£o gosta de mim.}
+{212}{}{Bom cÃ£ozinho!}
+{250}{}{Este cÃ£o parece que poderia realmente rasgar-te se ele precisasse.}
+{300}{}{VocÃª matou todos os cÃ£es que atacam os brahmin.}

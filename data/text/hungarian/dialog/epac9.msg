@@ -2,19 +2,19 @@
 {101}{}{You see Mr. Chemmie!}
 {102}{}{A large crafting computer for drugs.}
 {200}{}{Hello user! I'm the pharmacist of the future, Mr. Chemmie! How can I help you?!}
-{201}{}{Mi a munk·d?}
+{201}{}{Mi a munk√°d?}
 {210}{}{I make drugs! All kinds of drugs! When life gets you down, Mr. Chemmie is here to pick you up! How does Mr. Chemmie work?! It's simple! All you need is some scientific know-how and the right ingredients, then leave the rest up to me! Go on! Give me a try! And kids, remember to ask Mommy or Daddy for permission before playing with Mr. Chemmie!}
 {211}{}{Alright, I'll give this a try.}
-{212}{}{Tal·n kÈs?bb.}
+{212}{}{Tal√°n k√©s?bb.}
 {220}{}{Alright! Let's make drugs! What do you wish to create?!}
 {221}{}{Stimpakk}
 {222}{}{Szuper Stimpakk}
-{223}{}{MÈreg}
+{223}{}{M√©reg}
 {224}{}{Poison Antidote}
-{225}{}{Els?segÈly csomag}
-{226}{}{Orvosi t·ska}
+{225}{}{Els?seg√©ly csomag}
+{226}{}{Orvosi t√°ska}
 {227}{}{Buffout}
-{228}{}{Ment·t}
+{228}{}{Ment√°t}
 {229}{}{Pszicho}
 {230}{}{Great choice! To make a Stimpak, please feed me: one Broc Flower, one Xander Root and one Empty Hypodermic needle! Yum-yum!}
 {231}{}{Make a stimpak.}
@@ -26,7 +26,7 @@
 {251}{}{Make a Psycho.}
 {260}{}{Great choice! To make some Mentats, please feed me: one First Aid Kit, one piece of Fruit, and one bottle of Booze! Yum-yum!}
 {262}{}{Make some Mentats.}
-{263}{}{KilÈpÈs}
+{263}{}{Kil√©p√©s}
 {270}{}{Great choice! To make a Doctor's Bag, please feed me: one Stimpak, one First Aid Kit, one Empty Hypodermic needle and one Poison Antidote! Yum-yum!}
 {272}{}{Make a Doctor's Bag.}
 {280}{}{Great choice! To make a First Aid Kit, please feed me: one Stimpak, one Empty Hypodermic needle, one Poison Antidote and one Rad Away! Yum-yum!}
@@ -48,7 +48,7 @@
 {344}{}{Environmental Rejection Syndrome Inhibitors.}
 {350}{}{This is your lucky day! I have enough chemicals in my storage tanks to make these! Would you like Mr. Chemmie to make them for you?!}
 {351}{}{Create.}
-{352}{}{VisszatÈrÈs a F?men¸be.}
+{352}{}{Visszat√©r√©s a F?men√ºbe.}
 {360}{}{Uh-oh! Sorry, but I no longer have the chemicals needed to create these!}
 {370}{}{Selection created! That was fun! Please collect the item from the machine! Thank you for using Mr. Chemmie! Let's make drugs again sometime!}
 {371}{}{More Options.}
@@ -59,4 +59,4 @@
 {383}{}{Semmit}
 {390}{}{This is your lucky day! I have just enough chemicals in my storage tanks to make one batch of ERSIs! Would you like Mr. Chemmie to make them for you?!}
 {391}{}{Create.}
-{392}{}{KilÈpÈs.}
+{392}{}{Kil√©p√©s.}

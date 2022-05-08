@@ -1,5 +1,5 @@
-{100}{}{Widzisz mê¿czyznê w pancerzu bojowym.}
-{101}{}{Widzisz kobietê w pancerzu bojowym.}
-{102}{}{Ten mê¿czyzna nosi odznakê Stra¿nika RNK.}
-{103}{}{Ta kobieta nosi odznakê Stra¿nika RNK.}
-{200}{}{Dziêkuje za twoj¹ pomoc Stra¿niku. Wróæ do RNK i z³ó¿ raport, zanieœ mieszkañcom dobr¹ wiadomoœæ.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ w pancerzu bojowym.}
+{101}{}{Widzisz kobietÄ™ w pancerzu bojowym.}
+{102}{}{Ten mÄ™Å¼czyzna nosi odznakÄ™ StraÅ¼nika RNK.}
+{103}{}{Ta kobieta nosi odznakÄ™ StraÅ¼nika RNK.}
+{200}{}{DziÄ™kuje za twojÄ… pomoc StraÅ¼niku. WrÃ³Ä‡ do RNK i zÅ‚Ã³Å¼ raport, zanieÅ› mieszkaÅ„com dobrÄ… wiadomoÅ›Ä‡.}

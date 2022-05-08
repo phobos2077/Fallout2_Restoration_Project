@@ -1,1 +1,1 @@
-{100}{}{Has entrado en las afueras del asentamiento amurallado de la Nueva República de California.}
+{100}{}{Has entrado en las afueras del asentamiento amurallado de la Nueva RepÃºblica de California.}

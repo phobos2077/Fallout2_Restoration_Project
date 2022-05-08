@@ -1,8 +1,8 @@
-{100}{}{Widzisz wiêŸnia.}
-{101}{}{Widzisz uwiêzionego obywatela.}
-{102}{}{Lynette lepiej nie pyskowaæ.}
-{103}{}{Trzeba swoje odsiedzieæ, nie?}
-{104}{}{Dobrze, ¿e nie chc¹ mi odebraæ obywatelstwa.}
-{105}{}{Moore *ostrzega³*, ¿e mnie z³api¹...}
-{106}{}{Jestem tu dla mojego w³asnego dobra.}
-{107}{}{Wyci¹gnê wnioski z tej przykrej lekcji.}
+{100}{}{Widzisz wiÄ™Åºnia.}
+{101}{}{Widzisz uwiÄ™zionego obywatela.}
+{102}{}{Lynette lepiej nie pyskowaÄ‡.}
+{103}{}{Trzeba swoje odsiedzieÄ‡, nie?}
+{104}{}{Dobrze, Å¼e nie chcÄ… mi odebraÄ‡ obywatelstwa.}
+{105}{}{Moore *ostrzegaÅ‚*, Å¼e mnie zÅ‚apiÄ…...}
+{106}{}{Jestem tu dla mojego wÅ‚asnego dobra.}
+{107}{}{WyciÄ…gnÄ™ wnioski z tej przykrej lekcji.}

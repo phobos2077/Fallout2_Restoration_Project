@@ -1,97 +1,97 @@
-{100}{}{Egy kicsi, ideges embert látsz.}
-{101}{}{Bird alelnök.}
-{102}{}{Egy kicsi, ideges embert látsz, kajafoltos ruhában.}
-{103}{}{Áh, íme az egyik vitéz katonánk. Mit csinál itt az alelnök irodájában?}
-{104}{}{Üdv, katona! Mit csinál itt az alelnök irodájában?}
-{105}{}{Ismer?snek t?nik. Nem beszéltünk már korábban? Na, sebaj! Mit csinál itt az alelnök irodájában?}
-{106}{}{A Minek az irodájában?}
-{107}{}{Öhm, csak rutinellen?rzés, uram.}
-{108}{}{Behatolókat keresek.}
-{109}{}{Csak azért jöttem, hogy duplán ellen?rizzem a titkos terveinket.}
-{110}{}{Azért vagyok itt, hogy megöljem.}
-{111}{}{Menjen csak a dolgára katona, menjen csak! Ön és a mi legényeink nagyszer? munkát végeznek! Felkészültünk minden véletlen eseményre, akár bekövetkezik, akár nem.}
-{112}{}{Nahát...}
-{113}{}{Öhm, igen. Nos, megyek, jobb, ha befejezem az ?rjáratot.}
-{114}{}{Öhm, mondja csak, hogy bet?zzük a "krumpli"-t? Q-val, vagy anélkül?}
-{115}{}{Öhm, mondja csak, hogy bet?zzük a "finom"-at? O-val vagy anélkül?}
-{116}{}{Öhm, mondja csak, hogy bet?zzük a "Kalifornia állam"-ot? K-val vagy anélkül?}
-{117}{}{Öhm, mondja csak, hogy bet?zzük a "paradicsom"-ot? Q-val, vagy anélkül?}
-{118}{}{Öhm, mondja csak, hogy bet?zzük azt a szót, hogy "Pszicho"? H-val vagy anélkül?}
-{119}{}{Ööö, azzal.}
-{120}{}{Nélküle, természetesen.}
-{121}{}{Persze, persze. Az Egyesült Államok bármely h?séges polgára is ezt tenné.}
+{100}{}{Egy kicsi, ideges embert lÃ¡tsz.}
+{101}{}{Bird alelnÃ¶k.}
+{102}{}{Egy kicsi, ideges embert lÃ¡tsz, kajafoltos ruhÃ¡ban.}
+{103}{}{Ãh, Ã­me az egyik vitÃ©z katonÃ¡nk. Mit csinÃ¡l itt az alelnÃ¶k irodÃ¡jÃ¡ban?}
+{104}{}{Ãœdv, katona! Mit csinÃ¡l itt az alelnÃ¶k irodÃ¡jÃ¡ban?}
+{105}{}{Ismer?snek t?nik. Nem beszÃ©ltÃ¼nk mÃ¡r korÃ¡bban? Na, sebaj! Mit csinÃ¡l itt az alelnÃ¶k irodÃ¡jÃ¡ban?}
+{106}{}{A Minek az irodÃ¡jÃ¡ban?}
+{107}{}{Ã–hm, csak rutinellen?rzÃ©s, uram.}
+{108}{}{BehatolÃ³kat keresek.}
+{109}{}{Csak azÃ©rt jÃ¶ttem, hogy duplÃ¡n ellen?rizzem a titkos terveinket.}
+{110}{}{AzÃ©rt vagyok itt, hogy megÃ¶ljem.}
+{111}{}{Menjen csak a dolgÃ¡ra katona, menjen csak! Ã–n Ã©s a mi legÃ©nyeink nagyszer? munkÃ¡t vÃ©geznek! FelkÃ©szÃ¼ltÃ¼nk minden vÃ©letlen esemÃ©nyre, akÃ¡r bekÃ¶vetkezik, akÃ¡r nem.}
+{112}{}{NahÃ¡t...}
+{113}{}{Ã–hm, igen. Nos, megyek, jobb, ha befejezem az ?rjÃ¡ratot.}
+{114}{}{Ã–hm, mondja csak, hogy bet?zzÃ¼k a "krumpli"-t? Q-val, vagy anÃ©lkÃ¼l?}
+{115}{}{Ã–hm, mondja csak, hogy bet?zzÃ¼k a "finom"-at? O-val vagy anÃ©lkÃ¼l?}
+{116}{}{Ã–hm, mondja csak, hogy bet?zzÃ¼k a "Kalifornia Ã¡llam"-ot? K-val vagy anÃ©lkÃ¼l?}
+{117}{}{Ã–hm, mondja csak, hogy bet?zzÃ¼k a "paradicsom"-ot? Q-val, vagy anÃ©lkÃ¼l?}
+{118}{}{Ã–hm, mondja csak, hogy bet?zzÃ¼k azt a szÃ³t, hogy "Pszicho"? H-val vagy anÃ©lkÃ¼l?}
+{119}{}{Ã–Ã¶Ã¶, azzal.}
+{120}{}{NÃ©lkÃ¼le, termÃ©szetesen.}
+{121}{}{Persze, persze. Az EgyesÃ¼lt Ãllamok bÃ¡rmely h?sÃ©ges polgÃ¡ra is ezt tennÃ©.}
 {122}{}{Hogyhogy?}
-{123}{}{Dolgom van. Most pedig viszlát!}
-{124}{}{Menjen csak a dolgára, katona! Holnap már egy szebb jöv?t írunk.}
+{123}{}{Dolgom van. Most pedig viszlÃ¡t!}
+{124}{}{Menjen csak a dolgÃ¡ra, katona! Holnap mÃ¡r egy szebb jÃ¶v?t Ã­runk.}
 {125}{}{Merthogy?}
-{126}{}{Kiirtok minden fontoskodó naplopót az Enklávéból, és maga a következ?.}
-{127}{}{Öhm, igen. Mindenesetre, viszlát!}
-{128}{}{Együtt kell dolgoznunk, mert ha nem érjük el a célunkat, növeljük a bukás kockázatát.}
-{129}{}{Talán a maga hibája nem is jön majd olyan rosszul.}
+{126}{}{Kiirtok minden fontoskodÃ³ naplopÃ³t az EnklÃ¡vÃ©bÃ³l, Ã©s maga a kÃ¶vetkez?.}
+{127}{}{Ã–hm, igen. Mindenesetre, viszlÃ¡t!}
+{128}{}{EgyÃ¼tt kell dolgoznunk, mert ha nem Ã©rjÃ¼k el a cÃ©lunkat, nÃ¶veljÃ¼k a bukÃ¡s kockÃ¡zatÃ¡t.}
+{129}{}{TalÃ¡n a maga hibÃ¡ja nem is jÃ¶n majd olyan rosszul.}
 {130}{}{Na, jobb ha most megyek.}
-{131}{}{Nem megy el csak úgy innen!}
-{132}{}{Majd meglátjuk!}
-{133}{}{Aztán miért nem?}
-{134}{}{Van egy szó, amely találóan foglalja össze egy alelnök felel?sségét, és ez szó: "készülj fel mindenre".}
-{135}{}{És mire készül?}
-{136}{}{Ez nem három szó véletlenül? A felkészültség egy szó, nem arra gondolt?}
-{137}{}{Talán az a legjobb. Jegyezze meg, a b?beszéd?ség homályos, zavaros dolgokhoz vezet.}
-{138}{}{Képzelem.}
-{139}{}{Most el kell mennem, viszlát!}
-{140}{}{Úgy értem, mi nem egyszer?en holnapot akarunk, hanem el?re óhajtunk haladni.}
-{141}{}{Nem a holnap az egyetlen út?}
-{142}{}{Nem lehet elég el?vigyázatos. Nagyon régimódi emberek kerülhetnek nagyon érzékeny pozíciókba, ahonnan hatalmas befolyásuk lehet a történelemre.}
-{143}{}{Igen, ezt értem.}
-{144}{}{Milyen befolyást akar gyakorolni a történelemre?}
+{131}{}{Nem megy el csak Ãºgy innen!}
+{132}{}{Majd meglÃ¡tjuk!}
+{133}{}{AztÃ¡n miÃ©rt nem?}
+{134}{}{Van egy szÃ³, amely talÃ¡lÃ³an foglalja Ã¶ssze egy alelnÃ¶k felel?ssÃ©gÃ©t, Ã©s ez szÃ³: "kÃ©szÃ¼lj fel mindenre".}
+{135}{}{Ã‰s mire kÃ©szÃ¼l?}
+{136}{}{Ez nem hÃ¡rom szÃ³ vÃ©letlenÃ¼l? A felkÃ©szÃ¼ltsÃ©g egy szÃ³, nem arra gondolt?}
+{137}{}{TalÃ¡n az a legjobb. Jegyezze meg, a b?beszÃ©d?sÃ©g homÃ¡lyos, zavaros dolgokhoz vezet.}
+{138}{}{KÃ©pzelem.}
+{139}{}{Most el kell mennem, viszlÃ¡t!}
+{140}{}{Ãšgy Ã©rtem, mi nem egyszer?en holnapot akarunk, hanem el?re Ã³hajtunk haladni.}
+{141}{}{Nem a holnap az egyetlen Ãºt?}
+{142}{}{Nem lehet elÃ©g el?vigyÃ¡zatos. Nagyon rÃ©gimÃ³di emberek kerÃ¼lhetnek nagyon Ã©rzÃ©keny pozÃ­ciÃ³kba, ahonnan hatalmas befolyÃ¡suk lehet a tÃ¶rtÃ©nelemre.}
+{143}{}{Igen, ezt Ã©rtem.}
+{144}{}{Milyen befolyÃ¡st akar gyakorolni a tÃ¶rtÃ©nelemre?}
 {145}{}{Yes, I like that direction. I have made good judgments in the past. I have made good judgments in the future. So, by all means, let's go in that direction.}
-{146}{}{Öö, igen.}
-{147}{}{Úgy érzem, hogy az út megfordíthatatlanul visz egyenesen a szabadság és a demokrácia ?rülete felé, de ez még változhat.}
-{148}{}{A változatosság kedvéért a Pusztaság szennyezett környezetének hasznára válhatna egy kis szabadság.}
+{146}{}{Ã–Ã¶, igen.}
+{147}{}{Ãšgy Ã©rzem, hogy az Ãºt megfordÃ­thatatlanul visz egyenesen a szabadsÃ¡g Ã©s a demokrÃ¡cia ?rÃ¼lete felÃ©, de ez mÃ©g vÃ¡ltozhat.}
+{148}{}{A vÃ¡ltozatossÃ¡g kedvÃ©Ã©rt a PusztasÃ¡g szennyezett kÃ¶rnyezetÃ©nek hasznÃ¡ra vÃ¡lhatna egy kis szabadsÃ¡g.}
 {149}{}{I can't take it anymore. You've just got to be killed.}
-{150}{}{Ne legyen buta! Nem a szennyezés árt a környezetnek, hanem a vizünkben és a leveg?nkben lév? tisztátalanság!}
-{151}{}{Na, most már tényleg mennem kell!}
-{152}{}{Nem volna olyan nagylegény, ha most a szárazföldön lenne!}
-{153}{}{Ja, és még valami! Az Enklávé egy ember alkotta sziget az óceán közepén.}
-{154}{}{Azt hiszi, magát hidegen hagyhatják a történések? Hadd jegyezzem meg, hogy ugyanazon a rohadt bolygón vagyunk összezárva!}
-{155}{}{Nem felejtett ki valamit az állításból? Teszem azt, egy pontot?}
-{156}{}{Daniel Bird alelnök vagyok, mellesleg örvendek, hogy találkoztunk.}
-{157}{}{Maga a fennálló probléma egy újabb fejezete!}
-{158}{}{Magának elment az esze!}
-{159}{}{Semmiféle probléma újabb fejezete nem vagyok! Én republikánus vagyok.}
-{160}{}{Na, mondom én, hogy a probléma újabb fejezete...}
-{161}{}{Öhm... Nos, talán tudhatja, hogy már régóta úgy vélem, itt az ideje, hogy az emberi faj kilépjen a Naprendszerbe.}
+{150}{}{Ne legyen buta! Nem a szennyezÃ©s Ã¡rt a kÃ¶rnyezetnek, hanem a vizÃ¼nkben Ã©s a leveg?nkben lÃ©v? tisztÃ¡talansÃ¡g!}
+{151}{}{Na, most mÃ¡r tÃ©nyleg mennem kell!}
+{152}{}{Nem volna olyan nagylegÃ©ny, ha most a szÃ¡razfÃ¶ldÃ¶n lenne!}
+{153}{}{Ja, Ã©s mÃ©g valami! Az EnklÃ¡vÃ© egy ember alkotta sziget az Ã³ceÃ¡n kÃ¶zepÃ©n.}
+{154}{}{Azt hiszi, magÃ¡t hidegen hagyhatjÃ¡k a tÃ¶rtÃ©nÃ©sek? Hadd jegyezzem meg, hogy ugyanazon a rohadt bolygÃ³n vagyunk Ã¶sszezÃ¡rva!}
+{155}{}{Nem felejtett ki valamit az Ã¡llÃ­tÃ¡sbÃ³l? Teszem azt, egy pontot?}
+{156}{}{Daniel Bird alelnÃ¶k vagyok, mellesleg Ã¶rvendek, hogy talÃ¡lkoztunk.}
+{157}{}{Maga a fennÃ¡llÃ³ problÃ©ma egy Ãºjabb fejezete!}
+{158}{}{MagÃ¡nak elment az esze!}
+{159}{}{SemmifÃ©le problÃ©ma Ãºjabb fejezete nem vagyok! Ã‰n republikÃ¡nus vagyok.}
+{160}{}{Na, mondom Ã©n, hogy a problÃ©ma Ãºjabb fejezete...}
+{161}{}{Ã–hm... Nos, talÃ¡n tudhatja, hogy mÃ¡r rÃ©gÃ³ta Ãºgy vÃ©lem, itt az ideje, hogy az emberi faj kilÃ©pjen a Naprendszerbe.}
 {162}{}{Aren't we already in the... Uh, to go *where*?}
-{163}{}{Hogy tehetnénk ezt meg?}
-{164}{}{Szerintem a Mars egész jó lenne, szinte ugyanazon a pályán kering... A Mars nagyjából ugyanolyan távolságra van a Naptól, s ez nagyon fontos tényez?. Láttunk képeket vélhet?en csatornákról, melyekben víz van ugyebár. Ha víz van bennük, akkor van oxigén is. Ha van oxigén, akkor tudunk lélegezni.}
-{165}{}{Nem vártam ilyen "kimerít?" választ.}
-{166}{}{Magának elment a maradék csepp esze!}
-{167}{}{Milyen pazarlás is, ha valaki elveszti az eszét! Vagy másképpen, hülyének lenni pazarlás. Milyen igaz!}
-{168}{}{Inkább azt mondanám, hogy "általában". A maga esetében kivételt teszek.}
-{169}{}{Mi a frászt mondott?}
-{170}{}{Na, most már elég id?t szántam magára. Viszlát!}
-{171}{}{A NASA-nak még mindig az ?r az els?.}
-{172}{}{Értem, és hová mennénk akkor?}
-{173}{}{Ez nem igaz, a republikánusok megértik a köt?dés fontosságát anya és gyermeke között. Ez a kulcs az összes problémához, vissza kell térnünk a családi értékekhez!}
-{174}{}{Ha valakinek, akkor magának és az Enklávénak nem jelentenek semmit a családi értékek!}
-{175}{}{Kiállok minden hibás döntésem mellett, amit hoztam!}
-{176}{}{Nem érti meg, hogy újabb holokausztot teremt, ha így folytatja!}
-{177}{}{Maga meg?rült! Nem fogja fel, ugye?}
-{178}{}{A holokauszt nemzetünk történetének egyik visszataszító szakasza volt. Úgy értem, a század történelmének. De mindannyian ebben a században éltünk. Én nem.}
-{179}{}{Nagy az isten állatkertje!}
-{180}{}{Valakinek csak ki kell rángatnia a gyötr?déséb?l. Kezdhet imádkozni, Bird!}
+{163}{}{Hogy tehetnÃ©nk ezt meg?}
+{164}{}{Szerintem a Mars egÃ©sz jÃ³ lenne, szinte ugyanazon a pÃ¡lyÃ¡n kering... A Mars nagyjÃ¡bÃ³l ugyanolyan tÃ¡volsÃ¡gra van a NaptÃ³l, s ez nagyon fontos tÃ©nyez?. LÃ¡ttunk kÃ©peket vÃ©lhet?en csatornÃ¡krÃ³l, melyekben vÃ­z van ugyebÃ¡r. Ha vÃ­z van bennÃ¼k, akkor van oxigÃ©n is. Ha van oxigÃ©n, akkor tudunk lÃ©legezni.}
+{165}{}{Nem vÃ¡rtam ilyen "kimerÃ­t?" vÃ¡laszt.}
+{166}{}{MagÃ¡nak elment a maradÃ©k csepp esze!}
+{167}{}{Milyen pazarlÃ¡s is, ha valaki elveszti az eszÃ©t! Vagy mÃ¡skÃ©ppen, hÃ¼lyÃ©nek lenni pazarlÃ¡s. Milyen igaz!}
+{168}{}{InkÃ¡bb azt mondanÃ¡m, hogy "Ã¡ltalÃ¡ban". A maga esetÃ©ben kivÃ©telt teszek.}
+{169}{}{Mi a frÃ¡szt mondott?}
+{170}{}{Na, most mÃ¡r elÃ©g id?t szÃ¡ntam magÃ¡ra. ViszlÃ¡t!}
+{171}{}{A NASA-nak mÃ©g mindig az ?r az els?.}
+{172}{}{Ã‰rtem, Ã©s hovÃ¡ mennÃ©nk akkor?}
+{173}{}{Ez nem igaz, a republikÃ¡nusok megÃ©rtik a kÃ¶t?dÃ©s fontossÃ¡gÃ¡t anya Ã©s gyermeke kÃ¶zÃ¶tt. Ez a kulcs az Ã¶sszes problÃ©mÃ¡hoz, vissza kell tÃ©rnÃ¼nk a csalÃ¡di Ã©rtÃ©kekhez!}
+{174}{}{Ha valakinek, akkor magÃ¡nak Ã©s az EnklÃ¡vÃ©nak nem jelentenek semmit a csalÃ¡di Ã©rtÃ©kek!}
+{175}{}{KiÃ¡llok minden hibÃ¡s dÃ¶ntÃ©sem mellett, amit hoztam!}
+{176}{}{Nem Ã©rti meg, hogy Ãºjabb holokausztot teremt, ha Ã­gy folytatja!}
+{177}{}{Maga meg?rÃ¼lt! Nem fogja fel, ugye?}
+{178}{}{A holokauszt nemzetÃ¼nk tÃ¶rtÃ©netÃ©nek egyik visszataszÃ­tÃ³ szakasza volt. Ãšgy Ã©rtem, a szÃ¡zad tÃ¶rtÃ©nelmÃ©nek. De mindannyian ebben a szÃ¡zadban Ã©ltÃ¼nk. Ã‰n nem.}
+{179}{}{Nagy az isten Ã¡llatkertje!}
+{180}{}{Valakinek csak ki kell rÃ¡ngatnia a gyÃ¶tr?dÃ©sÃ©b?l. Kezdhet imÃ¡dkozni, Bird!}
 {181}{}{Ki kell jutnom innen!}
 {182}{}{K-R-U-M-P-L-I-Q}
 {183}{}{K-R-U-M-P-L-I}
 {184}{}{P-A-R-A-D-I-C-S-O-M-Q}
 {185}{}{P-A-R-A-D-I-C-S-O-M}
-{186}{}{Hová lett a nyolc liter eperfagyim?}
+{186}{}{HovÃ¡ lett a nyolc liter eperfagyim?}
 {187}{}{The Caine is my ship. Mine, do you hear me?}
 {188}{}{Maguk mindannyian ellenem vannak, ugye? UGYE?!}
 {189}{}{Sosem fognak elkapni!}
 {190}{}{Csinos, csinos.}
-{191}{}{Szép.}
-{192}{}{Ne, anyu, nem én tettem!!! Ne üss meg még egyszer, légyszi!}
+{191}{}{SzÃ©p.}
+{192}{}{Ne, anyu, nem Ã©n tettem!!! Ne Ã¼ss meg mÃ©g egyszer, lÃ©gyszi!}
 {193}{}{Mother! Where are you Mother?}
-{194}{}{Nem akarok beteg lenni, kivételesen.}
+{194}{}{Nem akarok beteg lenni, kivÃ©telesen.}
 {195}{}{T???! NEEEE! Csak t?????t ne!}
 {196}{}{Ne, ne, ne! Neeee!}

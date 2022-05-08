@@ -1,4 +1,4 @@
-{200}{}{Sabiendo que ésta es la habitación de Richard, buscas cuidadosamente en su armario.}
-{201}{}{Vaya. Hay un frasco vacío de Jet debajo del armario.}
-{202}{}{Aquí no hay nada más.}
-{250}{}{Se encontró una... idea. Debajo de la cómoda. En el Wright mansión.}
+{200}{}{Sabiendo que Ã©sta es la habitaciÃ³n de Richard, buscas cuidadosamente en su armario.}
+{201}{}{Vaya. Hay un frasco vacÃ­o de Jet debajo del armario.}
+{202}{}{AquÃ­ no hay nada mÃ¡s.}
+{250}{}{Se encontrÃ³ una... idea. Debajo de la cÃ³moda. En el Wright mansiÃ³n.}

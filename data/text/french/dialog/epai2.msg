@@ -1,16 +1,16 @@
-{100}{}{Soyez le bienvenu dans l'Ordinateur de Contrôle de Robots EPA. Que voulez-vous faire ?}
-{101}{}{Exécutez une commande Robots.}
+{100}{}{Soyez le bienvenu dans l'Ordinateur de ContrÃ´le de Robots EPA. Que voulez-vous faire ?}
+{101}{}{ExÃ©cutez une commande Robots.}
 {102}{}{Lancez un diagnostic.}
 {103}{}{[Quitter]}
 {104}{}{ERREUR ! ERREUR ! LE PROBLEME ENCLENCHE LA SEQUENCE D'ARRET !}
 {105}{}{[Retourner au menu principal]}
-{106}{}{Diagnostic en cours... court-circuit erreur.... section 4... alimentation défaillante.}
-{107}{}{Terminé}
-{108}{}{Vous n'avez pas la compétence pour réparer cette machine.}
-{109}{}{Vous réparez la panne informatique et remettez la machine en ligne.}
-{110}{}{Soyez le bienvenu dans l'Ordinateur de Contrôle de Robot EPA. Vous n'avez plus l'autorisation de sécurité pour utiliser ces dossiers. Séquence d'arrêt.}
+{106}{}{Diagnostic en cours... court-circuit erreur.... section 4... alimentation dÃ©faillante.}
+{107}{}{TerminÃ©}
+{108}{}{Vous n'avez pas la compÃ©tence pour rÃ©parer cette machine.}
+{109}{}{Vous rÃ©parez la panne informatique et remettez la machine en ligne.}
+{110}{}{Soyez le bienvenu dans l'Ordinateur de ContrÃ´le de Robot EPA. Vous n'avez plus l'autorisation de sÃ©curitÃ© pour utiliser ces dossiers. SÃ©quence d'arrÃªt.}
 {111}{}{TERMINER}
 {112}{}{BIP !}
 {113}{}{BOOP !}
 {114}{}{Bzzzt..}
-{115}{}{Tu l'as déjà réparé.}
+{115}{}{Tu l'as dÃ©jÃ  rÃ©parÃ©.}

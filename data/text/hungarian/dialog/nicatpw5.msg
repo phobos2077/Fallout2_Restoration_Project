@@ -1,1 +1,1 @@
-{100}{}{Hasznos tudnivalókat tudtál meg az energiafegyverek használatáról.}
+{100}{}{Hasznos tudnivalÃ³kat tudtÃ¡l meg az energiafegyverek hasznÃ¡latÃ¡rÃ³l.}

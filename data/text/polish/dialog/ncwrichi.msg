@@ -1,215 +1,215 @@
-{100}{}{Widzisz jedno z dzieci Wrightów.}
-{150}{}{Widzisz ma³ego, czarnow³osego ch³opca.}
-{151}{}{Widzisz ma³¹, czarnow³os¹ dziewczynkê. Ma krótko przyciête w³osy, tak, ¿e na pierwszy rzut oka mo¿na j¹ wzi¹æ za ch³opca.}
-{155}{}{Ch³opiec pokazuje ci jêzyk.}
-{156}{}{Przygl¹da ci siê uwa¿nie.}
-{157}{}{Dziewczynka pokazuje ci jêzyk.}
-{158}{}{Ma krótko przyciête w³osy, wiêc bez przeszkód mo¿e byæ reprezentowana przez model ma³ego ch³opca.}
-{159}{}{Przygl¹da ci siê uwa¿nie.}
-{175}{}{Tê czêœæ gry Fallout sponsorowa³a literka Z.}
+{100}{}{Widzisz jedno z dzieci WrightÃ³w.}
+{150}{}{Widzisz maÅ‚ego, czarnowÅ‚osego chÅ‚opca.}
+{151}{}{Widzisz maÅ‚Ä…, czarnowÅ‚osÄ… dziewczynkÄ™. Ma krÃ³tko przyciÄ™te wÅ‚osy, tak, Å¼e na pierwszy rzut oka moÅ¼na jÄ… wziÄ…Ä‡ za chÅ‚opca.}
+{155}{}{ChÅ‚opiec pokazuje ci jÄ™zyk.}
+{156}{}{PrzyglÄ…da ci siÄ™ uwaÅ¼nie.}
+{157}{}{Dziewczynka pokazuje ci jÄ™zyk.}
+{158}{}{Ma krÃ³tko przyciÄ™te wÅ‚osy, wiÄ™c bez przeszkÃ³d moÅ¼e byÄ‡ reprezentowana przez model maÅ‚ego chÅ‚opca.}
+{159}{}{PrzyglÄ…da ci siÄ™ uwaÅ¼nie.}
+{175}{}{TÄ™ czÄ™Å›Ä‡ gry Fallout sponsorowaÅ‚a literka Z.}
 {176}{}{Hej! }
 {177}{}{}
-{178}{}{Dziêki za uratowanie œwiata, }
-{179}{}{Jak dorosnê, chcê ratowaæ œwiat, tak jak ty.}
-{180}{}{Czy ja te¿ mogê zostaæ bohaterem, kiedy dorosnê?}
-{181}{}{Chcê byæ jak }
-{190}{}{Jesteœ ROBOTEM?}
+{178}{}{DziÄ™ki za uratowanie Å›wiata, }
+{179}{}{Jak dorosnÄ™, chcÄ™ ratowaÄ‡ Å›wiat, tak jak ty.}
+{180}{}{Czy ja teÅ¼ mogÄ™ zostaÄ‡ bohaterem, kiedy dorosnÄ™?}
+{181}{}{ChcÄ™ byÄ‡ jak }
+{190}{}{JesteÅ› ROBOTEM?}
 {191}{}{Jak ty w tym siusiasz?}
-{192}{}{WeŸmiesz mnie na barana? Proooszê?}
-{193}{}{Pobawisz siê z nami? Proooszê?}
-{200}{}{Zmykaj st¹d, zanim mój tatuœ ciê zobaczy.}
-{201}{}{Uciekaj st¹d, zanim moi bracia ciê zobacz¹.}
-{202}{}{IdŸ sobie, albo poskar¿ê moim rodzicom, ¿e tu jesteœ.}
-{210}{}{Widzê ciê! Widzê ciê!}
-{211}{}{Bawisz siê w chowanego, tak? Mogê siê pobawiæ z tob¹?}
+{192}{}{WeÅºmiesz mnie na barana? ProooszÄ™?}
+{193}{}{Pobawisz siÄ™ z nami? ProooszÄ™?}
+{200}{}{Zmykaj stÄ…d, zanim mÃ³j tatuÅ› ciÄ™ zobaczy.}
+{201}{}{Uciekaj stÄ…d, zanim moi bracia ciÄ™ zobaczÄ….}
+{202}{}{IdÅº sobie, albo poskarÅ¼Ä™ moim rodzicom, Å¼e tu jesteÅ›.}
+{210}{}{WidzÄ™ ciÄ™! WidzÄ™ ciÄ™!}
+{211}{}{Bawisz siÄ™ w chowanego, tak? MogÄ™ siÄ™ pobawiÄ‡ z tobÄ…?}
 {215}{}{Patrzcie, jaki robot! Patrzcie, jaki robot!}
-{216}{}{Czy w tym robocie jest prawdziwny mózg?}
+{216}{}{Czy w tym robocie jest prawdziwny mÃ³zg?}
 {217}{}{Oooooooch. Ale robot!}
 {218}{}{Patrzcie, jaki mutant! Patrzcie, jaki mutant!}
 {219}{}{Mutant, fiutant, mutant, fiutant!}
 {220}{}{Czy to prawdziwny mutant? Ale brzydal.}
 {221}{}{Oooooooch. Ale mutant!}
-{222}{}{Ale ten mutant jest wielgaœny. Wiêkszy ni¿ tatuœ!}
+{222}{}{Ale ten mutant jest wielgaÅ›ny. WiÄ™kszy niÅ¼ tatuÅ›!}
 {230}{}{Ghul! Patrzcie, to ghul!}
 {231}{}{Fuuuj! Ghul! Ghul!}
 {232}{}{Ghul-ghul-ghul!}
 {233}{}{Jaki metalowy piesek!}
-{234}{}{Piesku! Daj g³os!}
-{235}{}{Ja te¿ chcê pieska!}
-{290}{}{Jak dorosnê, chcê ratowaæ œwiat, tak jak ty.}
-{291}{}{Czy ja te¿ mogê zostaæ bohaterem, kiedy dorosnê?}
-{292}{}{Kiedy dorosnê, chcê ratowaæ œwiat, tak jak ty.}
-{293}{}{Czemu chcieæ byæ jak moja? Moja G£UPIA.}
-{294}{}{Moja raz zrobiæ z g³owa dziewczynki czapka!}
-{295}{}{[OdejdŸ.]}
-{296}{}{He he. To bardzo mi³o z twojej strony. Ale pos³uchaj co }
-{297}{}{Staraj siê spe³niaæ swoje marzenia. Mo¿esz zostaæ kim tylko zechcesz. Ja jestem na to najlepszym dowodem.}
-{298}{}{Oczywiœcie, ¿e tak. S³uchaj, strasznie mi przykro z powodu twojego brata, Richiego. Wiesz mo¿e co siê mu przydarzy³o?}
-{299}{}{S³ynê z tego, ¿e po¿eram ma³e dziewczynki na œniadanie.}
-{300}{}{(Pozwól mu dalej siê bawiæ.)}
-{301}{}{(Pozwól jej dalej siê bawiæ.)}
-{310}{}{Nie-e! Jesteœ jak BOHATER, taki ODWA¯NY i SILNY. Ja te¿ tak chcê, jak ju¿ dorosnê! Dziêki za uratowanie nas, }
-{311}{}{Dzienk, ma³a cz³owieczek. Przez ciebie }
+{234}{}{Piesku! Daj gÅ‚os!}
+{235}{}{Ja teÅ¼ chcÄ™ pieska!}
+{290}{}{Jak dorosnÄ™, chcÄ™ ratowaÄ‡ Å›wiat, tak jak ty.}
+{291}{}{Czy ja teÅ¼ mogÄ™ zostaÄ‡ bohaterem, kiedy dorosnÄ™?}
+{292}{}{Kiedy dorosnÄ™, chcÄ™ ratowaÄ‡ Å›wiat, tak jak ty.}
+{293}{}{Czemu chcieÄ‡ byÄ‡ jak moja? Moja GÅUPIA.}
+{294}{}{Moja raz zrobiÄ‡ z gÅ‚owa dziewczynki czapka!}
+{295}{}{[OdejdÅº.]}
+{296}{}{He he. To bardzo miÅ‚o z twojej strony. Ale posÅ‚uchaj co }
+{297}{}{Staraj siÄ™ speÅ‚niaÄ‡ swoje marzenia. MoÅ¼esz zostaÄ‡ kim tylko zechcesz. Ja jestem na to najlepszym dowodem.}
+{298}{}{OczywiÅ›cie, Å¼e tak. SÅ‚uchaj, strasznie mi przykro z powodu twojego brata, Richiego. Wiesz moÅ¼e co siÄ™ mu przydarzyÅ‚o?}
+{299}{}{SÅ‚ynÄ™ z tego, Å¼e poÅ¼eram maÅ‚e dziewczynki na Å›niadanie.}
+{300}{}{(PozwÃ³l mu dalej siÄ™ bawiÄ‡.)}
+{301}{}{(PozwÃ³l jej dalej siÄ™ bawiÄ‡.)}
+{310}{}{Nie-e! JesteÅ› jak BOHATER, taki ODWAÅ»NY i SILNY. Ja teÅ¼ tak chcÄ™, jak juÅ¼ dorosnÄ™! DziÄ™ki za uratowanie nas, }
+{311}{}{Dzienk, maÅ‚a czÅ‚owieczek. Przez ciebie }
 {315}{}{Jasne, }
-{316}{}{Trzymaj siê, s³yszysz - berbeciu? Muszê jeszcze za³atwiæ parê 'bohaterskich' spraw.}
-{320}{}{(Dziecko zatrzymuje ciê) Ummm... }
-{321}{}{Uhm... nie. Obiecujê.}
+{316}{}{Trzymaj siÄ™, sÅ‚yszysz - berbeciu? MuszÄ™ jeszcze zaÅ‚atwiÄ‡ parÄ™ 'bohaterskich' spraw.}
+{320}{}{(Dziecko zatrzymuje ciÄ™) Ummm... }
+{321}{}{Uhm... nie. ObiecujÄ™.}
 {322}{}{Uhm... nieee.}
-{323}{}{Nie martw siê, maluchu. Odwiedzê ciê jeszcze kiedyœ, jako inna postaæ.}
-{324}{}{Nie martw siê, maluchu. Nie bêdzie bola³o.}
-{330}{}{Czy bêdziemy œniæ?}
-{331}{}{Eee... jasne. Jasne, ¿e tak.}
-{332}{}{Nie mam pojêcia. Ja nigdy nie œniê, wiêc wy pewnie te¿ nie. ¯ecie jest do dupy, nie?}
-{341}{}{Co to robót?}
-{344}{}{He he. Jakie to s³odkie. Nie, nie jestem robotem, maluchu.}
-{345}{}{Nie, nie. Jestem normaln¹ osob¹, ubran¹ w zbrojê. Przy okazji, bardzo mi przykro z powodu twojego brata, Richiego. Wiesz mo¿e co siê mu przydarzy³o?}
-{355}{}{G£UPOL.}
-{356}{}{TY TE¯}
-{357}{}{Ty te¿ jesteœ g³upol.}
-{358}{}{A ty wiêkszy g³upol}
-{359}{}{Kto poczu³, ten wytoczy³.}
-{360}{}{Swój swego rozpozna!}
-{361}{}{Uciekaj z p³aczem.}
-{370}{}{A ty najwiêkszy g³upol. Najwiêkszy!}
-{395}{}{Nie-e, G£UPOLU! (Dziecko ucieka, jego okrutny œmiech jeszcze d³ugo brzmi w twojej g³owie.)}
-{396}{}{Moja I TAK nie chce z tob¹ mówiæ... *snfff*... moja... *snfff*... idzie na PRZYJENCIE... z *snfff* TORTAM i LODEM... a ty nie [OdejdŸ.]}
-{405}{}{(Dziecko mruga, otwiera usta, zamyka je. W jego oczach b³yszcz¹ ³zy. Zaczyna szlochaæ.)}
-{406}{}{Hee hee MOJA wygraæ.}
-{410}{}{Och. (Myœli przez chwilê, marszczy brwi) Dlaczego nie jesteœ robotem?}
-{411}{}{Uch... poniewa¿... nooo... ludzie i roboty ró¿ni¹ siê... uch, czêœciami.}
-{412}{}{Muszê ju¿ iœæ.}
-{425}{}{Taaak? (Podejrzliwie) Na przyk³ad jakimi?}
-{426}{}{Uch... no wiêc... s³uchaj, mamusia i tatuœ nie wyjaœnili ci takich rzeczy?}
-{427}{}{Uch... ojej! Ale¿ siê póŸno zrobi³o! Muszê ju¿ iœæ.}
+{323}{}{Nie martw siÄ™, maluchu. OdwiedzÄ™ ciÄ™ jeszcze kiedyÅ›, jako inna postaÄ‡.}
+{324}{}{Nie martw siÄ™, maluchu. Nie bÄ™dzie bolaÅ‚o.}
+{330}{}{Czy bÄ™dziemy Å›niÄ‡?}
+{331}{}{Eee... jasne. Jasne, Å¼e tak.}
+{332}{}{Nie mam pojÄ™cia. Ja nigdy nie Å›niÄ™, wiÄ™c wy pewnie teÅ¼ nie. Å»ecie jest do dupy, nie?}
+{341}{}{Co to robÃ³t?}
+{344}{}{He he. Jakie to sÅ‚odkie. Nie, nie jestem robotem, maluchu.}
+{345}{}{Nie, nie. Jestem normalnÄ… osobÄ…, ubranÄ… w zbrojÄ™. Przy okazji, bardzo mi przykro z powodu twojego brata, Richiego. Wiesz moÅ¼e co siÄ™ mu przydarzyÅ‚o?}
+{355}{}{GÅUPOL.}
+{356}{}{TY TEÅ»}
+{357}{}{Ty teÅ¼ jesteÅ› gÅ‚upol.}
+{358}{}{A ty wiÄ™kszy gÅ‚upol}
+{359}{}{Kto poczuÅ‚, ten wytoczyÅ‚.}
+{360}{}{SwÃ³j swego rozpozna!}
+{361}{}{Uciekaj z pÅ‚aczem.}
+{370}{}{A ty najwiÄ™kszy gÅ‚upol. NajwiÄ™kszy!}
+{395}{}{Nie-e, GÅUPOLU! (Dziecko ucieka, jego okrutny Å›miech jeszcze dÅ‚ugo brzmi w twojej gÅ‚owie.)}
+{396}{}{Moja I TAK nie chce z tobÄ… mÃ³wiÄ‡... *snfff*... moja... *snfff*... idzie na PRZYJENCIE... z *snfff* TORTAM i LODEM... a ty nie [OdejdÅº.]}
+{405}{}{(Dziecko mruga, otwiera usta, zamyka je. W jego oczach bÅ‚yszczÄ… Å‚zy. Zaczyna szlochaÄ‡.)}
+{406}{}{Hee hee MOJA wygraÄ‡.}
+{410}{}{Och. (MyÅ›li przez chwilÄ™, marszczy brwi) Dlaczego nie jesteÅ› robotem?}
+{411}{}{Uch... poniewaÅ¼... nooo... ludzie i roboty rÃ³Å¼niÄ… siÄ™... uch, czÄ™Å›ciami.}
+{412}{}{MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{425}{}{Taaak? (Podejrzliwie) Na przykÅ‚ad jakimi?}
+{426}{}{Uch... no wiÄ™c... sÅ‚uchaj, mamusia i tatuÅ› nie wyjaÅ›nili ci takich rzeczy?}
+{427}{}{Uch... ojej! AleÅ¼ siÄ™ pÃ³Åºno zrobiÅ‚o! MuszÄ™ juÅ¼ iÅ›Ä‡.}
 {435}{}{Jakich rzeczy?}
-{436}{}{Nooo... wiesz... roboty maj¹ w œrodku œrubki... A ludzie... no, ludzie... krwawi¹.}
-{445}{}{Mama i moja starsza siostra krwawi¹ co miesi¹c. Robi¹ siê wtedy bardzo wredne. Szkoda, ¿e nie s¹ robotami.}
-{446}{}{Eee... tak. Jasne. S³uchaj, muszê ju¿ iœæ. Tylko nie mów mamie, ¿e rozmawialiœmy, dobra?}
-{456}{}{Po prostu siusiam. Tylko muszê siê przyzwyczaiæ do zapachu.}
-{459}{}{He he. W zasadzie, to oddajê mocz do zbroi, a ona przetwarza go do ponownego wykorzystania. Czy to nie fascynuj¹ce? Wiesz co znaczy 'recycling,' maluchu?}
-{460}{}{Nie jest to z pewnoœci¹ zbyt wygodne. S³uchaj, strasznie mi przykro z powodu twojego brata, Richiego. Wiesz mo¿e co siê mu przydarzy³o?}
+{436}{}{Nooo... wiesz... roboty majÄ… w Å›rodku Å›rubki... A ludzie... no, ludzie... krwawiÄ….}
+{445}{}{Mama i moja starsza siostra krwawiÄ… co miesiÄ…c. RobiÄ… siÄ™ wtedy bardzo wredne. Szkoda, Å¼e nie sÄ… robotami.}
+{446}{}{Eee... tak. Jasne. SÅ‚uchaj, muszÄ™ juÅ¼ iÅ›Ä‡. Tylko nie mÃ³w mamie, Å¼e rozmawialiÅ›my, dobra?}
+{456}{}{Po prostu siusiam. Tylko muszÄ™ siÄ™ przyzwyczaiÄ‡ do zapachu.}
+{459}{}{He he. W zasadzie, to oddajÄ™ mocz do zbroi, a ona przetwarza go do ponownego wykorzystania. Czy to nie fascynujÄ…ce? Wiesz co znaczy 'recycling,' maluchu?}
+{460}{}{Nie jest to z pewnoÅ›ciÄ… zbyt wygodne. SÅ‚uchaj, strasznie mi przykro z powodu twojego brata, Richiego. Wiesz moÅ¼e co siÄ™ mu przydarzyÅ‚o?}
 {475}{}{To OCHYDNE.}
-{476}{}{Tak! To znaczy, ¿e pijesz w³asne siuœki!}
-{477}{}{Ty ma³y siuœmajtku.}
+{476}{}{Tak! To znaczy, Å¼e pijesz wÅ‚asne siuÅ›ki!}
+{477}{}{Ty maÅ‚y siuÅ›majtku.}
 {479}{}{Uch, he... he. Nie, to znaczy...}
-{485}{}{Pijesz siuœki! Pijesz siuœki!}
-{486}{}{Eee, he... he... mów trochê ciszej, dobrze... to wcale nie znaczy, ¿e pijê w³asne... to znaczy - NIEZUPE£NIE... s³uchaj...}
-{487}{}{Pozwól gówniarzowi bawiæ siê dalej.}
-{488}{}{(OdejdŸ.)}
+{485}{}{Pijesz siuÅ›ki! Pijesz siuÅ›ki!}
+{486}{}{Eee, he... he... mÃ³w trochÄ™ ciszej, dobrze... to wcale nie znaczy, Å¼e pijÄ™ wÅ‚asne... to znaczy - NIEZUPEÅNIE... sÅ‚uchaj...}
+{487}{}{PozwÃ³l gÃ³wniarzowi bawiÄ‡ siÄ™ dalej.}
+{488}{}{(OdejdÅº.)}
 {495}{}{Czy to jest prawdziwy robot?}
-{499}{}{Robomózg? Tak, to prawda.}
-{500}{}{Tak mu siê wydaje. S³uchaj, zmieñmy temat.}
-{501}{}{Tak, ale nie zaczepiaj go. Wydaje mi siê, ¿e on chcê zniszczyæ rasê ludzk¹.}
-{502}{}{Tak. S³uchaj, bardzo mi przykro z powodu twojego brata, Richiego. Wiesz mo¿e co siê mu przydarzy³o?}
-{515}{}{A ty te¿ jesteœ robotem?}
+{499}{}{RobomÃ³zg? Tak, to prawda.}
+{500}{}{Tak mu siÄ™ wydaje. SÅ‚uchaj, zmieÅ„my temat.}
+{501}{}{Tak, ale nie zaczepiaj go. Wydaje mi siÄ™, Å¼e on chcÄ™ zniszczyÄ‡ rasÄ™ ludzkÄ….}
+{502}{}{Tak. SÅ‚uchaj, bardzo mi przykro z powodu twojego brata, Richiego. Wiesz moÅ¼e co siÄ™ mu przydarzyÅ‚o?}
+{515}{}{A ty teÅ¼ jesteÅ› robotem?}
 {525}{}{Czy to prawdziwy mutant?}
 {526}{}{Muu-tat?}
-{529}{}{Ale¿ tak. Nazywa siê Marcus. Nie bój siê - nie gryzie.}
-{530}{}{Tak, to JEST mutant. Nie zaczepiaj go, bo zje ciê na kolacjê.}
-{531}{}{Ale¿ tak. Bardzo G£ODNY mutant. I wiesz co? Chyba w³aœnie znalaz³ sobie posi³ek. Czy to nie wspaniale?}
-{532}{}{Tak. S³uchaj, bardzo mi przykro z powodu twojego brata, Richiego. Wiesz mo¿e co siê mu przydarzy³o?}
-{540}{}{Dziecko przystaje i przygl¹da ci siê.}
+{529}{}{AleÅ¼ tak. Nazywa siÄ™ Marcus. Nie bÃ³j siÄ™ - nie gryzie.}
+{530}{}{Tak, to JEST mutant. Nie zaczepiaj go, bo zje ciÄ™ na kolacjÄ™.}
+{531}{}{AleÅ¼ tak. Bardzo GÅODNY mutant. I wiesz co? Chyba wÅ‚aÅ›nie znalazÅ‚ sobie posiÅ‚ek. Czy to nie wspaniale?}
+{532}{}{Tak. SÅ‚uchaj, bardzo mi przykro z powodu twojego brata, Richiego. Wiesz moÅ¼e co siÄ™ mu przydarzyÅ‚o?}
+{540}{}{Dziecko przystaje i przyglÄ…da ci siÄ™.}
 {541}{}{Haaalooo.}
 {544}{}{Witaj, maluchu.}
 {545}{}{Witaj, dziewczynko.}
-{546}{}{Przykro mi z powodu twojego brata, Richiego. Wiesz mo¿e co siê mu przydarzy³o?}
-{555}{}{Coœ jest z tob¹ nie tak?}
+{546}{}{Przykro mi z powodu twojego brata, Richiego. Wiesz moÅ¼e co siÄ™ mu przydarzyÅ‚o?}
+{555}{}{CoÅ› jest z tobÄ… nie tak?}
 {556}{}{Czemu pytasz?}
-{560}{}{WYGL¥DASZ, jakby coœ by³o z tob¹ nie tak.}
-{561}{}{Wiêc pewnie tak w³aœnie jest.}
+{560}{}{WYGLÄ„DASZ, jakby coÅ› byÅ‚o z tobÄ… nie tak.}
+{561}{}{WiÄ™c pewnie tak wÅ‚aÅ›nie jest.}
 {565}{}{A bierzesz lekarstwa?}
-{566}{}{Na moj¹ chorobê nie ma lekarstwa.}
-{570}{}{Poœpiewamy razem?}
-{571}{}{Œpiewaæ?}
-{575}{}{Znasz 'Ca³y œwiat w jego rêkach?'}
+{566}{}{Na mojÄ… chorobÄ™ nie ma lekarstwa.}
+{570}{}{PoÅ›piewamy razem?}
+{571}{}{ÅšpiewaÄ‡?}
+{575}{}{Znasz 'CaÅ‚y Å›wiat w jego rÄ™kach?'}
 {576}{}{Tak.}
-{580}{}{::Œpiewa:: 'Ca³y œwiat w jego rêkach. Ca³y œwiat w jego rêkach.' No dalej!}
-{581}{}{::Œpiewaj:: Ca³y œwiat w jego rêkach. Ca³y œwiat w jego rêkach.}
-{585}{}{::Razem:: Ca³y œwiat w jego rêkach. Ca³y œwiat w jego rêkach. ::Wolniej:: Ca³y œwiat w jego rêkach.}
-{586}{}{Mi³o siê razem œpiewa³o. Mo¿e wrócê innym razem... jak zg³odniejê.}
+{580}{}{::Åšpiewa:: 'CaÅ‚y Å›wiat w jego rÄ™kach. CaÅ‚y Å›wiat w jego rÄ™kach.' No dalej!}
+{581}{}{::Åšpiewaj:: CaÅ‚y Å›wiat w jego rÄ™kach. CaÅ‚y Å›wiat w jego rÄ™kach.}
+{585}{}{::Razem:: CaÅ‚y Å›wiat w jego rÄ™kach. CaÅ‚y Å›wiat w jego rÄ™kach. ::Wolniej:: CaÅ‚y Å›wiat w jego rÄ™kach.}
+{586}{}{MiÅ‚o siÄ™ razem Å›piewaÅ‚o. MoÅ¼e wrÃ³cÄ™ innym razem... jak zgÅ‚odniejÄ™.}
 {590}{}{(Dzieciak mruga.)}
-{591}{}{W porz¹dku. Pogadamy innym razem.}
+{591}{}{W porzÄ…dku. Pogadamy innym razem.}
 {595}{}{(Dziecko ucieka.)}
 {648}{}{Och.}
 {650}{}{Serio? I co jeszcze?}
 {665}{}{Czy to prawdziwy ghul?}
 {666}{}{Guuul?}
-{669}{}{Ale¿ tak. Nazywa siê Lenny. Nie bój siê - nie gryzie.}
-{670}{}{Tak. Tylko go nie zaczepiaj, bo zje ciê na kolacjê.}
-{671}{}{Ale¿ tak. Bardzo G£ODNY ghul. I wiesz co? Chyba w³aœnie znalaz³ sobie posi³ek. Czy to nie wspaniale?}
-{685}{}{Witaj, mutancie Mar-cusie. Aleœ ty du¿y. Hee hee... i twoja animacja jest taka œmieszna.}
-{686}{}{Czeœæ, panie ghulu. Fuj... ale ty brzydko pachniesz.}
-{687}{}{Prawda? No... co s³ychaæ, dzieciaku?}
-{688}{}{Prawda? No... co s³ychaæ, dzieciaku?}
-{689}{}{Có¿, muszê ju¿ iœæ. Do zobaczenia.}
-{695}{}{(Dziecko blednie, odwraca siê i ucieka.)}
-{696}{}{He he he he. "Cy to plawdziwy mutant"? To j¹ oduczy zadawania g³upich pytañ.}
-{697}{}{"G³odny" mutant! Phi. Przecie¿ wszyscy wiedz¹, ¿e mutanci nie jedz¹ ludz - eee, Marcus, czemu mi siê tak przygl¹dasz?}
-{698}{}{He he he he. "Cy to plawdziwy ghul"? To j¹ oduczy zadawania g³upich pytañ.}
-{699}{}{"G³odny" ghul! Phi. Przecie¿ wszyscy wiedz¹, ¿e ghule nie jedz¹ ludz - eee, Lenny, czemu mi siê tak przygl¹dasz?}
-{710}{}{Nie-e. Tatuœ bardzo siê zez³oœci³ bo nie wie kto zabi³ Richiego. Powiedzia³, ¿e jak z³apie nas na za¿ywaniu Jetu, spuœci nam têgie lanie.}
-{711}{}{Wiesz mo¿e KTO móg³ podsun¹æ Richiemu Jet?}
-{712}{}{Wiesz mo¿e SK¥D Richie bra³ Jet?}
-{713}{}{Pozwól dziecku wróciæ do zabawy.}
+{669}{}{AleÅ¼ tak. Nazywa siÄ™ Lenny. Nie bÃ³j siÄ™ - nie gryzie.}
+{670}{}{Tak. Tylko go nie zaczepiaj, bo zje ciÄ™ na kolacjÄ™.}
+{671}{}{AleÅ¼ tak. Bardzo GÅODNY ghul. I wiesz co? Chyba wÅ‚aÅ›nie znalazÅ‚ sobie posiÅ‚ek. Czy to nie wspaniale?}
+{685}{}{Witaj, mutancie Mar-cusie. AleÅ› ty duÅ¼y. Hee hee... i twoja animacja jest taka Å›mieszna.}
+{686}{}{CzeÅ›Ä‡, panie ghulu. Fuj... ale ty brzydko pachniesz.}
+{687}{}{Prawda? No... co sÅ‚ychaÄ‡, dzieciaku?}
+{688}{}{Prawda? No... co sÅ‚ychaÄ‡, dzieciaku?}
+{689}{}{CÃ³Å¼, muszÄ™ juÅ¼ iÅ›Ä‡. Do zobaczenia.}
+{695}{}{(Dziecko blednie, odwraca siÄ™ i ucieka.)}
+{696}{}{He he he he. "Cy to plawdziwy mutant"? To jÄ… oduczy zadawania gÅ‚upich pytaÅ„.}
+{697}{}{"GÅ‚odny" mutant! Phi. PrzecieÅ¼ wszyscy wiedzÄ…, Å¼e mutanci nie jedzÄ… ludz - eee, Marcus, czemu mi siÄ™ tak przyglÄ…dasz?}
+{698}{}{He he he he. "Cy to plawdziwy ghul"? To jÄ… oduczy zadawania gÅ‚upich pytaÅ„.}
+{699}{}{"GÅ‚odny" ghul! Phi. PrzecieÅ¼ wszyscy wiedzÄ…, Å¼e ghule nie jedzÄ… ludz - eee, Lenny, czemu mi siÄ™ tak przyglÄ…dasz?}
+{710}{}{Nie-e. TatuÅ› bardzo siÄ™ zezÅ‚oÅ›ciÅ‚ bo nie wie kto zabiÅ‚ Richiego. PowiedziaÅ‚, Å¼e jak zÅ‚apie nas na zaÅ¼ywaniu Jetu, spuÅ›ci nam tÄ™gie lanie.}
+{711}{}{Wiesz moÅ¼e KTO mÃ³gÅ‚ podsunÄ…Ä‡ Richiemu Jet?}
+{712}{}{Wiesz moÅ¼e SKÄ„D Richie braÅ‚ Jet?}
+{713}{}{PozwÃ³l dziecku wrÃ³ciÄ‡ do zabawy.}
 {720}{}{Nie-e.}
-{730}{}{Nie-e. On czêsto siê w³óczy³ w zachodniej czêœci miasta, w pobli¿u Dzielnicy Handlowej i tato nam powiedzia³, ¿ebyœmy nigdy tam nie chodzili.}
-{800}{}{*Ciii* Mam teraz spaæ.}
-{801}{}{Muszê siê porz¹dnie wyspaæ. Jutro mam wa¿ny mecz w Metalowych Robo-Wojowników.}
-{802}{}{Jeœli tatuœ dowie siê, ¿e nie œpiê, bêdzie bardzo, bardzo z³y.}
+{730}{}{Nie-e. On czÄ™sto siÄ™ wÅ‚Ã³czyÅ‚ w zachodniej czÄ™Å›ci miasta, w pobliÅ¼u Dzielnicy Handlowej i tato nam powiedziaÅ‚, Å¼ebyÅ›my nigdy tam nie chodzili.}
+{800}{}{*Ciii* Mam teraz spaÄ‡.}
+{801}{}{MuszÄ™ siÄ™ porzÄ…dnie wyspaÄ‡. Jutro mam waÅ¼ny mecz w Metalowych Robo-WojownikÃ³w.}
+{802}{}{JeÅ›li tatuÅ› dowie siÄ™, Å¼e nie Å›piÄ™, bÄ™dzie bardzo, bardzo zÅ‚y.}
 {900}{}{Tra la la, tra la la.}
-{901}{}{::Mierzy do ciebie wyimaginowanym pistoletem:: £apy do góry, ³achudro!}
-{902}{}{Æwierkaj¹ wróbelki od samego rana...}
-{903}{}{Jak dorosnê, zostanê alfonsem.}
-{904}{}{Jak dorosnê, bêdê rz¹dzi³ Nowym Reno, jak mój tatuœ.}
-{905}{}{Chcê mieæ pieska. Tatuœ powiedzia³, ¿e jak podrosnê, za³atwi mi sukê.}
-{906}{}{Szkoda, ¿e tatuœ nie jest taki silny jak Tommy Twardziel.}
+{901}{}{::Mierzy do ciebie wyimaginowanym pistoletem:: Åapy do gÃ³ry, Å‚achudro!}
+{902}{}{Ä†wierkajÄ… wrÃ³belki od samego rana...}
+{903}{}{Jak dorosnÄ™, zostanÄ™ alfonsem.}
+{904}{}{Jak dorosnÄ™, bÄ™dÄ™ rzÄ…dziÅ‚ Nowym Reno, jak mÃ³j tatuÅ›.}
+{905}{}{ChcÄ™ mieÄ‡ pieska. TatuÅ› powiedziaÅ‚, Å¼e jak podrosnÄ™, zaÅ‚atwi mi sukÄ™.}
+{906}{}{Szkoda, Å¼e tatuÅ› nie jest taki silny jak Tommy Twardziel.}
 {907}{}{Ja mam ptaszka.}
 {908}{}{::Pisk::}
-{909}{}{::Pokazuje ci jêzyk::}
-{910}{}{Tatuœ mówi, ¿e mamusia jest fabryk¹ dzieci.}
-{911}{}{Tatuœ powiedzia³, ¿e jak nas z³apie z Jetem, spuœci nam têgie lanie.}
-{912}{}{Tatuœ mówi, ¿e na zewn¹trz trzeba byæ bardzo ostro¿nym.}
-{913}{}{Tatuœ nas spierze, jeœli znowu uciekniemy.}
-{914}{}{Tatuœ jest bardzo z³y od œmierci mojego brata Richiego.}
-{915}{}{Tatuœ znowu robi interesy.}
-{916}{}{Ojciec Tully jest taki œmieszny, kiedy nogi mu siê pl¹cz¹.}
-{917}{}{Ca³y œwiat w jego rêkach... Ca³y œwiat w jego rêkach...}
-{918}{}{Zrobi³em kupê.}
-{919}{}{Têskniê za moim bratem, Richiem. Umar³, bo wzi¹³ za du¿o Jetu na raz.}
-{920}{}{Ostatnio nie widujê Christophera.}
-{921}{}{Widzia³am, jak Mikey ca³owa³ siê z Mareee Mor-dino.}
-{922}{}{Widzia³am, jak mamusia i tatuœ si³owali siê na ³ó¿ku.}
-{923}{}{Szkoda, ¿e Christopher nie chce siê ze mn¹ bawiæ.}
-{924}{}{Kyle pije w³asne siuœki!}
+{909}{}{::Pokazuje ci jÄ™zyk::}
+{910}{}{TatuÅ› mÃ³wi, Å¼e mamusia jest fabrykÄ… dzieci.}
+{911}{}{TatuÅ› powiedziaÅ‚, Å¼e jak nas zÅ‚apie z Jetem, spuÅ›ci nam tÄ™gie lanie.}
+{912}{}{TatuÅ› mÃ³wi, Å¼e na zewnÄ…trz trzeba byÄ‡ bardzo ostroÅ¼nym.}
+{913}{}{TatuÅ› nas spierze, jeÅ›li znowu uciekniemy.}
+{914}{}{TatuÅ› jest bardzo zÅ‚y od Å›mierci mojego brata Richiego.}
+{915}{}{TatuÅ› znowu robi interesy.}
+{916}{}{Ojciec Tully jest taki Å›mieszny, kiedy nogi mu siÄ™ plÄ…czÄ….}
+{917}{}{CaÅ‚y Å›wiat w jego rÄ™kach... CaÅ‚y Å›wiat w jego rÄ™kach...}
+{918}{}{ZrobiÅ‚em kupÄ™.}
+{919}{}{TÄ™skniÄ™ za moim bratem, Richiem. UmarÅ‚, bo wziÄ…Å‚ za duÅ¼o Jetu na raz.}
+{920}{}{Ostatnio nie widujÄ™ Christophera.}
+{921}{}{WidziaÅ‚am, jak Mikey caÅ‚owaÅ‚ siÄ™ z Mareee Mor-dino.}
+{922}{}{WidziaÅ‚am, jak mamusia i tatuÅ› siÅ‚owali siÄ™ na Å‚Ã³Å¼ku.}
+{923}{}{Szkoda, Å¼e Christopher nie chce siÄ™ ze mnÄ… bawiÄ‡.}
+{924}{}{Kyle pije wÅ‚asne siuÅ›ki!}
 {925}{}{Kyle ma pryszcze.}
-{926}{}{Kyle jest g³upi.}
+{926}{}{Kyle jest gÅ‚upi.}
 {927}{}{Popatrz! Popatrz!}
-{928}{}{Mikey ma dziewczynê! Zakochana para! Zakochana para! Mikey i Mareee.}
-{929}{}{A ja coœ wiem, ale nie powiem.}
-{930}{}{(œpiewa) My jesteœmy turbo, turbo loversi...}
-{931}{}{Mamusia i tatuœ znów rozmawiali z bogiem. Wczoraj wieczorem, w ³ó¿ku.}
-{932}{}{Mamusia znowu p³aka³a. To chyba przez to, co spotka³o mojego brata, Richiego.}
-{933}{}{Mamusia jest bardzo smutna od œmierci Richiego.}
-{934}{}{Mamusia jest pewnie w koœciele.}
+{928}{}{Mikey ma dziewczynÄ™! Zakochana para! Zakochana para! Mikey i Mareee.}
+{929}{}{A ja coÅ› wiem, ale nie powiem.}
+{930}{}{(Å›piewa) My jesteÅ›my turbo, turbo loversi...}
+{931}{}{Mamusia i tatuÅ› znÃ³w rozmawiali z bogiem. Wczoraj wieczorem, w Å‚Ã³Å¼ku.}
+{932}{}{Mamusia znowu pÅ‚akaÅ‚a. To chyba przez to, co spotkaÅ‚o mojego brata, Richiego.}
+{933}{}{Mamusia jest bardzo smutna od Å›mierci Richiego.}
+{934}{}{Mamusia jest pewnie w koÅ›ciele.}
 {935}{}{Nasza rodzina jest najfajniejsza.}
 {936}{}{Pssst}
-{937}{}{G³upol! G³upol!}
-{938}{}{Wujek Nick mówi, ¿e nie trzeba przeklinaæ. Wujek Nick to g³upi pierdziel.}
-{939}{}{Pobawimy siê w dzikusów i ³owców niewolników?}
-{940}{}{Jest nas siedemnastu braci i siedemnaœcie sióstr.}
+{937}{}{GÅ‚upol! GÅ‚upol!}
+{938}{}{Wujek Nick mÃ³wi, Å¼e nie trzeba przeklinaÄ‡. Wujek Nick to gÅ‚upi pierdziel.}
+{939}{}{Pobawimy siÄ™ w dzikusÃ³w i Å‚owcÃ³w niewolnikÃ³w?}
+{940}{}{Jest nas siedemnastu braci i siedemnaÅ›cie siÃ³str.}
 {941}{}{Hurrra}
 {942}{}{Ganiasz!}
 {943}{}{Masz pryszcze!}
-{944}{}{Wygl¹dasz jak radskorpion!}
-{945}{}{Spytam tatusia, czy jak dorosnê pozwoli mi zostaæ dziwk¹. Mówi, ¿e bardzo jej potrzebuje.}
-{946}{}{Jak dorosnê, chcê byæ dziwk¹. Tatuœ mówi, ¿e musimy mieæ ich wiêcej.}
-{947}{}{Ja mam pochwê.}
-{1176}{}{! Opowiedz nam o Enklawie! Proooszê?}
+{944}{}{WyglÄ…dasz jak radskorpion!}
+{945}{}{Spytam tatusia, czy jak dorosnÄ™ pozwoli mi zostaÄ‡ dziwkÄ…. MÃ³wi, Å¼e bardzo jej potrzebuje.}
+{946}{}{Jak dorosnÄ™, chcÄ™ byÄ‡ dziwkÄ…. TatuÅ› mÃ³wi, Å¼e musimy mieÄ‡ ich wiÄ™cej.}
+{947}{}{Ja mam pochwÄ™.}
+{1176}{}{! Opowiedz nam o Enklawie! ProooszÄ™?}
 {1177}{}{! Jeeej!}
 {1178}{}{!}
-{1181}{}{ jak dorosnê.}
-{1296}{}{ ma ci do powiedzenia. To, kim zostaniesz, zale¿y wy³¹cznie od ciebie.}
-{1310}{}{. NIGDY ci nie darujê.}
-{1311}{}{ szczen-œliwa. Dobrze, ¿e moja cie uratowa³a}
-{1315}{}{. Nigdy ci tego nie zapomnê.}
-{1320}{}{? Teraz, po skoñczeniu gry, skasujesz nas pewnie z twardego dysku, tak?}
+{1181}{}{ jak dorosnÄ™.}
+{1296}{}{ ma ci do powiedzenia. To, kim zostaniesz, zaleÅ¼y wyÅ‚Ä…cznie od ciebie.}
+{1310}{}{. NIGDY ci nie darujÄ™.}
+{1311}{}{ szczen-Å›liwa. Dobrze, Å¼e moja cie uratowaÅ‚a}
+{1315}{}{. Nigdy ci tego nie zapomnÄ™.}
+{1320}{}{? Teraz, po skoÅ„czeniu gry, skasujesz nas pewnie z twardego dysku, tak?}

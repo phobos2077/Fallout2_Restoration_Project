@@ -1,27 +1,27 @@
-{100}{}{Ves a un hombre vestido con una armadura de combate militar estándar.}
+{100}{}{Ves a un hombre vestido con una armadura de combate militar estÃ¡ndar.}
 {101}{}{Parece sano, pero bastante desorientado.}
 {102}{}{Oh, mi cabeza.}
-{103}{}{¿Quién eres?}
+{103}{}{Â¿QuiÃ©n eres?}
 {104}{}{Ug!}
-{105}{}{Y-yo soy Dobbs… soldado raso de primera clase.}
-{106}{}{¿Puedes decirme cómo llegaste aquí?}
-{107}{}{Adiós.}
-{108}{}{Estaba en una batalla. Sí, una batalla. Había disparos y explosiones por todas partes. Gente muriendo. Estaba asustado pero tenía que seguir luchando. Entonces hubo esa llamarada deslumbrante.}
-{109}{}{¿Y qué sucedió después?}
-{110}{}{Adiós,}
-{111}{}{Lo siguiente que recuerdo es que veía mi cuerpo como si estuviera mirándolo desde fuera. Oía a los médicos decir que estaba muerto y entonces lanzaron mi cuerpo en un montón de otros cuerpos.}
-{112}{}{¿Y entonces qué?}
-{113}{}{Adiós.}
-{114}{}{Llegaron algunos hombres y llevaron mi cuerpo a un laboratorio. Les oí decir algo acerca de intentar regenerar mi cuerpo sumergiéndolo en algo llamado gel biomédico.}
-{115}{}{¿Qué más?}
-{116}{}{Adiós.}
-{117}{}{Y entonces desperté aquí. ¡Tengo que irme! Tengo que regresar con mi unidad.}
-{118}{}{Adiós.}
-{200}{}{¿Dónde estoy?}
+{105}{}{Y-yo soy Dobbsâ€¦ soldado raso de primera clase.}
+{106}{}{Â¿Puedes decirme cÃ³mo llegaste aquÃ­?}
+{107}{}{AdiÃ³s.}
+{108}{}{Estaba en una batalla. SÃ­, una batalla. HabÃ­a disparos y explosiones por todas partes. Gente muriendo. Estaba asustado pero tenÃ­a que seguir luchando. Entonces hubo esa llamarada deslumbrante.}
+{109}{}{Â¿Y quÃ© sucediÃ³ despuÃ©s?}
+{110}{}{AdiÃ³s,}
+{111}{}{Lo siguiente que recuerdo es que veÃ­a mi cuerpo como si estuviera mirÃ¡ndolo desde fuera. OÃ­a a los mÃ©dicos decir que estaba muerto y entonces lanzaron mi cuerpo en un montÃ³n de otros cuerpos.}
+{112}{}{Â¿Y entonces quÃ©?}
+{113}{}{AdiÃ³s.}
+{114}{}{Llegaron algunos hombres y llevaron mi cuerpo a un laboratorio. Les oÃ­ decir algo acerca de intentar regenerar mi cuerpo sumergiÃ©ndolo en algo llamado gel biomÃ©dico.}
+{115}{}{Â¿QuÃ© mÃ¡s?}
+{116}{}{AdiÃ³s.}
+{117}{}{Y entonces despertÃ© aquÃ­. Â¡Tengo que irme! Tengo que regresar con mi unidad.}
+{118}{}{AdiÃ³s.}
+{200}{}{Â¿DÃ³nde estoy?}
 {201}{}{Me duele la cabeza.}
-{202}{}{¿Por qué estoy cubierto de porquería?}
+{202}{}{Â¿Por quÃ© estoy cubierto de porquerÃ­a?}
 {300}{}{Tengo que reunirme con mi unidad.}
-{301}{}{Oh no! ¡Soy un Ausente Sin Permiso!}
-{302}{}{¿Cuál es el camino al frente?}
+{301}{}{Oh no! Â¡Soy un Ausente Sin Permiso!}
+{302}{}{Â¿CuÃ¡l es el camino al frente?}
 {303}{}{Esto es para ti, Johnny.}
-{400}{}{El soldado raso Dobbs experimenta el síndrome post-criogénico.}
+{400}{}{El soldado raso Dobbs experimenta el sÃ­ndrome post-criogÃ©nico.}

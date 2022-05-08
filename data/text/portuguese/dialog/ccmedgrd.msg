@@ -1,34 +1,34 @@
-{100}{}{Você vê um guarda.}
-{101}{}{Você verá um guarda em armadura de combate.}
-{102}{}{Você vê alguém vestindo uma armadura de combate. Há uma insígnia no peitoral
-  que você não conhece.}
+{100}{}{VocÃª vÃª um guarda.}
+{101}{}{VocÃª verÃ¡ um guarda em armadura de combate.}
+{102}{}{VocÃª vÃª alguÃ©m vestindo uma armadura de combate. HÃ¡ uma insÃ­gnia no peitoral
+Â  que vocÃª nÃ£o conhece.}
 {103}{}{Nada a assinalar.}
-{104}{}{Nada de errado comigo, que tal você?}
-{105}{}{Não deveria estar no seu posto, soldado? Não é bom para passear aqui.}
-{106}{}{Você está fora do uniforme.}
-{107}{}{É melhor informar o Sargento e se adequar.}
-{108}{}{Você está tendo uma grande chance de estar fora de uniforme. Melhor você informar ao fornecimento.}
-{109}{}{Quem diabos são vocês... Alerta! Intrusos!}
+{104}{}{Nada de errado comigo, que tal vocÃª?}
+{105}{}{NÃ£o deveria estar no seu posto, soldado? NÃ£o Ã© bom para passear aqui.}
+{106}{}{VocÃª estÃ¡ fora do uniforme.}
+{107}{}{Ã‰ melhor informar o Sargento e se adequar.}
+{108}{}{VocÃª estÃ¡ tendo uma grande chance de estar fora de uniforme. Melhor vocÃª informar ao fornecimento.}
+{109}{}{Quem diabos sÃ£o vocÃªs... Alerta! Intrusos!}
 {110}{}{Temos sido infiltrados! Alerta!}
-{111}{}{Vários intrusos! Soar o alarme!}
-{112}{}{Alerta de segurança! Selo de base!}
-{113}{}{Proteja todas as estações! Estamos em alerta!}
-{114}{}{Alerta de intrusão! Vá código vermelho!}
-{115}{}{Nós vamos colocá-lo abaixo!}
+{111}{}{VÃ¡rios intrusos! Soar o alarme!}
+{112}{}{Alerta de seguranÃ§a! Selo de base!}
+{113}{}{Proteja todas as estaÃ§Ãµes! Estamos em alerta!}
+{114}{}{Alerta de intrusÃ£o! VÃ¡ cÃ³digo vermelho!}
+{115}{}{NÃ³s vamos colocÃ¡-lo abaixo!}
 {116}{}{O Enclave vai dominar o mundo!}
-{117}{}{Você morre para que o Enclave sobreviva!}
-{118}{}{Desculpe, soldado. Essa área está fora dos limites para o pessoal da base. Tenho que lhe pedir 
+{117}{}{VocÃª morre para que o Enclave sobreviva!}
+{118}{}{Desculpe, soldado. Essa Ã¡rea estÃ¡ fora dos limites para o pessoal da base. Tenho que lhe pedir 
 que saia.
-  }
-{119}{}{Doc quer que eu mate o garra mortal. Ele não quer fazer ele mesmo.}
+Â  }
+{119}{}{Doc quer que eu mate o garra mortal. Ele nÃ£o quer fazer ele mesmo.}
 {120}{}{Ok, eu vou.}
-{121}{}{Doc quer que eu mate o bicho por ele. Ele não quer fazer isso sozinho.}
-{122}{}{Eu sabia que o bastardo não teria as bolas para fazer isso sozinho. Oh não, está tudo bem
-  se um de nós se fode. (suspiro) Oh, bem. Continue e boa sorte, soldado.}
+{121}{}{Doc quer que eu mate o bicho por ele. Ele nÃ£o quer fazer isso sozinho.}
+{122}{}{Eu sabia que o bastardo nÃ£o teria as bolas para fazer isso sozinho. Oh nÃ£o, estÃ¡ tudo bem
+Â  se um de nÃ³s se fode. (suspiro) Oh, bem. Continue e boa sorte, soldado.}
 {123}{}{Obrigado.}
-{124}{}{Por que você está me olhando assim, soldado?}
-{125}{}{- Me ouvir você chamar Snookie. Que bonito.}
-{126}{}{Eu ouvi que você se chamar Snookie. Eu acho que isso é fofo.}
-{127}{}{O que ... Ele te contou isso? Quando eu sair de serviço eu vou chutar sua bunda ...
-  Mova-se, soldado. E limpe o sorriso da sua cara!}
+{124}{}{Por que vocÃª estÃ¡ me olhando assim, soldado?}
+{125}{}{- Me ouvir vocÃª chamar Snookie. Que bonito.}
+{126}{}{Eu ouvi que vocÃª se chamar Snookie. Eu acho que isso Ã© fofo.}
+{127}{}{O que ... Ele te contou isso? Quando eu sair de serviÃ§o eu vou chutar sua bunda ...
+Â  Mova-se, soldado. E limpe o sorriso da sua cara!}
 {128}{}{Tudo bem.}

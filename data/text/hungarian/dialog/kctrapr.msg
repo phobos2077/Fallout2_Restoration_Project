@@ -1,73 +1,73 @@
-{100}{}{Egy ápolatlan ember.}
+{100}{}{Egy Ã¡polatlan ember.}
 {101}{}{Egy klamath-i lakos.}
-{102}{}{Egy földfoglalót látsz.}
+{102}{}{Egy fÃ¶ldfoglalÃ³t lÃ¡tsz.}
 {103}{}{Ez egy faragatlan ember.}
-{104}{}{Prémvadász.}
-{105}{}{Prémvadász.}
-{110}{}{Hehe, rájöttél már, hogy közénk tartozol?}
-{111}{}{Itt már nem tudunk lopni semmit.}
+{104}{}{PrÃ©mvadÃ¡sz.}
+{105}{}{PrÃ©mvadÃ¡sz.}
+{110}{}{Hehe, rÃ¡jÃ¶ttÃ©l mÃ¡r, hogy kÃ¶zÃ©nk tartozol?}
+{111}{}{Itt mÃ¡r nem tudunk lopni semmit.}
 {112}{}{Trapper Town's got bigger rats every day. Some even stand erect.}
-{113}{}{Itt nincsen számodra hely!}
-{114}{}{Itt már nincsenek leteleped?k!}
-{115}{}{Mit néze'?}
-{116}{}{Bunkó törzsbéliek, mindig csak bajt csinálnak...}
-{117}{}{Menj délre!}
-{118}{}{Nahát, mégis van, aminek rosszabb szaga van a gekkób?rnél...}
-{119}{}{Patkányok mindehol!}
-{120}{}{A Nagy Patkány Szellemére, mi jöhet még?}
-{121}{}{Ha még sokáig maradsz a városban, áldozatot mutatok be a Nagy Patkány Szellemének.}
-{122}{}{Vigyázz, különben úgy jársz, mint Phil!}
+{113}{}{Itt nincsen szÃ¡modra hely!}
+{114}{}{Itt mÃ¡r nincsenek leteleped?k!}
+{115}{}{Mit nÃ©ze'?}
+{116}{}{BunkÃ³ tÃ¶rzsbÃ©liek, mindig csak bajt csinÃ¡lnak...}
+{117}{}{Menj dÃ©lre!}
+{118}{}{NahÃ¡t, mÃ©gis van, aminek rosszabb szaga van a gekkÃ³b?rnÃ©l...}
+{119}{}{PatkÃ¡nyok mindehol!}
+{120}{}{A Nagy PatkÃ¡ny SzellemÃ©re, mi jÃ¶het mÃ©g?}
+{121}{}{Ha mÃ©g sokÃ¡ig maradsz a vÃ¡rosban, Ã¡ldozatot mutatok be a Nagy PatkÃ¡ny SzellemÃ©nek.}
+{122}{}{VigyÃ¡zz, kÃ¼lÃ¶nben Ãºgy jÃ¡rsz, mint Phil!}
 {123}{}{Olyan vagy, mint a Duntonok.}
-{124}{}{Nem igazán van rád szükségünk ebben a városban.}
+{124}{}{Nem igazÃ¡n van rÃ¡d szÃ¼ksÃ©gÃ¼nk ebben a vÃ¡rosban.}
 {125}{}{Mi a gondod?}
-{126}{}{(motyogás, motyogás)... csak egy jó törzsbéli van, a ha... (motyogás)}
-{130}{}{A város itteni része csak profiknak való, mint mi.}
-{131}{}{Hmm... pont úgy nézel ki, mint aki akkor sem venne észre egy gekkót, ha seggbeharapná.}
-{132}{}{Meglep, hogy egész idáig eljutottál a törzsedb?l.}
-{133}{}{Vigyázz a patkányokkal!}
-{134}{}{Az aranygekkók akár ötször hosszabbra n?hetnek, mint egy átlag ember magassága.}
-{135}{}{Az aranygekkóknak halálos méreg van az agyarukban.}
-{136}{}{Látta valaki Philt? Asszem, egy újabb prémvadászt vesztettünk a patkányok miatt.}
-{137}{}{Láttad Philt?}
-{138}{}{Azok a patkányok aztán éhesek!}
-{139}{}{Tudtad, hogy régi bányász-alagutak vannak a város alatt?}
-{140}{}{Bárcsak rájönnék, hogyan tudnék eljutni ahhoz a Corvegához.}
-{141}{}{Vigyázz a rabszolga-keresked?kkel! Imádnak törzsbélieket ejteni.}
-{142}{}{Örülnék, ha lenne elég pénzem a Fürd?házra.}
-{143}{}{Meg fogom látogatni Jennyt.}
-{144}{}{Még egy pár b?r és elég pénzem lesz, hogy fürd?zzek egyet.}
-{145}{}{Mmm, imádom a Duntonék szárított húsát.}
-{146}{}{Ha a bogáremberek felbukkanak, a patkányok biztos végeznek velük. Hehe.}
-{147}{}{Igen, Klamath alatt tényleg vannak alagutak. Hidd csak el!}
-{148}{}{Rohadt sok patkány mászkál az épületekben.}
-{150}{}{Úgy nézel ki, mint aki kiismeri magát az erd?ben.}
-{151}{}{A prémvadászat veszélyes... de legalább jól fizet.}
-{152}{}{Utálom az összes rohadt patkányt! Túl okosak és kikerülik a csapdákat.}
+{126}{}{(motyogÃ¡s, motyogÃ¡s)... csak egy jÃ³ tÃ¶rzsbÃ©li van, a ha... (motyogÃ¡s)}
+{130}{}{A vÃ¡ros itteni rÃ©sze csak profiknak valÃ³, mint mi.}
+{131}{}{Hmm... pont Ãºgy nÃ©zel ki, mint aki akkor sem venne Ã©szre egy gekkÃ³t, ha seggbeharapnÃ¡.}
+{132}{}{Meglep, hogy egÃ©sz idÃ¡ig eljutottÃ¡l a tÃ¶rzsedb?l.}
+{133}{}{VigyÃ¡zz a patkÃ¡nyokkal!}
+{134}{}{Az aranygekkÃ³k akÃ¡r Ã¶tszÃ¶r hosszabbra n?hetnek, mint egy Ã¡tlag ember magassÃ¡ga.}
+{135}{}{Az aranygekkÃ³knak halÃ¡los mÃ©reg van az agyarukban.}
+{136}{}{LÃ¡tta valaki Philt? Asszem, egy Ãºjabb prÃ©mvadÃ¡szt vesztettÃ¼nk a patkÃ¡nyok miatt.}
+{137}{}{LÃ¡ttad Philt?}
+{138}{}{Azok a patkÃ¡nyok aztÃ¡n Ã©hesek!}
+{139}{}{Tudtad, hogy rÃ©gi bÃ¡nyÃ¡sz-alagutak vannak a vÃ¡ros alatt?}
+{140}{}{BÃ¡rcsak rÃ¡jÃ¶nnÃ©k, hogyan tudnÃ©k eljutni ahhoz a CorvegÃ¡hoz.}
+{141}{}{VigyÃ¡zz a rabszolga-keresked?kkel! ImÃ¡dnak tÃ¶rzsbÃ©lieket ejteni.}
+{142}{}{Ã–rÃ¼lnÃ©k, ha lenne elÃ©g pÃ©nzem a FÃ¼rd?hÃ¡zra.}
+{143}{}{Meg fogom lÃ¡togatni Jennyt.}
+{144}{}{MÃ©g egy pÃ¡r b?r Ã©s elÃ©g pÃ©nzem lesz, hogy fÃ¼rd?zzek egyet.}
+{145}{}{Mmm, imÃ¡dom a DuntonÃ©k szÃ¡rÃ­tott hÃºsÃ¡t.}
+{146}{}{Ha a bogÃ¡remberek felbukkanak, a patkÃ¡nyok biztos vÃ©geznek velÃ¼k. Hehe.}
+{147}{}{Igen, Klamath alatt tÃ©nyleg vannak alagutak. Hidd csak el!}
+{148}{}{Rohadt sok patkÃ¡ny mÃ¡szkÃ¡l az Ã©pÃ¼letekben.}
+{150}{}{Ãšgy nÃ©zel ki, mint aki kiismeri magÃ¡t az erd?ben.}
+{151}{}{A prÃ©mvadÃ¡szat veszÃ©lyes... de legalÃ¡bb jÃ³l fizet.}
+{152}{}{UtÃ¡lom az Ã¶sszes rohadt patkÃ¡nyt! TÃºl okosak Ã©s kikerÃ¼lik a csapdÃ¡kat.}
 {153}{}{Watch out for golden geckos; they're twice as tough as the ordinary ones.}
 {154}{}{You're from the Arroyo tribe, ain't you? Can tell by your looks.}
-{155}{}{Néha olyan, mintha lenne egy hatalmas patkány valamelyik épületben.}
-{156}{}{Itt olcsó az élet, de el kell tudnod bánnod a patkányokkal.}
-{157}{}{(Hangosan csámcsog) A patkányhús sokkal finomabb, mint azt a legtöbben elképzelik. Kérsz?}
-{158}{}{Tudod, a gekkóhús íze, ha jól megf?zöd, emlékeztet valamire, de nem emlékszem pontosan, mire.}
-{159}{}{Néhány állat sokkal jobban szereti a szárított húst, és ha szerencséd van, az kell nekik és nem te magad.}
-{160}{}{Ne felejtsd, ha túl sok gekkób?rt adsz el egyszerre, lemegy az áruk.}
+{155}{}{NÃ©ha olyan, mintha lenne egy hatalmas patkÃ¡ny valamelyik Ã©pÃ¼letben.}
+{156}{}{Itt olcsÃ³ az Ã©let, de el kell tudnod bÃ¡nnod a patkÃ¡nyokkal.}
+{157}{}{(Hangosan csÃ¡mcsog) A patkÃ¡nyhÃºs sokkal finomabb, mint azt a legtÃ¶bben elkÃ©pzelik. KÃ©rsz?}
+{158}{}{Tudod, a gekkÃ³hÃºs Ã­ze, ha jÃ³l megf?zÃ¶d, emlÃ©keztet valamire, de nem emlÃ©kszem pontosan, mire.}
+{159}{}{NÃ©hÃ¡ny Ã¡llat sokkal jobban szereti a szÃ¡rÃ­tott hÃºst, Ã©s ha szerencsÃ©d van, az kell nekik Ã©s nem te magad.}
+{160}{}{Ne felejtsd, ha tÃºl sok gekkÃ³b?rt adsz el egyszerre, lemegy az Ã¡ruk.}
 {161}{}{Egy nap lesz olyan fegyverem, ami meszebb is ell?.}
-{162}{}{Esküszöm, hogy láttam a bogárembereket a legel?n, a várostól keletre.}
-{170}{}{Utáltam a patkányokat. Örülök, hogy végre elt?ntek.}
-{171}{}{A prémvadászat veszélyes, de megéri.}
-{172}{}{Vigyázz az aranygekkókkal, kétszer er?sebbek, mint a kisebbek!}
-{173}{}{Arroyóból jöttél, ugye? Ránézésre megmondom.}
-{174}{}{Sokkal több patkány volt itt. Nem mintha hiányoznának.}
-{175}{}{A patkányok úgy t?ntek el innen, mint egy süllyed? hajóról.}
-{176}{}{(Hangosan csámcsog) A patkányhús sokkal finomabb, mint azt a legtöbben elképzelik. Kérsz?}
-{177}{}{Tudod, a gekkók sokkal finomabbak, ha rendesen megf?zöd.}
-{178}{}{Néhány állat sokkal jobban szereti a szárított húst, és ha szerencséd van, az kell nekik és nem te magad.}
-{179}{}{Mostanában nem hallom azt a fura hangot a patkányok barlangjából. Kiváncsi vagyok, mi történhetett?}
-{180}{}{T'od, ne röhögj ki, de asszem, a Patkány Király megpusztult.}
-{181}{}{Hallottam, hogy a Patkány Király elpusztult, nem mintha hinnék az ilyen dolgokban.}
-{200}{}{Egy faragatlan, b?rcsizmát visel? fickót látsz.}
-{201}{}{Ez az ember úgy néz ki, mint aki sok id?t tölt a szabadban.}
-{202}{}{Ez az ember rongyos, de foltozott ruhát visel.}
-{203}{}{Ez a prémvadász faragatlan, és gekkób?r-csizmát visel.}
-{204}{}{Ez az ember biztos sok id?t tölt a vadonban. Gekkób?r-inget visel.}
-{205}{}{Egy Prémvadász-városbeli vadászhoz van szerencséd.}
+{162}{}{EskÃ¼szÃ¶m, hogy lÃ¡ttam a bogÃ¡rembereket a legel?n, a vÃ¡rostÃ³l keletre.}
+{170}{}{UtÃ¡ltam a patkÃ¡nyokat. Ã–rÃ¼lÃ¶k, hogy vÃ©gre elt?ntek.}
+{171}{}{A prÃ©mvadÃ¡szat veszÃ©lyes, de megÃ©ri.}
+{172}{}{VigyÃ¡zz az aranygekkÃ³kkal, kÃ©tszer er?sebbek, mint a kisebbek!}
+{173}{}{ArroyÃ³bÃ³l jÃ¶ttÃ©l, ugye? RÃ¡nÃ©zÃ©sre megmondom.}
+{174}{}{Sokkal tÃ¶bb patkÃ¡ny volt itt. Nem mintha hiÃ¡nyoznÃ¡nak.}
+{175}{}{A patkÃ¡nyok Ãºgy t?ntek el innen, mint egy sÃ¼llyed? hajÃ³rÃ³l.}
+{176}{}{(Hangosan csÃ¡mcsog) A patkÃ¡nyhÃºs sokkal finomabb, mint azt a legtÃ¶bben elkÃ©pzelik. KÃ©rsz?}
+{177}{}{Tudod, a gekkÃ³k sokkal finomabbak, ha rendesen megf?zÃ¶d.}
+{178}{}{NÃ©hÃ¡ny Ã¡llat sokkal jobban szereti a szÃ¡rÃ­tott hÃºst, Ã©s ha szerencsÃ©d van, az kell nekik Ã©s nem te magad.}
+{179}{}{MostanÃ¡ban nem hallom azt a fura hangot a patkÃ¡nyok barlangjÃ¡bÃ³l. KivÃ¡ncsi vagyok, mi tÃ¶rtÃ©nhetett?}
+{180}{}{T'od, ne rÃ¶hÃ¶gj ki, de asszem, a PatkÃ¡ny KirÃ¡ly megpusztult.}
+{181}{}{Hallottam, hogy a PatkÃ¡ny KirÃ¡ly elpusztult, nem mintha hinnÃ©k az ilyen dolgokban.}
+{200}{}{Egy faragatlan, b?rcsizmÃ¡t visel? fickÃ³t lÃ¡tsz.}
+{201}{}{Ez az ember Ãºgy nÃ©z ki, mint aki sok id?t tÃ¶lt a szabadban.}
+{202}{}{Ez az ember rongyos, de foltozott ruhÃ¡t visel.}
+{203}{}{Ez a prÃ©mvadÃ¡sz faragatlan, Ã©s gekkÃ³b?r-csizmÃ¡t visel.}
+{204}{}{Ez az ember biztos sok id?t tÃ¶lt a vadonban. GekkÃ³b?r-inget visel.}
+{205}{}{Egy PrÃ©mvadÃ¡sz-vÃ¡rosbeli vadÃ¡szhoz van szerencsÃ©d.}

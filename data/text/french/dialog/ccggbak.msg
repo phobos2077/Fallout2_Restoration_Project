@@ -1,18 +1,18 @@
 {100}{}{Tu vois un garde.}
 {101}{}{Tu vois un garde en SuperArmure.}
-{102}{}{Tu vois quelqu'un vêtu d'une SuperArmure quelque peu inhabituelle. Son plastron porte un insigne que tu n'as jamais vu avant.}
+{102}{}{Tu vois quelqu'un vÃªtu d'une SuperArmure quelque peu inhabituelle. Son plastron porte un insigne que tu n'as jamais vu avant.}
 {103}{}{Avance.}
 {104}{}{Je suis en service. Je n'ai pas le temps de discuter.}
-{105}{}{Allez, circule. Le portail est de ce côté.}
-{106}{}{Vaudrait mieux que t'ailles chercher ton équipement réglementaire.}
+{105}{}{Allez, circule. Le portail est de ce cÃ´tÃ©.}
+{106}{}{Vaudrait mieux que t'ailles chercher ton Ã©quipement rÃ©glementaire.}
 {107}{}{Ne te ballade pas sans uniforme.}
-{108}{}{Tu es dans l'armée maintenant. Ne te montre pas sans uniforme.}
-{109}{}{Des envahisseurs à l'entrée principale !}
+{108}{}{Tu es dans l'armÃ©e maintenant. Ne te montre pas sans uniforme.}
+{109}{}{Des envahisseurs Ã  l'entrÃ©e principale !}
 {110}{}{Sonnez l'alarme ! Des envahisseurs !}
-{111}{}{Déployez du renfort à l'entrée principale ! Il y a des envahisseurs !!}
-{112}{}{Alerte de sécurité à la porte principale !}
-{113}{}{Verrouillez toutes les stations ! L'entrée principale est attaquée !}
-{114}{}{Code rouge à la porte principale !}
+{111}{}{DÃ©ployez du renfort Ã  l'entrÃ©e principale ! Il y a des envahisseurs !!}
+{112}{}{Alerte de sÃ©curitÃ© Ã  la porte principale !}
+{113}{}{Verrouillez toutes les stations ! L'entrÃ©e principale est attaquÃ©e !}
+{114}{}{Code rouge Ã  la porte principale !}
 {115}{}{On va t'exterminer !!}
-{116}{}{L'Enclave régnera sur le monde !}
-{117}{}{Ta mort permettra à l'Enclave de survivre !}
+{116}{}{L'Enclave rÃ©gnera sur le monde !}
+{117}{}{Ta mort permettra Ã  l'Enclave de survivre !}

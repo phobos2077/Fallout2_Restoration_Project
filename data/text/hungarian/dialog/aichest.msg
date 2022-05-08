@@ -1,7 +1,7 @@
-{100}{}{Egy v·z·t l·tsz.}
-{101}{}{Egy kis l·d·t l·tsz.}
-{102}{}{Egy napon sz·rÌtott agyagv·z·t l·tsz.}
-{103}{}{Egy l·d·t l·tsz, amelyben a s·m·n a gyÛgyf¸veit szokta t·rolni.}
-{104}{}{‹gyesen lopsz a s·m·n dolgaibÛl.}
+{100}{}{Egy v√°z√°t l√°tsz.}
+{101}{}{Egy kis l√°d√°t l√°tsz.}
+{102}{}{Egy napon sz√°r√≠tott agyagv√°z√°t l√°tsz.}
+{103}{}{Egy l√°d√°t l√°tsz, amelyben a s√°m√°n a gy√≥gyf√ºveit szokta t√°rolni.}
+{104}{}{√úgyesen lopsz a s√°m√°n dolgaib√≥l.}
 {105}{}{You skillfully lock the chest.}
 {106}{}{You skillfully unlock the chest.}

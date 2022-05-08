@@ -1,41 +1,41 @@
-{100}{}{Ez az ember a kaszinó felügyel?je.}
-{150}{}{Ez a férfi igen jólöltözött. Egyfolytában a kaszinót fürkészi.}
-{200}{}{Ööö... le kéne vennie azt a páncélt!}
-{210}{}{Ööö... miért lopakodik itt, uram?}
-{220}{}{Ööö... miért lopakodik itt, hölgyem?}
-{230}{}{Jó estét, [MM], uram.}
-{240}{}{Jó estét, [MM], hölgyem.}
-{250}{}{Jó napot, [MM], uram.}
-{260}{}{Jó napot, [MM], hölgyem.}
-{270}{}{Barátom, úgy t?nik, nem abba a kaszinóba jöttél, amelyikbe akartál.}
-{280}{}{Uram, sajnálom, de el kell raknia azt a fegyvert!}
-{290}{}{Hölgyem, sajnálom, de el kell raknia azt a fegyvert!}
-{300}{}{Kedvesem, sajnálom, de a kaszinóban nem lehet fegyvert hordani. [Mosolyog.]... anélkül is éppen elég halálos vagy.}
+{100}{}{Ez az ember a kaszinÃ³ felÃ¼gyel?je.}
+{150}{}{Ez a fÃ©rfi igen jÃ³lÃ¶ltÃ¶zÃ¶tt. EgyfolytÃ¡ban a kaszinÃ³t fÃ¼rkÃ©szi.}
+{200}{}{Ã–Ã¶Ã¶... le kÃ©ne vennie azt a pÃ¡ncÃ©lt!}
+{210}{}{Ã–Ã¶Ã¶... miÃ©rt lopakodik itt, uram?}
+{220}{}{Ã–Ã¶Ã¶... miÃ©rt lopakodik itt, hÃ¶lgyem?}
+{230}{}{JÃ³ estÃ©t, [MM], uram.}
+{240}{}{JÃ³ estÃ©t, [MM], hÃ¶lgyem.}
+{250}{}{JÃ³ napot, [MM], uram.}
+{260}{}{JÃ³ napot, [MM], hÃ¶lgyem.}
+{270}{}{BarÃ¡tom, Ãºgy t?nik, nem abba a kaszinÃ³ba jÃ¶ttÃ©l, amelyikbe akartÃ¡l.}
+{280}{}{Uram, sajnÃ¡lom, de el kell raknia azt a fegyvert!}
+{290}{}{HÃ¶lgyem, sajnÃ¡lom, de el kell raknia azt a fegyvert!}
+{300}{}{Kedvesem, sajnÃ¡lom, de a kaszinÃ³ban nem lehet fegyvert hordani. [Mosolyog.]... anÃ©lkÃ¼l is Ã©ppen elÃ©g halÃ¡los vagy.}
 {310}{}{Kedvesem, ilyen testtel sehova nem fogsz tudni elosonni.}
 {320}{}{Vadember, most azonnal tedd el azt a fegyvert!}
-{330}{}{Vadember, hagyd a picsába abba a lopakodást most azonnal!}
-{340}{}{[Myronnak] Hé, hé... Myron! Régóta nem láttunk a laboron kívül.}
-{350}{}{[Marcus felé biccent.] Mutánsoknak kinn a helyük!}
+{330}{}{Vadember, hagyd a picsÃ¡ba abba a lopakodÃ¡st most azonnal!}
+{340}{}{[Myronnak] HÃ©, hÃ©... Myron! RÃ©gÃ³ta nem lÃ¡ttunk a laboron kÃ­vÃ¼l.}
+{350}{}{[Marcus felÃ© biccent.] MutÃ¡nsoknak kinn a helyÃ¼k!}
 {360}{}{A droid kinnmarad!}
-{370}{}{Szolgálatban nem lenne szabad beszélgetnem, de azért örülök, hogy kipicsáztad az Enklávét.}
-{380}{}{A hármas asztalhoz több pénz kell...}
-{390}{}{A hármas asztalhoz több pénz kell...}
-{400}{}{[X]! Hallottam, hogy ön taszította vissza az Enklávét a k?korszakba! [Hivatalos hangra vált.] Azt az utasítást kaptam, hogy a cég ajándékaként adjak egy kisebb összeget. Érezze jól magát nálunk, uram!}
-{420}{}{Hé, nézd már ki van itt! Hé, [PS]! [Mosolyog.] Üdvözlünk a [CN] kaszinóban. Tetszenek a filmjeid.}
+{370}{}{SzolgÃ¡latban nem lenne szabad beszÃ©lgetnem, de azÃ©rt Ã¶rÃ¼lÃ¶k, hogy kipicsÃ¡ztad az EnklÃ¡vÃ©t.}
+{380}{}{A hÃ¡rmas asztalhoz tÃ¶bb pÃ©nz kell...}
+{390}{}{A hÃ¡rmas asztalhoz tÃ¶bb pÃ©nz kell...}
+{400}{}{[X]! Hallottam, hogy Ã¶n taszÃ­totta vissza az EnklÃ¡vÃ©t a k?korszakba! [Hivatalos hangra vÃ¡lt.] Azt az utasÃ­tÃ¡st kaptam, hogy a cÃ©g ajÃ¡ndÃ©kakÃ©nt adjak egy kisebb Ã¶sszeget. Ã‰rezze jÃ³l magÃ¡t nÃ¡lunk, uram!}
+{420}{}{HÃ©, nÃ©zd mÃ¡r ki van itt! HÃ©, [PS]! [Mosolyog.] ÃœdvÃ¶zlÃ¼nk a [CN] kaszinÃ³ban. Tetszenek a filmjeid.}
 {440}{}{Mondd! Mit akarsz tudni?}
-{460}{}{Öö, jobb lenne, ha továbbállna, uram.}
-{470}{}{Igen, anyád szerint én is különleges vagyok. Na, eridj innen... lehet, hogy valahol a Sz?z utcában megtalálod a mamádat.}
-{480}{}{Én vagyok itt a felvigyázó. [Egy kicsit bosszankodik.] Mit tehetek érted?}
-{490}{}{Ez itt a [CN]. Ha kell valami, csak szólj!}
-{500}{}{A város legfaszább kaszinója... csak egy kicsit el vagyok havazva. [Nevet.] Akarsz még valamit tudni?}
-{510}{}{A [CA] család tulajdona. ?k dobták fel ezt a krimót, és csináltak bel?le igazi éjszakai szórakozóhelyet. Ragyogó ékk? New Renóban.}
-{520}{}{Az ott? A vén McGee? ?rült vén fasz... az utóbbi években folyton azon a gépen játszik, és egyre csak a f?nyereményt várja. Az összes vagyonát beleölte a gépbe, de egy kanyit sem akar neki visszaadni.}
-{530}{}{[Megrázza a fejét.] Nincs, csak nagyon makacs szegény... csakúgy, mint az öreg. [Vállat von.] Nyilván volna mit rajta javítgatni, de nincs játékautomata szerel?nk, aki meg tudná szerelni azt a vackot.}
-{540}{}{Ja, az a köcsög bejött ide egy hete, és az egyik asztalnál nyert vagy ezer dollárt, aztán lelépett. Nem tudom, most hol lehet, de volt neki egy szobája a Desperadóban.}
-{550}{}{Nikki? [Végignéz a termen.] Igen, a középs? asztalnál ül. Van valami probléma?}
-{560}{}{Nikki-nek HÍVTÁK. Nálunk dolgozott, de kinyírták... a közelmúltban.}
-{570}{}{Nikki-nek hívták. Nálunk dolgozott, de nem is olyan régen felmondott. Szépen összepakolt és lelépett.}
-{580}{}{Hogyne, számítunk rád. Az öltöz? hátul van...}
-{590}{}{[A fejét rázza.] Szó sem lehet róla, még mindig próbálunk magunkhoz térni az utolsó el?adásod óta. Asszem, jobb lesz, ha más kaszinóban próbálkozol.}
-{600}{}{Összeszámolod az esti keresetet. [C] dolcsi ütötte a markod. Szép summa.}
-{610}{}{Ja, büdösebb, mint a brahminszar. Azért oké...? [Kicsit kétkedve méreget.] Hát miért is ne. Egy kis impró nem árthat, de a közönség nagyon finnyás... nagyon jónak kell ám lenned.}
+{460}{}{Ã–Ã¶, jobb lenne, ha tovÃ¡bbÃ¡llna, uram.}
+{470}{}{Igen, anyÃ¡d szerint Ã©n is kÃ¼lÃ¶nleges vagyok. Na, eridj innen... lehet, hogy valahol a Sz?z utcÃ¡ban megtalÃ¡lod a mamÃ¡dat.}
+{480}{}{Ã‰n vagyok itt a felvigyÃ¡zÃ³. [Egy kicsit bosszankodik.] Mit tehetek Ã©rted?}
+{490}{}{Ez itt a [CN]. Ha kell valami, csak szÃ³lj!}
+{500}{}{A vÃ¡ros legfaszÃ¡bb kaszinÃ³ja... csak egy kicsit el vagyok havazva. [Nevet.] Akarsz mÃ©g valamit tudni?}
+{510}{}{A [CA] csalÃ¡d tulajdona. ?k dobtÃ¡k fel ezt a krimÃ³t, Ã©s csinÃ¡ltak bel?le igazi Ã©jszakai szÃ³rakozÃ³helyet. RagyogÃ³ Ã©kk? New RenÃ³ban.}
+{520}{}{Az ott? A vÃ©n McGee? ?rÃ¼lt vÃ©n fasz... az utÃ³bbi Ã©vekben folyton azon a gÃ©pen jÃ¡tszik, Ã©s egyre csak a f?nyeremÃ©nyt vÃ¡rja. Az Ã¶sszes vagyonÃ¡t beleÃ¶lte a gÃ©pbe, de egy kanyit sem akar neki visszaadni.}
+{530}{}{[MegrÃ¡zza a fejÃ©t.] Nincs, csak nagyon makacs szegÃ©ny... csakÃºgy, mint az Ã¶reg. [VÃ¡llat von.] NyilvÃ¡n volna mit rajta javÃ­tgatni, de nincs jÃ¡tÃ©kautomata szerel?nk, aki meg tudnÃ¡ szerelni azt a vackot.}
+{540}{}{Ja, az a kÃ¶csÃ¶g bejÃ¶tt ide egy hete, Ã©s az egyik asztalnÃ¡l nyert vagy ezer dollÃ¡rt, aztÃ¡n lelÃ©pett. Nem tudom, most hol lehet, de volt neki egy szobÃ¡ja a DesperadÃ³ban.}
+{550}{}{Nikki? [VÃ©gignÃ©z a termen.] Igen, a kÃ¶zÃ©ps? asztalnÃ¡l Ã¼l. Van valami problÃ©ma?}
+{560}{}{Nikki-nek HÃVTÃK. NÃ¡lunk dolgozott, de kinyÃ­rtÃ¡k... a kÃ¶zelmÃºltban.}
+{570}{}{Nikki-nek hÃ­vtÃ¡k. NÃ¡lunk dolgozott, de nem is olyan rÃ©gen felmondott. SzÃ©pen Ã¶sszepakolt Ã©s lelÃ©pett.}
+{580}{}{Hogyne, szÃ¡mÃ­tunk rÃ¡d. Az Ã¶ltÃ¶z? hÃ¡tul van...}
+{590}{}{[A fejÃ©t rÃ¡zza.] SzÃ³ sem lehet rÃ³la, mÃ©g mindig prÃ³bÃ¡lunk magunkhoz tÃ©rni az utolsÃ³ el?adÃ¡sod Ã³ta. Asszem, jobb lesz, ha mÃ¡s kaszinÃ³ban prÃ³bÃ¡lkozol.}
+{600}{}{Ã–sszeszÃ¡molod az esti keresetet. [C] dolcsi Ã¼tÃ¶tte a markod. SzÃ©p summa.}
+{610}{}{Ja, bÃ¼dÃ¶sebb, mint a brahminszar. AzÃ©rt okÃ©...? [Kicsit kÃ©tkedve mÃ©reget.] HÃ¡t miÃ©rt is ne. Egy kis imprÃ³ nem Ã¡rthat, de a kÃ¶zÃ¶nsÃ©g nagyon finnyÃ¡s... nagyon jÃ³nak kell Ã¡m lenned.}

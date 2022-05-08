@@ -1,3 +1,3 @@
-{100}{}{Egy hegy oldalában lév? barlang bejáratához érkeztél.}
+{100}{}{Egy hegy oldalÃ¡ban lÃ©v? barlang bejÃ¡ratÃ¡hoz Ã©rkeztÃ©l.}
 {101}{}{You have come across a circle of wrecked shacks. In the middle is a manhole with a ladder leading down.}
-{102}{}{Megtörted a fosztogatók erejét. Többé nem terrorizálhatják a környéket.}
+{102}{}{MegtÃ¶rted a fosztogatÃ³k erejÃ©t. TÃ¶bbÃ© nem terrorizÃ¡lhatjÃ¡k a kÃ¶rnyÃ©ket.}

@@ -1,7 +1,7 @@
 {10}{}{Nada}
 {100}{}{Vidro}
 {101}{}{Metal}
-{102}{}{Plástico}
+{102}{}{PlÃ¡stico}
 {103}{}{Madeira}
 {104}{}{Sujeira}
 {105}{}{Pedra}
@@ -11,7 +11,7 @@
 {151}{}{Recipiente}
 {152}{}{Droga}
 {153}{}{Arma}
-{154}{}{Munição}
+{154}{}{MuniÃ§Ã£o}
 {155}{}{Diversos objetos}
 {156}{}{Chave}
 {200}{}{Portal}
@@ -19,14 +19,14 @@
 {202}{}{Elevador}
 {203}{}{Escada inferior}
 {204}{}{Escada superior}
-{205}{}{Cenário genérico}
+{205}{}{CenÃ¡rio genÃ©rico}
 {250}{}{dano normal}
 {251}{}{laser}
 {252}{}{fogo}
 {253}{}{plasma}
-{254}{}{elétrico}
+{254}{}{elÃ©trico}
 {255}{}{emp}
-{256}{}{explosão}
+{256}{}{explosÃ£o}
 {300}{}{Nenhum}
 {301}{}{Foguete}
 {302}{}{Flamethrower Fuel}
@@ -48,12 +48,12 @@
 {318}{}{7.62mm}
 {350}{}{Caucasiano}
 {351}{}{Africano}
-{400}{}{Bípede}
-{401}{}{Quadrúpede}
-{402}{}{Robótico}
+{400}{}{BÃ­pede}
+{401}{}{QuadrÃºpede}
+{402}{}{RobÃ³tico}
 {450}{}{Homens}
 {451}{}{Mulheres}
-{452}{}{Crianças}
+{452}{}{CrianÃ§as}
 {453}{}{Super mutantes}
 {454}{}{Ghouls}
 {455}{}{Brahmin}
@@ -66,29 +66,29 @@
 {462}{}{Manti}
 {463}{}{Deathclaws}
 {464}{}{Plantas}
-{465}{}{Esta linha mostra o número de seres humanos masculinos que você matou durante o curso de suas aventuras.}
-{466}{}{Esta linha mostra o número de seres humanos do sexo feminino que você matou durante o curso de suas aventuras.}
-{467}{}{Esta linha mostra o número de jovens crianças humanas que você matou durante o curso de suas aventuras. Monstro}
-{468}{}{O número de Super Mutantes que você matou durante o curso de suas aventuras.}
-{469}{}{Esta linha mostra o número de mutantes ghouls masculinos e femininos que você matou durante o curso de suas aventuras.}
-{470}{}{Esta linha mostra o número de brahmin (vacas mutantes) que você matou durante as suas viagens.}
-{471}{}{O número de Radscorpions mutantes que você matou durante a sua aventura.}
-{472}{}{O número de ratos que você matou. Inclui todos os membros da família de rato.}
-{473}{}{Este é o número de Floaters mutantes que você matou.}
+{465}{}{Esta linha mostra o nÃºmero de seres humanos masculinos que vocÃª matou durante o curso de suas aventuras.}
+{466}{}{Esta linha mostra o nÃºmero de seres humanos do sexo feminino que vocÃª matou durante o curso de suas aventuras.}
+{467}{}{Esta linha mostra o nÃºmero de jovens crianÃ§as humanas que vocÃª matou durante o curso de suas aventuras. Monstro}
+{468}{}{O nÃºmero de Super Mutantes que vocÃª matou durante o curso de suas aventuras.}
+{469}{}{Esta linha mostra o nÃºmero de mutantes ghouls masculinos e femininos que vocÃª matou durante o curso de suas aventuras.}
+{470}{}{Esta linha mostra o nÃºmero de brahmin (vacas mutantes) que vocÃª matou durante as suas viagens.}
+{471}{}{O nÃºmero de Radscorpions mutantes que vocÃª matou durante a sua aventura.}
+{472}{}{O nÃºmero de ratos que vocÃª matou. Inclui todos os membros da famÃ­lia de rato.}
+{473}{}{Este Ã© o nÃºmero de Floaters mutantes que vocÃª matou.}
 {474}{}{Seu registro de Centaurs mutantes mortos.}
-{475}{}{Este é o número de robôs que você destruídos ou desmontou.}
-{476}{}{O número total de cães que você enviou para o grande canil no céu.}
-{477}{}{Esta linha mostra o número total de Manti mortos, ou bichos similares que você tenha esmagado até o momento.}
-{478}{}{Esta linha mostra a quantidade de Deathclaw mortos, e qualquer um de sua espécie.}
-{479}{}{Esta linha mostra o número de plantas que você eliminou do mundo.}
-{480}{}{Você vê: %s.}
-{485}{}{Você procura o %s.}
-{486}{}{Você fechar o %s.}
+{475}{}{Este Ã© o nÃºmero de robÃ´s que vocÃª destruÃ­dos ou desmontou.}
+{476}{}{O nÃºmero total de cÃ£es que vocÃª enviou para o grande canil no cÃ©u.}
+{477}{}{Esta linha mostra o nÃºmero total de Manti mortos, ou bichos similares que vocÃª tenha esmagado atÃ© o momento.}
+{478}{}{Esta linha mostra a quantidade de Deathclaw mortos, e qualquer um de sua espÃ©cie.}
+{479}{}{Esta linha mostra o nÃºmero de plantas que vocÃª eliminou do mundo.}
+{480}{}{VocÃª vÃª: %s.}
+{485}{}{VocÃª procura o %s.}
+{486}{}{VocÃª fechar o %s.}
 {487}{}{Esta trancado.}
-{490}{}{Você vê: %s.}
-{491}{}{Você vê um morto: %s.}
-{492}{}{Você vê os restos de: %s.}
-{493}{}{Você não vê nada fora do comum.}
+{490}{}{VocÃª vÃª: %s.}
+{491}{}{VocÃª vÃª um morto: %s.}
+{492}{}{VocÃª vÃª os restos de: %s.}
+{493}{}{VocÃª nÃ£o vÃª nada fora do comum.}
 {500}{}{Morto}
 {501}{}{Quase morto}
 {502}{}{Gravemente ferido}
@@ -97,9 +97,9 @@
 {510}{}{AC Mod: %d}
 {511}{}{DR Mod: %d}
 {512}{}{Dmg Mod: %d/%d}
-{518}{}{Você vê: %s }
+{518}{}{VocÃª vÃª: %s }
 {519}{}{%s %s }
-{520}{}{Você vê: %s.}
+{520}{}{VocÃª vÃª: %s.}
 {521}{}{%s %s.}
 {522}{}{Ele parece: %s }
 {523}{}{Ela parece: %s }
@@ -119,31 +119,31 @@
 {545}{}{.}
 {546}{}{ e carrega um %s.}
 {547}{}{ e carrega um %s com %d/%d unidades de %s.}
-{548}{}{O carro não parece que está funcionando no momento.}
-{549}{}{O carro está funcionando em %d%% de energia.}
+{548}{}{O carro nÃ£o parece que estÃ¡ funcionando no momento.}
+{549}{}{O carro estÃ¡ funcionando em %d%% de energia.}
 {550}{}{\nError: lookup_val out of range!}
 {551}{}{\nError: obj_examine: proto_ptr failed!}
-{580}{}{Você usa %s.}
-{581}{}{Você usa %s em %s.}
-{582}{}{Isto não faz nada.}
-{583}{}{Para seu espanto, você percebe que ele já está morto.}
-{584}{}{Quando você olha para baixo, você percebe que ele já está morto.}
-{585}{}{Infelizmente, você chegou tarde de mais.}
-{586}{}{Isso não vai funcionar em um morto.}
-{587}{}{Você acende a chama.}
-{588}{}{A chama já está acesa.}
-{589}{}{Você ajustar o temporizador.}
-{590}{}{O temporizador já está tiquetaqueando!}
-{595}{}{Você recarrega o carro com mais energia.}
-{596}{}{O carro já está cheio de energia.}
+{580}{}{VocÃª usa %s.}
+{581}{}{VocÃª usa %s em %s.}
+{582}{}{Isto nÃ£o faz nada.}
+{583}{}{Para seu espanto, vocÃª percebe que ele jÃ¡ estÃ¡ morto.}
+{584}{}{Quando vocÃª olha para baixo, vocÃª percebe que ele jÃ¡ estÃ¡ morto.}
+{585}{}{Infelizmente, vocÃª chegou tarde de mais.}
+{586}{}{Isso nÃ£o vai funcionar em um morto.}
+{587}{}{VocÃª acende a chama.}
+{588}{}{A chama jÃ¡ estÃ¡ acesa.}
+{589}{}{VocÃª ajustar o temporizador.}
+{590}{}{O temporizador jÃ¡ estÃ¡ tiquetaqueando!}
+{595}{}{VocÃª recarrega o carro com mais energia.}
+{596}{}{O carro jÃ¡ estÃ¡ cheio de energia.}
 {597}{}{A porta parece estar bloqueada.}
-{620}{}{Você ganha %d pontos de experiência por matar: %s.}
-{621}{}{%s você ganha %d pontos de experiência.}
+{620}{}{VocÃª ganha %d pontos de experiÃªncia por matar: %s.}
+{621}{}{%s vocÃª ganha %d pontos de experiÃªncia.}
 {622}{}{Por derrotar seus inimigos,}
 {623}{}{Por matar seus oponentes,}
 {624}{}{Por ser vitorioso em combate,}
 {625}{}{Por esmagar seus inimigos,}
-{626}{}{Por destruir seus inimigos sem tomar um arranhão,}
+{626}{}{Por destruir seus inimigos sem tomar um arranhÃ£o,}
 {650}{}{[FEITO]}
 {651}{}{[MAIS]}
 {652}{}{mais}
@@ -151,37 +151,37 @@
 {654}{}{De volta}
 {655}{}{Continuar}
 {656}{}{Err...}
-{660}{}{Você não pode ver lá.}
+{660}{}{VocÃª nÃ£o pode ver lÃ¡.}
 {661}{}{Longe demais.}
 {670}{}{Tudo bem.}
 {671}{}{Com certeza.}
 {672}{}{Como desejar.}
-{673}{}{O que você diz.}
+{673}{}{O que vocÃª diz.}
 {674}{}{Eu vou tentar.}
-{675}{}{Eu não posso fazer isso.}
-{676}{}{Eu não acho que posso fazer isso.}
+{675}{}{Eu nÃ£o posso fazer isso.}
+{676}{}{Eu nÃ£o acho que posso fazer isso.}
 {677}{}{Arf!}
 {678}{}{Woof!}
-{700}{}{Você não tem pontos de ação suficientes.}
-{800}{}{Você leu o livro.}
-{801}{}{Não aprende nada de novo.}
-{802}{}{Você aprende novas informações ciêntificas.}
-{803}{}{Você aprende muito sobre como reparar eletrônicos quebrados.}
-{804}{}{Você aprende novas maneiras de curar ferimentos.}
-{805}{}{Você aprende a lidar melhor com as suas armas.}
-{806}{}{Você aprende muito sobre sobrevivência na selva.}
+{700}{}{VocÃª nÃ£o tem pontos de aÃ§Ã£o suficientes.}
+{800}{}{VocÃª leu o livro.}
+{801}{}{NÃ£o aprende nada de novo.}
+{802}{}{VocÃª aprende novas informaÃ§Ãµes ciÃªntificas.}
+{803}{}{VocÃª aprende muito sobre como reparar eletrÃ´nicos quebrados.}
+{804}{}{VocÃª aprende novas maneiras de curar ferimentos.}
+{805}{}{VocÃª aprende a lidar melhor com as suas armas.}
+{806}{}{VocÃª aprende muito sobre sobrevivÃªncia na selva.}
 {900}{}{Os suprimentos no saco do doutor acabou.}
 {901}{}{Os suprimentos do kit de primeiros socorros acabou.}
-{902}{}{Você não pode fazer isso em combate.}
-{903}{}{Essa pessoa não vai negociar com você.}
-{904}{}{Esta pessoa não tem nada a dizer.}
-{905}{}{Você não pode pegar o item. Você está na sua capacidade máxima de peso.}
-{910}{}{Os suprimentos no saco do paramédico acabou.}
+{902}{}{VocÃª nÃ£o pode fazer isso em combate.}
+{903}{}{Essa pessoa nÃ£o vai negociar com vocÃª.}
+{904}{}{Esta pessoa nÃ£o tem nada a dizer.}
+{905}{}{VocÃª nÃ£o pode pegar o item. VocÃª estÃ¡ na sua capacidade mÃ¡xima de peso.}
+{910}{}{Os suprimentos no saco do paramÃ©dico acabou.}
 {911}{}{Os suprimentos do kit de primeiros socorros acabou.}
-{913}{}{Esta criatura não pode levar nada.}
+{913}{}{Esta criatura nÃ£o pode levar nada.}
 {1450}{}{Homens}
 {1451}{}{Mulheres}
-{1452}{}{Crianças}
+{1452}{}{CrianÃ§as}
 {1453}{}{Super Mutantes}
 {1454}{}{Ghouls}
 {1455}{}{Brahmin}
@@ -198,22 +198,22 @@
 {1466}{}{Aliens}
 {1467}{}{Giant Ants}
 {1468}{}{Big Bad Boss}
-{1469}{}{Esta linha mostra o número de seres humanos masculinos que você matou durante o curso de suas aventuras.}
-{1470}{}{Esta linha mostra o número de seres humanos do sexo feminino que você matou durante o curso de suas aventuras.}
-{1471}{}{Esta linha mostra o número de jovens crianças humanas que você matou durante o curso de suas aventuras. Monstro}
-{1472}{}{O número de Super Mutantes que você matou durante o curso de suas aventuras.}
-{1473}{}{Esta linha mostra o número de mutantes ghouls masculinos e femininos que você matou durante o curso de suas aventuras.}
-{1474}{}{Esta linha mostra o número de brahmin (vacas mutantes) que você matou durante as suas viagens.}
-{1475}{}{O número de Radscorpions mutantes que você matou durante a sua aventura.}
-{1476}{}{O número de ratos que você matou. Inclui todos os membros da família de rato.}
-{1477}{}{Este é o número de Floaters mutantes que você matou.}
+{1469}{}{Esta linha mostra o nÃºmero de seres humanos masculinos que vocÃª matou durante o curso de suas aventuras.}
+{1470}{}{Esta linha mostra o nÃºmero de seres humanos do sexo feminino que vocÃª matou durante o curso de suas aventuras.}
+{1471}{}{Esta linha mostra o nÃºmero de jovens crianÃ§as humanas que vocÃª matou durante o curso de suas aventuras. Monstro}
+{1472}{}{O nÃºmero de Super Mutantes que vocÃª matou durante o curso de suas aventuras.}
+{1473}{}{Esta linha mostra o nÃºmero de mutantes ghouls masculinos e femininos que vocÃª matou durante o curso de suas aventuras.}
+{1474}{}{Esta linha mostra o nÃºmero de brahmin (vacas mutantes) que vocÃª matou durante as suas viagens.}
+{1475}{}{O nÃºmero de Radscorpions mutantes que vocÃª matou durante a sua aventura.}
+{1476}{}{O nÃºmero de ratos que vocÃª matou. Inclui todos os membros da famÃ­lia de rato.}
+{1477}{}{Este Ã© o nÃºmero de Floaters mutantes que vocÃª matou.}
 {1478}{}{Seu registro de Centaurs mutantes mortos.}
-{1479}{}{Este é o número de robôs que você destruídos ou desmontou.}
-{1480}{}{O número total de cães que você enviou para o grande canil no céu.}
-{1481}{}{Esta linha mostra o número total de Manti mortos, ou bichos similares que você tenha esmagado até o momento.}
-{1482}{}{Esta linha mostra a quantidade de Deathclaw mortos, e qualquer um de sua espécie.}
-{1483}{}{Esta linha mostra o número de plantas que você eliminou do mundo.}
-{1484}{}{O número de lagartos que você apagou da face do planeta.}
-{1485}{}{Uma contagem de coisas estranhas morto por sua mão.}
-{1486}{}{O número de insetos que você exterminou.}
-{1487}{}{A quantidade de maníacos homicidas cibernéticos criados por engenharia genética que você matou.}
+{1479}{}{Este Ã© o nÃºmero de robÃ´s que vocÃª destruÃ­dos ou desmontou.}
+{1480}{}{O nÃºmero total de cÃ£es que vocÃª enviou para o grande canil no cÃ©u.}
+{1481}{}{Esta linha mostra o nÃºmero total de Manti mortos, ou bichos similares que vocÃª tenha esmagado atÃ© o momento.}
+{1482}{}{Esta linha mostra a quantidade de Deathclaw mortos, e qualquer um de sua espÃ©cie.}
+{1483}{}{Esta linha mostra o nÃºmero de plantas que vocÃª eliminou do mundo.}
+{1484}{}{O nÃºmero de lagartos que vocÃª apagou da face do planeta.}
+{1485}{}{Uma contagem de coisas estranhas morto por sua mÃ£o.}
+{1486}{}{O nÃºmero de insetos que vocÃª exterminou.}
+{1487}{}{A quantidade de manÃ­acos homicidas cibernÃ©ticos criados por engenharia genÃ©tica que vocÃª matou.}

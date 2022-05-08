@@ -1,6 +1,6 @@
-{100}{}{Você verá uma pedra.}
-{101}{}{Você vê um eixo de ventilação camuflado.}
-{102}{}{Você não vê nada fora do comum.}
-{110}{}{Isto não faz nada.}
-{120}{}{Você não pode voltar para o eixo de ventilação.}
-{200}{}{Você vê um eixo de ventilação.}
+{100}{}{VocÃª verÃ¡ uma pedra.}
+{101}{}{VocÃª vÃª um eixo de ventilaÃ§Ã£o camuflado.}
+{102}{}{VocÃª nÃ£o vÃª nada fora do comum.}
+{110}{}{Isto nÃ£o faz nada.}
+{120}{}{VocÃª nÃ£o pode voltar para o eixo de ventilaÃ§Ã£o.}
+{200}{}{VocÃª vÃª um eixo de ventilaÃ§Ã£o.}

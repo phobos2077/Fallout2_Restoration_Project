@@ -3,6 +3,6 @@
 {102}{}{Un prisonnier au regard triste, appartenant au docteur.}
 {103}{}{A L'AIDE !}
 {104}{}{AIDEZ-NOUS !}
-{105}{}{S'il vous plaît, libérez-nous !!}
+{105}{}{S'il vous plaÃ®t, libÃ©rez-nous !!}
 {106}{}{Nous ne pouvons pas faire plus !!}
 {107}{}{Merci, mon ami !}

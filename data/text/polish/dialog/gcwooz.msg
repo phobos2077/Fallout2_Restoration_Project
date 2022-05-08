@@ -1,206 +1,206 @@
-{100}{}{Widzisz wysokiego ghula o d³ugich w³osach.}
+{100}{}{Widzisz wysokiego ghula o dÅ‚ugich wÅ‚osach.}
 {101}{}{To Wooz.}
-{102}{}{Widzisz niebywale wysokiego i chudego ghula o d³ugich w³osach.}
-{110}{}{Jestem Wooz. Czego sobie ¿yczysz?}
-{111}{}{Czego chcesz? Klepki ci siê pomiesza³y?}
-{112}{}{Czeœæ. Czego sobie ¿yczysz?}
+{102}{}{Widzisz niebywale wysokiego i chudego ghula o dÅ‚ugich wÅ‚osach.}
+{110}{}{Jestem Wooz. Czego sobie Å¼yczysz?}
+{111}{}{Czego chcesz? Klepki ci siÄ™ pomieszaÅ‚y?}
+{112}{}{CzeÅ›Ä‡. Czego sobie Å¼yczysz?}
 {113}{}{Kufel, Wooz.}
-{114}{}{Czym siê tutaj zajmujesz?}
+{114}{}{Czym siÄ™ tutaj zajmujesz?}
 {115}{}{Opowiedz mi o tym miejscu.}
-{116}{}{Czy s³ysza³eœ kiedyœ o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
-{117}{}{Niczego od ciebie nie chcê. Na razie.}
-{120}{}{Przed chwil¹ ci mówi³em, ¿e ka¿da Krypta ma coœ takiego. Czy to ci wygl¹da na Kryptê? Mózg nie pracuje? Czemu szukasz tego GECKa tutaj? Spróbuj w Krypcie.}
-{121}{}{Gdzie jest najbli¿sza Krypta?}
-{122}{}{Poka¿ê ci, jak mi nie pracuje. To raczej ty masz coœ nie tak z g³ow¹, ¿e tak do mnie gadasz. Wiesz, jestem Dzieckiem Przeznaczenia.}
-{123}{}{Ee, có¿, w³aœnie tego... i tak sobie... ach, niewa¿ne. Do widzenia.}
-{130}{}{Generator Ekosystemu Cudownej Krainy? Masz na myœli urz¹dzenie do³¹czane do ka¿dej Krypty, które mia³o byæ u¿yte, gdy ludzie opuszcz¹ Kryptê, aby odtworzyæ cywilizacjê?}
-{131}{}{Tak! Dok³adnie tak! Gdzie mogê coœ takiego znaleŸæ?}
-{132}{}{Nie nie, chodzi³o mi o jakiœ inny Generator Ekosystemu Cudownej Krainy.}
-{140}{}{Prowadzê to miejsce. Komórka mózgowa nie pracuje? Sprzedajê trunki, wymieniam siê towarem, opowiadam historie i gram w Tragica.}
+{116}{}{Czy sÅ‚yszaÅ‚eÅ› kiedyÅ› o czymÅ›, co nazywa siÄ™ Generator Ekosystemu Cudownej Krainy?}
+{117}{}{Niczego od ciebie nie chcÄ™. Na razie.}
+{120}{}{Przed chwilÄ… ci mÃ³wiÅ‚em, Å¼e kaÅ¼da Krypta ma coÅ› takiego. Czy to ci wyglÄ…da na KryptÄ™? MÃ³zg nie pracuje? Czemu szukasz tego GECKa tutaj? SprÃ³buj w Krypcie.}
+{121}{}{Gdzie jest najbliÅ¼sza Krypta?}
+{122}{}{PokaÅ¼Ä™ ci, jak mi nie pracuje. To raczej ty masz coÅ› nie tak z gÅ‚owÄ…, Å¼e tak do mnie gadasz. Wiesz, jestem Dzieckiem Przeznaczenia.}
+{123}{}{Ee, cÃ³Å¼, wÅ‚aÅ›nie tego... i tak sobie... ach, niewaÅ¼ne. Do widzenia.}
+{130}{}{Generator Ekosystemu Cudownej Krainy? Masz na myÅ›li urzÄ…dzenie doÅ‚Ä…czane do kaÅ¼dej Krypty, ktÃ³re miaÅ‚o byÄ‡ uÅ¼yte, gdy ludzie opuszczÄ… KryptÄ™, aby odtworzyÄ‡ cywilizacjÄ™?}
+{131}{}{Tak! DokÅ‚adnie tak! Gdzie mogÄ™ coÅ› takiego znaleÅºÄ‡?}
+{132}{}{Nie nie, chodziÅ‚o mi o jakiÅ› inny Generator Ekosystemu Cudownej Krainy.}
+{140}{}{ProwadzÄ™ to miejsce. KomÃ³rka mÃ³zgowa nie pracuje? SprzedajÄ™ trunki, wymieniam siÄ™ towarem, opowiadam historie i gram w Tragica.}
 {141}{}{Czego potrzebujesz?}
-{142}{}{Chcê siê napiæ.}
-{143}{}{Chcê pohandlowaæ.}
+{142}{}{ChcÄ™ siÄ™ napiÄ‡.}
+{143}{}{ChcÄ™ pohandlowaÄ‡.}
 {144}{}{Opowiadasz historie?}
 {145}{}{Grasz w Tragica?}
 {146}{}{Chyba w tej chwili niczego mi nie trzeba. Do zobaczenia.}
-{150}{}{Wymieniæ? Zawsze chêtnie powymieniam siê kartami Tragica. Mam kilka starych Kur, Klej do Ran £oriora, no i trochê pokrytych cynfoli¹ L¹dów.}
-{151}{}{Domyœlam siê, ¿e chcesz po prostu czymœ pohandlowaæ, tak?}
-{152}{}{O czym u diab³a mówisz?}
-{153}{}{Ee, nie wiem o co ci chodzi, ale mam nadziejê, ¿e masz coœ do wymiany.}
-{154}{}{Tak, chcê pohandlowaæ.}
-{155}{}{Hmm... mo¿e najpierw zapytam ciê o coœ innego.}
-{156}{}{W tej chwili nie chcê handlowaæ. Na razie.}
-{160}{}{Nie ma du¿o do opowiadania. Ot, parê ghuli trzymaj¹cych siê kurczowo ¿ycia od dupy strony.}
-{161}{}{Nie, chodzi³o mi o historiê tego baru.}
-{162}{}{Có¿, to opisuje wielu ludzi. Nic w tym nowego.}
-{170}{}{Chcesz siê napiæ, co? Có¿, mam domowej roboty piwo Promienny £yk po $5 za butelkê i, na specjalne okazje, Rum Rentgena po $12 za butelkê.}
-{171}{}{A wiêc co wybierasz?}
-{172}{}{£yk?}
-{173}{}{Poproszê Promienny £yk. Powinien tak œwieciæ?}
-{174}{}{To w pewnym sensie specjalna okazja. Butelkê Rumu Rentgena.}
-{175}{}{Stawiam kolejkê twojego wspania³ego piwa Promienny £yk wszystkim zebranym.}
+{150}{}{WymieniÄ‡? Zawsze chÄ™tnie powymieniam siÄ™ kartami Tragica. Mam kilka starych Kur, Klej do Ran Åoriora, no i trochÄ™ pokrytych cynfoliÄ… LÄ…dÃ³w.}
+{151}{}{DomyÅ›lam siÄ™, Å¼e chcesz po prostu czymÅ› pohandlowaÄ‡, tak?}
+{152}{}{O czym u diabÅ‚a mÃ³wisz?}
+{153}{}{Ee, nie wiem o co ci chodzi, ale mam nadziejÄ™, Å¼e masz coÅ› do wymiany.}
+{154}{}{Tak, chcÄ™ pohandlowaÄ‡.}
+{155}{}{Hmm... moÅ¼e najpierw zapytam ciÄ™ o coÅ› innego.}
+{156}{}{W tej chwili nie chcÄ™ handlowaÄ‡. Na razie.}
+{160}{}{Nie ma duÅ¼o do opowiadania. Ot, parÄ™ ghuli trzymajÄ…cych siÄ™ kurczowo Å¼ycia od dupy strony.}
+{161}{}{Nie, chodziÅ‚o mi o historiÄ™ tego baru.}
+{162}{}{CÃ³Å¼, to opisuje wielu ludzi. Nic w tym nowego.}
+{170}{}{Chcesz siÄ™ napiÄ‡, co? CÃ³Å¼, mam domowej roboty piwo Promienny Åyk po $5 za butelkÄ™ i, na specjalne okazje, Rum Rentgena po $12 za butelkÄ™.}
+{171}{}{A wiÄ™c co wybierasz?}
+{172}{}{Åyk?}
+{173}{}{PoproszÄ™ Promienny Åyk. Powinien tak Å›wieciÄ‡?}
+{174}{}{To w pewnym sensie specjalna okazja. ButelkÄ™ Rumu Rentgena.}
+{175}{}{Stawiam kolejkÄ™ twojego wspaniaÅ‚ego piwa Promienny Åyk wszystkim zebranym.}
 {176}{}{Y y, na razie.}
-{180}{}{Nie masz tyle kasy. Krótkie spiêcie w mózgu?}
-{181}{}{Ózgu?}
-{182}{}{Ups, przepraszam. Wiêc kupiê coœ innego.}
-{183}{}{No dobra, wiêc pozwól, ¿e zadam ci pytanie.}
-{184}{}{Chyba tak. Przepraszam. Pozwól, ¿e spytam o coœ innego.}
-{185}{}{Co? Taka gadka do mnie mo¿e byæ prawdziw¹ g³upot¹, koleœ. W ten sposób mo¿esz coœ sobie zrobiæ. Na razie.}
+{180}{}{Nie masz tyle kasy. KrÃ³tkie spiÄ™cie w mÃ³zgu?}
+{181}{}{Ã“zgu?}
+{182}{}{Ups, przepraszam. WiÄ™c kupiÄ™ coÅ› innego.}
+{183}{}{No dobra, wiÄ™c pozwÃ³l, Å¼e zadam ci pytanie.}
+{184}{}{Chyba tak. Przepraszam. PozwÃ³l, Å¼e spytam o coÅ› innego.}
+{185}{}{Co? Taka gadka do mnie moÅ¼e byÄ‡ prawdziwÄ… gÅ‚upotÄ…, koleÅ›. W ten sposÃ³b moÅ¼esz coÅ› sobie zrobiÄ‡. Na razie.}
 {186}{}{Sorry. Na razie.}
-{190}{}{Chcesz wszystkim postawiæ kolejkê? Widaæ na serio kiepsko u ciebie z przyjació³mi. To bêdzie ciê kosztowaæ $35.}
-{191}{}{Cena nie gra roli, dobry cz³owieku. Wooz, chcê postawiæ wszystkim kolejkê.}
-{192}{}{Wooz, staruszku, chcê wszystkim tu moim przyjacio³om postawiæ kolejkê. Te ch³opaki s¹ najlepsze.}
-{193}{}{Wooz, cho no... æ goszce s¹ najlepsz' przyjaciele, jakich mo¿n' mi-eæ. Daw'j nastêpn' kolejkê.}
-{194}{}{Wooz! Daw'j nastêpn¹ kole-ejkê dla mojch kumpli. Ci ch³opaki z¹ najleps'. KOCHAM W'S! Buziuchna!}
-{195}{}{Z drugiej jednak strony chyba mam dziurê we ³bie, ¿eby chcieæ stawiaæ kolejkê bandzie gnij¹cych zombie.}
-{196}{}{Chyba jednak kupiê drinka tylko dla siebie.}
-{200}{}{Mam wspania³¹ historiê. Jest naprawdê zabawna. No wiesz, jest taka g³owa, nie?}
-{201}{}{G³owa?}
-{202}{}{Ee, chyba ju¿ to s³ysza³em. Nie mam w tej chwili czasu na wys³uchiwanie tego. Na razie.}
-{210}{}{Czy ciê aby w dzieciñstwie nie walnêli w ³eb czymœ ciê¿kim? Tragic the Garnering jest najbardziej uzale¿niaj¹c¹ rzecz¹ od czasów Jetu.}
-{211}{}{Jest tak, jak ju¿ mówi³em. Tragic the Garnering jest gr¹, w któr¹ siê gra.}
-{212}{}{Powiedz mi wiêcej o tym Tragicu the Garnering.}
+{190}{}{Chcesz wszystkim postawiÄ‡ kolejkÄ™? WidaÄ‡ na serio kiepsko u ciebie z przyjaciÃ³Å‚mi. To bÄ™dzie ciÄ™ kosztowaÄ‡ $35.}
+{191}{}{Cena nie gra roli, dobry czÅ‚owieku. Wooz, chcÄ™ postawiÄ‡ wszystkim kolejkÄ™.}
+{192}{}{Wooz, staruszku, chcÄ™ wszystkim tu moim przyjacioÅ‚om postawiÄ‡ kolejkÄ™. Te chÅ‚opaki sÄ… najlepsze.}
+{193}{}{Wooz, cho no... Ä‡ goszce sÄ… najlepsz' przyjaciele, jakich moÅ¼n' mi-eÄ‡. Daw'j nastÄ™pn' kolejkÄ™.}
+{194}{}{Wooz! Daw'j nastÄ™pnÄ… kole-ejkÄ™ dla mojch kumpli. Ci chÅ‚opaki zÄ… najleps'. KOCHAM W'S! Buziuchna!}
+{195}{}{Z drugiej jednak strony chyba mam dziurÄ™ we Å‚bie, Å¼eby chcieÄ‡ stawiaÄ‡ kolejkÄ™ bandzie gnijÄ…cych zombie.}
+{196}{}{Chyba jednak kupiÄ™ drinka tylko dla siebie.}
+{200}{}{Mam wspaniaÅ‚Ä… historiÄ™. Jest naprawdÄ™ zabawna. No wiesz, jest taka gÅ‚owa, nie?}
+{201}{}{GÅ‚owa?}
+{202}{}{Ee, chyba juÅ¼ to sÅ‚yszaÅ‚em. Nie mam w tej chwili czasu na wysÅ‚uchiwanie tego. Na razie.}
+{210}{}{Czy ciÄ™ aby w dzieciÅ„stwie nie walnÄ™li w Å‚eb czymÅ› ciÄ™Å¼kim? Tragic the Garnering jest najbardziej uzaleÅ¼niajÄ…cÄ… rzeczÄ… od czasÃ³w Jetu.}
+{211}{}{Jest tak, jak juÅ¼ mÃ³wiÅ‚em. Tragic the Garnering jest grÄ…, w ktÃ³rÄ… siÄ™ gra.}
+{212}{}{Powiedz mi wiÄ™cej o tym Tragicu the Garnering.}
 {213}{}{Co to jest Jet?}
-{214}{}{Mo¿e masz racjê. Na razie.}
-{220}{}{Hmm, przykro mi. To jedyn¹, któr¹ znam. Tak przy okazji. Czy ostatnio nie wpad³o ci gdzieœ w oko jab³ko?}
-{221}{}{Jab³ko?}
-{222}{}{Nie chce mi siê z tob¹ teraz gadaæ. Na razie.}
-{230}{}{Po prostu uwielbiam jab³ka, ale ju¿ du¿o ich nie zosta³o. Rzadko kiedy mam do nich dostêp.}
-{231}{}{Nie przysz³oby mi do g³owy, jesteœ tak napalony na owoce. Powiedz mi coœ innego.}
-{232}{}{Podobno mo¿na by³o naprawdê delektowaæ siê jab³uszkiem, poniewa¿ bardzo wolno siê je jad³o.}
-{240}{}{Wolno?!? Bezmózgowcu. Pierdol siê! Jab³ka je siê tak samo szybko, jak ka¿dy inny owoc. Jab³ka, szczególnie odmiana królewska, rz¹dz¹! Gdyby nie konspiracja producentów owoców, wszyscy mielibyœmy teraz jab³ka.}
-{241}{}{Jesteœ œwirem, nie? Chyba kosztujesz trochê za du¿o swoich napojów. Powiedz mi coœ innego.}
-{242}{}{O taak... jab³ka s¹ naprawdê wspania³e. [Powoli cofasz siê] Tak, to prawda. Dobry Wooz, tylko spokojnie. To ja znikam.}
-{250}{}{Chyba doszliœmy do porozumienia. Czy jeszcze coœ?}
-{251}{}{Tak naprawdê, to chyba jest jeszcze coœ, co mog³oby mi siê przydaæ.}
-{252}{}{To na razie wszystko, jeœli chodzi o handel, ale chcê ciê o coœ spytaæ.}
-{253}{}{W tej chwili nic wiêcej nie potrzebujê. Na razie.}
-{260}{}{A, Dziecko Przeznaczenia. Ojej, nie zdawa³em sobie sprawy. Spróbujê przestaæ siê trz¹œæ na tyle, ¿eby ci coœ powiedzieæ. [Wooz uœmiecha siê] PodejdŸ bli¿ej, a szepnê ci to na uszko.}
-{261}{}{No, to ju¿ lepiej. Zas³ugujê na nieco wiêcej szacunku.}
-{262}{}{Nie bêdê do ciebie podchodziæ, ty koœcisty dziwaku. Odsuñ siê. ¯egnaj.}
-{270}{}{Najbli¿sza Krypta? Jej, nie wiem. Mo¿e spytasz ludzi z Kryptopolis, gdzie mog³aby byæ najbli¿sza Krypta. Kryptopolis jest na po³udnie st¹d. Mo¿e znajdziesz te¿ tam swój rozum.}
-{271}{}{Przecie¿ wiem. Tylko tak ciê sprawdzam. Jej, Wooz, jakiœ ty m¹dry. Powiedz mi coœ innego.}
-{272}{}{Wcale nie! To ty nie masz rozumu. Odchodzê, ¿egnaj.}
-{280}{}{[Wooz przywo³uje ciê rêk¹] Powiem ci to na uszko...}
-{281}{}{W porz¹dku.}
-{282}{}{Chyba jednak nie. Próbujesz mi wyjeœæ mózg, co? Odchodzê, ¿egnaj.}
-{290}{}{PIERDOL SIÊ!!! A teraz spierdalaj z mojego baru. Dziecko Przeznaczenia. Co za ofiara.}
-{291}{}{I tak nie chcê d³u¿ej zostaæ w twoim g³upim barze. Nie musisz siê tak na mnie wydzieraæ. Do widzenia.}
-{292}{}{O nie, ty pieprzony, trêdowaty gnoju. Czas daæ ci ma³y zastrzyk o³owiu.}
-{300}{}{Pierdol siê! Co za durnota. Czego tu do cholery chcesz?}
-{301}{}{Ee, naprawdê przepraszam, ¿e to pana wkurzy³o, panie Wooz. Chcê tylko o coœ spytaæ.}
-{302}{}{Mam siê pierdoliæ? Sam siê pierdol! Ten bar to dno. Wynoszê siê st¹d.}
+{214}{}{MoÅ¼e masz racjÄ™. Na razie.}
+{220}{}{Hmm, przykro mi. To jedynÄ…, ktÃ³rÄ… znam. Tak przy okazji. Czy ostatnio nie wpadÅ‚o ci gdzieÅ› w oko jabÅ‚ko?}
+{221}{}{JabÅ‚ko?}
+{222}{}{Nie chce mi siÄ™ z tobÄ… teraz gadaÄ‡. Na razie.}
+{230}{}{Po prostu uwielbiam jabÅ‚ka, ale juÅ¼ duÅ¼o ich nie zostaÅ‚o. Rzadko kiedy mam do nich dostÄ™p.}
+{231}{}{Nie przyszÅ‚oby mi do gÅ‚owy, jesteÅ› tak napalony na owoce. Powiedz mi coÅ› innego.}
+{232}{}{Podobno moÅ¼na byÅ‚o naprawdÄ™ delektowaÄ‡ siÄ™ jabÅ‚uszkiem, poniewaÅ¼ bardzo wolno siÄ™ je jadÅ‚o.}
+{240}{}{Wolno?!? BezmÃ³zgowcu. Pierdol siÄ™! JabÅ‚ka je siÄ™ tak samo szybko, jak kaÅ¼dy inny owoc. JabÅ‚ka, szczegÃ³lnie odmiana krÃ³lewska, rzÄ…dzÄ…! Gdyby nie konspiracja producentÃ³w owocÃ³w, wszyscy mielibyÅ›my teraz jabÅ‚ka.}
+{241}{}{JesteÅ› Å›wirem, nie? Chyba kosztujesz trochÄ™ za duÅ¼o swoich napojÃ³w. Powiedz mi coÅ› innego.}
+{242}{}{O taak... jabÅ‚ka sÄ… naprawdÄ™ wspaniaÅ‚e. [Powoli cofasz siÄ™] Tak, to prawda. Dobry Wooz, tylko spokojnie. To ja znikam.}
+{250}{}{Chyba doszliÅ›my do porozumienia. Czy jeszcze coÅ›?}
+{251}{}{Tak naprawdÄ™, to chyba jest jeszcze coÅ›, co mogÅ‚oby mi siÄ™ przydaÄ‡.}
+{252}{}{To na razie wszystko, jeÅ›li chodzi o handel, ale chcÄ™ ciÄ™ o coÅ› spytaÄ‡.}
+{253}{}{W tej chwili nic wiÄ™cej nie potrzebujÄ™. Na razie.}
+{260}{}{A, Dziecko Przeznaczenia. Ojej, nie zdawaÅ‚em sobie sprawy. SprÃ³bujÄ™ przestaÄ‡ siÄ™ trzÄ…Å›Ä‡ na tyle, Å¼eby ci coÅ› powiedzieÄ‡. [Wooz uÅ›miecha siÄ™] PodejdÅº bliÅ¼ej, a szepnÄ™ ci to na uszko.}
+{261}{}{No, to juÅ¼ lepiej. ZasÅ‚ugujÄ™ na nieco wiÄ™cej szacunku.}
+{262}{}{Nie bÄ™dÄ™ do ciebie podchodziÄ‡, ty koÅ›cisty dziwaku. OdsuÅ„ siÄ™. Å»egnaj.}
+{270}{}{NajbliÅ¼sza Krypta? Jej, nie wiem. MoÅ¼e spytasz ludzi z Kryptopolis, gdzie mogÅ‚aby byÄ‡ najbliÅ¼sza Krypta. Kryptopolis jest na poÅ‚udnie stÄ…d. MoÅ¼e znajdziesz teÅ¼ tam swÃ³j rozum.}
+{271}{}{PrzecieÅ¼ wiem. Tylko tak ciÄ™ sprawdzam. Jej, Wooz, jakiÅ› ty mÄ…dry. Powiedz mi coÅ› innego.}
+{272}{}{Wcale nie! To ty nie masz rozumu. OdchodzÄ™, Å¼egnaj.}
+{280}{}{[Wooz przywoÅ‚uje ciÄ™ rÄ™kÄ…] Powiem ci to na uszko...}
+{281}{}{W porzÄ…dku.}
+{282}{}{Chyba jednak nie. PrÃ³bujesz mi wyjeÅ›Ä‡ mÃ³zg, co? OdchodzÄ™, Å¼egnaj.}
+{290}{}{PIERDOL SIÄ˜!!! A teraz spierdalaj z mojego baru. Dziecko Przeznaczenia. Co za ofiara.}
+{291}{}{I tak nie chcÄ™ dÅ‚uÅ¼ej zostaÄ‡ w twoim gÅ‚upim barze. Nie musisz siÄ™ tak na mnie wydzieraÄ‡. Do widzenia.}
+{292}{}{O nie, ty pieprzony, trÄ™dowaty gnoju. Czas daÄ‡ ci maÅ‚y zastrzyk oÅ‚owiu.}
+{300}{}{Pierdol siÄ™! Co za durnota. Czego tu do cholery chcesz?}
+{301}{}{Ee, naprawdÄ™ przepraszam, Å¼e to pana wkurzyÅ‚o, panie Wooz. ChcÄ™ tylko o coÅ› spytaÄ‡.}
+{302}{}{Mam siÄ™ pierdoliÄ‡? Sam siÄ™ pierdol! Ten bar to dno. WynoszÄ™ siÄ™ stÄ…d.}
 {303}{}{Ee, nic takie. Sorry, Wooz.}
-{304}{}{Ee, czy ju¿ by³o wspomniane, jak bardzo wrêcz uwielbiam jab³ka?}
-{310}{}{Naprawdê? Nie wiedzia³em. W takim razie, jeœli lubisz jab³ka, to chyba nie mo¿e byæ z tob¹ a¿ tak Ÿle. No a teraz, czego do cholery chcesz?}
-{311}{}{Mam do ciebie parê pytañ, Wooz.}
-{320}{}{Zombie? Pierdol siê! Jesteœmy ghulami. Zombie to taki rodzaj nieumar³ych bez wolnej woli. Mimo ¿e mamy podobne cechy - g³ównie gnij¹ce cia³o i charakterystyczny niezdrowy wygl¹d - jesteœmy istotami o w³asnej woli. Pozwól, ¿e ci to zademonstrujê.}
-{321}{}{Hê?}
-{330}{}{Zademonstrujê moj¹ woln¹ wolê poprzez powiedzenie ci SPIERDALAJ! Ca³a ta wasza g³adkoskóra bigoteria. Wracaj do swojego Kryptopolis, gdzie twoje miejsce.}
-{331}{}{Ghule, zombie, kogo to obchodzi? Wszyscy jesteœcie dziwol¹gami.}
-{340}{}{Có¿, Tragic the Garnering nie jest po prostu gr¹ - to obsesja. Nie, to te¿ nie ta woda koloñska. Niektórzy s¹dz¹, ¿e sposób, w jaki zmienia ona ludzkie ¿ycie, jest tragiczny, ale oni po prostu tego nie rozumiej¹.}
+{304}{}{Ee, czy juÅ¼ byÅ‚o wspomniane, jak bardzo wrÄ™cz uwielbiam jabÅ‚ka?}
+{310}{}{NaprawdÄ™? Nie wiedziaÅ‚em. W takim razie, jeÅ›li lubisz jabÅ‚ka, to chyba nie moÅ¼e byÄ‡ z tobÄ… aÅ¼ tak Åºle. No a teraz, czego do cholery chcesz?}
+{311}{}{Mam do ciebie parÄ™ pytaÅ„, Wooz.}
+{320}{}{Zombie? Pierdol siÄ™! JesteÅ›my ghulami. Zombie to taki rodzaj nieumarÅ‚ych bez wolnej woli. Mimo Å¼e mamy podobne cechy - gÅ‚Ã³wnie gnijÄ…ce ciaÅ‚o i charakterystyczny niezdrowy wyglÄ…d - jesteÅ›my istotami o wÅ‚asnej woli. PozwÃ³l, Å¼e ci to zademonstrujÄ™.}
+{321}{}{HÄ™?}
+{330}{}{ZademonstrujÄ™ mojÄ… wolnÄ… wolÄ™ poprzez powiedzenie ci SPIERDALAJ! CaÅ‚a ta wasza gÅ‚adkoskÃ³ra bigoteria. Wracaj do swojego Kryptopolis, gdzie twoje miejsce.}
+{331}{}{Ghule, zombie, kogo to obchodzi? Wszyscy jesteÅ›cie dziwolÄ…gami.}
+{340}{}{CÃ³Å¼, Tragic the Garnering nie jest po prostu grÄ… - to obsesja. Nie, to teÅ¼ nie ta woda koloÅ„ska. NiektÃ³rzy sÄ…dzÄ…, Å¼e sposÃ³b, w jaki zmienia ona ludzkie Å¼ycie, jest tragiczny, ale oni po prostu tego nie rozumiejÄ….}
 {341}{}{Uhum.}
-{350}{}{Jet to narkotyk pochodz¹cy z Nowego Reno. Do tej pory trzymali ciê w komórce, czy to po prostu wada wrodzona?}
-{351}{}{A, ten Jet. Jasne, ¿e wiem o nim. Opowiedz mi wiêcej o tym Tragicu the Garnering.}
-{360}{}{Nie, naprawdê. Jest super. Musisz zagraæ. Chocia¿ raz. Pierwszy dek kart jest za darmo. Ma³y prezencik ode mnie dla ciebie.}
-{361}{}{Dziêki. Hej, wygl¹daj¹ wspaniale. [Zdzierasz opakowanie] Mmm, có¿ za piêkny zapach.}
-{362}{}{Po prostu mówiê "nie" Tragicowi. Na razie.}
-{370}{}{Witaj. Wygl¹da na to, ¿e jesteœ graczem w Tragica. Masz czas na grê? Czy cykasz? Wyzywam ciê.}
-{371}{}{Naprawdê nie mam czasu na... a co mi tam, ile mo¿e zaj¹æ jedna malutka gra...}
-{372}{}{Jasne, tylko... Nie! Muszê siê powstrzymaæ. [Twoja rêka siêga po dek, jakby mia³a sw¹ w³asn¹ wolê] Nieeeeee!}
-{375}{}{Niestety nie mam ju¿ deków do gry.}
-{376}{}{Poczekaj, w nastêpnym tygodniu z³o¿ê taki dek, ¿e ci nawet sajd nie pomo¿e.}
-{377}{}{Jedne z moich najlepszych kart - twoje! Nienawidzê tej gry!}
-{380}{}{To tylko pocz¹tek. A teraz, gdy ju¿ nale¿ysz do nas, chcesz zagraæ?}
-{381}{}{Jasne, ale bêdziesz mi musia³ pokazaæ jak.}
-{382}{}{Naprawdê chyba nie mam na to czasu. Pozwól jednak, ¿e zapytam ciê o coœ.}
-{383}{}{Wymiana z tob¹ na karty Tragica bardzo by mi odpowiada³a, ale mam sprawy do za³atwienia. Wiesz, w prawdziwym ¿yciu? Na razie.}
-{390}{}{Có¿, to naprawdê proste. Nawet debil to zrozumie. Najpierw sk³adasz sobie dek z kart, które masz, a potem...}
-{391}{}{Aha. Wiêc mówisz, ¿e rozdajesz trzeciemu graczowi, chyba, ¿e jest czwartek. No dobra, chyba ju¿ rozumiem. Grajmy.}
-{392}{}{Mo¿e zagram póŸniej. Dziêki za opisanie mi zasad. Na razie.}
-{400}{}{Uda³o ci siê wygraæ? Pierdol siê! To by³o tylko zwyk³e szczêœcie. Ten mój dek po prostu nie wypali³. Muszê z³o¿yæ lepszy.}
-{401}{}{Dziêki za karty, Wooz. I ty myœla³eœ, ¿e wiesz, jak graæ w tê grê? Chyba po prostu jesteœ g³upi.}
-{402}{}{Có¿, ka¿dy szczêœciu dopomo¿e, ka¿dy dzisiaj wygraæ mo¿e. Na razie.}
-{410}{}{Wygra³em! Pierdol siê! Ale z ciebie pa³a. Rozwali³em ciê. Teraz, z twoimi kartami, mogê u³o¿yæ jeszcze lepszy dek.}
-{411}{}{A, ta. Wygra³eœ. Na razie.}
-{412}{}{Ale niespodzianka. No, przynajmniej moje uszy nie by³y nara¿one na jedn¹ z twoich historii. Hej.}
-{420}{}{Nie ma czasu do stracenia. Zaczynajmy. Mam nowy dek, który chcê wypróbowaæ.}
-{421}{}{Okej, niech ci bêdzie.}
-{422}{}{Nie, muszê pokonaæ syrenie wezwanie. OdejdŸ, Tragicu! Muszê spytaæ o coœ innego.}
-{430}{}{Wiem, co masz na myœli. Mogê przestaæ, kiedy tylko chcê. Ale po prostu nie dzisiaj.}
-{431}{}{Nie ¿artujesz. Tak naprawdê, to chcê ciê spytaæ o coœ innego.}
-{432}{}{Aaaaa! Muszê odejœæ, gdy jeszcze mogê. Do widzenia.}
-{440}{}{Có¿, Harfa nosi imiê po moim ulubionym miejscu, do którego wpada³em przed wojn¹. To chyba jest tylko wspomnienie dawnych czasów. No i to taki ¿arcik o jedynym sposobie, w jaki moglibyœmy uzyskaæ lepsze warunki.}
-{441}{}{Przed wojn¹? Ale to by³o dawno temu.}
-{442}{}{Lepsze warunki? Co masz na myœli?}
-{450}{}{Mo¿e i tak, ale nie ka¿dy ma miasto pe³ne œwirów g³odnych jego krwi.}
+{350}{}{Jet to narkotyk pochodzÄ…cy z Nowego Reno. Do tej pory trzymali ciÄ™ w komÃ³rce, czy to po prostu wada wrodzona?}
+{351}{}{A, ten Jet. Jasne, Å¼e wiem o nim. Opowiedz mi wiÄ™cej o tym Tragicu the Garnering.}
+{360}{}{Nie, naprawdÄ™. Jest super. Musisz zagraÄ‡. ChociaÅ¼ raz. Pierwszy dek kart jest za darmo. MaÅ‚y prezencik ode mnie dla ciebie.}
+{361}{}{DziÄ™ki. Hej, wyglÄ…dajÄ… wspaniale. [Zdzierasz opakowanie] Mmm, cÃ³Å¼ za piÄ™kny zapach.}
+{362}{}{Po prostu mÃ³wiÄ™ "nie" Tragicowi. Na razie.}
+{370}{}{Witaj. WyglÄ…da na to, Å¼e jesteÅ› graczem w Tragica. Masz czas na grÄ™? Czy cykasz? Wyzywam ciÄ™.}
+{371}{}{NaprawdÄ™ nie mam czasu na... a co mi tam, ile moÅ¼e zajÄ…Ä‡ jedna malutka gra...}
+{372}{}{Jasne, tylko... Nie! MuszÄ™ siÄ™ powstrzymaÄ‡. [Twoja rÄ™ka siÄ™ga po dek, jakby miaÅ‚a swÄ… wÅ‚asnÄ… wolÄ™] Nieeeeee!}
+{375}{}{Niestety nie mam juÅ¼ dekÃ³w do gry.}
+{376}{}{Poczekaj, w nastÄ™pnym tygodniu zÅ‚oÅ¼Ä™ taki dek, Å¼e ci nawet sajd nie pomoÅ¼e.}
+{377}{}{Jedne z moich najlepszych kart - twoje! NienawidzÄ™ tej gry!}
+{380}{}{To tylko poczÄ…tek. A teraz, gdy juÅ¼ naleÅ¼ysz do nas, chcesz zagraÄ‡?}
+{381}{}{Jasne, ale bÄ™dziesz mi musiaÅ‚ pokazaÄ‡ jak.}
+{382}{}{NaprawdÄ™ chyba nie mam na to czasu. PozwÃ³l jednak, Å¼e zapytam ciÄ™ o coÅ›.}
+{383}{}{Wymiana z tobÄ… na karty Tragica bardzo by mi odpowiadaÅ‚a, ale mam sprawy do zaÅ‚atwienia. Wiesz, w prawdziwym Å¼yciu? Na razie.}
+{390}{}{CÃ³Å¼, to naprawdÄ™ proste. Nawet debil to zrozumie. Najpierw skÅ‚adasz sobie dek z kart, ktÃ³re masz, a potem...}
+{391}{}{Aha. WiÄ™c mÃ³wisz, Å¼e rozdajesz trzeciemu graczowi, chyba, Å¼e jest czwartek. No dobra, chyba juÅ¼ rozumiem. Grajmy.}
+{392}{}{MoÅ¼e zagram pÃ³Åºniej. DziÄ™ki za opisanie mi zasad. Na razie.}
+{400}{}{UdaÅ‚o ci siÄ™ wygraÄ‡? Pierdol siÄ™! To byÅ‚o tylko zwykÅ‚e szczÄ™Å›cie. Ten mÃ³j dek po prostu nie wypaliÅ‚. MuszÄ™ zÅ‚oÅ¼yÄ‡ lepszy.}
+{401}{}{DziÄ™ki za karty, Wooz. I ty myÅ›laÅ‚eÅ›, Å¼e wiesz, jak graÄ‡ w tÄ™ grÄ™? Chyba po prostu jesteÅ› gÅ‚upi.}
+{402}{}{CÃ³Å¼, kaÅ¼dy szczÄ™Å›ciu dopomoÅ¼e, kaÅ¼dy dzisiaj wygraÄ‡ moÅ¼e. Na razie.}
+{410}{}{WygraÅ‚em! Pierdol siÄ™! Ale z ciebie paÅ‚a. RozwaliÅ‚em ciÄ™. Teraz, z twoimi kartami, mogÄ™ uÅ‚oÅ¼yÄ‡ jeszcze lepszy dek.}
+{411}{}{A, ta. WygraÅ‚eÅ›. Na razie.}
+{412}{}{Ale niespodzianka. No, przynajmniej moje uszy nie byÅ‚y naraÅ¼one na jednÄ… z twoich historii. Hej.}
+{420}{}{Nie ma czasu do stracenia. Zaczynajmy. Mam nowy dek, ktÃ³ry chcÄ™ wyprÃ³bowaÄ‡.}
+{421}{}{Okej, niech ci bÄ™dzie.}
+{422}{}{Nie, muszÄ™ pokonaÄ‡ syrenie wezwanie. OdejdÅº, Tragicu! MuszÄ™ spytaÄ‡ o coÅ› innego.}
+{430}{}{Wiem, co masz na myÅ›li. MogÄ™ przestaÄ‡, kiedy tylko chcÄ™. Ale po prostu nie dzisiaj.}
+{431}{}{Nie Å¼artujesz. Tak naprawdÄ™, to chcÄ™ ciÄ™ spytaÄ‡ o coÅ› innego.}
+{432}{}{Aaaaa! MuszÄ™ odejÅ›Ä‡, gdy jeszcze mogÄ™. Do widzenia.}
+{440}{}{CÃ³Å¼, Harfa nosi imiÄ™ po moim ulubionym miejscu, do ktÃ³rego wpadaÅ‚em przed wojnÄ…. To chyba jest tylko wspomnienie dawnych czasÃ³w. No i to taki Å¼arcik o jedynym sposobie, w jaki moglibyÅ›my uzyskaÄ‡ lepsze warunki.}
+{441}{}{Przed wojnÄ…? Ale to byÅ‚o dawno temu.}
+{442}{}{Lepsze warunki? Co masz na myÅ›li?}
+{450}{}{MoÅ¼e i tak, ale nie kaÅ¼dy ma miasto peÅ‚ne Å›wirÃ³w gÅ‚odnych jego krwi.}
 {451}{}{Co to znaczy?}
-{460}{}{O tak, to by³o dawno temu. A myœlisz, ¿e w jaki sposób powstaj¹ ghule? Myœlisz, ¿e tak po prostu pewnego razu wstaliœmy z ³ó¿ka i powiedzieliœmy do siebie: "Hmm, ciekawe, jakby to by³o mieæ gnij¹ce i odpadaj¹ce od pieprzonych koœci cia³o?"}
-{461}{}{Ale¿ nie. S³uchaj, wiêc w jaki sposób powstaj¹ ghule?}
-{462}{}{Wiesz co, naprawdê gówno mnie obchodzi, co ciê tak oszpeci³o. Na razie.}
-{470}{}{Te dupki z Kryptopolis. Je¿eli ktokolwiek mia³by nas wykoñczyæ, to w³aœnie oni. Oni s¹ zdrowo szurniêci. Nikt nie jest a¿ tak pierdolniêty w ³eb jak oni, i nikt nie chce ciê a¿ tak rozpruæ. Na twoim miejscu uwa¿a³bym w ich pobli¿u na siebie.}
-{471}{}{To chyba dobra rada. Bêdê mieæ oczy z ty³u g³owy. Teraz pozwól jednak, ¿e zapytam ciê o coœ.}
-{472}{}{S¹dzê, ¿e maj¹ dobry zamys³. Taka ma³a genetyczna czystka. Mam nadziejê, ¿e zaczn¹ od ciebie. Na razie.}
-{473}{}{Có¿, na razie oszaleli na punkcie wioski tu niedaleko. Wiesz coœ na ten temat?}
-{480}{}{Praktycznie jedynym sposobem na lepsze czasy by³oby tañczenie przy grze w³asnej harfy.}
-{481}{}{Pierwsze s³yszê, ¿eby ghule by³y jakoœ szczególnie muzykalne.}
-{482}{}{A, rozumiem. He, he. Pozwól, ¿e zapytam o coœ innego.}
-{490}{}{S¹ na to specjalne drakwie, gus³a i... Kurde, ale ciê musia³ ktoœ w dzieciñstwie biæ pa³¹ po g³owie. Silna radiacja. W taki sposób. No wiesz, wiele bomb robi bum, wybuch œwiat³a i gor¹ca, skóra z ciebie z³azi p³atami, ale ty nie giniesz, to ten specjalny rodzaj promieniowania.}
+{460}{}{O tak, to byÅ‚o dawno temu. A myÅ›lisz, Å¼e w jaki sposÃ³b powstajÄ… ghule? MyÅ›lisz, Å¼e tak po prostu pewnego razu wstaliÅ›my z Å‚Ã³Å¼ka i powiedzieliÅ›my do siebie: "Hmm, ciekawe, jakby to byÅ‚o mieÄ‡ gnijÄ…ce i odpadajÄ…ce od pieprzonych koÅ›ci ciaÅ‚o?"}
+{461}{}{AleÅ¼ nie. SÅ‚uchaj, wiÄ™c w jaki sposÃ³b powstajÄ… ghule?}
+{462}{}{Wiesz co, naprawdÄ™ gÃ³wno mnie obchodzi, co ciÄ™ tak oszpeciÅ‚o. Na razie.}
+{470}{}{Te dupki z Kryptopolis. JeÅ¼eli ktokolwiek miaÅ‚by nas wykoÅ„czyÄ‡, to wÅ‚aÅ›nie oni. Oni sÄ… zdrowo szurniÄ™ci. Nikt nie jest aÅ¼ tak pierdolniÄ™ty w Å‚eb jak oni, i nikt nie chce ciÄ™ aÅ¼ tak rozpruÄ‡. Na twoim miejscu uwaÅ¼aÅ‚bym w ich pobliÅ¼u na siebie.}
+{471}{}{To chyba dobra rada. BÄ™dÄ™ mieÄ‡ oczy z tyÅ‚u gÅ‚owy. Teraz pozwÃ³l jednak, Å¼e zapytam ciÄ™ o coÅ›.}
+{472}{}{SÄ…dzÄ™, Å¼e majÄ… dobry zamysÅ‚. Taka maÅ‚a genetyczna czystka. Mam nadziejÄ™, Å¼e zacznÄ… od ciebie. Na razie.}
+{473}{}{CÃ³Å¼, na razie oszaleli na punkcie wioski tu niedaleko. Wiesz coÅ› na ten temat?}
+{480}{}{Praktycznie jedynym sposobem na lepsze czasy byÅ‚oby taÅ„czenie przy grze wÅ‚asnej harfy.}
+{481}{}{Pierwsze sÅ‚yszÄ™, Å¼eby ghule byÅ‚y jakoÅ› szczegÃ³lnie muzykalne.}
+{482}{}{A, rozumiem. He, he. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{490}{}{SÄ… na to specjalne drakwie, gusÅ‚a i... Kurde, ale ciÄ™ musiaÅ‚ ktoÅ› w dzieciÅ„stwie biÄ‡ paÅ‚Ä… po gÅ‚owie. Silna radiacja. W taki sposÃ³b. No wiesz, wiele bomb robi bum, wybuch Å›wiatÅ‚a i gorÄ…ca, skÃ³ra z ciebie zÅ‚azi pÅ‚atami, ale ty nie giniesz, to ten specjalny rodzaj promieniowania.}
 {491}{}{Ee, tak, to znaczy...}
-{500}{}{Tak myœla³em. Piêknie ci kurwa dziêkujê za rozdrapanie tych bardzo bolesnych ran. Pinda. Jesteœmy miastem pieprzonych resztek - nieco przesma¿onych resztek.}
-{501}{}{Ja wolê œrednio krwiste. S³uchaj, zapytam ciê o coœ innego.}
-{502}{}{Có¿, ee, hmm. Przepraszam. Po prostu zostawiê ciê teraz twojemu u¿alaniu siê nad sob¹. Do widzenia.}
-{510}{}{Có¿, zazwyczaj gram na pustych ³bach moich klientów - jak na bongo. W jaki sposób w ogóle wypuœcili ciê z twojej wioski? Stanowisz zagro¿enie dla siebie i dla innych.}
+{500}{}{Tak myÅ›laÅ‚em. PiÄ™knie ci kurwa dziÄ™kujÄ™ za rozdrapanie tych bardzo bolesnych ran. Pinda. JesteÅ›my miastem pieprzonych resztek - nieco przesmaÅ¼onych resztek.}
+{501}{}{Ja wolÄ™ Å›rednio krwiste. SÅ‚uchaj, zapytam ciÄ™ o coÅ› innego.}
+{502}{}{CÃ³Å¼, ee, hmm. Przepraszam. Po prostu zostawiÄ™ ciÄ™ teraz twojemu uÅ¼alaniu siÄ™ nad sobÄ…. Do widzenia.}
+{510}{}{CÃ³Å¼, zazwyczaj gram na pustych Å‚bach moich klientÃ³w - jak na bongo. W jaki sposÃ³b w ogÃ³le wypuÅ›cili ciÄ™ z twojej wioski? Stanowisz zagroÅ¼enie dla siebie i dla innych.}
 {511}{}{Bongo?}
-{520}{}{Spadaj¹c z drzewa g³upoty uda³o ci siê uderzyæ w ka¿d¹ pieprzon¹ ga³¹Ÿ, co?}
-{521}{}{Drzewa? Chyba po prostu mam k³opoty ze zrozumieniem twojej mowy... stary. Ee, pozwól, ¿e zapytam ciê o coœ.}
-{530}{}{Tak, to g³owa. Ale nie jest przyczepiona do cia³a. Widzisz, zosta³a uszkodzona.}
-{531}{}{Uszkodzona g³owa. Rozumiem. I kiedy mam zacz¹æ siê œmiaæ?}
-{540}{}{Czekaj chwilê. Tak uszkodzona g³owa, widzisz, jest w piekle. [cha, cha] No i, wiesz, ona sobie tam, w piekle, lata dooko³a. I wpada na ró¿nego rodzaju s³awnych ludzi... [chi, chi, chi]}
-{541}{}{Czekaj, uszkodzona g³owa jest w piekle, i lata dooko³a... i co robi?}
-{550}{}{No, robi ró¿ne rzeczy. [he, he] No wiesz. Rzeczy, które chce zrobiæ, albo mo¿e rzeczy, które jest zmuszona zrobiæ. Chodzi o to, ¿e robi te rzeczy, wiesz, tam w piekle. O Bo¿e, [cha, cha, cha] nie mogê!}
-{551}{}{Masz na tym punkcie lekk¹ obsesjê, co nie? Hmm. Czy ty i mamusia byliœcie ze sob¹ blisko? Mia³eœ kiedyœ problemy z moczeniem ³ó¿ka?}
-{560}{}{Nie, ty po prostu nie rozumiesz. Tu chodzi o tê uszkodzon¹ g³owê. Kapujesz? He, he, he. To jest œmieszne! Jak mo¿esz myœleæ o uszkodzonej g³owie, w piekle, jakby nie by³o innych miejsc, i nie œmiaæ siê?}
-{561}{}{Wooz, nie znam ciê zbyt dobrze, i mam raczej pewnoœæ, ¿e nie chcê ciê bli¿ej poznaæ. S¹dzê, ¿e mogê powiedzieæ, bez obawy o przesadê, ¿e potrzebujesz pomocy. Natychmiastowej, fachowej pomocy.}
-{562}{}{A. Rozumiem. Ale¿ tak. Oczywiœcie. To bardzo zabawne. He he. Wprost nie mogê powstrzymaæ mojego rozbawienia... Ale wystarczy tej rozrywki - o, moja biedna g³owa - pozwól, ¿e zapytam ciê o coœ.}
-{570}{}{Pierdol siê! Nie ró¿nisz siê niczym od innych. Mówiê ci, ¿e to jest komicznie zabawne. Nie moja wina, ¿e nie masz poczucia humoru.}
-{571}{}{Masz racjê, Wooz. Chyba po prostu nie mam a¿ tyle rozumu co ty. Rzeczywiœcie jesteœ per³¹ poœród œwiñ. A teraz powiedŸ mi coœ innego.}
-{572}{}{Mam wystarczaj¹co poczucia humoru, aby zauwa¿yæ jego brak u innych. Do widzenia.}
-{600}{}{Co ty, masz g³owê na dupê zamienion¹? Mówi³em ci ju¿ o Tragicu. Musisz mieæ cholernie krótk¹ pamiêæ.}
-{601}{}{Widzisz? Mówi³em ci, ¿e to jest œmieszne. Czy potrzebujesz jeszcze czegoœ?}
-{700}{}{Durneœ, czy co?}
-{701}{}{Du¿¹ colê!}
+{520}{}{SpadajÄ…c z drzewa gÅ‚upoty udaÅ‚o ci siÄ™ uderzyÄ‡ w kaÅ¼dÄ… pieprzonÄ… gaÅ‚Ä…Åº, co?}
+{521}{}{Drzewa? Chyba po prostu mam kÅ‚opoty ze zrozumieniem twojej mowy... stary. Ee, pozwÃ³l, Å¼e zapytam ciÄ™ o coÅ›.}
+{530}{}{Tak, to gÅ‚owa. Ale nie jest przyczepiona do ciaÅ‚a. Widzisz, zostaÅ‚a uszkodzona.}
+{531}{}{Uszkodzona gÅ‚owa. Rozumiem. I kiedy mam zaczÄ…Ä‡ siÄ™ Å›miaÄ‡?}
+{540}{}{Czekaj chwilÄ™. Tak uszkodzona gÅ‚owa, widzisz, jest w piekle. [cha, cha] No i, wiesz, ona sobie tam, w piekle, lata dookoÅ‚a. I wpada na rÃ³Å¼nego rodzaju sÅ‚awnych ludzi... [chi, chi, chi]}
+{541}{}{Czekaj, uszkodzona gÅ‚owa jest w piekle, i lata dookoÅ‚a... i co robi?}
+{550}{}{No, robi rÃ³Å¼ne rzeczy. [he, he] No wiesz. Rzeczy, ktÃ³re chce zrobiÄ‡, albo moÅ¼e rzeczy, ktÃ³re jest zmuszona zrobiÄ‡. Chodzi o to, Å¼e robi te rzeczy, wiesz, tam w piekle. O BoÅ¼e, [cha, cha, cha] nie mogÄ™!}
+{551}{}{Masz na tym punkcie lekkÄ… obsesjÄ™, co nie? Hmm. Czy ty i mamusia byliÅ›cie ze sobÄ… blisko? MiaÅ‚eÅ› kiedyÅ› problemy z moczeniem Å‚Ã³Å¼ka?}
+{560}{}{Nie, ty po prostu nie rozumiesz. Tu chodzi o tÄ™ uszkodzonÄ… gÅ‚owÄ™. Kapujesz? He, he, he. To jest Å›mieszne! Jak moÅ¼esz myÅ›leÄ‡ o uszkodzonej gÅ‚owie, w piekle, jakby nie byÅ‚o innych miejsc, i nie Å›miaÄ‡ siÄ™?}
+{561}{}{Wooz, nie znam ciÄ™ zbyt dobrze, i mam raczej pewnoÅ›Ä‡, Å¼e nie chcÄ™ ciÄ™ bliÅ¼ej poznaÄ‡. SÄ…dzÄ™, Å¼e mogÄ™ powiedzieÄ‡, bez obawy o przesadÄ™, Å¼e potrzebujesz pomocy. Natychmiastowej, fachowej pomocy.}
+{562}{}{A. Rozumiem. AleÅ¼ tak. OczywiÅ›cie. To bardzo zabawne. He he. Wprost nie mogÄ™ powstrzymaÄ‡ mojego rozbawienia... Ale wystarczy tej rozrywki - o, moja biedna gÅ‚owa - pozwÃ³l, Å¼e zapytam ciÄ™ o coÅ›.}
+{570}{}{Pierdol siÄ™! Nie rÃ³Å¼nisz siÄ™ niczym od innych. MÃ³wiÄ™ ci, Å¼e to jest komicznie zabawne. Nie moja wina, Å¼e nie masz poczucia humoru.}
+{571}{}{Masz racjÄ™, Wooz. Chyba po prostu nie mam aÅ¼ tyle rozumu co ty. RzeczywiÅ›cie jesteÅ› perÅ‚Ä… poÅ›rÃ³d Å›wiÅ„. A teraz powiedÅº mi coÅ› innego.}
+{572}{}{Mam wystarczajÄ…co poczucia humoru, aby zauwaÅ¼yÄ‡ jego brak u innych. Do widzenia.}
+{600}{}{Co ty, masz gÅ‚owÄ™ na dupÄ™ zamienionÄ…? MÃ³wiÅ‚em ci juÅ¼ o Tragicu. Musisz mieÄ‡ cholernie krÃ³tkÄ… pamiÄ™Ä‡.}
+{601}{}{Widzisz? MÃ³wiÅ‚em ci, Å¼e to jest Å›mieszne. Czy potrzebujesz jeszcze czegoÅ›?}
+{700}{}{DurneÅ›, czy co?}
+{701}{}{DuÅ¼Ä… colÄ™!}
 {702}{}{Tego nie ma w zasadach!}
-{703}{}{Kopsnij siê w cztery litery.}
+{703}{}{Kopsnij siÄ™ w cztery litery.}
 {704}{}{Cze, szulerze.}
-{705}{}{IdŸ siê jebaæ.}
-{706}{}{Przecie¿ bym ci nie zalewa³.}
+{705}{}{IdÅº siÄ™ jebaÄ‡.}
+{706}{}{PrzecieÅ¼ bym ci nie zalewaÅ‚.}
 {707}{}{Zagrajmy w Tragica.}
-{708}{}{Jestem najgorszym Tragicowym graczem na œwiecie.}
-{709}{}{SI£A!}
-{710}{}{Dajê cia³a we wszystkich grach.}
-{711}{}{Jestem najg³upsz¹ osob¹, jak¹ kiedykolwiek spotka³em.}
-{712}{}{NIENAWIŒÆ!!!}
-{713}{}{Gdzie jest to stado ma³ych kobiet?}
-{714}{}{Widzieliœcie kiedyœ GO£EGO doros³ego faceta?!}
-{715}{}{Nie, mo¿e innym razem Wooz. Ale mam parê pytañ...}
-{716}{}{Hmmm...Mo¿e powinieneœ daæ ju¿ sobie dzisiaj spokój i od³o¿yæ te karty do Tragica. Myœlê, ¿e wystarczy tego grania na dzisiaj.}
-{717}{}{NIGDY! NIECH ROZPOCZNIE SIÊ ZGROMADZENIE!}
-{718}{}{BUAHAHAHA!!! WYGRA£EM!}
-{719}{}{NIEEE!! JAK MOG£EM PRZEGRAÆ!? Aaaaaaa!.}
-{720}{}{Taa...po prostu nie mogê przestaæ. Jeszcze tylko jedna partyjka...}
-{721}{}{Taaa, Daj piwo Promienny £yk. G³uchy czy co?}
-{722}{}{Tak, jest. Jeden Promienny £yk.}
-{723}{}{Proszê, mam nadziejê, ¿e bêdzie ci smakowaæ. Coœ jeszcze?}
-{724}{}{Specjalna okazja, tak? Có¿, skoro tak. Jeden Rum Rentgena.}
-{725}{}{Nie, dziêki.}
+{708}{}{Jestem najgorszym Tragicowym graczem na Å›wiecie.}
+{709}{}{SIÅA!}
+{710}{}{DajÄ™ ciaÅ‚a we wszystkich grach.}
+{711}{}{Jestem najgÅ‚upszÄ… osobÄ…, jakÄ… kiedykolwiek spotkaÅ‚em.}
+{712}{}{NIENAWIÅšÄ†!!!}
+{713}{}{Gdzie jest to stado maÅ‚ych kobiet?}
+{714}{}{WidzieliÅ›cie kiedyÅ› GOÅEGO dorosÅ‚ego faceta?!}
+{715}{}{Nie, moÅ¼e innym razem Wooz. Ale mam parÄ™ pytaÅ„...}
+{716}{}{Hmmm...MoÅ¼e powinieneÅ› daÄ‡ juÅ¼ sobie dzisiaj spokÃ³j i odÅ‚oÅ¼yÄ‡ te karty do Tragica. MyÅ›lÄ™, Å¼e wystarczy tego grania na dzisiaj.}
+{717}{}{NIGDY! NIECH ROZPOCZNIE SIÄ˜ ZGROMADZENIE!}
+{718}{}{BUAHAHAHA!!! WYGRAÅEM!}
+{719}{}{NIEEE!! JAK MOGÅEM PRZEGRAÄ†!? Aaaaaaa!.}
+{720}{}{Taa...po prostu nie mogÄ™ przestaÄ‡. Jeszcze tylko jedna partyjka...}
+{721}{}{Taaa, Daj piwo Promienny Åyk. GÅ‚uchy czy co?}
+{722}{}{Tak, jest. Jeden Promienny Åyk.}
+{723}{}{ProszÄ™, mam nadziejÄ™, Å¼e bÄ™dzie ci smakowaÄ‡. CoÅ› jeszcze?}
+{724}{}{Specjalna okazja, tak? CÃ³Å¼, skoro tak. Jeden Rum Rentgena.}
+{725}{}{Nie, dziÄ™ki.}
 {726}{}{Aha, co jeszcze tu masz?}
-{727}{}{Wszystko jedno, biorê.}
-{728}{}{Dobra. Potrzebujê czegoœ jeszcze.}
-{729}{}{Chyba muszê ju¿ iœæ.}
-{730}{}{Uzale¿niasz siê od gry w Tragica. Przed tob¹ wiele nieprzespanych nocy.}
-{731}{}{Dobra, gotowe. Coœ jeszcze?}
+{727}{}{Wszystko jedno, biorÄ™.}
+{728}{}{Dobra. PotrzebujÄ™ czegoÅ› jeszcze.}
+{729}{}{Chyba muszÄ™ juÅ¼ iÅ›Ä‡.}
+{730}{}{UzaleÅ¼niasz siÄ™ od gry w Tragica. Przed tobÄ… wiele nieprzespanych nocy.}
+{731}{}{Dobra, gotowe. CoÅ› jeszcze?}
 {732}{}{Tak, rundka dla wszystkich.}
-{740}{}{Heh, taa s³ysza³em, ¿e te dupki z Kryptopolis s¹ atakowane przez kretoszczury broni¹ce tamtych g³adkoskórych. Maj¹ za swoje, za wpieprzanie siê w cudze sprawy. A poza tym, wiem niewiele. Lumpy na z³omowisku mo¿e wiedzieæ wiêcej. Ten g³adkoskóry zawsze coœ us³yszy.}
-{741}{}{Dziêki za informacje. Do widzenia.}
-{742}{}{Dobrze wiedzieæ. Pozwól, ¿e zapytam o coœ innego.}
+{740}{}{Heh, taa sÅ‚yszaÅ‚em, Å¼e te dupki z Kryptopolis sÄ… atakowane przez kretoszczury broniÄ…ce tamtych gÅ‚adkoskÃ³rych. MajÄ… za swoje, za wpieprzanie siÄ™ w cudze sprawy. A poza tym, wiem niewiele. Lumpy na zÅ‚omowisku moÅ¼e wiedzieÄ‡ wiÄ™cej. Ten gÅ‚adkoskÃ³ry zawsze coÅ› usÅ‚yszy.}
+{741}{}{DziÄ™ki za informacje. Do widzenia.}
+{742}{}{Dobrze wiedzieÄ‡. PozwÃ³l, Å¼e zapytam o coÅ› innego.}

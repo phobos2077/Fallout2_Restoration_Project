@@ -7,7 +7,7 @@
 {151}{}{Non abbiamo bisogno di piantagrane, qui.}
 {152}{}{Chi dice selvaggio dice danno.}
 {153}{}{Fino a quando non avrai bevuto troppa acqua-di-fuoco...}
-{154}{}{(mumble, mumble)…brutto muso fuori dal paese...}
+{154}{}{(mumble, mumble)â€¦brutto muso fuori dal paese...}
 {155}{}{Ecco un altro della banda dei Dunton.}
 {156}{}{Cos'hai da guardare?}
 {157}{}{Gira al largo.}

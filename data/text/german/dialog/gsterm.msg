@@ -15,14 +15,14 @@
 {131}{}{RWRRST?}
 {132}{}{Ein Roboter, hm? Mal sehen, was ich dazu rausfinde.}
 {133}{}{Abmelden.}
-{140}{}{Dieses Terminal ist zum Eingeben von Befehlen für die Wartungs- und Reparatureinheit des Roboters, die dem Poseidon-Ölreaktor Nr. 5 zugewiesen ist. Und man hat außerdem Zugriff auf PoseidoNet.}
-{141}{}{Ein Roboter? Mal sehen, was sich damit machen lässt.}
+{140}{}{Dieses Terminal ist zum Eingeben von Befehlen fÃ¼r die Wartungs- und Reparatureinheit des Roboters, die dem Poseidon-Ã–lreaktor Nr. 5 zugewiesen ist. Und man hat auÃŸerdem Zugriff auf PoseidoNet.}
+{141}{}{Ein Roboter? Mal sehen, was sich damit machen lÃ¤sst.}
 {142}{}{Ein Netzwerk, hm? Mal sehen, ob ich darauf zugreifen kann.}
 {143}{}{Abmelden.}
-{150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (dkhdsdsklfjsd? Win21 wird gestartet. Bitte warten.... Pear-OS-Befehl nicht identifiziert. DOD HDD Löschvorgang wird initialisiert.}
+{150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (dkhdsdsklfjsd? Win21 wird gestartet. Bitte warten.... Pear-OS-Befehl nicht identifiziert. DOD HDD LÃ¶schvorgang wird initialisiert.}
 {151}{}{Hmmm. Uhk?}
 {152}{}{Afjasdfaa kljkljl;jljljj?}
-{160}{}{Wartungsroboter des Reaktors für Initialisierung/Startsequenz bereit. Funktionaler Zugriffscode?:}
+{160}{}{Wartungsroboter des Reaktors fÃ¼r Initialisierung/Startsequenz bereit. Funktionaler Zugriffscode?:}
 {161}{}{Funktion?}
 {162}{}{Aktion?}
 {163}{}{35C76863}
@@ -30,7 +30,7 @@
 {165}{}{5B576005}
 {166}{}{Abmelden.}
 {170}{}{Erster funktionaler Zugriffscode akzeptiert. Zweiten funktionalen Zugriffscode eingeben.}
-{171}{}{Zurücksetzen.}
+{171}{}{ZurÃ¼cksetzen.}
 {172}{}{Funktion?}
 {173}{}{Aktion?}
 {174}{}{35C76863}
@@ -38,7 +38,7 @@
 {176}{}{5B576005}
 {177}{}{Abmelden.}
 {180}{}{Zweiter funktionaler Zugriffscode akzeptiert. Dritten funktionalen Zugriffscode eingeben.}
-{181}{}{Zurücksetzen.}
+{181}{}{ZurÃ¼cksetzen.}
 {182}{}{Funktion?}
 {183}{}{Aktion?}
 {184}{}{35C76863}
@@ -48,42 +48,42 @@
 {190}{}{Dritter funktionaler Zugriffscode akzeptiert. RW&RR-Einheit wird hochgefahren... Einheit ist bereit. Serviceverfahren?:}
 {191}{}{RW&RR ist bereit. Serviceverfahren?:}
 {192}{}{Allgemeine Wartungssequenz initialisieren.}
-{193}{}{Wartungssequenz für Kühlung initialisieren.}
+{193}{}{Wartungssequenz fÃ¼r KÃ¼hlung initialisieren.}
 {194}{}{Reinigungssequenz initialisieren.}
 {195}{}{Reparatursequenz initialisieren.}
 {196}{}{Im Bereitschaftsstatus bleiben und abmelden.}
 {200}{}{Dieses Serviceverfahren wird nicht mehr gespeichert. Aktuelles Serviceverfahren laden?}
 {201}{}{Aktuelles Serviceverfahren laden.}
-{202}{}{Zurück.}
+{202}{}{ZurÃ¼ck.}
 {203}{}{Abmelden.}
-{210}{}{Suchvorgang... Update zum Serviceverfahren ist nicht lokal verfügbar.}
-{211}{}{Zurück.}
+{210}{}{Suchvorgang... Update zum Serviceverfahren ist nicht lokal verfÃ¼gbar.}
+{211}{}{ZurÃ¼ck.}
 {212}{}{Herunterladen.}
 {213}{}{Abmelden.}
-{220}{}{Uplink mit zentralem PoseidoNet initialisiert. Erste Sequenz für Sicherheitszugriffscode eingeben: 70Y644, 008Z21, 9X7299, A46123.}
+{220}{}{Uplink mit zentralem PoseidoNet initialisiert. Erste Sequenz fÃ¼r Sicherheitszugriffscode eingeben: 70Y644, 008Z21, 9X7299, A46123.}
 {221}{}{70Y644}
 {222}{}{008Z21}
 {223}{}{9X7299}
 {224}{}{A46123}
 {225}{}{Abmelden.}
-{230}{}{Wartungssequenz für Kühlung initialisiert. Vorbereitung für Wechsel zum Hauptkühlungsventil.}
+{230}{}{Wartungssequenz fÃ¼r KÃ¼hlung initialisiert. Vorbereitung fÃ¼r Wechsel zum HauptkÃ¼hlungsventil.}
 {231}{}{Das war leichter als ich dachte.}
 {232}{}{Abmelden.}
-{240}{}{Reparaturservice initialisiert. Suchvorgang... Hydroelektrischer Magnetosphären-Regulator erforderlich. Vorbereitung für Wechsel zum Hauptkühlungsventil für das Auswechseln von Teilen. Teil in die Übertragungsvorrichtung unter dem Terminal einsetzen.}
+{240}{}{Reparaturservice initialisiert. Suchvorgang... Hydroelektrischer MagnetosphÃ¤ren-Regulator erforderlich. Vorbereitung fÃ¼r Wechsel zum HauptkÃ¼hlungsventil fÃ¼r das Auswechseln von Teilen. Teil in die Ãœbertragungsvorrichtung unter dem Terminal einsetzen.}
 {241}{}{Ah, das muss dieses Ding hier sein.}
-{242}{}{Ich fürchte, das passende Teil hab ich nicht.}
+{242}{}{Ich fÃ¼rchte, das passende Teil hab ich nicht.}
 {243}{}{Abmelden.}
-{250}{}{Dieses Terminal wurde aus Sicherheitsgründen heruntergefahren. Bitte informieren Sie den PoseidoNet-Supervisor.}
-{251}{}{Hmm, so wie es aussieht, werde ich da nicht viel machen können.}
+{250}{}{Dieses Terminal wurde aus SicherheitsgrÃ¼nden heruntergefahren. Bitte informieren Sie den PoseidoNet-Supervisor.}
+{251}{}{Hmm, so wie es aussieht, werde ich da nicht viel machen kÃ¶nnen.}
 {252}{}{Hmm, ob das hier wohl einen lokalen Reset-Schalter hat? Das da sieht so aus. Ich probier's mal aus.}
 {300}{}{Falscher Sicherheitscode.}
 {301}{}{Falscher Sicherheitscode. Zugriff verweigert. Geben Sie bitte den korrekten Code ein. Zwei weitere Versuche gestattet.}
 {302}{}{Falscher Sicherheitscode eingegeben. Zugriff verweigert. Ein weiterer Versuch gestattet.}
-{303}{}{Falscher Sicherheitscode eingegeben. Zugriff verweigert. Interne Sicherheitsvorgänge aktiviert.}
+{303}{}{Falscher Sicherheitscode eingegeben. Zugriff verweigert. Interne SicherheitsvorgÃ¤nge aktiviert.}
 {304}{}{Hoppla.}
 {305}{}{Ich sollte vorsichtiger sein.}
 {306}{}{Dies Mal sollte ich mir besser keinen Fehler erlauben.}
-{307}{}{Das hört sich nicht gut an.}
+{307}{}{Das hÃ¶rt sich nicht gut an.}
 {308}{}{Abmelden.}
 {310}{}{Zweite Sequenz des Sicherheitszugriffscodes eingeben: 70Y644, 008Z21, 9X7299, A46123.}
 {311}{}{70Y644}
@@ -97,7 +97,7 @@
 {323}{}{9X7299}
 {324}{}{A46123}
 {325}{}{Abmelden.}
-{330}{}{Sequenz für Sicherheitszugriffscodes akzeptiert. Willkommen im PoseidoNet: }
+{330}{}{Sequenz fÃ¼r Sicherheitszugriffscodes akzeptiert. Willkommen im PoseidoNet: }
 {331}{}{Wartungsroboter-Routinen herunterladen.}
 {332}{}{Weitere Stationen auflisten}
 {333}{}{Abmelden.}
@@ -111,53 +111,53 @@
 {353}{}{Abmelden.}
 {360}{}{Aktive PoseidoNet-Stationen: Atomkraftwerk Nr. 5, Navarro-Raffinerie, Kontrollstation ENKLAVE, ENKLAVE Vaultforschungs-Kontrolle...Zugriff verweigert}
 {361}{}{Das Licht brennt, aber es ist keiner zu Hause. }
-{362}{}{Alles außer ENKLAVE Vaultforschungs-Kontrolle ist heruntergefahren. Ich frag mich, was das ist.}
+{362}{}{Alles auÃŸer ENKLAVE Vaultforschungs-Kontrolle ist heruntergefahren. Ich frag mich, was das ist.}
 {363}{}{Hmm, scheint als ob entweder alles offline oder heruntergefahren ist. Na gut. }
 {370}{}{Zugriff wird vorbereitet...Zugriff auf Enklave-Station verweigert.}
 {371}{}{Zugriff wird erneut vorbereitet... Zugriff auf Enklave-Station verweigert.}
-{372}{}{Zugriff wird schon wieder vorbereitet...Hartnäckiger kleiner Kauz.... Zugriff auf Enklave-Station verweigert.}
+{372}{}{Zugriff wird schon wieder vorbereitet...HartnÃ¤ckiger kleiner Kauz.... Zugriff auf Enklave-Station verweigert.}
 {373}{}{Zugriff wird schon wieder vorbereitet...reicht's Dir nicht bald?... Zugriff auf Enklave-Station verweigert.}
 {374}{}{Zugriff wird schon wieder vorbereitet...hast Du nichts Besseres zu tun?...Zugriff auf Enklave-Station verweigert.}
-{375}{}{Das reicht. Ich hab genug von diesen ständigen Versuchen. Wenn Du es noch mal versuchst, wirst Du es bereuen.}
-{376}{}{Sag nachher nicht, ich hätte Dich nicht gewarnt. (Gerade als du dies liest, merkst du, wie ein Stromstoß von der Tastatur in deine Finger fährt.)}
+{375}{}{Das reicht. Ich hab genug von diesen stÃ¤ndigen Versuchen. Wenn Du es noch mal versuchst, wirst Du es bereuen.}
+{376}{}{Sag nachher nicht, ich hÃ¤tte Dich nicht gewarnt. (Gerade als du dies liest, merkst du, wie ein StromstoÃŸ von der Tastatur in deine Finger fÃ¤hrt.)}
 {377}{}{Vielleicht sollte ich's noch mal versuchen?}
 {378}{}{Soviel dazu. Ich sollte besser versuchen, diese RW&RR-Einheit in Betrieb zu setzen. }
 {379}{}{Verdammt, die Verbindung muss unterbrochen worden sein.}
-{380}{}{Hydroelektrischer Magnetosphären-Regulator erforderlich, bevor Reparatursequenz beginnen kann.}
-{381}{}{Kühlanlagenwartung initialisieren}
+{380}{}{Hydroelektrischer MagnetosphÃ¤ren-Regulator erforderlich, bevor Reparatursequenz beginnen kann.}
+{381}{}{KÃ¼hlanlagenwartung initialisieren}
 {382}{}{Abmelden.}
-{390}{}{Hydroelektrischer Magnetosphären-Regulator akzeptiert. Scanvorgang...Teil innerhalb der nominalen QA Beschränkungen... Übertragung an Reparatureinheit abgeschlossen...Fortfahren?}
+{390}{}{Hydroelektrischer MagnetosphÃ¤ren-Regulator akzeptiert. Scanvorgang...Teil innerhalb der nominalen QA BeschrÃ¤nkungen... Ãœbertragung an Reparatureinheit abgeschlossen...Fortfahren?}
 {391}{}{Ja.}
 {392}{}{Abmelden.}
-{400}{}{Logische Schaltkreise beschädigt. Im Notfall kann RW&RR-Einheit manuell gesteuert werden.}
-{401}{}{Das erklärt die Sache natürlich. Ich werd's versuchen.}
+{400}{}{Logische Schaltkreise beschÃ¤digt. Im Notfall kann RW&RR-Einheit manuell gesteuert werden.}
+{401}{}{Das erklÃ¤rt die Sache natÃ¼rlich. Ich werd's versuchen.}
 {402}{}{Hmm, das sieht nicht sehr vielversprechend aus. Ich melde mich ab.}
-{410}{}{Ausrollen der RW&RR-Einheit eingeleitet. Prüfung der Steuersysteme...OK, Prüfung des Manipulator-Arms...OK, Prüfung des internen Stabilisators...OK, Prüfung der logischen Schaltkreise...FEHLER.}
+{410}{}{Ausrollen der RW&RR-Einheit eingeleitet. PrÃ¼fung der Steuersysteme...OK, PrÃ¼fung des Manipulator-Arms...OK, PrÃ¼fung des internen Stabilisators...OK, PrÃ¼fung der logischen Schaltkreise...FEHLER.}
 {411}{}{Fehler bei den logischen Schaltkreisen. Was bedeutet das?}
 {412}{}{Aber das meiste scheint ja zu funktionieren. Ich mach hier weiter.}
-{420}{}{Auftrags-Positionserkennung außer Betrieb. Einheit ist nicht in der Lage, Bewegungen auf weite Distanz zu erkennen. Empfohlene Vorgehensweise: Einheit auf Zwischenstationen als Markierungen zur letzten Auftragsposition verschieben.}
-{421}{}{Was passiert wohl, wenn ich die Aufträge nicht in der richtigen Reihenfolge eingebe?}
+{420}{}{Auftrags-Positionserkennung auÃŸer Betrieb. Einheit ist nicht in der Lage, Bewegungen auf weite Distanz zu erkennen. Empfohlene Vorgehensweise: Einheit auf Zwischenstationen als Markierungen zur letzten Auftragsposition verschieben.}
+{421}{}{Was passiert wohl, wenn ich die AuftrÃ¤ge nicht in der richtigen Reihenfolge eingebe?}
 {422}{}{Ich finde, ich hab genug Warnungen gelesen. Ich werd das Ding jetzt benutzen.}
-{430}{}{Einheit wird in die Station zurückgeführt, wenn das Befehlsprogramm Terminalfehler enthält.}
-{431}{}{Ah, das erklärt einiges. Aber was ist mit dem Fehler der logischen Schaltkreise?}
+{430}{}{Einheit wird in die Station zurÃ¼ckgefÃ¼hrt, wenn das Befehlsprogramm Terminalfehler enthÃ¤lt.}
+{431}{}{Ah, das erklÃ¤rt einiges. Aber was ist mit dem Fehler der logischen Schaltkreise?}
 {432}{}{Ich werd dieses Ding in Betrieb setzen.}
-{440}{}{Manuelle Steuerung: Die RW&RR-Einheit muss manuell an das Ziel gesteuert werden. Die Einheit folgt den angegebenen Steuerungsbefehlen. Ist der Weg blockiert oder wird die Einheit beschädigt, wird sie automatisch in die Station zurückgeführt.}
+{440}{}{Manuelle Steuerung: Die RW&RR-Einheit muss manuell an das Ziel gesteuert werden. Die Einheit folgt den angegebenen Steuerungsbefehlen. Ist der Weg blockiert oder wird die Einheit beschÃ¤digt, wird sie automatisch in die Station zurÃ¼ckgefÃ¼hrt.}
 {441}{}{Wo muss ich den Roboter hinschicken? Ich werd mir den Vorgang mal anschauen.}
 {442}{}{Ich denke, jetzt kann ich anfangen.}
 {443}{}{Abmelden.}
 {450}{}{Informationsanfrage zum Vorgang:}
-{451}{}{Ich möchte wissen, wo ich den Hydroelektrischen Magnetosphären-Regulator ersetzen kann.}
-{452}{}{Und ich muss wissen, wo das Hauptkühlungsventil ausgeschaltet wird.}
+{451}{}{Ich mÃ¶chte wissen, wo ich den Hydroelektrischen MagnetosphÃ¤ren-Regulator ersetzen kann.}
+{452}{}{Und ich muss wissen, wo das HauptkÃ¼hlungsventil ausgeschaltet wird.}
 {453}{}{Abmelden.}
-{460}{}{Der Hydroelektrische Magnetosphären-Regulator befindet sich an der Ostwand des Reaktorkerns. Er befindet sich gleich rechts neben dem Ausschalter des Hauptkühlungsventils.}
-{461}{}{Wo ist der Ausschalter für das Hauptkühlungsventil?}
+{460}{}{Der Hydroelektrische MagnetosphÃ¤ren-Regulator befindet sich an der Ostwand des Reaktorkerns. Er befindet sich gleich rechts neben dem Ausschalter des HauptkÃ¼hlungsventils.}
+{461}{}{Wo ist der Ausschalter fÃ¼r das HauptkÃ¼hlungsventil?}
 {462}{}{Ich denke, jetzt kann ich anfangen.}
 {463}{}{Abmelden.}
-{470}{}{Der Ausschalter für das Hauptkühlungsventil befindet sich in der Nähe der Ostwand des Reaktorkerns. Das Ventil wird über ein großes rotes Rad gesteuert.}
-{471}{}{Das dürfte nicht allzu schwer zu finden sein - so lange die rote Farbe nicht abgeblättert ist.}
+{470}{}{Der Ausschalter fÃ¼r das HauptkÃ¼hlungsventil befindet sich in der NÃ¤he der Ostwand des Reaktorkerns. Das Ventil wird Ã¼ber ein groÃŸes rotes Rad gesteuert.}
+{471}{}{Das dÃ¼rfte nicht allzu schwer zu finden sein - so lange die rote Farbe nicht abgeblÃ¤ttert ist.}
 {472}{}{Ich denke, jetzt kann ich anfangen.}
 {473}{}{Abmelden.}
-{480}{}{Manuelle Notfallsteuerung der RW&RR-Einheit: Um die Einheit zu bewegen, müssen ihr Befehle erteilt werden, um nach links, rechts oder vorwärts zu gehen. Der letzte Befehl in einer Sequenz ist der Befehl "Vorgang ausführen".}
+{480}{}{Manuelle Notfallsteuerung der RW&RR-Einheit: Um die Einheit zu bewegen, mÃ¼ssen ihr Befehle erteilt werden, um nach links, rechts oder vorwÃ¤rts zu gehen. Der letzte Befehl in einer Sequenz ist der Befehl "Vorgang ausfÃ¼hren".}
 {482}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Befehle?: MoveVar1}
 {484}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 5% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2}
 {486}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 10% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2, MoveVar3}
@@ -182,37 +182,37 @@
 {520}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 95% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
 {522}{}{Nach links.}
 {524}{}{Nach rechts.}
-{526}{}{Vorwärts.}
-{530}{}{Vorgang ausführen: Hydroelektrischen Magnetosphären-Regulator installieren.}
-{531}{}{Vorgang ausführen: Hauptkühlungsventil ausschalten}
+{526}{}{VorwÃ¤rts.}
+{530}{}{Vorgang ausfÃ¼hren: Hydroelektrischen MagnetosphÃ¤ren-Regulator installieren.}
+{531}{}{Vorgang ausfÃ¼hren: HauptkÃ¼hlungsventil ausschalten}
 {535}{}{Steuerung der Notfall-RW&RR-Einheit:}
-{540}{}{Befehl hinzufügen.}
-{541}{}{Programm aufführen.}
+{540}{}{Befehl hinzufÃ¼gen.}
+{541}{}{Programm auffÃ¼hren.}
 {542}{}{Bericht zu Umweltsensoren.}
 {543}{}{Schadensbericht.}
-{544}{}{Alle Befehle löschen.}
-{545}{}{Programm ausführen.}
-{546}{}{Zurück.}
+{544}{}{Alle Befehle lÃ¶schen.}
+{545}{}{Programm ausfÃ¼hren.}
+{546}{}{ZurÃ¼ck.}
 {547}{}{Abmelden.}
-{550}{}{Zurück zum Hauptmenü.}
-{600}{}{Befehl auswählen:}
+{550}{}{ZurÃ¼ck zum HauptmenÃ¼.}
+{600}{}{Befehl auswÃ¤hlen:}
 {601}{}{Treiber des Uranium-Stabs kalibrieren.}
-{602}{}{Plutonium-Gammaschild verstärken.}
+{602}{}{Plutonium-Gammaschild verstÃ¤rken.}
 {603}{}{Saturn-Klassenkondensator unter Spannung setzen.}
-{604}{}{Neptuniumgebläse deharmonisieren.}
+{604}{}{NeptuniumgeblÃ¤se deharmonisieren.}
 {605}{}{Jupiter-Wellenkompilierer testen.}
-{606}{}{Hydroelektrischen Magnetosphären-Regulator installieren.}
-{607}{}{Hauptkühlungsventil ausschalten.}
-{608}{}{Hauptkühlungsventil einschalten.}
+{606}{}{Hydroelektrischen MagnetosphÃ¤ren-Regulator installieren.}
+{607}{}{HauptkÃ¼hlungsventil ausschalten.}
+{608}{}{HauptkÃ¼hlungsventil einschalten.}
 {620}{}{Programmauflistung:}
 {630}{}{Umweltbericht:}
 {640}{}{Schadensbericht:}
-{650}{}{Befehle gelöscht.}
+{650}{}{Befehle gelÃ¶scht.}
 {660}{}{--PROGRAMM BEENDEN--}
-{700}{}{Bitte warten. Programm läuft.}
+{700}{}{Bitte warten. Programm lÃ¤uft.}
 {710}{}{Einheit reagiert nicht.}
-{720}{}{Fehler, ungültiger Befehl. Kern abgeladen. Einheit zur Steuerungsstation zurückgeführt.}
-{730}{}{Fehler, Befehlsüberlauf.}
+{720}{}{Fehler, ungÃ¼ltiger Befehl. Kern abgeladen. Einheit zur Steuerungsstation zurÃ¼ckgefÃ¼hrt.}
+{730}{}{Fehler, BefehlsÃ¼berlauf.}
 {740}{}{OK.}
 {800}{}{Der Optimierungsvorgang war offenbar erfolgreich.}
 {900}{}{Bearbeite Batch Files. Bitte warten.}

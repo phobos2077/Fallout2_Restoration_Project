@@ -14,7 +14,7 @@
 {106}{}{Open Says Me}
 {107}{}{Sierra}
 {108}{}{Armageddon}
-{109}{}{"Hackear" o sistema de segurança}
+{109}{}{"Hackear" o sistema de seguranÃ§a}
 {110}{}{You don't have a clue. Exit.}
 {113}{}{Force Fields Disabled - Level 1}
 {115}{}{Sair}

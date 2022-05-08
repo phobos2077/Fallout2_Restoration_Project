@@ -1,18 +1,18 @@
 {100}{}{Ves a un hombre de mediana edad.}
-{101}{}{Él no está afeitado y apesta al alcohol.}
-{102}{}{*hipo* ¿Te conozco?}
-{103}{}{Son las 11 de la mañana. ¿Sabes dónde están tus hijos?}
-{104}{}{(Te mira soñoliento) ¿Qué? * hipo * ¿Ya son 11?}
-{105}{}{En realidad no, no lo es, solo quería decir eso. Pero en serio, ¿sabes dónde están tus hijos?}
-{106}{}{En realidad, sí lo es, pero eso no es importante en este momento. En serio, ¿sabes dónde están tus hijos?}
-{107}{}{*hipo* Tengo hijos? *hipo* Oh sí, lo tengo. Él ... o es ella ... *hipo* debería estar por aquí en alguna parte.}
-{108}{}{Wow, eres tremendo borracho. Bueno, menos mal que estoy trabajando en una forma de sacar a tu hijo de aquí.}
-{109}{}{(Ignora lo que acabas de decir). Sí, eso es genial. *hip* Ahora déjame volver a esta bebida.}
-{110}{}{Eres un héroe para todos los padres que hay. ¡Sigue así!}
+{101}{}{Ã‰l no estÃ¡ afeitado y apesta al alcohol.}
+{102}{}{*hipo* Â¿Te conozco?}
+{103}{}{Son las 11 de la maÃ±ana. Â¿Sabes dÃ³nde estÃ¡n tus hijos?}
+{104}{}{(Te mira soÃ±oliento) Â¿QuÃ©? * hipo * Â¿Ya son 11?}
+{105}{}{En realidad no, no lo es, solo querÃ­a decir eso. Pero en serio, Â¿sabes dÃ³nde estÃ¡n tus hijos?}
+{106}{}{En realidad, sÃ­ lo es, pero eso no es importante en este momento. En serio, Â¿sabes dÃ³nde estÃ¡n tus hijos?}
+{107}{}{*hipo* Tengo hijos? *hipo* Oh sÃ­, lo tengo. Ã‰l ... o es ella ... *hipo* deberÃ­a estar por aquÃ­ en alguna parte.}
+{108}{}{Wow, eres tremendo borracho. Bueno, menos mal que estoy trabajando en una forma de sacar a tu hijo de aquÃ­.}
+{109}{}{(Ignora lo que acabas de decir). SÃ­, eso es genial. *hip* Ahora dÃ©jame volver a esta bebida.}
+{110}{}{Eres un hÃ©roe para todos los padres que hay. Â¡Sigue asÃ­!}
 {111}{}{zzzZZZZzzz...}
 {112}{}{zZZZZzzZZzzz...}
 {113}{}{*murmuro*}
-{114}{}{¿No ves que estoy bebiendo? *hipo*}
+{114}{}{Â¿No ves que estoy bebiendo? *hipo*}
 {115}{}{No me molestes. *hipo*}
-{116}{}{En realidad, es un poco antes de las 11 en punto, pero eso no es importante ahora. En serio, ¿sabes dónde están tus hijos?}
-{117}{}{En realidad, son poco más de las 11 en punto, pero eso no importa. En serio, ¿sabes dónde están tus hijos?}
+{116}{}{En realidad, es un poco antes de las 11 en punto, pero eso no es importante ahora. En serio, Â¿sabes dÃ³nde estÃ¡n tus hijos?}
+{117}{}{En realidad, son poco mÃ¡s de las 11 en punto, pero eso no importa. En serio, Â¿sabes dÃ³nde estÃ¡n tus hijos?}

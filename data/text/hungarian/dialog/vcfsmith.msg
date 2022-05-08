@@ -1,8 +1,8 @@
-{100}{}{Egy megfáradt asszony.}
-{101}{}{Smith asszonyt látod.}
-{102}{}{A férjem szeretne beszélni magával.}
-{103}{}{Köszönöm, a férjem nevében is.}
-{104}{}{Köszönjük. A férjem tartogat magának valamit.}
-{105}{}{Mihamarabb szükségünk van arra az ekére.}
-{106}{}{Takarodjon innen, miel?tt hívom az ?röket!}
-{107}{}{Maga barátságos embernek látszik. Tud nekünk segíteni?}
+{100}{}{Egy megfÃ¡radt asszony.}
+{101}{}{Smith asszonyt lÃ¡tod.}
+{102}{}{A fÃ©rjem szeretne beszÃ©lni magÃ¡val.}
+{103}{}{KÃ¶szÃ¶nÃ¶m, a fÃ©rjem nevÃ©ben is.}
+{104}{}{KÃ¶szÃ¶njÃ¼k. A fÃ©rjem tartogat magÃ¡nak valamit.}
+{105}{}{Mihamarabb szÃ¼ksÃ©gÃ¼nk van arra az ekÃ©re.}
+{106}{}{Takarodjon innen, miel?tt hÃ­vom az ?rÃ¶ket!}
+{107}{}{Maga barÃ¡tsÃ¡gos embernek lÃ¡tszik. Tud nekÃ¼nk segÃ­teni?}

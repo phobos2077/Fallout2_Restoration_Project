@@ -1,4 +1,4 @@
-{100}{}{Widzisz solidn¹ bramê.}
+{100}{}{Widzisz solidnÄ… bramÄ™.}
 {101}{}{Ta brama ma solidny zamek.}
-{102}{}{Otwierasz bramê kluczem.}
-{103}{}{Zamykasz bramê kluczem.}
+{102}{}{Otwierasz bramÄ™ kluczem.}
+{103}{}{Zamykasz bramÄ™ kluczem.}

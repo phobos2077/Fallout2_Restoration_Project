@@ -1,3 +1,3 @@
-{100}{}{Tu viens d'entrer dans la centrale nucléaire de Gecko.}
-{200}{}{Tu as détruit le réacteur.}
-{300}{}{Le robot a réparé la centrale.}
+{100}{}{Tu viens d'entrer dans la centrale nuclÃ©aire de Gecko.}
+{200}{}{Tu as dÃ©truit le rÃ©acteur.}
+{300}{}{Le robot a rÃ©parÃ© la centrale.}

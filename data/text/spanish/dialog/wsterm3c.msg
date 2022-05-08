@@ -1,33 +1,33 @@
 {100}{}{Una terminal.}
-{101}{}{Tiene una peque馻 pegatina en la que pone 'I*tel inside'.}
+{101}{}{Tiene una peque帽a pegatina en la que pone 'I*tel inside'.}
 {102}{}{[No sabes leer lo que pone en el monitor].}
 {103}{}{Terminal de Control
-                                                     Proyecto: Experimentaci髇 de s韓tesis org醤ica y rob髏ica}
+                                                     Proyecto: Experimentaci贸n de s铆ntesis org谩nica y rob贸tica}
 {104}{}{}
 {105}{}{Comprobar sistemas.}
 {106}{}{Activar Robot.}
 {107}{}{Salir.}
-{108}{}{縀rg?}
+{108}{}{驴Erg?}
 {109}{}{[No sabes leer lo que pone en el monitor].}
 {110}{}{Finalizar programa.}
 {111}{}{Salir.}
 {112}{}{Ug}
-{113}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biom閐ico: Llenas  //  Dispositivo org醤ico de almacenamiento: Respondiendo    //    Listo para Activar}
+{113}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biom茅dico: Llenas  //  Dispositivo org谩nico de almacenamiento: Respondiendo    //    Listo para Activar}
 {114}{}{Por favor, espere...
   Carcasa del Robot: OK
-  Reservas de gel biom閐ico: Llenas
-  Dispositivo org醤ico de almacenamiento: No presente
-  Activaci髇 no recomendada}
-{115}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biom閐ico: Llenas  //  Dispositivo org醤ico de almacenamiento: Respondiendo    //    Activaci髇 no recomendada}
+  Reservas de gel biom茅dico: Llenas
+  Dispositivo org谩nico de almacenamiento: No presente
+  Activaci贸n no recomendada}
+{115}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biom茅dico: Llenas  //  Dispositivo org谩nico de almacenamiento: Respondiendo    //    Activaci贸n no recomendada}
 {116}{}{Por favor, espere...
   Carcasa del Robot: Reemplazar Unidad motriz
-  Reservas de gel biom閐ico: Pleno
-  Dispositivo org醤ico de almacenamiento: No presente
-  Activaci髇 no recomendada}
-{117}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biom閐ico: Rellenar  //  Dispositivo org醤ico de almacenamiento: Respondiendo    //    Activaci髇 no recomendada}
-{118}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biom閐ico: Rellenar  //  Dispositivo org醤ico de almacenamiento: No presente    //    Activaci髇 no recomendada}
-{119}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biom閐ico: Rellenar  //  Dispositivo org醤ico de almacenamiento: Respondiendo    //    Activaci髇 no recomendada}
-{120}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biom閐ico: Rellenar  //  Dispositivo org醤ico de almacenamiento: No presente    //    Activaci髇 no recomendada}
+  Reservas de gel biom茅dico: Pleno
+  Dispositivo org谩nico de almacenamiento: No presente
+  Activaci贸n no recomendada}
+{117}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biom茅dico: Rellenar  //  Dispositivo org谩nico de almacenamiento: Respondiendo    //    Activaci贸n no recomendada}
+{118}{}{Por favor, espere...    //    Carcasa del Robot: OK  //  Reservas de gel biom茅dico: Rellenar  //  Dispositivo org谩nico de almacenamiento: No presente    //    Activaci贸n no recomendada}
+{119}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biom茅dico: Rellenar  //  Dispositivo org谩nico de almacenamiento: Respondiendo    //    Activaci贸n no recomendada}
+{120}{}{Por favor, espere...    //    Carcasa del Robot: Reemplazar Unidad motriz  //  Reservas de gel biom茅dico: Rellenar  //  Dispositivo org谩nico de almacenamiento: No presente    //    Activaci贸n no recomendada}
 {121}{}{}
 {122}{}{}
 {124}{}{}
@@ -43,18 +43,18 @@
 {162}{}{}
 {163}{}{}
 {164}{}{Iniciar secuencia de arranque}
-{165}{}{                                   Nivel de energ韆 - nominal}
-{166}{}{                                                蚽dice de sincronizaci髇 - 75%}
+{165}{}{                                   Nivel de energ铆a - nominal}
+{166}{}{                                                脥ndice de sincronizaci贸n - 75%}
 {167}{}{                                               Unidad operativa}
-{170}{}{                                                蚽dice de sincronizaci髇 - 50%}
-{174}{}{                                                蚽dice de sincronizaci髇 - 10%}
+{170}{}{                                                脥ndice de sincronizaci贸n - 50%}
+{174}{}{                                                脥ndice de sincronizaci贸n - 10%}
 {176}{}{Salir.}
 {200}{}{ es incapaz de leer lo que pone en el monitor.}
 {300}{}{La computadora parece tener alguna especie de mecanismo de defensa.}
 {500}{}{Iniciando secuencia de arranque
-                                   Nivel de energ韆 - nominal
+                                   Nivel de energ铆a - nominal
                                           Programa interrumpido
                                                Descargando...
                                                   Continuando programa
-                                                  蚽dice de sincronizaci髇 - 100%
+                                                  脥ndice de sincronizaci贸n - 100%
                                                    Unidad operativa}

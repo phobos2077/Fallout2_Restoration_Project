@@ -1,24 +1,24 @@
-{100}{}{? a Korzikai Testvérek egyik test?re.}
-{150}{}{A n? igen szívós ember benyomását kelti, és zöld taréjt hord. Géppisztolyát úgy babusgatja, mint egy kisbabát.}
-{151}{}{? a Korzikai Testvérek egyik test?re.}
-{200}{}{Megmentetted a világot? Hogy oda ne tipegjek!}
-{201}{}{Óh, te kis h?s! Na, jó, t?nés!}
-{300}{}{Halló!}
+{100}{}{? a Korzikai TestvÃ©rek egyik test?re.}
+{150}{}{A n? igen szÃ­vÃ³s ember benyomÃ¡sÃ¡t kelti, Ã©s zÃ¶ld tarÃ©jt hord. GÃ©ppisztolyÃ¡t Ãºgy babusgatja, mint egy kisbabÃ¡t.}
+{151}{}{? a Korzikai TestvÃ©rek egyik test?re.}
+{200}{}{Megmentetted a vilÃ¡got? Hogy oda ne tipegjek!}
+{201}{}{Ã“h, te kis h?s! Na, jÃ³, t?nÃ©s!}
+{300}{}{HallÃ³!}
 {301}{}{Tudod, itt van ez a kis csini sz?ke...}
-{302}{}{Mi van, derogál hozzám beszélni?}
-{303}{}{Mondj valamit! Bármit!}
+{302}{}{Mi van, derogÃ¡l hozzÃ¡m beszÃ©lni?}
+{303}{}{Mondj valamit! BÃ¡rmit!}
 {400}{}{Fasz!}
 {401}{}{Seggfej!}
-{402}{}{Gyökér!}
-{403}{}{Igen-igen, nyugodtan menj csak tovább, idióta!}
-{404}{}{Remélem, többet nem lesz "szerencsém" találkozni azzal a picsafejjel!}
-{405}{}{Arra a csajra ráférne egy kis tic-tac.}
-{406}{}{Ringyó!}
-{500}{}{Átnéz rajtad.}
-{501}{}{Szemlátomást nincs mit mondania számodra.}
-{600}{}{Hát elvinném a fickót egy kis zsákolásra!}
-{601}{}{Valamikor összehoznál ezzel a sráccal?}
+{402}{}{GyÃ¶kÃ©r!}
+{403}{}{Igen-igen, nyugodtan menj csak tovÃ¡bb, idiÃ³ta!}
+{404}{}{RemÃ©lem, tÃ¶bbet nem lesz "szerencsÃ©m" talÃ¡lkozni azzal a picsafejjel!}
+{405}{}{Arra a csajra rÃ¡fÃ©rne egy kis tic-tac.}
+{406}{}{RingyÃ³!}
+{500}{}{ÃtnÃ©z rajtad.}
+{501}{}{SzemlÃ¡tomÃ¡st nincs mit mondania szÃ¡modra.}
+{600}{}{HÃ¡t elvinnÃ©m a fickÃ³t egy kis zsÃ¡kolÃ¡sra!}
+{601}{}{Valamikor Ã¶sszehoznÃ¡l ezzel a srÃ¡ccal?}
 {602}{}{Hmmm...}
-{603}{}{Valamikor összehoznál ezzel a csajjal?}
-{604}{}{Hát rá tudnék kattanni erre a csajszira...}
-{605}{}{Majd megveszek ezért a csajért, de ha meg kéne szólalni, biztos gombóc lenne a torkomban.}
+{603}{}{Valamikor Ã¶sszehoznÃ¡l ezzel a csajjal?}
+{604}{}{HÃ¡t rÃ¡ tudnÃ©k kattanni erre a csajszira...}
+{605}{}{Majd megveszek ezÃ©rt a csajÃ©rt, de ha meg kÃ©ne szÃ³lalni, biztos gombÃ³c lenne a torkomban.}

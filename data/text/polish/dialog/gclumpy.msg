@@ -1,98 +1,98 @@
-{100}{}{Widzisz mê¿czyznê o bardzo pochmurnym wygl¹dzie.}
-{101}{}{Widzisz Krostê, przyjaciela i pomocnika Skeetera.}
-{102}{}{Widzisz bardzo chudego mê¿czyznê o smutnych oczach i bardzo nieszczêœliwym wyrazie twarzy.}
-{110}{}{Jesteœ w jeszcze gorszym stanie ni¿ ja. Biedny palant.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ o bardzo pochmurnym wyglÄ…dzie.}
+{101}{}{Widzisz KrostÄ™, przyjaciela i pomocnika Skeetera.}
+{102}{}{Widzisz bardzo chudego mÄ™Å¼czyznÄ™ o smutnych oczach i bardzo nieszczÄ™Å›liwym wyrazie twarzy.}
+{110}{}{JesteÅ› w jeszcze gorszym stanie niÅ¼ ja. Biedny palant.}
 {111}{}{Nie mam czasu na rozmowy z kretynami.}
-{112}{}{Nie masz du¿o wiêcej rozumu ni¿ te braminy, których pilnujê.}
-{113}{}{Brakuje ci pi¹tej klepki, co?}
-{114}{}{O Bo¿e, jesteœ dok³adnie tak g³upi¹ osob¹, na jak¹ wygl¹dasz.}
+{112}{}{Nie masz duÅ¼o wiÄ™cej rozumu niÅ¼ te braminy, ktÃ³rych pilnujÄ™.}
+{113}{}{Brakuje ci piÄ…tej klepki, co?}
+{114}{}{O BoÅ¼e, jesteÅ› dokÅ‚adnie tak gÅ‚upiÄ… osobÄ…, na jakÄ… wyglÄ…dasz.}
 {120}{}{Witaj. Jestem Krosta.}
-{121}{}{To doœæ nietypowe imiê. Sk¹d je masz?}
-{122}{}{Czym siê tutaj zajmujesz?}
-{123}{}{Mi³o mi ciê poznaæ, Krosta. Uch, muszê ju¿ iœæ.}
-{130}{}{W³aœciwie tak naprawdê nazywam siê John, ale wszyscy mnie tu nazywaj¹ Krosta.}
+{121}{}{To doÅ›Ä‡ nietypowe imiÄ™. SkÄ…d je masz?}
+{122}{}{Czym siÄ™ tutaj zajmujesz?}
+{123}{}{MiÅ‚o mi ciÄ™ poznaÄ‡, Krosta. Uch, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{130}{}{WÅ‚aÅ›ciwie tak naprawdÄ™ nazywam siÄ™ John, ale wszyscy mnie tu nazywajÄ… Krosta.}
 {131}{}{Dlaczego Krosta?}
-{132}{}{Có¿, trudno ich winiæ. Do widzenia.}
-{140}{}{Witaj. Przysz³o ci kiedyœ do g³owy, ¿e ka¿da bramina ma inn¹ osobowoœæ? Gdyby ktoœ patrzy³ na nie tak d³ugo jak ja, na pewno by to zauwa¿y³.}
-{141}{}{Tia. Absolutnie fascynuj¹ce. Takie w³aœnie s¹.}
-{142}{}{To s¹ Mu-muu.}
-{143}{}{Czym siê tutaj zajmujesz?}
-{144}{}{Ciekawe, naprawdê ciekawe. Kim jesteœ?}
+{132}{}{CÃ³Å¼, trudno ich winiÄ‡. Do widzenia.}
+{140}{}{Witaj. PrzyszÅ‚o ci kiedyÅ› do gÅ‚owy, Å¼e kaÅ¼da bramina ma innÄ… osobowoÅ›Ä‡? Gdyby ktoÅ› patrzyÅ‚ na nie tak dÅ‚ugo jak ja, na pewno by to zauwaÅ¼yÅ‚.}
+{141}{}{Tia. Absolutnie fascynujÄ…ce. Takie wÅ‚aÅ›nie sÄ….}
+{142}{}{To sÄ… Mu-muu.}
+{143}{}{Czym siÄ™ tutaj zajmujesz?}
+{144}{}{Ciekawe, naprawdÄ™ ciekawe. Kim jesteÅ›?}
 {145}{}{Ciekawi mnie kilka rzeczy.}
-{146}{}{Mi³o mi ciê widzieæ, Krosta. Do widzenia.}
-{150}{}{Witaj. Jesteœ tu pewnie po to, ¿eby siê zobaczyæ ze Skeeterem. Mnie tak naprawdê nie obchodzi ta ca³a technika, ja tu tylko pomagam.}
+{146}{}{MiÅ‚o mi ciÄ™ widzieÄ‡, Krosta. Do widzenia.}
+{150}{}{Witaj. JesteÅ› tu pewnie po to, Å¼eby siÄ™ zobaczyÄ‡ ze Skeeterem. Mnie tak naprawdÄ™ nie obchodzi ta caÅ‚a technika, ja tu tylko pomagam.}
 {151}{}{Keeter. He he he.}
-{152}{}{Kim ty jesteœ?}
-{153}{}{Czym siê tutaj zajmujesz?}
-{154}{}{Chcê ciê o coœ zapytaæ.}
-{155}{}{Och, w porz¹dku. W takim razie pogadam ze Skeeterem. Dziêki.}
-{160}{}{Witaj. Skoro ju¿ tu jesteœ, to co mogê dla ciebie zrobiæ?}
-{161}{}{Ja g³odny.}
-{162}{}{Uch, wiesz mo¿e gdzie jest Skeeter?}
-{163}{}{Chcê ciê o coœ zapytaæ.}
-{164}{}{Och, przepraszam. Nie chcê siê narzucaæ. Do widzenia.}
-{170}{}{Pilnujê bramin i pomagam Skeeterowi w warsztacie.}
+{152}{}{Kim ty jesteÅ›?}
+{153}{}{Czym siÄ™ tutaj zajmujesz?}
+{154}{}{ChcÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{155}{}{Och, w porzÄ…dku. W takim razie pogadam ze Skeeterem. DziÄ™ki.}
+{160}{}{Witaj. Skoro juÅ¼ tu jesteÅ›, to co mogÄ™ dla ciebie zrobiÄ‡?}
+{161}{}{Ja gÅ‚odny.}
+{162}{}{Uch, wiesz moÅ¼e gdzie jest Skeeter?}
+{163}{}{ChcÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{164}{}{Och, przepraszam. Nie chcÄ™ siÄ™ narzucaÄ‡. Do widzenia.}
+{170}{}{PilnujÄ™ bramin i pomagam Skeeterowi w warsztacie.}
 {171}{}{Kto to jest Skeeter?}
-{172}{}{Pozwól, ¿e zapytam o coœ innego.}
-{173}{}{To chyba na razie wszystko, co chcê wiedzieæ. Bywaj zdrów.}
-{180}{}{No wiesz, to taki dowcip. Widzisz, takich jak ja i ty nazywa siê tu g³adkoskórkami. Ale ja by³em tak Ÿle traktowany w Kryptopolis, ¿e ghule dosz³y do wniosku, ¿e muszê mieæ wiêcej krost ni¿ inni.}
-{181}{}{Czemu w Kryptopolis Ÿle ciê traktowano?}
-{182}{}{To wiele wyjaœnia. Do widzenia.}
-{190}{}{Skeeter to taki trochê mechanik. Rozbierze na czêœci wszystko, co mu wpadnie w rêce. Wiêkszoœæ z tego potrafi te¿ wczeœniej czy póŸniej z³o¿yæ z powrotem. Czasami nawet po takiej operacji coœ dzia³a lepiej ni¿ przed ni¹.}
-{191}{}{Gdzie znajdê Skeetera?}
-{192}{}{To ciekawe. Interesuje mnie jeszcze coœ.}
-{193}{}{To ju¿ chyba wszystko co chcê wiedzieæ. ¯egnaj.}
-{200}{}{Powiedzieli, ¿e nie jestem dla nich doœæ ludzki. Jestem odporny na promieniowanie - idealna cecha, gdy siê tu mieszka. Ale im to siê nie podoba³o. Traktowali mnie jak œmiecia.}
-{201}{}{Naprawdê?}
-{210}{}{W koñcu nie mog³em ju¿ tego wytrzymaæ. Doszed³em do wniosku, ¿e lepiej ju¿ umrzeæ gdzieœ na Pustkowiach, ni¿ ¿yæ z tymi dupkami z Kryptopolis.}
-{211}{}{Wiêc jak siê tu znalaz³eœ?}
-{220}{}{Znalaz³a mnie karawana z Broken Hills. PrzywieŸli mnie tutaj. Od tej pory tu mieszkam. Trzeba przyznaæ ghulom, ¿e najbardziej interesuje ich, jakim siê jest w œrodku. To jakby jedna wielka rodzina.}
+{172}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{173}{}{To chyba na razie wszystko, co chcÄ™ wiedzieÄ‡. Bywaj zdrÃ³w.}
+{180}{}{No wiesz, to taki dowcip. Widzisz, takich jak ja i ty nazywa siÄ™ tu gÅ‚adkoskÃ³rkami. Ale ja byÅ‚em tak Åºle traktowany w Kryptopolis, Å¼e ghule doszÅ‚y do wniosku, Å¼e muszÄ™ mieÄ‡ wiÄ™cej krost niÅ¼ inni.}
+{181}{}{Czemu w Kryptopolis Åºle ciÄ™ traktowano?}
+{182}{}{To wiele wyjaÅ›nia. Do widzenia.}
+{190}{}{Skeeter to taki trochÄ™ mechanik. Rozbierze na czÄ™Å›ci wszystko, co mu wpadnie w rÄ™ce. WiÄ™kszoÅ›Ä‡ z tego potrafi teÅ¼ wczeÅ›niej czy pÃ³Åºniej zÅ‚oÅ¼yÄ‡ z powrotem. Czasami nawet po takiej operacji coÅ› dziaÅ‚a lepiej niÅ¼ przed niÄ….}
+{191}{}{Gdzie znajdÄ™ Skeetera?}
+{192}{}{To ciekawe. Interesuje mnie jeszcze coÅ›.}
+{193}{}{To juÅ¼ chyba wszystko co chcÄ™ wiedzieÄ‡. Å»egnaj.}
+{200}{}{Powiedzieli, Å¼e nie jestem dla nich doÅ›Ä‡ ludzki. Jestem odporny na promieniowanie - idealna cecha, gdy siÄ™ tu mieszka. Ale im to siÄ™ nie podobaÅ‚o. Traktowali mnie jak Å›miecia.}
+{201}{}{NaprawdÄ™?}
+{210}{}{W koÅ„cu nie mogÅ‚em juÅ¼ tego wytrzymaÄ‡. DoszedÅ‚em do wniosku, Å¼e lepiej juÅ¼ umrzeÄ‡ gdzieÅ› na Pustkowiach, niÅ¼ Å¼yÄ‡ z tymi dupkami z Kryptopolis.}
+{211}{}{WiÄ™c jak siÄ™ tu znalazÅ‚eÅ›?}
+{220}{}{ZnalazÅ‚a mnie karawana z Broken Hills. PrzywieÅºli mnie tutaj. Od tej pory tu mieszkam. Trzeba przyznaÄ‡ ghulom, Å¼e najbardziej interesuje ich, jakim siÄ™ jest w Å›rodku. To jakby jedna wielka rodzina.}
 {221}{}{Broken Hills? Gdzie to jest?}
-{222}{}{Ciekawe. Pozwól jednak, ¿e spytam o coœ innego.}
-{223}{}{To wspaniale, ¿e siê tu dobrze czujesz. Do widzenia.}
-{224}{}{Rodzina dziwade³. Nie mam ochoty d³u¿ej siê z tob¹ zadawaæ. ¯egnam.}
-{230}{}{Broken Hills to miejsce, z którego bierzemy ca³y uran potrzebny do zasilania reaktora atomowego. Z tego, co mi wiadomo, wydobywaniem uranu zajmuj¹ siê tam mutanci, ale to ludzie handluj¹ nim w ich imieniu.}
-{231}{}{Dlaczego to ludzie handluj¹, a nie oni?}
-{240}{}{Co chcesz wiedzieæ?}
-{241}{}{Ciekawscy jesteœmy co? No dobrze. Czego chcesz siê dowiedzieæ?}
-{242}{}{Czego chcesz siê dowiedzieæ tym razem?}
-{243}{}{Do czego s³u¿¹ te wszystkie œmieci na podwórzu?}
-{244}{}{Czym siê tutaj zajmujesz?}
+{222}{}{Ciekawe. PozwÃ³l jednak, Å¼e spytam o coÅ› innego.}
+{223}{}{To wspaniale, Å¼e siÄ™ tu dobrze czujesz. Do widzenia.}
+{224}{}{Rodzina dziwadeÅ‚. Nie mam ochoty dÅ‚uÅ¼ej siÄ™ z tobÄ… zadawaÄ‡. Å»egnam.}
+{230}{}{Broken Hills to miejsce, z ktÃ³rego bierzemy caÅ‚y uran potrzebny do zasilania reaktora atomowego. Z tego, co mi wiadomo, wydobywaniem uranu zajmujÄ… siÄ™ tam mutanci, ale to ludzie handlujÄ… nim w ich imieniu.}
+{231}{}{Dlaczego to ludzie handlujÄ…, a nie oni?}
+{240}{}{Co chcesz wiedzieÄ‡?}
+{241}{}{Ciekawscy jesteÅ›my co? No dobrze. Czego chcesz siÄ™ dowiedzieÄ‡?}
+{242}{}{Czego chcesz siÄ™ dowiedzieÄ‡ tym razem?}
+{243}{}{Do czego sÅ‚uÅ¼Ä… te wszystkie Å›mieci na podwÃ³rzu?}
+{244}{}{Czym siÄ™ tutaj zajmujesz?}
 {245}{}{Kto to jest Skeeter?}
-{246}{}{Dzieje siê tu ostatnio coœ niezwyk³ego?}
-{250}{}{Pewnie dlatego, ¿e sperzedaj¹ ten uran równie¿ w Kryptopolis. A w Kryptopolis ka¿dego, kto nie jest czystej krwi cz³owiekiem, traktuje siê jak trêdowatego. Dlatego w Broken Hills handlarzami s¹ ludzie. Pracuje tam chyba goœæ o imieniu Chad.}
-{251}{}{Chad? Zapamiêtam to. Pozwól, ¿e zapytam o coœ innego.}
-{252}{}{To ju¿ chyba wszystko co chcê wiedzieæ. ¯egnaj.}
-{260}{}{Czêœæ tych œmieci pochodzi sprzed wojny, z budowy reaktora. A reszta? Nie wiem. Skeeter zbiera ró¿ne dziwne rzeczy.}
+{246}{}{Dzieje siÄ™ tu ostatnio coÅ› niezwykÅ‚ego?}
+{250}{}{Pewnie dlatego, Å¼e sperzedajÄ… ten uran rÃ³wnieÅ¼ w Kryptopolis. A w Kryptopolis kaÅ¼dego, kto nie jest czystej krwi czÅ‚owiekiem, traktuje siÄ™ jak trÄ™dowatego. Dlatego w Broken Hills handlarzami sÄ… ludzie. Pracuje tam chyba goÅ›Ä‡ o imieniu Chad.}
+{251}{}{Chad? ZapamiÄ™tam to. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{252}{}{To juÅ¼ chyba wszystko co chcÄ™ wiedzieÄ‡. Å»egnaj.}
+{260}{}{CzÄ™Å›Ä‡ tych Å›mieci pochodzi sprzed wojny, z budowy reaktora. A reszta? Nie wiem. Skeeter zbiera rÃ³Å¼ne dziwne rzeczy.}
 {261}{}{Kto to jest Skeeter?}
-{262}{}{Ciekawe. Mam do ciebie nastêpne pytanie.}
-{263}{}{To ju¿ chyba wszystko, co chcê wiedzieæ. ¯egnaj.}
-{270}{}{Jest przecie¿ tu¿ obok. Po prostu otwórz oczy i trochê siê rozejrzyj. Rany.}
-{271}{}{Skeeter zwykle siedzi w swoim warsztacie, zaraz na po³udnie od nieukoñczonego reaktora. Prawie nigdy nie udaje siê go stamt¹d wyci¹gn¹æ.}
-{272}{}{Och, dziêki. Na razie.}
+{262}{}{Ciekawe. Mam do ciebie nastÄ™pne pytanie.}
+{263}{}{To juÅ¼ chyba wszystko, co chcÄ™ wiedzieÄ‡. Å»egnaj.}
+{270}{}{Jest przecieÅ¼ tuÅ¼ obok. Po prostu otwÃ³rz oczy i trochÄ™ siÄ™ rozejrzyj. Rany.}
+{271}{}{Skeeter zwykle siedzi w swoim warsztacie, zaraz na poÅ‚udnie od nieukoÅ„czonego reaktora. Prawie nigdy nie udaje siÄ™ go stamtÄ…d wyciÄ…gnÄ…Ä‡.}
+{272}{}{Och, dziÄ™ki. Na razie.}
 {273}{}{Nie wiem, gdzie ostatnio bywa Skeeter.}
-{280}{}{W³aœciwie to nie wtykam nosa w cudze sprawy, ale czasem póŸn¹ noc¹ wydaje mi siê, ¿e s³yszê dziwne odg³osy.}
-{281}{}{Odg³osy? Jakie odg³osy?}
-{282}{}{Oj, nie b¹dŸ taki. Mo¿esz mi przecie¿ powiedzieæ, co s³ysza³eœ. Nikomu nie powiem.}
-{283}{}{Ja te¿, ale myœlê, ¿e te odg³osy wydobywaj¹ siê z wnêtrza mojej g³owy.}
-{290}{}{Pamiêtaj, ¿e nie mam co do tego pewnoœci, ale chyba s³yszê ludzi, w ka¿dym razie tak mi siê wydaje, ¿e to byli ludzie. Przychodz¹ i wychodz¹ z reaktora póŸn¹ noc¹.}
+{280}{}{WÅ‚aÅ›ciwie to nie wtykam nosa w cudze sprawy, ale czasem pÃ³ÅºnÄ… nocÄ… wydaje mi siÄ™, Å¼e sÅ‚yszÄ™ dziwne odgÅ‚osy.}
+{281}{}{OdgÅ‚osy? Jakie odgÅ‚osy?}
+{282}{}{Oj, nie bÄ…dÅº taki. MoÅ¼esz mi przecieÅ¼ powiedzieÄ‡, co sÅ‚yszaÅ‚eÅ›. Nikomu nie powiem.}
+{283}{}{Ja teÅ¼, ale myÅ›lÄ™, Å¼e te odgÅ‚osy wydobywajÄ… siÄ™ z wnÄ™trza mojej gÅ‚owy.}
+{290}{}{PamiÄ™taj, Å¼e nie mam co do tego pewnoÅ›ci, ale chyba sÅ‚yszÄ™ ludzi, w kaÅ¼dym razie tak mi siÄ™ wydaje, Å¼e to byli ludzie. PrzychodzÄ… i wychodzÄ… z reaktora pÃ³ÅºnÄ… nocÄ….}
 {291}{}{Ludzie? Co noc?}
-{292}{}{To ciekawe. Interesuje mnie jeszcze coœ.}
-{300}{}{Nie mogê ci powiedzieæ. Ludzie by pomyœleli, ¿e jestem stukniêty. To pewnie i tak tylko wiatr hulaj¹cy w œmieciach.}
-{301}{}{Mówiê ci, ¿e nic nie s³ysza³em. Przestañ mnie o to wypytywaæ.}
-{302}{}{No dobrze. Pozwól wiêc, ¿e zapytam ciê o coœ innego.}
-{310}{}{(Patrzy g³êboko w twoje oczy) S³yszysz g³osy w swojej g³owie? Czy mówi¹ ci, ¿e górujesz nad wszystkimi ludŸmi? Czy mówi¹ ci, ¿e któregoœ dnia wszyscy bêd¹ k³aniaæ siê przed twoj¹ potêg¹? (Uœmiecha siê i kiwa g³ow¹)}
-{311}{}{Uch, nie. Niezupe³nie.}
-{312}{}{Uch, jasne. Pewnie, ¿e s³yszê. Chyba ka¿dy s³yszy, no nie?}
-{320}{}{To dobrze. Zaczyna³em siê ju¿ o ciebie martwiæ.}
-{321}{}{Có¿, dziêki za troskê. Pozwól, ¿e zadam ci kilka pytañ.}
-{322}{}{Uch, to œwietnie. No, chyba ju¿ pójdê. Do widzenia.}
-{330}{}{Tak w³aœnie sobie pomyœla³em, jak ciê pierwszy raz zobaczy³em, ¿e musisz byæ kimœ takim, ale nie by³em pewny. Wynoœ siê st¹d jebany œwirze!}
+{292}{}{To ciekawe. Interesuje mnie jeszcze coÅ›.}
+{300}{}{Nie mogÄ™ ci powiedzieÄ‡. Ludzie by pomyÅ›leli, Å¼e jestem stukniÄ™ty. To pewnie i tak tylko wiatr hulajÄ…cy w Å›mieciach.}
+{301}{}{MÃ³wiÄ™ ci, Å¼e nic nie sÅ‚yszaÅ‚em. PrzestaÅ„ mnie o to wypytywaÄ‡.}
+{302}{}{No dobrze. PozwÃ³l wiÄ™c, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{310}{}{(Patrzy gÅ‚Ä™boko w twoje oczy) SÅ‚yszysz gÅ‚osy w swojej gÅ‚owie? Czy mÃ³wiÄ… ci, Å¼e gÃ³rujesz nad wszystkimi ludÅºmi? Czy mÃ³wiÄ… ci, Å¼e ktÃ³regoÅ› dnia wszyscy bÄ™dÄ… kÅ‚aniaÄ‡ siÄ™ przed twojÄ… potÄ™gÄ…? (UÅ›miecha siÄ™ i kiwa gÅ‚owÄ…)}
+{311}{}{Uch, nie. NiezupeÅ‚nie.}
+{312}{}{Uch, jasne. Pewnie, Å¼e sÅ‚yszÄ™. Chyba kaÅ¼dy sÅ‚yszy, no nie?}
+{320}{}{To dobrze. ZaczynaÅ‚em siÄ™ juÅ¼ o ciebie martwiÄ‡.}
+{321}{}{CÃ³Å¼, dziÄ™ki za troskÄ™. PozwÃ³l, Å¼e zadam ci kilka pytaÅ„.}
+{322}{}{Uch, to Å›wietnie. No, chyba juÅ¼ pÃ³jdÄ™. Do widzenia.}
+{330}{}{Tak wÅ‚aÅ›nie sobie pomyÅ›laÅ‚em, jak ciÄ™ pierwszy raz zobaczyÅ‚em, Å¼e musisz byÄ‡ kimÅ› takim, ale nie byÅ‚em pewny. WynoÅ› siÄ™ stÄ…d jebany Å›wirze!}
 {331}{}{Uch, pewnie. Jak chcesz. Na razie.}
-{332}{}{No, jeden z nas rzeczywiœcie jest œwirem, ale myœlê, ¿e pomyli³eœ siê co do tego, kto.}
-{340}{}{No, nie wiem czy to ludzie, czy co, ale to siê powtarza co kilka nocy. Ha³as wydobywa siê z dziury po reaktorze. Nie wiem i nawet nie chcê wiedzieæ, co siê tam dzieje.}
-{341}{}{Trudno siê dziwiæ. Kto wie co mo¿e tam siedzieæ.}
-{342}{}{Dziêki za informacje. Do widzenia.}
-{343}{}{Czy tam nie ma zbyt du¿ego promieniowania, ¿eby coœ mog³o tam mieszkaæ?}
-{350}{}{Nie, ta czêœæ reaktora nie zosta³a ukoñczona przed wybuchem wojny.}
-{351}{}{Och, rozumiem. Hmm, w takim razie powiedz mi coœ jeszcze.}
+{332}{}{No, jeden z nas rzeczywiÅ›cie jest Å›wirem, ale myÅ›lÄ™, Å¼e pomyliÅ‚eÅ› siÄ™ co do tego, kto.}
+{340}{}{No, nie wiem czy to ludzie, czy co, ale to siÄ™ powtarza co kilka nocy. HaÅ‚as wydobywa siÄ™ z dziury po reaktorze. Nie wiem i nawet nie chcÄ™ wiedzieÄ‡, co siÄ™ tam dzieje.}
+{341}{}{Trudno siÄ™ dziwiÄ‡. Kto wie co moÅ¼e tam siedzieÄ‡.}
+{342}{}{DziÄ™ki za informacje. Do widzenia.}
+{343}{}{Czy tam nie ma zbyt duÅ¼ego promieniowania, Å¼eby coÅ› mogÅ‚o tam mieszkaÄ‡?}
+{350}{}{Nie, ta czÄ™Å›Ä‡ reaktora nie zostaÅ‚a ukoÅ„czona przed wybuchem wojny.}
+{351}{}{Och, rozumiem. Hmm, w takim razie powiedz mi coÅ› jeszcze.}

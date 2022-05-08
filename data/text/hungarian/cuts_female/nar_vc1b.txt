@@ -1,5 +1,5 @@
-1:A menedékvárosi mészárlás legendává vált.
+1:A menedÃ©kvÃ¡rosi mÃ©szÃ¡rlÃ¡s legendÃ¡vÃ¡ vÃ¡lt.
 2:One day it was a thriving community, and the next, the body of its Citizens lay strewn throughout the streets.
-3:Úgy t?nt, mintha rablók ütöttek volna rajta a városon, de egyetlen támadó holttestére sem bukkantak rá.
-4:A Menedéket kifosztották, elvittek minden régi technológiát, amit odabenn ?riztek. Hamarosan Gekkó lakosai költöztek a város lerombolt falai közé.
-5:Néhány rövid hónapon belül újjáépítették a várost, és kijavították a legtöbb, rablók által megrongált rendszert.
+3:Ãšgy t?nt, mintha rablÃ³k Ã¼tÃ¶ttek volna rajta a vÃ¡roson, de egyetlen tÃ¡madÃ³ holttestÃ©re sem bukkantak rÃ¡.
+4:A MenedÃ©ket kifosztottÃ¡k, elvittek minden rÃ©gi technolÃ³giÃ¡t, amit odabenn ?riztek. Hamarosan GekkÃ³ lakosai kÃ¶ltÃ¶ztek a vÃ¡ros lerombolt falai kÃ¶zÃ©.
+5:NÃ©hÃ¡ny rÃ¶vid hÃ³napon belÃ¼l ÃºjjÃ¡Ã©pÃ­tettÃ©k a vÃ¡rost, Ã©s kijavÃ­tottÃ¡k a legtÃ¶bb, rablÃ³k Ã¡ltal megrongÃ¡lt rendszert.

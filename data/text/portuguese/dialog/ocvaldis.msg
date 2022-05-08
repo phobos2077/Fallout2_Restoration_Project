@@ -1,10 +1,10 @@
-{100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
+{100}{}{VocÃª vÃª um garra mortal. Ele observa vocÃª com olhos estranhamente inteligentes.}
 {101}{}{You see Valdis, the Deathclaw.}
-{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
+{102}{}{VocÃª vÃª um tÃ­pico garra mortal. A criatura Ã© enorme, com um corpo poderoso, dentes afiados, e longas garras.}
 {103}{}{Greetings, human.}
 {104}{}{How may I serve you?}
 {105}{}{Who you be?}
-{106}{}{O que você faz?}
+{106}{}{O que vocÃª faz?}
 {107}{}{Brain hurt. Me come back later.}
 {108}{}{Hello, who are you?}
 {109}{}{What's your job?}
@@ -51,6 +51,6 @@
 {146}{}{Sorry, I'll try to be more civil.}
 {147}{}{Shove it.}
 {148}{}{Sim.}
-{149}{}{Bom dia pra você.}
+{149}{}{Bom dia pra vocÃª.}
 {150}{}{I regret the fact that I must kill you.}
 {151}{}{.}

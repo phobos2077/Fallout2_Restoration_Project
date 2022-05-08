@@ -1,11 +1,11 @@
-{100}{}{Widzisz podró¿nika. Jego twarz znacz¹ liczne blizny.}
+{100}{}{Widzisz podrÃ³Å¼nika. Jego twarz znaczÄ… liczne blizny.}
 {101}{}{Widzisz ochroniarza kupca.}
-{200}{}{¯adnej broni w pobli¿u szefa.}
-{201}{}{Nikt uzbrojony nie mo¿e podejœæ do szefa.}
-{202}{}{Od³ó¿ tê broñ zanim ciê rozwalê.}
-{203}{}{Od³ó¿ broñ albo zje¿d¿aj st¹d.}
-{250}{}{Nie bêdê siê powtarzaæ. Ju¿ nie ¿yjesz.}
+{200}{}{Å»adnej broni w pobliÅ¼u szefa.}
+{201}{}{Nikt uzbrojony nie moÅ¼e podejÅ›Ä‡ do szefa.}
+{202}{}{OdÅ‚Ã³Å¼ tÄ™ broÅ„ zanim ciÄ™ rozwalÄ™.}
+{203}{}{OdÅ‚Ã³Å¼ broÅ„ albo zjeÅ¼dÅ¼aj stÄ…d.}
+{250}{}{Nie bÄ™dÄ™ siÄ™ powtarzaÄ‡. JuÅ¼ nie Å¼yjesz.}
 {300}{}{Lepiej pogadaj z szefem.}
-{301}{}{Traktujê swoj¹ robotê bardzo powa¿nie. Podskocz szefowi i ju¿ nie ¿yjesz.}
-{302}{}{Szef to w gruncie rzeczy w porz¹dku.}
-{303}{}{Nawet nie myœl o kradzie¿y czegokolwiek.}
+{301}{}{TraktujÄ™ swojÄ… robotÄ™ bardzo powaÅ¼nie. Podskocz szefowi i juÅ¼ nie Å¼yjesz.}
+{302}{}{Szef to w gruncie rzeczy w porzÄ…dku.}
+{303}{}{Nawet nie myÅ›l o kradzieÅ¼y czegokolwiek.}

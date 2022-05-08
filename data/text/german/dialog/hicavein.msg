@@ -1,2 +1,2 @@
-{100}{}{Die Mine ist eingestürzt.}
+{100}{}{Die Mine ist eingestÃ¼rzt.}
 {101}{}{Durch die Explosion des Luftreinigers ist die gesamte Mine in sich zusammengefallen.}

@@ -1,57 +1,57 @@
-{100}{}{Você vê um Ghoul mais grande que o normal.}
-{101}{}{Você vê Zomak, conhecido por alguns como Destruidor.}
-{102}{}{Você vê um Ghoul grande e corpulento cujo rosto, sob uma testa fortemente inclinada, reflete vastas reservas de superioridade simplória.}
-{110}{}{Renove, camarada! Eu sou Zomak. Alguns me chamam de Zomak, o Destruidor. O que te trás aqui?}
-{111}{}{Renove, camarada! O que você está fazendo aqui? Diga o que quer para Zomak, o Destruidor.}
+{100}{}{VocÃª vÃª um Ghoul mais grande que o normal.}
+{101}{}{VocÃª vÃª Zomak, conhecido por alguns como Destruidor.}
+{102}{}{VocÃª vÃª um Ghoul grande e corpulento cujo rosto, sob uma testa fortemente inclinada, reflete vastas reservas de superioridade simplÃ³ria.}
+{110}{}{Renove, camarada! Eu sou Zomak. Alguns me chamam de Zomak, o Destruidor. O que te trÃ¡s aqui?}
+{111}{}{Renove, camarada! O que vocÃª estÃ¡ fazendo aqui? Diga o que quer para Zomak, o Destruidor.}
 {112}{}{Renu!}
 {113}{}{Ook?}
 {114}{}{Eu estou apenas olhando ao redor.}
 {115}{}{Eu quero a renewal.}
 {116}{}{Eu peguei o caminho errado.}
-{120}{}{Você deve procurar em outro lugar. Ou Zomak te mostrará as estrelas.}
-{130}{}{Então você deve ver Ele.}
-{131}{}{Ele? Onde está ele?}
-{132}{}{Não sou digno de vê-lo. Adeus.}
-{140}{}{É ele quem concede o esclarecimento. É ele quem promete a renewal para todos os que o seguirem.}
-{141}{}{Bem, estou pronto para renovar. Onde está?}
-{142}{}{Você parece outro maluco para mim. Estou saindo daqui.}
-{150}{}{Bem, ele já voltou... Ei, quem é você, afinal?}
+{120}{}{VocÃª deve procurar em outro lugar. Ou Zomak te mostrarÃ¡ as estrelas.}
+{130}{}{EntÃ£o vocÃª deve ver Ele.}
+{131}{}{Ele? Onde estÃ¡ ele?}
+{132}{}{NÃ£o sou digno de vÃª-lo. Adeus.}
+{140}{}{Ã‰ ele quem concede o esclarecimento. Ã‰ ele quem promete a renewal para todos os que o seguirem.}
+{141}{}{Bem, estou pronto para renovar. Onde estÃ¡?}
+{142}{}{VocÃª parece outro maluco para mim. Estou saindo daqui.}
+{150}{}{Bem, ele jÃ¡ voltou... Ei, quem Ã© vocÃª, afinal?}
 {151}{}{Eu sou apenas um andarilho.}
 {152}{}{Sou o Chosen One.}
-{153}{}{Estou aqui apenas por minha renovação anual.}
-{154}{}{Está tudo bem. Eu só tenho que fazer algumas perguntas pra ele.}
-{160}{}{Bem, saia daqui então.}
+{153}{}{Estou aqui apenas por minha renovaÃ§Ã£o anual.}
+{154}{}{EstÃ¡ tudo bem. Eu sÃ³ tenho que fazer algumas perguntas pra ele.}
+{160}{}{Bem, saia daqui entÃ£o.}
 {161}{}{Uh, Ok, adeus.}
-{170}{}{Bom, nesse caso. Entre. Ele está nessa sala ao lado. Não o deixe esperando.}
-{171}{}{Eu não, vou direto. Adeus.}
+{170}{}{Bom, nesse caso. Entre. Ele estÃ¡ nessa sala ao lado. NÃ£o o deixe esperando.}
+{171}{}{Eu nÃ£o, vou direto. Adeus.}
 {172}{}{Eu posso voltar mais tarde. Tchau.}
-{180}{}{Bom, você deveria querer ficar vivo. Saia daqui.}
+{180}{}{Bom, vocÃª deveria querer ficar vivo. Saia daqui.}
 {181}{}{OK.}
-{200}{}{Sim, todos vocês podem se renovar completamente.}
+{200}{}{Sim, todos vocÃªs podem se renovar completamente.}
 {201}{}{OK.}
-{210}{}{Ook? O que você quer dizer com isso? Você é idiota?}
+{210}{}{Ook? O que vocÃª quer dizer com isso? VocÃª Ã© idiota?}
 {211}{}{Goop?}
-{220}{}{Saia daqui. O cérebro não perde tempo com gente como você.}
+{220}{}{Saia daqui. O cÃ©rebro nÃ£o perde tempo com gente como vocÃª.}
 {221}{}{Ok. Estou indo agora.}
-{230}{}{Não tem mais nada aqui, só o covil do Cérebro. Cara, você é bem burro.}
-{231}{}{O Cérebro?}
-{232}{}{Eu só estava te testando. Você passou. Agora me deixa entrar.}
-{233}{}{Acho que me confundi. Deve ser toda essa radiação. Tchau.}
-{240}{}{Opa. Hã, não há nada aqui. Nada mesmo. Agora vá embora.}
-{241}{}{Tem certeza de que não há nada aqui?}
+{230}{}{NÃ£o tem mais nada aqui, sÃ³ o covil do CÃ©rebro. Cara, vocÃª Ã© bem burro.}
+{231}{}{O CÃ©rebro?}
+{232}{}{Eu sÃ³ estava te testando. VocÃª passou. Agora me deixa entrar.}
+{233}{}{Acho que me confundi. Deve ser toda essa radiaÃ§Ã£o. Tchau.}
+{240}{}{Opa. HÃ£, nÃ£o hÃ¡ nada aqui. Nada mesmo. Agora vÃ¡ embora.}
+{241}{}{Tem certeza de que nÃ£o hÃ¡ nada aqui?}
 {242}{}{Ok, adeus.}
 {250}{}{Sim. Certeza absoluta. Agora saia.}
-{251}{}{Bem, se você diz. Adeus.}
+{251}{}{Bem, se vocÃª diz. Adeus.}
 {260}{}{Oh, heh, heh, sim. Eu sabia. Umm, bem, estou aprovado? }
 {261}{}{Claro que sim. Agora me deixe entrar.}
-{262}{}{Não, você falhou e agora eu tenho que te denunciar.}
-{270}{}{Está certo, pode entrar.}
+{262}{}{NÃ£o, vocÃª falhou e agora eu tenho que te denunciar.}
+{270}{}{EstÃ¡ certo, pode entrar.}
 {271}{}{Ok, adeus.}
-{280}{}{Você tem o sinal. Pode entrar.}
-{281}{}{entraaaá.}
-{282}{}{O símbolo?}
+{280}{}{VocÃª tem o sinal. Pode entrar.}
+{281}{}{entraaaÃ¡.}
+{282}{}{O sÃ­mbolo?}
 {283}{}{Tema o sinal! Tchau.}
-{290}{}{Sim, o sagrado talismã da renovação. Renove, camarada! Renovação!}
-{291}{}{Sim, Reno para você também. Adeus.}
-{300}{}{Renove, irmão. Você pode passar.}
-{301}{}{Renove, irmã. Você pode passar.}
+{290}{}{Sim, o sagrado talismÃ£ da renovaÃ§Ã£o. Renove, camarada! RenovaÃ§Ã£o!}
+{291}{}{Sim, Reno para vocÃª tambÃ©m. Adeus.}
+{300}{}{Renove, irmÃ£o. VocÃª pode passar.}
+{301}{}{Renove, irmÃ£. VocÃª pode passar.}

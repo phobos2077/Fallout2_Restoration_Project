@@ -1,33 +1,33 @@
 {100}{}{Tu vois un terminal d'ordinateur.}
 {101}{}{Tu vois la station de physique.}
 {102}{}{Tu vois un terminal d'ordinateur fonctionnel.}
-{103}{}{Bienvenue. Veuillez confirmer votre identité.}
-{104}{}{[Oh là là ! Regarde les lumières clignotantes !]}
+{103}{}{Bienvenue. Veuillez confirmer votre identitÃ©.}
+{104}{}{[Oh lÃ  lÃ  ! Regarde les lumiÃ¨res clignotantes !]}
 {105}{}{[Deviner le mot de passe]}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{[Pirater l'ordinateur]}
-{108}{}{Déconnexion.}
-{109}{}{Base de données de physique : - Exploration - Théorie -}
+{108}{}{DÃ©connexion.}
+{109}{}{Base de donnÃ©es de physique : - Exploration - ThÃ©orie -}
 {110}{}{Exploration...}
-{111}{}{Théorie...}
-{112}{}{Désactiver la station.}
-{113}{}{Mot de passe incorrect. Veuillez vous adresser à l'administrateur système. Au revoir.}
+{111}{}{ThÃ©orie...}
+{112}{}{DÃ©sactiver la station.}
+{113}{}{Mot de passe incorrect. Veuillez vous adresser Ã  l'administrateur systÃ¨me. Au revoir.}
 {114}{}{[Pirater l'ordinateur]}
 {115}{}{[Quitter]}
-{116}{}{Alarme intrusion activée. Arrêt en cours. Bonne journée.}
-{117}{}{[Terminé]}
-{118}{}{"Grâce à la récente acquisition des plans des hélicos, le projet de création d'une machine volante a fait un immense pas en avant. Nous espérons mettre au point un prototype en état de marche d'ici la fin de l'année et entamer la production en masse de ces véhicules d'ici deux ans " - Docteur Wong}
-{119}{}{[Copier les plans et revenir en arrière]}
+{116}{}{Alarme intrusion activÃ©e. ArrÃªt en cours. Bonne journÃ©e.}
+{117}{}{[TerminÃ©]}
+{118}{}{"GrÃ¢ce Ã  la rÃ©cente acquisition des plans des hÃ©licos, le projet de crÃ©ation d'une machine volante a fait un immense pas en avant. Nous espÃ©rons mettre au point un prototype en Ã©tat de marche d'ici la fin de l'annÃ©e et entamer la production en masse de ces vÃ©hicules d'ici deux ans " - Docteur Wong}
+{119}{}{[Copier les plans et revenir en arriÃ¨re]}
 {120}{}{[Retour]}
-{121}{}{"Nous travaillons toujours sur la mise au point d'un véhicule aérien. Aucun des modèles que nous avons créés ne s'est révélé sûr ou aérodynamique. Peut-être que si nous avions accès aux plans des anciens..." - Docteur Wong}
+{121}{}{"Nous travaillons toujours sur la mise au point d'un vÃ©hicule aÃ©rien. Aucun des modÃ¨les que nous avons crÃ©Ã©s ne s'est rÃ©vÃ©lÃ© sÃ»r ou aÃ©rodynamique. Peut-Ãªtre que si nous avions accÃ¨s aux plans des anciens..." - Docteur Wong}
 {122}{}{[Retour]}
-{123}{}{[Après une lecture pénible de la présentation et des mathématiques, tu découvres que les Shis essaient de redévelopper l'énergie nucléaire, en utilisant les théories de voyages spatiaux des anciens et, ce faisant, ils imitent les Hubologistes et ont recours à l'énergie du soleil, du vent et de la mer. Du moins, c'est ce qui est écrit dans les notes.]}
+{123}{}{[AprÃ¨s une lecture pÃ©nible de la prÃ©sentation et des mathÃ©matiques, tu dÃ©couvres que les Shis essaient de redÃ©velopper l'Ã©nergie nuclÃ©aire, en utilisant les thÃ©ories de voyages spatiaux des anciens et, ce faisant, ils imitent les Hubologistes et ont recours Ã  l'Ã©nergie du soleil, du vent et de la mer. Du moins, c'est ce qui est Ã©crit dans les notes.]}
 {124}{}{[Retour]}
-{125}{}{Désactiver la station.}
+{125}{}{DÃ©sactiver la station.}
 {126}{}{Activer la station.}
 {127}{}{[Quitter]}
-{128}{}{Tu entres au hasard une série de lettres et tu obtiens le plein accès ! Mais comment fais-tu pour être aussi chanceux ?}
+{128}{}{Tu entres au hasard une sÃ©rie de lettres et tu obtiens le plein accÃ¨s ! Mais comment fais-tu pour Ãªtre aussi chanceux ?}
 {129}{}{[suite]}
-{130}{}{L'ordinateur ne répond à aucune commande.}
-{131}{}{Tu ne trouves aucun endroit pour mettre ça.}
-{132}{}{Copie des plans en cours..... Copie terminée... Revenir à... Erreur I/O... GPF... Désactivation du terminal en cours.}
+{130}{}{L'ordinateur ne rÃ©pond Ã  aucune commande.}
+{131}{}{Tu ne trouves aucun endroit pour mettre Ã§a.}
+{132}{}{Copie des plans en cours..... Copie terminÃ©e... Revenir Ã ... Erreur I/O... GPF... DÃ©sactivation du terminal en cours.}

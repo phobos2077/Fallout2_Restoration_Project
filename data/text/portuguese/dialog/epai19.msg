@@ -1,8 +1,8 @@
-{100}{}{Você vê uma máquina peculiar.}
-{101}{}{Você vê o projetor de cópia de segurança Holograma 00000.}
-{102}{}{Você vê uma máquina para projetar apenas o holograma de ciência.}
-{103}{}{A falha na máquina foi corrigida.}
-{104}{}{Esta máquina está funcionando bem já.}
-{105}{}{Reparar esta máquina parece muito complicado.}
+{100}{}{VocÃª vÃª uma mÃ¡quina peculiar.}
+{101}{}{VocÃª vÃª o projetor de cÃ³pia de seguranÃ§a Holograma 00000.}
+{102}{}{VocÃª vÃª uma mÃ¡quina para projetar apenas o holograma de ciÃªncia.}
+{103}{}{A falha na mÃ¡quina foi corrigida.}
+{104}{}{Esta mÃ¡quina estÃ¡ funcionando bem jÃ¡.}
+{105}{}{Reparar esta mÃ¡quina parece muito complicado.}
 {106}{}{O que estou procurando aqui?}
-{107}{}{Mesmo com suas ferramentas, você não possui as habilidades necessárias para corrigir esta máquina.}
+{107}{}{Mesmo com suas ferramentas, vocÃª nÃ£o possui as habilidades necessÃ¡rias para corrigir esta mÃ¡quina.}

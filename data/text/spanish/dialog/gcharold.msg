@@ -1,223 +1,223 @@
-{100}{}{Ves a un necrófago de apariencia particularmente correosa.}
+{100}{}{Ves a un necrÃ³fago de apariencia particularmente correosa.}
 {101}{}{Ves a Harold.}
-{102}{}{Ves a un necrófago muy viejo pero aún lleno de vida.}
-{103}{hld1a}{Como te lo digo, el viejo Harold es un poquito lento para pillarlas al vuelo. Los dos hablando no arreglaríamos nada.}
+{102}{}{Ves a un necrÃ³fago muy viejo pero aÃºn lleno de vida.}
+{103}{hld1a}{Como te lo digo, el viejo Harold es un poquito lento para pillarlas al vuelo. Los dos hablando no arreglarÃ­amos nada.}
 {104}{hld1b}{Ahh, ?no lindo. Simplemente no tengo tiempo para tratar de entender ya ahora.}
-{105}{hld1c}{Je je, qué cosas se ven. }
+{105}{hld1c}{Je je, quÃ© cosas se ven. }
 {106}{hld2a}{Hola, piel suave. Me llamo Harold. Ayudo a mantener en marcha esta ciudad.}
-{107}{hld2a1}{¿Qué necesitas, joven?}
+{107}{hld2a1}{Â¿QuÃ© necesitas, joven?}
 {108}{hld2b}{Bueno, mal rayo me parta, piel suave. Nos hiciste un gran favor echando una mano con nuestra central nuclear. Me llamo Harold. Mantengo en marcha esta ciudad.}
-{109}{hld2c}{Qué amable por tu parte al ayudarnos con la central nuclear. Te debemos una. Y ahora, ¿qué puede hacer esta vieja carcasa hecha polvo por ti?}
-{110}{hld2d}{Tienes algo... como el original. ¿Qué puede hacer el viejo Harold por ti, Morador del Refugio? }
-{111}{hld2e}{¿No has hecho ya bastante daño, piel suave? ¿Qué quieres ahora?}
-{112}{}{¿Piel suave? ¿Por qué me llamas así?}
-{113}{}{¿Morador del Refugio? No soy una Moradora del Refugio.}
-{114}{}{Hola, Harold. ¿Qué haces aquí?}
-{115}{}{¿Hay por aquí algún lugar para comerciar o reabastecerme?}
-{116}{}{¿Eso que te sale de la cabeza es un árbol?}
-{117}{}{Debes saber si por aquí hay algo llamado Kit de Creación del Jardín del Edén.}
-{118}{}{Harold, quisiera saber dónde puedo curarme por aquí.}
-{119}{}{Sé que probablemente estés un poco loco, pero has mencionado al Maestro. Mi antepasado lo mató.}
-{120}{}{Hola, Harold. Sólo pasaba por aquí. Adiós.}
+{109}{hld2c}{QuÃ© amable por tu parte al ayudarnos con la central nuclear. Te debemos una. Y ahora, Â¿quÃ© puede hacer esta vieja carcasa hecha polvo por ti?}
+{110}{hld2d}{Tienes algo... como el original. Â¿QuÃ© puede hacer el viejo Harold por ti, Morador del Refugio? }
+{111}{hld2e}{Â¿No has hecho ya bastante daÃ±o, piel suave? Â¿QuÃ© quieres ahora?}
+{112}{}{Â¿Piel suave? Â¿Por quÃ© me llamas asÃ­?}
+{113}{}{Â¿Morador del Refugio? No soy una Moradora del Refugio.}
+{114}{}{Hola, Harold. Â¿QuÃ© haces aquÃ­?}
+{115}{}{Â¿Hay por aquÃ­ algÃºn lugar para comerciar o reabastecerme?}
+{116}{}{Â¿Eso que te sale de la cabeza es un Ã¡rbol?}
+{117}{}{Debes saber si por aquÃ­ hay algo llamado Kit de CreaciÃ³n del JardÃ­n del EdÃ©n.}
+{118}{}{Harold, quisiera saber dÃ³nde puedo curarme por aquÃ­.}
+{119}{}{SÃ© que probablemente estÃ©s un poco loco, pero has mencionado al Maestro. Mi antepasado lo matÃ³.}
+{120}{}{Hola, Harold. SÃ³lo pasaba por aquÃ­. AdiÃ³s.}
 {121}{hld3}{Lo que sea para mantener este lugar en pie. Hago un mejor trabajo con ello que conmigo.}
-{122}{}{¿Este lugar se está derrumbando?}
+{122}{}{Â¿Este lugar se estÃ¡ derrumbando?}
 {123}{}{Eso no suena muy bien.}
-{124}{hld3a}{Pues sí... ¡pero se me da genial estar muerto! Nunca me canso de ver la cara de la gente cuando digo eso.}
-{125}{}{Ahh, ya.... ¿entonces dices que el lugar se está derrumbando?}
-{126}{}{¿Muerto, dices? Vaya, pues en ese caso lo estás haciendo bien. Tan bien que vas a poder responder a mi siguiente pregunta.}
-{127}{hld4a}{Bueno, algo así. Nuestro reactor atómico es un poquito... sensible. La gente que tengo gestionándolo tiene buenas intenciones, pero... bueno, no es que sean las herramientas mejor afiladas del cobertizo. Si entiendes a lo que me refiero.}
-{128}{hld4b}{Bueno, nos está yendo mejor ahora que has reparado nuestro reactor. Nunca hubiera creído que alguien lograría que esos cretinos de Ciudad Refugio nos echaran una mano.}
-{129}{hld4c}{Pues ya sabes, ahora no está tan mal. Reparas la central, luego consigues la información que necesitábamos para que quede como nueva. Mal rayo me parta, eres de lo que no hay.}
-{130}{}{¿Qué quieres decir?}
-{131}{}{No quería ver a Ciudad Refugio destruyendo vuestro pueblo.}
-{132}{}{Verás, no quería ver a Ciudad Refugio destruyendo vuestro pueblo. Además, lo que más les interesaba a ellos también era reparar vuestra central.}
-{133}{}{Verás, ya que lo que más le interesaba a Ciudad Refugio era reparar vuestro reactor, no fue muy difícil conseguir de ellos la información de optimización.}
-{134}{}{No me gusta dejar ningún trabajo a medias.}
-{135}{}{Verás, me encantaría quedarme a charlar contigo, pero tengo cosas que hacer y lugares que visitar. Buena suerte.}
-{136}{hld5}{Bueno, técnicamente es una... cosa.}
-{137}{}{Muy bien, ¿y qué hace?}
-{138}{hld6}{Te cuesta un poco atraparlas al vuelo, ¿eh? Que no eres precisamente brillante, vamos. Un ejemplo: el otro día recibí un informe. Indicaba que la válvula principal de la refrigeración debería estar cerrada. Lo que provocaría una fusión del núcleo que haría parecer al Gran Cañón una cagarruta.}
+{124}{hld3a}{Pues sÃ­... Â¡pero se me da genial estar muerto! Nunca me canso de ver la cara de la gente cuando digo eso.}
+{125}{}{Ahh, ya.... Â¿entonces dices que el lugar se estÃ¡ derrumbando?}
+{126}{}{Â¿Muerto, dices? Vaya, pues en ese caso lo estÃ¡s haciendo bien. Tan bien que vas a poder responder a mi siguiente pregunta.}
+{127}{hld4a}{Bueno, algo asÃ­. Nuestro reactor atÃ³mico es un poquito... sensible. La gente que tengo gestionÃ¡ndolo tiene buenas intenciones, pero... bueno, no es que sean las herramientas mejor afiladas del cobertizo. Si entiendes a lo que me refiero.}
+{128}{hld4b}{Bueno, nos estÃ¡ yendo mejor ahora que has reparado nuestro reactor. Nunca hubiera creÃ­do que alguien lograrÃ­a que esos cretinos de Ciudad Refugio nos echaran una mano.}
+{129}{hld4c}{Pues ya sabes, ahora no estÃ¡ tan mal. Reparas la central, luego consigues la informaciÃ³n que necesitÃ¡bamos para que quede como nueva. Mal rayo me parta, eres de lo que no hay.}
+{130}{}{Â¿QuÃ© quieres decir?}
+{131}{}{No querÃ­a ver a Ciudad Refugio destruyendo vuestro pueblo.}
+{132}{}{VerÃ¡s, no querÃ­a ver a Ciudad Refugio destruyendo vuestro pueblo. AdemÃ¡s, lo que mÃ¡s les interesaba a ellos tambiÃ©n era reparar vuestra central.}
+{133}{}{VerÃ¡s, ya que lo que mÃ¡s le interesaba a Ciudad Refugio era reparar vuestro reactor, no fue muy difÃ­cil conseguir de ellos la informaciÃ³n de optimizaciÃ³n.}
+{134}{}{No me gusta dejar ningÃºn trabajo a medias.}
+{135}{}{VerÃ¡s, me encantarÃ­a quedarme a charlar contigo, pero tengo cosas que hacer y lugares que visitar. Buena suerte.}
+{136}{hld5}{Bueno, tÃ©cnicamente es una... cosa.}
+{137}{}{Muy bien, Â¿y quÃ© hace?}
+{138}{hld6}{Te cuesta un poco atraparlas al vuelo, Â¿eh? Que no eres precisamente brillante, vamos. Un ejemplo: el otro dÃ­a recibÃ­ un informe. Indicaba que la vÃ¡lvula principal de la refrigeraciÃ³n deberÃ­a estar cerrada. Lo que provocarÃ­a una fusiÃ³n del nÃºcleo que harÃ­a parecer al Gran CaÃ±Ã³n una cagarruta.}
 {139}{}{Eso no suena bien.}
-{140}{hld7}{Eh, sí, no hubiera sonado bien. Ahora lo hemos solucionado a tiempo, pero hemos estado cerca del final. Necesitan a alguien que los vigile.}
-{141}{}{Menos mal que estás aquí para ayudarles.}
-{142}{hld8}{Que había un pensamiento que me gustaría estar haciendo las cosas bien? Aunque si no recibimos una Hidroeléctrica Magnetosfera Regulador muy muy rápido, no va a haber problemas.}
-{143}{}{¿Qué demonios es un hidro-magne-lo que sea?}
-{144}{}{Hmm, sí que parece un auténtico problema. Deja que te pregunte otra cosa.}
-{145}{}{¿Problema? ¿Qué clase de problema?}
-{146}{}{Bien, ya he abusado de tu precioso tiempo. Adiós.}
+{140}{hld7}{Eh, sÃ­, no hubiera sonado bien. Ahora lo hemos solucionado a tiempo, pero hemos estado cerca del final. Necesitan a alguien que los vigile.}
+{141}{}{Menos mal que estÃ¡s aquÃ­ para ayudarles.}
+{142}{hld8}{Que habÃ­a un pensamiento que me gustarÃ­a estar haciendo las cosas bien? Aunque si no recibimos una HidroelÃ©ctrica Magnetosfera Regulador muy muy rÃ¡pido, no va a haber problemas.}
+{143}{}{Â¿QuÃ© demonios es un hidro-magne-lo que sea?}
+{144}{}{Hmm, sÃ­ que parece un autÃ©ntico problema. Deja que te pregunte otra cosa.}
+{145}{}{Â¿Problema? Â¿QuÃ© clase de problema?}
+{146}{}{Bien, ya he abusado de tu precioso tiempo. AdiÃ³s.}
 {147}{hld9}{Demontre, si no hubiera sido por ti, esos malditos hijos de su madre de Ciudad Refugio nos hubieran mandado al otro barrio.}
-{148}{}{No podía permitir que Ciudad Refugio os matase a todos.}
-{149}{}{Encantado de ayudar, Harold. Pero déjame preguntarte otra cosa.}
-{150}{hld11a}{Qué amable por tu parte. No hay muchos pieles suaves que hubieran hecho algo así por un poblado lleno de necrófagos. Me recuerdas a un piel suave que conocí hace tiempo.}
-{151}{hld11b}{¿Sabes? Te pareces mucho al Morador del Refugio.}
-{152}{}{¿Otro piel suave? ¿Qué quieres decir?}
-{153}{}{Gracias. Espero haber estado a la altura de mi antepasado. Déjame preguntarte algo más mientras estoy aquí.}
-{154}{}{Encantado de ayudar. Pero déjame preguntarte otra cosa.}
-{155}{}{Bueno, todo en un día de trabajo, en realidad. Sin embargo, tengo que irme ahora. Personas a las que salvar, monstruos que matar, desastres que hay que evitar, ya sabes, toda esa clase de cosas. Adiós.}
-{156}{hld14}{Sueles sujetar los cuchillos por la parte del filo, ¿verdad? Pues que no pareces la peladura de una naranja dejada todo un día al sol. Tu piel sigue siendo suave y bonita. }
-{157}{}{Vale, ya lo pillo. Intentaré que mi siguiente pregunta merezca un poco más la pena.}
-{158}{}{Oh. Claro. Oye, déjame preguntarte algo más.}
-{159}{}{Será mejor que no estés teniendo ninguna idea rara sobre mi suave piel.}
-{160}{}{Eh, bueno, será mejor que me vaya. Adiós.}
-{161}{hld15}{¿Idea rara? ¿Te refieres a algo como despellejarte con un viejo cuchillo oxidado y sin filo, y después injertar tu húmeda, reluciente y suaaave piel aún caliente sobre mi podrido y requemado cascarón?}
-{162}{}{¡Oye! Mantente lejos de mí, joder. ¡Me largo de aquí mientras aún conservo mi piel!}
-{163}{}{Pues sí, eso es exactamente a lo que me refería. Bien visto.}
-{164}{hld16}{Bueno, no tienes de qué preocuparte.... no encuentro mi cuchillo.}
-{165}{}{¿Qué tal si cambiamos de tema con otra pregunta?}
-{166}{}{Bueno, pues será mejor que mantengas tus mugrientas manazas lejos de mi piel. Adiós.}
-{167}{hld17}{¡Más piel!... ¡Necesito más piel! (se ríe) ¿Qué pasa? ¿Perdiste tu sentido del humor en el polvo del camino al pueblo?}
-{168}{}{Tengo muchas cosas en la cabeza, ¿vale? Necesito algo más de información.}
-{169}{}{Creo que voy a ir a buscarlo. Adiós.}
-{170}{hld18}{Acabo de soltar un enorme pedo y aún así no cubre tu hedor. ¿Por qué no te limitas a apartarte de aquí?}
-{171}{}{De acuerdo, pero primero quería disculparme por la forma en que actué antes.}
-{172}{}{Cierra el pico, apestoso necrófago decrépito. Adiós.}
+{148}{}{No podÃ­a permitir que Ciudad Refugio os matase a todos.}
+{149}{}{Encantado de ayudar, Harold. Pero dÃ©jame preguntarte otra cosa.}
+{150}{hld11a}{QuÃ© amable por tu parte. No hay muchos pieles suaves que hubieran hecho algo asÃ­ por un poblado lleno de necrÃ³fagos. Me recuerdas a un piel suave que conocÃ­ hace tiempo.}
+{151}{hld11b}{Â¿Sabes? Te pareces mucho al Morador del Refugio.}
+{152}{}{Â¿Otro piel suave? Â¿QuÃ© quieres decir?}
+{153}{}{Gracias. Espero haber estado a la altura de mi antepasado. DÃ©jame preguntarte algo mÃ¡s mientras estoy aquÃ­.}
+{154}{}{Encantado de ayudar. Pero dÃ©jame preguntarte otra cosa.}
+{155}{}{Bueno, todo en un dÃ­a de trabajo, en realidad. Sin embargo, tengo que irme ahora. Personas a las que salvar, monstruos que matar, desastres que hay que evitar, ya sabes, toda esa clase de cosas. AdiÃ³s.}
+{156}{hld14}{Sueles sujetar los cuchillos por la parte del filo, Â¿verdad? Pues que no pareces la peladura de una naranja dejada todo un dÃ­a al sol. Tu piel sigue siendo suave y bonita. }
+{157}{}{Vale, ya lo pillo. IntentarÃ© que mi siguiente pregunta merezca un poco mÃ¡s la pena.}
+{158}{}{Oh. Claro. Oye, dÃ©jame preguntarte algo mÃ¡s.}
+{159}{}{SerÃ¡ mejor que no estÃ©s teniendo ninguna idea rara sobre mi suave piel.}
+{160}{}{Eh, bueno, serÃ¡ mejor que me vaya. AdiÃ³s.}
+{161}{hld15}{Â¿Idea rara? Â¿Te refieres a algo como despellejarte con un viejo cuchillo oxidado y sin filo, y despuÃ©s injertar tu hÃºmeda, reluciente y suaaave piel aÃºn caliente sobre mi podrido y requemado cascarÃ³n?}
+{162}{}{Â¡Oye! Mantente lejos de mÃ­, joder. Â¡Me largo de aquÃ­ mientras aÃºn conservo mi piel!}
+{163}{}{Pues sÃ­, eso es exactamente a lo que me referÃ­a. Bien visto.}
+{164}{hld16}{Bueno, no tienes de quÃ© preocuparte.... no encuentro mi cuchillo.}
+{165}{}{Â¿QuÃ© tal si cambiamos de tema con otra pregunta?}
+{166}{}{Bueno, pues serÃ¡ mejor que mantengas tus mugrientas manazas lejos de mi piel. AdiÃ³s.}
+{167}{hld17}{Â¡MÃ¡s piel!... Â¡Necesito mÃ¡s piel! (se rÃ­e) Â¿QuÃ© pasa? Â¿Perdiste tu sentido del humor en el polvo del camino al pueblo?}
+{168}{}{Tengo muchas cosas en la cabeza, Â¿vale? Necesito algo mÃ¡s de informaciÃ³n.}
+{169}{}{Creo que voy a ir a buscarlo. AdiÃ³s.}
+{170}{hld18}{Acabo de soltar un enorme pedo y aÃºn asÃ­ no cubre tu hedor. Â¿Por quÃ© no te limitas a apartarte de aquÃ­?}
+{171}{}{De acuerdo, pero primero querÃ­a disculparme por la forma en que actuÃ© antes.}
+{172}{}{Cierra el pico, apestoso necrÃ³fago decrÃ©pito. AdiÃ³s.}
 {173}{hld19}{Es un comienzo, pero vas a tener que hacerlo mejor.}
-{174}{}{No sé qué más decir. Supongo que simplemente no se me dan bien las cosas que me resultan nuevas. Pero lo siento.}
-{175}{}{Muy bien, ¿qué tal esto? Si tuviera cecina con una pinta la mitad de mala que la tuya, la quemaría para evitar envenenar a cualquier carroñero que pudiera toparse con ella. Adiós.}
-{176}{hld20a}{Bueno, está bien. Pero será mejor que dejes las gilipolleces. }
-{177}{hld20b}{Bueno, te diré algo, hijo. Lo has intentando pero sigues siendo un idiota. Quizás esta sea la lección que necesitas. Fuera de aquí.}
+{174}{}{No sÃ© quÃ© mÃ¡s decir. Supongo que simplemente no se me dan bien las cosas que me resultan nuevas. Pero lo siento.}
+{175}{}{Muy bien, Â¿quÃ© tal esto? Si tuviera cecina con una pinta la mitad de mala que la tuya, la quemarÃ­a para evitar envenenar a cualquier carroÃ±ero que pudiera toparse con ella. AdiÃ³s.}
+{176}{hld20a}{Bueno, estÃ¡ bien. Pero serÃ¡ mejor que dejes las gilipolleces. }
+{177}{hld20b}{Bueno, te dirÃ© algo, hijo. Lo has intentando pero sigues siendo un idiota. QuizÃ¡s esta sea la lecciÃ³n que necesitas. Fuera de aquÃ­.}
 {178}{}{Lo siento. Y ahora que lo hemos resuelto, deja que te pregunte algo.}
-{179}{}{Está bien, adiós.}
-{180}{hld21a}{Prefiero tener esta pinta que tener la tuya y parecerme a ti. Eres un idiota. Sal de aquí de una puta vez. }
-{181}{hld21b}{Eres como una maldita astilla que uno no puede quitarse del dedo. Pero sigo intentando... ¡Oh, mira, ya está!}
-{182}{hld21c}{Bueno, mira lo que ha traído el viento. Mi mojón favorito. ¿Y si te vas a hacer puñetas de aquí?}
-{183}{hld21d}{¿Quieres saber cómo mantenerle el suspense a un idiota?}
-{184}{hld21e}{Oye, que estaba esperando a que aparecieras. Has ganado un premio al mayor de los gilipollas. Hay una fiesta en tu honor a diez millas de distancia del pueblo. Será mejor que te des prisa.}
-{185}{hld26}{¿Su mejor interés? ¿Qué quieres decir?}
-{186}{}{Bueno, de acuerdo con ciertos datos económicos que conseguí de Ciudad Refugio, sería mucho mejor si os ayudaran a reparar vuestra central nuclear.}
-{187}{}{Quiero decir que siempre es mejor intentar llevarse bien con los demás.}
+{179}{}{EstÃ¡ bien, adiÃ³s.}
+{180}{hld21a}{Prefiero tener esta pinta que tener la tuya y parecerme a ti. Eres un idiota. Sal de aquÃ­ de una puta vez. }
+{181}{hld21b}{Eres como una maldita astilla que uno no puede quitarse del dedo. Pero sigo intentando... Â¡Oh, mira, ya estÃ¡!}
+{182}{hld21c}{Bueno, mira lo que ha traÃ­do el viento. Mi mojÃ³n favorito. Â¿Y si te vas a hacer puÃ±etas de aquÃ­?}
+{183}{hld21d}{Â¿Quieres saber cÃ³mo mantenerle el suspense a un idiota?}
+{184}{hld21e}{Oye, que estaba esperando a que aparecieras. Has ganado un premio al mayor de los gilipollas. Hay una fiesta en tu honor a diez millas de distancia del pueblo. SerÃ¡ mejor que te des prisa.}
+{185}{hld26}{Â¿Su mejor interÃ©s? Â¿QuÃ© quieres decir?}
+{186}{}{Bueno, de acuerdo con ciertos datos econÃ³micos que conseguÃ­ de Ciudad Refugio, serÃ­a mucho mejor si os ayudaran a reparar vuestra central nuclear.}
+{187}{}{Quiero decir que siempre es mejor intentar llevarse bien con los demÃ¡s.}
 {188}{}{Oh, nada.}
-{189}{}{Caramba, es mucho más tarde de lo que pensaba. Mejor me marcho. Adiós.}
-{190}{hld27}{¿Datos económicos? No les diste esa información q-que Gordon larga por esa bocaza, ¿verdad?}
-{191}{}{Eh, pues sí que lo hice. ¿Por qué?}
+{189}{}{Caramba, es mucho mÃ¡s tarde de lo que pensaba. Mejor me marcho. AdiÃ³s.}
+{190}{hld27}{Â¿Datos econÃ³micos? No les diste esa informaciÃ³n q-que Gordon larga por esa bocaza, Â¿verdad?}
+{191}{}{Eh, pues sÃ­ que lo hice. Â¿Por quÃ©?}
 {192}{}{Eh, no, por supuesto que no.}
-{193}{hld28}{Sí, bueno, estoy seguro de que algún atontado, muy parecido a ti, en su momento dijo lo mismo sobre el Maestro.}
-{194}{}{Parece una historia genial. Ojalá tuviera tiempo de escucharla, pero tengo que irme.}
-{195}{}{¿El Maestro? ¡Mi antepasado lo mató!}
-{196}{hld29}{Nada, ¿eh? Y yo que me lo creo. Acabas de ponernos en un aprieto. ¿Por qué no desapareces mientras pienso qué hacer?}
+{193}{hld28}{SÃ­, bueno, estoy seguro de que algÃºn atontado, muy parecido a ti, en su momento dijo lo mismo sobre el Maestro.}
+{194}{}{Parece una historia genial. OjalÃ¡ tuviera tiempo de escucharla, pero tengo que irme.}
+{195}{}{Â¿El Maestro? Â¡Mi antepasado lo matÃ³!}
+{196}{hld29}{Nada, Â¿eh? Y yo que me lo creo. Acabas de ponernos en un aprieto. Â¿Por quÃ© no desapareces mientras pienso quÃ© hacer?}
 {197}{}{Eh, lo siento.}
-{198}{}{Sí, claro. Ponte a hacerlo. Cristo, uno intenta ayudar a la gente....}
-{199}{hld30}{¡¿Que por qué?! Ahora Ciudad Refugio sabe lo mucho que necesitamos el uranio de Broken Hills. Podrían cortar los envíos y estaríamos acabados.}
-{200}{}{Oh, pero no puede ser tan malo. A mí me parecieron gente razonable.}
-{201}{}{No sabía para qué usarían la información. Lo siento. Adiós.}
-{202}{hld31}{Bueno, desde luego que espero que no. Esos imbéciles de Ciudad Refugio odian a los necrófagos. Cortarían nuestros envíos de uranio de Broken Hills en apenas un minuto. Después establecerían las condiciones. No pasaría mucho tiempo para que Gecko pasara a ser un campo de esclavos.}
-{203}{}{Oh, estoy seguro de que no sucedería así. Parecen bastante razonables.}
-{204}{}{Vaya, menos mal que no les dije nada de eso. Je, je. Oye, deja que te pregunte algo más.}
-{205}{}{Bueno, a veces las cosas se tuercen. A veces te tuerces tú. Adiós.}
-{206}{hld32}{¿Razonables? ¡Razonables! Bueno, seguro que la gente también decía que el Maestro era razonable. Menudo estúpido. Lárgate. ¡Ahora!}
-{207}{}{Quizá tienen razón. Quizá haya llegado la hora de ponerle fin a los monstruitos como tú. Adiós.}
-{208}{}{Eh, bueno, yo, eh... Adiós.}
-{209}{hld33}{Bueno, puedes intentar hablar con Wooz en El Arpa. No tiene pérdida: está justo al otro lado de la calle. }
-{210}{}{Gracias. Deja que te pregunte algo más.}
-{211}{}{Gracias, eso es todo lo que necesito saber por ahora. Adiós.}
-{212}{hld34}{¿Celoso? Se llama Herbert. Hablo con él cuando me siento solo... Je je. Es una broma... se llama Bob.}
-{213}{}{Muy bien... entonces tal vez Bob o tú sepáis la respuesta a lo que sigue.}
-{214}{}{Gracias, eso es mucho más de lo que necesito saber ahora mismo. Adiós.}
-{215}{hld35}{¿Un Kit de Creación del Jardín del Edén? Un GECK, ¿cierto? Creo recordar que los Refugios los tenían. No sé dónde se puede encontrar uno hoy en día. }
-{216}{}{Gracias. Deja que te pregunte algo más.}
-{217}{}{Gracias, eso es todo lo que necesito saber por ahora. Adiós.}
-{218}{hld36}{Habla con mi asistente, Lenny. Él puede hacerte un apaño.}
-{219}{}{Gracias. Deja que te pregunte algo más.}
-{220}{}{Gracias, eso es todo lo que necesito saber por ahora. Adiós.}
-{221}{hld37}{Otro piel suave. Tenía un gran respeto por uno.}
-{222}{}{¿Quién era?}
-{223}{hld38}{Bueno, probablemente podría recordarlo si no estuviera muerto. Nunca me canso de esa broma. }
+{198}{}{SÃ­, claro. Ponte a hacerlo. Cristo, uno intenta ayudar a la gente....}
+{199}{hld30}{Â¡Â¿Que por quÃ©?! Ahora Ciudad Refugio sabe lo mucho que necesitamos el uranio de Broken Hills. PodrÃ­an cortar los envÃ­os y estarÃ­amos acabados.}
+{200}{}{Oh, pero no puede ser tan malo. A mÃ­ me parecieron gente razonable.}
+{201}{}{No sabÃ­a para quÃ© usarÃ­an la informaciÃ³n. Lo siento. AdiÃ³s.}
+{202}{hld31}{Bueno, desde luego que espero que no. Esos imbÃ©ciles de Ciudad Refugio odian a los necrÃ³fagos. CortarÃ­an nuestros envÃ­os de uranio de Broken Hills en apenas un minuto. DespuÃ©s establecerÃ­an las condiciones. No pasarÃ­a mucho tiempo para que Gecko pasara a ser un campo de esclavos.}
+{203}{}{Oh, estoy seguro de que no sucederÃ­a asÃ­. Parecen bastante razonables.}
+{204}{}{Vaya, menos mal que no les dije nada de eso. Je, je. Oye, deja que te pregunte algo mÃ¡s.}
+{205}{}{Bueno, a veces las cosas se tuercen. A veces te tuerces tÃº. AdiÃ³s.}
+{206}{hld32}{Â¿Razonables? Â¡Razonables! Bueno, seguro que la gente tambiÃ©n decÃ­a que el Maestro era razonable. Menudo estÃºpido. LÃ¡rgate. Â¡Ahora!}
+{207}{}{QuizÃ¡ tienen razÃ³n. QuizÃ¡ haya llegado la hora de ponerle fin a los monstruitos como tÃº. AdiÃ³s.}
+{208}{}{Eh, bueno, yo, eh... AdiÃ³s.}
+{209}{hld33}{Bueno, puedes intentar hablar con Wooz en El Arpa. No tiene pÃ©rdida: estÃ¡ justo al otro lado de la calle. }
+{210}{}{Gracias. Deja que te pregunte algo mÃ¡s.}
+{211}{}{Gracias, eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{212}{hld34}{Â¿Celoso? Se llama Herbert. Hablo con Ã©l cuando me siento solo... Je je. Es una broma... se llama Bob.}
+{213}{}{Muy bien... entonces tal vez Bob o tÃº sepÃ¡is la respuesta a lo que sigue.}
+{214}{}{Gracias, eso es mucho mÃ¡s de lo que necesito saber ahora mismo. AdiÃ³s.}
+{215}{hld35}{Â¿Un Kit de CreaciÃ³n del JardÃ­n del EdÃ©n? Un GECK, Â¿cierto? Creo recordar que los Refugios los tenÃ­an. No sÃ© dÃ³nde se puede encontrar uno hoy en dÃ­a. }
+{216}{}{Gracias. Deja que te pregunte algo mÃ¡s.}
+{217}{}{Gracias, eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{218}{hld36}{Habla con mi asistente, Lenny. Ã‰l puede hacerte un apaÃ±o.}
+{219}{}{Gracias. Deja que te pregunte algo mÃ¡s.}
+{220}{}{Gracias, eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{221}{hld37}{Otro piel suave. TenÃ­a un gran respeto por uno.}
+{222}{}{Â¿QuiÃ©n era?}
+{223}{hld38}{Bueno, probablemente podrÃ­a recordarlo si no estuviera muerto. Nunca me canso de esa broma. }
 {224}{}{Tal vez no...}
-{225}{hld38a}{Bueno, para ser honesto, no recuerdo su nombre. Pero llevaba un uniforme raro. Parecido al que llevas tú.}
-{226}{}{Llevo el uniforme de Refugio que portaba mi antepasado. Es un tótem de mi sagrada búsqueda.}
-{227}{}{Oh, ¿esa vieja cosa?}
-{228}{hld38b}{¿No mientes?}
-{229}{}{Llevo el uniforme de Refugio que portaba mi antepasado. Es un tótem de mi sagrada búsqueda.}
+{225}{hld38a}{Bueno, para ser honesto, no recuerdo su nombre. Pero llevaba un uniforme raro. Parecido al que llevas tÃº.}
+{226}{}{Llevo el uniforme de Refugio que portaba mi antepasado. Es un tÃ³tem de mi sagrada bÃºsqueda.}
+{227}{}{Oh, Â¿esa vieja cosa?}
+{228}{hld38b}{Â¿No mientes?}
+{229}{}{Llevo el uniforme de Refugio que portaba mi antepasado. Es un tÃ³tem de mi sagrada bÃºsqueda.}
 {230}{}{No miento, Harold.}
-{231}{hld39}{¿Es así? Vaya, vaya, vaya. Eso explica un par de cosas. Me preguntaba por qué me resultabas familiar. Aún no he perdido el par de neuronas que me quedan.}
-{232}{}{¿Realmente nos parecemos?}
-{233}{}{Dime cómo era el Morador del Refugio.}
-{234}{hld40}{Sí, justo así. Ahora que lo pienso, también tenía un número 13 en él. }
+{231}{hld39}{Â¿Es asÃ­? Vaya, vaya, vaya. Eso explica un par de cosas. Me preguntaba por quÃ© me resultabas familiar. AÃºn no he perdido el par de neuronas que me quedan.}
+{232}{}{Â¿Realmente nos parecemos?}
+{233}{}{Dime cÃ³mo era el Morador del Refugio.}
+{234}{hld40}{SÃ­, justo asÃ­. Ahora que lo pienso, tambiÃ©n tenÃ­a un nÃºmero 13 en Ã©l. }
 {235}{}{De hecho, este es el uniforme de mi antepasado, el Morador del Refugio.}
-{236}{hld41}{Hay cierto parecido. Hasta lo que puedo recordar, en todo caso. Ya sabrás que tu antepasado nos salvó el culo a todos.}
-{237}{}{El Morador del Refugio salvó a todos los necrófagos?}
-{238}{}{Gracias. Es bueno saberlo. Oye, tengo que salir corriendo un momento. Te veré más tarde.}
-{239}{hld42}{Te precipitas en sacar conclusiones, jovencito. Eso hará que algún día te vuelen el trasero. A todos nosotros. Salvó a todo aquel con dos piernas que se arrastra por el puñetero planeta. }
-{240}{}{No me había dado cuenta de eso.}
-{241}{}{Creo que de momento ya he oído suficiente. Adiós.}
-{242}{hld43}{Bueno. Ahora lo sabes. ¿Y qué pasó después? Como agradecimiento, los malditos Refugiados petulantes echaron al Morador de una patada. Siempre me he preguntado qué sucedió después.}
-{243}{}{Te puedo contar lo que le ocurrió.}
+{236}{hld41}{Hay cierto parecido. Hasta lo que puedo recordar, en todo caso. Ya sabrÃ¡s que tu antepasado nos salvÃ³ el culo a todos.}
+{237}{}{El Morador del Refugio salvÃ³ a todos los necrÃ³fagos?}
+{238}{}{Gracias. Es bueno saberlo. Oye, tengo que salir corriendo un momento. Te verÃ© mÃ¡s tarde.}
+{239}{hld42}{Te precipitas en sacar conclusiones, jovencito. Eso harÃ¡ que algÃºn dÃ­a te vuelen el trasero. A todos nosotros. SalvÃ³ a todo aquel con dos piernas que se arrastra por el puÃ±etero planeta. }
+{240}{}{No me habÃ­a dado cuenta de eso.}
+{241}{}{Creo que de momento ya he oÃ­do suficiente. AdiÃ³s.}
+{242}{hld43}{Bueno. Ahora lo sabes. Â¿Y quÃ© pasÃ³ despuÃ©s? Como agradecimiento, los malditos Refugiados petulantes echaron al Morador de una patada. Siempre me he preguntado quÃ© sucediÃ³ despuÃ©s.}
+{243}{}{Te puedo contar lo que le ocurriÃ³.}
 {244}{}{Basta de recordar el pasado. Deja que te pregunte otra cosa.}
-{245}{hld44}{Bueno, desde luego me gustaría oírlo.}
-{246}{}{La leyenda del Morador del Refugio comienza con su expulsión al reseco Yermo.... [le cuentas a Harold la historia de tu antepasado]… y eso por eso que estoy buscando el Refugio 13 ahora.}
-{247}{hld45}{Gracias por contármelo. Ciertamente he sentido curiosidad todos estos años. Desde luego tienes una dura tarea por delante. Eh, ya sabes....}
-{248}{}{¿Saber qué?}
-{249}{}{Ya te he robado bastante tiempo. Será mejor que me vaya. Adiós.}
-{250}{hld46a}{Bueno, los estaba guardando para las vacas flacas, pero parece que te van a hacer bastante más falta que a mí. Toma.}
-{251}{hld46b}{Iba a darte unos suministros médicos pero que me aspen si no lo he hecho ya. Puedes crerme, hacerse viejo te hace polvo la memoria.}
-{252}{}{Gracias. Aunque déjame preguntarte algo.}
-{253}{}{Gracias por todo. Será mejor que me vaya. Adiós.}
-{254}{hld48a}{Sin un Regulador Hidroeléctrico Magnetosférico operativo estamos filtrando refrigerante radiactivo al agua subterránea. Lo que significa que cualquiera que beba esa agua no va a necesitar una linterna para echar una meadita a medianoche. Además, necesitamos más combustible porque nuestra central no está funcionando con eficiencia.}
-{255}{hld48b}{Necesitamos un regulador hidroeléctrico magnetosférico y que se instale pronto, o vamos a tener problemas de verdad. }
-{256}{}{Suena mal. ¿Dónde podría encontrar un regulador hidroele-lo que sea?}
-{257}{}{¿Qué sucederá si no conseguís esa pieza?}
-{258}{}{¿A quién le compráis vuestro combustible?}
-{259}{}{Lamento escuchar eso. Deja que te pregunte algo más.}
-{260}{}{Creo que voy a tener que dejarte con tus problemas ahora mismo. Adiós.}
-{261}{hld49}{Bueno, seguro que esos malhumorados hijos de puta de Ciudad Refugio tienen uno. Uno que no compartirían. Demonios, incluso si tuviéramos una de esas malditas cosas, no estoy seguro de que Festus supiera instalarla.}
-{262}{}{¿Ciudad Refugio no os daría la pieza? ¿Incluso si eso significa dejar de contaminar el agua subterránea?}
-{263}{}{Parece que tienes un montón de preocupaciones. Adiós.}
-{264}{hld50}{Si no la conseguimos, puedes apostar a que esos memos de Ciudad Refugio cerrarán nuestra central de forma permanente.}
-{265}{}{¿Qué haréis entonces?}
-{266}{hld51}{Conseguimos nuestro combustible de Broken Hills. Es una comunidad minera que está hacia el sur.}
-{267}{}{Interesante. ¿Dónde podría encontrar un regulador hidroele-lo que sea?}
-{268}{}{¿Qué sucede si no conseguís la hidro-pieza esa?}
-{269}{}{Hmm, creo que debería dejar que esto lo resolvais vosotros mismos. Adiós.}
-{270}{hld52}{Seríamos fiambres. Ciudad Refugio no juega limpio. Se limitarán a aparecer por aquí y matarnos a todos si no conseguimos esa pieza. Bueno, al menos tendré un árbol para un monumento.}
-{271}{}{¿Cómo se llamaba esa pieza?}
-{272}{}{Parece que necesitáis esa hidrocosa urgentemente. Pero déjame preguntarte algo más ahora.}
-{273}{}{Eso parece un problema. Tengo que marcharme para ver si puedo hacer algo. Adiós.}
-{274}{hld53}{Bueno, sólo nos ayudarían si pensasen que el hacerlo supondría su propio beneficio. Huh. No parece que eso vaya a suceder.}
-{275}{}{Hmm, puede que tengas razón. Aún así, si alguien les convenciera eso os ayudaría...}
-{276}{hld54}{Le disparan a los necrófagos en cuanto los ven. Eso dificulta un poco la conversación.}
-{277}{}{Me pregunto si alguien más podría contárselo.}
-{278}{}{Sí, alguien podría. Ahora mismo tengo otra pregunta.}
-{279}{}{Oye, nunca se sabe. Te veré más tarde.}
+{245}{hld44}{Bueno, desde luego me gustarÃ­a oÃ­rlo.}
+{246}{}{La leyenda del Morador del Refugio comienza con su expulsiÃ³n al reseco Yermo.... [le cuentas a Harold la historia de tu antepasado]â€¦ y eso por eso que estoy buscando el Refugio 13 ahora.}
+{247}{hld45}{Gracias por contÃ¡rmelo. Ciertamente he sentido curiosidad todos estos aÃ±os. Desde luego tienes una dura tarea por delante. Eh, ya sabes....}
+{248}{}{Â¿Saber quÃ©?}
+{249}{}{Ya te he robado bastante tiempo. SerÃ¡ mejor que me vaya. AdiÃ³s.}
+{250}{hld46a}{Bueno, los estaba guardando para las vacas flacas, pero parece que te van a hacer bastante mÃ¡s falta que a mÃ­. Toma.}
+{251}{hld46b}{Iba a darte unos suministros mÃ©dicos pero que me aspen si no lo he hecho ya. Puedes crerme, hacerse viejo te hace polvo la memoria.}
+{252}{}{Gracias. Aunque dÃ©jame preguntarte algo.}
+{253}{}{Gracias por todo. SerÃ¡ mejor que me vaya. AdiÃ³s.}
+{254}{hld48a}{Sin un Regulador HidroelÃ©ctrico MagnetosfÃ©rico operativo estamos filtrando refrigerante radiactivo al agua subterrÃ¡nea. Lo que significa que cualquiera que beba esa agua no va a necesitar una linterna para echar una meadita a medianoche. AdemÃ¡s, necesitamos mÃ¡s combustible porque nuestra central no estÃ¡ funcionando con eficiencia.}
+{255}{hld48b}{Necesitamos un regulador hidroelÃ©ctrico magnetosfÃ©rico y que se instale pronto, o vamos a tener problemas de verdad. }
+{256}{}{Suena mal. Â¿DÃ³nde podrÃ­a encontrar un regulador hidroele-lo que sea?}
+{257}{}{Â¿QuÃ© sucederÃ¡ si no conseguÃ­s esa pieza?}
+{258}{}{Â¿A quiÃ©n le comprÃ¡is vuestro combustible?}
+{259}{}{Lamento escuchar eso. Deja que te pregunte algo mÃ¡s.}
+{260}{}{Creo que voy a tener que dejarte con tus problemas ahora mismo. AdiÃ³s.}
+{261}{hld49}{Bueno, seguro que esos malhumorados hijos de puta de Ciudad Refugio tienen uno. Uno que no compartirÃ­an. Demonios, incluso si tuviÃ©ramos una de esas malditas cosas, no estoy seguro de que Festus supiera instalarla.}
+{262}{}{Â¿Ciudad Refugio no os darÃ­a la pieza? Â¿Incluso si eso significa dejar de contaminar el agua subterrÃ¡nea?}
+{263}{}{Parece que tienes un montÃ³n de preocupaciones. AdiÃ³s.}
+{264}{hld50}{Si no la conseguimos, puedes apostar a que esos memos de Ciudad Refugio cerrarÃ¡n nuestra central de forma permanente.}
+{265}{}{Â¿QuÃ© harÃ©is entonces?}
+{266}{hld51}{Conseguimos nuestro combustible de Broken Hills. Es una comunidad minera que estÃ¡ hacia el sur.}
+{267}{}{Interesante. Â¿DÃ³nde podrÃ­a encontrar un regulador hidroele-lo que sea?}
+{268}{}{Â¿QuÃ© sucede si no conseguÃ­s la hidro-pieza esa?}
+{269}{}{Hmm, creo que deberÃ­a dejar que esto lo resolvais vosotros mismos. AdiÃ³s.}
+{270}{hld52}{SerÃ­amos fiambres. Ciudad Refugio no juega limpio. Se limitarÃ¡n a aparecer por aquÃ­ y matarnos a todos si no conseguimos esa pieza. Bueno, al menos tendrÃ© un Ã¡rbol para un monumento.}
+{271}{}{Â¿CÃ³mo se llamaba esa pieza?}
+{272}{}{Parece que necesitÃ¡is esa hidrocosa urgentemente. Pero dÃ©jame preguntarte algo mÃ¡s ahora.}
+{273}{}{Eso parece un problema. Tengo que marcharme para ver si puedo hacer algo. AdiÃ³s.}
+{274}{hld53}{Bueno, sÃ³lo nos ayudarÃ­an si pensasen que el hacerlo supondrÃ­a su propio beneficio. Huh. No parece que eso vaya a suceder.}
+{275}{}{Hmm, puede que tengas razÃ³n. AÃºn asÃ­, si alguien les convenciera eso os ayudarÃ­a...}
+{276}{hld54}{Le disparan a los necrÃ³fagos en cuanto los ven. Eso dificulta un poco la conversaciÃ³n.}
+{277}{}{Me pregunto si alguien mÃ¡s podrÃ­a contÃ¡rselo.}
+{278}{}{SÃ­, alguien podrÃ­a. Ahora mismo tengo otra pregunta.}
+{279}{}{Oye, nunca se sabe. Te verÃ© mÃ¡s tarde.}
 {280}{}{Al norte}
 {281}{}{Al noroeste}
 {282}{}{Al oeste}
 {283}{}{Al suroeste}
 {284}{}{Al sur}
 {285}{}{Al sudeste}
-{286}{}{Al este de aquí}
+{286}{}{Al este de aquÃ­}
 {287}{}{Al nordeste}
 {288}{}{No comprendo.}
-{289}{}{No lo sé.}
+{289}{}{No lo sÃ©.}
 {290}{}{Eso duele.}
 {291}{}{Eso realmente duele.}
 {292}{}{Tiene que doler.}
-{293}{}{No sé nada de eso.}
-{294}{}{Sí.}
+{293}{}{No sÃ© nada de eso.}
+{294}{}{SÃ­.}
 {295}{}{No}
-{296}{}{¿Por qué me hablas así?}
+{296}{}{Â¿Por quÃ© me hablas asÃ­?}
 {297}{}{No eres agradable.}
 {298}{}{Gracias. }
-{299}{}{Está bien.}
-{300}{}{No está bien.}
+{299}{}{EstÃ¡ bien.}
+{300}{}{No estÃ¡ bien.}
 {301}{}{Tengo un buen presentimiento sobre eso.}
 {302}{}{Tengo un mal presentimiento sobre eso.}
-{303}{}{Esta gente está loca.}
-{304}{}{No aprendí nada.}
+{303}{}{Esta gente estÃ¡ loca.}
+{304}{}{No aprendÃ­ nada.}
 {305}{}{He aprendido algo.}
-{306}{}{¿Está aquí todo el mundo loco?}
+{306}{}{Â¿EstÃ¡ aquÃ­ todo el mundo loco?}
 {307}{}{Debe haber otro camino.}
-{308}{}{Sígueme.}
+{308}{}{SÃ­gueme.}
 {309}{}{Probar esto.}
-{310}{}{Ven aquí.}
+{310}{}{Ven aquÃ­.}
 {311}{}{Estoy asustado.}
 {312}{}{Estoy preocupado.}
 {313}{}{He encontrado algo.}
 {314}{}{He tenido suerte.}
-{315}{}{Tú arregla esto.}
-{316}{}{Tú tienes que encender esto.}
-{317}{}{Tú tienes que abrir esto.}
-{318}{}{Tú tienes que abrir esto.}
-{319}{}{Quizás nosotros volver aquí otra vez.}
-{320}{}{No, miento. Me aseguraré de que el reactor se repare. De una forma y otra. Hmm,
- me pregunto si puedo conseguir que Festus lo haga. Oh, bueno, adiós por ahora.}
-{321}{}{Oye, Harold, tengo la pieza que necesitas para reparar vuestro reactor. Voy a tratar a instalarlo en el reactor. Le informaré cuando haya terminado. Adiós.}
+{315}{}{TÃº arregla esto.}
+{316}{}{TÃº tienes que encender esto.}
+{317}{}{TÃº tienes que abrir esto.}
+{318}{}{TÃº tienes que abrir esto.}
+{319}{}{QuizÃ¡s nosotros volver aquÃ­ otra vez.}
+{320}{}{No, miento. Me asegurarÃ© de que el reactor se repare. De una forma y otra. Hmm,
+ me pregunto si puedo conseguir que Festus lo haga. Oh, bueno, adiÃ³s por ahora.}
+{321}{}{Oye, Harold, tengo la pieza que necesitas para reparar vuestro reactor. Voy a tratar a instalarlo en el reactor. Le informarÃ© cuando haya terminado. AdiÃ³s.}

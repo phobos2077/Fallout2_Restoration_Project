@@ -1,74 +1,74 @@
 {100}{}{Ves a una persona con un gracioso pijama.}
 {101}{}{Ves a un Shi.}
 {102}{}{Esta persona parece diferente a cualquiera que hayas visto antes. No parecen preocuparse demasiado por ti.}
-{103}{}{No eres un espía, ¿verdad?}
-{104}{}{¿Quién eres?}
+{103}{}{No eres un espÃ­a, Â¿verdad?}
+{104}{}{Â¿QuiÃ©n eres?}
 {105}{}{Pescado y algas. Esto es todo lo que obtenemos.}
-{106}{}{¡Ja ja! ¡Mirad esos graciosos ojos redondos!}
+{106}{}{Â¡Ja ja! Â¡Mirad esos graciosos ojos redondos!}
 {107}{}{Pareces un Hubologista.}
-{108}{}{Déjanos en paz.}
-{109}{}{¡Larga vida a Lo Pan!}
-{110}{}{¡Abajo con el Dragón!}
-{111}{}{Lo Pan es un héroe.}
-{112}{}{Cuidado con el Dragón. Es problemático.}
+{108}{}{DÃ©janos en paz.}
+{109}{}{Â¡Larga vida a Lo Pan!}
+{110}{}{Â¡Abajo con el DragÃ³n!}
+{111}{}{Lo Pan es un hÃ©roe.}
+{112}{}{Cuidado con el DragÃ³n. Es problemÃ¡tico.}
 {113}{}{Esos vagabundos, siempre tan ruidosos.}
 {114}{}{Trabajo, trabajo, trabajo. Arroz, arroz, arroz. ::suspira::}
-{115}{}{¿No hay nada más en la vida que esto?}
-{116}{}{Somos más listos de lo que crees.}
-{117}{}{¡Mirad! ¡Un lao wai!}
+{115}{}{Â¿No hay nada mÃ¡s en la vida que esto?}
+{116}{}{Somos mÃ¡s listos de lo que crees.}
+{117}{}{Â¡Mirad! Â¡Un lao wai!}
 {118}{}{Bienvenido a San Francisco.}
 {119}{}{Pareces alguien bastante franco.}
-{120}{}{A Lo Pan podría venirle bien tu ayuda.}
-{121}{}{No hagas daño a la gente de rojo, lao wai.}
+{120}{}{A Lo Pan podrÃ­a venirle bien tu ayuda.}
+{121}{}{No hagas daÃ±o a la gente de rojo, lao wai.}
 {122}{}{Lao wai significa "extranjero".}
-{123}{}{Estás de nuestro lado, ¿verdad?}
-{124}{}{Mata al Dragón por nosotros, ¿de acuerdo?}
+{123}{}{EstÃ¡s de nuestro lado, Â¿verdad?}
+{124}{}{Mata al DragÃ³n por nosotros, Â¿de acuerdo?}
 {125}{}{Nos honras con tu presencia.}
-{126}{}{¡Nuestro líder! ¡Sentid el terror!}
-{127}{}{¡Debemos vengarnos por Lo Pan!}
-{128}{}{¿Quién nos conducirá a la grandeza si Lo Pan está muerto?}
-{129}{}{¿Qué haremos ahora?}
-{130}{}{Estamos deshonrados. Deberíamos estar muertos como Lo Pan.}
+{126}{}{Â¡Nuestro lÃ­der! Â¡Sentid el terror!}
+{127}{}{Â¡Debemos vengarnos por Lo Pan!}
+{128}{}{Â¿QuiÃ©n nos conducirÃ¡ a la grandeza si Lo Pan estÃ¡ muerto?}
+{129}{}{Â¿QuÃ© haremos ahora?}
+{130}{}{Estamos deshonrados. DeberÃ­amos estar muertos como Lo Pan.}
 {131}{}{La vida carece de sentido.}
-{132}{}{Si Lo Pan está muerto, nuestros sueños se han destruido.}
-{133}{}{Lo Pan fue el último gran líder.}
-{134}{}{¡El Dragón está muerto! ¡Lo Pan ha vencido!}
-{135}{}{¡Burlaos de los perdedores!}
-{136}{}{¡El Dragón ha caído!}
-{137}{}{¡Lo Pan! ¡Lo Pan! ¡Lo Pan!}
-{138}{}{¡Somos los vencedores!}
-{139}{}{El Dragón está muerto. ¡Sí!}
+{132}{}{Si Lo Pan estÃ¡ muerto, nuestros sueÃ±os se han destruido.}
+{133}{}{Lo Pan fue el Ãºltimo gran lÃ­der.}
+{134}{}{Â¡El DragÃ³n estÃ¡ muerto! Â¡Lo Pan ha vencido!}
+{135}{}{Â¡Burlaos de los perdedores!}
+{136}{}{Â¡El DragÃ³n ha caÃ­do!}
+{137}{}{Â¡Lo Pan! Â¡Lo Pan! Â¡Lo Pan!}
+{138}{}{Â¡Somos los vencedores!}
+{139}{}{El DragÃ³n estÃ¡ muerto. Â¡SÃ­!}
 {140}{}{Trabajo, trabajo, trabajo. Arroz, arroz, arroz. ::suspira::}
-{141}{}{¿No hay nada más en la vida que esto?}
-{142}{}{Somos más listos de lo que crees.}
-{143}{}{¡Mirad! ¡Un lao wai!}
-{144}{}{¡El consejero del Emperador! ¡Muerto! ¡La ciudad caerá!}
-{145}{}{¿Qué pasa ahora?}
+{141}{}{Â¿No hay nada mÃ¡s en la vida que esto?}
+{142}{}{Somos mÃ¡s listos de lo que crees.}
+{143}{}{Â¡Mirad! Â¡Un lao wai!}
+{144}{}{Â¡El consejero del Emperador! Â¡Muerto! Â¡La ciudad caerÃ¡!}
+{145}{}{Â¿QuÃ© pasa ahora?}
 {146}{}{Espero que los salvajes no nos invadan ahora.}
-{147}{}{Los buenos siempre mueren jóvenes.}
+{147}{}{Los buenos siempre mueren jÃ³venes.}
 {148}{}{Espero que podamos sobrevivir sin Ken Lee.}
-{149}{}{He oído que Ken Lee fue el único que mantuvo al Emperador activo.}
-{150}{}{He oído que el Emperador sólo era una fachada para Ken Lee. }
-{151}{}{Tal vez Lo Pan podría tomar el lugar de Ken Lee...}
+{149}{}{He oÃ­do que Ken Lee fue el Ãºnico que mantuvo al Emperador activo.}
+{150}{}{He oÃ­do que el Emperador sÃ³lo era una fachada para Ken Lee. }
+{151}{}{Tal vez Lo Pan podrÃ­a tomar el lugar de Ken Lee...}
 {152}{}{Trabajo, trabajo, trabajo. Arroz, arroz, arroz. ::suspira::}
-{153}{}{¿No hay nada más en la vida que esto?}
-{154}{}{Somos más listos de lo que crees.}
-{155}{}{¡Mirad! ¡Un lao wai!}
-{163}{}{¿Has matado a AHS-9? ¡Sí!}
-{164}{}{Esos Hubologistas me dan escalofríos.}
+{153}{}{Â¿No hay nada mÃ¡s en la vida que esto?}
+{154}{}{Somos mÃ¡s listos de lo que crees.}
+{155}{}{Â¡Mirad! Â¡Un lao wai!}
+{163}{}{Â¿Has matado a AHS-9? Â¡SÃ­!}
+{164}{}{Esos Hubologistas me dan escalofrÃ­os.}
 {165}{}{Nos has hecho un gran servicio.}
-{166}{}{¡Muerte a los Hubologistas!}
-{167}{}{Esto sacará rápidamente a esos Hubologistas de aquí.}
-{168}{}{Estúpidos Hubologistas, que ni siquiera pueden proteger a su propio líder.}
-{169}{}{Será mejor que los Hubologistas no vengan a por nosotros para vengarse.}
-{170}{}{Supongo que no eres un espía.}
-{171}{}{¡Hijo de una cerda! ¡Muere!}
-{172}{}{¡Has deshonrado a tu familia!}
-{173}{}{¡Déjanos, lao wai!}
-{174}{}{¿No has hecho ya suficiente daño?}
-{175}{}{¡Te odio!}
-{176}{}{¡Abandona está ciudad!}
-{177}{}{¡Ve a tu casa con tu gente!}
-{178}{}{¡No oscurezcas mi vida con tu presencia!}
-{179}{}{¿Qué hace falta para deshacerse de ti?}
-{180}{}{¡Socorro! ¡Socorro!}
+{166}{}{Â¡Muerte a los Hubologistas!}
+{167}{}{Esto sacarÃ¡ rÃ¡pidamente a esos Hubologistas de aquÃ­.}
+{168}{}{EstÃºpidos Hubologistas, que ni siquiera pueden proteger a su propio lÃ­der.}
+{169}{}{SerÃ¡ mejor que los Hubologistas no vengan a por nosotros para vengarse.}
+{170}{}{Supongo que no eres un espÃ­a.}
+{171}{}{Â¡Hijo de una cerda! Â¡Muere!}
+{172}{}{Â¡Has deshonrado a tu familia!}
+{173}{}{Â¡DÃ©janos, lao wai!}
+{174}{}{Â¿No has hecho ya suficiente daÃ±o?}
+{175}{}{Â¡Te odio!}
+{176}{}{Â¡Abandona estÃ¡ ciudad!}
+{177}{}{Â¡Ve a tu casa con tu gente!}
+{178}{}{Â¡No oscurezcas mi vida con tu presencia!}
+{179}{}{Â¿QuÃ© hace falta para deshacerse de ti?}
+{180}{}{Â¡Socorro! Â¡Socorro!}

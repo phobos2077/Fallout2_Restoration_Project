@@ -1,115 +1,115 @@
-{100}{}{Widzisz szykownie ubranego mê¿czyznê.}
-{101}{}{Widzisz Wielkiego i Potê¿nego UKC-9.}
-{102}{}{Widzisz szykownie ubranego mê¿czyznê.}
-{103}{}{Bezczeœcisz imiê Centrum! Musisz umrzeæ!}
-{104}{}{Twoja bezczelnoœæ nie zna granic!}
-{105}{}{Bêdziemy ciê ³amaæ Wielkim Ko³em!}
-{106}{}{Jesteœ w obecnoœci Wielkiego i Potê¿nego UKC-9. Czego sobie od niego ¿yczysz?}
+{100}{}{Widzisz szykownie ubranego mÄ™Å¼czyznÄ™.}
+{101}{}{Widzisz Wielkiego i PotÄ™Å¼nego UKC-9.}
+{102}{}{Widzisz szykownie ubranego mÄ™Å¼czyznÄ™.}
+{103}{}{BezczeÅ›cisz imiÄ™ Centrum! Musisz umrzeÄ‡!}
+{104}{}{Twoja bezczelnoÅ›Ä‡ nie zna granic!}
+{105}{}{BÄ™dziemy ciÄ™ Å‚amaÄ‡ Wielkim KoÅ‚em!}
+{106}{}{JesteÅ› w obecnoÅ›ci Wielkiego i PotÄ™Å¼nego UKC-9. Czego sobie od niego Å¼yczysz?}
 {107}{}{Ych a nu, UKC!}
-{108}{}{Szukam mojego ludu. Podobno przeszli nad tym terenem w lataj¹cych statkach.}
-{109}{}{Mam do ciebie wiele pytañ, UKC-9.}
-{110}{}{Oœwiecona w RNK prosi³a mnie, aby ci dostarczyæ ten list. Wspomina³a tak¿e coœ o nagrodzie.}
-{111}{}{Oœwiecona w RNK prosi³a mnie, aby ci dostarczyæ ten list. Oto on.}
-{112}{}{Ach, UKC-9, przynoszê ci ten oto list od wys³anniczki w RNK. Padam do stóp twojej chwale.}
-{113}{}{Twojej œmierci. ¯egnaj starcze.}
+{108}{}{Szukam mojego ludu. Podobno przeszli nad tym terenem w latajÄ…cych statkach.}
+{109}{}{Mam do ciebie wiele pytaÅ„, UKC-9.}
+{110}{}{OÅ›wiecona w RNK prosiÅ‚a mnie, aby ci dostarczyÄ‡ ten list. WspominaÅ‚a takÅ¼e coÅ› o nagrodzie.}
+{111}{}{OÅ›wiecona w RNK prosiÅ‚a mnie, aby ci dostarczyÄ‡ ten list. Oto on.}
+{112}{}{Ach, UKC-9, przynoszÄ™ ci ten oto list od wysÅ‚anniczki w RNK. Padam do stÃ³p twojej chwale.}
+{113}{}{Twojej Å›mierci. Å»egnaj starcze.}
 {114}{}{Nic, przepraszam.}
 {115}{}{Tak, moje dziecko?}
 {116}{}{Hinczolf? [Ty mnie rozumiesz?]}
-{117}{}{Agga gaga gigi gugagu! [Och, dziêki bogu. Szukam mojego ludu. Muszê dostaæ siê za wielka wodê.]}
-{118}{}{Pe³ne pory! [Có¿, dziêkujê za twój czas. Muszê ju¿ wyruszaæ. Mi³o mi by³o z tob¹ rozmawiaæ.]}
-{119}{}{Nie rozumiem s³owa z tego, co mówisz. Zapytaj mo¿e Juana lub Vikki o oœwiecenie.}
+{117}{}{Agga gaga gigi gugagu! [Och, dziÄ™ki bogu. Szukam mojego ludu. MuszÄ™ dostaÄ‡ siÄ™ za wielka wodÄ™.]}
+{118}{}{PeÅ‚ne pory! [CÃ³Å¼, dziÄ™kujÄ™ za twÃ³j czas. MuszÄ™ juÅ¼ wyruszaÄ‡. MiÅ‚o mi byÅ‚o z tobÄ… rozmawiaÄ‡.]}
+{119}{}{Nie rozumiem sÅ‚owa z tego, co mÃ³wisz. Zapytaj moÅ¼e Juana lub Vikki o oÅ›wiecenie.}
 {120}{}{Dzienki!}
-{121}{}{Oczywiœcie, moje dziecko. Szeregowanie oczyœci³o twoje podstawowe neurodyny i ukierunkowa³o je z moimi oraz ze Szprychami Wielkiego Ko³a. Czego sobie ¿yczysz?}
-{122}{}{Agga gaga gigi gugagu! [Och, dziêki bogu. Szukam mojego ludu. Muszê dostaæ siê za wielka wodê.]}
-{123}{}{J-j-j-ózio. [Nic, dziêkujê. Po prostu to mi³e potrafiæ siê z tob¹ porozumieæ. Do zobaczenia!]}
-{124}{}{Je¿eli zgodzisz siê wyœwiadczyæ mi przys³ugê, bêdê móg³ ci pomóc, moje dziecko.}
-{125}{}{Ojk? [Có¿ to takiego? Chêtnie us³u¿ê ci pomoc¹.]}
+{121}{}{OczywiÅ›cie, moje dziecko. Szeregowanie oczyÅ›ciÅ‚o twoje podstawowe neurodyny i ukierunkowaÅ‚o je z moimi oraz ze Szprychami Wielkiego KoÅ‚a. Czego sobie Å¼yczysz?}
+{122}{}{Agga gaga gigi gugagu! [Och, dziÄ™ki bogu. Szukam mojego ludu. MuszÄ™ dostaÄ‡ siÄ™ za wielka wodÄ™.]}
+{123}{}{J-j-j-Ã³zio. [Nic, dziÄ™kujÄ™. Po prostu to miÅ‚e potrafiÄ‡ siÄ™ z tobÄ… porozumieÄ‡. Do zobaczenia!]}
+{124}{}{JeÅ¼eli zgodzisz siÄ™ wyÅ›wiadczyÄ‡ mi przysÅ‚ugÄ™, bÄ™dÄ™ mÃ³gÅ‚ ci pomÃ³c, moje dziecko.}
+{125}{}{Ojk? [CÃ³Å¼ to takiego? ChÄ™tnie usÅ‚uÅ¼Ä™ ci pomocÄ….]}
 {126}{}{Nie!}
-{127}{}{Mój przeciwnik, Cesarz miasta Shi, powoduje, ¿e moje ¿ycie staje siê ¿a³osne. Chcê, ¿eby jego ¿ycie ju¿ siê zakoñczy³o. W podziêce dopilnujê, aby twoja osoba znalaz³a siê tam, gdzie musi.}
-{128}{}{Ajs! [Zrobiê to.]}
+{127}{}{MÃ³j przeciwnik, Cesarz miasta Shi, powoduje, Å¼e moje Å¼ycie staje siÄ™ Å¼aÅ‚osne. ChcÄ™, Å¼eby jego Å¼ycie juÅ¼ siÄ™ zakoÅ„czyÅ‚o. W podziÄ™ce dopilnujÄ™, aby twoja osoba znalazÅ‚a siÄ™ tam, gdzie musi.}
+{128}{}{Ajs! [ZrobiÄ™ to.]}
 {129}{}{Nie!}
-{130}{}{Daj mi znaæ, je¿eli zmienisz zdanie. Pamiêtaj jednak, ¿e mogê byæ jedyn¹ osob¹, przez któr¹ mo¿esz dotrzeæ do rodziny.}
-{131}{}{OK. [Jaka jest ta przys³uga?]}
-{132}{}{Didzeruu! [Dziêkujê, ale wolê nie byæ niczyim d³u¿nikiem. ¯egnaj!]}
-{133}{}{Dobrze. Powiadom mnie, gdy wykonasz misjê, a ja w tym samym czasie bêdê siê dowiadywaæ o sposoby na osi¹gniecie twojego celu. ¯egnaj, moje dziecko.}
-{134}{}{Do'dzenia! [¯egnaj UKC-9. Jesteœ wspania³ym cz³owiekiem.]}
-{135}{}{Czy twoja misja jest ju¿ ukoñczona? Od tego zale¿y twoja przysz³oœæ, a tak¿e przysz³oœæ Wielkiego Ko³a na tej planecie.}
-{136}{}{Y-y. [Jeszcze nie. Chcê siê tylko przywitaæ.]}
-{137}{}{Pracujê nad tym. Mam jednak kilka pytañ.}
-{138}{}{Jeszcze nie. Wrócê do ciebie póŸniej.}
-{139}{}{I ja ciebie pozdrawiam. A teraz idŸ ukoñczyæ zadanie tak, abym móg³ ci pomóc.}
+{130}{}{Daj mi znaÄ‡, jeÅ¼eli zmienisz zdanie. PamiÄ™taj jednak, Å¼e mogÄ™ byÄ‡ jedynÄ… osobÄ…, przez ktÃ³rÄ… moÅ¼esz dotrzeÄ‡ do rodziny.}
+{131}{}{OK. [Jaka jest ta przysÅ‚uga?]}
+{132}{}{Didzeruu! [DziÄ™kujÄ™, ale wolÄ™ nie byÄ‡ niczyim dÅ‚uÅ¼nikiem. Å»egnaj!]}
+{133}{}{Dobrze. Powiadom mnie, gdy wykonasz misjÄ™, a ja w tym samym czasie bÄ™dÄ™ siÄ™ dowiadywaÄ‡ o sposoby na osiÄ…gniecie twojego celu. Å»egnaj, moje dziecko.}
+{134}{}{Do'dzenia! [Å»egnaj UKC-9. JesteÅ› wspaniaÅ‚ym czÅ‚owiekiem.]}
+{135}{}{Czy twoja misja jest juÅ¼ ukoÅ„czona? Od tego zaleÅ¼y twoja przyszÅ‚oÅ›Ä‡, a takÅ¼e przyszÅ‚oÅ›Ä‡ Wielkiego KoÅ‚a na tej planecie.}
+{136}{}{Y-y. [Jeszcze nie. ChcÄ™ siÄ™ tylko przywitaÄ‡.]}
+{137}{}{PracujÄ™ nad tym. Mam jednak kilka pytaÅ„.}
+{138}{}{Jeszcze nie. WrÃ³cÄ™ do ciebie pÃ³Åºniej.}
+{139}{}{I ja ciebie pozdrawiam. A teraz idÅº ukoÅ„czyÄ‡ zadanie tak, abym mÃ³gÅ‚ ci pomÃ³c.}
 {140}{}{Ny! Ny! [Tak jest!]}
-{141}{}{Z twojej aury wnioskujê, ¿e uda³o ci siê oczyœciæ œwiat z zanieczyszczaj¹cych neurodyn Cesarza.}
-{142}{}{Dziksa! [Tak, uda³o mi siê. A jak tam twoja czêœæ umowy?]}
-{143}{}{Owszem. A teraz poproszê o pomoc w uratowaniu mojego ludu.}
-{144}{}{Je¿eli pójdziesz do doków miasta Shi, znajdziesz tam PMV Valdez. WejdŸ na statek. Udaj siê w prawo i do góry na mostek kapitañski. Tam naciœnij przycisk start, a tankowiec pop³ynie prosto do twojego celu.}
-{145}{}{Kuje! [Przyjemnie by³o z tob¹ pracowaæ, UKC-9. ¯yczê ci wszystkiego dobrego. Do widzenia.]}
-{146}{}{Statki lataj¹ce? Musisz mieæ na myœli Enklawê i jej latacze.}
+{141}{}{Z twojej aury wnioskujÄ™, Å¼e udaÅ‚o ci siÄ™ oczyÅ›ciÄ‡ Å›wiat z zanieczyszczajÄ…cych neurodyn Cesarza.}
+{142}{}{Dziksa! [Tak, udaÅ‚o mi siÄ™. A jak tam twoja czÄ™Å›Ä‡ umowy?]}
+{143}{}{Owszem. A teraz poproszÄ™ o pomoc w uratowaniu mojego ludu.}
+{144}{}{JeÅ¼eli pÃ³jdziesz do dokÃ³w miasta Shi, znajdziesz tam PMV Valdez. WejdÅº na statek. Udaj siÄ™ w prawo i do gÃ³ry na mostek kapitaÅ„ski. Tam naciÅ›nij przycisk start, a tankowiec popÅ‚ynie prosto do twojego celu.}
+{145}{}{Kuje! [Przyjemnie byÅ‚o z tobÄ… pracowaÄ‡, UKC-9. Å»yczÄ™ ci wszystkiego dobrego. Do widzenia.]}
+{146}{}{Statki latajÄ…ce? Musisz mieÄ‡ na myÅ›li EnklawÄ™ i jej latacze.}
 {147}{}{Tak, chyba tak.}
-{148}{}{Enklawê? Jak¹ Enklawê?}
-{149}{}{Zaufaj mi, moje dziecko, mówisz o Enklawie.}
-{150}{}{No dobra. Jak mogê ich odnaleŸæ?}
-{151}{}{Enklawa to pozosta³oœæ dawnego œwiata - neurodyna, która nie zosta³a jeszcze uszeregowana. Maj¹ ukryte bazy porozrzucane po ca³ej Kalifornii, a ich najsilniejsza forteca znajduje siê daleko na zachód, ponad wod¹.}
-{152}{}{Jak tam siê dostaæ?}
-{153}{}{Sk¹d ty to wszystko wiesz?}
-{154}{}{To, moje dziecko, musisz odkryæ samodzielnie. Popytaj dooko³a, a odnajdziesz prawdê.}
-{155}{}{Bardzo mi to pomog³o. Mam inne pytania.}
-{156}{}{Sk¹d ty to wszystko wiesz?}
-{157}{}{Dobra, dobra. Czeœæ.}
-{158}{}{Dziecko, jestem UKC-9. Widzê rzeczy, które przenikaj¹ do rzeczywistego œwiata. Czy masz jeszcze inne pytania, czy mogê powróciæ do moich medytacji?}
-{159}{}{Wiêcej pytañ.}
-{160}{}{Wróæ do swoich medytacji. Nie mam wiêcej pytañ.}
-{161}{}{Cesarz i jego s³udzy zostali zabici?}
+{148}{}{EnklawÄ™? JakÄ… EnklawÄ™?}
+{149}{}{Zaufaj mi, moje dziecko, mÃ³wisz o Enklawie.}
+{150}{}{No dobra. Jak mogÄ™ ich odnaleÅºÄ‡?}
+{151}{}{Enklawa to pozostaÅ‚oÅ›Ä‡ dawnego Å›wiata - neurodyna, ktÃ³ra nie zostaÅ‚a jeszcze uszeregowana. MajÄ… ukryte bazy porozrzucane po caÅ‚ej Kalifornii, a ich najsilniejsza forteca znajduje siÄ™ daleko na zachÃ³d, ponad wodÄ….}
+{152}{}{Jak tam siÄ™ dostaÄ‡?}
+{153}{}{SkÄ…d ty to wszystko wiesz?}
+{154}{}{To, moje dziecko, musisz odkryÄ‡ samodzielnie. Popytaj dookoÅ‚a, a odnajdziesz prawdÄ™.}
+{155}{}{Bardzo mi to pomogÅ‚o. Mam inne pytania.}
+{156}{}{SkÄ…d ty to wszystko wiesz?}
+{157}{}{Dobra, dobra. CzeÅ›Ä‡.}
+{158}{}{Dziecko, jestem UKC-9. WidzÄ™ rzeczy, ktÃ³re przenikajÄ… do rzeczywistego Å›wiata. Czy masz jeszcze inne pytania, czy mogÄ™ powrÃ³ciÄ‡ do moich medytacji?}
+{159}{}{WiÄ™cej pytaÅ„.}
+{160}{}{WrÃ³Ä‡ do swoich medytacji. Nie mam wiÄ™cej pytaÅ„.}
+{161}{}{Cesarz i jego sÅ‚udzy zostali zabici?}
 {162}{}{Tak.}
-{163}{}{Wiêc nie ma ju¿ nikogo, kto móg³by stan¹æ mi na drodze! Ale nie widzê sensu, aby ujawniaæ cokolwiek zwyk³emu narzêdziu. ¯egnaj - dziêki bogu!}
-{164}{}{Ty œmieciu! Teraz za to zginiesz.}
-{165}{}{Och. No có¿, je¿eli tak musi ju¿ byæ. ¯egnaj.}
-{166}{}{List od Oœwieconej? Czy¿by tak siê teraz nazywa³a? Ha! [odbiera od ciebie list] Obieca³a ci nagrodê. Oto nagroda - moja wdziêcznoœæ. Dobrego dnia.}
-{167}{}{To wszystko? Starcze, jesteœ ju¿ martwy.}
-{168}{}{Ee, mam kilka pytañ.}
-{169}{}{Jejku, wspaniale. ¯egnam.}
-{170}{}{Skieruj swoje pytania do UKC-7. Jam jest Wielki i Potê¿ny UKC-9, mam wiele wa¿nych spraw na g³owie. Nie przeszkadzaj mi, miêcho.}
-{171}{}{Je¿eli nie odpowiesz na moje pytania, odpowiesz na moj¹ broñ.}
+{163}{}{WiÄ™c nie ma juÅ¼ nikogo, kto mÃ³gÅ‚by stanÄ…Ä‡ mi na drodze! Ale nie widzÄ™ sensu, aby ujawniaÄ‡ cokolwiek zwykÅ‚emu narzÄ™dziu. Å»egnaj - dziÄ™ki bogu!}
+{164}{}{Ty Å›mieciu! Teraz za to zginiesz.}
+{165}{}{Och. No cÃ³Å¼, jeÅ¼eli tak musi juÅ¼ byÄ‡. Å»egnaj.}
+{166}{}{List od OÅ›wieconej? CzyÅ¼by tak siÄ™ teraz nazywaÅ‚a? Ha! [odbiera od ciebie list] ObiecaÅ‚a ci nagrodÄ™. Oto nagroda - moja wdziÄ™cznoÅ›Ä‡. Dobrego dnia.}
+{167}{}{To wszystko? Starcze, jesteÅ› juÅ¼ martwy.}
+{168}{}{Ee, mam kilka pytaÅ„.}
+{169}{}{Jejku, wspaniale. Å»egnam.}
+{170}{}{Skieruj swoje pytania do UKC-7. Jam jest Wielki i PotÄ™Å¼ny UKC-9, mam wiele waÅ¼nych spraw na gÅ‚owie. Nie przeszkadzaj mi, miÄ™cho.}
+{171}{}{JeÅ¼eli nie odpowiesz na moje pytania, odpowiesz na mojÄ… broÅ„.}
 {172}{}{Jak chcesz.}
-{173}{}{Ach, list od mojego agenta operacyjnego. Szkoda, ¿e nazywa siebie "Oœwiecon¹" - to tylko wskazuje na to, jak bardzo ni¹ nie jest. Masz moj¹ wdziêcznoœæ.}
+{173}{}{Ach, list od mojego agenta operacyjnego. Szkoda, Å¼e nazywa siebie "OÅ›wieconÄ…" - to tylko wskazuje na to, jak bardzo niÄ… nie jest. Masz mojÄ… wdziÄ™cznoÅ›Ä‡.}
 {174}{}{Nie ma sprawy. Mam jednak jedno, dwa pytania.}
 {175}{}{Wspaniale. Na razie.}
 {176}{}{Tak, moje dziecko?}
 {177}{}{Kiedy odlatuje statek kosmiczny?}
-{178}{}{Czy masz dla mnie jakieœ zadania?}
-{179}{}{Na co id¹ wszystkie pieni¹dze, które ofiarowujemy?}
-{180}{}{Ach, nic takiego. Niewa¿ne.}
-{181}{}{Mój przeciwnik, Cesarz miasta Shi, powoduje, ¿e moje ¿ycie staje siê ¿a³osne. Chcê, ¿eby jego ¿ycie ju¿ siê zakoñczy³o. W podziêce dopilnujê, aby twoja osoba znalaz³a siê tam, gdzie musi.}
+{178}{}{Czy masz dla mnie jakieÅ› zadania?}
+{179}{}{Na co idÄ… wszystkie pieniÄ…dze, ktÃ³re ofiarowujemy?}
+{180}{}{Ach, nic takiego. NiewaÅ¼ne.}
+{181}{}{MÃ³j przeciwnik, Cesarz miasta Shi, powoduje, Å¼e moje Å¼ycie staje siÄ™ Å¼aÅ‚osne. ChcÄ™, Å¼eby jego Å¼ycie juÅ¼ siÄ™ zakoÅ„czyÅ‚o. W podziÄ™ce dopilnujÄ™, aby twoja osoba znalazÅ‚a siÄ™ tam, gdzie musi.}
 {182}{}{Jasne, szefie. Na ra.}
 {183}{}{Raczej nie.}
-{184}{}{Poszukaj Badgera, którego obrzydliwa obecnoœæ trzyma w kupie tych ¿a³osnych w³óczêgów z tankowca. Usuñ tê skazê z naszego miasta. Gdy ju¿ to zrobisz, porozmawiaj z UKC-9.}
+{184}{}{Poszukaj Badgera, ktÃ³rego obrzydliwa obecnoÅ›Ä‡ trzyma w kupie tych Å¼aÅ‚osnych wÅ‚Ã³czÄ™gÃ³w z tankowca. UsuÅ„ tÄ™ skazÄ™ z naszego miasta. Gdy juÅ¼ to zrobisz, porozmawiaj z UKC-9.}
 {185}{}{Jasne, szefie. Na ra.}
 {186}{}{Raczej nie.}
-{187}{}{Chyba nie da³em do zrozumienia, ¿e jest to moja PROŒBA, dziecko. Zabij go!}
+{187}{}{Chyba nie daÅ‚em do zrozumienia, Å¼e jest to moja PROÅšBA, dziecko. Zabij go!}
 {188}{}{Nie.}
-{189}{}{Och, no dobra. Zrobiê to.}
-{190}{}{Oœmielasz siê sprzeciwiaæ Wielkiemu i Potê¿nemu UKC-9. A wiêc zginiesz.}
-{191}{}{No spróbuj.}
-{192}{}{Chwileczkê, jednak chyba to zrobiê.}
-{193}{}{Za póŸno, miêcho. Okaza³o siê, ¿e nie mo¿na ci ufaæ. Giñ!}
+{189}{}{Och, no dobra. ZrobiÄ™ to.}
+{190}{}{OÅ›mielasz siÄ™ sprzeciwiaÄ‡ Wielkiemu i PotÄ™Å¼nemu UKC-9. A wiÄ™c zginiesz.}
+{191}{}{No sprÃ³buj.}
+{192}{}{ChwileczkÄ™, jednak chyba to zrobiÄ™.}
+{193}{}{Za pÃ³Åºno, miÄ™cho. OkazaÅ‚o siÄ™, Å¼e nie moÅ¼na ci ufaÄ‡. GiÅ„!}
 {194}{}{[dalej]}
-{195}{}{Moje dziecko, s¹ rzeczy na niebie i ziemi, których nie mo¿esz na razie znaæ. [Uœmiecha siê mi³o.]}
-{196}{}{Mam wiêcej pytañ.}
+{195}{}{Moje dziecko, sÄ… rzeczy na niebie i ziemi, ktÃ³rych nie moÅ¼esz na razie znaÄ‡. [UÅ›miecha siÄ™ miÅ‚o.]}
+{196}{}{Mam wiÄ™cej pytaÅ„.}
 {197}{}{Hmmm. Do zobaczenia.}
-{198}{}{ESS Quetzel wystartuje, gdy uk³ad gwiazd bêdzie odpowiedni.}
-{199}{}{O-oczywiœcie. Mam inne pytania.}
-{200}{}{Dziêki. Na razie.}
-{201}{}{Twoja odpychaj¹ca aura mówi mi, ¿e twoja obecnoœæ tutaj nie znaczy dla mnie nic dobrego. Powiedz mi moje dziecko, czy chcesz mieæ korzyœci ze swojego szczêœcia?}
+{198}{}{ESS Quetzel wystartuje, gdy ukÅ‚ad gwiazd bÄ™dzie odpowiedni.}
+{199}{}{O-oczywiÅ›cie. Mam inne pytania.}
+{200}{}{DziÄ™ki. Na razie.}
+{201}{}{Twoja odpychajÄ…ca aura mÃ³wi mi, Å¼e twoja obecnoÅ›Ä‡ tutaj nie znaczy dla mnie nic dobrego. Powiedz mi moje dziecko, czy chcesz mieÄ‡ korzyÅ›ci ze swojego szczÄ™Å›cia?}
 {202}{}{Tak.}
 {203}{}{Nie.}
-{204}{}{Nie, po prostu chcê, abyœ zgin¹³.}
-{205}{}{A wiêc oto moja propozycja: wróæ do Shi i wyeliminuj Kena Lee i Cesarza. Zap³acê ci wiêcej pieniêdzy, ni¿ kiedykolwiek ci siê œni³o.}
-{206}{}{Nie, nie s¹dzê.}
+{204}{}{Nie, po prostu chcÄ™, abyÅ› zginÄ…Å‚.}
+{205}{}{A wiÄ™c oto moja propozycja: wrÃ³Ä‡ do Shi i wyeliminuj Kena Lee i Cesarza. ZapÅ‚acÄ™ ci wiÄ™cej pieniÄ™dzy, niÅ¼ kiedykolwiek ci siÄ™ Å›niÅ‚o.}
+{206}{}{Nie, nie sÄ…dzÄ™.}
 {207}{}{Umowa stoi, grubasie.}
-{208}{}{A wiêc idŸ i odci¹¿ ich cia³a od zagubionych dusz. Czekam na wiadomoœæ o sukcesie [Uœmiecha siê anielsko.]}
+{208}{}{A wiÄ™c idÅº i odciÄ…Å¼ ich ciaÅ‚a od zagubionych dusz. Czekam na wiadomoÅ›Ä‡ o sukcesie [UÅ›miecha siÄ™ anielsko.]}
 {209}{}{Do widzenia.}
-{210}{}{Nie, zaczekaj. Chyba jednak wolê uwolniæ CIEBIE od problemów doczesnych.}
-{211}{}{Ach, moje dziecko, jak mo¿esz tak zejœæ ze œcie¿ki prawdy? Z twojej aury widzê, ¿e zamierzasz mnie zabiæ. Jestem gorzko zawiedziony. No có¿. Zaczynajmy.}
-{212}{}{Tak, zacznijmy. Giñ.}
-{213}{}{Pamiêtaj, ¿e po zakoñczonej misji musisz zobaczyæ siê z UKC-7.}
-{214}{}{Wszystkie twoje potrzeby zosta³y zaspokojone. Teraz jest czas na moje medytacje.}
+{210}{}{Nie, zaczekaj. Chyba jednak wolÄ™ uwolniÄ‡ CIEBIE od problemÃ³w doczesnych.}
+{211}{}{Ach, moje dziecko, jak moÅ¼esz tak zejÅ›Ä‡ ze Å›cieÅ¼ki prawdy? Z twojej aury widzÄ™, Å¼e zamierzasz mnie zabiÄ‡. Jestem gorzko zawiedziony. No cÃ³Å¼. Zaczynajmy.}
+{212}{}{Tak, zacznijmy. GiÅ„.}
+{213}{}{PamiÄ™taj, Å¼e po zakoÅ„czonej misji musisz zobaczyÄ‡ siÄ™ z UKC-7.}
+{214}{}{Wszystkie twoje potrzeby zostaÅ‚y zaspokojone. Teraz jest czas na moje medytacje.}

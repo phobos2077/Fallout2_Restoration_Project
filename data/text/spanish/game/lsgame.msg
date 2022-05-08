@@ -1,19 +1,19 @@
 {100}{}{CARGAR PARTIDA}
-{101}{}{ELIGE UNA RANURA DE CARGADO R¡PIDO}
+{101}{}{ELIGE UNA RANURA DE CARGADO R√ÅPIDO}
 {102}{}{GUARDAR PARTIDA}
-{103}{}{ELIGE UNA RANURA DE GUARDADO R¡PIDO}
+{103}{}{ELIGE UNA RANURA DE GUARDADO R√ÅPIDO}
 {104}{}{HECHO}
 {105}{}{CANCELAR}
 {106}{}{Error al cargar lista de partidas guardadas!}
 {107}{}{Directorio de partidas guardadas:}
-{108}{}{No existe o est· corrupto.}
+{108}{}{No existe o est√° corrupto.}
 {109}{}{GUARDAR PARTIDA}
 {110}{}{CARGAR PARTIDA}
-{111}{}{- VACÕO -}
+{111}{}{- VAC√çO -}
 {112}{}{-ARCHIVO CORRUPTO-}
-{113}{}{- VERSI”N ANTIGUA -}
-{114}{}{VacÌo.}
-{115}{}{°Error!}
+{113}{}{- VERSI√ìN ANTIGUA -}
+{114}{}{Vac√≠o.}
+{115}{}{¬°Error!}
 {116}{}{Version antigua.}
 {117}{}{ENE}
 {118}{}{FEB}
@@ -29,12 +29,12 @@
 {128}{}{DIC}
 {129}{}{Nivel}
 {130}{}{DESCRIPCION}
-{131}{}{El archivo ya existe, øsobreescribir?}
-{132}{}{°Error al guardar partida!}
+{131}{}{El archivo ya existe, ¬øsobreescribir?}
+{132}{}{¬°Error al guardar partida!}
 {133}{}{Imposible guardar partida.}
-{134}{}{°Error al cargar partida!}
+{134}{}{¬°Error al cargar partida!}
 {135}{}{Imposible cargar partida.}
-{136}{}{El archivo de la partida guardada es de una versiÛn antigua.}
+{136}{}{El archivo de la partida guardada es de una versi√≥n antigua.}
 {137}{}{Mapa}
 {140}{}{Partida guardada.}
 {141}{}{Partida cargada.}

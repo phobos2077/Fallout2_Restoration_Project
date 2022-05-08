@@ -1,289 +1,289 @@
-{100}{}{Widzisz skacowanego cz³owieka na prochach.}
-{101}{}{Widzisz nadaktywnego cz³owieka na prochach.}
-{150}{}{Widzisz skacowanego æpuna. Porusza siê bardzo wolno.}
-{151}{}{Widzisz skacowanego æpuna. Wygl¹da na chorego.}
-{152}{}{Widzisz skacowanego æpuna. Jest tak chudy, ¿e wygl¹da jakby mia³ siê z³amaæ na silnym wietrze.}
-{153}{}{Widzisz skacowanego æpuna. Patrzy na ciebie zamglonym wzrokiem.}
-{154}{}{Widzisz skacowanego æpuna. Ma tak przekrwione oczy, ¿e wygl¹da, jakby mia³ zaraz zap³akaæ krwawymi ³zami.}
-{155}{}{Widzisz skacowanego æpuna. Za ka¿dym razem, gdy siê rusza, dr¿y tak, jakby go ktoœ ponak³uwa³ setkami igie³.}
-{156}{}{Widzisz skacowanego æpuna. Ma wory pod oczami i wyraz twarzy pe³en bólu.}
-{160}{}{Widzisz æpuna. Ma b³ogi wyraz twarzy.}
-{161}{}{Widzisz æpuna. Uœmiecha siê nieznacznie i porusza w takt jakiegoœ nies³yszalnego tañca.}
-{162}{}{Widzisz æpuna. W³aœnie odlatuje w przestrzeñ kosmiczn¹.}
-{163}{}{Widzisz æpuna. Uœmiecha siê i macha w stronê czegoœ tu¿ za twoim uchem.}
-{164}{}{Widzisz æpuna. Wci¹¿ dotyka swojej twarzy i be³kocze do siebie.}
-{165}{}{Widzisz æpuna. Ma wory pod oczami, ale uœmiecha siê, jakby w³aœnie wygra³ na loterii.}
-{170}{}{Widzisz skacowan¹ æpunkê. Porusza siê bardzo wolno.}
-{171}{}{Widzisz skacowan¹ æpunkê. Wygl¹da jakby nie jad³a od miesiêcy.}
-{172}{}{Widzisz skacowan¹ æpunkê. Jest tak chuda, ¿e wygl¹da jakby mia³a siê z³amaæ na silnym wietrze.}
-{173}{}{Widzisz skacowan¹ æpunkê. Jej oczy s¹ jak wypalone zapa³ki.}
-{174}{}{Widzisz skacowan¹ æpunkê. Patrzy na ciebie g³odnym wzrokiem.}
-{175}{}{Widzisz skacowan¹ æpunkê z przekrwionymi oczami.}
-{176}{}{Widzisz skacowan¹ æpunkê. Za ka¿dym razem, gdy siê rusza, dr¿y tak, jakby j¹ ktoœ ponak³uwa³ setkami igie³.}
-{177}{}{Widzisz skacowan¹ æpunkê. Ma wory pod oczami i wyraz twarzy pe³en bólu.}
-{180}{}{Widzisz æpunkê. Ma b³ogi wyraz twarzy.}
-{181}{}{Widzisz æpunkê. Uœmiecha siê i p³acze jednoczeœnie.}
-{182}{}{Widzisz æpunkê. Uœmiecha siê i tañczy w takt jakiejœ nies³yszalnej piosenki.}
-{183}{}{Widzisz æpunkê. W³aœnie wzdychaj¹c odlatuje w przestrzeñ kosmiczn¹.}
-{184}{}{Widzisz æpunkê. Uœmiecha siê i macha w stronê czegoœ tu¿ za twoim uchem.}
-{185}{}{Widzisz æpunkê. Ci¹gle drapie wierzch d³oni.}
-{186}{}{Widzisz æpunkê. Kiwa siê i zatacza, z ledwoœci¹ utrzymuj¹c siê na nogach.}
-{187}{}{Widzisz æpunkê. Pomimo ¿a³osnego wygl¹du, uœmiecha siê jakby w³aœnie wygra³a na loterii.}
+{100}{}{Widzisz skacowanego czÅ‚owieka na prochach.}
+{101}{}{Widzisz nadaktywnego czÅ‚owieka na prochach.}
+{150}{}{Widzisz skacowanego Ä‡puna. Porusza siÄ™ bardzo wolno.}
+{151}{}{Widzisz skacowanego Ä‡puna. WyglÄ…da na chorego.}
+{152}{}{Widzisz skacowanego Ä‡puna. Jest tak chudy, Å¼e wyglÄ…da jakby miaÅ‚ siÄ™ zÅ‚amaÄ‡ na silnym wietrze.}
+{153}{}{Widzisz skacowanego Ä‡puna. Patrzy na ciebie zamglonym wzrokiem.}
+{154}{}{Widzisz skacowanego Ä‡puna. Ma tak przekrwione oczy, Å¼e wyglÄ…da, jakby miaÅ‚ zaraz zapÅ‚akaÄ‡ krwawymi Å‚zami.}
+{155}{}{Widzisz skacowanego Ä‡puna. Za kaÅ¼dym razem, gdy siÄ™ rusza, drÅ¼y tak, jakby go ktoÅ› ponakÅ‚uwaÅ‚ setkami igieÅ‚.}
+{156}{}{Widzisz skacowanego Ä‡puna. Ma wory pod oczami i wyraz twarzy peÅ‚en bÃ³lu.}
+{160}{}{Widzisz Ä‡puna. Ma bÅ‚ogi wyraz twarzy.}
+{161}{}{Widzisz Ä‡puna. UÅ›miecha siÄ™ nieznacznie i porusza w takt jakiegoÅ› niesÅ‚yszalnego taÅ„ca.}
+{162}{}{Widzisz Ä‡puna. WÅ‚aÅ›nie odlatuje w przestrzeÅ„ kosmicznÄ….}
+{163}{}{Widzisz Ä‡puna. UÅ›miecha siÄ™ i macha w stronÄ™ czegoÅ› tuÅ¼ za twoim uchem.}
+{164}{}{Widzisz Ä‡puna. WciÄ…Å¼ dotyka swojej twarzy i beÅ‚kocze do siebie.}
+{165}{}{Widzisz Ä‡puna. Ma wory pod oczami, ale uÅ›miecha siÄ™, jakby wÅ‚aÅ›nie wygraÅ‚ na loterii.}
+{170}{}{Widzisz skacowanÄ… Ä‡punkÄ™. Porusza siÄ™ bardzo wolno.}
+{171}{}{Widzisz skacowanÄ… Ä‡punkÄ™. WyglÄ…da jakby nie jadÅ‚a od miesiÄ™cy.}
+{172}{}{Widzisz skacowanÄ… Ä‡punkÄ™. Jest tak chuda, Å¼e wyglÄ…da jakby miaÅ‚a siÄ™ zÅ‚amaÄ‡ na silnym wietrze.}
+{173}{}{Widzisz skacowanÄ… Ä‡punkÄ™. Jej oczy sÄ… jak wypalone zapaÅ‚ki.}
+{174}{}{Widzisz skacowanÄ… Ä‡punkÄ™. Patrzy na ciebie gÅ‚odnym wzrokiem.}
+{175}{}{Widzisz skacowanÄ… Ä‡punkÄ™ z przekrwionymi oczami.}
+{176}{}{Widzisz skacowanÄ… Ä‡punkÄ™. Za kaÅ¼dym razem, gdy siÄ™ rusza, drÅ¼y tak, jakby jÄ… ktoÅ› ponakÅ‚uwaÅ‚ setkami igieÅ‚.}
+{177}{}{Widzisz skacowanÄ… Ä‡punkÄ™. Ma wory pod oczami i wyraz twarzy peÅ‚en bÃ³lu.}
+{180}{}{Widzisz Ä‡punkÄ™. Ma bÅ‚ogi wyraz twarzy.}
+{181}{}{Widzisz Ä‡punkÄ™. UÅ›miecha siÄ™ i pÅ‚acze jednoczeÅ›nie.}
+{182}{}{Widzisz Ä‡punkÄ™. UÅ›miecha siÄ™ i taÅ„czy w takt jakiejÅ› niesÅ‚yszalnej piosenki.}
+{183}{}{Widzisz Ä‡punkÄ™. WÅ‚aÅ›nie wzdychajÄ…c odlatuje w przestrzeÅ„ kosmicznÄ….}
+{184}{}{Widzisz Ä‡punkÄ™. UÅ›miecha siÄ™ i macha w stronÄ™ czegoÅ› tuÅ¼ za twoim uchem.}
+{185}{}{Widzisz Ä‡punkÄ™. CiÄ…gle drapie wierzch dÅ‚oni.}
+{186}{}{Widzisz Ä‡punkÄ™. Kiwa siÄ™ i zatacza, z ledwoÅ›ciÄ… utrzymujÄ…c siÄ™ na nogach.}
+{187}{}{Widzisz Ä‡punkÄ™. Pomimo Å¼aÅ‚osnego wyglÄ…du, uÅ›miecha siÄ™ jakby wÅ‚aÅ›nie wygraÅ‚a na loterii.}
 {200}{}{::Wiwatuje, po czym wpada w drgawki::}
-{201}{}{::Klaszcze s³abo, dr¿¹c przy tym::}
-{202}{}{::Próbuje zagwizdaæ::}
-{210}{}{Jest z ciebie najlepsz... uch, coœ. Jest z ciebie najlepsze COŒ!}
-{211}{}{::wrzeszczy radoœnie::}
-{212}{}{, to by³o lepsze od JETU!}
+{201}{}{::Klaszcze sÅ‚abo, drÅ¼Ä…c przy tym::}
+{202}{}{::PrÃ³buje zagwizdaÄ‡::}
+{210}{}{Jest z ciebie najlepsz... uch, coÅ›. Jest z ciebie najlepsze COÅš!}
+{211}{}{::wrzeszczy radoÅ›nie::}
+{212}{}{, to byÅ‚o lepsze od JETU!}
 {213}{}{::Dziko wiwatuje::}
-{214}{}{::Klaszcze szaleñczo::}
-{215}{}{::Gwi¿d¿e::}
-{220}{}{Moja g³owa...}
+{214}{}{::Klaszcze szaleÅ„czo::}
+{215}{}{::GwiÅ¼dÅ¼e::}
+{220}{}{Moja gÅ‚owa...}
 {221}{}{Trach i bum... trach i bum...}
-{222}{}{Boli bardziej ni¿ poprzednio...}
-{223}{}{To chyba bêdzie trwa³o i trwa³o, i trwa³o...}
+{222}{}{Boli bardziej niÅ¼ poprzednio...}
+{223}{}{To chyba bÄ™dzie trwaÅ‚o i trwaÅ‚o, i trwaÅ‚o...}
 {224}{}{::Ooooooch::}
-{225}{}{::P³acze::}
+{225}{}{::PÅ‚acze::}
 {226}{}{::Kaszle::}
-{227}{}{::Drapie siê::}
-{228}{}{::Be³kocze do siebie::}
-{229}{}{Nie mogê... nie mogê ju¿ tego... wytrzymaæ...}
-{230}{}{Jest tu gdzieœ Jules? Potrzebujê dzia³kê.}
-{231}{}{Jest tu gdzieœ Szramiasty Jimmy J? Potrzebujê dzia³kê.}
-{232}{}{Szukam Apteki Renesco. Renesco mi pomo¿e.}
-{233}{}{Wiem, ¿e Fallout 2 nie jest gr¹ 3D, ale i tak móg³by obs³ugiwaæ moj¹ nowiutk¹ kartê GForce.}
-{240}{}{[Œpiewa] I... just want to fly. Put your arms around me, baby, put your arms around me, baby.[Œpiewa]}
-{241}{}{[Œpiewa] Rocketman, burning off the mmmmumble there alone...[Œpiewa]}
-{242}{}{Uwa¿aj! Ró¿owy szpon œmierci na trzeciej!}
-{243}{}{Za du¿o œwiate³! Moje oczy, to spala moje oczy...}
-{244}{}{Swiat³a... s¹... za jasne... ::Zaczyna p³akaæ::}
+{227}{}{::Drapie siÄ™::}
+{228}{}{::BeÅ‚kocze do siebie::}
+{229}{}{Nie mogÄ™... nie mogÄ™ juÅ¼ tego... wytrzymaÄ‡...}
+{230}{}{Jest tu gdzieÅ› Jules? PotrzebujÄ™ dziaÅ‚kÄ™.}
+{231}{}{Jest tu gdzieÅ› Szramiasty Jimmy J? PotrzebujÄ™ dziaÅ‚kÄ™.}
+{232}{}{Szukam Apteki Renesco. Renesco mi pomoÅ¼e.}
+{233}{}{Wiem, Å¼e Fallout 2 nie jest grÄ… 3D, ale i tak mÃ³gÅ‚by obsÅ‚ugiwaÄ‡ mojÄ… nowiutkÄ… kartÄ™ GForce.}
+{240}{}{[Åšpiewa] I... just want to fly. Put your arms around me, baby, put your arms around me, baby.[Åšpiewa]}
+{241}{}{[Åšpiewa] Rocketman, burning off the mmmmumble there alone...[Åšpiewa]}
+{242}{}{UwaÅ¼aj! RÃ³Å¼owy szpon Å›mierci na trzeciej!}
+{243}{}{Za duÅ¼o Å›wiateÅ‚! Moje oczy, to spala moje oczy...}
+{244}{}{SwiatÅ‚a... sÄ…... za jasne... ::Zaczyna pÅ‚akaÄ‡::}
 {245}{}{Reeeeee-no. Reeeeee-no. Reno?}
-{246}{}{Gdzie jest moja g³owa?}
-{247}{}{Pic - piwo - paliæ - trawê}
+{246}{}{Gdzie jest moja gÅ‚owa?}
+{247}{}{Pic - piwo - paliÄ‡ - trawÄ™}
 {248}{}{Snootchie Boochies}
 {249}{}{::Chichocze::}
-{250}{}{::Œmieje siê::}
-{251}{}{::Uœmiecha siê i lekko ko³ysze::}
+{250}{}{::Åšmieje siÄ™::}
+{251}{}{::UÅ›miecha siÄ™ i lekko koÅ‚ysze::}
 {252}{}{Ziuuuuuu}
-{253}{}{Niez³a ulica. Niez³a œciana. Niez³y odjazd.}
-{254}{}{£oj... gdzie siê podzia³o niebo?}
-{255}{}{Jak moje ciuchy nie przestan¹ do mnie gadaæ, to je zdejmê.}
-{256}{}{Moje buty oddychaj¹.}
-{257}{}{Wiem, ¿e Fallout 2 nie jest gr¹ 3D, ale i tak móg³by obs³ugiwaæ moj¹ nowiutk¹ kartê GForce.}
-{258}{}{Na mnie patrzysz?! Na mnie patrzysz?! Zabijê ciê!}
-{270}{}{Uch, nie mam nic przeciwko œwiêtowaniu twojego zwyciêstwa nad Enklaw¹, ale g³owa za bardzo mnie boli. Wróæ tu w nocy.}
-{271}{}{::Próbuje klaskaæ, ale nie trafia rêk¹ w rêkê::}
-{272}{}{Kurcze. Haj by³ za du¿y, ¿eby obserwowaæ twoje czyny, ale to na pewno by³o niez³e.}
-{273}{}{Uch... dziêki za uratowanie nas. Mo¿e, uch, masz trochê dolców na zbyciu?}
-{274}{}{Kiedyœ te¿ zdarzy³o mi siê uratowaæ œwiat. Tak mi siê wydaje. Mo¿e to by³ tylko haj.}
-{275}{}{Czy Enklawa mia³a Jet?}
-{276}{}{Czy to przez ciebie by³o to wielkie bum na po³udniu? Rozbola³a mnie od tego g³owa.}
-{277}{}{Wiem, ¿e zawdziêczamy ci uratowanie œwiata, ale to my, pomniejsi Bohaterowie Niezale¿ni musimy stawiæ czo³o konsekwencjom.}
-{278}{}{Zaprojektowa³ mnie Chris Avellone, a Tom French napisa³ dla mnie skrypty. Praktycznie rzecz bior¹c, moje uzale¿nienie od Jetu to ICH wina.}
-{279}{}{Tak, tak, to wspaniale, ¿e uda³o ci siê przejœæ grê. Oczywiœcie to oznacza, ¿e nied³ugo wykasujesz nas wszystkich ze swojego dysku. Wielkie dziêki.}
-{291}{}{Jest z ciebie najlepsz... uch, coœ. Jest z ciebie najlepsze COŒ!}
-{292}{}{, to by³o lepsze od JETU!}
-{293}{}{Cz³owieeku, chcia³o siê zobaczyæ tê wielk¹ eksplozjê, ale siê by³o na haju. Musia³ byæ niez³y widok, co?}
-{294}{}{KOCHAM ciê! Jesteœ BOHATEREM. PIEPRZONYM BOHATEREM. MOGÊ UŒCISKAÆ CIÊ NA ŒMIERÆ.}
-{295}{}{Nastêpnym razem jak bêdziesz kopaæ ty³ek Enklawie, przyjdŸ najpierw do mnie, to zrobimy to RAZEM.}
-{296}{}{Jesteœ SUPER, }
-{297}{}{Wiem, ¿e zawdziêczamy ci uratowanie œwiata, ale to my, pomniejsi Bohaterowie Niezale¿ni musimy stawiæ czo³o konsekwencjom.}
-{298}{}{A teraz kolej, aby zagraæ postaci¹ opieraj¹c¹ siê na prochach. Serio! WeŸ sobie cechê chemiozale¿noœæ.
+{253}{}{NiezÅ‚a ulica. NiezÅ‚a Å›ciana. NiezÅ‚y odjazd.}
+{254}{}{Åoj... gdzie siÄ™ podziaÅ‚o niebo?}
+{255}{}{Jak moje ciuchy nie przestanÄ… do mnie gadaÄ‡, to je zdejmÄ™.}
+{256}{}{Moje buty oddychajÄ….}
+{257}{}{Wiem, Å¼e Fallout 2 nie jest grÄ… 3D, ale i tak mÃ³gÅ‚by obsÅ‚ugiwaÄ‡ mojÄ… nowiutkÄ… kartÄ™ GForce.}
+{258}{}{Na mnie patrzysz?! Na mnie patrzysz?! ZabijÄ™ ciÄ™!}
+{270}{}{Uch, nie mam nic przeciwko Å›wiÄ™towaniu twojego zwyciÄ™stwa nad EnklawÄ…, ale gÅ‚owa za bardzo mnie boli. WrÃ³Ä‡ tu w nocy.}
+{271}{}{::PrÃ³buje klaskaÄ‡, ale nie trafia rÄ™kÄ… w rÄ™kÄ™::}
+{272}{}{Kurcze. Haj byÅ‚ za duÅ¼y, Å¼eby obserwowaÄ‡ twoje czyny, ale to na pewno byÅ‚o niezÅ‚e.}
+{273}{}{Uch... dziÄ™ki za uratowanie nas. MoÅ¼e, uch, masz trochÄ™ dolcÃ³w na zbyciu?}
+{274}{}{KiedyÅ› teÅ¼ zdarzyÅ‚o mi siÄ™ uratowaÄ‡ Å›wiat. Tak mi siÄ™ wydaje. MoÅ¼e to byÅ‚ tylko haj.}
+{275}{}{Czy Enklawa miaÅ‚a Jet?}
+{276}{}{Czy to przez ciebie byÅ‚o to wielkie bum na poÅ‚udniu? RozbolaÅ‚a mnie od tego gÅ‚owa.}
+{277}{}{Wiem, Å¼e zawdziÄ™czamy ci uratowanie Å›wiata, ale to my, pomniejsi Bohaterowie NiezaleÅ¼ni musimy stawiÄ‡ czoÅ‚o konsekwencjom.}
+{278}{}{ZaprojektowaÅ‚ mnie Chris Avellone, a Tom French napisaÅ‚ dla mnie skrypty. Praktycznie rzecz biorÄ…c, moje uzaleÅ¼nienie od Jetu to ICH wina.}
+{279}{}{Tak, tak, to wspaniale, Å¼e udaÅ‚o ci siÄ™ przejÅ›Ä‡ grÄ™. OczywiÅ›cie to oznacza, Å¼e niedÅ‚ugo wykasujesz nas wszystkich ze swojego dysku. Wielkie dziÄ™ki.}
+{291}{}{Jest z ciebie najlepsz... uch, coÅ›. Jest z ciebie najlepsze COÅš!}
+{292}{}{, to byÅ‚o lepsze od JETU!}
+{293}{}{CzÅ‚owieeku, chciaÅ‚o siÄ™ zobaczyÄ‡ tÄ™ wielkÄ… eksplozjÄ™, ale siÄ™ byÅ‚o na haju. MusiaÅ‚ byÄ‡ niezÅ‚y widok, co?}
+{294}{}{KOCHAM ciÄ™! JesteÅ› BOHATEREM. PIEPRZONYM BOHATEREM. MOGÄ˜ UÅšCISKAÄ† CIÄ˜ NA ÅšMIERÄ†.}
+{295}{}{NastÄ™pnym razem jak bÄ™dziesz kopaÄ‡ tyÅ‚ek Enklawie, przyjdÅº najpierw do mnie, to zrobimy to RAZEM.}
+{296}{}{JesteÅ› SUPER, }
+{297}{}{Wiem, Å¼e zawdziÄ™czamy ci uratowanie Å›wiata, ale to my, pomniejsi Bohaterowie NiezaleÅ¼ni musimy stawiÄ‡ czoÅ‚o konsekwencjom.}
+{298}{}{A teraz kolej, aby zagraÄ‡ postaciÄ… opierajÄ…cÄ… siÄ™ na prochach. Serio! WeÅº sobie cechÄ™ chemiozaleÅ¼noÅ›Ä‡.
  UWIELBIAM go.}
-{299}{}{Dziêki za uratowanie nas. Buzi nie dostaniesz, bo mi jedzie z gêby rzygami.}
-{300}{}{Te¿ byœmy z kumplami w pojedynkê za³atwili Enklawê, gdybyœmy mieli wystarczaj¹co du¿o Jetu.}
-{301}{}{[Œpiewa] "We don't need another hero, we don't need to know the way home..."}
-{302}{}{Zaprojektowa³ mnie Chris Avellone, a Tom French napisa³ dla mnie skrypty. Praktycznie rzecz bior¹c, moje uzale¿nienie od Jetu to ICH wina.}
-{303}{}{WeŸmy sobie trochê Jetu i oblejmy to zwyciêstwo. Ty stawiasz.}
-{304}{}{A kiedy ju¿ skasujesz tê grê z dysku, czy bêdziemy istnieæ nadal?}
-{305}{}{Uch... jakiego rodzaju testy prochów robi³a Enklawa? Czy by³ tam darmowy Jet?}
-{320}{}{Jak sobie radzisz w toalecie z ca³ym tym ¿elastwem na sobie?}
-{321}{}{Uch... czy ty do mnie mówisz?}
-{322}{}{Ooo ludzie, chyba mam coraz gorsze delirki, bo zaczynaj¹ do mnie gadaæ metalowi ludzie.}
-{323}{}{Czy ktoœ obla³ ciê metalem?}
-{324}{}{Hej, uch... masz tam w œrodku jakiœ Jet?}
-{325}{}{Masz parê dolców...? Uch, niewa¿ne.}
-{326}{}{::Puka w twoj¹ zbrojê:: Halo? Jest tam kto?}
-{327}{}{Czy jesteœ jak¹œ dziwn¹ krzy¿ówk¹ cz³owieka z lodówk¹?}
-{328}{}{Nie jest ci w tym za gor¹co?}
-{350}{}{Daj mi trochê Jetu, a powiem ci, gdzie mo¿esz znaleŸæ trochê ³atwych ³upów.}
-{351}{}{Mo¿esz wzi¹æ sobie moje dzieci, jeœli masz Jet, ¿eby za nie zap³aciæ.}
-{352}{}{Tylko kilka dolców, a bêdê twoim niewolnikiem... tylko daj mi najpierw wzi¹æ sobie trochê Jetu.}
-{353}{}{Mo¿esz wzi¹æ mnie w niewolê, jeœli dasz mi trochê Jetu.}
-{354}{}{Mo¿esz odsprzedaæ mnie w niewolê, jeœli dasz mi trochê Jetu.}
-{355}{}{Nie, cz³owieku, nie mam prochów. A... co? Kupujesz?}
-{360}{}{Ty woj-ownik? Masz parê dolców coby po¿yczyæ?}
-{361}{}{Noo, daj mi parê dolców.}
-{362}{}{Masz po¿yczyæ kasy? S³uchaj, wszystko ci oddam.}
+{299}{}{DziÄ™ki za uratowanie nas. Buzi nie dostaniesz, bo mi jedzie z gÄ™by rzygami.}
+{300}{}{TeÅ¼ byÅ›my z kumplami w pojedynkÄ™ zaÅ‚atwili EnklawÄ™, gdybyÅ›my mieli wystarczajÄ…co duÅ¼o Jetu.}
+{301}{}{[Åšpiewa] "We don't need another hero, we don't need to know the way home..."}
+{302}{}{ZaprojektowaÅ‚ mnie Chris Avellone, a Tom French napisaÅ‚ dla mnie skrypty. Praktycznie rzecz biorÄ…c, moje uzaleÅ¼nienie od Jetu to ICH wina.}
+{303}{}{WeÅºmy sobie trochÄ™ Jetu i oblejmy to zwyciÄ™stwo. Ty stawiasz.}
+{304}{}{A kiedy juÅ¼ skasujesz tÄ™ grÄ™ z dysku, czy bÄ™dziemy istnieÄ‡ nadal?}
+{305}{}{Uch... jakiego rodzaju testy prochÃ³w robiÅ‚a Enklawa? Czy byÅ‚ tam darmowy Jet?}
+{320}{}{Jak sobie radzisz w toalecie z caÅ‚ym tym Å¼elastwem na sobie?}
+{321}{}{Uch... czy ty do mnie mÃ³wisz?}
+{322}{}{Ooo ludzie, chyba mam coraz gorsze delirki, bo zaczynajÄ… do mnie gadaÄ‡ metalowi ludzie.}
+{323}{}{Czy ktoÅ› oblaÅ‚ ciÄ™ metalem?}
+{324}{}{Hej, uch... masz tam w Å›rodku jakiÅ› Jet?}
+{325}{}{Masz parÄ™ dolcÃ³w...? Uch, niewaÅ¼ne.}
+{326}{}{::Puka w twojÄ… zbrojÄ™:: Halo? Jest tam kto?}
+{327}{}{Czy jesteÅ› jakÄ…Å› dziwnÄ… krzyÅ¼Ã³wkÄ… czÅ‚owieka z lodÃ³wkÄ…?}
+{328}{}{Nie jest ci w tym za gorÄ…co?}
+{350}{}{Daj mi trochÄ™ Jetu, a powiem ci, gdzie moÅ¼esz znaleÅºÄ‡ trochÄ™ Å‚atwych Å‚upÃ³w.}
+{351}{}{MoÅ¼esz wziÄ…Ä‡ sobie moje dzieci, jeÅ›li masz Jet, Å¼eby za nie zapÅ‚aciÄ‡.}
+{352}{}{Tylko kilka dolcÃ³w, a bÄ™dÄ™ twoim niewolnikiem... tylko daj mi najpierw wziÄ…Ä‡ sobie trochÄ™ Jetu.}
+{353}{}{MoÅ¼esz wziÄ…Ä‡ mnie w niewolÄ™, jeÅ›li dasz mi trochÄ™ Jetu.}
+{354}{}{MoÅ¼esz odsprzedaÄ‡ mnie w niewolÄ™, jeÅ›li dasz mi trochÄ™ Jetu.}
+{355}{}{Nie, czÅ‚owieku, nie mam prochÃ³w. A... co? Kupujesz?}
+{360}{}{Ty woj-ownik? Masz parÄ™ dolcÃ³w coby poÅ¼yczyÄ‡?}
+{361}{}{Noo, daj mi parÄ™ dolcÃ³w.}
+{362}{}{Masz poÅ¼yczyÄ‡ kasy? SÅ‚uchaj, wszystko ci oddam.}
 {363}{}{Hej, uch... masz Jet?}
-{364}{}{Cz³owieku, ja muszê *lataæ*, wiesz o co mi chodzi?}
-{365}{}{Naprawdê potrzebujê lekarstwa dla syna. Pomó¿ mi.}
-{366}{}{Masz parê dolców?}
-{367}{}{Potrzebujê tylko kilu dolców na chleb...}
-{368}{}{Mo¿esz wzi¹æ mnie w niewolê, jeœli dasz mi trochê Jetu.}
-{369}{}{Mo¿esz odsprzedaæ mnie w niewolê, jeœli dasz mi trochê Jetu.}
-{370}{}{Nie, cz³owieku, nie mam prochów. A... co? Kupujesz?}
+{364}{}{CzÅ‚owieku, ja muszÄ™ *lataÄ‡*, wiesz o co mi chodzi?}
+{365}{}{NaprawdÄ™ potrzebujÄ™ lekarstwa dla syna. PomÃ³Å¼ mi.}
+{366}{}{Masz parÄ™ dolcÃ³w?}
+{367}{}{PotrzebujÄ™ tylko kilu dolcÃ³w na chleb...}
+{368}{}{MoÅ¼esz wziÄ…Ä‡ mnie w niewolÄ™, jeÅ›li dasz mi trochÄ™ Jetu.}
+{369}{}{MoÅ¼esz odsprzedaÄ‡ mnie w niewolÄ™, jeÅ›li dasz mi trochÄ™ Jetu.}
+{370}{}{Nie, czÅ‚owieku, nie mam prochÃ³w. A... co? Kupujesz?}
 {371}{}{Ty z rodziny }
-{372}{}{Mo¿esz po¿yczyæ mi kilka dolców...? No chodŸ, naprawdê warto.}
-{373}{}{Bêdê pracowaæ za Jet...}
-{380}{}{Hej, bracie? Pomo¿esz mi polataæ?}
-{381}{}{Zrobiê co tylko zechcesz za kilka dolców. Albo za Jet, jeœli go masz.}
-{382}{}{Potrzebujesz towarzystwa, ¿eby polataæ, co?}
+{372}{}{MoÅ¼esz poÅ¼yczyÄ‡ mi kilka dolcÃ³w...? No chodÅº, naprawdÄ™ warto.}
+{373}{}{BÄ™dÄ™ pracowaÄ‡ za Jet...}
+{380}{}{Hej, bracie? PomoÅ¼esz mi polataÄ‡?}
+{381}{}{ZrobiÄ™ co tylko zechcesz za kilka dolcÃ³w. Albo za Jet, jeÅ›li go masz.}
+{382}{}{Potrzebujesz towarzystwa, Å¼eby polataÄ‡, co?}
 {383}{}{Tata?}
-{384}{}{Cz³owieku, ja muszê *lataæ*, wiesz o co mi chodzi?}
-{385}{}{Nie, cz³owieku, nie mam prochów. A... co? Kupujesz?}
-{386}{}{Psssst. Mo¿esz za³atwiæ mi trochê Jetu?}
-{387}{}{Mogê po¿yczyæ parê dolców? Wszystko oddam.}
-{388}{}{Bêdê pracowaæ za Jet...}
-{389}{}{No, nie b¹dŸ ¿y³a, daj parê dolców.}
-{390}{}{Masz po¿yczyæ kasy? S³uchaj, wszystko ci oddam.}
-{391}{}{Hej, uch... kolego, masz trochê Jetu?}
-{392}{}{Naprawdê potrzebujê lekarstwa dla syna. Pomó¿ mi.}
-{393}{}{Masz parê dolców?}
-{394}{}{Ja tylko potrzebujê parê dolców na chleb... to wszystko...}
-{395}{}{Przeœpiê siê z tob¹ za Jet albo kilka dolców. Przysiêgam, jestem czysty.}
-{396}{}{By³em tu kiedyœ w Nowym Reno niez³¹ szych¹. Za trochê Jetu mogê daæ ci parê rad...}
-{397}{}{Mo¿esz wzi¹æ mnie w niewolê, jeœli dasz mi trochê Jetu.}
-{398}{}{Mo¿esz odsprzedaæ mnie w niewolê, jeœli dasz mi trochê Jetu.}
-{399}{}{Hej, siostro? Mo¿esz pomóc mi w lataniu?}
-{400}{}{Noo, panienko, daj mi tylko parê dolców.}
-{401}{}{Hej, uch... kole¿anko, masz Jet?}
-{402}{}{S³uchaj, ja muszê *lataæ*, rozumiesz?}
-{403}{}{Nie, nie mam prochów. Aa... co? Kupujesz?}
+{384}{}{CzÅ‚owieku, ja muszÄ™ *lataÄ‡*, wiesz o co mi chodzi?}
+{385}{}{Nie, czÅ‚owieku, nie mam prochÃ³w. A... co? Kupujesz?}
+{386}{}{Psssst. MoÅ¼esz zaÅ‚atwiÄ‡ mi trochÄ™ Jetu?}
+{387}{}{MogÄ™ poÅ¼yczyÄ‡ parÄ™ dolcÃ³w? Wszystko oddam.}
+{388}{}{BÄ™dÄ™ pracowaÄ‡ za Jet...}
+{389}{}{No, nie bÄ…dÅº Å¼yÅ‚a, daj parÄ™ dolcÃ³w.}
+{390}{}{Masz poÅ¼yczyÄ‡ kasy? SÅ‚uchaj, wszystko ci oddam.}
+{391}{}{Hej, uch... kolego, masz trochÄ™ Jetu?}
+{392}{}{NaprawdÄ™ potrzebujÄ™ lekarstwa dla syna. PomÃ³Å¼ mi.}
+{393}{}{Masz parÄ™ dolcÃ³w?}
+{394}{}{Ja tylko potrzebujÄ™ parÄ™ dolcÃ³w na chleb... to wszystko...}
+{395}{}{PrzeÅ›piÄ™ siÄ™ z tobÄ… za Jet albo kilka dolcÃ³w. PrzysiÄ™gam, jestem czysty.}
+{396}{}{ByÅ‚em tu kiedyÅ› w Nowym Reno niezÅ‚Ä… szychÄ…. Za trochÄ™ Jetu mogÄ™ daÄ‡ ci parÄ™ rad...}
+{397}{}{MoÅ¼esz wziÄ…Ä‡ mnie w niewolÄ™, jeÅ›li dasz mi trochÄ™ Jetu.}
+{398}{}{MoÅ¼esz odsprzedaÄ‡ mnie w niewolÄ™, jeÅ›li dasz mi trochÄ™ Jetu.}
+{399}{}{Hej, siostro? MoÅ¼esz pomÃ³c mi w lataniu?}
+{400}{}{Noo, panienko, daj mi tylko parÄ™ dolcÃ³w.}
+{401}{}{Hej, uch... koleÅ¼anko, masz Jet?}
+{402}{}{SÅ‚uchaj, ja muszÄ™ *lataÄ‡*, rozumiesz?}
+{403}{}{Nie, nie mam prochÃ³w. Aa... co? Kupujesz?}
 {404}{}{Mama?}
-{420}{}{Hej, bracie? Pomo¿esz mi polataæ?}
-{421}{}{Noo, ch³opczyku, daj mi tylko parê dolców.}
-{422}{}{Przeœpiê siê z tob¹ za Jet albo kilka dolców. Przysiêgam, jestem czysty.}
-{423}{}{Jestem tañsza od tych rodzinnych kurew. Uch, ale nie mów im, ¿e siê puszczam.}
-{424}{}{Zrobiê co tylko zechcesz za kilka dolców... albo za Jet, jeœli go masz.}
-{425}{}{By³am kiedyœ prawdziw¹ newreñsk¹ piêknoœci¹. Wci¹¿ mam to coœ...}
-{426}{}{Potrzebujesz towarzystwa, ¿eby polataæ, co?}
-{427}{}{Nie, cz³owieku, nie mam prochów. A... co? Kupujesz?}
+{420}{}{Hej, bracie? PomoÅ¼esz mi polataÄ‡?}
+{421}{}{Noo, chÅ‚opczyku, daj mi tylko parÄ™ dolcÃ³w.}
+{422}{}{PrzeÅ›piÄ™ siÄ™ z tobÄ… za Jet albo kilka dolcÃ³w. PrzysiÄ™gam, jestem czysty.}
+{423}{}{Jestem taÅ„sza od tych rodzinnych kurew. Uch, ale nie mÃ³w im, Å¼e siÄ™ puszczam.}
+{424}{}{ZrobiÄ™ co tylko zechcesz za kilka dolcÃ³w... albo za Jet, jeÅ›li go masz.}
+{425}{}{ByÅ‚am kiedyÅ› prawdziwÄ… newreÅ„skÄ… piÄ™knoÅ›ciÄ…. WciÄ…Å¼ mam to coÅ›...}
+{426}{}{Potrzebujesz towarzystwa, Å¼eby polataÄ‡, co?}
+{427}{}{Nie, czÅ‚owieku, nie mam prochÃ³w. A... co? Kupujesz?}
 {428}{}{Tata?}
-{429}{}{Psssst. Mo¿esz za³atwiæ mi trochê Jetu?}
-{430}{}{Mogê po¿yczyæ parê dolców? Wszystko oddam.}
-{431}{}{Bêdê pracowaæ za Jet...}
-{432}{}{Masz po¿yczyæ kasy? S³uchaj, wszystko ci oddam.}
-{433}{}{Hej, uch... kolego, masz mo¿e Jet? Cz³owieku, ja muszê *lataæ*, rozumiesz?}
-{434}{}{Naprawdê potrzebujê lekarstwa dla syna. Pomó¿ mi.}
-{435}{}{Masz parê dolców?}
-{436}{}{Ja tylko potrzebujê parê dolców na chleb... to wszystko...}
-{437}{}{Mo¿esz wzi¹æ mnie w niewolê, jeœli dasz mi trochê Jetu.}
-{438}{}{Mo¿esz odsprzedaæ mnie w niewolê, jeœli dasz mi trochê Jetu.}
-{439}{}{Noo, panienko, daj mi tylko parê dolców.}
-{440}{}{Hej, siostro? Mo¿esz pomóc mi w lataniu?}
-{441}{}{Mogê ci sprawiæ przyjemnoœæ... jeœli masz dla mnie trochê Jetu.}
+{429}{}{Psssst. MoÅ¼esz zaÅ‚atwiÄ‡ mi trochÄ™ Jetu?}
+{430}{}{MogÄ™ poÅ¼yczyÄ‡ parÄ™ dolcÃ³w? Wszystko oddam.}
+{431}{}{BÄ™dÄ™ pracowaÄ‡ za Jet...}
+{432}{}{Masz poÅ¼yczyÄ‡ kasy? SÅ‚uchaj, wszystko ci oddam.}
+{433}{}{Hej, uch... kolego, masz moÅ¼e Jet? CzÅ‚owieku, ja muszÄ™ *lataÄ‡*, rozumiesz?}
+{434}{}{NaprawdÄ™ potrzebujÄ™ lekarstwa dla syna. PomÃ³Å¼ mi.}
+{435}{}{Masz parÄ™ dolcÃ³w?}
+{436}{}{Ja tylko potrzebujÄ™ parÄ™ dolcÃ³w na chleb... to wszystko...}
+{437}{}{MoÅ¼esz wziÄ…Ä‡ mnie w niewolÄ™, jeÅ›li dasz mi trochÄ™ Jetu.}
+{438}{}{MoÅ¼esz odsprzedaÄ‡ mnie w niewolÄ™, jeÅ›li dasz mi trochÄ™ Jetu.}
+{439}{}{Noo, panienko, daj mi tylko parÄ™ dolcÃ³w.}
+{440}{}{Hej, siostro? MoÅ¼esz pomÃ³c mi w lataniu?}
+{441}{}{MogÄ™ ci sprawiÄ‡ przyjemnoÅ›Ä‡... jeÅ›li masz dla mnie trochÄ™ Jetu.}
 {442}{}{Hej, uch... siostrzyczko, masz Jet?}
-{443}{}{Siostro, ja muszê *lataæ*, rozumiesz?}
-{444}{}{No, siostro, nie mam prochów. Aa... co? Kupujesz?}
+{443}{}{Siostro, ja muszÄ™ *lataÄ‡*, rozumiesz?}
+{444}{}{No, siostro, nie mam prochÃ³w. Aa... co? Kupujesz?}
 {445}{}{Mama?}
-{450}{}{Swiêta...! Czym jesteœ? Jakimœ roz-butem?}
-{451}{}{Jakie u licha œwiñstwo trzeba braæ, ¿eby siê pokryæ metalem, tak jak ty?}
-{452}{}{Hola. Metalowy cz³owiek. Mówi do mnie.}
-{453}{}{Jeœli jesteœ z innej planety, lepiej tam wracaj... tu nie ma nic, co mo¿na by podbiæ.}
-{454}{}{Oooooch. Widzê œwiat³a Nowego Reno w twojej szybce.}
-{455}{}{Jestem na taaaakim haju, ¿e... uch, o co mi chodzi³o?}
-{456}{}{Cz³owieeku, musi tam byæ niez³y zaduch w tym czymœ.}
-{457}{}{Jest tam ktoœ w œrodku?}
-{458}{}{No proszê, czy¿ to nie sam Darttth Vadrrr}
-{459}{}{Cz³owieeku, muszê mieæ trochê tego œwiñstwa, które ³ykasz. Wygl¹dasz jak wielka metalowa... rzecz.}
-{460}{}{Cz³owieeku, jesteœ nie w tej grze, co trzeba. Lepiej idŸ do którejœ z tych bitewnych, pecetowych symulacji mechów.}
+{450}{}{SwiÄ™ta...! Czym jesteÅ›? JakimÅ› roz-butem?}
+{451}{}{Jakie u licha Å›wiÅ„stwo trzeba braÄ‡, Å¼eby siÄ™ pokryÄ‡ metalem, tak jak ty?}
+{452}{}{Hola. Metalowy czÅ‚owiek. MÃ³wi do mnie.}
+{453}{}{JeÅ›li jesteÅ› z innej planety, lepiej tam wracaj... tu nie ma nic, co moÅ¼na by podbiÄ‡.}
+{454}{}{Oooooch. WidzÄ™ Å›wiatÅ‚a Nowego Reno w twojej szybce.}
+{455}{}{Jestem na taaaakim haju, Å¼e... uch, o co mi chodziÅ‚o?}
+{456}{}{CzÅ‚owieeku, musi tam byÄ‡ niezÅ‚y zaduch w tym czymÅ›.}
+{457}{}{Jest tam ktoÅ› w Å›rodku?}
+{458}{}{No proszÄ™, czyÅ¼ to nie sam Darttth Vadrrr}
+{459}{}{CzÅ‚owieeku, muszÄ™ mieÄ‡ trochÄ™ tego Å›wiÅ„stwa, ktÃ³re Å‚ykasz. WyglÄ…dasz jak wielka metalowa... rzecz.}
+{460}{}{CzÅ‚owieeku, jesteÅ› nie w tej grze, co trzeba. Lepiej idÅº do ktÃ³rejÅ› z tych bitewnych, pecetowych symulacji mechÃ³w.}
 {461}{}{Ty kosmita?}
-{462}{}{Muszê najpierw wzi¹æ kilka du¿ych dzia³ek Jetu, zanim w ogóle przyjdzie mi przez myœl, ¿eby zadzieraæ z tob¹.}
-{470}{}{Hej, cojezzd, ³owisz dziœ kogoœ?!}
-{471}{}{Chcesz mnie zniewoliæ? Co? No dalej! Jestem nie do pokonania!}
-{472}{}{ChodŸ tu i z³ap mnie!}
-{473}{}{Czy wy, ³owcy niewolników, nigdy nie macie Jetu, ¿eby siê podzieliæ?}
-{474}{}{Ty ³owisz niewolników, ale ja jestem na takim haju, ¿e mam ciê gdzieœ.}
-{475}{}{Zadzierasz ze mn¹, co? Jestem zasilan¹ Jetem elektrowni¹! Skopiê ci TY£EK!}
-{476}{}{Czy wy, ³owcy niewolników, nigdy nie chcecie sobie polataæ?}
-{477}{}{Dlaczego widzê was dwie sztuki? Wy bliŸniêta?}
-{478}{}{Hê? Czy to jawa, czy tylko mi siê œnisz?}
-{479}{}{Jestem na taaaakim haju, ¿e... uch, o co mi chodzi³o?}
-{480}{}{Chcesz polataæ? Poszukaj Juuuuulesa.}
-{481}{}{Szramiasty Jimmy J ci "pomo¿e", rozumiesz?}
-{482}{}{Jak zobaczysz Renesco, to mu powiedz, ¿e pieni¹dze oddam jutro.}
-{483}{}{To gówno od Szramiastego Jimmy'ego J jest NAJLEPSZE. Odlecisz po nim tak wysoko, ¿e NIGDY ju¿ nie zechcesz wyl¹dowaæ.}
-{484}{}{Do mnie mówisz? Do mnie mówisz?!}
-{485}{}{Chcesz dostaæ?! Co?}
-{486}{}{::Gapi siê na ciebie oczami mêtnymi od narkotyków::}
-{487}{}{Chcesz ze mn¹ polataæ?}
-{488}{}{Hej, co jezzd, jak siê boksowa³o?!}
-{489}{}{Chesz siê boksowaæ? Hê? No dalej!}
-{490}{}{Myœlisz, ¿e jak masz pas mistrza, to mo¿esz ze mn¹ zazzieraæ? Jestem zasilan¹ Jetem elektrowni¹! Skopiê ci TY£EK!}
+{462}{}{MuszÄ™ najpierw wziÄ…Ä‡ kilka duÅ¼ych dziaÅ‚ek Jetu, zanim w ogÃ³le przyjdzie mi przez myÅ›l, Å¼eby zadzieraÄ‡ z tobÄ….}
+{470}{}{Hej, cojezzd, Å‚owisz dziÅ› kogoÅ›?!}
+{471}{}{Chcesz mnie zniewoliÄ‡? Co? No dalej! Jestem nie do pokonania!}
+{472}{}{ChodÅº tu i zÅ‚ap mnie!}
+{473}{}{Czy wy, Å‚owcy niewolnikÃ³w, nigdy nie macie Jetu, Å¼eby siÄ™ podzieliÄ‡?}
+{474}{}{Ty Å‚owisz niewolnikÃ³w, ale ja jestem na takim haju, Å¼e mam ciÄ™ gdzieÅ›.}
+{475}{}{Zadzierasz ze mnÄ…, co? Jestem zasilanÄ… Jetem elektrowniÄ…! SkopiÄ™ ci TYÅEK!}
+{476}{}{Czy wy, Å‚owcy niewolnikÃ³w, nigdy nie chcecie sobie polataÄ‡?}
+{477}{}{Dlaczego widzÄ™ was dwie sztuki? Wy bliÅºniÄ™ta?}
+{478}{}{HÄ™? Czy to jawa, czy tylko mi siÄ™ Å›nisz?}
+{479}{}{Jestem na taaaakim haju, Å¼e... uch, o co mi chodziÅ‚o?}
+{480}{}{Chcesz polataÄ‡? Poszukaj Juuuuulesa.}
+{481}{}{Szramiasty Jimmy J ci "pomoÅ¼e", rozumiesz?}
+{482}{}{Jak zobaczysz Renesco, to mu powiedz, Å¼e pieniÄ…dze oddam jutro.}
+{483}{}{To gÃ³wno od Szramiastego Jimmy'ego J jest NAJLEPSZE. Odlecisz po nim tak wysoko, Å¼e NIGDY juÅ¼ nie zechcesz wylÄ…dowaÄ‡.}
+{484}{}{Do mnie mÃ³wisz? Do mnie mÃ³wisz?!}
+{485}{}{Chcesz dostaÄ‡?! Co?}
+{486}{}{::Gapi siÄ™ na ciebie oczami mÄ™tnymi od narkotykÃ³w::}
+{487}{}{Chcesz ze mnÄ… polataÄ‡?}
+{488}{}{Hej, co jezzd, jak siÄ™ boksowaÅ‚o?!}
+{489}{}{Chesz siÄ™ boksowaÄ‡? HÄ™? No dalej!}
+{490}{}{MyÅ›lisz, Å¼e jak masz pas mistrza, to moÅ¼esz ze mnÄ… zazzieraÄ‡? Jestem zasilanÄ… Jetem elektrowniÄ…! SkopiÄ™ ci TYÅEK!}
 {500}{}{Ho! Mafiozo na horyzoncie!}
-{501}{}{Mo¿e i jest z ciebie gangster, ale jestem na takim haju, ¿e mam ciê gdzieœ.}
-{502}{}{Dlaczego widzê was dwie sztuki? Wy bliŸniêta?}
+{501}{}{MoÅ¼e i jest z ciebie gangster, ale jestem na takim haju, Å¼e mam ciÄ™ gdzieÅ›.}
+{502}{}{Dlaczego widzÄ™ was dwie sztuki? Wy bliÅºniÄ™ta?}
 {503}{}{Heh? Ty prawdziwe Mafiozo?}
-{504}{}{Gangsta, jestem na taaaakim haju, ¿e... o co mi chodzi³o?}
-{505}{}{Czy wy Gangsterzy nie macie czasem ochoty polataæ?}
-{506}{}{Chcesz sobie polataæ, gangsterze? Zagadaj do Juuuulesa.}
-{507}{}{Szramiasty Jimmy J ci "pomo¿e", rozumiesz?}
-{508}{}{Jeœli jesteœ tu po kasê dla Renesco, to powiedz mu, ¿e jutro bêdê mieæ pieni¹dze.}
-{509}{}{Gówno od Szramiastego Jimmy'ego J jest NAJLEPSZE. No chyba, ¿e go nie lubisz.}
-{510}{}{Do mnie mówisz? Do mnie mówisz?!}
-{511}{}{Ze mn¹ zadzierasz, ty marionetko w rêkach mafii? Jestem zasilan¹ Jetem elektrowni¹! Skopiê ci TY£EK!}
-{512}{}{Chcesz dostaæ?! Co?}
-{513}{}{::Gapi siê na ciebie oczami mêtnymi od narkotyków::}
-{520}{}{Heeej... a na czym TY lecisz? Masz trochê siê podzieliæ?}
-{521}{}{A ktoœ powiedzia³, ¿e to *mnie* pojeba³o.}
-{522}{}{Hej... podziel siê tym œwiñstwem, co ciê tak krêci.}
-{523}{}{Normalnie takim jak ty proponujê ma³y odlot, ale ty ju¿ chyba jesteœ daleko st¹d.}
-{524}{}{Dlaczego widzê was dwie sztuki? Wy bliŸniêta?}
-{525}{}{Gdzie uda³o ci siê sko³owaæ takie prochy?}
-{530}{}{Cz³owieku, nie patrz za siebie, ale ³azi za tob¹ jakiœ zapuszkowany mózg.}
-{531}{}{£ojoj. Chyba biorê kieeeepskie prochy... wszêdzie widzê mózgo-roboty.}
-{532}{}{Jeœli jeszcze raz zobaczê jak ten robot z mózgiem krêci siê po okolicy, zrezygnujê z Jetu raz na zawsze.}
-{533}{}{Te¿ mnie kiedyœ tak krêci³o, jak twojego kolegê robota... powiedz mu, ¿e mu przejdzie, jak tylko skoñczy siê haj.}
-{534}{}{Co u diab³a sta³o siê w mózg twojemu kumplowi? Straci³ swoje cia³o?}
-{535}{}{POWIEDZ mi, ¿e to robo - coœ nie jest prawdziwe. Proszê.}
-{536}{}{O! Patrzcie jaki robo - mózg. Oto twój mózg na prochach, o ile mi siê to nie œni.}
-{537}{}{Chcesz sobie ze mn¹ polataæ? A twój robo - kolega?}
-{538}{}{Zadzierasz ze mn¹ robokochasiu? Jestem zasilan¹ Jetem elektrowni¹! Skopiê TWÓJ ty³ek, a potem skopiê ty³ek tego robota!}
-{539}{}{Chcesz dostaæ, robokochasiu?! Co?}
-{540}{}{Hê? Czy to jawa, czy tylko mi siê œnisz?}
-{541}{}{Jestem na taaaakim haju, ¿e... uch, o co mi chodzi³o?}
-{542}{}{Chcesz polataæ? Poszukaj Juuuuulesa.}
-{543}{}{Szramiasty Jimmy J ci "pomo¿e", rozumiesz?}
-{544}{}{Jak zobaczysz Renesco, to mu powiedz, ¿e pieni¹dze oddam jutro.}
-{545}{}{To gówno od Szramiastego Jimmy'ego J jest NAJLEPSZE. Odlecisz po nim tak wysoko, ¿e NIGDY ju¿ nie zechcesz wyl¹dowaæ.}
-{546}{}{Do mnie mówisz? Do mnie mówisz?!}
-{547}{}{::Gapi siê na ciebie oczami mêtnymi od narkotyków::}
-{548}{}{Cz³owieku, nie ogl¹daj siê za siebie, ale ³azi za tob¹ jakiœ mutant.}
-{549}{}{£ojoj. Chyba biorê kieeeepskie prochy... wszêdzie widzê mutantów.}
-{550}{}{Czy to ja jestem na haju, czy twój kupel jest wysoki na dwa piêtra?}
-{551}{}{::Œmieje siê:: Twojemu mutantowi na ramieniu wyros³o imad³o.}
+{504}{}{Gangsta, jestem na taaaakim haju, Å¼e... o co mi chodziÅ‚o?}
+{505}{}{Czy wy Gangsterzy nie macie czasem ochoty polataÄ‡?}
+{506}{}{Chcesz sobie polataÄ‡, gangsterze? Zagadaj do Juuuulesa.}
+{507}{}{Szramiasty Jimmy J ci "pomoÅ¼e", rozumiesz?}
+{508}{}{JeÅ›li jesteÅ› tu po kasÄ™ dla Renesco, to powiedz mu, Å¼e jutro bÄ™dÄ™ mieÄ‡ pieniÄ…dze.}
+{509}{}{GÃ³wno od Szramiastego Jimmy'ego J jest NAJLEPSZE. No chyba, Å¼e go nie lubisz.}
+{510}{}{Do mnie mÃ³wisz? Do mnie mÃ³wisz?!}
+{511}{}{Ze mnÄ… zadzierasz, ty marionetko w rÄ™kach mafii? Jestem zasilanÄ… Jetem elektrowniÄ…! SkopiÄ™ ci TYÅEK!}
+{512}{}{Chcesz dostaÄ‡?! Co?}
+{513}{}{::Gapi siÄ™ na ciebie oczami mÄ™tnymi od narkotykÃ³w::}
+{520}{}{Heeej... a na czym TY lecisz? Masz trochÄ™ siÄ™ podzieliÄ‡?}
+{521}{}{A ktoÅ› powiedziaÅ‚, Å¼e to *mnie* pojebaÅ‚o.}
+{522}{}{Hej... podziel siÄ™ tym Å›wiÅ„stwem, co ciÄ™ tak krÄ™ci.}
+{523}{}{Normalnie takim jak ty proponujÄ™ maÅ‚y odlot, ale ty juÅ¼ chyba jesteÅ› daleko stÄ…d.}
+{524}{}{Dlaczego widzÄ™ was dwie sztuki? Wy bliÅºniÄ™ta?}
+{525}{}{Gdzie udaÅ‚o ci siÄ™ skoÅ‚owaÄ‡ takie prochy?}
+{530}{}{CzÅ‚owieku, nie patrz za siebie, ale Å‚azi za tobÄ… jakiÅ› zapuszkowany mÃ³zg.}
+{531}{}{Åojoj. Chyba biorÄ™ kieeeepskie prochy... wszÄ™dzie widzÄ™ mÃ³zgo-roboty.}
+{532}{}{JeÅ›li jeszcze raz zobaczÄ™ jak ten robot z mÃ³zgiem krÄ™ci siÄ™ po okolicy, zrezygnujÄ™ z Jetu raz na zawsze.}
+{533}{}{TeÅ¼ mnie kiedyÅ› tak krÄ™ciÅ‚o, jak twojego kolegÄ™ robota... powiedz mu, Å¼e mu przejdzie, jak tylko skoÅ„czy siÄ™ haj.}
+{534}{}{Co u diabÅ‚a staÅ‚o siÄ™ w mÃ³zg twojemu kumplowi? StraciÅ‚ swoje ciaÅ‚o?}
+{535}{}{POWIEDZ mi, Å¼e to robo - coÅ› nie jest prawdziwe. ProszÄ™.}
+{536}{}{O! Patrzcie jaki robo - mÃ³zg. Oto twÃ³j mÃ³zg na prochach, o ile mi siÄ™ to nie Å›ni.}
+{537}{}{Chcesz sobie ze mnÄ… polataÄ‡? A twÃ³j robo - kolega?}
+{538}{}{Zadzierasz ze mnÄ… robokochasiu? Jestem zasilanÄ… Jetem elektrowniÄ…! SkopiÄ™ TWÃ“J tyÅ‚ek, a potem skopiÄ™ tyÅ‚ek tego robota!}
+{539}{}{Chcesz dostaÄ‡, robokochasiu?! Co?}
+{540}{}{HÄ™? Czy to jawa, czy tylko mi siÄ™ Å›nisz?}
+{541}{}{Jestem na taaaakim haju, Å¼e... uch, o co mi chodziÅ‚o?}
+{542}{}{Chcesz polataÄ‡? Poszukaj Juuuuulesa.}
+{543}{}{Szramiasty Jimmy J ci "pomoÅ¼e", rozumiesz?}
+{544}{}{Jak zobaczysz Renesco, to mu powiedz, Å¼e pieniÄ…dze oddam jutro.}
+{545}{}{To gÃ³wno od Szramiastego Jimmy'ego J jest NAJLEPSZE. Odlecisz po nim tak wysoko, Å¼e NIGDY juÅ¼ nie zechcesz wylÄ…dowaÄ‡.}
+{546}{}{Do mnie mÃ³wisz? Do mnie mÃ³wisz?!}
+{547}{}{::Gapi siÄ™ na ciebie oczami mÄ™tnymi od narkotykÃ³w::}
+{548}{}{CzÅ‚owieku, nie oglÄ…daj siÄ™ za siebie, ale Å‚azi za tobÄ… jakiÅ› mutant.}
+{549}{}{Åojoj. Chyba biorÄ™ kieeeepskie prochy... wszÄ™dzie widzÄ™ mutantÃ³w.}
+{550}{}{Czy to ja jestem na haju, czy twÃ³j kupel jest wysoki na dwa piÄ™tra?}
+{551}{}{::Åšmieje siÄ™:: Twojemu mutantowi na ramieniu wyrosÅ‚o imadÅ‚o.}
 {552}{}{Uch... to mutant, czy jestem na haju?}
-{553}{}{Twój du¿y przyjaciel wygl¹da na naprawdê pojebanego.}
-{554}{}{Tfój du¿y kumpel jest ca³y ¿ó³ty i sraczkowaty. ::Chichocze::}
-{555}{}{Ten du¿y goœæ ko³o ciebie jest prawdziwy? Wygl¹da jak mutant.}
-{556}{}{Chcesz ze mn¹ polataæ? A twój kumpel mutant?}
-{557}{}{Do mnie podskakujesz, mutanto-kochasiu? Jestem zasilan¹ Jetem elektrowni¹! Skopiê ci TY£EK!}
-{558}{}{Chcesz dostaæ mutanto-kochasiu?! Co?}
-{560}{}{Cz³owieku, nie ogl¹daj siê za siebie, ale ³azi za tob¹ jakiœ dzikus.}
-{561}{}{£ojoj. Zobaczcie jaki dzikus. Du¿a koœæ.}
-{562}{}{£oj. Czy twój dzikusowaty kumpel wie, ¿e ma w nosie wielk¹ koœæ?}
-{563}{}{£ooohoho. Muszê braæ jakieœ straaaszne gówno... W³aœnie widzê faceta z koœci¹ wyrastaj¹c¹ z jego nosa.}
-{564}{}{Czy to ja jestem na haju, czy to twój kumpel na koœæ w nosie?}
-{565}{}{Lepiej powiedz swojemu kumplowi, ¿e ktoœ wepchn¹³ mu koœæ do nosa.}
-{566}{}{Jestem na haju, wiêc mam ciê gdzieœ.}
-{567}{}{Dlaczego widzê was dwie sztuki? Wy bliŸniêta?}
-{568}{}{Hê? Czy to jawa, czy tylko mi siê œnisz?}
-{569}{}{Jestem na taaaakim haju, ¿e... uch, o co mi chodzi³o?}
-{570}{}{Chcesz ze mn¹ polataæ?}
-{571}{}{Chcesz polataæ? Poszukaj Juuuuulesa.}
-{572}{}{Szramiasty Jimmy J ci "pomo¿e", rozumiesz?}
-{573}{}{Jak zobaczysz Renesco, to mu powiedz, ¿e pieni¹dze oddam jutro.}
-{574}{}{To gówno od Szramiastego Jimmy'ego J jest NAJLEPSZE. Odlecisz po nim tak wysoko, ¿e NIGDY ju¿ nie zechcesz wyl¹dowaæ.}
-{575}{}{Do mnie mówisz? Do mnie mówisz?!}
-{576}{}{Ze mn¹ zadzierasz? Jestem zasilan¹ Jetem elektrowni¹! Skopiê ci TY£EK!}
-{577}{}{Chcesz dostaæ?! Co?}
-{578}{}{::Gapi siê na ciebie oczami mêtnymi od narkotyków::}
-{600}{}{Niez³e...}
+{553}{}{TwÃ³j duÅ¼y przyjaciel wyglÄ…da na naprawdÄ™ pojebanego.}
+{554}{}{TfÃ³j duÅ¼y kumpel jest caÅ‚y Å¼Ã³Å‚ty i sraczkowaty. ::Chichocze::}
+{555}{}{Ten duÅ¼y goÅ›Ä‡ koÅ‚o ciebie jest prawdziwy? WyglÄ…da jak mutant.}
+{556}{}{Chcesz ze mnÄ… polataÄ‡? A twÃ³j kumpel mutant?}
+{557}{}{Do mnie podskakujesz, mutanto-kochasiu? Jestem zasilanÄ… Jetem elektrowniÄ…! SkopiÄ™ ci TYÅEK!}
+{558}{}{Chcesz dostaÄ‡ mutanto-kochasiu?! Co?}
+{560}{}{CzÅ‚owieku, nie oglÄ…daj siÄ™ za siebie, ale Å‚azi za tobÄ… jakiÅ› dzikus.}
+{561}{}{Åojoj. Zobaczcie jaki dzikus. DuÅ¼a koÅ›Ä‡.}
+{562}{}{Åoj. Czy twÃ³j dzikusowaty kumpel wie, Å¼e ma w nosie wielkÄ… koÅ›Ä‡?}
+{563}{}{Åooohoho. MuszÄ™ braÄ‡ jakieÅ› straaaszne gÃ³wno... WÅ‚aÅ›nie widzÄ™ faceta z koÅ›ciÄ… wyrastajÄ…cÄ… z jego nosa.}
+{564}{}{Czy to ja jestem na haju, czy to twÃ³j kumpel na koÅ›Ä‡ w nosie?}
+{565}{}{Lepiej powiedz swojemu kumplowi, Å¼e ktoÅ› wepchnÄ…Å‚ mu koÅ›Ä‡ do nosa.}
+{566}{}{Jestem na haju, wiÄ™c mam ciÄ™ gdzieÅ›.}
+{567}{}{Dlaczego widzÄ™ was dwie sztuki? Wy bliÅºniÄ™ta?}
+{568}{}{HÄ™? Czy to jawa, czy tylko mi siÄ™ Å›nisz?}
+{569}{}{Jestem na taaaakim haju, Å¼e... uch, o co mi chodziÅ‚o?}
+{570}{}{Chcesz ze mnÄ… polataÄ‡?}
+{571}{}{Chcesz polataÄ‡? Poszukaj Juuuuulesa.}
+{572}{}{Szramiasty Jimmy J ci "pomoÅ¼e", rozumiesz?}
+{573}{}{Jak zobaczysz Renesco, to mu powiedz, Å¼e pieniÄ…dze oddam jutro.}
+{574}{}{To gÃ³wno od Szramiastego Jimmy'ego J jest NAJLEPSZE. Odlecisz po nim tak wysoko, Å¼e NIGDY juÅ¼ nie zechcesz wylÄ…dowaÄ‡.}
+{575}{}{Do mnie mÃ³wisz? Do mnie mÃ³wisz?!}
+{576}{}{Ze mnÄ… zadzierasz? Jestem zasilanÄ… Jetem elektrowniÄ…! SkopiÄ™ ci TYÅEK!}
+{577}{}{Chcesz dostaÄ‡?! Co?}
+{578}{}{::Gapi siÄ™ na ciebie oczami mÄ™tnymi od narkotykÃ³w::}
+{600}{}{NiezÅ‚e...}
 {601}{}{Mmmm...}
 {602}{}{Prawdziwy z ciebie kumpel.}
 {603}{}{j}
 {604}{}{J}
 {605}{}{Daj mi J... ummm...}
-{796}{}{! KOPIE TY£EK!! CO JESZCZE, KOCHANIE, CO JESZCZE?!!!}
-{871}{}{ to twoja rodzina, tak? Mo¿esz za³atwiæ mi trochê Jetu?}
+{796}{}{! KOPIE TYÅEK!! CO JESZCZE, KOCHANIE, CO JESZCZE?!!!}
+{871}{}{ to twoja rodzina, tak? MoÅ¼esz zaÅ‚atwiÄ‡ mi trochÄ™ Jetu?}

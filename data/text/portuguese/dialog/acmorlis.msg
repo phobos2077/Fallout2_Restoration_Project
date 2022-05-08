@@ -1,53 +1,53 @@
-{100}{}{Você vê Morlis, uma de suas tias, que nunca gostou de você.}
-{101}{}{Por que você me incomoda, sobrinho? Você não pode ver que eu estou ocupada?}
+{100}{}{VocÃª vÃª Morlis, uma de suas tias, que nunca gostou de vocÃª.}
+{101}{}{Por que vocÃª me incomoda, sobrinho? VocÃª nÃ£o pode ver que eu estou ocupada?}
 {102}{}{Umm, tudo bem. Desculpe.}
-{103}{}{O que é? Você sabe que eu tenho muito a fazer!}
+{103}{}{O que Ã©? VocÃª sabe que eu tenho muito a fazer!}
 {104}{}{Ummm, Mynoc disse...}
-{105}{}{Mynoc disse o que? Com isso, criança!}
-{106}{}{Isso, umm, você pode ter algum sílex.}
-{107}{}{Eu faço. Você quer alguns, é isso?}
+{105}{}{Mynoc disse o que? Com isso, crianÃ§a!}
+{106}{}{Isso, umm, vocÃª pode ter algum sÃ­lex.}
+{107}{}{Eu faÃ§o. VocÃª quer alguns, Ã© isso?}
 {108}{}{Bem, sim.}
-{109}{}{Bem ... Quero três doses de pó curativo. Os tempos ruins estão chegando
-  e eu vou estar pronta. Traga-os para mim e você pode ter o pederneira. Agora
-  vá pegar!}
+{109}{}{Bem ... Quero trÃªs doses de pÃ³ curativo. Os tempos ruins estÃ£o chegando
+Â  e eu vou estar pronta. Traga-os para mim e vocÃª pode ter o pederneira. Agora
+Â  vÃ¡ pegar!}
 {110}{}{Sim, senhora!}
-{111}{}{Agora, não desperdice meu tempo. Você tem o pó?}
-{112}{}{Sim, eles estão aqui.}
-{113}{}{Umm, eu acho que não.}
-{114}{}{Aqui está a pedra. Agora fora com você! Eu não tenho tempo para fofocas.}
+{111}{}{Agora, nÃ£o desperdice meu tempo. VocÃª tem o pÃ³?}
+{112}{}{Sim, eles estÃ£o aqui.}
+{113}{}{Umm, eu acho que nÃ£o.}
+{114}{}{Aqui estÃ¡ a pedra. Agora fora com vocÃª! Eu nÃ£o tenho tempo para fofocas.}
 {115}{}{Obrigado, Tia Morlis.}
-{116}{}{Novamente você perder meu tempo, inútil sobrinho! Como você conseguiu se tornar
+{116}{}{Novamente vocÃª perder meu tempo, inÃºtil sobrinho! Como vocÃª conseguiu se tornar
 o Escolhido?}
 {117}{}{Sim, Tia Morlis.}
-{118}{}{Uh, Tia Morlis, eu tenho três aqui.}
-{150}{}{Tia Morlis, eu estou em uma jornada perigosa para a salvação da nossa aldeia. As minhas chances de sucesso serão muito melhor se eu manter a cura em pó para mim e se você me der o sílex. Não concorda?}
-{151}{}{O que você acha que você está fazendo, filho? Isto não é maneira do Escolhido agir. Agora saia da minha vista!}
-{152}{}{Se este sílex é tão importante que você está disposto a desgraçar o nome do Escolhido, então aqui. Leve
-  o sílex e sai da minha vista.}
+{118}{}{Uh, Tia Morlis, eu tenho trÃªs aqui.}
+{150}{}{Tia Morlis, eu estou em uma jornada perigosa para a salvaÃ§Ã£o da nossa aldeia. As minhas chances de sucesso serÃ£o muito melhor se eu manter a cura em pÃ³ para mim e se vocÃª me der o sÃ­lex. NÃ£o concorda?}
+{151}{}{O que vocÃª acha que vocÃª estÃ¡ fazendo, filho? Isto nÃ£o Ã© maneira do Escolhido agir. Agora saia da minha vista!}
+{152}{}{Se este sÃ­lex Ã© tÃ£o importante que vocÃª estÃ¡ disposto a desgraÃ§ar o nome do Escolhido, entÃ£o aqui. Leve
+Â  o sÃ­lex e sai da minha vista.}
 {153}{}{Sim, Tia Morlis.}
-{154}{}{Bem... Oh, muito bem. Aqui está a pedra. Desejo-lhe uma viagem segura, criança. }
-{155}{}{Não, eu não. Agora, pare de desperdiçar o meu tempo e saia daqui!}
+{154}{}{Bem... Oh, muito bem. Aqui estÃ¡ a pedra. Desejo-lhe uma viagem segura, crianÃ§a. }
+{155}{}{NÃ£o, eu nÃ£o. Agora, pare de desperdiÃ§ar o meu tempo e saia daqui!}
 {156}{}{Sim, Tia Morlis.}
-{200}{}{Então, você já voltou. Você encontrou o santo Treze?}
-{201}{}{Não, Tia Morlis, Eu...}
-{202}{}{Então retire-se daqui e ache-o! As pessoas dependem de você!}
+{200}{}{EntÃ£o, vocÃª jÃ¡ voltou. VocÃª encontrou o santo Treze?}
+{201}{}{NÃ£o, Tia Morlis, Eu...}
+{202}{}{EntÃ£o retire-se daqui e ache-o! As pessoas dependem de vocÃª!}
 {203}{}{Sim, Tia Morlis.}
-{204}{}{Bem, aqui está novamente. Você já não conseguiu completar sua missão?}
+{204}{}{Bem, aqui estÃ¡ novamente. VocÃª jÃ¡ nÃ£o conseguiu completar sua missÃ£o?}
 {205}{}{Sim, Tia Morlis, mas...}
-{206}{}{Então saia daqui e não volte até você fazer! Por que perder o tempo de voltar aqui, quando você poderia estar usando esse tempo para continuar sua busca?}
+{206}{}{EntÃ£o saia daqui e nÃ£o volte atÃ© vocÃª fazer! Por que perder o tempo de voltar aqui, quando vocÃª poderia estar usando esse tempo para continuar sua busca?}
 {207}{}{Sim, Tia Morlis.}
-{208}{}{O fato de estar aqui parado deve significar que você completou sua missão. Você não desperdiçaria um tempo precioso retornando aqui com as mãos vazias, você fez?}
-{209}{}{Sim, Tia Morlis. Quero dizer, não, Tia Morlis. Uh, eu tenho que ir, Tia Morlis.}
-{210}{}{Então, criança. Mais uma vez você está diante de mim. Você está de mãos vazias novamente?}
+{208}{}{O fato de estar aqui parado deve significar que vocÃª completou sua missÃ£o. VocÃª nÃ£o desperdiÃ§aria um tempo precioso retornando aqui com as mÃ£os vazias, vocÃª fez?}
+{209}{}{Sim, Tia Morlis. Quero dizer, nÃ£o, Tia Morlis. Uh, eu tenho que ir, Tia Morlis.}
+{210}{}{EntÃ£o, crianÃ§a. Mais uma vez vocÃª estÃ¡ diante de mim. VocÃª estÃ¡ de mÃ£os vazias novamente?}
 {211}{}{Sim, Tia Morlis.}
 {212}{}{Ouvir, }
-{213}{}{. As pessoas estão morrendo, o gado está morrendo, e as culturas estão falhando. Todo mundo está com fome, doente, ou ambos. Nosso tempo está próximo. Se você não encontrar o GECK logo, estamos condenados. Você me entende?}
+{213}{}{. As pessoas estÃ£o morrendo, o gado estÃ¡ morrendo, e as culturas estÃ£o falhando. Todo mundo estÃ¡ com fome, doente, ou ambos. Nosso tempo estÃ¡ prÃ³ximo. Se vocÃª nÃ£o encontrar o GECK logo, estamos condenados. VocÃª me entende?}
 {214}{}{Sim, Tia Morlis.}
-{215}{}{Então retire-se daqui e encontre o GECK! As pessoas dependem de você!}
+{215}{}{EntÃ£o retire-se daqui e encontre o GECK! As pessoas dependem de vocÃª!}
 {216}{}{Sim, Tia Morlis.}
-{300}{}{Bem, eu pareço ter perdido a pederneira. Oh, bem, pelo menos eu tenho meus pós. Agora com você! Não tenho tempo para fofocar.}
-{301}{}{Por que você me incomoda, sobrinha? Você não vê que estou ocupada?}
-{302}{}{Bem, não consigo achar o pederneira. Tenho certeza de que você tirou isso de mim quando eu não estava olhando. Eu peguei você antes. Agora com você! Não tenho tempo para fofocar.}
-{303}{}{Bem ... Oh, desculpe, mas parece ter perdido o pederneira. Desejo-lhe uma viagem segura, criança.}
-{304}{}{Eu já lhe dei a pederneira, estúpido. Agora pare de desperdiçar meu tempo e saia daqui!}
-{305}{}{Eu já lhe dei a pederneira, estúpido. Oh, bem, pelo menos eu tenho meus pós. Agora com você! Não tenho tempo para fofocar.}
+{300}{}{Bem, eu pareÃ§o ter perdido a pederneira. Oh, bem, pelo menos eu tenho meus pÃ³s. Agora com vocÃª! NÃ£o tenho tempo para fofocar.}
+{301}{}{Por que vocÃª me incomoda, sobrinha? VocÃª nÃ£o vÃª que estou ocupada?}
+{302}{}{Bem, nÃ£o consigo achar o pederneira. Tenho certeza de que vocÃª tirou isso de mim quando eu nÃ£o estava olhando. Eu peguei vocÃª antes. Agora com vocÃª! NÃ£o tenho tempo para fofocar.}
+{303}{}{Bem ... Oh, desculpe, mas parece ter perdido o pederneira. Desejo-lhe uma viagem segura, crianÃ§a.}
+{304}{}{Eu jÃ¡ lhe dei a pederneira, estÃºpido. Agora pare de desperdiÃ§ar meu tempo e saia daqui!}
+{305}{}{Eu jÃ¡ lhe dei a pederneira, estÃºpido. Oh, bem, pelo menos eu tenho meus pÃ³s. Agora com vocÃª! NÃ£o tenho tempo para fofocar.}

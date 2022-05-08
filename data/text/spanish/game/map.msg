@@ -47,8 +47,8 @@
 {146}{}{Cementerio}
 {147}{}{Catedral}
 {148}{}{Base Militar}
-{149}{}{Montañas}
-{150}{}{Montañas}
+{149}{}{MontaÃ±as}
+{150}{}{MontaÃ±as}
 {151}{}{Desierto}
 {152}{}{Desierto}
 {153}{}{Desierto}
@@ -56,13 +56,13 @@
 {155}{}{Hermandad}
 {156}{}{Desierto}
 {157}{}{Desierto}
-{158}{}{Montañas}
-{159}{}{Montañas}
-{160}{}{Campamento Víbora}
+{158}{}{MontaÃ±as}
+{159}{}{MontaÃ±as}
+{160}{}{Campamento VÃ­bora}
 {161}{}{Desierto}
-{162}{}{Montañas}
+{162}{}{MontaÃ±as}
 {163}{}{Desierto}
-{164}{}{Montañas}
+{164}{}{MontaÃ±as}
 {165}{}{APA}
 {166}{}{APA}
 {167}{}{Almacen de APA}
@@ -77,7 +77,7 @@
 {206}{}{Desierto}
 {207}{}{}
 {208}{}{}
-{209}{}{Templo: Vestíbulo}
+{209}{}{Templo: VestÃ­bulo}
 {210}{}{Templo: Pasillos}
 {211}{}{Templo: Santuario interior}
 {212}{}{Aldea}
@@ -105,8 +105,8 @@
 {234}{}{Cuevas de las ratas}
 {235}{}{Cuevas de las ratas}
 {236}{}{Entrada}
-{237}{}{Túneles de Residuos}
-{238}{}{Depósito}
+{237}{}{TÃºneles de Residuos}
+{238}{}{DepÃ³sito}
 {239}{}{Tierras de caza}
 {240}{}{Tierras de caza}
 {241}{}{Tierras de caza}
@@ -119,7 +119,7 @@
 {248}{}{Centro de la ciudad}
 {249}{}{}
 {250}{}{}
-{251}{}{Área del Consejo}
+{251}{}{Ãrea del Consejo}
 {252}{}{}
 {253}{}{}
 {254}{}{Calle Principal}
@@ -153,9 +153,9 @@
 {282}{}{}
 {283}{}{}
 {284}{}{Personal}
-{285}{}{Bahía de almacenaje}
-{286}{}{Laboratorio robótico}
-{287}{}{Laboratorio de investigación biológica}
+{285}{}{BahÃ­a de almacenaje}
+{286}{}{Laboratorio robÃ³tico}
+{287}{}{Laboratorio de investigaciÃ³n biolÃ³gica}
 {288}{}{}
 {289}{}{}
 {290}{}{Refugio: Nivel 1}
@@ -212,9 +212,9 @@
 {341}{}{Salon del Consejo}
 {342}{}{}
 {343}{}{}
-{344}{}{Cañon}
-{345}{}{Cañon}
-{346}{}{Cañon}
+{344}{}{CaÃ±on}
+{345}{}{CaÃ±on}
+{346}{}{CaÃ±on}
 {347}{}{Nivel 1}
 {348}{}{Nivel 2}
 {349}{}{}
@@ -231,22 +231,22 @@
 {360}{}{}
 {361}{}{}
 {362}{}{Calle Virgin}
-{363}{}{Sótano del Desperado}
+{363}{}{SÃ³tano del Desperado}
 {364}{}{2a planta del Desperado}
 {365}{}{Calle Segunda}
-{366}{}{Segunda Planta del Club Tiburón}
+{366}{}{Segunda Planta del Club TiburÃ³n}
 {367}{}{Tercera Planta}
 {368}{}{Zona Oeste}
-{369}{}{Sótano de Armas Nuevo Reno}
+{369}{}{SÃ³tano de Armas Nuevo Reno}
 {370}{}{}
 {371}{}{Zona Este}
-{372}{}{Estación de tren}
+{372}{}{EstaciÃ³n de tren}
 {373}{}{}
 {374}{}{Desguace}
 {375}{}{}
 {376}{}{}
 {377}{}{Cementerio}
-{378}{}{Refugio atómico}
+{378}{}{Refugio atÃ³mico}
 {379}{}{}
 {380}{}{Potreros de Esclavos}
 {381}{}{Laboratorio}
@@ -266,18 +266,18 @@
 {395}{}{Campamento minero}
 {396}{}{Campamento minero}
 {397}{}{Campamento minero}
-{398}{}{Túneles}
-{399}{}{Túneles}
-{400}{}{Túneles}
-{401}{}{Túneles}
-{402}{}{Túneles}
-{403}{}{Túneles}
+{398}{}{TÃºneles}
+{399}{}{TÃºneles}
+{400}{}{TÃºneles}
+{401}{}{TÃºneles}
+{402}{}{TÃºneles}
+{403}{}{TÃºneles}
 {404}{}{Ciudad}
 {405}{}{Ciudad}
 {406}{}{Ciudad}
-{407}{}{Montaña}
-{408}{}{Montaña}
-{409}{}{Montaña}
+{407}{}{MontaÃ±a}
+{408}{}{MontaÃ±a}
+{409}{}{MontaÃ±a}
 {410}{}{Caverna}
 {411}{}{Caverna}
 {412}{}{Caverna}
@@ -290,12 +290,12 @@
 {419}{}{Caverna}
 {420}{}{Caverna}
 {421}{}{Caverna}
-{422}{}{Montaña}
-{423}{}{Montaña}
-{424}{}{Montaña}
-{425}{}{Montaña}
-{426}{}{Montaña}
-{427}{}{Montaña}
+{422}{}{MontaÃ±a}
+{423}{}{MontaÃ±a}
+{424}{}{MontaÃ±a}
+{425}{}{MontaÃ±a}
+{426}{}{MontaÃ±a}
+{427}{}{MontaÃ±a}
 {428}{}{Costa}
 {429}{}{Costa}
 {430}{}{Costa}
@@ -303,10 +303,10 @@
 {432}{}{Costa}
 {433}{}{Costa}
 {434}{}{Centro de la ciudad}
-{435}{}{Sótano}
+{435}{}{SÃ³tano}
 {436}{}{Sin uso}
 {437}{}{Zona residencial}
-{438}{}{Subterráneo}
+{438}{}{SubterrÃ¡neo}
 {439}{}{Mina}
 {440}{}{Caverna}
 {441}{}{Caverna}
@@ -353,9 +353,9 @@
 {482}{}{Desierto}
 {483}{}{Desierto}
 {484}{}{Desierto}
-{485}{}{Montaña}
-{486}{}{Montaña}
-{487}{}{Montaña}
+{485}{}{MontaÃ±a}
+{486}{}{MontaÃ±a}
+{487}{}{MontaÃ±a}
 {488}{}{Desierto}
 {489}{}{Desierto}
 {490}{}{Desierto}
@@ -374,16 +374,16 @@
 {503}{}{Puente de la Muerte}
 {504}{}{Puente de la Muerte}
 {505}{}{Puente de la Muerte}
-{506}{}{Cafe de los Sueños Rotos}
-{507}{}{Cafe de los Sueños Rotos}
-{508}{}{Cafe de los Sueños Rotos}
+{506}{}{Cafe de los SueÃ±os Rotos}
+{507}{}{Cafe de los SueÃ±os Rotos}
+{508}{}{Cafe de los SueÃ±os Rotos}
 {509}{}{Desierto}
 {510}{}{Desierto}
 {511}{}{Desierto}
-{512}{}{Montaña}
+{512}{}{MontaÃ±a}
 {513}{}{Caverna}
 {514}{}{Caverna}
-{515}{}{Guardián}
+{515}{}{GuardiÃ¡n}
 {516}{}{Refugio 13}
 {517}{}{Refugio 13}
 {518}{}{Monton de basura toxica}
@@ -396,7 +396,7 @@
 {525}{}{Desierto}
 {526}{}{Desierto}
 {527}{}{Gasolinera}
-{528}{}{Subterráneo}
+{528}{}{SubterrÃ¡neo}
 {529}{}{Base de vertibirds}
 {530}{}{Litoral}
 {531}{}{Litoral}
@@ -431,18 +431,18 @@
 {560}{}{Caverna}
 {561}{}{Caverna}
 {562}{}{Caverna}
-{563}{}{Montaña}
-{564}{}{Montaña}
-{565}{}{Montaña}
-{566}{}{Montaña}
-{567}{}{Montaña}
-{568}{}{Montaña}
-{569}{}{Montaña}
-{570}{}{Montaña}
-{571}{}{Montaña}
-{572}{}{Montaña}
-{573}{}{Montaña}
-{574}{}{Montaña}
+{563}{}{MontaÃ±a}
+{564}{}{MontaÃ±a}
+{565}{}{MontaÃ±a}
+{566}{}{MontaÃ±a}
+{567}{}{MontaÃ±a}
+{568}{}{MontaÃ±a}
+{569}{}{MontaÃ±a}
+{570}{}{MontaÃ±a}
+{571}{}{MontaÃ±a}
+{572}{}{MontaÃ±a}
+{573}{}{MontaÃ±a}
+{574}{}{MontaÃ±a}
 {575}{}{Ciudad abandonada}
 {576}{}{Ciudad en ruinas}
 {577}{}{Ciudad en ruinas}
@@ -452,9 +452,9 @@
 {581}{}{Puente destruido}
 {582}{}{Puente destruido}
 {583}{}{Puente destruido}
-{584}{}{Celdas de detención}
-{585}{}{Celdas de detención}
-{586}{}{Celdas de detención}
+{584}{}{Celdas de detenciÃ³n}
+{585}{}{Celdas de detenciÃ³n}
+{586}{}{Celdas de detenciÃ³n}
 {587}{}{Muelle}
 {588}{}{Vertibird Descarga De La Almohadilla.}
 {589}{}{Muelle}
@@ -464,9 +464,9 @@
 {593}{}{Barracones de la guardia}
 {594}{}{Barracones de la guardia}
 {595}{}{Barracones de la guardia}
-{596}{}{Área Presidencial}
-{597}{}{Área Presidencial}
-{598}{}{Área Presidencial}
+{596}{}{Ãrea Presidencial}
+{597}{}{Ãrea Presidencial}
+{598}{}{Ãrea Presidencial}
 {599}{}{Reactor}
 {600}{}{Reactor}
 {601}{}{Reactor}
@@ -524,7 +524,7 @@
 {653}{}{Entrada}
 {654}{}{Segunda planta}
 {655}{}{Tercera planta}
-{656}{}{Sótano}
+{656}{}{SÃ³tano}
 {657}{}{introduzca nombre}
 {658}{}{introduzca nombre}
 {659}{}{Cueva}
@@ -537,10 +537,10 @@
 {666}{}{Tribu}
 {667}{}{Tribu}
 {668}{}{Zona de pesca}
-{669}{}{Pequeña Cueva}
+{669}{}{PequeÃ±a Cueva}
 {670}{}{introduzca nombre}
 {671}{}{Entrada}
-{672}{}{El aire, el Agua, y la Potencia de la Instalación}
+{672}{}{El aire, el Agua, y la Potencia de la InstalaciÃ³n}
 {673}{}{Mantenimiento de robots}
 {674}{}{Nivel Uno}
 {675}{}{Nivel Dos}
@@ -595,7 +595,7 @@
 {1505}{}{Gecko}
 {1506}{}{Broken Hills}
 {1507}{}{Nuevo Reno}
-{1508}{}{Almacén Militar Sierra}
+{1508}{}{AlmacÃ©n Militar Sierra}
 {1509}{}{Refugio 15}
 {1510}{}{RNC}
 {1511}{}{Refugio 13}
@@ -604,7 +604,7 @@
 {1514}{}{San Francisco}
 {1515}{}{Navarro}
 {1516}{}{El Enclave}
-{1517}{}{Abadía}
+{1517}{}{AbadÃ­a}
 {1518}{}{Umbra Tribu}
 {1519}{}{APA}
 {1520}{}{Granja fantasma}
@@ -614,17 +614,17 @@
 {1524}{}{Incursion esclavista de La Guarida}
 {1525}{}{Raiders}
 {1526}{}{Desierto}
-{1527}{}{Montaña}
+{1527}{}{MontaÃ±a}
 {1528}{}{Ciudad en ruinas}
 {1529}{}{Costa}
-{1530}{}{Gólgota}
+{1530}{}{GÃ³lgota}
 {1531}{}{Ballena varada}
 {1532}{}{Hombre de hojalata}
 {1533}{}{Cabeza parlante}
 {1534}{}{Nave de la Federacion}
 {1535}{}{Pueblerinos Sucios}
 {1536}{}{Puente}
-{1537}{}{Cafe de los Sueños Rotos}
+{1537}{}{Cafe de los SueÃ±os Rotos}
 {1538}{}{Paladines}
 {1539}{}{Cueva de la Rata Vorpal}
 {1540}{}{Guardian de la Eternidad}

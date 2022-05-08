@@ -1,3 +1,3 @@
-{100}{}{Elriasztottál egy sereg kesely?t, amelyek egy halott csordán lakmároztak.}
-{101}{}{Húúh! Nincs rosszabb, mint a rothadó hús a t?z? napon.}
+{100}{}{ElriasztottÃ¡l egy sereg kesely?t, amelyek egy halott csordÃ¡n lakmÃ¡roztak.}
+{101}{}{HÃºÃºh! Nincs rosszabb, mint a rothadÃ³ hÃºs a t?z? napon.}
 {102}{}{Istenem, ez Bess!}

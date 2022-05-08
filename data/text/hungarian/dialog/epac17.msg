@@ -17,7 +17,7 @@
 {132}{}{OK, thanks.}
 {140}{}{I see you are adequately skilled in the ways of science. Maybe you could understand what I do here after all. What do you wish to know?}
 {141}{}{Why are you here?}
-{142}{}{Mi a munk·d?}
+{142}{}{Mi a munk√°d?}
 {150}{}{I'm sorry, but I don't believe you have the skills required to understand what I'm doing here. Come back when you're mentally tougher.}
 {151}{}{Whoa, just a minute. I'll have a go at anything you give me!}
 {152}{}{Well, all right then. Goodbye.}
@@ -30,7 +30,7 @@
 {181}{}{I most certainly am not. Try me.}
 {190}{}{<smiles> Well, maybe so. OK, if you wish, I'll give you a chance. What would you like to know then?}
 {191}{}{Why are you here?}
-{192}{}{Mi a munk·d?}
+{192}{}{Mi a munk√°d?}
 {200}{}{Why of course! Nobody to watch over me. No rules whatsoever. I do whatever I want, whenever I want. Also, with only me being left here, I have access to all the equipment I would ever need. Anything else?}
 {201}{}{Who are the people over there in those cages?}
 {202}{}{What's all the funny colored liquid I've seen around the EPA?}
@@ -129,7 +129,7 @@
 {530}{}{Have you sorted out the power problem yet?}
 {531}{}{Yes, yes, yes, I don't need to know the specifics. Thanks. Now, I still have one more task if you wish to undertake it.}
 {532}{}{Mi van?}
-{533}{}{Nem, mÈg dolgozgatom rajta.}
+{533}{}{Nem, m√©g dolgozgatom rajta.}
 {540}{}{I am experimenting with a new serum at the moment to improve the agility and awareness of people to help them survive in this harsh world. You'd allow me to try it on you, wouldn't you?}
 {541}{}{Well... I suppose so, what harm could it do?}
 {550}{}{More than you'd ever believe if it goes wrong... Now hold still and let's get down to it!}
@@ -139,7 +139,7 @@
 {570}{}{You just blacked out for a couple of hours, but you should be fine now. Indications show you are much more alert and responsive.}
 {571}{}{Wow! Thanks, Doctor.}
 {580}{}{No problem. If you ever need anything, let me know.}
-{581}{}{⁄gy lesz. Viszl·t!}
+{581}{}{√ögy lesz. Viszl√°t!}
 {590}{}{Have you decided to help me yet?}
 {591}{}{Yes, I will help you. I'll return when the power is restored.}
 {592}{}{Bocs, de nem.}
@@ -153,7 +153,7 @@
 {703}{}{When the war started, the other scientists and I used the cryogenic storage chambers. We handed over more control of the facility to the holograms and robots, then put ourselves in the chambers to wait out the worst of the destruction.}
 {704}{}{But, the great war was over many, many years ago.}
 {705}{}{True. We initially came out of hibernation about 90 years ago, and discovered that this place had deteriorated greatly. Most of the other scientists here continued some of their original research, as they didn't really know what else to do.}
-{706}{}{[TOV¡BB]}
+{706}{}{[TOV√ÅBB]}
 {707}{}{I couldn't believe their scientific short-sightedness... their utter lack of imagination! We had an incredible opportunity to do some amazing things. We had the chance to remake things how we saw fit. Sadly, my comrades paid for their lack of vision...}
 {708}{}{You killed them!?}
 {709}{}{Understandable.}
@@ -180,7 +180,7 @@
 {730}{}{So, are you happy with this situation? I mean, being the only one here?}
 {731}{}{What else would you like to know about?}
 {800}{}{Actually, wait one second. You look like an adventurous type. I may have a use for someone of your skills.}
-{801}{}{Persze. Mire van sz¸ksÈge?}
+{801}{}{Persze. Mire van sz√ºks√©ge?}
 {802}{}{No thanks. Bye.}
 {803}{}{Well, I was out collecting samples at one of my work sites and I seem to have left one of my tools there. Normally
  I would just go and get it myself, but I'm extremely busy at the moment and for the life of me I cannot remember the exact
@@ -202,7 +202,7 @@
 {841}{}{[You ignore the man's reaction.] Alright, well if you need anything else, let me know. Bye.}
 {850}{}{That's none of your business. [He snatches the tool from your hand.] Now, get out of here. I've got things to do. [He looks
  away muttering to himself.]}
-{851}{}{Ahogy gondolja. Viszl·t!}
+{851}{}{Ahogy gondolja. Viszl√°t!}
 {852}{}{I don't think so. You tried to kill me and now I will return the favor. Prepare to die!}
 {860}{}{Uh, yes, of course. Well, get to it then.}
 {861}{}{[DONE]}

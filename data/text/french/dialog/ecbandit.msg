@@ -10,8 +10,8 @@
 {204}{}{On ne bouge plus ! C'est un hold-up !}
 {205}{}{Mains en l'air !}
 {206}{}{Garde tes mains en l'air !}
-{207}{}{Pas de panique, ça sera fini dans une minute !}
-{208}{}{Voyons un peu ces mains par là-bas !}
+{207}{}{Pas de panique, Ã§a sera fini dans une minute !}
+{208}{}{Voyons un peu ces mains par lÃ -bas !}
 {209}{}{Couvrez-moi, les mecs !}
 {210}{}{Ne rends pas les choses plus difficiles !}
 {211}{}{Passe-moi le butin !}

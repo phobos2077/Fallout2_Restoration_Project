@@ -1,16 +1,16 @@
-{100}{}{Egy jellegzetes menedék-ajtót látsz.}
-{101}{}{Ez egy jellegzetes menedék-ajtó. Úgy t?nik, az áramellátása megsz?nt.}
-{102}{}{Ajtó nem mozdul.}
-{103}{}{Ez az ajtó beragadt. A kinyitásához egy igen er?s ember kellene.}
+{100}{}{Egy jellegzetes menedÃ©k-ajtÃ³t lÃ¡tsz.}
+{101}{}{Ez egy jellegzetes menedÃ©k-ajtÃ³. Ãšgy t?nik, az Ã¡ramellÃ¡tÃ¡sa megsz?nt.}
+{102}{}{AjtÃ³ nem mozdul.}
+{103}{}{Ez az ajtÃ³ beragadt. A kinyitÃ¡sÃ¡hoz egy igen er?s ember kellene.}
 {104}{}{*Hrnnnnnn*... *hfff*... *hfff*}
-{105}{}{Még a feszít?vassal együtt sem vagy elég er?s, hogy kinyisd az ajtót.}
+{105}{}{MÃ©g a feszÃ­t?vassal egyÃ¼tt sem vagy elÃ©g er?s, hogy kinyisd az ajtÃ³t.}
 {106}{}{*Hrnnnnnn*}
-{107}{}{A feszít?vassal sikerült kinyitnod az ajtót!}
+{107}{}{A feszÃ­t?vassal sikerÃ¼lt kinyitnod az ajtÃ³t!}
 {108}{}{*Hrnnnnn*}
-{109}{}{A nyers fizikai er?ddel sikerült kinyitnod az ajtót!}
+{109}{}{A nyers fizikai er?ddel sikerÃ¼lt kinyitnod az ajtÃ³t!}
 {110}{}{Ez igen! Meg sem kottyant neki.}
 {111}{}{BOOM no hurt door.}
-{112}{}{Az ajtó beragadt, nincs zárva.}
+{112}{}{Az ajtÃ³ beragadt, nincs zÃ¡rva.}
 {113}{}{Door stuckie not lockie.}
-{114}{}{Az ajtó nem fog becsukódni. Megakadt.}
-{115}{}{Ajtó nem mozdul.}
+{114}{}{Az ajtÃ³ nem fog becsukÃ³dni. Megakadt.}
+{115}{}{AjtÃ³ nem mozdul.}

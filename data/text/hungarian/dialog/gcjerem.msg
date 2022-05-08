@@ -1,49 +1,49 @@
-{100}{}{Egy borotvált fej? ghoult látsz.}
-{101}{}{? Jeremy, a raktáros.}
-{102}{}{Egy magas, sovány ghoult látsz magad el?tt. A jóember nagyon elfoglaltnak t?nik.}
-{110}{}{Üdv, Jeremynek hívnak. Engem bíztak meg itt a raktárosi teend?kkel. Minden ki- és bejöv? anyag átmegy a kezem közt.}
-{111}{}{Üdv! Csak úgy benéztél a csodaraktárunkba, vagy akarsz is valamit innen?}
-{112}{}{Mit?l csoda ez a raktár?}
-{113}{}{Kéne ez-az a raktárból.}
-{114}{}{Most nem kell semmi. Csak szemlél?döm. Hali...}
-{120}{}{Ha kell valami a raktárból, csak szerezz egy igényl?lapot. Van neked olyanod?}
-{121}{}{Van hát. Tessék.}
-{122}{}{Hát nem igazán. Honnan szerezzek igényl?lapot?}
-{130}{}{Hát ez eléggé annak néz ki. Mire van szükséged tehát?}
-{131}{}{Egy háromfázisú plazmaátalakítóra.}
-{132}{}{Egy háromfázisú plazmaátalakítóra. Megmondjam, mire kell?}
-{133}{}{Egy mohaborította, háromnyel? gredundzára.}
-{140}{}{Szerintem van egy itt a szekrényben. Igen-igen. Tessék.}
-{141}{}{Hmm, nem éppen a legújabb modell, de megteszi. Köszi. Viszlát!}
-{150}{}{Nem igazán akarom tudni. Szerintem találunk egyet itt a szekrény mélyén. Bizony-bizony. Tessék.}
-{151}{}{Hmm, nem éppen a legújabb modell, de megteszi. Köszi. Viszlát!}
-{160}{}{Most nem érek rá, nagyon sok dolgom van.}
-{161}{}{You see, it’s all about stuff.}
-{162}{}{You see, it’s all about ideas.}
-{163}{}{You see, it’s all about words.}
-{164}{}{You see, it’s all about Natas.}
-{165}{}{You see, it’s all about bald-headed monkeys.}
-{166}{}{You see, it’s all about secrets.}
-{167}{}{You see, it’s all about marketing.}
-{170}{}{Oké, oké, talán nem annyira csoda ez a raktár, de azért éppen elég fontos. Szükséged van valamire?}
-{171}{}{Kéne valami a raktárból.}
-{172}{}{Á, semmi-semmi. Csak bóklászok itt összevissza. Na, üdv...}
-{180}{}{Nem hiszem el, milyen fazonokat engednek be ide mostanában!}
-{181}{}{Te aztán izomból zaza vagy mi?}
-{182}{}{Nehogy a reaktormag közelébe merészkedj!}
-{183}{}{Hát, most sajnos túl elfoglalt vagyok, hogy felolvasást tartsak neked.}
-{184}{}{Mozgás... gyerünk el?re. Rendes kis simab?r?...}
-{190}{}{Mi a franckarika kell neked? Az ilyesmire várni kell. Szolgálhatok valami egyébbel?}
-{191}{}{Szerintem maradok a háromfázisú plazmaátalakítónál.}
-{192}{}{Fenébe. Más nem jó. Kés?bb még visszajövök...}
-{200}{}{Hmm, ugye nem Skeeter barátja vagy? Néha sikerül magának egy-egy értékesebb dolgot kihozatnia másokkal. Aztán szétkapja a cuccost, és tönkreteszi. Egy kenyérpirítót se bíznék rá.}
-{201}{}{Hát az a nagy helyzet, hogy éppen Skeeternek viszem.}
-{202}{}{Miféle Skeeterr?l beszélsz? Az a dolgom, hogy visszavigyek egy alkatrészt a reaktor irányítóterembe, hogy megjavítsam a... Nézd csak! Az ott nem egy patkány?}
-{203}{}{G?zöm nincs, mit fognak csinálni azzal a vacakkal. Én csak cipelem.}
+{100}{}{Egy borotvÃ¡lt fej? ghoult lÃ¡tsz.}
+{101}{}{? Jeremy, a raktÃ¡ros.}
+{102}{}{Egy magas, sovÃ¡ny ghoult lÃ¡tsz magad el?tt. A jÃ³ember nagyon elfoglaltnak t?nik.}
+{110}{}{Ãœdv, Jeremynek hÃ­vnak. Engem bÃ­ztak meg itt a raktÃ¡rosi teend?kkel. Minden ki- Ã©s bejÃ¶v? anyag Ã¡tmegy a kezem kÃ¶zt.}
+{111}{}{Ãœdv! Csak Ãºgy benÃ©ztÃ©l a csodaraktÃ¡runkba, vagy akarsz is valamit innen?}
+{112}{}{Mit?l csoda ez a raktÃ¡r?}
+{113}{}{KÃ©ne ez-az a raktÃ¡rbÃ³l.}
+{114}{}{Most nem kell semmi. Csak szemlÃ©l?dÃ¶m. Hali...}
+{120}{}{Ha kell valami a raktÃ¡rbÃ³l, csak szerezz egy igÃ©nyl?lapot. Van neked olyanod?}
+{121}{}{Van hÃ¡t. TessÃ©k.}
+{122}{}{HÃ¡t nem igazÃ¡n. Honnan szerezzek igÃ©nyl?lapot?}
+{130}{}{HÃ¡t ez elÃ©ggÃ© annak nÃ©z ki. Mire van szÃ¼ksÃ©ged tehÃ¡t?}
+{131}{}{Egy hÃ¡romfÃ¡zisÃº plazmaÃ¡talakÃ­tÃ³ra.}
+{132}{}{Egy hÃ¡romfÃ¡zisÃº plazmaÃ¡talakÃ­tÃ³ra. Megmondjam, mire kell?}
+{133}{}{Egy mohaborÃ­totta, hÃ¡romnyel? gredundzÃ¡ra.}
+{140}{}{Szerintem van egy itt a szekrÃ©nyben. Igen-igen. TessÃ©k.}
+{141}{}{Hmm, nem Ã©ppen a legÃºjabb modell, de megteszi. KÃ¶szi. ViszlÃ¡t!}
+{150}{}{Nem igazÃ¡n akarom tudni. Szerintem talÃ¡lunk egyet itt a szekrÃ©ny mÃ©lyÃ©n. Bizony-bizony. TessÃ©k.}
+{151}{}{Hmm, nem Ã©ppen a legÃºjabb modell, de megteszi. KÃ¶szi. ViszlÃ¡t!}
+{160}{}{Most nem Ã©rek rÃ¡, nagyon sok dolgom van.}
+{161}{}{You see, itâ€™s all about stuff.}
+{162}{}{You see, itâ€™s all about ideas.}
+{163}{}{You see, itâ€™s all about words.}
+{164}{}{You see, itâ€™s all about Natas.}
+{165}{}{You see, itâ€™s all about bald-headed monkeys.}
+{166}{}{You see, itâ€™s all about secrets.}
+{167}{}{You see, itâ€™s all about marketing.}
+{170}{}{OkÃ©, okÃ©, talÃ¡n nem annyira csoda ez a raktÃ¡r, de azÃ©rt Ã©ppen elÃ©g fontos. SzÃ¼ksÃ©ged van valamire?}
+{171}{}{KÃ©ne valami a raktÃ¡rbÃ³l.}
+{172}{}{Ã, semmi-semmi. Csak bÃ³klÃ¡szok itt Ã¶sszevissza. Na, Ã¼dv...}
+{180}{}{Nem hiszem el, milyen fazonokat engednek be ide mostanÃ¡ban!}
+{181}{}{Te aztÃ¡n izombÃ³l zaza vagy mi?}
+{182}{}{Nehogy a reaktormag kÃ¶zelÃ©be merÃ©szkedj!}
+{183}{}{HÃ¡t, most sajnos tÃºl elfoglalt vagyok, hogy felolvasÃ¡st tartsak neked.}
+{184}{}{MozgÃ¡s... gyerÃ¼nk el?re. Rendes kis simab?r?...}
+{190}{}{Mi a franckarika kell neked? Az ilyesmire vÃ¡rni kell. SzolgÃ¡lhatok valami egyÃ©bbel?}
+{191}{}{Szerintem maradok a hÃ¡romfÃ¡zisÃº plazmaÃ¡talakÃ­tÃ³nÃ¡l.}
+{192}{}{FenÃ©be. MÃ¡s nem jÃ³. KÃ©s?bb mÃ©g visszajÃ¶vÃ¶k...}
+{200}{}{Hmm, ugye nem Skeeter barÃ¡tja vagy? NÃ©ha sikerÃ¼l magÃ¡nak egy-egy Ã©rtÃ©kesebb dolgot kihozatnia mÃ¡sokkal. AztÃ¡n szÃ©tkapja a cuccost, Ã©s tÃ¶nkreteszi. Egy kenyÃ©rpirÃ­tÃ³t se bÃ­znÃ©k rÃ¡.}
+{201}{}{HÃ¡t az a nagy helyzet, hogy Ã©ppen Skeeternek viszem.}
+{202}{}{MifÃ©le Skeeterr?l beszÃ©lsz? Az a dolgom, hogy visszavigyek egy alkatrÃ©szt a reaktor irÃ¡nyÃ­tÃ³terembe, hogy megjavÃ­tsam a... NÃ©zd csak! Az ott nem egy patkÃ¡ny?}
+{203}{}{G?zÃ¶m nincs, mit fognak csinÃ¡lni azzal a vacakkal. Ã‰n csak cipelem.}
 {210}{}{I should have expected that. How the hell did Skeeter get anyone to authorize him getting a
  part, though? I just hope he doesn't blow anything up this time. Oh well. Not my business, I suppose.}
-{211}{}{Ja igen, az alkatrész! Indulnom kéne vele...}
-{220}{}{Szerezhetsz egyet akár Haroldtól a városban, vagy Festustól a f? reaktorirányító teremben. Engem hidegen hagy, honnan szerzed meg, ha megszerzed. Ha nincs igényl?lap, nincs alkatrész. Punktum. Így m?ködnek itt a dolgok.}
-{221}{}{Megszerezted már az igényl?lapot? Anélkül nem adhatok ki semmit.}
-{222}{}{Ah, értem. Látom, akkor szereznem kell egyet. Kés?bb még jövök.}
+{211}{}{Ja igen, az alkatrÃ©sz! Indulnom kÃ©ne vele...}
+{220}{}{Szerezhetsz egyet akÃ¡r HaroldtÃ³l a vÃ¡rosban, vagy FestustÃ³l a f? reaktorirÃ¡nyÃ­tÃ³ teremben. Engem hidegen hagy, honnan szerzed meg, ha megszerzed. Ha nincs igÃ©nyl?lap, nincs alkatrÃ©sz. Punktum. Ãgy m?kÃ¶dnek itt a dolgok.}
+{221}{}{Megszerezted mÃ¡r az igÃ©nyl?lapot? AnÃ©lkÃ¼l nem adhatok ki semmit.}
+{222}{}{Ah, Ã©rtem. LÃ¡tom, akkor szereznem kell egyet. KÃ©s?bb mÃ©g jÃ¶vÃ¶k.}
 {300}{}{Actually, I think I'll get it later. Goodbye.}

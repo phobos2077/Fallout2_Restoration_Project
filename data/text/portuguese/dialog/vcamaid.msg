@@ -1,8 +1,8 @@
-{100}{}{Você vê um Cidadão.}
-{101}{}{Você vê o auxiliar de Equipamentos.}
+{100}{}{VocÃª vÃª um CidadÃ£o.}
+{101}{}{VocÃª vÃª o auxiliar de Equipamentos.}
 {102}{}{Converse com o Randal se precisar de ajuda.}
-{103}{}{Aqui é onde distribuímos bens para o uso dos Cidadãos.}
-{104}{}{Tire as mãos dos materiais se você não tem a autorização.}
-{105}{}{Isso é um trabalho.}
-{106}{}{Randal pode ajudar com o que você precisa.}
-{107}{}{As máquinas do Vault fazem um monte dessas coisas.}
+{103}{}{Aqui Ã© onde distribuÃ­mos bens para o uso dos CidadÃ£os.}
+{104}{}{Tire as mÃ£os dos materiais se vocÃª nÃ£o tem a autorizaÃ§Ã£o.}
+{105}{}{Isso Ã© um trabalho.}
+{106}{}{Randal pode ajudar com o que vocÃª precisa.}
+{107}{}{As mÃ¡quinas do Vault fazem um monte dessas coisas.}

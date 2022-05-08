@@ -1,86 +1,86 @@
-{100}{}{Ez itt egy ösztövér, vén fickó, a füle mögött golyóstollal, az orrán pedig szemüveg billeg.}
-{101}{}{Vortis, e rabszolga-karám felügyel?je.}
-{102}{}{A fickónak kábé három foga van. Az ujját és az ingét tintapacák csúfítják. A homlokán egy meglehet?sen halvány rabszolga-hajcsár tetoválás díszlik.}
-{103}{}{Szóval mit is akarsz?}
-{104}{}{Testvérem, üdvözlünk Vortis papánál. Miben segíthetek?}
+{100}{}{Ez itt egy Ã¶sztÃ¶vÃ©r, vÃ©n fickÃ³, a fÃ¼le mÃ¶gÃ¶tt golyÃ³stollal, az orrÃ¡n pedig szemÃ¼veg billeg.}
+{101}{}{Vortis, e rabszolga-karÃ¡m felÃ¼gyel?je.}
+{102}{}{A fickÃ³nak kÃ¡bÃ© hÃ¡rom foga van. Az ujjÃ¡t Ã©s az ingÃ©t tintapacÃ¡k csÃºfÃ­tjÃ¡k. A homlokÃ¡n egy meglehet?sen halvÃ¡ny rabszolga-hajcsÃ¡r tetovÃ¡lÃ¡s dÃ­szlik.}
+{103}{}{SzÃ³val mit is akarsz?}
+{104}{}{TestvÃ©rem, Ã¼dvÃ¶zlÃ¼nk Vortis papÃ¡nÃ¡l. Miben segÃ­thetek?}
 {105}{}{Kezdesz bosszantani...}
 {106}{}{This place is my place and I, Vortis, run an honest and legitimate business no matter what anybody in NCR tells you. Since NCR doesn't allow slaves inside the gates, I mind them for folks who've got business inside.}
-{107}{}{Mi van, meggárgyultál? Ez egy rabszolga-karám. Engedélyem van rá.}
+{107}{}{Mi van, meggÃ¡rgyultÃ¡l? Ez egy rabszolga-karÃ¡m. EngedÃ©lyem van rÃ¡.}
 {108}{}{}
-{109}{}{Csak néhány kérdést tennék fel...}
-{110}{}{Munkát keresek.}
-{111}{}{Öh?}
-{112}{}{Nem budi? Menek innét elfele.}
-{113}{}{Mire való ez a hely?}
+{109}{}{Csak nÃ©hÃ¡ny kÃ©rdÃ©st tennÃ©k fel...}
+{110}{}{MunkÃ¡t keresek.}
+{111}{}{Ã–h?}
+{112}{}{Nem budi? Menek innÃ©t elfele.}
+{113}{}{Mire valÃ³ ez a hely?}
 {114}{}{Semmi. Rossz hely.}
-{115}{}{Nézzétek már... egy kis jótét lélek, egy nyalókáért ácsingózó kölyök jött hozzánk... Fiúk, vezessétek el a szemem el?l ezt a kétszín?, álszentesked? díszpéldányt!}
-{116}{}{Baszódj meg!}
+{115}{}{NÃ©zzÃ©tek mÃ¡r... egy kis jÃ³tÃ©t lÃ©lek, egy nyalÃ³kÃ¡Ã©rt Ã¡csingÃ³zÃ³ kÃ¶lyÃ¶k jÃ¶tt hozzÃ¡nk... FiÃºk, vezessÃ©tek el a szemem el?l ezt a kÃ©tszÃ­n?, Ã¡lszentesked? dÃ­szpÃ©ldÃ¡nyt!}
+{116}{}{BaszÃ³dj meg!}
 {117}{}{Igen?}
-{118}{}{A 13-as Menedéket keresem.}
-{119}{}{Nincs egy ÉLETED?}
-{120}{}{Mit tud mondani err?l a városról?}
-{121}{}{Te egy mocsokláda hajcsár vagy! Egy okot mondj, hogy ne öljelek meg!}
-{122}{}{Úgy hallottam, van itt egy kompánia, akiket az Új Kaliforniai Felderít?knek neveznek. Nem törnek borsot az orrod alá?}
-{123}{}{Nem bánod, ha körbenézek?}
-{124}{}{Munkát keresel? Hát... lehet, hogy volna valami. Hallottál valaha az Új Kaliforniai Felderít?kr?l?}
+{118}{}{A 13-as MenedÃ©ket keresem.}
+{119}{}{Nincs egy Ã‰LETED?}
+{120}{}{Mit tud mondani err?l a vÃ¡rosrÃ³l?}
+{121}{}{Te egy mocsoklÃ¡da hajcsÃ¡r vagy! Egy okot mondj, hogy ne Ã¶ljelek meg!}
+{122}{}{Ãšgy hallottam, van itt egy kompÃ¡nia, akiket az Ãšj Kaliforniai FelderÃ­t?knek neveznek. Nem tÃ¶rnek borsot az orrod alÃ¡?}
+{123}{}{Nem bÃ¡nod, ha kÃ¶rbenÃ©zek?}
+{124}{}{MunkÃ¡t keresel? HÃ¡t... lehet, hogy volna valami. HallottÃ¡l valaha az Ãšj Kaliforniai FelderÃ­t?kr?l?}
 {125}{}{Igen.}
 {126}{}{Nem.}
-{127}{}{Baszódj meg, ott ahol vagy! Fiúk, vigyétek ki innen ezt a bosszantó kis mocskot!}
+{127}{}{BaszÃ³dj meg, ott ahol vagy! FiÃºk, vigyÃ©tek ki innen ezt a bosszantÃ³ kis mocskot!}
 {128}{}{Cseszd meg!}
-{129}{}{13-as Menedék?! T?nj innen a francba! Az egy kamu hely! Méghogy 13-as Menedék... meg a valagam.}
-{130}{}{Lenne még valami...}
-{131}{}{Hát, köszi, bár sokra nem mentem vele.}
-{132}{}{Egy micsodám? Hát, nem tudom, mi az, de nincs nekem olyanom.}
-{133}{}{Lenne még valami...}
-{134}{}{Hát, köszi, bár sokra nem mentem vele.}
-{135}{}{Új Kaliforniai Köztársaság - csupa önmegtartóztató meg keresked? lakik itt. Nem csípik a hajcsárokat meg a rabszolgaságot, de hát az istenit, ez a munkám!}
-{136}{}{Lenne még valami...}
-{137}{}{Kösz, most mennem kell.}
-{138}{}{Valaki rossz irányba terelt téged. Nincs nekem bajom senkivel, különösen nem a Felderít?kkel. Teljesen legálisan m?ködöm itt, szóval nem érheti szó a ház elejét.}
-{139}{}{Lenne még valami...}
+{129}{}{13-as MenedÃ©k?! T?nj innen a francba! Az egy kamu hely! MÃ©ghogy 13-as MenedÃ©k... meg a valagam.}
+{130}{}{Lenne mÃ©g valami...}
+{131}{}{HÃ¡t, kÃ¶szi, bÃ¡r sokra nem mentem vele.}
+{132}{}{Egy micsodÃ¡m? HÃ¡t, nem tudom, mi az, de nincs nekem olyanom.}
+{133}{}{Lenne mÃ©g valami...}
+{134}{}{HÃ¡t, kÃ¶szi, bÃ¡r sokra nem mentem vele.}
+{135}{}{Ãšj Kaliforniai KÃ¶ztÃ¡rsasÃ¡g - csupa Ã¶nmegtartÃ³ztatÃ³ meg keresked? lakik itt. Nem csÃ­pik a hajcsÃ¡rokat meg a rabszolgasÃ¡got, de hÃ¡t az istenit, ez a munkÃ¡m!}
+{136}{}{Lenne mÃ©g valami...}
+{137}{}{KÃ¶sz, most mennem kell.}
+{138}{}{Valaki rossz irÃ¡nyba terelt tÃ©ged. Nincs nekem bajom senkivel, kÃ¼lÃ¶nÃ¶sen nem a FelderÃ­t?kkel. Teljesen legÃ¡lisan m?kÃ¶dÃ¶m itt, szÃ³val nem Ã©rheti szÃ³ a hÃ¡z elejÃ©t.}
+{139}{}{Lenne mÃ©g valami...}
 {140}{}{Mondhatsz, amit akarsz, nekem most mennem kell.}
-{141}{}{Igen, a felderít?k bandája a szívem csücske. Munkát keresel?}
+{141}{}{Igen, a felderÃ­t?k bandÃ¡ja a szÃ­vem csÃ¼cske. MunkÃ¡t keresel?}
 {142}{}{Igen.}
 {143}{}{Nem.}
-{144}{}{Nem, te csak ne nézel?dj itt, szararcú! Ez nem múzeum!}
-{145}{}{Lenne még valami...}
-{146}{}{Túl ingerlékeny vagy. Engedelmeddel távozom.}
-{147}{}{Ami azt illeti... egyesek potenciális problémát látnak bennük. Szerfelett örülnénk neki, ha az északi területeken, New Reno, Klamath meg ilyenek környékén lév? rejtekhelyeikr?l térképet szerezhetnénk. Fizetnék érte vagy 500 dollárt. Szerinted tudnál ilyesmit szerezni?}
+{144}{}{Nem, te csak ne nÃ©zel?dj itt, szararcÃº! Ez nem mÃºzeum!}
+{145}{}{Lenne mÃ©g valami...}
+{146}{}{TÃºl ingerlÃ©keny vagy. Engedelmeddel tÃ¡vozom.}
+{147}{}{Ami azt illeti... egyesek potenciÃ¡lis problÃ©mÃ¡t lÃ¡tnak bennÃ¼k. Szerfelett Ã¶rÃ¼lnÃ©nk neki, ha az Ã©szaki terÃ¼leteken, New Reno, Klamath meg ilyenek kÃ¶rnyÃ©kÃ©n lÃ©v? rejtekhelyeikr?l tÃ©rkÃ©pet szerezhetnÃ©nk. FizetnÃ©k Ã©rte vagy 500 dollÃ¡rt. Szerinted tudnÃ¡l ilyesmit szerezni?}
 {148}{}{Hogyne.}
-{149}{}{Nem hinném.}
-{150}{}{Elmondok valamit akkor. Ezek a Felderít?k azt vették a fejükbe, hogy a hajcsárokat és magát a rabszolgaságot is eltörlik a föld színér?l. Er?vel. Sok problémát okoznak egy rakás keményen dolgozó embernek.}
-{151}{}{Titokban m?ködnek, különösen északon.}
-{152}{}{A jóéletbe! Külön magyarázatot kell benyújtanom? Megtámadják a rabszolga-keresked?ket, elhajtják az állományt, és lehozzák délre, az ÚKK-ba, ahol a rabszolga-tartás illegális. Na, érdekel?}
-{153}{}{Nincs semmiféle "és"! Akarod a munkát vagy sem?}
-{154}{}{És?}
-{155}{}{Szóval mit akarsz, hogy tegyek?}
-{156}{}{Remek. Amint megszerzed a térképet, itt leszek.}
-{157}{}{Hol találjak térképet?}
-{158}{}{Oké, volna néhány kérdésem azért...}
-{159}{}{Benne vagyok. Találkozunk kés?bb.}
-{160}{}{Honnan a francból tudjam!? Ha tudnám, nálam lenne, nem igaz? Figyelj rám, van egy sejt a városban. Találd meg ?ket, és gondold át, mire mehetsz velük!}
-{161}{}{Csak még néhány kérdést, ha lehet...}
-{162}{}{Rendben. Kés?bb jövök...}
-{163}{}{Szóval megint itt vagy... Megszerezted azt a térképet?}
+{149}{}{Nem hinnÃ©m.}
+{150}{}{Elmondok valamit akkor. Ezek a FelderÃ­t?k azt vettÃ©k a fejÃ¼kbe, hogy a hajcsÃ¡rokat Ã©s magÃ¡t a rabszolgasÃ¡got is eltÃ¶rlik a fÃ¶ld szÃ­nÃ©r?l. Er?vel. Sok problÃ©mÃ¡t okoznak egy rakÃ¡s kemÃ©nyen dolgozÃ³ embernek.}
+{151}{}{Titokban m?kÃ¶dnek, kÃ¼lÃ¶nÃ¶sen Ã©szakon.}
+{152}{}{A jÃ³Ã©letbe! KÃ¼lÃ¶n magyarÃ¡zatot kell benyÃºjtanom? MegtÃ¡madjÃ¡k a rabszolga-keresked?ket, elhajtjÃ¡k az Ã¡llomÃ¡nyt, Ã©s lehozzÃ¡k dÃ©lre, az ÃšKK-ba, ahol a rabszolga-tartÃ¡s illegÃ¡lis. Na, Ã©rdekel?}
+{153}{}{Nincs semmifÃ©le "Ã©s"! Akarod a munkÃ¡t vagy sem?}
+{154}{}{Ã‰s?}
+{155}{}{SzÃ³val mit akarsz, hogy tegyek?}
+{156}{}{Remek. Amint megszerzed a tÃ©rkÃ©pet, itt leszek.}
+{157}{}{Hol talÃ¡ljak tÃ©rkÃ©pet?}
+{158}{}{OkÃ©, volna nÃ©hÃ¡ny kÃ©rdÃ©sem azÃ©rt...}
+{159}{}{Benne vagyok. TalÃ¡lkozunk kÃ©s?bb.}
+{160}{}{Honnan a francbÃ³l tudjam!? Ha tudnÃ¡m, nÃ¡lam lenne, nem igaz? Figyelj rÃ¡m, van egy sejt a vÃ¡rosban. TalÃ¡ld meg ?ket, Ã©s gondold Ã¡t, mire mehetsz velÃ¼k!}
+{161}{}{Csak mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st, ha lehet...}
+{162}{}{Rendben. KÃ©s?bb jÃ¶vÃ¶k...}
+{163}{}{SzÃ³val megint itt vagy... Megszerezted azt a tÃ©rkÃ©pet?}
 {164}{}{Igen.}
 {165}{}{Nem.}
-{166}{}{Még mindig várom, hogy teljesítsd az els? feladatot!}
+{166}{}{MÃ©g mindig vÃ¡rom, hogy teljesÃ­tsd az els? feladatot!}
 {167}{}{Oh yeah, I forgot.}
-{168}{}{Nem, mivel megcsináltad a munkát. Köszönöm.}
-{169}{}{Csak egy vagy két kérdést még...}
-{170}{}{Semmi baj. Viszlát!}
-{171}{}{Jó munka volt! Most viszont jobb, ha felszívódsz! Ha esetleg azok a Felderít?k rájönnének erre-arra...}
-{172}{}{Öröm, ha együtt üzletelünk.}
-{173}{}{Ne lófrálj már itt, te üt?dött! Valaki még gyanút foghat!}
-{174}{}{Rendben, veszem én az adást...}
-{175}{}{Mi a faszom...? ?rség! Fogtam egy behatolót!}
-{176}{}{Csak menj be oda, és lerobbantom a fejedet! Megértetted?}
+{168}{}{Nem, mivel megcsinÃ¡ltad a munkÃ¡t. KÃ¶szÃ¶nÃ¶m.}
+{169}{}{Csak egy vagy kÃ©t kÃ©rdÃ©st mÃ©g...}
+{170}{}{Semmi baj. ViszlÃ¡t!}
+{171}{}{JÃ³ munka volt! Most viszont jobb, ha felszÃ­vÃ³dsz! Ha esetleg azok a FelderÃ­t?k rÃ¡jÃ¶nnÃ©nek erre-arra...}
+{172}{}{Ã–rÃ¶m, ha egyÃ¼tt Ã¼zletelÃ¼nk.}
+{173}{}{Ne lÃ³frÃ¡lj mÃ¡r itt, te Ã¼t?dÃ¶tt! Valaki mÃ©g gyanÃºt foghat!}
+{174}{}{Rendben, veszem Ã©n az adÃ¡st...}
+{175}{}{Mi a faszom...? ?rsÃ©g! Fogtam egy behatolÃ³t!}
+{176}{}{Csak menj be oda, Ã©s lerobbantom a fejedet! MegÃ©rtetted?}
 {177}{}{It's late and we're closed. Come back in the morning.}
 {200}{}{Good work. One more thing though. You're a slaver, right? How 'bout you lend a hand and wipe out those safe houses for me. I could
  pay you for the job - say $1000.}
 {201}{}{Good work. One more thing though. You look like a mean sonuvabith. How 'bout you wipe out those safe houses for me. There's a reward for it - say $1000.}
 {202}{}{Hogyne.}
-{203}{}{Nem érdekel.}
+{203}{}{Nem Ã©rdekel.}
 {204}{}{Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
 {205}{}{Your loss. Now you best make yourself scarce, in case those Rangers ever wise up.}
 {206}{}{Alright. Bye.}
@@ -117,6 +117,6 @@
 {272}{}{Alright, here.}
 {273}{}{Senkit.}
 {274}{}{I'll do whatever I want. And I think I'll kill you now.}
-{275}{}{Ha meglesz a pénz, visszajövök.}
+{275}{}{Ha meglesz a pÃ©nz, visszajÃ¶vÃ¶k.}
 {280}{}{[He points on your map the location of the slaver camp.] It's around there. Now what else are you going to waste my time with?}
 {281}{}{I've got what I need. Bye.}

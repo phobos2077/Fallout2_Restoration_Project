@@ -1,28 +1,28 @@
-{100}{}{Die Gestalt, die du siehst, glüht leicht. Die Haut sieht ziemlich verbrannt aus.}
+{100}{}{Die Gestalt, die du siehst, glÃ¼ht leicht. Die Haut sieht ziemlich verbrannt aus.}
 {101}{}{Du siehst einen verstrahlten Ghul, einen Einwohner von Gecko.}
-{102}{}{Du siehst jemanden, der so hoher Radioaktivität ausgesetzt war, dass der Körper leicht glüht. Derartige Strahlungskonzentrationen hätten normalerweise alles getötet, aber dieser hier scheint noch ganz munter.}
-{110}{}{So hohe Radioaktivität ist für mich Jobsicherheit.}
-{111}{}{Schau dir das Glühen an. Kannst du es sehen?}
+{102}{}{Du siehst jemanden, der so hoher RadioaktivitÃ¤t ausgesetzt war, dass der KÃ¶rper leicht glÃ¼ht. Derartige Strahlungskonzentrationen hÃ¤tten normalerweise alles getÃ¶tet, aber dieser hier scheint noch ganz munter.}
+{110}{}{So hohe RadioaktivitÃ¤t ist fÃ¼r mich Jobsicherheit.}
+{111}{}{Schau dir das GlÃ¼hen an. Kannst du es sehen?}
 {112}{}{Ich komme jeden Tag gern zur Arbeit.}
 {113}{}{Wir werden wieder mehr Uranium brauchen.}
 {114}{}{Wir sind hier wahrscheinlich alle atombetrieben.}
-{120}{}{Die Wärme hier ist so angenehm.}
-{121}{}{Es ist ein wunderbares Gefühl.}
-{122}{}{Ich wüsste nicht, was ich machen würde, wenn ich woanders leben müsste.}
-{123}{}{Ich liebe es, morgens die Radioaktivität zu spüren.}
+{120}{}{Die WÃ¤rme hier ist so angenehm.}
+{121}{}{Es ist ein wunderbares GefÃ¼hl.}
+{122}{}{Ich wÃ¼sste nicht, was ich machen wÃ¼rde, wenn ich woanders leben mÃ¼sste.}
+{123}{}{Ich liebe es, morgens die RadioaktivitÃ¤t zu spÃ¼ren.}
 {124}{}{Ich brauche zumindest nachts kein Licht. }
-{125}{}{(Hält dir den glühenden Finger entgegen) Nach Hause telefonieren.}
-{126}{}{Weißt du, wenn du die Tür schließt, glühe ich nicht mehr.}
-{127}{}{Dies ist ein Ort, an dem ich mich wirklich zu Hause fühle.}
-{128}{}{Ich kann nicht glauben, dass die Leute in Vault City mein Zuhause zerstören wollen.}
+{125}{}{(HÃ¤lt dir den glÃ¼henden Finger entgegen) Nach Hause telefonieren.}
+{126}{}{WeiÃŸt du, wenn du die TÃ¼r schlieÃŸt, glÃ¼he ich nicht mehr.}
+{127}{}{Dies ist ein Ort, an dem ich mich wirklich zu Hause fÃ¼hle.}
+{128}{}{Ich kann nicht glauben, dass die Leute in Vault City mein Zuhause zerstÃ¶ren wollen.}
 {129}{}{Reaktor, oh mein Reaktor.}
 {130}{}{Auch wenn es nur ein bescheidener Ort ist.}
-{131}{}{Atomwärme muss man einfach lieben.}
-{140}{}{Danke, dass du den Reaktor repariert hast. Es ist jetzt etwas kühler, aber nicht schlecht.}
+{131}{}{AtomwÃ¤rme muss man einfach lieben.}
+{140}{}{Danke, dass du den Reaktor repariert hast. Es ist jetzt etwas kÃ¼hler, aber nicht schlecht.}
 {141}{}{Brrr... danke, dass du unseren Reaktor repariert hast.}
-{142}{}{Ich wünschte, ich hätte das machen können.}
-{143}{}{Danke für die Hilfe.}
-{144}{}{Vielleicht sind die Leute von Vault City doch gar nicht so übel.}
+{142}{}{Ich wÃ¼nschte, ich hÃ¤tte das machen kÃ¶nnen.}
+{143}{}{Danke fÃ¼r die Hilfe.}
+{144}{}{Vielleicht sind die Leute von Vault City doch gar nicht so Ã¼bel.}
 {150}{}{Ich kann mich nicht daran erinnern, dass der Reaktor je so gut lief.}
 {151}{}{Es ist regelrecht kalt hier heute.}
 {152}{}{Brrrr, mir ist kalt.}

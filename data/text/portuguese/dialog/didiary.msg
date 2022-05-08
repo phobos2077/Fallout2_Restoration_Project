@@ -1,5 +1,5 @@
-{100}{}{Você vê um velho diário.}
-{101}{}{Parece ser um diário que pertencia a uma jovem. A escrita na capa interna diz: "Propriedade de Anna"
-  A maioria das páginas está rasgada ou desbotada, mas uma ainda é legível. "Dia 271: Hoje minha mãe me deu um medalhão de ouro.
-  É a coisa mais bonita que eu já possuí. Nunca me separarei disso ".}
-{102}{}{O antigo diário é muito frágil para manter o manuseio.}
+{100}{}{VocÃª vÃª um velho diÃ¡rio.}
+{101}{}{Parece ser um diÃ¡rio que pertencia a uma jovem. A escrita na capa interna diz: "Propriedade de Anna"
+Â  A maioria das pÃ¡ginas estÃ¡ rasgada ou desbotada, mas uma ainda Ã© legÃ­vel. "Dia 271: Hoje minha mÃ£e me deu um medalhÃ£o de ouro.
+Â  Ã‰ a coisa mais bonita que eu jÃ¡ possuÃ­. Nunca me separarei disso ".}
+{102}{}{O antigo diÃ¡rio Ã© muito frÃ¡gil para manter o manuseio.}

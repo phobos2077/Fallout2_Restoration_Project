@@ -1,60 +1,60 @@
-{100}{}{Ez a ghoul nem n?tt túl nagyra.}
-{101}{}{? Percy Crump, a jólmen? ghoul keresked?.}
-{102}{}{Egy alacsony, de keménykötés? ghoulhoz van szerencséd. Öltözéke szokatlanul elegáns a városlakókhoz képest.}
-{103}{}{Adta-teringette. Nem tok ám eléggé hálákonni, hogy mekkerítetted a barátosomat. Hínnye-nem akámi ám. K?n most adnom valamit cserébe...}
-{104}{}{Örülök, hogy segíthettem.}
-{105}{}{Mégis mit?}
-{106}{}{Nem lehet ám akármi! Kemény meló volt, és sokat is kellett utazni. Az életemet kockáztattam, bizony. Meg is sérülhettem volna.}
-{107}{}{Hótbiztos, hogy nem akarol segíteni az öreg Percynek? Hótbiztos ám, hogy elk?ne a segíccség.}
-{108}{}{Hát ezt még jobban át kéne gondolnom. Addig is van valami cserealapja?}
-{109}{}{Hát akkor miért nem mondja el még egyszer, mir?l van szó?}
+{100}{}{Ez a ghoul nem n?tt tÃºl nagyra.}
+{101}{}{? Percy Crump, a jÃ³lmen? ghoul keresked?.}
+{102}{}{Egy alacsony, de kemÃ©nykÃ¶tÃ©s? ghoulhoz van szerencsÃ©d. Ã–ltÃ¶zÃ©ke szokatlanul elegÃ¡ns a vÃ¡roslakÃ³khoz kÃ©pest.}
+{103}{}{Adta-teringette. Nem tok Ã¡m elÃ©ggÃ© hÃ¡lÃ¡konni, hogy mekkerÃ­tetted a barÃ¡tosomat. HÃ­nnye-nem akÃ¡mi Ã¡m. K?n most adnom valamit cserÃ©be...}
+{104}{}{Ã–rÃ¼lÃ¶k, hogy segÃ­thettem.}
+{105}{}{MÃ©gis mit?}
+{106}{}{Nem lehet Ã¡m akÃ¡rmi! KemÃ©ny melÃ³ volt, Ã©s sokat is kellett utazni. Az Ã©letemet kockÃ¡ztattam, bizony. Meg is sÃ©rÃ¼lhettem volna.}
+{107}{}{HÃ³tbiztos, hogy nem akarol segÃ­teni az Ã¶reg Percynek? HÃ³tbiztos Ã¡m, hogy elk?ne a segÃ­ccsÃ©g.}
+{108}{}{HÃ¡t ezt mÃ©g jobban Ã¡t kÃ©ne gondolnom. Addig is van valami cserealapja?}
+{109}{}{HÃ¡t akkor miÃ©rt nem mondja el mÃ©g egyszer, mir?l van szÃ³?}
 {110}{}{I didn't know you were going to pester me about that every time I came in. Sheesh. Goodbye.}
-{111}{}{Nem talá'tad még meg Woodyt? Kezdek naon aggoda'maskodni. Még sosem az életbe' nem vót távol ilyen sokára.}
-{112}{}{Sajna, még nem, de nem adtam fel. Van valamije, amit fel tudna ajánlani cserealapként?}
-{113}{}{Nem, még nem. Asszem, jobb, ha indulok is és folytatom a keresést.}
-{114}{}{Üdv, Percy Crumpnak hínak, én vok a helyi mesterkeresked?. Ha akarsz, szólíccsá csak eccer?en vén Percynek. Nyugottan. Itt mindenki annak szólít. Na, akkó, mit tehetek érted?}
-{115}{}{Mittehet a vén Percy é'ted?}
-{116}{}{Azon t?n?dtem, miféle dolgok történhetnek itt a városban.}
-{117}{}{Abban reménykedtem, hátha van egy-két áruja.}
-{118}{}{Semmi-semmi, csak egyszer?en körbenéztem. Viszlát!}
+{111}{}{Nem talÃ¡'tad mÃ©g meg Woodyt? Kezdek naon aggoda'maskodni. MÃ©g sosem az Ã©letbe' nem vÃ³t tÃ¡vol ilyen sokÃ¡ra.}
+{112}{}{Sajna, mÃ©g nem, de nem adtam fel. Van valamije, amit fel tudna ajÃ¡nlani cserealapkÃ©nt?}
+{113}{}{Nem, mÃ©g nem. Asszem, jobb, ha indulok is Ã©s folytatom a keresÃ©st.}
+{114}{}{Ãœdv, Percy Crumpnak hÃ­nak, Ã©n vok a helyi mesterkeresked?. Ha akarsz, szÃ³lÃ­ccsÃ¡ csak eccer?en vÃ©n Percynek. Nyugottan. Itt mindenki annak szÃ³lÃ­t. Na, akkÃ³, mit tehetek Ã©rted?}
+{115}{}{Mittehet a vÃ©n Percy Ã©'ted?}
+{116}{}{Azon t?n?dtem, mifÃ©le dolgok tÃ¶rtÃ©nhetnek itt a vÃ¡rosban.}
+{117}{}{Abban remÃ©nykedtem, hÃ¡tha van egy-kÃ©t Ã¡ruja.}
+{118}{}{Semmi-semmi, csak egyszer?en kÃ¶rbenÃ©ztem. ViszlÃ¡t!}
 {119}{}{Csere?}
-{120}{}{Meeenni? Menek én.}
-{121}{}{Csak eccer?en gracsulázni aka'tam, hogy olyan pöpecre megcsiná'tad az atomreaktort. Dorombó'gat, mint a cica. Pe'sze ez nem naon segít azon, hogy az én öreg cimborám, Woody, elt?nt jól.}
-{122}{}{Hát asszem, nem tok eléggé hálá'kodni, hogy megcsiná'tad az atomreaktort. Az a félnótás Festus sosenem értett semmihez se. Pe'sze ez nem naon segít azon, hogy az én öreg cimborám, Woody, elt?nt jól.}
+{120}{}{Meeenni? Menek Ã©n.}
+{121}{}{Csak eccer?en gracsulÃ¡zni aka'tam, hogy olyan pÃ¶pecre megcsinÃ¡'tad az atomreaktort. DorombÃ³'gat, mint a cica. Pe'sze ez nem naon segÃ­t azon, hogy az Ã©n Ã¶reg cimborÃ¡m, Woody, elt?nt jÃ³l.}
+{122}{}{HÃ¡t asszem, nem tok elÃ©ggÃ© hÃ¡lÃ¡'kodni, hogy megcsinÃ¡'tad az atomreaktort. Az a fÃ©lnÃ³tÃ¡s Festus sosenem Ã©rtett semmihez se. Pe'sze ez nem naon segÃ­t azon, hogy az Ã©n Ã¶reg cimborÃ¡m, Woody, elt?nt jÃ³l.}
 {123}{}{Not a whole lot new here in town. I hear Wooz rooked some newbie out of a Black Orchid the other day. Heh, heh, hee.
  Anyhow's, t'other than that, my friend Woody's done gone missin'.}
-{124}{}{Meséljen még nekem err?l!}
-{125}{}{Hát ez nagy baj. Nem bírom a rossz híreket. Most magára hagyom a problémájával. Viszlát!}
-{126}{}{Há má hogy a fenébe ne. Jó pézé van itt minden, mi szem-szájnak ingere.}
-{127}{}{Minden rendbe' van, vagy hiányzik még valami?}
+{124}{}{MesÃ©ljen mÃ©g nekem err?l!}
+{125}{}{HÃ¡t ez nagy baj. Nem bÃ­rom a rossz hÃ­reket. Most magÃ¡ra hagyom a problÃ©mÃ¡jÃ¡val. ViszlÃ¡t!}
+{126}{}{HÃ¡ mÃ¡ hogy a fenÃ©be ne. JÃ³ pÃ©zÃ© van itt minden, mi szem-szÃ¡jnak ingere.}
+{127}{}{Minden rendbe' van, vagy hiÃ¡nyzik mÃ©g valami?}
 {128}{}{Akarok venni?}
-{129}{}{Hmm, nézzük, mije van!}
-{130}{}{Hadd nézzek rá még egyszer az árujára!}
-{131}{}{Rendben vagyunk, kösz, Percy. Máskor találkozunk...}
-{132}{}{Úg. Én menek, üdv-üdv.}
-{133}{}{Ez a nagy rakat su-sugárzás elleni gyógyszar, nem csiná't velem semmitse. Mikó má' száz is megvagyol, nem naon van értelme nekijje. Hehehe. Itt van e, nesze. Asszem, egy barát többet ér, mint még eggyel több év. Kösz... barátom.}
-{134}{}{Örülök, hogy segíthettem magán meg Woodyn. Kösz a gyógycuccért.}
-{135}{}{Király, könny? munka egy csomó szajréért. Teccik.}
-{136}{}{Hát tod, vóna nekem egy barátosom, Woodynak híjják. Ez a Woody gyerek úgy alszik, mint ahogy senkisenem rajta kívül. Az a gond ezzee', hogy még utazgat is a lelkem, és a baj lépten-nyomon utóléri.}
-{137}{}{Oké.}
-{138}{}{Hát, nincs olyan egetver? probléma errefele mostanába'. Legutóbb aszt hallottam, hogy a Woody gyerek elcsámborgott Rejtekbe. Tuggya, hol van az a Rejtek? }
+{129}{}{Hmm, nÃ©zzÃ¼k, mije van!}
+{130}{}{Hadd nÃ©zzek rÃ¡ mÃ©g egyszer az Ã¡rujÃ¡ra!}
+{131}{}{Rendben vagyunk, kÃ¶sz, Percy. MÃ¡skor talÃ¡lkozunk...}
+{132}{}{Ãšg. Ã‰n menek, Ã¼dv-Ã¼dv.}
+{133}{}{Ez a nagy rakat su-sugÃ¡rzÃ¡s elleni gyÃ³gyszar, nem csinÃ¡'t velem semmitse. MikÃ³ mÃ¡' szÃ¡z is megvagyol, nem naon van Ã©rtelme nekijje. Hehehe. Itt van e, nesze. Asszem, egy barÃ¡t tÃ¶bbet Ã©r, mint mÃ©g eggyel tÃ¶bb Ã©v. KÃ¶sz... barÃ¡tom.}
+{134}{}{Ã–rÃ¼lÃ¶k, hogy segÃ­thettem magÃ¡n meg Woodyn. KÃ¶sz a gyÃ³gycuccÃ©rt.}
+{135}{}{KirÃ¡ly, kÃ¶nny? munka egy csomÃ³ szajrÃ©Ã©rt. Teccik.}
+{136}{}{HÃ¡t tod, vÃ³na nekem egy barÃ¡tosom, Woodynak hÃ­jjÃ¡k. Ez a Woody gyerek Ãºgy alszik, mint ahogy senkisenem rajta kÃ­vÃ¼l. Az a gond ezzee', hogy mÃ©g utazgat is a lelkem, Ã©s a baj lÃ©pten-nyomon utÃ³lÃ©ri.}
+{137}{}{OkÃ©.}
+{138}{}{HÃ¡t, nincs olyan egetver? problÃ©ma errefele mostanÃ¡ba'. LegutÃ³bb aszt hallottam, hogy a Woody gyerek elcsÃ¡mborgott Rejtekbe. Tuggya, hol van az a Rejtek? }
 {139}{}{Igen, tudom, hol van. folytassa.}
 {140}{}{Ami azt illeti, nem tudom, hol az a Rejtek.}
-{141}{}{Ó, naon könny? ám eljutni Rejtekbe. Nédda, bejelölöm itt neked a térképesmicsodádba-je.}
-{142}{}{Hé, nem ám tönkretenni! Na, folytassa csak...}
-{143}{}{Hát nem szaporítom itten a szót, mee' nem sok dolog történik itten Gekkóba'. Emellett persze a máshó él?k nem naon szoktak hozzá a fizimiskánkhó'...}
-{144}{}{És?}
-{145}{}{Nem tudol te itten két dógot összeboroná'ni? Félek, hogy Woodyra ráhúzzák Rejtekbe' a vizes leped?t, hosszú ám az út odafele, tán még élve eltemetik nekem aztat a szegény flótást. K?ne valaki ide, aki utánajár neki.}
+{141}{}{Ã“, naon kÃ¶nny? Ã¡m eljutni Rejtekbe. NÃ©dda, bejelÃ¶lÃ¶m itt neked a tÃ©rkÃ©pesmicsodÃ¡dba-je.}
+{142}{}{HÃ©, nem Ã¡m tÃ¶nkretenni! Na, folytassa csak...}
+{143}{}{HÃ¡t nem szaporÃ­tom itten a szÃ³t, mee' nem sok dolog tÃ¶rtÃ©nik itten GekkÃ³ba'. Emellett persze a mÃ¡shÃ³ Ã©l?k nem naon szoktak hozzÃ¡ a fizimiskÃ¡nkhÃ³'...}
+{144}{}{Ã‰s?}
+{145}{}{Nem tudol te itten kÃ©t dÃ³got Ã¶sszeboronÃ¡'ni? FÃ©lek, hogy Woodyra rÃ¡hÃºzzÃ¡k Rejtekbe' a vizes leped?t, hosszÃº Ã¡m az Ãºt odafele, tÃ¡n mÃ©g Ã©lve eltemetik nekem aztat a szegÃ©ny flÃ³tÃ¡st. K?ne valaki ide, aki utÃ¡najÃ¡r neki.}
 {146}{}{Merthogy...?}
-{147}{}{Hát, hiándzik. Azé. (Percy elhomályosult szemmel pislog rád) Aha, látom, tunni akarod, mi gyön le neked ebb?l!}
-{148}{}{Igen, általában ennél a résznél szoktam egyre növekv? érdekl?dést tanúsítani. Folytassa!}
-{149}{}{Hát tudok egy helyet, ahun eccsomó békebeli anyagot halmoztak fel. Rad-X meg Radaway rakásba. Énnekem má' semmit senem ér, de egy simab?r?, mint te, tán hasznát veheti. Elvállalod akkó a munkát? Csak úgy fizetek, ha Woody épségbe' idetojja a képit.}
-{150}{}{Mégis mennyi az az "eccsomó"?}
-{151}{}{Benne. Hamarosan majd jövök.}
-{152}{}{Nem. Most a legkisebb dolgom is nagyobb annál, hogy ezzel foglalkozzak.}
-{153}{}{Még át kell ezt gondolnom, Viszlát!}
-{154}{}{Annyi az, hogy az életbe senem kell neked annyi sosem az tuti. Na, benne vagyol?}
-{155}{}{Benne. Hamarosan majd jövök.}
-{156}{}{Nem. Most a legkisebb dolgom is nagyobb annál, hogy ezzel foglalkozzak.}
-{157}{}{Még át kell ezt gondolnom, Viszlát!}
-{158}{}{Hát asszem, nem tok eléggé hálá'kodni, hogy megtaná'tad Woodyt, az én öreg cimborámat. Akkó most mit tehet a vén Percy teérted?}
+{147}{}{HÃ¡t, hiÃ¡ndzik. AzÃ©. (Percy elhomÃ¡lyosult szemmel pislog rÃ¡d) Aha, lÃ¡tom, tunni akarod, mi gyÃ¶n le neked ebb?l!}
+{148}{}{Igen, Ã¡ltalÃ¡ban ennÃ©l a rÃ©sznÃ©l szoktam egyre nÃ¶vekv? Ã©rdekl?dÃ©st tanÃºsÃ­tani. Folytassa!}
+{149}{}{HÃ¡t tudok egy helyet, ahun eccsomÃ³ bÃ©kebeli anyagot halmoztak fel. Rad-X meg Radaway rakÃ¡sba. Ã‰nnekem mÃ¡' semmit senem Ã©r, de egy simab?r?, mint te, tÃ¡n hasznÃ¡t veheti. ElvÃ¡llalod akkÃ³ a munkÃ¡t? Csak Ãºgy fizetek, ha Woody Ã©psÃ©gbe' idetojja a kÃ©pit.}
+{150}{}{MÃ©gis mennyi az az "eccsomÃ³"?}
+{151}{}{Benne. Hamarosan majd jÃ¶vÃ¶k.}
+{152}{}{Nem. Most a legkisebb dolgom is nagyobb annÃ¡l, hogy ezzel foglalkozzak.}
+{153}{}{MÃ©g Ã¡t kell ezt gondolnom, ViszlÃ¡t!}
+{154}{}{Annyi az, hogy az Ã©letbe senem kell neked annyi sosem az tuti. Na, benne vagyol?}
+{155}{}{Benne. Hamarosan majd jÃ¶vÃ¶k.}
+{156}{}{Nem. Most a legkisebb dolgom is nagyobb annÃ¡l, hogy ezzel foglalkozzak.}
+{157}{}{MÃ©g Ã¡t kell ezt gondolnom, ViszlÃ¡t!}
+{158}{}{HÃ¡t asszem, nem tok elÃ©ggÃ© hÃ¡lÃ¡'kodni, hogy megtanÃ¡'tad Woodyt, az Ã©n Ã¶reg cimborÃ¡mat. AkkÃ³ most mit tehet a vÃ©n Percy teÃ©rted?}

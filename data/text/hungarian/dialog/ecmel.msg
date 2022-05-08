@@ -1,3 +1,3 @@
-{100}{}{Egy feketébe öltözött fickót látsz.}
-{101}{}{Egy feketébe öltözött fickót látsz.}
-{102}{}{Ez egy feketébe öltözött fickó. Nem t?nik valami boldognak.}
+{100}{}{Egy feketÃ©be Ã¶ltÃ¶zÃ¶tt fickÃ³t lÃ¡tsz.}
+{101}{}{Egy feketÃ©be Ã¶ltÃ¶zÃ¶tt fickÃ³t lÃ¡tsz.}
+{102}{}{Ez egy feketÃ©be Ã¶ltÃ¶zÃ¶tt fickÃ³. Nem t?nik valami boldognak.}

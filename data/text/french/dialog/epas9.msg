@@ -1,2 +1,2 @@
-{200}{}{Ouaah, il semble que ces graines aient donné quelque chose de mauvais.}
-{201}{}{Plante intéressante. Je me demande si ces graines pourraient pousser.}
+{200}{}{Ouaah, il semble que ces graines aient donnÃ© quelque chose de mauvais.}
+{201}{}{Plante intÃ©ressante. Je me demande si ces graines pourraient pousser.}

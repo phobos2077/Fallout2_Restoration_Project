@@ -1,34 +1,34 @@
 {100}{}{Du siehst einen untersetzten Glatzkopf, der gerade ein Glas wienert.}
 {101}{}{Das ist der Barmann.}
-{102}{}{Du siehst einen bärbeißigen Typen mit einer krummen Nase und
- Blumenkohlohren. Vermutlich war er früher mal Boxer.}
+{102}{}{Du siehst einen bÃ¤rbeiÃŸigen Typen mit einer krummen Nase und
+ Blumenkohlohren. Vermutlich war er frÃ¼her mal Boxer.}
 {103}{}{Womit kann ich dienen?}
-{104}{}{Bist du nicht der Knabe, der Jack fertiggemacht hat? Hast du gut gemacht. Was möchtest
+{104}{}{Bist du nicht der Knabe, der Jack fertiggemacht hat? Hast du gut gemacht. Was mÃ¶chtest
  du?}
 {105}{}{Sicher.}
 {106}{}{Trinken.}
-{107}{}{Wer ist der große Typ da drüben?}
+{107}{}{Wer ist der groÃŸe Typ da drÃ¼ben?}
 {108}{}{Was kann man in dieser Stadt so unternehmen?}
 {109}{}{Wiedersehn.}
-{110}{}{Das ist Hoss, der Sohn von Präsidentin Tandi. Wird ziemlich schnell unberechenbar, wenn
- er getrunken hat. An deiner Stelle würd ich aufpassen, dass ich ihm nicht zu nahe komme.}
-{111}{}{Das war Hoss, der Sohn von Präsidentin Tandi. Junge, Junge, dem hast du's aber gegeben!}
-{112}{}{Präsidentin Tandi?}
+{110}{}{Das ist Hoss, der Sohn von PrÃ¤sidentin Tandi. Wird ziemlich schnell unberechenbar, wenn
+ er getrunken hat. An deiner Stelle wÃ¼rd ich aufpassen, dass ich ihm nicht zu nahe komme.}
+{111}{}{Das war Hoss, der Sohn von PrÃ¤sidentin Tandi. Junge, Junge, dem hast du's aber gegeben!}
+{112}{}{PrÃ¤sidentin Tandi?}
 {113}{}{Brutaler Typ, was? Danke.}
 {114}{}{Nicht viel. Wenn du Streit suchst, geh woanders einen trinken, von mir aus im Rawhide.
  Wenn du Arbeit brauchst, empfehle ich dir Westins Ranch westlich der Stadt. Ich hab auch
- gehört, dass Präsidentin Tandi einen Fachmann sucht.}
+ gehÃ¶rt, dass PrÃ¤sidentin Tandi einen Fachmann sucht.}
 {115}{}{Einen Fachmann?}
-{116}{}{Präsidentin Tandi?}
+{116}{}{PrÃ¤sidentin Tandi?}
 {117}{}{Danke.}
-{118}{}{Die Tochter von Präsident Aradesh, dem Gründer der NCR. Ist schon seit Jahren
- Präsidentin. Macht ihren Job ziemlich gut.}
-{119}{}{Und was sucht sie für einen Fachmann?}
-{120}{}{Wer ist der Große da?}
+{118}{}{Die Tochter von PrÃ¤sident Aradesh, dem GrÃ¼nder der NCR. Ist schon seit Jahren
+ PrÃ¤sidentin. Macht ihren Job ziemlich gut.}
+{119}{}{Und was sucht sie fÃ¼r einen Fachmann?}
+{120}{}{Wer ist der GroÃŸe da?}
 {121}{}{Danke.}
-{122}{}{Mehr weiß ich darüber nicht. Gunther, ihr Sekretär, kann dir bestimmt mehr sagen.
- Du findest ihn in der Kongreßhalle.}
-{123}{}{Wer ist der Große da?}
+{122}{}{Mehr weiÃŸ ich darÃ¼ber nicht. Gunther, ihr SekretÃ¤r, kann dir bestimmt mehr sagen.
+ Du findest ihn in der KongreÃŸhalle.}
+{123}{}{Wer ist der GroÃŸe da?}
 {124}{}{Danke.}
 {125}{}{Willst du was drinken?}
 {126}{}{Sicher.}
@@ -36,4 +36,4 @@
 {128}{}{Ich geb dir einen aus! Ich hatte das schon seit Jahren vor!}
 {129}{}{Ich hab da ein paar Fragen...}
 {130}{}{Gut! Bis dann.}
-{131}{}{Junge, du hast Hoss wirklich kräftig den Hintern versohlt! Was kann ich dir bringen?}
+{131}{}{Junge, du hast Hoss wirklich krÃ¤ftig den Hintern versohlt! Was kann ich dir bringen?}

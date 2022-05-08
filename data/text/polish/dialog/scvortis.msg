@@ -1,120 +1,120 @@
-{100}{}{Widzisz wychudzonego starca z piórem zatkniêtym za ucho i okularami balansuj¹cymi na koñcu nosa.}
-{101}{}{To Vortis, w³aœciciel tego obozu niewolników.}
-{102}{}{Ma co najwy¿ej trzy zêby. Jego palce i koszula s¹ ubrudzone niebieskim atramentem. Na jego czole widzisz porz¹dnie zamazany tatua¿ ³owcy niewolników.}
+{100}{}{Widzisz wychudzonego starca z piÃ³rem zatkniÄ™tym za ucho i okularami balansujÄ…cymi na koÅ„cu nosa.}
+{101}{}{To Vortis, wÅ‚aÅ›ciciel tego obozu niewolnikÃ³w.}
+{102}{}{Ma co najwyÅ¼ej trzy zÄ™by. Jego palce i koszula sÄ… ubrudzone niebieskim atramentem. Na jego czole widzisz porzÄ…dnie zamazany tatuaÅ¼ Å‚owcy niewolnikÃ³w.}
 {103}{}{No, czego chcesz?}
-{104}{}{Bracie, witaj w domu Vortisa. Jak mogê ci pomóc?}
-{105}{}{Zaczynasz mnie denerwowaæ.}
-{106}{}{To miejsce nale¿y do mnie, a ja, Vortis, prowadzê uczciwy i legalny interes bez wzglêdu na to, co mówi¹ ci dranie z RNK. Poniewa¿ RNK nie zezwala na trzymanie niewolników wewn¹trz, ja opiekuje siê nimi dla ludzi, którzy pracuj¹ w mieœcie.}
-{107}{}{G³upi jesteœ, czy co? To jest obóz niewolników. Mam na niego licencjê.}
+{104}{}{Bracie, witaj w domu Vortisa. Jak mogÄ™ ci pomÃ³c?}
+{105}{}{Zaczynasz mnie denerwowaÄ‡.}
+{106}{}{To miejsce naleÅ¼y do mnie, a ja, Vortis, prowadzÄ™ uczciwy i legalny interes bez wzglÄ™du na to, co mÃ³wiÄ… ci dranie z RNK. PoniewaÅ¼ RNK nie zezwala na trzymanie niewolnikÃ³w wewnÄ…trz, ja opiekuje siÄ™ nimi dla ludzi, ktÃ³rzy pracujÄ… w mieÅ›cie.}
+{107}{}{GÅ‚upi jesteÅ›, czy co? To jest obÃ³z niewolnikÃ³w. Mam na niego licencjÄ™.}
 {108}{}{}
-{109}{}{Mam tylko kilka pytañ.}
+{109}{}{Mam tylko kilka pytaÅ„.}
 {110}{}{Szukam pracy.}
 {111}{}{Hm?}
-{112}{}{Nie byæ wygódka? Moja iœæ.}
+{112}{}{Nie byÄ‡ wygÃ³dka? Moja iÅ›Ä‡.}
 {113}{}{Co to za miejsce?}
-{114}{}{Nic, pomyli³em miejsca.}
-{115}{}{O, patrzcie - wypieszczony laluœ z lizaczkiem w ³apce. Ch³opcy, znieœcie tego palanta sprzed moich oczu!}
-{116}{}{Pieprzyæ to.}
+{114}{}{Nic, pomyliÅ‚em miejsca.}
+{115}{}{O, patrzcie - wypieszczony laluÅ› z lizaczkiem w Å‚apce. ChÅ‚opcy, znieÅ›cie tego palanta sprzed moich oczu!}
+{116}{}{PieprzyÄ‡ to.}
 {117}{}{No i?}
 {118}{}{Szukam Krypty 13.}
-{119}{}{Masz mo¿e GECK?}
-{120}{}{Co mo¿esz mi powiedzieæ o tym mieœcie?}
-{121}{}{Pieprzony ³owco niewolników! Dlaczego nie mia³bym ciê rozwaliæ?}
-{122}{}{S³ysza³em o tych goœciach - Stra¿nikach Nowej Kalifornii. Macie z nimi jakieœ k³opoty?}
-{123}{}{Pozwolisz, ¿e siê trochê porozgl¹dam?}
-{124}{}{Praca? Có¿... mo¿e coœ siê znajdzie. S³ysza³eœ kiedyœ o Stra¿nikach Nowej Kalifornii?}
+{119}{}{Masz moÅ¼e GECK?}
+{120}{}{Co moÅ¼esz mi powiedzieÄ‡ o tym mieÅ›cie?}
+{121}{}{Pieprzony Å‚owco niewolnikÃ³w! Dlaczego nie miaÅ‚bym ciÄ™ rozwaliÄ‡?}
+{122}{}{SÅ‚yszaÅ‚em o tych goÅ›ciach - StraÅ¼nikach Nowej Kalifornii. Macie z nimi jakieÅ› kÅ‚opoty?}
+{123}{}{Pozwolisz, Å¼e siÄ™ trochÄ™ porozglÄ…dam?}
+{124}{}{Praca? CÃ³Å¼... moÅ¼e coÅ› siÄ™ znajdzie. SÅ‚yszaÅ‚eÅ› kiedyÅ› o StraÅ¼nikach Nowej Kalifornii?}
 {125}{}{Tak.}
 {126}{}{Nie.}
-{127}{}{Pierdol siê. Ch³opcy, eskortujcie tego palanta do drzwi.}
-{128}{}{Poca³uj mnie w dupê!}
-{129}{}{Krypta 13! Spadaj st¹d. To przeklête miejsce to mit. Krypta 13, te¿ coœ.}
+{127}{}{Pierdol siÄ™. ChÅ‚opcy, eskortujcie tego palanta do drzwi.}
+{128}{}{PocaÅ‚uj mnie w dupÄ™!}
+{129}{}{Krypta 13! Spadaj stÄ…d. To przeklÄ™te miejsce to mit. Krypta 13, teÅ¼ coÅ›.}
 {130}{}{Kolejne pytanie...}
-{131}{}{Có¿, dziêki za nic.}
-{132}{}{Co? No có¿, cokolwiek to jest nie mam tego.}
+{131}{}{CÃ³Å¼, dziÄ™ki za nic.}
+{132}{}{Co? No cÃ³Å¼, cokolwiek to jest nie mam tego.}
 {133}{}{Kolejne pytanie...}
-{134}{}{Có¿, dziêki za nic.}
-{135}{}{Republika Nowej Kalifornii - miasto wyrachowanych, zimnych drani i kupców. Maj¹ œwira na punkcie ³owców niewolników i niewolnictwa, ale do cholery, ja z tego ¿yjê.}
+{134}{}{CÃ³Å¼, dziÄ™ki za nic.}
+{135}{}{Republika Nowej Kalifornii - miasto wyrachowanych, zimnych drani i kupcÃ³w. MajÄ… Å›wira na punkcie Å‚owcÃ³w niewolnikÃ³w i niewolnictwa, ale do cholery, ja z tego Å¼yjÄ™.}
 {136}{}{Kolejne pytanie...}
-{137}{}{Dziêki, muszê spadaæ.}
-{138}{}{Ktoœ ciê skierowa³ pod z³y adres. Ja nie mam k³opotów z nikim - zw³aszcza ze Stra¿nikami. Wszystko co robiê jest legalne, wiêc nic na mnie nie maj¹.}
+{137}{}{DziÄ™ki, muszÄ™ spadaÄ‡.}
+{138}{}{KtoÅ› ciÄ™ skierowaÅ‚ pod zÅ‚y adres. Ja nie mam kÅ‚opotÃ³w z nikim - zwÅ‚aszcza ze StraÅ¼nikami. Wszystko co robiÄ™ jest legalne, wiÄ™c nic na mnie nie majÄ….}
 {139}{}{Kolejne pytanie...}
-{140}{}{Cokolwiek powiesz. Ju¿ sobie idê.}
-{141}{}{Taa, byæ mo¿e mam pewne odczucia co do Stra¿ników. Szukasz pracy?}
+{140}{}{Cokolwiek powiesz. JuÅ¼ sobie idÄ™.}
+{141}{}{Taa, byÄ‡ moÅ¼e mam pewne odczucia co do StraÅ¼nikÃ³w. Szukasz pracy?}
 {142}{}{Tak.}
 {143}{}{Nie.}
-{144}{}{Nie, nie wolno ci siê tu szwendaæ, pojebie! To nie jest muzeum!}
+{144}{}{Nie, nie wolno ci siÄ™ tu szwendaÄ‡, pojebie! To nie jest muzeum!}
 {145}{}{Kolejne pytanie...}
-{146}{}{Przestañ mnie ci¹gle obra¿aæ. Spadam st¹d.}
-{147}{}{W takim razie musisz wiedzieæ, ¿e dla niektórych s¹ Ÿród³em nieustannych problemów. By³oby cholernie fajnie mieæ w posiadaniu mapê ich kryjówek na pó³nocy - w Nowym Reno, Klamath, gdziekolwiek. Zap³acê ci, powiedzmy, 500$ za coœ takiego. Myœlisz, ¿e mo¿esz to dla mnie zdobyæ?}
+{146}{}{PrzestaÅ„ mnie ciÄ…gle obraÅ¼aÄ‡. Spadam stÄ…d.}
+{147}{}{W takim razie musisz wiedzieÄ‡, Å¼e dla niektÃ³rych sÄ… ÅºrÃ³dÅ‚em nieustannych problemÃ³w. ByÅ‚oby cholernie fajnie mieÄ‡ w posiadaniu mapÄ™ ich kryjÃ³wek na pÃ³Å‚nocy - w Nowym Reno, Klamath, gdziekolwiek. ZapÅ‚acÄ™ ci, powiedzmy, 500$ za coÅ› takiego. MyÅ›lisz, Å¼e moÅ¼esz to dla mnie zdobyÄ‡?}
 {148}{}{Jasne.}
-{149}{}{Nie wydaje mi siê.}
-{150}{}{W takim razie ci powiem. Ci Stra¿nicy postanowili skoñczyæ raz na zawsze z nami i niewolnictwem. Sprawiaj¹ du¿o k³opotu ciê¿ko pracuj¹cym ludziom.}
-{151}{}{Dzia³aj¹ w tajemnicy, zw³aszcza na pó³nocy.}
-{152}{}{Jezu, mam ci to przeliterowaæ? Naje¿d¿aj¹ na nas, wyzwalaj¹ niewolników i szmugluj¹ ich na po³udnie, na tereny RNK, gdzie niewolnictwo jest nielegalne. Interesuje ciê to?}
-{153}{}{Nie ma ¿adnego "i"! Bierzesz tê robotê, czy nie?}
+{149}{}{Nie wydaje mi siÄ™.}
+{150}{}{W takim razie ci powiem. Ci StraÅ¼nicy postanowili skoÅ„czyÄ‡ raz na zawsze z nami i niewolnictwem. SprawiajÄ… duÅ¼o kÅ‚opotu ciÄ™Å¼ko pracujÄ…cym ludziom.}
+{151}{}{DziaÅ‚ajÄ… w tajemnicy, zwÅ‚aszcza na pÃ³Å‚nocy.}
+{152}{}{Jezu, mam ci to przeliterowaÄ‡? NajeÅ¼dÅ¼ajÄ… na nas, wyzwalajÄ… niewolnikÃ³w i szmuglujÄ… ich na poÅ‚udnie, na tereny RNK, gdzie niewolnictwo jest nielegalne. Interesuje ciÄ™ to?}
+{153}{}{Nie ma Å¼adnego "i"! Bierzesz tÄ™ robotÄ™, czy nie?}
 {154}{}{No i?}
-{155}{}{Co mam zrobiæ?}
-{156}{}{Œwietnie. Bêdê tu niecierpliwie czeka³ na mapê.}
-{157}{}{Gdzie znajdê tê mapê?}
-{158}{}{W porz¹dku, ale mam jeszcze kilka pytañ.}
-{159}{}{Wchodzê w to. Zobaczymy siê póŸniej.}
-{160}{}{Sk¹d do cholery mam wiedzieæ!? Gdybym wiedzia³, mia³bym j¹, co nie? Wiem tylko, ¿e maj¹ jak¹œ norê gdzieœ w mieœcie. ZnajdŸ ich i zobacz, co da siê zrobiæ.}
-{161}{}{Jeszcze kilka pytañ.}
-{162}{}{W porz¹dku. Jeszcze tu wrócê.}
-{163}{}{To znowu ty. Masz mapê?}
+{155}{}{Co mam zrobiÄ‡?}
+{156}{}{Åšwietnie. BÄ™dÄ™ tu niecierpliwie czekaÅ‚ na mapÄ™.}
+{157}{}{Gdzie znajdÄ™ tÄ™ mapÄ™?}
+{158}{}{W porzÄ…dku, ale mam jeszcze kilka pytaÅ„.}
+{159}{}{WchodzÄ™ w to. Zobaczymy siÄ™ pÃ³Åºniej.}
+{160}{}{SkÄ…d do cholery mam wiedzieÄ‡!? Gdybym wiedziaÅ‚, miaÅ‚bym jÄ…, co nie? Wiem tylko, Å¼e majÄ… jakÄ…Å› norÄ™ gdzieÅ› w mieÅ›cie. ZnajdÅº ich i zobacz, co da siÄ™ zrobiÄ‡.}
+{161}{}{Jeszcze kilka pytaÅ„.}
+{162}{}{W porzÄ…dku. Jeszcze tu wrÃ³cÄ™.}
+{163}{}{To znowu ty. Masz mapÄ™?}
 {164}{}{Tak.}
 {165}{}{Nie.}
-{166}{}{Najpierw skoñcz pierwsz¹ robotê!}
-{167}{}{A tak, wypad³o mi to z pamiêci.}
-{168}{}{Nie, od kiedy wykona³eœ swoj¹ robotê. Dziêki.}
+{166}{}{Najpierw skoÅ„cz pierwszÄ… robotÄ™!}
+{167}{}{A tak, wypadÅ‚o mi to z pamiÄ™ci.}
+{168}{}{Nie, od kiedy wykonaÅ‚eÅ› swojÄ… robotÄ™. DziÄ™ki.}
 {169}{}{Jedno lub dwa pytanka.}
-{170}{}{Nie ma sprawy. Czeœæ.}
-{171}{}{Dobra robota. Najlepsze, co teraz mo¿esz zrobiæ, to ulotniæ siê, na wypadek gdyby Stra¿nicy czegoœ siê domyœlili.}
-{172}{}{Interesy z tob¹ to przyjemnoœæ.}
-{173}{}{Nie szwendaj siê tutaj kretynie! Ktoœ mo¿e nabraæ podejrzeñ.}
-{174}{}{W porz¹dku, ³apiê o co biega.}
-{175}{}{Co do cholery? Stra¿e! Mamy intruza!}
-{176}{}{WejdŸ tam, a rozpierdolê ci ³eb. Kapujesz?}
-{177}{}{Jest ju¿ póŸno, mamy zamkniête. Wróæ rano.}
-{200}{}{Dobra robota. Ale mam dla ciebie jeszcze jedn¹ propozycjê. Jesteœ ³owc¹ niewolników, prawda? Co powiesz na u¿yczenie mi swoich talentów i zniszczenie tych kryjówek. Móg³bym ci zap³aciæ, powiedzmy 1000$.}
-{201}{}{Dobra robota. Ale mam dla ciebie jeszcze jedn¹ propozycjê. Wygl¹dasz na twardego skurczybyka. Co powiesz na wymiecenie Stra¿ników z ich kryjówek. Jest za to nagroda, powiedzmy 1000$.}
+{170}{}{Nie ma sprawy. CzeÅ›Ä‡.}
+{171}{}{Dobra robota. Najlepsze, co teraz moÅ¼esz zrobiÄ‡, to ulotniÄ‡ siÄ™, na wypadek gdyby StraÅ¼nicy czegoÅ› siÄ™ domyÅ›lili.}
+{172}{}{Interesy z tobÄ… to przyjemnoÅ›Ä‡.}
+{173}{}{Nie szwendaj siÄ™ tutaj kretynie! KtoÅ› moÅ¼e nabraÄ‡ podejrzeÅ„.}
+{174}{}{W porzÄ…dku, Å‚apiÄ™ o co biega.}
+{175}{}{Co do cholery? StraÅ¼e! Mamy intruza!}
+{176}{}{WejdÅº tam, a rozpierdolÄ™ ci Å‚eb. Kapujesz?}
+{177}{}{Jest juÅ¼ pÃ³Åºno, mamy zamkniÄ™te. WrÃ³Ä‡ rano.}
+{200}{}{Dobra robota. Ale mam dla ciebie jeszcze jednÄ… propozycjÄ™. JesteÅ› Å‚owcÄ… niewolnikÃ³w, prawda? Co powiesz na uÅ¼yczenie mi swoich talentÃ³w i zniszczenie tych kryjÃ³wek. MÃ³gÅ‚bym ci zapÅ‚aciÄ‡, powiedzmy 1000$.}
+{201}{}{Dobra robota. Ale mam dla ciebie jeszcze jednÄ… propozycjÄ™. WyglÄ…dasz na twardego skurczybyka. Co powiesz na wymiecenie StraÅ¼nikÃ³w z ich kryjÃ³wek. Jest za to nagroda, powiedzmy 1000$.}
 {202}{}{Jasne.}
 {203}{}{Nie interesuje mnie to.}
-{204}{}{Wyœmienicie. Czekaj, zaznaczê ci ich po³o¿enie. Zg³oœ siê jak skoñczysz.}
-{205}{}{Twoja strata. W takim razie lepiej kup sobie czapkê niewidkê, w razie gdyby Stra¿nicy RNK siê wycwanili.}
-{206}{}{Dobra. Czeœæ.}
-{207}{}{W³aœciwie, lepiej by by³o gdyby ktoœ poszed³ ze mn¹. By³oby szybciej i pewniej.}
-{210}{}{Jesteœ z powrotem? I jak posz³o, uda³o ci siê pozbyæ Stra¿ników RNK?}
-{211}{}{Oczywiœcie, ¿e tak. Bu³ka z mas³em.}
-{212}{}{Jeszcze nie. Ci¹gle nad tym pracujê.}
-{215}{}{Naprawdê? Jasna cholera. To najlepsza wiadomoœæ jak¹ kiedykolwiek s³ysza³em. To musia³ byæ cios dla Stra¿ników RNK. Œwietna robota. Twoja zap³ata. Teraz najlepiej siê st¹d ulotnij, bo Stra¿nicy w mieœcie na pewno ciê szukaj¹.}
-{216}{}{A niech sobie szukaj¹ -- nie bojê siê. Dziêki za pieni¹dze.}
-{217}{}{Wiêc lepiej wyjadê z miasta. Do zobaczenia póŸniej.}
-{218}{}{Ostatnio wszystko co robiê kogoœ wkurza. ¯adna nowoœæ. Czeœæ.}
-{220}{}{W ¿adnych cholernym razie. Nie wyœlê do tego ¿adnego z moich ch³opaków. Jeœli myœlisz, ¿e sobie z tym nie poradzisz, wyjdŸ.}
-{221}{}{Nigdy, niczego takiego nie mówiê. Chcê tylko ¿eby twoi ludzie te¿ mieli z tego trochê zabawy. Ale jak wolisz, zajmê siê ty w pojedynkê, ¿aden problem. Zg³oszê siê jak skoñczê.}
-{222}{}{Dobra, wypisuje siê z tego, frajerze. Nie bêdziesz siê mn¹ wys³ugiwa³. Czeœæ.}
-{223}{}{Nazywasz mnie tchórzem? Nikt nie nazywa mnie tchórzem, i ¿yje ¿eby o tym opowiadaæ!}
-{225}{}{Có¿, dobra. Myœlê, ¿e mogê zebraæ paru ch³opaków do pomocy. Do³¹cz¹ po drodze. Mo¿esz wyruszyæ od razu?}
-{226}{}{Daj mi trochê czasu na przygotowania. Wrócê póŸniej.}
-{227}{}{Natychmiast. Czas zaszaleæ.}
-{228}{}{Mogê. Ruszajmy.}
-{229}{}{Myœlê, ¿e dam sobie z tym spokój. Ju¿ mnie to nie interesuje. Czeœæ.}
-{230}{}{Bierzesz siê za to, czy jesteœ tu ¿eby marnowaæ mój czas?}
-{231}{}{Potrzebujê wiêcej czasu.}
-{232}{}{Mogê. Ruszajmy.}
-{240}{}{Uda³o ci siê oczyœciæ kryjówki ze Stra¿ników RNK. To by³ cios dla Stra¿ników w ich walce z niewolnictwem.}
-{241}{}{Szukam miejsca, w którym mogê kupiæ jakichœ niewolników.}
-{250}{}{Cholernie mi³o. Nie sprzedajemy tutaj niewolników. Metzger, na pó³noc st¹d, w Norze mo¿e ci w tym pomóc.}
-{251}{}{By³em tam, niestety, nie dogadaliœmy siê.}
-{252}{}{Nie wiem czy twoja dzia³alnoœæ jest komukolwiek potrzebna. Wiesz co? Poka¿e ci jak zabi³em Metzgera.}
-{260}{}{Có¿, nie jesteœcie wybredni, cholera. Zdajesz sobie sprawê, ¿e jego wp³yw nie jest ograniczony tylko do Nory, prawda? Ma swoje w³asne gospodarstwa, gdzie trzyma innych niewolników.}
-{261}{}{Ciekawe. Jak dostaæ siê do tej innej lokalizacji?}
-{270}{}{Czy ty kurwa myœlisz, ¿e mo¿esz dostaæ wszystko i to za darmo? 1000 dolarów. Bierz albo wyjdŸ.}
-{271}{}{Czy ty kurwa myœlisz, ¿e mo¿esz dostaæ wszystko i to za darmo? Plus za œluz cnoty. Nie podoba mi siê to. 2000 dolarów. Bierz albo wyjdŸ.}
+{204}{}{WyÅ›mienicie. Czekaj, zaznaczÄ™ ci ich poÅ‚oÅ¼enie. ZgÅ‚oÅ› siÄ™ jak skoÅ„czysz.}
+{205}{}{Twoja strata. W takim razie lepiej kup sobie czapkÄ™ niewidkÄ™, w razie gdyby StraÅ¼nicy RNK siÄ™ wycwanili.}
+{206}{}{Dobra. CzeÅ›Ä‡.}
+{207}{}{WÅ‚aÅ›ciwie, lepiej by byÅ‚o gdyby ktoÅ› poszedÅ‚ ze mnÄ…. ByÅ‚oby szybciej i pewniej.}
+{210}{}{JesteÅ› z powrotem? I jak poszÅ‚o, udaÅ‚o ci siÄ™ pozbyÄ‡ StraÅ¼nikÃ³w RNK?}
+{211}{}{OczywiÅ›cie, Å¼e tak. BuÅ‚ka z masÅ‚em.}
+{212}{}{Jeszcze nie. CiÄ…gle nad tym pracujÄ™.}
+{215}{}{NaprawdÄ™? Jasna cholera. To najlepsza wiadomoÅ›Ä‡ jakÄ… kiedykolwiek sÅ‚yszaÅ‚em. To musiaÅ‚ byÄ‡ cios dla StraÅ¼nikÃ³w RNK. Åšwietna robota. Twoja zapÅ‚ata. Teraz najlepiej siÄ™ stÄ…d ulotnij, bo StraÅ¼nicy w mieÅ›cie na pewno ciÄ™ szukajÄ….}
+{216}{}{A niech sobie szukajÄ… -- nie bojÄ™ siÄ™. DziÄ™ki za pieniÄ…dze.}
+{217}{}{WiÄ™c lepiej wyjadÄ™ z miasta. Do zobaczenia pÃ³Åºniej.}
+{218}{}{Ostatnio wszystko co robiÄ™ kogoÅ› wkurza. Å»adna nowoÅ›Ä‡. CzeÅ›Ä‡.}
+{220}{}{W Å¼adnych cholernym razie. Nie wyÅ›lÄ™ do tego Å¼adnego z moich chÅ‚opakÃ³w. JeÅ›li myÅ›lisz, Å¼e sobie z tym nie poradzisz, wyjdÅº.}
+{221}{}{Nigdy, niczego takiego nie mÃ³wiÄ™. ChcÄ™ tylko Å¼eby twoi ludzie teÅ¼ mieli z tego trochÄ™ zabawy. Ale jak wolisz, zajmÄ™ siÄ™ ty w pojedynkÄ™, Å¼aden problem. ZgÅ‚oszÄ™ siÄ™ jak skoÅ„czÄ™.}
+{222}{}{Dobra, wypisuje siÄ™ z tego, frajerze. Nie bÄ™dziesz siÄ™ mnÄ… wysÅ‚ugiwaÅ‚. CzeÅ›Ä‡.}
+{223}{}{Nazywasz mnie tchÃ³rzem? Nikt nie nazywa mnie tchÃ³rzem, i Å¼yje Å¼eby o tym opowiadaÄ‡!}
+{225}{}{CÃ³Å¼, dobra. MyÅ›lÄ™, Å¼e mogÄ™ zebraÄ‡ paru chÅ‚opakÃ³w do pomocy. DoÅ‚Ä…czÄ… po drodze. MoÅ¼esz wyruszyÄ‡ od razu?}
+{226}{}{Daj mi trochÄ™ czasu na przygotowania. WrÃ³cÄ™ pÃ³Åºniej.}
+{227}{}{Natychmiast. Czas zaszaleÄ‡.}
+{228}{}{MogÄ™. Ruszajmy.}
+{229}{}{MyÅ›lÄ™, Å¼e dam sobie z tym spokÃ³j. JuÅ¼ mnie to nie interesuje. CzeÅ›Ä‡.}
+{230}{}{Bierzesz siÄ™ za to, czy jesteÅ› tu Å¼eby marnowaÄ‡ mÃ³j czas?}
+{231}{}{PotrzebujÄ™ wiÄ™cej czasu.}
+{232}{}{MogÄ™. Ruszajmy.}
+{240}{}{UdaÅ‚o ci siÄ™ oczyÅ›ciÄ‡ kryjÃ³wki ze StraÅ¼nikÃ³w RNK. To byÅ‚ cios dla StraÅ¼nikÃ³w w ich walce z niewolnictwem.}
+{241}{}{Szukam miejsca, w ktÃ³rym mogÄ™ kupiÄ‡ jakichÅ› niewolnikÃ³w.}
+{250}{}{Cholernie miÅ‚o. Nie sprzedajemy tutaj niewolnikÃ³w. Metzger, na pÃ³Å‚noc stÄ…d, w Norze moÅ¼e ci w tym pomÃ³c.}
+{251}{}{ByÅ‚em tam, niestety, nie dogadaliÅ›my siÄ™.}
+{252}{}{Nie wiem czy twoja dziaÅ‚alnoÅ›Ä‡ jest komukolwiek potrzebna. Wiesz co? PokaÅ¼e ci jak zabiÅ‚em Metzgera.}
+{260}{}{CÃ³Å¼, nie jesteÅ›cie wybredni, cholera. Zdajesz sobie sprawÄ™, Å¼e jego wpÅ‚yw nie jest ograniczony tylko do Nory, prawda? Ma swoje wÅ‚asne gospodarstwa, gdzie trzyma innych niewolnikÃ³w.}
+{261}{}{Ciekawe. Jak dostaÄ‡ siÄ™ do tej innej lokalizacji?}
+{270}{}{Czy ty kurwa myÅ›lisz, Å¼e moÅ¼esz dostaÄ‡ wszystko i to za darmo? 1000 dolarÃ³w. Bierz albo wyjdÅº.}
+{271}{}{Czy ty kurwa myÅ›lisz, Å¼e moÅ¼esz dostaÄ‡ wszystko i to za darmo? Plus za Å›luz cnoty. Nie podoba mi siÄ™ to. 2000 dolarÃ³w. Bierz albo wyjdÅº.}
 {272}{}{Dobra, trzymaj.}
-{273}{}{Niewa¿ne.}
-{274}{}{Robiê co chcê. I myœlê, ¿e ciê teraz zabijê.}
-{275}{}{Wrócê, gdy zdobêde wiêcej pieniêdzy.}
-{280}{}{[Wskazuje na mapê lokalizacjê obozu niewolników.] To jest gdzieœ tu. Nadal masz zamiar marnowaæ mój czas?}
-{281}{}{Mam to, czego potrzebujê. Pa.}
+{273}{}{NiewaÅ¼ne.}
+{274}{}{RobiÄ™ co chcÄ™. I myÅ›lÄ™, Å¼e ciÄ™ teraz zabijÄ™.}
+{275}{}{WrÃ³cÄ™, gdy zdobÄ™de wiÄ™cej pieniÄ™dzy.}
+{280}{}{[Wskazuje na mapÄ™ lokalizacjÄ™ obozu niewolnikÃ³w.] To jest gdzieÅ› tu. Nadal masz zamiar marnowaÄ‡ mÃ³j czas?}
+{281}{}{Mam to, czego potrzebujÄ™. Pa.}

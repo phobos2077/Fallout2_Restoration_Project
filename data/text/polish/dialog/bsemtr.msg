@@ -1,5 +1,5 @@
-{100}{}{Widzisz dziwnπ maszynÍ obok pola si≥owego.}
-{101}{}{Widzisz emiter pola si≥owego.}
-{102}{}{Tak dziwnej úciany jeszcze na twojej drodze nie by≥o.}
-{103}{}{To jest emiter pola si≥owego. Dostarcza mocy polu si≥owemu.}
-{104}{}{Emiter wydaje úwiszczπcy düwiÍk i wybucha.}
+{100}{}{Widzisz dziwnƒÖ maszynƒô obok pola si≈Çowego.}
+{101}{}{Widzisz emiter pola si≈Çowego.}
+{102}{}{Tak dziwnej ≈õciany jeszcze na twojej drodze nie by≈Ço.}
+{103}{}{To jest emiter pola si≈Çowego. Dostarcza mocy polu si≈Çowemu.}
+{104}{}{Emiter wydaje ≈õwiszczƒÖcy d≈∫wiƒôk i wybucha.}

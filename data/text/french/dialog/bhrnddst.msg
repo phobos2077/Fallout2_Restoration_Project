@@ -2,18 +2,18 @@
 {101}{}{Tu rencontres des crapules.}
 {102}{}{Tu rencontres des loups.}
 {103}{}{Tu rencontres des radscorpions.}
-{104}{}{Tu rencontres des plantes à spores.}
+{104}{}{Tu rencontres des plantes Ã  spores.}
 {105}{}{Tu rencontres une patrouille combattant des criminels.}
 {106}{}{Tu rencontres une patrouille combattant des loups.}
-{107}{}{Tu rencontres une unité de patrouille.}
+{107}{}{Tu rencontres une unitÃ© de patrouille.}
 {150}{}{Tu rencontres des esclavagistes et des chiens.}
 {151}{}{Tu rencontres des esclavagistes.}
-{152}{}{Tu rencontres des geckos dorés.}
+{152}{}{Tu rencontres des geckos dorÃ©s.}
 {153}{}{Tu rencontres des chiens sauvages.}
 {154}{}{Tu rencontres une patrouille et des chiens combattant des esclavagistes.}
-{155}{}{Tu rencontres des esclavagistes combattant des geckos dorés.}
+{155}{}{Tu rencontres des esclavagistes combattant des geckos dorÃ©s.}
 {156}{}{Tu rencontres une patrouille combattant des esclavagistes.}
-{157}{}{Tu rencontres une patrouille combattant des geckos dorés.}
+{157}{}{Tu rencontres une patrouille combattant des geckos dorÃ©s.}
 {158}{}{Tu rencontres une patrouille combattant des chiens sauvages.}
 {159}{}{Tu rencontres une patrouille.}
 {200}{}{Tu es pris en embuscade par des pillards.}
@@ -29,8 +29,8 @@
 {250}{}{Tu rencontres des maraudeurs.}
 {251}{}{Tu rencontres des loups.}
 {252}{}{Tu rencontres des radscorpions.}
-{253}{}{Tu rencontres une caravane repoussant une attaque de rôdeurs.}
-{254}{}{Tu rencontres une caravane repoussant une attaque de rôdeurs.}
+{253}{}{Tu rencontres une caravane repoussant une attaque de rÃ´deurs.}
+{254}{}{Tu rencontres une caravane repoussant une attaque de rÃ´deurs.}
 {255}{}{Tu rencontres une caravane repoussant une attaque de loups.}
 {256}{}{Tu rencontres une caravane repoussant une attaque de radscorpions.}
 {257}{}{Tu rencontres une caravane.}
@@ -38,12 +38,12 @@
 {259}{}{Tu rencontres une caravane.}
 {260}{}{Tu rencontres une caravane.}
 {261}{}{Tu rencontres un voyageur.}
-{300}{}{Tu rencontres des restes de l'armée du Maître.}
+{300}{}{Tu rencontres des restes de l'armÃ©e du MaÃ®tre.}
 {301}{}{Tu rencontres des maraudeurs.}
-{302}{}{Tu rencontres des Commandos de RNC livrant bataille à des restes de l'armée du Maître.}
+{302}{}{Tu rencontres des Commandos de RNC livrant bataille Ã  des restes de l'armÃ©e du MaÃ®tre.}
 {303}{}{Tu rencontres des Commandos de RNC se battant contre des maraudeurs.}
-{304}{}{Tu rencontres des fermiers repoussant une attaque des restes de l'armée du Maître.}
-{305}{}{Tu rencontres des fermiers repoussant une attaque de rôdeurs.}
+{304}{}{Tu rencontres des fermiers repoussant une attaque des restes de l'armÃ©e du MaÃ®tre.}
+{305}{}{Tu rencontres des fermiers repoussant une attaque de rÃ´deurs.}
 {306}{}{Tu rencontres des Commandos de RNC.}
 {307}{}{Tu rencontres des fermiers.}
 {350}{}{Tu rencontres une caravane d'esclavagistes.}
@@ -53,7 +53,7 @@
 {354}{}{Tu rencontres une caravane repoussant une attaque de bandits.}
 {355}{}{Tu rencontres une caravane repoussant une attaque de bandits.}
 {356}{}{Tu rencontres une caravane repoussant une attaque de bandits.}
-{357}{}{Tu rencontres une caravane assiégée par des bandits.}
+{357}{}{Tu rencontres une caravane assiÃ©gÃ©e par des bandits.}
 {358}{}{Tu rencontres une caravane d'esclaves combattant une autre caravane.}
 {359}{}{Tu rencontres des bandits combattant des voleurs.}
 {360}{}{Tu rencontres une caravane.}
@@ -61,11 +61,11 @@
 {400}{}{Tu rencontres des bandits.}
 {401}{}{Tu rencontres des voleurs.}
 {402}{}{Tu rencontres des bandits et des voleurs.}
-{403}{}{Tu rencontres des geckos dorés et des radscorpions.}
-{404}{}{Tu rencontres des geckos dorés.}
+{403}{}{Tu rencontres des geckos dorÃ©s et des radscorpions.}
+{404}{}{Tu rencontres des geckos dorÃ©s.}
 {405}{}{Tu rencontres des rataupes et des rats cochons.}
 {406}{}{Tu rencontres des radscorpions.}
-{407}{}{Tu rencontres des plantes à spores.}
+{407}{}{Tu rencontres des plantes Ã  spores.}
 {408}{}{Tu rencontres des bandits combattant des voleurs.}
 {409}{}{Tu rencontres une caravane repoussant une attaque de bandits.}
 {410}{}{Tu rencontres une caravane repoussant une attaque de voleurs.}
@@ -74,21 +74,21 @@
 {413}{}{Tu rencontres une caravane.}
 {450}{}{Tu rencontres des voleurs et des bandits.}
 {451}{}{Tu rencontres des bandits et des geckos.}
-{452}{}{Tu rencontres des geckos dorés.}
-{453}{}{Tu rencontres des radscorpions et des plantes à spores.}
+{452}{}{Tu rencontres des geckos dorÃ©s.}
+{453}{}{Tu rencontres des radscorpions et des plantes Ã  spores.}
 {454}{}{Tu rencontres des bandits se battant contre des radscorpions.}
 {455}{}{Tu rencontres des radscorpions se battant contre des bandits.}
 {456}{}{Tu rencontres une caravane repoussant une attaque de bandits.}
 {457}{}{Tu rencontres une caravane repoussant une attaque de voleurs.}
-{458}{}{Tu rencontres quelques voleurs déracinant des plantes à spores.}
+{458}{}{Tu rencontres quelques voleurs dÃ©racinant des plantes Ã  spores.}
 {459}{}{Tu rencontres une caravane.}
 {500}{}{Tu rencontres des bandits et des chiens sauvages.}
 {501}{}{Tu rencontres des bandits et des chiens sauvages.}
 {502}{}{Tu rencontres des voleurs.}
 {503}{}{Tu rencontres des bandits.}
-{504}{}{Tu rencontres des nuées de mantes et de quelques plantes à spores.}
-{505}{}{Tu rencontres des chiens et des plantes à spores.}
-{506}{}{Tu rencontres des nuées de mantes.}
+{504}{}{Tu rencontres des nuÃ©es de mantes et de quelques plantes Ã  spores.}
+{505}{}{Tu rencontres des chiens et des plantes Ã  spores.}
+{506}{}{Tu rencontres des nuÃ©es de mantes.}
 {507}{}{Tu rencontres des chiens sauvages.}
 {508}{}{Tu rencontres des voleurs luttant contre des chiens.}
 {509}{}{Tu rencontres une caravane repoussant une attaque de chiens.}
@@ -98,12 +98,12 @@
 {550}{}{Tu rencontres des geckos et des loups.}
 {551}{}{Tu rencontres des escrocs.}
 {552}{}{Tu rencontres des loups.}
-{553}{}{Tu rencontres des geckos dorés.}
-{554}{}{Tu rencontres des prospecteurs attaqués par des escrocs.}
+{553}{}{Tu rencontres des geckos dorÃ©s.}
+{554}{}{Tu rencontres des prospecteurs attaquÃ©s par des escrocs.}
 {555}{}{Tu rencontres des chasseurs traquant des geckos.}
 {556}{}{Tu rencontres des contrebandiers combattant des loups.}
-{557}{}{Tu rencontres des propriétaires combattant des escrocs.}
-{558}{}{Tu rencontres des propriétaires combattant des loups.}
+{557}{}{Tu rencontres des propriÃ©taires combattant des escrocs.}
+{558}{}{Tu rencontres des propriÃ©taires combattant des loups.}
 {559}{}{Tu rencontres des contrebandiers.}
 {560}{}{Tu rencontres des chasseurs.}
 {561}{}{Tu rencontres des prospecteurs.}
@@ -133,8 +133,8 @@
 {704}{}{Tu rencontres des gangsters combattant un gang.}
 {705}{}{Tu rencontres quelques gangsters.}
 {706}{}{Tu rencontres un voyageur.}
-{750}{}{Tu rencontres une caravane attaquée par des restes de l'armée du Maître.}
-{751}{}{Tu rencontres une caravane luttant contre des restes de l'armée du Maître.}
+{750}{}{Tu rencontres une caravane attaquÃ©e par des restes de l'armÃ©e du MaÃ®tre.}
+{751}{}{Tu rencontres une caravane luttant contre des restes de l'armÃ©e du MaÃ®tre.}
 {752}{}{Tu rencontres une caravane combattant des Griffemorts.}
 {753}{}{Tu rencontres une caravane.}
 {754}{}{Tu rencontres une caravane.}

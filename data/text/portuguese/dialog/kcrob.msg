@@ -1,3 +1,3 @@
-{100}{}{Você vê um robô.}
-{101}{}{Este robô sofreu uma grande quantidade de dano. Sua superfície está coberta de amassados, arranhões, lama e fios cortados.}
+{100}{}{VocÃª vÃª um robÃ´.}
+{101}{}{Este robÃ´ sofreu uma grande quantidade de dano. Sua superfÃ­cie estÃ¡ coberta de amassados, arranhÃµes, lama e fios cortados.}
 {102}{}{}

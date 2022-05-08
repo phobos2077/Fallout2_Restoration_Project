@@ -6,9 +6,9 @@
 {201}{}{[This sun bronzed giant looks as if his corded muscles were carved out of granite. Beneath a mane of black hair,
  his smoldering blue eyes roam unabashedly over your body.] I'm Krom, the head warrior of this tribe. By the Gods, girl,
  your beauty could drive a man mad.}
-{202}{}{…n }
+{202}{}{√ân }
 {203}{}{, and I'm on a holy quest to save my village, Arroyo, from certain destruction.}
-{204}{}{…n }
+{204}{}{√ân }
 {205}{}{, and I've been on a holy quest to save my village, Arroyo, from certain destruction. I found what I needed though.}
 {206}{}{I'm a simple wanderer -- nothing more. I'll be moving on now.}
 {207}{}{[Smile.] Thank you, Krom.}
@@ -77,7 +77,7 @@
 {292}{}{Whoa! Let me go, you got the wrong idea!}
 {300}{}{To hell with you, temptress! Go bring your teasing elsewhere. I have no time to waste on you.}
 {301}{}{Yeah, well fuck you too. Bye.}
-{302}{}{Ahogy gondolja. Viszl·t!}
+{302}{}{Ahogy gondolja. Viszl√°t!}
 {310}{}{[Several hours pass by in a haze of sweaty, brutal passion. Finally, you lay on the floor of Krom's hut, exhausted.
  Krom lies at your side, his eyes devouring the contours of your body.] By the Gods, girl, you're incredible!}
 {311}{}{Thanks. You're not so bad yourself.}
@@ -93,13 +93,13 @@
 {340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
  trader's soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
  yet, but I've got a feeling about our next meeting.}
-{341}{}{MiÈrt?}
+{341}{}{Mi√©rt?}
 {342}{}{I don't see how I fit into this. What's your point?}
 {350}{}{When last we spoke, he boasted he'd be bringing me something truly miraculous, and that I'd be wise to haul all
  the golden gecko hides I could carry to the meet. I don't know what his miracle item is, but it's likely some civilized
  trinket that he'll hope I'll be ignorant of enough to pay far more than it's worth. That's why I'd like you to make the
  trade.}
-{351}{}{MiÈrt pont velem esik meg?}
+{351}{}{Mi√©rt pont velem esik meg?}
 {352}{}{Sorry, but I think I'll pass. Bye.}
 {360}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the
  civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good
@@ -109,13 +109,13 @@
  feeling about you girl, and I've learned to trust my instincts.}
 {362}{}{Alright. Let's do this.}
 {363}{}{Alright, but give me a moment to get ready.}
-{364}{}{Ha segÌtek, miÈrt jÛ az nekem?}
+{364}{}{Ha seg√≠tek, mi√©rt j√≥ az nekem?}
 {370}{}{[He chuckles.] I offer the hospitality of our tribe and the opportunity to impress me. I promise no more than that.}
 {371}{}{Alright. Let's do this.}
 {372}{}{Alright, but give me a moment to get ready.}
 {373}{}{Not interested. Bye.}
 {375}{}{Are you ready to go?}
-{376}{}{MÈg nem.}
+{376}{}{M√©g nem.}
 {377}{}{Alright. Let's do this.}
 {380}{}{It's up to you to decide.}
 {390}{}{[Krom examines one of the tribe's newly acquired stimpaks.] These should prove to be quite useful. [He brings
@@ -149,7 +149,7 @@
  girl, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
 {442}{}{Nem gond.}
 {443}{}{My pleasure.}
-{444}{}{Ahogy gondolja. Viszl·t!}
+{444}{}{Ahogy gondolja. Viszl√°t!}
 {450}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
  in spotting his deceit. I see I made a wise choice in trusting you. You're welcome to stay among us, and treat our tribe
  as your own. However, I may call on your aid again in the future. Thanks for your help.}
@@ -158,7 +158,7 @@
  tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
 {452}{}{Nem gond.}
 {453}{}{My pleasure.}
-{454}{}{Ahogy gondolja. Viszl·t!}
+{454}{}{Ahogy gondolja. Viszl√°t!}
 {460}{}{[The giant warrior nods a greeting as you approach.] Welcome back, friend. Do you need something?}
 {461}{}{[The giant warrior grins as he watches you approach.] By the God's, I nearly forgot how gorgeous you are. Do you
  need something, girl?}
@@ -197,7 +197,7 @@
 {522}{}{Alright, maybe I'll do that. But first, could I ask you something else?}
 {530}{}{Good to see you, friend. If you've got a moment, I could use your assistance again.}
 {531}{}{Good to see you again, girl. If you've got a moment, I could use your assistance.}
-{532}{}{Persze. Mire van sz¸ksÈge?}
+{532}{}{Persze. Mire van sz√ºks√©ge?}
 {533}{}{Sorry, I'm busy now. Perhaps later.}
 {540}{}{Two of our hunters, Serin and Jerem, have not yet returned from the hunting ground and some people are starting to worry. They're two of our best warriors, and I'd hate to think something has happened to them. I'd go search for them myself, but if the villagers saw me take such a personal interest in the matter, I fear they'd assume the worst. I'd rather not get people riled up until I know what's going on. So, will you seek them out for me?}
 {541}{}{Alright, but where should I look?}
@@ -237,16 +237,16 @@
 {831}{}{I found.}
 {832}{}{I still look.}
 {840}{}{[Krom quickly scrutinizes the weapons, then grins and pats you on the back.] You did a good job. Thank you. Now run along and stay out of trouble.}
-{841}{}{‹dv!}
+{841}{}{√údv!}
 {850}{}{[Krom ruffles your hair.] There's my special helper. You run along now and stay out of trouble.}
-{851}{}{‹dv!}
+{851}{}{√údv!}
 {860}{}{Come to press your luck, have you?}
 {861}{}{No, I've come to kick your ass.}
 {862}{}{No, I just wanted to apologize for offending you.}
 {863}{}{No, I was just leaving.}
 {870}{}{Ah, it seems I'm in a forgiving mood today, friend. Now what can I do for you?}
 {871}{}{I don't like being toyed with girl, but by the gods, how could I stay mad at a goddess like you? Now, what can I do for you?}
-{872}{}{Felejts¸k el! Viszl·t.}
+{872}{}{Felejts√ºk el! Viszl√°t.}
 {1000}{}{[The giant warrior nods respectfully to you.] Well, if it isn't the great hero of the wastes. That was a pretty
  impressive feat, sending them Enclave dogs to hell like that. In fact, hearing tales of your exploits has inspired me to
  head back out into the wastes myself.}

@@ -1,129 +1,129 @@
-{100}{}{Widzisz w³aœciciela Dziury.}
-{101}{}{Widzisz Frankiego, w³aœciciela Dziury.}
-{150}{}{To chyba w³aœciciel tego lokalu.}
+{100}{}{Widzisz wÅ‚aÅ›ciciela Dziury.}
+{101}{}{Widzisz Frankiego, wÅ‚aÅ›ciciela Dziury.}
+{150}{}{To chyba wÅ‚aÅ›ciciel tego lokalu.}
 {151}{}{Widzisz Frankiego. To jego lokal.}
 {152}{}{[ROZMAWIAJ]}
-{153}{}{Jestem Frankie, witaj w "Dziurze". To najlepsza speluna w promieniu stu mil! Jeœli chcesz siê rozerwaæ, to jesteœ we w³aœciwym miejscu. Tylko mi tu nie rozrabiaj, zrozumiano?}
-{154}{}{Jasno i przejrzyœcie.}
+{153}{}{Jestem Frankie, witaj w "Dziurze". To najlepsza speluna w promieniu stu mil! JeÅ›li chcesz siÄ™ rozerwaÄ‡, to jesteÅ› we wÅ‚aÅ›ciwym miejscu. Tylko mi tu nie rozrabiaj, zrozumiano?}
+{154}{}{Jasno i przejrzyÅ›cie.}
 {155}{}{Tak, spoko.}
 {156}{}{"Dziura"? Trafna nazwa}
-{157}{}{Hê?}
-{158}{}{Co ciê interesuje?}
+{157}{}{HÄ™?}
+{158}{}{Co ciÄ™ interesuje?}
 {159}{}{Whiskey.}
 {160}{}{Kobiety.}
 {161}{}{Faceci.}
 {162}{}{Informacje.}
 {163}{}{Chwilowo nic. Pa.}
 {164}{}{Sikacz.}
-{165}{}{Hej! Lepiej zamknij dziób!}
+{165}{}{Hej! Lepiej zamknij dziÃ³b!}
 {166}{}{Albo co?}
-{167}{}{Zajmij siê swoj¹ robot¹ i nalej mi kolejkê.}
-{168}{}{Mo¿e lepiej st¹d pójdê.}
+{167}{}{Zajmij siÄ™ swojÄ… robotÄ… i nalej mi kolejkÄ™.}
+{168}{}{MoÅ¼e lepiej stÄ…d pÃ³jdÄ™.}
 {169}{}{Whiskey kosztuje $}
-{170}{}{ za szklankê.}
-{171}{}{Oto pieni¹dze.}
-{172}{}{¯artujesz?! To za drogo!}
-{173}{}{Czemu twoja whiskey jest o wiele dro¿sza od tej, któr¹ serwuje Becky?}
-{174}{}{Nie, dziêkujê.}
-{175}{}{Coœ jeszcze?}
+{170}{}{ za szklankÄ™.}
+{171}{}{Oto pieniÄ…dze.}
+{172}{}{Å»artujesz?! To za drogo!}
+{173}{}{Czemu twoja whiskey jest o wiele droÅ¼sza od tej, ktÃ³rÄ… serwuje Becky?}
+{174}{}{Nie, dziÄ™kujÄ™.}
+{175}{}{CoÅ› jeszcze?}
 {176}{}{Tak.}
-{177}{}{Nie, dziêki.}
-{178}{}{A gdzie masz pieni¹dze?! Tu nie armia zbawienia!}
-{179}{}{Oj, przepraszam. Trochê s³abo stojê z fors¹.}
-{180}{}{Jeszcze tu wrócê.}
+{177}{}{Nie, dziÄ™ki.}
+{178}{}{A gdzie masz pieniÄ…dze?! Tu nie armia zbawienia!}
+{179}{}{Oj, przepraszam. TrochÄ™ sÅ‚abo stojÄ™ z forsÄ….}
+{180}{}{Jeszcze tu wrÃ³cÄ™.}
 {181}{}{Czego chcesz?}
 {182}{}{Whiskey.}
-{183}{}{Niczego. W³aœnie wychodzê.}
+{183}{}{Niczego. WÅ‚aÅ›nie wychodzÄ™.}
 {184}{}{Chwebo mcesz!}
 {185}{}{I nie wracaj!}
-{186}{}{[WyjdŸ]}
-{187}{}{Nie chcê tu takich jak ty. Wynoœ siê!}
-{188}{}{Dobra, wychodzê.}
-{189}{}{£aa.}
-{190}{}{Rodzinki z Nowego Reno ka¿¹ sobie s³ono p³aciæ za gorza³ê. Nie mam pojêcia, jak ona to robi!}
-{191}{}{No to powinieneœ siê dowiedzieæ.}
-{192}{}{Mogê siê tego dla ciebie dowiedzieæ.}
+{186}{}{[WyjdÅº]}
+{187}{}{Nie chcÄ™ tu takich jak ty. WynoÅ› siÄ™!}
+{188}{}{Dobra, wychodzÄ™.}
+{189}{}{Åaa.}
+{190}{}{Rodzinki z Nowego Reno kaÅ¼Ä… sobie sÅ‚ono pÅ‚aciÄ‡ za gorzaÅ‚Ä™. Nie mam pojÄ™cia, jak ona to robi!}
+{191}{}{No to powinieneÅ› siÄ™ dowiedzieÄ‡.}
+{192}{}{MogÄ™ siÄ™ tego dla ciebie dowiedzieÄ‡.}
 {193}{}{Wiem, jak ona to robi.}
-{194}{}{Lepiej napijê siê whiskey u niej.}
-{195}{}{Jeœli dowiesz siê, sk¹d Becky bierze gorza³ê, zap³acê ci $100.}
+{194}{}{Lepiej napijÄ™ siÄ™ whiskey u niej.}
+{195}{}{JeÅ›li dowiesz siÄ™, skÄ…d Becky bierze gorzaÅ‚Ä™, zapÅ‚acÄ™ ci $100.}
 {196}{}{Nie ma sprawy.}
-{197}{}{Mo¿e innym razem.}
+{197}{}{MoÅ¼e innym razem.}
 {198}{}{No i? Jakim cudem jej whiskey jest taka tania?}
-{199}{}{Ma aparaturê destylacyjn¹.}
-{200}{}{Jeszcze nie wiem. Wrócê póŸniej.}
-{201}{}{Co? Aparaturê?! Niech j¹ szlag. Masz tu swoje $100. Dostaniesz dodatkowe $500 jeœli zniszczysz jej sprzêt. Mo¿esz u¿yæ mojego ³omu, jest na zapleczu. To powinno wystarczyæ na tê jej pieprzon¹ aparaturê!}
-{202}{}{Ju¿ zrobione.}
-{203}{}{Dobra, za³atwione.}
-{204}{}{O nie, to ju¿ przesada. Masz ju¿ swoj¹ informacjê. Reszt¹ zajmij siê sam.}
-{205}{}{Nie, mam lepszy pomys³.}
-{206}{}{No i jak, aparatura zniszczona? WeŸ mój ³om. To powinno wystarczyæ.}
+{199}{}{Ma aparaturÄ™ destylacyjnÄ….}
+{200}{}{Jeszcze nie wiem. WrÃ³cÄ™ pÃ³Åºniej.}
+{201}{}{Co? AparaturÄ™?! Niech jÄ… szlag. Masz tu swoje $100. Dostaniesz dodatkowe $500 jeÅ›li zniszczysz jej sprzÄ™t. MoÅ¼esz uÅ¼yÄ‡ mojego Å‚omu, jest na zapleczu. To powinno wystarczyÄ‡ na tÄ™ jej pieprzonÄ… aparaturÄ™!}
+{202}{}{JuÅ¼ zrobione.}
+{203}{}{Dobra, zaÅ‚atwione.}
+{204}{}{O nie, to juÅ¼ przesada. Masz juÅ¼ swojÄ… informacjÄ™. ResztÄ… zajmij siÄ™ sam.}
+{205}{}{Nie, mam lepszy pomysÅ‚.}
+{206}{}{No i jak, aparatura zniszczona? WeÅº mÃ³j Å‚om. To powinno wystarczyÄ‡.}
 {207}{}{Tak, zniszczona.}
-{208}{}{Mam lepszy pomys³.}
-{209}{}{Nie. Dam ci znaæ jak skoñczê.}
-{210}{}{A wiêc tu jest twoje $500. Dziêki.}
-{211}{}{Mi³o robiæ z tob¹ interesy.}
-{212}{}{Zdajesz sobie sprawê, Frankie, ¿e ona zbuduje kolejn¹?}
-{213}{}{Dziêkujê. Do zobaczenia.}
-{214}{}{Pieprzyæ! Przynajmniej na razie nie ma gorza³y.}
-{215}{}{Dlaczego z ni¹ walczysz, Frankie? Po³¹czcie si³y.}
-{216}{}{Pomyœl: sk¹d jeszcze mo¿esz wzi¹æ alkohol?}
+{208}{}{Mam lepszy pomysÅ‚.}
+{209}{}{Nie. Dam ci znaÄ‡ jak skoÅ„czÄ™.}
+{210}{}{A wiÄ™c tu jest twoje $500. DziÄ™ki.}
+{211}{}{MiÅ‚o robiÄ‡ z tobÄ… interesy.}
+{212}{}{Zdajesz sobie sprawÄ™, Frankie, Å¼e ona zbuduje kolejnÄ…?}
+{213}{}{DziÄ™kujÄ™. Do zobaczenia.}
+{214}{}{PieprzyÄ‡! Przynajmniej na razie nie ma gorzaÅ‚y.}
+{215}{}{Dlaczego z niÄ… walczysz, Frankie? PoÅ‚Ä…czcie siÅ‚y.}
+{216}{}{PomyÅ›l: skÄ…d jeszcze moÅ¼esz wziÄ…Ä‡ alkohol?}
 {217}{}{Co to znaczy?}
-{218}{}{Kupuj go od niej. Jest tañszy ni¿ w Nowym Reno, wiêc zarobisz wiêcej pieniêdzy.}
-{219}{}{Nie chcê tego robiæ.}
-{220}{}{Niewa¿ne.}
-{221}{}{S³uchaj, po prostu chcê, ¿eby tê jej aparaturê trafi³ szlag. Kapujesz?!}
-{222}{}{Dobra, da siê zrobiæ.}
-{223}{}{Beze mnie. ¯egnaj.}
-{224}{}{Mo¿e masz racjê. Porozmawiam z ni¹. Dziêki.}
-{225}{}{Hej, od czego ma siê przyjació³?}
+{218}{}{Kupuj go od niej. Jest taÅ„szy niÅ¼ w Nowym Reno, wiÄ™c zarobisz wiÄ™cej pieniÄ™dzy.}
+{219}{}{Nie chcÄ™ tego robiÄ‡.}
+{220}{}{NiewaÅ¼ne.}
+{221}{}{SÅ‚uchaj, po prostu chcÄ™, Å¼eby tÄ™ jej aparaturÄ™ trafiÅ‚ szlag. Kapujesz?!}
+{222}{}{Dobra, da siÄ™ zrobiÄ‡.}
+{223}{}{Beze mnie. Å»egnaj.}
+{224}{}{MoÅ¼e masz racjÄ™. Porozmawiam z niÄ…. DziÄ™ki.}
+{225}{}{Hej, od czego ma siÄ™ przyjaciÃ³Å‚?}
 {226}{}{Bywaj.}
-{227}{}{Nie dysponujê tak¹ informacj¹.}
-{228}{}{Serio? To dlaczego Becky ma o wiele tañsze drinki od ciebie?}
-{229}{}{Podobno barmani wiedz¹ wszystko.}
-{230}{}{No to jestem w niew³aœciwym miejscu.}
-{231}{}{Pogadaj z Sheil¹. Hej, Sheila, masz klienta!}
-{232}{}{Czekaj, nie oto mi chodzi³o!}
-{233}{}{Dziêki. Na razie.}
-{234}{}{Nie w¹tpiê. Chyba nie ³atwo musi ci byæ znaleŸæ ch³opa. Spróbuj szczêœcia gdzie indziej, paniusiu. Tutaj nic nie znajdziesz.}
-{235}{}{Trudno! To mo¿e coœ innego.}
+{227}{}{Nie dysponujÄ™ takÄ… informacjÄ….}
+{228}{}{Serio? To dlaczego Becky ma o wiele taÅ„sze drinki od ciebie?}
+{229}{}{Podobno barmani wiedzÄ… wszystko.}
+{230}{}{No to jestem w niewÅ‚aÅ›ciwym miejscu.}
+{231}{}{Pogadaj z SheilÄ…. Hej, Sheila, masz klienta!}
+{232}{}{Czekaj, nie oto mi chodziÅ‚o!}
+{233}{}{DziÄ™ki. Na razie.}
+{234}{}{Nie wÄ…tpiÄ™. Chyba nie Å‚atwo musi ci byÄ‡ znaleÅºÄ‡ chÅ‚opa. SprÃ³buj szczÄ™Å›cia gdzie indziej, paniusiu. Tutaj nic nie znajdziesz.}
+{235}{}{Trudno! To moÅ¼e coÅ› innego.}
 {236}{}{Och ty...}
-{237}{}{Nie bêdê tego wys³uchiwaæ!}
-{238}{}{Mam tam wolny pokój. Mo¿emy z niego skorzystaæ.}
-{239}{}{W porz¹dku.}
-{240}{}{Nie o to mi chodzi³o!}
-{242}{}{Ty te¿.}
-{243}{}{Obawiam siê, ¿e nie masz najmniejszego pojêcia jak zaspokoiæ kobietê.}
-{244}{}{Jeszcze nigdy nie by³o mi tak dobrze. Mówiê serio.}
-{245}{}{Nie lubiê siê œpieszyæ, ale muszê lecieæ...}
-{246}{}{Có¿, do zobaczenia.}
+{237}{}{Nie bÄ™dÄ™ tego wysÅ‚uchiwaÄ‡!}
+{238}{}{Mam tam wolny pokÃ³j. MoÅ¼emy z niego skorzystaÄ‡.}
+{239}{}{W porzÄ…dku.}
+{240}{}{Nie o to mi chodziÅ‚o!}
+{242}{}{Ty teÅ¼.}
+{243}{}{Obawiam siÄ™, Å¼e nie masz najmniejszego pojÄ™cia jak zaspokoiÄ‡ kobietÄ™.}
+{244}{}{Jeszcze nigdy nie byÅ‚o mi tak dobrze. MÃ³wiÄ™ serio.}
+{245}{}{Nie lubiÄ™ siÄ™ Å›pieszyÄ‡, ale muszÄ™ lecieÄ‡...}
+{246}{}{CÃ³Å¼, do zobaczenia.}
 {247}{}{Bywaj.}
-{248}{}{Jak tam sobie chcesz. Tylko tym razem po sobie posprz¹taj, dobra?}
-{249}{}{Hej ludzie! Oklaski dla Billiego. Chyba wreszcie coœ zaliczy!}
-{250}{}{Chcesz szmatê?}
-{251}{}{Do zobaczenia za piêæ minut.}
-{252}{}{Sheila! Rzuæ okiem na bar!}
-{253}{}{Hej, Billy, spadaj st¹d!}
-{254}{}{Gdzie to byliœmy?}
-{255}{}{Gdzie jesteœ, kobieto?}
+{248}{}{Jak tam sobie chcesz. Tylko tym razem po sobie posprzÄ…taj, dobra?}
+{249}{}{Hej ludzie! Oklaski dla Billiego. Chyba wreszcie coÅ› zaliczy!}
+{250}{}{Chcesz szmatÄ™?}
+{251}{}{Do zobaczenia za piÄ™Ä‡ minut.}
+{252}{}{Sheila! RzuÄ‡ okiem na bar!}
+{253}{}{Hej, Billy, spadaj stÄ…d!}
+{254}{}{Gdzie to byliÅ›my?}
+{255}{}{Gdzie jesteÅ›, kobieto?}
 {256}{}{Wchodzisz, czy nie?}
-{257}{}{No chodŸ, skarbie.}
-{258}{}{ChodŸ za mn¹.}
-{259}{}{¯adna kobieta nie bêdzie mi pyskowaæ. Wynoœ siê st¹d!}
+{257}{}{No chodÅº, skarbie.}
+{258}{}{ChodÅº za mnÄ….}
+{259}{}{Å»adna kobieta nie bÄ™dzie mi pyskowaÄ‡. WynoÅ› siÄ™ stÄ…d!}
 {260}{}{Dobra.}
-{261}{}{Oj, obawiam siê, ¿e najpierw muszê za³atwiæ piln¹ sprawê. Przykro mi, skarbie.}
-{262}{}{Chyba jednak nie mam ochoty przespaæ siê z takim maszkaronem jak ty.}
-{263}{}{Masz szczêœcie, ¿e mi³y ze mnie goœæ. Ale nigdy wiêcej tak nie rób.}
-{264}{}{Oczywiœcie, skarbie, obiecujê.}
-{265}{}{Skujê ci mordê, kobieto!}
-{266}{}{Nikt nie bêdzie tak do mnie mówi³! Giñ!}
-{267}{}{Da³em ci szansê. Teraz jest ju¿ za póŸno. Wynoœ siê st¹d.}
-{268}{}{Nie wpuszczê ciê na zaplecze z tym œmieciem!}
-{300}{}{Hej, nie zap³aci³em ci za zabijanie tej zdziry. Spieprzaj st¹d!}
-{350}{}{Rany! Ja pieprzê. To by³o niesamowite.}
-{351}{}{Cholera, ca³kiem nieŸle, skarbie.}
-{352}{}{Dziêki, by³o fajnie. A teraz spadaj.}
-{353}{}{By³o, uuch... Niewa¿ne, wynoœ siê st¹d.}
-{354}{}{Có¿, bywa³o gorzej.}
-{400}{}{Wiesz co, skarbie? Niez³a z ciebie laska, ale musisz siê jeszcze du¿o nauczyæ.}
-{410}{}{Skarbie, mam jeszcze du¿o roboty. Nie bêdê tu stercza³ do jutra... No dobra, mo¿e i bêdê, ale co z tego? To moja praca!}
-{420}{}{Patrz, ja chcê tylko ¿eby jej aparatura zosta³a zniszczona, a ty masz to zrobiæ. A teraz zje¿d¿aj.}
+{261}{}{Oj, obawiam siÄ™, Å¼e najpierw muszÄ™ zaÅ‚atwiÄ‡ pilnÄ… sprawÄ™. Przykro mi, skarbie.}
+{262}{}{Chyba jednak nie mam ochoty przespaÄ‡ siÄ™ z takim maszkaronem jak ty.}
+{263}{}{Masz szczÄ™Å›cie, Å¼e miÅ‚y ze mnie goÅ›Ä‡. Ale nigdy wiÄ™cej tak nie rÃ³b.}
+{264}{}{OczywiÅ›cie, skarbie, obiecujÄ™.}
+{265}{}{SkujÄ™ ci mordÄ™, kobieto!}
+{266}{}{Nikt nie bÄ™dzie tak do mnie mÃ³wiÅ‚! GiÅ„!}
+{267}{}{DaÅ‚em ci szansÄ™. Teraz jest juÅ¼ za pÃ³Åºno. WynoÅ› siÄ™ stÄ…d.}
+{268}{}{Nie wpuszczÄ™ ciÄ™ na zaplecze z tym Å›mieciem!}
+{300}{}{Hej, nie zapÅ‚aciÅ‚em ci za zabijanie tej zdziry. Spieprzaj stÄ…d!}
+{350}{}{Rany! Ja pieprzÄ™. To byÅ‚o niesamowite.}
+{351}{}{Cholera, caÅ‚kiem nieÅºle, skarbie.}
+{352}{}{DziÄ™ki, byÅ‚o fajnie. A teraz spadaj.}
+{353}{}{ByÅ‚o, uuch... NiewaÅ¼ne, wynoÅ› siÄ™ stÄ…d.}
+{354}{}{CÃ³Å¼, bywaÅ‚o gorzej.}
+{400}{}{Wiesz co, skarbie? NiezÅ‚a z ciebie laska, ale musisz siÄ™ jeszcze duÅ¼o nauczyÄ‡.}
+{410}{}{Skarbie, mam jeszcze duÅ¼o roboty. Nie bÄ™dÄ™ tu sterczaÅ‚ do jutra... No dobra, moÅ¼e i bÄ™dÄ™, ale co z tego? To moja praca!}
+{420}{}{Patrz, ja chcÄ™ tylko Å¼eby jej aparatura zostaÅ‚a zniszczona, a ty masz to zrobiÄ‡. A teraz zjeÅ¼dÅ¼aj.}

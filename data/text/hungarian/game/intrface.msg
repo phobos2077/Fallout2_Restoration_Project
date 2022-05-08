@@ -1,7 +1,7 @@
-{100}{}{LOP”Z¡S}
-{101}{}{SZINTL…P…S}
-{102}{}{F‹GG?S…G}
-{103}{}{M…RGEZ…S}
-{104}{}{SUG¡RFERT?Z…S}
+{100}{}{LOP√ìZ√ÅS}
+{101}{}{SZINTL√âP√âS}
+{102}{}{F√úGG?S√âG}
+{103}{}{M√âRGEZ√âS}
+{104}{}{SUG√ÅRFERT?Z√âS}
 {105}{}{CRIPPLED}
 {106}{}{NPC CRIPPLED}

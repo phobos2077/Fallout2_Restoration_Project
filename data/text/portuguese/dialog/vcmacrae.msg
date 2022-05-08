@@ -12,13 +12,13 @@
  hole... you can't miss it, trust me.}
 {110}{}{What do you have to drink here?}
 {111}{}{Anything going on around here?}
-{112}{}{Obrigado pelas direções. Tchau.}
+{112}{}{Obrigado pelas direÃ§Ãµes. Tchau.}
 {113}{}{Standard crap. Beer for $20, shot of whiskey for $30. Nothing
  special. You want something?}
 {114}{}{You know about the Vault?}
 {115}{}{I'll take a beer.}
 {116}{}{I'll take a shot.}
-{117}{}{O que está acontecendo por aqui?}
+{117}{}{O que estÃ¡ acontecendo por aqui?}
 {118}{}{Nothing today, thanks. Goodbye.}
 {119}{}{Around here? Same old, same old. Bores me to tears most of the time.
  Why, you looking for something?}
@@ -44,32 +44,32 @@
 {132}{}{You sound pretty fed up with the place.}
 {133}{}{Sorry to hear that. What do you know about the Vault?}
 {134}{}{We all make mistakes... some more than others. So what do you want?}
-{135}{}{O que está acontecendo por aqui?}
+{135}{}{O que estÃ¡ acontecendo por aqui?}
 {136}{}{Nothing today, thanks. Goodbye.}
 {137}{}{Yeah, wish I could get the hell outta here.}
 {138}{}{Why don't you leave?}
 {139}{}{Go into the wastes by myself? I'm bored, but I'm not stupid.}
 {140}{}{I'm heading out that way again. Why don't you come along?}
-{141}{}{Bem, boa sorte para você.}
+{141}{}{Bem, boa sorte para vocÃª.}
 {142}{}{Naw... you look like you got enough people following you around.}
 {143}{}{All right. Well, good luck.}
 {144}{}{You know, that doesn't sound like a half bad idea. Count me in.}
 {145}{}{Yeah, what?}
-{146}{}{Eu preciso que você saia do meu caminho.}
+{146}{}{Eu preciso que vocÃª saia do meu caminho.}
 {147}{}{How are you?}
 {148}{}{Cure-se.}
-{149}{}{Eu preciso que você espere aqui até eu voltar.}
+{149}{}{Eu preciso que vocÃª espere aqui atÃ© eu voltar.}
 {150}{}{You! Ooyag!}
-{151}{}{É isso por agora.}
+{151}{}{Ã‰ isso por agora.}
 {152}{}{OK, everything's stitched up. Let's get going.}
 {153}{}{OK, pretty much everything is patched up.}
 {154}{}{That pretty much did it, but I could use a couple more stims.}
 {155}{}{I used what I could, but I'm still pretty messed up. Got any stims on you?}
 {156}{}{Use First Aid on yourself.}
-{157}{}{Deixa pra lá.}
+{157}{}{Deixa pra lÃ¡.}
 {158}{}{OK.}
 {159}{}{OK, I'll wait here.}
-{160}{}{Deixa pra lá.}
+{160}{}{Deixa pra lÃ¡.}
 {161}{}{OK.}
 {162}{}{Let's get going.}
 {163}{}{OK.}

@@ -1,15 +1,15 @@
 {100}{}{Terminal komputerowy.}
-{101}{}{To chyba jest terminal systemu bezpieczeñstwa.}
-{102}{}{Nie mo¿esz odczytaæ, co pokazuje monitor.}
-{103}{}{System Bezpieczeñstwa Skynet                                     
- Dostêp Zabroniony}
+{101}{}{To chyba jest terminal systemu bezpieczeÅ„stwa.}
+{102}{}{Nie moÅ¼esz odczytaÄ‡, co pokazuje monitor.}
+{103}{}{System BezpieczeÅ„stwa Skynet                                     
+ DostÄ™p Zabroniony}
 {104}{}{}
-{105}{}{WyjdŸ.}
-{106}{}{B³¹d!                                                                     
- Brak plików programu                                                
- Proszê restartowaæ system}
+{105}{}{WyjdÅº.}
+{106}{}{BÅ‚Ä…d!                                                                     
+ Brak plikÃ³w programu                                                
+ ProszÄ™ restartowaÄ‡ system}
 {107}{}{}
 {108}{}{}
-{109}{}{WyjdŸ.}
-{200}{}{ nie mo¿e odczytaæ tego, co wyœwietla monitor.}
-{300}{}{Komputer wydaje siê mieæ jakiœ rodzaj mechanizmu obronnego.}
+{109}{}{WyjdÅº.}
+{200}{}{ nie moÅ¼e odczytaÄ‡ tego, co wyÅ›wietla monitor.}
+{300}{}{Komputer wydaje siÄ™ mieÄ‡ jakiÅ› rodzaj mechanizmu obronnego.}

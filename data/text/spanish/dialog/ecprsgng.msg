@@ -1,12 +1,12 @@
-{100}{}{¡Ah! Otro recluta.}
-{101}{}{¡Alístate o muere!}
+{100}{}{Â¡Ah! Otro recluta.}
+{101}{}{Â¡AlÃ­state o muere!}
 {102}{}{Haz lo que puedas.}
-{103}{}{Los únicos, los orgullosos... los mercenarios.}
-{104}{}{¡Alístate!}
+{103}{}{Los Ãºnicos, los orgullosos... los mercenarios.}
+{104}{}{Â¡AlÃ­state!}
 {105}{}{4F.}
 {106}{}{Hora de mirar en otra parte.}
-{107}{}{Alístate en la Marina.}
-{108}{}{¡Maldición!}
-{109}{}{¡Caray! Mira qué tarde es, ¡debo irme!}
+{107}{}{AlÃ­state en la Marina.}
+{108}{}{Â¡MaldiciÃ³n!}
+{109}{}{Â¡Caray! Mira quÃ© tarde es, Â¡debo irme!}
 {110}{}{Recluta.}
 {111}{}{Sargento.}

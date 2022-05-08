@@ -1,4 +1,4 @@
-{100}{}{H· um mau cheiro no ar que faz seus pulmıes queimarem com dor.}
-{101}{}{… melhor eu encontrar uma m·scara de g·s.}
-{102}{}{Parece que os dutos na parede direita est„o entupidos.}
-{103}{}{Parece que os dutos na extremidade da sala est„o entupidos.}
+{100}{}{H√° um mau cheiro no ar que faz seus pulm√µes queimarem com dor.}
+{101}{}{√â melhor eu encontrar uma m√°scara de g√°s.}
+{102}{}{Parece que os dutos na parede direita est√£o entupidos.}
+{103}{}{Parece que os dutos na extremidade da sala est√£o entupidos.}

@@ -1,2 +1,2 @@
-{100}{}{Du siehst einen toten Mönch.}
-{101}{}{Du siehst die Überreste von Bruder Thomas. Es sieht aus, als wäre er eines schmerzvollen Todes gestorben.}
+{100}{}{Du siehst einen toten MÃ¶nch.}
+{101}{}{Du siehst die Ãœberreste von Bruder Thomas. Es sieht aus, als wÃ¤re er eines schmerzvollen Todes gestorben.}

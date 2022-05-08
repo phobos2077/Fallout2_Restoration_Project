@@ -1,44 +1,44 @@
 {100}{}{Widzisz rybaka.}
-{101}{}{Widzisz rybaczkê.}
-{102}{}{Trzyma w rêku zaostrzony kij do ³owienia ryb.}
-{103}{}{Ona wydaje siê zawziêcie gotowaæ.}
+{101}{}{Widzisz rybaczkÄ™.}
+{102}{}{Trzyma w rÄ™ku zaostrzony kij do Å‚owienia ryb.}
+{103}{}{Ona wydaje siÄ™ zawziÄ™cie gotowaÄ‡.}
 {104}{}{Witam.}
-{200}{}{Nie jesteœ tu mile widziany.}
+{200}{}{Nie jesteÅ› tu mile widziany.}
 {201}{}{Nie lubimy takich jak ty.}
-{202}{}{OdejdŸ, przybyszu.}
-{203}{}{Dlaczego nas zadrêczasz?}
+{202}{}{OdejdÅº, przybyszu.}
+{203}{}{Dlaczego nas zadrÄ™czasz?}
 {204}{}{Witaj, przyjacielu.}
-{205}{}{Zawsze bêdziesz tu mile widzianym goœciem.}
-{206}{}{Teraz nale¿ysz do nas.}
-{207}{}{Dziêkujemy Ci za pomoc.}
-{208}{}{Wydawa³o mi siê, ¿e obcy s¹ Ÿli. Ale tak nie jest...}
-{209}{}{Nie rób tego.}
-{300}{}{Przepraszam, ale czy mo¿esz wyœwiadczyæ mi drobn¹ przys³ugê? Jestem trochê zajêta i nie wiem czy mogê zostawiæ ten garnek bez opieki.}
+{205}{}{Zawsze bÄ™dziesz tu mile widzianym goÅ›ciem.}
+{206}{}{Teraz naleÅ¼ysz do nas.}
+{207}{}{DziÄ™kujemy Ci za pomoc.}
+{208}{}{WydawaÅ‚o mi siÄ™, Å¼e obcy sÄ… Åºli. Ale tak nie jest...}
+{209}{}{Nie rÃ³b tego.}
+{300}{}{Przepraszam, ale czy moÅ¼esz wyÅ›wiadczyÄ‡ mi drobnÄ… przysÅ‚ugÄ™? Jestem trochÄ™ zajÄ™ta i nie wiem czy mogÄ™ zostawiÄ‡ ten garnek bez opieki.}
 {301}{}{Jasne. Czego potrzebujesz?}
-{302}{}{Te¿ mam robotê. Mo¿e trochê póŸniej.}
-{303}{}{Hej, ¿ycie pe³ne jest problemów, a ja nie jestem tu po to ¿eby je wszystkie rozwi¹zywaæ. Czeœæ.}
-{304}{}{Koñczy mi siê drewno do podtrzymania ognia. By³abym naprawdê wdziêczna, gdyby uda³o ci siê go trochê dla mnie nazbieraæ. Zrobi³abym to sama, ale boje siê, ¿e mi wykipi z garnka jak go zostawiê. Na pewno jakieœ drewno znajdziesz w lesie. Myœlê, ¿e trzy wi¹zki wystarcz¹.}
+{302}{}{TeÅ¼ mam robotÄ™. MoÅ¼e trochÄ™ pÃ³Åºniej.}
+{303}{}{Hej, Å¼ycie peÅ‚ne jest problemÃ³w, a ja nie jestem tu po to Å¼eby je wszystkie rozwiÄ…zywaÄ‡. CzeÅ›Ä‡.}
+{304}{}{KoÅ„czy mi siÄ™ drewno do podtrzymania ognia. ByÅ‚abym naprawdÄ™ wdziÄ™czna, gdyby udaÅ‚o ci siÄ™ go trochÄ™ dla mnie nazbieraÄ‡. ZrobiÅ‚abym to sama, ale boje siÄ™, Å¼e mi wykipi z garnka jak go zostawiÄ™. Na pewno jakieÅ› drewno znajdziesz w lesie. MyÅ›lÄ™, Å¼e trzy wiÄ…zki wystarczÄ….}
 {305}{}{Nie ma problemu.}
-{306}{}{Prawdê mówi¹c, z jakiegoœ szalonego powodu, tak siê sk³ada, ¿e mam trzy wi¹zki drewna opa³owego przy sobie. Proszê.}
-{307}{}{Pomo¿esz mi? Œwietnie! Daj znaæ kiedy je zbierzesz.}
-{308}{}{Ach, doskonale. To pomo¿e mi utrzymaæ ogieñ. Dziêkujê za twoj¹ pomoc. Ale niestety nie mam niczego, czym mog³abym ciê wynagrodziæ.}
-{309}{}{Twoja wdziêcznoœæ wystarczy. Uwa¿aj na siebie.}
-{310}{}{Nic ¿eby mnie wynagrodziæ? S³uchaj paniusiu, mo¿na zginaæ w tych lasach. Pe³no tam ró¿nych niebezpiecznych potworów. Trzeba by³o nadstawiaæ karku dla tego pieprzonego drewna. Ju¿ nie wspominaj¹c o drzazdze z jednej z tych k³ód drewna. A ja *nie cierpiê* drzazg.}
-{311}{}{Ju¿ dobrze, proszê, weŸ te pieni¹dze. Tu i tak s¹ bezu¿yteczne. Jeszcze raz dziêkuje.}
-{312}{}{Tak ju¿ lepiej. Czeœæ. }
+{306}{}{PrawdÄ™ mÃ³wiÄ…c, z jakiegoÅ› szalonego powodu, tak siÄ™ skÅ‚ada, Å¼e mam trzy wiÄ…zki drewna opaÅ‚owego przy sobie. ProszÄ™.}
+{307}{}{PomoÅ¼esz mi? Åšwietnie! Daj znaÄ‡ kiedy je zbierzesz.}
+{308}{}{Ach, doskonale. To pomoÅ¼e mi utrzymaÄ‡ ogieÅ„. DziÄ™kujÄ™ za twojÄ… pomoc. Ale niestety nie mam niczego, czym mogÅ‚abym ciÄ™ wynagrodziÄ‡.}
+{309}{}{Twoja wdziÄ™cznoÅ›Ä‡ wystarczy. UwaÅ¼aj na siebie.}
+{310}{}{Nic Å¼eby mnie wynagrodziÄ‡? SÅ‚uchaj paniusiu, moÅ¼na zginaÄ‡ w tych lasach. PeÅ‚no tam rÃ³Å¼nych niebezpiecznych potworÃ³w. Trzeba byÅ‚o nadstawiaÄ‡ karku dla tego pieprzonego drewna. JuÅ¼ nie wspominajÄ…c o drzazdze z jednej z tych kÅ‚Ã³d drewna. A ja *nie cierpiÄ™* drzazg.}
+{311}{}{JuÅ¼ dobrze, proszÄ™, weÅº te pieniÄ…dze. Tu i tak sÄ… bezuÅ¼yteczne. Jeszcze raz dziÄ™kuje.}
+{312}{}{Tak juÅ¼ lepiej. CzeÅ›Ä‡. }
 {313}{}{[dalej]}
-{314}{}{Ehhhh. IdŸ mêczyæ kogoœ innego.}
-{315}{}{Przynosisz drewno na opa³?}
+{314}{}{Ehhhh. IdÅº mÄ™czyÄ‡ kogoÅ› innego.}
+{315}{}{Przynosisz drewno na opaÅ‚?}
 {316}{}{Ta, mam je tutaj.}
-{317}{}{Jeszcze nie. Wrócê jak zdobêdê te trzy wi¹zki.}
-{318}{}{Chcesz mi pomóc?}
+{317}{}{Jeszcze nie. WrÃ³cÄ™ jak zdobÄ™dÄ™ te trzy wiÄ…zki.}
+{318}{}{Chcesz mi pomÃ³c?}
 {319}{}{Jasne. Czego potrzebujesz?}
-{320}{}{Nie, potrzebujê wiêcej czasu. Czeœæ.}
-{321}{}{Nie, i nigdy nie zamierzam ci pomagaæ. Sama sobie radŸ ze swoimi problemami. Czeœæ.}
-{330}{}{Bezu¿yteczne? To dlaczego mi ich od razu nie da³aœ? (Mamroczesz.) G³upia suka.}
-{400}{}{Co ty potrzebowaæ?}
-{401}{}{Ooo! Zrób mi ulubione jedzenie!}
-{410}{}{Ja szukaæ.}
-{411}{}{Ja mieæ drewno. He-he... drewno.}
-{420}{}{To nic. Czeœæ!}
-{500}{}{Wstrêtny ³owca niewolników!}
+{320}{}{Nie, potrzebujÄ™ wiÄ™cej czasu. CzeÅ›Ä‡.}
+{321}{}{Nie, i nigdy nie zamierzam ci pomagaÄ‡. Sama sobie radÅº ze swoimi problemami. CzeÅ›Ä‡.}
+{330}{}{BezuÅ¼yteczne? To dlaczego mi ich od razu nie daÅ‚aÅ›? (Mamroczesz.) GÅ‚upia suka.}
+{400}{}{Co ty potrzebowaÄ‡?}
+{401}{}{Ooo! ZrÃ³b mi ulubione jedzenie!}
+{410}{}{Ja szukaÄ‡.}
+{411}{}{Ja mieÄ‡ drewno. He-he... drewno.}
+{420}{}{To nic. CzeÅ›Ä‡!}
+{500}{}{WstrÄ™tny Å‚owca niewolnikÃ³w!}

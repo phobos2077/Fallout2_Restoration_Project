@@ -1,2 +1,2 @@
 {100}{}{Widzisz nagrobek.}
-{101}{}{Tu leøy wielki Per: Autor, twÛrca solucji, zbieracz kamieni. W koÒcu umar≥, kiedy brakowa≥o mu juø tylko jednego kamienia.}
+{101}{}{Tu le≈ºy wielki Per: Autor, tw√≥rca solucji, zbieracz kamieni. W ko≈Ñcu umar≈Ç, kiedy brakowa≈Ço mu ju≈º tylko jednego kamienia.}

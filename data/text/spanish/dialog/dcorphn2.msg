@@ -1,11 +1,11 @@
-{100}{}{Ves a un niño.}
-{101}{}{Ves a un niño. Parece feliz.}
-{102}{}{Ves a una niña. Parece feliz.}
-{200}{}{¡Hola, señor!}
+{100}{}{Ves a un niÃ±o.}
+{101}{}{Ves a un niÃ±o. Parece feliz.}
+{102}{}{Ves a una niÃ±a. Parece feliz.}
+{200}{}{Â¡Hola, seÃ±or!}
 {201}{}{Lo siento por tratar de robarte.}
-{202}{}{Realmente me gusta aquí.}
-{203}{}{¡Gracias por ayudar a Mamá a empezar este lugar!}
-{300}{}{¡Hola, señora!}
+{202}{}{Realmente me gusta aquÃ­.}
+{203}{}{Â¡Gracias por ayudar a MamÃ¡ a empezar este lugar!}
+{300}{}{Â¡Hola, seÃ±ora!}
 {301}{}{Lo siento por tratar de robarte.}
-{302}{}{Realmente me gusta aquí.}
-{303}{}{¡Gracias por ayudar a Mamá a empezar este lugar!}
+{302}{}{Realmente me gusta aquÃ­.}
+{303}{}{Â¡Gracias por ayudar a MamÃ¡ a empezar este lugar!}

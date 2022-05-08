@@ -1,148 +1,148 @@
-{100}{}{Widzisz spoconego mê¿czyznê nosz¹cego laboratoryjny fartuch.}
+{100}{}{Widzisz spoconego mÄ™Å¼czyznÄ™ noszÄ…cego laboratoryjny fartuch.}
 {101}{}{Widzisz Jacoba, aptekarza.}
-{102}{}{Widzisz spoconego mê¿czyznê w poplamionym fartuchu. Na jego d³oniach widaæ przebarwienia od chemikaliów.}
-{103}{}{Witam. Jestem Jacob, w³aœciciel tej Apteki. Co mogê dla ciebie zrobiæ?}
+{102}{}{Widzisz spoconego mÄ™Å¼czyznÄ™ w poplamionym fartuchu. Na jego dÅ‚oniach widaÄ‡ przebarwienia od chemikaliÃ³w.}
+{103}{}{Witam. Jestem Jacob, wÅ‚aÅ›ciciel tej Apteki. Co mogÄ™ dla ciebie zrobiÄ‡?}
 {104}{}{Czego chcesz?}
-{105}{}{Witam ponownie? Co ciê tu sprowadza?}
-{106}{}{Witam znowu. Co mogê dla ciebie zrobiæ?}
+{105}{}{Witam ponownie? Co ciÄ™ tu sprowadza?}
+{106}{}{Witam znowu. Co mogÄ™ dla ciebie zrobiÄ‡?}
 {107}{}{Da jaga! Upeuu op!}
 {108}{}{Teka? Ptaka?}
-{109}{}{Mam trochê rudy do oczyszczenia, ale nie chcê p³aciæ cen rafinerii.}
-{110}{}{Co mo¿esz mi powiedzieæ o Broken Hills?}
-{111}{}{Chcê wymieszaæ trochê chemikaliów.}
-{112}{}{Powiedziano mi, ¿e mam z tob¹ rozmawiaæ o pewnej sprawie dotycz¹cej mutantów.}
+{109}{}{Mam trochÄ™ rudy do oczyszczenia, ale nie chcÄ™ pÅ‚aciÄ‡ cen rafinerii.}
+{110}{}{Co moÅ¼esz mi powiedzieÄ‡ o Broken Hills?}
+{111}{}{ChcÄ™ wymieszaÄ‡ trochÄ™ chemikaliÃ³w.}
+{112}{}{Powiedziano mi, Å¼e mam z tobÄ… rozmawiaÄ‡ o pewnej sprawie dotyczÄ…cej mutantÃ³w.}
 {113}{}{Bywaj.}
-{114}{}{[Widok obrzydzenia pojawia siê na jego twarzy] Wynocha st¹d. Nie mam dla ciebie czasu.}
+{114}{}{[Widok obrzydzenia pojawia siÄ™ na jego twarzy] Wynocha stÄ…d. Nie mam dla ciebie czasu.}
 {115}{}{[dalej]}
-{116}{}{Apteka. To Apteka. S³uchaj, czy chcesz czegoœ?}
-{117}{}{Znowu ty? Czy chcesz coœ?}
+{116}{}{Apteka. To Apteka. SÅ‚uchaj, czy chcesz czegoÅ›?}
+{117}{}{Znowu ty? Czy chcesz coÅ›?}
 {118}{}{'ak!}
 {119}{}{Y y.}
 {120}{}{Dobrze. Zobaczmy, czego chcesz.}
 {121}{}{[KONTYNUUJ]}
-{122}{}{Wiêc odejdŸ.}
+{122}{}{WiÄ™c odejdÅº.}
 {123}{}{[dalej]}
-{124}{}{Tak. Skoñczyliœmy. Dziêki za napiwek. A teraz proszê, wyjdŸ.}
+{124}{}{Tak. SkoÅ„czyliÅ›my. DziÄ™ki za napiwek. A teraz proszÄ™, wyjdÅº.}
 {125}{}{Oki!}
-{148}{}{A mo¿e najpierw ty mi powiesz, co myœlisz o mutantach?}
-{149}{}{Nienawidzê ich.}
-{150}{}{Nie mogê siê zdecydowaæ.}
-{151}{}{Lubiê ich!}
-{152}{}{W takim razie opowiem ci prawdziw¹ historiê.}
-{153}{}{Cz³owiek imieniem Jacob -0 nazwano mnie po nim -- za³o¿y³ to miejsce. Potem przyszed³ mutant Marcus
- i zmusi³ wszystkich do uleg³oœci pod swoj¹ rêk¹. }
-{154}{}{Wystarczy. Jesteœ szalony. ¯egnam.}
-{155}{}{Powiedz coœ wiêcej.}
-{156}{}{Mo¿e je¿eli opowiem ci prawdziw¹ historiê, to siê zdecydujesz.}
+{148}{}{A moÅ¼e najpierw ty mi powiesz, co myÅ›lisz o mutantach?}
+{149}{}{NienawidzÄ™ ich.}
+{150}{}{Nie mogÄ™ siÄ™ zdecydowaÄ‡.}
+{151}{}{LubiÄ™ ich!}
+{152}{}{W takim razie opowiem ci prawdziwÄ… historiÄ™.}
+{153}{}{CzÅ‚owiek imieniem Jacob -0 nazwano mnie po nim -- zaÅ‚oÅ¼yÅ‚ to miejsce. Potem przyszedÅ‚ mutant Marcus
+ i zmusiÅ‚ wszystkich do ulegÅ‚oÅ›ci pod swojÄ… rÄ™kÄ…. }
+{154}{}{Wystarczy. JesteÅ› szalony. Å»egnam.}
+{155}{}{Powiedz coÅ› wiÄ™cej.}
+{156}{}{MoÅ¼e jeÅ¼eli opowiem ci prawdziwÄ… historiÄ™, to siÄ™ zdecydujesz.}
 {157}{}{Dobra. Opowiadaj.}
 {158}{}{Nie, nie bardzo mnie to interesuje.}
-{159}{}{W takim razie to po prostu wspaniale tu byæ. To miasto ma wszystko, czego mo¿na zapragn¹æ... szeryfa mutanta, kopalniê uranu, szpital, sklep... Mo¿esz to znaleŸæ praktycznie wszystko. Czy chcesz jeszcze czegoœ?}
+{159}{}{W takim razie to po prostu wspaniale tu byÄ‡. To miasto ma wszystko, czego moÅ¼na zapragnÄ…Ä‡... szeryfa mutanta, kopalniÄ™ uranu, szpital, sklep... MoÅ¼esz to znaleÅºÄ‡ praktycznie wszystko. Czy chcesz jeszcze czegoÅ›?}
 {160}{}{Tak.}
 {161}{}{Nie.}
 {162}{}{Wspaniale. Na razie.}
 {163}{}{Bywaj.}
-{164}{}{Rz¹dzi tu od czasu, gdy Mistrz zosta³ zg³adzony. Ucisza ka¿dego, kto oœmieli siê z nim nie zgodziæ... albo po prostu taki ktoœ "znika". To miejsca z zewn¹trz wygl¹da na cywilizowane, ale prawda jest taka, ¿e to ³owisko dla krwio¿erczych mutantów. Przyjaciel przyjaciela mia³ przyjació³, którzy zniknêli, gdy tylko podnieœli g³os.}
-{165}{}{Mów dalej.}
-{166}{}{Wystarczy. Jesteœ szalony. ¯egnam.}
-{167}{}{Wszyscy udajemy, ¿e to jest cywilizowane miasto, ¿e czujemy siê wspaniale... ale wszyscy ¿yjemy w strachu przed mutanckim gniewem. Z ka¿dym dniem jest coraz mniej i mniej ludzi.}
-{168}{}{Wszyscy z mutantów, których tu widzê, wygl¹daj¹ na starych i schorowanych.}
+{164}{}{RzÄ…dzi tu od czasu, gdy Mistrz zostaÅ‚ zgÅ‚adzony. Ucisza kaÅ¼dego, kto oÅ›mieli siÄ™ z nim nie zgodziÄ‡... albo po prostu taki ktoÅ› "znika". To miejsca z zewnÄ…trz wyglÄ…da na cywilizowane, ale prawda jest taka, Å¼e to Å‚owisko dla krwioÅ¼erczych mutantÃ³w. Przyjaciel przyjaciela miaÅ‚ przyjaciÃ³Å‚, ktÃ³rzy zniknÄ™li, gdy tylko podnieÅ›li gÅ‚os.}
+{165}{}{MÃ³w dalej.}
+{166}{}{Wystarczy. JesteÅ› szalony. Å»egnam.}
+{167}{}{Wszyscy udajemy, Å¼e to jest cywilizowane miasto, Å¼e czujemy siÄ™ wspaniale... ale wszyscy Å¼yjemy w strachu przed mutanckim gniewem. Z kaÅ¼dym dniem jest coraz mniej i mniej ludzi.}
+{168}{}{Wszyscy z mutantÃ³w, ktÃ³rych tu widzÄ™, wyglÄ…dajÄ… na starych i schorowanych.}
 {169}{}{Dlaczego nie walczycie?}
-{170}{}{Dlatego, ¿e próbuj¹ ciê oszukaæ, przyjacielu. Próbuj¹ ciê oszukaæ.}
-{171}{}{Dlaczego wiêc nie walczycie?}
-{172}{}{Oszukaæ mnie? Rozumiem. Có¿, muszê ju¿ iœæ. Mi³o siê rozmawia³o.}
-{173}{}{Có¿, walczymy. Kilku moich przyjació³ i ja planujemy uderzenie, które pozwoli oczyœciæ to miasto z mutantów, ale potrzebujemy uwolniæ kilku naszych przyjació³ z wiêzienia. Czy jesteœ z nami?}
+{170}{}{Dlatego, Å¼e prÃ³bujÄ… ciÄ™ oszukaÄ‡, przyjacielu. PrÃ³bujÄ… ciÄ™ oszukaÄ‡.}
+{171}{}{Dlaczego wiÄ™c nie walczycie?}
+{172}{}{OszukaÄ‡ mnie? Rozumiem. CÃ³Å¼, muszÄ™ juÅ¼ iÅ›Ä‡. MiÅ‚o siÄ™ rozmawiaÅ‚o.}
+{173}{}{CÃ³Å¼, walczymy. Kilku moich przyjaciÃ³Å‚ i ja planujemy uderzenie, ktÃ³re pozwoli oczyÅ›ciÄ‡ to miasto z mutantÃ³w, ale potrzebujemy uwolniÄ‡ kilku naszych przyjaciÃ³Å‚ z wiÄ™zienia. Czy jesteÅ› z nami?}
 {174}{}{Nie.}
-{175}{}{Nie. I idê o tym powiedzieæ komu trzeba. Jesteœcie szaleni.}
+{175}{}{Nie. I idÄ™ o tym powiedzieÄ‡ komu trzeba. JesteÅ›cie szaleni.}
 {176}{}{Jasne!}
-{177}{}{Na pewno? Jest szansa, aby uwolniæ ludzkoœæ od tych morderczych mutanckich drani.}
-{178}{}{Wci¹¿ mnie to nie interesuje.}
-{179}{}{Och, w porz¹dku. Przekona³eœ mnie.}
-{180}{}{Twój wybór. Pozwolê ci dalej pod¹¿aæ obran¹ œcie¿k¹. Szkoda jednak - wygl¹dasz na siln¹ osobê.}
-{181}{}{Jasne. ¯egnam.}
-{182}{}{Powiedzieæ, co? Nie s¹dzê, zdradziecki pomiocie.}
+{177}{}{Na pewno? Jest szansa, aby uwolniÄ‡ ludzkoÅ›Ä‡ od tych morderczych mutanckich drani.}
+{178}{}{WciÄ…Å¼ mnie to nie interesuje.}
+{179}{}{Och, w porzÄ…dku. PrzekonaÅ‚eÅ› mnie.}
+{180}{}{TwÃ³j wybÃ³r. PozwolÄ™ ci dalej podÄ…Å¼aÄ‡ obranÄ… Å›cieÅ¼kÄ…. Szkoda jednak - wyglÄ…dasz na silnÄ… osobÄ™.}
+{181}{}{Jasne. Å»egnam.}
+{182}{}{PowiedzieÄ‡, co? Nie sÄ…dzÄ™, zdradziecki pomiocie.}
 {183}{}{Co?}
-{184}{}{Mam dla ciebie ma³¹ robotê. Nasi przyjaciele, Manson i Franc, s¹ trzymani w wiêzieniu. Wydostañ ich stamt¹d. Na ile to bêdzie mo¿liwe, po cichu. Nie chcê, aby ca³e miasto by³o na twojej g³owie.}
-{185}{}{A co, je¿eli kogoœ zabijê?}
-{186}{}{Rozumiem. Mam kilka pytañ.}
-{187}{}{Zapomnij o tym. Idê st¹d.}
+{184}{}{Mam dla ciebie maÅ‚Ä… robotÄ™. Nasi przyjaciele, Manson i Franc, sÄ… trzymani w wiÄ™zieniu. WydostaÅ„ ich stamtÄ…d. Na ile to bÄ™dzie moÅ¼liwe, po cichu. Nie chcÄ™, aby caÅ‚e miasto byÅ‚o na twojej gÅ‚owie.}
+{185}{}{A co, jeÅ¼eli kogoÅ› zabijÄ™?}
+{186}{}{Rozumiem. Mam kilka pytaÅ„.}
+{187}{}{Zapomnij o tym. IdÄ™ stÄ…d.}
 {188}{}{Rozumiem. Do zobaczenia.}
-{189}{}{Nie ma problemu. To i tak wszystko mutanty. Ale na litoœæ bosk¹, zrób to po cichu.}
-{190}{}{Rozumiem. Mam kilka pytañ.}
+{189}{}{Nie ma problemu. To i tak wszystko mutanty. Ale na litoÅ›Ä‡ boskÄ…, zrÃ³b to po cichu.}
+{190}{}{Rozumiem. Mam kilka pytaÅ„.}
 {191}{}{Rozumiem. Do zobaczenia.}
-{192}{}{Wiêcej pytañ?}
-{193}{}{Mam trochê rudy do oczyszczenia, ale nie chcê p³aciæ cen rafinerii.}
-{194}{}{Co mo¿esz mi powiedzieæ o Broken Hills?}
-{195}{}{Chcê wymieszaæ trochê chemikaliów.}
+{192}{}{WiÄ™cej pytaÅ„?}
+{193}{}{Mam trochÄ™ rudy do oczyszczenia, ale nie chcÄ™ pÅ‚aciÄ‡ cen rafinerii.}
+{194}{}{Co moÅ¼esz mi powiedzieÄ‡ o Broken Hills?}
+{195}{}{ChcÄ™ wymieszaÄ‡ trochÄ™ chemikaliÃ³w.}
 {196}{}{Nic takiego. Na razie.}
-{222}{}{£adny sposób odwrócenia siê przeciwko swojej rasie, mutacki kochasiu. Co takiego zrobi³ ci Chad? Niewa¿ne, co do tej pory zosta³o przez ciebie wykonane. Jesteœ hañb¹ dla rodzaju ludzkiego.}
+{222}{}{Åadny sposÃ³b odwrÃ³cenia siÄ™ przeciwko swojej rasie, mutacki kochasiu. Co takiego zrobiÅ‚ ci Chad? NiewaÅ¼ne, co do tej pory zostaÅ‚o przez ciebie wykonane. JesteÅ› haÅ„bÄ… dla rodzaju ludzkiego.}
 {223}{}{Bywaj.}
-{224}{}{Doskona³a robota z tym wiêzieniem!}
-{225}{}{Dziêkujê.}
-{226}{}{Czy naprawdê trzeba by³o wszystkich zabiæ? Teraz wszyscy bêd¹ siê martwiæ. No có¿, niewa¿ne.}
+{224}{}{DoskonaÅ‚a robota z tym wiÄ™zieniem!}
+{225}{}{DziÄ™kujÄ™.}
+{226}{}{Czy naprawdÄ™ trzeba byÅ‚o wszystkich zabiÄ‡? Teraz wszyscy bÄ™dÄ… siÄ™ martwiÄ‡. No cÃ³Å¼, niewaÅ¼ne.}
 {227}{}{Przykro mi.}
-{228}{}{S¹ na wolnoœci. Chyba to jest najwa¿niejsze. Oczywiœcie teraz ju¿ wszyscy w mieœcie wiedz¹, ¿e coœ ³¹czy ciê z Mansonem i Franciem. No có¿.}
+{228}{}{SÄ… na wolnoÅ›ci. Chyba to jest najwaÅ¼niejsze. OczywiÅ›cie teraz juÅ¼ wszyscy w mieÅ›cie wiedzÄ…, Å¼e coÅ› Å‚Ä…czy ciÄ™ z Mansonem i Franciem. No cÃ³Å¼.}
 {229}{}{Przykro mi.}
-{230}{}{Chyba mogê ci zaufaæ z czymœ wa¿nym. Chcesz jeszcze troszkê popracowaæ?}
-{231}{}{Co jeszcze mogê dla ciebie zrobiæ, przyjacielu?}
-{232}{}{Wiêcej pracy? To znaczy?}
-{233}{}{Chcê oczyœciæ trochê rudy.}
-{234}{}{Jeszcze nie. Chcê kilka chemikaliów.}
-{235}{}{Jeszcze nie, dziêki. Na razie.}
-{258}{}{To dzia³a tak. Nienawidzimy mutantów. Chcemy ich zabiæ. Najlepszym sposobem jest wysadzenie kopalni, gdy oni bêd¹ w œrodku. Ty za³o¿ysz ³adunek.}
-{259}{}{Zrobiê to!}
-{260}{}{Nie mogê tego zrobiæ.}
-{261}{}{Doskonale, przyjacielu! Tutaj. WeŸ ten ³adunek. Przy³¹cz go do oczyszczacza powietrza i natychmiast stamt¹d uciekaj. Za³atwiliœmy wszystko tak, aby mutanty z miasta zebra³y siê w kopalni.}
-{262}{}{Po prostu powiedz mi, kiedy mo¿na zaczynaæ.}
-{263}{}{Zrobi siê.}
-{264}{}{Nie mogê tego zrobiæ.}
-{265}{}{Dlaczego nie? Boisz siê, czy co? Na pewno tego nie zrobisz?}
+{230}{}{Chyba mogÄ™ ci zaufaÄ‡ z czymÅ› waÅ¼nym. Chcesz jeszcze troszkÄ™ popracowaÄ‡?}
+{231}{}{Co jeszcze mogÄ™ dla ciebie zrobiÄ‡, przyjacielu?}
+{232}{}{WiÄ™cej pracy? To znaczy?}
+{233}{}{ChcÄ™ oczyÅ›ciÄ‡ trochÄ™ rudy.}
+{234}{}{Jeszcze nie. ChcÄ™ kilka chemikaliÃ³w.}
+{235}{}{Jeszcze nie, dziÄ™ki. Na razie.}
+{258}{}{To dziaÅ‚a tak. Nienawidzimy mutantÃ³w. Chcemy ich zabiÄ‡. Najlepszym sposobem jest wysadzenie kopalni, gdy oni bÄ™dÄ… w Å›rodku. Ty zaÅ‚oÅ¼ysz Å‚adunek.}
+{259}{}{ZrobiÄ™ to!}
+{260}{}{Nie mogÄ™ tego zrobiÄ‡.}
+{261}{}{Doskonale, przyjacielu! Tutaj. WeÅº ten Å‚adunek. PrzyÅ‚Ä…cz go do oczyszczacza powietrza i natychmiast stamtÄ…d uciekaj. ZaÅ‚atwiliÅ›my wszystko tak, aby mutanty z miasta zebraÅ‚y siÄ™ w kopalni.}
+{262}{}{Po prostu powiedz mi, kiedy moÅ¼na zaczynaÄ‡.}
+{263}{}{Zrobi siÄ™.}
+{264}{}{Nie mogÄ™ tego zrobiÄ‡.}
+{265}{}{Dlaczego nie? Boisz siÄ™, czy co? Na pewno tego nie zrobisz?}
 {266}{}{Tak.}
-{267}{}{Nie, chyba jednak to zrobiê.}
-{268}{}{S¹dzê, ¿e rozumiem. Ty te¿, mam nadziejê, zrozumiesz, gdy ka¿ê ci zejœæ z moich oczu. Zdradziecki cz³owieku.}
+{267}{}{Nie, chyba jednak to zrobiÄ™.}
+{268}{}{SÄ…dzÄ™, Å¼e rozumiem. Ty teÅ¼, mam nadziejÄ™, zrozumiesz, gdy kaÅ¼Ä™ ci zejÅ›Ä‡ z moich oczu. Zdradziecki czÅ‚owieku.}
 {269}{}{[dalej]}
-{270}{}{Czy ju¿ mo¿esz zacz¹æ realizowaæ plan?}
-{272}{}{Tak. Zróbmy to.}
-{273}{}{Jednak nie. Nie chcê tego robiæ.}
-{274}{}{Dobrze. Czeka³em na ten dzieñ. Przy³¹cz ten ³adunek do oczyszczacza w kopalni i natychmiast stamt¹d uciekaj. Bêdzie wielki wybuch. Do zobaczenia potem!}
-{275}{}{Do zobaczenia! Œmieræ mutantom!}
-{276}{}{Jednak nie. Nie chcê tego robiæ.}
+{270}{}{Czy juÅ¼ moÅ¼esz zaczÄ…Ä‡ realizowaÄ‡ plan?}
+{272}{}{Tak. ZrÃ³bmy to.}
+{273}{}{Jednak nie. Nie chcÄ™ tego robiÄ‡.}
+{274}{}{Dobrze. CzekaÅ‚em na ten dzieÅ„. PrzyÅ‚Ä…cz ten Å‚adunek do oczyszczacza w kopalni i natychmiast stamtÄ…d uciekaj. BÄ™dzie wielki wybuch. Do zobaczenia potem!}
+{275}{}{Do zobaczenia! ÅšmierÄ‡ mutantom!}
+{276}{}{Jednak nie. Nie chcÄ™ tego robiÄ‡.}
 {277}{}{Ty zdradziecki pomiocie.}
-{278}{}{To by³a dobra robota. Ale tylko raz. Szkoda, ¿e odwracasz siê od nas.}
-{279}{}{W koñcu jesteœmy wolni od nieczystego mutanckiego bicza. Dziêkujê ci bardzo za twoj¹ pomoc. W sklepie Liz w piwnicy jest ma³y sk³adzik broni. Za twoj¹ lojalnoœæ mo¿esz sobie wzi¹æ wszystko, co tam znajdziesz.}
-{280}{}{Opuszczamy miasto. Ty te¿ o tym pomyœl.}
-{281}{}{PrzyjdŸ, gdy bêdê w sklepie, to pogadamy.}
-{282}{}{Twoja ruda jest gotowa. Proszê bardzo.}
-{283}{}{Dziêki!}
-{284}{}{Jeszcze nie skoñczy³em z t¹ rud¹. Daj mi trochê wiêcej czasu.}
-{285}{}{Mam parê innych pytañ.}
+{278}{}{To byÅ‚a dobra robota. Ale tylko raz. Szkoda, Å¼e odwracasz siÄ™ od nas.}
+{279}{}{W koÅ„cu jesteÅ›my wolni od nieczystego mutanckiego bicza. DziÄ™kujÄ™ ci bardzo za twojÄ… pomoc. W sklepie Liz w piwnicy jest maÅ‚y skÅ‚adzik broni. Za twojÄ… lojalnoÅ›Ä‡ moÅ¼esz sobie wziÄ…Ä‡ wszystko, co tam znajdziesz.}
+{280}{}{Opuszczamy miasto. Ty teÅ¼ o tym pomyÅ›l.}
+{281}{}{PrzyjdÅº, gdy bÄ™dÄ™ w sklepie, to pogadamy.}
+{282}{}{Twoja ruda jest gotowa. ProszÄ™ bardzo.}
+{283}{}{DziÄ™ki!}
+{284}{}{Jeszcze nie skoÅ„czyÅ‚em z tÄ… rudÄ…. Daj mi trochÄ™ wiÄ™cej czasu.}
+{285}{}{Mam parÄ™ innych pytaÅ„.}
 {286}{}{Dobra. Na razie.}
-{287}{}{Chcesz tego spróbowaæ?}
-{288}{}{Chcesz znowu tego spróbowaæ?}
-{289}{}{Jasne. Chcesz mi pomóc to zrobiæ?}
-{290}{}{Chcê kupiæ trochê... ee... leków.}
-{291}{}{Coœ jeszcze?}
+{287}{}{Chcesz tego sprÃ³bowaÄ‡?}
+{288}{}{Chcesz znowu tego sprÃ³bowaÄ‡?}
+{289}{}{Jasne. Chcesz mi pomÃ³c to zrobiÄ‡?}
+{290}{}{ChcÄ™ kupiÄ‡ trochÄ™... ee... lekÃ³w.}
+{291}{}{CoÅ› jeszcze?}
 {292}{}{Tak.}
-{293}{}{Nie, dziêki. Czeœæ.}
-{294}{}{Teraz widzisz, jak bardzo zdradzieccy s¹ mutanci. Trzeba by³o to wczeœniej zauwa¿yæ.}
-{295}{}{Je¿eli nam nie pomo¿esz, to my nie pomo¿emy tobie.}
-{296}{}{Có¿, czemu tak stoisz? Masz patriotów do uwolnienia z okowów!}
+{293}{}{Nie, dziÄ™ki. CzeÅ›Ä‡.}
+{294}{}{Teraz widzisz, jak bardzo zdradzieccy sÄ… mutanci. Trzeba byÅ‚o to wczeÅ›niej zauwaÅ¼yÄ‡.}
+{295}{}{JeÅ¼eli nam nie pomoÅ¼esz, to my nie pomoÅ¼emy tobie.}
+{296}{}{CÃ³Å¼, czemu tak stoisz? Masz patriotÃ³w do uwolnienia z okowÃ³w!}
 {297}{}{Och... Prawda.}
-{298}{}{Oni mieli zostaæ wydostani z wiêzienia, a nie zabici! Co jest z tob¹, do cholery!?}
+{298}{}{Oni mieli zostaÄ‡ wydostani z wiÄ™zienia, a nie zabici! Co jest z tobÄ…, do cholery!?}
 {299}{}{Przepraszam... Ja po prostu...}
-{300}{}{Po prostu nic. Czy to by³o przez przypadek, czy nie, nasze plany w tym mieœcie zosta³y skutecznie wydymane. Teraz za to zap³acisz.}
-{301}{}{Przykro mi, przyjacielu, ale... W³aœnie straci³em moich dwóch najlepszych przyjació³. Ci mutantcy dranie zabili ich w wiêzieniu.}
+{300}{}{Po prostu nic. Czy to byÅ‚o przez przypadek, czy nie, nasze plany w tym mieÅ›cie zostaÅ‚y skutecznie wydymane. Teraz za to zapÅ‚acisz.}
+{301}{}{Przykro mi, przyjacielu, ale... WÅ‚aÅ›nie straciÅ‚em moich dwÃ³ch najlepszych przyjaciÃ³Å‚. Ci mutantcy dranie zabili ich w wiÄ™zieniu.}
 {302}{}{Yyyych. Jaaaaka Szkooooda. Na razie.}
-{303}{}{Y... Jejku. Naprawdê mi przykro. Masz moje kondolencje. Na razie.}
+{303}{}{Y... Jejku. NaprawdÄ™ mi przykro. Masz moje kondolencje. Na razie.}
 {304}{}{Ups.}
-{305}{}{Ups? Czy us³ysza³em "Ups"? Chyba twoja osoba nie mia³a z tym nic wspólnego?}
-{306}{}{To by³ wypadek, przysiêgam!}
-{307}{}{Jasne, ¿e nie. Do cholery, oczywiœcie, ¿e nie! Cholerne mutanty!}
-{308}{}{Wypadek, no jasne! A masz, ty walona przez mutantów gnido!}
-{309}{}{Tak, có¿... ich dzieñ nadchodzi.}
-{310}{}{Powiedzia³em ci ju¿ wszystko, co musisz wiedzieæ o tym miejscu. A wiêc, czego sobie ¿yczysz?}
+{305}{}{Ups? Czy usÅ‚yszaÅ‚em "Ups"? Chyba twoja osoba nie miaÅ‚a z tym nic wspÃ³lnego?}
+{306}{}{To byÅ‚ wypadek, przysiÄ™gam!}
+{307}{}{Jasne, Å¼e nie. Do cholery, oczywiÅ›cie, Å¼e nie! Cholerne mutanty!}
+{308}{}{Wypadek, no jasne! A masz, ty walona przez mutantÃ³w gnido!}
+{309}{}{Tak, cÃ³Å¼... ich dzieÅ„ nadchodzi.}
+{310}{}{PowiedziaÅ‚em ci juÅ¼ wszystko, co musisz wiedzieÄ‡ o tym miejscu. A wiÄ™c, czego sobie Å¼yczysz?}
 {311}{}{Mam inne pytanie.}
-{312}{}{Nic takiego. Nie zawracaj sobie g³owy.}
-{313}{}{Dziêkujê.}
+{312}{}{Nic takiego. Nie zawracaj sobie gÅ‚owy.}
+{313}{}{DziÄ™kujÄ™.}
 {314}{}{[KONTYNUUJ]}
-{315}{}{Hej, przyjacielu. Doceniam twoj¹ pomoc przy uwolnieniu naszych przyjació³ od k³opotów. Masz u mnie du¿ego plusa.}
-{316}{}{Dziêkujê.}
+{315}{}{Hej, przyjacielu. Doceniam twojÄ… pomoc przy uwolnieniu naszych przyjaciÃ³Å‚ od kÅ‚opotÃ³w. Masz u mnie duÅ¼ego plusa.}
+{316}{}{DziÄ™kujÄ™.}

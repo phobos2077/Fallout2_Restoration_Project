@@ -1,1 +1,1 @@
-{100}{}{Você entrou nas cavernas tóxicas.}
+{100}{}{VocÃª entrou nas cavernas tÃ³xicas.}

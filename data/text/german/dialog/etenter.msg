@@ -1,2 +1,2 @@
-{100}{}{Sieht so aus, als wäre dieser Höhleneingang vor kurzem eingestürzt. Mit einer gut
- angebrachten Sprengladung kann man den Schutt vielleicht aus dem Weg räumen.}
+{100}{}{Sieht so aus, als wÃ¤re dieser HÃ¶hleneingang vor kurzem eingestÃ¼rzt. Mit einer gut
+ angebrachten Sprengladung kann man den Schutt vielleicht aus dem Weg rÃ¤umen.}

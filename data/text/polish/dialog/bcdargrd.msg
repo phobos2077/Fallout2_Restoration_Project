@@ -1,3 +1,3 @@
-{100}{}{Widzisz stra¿niczkê.}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
 {101}{}{Widzisz jednego z goryli Dariona.}
-{102}{}{Ma pancerz, broñ i z³y humor - twoje towarzystwo nie bêdzie mu raczej odpowiadaæ.}
+{102}{}{Ma pancerz, broÅ„ i zÅ‚y humor - twoje towarzystwo nie bÄ™dzie mu raczej odpowiadaÄ‡.}

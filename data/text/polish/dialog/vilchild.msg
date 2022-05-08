@@ -1,14 +1,14 @@
-{100}{}{Widzisz ma³ego ch³opca.}
-{101}{}{Widzisz ma³¹ dziewczynkê.}
-{102}{}{Uœmiecha siê na twój widok.}
-{103}{}{Uœmiecha siê na twój widok.}
-{104}{}{Spogl¹da na ciebie niepewnie.}
-{105}{}{Spogl¹da na ciebie niepewnie.}
+{100}{}{Widzisz maÅ‚ego chÅ‚opca.}
+{101}{}{Widzisz maÅ‚Ä… dziewczynkÄ™.}
+{102}{}{UÅ›miecha siÄ™ na twÃ³j widok.}
+{103}{}{UÅ›miecha siÄ™ na twÃ³j widok.}
+{104}{}{SpoglÄ…da na ciebie niepewnie.}
+{105}{}{SpoglÄ…da na ciebie niepewnie.}
 {106}{}{Krzywo na ciebie patrzy.}
 {107}{}{Krzywo na ciebie patrzy.}
-{200}{}{Dziêkujê, ¿e Pan nam pomóg³!}
-{201}{}{Hura, jesteœmy bezpieczni!}
-{202}{}{Dziêkujê, ¿e Pani nam pomog³a!}
-{203}{}{Hura, jesteœmy bezpieczni!}
-{204}{}{Boje siê ciebie!}
-{205}{}{Jesteœ tu ¿eby nam pomóc?}
+{200}{}{DziÄ™kujÄ™, Å¼e Pan nam pomÃ³gÅ‚!}
+{201}{}{Hura, jesteÅ›my bezpieczni!}
+{202}{}{DziÄ™kujÄ™, Å¼e Pani nam pomogÅ‚a!}
+{203}{}{Hura, jesteÅ›my bezpieczni!}
+{204}{}{Boje siÄ™ ciebie!}
+{205}{}{JesteÅ› tu Å¼eby nam pomÃ³c?}

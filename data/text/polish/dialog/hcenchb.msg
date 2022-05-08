@@ -1,33 +1,33 @@
-{100}{}{Widzisz znudzonego goœcia ubranego w skórzany pancerz.}
-{101}{}{Widzisz Maxa, stra¿nika karawany.}
-{102}{}{Widzisz brudnego, znudzonego goœcia ubranego w skórzany pancerz. Po zapachu byd³a i pewnym kroku poznajesz w nim stra¿nika karawany.}
-{103}{}{Mogê ci w czymœ pomóc?}
-{104}{}{Hê?}
-{105}{}{Ny tu pracowaæ!}
-{106}{}{Kim jesteœ?}
-{107}{}{Co mo¿esz mi powiedzieæ o Chadzie?}
-{108}{}{Nie mam cierpliwoœci dla idiotów. Przykro mi, koleœ. Musisz sobie znaleŸæ kogoœ innego do zabawy.}
+{100}{}{Widzisz znudzonego goÅ›cia ubranego w skÃ³rzany pancerz.}
+{101}{}{Widzisz Maxa, straÅ¼nika karawany.}
+{102}{}{Widzisz brudnego, znudzonego goÅ›cia ubranego w skÃ³rzany pancerz. Po zapachu bydÅ‚a i pewnym kroku poznajesz w nim straÅ¼nika karawany.}
+{103}{}{MogÄ™ ci w czymÅ› pomÃ³c?}
+{104}{}{HÄ™?}
+{105}{}{Ny tu pracowaÄ‡!}
+{106}{}{Kim jesteÅ›?}
+{107}{}{Co moÅ¼esz mi powiedzieÄ‡ o Chadzie?}
+{108}{}{Nie mam cierpliwoÅ›ci dla idiotÃ³w. Przykro mi, koleÅ›. Musisz sobie znaleÅºÄ‡ kogoÅ› innego do zabawy.}
 {109}{}{::chlip::}
-{110}{}{Jestem Max. Jestem stra¿nikiem karawany.}
-{111}{}{Co mo¿esz mi powiedzieæ o Chadzie?}
-{112}{}{Dziêki. Na razie.}
-{113}{}{Szczerze? Mam go gdzieœ. Ostatnio, zacz¹³ szastaæ sporymi pieniêdzmi. To znaczy, jasne, jest szefem karawany, wiêc to oczywiste, ¿e dostaje wiêksz¹ dzia³kê. Ale nie ma szans, ¿eby by³ *a¿ tak* dziany. Myœlê, ¿e mo¿na by znaleŸæ coœ *naprawdê* interesuj¹cego w jego dokumentacji.}
-{114}{}{Có¿, Marcus podejrzewa, ¿e skubie pieni¹dze id¹ce do Broken Hills.}
-{115}{}{Dziêki. Na razie.}
-{116}{}{Dziêki. Cieszê siê, ¿e mamy to za sob¹. Ale uwa¿aj na swoje plecy.}
+{110}{}{Jestem Max. Jestem straÅ¼nikiem karawany.}
+{111}{}{Co moÅ¼esz mi powiedzieÄ‡ o Chadzie?}
+{112}{}{DziÄ™ki. Na razie.}
+{113}{}{Szczerze? Mam go gdzieÅ›. Ostatnio, zaczÄ…Å‚ szastaÄ‡ sporymi pieniÄ™dzmi. To znaczy, jasne, jest szefem karawany, wiÄ™c to oczywiste, Å¼e dostaje wiÄ™kszÄ… dziaÅ‚kÄ™. Ale nie ma szans, Å¼eby byÅ‚ *aÅ¼ tak* dziany. MyÅ›lÄ™, Å¼e moÅ¼na by znaleÅºÄ‡ coÅ› *naprawdÄ™* interesujÄ…cego w jego dokumentacji.}
+{114}{}{CÃ³Å¼, Marcus podejrzewa, Å¼e skubie pieniÄ…dze idÄ…ce do Broken Hills.}
+{115}{}{DziÄ™ki. Na razie.}
+{116}{}{DziÄ™ki. CieszÄ™ siÄ™, Å¼e mamy to za sobÄ…. Ale uwaÅ¼aj na swoje plecy.}
 {117}{}{Bywaj.}
-{118}{}{To nasz wróg! Zabiæ go!}
+{118}{}{To nasz wrÃ³g! ZabiÄ‡ go!}
 {119}{}{Ups.}
-{120}{}{[Œcisza swój g³os i rozgl¹da siê.] To musi byæ to. By³em stra¿nikiem w tej karawanie i przypadkiem pods³ucha³em jak Chad rozmawia³ z przedstawicielem w Gecko. Ten przedstawiciel skar¿y³ siê na podwy¿ki cen uranu z Broken Hills. Okaza³o siê, ¿e ta dostawa kosztowa³a 6000$ wiêcej ni¿ poprzednio.}
-{121}{}{Naprawdê? To dlaczego nie powiedzia³eœ o tym Marcusowi?}
-{122}{}{Musia³bym oszaleæ? W tym mieœcie Chad jest bardzo wp³ywowym cz³owiekiem i ma wielu przyjació³. Je¿eli o tym wspomnê, pewni ludzie w mieœcie znienawidz¹ mnie. Cholera, mogliby mnie nawet zabiæ.}
-{123}{}{Hmm, mo¿e ja o tym powiem Marcusowi, i tak nie zamierzam tu d³ugo zostawaæ.}
-{124}{}{Dobra. Rób jak chcesz, ale nie mów nic o mnie. I nigdy nie by³o tej rozmowy, w porz¹dku?}
-{125}{}{Nie ma sprawy. Czeœæ.}
-{126}{}{W³aœciwie, jeszcze jedno. Wiem, ¿e Chad prowadzi spis wszystkich transakcji. To u niego rodzaj obsesji. W³aœciwie ma tym punkcie takiego bzika, ¿e za³o¿ê siê, ¿e prowadzi dokumentacjê nawet ukradzionych pieniêdzy. Problem w tym, ¿e trzyma wszystko zamkniête w swoim domu na drugim koñcu miasta i nie s¹dzê ¿eby uda³o ci siê tam wejœæ, u¿ywa bardzo skomplikowanego zamka. Przypominam, tej rozmowy nigdy nie by³o.}
-{127}{}{Znajdê sposób. Dziêki za dodatkowe informacje.}
-{128}{}{Skomplikowany zamek? To jak ja mam siê tam dostaæ?}
-{129}{}{[Max chwilê siê zastanawia.] Dobra s³uchaj, wygl¹dasz na kogoœ godnego zaufania. Drzwi domu Chada s¹ zamykane na najbardziej skomplikowany zamek mechaniczny jaki kiedykolwiek zrobiono. Niektórzy myœl¹, ¿e zamki elektroniczne s¹ lepsze i mo¿e tak jest, ale ten to prawdziwe cacko. Wiem, bo sam go zaprojektowa³em. Zanim zosta³em stra¿nikiem w karawanie, by³em œlusarzem. Problem z moim zamkiem jest w tym, ¿e je¿eli zabierzesz siê za niego w niew³aœciwy sposób, uszkodzisz ma³y mechanizm w œrodku i zamek bêdzie bezu¿yteczny. Potrzeba prawdziwego eksperta, ¿eby go otworzyæ. A skoro potrzebujesz siê dostaæ do tego domu, pozwól, ¿e wyjaœniê ci jak otwieraæ tego typu zamki.}
-{130}{}{[Jakieœ piêæ minut póŸniej Max koñczy t³umaczyæ jak dzia³aj¹ jego zamki.] I gotowe, tak to siê robi, powinno wystarczyæ ¿eby dostaæ siê do tego domu. Dziêki tym informacjom nawet amator mo¿e otworzyæ ten zamek. Uwa¿aj na siebie. A, i tej rozmowy nigdy nie by³o.}
-{131}{}{Nie ma obawy. Dziêki za informacje.}
-{200}{}{Dowiadujesz siê o ostatnich oszustwach Chada dotycz¹cych karawan do Gecko.}
+{120}{}{[Åšcisza swÃ³j gÅ‚os i rozglÄ…da siÄ™.] To musi byÄ‡ to. ByÅ‚em straÅ¼nikiem w tej karawanie i przypadkiem podsÅ‚uchaÅ‚em jak Chad rozmawiaÅ‚ z przedstawicielem w Gecko. Ten przedstawiciel skarÅ¼yÅ‚ siÄ™ na podwyÅ¼ki cen uranu z Broken Hills. OkazaÅ‚o siÄ™, Å¼e ta dostawa kosztowaÅ‚a 6000$ wiÄ™cej niÅ¼ poprzednio.}
+{121}{}{NaprawdÄ™? To dlaczego nie powiedziaÅ‚eÅ› o tym Marcusowi?}
+{122}{}{MusiaÅ‚bym oszaleÄ‡? W tym mieÅ›cie Chad jest bardzo wpÅ‚ywowym czÅ‚owiekiem i ma wielu przyjaciÃ³Å‚. JeÅ¼eli o tym wspomnÄ™, pewni ludzie w mieÅ›cie znienawidzÄ… mnie. Cholera, mogliby mnie nawet zabiÄ‡.}
+{123}{}{Hmm, moÅ¼e ja o tym powiem Marcusowi, i tak nie zamierzam tu dÅ‚ugo zostawaÄ‡.}
+{124}{}{Dobra. RÃ³b jak chcesz, ale nie mÃ³w nic o mnie. I nigdy nie byÅ‚o tej rozmowy, w porzÄ…dku?}
+{125}{}{Nie ma sprawy. CzeÅ›Ä‡.}
+{126}{}{WÅ‚aÅ›ciwie, jeszcze jedno. Wiem, Å¼e Chad prowadzi spis wszystkich transakcji. To u niego rodzaj obsesji. WÅ‚aÅ›ciwie ma tym punkcie takiego bzika, Å¼e zaÅ‚oÅ¼Ä™ siÄ™, Å¼e prowadzi dokumentacjÄ™ nawet ukradzionych pieniÄ™dzy. Problem w tym, Å¼e trzyma wszystko zamkniÄ™te w swoim domu na drugim koÅ„cu miasta i nie sÄ…dzÄ™ Å¼eby udaÅ‚o ci siÄ™ tam wejÅ›Ä‡, uÅ¼ywa bardzo skomplikowanego zamka. Przypominam, tej rozmowy nigdy nie byÅ‚o.}
+{127}{}{ZnajdÄ™ sposÃ³b. DziÄ™ki za dodatkowe informacje.}
+{128}{}{Skomplikowany zamek? To jak ja mam siÄ™ tam dostaÄ‡?}
+{129}{}{[Max chwilÄ™ siÄ™ zastanawia.] Dobra sÅ‚uchaj, wyglÄ…dasz na kogoÅ› godnego zaufania. Drzwi domu Chada sÄ… zamykane na najbardziej skomplikowany zamek mechaniczny jaki kiedykolwiek zrobiono. NiektÃ³rzy myÅ›lÄ…, Å¼e zamki elektroniczne sÄ… lepsze i moÅ¼e tak jest, ale ten to prawdziwe cacko. Wiem, bo sam go zaprojektowaÅ‚em. Zanim zostaÅ‚em straÅ¼nikiem w karawanie, byÅ‚em Å›lusarzem. Problem z moim zamkiem jest w tym, Å¼e jeÅ¼eli zabierzesz siÄ™ za niego w niewÅ‚aÅ›ciwy sposÃ³b, uszkodzisz maÅ‚y mechanizm w Å›rodku i zamek bÄ™dzie bezuÅ¼yteczny. Potrzeba prawdziwego eksperta, Å¼eby go otworzyÄ‡. A skoro potrzebujesz siÄ™ dostaÄ‡ do tego domu, pozwÃ³l, Å¼e wyjaÅ›niÄ™ ci jak otwieraÄ‡ tego typu zamki.}
+{130}{}{[JakieÅ› piÄ™Ä‡ minut pÃ³Åºniej Max koÅ„czy tÅ‚umaczyÄ‡ jak dziaÅ‚ajÄ… jego zamki.] I gotowe, tak to siÄ™ robi, powinno wystarczyÄ‡ Å¼eby dostaÄ‡ siÄ™ do tego domu. DziÄ™ki tym informacjom nawet amator moÅ¼e otworzyÄ‡ ten zamek. UwaÅ¼aj na siebie. A, i tej rozmowy nigdy nie byÅ‚o.}
+{131}{}{Nie ma obawy. DziÄ™ki za informacje.}
+{200}{}{Dowiadujesz siÄ™ o ostatnich oszustwach Chada dotyczÄ…cych karawan do Gecko.}

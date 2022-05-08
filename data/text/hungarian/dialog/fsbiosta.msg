@@ -1,37 +1,37 @@
-{100}{}{Egy számítógép-terminált látsz.}
-{101}{}{Biológiai munkaállomás}
-{102}{}{M?köd? számítógép-terminál.}
-{103}{}{Üdvözöljük! Kérem, azonosítsa magát!}
-{104}{}{[Óóó! Nézd már a villogó fényeket!]}
-{105}{}{::megpróbálod kitalálni a jelszót::}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz.}
+{101}{}{BiolÃ³giai munkaÃ¡llomÃ¡s}
+{102}{}{M?kÃ¶d? szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l.}
+{103}{}{ÃœdvÃ¶zÃ¶ljÃ¼k! KÃ©rem, azonosÃ­tsa magÃ¡t!}
+{104}{}{[Ã“Ã³Ã³! NÃ©zd mÃ¡r a villogÃ³ fÃ©nyeket!]}
+{105}{}{::megprÃ³bÃ¡lod kitalÃ¡lni a jelszÃ³t::}
 {106}{}{INTLVR-Dnky-Pnch-98790}
-{107}{}{::meghekkeled a számítógépet::}
-{108}{}{Kilépés}
-{109}{}{Megtalálandó adat: -Botanika program- -Genetikai program- -Xeno program-}
+{107}{}{::meghekkeled a szÃ¡mÃ­tÃ³gÃ©pet::}
+{108}{}{KilÃ©pÃ©s}
+{109}{}{MegtalÃ¡landÃ³ adat: -Botanika program- -Genetikai program- -Xeno program-}
 {110}{}{Botanika program.}
 {111}{}{Genetikai program.}
 {112}{}{Xeno program.}
-{113}{}{A közelmúlt személyes feljegyzései.}
-{114}{}{Munkaállomás deaktiválása.}
-{115}{}{Helytelen jelszó! Kérem, beszéljen a rendszergazdával. Viszlát!}
-{116}{}{::meghekkeled a számítógépet::}
-{117}{}{::távozol::}
-{118}{}{Behatolót érzékeltem. Lekapcsolás. Legyen jó napja!}
-{119}{}{-kész-}
-{120}{}{(Körülbelül húsz perc elteltével az alábbiakat találod: A növények sugárzás-ellenállásának kezdeti eredményei nem túl kecsegtet?ek. A Dr. Sheng által kifejlesztett sugárzásálló növények kellemetlen mellékhatással bírnak, túlságosan veszélyesek. Shen ragaszkodik hozzá, hogy folytassák a megadott irányvonalat és vessék be a genetikai vívmányokat is.)}
+{113}{}{A kÃ¶zelmÃºlt szemÃ©lyes feljegyzÃ©sei.}
+{114}{}{MunkaÃ¡llomÃ¡s deaktivÃ¡lÃ¡sa.}
+{115}{}{Helytelen jelszÃ³! KÃ©rem, beszÃ©ljen a rendszergazdÃ¡val. ViszlÃ¡t!}
+{116}{}{::meghekkeled a szÃ¡mÃ­tÃ³gÃ©pet::}
+{117}{}{::tÃ¡vozol::}
+{118}{}{BehatolÃ³t Ã©rzÃ©keltem. LekapcsolÃ¡s. Legyen jÃ³ napja!}
+{119}{}{-kÃ©sz-}
+{120}{}{(KÃ¶rÃ¼lbelÃ¼l hÃºsz perc elteltÃ©vel az alÃ¡bbiakat talÃ¡lod: A nÃ¶vÃ©nyek sugÃ¡rzÃ¡s-ellenÃ¡llÃ¡sÃ¡nak kezdeti eredmÃ©nyei nem tÃºl kecsegtet?ek. A Dr. Sheng Ã¡ltal kifejlesztett sugÃ¡rzÃ¡sÃ¡llÃ³ nÃ¶vÃ©nyek kellemetlen mellÃ©khatÃ¡ssal bÃ­rnak, tÃºlsÃ¡gosan veszÃ©lyesek. Shen ragaszkodik hozzÃ¡, hogy folytassÃ¡k a megadott irÃ¡nyvonalat Ã©s vessÃ©k be a genetikai vÃ­vmÃ¡nyokat is.)}
 {121}{}{Genetikai program.}
 {122}{}{Xeno program.}
-{123}{}{A közelmúlt személyes feljegyzései.}
+{123}{}{A kÃ¶zelmÃºlt szemÃ©lyes feljegyzÃ©sei.}
 {124}{}{Vissza.}
-{125}{}{(Körülbelül húsz perc múltán összerakod a szerzett információt: A FEV virus alapjait felhasználva Dr. Long Wang sikeresen hozott létre mutáns katonákat. Egy szérumot is készített hozzá, amely érdekes eredményeket produkált egyes rágcsálókban. Beadta magának, mire elt?nt egy bugyborékoló tócsában. Ezt követ?en Dr. Sheng hírzárlatot rendelt el. Dr. Long halálával a stafétabotot Dr. Sheng vette át, aki minden tudását a sugárzásálló növények kutatására koncentrálta.)}
+{125}{}{(KÃ¶rÃ¼lbelÃ¼l hÃºsz perc mÃºltÃ¡n Ã¶sszerakod a szerzett informÃ¡ciÃ³t: A FEV virus alapjait felhasznÃ¡lva Dr. Long Wang sikeresen hozott lÃ©tre mutÃ¡ns katonÃ¡kat. Egy szÃ©rumot is kÃ©szÃ­tett hozzÃ¡, amely Ã©rdekes eredmÃ©nyeket produkÃ¡lt egyes rÃ¡gcsÃ¡lÃ³kban. Beadta magÃ¡nak, mire elt?nt egy bugyborÃ©kolÃ³ tÃ³csÃ¡ban. Ezt kÃ¶vet?en Dr. Sheng hÃ­rzÃ¡rlatot rendelt el. Dr. Long halÃ¡lÃ¡val a stafÃ©tabotot Dr. Sheng vette Ã¡t, aki minden tudÃ¡sÃ¡t a sugÃ¡rzÃ¡sÃ¡llÃ³ nÃ¶vÃ©nyek kutatÃ¡sÃ¡ra koncentrÃ¡lta.)}
 {126}{}{Botanika program.}
 {127}{}{Xeno program.}
-{128}{}{A közelmúlt személyes feljegyzései.}
+{128}{}{A kÃ¶zelmÃºlt szemÃ©lyes feljegyzÃ©sei.}
 {129}{}{Vissza.}
-{130}{}{"Az alany, amelyen oly sok ígéretes kísérletet szerettünk volna végrehajtani, elt?nt. Vagy megsemmisült, vagy ellopták a Hubologisták. A további adatszerzés nem bizonyult gyümölcsöz?nek. Amíg nem tudunk újabb példányokat keríteni, ezt az adatbázist elérhetetlenné teszem. - Dr. Sheng"}
+{130}{}{"Az alany, amelyen oly sok Ã­gÃ©retes kÃ­sÃ©rletet szerettÃ¼nk volna vÃ©grehajtani, elt?nt. Vagy megsemmisÃ¼lt, vagy elloptÃ¡k a HubologistÃ¡k. A tovÃ¡bbi adatszerzÃ©s nem bizonyult gyÃ¼mÃ¶lcsÃ¶z?nek. AmÃ­g nem tudunk Ãºjabb pÃ©ldÃ¡nyokat kerÃ­teni, ezt az adatbÃ¡zist elÃ©rhetetlennÃ© teszem. - Dr. Sheng"}
 {131}{}{Botanika program.}
 {132}{}{Genetikai program.}
-{133}{}{A közelmúlt személyes feljegyzései.}
+{133}{}{A kÃ¶zelmÃºlt szemÃ©lyes feljegyzÃ©sei.}
 {134}{}{Vissza.}
 {135}{}{Dr. Wong: New head of Biology Project, in addition to Physics Research.
                                                        Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
@@ -40,10 +40,10 @@
 {137}{}{Genetikai program.}
 {138}{}{Xeno program.}
 {139}{}{Vissza.}
-{140}{}{Állomás deaktiválva.}
-{141}{}{Állomás aktiválása.}
-{142}{}{-kilépés-}
+{140}{}{ÃllomÃ¡s deaktivÃ¡lva.}
+{141}{}{ÃllomÃ¡s aktivÃ¡lÃ¡sa.}
+{142}{}{-kilÃ©pÃ©s-}
 {143}{}{[Your ham-fisted approach across the keys triggers the correct password... your luck is incredible!]}
-{144}{}{-tovább-}
-{145}{}{A számítógép semmilyen inputra nem reagál.}
-{146}{}{Nem találsz rajta semmilyen helyet, ahol ezt alkalmazhatnád.}
+{144}{}{-tovÃ¡bb-}
+{145}{}{A szÃ¡mÃ­tÃ³gÃ©p semmilyen inputra nem reagÃ¡l.}
+{146}{}{Nem talÃ¡lsz rajta semmilyen helyet, ahol ezt alkalmazhatnÃ¡d.}

@@ -1,336 +1,336 @@
-{100}{}{? Rakétás Renesco.}
-{150}{}{Ez itt egy id?s ember. Jókora, ízléstelen szemüveget visel, és miközben nézed, bosszankodva sóhajtozik.}
-{200}{}{? Rakétás Renesco. Miközben figyeled, leveszi repedt szemüvegét, és az egyik ép lencséjét kezdi tisztogatni.}
-{201}{}{? Rakétás Renesco. Miközben figyeled, leveszi repedt szemüvegét, és az egyik ép lencséjét kezdi tisztogatni.}
-{210}{}{Kéne egy másik lencse. Nem olyan nagy kérés ez...}
-{211}{}{Franc esne ebbe a szemüvegbe!}
+{100}{}{? RakÃ©tÃ¡s Renesco.}
+{150}{}{Ez itt egy id?s ember. JÃ³kora, Ã­zlÃ©stelen szemÃ¼veget visel, Ã©s mikÃ¶zben nÃ©zed, bosszankodva sÃ³hajtozik.}
+{200}{}{? RakÃ©tÃ¡s Renesco. MikÃ¶zben figyeled, leveszi repedt szemÃ¼vegÃ©t, Ã©s az egyik Ã©p lencsÃ©jÃ©t kezdi tisztogatni.}
+{201}{}{? RakÃ©tÃ¡s Renesco. MikÃ¶zben figyeled, leveszi repedt szemÃ¼vegÃ©t, Ã©s az egyik Ã©p lencsÃ©jÃ©t kezdi tisztogatni.}
+{210}{}{KÃ©ne egy mÃ¡sik lencse. Nem olyan nagy kÃ©rÃ©s ez...}
+{211}{}{Franc esne ebbe a szemÃ¼vegbe!}
 {212}{}{A fene a szememet!}
-{213}{}{Akarsz VÁSÁROLNI valamit?}
-{214}{}{Ez itt nem kirakodóvásár! Akarsz vásárolni vagy sem?}
-{215}{}{Ha tovább folytatom ezt a munkát, meg fogok vakulni.}
-{216}{}{Asszem, még kell egy kis chemtex kilences alapanyag...}
-{217}{}{Egyre többet és többet akarnak...}
-{225}{}{Menj a fenébe!}
+{213}{}{Akarsz VÃSÃROLNI valamit?}
+{214}{}{Ez itt nem kirakodÃ³vÃ¡sÃ¡r! Akarsz vÃ¡sÃ¡rolni vagy sem?}
+{215}{}{Ha tovÃ¡bb folytatom ezt a munkÃ¡t, meg fogok vakulni.}
+{216}{}{Asszem, mÃ©g kell egy kis chemtex kilences alapanyag...}
+{217}{}{Egyre tÃ¶bbet Ã©s tÃ¶bbet akarnak...}
+{225}{}{Menj a fenÃ©be!}
 {226}{}{T?nj innen, vagy lel?lek!}
-{227}{}{T?nés innen!}
-{228}{}{Kifelé! Kifelé! Kifelé! Kifelé! Kifelé!}
-{235}{}{(Az id?s férfi felteszi az orrára a szemüvegét, és bosszankodva sóhajt.) IGEN? Mégis mit akarsz? }
-{236}{}{Gyerünk, jóember, ki vele!}
-{237}{}{Gyerünk, asszony, ki vele!}
-{238}{}{Oki-doki jön az... Álljá csak hátrább (Zippzár...)}
-{239}{}{Oki-doki jön az... El?bb melltartó. Figyu (Zippzár...)}
-{240}{}{Én mit AKAR? MIJED VAN?}
+{227}{}{T?nÃ©s innen!}
+{228}{}{KifelÃ©! KifelÃ©! KifelÃ©! KifelÃ©! KifelÃ©!}
+{235}{}{(Az id?s fÃ©rfi felteszi az orrÃ¡ra a szemÃ¼vegÃ©t, Ã©s bosszankodva sÃ³hajt.) IGEN? MÃ©gis mit akarsz? }
+{236}{}{GyerÃ¼nk, jÃ³ember, ki vele!}
+{237}{}{GyerÃ¼nk, asszony, ki vele!}
+{238}{}{Oki-doki jÃ¶n az... ÃlljÃ¡ csak hÃ¡trÃ¡bb (ZippzÃ¡r...)}
+{239}{}{Oki-doki jÃ¶n az... El?bb melltartÃ³. Figyu (ZippzÃ¡r...)}
+{240}{}{Ã‰n mit AKAR? MIJED VAN?}
 {241}{}{[Stare at him for a second, just to make sure he's real, then wander away]}
 {242}{}{Ki vagy te?}
-{243}{}{Hé, van egy eladó szemüvegem, ha kell.}
-{244}{}{Mennyi a szemüveg?}
-{245}{}{Tudja, vannak koffeinmentes termékek, amelyek ugyanolyan íz?ek, mint az eredeti.}
-{246}{}{Asszem, nem jó helyre jöttem. Viszlát!}
-{255}{}{(Megütközve néz rád.) }
-{256}{}{...na tessék, egy újabb méhen kívül abortált roncs az idióta gyermekekt?l hemzseg? poszt-holokauszt világban. (Felemeli a kezét.) T?nés az üzletemb?l! T?nj innen, de rögtön! Ne is gyere vissza, hallod??!!!}
-{257}{}{Én sajnál kicsi }
-{258}{}{Én nem tud hogy kell rakni vissza melltartó}
-{259}{}{Nem kiabál }
-{260}{}{ utál! }
+{243}{}{HÃ©, van egy eladÃ³ szemÃ¼vegem, ha kell.}
+{244}{}{Mennyi a szemÃ¼veg?}
+{245}{}{Tudja, vannak koffeinmentes termÃ©kek, amelyek ugyanolyan Ã­z?ek, mint az eredeti.}
+{246}{}{Asszem, nem jÃ³ helyre jÃ¶ttem. ViszlÃ¡t!}
+{255}{}{(MegÃ¼tkÃ¶zve nÃ©z rÃ¡d.) }
+{256}{}{...na tessÃ©k, egy Ãºjabb mÃ©hen kÃ­vÃ¼l abortÃ¡lt roncs az idiÃ³ta gyermekekt?l hemzseg? poszt-holokauszt vilÃ¡gban. (Felemeli a kezÃ©t.) T?nÃ©s az Ã¼zletemb?l! T?nj innen, de rÃ¶gtÃ¶n! Ne is gyere vissza, hallod??!!!}
+{257}{}{Ã‰n sajnÃ¡l kicsi }
+{258}{}{Ã‰n nem tud hogy kell rakni vissza melltartÃ³}
+{259}{}{Nem kiabÃ¡l }
+{260}{}{ utÃ¡l! }
 {261}{}{Megyek, megyek. Most az egyszer.}
-{270}{}{Hogy én? Ó, hát én vagyok a Mikulás, te kis észkombájn.}
-{271}{}{Hogy én? Én vagyok a Mikulás. TE pedig bizonyára az az idióta bérenc vagy, aki éhez? kutya módjára járja a várost a saját ürüléke nyomában.}
-{272}{}{Hogy én? Én vagyok a jó öreg Mikulás. TE pedig bizonyára az az idióta pornóhulladék vagy, akinek akkora, mint egy lónak, és az esze is kábé annyi.}
-{273}{}{Hogy én? Én vagyok a jó öreg Mikulás bácsi. TE pedig kétségtelenül az az idióta pornóhulladék jeles példánya vagy, akikre a ballonkabátos öreg fószerek verik a farkukat.}
-{274}{}{Örülök, hogy nem kell bemutatkoznom. Mit csinál errefelé, "Mikulás úr"?}
-{275}{}{Mikulás? Ki a jó fene az?}
-{276}{}{Figyeljen rám, papa, még egy ilyen beszólás, és nyakláncnak fogom használni a fogsorát!}
-{277}{}{Figyeljen ide, ezt most vegyük úgy, hogy nem hallottam... Szóval akkor kicsoda maga?}
-{278}{}{Remek szókincse van... "Mikulás úr". Idevalósi?}
-{279}{}{Felejtse el! Már itt sem vagyok.}
-{290}{}{(Rádbámul, aztán rádröffen.) Renesco vagyok. Mondd meg, mit akarsz, te... akármi is legyél. (Rádsandít.) Úgy nézel ki, mint egy ruhába bújtatott, napimádó f?eml?s.}
-{291}{}{Egy észak-nyugati faluból, Arroyóból jöttem.}
-{292}{}{Mit árul?}
-{293}{}{Hogy MIT AKAROK? Nem igazán tudom. Többnyire fittyet hányok a kit?zött feladatomra, helyette idegen házakat keresek fel, és az emberek polcain turkálok... mint például az ott!}
-{294}{}{Érdekes szókincse van... Renesco. Idevalósi?}
-{295}{}{Na, én leléptem...}
+{270}{}{Hogy Ã©n? Ã“, hÃ¡t Ã©n vagyok a MikulÃ¡s, te kis Ã©szkombÃ¡jn.}
+{271}{}{Hogy Ã©n? Ã‰n vagyok a MikulÃ¡s. TE pedig bizonyÃ¡ra az az idiÃ³ta bÃ©renc vagy, aki Ã©hez? kutya mÃ³djÃ¡ra jÃ¡rja a vÃ¡rost a sajÃ¡t Ã¼rÃ¼lÃ©ke nyomÃ¡ban.}
+{272}{}{Hogy Ã©n? Ã‰n vagyok a jÃ³ Ã¶reg MikulÃ¡s. TE pedig bizonyÃ¡ra az az idiÃ³ta pornÃ³hulladÃ©k vagy, akinek akkora, mint egy lÃ³nak, Ã©s az esze is kÃ¡bÃ© annyi.}
+{273}{}{Hogy Ã©n? Ã‰n vagyok a jÃ³ Ã¶reg MikulÃ¡s bÃ¡csi. TE pedig kÃ©tsÃ©gtelenÃ¼l az az idiÃ³ta pornÃ³hulladÃ©k jeles pÃ©ldÃ¡nya vagy, akikre a ballonkabÃ¡tos Ã¶reg fÃ³szerek verik a farkukat.}
+{274}{}{Ã–rÃ¼lÃ¶k, hogy nem kell bemutatkoznom. Mit csinÃ¡l errefelÃ©, "MikulÃ¡s Ãºr"?}
+{275}{}{MikulÃ¡s? Ki a jÃ³ fene az?}
+{276}{}{Figyeljen rÃ¡m, papa, mÃ©g egy ilyen beszÃ³lÃ¡s, Ã©s nyaklÃ¡ncnak fogom hasznÃ¡lni a fogsorÃ¡t!}
+{277}{}{Figyeljen ide, ezt most vegyÃ¼k Ãºgy, hogy nem hallottam... SzÃ³val akkor kicsoda maga?}
+{278}{}{Remek szÃ³kincse van... "MikulÃ¡s Ãºr". IdevalÃ³si?}
+{279}{}{Felejtse el! MÃ¡r itt sem vagyok.}
+{290}{}{(RÃ¡dbÃ¡mul, aztÃ¡n rÃ¡drÃ¶ffen.) Renesco vagyok. Mondd meg, mit akarsz, te... akÃ¡rmi is legyÃ©l. (RÃ¡dsandÃ­t.) Ãšgy nÃ©zel ki, mint egy ruhÃ¡ba bÃºjtatott, napimÃ¡dÃ³ f?eml?s.}
+{291}{}{Egy Ã©szak-nyugati falubÃ³l, ArroyÃ³bÃ³l jÃ¶ttem.}
+{292}{}{Mit Ã¡rul?}
+{293}{}{Hogy MIT AKAROK? Nem igazÃ¡n tudom. TÃ¶bbnyire fittyet hÃ¡nyok a kit?zÃ¶tt feladatomra, helyette idegen hÃ¡zakat keresek fel, Ã©s az emberek polcain turkÃ¡lok... mint pÃ©ldÃ¡ul az ott!}
+{294}{}{Ã‰rdekes szÃ³kincse van... Renesco. IdevalÃ³si?}
+{295}{}{Na, Ã©n lelÃ©ptem...}
 {305}{}{I sell recreational drugs mostly. That's why they gave me that idiotic appellation, 'the Rocketman.' Hmmmph. I
  also sell some caravan supplies. You NEED anything or can I get back to something important?}
-{306}{}{Rakétás? Van egy Tankcsapda szám, amiben azt énekli a srác, hogy "Félre a tréfát ?rhajós vagyok, ...mm mm... még egy rakétát". Nem emlékszik, hogy szól a szöveg egész pontosan?}
-{307}{}{Láthatnám az áruját?}
+{306}{}{RakÃ©tÃ¡s? Van egy Tankcsapda szÃ¡m, amiben azt Ã©nekli a srÃ¡c, hogy "FÃ©lre a trÃ©fÃ¡t ?rhajÃ³s vagyok, ...mm mm... mÃ©g egy rakÃ©tÃ¡t". Nem emlÃ©kszik, hogy szÃ³l a szÃ¶veg egÃ©sz pontosan?}
+{307}{}{LÃ¡thatnÃ¡m az Ã¡rujÃ¡t?}
 {308}{}{You sell drugs here in the STORE?}
 {309}{}{You mean like selling drugs to Wright's son?}
-{310}{}{Menjen csak, csinálja a dolgát...}
-{320}{}{(Renesco rádbámul. Úgy t?nik fejben levetk?ztet és egyenként kitépi a végtagjaidat.)}
+{310}{}{Menjen csak, csinÃ¡lja a dolgÃ¡t...}
+{320}{}{(Renesco rÃ¡dbÃ¡mul. Ãšgy t?nik fejben levetk?ztet Ã©s egyenkÃ©nt kitÃ©pi a vÃ©gtagjaidat.)}
 {321}{}{Nevermind, then. I had some other questions...}
 {322}{}{Mindegy, hagyjuk!}
 {330}{}{(Renesco looks at you in disgust.) Yes. In the STORE. This isn't the 20th century where drugs are sold by
  street corner cockroaches who live in constant fear of the authorities.}
-{331}{}{Na, hát akkor...}
+{331}{}{Na, hÃ¡t akkor...}
 {332}{}{De...}
-{333}{}{Ööö, asszem, jobb, ha...}
-{350}{}{Ez itt NEW RENO! Itt nincsenek zsaruk, nincs törvény, és rengeteg vev? akad, akik nem riadnak vissza, hogy egy kis mérget vásároljanak maguknak a sarki gyógyszerésznél. Ez megfelel? válasz, te f?eml?sök gyöngye?}
-{351}{}{Igen, egy valamit kivéve: Richard Wright a vev?i közé tartozott?}
-{352}{}{Rendben, rendben... milyen áruja van?}
-{353}{}{Igazából kérdeznék inkább mást...}
+{333}{}{Ã–Ã¶Ã¶, asszem, jobb, ha...}
+{350}{}{Ez itt NEW RENO! Itt nincsenek zsaruk, nincs tÃ¶rvÃ©ny, Ã©s rengeteg vev? akad, akik nem riadnak vissza, hogy egy kis mÃ©rget vÃ¡sÃ¡roljanak maguknak a sarki gyÃ³gyszerÃ©sznÃ©l. Ez megfelel? vÃ¡lasz, te f?eml?sÃ¶k gyÃ¶ngye?}
+{351}{}{Igen, egy valamit kivÃ©ve: Richard Wright a vev?i kÃ¶zÃ© tartozott?}
+{352}{}{Rendben, rendben... milyen Ã¡ruja van?}
+{353}{}{IgazÃ¡bÃ³l kÃ©rdeznÃ©k inkÃ¡bb mÃ¡st...}
 {354}{}{But, like you said, the drugs are... poisonous. They kill the spirit. Doesn't it bother you to sell them?}
-{355}{}{Úgy ahogy mondja. Most viszont léptem.}
-{365}{}{Azt kérded, zavar-e, ha a világ hátán csak púpot jelent? idiótáknak, hajcsároknak, maffiaf?nököknek vagy vadembereknek adom el? Három szót mondok erre, F?eml?s barátom: Járj nyitott szemmel!}
-{366}{}{Oké... láthatnám az áruját?}
-{367}{}{Jól van, jól van. Inkább kérdeznék valami mást...}
+{355}{}{Ãšgy ahogy mondja. Most viszont lÃ©ptem.}
+{365}{}{Azt kÃ©rded, zavar-e, ha a vilÃ¡g hÃ¡tÃ¡n csak pÃºpot jelent? idiÃ³tÃ¡knak, hajcsÃ¡roknak, maffiaf?nÃ¶kÃ¶knek vagy vadembereknek adom el? HÃ¡rom szÃ³t mondok erre, F?eml?s barÃ¡tom: JÃ¡rj nyitott szemmel!}
+{366}{}{OkÃ©... lÃ¡thatnÃ¡m az Ã¡rujÃ¡t?}
+{367}{}{JÃ³l van, jÃ³l van. InkÃ¡bb kÃ©rdeznÃ©k valami mÃ¡st...}
 {368}{}{The drugs here in New Reno are finding their way to other places, and hurting people there. Doesn't that concern you?}
-{369}{}{Azzal kezdem, hogy most azonnal távozom.}
-{375}{}{És? Mit kéne vele foglalkoznom?}
-{377}{}{Az emberi faj szörny? tragédián esett át! Most az újjáépítésen kéne fáradozni. A Jet árusítása... eléggé ellentmond ennek a törekvésnek.}
-{378}{}{Legyen úgy... most mennem kell.}
-{385}{}{És akkor mi van? Senki nem ER?LTETI azokat az idiótákat, hogy Jetet szedjenek be. Senki nem jár körbe és nyomja le a torkukon!}
-{386}{}{Láthatnám a...}
+{369}{}{Azzal kezdem, hogy most azonnal tÃ¡vozom.}
+{375}{}{Ã‰s? Mit kÃ©ne vele foglalkoznom?}
+{377}{}{Az emberi faj szÃ¶rny? tragÃ©diÃ¡n esett Ã¡t! Most az ÃºjjÃ¡Ã©pÃ­tÃ©sen kÃ©ne fÃ¡radozni. A Jet Ã¡rusÃ­tÃ¡sa... elÃ©ggÃ© ellentmond ennek a tÃ¶rekvÃ©snek.}
+{378}{}{Legyen Ãºgy... most mennem kell.}
+{385}{}{Ã‰s akkor mi van? Senki nem ER?LTETI azokat az idiÃ³tÃ¡kat, hogy Jetet szedjenek be. Senki nem jÃ¡r kÃ¶rbe Ã©s nyomja le a torkukon!}
+{386}{}{LÃ¡thatnÃ¡m a...}
 {387}{}{Nem gondol...}
 {388}{}{Ez a maga...}
-{395}{}{Azok a félkegyelm? k?tör?k Reddingben nagyon jól tudják, mit vesznek be, szóval egy milliméter szánalmat nem érzek irántuk! Ennyit az én aggodalmamról. A Jet szépen kipusztítja az emberi mocskot, amit a bombák életben hagytak!}
-{396}{}{Öö.. oké. Láthatnám az áruját?}
-{397}{}{Hol van ez a Redding, amit említett? Miért hozta szóba ?ket?}
-{398}{}{Határozottan Reddinget említette. A Jet miért olyan fontos Reddingben?}
-{400}{}{Joga van ahhoz, hogy így gondolkodjon. Nekem viszont jogomban áll most elmennem.}
-{410}{}{Hát Redding egy... különleges eset. Tudod, vannak emberek Renóban, akik gondoskodnak róla, hogy Redding jól el legyen látva. Végül is, ha csak egyszer megkóstolod a Jetet, rászoksz. Én ebb?l élek.}
-{411}{}{Ha már így szóba került... megmutatná az áruját?}
-{412}{}{Kik azok, akik gondoskodnak Redding Jet-ellátásáról? És f?leg miért?}
-{413}{}{Én is észrevettem. Amúgy volna néhány kérdésem...}
-{414}{}{Értem... most mennem kell.}
-{420}{}{Nos, kis f?eml?söm, kétlem, hogy képes lennél az ilyesmit meglátni, de New Reno semmi hasznosat nem képes el?állítani. Olyan, mint egy nagy, fényes kullancs, amely ott terpeszkedik a pusztaság közepén. Ami Reddinget illeti, nos... az más kérdés...}
+{395}{}{Azok a fÃ©lkegyelm? k?tÃ¶r?k Reddingben nagyon jÃ³l tudjÃ¡k, mit vesznek be, szÃ³val egy millimÃ©ter szÃ¡nalmat nem Ã©rzek irÃ¡ntuk! Ennyit az Ã©n aggodalmamrÃ³l. A Jet szÃ©pen kipusztÃ­tja az emberi mocskot, amit a bombÃ¡k Ã©letben hagytak!}
+{396}{}{Ã–Ã¶.. okÃ©. LÃ¡thatnÃ¡m az Ã¡rujÃ¡t?}
+{397}{}{Hol van ez a Redding, amit emlÃ­tett? MiÃ©rt hozta szÃ³ba ?ket?}
+{398}{}{HatÃ¡rozottan Reddinget emlÃ­tette. A Jet miÃ©rt olyan fontos Reddingben?}
+{400}{}{Joga van ahhoz, hogy Ã­gy gondolkodjon. Nekem viszont jogomban Ã¡ll most elmennem.}
+{410}{}{HÃ¡t Redding egy... kÃ¼lÃ¶nleges eset. Tudod, vannak emberek RenÃ³ban, akik gondoskodnak rÃ³la, hogy Redding jÃ³l el legyen lÃ¡tva. VÃ©gÃ¼l is, ha csak egyszer megkÃ³stolod a Jetet, rÃ¡szoksz. Ã‰n ebb?l Ã©lek.}
+{411}{}{Ha mÃ¡r Ã­gy szÃ³ba kerÃ¼lt... megmutatnÃ¡ az Ã¡rujÃ¡t?}
+{412}{}{Kik azok, akik gondoskodnak Redding Jet-ellÃ¡tÃ¡sÃ¡rÃ³l? Ã‰s f?leg miÃ©rt?}
+{413}{}{Ã‰n is Ã©szrevettem. AmÃºgy volna nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{414}{}{Ã‰rtem... most mennem kell.}
+{420}{}{Nos, kis f?eml?sÃ¶m, kÃ©tlem, hogy kÃ©pes lennÃ©l az ilyesmit meglÃ¡tni, de New Reno semmi hasznosat nem kÃ©pes el?Ã¡llÃ­tani. Olyan, mint egy nagy, fÃ©nyes kullancs, amely ott terpeszkedik a pusztasÃ¡g kÃ¶zepÃ©n. Ami Reddinget illeti, nos... az mÃ¡s kÃ©rdÃ©s...}
 {421}{}{Folytasd!}
-{422}{}{...IGENIS el?állít valami hasznos dolgot.}
+{422}{}{...IGENIS el?Ã¡llÃ­t valami hasznos dolgot.}
 {423}{}{Eleget hallottam.}
-{430}{}{El?ször és utoljára figyelmeztetlek, vadember! Ne te fejezd be a rohadt mondataimat! Nem szeretem ha az okostojás f?eml?sök akkor szólalnak meg, amikor figyelniük kéne. Nem csoda, hogy még mindig lándzsát használtok...}
-{431}{}{Nem mindannyian. Én például egész változatos fegyverarzenált használok az emberek meggyilkolására... hadd mutassam meg, mire gondolok!}
-{432}{}{Bocsásson meg! Kérem, folytassa!}
-{433}{}{Menjen a pokolba! Nem hallgatom ezt tovább! }
+{430}{}{El?szÃ¶r Ã©s utoljÃ¡ra figyelmeztetlek, vadember! Ne te fejezd be a rohadt mondataimat! Nem szeretem ha az okostojÃ¡s f?eml?sÃ¶k akkor szÃ³lalnak meg, amikor figyelniÃ¼k kÃ©ne. Nem csoda, hogy mÃ©g mindig lÃ¡ndzsÃ¡t hasznÃ¡ltok...}
+{431}{}{Nem mindannyian. Ã‰n pÃ©ldÃ¡ul egÃ©sz vÃ¡ltozatos fegyverarzenÃ¡lt hasznÃ¡lok az emberek meggyilkolÃ¡sÃ¡ra... hadd mutassam meg, mire gondolok!}
+{432}{}{BocsÃ¡sson meg! KÃ©rem, folytassa!}
+{433}{}{Menjen a pokolba! Nem hallgatom ezt tovÃ¡bb! }
 {440}{}{Redding has a stable work force that mines raw materials, mostly gold. New Reno sure could use that gold. Somebody
  figures all we gotta do is get those miners addicted, and we got 'em for life. You understand now?}
-{441}{}{Igen... egy dolgot kivéve: Honnan származik a Jet?}
+{441}{}{Igen... egy dolgot kivÃ©ve: Honnan szÃ¡rmazik a Jet?}
 {442}{}{Who's trying to addict all the miners?}
-{443}{}{Igen, értem. Kérdeznék valami mást...}
-{444}{}{Nem akarok többet hallani. Mennem kell...}
-{450}{}{(Myronra mutat.) Miért nem kérdezed a kis kanos varangy barátodat? Biztos, boldogan mesélne róla. (Myronra mered.) Igazam van, kölyök?}
-{451}{}{Egyetlen embernek köszönhetjük a Jet létrejöttét. Hallottál a Mordino család kis aranyifjáról, Myronról? Nos, az a kis gyökér kreálta a Jetet. Nagy Jesus Mordino pedig mindenfelé hirdeti, hol lehet droghoz jutni.}
-{452}{}{Mondjon még valamit Mryon-ról!}
-{453}{}{Van valami gyógyír a Jetre?}
-{454}{}{Lenne pár kérdésem.}
-{460}{}{Nagy Jesus Mordino az, aki Reddinget tömi a Jettel. Tipikus hatalmi játszma. Ha nagyüzem lesz, azoknak a bányászoknak l?ttek.}
-{461}{}{Honnan származik a Jet?}
-{463}{}{Értem. Hát volna még néhány kérdésem hozzád...}
+{443}{}{Igen, Ã©rtem. KÃ©rdeznÃ©k valami mÃ¡st...}
+{444}{}{Nem akarok tÃ¶bbet hallani. Mennem kell...}
+{450}{}{(Myronra mutat.) MiÃ©rt nem kÃ©rdezed a kis kanos varangy barÃ¡todat? Biztos, boldogan mesÃ©lne rÃ³la. (Myronra mered.) Igazam van, kÃ¶lyÃ¶k?}
+{451}{}{Egyetlen embernek kÃ¶szÃ¶nhetjÃ¼k a Jet lÃ©trejÃ¶ttÃ©t. HallottÃ¡l a Mordino csalÃ¡d kis aranyifjÃ¡rÃ³l, MyronrÃ³l? Nos, az a kis gyÃ¶kÃ©r kreÃ¡lta a Jetet. Nagy Jesus Mordino pedig mindenfelÃ© hirdeti, hol lehet droghoz jutni.}
+{452}{}{Mondjon mÃ©g valamit Mryon-rÃ³l!}
+{453}{}{Van valami gyÃ³gyÃ­r a Jetre?}
+{454}{}{Lenne pÃ¡r kÃ©rdÃ©sem.}
+{460}{}{Nagy Jesus Mordino az, aki Reddinget tÃ¶mi a Jettel. Tipikus hatalmi jÃ¡tszma. Ha nagyÃ¼zem lesz, azoknak a bÃ¡nyÃ¡szoknak l?ttek.}
+{461}{}{Honnan szÃ¡rmazik a Jet?}
+{463}{}{Ã‰rtem. HÃ¡t volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem hozzÃ¡d...}
 {470}{}{Horny as a toad and all the morals of one. Smart kid, though. High IQ. Wasting his brains manufacturing drugs, that's
  for damn certain.}
-{471}{}{Hol találom ?t?}
-{472}{}{Értem. Hadd kérdezzek valami mást...}
-{480}{}{A Mordino család jól eldugta ?t valahova. Valószín?leg tisztességesen ?rzik azt a helyet, de fogalmam sincs, merre található.}
-{481}{}{Köszönöm az információt. Megnézhetem az áruját?}
+{471}{}{Hol talÃ¡lom ?t?}
+{472}{}{Ã‰rtem. Hadd kÃ©rdezzek valami mÃ¡st...}
+{480}{}{A Mordino csalÃ¡d jÃ³l eldugta ?t valahova. ValÃ³szÃ­n?leg tisztessÃ©gesen ?rzik azt a helyet, de fogalmam sincs, merre talÃ¡lhatÃ³.}
+{481}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. MegnÃ©zhetem az Ã¡rujÃ¡t?}
 {490}{}{A CURE for methamphetamine addiction?! Ha! I only know two: one is death. The other is locking yourself
  in a cage for a year without Jet and sweat it out of your system. Hmmmph. "Cure," my ass! What nonsense!}
-{492}{}{Kell, hogy legyen gyógyír. Mi a Jet kémiai összetétele?}
+{492}{}{Kell, hogy legyen gyÃ³gyÃ­r. Mi a Jet kÃ©miai Ã¶sszetÃ©tele?}
 {505}{}{Why don't you ask your friend there? He designed the drug.}
 {506}{}{I just sell the stuff. I'd ask a scientist. Or Myron. He designed the drug.}
-{515}{}{(Renesco szótlanul bámul rád.)}
-{516}{}{(Renesco újra csak rádbámul, ezúttal szótlanul.)}
-{517}{}{(Szerintem magának tetszene Arroyo. Békés kis falu. Az mondjuk nem annyira jó, hogy a növényeket gonosz lelkek szállták meg... és az is rossz, hogy a Próbák Temploma telis-tele van halálos dárdacsapdákkal és emberev? óriáshangyákkal.}
-{518}{}{Hallott maga valaha is az Édenkert Létrehozást El?segít? Táskáról? Vagy a 13-as Menedékr?l?}
-{519}{}{Akkor jó... már itt sem vagyok.}
-{525}{}{(Renesco egyfolytában csak bámul.)}
-{526}{}{Ráadásul a törzsf? kis dolgokon is felhúzza magát, mint... hehe... például amikor megszegtem a n?tlenségi fogadalmamat és Az Ezer Kígyó Erejével Szorító Reynával kiosontunk az Arroyót körülölel? kanyonba...}
-{535}{}{(Renesco lesújtó pillantással illet.)}
-{536}{}{Mintha csak tegnap lett volna. Reyna teste ezüstösen izzott a holdfényben, amikor letérdelt és... hé, mondok én magának valamit! Szerintem jól kijönnének a törzsf?nkkel. Nagyjából egyid?sek.}
-{545}{}{(Renesco úgy bámul rád, mint aki abban bízik, ha elég er?sen rádgondol, elt?ntethet a föld színér?l.)}
-{546}{}{Említettem már, hogy Arroyót az ?söm, a szent Menedéklakó alapította? Miután a mindenkit fenyeget? gonoszt legy?zte, legendás utazásra indult dél fel?l. (Teleszívod a tüd?det, és büszkén a messzeségbe bámulsz.) Most ÉN vagyok törzsünk kiválasztottja, akinek meg kell keresnie a szent ÉLET-et!}
-{547}{}{Na, jó, elég az anekdotázásból... jobb, ha megyek a dolgomra. Dícsértessék a Menedék!}
-{555}{}{(Renesco megenyhültebb képet vág.) }
-{556}{}{ÉLET-et mondtál? Az Édenkert Létrehozást El?segít? Táskát??? Egy alap replikátor egységgel rendelkezik, mellékeltek hozzá egy hololemez olvasót, a kongresszusi könyvtár legjelent?sebb olvasnivalóiból készített összeállítással együtt, valamint egy apró zseblámpát is találni benne.}
-{557}{}{Igen, de ez most nem annyira fontos. Még nem fejeztem be az Arroyóval kapcsolatos beszámolómat.}
-{558}{}{Igen! A falunknak problémája volt a terméssel, és az ÉLET kell a dolgok helyrepofozásához. Tudja, hol találhatnék egyet?}
-{559}{}{Úgy tudjuk, a 13-as Menedék falai közt találni egyet, legalábbis a legendák szerint. Ismer ilyen nev? helyet?}
-{560}{}{Ha nem hallgatja végig, amikor a szentírásból idézek, megyek a fenébe!}
+{515}{}{(Renesco szÃ³tlanul bÃ¡mul rÃ¡d.)}
+{516}{}{(Renesco Ãºjra csak rÃ¡dbÃ¡mul, ezÃºttal szÃ³tlanul.)}
+{517}{}{(Szerintem magÃ¡nak tetszene Arroyo. BÃ©kÃ©s kis falu. Az mondjuk nem annyira jÃ³, hogy a nÃ¶vÃ©nyeket gonosz lelkek szÃ¡lltÃ¡k meg... Ã©s az is rossz, hogy a PrÃ³bÃ¡k Temploma telis-tele van halÃ¡los dÃ¡rdacsapdÃ¡kkal Ã©s emberev? Ã³riÃ¡shangyÃ¡kkal.}
+{518}{}{Hallott maga valaha is az Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡rÃ³l? Vagy a 13-as MenedÃ©kr?l?}
+{519}{}{Akkor jÃ³... mÃ¡r itt sem vagyok.}
+{525}{}{(Renesco egyfolytÃ¡ban csak bÃ¡mul.)}
+{526}{}{RÃ¡adÃ¡sul a tÃ¶rzsf? kis dolgokon is felhÃºzza magÃ¡t, mint... hehe... pÃ©ldÃ¡ul amikor megszegtem a n?tlensÃ©gi fogadalmamat Ã©s Az Ezer KÃ­gyÃ³ ErejÃ©vel SzorÃ­tÃ³ ReynÃ¡val kiosontunk az ArroyÃ³t kÃ¶rÃ¼lÃ¶lel? kanyonba...}
+{535}{}{(Renesco lesÃºjtÃ³ pillantÃ¡ssal illet.)}
+{536}{}{Mintha csak tegnap lett volna. Reyna teste ezÃ¼stÃ¶sen izzott a holdfÃ©nyben, amikor letÃ©rdelt Ã©s... hÃ©, mondok Ã©n magÃ¡nak valamit! Szerintem jÃ³l kijÃ¶nnÃ©nek a tÃ¶rzsf?nkkel. NagyjÃ¡bÃ³l egyid?sek.}
+{545}{}{(Renesco Ãºgy bÃ¡mul rÃ¡d, mint aki abban bÃ­zik, ha elÃ©g er?sen rÃ¡dgondol, elt?ntethet a fÃ¶ld szÃ­nÃ©r?l.)}
+{546}{}{EmlÃ­tettem mÃ¡r, hogy ArroyÃ³t az ?sÃ¶m, a szent MenedÃ©klakÃ³ alapÃ­totta? MiutÃ¡n a mindenkit fenyeget? gonoszt legy?zte, legendÃ¡s utazÃ¡sra indult dÃ©l fel?l. (TeleszÃ­vod a tÃ¼d?det, Ã©s bÃ¼szkÃ©n a messzesÃ©gbe bÃ¡mulsz.) Most Ã‰N vagyok tÃ¶rzsÃ¼nk kivÃ¡lasztottja, akinek meg kell keresnie a szent Ã‰LET-et!}
+{547}{}{Na, jÃ³, elÃ©g az anekdotÃ¡zÃ¡sbÃ³l... jobb, ha megyek a dolgomra. DÃ­csÃ©rtessÃ©k a MenedÃ©k!}
+{555}{}{(Renesco megenyhÃ¼ltebb kÃ©pet vÃ¡g.) }
+{556}{}{Ã‰LET-et mondtÃ¡l? Az Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡t??? Egy alap replikÃ¡tor egysÃ©ggel rendelkezik, mellÃ©keltek hozzÃ¡ egy hololemez olvasÃ³t, a kongresszusi kÃ¶nyvtÃ¡r legjelent?sebb olvasnivalÃ³ibÃ³l kÃ©szÃ­tett Ã¶sszeÃ¡llÃ­tÃ¡ssal egyÃ¼tt, valamint egy aprÃ³ zseblÃ¡mpÃ¡t is talÃ¡lni benne.}
+{557}{}{Igen, de ez most nem annyira fontos. MÃ©g nem fejeztem be az ArroyÃ³val kapcsolatos beszÃ¡molÃ³mat.}
+{558}{}{Igen! A falunknak problÃ©mÃ¡ja volt a termÃ©ssel, Ã©s az Ã‰LET kell a dolgok helyrepofozÃ¡sÃ¡hoz. Tudja, hol talÃ¡lhatnÃ©k egyet?}
+{559}{}{Ãšgy tudjuk, a 13-as MenedÃ©k falai kÃ¶zt talÃ¡lni egyet, legalÃ¡bbis a legendÃ¡k szerint. Ismer ilyen nev? helyet?}
+{560}{}{Ha nem hallgatja vÃ©gig, amikor a szentÃ­rÃ¡sbÃ³l idÃ©zek, megyek a fenÃ©be!}
 {561}{}{Meglehet. Most viszont mennem kell.}
-{570}{}{Francba az elmaradott, f?szívó falutokkal, veled együtt! Egy f?eml?s mi a fenét kezdene egy ÉLET-tel?}
-{571}{}{Arroyónak... a mi elmaradott, f?szívó falunknak, ahogy maga mondja... problémája támadt a terméssel. Ahhoz, hogy megoldjuk, szükségünk van egy ÉLET-re.}
-{572}{}{Azt mondják, a 13-as Menedékben van egy példány. Van tudomása egy ilyen nev? helyr?l?}
-{573}{}{Most nem érzem úgy, hogy osztoznom kéne ebben. Viszlát!}
-{580}{}{Hmmmm. Hát az biztos segítene... minden bizonnyal. Ha neaggyisten találnál egyet. Viszont g?zöm sincs, hol kéne kezdeni a keresést. ÚKK vagy Menedékváros talán szóba jöhet, de kétlem, hogy maradt volna nekik egy is... mindazonáltal...}
-{581}{}{Ennek ellenére...?}
-{590}{}{Mindazonáltal azok az öntörvény? barmok lehet, hogy mégis tudnak segíteni. Rájössz majd, ha lassan és szájbarágósan beszélnek...}
-{591}{}{ÚKK vagy Menedékváros? Megyek, felkeresem ezeket a helyeket. Kikérdezem majd az ott él? falusiakat az ÉLET holléte fel?l.}
-{592}{}{Miért ne lenne az ÉLET a szent 13-as Menedékben? Az írás szerint az ÉLET a szent 13-as Menedék falain belül található.}
-{593}{}{Nagyon vicces. Kérdeznék azért valami mást is...}
-{594}{}{Akkor jó... utánanézek. Köszönöm.}
-{600}{}{A francba, dehogyis, te f?eml?s! Hallottam én Menedékekr?l, de 13-as Menedékr?l sosem. A nevében legjobban hasonlító hely Menedékváros, amely észak-kelet felé fekszik... és ha azok az arisztokratikus majompöcsök valaha is láttak egy Menedéket belülr?l, mostanra már biztosan el?jöttek bel?le.}
-{601}{}{Szóval Menedékváros... Megyek és megkeresem ezt a Menedékvárost, a falubelieket meg kikérdezem az ÉLET fel?l. Köszönöm, Renesco. Dícsértessék a Menedék! }
-{602}{}{Nocsak! Több, mint egy Menedék létezik???}
-{603}{}{Hmmm. Volna még néhány egyéb kérdésem...}
-{610}{}{Ha Menedékvárosba mész, f?eml?s barátom, nekem ne köszönj semmit! New Renóban jobban jársz. Legalábbis a koporsóméretedet felvev? egyén nem fog a szemedbe hazudni.}
-{611}{}{Rendben van... megyek Menedékvárosba. Dícsértessék a Menedék! }
-{612}{}{Értem. Kösz a figyelmeztetést. }
-{620}{}{Mib?l gondolod, hogy TIZENHÁRMASNAK hívják azt a Menedéket, lándzsarázó barátom? A törzsbéliek eleve pici aggyal születnek vagy rituális lobotómiát szoktatok végezni, hogy azt a kevés eszet is kiirtsátok az agyatokból?}
-{623}{}{Látom, már megint elkényeztet a szövegével. Köszönöm... az információt... ha mást nem is. }
-{630}{}{Itt New Renóban nem bevett beszédtéma egy ember múltja. Szóval mit is akarsz?}
-{632}{}{Maga elég m?velt embernek t?nik. Hallott valaha egy ÉLETNEK nevezett dologról és a szent 13-as Menedékr?l?}
+{570}{}{Francba az elmaradott, f?szÃ­vÃ³ falutokkal, veled egyÃ¼tt! Egy f?eml?s mi a fenÃ©t kezdene egy Ã‰LET-tel?}
+{571}{}{ArroyÃ³nak... a mi elmaradott, f?szÃ­vÃ³ falunknak, ahogy maga mondja... problÃ©mÃ¡ja tÃ¡madt a termÃ©ssel. Ahhoz, hogy megoldjuk, szÃ¼ksÃ©gÃ¼nk van egy Ã‰LET-re.}
+{572}{}{Azt mondjÃ¡k, a 13-as MenedÃ©kben van egy pÃ©ldÃ¡ny. Van tudomÃ¡sa egy ilyen nev? helyr?l?}
+{573}{}{Most nem Ã©rzem Ãºgy, hogy osztoznom kÃ©ne ebben. ViszlÃ¡t!}
+{580}{}{Hmmmm. HÃ¡t az biztos segÃ­tene... minden bizonnyal. Ha neaggyisten talÃ¡lnÃ¡l egyet. Viszont g?zÃ¶m sincs, hol kÃ©ne kezdeni a keresÃ©st. ÃšKK vagy MenedÃ©kvÃ¡ros talÃ¡n szÃ³ba jÃ¶het, de kÃ©tlem, hogy maradt volna nekik egy is... mindazonÃ¡ltal...}
+{581}{}{Ennek ellenÃ©re...?}
+{590}{}{MindazonÃ¡ltal azok az Ã¶ntÃ¶rvÃ©ny? barmok lehet, hogy mÃ©gis tudnak segÃ­teni. RÃ¡jÃ¶ssz majd, ha lassan Ã©s szÃ¡jbarÃ¡gÃ³san beszÃ©lnek...}
+{591}{}{ÃšKK vagy MenedÃ©kvÃ¡ros? Megyek, felkeresem ezeket a helyeket. KikÃ©rdezem majd az ott Ã©l? falusiakat az Ã‰LET hollÃ©te fel?l.}
+{592}{}{MiÃ©rt ne lenne az Ã‰LET a szent 13-as MenedÃ©kben? Az Ã­rÃ¡s szerint az Ã‰LET a szent 13-as MenedÃ©k falain belÃ¼l talÃ¡lhatÃ³.}
+{593}{}{Nagyon vicces. KÃ©rdeznÃ©k azÃ©rt valami mÃ¡st is...}
+{594}{}{Akkor jÃ³... utÃ¡nanÃ©zek. KÃ¶szÃ¶nÃ¶m.}
+{600}{}{A francba, dehogyis, te f?eml?s! Hallottam Ã©n MenedÃ©kekr?l, de 13-as MenedÃ©kr?l sosem. A nevÃ©ben legjobban hasonlÃ­tÃ³ hely MenedÃ©kvÃ¡ros, amely Ã©szak-kelet felÃ© fekszik... Ã©s ha azok az arisztokratikus majompÃ¶csÃ¶k valaha is lÃ¡ttak egy MenedÃ©ket belÃ¼lr?l, mostanra mÃ¡r biztosan el?jÃ¶ttek bel?le.}
+{601}{}{SzÃ³val MenedÃ©kvÃ¡ros... Megyek Ã©s megkeresem ezt a MenedÃ©kvÃ¡rost, a falubelieket meg kikÃ©rdezem az Ã‰LET fel?l. KÃ¶szÃ¶nÃ¶m, Renesco. DÃ­csÃ©rtessÃ©k a MenedÃ©k! }
+{602}{}{Nocsak! TÃ¶bb, mint egy MenedÃ©k lÃ©tezik???}
+{603}{}{Hmmm. Volna mÃ©g nÃ©hÃ¡ny egyÃ©b kÃ©rdÃ©sem...}
+{610}{}{Ha MenedÃ©kvÃ¡rosba mÃ©sz, f?eml?s barÃ¡tom, nekem ne kÃ¶szÃ¶nj semmit! New RenÃ³ban jobban jÃ¡rsz. LegalÃ¡bbis a koporsÃ³mÃ©retedet felvev? egyÃ©n nem fog a szemedbe hazudni.}
+{611}{}{Rendben van... megyek MenedÃ©kvÃ¡rosba. DÃ­csÃ©rtessÃ©k a MenedÃ©k! }
+{612}{}{Ã‰rtem. KÃ¶sz a figyelmeztetÃ©st. }
+{620}{}{Mib?l gondolod, hogy TIZENHÃRMASNAK hÃ­vjÃ¡k azt a MenedÃ©ket, lÃ¡ndzsarÃ¡zÃ³ barÃ¡tom? A tÃ¶rzsbÃ©liek eleve pici aggyal szÃ¼letnek vagy rituÃ¡lis lobotÃ³miÃ¡t szoktatok vÃ©gezni, hogy azt a kevÃ©s eszet is kiirtsÃ¡tok az agyatokbÃ³l?}
+{623}{}{LÃ¡tom, mÃ¡r megint elkÃ©nyeztet a szÃ¶vegÃ©vel. KÃ¶szÃ¶nÃ¶m... az informÃ¡ciÃ³t... ha mÃ¡st nem is. }
+{630}{}{Itt New RenÃ³ban nem bevett beszÃ©dtÃ©ma egy ember mÃºltja. SzÃ³val mit is akarsz?}
+{632}{}{Maga elÃ©g m?velt embernek t?nik. Hallott valaha egy Ã‰LETNEK nevezett dologrÃ³l Ã©s a szent 13-as MenedÃ©kr?l?}
 {634}{}{Nothing, nevermind.}
-{640}{}{(Renesco kikapja a kezedb?l a szemüveget és miközben felbiggyeszti magára, a szeme elkerekedik.) Jószagú Reno! HOGY néz már ki ez az üzlet!? (Homlokát ráncolja.) Micsoda rendetlenség... és az ott mi a polcon? Egy nagy rakás brahminszar.}
+{640}{}{(Renesco kikapja a kezedb?l a szemÃ¼veget Ã©s mikÃ¶zben felbiggyeszti magÃ¡ra, a szeme elkerekedik.) JÃ³szagÃº Reno! HOGY nÃ©z mÃ¡r ki ez az Ã¼zlet!? (HomlokÃ¡t rÃ¡ncolja.) Micsoda rendetlensÃ©g... Ã©s az ott mi a polcon? Egy nagy rakÃ¡s brahminszar.}
 {641}{}{You're welcome...}
 {642}{}{Enjoy.}
-{650}{}{Hmmm! ...hát ööö... honnan szedted ezt?}
-{651}{}{Hát hallottam egy kis radskorpióról, tudod, és volt egy tudós, aki tanítgatta, és... tudod mit? Még én sem hiszem el. Tartsd meg és kész, rendben van?}
-{652}{}{Vegyük úgy, hogy találtam. Valahol.}
-{660}{}{Hé! Álljunkmegegypillanatra! Honnan szedted ezt?}
-{661}{}{Hát hallottam egy kis radskorpióról, tudod, és volt egy tudós, aki tanítgatta, és... tudod mit? Még én sem hiszem el. Tartsd meg és kész, rendben van?}
-{670}{}{Hát... izé... én... hálás vagyok neked. Már azt hittem, hogy egész életemben csak szenvedni fogok a törött keret miatt. Ha tehetek valamit érted, csak szólj... és én... ööö... megpróbálok mindent.}
-{671}{}{Mit szólnál egy kis árengedményhez?}
-{672}{}{Szóra sem érdemes... viselje egészséggel! Ellenben kérdeznék egy s mást...}
-{673}{}{Egy napon - s ez a nap talán sosem jön el - megkérem magát, hogy tegyen meg egy kis szívességet. Addig is fogadja el ezt a szemüveget a lányom esküv?je alkalmából. }
+{650}{}{Hmmm! ...hÃ¡t Ã¶Ã¶Ã¶... honnan szedted ezt?}
+{651}{}{HÃ¡t hallottam egy kis radskorpiÃ³rÃ³l, tudod, Ã©s volt egy tudÃ³s, aki tanÃ­tgatta, Ã©s... tudod mit? MÃ©g Ã©n sem hiszem el. Tartsd meg Ã©s kÃ©sz, rendben van?}
+{652}{}{VegyÃ¼k Ãºgy, hogy talÃ¡ltam. Valahol.}
+{660}{}{HÃ©! Ãlljunkmegegypillanatra! Honnan szedted ezt?}
+{661}{}{HÃ¡t hallottam egy kis radskorpiÃ³rÃ³l, tudod, Ã©s volt egy tudÃ³s, aki tanÃ­tgatta, Ã©s... tudod mit? MÃ©g Ã©n sem hiszem el. Tartsd meg Ã©s kÃ©sz, rendben van?}
+{670}{}{HÃ¡t... izÃ©... Ã©n... hÃ¡lÃ¡s vagyok neked. MÃ¡r azt hittem, hogy egÃ©sz Ã©letemben csak szenvedni fogok a tÃ¶rÃ¶tt keret miatt. Ha tehetek valamit Ã©rted, csak szÃ³lj... Ã©s Ã©n... Ã¶Ã¶Ã¶... megprÃ³bÃ¡lok mindent.}
+{671}{}{Mit szÃ³lnÃ¡l egy kis Ã¡rengedmÃ©nyhez?}
+{672}{}{SzÃ³ra sem Ã©rdemes... viselje egÃ©szsÃ©ggel! Ellenben kÃ©rdeznÃ©k egy s mÃ¡st...}
+{673}{}{Egy napon - s ez a nap talÃ¡n sosem jÃ¶n el - megkÃ©rem magÃ¡t, hogy tegyen meg egy kis szÃ­vessÃ©get. Addig is fogadja el ezt a szemÃ¼veget a lÃ¡nyom eskÃ¼v?je alkalmÃ¡bÃ³l. }
 {680}{}{Ehhh...}
 {681}{}{Errr...}
 {682}{}{Nos...}
-{683}{}{Oké! Oké! Adok egy kis árengedményt! Hmmm.}
-{684}{}{Ugyan már, egy kis árengedmény nem a világ! Gyerünk...}
-{687}{}{Nagyszer?! Nézzük, mije van "haver".}
-{688}{}{Kiváló! Mindenesetre volna néhány kérdésem...}
-{689}{}{Kés?bb még visszajövök vásárolni. }
-{700}{}{Essünk túl rajta!}
-{701}{}{Idehallgass, én elfoglalt ember vagyok...}
-{702}{}{Na, gyerünk, ne fogd vissza magad!}
+{683}{}{OkÃ©! OkÃ©! Adok egy kis Ã¡rengedmÃ©nyt! Hmmm.}
+{684}{}{Ugyan mÃ¡r, egy kis Ã¡rengedmÃ©ny nem a vilÃ¡g! GyerÃ¼nk...}
+{687}{}{Nagyszer?! NÃ©zzÃ¼k, mije van "haver".}
+{688}{}{KivÃ¡lÃ³! Mindenesetre volna nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{689}{}{KÃ©s?bb mÃ©g visszajÃ¶vÃ¶k vÃ¡sÃ¡rolni. }
+{700}{}{EssÃ¼nk tÃºl rajta!}
+{701}{}{Idehallgass, Ã©n elfoglalt ember vagyok...}
+{702}{}{Na, gyerÃ¼nk, ne fogd vissza magad!}
 {703}{}{Eggen?}
-{704}{}{Beszéltem már magának a falumról, Arroyóról?}
+{704}{}{BeszÃ©ltem mÃ¡r magÃ¡nak a falumrÃ³l, ArroyÃ³rÃ³l?}
 {706}{}{Maga adott el Jetet Richard Wrightnak?}
-{707}{}{Azért jöttem, hogy begy?jtsem Mr. Salvatore részesedését.}
-{710}{}{A Broken Hillsi bányába keresek néhány alkatrészt...}
-{711}{}{Érdekes szókincse van, mondhatom... idevalósi?}
+{707}{}{AzÃ©rt jÃ¶ttem, hogy begy?jtsem Mr. Salvatore rÃ©szesedÃ©sÃ©t.}
+{710}{}{A Broken Hillsi bÃ¡nyÃ¡ba keresek nÃ©hÃ¡ny alkatrÃ©szt...}
+{711}{}{Ã‰rdekes szÃ³kincse van, mondhatom... idevalÃ³si?}
 {712}{}{Felejtse el... }
-{725}{}{(Összeszükül a szeme.) Vagyis?}
-{726}{}{Azért kellenek az alkatrészek, hogy megjavíthassam a bányájuk légfrissít?jét. Nekem azt mondták, maga segíteni tud rajtam.}
-{727}{}{Azért kellenek az alkatrészek, hogy megjavíthassam a bányájuk légfrissít?jét. Zaius küldött. Azt is mondta még, hogy ööö... ööö... a francba.}
-{728}{}{Azért kellenek az alkatrészek, hogy megjavíthassam a bányájuk légfrissít?jét. Zaius küldött. Azt is mondta még, hogy "Kipurcant a kanári.".}
-{735}{}{Igen, történetesen van egy-két alkatrészem, amivel megjavíthatod a légtisztítót. 100 dolcsi lesz.}
-{736}{}{Elvinném. Tessék, itt a pénz.}
-{737}{}{Mit szólna ötven dolcsihoz?}
-{738}{}{Öö, nincs nálam az a százas... kés?bb visszajövök a pénzzel. }
-{745}{}{Id?közben infláció lépett fel az alkudozásnak köszönhet? menedzseri bosszankodás következtében. 200 vagy semmi.}
-{746}{}{(Összevonja a szemöldökét.) 200 vagy semmi.}
-{747}{}{Kétszáz? Az el?bb még SZÁZAT mondott?}
-{748}{}{Öö, elviszem. Tessék, itt a pénze.}
-{749}{}{Öö, nincs nálam két darab százas... kés?bb visszajövök a pénzzel. }
-{755}{}{ER?SEN kétlem, hogy ezt mondta volna. Biztos, hogy azt mondta: Kipurcant a kanári?}
+{725}{}{(Ã–sszeszÃ¼kÃ¼l a szeme.) Vagyis?}
+{726}{}{AzÃ©rt kellenek az alkatrÃ©szek, hogy megjavÃ­thassam a bÃ¡nyÃ¡juk lÃ©gfrissÃ­t?jÃ©t. Nekem azt mondtÃ¡k, maga segÃ­teni tud rajtam.}
+{727}{}{AzÃ©rt kellenek az alkatrÃ©szek, hogy megjavÃ­thassam a bÃ¡nyÃ¡juk lÃ©gfrissÃ­t?jÃ©t. Zaius kÃ¼ldÃ¶tt. Azt is mondta mÃ©g, hogy Ã¶Ã¶Ã¶... Ã¶Ã¶Ã¶... a francba.}
+{728}{}{AzÃ©rt kellenek az alkatrÃ©szek, hogy megjavÃ­thassam a bÃ¡nyÃ¡juk lÃ©gfrissÃ­t?jÃ©t. Zaius kÃ¼ldÃ¶tt. Azt is mondta mÃ©g, hogy "Kipurcant a kanÃ¡ri.".}
+{735}{}{Igen, tÃ¶rtÃ©netesen van egy-kÃ©t alkatrÃ©szem, amivel megjavÃ­thatod a lÃ©gtisztÃ­tÃ³t. 100 dolcsi lesz.}
+{736}{}{ElvinnÃ©m. TessÃ©k, itt a pÃ©nz.}
+{737}{}{Mit szÃ³lna Ã¶tven dolcsihoz?}
+{738}{}{Ã–Ã¶, nincs nÃ¡lam az a szÃ¡zas... kÃ©s?bb visszajÃ¶vÃ¶k a pÃ©nzzel. }
+{745}{}{Id?kÃ¶zben inflÃ¡ciÃ³ lÃ©pett fel az alkudozÃ¡snak kÃ¶szÃ¶nhet? menedzseri bosszankodÃ¡s kÃ¶vetkeztÃ©ben. 200 vagy semmi.}
+{746}{}{(Ã–sszevonja a szemÃ¶ldÃ¶kÃ©t.) 200 vagy semmi.}
+{747}{}{KÃ©tszÃ¡z? Az el?bb mÃ©g SZÃZAT mondott?}
+{748}{}{Ã–Ã¶, elviszem. TessÃ©k, itt a pÃ©nze.}
+{749}{}{Ã–Ã¶, nincs nÃ¡lam kÃ©t darab szÃ¡zas... kÃ©s?bb visszajÃ¶vÃ¶k a pÃ©nzzel. }
+{755}{}{ER?SEN kÃ©tlem, hogy ezt mondta volna. Biztos, hogy azt mondta: Kipurcant a kanÃ¡ri?}
 {756}{}{Nos, igen.}
 {760}{}{Merthogy...?}
-{761}{}{"Miféle ÉS?"}
-{765}{}{És a folytatás...?}
-{766}{}{"Folytatás?" Nekem nem mondott semmiféle folytatást. Az a mocskos disz...}
-{769}{}{Csak teszteltelek. Nincs folytatás... Nos, ha Zaius küldött, KÖNNYEN MEGLEHET, hogy van nálam egy-két alkatrész. }
-{770}{}{Tessék... vigyázz le ne ejtsd!}
-{771}{}{Nagyszer?! Kérdezhetek még valamit?}
-{772}{}{Öö, kösz... }
-{780}{}{Ne próbáld ezt is rámkenni! Ha tudni akarod, ki tette, kérdezd Tweedledumb-ot és Tweedledumber-t, hogy még mindig árulják-e az arzénnal dúsított Jetet.}
-{781}{}{Ki az a Tweedledumb és Tweedledumber?}
-{782}{}{Jules mondta, hogy kérdezzem magát. ? állította, hogy maga fos anyagot árul.}
-{783}{}{Csipkés Jimmy J. mondta, hogy kérdezzem magát. ? állította, hogy maga fos anyagot árul.}
-{784}{}{Mindketten azt mondták, hogy kérdezzem magát. Azt állították, hogy maga fos anyagot árul.}
-{785}{}{Nem hiszem, hogy arzén volt benne... viszont, hogy mérgez? volt az tuti.}
-{786}{}{Tud valamit mondani err?l az üres Jet-ampulláról?}
-{788}{}{Akkor megyek és megkérdezem ?ket. }
-{795}{}{Az a dögkesely? Jules meg az a semmirekell? Csipkés Jimmy. Jules folyton a város bejáratánál lófrál és a tudatlan látogatókra vadászik. Csipkés Jimmy a 2. utcán butítja a maradék renói csordát.}
-{798}{}{?k mondták, hogy kérdezzem magát, merthogy maga árulja itt a fos anyagot... ami megöli az embereket.}
-{800}{}{Akkor megyek és beszélek mindkett?jükkel. }
-{805}{}{Figyelj rám, f?eml?s... te még azzal sem vagy tisztában, hogy mit hablatyolsz itt össze-vissza.}
-{806}{}{Ó, azt hiszem, én...}
-{807}{}{Igen? Ha így van, miért nem...}
-{808}{}{Felejtse el! Kérdeznék valami má...}
-{809}{}{Nézze, azt hiszem, jobb, ha me...}
-{815}{}{Ha még egyszer kinyitod a szád, legyen az egy kis suttogás vagy egy elejtett szó, és eljut Mr. Wright fülébe, hogy nekem... vagy neked... akármi közünk is van a gyerek túladagolásához, az életünk egy kalap brahminszart sem ér. Ha ez bekövetkezne...}
-{816}{}{Hohó! Szóval magának...}
-{817}{}{Hogy nekem? Várjon már egy pillanatot...}
-{825}{}{Ha ez bekövetkezne, te szaros ?sember, megesküszöm, hogy el?bb fogsz meghalni, mint én. Most pedig még egyszer utoljára... az a gyerek t?lem sosem vett semmiféle szart, érthet?? Itt még a nevét se mondd ki többet, mert isten engem úgy segéljen, én...}
-{826}{}{JULES azt mondja, ? nem adta el. JIMMY szintén azt mondja, hogy nem ? volt. Maga is ugyanezt állítja. Valamelyikük hazudik.}
-{827}{}{JULES azt mondja, ? nem adta el. JIMMY szintén azt mondja, hogy nem ? volt. Maga is ugyanezt állítja. Valamelyikük hazudik, vagy... valaki más a felel?s.}
+{761}{}{"MifÃ©le Ã‰S?"}
+{765}{}{Ã‰s a folytatÃ¡s...?}
+{766}{}{"FolytatÃ¡s?" Nekem nem mondott semmifÃ©le folytatÃ¡st. Az a mocskos disz...}
+{769}{}{Csak teszteltelek. Nincs folytatÃ¡s... Nos, ha Zaius kÃ¼ldÃ¶tt, KÃ–NNYEN MEGLEHET, hogy van nÃ¡lam egy-kÃ©t alkatrÃ©sz. }
+{770}{}{TessÃ©k... vigyÃ¡zz le ne ejtsd!}
+{771}{}{Nagyszer?! KÃ©rdezhetek mÃ©g valamit?}
+{772}{}{Ã–Ã¶, kÃ¶sz... }
+{780}{}{Ne prÃ³bÃ¡ld ezt is rÃ¡mkenni! Ha tudni akarod, ki tette, kÃ©rdezd Tweedledumb-ot Ã©s Tweedledumber-t, hogy mÃ©g mindig Ã¡ruljÃ¡k-e az arzÃ©nnal dÃºsÃ­tott Jetet.}
+{781}{}{Ki az a Tweedledumb Ã©s Tweedledumber?}
+{782}{}{Jules mondta, hogy kÃ©rdezzem magÃ¡t. ? Ã¡llÃ­totta, hogy maga fos anyagot Ã¡rul.}
+{783}{}{CsipkÃ©s Jimmy J. mondta, hogy kÃ©rdezzem magÃ¡t. ? Ã¡llÃ­totta, hogy maga fos anyagot Ã¡rul.}
+{784}{}{Mindketten azt mondtÃ¡k, hogy kÃ©rdezzem magÃ¡t. Azt Ã¡llÃ­tottÃ¡k, hogy maga fos anyagot Ã¡rul.}
+{785}{}{Nem hiszem, hogy arzÃ©n volt benne... viszont, hogy mÃ©rgez? volt az tuti.}
+{786}{}{Tud valamit mondani err?l az Ã¼res Jet-ampullÃ¡rÃ³l?}
+{788}{}{Akkor megyek Ã©s megkÃ©rdezem ?ket. }
+{795}{}{Az a dÃ¶gkesely? Jules meg az a semmirekell? CsipkÃ©s Jimmy. Jules folyton a vÃ¡ros bejÃ¡ratÃ¡nÃ¡l lÃ³frÃ¡l Ã©s a tudatlan lÃ¡togatÃ³kra vadÃ¡szik. CsipkÃ©s Jimmy a 2. utcÃ¡n butÃ­tja a maradÃ©k renÃ³i csordÃ¡t.}
+{798}{}{?k mondtÃ¡k, hogy kÃ©rdezzem magÃ¡t, merthogy maga Ã¡rulja itt a fos anyagot... ami megÃ¶li az embereket.}
+{800}{}{Akkor megyek Ã©s beszÃ©lek mindkett?jÃ¼kkel. }
+{805}{}{Figyelj rÃ¡m, f?eml?s... te mÃ©g azzal sem vagy tisztÃ¡ban, hogy mit hablatyolsz itt Ã¶ssze-vissza.}
+{806}{}{Ã“, azt hiszem, Ã©n...}
+{807}{}{Igen? Ha Ã­gy van, miÃ©rt nem...}
+{808}{}{Felejtse el! KÃ©rdeznÃ©k valami mÃ¡...}
+{809}{}{NÃ©zze, azt hiszem, jobb, ha me...}
+{815}{}{Ha mÃ©g egyszer kinyitod a szÃ¡d, legyen az egy kis suttogÃ¡s vagy egy elejtett szÃ³, Ã©s eljut Mr. Wright fÃ¼lÃ©be, hogy nekem... vagy neked... akÃ¡rmi kÃ¶zÃ¼nk is van a gyerek tÃºladagolÃ¡sÃ¡hoz, az Ã©letÃ¼nk egy kalap brahminszart sem Ã©r. Ha ez bekÃ¶vetkezne...}
+{816}{}{HohÃ³! SzÃ³val magÃ¡nak...}
+{817}{}{Hogy nekem? VÃ¡rjon mÃ¡r egy pillanatot...}
+{825}{}{Ha ez bekÃ¶vetkezne, te szaros ?sember, megeskÃ¼szÃ¶m, hogy el?bb fogsz meghalni, mint Ã©n. Most pedig mÃ©g egyszer utoljÃ¡ra... az a gyerek t?lem sosem vett semmifÃ©le szart, Ã©rthet?? Itt mÃ©g a nevÃ©t se mondd ki tÃ¶bbet, mert isten engem Ãºgy segÃ©ljen, Ã©n...}
+{826}{}{JULES azt mondja, ? nem adta el. JIMMY szintÃ©n azt mondja, hogy nem ? volt. Maga is ugyanezt Ã¡llÃ­tja. ValamelyikÃ¼k hazudik.}
+{827}{}{JULES azt mondja, ? nem adta el. JIMMY szintÃ©n azt mondja, hogy nem ? volt. Maga is ugyanezt Ã¡llÃ­tja. ValamelyikÃ¼k hazudik, vagy... valaki mÃ¡s a felel?s.}
 {828}{}{Can you tell me anything else about Richard Wright? Who did he hang around who might have used drugs?}
-{829}{}{Rendben... ellenben kérdeznék még egy s mást...}
-{830}{}{Oké, oké... már itt sem vagyok. }
-{835}{}{Ezt könny? megválaszolni. A két korcs közül valamelyik hazudik, hogy mentse az irháját. Kettejük közt oszlik meg a renói terítés 90 százaléka, ezért nyilván az egyikük lesz az, aki eladta a drogot a "fiúnak".}
-{836}{}{Vagy valaki, aki hármójuk valamelyikét?l vette az anyagot. Az elmúlt hónapban kik voltak a kuncsaftjai, akik kapcsolatba kerülhettek az... áldozattal?}
+{829}{}{Rendben... ellenben kÃ©rdeznÃ©k mÃ©g egy s mÃ¡st...}
+{830}{}{OkÃ©, okÃ©... mÃ¡r itt sem vagyok. }
+{835}{}{Ezt kÃ¶nny? megvÃ¡laszolni. A kÃ©t korcs kÃ¶zÃ¼l valamelyik hazudik, hogy mentse az irhÃ¡jÃ¡t. KettejÃ¼k kÃ¶zt oszlik meg a renÃ³i terÃ­tÃ©s 90 szÃ¡zalÃ©ka, ezÃ©rt nyilvÃ¡n az egyikÃ¼k lesz az, aki eladta a drogot a "fiÃºnak".}
+{836}{}{Vagy valaki, aki hÃ¡rmÃ³juk valamelyikÃ©t?l vette az anyagot. Az elmÃºlt hÃ³napban kik voltak a kuncsaftjai, akik kapcsolatba kerÃ¼lhettek az... Ã¡ldozattal?}
 {837}{}{Can you tell me anything else about Richard Wright? Did he hang around anyone else who might have used drugs?}
-{838}{}{Értem... akkor kérdeznék valami mást.}
+{838}{}{Ã‰rtem... akkor kÃ©rdeznÃ©k valami mÃ¡st.}
 {839}{}{Most dolgom van. }
-{845}{}{TE IDIÓTA FASZ! }
-{846}{}{TE IDIÓTA RIBANC! }
-{847}{}{Mondtam, hogy ne ejtsd ki a nevét ezen a helyen! T?nés innen! Ha még egyszer meglátlak, szarrá foglak l?ni! Ha Mr. Wright meggyanúsít, hogy én öltem meg a fiát, te fogsz els?nek megdögleni!}
-{848}{}{Ne fenyegessen, vén fószer...}
-{849}{}{Ejha! Na, akkor most léptem... }
-{855}{}{Fogalmam sincs. Nem ismerem a fiút, ezért nem ismerem a barátait vagy a szokásait sem. Ha van valaki, aki biztosat tudna mondani, már régen a Golgotán pihenget.}
+{845}{}{TE IDIÃ“TA FASZ! }
+{846}{}{TE IDIÃ“TA RIBANC! }
+{847}{}{Mondtam, hogy ne ejtsd ki a nevÃ©t ezen a helyen! T?nÃ©s innen! Ha mÃ©g egyszer meglÃ¡tlak, szarrÃ¡ foglak l?ni! Ha Mr. Wright meggyanÃºsÃ­t, hogy Ã©n Ã¶ltem meg a fiÃ¡t, te fogsz els?nek megdÃ¶gleni!}
+{848}{}{Ne fenyegessen, vÃ©n fÃ³szer...}
+{849}{}{Ejha! Na, akkor most lÃ©ptem... }
+{855}{}{Fogalmam sincs. Nem ismerem a fiÃºt, ezÃ©rt nem ismerem a barÃ¡tait vagy a szokÃ¡sait sem. Ha van valaki, aki biztosat tudna mondani, mÃ¡r rÃ©gen a GolgotÃ¡n pihenget.}
 {856}{}{Mi ez a Golgota?}
-{858}{}{Talán ezt kéne tennem. Viszlát! }
-{865}{}{Akkor hiábavaló volt a menet! Mr. Salvatore "jussát" két héttel ezel?tt kifizettem, ahogy azt el?re leszögeztük. Nem tudom, ki vagy, mit akarsz, de t?lem egy büdös kanyit nem kapsz, annyi biztos! Lehet lelépni...}
-{866}{}{Nézze, papi. Ne csinálja nekem itt a fesztivált! Böffentse fel a manit, mert ha nem, akkor egy percen belül vért fog felböffenteni.}
-{867}{}{Én Mr. Salvatore képvisel?je vagyok. Most szépen adja ide nekem az ?t megillet? részesedést, és akkor baj nélkül megússza...}
-{868}{}{Megyek és leellen?rzöm Mr. Salvatore fizetési naplóját, aztán visszajövök. }
-{875}{}{A füleden ülsz, fiam? }
-{876}{}{A füleden ülsz, lányom? }
-{877}{}{AZT MONDTAM, HOGY MÁR KIFIZETTEM. Két hete. Ha tényleg Salvatore embere vagy, tudnod kéne. Most pedig eridj innen!}
-{878}{}{Figyeljen ide. Utoljára mondom: adja át a pénzt!}
-{879}{}{Maga ül a fülén! Én Mr. Salvatore embere vagyok, maga pedig szépen kifizeti a részesedést ide a markomba!}
-{880}{}{Én szóltam, papus! Úgy látszik, maga mindig a nehezebb utat választja. Na, akkor hulljon a férgese!}
-{881}{}{Megyek, beugrom Mr. Salvatoréhoz, és rákérdezek nála a pénz ügyében. Aztán majd kitárgyaljuk. }
-{890}{}{Bizonyítsd be, hogy Salvatore embere vagy, akkor TALÁN elgondolkodom, hogy adjak-e neked pénzt! Egyéb esetben szart se kapsz.}
-{891}{}{Nincs szükség itt bizonygatásra. Én vagyok a képvisel?je, és ez éppen elég.}
-{892}{}{Maga szerint ez a lézerpisztoly dísznek van itt nálam?}
-{893}{}{Ha öt másodpercen belül nem adja ide a részesedést, MEGÖLÖM magát!}
-{900}{}{T?nj innen a vérvörös picsába, te kis pitiáner tolvaj! Ha még egyszer idetolod a képed, magam puffantalak le!}
-{901}{}{Én figyelmeztettem... itt az id?, hogy csendben elhalálozzon!}
-{910}{}{Hmmm. Nem számít, mert nem tudok fizetni. Az utolsó fizetés szinte teljesen lenullázott.}
-{911}{}{Ez nem az én problémám. Adja ide a pénzt most azonnal! Mr. Salvatore nem kiváncsi a kifogásaira.}
-{920}{}{A fenyeget?zés nálam nem jön be. Mr. Salvatore a pénzt akarja, nekem viszont nincs egy vasam sem. Haragudni fog rám, de rád is. Salvatore nem szereti azokat, akik cserbenhagyják... jobb lesz, ha sietve kitalálsz valamit.}
-{921}{}{Már kitaláltam. Erre az id?szakra kifizetem a pénzét, cserébe maga árengedményt ad a boltjában.}
-{924}{}{Jó, majd kitalálok valamit... kés?bb találkozunk.}
+{858}{}{TalÃ¡n ezt kÃ©ne tennem. ViszlÃ¡t! }
+{865}{}{Akkor hiÃ¡bavalÃ³ volt a menet! Mr. Salvatore "jussÃ¡t" kÃ©t hÃ©ttel ezel?tt kifizettem, ahogy azt el?re leszÃ¶geztÃ¼k. Nem tudom, ki vagy, mit akarsz, de t?lem egy bÃ¼dÃ¶s kanyit nem kapsz, annyi biztos! Lehet lelÃ©pni...}
+{866}{}{NÃ©zze, papi. Ne csinÃ¡lja nekem itt a fesztivÃ¡lt! BÃ¶ffentse fel a manit, mert ha nem, akkor egy percen belÃ¼l vÃ©rt fog felbÃ¶ffenteni.}
+{867}{}{Ã‰n Mr. Salvatore kÃ©pvisel?je vagyok. Most szÃ©pen adja ide nekem az ?t megillet? rÃ©szesedÃ©st, Ã©s akkor baj nÃ©lkÃ¼l megÃºssza...}
+{868}{}{Megyek Ã©s leellen?rzÃ¶m Mr. Salvatore fizetÃ©si naplÃ³jÃ¡t, aztÃ¡n visszajÃ¶vÃ¶k. }
+{875}{}{A fÃ¼leden Ã¼lsz, fiam? }
+{876}{}{A fÃ¼leden Ã¼lsz, lÃ¡nyom? }
+{877}{}{AZT MONDTAM, HOGY MÃR KIFIZETTEM. KÃ©t hete. Ha tÃ©nyleg Salvatore embere vagy, tudnod kÃ©ne. Most pedig eridj innen!}
+{878}{}{Figyeljen ide. UtoljÃ¡ra mondom: adja Ã¡t a pÃ©nzt!}
+{879}{}{Maga Ã¼l a fÃ¼lÃ©n! Ã‰n Mr. Salvatore embere vagyok, maga pedig szÃ©pen kifizeti a rÃ©szesedÃ©st ide a markomba!}
+{880}{}{Ã‰n szÃ³ltam, papus! Ãšgy lÃ¡tszik, maga mindig a nehezebb utat vÃ¡lasztja. Na, akkor hulljon a fÃ©rgese!}
+{881}{}{Megyek, beugrom Mr. SalvatorÃ©hoz, Ã©s rÃ¡kÃ©rdezek nÃ¡la a pÃ©nz Ã¼gyÃ©ben. AztÃ¡n majd kitÃ¡rgyaljuk. }
+{890}{}{BizonyÃ­tsd be, hogy Salvatore embere vagy, akkor TALÃN elgondolkodom, hogy adjak-e neked pÃ©nzt! EgyÃ©b esetben szart se kapsz.}
+{891}{}{Nincs szÃ¼ksÃ©g itt bizonygatÃ¡sra. Ã‰n vagyok a kÃ©pvisel?je, Ã©s ez Ã©ppen elÃ©g.}
+{892}{}{Maga szerint ez a lÃ©zerpisztoly dÃ­sznek van itt nÃ¡lam?}
+{893}{}{Ha Ã¶t mÃ¡sodpercen belÃ¼l nem adja ide a rÃ©szesedÃ©st, MEGÃ–LÃ–M magÃ¡t!}
+{900}{}{T?nj innen a vÃ©rvÃ¶rÃ¶s picsÃ¡ba, te kis pitiÃ¡ner tolvaj! Ha mÃ©g egyszer idetolod a kÃ©ped, magam puffantalak le!}
+{901}{}{Ã‰n figyelmeztettem... itt az id?, hogy csendben elhalÃ¡lozzon!}
+{910}{}{Hmmm. Nem szÃ¡mÃ­t, mert nem tudok fizetni. Az utolsÃ³ fizetÃ©s szinte teljesen lenullÃ¡zott.}
+{911}{}{Ez nem az Ã©n problÃ©mÃ¡m. Adja ide a pÃ©nzt most azonnal! Mr. Salvatore nem kivÃ¡ncsi a kifogÃ¡saira.}
+{920}{}{A fenyeget?zÃ©s nÃ¡lam nem jÃ¶n be. Mr. Salvatore a pÃ©nzt akarja, nekem viszont nincs egy vasam sem. Haragudni fog rÃ¡m, de rÃ¡d is. Salvatore nem szereti azokat, akik cserbenhagyjÃ¡k... jobb lesz, ha sietve kitalÃ¡lsz valamit.}
+{921}{}{MÃ¡r kitalÃ¡ltam. Erre az id?szakra kifizetem a pÃ©nzÃ©t, cserÃ©be maga Ã¡rengedmÃ©nyt ad a boltjÃ¡ban.}
+{924}{}{JÃ³, majd kitalÃ¡lok valamit... kÃ©s?bb talÃ¡lkozunk.}
 {930}{}{Now hold on, you Neanderthal...}
-{931}{}{Nem vitatkozom tovább magával. A türelmem lejárt. Hallotta a feltételeimet...}
-{940}{}{Én... nézd... szóval... én... hmmmm... rendben... Megkapod azt az... "árengedményt".}
-{941}{}{Hadd nézzek rá az árukészletére! Itt az id? egy kis "bevásárlásra".}
-{943}{}{Most nem akarok semmit, de ne aggódjon, még látjuk egymást. }
+{931}{}{Nem vitatkozom tovÃ¡bb magÃ¡val. A tÃ¼relmem lejÃ¡rt. Hallotta a feltÃ©teleimet...}
+{940}{}{Ã‰n... nÃ©zd... szÃ³val... Ã©n... hmmmm... rendben... Megkapod azt az... "Ã¡rengedmÃ©nyt".}
+{941}{}{Hadd nÃ©zzek rÃ¡ az Ã¡rukÃ©szletÃ©re! Itt az id? egy kis "bevÃ¡sÃ¡rlÃ¡sra".}
+{943}{}{Most nem akarok semmit, de ne aggÃ³djon, mÃ©g lÃ¡tjuk egymÃ¡st. }
 {950}{}{(Folds arms.) Adequate. If you are expecting some handout for being a Good Samaritan, you are GRAVELY
  mistaken. Now... what do you want?}
-{951}{}{A franc esne bele abba a Halálkaromba vagy kereskedelmi igazgatóba, ami a világra hozott! Nesze! FOGD! VIGYED! VIDD AZ EGÉSZET! VIGYÉL BÁRMIT, CSAK HAGYJ BÉKÉN!}
-{952}{}{Hadd nézzem az áruját!}
+{951}{}{A franc esne bele abba a HalÃ¡lkaromba vagy kereskedelmi igazgatÃ³ba, ami a vilÃ¡gra hozott! Nesze! FOGD! VIGYED! VIDD AZ EGÃ‰SZET! VIGYÃ‰L BÃRMIT, CSAK HAGYJ BÃ‰KÃ‰N!}
+{952}{}{Hadd nÃ©zzem az Ã¡rujÃ¡t!}
 {953}{}{I had some questions...}
-{955}{}{Mi a fészkes fene EZ...? }
-{960}{}{Milyen méregr?l hadoválsz itt össze-vissza?}
-{961}{}{A test állapotából arra lehetett következtetni, hogy radskorpió méreg járta át. Attól tartok, mérgezett Jett?l halt meg és nem túladagolástól.}
-{962}{}{Találtam egy üres Jet-ampullát a szobájában. Radskorpió méreg maradványai voltak benne.}
-{963}{}{Felejtsd el! Kérdeznék inkább valami mást.}
-{964}{}{Felejtse el! Most amúgy is mennem kell... }
-{970}{}{Radskorpió? (Renesco hirtelen ledermed, mintha felidézett volna valamit.)}
-{971}{}{Maga mocskos rohadék! Maga mérgezte meg a gyereket, ugye?!?}
-{972}{}{Tud valamit róla, ugye?}
-{980}{}{Na, várjunk csak egy picit!...}
-{981}{}{Ne kötözködjön velem, Renesco! Ha megpróbál kibújni a felel?sség alól, hamarosan találkozik Richard-dal! Megértette?}
-{982}{}{Na, jó. Megyek és beszélek Mr. Wrighttal. Legyen jó napja, Renesco... vagy mondhatnám azt is, "Viszlát!"}
-{990}{}{Egy pillanat! Az a helyzet... hogy én nem adtam el drogot a gyereknek! Soha nem vásárolt t?lem! Valaki... megkért, hogy keverjek radskorpió mérget a Jethez, de... de nem én adtam el a gyereknek!}
-{991}{}{Valaki megkérte? Mégis kicsoda?}
+{955}{}{Mi a fÃ©szkes fene EZ...? }
+{960}{}{Milyen mÃ©regr?l hadovÃ¡lsz itt Ã¶ssze-vissza?}
+{961}{}{A test Ã¡llapotÃ¡bÃ³l arra lehetett kÃ¶vetkeztetni, hogy radskorpiÃ³ mÃ©reg jÃ¡rta Ã¡t. AttÃ³l tartok, mÃ©rgezett Jett?l halt meg Ã©s nem tÃºladagolÃ¡stÃ³l.}
+{962}{}{TalÃ¡ltam egy Ã¼res Jet-ampullÃ¡t a szobÃ¡jÃ¡ban. RadskorpiÃ³ mÃ©reg maradvÃ¡nyai voltak benne.}
+{963}{}{Felejtsd el! KÃ©rdeznÃ©k inkÃ¡bb valami mÃ¡st.}
+{964}{}{Felejtse el! Most amÃºgy is mennem kell... }
+{970}{}{RadskorpiÃ³? (Renesco hirtelen ledermed, mintha felidÃ©zett volna valamit.)}
+{971}{}{Maga mocskos rohadÃ©k! Maga mÃ©rgezte meg a gyereket, ugye?!?}
+{972}{}{Tud valamit rÃ³la, ugye?}
+{980}{}{Na, vÃ¡rjunk csak egy picit!...}
+{981}{}{Ne kÃ¶tÃ¶zkÃ¶djÃ¶n velem, Renesco! Ha megprÃ³bÃ¡l kibÃºjni a felel?ssÃ©g alÃ³l, hamarosan talÃ¡lkozik Richard-dal! MegÃ©rtette?}
+{982}{}{Na, jÃ³. Megyek Ã©s beszÃ©lek Mr. Wrighttal. Legyen jÃ³ napja, Renesco... vagy mondhatnÃ¡m azt is, "ViszlÃ¡t!"}
+{990}{}{Egy pillanat! Az a helyzet... hogy Ã©n nem adtam el drogot a gyereknek! Soha nem vÃ¡sÃ¡rolt t?lem! Valaki... megkÃ©rt, hogy keverjek radskorpiÃ³ mÃ©rget a Jethez, de... de nem Ã©n adtam el a gyereknek!}
+{991}{}{Valaki megkÃ©rte? MÃ©gis kicsoda?}
 {992}{}{Kinek adta el?}
-{995}{}{A Salvatore család bízott meg. Azt mondták, ez egy speciális rendelés. Nem tudtam, hogy a Wright kölyöknek akarják odaadni. Higgy nekem... gyerekek mérgezése nem az én asztalom.}
-{996}{}{Csak a feln?tteké, Renesco? Te szerencsétlen faszkalap...}
-{997}{}{Miért rakott mérget a Jetbe? Sejthette, hogy valakit meg akarnak ölni vele.}
-{998}{}{Rendben, rendben, hiszek magának. Viszont kérdeznék még valamit...}
-{999}{}{Fogja be! Válaszoljon inkább a kérdéseimre...}
-{1000}{}{Szóval a Salvatore család bízta meg? Szerintem Mr. Wright szívesen tudomást szerezne err?l. }
-{1005}{}{Én a Salvatore család tulajdona vagyok, ez a bolt az övék, és ha akarnak valamit, meg kell csinálnom, különben megölnek és ideraknak valaki mást. Soha nem akartam, hogy baja legyen annak a fiúnak.}
-{1007}{}{Na, fogja be szépen! Válaszoljon inkább a kérdéseimre...}
-{1008}{}{Persze, biztos vagyok benne, hogy a legjobb szándék vezette, amikor mérget rakott a Jetbe. Na, ég áldja, Renesco.}
-{1009}{}{Viszlát, Renesco. }
-{1020}{}{Annál többet, hogy üres, nem. Úgy néz ki, mint a több száz egyéb ampulla, amit New Renóban találni lehet. Segíthetek esetleg valami másban?}
-{1021}{}{A magáé?}
-{1022}{}{Tud valamit a radskorpió méregr?l, ami ezen az ampullán található?}
-{1023}{}{Igen, kérdeznék még valamit...}
-{1030}{}{Nem. Segíthetek még valamiben?}
-{1033}{}{Nem. Viszlát! }
-{1040}{}{A Golgota egy tömegsír délfelé. Csak kövesd a b?zt... ha egyáltalán érzed a sajátodtól...}
-{1041}{}{Kérdeznék valami mást.}
-{1042}{}{Renesco, ha nem hagyja abba ezt a mézesmázos dumát, sokáig fog szenvedni! }
-{1043}{}{KÖSZÖNÖM, Renesco. }
-{1526}{}{Ráadásul a törzsf? kis dolgokon is felhúzza magát, mint... hehe... például amikor megszegtem a sz?zességi fogadalmamat és Az Ezer Cs?dörként Mennydörg? Khorral kiosontunk az Arroyót körülölel? kanyonba...}
-{1536}{}{Mintha csak tegnap lett volna. Kor bronz teste ott vonaglott a holdfényben, amikor letérdeltem és... hé, mondok én magának valamit! Szerintem jól kijönnének a törzsf?nkkel. Nagyjából egyid?sek.}
-{2000}{}{Fényt derítettél arra, hogy Renescónak van némi köze Richard Wright halálához.}
-{5257}{}{ nagyon nagyon. Én most megy }
-{5259}{}{ nem kiabál MÉRT KIABÁL? HAGYNI ABBA KIABÁLÁS }
-{5260}{}{... *szipogsz* ...megy nagy tesóér' lenyomni tégedet öreg! Aztán jégkrémezünk... *szipogsz* ...meg TORTA jön meg nagy buli meg mókamesterek és...}
+{995}{}{A Salvatore csalÃ¡d bÃ­zott meg. Azt mondtÃ¡k, ez egy speciÃ¡lis rendelÃ©s. Nem tudtam, hogy a Wright kÃ¶lyÃ¶knek akarjÃ¡k odaadni. Higgy nekem... gyerekek mÃ©rgezÃ©se nem az Ã©n asztalom.}
+{996}{}{Csak a feln?ttekÃ©, Renesco? Te szerencsÃ©tlen faszkalap...}
+{997}{}{MiÃ©rt rakott mÃ©rget a Jetbe? Sejthette, hogy valakit meg akarnak Ã¶lni vele.}
+{998}{}{Rendben, rendben, hiszek magÃ¡nak. Viszont kÃ©rdeznÃ©k mÃ©g valamit...}
+{999}{}{Fogja be! VÃ¡laszoljon inkÃ¡bb a kÃ©rdÃ©seimre...}
+{1000}{}{SzÃ³val a Salvatore csalÃ¡d bÃ­zta meg? Szerintem Mr. Wright szÃ­vesen tudomÃ¡st szerezne err?l. }
+{1005}{}{Ã‰n a Salvatore csalÃ¡d tulajdona vagyok, ez a bolt az Ã¶vÃ©k, Ã©s ha akarnak valamit, meg kell csinÃ¡lnom, kÃ¼lÃ¶nben megÃ¶lnek Ã©s ideraknak valaki mÃ¡st. Soha nem akartam, hogy baja legyen annak a fiÃºnak.}
+{1007}{}{Na, fogja be szÃ©pen! VÃ¡laszoljon inkÃ¡bb a kÃ©rdÃ©seimre...}
+{1008}{}{Persze, biztos vagyok benne, hogy a legjobb szÃ¡ndÃ©k vezette, amikor mÃ©rget rakott a Jetbe. Na, Ã©g Ã¡ldja, Renesco.}
+{1009}{}{ViszlÃ¡t, Renesco. }
+{1020}{}{AnnÃ¡l tÃ¶bbet, hogy Ã¼res, nem. Ãšgy nÃ©z ki, mint a tÃ¶bb szÃ¡z egyÃ©b ampulla, amit New RenÃ³ban talÃ¡lni lehet. SegÃ­thetek esetleg valami mÃ¡sban?}
+{1021}{}{A magÃ¡Ã©?}
+{1022}{}{Tud valamit a radskorpiÃ³ mÃ©regr?l, ami ezen az ampullÃ¡n talÃ¡lhatÃ³?}
+{1023}{}{Igen, kÃ©rdeznÃ©k mÃ©g valamit...}
+{1030}{}{Nem. SegÃ­thetek mÃ©g valamiben?}
+{1033}{}{Nem. ViszlÃ¡t! }
+{1040}{}{A Golgota egy tÃ¶megsÃ­r dÃ©lfelÃ©. Csak kÃ¶vesd a b?zt... ha egyÃ¡ltalÃ¡n Ã©rzed a sajÃ¡todtÃ³l...}
+{1041}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{1042}{}{Renesco, ha nem hagyja abba ezt a mÃ©zesmÃ¡zos dumÃ¡t, sokÃ¡ig fog szenvedni! }
+{1043}{}{KÃ–SZÃ–NÃ–M, Renesco. }
+{1526}{}{RÃ¡adÃ¡sul a tÃ¶rzsf? kis dolgokon is felhÃºzza magÃ¡t, mint... hehe... pÃ©ldÃ¡ul amikor megszegtem a sz?zessÃ©gi fogadalmamat Ã©s Az Ezer Cs?dÃ¶rkÃ©nt MennydÃ¶rg? Khorral kiosontunk az ArroyÃ³t kÃ¶rÃ¼lÃ¶lel? kanyonba...}
+{1536}{}{Mintha csak tegnap lett volna. Kor bronz teste ott vonaglott a holdfÃ©nyben, amikor letÃ©rdeltem Ã©s... hÃ©, mondok Ã©n magÃ¡nak valamit! Szerintem jÃ³l kijÃ¶nnÃ©nek a tÃ¶rzsf?nkkel. NagyjÃ¡bÃ³l egyid?sek.}
+{2000}{}{FÃ©nyt derÃ­tettÃ©l arra, hogy RenescÃ³nak van nÃ©mi kÃ¶ze Richard Wright halÃ¡lÃ¡hoz.}
+{5257}{}{ nagyon nagyon. Ã‰n most megy }
+{5259}{}{ nem kiabÃ¡l MÃ‰RT KIABÃL? HAGYNI ABBA KIABÃLÃS }
+{5260}{}{... *szipogsz* ...megy nagy tesÃ³Ã©r' lenyomni tÃ©gedet Ã¶reg! AztÃ¡n jÃ©gkrÃ©mezÃ¼nk... *szipogsz* ...meg TORTA jÃ¶n meg nagy buli meg mÃ³kamesterek Ã©s...}
 {6000}{}{I was looking for some pointers on heart health. Think you could fill me in on a thing or two?}
 {6010}{}{I know this must come as something of a shock to you, but a white smock does not automatically confer a cardiology degree. I am a pharmacist. I produce chems. Then you buy them. Then, you leave. Quietly.}
 {6011}{}{Fair enough. Moving on, then...}
@@ -376,7 +376,7 @@
 {6096}{}{Whoa, easy there fuzzy little man peach. Maybe I'll just come back when you're in a better mood.}
 {6100}{}{Well. I guess that concludes our business, then. I must say, tribal, this has been... almost *tolerable*. Now, sit on your hands and try not to ruin the moment. (Renesco takes your money and goes to work.)}
 {6101}{}{(Minutes pass. Renesco dusts off his hands and rolls a pill bottle indistinguishable from Westin's across the counter at you.) There you are. Now, are we done here?}
-{6102}{}{Feltennék még kérdéseket.}
+{6102}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
 {6103}{}{That's it for me. See you around.}
 {6110}{}{(Renesco flushes, nostrils flaring in anger, but then looks down and begins cleaning his glasses very intently on his smock as he speaks.) Primate, the ONLY two things I will EVER be indebted to you for are JACK and SHIT.}
 {6111}{}{Now, that being the case... if it will disabuse you of this intolerable provincial delusion that you've somehow got something over me, the very THOUGHT of which makes me ill in ways I lack the words to describe... }
@@ -387,4 +387,4 @@
 {6130}{}{All the parts that weren't belches or grunts, anyway. Now wait here. (Renesco takes your money and goes to work). And for the love of God, *try* not to get any of my merchandise stuck in your simian face-holes while my back is turned.}
 {6141}{}{Oh, *this* again. My fee is $200, in the highly likely event that it slipped your mind.}
 {6142}{}{Once more, in case you were distracted by something shiny the first time around: $300. And don't push your luck.}
-{6259}{}{ ÖL MEG TÉGED}
+{6259}{}{ Ã–L MEG TÃ‰GED}

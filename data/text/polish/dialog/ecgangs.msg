@@ -1,9 +1,9 @@
-{100}{}{Spadaj z naszego podwórka!}
+{100}{}{Spadaj z naszego podwÃ³rka!}
 {101}{}{To nie jest okolica dla takich jak ty, lalusiu.}
-{102}{}{Bêdzie bola³o.}
+{102}{}{BÄ™dzie bolaÅ‚o.}
 {103}{}{Co robisz w mojej dzielnicy?}
-{104}{}{Chcesz zobaczyæ swoj¹ w¹trobê?}
-{105}{}{Zje¿d¿aj!}
-{106}{}{Po¿a³ujesz tego!}
+{104}{}{Chcesz zobaczyÄ‡ swojÄ… wÄ…trobÄ™?}
+{105}{}{ZjeÅ¼dÅ¼aj!}
+{106}{}{PoÅ¼aÅ‚ujesz tego!}
 {107}{}{Twardziel, co?!}
-{108}{}{Nastêpnym razem.}
+{108}{}{NastÄ™pnym razem.}

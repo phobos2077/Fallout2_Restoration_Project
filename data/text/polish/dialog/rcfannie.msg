@@ -1,96 +1,96 @@
-{100}{}{Widzisz kobietê, która wygl¹da na *zu¿yt¹*.}
-{101}{}{Widzisz Fannie Mae, jedn¹ z wielu "hostess" saloonu Malamute.}
-{102}{}{Widzisz kobietê, która ma chyba na liczniku wiêcej facetów ni¿ dni.}
-{103}{}{(Fannie wygl¹da bardzo niezdrowo i w³aœnie podchodzi do ciebie) Witaj, kochasiu... Pogoda ostatnio trochê mi dokucza. Dasz mi trochê kasy, bym siê podreperowa³a? Jeœli chcesz, to ci *odp³acê* (uœmiecha siê).}
-{104}{}{(Fannie wygl¹da bardzo niezdrowo i w³asnie podchodzi do ciebie) Witaj, siostro. Dasz mi trochê kasy, z³otko? Ostatnio szczêœcie mi nie dopisuje. Potrzebujê jej, by siê pozbieraæ.}
-{105}{}{(Fannie nie wygl¹da za dobrze) Witaj, kolego. To jak? Zabawisz siê z Fannie? Jak dla ciebie to nawet za pó³ ceny, kochasiu. Gdzie ja zostawi³am Jet?}
-{106}{}{(Fannie nie wygl¹da za dobrze) Witaj, ma³a, masz coœ kasy? Albo masz mo¿e trochê Jetu?}
-{107}{}{Fannie, wygl¹dasz jak gówno. Mo¿e dasz sobie spokój z Jetem na jakiœ czas?}
-{108}{}{Mam doœæ dawania ci pieniêdzy, przecie¿ to i tak nic ci nie daje.}
-{109}{}{Mam tego doœæ.}
-{110}{}{Mo¿e po prostu siê przeœpij?}
-{111}{}{Jest to jedyna rzecz, dziêki której odlatujê./~Come fly with me~./ Daj mi coœ wyj¹tkowego, no daj.}
-{112}{}{Ta, masz ca³¹ masê dobrych pomys³ów, nie? Nie potrzebujê ciê! Masa ludzi wci¹¿ chce mi p³aciæ za moje us³ugi. Jeœli nie dasz mi kasy na Jet, to spadaj!}
-{113}{}{Mam coœ, dziêki czemu przestaniesz byæ uzale¿niona od Jetu.}
-{114}{}{ZnajdŸ sobie lepiej jakiegoœ frajera, Fannie. Do widzenia.}
-{115}{}{Zabijesz siê, jeœli nadal tak bêdziesz ¿yæ. Nie chcê tego ogl¹daæ. Do widzenia.}
-{116}{}{Ale¿ z ciebie pajac.}
-{117}{}{Fannie nie k³apie z kretynami.}
-{118}{}{Wróæ z pieniêdzmi, a mo¿e Fannie ciê czegoœ nauczy.}
-{119}{}{Twój umys³ nie jest zbyt bystry, nie?}
-{120}{}{Masz mozg wielkoœci orzeszka, nie?}
-{121}{}{Przestanê? Odwali³o ci? Wygl¹dam na tak¹, która chce siê wyleczyæ? Chcesz, bym poczu³a siê lepiej, z³otko? Daj mi trochê Jetu!}
-{122}{}{No, trochê nie powinno ci zaszkodziæ. Okej, masz...}
-{123}{}{Wziê³aœ ju¿ wystarczaj¹c¹ iloœæ Jetu. Ostatni¹ rzecz¹, jak¹ chcê ogl¹daæ jest kolejny æpun. Do widzenia.}
+{100}{}{Widzisz kobietÄ™, ktÃ³ra wyglÄ…da na *zuÅ¼ytÄ…*.}
+{101}{}{Widzisz Fannie Mae, jednÄ… z wielu "hostess" saloonu Malamute.}
+{102}{}{Widzisz kobietÄ™, ktÃ³ra ma chyba na liczniku wiÄ™cej facetÃ³w niÅ¼ dni.}
+{103}{}{(Fannie wyglÄ…da bardzo niezdrowo i wÅ‚aÅ›nie podchodzi do ciebie) Witaj, kochasiu... Pogoda ostatnio trochÄ™ mi dokucza. Dasz mi trochÄ™ kasy, bym siÄ™ podreperowaÅ‚a? JeÅ›li chcesz, to ci *odpÅ‚acÄ™* (uÅ›miecha siÄ™).}
+{104}{}{(Fannie wyglÄ…da bardzo niezdrowo i wÅ‚asnie podchodzi do ciebie) Witaj, siostro. Dasz mi trochÄ™ kasy, zÅ‚otko? Ostatnio szczÄ™Å›cie mi nie dopisuje. PotrzebujÄ™ jej, by siÄ™ pozbieraÄ‡.}
+{105}{}{(Fannie nie wyglÄ…da za dobrze) Witaj, kolego. To jak? Zabawisz siÄ™ z Fannie? Jak dla ciebie to nawet za pÃ³Å‚ ceny, kochasiu. Gdzie ja zostawiÅ‚am Jet?}
+{106}{}{(Fannie nie wyglÄ…da za dobrze) Witaj, maÅ‚a, masz coÅ› kasy? Albo masz moÅ¼e trochÄ™ Jetu?}
+{107}{}{Fannie, wyglÄ…dasz jak gÃ³wno. MoÅ¼e dasz sobie spokÃ³j z Jetem na jakiÅ› czas?}
+{108}{}{Mam doÅ›Ä‡ dawania ci pieniÄ™dzy, przecieÅ¼ to i tak nic ci nie daje.}
+{109}{}{Mam tego doÅ›Ä‡.}
+{110}{}{MoÅ¼e po prostu siÄ™ przeÅ›pij?}
+{111}{}{Jest to jedyna rzecz, dziÄ™ki ktÃ³rej odlatujÄ™./~Come fly with me~./ Daj mi coÅ› wyjÄ…tkowego, no daj.}
+{112}{}{Ta, masz caÅ‚Ä… masÄ™ dobrych pomysÅ‚Ã³w, nie? Nie potrzebujÄ™ ciÄ™! Masa ludzi wciÄ…Å¼ chce mi pÅ‚aciÄ‡ za moje usÅ‚ugi. JeÅ›li nie dasz mi kasy na Jet, to spadaj!}
+{113}{}{Mam coÅ›, dziÄ™ki czemu przestaniesz byÄ‡ uzaleÅ¼niona od Jetu.}
+{114}{}{ZnajdÅº sobie lepiej jakiegoÅ› frajera, Fannie. Do widzenia.}
+{115}{}{Zabijesz siÄ™, jeÅ›li nadal tak bÄ™dziesz Å¼yÄ‡. Nie chcÄ™ tego oglÄ…daÄ‡. Do widzenia.}
+{116}{}{AleÅ¼ z ciebie pajac.}
+{117}{}{Fannie nie kÅ‚apie z kretynami.}
+{118}{}{WrÃ³Ä‡ z pieniÄ™dzmi, a moÅ¼e Fannie ciÄ™ czegoÅ› nauczy.}
+{119}{}{TwÃ³j umysÅ‚ nie jest zbyt bystry, nie?}
+{120}{}{Masz mozg wielkoÅ›ci orzeszka, nie?}
+{121}{}{PrzestanÄ™? OdwaliÅ‚o ci? WyglÄ…dam na takÄ…, ktÃ³ra chce siÄ™ wyleczyÄ‡? Chcesz, bym poczuÅ‚a siÄ™ lepiej, zÅ‚otko? Daj mi trochÄ™ Jetu!}
+{122}{}{No, trochÄ™ nie powinno ci zaszkodziÄ‡. Okej, masz...}
+{123}{}{WziÄ™Å‚aÅ› juÅ¼ wystarczajÄ…cÄ… iloÅ›Ä‡ Jetu. OstatniÄ… rzeczÄ…, jakÄ… chcÄ™ oglÄ…daÄ‡ jest kolejny Ä‡pun. Do widzenia.}
 {124}{}{Niestety nie mam jetu... Do widzenia.}
-{125}{}{Tak, tego mi brakowa³o. O rany... Ale odlot! Mmmmm...}
-{126}{}{Aaaa... Okej... Mi³ej zabawy... Do widzenia.}
-{127}{}{Wygl¹da na to, ¿e nieŸle odlecia³aœ. Do zobaczenia.}
-{128}{}{Witaj, marynarzu. Czêsto tu przyp³ywasz? Przyjecha³eœ odwiedziæ Fannie Mae?}
+{125}{}{Tak, tego mi brakowaÅ‚o. O rany... Ale odlot! Mmmmm...}
+{126}{}{Aaaa... Okej... MiÅ‚ej zabawy... Do widzenia.}
+{127}{}{WyglÄ…da na to, Å¼e nieÅºle odleciaÅ‚aÅ›. Do zobaczenia.}
+{128}{}{Witaj, marynarzu. CzÄ™sto tu przypÅ‚ywasz? PrzyjechaÅ‚eÅ› odwiedziÄ‡ Fannie Mae?}
 {129}{}{Witaj, siostro. Szukasz pracy?}
-{130}{}{Tak... Przyjecha³em do ciebie.}
+{130}{}{Tak... PrzyjechaÅ‚em do ciebie.}
 {131}{}{Pracy? Jakiej pracy?}
-{132}{}{Tak tylko siê rozgl¹dam... Do widzenia.}
-{133}{}{Jakiœ ty s³odziutki. Jesteœ taki nieœmia³y i w ogóle. Taka wizyta bêdzie ciê kosztowaæ 60$, z³otko.}
-{134}{}{Mo¿e tym razem podzia³asz trochê d³u¿ej, kochanie. Dziêki temu te 60$ bêdzie bardziej wartoœciowe dla ciebie.}
-{135}{}{Delikatnie i powoli, ma³y. Poka¿ê ci, jak siê dobrze zabawiæ za 60$.}
-{136}{}{60$, powiadasz? Niez³a cena. Masz tu pieni¹dze.}
-{137}{}{Dziêkujê za ofertê, ale mo¿e innym razem. Do widzenia.}
-{138}{}{60$? Dziêkujê za tak¹ wizytê... Do widzenia.}
-{139}{}{By³eœ dla mnie taki mi³y. Zdawa³o mi siê, ¿e naprawdê coœ do mnie czujesz, gdy to robiliœmy. Chcia³abym, aby zawsze tak by³o.}
-{140}{}{Gdy jesteœ ze mn¹, to rzeczywiœcie coœ do ciebie czujê.}
-{141}{}{Naprawdê potrafisz nieŸle gadaæ.}
-{142}{}{Ju¿ nie chcê tego robiæ. Ja i mój ch³opak uciekniemy st¹d i bêdziemy ¿yæ normalnie. Najpierw jednak muszê sp³aciæ swój d³ug u Lou.}
-{143}{}{D³ug u Lou?}
-{144}{}{Hej, przecie¿ ju¿ dosta³aœ pieni¹dze ode mnie. O czym ty gadasz?}
-{145}{}{No d³ug... Wiszê Lou trochê kasy i nie mogê odejœæ, dopóki go nie sp³acê. Ale jak tylko go sp³acê, [poci¹ga nosem] odjadê st¹d z moim piêknisiem jak najdalej bêdê mog³a. Gdybym tylko mog³a dorobiæ trochê wiêcej pieniêdzy.}
-{146}{}{Ile wiêcej?}
-{147}{}{Czy twój ch³opak nie mo¿e ci pomóc?}
-{148}{}{To smutna historia, ale powinnaœ ju¿ wkrótce mieæ potrzebn¹ ci kasê, jeœli tylko bêdziesz grzecznie le¿eæ na materacykach. Do widzenia.}
-{149}{}{Brakuje mi ju¿ tylko 200$. Potem zabieram siê st¹d z moim ch³opakiem. Nigdy wiêcej dziwnych, niechlujnych ludzi obmacuj¹cych mnie dniami i nocami. Bez obrazy...}
-{150}{}{Nie gniewam siê. Przecie¿ ciê nie obmacywa³em, nie? W ka¿dym razie, mogê za ciebie zap³aciæ. Masz te 200$.}
-{151}{}{To smutne... Idê siê czymœz zaj¹æ. Do widzenia.}
-{152}{}{Dziêki ci, dziêki! Nie myœla³am, ¿e ktoœ taki jak ty ¿yje poza moimi snami. Jesteœ super! Jeszcze raz dziêki! Chcesz numerek za darmo?}
-{153}{}{Jasne, Fannie. Myœlê, ¿e skorzystam z tej oferty.}
-{154}{}{To nie jest konieczne, Fannie. Po prostu wydostañ siê z tego ¿ycia za te pieni¹dze. Do widzenia.}
-{155}{}{Chcia³by, ale ledwie wi¹¿e koniec z koñcem za pensjê górnika. Wci¹¿ mamy nadziejê, ¿e coœ nam siê uda, ale jeszcze nic takiego siê nie zdarzylo. Ponadto w ostatnim tygodniu belka z³ama³a mu nogê, wiêc nie mo¿e pracowaæ. Teraz ja muszê dawaæ mu pieni¹dze na ¿ycie, dopóki nie wyzdrowieje.}
-{156}{}{Wygl¹da na to, ¿e mieliœcie niez³ego pecha. To ile potrzebujesz?}
-{157}{}{Jeszcze raz dziêki. Nie mogê siê doczekaæ, a¿ powiem mojemu ch³opakowi. Wyje¿d¿amy jak tylko zagoi siê jego noga.}
-{158}{}{NieŸle mi podziêkowa³aœ, Fannie. Lepiej ju¿ sobie pójdê poki jeszcze mogê chodziæ. Nie ma za co... Do widzenia.}
-{159}{}{Gdybyœ odesz³a, to by³aby wielka strata dla zawodu, Fannie. Do widzenia.}
-{160}{}{Czeœæ. Chcesz spêdziæ trochê czasu z Fannie?}
-{161}{}{Czy nie dosta³aœ ode mnie pieniêdzy, by z tym skoñczyæ?}
-{162}{}{Jasne, brzmi nieŸle. Dobrze, ¿e jeszcze tu jesteœ.}
-{163}{}{No... Tak... ale wygl¹da na to, ¿e zalegam Lou trochê wiêcej.}
-{164}{}{Ile wiêcej?}
-{165}{}{Mam tego doœæ. Do widzenia.}
-{166}{}{Tak, wiem. I jestem ci wdziêczna... ale wygl¹da na to, ¿e wisia³am Lou wiêcej ni¿ myœla³am. Potrzebujê wiêcej pieniêdzy.}
-{167}{}{Nie do wiary! Ile ty jeszcze potrzebujesz tych pieniêdzy, by siê st¹d wydostaæ?!?}
-{168}{}{Mój limit ju¿ siê wyczerpa³. Do widzenia.}
-{169}{}{W porz¹dku, ma³y. Ju¿ wystarczaj¹co pomog³eœ. [poci¹ga nosem] Potrzebujê jeszcze tylko 150$.}
-{170}{}{No dobrze, skoro tylko tyle potrzebujesz. Ale wiêcej ci nie dam! Na serio!}
-{171}{}{Ale¿ tak, oczywiœcie. Spadam.}
-{172}{}{Hej, wróci³eœ. Chcesz siê zabawiæ, czy tylko daæ mi wiêcej kasy dla Lou?}
-{173}{}{Tym razem chcê siê zabawiæ, Fannie. Zobaczymy, co z tego wyjdzie.}
+{132}{}{Tak tylko siÄ™ rozglÄ…dam... Do widzenia.}
+{133}{}{JakiÅ› ty sÅ‚odziutki. JesteÅ› taki nieÅ›miaÅ‚y i w ogÃ³le. Taka wizyta bÄ™dzie ciÄ™ kosztowaÄ‡ 60$, zÅ‚otko.}
+{134}{}{MoÅ¼e tym razem podziaÅ‚asz trochÄ™ dÅ‚uÅ¼ej, kochanie. DziÄ™ki temu te 60$ bÄ™dzie bardziej wartoÅ›ciowe dla ciebie.}
+{135}{}{Delikatnie i powoli, maÅ‚y. PokaÅ¼Ä™ ci, jak siÄ™ dobrze zabawiÄ‡ za 60$.}
+{136}{}{60$, powiadasz? NiezÅ‚a cena. Masz tu pieniÄ…dze.}
+{137}{}{DziÄ™kujÄ™ za ofertÄ™, ale moÅ¼e innym razem. Do widzenia.}
+{138}{}{60$? DziÄ™kujÄ™ za takÄ… wizytÄ™... Do widzenia.}
+{139}{}{ByÅ‚eÅ› dla mnie taki miÅ‚y. ZdawaÅ‚o mi siÄ™, Å¼e naprawdÄ™ coÅ› do mnie czujesz, gdy to robiliÅ›my. ChciaÅ‚abym, aby zawsze tak byÅ‚o.}
+{140}{}{Gdy jesteÅ› ze mnÄ…, to rzeczywiÅ›cie coÅ› do ciebie czujÄ™.}
+{141}{}{NaprawdÄ™ potrafisz nieÅºle gadaÄ‡.}
+{142}{}{JuÅ¼ nie chcÄ™ tego robiÄ‡. Ja i mÃ³j chÅ‚opak uciekniemy stÄ…d i bÄ™dziemy Å¼yÄ‡ normalnie. Najpierw jednak muszÄ™ spÅ‚aciÄ‡ swÃ³j dÅ‚ug u Lou.}
+{143}{}{DÅ‚ug u Lou?}
+{144}{}{Hej, przecieÅ¼ juÅ¼ dostaÅ‚aÅ› pieniÄ…dze ode mnie. O czym ty gadasz?}
+{145}{}{No dÅ‚ug... WiszÄ™ Lou trochÄ™ kasy i nie mogÄ™ odejÅ›Ä‡, dopÃ³ki go nie spÅ‚acÄ™. Ale jak tylko go spÅ‚acÄ™, [pociÄ…ga nosem] odjadÄ™ stÄ…d z moim piÄ™knisiem jak najdalej bÄ™dÄ™ mogÅ‚a. Gdybym tylko mogÅ‚a dorobiÄ‡ trochÄ™ wiÄ™cej pieniÄ™dzy.}
+{146}{}{Ile wiÄ™cej?}
+{147}{}{Czy twÃ³j chÅ‚opak nie moÅ¼e ci pomÃ³c?}
+{148}{}{To smutna historia, ale powinnaÅ› juÅ¼ wkrÃ³tce mieÄ‡ potrzebnÄ… ci kasÄ™, jeÅ›li tylko bÄ™dziesz grzecznie leÅ¼eÄ‡ na materacykach. Do widzenia.}
+{149}{}{Brakuje mi juÅ¼ tylko 200$. Potem zabieram siÄ™ stÄ…d z moim chÅ‚opakiem. Nigdy wiÄ™cej dziwnych, niechlujnych ludzi obmacujÄ…cych mnie dniami i nocami. Bez obrazy...}
+{150}{}{Nie gniewam siÄ™. PrzecieÅ¼ ciÄ™ nie obmacywaÅ‚em, nie? W kaÅ¼dym razie, mogÄ™ za ciebie zapÅ‚aciÄ‡. Masz te 200$.}
+{151}{}{To smutne... IdÄ™ siÄ™ czymÅ›z zajÄ…Ä‡. Do widzenia.}
+{152}{}{DziÄ™ki ci, dziÄ™ki! Nie myÅ›laÅ‚am, Å¼e ktoÅ› taki jak ty Å¼yje poza moimi snami. JesteÅ› super! Jeszcze raz dziÄ™ki! Chcesz numerek za darmo?}
+{153}{}{Jasne, Fannie. MyÅ›lÄ™, Å¼e skorzystam z tej oferty.}
+{154}{}{To nie jest konieczne, Fannie. Po prostu wydostaÅ„ siÄ™ z tego Å¼ycia za te pieniÄ…dze. Do widzenia.}
+{155}{}{ChciaÅ‚by, ale ledwie wiÄ…Å¼e koniec z koÅ„cem za pensjÄ™ gÃ³rnika. WciÄ…Å¼ mamy nadziejÄ™, Å¼e coÅ› nam siÄ™ uda, ale jeszcze nic takiego siÄ™ nie zdarzylo. Ponadto w ostatnim tygodniu belka zÅ‚amaÅ‚a mu nogÄ™, wiÄ™c nie moÅ¼e pracowaÄ‡. Teraz ja muszÄ™ dawaÄ‡ mu pieniÄ…dze na Å¼ycie, dopÃ³ki nie wyzdrowieje.}
+{156}{}{WyglÄ…da na to, Å¼e mieliÅ›cie niezÅ‚ego pecha. To ile potrzebujesz?}
+{157}{}{Jeszcze raz dziÄ™ki. Nie mogÄ™ siÄ™ doczekaÄ‡, aÅ¼ powiem mojemu chÅ‚opakowi. WyjeÅ¼dÅ¼amy jak tylko zagoi siÄ™ jego noga.}
+{158}{}{NieÅºle mi podziÄ™kowaÅ‚aÅ›, Fannie. Lepiej juÅ¼ sobie pÃ³jdÄ™ poki jeszcze mogÄ™ chodziÄ‡. Nie ma za co... Do widzenia.}
+{159}{}{GdybyÅ› odeszÅ‚a, to byÅ‚aby wielka strata dla zawodu, Fannie. Do widzenia.}
+{160}{}{CzeÅ›Ä‡. Chcesz spÄ™dziÄ‡ trochÄ™ czasu z Fannie?}
+{161}{}{Czy nie dostaÅ‚aÅ› ode mnie pieniÄ™dzy, by z tym skoÅ„czyÄ‡?}
+{162}{}{Jasne, brzmi nieÅºle. Dobrze, Å¼e jeszcze tu jesteÅ›.}
+{163}{}{No... Tak... ale wyglÄ…da na to, Å¼e zalegam Lou trochÄ™ wiÄ™cej.}
+{164}{}{Ile wiÄ™cej?}
+{165}{}{Mam tego doÅ›Ä‡. Do widzenia.}
+{166}{}{Tak, wiem. I jestem ci wdziÄ™czna... ale wyglÄ…da na to, Å¼e wisiaÅ‚am Lou wiÄ™cej niÅ¼ myÅ›laÅ‚am. PotrzebujÄ™ wiÄ™cej pieniÄ™dzy.}
+{167}{}{Nie do wiary! Ile ty jeszcze potrzebujesz tych pieniÄ™dzy, by siÄ™ stÄ…d wydostaÄ‡?!?}
+{168}{}{MÃ³j limit juÅ¼ siÄ™ wyczerpaÅ‚. Do widzenia.}
+{169}{}{W porzÄ…dku, maÅ‚y. JuÅ¼ wystarczajÄ…co pomogÅ‚eÅ›. [pociÄ…ga nosem] PotrzebujÄ™ jeszcze tylko 150$.}
+{170}{}{No dobrze, skoro tylko tyle potrzebujesz. Ale wiÄ™cej ci nie dam! Na serio!}
+{171}{}{AleÅ¼ tak, oczywiÅ›cie. Spadam.}
+{172}{}{Hej, wrÃ³ciÅ‚eÅ›. Chcesz siÄ™ zabawiÄ‡, czy tylko daÄ‡ mi wiÄ™cej kasy dla Lou?}
+{173}{}{Tym razem chcÄ™ siÄ™ zabawiÄ‡, Fannie. Zobaczymy, co z tego wyjdzie.}
 {174}{}{Ile?}
-{175}{}{Tak tylko przechodzê, Fannie. Do widzenia.}
-{176}{}{Zawsze jest mi³o, gdy klient powraca. Jak dla ciebie, to zmieniê nawet przeœcierad³a.}
-{177}{}{Ty to wiesz co zrobiæ, by facet poczu³ siê dobrze. Dziêki.}
-{178}{}{Chyba zmieni³em zdanie. Do zobaczenia, Fannie.}
-{179}{}{No wiesz... Praca-na-plecach. Za³o¿ê siê, ¿e z twoim wygl¹dem mog³abyœ nieŸle siê dorobiæ.}
-{180}{}{No wiesz... Praca-na-plecach. Nawet z twoim wygl¹dem mog³abyœ coœ sobie dorobiæ. Ci górnicy nie s¹ zbyt wybredni, wiesz.}
-{181}{}{Tak myœlisz? Mo¿e powinnam.}
+{175}{}{Tak tylko przechodzÄ™, Fannie. Do widzenia.}
+{176}{}{Zawsze jest miÅ‚o, gdy klient powraca. Jak dla ciebie, to zmieniÄ™ nawet przeÅ›cieradÅ‚a.}
+{177}{}{Ty to wiesz co zrobiÄ‡, by facet poczuÅ‚ siÄ™ dobrze. DziÄ™ki.}
+{178}{}{Chyba zmieniÅ‚em zdanie. Do zobaczenia, Fannie.}
+{179}{}{No wiesz... Praca-na-plecach. ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e z twoim wyglÄ…dem mogÅ‚abyÅ› nieÅºle siÄ™ dorobiÄ‡.}
+{180}{}{No wiesz... Praca-na-plecach. Nawet z twoim wyglÄ…dem mogÅ‚abyÅ› coÅ› sobie dorobiÄ‡. Ci gÃ³rnicy nie sÄ… zbyt wybredni, wiesz.}
+{181}{}{Tak myÅ›lisz? MoÅ¼e powinnam.}
 {182}{}{To chyba nie dla mnie. Na razie.}
-{183}{}{W tej pracy przydaje siê ma³o wra¿liwy nos. Ci górnicy chyba nie przepadaj¹ za myd³em i wod¹.}
-{184}{}{Na serio? Mo¿e jednak nie powinnam. Ale dziêki za ofertê. Do widzenia.}
-{185}{}{Taki zapaszek musi œcinaæ z nóg. Pewnie dlatego pracujesz-na-plecach. Do widzenia.}
-{186}{}{[Fannie wygl¹da jak by jej ktoœ zdj¹³ z ramion ogromny ciê¿ar] Hej, to ty! Lou powiedzia³ mi o tym co uda³o ci siê zrobiæ. Ten towar który mi podrzuci³a nieŸle odchorowa³am, ale nie czu³am g³odu na Jet od tamtego czasu. (Ca³uje ciê w policzek.) Nie wiem jak mog³aby ci siê odwdziêczyæ... có¿, no mo¿e znam jeden "sposób". Kiedy tylko bêdziesz w nastroju, nie wahaj siê zajrzeæ, nic nie policzê. (mrugniêcie)}
-{187}{}{Bêdê o tym pamiêtaæ. Dziêki, Fannie.}
-{188}{}{Dziêkujê, jeszcze raz. (cmok) Pamiêtaj, zawsze na koszt firmy. (mrugniêcie)}
-{189}{}{Witaj! Chcesz spêdziæ trochê czasu z Fannie? Bez op³aty oczywiœcie. (uœmiech)}
-{190}{}{Sory s³onko...Nie czuje siê za dobrze. Ale zapytaj póŸniej.}
-{191}{}{Masz teraz trochê wolnego czasu?}
-{192}{}{Wracaj kiedy tylko zechcesz! Zawsze mi³o powtórzyæ "biznes".}
+{183}{}{W tej pracy przydaje siÄ™ maÅ‚o wraÅ¼liwy nos. Ci gÃ³rnicy chyba nie przepadajÄ… za mydÅ‚em i wodÄ….}
+{184}{}{Na serio? MoÅ¼e jednak nie powinnam. Ale dziÄ™ki za ofertÄ™. Do widzenia.}
+{185}{}{Taki zapaszek musi Å›cinaÄ‡ z nÃ³g. Pewnie dlatego pracujesz-na-plecach. Do widzenia.}
+{186}{}{[Fannie wyglÄ…da jak by jej ktoÅ› zdjÄ…Å‚ z ramion ogromny ciÄ™Å¼ar] Hej, to ty! Lou powiedziaÅ‚ mi o tym co udaÅ‚o ci siÄ™ zrobiÄ‡. Ten towar ktÃ³ry mi podrzuciÅ‚a nieÅºle odchorowaÅ‚am, ale nie czuÅ‚am gÅ‚odu na Jet od tamtego czasu. (CaÅ‚uje ciÄ™ w policzek.) Nie wiem jak mogÅ‚aby ci siÄ™ odwdziÄ™czyÄ‡... cÃ³Å¼, no moÅ¼e znam jeden "sposÃ³b". Kiedy tylko bÄ™dziesz w nastroju, nie wahaj siÄ™ zajrzeÄ‡, nic nie policzÄ™. (mrugniÄ™cie)}
+{187}{}{BÄ™dÄ™ o tym pamiÄ™taÄ‡. DziÄ™ki, Fannie.}
+{188}{}{DziÄ™kujÄ™, jeszcze raz. (cmok) PamiÄ™taj, zawsze na koszt firmy. (mrugniÄ™cie)}
+{189}{}{Witaj! Chcesz spÄ™dziÄ‡ trochÄ™ czasu z Fannie? Bez opÅ‚aty oczywiÅ›cie. (uÅ›miech)}
+{190}{}{Sory sÅ‚onko...Nie czuje siÄ™ za dobrze. Ale zapytaj pÃ³Åºniej.}
+{191}{}{Masz teraz trochÄ™ wolnego czasu?}
+{192}{}{Wracaj kiedy tylko zechcesz! Zawsze miÅ‚o powtÃ³rzyÄ‡ "biznes".}
 {193}{}{[dalej]}
-{200}{}{Uda³o ci siê podrzuciæ odtrutkê na Jet do drinka Fannie Mae.}
-{210}{}{Dobra, tu masz 60$. Co powiesz na kolejn¹ rundkê?}
+{200}{}{UdaÅ‚o ci siÄ™ podrzuciÄ‡ odtrutkÄ™ na Jet do drinka Fannie Mae.}
+{210}{}{Dobra, tu masz 60$. Co powiesz na kolejnÄ… rundkÄ™?}

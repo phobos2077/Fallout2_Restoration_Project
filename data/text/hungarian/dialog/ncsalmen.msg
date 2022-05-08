@@ -1,128 +1,128 @@
 {100}{}{Ez itt Salvatore egyik embere.}
-{150}{}{Egy komor kép? ember áll el?tted. Állandóan összehúzza a szemöldökét, és mereven bámul el?re. A kezében egy különös pisztolyt tart.}
-{151}{}{Egy komor kép? ember áll el?tted. Állandóan összehúzza a szemöldökét, és mereven bámul el?re.}
-{152}{}{? Salvatore egyik embere. Úgy néz ki, mint aki évek óta nem pihente ki magát.}
-{153}{}{? Salvatore egyik embere. Zord arckifejezéssel bámul el?re.}
-{154}{}{? Salvatore egyik embere. Szótlan, halálos és valószín?leg... alszik.}
-{155}{}{? Salvatore egyik embere. Szótlan, halálos és nagy eséllyel halálra unatkozza magát.}
-{160}{}{::Elismer?en bólogat::}
-{161}{}{Hát elég tökös ember vagy, hogy lenyomtad az Enklávét.}
-{162}{}{Majdnem olyan kemény gyerek vagy, mint Tökös Tomi.}
-{163}{}{Hallottam, mit csináltál az Enklávéval. Gyorsan terjednek a hírek.}
-{164}{}{Gondoltál már arra, hogy újrajátszd a játékot egy teljesen más karakterrel?}
+{150}{}{Egy komor kÃ©p? ember Ã¡ll el?tted. ÃllandÃ³an Ã¶sszehÃºzza a szemÃ¶ldÃ¶kÃ©t, Ã©s mereven bÃ¡mul el?re. A kezÃ©ben egy kÃ¼lÃ¶nÃ¶s pisztolyt tart.}
+{151}{}{Egy komor kÃ©p? ember Ã¡ll el?tted. ÃllandÃ³an Ã¶sszehÃºzza a szemÃ¶ldÃ¶kÃ©t, Ã©s mereven bÃ¡mul el?re.}
+{152}{}{? Salvatore egyik embere. Ãšgy nÃ©z ki, mint aki Ã©vek Ã³ta nem pihente ki magÃ¡t.}
+{153}{}{? Salvatore egyik embere. Zord arckifejezÃ©ssel bÃ¡mul el?re.}
+{154}{}{? Salvatore egyik embere. SzÃ³tlan, halÃ¡los Ã©s valÃ³szÃ­n?leg... alszik.}
+{155}{}{? Salvatore egyik embere. SzÃ³tlan, halÃ¡los Ã©s nagy esÃ©llyel halÃ¡lra unatkozza magÃ¡t.}
+{160}{}{::Elismer?en bÃ³logat::}
+{161}{}{HÃ¡t elÃ©g tÃ¶kÃ¶s ember vagy, hogy lenyomtad az EnklÃ¡vÃ©t.}
+{162}{}{Majdnem olyan kemÃ©ny gyerek vagy, mint TÃ¶kÃ¶s Tomi.}
+{163}{}{Hallottam, mit csinÃ¡ltÃ¡l az EnklÃ¡vÃ©val. Gyorsan terjednek a hÃ­rek.}
+{164}{}{GondoltÃ¡l mÃ¡r arra, hogy ÃºjrajÃ¡tszd a jÃ¡tÃ©kot egy teljesen mÃ¡s karakterrel?}
 {170}{}{Mit osongatsz itt?}
-{171}{}{Minek a bujkálás? Valaki a nyomodban van?}
-{172}{}{Próbálsz a lehet? legkevésbé felt?n?bb lenni?}
-{173}{}{Mi szükség a lopakodásra? Valaki a nyomodban van?}
+{171}{}{Minek a bujkÃ¡lÃ¡s? Valaki a nyomodban van?}
+{172}{}{PrÃ³bÃ¡lsz a lehet? legkevÃ©sbÃ© felt?n?bb lenni?}
+{173}{}{Mi szÃ¼ksÃ©g a lopakodÃ¡sra? Valaki a nyomodban van?}
 {180}{}{Nos, ha esetleg nem }
-{181}{}{ELTÉVEDTÉL, haver? Jobb ha elhúzol innen!}
-{182}{}{Ez a srác keresi a bajt...}
-{183}{}{T?nés innen! Most azonnal!}
-{184}{}{Hacsak nem a bajt keresed itt, jobb ha most azonnal elmész innen!}
+{181}{}{ELTÃ‰VEDTÃ‰L, haver? Jobb ha elhÃºzol innen!}
+{182}{}{Ez a srÃ¡c keresi a bajt...}
+{183}{}{T?nÃ©s innen! Most azonnal!}
+{184}{}{Hacsak nem a bajt keresed itt, jobb ha most azonnal elmÃ©sz innen!}
 {185}{}{Nos, ha esetleg nem }
-{186}{}{ELTÉVEDTÉL, kislány? Jobb ha elhúzol innen!}
+{186}{}{ELTÃ‰VEDTÃ‰L, kislÃ¡ny? Jobb ha elhÃºzol innen!}
 {187}{}{Ez a csajszi keresi a bajt...}
 {195}{}{Itt nem lehet fegyvert hordani!}
 {196}{}{Tedd el a fegyveredet!}
-{200}{}{Kisasszony, attól tartok, meg kell kérjem, hogy tegye el a fegyverét.}
-{201}{}{Kisasszony, sajnálom, de ide nem lehet fegyveresen bejönni.}
-{205}{}{Hé, te hajcsár! Tedd el a fegyvered, de azonnal!}
-{206}{}{Ide nem lehet fegyvert behozni, hajcsár!}
-{207}{}{Tedd el a fegyveredet, hajcsár!}
-{208}{}{Hajcsár, most azonnal tedd el a fegyveredet!}
-{210}{}{Hé, te, hajcsár! Ne osongass itt nekem!}
-{215}{}{Hé, te ott! Rakd el a fegyveredet!}
+{200}{}{Kisasszony, attÃ³l tartok, meg kell kÃ©rjem, hogy tegye el a fegyverÃ©t.}
+{201}{}{Kisasszony, sajnÃ¡lom, de ide nem lehet fegyveresen bejÃ¶nni.}
+{205}{}{HÃ©, te hajcsÃ¡r! Tedd el a fegyvered, de azonnal!}
+{206}{}{Ide nem lehet fegyvert behozni, hajcsÃ¡r!}
+{207}{}{Tedd el a fegyveredet, hajcsÃ¡r!}
+{208}{}{HajcsÃ¡r, most azonnal tedd el a fegyveredet!}
+{210}{}{HÃ©, te, hajcsÃ¡r! Ne osongass itt nekem!}
+{215}{}{HÃ©, te ott! Rakd el a fegyveredet!}
 {216}{}{Fegyvert nem lehet ide behozni!}
 {217}{}{Most azonnal tedd el azt a fegyvert!}
 {218}{}{Rakd el a fegyvered most azonnal!}
-{220}{}{Te ott! Hagyd abba a lopakodást!}
+{220}{}{Te ott! Hagyd abba a lopakodÃ¡st!}
 {225}{}{Robotokat nem lehet behozni ide! Vidd innen, de gyorsan! Most azonnal!}
-{226}{}{Ki a robottal! Vidd innen a rákba!}
-{230}{}{Mutánsok nem jöhetnek be ide! Vidd innen a fenébe most rögtön!}
-{231}{}{Mutánsokat nem lehet behozni! Vidd ki innen villámsebesen!}
-{235}{}{Hogy mész fürdeni, ha ez a fémvacak rajtad van?}
+{226}{}{Ki a robottal! Vidd innen a rÃ¡kba!}
+{230}{}{MutÃ¡nsok nem jÃ¶hetnek be ide! Vidd innen a fenÃ©be most rÃ¶gtÃ¶n!}
+{231}{}{MutÃ¡nsokat nem lehet behozni! Vidd ki innen villÃ¡msebesen!}
+{235}{}{Hogy mÃ©sz fÃ¼rdeni, ha ez a fÃ©mvacak rajtad van?}
 {240}{}{Uram.}
-{241}{}{Üdvözöljük, uram.}
-{242}{}{Nincs jelentenivaló, uram.}
-{243}{}{Nincs szüksége valamire, uram?}
-{244}{}{Csak szóljon, uram, ha valaki kötözködne.}
-{245}{}{Vigyázz Tökös Tomival! Hosszú a farka és kevés a türelme.}
-{246}{}{Amióta csak ismerem, Mr. Salvatore mindig beteg volt. Nagyon öreg már.}
-{247}{}{Ezek a pisztolyok rendesen közrejátszottak, hogy meger?södtünk New Renóban.}
-{248}{}{Lehet, hogy ezek a pisztolyok furán néznek ki, de elég könny? használni ?ket.}
-{249}{}{Bishop egyik okostojását megl?ttem az új pisztolyommal, mire egy jó nagy lyukat ütött rajta... meg mögötte a falba.}
-{250}{}{Egyikünk sem tudja, igazából honnan származnak ezek az új pisztolyok. Jobb, ha nem is akarjuk tudni.}
-{251}{}{A többi család elég sok életteret átengedett nekünk a Mészárlás óta.}
-{252}{}{Mióta megvannak ezek az új pisztolyok, a többi család elég sok életteret átengedett nekünk. Tudják, mi fog történni, ha nem így tesznek.}
-{253}{}{Ezek az új pisztolyok fénypászmát l?nek ki magukból. BÁRMIN keresztülhatolnak.}
-{254}{}{A Salvatore család jó hozzám, nem panaszkodhatom.}
-{255}{}{A Bishopék túl sokat járatják a szájukat. A Salvatore klán tagjai nem szaporítják a szót.}
-{256}{}{Az északi front csendes.}
-{257}{}{Ma láttam egy-két Bishopot, de elhúzták a csíkot. Egyre ravaszabbak.}
+{241}{}{ÃœdvÃ¶zÃ¶ljÃ¼k, uram.}
+{242}{}{Nincs jelentenivalÃ³, uram.}
+{243}{}{Nincs szÃ¼ksÃ©ge valamire, uram?}
+{244}{}{Csak szÃ³ljon, uram, ha valaki kÃ¶tÃ¶zkÃ¶dne.}
+{245}{}{VigyÃ¡zz TÃ¶kÃ¶s Tomival! HosszÃº a farka Ã©s kevÃ©s a tÃ¼relme.}
+{246}{}{AmiÃ³ta csak ismerem, Mr. Salvatore mindig beteg volt. Nagyon Ã¶reg mÃ¡r.}
+{247}{}{Ezek a pisztolyok rendesen kÃ¶zrejÃ¡tszottak, hogy meger?sÃ¶dtÃ¼nk New RenÃ³ban.}
+{248}{}{Lehet, hogy ezek a pisztolyok furÃ¡n nÃ©znek ki, de elÃ©g kÃ¶nny? hasznÃ¡lni ?ket.}
+{249}{}{Bishop egyik okostojÃ¡sÃ¡t megl?ttem az Ãºj pisztolyommal, mire egy jÃ³ nagy lyukat Ã¼tÃ¶tt rajta... meg mÃ¶gÃ¶tte a falba.}
+{250}{}{EgyikÃ¼nk sem tudja, igazÃ¡bÃ³l honnan szÃ¡rmaznak ezek az Ãºj pisztolyok. Jobb, ha nem is akarjuk tudni.}
+{251}{}{A tÃ¶bbi csalÃ¡d elÃ©g sok Ã©letteret Ã¡tengedett nekÃ¼nk a MÃ©szÃ¡rlÃ¡s Ã³ta.}
+{252}{}{MiÃ³ta megvannak ezek az Ãºj pisztolyok, a tÃ¶bbi csalÃ¡d elÃ©g sok Ã©letteret Ã¡tengedett nekÃ¼nk. TudjÃ¡k, mi fog tÃ¶rtÃ©nni, ha nem Ã­gy tesznek.}
+{253}{}{Ezek az Ãºj pisztolyok fÃ©nypÃ¡szmÃ¡t l?nek ki magukbÃ³l. BÃRMIN keresztÃ¼lhatolnak.}
+{254}{}{A Salvatore csalÃ¡d jÃ³ hozzÃ¡m, nem panaszkodhatom.}
+{255}{}{A BishopÃ©k tÃºl sokat jÃ¡ratjÃ¡k a szÃ¡jukat. A Salvatore klÃ¡n tagjai nem szaporÃ­tjÃ¡k a szÃ³t.}
+{256}{}{Az Ã©szaki front csendes.}
+{257}{}{Ma lÃ¡ttam egy-kÃ©t Bishopot, de elhÃºztÃ¡k a csÃ­kot. Egyre ravaszabbak.}
 {258}{}{Nagy csend van ma.}
-{259}{}{Hölgyem.}
-{260}{}{Üdvözöljük, hölgyem.}
-{261}{}{Nincs jelentenivaló, hölgyem.}
-{262}{}{Van valamire szüksége, hölgyem?}
-{263}{}{Ha zavarja valami, hölgyem, csak szóljon!}
-{275}{}{Jobb, ha húzol innen, miel?tt baj lesz!}
-{276}{}{Legyen eszed! Menj innen, miel?tt berágunk!}
+{259}{}{HÃ¶lgyem.}
+{260}{}{ÃœdvÃ¶zÃ¶ljÃ¼k, hÃ¶lgyem.}
+{261}{}{Nincs jelentenivalÃ³, hÃ¶lgyem.}
+{262}{}{Van valamire szÃ¼ksÃ©ge, hÃ¶lgyem?}
+{263}{}{Ha zavarja valami, hÃ¶lgyem, csak szÃ³ljon!}
+{275}{}{Jobb, ha hÃºzol innen, miel?tt baj lesz!}
+{276}{}{Legyen eszed! Menj innen, miel?tt berÃ¡gunk!}
 {277}{}{Ha itt maradsz, baj lesz!}
 {278}{}{Nem tudom, mit akarsz }
 {279}{}{Nem tudom, mit akarsz itt bizonygatni, }
-{280}{}{Ajánlom, hogy most azonnal menj innen!}
-{285}{}{Hol tanultál bunyózni? Nagyon brutál vagy!}
-{286}{}{Tudnod kell, hogy a Salvatore család szívesen felfogadna egy hozzád hasonló embert.}
-{287}{}{Ha munkát szeretnél, beszélj Masonnel!}
-{288}{}{Ha a bunyózást már meguntad, esetleg beállhatnál hozzánk!}
-{289}{}{Húsz dollárt tettem rád!}
-{290}{}{Hé, bajnok! Király volt az utolsó meccsed!}
-{291}{}{Láttalak bunyózni a ringben. Iszonyat jobb horgod van!}
+{280}{}{AjÃ¡nlom, hogy most azonnal menj innen!}
+{285}{}{Hol tanultÃ¡l bunyÃ³zni? Nagyon brutÃ¡l vagy!}
+{286}{}{Tudnod kell, hogy a Salvatore csalÃ¡d szÃ­vesen felfogadna egy hozzÃ¡d hasonlÃ³ embert.}
+{287}{}{Ha munkÃ¡t szeretnÃ©l, beszÃ©lj Masonnel!}
+{288}{}{Ha a bunyÃ³zÃ¡st mÃ¡r meguntad, esetleg beÃ¡llhatnÃ¡l hozzÃ¡nk!}
+{289}{}{HÃºsz dollÃ¡rt tettem rÃ¡d!}
+{290}{}{HÃ©, bajnok! KirÃ¡ly volt az utolsÃ³ meccsed!}
+{291}{}{LÃ¡ttalak bunyÃ³zni a ringben. Iszonyat jobb horgod van!}
 {292}{}{Mennyit nyomsz fekve?}
 {293}{}{Hol edzel?}
-{294}{}{Vigyázz a Húsdarálóval! Imádja a füleket!}
-{295}{}{Meghívnálak egy italra, de az ellenfeledre fogadtam, és elbuktam az összes pénzem.}
-{305}{}{Tehetek valamit érted?}
-{306}{}{Ez nem pornóstúdió, szépfiú!}
-{307}{}{Máshol rontsd a leveg?t, szépfiú!}
-{310}{}{Igazán sajnálom... tényleg... de most nincs id?m beszélgetni. Gyere munka után, ha ráérsz!}
-{311}{}{A szívem megszakad... de most nem beszélgethetünk.}
-{312}{}{Ugyan már, kedvesem, ne vondd el a figyelmemet!}
-{313}{}{Nem tudok segíteni.}
-{314}{}{Úgy hallottam, Tökös Tomi magánvetítésre vár téged.}
+{294}{}{VigyÃ¡zz a HÃºsdarÃ¡lÃ³val! ImÃ¡dja a fÃ¼leket!}
+{295}{}{MeghÃ­vnÃ¡lak egy italra, de az ellenfeledre fogadtam, Ã©s elbuktam az Ã¶sszes pÃ©nzem.}
+{305}{}{Tehetek valamit Ã©rted?}
+{306}{}{Ez nem pornÃ³stÃºdiÃ³, szÃ©pfiÃº!}
+{307}{}{MÃ¡shol rontsd a leveg?t, szÃ©pfiÃº!}
+{310}{}{IgazÃ¡n sajnÃ¡lom... tÃ©nyleg... de most nincs id?m beszÃ©lgetni. Gyere munka utÃ¡n, ha rÃ¡Ã©rsz!}
+{311}{}{A szÃ­vem megszakad... de most nem beszÃ©lgethetÃ¼nk.}
+{312}{}{Ugyan mÃ¡r, kedvesem, ne vondd el a figyelmemet!}
+{313}{}{Nem tudok segÃ­teni.}
+{314}{}{Ãšgy hallottam, TÃ¶kÃ¶s Tomi magÃ¡nvetÃ­tÃ©sre vÃ¡r tÃ©ged.}
 {315}{}{Most ne, kedvesem! Dolgom van.}
-{316}{}{Beszélnék én szívesen, de a f?nök észreveheti.}
-{325}{}{Hajcsár, most rögtön rakd el azt a fegyvert!}
-{326}{}{Ide nem lehet fegyvert behozni, hajcsár!}
-{327}{}{Tedd el a fegyveredet, hajcsár!}
-{330}{}{Hagyd már abba a lopakodást, hajcsár!}
-{331}{}{A lopakodó emberekt?l mindig viszketni kezd az ujjam a ravaszon.}
-{332}{}{Csak lopakodj itt nyugodtan, ha golyót akarsz a fejedbe, hajcsár!}
+{316}{}{BeszÃ©lnÃ©k Ã©n szÃ­vesen, de a f?nÃ¶k Ã©szreveheti.}
+{325}{}{HajcsÃ¡r, most rÃ¶gtÃ¶n rakd el azt a fegyvert!}
+{326}{}{Ide nem lehet fegyvert behozni, hajcsÃ¡r!}
+{327}{}{Tedd el a fegyveredet, hajcsÃ¡r!}
+{330}{}{Hagyd mÃ¡r abba a lopakodÃ¡st, hajcsÃ¡r!}
+{331}{}{A lopakodÃ³ emberekt?l mindig viszketni kezd az ujjam a ravaszon.}
+{332}{}{Csak lopakodj itt nyugodtan, ha golyÃ³t akarsz a fejedbe, hajcsÃ¡r!}
 {335}{}{Most azonnal rakd el azt a fegyvert!}
 {336}{}{Fegyvert nem lehet ide behozni!}
 {337}{}{Most azonnal tedd el azt a fegyvert!}
 {338}{}{Rakd el a fegyvered most azonnal!}
-{340}{}{Hagyd abba a lopakodást, mert baj lesz!}
-{345}{}{Nem vagyok illetékes a rabszolga-vásárlásban. Beszélj Masonnel!}
-{346}{}{A Salvatore családnak már épp elég rabszolgája van.}
-{347}{}{Most nincs egy szál id?m se, hogy beszélgessek.}
-{348}{}{Nem tudok segíteni.}
-{349}{}{Figyelj, nem érek rá! Ha beszélgetni akarsz, menj a Sz?z utcába, és kapj el egy kurvát!}
-{355}{}{Ha rabszolgákkal akarsz kereskedni, beszélj a f?nökkel!}
-{356}{}{Nehogy azt hidd, hogy a f?nöknek kellenek még rabszolgák. Ett?l persze megpróbálhatod.}
-{360}{}{Munkát keresel? Beszélj Masonnel!}
-{361}{}{Ha munkát akarsz, keresd Masont!}
-{365}{}{Figyelj, nem érek rá! Ha beszélgetni akarsz, menj a Sz?z utcába, és kapj el egy kurvát!}
-{366}{}{Most nincs egy szál id?m se, hogy beszélgessek.}
-{367}{}{Nem tudok segíteni.}
-{368}{}{Bocs, de nem tudok segíteni.}
+{340}{}{Hagyd abba a lopakodÃ¡st, mert baj lesz!}
+{345}{}{Nem vagyok illetÃ©kes a rabszolga-vÃ¡sÃ¡rlÃ¡sban. BeszÃ©lj Masonnel!}
+{346}{}{A Salvatore csalÃ¡dnak mÃ¡r Ã©pp elÃ©g rabszolgÃ¡ja van.}
+{347}{}{Most nincs egy szÃ¡l id?m se, hogy beszÃ©lgessek.}
+{348}{}{Nem tudok segÃ­teni.}
+{349}{}{Figyelj, nem Ã©rek rÃ¡! Ha beszÃ©lgetni akarsz, menj a Sz?z utcÃ¡ba, Ã©s kapj el egy kurvÃ¡t!}
+{355}{}{Ha rabszolgÃ¡kkal akarsz kereskedni, beszÃ©lj a f?nÃ¶kkel!}
+{356}{}{Nehogy azt hidd, hogy a f?nÃ¶knek kellenek mÃ©g rabszolgÃ¡k. Ett?l persze megprÃ³bÃ¡lhatod.}
+{360}{}{MunkÃ¡t keresel? BeszÃ©lj Masonnel!}
+{361}{}{Ha munkÃ¡t akarsz, keresd Masont!}
+{365}{}{Figyelj, nem Ã©rek rÃ¡! Ha beszÃ©lgetni akarsz, menj a Sz?z utcÃ¡ba, Ã©s kapj el egy kurvÃ¡t!}
+{366}{}{Most nincs egy szÃ¡l id?m se, hogy beszÃ©lgessek.}
+{367}{}{Nem tudok segÃ­teni.}
+{368}{}{Bocs, de nem tudok segÃ­teni.}
 {369}{}{Most ne, kedvesem! Dolgom van.}
-{370}{}{Beszélnék én szívesen, de a f?nök észreveheti.}
-{371}{}{Figyelj, most nincs id?m a csevegésre.}
-{380}{}{Jobb lenne, ha a ghoul kihúzna a francba!}
-{381}{}{Ha az a ghoul még mindig itt van, mire megfordulok, itt helyben elégetjük!}
-{382}{}{Ha az a ghoul nem kopik le nagyon gyorsan, máglyát rakunk bel?le!}
-{1180}{}{. Ez a név megy a süllyeszt?be, ha nem húzol innen kifelé...}
-{1185}{}{. Ez a név megy a süllyeszt?be, ha nem húzol innen kifelé...}
-{1278}{}{, de jobb lenne, ha máshova vinnéd!}
-{1279}{}{, de én elvinném máshova a helyedben.}
+{370}{}{BeszÃ©lnÃ©k Ã©n szÃ­vesen, de a f?nÃ¶k Ã©szreveheti.}
+{371}{}{Figyelj, most nincs id?m a csevegÃ©sre.}
+{380}{}{Jobb lenne, ha a ghoul kihÃºzna a francba!}
+{381}{}{Ha az a ghoul mÃ©g mindig itt van, mire megfordulok, itt helyben elÃ©getjÃ¼k!}
+{382}{}{Ha az a ghoul nem kopik le nagyon gyorsan, mÃ¡glyÃ¡t rakunk bel?le!}
+{1180}{}{. Ez a nÃ©v megy a sÃ¼llyeszt?be, ha nem hÃºzol innen kifelÃ©...}
+{1185}{}{. Ez a nÃ©v megy a sÃ¼llyeszt?be, ha nem hÃºzol innen kifelÃ©...}
+{1278}{}{, de jobb lenne, ha mÃ¡shova vinnÃ©d!}
+{1279}{}{, de Ã©n elvinnÃ©m mÃ¡shova a helyedben.}

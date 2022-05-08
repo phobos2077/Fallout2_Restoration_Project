@@ -1,46 +1,46 @@
 {151}{}{}
-{199}{}{Co to za kretyñskie pytanie?}
+{199}{}{Co to za kretyÅ„skie pytanie?}
 {200}{}{Dobre widoki.}
 {201}{}{Kiepskie widoki.}
-{202}{}{Moja odpowiedŸ brzmi "nie".}
+{202}{}{Moja odpowiedÅº brzmi "nie".}
 {203}{}{Nie licz na to.}
-{204}{}{Mo¿esz na tym polegaæ.}
-{205}{}{Zapytaj o to póŸniej.}
+{204}{}{MoÅ¼esz na tym polegaÄ‡.}
+{205}{}{Zapytaj o to pÃ³Åºniej.}
 {206}{}{Najprawdopodobniej.}
-{207}{}{Trudno teraz powiedzieæ.}
+{207}{}{Trudno teraz powiedzieÄ‡.}
 {208}{}{Tak.}
 {209}{}{Tak. Zdecydowanie.}
-{210}{}{Lepiej ci tego teraz nie mówiæ.}
+{210}{}{Lepiej ci tego teraz nie mÃ³wiÄ‡.}
 {211}{}{To pewne.}
-{212}{}{Bardzo w¹tpliwe.}
+{212}{}{Bardzo wÄ…tpliwe.}
 {213}{}{Zdecydowanie tak.}
-{214}{}{Skup siê i zapytaj ponownie.}
-{215}{}{Wszystkie znaki na niebie i ziemi wskazuj¹ na "tak".}
-{216}{}{Moje Ÿród³a twierdz¹, ¿e nie.}
-{217}{}{Bez w¹tpienia.}
-{218}{}{OdpowiedŸ niejasna, zapytaj ponownie.}
-{219}{}{Tak jak to widzê, to tak.}
-{220}{}{Nie trzêœ mn¹ tak bardzo. To boli.}
-{221}{}{Masz mocne prawe ramiê.}
-{222}{}{Proszê, wytrzyj rêce zanim mn¹ znów potrz¹œniesz.}
+{214}{}{Skup siÄ™ i zapytaj ponownie.}
+{215}{}{Wszystkie znaki na niebie i ziemi wskazujÄ… na "tak".}
+{216}{}{Moje ÅºrÃ³dÅ‚a twierdzÄ…, Å¼e nie.}
+{217}{}{Bez wÄ…tpienia.}
+{218}{}{OdpowiedÅº niejasna, zapytaj ponownie.}
+{219}{}{Tak jak to widzÄ™, to tak.}
+{220}{}{Nie trzÄ™Å› mnÄ… tak bardzo. To boli.}
+{221}{}{Masz mocne prawe ramiÄ™.}
+{222}{}{ProszÄ™, wytrzyj rÄ™ce zanim mnÄ… znÃ³w potrzÄ…Å›niesz.}
 {223}{}{Chwilowo nieczynne.}
-{224}{}{Zamkniête na podstawie zarz¹dzenia Urzêdu d/s Gier Fabularnych.}
-{225}{}{Trz¹œ mn¹ tak dalej, a bêdziesz mieæ k³opoty.}
-{226}{}{Chyba siê rozchorujê.}
+{224}{}{ZamkniÄ™te na podstawie zarzÄ…dzenia UrzÄ™du d/s Gier Fabularnych.}
+{225}{}{TrzÄ…Å› mnÄ… tak dalej, a bÄ™dziesz mieÄ‡ kÅ‚opoty.}
+{226}{}{Chyba siÄ™ rozchorujÄ™.}
 {227}{}{Niedobrze mi.}
-{228}{}{Masz ciep³e d³onie.}
-{229}{}{Feargus nie chcia³, ¿eby umieszczaæ mnie w grze. Straszny z niego drañ.}
-{230}{}{Twój wynik to 23 na 100. Masz jeszcze du¿o do zrobienia.}
-{231}{}{Scott Everts ci¹gle wzdycha, kiedy widzi, ile siê narobi³o w grze ró¿nych przedmiotów.}
-{232}{}{Zajrzyj do mêskiej ubikacji na parterze kasyna Mordino w Nowym Reno.}
-{233}{}{Ktoœ zakopa³ na Golgocie trochê kasy pod krzy¿em z napisem "Œmieci".}
-{234}{}{Kiedy ju¿ skoñczysz grê, idŸ pogadaæ z Ojcem Tullym w Nowym Reno.}
-{235}{}{Gdzieœ w Nowym Reno mo¿na znaleŸæ coœ, co po staropolsku nazywa siê "Easter Egg".}
-{236}{}{Nie trz¹œ mn¹ tak mocno.}
-{237}{}{Masz du¿o SZCZÊŒCIA. Trz¹œ mn¹ dalej, a dostaniesz podpowiedŸ!}
-{238}{}{Tak, WIEMY, ¿e Descent to Undermountain by³o kich¹.}
-{239}{}{Jeœli sprzedasz Bessie rzeŸnikom w Modoc, to bêdzie mo¿na j¹ z powrotem uwolniæ.}
-{240}{}{Uwa¿aj na to, co ci powie Curtis z Kryptopolis, kiedy oddasz mu Pana Nixona.}
-{241}{}{Co do sk³óconego ma³¿eñstwa w Broken Hills, to ¿ona rzeczywiœcie wyrzuci³a do kosza jego œwierszczyki.}
-{242}{}{Aby pokonaæ Francisa w si³owaniu siê, bêdziesz potrzebowaæ wysokiej SI£Y *oraz* wysokiej WYTRZYMA£OŒÆI.}
-{243}{}{Kod aktywuj¹cy pierwszy terminal w Krypcie w Kryptopolis to 3PCF186.}
+{228}{}{Masz ciepÅ‚e dÅ‚onie.}
+{229}{}{Feargus nie chciaÅ‚, Å¼eby umieszczaÄ‡ mnie w grze. Straszny z niego draÅ„.}
+{230}{}{TwÃ³j wynik to 23 na 100. Masz jeszcze duÅ¼o do zrobienia.}
+{231}{}{Scott Everts ciÄ…gle wzdycha, kiedy widzi, ile siÄ™ narobiÅ‚o w grze rÃ³Å¼nych przedmiotÃ³w.}
+{232}{}{Zajrzyj do mÄ™skiej ubikacji na parterze kasyna Mordino w Nowym Reno.}
+{233}{}{KtoÅ› zakopaÅ‚ na Golgocie trochÄ™ kasy pod krzyÅ¼em z napisem "Åšmieci".}
+{234}{}{Kiedy juÅ¼ skoÅ„czysz grÄ™, idÅº pogadaÄ‡ z Ojcem Tullym w Nowym Reno.}
+{235}{}{GdzieÅ› w Nowym Reno moÅ¼na znaleÅºÄ‡ coÅ›, co po staropolsku nazywa siÄ™ "Easter Egg".}
+{236}{}{Nie trzÄ…Å› mnÄ… tak mocno.}
+{237}{}{Masz duÅ¼o SZCZÄ˜ÅšCIA. TrzÄ…Å› mnÄ… dalej, a dostaniesz podpowiedÅº!}
+{238}{}{Tak, WIEMY, Å¼e Descent to Undermountain byÅ‚o kichÄ….}
+{239}{}{JeÅ›li sprzedasz Bessie rzeÅºnikom w Modoc, to bÄ™dzie moÅ¼na jÄ… z powrotem uwolniÄ‡.}
+{240}{}{UwaÅ¼aj na to, co ci powie Curtis z Kryptopolis, kiedy oddasz mu Pana Nixona.}
+{241}{}{Co do skÅ‚Ã³conego maÅ‚Å¼eÅ„stwa w Broken Hills, to Å¼ona rzeczywiÅ›cie wyrzuciÅ‚a do kosza jego Å›wierszczyki.}
+{242}{}{Aby pokonaÄ‡ Francisa w siÅ‚owaniu siÄ™, bÄ™dziesz potrzebowaÄ‡ wysokiej SIÅY *oraz* wysokiej WYTRZYMAÅOÅšÄ†I.}
+{243}{}{Kod aktywujÄ…cy pierwszy terminal w Krypcie w Kryptopolis to 3PCF186.}

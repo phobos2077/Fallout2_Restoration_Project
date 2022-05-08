@@ -1,64 +1,64 @@
-{100}{}{Widzisz zwalistego mê¿czyznê, ubranego w skórzany fartuch.}
-{101}{}{Widzisz kuœnierza Balthasa.}
-{102}{}{Wysoki, muskularny mê¿czyzna, który pachnie i wygl¹da, jak wyprawiona skóra.}
-{151}{}{Mój syn zosta³ przez przypadek zabity podczas walki.}
-{152}{}{Nie mogê znieœæ ¿ycia bez Jonny'ego.}
+{100}{}{Widzisz zwalistego mÄ™Å¼czyznÄ™, ubranego w skÃ³rzany fartuch.}
+{101}{}{Widzisz kuÅ›nierza Balthasa.}
+{102}{}{Wysoki, muskularny mÄ™Å¼czyzna, ktÃ³ry pachnie i wyglÄ…da, jak wyprawiona skÃ³ra.}
+{151}{}{MÃ³j syn zostaÅ‚ przez przypadek zabity podczas walki.}
+{152}{}{Nie mogÄ™ znieÅ›Ä‡ Å¼ycia bez Jonny'ego.}
 {153}{}{[Chlip]}
-{154}{}{Spotkajmy siê ko³o Nawiedzonej Farmy. Mamy zamiar rozprawiæ siê z tymi upiorami.}
-{155}{}{Witaj, nazywam siê Balthas. Prowadzê w Modoc garbarniê. W czym mogê ci pomóc?}
-{156}{}{Wygl¹dasz na zmartwionego. Czy coœ nie w porz¹dku?}
-{157}{}{Mogê zobaczyæ, co masz na sprzeda¿?}
-{158}{}{Nie widzia³eœ mo¿e gdzieœ tutaj jakiegoœ z³otego zegarka?}
-{159}{}{Wrócê póŸniej.}
-{160}{}{Szukam przedmiotu zwanego GECK. Czy przypadkiem nie s³ysza³eœ czegoœ o nim? Mo¿e wiesz, gdzie mo¿na by coœ takiego dostaæ?}
+{154}{}{Spotkajmy siÄ™ koÅ‚o Nawiedzonej Farmy. Mamy zamiar rozprawiÄ‡ siÄ™ z tymi upiorami.}
+{155}{}{Witaj, nazywam siÄ™ Balthas. ProwadzÄ™ w Modoc garbarniÄ™. W czym mogÄ™ ci pomÃ³c?}
+{156}{}{WyglÄ…dasz na zmartwionego. Czy coÅ› nie w porzÄ…dku?}
+{157}{}{MogÄ™ zobaczyÄ‡, co masz na sprzedaÅ¼?}
+{158}{}{Nie widziaÅ‚eÅ› moÅ¼e gdzieÅ› tutaj jakiegoÅ› zÅ‚otego zegarka?}
+{159}{}{WrÃ³cÄ™ pÃ³Åºniej.}
+{160}{}{Szukam przedmiotu zwanego GECK. Czy przypadkiem nie sÅ‚yszaÅ‚eÅ› czegoÅ› o nim? MoÅ¼e wiesz, gdzie moÅ¼na by coÅ› takiego dostaÄ‡?}
 {161}{}{GECK?}
-{163}{}{W czym mogê ci pomóc?}
-{168}{}{Tylko siê rozgl¹dam, dziêki.}
-{171}{}{Jakieœ postêpy w poszukiwaniu Jonny'ego?}
-{172}{}{Ta rzecz znajdowa³a siê na dnie tej starej, suchej studni. Czêœæ œciany obsunê³a siê, to zaœ by³o w rumowisku. Bardzo mi przykro, ale wydaje mi siê, ¿e Jonny nie ¿yje.}
+{163}{}{W czym mogÄ™ ci pomÃ³c?}
+{168}{}{Tylko siÄ™ rozglÄ…dam, dziÄ™ki.}
+{171}{}{JakieÅ› postÄ™py w poszukiwaniu Jonny'ego?}
+{172}{}{Ta rzecz znajdowaÅ‚a siÄ™ na dnie tej starej, suchej studni. CzÄ™Å›Ä‡ Å›ciany obsunÄ™Å‚a siÄ™, to zaÅ› byÅ‚o w rumowisku. Bardzo mi przykro, ale wydaje mi siÄ™, Å¼e Jonny nie Å¼yje.}
 {173}{}{Nie, na razie nic.}
-{175}{}{Dziêkujê za zwrócenie mi mojego syna. Nigdy nie bêdê w stanie sp³aciæ tego d³ugu, przyjmij jednak w podziêce tê skórzan¹ zbrojê. Eksperymentowa³em trochê z nowymi metodami garbowania. Myœlê, ¿e jest teraz w stanie wytrzymaæ bardzo wiele, a poza tym - bêdzie ci w niej do twarzy.}
-{176}{}{Dziêkujê ci za uratowanie mojego syna!}
-{177}{}{Proszê, zostaw mnie teraz samego z moj¹ niedol¹.}
-{178}{}{Jonny ¿yje! Uratowali go ludzie zwani ¯u¿lowcami. Musisz tylko jeszcze trochê poczekaæ - w³aœnie pracujê nad sposobem sprowadzenia Jonny'ego do domu.}
-{179}{}{Jonny zosta³ porwany. Maj¹ go te upiory z Nawiedzonej Farmy i zamierzaj¹ z³o¿yæ go w ofierze swojemu mrocznemu bogowi.}
+{175}{}{DziÄ™kujÄ™ za zwrÃ³cenie mi mojego syna. Nigdy nie bÄ™dÄ™ w stanie spÅ‚aciÄ‡ tego dÅ‚ugu, przyjmij jednak w podziÄ™ce tÄ™ skÃ³rzanÄ… zbrojÄ™. EksperymentowaÅ‚em trochÄ™ z nowymi metodami garbowania. MyÅ›lÄ™, Å¼e jest teraz w stanie wytrzymaÄ‡ bardzo wiele, a poza tym - bÄ™dzie ci w niej do twarzy.}
+{176}{}{DziÄ™kujÄ™ ci za uratowanie mojego syna!}
+{177}{}{ProszÄ™, zostaw mnie teraz samego z mojÄ… niedolÄ….}
+{178}{}{Jonny Å¼yje! Uratowali go ludzie zwani Å»uÅ¼lowcami. Musisz tylko jeszcze trochÄ™ poczekaÄ‡ - wÅ‚aÅ›nie pracujÄ™ nad sposobem sprowadzenia Jonny'ego do domu.}
+{179}{}{Jonny zostaÅ‚ porwany. MajÄ… go te upiory z Nawiedzonej Farmy i zamierzajÄ… zÅ‚oÅ¼yÄ‡ go w ofierze swojemu mrocznemu bogowi.}
 {180}{}{Rozumiem. Bardzo mi przykro.}
-{181}{}{Heh? Nie mam zamiaru dyskutowaæ o moim prywatnym ¿yciu z obcymi. Masz do mnie jakiœ interes, czy nie?}
-{182}{}{Przepraszam, nazywam siê }
-{183}{}{. Teraz, kiedy ju¿ siê znamy... wygl¹dasz na kogoœ w k³opotach.}
-{184}{}{Tak, interesuj¹ mnie twoje skórzane wyroby.}
+{181}{}{Heh? Nie mam zamiaru dyskutowaÄ‡ o moim prywatnym Å¼yciu z obcymi. Masz do mnie jakiÅ› interes, czy nie?}
+{182}{}{Przepraszam, nazywam siÄ™ }
+{183}{}{. Teraz, kiedy juÅ¼ siÄ™ znamy... wyglÄ…dasz na kogoÅ› w kÅ‚opotach.}
+{184}{}{Tak, interesujÄ… mnie twoje skÃ³rzane wyroby.}
 {186}{}{Chyba nie.}
-{187}{}{Czy dobrze us³ysza³em - }
-{188}{}{? Tak, ju¿ o tobie s³ysza³em. Jeden ze stra¿ników przeje¿d¿aj¹cej karawany rzuci³ kilka dobrych s³ów o osobie o takim imieniu. Wiem, ¿e dopiero co siê poznaliœmy, ale naprawdê przyda³aby mi siê twoja pomoc.}
-{189}{}{Czemu po prostu nie powiesz, w czym le¿y twój problem. Mo¿e bêdê w stanie ci pomóc.}
-{190}{}{Przykro mi, ale mam swoje w³asne problemy.}
-{191}{}{[Balthas chwyta w rêce metalowe d³uto i zaczyna je nerwowo wyginaæ. Ku twojemu zdziwieniu ¿elazo zgina siê jak plastelina. Ten cz³owiek musi byæ naprawdê silny!] Mój ch³opiec, Jonny, zagin¹³! Kilka dni temu wyszed³ siê pobawiæ i ju¿ nie wróci³. Szukaliœmy go wszêdzie, ale bez skutku.}
-{192}{}{Czy Jonny bawi³ siê sam? Wiesz, gdzie zwykle chadza³?}
-{193}{}{Przykro mi z powodu dzieciaka, ale co mogê tak naprawdê zrobiæ.}
-{194}{}{To straszne! Ale jestem tu tylko po trochê skórzanych wyrobów. Chyba mogê zobaczyæ, co masz w ofercie?}
-{195}{}{Oooch! Która to godzina. Muszê ju¿ lecieæ.}
-{196}{}{Czy to znaczy, ¿e mi pomo¿esz? Dziêkujê ci! Ostatnio widziano Jonnego, jak bawi³ siê w policjantów i z³odziei, razem ze swoim psem Laddiem. Ta dwójka jest nieroz³¹czna. Zreszt¹ w³aœnie dziêki temu zorientowaliœmy siê, ¿e coœ jest nie tak. Pewnego dnia Laddie wróci³ bez Jonny'ego. Od tamtej pory nie przestajemy szukaæ. WeŸ Laddiego ze sob¹. Mo¿e we dwójkê zdo³acie odnaleŸæ Jonny'ego.}
-{197}{}{Có¿, wygl¹dasz na kogoœ, kto jad³ z niejednego kot³a. Byæ mo¿e dziêki twoim umiejêtnoœciom zdo³asz odnaleŸæ mojego syna.}
-{198}{}{Nie ukrywam, znam siê ca³kiem nieŸle na œladach, a przynajmniej tak s¹dzê. Postaram siê pomóc.}
-{199}{}{Pochlebstwami nigdzie nie dojdziesz. S³uchaj, potrzebujê kilku informacji.}
-{200}{}{Moje modlitwy zosta³y wys³uchane! WeŸ Laddiego ze sob¹. Mo¿e oka¿e siê pomocny... I proszê ciê, poœpiesz siê!}
-{201}{}{Zapewne. Dziêki, ¿e mnie wys³ucha³eœ.}
-{202}{}{S³ysza³em o tobie. S³uchaj, nie szukamy k³opotów. Jesteœmy spokojn¹ spo³ecznoœci¹. Nasze kontakty ograniczmy tylko do handlu, OK?}
-{203}{}{Chcê ciê o coœ zapytaæ.}
-{204}{}{Chwilowo nie mam do ciebie ¿adnego interesu. Czeœæ.}
-{205}{}{Có¿... Mój syn, Jonny, zagin¹³. Szukaliœmy go ju¿ wszêdzie, ale wci¹¿ go nie mo¿emy znaleŸæ. Bojê siê, ¿e dopad³y go dzikie zwierzêta.}
-{206}{}{Mo¿e przyda siê moja pomoc. Du¿o podró¿ujê, wiêc przy okazji poszukam twojego ch³opaka.}
-{208}{}{By³bym wdziêczny za ka¿d¹, nawet najdrobniejsz¹, pomoc. Przy okazji, masz do mnie jeszcze jakiœ inny interes?}
-{210}{}{Nie, chyba nie. Bêdê ju¿ ruszaæ.}
-{211}{}{Przykro mi, ale nigdy o czymœ takim nie s³ysza³em.}
-{214}{}{Hehehe. Stary Cornelius namówi³ ciê na poszukiwania swojego zegarka? Nie, tutaj go nie znajdziesz. Ten stary piernik pewnie go gdzieœ od³o¿y³ i o tym zapomnia³.}
-{215}{}{W ka¿dym razie dziêki. Jeszcze siê trochê za nim pokrêcê.}
-{216}{}{[Balthas przypatruje ci siê z bliska, po czym na jego twarzy pojawia siê uœmiech] B¹dŸ dobrym ch³opcem i idŸ siê pobawiæ resorakami na dworze.}
-{217}{}{[Balthas przypatruje ci siê z bliska, po czym na jego twarzy pojawia siê uœmiech] B¹dŸ dobr¹ dziewczynk¹ i idŸ siê pobawiæ lalkami na dworze.}
-{218}{}{Proszê, nie przestawaj szukaæ. Czujê, ¿e Jonny nadal ¿yje!}
-{219}{}{To wiatrówka Jonny'ego. Nieeeeeeeeeeeeeeeeee! [Balthas poddaje siê i zaczyna szlochaæ]}
-{220}{}{Wiedzia³em, ¿e Jonny nie zgin¹³! Mówisz, ¿e muszê poczekaæ... Nie rozumiem! Czy on jest ranny? Mój instynkt ka¿e mi iœæ do mojego syna, ale rozs¹dek podpowiada mi, abym ci zaufa³... Proszê ciê, poœpiesz siê i przyprowadŸ mojego syna z powrotem.}
-{221}{}{Och nie! Tylko nie upiory! Wiedzia³em, ¿e powinniœmy byli wypaliæ to miejsce do go³ej ziemi. Nie pozwolê im zabraæ mojego ch³opca. Mam zamiar odzyskaæ Jonny'ego za wszelka cenê. Jestem pewien, ¿e mieszkañcy Modoc mi w tym pomog¹! Spotkajmy siê na Nawiedzonej Farmie. Wykoñczymy ich wszystkich!}
-{230}{}{Jonny zosta³ bezpiecznie sprowadzony do Modoc.}
-{240}{}{Proszê, przyprowadŸ mi bezpiecznie mojego syna.}
-{2199}{}{Tak to karabin na kulki Jonnego...Nie wierzê, ¿e nie ¿yje. Proszê, szukaj dalej. Jestem pewny, ¿e ¿yje i jest gdzieœ tam.}
+{187}{}{Czy dobrze usÅ‚yszaÅ‚em - }
+{188}{}{? Tak, juÅ¼ o tobie sÅ‚yszaÅ‚em. Jeden ze straÅ¼nikÃ³w przejeÅ¼dÅ¼ajÄ…cej karawany rzuciÅ‚ kilka dobrych sÅ‚Ã³w o osobie o takim imieniu. Wiem, Å¼e dopiero co siÄ™ poznaliÅ›my, ale naprawdÄ™ przydaÅ‚aby mi siÄ™ twoja pomoc.}
+{189}{}{Czemu po prostu nie powiesz, w czym leÅ¼y twÃ³j problem. MoÅ¼e bÄ™dÄ™ w stanie ci pomÃ³c.}
+{190}{}{Przykro mi, ale mam swoje wÅ‚asne problemy.}
+{191}{}{[Balthas chwyta w rÄ™ce metalowe dÅ‚uto i zaczyna je nerwowo wyginaÄ‡. Ku twojemu zdziwieniu Å¼elazo zgina siÄ™ jak plastelina. Ten czÅ‚owiek musi byÄ‡ naprawdÄ™ silny!] MÃ³j chÅ‚opiec, Jonny, zaginÄ…Å‚! Kilka dni temu wyszedÅ‚ siÄ™ pobawiÄ‡ i juÅ¼ nie wrÃ³ciÅ‚. SzukaliÅ›my go wszÄ™dzie, ale bez skutku.}
+{192}{}{Czy Jonny bawiÅ‚ siÄ™ sam? Wiesz, gdzie zwykle chadzaÅ‚?}
+{193}{}{Przykro mi z powodu dzieciaka, ale co mogÄ™ tak naprawdÄ™ zrobiÄ‡.}
+{194}{}{To straszne! Ale jestem tu tylko po trochÄ™ skÃ³rzanych wyrobÃ³w. Chyba mogÄ™ zobaczyÄ‡, co masz w ofercie?}
+{195}{}{Oooch! KtÃ³ra to godzina. MuszÄ™ juÅ¼ lecieÄ‡.}
+{196}{}{Czy to znaczy, Å¼e mi pomoÅ¼esz? DziÄ™kujÄ™ ci! Ostatnio widziano Jonnego, jak bawiÅ‚ siÄ™ w policjantÃ³w i zÅ‚odziei, razem ze swoim psem Laddiem. Ta dwÃ³jka jest nierozÅ‚Ä…czna. ZresztÄ… wÅ‚aÅ›nie dziÄ™ki temu zorientowaliÅ›my siÄ™, Å¼e coÅ› jest nie tak. Pewnego dnia Laddie wrÃ³ciÅ‚ bez Jonny'ego. Od tamtej pory nie przestajemy szukaÄ‡. WeÅº Laddiego ze sobÄ…. MoÅ¼e we dwÃ³jkÄ™ zdoÅ‚acie odnaleÅºÄ‡ Jonny'ego.}
+{197}{}{CÃ³Å¼, wyglÄ…dasz na kogoÅ›, kto jadÅ‚ z niejednego kotÅ‚a. ByÄ‡ moÅ¼e dziÄ™ki twoim umiejÄ™tnoÅ›ciom zdoÅ‚asz odnaleÅºÄ‡ mojego syna.}
+{198}{}{Nie ukrywam, znam siÄ™ caÅ‚kiem nieÅºle na Å›ladach, a przynajmniej tak sÄ…dzÄ™. Postaram siÄ™ pomÃ³c.}
+{199}{}{Pochlebstwami nigdzie nie dojdziesz. SÅ‚uchaj, potrzebujÄ™ kilku informacji.}
+{200}{}{Moje modlitwy zostaÅ‚y wysÅ‚uchane! WeÅº Laddiego ze sobÄ…. MoÅ¼e okaÅ¼e siÄ™ pomocny... I proszÄ™ ciÄ™, poÅ›piesz siÄ™!}
+{201}{}{Zapewne. DziÄ™ki, Å¼e mnie wysÅ‚uchaÅ‚eÅ›.}
+{202}{}{SÅ‚yszaÅ‚em o tobie. SÅ‚uchaj, nie szukamy kÅ‚opotÃ³w. JesteÅ›my spokojnÄ… spoÅ‚ecznoÅ›ciÄ…. Nasze kontakty ograniczmy tylko do handlu, OK?}
+{203}{}{ChcÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{204}{}{Chwilowo nie mam do ciebie Å¼adnego interesu. CzeÅ›Ä‡.}
+{205}{}{CÃ³Å¼... MÃ³j syn, Jonny, zaginÄ…Å‚. SzukaliÅ›my go juÅ¼ wszÄ™dzie, ale wciÄ…Å¼ go nie moÅ¼emy znaleÅºÄ‡. BojÄ™ siÄ™, Å¼e dopadÅ‚y go dzikie zwierzÄ™ta.}
+{206}{}{MoÅ¼e przyda siÄ™ moja pomoc. DuÅ¼o podrÃ³Å¼ujÄ™, wiÄ™c przy okazji poszukam twojego chÅ‚opaka.}
+{208}{}{ByÅ‚bym wdziÄ™czny za kaÅ¼dÄ…, nawet najdrobniejszÄ…, pomoc. Przy okazji, masz do mnie jeszcze jakiÅ› inny interes?}
+{210}{}{Nie, chyba nie. BÄ™dÄ™ juÅ¼ ruszaÄ‡.}
+{211}{}{Przykro mi, ale nigdy o czymÅ› takim nie sÅ‚yszaÅ‚em.}
+{214}{}{Hehehe. Stary Cornelius namÃ³wiÅ‚ ciÄ™ na poszukiwania swojego zegarka? Nie, tutaj go nie znajdziesz. Ten stary piernik pewnie go gdzieÅ› odÅ‚oÅ¼yÅ‚ i o tym zapomniaÅ‚.}
+{215}{}{W kaÅ¼dym razie dziÄ™ki. Jeszcze siÄ™ trochÄ™ za nim pokrÄ™cÄ™.}
+{216}{}{[Balthas przypatruje ci siÄ™ z bliska, po czym na jego twarzy pojawia siÄ™ uÅ›miech] BÄ…dÅº dobrym chÅ‚opcem i idÅº siÄ™ pobawiÄ‡ resorakami na dworze.}
+{217}{}{[Balthas przypatruje ci siÄ™ z bliska, po czym na jego twarzy pojawia siÄ™ uÅ›miech] BÄ…dÅº dobrÄ… dziewczynkÄ… i idÅº siÄ™ pobawiÄ‡ lalkami na dworze.}
+{218}{}{ProszÄ™, nie przestawaj szukaÄ‡. CzujÄ™, Å¼e Jonny nadal Å¼yje!}
+{219}{}{To wiatrÃ³wka Jonny'ego. Nieeeeeeeeeeeeeeeeee! [Balthas poddaje siÄ™ i zaczyna szlochaÄ‡]}
+{220}{}{WiedziaÅ‚em, Å¼e Jonny nie zginÄ…Å‚! MÃ³wisz, Å¼e muszÄ™ poczekaÄ‡... Nie rozumiem! Czy on jest ranny? MÃ³j instynkt kaÅ¼e mi iÅ›Ä‡ do mojego syna, ale rozsÄ…dek podpowiada mi, abym ci zaufaÅ‚... ProszÄ™ ciÄ™, poÅ›piesz siÄ™ i przyprowadÅº mojego syna z powrotem.}
+{221}{}{Och nie! Tylko nie upiory! WiedziaÅ‚em, Å¼e powinniÅ›my byli wypaliÄ‡ to miejsce do goÅ‚ej ziemi. Nie pozwolÄ™ im zabraÄ‡ mojego chÅ‚opca. Mam zamiar odzyskaÄ‡ Jonny'ego za wszelka cenÄ™. Jestem pewien, Å¼e mieszkaÅ„cy Modoc mi w tym pomogÄ…! Spotkajmy siÄ™ na Nawiedzonej Farmie. WykoÅ„czymy ich wszystkich!}
+{230}{}{Jonny zostaÅ‚ bezpiecznie sprowadzony do Modoc.}
+{240}{}{ProszÄ™, przyprowadÅº mi bezpiecznie mojego syna.}
+{2199}{}{Tak to karabin na kulki Jonnego...Nie wierzÄ™, Å¼e nie Å¼yje. ProszÄ™, szukaj dalej. Jestem pewny, Å¼e Å¼yje i jest gdzieÅ› tam.}

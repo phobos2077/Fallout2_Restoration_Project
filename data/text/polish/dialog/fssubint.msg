@@ -1,4 +1,4 @@
-{100}{}{Potykasz siê i ranisz o wystaj¹cy, ostry kawa³ek metalu.}
-{101}{}{Jakieœ stare kable uderzy³y ciê w twarz.}
-{102}{}{Twoja noga wpada przez zardzewia³e okratowanie. Uwalniasz siê, ale ranisz przy tym nogê.}
-{103}{}{Smród rdzy i zgnilizny jest powalaj¹cy. Masz problemy ze swobodnym oddychaniem i uderzasz siê o wystaj¹cy prêt. Au.}
+{100}{}{Potykasz siÄ™ i ranisz o wystajÄ…cy, ostry kawaÅ‚ek metalu.}
+{101}{}{JakieÅ› stare kable uderzyÅ‚y ciÄ™ w twarz.}
+{102}{}{Twoja noga wpada przez zardzewiaÅ‚e okratowanie. Uwalniasz siÄ™, ale ranisz przy tym nogÄ™.}
+{103}{}{SmrÃ³d rdzy i zgnilizny jest powalajÄ…cy. Masz problemy ze swobodnym oddychaniem i uderzasz siÄ™ o wystajÄ…cy prÄ™t. Au.}

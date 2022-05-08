@@ -1,20 +1,20 @@
-{100}{}{Bokszoló.}
+{100}{}{BokszolÃ³.}
 {101}{}{You see Pete "The Hurricane" McKneely.}
-{150}{}{Egy izomkolosszusnak beill? fehér férfit látsz. Látszólag. Olyan gyenge ugyanis, hogy egy szelet pizzával is kiüthetnéd.}
-{151}{}{Az állkapcsa úgy fénylik, mint az üveg.}
-{152}{}{Olyannak t?nik, mint aki hét másodpercet sem bírna ki a szorítóban.}
-{153}{}{Ez az ember olyan gyenge, hogy egy szelet pizzával is kiüthetnéd.}
+{150}{}{Egy izomkolosszusnak beill? fehÃ©r fÃ©rfit lÃ¡tsz. LÃ¡tszÃ³lag. Olyan gyenge ugyanis, hogy egy szelet pizzÃ¡val is kiÃ¼thetnÃ©d.}
+{151}{}{Az Ã¡llkapcsa Ãºgy fÃ©nylik, mint az Ã¼veg.}
+{152}{}{Olyannak t?nik, mint aki hÃ©t mÃ¡sodpercet sem bÃ­rna ki a szorÃ­tÃ³ban.}
+{153}{}{Ez az ember olyan gyenge, hogy egy szelet pizzÃ¡val is kiÃ¼thetnÃ©d.}
 {200}{}{*Hnffff*}
 {201}{}{*Hnrggg*}
-{202}{}{::Befeszít::}
-{203}{}{Tanácstalan vagyok.}
-{204}{}{Fáradt vagyok.}
+{202}{}{::BefeszÃ­t::}
+{203}{}{TanÃ¡cstalan vagyok.}
+{204}{}{FÃ¡radt vagyok.}
 {205}{}{*Phewwww* Rough day.}
 {206}{}{Working out always makes me tired.}
 {207}{}{Fighting exhausts me.}
 {208}{}{Better go polish my glass jaw.}
-{300}{}{::A bokszoló rádnéz, és eltakarja az állkapcsát::}
-{301}{}{::A bokszoló rádnéz, és megdörzsöli az állkapcsát::}
+{300}{}{::A bokszolÃ³ rÃ¡dnÃ©z, Ã©s eltakarja az Ã¡llkapcsÃ¡t::}
+{301}{}{::A bokszolÃ³ rÃ¡dnÃ©z, Ã©s megdÃ¶rzsÃ¶li az Ã¡llkapcsÃ¡t::}
 {302}{}{Working out always makes me tired.}
 {303}{}{I'm okay if my manager can come in the ring and stop the fight.}
 {304}{}{Pete vagyok. Pete McKneely, a "Vesztes".}

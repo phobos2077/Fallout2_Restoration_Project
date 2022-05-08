@@ -1,1 +1,1 @@
-{100}{}{Tu n'obtiens aucune réponse de la part du garde.}
+{100}{}{Tu n'obtiens aucune rÃ©ponse de la part du garde.}

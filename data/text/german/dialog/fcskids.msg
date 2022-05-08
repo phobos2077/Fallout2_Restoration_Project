@@ -11,23 +11,23 @@
 {110}{}{Ich geh jetzt spielen.}
 {111}{}{Ha ha! Vierauge!}
 {112}{}{Trottelalarm! Trottelalarm!}
-{113}{}{::das Kind bekommt ganz große Augen, als Marcus vorbeimarschiert::}
-{114}{}{Was für ein großer grüner Mann.}
-{115}{}{Wieso trägt der Mann 'n Rock?}
-{116}{}{Will der Mann ein Mädchen sein?}
+{113}{}{::das Kind bekommt ganz groÃŸe Augen, als Marcus vorbeimarschiert::}
+{114}{}{Was fÃ¼r ein groÃŸer grÃ¼ner Mann.}
+{115}{}{Wieso trÃ¤gt der Mann 'n Rock?}
+{116}{}{Will der Mann ein MÃ¤dchen sein?}
 {117}{}{Iiieh! Ein Sippentyp!}
 {118}{}{Hey du! Du hast ja 'n Knochen in der Nase!}
 {119}{}{Iiieh! Ein Zombie!}
 {120}{}{Mami, ist der Mann ansteckend?}
-{121}{}{Gutes Hündchen! Braver Kerl!}
+{121}{}{Gutes HÃ¼ndchen! Braver Kerl!}
 {122}{}{Iiieh! Ein Monster!}
 {123}{}{Guckma, der Trottel lauftmit!}
 {124}{}{Ist das deine Mami?}
 {125}{}{Hilfe! Ein Roboter ist hinter mir her!}
 {126}{}{Hilfe! Ein Roboter ist hinter mir her!}
-{127}{}{Wird's da drinnen heiß? Hallo? Kannst du mich hören?}
+{127}{}{Wird's da drinnen heiÃŸ? Hallo? Kannst du mich hÃ¶ren?}
 {128}{}{Was bist du? Bist du ein Mensch?}
-{129}{}{Wie furchtbar groß du bist!}
+{129}{}{Wie furchtbar groÃŸ du bist!}
 {130}{}{Waaaaaah!}
 {131}{}{Tu mir nicht weh!}
 {132}{}{::weint::}

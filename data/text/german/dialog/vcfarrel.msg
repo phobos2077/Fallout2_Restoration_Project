@@ -1,56 +1,56 @@
-{100}{}{Du siehst einen Bürger in einem hellen blauen Overall. Es sieht wie Vaultbewohner-Overall aus, aber es ist keine
+{100}{}{Du siehst einen BÃ¼rger in einem hellen blauen Overall. Es sieht wie Vaultbewohner-Overall aus, aber es ist keine
  Nummer hinten drauf.}
-{101}{}{Du siehst Offizier Holden vom Büro für Annehmlichkeiten.}
-{102}{}{Du siehst einen Bürger in einem hellen blauen Overall. Es sieht wie Vaultbewohner-Overall aus, aber es ist keine
+{101}{}{Du siehst Offizier Holden vom BÃ¼ro fÃ¼r Annehmlichkeiten.}
+{102}{}{Du siehst einen BÃ¼rger in einem hellen blauen Overall. Es sieht wie Vaultbewohner-Overall aus, aber es ist keine
  Nummer hinten drauf.}
 {103}{}{::Beifall::}
 {104}{}{Es ist der Held! Schau!}
 {105}{}{Wie ich gesagt habe! Es ist der Held, hier, in Vault City!}
 {106}{}{Guten Tag, Hauptmann.}
 {107}{}{Vault City wird bestehen, Hauptmann.}
-{108}{}{Guten Tag, Bürger.}
-{109}{}{Vault City wird bestehen, Bürger.}
+{108}{}{Guten Tag, BÃ¼rger.}
+{109}{}{Vault City wird bestehen, BÃ¼rger.}
 {110}{}{Ein Mutant! Wache! Wache!}
 {111}{}{Ein Ghul! Wache! Wache!}
 {112}{}{Mal sehn... drei Stimpaks, eine Schachtel Rad-X...}
-{113}{}{Ich muss noch diese Bestandsaufnahme für Offizier Randal machen.}
-{114}{}{Mal sehn: das Lager durchsehen, den Bestand auflisten, die Liste nachprüfen und dann die
+{113}{}{Ich muss noch diese Bestandsaufnahme fÃ¼r Offizier Randal machen.}
+{114}{}{Mal sehn: das Lager durchsehen, den Bestand auflisten, die Liste nachprÃ¼fen und dann die
  Liste ins System eingeben...}
-{115}{}{Ich sollte noch ein paar Erste-Hilfe-Kästen sicherstellen...}
-{119}{}{Tut mir leid, das Büro für Annehmlichkeiten ist abends geschlossen.}
-{120}{}{Bitte komm morgen früh wieder. Danke schön.}
-{121}{}{Wir haben gerade Inventur. Wir machen morgen früh wieder auf.}
+{115}{}{Ich sollte noch ein paar Erste-Hilfe-KÃ¤sten sicherstellen...}
+{119}{}{Tut mir leid, das BÃ¼ro fÃ¼r Annehmlichkeiten ist abends geschlossen.}
+{120}{}{Bitte komm morgen frÃ¼h wieder. Danke schÃ¶n.}
+{121}{}{Wir haben gerade Inventur. Wir machen morgen frÃ¼h wieder auf.}
 {122}{}{Kann ich dir helfen, Hauptmann?}
-{123}{}{Kann ich dir helfen, Bürger?}
+{123}{}{Kann ich dir helfen, BÃ¼rger?}
 {124}{}{Was gibt es?}
-{125}{}{Kan ig di hälfn}
+{125}{}{Kan ig di hÃ¤lfn}
 {126}{}{Verzieh dich}
-{127}{}{Was ist das für ein Ort?}
+{127}{}{Was ist das fÃ¼r ein Ort?}
 {128}{}{Zeigst du mir, was du im Angebot hast?}
 {129}{}{Heute nichts, danke.}
 {130}{}{Toll, noch so'n Outsider... Wache! Hier ist ein Outsider, der gerne zum Ausgang geleitet
- werden möchte! Wache!}
+ werden mÃ¶chte! Wache!}
 {131}{}{NIX MAG WACKEN. DU TOT.}
 {132}{}{*Seufz* Ick GEH mit WACKEN }
-{133}{}{Geh nächstes Mal lieber in den Laden im Vorhof vor der Stadt. Die haben da sicher alles,
+{133}{}{Geh nÃ¤chstes Mal lieber in den Laden im Vorhof vor der Stadt. Die haben da sicher alles,
  was ihr... Outsider so braucht.}
-{134}{}{Äh, danke.}
+{134}{}{Ã„h, danke.}
 {135}{}{Ich kauf da ein, wo's mir passt, kapiert?}
-{136}{}{Danke schön. Vault City lebe hoch, Bürger.}
-{137}{}{Danke schön. Vault City lebe hoch, Hauptmann.}
-{138}{}{Vault City wird bestehen, Bürger.}
-{139}{}{Guten Tag, Bürger.}
-{140}{}{Das ist die Nebenstelle B des Büros für Annehmlichkeiten. Hier werden Medikamente zur
- Verteilung in Vault City aufbewahrt. Ich bin Offizier Holden vom Büro für Annehmlichkeiten.
- Womit kann ich dienen, Bürger?}
-{141}{}{Das hier ist Nebenstelle B des Büros für Annehmlichkeiten... wir sind für die Verteilung
- von Medikamenten für Vault City verantwortlich. Vielleicht wolltest du ja woanders hin.}
+{136}{}{Danke schÃ¶n. Vault City lebe hoch, BÃ¼rger.}
+{137}{}{Danke schÃ¶n. Vault City lebe hoch, Hauptmann.}
+{138}{}{Vault City wird bestehen, BÃ¼rger.}
+{139}{}{Guten Tag, BÃ¼rger.}
+{140}{}{Das ist die Nebenstelle B des BÃ¼ros fÃ¼r Annehmlichkeiten. Hier werden Medikamente zur
+ Verteilung in Vault City aufbewahrt. Ich bin Offizier Holden vom BÃ¼ro fÃ¼r Annehmlichkeiten.
+ Womit kann ich dienen, BÃ¼rger?}
+{141}{}{Das hier ist Nebenstelle B des BÃ¼ros fÃ¼r Annehmlichkeiten... wir sind fÃ¼r die Verteilung
+ von Medikamenten fÃ¼r Vault City verantwortlich. Vielleicht wolltest du ja woanders hin.}
 {142}{}{Zeigst du mir, was du im Angebot hast?}
 {143}{}{Nein, nein. Genau hier wollte ich hin. Kann mal sehen, was ihr am Lager habt?}
 {144}{}{Heute nichts, danke.}
 {145}{}{Kann schon sein. Auf Wiedersehen.}
-{150}{}{Das hier ist die Nebenstelle B des Büros für Annehmlichkeiten. Hier werden Medikamente
- zur Verteilung in Vault City aufbewahrt. Ich bin Offizier Holden vom Büro für Annehmlichkeiten.
+{150}{}{Das hier ist die Nebenstelle B des BÃ¼ros fÃ¼r Annehmlichkeiten. Hier werden Medikamente
+ zur Verteilung in Vault City aufbewahrt. Ich bin Offizier Holden vom BÃ¼ro fÃ¼r Annehmlichkeiten.
  Womit kann ich dienen, Hauptmann?}
 {151}{}{Hey! Weg da!}
 {152}{}{Das reicht! Mach, dass du wegkommst!}

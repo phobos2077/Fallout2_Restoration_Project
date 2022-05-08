@@ -1,7 +1,7 @@
 {100}{}{Widzisz niewielki stos kamieni.}
-{101}{}{Widzisz ma³y stos kamieni. Wygl¹daj¹ prawie jakby by³y tu celowo u³o¿one.}
+{101}{}{Widzisz maÅ‚y stos kamieni. WyglÄ…dajÄ… prawie jakby byÅ‚y tu celowo uÅ‚oÅ¼one.}
 {102}{}{To tylko kupa kamieni.}
-{103}{}{Hej! Uda³o mi siê znaleŸæ klucz francuski!}
+{103}{}{Hej! UdaÅ‚o mi siÄ™ znaleÅºÄ‡ klucz francuski!}
 {104}{}{Nic innego tu nie ma.}
-{110}{}{Hej! Ja tu znaleŸæ narzêdzie.}
-{111}{}{Ja nie znaleŸæ wiêcej skarbów.}
+{110}{}{Hej! Ja tu znaleÅºÄ‡ narzÄ™dzie.}
+{111}{}{Ja nie znaleÅºÄ‡ wiÄ™cej skarbÃ³w.}

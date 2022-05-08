@@ -1,201 +1,201 @@
-{100}{}{Widzisz Angelê Bishop.}
-{101}{}{Widzisz wydzieraj¹c¹ siê Angelê Bishop.}
-{150}{}{Widzisz atrakcyjn¹ m³od¹ kobietê w obcis³ej skórze.}
-{151}{}{Widzisz Angelê Bishop. Kiedy zauwa¿a, ¿e siê jej przygl¹dasz, powoli oblizuje swoje wargi.}
-{152}{}{Widzisz Angelê Bishop. Patrzy na ciebie z obrzydzeniem.}
-{175}{}{Widzisz m³od¹ kobietê w obcis³ej skórze. Jak na dziwkê wygl¹da zbyt inteligentnie.}
-{176}{}{Widzisz Angelê Bishop, która rzuca ci szydercze spojrzenie.}
-{200}{}{Mój ojciec ZABIJE ciê, kiedy us³yszy jak mnie potraktowa³eœ.}
-{205}{}{WIEM, ¿e to ty to zrobi³eœ. Znajdê jakiœ sposób, ¿eby ciê dorwaæ za to, co zrobi³eœ ojcu.}
-{210}{}{Hmmpf. Czy¿ to nie nasza wielka bohaterka?}
-{215}{}{Lepiej módl siê, ¿eby ciê to ¿elastwo nie przewróci³o na pod³ogê, rupieciu.}
-{220}{}{NUDZÊ siê.}
-{221}{}{Czeœæ wszystkim.}
-{222}{}{Ty. Porozmawiaj ze mn¹. Teraz.}
-{223}{}{Ty. ChodŸ tu. Ju¿.}
+{100}{}{Widzisz AngelÄ™ Bishop.}
+{101}{}{Widzisz wydzierajÄ…cÄ… siÄ™ AngelÄ™ Bishop.}
+{150}{}{Widzisz atrakcyjnÄ… mÅ‚odÄ… kobietÄ™ w obcisÅ‚ej skÃ³rze.}
+{151}{}{Widzisz AngelÄ™ Bishop. Kiedy zauwaÅ¼a, Å¼e siÄ™ jej przyglÄ…dasz, powoli oblizuje swoje wargi.}
+{152}{}{Widzisz AngelÄ™ Bishop. Patrzy na ciebie z obrzydzeniem.}
+{175}{}{Widzisz mÅ‚odÄ… kobietÄ™ w obcisÅ‚ej skÃ³rze. Jak na dziwkÄ™ wyglÄ…da zbyt inteligentnie.}
+{176}{}{Widzisz AngelÄ™ Bishop, ktÃ³ra rzuca ci szydercze spojrzenie.}
+{200}{}{MÃ³j ojciec ZABIJE ciÄ™, kiedy usÅ‚yszy jak mnie potraktowaÅ‚eÅ›.}
+{205}{}{WIEM, Å¼e to ty to zrobiÅ‚eÅ›. ZnajdÄ™ jakiÅ› sposÃ³b, Å¼eby ciÄ™ dorwaÄ‡ za to, co zrobiÅ‚eÅ› ojcu.}
+{210}{}{Hmmpf. CzyÅ¼ to nie nasza wielka bohaterka?}
+{215}{}{Lepiej mÃ³dl siÄ™, Å¼eby ciÄ™ to Å¼elastwo nie przewrÃ³ciÅ‚o na podÅ‚ogÄ™, rupieciu.}
+{220}{}{NUDZÄ˜ siÄ™.}
+{221}{}{CzeÅ›Ä‡ wszystkim.}
+{222}{}{Ty. Porozmawiaj ze mnÄ…. Teraz.}
+{223}{}{Ty. ChodÅº tu. JuÅ¼.}
 {224}{}{Mniam.}
 {225}{}{Hmmmm.}
-{226}{}{Proszê, proszê...}
-{230}{}{NUDZÊ siê.}
+{226}{}{ProszÄ™, proszÄ™...}
+{230}{}{NUDZÄ˜ siÄ™.}
 {231}{}{To chyba nowa dziwka tatusia...}
 {232}{}{Jedna z tych tanich suczek tatusia...}
-{240}{}{Nie widzia³am CIEBIE tu wczeœniej. Jak masz na imiê, nieznajomy? (uœmiecha siê pod nosem) W³aœciwie to niewa¿ne, nie chcê tego wiedzieæ. Jesteœ tak samo znudzony jak ja?}
+{240}{}{Nie widziaÅ‚am CIEBIE tu wczeÅ›niej. Jak masz na imiÄ™, nieznajomy? (uÅ›miecha siÄ™ pod nosem) WÅ‚aÅ›ciwie to niewaÅ¼ne, nie chcÄ™ tego wiedzieÄ‡. JesteÅ› tak samo znudzony jak ja?}
 {241}{}{Znowu ty. Znudzony?}
-{242}{}{Jum jum ja lubiê jum}
-{243}{}{Kiedyœ towarzyszy³ mi ktoœ o imieniu Ian. Ci¹gle trafia³ mnie seri¹ w plecy.}
-{244}{}{Ja znudzony te¿.}
-{245}{}{Nieee ja musi iœæ ju¿}
+{242}{}{Jum jum ja lubiÄ™ jum}
+{243}{}{KiedyÅ› towarzyszyÅ‚ mi ktoÅ› o imieniu Ian. CiÄ…gle trafiaÅ‚ mnie seriÄ… w plecy.}
+{244}{}{Ja znudzony teÅ¼.}
+{245}{}{Nieee ja musi iÅ›Ä‡ juÅ¼}
 {246}{}{Nie.}
 {247}{}{Tak.}
-{248}{}{Uch... czemu siê na mnie patrzysz w ten sposób?}
-{249}{}{Mo¿e i jestem znudzony. A co ksiê¿niczko, szukasz wra¿eñ?}
-{250}{}{W sumie nie. Jest parê miejsc, które muszê odwiedziæ.}
-{260}{}{Och, to siê ZAPOWIADA interesuj¹co. ChodŸ ze mn¹, poka¿ê ci mój pokój.}
-{261}{}{'brze ³adna dziewczynko.}
-{262}{}{Uch... bêdziemy siê bawiæ?}
-{263}{}{Ja nie iœæ.}
-{270}{}{¯ebyœ wiedzia³. No chodŸ.}
-{271}{}{Ja iœæ.}
-{272}{}{Ja lubiæ siê bawiæ, ale tylko sam ze sob¹.}
-{280}{}{Dok³adnie...}
-{281}{}{[IdŸ za ni¹.]}
-{290}{}{Oj, daj spokój. Prooooszê! Naprawdê chcia³am pokazaæ ci mój pokój. To zajmie tylko minutkê, obiecujê.}
-{291}{}{Nie iœæ! Ja nie iœæ! Nie daæ siê iœæ! Nie braæ ja w z³e miejsce! Nie!}
-{292}{}{Obrze. Ja nie chcieæ ty smutna. Ja iœæ.}
-{293}{}{JA ODEJŒÆ PRZESTAÆ MÓWIÆ DO JA.}
-{300}{}{Dosyæ tego, g³upku! Wynoœ siê st¹d! ::Idiota.::}
-{310}{}{NOWY, czy co? Jestem Angela BISHOP. Mój tato jest G£OW¥ rodziny Bishopów.}
-{311}{}{Pracujesz dla niego, co oznacza, ¿e pracujesz dla MNIE. }
-{312}{}{Lepiej rób co mówiê, a mówiê, ¿e masz iœæ ze mn¹. Natychmiast.}
-{313}{}{Masz racjê: twój tato JEST g³ow¹ rodziny Bishopów. Oto dlaczego nigdzie nie pójdziemy.}
-{314}{}{No dobra, skoro wykorzystujesz swoj¹ pozycjê i w ogóle... chodŸmy.}
-{315}{}{To nie to, ¿e nie czujê siê DOCENIONY, ale...}
-{316}{}{Nie. Za pierwszym razem mówi³em powa¿nie.}
-{317}{}{Nie ma mowy, skarbie. IdŸ sobie zanim dam ci klapsa.}
-{318}{}{Wyjaœnijmy sobie jedn¹ rzecz, ksiê¿niczko: to ja wydajê rozkazy, a ty siê s³uchasz.}
-{320}{}{Jeœli siê nudzisz, ksiê¿niczko... stañ na rêkach i zrób salto. Spadam st¹d.}
-{330}{}{Jeszcze po¿a³ujesz, ¿e mnie odrzuci³eœ. Nied³ugo tato dowie siê o tobie ca³ego MNÓSTWA rzeczy. Tylko poczekaj.}
-{340}{}{A co? Czy ja na ciebie dzia³am? (Robi krok w twoj¹ stronê, a jej g³os opada.) Czy ja robiê na tobie... DU¯E wra¿enie?}
-{341}{}{Zupe³nie nic.}
-{342}{}{Dziewczyno, jesteœ jednym wielkim k³opotem. Skoñczmy z tym natychmiast.}
-{343}{}{Przepraszam, mo¿esz siê troszkê odsun¹æ?}
-{344}{}{Tia, robi siê coraz wiêksze. Mo¿esz pomóc mi coœ z tym zrobiæ?}
-{345}{}{Nie, muszê ju¿ iœæ.}
-{350}{}{(Robi jeszcze jeden krok w twoj¹ stronê, prawie ciê dotykaj¹c). Nie ZAMIERZAM. Co masz zamiar z tym zrobiæ?}
-{352}{}{Nic. S³uchaj, odsuñ siê. Nie jestem w humorze.}
-{353}{}{Odsuñ siê. NIE jestem w humorze na te wszystkie bzdury o niegrzecznych dziewczynkach, s³yszysz?}
-{354}{}{Co TY masz zamiar z tym zrobiæ? Gadasz jak trzeba, ale czy umiesz zrobiæ to jak trzeba?}
-{360}{}{Pewnie ze mogê. }
-{361}{}{S³uchaj: mam w pokoju trochê Jetu... i to NIE jest to psie gówno dla tanich dziwek i ¿uli. Chcesz sobie polataæ?}
+{248}{}{Uch... czemu siÄ™ na mnie patrzysz w ten sposÃ³b?}
+{249}{}{MoÅ¼e i jestem znudzony. A co ksiÄ™Å¼niczko, szukasz wraÅ¼eÅ„?}
+{250}{}{W sumie nie. Jest parÄ™ miejsc, ktÃ³re muszÄ™ odwiedziÄ‡.}
+{260}{}{Och, to siÄ™ ZAPOWIADA interesujÄ…co. ChodÅº ze mnÄ…, pokaÅ¼Ä™ ci mÃ³j pokÃ³j.}
+{261}{}{'brze Å‚adna dziewczynko.}
+{262}{}{Uch... bÄ™dziemy siÄ™ bawiÄ‡?}
+{263}{}{Ja nie iÅ›Ä‡.}
+{270}{}{Å»ebyÅ› wiedziaÅ‚. No chodÅº.}
+{271}{}{Ja iÅ›Ä‡.}
+{272}{}{Ja lubiÄ‡ siÄ™ bawiÄ‡, ale tylko sam ze sobÄ….}
+{280}{}{DokÅ‚adnie...}
+{281}{}{[IdÅº za niÄ….]}
+{290}{}{Oj, daj spokÃ³j. ProoooszÄ™! NaprawdÄ™ chciaÅ‚am pokazaÄ‡ ci mÃ³j pokÃ³j. To zajmie tylko minutkÄ™, obiecujÄ™.}
+{291}{}{Nie iÅ›Ä‡! Ja nie iÅ›Ä‡! Nie daÄ‡ siÄ™ iÅ›Ä‡! Nie braÄ‡ ja w zÅ‚e miejsce! Nie!}
+{292}{}{Obrze. Ja nie chcieÄ‡ ty smutna. Ja iÅ›Ä‡.}
+{293}{}{JA ODEJÅšÄ† PRZESTAÄ† MÃ“WIÄ† DO JA.}
+{300}{}{DosyÄ‡ tego, gÅ‚upku! WynoÅ› siÄ™ stÄ…d! ::Idiota.::}
+{310}{}{NOWY, czy co? Jestem Angela BISHOP. MÃ³j tato jest GÅOWÄ„ rodziny BishopÃ³w.}
+{311}{}{Pracujesz dla niego, co oznacza, Å¼e pracujesz dla MNIE. }
+{312}{}{Lepiej rÃ³b co mÃ³wiÄ™, a mÃ³wiÄ™, Å¼e masz iÅ›Ä‡ ze mnÄ…. Natychmiast.}
+{313}{}{Masz racjÄ™: twÃ³j tato JEST gÅ‚owÄ… rodziny BishopÃ³w. Oto dlaczego nigdzie nie pÃ³jdziemy.}
+{314}{}{No dobra, skoro wykorzystujesz swojÄ… pozycjÄ™ i w ogÃ³le... chodÅºmy.}
+{315}{}{To nie to, Å¼e nie czujÄ™ siÄ™ DOCENIONY, ale...}
+{316}{}{Nie. Za pierwszym razem mÃ³wiÅ‚em powaÅ¼nie.}
+{317}{}{Nie ma mowy, skarbie. IdÅº sobie zanim dam ci klapsa.}
+{318}{}{WyjaÅ›nijmy sobie jednÄ… rzecz, ksiÄ™Å¼niczko: to ja wydajÄ™ rozkazy, a ty siÄ™ sÅ‚uchasz.}
+{320}{}{JeÅ›li siÄ™ nudzisz, ksiÄ™Å¼niczko... staÅ„ na rÄ™kach i zrÃ³b salto. Spadam stÄ…d.}
+{330}{}{Jeszcze poÅ¼aÅ‚ujesz, Å¼e mnie odrzuciÅ‚eÅ›. NiedÅ‚ugo tato dowie siÄ™ o tobie caÅ‚ego MNÃ“STWA rzeczy. Tylko poczekaj.}
+{340}{}{A co? Czy ja na ciebie dziaÅ‚am? (Robi krok w twojÄ… stronÄ™, a jej gÅ‚os opada.) Czy ja robiÄ™ na tobie... DUÅ»E wraÅ¼enie?}
+{341}{}{ZupeÅ‚nie nic.}
+{342}{}{Dziewczyno, jesteÅ› jednym wielkim kÅ‚opotem. SkoÅ„czmy z tym natychmiast.}
+{343}{}{Przepraszam, moÅ¼esz siÄ™ troszkÄ™ odsunÄ…Ä‡?}
+{344}{}{Tia, robi siÄ™ coraz wiÄ™ksze. MoÅ¼esz pomÃ³c mi coÅ› z tym zrobiÄ‡?}
+{345}{}{Nie, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{350}{}{(Robi jeszcze jeden krok w twojÄ… stronÄ™, prawie ciÄ™ dotykajÄ…c). Nie ZAMIERZAM. Co masz zamiar z tym zrobiÄ‡?}
+{352}{}{Nic. SÅ‚uchaj, odsuÅ„ siÄ™. Nie jestem w humorze.}
+{353}{}{OdsuÅ„ siÄ™. NIE jestem w humorze na te wszystkie bzdury o niegrzecznych dziewczynkach, sÅ‚yszysz?}
+{354}{}{Co TY masz zamiar z tym zrobiÄ‡? Gadasz jak trzeba, ale czy umiesz zrobiÄ‡ to jak trzeba?}
+{360}{}{Pewnie ze mogÄ™. }
+{361}{}{SÅ‚uchaj: mam w pokoju trochÄ™ Jetu... i to NIE jest to psie gÃ³wno dla tanich dziwek i Å¼uli. Chcesz sobie polataÄ‡?}
 {362}{}{Pewnie. Kochanie, zapnij pasy.}
-{363}{}{Z chêcia wybiorê siê na przeja¿d¿kê.}
-{364}{}{Twój ojciec wie, ¿e bierzesz to gówno?}
-{365}{}{Zmieni³em zdanie. Nie, dziêkujê.}
-{366}{}{Niee, chcia³em tylko zobaczyæ, czy rzeczywiœcie jesteœ tak¹ kurw¹ jak mi siê wydawa³o. PóŸniej ksiê¿niczko.}
-{370}{}{Lepiej pilnuj jêzyka, gdy do mnie mówisz. Jestem Angela BISHOP. Mój tato jest G£OW¥ rodziny Bishopów. Bêdziesz zwracaæ siê do mnie z takim samym szacunkiem jak do niego, albo bêd¹ ciê zdrapywali ze œciany. ZROZUMIANO?}
-{371}{}{Taak, rozumiem, ¿e potrzebny ci ktoœ, kto ci poka¿e twoje miejsce KSIÊ¯NICZKO, i to ja jestem facetem, który to zrobi.}
-{372}{}{Zrozumiano. Cieszê siê, ¿e wyjaœniliœmy sobie te wszystkie powi¹zania rodzinne.}
-{373}{}{Uspokój siê. Tylko tak siê nabijam.}
+{363}{}{Z chÄ™cia wybiorÄ™ siÄ™ na przejaÅ¼dÅ¼kÄ™.}
+{364}{}{TwÃ³j ojciec wie, Å¼e bierzesz to gÃ³wno?}
+{365}{}{ZmieniÅ‚em zdanie. Nie, dziÄ™kujÄ™.}
+{366}{}{Niee, chciaÅ‚em tylko zobaczyÄ‡, czy rzeczywiÅ›cie jesteÅ› takÄ… kurwÄ… jak mi siÄ™ wydawaÅ‚o. PÃ³Åºniej ksiÄ™Å¼niczko.}
+{370}{}{Lepiej pilnuj jÄ™zyka, gdy do mnie mÃ³wisz. Jestem Angela BISHOP. MÃ³j tato jest GÅOWÄ„ rodziny BishopÃ³w. BÄ™dziesz zwracaÄ‡ siÄ™ do mnie z takim samym szacunkiem jak do niego, albo bÄ™dÄ… ciÄ™ zdrapywali ze Å›ciany. ZROZUMIANO?}
+{371}{}{Taak, rozumiem, Å¼e potrzebny ci ktoÅ›, kto ci pokaÅ¼e twoje miejsce KSIÄ˜Å»NICZKO, i to ja jestem facetem, ktÃ³ry to zrobi.}
+{372}{}{Zrozumiano. CieszÄ™ siÄ™, Å¼e wyjaÅ›niliÅ›my sobie te wszystkie powiÄ…zania rodzinne.}
+{373}{}{UspokÃ³j siÄ™. Tylko tak siÄ™ nabijam.}
 {374}{}{Zapomnij o tym.}
-{375}{}{Zapomnij o tych pierdo³ach. Zmiatam st¹d.}
-{380}{}{Co takiego ty zarozumia³y sukinsy - powinnam zaraz pójœæ i powiedzieæ tacie, co mi w³aœnie powiedzia³eœ.}
-{381}{}{Wiêc dlaczego tego nie zrobisz? Nie zatrzymujê ciê ksiê¿niczko.}
-{382}{}{Myœlê, ¿e tego nie zrobisz. Myœlê, ¿e chcesz zobaczyæ, jaki ze mnie mê¿czyzna.}
-{383}{}{Skoñczmy z tym, zanim ktoœ siê skaleczy.}
-{384}{}{No w³aœnie, czemu nie weŸmiesz i nie zrobisz tego? Mam wa¿niejsze rzeczy do zrobienia.}
-{385}{}{Zapomnij o tych pierdo³ach szóstej kategorii. Spadam st¹d.}
-{390}{}{Ty... ty nie jesteœ wart mojego CZASU.}
-{391}{}{A ty nie jesteœ warta mojego, ty zepsuty bachorze.}
-{392}{}{S³odziutka, nie STAÆ ciê na mój czas.}
+{375}{}{Zapomnij o tych pierdoÅ‚ach. Zmiatam stÄ…d.}
+{380}{}{Co takiego ty zarozumiaÅ‚y sukinsy - powinnam zaraz pÃ³jÅ›Ä‡ i powiedzieÄ‡ tacie, co mi wÅ‚aÅ›nie powiedziaÅ‚eÅ›.}
+{381}{}{WiÄ™c dlaczego tego nie zrobisz? Nie zatrzymujÄ™ ciÄ™ ksiÄ™Å¼niczko.}
+{382}{}{MyÅ›lÄ™, Å¼e tego nie zrobisz. MyÅ›lÄ™, Å¼e chcesz zobaczyÄ‡, jaki ze mnie mÄ™Å¼czyzna.}
+{383}{}{SkoÅ„czmy z tym, zanim ktoÅ› siÄ™ skaleczy.}
+{384}{}{No wÅ‚aÅ›nie, czemu nie weÅºmiesz i nie zrobisz tego? Mam waÅ¼niejsze rzeczy do zrobienia.}
+{385}{}{Zapomnij o tych pierdoÅ‚ach szÃ³stej kategorii. Spadam stÄ…d.}
+{390}{}{Ty... ty nie jesteÅ› wart mojego CZASU.}
+{391}{}{A ty nie jesteÅ› warta mojego, ty zepsuty bachorze.}
+{392}{}{SÅ‚odziutka, nie STAÄ† ciÄ™ na mÃ³j czas.}
 {393}{}{Twoje uczucie nie jest nieodwzajemnione.}
-{394}{}{W³asnie, tak myœla³em. Zmykam st¹d.}
-{400}{}{Ach tak? A co z ciebie za mê¿czyzna? POKA¯ESZ mi?}
-{401}{}{Pewnie. ChodŸmy do twojego pokoju ksiê¿niczko, a poka¿ê ci, jak wygl¹da prawdziwy mê¿czyzna.}
-{402}{}{Niee, by³em tylko ciekaw, jak bardzo jesteœ suk¹. PóŸniej, kochanie.}
-{410}{}{To dobrze, ¿e wiesz, jak siê rzeczy maj¹. (Ogl¹da ciê od góry do do³u)}
+{394}{}{WÅ‚asnie, tak myÅ›laÅ‚em. Zmykam stÄ…d.}
+{400}{}{Ach tak? A co z ciebie za mÄ™Å¼czyzna? POKAÅ»ESZ mi?}
+{401}{}{Pewnie. ChodÅºmy do twojego pokoju ksiÄ™Å¼niczko, a pokaÅ¼Ä™ ci, jak wyglÄ…da prawdziwy mÄ™Å¼czyzna.}
+{402}{}{Niee, byÅ‚em tylko ciekaw, jak bardzo jesteÅ› sukÄ…. PÃ³Åºniej, kochanie.}
+{410}{}{To dobrze, Å¼e wiesz, jak siÄ™ rzeczy majÄ…. (OglÄ…da ciÄ™ od gÃ³ry do doÅ‚u)}
 {411}{}{Uch...}
-{413}{}{(Stój tak w tej niezrêcznej sytuacji, podczas gdy ona ciê sprawdza.)}
-{420}{}{No dobrze... (Ogl¹da ciê od góry do do³u.)}
-{422}{}{Dobra, wiêc...}
-{430}{}{(Wzrusza ramionami.) Nic go to nie obchodzi. (Marszczy brwi.) No to jak, chcesz sobie ze mn¹ polataæ, czy nie?}
-{432}{}{No dobra. ChodŸmy do twojego pokoju.}
-{433}{}{S³uchaj, nie mo¿emy po prostu zostaæ przyjació³mi?}
-{434}{}{Nie, lepiej ju¿ pójdê.}
-{435}{}{Nie. Gdybym potrzebowa³ suki, kupi³bym psa.}
-{440}{}{CO takiego powiedzia³eœ?}
-{441}{}{Nic. ChodŸmy do twojego pokoju.}
-{442}{}{Powiedzia³em: "nie mo¿emy po prostu zostaæ przyjació³mi?"}
-{443}{}{Nic. S³uchaj, lepiej ju¿ pójdê.}
-{450}{}{Hej, to ty... zanim poszed³eœ i skopa³eœ ty³ek Enklawie, mi³o spêdziliœmy trochê czasu. Chcesz prze¿yæ jeszcze raz tê chwilê?}
-{451}{}{Znowu ty. Masz ochotê zmarnowaæ trochê czasu?}
+{413}{}{(StÃ³j tak w tej niezrÄ™cznej sytuacji, podczas gdy ona ciÄ™ sprawdza.)}
+{420}{}{No dobrze... (OglÄ…da ciÄ™ od gÃ³ry do doÅ‚u.)}
+{422}{}{Dobra, wiÄ™c...}
+{430}{}{(Wzrusza ramionami.) Nic go to nie obchodzi. (Marszczy brwi.) No to jak, chcesz sobie ze mnÄ… polataÄ‡, czy nie?}
+{432}{}{No dobra. ChodÅºmy do twojego pokoju.}
+{433}{}{SÅ‚uchaj, nie moÅ¼emy po prostu zostaÄ‡ przyjaciÃ³Å‚mi?}
+{434}{}{Nie, lepiej juÅ¼ pÃ³jdÄ™.}
+{435}{}{Nie. Gdybym potrzebowaÅ‚ suki, kupiÅ‚bym psa.}
+{440}{}{CO takiego powiedziaÅ‚eÅ›?}
+{441}{}{Nic. ChodÅºmy do twojego pokoju.}
+{442}{}{PowiedziaÅ‚em: "nie moÅ¼emy po prostu zostaÄ‡ przyjaciÃ³Å‚mi?"}
+{443}{}{Nic. SÅ‚uchaj, lepiej juÅ¼ pÃ³jdÄ™.}
+{450}{}{Hej, to ty... zanim poszedÅ‚eÅ› i skopaÅ‚eÅ› tyÅ‚ek Enklawie, miÅ‚o spÄ™dziliÅ›my trochÄ™ czasu. Chcesz przeÅ¼yÄ‡ jeszcze raz tÄ™ chwilÄ™?}
+{451}{}{Znowu ty. Masz ochotÄ™ zmarnowaÄ‡ trochÄ™ czasu?}
 {452}{}{Nie teraz.}
-{453}{}{Dobra. ChodŸmy do twojego pokoju.}
-{460}{}{S³ysza³am o tym, co zrobi³eœ Enklawie, }
-{462}{}{Proszê, proszê: }
-{463}{}{BARDZO imponuj¹ce. Myœlê, ¿e jesteœ w³aœciw¹ osob¹, ¿eby pomóc mi z moim ma³ym... problemem.}
-{464}{}{Ja mieæ problemy.}
+{453}{}{Dobra. ChodÅºmy do twojego pokoju.}
+{460}{}{SÅ‚yszaÅ‚am o tym, co zrobiÅ‚eÅ› Enklawie, }
+{462}{}{ProszÄ™, proszÄ™: }
+{463}{}{BARDZO imponujÄ…ce. MyÅ›lÄ™, Å¼e jesteÅ› wÅ‚aÅ›ciwÄ… osobÄ…, Å¼eby pomÃ³c mi z moim maÅ‚ym... problemem.}
+{464}{}{Ja mieÄ‡ problemy.}
 {465}{}{Dylko dy moszesz zapobiec poszarom lazu.}
-{466}{}{OdejdŸ bez s³owa.}
+{466}{}{OdejdÅº bez sÅ‚owa.}
 {467}{}{Co to za problem?}
-{468}{}{Nie, nie s¹dzê. Lepiej sobie pójdê.}
-{469}{}{Nie mam na to czasu. Zmiatam st¹d.}
-{480}{}{Widzisz, mam w pokoju ca³e mnóstwo doskona³ego Jetu i nie dam rady zu¿yæ tego wszystkiego sama.}
+{468}{}{Nie, nie sÄ…dzÄ™. Lepiej sobie pÃ³jdÄ™.}
+{469}{}{Nie mam na to czasu. Zmiatam stÄ…d.}
+{480}{}{Widzisz, mam w pokoju caÅ‚e mnÃ³stwo doskonaÅ‚ego Jetu i nie dam rady zuÅ¼yÄ‡ tego wszystkiego sama.}
 {481}{}{Och?}
-{482}{}{I jest to problem, poniewa¿...?}
-{483}{}{Uch... nie s¹dzê, abym by³ w³aœciw¹ oso...}
-{490}{}{Nie widzia³am CIEBIE tu wczeœniej. Jesteœ jedn¹ z nowych dziwek tatusia?}
-{491}{}{Hê?}
+{482}{}{I jest to problem, poniewaÅ¼...?}
+{483}{}{Uch... nie sÄ…dzÄ™, abym byÅ‚ wÅ‚aÅ›ciwÄ… oso...}
+{490}{}{Nie widziaÅ‚am CIEBIE tu wczeÅ›niej. JesteÅ› jednÄ… z nowych dziwek tatusia?}
+{491}{}{HÄ™?}
 {493}{}{Nie. Ty?}
-{494}{}{Nie, tylko têdy przechodzê.}
-{495}{}{Musisz byæ córk¹ Bishopa. Pracujê dla twojego ojca, panno Bishop.}
-{496}{}{W³aœciwie to PRACUJÊ dla twojego ojca. Jestem jednym z jego ludzi.}
-{497}{}{W³aœciwie to PRACUJÊ dla twojego ojca jako ochroniarz.}
-{499}{}{Nie jestem dziwk¹, ale w³aœnie skoñczy³am rozmowê z jedn¹ z nich.}
-{510}{}{No no, widzê, ¿e standardy zatrudnienia tatusia s¹ wci¹¿ takie same. Uwa¿aj na siebie, s³odziutka, albo ciê to bêdzie bola³o.}
+{494}{}{Nie, tylko tÄ™dy przechodzÄ™.}
+{495}{}{Musisz byÄ‡ cÃ³rkÄ… Bishopa. PracujÄ™ dla twojego ojca, panno Bishop.}
+{496}{}{WÅ‚aÅ›ciwie to PRACUJÄ˜ dla twojego ojca. Jestem jednym z jego ludzi.}
+{497}{}{WÅ‚aÅ›ciwie to PRACUJÄ˜ dla twojego ojca jako ochroniarz.}
+{499}{}{Nie jestem dziwkÄ…, ale wÅ‚aÅ›nie skoÅ„czyÅ‚am rozmowÄ™ z jednÄ… z nich.}
+{510}{}{No no, widzÄ™, Å¼e standardy zatrudnienia tatusia sÄ… wciÄ…Å¼ takie same. UwaÅ¼aj na siebie, sÅ‚odziutka, albo ciÄ™ to bÄ™dzie bolaÅ‚o.}
 {511}{}{Doobrzee! Dzienks!}
-{520}{}{Jak gówno przez jelita, co? Nie siedŸ tu zbyt d³ugo, dziwko, bo sobie jeszcze zrobisz krzywdê.}
+{520}{}{Jak gÃ³wno przez jelita, co? Nie siedÅº tu zbyt dÅ‚ugo, dziwko, bo sobie jeszcze zrobisz krzywdÄ™.}
 {521}{}{Jak chcesz.}
 {522}{}{Dziwka...}
-{531}{}{Tak, rozumiem, ¿e potrzebny jest ktoœ, kto ci poka¿e twoje miejsce KSIÊ¯NICZKO, i to zdaje siê ja mam to zrobiæ.}
+{531}{}{Tak, rozumiem, Å¼e potrzebny jest ktoÅ›, kto ci pokaÅ¼e twoje miejsce KSIÄ˜Å»NICZKO, i to zdaje siÄ™ ja mam to zrobiÄ‡.}
 {532}{}{Zrozumiano panno Bishop.}
-{534}{}{Lepiej ju¿ pójdê.}
-{535}{}{Zmiatam st¹d.}
-{540}{}{NAZWA£AM ciê dziwk¹, no nie? Nie ma wielkiej ró¿nicy miêdzy byciem "cz³owiekiem" Bishopa, a byciem jego dziwk¹, prawda?}
-{541}{}{Ochroniarz, dziwka... co za ró¿nica?}
-{542}{}{To ogromna ró¿nica. Mam ci j¹ pokazaæ, ty ma³a, rozpieszczona suko?}
-{543}{}{Prawie ¿adna ró¿nica, panno Bishop.}
-{544}{}{Przykro mi panno Bishop, ale nie mam teraz czasu na rozmowê.}
-{550}{}{Rusz siê na mnie, a zginiesz zanim zd¹¿ysz zrobiæ jeden krok.}
-{551}{}{Chcesz siê za³o¿yæ? Myœlê, ¿e przegrasz.}
-{552}{}{Jeszcze zobaczymy. Zmiatam st¹d.}
-{560}{}{Ty... tylko mnie dotknij, a tato o wszystkim siê dowie.}
-{561}{}{Nie przejmie siê tym.}
-{563}{}{Uspokój siê. Tylko ¿artowa³am, no nie?}
+{534}{}{Lepiej juÅ¼ pÃ³jdÄ™.}
+{535}{}{Zmiatam stÄ…d.}
+{540}{}{NAZWAÅAM ciÄ™ dziwkÄ…, no nie? Nie ma wielkiej rÃ³Å¼nicy miÄ™dzy byciem "czÅ‚owiekiem" Bishopa, a byciem jego dziwkÄ…, prawda?}
+{541}{}{Ochroniarz, dziwka... co za rÃ³Å¼nica?}
+{542}{}{To ogromna rÃ³Å¼nica. Mam ci jÄ… pokazaÄ‡, ty maÅ‚a, rozpieszczona suko?}
+{543}{}{Prawie Å¼adna rÃ³Å¼nica, panno Bishop.}
+{544}{}{Przykro mi panno Bishop, ale nie mam teraz czasu na rozmowÄ™.}
+{550}{}{Rusz siÄ™ na mnie, a zginiesz zanim zdÄ…Å¼ysz zrobiÄ‡ jeden krok.}
+{551}{}{Chcesz siÄ™ zaÅ‚oÅ¼yÄ‡? MyÅ›lÄ™, Å¼e przegrasz.}
+{552}{}{Jeszcze zobaczymy. Zmiatam stÄ…d.}
+{560}{}{Ty... tylko mnie dotknij, a tato o wszystkim siÄ™ dowie.}
+{561}{}{Nie przejmie siÄ™ tym.}
+{563}{}{UspokÃ³j siÄ™. Tylko Å¼artowaÅ‚am, no nie?}
 {564}{}{Taa, zobaczymy.}
-{570}{}{On... on na pewno siê przejmie. Zobaczysz.}
-{571}{}{Wynoœ siê st¹d ma³a suko. Natychmiast.}
-{573}{}{Uspokój siê. Tylko ¿artowa³am.}
-{580}{}{(Rzuca ci g³upkowaty uœmieszek, po czym odwraca siê i odchodzi tupi¹c.)}
-{581}{}{(OdejdŸ.)}
-{590}{}{(Wcia¹¿ siê na ciebie gapi, ale wygl¹da na niezdecydowan¹. Zagryza wargê, po czym odchodzi w poœpiechu.)}
-{591}{}{No tak. Tak w³aœnie MYŒLA£AM.}
-{600}{}{(Pluje ci na stopy) Taa, ja te¿. (Rzuca ci ostatni uœmieszek, po czym odchodzi)}
-{610}{}{"Prawie ¿adna ró¿nica, panno Bishop." A myœla³am, ¿e moja mama jest jedyn¹ niewolnic¹ mojego taty. ZejdŸ mi z oczu.}
-{620}{}{"Zrozumiano, panno Bishop." A myœla³am, ¿e moja mama jest jedyn¹ niewolnic¹ mojego taty. ZejdŸ mi z oczu.}
-{630}{}{"PRZYKRO mi panno Bishop, ale nie mam teraz czasu na rozmowê." A myœla³am, ¿e moja mama jest jedyn¹ niewolnic¹ mojego taty. ZejdŸ mi z oczu.}
-{640}{}{Dobra, idŸ sobie. Nied³ugo tato dowie siê o tobie ca³ego MNÓSTWA ró¿nych rzeczy. Tylko poczekaj.}
-{641}{}{(Odwraca siê)}
-{642}{}{Powiedz tylko jedno s³ówko staremu dobremu tatkowi, a "polatasz" sobie ze szczytu najwy¿szego budynku w Nowym Reno. Kiedy znajd¹ t¹ ma³¹ kartkê, któr¹ zostawiê, wszyscy pomyœl¹, ¿e to samobójstwo. To bêdzie OKROPNA tragedia. Wszystkie ulice zanios¹ siê p³aczem.}
-{643}{}{(OdejdŸ.)}
-{650}{}{Nie, myœlê, ¿e to TY przegrasz, suko. Tylko spróbuj.}
-{651}{}{[Zaatakuj j¹.]}
-{652}{}{[Daj sobie spokój.]}
-{660}{}{Nie zbli¿aj siê. Nie mam ci nic do powiedzenia.}
-{661}{}{Nied³ugo tatuœ dowie siê o tobie ca³ego MNÓSTWA ró¿nych rzeczy. Tylko poczekaj.}
-{670}{}{Nie tylko to, ale te¿ to, ¿e gdy biorê Jet, wpadam w SZA£ i ledwo mogê siê kontrolowaæ. Potrzebujê kogoœ, kto wie, jak dobraæ dzia³kê, aby upewniæ siê, ¿e nie zrobiê nic... g³upiego.}
-{671}{}{Jestem twój. Zróbmy to.}
-{672}{}{Czasem bycie bohaterem oznacza chronienie piêknych m³odych dziewcz¹t przed nimi samymi, bez wzglêdu na koszty. ProwadŸ.}
-{673}{}{Myœlê, ¿e pomyli³aœ mnie z kimœ, kto mia³by ochotê ciê pomacaæ.}
-{680}{}{Widzisz Angelê Bishop, która w tej chwili œpi. Cicho chrapie, jej w³osy s¹ w nie³adzie, a jej twarz rozjaœnia uœmiech.}
-{690}{}{Widzisz m³od¹ kobietê w obcis³ej skórze, wydzieraj¹c¹ siê w niebog³osy.}
+{570}{}{On... on na pewno siÄ™ przejmie. Zobaczysz.}
+{571}{}{WynoÅ› siÄ™ stÄ…d maÅ‚a suko. Natychmiast.}
+{573}{}{UspokÃ³j siÄ™. Tylko Å¼artowaÅ‚am.}
+{580}{}{(Rzuca ci gÅ‚upkowaty uÅ›mieszek, po czym odwraca siÄ™ i odchodzi tupiÄ…c.)}
+{581}{}{(OdejdÅº.)}
+{590}{}{(WciaÄ…Å¼ siÄ™ na ciebie gapi, ale wyglÄ…da na niezdecydowanÄ…. Zagryza wargÄ™, po czym odchodzi w poÅ›piechu.)}
+{591}{}{No tak. Tak wÅ‚aÅ›nie MYÅšLAÅAM.}
+{600}{}{(Pluje ci na stopy) Taa, ja teÅ¼. (Rzuca ci ostatni uÅ›mieszek, po czym odchodzi)}
+{610}{}{"Prawie Å¼adna rÃ³Å¼nica, panno Bishop." A myÅ›laÅ‚am, Å¼e moja mama jest jedynÄ… niewolnicÄ… mojego taty. ZejdÅº mi z oczu.}
+{620}{}{"Zrozumiano, panno Bishop." A myÅ›laÅ‚am, Å¼e moja mama jest jedynÄ… niewolnicÄ… mojego taty. ZejdÅº mi z oczu.}
+{630}{}{"PRZYKRO mi panno Bishop, ale nie mam teraz czasu na rozmowÄ™." A myÅ›laÅ‚am, Å¼e moja mama jest jedynÄ… niewolnicÄ… mojego taty. ZejdÅº mi z oczu.}
+{640}{}{Dobra, idÅº sobie. NiedÅ‚ugo tato dowie siÄ™ o tobie caÅ‚ego MNÃ“STWA rÃ³Å¼nych rzeczy. Tylko poczekaj.}
+{641}{}{(Odwraca siÄ™)}
+{642}{}{Powiedz tylko jedno sÅ‚Ã³wko staremu dobremu tatkowi, a "polatasz" sobie ze szczytu najwyÅ¼szego budynku w Nowym Reno. Kiedy znajdÄ… tÄ… maÅ‚Ä… kartkÄ™, ktÃ³rÄ… zostawiÄ™, wszyscy pomyÅ›lÄ…, Å¼e to samobÃ³jstwo. To bÄ™dzie OKROPNA tragedia. Wszystkie ulice zaniosÄ… siÄ™ pÅ‚aczem.}
+{643}{}{(OdejdÅº.)}
+{650}{}{Nie, myÅ›lÄ™, Å¼e to TY przegrasz, suko. Tylko sprÃ³buj.}
+{651}{}{[Zaatakuj jÄ….]}
+{652}{}{[Daj sobie spokÃ³j.]}
+{660}{}{Nie zbliÅ¼aj siÄ™. Nie mam ci nic do powiedzenia.}
+{661}{}{NiedÅ‚ugo tatuÅ› dowie siÄ™ o tobie caÅ‚ego MNÃ“STWA rÃ³Å¼nych rzeczy. Tylko poczekaj.}
+{670}{}{Nie tylko to, ale teÅ¼ to, Å¼e gdy biorÄ™ Jet, wpadam w SZAÅ i ledwo mogÄ™ siÄ™ kontrolowaÄ‡. PotrzebujÄ™ kogoÅ›, kto wie, jak dobraÄ‡ dziaÅ‚kÄ™, aby upewniÄ‡ siÄ™, Å¼e nie zrobiÄ™ nic... gÅ‚upiego.}
+{671}{}{Jestem twÃ³j. ZrÃ³bmy to.}
+{672}{}{Czasem bycie bohaterem oznacza chronienie piÄ™knych mÅ‚odych dziewczÄ…t przed nimi samymi, bez wzglÄ™du na koszty. ProwadÅº.}
+{673}{}{MyÅ›lÄ™, Å¼e pomyliÅ‚aÅ› mnie z kimÅ›, kto miaÅ‚by ochotÄ™ ciÄ™ pomacaÄ‡.}
+{680}{}{Widzisz AngelÄ™ Bishop, ktÃ³ra w tej chwili Å›pi. Cicho chrapie, jej wÅ‚osy sÄ… w nieÅ‚adzie, a jej twarz rozjaÅ›nia uÅ›miech.}
+{690}{}{Widzisz mÅ‚odÄ… kobietÄ™ w obcisÅ‚ej skÃ³rze, wydzierajÄ…cÄ… siÄ™ w niebogÅ‚osy.}
 {700}{}{Zzhhssnnn... och, }
 {701}{}{Chrrrr...}
-{800}{}{Ratunku! Gwa³c¹!}
-{801}{}{Ratunku, on mnie zaatakowa³! Pomocy!}
-{802}{}{Gwa³c¹! Gwa³c¹!}
-{810}{}{(Angela prowadzi ciê do swojego pokoju na drugim piêtrze. Gdy ju¿ tam jesteœcie, otwiera ma³e drzwiczki w œcianie, wyjmuje dziwn¹, plastikow¹ buteleczkê i podaje ci j¹.) Chcesz trochê, kochanie? Wystarczy, ¿ebyœmy mogli sobie polataæ oboje.}
-{811}{}{(Angela prowadzi ciê do swojego pokoju na drugim piêtrze. Gdy ju¿ tam jesteœcie, otwiera sejf w œcianie, wyjmuje trochê Jetu i podaje ci go.) Chcesz trochê, kochanie? Wystarczy, ¿ebyœmy mogli sobie polataæ oboje.}
+{800}{}{Ratunku! GwaÅ‚cÄ…!}
+{801}{}{Ratunku, on mnie zaatakowaÅ‚! Pomocy!}
+{802}{}{GwaÅ‚cÄ…! GwaÅ‚cÄ…!}
+{810}{}{(Angela prowadzi ciÄ™ do swojego pokoju na drugim piÄ™trze. Gdy juÅ¼ tam jesteÅ›cie, otwiera maÅ‚e drzwiczki w Å›cianie, wyjmuje dziwnÄ…, plastikowÄ… buteleczkÄ™ i podaje ci jÄ….) Chcesz trochÄ™, kochanie? Wystarczy, Å¼ebyÅ›my mogli sobie polataÄ‡ oboje.}
+{811}{}{(Angela prowadzi ciÄ™ do swojego pokoju na drugim piÄ™trze. Gdy juÅ¼ tam jesteÅ›cie, otwiera sejf w Å›cianie, wyjmuje trochÄ™ Jetu i podaje ci go.) Chcesz trochÄ™, kochanie? Wystarczy, Å¼ebyÅ›my mogli sobie polataÄ‡ oboje.}
 {812}{}{Aha, aha.}
 {813}{}{Ach-hhaa}
-{820}{}{Mmmmmmmm... (Angela wdycha g³êboko zawartoœæ butelki) Mmmmmmmm... czemu tu nie podejdziesz? (K³adzie siê na ³ó¿ku i bierze jeszcze trochê Jetu) Jeœli siê poœpieszysz, to mo¿e zd¹¿ysz wyssaæ trochê Jetu z moich ust...}
+{820}{}{Mmmmmmmm... (Angela wdycha gÅ‚Ä™boko zawartoÅ›Ä‡ butelki) Mmmmmmmm... czemu tu nie podejdziesz? (KÅ‚adzie siÄ™ na Å‚Ã³Å¼ku i bierze jeszcze trochÄ™ Jetu) JeÅ›li siÄ™ poÅ›pieszysz, to moÅ¼e zdÄ…Å¼ysz wyssaÄ‡ trochÄ™ Jetu z moich ust...}
 {821}{}{Skoro tak to przedstawiasz... pewnie.}
-{822}{}{Nie, dziêki. Móg³bym siê porzygaæ, gdybym wzi¹³ to œwiñstwo... albo gdybym zosta³ tu jeszcze chwilê d³u¿ej.}
-{830}{}{(Oczy Angeli p³on¹ z wœciek³oœci. Dziewczyna zrywa siê z ³ó¿ka i zaczyna wydzieraæ siê w niebog³osy!) Gwa³c¹! Ratunku! Gwa³c¹!}
-{831}{}{Cii! Jak nie bêdziesz cicho, George nie pozwoli mi pobawiæ siê z króliczkami! Ciii!}
+{822}{}{Nie, dziÄ™ki. MÃ³gÅ‚bym siÄ™ porzygaÄ‡, gdybym wziÄ…Å‚ to Å›wiÅ„stwo... albo gdybym zostaÅ‚ tu jeszcze chwilÄ™ dÅ‚uÅ¼ej.}
+{830}{}{(Oczy Angeli pÅ‚onÄ… z wÅ›ciekÅ‚oÅ›ci. Dziewczyna zrywa siÄ™ z Å‚Ã³Å¼ka i zaczyna wydzieraÄ‡ siÄ™ w niebogÅ‚osy!) GwaÅ‚cÄ…! Ratunku! GwaÅ‚cÄ…!}
+{831}{}{Cii! Jak nie bÄ™dziesz cicho, George nie pozwoli mi pobawiÄ‡ siÄ™ z krÃ³liczkami! Ciii!}
 {832}{}{Nie kszyk! Nie kszyk!}
-{833}{}{JU¯ mnie tu nie ma.}
+{833}{}{JUÅ» mnie tu nie ma.}
 {1460}{}{. }
-{1461}{}{. Widzia³am twój ostatni film. }
-{1462}{}{. S³ysza³am o twoich wyczynach na ringu. }
+{1461}{}{. WidziaÅ‚am twÃ³j ostatni film. }
+{1462}{}{. SÅ‚yszaÅ‚am o twoich wyczynach na ringu. }
 {1700}{}{, oooooch... zzhnhzzz}
 {1701}{}{, znowu? Ooooch... }

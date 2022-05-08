@@ -1,84 +1,84 @@
-{100}{}{Widzisz dziwne zmutowane coœ, z plamist¹ skór¹ i przera¿aj¹cym uœmiechem.}
+{100}{}{Widzisz dziwne zmutowane coÅ›, z plamistÄ… skÃ³rÄ… i przeraÅ¼ajÄ…cym uÅ›miechem.}
 {101}{}{Widzisz ghula z miasteczka.}
-{102}{}{Widzisz ghula. Jego skóra wygl¹da tak, jakby mia³a zaraz odpaœæ od cia³a. Wygl¹da tak¿e na to, ¿e istota ta jest bez wahania akceptowana przez innych mieszkañców.}
-{103}{}{Praca w rafinerii jest ciê¿ka.}
-{104}{}{Ludzie i mutanty ostatnio maj¹ chyba ze sob¹ na pieñku.}
-{105}{}{Nie lubiê pracowaæ blisko kwasu.}
-{106}{}{Ostatnio to miasto chyba staje siê zbyt ciasne.}
-{107}{}{Nie wszyscy ludzie s¹ Ÿli.}
+{102}{}{Widzisz ghula. Jego skÃ³ra wyglÄ…da tak, jakby miaÅ‚a zaraz odpaÅ›Ä‡ od ciaÅ‚a. WyglÄ…da takÅ¼e na to, Å¼e istota ta jest bez wahania akceptowana przez innych mieszkaÅ„cÃ³w.}
+{103}{}{Praca w rafinerii jest ciÄ™Å¼ka.}
+{104}{}{Ludzie i mutanty ostatnio majÄ… chyba ze sobÄ… na pieÅ„ku.}
+{105}{}{Nie lubiÄ™ pracowaÄ‡ blisko kwasu.}
+{106}{}{Ostatnio to miasto chyba staje siÄ™ zbyt ciasne.}
+{107}{}{Nie wszyscy ludzie sÄ… Åºli.}
 {108}{}{Witamy w Broken Hills.}
-{109}{}{Gdzie poszed³ Hank? Widzia³ ktoœ Hanka?}
-{110}{}{Ciê¿ko pracowaliœmy nad tym, aby Broken Hills by³o tym, czym jest teraz.}
-{111}{}{Tak w ogóle, to kiedy bêdzie nastêpny posi³ek?}
-{112}{}{Aresztowali Chada? Ludzie powinni siê wstydziæ za siebie.}
-{113}{}{Nie wszyscy ludzie s¹ tacy jak Chad.}
-{114}{}{Ta historia z Chadem, cz³owieku.}
-{115}{}{Ciekawe, czy potrafi³bym siê wkrêciæ do tej roboty przy karawanach...}
-{116}{}{Gdzie poszed³ Hank? Widzia³ ktoœ Hanka?}
-{117}{}{Ciê¿ko pracowaliœmy nad tym, aby Broken Hills by³o tym, czym jest teraz.}
-{118}{}{Tak w ogóle, to kiedy bêdzie nastêpny posi³ek?}
-{119}{}{Nie potrzebujesz "Wicherka", ¿eby wiedzieæ, w któr¹ stronê wieje wiatr.}
-{120}{}{Chwila! Hej... co to za dŸwiêk?}
-{121}{}{Wykoñczyæ bandytów!}
-{122}{}{Jak mo¿esz ¿yæ ze œwiadomoœci¹, ¿e Chad zgin¹³ z twojej rêki?}
-{123}{}{Co, czy Chad stawia³ opór przy aresztowaniu, albo coœ w tym stylu?}
-{124}{}{Widzê czarne chmury nad Broken Hills.}
-{125}{}{Chad dosta³ to, co by³o mu pisane.}
+{109}{}{Gdzie poszedÅ‚ Hank? WidziaÅ‚ ktoÅ› Hanka?}
+{110}{}{CiÄ™Å¼ko pracowaliÅ›my nad tym, aby Broken Hills byÅ‚o tym, czym jest teraz.}
+{111}{}{Tak w ogÃ³le, to kiedy bÄ™dzie nastÄ™pny posiÅ‚ek?}
+{112}{}{Aresztowali Chada? Ludzie powinni siÄ™ wstydziÄ‡ za siebie.}
+{113}{}{Nie wszyscy ludzie sÄ… tacy jak Chad.}
+{114}{}{Ta historia z Chadem, czÅ‚owieku.}
+{115}{}{Ciekawe, czy potrafiÅ‚bym siÄ™ wkrÄ™ciÄ‡ do tej roboty przy karawanach...}
+{116}{}{Gdzie poszedÅ‚ Hank? WidziaÅ‚ ktoÅ› Hanka?}
+{117}{}{CiÄ™Å¼ko pracowaliÅ›my nad tym, aby Broken Hills byÅ‚o tym, czym jest teraz.}
+{118}{}{Tak w ogÃ³le, to kiedy bÄ™dzie nastÄ™pny posiÅ‚ek?}
+{119}{}{Nie potrzebujesz "Wicherka", Å¼eby wiedzieÄ‡, w ktÃ³rÄ… stronÄ™ wieje wiatr.}
+{120}{}{Chwila! Hej... co to za dÅºwiÄ™k?}
+{121}{}{WykoÅ„czyÄ‡ bandytÃ³w!}
+{122}{}{Jak moÅ¼esz Å¼yÄ‡ ze Å›wiadomoÅ›ciÄ…, Å¼e Chad zginÄ…Å‚ z twojej rÄ™ki?}
+{123}{}{Co, czy Chad stawiaÅ‚ opÃ³r przy aresztowaniu, albo coÅ› w tym stylu?}
+{124}{}{WidzÄ™ czarne chmury nad Broken Hills.}
+{125}{}{Chad dostaÅ‚ to, co byÅ‚o mu pisane.}
 {126}{}{Niech kara odpowiada zbrodni.}
-{127}{}{Biedny Chad. Przynajmniej nie mia³ rodziny.}
-{128}{}{Ludzie s¹ wkurzeni z powodu Chada.}
-{129}{}{Niech mutanty lepiej uwa¿aj¹... ludzie mog¹ chcieæ pomœciæ Chada.}
-{130}{}{Kto móg³ uczyniæ takie okropieñstwo?}
-{131}{}{Bez mutantów jesteœmy naprawdê bezbronni przeciwko bandytom.}
+{127}{}{Biedny Chad. Przynajmniej nie miaÅ‚ rodziny.}
+{128}{}{Ludzie sÄ… wkurzeni z powodu Chada.}
+{129}{}{Niech mutanty lepiej uwaÅ¼ajÄ…... ludzie mogÄ… chcieÄ‡ pomÅ›ciÄ‡ Chada.}
+{130}{}{Kto mÃ³gÅ‚ uczyniÄ‡ takie okropieÅ„stwo?}
+{131}{}{Bez mutantÃ³w jesteÅ›my naprawdÄ™ bezbronni przeciwko bandytom.}
 {132}{}{Marcus... Zaius... Francis... wszyscy inni... odeszli...}
-{133}{}{Przysz³oœæ maluje siê w czarnych barwach.}
+{133}{}{PrzyszÅ‚oÅ›Ä‡ maluje siÄ™ w czarnych barwach.}
 {134}{}{Czy to zrobili ludzie? Cameron?}
-{135}{}{Kto nas poprowadzi, gdy nie ma ju¿ Marcusa?}
+{135}{}{Kto nas poprowadzi, gdy nie ma juÅ¼ Marcusa?}
 {136}{}{Gdzie teraz znajdziemy schronienie?}
-{137}{}{Ci dranie z RNK. Lepiej, ¿eby tu ju¿ wiêcej siê nie pokazywali, je¿eli ceni¹ sobie zdrowie.}
+{137}{}{Ci dranie z RNK. Lepiej, Å¼eby tu juÅ¼ wiÄ™cej siÄ™ nie pokazywali, jeÅ¼eli ceniÄ… sobie zdrowie.}
 {138}{}{Ciekawe, czy to NASI ludzie za tym byli...}
-{139}{}{Dziêkujemy za uratowanie mutantów.}
-{140}{}{Powinniœmy zlinczowaæ tych drani, którzy próbowali otruæ mutantów.}
-{141}{}{Tyle siê dzieje... a¿ krêci mi siê od tego w g³owie...}
-{142}{}{Chyba powinienem ju¿ wróciæ do pracy.}
-{143}{}{Kto wypuœci³ te dwie zaka³y miasta? Jeszcze zabijaj¹c stra¿ników... Marcus musi byæ wkurzony.}
-{144}{}{W mieœcie rozstrzygaj¹ siê jakieœ krwawe interesy.}
-{145}{}{Czujesz, ¿e w mieœcie ostatnio nietrudno o k³opoty?}
-{146}{}{A ja myœla³em, ¿e to bêdzie spokojne miejsce do osiedlenia siê. Chyba siê pomyli³em.}
-{147}{}{Kto by pomyœla³, ¿e taka przemoc zawita do Broken Hills?}
-{148}{}{Franc i Manson... ktoœ ma mutantów na czarnej liœcie.}
-{149}{}{Czemu pomagasz tym dwóm? Wypuszczasz ich z wiêzienia?}
-{150}{}{WstydŸ siê.}
-{151}{}{Mam nadziejê, ¿e masz racjê mówi¹c, ¿e Franc i Manson nie stanowi¹ zagro¿enia... Mutanty bêd¹ ciê o to obwiniaæ.}
-{152}{}{Franc i Manson... z powrotem w spo³eczeñstwie... o rany. Chyba powinienem wyjechaæ z miasta.}
-{153}{}{W mieœcie rozstrzygaj¹ siê jakieœ krwawe interesy.}
-{154}{}{Czujesz, ¿e w mieœcie ostatnio nietrudno o k³opoty?}
-{155}{}{Dobra robota z wymierzeniem sprawiedliwoœci tym palantom!}
-{156}{}{Zawsze s¹dzi³em, ¿e Jacob jest nieco dziwny.}
-{157}{}{To nauczy ludzi, ¿e nie mog¹ naginaæ prawa.}
-{158}{}{Niemo¿liwe... Aileen? Nie wierzê, ¿e ona to zrobi³a.}
-{159}{}{Có¿ za cios dla ludzi! W tej chwili bardzo siê za siebie wstydz¹. Boj¹ siê powa¿nych oskar¿eñ.}
-{160}{}{Czy w Broken Hills kiedykolwiek uda siê zmniejszyæ przepaœæ pomiêdzy ludŸmi i mutantami?}
+{139}{}{DziÄ™kujemy za uratowanie mutantÃ³w.}
+{140}{}{PowinniÅ›my zlinczowaÄ‡ tych drani, ktÃ³rzy prÃ³bowali otruÄ‡ mutantÃ³w.}
+{141}{}{Tyle siÄ™ dzieje... aÅ¼ krÄ™ci mi siÄ™ od tego w gÅ‚owie...}
+{142}{}{Chyba powinienem juÅ¼ wrÃ³ciÄ‡ do pracy.}
+{143}{}{Kto wypuÅ›ciÅ‚ te dwie zakaÅ‚y miasta? Jeszcze zabijajÄ…c straÅ¼nikÃ³w... Marcus musi byÄ‡ wkurzony.}
+{144}{}{W mieÅ›cie rozstrzygajÄ… siÄ™ jakieÅ› krwawe interesy.}
+{145}{}{Czujesz, Å¼e w mieÅ›cie ostatnio nietrudno o kÅ‚opoty?}
+{146}{}{A ja myÅ›laÅ‚em, Å¼e to bÄ™dzie spokojne miejsce do osiedlenia siÄ™. Chyba siÄ™ pomyliÅ‚em.}
+{147}{}{Kto by pomyÅ›laÅ‚, Å¼e taka przemoc zawita do Broken Hills?}
+{148}{}{Franc i Manson... ktoÅ› ma mutantÃ³w na czarnej liÅ›cie.}
+{149}{}{Czemu pomagasz tym dwÃ³m? Wypuszczasz ich z wiÄ™zienia?}
+{150}{}{WstydÅº siÄ™.}
+{151}{}{Mam nadziejÄ™, Å¼e masz racjÄ™ mÃ³wiÄ…c, Å¼e Franc i Manson nie stanowiÄ… zagroÅ¼enia... Mutanty bÄ™dÄ… ciÄ™ o to obwiniaÄ‡.}
+{152}{}{Franc i Manson... z powrotem w spoÅ‚eczeÅ„stwie... o rany. Chyba powinienem wyjechaÄ‡ z miasta.}
+{153}{}{W mieÅ›cie rozstrzygajÄ… siÄ™ jakieÅ› krwawe interesy.}
+{154}{}{Czujesz, Å¼e w mieÅ›cie ostatnio nietrudno o kÅ‚opoty?}
+{155}{}{Dobra robota z wymierzeniem sprawiedliwoÅ›ci tym palantom!}
+{156}{}{Zawsze sÄ…dziÅ‚em, Å¼e Jacob jest nieco dziwny.}
+{157}{}{To nauczy ludzi, Å¼e nie mogÄ… naginaÄ‡ prawa.}
+{158}{}{NiemoÅ¼liwe... Aileen? Nie wierzÄ™, Å¼e ona to zrobiÅ‚a.}
+{159}{}{CÃ³Å¼ za cios dla ludzi! W tej chwili bardzo siÄ™ za siebie wstydzÄ…. BojÄ… siÄ™ powaÅ¼nych oskarÅ¼eÅ„.}
+{160}{}{Czy w Broken Hills kiedykolwiek uda siÄ™ zmniejszyÄ‡ przepaÅ›Ä‡ pomiÄ™dzy ludÅºmi i mutantami?}
 {161}{}{Dranie, Jacob i Aileen, zawsze traktowali mnie jak obywatela drugiej kategorii. To ich nauczy szacunku.}
-{162}{}{Nie s¹dzê, aby Broken Hills kiedykolwiek podnios³o siê po utracie kopalni...}
-{163}{}{Wszyscy mutanci... zginêli...}
-{164}{}{... teraz ju¿ nigdy nie dowiemy siê, czy mogliœmy uczyniæ pokój pomiêdzy mutantami, a ludŸmi...}
-{165}{}{Czas wyruszyæ w drogê i zobaczyæ, co reszta œwiata ma do zaoferowania... nie warto ju¿ odkopywaæ kopalni.}
-{166}{}{Zastanawiam siê, czy gdziekolwiek indziej w Kalifornii potrzebuj¹ techników rafinacji uranu?}
-{167}{}{Chyba wrócê teraz do Gecko...}
-{168}{}{Ty szurniêta kanalio.}
+{162}{}{Nie sÄ…dzÄ™, aby Broken Hills kiedykolwiek podniosÅ‚o siÄ™ po utracie kopalni...}
+{163}{}{Wszyscy mutanci... zginÄ™li...}
+{164}{}{... teraz juÅ¼ nigdy nie dowiemy siÄ™, czy mogliÅ›my uczyniÄ‡ pokÃ³j pomiÄ™dzy mutantami, a ludÅºmi...}
+{165}{}{Czas wyruszyÄ‡ w drogÄ™ i zobaczyÄ‡, co reszta Å›wiata ma do zaoferowania... nie warto juÅ¼ odkopywaÄ‡ kopalni.}
+{166}{}{Zastanawiam siÄ™, czy gdziekolwiek indziej w Kalifornii potrzebujÄ… technikÃ³w rafinacji uranu?}
+{167}{}{Chyba wrÃ³cÄ™ teraz do Gecko...}
+{168}{}{Ty szurniÄ™ta kanalio.}
 {169}{}{Nie masz wstydu, sumienia?}
-{170}{}{Czemu próbujesz zniszczyæ nasze miasto?}
-{171}{}{Nie rozumiesz, ¿e zniszczenie kopalni bêdzie tak¿e nasz¹ zgub¹?}
-{172}{}{Nie chcê z tob¹ rozmawiaæ.}
-{173}{}{IdŸ sobie.}
+{170}{}{Czemu prÃ³bujesz zniszczyÄ‡ nasze miasto?}
+{171}{}{Nie rozumiesz, Å¼e zniszczenie kopalni bÄ™dzie takÅ¼e naszÄ… zgubÄ…?}
+{172}{}{Nie chcÄ™ z tobÄ… rozmawiaÄ‡.}
+{173}{}{IdÅº sobie.}
 {174}{}{Dobra robota.}
-{175}{}{Szkoda, ¿e ci ludzie zginêli pod miastem.}
-{176}{}{Ciekawe, jak ci ludzie kopali te swoje tunele, ¿e my ich nie zauwa¿yliœmy.}
-{177}{}{Teraz ju¿ wiemy, co planowali Franc i Manson.}
+{175}{}{Szkoda, Å¼e ci ludzie zginÄ™li pod miastem.}
+{176}{}{Ciekawe, jak ci ludzie kopali te swoje tunele, Å¼e my ich nie zauwaÅ¼yliÅ›my.}
+{177}{}{Teraz juÅ¼ wiemy, co planowali Franc i Manson.}
 {178}{}{Ci biedni, biedni ludzie. I ich biedne rodziny.}
-{180}{}{Nie krzywdŸ mnie.}
+{180}{}{Nie krzywdÅº mnie.}
 {181}{}{Zostaw mnie w spokoju.}
 {182}{}{Nie! Nie! Nie!}
-{183}{}{Chyba ju¿ pójdê.}
-{184}{}{Opuœæ nasze miasto!}
+{183}{}{Chyba juÅ¼ pÃ³jdÄ™.}
+{184}{}{OpuÅ›Ä‡ nasze miasto!}

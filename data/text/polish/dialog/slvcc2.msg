@@ -1,42 +1,42 @@
-{100}{}{Widzisz ³owcê niewolników.}
-{101}{}{Ten ³owca niewolników wygl¹da na wrednego kolesia.}
-{102}{}{£owca niewolników, wygl¹da na wredn¹ laskê.}
-{200}{}{Tutaj jesteœ.}
+{100}{}{Widzisz Å‚owcÄ™ niewolnikÃ³w.}
+{101}{}{Ten Å‚owca niewolnikÃ³w wyglÄ…da na wrednego kolesia.}
+{102}{}{Åowca niewolnikÃ³w, wyglÄ…da na wrednÄ… laskÄ™.}
+{200}{}{Tutaj jesteÅ›.}
 {201}{}{Teraz zginiesz.}
-{202}{}{Niech to, Stra¿nik RNK! Czas skopaæ ci ty³ek.}
-{300}{}{Zgubi³eœ siê, czy coœ?}
-{301}{}{Don tu rz¹dzi. Gadaj z nim.}
-{302}{}{To prywatna posiad³oœæ. Nie w³ócz siê tu.}
-{303}{}{Nie czêsto widuje siê kobietê ³owcê niewolników.}
-{304}{}{Dobrze ciê mieæ po naszej stronie.}
+{202}{}{Niech to, StraÅ¼nik RNK! Czas skopaÄ‡ ci tyÅ‚ek.}
+{300}{}{ZgubiÅ‚eÅ› siÄ™, czy coÅ›?}
+{301}{}{Don tu rzÄ…dzi. Gadaj z nim.}
+{302}{}{To prywatna posiadÅ‚oÅ›Ä‡. Nie wÅ‚Ã³cz siÄ™ tu.}
+{303}{}{Nie czÄ™sto widuje siÄ™ kobietÄ™ Å‚owcÄ™ niewolnikÃ³w.}
+{304}{}{Dobrze ciÄ™ mieÄ‡ po naszej stronie.}
 {305}{}{Hej. Jak leci?}
-{306}{}{Uda³o ci siê ju¿ spa³owaæ jakiegoœ niewolnika?}
+{306}{}{UdaÅ‚o ci siÄ™ juÅ¼ spaÅ‚owaÄ‡ jakiegoÅ› niewolnika?}
 {307}{}{Witam ponownie.}
-{308}{}{Wyruszasz na nastêpne ³owy?}
-{309}{}{Jest doœæ spokojnie.}
-{310}{}{Kiedy wreszcie doczekam siê jakiejœ akcji?}
-{311}{}{Puszkowanie niewolników zawsze poprawia mi humor.}
-{312}{}{Wypady po niewolników s¹ super.}
-{313}{}{Hej, dobrze ciê mieæ po naszej stronie.}
-{400}{}{Stój. Gdzie ty siê do cholery wybierasz?}
-{401}{}{Metzger mnie przysy³a. Chcê rozmawiaæ z tym, który tu rz¹dzi.}
-{402}{}{Mam kilkoro niewolników, którymi mo¿ecie byæ zainteresowani.}
-{403}{}{Wezwano mnie na odszczurzanie. I to siê tyczy was wszystkich.}
-{404}{}{[Jego oczy nabra³y blasku.] Zadzierasz z nie tymi ludŸmi. Czas umieraæ!}
-{405}{}{[Patrzy na cz³onków twojej dru¿yny.] Myœlê, ¿e mo¿emy byæ zainteresowani. WejdŸ do œrodka i porozmawiaj z Donem.}
-{406}{}{Nie jest trochê za wczeœnie na dostawê? Czego Metzger potrzebuje?}
-{407}{}{Potrzebuje kilku zdrowych niewolników. Szczególnie kobiet niewolników, jeœli wiesz co mam na myœli.}
-{408}{}{Hehe. Pewnie, ¿e wiem. Dobra, w³aŸ do œrodka i porozmawiaj z Donem. Jestem pewny, ¿e ma to czego szef potrzebuje.}
-{409}{}{Yyy...có¿, no, tego, powiedzia³, ¿e potrzebuje wiêcej niewolników.}
-{410}{}{Wiêcej niewolników? Dosta³ ogromn¹ iloœæ w zesz³ym tygodniu. Pieprzysz od rzeczy, a ja nie mam na to czasu. Zje¿d¿aj, albo umrzesz na o³owicê.}
-{411}{}{Idê sobie.}
-{412}{}{Myœlê, ¿e najpierw zostanê i ciê zabijê.}
-{500}{}{Yyy... noo... szef mnie przys³a³.}
-{501}{}{"Szef" tak? Co ty sobie w pana lecisz?! Wygl¹da, ¿e mamy tu intruza.}
-{502}{}{S³uchaj, jestem tu na polecenie szefa. Wiesz jaki siê robi jak mu kazaæ czekaæ.}
-{503}{}{Metzger ciê przys³a³, tak? Cz³owieku, czasem naprawdê potrafi byæ jak wrzód na ty³ku. Ale, yyy, (Rozgl¹da siê.) nie mów nikomu, ¿e tak powiedzia³em.}
-{504}{}{Taa, Metzger mnie przys³a³. Teraz, muszê rozmawiaæ z tym który tu rz¹dzi.}
+{308}{}{Wyruszasz na nastÄ™pne Å‚owy?}
+{309}{}{Jest doÅ›Ä‡ spokojnie.}
+{310}{}{Kiedy wreszcie doczekam siÄ™ jakiejÅ› akcji?}
+{311}{}{Puszkowanie niewolnikÃ³w zawsze poprawia mi humor.}
+{312}{}{Wypady po niewolnikÃ³w sÄ… super.}
+{313}{}{Hej, dobrze ciÄ™ mieÄ‡ po naszej stronie.}
+{400}{}{StÃ³j. Gdzie ty siÄ™ do cholery wybierasz?}
+{401}{}{Metzger mnie przysyÅ‚a. ChcÄ™ rozmawiaÄ‡ z tym, ktÃ³ry tu rzÄ…dzi.}
+{402}{}{Mam kilkoro niewolnikÃ³w, ktÃ³rymi moÅ¼ecie byÄ‡ zainteresowani.}
+{403}{}{Wezwano mnie na odszczurzanie. I to siÄ™ tyczy was wszystkich.}
+{404}{}{[Jego oczy nabraÅ‚y blasku.] Zadzierasz z nie tymi ludÅºmi. Czas umieraÄ‡!}
+{405}{}{[Patrzy na czÅ‚onkÃ³w twojej druÅ¼yny.] MyÅ›lÄ™, Å¼e moÅ¼emy byÄ‡ zainteresowani. WejdÅº do Å›rodka i porozmawiaj z Donem.}
+{406}{}{Nie jest trochÄ™ za wczeÅ›nie na dostawÄ™? Czego Metzger potrzebuje?}
+{407}{}{Potrzebuje kilku zdrowych niewolnikÃ³w. SzczegÃ³lnie kobiet niewolnikÃ³w, jeÅ›li wiesz co mam na myÅ›li.}
+{408}{}{Hehe. Pewnie, Å¼e wiem. Dobra, wÅ‚aÅº do Å›rodka i porozmawiaj z Donem. Jestem pewny, Å¼e ma to czego szef potrzebuje.}
+{409}{}{Yyy...cÃ³Å¼, no, tego, powiedziaÅ‚, Å¼e potrzebuje wiÄ™cej niewolnikÃ³w.}
+{410}{}{WiÄ™cej niewolnikÃ³w? DostaÅ‚ ogromnÄ… iloÅ›Ä‡ w zeszÅ‚ym tygodniu. Pieprzysz od rzeczy, a ja nie mam na to czasu. ZjeÅ¼dÅ¼aj, albo umrzesz na oÅ‚owicÄ™.}
+{411}{}{IdÄ™ sobie.}
+{412}{}{MyÅ›lÄ™, Å¼e najpierw zostanÄ™ i ciÄ™ zabijÄ™.}
+{500}{}{Yyy... noo... szef mnie przysÅ‚aÅ‚.}
+{501}{}{"Szef" tak? Co ty sobie w pana lecisz?! WyglÄ…da, Å¼e mamy tu intruza.}
+{502}{}{SÅ‚uchaj, jestem tu na polecenie szefa. Wiesz jaki siÄ™ robi jak mu kazaÄ‡ czekaÄ‡.}
+{503}{}{Metzger ciÄ™ przysÅ‚aÅ‚, tak? CzÅ‚owieku, czasem naprawdÄ™ potrafi byÄ‡ jak wrzÃ³d na tyÅ‚ku. Ale, yyy, (RozglÄ…da siÄ™.) nie mÃ³w nikomu, Å¼e tak powiedziaÅ‚em.}
+{504}{}{Taa, Metzger mnie przysÅ‚aÅ‚. Teraz, muszÄ™ rozmawiaÄ‡ z tym ktÃ³ry tu rzÄ…dzi.}
 {599}{}{Dotknij tego jeszcze raz, to zginiesz.}
-{600}{}{Ostrzega³em ciê dupku!}
+{600}{}{OstrzegaÅ‚em ciÄ™ dupku!}
 {800}{}{[dalej]}
-{900}{}{Co do!? Stra¿nicy RNK! Cholera, jak nas znaleŸli. Niewa¿ne, nakopiemy im do dupy!}
+{900}{}{Co do!? StraÅ¼nicy RNK! Cholera, jak nas znaleÅºli. NiewaÅ¼ne, nakopiemy im do dupy!}

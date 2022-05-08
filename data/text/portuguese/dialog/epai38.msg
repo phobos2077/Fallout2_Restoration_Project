@@ -1,10 +1,10 @@
-{100}{}{Painel de controle de campo de força.}
-{200}{}{Você desabilita com êxito o campo de força.}
-{201}{}{Você não consegue desativar o campo de força.}
-{202}{}{Você habilita com êxito o campo de força.}
-{203}{}{Você não habilita o campo de força.}
-{210}{}{ desabilita o campo de força.}
-{211}{}{ falha para desativar o campo de força.}
-{212}{}{ habilita o campo de força.}
-{213}{}{ falha ao ativar o campo de força.}
-{300}{}{Você destruiu o computador.}
+{100}{}{Painel de controle de campo de forÃ§a.}
+{200}{}{VocÃª desabilita com Ãªxito o campo de forÃ§a.}
+{201}{}{VocÃª nÃ£o consegue desativar o campo de forÃ§a.}
+{202}{}{VocÃª habilita com Ãªxito o campo de forÃ§a.}
+{203}{}{VocÃª nÃ£o habilita o campo de forÃ§a.}
+{210}{}{ desabilita o campo de forÃ§a.}
+{211}{}{ falha para desativar o campo de forÃ§a.}
+{212}{}{ habilita o campo de forÃ§a.}
+{213}{}{ falha ao ativar o campo de forÃ§a.}
+{300}{}{VocÃª destruiu o computador.}

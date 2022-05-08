@@ -4,12 +4,12 @@
 {103}{}{Tu vois un homme au regard fuyant en combinaison de l'Abri 13.}
 {104}{}{Salut. Je suis le Chef des Attributions Illicites... Mais tu peux m'appeler Chet. Tu as besoin de quelque chose ?}
 {105}{}{Besoin d'autre chose ?}
-{106}{}{Ajoute le tag : "Fin du jeu", Chet. J'ai terminé.}
+{106}{}{Ajoute le tag : "Fin du jeu", Chet. J'ai terminÃ©.}
 {107}{}{Change-moi en Capitaine de la Garde.}
-{108}{}{Change-moi en un véritable citoyen, s'il-te plaît.}
+{108}{}{Change-moi en un vÃ©ritable citoyen, s'il-te plaÃ®t.}
 {109}{}{Change-moi en un faux citoyen et donne moi des papiers.}
 {110}{}{Change-moi en un citoyen banni.}
-{111}{}{Change ma réputation.}
+{111}{}{Change ma rÃ©putation.}
 {112}{}{(Ne marche pas) J'ai besoin d'un compagnon en plus.}
 {113}{}{Non, rien.}
 {114}{}{En quoi ?}

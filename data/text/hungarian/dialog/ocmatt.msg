@@ -1,57 +1,57 @@
-{100}{}{Egy nyúlánk férfit látsz.}
+{100}{}{Egy nyÃºlÃ¡nk fÃ©rfit lÃ¡tsz.}
 {101}{}{? Matt.}
-{102}{}{Egy rövid hajú, vad tekintet?, nyúlánk férfihez van szerencséd. Szinte érzed a szúrós szemeit.}
-{103}{}{Segíthetek valamiben, idegen?}
-{104}{}{Én kérdez?}
+{102}{}{Egy rÃ¶vid hajÃº, vad tekintet?, nyÃºlÃ¡nk fÃ©rfihez van szerencsÃ©d. Szinte Ã©rzed a szÃºrÃ³s szemeit.}
+{103}{}{SegÃ­thetek valamiben, idegen?}
+{104}{}{Ã‰n kÃ©rdez?}
 {105}{}{Nem, hagylak itten.}
-{106}{}{Igen, szeretnék feltenni néhány kérdést.}
-{107}{}{Nem, éppen távozni készültem.}
+{106}{}{Igen, szeretnÃ©k feltenni nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{107}{}{Nem, Ã©ppen tÃ¡vozni kÃ©szÃ¼ltem.}
 {108}{}{Mit akarsz?}
 {109}{}{Te ki?}
 {110}{}{Te lenni rab?}
-{111}{}{Én menni mostan.}
+{111}{}{Ã‰n menni mostan.}
 {112}{}{Ki vagy te?}
 {113}{}{Rab vagy?}
-{114}{}{Most akkor távozok szépen.}
-{115}{}{A nevem Matt. Számít ez valamit?}
+{114}{}{Most akkor tÃ¡vozok szÃ©pen.}
+{115}{}{A nevem Matt. SzÃ¡mÃ­t ez valamit?}
 {116}{}{Azt hiszem, nem.}
-{117}{}{Hmm. Én menni elfele.}
-{118}{}{Oké, éppen indulok.}
-{119}{}{Nem igazán.}
+{117}{}{Hmm. Ã‰n menni elfele.}
+{118}{}{OkÃ©, Ã©ppen indulok.}
+{119}{}{Nem igazÃ¡n.}
 {120}{}{Yes, as a matter of fact I am. I stumbled upon this place and got myself captured by the deathclaws.
  They give me freedom of movement within the lower levels of the vault, but I can never go to level 1 where the exit is.}
-{121}{}{Miért?}
-{122}{}{Oké.}
-{123}{}{Én elt?nni.}
-{124}{}{Miért?}
-{125}{}{Értem.}
+{121}{}{MiÃ©rt?}
+{122}{}{OkÃ©.}
+{123}{}{Ã‰n elt?nni.}
+{124}{}{MiÃ©rt?}
+{125}{}{Ã‰rtem.}
 {126}{}{Elmegyek akkor...}
-{127}{}{Azért, mert ellentétben a többi birkával, aki itt él, én rádöbbentem, hogy ezek az emberiség egészét fenyegetik. Tudják, ha kijutok innen, elintézem, hogy el legyenek takarítva a föld színér?l! Nézd... tudnak gondolkodni, tanulni, tudnak olvasni, és írni is, ha tintába mártják az egyik karmukat. Gyorsak, szívósak, figyelmesek és halálosak. Ha elszaporodnak, ?k lesznek a legnagyobb fenyegetés, amivel az emberi faj valaha is szembenézett. Gondolkodj el ezen! Meg kell semmisíteni ?ket!}
+{127}{}{AzÃ©rt, mert ellentÃ©tben a tÃ¶bbi birkÃ¡val, aki itt Ã©l, Ã©n rÃ¡dÃ¶bbentem, hogy ezek az emberisÃ©g egÃ©szÃ©t fenyegetik. TudjÃ¡k, ha kijutok innen, elintÃ©zem, hogy el legyenek takarÃ­tva a fÃ¶ld szÃ­nÃ©r?l! NÃ©zd... tudnak gondolkodni, tanulni, tudnak olvasni, Ã©s Ã­rni is, ha tintÃ¡ba mÃ¡rtjÃ¡k az egyik karmukat. Gyorsak, szÃ­vÃ³sak, figyelmesek Ã©s halÃ¡losak. Ha elszaporodnak, ?k lesznek a legnagyobb fenyegetÃ©s, amivel az emberi faj valaha is szembenÃ©zett. Gondolkodj el ezen! Meg kell semmisÃ­teni ?ket!}
 {128}{}{Hmm. Mondasz valamit.}
-{129}{}{Én gondol te téved.}
-{130}{}{Tudatában vagyok, hogy lehetséges fenyegetést jelentenek számunkra, de én bízom bennük.}
-{131}{}{Igazad van. Mit kellene tennünk?}
-{132}{}{Egyedül semmi esélyem sincs, de együtt kijuthatunk innen. Mit gondolsz?}
+{129}{}{Ã‰n gondol te tÃ©ved.}
+{130}{}{TudatÃ¡ban vagyok, hogy lehetsÃ©ges fenyegetÃ©st jelentenek szÃ¡munkra, de Ã©n bÃ­zom bennÃ¼k.}
+{131}{}{Igazad van. Mit kellene tennÃ¼nk?}
+{132}{}{EgyedÃ¼l semmi esÃ©lyem sincs, de egyÃ¼tt kijuthatunk innen. Mit gondolsz?}
 {133}{}{Igen.}
 {134}{}{Nem.}
-{135}{}{Arrgh! Hülye vagy, ha hiszel nekik! Gyere vissza, ha meggondoltad magad, és vigyél magaddal!}
-{136}{}{Viszlát!}
-{137}{}{Meggondoltad magad? Segítesz kijutnom innen?}
+{135}{}{Arrgh! HÃ¼lye vagy, ha hiszel nekik! Gyere vissza, ha meggondoltad magad, Ã©s vigyÃ©l magaddal!}
+{136}{}{ViszlÃ¡t!}
+{137}{}{Meggondoltad magad? SegÃ­tesz kijutnom innen?}
 {138}{}{Igen.}
 {139}{}{Nem.}
-{140}{}{Úgy t?nik, nagy szarban vagy!}
-{141}{}{Én nem jönni szökés miatt. Én jönni számítógép betörés miatt. Te csinálni?}
-{142}{}{Nem azért jöttem, hogy szökési tervekr?l beszéljünk. Valaki szabotálta a szuperszámítógép illeszt? egységét. Tudsz valamit err?l?}
-{143}{}{Úgy t?nik, nagy szarban vagy!}
-{144}{}{Aha. Elpusztítottam a hangvezérl? modult, és letiltottam minden billenty?zetr?l történ? adatbevitelt.}
-{145}{}{Miért?}
-{146}{}{A szuperszámítógép kikapcsolásával a menedék szép lassan le fog állni. Táplálék és víz nélkül a halálkarmok rá lesznek kényszerítve, hogy szükségleteiket rablás útján elégítsék ki. Végül aztán felfedezik ?ket, és le lehet számolni az emberiséget fenyeget? veszéllyel.}
-{147}{}{Mások lenni itt. Nekik kell kaja, víz. Te nem érdekelni ?k?}
-{148}{}{Mi van azokkal, akik itt élnek? Egyáltalán nem érdekel a sorsuk?}
-{149}{}{A legkevésbé sem. ?k egyszer?en a háború áldozatai.}
-{150}{}{Én menni mostan.}
-{151}{}{Én gondolok, most l?ni agyon tégedet.}
-{152}{}{Szép munka.}
-{153}{}{Értem. Akkor most lelépek.}
-{154}{}{Azt hiszem, most helyben agyonl?lek. Egyértelm?en veszélyt jelentesz!}
-{155}{}{Szép munka!}
+{140}{}{Ãšgy t?nik, nagy szarban vagy!}
+{141}{}{Ã‰n nem jÃ¶nni szÃ¶kÃ©s miatt. Ã‰n jÃ¶nni szÃ¡mÃ­tÃ³gÃ©p betÃ¶rÃ©s miatt. Te csinÃ¡lni?}
+{142}{}{Nem azÃ©rt jÃ¶ttem, hogy szÃ¶kÃ©si tervekr?l beszÃ©ljÃ¼nk. Valaki szabotÃ¡lta a szuperszÃ¡mÃ­tÃ³gÃ©p illeszt? egysÃ©gÃ©t. Tudsz valamit err?l?}
+{143}{}{Ãšgy t?nik, nagy szarban vagy!}
+{144}{}{Aha. ElpusztÃ­tottam a hangvezÃ©rl? modult, Ã©s letiltottam minden billenty?zetr?l tÃ¶rtÃ©n? adatbevitelt.}
+{145}{}{MiÃ©rt?}
+{146}{}{A szuperszÃ¡mÃ­tÃ³gÃ©p kikapcsolÃ¡sÃ¡val a menedÃ©k szÃ©p lassan le fog Ã¡llni. TÃ¡plÃ¡lÃ©k Ã©s vÃ­z nÃ©lkÃ¼l a halÃ¡lkarmok rÃ¡ lesznek kÃ©nyszerÃ­tve, hogy szÃ¼ksÃ©gleteiket rablÃ¡s ÃºtjÃ¡n elÃ©gÃ­tsÃ©k ki. VÃ©gÃ¼l aztÃ¡n felfedezik ?ket, Ã©s le lehet szÃ¡molni az emberisÃ©get fenyeget? veszÃ©llyel.}
+{147}{}{MÃ¡sok lenni itt. Nekik kell kaja, vÃ­z. Te nem Ã©rdekelni ?k?}
+{148}{}{Mi van azokkal, akik itt Ã©lnek? EgyÃ¡ltalÃ¡n nem Ã©rdekel a sorsuk?}
+{149}{}{A legkevÃ©sbÃ© sem. ?k egyszer?en a hÃ¡borÃº Ã¡ldozatai.}
+{150}{}{Ã‰n menni mostan.}
+{151}{}{Ã‰n gondolok, most l?ni agyon tÃ©gedet.}
+{152}{}{SzÃ©p munka.}
+{153}{}{Ã‰rtem. Akkor most lelÃ©pek.}
+{154}{}{Azt hiszem, most helyben agyonl?lek. EgyÃ©rtelm?en veszÃ©lyt jelentesz!}
+{155}{}{SzÃ©p munka!}

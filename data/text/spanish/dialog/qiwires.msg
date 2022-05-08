@@ -1,4 +1,4 @@
-{100}{}{Te preguntas si esos alambres est·n conectados al suelo.}
+{100}{}{Te preguntas si esos alambres est√°n conectados al suelo.}
 {110}{}{Cortas los alambres, deteniendo la corriente hacia el suelo.}
 {111}{}{ corta los alambres, deteniendo la corriente hacia el suelo.}
 {120}{}{Eres demasiado inepto para cortar el cable correcto.}

@@ -1,74 +1,74 @@
-{100}{}{Widzisz osobê w œmiesznej pi¿amie.}
-{101}{}{Widzisz jednego z zamieszkuj¹cych tu Shi.}
-{102}{}{Ta osoba wygl¹da zupe³nie niepodobnie do kogokolwiek spotkanego przez ciebie wczeœniej. Chyba niezbyt siê tob¹ interesuje.}
-{103}{}{Nie jesteœ szpiegiem, prawda?}
-{104}{}{Kim jesteœ?}
+{100}{}{Widzisz osobÄ™ w Å›miesznej piÅ¼amie.}
+{101}{}{Widzisz jednego z zamieszkujÄ…cych tu Shi.}
+{102}{}{Ta osoba wyglÄ…da zupeÅ‚nie niepodobnie do kogokolwiek spotkanego przez ciebie wczeÅ›niej. Chyba niezbyt siÄ™ tobÄ… interesuje.}
+{103}{}{Nie jesteÅ› szpiegiem, prawda?}
+{104}{}{Kim jesteÅ›?}
 {105}{}{Ryby i glony. To wszystko, co mamy.}
-{106}{}{Cha cha! Patrzcie na te œmieszne okr¹g³e oczy!}
-{107}{}{Wygl¹dasz mi na Centrologa.}
+{106}{}{Cha cha! Patrzcie na te Å›mieszne okrÄ…gÅ‚e oczy!}
+{107}{}{WyglÄ…dasz mi na Centrologa.}
 {108}{}{Zostaw nas w spokoju.}
-{109}{}{Niech ¿yje Lo Pan!}
+{109}{}{Niech Å¼yje Lo Pan!}
 {110}{}{Precz ze Smokiem!}
 {111}{}{Lo Pan to bohater.}
-{112}{}{Uwa¿aj na Smoka. Jego imiê oznacza same k³opoty.}
-{113}{}{Te punki s¹ zawsze takie g³oœne.}
-{114}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [wzdycha]}
-{115}{}{Czy w ¿yciu nie ma czegoœ wiêcej?}
-{116}{}{Jesteœmy m¹drzejsi, ni¿ siê tobie wydaje.}
+{112}{}{UwaÅ¼aj na Smoka. Jego imiÄ™ oznacza same kÅ‚opoty.}
+{113}{}{Te punki sÄ… zawsze takie gÅ‚oÅ›ne.}
+{114}{}{Praca, praca, praca. RyÅ¼, ryÅ¼, ryÅ¼ [wzdycha]}
+{115}{}{Czy w Å¼yciu nie ma czegoÅ› wiÄ™cej?}
+{116}{}{JesteÅ›my mÄ…drzejsi, niÅ¼ siÄ™ tobie wydaje.}
 {117}{}{Patrzcie! Lao wai!}
 {118}{}{Witamy w San Francisco.}
-{119}{}{Wygl¹dasz na kogoœ z g³ow¹ na karku.}
-{120}{}{Lo Panowi mo¿e przydaæ siê twoja pomoc.}
-{121}{}{Nie rób krzywdy ludziom w szkar³acie, lao wai.}
+{119}{}{WyglÄ…dasz na kogoÅ› z gÅ‚owÄ… na karku.}
+{120}{}{Lo Panowi moÅ¼e przydaÄ‡ siÄ™ twoja pomoc.}
+{121}{}{Nie rÃ³b krzywdy ludziom w szkarÅ‚acie, lao wai.}
 {122}{}{Lao wai znaczy "obcy".}
-{123}{}{Jesteœ po naszej stronie, prawda?}
+{123}{}{JesteÅ› po naszej stronie, prawda?}
 {124}{}{Zabij dla nas Smoka, dobrze?}
-{125}{}{Zaszczycasz nas swoj¹ obecnoœci¹.}
-{126}{}{Nasz przywódca! Pokonany!}
-{127}{}{Musimy dokonaæ zemsty za Lo Pana!}
-{128}{}{Kto poprowadzi nas do œwietnoœci je¿eli Lo Pan nie ¿yje?}
+{125}{}{Zaszczycasz nas swojÄ… obecnoÅ›ciÄ….}
+{126}{}{Nasz przywÃ³dca! Pokonany!}
+{127}{}{Musimy dokonaÄ‡ zemsty za Lo Pana!}
+{128}{}{Kto poprowadzi nas do Å›wietnoÅ›ci jeÅ¼eli Lo Pan nie Å¼yje?}
 {129}{}{Co teraz zrobimy?}
-{130}{}{Jesteœmy zhañbieni. Powinniœmy nie ¿yæ jak Lo Pan.}
-{131}{}{¯ycie nie ma ju¿ znaczenia.}
-{132}{}{Wraz ze œmierci¹ Lo Pana nasze marzenia leg³y w gruzach.}
-{133}{}{Lo Pan by³ ostatnim wielkim przywódc¹.}
-{134}{}{Smok nie ¿yje! Lo Pan zwyciê¿y³!}
-{135}{}{Wyœmiaæ przegranych!}
-{136}{}{Smok upad³!}
+{130}{}{JesteÅ›my zhaÅ„bieni. PowinniÅ›my nie Å¼yÄ‡ jak Lo Pan.}
+{131}{}{Å»ycie nie ma juÅ¼ znaczenia.}
+{132}{}{Wraz ze Å›mierciÄ… Lo Pana nasze marzenia legÅ‚y w gruzach.}
+{133}{}{Lo Pan byÅ‚ ostatnim wielkim przywÃ³dcÄ….}
+{134}{}{Smok nie Å¼yje! Lo Pan zwyciÄ™Å¼yÅ‚!}
+{135}{}{WyÅ›miaÄ‡ przegranych!}
+{136}{}{Smok upadÅ‚!}
 {137}{}{Lo Pan! Lo Pan! Lo Pan!}
-{138}{}{Zwyciê¿yliœmy!}
-{139}{}{Smok nie ¿yje - to wspaniale!}
-{140}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [wzdycha]}
-{141}{}{Czy w ¿yciu nie ma czegoœ wiêcej?}
-{142}{}{Jesteœmy m¹drzejsi, ni¿ siê tobie wydaje.}
+{138}{}{ZwyciÄ™Å¼yliÅ›my!}
+{139}{}{Smok nie Å¼yje - to wspaniale!}
+{140}{}{Praca, praca, praca. RyÅ¼, ryÅ¼, ryÅ¼ [wzdycha]}
+{141}{}{Czy w Å¼yciu nie ma czegoÅ› wiÄ™cej?}
+{142}{}{JesteÅ›my mÄ…drzejsi, niÅ¼ siÄ™ tobie wydaje.}
 {143}{}{Patrzcie! Lao wai!}
 {144}{}{Usta Cesarza - martwy! Miasto legnie w gruzach!}
 {145}{}{Co teraz?}
-{146}{}{Mam nadziejê, ¿e dzicy nas teraz nie podbij¹.}
-{147}{}{Dobrzy zawsze gin¹ m³odo.}
-{148}{}{Mam nadziejê, ¿e przetrwamy bez Kena Lee.}
-{149}{}{Podobno Ken Lee by³ jedynym, który utrzymywa³ Imperatora w formie.}
-{150}{}{Chodz¹ s³uchy, ¿e Imperator to tylko przykrywka dla Kena Lee. }
-{151}{}{Mo¿e Lo Pan móg³by zaj¹æ miejsce Kena Lee...}
-{152}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [wzdycha]}
-{153}{}{Czy w ¿yciu nie ma czegoœ wiêcej?}
-{154}{}{Jesteœmy m¹drzejsi, ni¿ siê tobie wydaje.}
+{146}{}{Mam nadziejÄ™, Å¼e dzicy nas teraz nie podbijÄ….}
+{147}{}{Dobrzy zawsze ginÄ… mÅ‚odo.}
+{148}{}{Mam nadziejÄ™, Å¼e przetrwamy bez Kena Lee.}
+{149}{}{Podobno Ken Lee byÅ‚ jedynym, ktÃ³ry utrzymywaÅ‚ Imperatora w formie.}
+{150}{}{ChodzÄ… sÅ‚uchy, Å¼e Imperator to tylko przykrywka dla Kena Lee. }
+{151}{}{MoÅ¼e Lo Pan mÃ³gÅ‚by zajÄ…Ä‡ miejsce Kena Lee...}
+{152}{}{Praca, praca, praca. RyÅ¼, ryÅ¼, ryÅ¼ [wzdycha]}
+{153}{}{Czy w Å¼yciu nie ma czegoÅ› wiÄ™cej?}
+{154}{}{JesteÅ›my mÄ…drzejsi, niÅ¼ siÄ™ tobie wydaje.}
 {155}{}{Patrzcie! Lao wai!}
-{163}{}{Uda³o ci siê zabiæ UKC-9? Wspaniale!}
-{164}{}{Ci Centrolodzy przyprawiaj¹ mnie o dreszcze.}
-{165}{}{Jesteœmy ci wdziêczni za oddan¹ nam wielk¹ przys³ugê.}
-{166}{}{Œmieræ Centrologom!}
-{167}{}{To przegoni st¹d tych Centrologów na dobre.}
-{168}{}{G³upi Centrolodzy, nie potrafili nawet ochroniæ swojego w³asnego przywódcy.}
-{169}{}{Lepiej, ¿eby Centrolodzy nie próbowali na nas wywrzeæ swojej zemsty.}
-{170}{}{Chyba jednak nie jesteœ szpiegiem.}
-{171}{}{Œwiñski synu! Giñ!}
-{172}{}{Moja rodzina jest przez ciebie zhañbiona!}
+{163}{}{UdaÅ‚o ci siÄ™ zabiÄ‡ UKC-9? Wspaniale!}
+{164}{}{Ci Centrolodzy przyprawiajÄ… mnie o dreszcze.}
+{165}{}{JesteÅ›my ci wdziÄ™czni za oddanÄ… nam wielkÄ… przysÅ‚ugÄ™.}
+{166}{}{ÅšmierÄ‡ Centrologom!}
+{167}{}{To przegoni stÄ…d tych CentrologÃ³w na dobre.}
+{168}{}{GÅ‚upi Centrolodzy, nie potrafili nawet ochroniÄ‡ swojego wÅ‚asnego przywÃ³dcy.}
+{169}{}{Lepiej, Å¼eby Centrolodzy nie prÃ³bowali na nas wywrzeÄ‡ swojej zemsty.}
+{170}{}{Chyba jednak nie jesteÅ› szpiegiem.}
+{171}{}{ÅšwiÅ„ski synu! GiÅ„!}
+{172}{}{Moja rodzina jest przez ciebie zhaÅ„biona!}
 {173}{}{Zostaw nas w spokoju, lao wai!}
-{174}{}{Czy nie wystarczy ci ju¿ twoich dotychczasowych zniszczeñ?}
-{175}{}{Nienawidzê ciê!}
-{176}{}{Opuœæ nasze miasto!}
+{174}{}{Czy nie wystarczy ci juÅ¼ twoich dotychczasowych zniszczeÅ„?}
+{175}{}{NienawidzÄ™ ciÄ™!}
+{176}{}{OpuÅ›Ä‡ nasze miasto!}
 {177}{}{Wracaj do swoich!}
-{178}{}{Niech twoja twarz nie rzuca cienia na moje ¿ycie!}
-{179}{}{Czego trzeba, aby siê ciebie pozbyæ?}
+{178}{}{Niech twoja twarz nie rzuca cienia na moje Å¼ycie!}
+{179}{}{Czego trzeba, aby siÄ™ ciebie pozbyÄ‡?}
 {180}{}{Ratunku! Na pomoc!}

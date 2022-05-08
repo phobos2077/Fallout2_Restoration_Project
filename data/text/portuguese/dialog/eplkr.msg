@@ -1,1 +1,1 @@
-{100}{}{Este arm·rio È bloqueado eletronicamente. N„o h· nenhuma maneira de desbloque·-lo a partir daqui.}
+{100}{}{Este arm√°rio √© bloqueado eletronicamente. N√£o h√° nenhuma maneira de desbloque√°-lo a partir daqui.}

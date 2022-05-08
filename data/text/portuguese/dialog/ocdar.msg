@@ -1,8 +1,8 @@
-{100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
+{100}{}{VocÃª vÃª um garra mortal. Ele observa vocÃª com olhos estranhamente inteligentes.}
 {101}{}{You see Dar, the Deathclaw.}
-{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
+{102}{}{VocÃª vÃª um tÃ­pico garra mortal. A criatura Ã© enorme, com um corpo poderoso, dentes afiados, e longas garras.}
 {103}{}{Hello, human.}
-{104}{}{O que você quer?}
+{104}{}{O que vocÃª quer?}
 {105}{}{Hi. Who you?}
 {106}{}{Why you here?}
 {107}{}{You smart like rest?}

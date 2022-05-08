@@ -1,7 +1,7 @@
-{100}{}{Ves un montón de rocas poco visible.}
-{101}{}{Ves un pequeño montón de rocas. Casi parecen amontonadas a propósito.}
-{102}{}{No es más que un montón de rocas.}
-{103}{}{¡Vaya! Encontré una llave inglesa enterrada bajo las rocas.}
-{104}{}{Aquí no hay nada más.}
-{110}{}{¡Oye! Yo encuentro instrumento aquí.}
-{111}{}{No encuentro más tesoro.}
+{100}{}{Ves un montÃ³n de rocas poco visible.}
+{101}{}{Ves un pequeÃ±o montÃ³n de rocas. Casi parecen amontonadas a propÃ³sito.}
+{102}{}{No es mÃ¡s que un montÃ³n de rocas.}
+{103}{}{Â¡Vaya! EncontrÃ© una llave inglesa enterrada bajo las rocas.}
+{104}{}{AquÃ­ no hay nada mÃ¡s.}
+{110}{}{Â¡Oye! Yo encuentro instrumento aquÃ­.}
+{111}{}{No encuentro mÃ¡s tesoro.}

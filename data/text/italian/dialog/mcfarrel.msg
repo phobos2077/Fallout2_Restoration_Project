@@ -17,7 +17,7 @@
 {167}{}{Prima hai accennato qualcosa a proposito di un orologio...}
 {168}{}{E' questo l'orologio che stavi cercando?}
 {169}{}{Tutti rodi-rodi morti!}
-{170}{}{Giar– din?}
+{170}{}{Giarâ€“ din?}
 {171}{}{Oh no, ancora?! Quanta gente Cornelius mandera' qui a cercare il suo orologio? Non sono stato io. Inoltre, probabilmente sono stato a mia volta vittima dello stesso ladro. Piu' o meno nello stesso periodo della scomparsa del suo orologio, alcuni dei miei attrezzi sono stati rubati. Sono sicuro che non mi credi, per cui puoi tranquillamente dare un'occhiata in giro, altrimenti so che non te ne andrai. Beh, accomodati!}
 {172}{}{Credo che daro' un'occhiata in giro.}
 {173}{}{E' stata Miria a dirtelo? Dovro' darle un sculacciata se non la smette di spettegolare! Senti, saro' anche povero, ma ho il mio orgoglio. Ho aiutato uno dei mercanti a riparare il suo carro, e in cambio ho ricevuto degli attrezzi.}

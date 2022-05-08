@@ -1,3 +1,3 @@
-{100}{}{Widzisz sfatygowana taúmÍ.}
-{101}{}{Pip-Boy wyúwietla: Plik znaleziony w systemie. Kopiowanie przerwane.}
-{102}{}{Pip-Boy wyúwietla: Kopiowanie danych z dysku. Po≥oøenie ìKrypty 13î dodane do mapy úwiata.}
+{100}{}{Widzisz sfatygowana ta≈õmƒô.}
+{101}{}{Pip-Boy wy≈õwietla: Plik znaleziony w systemie. Kopiowanie przerwane.}
+{102}{}{Pip-Boy wy≈õwietla: Kopiowanie danych z dysku. Po≈Ço≈ºenie ‚ÄúKrypty 13‚Äù dodane do mapy ≈õwiata.}

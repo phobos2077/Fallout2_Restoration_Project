@@ -1,51 +1,51 @@
-{100}{}{Du siehst jemanden, der ein Fallensteller sein könnte.}
+{100}{}{Du siehst jemanden, der ein Fallensteller sein kÃ¶nnte.}
 {101}{}{Du siehst jemanden, der sich ausruht.}
 {102}{}{Du siehst einen Stadtbewohner.}
 {103}{}{Du siehst einen Arbeiter, der sich ausruht.}
-{104}{}{Du siehst eine Person, die einen Drink genießt.}
+{104}{}{Du siehst eine Person, die einen Drink genieÃŸt.}
 {150}{}{Du bist in der falschen Kneipe, glaubst du nicht?}
 {151}{}{Wir brauchen hier keine Unruhestifter.}
-{152}{}{Wilde suchen immer Ärger.}
+{152}{}{Wilde suchen immer Ã„rger.}
 {153}{}{Solange du nicht zu viel Feuerwasser abbekommst...}
-{154}{}{(Murmel, murmel)...tut mir leid, Arsch von außerhalb...}
+{154}{}{(Murmel, murmel)...tut mir leid, Arsch von auÃŸerhalb...}
 {155}{}{Wieder einer von Duntons Gang.}
 {156}{}{Was schaust du so?}
 {157}{}{Geh einfach weiter.}
-{158}{}{Neuling, schmeiß 'ne Runde.}
+{158}{}{Neuling, schmeiÃŸ 'ne Runde.}
 {159}{}{Ich hoffe, du kannst deinen Schnaps halten.}
 {160}{}{Du siehst nicht wie ein Kannibale aus.}
-{161}{}{Hier ist kein Platz für Leute wie dich.}
+{161}{}{Hier ist kein Platz fÃ¼r Leute wie dich.}
 {162}{}{In letzter Zeit gibt's hier zu viele Fremde.}
-{163}{}{Naja, wenigstens sind deine Zähne nicht angespitzt.}
-{164}{}{Die Gegend hier geht allmählich vor die Hunde.}
-{165}{}{Müsstest du nicht einen Knochen durch die Nase haben?}
-{166}{}{(Schaut dich an und schüttelt den Kopf)}
-{167}{}{(Macht ein subtile unhöfliche Geste)}
-{168}{}{Du bist wahrscheinlich für die Verstümmlungen der Brahmin verantwortlich.}
-{169}{}{Einige unserer Fallensteller sind verschwunden; wahrscheinlich bist du dafür verantwortlich.}
-{170}{}{In der Stadt treiben sich Wanzenmänner rum.}
-{171}{}{Es gibt einen Geist in einem Canyon östlich der Stadt.}
+{163}{}{Naja, wenigstens sind deine ZÃ¤hne nicht angespitzt.}
+{164}{}{Die Gegend hier geht allmÃ¤hlich vor die Hunde.}
+{165}{}{MÃ¼sstest du nicht einen Knochen durch die Nase haben?}
+{166}{}{(Schaut dich an und schÃ¼ttelt den Kopf)}
+{167}{}{(Macht ein subtile unhÃ¶fliche Geste)}
+{168}{}{Du bist wahrscheinlich fÃ¼r die VerstÃ¼mmlungen der Brahmin verantwortlich.}
+{169}{}{Einige unserer Fallensteller sind verschwunden; wahrscheinlich bist du dafÃ¼r verantwortlich.}
+{170}{}{In der Stadt treiben sich WanzenmÃ¤nner rum.}
+{171}{}{Es gibt einen Geist in einem Canyon Ã¶stlich der Stadt.}
 {172}{}{Lass dich nicht vom Wandelnden Geist erwischen!}
-{173}{}{Es wär besser für dich, wenn du unsere Brahmin in Ruhe lässt.}
+{173}{}{Es wÃ¤r besser fÃ¼r dich, wenn du unsere Brahmin in Ruhe lÃ¤sst.}
 {174}{}{Wir behalten dich im Auge.}
-{201}{}{Es ist schön, jemand Neues in der Stadt zu sehen.}
+{201}{}{Es ist schÃ¶n, jemand Neues in der Stadt zu sehen.}
 {202}{}{Wilde sind wahrscheinlich gar nicht so schlecht.}
-{203}{}{Schmeiß 'ne Runde!}
-{204}{}{Sag Hallo zu Smiley dort drüben und zu Gimpy Jim daneben.}
-{205}{}{Du könntest Suliks Zwilling sein.}
-{206}{}{Sulik schon begrüßt?}
+{203}{}{SchmeiÃŸ 'ne Runde!}
+{204}{}{Sag Hallo zu Smiley dort drÃ¼ben und zu Gimpy Jim daneben.}
+{205}{}{Du kÃ¶nntest Suliks Zwilling sein.}
+{206}{}{Sulik schon begrÃ¼ÃŸt?}
 {207}{}{In letzter Zeit haben wir auf der Jagd viel erwischt.}
 {208}{}{Wetter wird wohl bald umschlagen.}
-{209}{}{Ich habe eine gute Stelle für Fallen südlich von hier gefunden.}
-{210}{}{Wenn du clever bist, hältst du dich von den Duntons fern.}
+{209}{}{Ich habe eine gute Stelle fÃ¼r Fallen sÃ¼dlich von hier gefunden.}
+{210}{}{Wenn du clever bist, hÃ¤ltst du dich von den Duntons fern.}
 {211}{}{Wenn du verspannt bist, probier das Badehaus aus.}
 {212}{}{Geh nach Westen, in die Trapperstadt, wenn du einen Platz suchst, wo du pennen kannst.}
 {213}{}{Willkommen, Freund.}
-{214}{}{Ich hoffe, dir gefällt unsere Stadt.}
+{214}{}{Ich hoffe, dir gefÃ¤llt unsere Stadt.}
 {215}{}{Klamath ist DER Ort.}
-{216}{}{Schön, dass du hier bist.}
+{216}{}{SchÃ¶n, dass du hier bist.}
 {217}{}{(Prostet dir mit seinem Krug zu)}
 {218}{}{(Zwinkert dir zu)}
-{219}{}{Unternimm nachts keine Ausflüge.}
-{220}{}{In den Hügeln treiben sich Wanzenmänner rum.}
+{219}{}{Unternimm nachts keine AusflÃ¼ge.}
+{220}{}{In den HÃ¼geln treiben sich WanzenmÃ¤nner rum.}
 {221}{}{Einer unserer besten Fallensteller wird vermisst.}

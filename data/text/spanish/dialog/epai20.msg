@@ -1,3 +1,3 @@
-{100}{}{Contraseña incorrecta. Sistema de bloqueo.}
-{101}{}{Contraseña correcta.}
+{100}{}{ContraseÃ±a incorrecta. Sistema de bloqueo.}
+{101}{}{ContraseÃ±a correcta.}
 {102}{}{MACETA}

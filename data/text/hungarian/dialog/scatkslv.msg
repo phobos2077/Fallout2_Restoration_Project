@@ -1,4 +1,4 @@
-{100}{}{Rabszolga-hajcs·r.}
+{100}{}{Rabszolga-hajcs√°r.}
 {101}{}{This slaver looks like one mean dude.}
 {102}{}{This slaver looks like one mean woman.}
 {200}{}{Excellent work. Ready to move on?}

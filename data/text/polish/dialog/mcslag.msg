@@ -1,22 +1,22 @@
-{100}{}{Uciekaæ!}
+{100}{}{UciekaÄ‡!}
 {101}{}{Pomocy!}
-{102}{}{Powierzchniowcy atakuj¹.}
+{102}{}{Powierzchniowcy atakujÄ….}
 {103}{}{Zostaw nas w spokoju.}
-{104}{}{Czy nie mo¿emy ¿yæ w zgodzie?}
-{150}{}{Wracaj, sk¹d przychodzisz!}
-{151}{}{Nie chcemy ciê tutaj.}
-{152}{}{Wy wszyscy powierzchniowcy jesteœcie tacy sami.}
+{104}{}{Czy nie moÅ¼emy Å¼yÄ‡ w zgodzie?}
+{150}{}{Wracaj, skÄ…d przychodzisz!}
+{151}{}{Nie chcemy ciÄ™ tutaj.}
+{152}{}{Wy wszyscy powierzchniowcy jesteÅ›cie tacy sami.}
 {153}{}{Nie uciekniesz.}
 {200}{}{Uuuaa!}
 {201}{}{Buu!}
 {202}{}{Ieeeuuaa.}
 {203}{}{*Klank*}
 {204}{}{*Klink*}
-{250}{}{Kiedyœ ¿yliœmy na górze.}
-{251}{}{Jak tam jest, na górze?}
-{252}{}{Tam na górze jest tak OGROMNIE.}
-{253}{}{Jak wygl¹da s³oñce?}
+{250}{}{KiedyÅ› Å¼yliÅ›my na gÃ³rze.}
+{251}{}{Jak tam jest, na gÃ³rze?}
+{252}{}{Tam na gÃ³rze jest tak OGROMNIE.}
+{253}{}{Jak wyglÄ…da sÅ‚oÅ„ce?}
 {254}{}{Witaj, powierzchniowcu.}
-{300}{}{Wiedzieliœmy, ¿e mo¿emy na ciebie liczyæ.}
-{301}{}{Dziêkujemy Ci za pomoc.}
-{302}{}{Mi³o ciê znowu widzieæ.}
+{300}{}{WiedzieliÅ›my, Å¼e moÅ¼emy na ciebie liczyÄ‡.}
+{301}{}{DziÄ™kujemy Ci za pomoc.}
+{302}{}{MiÅ‚o ciÄ™ znowu widzieÄ‡.}

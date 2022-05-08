@@ -1,2 +1,2 @@
-{100}{}{Se ejecuta killap del Fallout 2 Proyecto de Restauraci髇. La versi髇 2.3.3 u. Gracias por instalar!}
-{101}{}{Se ejecuta killap del Fallout 2 Proyecto de Restauraci髇. La versi髇 2.3.3 u. Gracias por instalar!}
+{100}{}{Se ejecuta killap del Fallout 2 Proyecto de Restauraci贸n. La versi贸n 2.3.3 u. Gracias por instalar!}
+{101}{}{Se ejecuta killap del Fallout 2 Proyecto de Restauraci贸n. La versi贸n 2.3.3 u. Gracias por instalar!}

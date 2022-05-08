@@ -1,22 +1,22 @@
 {100}{}{Un terminal informatique.}
-{101}{}{Un ordinateur plutôt ancien. La vitesse du processeur est de 500 Hz.}
-{102}{}{Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.}
-{103}{}{Station de réparation automatique                                  Traitement des demandes de réparation de Skynet                        Répartition des unités de réparation}
+{101}{}{Un ordinateur plutÃ´t ancien. La vitesse du processeur est de 500 Hz.}
+{102}{}{Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.}
+{103}{}{Station de rÃ©paration automatique                                  Traitement des demandes de rÃ©paration de Skynet                        RÃ©partition des unitÃ©s de rÃ©paration}
 {104}{}{}
 {105}{}{}
-{106}{}{Tentative de désactivation de la station de réparation.}
-{107}{}{[Débrancher l'ordinateur]}
+{106}{}{Tentative de dÃ©sactivation de la station de rÃ©paration.}
+{107}{}{[DÃ©brancher l'ordinateur]}
 {108}{}{[Appuyer sur le gros bouton rouge portant les lettres OFF]}
 {109}{}{[Quitter]}
-{110}{}{[Tu n'as pas l'air de savoir comment arrêter le programme.]}
+{110}{}{[Tu n'as pas l'air de savoir comment arrÃªter le programme.]}
 {111}{}{[Quitter]}
-{112}{}{[Taper le mot « OFF » semble marcher. Le système de réparation automatique est désactivé.]}
+{112}{}{[Taper le mot Â« OFF Â» semble marcher. Le systÃ¨me de rÃ©paration automatique est dÃ©sactivÃ©.]}
 {113}{}{[Quitter]}
-{114}{}{[Tu remarques par hasard un câble électrique branché sur une prise murale. L'écran de l'ordinateur redevient noir lorsque tu débranches le câble.]}
+{114}{}{[Tu remarques par hasard un cÃ¢ble Ã©lectrique branchÃ© sur une prise murale. L'Ã©cran de l'ordinateur redevient noir lorsque tu dÃ©branches le cÃ¢ble.]}
 {115}{}{[Quitter]}
-{116}{}{[Tu appuies bravement sur le bouton « OFF ». Comme tu t'y attendais, le terminal de l'ordinateur devient noir.]}
+{116}{}{[Tu appuies bravement sur le bouton Â« OFF Â». Comme tu t'y attendais, le terminal de l'ordinateur devient noir.]}
 {117}{}{[Quitter]}
-{118}{}{[Lorsque tu commences à taper, les touches sortent du clavier et tombent sur le sol. Il ne faut plus compter utiliser ce terminal.]}
+{118}{}{[Lorsque tu commences Ã  taper, les touches sortent du clavier et tombent sur le sol. Il ne faut plus compter utiliser ce terminal.]}
 {119}{}{[Quitter]}
-{120}{}{Tu as déjà arrêté le système de réparation automatique.}
-{121}{}{Je ne peux pas accéder au terminal. Quelqu'un a cassé le clavier.}
+{120}{}{Tu as dÃ©jÃ  arrÃªtÃ© le systÃ¨me de rÃ©paration automatique.}
+{121}{}{Je ne peux pas accÃ©der au terminal. Quelqu'un a cassÃ© le clavier.}

@@ -84,7 +84,7 @@
 {285}{}{[Kitsune ponders your words for a good long while. Finally, she lines her eyes with yours.] I can't pretend you don't have a point. Maybe... maybe I will take my chances with you.}
 {286}{}{Let's get out of here, then. It's time we left this dump behind.}
 {287}{}{Actually, I think I'm going to strike out on my own. I've always been the independent type, so it shouldn't be any skin off my back. A lot has changed since I've been away and I'd like to see it for myself. Thanks for unthawing me. You take care of yourself.}
-{288}{}{[Kész]}
+{288}{}{[KÃ©sz]}
 {300}{}{Igen?}
 {301}{}{I'm all ears.}
 {302}{}{Something you wanted?}
@@ -152,17 +152,17 @@
 {373}{}{What's the term for it... heterochromia? Is that what you have?}
 {374}{}{Mine isn't a natural condition. The one on the left didn't belong to me. I lost the old one in an accident.
  And I've never learned to appreciate that until now.}
-{375}{}{Ezt most hogy kell értenem?}
+{375}{}{Ezt most hogy kell Ã©rtenem?}
 {376}{}{Ever since the transplant I always felt like I was seeing the past in one eye and the present in the other.
  More so than ever now. And that helps me carry on.}
 {377}{}{We all have our ways of coping.}
 {410}{}{Mit akarsz tudni?}
 {411}{}{I have a black belt in sanshou. I can stab a man to death if the situation calls for it. Pistols, rifles and the like I'm decent with.}
-{420}{}{Kicsit át kéne gondolnunk, milyen távolságban kövess engem.}
+{420}{}{Kicsit Ã¡t kÃ©ne gondolnunk, milyen tÃ¡volsÃ¡gban kÃ¶vess engem.}
 {421}{}{What's wrong with it?}
-{422}{}{Maradj a közelemben!}
+{422}{}{Maradj a kÃ¶zelemben!}
 {423}{}{Alright. I have your back.}
-{424}{}{Ne menj túl messzire!}
+{424}{}{Ne menj tÃºl messzire!}
 {425}{}{You need your space, got it.}
 {426}{}{Let's spread out.}
 {427}{}{Okay. We're harder targets apart.}
@@ -184,8 +184,8 @@
 {460}{}{You've got enough people already. You don't need an entourage.}
 {461}{}{Maybe when you've freed up some space. I don't run well with crowds.}
 {462}{}{You ready to take me with you?}
-{463}{}{Gyerünk!}
-{464}{}{Nem, még nem.}
+{463}{}{GyerÃ¼nk!}
+{464}{}{Nem, mÃ©g nem.}
 {470}{}{Jesus, you look like the Grim Reaper. You ought to get yourself checked out.}
 {480}{}{No problem. I'm lighter on my feet without it.}
 {490}{}{Never been better. Let's keep going.}
@@ -363,5 +363,5 @@
 {3260}{}{So they were traitors to their people, but for their people's own good. Got it.}
 {3261}{}{Look, I'm sick of hearing about your parents. How 'bout you get to the part about you being a spy?}
 {5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.]}
-{5001}{}{[vége]}
-{5002}{}{Az úristenit!}
+{5001}{}{[vÃ©ge]}
+{5002}{}{Az Ãºristenit!}

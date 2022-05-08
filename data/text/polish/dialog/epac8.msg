@@ -1,1 +1,1 @@
-{100}{}{Wygl¹da, ¿e uda³o ci siê wytêpiæ wszystkie zmutowane roœliny zarodnikowe.}
+{100}{}{WyglÄ…da, Å¼e udaÅ‚o ci siÄ™ wytÄ™piÄ‡ wszystkie zmutowane roÅ›liny zarodnikowe.}

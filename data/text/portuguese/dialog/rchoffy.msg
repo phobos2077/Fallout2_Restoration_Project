@@ -11,7 +11,7 @@
 {110}{}{I hear that you had some trouble with some of your caravans. Everyone has trouble sometimes -
  just don't make a habit of it.}
 {111}{}{I hear you did some caravan work already. That's good. There's always room for good caravan guards.}
-{112}{}{Quem é você?}
+{112}{}{Quem Ã© vocÃª?}
 {113}{}{Are there any caravans ready to go out now?}
 {114}{}{Where do the caravans from Redding usually go?}
 {115}{}{Hear any news around town lately?}
@@ -53,7 +53,7 @@
 {141}{}{What can you tell me about New Reno?}
 {142}{}{What can you tell me about the NCR?}
 {143}{}{Thanks. Let me ask you about something else.}
-{144}{}{É tudo o que eu queria saber agora. Tchau.}
+{144}{}{Ã‰ tudo o que eu queria saber agora. Tchau.}
 {145}{}{Now that's a town. Just make sure you keep your wits about you and your gun handy. Lots of
  fighting going on there. If those families ever worked together on something, then New Reno'd really be
  a power to be reckoned with. The way it is though... Pffft. You want to get there, join up with Savinelli -
@@ -61,7 +61,7 @@
 {146}{}{What can you tell me about Vault City?}
 {147}{}{What can you tell me about the NCR?}
 {148}{}{Thanks. Let me ask you about something else.}
-{149}{}{É tudo o que eu queria saber agora. Tchau.}
+{149}{}{Ã‰ tudo o que eu queria saber agora. Tchau.}
 {150}{}{The New California Republic is just full of self-righteous sons-of-bitches. They've got
  everything down their way all straightened out all right. A little too straight. They're as self
  righteous a bunch as you could ever meet. Stanwell runs a caravan from here to the NCR on the 11th of
@@ -69,7 +69,7 @@
 {151}{}{What can you tell me about Vault City?}
 {152}{}{What can you tell me about New Reno?}
 {153}{}{Thanks. Let me ask you about something else.}
-{154}{}{É tudo o que eu queria saber agora. Tchau.}
+{154}{}{Ã‰ tudo o que eu queria saber agora. Tchau.}
 {155}{}{A Garden of Eden Creation Kit? I don't know for certain, 'cept I know we don't have one of them
  here. Hmm. You might try a vault. They're supposed to have all kinds of teck-no-logical stuff, ain't
  they?}
@@ -84,11 +84,11 @@
 {163}{}{Let me ask you something.}
 {164}{}{I just thought I'd check. Thanks and goodbye for now.}
 {165}{}{Nope, no problem at all. You know that you're messing around with politics with that, don't ya?}
-{166}{}{O que você quer dizer?}
+{166}{}{O que vocÃª quer dizer?}
 {167}{}{Yeah, sure. Goodbye.}
 {168}{}{Well, whichever mine owner you give the chip to is gonna do real well with it. Well enough to
  put the other mine outta business.}
-{169}{}{E…?}
+{169}{}{Eâ€¦?}
 {170}{}{That's called capitalism, my friend. Goodbye.}
 {171}{}{Well, if the mine you give the chip to happens to be the Kokoweef Mine, then we're gonna get a
  lot of those NCR pukes nosing around. If you give the chip to Dan McGrew over at the Morningstar, then 

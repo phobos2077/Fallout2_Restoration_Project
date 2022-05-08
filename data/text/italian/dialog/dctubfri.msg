@@ -8,7 +8,7 @@
 {201}{}{Perche' hai ucciso Tubby?}
 {202}{}{Oh cavolo, che merda.}
 {203}{}{E adesso cosa faremo?}
-{204}{}{Oh, cavolo…}
+{204}{}{Oh, cavoloâ€¦}
 {205}{}{Ehi, questo non e' giusto.}
 {206}{}{Non farci del male, non lo diremo a nessuno.}
 {220}{}{Wow, sembri davvero un tipo cattivo.}
@@ -22,8 +22,8 @@
 {228}{}{Oh, cavolo: non sento piu' le gambe.}
 {229}{}{Tubby e' il nostro miglior amico.}
 {230}{}{Tubby ci da' la felicita'.}
-{231}{}{Oh cavoli, oh cavoli oh cavoli… Dannati i miei occhi.}
-{232}{}{Ehi, amico, sei uno schiavista? Wow…}
+{231}{}{Oh cavoli, oh cavoli oh cavoliâ€¦ Dannati i miei occhi.}
+{232}{}{Ehi, amico, sei uno schiavista? Wowâ€¦}
 {233}{}{Ti ha fatto male il tatuaggio?}
 {234}{}{Voi schiavisti siete davvero tosti.}
 {235}{}{E' pericoloso fare lo schiavista?}
@@ -37,12 +37,12 @@
 {253}{}{Cos'era tutto quel casino?}
 {254}{}{Cazzo, quella roba era forte.}
 {255}{}{Wow, cavolo. Ha ucciso Tubby.}
-{260}{}{Ooooohhyaaa… Buona questa roba.}
+{260}{}{Ooooohhyaaaâ€¦ Buona questa roba.}
 {261}{}{Di cosa si tratta?}
 {262}{}{Oh, si', sto volando.}
 {263}{}{Oh, che bel tepore.}
 {264}{}{E' cosi bella.}
-{265}{}{Oh, tutto nero… Merda, non ci vedo.}
+{265}{}{Oh, tutto neroâ€¦ Merda, non ci vedo.}
 {270}{}{Wow, lo vedi?}
 {271}{}{Si', sai cos'era?}
 {272}{}{Credo fosse un uccello.}
@@ -75,7 +75,7 @@
 {309}{}{Perche' sono verdi.}
 {310}{}{Le patate non sono verdi.}
 {311}{}{Ohhh, le lucine carine.}
-{312}{}{Oh, mi gira la testa…}
+{312}{}{Oh, mi gira la testaâ€¦}
 {320}{}{Non parlarmi, amico. Mi gira la testa.}
 {321}{}{Non lo diro' a nessuno.}
 {322}{}{Non farmi del male.}

@@ -1,2 +1,2 @@
-{100}{}{Rátaláltál egy öreg benzinkútra.}
+{100}{}{RÃ¡talÃ¡ltÃ¡l egy Ã¶reg benzinkÃºtra.}
 {101}{}{You find yourself inside an active military base.}

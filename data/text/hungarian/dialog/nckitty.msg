@@ -1,207 +1,207 @@
 {100}{}{? Kitty kisasszony.}
-{150}{}{Egy lélegzetelállító n? áll el?tted. Kacér ruhája ellenére abszolút üzleti profizmus sugárzik bel?le.}
-{200}{}{Az els? negyedéves bevételek kissé emelkedtek... ha ezek után beszámítjuk a megnövekedett tartozást...}
-{201}{}{Ha csak egyszer elkapom, hogy Jetezik, ha csak beleszippant, kirúgom...}
-{202}{}{A havonta esedékes egészségügyisek hamarosan újra jönnek... épp ideje, mert jön a karavánok id?szaka.}
-{203}{}{Szereznem kell még lányokat a Bishop medencés partijára...}
-{204}{}{Ezt a fostöml? Macrosoft programot...}
-{205}{}{Ennyit bajlódni ezzel az adatbázis-kezel?vel... Semmi látszatja nincs a munkámnak!}
-{206}{}{Jules most már tényleg küldhetne egy két kanos... és persze gazdag... fazont.}
-{215}{}{(Az el?tted álló n? lélegzetelállítóan szép. Amint megszólítod, felnéz a munkájából, és mosolyog.) Ó, egy új arc! Én Kitty vagyok... üdvözlünk a Cat's Paw szalonban. }
-{216}{}{Örülök, hogy újra erre jársz!}
-{217}{}{Nahát, Reno leghíresebb bokszbajnoka benézett hozzánk! }
-{218}{}{Kiváncsi vagyok, vajon Mr. }
-{219}{}{Óh, egek, a mozivászon sztárja eljött hozzánk! }
-{220}{}{Ma mi az óhaja, uram?}
-{221}{}{Ma mi az óhaja, kisasszony?}
-{222}{}{Nyhomkolás?}
+{150}{}{Egy lÃ©legzetelÃ¡llÃ­tÃ³ n? Ã¡ll el?tted. KacÃ©r ruhÃ¡ja ellenÃ©re abszolÃºt Ã¼zleti profizmus sugÃ¡rzik bel?le.}
+{200}{}{Az els? negyedÃ©ves bevÃ©telek kissÃ© emelkedtek... ha ezek utÃ¡n beszÃ¡mÃ­tjuk a megnÃ¶vekedett tartozÃ¡st...}
+{201}{}{Ha csak egyszer elkapom, hogy Jetezik, ha csak beleszippant, kirÃºgom...}
+{202}{}{A havonta esedÃ©kes egÃ©szsÃ©gÃ¼gyisek hamarosan Ãºjra jÃ¶nnek... Ã©pp ideje, mert jÃ¶n a karavÃ¡nok id?szaka.}
+{203}{}{Szereznem kell mÃ©g lÃ¡nyokat a Bishop medencÃ©s partijÃ¡ra...}
+{204}{}{Ezt a fostÃ¶ml? Macrosoft programot...}
+{205}{}{Ennyit bajlÃ³dni ezzel az adatbÃ¡zis-kezel?vel... Semmi lÃ¡tszatja nincs a munkÃ¡mnak!}
+{206}{}{Jules most mÃ¡r tÃ©nyleg kÃ¼ldhetne egy kÃ©t kanos... Ã©s persze gazdag... fazont.}
+{215}{}{(Az el?tted Ã¡llÃ³ n? lÃ©legzetelÃ¡llÃ­tÃ³an szÃ©p. Amint megszÃ³lÃ­tod, felnÃ©z a munkÃ¡jÃ¡bÃ³l, Ã©s mosolyog.) Ã“, egy Ãºj arc! Ã‰n Kitty vagyok... Ã¼dvÃ¶zlÃ¼nk a Cat's Paw szalonban. }
+{216}{}{Ã–rÃ¼lÃ¶k, hogy Ãºjra erre jÃ¡rsz!}
+{217}{}{NahÃ¡t, Reno leghÃ­resebb bokszbajnoka benÃ©zett hozzÃ¡nk! }
+{218}{}{KivÃ¡ncsi vagyok, vajon Mr. }
+{219}{}{Ã“h, egek, a mozivÃ¡szon sztÃ¡rja eljÃ¶tt hozzÃ¡nk! }
+{220}{}{Ma mi az Ã³haja, uram?}
+{221}{}{Ma mi az Ã³haja, kisasszony?}
+{222}{}{NyhomkolÃ¡s?}
 {223}{}{Csinosh haja teccik lennie}
-{224}{}{Ó-haly, aszongya.. Hö-Hö-Hö-Hö-Hö}
-{225}{}{George aszonta, f?d zsírjábó' élni meg hogy tarcsam engemet távolba t?led, mer' nem jácchatok a tengerinyulakkal. Ezér' most menek.}
-{226}{}{Jules javasolta, hogy ha valami akcióra vágyom, ugorjak be ide...}
-{227}{}{Valami... akcióra vágyom.}
-{228}{}{Igazából kérdéseket szeretnék feltenni.}
-{229}{}{Az a helyzet, hogy utazásom során belebotlottam a Cat's Paw magazin egy-egy példányába, és g?zöm nem volt, mi az. Itt van egy mutatóba.}
-{230}{}{Itt van a Cat's Paw magazin köteg, amit kértél t?lem.}
-{231}{}{Kösz, egyel?re elleszek magam is.}
-{240}{}{(A csinos n? ráteszi a homlokodra a tenyerét.) Ó, szegénykém... itt maradhatsz egy ideig, amíg el nem múlik a meleg, de ne túl soká, rendben? Ígérd meg.}
-{241}{}{Rendbe', szépp h?gy köfönöm}
-{245}{}{(Mosolyog és rádkacsint.) Csakugyan? Hát akkor a legjobb helyen jársz. Bármi legyen az óhajod, a vágyad, mi eleget teszünk neki... és ne fogd vissza magad, el?ttünk nem kell szégyenl?sködni. Szóval, mivel szolgálhatok?}
-{246}{}{Ó, elnézést, hogy nem kertelek, de szeretnélek jobban megismerni. Mikor szoktál elmenni? Öö, úgy értem, munkából.}
-{247}{}{Attól függ... mi a kinálat?}
-{248}{}{Szeretném a barátomat meglepni valami különleges dologgal.}
-{249}{}{Szeretném a barátomat meglepni valami különleges dologgal. Most van a... szülinapja.}
+{224}{}{Ã“-haly, aszongya.. HÃ¶-HÃ¶-HÃ¶-HÃ¶-HÃ¶}
+{225}{}{George aszonta, f?d zsÃ­rjÃ¡bÃ³' Ã©lni meg hogy tarcsam engemet tÃ¡volba t?led, mer' nem jÃ¡cchatok a tengerinyulakkal. EzÃ©r' most menek.}
+{226}{}{Jules javasolta, hogy ha valami akciÃ³ra vÃ¡gyom, ugorjak be ide...}
+{227}{}{Valami... akciÃ³ra vÃ¡gyom.}
+{228}{}{IgazÃ¡bÃ³l kÃ©rdÃ©seket szeretnÃ©k feltenni.}
+{229}{}{Az a helyzet, hogy utazÃ¡som sorÃ¡n belebotlottam a Cat's Paw magazin egy-egy pÃ©ldÃ¡nyÃ¡ba, Ã©s g?zÃ¶m nem volt, mi az. Itt van egy mutatÃ³ba.}
+{230}{}{Itt van a Cat's Paw magazin kÃ¶teg, amit kÃ©rtÃ©l t?lem.}
+{231}{}{KÃ¶sz, egyel?re elleszek magam is.}
+{240}{}{(A csinos n? rÃ¡teszi a homlokodra a tenyerÃ©t.) Ã“, szegÃ©nykÃ©m... itt maradhatsz egy ideig, amÃ­g el nem mÃºlik a meleg, de ne tÃºl sokÃ¡, rendben? ÃgÃ©rd meg.}
+{241}{}{Rendbe', szÃ©pp h?gy kÃ¶fÃ¶nÃ¶m}
+{245}{}{(Mosolyog Ã©s rÃ¡dkacsint.) Csakugyan? HÃ¡t akkor a legjobb helyen jÃ¡rsz. BÃ¡rmi legyen az Ã³hajod, a vÃ¡gyad, mi eleget teszÃ¼nk neki... Ã©s ne fogd vissza magad, el?ttÃ¼nk nem kell szÃ©gyenl?skÃ¶dni. SzÃ³val, mivel szolgÃ¡lhatok?}
+{246}{}{Ã“, elnÃ©zÃ©st, hogy nem kertelek, de szeretnÃ©lek jobban megismerni. Mikor szoktÃ¡l elmenni? Ã–Ã¶, Ãºgy Ã©rtem, munkÃ¡bÃ³l.}
+{247}{}{AttÃ³l fÃ¼gg... mi a kinÃ¡lat?}
+{248}{}{SzeretnÃ©m a barÃ¡tomat meglepni valami kÃ¼lÃ¶nleges dologgal.}
+{249}{}{SzeretnÃ©m a barÃ¡tomat meglepni valami kÃ¼lÃ¶nleges dologgal. Most van a... szÃ¼linapja.}
 {250}{}{I'd like to ask you some questions...}
-{251}{}{Az a helyzet, hogy meggondoltam magam. Aggódom a teljesítményem miatt, meg minden. Viszlát!}
-{255}{}{Hát ez szerfelett hízelg?... de nem tehetem.}
-{256}{}{Ó, ugyan már! Csak egy italra. Semmi kötelezettség. Jól fogjuk érezni magunkat.}
-{257}{}{Ha nem csíped a n?ket, rendben van. Az igazat megvallva, a n?k legtöbbjét én sem szeretem, tehát valamennyi hasonlóság máris van köztünk.}
-{258}{}{Te csak ne aggódj... az er?páncélomat le fogom venni, oké?}
-{259}{}{Akkor jó. Kérdezhetnék mást?...}
-{260}{}{Bocs, nem akartam nagyon nyomulósnak látszani. Viszlát!}
-{265}{}{(Körbenéz, aztán közelebb hajol és azt súgja.) Figyelj... ha megmentetted a népedet, gyere vissza hozzám, és akkor majd összekalapálunk valamit, oké?}
-{266}{}{Rendben. Lenne pár kérdésem.}
-{267}{}{Tehát randevúzunk. Nem fogom elfelejteni.}
-{275}{}{Nos... (Az ujján számolja a lehet?ségeket.) ...van mézesmázos futam, döngöl?sdi, oboa szonett, és egyéb nyalánkságok. (Mosolyog.) A kérdés csak az, mihez van kedved.}
-{276}{}{Szeretnék egy kis... orális kezelést.}
-{277}{}{Hát engem valami teljesen közönséges, obszcén, felszabadult, mocskos szex érdekelne...}
-{278}{}{Teljes fels?- és altesti edzésre vágyom.}
-{279}{}{Az rendben volna, ha én egyszer?en csak beszélgetnék a lányokkal?}
-{280}{}{Volna egy... speciális... színpadias... kérésem.}
-{290}{}{Jól van, elmegyek.}
-{291}{}{(Kacsint.) Ez még pénzbe sem kerül.}
-{292}{}{Az ára: }
-{293}{}{Legyen. Itt a pénz.}
-{294}{}{Ezt az árat nem lehet ?berelni. Jöhet a mehet!}
-{295}{}{Felejtsd el! Szeretnék még kérdezni egy s mást...}
-{296}{}{Most nincs nálam elég pénz... talán máskor.}
-{320}{}{Hát persze! "Speciális meghallgatás"-nak nevezzük. }
-{322}{}{Az ára csupán }
-{323}{}{Miért ez a neve?}
-{325}{}{Benne vagyok, ezt választom.}
-{326}{}{Talán máskor. Szeretnék inkább kérdezni mást...}
-{335}{}{Hát... a szóbeszéd azt tartja, hogy egy híres számítógépes cég egyik alkalmazottja nagyon szeretett beszélgetni másokkal. (Vállat von.) }
-{336}{}{Egész véletlenül, ? is csak }
-{337}{}{Egészen véletlenül ? sem tudott pénzhez jutni, ezért csak a beszéd maradt számára.}
-{338}{}{Hát akkor egy ilyen beszélgetési menetet rendelnék. Itt van }
-{340}{}{Asszem, ejtem a dolgot. Inkább kérdéseket tennék fel...}
+{251}{}{Az a helyzet, hogy meggondoltam magam. AggÃ³dom a teljesÃ­tmÃ©nyem miatt, meg minden. ViszlÃ¡t!}
+{255}{}{HÃ¡t ez szerfelett hÃ­zelg?... de nem tehetem.}
+{256}{}{Ã“, ugyan mÃ¡r! Csak egy italra. Semmi kÃ¶telezettsÃ©g. JÃ³l fogjuk Ã©rezni magunkat.}
+{257}{}{Ha nem csÃ­ped a n?ket, rendben van. Az igazat megvallva, a n?k legtÃ¶bbjÃ©t Ã©n sem szeretem, tehÃ¡t valamennyi hasonlÃ³sÃ¡g mÃ¡ris van kÃ¶ztÃ¼nk.}
+{258}{}{Te csak ne aggÃ³dj... az er?pÃ¡ncÃ©lomat le fogom venni, okÃ©?}
+{259}{}{Akkor jÃ³. KÃ©rdezhetnÃ©k mÃ¡st?...}
+{260}{}{Bocs, nem akartam nagyon nyomulÃ³snak lÃ¡tszani. ViszlÃ¡t!}
+{265}{}{(KÃ¶rbenÃ©z, aztÃ¡n kÃ¶zelebb hajol Ã©s azt sÃºgja.) Figyelj... ha megmentetted a nÃ©pedet, gyere vissza hozzÃ¡m, Ã©s akkor majd Ã¶sszekalapÃ¡lunk valamit, okÃ©?}
+{266}{}{Rendben. Lenne pÃ¡r kÃ©rdÃ©sem.}
+{267}{}{TehÃ¡t randevÃºzunk. Nem fogom elfelejteni.}
+{275}{}{Nos... (Az ujjÃ¡n szÃ¡molja a lehet?sÃ©geket.) ...van mÃ©zesmÃ¡zos futam, dÃ¶ngÃ¶l?sdi, oboa szonett, Ã©s egyÃ©b nyalÃ¡nksÃ¡gok. (Mosolyog.) A kÃ©rdÃ©s csak az, mihez van kedved.}
+{276}{}{SzeretnÃ©k egy kis... orÃ¡lis kezelÃ©st.}
+{277}{}{HÃ¡t engem valami teljesen kÃ¶zÃ¶nsÃ©ges, obszcÃ©n, felszabadult, mocskos szex Ã©rdekelne...}
+{278}{}{Teljes fels?- Ã©s altesti edzÃ©sre vÃ¡gyom.}
+{279}{}{Az rendben volna, ha Ã©n egyszer?en csak beszÃ©lgetnÃ©k a lÃ¡nyokkal?}
+{280}{}{Volna egy... speciÃ¡lis... szÃ­npadias... kÃ©rÃ©sem.}
+{290}{}{JÃ³l van, elmegyek.}
+{291}{}{(Kacsint.) Ez mÃ©g pÃ©nzbe sem kerÃ¼l.}
+{292}{}{Az Ã¡ra: }
+{293}{}{Legyen. Itt a pÃ©nz.}
+{294}{}{Ezt az Ã¡rat nem lehet ?berelni. JÃ¶het a mehet!}
+{295}{}{Felejtsd el! SzeretnÃ©k mÃ©g kÃ©rdezni egy s mÃ¡st...}
+{296}{}{Most nincs nÃ¡lam elÃ©g pÃ©nz... talÃ¡n mÃ¡skor.}
+{320}{}{HÃ¡t persze! "SpeciÃ¡lis meghallgatÃ¡s"-nak nevezzÃ¼k. }
+{322}{}{Az Ã¡ra csupÃ¡n }
+{323}{}{MiÃ©rt ez a neve?}
+{325}{}{Benne vagyok, ezt vÃ¡lasztom.}
+{326}{}{TalÃ¡n mÃ¡skor. SzeretnÃ©k inkÃ¡bb kÃ©rdezni mÃ¡st...}
+{335}{}{HÃ¡t... a szÃ³beszÃ©d azt tartja, hogy egy hÃ­res szÃ¡mÃ­tÃ³gÃ©pes cÃ©g egyik alkalmazottja nagyon szeretett beszÃ©lgetni mÃ¡sokkal. (VÃ¡llat von.) }
+{336}{}{EgÃ©sz vÃ©letlenÃ¼l, ? is csak }
+{337}{}{EgÃ©szen vÃ©letlenÃ¼l ? sem tudott pÃ©nzhez jutni, ezÃ©rt csak a beszÃ©d maradt szÃ¡mÃ¡ra.}
+{338}{}{HÃ¡t akkor egy ilyen beszÃ©lgetÃ©si menetet rendelnÃ©k. Itt van }
+{340}{}{Asszem, ejtem a dolgot. InkÃ¡bb kÃ©rdÃ©seket tennÃ©k fel...}
 {350}{}{Igen?}
-{351}{}{Abban nincs semmi baj, ha kérdezel...}
-{352}{}{Rendben. (Mosolyog.) A válaszok viszont pénzbe kerülhetnek...}
+{351}{}{Abban nincs semmi baj, ha kÃ©rdezel...}
+{352}{}{Rendben. (Mosolyog.) A vÃ¡laszok viszont pÃ©nzbe kerÃ¼lhetnek...}
 {353}{}{Hogyne. Ne fogd vissza magad!}
-{354}{}{Úgy hallottam, néhány lányt itt rendszeresen elvisznek... Myronhoz.}
-{355}{}{Jules mondta, hogyha egy kis akcióra vágyom... jöjjek ide.}
+{354}{}{Ãšgy hallottam, nÃ©hÃ¡ny lÃ¡nyt itt rendszeresen elvisznek... Myronhoz.}
+{355}{}{Jules mondta, hogyha egy kis akciÃ³ra vÃ¡gyom... jÃ¶jjek ide.}
 {361}{}{Az a helyzet, hogy most jobb, ha megyek.}
-{375}{}{Van rá esély, hogy igent mondunk. Mi volna a kérésed...?}
-{376}{}{Szeretném, ha a partnerem felöltözne a Menedékek kezeslábasába, Menedéklakónak szólítana engem, és én lennék az ? "Huszonhárom centis menedéke."}
-{377}{}{Szeretném, ha valami elvetemült n?stény mutáns "foglyul ejtene", aztán arra kényszerítene, hogy a mutálódó "muffjába" kelljen nyúlkálnom.}
-{378}{}{Szeretném "Herk" szerepét eljátszani. Az illet? egy házasulókorban lév? rabszolga, akit kéjsóvár rabszolgan?k elrabolnak a falujából. Az lenne a lényeg, hogy... a fickó, vagyis én, csak a testével tud kommunikálni.}
-{379}{}{Szeretném "Zena" szerepét eljátszani. Az illet? egy eladósorban lév? rabszolgalány, akit egy csapat rabszolga elrabol a falujából. Az lenne a lényeg, hogy... a n?ci, vagyis én, csak a testével tud kommunikálni.}
-{380}{}{Szeretném, ha egy cinikus mutáns hadfi "foglyul ejtene", k?keményen kihallgatna, aztán jól megdöngetne.}
-{381}{}{Van itt olyan csaj, aki úgy néz ki, mint Angela Bishop? Szeretnék ledolgozni egy kis izgalmat magamról.}
-{382}{}{Van itt olyan csaj, aki úgy néz ki, mint Mrs. Bishop? Szeretnék ledolgozni egy kis izgalmat magamról.}
-{383}{}{Inkább kérdeznék egy s mást...}
-{384}{}{Hát vedd úgy, hogy nem is mondtam semmit. Mennem kell.}
-{395}{}{Hogyne. (Végignézi a társaságot.) Melyikr?l van szó?}
-{396}{}{Lennyt bevállaljátok? Nem hinném, hogy valaha is megcsókolt egy lányt.}
-{397}{}{Van itt valaki, aki "be tudja vállalni" Marcust?}
+{375}{}{Van rÃ¡ esÃ©ly, hogy igent mondunk. Mi volna a kÃ©rÃ©sed...?}
+{376}{}{SzeretnÃ©m, ha a partnerem felÃ¶ltÃ¶zne a MenedÃ©kek kezeslÃ¡basÃ¡ba, MenedÃ©klakÃ³nak szÃ³lÃ­tana engem, Ã©s Ã©n lennÃ©k az ? "HuszonhÃ¡rom centis menedÃ©ke."}
+{377}{}{SzeretnÃ©m, ha valami elvetemÃ¼lt n?stÃ©ny mutÃ¡ns "foglyul ejtene", aztÃ¡n arra kÃ©nyszerÃ­tene, hogy a mutÃ¡lÃ³dÃ³ "muffjÃ¡ba" kelljen nyÃºlkÃ¡lnom.}
+{378}{}{SzeretnÃ©m "Herk" szerepÃ©t eljÃ¡tszani. Az illet? egy hÃ¡zasulÃ³korban lÃ©v? rabszolga, akit kÃ©jsÃ³vÃ¡r rabszolgan?k elrabolnak a falujÃ¡bÃ³l. Az lenne a lÃ©nyeg, hogy... a fickÃ³, vagyis Ã©n, csak a testÃ©vel tud kommunikÃ¡lni.}
+{379}{}{SzeretnÃ©m "Zena" szerepÃ©t eljÃ¡tszani. Az illet? egy eladÃ³sorban lÃ©v? rabszolgalÃ¡ny, akit egy csapat rabszolga elrabol a falujÃ¡bÃ³l. Az lenne a lÃ©nyeg, hogy... a n?ci, vagyis Ã©n, csak a testÃ©vel tud kommunikÃ¡lni.}
+{380}{}{SzeretnÃ©m, ha egy cinikus mutÃ¡ns hadfi "foglyul ejtene", k?kemÃ©nyen kihallgatna, aztÃ¡n jÃ³l megdÃ¶ngetne.}
+{381}{}{Van itt olyan csaj, aki Ãºgy nÃ©z ki, mint Angela Bishop? SzeretnÃ©k ledolgozni egy kis izgalmat magamrÃ³l.}
+{382}{}{Van itt olyan csaj, aki Ãºgy nÃ©z ki, mint Mrs. Bishop? SzeretnÃ©k ledolgozni egy kis izgalmat magamrÃ³l.}
+{383}{}{InkÃ¡bb kÃ©rdeznÃ©k egy s mÃ¡st...}
+{384}{}{HÃ¡t vedd Ãºgy, hogy nem is mondtam semmit. Mennem kell.}
+{395}{}{Hogyne. (VÃ©gignÃ©zi a tÃ¡rsasÃ¡got.) Melyikr?l van szÃ³?}
+{396}{}{Lennyt bevÃ¡llaljÃ¡tok? Nem hinnÃ©m, hogy valaha is megcsÃ³kolt egy lÃ¡nyt.}
+{397}{}{Van itt valaki, aki "be tudja vÃ¡llalni" Marcust?}
 {398}{}{Erre a kis perverz Myronra gondoltam.}
-{399}{}{"A farokorrúra" gondoltam, ha mondhatom így. Hehe.}
-{400}{}{Itt van Cassidy. Szerintem jó ideje nem volt n?vel.}
+{399}{}{"A farokorrÃºra" gondoltam, ha mondhatom Ã­gy. Hehe.}
+{400}{}{Itt van Cassidy. Szerintem jÃ³ ideje nem volt n?vel.}
 {401}{}{Vicre, a "Keresked?"-re gondoltam.}
-{402}{}{Az itteni lányok közül fel tudna valaki olvasni a szótárból a Robotagynak? Az ilyesmi jól stimulálja az agyközpontját.}
-{403}{}{A Doki szeretne egy-két lányt megh?mér?zni.}
-{404}{}{Davinra ráférne egy kis... tapasztalatszerzés.}
-{405}{}{Miria szeretne belekóstolni az élet vadabbik részébe.}
-{406}{}{Igazság szerint most egyiküket sem akarom befizetni. Köszi.}
+{402}{}{Az itteni lÃ¡nyok kÃ¶zÃ¼l fel tudna valaki olvasni a szÃ³tÃ¡rbÃ³l a Robotagynak? Az ilyesmi jÃ³l stimulÃ¡lja az agykÃ¶zpontjÃ¡t.}
+{403}{}{A Doki szeretne egy-kÃ©t lÃ¡nyt megh?mÃ©r?zni.}
+{404}{}{Davinra rÃ¡fÃ©rne egy kis... tapasztalatszerzÃ©s.}
+{405}{}{Miria szeretne belekÃ³stolni az Ã©let vadabbik rÃ©szÃ©be.}
+{406}{}{IgazsÃ¡g szerint most egyikÃ¼ket sem akarom befizetni. KÃ¶szi.}
 {407}{}{Dex here. Better keep an eye on him though, he can get a little out of control.}
 {408}{}{Cat Jules here. Watch out though, he might bite the girls.}
 {409}{}{Kitsune here. Hopefully you can satisfy her Asian needs, if you know what I mean.}
-{420}{}{? a barátod? (Végigméri a társadat, és bólint.) Azt hiszem, jöhet... }
-{421}{}{(Végigméri a társadat, és bólint.) Azt hiszem, jöhet... }
-{422}{}{ dollárt kérek.}
-{423}{}{Ne aggódj a pénz miatt! Nem kerül semmibe.}
-{424}{}{Oké. Itt van a pénz.}
-{425}{}{Ezt az árat nem lehet ?berelni. Megegyeztünk.}
-{426}{}{Talán kés?bb... hadd kérdezzek még valami mást!}
-{427}{}{Hmmm. Talán kés?bb, ha lesz elég pénzem.}
-{428}{}{Az a helyzet, hogy meggondoltam magam. Viszlát!}
-{440}{}{(Meglepett arcot vág.) Na, nézzük csak... (Belelapoz a magazinba.) Nos, ugyebár... nem árt tudni, hogy a szóbeszéd szerint a háborút megel?z? években a Cat's Paw egy... pornografikus anyagokat kiadó vállalat volt.}
-{441}{}{Pornogru... porn-o-gru - pornu - ööö, egy kiadóvállalat volt, ahogy mondod?}
-{442}{}{Ez a hely egy kiadó vállalat lett volna?}
-{450}{}{Igen... a szobákat filmforgatásra használták, a világ minden részéb?l érkez? modellekkel. (Úgy t?nik, egész belefeledkezett a magazin nézegetésébe.) Hát ez bizony már a történelem egy szelete.}
-{451}{}{Tudod, mindig is a cikkek miatt nézegettem.}
-{452}{}{Örülök, hogy legalább tudom, mi a fene ez. Bosszant, hogy folyton megvizsgálom, és mindig ugyanazt a szöveget kell olvasnom. Persze azzal, hogy azonosítottad, még biztos nem változott meg a kiírandó szöveg.}
-{460}{}{Nos... ha esetleg a teljes gy?jteményt el tudnád hozni nekem... ami tíz példányból áll, megvásárolnám t?led. Jó kiállítási anyag lenne, vonzaná a kuncsaftokat. Érdekel a dolog?}
-{461}{}{Hát ha mindet megtalálom... persze. Addig is kérdeznék még ezt-azt...}
-{462}{}{Az a nagy helyzet, hogy itt van mind a tíz nálam.}
-{463}{}{Hogyne. Ha rálelek mind a tízre, számíthatsz rám, hogy beugrom.}
-{470}{}{Nagyszer?! Adok érte 500 dollárt, ha megfelel.}
-{471}{}{Ötszáz dollárt? Miután az összeset összekapartam? Szó sem lehet róla. Legalább ezret kérek.}
-{472}{}{Jól hangzik. Tessék. Vigyázz az ötös számú példánnyal! A lapok szerintem össze vannak ragasztva.}
-{473}{}{Nem, inkább megtartom... viszont feltennék még néhány kérdést...}
-{474}{}{Kösz nem. Valahogy beléjük szerettem. Talán máskor.}
-{480}{}{Hmmmmm. Hétötven, és megegyeztünk.}
-{481}{}{Hétötven? Legyen. Tessék itt van az összes.}
-{482}{}{Akkor inkább megtartom... viszont feltennék még néhány kérdést...}
-{483}{}{Felejtsd el! Talán máskor sort keríthetünk rá.}
-{490}{}{Itt van, tessék. (Leszámolja a pénzt, és átnyújtja.) Még egyszer köszi.}
+{420}{}{? a barÃ¡tod? (VÃ©gigmÃ©ri a tÃ¡rsadat, Ã©s bÃ³lint.) Azt hiszem, jÃ¶het... }
+{421}{}{(VÃ©gigmÃ©ri a tÃ¡rsadat, Ã©s bÃ³lint.) Azt hiszem, jÃ¶het... }
+{422}{}{ dollÃ¡rt kÃ©rek.}
+{423}{}{Ne aggÃ³dj a pÃ©nz miatt! Nem kerÃ¼l semmibe.}
+{424}{}{OkÃ©. Itt van a pÃ©nz.}
+{425}{}{Ezt az Ã¡rat nem lehet ?berelni. MegegyeztÃ¼nk.}
+{426}{}{TalÃ¡n kÃ©s?bb... hadd kÃ©rdezzek mÃ©g valami mÃ¡st!}
+{427}{}{Hmmm. TalÃ¡n kÃ©s?bb, ha lesz elÃ©g pÃ©nzem.}
+{428}{}{Az a helyzet, hogy meggondoltam magam. ViszlÃ¡t!}
+{440}{}{(Meglepett arcot vÃ¡g.) Na, nÃ©zzÃ¼k csak... (Belelapoz a magazinba.) Nos, ugyebÃ¡r... nem Ã¡rt tudni, hogy a szÃ³beszÃ©d szerint a hÃ¡borÃºt megel?z? Ã©vekben a Cat's Paw egy... pornografikus anyagokat kiadÃ³ vÃ¡llalat volt.}
+{441}{}{Pornogru... porn-o-gru - pornu - Ã¶Ã¶Ã¶, egy kiadÃ³vÃ¡llalat volt, ahogy mondod?}
+{442}{}{Ez a hely egy kiadÃ³ vÃ¡llalat lett volna?}
+{450}{}{Igen... a szobÃ¡kat filmforgatÃ¡sra hasznÃ¡ltÃ¡k, a vilÃ¡g minden rÃ©szÃ©b?l Ã©rkez? modellekkel. (Ãšgy t?nik, egÃ©sz belefeledkezett a magazin nÃ©zegetÃ©sÃ©be.) HÃ¡t ez bizony mÃ¡r a tÃ¶rtÃ©nelem egy szelete.}
+{451}{}{Tudod, mindig is a cikkek miatt nÃ©zegettem.}
+{452}{}{Ã–rÃ¼lÃ¶k, hogy legalÃ¡bb tudom, mi a fene ez. Bosszant, hogy folyton megvizsgÃ¡lom, Ã©s mindig ugyanazt a szÃ¶veget kell olvasnom. Persze azzal, hogy azonosÃ­tottad, mÃ©g biztos nem vÃ¡ltozott meg a kiÃ­randÃ³ szÃ¶veg.}
+{460}{}{Nos... ha esetleg a teljes gy?jtemÃ©nyt el tudnÃ¡d hozni nekem... ami tÃ­z pÃ©ldÃ¡nybÃ³l Ã¡ll, megvÃ¡sÃ¡rolnÃ¡m t?led. JÃ³ kiÃ¡llÃ­tÃ¡si anyag lenne, vonzanÃ¡ a kuncsaftokat. Ã‰rdekel a dolog?}
+{461}{}{HÃ¡t ha mindet megtalÃ¡lom... persze. Addig is kÃ©rdeznÃ©k mÃ©g ezt-azt...}
+{462}{}{Az a nagy helyzet, hogy itt van mind a tÃ­z nÃ¡lam.}
+{463}{}{Hogyne. Ha rÃ¡lelek mind a tÃ­zre, szÃ¡mÃ­thatsz rÃ¡m, hogy beugrom.}
+{470}{}{Nagyszer?! Adok Ã©rte 500 dollÃ¡rt, ha megfelel.}
+{471}{}{Ã–tszÃ¡z dollÃ¡rt? MiutÃ¡n az Ã¶sszeset Ã¶sszekapartam? SzÃ³ sem lehet rÃ³la. LegalÃ¡bb ezret kÃ©rek.}
+{472}{}{JÃ³l hangzik. TessÃ©k. VigyÃ¡zz az Ã¶tÃ¶s szÃ¡mÃº pÃ©ldÃ¡nnyal! A lapok szerintem Ã¶ssze vannak ragasztva.}
+{473}{}{Nem, inkÃ¡bb megtartom... viszont feltennÃ©k mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st...}
+{474}{}{KÃ¶sz nem. Valahogy belÃ©jÃ¼k szerettem. TalÃ¡n mÃ¡skor.}
+{480}{}{Hmmmmm. HÃ©tÃ¶tven, Ã©s megegyeztÃ¼nk.}
+{481}{}{HÃ©tÃ¶tven? Legyen. TessÃ©k itt van az Ã¶sszes.}
+{482}{}{Akkor inkÃ¡bb megtartom... viszont feltennÃ©k mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st...}
+{483}{}{Felejtsd el! TalÃ¡n mÃ¡skor sort kerÃ­thetÃ¼nk rÃ¡.}
+{490}{}{Itt van, tessÃ©k. (LeszÃ¡molja a pÃ©nzt, Ã©s Ã¡tnyÃºjtja.) MÃ©g egyszer kÃ¶szi.}
 {491}{}{Say, I had some other questions...}
-{492}{}{Nem gond. Viszlát!}
-{500}{}{Tényleg? (Megvizsgálja az ötös példányt, aztán a maradékot is áttanulmányozza.) Hmmmm. Úgy néz ki, hogy ebb?l kett?t hoztál, így az egyiket visszaadom... persze el?bb kiszedem bel?le ezt a foltot.}
-{501}{}{Oké. Ööö...jut eszeme... az a folt nem t?lem van. Fogalmam sincs, hogy került oda.}
-{502}{}{Oké. Biztos vagy benne, hogy ki tudod venni azt a foltot? Úgy néz ki, hogy elég szépen beleragadt.}
-{510}{}{Gyakran megesik errefelé... (Kitty kisasszony elkezdi tisztogatni a magazint.) ...többnyire a lapokkal. Na, ez így már sokkal jobb... (feltartja) ...ebben a részben, ahogy elnézem, van egy jó kis cikk az energiafegyverekr?l. Tessék.}
-{511}{}{Lenne pár kérdésem.}
-{512}{}{Van benne egy cikk az energiafegyverekr?l? Köszönöm. Kés?bb talán elolvasom.}
-{520}{}{(Ahogy beszélsz, a n? felnéz és elkerekedik a szeme.) Hát te! Visszajöttél? Azt hittem, hogy... meghaltál. (Megkönnyebbült arcot vág.) Annyira *aggódtam*. Nekimentél az Enklávénak és az életedet kockáztattad... ez a legbátrabb tett, amir?l valaha is hallottam.}
-{521}{}{(Ahogy beszélsz, a n? felnéz és elkerekedik a szeme.) Nahát! Hallottam rólad! (Arca sugárzik a csodálattól.) Nekimentél az Enklávénak és az életedet kockáztattad... ez a legbátrabb tett, amir?l valaha is hallottam.}
-{522}{}{! Örülök, hogy újra látlak. Csodákat képes tenni az üzletmenettel, ha egy ilyen h?s téved errefelé. Nekimentél az Enklávénak és az életedet kockáztattad... ez a legbátrabb tett, amir?l valaha is hallottam.}
-{523}{}{Francot, Kitty asszonka. Bárki másmeg tutta vón' csiná'ni hejettemám...}
-{524}{}{Ez bizony igaaaaz, bébi. És ez is marad a legbátrabb tett, amit hallani fogsz, mivel én vagyok a brutális fickók legbrutálisabbja.}
-{525}{}{Nincs ebben semmi extra, amit egy faluját elvesztett, elkeseredett n? ne tudott volna megcsinálni.}
-{526}{}{És ez is marad a legbátrabb tett, amit hallani fogsz, mivel én vagyok a legbrutálabb szuka az egész pusztaságban.}
-{527}{}{Köszi. Csak csinálom, amit egy h?sn?nek tennie kell.}
-{528}{}{Köszi. Csak csinálom, amit egy h?snek tennie kell.}
-{529}{}{Gyakás és hírnév, erre születtem.}
-{545}{}{Nagyon szerény vagy. }
+{492}{}{Nem gond. ViszlÃ¡t!}
+{500}{}{TÃ©nyleg? (MegvizsgÃ¡lja az Ã¶tÃ¶s pÃ©ldÃ¡nyt, aztÃ¡n a maradÃ©kot is Ã¡ttanulmÃ¡nyozza.) Hmmmm. Ãšgy nÃ©z ki, hogy ebb?l kett?t hoztÃ¡l, Ã­gy az egyiket visszaadom... persze el?bb kiszedem bel?le ezt a foltot.}
+{501}{}{OkÃ©. Ã–Ã¶Ã¶...jut eszeme... az a folt nem t?lem van. Fogalmam sincs, hogy kerÃ¼lt oda.}
+{502}{}{OkÃ©. Biztos vagy benne, hogy ki tudod venni azt a foltot? Ãšgy nÃ©z ki, hogy elÃ©g szÃ©pen beleragadt.}
+{510}{}{Gyakran megesik errefelÃ©... (Kitty kisasszony elkezdi tisztogatni a magazint.) ...tÃ¶bbnyire a lapokkal. Na, ez Ã­gy mÃ¡r sokkal jobb... (feltartja) ...ebben a rÃ©szben, ahogy elnÃ©zem, van egy jÃ³ kis cikk az energiafegyverekr?l. TessÃ©k.}
+{511}{}{Lenne pÃ¡r kÃ©rdÃ©sem.}
+{512}{}{Van benne egy cikk az energiafegyverekr?l? KÃ¶szÃ¶nÃ¶m. KÃ©s?bb talÃ¡n elolvasom.}
+{520}{}{(Ahogy beszÃ©lsz, a n? felnÃ©z Ã©s elkerekedik a szeme.) HÃ¡t te! VisszajÃ¶ttÃ©l? Azt hittem, hogy... meghaltÃ¡l. (MegkÃ¶nnyebbÃ¼lt arcot vÃ¡g.) Annyira *aggÃ³dtam*. NekimentÃ©l az EnklÃ¡vÃ©nak Ã©s az Ã©letedet kockÃ¡ztattad... ez a legbÃ¡trabb tett, amir?l valaha is hallottam.}
+{521}{}{(Ahogy beszÃ©lsz, a n? felnÃ©z Ã©s elkerekedik a szeme.) NahÃ¡t! Hallottam rÃ³lad! (Arca sugÃ¡rzik a csodÃ¡lattÃ³l.) NekimentÃ©l az EnklÃ¡vÃ©nak Ã©s az Ã©letedet kockÃ¡ztattad... ez a legbÃ¡trabb tett, amir?l valaha is hallottam.}
+{522}{}{! Ã–rÃ¼lÃ¶k, hogy Ãºjra lÃ¡tlak. CsodÃ¡kat kÃ©pes tenni az Ã¼zletmenettel, ha egy ilyen h?s tÃ©ved errefelÃ©. NekimentÃ©l az EnklÃ¡vÃ©nak Ã©s az Ã©letedet kockÃ¡ztattad... ez a legbÃ¡trabb tett, amir?l valaha is hallottam.}
+{523}{}{Francot, Kitty asszonka. BÃ¡rki mÃ¡smeg tutta vÃ³n' csinÃ¡'ni hejettemÃ¡m...}
+{524}{}{Ez bizony igaaaaz, bÃ©bi. Ã‰s ez is marad a legbÃ¡trabb tett, amit hallani fogsz, mivel Ã©n vagyok a brutÃ¡lis fickÃ³k legbrutÃ¡lisabbja.}
+{525}{}{Nincs ebben semmi extra, amit egy falujÃ¡t elvesztett, elkeseredett n? ne tudott volna megcsinÃ¡lni.}
+{526}{}{Ã‰s ez is marad a legbÃ¡trabb tett, amit hallani fogsz, mivel Ã©n vagyok a legbrutÃ¡labb szuka az egÃ©sz pusztasÃ¡gban.}
+{527}{}{KÃ¶szi. Csak csinÃ¡lom, amit egy h?sn?nek tennie kell.}
+{528}{}{KÃ¶szi. Csak csinÃ¡lom, amit egy h?snek tennie kell.}
+{529}{}{GyakÃ¡s Ã©s hÃ­rnÃ©v, erre szÃ¼lettem.}
+{545}{}{Nagyon szerÃ©ny vagy. }
 {546}{}{Annyira er?s vagy. Annyira... magabiztos. }
-{547}{}{Ez az, ami tetszik benned. (Körbemutat a Cat's Paw-ban.) Mostantól fogva bármikor ingyen igénybe veheted a szolgáltatásainkat.}
-{548}{}{Mellesleg... valami randevúról beszéltünk régebben.}
-{549}{}{Mellesleg... mit szólnál... hát tudod, ha te meg én... szóval... tudod.}
-{550}{}{Bébi, kezdem gépies lenni, és ez kiakaszt. Gyere közelebb!}
-{551}{}{Nagyszer?! Viszont miel?tt belelovallnám magam, még kérdeznék valamit...}
-{552}{}{Köszi. Igazán nagyra értékelem, Kitty kisasszony.}
-{553}{}{Minimum ezt vártam. Kés?bb igénybe fogom venni.}
-{565}{}{Akkor jó, }
-{566}{}{ ...hozom a kis "kabátkámat".}
-{567}{}{Minek a sietség? Használd ki a lehet?séget!}
-{568}{}{Még jó, hogy az én kis "kabátkám" a zsebemben lapul. Hehe.}
-{569}{}{Hogyne. De siess... neked és nekem találkánk van nyolckor. A gatyámban.}
-{570}{}{Hogyne. De siess... neked és a nyelvemnek találkánk van nyolckor.}
-{575}{}{Ó, }
-{576}{}{, the Enklávé-gyakó állat...}
-{577}{}{::Bvanbvan-bvan-ba-bvan úkvaka úkvaka::}
-{585}{}{(Bólint.) Igen, ez így van. Fel kell készítenünk ?ket, hogy a természetes ellenszenvüket le tudják küzdeni. Mostanra szinte ez lett a beavatási szertartás. Ennek ellenére, az a lány, aki el tudja viselni Myront, igen szívós fajta...}
-{586}{}{Szeretnék vele találkozni. Szerinted lehetnék én a következ? "partnere"?}
-{587}{}{Értem. Hadd kérdezzek valami mást...}
-{588}{}{Hmmmm. Köszönöm az információt.}
-{595}{}{(Véigfuttatja rajtad a szemét, aztán csinál egy körkörös mozdulatot az ujjával.) Fordulj csak meg! Hmmmm... }
-{596}{}{nem, szerintem nem jönnél be neki. Talán ha egy kicsit megmosdanál és valamivel... kivánatosabbá tennéd magad. Sajnálom.}
-{597}{}{igen... igen, szerintem örülne neked. Érdekelne a munka? Az én lányaim már mind... undorodnak t?le.}
+{547}{}{Ez az, ami tetszik benned. (KÃ¶rbemutat a Cat's Paw-ban.) MostantÃ³l fogva bÃ¡rmikor ingyen igÃ©nybe veheted a szolgÃ¡ltatÃ¡sainkat.}
+{548}{}{Mellesleg... valami randevÃºrÃ³l beszÃ©ltÃ¼nk rÃ©gebben.}
+{549}{}{Mellesleg... mit szÃ³lnÃ¡l... hÃ¡t tudod, ha te meg Ã©n... szÃ³val... tudod.}
+{550}{}{BÃ©bi, kezdem gÃ©pies lenni, Ã©s ez kiakaszt. Gyere kÃ¶zelebb!}
+{551}{}{Nagyszer?! Viszont miel?tt belelovallnÃ¡m magam, mÃ©g kÃ©rdeznÃ©k valamit...}
+{552}{}{KÃ¶szi. IgazÃ¡n nagyra Ã©rtÃ©kelem, Kitty kisasszony.}
+{553}{}{Minimum ezt vÃ¡rtam. KÃ©s?bb igÃ©nybe fogom venni.}
+{565}{}{Akkor jÃ³, }
+{566}{}{ ...hozom a kis "kabÃ¡tkÃ¡mat".}
+{567}{}{Minek a sietsÃ©g? HasznÃ¡ld ki a lehet?sÃ©get!}
+{568}{}{MÃ©g jÃ³, hogy az Ã©n kis "kabÃ¡tkÃ¡m" a zsebemben lapul. Hehe.}
+{569}{}{Hogyne. De siess... neked Ã©s nekem talÃ¡lkÃ¡nk van nyolckor. A gatyÃ¡mban.}
+{570}{}{Hogyne. De siess... neked Ã©s a nyelvemnek talÃ¡lkÃ¡nk van nyolckor.}
+{575}{}{Ã“, }
+{576}{}{, the EnklÃ¡vÃ©-gyakÃ³ Ã¡llat...}
+{577}{}{::Bvanbvan-bvan-ba-bvan Ãºkvaka Ãºkvaka::}
+{585}{}{(BÃ³lint.) Igen, ez Ã­gy van. Fel kell kÃ©szÃ­tenÃ¼nk ?ket, hogy a termÃ©szetes ellenszenvÃ¼ket le tudjÃ¡k kÃ¼zdeni. Mostanra szinte ez lett a beavatÃ¡si szertartÃ¡s. Ennek ellenÃ©re, az a lÃ¡ny, aki el tudja viselni Myront, igen szÃ­vÃ³s fajta...}
+{586}{}{SzeretnÃ©k vele talÃ¡lkozni. Szerinted lehetnÃ©k Ã©n a kÃ¶vetkez? "partnere"?}
+{587}{}{Ã‰rtem. Hadd kÃ©rdezzek valami mÃ¡st...}
+{588}{}{Hmmmm. KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t.}
+{595}{}{(VÃ©igfuttatja rajtad a szemÃ©t, aztÃ¡n csinÃ¡l egy kÃ¶rkÃ¶rÃ¶s mozdulatot az ujjÃ¡val.) Fordulj csak meg! Hmmmm... }
+{596}{}{nem, szerintem nem jÃ¶nnÃ©l be neki. TalÃ¡n ha egy kicsit megmosdanÃ¡l Ã©s valamivel... kivÃ¡natosabbÃ¡ tennÃ©d magad. SajnÃ¡lom.}
+{597}{}{igen... igen, szerintem Ã¶rÃ¼lne neked. Ã‰rdekelne a munka? Az Ã©n lÃ¡nyaim mÃ¡r mind... undorodnak t?le.}
 {598}{}{Hogyne.}
 {599}{}{Hmmmph. I had some other questions...}
-{600}{}{Most nem, de kés?bb talán visszatérhetünk rá. Kérdeznék még ezt-azt...}
-{610}{}{(Rábólint.) Kiváló. Mordino egyik embere hamarosan be fog nézni. Ha helyet foglalsz, bemutatlak neki, mint az új... jelentkez?t.}
-{611}{}{Rendben van... megvárom.}
-{612}{}{Á hagyjuk! Inkább kérdeznék még valami mást...}
-{613}{}{Felejtsük el... meggondoltam magam. Talán legközelebb sort keríthetünk rá.}
-{620}{}{(Végigjáratja rajtad a szemét, aztán bólint egyet.) Azt hiszem, be tudunk vállalni téged... }
-{621}{}{(Végigjáratja a társadon a szemét, aztán bólint egyet.) Azt hiszem, be tudjuk vállalni a barátodat... }
-{623}{}{(Rádkacsint.) Ez nem kerül semmibe, szóval ne aggódj a pénz miatt!}
-{700}{}{Óóóóóó-igen.}
-{701}{}{Azt a riberáncos mindenedet...}
-{702}{}{Hú, ez aztán mélyre ment.}
-{703}{}{Hú!}
-{704}{}{*Húh*}
+{600}{}{Most nem, de kÃ©s?bb talÃ¡n visszatÃ©rhetÃ¼nk rÃ¡. KÃ©rdeznÃ©k mÃ©g ezt-azt...}
+{610}{}{(RÃ¡bÃ³lint.) KivÃ¡lÃ³. Mordino egyik embere hamarosan be fog nÃ©zni. Ha helyet foglalsz, bemutatlak neki, mint az Ãºj... jelentkez?t.}
+{611}{}{Rendben van... megvÃ¡rom.}
+{612}{}{Ã hagyjuk! InkÃ¡bb kÃ©rdeznÃ©k mÃ©g valami mÃ¡st...}
+{613}{}{FelejtsÃ¼k el... meggondoltam magam. TalÃ¡n legkÃ¶zelebb sort kerÃ­thetÃ¼nk rÃ¡.}
+{620}{}{(VÃ©gigjÃ¡ratja rajtad a szemÃ©t, aztÃ¡n bÃ³lint egyet.) Azt hiszem, be tudunk vÃ¡llalni tÃ©ged... }
+{621}{}{(VÃ©gigjÃ¡ratja a tÃ¡rsadon a szemÃ©t, aztÃ¡n bÃ³lint egyet.) Azt hiszem, be tudjuk vÃ¡llalni a barÃ¡todat... }
+{623}{}{(RÃ¡dkacsint.) Ez nem kerÃ¼l semmibe, szÃ³val ne aggÃ³dj a pÃ©nz miatt!}
+{700}{}{Ã“Ã³Ã³Ã³Ã³Ã³-igen.}
+{701}{}{Azt a riberÃ¡ncos mindenedet...}
+{702}{}{HÃº, ez aztÃ¡n mÃ©lyre ment.}
+{703}{}{HÃº!}
+{704}{}{*HÃºh*}
 {705}{}{Heh... I sure hope I didn't get her pregnant.}
 {706}{}{It just isn't the same when their blood's still warm, ya know?}
 {707}{}{I hope you took notes.}
 {708}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
 {709}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
-{710}{}{Órákig beszélgettek. A Cat's Paw lányai meglep? ismereteket tudnak felmutatni az emberi természetet illet?en.}
-{711}{}{Amikor Mordino embere megérkezik, megmustrál és bizony eléggé tetszel neki. Kimentek a városból és észak felé indultok egy Istállónak nevezett hely irányába.}
-{720}{}{*fütyül*}
+{710}{}{Ã“rÃ¡kig beszÃ©lgettek. A Cat's Paw lÃ¡nyai meglep? ismereteket tudnak felmutatni az emberi termÃ©szetet illet?en.}
+{711}{}{Amikor Mordino embere megÃ©rkezik, megmustrÃ¡l Ã©s bizony elÃ©ggÃ© tetszel neki. Kimentek a vÃ¡rosbÃ³l Ã©s Ã©szak felÃ© indultok egy IstÃ¡llÃ³nak nevezett hely irÃ¡nyÃ¡ba.}
+{720}{}{*fÃ¼tyÃ¼l*}
 {721}{}{*taps taps taps*}
 {722}{}{Ez igen!}
 {723}{}{Ez igen!}
-{730}{}{*sírás-rívás*}
-{731}{}{Úgy érzem... megcsaltak...}
-{740}{}{*Hörgés*}
-{750}{}{*Vaúúúúúúú*}
+{730}{}{*sÃ­rÃ¡s-rÃ­vÃ¡s*}
+{731}{}{Ãšgy Ã©rzem... megcsaltak...}
+{740}{}{*HÃ¶rgÃ©s*}
+{750}{}{*VaÃºÃºÃºÃºÃºÃºÃº*}
 {760}{}{*Bzzzzzt*}
-{770}{}{Ez igen, F?nök! Id?tlen id?k óta nem szexeltem.}
-{800}{}{Az összes Cat's Paw magazint elvitted Kitty kisasszony számára.}
+{770}{}{Ez igen, F?nÃ¶k! Id?tlen id?k Ã³ta nem szexeltem.}
+{800}{}{Az Ã¶sszes Cat's Paw magazint elvitted Kitty kisasszony szÃ¡mÃ¡ra.}
 {900}{}{You feel more coordinated and in tune with your body now.}
-{1218}{}{ mikor küld el hozzám téged... (Kacsint.)}
-{1336}{}{ dolcsit tudott összekaparni hetente.}
+{1218}{}{ mikor kÃ¼ld el hozzÃ¡m tÃ©ged... (Kacsint.)}
+{1336}{}{ dolcsit tudott Ã¶sszekaparni hetente.}

@@ -1,76 +1,76 @@
-{100}{}{Verá un pequeño, joven vestida de harapos.}
-{101}{}{Vea el chamán de la aldea.}
-{102}{}{Este joven está mirando a la distancia. Él tiene un embrujada mirada en su cara.}
-{103}{}{El chamán parece estar mucho más a gusto.}
-{200}{}{[Él aparece profundo en el pensamiento. Al notar que, hace un salto sobresaltado, luego rápidamente recupera la compostura.] Uh, sí, outworlder? Si vienen en busca de guía espiritual, me temo que no estoy en este momento. Tal vez... tal vez en algún otro momento.}
-{201}{}{Eh?! Oh, es usted de nuevo. Usted no debería sorprender a la gente así. Miren, tengo un montón en mi mente en ese momento. Tal vez te pueda ayudar en algún otro momento.}
-{202}{}{Parece que algo le está molestando. Existe algo que pueda ayudar?}
-{203}{}{Voy a volver más tarde.}
+{100}{}{VerÃ¡ un pequeÃ±o, joven vestida de harapos.}
+{101}{}{Vea el chamÃ¡n de la aldea.}
+{102}{}{Este joven estÃ¡ mirando a la distancia. Ã‰l tiene un embrujada mirada en su cara.}
+{103}{}{El chamÃ¡n parece estar mucho mÃ¡s a gusto.}
+{200}{}{[Ã‰l aparece profundo en el pensamiento. Al notar que, hace un salto sobresaltado, luego rÃ¡pidamente recupera la compostura.] Uh, sÃ­, outworlder? Si vienen en busca de guÃ­a espiritual, me temo que no estoy en este momento. Tal vez... tal vez en algÃºn otro momento.}
+{201}{}{Eh?! Oh, es usted de nuevo. Usted no deberÃ­a sorprender a la gente asÃ­. Miren, tengo un montÃ³n en mi mente en ese momento. Tal vez te pueda ayudar en algÃºn otro momento.}
+{202}{}{Parece que algo le estÃ¡ molestando. Existe algo que pueda ayudar?}
+{203}{}{Voy a volver mÃ¡s tarde.}
 {204}{}{Eh-eh! Yo skeered yu! Booh!}
 {210}{}{La oferta es apreciada, pero... No, No, esto es un asunto personal que debo enfrentarme a mi propia.}
-{211}{}{[Él contempla por un momento, luego suspira.] Esto es más vergonzoso admitirlo, pero... ya ves, nunca he hecho *cree* en los espíritus, la vida después de la muerte, nada de eso. Yo sé lo que estás pensando, lo bueno es que el chamán no cree? Es sólo que, bueno, era esto o me tomo una lanza y la caza de lagartijas con los guerreros. ¿Me veo como un guerrero para usted? Espere, no se responder.}
-{212}{}{Así que eres un cobarde y un mentiroso. Que asco de mí.}
-{213}{}{Si usted no cree, entonces, ¿cómo se tienden a las necesidades espirituales del pueblo?}
-{220}{}{Oh, yo no te culpo. De hecho, yo tengo asco a mí mismo muy a fondo. No sé por qué pensé que me podría ayudar. Yo ciertamente no merecen ser ayudados. Yo tengo en esta situación, por lo que depende de mí para ponerme fuera de ella. Ahora, si me disculpáis...}
-{221}{}{Alto ahí, el Capitán Lástima. ¿Por qué no me dices cómo es exactamente lo que pensé que podría ayudarle?}
-{222}{}{No. No voy a excusa ... les voy a eliminar y purgar el mundo de su patética existencia!}
-{230}{}{Bueno, hasta recientemente no era más que el subalterno de la aldea de chamán. Eso fue fácil, solo tenía que seguir su ejemplo. Luego fue en busca de un borracho de la medianoche nadar en la Gran Agua con Sal y, así, de repente me encontré a mí mismo promovió. Pensé que no sería tan malo. Pensé que sólo podría pico de algunos místicos de pacotilla y todo el mundo sería feliz. Pero no. El mismo día en que adquieren el título de chamán me encuentro tratando con algo que se forma por encima de mi cabeza.}
-{231}{}{¿Qué pasó?}
-{240}{}{Hay un *real* espíritu perdido que vagan por el bosque justo al sur de la aldea! Es cierto, la he visto con mis propios ojos a una chica bonita con la mirada en blanco de los muertos. La vista me heló el corazón. En el momento en que la vi me molesta a mí y corrí tan rápido como pude. El que los demás esperan de mí para ir hacia atrás y guía en la noche, pero ¿cómo puedo? Estoy demasiado petrificado a acercarse a ella de nuevo.}
-{241}{}{Así que ¿qué podía hacer para ayudar?}
-{242}{}{A menos que tengas un par de pelotas por ahí que podía pin en ti, no sé qué podría hacer para ayudar.}
-{250}{}{Usted podría ir a ella. Trate de averiguar por qué ella perdura en el reino de los mortales. Ella aparece en el bosque hacia el sur en la noche. Si usted podría encontrar algo que me pudiera ayudar, me gustaría ayudarme se lo agradeceria mucho.}
+{211}{}{[Ã‰l contempla por un momento, luego suspira.] Esto es mÃ¡s vergonzoso admitirlo, pero... ya ves, nunca he hecho *cree* en los espÃ­ritus, la vida despuÃ©s de la muerte, nada de eso. Yo sÃ© lo que estÃ¡s pensando, lo bueno es que el chamÃ¡n no cree? Es sÃ³lo que, bueno, era esto o me tomo una lanza y la caza de lagartijas con los guerreros. Â¿Me veo como un guerrero para usted? Espere, no se responder.}
+{212}{}{AsÃ­ que eres un cobarde y un mentiroso. Que asco de mÃ­.}
+{213}{}{Si usted no cree, entonces, Â¿cÃ³mo se tienden a las necesidades espirituales del pueblo?}
+{220}{}{Oh, yo no te culpo. De hecho, yo tengo asco a mÃ­ mismo muy a fondo. No sÃ© por quÃ© pensÃ© que me podrÃ­a ayudar. Yo ciertamente no merecen ser ayudados. Yo tengo en esta situaciÃ³n, por lo que depende de mÃ­ para ponerme fuera de ella. Ahora, si me disculpÃ¡is...}
+{221}{}{Alto ahÃ­, el CapitÃ¡n LÃ¡stima. Â¿Por quÃ© no me dices cÃ³mo es exactamente lo que pensÃ© que podrÃ­a ayudarle?}
+{222}{}{No. No voy a excusa ... les voy a eliminar y purgar el mundo de su patÃ©tica existencia!}
+{230}{}{Bueno, hasta recientemente no era mÃ¡s que el subalterno de la aldea de chamÃ¡n. Eso fue fÃ¡cil, solo tenÃ­a que seguir su ejemplo. Luego fue en busca de un borracho de la medianoche nadar en la Gran Agua con Sal y, asÃ­, de repente me encontrÃ© a mÃ­ mismo promoviÃ³. PensÃ© que no serÃ­a tan malo. PensÃ© que sÃ³lo podrÃ­a pico de algunos mÃ­sticos de pacotilla y todo el mundo serÃ­a feliz. Pero no. El mismo dÃ­a en que adquieren el tÃ­tulo de chamÃ¡n me encuentro tratando con algo que se forma por encima de mi cabeza.}
+{231}{}{Â¿QuÃ© pasÃ³?}
+{240}{}{Hay un *real* espÃ­ritu perdido que vagan por el bosque justo al sur de la aldea! Es cierto, la he visto con mis propios ojos a una chica bonita con la mirada en blanco de los muertos. La vista me helÃ³ el corazÃ³n. En el momento en que la vi me molesta a mÃ­ y corrÃ­ tan rÃ¡pido como pude. El que los demÃ¡s esperan de mÃ­ para ir hacia atrÃ¡s y guÃ­a en la noche, pero Â¿cÃ³mo puedo? Estoy demasiado petrificado a acercarse a ella de nuevo.}
+{241}{}{AsÃ­ que Â¿quÃ© podÃ­a hacer para ayudar?}
+{242}{}{A menos que tengas un par de pelotas por ahÃ­ que podÃ­a pin en ti, no sÃ© quÃ© podrÃ­a hacer para ayudar.}
+{250}{}{Usted podrÃ­a ir a ella. Trate de averiguar por quÃ© ella perdura en el reino de los mortales. Ella aparece en el bosque hacia el sur en la noche. Si usted podrÃ­a encontrar algo que me pudiera ayudar, me gustarÃ­a ayudarme se lo agradeceria mucho.}
 {251}{}{No es mi problema. Es hora de que el hombre y hacer su trabajo.}
-{252}{}{Voy a mirar en él.}
-{260}{}{Te hizo cambiar de opinión? Me vas a ayudar con el espíritu perdido?}
+{252}{}{Voy a mirar en Ã©l.}
+{260}{}{Te hizo cambiar de opiniÃ³n? Me vas a ayudar con el espÃ­ritu perdido?}
 {261}{}{Como he dicho antes, no es mi problema. Bye.}
-{262}{}{Eh, supongo que me podría mirar en él. Voy a dejar que usted sabe lo que quiero averiguar.}
-{270}{}{Ya estás de vuelta. Descubriste algo sobre el espíritu perdido?}
+{262}{}{Eh, supongo que me podrÃ­a mirar en Ã©l. Voy a dejar que usted sabe lo que quiero averiguar.}
+{270}{}{Ya estÃ¡s de vuelta. Descubriste algo sobre el espÃ­ritu perdido?}
 {271}{}{Estoy trabajando en ello. Voy a volver a usted.}
-{272}{}{Me habló--er, escuchó-el espíritu. Parece que fue traicionado y asesinado por su amante, alguien llamado Thorg.}
-{280}{}{Thorg?! Él era el chamán que me sirvió como un apercibir bajo. Wow, yo sabía que él era un poco de un idiota, pero no me tomes por un asesino de las niñas bonitas. Hmm, supongo que una conciencia culpable ayuda a explicar que los borrachos de la medianoche de natación que conducen a su muerte. Así Thorg es un asesino... ¿cómo 'bout que...}
-{281}{}{¿Y ahora qué?}
-{290}{}{[Suspiro pesado.] Ahora supongo que tengo que enviar en la niebla. Creo que voy a ser capaz de hacerlo, pero necesito que vengas conmigo. Simplemente no hay manera de que yo sería capaz de enfrentarse a su solo y ninguno de los demás en el pueblo se van ... ellos creen que es un mal augurio para un no-chamán encuentro con un espíritu perdido.}
-{291}{}{Nah. Ya he hecho demasiado para usted. Estás en tu propio.}
-{292}{}{No te preocupes, yo te ayudo a través de este.}
-{293}{}{Está bien, voy a hacerlo. Pero sólo porque va a ser divertido ver que se retuercen.}
-{300}{}{Por favor, dime que has reconsiderado. Te vienes conmigo a tomar el cuidado del espíritu perdido, ¿verdad?}
-{301}{}{Mal. Estás en tu propio. Bye.}
-{302}{}{Está bien, voy a hacerlo. Pero sólo porque va a ser divertido ver que se retuercen.}
-{310}{}{Oh, mierda... oh, mierda... No, yo puedo hacer esto... está Bien. Nessa?}
-{311}{}{Ohhh... Tan frío y solo...}
-{312}{}{Nessa, usted debe oír mi voz. Yo estoy llamando a usted desde el mundo mortal.}
-{313}{}{Yo... yo oigo a alguien! ¿Quién está ahí? }
-{314}{}{Yo soy el chamán de la aldea. Usted debe entrar en la niebla. Allí, usted encontrará la paz.}
-{315}{}{Sí! Sí veo la bruma ahora. Veo a los espíritus de invocación para mí.}
+{272}{}{Me hablÃ³--er, escuchÃ³-el espÃ­ritu. Parece que fue traicionado y asesinado por su amante, alguien llamado Thorg.}
+{280}{}{Thorg?! Ã‰l era el chamÃ¡n que me sirviÃ³ como un apercibir bajo. Wow, yo sabÃ­a que Ã©l era un poco de un idiota, pero no me tomes por un asesino de las niÃ±as bonitas. Hmm, supongo que una conciencia culpable ayuda a explicar que los borrachos de la medianoche de nataciÃ³n que conducen a su muerte. AsÃ­ Thorg es un asesino... Â¿cÃ³mo 'bout que...}
+{281}{}{Â¿Y ahora quÃ©?}
+{290}{}{[Suspiro pesado.] Ahora supongo que tengo que enviar en la niebla. Creo que voy a ser capaz de hacerlo, pero necesito que vengas conmigo. Simplemente no hay manera de que yo serÃ­a capaz de enfrentarse a su solo y ninguno de los demÃ¡s en el pueblo se van ... ellos creen que es un mal augurio para un no-chamÃ¡n encuentro con un espÃ­ritu perdido.}
+{291}{}{Nah. Ya he hecho demasiado para usted. EstÃ¡s en tu propio.}
+{292}{}{No te preocupes, yo te ayudo a travÃ©s de este.}
+{293}{}{EstÃ¡ bien, voy a hacerlo. Pero sÃ³lo porque va a ser divertido ver que se retuercen.}
+{300}{}{Por favor, dime que has reconsiderado. Te vienes conmigo a tomar el cuidado del espÃ­ritu perdido, Â¿verdad?}
+{301}{}{Mal. EstÃ¡s en tu propio. Bye.}
+{302}{}{EstÃ¡ bien, voy a hacerlo. Pero sÃ³lo porque va a ser divertido ver que se retuercen.}
+{310}{}{Oh, mierda... oh, mierda... No, yo puedo hacer esto... estÃ¡ Bien. Nessa?}
+{311}{}{Ohhh... Tan frÃ­o y solo...}
+{312}{}{Nessa, usted debe oÃ­r mi voz. Yo estoy llamando a usted desde el mundo mortal.}
+{313}{}{Yo... yo oigo a alguien! Â¿QuiÃ©n estÃ¡ ahÃ­? }
+{314}{}{Yo soy el chamÃ¡n de la aldea. Usted debe entrar en la niebla. AllÃ­, usted encontrarÃ¡ la paz.}
+{315}{}{SÃ­! SÃ­ veo la bruma ahora. Veo a los espÃ­ritus de invocaciÃ³n para mÃ­.}
 {316}{}{Ir a ellos, Nessa. Ir en las brumas y unirse a sus antepasados.}
-{317}{}{Yo no estoy solo nunca más.}
-{320}{}{Gracias por ayudarnos a rescatar a Serin. Me dio un poco de hierbas para ayudar a él descansar y aliviar su dolor. Espíritus dispuestos, él debe estar de regreso y después de un par de días.}
-{330}{}{Vamos a ver aquí... Oh, excelente. Estos funcionan bien. Aquí, tomar la curación de polvo para su tiempo. Puede que sus antepasados guía de bien.}
-{400}{}{Sí, sí, muy divertido. Ahora se ejecutan a lo largo. Estoy muy ocupado.}
-{401}{}{::Gire a salir, entonces rápidamente giran alrededor de la espalda:: Booh!}
-{410}{}{Ah! Maldita sea! Fuera de aquí! Vaya!}
+{317}{}{Yo no estoy solo nunca mÃ¡s.}
+{320}{}{Gracias por ayudarnos a rescatar a Serin. Me dio un poco de hierbas para ayudar a Ã©l descansar y aliviar su dolor. EspÃ­ritus dispuestos, Ã©l debe estar de regreso y despuÃ©s de un par de dÃ­as.}
+{330}{}{Vamos a ver aquÃ­... Oh, excelente. Estos funcionan bien. AquÃ­, tomar la curaciÃ³n de polvo para su tiempo. Puede que sus antepasados guÃ­a de bien.}
+{400}{}{SÃ­, sÃ­, muy divertido. Ahora se ejecutan a lo largo. Estoy muy ocupado.}
+{401}{}{::Gire a salir, entonces rÃ¡pidamente giran alrededor de la espalda:: Booh!}
+{410}{}{Ah! Maldita sea! Fuera de aquÃ­! Vaya!}
 {411}{}{Eh-eh! Bu-bye!}
 {420}{}{Ya te lo dije antes, Simple, vaya y me deje ser.}
 {500}{}{Usted me ha dado el coraje que necesitan para servir a este pueblo. No puedo agradecerles lo suficiente.}
-{501}{}{Siempre estaré en deuda con ustedes.}
-{600}{}{Gracias por ayudarnos a rescatar a Serin. Me dio un poco de hierbas para ayudar a él descansar y aliviar su dolor. Él debe estar de regreso y después de un par de días.}
+{501}{}{Siempre estarÃ© en deuda con ustedes.}
+{600}{}{Gracias por ayudarnos a rescatar a Serin. Me dio un poco de hierbas para ayudar a Ã©l descansar y aliviar su dolor. Ã‰l debe estar de regreso y despuÃ©s de un par de dÃ­as.}
 {601}{}{Que bueno escuchar. Otra cosa que puedo hacer?}
 {602}{}{Me alegro de que Serin va a hacer. Cuidado de la toma.}
-{610}{}{En realidad, sí, supongo que hay algo. La curación Serin ha agotado la mayor parte de mi hierba de suministro. Si usted podría tráeme cinco Xander Raíces y tres Broc Flores, yo estaría muy agradecido.}
-{611}{}{Cinco Xander Raíces y tres Broc Flores, tengo. Voy a volver una vez me he encontrado para usted.}
-{612}{}{Parece que hoy es tu día de suerte. Ya tengo lo que usted está buscando aquí. Tomar em, son tuyas.}
+{610}{}{En realidad, sÃ­, supongo que hay algo. La curaciÃ³n Serin ha agotado la mayor parte de mi hierba de suministro. Si usted podrÃ­a trÃ¡eme cinco Xander RaÃ­ces y tres Broc Flores, yo estarÃ­a muy agradecido.}
+{611}{}{Cinco Xander RaÃ­ces y tres Broc Flores, tengo. Voy a volver una vez me he encontrado para usted.}
+{612}{}{Parece que hoy es tu dÃ­a de suerte. Ya tengo lo que usted estÃ¡ buscando aquÃ­. Tomar em, son tuyas.}
 {613}{}{Lo siento, pero estoy demasiado ocupado para ir lanza a la aventura por el bosque, recogiendo hierbas para usted.}
-{614}{}{Qué tal una cantidad exacta?}
-{620}{}{Porque, estoy muy... particular acerca de las cosas. Todo es cuestión de equilibrio, ciertos números... [Él frunce el ceño.] Mira, Yo
- no espere usted a entender, pero eso es sólo la forma en que estoy. Necesito cinco Xander Raíces y tres Broc Flores, no más,
+{614}{}{QuÃ© tal una cantidad exacta?}
+{620}{}{Porque, estoy muy... particular acerca de las cosas. Todo es cuestiÃ³n de equilibrio, ciertos nÃºmeros... [Ã‰l frunce el ceÃ±o.] Mira, Yo
+ no espere usted a entender, pero eso es sÃ³lo la forma en que estoy. Necesito cinco Xander RaÃ­ces y tres Broc Flores, no mÃ¡s,
  no menos. Me vas a ayudar?}
 {630}{}{Se han obtenido los elementos que necesito?}
-{631}{}{Sí, lo tengo todo aquí.}
-{632}{}{Todavía estoy buscando. Bye.}
-{640}{}{Vamos a ver aquí... Oh, excelente. Estos funcionan bien. Aquí, tomar la curación de polvo para su tiempo.}
-{641}{}{Gracias. Adiós.}
-{1000}{}{Aliviar el Chamán de la Tribu de sus problemas.}
-{2000}{}{Entregar las hierbas para el Chamán.}
-{3000}{}{Sabía que era un gran héroe, a lo largo de todos... Los espíritus me lo dijo.}
-{3001}{}{Me alegro de que mi curación polvos protegido desde el Enclave.}
+{631}{}{SÃ­, lo tengo todo aquÃ­.}
+{632}{}{TodavÃ­a estoy buscando. Bye.}
+{640}{}{Vamos a ver aquÃ­... Oh, excelente. Estos funcionan bien. AquÃ­, tomar la curaciÃ³n de polvo para su tiempo.}
+{641}{}{Gracias. AdiÃ³s.}
+{1000}{}{Aliviar el ChamÃ¡n de la Tribu de sus problemas.}
+{2000}{}{Entregar las hierbas para el ChamÃ¡n.}
+{3000}{}{SabÃ­a que era un gran hÃ©roe, a lo largo de todos... Los espÃ­ritus me lo dijo.}
+{3001}{}{Me alegro de que mi curaciÃ³n polvos protegido desde el Enclave.}

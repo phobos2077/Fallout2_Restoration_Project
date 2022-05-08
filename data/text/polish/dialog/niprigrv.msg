@@ -1,7 +1,7 @@
-{100}{}{W trumnie znajdujesz cia³o starego cz³owieka. Ma poder¿niête gard³o. Przy ciele nic nie ma.}
-{101}{}{Cia³o Pritcharda le¿y w siermiê¿nej, drewnianej trumnie, wygl¹da te¿ na to, ¿e ktoœ poder¿n¹³ mu gard³o.}
-{150}{}{Podczas przeszukiwania cia³a Pritcharda œci¹gasz mu buty i zauwa¿asz, ¿e jedna z podeszw jest nieprzymocowana. Po jej oderwaniu znajdujesz pomiêt¹ mapê, która prowadzi do czegoœ nazywaj¹cego siê "SAD". Wprowadzasz tê mapê do PipBoya.}
-{200}{}{Na nagrobku napisano: "Tu le¿y Sam Pritchard: Za du¿o gada³, wiêc daliœmy mu drug¹ gêbê."}
-{250}{}{Uda³o ci siê znaleŸæ grób Pritcharda... i mapê do Sk³adu Wojskowego Sierra.}
-{255}{}{Hmmm... to jest chyba œlad.}
+{100}{}{W trumnie znajdujesz ciaÅ‚o starego czÅ‚owieka. Ma poderÅ¼niÄ™te gardÅ‚o. Przy ciele nic nie ma.}
+{101}{}{CiaÅ‚o Pritcharda leÅ¼y w siermiÄ™Å¼nej, drewnianej trumnie, wyglÄ…da teÅ¼ na to, Å¼e ktoÅ› poderÅ¼nÄ…Å‚ mu gardÅ‚o.}
+{150}{}{Podczas przeszukiwania ciaÅ‚a Pritcharda Å›ciÄ…gasz mu buty i zauwaÅ¼asz, Å¼e jedna z podeszw jest nieprzymocowana. Po jej oderwaniu znajdujesz pomiÄ™tÄ… mapÄ™, ktÃ³ra prowadzi do czegoÅ› nazywajÄ…cego siÄ™ "SAD". Wprowadzasz tÄ™ mapÄ™ do PipBoya.}
+{200}{}{Na nagrobku napisano: "Tu leÅ¼y Sam Pritchard: Za duÅ¼o gadaÅ‚, wiÄ™c daliÅ›my mu drugÄ… gÄ™bÄ™."}
+{250}{}{UdaÅ‚o ci siÄ™ znaleÅºÄ‡ grÃ³b Pritcharda... i mapÄ™ do SkÅ‚adu Wojskowego Sierra.}
+{255}{}{Hmmm... to jest chyba Å›lad.}
 {256}{}{Hmmm... papieeeereeek.}

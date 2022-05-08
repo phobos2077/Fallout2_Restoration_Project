@@ -1,24 +1,24 @@
-{100}{}{Você vê um computador PoseidoNet.}
-{101}{}{Você vê um computador PoseidoNet.}
-{102}{}{Você vê um computador PoseidoNet.}
-{103}{}{::Beep:: Terminal com defeito. Requer a instalação do NavComp. ::beep::}
+{100}{}{VocÃª vÃª um computador PoseidoNet.}
+{101}{}{VocÃª vÃª um computador PoseidoNet.}
+{102}{}{VocÃª vÃª um computador PoseidoNet.}
+{103}{}{::Beep:: Terminal com defeito. Requer a instalaÃ§Ã£o do NavComp. ::beep::}
 {104}{}{[FEITO]}
-{105}{}{Bem-vindo ao PoseidoNet. Este terminal está limitado à transmissão entre um petroleiro - PMV Valdez - e plataforma de atracação. Comando?}
+{105}{}{Bem-vindo ao PoseidoNet. Este terminal estÃ¡ limitado Ã  transmissÃ£o entre um petroleiro - PMV Valdez - e plataforma de atracaÃ§Ã£o. Comando?}
 {106}{}{Ir.}
 {107}{}{Checando estado.}
 {108}{}{Sair.}
-{109}{}{-Tanques de combustível: Vazios- -Carga de espera: Vazio- -Computador de navegação: Não funcional- -Cabas de ancoragem: Anexadas-}
+{109}{}{-Tanques de combustÃ­vel: Vazios- -Carga de espera: Vazio- -Computador de navegaÃ§Ã£o: NÃ£o funcional- -Cabas de ancoragem: Anexadas-}
 {110}{}{[VOLTAR]}
 {111}{}{Sair.}
-{112}{}{-Tanques de combustível: Cheios- -Carga de espera: Vazia- -Computador de navegação: Não funcional- -Cabas de ancoragem: Anexadas-}
+{112}{}{-Tanques de combustÃ­vel: Cheios- -Carga de espera: Vazia- -Computador de navegaÃ§Ã£o: NÃ£o funcional- -Cabas de ancoragem: Anexadas-}
 {113}{}{[VOLTAR]}
 {114}{}{Sair.}
-{115}{}{ERRO: Tanques de combustível vazios.}
-{116}{}{ERRO: Computador de navegação com defeito.}
-{117}{}{-Tanques de combustível: Vazio- -Carga Porão: Vazio- -Computador de navegação: Funcional- -Cabas de ancoragem: Anexadas-}
-{118}{}{-Tanques de combustível: Cheios- -Porão de carga: Vazio- -Computador de navegação: Funcional- -Linhas de ancoragem: Anexadas-}
-{119}{}{Você vê um computador de navegação PoseidoNet.}
-{129}{}{[Você executa a sequência de lançamento rapidamente, e a nave dispara para longe da plataforma.]}
+{115}{}{ERRO: Tanques de combustÃ­vel vazios.}
+{116}{}{ERRO: Computador de navegaÃ§Ã£o com defeito.}
+{117}{}{-Tanques de combustÃ­vel: Vazio- -Carga PorÃ£o: Vazio- -Computador de navegaÃ§Ã£o: Funcional- -Cabas de ancoragem: Anexadas-}
+{118}{}{-Tanques de combustÃ­vel: Cheios- -PorÃ£o de carga: Vazio- -Computador de navegaÃ§Ã£o: Funcional- -Linhas de ancoragem: Anexadas-}
+{119}{}{VocÃª vÃª um computador de navegaÃ§Ã£o PoseidoNet.}
+{129}{}{[VocÃª executa a sequÃªncia de lanÃ§amento rapidamente, e a nave dispara para longe da plataforma.]}
 {130}{}{[FEITO]}
-{131}{}{Computador de navegação on-line.}
-{200}{}{AVISO: Submarino ainda ativo. Continuar resultaria na destruição do navio.}
+{131}{}{Computador de navegaÃ§Ã£o on-line.}
+{200}{}{AVISO: Submarino ainda ativo. Continuar resultaria na destruiÃ§Ã£o do navio.}

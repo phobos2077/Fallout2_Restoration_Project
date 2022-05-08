@@ -1,1 +1,1 @@
-{100}{}{Masz dziwne uczucie jeœli chodzi o to miejsce. Czaruj¹cy zapach krowiego ³ajna i gnij¹cego miêsa dolatuje do ciebie z zaledwie paru metrów.}
+{100}{}{Masz dziwne uczucie jeÅ›li chodzi o to miejsce. CzarujÄ…cy zapach krowiego Å‚ajna i gnijÄ…cego miÄ™sa dolatuje do ciebie z zaledwie paru metrÃ³w.}

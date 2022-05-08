@@ -1,6 +1,6 @@
 {100}{}{Du siehst eine Wache.}
-{101}{}{Du siehst Grant, den Wächter.}
-{102}{}{Du siehst einen Wächter. Seine Rüstung und seine Waffen sind in ausgezeichnetem Zustand.}
+{101}{}{Du siehst Grant, den WÃ¤chter.}
+{102}{}{Du siehst einen WÃ¤chter. Seine RÃ¼stung und seine Waffen sind in ausgezeichnetem Zustand.}
 {103}{}{Das ist hier Privateigentum. Geh bitte weiter.}
 {104}{}{Wer wohnt hier?}
 {105}{}{Ja, ich gehn.}
@@ -13,36 +13,36 @@
 {112}{}{Nein, ich treib mich noch ein bisschen rum hier.}
 {113}{}{Das ist Westins Ranch. Hier wohnt Stadtrat Westin.}
 {114}{}{Muss sehn.}
-{115}{}{Gut. Tschüss.}
-{116}{}{Ich möchte bitte den Stadtrat sprechen.}
+{115}{}{Gut. TschÃ¼ss.}
+{116}{}{Ich mÃ¶chte bitte den Stadtrat sprechen.}
 {117}{}{Verstehe. Dann geh ich also.}
-{118}{}{Was wünschst du von Mr. Westin?}
+{118}{}{Was wÃ¼nschst du von Mr. Westin?}
 {119}{}{Brauch Job.}
 {120}{}{Will nur plaudern.}
-{121}{}{Äh...}
+{121}{}{Ã„h...}
 {122}{}{Macht nichts.}
-{123}{}{Ich suche Arbeit und ich hab gehört, er braucht gerade Leute.}
-{124}{}{Ich möchte mit Mr. Westin plaudern.}
-{125}{}{Na, macht nichts, ich komm später wieder.}
+{123}{}{Ich suche Arbeit und ich hab gehÃ¶rt, er braucht gerade Leute.}
+{124}{}{Ich mÃ¶chte mit Mr. Westin plaudern.}
+{125}{}{Na, macht nichts, ich komm spÃ¤ter wieder.}
 {126}{}{Hmm... Wenn ich mich recht erinnere, gibt es hier in der Tat Arbeit. Komm herein, aber
- mach hier keinen Ärger. Ich behalt dich im Auge.}
+ mach hier keinen Ã„rger. Ich behalt dich im Auge.}
 {127}{}{Danke.}
 {128}{}{Danke.}
 {129}{}{Mr. Westin pflegt nicht mit jedem Dahergelaufenen zu plaudern. Ich kann dich nur zu ihm
- vorlassen, wenn du ihn in einer bestimmten Angelegenheit sprechen möchtest. Jetzt geh bitte
+ vorlassen, wenn du ihn in einer bestimmten Angelegenheit sprechen mÃ¶chtest. Jetzt geh bitte
  wieder.}
 {130}{}{[Fertig]}
-{131}{}{(Seufz) Man sagt, Mr. Westin hat eine Schwäche für Leute wie dich. Komm rein.}
+{131}{}{(Seufz) Man sagt, Mr. Westin hat eine SchwÃ¤che fÃ¼r Leute wie dich. Komm rein.}
 {132}{}{Ich danken.}
 {133}{}{Oh ja, hier bin ich genau richtig.}
 {134}{}{He, weg da!}
 {135}{}{Du solltest vorher um Erlaubnis fragen, wenn du hier mit Sachen rumspielst, die dir nicht
- gehören.}
+ gehÃ¶ren.}
 {136}{}{Hallo. Wolltest du schon wieder zu Mr. Westin?}
 {137}{}{Ja.}
 {138}{}{Nein.}
-{139}{}{Ich haben Sachen von Vault City für Mr. Westin.}
-{140}{}{Ich habe etwas aus Vault City für Mr. Westin.}
-{141}{}{Na gut, komm herein. Mach ja keinen Ärger. Ich beobachte dich.}
-{142}{}{Ohne irgendwelche Geschäfte zu machen, kommst du nicht auf die Farm.}
+{139}{}{Ich haben Sachen von Vault City fÃ¼r Mr. Westin.}
+{140}{}{Ich habe etwas aus Vault City fÃ¼r Mr. Westin.}
+{141}{}{Na gut, komm herein. Mach ja keinen Ã„rger. Ich beobachte dich.}
+{142}{}{Ohne irgendwelche GeschÃ¤fte zu machen, kommst du nicht auf die Farm.}
 {150}{}{I'm sorry, there's been an incident and no one is allowed on the property. Move along.}

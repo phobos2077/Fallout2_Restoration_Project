@@ -1,4 +1,4 @@
-{150}{}{Nie udaje ci siê zrobiæ nic po¿ytecznego, za to dostajesz dawkê oko³o 50000 woltów. Przynajmniej nie musisz siê ju¿ przejmowaæ goleniem.}
-{151}{}{Wygl¹da na to, ¿e pole si³owe pozosta³o nienaruszone.}
-{152}{}{Pole si³owe zosta³o opóŸnione o piêtnaœcie sekund.}
-{200}{}{Tak, przep³ywa tamtêdy bardzo du¿o energii. Zatrzymujesz rêkê, nim pr¹d ma okazje ciê poraziæ.}
+{150}{}{Nie udaje ci siÄ™ zrobiÄ‡ nic poÅ¼ytecznego, za to dostajesz dawkÄ™ okoÅ‚o 50000 woltÃ³w. Przynajmniej nie musisz siÄ™ juÅ¼ przejmowaÄ‡ goleniem.}
+{151}{}{WyglÄ…da na to, Å¼e pole siÅ‚owe pozostaÅ‚o nienaruszone.}
+{152}{}{Pole siÅ‚owe zostaÅ‚o opÃ³Åºnione o piÄ™tnaÅ›cie sekund.}
+{200}{}{Tak, przepÅ‚ywa tamtÄ™dy bardzo duÅ¼o energii. Zatrzymujesz rÄ™kÄ™, nim prÄ…d ma okazje ciÄ™ poraziÄ‡.}

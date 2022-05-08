@@ -1,73 +1,73 @@
 {100}{}{Widzisz narkomana.}
 {101}{}{To Petey.}
 {150}{}{Widzisz biednego narkomana.}
-{151}{}{Petey wygl¹da na kogoœ, kto potrzebuje profesjonalnej opieki.}
+{151}{}{Petey wyglÄ…da na kogoÅ›, kto potrzebuje profesjonalnej opieki.}
 {152}{}{[Rozmawiaj.]}
-{155}{}{[Kaszle.] Masz jakieœ drobniaki?}
-{156}{}{Jasne, proszê bardzo.}
+{155}{}{[Kaszle.] Masz jakieÅ› drobniaki?}
+{156}{}{Jasne, proszÄ™ bardzo.}
 {157}{}{Nie, spadaj.}
 {158}{}{Pitek?}
-{159}{}{Widzê, ¿e tobie te¿ siê nie powodzi. [Kaszle.] Mimo to, dziêki.}
-{160}{}{Przykro mi. ¯egnaj.}
-{161}{}{Proszê bardzo.}
-{162}{}{Mo¿e innym razem. Mimo to, dziêki. [Kaszle.]}
+{159}{}{WidzÄ™, Å¼e tobie teÅ¼ siÄ™ nie powodzi. [Kaszle.] Mimo to, dziÄ™ki.}
+{160}{}{Przykro mi. Å»egnaj.}
+{161}{}{ProszÄ™ bardzo.}
+{162}{}{MoÅ¼e innym razem. Mimo to, dziÄ™ki. [Kaszle.]}
 {163}{}{[Koniec]}
-{164}{}{Piêkne dziêki. [Kaszle.] Wieeelkie dziêki.}
-{165}{}{Ca³a przyjemnoœæ po mojej stronie.}
+{164}{}{PiÄ™kne dziÄ™ki. [Kaszle.] Wieeelkie dziÄ™ki.}
+{165}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie.}
 {166}{}{Tak, tak.}
-{167}{}{Proszê pana, [Kaszle.] zechce pan wspomóc schorowanego cz³owieka w potrzebie?}
+{167}{}{ProszÄ™ pana, [Kaszle.] zechce pan wspomÃ³c schorowanego czÅ‚owieka w potrzebie?}
 {168}{}{Masz tu $5.}
 {169}{}{Nie dzisiaj.}
-{170}{}{Poszukaj sobie lepiej jakiejœ uczciwej pracy.}
-{171}{}{Proszê pani, mo¿e wesprze pani [Kaszle.] biednego, g³odnego cz³owieka, który nie mo¿e pracowaæ [Kaszle.] ze wzglêdu na s³abe zdrowie.}
+{170}{}{Poszukaj sobie lepiej jakiejÅ› uczciwej pracy.}
+{171}{}{ProszÄ™ pani, moÅ¼e wesprze pani [Kaszle.] biednego, gÅ‚odnego czÅ‚owieka, ktÃ³ry nie moÅ¼e pracowaÄ‡ [Kaszle.] ze wzglÄ™du na sÅ‚abe zdrowie.}
 {172}{}{Biedaku, masz tu $5.}
-{173}{}{Nigdy nie dajê ja³mu¿ny ¿ebrakom.}
+{173}{}{Nigdy nie dajÄ™ jaÅ‚muÅ¼ny Å¼ebrakom.}
 {174}{}{Nie.}
-{175}{}{Przykro mi, ale nie mam przy sobie pieniêdzy.}
-{200}{}{Hej, rzucisz parê groszy?}
-{201}{}{Mo¿e zechce pan rzuciæ parê groszy?}
-{202}{}{Hej, znajdziesz parê groszy dla biednego cz³owieka?}
-{203}{}{Mo¿e rzucisz mi parê dolców?}
-{204}{}{Po¿yczysz mi parê dolców?}
-{205}{}{Mo¿e zechce pani rzuciæ mi parê groszy?}
-{206}{}{Hej, proszê pani! Grosik dla biednego cz³owieka?}
-{220}{}{Niech mi pan pomo¿e.}
+{175}{}{Przykro mi, ale nie mam przy sobie pieniÄ™dzy.}
+{200}{}{Hej, rzucisz parÄ™ groszy?}
+{201}{}{MoÅ¼e zechce pan rzuciÄ‡ parÄ™ groszy?}
+{202}{}{Hej, znajdziesz parÄ™ groszy dla biednego czÅ‚owieka?}
+{203}{}{MoÅ¼e rzucisz mi parÄ™ dolcÃ³w?}
+{204}{}{PoÅ¼yczysz mi parÄ™ dolcÃ³w?}
+{205}{}{MoÅ¼e zechce pani rzuciÄ‡ mi parÄ™ groszy?}
+{206}{}{Hej, proszÄ™ pani! Grosik dla biednego czÅ‚owieka?}
+{220}{}{Niech mi pan pomoÅ¼e.}
 {221}{}{Aaach, jak strasznie boli.}
-{222}{}{Potrzebujê pomocy. Bardzo boli.}
-{223}{}{Mo¿e mi pani pomo¿e?}
-{225}{}{Bêdê dozgonnie wdziêczny.}
+{222}{}{PotrzebujÄ™ pomocy. Bardzo boli.}
+{223}{}{MoÅ¼e mi pani pomoÅ¼e?}
+{225}{}{BÄ™dÄ™ dozgonnie wdziÄ™czny.}
 {226}{}{Hej, co ty wyprawiasz?}
 {230}{}{Jakie to przyjemne.}
 {231}{}{Uuch...}
 {232}{}{[Chichocze]}
 {233}{}{Hej...}
-{234}{}{£adnieee...}
+{234}{}{Åadnieee...}
 {235}{}{O tak...}
-{300}{}{Aaaa! Ktoœ zaciuka³ Tubby'ego?}
-{301}{}{Co siê sta³o Tubby'emu?}
+{300}{}{Aaaa! KtoÅ› zaciukaÅ‚ Tubby'ego?}
+{301}{}{Co siÄ™ staÅ‚o Tubby'emu?}
 {302}{}{O cholera, Tubby...}
 {303}{}{Aaach...}
-{304}{}{I tak go nie lubi³em.}
-{305}{}{Flick nie ¿yje? Cholera.}
-{306}{}{Co siê sta³o Flickowi?}
+{304}{}{I tak go nie lubiÅ‚em.}
+{305}{}{Flick nie Å¼yje? Cholera.}
+{306}{}{Co siÄ™ staÅ‚o Flickowi?}
 {307}{}{Flick...}
-{310}{}{Hej Tubby, ja... eee... potrzebujê pomocy.}
+{310}{}{Hej Tubby, ja... eee... potrzebujÄ™ pomocy.}
 {311}{}{HEJ TUBBY!}
-{312}{}{Czeœæ.}
+{312}{}{CzeÅ›Ä‡.}
 {313}{}{HEJ!}
-{314}{}{Hej Flick, ja... eee... potrzebujê pomocy.}
+{314}{}{Hej Flick, ja... eee... potrzebujÄ™ pomocy.}
 {315}{}{HEJ FLICK!}
-{320}{}{Hej Tubby, mo¿emy pogadaæ? Mam kasê.}
-{321}{}{Ummm, Tubby, mam trochê pieniêdzy.}
+{320}{}{Hej Tubby, moÅ¼emy pogadaÄ‡? Mam kasÄ™.}
+{321}{}{Ummm, Tubby, mam trochÄ™ pieniÄ™dzy.}
 {322}{}{Uuch...}
-{323}{}{Jestem na g³odzie.}
-{324}{}{Hej, Flick, mo¿emy pogadaæ? Mam kasê.}
-{325}{}{Ummm, Flick, mam trochê pieniêdzy.}
-{330}{}{Uuuch... Wielkie dziêki, Tubby.}
+{323}{}{Jestem na gÅ‚odzie.}
+{324}{}{Hej, Flick, moÅ¼emy pogadaÄ‡? Mam kasÄ™.}
+{325}{}{Ummm, Flick, mam trochÄ™ pieniÄ™dzy.}
+{330}{}{Uuuch... Wielkie dziÄ™ki, Tubby.}
 {331}{}{Dobry z ciebie kumpel, Tubby.}
-{332}{}{Obiecujê - od jutra odstawiam ten szajs.}
+{332}{}{ObiecujÄ™ - od jutra odstawiam ten szajs.}
 {333}{}{Prawdziwy z ciebie kumpel.}
-{334}{}{Uuuch... Wielkie dziêki, Flick.}
+{334}{}{Uuuch... Wielkie dziÄ™ki, Flick.}
 {335}{}{Prawdziwy z ciebie kumpel, Flick.}
-{340}{}{Proszê. A teraz, zje¿d¿aj æpunie.}
-{341}{}{Bierz to i siê st¹d wynoœ.}
+{340}{}{ProszÄ™. A teraz, zjeÅ¼dÅ¼aj Ä‡punie.}
+{341}{}{Bierz to i siÄ™ stÄ…d wynoÅ›.}

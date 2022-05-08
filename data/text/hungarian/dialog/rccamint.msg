@@ -1,82 +1,82 @@
-{100}{}{Egy alacsony, köpcös bányászt látsz. Fekete göndör haja van.}
-{101}{}{Ez itt Caminetto, a Kokoweef Bánya egyik vereked?s bányásza.}
-{102}{}{Egy köpcös figurát látsz, akit a magabiztos vereked?k aurája vesz körül.}
-{103}{}{Caminetto, az összes Kokoweef bányász hangember.}
-{104}{}{Mindjárt megmutatom én neked, hova menj, Istenkáromló Bette.}
-{105}{}{Még egy térképpel sem tudnád megmutatni, hová menjek.}
-{106}{}{Csak azért nem, mert nem akarnék olyan közel menni hozzád.}
-{107}{}{Ne áltasd magad, töpörty?!}
-{108}{}{Örülnél te, ha egyszer a megszokott fúrógéped helyett egy ilyen töpörty? jutna neked.}
-{109}{}{Az én fúróm legalább tovább tart harminc másodpercnél!}
-{110}{}{Nem csoda, hogy a Morningstar gépei állandóan lerobbannak.}
-{111}{}{Mindjárt téged robbantalak le... az öklömmel.}
-{112}{}{Az öklöddel? A leheleted is elég hozzá.}
-{113}{}{Fogalmam sincs, hogyan érzel bármit is a saját 3 hetes b?zödt?l.}
-{114}{}{Milyen b?zr?l beszélsz? A pokolba, ha csak rádnézek, már az fáj.}
-{115}{}{Semmit sem tudsz a fájdalomról, de én majd megtanítalak rá.}
-{116}{}{Te tanítasz meg engem?}
-{117}{}{Úgy bizony! Ha már az anyád nem tette meg.}
-{118}{}{Most meg az anyám következik? Nem vagy valami kreatív!}
-{119}{}{Csinálok neked új arcot, ebben sokkal jobb vagyok. Ezen a régin már úgysincs sok látnivaló.}
-{120}{}{Mármint te? És milyen hadsereget hozol?}
-{121}{}{Én egyedül. Ennél többre nincs szükség. Fogadok, hogy mi Morningstarosok bármikor lenyomjuk a töketlen Kokoweefeseket.}
-{122}{}{Aligha. Itt a Kokoweef viszi a pálmát. És ezt most meg is fogom tanítani neked.}
-{123}{}{Kicsit nehéz lesz, ha eszméletlenre verlek.}
-{124}{}{Azt hiszed, lesz olyan szerencséd, mi?}
+{100}{}{Egy alacsony, kÃ¶pcÃ¶s bÃ¡nyÃ¡szt lÃ¡tsz. Fekete gÃ¶ndÃ¶r haja van.}
+{101}{}{Ez itt Caminetto, a Kokoweef BÃ¡nya egyik vereked?s bÃ¡nyÃ¡sza.}
+{102}{}{Egy kÃ¶pcÃ¶s figurÃ¡t lÃ¡tsz, akit a magabiztos vereked?k aurÃ¡ja vesz kÃ¶rÃ¼l.}
+{103}{}{Caminetto, az Ã¶sszes Kokoweef bÃ¡nyÃ¡sz hangember.}
+{104}{}{MindjÃ¡rt megmutatom Ã©n neked, hova menj, IstenkÃ¡romlÃ³ Bette.}
+{105}{}{MÃ©g egy tÃ©rkÃ©ppel sem tudnÃ¡d megmutatni, hovÃ¡ menjek.}
+{106}{}{Csak azÃ©rt nem, mert nem akarnÃ©k olyan kÃ¶zel menni hozzÃ¡d.}
+{107}{}{Ne Ã¡ltasd magad, tÃ¶pÃ¶rty?!}
+{108}{}{Ã–rÃ¼lnÃ©l te, ha egyszer a megszokott fÃºrÃ³gÃ©ped helyett egy ilyen tÃ¶pÃ¶rty? jutna neked.}
+{109}{}{Az Ã©n fÃºrÃ³m legalÃ¡bb tovÃ¡bb tart harminc mÃ¡sodpercnÃ©l!}
+{110}{}{Nem csoda, hogy a Morningstar gÃ©pei Ã¡llandÃ³an lerobbannak.}
+{111}{}{MindjÃ¡rt tÃ©ged robbantalak le... az Ã¶klÃ¶mmel.}
+{112}{}{Az Ã¶klÃ¶ddel? A leheleted is elÃ©g hozzÃ¡.}
+{113}{}{Fogalmam sincs, hogyan Ã©rzel bÃ¡rmit is a sajÃ¡t 3 hetes b?zÃ¶dt?l.}
+{114}{}{Milyen b?zr?l beszÃ©lsz? A pokolba, ha csak rÃ¡dnÃ©zek, mÃ¡r az fÃ¡j.}
+{115}{}{Semmit sem tudsz a fÃ¡jdalomrÃ³l, de Ã©n majd megtanÃ­talak rÃ¡.}
+{116}{}{Te tanÃ­tasz meg engem?}
+{117}{}{Ãšgy bizony! Ha mÃ¡r az anyÃ¡d nem tette meg.}
+{118}{}{Most meg az anyÃ¡m kÃ¶vetkezik? Nem vagy valami kreatÃ­v!}
+{119}{}{CsinÃ¡lok neked Ãºj arcot, ebben sokkal jobb vagyok. Ezen a rÃ©gin mÃ¡r Ãºgysincs sok lÃ¡tnivalÃ³.}
+{120}{}{MÃ¡rmint te? Ã‰s milyen hadsereget hozol?}
+{121}{}{Ã‰n egyedÃ¼l. EnnÃ©l tÃ¶bbre nincs szÃ¼ksÃ©g. Fogadok, hogy mi Morningstarosok bÃ¡rmikor lenyomjuk a tÃ¶ketlen Kokoweefeseket.}
+{122}{}{Aligha. Itt a Kokoweef viszi a pÃ¡lmÃ¡t. Ã‰s ezt most meg is fogom tanÃ­tani neked.}
+{123}{}{Kicsit nehÃ©z lesz, ha eszmÃ©letlenre verlek.}
+{124}{}{Azt hiszed, lesz olyan szerencsÃ©d, mi?}
 {125}{}{Nem kell nekem ahhoz szerencse, hogy laposra verjelek!}
-{126}{}{Mivel akarsz laposra verni? A hájaddal? Ajjaj, most aztán *tényleg* megijedtem.}
-{127}{}{Csinálj valamit, vagy pofa be, kis vakarcs!}
-{128}{}{Gyere, adok én neked, vén boszorkány!}
-{129}{}{Ki is reménykedik a szerencsében?}
-{130}{}{Elég volt! Ezért most rögtön kicsinállak!}
-{131}{}{Ki a fene ez, aki bámul minket?}
-{132}{}{Valami új ember. Hé, ez magánügy! Kapjuk el!}
-{133}{}{Most az egyszer egyetértek veled. Kapjuk el!}
-{134}{}{Most csináltál magadnak egy kis melót. Dugj csak minden gyökér bányászt rács mögé!}
-{135}{}{Van vér a pucádban, hogy h?vösre akarsz minket tenni!}
-{136}{}{Csak jól éreztük magunkat. Engedj ki minket!}
-{137}{}{Nem a te dolgod, hogy mit csináltunk.}
+{126}{}{Mivel akarsz laposra verni? A hÃ¡jaddal? Ajjaj, most aztÃ¡n *tÃ©nyleg* megijedtem.}
+{127}{}{CsinÃ¡lj valamit, vagy pofa be, kis vakarcs!}
+{128}{}{Gyere, adok Ã©n neked, vÃ©n boszorkÃ¡ny!}
+{129}{}{Ki is remÃ©nykedik a szerencsÃ©ben?}
+{130}{}{ElÃ©g volt! EzÃ©rt most rÃ¶gtÃ¶n kicsinÃ¡llak!}
+{131}{}{Ki a fene ez, aki bÃ¡mul minket?}
+{132}{}{Valami Ãºj ember. HÃ©, ez magÃ¡nÃ¼gy! Kapjuk el!}
+{133}{}{Most az egyszer egyetÃ©rtek veled. Kapjuk el!}
+{134}{}{Most csinÃ¡ltÃ¡l magadnak egy kis melÃ³t. Dugj csak minden gyÃ¶kÃ©r bÃ¡nyÃ¡szt rÃ¡cs mÃ¶gÃ©!}
+{135}{}{Van vÃ©r a pucÃ¡dban, hogy h?vÃ¶sre akarsz minket tenni!}
+{136}{}{Csak jÃ³l Ã©reztÃ¼k magunkat. Engedj ki minket!}
+{137}{}{Nem a te dolgod, hogy mit csinÃ¡ltunk.}
 {138}{}{T?nj a francba!}
-{139}{}{Vigyél el innen!}
-{140}{}{Hé, engedj ki innen!}
-{141}{}{Ártatlan vagyok.}
-{142}{}{Nem csináltam semmit.}
-{143}{}{Seriff! Ki kell mennem, cs?repedésem van.}
-{144}{}{Mi a fenét akarsz?}
-{145}{}{Nem fogom hagyni, hogy összeverekedjetek!}
-{146}{}{Csak kíváncsi voltam, mi folyik itt.}
-{147}{}{Én és a srácok éppen meg akartuk leckéztetni ezeket a Morningstaros csírákat. Az Istenkáromló Bette-vel akartuk kezdeni.}
-{148}{}{Mi okozta a nézeteltérést?}
-{149}{}{Értem. Nos, ezt nem hagyhatom. Hagyjátok abba azonnal!}
-{150}{}{Csak elegünk van abból, hogy ezekt?l a makacs dögökt?l b?zlik a bárunk.}
-{151}{}{Ez még nem ok. Nem hagyhatom, hogy összeverekedjetek.}
-{152}{}{Nos, igen, ez úgy t?nik, probléma, rendben. Nem hibáztatlak. Sok szerencsét.}
-{153}{}{Valóban? És hogy akarsz megakadályozni minket?}
-{154}{}{Az els?nek üt? embert kinyírom!}
-{155}{}{El?ször nagyon kedvesen megkérlek, aztán betárazok, és jöhet a céllövészet.}
-{156}{}{A Seriff megkért, hogy segítsem ki, amíg tropa a lába. Mivel megígértem, tartanom kell a szavam.}
-{157}{}{Na, jó...a Seriff kedvéért azt hiszem, visszaveszünk egy kicsit.}
-{158}{}{Kösz. Reméltem, hogy így fogod látni a dolgokat. Viszlát!}
-{159}{}{Micsoda jótét lélek! Azt hiszem, nem tetszik a modorod, haver.}
-{160}{}{Nem kötelez?, hogy tetsszen. Tehát választhatsz: vagy eljössz velem a börtönig, vagy magam fogom a hulládat elhúzni odáig. }
-{161}{}{Ó, sajnálom. Nem akartam goromba lenni. Most inkább távozom. Viszlát!}
-{162}{}{Rendben, rendben. Veled megyek, ha Bette-t is letartóztatod. Ez így lenne igazságos.}
+{139}{}{VigyÃ©l el innen!}
+{140}{}{HÃ©, engedj ki innen!}
+{141}{}{Ãrtatlan vagyok.}
+{142}{}{Nem csinÃ¡ltam semmit.}
+{143}{}{Seriff! Ki kell mennem, cs?repedÃ©sem van.}
+{144}{}{Mi a fenÃ©t akarsz?}
+{145}{}{Nem fogom hagyni, hogy Ã¶sszeverekedjetek!}
+{146}{}{Csak kÃ­vÃ¡ncsi voltam, mi folyik itt.}
+{147}{}{Ã‰n Ã©s a srÃ¡cok Ã©ppen meg akartuk leckÃ©ztetni ezeket a Morningstaros csÃ­rÃ¡kat. Az IstenkÃ¡romlÃ³ Bette-vel akartuk kezdeni.}
+{148}{}{Mi okozta a nÃ©zeteltÃ©rÃ©st?}
+{149}{}{Ã‰rtem. Nos, ezt nem hagyhatom. HagyjÃ¡tok abba azonnal!}
+{150}{}{Csak elegÃ¼nk van abbÃ³l, hogy ezekt?l a makacs dÃ¶gÃ¶kt?l b?zlik a bÃ¡runk.}
+{151}{}{Ez mÃ©g nem ok. Nem hagyhatom, hogy Ã¶sszeverekedjetek.}
+{152}{}{Nos, igen, ez Ãºgy t?nik, problÃ©ma, rendben. Nem hibÃ¡ztatlak. Sok szerencsÃ©t.}
+{153}{}{ValÃ³ban? Ã‰s hogy akarsz megakadÃ¡lyozni minket?}
+{154}{}{Az els?nek Ã¼t? embert kinyÃ­rom!}
+{155}{}{El?szÃ¶r nagyon kedvesen megkÃ©rlek, aztÃ¡n betÃ¡razok, Ã©s jÃ¶het a cÃ©llÃ¶vÃ©szet.}
+{156}{}{A Seriff megkÃ©rt, hogy segÃ­tsem ki, amÃ­g tropa a lÃ¡ba. Mivel megÃ­gÃ©rtem, tartanom kell a szavam.}
+{157}{}{Na, jÃ³...a Seriff kedvÃ©Ã©rt azt hiszem, visszaveszÃ¼nk egy kicsit.}
+{158}{}{KÃ¶sz. RemÃ©ltem, hogy Ã­gy fogod lÃ¡tni a dolgokat. ViszlÃ¡t!}
+{159}{}{Micsoda jÃ³tÃ©t lÃ©lek! Azt hiszem, nem tetszik a modorod, haver.}
+{160}{}{Nem kÃ¶telez?, hogy tetsszen. TehÃ¡t vÃ¡laszthatsz: vagy eljÃ¶ssz velem a bÃ¶rtÃ¶nig, vagy magam fogom a hullÃ¡dat elhÃºzni odÃ¡ig. }
+{161}{}{Ã“, sajnÃ¡lom. Nem akartam goromba lenni. Most inkÃ¡bb tÃ¡vozom. ViszlÃ¡t!}
+{162}{}{Rendben, rendben. Veled megyek, ha Bette-t is letartÃ³ztatod. Ez Ã­gy lenne igazsÃ¡gos.}
 {163}{}{Nem vagy abban a helyzetben, hogy egyezkedj.}
-{164}{}{Nem is rossz ötlet. Néhány vasrács köztetek majd leh?ti szépen a kedélyeket. Ti ketten velem jöttök!}
-{165}{}{Nagyon kemény lettél hirtelen! Nem hinném, hogy áldozatok nélkül be tudnál vinni minket. Gondolod, hogy a Sheriff-nek ez tetszene?}
+{164}{}{Nem is rossz Ã¶tlet. NÃ©hÃ¡ny vasrÃ¡cs kÃ¶ztetek majd leh?ti szÃ©pen a kedÃ©lyeket. Ti ketten velem jÃ¶ttÃ¶k!}
+{165}{}{Nagyon kemÃ©ny lettÃ©l hirtelen! Nem hinnÃ©m, hogy Ã¡ldozatok nÃ©lkÃ¼l be tudnÃ¡l vinni minket. Gondolod, hogy a Sheriff-nek ez tetszene?}
 {166}{}{Nem, azt hiszem, nem tetszene neki.}
-{167}{}{Nekem nem számít. Nem az *én* vérem fog folyni!}
-{168}{}{Asszem, megfogtál. Oké, megyek és befogom a pofám. (a többiekhez) Menjetek vissza a bányába, srácok! Holnap reggel találkozunk.}
-{169}{}{Jó döntés.}
-{170}{}{Ne aggódj, hozom Bette-t is, hogy legyen társaságod. Igaz, Bette?}
-{171}{}{Nem hinném, hogy ez így fog történni. Azt hiszem, azzal, hogy közénk álltál, csak annyit fogsz elérni, hogy kettétépünk.}
-{172}{}{Akkor veled együtt Bette-t is dutyiba kell dugnom.}
-{173}{}{Akkor veled együtt Bette-t is meg kell ölnöm.}
-{174}{}{Hmm, most jut eszembe, hogy most épp a város másik részében van rám szükség. Már megyek is. Viszlát!}
-{175}{}{Mérget vehetsz rá, hogy nem tetszene neki. Miért nem mész vissza, és mondod meg neki, hogy semmit sem tudtál tenni?}
-{176}{}{Elég volt! Eleget járattátok a szátokat! Egy utolsó esélyt adok: maradjatok csendben, vagy széttéplek benneteket!}
-{177}{}{Talán ezt fogom tenni. Biztos, hogy bántani nem akarok senkit. Viszlát!}
-{178}{}{Rendben, azt hiszem, fogjuk a dolgot - igaz, Bette? (a n? rábólint) Elkaptál minket. Csukj le, Seriff!}
-{179}{}{Ez a beszéd!}
-{180}{}{Nem! Kés?! Most mindkett?töknek kinyílik a pofonláda!}
+{167}{}{Nekem nem szÃ¡mÃ­t. Nem az *Ã©n* vÃ©rem fog folyni!}
+{168}{}{Asszem, megfogtÃ¡l. OkÃ©, megyek Ã©s befogom a pofÃ¡m. (a tÃ¶bbiekhez) Menjetek vissza a bÃ¡nyÃ¡ba, srÃ¡cok! Holnap reggel talÃ¡lkozunk.}
+{169}{}{JÃ³ dÃ¶ntÃ©s.}
+{170}{}{Ne aggÃ³dj, hozom Bette-t is, hogy legyen tÃ¡rsasÃ¡god. Igaz, Bette?}
+{171}{}{Nem hinnÃ©m, hogy ez Ã­gy fog tÃ¶rtÃ©nni. Azt hiszem, azzal, hogy kÃ¶zÃ©nk Ã¡lltÃ¡l, csak annyit fogsz elÃ©rni, hogy kettÃ©tÃ©pÃ¼nk.}
+{172}{}{Akkor veled egyÃ¼tt Bette-t is dutyiba kell dugnom.}
+{173}{}{Akkor veled egyÃ¼tt Bette-t is meg kell Ã¶lnÃ¶m.}
+{174}{}{Hmm, most jut eszembe, hogy most Ã©pp a vÃ¡ros mÃ¡sik rÃ©szÃ©ben van rÃ¡m szÃ¼ksÃ©g. MÃ¡r megyek is. ViszlÃ¡t!}
+{175}{}{MÃ©rget vehetsz rÃ¡, hogy nem tetszene neki. MiÃ©rt nem mÃ©sz vissza, Ã©s mondod meg neki, hogy semmit sem tudtÃ¡l tenni?}
+{176}{}{ElÃ©g volt! Eleget jÃ¡rattÃ¡tok a szÃ¡tokat! Egy utolsÃ³ esÃ©lyt adok: maradjatok csendben, vagy szÃ©ttÃ©plek benneteket!}
+{177}{}{TalÃ¡n ezt fogom tenni. Biztos, hogy bÃ¡ntani nem akarok senkit. ViszlÃ¡t!}
+{178}{}{Rendben, azt hiszem, fogjuk a dolgot - igaz, Bette? (a n? rÃ¡bÃ³lint) ElkaptÃ¡l minket. Csukj le, Seriff!}
+{179}{}{Ez a beszÃ©d!}
+{180}{}{Nem! KÃ©s?! Most mindkett?tÃ¶knek kinyÃ­lik a pofonlÃ¡da!}
 {181}{}{Don't worry; I won't be startin' any trouble tonight.}

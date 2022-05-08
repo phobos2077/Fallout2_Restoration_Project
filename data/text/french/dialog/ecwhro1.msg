@@ -1,12 +1,12 @@
-{100}{}{Tu vois... un modèle de Héros Blanc.}
-{101}{}{Tu vois un homme blanc très musclé vêtu d'une combinaison de l'Abri 13. Il sourit, il rit et il raconte son histoire.}
-{102}{}{Tu vois un Héros Blanc. Il sourit et il rit.}
-{103}{}{Tu vois un Héros Blanc. Il sourit et il rit.}
-{104}{}{Et... mon joueur à moi était TELLEMENT bêêête que...}
-{105}{}{Ecoute ça - il croyait que les munitions de fusil de chasse c'était le puce d'eau !! ... hahaha... et il les a rapportées au dirigeant... hahahahaha !}
+{100}{}{Tu vois... un modÃ¨le de HÃ©ros Blanc.}
+{101}{}{Tu vois un homme blanc trÃ¨s musclÃ© vÃªtu d'une combinaison de l'Abri 13. Il sourit, il rit et il raconte son histoire.}
+{102}{}{Tu vois un HÃ©ros Blanc. Il sourit et il rit.}
+{103}{}{Tu vois un HÃ©ros Blanc. Il sourit et il rit.}
+{104}{}{Et... mon joueur Ã  moi Ã©tait TELLEMENT bÃªÃªÃªte que...}
+{105}{}{Ecoute Ã§a - il croyait que les munitions de fusil de chasse c'Ã©tait le puce d'eau !! ... hahaha... et il les a rapportÃ©es au dirigeant... hahahahaha !}
 {106}{}{Quelle andouille !}
-{107}{}{J'ai eu un joueur du style "imbécile heureux". J'te dis pas... }
-{108}{}{C'est drôle pendant un moment, mais ça devient vite lourd. Après quelques massacres, tu te lasses vite.}
-{109}{}{On a passé trois heures sur l'écran de données du personnage avant que le joueur se décide ENFIN à la *jouer* sa partie !!}
-{110}{}{Ian était plus dangereux pour *moi* que les ennemis contre lesquels on se battaient. J'espère qu'il est mort à l'heure qu'il est.}
+{107}{}{J'ai eu un joueur du style "imbÃ©cile heureux". J'te dis pas... }
+{108}{}{C'est drÃ´le pendant un moment, mais Ã§a devient vite lourd. AprÃ¨s quelques massacres, tu te lasses vite.}
+{109}{}{On a passÃ© trois heures sur l'Ã©cran de donnÃ©es du personnage avant que le joueur se dÃ©cide ENFIN Ã  la *jouer* sa partie !!}
+{110}{}{Ian Ã©tait plus dangereux pour *moi* que les ennemis contre lesquels on se battaient. J'espÃ¨re qu'il est mort Ã  l'heure qu'il est.}
 {111}{}{Vise un peu les muscles de ce personnage... c'est trop - c'est ridicule !}

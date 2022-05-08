@@ -1,180 +1,180 @@
 {100}{}{Widzisz terminal komputerowy.}
 {101}{}{Widzisz terminal Cesarskiego Komputera.}
 {102}{}{Widzisz komputer z wbudowanym ekranem dotykowym. Na boku wyryto napis - "Terminal komputerowy - Cesarz v8.8".}
-{103}{}{Witaj. Podaj has³o, aby potwierdziæ swoj¹ to¿samoœæ.}
-{104}{}{::œlinisz siê::}
+{103}{}{Witaj. Podaj hasÅ‚o, aby potwierdziÄ‡ swojÄ… toÅ¼samoÅ›Ä‡.}
+{104}{}{::Å›linisz siÄ™::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{TIUASPO-Lo-Shi-S12908}
-{108}{}{[W³am siê do komputera.]}
-{109}{}{Wyloguj siê.}
-{110}{}{To¿samoœæ potwierdzona.}
-{111}{}{Do której funkcji chcesz mieæ dostêp?}
+{108}{}{[WÅ‚am siÄ™ do komputera.]}
+{109}{}{Wyloguj siÄ™.}
+{110}{}{ToÅ¼samoÅ›Ä‡ potwierdzona.}
+{111}{}{Do ktÃ³rej funkcji chcesz mieÄ‡ dostÄ™p?}
 {112}{}{Diagnostyka.}
 {113}{}{Baza danych.}
 {114}{}{Prognozy.}
 {115}{}{Nic.}
-{116}{}{Prosze skontaktowaæ siê z administratorem systemu. Do widzenia.}
-{117}{}{[W³am siê do komputera.]}
-{118}{}{[OdejdŸ.]}
-{119}{}{Intruz wykryty, alarm aktywowany. Wy³¹czenie systemu. Mi³ego dnia ¿yczê.}
+{116}{}{Prosze skontaktowaÄ‡ siÄ™ z administratorem systemu. Do widzenia.}
+{117}{}{[WÅ‚am siÄ™ do komputera.]}
+{118}{}{[OdejdÅº.]}
+{119}{}{Intruz wykryty, alarm aktywowany. WyÅ‚Ä…czenie systemu. MiÅ‚ego dnia Å¼yczÄ™.}
 {120}{}{[dalej]}
 {121}{}{Funkcje diagnostyczne?}
 {122}{}{Skanowanie sieci.}
 {123}{}{Formatowanie twardego dysku.}
-{124}{}{Sprawdz spójnoœæ dysku.}
-{125}{}{Wróæ.}
-{126}{}{Któr¹ bazê pragniesz przeszukaæ?}
+{124}{}{Sprawdz spÃ³jnoÅ›Ä‡ dysku.}
+{125}{}{WrÃ³Ä‡.}
+{126}{}{KtÃ³rÄ… bazÄ™ pragniesz przeszukaÄ‡?}
 {127}{}{Biologii.}
 {128}{}{Chemii.}
 {129}{}{Fizyki.}
 {130}{}{Historii.}
-{131}{}{Wróæ.}
-{132}{}{Dzieci miasta Shi s¹ w niebezpieczenstwie. 50% szans, ¿e wsród nich porusza siê morderca.}
-{133}{}{Miasto Shi w niebezpieczenstwie. 75% szans na skrzywdzenie mieszkanców.}
-{134}{}{Wystrzelenie statku kosmicznego Centrologów oceniane na 95% pora¿ki. Czynniki: brak paliwa, niew³aœciwe uszczelnienie, kiepskie dowodzenie, brak inicjatywy.}
+{131}{}{WrÃ³Ä‡.}
+{132}{}{Dzieci miasta Shi sÄ… w niebezpieczenstwie. 50% szans, Å¼e wsrÃ³d nich porusza siÄ™ morderca.}
+{133}{}{Miasto Shi w niebezpieczenstwie. 75% szans na skrzywdzenie mieszkancÃ³w.}
+{134}{}{Wystrzelenie statku kosmicznego CentrologÃ³w oceniane na 95% poraÅ¼ki. Czynniki: brak paliwa, niewÅ‚aÅ›ciwe uszczelnienie, kiepskie dowodzenie, brak inicjatywy.}
 {135}{}{15% szans na powodzenie misji obiektu "Dziecko Przeznaczenia".}
-{136}{}{Wprowadzone dane wskazuj¹ na to, ¿e "Enklawa" jest potê¿niejsza, ni¿ pocz¹tkowo przypuszczano: nie dokonywaæ kontaktu.}
-{137}{}{Szansa na ponowne ukazanie siê ³odzi podwodnej w tej grze: 100%.}
-{138}{}{W³óczêdzy z tankowca maj¹ 0% szans na oczyszczenie statku z wra¿ych istot bez pomocy z zewn¹trz. Obliczanie po¿¹dania udzielenia pomocy w toku.}
-{139}{}{Dane wejœciowe: Tankowiec roponoœny Posejdon niezdatny do podró¿y. Wymagane dalsze dane.}
+{136}{}{Wprowadzone dane wskazujÄ… na to, Å¼e "Enklawa" jest potÄ™Å¼niejsza, niÅ¼ poczÄ…tkowo przypuszczano: nie dokonywaÄ‡ kontaktu.}
+{137}{}{Szansa na ponowne ukazanie siÄ™ Å‚odzi podwodnej w tej grze: 100%.}
+{138}{}{WÅ‚Ã³czÄ™dzy z tankowca majÄ… 0% szans na oczyszczenie statku z wraÅ¼ych istot bez pomocy z zewnÄ…trz. Obliczanie poÅ¼Ä…dania udzielenia pomocy w toku.}
+{139}{}{Dane wejÅ›ciowe: Tankowiec roponoÅ›ny Posejdon niezdatny do podrÃ³Å¼y. Wymagane dalsze dane.}
 {140}{}{Brak przetwarzania. Wymagane dalsze dane.}
 {141}{}{[KONTYNUUJ]}
-{142}{}{Wróæ.}
+{142}{}{WrÃ³Ä‡.}
 {143}{}{Serwer biologiczny: Aktywny}
 {144}{}{Serwer biologiczny: Nieaktywny}
 {145}{}{Serwer chemiczny: Aktywny}
 {146}{}{Serwer chemiczny: Nieaktywny}
 {147}{}{Serwer fizyczny: Aktywny}
 {148}{}{Serwer fizyczny: Nieaktywny}
-{149}{}{Wy³¹cz serwer biologiczny.}
-{150}{}{Wy³¹cz serwer chemiczny.}
-{151}{}{Wy³¹cz serwer fizyczny.}
-{152}{}{WejdŸ na serwer biologiczny.}
-{153}{}{WejdŸ na serwer chemiczny.}
-{154}{}{WejdŸ na serwer fizyczny.}
+{149}{}{WyÅ‚Ä…cz serwer biologiczny.}
+{150}{}{WyÅ‚Ä…cz serwer chemiczny.}
+{151}{}{WyÅ‚Ä…cz serwer fizyczny.}
+{152}{}{WejdÅº na serwer biologiczny.}
+{153}{}{WejdÅº na serwer chemiczny.}
+{154}{}{WejdÅº na serwer fizyczny.}
 {155}{}{Uaktywnij serwer biologiczny.}
 {156}{}{Uaktywnij serwer chemiczny.}
 {157}{}{Uaktywnij serwer fizyczny.}
-{158}{}{Wróæ.}
-{159}{}{Formatowanie dysku: Wszystkie dane zostan¹ utracone. Kontynuowaæ?}
+{158}{}{WrÃ³Ä‡.}
+{159}{}{Formatowanie dysku: Wszystkie dane zostanÄ… utracone. KontynuowaÄ‡?}
 {160}{}{Tak.}
 {161}{}{Nie.}
-{162}{}{Spójnoœæ systemu na poziomie 92%. Chronione centrum Cesarskiego Komputera na 100%. Integralnoœæ danych na 100%. W systemie prognoz niewielkie zaniki mocy - planowany czas naprawy - 6 dni. Prognozy sprawne w 15%.}
-{163}{}{Wróæ.}
-{164}{}{Czy na pewno chcesz sformatowaæ tê jednostkê? To jest nieodwracalny proces.}
+{162}{}{SpÃ³jnoÅ›Ä‡ systemu na poziomie 92%. Chronione centrum Cesarskiego Komputera na 100%. IntegralnoÅ›Ä‡ danych na 100%. W systemie prognoz niewielkie zaniki mocy - planowany czas naprawy - 6 dni. Prognozy sprawne w 15%.}
+{163}{}{WrÃ³Ä‡.}
+{164}{}{Czy na pewno chcesz sformatowaÄ‡ tÄ™ jednostkÄ™? To jest nieodwracalny proces.}
 {165}{}{Tak.}
 {166}{}{Nie.}
-{167}{}{Formatowanie w toku... formatowanie w toku... formatowanie zakoñczone. Bootowanie wymaga ponownej instalacji. Wy³¹czam systemy. Zamykanie... systemu... zakoñczone...}
+{167}{}{Formatowanie w toku... formatowanie w toku... formatowanie zakoÅ„czone. Bootowanie wymaga ponownej instalacji. WyÅ‚Ä…czam systemy. Zamykanie... systemu... zakoÅ„czone...}
 {168}{}{[dalej]}
 {169}{}{Dane do znalezienia: - program botaniczny - program genetyczny - program kseno.}
 {170}{}{Program botaniczny.}
 {171}{}{Program genetyczny.}
 {172}{}{Program kseno.}
-{173}{}{Wróæ.}
-{174}{}{(Po dwudziestu minutach odkrywasz, ¿e pocz¹tkowe wyniki botanicznego rozpraszania radiacji s¹ nieobiecuj¹ce. Dr Sheng wyhodowa³ roœlinn¹ formê ¿ycia odporn¹ na promieniowanie - z nieprzyjemnymi skutkami ubocznymi. Uzyskana roœlinna forma ¿ycia uwa¿ana jest za zbyt niebezpieczn¹. Sheng nalega na dalsze badania w tym kierunku i po³¹czenie ich z programem genetycznym.)}
+{173}{}{WrÃ³Ä‡.}
+{174}{}{(Po dwudziestu minutach odkrywasz, Å¼e poczÄ…tkowe wyniki botanicznego rozpraszania radiacji sÄ… nieobiecujÄ…ce. Dr Sheng wyhodowaÅ‚ roÅ›linnÄ… formÄ™ Å¼ycia odpornÄ… na promieniowanie - z nieprzyjemnymi skutkami ubocznymi. Uzyskana roÅ›linna forma Å¼ycia uwaÅ¼ana jest za zbyt niebezpiecznÄ…. Sheng nalega na dalsze badania w tym kierunku i poÅ‚Ä…czenie ich z programem genetycznym.)}
 {175}{}{Program genetyczny.}
 {176}{}{Program kseno.}
-{177}{}{Wróæ.}
-{178}{}{(Po dwudziestu minutach wy³ania ci siê przed oczyma nastêpujacy obraz: U¿ywaj¹c podstaw wirusa FEV, dr Long Wang jest przekonany o powodzeniu tworzenia zmutowanych ¿o³nierzy. Stwarza serum daj¹ce interesuj¹ce rezultaty w eksperymentach na gryzoniach. Nastêpnie wstrzykuje je sobie i rozpuszcza siê w ka³u¿y mazi. Dr Sheng wstrzymuje dochodzenie. Wraz ze œmierci¹ dr Longa, dr Sheng zostaje szefem. Sheng domaga siê skupienia na poch³aniaj¹cej promieniowanie roœlinnej formie ¿ycia.)}
+{177}{}{WrÃ³Ä‡.}
+{178}{}{(Po dwudziestu minutach wyÅ‚ania ci siÄ™ przed oczyma nastÄ™pujacy obraz: UÅ¼ywajÄ…c podstaw wirusa FEV, dr Long Wang jest przekonany o powodzeniu tworzenia zmutowanych Å¼oÅ‚nierzy. Stwarza serum dajÄ…ce interesujÄ…ce rezultaty w eksperymentach na gryzoniach. NastÄ™pnie wstrzykuje je sobie i rozpuszcza siÄ™ w kaÅ‚uÅ¼y mazi. Dr Sheng wstrzymuje dochodzenie. Wraz ze Å›mierciÄ… dr Longa, dr Sheng zostaje szefem. Sheng domaga siÄ™ skupienia na pochÅ‚aniajÄ…cej promieniowanie roÅ›linnej formie Å¼ycia.)}
 {179}{}{Program botaniczny.}
 {180}{}{Program kseno.}
-{181}{}{Wróæ.}
-{182}{}{"Obiekt, na którym mieliœmy nadziejê przeprowadziæ seriê znacz¹cych eksperymentów znikn¹³, zapewne albo zniszczony, albo skradziony przez Centrologów. Dalsze dochodzenie nie przynios³o rezultatów. Do czasu znalezienia dalszych obiektów badañ ta baza danych pozostanie nieaktywna." - dr Sheng.}
+{181}{}{WrÃ³Ä‡.}
+{182}{}{"Obiekt, na ktÃ³rym mieliÅ›my nadziejÄ™ przeprowadziÄ‡ seriÄ™ znaczÄ…cych eksperymentÃ³w zniknÄ…Å‚, zapewne albo zniszczony, albo skradziony przez CentrologÃ³w. Dalsze dochodzenie nie przyniosÅ‚o rezultatÃ³w. Do czasu znalezienia dalszych obiektÃ³w badaÅ„ ta baza danych pozostanie nieaktywna." - dr Sheng.}
 {183}{}{Program botaniczny.}
 {184}{}{Program genetyczny.}
-{185}{}{Wróæ.}
+{185}{}{WrÃ³Ä‡.}
 {186}{}{Chemiczna baza danych: Paliwo i pochodne - Polimery}
 {187}{}{Paliwo i pochodne.}
 {188}{}{Polimery.}
-{189}{}{Wróæ.}
-{190}{}{(Po przekopaniu siê przez z³o¿one wzory chemiczne i notatki laboratoryjne dochodzisz do wniosku, ¿e Shi stworzyli pewien rodzaj paliwa z wyci¹gu z roœlin i organizmów morskich. Wygl¹da równie¿ na to, ¿e przy³¹czyli siê do istniej¹cych ju¿ uprzednio rur przesy³owych, dziêki czemu mog¹ transportowaæ paliwo do szerokiego wachlarza miejsc.)}
-{191}{}{(Napotykasz ogromn¹ iloœæ skomplikowanych formu³ chemicznych i notatek laboratoryjnych. Nie masz zbytniej pewnoœci, co to wszystko mo¿e znaczyæ.)}
+{189}{}{WrÃ³Ä‡.}
+{190}{}{(Po przekopaniu siÄ™ przez zÅ‚oÅ¼one wzory chemiczne i notatki laboratoryjne dochodzisz do wniosku, Å¼e Shi stworzyli pewien rodzaj paliwa z wyciÄ…gu z roÅ›lin i organizmÃ³w morskich. WyglÄ…da rÃ³wnieÅ¼ na to, Å¼e przyÅ‚Ä…czyli siÄ™ do istniejÄ…cych juÅ¼ uprzednio rur przesyÅ‚owych, dziÄ™ki czemu mogÄ… transportowaÄ‡ paliwo do szerokiego wachlarza miejsc.)}
+{191}{}{(Napotykasz ogromnÄ… iloÅ›Ä‡ skomplikowanych formuÅ‚ chemicznych i notatek laboratoryjnych. Nie masz zbytniej pewnoÅ›ci, co to wszystko moÅ¼e znaczyÄ‡.)}
 {192}{}{Skieruj paliwo do tankowca Posejdon.}
-{193}{}{Skieruj paliwo do Centrologów.}
-{194}{}{Wróæ.}
-{195}{}{(Po przebiciu siê przez dyskusje techniczne i symbolikê odkrywasz, ¿e Shi pracuj¹ nad nowym rodzajem polimerycznego pancerza bojowego, odpornego zarówno na ogieñ, jak i na przebicie. Min¹ jednak lata, zanim zostanie ukoñczony. Widzisz tak¿e wzmianki o nowym uzbrojeniu i mo¿liwoœciach konstrukcyjnych. Najwidoczniej Shi maj¹ jakieœ plany na przysz³oœæ.)}
-{196}{}{Wróæ.}
-{197}{}{Paliwo przes³ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
+{193}{}{Skieruj paliwo do CentrologÃ³w.}
+{194}{}{WrÃ³Ä‡.}
+{195}{}{(Po przebiciu siÄ™ przez dyskusje techniczne i symbolikÄ™ odkrywasz, Å¼e Shi pracujÄ… nad nowym rodzajem polimerycznego pancerza bojowego, odpornego zarÃ³wno na ogieÅ„, jak i na przebicie. MinÄ… jednak lata, zanim zostanie ukoÅ„czony. Widzisz takÅ¼e wzmianki o nowym uzbrojeniu i moÅ¼liwoÅ›ciach konstrukcyjnych. Najwidoczniej Shi majÄ… jakieÅ› plany na przyszÅ‚oÅ›Ä‡.)}
+{196}{}{WrÃ³Ä‡.}
+{197}{}{Paliwo przesÅ‚ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
 {198}{}{[dalej]}
-{199}{}{Paliwo przes³ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
+{199}{}{Paliwo przesÅ‚ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
 {200}{}{[dalej]}
 {201}{}{Fizyczna baza danych: Badania - Teoria}
 {202}{}{Badania.}
 {203}{}{Teoria.}
-{204}{}{Wróæ.}
-{205}{}{"Wraz z niedawnym uzyskaniem planów lataczy, mo¿liwoœæ stworzenia praktycznej maszyny lataj¹cej przybli¿y³a siê o wiele lat. Oczekujemy stworzenia dzia³aj¹cego prototypu do koñca tego roku, a mo¿liwoœci masowej produkcji w ci¹gu dwóch lat." - dr Wong}
-{206}{}{::skopiuj plany:: Wróæ.}
-{207}{}{Wróæ.}
-{208}{}{"Wci¹¿ przygotowujemy dzia³aj¹cy model maszyny latajacej. ¯aden z naszych dotychczasowych projektów nie by³ ani bezpieczny, ani aerodynamiczny. Byæ mo¿e gdybyœmy mieli dostêp do planów naszych przodków..." - dr Wong}
-{209}{}{Wróæ.}
-{210}{}{(Po przejrzeniu wstêpu i podstaw matematycznych dowiadujesz siê, ¿e Shi ucz¹ siê po raz kolejny u¿ywaæ energii atomowej, odbudowaæ teoriê lotów kosmicznych staro¿ytnych - i bij¹ w tym Centrologów na g³owê - i wykorzystywaæ energiê s³oñca, wiatru, morza. A przynajmniej tak tam jest napisane.)}
-{211}{}{Wróæ.}
+{204}{}{WrÃ³Ä‡.}
+{205}{}{"Wraz z niedawnym uzyskaniem planÃ³w lataczy, moÅ¼liwoÅ›Ä‡ stworzenia praktycznej maszyny latajÄ…cej przybliÅ¼yÅ‚a siÄ™ o wiele lat. Oczekujemy stworzenia dziaÅ‚ajÄ…cego prototypu do koÅ„ca tego roku, a moÅ¼liwoÅ›ci masowej produkcji w ciÄ…gu dwÃ³ch lat." - dr Wong}
+{206}{}{::skopiuj plany:: WrÃ³Ä‡.}
+{207}{}{WrÃ³Ä‡.}
+{208}{}{"WciÄ…Å¼ przygotowujemy dziaÅ‚ajÄ…cy model maszyny latajacej. Å»aden z naszych dotychczasowych projektÃ³w nie byÅ‚ ani bezpieczny, ani aerodynamiczny. ByÄ‡ moÅ¼e gdybyÅ›my mieli dostÄ™p do planÃ³w naszych przodkÃ³w..." - dr Wong}
+{209}{}{WrÃ³Ä‡.}
+{210}{}{(Po przejrzeniu wstÄ™pu i podstaw matematycznych dowiadujesz siÄ™, Å¼e Shi uczÄ… siÄ™ po raz kolejny uÅ¼ywaÄ‡ energii atomowej, odbudowaÄ‡ teoriÄ™ lotÃ³w kosmicznych staroÅ¼ytnych - i bijÄ… w tym CentrologÃ³w na gÅ‚owÄ™ - i wykorzystywaÄ‡ energiÄ™ sÅ‚oÅ„ca, wiatru, morza. A przynajmniej tak tam jest napisane.)}
+{211}{}{WrÃ³Ä‡.}
 {212}{}{Serwer uaktywniony.}
-{213}{}{Wróæ.}
-{214}{}{Ten terminal komputerowy nie umie chyba tego obs³ugiwaæ.}
-{215}{}{Ten terminal komputerowy chyba nie dzia³a.}
-{216}{}{Nast¹pi³o w³amanie do systemu. Rozkaz - atakowaæ!}
-{217}{}{Atakowaæ intruza!}
-{218}{}{Czas zap³aciæ za swoje czyny, lao wai!}
+{213}{}{WrÃ³Ä‡.}
+{214}{}{Ten terminal komputerowy nie umie chyba tego obsÅ‚ugiwaÄ‡.}
+{215}{}{Ten terminal komputerowy chyba nie dziaÅ‚a.}
+{216}{}{NastÄ…piÅ‚o wÅ‚amanie do systemu. Rozkaz - atakowaÄ‡!}
+{217}{}{AtakowaÄ‡ intruza!}
+{218}{}{Czas zapÅ‚aciÄ‡ za swoje czyny, lao wai!}
 {219}{}{W naszych szeregach jest zdrajca!}
 {220}{}{Geolokalizacja.}
-{221}{}{Co/kogo pragniesz zlokalizowaæ?}
-{222}{}{Mieszkañców mojej wioski.}
-{223}{}{97% szans - Mieszkañcy wioski zlokalizowani w obecnych koordynatach kompleksu Enklawy.}
-{230}{}{[Ekran miga przez sekundê po czym prze³¹cza siê na monochromatyczne wyœwietlanie mnóstwa chiñskich znaków.
- Po kilku chwilach, obraz ten znika i pojawia siê lista zawartoœci. Wiêkszoœæ plików jest stara i uszkodzona,
- ale jest te¿ kilka które wygl¹daj¹ na nienaruszone.]}
-{231}{}{Marynarka Armii Narodowo-Wyzwoleñczej                           Terminal Dostêpowy Cesarz v. 4.01
-                                 Proszê dokonaæ wyboru:}
-{232}{}{Status Okrêtu Podwodnego.}
-{233}{}{Chiñska Sieæ Wywiadu.}
-{234}{}{£¹cznoœæ.}
+{221}{}{Co/kogo pragniesz zlokalizowaÄ‡?}
+{222}{}{MieszkaÅ„cÃ³w mojej wioski.}
+{223}{}{97% szans - MieszkaÅ„cy wioski zlokalizowani w obecnych koordynatach kompleksu Enklawy.}
+{230}{}{[Ekran miga przez sekundÄ™ po czym przeÅ‚Ä…cza siÄ™ na monochromatyczne wyÅ›wietlanie mnÃ³stwa chiÅ„skich znakÃ³w.
+ Po kilku chwilach, obraz ten znika i pojawia siÄ™ lista zawartoÅ›ci. WiÄ™kszoÅ›Ä‡ plikÃ³w jest stara i uszkodzona,
+ ale jest teÅ¼ kilka ktÃ³re wyglÄ…dajÄ… na nienaruszone.]}
+{231}{}{Marynarka Armii Narodowo-WyzwoleÅ„czej                           Terminal DostÄ™powy Cesarz v. 4.01
+                                 ProszÄ™ dokonaÄ‡ wyboru:}
+{232}{}{Status OkrÄ™tu Podwodnego.}
+{233}{}{ChiÅ„ska SieÄ‡ Wywiadu.}
+{234}{}{ÅÄ…cznoÅ›Ä‡.}
 {235}{}{Wpisy personelu.}
-{236}{}{::wróæ::}
+{236}{}{::wrÃ³Ä‡::}
 {240}{}{Nazwa: Shi-Huang-Ti                                                   
- Klasa: Typ 088 Atomowy Okrêt Podwodny Przenosz¹cy       
+ Klasa: Typ 088 Atomowy OkrÄ™t Podwodny PrzenoszÄ…cy       
  Pociski Balistyczne                                                  
- Uzbrojenie: Osiem Atomowych Pocisków Balistycznych JL-3  
+ Uzbrojenie: Osiem Atomowych PociskÃ³w Balistycznych JL-3  
  Zwodowany: 8 sierpnia 2068                                        
- W czynnej s³u¿bie od: 18 kwietnia 2069                          
- Kapitan: Admira³ Klasy AAAA Ye Li                               
- Za³oga: 15 oficerów, 28 podoficerów, 27 marynarzy, 16 cywilnych techników.}
+ W czynnej sÅ‚uÅ¼bie od: 18 kwietnia 2069                          
+ Kapitan: AdmiraÅ‚ Klasy AAAA Ye Li                               
+ ZaÅ‚oga: 15 oficerÃ³w, 28 podoficerÃ³w, 27 marynarzy, 16 cywilnych technikÃ³w.}
 {241}{}{Czytaj dalej.}
-{250}{}{Przebieg s³u¿by:                                                       
- 2069 - 2071: Patrolowanie wód terytorialnych Chin.            
- 2071 - 2077: Patrole bojowe na obszarach dzia³añ Alaski    
+{250}{}{Przebieg sÅ‚uÅ¼by:                                                       
+ 2069 - 2071: Patrolowanie wÃ³d terytorialnych Chin.            
+ 2071 - 2077: Patrole bojowe na obszarach dziaÅ‚aÅ„ Alaski    
  i Pacyfiku.                                                             
- PaŸdziernik 2077: Misja bojowa na Kalifornijskim obszarze dzia³añ wojennych. Zarys misji: R.}
+ PaÅºdziernik 2077: Misja bojowa na Kalifornijskim obszarze dziaÅ‚aÅ„ wojennych. Zarys misji: R.}
 {251}{}{Czytaj dalej.}
-{260}{}{Obecny status: Okrêt uszkodzony, niezdatny do naprawy. Jednostka centralna usuniêta i przeniesiona. Okrêt zosta³ przystosowany do s³u¿by jako stacjonarna instalacja defensywna, dwie mile na pó³noc-pó³nocny wschód od portu San Francisco.}
-{261}{}{O co chodzi³o z tymi patrolami bojowymi?}
-{262}{}{Dowiedz siê wiêcej o zarysie misji R.}
-{263}{}{Stacjonarna instalacja defensywna brzmi interesuj¹co.}
-{264}{}{::wróæ::}
-{270}{}{Na proœbê Dowódcy Frontu Alaska, genera³a Jingwei, okrêt Shi-Huang-Ti zosta³ przeniesiony na obszar dzia³añ Alaska/Pacyfik do przechwytywania amerykañskich konwojów na otwartych wodach. Pod dowództwem kontradmira³a Ye Li, okrêt zatopi³ 9 frachtowców i 4 jednostki wojskowe, uszkodzi³ dalszych 18 jednostek i znacz¹co zagrozi³ wrogim szlakom zaopatrzeniowym.}
+{260}{}{Obecny status: OkrÄ™t uszkodzony, niezdatny do naprawy. Jednostka centralna usuniÄ™ta i przeniesiona. OkrÄ™t zostaÅ‚ przystosowany do sÅ‚uÅ¼by jako stacjonarna instalacja defensywna, dwie mile na pÃ³Å‚noc-pÃ³Å‚nocny wschÃ³d od portu San Francisco.}
+{261}{}{O co chodziÅ‚o z tymi patrolami bojowymi?}
+{262}{}{Dowiedz siÄ™ wiÄ™cej o zarysie misji R.}
+{263}{}{Stacjonarna instalacja defensywna brzmi interesujÄ…co.}
+{264}{}{::wrÃ³Ä‡::}
+{270}{}{Na proÅ›bÄ™ DowÃ³dcy Frontu Alaska, generaÅ‚a Jingwei, okrÄ™t Shi-Huang-Ti zostaÅ‚ przeniesiony na obszar dziaÅ‚aÅ„ Alaska/Pacyfik do przechwytywania amerykaÅ„skich konwojÃ³w na otwartych wodach. Pod dowÃ³dztwem kontradmiraÅ‚a Ye Li, okrÄ™t zatopiÅ‚ 9 frachtowcÃ³w i 4 jednostki wojskowe, uszkodziÅ‚ dalszych 18 jednostek i znaczÄ…co zagroziÅ‚ wrogim szlakom zaopatrzeniowym.}
 {271}{}{Czytaj dalej.}
-{275}{}{Marynarka Armii Narodowo-Wyzwoleñczej Chin przypisuje równie¿ admira³owi Ye Li doprowadzenie do zatopienia USS Ebon Atoll przez inny amerykañski okrêt podwodny, USS Interference.}
-{276}{}{::wróæ::}
-{280}{}{Maj 2220: Statek Poseidon Valdez przybi³ do portu, obsadzony przez za³ogê wyposa¿on¹ w nieznanego typu pancerze wspomagane piechoty. Statek jest niesprawny i opanowany przez mutanty.  Czerwiec 2220: Postêpuj¹c zgodnie z radami Cesarza, Chiang Lee nakaza³ reaktywacjê Shi-Huang-Ti, oraz przebudowanie go na stacjonarn¹ instalacjê defensywn¹ przeciw dalszym zagro¿eniom morskim. Lipiec 2220: Okrêt podwodny zosta³ reaktywowany. Musiano uruchomiæ zasilanie awaryjne.  Maj 2231: Pad³ generator zapasowy. Ken Lee nakaza³ pod³¹czenie generatora ElectroBox do systemu zasilania, aby utrzymaæ zasilanie okrêtu. Sierpieñ 2238: Motorówka Neptun Waveskimmer zosta³a wyremontowana i przekazana ekipie techników zajmuj¹cej siê okrêtem.}
-{281}{}{Hm, zobaczmy czy uda mi siê znaleŸæ coœ wiêcej o tych technikach...}
-{282}{}{::wróæ::}
-{290}{}{[Bingo! Po kilku minutach wklepywania komend, udaje ci siê wyci¹gn¹æ ma³y plik tekstowy na temat generatora okrêtu. Okazuje siê, ¿e niezbêdne s¹ regularne wyjazdy w celu uzupe³nienia paliwa i konserwacji generatora. Plik zawiera równie¿ aktualn¹ listê za³ogi techników.]}
-{291}{}{Za³oga techniczna okrêtu podwodnego (od 2241): Tsing Tao, Hun Kwai, Shin Fai, Lo Chang, Wu Fei}
-{292}{}{::dodaj siebie do listy techników::}
-{293}{}{::wróæ::}
-{300}{}{[Kilka szybkich uderzeñ w klawiaturê i stajesz siê czêœci¹ za³ogi technicznej. Masz teraz dostêp do listy hase³ dla stra¿nika motorówki.]}
-{301}{}{::œci¹gnij listê hase³ do Pip-Boya::}
-{310}{}{[Pod³¹czasz Pip-Boya do portów dostêpowych. Po chwili, masz aktualn¹ listê hase³ na ca³y rok. Ale ochrona.]}
-{311}{}{::wróæ::}
-{320}{}{Jesteœ teraz pe³noprawnym technikiem okrêtu podwodnego Shi.}
-{325}{}{B³¹d. Wymagana Tabela Kodów Rozkazów. Proszê wprowadziæ prawid³ow¹ tabelê.}
-{330}{}{[Dziêki tabeli kodów rozkazów znalezionej na okrêcie podwodnym, uzyskujesz dostêp do zastrze¿onych plików na dyskach twardych Cesarza]}
-{331}{}{Kod rozkazu rozpoznany. Zabezpieczenia zniesione. Chiñska Sieæ Wywiadu zainicjalizowana...
+{275}{}{Marynarka Armii Narodowo-WyzwoleÅ„czej Chin przypisuje rÃ³wnieÅ¼ admiraÅ‚owi Ye Li doprowadzenie do zatopienia USS Ebon Atoll przez inny amerykaÅ„ski okrÄ™t podwodny, USS Interference.}
+{276}{}{::wrÃ³Ä‡::}
+{280}{}{Maj 2220: Statek Poseidon Valdez przybiÅ‚ do portu, obsadzony przez zaÅ‚ogÄ™ wyposaÅ¼onÄ… w nieznanego typu pancerze wspomagane piechoty. Statek jest niesprawny i opanowany przez mutanty.  Czerwiec 2220: PostÄ™pujÄ…c zgodnie z radami Cesarza, Chiang Lee nakazaÅ‚ reaktywacjÄ™ Shi-Huang-Ti, oraz przebudowanie go na stacjonarnÄ… instalacjÄ™ defensywnÄ… przeciw dalszym zagroÅ¼eniom morskim. Lipiec 2220: OkrÄ™t podwodny zostaÅ‚ reaktywowany. Musiano uruchomiÄ‡ zasilanie awaryjne.  Maj 2231: PadÅ‚ generator zapasowy. Ken Lee nakazaÅ‚ podÅ‚Ä…czenie generatora ElectroBox do systemu zasilania, aby utrzymaÄ‡ zasilanie okrÄ™tu. SierpieÅ„ 2238: MotorÃ³wka Neptun Waveskimmer zostaÅ‚a wyremontowana i przekazana ekipie technikÃ³w zajmujÄ…cej siÄ™ okrÄ™tem.}
+{281}{}{Hm, zobaczmy czy uda mi siÄ™ znaleÅºÄ‡ coÅ› wiÄ™cej o tych technikach...}
+{282}{}{::wrÃ³Ä‡::}
+{290}{}{[Bingo! Po kilku minutach wklepywania komend, udaje ci siÄ™ wyciÄ…gnÄ…Ä‡ maÅ‚y plik tekstowy na temat generatora okrÄ™tu. Okazuje siÄ™, Å¼e niezbÄ™dne sÄ… regularne wyjazdy w celu uzupeÅ‚nienia paliwa i konserwacji generatora. Plik zawiera rÃ³wnieÅ¼ aktualnÄ… listÄ™ zaÅ‚ogi technikÃ³w.]}
+{291}{}{ZaÅ‚oga techniczna okrÄ™tu podwodnego (od 2241): Tsing Tao, Hun Kwai, Shin Fai, Lo Chang, Wu Fei}
+{292}{}{::dodaj siebie do listy technikÃ³w::}
+{293}{}{::wrÃ³Ä‡::}
+{300}{}{[Kilka szybkich uderzeÅ„ w klawiaturÄ™ i stajesz siÄ™ czÄ™Å›ciÄ… zaÅ‚ogi technicznej. Masz teraz dostÄ™p do listy haseÅ‚ dla straÅ¼nika motorÃ³wki.]}
+{301}{}{::Å›ciÄ…gnij listÄ™ haseÅ‚ do Pip-Boya::}
+{310}{}{[PodÅ‚Ä…czasz Pip-Boya do portÃ³w dostÄ™powych. Po chwili, masz aktualnÄ… listÄ™ haseÅ‚ na caÅ‚y rok. Ale ochrona.]}
+{311}{}{::wrÃ³Ä‡::}
+{320}{}{JesteÅ› teraz peÅ‚noprawnym technikiem okrÄ™tu podwodnego Shi.}
+{325}{}{BÅ‚Ä…d. Wymagana Tabela KodÃ³w RozkazÃ³w. ProszÄ™ wprowadziÄ‡ prawidÅ‚owÄ… tabelÄ™.}
+{330}{}{[DziÄ™ki tabeli kodÃ³w rozkazÃ³w znalezionej na okrÄ™cie podwodnym, uzyskujesz dostÄ™p do zastrzeÅ¼onych plikÃ³w na dyskach twardych Cesarza]}
+{331}{}{Kod rozkazu rozpoznany. Zabezpieczenia zniesione. ChiÅ„ska SieÄ‡ Wywiadu zainicjalizowana...
                                                                            ...                                   
                                         ...                             
- UWAGA! Po³¹czenie z centralnym serwerem CSW w Pekinie nie dostêpne. Odzyskiwanie zarchiwizowanych danych.
- [Wygl¹da, ¿e wiêkszoœæ archiwów jest uszkodzona. Jednak, jednostce centralnej udaje siê odzyskaæ kilka plików]}
+ UWAGA! PoÅ‚Ä…czenie z centralnym serwerem CSW w Pekinie nie dostÄ™pne. Odzyskiwanie zarchiwizowanych danych.
+ [WyglÄ…da, Å¼e wiÄ™kszoÅ›Ä‡ archiwÃ³w jest uszkodzona. Jednak, jednostce centralnej udaje siÄ™ odzyskaÄ‡ kilka plikÃ³w]}
 {332}{}{Raport wywiadu 2069-11-5}
 {333}{}{Raport wywiadu 2072-4-18}
 {334}{}{Raport wywiadu 2073-12-4}
@@ -184,98 +184,98 @@
 {338}{}{Raport wywiadu 2077-10-12}
 {339}{}{Raport wywiadu 2077-10-23}
 {340}{}{}
-{341}{}{::wiêcej::}
-{342}{}{::wróæ::}
-{345}{}{Od: Wydzia³u Kontrwywiadu
-                                       Rozruchy w Tybecie i s¹siaduj¹cych prowincjach nadal trwaj¹, zagra¿aj¹c budowie kompleksu ³¹cznoœci satelitarnej Wschodniego Smoka. Prezydent Xin wyda³ rozkaz interwencji militarnej przeciwko tamtejszej ludnoœci. W wyniku walk zginê³o wielu wywrotowców, prowincja wróci³a pod kontrole Chin, a pozostali wywrotowcy zostali przesiedleni.}
-{346}{}{::wróæ::}
-{350}{}{Od: Wydzia³u Broni Biochemicznej
-                             Wybuch epidemii w Zwi¹zku Radzieckim zagra¿a pó³nocnym protektoratom ChRL. Wydzia³ Broni Biochemicznej doradza kwarantannê i odizolowanie zagro¿onych terenów. Potencjalne miejsce przesiedlenia wywrotowców, terrorystów i elementu niepo¿¹danego, oraz znakomity obszar pozyskiwania szczepów nowej broni biologicznej. Plan przes³any Partii do zatwierdzenia.}
-{351}{}{::wróæ::}
-{360}{}{Od: Dowódcy Frontu Alaska, Genera³a Jingwei
-                Szczep #23-110 zosta³ zrzucony na amerykañskich ¿o³nierzy, demoralizuj¹c ich i os³abiaj¹c ich mo¿liwoœci operacyjne. Zwracam siê o przydzia³ dodatkowych ¿o³nierzy, oraz zbroi Battlemaster do decyduj¹cego ataku przeciwko okopanym na granicach Alaski amerykañskim ¿o³nierzom.}
-{361}{}{::wróæ::}
-{370}{}{Od: Dowództwa G³ównego
-                                           Amerykañskie jednostki dotar³y do kontynentu po unikniêciu naszej blokady Japonii.
- Oddzia³y na Alasce maj¹ kontynuowaæ operacjê. Si³y wojskowe przy³¹czonych obszarów maj¹ wzmocniæ obronê terytorialn¹.
- Dowództwo zezwala na u¿ycie broni chemicznej i biologicznej na terenie kraju - te zagraniczne diab³y musz¹ zostaæ wyeliminowane!}
-{371}{}{::wróæ::}
+{341}{}{::wiÄ™cej::}
+{342}{}{::wrÃ³Ä‡::}
+{345}{}{Od: WydziaÅ‚u Kontrwywiadu
+                                       Rozruchy w Tybecie i sÄ…siadujÄ…cych prowincjach nadal trwajÄ…, zagraÅ¼ajÄ…c budowie kompleksu Å‚Ä…cznoÅ›ci satelitarnej Wschodniego Smoka. Prezydent Xin wydaÅ‚ rozkaz interwencji militarnej przeciwko tamtejszej ludnoÅ›ci. W wyniku walk zginÄ™Å‚o wielu wywrotowcÃ³w, prowincja wrÃ³ciÅ‚a pod kontrole Chin, a pozostali wywrotowcy zostali przesiedleni.}
+{346}{}{::wrÃ³Ä‡::}
+{350}{}{Od: WydziaÅ‚u Broni Biochemicznej
+                             Wybuch epidemii w ZwiÄ…zku Radzieckim zagraÅ¼a pÃ³Å‚nocnym protektoratom ChRL. WydziaÅ‚ Broni Biochemicznej doradza kwarantannÄ™ i odizolowanie zagroÅ¼onych terenÃ³w. Potencjalne miejsce przesiedlenia wywrotowcÃ³w, terrorystÃ³w i elementu niepoÅ¼Ä…danego, oraz znakomity obszar pozyskiwania szczepÃ³w nowej broni biologicznej. Plan przesÅ‚any Partii do zatwierdzenia.}
+{351}{}{::wrÃ³Ä‡::}
+{360}{}{Od: DowÃ³dcy Frontu Alaska, GeneraÅ‚a Jingwei
+                Szczep #23-110 zostaÅ‚ zrzucony na amerykaÅ„skich Å¼oÅ‚nierzy, demoralizujÄ…c ich i osÅ‚abiajÄ…c ich moÅ¼liwoÅ›ci operacyjne. Zwracam siÄ™ o przydziaÅ‚ dodatkowych Å¼oÅ‚nierzy, oraz zbroi Battlemaster do decydujÄ…cego ataku przeciwko okopanym na granicach Alaski amerykaÅ„skim Å¼oÅ‚nierzom.}
+{361}{}{::wrÃ³Ä‡::}
+{370}{}{Od: DowÃ³dztwa GÅ‚Ã³wnego
+                                           AmerykaÅ„skie jednostki dotarÅ‚y do kontynentu po unikniÄ™ciu naszej blokady Japonii.
+ OddziaÅ‚y na Alasce majÄ… kontynuowaÄ‡ operacjÄ™. SiÅ‚y wojskowe przyÅ‚Ä…czonych obszarÃ³w majÄ… wzmocniÄ‡ obronÄ™ terytorialnÄ….
+ DowÃ³dztwo zezwala na uÅ¼ycie broni chemicznej i biologicznej na terenie kraju - te zagraniczne diabÅ‚y muszÄ… zostaÄ‡ wyeliminowane!}
+{371}{}{::wrÃ³Ä‡::}
 {380}{}{Od: Czerwonego Smoka
-                                             Operacje powstañcze i uderzenia terroru wysoce efektywnie demoralizuj¹ amerykañsk¹ ludnoœæ. Poparcie dla zamorskich operacji Ameryki s³abnie wraz ze wzniecaniem rozruchów i protestów na amerykañskiej ziemi. Zalecane ataki na wyznaczone cele naukowe i wojskowe w ca³ych Stanach Zjednoczonych, cele priorytetowe: Raven Rock, West Tech, Mariposa, Boulder, Institute.}
-{381}{}{::wróæ::}
-{390}{}{Od: Dowództwa G³ównego
-                                           Wy¿szoœæ amerykañskiego wojska jest teraz oczywista - jednostki w pancerzach wspomaganych T-51b dotar³y do kontynentu. Armia Narodowo-Wyzwoleñcza Chin nie ma czym odpowiednio skontrowaæ i codziennie traci teren. Sekretarz Cheng domaga siê utrzymania Pekinu w rêkach Chin - przygotowywane s¹ fortyfikacje. Dowództwo rozkaza³o zintensyfikowaæ dzia³ania partyzanckie na ty³ach wroga. Operatorzy we wszystkich Amerykañskich Dystryktach maj¹ przygotowaæ siê do wszczêcia powstañ. Dostawy broni i sprzêtu zosta³y wys³ane. Cel priorytetowy: Waszyngton Dystrykt Kolumbii.}
-{391}{}{::wróæ::}
+                                             Operacje powstaÅ„cze i uderzenia terroru wysoce efektywnie demoralizujÄ… amerykaÅ„skÄ… ludnoÅ›Ä‡. Poparcie dla zamorskich operacji Ameryki sÅ‚abnie wraz ze wzniecaniem rozruchÃ³w i protestÃ³w na amerykaÅ„skiej ziemi. Zalecane ataki na wyznaczone cele naukowe i wojskowe w caÅ‚ych Stanach Zjednoczonych, cele priorytetowe: Raven Rock, West Tech, Mariposa, Boulder, Institute.}
+{381}{}{::wrÃ³Ä‡::}
+{390}{}{Od: DowÃ³dztwa GÅ‚Ã³wnego
+                                           WyÅ¼szoÅ›Ä‡ amerykaÅ„skiego wojska jest teraz oczywista - jednostki w pancerzach wspomaganych T-51b dotarÅ‚y do kontynentu. Armia Narodowo-WyzwoleÅ„cza Chin nie ma czym odpowiednio skontrowaÄ‡ i codziennie traci teren. Sekretarz Cheng domaga siÄ™ utrzymania Pekinu w rÄ™kach Chin - przygotowywane sÄ… fortyfikacje. DowÃ³dztwo rozkazaÅ‚o zintensyfikowaÄ‡ dziaÅ‚ania partyzanckie na tyÅ‚ach wroga. Operatorzy we wszystkich AmerykaÅ„skich Dystryktach majÄ… przygotowaÄ‡ siÄ™ do wszczÄ™cia powstaÅ„. Dostawy broni i sprzÄ™tu zostaÅ‚y wysÅ‚ane. Cel priorytetowy: Waszyngton Dystrykt Kolumbii.}
+{391}{}{::wrÃ³Ä‡::}
 {400}{}{Od: Sekretarza Generalnego Partii Chenga
-                     Wraz z za³amaniem frontu na Alasce i rosn¹c¹ potêg¹ amerykanów na Chiñskiej ziemi, pora¿ka jest nie unikniona.
- Zgodnie z rozporz¹dzeniem 636860 Komunistycznej Partii Chin, niniejszym rozkazujê wszystkim lojalnym si³om zbrojnym podjêcie  
- dzia³añ atomowych przeciwko Ameryce, zarys misji R. Cele priorytetowe s¹ okreœlone w opisie operacji. Niech nasze dusze powróc¹ do tej Ziemi.}
-{401}{}{::wróæ::}
-{410}{}{Od: Dowództwa G³ównego                                          Wszystkie formacje na pozycjach. Przesy³am ostateczne kody zatwierdzaj¹ce. Rozpocz¹æ operacjê Youmíng.}
-{411}{}{::wróæ::}
-{420}{}{Szukanie nadajników komunikacyjnych...
-                                   PLA CentCom...               niedostêpny
-                           CSW Pekin...                   niedostêpny
-                           SSC Port Marynarki...       niedostêpny
-                           SCA Wschodni Smok...        niedostêpny
-               Uwaga: Nie mo¿na nawi¹zaæ po³¹czenia z ¿adnym z zewnêtrznych serwerów.}
+                     Wraz z zaÅ‚amaniem frontu na Alasce i rosnÄ…cÄ… potÄ™gÄ… amerykanÃ³w na ChiÅ„skiej ziemi, poraÅ¼ka jest nie unikniona.
+ Zgodnie z rozporzÄ…dzeniem 636860 Komunistycznej Partii Chin, niniejszym rozkazujÄ™ wszystkim lojalnym siÅ‚om zbrojnym podjÄ™cie  
+ dziaÅ‚aÅ„ atomowych przeciwko Ameryce, zarys misji R. Cele priorytetowe sÄ… okreÅ›lone w opisie operacji. Niech nasze dusze powrÃ³cÄ… do tej Ziemi.}
+{401}{}{::wrÃ³Ä‡::}
+{410}{}{Od: DowÃ³dztwa GÅ‚Ã³wnego                                          Wszystkie formacje na pozycjach. PrzesyÅ‚am ostateczne kody zatwierdzajÄ…ce. RozpoczÄ…Ä‡ operacjÄ™ YoumÃ­ng.}
+{411}{}{::wrÃ³Ä‡::}
+{420}{}{Szukanie nadajnikÃ³w komunikacyjnych...
+                                   PLA CentCom...               niedostÄ™pny
+                           CSW Pekin...                   niedostÄ™pny
+                           SSC Port Marynarki...       niedostÄ™pny
+                           SCA Wschodni Smok...        niedostÄ™pny
+               Uwaga: Nie moÅ¼na nawiÄ…zaÄ‡ poÅ‚Ä…czenia z Å¼adnym z zewnÄ™trznych serwerÃ³w.}
 {421}{}{To dopiero rozczarowanie...}
-{430}{}{Skanowanie dysków lokalnych...}
+{430}{}{Skanowanie dyskÃ³w lokalnych...}
 {431}{}{[KONTYNUUJ]}
-{440}{}{Znaleziono jeden dostêpny plik. [Wygl¹da, ¿e wiêkszoœæ archiwów jest uszkodzona. Jednak, jednostce centralnej udaje siê odzyskaæ jeden nieuszkodzony plik.]}
-{441}{}{Dziennik osobisty: Li Ye, Admira³, Kapitan}
-{450}{}{2077-10-12: Przegrywamy tê wojnê. W³aœnie otrzyma³em potwierdzenie, Partia w koñcu zdecydowa³a, zostanie przeprowadzony plan R. To czyste szaleñstwo! Jak wojna atomowa ma nam przynieœæ zwyciêstwo? Nikt nie wygra jeœli uwolnimy tak¹ potêgê. Ale jestem ¿o³nierzem i bêdê wykonywa³ moje rozkazy do koñca.}
+{440}{}{Znaleziono jeden dostÄ™pny plik. [WyglÄ…da, Å¼e wiÄ™kszoÅ›Ä‡ archiwÃ³w jest uszkodzona. Jednak, jednostce centralnej udaje siÄ™ odzyskaÄ‡ jeden nieuszkodzony plik.]}
+{441}{}{Dziennik osobisty: Li Ye, AdmiraÅ‚, Kapitan}
+{450}{}{2077-10-12: Przegrywamy tÄ™ wojnÄ™. WÅ‚aÅ›nie otrzymaÅ‚em potwierdzenie, Partia w koÅ„cu zdecydowaÅ‚a, zostanie przeprowadzony plan R. To czyste szaleÅ„stwo! Jak wojna atomowa ma nam przynieÅ›Ä‡ zwyciÄ™stwo? Nikt nie wygra jeÅ›li uwolnimy takÄ… potÄ™gÄ™. Ale jestem Å¼oÅ‚nierzem i bÄ™dÄ™ wykonywaÅ‚ moje rozkazy do koÅ„ca.}
 {451}{}{Czytaj dalej.}
-{452}{}{::wróæ::}
-{460}{}{2077-10-19: Za³oga zaczyna byæ niespokojna. Wong, w ekscytacji, powiedzia³ oficerom o planie R i wprost nie mog¹ siê doczekaæ.
- Nie dziwiê im siê, nawet je¿eli siê nie zgadzam: Wong straci³ synów pod Anchorage, a brata Da Chianga pojmano na wybrze¿u Maryland.}
+{452}{}{::wrÃ³Ä‡::}
+{460}{}{2077-10-19: ZaÅ‚oga zaczyna byÄ‡ niespokojna. Wong, w ekscytacji, powiedziaÅ‚ oficerom o planie R i wprost nie mogÄ… siÄ™ doczekaÄ‡.
+ Nie dziwiÄ™ im siÄ™, nawet jeÅ¼eli siÄ™ nie zgadzam: Wong straciÅ‚ synÃ³w pod Anchorage, a brata Da Chianga pojmano na wybrzeÅ¼u Maryland.}
 {461}{}{Czytaj dalej.}
-{462}{}{::wróæ::}
-{470}{}{2077-10-21: Zakoñczyliœmy wszystkie przygotowania do odpalenia. Pozosta³o tylko wprowadziæ kody zatwierdzaj¹ce.
- To by³ dla mnie honor s³u¿yæ z tymi ludŸmi.}
+{462}{}{::wrÃ³Ä‡::}
+{470}{}{2077-10-21: ZakoÅ„czyliÅ›my wszystkie przygotowania do odpalenia. PozostaÅ‚o tylko wprowadziÄ‡ kody zatwierdzajÄ…ce.
+ To byÅ‚ dla mnie honor sÅ‚uÅ¼yÄ‡ z tymi ludÅºmi.}
 {471}{}{Czytaj dalej.}
-{472}{}{::wróæ::}
-{480}{}{2077-10-23: Otrzymaliœmy kody zatwierdzaj¹ce i bêdziemy na pozycji za piêtnaœcie minut. To prawdopodobnie 
- mój ostatni wpis do tego dziennika, wiêc pozwolê sobie zaznaczyæ, ¿e nie tolerujê takiego rodzaju okrucieñstwa. Wojnê powinni toczyæ ¿o³nierze, a nie bomby i cywile. Je¿eli ktokolwiek prze¿yje, mam nadziejê, ¿e nam wybacz¹.}
+{472}{}{::wrÃ³Ä‡::}
+{480}{}{2077-10-23: OtrzymaliÅ›my kody zatwierdzajÄ…ce i bÄ™dziemy na pozycji za piÄ™tnaÅ›cie minut. To prawdopodobnie 
+ mÃ³j ostatni wpis do tego dziennika, wiÄ™c pozwolÄ™ sobie zaznaczyÄ‡, Å¼e nie tolerujÄ™ takiego rodzaju okrucieÅ„stwa. WojnÄ™ powinni toczyÄ‡ Å¼oÅ‚nierze, a nie bomby i cywile. JeÅ¼eli ktokolwiek przeÅ¼yje, mam nadziejÄ™, Å¼e nam wybaczÄ….}
 {481}{}{Czytaj dalej.}
-{482}{}{::wróæ::}
-{490}{}{2077-10-29: B¹dŸcie przeklêci, szaleñcy! S¹dzi³em, ¿e byliœmy jedyna grup¹ której rozkazano atak na sektor Los Angeles, myli³em siê. Wystrzelili na niego nasz najpotê¿niejszy ICBM. Nie mogê zrozumieæ dlaczego nie wystrzelili go na Waszyngton, ale to ju¿ niewa¿ne.
- Obecnie dryfujemy w oceanie. Cesarz pad³, nawigacja jest rozwalona i wygl¹da, ¿e to bêdzie nasz grób.}
+{482}{}{::wrÃ³Ä‡::}
+{490}{}{2077-10-29: BÄ…dÅºcie przeklÄ™ci, szaleÅ„cy! SÄ…dziÅ‚em, Å¼e byliÅ›my jedyna grupÄ… ktÃ³rej rozkazano atak na sektor Los Angeles, myliÅ‚em siÄ™. Wystrzelili na niego nasz najpotÄ™Å¼niejszy ICBM. Nie mogÄ™ zrozumieÄ‡ dlaczego nie wystrzelili go na Waszyngton, ale to juÅ¼ niewaÅ¼ne.
+ Obecnie dryfujemy w oceanie. Cesarz padÅ‚, nawigacja jest rozwalona i wyglÄ…da, Å¼e to bÄ™dzie nasz grÃ³b.}
 {491}{}{Czytaj dalej.}
-{492}{}{::wróæ::}
-{500}{}{2077-11-04: Dryfujemy ju¿ od kilku dni. Jingowi uda³o siê czêœciowo przywróciæ zasilanie systemów pok³adowych, wiêc powinniœmy mieœæ doœæ tlenu ¿eby przetrwaæ kilka tygodni. Teraz bardziej martwiê siê o jedzenie i wodê - mamy ma³o zapasów i nie wystarczy ich dla wszystkich. Za³oga robi siê niespokojna.}
+{492}{}{::wrÃ³Ä‡::}
+{500}{}{2077-11-04: Dryfujemy juÅ¼ od kilku dni. Jingowi udaÅ‚o siÄ™ czÄ™Å›ciowo przywrÃ³ciÄ‡ zasilanie systemÃ³w pokÅ‚adowych, wiÄ™c powinniÅ›my mieÅ›Ä‡ doÅ›Ä‡ tlenu Å¼eby przetrwaÄ‡ kilka tygodni. Teraz bardziej martwiÄ™ siÄ™ o jedzenie i wodÄ™ - mamy maÅ‚o zapasÃ³w i nie wystarczy ich dla wszystkich. ZaÅ‚oga robi siÄ™ niespokojna.}
 {501}{}{Czytaj dalej.}
-{502}{}{::wróæ::}
-{510}{}{2077-11-08: Cesarz znowu dzia³a, ale ledwie. Ci¹gle nie mamy nawigacji, a za³oga jest na krawêdzi - musia³em powstrzymaæ dwóch marynarzy przed pobiciem Jinga. Sytuacja jest rozpaczliwa. Je¿eli nie wynurzymy siê w ci¹gu kilku nastêpnych dni, obawiam siê, ¿e siê pozabijamy.}
+{502}{}{::wrÃ³Ä‡::}
+{510}{}{2077-11-08: Cesarz znowu dziaÅ‚a, ale ledwie. CiÄ…gle nie mamy nawigacji, a zaÅ‚oga jest na krawÄ™dzi - musiaÅ‚em powstrzymaÄ‡ dwÃ³ch marynarzy przed pobiciem Jinga. Sytuacja jest rozpaczliwa. JeÅ¼eli nie wynurzymy siÄ™ w ciÄ…gu kilku nastÄ™pnych dni, obawiam siÄ™, Å¼e siÄ™ pozabijamy.}
 {511}{}{Czytaj dalej.}
-{512}{}{::wróæ::}
-{520}{}{2077-11-12: Nareszcie! Wp³ynêliœmy na bieliznê w zatoce San Francisco. Marynarze cieszyli siê dopóki nie otworzyliœmy w³azów. Miasto jest zniszczone, spustoszone przez burze ogniowe i radioaktywny opad. Wys³a³em na brzeg grupy które maj¹ znaleŸæ miejsce na obóz. Jak do tej pory, ¿adna nie zg³osi³a takiej lokacji. }
+{512}{}{::wrÃ³Ä‡::}
+{520}{}{2077-11-12: Nareszcie! WpÅ‚ynÄ™liÅ›my na bieliznÄ™ w zatoce San Francisco. Marynarze cieszyli siÄ™ dopÃ³ki nie otworzyliÅ›my wÅ‚azÃ³w. Miasto jest zniszczone, spustoszone przez burze ogniowe i radioaktywny opad. WysÅ‚aÅ‚em na brzeg grupy ktÃ³re majÄ… znaleÅºÄ‡ miejsce na obÃ³z. Jak do tej pory, Å¼adna nie zgÅ‚osiÅ‚a takiej lokacji. }
 {521}{}{Czytaj dalej.}
-{522}{}{::wróæ::}
-{530}{}{2077-11-16: Dru¿yna Lao zg³osi³a znalezienie zdatnej do zamieszkania dzielnicy. Mieszkañcy musieli j¹ opuœciæ po og³oszeniu alarmu lotniczego, ale sama dzielnica nie ucierpia³a wiele w jego wyniku. ¯eby by³o zabawniej to Chinatown, chiñska dzielnica w San Francisco, ci¹gle otoczona amerykañskimi punktami kontrolnymi i ufortyfikowanymi barakami. Gdyby tylko wiedzieli...}
+{522}{}{::wrÃ³Ä‡::}
+{530}{}{2077-11-16: DruÅ¼yna Lao zgÅ‚osiÅ‚a znalezienie zdatnej do zamieszkania dzielnicy. MieszkaÅ„cy musieli jÄ… opuÅ›ciÄ‡ po ogÅ‚oszeniu alarmu lotniczego, ale sama dzielnica nie ucierpiaÅ‚a wiele w jego wyniku. Å»eby byÅ‚o zabawniej to Chinatown, chiÅ„ska dzielnica w San Francisco, ciÄ…gle otoczona amerykaÅ„skimi punktami kontrolnymi i ufortyfikowanymi barakami. Gdyby tylko wiedzieli...}
 {531}{}{Czytaj dalej.}
-{532}{}{::wróæ::}
-{540}{}{2077-11-24: Nawi¹zaliœmy kontakt z Czerwonym Smokiem. Dowództwo pó³nocno amerykañskiego Czarnego Ducha od 23-go kiedy utraci³o ³¹cznoœæ z CentComem, wolno maszerowa³o na zachód. Nie s¹ zbyt zadowoleni, ¿e ugrzêŸli na wrogiej ziemi, ale musimy jakoœ sobie poradziæ.}
+{532}{}{::wrÃ³Ä‡::}
+{540}{}{2077-11-24: NawiÄ…zaliÅ›my kontakt z Czerwonym Smokiem. DowÃ³dztwo pÃ³Å‚nocno amerykaÅ„skiego Czarnego Ducha od 23-go kiedy utraciÅ‚o Å‚Ä…cznoÅ›Ä‡ z CentComem, wolno maszerowaÅ‚o na zachÃ³d. Nie sÄ… zbyt zadowoleni, Å¼e ugrzÄ™Åºli na wrogiej ziemi, ale musimy jakoÅ› sobie poradziÄ‡.}
 {541}{}{Czytaj dalej.}
-{542}{}{::wróæ::}
-{550}{}{2077-12-06: Baza wypadowa Shi-Huang-Ti jest przygotowana i funkcjonuje. Duchy prowadz¹ operacjê odzyskiwania na otaczaj¹cym terenie i gromadz¹ wszelkie zapasy na jakie trafi¹. Wyda³em im œcis³e rozkazy nie atakowania amerykañskich ocala³ych, o ile nie zostan¹ sprowokowani - nie mo¿emy zra¿aæ potencjalnych sprzymierzeñców.}
+{542}{}{::wrÃ³Ä‡::}
+{550}{}{2077-12-06: Baza wypadowa Shi-Huang-Ti jest przygotowana i funkcjonuje. Duchy prowadzÄ… operacjÄ™ odzyskiwania na otaczajÄ…cym terenie i gromadzÄ… wszelkie zapasy na jakie trafiÄ…. WydaÅ‚em im Å›cisÅ‚e rozkazy nie atakowania amerykaÅ„skich ocalaÅ‚ych, o ile nie zostanÄ… sprowokowani - nie moÅ¼emy zraÅ¼aÄ‡ potencjalnych sprzymierzeÅ„cÃ³w.}
 {551}{}{Czytaj dalej.}
-{552}{}{::wróæ::}
-{560}{}{2077-12-14: Coœ osobliwego - sekta o nazwie Koœció³ Centrologiczny w jakiœ sposób przetrwa³a zag³adê we wzmocnionym bunkrze niedaleko resztek mostu Golden Gate. To niegroŸni fanatycy, ale przydatni. Ich zasoby, liczebnoœæ i wiedza o otaczaj¹cym nas terenie, bêd¹ pomocne w za³o¿eniu naszego nowego domu.}
+{552}{}{::wrÃ³Ä‡::}
+{560}{}{2077-12-14: CoÅ› osobliwego - sekta o nazwie KoÅ›ciÃ³Å‚ Centrologiczny w jakiÅ› sposÃ³b przetrwaÅ‚a zagÅ‚adÄ™ we wzmocnionym bunkrze niedaleko resztek mostu Golden Gate. To niegroÅºni fanatycy, ale przydatni. Ich zasoby, liczebnoÅ›Ä‡ i wiedza o otaczajÄ…cym nas terenie, bÄ™dÄ… pomocne w zaÅ‚oÅ¼eniu naszego nowego domu.}
 {561}{}{Czytaj dalej.}
-{562}{}{::wróæ::}
-{570}{}{2077-12-27: Podstawowe zapasy mamy zabezpieczone. Obecnie planujemy wymontowaæ z okrêtu elektronikê i inny przydatny sprzêt - nie ma sensu tego zostawiaæ, skoro napêd jest nie do naprawy, a przyda nam siê wszystko, tu na miejscu. Jing rozrysowa³ plany wzmocnionego budynku - swego rodzaju 'Stalowego Pa³acu'.}
+{562}{}{::wrÃ³Ä‡::}
+{570}{}{2077-12-27: Podstawowe zapasy mamy zabezpieczone. Obecnie planujemy wymontowaÄ‡ z okrÄ™tu elektronikÄ™ i inny przydatny sprzÄ™t - nie ma sensu tego zostawiaÄ‡, skoro napÄ™d jest nie do naprawy, a przyda nam siÄ™ wszystko, tu na miejscu. Jing rozrysowaÅ‚ plany wzmocnionego budynku - swego rodzaju 'Stalowego PaÅ‚acu'.}
 {571}{}{Czytaj dalej.}
-{572}{}{::wróæ::}
-{580}{}{2077-12-31: To bêdzie mój ostatni wpis do tego dziennika. Nie jestem ju¿ admira³em Marynarki Armii Narodowo-Wyzwoleñczej Chin. Jestem zobowi¹zany wobec moich ludzi i poprowadzê ich w przysz³oœæ. Od 2078, ca³kowicie odcinamy siê od Chin. Sekretarzu Cheng, mo¿esz mnie poca³owaæ w dupê. To ja Ye Li, przywódca ludu Shi-Huang-Ti, odmeldowujê siê.}
-{581}{}{::wróæ::}
+{572}{}{::wrÃ³Ä‡::}
+{580}{}{2077-12-31: To bÄ™dzie mÃ³j ostatni wpis do tego dziennika. Nie jestem juÅ¼ admiraÅ‚em Marynarki Armii Narodowo-WyzwoleÅ„czej Chin. Jestem zobowiÄ…zany wobec moich ludzi i poprowadzÄ™ ich w przyszÅ‚oÅ›Ä‡. Od 2078, caÅ‚kowicie odcinamy siÄ™ od Chin. Sekretarzu Cheng, moÅ¼esz mnie pocaÅ‚owaÄ‡ w dupÄ™. To ja Ye Li, przywÃ³dca ludu Shi-Huang-Ti, odmeldowujÄ™ siÄ™.}
+{581}{}{::wrÃ³Ä‡::}
 {590}{}{Zarys misji R:                                                      Awaryjny plan ratunkowej wojny atomowej
- dla Armii Narodowo-Wyzwoleñczej Chin na wypadek nieuniknionej pora¿ki z obcym najeŸdŸcom, zaakceptowany przez Partiê Komunistyczn¹ Chin 15 listopada 2073 roku.}
+ dla Armii Narodowo-WyzwoleÅ„czej Chin na wypadek nieuniknionej poraÅ¼ki z obcym najeÅºdÅºcom, zaakceptowany przez PartiÄ™ KomunistycznÄ… Chin 15 listopada 2073 roku.}
 {591}{}{Czytaj dalej.}
-{600}{}{Plan zak³ada seriê skoordynowanych ataków atomowych na strategiczne cele w ca³ej Ameryce, z u¿yciem samolotów strategicznych, atomowych okrêtów podwodnych, systemów wyrzutni rakietowych, atomowej broni piechoty ma³ej mocy i innych œrodków atomowych. Celem jest sparali¿owanie amerykañskich zdolnoœci odwetowych i bojowych.}
+{600}{}{Plan zakÅ‚ada seriÄ™ skoordynowanych atakÃ³w atomowych na strategiczne cele w caÅ‚ej Ameryce, z uÅ¼yciem samolotÃ³w strategicznych, atomowych okrÄ™tÃ³w podwodnych, systemÃ³w wyrzutni rakietowych, atomowej broni piechoty maÅ‚ej mocy i innych Å›rodkÃ³w atomowych. Celem jest sparaliÅ¼owanie amerykaÅ„skich zdolnoÅ›ci odwetowych i bojowych.}
 {601}{}{Czytaj dalej.}
-{610}{}{Shi-Huang-Ti ma zniszczyæ osiem celów na Kalifornijskiej ziemi, ³¹cznie z placówk¹ badawcz¹ West Techu, korporacyjn¹ siedzib¹ g³ówn¹ w Los Angeles i najwiêkszymi skupiskami ludnoœci.}
+{610}{}{Shi-Huang-Ti ma zniszczyÄ‡ osiem celÃ³w na Kalifornijskiej ziemi, Å‚Ä…cznie z placÃ³wkÄ… badawczÄ… West Techu, korporacyjnÄ… siedzibÄ… gÅ‚Ã³wnÄ… w Los Angeles i najwiÄ™kszymi skupiskami ludnoÅ›ci.}
 {611}{}{Czytaj dalej.}
-{620}{}{W razie buntu, zdrady lub dezercji, Kapitan mo¿e wydaæ rozkaz przejêcia okrêtu przez Cesarza i kontynuowania misji.}
-{621}{}{::wróæ::}
+{620}{}{W razie buntu, zdrady lub dezercji, Kapitan moÅ¼e wydaÄ‡ rozkaz przejÄ™cia okrÄ™tu przez Cesarza i kontynuowania misji.}
+{621}{}{::wrÃ³Ä‡::}
 {622}{}{::wyloguj::}

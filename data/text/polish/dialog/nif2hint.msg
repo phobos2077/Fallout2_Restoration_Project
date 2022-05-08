@@ -1,1 +1,1 @@
-{100}{}{Ksi¹¿ka zawiera MNÓSTWO informacji wewnêtrznych o Falloucie 2, o wiele wiêcej ni¿ potrzeba do ulepszenia samego siebie.}
+{100}{}{KsiÄ…Å¼ka zawiera MNÃ“STWO informacji wewnÄ™trznych o Falloucie 2, o wiele wiÄ™cej niÅ¼ potrzeba do ulepszenia samego siebie.}

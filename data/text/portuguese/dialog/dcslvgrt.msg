@@ -1,114 +1,114 @@
-{100}{}{Você vê um escravista.}
+{100}{}{VocÃª vÃª um escravista.}
 {150}{}{Parece que ele poderia facilmente cuidar de si mesmo em uma briga.}
-{200}{}{Ah, carne fresca ... Bem-vindo à guilda dos escravistas. O nome é Aidan. Já aqui
-  a negócio? Você é melhor.}
+{200}{}{Ah, carne fresca ... Bem-vindo Ã  guilda dos escravistas. O nome Ã© Aidan. JÃ¡ aqui
+Â  a negÃ³cio? VocÃª Ã© melhor.}
 {201}{}{O que exatamente faz a tua guilda?}
 {202}{}{Slaver's guild?}
 {203}{}{Salvar guld?}
 {204}{}{Aruk kun cantou?}
-{215}{}{[Aidan olha você para cima e para baixo.] Bem, parece que você entraria bem, amigo, mas você vai
-  ter uma conversa com Metzger, é claro. Mesmo assim, a porta de traz. }
-{216}{}{[Aidan olha você para cima e para baixo.] Você não parece que poderia estragar, amigo, mas quem
-  Sou um juiz? Você deve falar com Metzger. Ele atravessa a porta dos fundos.}
-{217}{}{Eu disse falar com Metzger. Você é surdo, burro ou simplesmente idiota?}
-{218}{}{Quem é o Metzger?}
-{219}{}{Outra pergunta para você, então.}
+{215}{}{[Aidan olha vocÃª para cima e para baixo.] Bem, parece que vocÃª entraria bem, amigo, mas vocÃª vai
+Â  ter uma conversa com Metzger, Ã© claro. Mesmo assim, a porta de traz. }
+{216}{}{[Aidan olha vocÃª para cima e para baixo.] VocÃª nÃ£o parece que poderia estragar, amigo, mas quem
+Â  Sou um juiz? VocÃª deve falar com Metzger. Ele atravessa a porta dos fundos.}
+{217}{}{Eu disse falar com Metzger. VocÃª Ã© surdo, burro ou simplesmente idiota?}
+{218}{}{Quem Ã© o Metzger?}
+{219}{}{Outra pergunta para vocÃª, entÃ£o.}
 {220}{}{Obrigado, eu vou.}
 {221}{}{Medger}
 {222}{}{Uh... ok.}
-{230}{}{Agora você morre.}
-{240}{}{Tem que me fazer uma merda! Nós capturamos e vendemos escravos. Isso é por que você está aqui, certo?
-  Você está procurando alguma ação?}
-{241}{}{Tem que me fazer uma merda! Nós capturamos e vendemos escravos. Se você não está aqui para isso, o que?
-  quer?}
-{242}{}{Então, você se juntou. Isso deve ser interessante. Se você gosta de ação, você está na linha de trabalho correta. Se você não, você não durará muito.}
-{243}{}{Nunca pensei em ver aquela tatuagem em uma mulher. Parece bem, no entanto. Surpreendeu Metzger ... foda-se. Então, o que você precisa?}
-{244}{}{O que você quer? Você perdeu alguma coisa?}
-{245}{}{Olá de novo. senhora. O que você precisa?}
+{230}{}{Agora vocÃª morre.}
+{240}{}{Tem que me fazer uma merda! NÃ³s capturamos e vendemos escravos. Isso Ã© por que vocÃª estÃ¡ aqui, certo?
+Â  VocÃª estÃ¡ procurando alguma aÃ§Ã£o?}
+{241}{}{Tem que me fazer uma merda! NÃ³s capturamos e vendemos escravos. Se vocÃª nÃ£o estÃ¡ aqui para isso, o que?
+Â  quer?}
+{242}{}{EntÃ£o, vocÃª se juntou. Isso deve ser interessante. Se vocÃª gosta de aÃ§Ã£o, vocÃª estÃ¡ na linha de trabalho correta. Se vocÃª nÃ£o, vocÃª nÃ£o durarÃ¡ muito.}
+{243}{}{Nunca pensei em ver aquela tatuagem em uma mulher. Parece bem, no entanto. Surpreendeu Metzger ... foda-se. EntÃ£o, o que vocÃª precisa?}
+{244}{}{O que vocÃª quer? VocÃª perdeu alguma coisa?}
+{245}{}{OlÃ¡ de novo. senhora. O que vocÃª precisa?}
 {246}{}{O que?}
 {247}{}{Estou procurando me juntar.}
-{248}{}{De onde você tira seus escravos?}
+{248}{}{De onde vocÃª tira seus escravos?}
 {249}{}{Eu gostaria de comprar alguns escravos.}
-{250}{}{Você conhece um homem chamado Vic?}
-{251}{}{Estou à procura de um comerciante.}
-{252}{}{Você já ouviu falar do Vault 13?}
+{250}{}{VocÃª conhece um homem chamado Vic?}
+{251}{}{Estou Ã  procura de um comerciante.}
+{252}{}{VocÃª jÃ¡ ouviu falar do Vault 13?}
 {253}{}{Adeus.}
 {254}{}{Trabalho.}
 {255}{}{Comida.}
 {256}{}{Matar.}
 {257}{}{Ug.}
-{270}{}{Ah, um sanguinário. Bem ... Fale com o chefe. Podemos ter um lugar para você. Atravesse a porta dos fundos.}
-{271}{}{Metzger nunca teve uma puta escravista, mas se você é realmente tão sanguinária, verifique com ele. Ele atravessa essa porta.}
+{270}{}{Ah, um sanguinÃ¡rio. Bem ... Fale com o chefe. Podemos ter um lugar para vocÃª. Atravesse a porta dos fundos.}
+{271}{}{Metzger nunca teve uma puta escravista, mas se vocÃª Ã© realmente tÃ£o sanguinÃ¡ria, verifique com ele. Ele atravessa essa porta.}
 {272}{}{Okke.}
 {273}{}{Uh.}
 {274}{}{Krook}
-{280}{}{Converse com Metzger sobre isso. Ele normalmente não vende ao público. Tem as mãos cheias com ... clientes maiores.}
-{281}{}{Quem é o Metzger?}
+{280}{}{Converse com Metzger sobre isso. Ele normalmente nÃ£o vende ao pÃºblico. Tem as mÃ£os cheias com ... clientes maiores.}
+{281}{}{Quem Ã© o Metzger?}
 {282}{}{Posso pedir outra coisa?}
 {283}{}{Tudo bem, tchau.}
 {284}{}{E quanto ao Vic?}
-{290}{}{Você não diz. Cai fora!}
+{290}{}{VocÃª nÃ£o diz. Cai fora!}
 {291}{}{Puta idiota.}
 {292}{}{Oook?}
 {293}{}{Hmph.}
-{300}{}{Não é provável. Aquele idiota Vic irritou Metzger com algum rádio ou algo assim. Eu duvido que ele o venda. Você terá que falar com ele mesmo.}
-{301}{}{Bem, eu ouvi dizer que ele finalmente corrigiu o rádio. Você deve perguntar ao Metzger. Ele não usa muito agora, não é uma boa qualidade comercial.}
-{302}{}{Quem é o Metzger?}
-{303}{}{Onde está Metzger?}
+{300}{}{NÃ£o Ã© provÃ¡vel. Aquele idiota Vic irritou Metzger com algum rÃ¡dio ou algo assim. Eu duvido que ele o venda. VocÃª terÃ¡ que falar com ele mesmo.}
+{301}{}{Bem, eu ouvi dizer que ele finalmente corrigiu o rÃ¡dio. VocÃª deve perguntar ao Metzger. Ele nÃ£o usa muito agora, nÃ£o Ã© uma boa qualidade comercial.}
+{302}{}{Quem Ã© o Metzger?}
+{303}{}{Onde estÃ¡ Metzger?}
 {304}{}{Ok, obrigado. Tchau.}
-{310}{}{Ele está na parte de trás da porta por aí.}
-{311}{}{Você está brincando comigo? Ele está bem lá. Apenas atravesse essa porta.}
+{310}{}{Ele estÃ¡ na parte de trÃ¡s da porta por aÃ­.}
+{311}{}{VocÃª estÃ¡ brincando comigo? Ele estÃ¡ bem lÃ¡. Apenas atravesse essa porta.}
 {312}{}{Tudo bem.}
 {313}{}{Obrigado.}
-{320}{}{Porra, você não conhece Metzger? O que você está fazendo nesta cidade, se não o vê? Ele é o chefe do Slaver's Guild.}
-{321}{}{Quantas vezes eu tenho que te dizer? Ele é o mestre escravista. Ele dirige coisas nesta cidade.}
+{320}{}{Porra, vocÃª nÃ£o conhece Metzger? O que vocÃª estÃ¡ fazendo nesta cidade, se nÃ£o o vÃª? Ele Ã© o chefe do Slaver's Guild.}
+{321}{}{Quantas vezes eu tenho que te dizer? Ele Ã© o mestre escravista. Ele dirige coisas nesta cidade.}
 {322}{}{Posso pedir mais uma coisa?}
 {323}{}{Ok, obrigado.}
-{330}{}{Eu não estou falando sobre isso. Metzger vai me amarrar. Além disso, não queremos nenhuma competição externa.}
-{331}{}{Eu já disse. Não vou falar sobre isso.}
-{332}{}{Diga-me antes de eu abrir um buraco através de sua cabeça.}
+{330}{}{Eu nÃ£o estou falando sobre isso. Metzger vai me amarrar. AlÃ©m disso, nÃ£o queremos nenhuma competiÃ§Ã£o externa.}
+{331}{}{Eu jÃ¡ disse. NÃ£o vou falar sobre isso.}
+{332}{}{Diga-me antes de eu abrir um buraco atravÃ©s de sua cabeÃ§a.}
 {333}{}{Eu entendo. Outra pergunta?}
 {334}{}{Tudo bem, tchau.}
-{340}{}{Escuta aqui, seu merdinha, não se atreva a ameaçar a mim ou a qualquer outro membro da nossa guilda, ou você está morto. Entendeu? Morto.}
-{341}{}{Escuta aqui, sua vagabunda. Não se atreva a ameaçar a mim ou a qualquer outro membro da nossa guilda, ou você está morta. Entendeu? Morta.}
-{342}{}{Agora seu drogadinho, você vai morrer.}
+{340}{}{Escuta aqui, seu merdinha, nÃ£o se atreva a ameaÃ§ar a mim ou a qualquer outro membro da nossa guilda, ou vocÃª estÃ¡ morto. Entendeu? Morto.}
+{341}{}{Escuta aqui, sua vagabunda. NÃ£o se atreva a ameaÃ§ar a mim ou a qualquer outro membro da nossa guilda, ou vocÃª estÃ¡ morta. Entendeu? Morta.}
+{342}{}{Agora seu drogadinho, vocÃª vai morrer.}
 {343}{}{Que se dane.}
-{344}{}{Perdão, por favor não me machuque.}
-{345}{}{Tá, que se dane. Eu vou deixar você viver dessa vez.}
-{350}{}{Sério? Talvez eu devesse abrir um buraco nessa sua cabeça agora mesmo. O que você acha, seu exibido?}
+{344}{}{PerdÃ£o, por favor nÃ£o me machuque.}
+{345}{}{TÃ¡, que se dane. Eu vou deixar vocÃª viver dessa vez.}
+{350}{}{SÃ©rio? Talvez eu devesse abrir um buraco nessa sua cabeÃ§a agora mesmo. O que vocÃª acha, seu exibido?}
 {351}{}{Manda ver.}
-{352}{}{Não me faça rir.}
+{352}{}{NÃ£o me faÃ§a rir.}
 {353}{}{Eu estava apenas brincando, cara.}
-{354}{}{Foi mal. Eu só estava tentando te impressionar.}
+{354}{}{Foi mal. Eu sÃ³ estava tentando te impressionar.}
 {360}{}{Caia fora, antes que eu mude de ideia.}
 {361}{}{Tudo bem.}
-{370}{}{Que? Ah, você deve estar procurando a Mamãe. Você errou o endereço. Ela está no prédio ao sul daqui. S-u-l. Naquela direção. [Aidan aponta para a porta.]}
-{371}{}{Hã? Hum... Ah.}
-{380}{}{Pelo jeito você até poderia ser útil, mas o Metzger nunca contratou uma mulher. Não sei por quê, mas duvido que ele esteja começando agora.}
-{381}{}{Você não faz o nosso tipo. Diabos, Metzger nunca contratou uma mulher antes. Não tenho certeza por quê, mas duvido que ele esteja começando agora.}
+{370}{}{Que? Ah, vocÃª deve estar procurando a MamÃ£e. VocÃª errou o endereÃ§o. Ela estÃ¡ no prÃ©dio ao sul daqui. S-u-l. Naquela direÃ§Ã£o. [Aidan aponta para a porta.]}
+{371}{}{HÃ£? Hum... Ah.}
+{380}{}{Pelo jeito vocÃª atÃ© poderia ser Ãºtil, mas o Metzger nunca contratou uma mulher. NÃ£o sei por quÃª, mas duvido que ele esteja comeÃ§ando agora.}
+{381}{}{VocÃª nÃ£o faz o nosso tipo. Diabos, Metzger nunca contratou uma mulher antes. NÃ£o tenho certeza por quÃª, mas duvido que ele esteja comeÃ§ando agora.}
 {382}{}{Eu disse pra falar com Metzger.}
-{383}{}{Quem é o Metzger?}
+{383}{}{Quem Ã© o Metzger?}
 {384}{}{Outra pergunta.}
 {385}{}{Obrigado, eu vou.}
 {386}{}{Medger}
 {387}{}{Uh... ok.}
-{400}{}{Não, mas eu falaria com o chefe. Ele provavelmente já esteve em tudo quanto é canto.}
+{400}{}{NÃ£o, mas eu falaria com o chefe. Ele provavelmente jÃ¡ esteve em tudo quanto Ã© canto.}
 {401}{}{Outra pergunta.}
 {402}{}{Ok, obrigado. Tchau.}
-{410}{}{Comerciante? Ah, você deve estar falando do Vic, aquele cara que vende tranqueiras do Vault. Ele tá fodido. O Metzger tá muito puto com ele.}
-{411}{}{Sim, Vic... o tal do Comerciante, né? Aquele que vende tranqueiras do Vault. Ele está fodido. O Metzger tá muito puto com ele.}
-{412}{}{Quantas vezes você vai me perguntar isso? Metzger prendeu ele.}
-{413}{}{Quem é o Metzger?}
+{410}{}{Comerciante? Ah, vocÃª deve estar falando do Vic, aquele cara que vende tranqueiras do Vault. Ele tÃ¡ fodido. O Metzger tÃ¡ muito puto com ele.}
+{411}{}{Sim, Vic... o tal do Comerciante, nÃ©? Aquele que vende tranqueiras do Vault. Ele estÃ¡ fodido. O Metzger tÃ¡ muito puto com ele.}
+{412}{}{Quantas vezes vocÃª vai me perguntar isso? Metzger prendeu ele.}
+{413}{}{Quem Ã© o Metzger?}
 {414}{}{Posso fazer outra pergunta?}
-{415}{}{Ele está à venda?}
+{415}{}{Ele estÃ¡ Ã  venda?}
 {416}{}{Ok, obrigado.}
 {430}{}{Ei, rapazes, olha quem voltou.}
-{431}{}{Corra, é um escravista! Ah, eu me cago de tanto rir.}
+{431}{}{Corra, Ã© um escravista! Ah, eu me cago de tanto rir.}
 {432}{}{De volta a ativa?}
-{433}{}{Você conhece o caminho.}
-{434}{}{Vá em frente.}
-{435}{}{Ele tá esperando você.}
+{433}{}{VocÃª conhece o caminho.}
+{434}{}{VÃ¡ em frente.}
+{435}{}{Ele tÃ¡ esperando vocÃª.}
 {436}{}{E agora?}
-{437}{}{Eu conheço essa cara feia.}
+{437}{}{Eu conheÃ§o essa cara feia.}
 {438}{}{Como vai?}
-{439}{}{Cê voltou. Cê vai se juntar a nós?}
+{439}{}{CÃª voltou. CÃª vai se juntar a nÃ³s?}

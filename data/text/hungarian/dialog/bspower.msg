@@ -1,11 +1,11 @@
-{100}{}{A generátor normálisan m?ködik. A leadott teljesítmény optimális.}
-{101}{}{Úgy t?nik, a generátor vészhelyzeti készenléti állapotban van. A teljesítmény-leadás minimális.}
-{102}{}{A hiba megkeresése.}
-{103}{}{Ó... asszem, indulni kéne.}
-{104}{}{Valószín?leg rövidzárlat történt a rendszerben. A biztosítékok kioldottak, de nyitott állásban maradtak. Talán vissza tudod zárni ?ket, és helyre tudod állítani az energiaellátást.}
-{105}{}{Nem találsz semmi rosszat a rendszerben. Egyszer?en csak nem m?ködik.}
-{106}{}{A javítás megkísérlése.}
+{100}{}{A generÃ¡tor normÃ¡lisan m?kÃ¶dik. A leadott teljesÃ­tmÃ©ny optimÃ¡lis.}
+{101}{}{Ãšgy t?nik, a generÃ¡tor vÃ©szhelyzeti kÃ©szenlÃ©ti Ã¡llapotban van. A teljesÃ­tmÃ©ny-leadÃ¡s minimÃ¡lis.}
+{102}{}{A hiba megkeresÃ©se.}
+{103}{}{Ã“... asszem, indulni kÃ©ne.}
+{104}{}{ValÃ³szÃ­n?leg rÃ¶vidzÃ¡rlat tÃ¶rtÃ©nt a rendszerben. A biztosÃ­tÃ©kok kioldottak, de nyitott Ã¡llÃ¡sban maradtak. TalÃ¡n vissza tudod zÃ¡rni ?ket, Ã©s helyre tudod Ã¡llÃ­tani az energiaellÃ¡tÃ¡st.}
+{105}{}{Nem talÃ¡lsz semmi rosszat a rendszerben. Egyszer?en csak nem m?kÃ¶dik.}
+{106}{}{A javÃ­tÃ¡s megkÃ­sÃ©rlÃ©se.}
 {107}{}{Ideje menni.}
-{108}{}{Valahogy sikerült a csatlakozókat meglazítanod, és visszállítani az energiát!}
-{109}{}{A fenébe. Ez keményebb dió, mint amilyennek látszott.}
-{110}{}{Megbeszéltük.}
+{108}{}{Valahogy sikerÃ¼lt a csatlakozÃ³kat meglazÃ­tanod, Ã©s visszÃ¡llÃ­tani az energiÃ¡t!}
+{109}{}{A fenÃ©be. Ez kemÃ©nyebb diÃ³, mint amilyennek lÃ¡tszott.}
+{110}{}{MegbeszÃ©ltÃ¼k.}

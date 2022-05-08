@@ -1,33 +1,33 @@
-{100}{}{Du siehst einen glatzköpfigen Vagabunden.}
+{100}{}{Du siehst einen glatzkÃ¶pfigen Vagabunden.}
 {101}{}{Du siehst Chip. Er sieht aus, als ginge es ihm besser.}
-{102}{}{Du siehst einen glatzköpfigen Vagabunden. Er sieht beinahe genesen aus.}
+{102}{}{Du siehst einen glatzkÃ¶pfigen Vagabunden. Er sieht beinahe genesen aus.}
 {103}{}{Au, mein Bauch...aua, au}
 {104}{}{Wauch?}
 {105}{}{Aua?}
 {106}{}{Was ist mit dir los?}
 {107}{}{Du hast wohl Schmerzen? Haha.}
 {108}{}{Wer bist du?}
-{109}{}{Kannst du mir vielleicht Informationen über meine Leute geben?}
+{109}{}{Kannst du mir vielleicht Informationen Ã¼ber meine Leute geben?}
 {110}{}{Auaaa, mein Bauch. Ich hab Schmerzen. Bitte lass mich in Ruhe.}
 {111}{}{OK; OK.}
 {112}{}{Was ich habe? Ich werd's dir sagen: Ich hab mich letzte Woche betrunken, angefangen, mit Lao Chou Karten zu spielen und verloren. Ich war so stockbetrunken, dass ich meine Milz gesetzt habe. Jetzt hat er sie und ich muss sie wiederhaben.}
 {113}{}{Du hast deine Milz VERKAUFT?}
 {114}{}{Dumm gelaufen.}
-{115}{}{Was musst du nur für ein Dämlack sein.}
+{115}{}{Was musst du nur fÃ¼r ein DÃ¤mlack sein.}
 {116}{}{Ja, schon gut, aber deine Bauchschmerzen helfen mir nicht weiter - was ich brauche sind Informationen.}
 {117}{}{[Er schnappt nach Luft] Mistkerl!}
 {118}{}{[Er schnappt nach Luft] Verzisch dich!}
 {119}{}{Ja, OK, Mann.}
-{120}{}{He, ich hab's mir überlegt. Ich will dir helfen.}
-{121}{}{Ja, Mann, ich hab sie verkauft. Ich war so besoffen! Außerdem glaube ich Lao Chou hat mir Jet in den Drink getan. Ich muss meine Milz wiederhaben, ich kriege Entzündungen.}
+{120}{}{He, ich hab's mir Ã¼berlegt. Ich will dir helfen.}
+{121}{}{Ja, Mann, ich hab sie verkauft. Ich war so besoffen! AuÃŸerdem glaube ich Lao Chou hat mir Jet in den Drink getan. Ich muss meine Milz wiederhaben, ich kriege EntzÃ¼ndungen.}
 {122}{}{Eh, du hast sie verloren, Mann. Das ist dein Problem. Damit musst du schon selber klarkommen.}
 {123}{}{Na gut, ich werd mich mal danach umsehen.}
-{124}{}{Tja, das stimmt. Ich muss meine Milz wiederhaben, ich fange an, Entzündungen zu kriegen.}
+{124}{}{Tja, das stimmt. Ich muss meine Milz wiederhaben, ich fange an, EntzÃ¼ndungen zu kriegen.}
 {125}{}{Eh, du hast sie verloren, Mann. Das ist dein Problem. Damit musst du schon selber klarkommen.}
 {126}{}{Na gut, ich werd mich mal danach umsehen.}
 {127}{}{Das rechne ich dir hoch an. Geh und rede mal mit Lao Chou, dem Kaufmann und sag ihm, ich muss meine Milz wiederhaben.}
 {128}{}{Ich komme wieder.}
-{129}{}{Ich bin Chip. Und ich habe große Schmerzen.}
+{129}{}{Ich bin Chip. Und ich habe groÃŸe Schmerzen.}
 {130}{}{Was ist mit dir los?}
 {131}{}{Du hast wohl Schmerzen? Haha.}
 {132}{}{Das ist wirklich Pech. Mach's gut.}
@@ -39,24 +39,24 @@
 {138}{}{Ja. Dr. Wong Yi Tze hat sie und wird sie dir wiedergeben. Geh und rede mit ihm.}
 {139}{}{Ja. Geh und hol sie dir von Dr. Wongs Leiche.}
 {140}{}{Sozusagen. Dr. Wong Yi Tze hat sie. Aber er will sie mir nicht geben.}
-{141}{}{Ich habe herausgefunden, wo sie ist, aber ich fürchte, Dr. Wong hat sie aufgegessen.}
+{141}{}{Ich habe herausgefunden, wo sie ist, aber ich fÃ¼rchte, Dr. Wong hat sie aufgegessen.}
 {142}{}{Nein, noch nicht. Aber ich werde sie finden.}
 {143}{}{Nein. Ich such gar nicht danach.}
-{144}{}{OK. ::Keuch:: Vorher sollten wir vielleicht überlegen, wie wir sie mir wieder einsetzen. Könntest du mit Dr. Fung darüber reden? Danke.}
+{144}{}{OK. ::Keuch:: Vorher sollten wir vielleicht Ã¼berlegen, wie wir sie mir wieder einsetzen. KÃ¶nntest du mit Dr. Fung darÃ¼ber reden? Danke.}
 {145}{}{Also gut.}
 {146}{}{Nein.}
-{147}{}{Ich bin dir unendlich dankbar für das, was du für mich tust. Ich werde es nicht vergessen.}
+{147}{}{Ich bin dir unendlich dankbar fÃ¼r das, was du fÃ¼r mich tust. Ich werde es nicht vergessen.}
 {148}{}{Kein Ding.}
-{149}{}{Mann, es ist für mich wirklich verdammt anstrengend, irgendwo hinzugehen. Wenn du mir nicht helfen kannst, bin ich wirklich verloren.}
+{149}{}{Mann, es ist fÃ¼r mich wirklich verdammt anstrengend, irgendwo hinzugehen. Wenn du mir nicht helfen kannst, bin ich wirklich verloren.}
 {150}{}{OK. Ich rede mit Fung.}
 {151}{}{Gut. Du bist mir eh total egal.}
-{152}{}{Könntest du nicht irgend etwas tun? Ihn töten...oder ihn überzeugen. Ich werde sterben, wenn ich sie nicht wiederkriege.}
+{152}{}{KÃ¶nntest du nicht irgend etwas tun? Ihn tÃ¶ten...oder ihn Ã¼berzeugen. Ich werde sterben, wenn ich sie nicht wiederkriege.}
 {153}{}{Ich werde sehen, was ich tun kann.}
-{154}{}{Sorry, Mann...ich fürchte, du bist geliefert. Ich kann dir nicht helfen.}
-{155}{}{Ohne Milz werde ich sterben. Trotzdem danke für deine Hilfe.}
-{156}{}{Ich hab sie gefunden. Geh rüber  zu Dr. Wong.}
+{154}{}{Sorry, Mann...ich fÃ¼rchte, du bist geliefert. Ich kann dir nicht helfen.}
+{155}{}{Ohne Milz werde ich sterben. Trotzdem danke fÃ¼r deine Hilfe.}
+{156}{}{Ich hab sie gefunden. Geh rÃ¼ber  zu Dr. Wong.}
 {157}{}{Ich werde dich decken. Geh zu Fung.}
-{158}{}{Null Problemo. Viel Glück.}
+{158}{}{Null Problemo. Viel GlÃ¼ck.}
 {159}{}{Hast du mit Fung gesprochen?}
 {160}{}{Ja, Mann. Er sagt, er tut sie dir umsonst wieder rein.}
 {161}{}{Ja, und er verlangt 1000 Dollar.}
@@ -67,35 +67,35 @@
 {166}{}{Ja, ich denke schon.}
 {167}{}{Nein.}
 {168}{}{Ich bin dir echt dankbar. Komm morgen wieder, dann werde ich versuchen, dir zu helfen.}
-{169}{}{Besser wär's.}
-{170}{}{Ganz alleine kann ich's mir nicht leisten. Ich werde wohl sterben müssen.}
+{169}{}{Besser wÃ¤r's.}
+{170}{}{Ganz alleine kann ich's mir nicht leisten. Ich werde wohl sterben mÃ¼ssen.}
 {171}{}{OK, Ich deck dich.}
 {172}{}{Zu dumm. Ich bin total pleite.}
-{173}{}{Ich kann dir gar nicht sagen, wieviel besser ich mich fühle. Also, was wolltest du von mir?}
+{173}{}{Ich kann dir gar nicht sagen, wieviel besser ich mich fÃ¼hle. Also, was wolltest du von mir?}
 {174}{}{Wie kriege ich dieses Boot in Gang?}
-{175}{}{Wo sind meine Leute? Weißt du es?}
+{175}{}{Wo sind meine Leute? WeiÃŸt du es?}
 {176}{}{Ich brauche jemanden, der mir was am Computer erledigt.}
-{177}{}{Nichts im Moment, danke. Tschüss.}
-{178}{}{Frag den Kapitän. Er ist oben in der seiner Kabine.}
+{177}{}{Nichts im Moment, danke. TschÃ¼ss.}
+{178}{}{Frag den KapitÃ¤n. Er ist oben in der seiner Kabine.}
 {179}{}{Danke. Noch ein paar Fragen...}
-{180}{}{Danke. Tschüss.}
-{181}{}{Man sagt, sie seien nach Westen gebracht worden, übers Meer. Deine Chancen, dorthin zu kommen, stehen wahrscheinlich am besten, wenn du diese Badewanne wieder flottmachst.}
+{180}{}{Danke. TschÃ¼ss.}
+{181}{}{Man sagt, sie seien nach Westen gebracht worden, Ã¼bers Meer. Deine Chancen, dorthin zu kommen, stehen wahrscheinlich am besten, wenn du diese Badewanne wieder flottmachst.}
 {182}{}{Danke. Noch ein paar Fragen...}
-{183}{}{Danke. Tschüss.}
-{184}{}{Was am Computer? Wenn es die Shi oder die Hubologen nicht für dich machen, redest du am besten mit Dachs. Er ist ein Genie.}
+{183}{}{Danke. TschÃ¼ss.}
+{184}{}{Was am Computer? Wenn es die Shi oder die Hubologen nicht fÃ¼r dich machen, redest du am besten mit Dachs. Er ist ein Genie.}
 {185}{}{Danke. Noch ein paar Fragen...}
-{186}{}{Danke. Tschüss.}
-{187}{}{Zu blöd. Geh zu den Hubologen oder zu den Shi. Jetzt, wo Dachs tot ist, fällt mir sonst wirklich nichts ein.}
+{186}{}{Danke. TschÃ¼ss.}
+{187}{}{Zu blÃ¶d. Geh zu den Hubologen oder zu den Shi. Jetzt, wo Dachs tot ist, fÃ¤llt mir sonst wirklich nichts ein.}
 {188}{}{Danke. Noch ein paar Fragen...}
-{189}{}{Danke. Tschüss.}
+{189}{}{Danke. TschÃ¼ss.}
 {190}{}{Abschaum.}
 {191}{}{Du wirst Schmerzmittel brauchen.}
 {192}{}{Dreckskerl. Ich werd dich auseinandernehmen!}
-{193}{}{Du siehst einen glatzköpfigen Vagabunden.}
-{194}{}{Du siehst Chip. Er scheint große Schmerzen zu haben.}
-{195}{}{Du siehst einen glatzköpfigen Vagabunden. Er hält sich die Seite und keucht vor Schmerzen.}
+{193}{}{Du siehst einen glatzkÃ¶pfigen Vagabunden.}
+{194}{}{Du siehst Chip. Er scheint groÃŸe Schmerzen zu haben.}
+{195}{}{Du siehst einen glatzkÃ¶pfigen Vagabunden. Er hÃ¤lt sich die Seite und keucht vor Schmerzen.}
 {196}{}{Ist gut. Ich werde mit Fung reden.}
-{197}{}{Hattest du diesmal mehr Glück mit meiner Milz?}
+{197}{}{Hattest du diesmal mehr GlÃ¼ck mit meiner Milz?}
 {198}{}{Ja, und er wollte 1000 Dollar. Ich hab sie bezahlt.}
-{199}{}{Danke für alles, Kumpel.}
-{200}{}{Mann, ich hab gehört, du hast meine Milz gefunden. Wusstest du, dass du mit Dr. Fung darüber sprechen musst, wie er sie mir wieder einsetzt?}
+{199}{}{Danke fÃ¼r alles, Kumpel.}
+{200}{}{Mann, ich hab gehÃ¶rt, du hast meine Milz gefunden. Wusstest du, dass du mit Dr. Fung darÃ¼ber sprechen musst, wie er sie mir wieder einsetzt?}

@@ -1,65 +1,65 @@
-{100}{}{Widzisz starego, bezzêbnego Algernona.}
+{100}{}{Widzisz starego, bezzÄ™bnego Algernona.}
 {101}{}{Widzisz Algernona.}
-{150}{}{Widzisz brudnego, bezzêbnego mê¿czyznê. Ko³ysze siê miarowo na nogach i pogwizduje.}
-{151}{}{Widzisz Algernona. Zdaje siê toczyæ w myœlach jak¹œ bitwê.}
+{150}{}{Widzisz brudnego, bezzÄ™bnego mÄ™Å¼czyznÄ™. KoÅ‚ysze siÄ™ miarowo na nogach i pogwizduje.}
+{151}{}{Widzisz Algernona. Zdaje siÄ™ toczyÄ‡ w myÅ›lach jakÄ…Å› bitwÄ™.}
 {200}{}{Bam bam}
-{201}{}{£uuup!}
+{201}{}{Åuuup!}
 {202}{}{Tra ta ta ta!!}
 {203}{}{Sssssszuuuu... *BUUM!*}
-{204}{}{Ziii¹!}
+{204}{}{ZiiiÄ…!}
 {205}{}{Buum! Bdam-bdam-bdam!}
 {206}{}{Ta-ta-ta-ta}
 {207}{}{Ta-ta-ta-ta}
 {208}{}{Biiium! Bam bam bam!}
 {209}{}{Badam!}
-{210}{}{Pt¹! Pt¹!}
+{210}{}{PtÄ…! PtÄ…!}
 {211}{}{Fuuum!}
 {212}{}{Kabuum!}
 {213}{}{Ratta-tatta-tatta}
 {214}{}{Kaa-buuum}
-{220}{}{(Algernon patrzy na ciebie i uœmiecha siê szerokim, bezzêbnym uœmiechem) Buum! }
-{221}{}{(Bêzzêbny mê¿czyzna patrzy na ciebie z uœmiechem. Na jego koszuli znajduje siê niewielka naszywka z napisem "Algernon".) Buum! }
-{222}{}{(Na widok twojej broni staje siê wyraŸnie podekscytowany) Buum!}
+{220}{}{(Algernon patrzy na ciebie i uÅ›miecha siÄ™ szerokim, bezzÄ™bnym uÅ›miechem) Buum! }
+{221}{}{(BÄ™zzÄ™bny mÄ™Å¼czyzna patrzy na ciebie z uÅ›miechem. Na jego koszuli znajduje siÄ™ niewielka naszywka z napisem "Algernon".) Buum! }
+{222}{}{(Na widok twojej broni staje siÄ™ wyraÅºnie podekscytowany) Buum!}
 {223}{}{Buum!}
-{224}{}{OdejdŸ.}
-{225}{}{Eee... chcesz obejrzeæ moj¹ broñ?}
-{226}{}{Tak, tak. "Buum, buum". Algernonie, potrafisz ulepszyæ któr¹œ z tych rzeczy?}
-{227}{}{Mo¿e porozmawiamy jak... poczujesz siê lepiej. ¯egnaj.}
-{230}{}{Ch³e! Ch³e ch³e! (Algernon rechocze g³oœno poczym mierzy do ciebie z wyimaginowanego pistoletu.) Bam bam!}
-{231}{}{Pud³o, pud³o! A masz! (Wyceluj w niego palcem) Pam! Pam!}
+{224}{}{OdejdÅº.}
+{225}{}{Eee... chcesz obejrzeÄ‡ mojÄ… broÅ„?}
+{226}{}{Tak, tak. "Buum, buum". Algernonie, potrafisz ulepszyÄ‡ ktÃ³rÄ…Å› z tych rzeczy?}
+{227}{}{MoÅ¼e porozmawiamy jak... poczujesz siÄ™ lepiej. Å»egnaj.}
+{230}{}{ChÅ‚e! ChÅ‚e chÅ‚e! (Algernon rechocze gÅ‚oÅ›no poczym mierzy do ciebie z wyimaginowanego pistoletu.) Bam bam!}
+{231}{}{PudÅ‚o, pudÅ‚o! A masz! (Wyceluj w niego palcem) Pam! Pam!}
 {232}{}{Ugh. Moja trup. Moja idzie do nieba.}
-{235}{}{(Algernon z przera¿eniem patrzy na miejsce, w które zosta³ 'trafiony'. Nagle potyka siê, podnosi na ciebie mêtne spojrzenie i pada na ziemiê, martwy.)}
-{236}{}{Uhmm, Al? Ty w porz¹dku?}
+{235}{}{(Algernon z przeraÅ¼eniem patrzy na miejsce, w ktÃ³re zostaÅ‚ 'trafiony'. Nagle potyka siÄ™, podnosi na ciebie mÄ™tne spojrzenie i pada na ziemiÄ™, martwy.)}
+{236}{}{Uhmm, Al? Ty w porzÄ…dku?}
 {237}{}{O-o.}
-{240}{}{(Nie rusza siê.)}
-{241}{}{(Zacznij klaskaæ.)}
-{245}{}{(Nie podnosi siê i chyba nie oddycha!)}
-{250}{}{(Co chcesz mu daæ?)}
-{251}{}{Daj mu jeden ze swoich pistoletów.}
-{252}{}{Daj mu jeden ze swoich karabinów.}
-{253}{}{Daj mu paliwo do miotacza p³omieni.}
-{254}{}{Daj mu jakieœ têpe narzêdzie.}
-{255}{}{Przykro mi, nie mam nic, co mog³oby ciê zainteresowaæ, Al. Mo¿e nastêpnym razem.}
-{256}{}{Myœlê, ¿e broñ w rêkach niebezpiecznego œwira to nie jest dobry pomys³. Trzymaj siê.}
-{260}{}{(Al bierze przedmiot. Jego oczy b³yszcz¹. Przez kilka minut coœ przy nim majstruje... i jeszcze kilka minut... i jeszcze trochê... Po godzinie Al oddaje ci przedmiot i ze z³owieszczym uœmiechem kiwa g³ow¹.) *Buuuum.*}
-{261}{}{S³uchaj... mo¿esz TO jakoœ ulepszyæ?}
-{262}{}{Dziêki, Al.}
+{240}{}{(Nie rusza siÄ™.)}
+{241}{}{(Zacznij klaskaÄ‡.)}
+{245}{}{(Nie podnosi siÄ™ i chyba nie oddycha!)}
+{250}{}{(Co chcesz mu daÄ‡?)}
+{251}{}{Daj mu jeden ze swoich pistoletÃ³w.}
+{252}{}{Daj mu jeden ze swoich karabinÃ³w.}
+{253}{}{Daj mu paliwo do miotacza pÅ‚omieni.}
+{254}{}{Daj mu jakieÅ› tÄ™pe narzÄ™dzie.}
+{255}{}{Przykro mi, nie mam nic, co mogÅ‚oby ciÄ™ zainteresowaÄ‡, Al. MoÅ¼e nastÄ™pnym razem.}
+{256}{}{MyÅ›lÄ™, Å¼e broÅ„ w rÄ™kach niebezpiecznego Å›wira to nie jest dobry pomysÅ‚. Trzymaj siÄ™.}
+{260}{}{(Al bierze przedmiot. Jego oczy bÅ‚yszczÄ…. Przez kilka minut coÅ› przy nim majstruje... i jeszcze kilka minut... i jeszcze trochÄ™... Po godzinie Al oddaje ci przedmiot i ze zÅ‚owieszczym uÅ›miechem kiwa gÅ‚owÄ….) *Buuuum.*}
+{261}{}{SÅ‚uchaj... moÅ¼esz TO jakoÅ› ulepszyÄ‡?}
+{262}{}{DziÄ™ki, Al.}
 {265}{}{[Wybierz.]}
 {266}{}{Magnum .44?}
 {267}{}{Desert Eagle.}
 {268}{}{Pistolet laserowy Wattz 1000.}
 {269}{}{Pistolet plazmowy Glock 86.}
-{270}{}{Poszukaj w plecaku czegoœ innego...}
-{271}{}{Niewa¿ne, Al. Trzymaj siê.}
-{272}{}{Niewa¿ne... nie mam dla ciebie ¿adnych zabawek. Czeœæ.}
-{276}{}{Karabin myœliwski Colta.}
+{270}{}{Poszukaj w plecaku czegoÅ› innego...}
+{271}{}{NiewaÅ¼ne, Al. Trzymaj siÄ™.}
+{272}{}{NiewaÅ¼ne... nie mam dla ciebie Å¼adnych zabawek. CzeÅ›Ä‡.}
+{276}{}{Karabin myÅ›liwski Colta.}
 {277}{}{AK-112.}
 {278}{}{FN FAL.}
 {279}{}{Karabin laserowy Wattz 2000.}
-{280}{}{Miotacz p³omieni.}
+{280}{}{Miotacz pÅ‚omieni.}
 {281}{}{Karabin plazmowy.}
-{291}{}{Chcesz trochê pokombinowaæ z tym paliwem do miotacza p³omieni?}
-{292}{}{Masz tu paliwo do miotacza p³omieni. Mo¿esz z tym coœ zrobiæ?}
-{301}{}{Daj mu poganiacz byd³a... tylko upewnij siê, ¿e z³apie go za RÊKOJEŒÆ.}
-{302}{}{Daj mu swoj¹ wspomagan¹ rêkawicê BeatCo "Bigger Frigger".}
-{400}{}{Moja zabiæ Al. Moja lepiej ju¿ iœæ.}
+{291}{}{Chcesz trochÄ™ pokombinowaÄ‡ z tym paliwem do miotacza pÅ‚omieni?}
+{292}{}{Masz tu paliwo do miotacza pÅ‚omieni. MoÅ¼esz z tym coÅ› zrobiÄ‡?}
+{301}{}{Daj mu poganiacz bydÅ‚a... tylko upewnij siÄ™, Å¼e zÅ‚apie go za RÄ˜KOJEÅšÄ†.}
+{302}{}{Daj mu swojÄ… wspomaganÄ… rÄ™kawicÄ™ BeatCo "Bigger Frigger".}
+{400}{}{Moja zabiÄ‡ Al. Moja lepiej juÅ¼ iÅ›Ä‡.}

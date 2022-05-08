@@ -1,16 +1,16 @@
-{100}{}{Egy ?rt látsz.}
-{101}{}{Becky Kaszinó Bárjának egyik ?rét látod.}
-{150}{}{Úgy t?nik, tolvajokat keres a tömegben.}
-{151}{}{Úgy t?nik, mintha minden jelenlév?n rajta tartaná a szemét.}
-{200}{}{Most aztán megkapod a magadét!}
-{201}{}{Most nem úszod meg!}
+{100}{}{Egy ?rt lÃ¡tsz.}
+{101}{}{Becky KaszinÃ³ BÃ¡rjÃ¡nak egyik ?rÃ©t lÃ¡tod.}
+{150}{}{Ãšgy t?nik, tolvajokat keres a tÃ¶megben.}
+{151}{}{Ãšgy t?nik, mintha minden jelenlÃ©v?n rajta tartanÃ¡ a szemÃ©t.}
+{200}{}{Most aztÃ¡n megkapod a magadÃ©t!}
+{201}{}{Most nem Ãºszod meg!}
 {210}{}{Bocs, de Becky nem akarja, hogy zavarjuk a kuncsaftokat.}
-{211}{}{Remélem, jól szórakozol.}
-{212}{}{Biztosíthatlak, hogy a tolvajokkal szemben nálunk a zéró tolerancia elve érvényesül.}
-{213}{}{E falakon belül biztonságban vagy.}
-{214}{}{Rebecca méri a legjobb piát.}
-{215}{}{Rebecca a legjobb f?nök, akinek eddig dolgoztam.}
-{216}{}{Szerencsésnek érzed magad ma este? Én blackjack-et játszom.}
-{217}{}{Arra találod Becky-t, ha valamire szükséged lenne.}
-{218}{}{Rebecca tisztességes asztalokat tart, próbálj szerencsét.}
-{230}{}{Ezt itt nem nézzük jó szemmel.}
+{211}{}{RemÃ©lem, jÃ³l szÃ³rakozol.}
+{212}{}{BiztosÃ­thatlak, hogy a tolvajokkal szemben nÃ¡lunk a zÃ©rÃ³ tolerancia elve Ã©rvÃ©nyesÃ¼l.}
+{213}{}{E falakon belÃ¼l biztonsÃ¡gban vagy.}
+{214}{}{Rebecca mÃ©ri a legjobb piÃ¡t.}
+{215}{}{Rebecca a legjobb f?nÃ¶k, akinek eddig dolgoztam.}
+{216}{}{SzerencsÃ©snek Ã©rzed magad ma este? Ã‰n blackjack-et jÃ¡tszom.}
+{217}{}{Arra talÃ¡lod Becky-t, ha valamire szÃ¼ksÃ©ged lenne.}
+{218}{}{Rebecca tisztessÃ©ges asztalokat tart, prÃ³bÃ¡lj szerencsÃ©t.}
+{230}{}{Ezt itt nem nÃ©zzÃ¼k jÃ³ szemmel.}

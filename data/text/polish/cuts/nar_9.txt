@@ -1,7 +1,7 @@
-1:Dokona³o siê.
-2:Krypta 13 nale¿y do Jednoœci i Mistrza.
-3:Twoja znajomoœæ systemów obronnych Krypty ocali³a podczas ataku wiele mutancich ¿ywotów.
-4:Uda³o ci siê osobiœcie zadaæ ostateczny cios, który odebra³ ¿ycie Opiekunowi.
-5:Z pewnoœci¹ staniesz siê jednym z najœwietniejszych ¿o³nierzy Jednoœci, a twoje umiejêtnoœci bêd¹ w przysz³oœci czêsto nagradzane.
-6:Odnajdujesz w ¿yciu szczêœcie.
-7:Lecz nadal pozostaje odrobina w¹tpliwoœci, co innego mog³o siê zdarzyæ...
+1:DokonaÅ‚o siÄ™.
+2:Krypta 13 naleÅ¼y do JednoÅ›ci i Mistrza.
+3:Twoja znajomoÅ›Ä‡ systemÃ³w obronnych Krypty ocaliÅ‚a podczas ataku wiele mutancich Å¼ywotÃ³w.
+4:UdaÅ‚o ci siÄ™ osobiÅ›cie zadaÄ‡ ostateczny cios, ktÃ³ry odebraÅ‚ Å¼ycie Opiekunowi.
+5:Z pewnoÅ›ciÄ… staniesz siÄ™ jednym z najÅ›wietniejszych Å¼oÅ‚nierzy JednoÅ›ci, a twoje umiejÄ™tnoÅ›ci bÄ™dÄ… w przyszÅ‚oÅ›ci czÄ™sto nagradzane.
+6:Odnajdujesz w Å¼yciu szczÄ™Å›cie.
+7:Lecz nadal pozostaje odrobina wÄ…tpliwoÅ›ci, co innego mogÅ‚o siÄ™ zdarzyÄ‡...

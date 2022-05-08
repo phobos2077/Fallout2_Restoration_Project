@@ -1,38 +1,38 @@
-{100}{}{Widzisz mê¿czyznê w stalowej zbroi.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ w stalowej zbroi.}
 {101}{}{To Joshua.}
-{102}{}{Widzisz mê¿czyznê w stalowej zbroi z symbolem b³yskawicy.}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ w stalowej zbroi z symbolem bÅ‚yskawicy.}
 {103}{}{Witaj,}
-{104}{}{. Jestem Joshua. Co mogê dla ciebie zrobiæ?}
-{105}{}{Sk¹d zna imiê?}
-{106}{}{Sk¹d znasz moje imiê?}
-{107}{}{Twoja dzia³alnoœæ zwróci³a uwagê kilku wa¿nych ludzi. Wieœci roznosz¹ siê w tych stronach zaskakuj¹co szybko. Pamiêtaj, ¿e jesteœ jedynie drobn¹ rybk¹ w oceanie pe³nym rekinów,}
+{104}{}{. Jestem Joshua. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{105}{}{SkÄ…d zna imiÄ™?}
+{106}{}{SkÄ…d znasz moje imiÄ™?}
+{107}{}{Twoja dziaÅ‚alnoÅ›Ä‡ zwrÃ³ciÅ‚a uwagÄ™ kilku waÅ¼nych ludzi. WieÅ›ci roznoszÄ… siÄ™ w tych stronach zaskakujÄ…co szybko. PamiÄ™taj, Å¼e jesteÅ› jedynie drobnÄ… rybkÄ… w oceanie peÅ‚nym rekinÃ³w,}
 {108}{}{.}
-{109}{}{Co znaczyæ?}
-{110}{}{Co chcesz przez to powiedzieæ?}
-{111}{}{Powiedzmy, ¿e jesteœ nowym pionkiem w wielkiej grze i jeszcze dok³adnie nie wiesz, jakie s¹ regu³y. Na tym œwiecie dziej¹ siê rzeczy wa¿niejsze od twoich poszukiwañ...}
-{112}{}{Mów dalej.}
-{113}{}{Mówi dalej, s³ucham.}
-{114}{}{Doœæ ju¿ powiedzia³em. Musisz wracaæ do swoich poszukiwañ.}
+{109}{}{Co znaczyÄ‡?}
+{110}{}{Co chcesz przez to powiedzieÄ‡?}
+{111}{}{Powiedzmy, Å¼e jesteÅ› nowym pionkiem w wielkiej grze i jeszcze dokÅ‚adnie nie wiesz, jakie sÄ… reguÅ‚y. Na tym Å›wiecie dziejÄ… siÄ™ rzeczy waÅ¼niejsze od twoich poszukiwaÅ„...}
+{112}{}{MÃ³w dalej.}
+{113}{}{MÃ³wi dalej, sÅ‚ucham.}
+{114}{}{DoÅ›Ä‡ juÅ¼ powiedziaÅ‚em. Musisz wracaÄ‡ do swoich poszukiwaÅ„.}
 {115}{}{Czekaj, u mnie pytanie.}
-{116}{}{Czekaj, chcê ciê o coœ zapytaæ.}
-{117}{}{Dobrze, odpowiem na jedno pytanie. Co chcesz wiedzieæ?}
-{118}{}{Wiedzieæ gdzie GECK?}
-{119}{}{Wiedzieæ gdzie Kruchta 13?}
-{120}{}{Moja szukaæ kupca Vic. Gdzie on?}
-{121}{}{Wiesz mo¿e, gdzie znajdê GECKa?}
-{122}{}{Nie wiesz gdzie znajduje siê Krypta 13?}
-{123}{}{Szukam kupca imieniem Vic. Wiesz mo¿e gdzie go znajdê?}
-{124}{}{GECKi wchodzi³y w sk³ad standardowego wyposa¿enia wszystkich krypt. Jeœli dobrze pamiêtam mia³y s³u¿yæ odbudowaniu cywilizacji po wyjœciu ludzi na powierzchniê. Zak³adam, ¿e obecnie GECKa mo¿na znaleŸæ wy³¹cznie w nietkniêtej krypcie. Powodzenia,}
-{125}{}{Dziêkujê.}
-{126}{}{S³ysza³em wiele opowieœci o Krypcie 13, ale ¿adna z nich nie wspomina o po³o¿eniu krypty. Powodzenia,}
-{127}{}{Dziêkujê.}
-{128}{}{Vic podpad³ ostatnio gildii ³owców niewolników. Tam go znajdziesz. Powodzenia,}
+{116}{}{Czekaj, chcÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{117}{}{Dobrze, odpowiem na jedno pytanie. Co chcesz wiedzieÄ‡?}
+{118}{}{WiedzieÄ‡ gdzie GECK?}
+{119}{}{WiedzieÄ‡ gdzie Kruchta 13?}
+{120}{}{Moja szukaÄ‡ kupca Vic. Gdzie on?}
+{121}{}{Wiesz moÅ¼e, gdzie znajdÄ™ GECKa?}
+{122}{}{Nie wiesz gdzie znajduje siÄ™ Krypta 13?}
+{123}{}{Szukam kupca imieniem Vic. Wiesz moÅ¼e gdzie go znajdÄ™?}
+{124}{}{GECKi wchodziÅ‚y w skÅ‚ad standardowego wyposaÅ¼enia wszystkich krypt. JeÅ›li dobrze pamiÄ™tam miaÅ‚y sÅ‚uÅ¼yÄ‡ odbudowaniu cywilizacji po wyjÅ›ciu ludzi na powierzchniÄ™. ZakÅ‚adam, Å¼e obecnie GECKa moÅ¼na znaleÅºÄ‡ wyÅ‚Ä…cznie w nietkniÄ™tej krypcie. Powodzenia,}
+{125}{}{DziÄ™kujÄ™.}
+{126}{}{SÅ‚yszaÅ‚em wiele opowieÅ›ci o Krypcie 13, ale Å¼adna z nich nie wspomina o poÅ‚oÅ¼eniu krypty. Powodzenia,}
+{127}{}{DziÄ™kujÄ™.}
+{128}{}{Vic podpadÅ‚ ostatnio gildii Å‚owcÃ³w niewolnikÃ³w. Tam go znajdziesz. Powodzenia,}
 {129}{}{Czekaj! Gdzie gil-dja?}
-{130}{}{Czekaj, mo¿esz mi powiedzieæ, gdzie jest ta gildia?}
+{130}{}{Czekaj, moÅ¼esz mi powiedzieÄ‡, gdzie jest ta gildia?}
 {131}{}{Witaj znowu. Nie mam ci nic nowego do powiedzenia.}
-{132}{}{. Có¿... Nie jesteœ ju¿ tym samym prostym dzikusem co kiedyœ. Zajrzyj kiedyœ do naszej siedziby w Republice Nowej Kalifornii. Myœlê, ¿e ci siê op³aci. A teraz, jeœli mi wybaczysz...}
+{132}{}{. CÃ³Å¼... Nie jesteÅ› juÅ¼ tym samym prostym dzikusem co kiedyÅ›. Zajrzyj kiedyÅ› do naszej siedziby w Republice Nowej Kalifornii. MyÅ›lÄ™, Å¼e ci siÄ™ opÅ‚aci. A teraz, jeÅ›li mi wybaczysz...}
 {133}{}{Witaj znowu. Nie mam ci nic nowego do powiedzenia.}
 {134}{}{Czekaj...}
-{135}{}{Do pomieszczenie zamkniête.}
+{135}{}{Do pomieszczenie zamkniÄ™te.}
 {136}{}{Nic tam po tobie.}
-{137}{}{To teren prywatny. Lepiej st¹d idŸ.}
+{137}{}{To teren prywatny. Lepiej stÄ…d idÅº.}

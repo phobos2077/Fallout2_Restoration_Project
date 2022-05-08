@@ -1,159 +1,159 @@
-{100}{}{Wallace asszisztensét, Skeev-et látod.}
-{101}{}{Egy vézna fiatalembert látsz, akinek a tekintete ide-oda cikázik.}
-{102}{}{Wallace asszisztensét, Skeev-et látod.}
-{103}{}{Egy vézna fiatalembert látsz, akinek a tekintete ide-oda cikázik.}
-{104}{}{Hé, maradt még néhány darab abból a... cuccból? Eladnám ?ket százötvenért, a haszon 10%-a tiéd.}
+{100}{}{Wallace asszisztensÃ©t, Skeev-et lÃ¡tod.}
+{101}{}{Egy vÃ©zna fiatalembert lÃ¡tsz, akinek a tekintete ide-oda cikÃ¡zik.}
+{102}{}{Wallace asszisztensÃ©t, Skeev-et lÃ¡tod.}
+{103}{}{Egy vÃ©zna fiatalembert lÃ¡tsz, akinek a tekintete ide-oda cikÃ¡zik.}
+{104}{}{HÃ©, maradt mÃ©g nÃ©hÃ¡ny darab abbÃ³l a... cuccbÃ³l? EladnÃ¡m ?ket szÃ¡zÃ¶tvenÃ©rt, a haszon 10%-a tiÃ©d.}
 {105}{}{T?nj el!}
-{106}{}{Kopj le! Számodra nincs mondanivalóm.}
-{107}{}{Ó... ö... Kapitány. Szép nap ez a mai, igaz?}
-{108}{}{Nahát, csak nem egy új Polgártárshoz van szerencsém?}
-{109}{}{Helló, "Polgártárs"!}
-{110}{}{Ide nem hozhatsz be mutánst!}
+{106}{}{Kopj le! SzÃ¡modra nincs mondanivalÃ³m.}
+{107}{}{Ã“... Ã¶... KapitÃ¡ny. SzÃ©p nap ez a mai, igaz?}
+{108}{}{NahÃ¡t, csak nem egy Ãºj PolgÃ¡rtÃ¡rshoz van szerencsÃ©m?}
+{109}{}{HellÃ³, "PolgÃ¡rtÃ¡rs"!}
+{110}{}{Ide nem hozhatsz be mutÃ¡nst!}
 {111}{}{Ide nem hozhatsz be ghoult!}
-{112}{}{Már bezártunk éjszakára. Gyere vissza reggel!}
-{113}{}{Nézd, Kívülálló! Ha vámügyed van, a hátsó szobában megtalálod Wallace-t, ? majd kiállítja a szükséges okmányokat. Értve vagyok?}
-{114}{}{Töl tokmány?}
+{112}{}{MÃ¡r bezÃ¡rtunk Ã©jszakÃ¡ra. Gyere vissza reggel!}
+{113}{}{NÃ©zd, KÃ­vÃ¼lÃ¡llÃ³! Ha vÃ¡mÃ¼gyed van, a hÃ¡tsÃ³ szobÃ¡ban megtalÃ¡lod Wallace-t, ? majd kiÃ¡llÃ­tja a szÃ¼ksÃ©ges okmÃ¡nyokat. Ã‰rtve vagyok?}
+{114}{}{TÃ¶l tokmÃ¡ny?}
 {115}{}{[Elcsoszogsz]}
-{116}{}{Értve. Egyébként mi ez a hely?}
-{117}{}{Köszönöm. Viszlát!}
-{118}{}{Amint azt a kinti felirat is hirdeti, ez a VÁMHIVATAL. Ha eddig még nem volt dolgod nálunk, akkor most mit keresel itt?}
-{119}{}{Egy Menedéket.}
-{120}{}{Szeretnék bejutni a városba.}
-{121}{}{Mivel te is a Vámhivatal munkatársa vagy, arra gondoltam, esetleg van valami tanácsod, hogy miként lehetne bejuttatni bizonyos tárgyakat a városba.}
-{122}{}{Semmit. Már itt sem vagyok.}
-{123}{}{Egy Menedéket? Az a városban van. Csak nem akarsz bejutni oda?}
+{116}{}{Ã‰rtve. EgyÃ©bkÃ©nt mi ez a hely?}
+{117}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{118}{}{Amint azt a kinti felirat is hirdeti, ez a VÃMHIVATAL. Ha eddig mÃ©g nem volt dolgod nÃ¡lunk, akkor most mit keresel itt?}
+{119}{}{Egy MenedÃ©ket.}
+{120}{}{SzeretnÃ©k bejutni a vÃ¡rosba.}
+{121}{}{Mivel te is a VÃ¡mhivatal munkatÃ¡rsa vagy, arra gondoltam, esetleg van valami tanÃ¡csod, hogy mikÃ©nt lehetne bejuttatni bizonyos tÃ¡rgyakat a vÃ¡rosba.}
+{122}{}{Semmit. MÃ¡r itt sem vagyok.}
+{123}{}{Egy MenedÃ©ket? Az a vÃ¡rosban van. Csak nem akarsz bejutni oda?}
 {124}{}{Igen.}
-{125}{}{Nem, csak kérdeztem.}
-{126}{}{Nos, ha gondolod, beszélj a f?nökömmel, Wallace-szal! MEGPRÓBÁLHATSZ szerezni t?le egy Napi Belép?t, de csak az id?det pocsékolod. Soha, senkit sem enged be. Természetesen... van más megoldás is.}
-{127}{}{Éspedig?}
-{128}{}{Köszönöm. Akkor megyek, és beszélek vele.}
-{129}{}{Mi a tanácsom? Nos, a tanácsok költséges dolgok, Kívülálló. Van pénzed?}
-{130}{}{Adsz neki 50 dollárt.}
-{131}{}{Adsz neki 75 dollárt.}
-{132}{}{Adsz neki 100 dollárt.}
-{133}{}{Valószín?leg nem elég, hogy érdekeljen. Visszajövök, ha több pénzem lesz.}
+{125}{}{Nem, csak kÃ©rdeztem.}
+{126}{}{Nos, ha gondolod, beszÃ©lj a f?nÃ¶kÃ¶mmel, Wallace-szal! MEGPRÃ“BÃLHATSZ szerezni t?le egy Napi BelÃ©p?t, de csak az id?det pocsÃ©kolod. Soha, senkit sem enged be. TermÃ©szetesen... van mÃ¡s megoldÃ¡s is.}
+{127}{}{Ã‰spedig?}
+{128}{}{KÃ¶szÃ¶nÃ¶m. Akkor megyek, Ã©s beszÃ©lek vele.}
+{129}{}{Mi a tanÃ¡csom? Nos, a tanÃ¡csok kÃ¶ltsÃ©ges dolgok, KÃ­vÃ¼lÃ¡llÃ³. Van pÃ©nzed?}
+{130}{}{Adsz neki 50 dollÃ¡rt.}
+{131}{}{Adsz neki 75 dollÃ¡rt.}
+{132}{}{Adsz neki 100 dollÃ¡rt.}
+{133}{}{ValÃ³szÃ­n?leg nem elÃ©g, hogy Ã©rdekeljen. VisszajÃ¶vÃ¶k, ha tÃ¶bb pÃ©nzem lesz.}
 {134}{}{Most nincs. Mennem kell.}
-{135}{}{Nos, van néhány lehet?ség. Az egyik az, hogy Polgár leszel. A Polgárokat sosem vizsgálják át. Persze annak az esélye, hogy bel?led valaha is Polgár lesz, finoman szólva is...  elenyész?.}
-{136}{}{Miért?}
-{137}{}{Mi mást lehet még tenni?}
-{138}{}{Inkább hagyjuk. Viszlát!}
-{139}{}{Ha nem született Polgár vagy, akkor egy tesztet kell kitöltened, hogy megkapd ezt a státuszt. Tudod mennyi azon Kívülállók száma, akik sikeresen levizsgáztak és Polgárok lettek? Nulla. A te esélyed? KEVESEBB, mint nulla.}
+{135}{}{Nos, van nÃ©hÃ¡ny lehet?sÃ©g. Az egyik az, hogy PolgÃ¡r leszel. A PolgÃ¡rokat sosem vizsgÃ¡ljÃ¡k Ã¡t. Persze annak az esÃ©lye, hogy bel?led valaha is PolgÃ¡r lesz, finoman szÃ³lva is...  elenyÃ©sz?.}
+{136}{}{MiÃ©rt?}
+{137}{}{Mi mÃ¡st lehet mÃ©g tenni?}
+{138}{}{InkÃ¡bb hagyjuk. ViszlÃ¡t!}
+{139}{}{Ha nem szÃ¼letett PolgÃ¡r vagy, akkor egy tesztet kell kitÃ¶ltened, hogy megkapd ezt a stÃ¡tuszt. Tudod mennyi azon KÃ­vÃ¼lÃ¡llÃ³k szÃ¡ma, akik sikeresen levizsgÃ¡ztak Ã©s PolgÃ¡rok lettek? Nulla. A te esÃ©lyed? KEVESEBB, mint nulla.}
 {140}{}{Mi ez a teszt?}
-{141}{}{Mi mást tehetnék?}
-{142}{}{Értem, viszlát!}
-{143}{}{Gregory F?biztos ad egy tesztlapot, amivel az intelligenciát és a felfogóképességet méri. Kivételesen jó koponyára, valamint hihetetlen nagy szerencsére van szükség a sikeres vizsgához. A legtöbb Polgár komoly gondban lenne vele.}
-{144}{}{Miért ilyen nehéz ez a teszt?}
-{145}{}{Felfogtam, de csak van egy másik megoldás is...}
-{146}{}{Értem, viszlát!}
-{147}{}{Mivel a legtöbb Kívülálló nem tud olvasni, trigonometriai számításokat végezni vagy kibet?zni azt, hogy "Australopithecus", könnyen kitalálhatod, mire megy ki a játék. Ez csak egy kifogás, hogy távoltartsák a Kívülállókat a Polgárságtól.}
-{148}{}{Felfogtam, de csak van egy másik megoldás is...}
-{149}{}{Értem, viszlát!}
-{150}{}{Rejtsd el a cuccokat a rabszolgáidnál... izé a "szolgáidnál", ott nem fogják keresni. Tudod, ez Menedékváros filozófiájából fakad. El sem tudják képzelni, hogy bárki is értékes dolgokat bízna a szolgáira. Ha nem hiszed, próbáld ki!}
-{151}{}{Más lehet?ség?}
-{152}{}{Rendben. Kösz.}
-{153}{}{Nos, Polgárrá VÁLHATSZ... nem hivatalosan is.}
-{154}{}{Mir?l beszélsz?}
-{155}{}{Értem, viszlát!}
-{156}{}{Ha van elég pénzed, részletesebben elmagyarázom.}
-{157}{}{Van pénzem. Mit kapok érte?}
-{158}{}{Inkább hagyjuk. Viszlát!}
+{141}{}{Mi mÃ¡st tehetnÃ©k?}
+{142}{}{Ã‰rtem, viszlÃ¡t!}
+{143}{}{Gregory F?biztos ad egy tesztlapot, amivel az intelligenciÃ¡t Ã©s a felfogÃ³kÃ©pessÃ©get mÃ©ri. KivÃ©telesen jÃ³ koponyÃ¡ra, valamint hihetetlen nagy szerencsÃ©re van szÃ¼ksÃ©g a sikeres vizsgÃ¡hoz. A legtÃ¶bb PolgÃ¡r komoly gondban lenne vele.}
+{144}{}{MiÃ©rt ilyen nehÃ©z ez a teszt?}
+{145}{}{Felfogtam, de csak van egy mÃ¡sik megoldÃ¡s is...}
+{146}{}{Ã‰rtem, viszlÃ¡t!}
+{147}{}{Mivel a legtÃ¶bb KÃ­vÃ¼lÃ¡llÃ³ nem tud olvasni, trigonometriai szÃ¡mÃ­tÃ¡sokat vÃ©gezni vagy kibet?zni azt, hogy "Australopithecus", kÃ¶nnyen kitalÃ¡lhatod, mire megy ki a jÃ¡tÃ©k. Ez csak egy kifogÃ¡s, hogy tÃ¡voltartsÃ¡k a KÃ­vÃ¼lÃ¡llÃ³kat a PolgÃ¡rsÃ¡gtÃ³l.}
+{148}{}{Felfogtam, de csak van egy mÃ¡sik megoldÃ¡s is...}
+{149}{}{Ã‰rtem, viszlÃ¡t!}
+{150}{}{Rejtsd el a cuccokat a rabszolgÃ¡idnÃ¡l... izÃ© a "szolgÃ¡idnÃ¡l", ott nem fogjÃ¡k keresni. Tudod, ez MenedÃ©kvÃ¡ros filozÃ³fiÃ¡jÃ¡bÃ³l fakad. El sem tudjÃ¡k kÃ©pzelni, hogy bÃ¡rki is Ã©rtÃ©kes dolgokat bÃ­zna a szolgÃ¡ira. Ha nem hiszed, prÃ³bÃ¡ld ki!}
+{151}{}{MÃ¡s lehet?sÃ©g?}
+{152}{}{Rendben. KÃ¶sz.}
+{153}{}{Nos, PolgÃ¡rrÃ¡ VÃLHATSZ... nem hivatalosan is.}
+{154}{}{Mir?l beszÃ©lsz?}
+{155}{}{Ã‰rtem, viszlÃ¡t!}
+{156}{}{Ha van elÃ©g pÃ©nzed, rÃ©szletesebben elmagyarÃ¡zom.}
+{157}{}{Van pÃ©nzem. Mit kapok Ã©rte?}
+{158}{}{InkÃ¡bb hagyjuk. ViszlÃ¡t!}
 {159}{}{Potom 200 dolcsi. Szinte ingyen van.}
-{160}{}{Kétszázért teljes érték? Polgárt csinálok bel?led. Szabad átjárásod lesz a kapun, semmi kérdez?sködés. Öt perc alatt kinyomtatom a papírjaidat és regisztrálom a nyilvántartási számod, aztán már mehetsz is.}
-{161}{}{Mi van, ha elárulom a f?nöködnek, hogy hamis polgársági igazolványt árulsz?}
-{162}{}{Rendben, itt a pénz.}
-{163}{}{Annyit nekem nem ér. 150 már jobban hangzik.}
-{164}{}{Annyi pénzem sajnos nincs. Viszlát!}
-{165}{}{Inkább hagyjuk, viszlát!}
-{166}{}{Egyszer?, nem fognak hinni neked. Te Kívülálló vagy, én Polgár. Szerinted kinek adnak majd igazat?}
-{167}{}{Kell! Megveszem a papírokat.}
-{168}{}{Megveszem a polgársági igazolványt... 150-ért.}
-{169}{}{Sajnálom, a 200 nekem soknak t?nik. Talán majd kés?bb visszajövök.}
-{170}{}{Értem, viszlát!}
-{171}{}{Hmmm... hát legyen... ma jótékonykodó hangulatban vagyok. Azért ne mondd el a Kívülálló haverjaidnak, hogy te ilyen olcsón szerezted!}
+{160}{}{KÃ©tszÃ¡zÃ©rt teljes Ã©rtÃ©k? PolgÃ¡rt csinÃ¡lok bel?led. Szabad Ã¡tjÃ¡rÃ¡sod lesz a kapun, semmi kÃ©rdez?skÃ¶dÃ©s. Ã–t perc alatt kinyomtatom a papÃ­rjaidat Ã©s regisztrÃ¡lom a nyilvÃ¡ntartÃ¡si szÃ¡mod, aztÃ¡n mÃ¡r mehetsz is.}
+{161}{}{Mi van, ha elÃ¡rulom a f?nÃ¶kÃ¶dnek, hogy hamis polgÃ¡rsÃ¡gi igazolvÃ¡nyt Ã¡rulsz?}
+{162}{}{Rendben, itt a pÃ©nz.}
+{163}{}{Annyit nekem nem Ã©r. 150 mÃ¡r jobban hangzik.}
+{164}{}{Annyi pÃ©nzem sajnos nincs. ViszlÃ¡t!}
+{165}{}{InkÃ¡bb hagyjuk, viszlÃ¡t!}
+{166}{}{Egyszer?, nem fognak hinni neked. Te KÃ­vÃ¼lÃ¡llÃ³ vagy, Ã©n PolgÃ¡r. Szerinted kinek adnak majd igazat?}
+{167}{}{Kell! Megveszem a papÃ­rokat.}
+{168}{}{Megveszem a polgÃ¡rsÃ¡gi igazolvÃ¡nyt... 150-Ã©rt.}
+{169}{}{SajnÃ¡lom, a 200 nekem soknak t?nik. TalÃ¡n majd kÃ©s?bb visszajÃ¶vÃ¶k.}
+{170}{}{Ã‰rtem, viszlÃ¡t!}
+{171}{}{Hmmm... hÃ¡t legyen... ma jÃ³tÃ©konykodÃ³ hangulatban vagyok. AzÃ©rt ne mondd el a KÃ­vÃ¼lÃ¡llÃ³ haverjaidnak, hogy te ilyen olcsÃ³n szerezted!}
 {172}{}{Rendben.}
-{173}{}{Sok a duma. Add már azokat a papírokat!}
-{174}{}{Kész is vagyunk. Parancsolj... "Polgártárs", de senkinek se beszélj róla, különösen Wallace-nak ne, oké?}
-{175}{}{Oké. Sose tennék ilyet egy Polgártárssal, különösen úgy nem, hogy az illegális tevékenységének bizonyítékai itt lapulnak a zsebemben.}
-{176}{}{Rendben, ne aggódj!}
-{177}{}{Csak bátran, senki nem fog hinni neked, kígyó! A szavad nem ér annyit, mint az enyém.}
-{178}{}{Úgy gondolod, pocok? Én másképp látom. Ezek a hamis papírok önmagukért beszélnek és fognak is, ha nem fizeted meg a hallgatásukat.}
-{179}{}{Oké, úgy lesz. Viszlát!}
-{180}{}{Te... rohadék... te... szemét ÁLLAT!}
-{181}{}{A f?nököd itt van a szomszédban... én a helyedben hangtompítót csavarnék a pofámra!}
-{182}{}{Hízelgéssel nálam nem mész semmire, Skeev.}
-{183}{}{Jól van... nyertél. Van egy kis félretett pénzem... háromszáz... vigyed! Tehát hallgatni fogsz?}
-{184}{}{Nem is tudom, imádok beszélni. Majd meglátjuk. Viszlát!}
-{185}{}{Jól van, higgadj le! Ígérem, köztünk marad a dolog.}
-{186}{}{Kétszáz, egy vassal se kevesebb. Ez az egyetlen módja, hogy bejuss a kapun. Most akkor kell vagy nem?}
-{187}{}{Azt hiszem, megpróbálom a hivatalos utat.}
-{188}{}{Kösz nem.}
-{189}{}{Sok szerencsét, Kívülálló. Az egyetlen módja, hogy Napi Belép?t szerezz Wallace-tól az, hogy a merev, halott ujjai közül téped ki.}
-{190}{}{Akkoris megpróbálom.}
-{191}{}{Ha másképp nem megy, hát legyen.}
+{173}{}{Sok a duma. Add mÃ¡r azokat a papÃ­rokat!}
+{174}{}{KÃ©sz is vagyunk. Parancsolj... "PolgÃ¡rtÃ¡rs", de senkinek se beszÃ©lj rÃ³la, kÃ¼lÃ¶nÃ¶sen Wallace-nak ne, okÃ©?}
+{175}{}{OkÃ©. Sose tennÃ©k ilyet egy PolgÃ¡rtÃ¡rssal, kÃ¼lÃ¶nÃ¶sen Ãºgy nem, hogy az illegÃ¡lis tevÃ©kenysÃ©gÃ©nek bizonyÃ­tÃ©kai itt lapulnak a zsebemben.}
+{176}{}{Rendben, ne aggÃ³dj!}
+{177}{}{Csak bÃ¡tran, senki nem fog hinni neked, kÃ­gyÃ³! A szavad nem Ã©r annyit, mint az enyÃ©m.}
+{178}{}{Ãšgy gondolod, pocok? Ã‰n mÃ¡skÃ©pp lÃ¡tom. Ezek a hamis papÃ­rok Ã¶nmagukÃ©rt beszÃ©lnek Ã©s fognak is, ha nem fizeted meg a hallgatÃ¡sukat.}
+{179}{}{OkÃ©, Ãºgy lesz. ViszlÃ¡t!}
+{180}{}{Te... rohadÃ©k... te... szemÃ©t ÃLLAT!}
+{181}{}{A f?nÃ¶kÃ¶d itt van a szomszÃ©dban... Ã©n a helyedben hangtompÃ­tÃ³t csavarnÃ©k a pofÃ¡mra!}
+{182}{}{HÃ­zelgÃ©ssel nÃ¡lam nem mÃ©sz semmire, Skeev.}
+{183}{}{JÃ³l van... nyertÃ©l. Van egy kis fÃ©lretett pÃ©nzem... hÃ¡romszÃ¡z... vigyed! TehÃ¡t hallgatni fogsz?}
+{184}{}{Nem is tudom, imÃ¡dok beszÃ©lni. Majd meglÃ¡tjuk. ViszlÃ¡t!}
+{185}{}{JÃ³l van, higgadj le! ÃgÃ©rem, kÃ¶ztÃ¼nk marad a dolog.}
+{186}{}{KÃ©tszÃ¡z, egy vassal se kevesebb. Ez az egyetlen mÃ³dja, hogy bejuss a kapun. Most akkor kell vagy nem?}
+{187}{}{Azt hiszem, megprÃ³bÃ¡lom a hivatalos utat.}
+{188}{}{KÃ¶sz nem.}
+{189}{}{Sok szerencsÃ©t, KÃ­vÃ¼lÃ¡llÃ³. Az egyetlen mÃ³dja, hogy Napi BelÃ©p?t szerezz Wallace-tÃ³l az, hogy a merev, halott ujjai kÃ¶zÃ¼l tÃ©ped ki.}
+{190}{}{Akkoris megprÃ³bÃ¡lom.}
+{191}{}{Ha mÃ¡skÃ©pp nem megy, hÃ¡t legyen.}
 {192}{}{Meggondoltad magad?}
 {193}{}{Megint te vagy?! Mit akarsz?}
 {194}{}{Akar? Akar!}
 {195}{}{[Elcsoszogsz]}
-{196}{}{Mi ez a hely tulajdonképpen?}
-{197}{}{Szeretnék bejutni a városba.}
-{198}{}{Szeretném megvenni a polgársági igazolványt.}
-{199}{}{Úgy döntöttem, feldoblak, amiért hamis papírokkal seftelsz.}
-{200}{}{Mivel te is a Vámhivatal munkatársa vagy, arra gondoltam, esetleg van valami tanácsod, hogy miként lehetne bejuttatni bizonyos tárgyakat a városba.}
-{201}{}{Értem.}
-{202}{}{Figyelj, te ostoba barom! Takarodj innen, vagy hívom az ?rséget!}
-{203}{}{Figyelj, te ostoba barom, takarodj innen vagy... mmmm... Várj... hrrggg... egy percet. Talán...}
+{196}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{197}{}{SzeretnÃ©k bejutni a vÃ¡rosba.}
+{198}{}{SzeretnÃ©m megvenni a polgÃ¡rsÃ¡gi igazolvÃ¡nyt.}
+{199}{}{Ãšgy dÃ¶ntÃ¶ttem, feldoblak, amiÃ©rt hamis papÃ­rokkal seftelsz.}
+{200}{}{Mivel te is a VÃ¡mhivatal munkatÃ¡rsa vagy, arra gondoltam, esetleg van valami tanÃ¡csod, hogy mikÃ©nt lehetne bejuttatni bizonyos tÃ¡rgyakat a vÃ¡rosba.}
+{201}{}{Ã‰rtem.}
+{202}{}{Figyelj, te ostoba barom! Takarodj innen, vagy hÃ­vom az ?rsÃ©get!}
+{203}{}{Figyelj, te ostoba barom, takarodj innen vagy... mmmm... VÃ¡rj... hrrggg... egy percet. TalÃ¡n...}
 {204}{}{Hurnh?}
 {205}{}{[Elcsoszogsz]}
 {206}{}{Gyere velem, te agyhalott. Van itt valaki, akinek be akarlak mutatni.}
-{207}{}{Okéé-zsokééé.}
-{208}{}{Neh-eh ÉN MARAD.}
-{209}{}{Ezt a Kívülállót a pusztaságban találtam, Barkus. Nekem úgy t?nik, kiváló szolga lenne bel?le.}
-{210}{}{Ezt a díszes társaságot a pusztaságban találtam, Barkus. Nekem úgy t?nik, ez a Kívülálló itt remek szolga lenne.}
+{207}{}{OkÃ©Ã©-zsokÃ©Ã©Ã©.}
+{208}{}{Neh-eh Ã‰N MARAD.}
+{209}{}{Ezt a KÃ­vÃ¼lÃ¡llÃ³t a pusztasÃ¡gban talÃ¡ltam, Barkus. Nekem Ãºgy t?nik, kivÃ¡lÃ³ szolga lenne bel?le.}
+{210}{}{Ezt a dÃ­szes tÃ¡rsasÃ¡got a pusztasÃ¡gban talÃ¡ltam, Barkus. Nekem Ãºgy t?nik, ez a KÃ­vÃ¼lÃ¡llÃ³ itt remek szolga lenne.}
 {211}{}{2 Seconds}
-{212}{}{Most ugye csak viccelsz? Ez itt nyilvánvalóan fogyatékos.}
+{212}{}{Most ugye csak viccelsz? Ez itt nyilvÃ¡nvalÃ³an fogyatÃ©kos.}
 {213}{}{1 Second, don't remove Barkus' float yet.}
-{214}{}{Foggya-téé-kos! Buuuuu!}
+{214}{}{Foggya-tÃ©Ã©-kos! Buuuuu!}
 {215}{}{2 Seconds}
-{216}{}{Ne izélj már! Biztos szükséged van valakire, aki kiganézza a Menedéket.}
+{216}{}{Ne izÃ©lj mÃ¡r! Biztos szÃ¼ksÃ©ged van valakire, aki kiganÃ©zza a MenedÃ©ket.}
 {217}{}{1 Second, don't remove Barkus' float yet.}
-{218}{}{Mendnek! Élhett!}
+{218}{}{Mendnek! Ã‰lhett!}
 {219}{}{2 Seconds}
-{220}{}{Nos... hmmm... gondolom számítasz némi "megtalálói" jutalékra.}
+{220}{}{Nos... hmmm... gondolom szÃ¡mÃ­tasz nÃ©mi "megtalÃ¡lÃ³i" jutalÃ©kra.}
 {221}{}{2 Seconds}
-{222}{}{Még szép.}
+{222}{}{MÃ©g szÃ©p.}
 {223}{}{1 Second, Don't remove Skeev's float}
-{224}{}{Méééé? Szééééééé!}
+{224}{}{MÃ©Ã©Ã©Ã©? SzÃ©Ã©Ã©Ã©Ã©Ã©Ã©!}
 {225}{}{1 Second}
-{226}{}{Tessék, itt van. ?t meg beküldöm a Menedékbe, talán arra még jó, hogy kitakarítsa a raktárat.}
-{227}{}{Héé!! Hát te meg hogy szöktél meg?}
-{228}{}{Héé!! Hogy szöktél meg? Jobb lesz ha most visszamegyünk, miel?tt Barkus bácsi ideges lesz. Na, gyere szépen!}
-{229}{}{Oh-kéééé}
+{226}{}{TessÃ©k, itt van. ?t meg bekÃ¼ldÃ¶m a MenedÃ©kbe, talÃ¡n arra mÃ©g jÃ³, hogy kitakarÃ­tsa a raktÃ¡rat.}
+{227}{}{HÃ©Ã©!! HÃ¡t te meg hogy szÃ¶ktÃ©l meg?}
+{228}{}{HÃ©Ã©!! Hogy szÃ¶ktÃ©l meg? Jobb lesz ha most visszamegyÃ¼nk, miel?tt Barkus bÃ¡csi ideges lesz. Na, gyere szÃ©pen!}
+{229}{}{Oh-kÃ©Ã©Ã©Ã©}
 {230}{}{[Elcsoszogsz]}
-{231}{}{Mint azt már mondtam, 200-ért teljes érték? Polgárt csinálok bel?led. Szabad belépésed lesz a kapun, semmi motozás. A nyilvántartási számodat öt perc alatt regisztrálom, aztán már mehetsz is.}
-{232}{}{Hogy lehet bel?lem igazi Polgár?}
-{233}{}{Pedig pont ez a szándékom. Most szépen fogom magam, odabattyogok hozzá és elsusogom neki, hogy hamis papírokkal kereskedsz.}
-{234}{}{Tévedsz. Én nagyon meggy?z? tudok lenni, ha kell.}
-{235}{}{Hamarosan kiderül.}
+{231}{}{Mint azt mÃ¡r mondtam, 200-Ã©rt teljes Ã©rtÃ©k? PolgÃ¡rt csinÃ¡lok bel?led. Szabad belÃ©pÃ©sed lesz a kapun, semmi motozÃ¡s. A nyilvÃ¡ntartÃ¡si szÃ¡modat Ã¶t perc alatt regisztrÃ¡lom, aztÃ¡n mÃ¡r mehetsz is.}
+{232}{}{Hogy lehet bel?lem igazi PolgÃ¡r?}
+{233}{}{Pedig pont ez a szÃ¡ndÃ©kom. Most szÃ©pen fogom magam, odabattyogok hozzÃ¡ Ã©s elsusogom neki, hogy hamis papÃ­rokkal kereskedsz.}
+{234}{}{TÃ©vedsz. Ã‰n nagyon meggy?z? tudok lenni, ha kell.}
+{235}{}{Hamarosan kiderÃ¼l.}
 {236}{}{Ugyan...  Wallace sosem fog hinni neked.}
-{237}{}{Igazán? Még úgy sem, hogy az orra el?tt lobogtatom az általad készített, hamis papírokat? Természetesen eszembe sincs ilyet tenni... ha alaposan lezsírozod a tenyeremet.}
-{238}{}{Hamarosan kiderül.}
-{239}{}{Kell! Megveszem a papírokat.}
-{240}{}{Sajnálom, a 200 nekem soknak t?nik. Talán majd kés?bb visszajövök.}
+{237}{}{IgazÃ¡n? MÃ©g Ãºgy sem, hogy az orra el?tt lobogtatom az Ã¡ltalad kÃ©szÃ­tett, hamis papÃ­rokat? TermÃ©szetesen eszembe sincs ilyet tenni... ha alaposan lezsÃ­rozod a tenyeremet.}
+{238}{}{Hamarosan kiderÃ¼l.}
+{239}{}{Kell! Megveszem a papÃ­rokat.}
+{240}{}{SajnÃ¡lom, a 200 nekem soknak t?nik. TalÃ¡n majd kÃ©s?bb visszajÃ¶vÃ¶k.}
 {241}{}{Dolgom van, mennem kell.}
-{242}{}{Hogy lehet bel?lem igazi Polgár?}
-{243}{}{Mit is mondtál, mennyibe kerülnek azok a papírok?}
-{244}{}{Az nem gond. Az efféle "ügyintézésben" profi vagyok.}
-{245}{}{Hogy lehet valakib?l igazi Polgár?}
-{246}{}{Hagyjuk, viszlát!}
+{242}{}{Hogy lehet bel?lem igazi PolgÃ¡r?}
+{243}{}{Mit is mondtÃ¡l, mennyibe kerÃ¼lnek azok a papÃ­rok?}
+{244}{}{Az nem gond. Az effÃ©le "Ã¼gyintÃ©zÃ©sben" profi vagyok.}
+{245}{}{Hogy lehet valakib?l igazi PolgÃ¡r?}
+{246}{}{Hagyjuk, viszlÃ¡t!}
 {247}{}{Dolgom van, mennem kell.}
-{248}{}{Ha nem született Polgár vagy, akkor egy tesztet kell kitöltened, hogy megkapd ezt a státuszt. Tudod, mennyi azon Kívülállók száma, akik elvégezték a tesztet és Polgárok lettek?... Nulla... A te esélyed?... a nullánál is kevesebb.}
+{248}{}{Ha nem szÃ¼letett PolgÃ¡r vagy, akkor egy tesztet kell kitÃ¶ltened, hogy megkapd ezt a stÃ¡tuszt. Tudod, mennyi azon KÃ­vÃ¼lÃ¡llÃ³k szÃ¡ma, akik elvÃ©geztÃ©k a tesztet Ã©s PolgÃ¡rok lettek?... Nulla... A te esÃ©lyed?... a nullÃ¡nÃ¡l is kevesebb.}
 {249}{}{Mi ez a teszt?}
-{250}{}{Értem. Mennyibe is kerülnek azok a papírok?}
-{251}{}{Értem, viszlát!}
-{252}{}{Gregory F?biztos ad egy tesztlapot. Az intelligenciát és a felfogóképességet méri vele, de kivételesen jó koponyára, valamint hihetetlen szerencsére van szükség ahhoz, hogy sikerüljön a vizsga. A legtöbb Polgár komoly gondban lenne vele.}
-{253}{}{Miért ilyen nehéz ez a teszt?}
-{254}{}{Értem. Mennyibe is kerülnek azok a papírok?}
-{255}{}{Még meggondolom a dolgot, viszlát!}
-{256}{}{Hát nem érted? A legtöbb Kívülálló még olvasni sem tud, nemhogy trigonometriai számításokat végezni, vagy felelni arra a kérdésre, hogy mi az az "Australopithecus". Könnyen kitalálhatod, mire megy ki a játék. Ezzel tartják távol a Kívülállókat a Polgárságtól.}
-{257}{}{Értem. Mennyibe is kerülnek azok a papírok?}
-{258}{}{Világos, most mennem kell.}
+{250}{}{Ã‰rtem. Mennyibe is kerÃ¼lnek azok a papÃ­rok?}
+{251}{}{Ã‰rtem, viszlÃ¡t!}
+{252}{}{Gregory F?biztos ad egy tesztlapot. Az intelligenciÃ¡t Ã©s a felfogÃ³kÃ©pessÃ©get mÃ©ri vele, de kivÃ©telesen jÃ³ koponyÃ¡ra, valamint hihetetlen szerencsÃ©re van szÃ¼ksÃ©g ahhoz, hogy sikerÃ¼ljÃ¶n a vizsga. A legtÃ¶bb PolgÃ¡r komoly gondban lenne vele.}
+{253}{}{MiÃ©rt ilyen nehÃ©z ez a teszt?}
+{254}{}{Ã‰rtem. Mennyibe is kerÃ¼lnek azok a papÃ­rok?}
+{255}{}{MÃ©g meggondolom a dolgot, viszlÃ¡t!}
+{256}{}{HÃ¡t nem Ã©rted? A legtÃ¶bb KÃ­vÃ¼lÃ¡llÃ³ mÃ©g olvasni sem tud, nemhogy trigonometriai szÃ¡mÃ­tÃ¡sokat vÃ©gezni, vagy felelni arra a kÃ©rdÃ©sre, hogy mi az az "Australopithecus". KÃ¶nnyen kitalÃ¡lhatod, mire megy ki a jÃ¡tÃ©k. Ezzel tartjÃ¡k tÃ¡vol a KÃ­vÃ¼lÃ¡llÃ³kat a PolgÃ¡rsÃ¡gtÃ³l.}
+{257}{}{Ã‰rtem. Mennyibe is kerÃ¼lnek azok a papÃ­rok?}
+{258}{}{VilÃ¡gos, most mennem kell.}

@@ -1,1 +1,1 @@
-{100}{}{Tu vois une porte sans poignée ou verrou apparent.}
+{100}{}{Tu vois une porte sans poignÃ©e ou verrou apparent.}

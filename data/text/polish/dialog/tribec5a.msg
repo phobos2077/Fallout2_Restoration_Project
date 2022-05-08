@@ -1,2 +1,2 @@
-{100}{}{Widzisz zw≥oki m≥odej dziewczyny.}
-{101}{}{Pomimo, øe cia≥o zosta≥o juø czÍúciowo zjedzone przez szczury i inne stworzenia, dostrzegasz rany k≥ute a jej twarz jednoznacznie wskazuje na ogrom cierpienia jakiego dozna≥a. Dusza tej dziewczyny jest z pewnoúciπ niespokojna.}
+{100}{}{Widzisz zw≈Çoki m≈Çodej dziewczyny.}
+{101}{}{Pomimo, ≈ºe cia≈Ço zosta≈Ço ju≈º czƒô≈õciowo zjedzone przez szczury i inne stworzenia, dostrzegasz rany k≈Çute a jej twarz jednoznacznie wskazuje na ogrom cierpienia jakiego dozna≈Ça. Dusza tej dziewczyny jest z pewno≈õciƒÖ niespokojna.}

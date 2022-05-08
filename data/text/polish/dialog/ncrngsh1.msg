@@ -1,1 +1,1 @@
-{100}{}{Jesteœ na obszarze pustynnym. Kryjówka Stra¿ników jest gdzieœ w pobli¿u.}
+{100}{}{JesteÅ› na obszarze pustynnym. KryjÃ³wka StraÅ¼nikÃ³w jest gdzieÅ› w pobliÅ¼u.}

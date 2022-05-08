@@ -1,71 +1,71 @@
 {100}{}{Ves a un hombre con uniforme militar.}
-{101}{}{Ves a Quincy, el mecánico.}
-{102}{}{Ves a un hombre con uniforme militar. Por las manchas de grasa dirías que es más un mecánico que un soldado.}
-{103}{}{Mi nombre es Quincy, soldado. ¿Por qué me golpeas el hombro?}
-{104}{}{Tengo preguntar algo a tú.}
+{101}{}{Ves a Quincy, el mecÃ¡nico.}
+{102}{}{Ves a un hombre con uniforme militar. Por las manchas de grasa dirÃ­as que es mÃ¡s un mecÃ¡nico que un soldado.}
+{103}{}{Mi nombre es Quincy, soldado. Â¿Por quÃ© me golpeas el hombro?}
+{104}{}{Tengo preguntar algo a tÃº.}
 {105}{}{Nada.}
 {106}{}{Hola. Necesito preguntarte una cosa.}
 {107}{}{No importa.}
-{108}{}{De acuerdo, pero que sea rápido. Tengo que hacer el inventario.}
-{109}{}{¿Qué quieres saber?}
-{110}{}{¿Qué es este lugar?}
-{111}{}{Yo busco planos de v-vertibirds. ¿Dónde hay?}
-{112}{}{Técnico dijo que yo encuentro planos de v-vertibirds aquí.}
+{108}{}{De acuerdo, pero que sea rÃ¡pido. Tengo que hacer el inventario.}
+{109}{}{Â¿QuÃ© quieres saber?}
+{110}{}{Â¿QuÃ© es este lugar?}
+{111}{}{Yo busco planos de v-vertibirds. Â¿DÃ³nde hay?}
+{112}{}{TÃ©cnico dijo que yo encuentro planos de v-vertibirds aquÃ­.}
 {113}{}{Yo irme ahora.}
-{114}{}{¿Qué lugar es éste?}
-{115}{}{Estoy buscando los planos de los vertibirds. ¿Sabes dónde puedo encontrarlos?}
-{116}{}{Un técnico me dijo que podría encontrar los planos de los vertibirds aquí.}
+{114}{}{Â¿QuÃ© lugar es Ã©ste?}
+{115}{}{Estoy buscando los planos de los vertibirds. Â¿Sabes dÃ³nde puedo encontrarlos?}
+{116}{}{Un tÃ©cnico me dijo que podrÃ­a encontrar los planos de los vertibirds aquÃ­.}
 {117}{}{Bueno, tengo que irme.}
-{118}{}{Esto es Mantenimiento. Aquí reparamos prácticamente todo salvo los vertibirds.}
-{119}{}{¿Dónde arreglan v-vertibirds?}
-{120}{}{¿Dónde se reparan los vertibirds?}
-{121}{}{Sólo caben en el hangar o en el exterior. A partir de ahí te dejo que lo averigües, ¿vale?}
+{118}{}{Esto es Mantenimiento. AquÃ­ reparamos prÃ¡cticamente todo salvo los vertibirds.}
+{119}{}{Â¿DÃ³nde arreglan v-vertibirds?}
+{120}{}{Â¿DÃ³nde se reparan los vertibirds?}
+{121}{}{SÃ³lo caben en el hangar o en el exterior. A partir de ahÃ­ te dejo que lo averigÃ¼es, Â¿vale?}
 {122}{}{Oh... vale.}
 {123}{}{Oh, de acuerdo. Capto el mensaje.}
-{124}{}{Bueno... Tengo una copia de los planos pero no puedo dársela a cualquiera que me la pida. ¿Para qué los quieres?}
+{124}{}{Bueno... Tengo una copia de los planos pero no puedo dÃ¡rsela a cualquiera que me la pida. Â¿Para quÃ© los quieres?}
 {125}{}{Tengo amigos en el sur que quieren.}
 {126}{}{Eh... bueno...}
-{127}{}{Tengo unos amigos al sur de aquí que quieren hacerse con ellos.}
+{127}{}{Tengo unos amigos al sur de aquÃ­ que quieren hacerse con ellos.}
 {128}{}{El sargento me dijo que los consiguiera.}
-{129}{}{Al sur... ¡Hostia puta! ¡Tenemos un espía aquí! ¡Guardias! ¡Alerta!}
+{129}{}{Al sur... Â¡Hostia puta! Â¡Tenemos un espÃ­a aquÃ­! Â¡Guardias! Â¡Alerta!}
 {130}{}{Ups.}
-{131}{}{Ups. Esta vez metí la pata.}
-{132}{}{Eres un poco corto, ¿no? Bueno, os llaman carne de cañón por algo. Mira, Einstein, no puedo darte los planos sin una autorización, ¿vale? Así que vuelve a donde quiera que te hayan enviado y trae los papeles necesarios.}
-{133}{}{Mira, Einstein, no puedo darte los planos sin una autorización, ¿vale? Así que vuelve a donde quiera que te hayan enviado y trae los papeles necesarios.}
+{131}{}{Ups. Esta vez metÃ­ la pata.}
+{132}{}{Eres un poco corto, Â¿no? Bueno, os llaman carne de caÃ±Ã³n por algo. Mira, Einstein, no puedo darte los planos sin una autorizaciÃ³n, Â¿vale? AsÃ­ que vuelve a donde quiera que te hayan enviado y trae los papeles necesarios.}
+{133}{}{Mira, Einstein, no puedo darte los planos sin una autorizaciÃ³n, Â¿vale? AsÃ­ que vuelve a donde quiera que te hayan enviado y trae los papeles necesarios.}
 {134}{}{Vale, marcho.}
-{135}{}{No. Uno: te disparo a tú. Dos: encuentro planos, y... ¿cuál es después de dos?}
-{136}{}{Eh, tienes razón.}
-{137}{}{No, creo que en vez de eso te meteré un tiro y buscaré los planos mientras te desangras.}
-{138}{}{Un técnico te dijo... ¿Hablas de Raúl? ¿Él te ha enviado?}
-{139}{}{Eh, sí.}
+{135}{}{No. Uno: te disparo a tÃº. Dos: encuentro planos, y... Â¿cuÃ¡l es despuÃ©s de dos?}
+{136}{}{Eh, tienes razÃ³n.}
+{137}{}{No, creo que en vez de eso te meterÃ© un tiro y buscarÃ© los planos mientras te desangras.}
+{138}{}{Un tÃ©cnico te dijo... Â¿Hablas de RaÃºl? Â¿Ã‰l te ha enviado?}
+{139}{}{Eh, sÃ­.}
 {140}{}{Uh, no.}
-{141}{}{Sí, ese es el tipo.}
-{142}{}{No, no creo que fuera Raúl.}
-{143}{}{¡Maldita sea! Mira, Raúl perdería la cabeza si no estuviera yo para sujetársela. ¡Esta es la tercera vez este trimestre que pierde los dichosos planos! ¿Y ahora ni siquiera tiene los huevos de venir aquí y pedírmelos? Bien, están en la taquilla de ahí. Ah, y cuando se los des, dile a ese gilipollas que quiero verle.}
+{141}{}{SÃ­, ese es el tipo.}
+{142}{}{No, no creo que fuera RaÃºl.}
+{143}{}{Â¡Maldita sea! Mira, RaÃºl perderÃ­a la cabeza si no estuviera yo para sujetÃ¡rsela. Â¡Esta es la tercera vez este trimestre que pierde los dichosos planos! Â¿Y ahora ni siquiera tiene los huevos de venir aquÃ­ y pedÃ­rmelos? Bien, estÃ¡n en la taquilla de ahÃ­. Ah, y cuando se los des, dile a ese gilipollas que quiero verle.}
 {144}{}{Gracias.}
-{145}{}{Así que has vuelto. ¿Has conseguido la autorización?}
-{146}{}{¿Tú otra vez? ¿Qué pasa ahora?}
-{147}{}{Sí, yo tengo rifle plasma. ¡Eso suficiente!}
-{148}{}{No, aún no.}
-{149}{}{Sí, aquí tengo un arma enorme de cojones. ¡Es suficiente autorización para mi!}
-{150}{}{No, aún no.}
+{145}{}{AsÃ­ que has vuelto. Â¿Has conseguido la autorizaciÃ³n?}
+{146}{}{Â¿TÃº otra vez? Â¿QuÃ© pasa ahora?}
+{147}{}{SÃ­, yo tengo rifle plasma. Â¡Eso suficiente!}
+{148}{}{No, aÃºn no.}
+{149}{}{SÃ­, aquÃ­ tengo un arma enorme de cojones. Â¡Es suficiente autorizaciÃ³n para mi!}
+{150}{}{No, aÃºn no.}
 {151}{}{Yo pregunto algo.}
-{152}{}{Yo sólo digo hola.}
+{152}{}{Yo sÃ³lo digo hola.}
 {153}{}{Necesito preguntarte algo.}
-{154}{}{Nada, sólo pasaba a saludar.}
-{155}{}{¿Estás loco? ¿Andando por aquí sin el uniforme? ¡Ve a vestirte ahora mismo!}
+{154}{}{Nada, sÃ³lo pasaba a saludar.}
+{155}{}{Â¿EstÃ¡s loco? Â¿Andando por aquÃ­ sin el uniforme? Â¡Ve a vestirte ahora mismo!}
 {156}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}
-{157}{}{¿Por qué no llevas puesto el uniforme?}
-{158}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}
-{159}{}{¡Intrusos! ¡Avisad a los guardias!}
-{160}{}{¡Guardias! ¡Intrusos en Mantenimiento!}
-{161}{}{¿Qué pasa? ¿Nos atacan?}
-{162}{}{¿A qué viene la alerta? ¿Qué está ocurriendo?}
-{163}{}{¿Qué carajo está pasando?}
-{164}{}{¡Eh! No registres los cajones.}
-{165}{}{¡Te dije que no tocaras mis cosas! ¡Guardias!}
-{200}{}{Sí. Bueno, no te creas todo lo que digan.}
-{201}{}{¿Quién te dijo eso? Porque después de ti será el siguiente que reciba una hostia.}
-{300}{}{¿Acaso no ves que estoy ocupado?}
-{301}{}{¡Eh! ¡No registres los cajones!}
-{302}{}{¡Te dije que no tocaras mis cosas! ¡Guardias!}
+{157}{}{Â¿Por quÃ© no llevas puesto el uniforme?}
+{158}{}{Â¡Ay, carajo! Â¡Nos invaden! Â¡Alerta!}
+{159}{}{Â¡Intrusos! Â¡Avisad a los guardias!}
+{160}{}{Â¡Guardias! Â¡Intrusos en Mantenimiento!}
+{161}{}{Â¿QuÃ© pasa? Â¿Nos atacan?}
+{162}{}{Â¿A quÃ© viene la alerta? Â¿QuÃ© estÃ¡ ocurriendo?}
+{163}{}{Â¿QuÃ© carajo estÃ¡ pasando?}
+{164}{}{Â¡Eh! No registres los cajones.}
+{165}{}{Â¡Te dije que no tocaras mis cosas! Â¡Guardias!}
+{200}{}{SÃ­. Bueno, no te creas todo lo que digan.}
+{201}{}{Â¿QuiÃ©n te dijo eso? Porque despuÃ©s de ti serÃ¡ el siguiente que reciba una hostia.}
+{300}{}{Â¿Acaso no ves que estoy ocupado?}
+{301}{}{Â¡Eh! Â¡No registres los cajones!}
+{302}{}{Â¡Te dije que no tocaras mis cosas! Â¡Guardias!}

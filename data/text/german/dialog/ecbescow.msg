@@ -1,1 +1,1 @@
-{100}{}{Sieht so aus, als wäre es verdurstet.}
+{100}{}{Sieht so aus, als wÃ¤re es verdurstet.}

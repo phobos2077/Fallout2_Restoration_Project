@@ -5,16 +5,16 @@
 {104}{}{NCR meddling do-gooder! I got a cure for you.}
 {105}{}{Vortis, we've got an intruder!}
 {106}{}{Guards! Alert!}
-{107}{}{O que você quer?}
+{107}{}{O que vocÃª quer?}
 {108}{}{Kurg?}
-{109}{}{O que é este lugar?}
+{109}{}{O que Ã© este lugar?}
 {110}{}{The Rangers sent me.}
 {111}{}{I'm looking for the owner.}
 {112}{}{Brother slaver, I've got a few questions.}
 {113}{}{Sorry, wrong guy.}
 {114}{}{Go on, get out of here. I've already got enough idiot guards!}
 {115}{}{What are you chump, blind? This is a slave pen. You want to know more, talk to Vortis.}
-{116}{}{É assim mesmo? Bem, estou te mandando de volta em um saco para cadáveres.}
+{116}{}{Ã‰ assim mesmo? Bem, estou te mandando de volta em um saco para cadÃ¡veres.}
 {117}{}{That'd be Vortis, the old guy.}
 {118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
 {119}{}{The old guy, eh? Okay.}
@@ -25,7 +25,7 @@
 {124}{}{Seja o que for.}
 {125}{}{What's the deal with these Rangers I hear about?}
 {126}{}{I'm looking for Vault 13. Ever hear of it?}
-{127}{}{Já ouviu falar de um GECK?}
+{127}{}{JÃ¡ ouviu falar de um GECK?}
 {128}{}{Know anything about an outfit called the Enclave?}
 {129}{}{I'm looking for work. Know anybody who's hiring?}
 {130}{}{Forget it. I don't want to take up your time.}

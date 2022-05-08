@@ -1,70 +1,70 @@
-{100}{}{Você vê uma Citizen em um macacão azul-claro parecido com a roupa do Vault Dweller, mas
- não há nenhum número nas costas.}
-{101}{}{Você vê um Cidadão de Vault City.}
-{102}{}{Você vê uma Citizen em um macacão azul-claro parecido com a roupa do Vault Dweller, mas
- não há nenhum número nas costas.}
+{100}{}{VocÃª vÃª uma Citizen em um macacÃ£o azul-claro parecido com a roupa do Vault Dweller, mas
+ nÃ£o hÃ¡ nenhum nÃºmero nas costas.}
+{101}{}{VocÃª vÃª um CidadÃ£o de Vault City.}
+{102}{}{VocÃª vÃª uma Citizen em um macacÃ£o azul-claro parecido com a roupa do Vault Dweller, mas
+ nÃ£o hÃ¡ nenhum nÃºmero nas costas.}
 {103}{}{::palmas::}
-{104}{}{É o herói! Olhem!}
-{105}{}{Puxa! é o herói, aqui, em Vault City!}
-{106}{}{Bom dia, Capitão.}
-{107}{}{Vault City prevails, Capitão.}
+{104}{}{Ã‰ o herÃ³i! Olhem!}
+{105}{}{Puxa! Ã© o herÃ³i, aqui, em Vault City!}
+{106}{}{Bom dia, CapitÃ£o.}
+{107}{}{Vault City prevails, CapitÃ£o.}
 {108}{}{Bom dia, Citizen.}
 {109}{}{Vault City prevails, Citizen.}
 {110}{}{Um mutante! Guardas! Guardas!}
 {111}{}{Um ghoul! Guardas! Guardas!}
-{112}{}{Como você conseguiu entrar na cidade?}
-{113}{}{Com licença, você tem a Autorização do Dia? }
+{112}{}{Como vocÃª conseguiu entrar na cidade?}
+{113}{}{Com licenÃ§a, vocÃª tem a AutorizaÃ§Ã£o do Dia? }
 {114}{}{Hmmmph. Outro Forasteiro.}
-{115}{}{Parece que mais e mais Forasteiros estão dando um jeito de entrar na cidade...}
-{116}{}{Eu realmente espero que você tenha a Autorização do Dia.}
-{117}{}{Parece que eles estão dando a Autorização do Dia para *qualquer* Forasteiro ultimamente...}
-{118}{}{Eu tenho escutado sobre seus feitos heróicos. Você fez um grande serviço para Vault City...e para o mundo.}
-{119}{}{Sua batalha contra a Enclave impressionou até mesmo a Primeira Cidadã.}
-{120}{}{Eu ouvi dizer que você viajou para além de San...Fran...Cisco. É verdade?}
+{115}{}{Parece que mais e mais Forasteiros estÃ£o dando um jeito de entrar na cidade...}
+{116}{}{Eu realmente espero que vocÃª tenha a AutorizaÃ§Ã£o do Dia.}
+{117}{}{Parece que eles estÃ£o dando a AutorizaÃ§Ã£o do Dia para *qualquer* Forasteiro ultimamente...}
+{118}{}{Eu tenho escutado sobre seus feitos herÃ³icos. VocÃª fez um grande serviÃ§o para Vault City...e para o mundo.}
+{119}{}{Sua batalha contra a Enclave impressionou atÃ© mesmo a Primeira CidadÃ£.}
+{120}{}{Eu ouvi dizer que vocÃª viajou para alÃ©m de San...Fran...Cisco. Ã‰ verdade?}
 {121}{}{Talvez Vault City *deva* receber Forasteiros. }
-{122}{}{É verdade? O antigo governo ainda está promovendo a guerra?}
-{123}{}{Você devia registrar suas viagens no computador de Vault City assim os outros podem ler sobre elas.}
-{124}{}{Você é bem vindo para ficar o quanto você quiser, herói.}
-{125}{}{Você deveria registrar seus feitos heróicos contra a Enclave em uma bela, bela lista.}
+{122}{}{Ã‰ verdade? O antigo governo ainda estÃ¡ promovendo a guerra?}
+{123}{}{VocÃª devia registrar suas viagens no computador de Vault City assim os outros podem ler sobre elas.}
+{124}{}{VocÃª Ã© bem vindo para ficar o quanto vocÃª quiser, herÃ³i.}
+{125}{}{VocÃª deveria registrar seus feitos herÃ³icos contra a Enclave em uma bela, bela lista.}
 {126}{}{*Yawn*... hrmnnn? Yes? What is it?}
-{127}{}{Está um pouco tarde para visitantes. }
-{128}{}{A MAIORIA dos Cidadãos estarão dormindo a esta hora.}
-{129}{}{Dormindo? Não, não mais.}
-{130}{}{Por favor... volte pela manhã. Eu tenho um longo dia fazendo listas amanhã.}
-{131}{}{Bom dia, Capitão.}
-{132}{}{Vault City prevails, Capitão.}
-{133}{}{Posso te pegar uma rosquinha, Capitão?}
-{134}{}{Algo errado, Capitão?}
-{135}{}{Eu espero que nenhum desses Forasteiros imundos estejam te causando problemas, Capitão.}
-{136}{}{Você tem alguma história sobre o mundo lá fora, Capitão?}
+{127}{}{EstÃ¡ um pouco tarde para visitantes. }
+{128}{}{A MAIORIA dos CidadÃ£os estarÃ£o dormindo a esta hora.}
+{129}{}{Dormindo? NÃ£o, nÃ£o mais.}
+{130}{}{Por favor... volte pela manhÃ£. Eu tenho um longo dia fazendo listas amanhÃ£.}
+{131}{}{Bom dia, CapitÃ£o.}
+{132}{}{Vault City prevails, CapitÃ£o.}
+{133}{}{Posso te pegar uma rosquinha, CapitÃ£o?}
+{134}{}{Algo errado, CapitÃ£o?}
+{135}{}{Eu espero que nenhum desses Forasteiros imundos estejam te causando problemas, CapitÃ£o.}
+{136}{}{VocÃª tem alguma histÃ³ria sobre o mundo lÃ¡ fora, CapitÃ£o?}
 {137}{}{Bom dia, Citizen.}
 {138}{}{Vault City prevails, Citizen.}
-{139}{}{Estou me sentindo mais que bem. E você?}
-{140}{}{Como Cidadão, faz parte do nosso dever cívico fazer e manter listas.}
-{141}{}{Eu gasto a maior parte do meu dia fazendo essa lista para o Proconsul, e depois verificá-la. Eu adoro fazer
+{139}{}{Estou me sentindo mais que bem. E vocÃª?}
+{140}{}{Como CidadÃ£o, faz parte do nosso dever cÃ­vico fazer e manter listas.}
+{141}{}{Eu gasto a maior parte do meu dia fazendo essa lista para o Proconsul, e depois verificÃ¡-la. Eu adoro fazer
  listas.}
-{142}{}{Eu trabalho no Escritório de Listas. A maioria de nós trabalha. Aqui em Vault City nós *amamos* fazer listas.}
-{143}{}{Eu gasto a maior parte do meu dia atualizando essa lista para o Escritório de Listas. É um trabalho bom, honesto,
+{142}{}{Eu trabalho no EscritÃ³rio de Listas. A maioria de nÃ³s trabalha. Aqui em Vault City nÃ³s *amamos* fazer listas.}
+{143}{}{Eu gasto a maior parte do meu dia atualizando essa lista para o EscritÃ³rio de Listas. Ã‰ um trabalho bom, honesto,
  e produtivo.}
-{144}{}{Eu ouvi dizer que você viajou pelo mundo lá fora. Como você sobreviveu a estes Forasteiros
+{144}{}{Eu ouvi dizer que vocÃª viajou pelo mundo lÃ¡ fora. Como vocÃª sobreviveu a estes Forasteiros
  imundos?}
-{145}{}{Oh! Você é o novo Cidadão. Bem vindo a Vault City.}
-{146}{}{Você precisa de um lugar para ficar enquanto está na cidade?}
-{147}{}{O Coselho tem nossos interesses no coração.}
-{148}{}{Nós devemos cuidar para manter nossa linda cidade limpa.}
-{149}{}{Os servos? Oh, nós os usamos para tarefas domésticas.}
-{150}{}{A reunião do Conselho ontem foi muito produtiva. Nós fizemos *toneladas* de listas. Aqui em Vault
- City nós amamos fazer listas.}
+{145}{}{Oh! VocÃª Ã© o novo CidadÃ£o. Bem vindo a Vault City.}
+{146}{}{VocÃª precisa de um lugar para ficar enquanto estÃ¡ na cidade?}
+{147}{}{O Coselho tem nossos interesses no coraÃ§Ã£o.}
+{148}{}{NÃ³s devemos cuidar para manter nossa linda cidade limpa.}
+{149}{}{Os servos? Oh, nÃ³s os usamos para tarefas domÃ©sticas.}
+{150}{}{A reuniÃ£o do Conselho ontem foi muito produtiva. NÃ³s fizemos *toneladas* de listas. Aqui em Vault
+ City nÃ³s amamos fazer listas.}
 {151}{}{Sim?}
-{152}{}{Posso ajudá-lo em algo... Forasteiro?}
-{153}{}{Me desculpe, você disse alguma coisa?}
-{154}{}{Eu? Estou cuidando da minha vida. Talvez você deveria fazer isso também.}
-{155}{}{Posso ver a sua Autorização do Dia, por favor?}
+{152}{}{Posso ajudÃ¡-lo em algo... Forasteiro?}
+{153}{}{Me desculpe, vocÃª disse alguma coisa?}
+{154}{}{Eu? Estou cuidando da minha vida. Talvez vocÃª deveria fazer isso tambÃ©m.}
+{155}{}{Posso ver a sua AutorizaÃ§Ã£o do Dia, por favor?}
 {156}{}{Oh... desculpe. Eu quase te confundi com um servo.}
-{157}{}{Eu realmente não tenho tempo para conversar com um Forasteiro. Por favor, saia.}
-{158}{}{Você pode se afastar, por favor?}
+{157}{}{Eu realmente nÃ£o tenho tempo para conversar com um Forasteiro. Por favor, saia.}
+{158}{}{VocÃª pode se afastar, por favor?}
 {159}{}{Por favor espere ali.}
 {160}{}{Os servos nos faz ganhar tempo para fazer coisas mais importantes. Como fazer listas na maioria das vezes.}
-{161}{}{Os servos? Oh, nós os usamos para tarefas domésticas.}
-{162}{}{Sim, eu posso cheirar... er, ver, que você é um Forasteiro.}
-{163}{}{Você é um forasteiro? Que típico.}
+{161}{}{Os servos? Oh, nÃ³s os usamos para tarefas domÃ©sticas.}
+{162}{}{Sim, eu posso cheirar... er, ver, que vocÃª Ã© um Forasteiro.}
+{163}{}{VocÃª Ã© um forasteiro? Que tÃ­pico.}

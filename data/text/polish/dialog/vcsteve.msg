@@ -1,15 +1,15 @@
-{100}{}{Widzisz entuzjastycznego, m³odego mê¿czyznê.}
-{101}{}{Widzisz Steve'a, Drugiego Witaj¹cego Urzêdnika Kryptopolis.}
-{102}{}{Zdaje siê b³¹dziæ gdzieœ myœlami.}
-{103}{}{Dzieñ dobry, witamy w Kryptopolis, najwspanialszym mieœcie w Nowej Kalifornii! Nazywam siê Steve... W czym mogê pomóc?}
-{104}{}{Czy ten ogrodzony teren to ju¿ ca³e miasto?}
-{105}{}{Co masz na myœli mówi¹c "najwspanialsze?"}
-{106}{}{Szukam Krypty. Mo¿esz mi powiedzieæ, gdzie j¹ znajdê?}
-{107}{}{¯egnaj.}
-{108}{}{Umm... (Patrzy na trzyman¹ w rêku ulotkê) Eee... nie, nie - zadajesz niew³aœciwe pytania. Nie mam tutaj takiej odpowiedzi.}
+{100}{}{Widzisz entuzjastycznego, mÅ‚odego mÄ™Å¼czyznÄ™.}
+{101}{}{Widzisz Steve'a, Drugiego WitajÄ…cego UrzÄ™dnika Kryptopolis.}
+{102}{}{Zdaje siÄ™ bÅ‚Ä…dziÄ‡ gdzieÅ› myÅ›lami.}
+{103}{}{DzieÅ„ dobry, witamy w Kryptopolis, najwspanialszym mieÅ›cie w Nowej Kalifornii! Nazywam siÄ™ Steve... W czym mogÄ™ pomÃ³c?}
+{104}{}{Czy ten ogrodzony teren to juÅ¼ caÅ‚e miasto?}
+{105}{}{Co masz na myÅ›li mÃ³wiÄ…c "najwspanialsze?"}
+{106}{}{Szukam Krypty. MoÅ¼esz mi powiedzieÄ‡, gdzie jÄ… znajdÄ™?}
+{107}{}{Å»egnaj.}
+{108}{}{Umm... (Patrzy na trzymanÄ… w rÄ™ku ulotkÄ™) Eee... nie, nie - zadajesz niewÅ‚aÅ›ciwe pytania. Nie mam tutaj takiej odpowiedzi.}
 {109}{}{A wiesz cokolwiek tak sam z siebie, pajacu?}
-{110}{}{Có¿, trudno.}
-{111}{}{(Czyta ulotkê) Jeœli obcy... to zapewne ty... zacznie ciê obra¿aæ... to z kolei o mnie... nale¿y z³o¿yæ na niego raport u G³ównej Witaj¹cej Urzêdniczki. No tak... z³o¿ê na ciebie raport G³ównej Witaj¹cej Urzêdniczce Melindzie.}
-{112}{}{W takim razie lepiej pójdê z ni¹ porozmawiaæ.}
-{113}{}{Witaj w Biurze Powitañ. Jestem Steve.}
-{114}{}{Przepraszam, muszê nadrobiæ zaleg³oœci w lekturze.}
+{110}{}{CÃ³Å¼, trudno.}
+{111}{}{(Czyta ulotkÄ™) JeÅ›li obcy... to zapewne ty... zacznie ciÄ™ obraÅ¼aÄ‡... to z kolei o mnie... naleÅ¼y zÅ‚oÅ¼yÄ‡ na niego raport u GÅ‚Ã³wnej WitajÄ…cej UrzÄ™dniczki. No tak... zÅ‚oÅ¼Ä™ na ciebie raport GÅ‚Ã³wnej WitajÄ…cej UrzÄ™dniczce Melindzie.}
+{112}{}{W takim razie lepiej pÃ³jdÄ™ z niÄ… porozmawiaÄ‡.}
+{113}{}{Witaj w Biurze PowitaÅ„. Jestem Steve.}
+{114}{}{Przepraszam, muszÄ™ nadrobiÄ‡ zalegÅ‚oÅ›ci w lekturze.}

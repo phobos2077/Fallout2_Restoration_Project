@@ -1,52 +1,52 @@
-{100}{}{Widzisz szpona œmierci, który obserwuje ciê dziwnie inteligentnym wzrokiem.}
-{101}{}{Widzisz Valdisa, szpona œmierci.}
-{102}{}{Widzisz typowego szpona œmierci. To ogromne stworzenie ma potê¿n¹ budowê cia³a, ostre zêby i d³ugie pazury.}
-{103}{}{Pozdrowienia, cz³owieku.}
-{104}{}{Jak mogê ci s³u¿yæ?}
+{100}{}{Widzisz szpona Å›mierci, ktÃ³ry obserwuje ciÄ™ dziwnie inteligentnym wzrokiem.}
+{101}{}{Widzisz Valdisa, szpona Å›mierci.}
+{102}{}{Widzisz typowego szpona Å›mierci. To ogromne stworzenie ma potÄ™Å¼nÄ… budowÄ™ ciaÅ‚a, ostre zÄ™by i dÅ‚ugie pazury.}
+{103}{}{Pozdrowienia, czÅ‚owieku.}
+{104}{}{Jak mogÄ™ ci sÅ‚uÅ¼yÄ‡?}
 {105}{}{Kto ty?}
-{106}{}{Co ty robiæ?}
-{107}{}{Mózg boli. Wróci póŸniej.}
-{108}{}{Witaj, kim jesteœ?}
-{109}{}{Na czym polega twoje zajêcie?}
-{110}{}{Nie chcê obra¿aæ tutejszych szponów œmierci, ale sprawiasz wra¿enie bardziej... wykszta³conego, ¿e siê tak wyra¿ê.}
-{111}{}{Och, tylko têdy przechodzê.}
-{112}{}{Mówi¹ na mnie Valdis. A ty jesteœ?}
-{113}{}{Ja cz³owiek.}
-{114}{}{Oooo! Coœ b³yszczy. Ja iœæ.}
-{115}{}{Hej, to ja jestem tutaj od zadawania pytañ.}
-{116}{}{Muszê ju¿ iœæ.}
-{117}{}{Mi³o mi ciê poznaæ. Jestem}
-{118}{}{Kapujê.}
-{119}{}{W tej chwili pilnujê tej czêœci Krypty przed wtargniêciem niepowo³anych osób.}
-{120}{}{Niep owo ³any chos ub?}
+{106}{}{Co ty robiÄ‡?}
+{107}{}{MÃ³zg boli. WrÃ³ci pÃ³Åºniej.}
+{108}{}{Witaj, kim jesteÅ›?}
+{109}{}{Na czym polega twoje zajÄ™cie?}
+{110}{}{Nie chcÄ™ obraÅ¼aÄ‡ tutejszych szponÃ³w Å›mierci, ale sprawiasz wraÅ¼enie bardziej... wyksztaÅ‚conego, Å¼e siÄ™ tak wyraÅ¼Ä™.}
+{111}{}{Och, tylko tÄ™dy przechodzÄ™.}
+{112}{}{MÃ³wiÄ… na mnie Valdis. A ty jesteÅ›?}
+{113}{}{Ja czÅ‚owiek.}
+{114}{}{Oooo! CoÅ› bÅ‚yszczy. Ja iÅ›Ä‡.}
+{115}{}{Hej, to ja jestem tutaj od zadawania pytaÅ„.}
+{116}{}{MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{117}{}{MiÅ‚o mi ciÄ™ poznaÄ‡. Jestem}
+{118}{}{KapujÄ™.}
+{119}{}{W tej chwili pilnujÄ™ tej czÄ™Å›ci Krypty przed wtargniÄ™ciem niepowoÅ‚anych osÃ³b.}
+{120}{}{Niep owo Å‚any chos ub?}
 {121}{}{Uch... jasne.}
-{122}{}{Ty mówi œmieszny. Ja iœæ.}
-{123}{}{Pójdê ju¿ sobie Valdisie.}
+{122}{}{Ty mÃ³wi Å›mieszny. Ja iÅ›Ä‡.}
+{123}{}{PÃ³jdÄ™ juÅ¼ sobie Valdisie.}
 {124}{}{Rozumiem.}
-{125}{}{Có¿, z pewnoœci¹ znasz siê na swojej robocie.}
-{126}{}{Czy masz wystarczaj¹co du¿o rozumu, by decydowaæ, kto jest albo nie jest "niepowo³any"?}
-{127}{}{Ale¿ oczywiœcie. Mam te¿ wystarczaj¹co du¿o rozumu, by decydowaæ, kto jest, a kto nie jest dupkiem - i dochodzê do wniosku, ¿e w tej kategorii przebijasz wszystkich! A teraz czemu sobie nie pójdziesz, zanim urz¹dzê sobie pó³godzinn¹ przeja¿d¿kê po twojej twarzy?}
+{125}{}{CÃ³Å¼, z pewnoÅ›ciÄ… znasz siÄ™ na swojej robocie.}
+{126}{}{Czy masz wystarczajÄ…co duÅ¼o rozumu, by decydowaÄ‡, kto jest albo nie jest "niepowoÅ‚any"?}
+{127}{}{AleÅ¼ oczywiÅ›cie. Mam teÅ¼ wystarczajÄ…co duÅ¼o rozumu, by decydowaÄ‡, kto jest, a kto nie jest dupkiem - i dochodzÄ™ do wniosku, Å¼e w tej kategorii przebijasz wszystkich! A teraz czemu sobie nie pÃ³jdziesz, zanim urzÄ…dzÄ™ sobie pÃ³Å‚godzinnÄ… przejaÅ¼dÅ¼kÄ™ po twojej twarzy?}
 {128}{}{Dobrze.}
-{129}{}{Niedobry jaszczur. Teraz muszê ciê zastrzeliæ.}
-{130}{}{Hej, przepraszam. Od tej pory bêdê pilnowaæ swojego jêzyka.}
-{131}{}{Tak. Doœæ znacznie ró¿nimy siê pod wzglêdem poziomu wykszta³cenia. Staram siê w miarê mo¿liwoœci w wolnym czasie poszerzaæ swoj¹ wiedzê.}
-{132}{}{Iguana z ambicjami. Jakie to kurwa s³odkie.}
+{129}{}{Niedobry jaszczur. Teraz muszÄ™ ciÄ™ zastrzeliÄ‡.}
+{130}{}{Hej, przepraszam. Od tej pory bÄ™dÄ™ pilnowaÄ‡ swojego jÄ™zyka.}
+{131}{}{Tak. DoÅ›Ä‡ znacznie rÃ³Å¼nimy siÄ™ pod wzglÄ™dem poziomu wyksztaÅ‚cenia. Staram siÄ™ w miarÄ™ moÅ¼liwoÅ›ci w wolnym czasie poszerzaÄ‡ swojÄ… wiedzÄ™.}
+{132}{}{Iguana z ambicjami. Jakie to kurwa sÅ‚odkie.}
 {133}{}{Dobrze ci idzie.}
-{134}{}{To wspania³y cel. Trzymaj tak dalej.}
-{135}{}{Hê? Doœæ dobrze zdajê sobie sprawê z tego, ¿e jesteœ cz³owiekiem. Interesuje mnie twoje imiê.}
-{136}{}{Ty nie pytaæ imiê, pytaæ "ty jesteœ". Ja jesteœ cz³owiek.}
-{137}{}{Ja wie, ja tylko ty testowaæ. Uch... ty zdaæ.}
-{138}{}{S³yszy ktoœ wo³a. Ja iœæ.}
-{139}{}{Rozumiem. Spróbujmy jeszcze raz. Witaj. Jestem Valdis. Jak masz na imiê?}
+{134}{}{To wspaniaÅ‚y cel. Trzymaj tak dalej.}
+{135}{}{HÄ™? DoÅ›Ä‡ dobrze zdajÄ™ sobie sprawÄ™ z tego, Å¼e jesteÅ› czÅ‚owiekiem. Interesuje mnie twoje imiÄ™.}
+{136}{}{Ty nie pytaÄ‡ imiÄ™, pytaÄ‡ "ty jesteÅ›". Ja jesteÅ› czÅ‚owiek.}
+{137}{}{Ja wie, ja tylko ty testowaÄ‡. Uch... ty zdaÄ‡.}
+{138}{}{SÅ‚yszy ktoÅ› woÅ‚a. Ja iÅ›Ä‡.}
+{139}{}{Rozumiem. SprÃ³bujmy jeszcze raz. Witaj. Jestem Valdis. Jak masz na imiÄ™?}
 {140}{}{Ja}
 {141}{}{Bywaj.}
-{142}{}{Niepowo³ane osoby. Oznacza "osoby, które nie maj¹ pozwolenia, ¿eby tu byæ".}
+{142}{}{NiepowoÅ‚ane osoby. Oznacza "osoby, ktÃ³re nie majÄ… pozwolenia, Å¼eby tu byÄ‡".}
 {143}{}{Dobra. Ja rozumie.}
-{144}{}{Ja znowu mieæ ten bolig³owa. Ja ju¿ iœæ.}
-{145}{}{Moj¹ ambicj¹ jest wykazaæ tyle cierpliwoœci, ile zdo³am w œwietle twojego niegrzecznego zachowania. Jeœli nie potrafisz zachowywaæ siê w stosunku do mnie w sposób cywilizowany, proszê - odejdŸ.}
-{146}{}{Przepraszam, postaram siê zachowywaæ w bardziej cywilizowany sposób.}
-{147}{}{Wal siê.}
+{144}{}{Ja znowu mieÄ‡ ten boligÅ‚owa. Ja juÅ¼ iÅ›Ä‡.}
+{145}{}{MojÄ… ambicjÄ… jest wykazaÄ‡ tyle cierpliwoÅ›ci, ile zdoÅ‚am w Å›wietle twojego niegrzecznego zachowania. JeÅ›li nie potrafisz zachowywaÄ‡ siÄ™ w stosunku do mnie w sposÃ³b cywilizowany, proszÄ™ - odejdÅº.}
+{146}{}{Przepraszam, postaram siÄ™ zachowywaÄ‡ w bardziej cywilizowany sposÃ³b.}
+{147}{}{Wal siÄ™.}
 {148}{}{Tak.}
-{149}{}{Dzieñ dobry.}
-{150}{}{¯a³ujê, ¿e muszê ciê zabiæ.}
+{149}{}{DzieÅ„ dobry.}
+{150}{}{Å»aÅ‚ujÄ™, Å¼e muszÄ™ ciÄ™ zabiÄ‡.}
 {151}{}{.}

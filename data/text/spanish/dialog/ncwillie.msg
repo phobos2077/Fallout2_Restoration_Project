@@ -1,27 +1,27 @@
-{100}{}{Ves a Féretro Willie.}
-{150}{}{Ves a un viejo, apestoso y decrépito necrófago. Y, amigo, si que HUELE.}
+{100}{}{Ves a FÃ©retro Willie.}
+{150}{}{Ves a un viejo, apestoso y decrÃ©pito necrÃ³fago. Y, amigo, si que HUELE.}
 {200}{}{Buf. Esta tumba APESTA.}
-{201}{}{Oh, bueno… mejor seguir cavando.}
-{202}{}{¿Pero q-?}
-{203}{}{¡Hablando del maldito tiempo! ¿Podrías cavar más DESPACIO, idiota?}
-{204}{}{Aparta de mi camino, pusilánime.}
-{205}{}{¿Papá de Garras?}
-{206}{}{Ahora no, Lenny, no está 'de humor para hablar'.}
-{300}{}{Me acerco a Reno medio en broma buscando alcohol y una puta poco remilgada, y los jodidos pusilánimes me meten en una puñetera tumba…}
-{301}{}{Menos mal que no tengo nariz, o me habría ahogado con mi propio olor.}
-{302}{}{Los necrófagos no reciben ningún maldito respeto.}
+{201}{}{Oh, buenoâ€¦ mejor seguir cavando.}
+{202}{}{Â¿Pero q-?}
+{203}{}{Â¡Hablando del maldito tiempo! Â¿PodrÃ­as cavar mÃ¡s DESPACIO, idiota?}
+{204}{}{Aparta de mi camino, pusilÃ¡nime.}
+{205}{}{Â¿PapÃ¡ de Garras?}
+{206}{}{Ahora no, Lenny, no estÃ¡ 'de humor para hablar'.}
+{300}{}{Me acerco a Reno medio en broma buscando alcohol y una puta poco remilgada, y los jodidos pusilÃ¡nimes me meten en una puÃ±etera tumbaâ€¦}
+{301}{}{Menos mal que no tengo nariz, o me habrÃ­a ahogado con mi propio olor.}
+{302}{}{Los necrÃ³fagos no reciben ningÃºn maldito respeto.}
 {303}{}{Tan solo me detuve en la ciudad para tomar una copa, y esos cabrones de Reno me enterraron vivo.}
-{304}{}{Nada más aburrido que estar en un ataúd durante meses.}
-{305}{}{Las manos lejos, pusilánime. Tengo sitios a los que ir.}
-{306}{}{Aparta tus pusilánimes manos de mí, pusilánime.}
-{500}{}{La inscripción reza: "Aquí yace el más tonto hijo de puta que alguna vez haya puesto los pies en Nuevo Reno".}
+{304}{}{Nada mÃ¡s aburrido que estar en un ataÃºd durante meses.}
+{305}{}{Las manos lejos, pusilÃ¡nime. Tengo sitios a los que ir.}
+{306}{}{Aparta tus pusilÃ¡nimes manos de mÃ­, pusilÃ¡nime.}
+{500}{}{La inscripciÃ³n reza: "AquÃ­ yace el mÃ¡s tonto hijo de puta que alguna vez haya puesto los pies en Nuevo Reno".}
 {550}{}{Emana un terrible hedor de la tumba.}
-{600}{}{¡Oye!}
-{601}{}{¡Oigo a alguien merodeando por ahí!}
-{602}{}{¡No pisotees la tumba! ¡La tierra se cuela!}
-{603}{}{Rápido, ¡COGE UNA PALA!}
-{604}{}{¿Alguien de por ahí podría cavar un poco? ¡Necesito una copa!}
-{605}{}{¿Lo que noto es un gusano? Oh... no importa.}
+{600}{}{Â¡Oye!}
+{601}{}{Â¡Oigo a alguien merodeando por ahÃ­!}
+{602}{}{Â¡No pisotees la tumba! Â¡La tierra se cuela!}
+{603}{}{RÃ¡pido, Â¡COGE UNA PALA!}
+{604}{}{Â¿Alguien de por ahÃ­ podrÃ­a cavar un poco? Â¡Necesito una copa!}
+{605}{}{Â¿Lo que noto es un gusano? Oh... no importa.}
 {700}{}{Ug, ollor en agujero.}
-{701}{}{Me cavar más para brillos malio-lentes.}
-{702}{}{Como, tú no bril-!?}
+{701}{}{Me cavar mÃ¡s para brillos malio-lentes.}
+{702}{}{Como, tÃº no bril-!?}

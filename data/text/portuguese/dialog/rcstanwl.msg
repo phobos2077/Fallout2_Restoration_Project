@@ -4,7 +4,7 @@
 {103}{}{The NCR doesn't take kindly to quitters. Get out of here.}
 {104}{}{You know what I think about your kind. Just get out of my sight.}
 {105}{}{Hee-yah! Head 'em out.}
-{106}{}{Ok, bora l·.}
+{106}{}{Ok, bora l√°.}
 {107}{}{I'm Stanwell. I run the caravan between Redding and the New California Republic. Brahmin for
  gold. We could use an extra guard, and we're ready to leave right now. }
 {108}{}{People call me Stanwell. I run the caravan between Redding and the New California Republic.
@@ -15,7 +15,7 @@
 {111}{}{You need a guard, huh?}
 {112}{}{What does this caravan transport?}
 {113}{}{Why are you waiting until the 11th?}
-{114}{}{N„o acho que isso seja pra mim. Tchau.}
+{114}{}{N√£o acho que isso seja pra mim. Tchau.}
 {115}{}{Damn. I hate it when that happens.}
 {116}{}{Same job. Different day.}
 {117}{}{Nothing's ever easy.}

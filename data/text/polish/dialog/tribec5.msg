@@ -1,23 +1,23 @@
-{100}{}{Widzisz zagubion¹ duszê.}
-{101}{}{Widzisz Nesse, zagubion¹ duszê.}
-{102}{}{Widzisz duszê piêknej, m³odej dziewczyny, rozœwietlon¹ przez zimn¹ poœwiatê ksiê¿yca.}
-{103}{}{Zosta³am zdradzona, zdradzona i osamotniona.}
-{104}{}{Jak on móg³ mi to zrobiæ?}
+{100}{}{Widzisz zagubionÄ… duszÄ™.}
+{101}{}{Widzisz Nesse, zagubionÄ… duszÄ™.}
+{102}{}{Widzisz duszÄ™ piÄ™knej, mÅ‚odej dziewczyny, rozÅ›wietlonÄ… przez zimnÄ… poÅ›wiatÄ™ ksiÄ™Å¼yca.}
+{103}{}{ZostaÅ‚am zdradzona, zdradzona i osamotniona.}
+{104}{}{Jak on mÃ³gÅ‚ mi to zrobiÄ‡?}
 {105}{}{Krew... Tak wiele krwi...}
-{110}{}{Mówi³, ¿e mnie kocha, ¿e mo¿emy byæ razem na zawsze. Jak on móg³ mi to zrobiæ?}
-{111}{}{Kto tobie to zrobi³? S³yszysz mnie?}
-{120}{}{To wszystko by³o k³amstwem. Nie kocha³ mnie. Mia³ nó¿! To bola³o! Jego spoj¿enie by³o takie zimne... takie...}
-{121}{}{Jeœli mnie s³yszysz, powiedz kto ciê skrzywdzi³. Kto to zrobi³?}
+{110}{}{MÃ³wiÅ‚, Å¼e mnie kocha, Å¼e moÅ¼emy byÄ‡ razem na zawsze. Jak on mÃ³gÅ‚ mi to zrobiÄ‡?}
+{111}{}{Kto tobie to zrobiÅ‚? SÅ‚yszysz mnie?}
+{120}{}{To wszystko byÅ‚o kÅ‚amstwem. Nie kochaÅ‚ mnie. MiaÅ‚ nÃ³Å¼! To bolaÅ‚o! Jego spojÅ¼enie byÅ‚o takie zimne... takie...}
+{121}{}{JeÅ›li mnie sÅ‚yszysz, powiedz kto ciÄ™ skrzywdziÅ‚. Kto to zrobiÅ‚?}
 {122}{}{To jest to, to wystarczy.}
-{130}{}{Odchodzi, zostawia mnie tu sam¹ bym umar³a... Jak to siê mog³o staæ?!}
-{131}{}{Poszê, daj mi chocia¿ imiê, daj mi cokolwiek co mog³oby mi pomóc.}
-{140}{}{To nie mia³o byæ tak. Powiedzia³eœ, ¿e chcesz zacz¹æ nowe ¿ycie ze mn¹. Strasznie mi zimno... Chyba umieram... Nie! To nie jest prawda! Nigdy byœ mi tego nie zrobi³, Thorg! Kocham Ciê! Nessa zawsze bêdzie ciê kochaæ...}
-{141}{}{Dziêkujê Nessa. To by³o wszystko co chcia³em us³yszeæ.}
+{130}{}{Odchodzi, zostawia mnie tu samÄ… bym umarÅ‚a... Jak to siÄ™ mogÅ‚o staÄ‡?!}
+{131}{}{PoszÄ™, daj mi chociaÅ¼ imiÄ™, daj mi cokolwiek co mogÅ‚oby mi pomÃ³c.}
+{140}{}{To nie miaÅ‚o byÄ‡ tak. PowiedziaÅ‚eÅ›, Å¼e chcesz zaczÄ…Ä‡ nowe Å¼ycie ze mnÄ…. Strasznie mi zimno... Chyba umieram... Nie! To nie jest prawda! Nigdy byÅ› mi tego nie zrobiÅ‚, Thorg! Kocham CiÄ™! Nessa zawsze bÄ™dzie ciÄ™ kochaÄ‡...}
+{141}{}{DziÄ™kujÄ™ Nessa. To byÅ‚o wszystko co chciaÅ‚em usÅ‚yszeÄ‡.}
 {150}{}{Jestem samotna... bardzo samotna.}
 {151}{}{[Zrobione.]}
-{160}{}{Krew, nigdy nie przesta³a p³yn¹æ... czemu ci¹gle musi boleæ?}
-{161}{}{Bez obaw Nessa, zamierzam pomóc tobie w odnalezieniu spokoju.}
-{300}{}{Eeee....? Ty mówiæ do mnie, blask pani?}
-{310}{}{Gdzie cz³owiek-nó¿? Ja nie widzieæ no¿a cz³owieka. Dlaczego ty œwieciæ?}
-{320}{}{S³uchaæ blask pani, tu nie byæ CZ£OWIEK-NÓ¯! On nie chodziæ tu, tu byæ tylko ja!}
-{330}{}{Ja myœleæ ty pienkna, blask pani, ale byæ zbyt wariat. Czasami ty robiæ coœ bez sensu! Ty potrzebowaæ pomoc, ja nie wiedzieæ jak daæ pomoc. Wiêc, uh ... Moja iœæ teraz, dobrze? Pa-Pa!}
+{160}{}{Krew, nigdy nie przestaÅ‚a pÅ‚ynÄ…Ä‡... czemu ciÄ…gle musi boleÄ‡?}
+{161}{}{Bez obaw Nessa, zamierzam pomÃ³c tobie w odnalezieniu spokoju.}
+{300}{}{Eeee....? Ty mÃ³wiÄ‡ do mnie, blask pani?}
+{310}{}{Gdzie czÅ‚owiek-nÃ³Å¼? Ja nie widzieÄ‡ noÅ¼a czÅ‚owieka. Dlaczego ty Å›wieciÄ‡?}
+{320}{}{SÅ‚uchaÄ‡ blask pani, tu nie byÄ‡ CZÅOWIEK-NÃ“Å»! On nie chodziÄ‡ tu, tu byÄ‡ tylko ja!}
+{330}{}{Ja myÅ›leÄ‡ ty pienkna, blask pani, ale byÄ‡ zbyt wariat. Czasami ty robiÄ‡ coÅ› bez sensu! Ty potrzebowaÄ‡ pomoc, ja nie wiedzieÄ‡ jak daÄ‡ pomoc. WiÄ™c, uh ... Moja iÅ›Ä‡ teraz, dobrze? Pa-Pa!}

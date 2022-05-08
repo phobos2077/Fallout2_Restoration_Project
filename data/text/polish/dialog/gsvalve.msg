@@ -1,11 +1,11 @@
-{100}{}{Panel sterowania p³ynem ch³odz¹cym.}
-{101}{}{Widzisz panel sterowania p³ynem ch³odz¹cym.}
-{102}{}{Na tym panelu jest wiele przycisków i ga³ek, a tak¿e ko³owrót.}
-{110}{}{Masz trudnoœci z przekrêceniem ko³owrotu zamykaj¹cego zawór p³ynu ch³odz¹cego.}
-{111}{}{Nadludzkim wysi³kiem udaje ci siê przekrêciæ ko³owrót zamykajacy zawór p³ynu ch³odz¹cego.}
-{112}{}{Nadludzkim wysi³kiem udaje ci siê ponownie przekrêciæ ko³owrót zamykajacy zawór p³ynu ch³odz¹cego.}
-{113}{}{Wydaje siê, ¿e uda³o ci siê zamkn¹æ zawór.}
-{120}{}{Wydaje siê, ¿e brakuje ci jakiejœ czêœci.}
+{100}{}{Panel sterowania pÅ‚ynem chÅ‚odzÄ…cym.}
+{101}{}{Widzisz panel sterowania pÅ‚ynem chÅ‚odzÄ…cym.}
+{102}{}{Na tym panelu jest wiele przyciskÃ³w i gaÅ‚ek, a takÅ¼e koÅ‚owrÃ³t.}
+{110}{}{Masz trudnoÅ›ci z przekrÄ™ceniem koÅ‚owrotu zamykajÄ…cego zawÃ³r pÅ‚ynu chÅ‚odzÄ…cego.}
+{111}{}{Nadludzkim wysiÅ‚kiem udaje ci siÄ™ przekrÄ™ciÄ‡ koÅ‚owrÃ³t zamykajacy zawÃ³r pÅ‚ynu chÅ‚odzÄ…cego.}
+{112}{}{Nadludzkim wysiÅ‚kiem udaje ci siÄ™ ponownie przekrÄ™ciÄ‡ koÅ‚owrÃ³t zamykajacy zawÃ³r pÅ‚ynu chÅ‚odzÄ…cego.}
+{113}{}{Wydaje siÄ™, Å¼e udaÅ‚o ci siÄ™ zamknÄ…Ä‡ zawÃ³r.}
+{120}{}{Wydaje siÄ™, Å¼e brakuje ci jakiejÅ› czÄ™Å›ci.}
 {121}{}{To niczego nie robi.}
-{122}{}{Uda³o ci siê naprawiæ reaktor.}
-{123}{}{Masz trudnoœci z naprawieniem reaktora.}
+{122}{}{UdaÅ‚o ci siÄ™ naprawiÄ‡ reaktor.}
+{123}{}{Masz trudnoÅ›ci z naprawieniem reaktora.}

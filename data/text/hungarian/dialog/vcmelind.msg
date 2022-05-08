@@ -1,45 +1,45 @@
-{100}{}{Egy fáradt tekintet? n?t látsz. Úgy t?nik, már napok óta nem aludt.}
-{101}{}{Melindát, az Üdvözl? Hivatal vezet?jét látod.}
-{102}{}{Nem emlékszem, hogy láttalak már itt korábban, utazó. Üdvözöllek Menedékvárosban. Miben segíthetek?}
-{103}{}{Miben segíthetek?}
-{104}{}{Ez a bekerített rész a város?}
-{105}{}{A Menedéket keresem.}
+{100}{}{Egy fÃ¡radt tekintet? n?t lÃ¡tsz. Ãšgy t?nik, mÃ¡r napok Ã³ta nem aludt.}
+{101}{}{MelindÃ¡t, az ÃœdvÃ¶zl? Hivatal vezet?jÃ©t lÃ¡tod.}
+{102}{}{Nem emlÃ©kszem, hogy lÃ¡ttalak mÃ¡r itt korÃ¡bban, utazÃ³. ÃœdvÃ¶zÃ¶llek MenedÃ©kvÃ¡rosban. Miben segÃ­thetek?}
+{103}{}{Miben segÃ­thetek?}
+{104}{}{Ez a bekerÃ­tett rÃ©sz a vÃ¡ros?}
+{105}{}{A MenedÃ©ket keresem.}
 {106}{}{Ki vagy te?}
-{107}{}{Azt hiszem, semmiben. Viszlát!}
-{108}{}{Ezit Menedíkváááros?}
-{109}{}{Nem. Ne tévesszen meg a látvány, ez a hely még csak az El?város. Az igazi ett?l északra található.}
-{110}{}{Mi a különbség a két terület között?}
-{111}{}{Kérdezhetek valami mást?}
-{112}{}{Köszönöm. Viszlát!}
-{113}{}{Köfii}
-{114}{}{A mi Menedékünket? Az a belvárosban van. Tudnod kell azonban, hogy oda csak Polgárok tehetik be a lábukat.}
-{115}{}{Mindenképpen be kell jutnom. Segítenél?}
-{116}{}{Kérdezhetek valami mást?}
-{117}{}{Köszönöm. Viszlát!}
-{118}{}{Melindának hívnak, én vezetem Menedékváros Üdvözl? Hivatalát.}
-{119}{}{Hmm ... kemény munka lehet.}
-{120}{}{Kérdezhetek valami mást?}
-{121}{}{Kösz a segítséget.}
-{122}{}{El?város az, ahol a kevésbé szerencsések élnek. Bár ?k is élvezik Menedékvéros védelmét, a belváros ett?l északra található. Az a terület kizárólag a Polgárok számára van fenntartva.}
-{123}{}{Miért csak Polgárok élhetnek a belvárosban?}
-{124}{}{Kérdezhetek valami mást?}
-{125}{}{Kösz a segítséget.}
-{126}{}{Sajnálom, nem tudok, az tiltott terület a Kívülállók számára. De... talán beszélj Wallace-szal, a vámhivatalnokkal! Az irodáját El?város északi végében találod.}
-{127}{}{Kérdezhetek valami mást?}
-{128}{}{Köszönöm. Viszlát!}
+{107}{}{Azt hiszem, semmiben. ViszlÃ¡t!}
+{108}{}{Ezit MenedÃ­kvÃ¡Ã¡Ã¡ros?}
+{109}{}{Nem. Ne tÃ©vesszen meg a lÃ¡tvÃ¡ny, ez a hely mÃ©g csak az El?vÃ¡ros. Az igazi ett?l Ã©szakra talÃ¡lhatÃ³.}
+{110}{}{Mi a kÃ¼lÃ¶nbsÃ©g a kÃ©t terÃ¼let kÃ¶zÃ¶tt?}
+{111}{}{KÃ©rdezhetek valami mÃ¡st?}
+{112}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{113}{}{KÃ¶fii}
+{114}{}{A mi MenedÃ©kÃ¼nket? Az a belvÃ¡rosban van. Tudnod kell azonban, hogy oda csak PolgÃ¡rok tehetik be a lÃ¡bukat.}
+{115}{}{MindenkÃ©ppen be kell jutnom. SegÃ­tenÃ©l?}
+{116}{}{KÃ©rdezhetek valami mÃ¡st?}
+{117}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{118}{}{MelindÃ¡nak hÃ­vnak, Ã©n vezetem MenedÃ©kvÃ¡ros ÃœdvÃ¶zl? HivatalÃ¡t.}
+{119}{}{Hmm ... kemÃ©ny munka lehet.}
+{120}{}{KÃ©rdezhetek valami mÃ¡st?}
+{121}{}{KÃ¶sz a segÃ­tsÃ©get.}
+{122}{}{El?vÃ¡ros az, ahol a kevÃ©sbÃ© szerencsÃ©sek Ã©lnek. BÃ¡r ?k is Ã©lvezik MenedÃ©kvÃ©ros vÃ©delmÃ©t, a belvÃ¡ros ett?l Ã©szakra talÃ¡lhatÃ³. Az a terÃ¼let kizÃ¡rÃ³lag a PolgÃ¡rok szÃ¡mÃ¡ra van fenntartva.}
+{123}{}{MiÃ©rt csak PolgÃ¡rok Ã©lhetnek a belvÃ¡rosban?}
+{124}{}{KÃ©rdezhetek valami mÃ¡st?}
+{125}{}{KÃ¶sz a segÃ­tsÃ©get.}
+{126}{}{SajnÃ¡lom, nem tudok, az tiltott terÃ¼let a KÃ­vÃ¼lÃ¡llÃ³k szÃ¡mÃ¡ra. De... talÃ¡n beszÃ©lj Wallace-szal, a vÃ¡mhivatalnokkal! Az irodÃ¡jÃ¡t El?vÃ¡ros Ã©szaki vÃ©gÃ©ben talÃ¡lod.}
+{127}{}{KÃ©rdezhetek valami mÃ¡st?}
+{128}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
 {129}{}{My work benefits Vault City, and I have the privilege of being able to talk
  to travelers about the grandeur of the city.}
-{130}{}{Azért néha baromira unod, igaz? Valld csak be!}
-{131}{}{Kérdezhetek valami mást?}
-{132}{}{Kösz a segítséget.}
-{133}{}{Hogy mindenkinek jobb életet biztosíthassunk, védenünk kell magunkat a küls? hatásoktól.}
-{134}{}{Ez azt jelenti, hogy elkülönítitek magatokat?}
-{135}{}{Gúnyolódj csak, akkor is büszke vagyok arra, amit Menedékvárosért teszek. Most dolgom van. Fontosabb, mint a pimasz megjegyzéseidet hallgatni.}
-{136}{}{Nem önös érdekb?l tesszük. A közösségért.}
-{137}{}{Na, persze. Mindjárt gondoltam.}
-{138}{}{Kérdezhetek valami mást?}
-{139}{}{Kösz a segítséget.}
-{140}{}{Felesleges gúnyolódnod. Kétlem, hogy képes vagy megérteni, mit-miért teszünk.}
-{141}{}{Igazán? Ilyen nehéz felfogásúnak látszom? Kitöltünk egy IQ tesztet és összehasonlítjuk az eredményt, asszony?}
-{142}{}{Elnézést, nem akartalak megbántani. Köszönöm a segítséget.}
-{143}{}{Most sok a dolgom. Ha kérdésed van, tedd fel Steve-nek, az Üdvözl? Hivatal Segéd Üdvözl?jének!}
+{130}{}{AzÃ©rt nÃ©ha baromira unod, igaz? Valld csak be!}
+{131}{}{KÃ©rdezhetek valami mÃ¡st?}
+{132}{}{KÃ¶sz a segÃ­tsÃ©get.}
+{133}{}{Hogy mindenkinek jobb Ã©letet biztosÃ­thassunk, vÃ©denÃ¼nk kell magunkat a kÃ¼ls? hatÃ¡soktÃ³l.}
+{134}{}{Ez azt jelenti, hogy elkÃ¼lÃ¶nÃ­titek magatokat?}
+{135}{}{GÃºnyolÃ³dj csak, akkor is bÃ¼szke vagyok arra, amit MenedÃ©kvÃ¡rosÃ©rt teszek. Most dolgom van. Fontosabb, mint a pimasz megjegyzÃ©seidet hallgatni.}
+{136}{}{Nem Ã¶nÃ¶s Ã©rdekb?l tesszÃ¼k. A kÃ¶zÃ¶ssÃ©gÃ©rt.}
+{137}{}{Na, persze. MindjÃ¡rt gondoltam.}
+{138}{}{KÃ©rdezhetek valami mÃ¡st?}
+{139}{}{KÃ¶sz a segÃ­tsÃ©get.}
+{140}{}{Felesleges gÃºnyolÃ³dnod. KÃ©tlem, hogy kÃ©pes vagy megÃ©rteni, mit-miÃ©rt teszÃ¼nk.}
+{141}{}{IgazÃ¡n? Ilyen nehÃ©z felfogÃ¡sÃºnak lÃ¡tszom? KitÃ¶ltÃ¼nk egy IQ tesztet Ã©s Ã¶sszehasonlÃ­tjuk az eredmÃ©nyt, asszony?}
+{142}{}{ElnÃ©zÃ©st, nem akartalak megbÃ¡ntani. KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get.}
+{143}{}{Most sok a dolgom. Ha kÃ©rdÃ©sed van, tedd fel Steve-nek, az ÃœdvÃ¶zl? Hivatal SegÃ©d ÃœdvÃ¶zl?jÃ©nek!}

@@ -2,10 +2,10 @@
 {101}{}{Tu vois une femme.}
 {102}{}{C'est un citoyen de l'Abbaye.}
 {103}{}{C'est une citoyenne de l'Abbaye.}
-{200}{}{Bienvenue, étranger.}
-{201}{}{Paix à toi.}
-{202}{}{Cet endroit est génial !}
+{200}{}{Bienvenue, Ã©tranger.}
+{201}{}{Paix Ã  toi.}
+{202}{}{Cet endroit est gÃ©nial !}
 {203}{}{Bonjour.}
 {204}{}{Beau temps.}
-{205}{}{Soyez prudent dans les terres dévastées.}
+{205}{}{Soyez prudent dans les terres dÃ©vastÃ©es.}
 {500}{}{ORDURE !}

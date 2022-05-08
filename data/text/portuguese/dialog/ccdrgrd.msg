@@ -1,64 +1,64 @@
-{100}{}{Você vê alguém na armadura de combate.}
-{101}{}{Você vê o guarda da porta do comandante.}
-{102}{}{Você vê alguém na armadura de combate. Há uma insígnia no peitoral que você não está familiarizado.}
-{103}{}{Senhor! Qual é o seu negócio aqui?}
+{100}{}{VocÃª vÃª alguÃ©m na armadura de combate.}
+{101}{}{VocÃª vÃª o guarda da porta do comandante.}
+{102}{}{VocÃª vÃª alguÃ©m na armadura de combate. HÃ¡ uma insÃ­gnia no peitoral que vocÃª nÃ£o estÃ¡ familiarizado.}
+{103}{}{Senhor! Qual Ã© o seu negÃ³cio aqui?}
 {104}{}{O que este lugar?}
 {105}{}{Uh... eu novo aqui.}
 {106}{}{Eu aqui limpo.}
-{107}{}{Não Me lembro. - Me ir.}
-{108}{}{O que é este lugar?}
+{107}{}{NÃ£o Me lembro. - Me ir.}
+{108}{}{O que Ã© este lugar?}
 {109}{}{Oi, eu sou novo aqui.}
-{110}{}{Estou aqui para limpar o escritório do comandante.}
-{111}{}{Não importa.}
-{112}{}{Este é o escritório do comandante da base. Esta área está fora de limites para todo o pessoal. Vou pedir-lhe que vá embora, senhor.}
-{113}{}{Me ter negócios com o comandante.}
+{110}{}{Estou aqui para limpar o escritÃ³rio do comandante.}
+{111}{}{NÃ£o importa.}
+{112}{}{Este Ã© o escritÃ³rio do comandante da base. Esta Ã¡rea estÃ¡ fora de limites para todo o pessoal. Vou pedir-lhe que vÃ¡ embora, senhor.}
+{113}{}{Me ter negÃ³cios com o comandante.}
 {114}{}{Bem.}
-{115}{}{Eu tenho negócios com o comandante.}
+{115}{}{Eu tenho negÃ³cios com o comandante.}
 {116}{}{Tudo certo.}
-{117}{}{Qual é a natureza do seu negócio, senhor?}
+{117}{}{Qual Ã© a natureza do seu negÃ³cio, senhor?}
 {118}{}{Uh...}
 {119}{}{Merda. Me estragar...}
-{120}{}{Deixa pra lá. Eu vou.}
+{120}{}{Deixa pra lÃ¡. Eu vou.}
 {121}{}{Bem...}
-{122}{}{Uh, recebemos uma chamada da base de segurança. Parece que eles estão preocupados com a passagem do petroleiro na mão errada. Nós vamos trancá-lo.}
-{123}{}{Estou de saída.}
-{124}{}{Senhor, este é o seu último aviso. Eu tenho que pedir para sair desta área.}
+{122}{}{Uh, recebemos uma chamada da base de seguranÃ§a. Parece que eles estÃ£o preocupados com a passagem do petroleiro na mÃ£o errada. NÃ³s vamos trancÃ¡-lo.}
+{123}{}{Estou de saÃ­da.}
+{124}{}{Senhor, este Ã© o seu Ãºltimo aviso. Eu tenho que pedir para sair desta Ã¡rea.}
 {125}{}{Ok.}
 {126}{}{Ah... Foda-se. Me atirar.}
 {127}{}{Foda-se. Entrando com armas ardendo.}
-{128}{}{O que? Oh, entendi. Você ferrou o cachorrinho e Dornan's colocou você em detalhes de limpeza.}
+{128}{}{O que? Oh, entendi. VocÃª ferrou o cachorrinho e Dornan's colocou vocÃª em detalhes de limpeza.}
 {129}{}{Sim... me parafuso... cachorrinho e... eca.}
-{130}{}{(falando para si mesmo) Comandante. O pessoal da limpeza está aqui, senhor. (pausa) sim, senhor. (olhando para você) Continue.}
+{130}{}{(falando para si mesmo) Comandante. O pessoal da limpeza estÃ¡ aqui, senhor. (pausa) sim, senhor. (olhando para vocÃª) Continue.}
 {131}{}{Obrigado.}
-{132}{}{(falando para si mesmo) Comandante. O detalhe da segurança está aqui. A base principal quer que a senha do petroleiro seja segura. (pausa) sim, senhor. (olhando para você) Continue.}
+{132}{}{(falando para si mesmo) Comandante. O detalhe da seguranÃ§a estÃ¡ aqui. A base principal quer que a senha do petroleiro seja segura. (pausa) sim, senhor. (olhando para vocÃª) Continue.}
 {133}{}{Deixe-me ver seus pedidos.}
 {134}{}{Obrigado.}
-{135}{}{Oh, não os trouxe comigo.}
-{136}{}{(silenciosamente) Você deve estar perdido então. Este é o escritório do comandante da base. Ninguém é permitido aqui a menos que o velho o envie.}
-{137}{}{Ninguém vem aqui? Nunca?}
-{138}{}{Ninguém o vê?}
-{139}{}{(silêncio) Ninguém. Bem, apenas a equipe de limpeza. Eles geralmente vêm por aqui em uma hora ou assim. Além disso, este lugar é fora dos limites. Agora, é melhor você cair fora.}
+{135}{}{Oh, nÃ£o os trouxe comigo.}
+{136}{}{(silenciosamente) VocÃª deve estar perdido entÃ£o. Este Ã© o escritÃ³rio do comandante da base. NinguÃ©m Ã© permitido aqui a menos que o velho o envie.}
+{137}{}{NinguÃ©m vem aqui? Nunca?}
+{138}{}{NinguÃ©m o vÃª?}
+{139}{}{(silÃªncio) NinguÃ©m. Bem, apenas a equipe de limpeza. Eles geralmente vÃªm por aqui em uma hora ou assim. AlÃ©m disso, este lugar Ã© fora dos limites. Agora, Ã© melhor vocÃª cair fora.}
 {140}{}{Tudo bem.}
-{141}{}{(falando para si mesmo) Comandante. O pessoal da limpeza está aqui, senhor. (pausa) sim, senhor. (olhando para você) Continue.}
-{142}{}{Você veio cedo. Volte mais tarde.}
+{141}{}{(falando para si mesmo) Comandante. O pessoal da limpeza estÃ¡ aqui, senhor. (pausa) sim, senhor. (olhando para vocÃª) Continue.}
+{142}{}{VocÃª veio cedo. Volte mais tarde.}
 {143}{}{Tudo bem.}
-{144}{}{Em seguida, volte para o centro e faça com que imprimam o pedido.}
+{144}{}{Em seguida, volte para o centro e faÃ§a com que imprimam o pedido.}
 {145}{}{Tudo bem.}
-{146}{}{Você deve procurar o arsenal. Volte para o corredor, vire à direita e é a primeira porta à esquerda. Você terá seu problema lá.}
+{146}{}{VocÃª deve procurar o arsenal. Volte para o corredor, vire Ã  direita e Ã© a primeira porta Ã  esquerda. VocÃª terÃ¡ seu problema lÃ¡.}
 {147}{}{Obrigado.}
-{148}{}{Quem diabos são vocês... Alerta! Intrusos!}
+{148}{}{Quem diabos sÃ£o vocÃªs... Alerta! Intrusos!}
 {149}{}{Temos sido infiltrados! Alerta!}
-{150}{}{Vários intrusos! Soar o alarme!}
-{151}{}{Alerta de segurança! Selo de base!}
-{152}{}{Proteja todas as estações! Estamos em alerta!}
-{153}{}{Alerta de intrusão! Vá código vermelho!}
-{154}{}{Nós vamos colocá-lo abaixo!}
+{150}{}{VÃ¡rios intrusos! Soar o alarme!}
+{151}{}{Alerta de seguranÃ§a! Selo de base!}
+{152}{}{Proteja todas as estaÃ§Ãµes! Estamos em alerta!}
+{153}{}{Alerta de intrusÃ£o! VÃ¡ cÃ³digo vermelho!}
+{154}{}{NÃ³s vamos colocÃ¡-lo abaixo!}
 {155}{}{O Enclave vai dominar o mundo!}
-{156}{}{Você morre para que o Enclave sobreviva!}
-{160}{}{Você voltou. Você trouxe a ordem para o Fob com você?}
-{161}{}{Não, ainda não. Eu vou buscar.}
-{162}{}{Okay, certo. Eu lhe digo que a equipe de limpeza está chegando e então você mágicamente se torna um deles.
-  Você nem me deixou a vista. Você acha que eu sou um idiota? Saia daqui!}
-{200}{}{(falando para si mesmo) Comandante. (pausa) Você está ai Comandante? (pausa) Hmm ... Sem resposta. Isso não é dele.
-  É melhor eu verificá-lo.}
-{201}{}{Puta merda, o Comandante está morto! Som, alarmes, temos um intruso!!}
+{156}{}{VocÃª morre para que o Enclave sobreviva!}
+{160}{}{VocÃª voltou. VocÃª trouxe a ordem para o Fob com vocÃª?}
+{161}{}{NÃ£o, ainda nÃ£o. Eu vou buscar.}
+{162}{}{Okay, certo. Eu lhe digo que a equipe de limpeza estÃ¡ chegando e entÃ£o vocÃª mÃ¡gicamente se torna um deles.
+Â  VocÃª nem me deixou a vista. VocÃª acha que eu sou um idiota? Saia daqui!}
+{200}{}{(falando para si mesmo) Comandante. (pausa) VocÃª estÃ¡ ai Comandante? (pausa) Hmm ... Sem resposta. Isso nÃ£o Ã© dele.
+Â  Ã‰ melhor eu verificÃ¡-lo.}
+{201}{}{Puta merda, o Comandante estÃ¡ morto! Som, alarmes, temos um intruso!!}

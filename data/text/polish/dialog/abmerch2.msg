@@ -1,6 +1,6 @@
 {100}{}{Widzisz handlarza.}
-{101}{}{Wygl¹da, ¿e pomaga cz³owiekowi naprawiaj¹cemu pompê.}
-{102}{}{To zajmuje wiêcej czasu ni¿ myœleliœmy.}
-{103}{}{Porozmawiaj z szefem jeœli myœlisz, ¿e mo¿esz pomóc.}
-{104}{}{Dobra robota z t¹ pomp¹.}
-{105}{}{Jeszcze raz dziêki za pomoc.}
+{101}{}{WyglÄ…da, Å¼e pomaga czÅ‚owiekowi naprawiajÄ…cemu pompÄ™.}
+{102}{}{To zajmuje wiÄ™cej czasu niÅ¼ myÅ›leliÅ›my.}
+{103}{}{Porozmawiaj z szefem jeÅ›li myÅ›lisz, Å¼e moÅ¼esz pomÃ³c.}
+{104}{}{Dobra robota z tÄ… pompÄ….}
+{105}{}{Jeszcze raz dziÄ™ki za pomoc.}

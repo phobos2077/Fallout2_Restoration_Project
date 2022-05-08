@@ -2,12 +2,12 @@
 {101}{}{One-Eyed Roy watches you intently with his good eye as he mops sweat from his forehead.}
 {200}{}{[As you and Krom approach the meeting site, you're greeted by a chubby merchant with an eyepatch and a
  small entourage of bodyguards. Though the merchant is sweating profusely, he appears downright cheerful.]}
-{201}{}{[TOV¡BB]}
+{201}{}{[TOV√ÅBB]}
 {202}{}{[After the merchant gives Krom an enthusiastic greeting, he turns to you and looks you over. Though his grin
  never falters, his probing eye betrays a hint of suspicion.] So Krom here says I'm to do business with you today.
  [He shrugs.] Folks call me One-Eyed Roy, but I can't for the life of me figure out why. [He laughs heartily at his joke.]
  What's your name, friend?}
-{203}{}{…n }
+{203}{}{√ân }
 {204}{}{ of Arroyo.}
 {205}{}{. Now let's get this underway.}
 {210}{}{A true pleasure to meetcha, }
@@ -43,12 +43,12 @@
 {260}{}{[He grins at you and Krom, then turns to one of his bodyguards.] Warren, come give me your hand. [The guard frowns,
  but does as he's told. Roy quickly takes out a knife and slashes it across the top of Warren's arm. Warren
  winces with pain but does not cry out. Roy grins at you.] As you can see, Warren's got quite a nasty gash here.}
-{261}{}{[TOV¡BB]}
+{261}{}{[TOV√ÅBB]}
 {262}{}{I assure you friends, the cut, and Warren's pain, are quite genuine. You can see this is no trick blade. [He hands
  the knife to Krom, who hardly glances at it before nodding and handing it back.] But now, look. [He injects the stimpak
  into Warren's arm. Almost instantly, the bleeding stops. Roy uses a dirty rag to mop away most of the blood, revealing a
  gash that's nearly healed.]}
-{263}{}{[TOV¡BB]}
+{263}{}{[TOV√ÅBB]}
 {264}{}{Now just imagine the advantage having stimpaks would give you over your rival tribes. And unlike that healing
  powder you fellas like to brew up, the stimpak does *not* cause drowsiness. In fact, this little wonder is completely
  *without* side effects. But I know what you're thinking, they must cost a fortune, right? Wrong. Because I *like* you,

@@ -1,1 +1,1 @@
-{100}{}{Œciany tej jaskini to po³¹czenie naturalnej ska³y i œcian wykonanych przez ludzi. Wygl¹da jakby dawno temu zniszczy³ to miejsce wielki wybuch.}
+{100}{}{Åšciany tej jaskini to poÅ‚Ä…czenie naturalnej skaÅ‚y i Å›cian wykonanych przez ludzi. WyglÄ…da jakby dawno temu zniszczyÅ‚ to miejsce wielki wybuch.}

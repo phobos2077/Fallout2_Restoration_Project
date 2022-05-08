@@ -1,64 +1,64 @@
-{100}{}{Widzisz ¿o³nierza w pancerzu wspomaganym Enklawy.}
-{101}{}{Widzisz sier¿anta Granita.}
-{102}{}{Widzisz ¿o³nierza z pagonami sier¿anta na ramionach.}
-{103}{}{Za³atwmy tego œwira.}
-{104}{}{Puœæcie mnie do nich!}
+{100}{}{Widzisz Å¼oÅ‚nierza w pancerzu wspomaganym Enklawy.}
+{101}{}{Widzisz sierÅ¼anta Granita.}
+{102}{}{Widzisz Å¼oÅ‚nierza z pagonami sierÅ¼anta na ramionach.}
+{103}{}{ZaÅ‚atwmy tego Å›wira.}
+{104}{}{PuÅ›Ä‡cie mnie do nich!}
 {105}{}{Jazda! Jazda!}
-{106}{}{Zabawimy siê.}
-{107}{}{Wykoñczmy tê ofiarê!}
+{106}{}{Zabawimy siÄ™.}
+{107}{}{WykoÅ„czmy tÄ™ ofiarÄ™!}
 {108}{}{Podziurawmy go.}
 {109}{}{Dobra, jestem gotowy do drogi.}
 {110}{}{No to walimy!}
-{111}{}{Podpalê to dziwad³o!}
-{112}{}{Nie lubiê zabijaæ przyg³upów.}
-{113}{}{Mo¿esz iœæ.}
-{114}{}{Ja tam nic nie widzia³em.}
-{115}{}{To nie tych droidów szukamy.}
+{111}{}{PodpalÄ™ to dziwadÅ‚o!}
+{112}{}{Nie lubiÄ™ zabijaÄ‡ przygÅ‚upÃ³w.}
+{113}{}{MoÅ¼esz iÅ›Ä‡.}
+{114}{}{Ja tam nic nie widziaÅ‚em.}
+{115}{}{To nie tych droidÃ³w szukamy.}
 {116}{}{Ni tamuj ruchu.}
-{117}{}{Mam ju¿ doœæ zabijania.}
-{118}{}{No ju¿, do dzie³a!}
+{117}{}{Mam juÅ¼ doÅ›Ä‡ zabijania.}
+{118}{}{No juÅ¼, do dzieÅ‚a!}
 {119}{}{Spocznij.}
-{120}{}{Uwa¿aj, mutasie.}
-{121}{}{¯yczê szczêœcia, mutancie. Przyda ci siê.}
-{122}{}{Stój! Czego tu szukasz?}
-{123}{}{Chcê wróciæ do mojego ludu.}
-{124}{}{Nie twój interes.}
+{120}{}{UwaÅ¼aj, mutasie.}
+{121}{}{Å»yczÄ™ szczÄ™Å›cia, mutancie. Przyda ci siÄ™.}
+{122}{}{StÃ³j! Czego tu szukasz?}
+{123}{}{ChcÄ™ wrÃ³ciÄ‡ do mojego ludu.}
+{124}{}{Nie twÃ³j interes.}
 {125}{}{Nie mam czasu na twoje pytania.}
-{126}{}{A kim ty jesteœ?}
-{127}{}{No wiesz, ten œwir, Agent Horrigan, mija³ mnie przed chwil¹. On tylko czeka, ¿eby ktoœ spróbowa³ st¹d zwiaæ.}
+{126}{}{A kim ty jesteÅ›?}
+{127}{}{No wiesz, ten Å›wir, Agent Horrigan, mijaÅ‚ mnie przed chwilÄ…. On tylko czeka, Å¼eby ktoÅ› sprÃ³bowaÅ‚ stÄ…d zwiaÄ‡.}
 {128}{}{Kto to taki?}
-{129}{}{Tutaj siê mylisz. Powiedzmy, ¿e dzisiaj wszystko mnie interesuje. No i? Co tu do cholery robisz?}
-{130}{}{Próbujê wróciæ na statek, ¿eby uciec z moimi wspó³plemieñcami.}
-{131}{}{No to lepiej ZNAJD czas.}
-{132}{}{Dlaczego? Co masz na myœli?}
-{133}{}{Nie ma szans. Ale mogê dla ciebie znaleŸæ ³adn¹ kulkê.}
-{134}{}{Rób co chcesz, ale pamiêtaj, ¿e ciê ostrzega³em.}
-{135}{}{Ostrzega³eœ? O czym?}
-{136}{}{Jasne, ostrzega³eœ. A teraz giñ, szumowino.}
-{137}{}{To jakieœ genetycznie zmodyfikowane dziwad³o. Kiedyœ by³ osobistym ochroniarzem Prezydenta. Tajny Agent Frank Horrigan. Teraz jest na wpó³ maszyn¹.}
+{129}{}{Tutaj siÄ™ mylisz. Powiedzmy, Å¼e dzisiaj wszystko mnie interesuje. No i? Co tu do cholery robisz?}
+{130}{}{PrÃ³bujÄ™ wrÃ³ciÄ‡ na statek, Å¼eby uciec z moimi wspÃ³Å‚plemieÅ„cami.}
+{131}{}{No to lepiej ZNAJDÅ¹ czas.}
+{132}{}{Dlaczego? Co masz na myÅ›li?}
+{133}{}{Nie ma szans. Ale mogÄ™ dla ciebie znaleÅºÄ‡ Å‚adnÄ… kulkÄ™.}
+{134}{}{RÃ³b co chcesz, ale pamiÄ™taj, Å¼e ciÄ™ ostrzegaÅ‚em.}
+{135}{}{OstrzegaÅ‚eÅ›? O czym?}
+{136}{}{Jasne, ostrzegaÅ‚eÅ›. A teraz giÅ„, szumowino.}
+{137}{}{To jakieÅ› genetycznie zmodyfikowane dziwadÅ‚o. KiedyÅ› byÅ‚ osobistym ochroniarzem Prezydenta. Tajny Agent Frank Horrigan. Teraz jest na wpÃ³Å‚ maszynÄ….}
 {138}{}{Brzmi nieciekawie.}
-{139}{}{Zabija³em ju¿ lepszych od niego. Za kilka minut bêdzie z niego mokra plama.}
-{140}{}{Ojej, a¿ siê trzêsê ze strachu. Stul pysk. }
-{141}{}{To ma³o powiedziane. On ciê rozsmaruje po œcianach. Jest szybki, twardy i cholernie wredny. Widzia³em co robi³ z mutantami - nie jest to ³adny widok.}
-{142}{}{Ja nie jestem mutantem i... eee, co z nimi robi³?}
-{143}{}{Wolê o tym nie mówiæ. Œni mi siê to póŸniej po nocach. Powiedzmy, ¿e te œciany nie s¹ tak naprawdê pokryte rdz¹.}
-{144}{}{No to chyba nie bêdzie ³atwo go min¹æ.}
-{145}{}{To jeszcze ma³o powiedziane. ¯al mi ciebie. S³owo.}
-{146}{}{¯al? Martw siê o siebie. Komputer waszej stacji zasilania diabli wziêli. Za chwilê z tego miejsca zostan¹ tylko zgliszcza. Wszyscy zginiecie, chyba ¿e...}
-{147}{}{Nie chcê, ¿ebyœ siê nade mn¹ u¿ala³. Chcê, ¿ebyœ zgin¹³.}
-{148}{}{Mam jeszcze du¿o do zrobienia. I tak ju¿ po was wszystkich. Nacieszcie siê ostatnimi minutami ¿ycia na tym œwiecie. Do widzenia.}
-{149}{}{Chyba, ¿e co?!?}
-{150}{}{Chyba, ¿e pomo¿esz mi pokonaæ Horrigana i dostaæ siê do mojego statku.}
-{151}{}{Niewa¿ne. Nie mam czasu na d³ugie pogawêdki. Do widzenia.}
-{152}{}{Jaaasne. I co jeszcze? Skoro reaktor nie dzia³a, czemu mamy nadal oœwietlenie. Co, cwaniaczku? He he, nie nabierzesz mnie.}
-{153}{}{To tylko oœwietlenie awaryjne. Wiem, gdzie *by³* ten komputer. On nie jest zepsuty, jego po prostu *nie ma.* Mówiê ci, za parê minut bêdzie tutaj piek³o...}
-{154}{}{Nie mam czasu na k³ótnie. Mam nadziejê, ¿e dobrzy z was p³ywacy. ¯egnam.}
-{155}{}{Przestañ mi tu bajaæ. Rozœmieszasz mnie tylko. Ale wiesz co? Wygl¹dasz mi na kogo, kto wytrzyma z Horriganem ca³¹ minutê. To bêdzie nowy rekord. Powodzenia, mutancie.}
-{156}{}{Jej, ale szczodroœæ z twojej strony. Chyba muszê siê najpierw rozgrzaæ. Najlepiej na tobie i twoich ludziach.}
-{157}{}{Zrzuæ tê zbrojê, bêdzie ci ³atwiej p³yn¹æ do brzegu. ¯egnaj.}
-{158}{}{Dobra, dobra. Nie mogê mówiæ za wszystkich, ale mój oddzia³ i ja zrobimy co w naszej mocy, ¿eby wykoñczyæ tego œwira Horrigana. Nie zamierzam tu zdychaæ jak szczur.}
-{159}{}{M¹dra decyzja. Bierzmy siê do roboty. Nie mamy du¿o czasu.}
-{160}{}{Sier¿ant Granit z Kompanii KE.}
+{139}{}{ZabijaÅ‚em juÅ¼ lepszych od niego. Za kilka minut bÄ™dzie z niego mokra plama.}
+{140}{}{Ojej, aÅ¼ siÄ™ trzÄ™sÄ™ ze strachu. Stul pysk. }
+{141}{}{To maÅ‚o powiedziane. On ciÄ™ rozsmaruje po Å›cianach. Jest szybki, twardy i cholernie wredny. WidziaÅ‚em co robiÅ‚ z mutantami - nie jest to Å‚adny widok.}
+{142}{}{Ja nie jestem mutantem i... eee, co z nimi robiÅ‚?}
+{143}{}{WolÄ™ o tym nie mÃ³wiÄ‡. Åšni mi siÄ™ to pÃ³Åºniej po nocach. Powiedzmy, Å¼e te Å›ciany nie sÄ… tak naprawdÄ™ pokryte rdzÄ….}
+{144}{}{No to chyba nie bÄ™dzie Å‚atwo go minÄ…Ä‡.}
+{145}{}{To jeszcze maÅ‚o powiedziane. Å»al mi ciebie. SÅ‚owo.}
+{146}{}{Å»al? Martw siÄ™ o siebie. Komputer waszej stacji zasilania diabli wziÄ™li. Za chwilÄ™ z tego miejsca zostanÄ… tylko zgliszcza. Wszyscy zginiecie, chyba Å¼e...}
+{147}{}{Nie chcÄ™, Å¼ebyÅ› siÄ™ nade mnÄ… uÅ¼alaÅ‚. ChcÄ™, Å¼ebyÅ› zginÄ…Å‚.}
+{148}{}{Mam jeszcze duÅ¼o do zrobienia. I tak juÅ¼ po was wszystkich. Nacieszcie siÄ™ ostatnimi minutami Å¼ycia na tym Å›wiecie. Do widzenia.}
+{149}{}{Chyba, Å¼e co?!?}
+{150}{}{Chyba, Å¼e pomoÅ¼esz mi pokonaÄ‡ Horrigana i dostaÄ‡ siÄ™ do mojego statku.}
+{151}{}{NiewaÅ¼ne. Nie mam czasu na dÅ‚ugie pogawÄ™dki. Do widzenia.}
+{152}{}{Jaaasne. I co jeszcze? Skoro reaktor nie dziaÅ‚a, czemu mamy nadal oÅ›wietlenie. Co, cwaniaczku? He he, nie nabierzesz mnie.}
+{153}{}{To tylko oÅ›wietlenie awaryjne. Wiem, gdzie *byÅ‚* ten komputer. On nie jest zepsuty, jego po prostu *nie ma.* MÃ³wiÄ™ ci, za parÄ™ minut bÄ™dzie tutaj piekÅ‚o...}
+{154}{}{Nie mam czasu na kÅ‚Ã³tnie. Mam nadziejÄ™, Å¼e dobrzy z was pÅ‚ywacy. Å»egnam.}
+{155}{}{PrzestaÅ„ mi tu bajaÄ‡. RozÅ›mieszasz mnie tylko. Ale wiesz co? WyglÄ…dasz mi na kogo, kto wytrzyma z Horriganem caÅ‚Ä… minutÄ™. To bÄ™dzie nowy rekord. Powodzenia, mutancie.}
+{156}{}{Jej, ale szczodroÅ›Ä‡ z twojej strony. Chyba muszÄ™ siÄ™ najpierw rozgrzaÄ‡. Najlepiej na tobie i twoich ludziach.}
+{157}{}{ZrzuÄ‡ tÄ™ zbrojÄ™, bÄ™dzie ci Å‚atwiej pÅ‚ynÄ…Ä‡ do brzegu. Å»egnaj.}
+{158}{}{Dobra, dobra. Nie mogÄ™ mÃ³wiÄ‡ za wszystkich, ale mÃ³j oddziaÅ‚ i ja zrobimy co w naszej mocy, Å¼eby wykoÅ„czyÄ‡ tego Å›wira Horrigana. Nie zamierzam tu zdychaÄ‡ jak szczur.}
+{159}{}{MÄ…dra decyzja. Bierzmy siÄ™ do roboty. Nie mamy duÅ¼o czasu.}
+{160}{}{SierÅ¼ant Granit z Kompanii KE.}
 {161}{}{Kompanii KE?}
 {162}{}{Kompanii Kontroli Enklawy. Zabezpieczamy granice. Przynajmniej zwykle.}
 {163}{}{Rozumiem. Jak to zwykle?}

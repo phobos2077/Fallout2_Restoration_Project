@@ -1,2 +1,2 @@
-1:Você morreu.
-2:Você nunca deve saber o que aconteceu com sua aldeia sequestrada.
+1:VocÃª morreu.
+2:VocÃª nunca deve saber o que aconteceu com sua aldeia sequestrada.

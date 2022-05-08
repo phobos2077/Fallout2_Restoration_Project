@@ -1,77 +1,77 @@
-{100}{}{Egy koszos prémvadászt látsz, akinek a ruhája szakadt és véres. Kicsit sántít az egyik lábára.}
-{101}{}{Smileyt a prémvadászt látod. Csöppet biceg és gondterhelt.}
-{102}{}{? Smiley, a prémvadász. Sokkal jobban néz ki, mióta megmentetted a barlangból.}
-{103}{}{Véres és szakadt prémvadász-ruhába öltözött középkorú férfi. Nem úgy néz ki, mint aki jól van.}
-{104}{}{Smileyt, a prémvadászt látod. Sokkal egészségesebb, mióta kiszabadítottad a gekkók karmai közül.}
-{110}{}{Üdvözöllek idegen. Smiley a nevem. Örülök, hogy látlak, nélküled már biztos halott lennék! Túlságosan lesérültem, hogy egyedül túljussak azokon a gyíkokon.}
-{111}{}{Smiley, he-he-he. Okké.}
-{112}{}{Mit csinálsz itt?}
-{113}{}{Örülök, hogy találkoztunk, Smiley, de most már mennem kell.}
-{120}{}{Remek. Újabb Torr. Nekem (magára mutat) szükségem van rád (rád mutat), hogy kijussak innen (ujjaival járást mutogat).}
-{121}{}{Menni? Most? Okké.}
-{122}{}{Hess$ Rossz gyík! Rossz!}
-{130}{}{Igen! Ez az! Menjünk (megint az ujjaival megy) együtt (összeüti a tenyerét). Most azonnal!}
+{100}{}{Egy koszos prÃ©mvadÃ¡szt lÃ¡tsz, akinek a ruhÃ¡ja szakadt Ã©s vÃ©res. Kicsit sÃ¡ntÃ­t az egyik lÃ¡bÃ¡ra.}
+{101}{}{Smileyt a prÃ©mvadÃ¡szt lÃ¡tod. CsÃ¶ppet biceg Ã©s gondterhelt.}
+{102}{}{? Smiley, a prÃ©mvadÃ¡sz. Sokkal jobban nÃ©z ki, miÃ³ta megmentetted a barlangbÃ³l.}
+{103}{}{VÃ©res Ã©s szakadt prÃ©mvadÃ¡sz-ruhÃ¡ba Ã¶ltÃ¶zÃ¶tt kÃ¶zÃ©pkorÃº fÃ©rfi. Nem Ãºgy nÃ©z ki, mint aki jÃ³l van.}
+{104}{}{Smileyt, a prÃ©mvadÃ¡szt lÃ¡tod. Sokkal egÃ©szsÃ©gesebb, miÃ³ta kiszabadÃ­tottad a gekkÃ³k karmai kÃ¶zÃ¼l.}
+{110}{}{ÃœdvÃ¶zÃ¶llek idegen. Smiley a nevem. Ã–rÃ¼lÃ¶k, hogy lÃ¡tlak, nÃ©lkÃ¼led mÃ¡r biztos halott lennÃ©k! TÃºlsÃ¡gosan lesÃ©rÃ¼ltem, hogy egyedÃ¼l tÃºljussak azokon a gyÃ­kokon.}
+{111}{}{Smiley, he-he-he. OkkÃ©.}
+{112}{}{Mit csinÃ¡lsz itt?}
+{113}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk, Smiley, de most mÃ¡r mennem kell.}
+{120}{}{Remek. Ãšjabb Torr. Nekem (magÃ¡ra mutat) szÃ¼ksÃ©gem van rÃ¡d (rÃ¡d mutat), hogy kijussak innen (ujjaival jÃ¡rÃ¡st mutogat).}
+{121}{}{Menni? Most? OkkÃ©.}
+{122}{}{Hess$ Rossz gyÃ­k! Rossz!}
+{130}{}{Igen! Ez az! MenjÃ¼nk (megint az ujjaival megy) egyÃ¼tt (Ã¶sszeÃ¼ti a tenyerÃ©t). Most azonnal!}
 {131}{}{Smiley menni }
 {132}{}{ mellett most.}
 {133}{}{Smiley nem megy }
-{134}{}{. Nem szeret Smileyt. Viszlát!}
-{140}{}{Hé! Várj! Nem hagyhatsz csak így itt!}
-{141}{}{Ó, bocsánat. Mit is gondolhattam?}
-{142}{}{Hát, tényleg nem.}
-{143}{}{Azt hiszem, most épp ezt fogom tenni. Viszlát!}
-{150}{}{Mindig több aranygekkót fogtam Klamathtól észak-nyugatra, mint máshol, így arra gondoltam, hogy az összes aranygekkó valahol arrafelé élhet.}
-{151}{}{Úgy t?nik, igazad volt.}
-{160}{}{Szívesen csevegnék még, de mi lenne ha lelépnénk innen?}
-{161}{}{Ömm, igaz, ez jó ötlet.}
-{162}{}{Csak még egy kérdés. Mit tudsz ezekr?l a barlangokról?}
-{170}{}{Túlságosan is igazam volt. Simán bejutottam, de ekkor egy rohadt aranygekkó mögém került és majdnem letépte a lábam. Épp hogy elértem idáig.}
-{171}{}{Kíváncsi vagyok ,miért nem intéztek el?}
-{180}{}{Hát, gondolom ?k sem szeretnek átmászni azon a trutyin. Mondjuk nem hibáztatom ?ket, mert az aztán éget. ha a b?rödre kerül, bár úgy isszák, mintha a legjobb pia lenne.}
-{181}{}{Érdekes.}
-{190}{}{Elég a beszédb?l! T?zzünk el innen! Együtt biztos kijutunk. Örülnék, ha segítenél.}
-{191}{}{Persze, csatlakozz nyugodtan! Biztonságban visszajuttatlak Klamathba, Ardin biztos örülni fog.}
-{192}{}{Hát, rendben, de ne nyafogj állandóan segítségért!}
-{200}{}{Ez a barlang úgy néz ki, mint egy háború el?tti raktár. Kell lennie még egy szintnek, de van valami francos elektromos lakat az ajtón. Mindegy, nekem elegem van ebb?l a helyb?l, lépjünk innen.}
-{201}{}{OKÉ.}
+{134}{}{. Nem szeret Smileyt. ViszlÃ¡t!}
+{140}{}{HÃ©! VÃ¡rj! Nem hagyhatsz csak Ã­gy itt!}
+{141}{}{Ã“, bocsÃ¡nat. Mit is gondolhattam?}
+{142}{}{HÃ¡t, tÃ©nyleg nem.}
+{143}{}{Azt hiszem, most Ã©pp ezt fogom tenni. ViszlÃ¡t!}
+{150}{}{Mindig tÃ¶bb aranygekkÃ³t fogtam KlamathtÃ³l Ã©szak-nyugatra, mint mÃ¡shol, Ã­gy arra gondoltam, hogy az Ã¶sszes aranygekkÃ³ valahol arrafelÃ© Ã©lhet.}
+{151}{}{Ãšgy t?nik, igazad volt.}
+{160}{}{SzÃ­vesen csevegnÃ©k mÃ©g, de mi lenne ha lelÃ©pnÃ©nk innen?}
+{161}{}{Ã–mm, igaz, ez jÃ³ Ã¶tlet.}
+{162}{}{Csak mÃ©g egy kÃ©rdÃ©s. Mit tudsz ezekr?l a barlangokrÃ³l?}
+{170}{}{TÃºlsÃ¡gosan is igazam volt. SimÃ¡n bejutottam, de ekkor egy rohadt aranygekkÃ³ mÃ¶gÃ©m kerÃ¼lt Ã©s majdnem letÃ©pte a lÃ¡bam. Ã‰pp hogy elÃ©rtem idÃ¡ig.}
+{171}{}{KÃ­vÃ¡ncsi vagyok ,miÃ©rt nem intÃ©ztek el?}
+{180}{}{HÃ¡t, gondolom ?k sem szeretnek Ã¡tmÃ¡szni azon a trutyin. Mondjuk nem hibÃ¡ztatom ?ket, mert az aztÃ¡n Ã©get. ha a b?rÃ¶dre kerÃ¼l, bÃ¡r Ãºgy isszÃ¡k, mintha a legjobb pia lenne.}
+{181}{}{Ã‰rdekes.}
+{190}{}{ElÃ©g a beszÃ©db?l! T?zzÃ¼nk el innen! EgyÃ¼tt biztos kijutunk. Ã–rÃ¼lnÃ©k, ha segÃ­tenÃ©l.}
+{191}{}{Persze, csatlakozz nyugodtan! BiztonsÃ¡gban visszajuttatlak Klamathba, Ardin biztos Ã¶rÃ¼lni fog.}
+{192}{}{HÃ¡t, rendben, de ne nyafogj Ã¡llandÃ³an segÃ­tsÃ©gÃ©rt!}
+{200}{}{Ez a barlang Ãºgy nÃ©z ki, mint egy hÃ¡borÃº el?tti raktÃ¡r. Kell lennie mÃ©g egy szintnek, de van valami francos elektromos lakat az ajtÃ³n. Mindegy, nekem elegem van ebb?l a helyb?l, lÃ©pjÃ¼nk innen.}
+{201}{}{OKÃ‰.}
 {210}{}{Whew. I think I just used up some lives that time around. Why don't you come over to the
  Buckner place a little later on and I'll make sure you get a nice reward for saving me.}
-{211}{}{Kösz, Smiley. Szívesen tettem. Viszlát!}
-{212}{}{Oké, persze. Viszlát!}
-{213}{}{Már attól féltem, megfeledkezel a jutalomról. Remélem, elég nagy lesz. Viszlát!}
-{220}{}{Csak nem az én kis gyengeelméj? barátom?! Még egyszer kösz. A viszont látásra.}
-{221}{}{Helló, barátom! Még egyszer kösz, hogy kihúztál a pácból. Segíthetek valamiben?}
-{222}{}{Még valamit, barátom?}
-{223}{}{Nos, volna néhány kérdésem a gekkókról.}
-{224}{}{Szeretnék tudni pár dolgot a környékr?l.}
-{225}{}{Gondolom, Mrs. Buckner örül, hogy újra láthat.}
-{226}{}{Nem kösz, csak köszönni akartam. Majd kés?bb beszélünk. Viszlát!}
-{230}{}{Sokkal tartozom, amiért megmentettél. A legkevesebb, hogy cserébe megtanítalak pár dologra.}
-{231}{}{Tanítani akarsz?}
-{232}{}{Kösz Smiley. Hálás lennék ha adnál pár tippet.}
-{240}{}{Mivel azok a rohadék gekkók majdnem kicsináltak, megmutatom, hogyan nyúzd meg ?ket. Valahogy így... (Smiley bemutatja a technikát.) ...Szóval miután elkaptál egyet, megnyúzod szépen és jó pénzért eladod a b?rét. Vili?}
-{241}{}{Hö... höhöhö... szépp... höhöhöhöö... elaad... höhöhö. Szija!}
-{242}{}{Kösz, ez biztos jól fog jönni. De most másra is kiváncsi lennék.}
-{243}{}{Kösz, hogy megmutattad a módszert. Asszem, megyek és gyakorlok pár gekkón. Viszlát!}
-{250}{}{Azt hiszem, most már mindent tudsz a gekkókról.}
-{251}{}{Hehe. Talán inkább te taníthatnál nekem valamit a gekkókról. Én már nem tudok segíteni ebben.}
-{252}{}{Hát, azt hiszem, többet tudok a gekkókról, mint bárki más. Tudod, én gekkó-tejen n?ttem fel. De egy pár óráig eltarthat a dolog.}
-{253}{}{Mindent tudni akarok a gekkókról, amit csak lehet.}
-{254}{}{Erre most nem vagyok kíváncsi. Viszont beszélhetnénk valami másról.}
-{255}{}{Gekkó-tej?? Úgy tudtam, a gekkók hüll?k.}
-{260}{}{Sokkal többet kell tudnod, mint hinnéd.}
-{261}{}{Taníts engem, ó nagy vadász!}
+{211}{}{KÃ¶sz, Smiley. SzÃ­vesen tettem. ViszlÃ¡t!}
+{212}{}{OkÃ©, persze. ViszlÃ¡t!}
+{213}{}{MÃ¡r attÃ³l fÃ©ltem, megfeledkezel a jutalomrÃ³l. RemÃ©lem, elÃ©g nagy lesz. ViszlÃ¡t!}
+{220}{}{Csak nem az Ã©n kis gyengeelmÃ©j? barÃ¡tom?! MÃ©g egyszer kÃ¶sz. A viszont lÃ¡tÃ¡sra.}
+{221}{}{HellÃ³, barÃ¡tom! MÃ©g egyszer kÃ¶sz, hogy kihÃºztÃ¡l a pÃ¡cbÃ³l. SegÃ­thetek valamiben?}
+{222}{}{MÃ©g valamit, barÃ¡tom?}
+{223}{}{Nos, volna nÃ©hÃ¡ny kÃ©rdÃ©sem a gekkÃ³krÃ³l.}
+{224}{}{SzeretnÃ©k tudni pÃ¡r dolgot a kÃ¶rnyÃ©kr?l.}
+{225}{}{Gondolom, Mrs. Buckner Ã¶rÃ¼l, hogy Ãºjra lÃ¡that.}
+{226}{}{Nem kÃ¶sz, csak kÃ¶szÃ¶nni akartam. Majd kÃ©s?bb beszÃ©lÃ¼nk. ViszlÃ¡t!}
+{230}{}{Sokkal tartozom, amiÃ©rt megmentettÃ©l. A legkevesebb, hogy cserÃ©be megtanÃ­talak pÃ¡r dologra.}
+{231}{}{TanÃ­tani akarsz?}
+{232}{}{KÃ¶sz Smiley. HÃ¡lÃ¡s lennÃ©k ha adnÃ¡l pÃ¡r tippet.}
+{240}{}{Mivel azok a rohadÃ©k gekkÃ³k majdnem kicsinÃ¡ltak, megmutatom, hogyan nyÃºzd meg ?ket. Valahogy Ã­gy... (Smiley bemutatja a technikÃ¡t.) ...SzÃ³val miutÃ¡n elkaptÃ¡l egyet, megnyÃºzod szÃ©pen Ã©s jÃ³ pÃ©nzÃ©rt eladod a b?rÃ©t. Vili?}
+{241}{}{HÃ¶... hÃ¶hÃ¶hÃ¶... szÃ©pp... hÃ¶hÃ¶hÃ¶hÃ¶Ã¶... elaad... hÃ¶hÃ¶hÃ¶. Szija!}
+{242}{}{KÃ¶sz, ez biztos jÃ³l fog jÃ¶nni. De most mÃ¡sra is kivÃ¡ncsi lennÃ©k.}
+{243}{}{KÃ¶sz, hogy megmutattad a mÃ³dszert. Asszem, megyek Ã©s gyakorlok pÃ¡r gekkÃ³n. ViszlÃ¡t!}
+{250}{}{Azt hiszem, most mÃ¡r mindent tudsz a gekkÃ³krÃ³l.}
+{251}{}{Hehe. TalÃ¡n inkÃ¡bb te tanÃ­thatnÃ¡l nekem valamit a gekkÃ³krÃ³l. Ã‰n mÃ¡r nem tudok segÃ­teni ebben.}
+{252}{}{HÃ¡t, azt hiszem, tÃ¶bbet tudok a gekkÃ³krÃ³l, mint bÃ¡rki mÃ¡s. Tudod, Ã©n gekkÃ³-tejen n?ttem fel. De egy pÃ¡r Ã³rÃ¡ig eltarthat a dolog.}
+{253}{}{Mindent tudni akarok a gekkÃ³krÃ³l, amit csak lehet.}
+{254}{}{Erre most nem vagyok kÃ­vÃ¡ncsi. Viszont beszÃ©lhetnÃ©nk valami mÃ¡srÃ³l.}
+{255}{}{GekkÃ³-tej?? Ãšgy tudtam, a gekkÃ³k hÃ¼ll?k.}
+{260}{}{Sokkal tÃ¶bbet kell tudnod, mint hinnÃ©d.}
+{261}{}{TanÃ­ts engem, Ã³ nagy vadÃ¡sz!}
 {262}{}{Ja, igen. Folytasd csak! Figyelek.}
-{263}{}{Nos, rendben. Mesélj csak! Hallgatlak.}
-{264}{}{Talán nem is kell nekem err?l tudnom. Viszlát!}
-{270}{}{Szóval a helyzet a következ?: az aranygekkó és a sima gekkók alapvet?en ugyanolyanok, kivéve, hogy az aranygekkók sokkal megátalkodottabbak... (az id? lassan telik, miközben egyre többet tudsz meg a gekkókról)}
-{271}{}{Ez remek volt. Úgy érzem, már rengeteget tudok a gekkókról. Kösz szépen, viszlát!}
-{280}{}{Maida Buckner, az özvegy Bucknerné lánya. Vele kell beszélned, ha pletykákat akarsz hallani.}
-{281}{}{Hadd kérdezzek valami mást akkor.}
-{282}{}{Aha, értem. Kösz. Viszlát!}
-{290}{}{Az özvegy Bucknerné annyira örül nekem, hogy talán hamarosan Smiley-né lesz bel?le. Még azt is említette, hogy szeretne neked adni valamit, amiért megmentetted a seggem abból a barlangból.}
-{291}{}{Gratulálok nektek. Hadd kérdezek valamit!}
-{292}{}{Ez csodás! Megyek is, beszélek vele. Viszlát!}
-{300}{}{Hé, kösz hogy megmentetted a szaros seggem. Jobb, ha visszahúzok Klamathba gyorsan. Ott találkozunk!}
-{310}{}{Ne aggódj, innen már egyedül is hazatalálok.}
-{320}{}{Amiért elboronáltad a Hubologista ügyét Merk számára, }
+{263}{}{Nos, rendben. MesÃ©lj csak! Hallgatlak.}
+{264}{}{TalÃ¡n nem is kell nekem err?l tudnom. ViszlÃ¡t!}
+{270}{}{SzÃ³val a helyzet a kÃ¶vetkez?: az aranygekkÃ³ Ã©s a sima gekkÃ³k alapvet?en ugyanolyanok, kivÃ©ve, hogy az aranygekkÃ³k sokkal megÃ¡talkodottabbak... (az id? lassan telik, mikÃ¶zben egyre tÃ¶bbet tudsz meg a gekkÃ³krÃ³l)}
+{271}{}{Ez remek volt. Ãšgy Ã©rzem, mÃ¡r rengeteget tudok a gekkÃ³krÃ³l. KÃ¶sz szÃ©pen, viszlÃ¡t!}
+{280}{}{Maida Buckner, az Ã¶zvegy BucknernÃ© lÃ¡nya. Vele kell beszÃ©lned, ha pletykÃ¡kat akarsz hallani.}
+{281}{}{Hadd kÃ©rdezzek valami mÃ¡st akkor.}
+{282}{}{Aha, Ã©rtem. KÃ¶sz. ViszlÃ¡t!}
+{290}{}{Az Ã¶zvegy BucknernÃ© annyira Ã¶rÃ¼l nekem, hogy talÃ¡n hamarosan Smiley-nÃ© lesz bel?le. MÃ©g azt is emlÃ­tette, hogy szeretne neked adni valamit, amiÃ©rt megmentetted a seggem abbÃ³l a barlangbÃ³l.}
+{291}{}{GratulÃ¡lok nektek. Hadd kÃ©rdezek valamit!}
+{292}{}{Ez csodÃ¡s! Megyek is, beszÃ©lek vele. ViszlÃ¡t!}
+{300}{}{HÃ©, kÃ¶sz hogy megmentetted a szaros seggem. Jobb, ha visszahÃºzok Klamathba gyorsan. Ott talÃ¡lkozunk!}
+{310}{}{Ne aggÃ³dj, innen mÃ¡r egyedÃ¼l is hazatalÃ¡lok.}
+{320}{}{AmiÃ©rt elboronÃ¡ltad a Hubologista Ã¼gyÃ©t Merk szÃ¡mÃ¡ra, }
 {330}{}{ experience points for rescuing Smiley.}

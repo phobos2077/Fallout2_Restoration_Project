@@ -1,2 +1,2 @@
 {100}{}{Widzisz martwego mnicha.}
-{101}{}{Widzisz szcz¹tki Brata Tomasza. Wygl¹da, jakby zgin¹³ bolesn¹ œmierci¹.}
+{101}{}{Widzisz szczÄ…tki Brata Tomasza. WyglÄ…da, jakby zginÄ…Å‚ bolesnÄ… Å›mierciÄ….}

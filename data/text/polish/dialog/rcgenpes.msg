@@ -1,130 +1,130 @@
-{100}{}{Widzisz mieszkañca Redding.}
-{101}{}{Ten mê¿czyna wygl¹da jakby tu mieszka³.}
-{102}{}{Widzisz górnika.}
+{100}{}{Widzisz mieszkaÅ„ca Redding.}
+{101}{}{Ten mÄ™Å¼czyna wyglÄ…da jakby tu mieszkaÅ‚.}
+{102}{}{Widzisz gÃ³rnika.}
 {103}{}{Widzisz farmera z Redding.}
 {104}{}{Widzisz tubylca.}
-{105}{}{Widzisz mieszkankê Redding.}
-{106}{}{Ta kobieta wygl¹da jakby tu mieszka³a.}
-{107}{}{Widzisz tutejsz¹ kobietê.}
-{108}{}{Widzisz kobietê, która prawdopodobnie pracuje w kopalni.}
-{109}{}{Widzisz farmerkê.}
-{110}{}{Na co siê gapisz?}
-{111}{}{Witaj w wielkim mieœcie.}
-{112}{}{Czeœæ.}
-{113}{}{D³ugo ju¿ jesteœ w Redding?}
+{105}{}{Widzisz mieszkankÄ™ Redding.}
+{106}{}{Ta kobieta wyglÄ…da jakby tu mieszkaÅ‚a.}
+{107}{}{Widzisz tutejszÄ… kobietÄ™.}
+{108}{}{Widzisz kobietÄ™, ktÃ³ra prawdopodobnie pracuje w kopalni.}
+{109}{}{Widzisz farmerkÄ™.}
+{110}{}{Na co siÄ™ gapisz?}
+{111}{}{Witaj w wielkim mieÅ›cie.}
+{112}{}{CzeÅ›Ä‡.}
+{113}{}{DÅ‚ugo juÅ¼ jesteÅ› w Redding?}
 {114}{}{Po raz pierwszy w Reeding, co?}
-{115}{}{Nie chcemy tu klopotów.}
-{116}{}{Ja ciê te¿ obserwujê.}
+{115}{}{Nie chcemy tu klopotÃ³w.}
+{116}{}{Ja ciÄ™ teÅ¼ obserwujÄ™.}
 {117}{}{Witaj, przybyszu.}
 {118}{}{Co jest?}
-{119}{}{Jak siê masz?}
-{120}{}{Dzieñ dobry.}
+{119}{}{Jak siÄ™ masz?}
+{120}{}{DzieÅ„ dobry.}
 {121}{}{Taaa.}
 {122}{}{Hej.}
-{123}{}{Widzisz mê¿czyznê z zimnym drinkiem w d³oni.}
-{124}{}{Widzisz mê¿czyznê zamawiaj¹cego piwo.}
-{125}{}{Ten facet chyba za du¿o wypi³.}
+{123}{}{Widzisz mÄ™Å¼czyznÄ™ z zimnym drinkiem w dÅ‚oni.}
+{124}{}{Widzisz mÄ™Å¼czyznÄ™ zamawiajÄ…cego piwo.}
+{125}{}{Ten facet chyba za duÅ¼o wypiÅ‚.}
 {126}{}{Widzisz pijaka.}
-{127}{}{Ten cz³owiek wygl¹da na szczêœliwego.}
-{128}{}{Widzisz kobietê z zimnym drinkiem w d³oni.}
-{129}{}{Widzisz kobietê zamawiaj¹c¹ piwo.}
-{130}{}{Ta kobieta chyba za du¿o wypi³a.}
+{127}{}{Ten czÅ‚owiek wyglÄ…da na szczÄ™Å›liwego.}
+{128}{}{Widzisz kobietÄ™ z zimnym drinkiem w dÅ‚oni.}
+{129}{}{Widzisz kobietÄ™ zamawiajÄ…cÄ… piwo.}
+{130}{}{Ta kobieta chyba za duÅ¼o wypiÅ‚a.}
 {131}{}{Widzisz pijaka.}
-{132}{}{Ta kobieta wygl¹da na zatrut¹.}
-{133}{}{Czeœæ, przybyszu.}
-{134}{}{Czeœæ wszystkim.}
+{132}{}{Ta kobieta wyglÄ…da na zatrutÄ….}
+{133}{}{CzeÅ›Ä‡, przybyszu.}
+{134}{}{CzeÅ›Ä‡ wszystkim.}
 {135}{}{Hmmm.}
 {136}{}{Urp.}
 {137}{}{Gul-gul-gul.}
-{138}{}{Dziêki, przybyszu.}
-{139}{}{NieŸle jak na dzikusa.}
-{140}{}{To mi by³o potrzebne.}
+{138}{}{DziÄ™ki, przybyszu.}
+{139}{}{NieÅºle jak na dzikusa.}
+{140}{}{To mi byÅ‚o potrzebne.}
 {141}{}{Mmm-hmmm.}
-{142}{}{Dziêkujê.}
-{143}{}{Jesteœ moim najlepszym przyjacielem.}
+{142}{}{DziÄ™kujÄ™.}
+{143}{}{JesteÅ› moim najlepszym przyjacielem.}
 {144}{}{Co za kumpel.}
-{145}{}{Jesteœ najlepszy.}
-{146}{}{Dzicy to te¿ ludzie.}
-{147}{}{Nie ma tu ¿adnych kumpli?}
-{148}{}{Chyba coœ zaœpiewam...}
-{149}{}{Odwo³ujê wiêkszoœæ moich poprzednich wypowiedzi.}
+{145}{}{JesteÅ› najlepszy.}
+{146}{}{Dzicy to teÅ¼ ludzie.}
+{147}{}{Nie ma tu Å¼adnych kumpli?}
+{148}{}{Chyba coÅ› zaÅ›piewam...}
+{149}{}{OdwoÅ‚ujÄ™ wiÄ™kszoÅ›Ä‡ moich poprzednich wypowiedzi.}
 {150}{}{Co za kumpel.}
-{151}{}{Dzicy to ludzie jakich lubiê.}
+{151}{}{Dzicy to ludzie jakich lubiÄ™.}
 {152}{}{Hip, hip, hurra dla dzikiego.}
 {153}{}{./~ Sucho mi.../~}
-{154}{}{./~ 99 butelek piwa na œcianie, 99 butelek piwa.../~}
-{155}{}{Wygl¹da na to, ¿e ten cz³owiek jest w swoim domu.}
-{156}{}{Widzisz cz³owieka jedz¹cego posi³ek.}
-{157}{}{Widzisz cz³owieka ceruj¹cego odzie¿.}
-{158}{}{Ten cz³owiek odpoczywa.}
-{159}{}{Ten cz³owiek wypoczywa w swoim domu.}
-{160}{}{Wygl¹da na to, ¿e ta kobieta jest w swoim domu.}
-{161}{}{Widzisz kobietê jedz¹c¹ posilek.}
-{162}{}{Widzisz kobietê ceruj¹c¹ odzie¿.}
+{154}{}{./~ 99 butelek piwa na Å›cianie, 99 butelek piwa.../~}
+{155}{}{WyglÄ…da na to, Å¼e ten czÅ‚owiek jest w swoim domu.}
+{156}{}{Widzisz czÅ‚owieka jedzÄ…cego posiÅ‚ek.}
+{157}{}{Widzisz czÅ‚owieka cerujÄ…cego odzieÅ¼.}
+{158}{}{Ten czÅ‚owiek odpoczywa.}
+{159}{}{Ten czÅ‚owiek wypoczywa w swoim domu.}
+{160}{}{WyglÄ…da na to, Å¼e ta kobieta jest w swoim domu.}
+{161}{}{Widzisz kobietÄ™ jedzÄ…cÄ… posilek.}
+{162}{}{Widzisz kobietÄ™ cerujÄ…cÄ… odzieÅ¼.}
 {163}{}{Ta kobieta odpoczywa.}
 {164}{}{Ta kobieta wypoczywa w swoim domu.}
-{165}{}{Czeœæ.}
+{165}{}{CzeÅ›Ä‡.}
 {166}{}{Co tutaj robisz?}
-{167}{}{Nikt ciê tu nie zaprasza³.}
-{168}{}{OdejdŸ. Nie mamy tu zasi³ków dla dzikusów.}
+{167}{}{Nikt ciÄ™ tu nie zapraszaÅ‚.}
+{168}{}{OdejdÅº. Nie mamy tu zasiÅ‚kÃ³w dla dzikusÃ³w.}
 {169}{}{Spierdalaj!}
 {170}{}{Co robisz w moim domu?}
-{171}{}{Widzisz górnika z Redding.}
-{172}{}{Widzisz górnika.}
-{173}{}{Widzisz zmêczonego górnika.}
-{174}{}{Widzisz górnika z kopalni z³ota.}
-{175}{}{Widzisz kogoœ pokrytego brudem.}
-{176}{}{Ta osoba musi byæ górnikiem.}
-{177}{}{./~ Codziennie jestem starszy i mam wiêcej d³ugów./~}
-{178}{}{Wszêdzie ten brud.}
-{179}{}{Tam jest naprawdê ciemno.}
-{180}{}{Musimy kopaæ.}
+{171}{}{Widzisz gÃ³rnika z Redding.}
+{172}{}{Widzisz gÃ³rnika.}
+{173}{}{Widzisz zmÄ™czonego gÃ³rnika.}
+{174}{}{Widzisz gÃ³rnika z kopalni zÅ‚ota.}
+{175}{}{Widzisz kogoÅ› pokrytego brudem.}
+{176}{}{Ta osoba musi byÄ‡ gÃ³rnikiem.}
+{177}{}{./~ Codziennie jestem starszy i mam wiÄ™cej dÅ‚ugÃ³w./~}
+{178}{}{WszÄ™dzie ten brud.}
+{179}{}{Tam jest naprawdÄ™ ciemno.}
+{180}{}{Musimy kopaÄ‡.}
 {181}{}{Kopiemy tam i tam umieramy.}
-{182}{}{Dlaczego z³ota nie znajduje siê na powierzchni?}
-{183}{}{Widzisz podekscytowan¹ osobê.}
+{182}{}{Dlaczego zÅ‚ota nie znajduje siÄ™ na powierzchni?}
+{183}{}{Widzisz podekscytowanÄ… osobÄ™.}
 {184}{}{Ta osoba jest bardzo zdenerwowana.}
-{185}{}{Widzisz osobê obserwuj¹c¹ ring.}
-{186}{}{Ta osoba wydaje siê podniecona.}
-{187}{}{Widzisz kogoœ, kto musia³ postawiæ pieni¹dze na walkê.}
-{188}{}{Ta osoba wygl¹da na podekscytowan¹.}
+{185}{}{Widzisz osobÄ™ obserwujÄ…cÄ… ring.}
+{186}{}{Ta osoba wydaje siÄ™ podniecona.}
+{187}{}{Widzisz kogoÅ›, kto musiaÅ‚ postawiÄ‡ pieniÄ…dze na walkÄ™.}
+{188}{}{Ta osoba wyglÄ…da na podekscytowanÄ….}
 {189}{}{Bierz go!}
-{190}{}{To by³a moja tygodniowa pensja... znowu.}
+{190}{}{To byÅ‚a moja tygodniowa pensja... znowu.}
 {191}{}{Spoko!}
 {192}{}{Zabij!}
-{193}{}{Za gard³o go!}
+{193}{}{Za gardÅ‚o go!}
 {194}{}{Dorwij drania!}
 {195}{}{Na niego!}
-{196}{}{Dooko³a! Nie, w drug¹ stronê!}
-{197}{}{Uwa¿aj!}
-{198}{}{W³aœnie tak!}
-{199}{}{Uczyñ mnie bogatym!}
+{196}{}{DookoÅ‚a! Nie, w drugÄ… stronÄ™!}
+{197}{}{UwaÅ¼aj!}
+{198}{}{WÅ‚aÅ›nie tak!}
+{199}{}{UczyÅ„ mnie bogatym!}
 {200}{}{Daj mi te nowe buty!}
-{201}{}{Daj mi trochê cukru!}
+{201}{}{Daj mi trochÄ™ cukru!}
 {202}{}{Nogami, durniu! Nogami!}
-{203}{}{Wykoñcz go!}
+{203}{}{WykoÅ„cz go!}
 {204}{}{Walcz!}
-{205}{}{Widzisz ma³ego ch³opca.}
-{206}{}{Ten ma³y ch³opiec przyszed³ na targ.}
-{207}{}{Widzisz m³odego ch³opaka.}
+{205}{}{Widzisz maÅ‚ego chÅ‚opca.}
+{206}{}{Ten maÅ‚y chÅ‚opiec przyszedÅ‚ na targ.}
+{207}{}{Widzisz mÅ‚odego chÅ‚opaka.}
 {208}{}{Widzisz dzieciaka pokrytego kurzem.}
-{209}{}{To dziecko jest pokryte b³otem.}
-{210}{}{Widzisz dziecko poci¹gaj¹ce nosem.}
-{211}{}{Widzisz dziecko gapi¹ce siê na ciebie.}
-{212}{}{Widzisz ma³e dziecko.}
-{213}{}{Widzisz ma³¹ dziewczynkê.}
-{214}{}{Widzisz urocz¹ dziewczynkê.}
-{215}{}{Dzieñ dobry panu.}
+{209}{}{To dziecko jest pokryte bÅ‚otem.}
+{210}{}{Widzisz dziecko pociÄ…gajÄ…ce nosem.}
+{211}{}{Widzisz dziecko gapiÄ…ce siÄ™ na ciebie.}
+{212}{}{Widzisz maÅ‚e dziecko.}
+{213}{}{Widzisz maÅ‚Ä… dziewczynkÄ™.}
+{214}{}{Widzisz uroczÄ… dziewczynkÄ™.}
+{215}{}{DzieÅ„ dobry panu.}
 {216}{}{Co pan robi?}
-{217}{}{Jesteœ kanibalem?}
-{218}{}{Uciekaæ, uciekaæ!}
-{219}{}{Kiedyœ dotkn¹³em martwego gekona.}
+{217}{}{JesteÅ› kanibalem?}
+{218}{}{UciekaÄ‡, uciekaÄ‡!}
+{219}{}{KiedyÅ› dotknÄ…Å‚em martwego gekona.}
 {220}{}{Zjadasz ludzi?}
-{221}{}{Myœla³em,¿e powinieneœ mieæ na g³owie rogi.}
-{222}{}{Sk¹d jesteœ?}
-{223}{}{Jesteœ z daleka?}
-{224}{}{Nie z³apiesz mnie!}
+{221}{}{MyÅ›laÅ‚em,Å¼e powinieneÅ› mieÄ‡ na gÅ‚owie rogi.}
+{222}{}{SkÄ…d jesteÅ›?}
+{223}{}{JesteÅ› z daleka?}
+{224}{}{Nie zÅ‚apiesz mnie!}
 {225}{}{Nyah, nyah, nyah, nyah, nyah!}
-{226}{}{Œmiesznie wygl¹dasz.}
+{226}{}{Åšmiesznie wyglÄ…dasz.}
 {227}{}{Brzydko pachniesz.}
-{228}{}{Dzieñ dobry pani.}
+{228}{}{DzieÅ„ dobry pani.}
 {229}{}{Co pani robi?}

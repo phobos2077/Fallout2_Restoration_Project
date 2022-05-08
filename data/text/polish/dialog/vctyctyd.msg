@@ -1,1 +1,1 @@
-{100}{}{Znajdujesz siê na Podmurzu Kryptopolis. Po drugiej stronie murów widzisz równe rzêdy schludnych, bia³ych budynków.}
+{100}{}{Znajdujesz siÄ™ na Podmurzu Kryptopolis. Po drugiej stronie murÃ³w widzisz rÃ³wne rzÄ™dy schludnych, biaÅ‚ych budynkÃ³w.}

@@ -1,54 +1,54 @@
-{100}{}{Du siehst den Händler Bill.}
-{101}{}{Du siehst einen älteren Kaufmann.}
-{200}{}{Sei gegrüßt, Reisender. Ich bin Bill. Was kann ich für dich tun?}
-{201}{}{Willkommen zurück. Brauchst du noch etwas anderes?}
+{100}{}{Du siehst den HÃ¤ndler Bill.}
+{101}{}{Du siehst einen Ã¤lteren Kaufmann.}
+{200}{}{Sei gegrÃ¼ÃŸt, Reisender. Ich bin Bill. Was kann ich fÃ¼r dich tun?}
+{201}{}{Willkommen zurÃ¼ck. Brauchst du noch etwas anderes?}
 {202}{}{Lass uns handeln.}
-{203}{}{Ich habe gehört, dass du der Mann bist, mit dem ich über die Karawanen reden muss.}
-{204}{}{Schon gut. Tschüss.}
-{210}{}{Sag mal, mir ist aufgefallen, dass hier in Abbey viele alte Geräte und Gegenstände gesammelt werden. Ich nehme nicht an, dass dir im Lauf der Zeit hier irgendetwas... Besonderes, untergekommen ist?}
+{203}{}{Ich habe gehÃ¶rt, dass du der Mann bist, mit dem ich Ã¼ber die Karawanen reden muss.}
+{204}{}{Schon gut. TschÃ¼ss.}
+{210}{}{Sag mal, mir ist aufgefallen, dass hier in Abbey viele alte GerÃ¤te und GegenstÃ¤nde gesammelt werden. Ich nehme nicht an, dass dir im Lauf der Zeit hier irgendetwas... Besonderes, untergekommen ist?}
 {211}{}{Ah, du hast es bemerkt, nicht? Ja, die Menschen von Abbey sind ziemliche begeistert von allem aus der Vorkriegszeit, besonders wenn es Bezug zu Technik hat. Sie haben so eine Art von versponnener Religion darum herum geformt. Ich verstehe es selbst nicht ganz,
- aber sie sind nette Leute, und sie bezahlen gutes Geld für jedes Vorkriegszeug, das ich in die Hände bekomme. Aber wie auch immer, also etwas Besonderes... hmm, [Er blickt kurz zu Marcus rüber.] Könnte sein, dass ich da etwas habe das deinen Freund interessieren könnte.}
+ aber sie sind nette Leute, und sie bezahlen gutes Geld fÃ¼r jedes Vorkriegszeug, das ich in die HÃ¤nde bekomme. Aber wie auch immer, also etwas Besonderes... hmm, [Er blickt kurz zu Marcus rÃ¼ber.] KÃ¶nnte sein, dass ich da etwas habe das deinen Freund interessieren kÃ¶nnte.}
 {212}{}{Ah, du hast es bemerkt, nicht? Ja, die Menschen von Abbey sind ziemliche begeistert von allem aus der Vorkriegszeit, besonders wenn es Bezug zu Technik hat. Sie haben so eine Art von versponnener Religion darum herum geformt. Ich verstehe es selbst nicht ganz,
- aber sie sind nette Leute, und sie bezahlen gutes Geld für jedes Vorkriegszeug, das ich in die Hände bekomme. Aber wie auch immer, also etwas Besonderes... hmm, [Er schaut dich und deine Begleiter an.] Bedaure. Ich glaub nicht, dass ich gerade etwas da hab, dass für euch nützlich sein könnte.}
+ aber sie sind nette Leute, und sie bezahlen gutes Geld fÃ¼r jedes Vorkriegszeug, das ich in die HÃ¤nde bekomme. Aber wie auch immer, also etwas Besonderes... hmm, [Er schaut dich und deine Begleiter an.] Bedaure. Ich glaub nicht, dass ich gerade etwas da hab, dass fÃ¼r euch nÃ¼tzlich sein kÃ¶nnte.}
 {213}{}{Oh gut. Dann lass uns mal schauen was du stattdessen auf Lager hast}
 {214}{}{Na gut. Kann ich noch etwas anderes fragen?}
-{215}{}{Und das wäre?}
-{216}{}{Weißt Du, vor kurzem kam hier ein Händlerkarawane durch. Sie behaupteten,
- sie wären durch den tiefen Süden gereist, wo sie widerliche Mutanten [dreht sich
- zu Marcus um] nichts für ungut, Großer, angegriffen hätten. Jedenfalls haben sie ziemlich damit angegeben,
- wie sie alle Mutanten aus dem Weg geräumt haben, behaupteten, es wären fast ein Dutzend von ihnen gewesen.
- Ich hab' drauf geschissen. Es stellte sich aber heraus, dass sie Beweise dafür hatten.}
+{215}{}{Und das wÃ¤re?}
+{216}{}{WeiÃŸt Du, vor kurzem kam hier ein HÃ¤ndlerkarawane durch. Sie behaupteten,
+ sie wÃ¤ren durch den tiefen SÃ¼den gereist, wo sie widerliche Mutanten [dreht sich
+ zu Marcus um] nichts fÃ¼r ungut, GroÃŸer, angegriffen hÃ¤tten. Jedenfalls haben sie ziemlich damit angegeben,
+ wie sie alle Mutanten aus dem Weg gerÃ¤umt haben, behaupteten, es wÃ¤ren fast ein Dutzend von ihnen gewesen.
+ Ich hab' drauf geschissen. Es stellte sich aber heraus, dass sie Beweise dafÃ¼r hatten.}
 {217}{}{Ja? Was war das?}
-{218}{}{Sie haben eine riesige Mutantenrüstung mitgebracht. So weit ich weiß, haben sie
- die natürlich von einem der längst verstorbenen Mutanten, über den sie im Ödland
- gestolpert sind, gestohlen. Aber wer weiß das schon? Jedenfalls waren sie nicht
+{218}{}{Sie haben eine riesige MutantenrÃ¼stung mitgebracht. So weit ich weiÃŸ, haben sie
+ die natÃ¼rlich von einem der lÃ¤ngst verstorbenen Mutanten, Ã¼ber den sie im Ã–dland
+ gestolpert sind, gestohlen. Aber wer weiÃŸ das schon? Jedenfalls waren sie nicht
  begierig darauf das schwere Ding weiter mit sich herumzuschleppen, so dass sie es mir
  spottbillig angeboten haben. Erst wusste ich nicht, was ich damit anfangen soll,
- aber Geschäft ist Geschäft.}
-{219}{}{Hmm, Ich bin sicher, dass Marcus davon profitieren könnte. Wieviel willst Du dafür haben?}
+ aber GeschÃ¤ft ist GeschÃ¤ft.}
+{219}{}{Hmm, Ich bin sicher, dass Marcus davon profitieren kÃ¶nnte. Wieviel willst Du dafÃ¼r haben?}
 {220}{}{Das ist interessant. Nun, Marcus ist stark genug. Ich glaube nicht, dass wir das Ding
  brauchen. Lass mich Dich was anderes fragen.}
-{221}{}{Nun, diese Teufelsrüstung könnte ganz leicht eingeschmolzen werden, um daraus 3 oder 4
- Rüstungssets zu machen. Sagen wir $3000. }
+{221}{}{Nun, diese TeufelsrÃ¼stung kÃ¶nnte ganz leicht eingeschmolzen werden, um daraus 3 oder 4
+ RÃ¼stungssets zu machen. Sagen wir $3000. }
 {222}{}{Ich habe genug davon.}
 {223}{}{Ich denke, wir lassen es. Lass mich Dich was anderes fragen.}
 {224}{}{Na gut. Das Ding braucht 2 von unserer Sorte, um es zu tragen, also lass mich Dir helfen
- es für Deinen Freund hier anzupassen.}
+ es fÃ¼r Deinen Freund hier anzupassen.}
 {225}{}{[Fertig]}
 {226}{}{Hey, es passt genau!}
-{300}{}{Ich könnte schon das eine oder andere wissen. Worüber möchtest du etwas erfahren?}
+{300}{}{Ich kÃ¶nnte schon das eine oder andere wissen. WorÃ¼ber mÃ¶chtest du etwas erfahren?}
 {301}{}{Wie oft wirst du neu beliefert?}
 {302}{}{Stellen die Karawanen-Treiber auch Leute ein?}
 {303}{}{Auf den zweiten Blick: Ich muss weg.}
-{304}{}{Ich bekomme zwei mal im Monat eine neue Lieferung. Ehrlich gesagt, wünschte ich, dass sie viel öfter kommen würden,
- aber wir liegen nur auf einer unbedeutenden Handelsroute und ich denke, dass es das Beste ist, was wir kriegen können.}
-{305}{}{Ich bin nicht ganz sicher. Gewöhnlich sind die, die hier anhalten,
- sehr gut ausgestattet und nicht wirklich daran interessiert, hier sehr lange rumzuhängen.
- Wenn du darauf aus bist, dich einer anzuschließen, würde ich nach Redding oder sogar runter zur NCR gehen.
- Dort haben sie ziemlich große Karawanen, und tüchtige Helfer werden immer gebraucht.}
+{304}{}{Ich bekomme zwei mal im Monat eine neue Lieferung. Ehrlich gesagt, wÃ¼nschte ich, dass sie viel Ã¶fter kommen wÃ¼rden,
+ aber wir liegen nur auf einer unbedeutenden Handelsroute und ich denke, dass es das Beste ist, was wir kriegen kÃ¶nnen.}
+{305}{}{Ich bin nicht ganz sicher. GewÃ¶hnlich sind die, die hier anhalten,
+ sehr gut ausgestattet und nicht wirklich daran interessiert, hier sehr lange rumzuhÃ¤ngen.
+ Wenn du darauf aus bist, dich einer anzuschlieÃŸen, wÃ¼rde ich nach Redding oder sogar runter zur NCR gehen.
+ Dort haben sie ziemlich groÃŸe Karawanen, und tÃ¼chtige Helfer werden immer gebraucht.}
 {306}{}{Interessant. Mich interessiert noch etwas anderes.}
 {307}{}{Danke. Lass uns handeln.}
-{308}{}{Gut, danke für die Auskunft. Wir sehen uns.}
+{308}{}{Gut, danke fÃ¼r die Auskunft. Wir sehen uns.}
 {400}{}{Hast du alles bekommen, was du brauchst?}
-{401}{}{Eigentlich würde ich gern noch einen Blick auf deine Waren werfen.}
+{401}{}{Eigentlich wÃ¼rde ich gern noch einen Blick auf deine Waren werfen.}
 {402}{}{Ja, ich habe alles. Wir sehen uns.}

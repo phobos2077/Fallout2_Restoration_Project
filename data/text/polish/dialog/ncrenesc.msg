@@ -1,384 +1,384 @@
 {100}{}{Widzisz Renesco Rakieciarza.}
-{150}{}{Widzisz starego mê¿czyznê w wielkich, krzykliwych okularach, wzdychaj¹cego z irytacj¹.}
-{200}{}{Widzisz Renesco Rakieciarza, który w³aœnie zdejmuje swoje pot³uczone okulary i wyciera jedyn¹ ocala³¹ soczewkê.}
-{201}{}{Widzisz Renesco Rakieciarza, który w³aœnie zdejmuje swoje pot³uczone okulary i wyciera jedyn¹ ocala³¹ soczewkê.}
-{210}{}{Tylko to jedno szk³o, to wszystko, o co proszê.}
+{150}{}{Widzisz starego mÄ™Å¼czyznÄ™ w wielkich, krzykliwych okularach, wzdychajÄ…cego z irytacjÄ….}
+{200}{}{Widzisz Renesco Rakieciarza, ktÃ³ry wÅ‚aÅ›nie zdejmuje swoje potÅ‚uczone okulary i wyciera jedynÄ… ocalaÅ‚Ä… soczewkÄ™.}
+{201}{}{Widzisz Renesco Rakieciarza, ktÃ³ry wÅ‚aÅ›nie zdejmuje swoje potÅ‚uczone okulary i wyciera jedynÄ… ocalaÅ‚Ä… soczewkÄ™.}
+{210}{}{Tylko to jedno szkÅ‚o, to wszystko, o co proszÄ™.}
 {211}{}{Cholerne okulary!}
-{212}{}{Przeklête oczy!}
-{213}{}{Masz zamiar coœ KUPIÆ?}
-{214}{}{To nie jest darmowa jad³odajnia. Masz zamiar coœ KUPIÆ?}
-{215}{}{Jak bêdê dalej tak pracowaæ, to oœlepnê.}
-{216}{}{Bêdê potrzebowaæ wiêcej czystego chemtexu dziewiêæ...}
-{217}{}{Zapotrzebowanie roœnie...}
-{225}{}{IdŸ do diab³a.}
-{226}{}{Wynoœ siê, albo ciê zastrzelê. Dwukrotnie.}
-{227}{}{Wynoœ siê ST¥D!}
+{212}{}{PrzeklÄ™te oczy!}
+{213}{}{Masz zamiar coÅ› KUPIÄ†?}
+{214}{}{To nie jest darmowa jadÅ‚odajnia. Masz zamiar coÅ› KUPIÄ†?}
+{215}{}{Jak bÄ™dÄ™ dalej tak pracowaÄ‡, to oÅ›lepnÄ™.}
+{216}{}{BÄ™dÄ™ potrzebowaÄ‡ wiÄ™cej czystego chemtexu dziewiÄ™Ä‡...}
+{217}{}{Zapotrzebowanie roÅ›nie...}
+{225}{}{IdÅº do diabÅ‚a.}
+{226}{}{WynoÅ› siÄ™, albo ciÄ™ zastrzelÄ™. Dwukrotnie.}
+{227}{}{WynoÅ› siÄ™ STÄ„D!}
 {228}{}{Won! Won! Won! Won! Won!}
-{235}{}{(Staruszek nak³ada okulary na nos i wzdycha z rozgoryczeniem) S£UCHAM? Czegó¿ chcesz? }
-{236}{}{No ju¿, facet, wyduœ to z siebie!}
-{237}{}{No ju¿, kobieto, wyduœ to z siebie!}
-{238}{}{Obrzee to wydusiæ z siebie... ty siê lepiej odsuñ (Œwist)}
-{239}{}{Obrzee. Musieæ najpierw rozpi¹æ stanik. Zaczekaæ (Œwist)}
-{240}{}{Cu ja CHCIEÆ? Cu ty MIEÆ?}
-{241}{}{[Powpatruj siê w niego przez chwilê, tylko po to, ¿eby siê upewniæ, ¿e jest prawdziwy, po czym odejdŸ.]}
-{242}{}{Kim jesteœ?}
-{243}{}{Hej, jak chcesz, to mam parê okularów.}
+{235}{}{(Staruszek nakÅ‚ada okulary na nos i wzdycha z rozgoryczeniem) SÅUCHAM? CzegÃ³Å¼ chcesz? }
+{236}{}{No juÅ¼, facet, wyduÅ› to z siebie!}
+{237}{}{No juÅ¼, kobieto, wyduÅ› to z siebie!}
+{238}{}{Obrzee to wydusiÄ‡ z siebie... ty siÄ™ lepiej odsuÅ„ (Åšwist)}
+{239}{}{Obrzee. MusieÄ‡ najpierw rozpiÄ…Ä‡ stanik. ZaczekaÄ‡ (Åšwist)}
+{240}{}{Cu ja CHCIEÄ†? Cu ty MIEÄ†?}
+{241}{}{[Powpatruj siÄ™ w niego przez chwilÄ™, tylko po to, Å¼eby siÄ™ upewniÄ‡, Å¼e jest prawdziwy, po czym odejdÅº.]}
+{242}{}{Kim jesteÅ›?}
+{243}{}{Hej, jak chcesz, to mam parÄ™ okularÃ³w.}
 {244}{}{Jak okulary?}
-{245}{}{Wiesz, s¹ specjalne gatunki bezkofeinowe, które smakuj¹ tak samo dobrze, jak prawdziwy towar.}
-{246}{}{Raany, co ja tu robiê. ¯egnam.}
-{255}{}{(Gapi siê w os³upieniu) }
-{256}{}{...nastêpny poporodowo-usuniêty wrak wypchany zidiocia³ym starym-malutkim, krêc¹cy siê po œwiecie post-nuklearnym. (Unosi piêœci) Won z mojego sklepu! Wynocha, ale to ju¿! I nie wracaj tu, s³yszysz?!}
-{257}{}{Ja biedna ma³a sierotka }
-{258}{}{Ja nie wiem, jak za³o¿yæ stanik}
+{245}{}{Wiesz, sÄ… specjalne gatunki bezkofeinowe, ktÃ³re smakujÄ… tak samo dobrze, jak prawdziwy towar.}
+{246}{}{Raany, co ja tu robiÄ™. Å»egnam.}
+{255}{}{(Gapi siÄ™ w osÅ‚upieniu) }
+{256}{}{...nastÄ™pny poporodowo-usuniÄ™ty wrak wypchany zidiociaÅ‚ym starym-malutkim, krÄ™cÄ…cy siÄ™ po Å›wiecie post-nuklearnym. (Unosi piÄ™Å›ci) Won z mojego sklepu! Wynocha, ale to juÅ¼! I nie wracaj tu, sÅ‚yszysz?!}
+{257}{}{Ja biedna maÅ‚a sierotka }
+{258}{}{Ja nie wiem, jak zaÅ‚oÅ¼yÄ‡ stanik}
 {259}{}{Nie wrzeszcz na }
 {260}{}{ nienawidzi ty! }
-{261}{}{Ju¿ idê, idê. Na razie.}
-{270}{}{Ja? Och, jestem weso³y Œwiêty Nick, ty upoœledzony na mózgu æwieræ-inteligencie.}
-{271}{}{Ja? Jestem weso³y Œwiêty Nick. A TY musisz byæ tym g³upim zbójem-do-wynajêcia, co siê tak krêci po mieœcie jak zag³odzony pies zjadaj¹cy w³asne odchody.}
-{272}{}{Ja? Jestem weso³y Œwiêty Nick. A TY musisz byæ t¹ g³upi¹, dupcz¹c¹ kup¹ pornograficznych œmieci, na któr¹ siê wsiada jak na konia, i która jest równie g³upia.}
-{273}{}{Ja? Jestem weso³y Œwiêty Nick. A TY musisz byæ t¹ g³upi¹ pornoszmat¹, której wciœniêci w swoje nieprzemakalne p³aszcze starcy u¿ywaj¹ do wype³niania swoich masturbacyjnych fantazji.}
-{274}{}{No có¿, w takim razie dobrze, ¿e siê ju¿ nie muszê przedstawiaæ. Czym siê tutaj zajmujesz "Nick"?}
-{275}{}{Œwiêty Nick? A kto to jest u licha?}
-{276}{}{S³uchaj dziadku, jeszcze jeden taki komentarz i zrobiê sobie z twoich zêbów naszyjnik.}
-{277}{}{Wiesz, udam, ¿e nie s³yszê tego komentarza... tym razem. A wiêc kim jesteœ?}
-{278}{}{Zadziwiaj¹ce s³ownictwo... "Nick". Jesteœ st¹d?}
-{279}{}{Niewa¿ne. Spadam st¹d.}
-{290}{}{(Wpatruje siê w ciebie przez chwilê, po czym parska) Renesco jestem. Po prostu powiedz, czego chcesz, ty... no, czymkolwiek tam jesteœ. (Patrzy na ciebie spode ³ba) Spod tego wszystkiego wy³azi z ciebie jedna z tych czcz¹cych s³oñce ma³p.}
-{291}{}{Pochodzê z wioski na pó³nocnym zachodzie. Arroyo.}
+{261}{}{JuÅ¼ idÄ™, idÄ™. Na razie.}
+{270}{}{Ja? Och, jestem wesoÅ‚y ÅšwiÄ™ty Nick, ty upoÅ›ledzony na mÃ³zgu Ä‡wierÄ‡-inteligencie.}
+{271}{}{Ja? Jestem wesoÅ‚y ÅšwiÄ™ty Nick. A TY musisz byÄ‡ tym gÅ‚upim zbÃ³jem-do-wynajÄ™cia, co siÄ™ tak krÄ™ci po mieÅ›cie jak zagÅ‚odzony pies zjadajÄ…cy wÅ‚asne odchody.}
+{272}{}{Ja? Jestem wesoÅ‚y ÅšwiÄ™ty Nick. A TY musisz byÄ‡ tÄ… gÅ‚upiÄ…, dupczÄ…cÄ… kupÄ… pornograficznych Å›mieci, na ktÃ³rÄ… siÄ™ wsiada jak na konia, i ktÃ³ra jest rÃ³wnie gÅ‚upia.}
+{273}{}{Ja? Jestem wesoÅ‚y ÅšwiÄ™ty Nick. A TY musisz byÄ‡ tÄ… gÅ‚upiÄ… pornoszmatÄ…, ktÃ³rej wciÅ›niÄ™ci w swoje nieprzemakalne pÅ‚aszcze starcy uÅ¼ywajÄ… do wypeÅ‚niania swoich masturbacyjnych fantazji.}
+{274}{}{No cÃ³Å¼, w takim razie dobrze, Å¼e siÄ™ juÅ¼ nie muszÄ™ przedstawiaÄ‡. Czym siÄ™ tutaj zajmujesz "Nick"?}
+{275}{}{ÅšwiÄ™ty Nick? A kto to jest u licha?}
+{276}{}{SÅ‚uchaj dziadku, jeszcze jeden taki komentarz i zrobiÄ™ sobie z twoich zÄ™bÃ³w naszyjnik.}
+{277}{}{Wiesz, udam, Å¼e nie sÅ‚yszÄ™ tego komentarza... tym razem. A wiÄ™c kim jesteÅ›?}
+{278}{}{ZadziwiajÄ…ce sÅ‚ownictwo... "Nick". JesteÅ› stÄ…d?}
+{279}{}{NiewaÅ¼ne. Spadam stÄ…d.}
+{290}{}{(Wpatruje siÄ™ w ciebie przez chwilÄ™, po czym parska) Renesco jestem. Po prostu powiedz, czego chcesz, ty... no, czymkolwiek tam jesteÅ›. (Patrzy na ciebie spode Å‚ba) Spod tego wszystkiego wyÅ‚azi z ciebie jedna z tych czczÄ…cych sÅ‚oÅ„ce maÅ‚p.}
+{291}{}{PochodzÄ™ z wioski na pÃ³Å‚nocnym zachodzie. Arroyo.}
 {292}{}{Co tu sprzedajesz?}
-{293}{}{Czego CHCÊ? Naprawdê nie wiem. Przez wiêkszoœæ czasu olewam moj¹ misjê i zagl¹dam do cudzych domów, przeszukuj¹c pó³ki... oooch, zupe³nie takie, jak te tam!}
-{294}{}{Masz ciekawe s³ownictwo... Renesco. Jesteœ tutejszy?}
-{295}{}{Zmiatam st¹d.}
-{305}{}{G³ównie sprzedajê rozrywkowe prochy. W³aœnie dlatego dosta³em ten idiotyczny przydomek, "Rakieciarz". Pfft. Oprócz tego sprzedajê zapasy karawanom. POTRZEBUJESZ czegoœ, czy mogê zaj¹æ siê czymœ istotnym?}
-{306}{}{Rakieciarz, co? Znasz tê piosenkê Eltona Johna - "Rocketman, burning of the mmmmncfnfm at home"? Co on w³aœciwie tak naprawdê tam mówi?}
-{307}{}{Mogê zobaczyæ, co masz na sk³adzie?}
+{293}{}{Czego CHCÄ˜? NaprawdÄ™ nie wiem. Przez wiÄ™kszoÅ›Ä‡ czasu olewam mojÄ… misjÄ™ i zaglÄ…dam do cudzych domÃ³w, przeszukujÄ…c pÃ³Å‚ki... oooch, zupeÅ‚nie takie, jak te tam!}
+{294}{}{Masz ciekawe sÅ‚ownictwo... Renesco. JesteÅ› tutejszy?}
+{295}{}{Zmiatam stÄ…d.}
+{305}{}{GÅ‚Ã³wnie sprzedajÄ™ rozrywkowe prochy. WÅ‚aÅ›nie dlatego dostaÅ‚em ten idiotyczny przydomek, "Rakieciarz". Pfft. OprÃ³cz tego sprzedajÄ™ zapasy karawanom. POTRZEBUJESZ czegoÅ›, czy mogÄ™ zajÄ…Ä‡ siÄ™ czymÅ› istotnym?}
+{306}{}{Rakieciarz, co? Znasz tÄ™ piosenkÄ™ Eltona Johna - "Rocketman, burning of the mmmmncfnfm at home"? Co on wÅ‚aÅ›ciwie tak naprawdÄ™ tam mÃ³wi?}
+{307}{}{MogÄ™ zobaczyÄ‡, co masz na skÅ‚adzie?}
 {308}{}{Sprzedajesz prochy w tym SKLEPIE?}
-{309}{}{Masz na myœli coœ jakby sprzedawanie prochów synowi Wrightów?}
+{309}{}{Masz na myÅ›li coÅ› jakby sprzedawanie prochÃ³w synowi WrightÃ³w?}
 {310}{}{Wracaj do swojej roboty.}
-{320}{}{(Renesco gapi siê na ciebie. Wygl¹da jakby ciê w myœlach rozbiera³, a potem odrywa³ ci po kolei wszystkie koñczyny)}
-{321}{}{W takim razie zapomnijmy o sprawie. Mam jeszcze kilka pytañ...}
-{322}{}{A wiêc niewa¿ne.}
-{330}{}{(Renesco patrzy na ciebie z niesmakiem) Tak. W SKLEPIE. To nie jest 20. wiek, w którym prochy by³y sprzedawane przez naro¿ne robactwo ¿yj¹ce w strachu przed w³adzami.}
-{331}{}{No dobrze, a wiêc...}
+{320}{}{(Renesco gapi siÄ™ na ciebie. WyglÄ…da jakby ciÄ™ w myÅ›lach rozbieraÅ‚, a potem odrywaÅ‚ ci po kolei wszystkie koÅ„czyny)}
+{321}{}{W takim razie zapomnijmy o sprawie. Mam jeszcze kilka pytaÅ„...}
+{322}{}{A wiÄ™c niewaÅ¼ne.}
+{330}{}{(Renesco patrzy na ciebie z niesmakiem) Tak. W SKLEPIE. To nie jest 20. wiek, w ktÃ³rym prochy byÅ‚y sprzedawane przez naroÅ¼ne robactwo Å¼yjÄ…ce w strachu przed wÅ‚adzami.}
+{331}{}{No dobrze, a wiÄ™c...}
 {332}{}{Ale...}
-{333}{}{Uch, chyba lepiej pójdê...}
-{350}{}{To jest NOWE RENO. Tu nie ma glin, nie ma prawa, za to jest mnóstwo klientów, którzy nie maj¹ nic przeciwko kupowaniu trucizny w aptece po drugiej stronie ulicy. Czy TO wystarczaj¹ca odpowiedŸ na twoje pytanie, ma³po?}
-{351}{}{Z ma³ym wyj¹tkiem: czy Richard Wright by³ jednym z twoich klientów?}
-{352}{}{Dobrze ju¿, dobrze... co masz na sk³adzie?}
-{353}{}{W³aœciwie to mam jeszcze kilka pytañ...}
-{354}{}{Ale, jak powiedzia³eœ, narkotyki s¹... truj¹ce. Zabijaj¹ ducha. Czy sprzedawanie ich ci nie przeszkadza?}
-{355}{}{Pewnie. Lepiej ju¿ pójdê.}
-{365}{}{Czy PRZESZKADZA mi, ¿e sprzedajê je idiotom, ³owcom niewolników, zbrodniarzom i dzikusom, bez których œwiat by³by lepszy? Ma³po, trzy sylaby: wy-pchaj-siê.}
-{366}{}{Dobra... mogê zobaczyæ, co masz na sk³adzie?}
-{367}{}{Dobrze ju¿, dobrze. S³uchaj, mam kilka innych pytañ...}
-{368}{}{Narkotyki sprzedawane tu, w Nowym Reno, przedostaj¹ siê do innych miejsc i krzywdz¹ ludzi, którzy tam mieszkaj¹. Czy to ci nie przeszkadza?}
-{369}{}{Najpierw sobie st¹d pójdê.}
-{375}{}{No i? Co oni mnie obchodz¹?}
-{377}{}{Gatunek ludzki prze¿y³ straszn¹ tragediê. Teraz usi³ujemy wszystko odbudowaæ. Sprzedawanie Jetu wydaje siê... antyrozwojowe.}
-{378}{}{Aaa, co tam. Muszê ju¿ iœæ.}
-{385}{}{No. No i co. Nikt nie ZMUSZA tych idiotów do wdychania Jetu. Nikt nie ugania siê za nimi i nie wlewa im tego do garde³!}
-{386}{}{Mogê zobaczyæ...}
+{333}{}{Uch, chyba lepiej pÃ³jdÄ™...}
+{350}{}{To jest NOWE RENO. Tu nie ma glin, nie ma prawa, za to jest mnÃ³stwo klientÃ³w, ktÃ³rzy nie majÄ… nic przeciwko kupowaniu trucizny w aptece po drugiej stronie ulicy. Czy TO wystarczajÄ…ca odpowiedÅº na twoje pytanie, maÅ‚po?}
+{351}{}{Z maÅ‚ym wyjÄ…tkiem: czy Richard Wright byÅ‚ jednym z twoich klientÃ³w?}
+{352}{}{Dobrze juÅ¼, dobrze... co masz na skÅ‚adzie?}
+{353}{}{WÅ‚aÅ›ciwie to mam jeszcze kilka pytaÅ„...}
+{354}{}{Ale, jak powiedziaÅ‚eÅ›, narkotyki sÄ…... trujÄ…ce. ZabijajÄ… ducha. Czy sprzedawanie ich ci nie przeszkadza?}
+{355}{}{Pewnie. Lepiej juÅ¼ pÃ³jdÄ™.}
+{365}{}{Czy PRZESZKADZA mi, Å¼e sprzedajÄ™ je idiotom, Å‚owcom niewolnikÃ³w, zbrodniarzom i dzikusom, bez ktÃ³rych Å›wiat byÅ‚by lepszy? MaÅ‚po, trzy sylaby: wy-pchaj-siÄ™.}
+{366}{}{Dobra... mogÄ™ zobaczyÄ‡, co masz na skÅ‚adzie?}
+{367}{}{Dobrze juÅ¼, dobrze. SÅ‚uchaj, mam kilka innych pytaÅ„...}
+{368}{}{Narkotyki sprzedawane tu, w Nowym Reno, przedostajÄ… siÄ™ do innych miejsc i krzywdzÄ… ludzi, ktÃ³rzy tam mieszkajÄ…. Czy to ci nie przeszkadza?}
+{369}{}{Najpierw sobie stÄ…d pÃ³jdÄ™.}
+{375}{}{No i? Co oni mnie obchodzÄ…?}
+{377}{}{Gatunek ludzki przeÅ¼yÅ‚ strasznÄ… tragediÄ™. Teraz usiÅ‚ujemy wszystko odbudowaÄ‡. Sprzedawanie Jetu wydaje siÄ™... antyrozwojowe.}
+{378}{}{Aaa, co tam. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{385}{}{No. No i co. Nikt nie ZMUSZA tych idiotÃ³w do wdychania Jetu. Nikt nie ugania siÄ™ za nimi i nie wlewa im tego do gardeÅ‚!}
+{386}{}{MogÄ™ zobaczyÄ‡...}
 {387}{}{Ale ja nie...}
 {388}{}{To jest twoje...}
-{395}{}{Ci pustog³owi ³upacze ska³ w Redding WIEDZ¥, co bior¹, wiêc nie poczuwam siê nawet do jednego milimetra szeœciennego wspó³czucia! W moim interesie jest to, ¿e Jet wyplewia tych wszystkich ludzkich œmieci, którzy powinni umrzeæ, jak tylko spad³y bomby!}
-{396}{}{Uch, no dobrze. Mogê zobaczyæ, co masz na sk³adzie?}
-{397}{}{Gdzie jest to Redding, o którym mówisz? Czemu o nim wspomnia³eœ?}
-{398}{}{Zwróci³eœ szczególn¹ uwagê na Redding. Czemu Jet ma takie powodzenie w Redding?}
-{400}{}{To twoje prawo, ¿eby tak to odbieraæ. Muszê ju¿ iœæ.}
-{410}{}{No, Redding to... wyj¹tkowy przypadek. Widzisz, niektórym ludziom w Reno bardzo zale¿y, ¿eby Redding by³o dobrze zaopatrzone. W koñcu przecie¿ jak ju¿ raz siê spróbuje Jetu, to jest siê uzale¿nionym. W³aœnie z tego ¯YJÊ.}
-{411}{}{Skoro ju¿ o tym mowa, mogê zobaczyæ twoje towary?}
+{395}{}{Ci pustogÅ‚owi Å‚upacze skaÅ‚ w Redding WIEDZÄ„, co biorÄ…, wiÄ™c nie poczuwam siÄ™ nawet do jednego milimetra szeÅ›ciennego wspÃ³Å‚czucia! W moim interesie jest to, Å¼e Jet wyplewia tych wszystkich ludzkich Å›mieci, ktÃ³rzy powinni umrzeÄ‡, jak tylko spadÅ‚y bomby!}
+{396}{}{Uch, no dobrze. MogÄ™ zobaczyÄ‡, co masz na skÅ‚adzie?}
+{397}{}{Gdzie jest to Redding, o ktÃ³rym mÃ³wisz? Czemu o nim wspomniaÅ‚eÅ›?}
+{398}{}{ZwrÃ³ciÅ‚eÅ› szczegÃ³lnÄ… uwagÄ™ na Redding. Czemu Jet ma takie powodzenie w Redding?}
+{400}{}{To twoje prawo, Å¼eby tak to odbieraÄ‡. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{410}{}{No, Redding to... wyjÄ…tkowy przypadek. Widzisz, niektÃ³rym ludziom w Reno bardzo zaleÅ¼y, Å¼eby Redding byÅ‚o dobrze zaopatrzone. W koÅ„cu przecieÅ¼ jak juÅ¼ raz siÄ™ sprÃ³buje Jetu, to jest siÄ™ uzaleÅ¼nionym. WÅ‚aÅ›nie z tego Å»YJÄ˜.}
+{411}{}{Skoro juÅ¼ o tym mowa, mogÄ™ zobaczyÄ‡ twoje towary?}
 {412}{}{Kto tak strasznie dba o dobre zaopatrzenie Redding? I dlaczego?}
-{413}{}{Da³o siê zauwa¿yæ. S³uchaj, mam kilka innych pytañ...}
-{414}{}{Rozumiem... muszê ju¿ iœæ.}
-{420}{}{Wiesz, dzikusie, w¹tpiê, ¿eby starczy³o ci rozumu, by zauwa¿yæ to wczeœniej, ale Nowe Reno nie produkuje nic po¿ytecznego. Jest jak du¿y, jasno oœwietlony kawa³ek trawy w samym œrodku pustyni. Z kolei Redding...}
-{421}{}{Mów dalej.}
-{422}{}{...PRODUKUJE coœ po¿ytecznego.}
-{423}{}{Wystarczy mi tego s³uchania.}
-{430}{}{Pierwszy i ostatni raz ciê ostrzegam, dzikusie: nie dokañczaj moich cholernych zdañ. Nie lubiê cwanych ma³p, które gadaj¹ wtedy, kiedy powinny s³uchaæ. Nie dziwota, ¿e wci¹¿ u¿ywacie w³óczni...}
-{431}{}{Nie wszyscy. Ja na przyk³ad u¿ywam do zabijania ludzi bardzo zró¿nicowanego zestawu broni... Pozwól, ¿e ci poka¿ê.}
-{432}{}{Przebacz mi. Proszê, mów dalej.}
-{433}{}{IdŸ do diab³a. Wynoszê siê st¹d. }
-{440}{}{Redding oferuje stabiln¹ si³ê robocz¹, s³u¿¹c¹ do wydobywania surowców, g³ównie z³ota. To z³oto bardzo przyda³oby siê Nowemu Reno. Ktoœ domyœli³ siê, ¿e wszystko, co musimy zrobiæ, to uzale¿niæ górników od Jetu i bêdziemy ich mieæ na ca³e ¿ycie. Teraz rozumiesz?}
-{441}{}{Tak... oprócz jednej rzeczy. Sk¹d wzi¹³ siê Jet?}
-{442}{}{Kto próbuje uzale¿niæ tych wszystkich górników?}
-{443}{}{Pewnie, rozumiem. S³uchaj, mam kilka innych pytañ...}
-{444}{}{Nie chcê s³yszeæ ju¿ nic wiêcej. Muszê ju¿ iœæ.}
-{450}{}{(Pokazuje Myrona palcem) Dlaczego nie zapytasz tego twojego napalonego ropucha tutaj? Na pewno chêtnie ci powie. (Gapi siê na Myrona) Prawda dzieciaku?}
-{451}{}{Jest pewna osoba, której powinniœmy dziêkowaæ za Jet. Dosz³y ciê s³uchy o z³otym ch³opcu rodziny Mordino, Myronie? No wiêc, ten ma³y drañ STWORZY£ Jet. Du¿y Jesus Mordino tylko powiedzia³ wszystkim, gdzie go dostaæ.}
-{452}{}{Opowiedz mi wiêcej o Myronie.}
-{453}{}{Czy jest jakieœ lekarstwo na Jet?}
-{454}{}{Mam kilka innych pytañ...}
-{460}{}{Du¿y Jesus Mordino wlewa ten ca³y Jet prosto do buzi Redding. Typowa gra si³. Jak tylko z³otoci¹g siê rozkrêci, ci górnicy bêd¹ skoñczeni.}
-{461}{}{Sk¹d wzi¹³ siê Jet?}
-{463}{}{Rozumiem. S³uchaj, mam kilka innych pytañ...}
-{470}{}{Ma chcicê i moralnoœæ ropuchy. Ale to sprytny dzieciak. Wysokie IQ. Marnuje swój potencja³ wymyœlaj¹c prochy, to pewne jak to, ¿e dwa razy dwa jest cztery.}
-{471}{}{Gdzie mogê go znaleŸæ?}
-{472}{}{Rozumiem. Mam kilka innych pytañ...}
-{480}{}{Mordino trzymaj¹ go gdzieœ w zamkniêciu. Pewnie dobrze pilnuj¹. Nie wiem, gdzie dok³adnie.}
-{481}{}{Dziêki za informacje. Mogê zobaczyæ twoje towary?}
-{490}{}{LEKARSTWO na uzale¿nienie od metaamfetaminy?! Ha! Znam tylko dwa: jedno z nich to œmieræ. Drugie to zamkniêcie siê w klatce bez Jetu na rok i wypocenie go z organizmu. Pffft. "Lekarstwo", o ludzie! Co za nonsens!}
-{492}{}{Musi istnieæ lekarstwo. Jaki jest sk³ad chemiczny Jetu?}
-{505}{}{Dlaczego nie zapytasz swojego kumpla? To on zaprojektowa³ narkotyk.}
-{506}{}{Ja to tylko sprzedajê. Spyta³bym naukowca. Albo Myrona. To on zaprojektowa³ narkotyk.}
-{515}{}{(Renesco gapi siê na ciebie w ciszy.)}
-{516}{}{(Renesco gapi siê na ciebie, tym razem w ciszy.)}
-{517}{}{Myœlê, ¿e spodoba³oby ci siê Arroyo. To spokojna wioska. Z wyj¹tkiem roœlin nawiedzonych przez z³e duchy... oraz oczywiœcie œwi¹tyni prób wype³nionej zabójczymi pu³apkami w³óczniowymi i mrówkami ludojadkami.}
-{518}{}{Hej, s³ysza³eœ kiedyœ o Generatorze Ekosystemu Cudownej Krainy? Albo o Krypcie 13?}
-{519}{}{No dobrze... zmykam st¹d.}
-{525}{}{(Renesco wci¹¿ siê na ciebie gapi.)}
-{526}{}{No i czasem starsza wœcieka siê o drobiazgi, jak na przyk³ad... he-he tak jak pewnej nocy, kiedy zignorowa³em mój œlub czystoœci i wymkn¹³em siê do kanionu Arroyo z Reny¹ - Której - Nogi - Œciskaj¹ - Z - Si³¹ - Tysi¹ca - Wê¿y...}
-{535}{}{(Renesco posy³a ci zabójcze spojrzenie.)}
-{536}{}{Pamiêtam to, jakby to by³o wczoraj. Cia³o Renyi b³yszcza³o w œwietle ksiê¿yca jak srebro, kiedy uklêk³a i... ej, wiesz co? Pewnie polubi³byœ starsz¹. Jest mniej wiêcej w twoim wieku.}
-{545}{}{(Renesco wci¹¿ gapi siê na ciebie, jak gdyby móg³ spowodowaæ twoje znikniêcie wystarczaj¹co mocno sobie to wyobra¿aj¹c.)}
-{546}{}{Czy wiesz ju¿, ¿e Arroyo zosta³o za³o¿one przez mojego przodka, œwiêtego Przybysza z Krypty? Wed³ug legendy przyby³ z po³udnia po zg³adzeniu wielkiego z³a. (Wypnij pierœ i zapatrz siê z duma w dal) Teraz *ja* mam wybawiæ moje plemiê, to na mnie pad³ wybór, by wyruszyæ w poszukiwaniu œwiêtego GECKa!}
-{547}{}{No dobra, starczy tych opowieœci... lepiej ju¿ pójdê. Chwalcie Kryptê!}
-{555}{}{(Wzrok Renesco miêknie) }
-{556}{}{GECK? Jak "Generator Ekosystemu Cudownej Krainy"? W zestawie znajduje siê podstawowa jednostka replikuj¹ca, czytnik holodysków z wybranymi fragmentami zbiorów biblioteki kongresu oraz ma³y d³ugopis z latark¹?}
-{557}{}{Tak, ale to nie jest teraz wa¿ne. To jeszcze nie koniec mojej opowieœci o Arroyo.}
-{558}{}{Tak! Moja wioska ma k³opoty z uprawami i potrzebujemy GECKa, ¿eby je odnowiæ. Wiesz mo¿e, gdzie mogê go znaleŸæ?}
-{559}{}{Mówi siê, ¿e le¿y zamkniêty w Krypcie 13, w ka¿dym razie tak twierdz¹ legendy. Wiesz mo¿e coœ o tym miejscu?}
-{560}{}{Jeœli nie zamierzasz S£UCHAÆ, kiedy recytujê œwiête zapisy, to odchodzê.}
-{561}{}{Mo¿liwe. Wiesz, muszê ju¿ iœæ.}
-{570}{}{Twoja zapyzia³a, kopc¹ca zió³ka wioska mo¿e iœæ do diab³a, a ty z ni¹. Dlaczego taka ma³pa jak ty szuka GECKa?}
-{571}{}{Arroyo... moja zapyzia³a, kopc¹ca zió³ka wioska, jak j¹ nazywasz... ma k³opoty z uprawami. Potrzebujemy GECKa, aby je odnowiæ.}
-{572}{}{Mówi siê, ¿e GECK zosta³ zamkniêty w Krypcie 13. Wiesz coœ o takim miejscu?}
-{573}{}{Chyba nie mam ochoty dzieliæ siê tym w tej chwili. ¯egnam.}
-{580}{}{Hmmmmm. GECK na pewno móg³by to zrobiæ... z ³atwoœci¹. GDYBY mo¿na by³o gdzieœ go znaleŸæ. Nawet nie wiem, gdzie zacz¹æ szukaæ. Mo¿e w RNK albo w Kryptopolis, ale w¹tpiê, ¿eby wci¹¿ mieli jakiœ... tym niemniej...}
+{413}{}{DaÅ‚o siÄ™ zauwaÅ¼yÄ‡. SÅ‚uchaj, mam kilka innych pytaÅ„...}
+{414}{}{Rozumiem... muszÄ™ juÅ¼ iÅ›Ä‡.}
+{420}{}{Wiesz, dzikusie, wÄ…tpiÄ™, Å¼eby starczyÅ‚o ci rozumu, by zauwaÅ¼yÄ‡ to wczeÅ›niej, ale Nowe Reno nie produkuje nic poÅ¼ytecznego. Jest jak duÅ¼y, jasno oÅ›wietlony kawaÅ‚ek trawy w samym Å›rodku pustyni. Z kolei Redding...}
+{421}{}{MÃ³w dalej.}
+{422}{}{...PRODUKUJE coÅ› poÅ¼ytecznego.}
+{423}{}{Wystarczy mi tego sÅ‚uchania.}
+{430}{}{Pierwszy i ostatni raz ciÄ™ ostrzegam, dzikusie: nie dokaÅ„czaj moich cholernych zdaÅ„. Nie lubiÄ™ cwanych maÅ‚p, ktÃ³re gadajÄ… wtedy, kiedy powinny sÅ‚uchaÄ‡. Nie dziwota, Å¼e wciÄ…Å¼ uÅ¼ywacie wÅ‚Ã³czni...}
+{431}{}{Nie wszyscy. Ja na przykÅ‚ad uÅ¼ywam do zabijania ludzi bardzo zrÃ³Å¼nicowanego zestawu broni... PozwÃ³l, Å¼e ci pokaÅ¼Ä™.}
+{432}{}{Przebacz mi. ProszÄ™, mÃ³w dalej.}
+{433}{}{IdÅº do diabÅ‚a. WynoszÄ™ siÄ™ stÄ…d. }
+{440}{}{Redding oferuje stabilnÄ… siÅ‚Ä™ roboczÄ…, sÅ‚uÅ¼Ä…cÄ… do wydobywania surowcÃ³w, gÅ‚Ã³wnie zÅ‚ota. To zÅ‚oto bardzo przydaÅ‚oby siÄ™ Nowemu Reno. KtoÅ› domyÅ›liÅ‚ siÄ™, Å¼e wszystko, co musimy zrobiÄ‡, to uzaleÅ¼niÄ‡ gÃ³rnikÃ³w od Jetu i bÄ™dziemy ich mieÄ‡ na caÅ‚e Å¼ycie. Teraz rozumiesz?}
+{441}{}{Tak... oprÃ³cz jednej rzeczy. SkÄ…d wziÄ…Å‚ siÄ™ Jet?}
+{442}{}{Kto prÃ³buje uzaleÅ¼niÄ‡ tych wszystkich gÃ³rnikÃ³w?}
+{443}{}{Pewnie, rozumiem. SÅ‚uchaj, mam kilka innych pytaÅ„...}
+{444}{}{Nie chcÄ™ sÅ‚yszeÄ‡ juÅ¼ nic wiÄ™cej. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{450}{}{(Pokazuje Myrona palcem) Dlaczego nie zapytasz tego twojego napalonego ropucha tutaj? Na pewno chÄ™tnie ci powie. (Gapi siÄ™ na Myrona) Prawda dzieciaku?}
+{451}{}{Jest pewna osoba, ktÃ³rej powinniÅ›my dziÄ™kowaÄ‡ za Jet. DoszÅ‚y ciÄ™ sÅ‚uchy o zÅ‚otym chÅ‚opcu rodziny Mordino, Myronie? No wiÄ™c, ten maÅ‚y draÅ„ STWORZYÅ Jet. DuÅ¼y Jesus Mordino tylko powiedziaÅ‚ wszystkim, gdzie go dostaÄ‡.}
+{452}{}{Opowiedz mi wiÄ™cej o Myronie.}
+{453}{}{Czy jest jakieÅ› lekarstwo na Jet?}
+{454}{}{Mam kilka innych pytaÅ„...}
+{460}{}{DuÅ¼y Jesus Mordino wlewa ten caÅ‚y Jet prosto do buzi Redding. Typowa gra siÅ‚. Jak tylko zÅ‚otociÄ…g siÄ™ rozkrÄ™ci, ci gÃ³rnicy bÄ™dÄ… skoÅ„czeni.}
+{461}{}{SkÄ…d wziÄ…Å‚ siÄ™ Jet?}
+{463}{}{Rozumiem. SÅ‚uchaj, mam kilka innych pytaÅ„...}
+{470}{}{Ma chcicÄ™ i moralnoÅ›Ä‡ ropuchy. Ale to sprytny dzieciak. Wysokie IQ. Marnuje swÃ³j potencjaÅ‚ wymyÅ›lajÄ…c prochy, to pewne jak to, Å¼e dwa razy dwa jest cztery.}
+{471}{}{Gdzie mogÄ™ go znaleÅºÄ‡?}
+{472}{}{Rozumiem. Mam kilka innych pytaÅ„...}
+{480}{}{Mordino trzymajÄ… go gdzieÅ› w zamkniÄ™ciu. Pewnie dobrze pilnujÄ…. Nie wiem, gdzie dokÅ‚adnie.}
+{481}{}{DziÄ™ki za informacje. MogÄ™ zobaczyÄ‡ twoje towary?}
+{490}{}{LEKARSTWO na uzaleÅ¼nienie od metaamfetaminy?! Ha! Znam tylko dwa: jedno z nich to Å›mierÄ‡. Drugie to zamkniÄ™cie siÄ™ w klatce bez Jetu na rok i wypocenie go z organizmu. Pffft. "Lekarstwo", o ludzie! Co za nonsens!}
+{492}{}{Musi istnieÄ‡ lekarstwo. Jaki jest skÅ‚ad chemiczny Jetu?}
+{505}{}{Dlaczego nie zapytasz swojego kumpla? To on zaprojektowaÅ‚ narkotyk.}
+{506}{}{Ja to tylko sprzedajÄ™. SpytaÅ‚bym naukowca. Albo Myrona. To on zaprojektowaÅ‚ narkotyk.}
+{515}{}{(Renesco gapi siÄ™ na ciebie w ciszy.)}
+{516}{}{(Renesco gapi siÄ™ na ciebie, tym razem w ciszy.)}
+{517}{}{MyÅ›lÄ™, Å¼e spodobaÅ‚oby ci siÄ™ Arroyo. To spokojna wioska. Z wyjÄ…tkiem roÅ›lin nawiedzonych przez zÅ‚e duchy... oraz oczywiÅ›cie Å›wiÄ…tyni prÃ³b wypeÅ‚nionej zabÃ³jczymi puÅ‚apkami wÅ‚Ã³czniowymi i mrÃ³wkami ludojadkami.}
+{518}{}{Hej, sÅ‚yszaÅ‚eÅ› kiedyÅ› o Generatorze Ekosystemu Cudownej Krainy? Albo o Krypcie 13?}
+{519}{}{No dobrze... zmykam stÄ…d.}
+{525}{}{(Renesco wciÄ…Å¼ siÄ™ na ciebie gapi.)}
+{526}{}{No i czasem starsza wÅ›cieka siÄ™ o drobiazgi, jak na przykÅ‚ad... he-he tak jak pewnej nocy, kiedy zignorowaÅ‚em mÃ³j Å›lub czystoÅ›ci i wymknÄ…Å‚em siÄ™ do kanionu Arroyo z RenyÄ… - KtÃ³rej - Nogi - ÅšciskajÄ… - Z - SiÅ‚Ä… - TysiÄ…ca - WÄ™Å¼y...}
+{535}{}{(Renesco posyÅ‚a ci zabÃ³jcze spojrzenie.)}
+{536}{}{PamiÄ™tam to, jakby to byÅ‚o wczoraj. CiaÅ‚o Renyi bÅ‚yszczaÅ‚o w Å›wietle ksiÄ™Å¼yca jak srebro, kiedy uklÄ™kÅ‚a i... ej, wiesz co? Pewnie polubiÅ‚byÅ› starszÄ…. Jest mniej wiÄ™cej w twoim wieku.}
+{545}{}{(Renesco wciÄ…Å¼ gapi siÄ™ na ciebie, jak gdyby mÃ³gÅ‚ spowodowaÄ‡ twoje znikniÄ™cie wystarczajÄ…co mocno sobie to wyobraÅ¼ajÄ…c.)}
+{546}{}{Czy wiesz juÅ¼, Å¼e Arroyo zostaÅ‚o zaÅ‚oÅ¼one przez mojego przodka, Å›wiÄ™tego Przybysza z Krypty? WedÅ‚ug legendy przybyÅ‚ z poÅ‚udnia po zgÅ‚adzeniu wielkiego zÅ‚a. (Wypnij pierÅ› i zapatrz siÄ™ z duma w dal) Teraz *ja* mam wybawiÄ‡ moje plemiÄ™, to na mnie padÅ‚ wybÃ³r, by wyruszyÄ‡ w poszukiwaniu Å›wiÄ™tego GECKa!}
+{547}{}{No dobra, starczy tych opowieÅ›ci... lepiej juÅ¼ pÃ³jdÄ™. Chwalcie KryptÄ™!}
+{555}{}{(Wzrok Renesco miÄ™knie) }
+{556}{}{GECK? Jak "Generator Ekosystemu Cudownej Krainy"? W zestawie znajduje siÄ™ podstawowa jednostka replikujÄ…ca, czytnik holodyskÃ³w z wybranymi fragmentami zbiorÃ³w biblioteki kongresu oraz maÅ‚y dÅ‚ugopis z latarkÄ…?}
+{557}{}{Tak, ale to nie jest teraz waÅ¼ne. To jeszcze nie koniec mojej opowieÅ›ci o Arroyo.}
+{558}{}{Tak! Moja wioska ma kÅ‚opoty z uprawami i potrzebujemy GECKa, Å¼eby je odnowiÄ‡. Wiesz moÅ¼e, gdzie mogÄ™ go znaleÅºÄ‡?}
+{559}{}{MÃ³wi siÄ™, Å¼e leÅ¼y zamkniÄ™ty w Krypcie 13, w kaÅ¼dym razie tak twierdzÄ… legendy. Wiesz moÅ¼e coÅ› o tym miejscu?}
+{560}{}{JeÅ›li nie zamierzasz SÅUCHAÄ†, kiedy recytujÄ™ Å›wiÄ™te zapisy, to odchodzÄ™.}
+{561}{}{MoÅ¼liwe. Wiesz, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{570}{}{Twoja zapyziaÅ‚a, kopcÄ…ca ziÃ³Å‚ka wioska moÅ¼e iÅ›Ä‡ do diabÅ‚a, a ty z niÄ…. Dlaczego taka maÅ‚pa jak ty szuka GECKa?}
+{571}{}{Arroyo... moja zapyziaÅ‚a, kopcÄ…ca ziÃ³Å‚ka wioska, jak jÄ… nazywasz... ma kÅ‚opoty z uprawami. Potrzebujemy GECKa, aby je odnowiÄ‡.}
+{572}{}{MÃ³wi siÄ™, Å¼e GECK zostaÅ‚ zamkniÄ™ty w Krypcie 13. Wiesz coÅ› o takim miejscu?}
+{573}{}{Chyba nie mam ochoty dzieliÄ‡ siÄ™ tym w tej chwili. Å»egnam.}
+{580}{}{Hmmmmm. GECK na pewno mÃ³gÅ‚by to zrobiÄ‡... z Å‚atwoÅ›ciÄ…. GDYBY moÅ¼na byÅ‚o gdzieÅ› go znaleÅºÄ‡. Nawet nie wiem, gdzie zaczÄ…Ä‡ szukaÄ‡. MoÅ¼e w RNK albo w Kryptopolis, ale wÄ…tpiÄ™, Å¼eby wciÄ…Å¼ mieli jakiÅ›... tym niemniej...}
 {581}{}{Mimo to...?}
-{590}{}{Tym niemniej ci podli, samozwañczy obroñcy prawa mo¿e bêd¹ w stanie wskazaæ ci kierunek poszukiwañ. O ile bêd¹ mówiæ powoli i u¿ywaæ prostych s³ów...}
-{591}{}{Powiadasz: RNK albo Kryptopolis? Pójdê poszukaæ tych miejsc i zapytam o GECK cz³onków tamtejszych plemion. Dziêkujê.}
-{592}{}{Dlaczego GECK mia³by siê nie znajdowaæ w œwiêtej Krypcie 13? Pisma POTWIERDZAJ¥, ¿e GECK le¿y zamkniêty w œwiêtej Krypcie 13.}
-{593}{}{Bardzo zabawne. Mam kilka innych pytañ...}
-{594}{}{Dobra, a wiêc... pójdê to sprawdziæ. Dziêki.}
-{600}{}{Do diab³a, ma³po, nie. S³ysza³em o Kryptach, ale nie o Krypcie 13. Najbli¿sza jej rzecz to Kryptopolis na pó³nocnym wschodzie... ale nawet jeœli te arystokratyczne, nadête balony zamieszkiwa³y kiedyœ Kryptê, to ju¿ kurde na pewno tam nie mieszkaj¹.}
-{601}{}{Kryptopolis powiadasz? Pójdê poszukaæ tego Kryptopolis i zapytam o GECK cz³onków tamtejszego plemienia.}
-{602}{}{"Krypty"? To jest wiêcej ni¿ jedna Krypta?}
-{603}{}{Hmmm. Mam kilka innych pytañ...}
-{610}{}{Jeœli idziesz do Kryptopolis, to mi ma³po nie dziêkuj. Lepiej ci bêdzie z dala od Nowego Reno. W ka¿dym razie ludzie, którzy zdejmuj¹ twoje wymiary na trumnê, s¹ w tej kwestii zdecydowanie powa¿ni.}
-{611}{}{Dobra, a wiêc... wyruszam do Kryptopolis. Chwalcie Kryptê!}
-{612}{}{Rozumiem. Dziêki za ostrze¿enie. }
-{620}{}{A jak myœlisz w³óczniochwalco, dlaczego mówi¹ na ni¹ Krypta TRZYNASTA? Co, twojej wiosce brakuje rozumu, czy po prostu wykonujecie rytualne lobotomie, by wypleniæ ten cichutki g³os rozs¹dku, który obija siê po waszych g³owach?}
-{623}{}{No tak, znowu rzucasz mi te swoje s³odkie gadki. Dziêki... przynajmniej za informacjê.}
-{630}{}{Przesz³oœæ tego i owego nie jest inteligentnym tematem konwersacji w Nowego Reno. No wiêc, czegó¿ chcesz?}
-{632}{}{Wys³awiasz siê jak cz³owiek wyedukowany. S³ysza³eœ mo¿e o GECKu albo o miejscu zwanym Krypt¹ 13?}
-{634}{}{Ju¿ nic. Niewa¿ne. }
-{640}{}{(Renesco wyrywa ci z r¹k okulary i zak³ada je. Jego oczy siê rozszerzaj¹) S³odkie Reno! A wiêc TAK wygl¹da ten przeklêty sklep (Marszczy siê) Co za burdel... a co to le¿y na tych pó³kach? Wygl¹da jak braminie gówno.}
-{641}{}{Ca³a przyjemnoœæ po mojej stronie...}
-{642}{}{Baw siê dobrze. }
-{650}{}{Fffpph? Ja... hmmm... uch... sk¹d je masz?}
-{651}{}{No wiêc, by³ sobie taki ma³y radskorpion, rozumiesz, i by³ taki naukowiec, który go tresowa³, no i... wiesz co? Nawet ja w to nie wierzê. Po prostu je zatrzymaj, dobrze?}
-{652}{}{Powiedzmy po prostu, ¿e wpad³y na mnie przez przypadek. Gdzieœ.}
-{660}{}{Hej! Poczekajma³ymomencik! Sk¹d je masz?}
-{661}{}{No wiêc, by³ sobie taki ma³y radskorpion, rozumiesz, i by³ taki naukowiec, który go tresowa³, no i... wiesz co? Nawet ja w to nie wierzê. Po prostu je zatrzymaj, dobrze?}
-{670}{}{No, ja... ehmmm jestem... ech, wdziêczny. Myœla³em, ¿e ju¿ do koñca ¿ycia bêdê cierpia³ z powodu tych zbitych okularów. Jeœli mogê coœ dla ciebie zrobiæ, to daj mi znaæ... i, uch, PRZEMYŒLÊ to.}
+{590}{}{Tym niemniej ci podli, samozwaÅ„czy obroÅ„cy prawa moÅ¼e bÄ™dÄ… w stanie wskazaÄ‡ ci kierunek poszukiwaÅ„. O ile bÄ™dÄ… mÃ³wiÄ‡ powoli i uÅ¼ywaÄ‡ prostych sÅ‚Ã³w...}
+{591}{}{Powiadasz: RNK albo Kryptopolis? PÃ³jdÄ™ poszukaÄ‡ tych miejsc i zapytam o GECK czÅ‚onkÃ³w tamtejszych plemion. DziÄ™kujÄ™.}
+{592}{}{Dlaczego GECK miaÅ‚by siÄ™ nie znajdowaÄ‡ w Å›wiÄ™tej Krypcie 13? Pisma POTWIERDZAJÄ„, Å¼e GECK leÅ¼y zamkniÄ™ty w Å›wiÄ™tej Krypcie 13.}
+{593}{}{Bardzo zabawne. Mam kilka innych pytaÅ„...}
+{594}{}{Dobra, a wiÄ™c... pÃ³jdÄ™ to sprawdziÄ‡. DziÄ™ki.}
+{600}{}{Do diabÅ‚a, maÅ‚po, nie. SÅ‚yszaÅ‚em o Kryptach, ale nie o Krypcie 13. NajbliÅ¼sza jej rzecz to Kryptopolis na pÃ³Å‚nocnym wschodzie... ale nawet jeÅ›li te arystokratyczne, nadÄ™te balony zamieszkiwaÅ‚y kiedyÅ› KryptÄ™, to juÅ¼ kurde na pewno tam nie mieszkajÄ….}
+{601}{}{Kryptopolis powiadasz? PÃ³jdÄ™ poszukaÄ‡ tego Kryptopolis i zapytam o GECK czÅ‚onkÃ³w tamtejszego plemienia.}
+{602}{}{"Krypty"? To jest wiÄ™cej niÅ¼ jedna Krypta?}
+{603}{}{Hmmm. Mam kilka innych pytaÅ„...}
+{610}{}{JeÅ›li idziesz do Kryptopolis, to mi maÅ‚po nie dziÄ™kuj. Lepiej ci bÄ™dzie z dala od Nowego Reno. W kaÅ¼dym razie ludzie, ktÃ³rzy zdejmujÄ… twoje wymiary na trumnÄ™, sÄ… w tej kwestii zdecydowanie powaÅ¼ni.}
+{611}{}{Dobra, a wiÄ™c... wyruszam do Kryptopolis. Chwalcie KryptÄ™!}
+{612}{}{Rozumiem. DziÄ™ki za ostrzeÅ¼enie. }
+{620}{}{A jak myÅ›lisz wÅ‚Ã³czniochwalco, dlaczego mÃ³wiÄ… na niÄ… Krypta TRZYNASTA? Co, twojej wiosce brakuje rozumu, czy po prostu wykonujecie rytualne lobotomie, by wypleniÄ‡ ten cichutki gÅ‚os rozsÄ…dku, ktÃ³ry obija siÄ™ po waszych gÅ‚owach?}
+{623}{}{No tak, znowu rzucasz mi te swoje sÅ‚odkie gadki. DziÄ™ki... przynajmniej za informacjÄ™.}
+{630}{}{PrzeszÅ‚oÅ›Ä‡ tego i owego nie jest inteligentnym tematem konwersacji w Nowego Reno. No wiÄ™c, czegÃ³Å¼ chcesz?}
+{632}{}{WysÅ‚awiasz siÄ™ jak czÅ‚owiek wyedukowany. SÅ‚yszaÅ‚eÅ› moÅ¼e o GECKu albo o miejscu zwanym KryptÄ… 13?}
+{634}{}{JuÅ¼ nic. NiewaÅ¼ne. }
+{640}{}{(Renesco wyrywa ci z rÄ…k okulary i zakÅ‚ada je. Jego oczy siÄ™ rozszerzajÄ…) SÅ‚odkie Reno! A wiÄ™c TAK wyglÄ…da ten przeklÄ™ty sklep (Marszczy siÄ™) Co za burdel... a co to leÅ¼y na tych pÃ³Å‚kach? WyglÄ…da jak braminie gÃ³wno.}
+{641}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie...}
+{642}{}{Baw siÄ™ dobrze. }
+{650}{}{Fffpph? Ja... hmmm... uch... skÄ…d je masz?}
+{651}{}{No wiÄ™c, byÅ‚ sobie taki maÅ‚y radskorpion, rozumiesz, i byÅ‚ taki naukowiec, ktÃ³ry go tresowaÅ‚, no i... wiesz co? Nawet ja w to nie wierzÄ™. Po prostu je zatrzymaj, dobrze?}
+{652}{}{Powiedzmy po prostu, Å¼e wpadÅ‚y na mnie przez przypadek. GdzieÅ›.}
+{660}{}{Hej! PoczekajmaÅ‚ymomencik! SkÄ…d je masz?}
+{661}{}{No wiÄ™c, byÅ‚ sobie taki maÅ‚y radskorpion, rozumiesz, i byÅ‚ taki naukowiec, ktÃ³ry go tresowaÅ‚, no i... wiesz co? Nawet ja w to nie wierzÄ™. Po prostu je zatrzymaj, dobrze?}
+{670}{}{No, ja... ehmmm jestem... ech, wdziÄ™czny. MyÅ›laÅ‚em, Å¼e juÅ¼ do koÅ„ca Å¼ycia bÄ™dÄ™ cierpiaÅ‚ z powodu tych zbitych okularÃ³w. JeÅ›li mogÄ™ coÅ› dla ciebie zrobiÄ‡, to daj mi znaÄ‡... i, uch, PRZEMYÅšLÄ˜ to.}
 {671}{}{Co powiesz na rabat?}
-{672}{}{Nie przejmuj siê tym... wiesz co, po prostu noœ je i niech ci dobrze s³u¿¹, dobrze? Mam kilka innych pytañ...}
-{673}{}{Kiedyœ - a ten dzieñ mo¿e nigdy nie nadejœæ - wezwê ciê, abyœ mi s³u¿y³. Ale zanim ten dzieñ nadejdzie, przyjmij te okulary jako dar z okazji œlubu mojej córki.}
+{672}{}{Nie przejmuj siÄ™ tym... wiesz co, po prostu noÅ› je i niech ci dobrze sÅ‚uÅ¼Ä…, dobrze? Mam kilka innych pytaÅ„...}
+{673}{}{KiedyÅ› - a ten dzieÅ„ moÅ¼e nigdy nie nadejÅ›Ä‡ - wezwÄ™ ciÄ™, abyÅ› mi sÅ‚uÅ¼yÅ‚. Ale zanim ten dzieÅ„ nadejdzie, przyjmij te okulary jako dar z okazji Å›lubu mojej cÃ³rki.}
 {680}{}{Echh...}
 {681}{}{Eeee...}
-{682}{}{No wiêc...}
+{682}{}{No wiÄ™c...}
 {683}{}{Dobrze! Dobrze! Dam ci rabat! Pfft.}
 {684}{}{No. Tylko malutki rabacik. No...}
-{687}{}{Œwietnie! Zobaczmy co tam masz, "kolego".}
-{688}{}{Œwietnie! Wiesz co, mam do ciebie kilka pytañ...}
-{689}{}{Wrócê póŸniej i zrobiê tu zakupy. }
-{700}{}{Sprê¿aj siê.}
-{701}{}{S³uchaj, jestem zajêty...}
+{687}{}{Åšwietnie! Zobaczmy co tam masz, "kolego".}
+{688}{}{Åšwietnie! Wiesz co, mam do ciebie kilka pytaÅ„...}
+{689}{}{WrÃ³cÄ™ pÃ³Åºniej i zrobiÄ™ tu zakupy. }
+{700}{}{SprÄ™Å¼aj siÄ™.}
+{701}{}{SÅ‚uchaj, jestem zajÄ™ty...}
 {702}{}{No? Dawaj tu te pytania.}
 {703}{}{Taak?}
-{704}{}{Czy s³ysza³eœ ju¿ o mojej wiosce Arroyo?}
-{706}{}{Czy sprzeda³eœ Jet Richardowi Wright?}
-{707}{}{Przybywam, by pobraæ daninê dla pana Salvatore.}
-{710}{}{Szukam czêœci zamiennych do kopalni w Broken Hills...}
-{711}{}{Masz ciekawe s³ownictwo... jesteœ z tej okolicy?}
-{712}{}{Niewa¿ne. }
-{725}{}{(Jego oczy siê zwê¿aj¹) No i?}
-{726}{}{No i potrzebujê tych czêœci, ¿eby naprawiæ filtr powietrza w kopalni. Powiedziano mi, ¿e mo¿esz mi pomóc.}
-{727}{}{No i potrzebujê tych czêœci, ¿eby naprawiæ filtr powietrza w kopalni. Zaius mnie przys³a³. Powiedzia³, uch... powiedzia³... uch... do licha.}
-{728}{}{No i potrzebujê tych czêœci, ¿eby naprawiæ filtr powietrza w kopalni. Zaius mnie przys³a³. Powiedzia³ "Kanarek kopn¹³ w kalendarz".}
-{735}{}{Tak, przypadkiem mam kilka czêœci, które mog¹ siê przydaæ do naprawy filtra. 100 dolców.}
-{736}{}{Biorê. Oto pieni¹dze.}
-{737}{}{Co powiesz na piêædziesi¹t?}
-{738}{}{Uch, nie mam przy sobie ca³ych stu... wrócê jak znajdê kasê.}
-{745}{}{Inflacja zwi¹zana z rosn¹cymi kosztami utrzymania p³ynnoœci psychicznej z powodu irytuj¹cych klientów usi³uj¹cych siê targowaæ. 200 albo nic.}
-{746}{}{(Marszczy siê) 200 albo nic.}
-{747}{}{Dwieœcie?! Jeszcze przed chwil¹ mówi³eœ STO!}
-{748}{}{Uch, wezmê je. Oto pieni¹dze.}
-{749}{}{Uch, nie mam przy sobie ca³ych dwustu... wrócê jak znajdê kasê.}
-{755}{}{ZDECYDOWANIE w¹tpiê, ¿e to w³aœnie powiedzia³. Czy to nie by³o przypadkiem "Kanarek kopn¹³ w kalendarz?".}
-{756}{}{W³aœciwie to tak.}
+{704}{}{Czy sÅ‚yszaÅ‚eÅ› juÅ¼ o mojej wiosce Arroyo?}
+{706}{}{Czy sprzedaÅ‚eÅ› Jet Richardowi Wright?}
+{707}{}{Przybywam, by pobraÄ‡ daninÄ™ dla pana Salvatore.}
+{710}{}{Szukam czÄ™Å›ci zamiennych do kopalni w Broken Hills...}
+{711}{}{Masz ciekawe sÅ‚ownictwo... jesteÅ› z tej okolicy?}
+{712}{}{NiewaÅ¼ne. }
+{725}{}{(Jego oczy siÄ™ zwÄ™Å¼ajÄ…) No i?}
+{726}{}{No i potrzebujÄ™ tych czÄ™Å›ci, Å¼eby naprawiÄ‡ filtr powietrza w kopalni. Powiedziano mi, Å¼e moÅ¼esz mi pomÃ³c.}
+{727}{}{No i potrzebujÄ™ tych czÄ™Å›ci, Å¼eby naprawiÄ‡ filtr powietrza w kopalni. Zaius mnie przysÅ‚aÅ‚. PowiedziaÅ‚, uch... powiedziaÅ‚... uch... do licha.}
+{728}{}{No i potrzebujÄ™ tych czÄ™Å›ci, Å¼eby naprawiÄ‡ filtr powietrza w kopalni. Zaius mnie przysÅ‚aÅ‚. PowiedziaÅ‚ "Kanarek kopnÄ…Å‚ w kalendarz".}
+{735}{}{Tak, przypadkiem mam kilka czÄ™Å›ci, ktÃ³re mogÄ… siÄ™ przydaÄ‡ do naprawy filtra. 100 dolcÃ³w.}
+{736}{}{BiorÄ™. Oto pieniÄ…dze.}
+{737}{}{Co powiesz na piÄ™Ä‡dziesiÄ…t?}
+{738}{}{Uch, nie mam przy sobie caÅ‚ych stu... wrÃ³cÄ™ jak znajdÄ™ kasÄ™.}
+{745}{}{Inflacja zwiÄ…zana z rosnÄ…cymi kosztami utrzymania pÅ‚ynnoÅ›ci psychicznej z powodu irytujÄ…cych klientÃ³w usiÅ‚ujÄ…cych siÄ™ targowaÄ‡. 200 albo nic.}
+{746}{}{(Marszczy siÄ™) 200 albo nic.}
+{747}{}{DwieÅ›cie?! Jeszcze przed chwilÄ… mÃ³wiÅ‚eÅ› STO!}
+{748}{}{Uch, wezmÄ™ je. Oto pieniÄ…dze.}
+{749}{}{Uch, nie mam przy sobie caÅ‚ych dwustu... wrÃ³cÄ™ jak znajdÄ™ kasÄ™.}
+{755}{}{ZDECYDOWANIE wÄ…tpiÄ™, Å¼e to wÅ‚aÅ›nie powiedziaÅ‚. Czy to nie byÅ‚o przypadkiem "Kanarek kopnÄ…Å‚ w kalendarz?".}
+{756}{}{WÅ‚aÅ›ciwie to tak.}
 {760}{}{I...?}
 {761}{}{"No"?}
-{765}{}{No a druga czêœæ brzmia³a...?}
-{766}{}{"Druga czêœæ"? Nic nie mówi³ o DRUGIEJ czêœci. Ten pod³y...!}
-{769}{}{Tylko ciê sprawdzam. Nie ma ¿adnej drugiej czêœci. No dobra, jeœli Zaius ciê przys³a³, to PRZYPUSZCZAM, ¿e mam kilka czêœci, którymi mogê siê podzieliæ.}
-{770}{}{ Proszê. Nie upuœæ.}
-{771}{}{Dziêkujê. Mam jeszcze kilka pytañ...}
-{772}{}{Uch, dziêki. }
-{780}{}{Nie PRÓBUJ nawet obci¹¿aæ mnie tym oskar¿eniem. Jak chcesz wiedzieæ, kto to zrobi³, to zapytaj Tweedledupka i Tweedledebila, czy wci¹¿ jeszcze sprzedaj¹ Jet zakrapiany arszenikiem.}
+{765}{}{No a druga czÄ™Å›Ä‡ brzmiaÅ‚a...?}
+{766}{}{"Druga czÄ™Å›Ä‡"? Nic nie mÃ³wiÅ‚ o DRUGIEJ czÄ™Å›ci. Ten podÅ‚y...!}
+{769}{}{Tylko ciÄ™ sprawdzam. Nie ma Å¼adnej drugiej czÄ™Å›ci. No dobra, jeÅ›li Zaius ciÄ™ przysÅ‚aÅ‚, to PRZYPUSZCZAM, Å¼e mam kilka czÄ™Å›ci, ktÃ³rymi mogÄ™ siÄ™ podzieliÄ‡.}
+{770}{}{ ProszÄ™. Nie upuÅ›Ä‡.}
+{771}{}{DziÄ™kujÄ™. Mam jeszcze kilka pytaÅ„...}
+{772}{}{Uch, dziÄ™ki. }
+{780}{}{Nie PRÃ“BUJ nawet obciÄ…Å¼aÄ‡ mnie tym oskarÅ¼eniem. Jak chcesz wiedzieÄ‡, kto to zrobiÅ‚, to zapytaj Tweedledupka i Tweedledebila, czy wciÄ…Å¼ jeszcze sprzedajÄ… Jet zakrapiany arszenikiem.}
 {781}{}{"Tweedledupek" i "Tweedledebil"? Kto to jest?}
-{782}{}{Jules powiedzia³, ¿eby ciê zapytaæ. Mówi, ¿e sprzedajesz z³e prochy.}
-{783}{}{Szramiasty Jimmy powiedzia³, ¿eby ciê zapytaæ. Mówi, ¿e sprzedajesz z³e prochy.}
-{784}{}{Obaj powiedzieli, ¿eby zapytaæ CIEBIE. Mówi¹, ¿e sprzedajesz z³e prochy.}
-{785}{}{Nie s¹dzê, ¿e to by³ arszenik... ale myœlê, ¿e on ZOSTA£ otruty.}
-{786}{}{Mo¿esz powiedzieæ mi coœ o tym pustym pojemniku po Jecie?}
-{788}{}{Pójdê ich zapytaæ. }
-{795}{}{To ten sêp Jules i ten k³amliwy rozpustnik "Szramiasty Jimmy". Jules zawsze rozk³ada siê przy wejœciu do miasta szukaj¹c nieœwiadomych turystów, których móg³by skrzywdziæ, natomiast Szramisty Jimmy za³atwia na 2-giej Ulicy interesy z ca³¹ reszt¹ miejscowego byd³a.}
-{798}{}{Powiedzieli, ¿eby ciê zapytaæ. Powiedzieli, ¿e sprzedajesz z³e prochy. Prochy, które zabijaj¹ ludzi.}
-{800}{}{Pójdê ich zapytaæ. }
-{805}{}{S³uchaj ma³po... nawet nie WIESZ, o czym bredzisz.}
-{806}{}{Och, myœlê ¿e...}
+{782}{}{Jules powiedziaÅ‚, Å¼eby ciÄ™ zapytaÄ‡. MÃ³wi, Å¼e sprzedajesz zÅ‚e prochy.}
+{783}{}{Szramiasty Jimmy powiedziaÅ‚, Å¼eby ciÄ™ zapytaÄ‡. MÃ³wi, Å¼e sprzedajesz zÅ‚e prochy.}
+{784}{}{Obaj powiedzieli, Å¼eby zapytaÄ‡ CIEBIE. MÃ³wiÄ…, Å¼e sprzedajesz zÅ‚e prochy.}
+{785}{}{Nie sÄ…dzÄ™, Å¼e to byÅ‚ arszenik... ale myÅ›lÄ™, Å¼e on ZOSTAÅ otruty.}
+{786}{}{MoÅ¼esz powiedzieÄ‡ mi coÅ› o tym pustym pojemniku po Jecie?}
+{788}{}{PÃ³jdÄ™ ich zapytaÄ‡. }
+{795}{}{To ten sÄ™p Jules i ten kÅ‚amliwy rozpustnik "Szramiasty Jimmy". Jules zawsze rozkÅ‚ada siÄ™ przy wejÅ›ciu do miasta szukajÄ…c nieÅ›wiadomych turystÃ³w, ktÃ³rych mÃ³gÅ‚by skrzywdziÄ‡, natomiast Szramisty Jimmy zaÅ‚atwia na 2-giej Ulicy interesy z caÅ‚Ä… resztÄ… miejscowego bydÅ‚a.}
+{798}{}{Powiedzieli, Å¼eby ciÄ™ zapytaÄ‡. Powiedzieli, Å¼e sprzedajesz zÅ‚e prochy. Prochy, ktÃ³re zabijajÄ… ludzi.}
+{800}{}{PÃ³jdÄ™ ich zapytaÄ‡. }
+{805}{}{SÅ‚uchaj maÅ‚po... nawet nie WIESZ, o czym bredzisz.}
+{806}{}{Och, myÅ›lÄ™ Å¼e...}
 {807}{}{Ach tak? To dlaczego nie...}
-{808}{}{Niewa¿ne. Mam kilka innych py...}
-{809}{}{Wiesz co, chyba lepiej ju¿ pój...}
-{815}{}{OTWÓRZ tylko znowu tê swoj¹ gêbê i niech tylko PLOTKA, tylko ma³a WSKAZÓWKA, ¿e ja... albo ty... mogliœmy mieæ coœ wspólnego ze zgonem tego dzieciaka, jeœli ona dojdzie do uszu Pana Wrighta, to nasze ¿ycia s¹ gówno warte. Jeœli TO siê zdarzy...}
-{816}{}{Och? A wiêc to ty...}
+{808}{}{NiewaÅ¼ne. Mam kilka innych py...}
+{809}{}{Wiesz co, chyba lepiej juÅ¼ pÃ³j...}
+{815}{}{OTWÃ“RZ tylko znowu tÄ™ swojÄ… gÄ™bÄ™ i niech tylko PLOTKA, tylko maÅ‚a WSKAZÃ“WKA, Å¼e ja... albo ty... mogliÅ›my mieÄ‡ coÅ› wspÃ³lnego ze zgonem tego dzieciaka, jeÅ›li ona dojdzie do uszu Pana Wrighta, to nasze Å¼ycia sÄ… gÃ³wno warte. JeÅ›li TO siÄ™ zdarzy...}
+{816}{}{Och? A wiÄ™c to ty...}
 {817}{}{Ja?! Poczekaj jeden mo...}
-{825}{}{Jeœli TO siê zdarzy, ty niecywilizowana kupo GÓWNA, to PRZYSIÊGAM, ¿e umrzesz szybciej ode mnie. OSTATNI raz powtarzam, ¿e ten dzieciak nigdy nie kupowa³ ode mnie PROCHÓW, zrozumiano? NIGDY nawet nie wymieniaj tutaj jego imienia, albo niech mi...}
-{826}{}{JULES mówi, ¿e nic dzieciakowi nie sprzeda³. JIMMY mówi, ¿e nic dzieciakowi nie sprzeda³. TY mówisz, ¿e nic dzieciakowi nie sprzeda³eœ. Któryœ z was k³amie.}
-{827}{}{JULES mówi, ¿e nic dzieciakowi nie sprzeda³. JIMMY mówi, ¿e nic dzieciakowi nie sprzeda³. TY mówisz, ¿e nic dzieciakowi nie sprzeda³eœ. Albo wszyscy k³amiecie, albo... ktoœ inny jest odpowiedzialny.}
-{828}{}{Mo¿esz powiedzieæ mi coœ jeszcze o Richardzie Wright? Który z jego kumpli móg³ u¿ywaæ narkotyków?}
-{829}{}{No dobra... s³uchaj, mam kilka innych pytañ...}
-{830}{}{No dobrze, dobrze... ju¿ sobie st¹d idê.}
-{835}{}{Mogê na to odpowiedzieæ z ³atwoœci¹. Jeden z tych dwóch kundli k³amie, ¿eby chroniæ swój ty³ek. Tak miêdzy nami, oni sprzedaj¹ 90% Jetu w Reno, a to jedyne miejsce, w którym "ch³opiec", o którym mowa, móg³ to zdobyæ.}
-{836}{}{Lub ktoœ, kto kupi³ Jet od jednego z was trzech. Którzy spoœród twoich klientów w ostatnim miesi¹cu mogli mieæ kontakt z... ofiar¹?}
-{837}{}{Mo¿esz powiedzieæ mi coœ jeszcze o Richardzie Wright? Który z jego kumpli móg³ u¿ywaæ narkotyków?}
-{838}{}{Rozumiem... mam kilka innych pytañ...}
-{839}{}{Idê st¹d. }
-{845}{}{Ty G£UPI œwintuchu. }
-{846}{}{Ty G£UPIA suko. }
-{847}{}{MÓWI£EM ci, ¿eby nie wymawiaæ tu tego imienia. Wynocha! Jeszcze raz ciê zobaczê, TO CIÊ ZASTRZELÊ NA ŒMIERÆ. Jeœli Pan Wright przyjdzie tu mnie szukaæ, myœl¹c ¿e zabi³em dzieciaka, TY zginiesz przede mn¹.}
+{825}{}{JeÅ›li TO siÄ™ zdarzy, ty niecywilizowana kupo GÃ“WNA, to PRZYSIÄ˜GAM, Å¼e umrzesz szybciej ode mnie. OSTATNI raz powtarzam, Å¼e ten dzieciak nigdy nie kupowaÅ‚ ode mnie PROCHÃ“W, zrozumiano? NIGDY nawet nie wymieniaj tutaj jego imienia, albo niech mi...}
+{826}{}{JULES mÃ³wi, Å¼e nic dzieciakowi nie sprzedaÅ‚. JIMMY mÃ³wi, Å¼e nic dzieciakowi nie sprzedaÅ‚. TY mÃ³wisz, Å¼e nic dzieciakowi nie sprzedaÅ‚eÅ›. KtÃ³ryÅ› z was kÅ‚amie.}
+{827}{}{JULES mÃ³wi, Å¼e nic dzieciakowi nie sprzedaÅ‚. JIMMY mÃ³wi, Å¼e nic dzieciakowi nie sprzedaÅ‚. TY mÃ³wisz, Å¼e nic dzieciakowi nie sprzedaÅ‚eÅ›. Albo wszyscy kÅ‚amiecie, albo... ktoÅ› inny jest odpowiedzialny.}
+{828}{}{MoÅ¼esz powiedzieÄ‡ mi coÅ› jeszcze o Richardzie Wright? KtÃ³ry z jego kumpli mÃ³gÅ‚ uÅ¼ywaÄ‡ narkotykÃ³w?}
+{829}{}{No dobra... sÅ‚uchaj, mam kilka innych pytaÅ„...}
+{830}{}{No dobrze, dobrze... juÅ¼ sobie stÄ…d idÄ™.}
+{835}{}{MogÄ™ na to odpowiedzieÄ‡ z Å‚atwoÅ›ciÄ…. Jeden z tych dwÃ³ch kundli kÅ‚amie, Å¼eby chroniÄ‡ swÃ³j tyÅ‚ek. Tak miÄ™dzy nami, oni sprzedajÄ… 90% Jetu w Reno, a to jedyne miejsce, w ktÃ³rym "chÅ‚opiec", o ktÃ³rym mowa, mÃ³gÅ‚ to zdobyÄ‡.}
+{836}{}{Lub ktoÅ›, kto kupiÅ‚ Jet od jednego z was trzech. KtÃ³rzy spoÅ›rÃ³d twoich klientÃ³w w ostatnim miesiÄ…cu mogli mieÄ‡ kontakt z... ofiarÄ…?}
+{837}{}{MoÅ¼esz powiedzieÄ‡ mi coÅ› jeszcze o Richardzie Wright? KtÃ³ry z jego kumpli mÃ³gÅ‚ uÅ¼ywaÄ‡ narkotykÃ³w?}
+{838}{}{Rozumiem... mam kilka innych pytaÅ„...}
+{839}{}{IdÄ™ stÄ…d. }
+{845}{}{Ty GÅUPI Å›wintuchu. }
+{846}{}{Ty GÅUPIA suko. }
+{847}{}{MÃ“WIÅEM ci, Å¼eby nie wymawiaÄ‡ tu tego imienia. Wynocha! Jeszcze raz ciÄ™ zobaczÄ™, TO CIÄ˜ ZASTRZELÄ˜ NA ÅšMIERÄ†. JeÅ›li Pan Wright przyjdzie tu mnie szukaÄ‡, myÅ›lÄ…c Å¼e zabiÅ‚em dzieciaka, TY zginiesz przede mnÄ….}
 {848}{}{Nie strasz mnie, staruchu...}
-{849}{}{Huojej. Ju¿ sobie idê. }
-{855}{}{NIE mam pojêcia. Nie zna³em ch³opaka, wiêc nie znam jego znajomych ANI jego zwyczajów. Jedyn¹ osob¹, która mog³a daæ ci pewn¹ informacjê, jest zbyt zajêta le¿eniem trupem na Golgocie, ¿eby coœ powiedzieæ.}
+{849}{}{Huojej. JuÅ¼ sobie idÄ™. }
+{855}{}{NIE mam pojÄ™cia. Nie znaÅ‚em chÅ‚opaka, wiÄ™c nie znam jego znajomych ANI jego zwyczajÃ³w. JedynÄ… osobÄ…, ktÃ³ra mogÅ‚a daÄ‡ ci pewnÄ… informacjÄ™, jest zbyt zajÄ™ta leÅ¼eniem trupem na Golgocie, Å¼eby coÅ› powiedzieÄ‡.}
 {856}{}{Na Golgocie?}
-{858}{}{Mo¿e tak zrobiê. ¯egnam. }
-{865}{}{Wiêc niepotrzebnie mêczysz nogi. ZAP£ACI£EM Panu Salvatore jego "daninê" *dwa tygodnie temu*, tak jak to by³o umówione. Nie wiem kim jesteœ, albo co sobie myœlisz, ¿e robisz, ale nie dostaniesz ode mnie z³amanego dolca. Wynoœ siê.}
-{866}{}{S³uchaj dziadku. Przestañ siê ze mn¹ dra¿niæ. Wysup³aj zaraz te pieni¹dze, albo zasup³am ci jaja na kokardkê.}
-{867}{}{Jestem cz³owiekiem Pana Salvatore. Dasz mi daninê, o któr¹ proszê i to natychmiast.}
-{868}{}{Pójdê zapytaæ Pana Salvatore, a potem wrócê. }
-{875}{}{Ca³kiem ju¿ og³uch³eœ ch³opczyku? }
-{876}{}{Ca³kiem ju¿ og³uch³aœ dziewczynko? }
-{877}{}{POWIEDZIA£EM. ¯E. ZAP£ACI£EM. JU¯. DANINÊ. *Dwa tygodnie temu*. Gdyby Pan Salvatore naprawdê ciê przys³a³, to by ci to powiedzia³. A teraz spadaj!}
-{878}{}{S³uchaj. Ostatni raz mówiê: dawaj pieni¹dze.}
-{879}{}{To ty og³uch³eœ. Przychodzê od Pana Salvatore, a ty zap³acisz mi daninê.}
-{880}{}{To by³o ostatnie ostrze¿enie dziadku. Zdaje siê trzeba bêdzie za³atwiæ to w przykry sposób. Pora umrzeæ.}
-{881}{}{Pójdê zapytaæ Pana Salvatore, a potem wrócê. }
-{890}{}{Udowodnij, ¿e przys³a³ ciê Salvatore, a ROZWA¯Ê, czy daæ ci pieni¹dze. A jak nie, to nic nie dostaniesz.}
-{891}{}{Nie muszê siê nikomu t³umaczyæ. On mnie tu przys³a³ i to jest wszystko, co musisz wiedzieæ.}
-{892}{}{A co, myœlisz, ¿e ten pistolet laserowy to tak na pokaz?}
-{893}{}{Jeœli nie dasz mi tej daniny w piêæ sekund ZABIJÊ ciê.}
-{900}{}{Wynoœ siê st¹d do licha ciê¿kiego, ty tani draniu. Poka¿ tu jeszcze kiedyœ tylko skrawek swojej twarzy, a zastrzelê ciê w³asnorêcznie!}
-{901}{}{Doigra³eœ siê. Pora umrzeæ.}
-{910}{}{Hmmmf. Niewa¿ne, i tak nie mogê zap³aciæ. Po ostatnim poborze jestem prawie ca³kiem sp³ukany.}
-{911}{}{Nie interesuje mnie to. Zdobêdziesz pieni¹dze dla mnie w tej chwili. Pan Salvatore nie ma zamiaru s³uchaæ twoich wykrêtów.}
-{920}{}{Straszenie mnie nic nie pomo¿e. Pan Salvatore chce swoich pieniêdzy. Nie mam ich. Bêdzie wœciek³y na mnie, ale bêdzie te¿ wœciek³y na ciebie. Salvatore nie LUBI ludzi, którzy sprawiaj¹ mu zawód... lepiej szybko coœ wymyœl.}
-{921}{}{Ju¿ wiem co zrobiê. Zap³acê twoj¹ dzia³kê za ten okres. W zamian dasz mi zni¿kê na towary w swoim sklepie.}
-{924}{}{Spróbujê coœ wymyœliæ... wrócê tu.}
-{930}{}{Poczekaj chwilê, ty neandertal...}
-{931}{}{Nie zamierzam siê z tob¹ wyk³ócaæ. Moja cierpliwoœæ siê koñczy. Takie s¹ moje warunki.}
-{940}{}{Ja... s³uchaj, no, ja... hmmmm... no dobrze. Dostaniesz... "zni¿kê".}
-{941}{}{Poka¿ mi swoje towary. Zrobiê teraz "zakupy".}
-{943}{}{Na razie niczego nie chcê, ale nie martw siê, wrócê.}
-{950}{}{(Zak³ada rêce) S¹ odpowiednie. Jeœli oczekujesz jakiegoœ podarunku za odstawianie dobrego samarytanina, to robisz ŒMIERTELN¥ pomy³kê. No wiêc... czego chcesz?}
-{951}{}{Przeklêty niech bêdzie szpon œmierci, czy inny dyrektor marketingu, który ciê sp³odzi³! CHCESZ czegoœ?! Proszê! PROSZÊ! WeŸ TO! WeŸ WSZYSTKO co mam! Cokolwiek, co sprawi, ¿e ZOSTAWISZ MNIE W SPOKOJU!}
-{952}{}{Poka¿ mi swoje towary.}
-{953}{}{Mam kilka pytañ...}
+{858}{}{MoÅ¼e tak zrobiÄ™. Å»egnam. }
+{865}{}{WiÄ™c niepotrzebnie mÄ™czysz nogi. ZAPÅACIÅEM Panu Salvatore jego "daninÄ™" *dwa tygodnie temu*, tak jak to byÅ‚o umÃ³wione. Nie wiem kim jesteÅ›, albo co sobie myÅ›lisz, Å¼e robisz, ale nie dostaniesz ode mnie zÅ‚amanego dolca. WynoÅ› siÄ™.}
+{866}{}{SÅ‚uchaj dziadku. PrzestaÅ„ siÄ™ ze mnÄ… draÅ¼niÄ‡. WysupÅ‚aj zaraz te pieniÄ…dze, albo zasupÅ‚am ci jaja na kokardkÄ™.}
+{867}{}{Jestem czÅ‚owiekiem Pana Salvatore. Dasz mi daninÄ™, o ktÃ³rÄ… proszÄ™ i to natychmiast.}
+{868}{}{PÃ³jdÄ™ zapytaÄ‡ Pana Salvatore, a potem wrÃ³cÄ™. }
+{875}{}{CaÅ‚kiem juÅ¼ ogÅ‚uchÅ‚eÅ› chÅ‚opczyku? }
+{876}{}{CaÅ‚kiem juÅ¼ ogÅ‚uchÅ‚aÅ› dziewczynko? }
+{877}{}{POWIEDZIAÅEM. Å»E. ZAPÅACIÅEM. JUÅ». DANINÄ˜. *Dwa tygodnie temu*. Gdyby Pan Salvatore naprawdÄ™ ciÄ™ przysÅ‚aÅ‚, to by ci to powiedziaÅ‚. A teraz spadaj!}
+{878}{}{SÅ‚uchaj. Ostatni raz mÃ³wiÄ™: dawaj pieniÄ…dze.}
+{879}{}{To ty ogÅ‚uchÅ‚eÅ›. PrzychodzÄ™ od Pana Salvatore, a ty zapÅ‚acisz mi daninÄ™.}
+{880}{}{To byÅ‚o ostatnie ostrzeÅ¼enie dziadku. Zdaje siÄ™ trzeba bÄ™dzie zaÅ‚atwiÄ‡ to w przykry sposÃ³b. Pora umrzeÄ‡.}
+{881}{}{PÃ³jdÄ™ zapytaÄ‡ Pana Salvatore, a potem wrÃ³cÄ™. }
+{890}{}{Udowodnij, Å¼e przysÅ‚aÅ‚ ciÄ™ Salvatore, a ROZWAÅ»Ä˜, czy daÄ‡ ci pieniÄ…dze. A jak nie, to nic nie dostaniesz.}
+{891}{}{Nie muszÄ™ siÄ™ nikomu tÅ‚umaczyÄ‡. On mnie tu przysÅ‚aÅ‚ i to jest wszystko, co musisz wiedzieÄ‡.}
+{892}{}{A co, myÅ›lisz, Å¼e ten pistolet laserowy to tak na pokaz?}
+{893}{}{JeÅ›li nie dasz mi tej daniny w piÄ™Ä‡ sekund ZABIJÄ˜ ciÄ™.}
+{900}{}{WynoÅ› siÄ™ stÄ…d do licha ciÄ™Å¼kiego, ty tani draniu. PokaÅ¼ tu jeszcze kiedyÅ› tylko skrawek swojej twarzy, a zastrzelÄ™ ciÄ™ wÅ‚asnorÄ™cznie!}
+{901}{}{DoigraÅ‚eÅ› siÄ™. Pora umrzeÄ‡.}
+{910}{}{Hmmmf. NiewaÅ¼ne, i tak nie mogÄ™ zapÅ‚aciÄ‡. Po ostatnim poborze jestem prawie caÅ‚kiem spÅ‚ukany.}
+{911}{}{Nie interesuje mnie to. ZdobÄ™dziesz pieniÄ…dze dla mnie w tej chwili. Pan Salvatore nie ma zamiaru sÅ‚uchaÄ‡ twoich wykrÄ™tÃ³w.}
+{920}{}{Straszenie mnie nic nie pomoÅ¼e. Pan Salvatore chce swoich pieniÄ™dzy. Nie mam ich. BÄ™dzie wÅ›ciekÅ‚y na mnie, ale bÄ™dzie teÅ¼ wÅ›ciekÅ‚y na ciebie. Salvatore nie LUBI ludzi, ktÃ³rzy sprawiajÄ… mu zawÃ³d... lepiej szybko coÅ› wymyÅ›l.}
+{921}{}{JuÅ¼ wiem co zrobiÄ™. ZapÅ‚acÄ™ twojÄ… dziaÅ‚kÄ™ za ten okres. W zamian dasz mi zniÅ¼kÄ™ na towary w swoim sklepie.}
+{924}{}{SprÃ³bujÄ™ coÅ› wymyÅ›liÄ‡... wrÃ³cÄ™ tu.}
+{930}{}{Poczekaj chwilÄ™, ty neandertal...}
+{931}{}{Nie zamierzam siÄ™ z tobÄ… wykÅ‚Ã³caÄ‡. Moja cierpliwoÅ›Ä‡ siÄ™ koÅ„czy. Takie sÄ… moje warunki.}
+{940}{}{Ja... sÅ‚uchaj, no, ja... hmmmm... no dobrze. Dostaniesz... "zniÅ¼kÄ™".}
+{941}{}{PokaÅ¼ mi swoje towary. ZrobiÄ™ teraz "zakupy".}
+{943}{}{Na razie niczego nie chcÄ™, ale nie martw siÄ™, wrÃ³cÄ™.}
+{950}{}{(ZakÅ‚ada rÄ™ce) SÄ… odpowiednie. JeÅ›li oczekujesz jakiegoÅ› podarunku za odstawianie dobrego samarytanina, to robisz ÅšMIERTELNÄ„ pomyÅ‚kÄ™. No wiÄ™c... czego chcesz?}
+{951}{}{PrzeklÄ™ty niech bÄ™dzie szpon Å›mierci, czy inny dyrektor marketingu, ktÃ³ry ciÄ™ spÅ‚odziÅ‚! CHCESZ czegoÅ›?! ProszÄ™! PROSZÄ˜! WeÅº TO! WeÅº WSZYSTKO co mam! Cokolwiek, co sprawi, Å¼e ZOSTAWISZ MNIE W SPOKOJU!}
+{952}{}{PokaÅ¼ mi swoje towary.}
+{953}{}{Mam kilka pytaÅ„...}
 {955}{}{Co TO u licha jest...? }
 {960}{}{Otruty? O czym ty bredzisz?}
-{961}{}{Stan cia³a wskazywa³ na zatrucie jadem radskorpiona. Myœlê, ¿e umar³, poniewa¿ jego Jet by³ zatruty, a NIE z powodu przedawkowania.}
-{962}{}{Znalaz³em w jego pokoju pusty pojemnik po Jecie. W œrodku by³y œlady jadu radskorpiona.}
-{963}{}{Niewa¿ne. Mam kilka innych pytañ...}
-{964}{}{Niewa¿ne. Muszê ju¿ iœæ. }
-{970}{}{Radskorpion...? (Renesco nagle zamiera w bezruchu, jakby sobie w³aœnie coœ przypomnia³.)}
-{971}{}{Ty skurwysynu. *Otru³eœ* ch³opaka, prawda?}
-{972}{}{Ty coœ o tym wiesz, prawda?}
-{980}{}{Hej hej hej! Poczekaj chwilê...!}
-{981}{}{Nie zadzieraj ze mn¹ Renesco! Spróbuj tylko siê z tego wykrêciæ, a do³¹czysz do Richarda. Rozumiesz?}
-{982}{}{Starczy tego. Ja i Pan Wright odbêdziemy zaraz ma³¹ rozmowê. Do widzenia Renesco... a mo¿e raczej nale¿y powiedzieæ "¿egnaj".}
-{990}{}{Poczekaj chwilê! S³uchaj... ja nie SPRZEDA£EM nic dzieciakowi! Nigdy NICZEGO ode mnie nie kupowa³! Ja... POPROSZONO mnie o przygotowanie Jetu zakrapianego jadem radskorpiona, ale... ale ja NIE sprzeda³em go temu dzieciakowi!}
-{991}{}{POPROSZONO ciê o zrobienie zatrutego Jetu? Dla kogo?}
-{992}{}{KOMU go sprzeda³eœ?}
-{995}{}{Salvatore go za¿¹dali - powiedzieli, ¿e to "specjalne zamówienie". Nie wiedzia³em, ¿e chcieli go daæ dzieciakowi Wrightów. MUSISZ mi uwierzyæ... ja nie otruwam dzieciaków!}
-{996}{}{Tylko doros³ych, co Renesco? Ty ¿a³osny sukinsynu...}
-{997}{}{DLACZEGO zrobi³eœ ten zatruty Jet? Musia³eœ wiedzieæ, ¿e zamierzaj¹ nim kogoœ zabiæ.}
-{998}{}{Dobrze ju¿, dobrze, wierzê ci. Mam kilka innych pytañ...}
-{999}{}{Och, zamknij siê. S³uchaj, mam kilka innych pytañ...}
-{1000}{}{Salvatore, co? Myœlê, ¿e Pan Wright bêdzie chcia³ siê o tym dowiedzieæ.}
-{1005}{}{Salvatore mnie POSIADAJ¥, POSIADAJ¥ to miejsce, wiêc gdy czegoœ chc¹, dajê im to, bo inaczej mnie zabij¹ i zast¹pi¹ kimœ innym. Nigdy nie chcia³em zrobiæ krzywdy temu ch³opcu.}
-{1007}{}{Po prostu siê zamknij. S³uchaj, mam do ciebie kilka pytañ....}
-{1008}{}{Jasne, na pewno mia³eœ najlepsze intencje, kiedy szpikowa³eœ ten Jet trucizn¹. Do widzenia Renesco.}
-{1009}{}{PóŸniej pogadamy. }
-{1020}{}{Jest pusty. To taki sam pojemnik po Jecie, jak setki innych w ca³ym Nowym Reno. Mogê ci jeszcze w czymœ pomóc?}
-{1021}{}{Czy to nale¿y do ciebie?}
-{1022}{}{Wiesz coœ o œladach jadu radskorpiona, które znajduj¹ siê w tym pojemniku?}
-{1023}{}{Pewnie, mam kilka innych pytañ...}
-{1030}{}{Nie. Czy mogê ci pomóc w czymœ JESZCZE?}
+{961}{}{Stan ciaÅ‚a wskazywaÅ‚ na zatrucie jadem radskorpiona. MyÅ›lÄ™, Å¼e umarÅ‚, poniewaÅ¼ jego Jet byÅ‚ zatruty, a NIE z powodu przedawkowania.}
+{962}{}{ZnalazÅ‚em w jego pokoju pusty pojemnik po Jecie. W Å›rodku byÅ‚y Å›lady jadu radskorpiona.}
+{963}{}{NiewaÅ¼ne. Mam kilka innych pytaÅ„...}
+{964}{}{NiewaÅ¼ne. MuszÄ™ juÅ¼ iÅ›Ä‡. }
+{970}{}{Radskorpion...? (Renesco nagle zamiera w bezruchu, jakby sobie wÅ‚aÅ›nie coÅ› przypomniaÅ‚.)}
+{971}{}{Ty skurwysynu. *OtruÅ‚eÅ›* chÅ‚opaka, prawda?}
+{972}{}{Ty coÅ› o tym wiesz, prawda?}
+{980}{}{Hej hej hej! Poczekaj chwilÄ™...!}
+{981}{}{Nie zadzieraj ze mnÄ… Renesco! SprÃ³buj tylko siÄ™ z tego wykrÄ™ciÄ‡, a doÅ‚Ä…czysz do Richarda. Rozumiesz?}
+{982}{}{Starczy tego. Ja i Pan Wright odbÄ™dziemy zaraz maÅ‚Ä… rozmowÄ™. Do widzenia Renesco... a moÅ¼e raczej naleÅ¼y powiedzieÄ‡ "Å¼egnaj".}
+{990}{}{Poczekaj chwilÄ™! SÅ‚uchaj... ja nie SPRZEDAÅEM nic dzieciakowi! Nigdy NICZEGO ode mnie nie kupowaÅ‚! Ja... POPROSZONO mnie o przygotowanie Jetu zakrapianego jadem radskorpiona, ale... ale ja NIE sprzedaÅ‚em go temu dzieciakowi!}
+{991}{}{POPROSZONO ciÄ™ o zrobienie zatrutego Jetu? Dla kogo?}
+{992}{}{KOMU go sprzedaÅ‚eÅ›?}
+{995}{}{Salvatore go zaÅ¼Ä…dali - powiedzieli, Å¼e to "specjalne zamÃ³wienie". Nie wiedziaÅ‚em, Å¼e chcieli go daÄ‡ dzieciakowi WrightÃ³w. MUSISZ mi uwierzyÄ‡... ja nie otruwam dzieciakÃ³w!}
+{996}{}{Tylko dorosÅ‚ych, co Renesco? Ty Å¼aÅ‚osny sukinsynu...}
+{997}{}{DLACZEGO zrobiÅ‚eÅ› ten zatruty Jet? MusiaÅ‚eÅ› wiedzieÄ‡, Å¼e zamierzajÄ… nim kogoÅ› zabiÄ‡.}
+{998}{}{Dobrze juÅ¼, dobrze, wierzÄ™ ci. Mam kilka innych pytaÅ„...}
+{999}{}{Och, zamknij siÄ™. SÅ‚uchaj, mam kilka innych pytaÅ„...}
+{1000}{}{Salvatore, co? MyÅ›lÄ™, Å¼e Pan Wright bÄ™dzie chciaÅ‚ siÄ™ o tym dowiedzieÄ‡.}
+{1005}{}{Salvatore mnie POSIADAJÄ„, POSIADAJÄ„ to miejsce, wiÄ™c gdy czegoÅ› chcÄ…, dajÄ™ im to, bo inaczej mnie zabijÄ… i zastÄ…piÄ… kimÅ› innym. Nigdy nie chciaÅ‚em zrobiÄ‡ krzywdy temu chÅ‚opcu.}
+{1007}{}{Po prostu siÄ™ zamknij. SÅ‚uchaj, mam do ciebie kilka pytaÅ„....}
+{1008}{}{Jasne, na pewno miaÅ‚eÅ› najlepsze intencje, kiedy szpikowaÅ‚eÅ› ten Jet truciznÄ…. Do widzenia Renesco.}
+{1009}{}{PÃ³Åºniej pogadamy. }
+{1020}{}{Jest pusty. To taki sam pojemnik po Jecie, jak setki innych w caÅ‚ym Nowym Reno. MogÄ™ ci jeszcze w czymÅ› pomÃ³c?}
+{1021}{}{Czy to naleÅ¼y do ciebie?}
+{1022}{}{Wiesz coÅ› o Å›ladach jadu radskorpiona, ktÃ³re znajdujÄ… siÄ™ w tym pojemniku?}
+{1023}{}{Pewnie, mam kilka innych pytaÅ„...}
+{1030}{}{Nie. Czy mogÄ™ ci pomÃ³c w czymÅ› JESZCZE?}
 {1033}{}{Nie. Do widzenia. }
-{1040}{}{Golgota? To masowy cmentarz na po³udnie od miasta. IdŸ za smrodem... INNYM ni¿ twój w³asny.}
-{1041}{}{Och. Mam kilka innych pytañ...}
-{1042}{}{Walnij mi jeszcze parê takich s³odkich gadek, a bêdziesz umiera³ d³ugo i nieszczêœliwie. }
-{1043}{}{DZIÊKI, Renesco. }
-{1526}{}{No i czasem starsza wœcieka siê o drobiazgi, jak na przyk³ad... he-he tak jak pewnej nocy, kiedy zignorowa³am mój œlub czystoœci i wymknê³am siê do kanionu Arroyo z Korem - Który - Piorunuje - Jak - Tysi¹c - Ogierów...}
-{1536}{}{Pamiêtam to, jakby to by³o wczoraj. Cia³o Kora b³yszcza³o br¹zem w œwietle ksiê¿yca, kiedy uklêk³am i... ej, wiesz co? Pewnie polubi³byœ starszego. Jest mniej wiêcej w twoim wieku.}
-{2000}{}{Ujawniono zwi¹zki Renesco ze œmierci¹ Richarda Wrighta.}
-{5257}{}{ jest taka du¿a. Ja iœæ ju¿ }
-{5259}{}{ nie krzyczeæ. CZEMU TY CI¥GLE KRZYCZEÆ?! PRZESTAÆ KRZYCZEÆ! }
-{5260}{}{... *szloch* ...pójdê po starszego brata, ¿eby ciê zbi³, ty staruchu! Potem pójdziemy na lody i... *szloch* CIASTO i wielkie przyjêcie z klownami i...}
-{6000}{}{Szukam pewnych wskazówek dotycz¹cych chorób serca. Móg³byœ podzieliæ ze mn¹ tym co wiesz?}
-{6010}{}{Wiem, ¿e to musi dla Ciebie spory szok, ale bia³y kitel nie powoduje automatycznego nadawania stopnia kardiologii. Jestem farmaceut¹. Zajmujê siê produkcj¹ prochów. Ludzie je kupuj¹ i odchodz¹. Proste.}
-{6011}{}{S³usznie. Id¹c dalej, to...}
-{6012}{}{No dalej! Móg³byœ siê chocia¿ raz na coœ przydaæ? Tylko ten jeden raz? Bardzo proszê.}
-{6020}{}{Dobrze. Moja recepta to papierosy i czerwone miêso, w du¿ych iloœciach. Czy to wszystko? Jeœli nadal bêdê s³ucha³ tego twojego g³upiego pieprzenia, bêdê nara¿ony na udar mózgu.}
-{6021}{}{Taaa, jesteœ bardzo nerwowym cz³owiekiem, prawda? Za³o¿ê siê, ¿e Hakunin mo¿e ci pomóc. Jest szamanem w mojej rodzinnej wiosce - Arroyo. Powiedz mi, czy opowiada³em ci mo¿e historiê mojej wioski?}
-{6022}{}{I nie by³oby to tragedi¹. Nastêpne pytanie...}
+{1040}{}{Golgota? To masowy cmentarz na poÅ‚udnie od miasta. IdÅº za smrodem... INNYM niÅ¼ twÃ³j wÅ‚asny.}
+{1041}{}{Och. Mam kilka innych pytaÅ„...}
+{1042}{}{Walnij mi jeszcze parÄ™ takich sÅ‚odkich gadek, a bÄ™dziesz umieraÅ‚ dÅ‚ugo i nieszczÄ™Å›liwie. }
+{1043}{}{DZIÄ˜KI, Renesco. }
+{1526}{}{No i czasem starsza wÅ›cieka siÄ™ o drobiazgi, jak na przykÅ‚ad... he-he tak jak pewnej nocy, kiedy zignorowaÅ‚am mÃ³j Å›lub czystoÅ›ci i wymknÄ™Å‚am siÄ™ do kanionu Arroyo z Korem - KtÃ³ry - Piorunuje - Jak - TysiÄ…c - OgierÃ³w...}
+{1536}{}{PamiÄ™tam to, jakby to byÅ‚o wczoraj. CiaÅ‚o Kora bÅ‚yszczaÅ‚o brÄ…zem w Å›wietle ksiÄ™Å¼yca, kiedy uklÄ™kÅ‚am i... ej, wiesz co? Pewnie polubiÅ‚byÅ› starszego. Jest mniej wiÄ™cej w twoim wieku.}
+{2000}{}{Ujawniono zwiÄ…zki Renesco ze Å›mierciÄ… Richarda Wrighta.}
+{5257}{}{ jest taka duÅ¼a. Ja iÅ›Ä‡ juÅ¼ }
+{5259}{}{ nie krzyczeÄ‡. CZEMU TY CIÄ„GLE KRZYCZEÄ†?! PRZESTAÄ† KRZYCZEÄ†! }
+{5260}{}{... *szloch* ...pÃ³jdÄ™ po starszego brata, Å¼eby ciÄ™ zbiÅ‚, ty staruchu! Potem pÃ³jdziemy na lody i... *szloch* CIASTO i wielkie przyjÄ™cie z klownami i...}
+{6000}{}{Szukam pewnych wskazÃ³wek dotyczÄ…cych chorÃ³b serca. MÃ³gÅ‚byÅ› podzieliÄ‡ ze mnÄ… tym co wiesz?}
+{6010}{}{Wiem, Å¼e to musi dla Ciebie spory szok, ale biaÅ‚y kitel nie powoduje automatycznego nadawania stopnia kardiologii. Jestem farmaceutÄ…. ZajmujÄ™ siÄ™ produkcjÄ… prochÃ³w. Ludzie je kupujÄ… i odchodzÄ…. Proste.}
+{6011}{}{SÅ‚usznie. IdÄ…c dalej, to...}
+{6012}{}{No dalej! MÃ³gÅ‚byÅ› siÄ™ chociaÅ¼ raz na coÅ› przydaÄ‡? Tylko ten jeden raz? Bardzo proszÄ™.}
+{6020}{}{Dobrze. Moja recepta to papierosy i czerwone miÄ™so, w duÅ¼ych iloÅ›ciach. Czy to wszystko? JeÅ›li nadal bÄ™dÄ™ sÅ‚uchaÅ‚ tego twojego gÅ‚upiego pieprzenia, bÄ™dÄ™ naraÅ¼ony na udar mÃ³zgu.}
+{6021}{}{Taaa, jesteÅ› bardzo nerwowym czÅ‚owiekiem, prawda? ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e Hakunin moÅ¼e ci pomÃ³c. Jest szamanem w mojej rodzinnej wiosce - Arroyo. Powiedz mi, czy opowiadaÅ‚em ci moÅ¼e historiÄ™ mojej wioski?}
+{6022}{}{I nie byÅ‚oby to tragediÄ…. NastÄ™pne pytanie...}
 {6023}{}{No dobra, jeszcze jedna szybka sprawa...}
-{6024}{}{Rany, dziêki Renesco. Wiedzia³em, ¿e mogê na ciebie liczyæ. Trzymaj siê.}
-{6030}{}{Potrzebujê ciê. Muszê z³o¿yæ specjalne zamówienie.}
-{6031}{}{Tak, co do tego specjalnego zamówienia, o którym rozmawialiœmy...}
-{6040}{}{Tak? I co dalej? Powiesz mi w koñcu czy mam ci czytaæ w myœlach?}
-{6041}{}{Nigdy w ¿yciu, dupku. Potrzebujê pewnych... Eee... Pigu³ek dla, eee...}
-{6042}{}{Nigdy w ¿yciu, dupku. Potrzebujê pewnych... Eee... Pigu³ek dla, eee... Pewnego cz³owieka...}
-{6043}{}{Chcia³bym abyœ zamówi³ mi partiê, emm, "Multiwitaminy do ¿ucia braci korsykañskich"}
-{6044}{}{Szukam czegoœ, co sprawi, ¿e moja w³ócznia bêdzie ostrzejsza, ³apiesz? Czegoœ czym mogê nakarmiæ swojego ma³ego Gekona?}
-{6045}{}{Szukam czegoœ, czego ludzie u¿ywaj¹ do... Eee, ostrzenia swoich w³óczni, ³apiesz? Czegoœ czym mogê nakarmiæ swojego ma³ego Gekona?}
-{6046}{}{Szukam z³o¿onego zwi¹zku inhibitora PDE5 i potrzebujê pigu³ek wykonanych wedle moich specyfikacji.}
-{6050}{}{O czym ty pleciesz? Jaki to jêzyk? Plemienny? Po ludzku te¿ potrafisz?}
-{6051}{}{(Wzdychasz) Chcia³bym trochê... lekarstwa na zaburzenia erekcji.}
+{6024}{}{Rany, dziÄ™ki Renesco. WiedziaÅ‚em, Å¼e mogÄ™ na ciebie liczyÄ‡. Trzymaj siÄ™.}
+{6030}{}{PotrzebujÄ™ ciÄ™. MuszÄ™ zÅ‚oÅ¼yÄ‡ specjalne zamÃ³wienie.}
+{6031}{}{Tak, co do tego specjalnego zamÃ³wienia, o ktÃ³rym rozmawialiÅ›my...}
+{6040}{}{Tak? I co dalej? Powiesz mi w koÅ„cu czy mam ci czytaÄ‡ w myÅ›lach?}
+{6041}{}{Nigdy w Å¼yciu, dupku. PotrzebujÄ™ pewnych... Eee... PiguÅ‚ek dla, eee...}
+{6042}{}{Nigdy w Å¼yciu, dupku. PotrzebujÄ™ pewnych... Eee... PiguÅ‚ek dla, eee... Pewnego czÅ‚owieka...}
+{6043}{}{ChciaÅ‚bym abyÅ› zamÃ³wiÅ‚ mi partiÄ™, emm, "Multiwitaminy do Å¼ucia braci korsykaÅ„skich"}
+{6044}{}{Szukam czegoÅ›, co sprawi, Å¼e moja wÅ‚Ã³cznia bÄ™dzie ostrzejsza, Å‚apiesz? CzegoÅ› czym mogÄ™ nakarmiÄ‡ swojego maÅ‚ego Gekona?}
+{6045}{}{Szukam czegoÅ›, czego ludzie uÅ¼ywajÄ… do... Eee, ostrzenia swoich wÅ‚Ã³czni, Å‚apiesz? CzegoÅ› czym mogÄ™ nakarmiÄ‡ swojego maÅ‚ego Gekona?}
+{6046}{}{Szukam zÅ‚oÅ¼onego zwiÄ…zku inhibitora PDE5 i potrzebujÄ™ piguÅ‚ek wykonanych wedle moich specyfikacji.}
+{6050}{}{O czym ty pleciesz? Jaki to jÄ™zyk? Plemienny? Po ludzku teÅ¼ potrafisz?}
+{6051}{}{(Wzdychasz) ChciaÅ‚bym trochÄ™... lekarstwa na zaburzenia erekcji.}
 {6052}{}{No wiesz. Wiagra. Dla... Eee... przyjaciela!}
-{6053}{}{Wiagra. Nie dla mnie, oczywiœcie.}
-{6054}{}{Wiesz, co mam na myœli, ty stary zwiêd³y draniu.}
-{6060}{}{(Gapi siê na ciebie szyderczo) Ha! Nie nazwa³bym tego *specjalnym* zamówieniem. Po³owa miasta korzysta z tego syfu.}
-{6061}{}{Mam ponad kilkanaœcie marek. Wybieraj i nie zrób sobie krzywdy myœl¹c zbyt intensywnie, wszystkie s¹ takie same, ró¿ni¹ sie tylko opakowaniem.}
-{6062}{}{Nic z tych rzeczy. Potrzebujê pigu³ek zrobionych na zamówienie.}
-{6063}{}{To dobry start, ale mia³em na myœli coœ konkretnego.}
-{6070}{}{(Szydzi) Och, wymagaj¹cy klient, tak? Dobrze. Proszê bardzo. Kupê czasu nie dosta³em zamówienia na ¿adn¹ specjalnoœæ. Wiêkszoœæ tutejszego ulicznego robactwa ma w dupie to, czym siê truje.}
-{6071}{}{Tak, wiem jak to dzia³¹. A teraz przyjrzyj siê znakom na tych dolarach, nie proszê o nic wyj¹tkowego. Wystarczy, ¿e weŸmiesz nieco gówna z tej szafy, zmielisz to i ukszta³tujesz w g³adkie, okr¹g³e, czerwone pigu³ki, mog¹ byæ du¿e. Brzmi wykonywalnie?}
-{6072}{}{(Poka¿ Renesco jedn¹ z tabletek na serce) Wszystko czego potrzebujê, to wyprodukowanie partii tych tabletek, warunek jest taki, ¿e musz¹ byæ one dok³adnie takie jak te tutaj.}
-{6073}{}{Chemicznie rzecz ujmuj¹c, preparat bazowy mo¿na dopasowaæ rodzajowy. Miara parametrów fizycznych... Hmm... Powiedzmy, oko³o pó³tora centymetra œrednicy, o g³adkiej powierzchni, lekko zaokr¹glone, matowa czerwona pow³oka. Mog¹ byæ w formie pastylek do ssania. Nie powinno to byæ zbyt du¿ym wyzwaniem dla cz³owieka o twoim doœwiadczeniu.}
-{6080}{}{Hmmm. Czy to wszystko? Materia³y bazowe s¹ tanie jak barszcz. Za swoj¹ pracê policzê... 200 dolarów powinno wystarczyæ.}
-{6081}{}{Co?! Gdybym chcia³ siê nawaliæ, poszed³ bym do Kociej £apki! Przynajmniej wiedzia³bym w co siê pakujê.}
-{6082}{}{Wiesz równie dobrze jak ja, ¿e mówimy tu o 15 dolarach za prochy i piêciu minutach pracy. Myœlê, ¿e komuœ tu siê trochê pomiesza³y cyferki.}
-{6083}{}{Masz ³eb na karku. 200 dolców to koszty ogólne, jeœli nie jesteœ zainteresowany to zje¿d¿aj, mam lepsze rzeczy do roboty.}
-{6084}{}{Nie jestem pewien, czy w tej chwili mogê wydaæ tyle kasy. Mo¿e wrócimy do tego innym razem.}
-{6090}{}{(Pochmurnieje.) Nie jestem w nastroju ¿eby owijaæ z tob¹ w bawe³nê. Myœlisz ¿e kupiê to, ¿e jesteœ tylko jakimœ szczególnie wybrednym homo-niezbyt-erectus? PROSZÊ CIÊ! Masz jakiekolwiek pojêcie jak d³ugo to robiê?}
-{6091}{}{Nie spêdzi³eœ oczywiœcie wiele czasu poza swoj¹ jaskini¹, wiêc zaufaj mi kiedy mówiê ¿e nie ma tu w obiegu zbyt wielu rodzajów pigu³ek które pasuj¹ do tych twoich cudacznie specyficznych opisów, i jeden *bardzo godny uwagi* który przychodzi od razu na myœl. "Specjalne" rzeczy, specjalne ceny, jaskiniowcu. Witamy w Nowym Reno. To bêdzie 300 dolarów.}
-{6092}{}{Spójrz, upewni³em siê ¿e nikt nawet nie *wykrztusi* twojego imienia w zwi¹zku z t¹ afer¹ Wright. Zrób to dla mnie, a bêdziemy kwita. OK?}
-{6093}{}{Kry³em twój ty³ek u Salvatore. Uznaj to za zgromadzone w swoim d³ugu.}
-{6094}{}{Nie wydajê mi siê, ¿e Pan Bishop bêdzie zadowolony, gdy dowie siê jak bardzo utrudniasz jego interesy, Renesco.}
-{6095}{}{Dobra. 300 dolarów, za tableteki oraz za twoj¹ dyskrecjê. Zrozumiano?}
-{6096}{}{Hola, spokojnie ma³y cz³owieczku. Mo¿e wrócê, gdy bêdziesz w lepszym nastroju.}
-{6100}{}{Dobra. To chyba konkluduje nasz biznes. Muszê zatem przyznaæ, dzikusie, ¿e to by³o... niemal *znoœne*. Teraz *usi¹dŸ na r¹czkach* i spróbuj nie zrujnowaæ tej chwili. (Renesco zabiera twoje pieni¹dze i bierze siê do pracy.)}
-{6101}{}{(Minuty mijaj¹. Renesco otrzepuje rêce i rzuca w ciebie przez ladê butelkê nieodró¿nialnych od Westina pigu³ek.) Proszê. Skoñczyliœmy ju¿?}
-{6102}{}{Pozwól, ¿e zapytam o coœ innego.}
+{6053}{}{Wiagra. Nie dla mnie, oczywiÅ›cie.}
+{6054}{}{Wiesz, co mam na myÅ›li, ty stary zwiÄ™dÅ‚y draniu.}
+{6060}{}{(Gapi siÄ™ na ciebie szyderczo) Ha! Nie nazwaÅ‚bym tego *specjalnym* zamÃ³wieniem. PoÅ‚owa miasta korzysta z tego syfu.}
+{6061}{}{Mam ponad kilkanaÅ›cie marek. Wybieraj i nie zrÃ³b sobie krzywdy myÅ›lÄ…c zbyt intensywnie, wszystkie sÄ… takie same, rÃ³Å¼niÄ… sie tylko opakowaniem.}
+{6062}{}{Nic z tych rzeczy. PotrzebujÄ™ piguÅ‚ek zrobionych na zamÃ³wienie.}
+{6063}{}{To dobry start, ale miaÅ‚em na myÅ›li coÅ› konkretnego.}
+{6070}{}{(Szydzi) Och, wymagajÄ…cy klient, tak? Dobrze. ProszÄ™ bardzo. KupÄ™ czasu nie dostaÅ‚em zamÃ³wienia na Å¼adnÄ… specjalnoÅ›Ä‡. WiÄ™kszoÅ›Ä‡ tutejszego ulicznego robactwa ma w dupie to, czym siÄ™ truje.}
+{6071}{}{Tak, wiem jak to dziaÅ‚Ä…. A teraz przyjrzyj siÄ™ znakom na tych dolarach, nie proszÄ™ o nic wyjÄ…tkowego. Wystarczy, Å¼e weÅºmiesz nieco gÃ³wna z tej szafy, zmielisz to i uksztaÅ‚tujesz w gÅ‚adkie, okrÄ…gÅ‚e, czerwone piguÅ‚ki, mogÄ… byÄ‡ duÅ¼e. Brzmi wykonywalnie?}
+{6072}{}{(PokaÅ¼ Renesco jednÄ… z tabletek na serce) Wszystko czego potrzebujÄ™, to wyprodukowanie partii tych tabletek, warunek jest taki, Å¼e muszÄ… byÄ‡ one dokÅ‚adnie takie jak te tutaj.}
+{6073}{}{Chemicznie rzecz ujmujÄ…c, preparat bazowy moÅ¼na dopasowaÄ‡ rodzajowy. Miara parametrÃ³w fizycznych... Hmm... Powiedzmy, okoÅ‚o pÃ³Å‚tora centymetra Å›rednicy, o gÅ‚adkiej powierzchni, lekko zaokrÄ…glone, matowa czerwona powÅ‚oka. MogÄ… byÄ‡ w formie pastylek do ssania. Nie powinno to byÄ‡ zbyt duÅ¼ym wyzwaniem dla czÅ‚owieka o twoim doÅ›wiadczeniu.}
+{6080}{}{Hmmm. Czy to wszystko? MateriaÅ‚y bazowe sÄ… tanie jak barszcz. Za swojÄ… pracÄ™ policzÄ™... 200 dolarÃ³w powinno wystarczyÄ‡.}
+{6081}{}{Co?! Gdybym chciaÅ‚ siÄ™ nawaliÄ‡, poszedÅ‚ bym do Kociej Åapki! Przynajmniej wiedziaÅ‚bym w co siÄ™ pakujÄ™.}
+{6082}{}{Wiesz rÃ³wnie dobrze jak ja, Å¼e mÃ³wimy tu o 15 dolarach za prochy i piÄ™ciu minutach pracy. MyÅ›lÄ™, Å¼e komuÅ› tu siÄ™ trochÄ™ pomieszaÅ‚y cyferki.}
+{6083}{}{Masz Å‚eb na karku. 200 dolcÃ³w to koszty ogÃ³lne, jeÅ›li nie jesteÅ› zainteresowany to zjeÅ¼dÅ¼aj, mam lepsze rzeczy do roboty.}
+{6084}{}{Nie jestem pewien, czy w tej chwili mogÄ™ wydaÄ‡ tyle kasy. MoÅ¼e wrÃ³cimy do tego innym razem.}
+{6090}{}{(Pochmurnieje.) Nie jestem w nastroju Å¼eby owijaÄ‡ z tobÄ… w baweÅ‚nÄ™. MyÅ›lisz Å¼e kupiÄ™ to, Å¼e jesteÅ› tylko jakimÅ› szczegÃ³lnie wybrednym homo-niezbyt-erectus? PROSZÄ˜ CIÄ˜! Masz jakiekolwiek pojÄ™cie jak dÅ‚ugo to robiÄ™?}
+{6091}{}{Nie spÄ™dziÅ‚eÅ› oczywiÅ›cie wiele czasu poza swojÄ… jaskiniÄ…, wiÄ™c zaufaj mi kiedy mÃ³wiÄ™ Å¼e nie ma tu w obiegu zbyt wielu rodzajÃ³w piguÅ‚ek ktÃ³re pasujÄ… do tych twoich cudacznie specyficznych opisÃ³w, i jeden *bardzo godny uwagi* ktÃ³ry przychodzi od razu na myÅ›l. "Specjalne" rzeczy, specjalne ceny, jaskiniowcu. Witamy w Nowym Reno. To bÄ™dzie 300 dolarÃ³w.}
+{6092}{}{SpÃ³jrz, upewniÅ‚em siÄ™ Å¼e nikt nawet nie *wykrztusi* twojego imienia w zwiÄ…zku z tÄ… aferÄ… Wright. ZrÃ³b to dla mnie, a bÄ™dziemy kwita. OK?}
+{6093}{}{KryÅ‚em twÃ³j tyÅ‚ek u Salvatore. Uznaj to za zgromadzone w swoim dÅ‚ugu.}
+{6094}{}{Nie wydajÄ™ mi siÄ™, Å¼e Pan Bishop bÄ™dzie zadowolony, gdy dowie siÄ™ jak bardzo utrudniasz jego interesy, Renesco.}
+{6095}{}{Dobra. 300 dolarÃ³w, za tableteki oraz za twojÄ… dyskrecjÄ™. Zrozumiano?}
+{6096}{}{Hola, spokojnie maÅ‚y czÅ‚owieczku. MoÅ¼e wrÃ³cÄ™, gdy bÄ™dziesz w lepszym nastroju.}
+{6100}{}{Dobra. To chyba konkluduje nasz biznes. MuszÄ™ zatem przyznaÄ‡, dzikusie, Å¼e to byÅ‚o... niemal *znoÅ›ne*. Teraz *usiÄ…dÅº na rÄ…czkach* i sprÃ³buj nie zrujnowaÄ‡ tej chwili. (Renesco zabiera twoje pieniÄ…dze i bierze siÄ™ do pracy.)}
+{6101}{}{(Minuty mijajÄ…. Renesco otrzepuje rÄ™ce i rzuca w ciebie przez ladÄ™ butelkÄ™ nieodrÃ³Å¼nialnych od Westina piguÅ‚ek.) ProszÄ™. SkoÅ„czyliÅ›my juÅ¼?}
+{6102}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
 {6103}{}{To wszystko. Do zobaczenia.}
-{6110}{}{(Renesco czerwienieje, jego nozdrza buzuj¹ ze z³oœci, ale potem spogl¹da w dó³ i zaczyna czyœciæ swoje okulary bardzo uwa¿nie o swój kaftan podczas gdy mówi.) Ssaku naczelny, JEDYNE dwie rzeczy jakie KIEDYKOLWIEK bêdê ci d³u¿ny to FIGA i GÓWNO.}
-{6111}{}{To, to dopiero jest przypadek... jeœli wyprowadzi ciê to z tego nieznoœnego prowincjonalnego z³udzenia które jakoœ nade mnie sprowadzi³eœ, a o które na sam¹ MYŒL czyni mnie chorym na tyle sposobów, ¿e brak mi s³ów aby to opisaæ... }
-{6112}{}{JA... S¥DZÊ... twoje po trzykroæ przeklête pigu³ki s¹ w niewielkiej cenie do zap³aty. I jeœli JESZCZE KIEDYKOLWIEK us³yszê ¿e mówisz choæby s³owo rymuj¹ce siê z "ni¿", sklep bêdzie mia³ nowy dywan ze skóry szympansa. Usi¹dŸ, zamknij siê, i popracuj nad wyhodowaniem sobie pary przeciwstawnych kciuków, podczas gdy ja uzyskam ten zwi¹zek chemiczny. (Renesco idzie pracowaæ.)}
-{6120}{}{(Renesco patrzy wokó³ z szeroko otwartymi oczami na resztê chemicznie otêpionych bywalców sklepu, zanim pochyla siê w twoim kierunku z obni¿onym g³osem sycz¹c z wœciek³oœci.) Ty... IGNORANCIE. Ropucholizie, czcz¹cy k³êbowisko dupku. Nie s¹dzê ¿eby *Pan Bishop* by³ zadowolony W OGÓLE, gdyby us³ysza³ ¿e jedno z jego gadaj¹cych braminich ³ajen ze swojej listy p³ac, rzuca jego imiê na lewo i prawo w trakcie kupowania WYSOCE WYSPECJALIZOWANYCH NARZÊDZI MORDU.}
-{6121}{}{W zasadzie, to nie wydaje mi siê by *ktokolwiek zaanga¿owany* by³ szczêœliwy z tego powodu, chyba ¿e liczysz na uczucie ulgi która przyjdzie gdy ludzie Bishopa znudz¹ siê w koñcu rozdzielaniem ciê na kawa³eczki przy u¿yciu NARZÊDZI DO OBRÓBKI METALU i zdecyduj¹ DOKOÑCZYÆ ROBOTÊ.}
-{6122}{}{(Zaczyna siê gotowaæ.) O Bo¿e. Nie s³ysza³em tego. Sk¹d mam to wiedzieæ? Odwróæ siê i wyjdŸ. TERAZ. Rusz ty³ek i znajdŸ siê gdzie indziej ¿eby wype³niæ t¹ swoj¹ mistyczn¹, antyczn¹ wizjê questu. Gdzieœ daleko, daleko st¹d. (Renesco odchodzi poœpiesznie na drug¹ stronê swojej klatki, udaj¹c zajêtego.)}
-{6130}{}{W ka¿dym razie nie wszystko by³o zioniêciem i chrz¹kniêciami. Teraz tu poczekaj. (Renesco zabiera twoje pieni¹dze i bierze siê do pracy). I na mi³oœæ Bosk¹, *spróbuj* nie doprowadziæ czegokolwiek z mojego towaru do utkwienia w twoich ma³pich dziurach w twarzy, jak bêdê odwrócony.}
-{6141}{}{Och, to ty, ponownie. Moja cena nadal wynosi 200 dolarów.}
-{6142}{}{Jeszcze raz, w razie jakby rozproszy³o ciê coœ b³yszcz¹cego, za pierwszym razem: 300 dolarów. I nie przeginaj.}
-{6259}{}{ ZABIÆ TY!}
+{6110}{}{(Renesco czerwienieje, jego nozdrza buzujÄ… ze zÅ‚oÅ›ci, ale potem spoglÄ…da w dÃ³Å‚ i zaczyna czyÅ›ciÄ‡ swoje okulary bardzo uwaÅ¼nie o swÃ³j kaftan podczas gdy mÃ³wi.) Ssaku naczelny, JEDYNE dwie rzeczy jakie KIEDYKOLWIEK bÄ™dÄ™ ci dÅ‚uÅ¼ny to FIGA i GÃ“WNO.}
+{6111}{}{To, to dopiero jest przypadek... jeÅ›li wyprowadzi ciÄ™ to z tego nieznoÅ›nego prowincjonalnego zÅ‚udzenia ktÃ³re jakoÅ› nade mnie sprowadziÅ‚eÅ›, a o ktÃ³re na samÄ… MYÅšL czyni mnie chorym na tyle sposobÃ³w, Å¼e brak mi sÅ‚Ã³w aby to opisaÄ‡... }
+{6112}{}{JA... SÄ„DZÄ˜... twoje po trzykroÄ‡ przeklÄ™te piguÅ‚ki sÄ… w niewielkiej cenie do zapÅ‚aty. I jeÅ›li JESZCZE KIEDYKOLWIEK usÅ‚yszÄ™ Å¼e mÃ³wisz choÄ‡by sÅ‚owo rymujÄ…ce siÄ™ z "niÅ¼", sklep bÄ™dzie miaÅ‚ nowy dywan ze skÃ³ry szympansa. UsiÄ…dÅº, zamknij siÄ™, i popracuj nad wyhodowaniem sobie pary przeciwstawnych kciukÃ³w, podczas gdy ja uzyskam ten zwiÄ…zek chemiczny. (Renesco idzie pracowaÄ‡.)}
+{6120}{}{(Renesco patrzy wokÃ³Å‚ z szeroko otwartymi oczami na resztÄ™ chemicznie otÄ™pionych bywalcÃ³w sklepu, zanim pochyla siÄ™ w twoim kierunku z obniÅ¼onym gÅ‚osem syczÄ…c z wÅ›ciekÅ‚oÅ›ci.) Ty... IGNORANCIE. Ropucholizie, czczÄ…cy kÅ‚Ä™bowisko dupku. Nie sÄ…dzÄ™ Å¼eby *Pan Bishop* byÅ‚ zadowolony W OGÃ“LE, gdyby usÅ‚yszaÅ‚ Å¼e jedno z jego gadajÄ…cych braminich Å‚ajen ze swojej listy pÅ‚ac, rzuca jego imiÄ™ na lewo i prawo w trakcie kupowania WYSOCE WYSPECJALIZOWANYCH NARZÄ˜DZI MORDU.}
+{6121}{}{W zasadzie, to nie wydaje mi siÄ™ by *ktokolwiek zaangaÅ¼owany* byÅ‚ szczÄ™Å›liwy z tego powodu, chyba Å¼e liczysz na uczucie ulgi ktÃ³ra przyjdzie gdy ludzie Bishopa znudzÄ… siÄ™ w koÅ„cu rozdzielaniem ciÄ™ na kawaÅ‚eczki przy uÅ¼yciu NARZÄ˜DZI DO OBRÃ“BKI METALU i zdecydujÄ… DOKOÅƒCZYÄ† ROBOTÄ˜.}
+{6122}{}{(Zaczyna siÄ™ gotowaÄ‡.) O BoÅ¼e. Nie sÅ‚yszaÅ‚em tego. SkÄ…d mam to wiedzieÄ‡? OdwrÃ³Ä‡ siÄ™ i wyjdÅº. TERAZ. Rusz tyÅ‚ek i znajdÅº siÄ™ gdzie indziej Å¼eby wypeÅ‚niÄ‡ tÄ… swojÄ… mistycznÄ…, antycznÄ… wizjÄ™ questu. GdzieÅ› daleko, daleko stÄ…d. (Renesco odchodzi poÅ›piesznie na drugÄ… stronÄ™ swojej klatki, udajÄ…c zajÄ™tego.)}
+{6130}{}{W kaÅ¼dym razie nie wszystko byÅ‚o zioniÄ™ciem i chrzÄ…kniÄ™ciami. Teraz tu poczekaj. (Renesco zabiera twoje pieniÄ…dze i bierze siÄ™ do pracy). I na miÅ‚oÅ›Ä‡ BoskÄ…, *sprÃ³buj* nie doprowadziÄ‡ czegokolwiek z mojego towaru do utkwienia w twoich maÅ‚pich dziurach w twarzy, jak bÄ™dÄ™ odwrÃ³cony.}
+{6141}{}{Och, to ty, ponownie. Moja cena nadal wynosi 200 dolarÃ³w.}
+{6142}{}{Jeszcze raz, w razie jakby rozproszyÅ‚o ciÄ™ coÅ› bÅ‚yszczÄ…cego, za pierwszym razem: 300 dolarÃ³w. I nie przeginaj.}
+{6259}{}{ ZABIÄ† TY!}

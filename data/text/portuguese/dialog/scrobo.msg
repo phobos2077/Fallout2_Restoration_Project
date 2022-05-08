@@ -23,10 +23,10 @@
 {122}{}{I don't think I want to rejoin you just yet. Goodbye.}
 {123}{}{Rowf? <boing> Raggy?}
 {124}{}{How are you?}
-{125}{}{Eu preciso que você espere aqui até eu voltar.}
-{126}{}{É isso por agora.}
+{125}{}{Eu preciso que vocÃª espere aqui atÃ© eu voltar.}
+{126}{}{Ã‰ isso por agora.}
 {127}{}{<click> whimper}
-{128}{}{Não importa.}
+{128}{}{NÃ£o importa.}
 {129}{}{OK}
 {130}{}{HP:}
 {131}{}{Cyberdog can't be repaired anymore at this time.}

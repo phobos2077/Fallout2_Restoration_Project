@@ -1,10 +1,10 @@
-{100}{}{Panel kontrolny pola si³owego.}
-{200}{}{Uda³o ci siê wy³¹czyæ pole si³owe.}
-{201}{}{Nie uda³o ci siê wy³¹czyæ pola si³owego.}
-{202}{}{Uda³o ci siê w³¹czyæ pole si³owe.}
-{203}{}{Nie uda³o ci siê w³¹czyæ pola si³owego.}
-{210}{}{ wy³¹cza pole si³owe.}
-{211}{}{ nie daje rady wy³¹czyæ pola si³owego.}
-{212}{}{ w³¹cza pole si³owe.}
-{213}{}{ nie daje rady w³¹czyæ pola si³owego.}
-{300}{}{Komputer zosta³ zniszczony.}
+{100}{}{Panel kontrolny pola siÅ‚owego.}
+{200}{}{UdaÅ‚o ci siÄ™ wyÅ‚Ä…czyÄ‡ pole siÅ‚owe.}
+{201}{}{Nie udaÅ‚o ci siÄ™ wyÅ‚Ä…czyÄ‡ pola siÅ‚owego.}
+{202}{}{UdaÅ‚o ci siÄ™ wÅ‚Ä…czyÄ‡ pole siÅ‚owe.}
+{203}{}{Nie udaÅ‚o ci siÄ™ wÅ‚Ä…czyÄ‡ pola siÅ‚owego.}
+{210}{}{ wyÅ‚Ä…cza pole siÅ‚owe.}
+{211}{}{ nie daje rady wyÅ‚Ä…czyÄ‡ pola siÅ‚owego.}
+{212}{}{ wÅ‚Ä…cza pole siÅ‚owe.}
+{213}{}{ nie daje rady wÅ‚Ä…czyÄ‡ pola siÅ‚owego.}
+{300}{}{Komputer zostaÅ‚ zniszczony.}

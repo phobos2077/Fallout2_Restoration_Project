@@ -1,63 +1,63 @@
-{100}{}{Você vê um holograma.}
-{101}{}{Você vê o Diretor de Segurança.}
-{102}{}{Holograma 10001. Ele supervisiona a segurança da EPA.}
-{200}{}{Pare! Não tente aproximar-se. Identifique-se, intruso.}
+{100}{}{VocÃª vÃª um holograma.}
+{101}{}{VocÃª vÃª o Diretor de SeguranÃ§a.}
+{102}{}{Holograma 10001. Ele supervisiona a seguranÃ§a da EPA.}
+{200}{}{Pare! NÃ£o tente aproximar-se. Identifique-se, intruso.}
 {201}{}{Eu sou o escolhido de Arroyo. Estou explorando a EPA.}
-{202}{}{Eu não sou um intruso e agora eu preciso sair.}
+{202}{}{Eu nÃ£o sou um intruso e agora eu preciso sair.}
 {203}{}{Eu sou }
-{204}{}{, e não estou tentando me intrometer, estou apenas explorando.}
-{210}{}{Explorando !? Explorando ... MEU ... EPA !? Como você se atreve a ter a audácia de entrar aqui e simplesmente vagar vagarosamente! Vollidiot! Eu tenho uma meia mente para prendê-lo e jogar sua bunda no zoológico de animais de estimação - dê-lhes um freakshows um verdadeiro banquete!}
-{211}{}{Não, espera! Eu não estou fazendo nenhum mal! Deixe-me explicar...}
-{220}{}{Você não vai a lugar rápido, Pisskopf. Ninguém se aproxima da minha EPA sem se explicar. Como eu sei que você não é um espião chinês?}
-{221}{}{Eu acho que você não. Mas se você me der uma chance de me explicar, tenho certeza de que podemos classificar toda essa bagunça.}
-{222}{}{Então, e se eu estiver? Será que isso importa? Seu EPA precioso já não é mais relevante. É apenas outra relíquia decadente de uma idade perdida.}
-{230}{}{Continue então, Schwachkopf, explique-se. Seja bom, ou eu vou ter os robôs para te baterem e arrastá-lo para a cadeira elétrica!}
-{231}{}{Bem. Primeiro, não sou um espião chinês - sou o que você pode chamar de tribal. Eu fui escolhido para embarcar em uma perigosa busca para salvar minha tribo da destruição. Eu só entrei neste complexo com a esperança de encontrar algo que poderia me ajudar na minha busca.}
-{232}{}{Foda-se. Sério, você é um * holograma *. O pior que você pode fazer é tentar me matar, o que parece estar dando o seu melhor tiro. Quanto aos montes de sucata que você chama de robôs, talvez eu seja um pouco mais intimidado se eu ver algum por aqui que realmente trabalhe.}
-{240}{}{Limpar! Você Pissnelke! Como você ousa desacreditar o nome da EPA dessa maneira! Ninguém, tanto quanto remove um pedaço de papel deste edifício sem que eu diga isso! No entanto, ter entrado tão longe na EPA exigiria alguma habilidade ... talvez eu pudesse encontrar um uso para você, afinal.}
+{204}{}{, e nÃ£o estou tentando me intrometer, estou apenas explorando.}
+{210}{}{Explorando !? Explorando ... MEU ... EPA !? Como vocÃª se atreve a ter a audÃ¡cia de entrar aqui e simplesmente vagar vagarosamente! Vollidiot! Eu tenho uma meia mente para prendÃª-lo e jogar sua bunda no zoolÃ³gico de animais de estimaÃ§Ã£o - dÃª-lhes um freakshows um verdadeiro banquete!}
+{211}{}{NÃ£o, espera! Eu nÃ£o estou fazendo nenhum mal! Deixe-me explicar...}
+{220}{}{VocÃª nÃ£o vai a lugar rÃ¡pido, Pisskopf. NinguÃ©m se aproxima da minha EPA sem se explicar. Como eu sei que vocÃª nÃ£o Ã© um espiÃ£o chinÃªs?}
+{221}{}{Eu acho que vocÃª nÃ£o. Mas se vocÃª me der uma chance de me explicar, tenho certeza de que podemos classificar toda essa bagunÃ§a.}
+{222}{}{EntÃ£o, e se eu estiver? SerÃ¡ que isso importa? Seu EPA precioso jÃ¡ nÃ£o Ã© mais relevante. Ã‰ apenas outra relÃ­quia decadente de uma idade perdida.}
+{230}{}{Continue entÃ£o, Schwachkopf, explique-se. Seja bom, ou eu vou ter os robÃ´s para te baterem e arrastÃ¡-lo para a cadeira elÃ©trica!}
+{231}{}{Bem. Primeiro, nÃ£o sou um espiÃ£o chinÃªs - sou o que vocÃª pode chamar de tribal. Eu fui escolhido para embarcar em uma perigosa busca para salvar minha tribo da destruiÃ§Ã£o. Eu sÃ³ entrei neste complexo com a esperanÃ§a de encontrar algo que poderia me ajudar na minha busca.}
+{232}{}{Foda-se. SÃ©rio, vocÃª Ã© um * holograma *. O pior que vocÃª pode fazer Ã© tentar me matar, o que parece estar dando o seu melhor tiro. Quanto aos montes de sucata que vocÃª chama de robÃ´s, talvez eu seja um pouco mais intimidado se eu ver algum por aqui que realmente trabalhe.}
+{240}{}{Limpar! VocÃª Pissnelke! Como vocÃª ousa desacreditar o nome da EPA dessa maneira! NinguÃ©m, tanto quanto remove um pedaÃ§o de papel deste edifÃ­cio sem que eu diga isso! No entanto, ter entrado tÃ£o longe na EPA exigiria alguma habilidade ... talvez eu pudesse encontrar um uso para vocÃª, afinal.}
 {241}{}{Hein?}
-{242}{}{Não, eu acho que eu vou limpar um pouco mais e ir. Bye!}
-{250}{}{Insolência! Tanta insolência de um Blsdes Arschloch! Quando comecei a treinar, a insolência deveria ser punida. E punido nós éramos! Marque minhas palavras scheisskopf, essa linguagem bifurcada será um dia a morte de você.}
-{251}{}{Talvez seja, talvez seja. E se esse dia vier a vir, eu vou lidar com isso, então e ali. O que é certo, isso não virá de você. Você não é ninguém. Você não tem mais nada para dominar, e é por isso que você encobre sua tristeza de raiva. Há quanto tempo os robôs não conseguiram responder a você?}
-{260}{}{Bem, como você já pode ter adivinhado, os robôs já não trabalham aqui na EPA. Os consoles do computador já não registram meus comandos verbais e não tenho um corpo para ativar o console. Eu ... não consigo garantir qualquer coisa corretamente. Você poderia consertar o computador de controle do robô para mim? Eu preciso da capacidade de comandar os robôs para ... bem, para as coisas.}
-{261}{}{Bem, por que não? Eu vou ver o que posso fazer.}
-{262}{}{Não, eu não tenho tempo. Tchau.}
-{270}{}{Fick dich du verdammter Arschficker! Eu deveria ... para ... [Ele suspira.] Você está certo. Os robôs não conseguem entender o que eu digo mais. Eles sentam-se imobilizados, como malditos inimigos! Os computadores deixaram de funcionar e, como holograma, não consigo tocar os teclados. Como já falei há muitos anos, todo esse lugar precisa de nivelamento e reconstrução. Talvez um dia eu tenha o poder de fazer exatamente isso.}
-{271}{}{Talvez eu possa ajudar você de alguma forma? Eu sou muito bom com computadores.}
-{280}{}{Obrigado. Se você pode reparar o computador de controle do robô, conceder-lhe-ei acesso completo à ala de segurança no nível vermelho. Você pode aproveitar o que você gosta das lojas. Tenho medo de não termos nenhum uso para eles agora mesmo.}
-{281}{}{Obrigado. Eu vou voltar para você quando eu tiver feito}
-{290}{}{Lech mich! Eu não tenho nada mais a dizer para você.}
+{242}{}{NÃ£o, eu acho que eu vou limpar um pouco mais e ir. Bye!}
+{250}{}{InsolÃªncia! Tanta insolÃªncia de um Blsdes Arschloch! Quando comecei a treinar, a insolÃªncia deveria ser punida. E punido nÃ³s Ã©ramos! Marque minhas palavras scheisskopf, essa linguagem bifurcada serÃ¡ um dia a morte de vocÃª.}
+{251}{}{Talvez seja, talvez seja. E se esse dia vier a vir, eu vou lidar com isso, entÃ£o e ali. O que Ã© certo, isso nÃ£o virÃ¡ de vocÃª. VocÃª nÃ£o Ã© ninguÃ©m. VocÃª nÃ£o tem mais nada para dominar, e Ã© por isso que vocÃª encobre sua tristeza de raiva. HÃ¡ quanto tempo os robÃ´s nÃ£o conseguiram responder a vocÃª?}
+{260}{}{Bem, como vocÃª jÃ¡ pode ter adivinhado, os robÃ´s jÃ¡ nÃ£o trabalham aqui na EPA. Os consoles do computador jÃ¡ nÃ£o registram meus comandos verbais e nÃ£o tenho um corpo para ativar o console. Eu ... nÃ£o consigo garantir qualquer coisa corretamente. VocÃª poderia consertar o computador de controle do robÃ´ para mim? Eu preciso da capacidade de comandar os robÃ´s para ... bem, para as coisas.}
+{261}{}{Bem, por que nÃ£o? Eu vou ver o que posso fazer.}
+{262}{}{NÃ£o, eu nÃ£o tenho tempo. Tchau.}
+{270}{}{Fick dich du verdammter Arschficker! Eu deveria ... para ... [Ele suspira.] VocÃª estÃ¡ certo. Os robÃ´s nÃ£o conseguem entender o que eu digo mais. Eles sentam-se imobilizados, como malditos inimigos! Os computadores deixaram de funcionar e, como holograma, nÃ£o consigo tocar os teclados. Como jÃ¡ falei hÃ¡ muitos anos, todo esse lugar precisa de nivelamento e reconstruÃ§Ã£o. Talvez um dia eu tenha o poder de fazer exatamente isso.}
+{271}{}{Talvez eu possa ajudar vocÃª de alguma forma? Eu sou muito bom com computadores.}
+{280}{}{Obrigado. Se vocÃª pode reparar o computador de controle do robÃ´, conceder-lhe-ei acesso completo Ã  ala de seguranÃ§a no nÃ­vel vermelho. VocÃª pode aproveitar o que vocÃª gosta das lojas. Tenho medo de nÃ£o termos nenhum uso para eles agora mesmo.}
+{281}{}{Obrigado. Eu vou voltar para vocÃª quando eu tiver feito}
+{290}{}{Lech mich! Eu nÃ£o tenho nada mais a dizer para vocÃª.}
 {291}{}{Bem.}
-{300}{}{Você conseguiu completar a tarefa ainda? * Olhos brilham com expectativa *}
-{301}{}{Não, ainda não. Eu vou continuar trabalhando.}
-{310}{}{Os computadores estão de volta online ainda?}
-{311}{}{Sim. Eu os reparei por você. Você pode comandar os robôs novamente.}
-{320}{}{Excelente! Brilhante! Eu posso esmagar aqueles tolos agora! A EPA será limpa mais uma vez! Tudo bem, agora tenho algo para você. [Falando aos robôs] Obtenha o seu culo de metal em marcha e venha dar a este civie uma recompensa por servir esta grande nação!
-  [Um robô roda para você e mantém um cartão-chave. Depois de pegar o cartão, você vê a roda voltada para fora da sala. De alguma forma, você tem a impressão de que esses robôs teriam sido
-  mais felizes se você os deixasse inativos.] Siga o seu caminho agora. Você está demitido.}
+{300}{}{VocÃª conseguiu completar a tarefa ainda? * Olhos brilham com expectativa *}
+{301}{}{NÃ£o, ainda nÃ£o. Eu vou continuar trabalhando.}
+{310}{}{Os computadores estÃ£o de volta online ainda?}
+{311}{}{Sim. Eu os reparei por vocÃª. VocÃª pode comandar os robÃ´s novamente.}
+{320}{}{Excelente! Brilhante! Eu posso esmagar aqueles tolos agora! A EPA serÃ¡ limpa mais uma vez! Tudo bem, agora tenho algo para vocÃª. [Falando aos robÃ´s] Obtenha o seu culo de metal em marcha e venha dar a este civie uma recompensa por servir esta grande naÃ§Ã£o!
+Â  [Um robÃ´ roda para vocÃª e mantÃ©m um cartÃ£o-chave. Depois de pegar o cartÃ£o, vocÃª vÃª a roda voltada para fora da sala. De alguma forma, vocÃª tem a impressÃ£o de que esses robÃ´s teriam sido
+Â  mais felizes se vocÃª os deixasse inativos.] Siga o seu caminho agora. VocÃª estÃ¡ demitido.}
 {321}{}{Obrigado.}
-{322}{}{Demitido? O que eu sou um guardião? Mais tarde, temporizador antigo.}
+{322}{}{Demitido? O que eu sou um guardiÃ£o? Mais tarde, temporizador antigo.}
 {330}{}{Deixe-me em paz!}
-{331}{}{Eu não quero mais nada com você.}
+{331}{}{Eu nÃ£o quero mais nada com vocÃª.}
 {332}{}{MACH ES DIR SELBER!!}
 {333}{}{Eu estou ocupado agora.}
 {334}{}{Volte mais tarde.}
-{335}{}{Você não vê que estou em conferência?}
+{335}{}{VocÃª nÃ£o vÃª que estou em conferÃªncia?}
 {336}{}{Devemos destruir este lugar imediatamente!}
-{337}{}{Isso é um absurdo!}
+{337}{}{Isso Ã© um absurdo!}
 {338}{}{Nunca!}
-{339}{}{Somente com a destruição do velho pode o novo renascer.}
+{339}{}{Somente com a destruiÃ§Ã£o do velho pode o novo renascer.}
 {340}{}{Todos a favor?}
-{341}{}{Os robôs devem ser reativados!}
-{342}{}{Warmduschers! Todos vocês!}
-{343}{}{Nossas defesas de armas estão com extrema necessidade de munição!}
+{341}{}{Os robÃ´s devem ser reativados!}
+{342}{}{Warmduschers! Todos vocÃªs!}
+{343}{}{Nossas defesas de armas estÃ£o com extrema necessidade de muniÃ§Ã£o!}
 {344}{}{Se eu estivesse no comando, as coisas iriam realmente acontecer por aqui!}
 {345}{}{Pare morra Schnauze!}
-{400}{}{Prender-me? Você é um holograma. Você não pode nem mesmo me tocar.}
-{401}{}{Eu vejo que eu tenho um maldito Klugscheißer nas minhas mãos! Você acha que não posso vencer a merda de um Warmduscher como você? Bem, talvez não consiga, mas é pra isso que servem os malditos robôs! Agora estou ficando sem paciência muito rápido. É melhor começar a explicar-se. Como eu sei que você não é um espião chinês?}
-{410}{}{Você quem trouxe o computador de controle do robô novamente online?}
-{411}{}{É isso mesmo.}
+{400}{}{Prender-me? VocÃª Ã© um holograma. VocÃª nÃ£o pode nem mesmo me tocar.}
+{401}{}{Eu vejo que eu tenho um maldito KlugscheiÃŸer nas minhas mÃ£os! VocÃª acha que nÃ£o posso vencer a merda de um Warmduscher como vocÃª? Bem, talvez nÃ£o consiga, mas Ã© pra isso que servem os malditos robÃ´s! Agora estou ficando sem paciÃªncia muito rÃ¡pido. Ã‰ melhor comeÃ§ar a explicar-se. Como eu sei que vocÃª nÃ£o Ã© um espiÃ£o chinÃªs?}
+{410}{}{VocÃª quem trouxe o computador de controle do robÃ´ novamente online?}
+{411}{}{Ã‰ isso mesmo.}
 {412}{}{Hum...talvez.}
-{413}{}{Não. Não era eu.}
-{420}{}{Quatsch! Você é a única carne e sangue que estão por aí, então eu bem sei que foi você.}
+{413}{}{NÃ£o. NÃ£o era eu.}
+{420}{}{Quatsch! VocÃª Ã© a Ãºnica carne e sangue que estÃ£o por aÃ­, entÃ£o eu bem sei que foi vocÃª.}
 {421}{}{Tudo bem, tudo bem, era eu.}

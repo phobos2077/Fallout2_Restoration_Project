@@ -1,6 +1,6 @@
-{100}{}{Désert}
-{101}{}{Désert}
-{102}{}{Désert}
+{100}{}{DÃ©sert}
+{101}{}{DÃ©sert}
+{102}{}{DÃ©sert}
 {103}{}{Arroyo}
 {104}{}{Arroyo}
 {105}{}{Arroyo}
@@ -13,15 +13,15 @@
 {112}{}{Klamath}
 {113}{}{Klamath}
 {114}{}{Klamath}
-{115}{}{La Cité de l'Abri}
-{116}{}{La Cité de l'Abri}
-{117}{}{La Cité de l'Abri}
+{115}{}{La CitÃ© de l'Abri}
+{116}{}{La CitÃ© de l'Abri}
+{117}{}{La CitÃ© de l'Abri}
 {118}{}{error:Map Name}
 {119}{}{City Ruins}
-{120}{}{Côte}
-{121}{}{Côte}
-{122}{}{Désert}
-{123}{}{Désert}
+{120}{}{CÃ´te}
+{121}{}{CÃ´te}
+{122}{}{DÃ©sert}
+{123}{}{DÃ©sert}
 {124}{}{error:Map Name}
 {125}{}{error:Map Name}
 {126}{}{error:Map Name}
@@ -49,32 +49,32 @@
 {148}{}{Military}
 {149}{}{Montagnes}
 {150}{}{Montagnes}
-{151}{}{Désert}
-{152}{}{Désert}
-{153}{}{Désert}
-{154}{}{Désert}
+{151}{}{DÃ©sert}
+{152}{}{DÃ©sert}
+{153}{}{DÃ©sert}
+{154}{}{DÃ©sert}
 {155}{}{Brotherhood}
-{156}{}{Désert}
-{157}{}{Désert}
+{156}{}{DÃ©sert}
+{157}{}{DÃ©sert}
 {158}{}{Montagnes}
 {159}{}{Montagnes}
 {160}{}{Viper Camp}
-{161}{}{Désert}
+{161}{}{DÃ©sert}
 {162}{}{Montagnes}
-{163}{}{Désert}
+{163}{}{DÃ©sert}
 {164}{}{Montagnes}
 {165}{}{EPA}
 {166}{}{EPA}
 {167}{}{EPA Warehouse}
 {168}{}{Marchand}
 {169}{}{Sous-marin Shi}
-{200}{}{Désert}
+{200}{}{DÃ©sert}
 {201}{}{}
 {202}{}{}
-{203}{}{Désert}
+{203}{}{DÃ©sert}
 {204}{}{}
 {205}{}{}
-{206}{}{Désert}
+{206}{}{DÃ©sert}
 {207}{}{}
 {208}{}{}
 {209}{}{Temple: foyer}
@@ -84,7 +84,7 @@
 {213}{}{}
 {214}{}{}
 {215}{}{Pont}
-{216}{}{Pont détruit}
+{216}{}{Pont dÃ©truit}
 {217}{}{}
 {218}{}{Quartier Ouest}
 {219}{}{}
@@ -92,7 +92,7 @@
 {221}{}{Zone Est}
 {222}{}{}
 {223}{}{}
-{224}{}{Résidentiel}
+{224}{}{RÃ©sidentiel}
 {225}{}{}
 {226}{}{}
 {227}{}{Centre-ville}
@@ -104,16 +104,16 @@
 {233}{}{Grottes aux rats}
 {234}{}{Grottes aux rats}
 {235}{}{Grottes aux rats}
-{236}{}{Entrée}
+{236}{}{EntrÃ©e}
 {237}{}{Grottes toxiques}
 {238}{}{Grottes toxiques}
 {239}{}{Terrains de chasse}
 {240}{}{Terrains de chasse}
 {241}{}{Terrains de chasse}
-{242}{}{Pâturages}
-{243}{}{Pâturages}
+{242}{}{PÃ¢turages}
+{243}{}{PÃ¢turages}
 {244}{}{}
-{245}{}{Entrée}
+{245}{}{EntrÃ©e}
 {246}{}{}
 {247}{}{}
 {248}{}{Centre-ville}
@@ -128,7 +128,7 @@
 {257}{}{Auberge}
 {258}{}{Auberge}
 {259}{}{}
-{260}{}{Pâturages des Brahmines}
+{260}{}{PÃ¢turages des Brahmines}
 {261}{}{}
 {262}{}{}
 {263}{}{Jardin de Farrel}
@@ -167,13 +167,13 @@
 {296}{}{Centrale}
 {297}{}{Centrale}
 {298}{}{}
-{299}{}{Dépotoir}
-{300}{}{Dépotoir}
-{301}{}{Dépotoir}
+{299}{}{DÃ©potoir}
+{300}{}{DÃ©potoir}
+{301}{}{DÃ©potoir}
 {302}{}{Tunnels}
 {303}{}{Tunnels}
 {304}{}{Tunnels}
-{305}{}{Désert}
+{305}{}{DÃ©sert}
 {306}{}{}
 {307}{}{}
 {308}{}{Abri 15 : niveau 1}
@@ -185,7 +185,7 @@
 {314}{}{Squatters}
 {315}{}{}
 {316}{}{}
-{317}{}{Entrée Est}
+{317}{}{EntrÃ©e Est}
 {318}{}{}
 {319}{}{}
 {320}{}{Niveau 1}
@@ -197,19 +197,19 @@
 {326}{}{Centre-ville}
 {327}{}{}
 {328}{}{}
-{329}{}{Hôtel de ville}
+{329}{}{HÃ´tel de ville}
 {330}{}{}
 {331}{}{}
 {332}{}{Ranch de Westin}
 {333}{}{}
 {334}{}{}
-{335}{}{Pâturages}
+{335}{}{PÃ¢turages}
 {336}{}{}
 {337}{}{}
 {338}{}{Bazar}
 {339}{}{}
 {340}{}{}
-{341}{}{Hôtel de ville}
+{341}{}{HÃ´tel de ville}
 {342}{}{}
 {343}{}{}
 {344}{}{Canyon}
@@ -221,31 +221,31 @@
 {350}{}{Niveau 3}
 {351}{}{Niveau 4}
 {352}{}{}
-{353}{}{Entrée}
+{353}{}{EntrÃ©e}
 {354}{}{}
 {355}{}{}
-{356}{}{Désert}
+{356}{}{DÃ©sert}
 {357}{}{Village}
 {358}{}{Campement}
-{359}{}{Désert}
+{359}{}{DÃ©sert}
 {360}{}{}
 {361}{}{}
 {362}{}{Rue de la Vierge}
 {363}{}{Sous-sol du Desperado}
-{364}{}{Desperado, 2ème étage}
-{365}{}{2ème rue}
-{366}{}{2ème étage}
-{367}{}{Shark Club, 3ème étage}
+{364}{}{Desperado, 2Ã¨me Ã©tage}
+{365}{}{2Ã¨me rue}
+{366}{}{2Ã¨me Ã©tage}
+{367}{}{Shark Club, 3Ã¨me Ã©tage}
 {368}{}{Rue marchande}
 {369}{}{Sous-sol de l'Armurerie de New Reno}
 {370}{}{}
 {371}{}{Zone Est}
-{372}{}{Gare ferrovière}
+{372}{}{Gare ferroviÃ¨re}
 {373}{}{}
-{374}{}{A l'entrecôte}
+{374}{}{A l'entrecÃ´te}
 {375}{}{}
 {376}{}{}
-{377}{}{Cimetière}
+{377}{}{CimetiÃ¨re}
 {378}{}{Abri anti-atomique}
 {379}{}{}
 {380}{}{Maison d'esclave}
@@ -254,18 +254,18 @@
 {383}{}{Ring de boxe}
 {384}{}{Ring de boxe}
 {385}{}{Ring de boxe}
-{386}{}{Entrée de la mine}
-{387}{}{Entrée de la mine}
-{388}{}{Entrée de la mine}
+{386}{}{EntrÃ©e de la mine}
+{387}{}{EntrÃ©e de la mine}
+{388}{}{EntrÃ©e de la mine}
 {389}{}{Mine - niveau 1}
 {390}{}{Mine - niveau 2}
 {391}{}{}
 {392}{}{Centre-ville}
 {393}{}{Centre-ville}
 {394}{}{Centre-ville}
-{395}{}{Entrée de la mine}
-{396}{}{Entrée de la mine}
-{397}{}{Entrée de la mine}
+{395}{}{EntrÃ©e de la mine}
+{396}{}{EntrÃ©e de la mine}
+{397}{}{EntrÃ©e de la mine}
 {398}{}{Tunnels}
 {399}{}{Tunnels}
 {400}{}{Tunnels}
@@ -296,90 +296,90 @@
 {425}{}{Montagne}
 {426}{}{Montagne}
 {427}{}{Montagne}
-{428}{}{Côte}
-{429}{}{Côte}
-{430}{}{Côte}
-{431}{}{Côte}
-{432}{}{Côte}
-{433}{}{Côte}
+{428}{}{CÃ´te}
+{429}{}{CÃ´te}
+{430}{}{CÃ´te}
+{431}{}{CÃ´te}
+{432}{}{CÃ´te}
+{433}{}{CÃ´te}
 {434}{}{Centre-ville}
 {435}{}{Sous sol}
 {436}{}{Unused}
-{437}{}{Résidentiel}
+{437}{}{RÃ©sidentiel}
 {438}{}{Souterrain}
 {439}{}{Mine}
 {440}{}{Caverne}
 {441}{}{Caverne}
 {442}{}{Caverne}
-{443}{}{Désert}
-{444}{}{Désert}
-{445}{}{Désert}
-{446}{}{Désert}
-{447}{}{Désert}
-{448}{}{Désert}
-{449}{}{Désert}
-{450}{}{Désert}
-{451}{}{Désert}
-{452}{}{Désert}
-{453}{}{Désert}
-{454}{}{Désert}
-{455}{}{Côte}
-{456}{}{Côte}
-{457}{}{Côte}
-{458}{}{Côte}
-{459}{}{Côte}
-{460}{}{Côte}
-{461}{}{Côte}
-{462}{}{Côte}
-{463}{}{Côte}
-{464}{}{Côte}
-{465}{}{Côte}
-{466}{}{Côte}
-{467}{}{Côte}
-{468}{}{Côte}
-{469}{}{Côte}
-{470}{}{Côte}
-{471}{}{Côte}
-{472}{}{Côte}
-{473}{}{Côte}
-{474}{}{Côte}
-{475}{}{Côte}
-{476}{}{Repère de pillards}
-{477}{}{Repère de pillards}
-{478}{}{Repère de pillards}
-{479}{}{Entrée de la grotte}
+{443}{}{DÃ©sert}
+{444}{}{DÃ©sert}
+{445}{}{DÃ©sert}
+{446}{}{DÃ©sert}
+{447}{}{DÃ©sert}
+{448}{}{DÃ©sert}
+{449}{}{DÃ©sert}
+{450}{}{DÃ©sert}
+{451}{}{DÃ©sert}
+{452}{}{DÃ©sert}
+{453}{}{DÃ©sert}
+{454}{}{DÃ©sert}
+{455}{}{CÃ´te}
+{456}{}{CÃ´te}
+{457}{}{CÃ´te}
+{458}{}{CÃ´te}
+{459}{}{CÃ´te}
+{460}{}{CÃ´te}
+{461}{}{CÃ´te}
+{462}{}{CÃ´te}
+{463}{}{CÃ´te}
+{464}{}{CÃ´te}
+{465}{}{CÃ´te}
+{466}{}{CÃ´te}
+{467}{}{CÃ´te}
+{468}{}{CÃ´te}
+{469}{}{CÃ´te}
+{470}{}{CÃ´te}
+{471}{}{CÃ´te}
+{472}{}{CÃ´te}
+{473}{}{CÃ´te}
+{474}{}{CÃ´te}
+{475}{}{CÃ´te}
+{476}{}{RepÃ¨re de pillards}
+{477}{}{RepÃ¨re de pillards}
+{478}{}{RepÃ¨re de pillards}
+{479}{}{EntrÃ©e de la grotte}
 {480}{}{Nid de radscorpion}
 {481}{}{Caserne}
-{482}{}{Désert}
-{483}{}{Désert}
-{484}{}{Désert}
+{482}{}{DÃ©sert}
+{483}{}{DÃ©sert}
+{484}{}{DÃ©sert}
 {485}{}{Montagne}
 {486}{}{Montagne}
 {487}{}{Montagne}
-{488}{}{Désert}
-{489}{}{Désert}
-{490}{}{Désert}
-{491}{}{Désert}
-{492}{}{Désert}
-{493}{}{Désert}
-{494}{}{Désert}
-{495}{}{Désert}
-{496}{}{Désert}
-{497}{}{Désert}
-{498}{}{Désert}
-{499}{}{Désert}
-{500}{}{Désert}
-{501}{}{Désert}
-{502}{}{Désert}
+{488}{}{DÃ©sert}
+{489}{}{DÃ©sert}
+{490}{}{DÃ©sert}
+{491}{}{DÃ©sert}
+{492}{}{DÃ©sert}
+{493}{}{DÃ©sert}
+{494}{}{DÃ©sert}
+{495}{}{DÃ©sert}
+{496}{}{DÃ©sert}
+{497}{}{DÃ©sert}
+{498}{}{DÃ©sert}
+{499}{}{DÃ©sert}
+{500}{}{DÃ©sert}
+{501}{}{DÃ©sert}
+{502}{}{DÃ©sert}
 {503}{}{Pont de la Mort}
 {504}{}{Pont de la Mort}
 {505}{}{Pont de la Mort}
 {506}{}{Cafe des Illusions Perdues}
 {507}{}{Cafe des Illusions Perdues}
 {508}{}{Cafe des Illusions Perdues}
-{509}{}{Désert}
-{510}{}{Désert}
-{511}{}{Désert}
+{509}{}{DÃ©sert}
+{510}{}{DÃ©sert}
+{511}{}{DÃ©sert}
 {512}{}{Montagne}
 {513}{}{Caverne}
 {514}{}{Caverne}
@@ -389,15 +389,15 @@
 {518}{}{Decharge de produits toxiques}
 {519}{}{Decharge de produits toxiques}
 {520}{}{Decharge de produits toxiques}
-{521}{}{Désert}
-{522}{}{Désert}
-{523}{}{Désert}
-{524}{}{Désert}
-{525}{}{Désert}
-{526}{}{Désert}
+{521}{}{DÃ©sert}
+{522}{}{DÃ©sert}
+{523}{}{DÃ©sert}
+{524}{}{DÃ©sert}
+{525}{}{DÃ©sert}
+{526}{}{DÃ©sert}
 {527}{}{Station essence}
 {528}{}{Souterrain}
-{529}{}{Base d'hélicoptères}
+{529}{}{Base d'hÃ©licoptÃ¨res}
 {530}{}{Littoral}
 {531}{}{Littoral}
 {532}{}{Littoral}
@@ -407,21 +407,21 @@
 {536}{}{Littoral}
 {537}{}{Littoral}
 {538}{}{Littoral}
-{539}{}{Désert}
-{540}{}{Désert}
-{541}{}{Désert}
-{542}{}{Désert}
-{543}{}{Désert}
-{544}{}{Désert}
-{545}{}{Désert}
-{546}{}{Désert}
-{547}{}{Désert}
-{548}{}{Désert}
-{549}{}{Désert}
-{550}{}{Désert}
-{551}{}{Désert}
-{552}{}{Désert}
-{553}{}{Désert}
+{539}{}{DÃ©sert}
+{540}{}{DÃ©sert}
+{541}{}{DÃ©sert}
+{542}{}{DÃ©sert}
+{543}{}{DÃ©sert}
+{544}{}{DÃ©sert}
+{545}{}{DÃ©sert}
+{546}{}{DÃ©sert}
+{547}{}{DÃ©sert}
+{548}{}{DÃ©sert}
+{549}{}{DÃ©sert}
+{550}{}{DÃ©sert}
+{551}{}{DÃ©sert}
+{552}{}{DÃ©sert}
+{553}{}{DÃ©sert}
 {554}{}{Caverne}
 {555}{}{Caverne}
 {556}{}{Caverne}
@@ -443,20 +443,20 @@
 {572}{}{Montagne}
 {573}{}{Montagne}
 {574}{}{Montagne}
-{575}{}{Ville abandonnée}
+{575}{}{Ville abandonnÃ©e}
 {576}{}{Ville en ruines}
 {577}{}{Ville en ruines}
-{578}{}{Entrée du temple}
-{579}{}{Entrée du temple}
-{580}{}{Entrée du temple}
-{581}{}{Pont détruit}
-{582}{}{Pont détruit}
-{583}{}{Pont détruit}
-{584}{}{Cellules de détention}
-{585}{}{Cellules de détention}
-{586}{}{Cellules de détention}
+{578}{}{EntrÃ©e du temple}
+{579}{}{EntrÃ©e du temple}
+{580}{}{EntrÃ©e du temple}
+{581}{}{Pont dÃ©truit}
+{582}{}{Pont dÃ©truit}
+{583}{}{Pont dÃ©truit}
+{584}{}{Cellules de dÃ©tention}
+{585}{}{Cellules de dÃ©tention}
+{586}{}{Cellules de dÃ©tention}
 {587}{}{Quai}
-{588}{}{Quai de déchargement des hélicos}
+{588}{}{Quai de dÃ©chargement des hÃ©licos}
 {589}{}{Quai}
 {590}{}{Enclave}
 {591}{}{Enclave}
@@ -464,18 +464,18 @@
 {593}{}{Caserne des gardes}
 {594}{}{Caserne des gardes}
 {595}{}{Caserne des gardes}
-{596}{}{Quartier présidentiel}
-{597}{}{Quartier présidentiel}
-{598}{}{Quartier présidentiel}
-{599}{}{Réacteur}
-{600}{}{Réacteur}
-{601}{}{Réacteur}
-{602}{}{Couloir d'accès}
-{603}{}{Couloir d'accès}
-{604}{}{Couloir d'accès}
-{605}{}{Pétrolier}
-{606}{}{Pétrolier}
-{607}{}{Pétrolier}
+{596}{}{Quartier prÃ©sidentiel}
+{597}{}{Quartier prÃ©sidentiel}
+{598}{}{Quartier prÃ©sidentiel}
+{599}{}{RÃ©acteur}
+{600}{}{RÃ©acteur}
+{601}{}{RÃ©acteur}
+{602}{}{Couloir d'accÃ¨s}
+{603}{}{Couloir d'accÃ¨s}
+{604}{}{Couloir d'accÃ¨s}
+{605}{}{PÃ©trolier}
+{606}{}{PÃ©trolier}
+{607}{}{PÃ©trolier}
 {608}{}{Quai}
 {609}{}{Quai}
 {610}{}{Quai}
@@ -485,45 +485,45 @@
 {614}{}{Quai de navette}
 {615}{}{Quai de navette}
 {616}{}{Quai de navette}
-{617}{}{Intérieur de la navette}
-{618}{}{Intérieur de la navette}
-{619}{}{Intérieur de la navette}
+{617}{}{IntÃ©rieur de la navette}
+{618}{}{IntÃ©rieur de la navette}
+{619}{}{IntÃ©rieur de la navette}
 {620}{}{Base des Hubologistes}
 {621}{}{Base des Hubologistes}
 {622}{}{Base des Hubologistes}
-{623}{}{Ville détruite}
-{624}{}{Ville détruite}
-{625}{}{Ville détruite}
-{626}{}{Ville détruite}
-{627}{}{Ville détruite}
-{628}{}{Ville détruite}
-{629}{}{Ville détruite}
-{630}{}{Ville détruite}
-{631}{}{Ville détruite}
-{632}{}{Ville détruite}
-{633}{}{Ville détruite}
-{634}{}{Ville détruite}
-{635}{}{Ville détruite}
-{636}{}{Ville détruite}
-{637}{}{Ville détruite}
-{638}{}{Ville détruite}
-{639}{}{Ville détruite}
-{640}{}{Ville détruite}
-{641}{}{Zone d'hélicoptères}
-{642}{}{Zone d'hélicoptères}
-{643}{}{Zone d'hélicoptères}
+{623}{}{Ville dÃ©truite}
+{624}{}{Ville dÃ©truite}
+{625}{}{Ville dÃ©truite}
+{626}{}{Ville dÃ©truite}
+{627}{}{Ville dÃ©truite}
+{628}{}{Ville dÃ©truite}
+{629}{}{Ville dÃ©truite}
+{630}{}{Ville dÃ©truite}
+{631}{}{Ville dÃ©truite}
+{632}{}{Ville dÃ©truite}
+{633}{}{Ville dÃ©truite}
+{634}{}{Ville dÃ©truite}
+{635}{}{Ville dÃ©truite}
+{636}{}{Ville dÃ©truite}
+{637}{}{Ville dÃ©truite}
+{638}{}{Ville dÃ©truite}
+{639}{}{Ville dÃ©truite}
+{640}{}{Ville dÃ©truite}
+{641}{}{Zone d'hÃ©licoptÃ¨res}
+{642}{}{Zone d'hÃ©licoptÃ¨res}
+{643}{}{Zone d'hÃ©licoptÃ¨res}
 {644}{}{Temple Shi}
 {645}{}{}
-{646}{}{Base de la Confrérie}
-{647}{}{Désert}
-{648}{}{Désert}
-{649}{}{Désert}
-{650}{}{Désert}
-{651}{}{Désert}
-{652}{}{Désert}
-{653}{}{Entrée}
-{654}{}{Deuxième étage}
-{655}{}{Troisième étage}
+{646}{}{Base de la ConfrÃ©rie}
+{647}{}{DÃ©sert}
+{648}{}{DÃ©sert}
+{649}{}{DÃ©sert}
+{650}{}{DÃ©sert}
+{651}{}{DÃ©sert}
+{652}{}{DÃ©sert}
+{653}{}{EntrÃ©e}
+{654}{}{DeuxiÃ¨me Ã©tage}
+{655}{}{TroisiÃ¨me Ã©tage}
 {656}{}{Sous sol}
 {657}{}{pas de nom}
 {658}{}{pas de nom}
@@ -539,22 +539,22 @@
 {668}{}{Zone de peche}
 {669}{}{Petite Grotte}
 {670}{}{pas de nom}
-{671}{}{Entrée}
+{671}{}{EntrÃ©e}
 {672}{}{Air, Electricite et canalisations}
 {673}{}{Maintenance robotique}
 {674}{}{Niveau Un}
 {675}{}{Niveau Deux}
 {676}{}{Niveau Trois}
-{677}{}{Entrepôt}
+{677}{}{EntrepÃ´t}
 {678}{}{pas de nom}
 {679}{}{pas de nom}
 {680}{}{Camp Principal}
 {681}{}{pas de nom}
 {682}{}{pas de nom}
-{683}{}{Désert}
-{684}{}{Désert}
-{685}{}{Désert}
-{686}{}{Entrée}
+{683}{}{DÃ©sert}
+{684}{}{DÃ©sert}
+{685}{}{DÃ©sert}
+{686}{}{EntrÃ©e}
 {687}{}{Niveau Un}
 {688}{}{Niveau Deux}
 {689}{}{Avant-poste des Rangers}
@@ -566,15 +566,15 @@
 {695}{}{Avant-poste des Rangers}
 {696}{}{Avant-poste des Rangers}
 {697}{}{Avant-poste des Rangers}
-{698}{}{Désert}
-{699}{}{Désert}
-{700}{}{Désert}
-{701}{}{Désert}
-{702}{}{Désert}
-{703}{}{Désert}
-{704}{}{Désert}
-{705}{}{Désert}
-{706}{}{Désert}
+{698}{}{DÃ©sert}
+{699}{}{DÃ©sert}
+{700}{}{DÃ©sert}
+{701}{}{DÃ©sert}
+{702}{}{DÃ©sert}
+{703}{}{DÃ©sert}
+{704}{}{DÃ©sert}
+{705}{}{DÃ©sert}
+{706}{}{DÃ©sert}
 {707}{}{Exterieur du Sous-marin}
 {708}{}{Interieur du Sous-marin niveau 1}
 {709}{}{}
@@ -591,9 +591,9 @@
 {1501}{}{La Fosse}
 {1502}{}{Klamath}
 {1503}{}{Modoc}
-{1504}{}{La Cité de l'Abri}
+{1504}{}{La CitÃ© de l'Abri}
 {1505}{}{Gecko}
-{1506}{}{Les Collines Brisées}
+{1506}{}{Les Collines BrisÃ©es}
 {1507}{}{New Reno}
 {1508}{}{Entrepot de Sierra}
 {1509}{}{L'Abri 15}
@@ -613,10 +613,10 @@
 {1523}{}{Grottes toxiques}
 {1524}{}{Fuite des esclaves de La Fosse}
 {1525}{}{Pillards}
-{1526}{}{Désert}
+{1526}{}{DÃ©sert}
 {1527}{}{Montagne}
 {1528}{}{Ville en ruines}
-{1529}{}{Côte}
+{1529}{}{CÃ´te}
 {1530}{}{Golgotha}
 {1531}{}{Baleine echouee}
 {1532}{}{Homme en fer-blanc}
@@ -627,7 +627,7 @@
 {1537}{}{Cafe des Illusions Perdues}
 {1538}{}{Paladins}
 {1539}{}{Grotte du Rat Vorpal}
-{1540}{}{Gardien de L'Eternité}
+{1540}{}{Gardien de L'EternitÃ©}
 {1541}{}{Decharge de produits toxiques}
 {1542}{}{Parias}
 {1543}{}{Brahmine folle}

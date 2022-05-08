@@ -2,13 +2,13 @@
 {101}{}{Du siehst eines der Kinder von Klamath.}
 {150}{}{Friss mich nicht!}
 {151}{}{Iiihh! Der schwarze Mann!}
-{152}{}{Papa sagt, dass du böse bist.}
+{152}{}{Papa sagt, dass du bÃ¶se bist.}
 {153}{}{Iiiihh! Schnell weg!}
 {154}{}{Du machst mir Angst.}
 {155}{}{Schau mich nicht so an.}
 {156}{}{Ich soll nicht mit Wilden reden.}
 {157}{}{Du bist genau wie die Duntons.}
-{158}{}{Meine Mama sagt, du frisst mich, wenn ich böse bin.}
+{158}{}{Meine Mama sagt, du frisst mich, wenn ich bÃ¶se bin.}
 {159}{}{Ich hab keine Angst vor dir!}
 {160}{}{Hiiilfe!}
 {161}{}{Es verfolgt mich!}
@@ -30,34 +30,34 @@
 {178}{}{Spielen wir Fangen. Du bist dran.}
 {179}{}{So schlecht riechst du gar nicht.}
 {180}{}{Hast du meinen unsichtbaren Freund gesehen?}
-{181}{}{Ich möchte in der Welt herumreisen, wenn ich so alt bin wie du.}
+{181}{}{Ich mÃ¶chte in der Welt herumreisen, wenn ich so alt bin wie du.}
 {182}{}{Du bist ein netter Wilder, nicht so wie die anderen.}
 {183}{}{Ich wette, du badest ab und zu.}
-{184}{}{Du bist klüger als Torr}
+{184}{}{Du bist klÃ¼ger als Torr}
 {185}{}{Ist die Klinge da richtig scharf?}
-{186}{}{Wenn ich erwachsen bin, möchte ich sein wie du.}
-{187}{}{Mein Hund liebt Dörrfleisch.}
+{186}{}{Wenn ich erwachsen bin, mÃ¶chte ich sein wie du.}
+{187}{}{Mein Hund liebt DÃ¶rrfleisch.}
 {188}{}{Ich hab 'nen Glitzerstein}
 {189}{}{Hast du meinen unsichtbaren Freund gesehen?}
-{190}{}{Darf ich zu deinem Stamm gehören?}
+{190}{}{Darf ich zu deinem Stamm gehÃ¶ren?}
 {191}{}{Du bist nett.}
 {192}{}{Du siehst komisch aus.}
 {193}{}{Was hast'n da an?}
-{194}{}{Ich möchte auf 'nem Brahmin reiten!}
+{194}{}{Ich mÃ¶chte auf 'nem Brahmin reiten!}
 {195}{}{Bist du von weit weg?}
 {196}{}{Uuuiii! Ha Ha Ha}
 {197}{}{Geh nicht weg!}
 {198}{}{Hast du was zum Essen?}
-{199}{}{Stör ich dich?}
+{199}{}{StÃ¶r ich dich?}
 {200}{}{Wo gehst du hin?}
 {201}{}{Kann ich mitkommen?}
 {202}{}{Wie alt bist du?}
-{203}{}{Wie heißt du?}
+{203}{}{Wie heiÃŸt du?}
 {204}{}{Magst du Kinder?}
 {205}{}{Was ist das?}
 {206}{}{Magst du mit mir spielen?}
 {207}{}{Was machst'n du?}
-{208}{}{Hast du Käfer gesehen?}
+{208}{}{Hast du KÃ¤fer gesehen?}
 {209}{}{Wo hast du das her?}
 {210}{}{Darf ich das haben?}
 {211}{}{Was machst'n du so?}
@@ -73,27 +73,27 @@
 {221}{}{Magst du mich?}
 {222}{}{Bist du verheiratet?}
 {223}{}{Eins, zwei, drei, uuiiih!}
-{1000}{}{Älteste}
-{1001}{}{Gründer}
+{1000}{}{Ã„lteste}
+{1001}{}{GrÃ¼nder}
 {1002}{}{Vaultbewohner}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Auserwähltes Wesen}
+{1006}{}{AuserwÃ¤hltes Wesen}
 {1007}{}{Schamane}
 {1008}{}{Hakunin}
 {1009}{}{Heilpulver}
-{1010}{}{Brücke}
+{1010}{}{BrÃ¼cke}
 {1011}{}{Mynoc}
-{1100}{}{Die Älteste ist unsere Mutter und unsere Führerin.}
-{1101}{}{Unsere große Ahne, der wir unser Wissen zu verdanken haben.}
-{1102}{}{Die erste, der gegen das Chaos gekämpft und gesiegt hat.}
-{1103}{}{Das wäre unser schönes Dorf.}
-{1104}{}{Das ist eine Handelsaußenstelle ein paar Tage östlich von hier.}
+{1100}{}{Die Ã„lteste ist unsere Mutter und unsere FÃ¼hrerin.}
+{1101}{}{Unsere groÃŸe Ahne, der wir unser Wissen zu verdanken haben.}
+{1102}{}{Die erste, der gegen das Chaos gekÃ¤mpft und gesiegt hat.}
+{1103}{}{Das wÃ¤re unser schÃ¶nes Dorf.}
+{1104}{}{Das ist eine HandelsauÃŸenstelle ein paar Tage Ã¶stlich von hier.}
 {1105}{}{Die Vault ist der Himmel.}
-{1106}{}{Du bist das Auserwählte Wesen.}
-{1107}{}{Er heilt uns mit seinen Kräutern und seiner Magie. Er ist im nördlichen Teil unseres Dorfes.}
-{1108}{}{Er heilt uns mit seinen Kräutern und seiner Magie. Er ist im nördlichen Teil unseres Dorfes.}
-{1109}{}{Es ist ein magisches Pulver, das dich heilen wird. Du wirst davon allerdings schläfrig.}
-{1110}{}{Die große Brücke führt im Süden aus dem Dorf hinaus.}
-{1111}{}{Er bewacht die Brücke, die in unser Dorf führt.}
+{1106}{}{Du bist das AuserwÃ¤hlte Wesen.}
+{1107}{}{Er heilt uns mit seinen KrÃ¤utern und seiner Magie. Er ist im nÃ¶rdlichen Teil unseres Dorfes.}
+{1108}{}{Er heilt uns mit seinen KrÃ¤utern und seiner Magie. Er ist im nÃ¶rdlichen Teil unseres Dorfes.}
+{1109}{}{Es ist ein magisches Pulver, das dich heilen wird. Du wirst davon allerdings schlÃ¤frig.}
+{1110}{}{Die groÃŸe BrÃ¼cke fÃ¼hrt im SÃ¼den aus dem Dorf hinaus.}
+{1111}{}{Er bewacht die BrÃ¼cke, die in unser Dorf fÃ¼hrt.}

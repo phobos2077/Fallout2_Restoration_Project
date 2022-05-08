@@ -1,1 +1,1 @@
-{100}{}{Você entrou no ferro velho de Gecko.}
+{100}{}{VocÃª entrou no ferro velho de Gecko.}

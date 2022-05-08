@@ -1,367 +1,367 @@
-{100}{}{Você vê um espécime dos Tanques de Armazenamento.}
-{101}{}{Você vê Kitsune.}
-{102}{}{Seus olhos são cores diferentes. Um deles marrom como malmbrick, o outro verde brilhante.}
-{103}{}{Você vê uma mulher esbelta e de cabelos escuros que parece difícil de prever.}
+{100}{}{VocÃª vÃª um espÃ©cime dos Tanques de Armazenamento.}
+{101}{}{VocÃª vÃª Kitsune.}
+{102}{}{Seus olhos sÃ£o cores diferentes. Um deles marrom como malmbrick, o outro verde brilhante.}
+{103}{}{VocÃª vÃª uma mulher esbelta e de cabelos escuros que parece difÃ­cil de prever.}
 {104}{}{Ela tem um rosto macio e hipnotizantes olhos.}
-{150}{}{Não é bom olhar.}
-{200}{}{Antes de você encontrar um tanque aberto com água fria gelada lentamente sendo drenado através de um longo tubo de serpentina. No interior, um
-  Mulher, nua da cabeça aos pés, fica ofegante e tremendo. Olhando rapidamente, você pega um pacote de roupas soltas
-  de um armário próximo e coloca-os sobre o corpo dela.}
-{201}{}{Uau. Isso tinha que ser uma viagem. Você está bem?}
+{150}{}{NÃ£o Ã© bom olhar.}
+{200}{}{Antes de vocÃª encontrar um tanque aberto com Ã¡gua fria gelada lentamente sendo drenado atravÃ©s de um longo tubo de serpentina. No interior, um
+Â  Mulher, nua da cabeÃ§a aos pÃ©s, fica ofegante e tremendo. Olhando rapidamente, vocÃª pega um pacote de roupas soltas
+Â  de um armÃ¡rio prÃ³ximo e coloca-os sobre o corpo dela.}
+{201}{}{Uau. Isso tinha que ser uma viagem. VocÃª estÃ¡ bem?}
 {202}{}{S-sim, o c-c-conservator r-restaurou a temperatura do d-d do c-corpo.}
-{203}{}{Não de tudo, parece.}
-{204}{}{[Você dá um pouco de tempo para que seus dentes parem de tagarelar. Ela se recupera muito mais rápido do que você espera 
-  e olha para você com súbita gravidade.] Está ... acabou?}
+{203}{}{NÃ£o de tudo, parece.}
+{204}{}{[VocÃª dÃ¡ um pouco de tempo para que seus dentes parem de tagarelar. Ela se recupera muito mais rÃ¡pido do que vocÃª espera 
+Â  e olha para vocÃª com sÃºbita gravidade.] EstÃ¡ ... acabou?}
 {205}{}{Acabou? }
-{206}{}{Você quer dizer a Guerra?}
+{206}{}{VocÃª quer dizer a Guerra?}
 {207}{}{A Guerra. Todas aquelas armas nucleares.}
 {208}{}{A Guerra, sim.}
-{209}{}{Essa guerra terminou há muito tempo. Terminado logo que começou.}
-{210}{}{[Ela escova os fios de cabelo molhados de seus olhos. Você percebe que um olho está marrom enquanto o outro é verde esmeralda.] Quem ganhou?}
-{211}{}{Ninguém.}
-{212}{}{[Ela olha para você em branco. Ela é muito fácil para os olhos, especialmente para alguém que foi simplesmente descongelado de um bloco de gelo.]}
-{213}{}{Quando 90% do mundo é queimado para um marrom crocante, eu diria que é difícil declarar um vencedor claro.
-  Quero dizer, não valeu a pena ganhar muito.}
-{214}{}{O que... o que data é esta? Em que ano? É ainda 2077?}
-{215}{}{De jeito nenhum. [Você mostra a data no calendário do seu Pip Boy.]}
+{209}{}{Essa guerra terminou hÃ¡ muito tempo. Terminado logo que comeÃ§ou.}
+{210}{}{[Ela escova os fios de cabelo molhados de seus olhos. VocÃª percebe que um olho estÃ¡ marrom enquanto o outro Ã© verde esmeralda.] Quem ganhou?}
+{211}{}{NinguÃ©m.}
+{212}{}{[Ela olha para vocÃª em branco. Ela Ã© muito fÃ¡cil para os olhos, especialmente para alguÃ©m que foi simplesmente descongelado de um bloco de gelo.]}
+{213}{}{Quando 90% do mundo Ã© queimado para um marrom crocante, eu diria que Ã© difÃ­cil declarar um vencedor claro.
+Â  Quero dizer, nÃ£o valeu a pena ganhar muito.}
+{214}{}{O que... o que data Ã© esta? Em que ano? Ã‰ ainda 2077?}
+{215}{}{De jeito nenhum. [VocÃª mostra a data no calendÃ¡rio do seu Pip Boy.]}
 {216}{}{[Ela olha para a tela cintilante, congelada no tempo como se ela nunca tivesse deixado o tanque.]}
-{217}{}{Você está bem?}
-{218}{}{O Meu Deus. Eu não acredito. Eu estava naquela coisa por mais de um século?!}
-{219}{}{Parece que sim. Ei, escute, não me olhe assim. Não tive nada a ver com colocá-la lá. Inferno,
-  meu vovô ainda não estava vivo naquela época. Acabei de tropeçar na localização deste lugar e decidi verificar isso.}
-{220}{}{Bem, você me ajudará ou você gostaria mais se eu continuasse sentada nua aos seus pés?}
-{221}{}{Eu estava prestes a. [Você a ajuda nos seus pés.]}
-{222}{}{Por que você me acordou?}
-{223}{}{Nenhuma razão em particular.}
-{224}{}{Eu tenho esse terrível hábito de tocar tudo que encontro. Uma coisa levou à outra.}
-{225}{}{Você diz que nem trabalha neste lugar?}
+{217}{}{VocÃª estÃ¡ bem?}
+{218}{}{O Meu Deus. Eu nÃ£o acredito. Eu estava naquela coisa por mais de um sÃ©culo?!}
+{219}{}{Parece que sim. Ei, escute, nÃ£o me olhe assim. NÃ£o tive nada a ver com colocÃ¡-la lÃ¡. Inferno,
+Â  meu vovÃ´ ainda nÃ£o estava vivo naquela Ã©poca. Acabei de tropeÃ§ar na localizaÃ§Ã£o deste lugar e decidi verificar isso.}
+{220}{}{Bem, vocÃª me ajudarÃ¡ ou vocÃª gostaria mais se eu continuasse sentada nua aos seus pÃ©s?}
+{221}{}{Eu estava prestes a. [VocÃª a ajuda nos seus pÃ©s.]}
+{222}{}{Por que vocÃª me acordou?}
+{223}{}{Nenhuma razÃ£o em particular.}
+{224}{}{Eu tenho esse terrÃ­vel hÃ¡bito de tocar tudo que encontro. Uma coisa levou Ã  outra.}
+{225}{}{VocÃª diz que nem trabalha neste lugar?}
 {226}{}{Foi o que eu disse.}
-{227}{}{Então, se você não tivesse vindo, eu estaria presa nessa coisa ainda mais. Talvez para sempre.
-  (Ela puxa uma das camisolas que você a envolveu sobre sua cabeça.) Como é agora, o mundo lá fora?
-  Você disse que 90% foram destruídos?}
-{228}{}{Meu mundo é uma terra desolada onde todos os dias é uma luta pela sobrevivência. A maioria das pessoas se abrigou nos restos arruinados dos antigos.
-  Outros, como minha tribo, tentam forjar uma existência simples na região selvagem áspera. Verdade seja dita, poderiam ser séculos antes mesmo de se recuperar.}
-{229}{}{Não pode ser tão ruim quanto parece. [Ela não soa como se ela estivesse convencida de uma palavra do que ela acabou de dizer.]}
-{230}{}{Não é nada como a América em 2077, isso é certo.}
-{231}{}{[Ela puxa um par de calças.] Então, o que fazer agora?}
-{232}{}{Nunca nos apresentamos adequadamente. Meu nome é}
-{233}{}{. Qual é o seu?}
-{234}{}{Você pode me chamar de Kitsune.}
-{235}{}{Kitsune, o que você estava fazendo congelada naquele tanque?}
-{236}{}{Eu não sei com certeza. Eles sabiam que a Guerra estava prestes a acontecer, então eles me colocaram em um preservador como os outros.}
-{237}{}{Você tem alguma ideia de que lugar é esse?}
-{238}{}{Pelo que eu sei, é um ramo da Agência de Proteção Ambiental dos Estados Unidos. Eu estava no Arizona quando o
-  A guerra aconteceu. Fui levada aqui imediatamente.}
-{239}{}{Você deve ter sido muito importante para eles querer preservar você. Você era um escolhido, como eu?}
-{240}{}{Uh, não exatamente. Eu era uma dona de casa, casada com um vereador. Antes escrevi para várias publicações de notícias diferentes. Não era o que você chamaria de vida terrivelmente excitante.}
+{227}{}{EntÃ£o, se vocÃª nÃ£o tivesse vindo, eu estaria presa nessa coisa ainda mais. Talvez para sempre.
+Â  (Ela puxa uma das camisolas que vocÃª a envolveu sobre sua cabeÃ§a.) Como Ã© agora, o mundo lÃ¡ fora?
+Â  VocÃª disse que 90% foram destruÃ­dos?}
+{228}{}{Meu mundo Ã© uma terra desolada onde todos os dias Ã© uma luta pela sobrevivÃªncia. A maioria das pessoas se abrigou nos restos arruinados dos antigos.
+Â  Outros, como minha tribo, tentam forjar uma existÃªncia simples na regiÃ£o selvagem Ã¡spera. Verdade seja dita, poderiam ser sÃ©culos antes mesmo de se recuperar.}
+{229}{}{NÃ£o pode ser tÃ£o ruim quanto parece. [Ela nÃ£o soa como se ela estivesse convencida de uma palavra do que ela acabou de dizer.]}
+{230}{}{NÃ£o Ã© nada como a AmÃ©rica em 2077, isso Ã© certo.}
+{231}{}{[Ela puxa um par de calÃ§as.] EntÃ£o, o que fazer agora?}
+{232}{}{Nunca nos apresentamos adequadamente. Meu nome Ã©}
+{233}{}{. Qual Ã© o seu?}
+{234}{}{VocÃª pode me chamar de Kitsune.}
+{235}{}{Kitsune, o que vocÃª estava fazendo congelada naquele tanque?}
+{236}{}{Eu nÃ£o sei com certeza. Eles sabiam que a Guerra estava prestes a acontecer, entÃ£o eles me colocaram em um preservador como os outros.}
+{237}{}{VocÃª tem alguma ideia de que lugar Ã© esse?}
+{238}{}{Pelo que eu sei, Ã© um ramo da AgÃªncia de ProteÃ§Ã£o Ambiental dos Estados Unidos. Eu estava no Arizona quando o
+Â  A guerra aconteceu. Fui levada aqui imediatamente.}
+{239}{}{VocÃª deve ter sido muito importante para eles querer preservar vocÃª. VocÃª era um escolhido, como eu?}
+{240}{}{Uh, nÃ£o exatamente. Eu era uma dona de casa, casada com um vereador. Antes escrevi para vÃ¡rias publicaÃ§Ãµes de notÃ­cias diferentes. NÃ£o era o que vocÃª chamaria de vida terrivelmente excitante.}
 {241}{}{O que aconteceu com ele, o seu marido?}
-{242}{}{Eu não sei. Provavelmente um dos bilhões de vítimas. Eu duvido que minha família tenha passado pela guerra. Meu Deus, mesmo que o fizessem, faz tanto tempo ... todo mundo que já conheci está morto. [Ela morde o lábio e seus olhos começam a brilhar com lágrimas, mas rapidamente as limpa e suspira, controlando-se.]}
-{245}{}{Bem, já que você está me dando uma escolha... (sorriso)}
-{246}{}{[Ela olha para você sem palavras.]}
-{247}{}{Oh, quero dizer, claro, eu vou ajudá-la. [Você a ajuda nos seus pés.]}
-{250}{}{O que você vai fazer agora?}
-{251}{}{Eu não sei. O que você faz quando você está hibernando há mais de um século? Mesmo os ursos não dormem tanto.
-  O mundo lá fora não é o mundo que conheci. Não sei se posso aguentar ver no que está transformado.}
-{252}{}{Eu sei que é um terreno baldio lá fora, mas você ainda tem uma vida inteira para viver. 
-Você está desperdiçando-a aqui. Venha comigo e talvez possamos fazer algo.}
-{253}{}{Não parece que você tenha muita escolha. Você pode se sentar aqui e apodrecer, ou você poderia vir comigo. Você decide.}
-{260}{}{Você sabe que está certo. Eu poderia voltar a ficar congelada e dormir por mais cem anos, mas isso
-  seria a saída barata. Preciso ver por mim mesmo o que o mundo se tornou, e desempenhar um papel em colocar isso de volta.}
-{261}{}{Venha, então. Vamos pegar um bife brahmin como primeira coisa.}
-{262}{}{Não me faça arrepender disso.}
-{270}{}{Esqueça. Foi assim por mais de cem anos. O que faz você pensar que vamos consertá-lo agora?}
-{271}{}{Eu voltarei. Talvez você mude de ideia.}
-{272}{}{Talvez. Mas não conte com isso acontecendo. Eu deveria voltar a dormir por mais um século ou mais.}
-{280}{}{E se essas máquinas pararam de funcionar? Você estaria morta e você nunca saberia
-  se o mundo que explodiu voltou e se juntou.}
-{281}{}{Então eu vou ver o que acontece a partir de onde eu estou.}
-{282}{}{Como você sabe com certeza que você será levada em algum lugar especial depois de dormir o sono grande? Eu venho de uma
-  tribo que acredita na vida após a morte e profecias, mas, de um ponto de vista pragmático, somos apenas um monte de orgânicas
-  máquinas que pensam, falam e sentem por causa da carne e componentes químicos. E se não houver nada depois de morrer - nós
-  desligar como computadores - e isso é tudo o que você tem?}
-{283}{}{Eu preferiria tomar minhas chances em suspensão criogênica do que vagar na terra desolada.}
-{284}{}{Oh sim? Você não parece mais com certeza.}
-{285}{}{[Kitsune reflete suas palavras durante um bom tempo. Finalmente, ela alinha seus olhos com os seus.] Não posso fingir que não tem um ponto. Talvez ... talvez eu tire minhas chances com você.}
-{286}{}{Vamos sair daqui, então. É hora de deixar este depósito atrás.}
-{287}{}{Na verdade, acho que vou atacar sozinha. Eu sempre fui o tipo independente, então não deveria ser nenhuma pele das minhas costas. Muito mudou desde que estive fora e gostaria de ver por mim mesma. Obrigado por me despertar. Cuide-se.}
+{242}{}{Eu nÃ£o sei. Provavelmente um dos bilhÃµes de vÃ­timas. Eu duvido que minha famÃ­lia tenha passado pela guerra. Meu Deus, mesmo que o fizessem, faz tanto tempo ... todo mundo que jÃ¡ conheci estÃ¡ morto. [Ela morde o lÃ¡bio e seus olhos comeÃ§am a brilhar com lÃ¡grimas, mas rapidamente as limpa e suspira, controlando-se.]}
+{245}{}{Bem, jÃ¡ que vocÃª estÃ¡ me dando uma escolha... (sorriso)}
+{246}{}{[Ela olha para vocÃª sem palavras.]}
+{247}{}{Oh, quero dizer, claro, eu vou ajudÃ¡-la. [VocÃª a ajuda nos seus pÃ©s.]}
+{250}{}{O que vocÃª vai fazer agora?}
+{251}{}{Eu nÃ£o sei. O que vocÃª faz quando vocÃª estÃ¡ hibernando hÃ¡ mais de um sÃ©culo? Mesmo os ursos nÃ£o dormem tanto.
+Â  O mundo lÃ¡ fora nÃ£o Ã© o mundo que conheci. NÃ£o sei se posso aguentar ver no que estÃ¡ transformado.}
+{252}{}{Eu sei que Ã© um terreno baldio lÃ¡ fora, mas vocÃª ainda tem uma vida inteira para viver. 
+VocÃª estÃ¡ desperdiÃ§ando-a aqui. Venha comigo e talvez possamos fazer algo.}
+{253}{}{NÃ£o parece que vocÃª tenha muita escolha. VocÃª pode se sentar aqui e apodrecer, ou vocÃª poderia vir comigo. VocÃª decide.}
+{260}{}{VocÃª sabe que estÃ¡ certo. Eu poderia voltar a ficar congelada e dormir por mais cem anos, mas isso
+Â  seria a saÃ­da barata. Preciso ver por mim mesmo o que o mundo se tornou, e desempenhar um papel em colocar isso de volta.}
+{261}{}{Venha, entÃ£o. Vamos pegar um bife brahmin como primeira coisa.}
+{262}{}{NÃ£o me faÃ§a arrepender disso.}
+{270}{}{EsqueÃ§a. Foi assim por mais de cem anos. O que faz vocÃª pensar que vamos consertÃ¡-lo agora?}
+{271}{}{Eu voltarei. Talvez vocÃª mude de ideia.}
+{272}{}{Talvez. Mas nÃ£o conte com isso acontecendo. Eu deveria voltar a dormir por mais um sÃ©culo ou mais.}
+{280}{}{E se essas mÃ¡quinas pararam de funcionar? VocÃª estaria morta e vocÃª nunca saberia
+Â  se o mundo que explodiu voltou e se juntou.}
+{281}{}{EntÃ£o eu vou ver o que acontece a partir de onde eu estou.}
+{282}{}{Como vocÃª sabe com certeza que vocÃª serÃ¡ levada em algum lugar especial depois de dormir o sono grande? Eu venho de uma
+Â  tribo que acredita na vida apÃ³s a morte e profecias, mas, de um ponto de vista pragmÃ¡tico, somos apenas um monte de orgÃ¢nicas
+Â  mÃ¡quinas que pensam, falam e sentem por causa da carne e componentes quÃ­micos. E se nÃ£o houver nada depois de morrer - nÃ³s
+Â  desligar como computadores - e isso Ã© tudo o que vocÃª tem?}
+{283}{}{Eu preferiria tomar minhas chances em suspensÃ£o criogÃªnica do que vagar na terra desolada.}
+{284}{}{Oh sim? VocÃª nÃ£o parece mais com certeza.}
+{285}{}{[Kitsune reflete suas palavras durante um bom tempo. Finalmente, ela alinha seus olhos com os seus.] NÃ£o posso fingir que nÃ£o tem um ponto. Talvez ... talvez eu tire minhas chances com vocÃª.}
+{286}{}{Vamos sair daqui, entÃ£o. Ã‰ hora de deixar este depÃ³sito atrÃ¡s.}
+{287}{}{Na verdade, acho que vou atacar sozinha. Eu sempre fui o tipo independente, entÃ£o nÃ£o deveria ser nenhuma pele das minhas costas. Muito mudou desde que estive fora e gostaria de ver por mim mesma. Obrigado por me despertar. Cuide-se.}
 {288}{}{[Feito]}
 {300}{}{Sim?}
 {301}{}{Sou todo ouvidos.}
-{302}{}{Algo que você queria?}
-{303}{}{O que é? Você parece que tem algo a dizer.}
-{304}{}{Qual é o problema?}
-{305}{}{Há algo que você precisa de mim?}
-{310}{}{Kitsune, tenho certeza de que você não estaria congelada em um tanque criogenico sem nenhum motivo.
-  Estou interessado em saber o que exatamente você fez antes de ser colocada no gelo.}
-{311}{}{O que isso importa? É no passado.}
-{312}{}{Estamos na estrada juntos. Eu quero saber mais sobre você.}
-{313}{}{[Suspiros.] Bem, suponho que já não há necessidade de segredo. É difícil quebrar um hábito vitalício. Você vê, eu basicamente nasci um espião.}
-{314}{}{Meu pai era chinês, mas ele e sua família não eram amigos do governo chinês. Ele nasceu em Pequim, mas obteve o aspecto mais importante de sua educação aqui, nos Estados Unidos. Quando ele voltou para casa e conseguiu um emprego como funcionário público, ele já havia sido recrutado pelos americanos como agente de inteligência.}
-{315}{}{Eu não estou muito familiarizado com a política do seu tempo, mas acho que sigo o que você está dizendo: seu pai era chinês, mas ele era secretamente um espião para os americanos. Assim como os chineses já o suspeitavam?}
-{316}{}{Meu pai trabalhou no Ministério da Agricultura, por trinta e oito anos.}
-{317}{}{Ok, tudo bem, acho que é um "não". Então, quando você entrou na foto?}
-{318}{}{Bem, um dia, um assessor do funcionário para que meu pai estava trabalhando o pegou fazendo cópias de documentos secretos.}
-{319}{}{Isso não poderia ter sido bom ...}
-{320}{}{Na verdade, não acabou tão mal. Você vê, ela pensou nas mesmas linhas que meu pai, e dentro de alguns meses, eles eram casados.}
-{321}{}{Alguns caras têm toda a sorte, hein?}
+{302}{}{Algo que vocÃª queria?}
+{303}{}{O que Ã©? VocÃª parece que tem algo a dizer.}
+{304}{}{Qual Ã© o problema?}
+{305}{}{HÃ¡ algo que vocÃª precisa de mim?}
+{310}{}{Kitsune, tenho certeza de que vocÃª nÃ£o estaria congelada em um tanque criogenico sem nenhum motivo.
+Â  Estou interessado em saber o que exatamente vocÃª fez antes de ser colocada no gelo.}
+{311}{}{O que isso importa? Ã‰ no passado.}
+{312}{}{Estamos na estrada juntos. Eu quero saber mais sobre vocÃª.}
+{313}{}{[Suspiros.] Bem, suponho que jÃ¡ nÃ£o hÃ¡ necessidade de segredo. Ã‰ difÃ­cil quebrar um hÃ¡bito vitalÃ­cio. VocÃª vÃª, eu basicamente nasci um espiÃ£o.}
+{314}{}{Meu pai era chinÃªs, mas ele e sua famÃ­lia nÃ£o eram amigos do governo chinÃªs. Ele nasceu em Pequim, mas obteve o aspecto mais importante de sua educaÃ§Ã£o aqui, nos Estados Unidos. Quando ele voltou para casa e conseguiu um emprego como funcionÃ¡rio pÃºblico, ele jÃ¡ havia sido recrutado pelos americanos como agente de inteligÃªncia.}
+{315}{}{Eu nÃ£o estou muito familiarizado com a polÃ­tica do seu tempo, mas acho que sigo o que vocÃª estÃ¡ dizendo: seu pai era chinÃªs, mas ele era secretamente um espiÃ£o para os americanos. Assim como os chineses jÃ¡ o suspeitavam?}
+{316}{}{Meu pai trabalhou no MinistÃ©rio da Agricultura, por trinta e oito anos.}
+{317}{}{Ok, tudo bem, acho que Ã© um "nÃ£o". EntÃ£o, quando vocÃª entrou na foto?}
+{318}{}{Bem, um dia, um assessor do funcionÃ¡rio para que meu pai estava trabalhando o pegou fazendo cÃ³pias de documentos secretos.}
+{319}{}{Isso nÃ£o poderia ter sido bom ...}
+{320}{}{Na verdade, nÃ£o acabou tÃ£o mal. VocÃª vÃª, ela pensou nas mesmas linhas que meu pai, e dentro de alguns meses, eles eram casados.}
+{321}{}{Alguns caras tÃªm toda a sorte, hein?}
 {322}{}{Eles me tiveram um ano depois. Eu fui criada na China sob a fachada de uma patriota. Na escola, eu escrevi sobre a forma como a China era mais forte quando unificada e como devemos continuar a procurar a igualdade social.
-  Quando eu era mais velha, escrevi para jornais nacionalistas e participei de debates apoiando o partido no poder.}
-{323}{}{Uau, a maior parte daquilo passou pela cabeça. Mas se eu entendo corretamente, você está dizendo que você e seus pais enganaram os chineses para pensar que você era leal.}
-{324}{}{Seus pais se esforçaram para garantir que as verdadeiras lealdades de sua família ficassem seguras.}
-{325}{}{Toda a guerra é baseada em decepções. Meus pais adoraram seu país. Eles apenas odiavam as pessoas que a dirigiam e achavam que seria melhor como democracia. Do jeito que eles viram, eles não estavam traindo a China - eles estavam trabalhando contra um governo que eles não acreditavam que era bom para isso.}
+Â  Quando eu era mais velha, escrevi para jornais nacionalistas e participei de debates apoiando o partido no poder.}
+{323}{}{Uau, a maior parte daquilo passou pela cabeÃ§a. Mas se eu entendo corretamente, vocÃª estÃ¡ dizendo que vocÃª e seus pais enganaram os chineses para pensar que vocÃª era leal.}
+{324}{}{Seus pais se esforÃ§aram para garantir que as verdadeiras lealdades de sua famÃ­lia ficassem seguras.}
+{325}{}{Toda a guerra Ã© baseada em decepÃ§Ãµes. Meus pais adoraram seu paÃ­s. Eles apenas odiavam as pessoas que a dirigiam e achavam que seria melhor como democracia. Do jeito que eles viram, eles nÃ£o estavam traindo a China - eles estavam trabalhando contra um governo que eles nÃ£o acreditavam que era bom para isso.}
 {326}{}{Continue.}
-{327}{}{Eu me casei com um funcionário que trabalhou para o Ministério da Defesa Nacional da China. Eu o escolhi porque ele estava mais disposto a falar sobre seu trabalho quando estávamos juntos. Então eu desempenhava o papel de esposa obediente, enquanto secretamente relatava informações relevantes de volta aos meus superiores americanos. Mas então, as coisas ficaram complicadas.}
+{327}{}{Eu me casei com um funcionÃ¡rio que trabalhou para o MinistÃ©rio da Defesa Nacional da China. Eu o escolhi porque ele estava mais disposto a falar sobre seu trabalho quando estÃ¡vamos juntos. EntÃ£o eu desempenhava o papel de esposa obediente, enquanto secretamente relatava informaÃ§Ãµes relevantes de volta aos meus superiores americanos. Mas entÃ£o, as coisas ficaram complicadas.}
 {328}{}{Como assim?}
-{329}{}{Meu pai foi contactado pelo Dr. Raynard Muldrake, um colega antigo com quem ele trabalhou durante um tempo nos Estados Unidos. O Dr. Muldrake solicitou urgentemente uma reunião privada, mas meu pai estava com pouca saúde na época e não estava em condições de viajar para a América. O Dr. Muldrake concordou em me encontrar em seu lugar.}
-{330}{}{Então, o que aconteceu?}
-{331}{}{Descobriu-se que Muldrake fazia parte de um projeto de alto nível secreto em uma instalação de pesquisa West Tek no sul da Califórnia. O projeto começou de forma inocente, como uma tentativa de encontrar uma maneira de tornar as pessoas imunes à Nova Peste, mas rapidamente evoluiu para algo mais sinistro. Algo chamado Vírus Evolutivo Forçado, ou VEF.}
+{329}{}{Meu pai foi contactado pelo Dr. Raynard Muldrake, um colega antigo com quem ele trabalhou durante um tempo nos Estados Unidos. O Dr. Muldrake solicitou urgentemente uma reuniÃ£o privada, mas meu pai estava com pouca saÃºde na Ã©poca e nÃ£o estava em condiÃ§Ãµes de viajar para a AmÃ©rica. O Dr. Muldrake concordou em me encontrar em seu lugar.}
+{330}{}{EntÃ£o, o que aconteceu?}
+{331}{}{Descobriu-se que Muldrake fazia parte de um projeto de alto nÃ­vel secreto em uma instalaÃ§Ã£o de pesquisa West Tek no sul da CalifÃ³rnia. O projeto comeÃ§ou de forma inocente, como uma tentativa de encontrar uma maneira de tornar as pessoas imunes Ã  Nova Peste, mas rapidamente evoluiu para algo mais sinistro. Algo chamado VÃ­rus Evolutivo ForÃ§ado, ou VEF.}
 {332}{}{Continue.}
-{333}{}{Tinha o potencial de melhorar a força e o intelecto de uma pessoa, mas o VEF era perigosamente instável. Apesar disso, os militares esperavam usá-lo para criar um exército de super-soldados que poderia esmagar os chineses.}
-{334}{}{O Dr. Muldrake estava contra a mudança na direção do projeto, mas manteve sua boca fechada com medo por sua vida. Mas quando soube que os militares estavam testando o vírus em cidades americanas pouco inocentes, ele sabia que tinha que agir. O mundo precisava saber a verdade.}
-{335}{}{Foi então que ele entrou em contato com o seu pai...}
-{336}{}{Certo. Quando o conheci, ele me deu um holodisco contendo documentação classificada do projeto FEV. Isso me colocou em uma posição bastante difícil: eu poderia liberar a informação contida no holodisco e trair o país com o qual jurava minha lealdade, ou eu poderia destruir o disco e enterrar a feia verdade das pessoas.}
-{337}{}{Puta merda. Não me diga que...}
-{338}{}{Enviei cópias do holodisco para quase todas as principais notícias do mundo. Muito destruído, qualquer simpatia que o governo americano ainda tivesse. Talvez tenha revelado a verdade ao mundo, mas tenho medo de pôr em movimento a sua destruição ... As coisas escalaram rapidamente e, oito meses depois, as bombas caíram.}
-{339}{}{Como você veio parar nesse tanque, onde eu encontrei você?}
-{340}{}{O governo americano estava buscando a pessoa responsável pela vazão da informação. Eles finalmente alcançaram-me logo antes do final. Eles já estavam se preparando para me congelar quando as sirenes tocaram pela primeira vez. Provavelmente para me preservar no caso de eu ter mais segredos que eu não havia contado.}
-{341}{}{Você fez?}
-{342}{}{Isso não importa agora. Todos mortos...}
-{345}{}{Você tem alguma idéia do que diabos você trouxe?}
-{346}{}{O que eu *pude* ter provocado. O mundo teria explodido mais cedo ou mais tarde, de qualquer forma. Era apenas uma questão de tempo.}
-{347}{}{Talvez você deva abster-se de compartilhar esse pequeno truque de informações com outras pessoas.}
+{333}{}{Tinha o potencial de melhorar a forÃ§a e o intelecto de uma pessoa, mas o VEF era perigosamente instÃ¡vel. Apesar disso, os militares esperavam usÃ¡-lo para criar um exÃ©rcito de super-soldados que poderia esmagar os chineses.}
+{334}{}{O Dr. Muldrake estava contra a mudanÃ§a na direÃ§Ã£o do projeto, mas manteve sua boca fechada com medo por sua vida. Mas quando soube que os militares estavam testando o vÃ­rus em cidades americanas pouco inocentes, ele sabia que tinha que agir. O mundo precisava saber a verdade.}
+{335}{}{Foi entÃ£o que ele entrou em contato com o seu pai...}
+{336}{}{Certo. Quando o conheci, ele me deu um holodisco contendo documentaÃ§Ã£o classificada do projeto FEV. Isso me colocou em uma posiÃ§Ã£o bastante difÃ­cil: eu poderia liberar a informaÃ§Ã£o contida no holodisco e trair o paÃ­s com o qual jurava minha lealdade, ou eu poderia destruir o disco e enterrar a feia verdade das pessoas.}
+{337}{}{Puta merda. NÃ£o me diga que...}
+{338}{}{Enviei cÃ³pias do holodisco para quase todas as principais notÃ­cias do mundo. Muito destruÃ­do, qualquer simpatia que o governo americano ainda tivesse. Talvez tenha revelado a verdade ao mundo, mas tenho medo de pÃ´r em movimento a sua destruiÃ§Ã£o ... As coisas escalaram rapidamente e, oito meses depois, as bombas caÃ­ram.}
+{339}{}{Como vocÃª veio parar nesse tanque, onde eu encontrei vocÃª?}
+{340}{}{O governo americano estava buscando a pessoa responsÃ¡vel pela vazÃ£o da informaÃ§Ã£o. Eles finalmente alcanÃ§aram-me logo antes do final. Eles jÃ¡ estavam se preparando para me congelar quando as sirenes tocaram pela primeira vez. Provavelmente para me preservar no caso de eu ter mais segredos que eu nÃ£o havia contado.}
+{341}{}{VocÃª fez?}
+{342}{}{Isso nÃ£o importa agora. Todos mortos...}
+{345}{}{VocÃª tem alguma idÃ©ia do que diabos vocÃª trouxe?}
+{346}{}{O que eu *pude* ter provocado. O mundo teria explodido mais cedo ou mais tarde, de qualquer forma. Era apenas uma questÃ£o de tempo.}
+{347}{}{Talvez vocÃª deva abster-se de compartilhar esse pequeno truque de informaÃ§Ãµes com outras pessoas.}
 {348}{}{Eu fico a deriva.}
-{350}{}{Eu sei que você deve estar pensando, mas você não pode culpar a si mesma por algo parecido.}
-{351}{}{É sempre mais fácil não aceitar a responsabilidade.}
-{352}{}{Você não poderia ter sabido. Além disso, houve outros conflitos entre os "poderes". Eles se explodiram
-  até mais cedo ou mais tarde. Era apenas uma questão de tempo.}
-{353}{}{Os seres humanos são as piores coisas.}
-{354}{}{Eu não me considero tão ruim.}
-{355}{}{A natureza tem tentado nos destruir por milênios. Todas estas novas doenças, desastres naturais. Nós fomos algum tipo
-  de erro evolutivo. Talvez chegássemos muito cedo ou não estivéssemos supostamente presentes. Nós fizemos mais danos
-  para este planeta do que qualquer coisa viva ou morta.}
-{356}{}{Mas podemos expiar. Essa é a coisa especial sobre nós.}
-{357}{}{Você tem uma maneira maravilhosa de colocá-lo. Obrigado por me ouvir. Eu quase sinto que posso seguir em frente.}
-{360}{}{Digamos que, como você era um espião, tenho certeza de que você é bastante habilidosa com cautela e tudo isso. Qualquer coisa que você possa me ensinar?}
-{361}{}{Sim, tive um pouco de prática com furtos, trancas e roubos. Aqui, deixe-me mostrar algumas coisas
-  Eles não te ensinam nos livros.}
-{362}{}{Você conseguiu agora. Lembre-se, a prática torna perfeita.}
-{363}{}{Ei, obrigado. Penso que é hora de nos dirigirmos. }
+{350}{}{Eu sei que vocÃª deve estar pensando, mas vocÃª nÃ£o pode culpar a si mesma por algo parecido.}
+{351}{}{Ã‰ sempre mais fÃ¡cil nÃ£o aceitar a responsabilidade.}
+{352}{}{VocÃª nÃ£o poderia ter sabido. AlÃ©m disso, houve outros conflitos entre os "poderes". Eles se explodiram
+Â  atÃ© mais cedo ou mais tarde. Era apenas uma questÃ£o de tempo.}
+{353}{}{Os seres humanos sÃ£o as piores coisas.}
+{354}{}{Eu nÃ£o me considero tÃ£o ruim.}
+{355}{}{A natureza tem tentado nos destruir por milÃªnios. Todas estas novas doenÃ§as, desastres naturais. NÃ³s fomos algum tipo
+Â  de erro evolutivo. Talvez chegÃ¡ssemos muito cedo ou nÃ£o estivÃ©ssemos supostamente presentes. NÃ³s fizemos mais danos
+Â  para este planeta do que qualquer coisa viva ou morta.}
+{356}{}{Mas podemos expiar. Essa Ã© a coisa especial sobre nÃ³s.}
+{357}{}{VocÃª tem uma maneira maravilhosa de colocÃ¡-lo. Obrigado por me ouvir. Eu quase sinto que posso seguir em frente.}
+{360}{}{Digamos que, como vocÃª era um espiÃ£o, tenho certeza de que vocÃª Ã© bastante habilidosa com cautela e tudo isso. Qualquer coisa que vocÃª possa me ensinar?}
+{361}{}{Sim, tive um pouco de prÃ¡tica com furtos, trancas e roubos. Aqui, deixe-me mostrar algumas coisas
+Â  Eles nÃ£o te ensinam nos livros.}
+{362}{}{VocÃª conseguiu agora. Lembre-se, a prÃ¡tica torna perfeita.}
+{363}{}{Ei, obrigado. Penso que Ã© hora de nos dirigirmos. }
 {370}{}{Sobre seus olhos...}
 {371}{}{O que acontece com eles?}
-{372}{}{Eles são de cores diferentes.}
-{373}{}{Qual é o termo para isso ... heterochromia? É isso o que você tem?}
-{374}{}{O meu não é uma condição natural. O do lado esquerdo não me pertencia. Perdi o velho em um acidente.
-  E nunca aprendi a apreciar isso até agora.}
-{375}{}{O que você quer dizer?}
+{372}{}{Eles sÃ£o de cores diferentes.}
+{373}{}{Qual Ã© o termo para isso ... heterochromia? Ã‰ isso o que vocÃª tem?}
+{374}{}{O meu nÃ£o Ã© uma condiÃ§Ã£o natural. O do lado esquerdo nÃ£o me pertencia. Perdi o velho em um acidente.
+Â  E nunca aprendi a apreciar isso atÃ© agora.}
+{375}{}{O que vocÃª quer dizer?}
 {376}{}{Desde o transplante sempre senti como se estivesse vendo o passado em um olho e o presente no outro.
-  Mais do que nunca agora. E isso me ajuda a continuar.}
-{377}{}{Todos nós temos nossas maneiras de lidar com a situação.}
-{410}{}{O que você precisa saber?}
-{411}{}{Tenho uma faixa preta em sanshou. Posso esfaquear um homem até a morte se a situação o exigir. Pistolas, rifles e coisas semelhantes, eu sou decente.}
-{420}{}{Precisamos falar a distância entre nós.}
-{421}{}{O que há de errado com isso?}
+Â  Mais do que nunca agora. E isso me ajuda a continuar.}
+{377}{}{Todos nÃ³s temos nossas maneiras de lidar com a situaÃ§Ã£o.}
+{410}{}{O que vocÃª precisa saber?}
+{411}{}{Tenho uma faixa preta em sanshou. Posso esfaquear um homem atÃ© a morte se a situaÃ§Ã£o o exigir. Pistolas, rifles e coisas semelhantes, eu sou decente.}
+{420}{}{Precisamos falar a distÃ¢ncia entre nÃ³s.}
+{421}{}{O que hÃ¡ de errado com isso?}
 {422}{}{Ficar perto de mim.}
 {423}{}{Bem. Eu tenho suas costas.}
-{424}{}{Não fique muito longe.}
-{425}{}{Você precisa do seu espaço, tem isso.}
+{424}{}{NÃ£o fique muito longe.}
+{425}{}{VocÃª precisa do seu espaÃ§o, tem isso.}
 {426}{}{Vamos espalhar.}
-{427}{}{OK. Nós somos alvos mais difíceis separados.}
-{430}{}{Não demore muito, ou eu vou embora sem você.}
-{431}{}{Eu vou jogar paciência ou algo até você voltar.}
-{432}{}{Eu tenho certeza que vou encontrar algo para fazer enquanto você está ausente.}
-{440}{}{Sempre que você precisar de mim.}
-{441}{}{Feliz, você está de volta. Eu realizava audições, mas não consegui encontrar um bom substituto para você.}
+{427}{}{OK. NÃ³s somos alvos mais difÃ­ceis separados.}
+{430}{}{NÃ£o demore muito, ou eu vou embora sem vocÃª.}
+{431}{}{Eu vou jogar paciÃªncia ou algo atÃ© vocÃª voltar.}
+{432}{}{Eu tenho certeza que vou encontrar algo para fazer enquanto vocÃª estÃ¡ ausente.}
+{440}{}{Sempre que vocÃª precisar de mim.}
+{441}{}{Feliz, vocÃª estÃ¡ de volta. Eu realizava audiÃ§Ãµes, mas nÃ£o consegui encontrar um bom substituto para vocÃª.}
 {442}{}{Saudades da minha companhia?}
 {443}{}{Sentindo-se culpado de sair sem mim?}
-{444}{}{Eu estava começando a pensar que você não estava planejando voltar.}
+{444}{}{Eu estava comeÃ§ando a pensar que vocÃª nÃ£o estava planejando voltar.}
 {445}{}{Estava na hora. Na China antiga, o atraso o levaria enforcado, esticado e esquartejado.}
-{446}{}{Olá. Eu estava apenas pensando em você.}
-{450}{}{Você certamente fez o seu tempo fazendo o que quer que você fizesse sem mim.}
+{446}{}{OlÃ¡. Eu estava apenas pensando em vocÃª.}
+{450}{}{VocÃª certamente fez o seu tempo fazendo o que quer que vocÃª fizesse sem mim.}
 {451}{}{Bom estar na estrada novamente.}
 {452}{}{Para onde?}
-{453}{}{Então, para onde estamos indo?}
-{454}{}{Conclua o caminho, capitão.}
-{460}{}{Você já tem pessoas suficientes. Você não precisa de uma comitiva.}
-{461}{}{Talvez quando você libertou algum espaço. Eu não corro bem com as multidões.}
-{462}{}{Você está pronto para me levar com você?}
-{463}{}{Vamos lá.}
-{464}{}{Não, ainda não.}
-{470}{}{Jesus, você se parece com o Grim Reaper. Você deve se verificar.}
-{480}{}{Sem problemas. Eu estou mais leve nos meus pés sem isso.}
+{453}{}{EntÃ£o, para onde estamos indo?}
+{454}{}{Conclua o caminho, capitÃ£o.}
+{460}{}{VocÃª jÃ¡ tem pessoas suficientes. VocÃª nÃ£o precisa de uma comitiva.}
+{461}{}{Talvez quando vocÃª libertou algum espaÃ§o. Eu nÃ£o corro bem com as multidÃµes.}
+{462}{}{VocÃª estÃ¡ pronto para me levar com vocÃª?}
+{463}{}{Vamos lÃ¡.}
+{464}{}{NÃ£o, ainda nÃ£o.}
+{470}{}{Jesus, vocÃª se parece com o Grim Reaper. VocÃª deve se verificar.}
+{480}{}{Sem problemas. Eu estou mais leve nos meus pÃ©s sem isso.}
 {490}{}{Nunca foi melhor. Vamos seguir em frente.}
-{491}{}{Eu estive pior. Apenas alguns arranhões.}
-{492}{}{Eu não estou tão mal. Apenas algumas feridas de carne.}
-{493}{}{Não estou tão feliz. Mais sangue do que eu quero saindo de mim.}
-{494}{}{Preciso de um médico ou não poderei ajudá-lo com uma maldita coisa.}
-{495}{}{Não posso continuar mais ... deixe-me para trás ou me leve ao médico. Rápido.}
-{500}{}{Se você insiste. Ainda posso tirar a cabeça de um homem com as mãos.}
-{1000}{}{Eu não posso acreditar que passei mais de uma centena de anos neste local.}
-{1010}{}{Não é o meu tipo de lugar para nascer, sem ofensa.}
-{1020}{}{Isso parece um túmulo de sepultura do imperador do século 15.}
+{491}{}{Eu estive pior. Apenas alguns arranhÃµes.}
+{492}{}{Eu nÃ£o estou tÃ£o mal. Apenas algumas feridas de carne.}
+{493}{}{NÃ£o estou tÃ£o feliz. Mais sangue do que eu quero saindo de mim.}
+{494}{}{Preciso de um mÃ©dico ou nÃ£o poderei ajudÃ¡-lo com uma maldita coisa.}
+{495}{}{NÃ£o posso continuar mais ... deixe-me para trÃ¡s ou me leve ao mÃ©dico. RÃ¡pido.}
+{500}{}{Se vocÃª insiste. Ainda posso tirar a cabeÃ§a de um homem com as mÃ£os.}
+{1000}{}{Eu nÃ£o posso acreditar que passei mais de uma centena de anos neste local.}
+{1010}{}{NÃ£o Ã© o meu tipo de lugar para nascer, sem ofensa.}
+{1020}{}{Isso parece um tÃºmulo de sepultura do imperador do sÃ©culo 15.}
 {1030}{}{Este lugar cheira como esterco de gado por toda parte.}
-{1040}{}{Eu não acho que seria sábio entrar neste lugar sem o calçado adequado.}
-{1050}{}{Eu vi lugares piores, acredite em mim. Não que eu goste muito disso.}
-{1060}{}{Rústico. Eu gosto disso.}
-{1070}{}{Este lugar parece ter saído de um filme de rapé.}
-{1080}{}{Posso provar a radiação no ar.}
-{1090}{}{O que é isto deveria ser, um campo de trabalho?}
-{1100}{}{Os que estão dentro têm muito melhor do que os que estão lá fora. O mundo não mudou tanto.}
-{1110}{}{Que tipo de cidade de mineração você chama isso?}
-{1120}{}{Não é o meu tipo de lugar para nascer, sem ofensa.}
-{1130}{}{Bom lugar para se esconder, se a lei está em sua cauda.}
-{1140}{}{Eu me pergunto se não há mais bunkers como este ao redor.}
+{1040}{}{Eu nÃ£o acho que seria sÃ¡bio entrar neste lugar sem o calÃ§ado adequado.}
+{1050}{}{Eu vi lugares piores, acredite em mim. NÃ£o que eu goste muito disso.}
+{1060}{}{RÃºstico. Eu gosto disso.}
+{1070}{}{Este lugar parece ter saÃ­do de um filme de rapÃ©.}
+{1080}{}{Posso provar a radiaÃ§Ã£o no ar.}
+{1090}{}{O que Ã© isto deveria ser, um campo de trabalho?}
+{1100}{}{Os que estÃ£o dentro tÃªm muito melhor do que os que estÃ£o lÃ¡ fora. O mundo nÃ£o mudou tanto.}
+{1110}{}{Que tipo de cidade de mineraÃ§Ã£o vocÃª chama isso?}
+{1120}{}{NÃ£o Ã© o meu tipo de lugar para nascer, sem ofensa.}
+{1130}{}{Bom lugar para se esconder, se a lei estÃ¡ em sua cauda.}
+{1140}{}{Eu me pergunto se nÃ£o hÃ¡ mais bunkers como este ao redor.}
 {1150}{}{Maior Cidade Pequena do Mundo. Aposto.}
-{1160}{}{Eles não podem manter apenas o gado aqui...}
+{1160}{}{Eles nÃ£o podem manter apenas o gado aqui...}
 {1170}{}{Morte por toda parte ...}
-{1171}{}{Eu não quero ser enterrada aqui.}
-{1180}{}{Nós apenas avançamos para a natureza e continuamos evoluindo, não? }
-{1190}{}{Eu não vi os edifícios tão altos desde que os 101 começaram.}
-{1200}{}{Eles certamente bloquearam esse lugar com força.}
+{1171}{}{Eu nÃ£o quero ser enterrada aqui.}
+{1180}{}{NÃ³s apenas avanÃ§amos para a natureza e continuamos evoluindo, nÃ£o? }
+{1190}{}{Eu nÃ£o vi os edifÃ­cios tÃ£o altos desde que os 101 comeÃ§aram.}
+{1200}{}{Eles certamente bloquearam esse lugar com forÃ§a.}
 {1210}{}{Eu ouvi sobre esses lugares...}
-{1220}{}{Sinto-me agradável de caminhar em uma cidade que parece ter tudo junto.}
+{1220}{}{Sinto-me agradÃ¡vel de caminhar em uma cidade que parece ter tudo junto.}
 {1230}{}{Eu ouvi sobre esses lugares...}
-{1240}{}{O único lugar santo nestes resíduos impuros.}
-{1250}{}{Está quente aqui.}
+{1240}{}{O Ãºnico lugar santo nestes resÃ­duos impuros.}
+{1250}{}{EstÃ¡ quente aqui.}
 {1251}{}{Eu estou suando balas.}
 {1252}{}{Estou sedenta.}
 {1253}{}{Gostaria mais se fosse uma praia.}
-{1254}{}{Sulik, você sabe alguma coisa sobre danças de chuva?}
-{1260}{}{Isso é tão longe da civilização quanto possível.}
-{1270}{}{Eu duvido que a água seja potável, mesmo que você tenha filtrado todo o sal.}
-{1271}{}{Qualquer peixe que encontramos nessas águas é obrigado a ser mutantes de algum tipo.}
+{1254}{}{Sulik, vocÃª sabe alguma coisa sobre danÃ§as de chuva?}
+{1260}{}{Isso Ã© tÃ£o longe da civilizaÃ§Ã£o quanto possÃ­vel.}
+{1270}{}{Eu duvido que a Ã¡gua seja potÃ¡vel, mesmo que vocÃª tenha filtrado todo o sal.}
+{1271}{}{Qualquer peixe que encontramos nessas Ã¡guas Ã© obrigado a ser mutantes de algum tipo.}
 {1272}{}{Faz frio aqui fora.}
-{1273}{}{Centenas de dólares para qualquer um que se atreva a mergulhar pelado nessas águas.}
-{1280}{}{Eu não posso ver nada aqui.}
-{1281}{}{Este lugar cheira mal e se eu pudesse vê-lo melhor, ele provavelmente vai parecer ainda pior.}
-{1282}{}{Cuidado. Provavelmente há algo feio e fedorento trancado aqui.}
-{1283}{}{São aqueles morcegos que ouço?}
+{1273}{}{Centenas de dÃ³lares para qualquer um que se atreva a mergulhar pelado nessas Ã¡guas.}
+{1280}{}{Eu nÃ£o posso ver nada aqui.}
+{1281}{}{Este lugar cheira mal e se eu pudesse vÃª-lo melhor, ele provavelmente vai parecer ainda pior.}
+{1282}{}{Cuidado. Provavelmente hÃ¡ algo feio e fedorento trancado aqui.}
+{1283}{}{SÃ£o aqueles morcegos que ouÃ§o?}
 {1284}{}{O que vamos fazer, spelunk?}
-{1285}{}{Melhor acender uma vela do que amaldiçoar a escuridão.}
+{1285}{}{Melhor acender uma vela do que amaldiÃ§oar a escuridÃ£o.}
 {1290}{}{Guerra ... um monte de bem que nos fez.}
-{1291}{}{Do pó ao pó...}
+{1291}{}{Do pÃ³ ao pÃ³...}
 {1292}{}{Eu costumava viver num lugar como este...}
 {2001}{}{Meus olhos te incomodam tanto?}
 {2002}{}{Eu poderia usar um mergulho em uma fonte termal. Gostaria de saber se ainda resta mais alguma delas.}
-{2003}{}{Eu mataria para encontrar alguém para jogar mahjong.}
+{2003}{}{Eu mataria para encontrar alguÃ©m para jogar mahjong.}
 {2004}{}{Todos comem e bebem. No entanto, apenas alguns apreciam o gosto.}
-{2005}{}{Este mundo é o inferno agora. Todos os treze níveis.}
-{2006}{}{Eu acredito em Deus e no Diabo. Mas eu os mantenho à distância.}
-{2007}{}{Estamos vivendo um sonho, ou somos o sonho de alguém?}
-{2008}{}{Eu odeio o que temos feito a nós mesmos.}
+{2005}{}{Este mundo Ã© o inferno agora. Todos os treze nÃ­veis.}
+{2006}{}{Eu acredito em Deus e no Diabo. Mas eu os mantenho Ã  distÃ¢ncia.}
+{2007}{}{Estamos vivendo um sonho, ou somos o sonho de alguÃ©m?}
+{2008}{}{Eu odeio o que temos feito a nÃ³s mesmos.}
 {2009}{}{Pergunto-me quanto tempo vai levar a nos recuperarmos da guerra.}
-{2010}{}{Se o céu nos fez, então, a terra vai encontrar algum uso para nós.}
-{2011}{}{Você está com sede? Eu tenho certeza que estou. }
+{2010}{}{Se o cÃ©u nos fez, entÃ£o, a terra vai encontrar algum uso para nÃ³s.}
+{2011}{}{VocÃª estÃ¡ com sede? Eu tenho certeza que estou. }
 {2012}{}{*bocejo*}
-{2013}{}{O homem propõe e Deus dispõe.}
-{2020}{}{Hey, Sulik. O que os espíritos dizem?}
-{2030}{}{Você está interessado em emagrecer, Vic? Pergunte-me a qualquer momento para lições de taebo.}
-{2040}{}{Sua esposa também fala demais com ela.}
+{2013}{}{O homem propÃµe e Deus dispÃµe.}
+{2020}{}{Hey, Sulik. O que os espÃ­ritos dizem?}
+{2030}{}{VocÃª estÃ¡ interessado em emagrecer, Vic? Pergunte-me a qualquer momento para liÃ§Ãµes de taebo.}
+{2040}{}{Sua esposa tambÃ©m fala demais com ela.}
 {2041}{}{Diga a sua esposa do hillbilly para parar de entrar em mim.}
-{2050}{}{Meu peito e seus olhos não têm negócios, Myron.}
-{2051}{}{Que tal encerrar por dois minutos, Myron? Isso mataria você?}
-{2052}{}{Não, Myron. Eu não dormiria com você se você me construísse uma máquina do tempo.}
-{2053}{}{Ouça, Myron. Você não mantém suas mãos para você, eu vou fazer você um eunuco.}
-{2060}{}{Ei, Marcus. Quero braço de ferro?}
-{2070}{}{Nós temos cachorros suficientes nos seguindo. Não precisamos de outro.}
+{2050}{}{Meu peito e seus olhos nÃ£o tÃªm negÃ³cios, Myron.}
+{2051}{}{Que tal encerrar por dois minutos, Myron? Isso mataria vocÃª?}
+{2052}{}{NÃ£o, Myron. Eu nÃ£o dormiria com vocÃª se vocÃª me construÃ­sse uma mÃ¡quina do tempo.}
+{2053}{}{OuÃ§a, Myron. VocÃª nÃ£o mantÃ©m suas mÃ£os para vocÃª, eu vou fazer vocÃª um eunuco.}
+{2060}{}{Ei, Marcus. Quero braÃ§o de ferro?}
+{2070}{}{NÃ³s temos cachorros suficientes nos seguindo. NÃ£o precisamos de outro.}
 {2100}{}{Ugh, eu me sinto como o inferno.}
 {2101}{}{Eu acredito que tenha sido envenenada...}
-{2110}{}{Algo que não se sente bem em mim...}
+{2110}{}{Algo que nÃ£o se sente bem em mim...}
 {2111}{}{Eu me sinto estranha...}
-{2112}{}{Minha mão. Está brilhante.}
-{2113}{}{Eu sou uma raposa, uma cobra... Por que a minha pele está descascando?}
-{2114}{}{Esta queimando por dentro... o Que está acontecendo comigo?}
+{2112}{}{Minha mÃ£o. EstÃ¡ brilhante.}
+{2113}{}{Eu sou uma raposa, uma cobra... Por que a minha pele estÃ¡ descascando?}
+{2114}{}{Esta queimando por dentro... o Que estÃ¡ acontecendo comigo?}
 {2120}{}{Tenho uma fratura, eu acho. Precisa dar uma olhada.}
 {2121}{}{Parece que eu quebrei algo ...}
 {2130}{}{Eu mal posso ver, porra.}
 {2131}{}{Eu odeio ser cega.}
-{2330}{}{Que tal você me dizer o seu nome? Eu sou }
+{2330}{}{Que tal vocÃª me dizer o seu nome? Eu sou }
 {3000}{}{Melhor.}
-{3001}{}{Apreciá-lo. Essas são uma dádiva de Deus.}
-{3002}{}{Eu me sinto melhor já. Obrigado.}
+{3001}{}{ApreciÃ¡-lo. Essas sÃ£o uma dÃ¡diva de Deus.}
+{3002}{}{Eu me sinto melhor jÃ¡. Obrigado.}
 {3003}{}{Obrigado. Eu precisava disso.}
-{3004}{}{Você tem o suficiente para si mesmo?}
+{3004}{}{VocÃª tem o suficiente para si mesmo?}
 {3010}{}{Coisas fortes. Bom, posso aguentar o meu licor.}
-{3011}{}{Não sei por que eu estou bebendo isso. Gosto de dreno de limpeza.}
+{3011}{}{NÃ£o sei por que eu estou bebendo isso. Gosto de dreno de limpeza.}
 {3012}{}{Nunca gostei de beber muito. Mas entorpece a dor.}
 {3013}{}{Tem mais alguma coisa para beber?}
-{3014}{}{Vamos torcer para eu não acordar em uma poça do meu próprio vômito.}
-{3015}{}{Lá se vão meus planos para ficar sóbria hoje.}
+{3014}{}{Vamos torcer para eu nÃ£o acordar em uma poÃ§a do meu prÃ³prio vÃ´mito.}
+{3015}{}{LÃ¡ se vÃ£o meus planos para ficar sÃ³bria hoje.}
 {3020}{}{Merda ... Esperemos que nunca tenhamos que enfrentar uma gangue inteira sobre eles.}
 {3030}{}{Melhor ir com calma. Este material mexe com a sua testosterona.}
-{3040}{}{Espero que isso não me torne uma idiota uma vez que desaparece.}
-{3050}{}{Os hábitos são as aranhas primeiro, os segmentos terminam.}
-{3051}{}{A espada é mais poderosa do que o céu.}
+{3040}{}{Espero que isso nÃ£o me torne uma idiota uma vez que desaparece.}
+{3050}{}{Os hÃ¡bitos sÃ£o as aranhas primeiro, os segmentos terminam.}
+{3051}{}{A espada Ã© mais poderosa do que o cÃ©u.}
 {3052}{}{Olho por dente, dente por todos.}
-{3053}{}{Uma pessoa necessita de um rosto, como uma árvore precisa de casca.}
-{3054}{}{A árvore cai quando os macacos a escalam.}
-{3055}{}{Todos os corvos no mundo são mais inteligentes do que o falcão médio.}
+{3053}{}{Uma pessoa necessita de um rosto, como uma Ã¡rvore precisa de casca.}
+{3054}{}{A Ã¡rvore cai quando os macacos a escalam.}
+{3055}{}{Todos os corvos no mundo sÃ£o mais inteligentes do que o falcÃ£o mÃ©dio.}
 {3056}{}{Um ponto de nove salva dez.}
-{3057}{}{Os filhos de um tigre não são leões.}
+{3057}{}{Os filhos de um tigre nÃ£o sÃ£o leÃµes.}
 {3058}{}{Aprender. E na aprendizagem dar errado.}
 {3059}{}{O passeio vem antes da queda.}
 {3060}{}{Luta de areia com fogo, magia com a poeira.}
 {3061}{}{Todos devemos nos preparar para a guerra de paz.}
 {3062}{}{Adicionar faixas a uma cobra, depois de terminar o desenho.}
-{3063}{}{O tigre pode se livrar de suas manchas ao ser difícil de acender.}
-{3064}{}{Não se pode recusar comer apenas porque há uma chance de crescer faminto novamente.}
+{3063}{}{O tigre pode se livrar de suas manchas ao ser difÃ­cil de acender.}
+{3064}{}{NÃ£o se pode recusar comer apenas porque hÃ¡ uma chance de crescer faminto novamente.}
 {3065}{}{Uma pintura vale uma centena de anos de dor.}
-{3066}{}{Vicioso como uma tigresa pode ser, nunca come seus próprios caranguejos.}
-{3067}{}{Os dedos de uma sereia são curtos e doces.}
+{3066}{}{Vicioso como uma tigresa pode ser, nunca come seus prÃ³prios caranguejos.}
+{3067}{}{Os dedos de uma sereia sÃ£o curtos e doces.}
 {3068}{}{Mate milhares para diminuir um.}
-{3069}{}{Mantenha seus inimigos perto, e seus amigos logo abaixo de você.}
+{3069}{}{Mantenha seus inimigos perto, e seus amigos logo abaixo de vocÃª.}
 {3070}{}{Para evadir a fraqueza mais segura, um atinge o mais forte da frente.}
-{3071}{}{Se o inimigo está bem treinado, prepare-se para o êxtase.}
+{3071}{}{Se o inimigo estÃ¡ bem treinado, prepare-se para o Ãªxtase.}
 {3072}{}{De volta ao inimigo, para que ele se prepare.}
-{3073}{}{Aquele que não sabe como lutar, mas quando, abraçará a vitória.}
-{3074}{}{Os impudentes esperam por um inimigo que não pode, e assim vencerá.}
-{3075}{}{A invisibilidade possivelmente reside na defesa do inimigo no ataque da vitória.}
+{3073}{}{Aquele que nÃ£o sabe como lutar, mas quando, abraÃ§arÃ¡ a vitÃ³ria.}
+{3074}{}{Os impudentes esperam por um inimigo que nÃ£o pode, e assim vencerÃ¡.}
+{3075}{}{A invisibilidade possivelmente reside na defesa do inimigo no ataque da vitÃ³ria.}
 {3076}{}{Conhecer a si mesmo. Conhecer o seu inimigo. Seus amigos e familiares.}
 {3077}{}{Oportunidades se multiplicam quando espirramos.}
-{3078}{}{Empalar o adversário com o seu ego.}
-{3079}{}{Finja a fraqueza. Dar coragem à ignorância do adversário.}
-{3080}{}{Estratégia tática significa uma certeza de vitória.}
-{3081}{}{Os governantes cautelosos são geralmente pecaminosos.}
-{3082}{}{Destruir em excelência suprema, e uma nação deve tremer os benefícios da guerra prolongada.}
-{3083}{}{Táticas para conquistar os homens. Estratégia para evoluir vendo.}
-{3084}{}{Há milhões de maneiras para que um gato mude sua pele.}
-{3085}{}{Você não pode espremer pedras de uma gota de sangue.}
-{3086}{}{Não há sangue mais espesso do que o da água.}
-{3087}{}{Deve haver dois sóis no céu.}
+{3078}{}{Empalar o adversÃ¡rio com o seu ego.}
+{3079}{}{Finja a fraqueza. Dar coragem Ã  ignorÃ¢ncia do adversÃ¡rio.}
+{3080}{}{EstratÃ©gia tÃ¡tica significa uma certeza de vitÃ³ria.}
+{3081}{}{Os governantes cautelosos sÃ£o geralmente pecaminosos.}
+{3082}{}{Destruir em excelÃªncia suprema, e uma naÃ§Ã£o deve tremer os benefÃ­cios da guerra prolongada.}
+{3083}{}{TÃ¡ticas para conquistar os homens. EstratÃ©gia para evoluir vendo.}
+{3084}{}{HÃ¡ milhÃµes de maneiras para que um gato mude sua pele.}
+{3085}{}{VocÃª nÃ£o pode espremer pedras de uma gota de sangue.}
+{3086}{}{NÃ£o hÃ¡ sangue mais espesso do que o da Ã¡gua.}
+{3087}{}{Deve haver dois sÃ³is no cÃ©u.}
 {3088}{}{Roubar a carne e marcar.}
-{3089}{}{Mental é a carne, carregando o potencial que se esvai.}
-{3090}{}{Um pássaro canta, porque sua música é a resposta.}
-{3091}{}{Baixa a tua voz e aumentar a sua força.}
-{3092}{}{Coma além de seus limites, caminhe de acordo com os longos que você irá.}
-{3093}{}{Se uma palavra vale um sheik, então o silêncio vale a por um imperador.}
-{3094}{}{Aquele que vive fora desse avião morre com honra.}
+{3089}{}{Mental Ã© a carne, carregando o potencial que se esvai.}
+{3090}{}{Um pÃ¡ssaro canta, porque sua mÃºsica Ã© a resposta.}
+{3091}{}{Baixa a tua voz e aumentar a sua forÃ§a.}
+{3092}{}{Coma alÃ©m de seus limites, caminhe de acordo com os longos que vocÃª irÃ¡.}
+{3093}{}{Se uma palavra vale um sheik, entÃ£o o silÃªncio vale a por um imperador.}
+{3094}{}{Aquele que vive fora desse aviÃ£o morre com honra.}
 {3095}{}{Enganar os pobres. Insultar os ricos.}
-{3096}{}{Uma vez que o calor já passou, esqueça a sombra da árvore.}
-{3097}{}{Ninguém está mais perto da morte, como aquele que escuta.}
-{3098}{}{Cada um por todos e todos por nós.}
-{3099}{}{Todos os homens são imortais, como o Oito.}
-{3100}{}{Quando você está morrendo de sede, não é tarde demais para cavar para a água.}
+{3096}{}{Uma vez que o calor jÃ¡ passou, esqueÃ§a a sombra da Ã¡rvore.}
+{3097}{}{NinguÃ©m estÃ¡ mais perto da morte, como aquele que escuta.}
+{3098}{}{Cada um por todos e todos por nÃ³s.}
+{3099}{}{Todos os homens sÃ£o imortais, como o Oito.}
+{3100}{}{Quando vocÃª estÃ¡ morrendo de sede, nÃ£o Ã© tarde demais para cavar para a Ã¡gua.}
 {3101}{}{Quanto mais alto o bambu cresce, mais perto o panda vem emergir.}
-{3102}{}{Nunca confie na glória da manhã ou nos sorrisos de sua sogra.}
-{3103}{}{Os olhos são a nossa única e inteira janela.}
-{3104}{}{A velhice se arrasta em você como um velho sujo.}
-{3105}{}{O céu nunca é culpado. Os impios receberão seus salários a tempo.}
-{3106}{}{A justiça é a virtude da alma que se distribui no meio do deserto.}
-{3107}{}{É melhor que morram dez inocentes do que um culpado sofra.}
-{3108}{}{As salas de tribunais de justiça são a única justiça.}
-{3109}{}{Bloqueie o estábulo quando o cavalo é roubado.}
+{3102}{}{Nunca confie na glÃ³ria da manhÃ£ ou nos sorrisos de sua sogra.}
+{3103}{}{Os olhos sÃ£o a nossa Ãºnica e inteira janela.}
+{3104}{}{A velhice se arrasta em vocÃª como um velho sujo.}
+{3105}{}{O cÃ©u nunca Ã© culpado. Os impios receberÃ£o seus salÃ¡rios a tempo.}
+{3106}{}{A justiÃ§a Ã© a virtude da alma que se distribui no meio do deserto.}
+{3107}{}{Ã‰ melhor que morram dez inocentes do que um culpado sofra.}
+{3108}{}{As salas de tribunais de justiÃ§a sÃ£o a Ãºnica justiÃ§a.}
+{3109}{}{Bloqueie o estÃ¡bulo quando o cavalo Ã© roubado.}
 {3110}{}{Fabricantes de feno sob o sol brilhante.}
 {3111}{}{Nunca tire um presente da boca de um cavalo sem perguntar primeiro.}
-{3112}{}{O mundo rirá com você. Em seguida, você chorar com seus companheiros.}
-{3113}{}{Muitas mãos fazem as luzes funcionarem.}
-{3114}{}{Um prato de cenouras não destruídas, limpas, com vegetais.}
-{3115}{}{Os lábios de um burro beijam a boca de um cavalo somente quando alimentados com forragem extra durante a noite.}
+{3112}{}{O mundo rirÃ¡ com vocÃª. Em seguida, vocÃª chorar com seus companheiros.}
+{3113}{}{Muitas mÃ£os fazem as luzes funcionarem.}
+{3114}{}{Um prato de cenouras nÃ£o destruÃ­das, limpas, com vegetais.}
+{3115}{}{Os lÃ¡bios de um burro beijam a boca de um cavalo somente quando alimentados com forragem extra durante a noite.}
 {3116}{}{Traga um clube para o covil de um tigre.}
-{3117}{}{Um porco lança um colar de pérolas.}
+{3117}{}{Um porco lanÃ§a um colar de pÃ©rolas.}
 {3118}{}{Caviar Imperador.}
-{3130}{}{Tudo bem. Agora nós estamos chegando a algum lugar.}
-{3210}{}{Tudo bem, agora que eu conheço a história da vida do seu pai, você se importaria de chegar à parte sobre você?}
-{3260}{}{Então eles eram traidores para seu povo, mas para o bem de seus próprios povos. Consegui.}
-{3261}{}{Olha, estou cansado de ouvir sobre seus pais. Sobre você chegar à parte sobre você ser um espião?}
-{5000}{}{[Conforme a mulher olha pra sua face, seus olhos de repente arregalam e ela começa a ofegar pelo ar.}
+{3130}{}{Tudo bem. Agora nÃ³s estamos chegando a algum lugar.}
+{3210}{}{Tudo bem, agora que eu conheÃ§o a histÃ³ria da vida do seu pai, vocÃª se importaria de chegar Ã  parte sobre vocÃª?}
+{3260}{}{EntÃ£o eles eram traidores para seu povo, mas para o bem de seus prÃ³prios povos. Consegui.}
+{3261}{}{Olha, estou cansado de ouvir sobre seus pais. Sobre vocÃª chegar Ã  parte sobre vocÃª ser um espiÃ£o?}
+{5000}{}{[Conforme a mulher olha pra sua face, seus olhos de repente arregalam e ela comeÃ§a a ofegar pelo ar.}
 {5001}{}{[FIM]}
 {5002}{}{Puta merda!}

@@ -1,56 +1,56 @@
-{100}{}{Egy ápolatlan, koszos és felettébb mérges embert látsz.}
-{101}{}{? Franc, a mutánsgy?löl?k egyike.}
-{102}{}{Egy ápolatlan, koszos és felettébb mérges embert látsz, aki láthatólag nagyon szívesen elhelyezne néhány golyót egy-két ember fejében. Úgy járkál fel-alá, mint egy veszett állat.}
+{100}{}{Egy Ã¡polatlan, koszos Ã©s felettÃ©bb mÃ©rges embert lÃ¡tsz.}
+{101}{}{? Franc, a mutÃ¡nsgy?lÃ¶l?k egyike.}
+{102}{}{Egy Ã¡polatlan, koszos Ã©s felettÃ©bb mÃ©rges embert lÃ¡tsz, aki lÃ¡thatÃ³lag nagyon szÃ­vesen elhelyezne nÃ©hÃ¡ny golyÃ³t egy-kÃ©t ember fejÃ©ben. Ãšgy jÃ¡rkÃ¡l fel-alÃ¡, mint egy veszett Ã¡llat.}
 {103}{}{Mit akarsz?}
-{104}{}{Aggggg! ::nyáladzás::}
-{105}{}{Te! Én! Menni!}
+{104}{}{Aggggg! ::nyÃ¡ladzÃ¡s::}
+{105}{}{Te! Ã‰n! Menni!}
 {106}{}{Ki vagy te?}
-{107}{}{Miért vagy bekasztnizva?}
-{108}{}{Mit tudsz mondani nekem err?l a városról?}
-{109}{}{Mesélj nekem Marcusról!}
-{110}{}{G?zöm sincs, mit pampogsz, hülyegyerek. Menj innen a francba!}
+{107}{}{MiÃ©rt vagy bekasztnizva?}
+{108}{}{Mit tudsz mondani nekem err?l a vÃ¡rosrÃ³l?}
+{109}{}{MesÃ©lj nekem MarcusrÃ³l!}
+{110}{}{G?zÃ¶m sincs, mit pampogsz, hÃ¼lyegyerek. Menj innen a francba!}
 {111}{}{Oooooh...}
-{112}{}{Franc vagyok. Megkérdezném én is, hogy hívnak, de nem érdekel.}
-{113}{}{Ó, egy keményfiú, mi?}
-{114}{}{Semmi baj. Engem sem érdekel igazán, hogy te ki vagy.}
-{115}{}{Igen, hát persze. Üdv!}
-{116}{}{Azért, mert a "fickó", aki a háttérb?l irányítja ezt a várost, nem szívlel sem engem, sem az emberekr?l alkotott véleményem. Az igazságot mondtam el a mutánsokról, csak ez nem tetszett Marcusnak. Csendre vagyok ítélve a hitem miatt.}
-{117}{}{Ez kemény sors.}
-{118}{}{Mondhatjuk úgy, hogy lázító vagy, aki azért tüzeli fel az embereket, hogy a t?lünk különböz? embereket megöljék?}
-{119}{}{Aha, tök érdekes. Mit tudsz mondani nekem Broken Hillsr?l?}
-{120}{}{Peeersze. Mit tudsz nekem mondani Marcusról?}
-{121}{}{Okké! Viszlát!}
-{122}{}{Ez a hely maga volt a földi paradicsom. Aztán jöttek a mutánsok, és pöcegödörré változtatták. Most azt várják t?lünk, hogy felejtsük el a múltat, és éljünk békében velük. Hát én nem fogok! Élj szabadon, vagy halj meg!}
-{123}{}{Nem pont erre lettem volna kiváncsi, de azért kösz. Mit tudsz nekem mondani Marcusról?}
-{124}{}{Ööö, oké. Viszlát!}
-{125}{}{Marcus mindenkinek azt mondja, hogy ? alapította ezt a várost. Egy szart! Már azel?tt emberek éltek itt, hogy ? meg a koszos csürhéje idetolta a képét. Átvették a hatalmat, aztán mindenkit?l elvárták, hogy hajlongjon, és fogadja el a mutánsokat. Marcus az egész itteni cirkusz porondmestere.}
-{126}{}{Szerintem te tényleg ?rült vagy!}
-{127}{}{Rohadt mutánsok. Pont ahogy gondoltam.}
-{128}{}{Ige', keményfiú vagyok. Ha nem lennék rács mögött, megmutatnám neked, milyen kemény. Keménynek hiszed magad? Bizonyítani is tudod, seggfej?}
+{112}{}{Franc vagyok. MegkÃ©rdeznÃ©m Ã©n is, hogy hÃ­vnak, de nem Ã©rdekel.}
+{113}{}{Ã“, egy kemÃ©nyfiÃº, mi?}
+{114}{}{Semmi baj. Engem sem Ã©rdekel igazÃ¡n, hogy te ki vagy.}
+{115}{}{Igen, hÃ¡t persze. Ãœdv!}
+{116}{}{AzÃ©rt, mert a "fickÃ³", aki a hÃ¡ttÃ©rb?l irÃ¡nyÃ­tja ezt a vÃ¡rost, nem szÃ­vlel sem engem, sem az emberekr?l alkotott vÃ©lemÃ©nyem. Az igazsÃ¡got mondtam el a mutÃ¡nsokrÃ³l, csak ez nem tetszett Marcusnak. Csendre vagyok Ã­tÃ©lve a hitem miatt.}
+{117}{}{Ez kemÃ©ny sors.}
+{118}{}{Mondhatjuk Ãºgy, hogy lÃ¡zÃ­tÃ³ vagy, aki azÃ©rt tÃ¼zeli fel az embereket, hogy a t?lÃ¼nk kÃ¼lÃ¶nbÃ¶z? embereket megÃ¶ljÃ©k?}
+{119}{}{Aha, tÃ¶k Ã©rdekes. Mit tudsz mondani nekem Broken Hillsr?l?}
+{120}{}{Peeersze. Mit tudsz nekem mondani MarcusrÃ³l?}
+{121}{}{OkkÃ©! ViszlÃ¡t!}
+{122}{}{Ez a hely maga volt a fÃ¶ldi paradicsom. AztÃ¡n jÃ¶ttek a mutÃ¡nsok, Ã©s pÃ¶cegÃ¶dÃ¶rrÃ© vÃ¡ltoztattÃ¡k. Most azt vÃ¡rjÃ¡k t?lÃ¼nk, hogy felejtsÃ¼k el a mÃºltat, Ã©s Ã©ljÃ¼nk bÃ©kÃ©ben velÃ¼k. HÃ¡t Ã©n nem fogok! Ã‰lj szabadon, vagy halj meg!}
+{123}{}{Nem pont erre lettem volna kivÃ¡ncsi, de azÃ©rt kÃ¶sz. Mit tudsz nekem mondani MarcusrÃ³l?}
+{124}{}{Ã–Ã¶Ã¶, okÃ©. ViszlÃ¡t!}
+{125}{}{Marcus mindenkinek azt mondja, hogy ? alapÃ­totta ezt a vÃ¡rost. Egy szart! MÃ¡r azel?tt emberek Ã©ltek itt, hogy ? meg a koszos csÃ¼rhÃ©je idetolta a kÃ©pÃ©t. ÃtvettÃ©k a hatalmat, aztÃ¡n mindenkit?l elvÃ¡rtÃ¡k, hogy hajlongjon, Ã©s fogadja el a mutÃ¡nsokat. Marcus az egÃ©sz itteni cirkusz porondmestere.}
+{126}{}{Szerintem te tÃ©nyleg ?rÃ¼lt vagy!}
+{127}{}{Rohadt mutÃ¡nsok. Pont ahogy gondoltam.}
+{128}{}{Ige', kemÃ©nyfiÃº vagyok. Ha nem lennÃ©k rÃ¡cs mÃ¶gÃ¶tt, megmutatnÃ¡m neked, milyen kemÃ©ny. KemÃ©nynek hiszed magad? BizonyÃ­tani is tudod, seggfej?}
 {129}{}{Persze.}
-{130}{}{Nincs semmi, amit bizonyítanom kellene egy b?nöz?nek.}
-{131}{}{Húzz innen a francba, köcsög! Ha nem lennék bezárva, megölnélek!}
-{132}{}{Viszlát!}
-{133}{}{Az itteni törvény a mutánsok szeretetén alapszik. Te is utálod a mutikat?}
+{130}{}{Nincs semmi, amit bizonyÃ­tanom kellene egy b?nÃ¶z?nek.}
+{131}{}{HÃºzz innen a francba, kÃ¶csÃ¶g! Ha nem lennÃ©k bezÃ¡rva, megÃ¶lnÃ©lek!}
+{132}{}{ViszlÃ¡t!}
+{133}{}{Az itteni tÃ¶rvÃ©ny a mutÃ¡nsok szeretetÃ©n alapszik. Te is utÃ¡lod a mutikat?}
 {134}{}{Igen.}
 {135}{}{Nem.}
-{136}{}{Igen? Akkor beszélj Jacobbal, a vegyésszel. Utána beszélünk.}
-{137}{}{Muti-barát! T?nj el innen! Nem akarok egy leveg?t szívni veled!}
-{138}{}{Már megint itt van? Mi a fenét akar?}
-{139}{}{Mesélj nekem Broken Hillsr?l.}
-{140}{}{Mesélj nekem Marcusról.}
-{141}{}{Miért vagy bekasztnizva?}
-{142}{}{Beszéltél Jacobbal? Mire vársz még? Szabadíts ki minket!}
-{143}{}{Kösz, hogy kiengedtél minket. Kár, hogy nem nyírhatunk ki senkit, miel?tt lelépnénk.}
-{144}{}{Hah! Most, hogy holtan látom ezeket a mutánsokat, már megérte ülni egy kicsit a h?vösön!}
-{145}{}{Csak szereld fel a robbanóanyagot, a többit mi elintézzük!}
-{146}{}{Szép munka, haver! Mi most lelépünk a városból. Szerintem neked sem ártana. Minden jót!}
-{147}{}{Mindent elszúrtál! Most meghalsz, haver!}
-{148}{}{Na, t?njünk innen!}
-{149}{}{Semmitnem. Pápá!}
-{150}{}{Felejtsük el! Viszlát.}
-{151}{}{Ez nem igazságszolgáltatás. Szégyelned kéne magadat!}
-{152}{}{Kösz a segítséget, haver! Menjünk Jacobhoz és Aileenhez!}
-{153}{}{Sikeres szöktetést hajtottál végre a börtönb?l.}
-{154}{}{Kösz a segítséget a börtönben, idegen!}
+{136}{}{Igen? Akkor beszÃ©lj Jacobbal, a vegyÃ©sszel. UtÃ¡na beszÃ©lÃ¼nk.}
+{137}{}{Muti-barÃ¡t! T?nj el innen! Nem akarok egy leveg?t szÃ­vni veled!}
+{138}{}{MÃ¡r megint itt van? Mi a fenÃ©t akar?}
+{139}{}{MesÃ©lj nekem Broken Hillsr?l.}
+{140}{}{MesÃ©lj nekem MarcusrÃ³l.}
+{141}{}{MiÃ©rt vagy bekasztnizva?}
+{142}{}{BeszÃ©ltÃ©l Jacobbal? Mire vÃ¡rsz mÃ©g? SzabadÃ­ts ki minket!}
+{143}{}{KÃ¶sz, hogy kiengedtÃ©l minket. KÃ¡r, hogy nem nyÃ­rhatunk ki senkit, miel?tt lelÃ©pnÃ©nk.}
+{144}{}{Hah! Most, hogy holtan lÃ¡tom ezeket a mutÃ¡nsokat, mÃ¡r megÃ©rte Ã¼lni egy kicsit a h?vÃ¶sÃ¶n!}
+{145}{}{Csak szereld fel a robbanÃ³anyagot, a tÃ¶bbit mi elintÃ©zzÃ¼k!}
+{146}{}{SzÃ©p munka, haver! Mi most lelÃ©pÃ¼nk a vÃ¡rosbÃ³l. Szerintem neked sem Ã¡rtana. Minden jÃ³t!}
+{147}{}{Mindent elszÃºrtÃ¡l! Most meghalsz, haver!}
+{148}{}{Na, t?njÃ¼nk innen!}
+{149}{}{Semmitnem. PÃ¡pÃ¡!}
+{150}{}{FelejtsÃ¼k el! ViszlÃ¡t.}
+{151}{}{Ez nem igazsÃ¡gszolgÃ¡ltatÃ¡s. SzÃ©gyelned kÃ©ne magadat!}
+{152}{}{KÃ¶sz a segÃ­tsÃ©get, haver! MenjÃ¼nk Jacobhoz Ã©s Aileenhez!}
+{153}{}{Sikeres szÃ¶ktetÃ©st hajtottÃ¡l vÃ©gre a bÃ¶rtÃ¶nb?l.}
+{154}{}{KÃ¶sz a segÃ­tsÃ©get a bÃ¶rtÃ¶nben, idegen!}
 {155}{}{Nem gond.}

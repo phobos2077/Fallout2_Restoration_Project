@@ -1,9 +1,9 @@
-{100}{}{Có¿, przynajmniej jest ju¿ lina.}
-{101}{}{To powinno wystarczyæ.}
+{100}{}{CÃ³Å¼, przynajmniej jest juÅ¼ lina.}
+{101}{}{To powinno wystarczyÄ‡.}
 {102}{}{Tej studni brakuje liny i wiadra.}
-{103}{}{To ju¿ zosta³o naprawione. Pamiêtasz?}
-{104}{}{Ta studnia ma ju¿ linê, brakuje jej tylko wiadra.}
-{200}{}{Widzisz studniê.}
+{103}{}{To juÅ¼ zostaÅ‚o naprawione. PamiÄ™tasz?}
+{104}{}{Ta studnia ma juÅ¼ linÄ™, brakuje jej tylko wiadra.}
+{200}{}{Widzisz studniÄ™.}
 {201}{}{To tylko studnia.}
-{202}{}{Po bli¿szych oglêdzinach stwierdzasz, ¿e studnia nie dzia³a. Mo¿e zdo³asz j¹ naprawiæ.}
-{203}{}{Studnia znowu dzia³a dobrze.}
+{202}{}{Po bliÅ¼szych oglÄ™dzinach stwierdzasz, Å¼e studnia nie dziaÅ‚a. MoÅ¼e zdoÅ‚asz jÄ… naprawiÄ‡.}
+{203}{}{Studnia znowu dziaÅ‚a dobrze.}

@@ -1,57 +1,57 @@
-{100}{}{Você vê uma pessoa vestida com uma armadura de couro preta, com uma expressão sombria e 
+{100}{}{VocÃª vÃª uma pessoa vestida com uma armadura de couro preta, com uma expressÃ£o sombria e 
  carregando uma poderosa arma de fogo.}
-{101}{}{Você vê }
-{102}{}{Você vê um guarda de caravana, coberto com a poeira da trilha e o suor do combate; você supõe 
- que isso significa que as rotas de comércio estão ficando mais perigosas ultimamente.}
-{103}{}{Ajudar você?}
+{101}{}{VocÃª vÃª }
+{102}{}{VocÃª vÃª um guarda de caravana, coberto com a poeira da trilha e o suor do combate; vocÃª supÃµe 
+ que isso significa que as rotas de comÃ©rcio estÃ£o ficando mais perigosas ultimamente.}
+{103}{}{Ajudar vocÃª?}
 {104}{}{Aggle ok too!}
 {105}{}{Trabalho por aqui?}
 {106}{}{Sim, estou procurando o mestre da caravana.}
 {107}{}{Gostaria de saber se posso fazer umas perguntas sobre Chad.}
-{108}{}{Quem é você?}
-{109}{}{Sinto muito pelo Chad. Quem é o novo chefe?}
-{110}{}{Não, obrigado.}
-{111}{}{Se você está procurando trabalho, pode querer falar com Bill, o cara lá dentro. DEN-TRO. Ele 
+{108}{}{Quem Ã© vocÃª?}
+{109}{}{Sinto muito pelo Chad. Quem Ã© o novo chefe?}
+{110}{}{NÃ£o, obrigado.}
+{111}{}{Se vocÃª estÃ¡ procurando trabalho, pode querer falar com Bill, o cara lÃ¡ dentro. DEN-TRO. Ele 
  pode te entender. Boa sorte!}
 {112}{}{Duhhhh...}
 {113}{}{Vai ser }
 {114}{}{Sim.}
-{115}{}{Não.}
-{116}{}{Você tem perguntas, talvez eu tenha respostas. O que você quer saber?}
-{117}{}{Como ele é?}
-{118}{}{Ele é confiável?}
+{115}{}{NÃ£o.}
+{116}{}{VocÃª tem perguntas, talvez eu tenha respostas. O que vocÃª quer saber?}
+{117}{}{Como ele Ã©?}
+{118}{}{Ele Ã© confiÃ¡vel?}
 {119}{}{Onde ele consegue seu dinheiro?}
-{120}{}{Qual é a história dele?}
-{121}{}{Esqueça. Até logo.}
+{120}{}{Qual Ã© a histÃ³ria dele?}
+{121}{}{EsqueÃ§a. AtÃ© logo.}
 {122}{}{Eu? Sou }
-{123}{}{Você sente muito pelo Chad? Ha! Ganhou quanto com isso? O novo chefe é }
+{123}{}{VocÃª sente muito pelo Chad? Ha! Ganhou quanto com isso? O novo chefe Ã© }
 {124}{}{Adeus.}
-{125}{}{Nesse caso, você deve falar com Bill, o comerciante de Broken Hills. Ele pode te incluir.}
+{125}{}{Nesse caso, vocÃª deve falar com Bill, o comerciante de Broken Hills. Ele pode te incluir.}
 {126}{}{Obrigado.}
-{127}{}{Tudo bem, até logo então.}
-{128}{}{Como ele é? Bem, ele é amigável, mas meio brusco. Ele é um bom chefe e geralmente justo nós.
- Ele não nos trata mal nem nada, se é o que quer dizer. Mais alguma pergunta?}
-{129}{}{Sempre achei que ele seria confiável - e muito, na verdade. Não é o tipo de coisa que você 
- deveria perguntar por aí. Mais alguma pergunta?}
-{130}{}{Bem, tem um ar meio obscuro, eu acho... então, a maioria das pessoas também é hoje em dia. Alguma outra pergunta?}
-{131}{}{Não tenho ideia de qual é sua história. Quero dizer, quase todos nós, guardas de caravana, somos vagabundos
- que vieram para o trabalho. Imagino que ele é outra pessoa que teve que sair correndo de algum lugar. 
+{127}{}{Tudo bem, atÃ© logo entÃ£o.}
+{128}{}{Como ele Ã©? Bem, ele Ã© amigÃ¡vel, mas meio brusco. Ele Ã© um bom chefe e geralmente justo nÃ³s.
+ Ele nÃ£o nos trata mal nem nada, se Ã© o que quer dizer. Mais alguma pergunta?}
+{129}{}{Sempre achei que ele seria confiÃ¡vel - e muito, na verdade. NÃ£o Ã© o tipo de coisa que vocÃª 
+ deveria perguntar por aÃ­. Mais alguma pergunta?}
+{130}{}{Bem, tem um ar meio obscuro, eu acho... entÃ£o, a maioria das pessoas tambÃ©m Ã© hoje em dia. Alguma outra pergunta?}
+{131}{}{NÃ£o tenho ideia de qual Ã© sua histÃ³ria. Quero dizer, quase todos nÃ³s, guardas de caravana, somos vagabundos
+ que vieram para o trabalho. Imagino que ele Ã© outra pessoa que teve que sair correndo de algum lugar. 
  Alguma outra pergunta?}
-{132}{}{Como sou o novo chefe, provavelmente sou a única pessoa aqui que não te odeia. O que posso fazer 
- por você?}
+{132}{}{Como sou o novo chefe, provavelmente sou a Ãºnica pessoa aqui que nÃ£o te odeia. O que posso fazer 
+ por vocÃª?}
 {133}{}{Eu quero um emprego.}
-{134}{}{Você tem roubado?}
-{135}{}{Quando a próxima caravana sai?}
+{134}{}{VocÃª tem roubado?}
+{135}{}{Quando a prÃ³xima caravana sai?}
 {136}{}{Nada, obrigado.}
 {137}{}{Fale com o Bill, como sempre.}
 {138}{}{Tudo bem.}
-{139}{}{Depois do que aconteceu com Chad? Acho que não. Algo mais?}
-{140}{}{Estamos aqui. Aqui estão seus $500. Se você quiser voltar, saímos no final do dia. Você também 
- ganhará o dinheiro no caminho de volta, se quiser. De uma forma ou de outra, vamos embora então.}
-{141}{}{Até mais.}
-{142}{}{Você está pronto para sair?}
-{143}{}{Obrigado. Aqui estão seus $500. Se quiser outro trabalho é só falar com Bill.}
-{144}{}{Perdedor fudido! Você vai morrer agora!}
+{139}{}{Depois do que aconteceu com Chad? Acho que nÃ£o. Algo mais?}
+{140}{}{Estamos aqui. Aqui estÃ£o seus $500. Se vocÃª quiser voltar, saÃ­mos no final do dia. VocÃª tambÃ©m 
+ ganharÃ¡ o dinheiro no caminho de volta, se quiser. De uma forma ou de outra, vamos embora entÃ£o.}
+{141}{}{AtÃ© mais.}
+{142}{}{VocÃª estÃ¡ pronto para sair?}
+{143}{}{Obrigado. Aqui estÃ£o seus $500. Se quiser outro trabalho Ã© sÃ³ falar com Bill.}
+{144}{}{Perdedor fudido! VocÃª vai morrer agora!}
 {145}{}{Umm...}
 {150}{}{, guarda da caravana.}
 {151}{}{. Sou um guarda das caravanas de Bill. Algo mais?}

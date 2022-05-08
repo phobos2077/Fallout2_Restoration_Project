@@ -1,8 +1,8 @@
 {100}{}{Terminal komputerowy.}
-{101}{}{Terminal Kontroli Zasobów Biologicznych.}
-{102}{}{Nie mo¿esz odczytaæ, co pokazuje monitor.}
-{103}{}{Zak³ad Przechowywania Zasobów Biologicznych                   
- --Menu G³ówne--                                                    
+{101}{}{Terminal Kontroli ZasobÃ³w Biologicznych.}
+{102}{}{Nie moÅ¼esz odczytaÄ‡, co pokazuje monitor.}
+{103}{}{ZakÅ‚ad Przechowywania ZasobÃ³w Biologicznych                   
+ --Menu GÅ‚Ã³wne--                                                    
  Pobierz                                                                
  Przechowaj}
 {104}{}{}
@@ -10,30 +10,30 @@
 {106}{}{}
 {107}{}{Pobierz}
 {108}{}{Przechowaj}
-{109}{}{WyjdŸ.}
+{109}{}{WyjdÅº.}
 {110}{}{Ug.}
-{111}{}{[Nie mo¿esz odczytaæ tego, co wyœwietla monitor.]}
+{111}{}{[Nie moÅ¼esz odczytaÄ‡ tego, co wyÅ›wietla monitor.]}
 {112}{}{Ten terminal jest Nieczynny                                         
- Proszê skontaktowaæ siê z administratorem sieci w celu     
- uzyskania dalszych szczegó³ów.}
+ ProszÄ™ skontaktowaÄ‡ siÄ™ z administratorem sieci w celu     
+ uzyskania dalszych szczegÃ³Å‚Ã³w.}
 {113}{}{}
 {114}{}{Urg}
-{115}{}{WyjdŸ.}
-{116}{}{--G³ówne Menu Pobierania--                                         
+{115}{}{WyjdÅº.}
+{116}{}{--GÅ‚Ã³wne Menu Pobierania--                                         
  Wirusy                                                                  
  Organy                                                                 
- Zw³oki}
+ ZwÅ‚oki}
 {117}{}{}
 {118}{}{}
 {119}{}{}
 {120}{}{Wybierz Wirusa}
 {121}{}{Wybierz Organy}
-{122}{}{Wybierz Zw³oki}
-{123}{}{Wróæ do Menu G³ównego}
-{124}{}{WyjdŸ.}
-{125}{}{--Menu Wirusów--                                                      
- W¹glik                                                                  
- Czarna Œmieræ (Szczep 238)                                        
+{122}{}{Wybierz ZwÅ‚oki}
+{123}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{124}{}{WyjdÅº.}
+{125}{}{--Menu WirusÃ³w--                                                      
+ WÄ…glik                                                                  
+ Czarna ÅšmierÄ‡ (Szczep 238)                                        
  Ospa (Szczep 1025)                                                  
  Ebola                                                                   
  Hantawirus (Szczep 304)}
@@ -42,126 +42,126 @@
 {128}{}{}
 {129}{}{}
 {130}{}{}
-{131}{}{Pobierz W¹glika}
-{132}{}{Pobierz Czarn¹ Œmieræ}
-{133}{}{Pobierz Ospê}
-{134}{}{Pobierz Ebolê}
+{131}{}{Pobierz WÄ…glika}
+{132}{}{Pobierz CzarnÄ… ÅšmierÄ‡}
+{133}{}{Pobierz OspÄ™}
+{134}{}{Pobierz EbolÄ™}
 {135}{}{Pobierz Hantawirus}
-{137}{}{Wróæ do G³ównego Menu Pobierania}
-{138}{}{WyjdŸ.}
-{139}{}{[Obserwujesz jak robot przemieszcza siê wœród rzêdów pojemników z materia³ami biologicznymi i wraca z ma³¹ probówk¹, któr¹ szybko wk³ada do otworu w œcianie. Obserwujesz z zachwytem jak probówka zostaje przeniesiona ze szczelnego œrodowiska obszaru magazynowego do sali, w której siê znajdujesz. Twój zachwyt zmienia siê w przera¿enie, gdy probówka spada i rozbija siê o pod³ogê. Ucieczka wydaje siê doskona³ym pomys³em.]}
-{140}{}{WyjdŸ.}
-{141}{}{--Menu Organów Wewnêtrznych--                                   
+{137}{}{WrÃ³Ä‡ do GÅ‚Ã³wnego Menu Pobierania}
+{138}{}{WyjdÅº.}
+{139}{}{[Obserwujesz jak robot przemieszcza siÄ™ wÅ›rÃ³d rzÄ™dÃ³w pojemnikÃ³w z materiaÅ‚ami biologicznymi i wraca z maÅ‚Ä… probÃ³wkÄ…, ktÃ³rÄ… szybko wkÅ‚ada do otworu w Å›cianie. Obserwujesz z zachwytem jak probÃ³wka zostaje przeniesiona ze szczelnego Å›rodowiska obszaru magazynowego do sali, w ktÃ³rej siÄ™ znajdujesz. TwÃ³j zachwyt zmienia siÄ™ w przeraÅ¼enie, gdy probÃ³wka spada i rozbija siÄ™ o podÅ‚ogÄ™. Ucieczka wydaje siÄ™ doskonaÅ‚ym pomysÅ‚em.]}
+{140}{}{WyjdÅº.}
+{141}{}{--Menu OrganÃ³w WewnÄ™trznych--                                   
  Serce                                                                  
- Mózg                                                                   
+ MÃ³zg                                                                   
  Nerka                                                                  
- W¹troba                                                               
- P³uco}
+ WÄ…troba                                                               
+ PÅ‚uco}
 {142}{}{}
 {143}{}{}
 {144}{}{}
 {145}{}{}
 {146}{}{}
 {147}{}{Pobierz Serce}
-{148}{}{Pobierz Mózg}
-{149}{}{Pobierz Nerkê}
-{150}{}{Pobierz W¹trobê}
-{151}{}{Pobierz P³uco}
-{152}{}{Wróæ do G³ównego Menu Pobierania}
-{153}{}{WyjdŸ.}
-{154}{}{Uwaga! Awaria aparatury przechowuj¹cej.                         
- [S¹dz¹c z odczytów, urz¹dzenia przechowuj¹ce te organy   
- zepsu³y siê dawno temu. O ile nie masz ochoty na zupê,      
- pobieranie czegokolwiek nie ma wiêkszego sensu.]}
+{148}{}{Pobierz MÃ³zg}
+{149}{}{Pobierz NerkÄ™}
+{150}{}{Pobierz WÄ…trobÄ™}
+{151}{}{Pobierz PÅ‚uco}
+{152}{}{WrÃ³Ä‡ do GÅ‚Ã³wnego Menu Pobierania}
+{153}{}{WyjdÅº.}
+{154}{}{Uwaga! Awaria aparatury przechowujÄ…cej.                         
+ [SÄ…dzÄ…c z odczytÃ³w, urzÄ…dzenia przechowujÄ…ce te organy   
+ zepsuÅ‚y siÄ™ dawno temu. O ile nie masz ochoty na zupÄ™,      
+ pobieranie czegokolwiek nie ma wiÄ™kszego sensu.]}
 {155}{}{}
-{156}{}{Wróæ do Menu Organów Wewnêtrznych}
-{157}{}{Wróæ do G³ównego Menu Pobierania}
-{158}{}{WyjdŸ.}
-{159}{}{Uwaga! Awaria aparatury przechowuj¹cej                         
+{156}{}{WrÃ³Ä‡ do Menu OrganÃ³w WewnÄ™trznych}
+{157}{}{WrÃ³Ä‡ do GÅ‚Ã³wnego Menu Pobierania}
+{158}{}{WyjdÅº.}
+{159}{}{Uwaga! Awaria aparatury przechowujÄ…cej                         
  Zbiorniki 101 - 104                                                   
- Potrzebne Poprawki Ustawieñ                                     
- [Do uratowania mózgów potrzebne bêd¹ bardzo precyzyjne  
- wyliczenia. Ci¹gi wzorów i wyników pomiarów przelatuj¹        
- przez ekran. Dla ciebie wygl¹da to bardzo naukowo.]}
+ Potrzebne Poprawki UstawieÅ„                                     
+ [Do uratowania mÃ³zgÃ³w potrzebne bÄ™dÄ… bardzo precyzyjne  
+ wyliczenia. CiÄ…gi wzorÃ³w i wynikÃ³w pomiarÃ³w przelatujÄ…        
+ przez ekran. Dla ciebie wyglÄ…da to bardzo naukowo.]}
 {160}{}{}
 {161}{}{}
 {162}{}{}
-{163}{}{Spróbuj dokonaæ poprawek}
-{164}{}{Wróæ do G³ównego Menu Pobierania}
-{165}{}{Spróbuj póŸniej.}
-{166}{}{[Na skutek niedorzecznoœci twoich dzia³añ wszystkie mózgi umieraj¹. Mo¿e podniesienie temperatury do 98.6 stopni Celsjusza by³o lekk¹ przesad¹. Nauki œcis³e nigdy nie by³y twoj¹ mocn¹ stron¹.]}
-{167}{}{Wyjœcie.}
-{168}{}{[Metoda prób i b³êdów jest chyba twoj¹ g³ówn¹ metod¹ rozwi¹zywania tego problemu. Udaje ci siê uratowaæ jeden z czterech mózgów. Zreszt¹ nauka jest dla frajerów.]}
-{169}{}{Pobierz Mózg}
-{170}{}{[U¿ywaj¹c prawa uœredniania udaje ci siê uratowaæ piêædziesi¹t procent mózgów. Naukowcem to ty nie jesteœ.]}
-{171}{}{Pobierz Mózg}
-{172}{}{[Z pewnoœci¹ wiesz co robisz. Pomijaj¹c jeden b³¹d, uda³o ci siê uratowaæ 3 z 4 mózgów. Coœ ci mówi³o ca³y czas, ¿e czytanie tych wszystkich czasopism naukowych mo¿e siê na coœ przydaæ.]}
-{173}{}{Pobierz Mózg}
-{174}{}{[Dziêki u¿yciu kilku szybkich skrótów klawiszowych udaje ci siê zapobiec kryzysowi i uratowaæ wszystkie mózgi. Nauki œcis³e to dla ciebie zdecydowanie coœ wiêcej ni¿ hobby.]}
-{175}{}{Pobierz Mózg}
-{176}{}{--Menu Mózgów--                                                      
- Mózg Upoœledzony                                                    
- Mózg Szympansa                                                     
- Mózg Cz³owieka                                                       
- Mózg Cybernetyczny}
-{177}{}{--Menu Mózgów--                                                      
- Mózg Upoœledzony                                                    
- Mózg Szympansa                                                     
- Mózg Cz³owieka                                                       
- Mózg Cybernetyczny - Martwy}
-{178}{}{--Menu Mózgów--                                                      
- Mózg Upoœledzony                                                    
- Mózg Szympansa                                                     
- Mózg Cz³owieka - Martwy                                           
- Mózg Cybernetyczny - Martwy}
-{179}{}{--Menu Mózgów--                                                      
- Mózg Upoœledzony                                                    
- Mózg Szympansa - Martwy                                         
- Mózg Cz³owieka - Martwy                                           
- Mózg Cybernetyczny - Martwy}
+{163}{}{SprÃ³buj dokonaÄ‡ poprawek}
+{164}{}{WrÃ³Ä‡ do GÅ‚Ã³wnego Menu Pobierania}
+{165}{}{SprÃ³buj pÃ³Åºniej.}
+{166}{}{[Na skutek niedorzecznoÅ›ci twoich dziaÅ‚aÅ„ wszystkie mÃ³zgi umierajÄ…. MoÅ¼e podniesienie temperatury do 98.6 stopni Celsjusza byÅ‚o lekkÄ… przesadÄ…. Nauki Å›cisÅ‚e nigdy nie byÅ‚y twojÄ… mocnÄ… stronÄ….]}
+{167}{}{WyjÅ›cie.}
+{168}{}{[Metoda prÃ³b i bÅ‚Ä™dÃ³w jest chyba twojÄ… gÅ‚Ã³wnÄ… metodÄ… rozwiÄ…zywania tego problemu. Udaje ci siÄ™ uratowaÄ‡ jeden z czterech mÃ³zgÃ³w. ZresztÄ… nauka jest dla frajerÃ³w.]}
+{169}{}{Pobierz MÃ³zg}
+{170}{}{[UÅ¼ywajÄ…c prawa uÅ›redniania udaje ci siÄ™ uratowaÄ‡ piÄ™Ä‡dziesiÄ…t procent mÃ³zgÃ³w. Naukowcem to ty nie jesteÅ›.]}
+{171}{}{Pobierz MÃ³zg}
+{172}{}{[Z pewnoÅ›ciÄ… wiesz co robisz. PomijajÄ…c jeden bÅ‚Ä…d, udaÅ‚o ci siÄ™ uratowaÄ‡ 3 z 4 mÃ³zgÃ³w. CoÅ› ci mÃ³wiÅ‚o caÅ‚y czas, Å¼e czytanie tych wszystkich czasopism naukowych moÅ¼e siÄ™ na coÅ› przydaÄ‡.]}
+{173}{}{Pobierz MÃ³zg}
+{174}{}{[DziÄ™ki uÅ¼yciu kilku szybkich skrÃ³tÃ³w klawiszowych udaje ci siÄ™ zapobiec kryzysowi i uratowaÄ‡ wszystkie mÃ³zgi. Nauki Å›cisÅ‚e to dla ciebie zdecydowanie coÅ› wiÄ™cej niÅ¼ hobby.]}
+{175}{}{Pobierz MÃ³zg}
+{176}{}{--Menu MÃ³zgÃ³w--                                                      
+ MÃ³zg UpoÅ›ledzony                                                    
+ MÃ³zg Szympansa                                                     
+ MÃ³zg CzÅ‚owieka                                                       
+ MÃ³zg Cybernetyczny}
+{177}{}{--Menu MÃ³zgÃ³w--                                                      
+ MÃ³zg UpoÅ›ledzony                                                    
+ MÃ³zg Szympansa                                                     
+ MÃ³zg CzÅ‚owieka                                                       
+ MÃ³zg Cybernetyczny - Martwy}
+{178}{}{--Menu MÃ³zgÃ³w--                                                      
+ MÃ³zg UpoÅ›ledzony                                                    
+ MÃ³zg Szympansa                                                     
+ MÃ³zg CzÅ‚owieka - Martwy                                           
+ MÃ³zg Cybernetyczny - Martwy}
+{179}{}{--Menu MÃ³zgÃ³w--                                                      
+ MÃ³zg UpoÅ›ledzony                                                    
+ MÃ³zg Szympansa - Martwy                                         
+ MÃ³zg CzÅ‚owieka - Martwy                                           
+ MÃ³zg Cybernetyczny - Martwy}
 {180}{}{}
 {185}{}{}
 {189}{}{}
 {193}{}{}
-{196}{}{Mózg Upoœledzony}
-{197}{}{Mózg Szympansa}
-{198}{}{Mózg Cz³owieka}
-{199}{}{Mózg Cybernetyczny}
-{200}{}{[Chocia¿ odczyty wskazuj¹, ¿e ten mózg jest ¿ywy, poziomy  
- wyjœæ nerwowych s¹ du¿o poni¿ej normy.]                       
- Pobraæ?}
+{196}{}{MÃ³zg UpoÅ›ledzony}
+{197}{}{MÃ³zg Szympansa}
+{198}{}{MÃ³zg CzÅ‚owieka}
+{199}{}{MÃ³zg Cybernetyczny}
+{200}{}{[ChociaÅ¼ odczyty wskazujÄ…, Å¼e ten mÃ³zg jest Å¼ywy, poziomy  
+ wyjÅ›Ä‡ nerwowych sÄ… duÅ¼o poniÅ¼ej normy.]                       
+ PobraÄ‡?}
 {201}{}{}
 {202}{}{Tak}
 {203}{}{Nie}
-{204}{}{[Fale mózgowe s¹ aktywne, ale ró¿ni¹ siê od tych, które       
- ma mózg cz³owieka.]                                                 
- Pobraæ?}
-{208}{}{[Aktywnoœæ mózgu jest taka jak u przeciêtnego cz³owieka.]  
- Pobraæ?}
-{212}{}{[Aktywnoœæ mózgu przebija wszystkie skale! Na oko sygna³y  
- s¹ zarówno pochodzenia ludzkiego jak i cyfrowego.]           
- Pobraæ?}
-{216}{}{[Robot szybko odje¿d¿a by pobraæ twój mózg. Kiedy wraca, dostrzegasz, ¿e ma jakieœ problemy. Przypuszczenia potwierdzaj¹ siê, gdy robot niespodziewanie wybucha. Na szczêœcie dla ciebie, uda³o mu siê dostarczyæ mózg, zanim siê rozpad³.]}
-{217}{}{WyjdŸ.}
-{218}{}{--Menu Zw³ok--                                                        
+{204}{}{[Fale mÃ³zgowe sÄ… aktywne, ale rÃ³Å¼niÄ… siÄ™ od tych, ktÃ³re       
+ ma mÃ³zg czÅ‚owieka.]                                                 
+ PobraÄ‡?}
+{208}{}{[AktywnoÅ›Ä‡ mÃ³zgu jest taka jak u przeciÄ™tnego czÅ‚owieka.]  
+ PobraÄ‡?}
+{212}{}{[AktywnoÅ›Ä‡ mÃ³zgu przebija wszystkie skale! Na oko sygnaÅ‚y  
+ sÄ… zarÃ³wno pochodzenia ludzkiego jak i cyfrowego.]           
+ PobraÄ‡?}
+{216}{}{[Robot szybko odjeÅ¼dÅ¼a by pobraÄ‡ twÃ³j mÃ³zg. Kiedy wraca, dostrzegasz, Å¼e ma jakieÅ› problemy. Przypuszczenia potwierdzajÄ… siÄ™, gdy robot niespodziewanie wybucha. Na szczÄ™Å›cie dla ciebie, udaÅ‚o mu siÄ™ dostarczyÄ‡ mÃ³zg, zanim siÄ™ rozpadÅ‚.]}
+{217}{}{WyjdÅº.}
+{218}{}{--Menu ZwÅ‚ok--                                                        
  Szeregowy Dobbs}
 {219}{}{}
 {220}{}{Pobierz Szeregowego Dobbsa}
-{221}{}{Wróæ do G³ównego Menu Pobierania}
-{222}{}{WyjdŸ.}
-{223}{}{[Wnosz¹c z odczytów, szeregowy Dobbs jest ¿ywy!             
- Umieszczono go w zbiorniku regeneracyjnym, zawieraj¹cym   
- Eksperymentalny ¯el Biomedyczny.]                               
- Pobraæ?}
+{221}{}{WrÃ³Ä‡ do GÅ‚Ã³wnego Menu Pobierania}
+{222}{}{WyjdÅº.}
+{223}{}{[WnoszÄ…c z odczytÃ³w, szeregowy Dobbs jest Å¼ywy!             
+ Umieszczono go w zbiorniku regeneracyjnym, zawierajÄ…cym   
+ Eksperymentalny Å»el Biomedyczny.]                               
+ PobraÄ‡?}
 {224}{}{}
 {225}{}{Tak}
 {226}{}{Nie}
-{227}{}{[Cia³o Szeregowego Dobbsa le¿y teraz u twych stóp, ale ku twemu zaskoczeniu, wstaje i zaczyna do ciebie mówiæ. Zabawne, wcale nie wygl¹da na trupa.]}
-{228}{}{WyjdŸ.}
-{229}{}{W tej chwili w magazynie nie ma ¿adnych zw³ok.}
-{230}{}{Wróæ do G³ównego Menu Pobierania}
-{231}{}{WyjdŸ.}
-{232}{}{[Mimo i¿ na w³asne oczy widzisz puste pojemniki, odczyty wskazuj¹, ¿e s¹ one pe³ne. Widocznie w programie jest jakiœ b³¹d. Zreszt¹ kto by siê tym przejmowa³.]}
-{233}{}{Wróæ do Menu G³ównego}
-{234}{}{WyjdŸ. }
-{300}{}{ nie mo¿e odczytaæ tego, co wyœwietla monitor.}
+{227}{}{[CiaÅ‚o Szeregowego Dobbsa leÅ¼y teraz u twych stÃ³p, ale ku twemu zaskoczeniu, wstaje i zaczyna do ciebie mÃ³wiÄ‡. Zabawne, wcale nie wyglÄ…da na trupa.]}
+{228}{}{WyjdÅº.}
+{229}{}{W tej chwili w magazynie nie ma Å¼adnych zwÅ‚ok.}
+{230}{}{WrÃ³Ä‡ do GÅ‚Ã³wnego Menu Pobierania}
+{231}{}{WyjdÅº.}
+{232}{}{[Mimo iÅ¼ na wÅ‚asne oczy widzisz puste pojemniki, odczyty wskazujÄ…, Å¼e sÄ… one peÅ‚ne. Widocznie w programie jest jakiÅ› bÅ‚Ä…d. ZresztÄ… kto by siÄ™ tym przejmowaÅ‚.]}
+{233}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{234}{}{WyjdÅº. }
+{300}{}{ nie moÅ¼e odczytaÄ‡ tego, co wyÅ›wietla monitor.}

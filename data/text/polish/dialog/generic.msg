@@ -1,21 +1,21 @@
 {100}{}{Zdobywasz }
 {101}{}{ PD.}
-{102}{}{Rozbrajasz pu³apkê.}
-{103}{}{Nie uda³o ci siê rozbroiæ pu³apki.}
-{104}{}{Przypadkowo uruchamiasz pu³apkê.}
-{105}{}{ rozbraja pu³apkê.}
-{106}{}{ nie daje rady rozbroiæ pu³apki.}
-{107}{}{ przypadkowo uruchamia pu³apkê.}
-{200}{}{Dziêkujê.}
-{201}{}{Dzieñ dobry.}
-{202}{}{Dziêkujê.}
-{203}{}{Dziêki!}
-{204}{}{Nie, dziêkujê.}
-{205}{}{Nie, dziêkujê.}
+{102}{}{Rozbrajasz puÅ‚apkÄ™.}
+{103}{}{Nie udaÅ‚o ci siÄ™ rozbroiÄ‡ puÅ‚apki.}
+{104}{}{Przypadkowo uruchamiasz puÅ‚apkÄ™.}
+{105}{}{ rozbraja puÅ‚apkÄ™.}
+{106}{}{ nie daje rady rozbroiÄ‡ puÅ‚apki.}
+{107}{}{ przypadkowo uruchamia puÅ‚apkÄ™.}
+{200}{}{DziÄ™kujÄ™.}
+{201}{}{DzieÅ„ dobry.}
+{202}{}{DziÄ™kujÄ™.}
+{203}{}{DziÄ™ki!}
+{204}{}{Nie, dziÄ™kujÄ™.}
+{205}{}{Nie, dziÄ™kujÄ™.}
 {206}{}{Jasne.}
 {207}{}{Tak.}
 {208}{}{Nie.}
-{209}{}{W porz¹dku.}
+{209}{}{W porzÄ…dku.}
 {300}{}{Ug.}
 {301}{}{Eeee.}
 {302}{}{Uuga.}
@@ -25,191 +25,191 @@
 {352}{}{[KONTYNUUJ]}
 {353}{}{[KONTYNUUJ]}
 {354}{}{[WALKA]}
-{355}{}{[DAJ PIENI¥DZE]}
+{355}{}{[DAJ PIENIÄ„DZE]}
 {375}{}{Bywaj.}
-{376}{}{¯egnaj.}
-{400}{}{Umierasz na skutek œmiertelnego zastrzyku doktora Troya.}
+{376}{}{Å»egnaj.}
+{400}{}{Umierasz na skutek Å›miertelnego zastrzyku doktora Troya.}
 {450}{}{Droga wolna. Ruszajmy!}
-{900}{}{Te stare, wyœwiechtane drzwi zapewne mo¿na zniszczyæ dobrze umiejscowionym ³adunkiem wybuchowym.}
-{901}{}{Widzisz wóz na niewolników, któru ma ich zabraæ z powrotem do Nory.}
+{900}{}{Te stare, wyÅ›wiechtane drzwi zapewne moÅ¼na zniszczyÄ‡ dobrze umiejscowionym Å‚adunkiem wybuchowym.}
+{901}{}{Widzisz wÃ³z na niewolnikÃ³w, ktÃ³ru ma ich zabraÄ‡ z powrotem do Nory.}
 {905}{}{Hau! Hau!}
-{910}{}{Pora¿a ciê pod³oga pod napiêciem.}
-{911}{}{ ulega pora¿eniu przez pod³ogê pod napiêciem.}
-{912}{}{Poziom zasilania spada do zera, po czym wraca na 50% w chwili, gdy w³¹cza siê generator zapasowy.}
+{910}{}{PoraÅ¼a ciÄ™ podÅ‚oga pod napiÄ™ciem.}
+{911}{}{ ulega poraÅ¼eniu przez podÅ‚ogÄ™ pod napiÄ™ciem.}
+{912}{}{Poziom zasilania spada do zera, po czym wraca na 50% w chwili, gdy wÅ‚Ä…cza siÄ™ generator zapasowy.}
 {913}{}{Powrotowi zasilania do bazy towarzyszy cichy szum.}
-{920}{}{Wpadasz na szcz¹tki Nagora, który przyp³aci³ ¿yciem próbê uratowania swojego psa.}
-{921}{}{Nagor umar³ próbuj¹c przynieœæ cia³o psa z powrotem do wioski.}
+{920}{}{Wpadasz na szczÄ…tki Nagora, ktÃ³ry przypÅ‚aciÅ‚ Å¼yciem prÃ³bÄ™ uratowania swojego psa.}
+{921}{}{Nagor umarÅ‚ prÃ³bujÄ…c przynieÅ›Ä‡ ciaÅ‚o psa z powrotem do wioski.}
 {930}{}{Auuuuuu!}
-{950}{}{Poœwiêcasz trochê czasu na trenowanie kilku ciosów. Twoja umiejêtnoœæ walki bez broni roœnie.}
-{951}{}{Walcz¹cy kretoszczur zadaje œmiertelny cios.}
-{952}{}{Pojedynek dobiega koñca.}
+{950}{}{PoÅ›wiÄ™casz trochÄ™ czasu na trenowanie kilku ciosÃ³w. Twoja umiejÄ™tnoÅ›Ä‡ walki bez broni roÅ›nie.}
+{951}{}{WalczÄ…cy kretoszczur zadaje Å›miertelny cios.}
+{952}{}{Pojedynek dobiega koÅ„ca.}
 {1000}{}{Test na obywatelstwo - Zd.}
-{1001}{}{Doniesiono McClure'owi o uzale¿nieniu Redding od Jetu.}
-{1002}{}{Handel z Redding zosta³ uwolniony.}
-{1003}{}{Unieszkodliwiasz pola si³owe.}
-{1004}{}{W³amujesz siê.}
-{1005}{}{Naprawiasz studniê.}
-{1006}{}{Hakeswill zosta³ postawiony przed obliczem sprawiedliwoœci.}
-{1007}{}{Procesor wydobywczy zosta³ dostarczony.}
-{1008}{}{Problem wdowy Rooney zosta³ rozwi¹zany.}
-{1009}{}{Uda³o ci siê przejœæ próby w Arroyo.}
-{1010}{}{Dr Troy otrzyma³ od ciebie przepis na antidotum.}
-{1011}{}{Reaktor zosta³ zniszczony.}
-{1012}{}{UWAGA! Ca³kowite ROZTOPIENIE rdzenia!}
+{1001}{}{Doniesiono McClure'owi o uzaleÅ¼nieniu Redding od Jetu.}
+{1002}{}{Handel z Redding zostaÅ‚ uwolniony.}
+{1003}{}{Unieszkodliwiasz pola siÅ‚owe.}
+{1004}{}{WÅ‚amujesz siÄ™.}
+{1005}{}{Naprawiasz studniÄ™.}
+{1006}{}{Hakeswill zostaÅ‚ postawiony przed obliczem sprawiedliwoÅ›ci.}
+{1007}{}{Procesor wydobywczy zostaÅ‚ dostarczony.}
+{1008}{}{Problem wdowy Rooney zostaÅ‚ rozwiÄ…zany.}
+{1009}{}{UdaÅ‚o ci siÄ™ przejÅ›Ä‡ prÃ³by w Arroyo.}
+{1010}{}{Dr Troy otrzymaÅ‚ od ciebie przepis na antidotum.}
+{1011}{}{Reaktor zostaÅ‚ zniszczony.}
+{1012}{}{UWAGA! CaÅ‚kowite ROZTOPIENIE rdzenia!}
 {1013}{}{UWAGA! TOKSYNY w wentylacji.}
-{1014}{}{Kopalnia Wannamigo zosta³a oczyszczona.}
-{1015}{}{Uda³o ci siê przebrn¹æ przez pokój - zagadkê.}
-{1016}{}{Uups, a co z GECKiem? Ciekawe, czy maj¹ tu jakiœ.}
-{1017}{}{Twój kod GECK rozsadza drzwi.}
-{1018}{}{To ju¿ koniec gangu Mortona.}
-{1019}{}{Udaje ci siê wy³¹czyæ p³yty pora¿aj¹ce.}
-{1020}{}{Udaje ci siê przerwaæ bójkê barow¹.}
-{1021}{}{Udaje ci siê wy³¹czyæ Terminal Napraw Robotów.}
+{1014}{}{Kopalnia Wannamigo zostaÅ‚a oczyszczona.}
+{1015}{}{UdaÅ‚o ci siÄ™ przebrnÄ…Ä‡ przez pokÃ³j - zagadkÄ™.}
+{1016}{}{Uups, a co z GECKiem? Ciekawe, czy majÄ… tu jakiÅ›.}
+{1017}{}{TwÃ³j kod GECK rozsadza drzwi.}
+{1018}{}{To juÅ¼ koniec gangu Mortona.}
+{1019}{}{Udaje ci siÄ™ wyÅ‚Ä…czyÄ‡ pÅ‚yty poraÅ¼ajÄ…ce.}
+{1020}{}{Udaje ci siÄ™ przerwaÄ‡ bÃ³jkÄ™ barowÄ….}
+{1021}{}{Udaje ci siÄ™ wyÅ‚Ä…czyÄ‡ Terminal Napraw RobotÃ³w.}
 {1050}{}{Wytwarzasz antidotum z jadu radskorpiona.}
-{1051}{}{Mieszaj¹c korzeñ xandrowy i kwiat broka uzyskujesz proszek leczniczy.}
-{1099}{}{GECK jest zbyt cenny dla wioski, ¿eby go tu tak po prostu upuœciæ.}
+{1051}{}{MieszajÄ…c korzeÅ„ xandrowy i kwiat broka uzyskujesz proszek leczniczy.}
+{1099}{}{GECK jest zbyt cenny dla wioski, Å¼eby go tu tak po prostu upuÅ›ciÄ‡.}
 {2000}{}{zero}
 {2001}{}{jeden}
 {2002}{}{dwa}
 {2003}{}{trzy}
 {2004}{}{cztery}
-{2005}{}{piêæ}
-{2006}{}{szeœæ}
-{2007}{}{siódemka}
+{2005}{}{piÄ™Ä‡}
+{2006}{}{szeÅ›Ä‡}
+{2007}{}{siÃ³demka}
 {2008}{}{osiem}
-{2009}{}{dziewiêæ}
-{2010}{}{dziesiêæ}
-{2011}{}{jedenaœcie}
-{2012}{}{dwanaœcie}
-{2013}{}{trzynaœcie}
-{2014}{}{czternaœcie}
-{2015}{}{piêtnaœcie}
-{2016}{}{szesnaœcie}
-{2017}{}{siedemnaœcie}
-{2018}{}{osiemnaœcie}
-{2019}{}{dziewiêtnaœcie}
-{2021}{}{dwadzieœcia jeden}
-{2022}{}{dwadzieœcia dwa}
-{2023}{}{dwadzieœcia trzy}
-{2024}{}{dwadzieœcia cztery}
-{2025}{}{dwadzieœcia piêæ}
-{2026}{}{dwadzieœcia szeœæ}
-{2027}{}{dwadzieœcia siedem}
-{2028}{}{dwadzieœcia osiem}
-{2029}{}{dwadzieœcia dziewiêæ}
-{2030}{}{trzydzieœci}
-{2031}{}{trzydzieœci jeden}
-{2032}{}{trzydzieœci dwa}
-{2033}{}{trzydzieœci trzy}
-{2034}{}{trzydzieœci cztery}
-{2035}{}{trzydzieœci piêæ}
-{2036}{}{trzydzieœci szeœæ}
-{2037}{}{trzydzieœci siedem}
-{2038}{}{trzydzieœci osiem}
-{2039}{}{trzydzieœci dziewiêæ}
-{2040}{}{czterdzieœci}
-{2041}{}{czterdzieœci jeden}
-{2042}{}{czterdzieœci dwa}
-{2043}{}{czterdzieœci trzy}
-{2044}{}{czterdzieœci cztery}
-{2045}{}{czterdzieœci piêæ}
-{2046}{}{czterdzieœci szeœæ}
-{2047}{}{czterdzieœci siedem}
-{2048}{}{czterdzieœci osiem}
-{2049}{}{czterdzieœci dziewiêæ}
-{2050}{}{piêædziesi¹t}
-{2051}{}{piêædziesi¹t jeden}
-{2052}{}{piêædziesi¹t dwa}
-{2053}{}{piêædziesi¹t trzy}
-{2054}{}{piêædziesi¹t cztery}
-{2055}{}{piêædziesi¹t piêæ}
-{2056}{}{piêædziesi¹t szeœæ}
-{2057}{}{piêædziesi¹t siedem}
-{2058}{}{piêædziesi¹t osiem}
-{2059}{}{piêædziesi¹t dziewiêæ}
-{2060}{}{szeœædziesi¹t}
-{2061}{}{szeœædziesi¹t jeden}
-{2062}{}{szeœædziesi¹t dwa}
-{2063}{}{szeœædziesi¹t trzy}
-{2064}{}{szeœædziesi¹t cztery}
-{2065}{}{szeœædziesi¹t piêæ}
-{2066}{}{szeœædziesi¹t szeœæ}
-{2067}{}{szeœædziesi¹t siedem}
-{2068}{}{szeœædziesi¹t osiem}
-{2069}{}{szeœædziesi¹t dziewiêæ}
-{2070}{}{siedemdziesi¹t}
-{2071}{}{siedemdziesi¹t jeden}
-{2072}{}{siedemdziesi¹t dwa}
-{2073}{}{siedemdziesi¹t trzy}
-{2074}{}{siedemdziesi¹t cztery}
-{2075}{}{siedemdziesi¹t piêæ}
-{2076}{}{siedemdziesi¹t szeœæ}
-{2077}{}{siedemdziesi¹t siedem}
-{2078}{}{siedemdziesi¹t osiem}
-{2079}{}{siedemdziesi¹t dziewiêæ}
-{2080}{}{osiemdziesi¹t}
-{2081}{}{osiemdziesi¹t jeden}
-{2082}{}{osiemdziesi¹t dwa}
-{2083}{}{osiemdziesi¹t trzy}
-{2084}{}{osiemdziesi¹t cztery}
-{2085}{}{osiemdziesi¹t piêæ}
-{2086}{}{osiemdziesi¹t szeœæ}
-{2087}{}{osiemdziesi¹t siedem}
-{2088}{}{osiemdziesi¹t osiem}
-{2089}{}{osiemdziesi¹t dziewiêæ}
-{2090}{}{dziewiêædziesi¹t}
-{2091}{}{dziewiêædziesi¹t jeden}
-{2092}{}{dziewiêædziesi¹t dwa}
-{2093}{}{dziewiêædziesi¹t trzy}
-{2094}{}{dziewiêædziesi¹t cztery}
-{2095}{}{dziewiêædziesi¹t piêæ}
-{2096}{}{dziewiêædziesi¹t szeœæ}
-{2097}{}{dziewiêædziesi¹t siedem}
-{2098}{}{dziewiêædziesi¹t osiem}
-{2099}{}{dziewiêædziesi¹t dziewiêæ}
+{2009}{}{dziewiÄ™Ä‡}
+{2010}{}{dziesiÄ™Ä‡}
+{2011}{}{jedenaÅ›cie}
+{2012}{}{dwanaÅ›cie}
+{2013}{}{trzynaÅ›cie}
+{2014}{}{czternaÅ›cie}
+{2015}{}{piÄ™tnaÅ›cie}
+{2016}{}{szesnaÅ›cie}
+{2017}{}{siedemnaÅ›cie}
+{2018}{}{osiemnaÅ›cie}
+{2019}{}{dziewiÄ™tnaÅ›cie}
+{2021}{}{dwadzieÅ›cia jeden}
+{2022}{}{dwadzieÅ›cia dwa}
+{2023}{}{dwadzieÅ›cia trzy}
+{2024}{}{dwadzieÅ›cia cztery}
+{2025}{}{dwadzieÅ›cia piÄ™Ä‡}
+{2026}{}{dwadzieÅ›cia szeÅ›Ä‡}
+{2027}{}{dwadzieÅ›cia siedem}
+{2028}{}{dwadzieÅ›cia osiem}
+{2029}{}{dwadzieÅ›cia dziewiÄ™Ä‡}
+{2030}{}{trzydzieÅ›ci}
+{2031}{}{trzydzieÅ›ci jeden}
+{2032}{}{trzydzieÅ›ci dwa}
+{2033}{}{trzydzieÅ›ci trzy}
+{2034}{}{trzydzieÅ›ci cztery}
+{2035}{}{trzydzieÅ›ci piÄ™Ä‡}
+{2036}{}{trzydzieÅ›ci szeÅ›Ä‡}
+{2037}{}{trzydzieÅ›ci siedem}
+{2038}{}{trzydzieÅ›ci osiem}
+{2039}{}{trzydzieÅ›ci dziewiÄ™Ä‡}
+{2040}{}{czterdzieÅ›ci}
+{2041}{}{czterdzieÅ›ci jeden}
+{2042}{}{czterdzieÅ›ci dwa}
+{2043}{}{czterdzieÅ›ci trzy}
+{2044}{}{czterdzieÅ›ci cztery}
+{2045}{}{czterdzieÅ›ci piÄ™Ä‡}
+{2046}{}{czterdzieÅ›ci szeÅ›Ä‡}
+{2047}{}{czterdzieÅ›ci siedem}
+{2048}{}{czterdzieÅ›ci osiem}
+{2049}{}{czterdzieÅ›ci dziewiÄ™Ä‡}
+{2050}{}{piÄ™Ä‡dziesiÄ…t}
+{2051}{}{piÄ™Ä‡dziesiÄ…t jeden}
+{2052}{}{piÄ™Ä‡dziesiÄ…t dwa}
+{2053}{}{piÄ™Ä‡dziesiÄ…t trzy}
+{2054}{}{piÄ™Ä‡dziesiÄ…t cztery}
+{2055}{}{piÄ™Ä‡dziesiÄ…t piÄ™Ä‡}
+{2056}{}{piÄ™Ä‡dziesiÄ…t szeÅ›Ä‡}
+{2057}{}{piÄ™Ä‡dziesiÄ…t siedem}
+{2058}{}{piÄ™Ä‡dziesiÄ…t osiem}
+{2059}{}{piÄ™Ä‡dziesiÄ…t dziewiÄ™Ä‡}
+{2060}{}{szeÅ›Ä‡dziesiÄ…t}
+{2061}{}{szeÅ›Ä‡dziesiÄ…t jeden}
+{2062}{}{szeÅ›Ä‡dziesiÄ…t dwa}
+{2063}{}{szeÅ›Ä‡dziesiÄ…t trzy}
+{2064}{}{szeÅ›Ä‡dziesiÄ…t cztery}
+{2065}{}{szeÅ›Ä‡dziesiÄ…t piÄ™Ä‡}
+{2066}{}{szeÅ›Ä‡dziesiÄ…t szeÅ›Ä‡}
+{2067}{}{szeÅ›Ä‡dziesiÄ…t siedem}
+{2068}{}{szeÅ›Ä‡dziesiÄ…t osiem}
+{2069}{}{szeÅ›Ä‡dziesiÄ…t dziewiÄ™Ä‡}
+{2070}{}{siedemdziesiÄ…t}
+{2071}{}{siedemdziesiÄ…t jeden}
+{2072}{}{siedemdziesiÄ…t dwa}
+{2073}{}{siedemdziesiÄ…t trzy}
+{2074}{}{siedemdziesiÄ…t cztery}
+{2075}{}{siedemdziesiÄ…t piÄ™Ä‡}
+{2076}{}{siedemdziesiÄ…t szeÅ›Ä‡}
+{2077}{}{siedemdziesiÄ…t siedem}
+{2078}{}{siedemdziesiÄ…t osiem}
+{2079}{}{siedemdziesiÄ…t dziewiÄ™Ä‡}
+{2080}{}{osiemdziesiÄ…t}
+{2081}{}{osiemdziesiÄ…t jeden}
+{2082}{}{osiemdziesiÄ…t dwa}
+{2083}{}{osiemdziesiÄ…t trzy}
+{2084}{}{osiemdziesiÄ…t cztery}
+{2085}{}{osiemdziesiÄ…t piÄ™Ä‡}
+{2086}{}{osiemdziesiÄ…t szeÅ›Ä‡}
+{2087}{}{osiemdziesiÄ…t siedem}
+{2088}{}{osiemdziesiÄ…t osiem}
+{2089}{}{osiemdziesiÄ…t dziewiÄ™Ä‡}
+{2090}{}{dziewiÄ™Ä‡dziesiÄ…t}
+{2091}{}{dziewiÄ™Ä‡dziesiÄ…t jeden}
+{2092}{}{dziewiÄ™Ä‡dziesiÄ…t dwa}
+{2093}{}{dziewiÄ™Ä‡dziesiÄ…t trzy}
+{2094}{}{dziewiÄ™Ä‡dziesiÄ…t cztery}
+{2095}{}{dziewiÄ™Ä‡dziesiÄ…t piÄ™Ä‡}
+{2096}{}{dziewiÄ™Ä‡dziesiÄ…t szeÅ›Ä‡}
+{2097}{}{dziewiÄ™Ä‡dziesiÄ…t siedem}
+{2098}{}{dziewiÄ™Ä‡dziesiÄ…t osiem}
+{2099}{}{dziewiÄ™Ä‡dziesiÄ…t dziewiÄ™Ä‡}
 {2100}{}{sto}
 {3000}{}{}
 {3025}{}{}
-{3050}{}{Jeœli spróbujesz jeszcze raz, zabijê jak psa.}
-{3051}{}{Pajacu, nie mam nic, co mo¿na by ukraœæ.}
-{3052}{}{Nie s¹dzê, ¿eby nasza znajomoœæ by³a a¿ *tak* bliska.}
-{3053}{}{Jeszcze raz tego dotniesz, a ka¿ê ci za to zap³aciæ.}
-{3054}{}{Zabieraj te ³apy}
-{3055}{}{Rób tak dalej, to ci urwê g³owê.}
-{3056}{}{Rêce przy sobie!}
-{3057}{}{Szukasz k³opotów?}
+{3050}{}{JeÅ›li sprÃ³bujesz jeszcze raz, zabijÄ™ jak psa.}
+{3051}{}{Pajacu, nie mam nic, co moÅ¼na by ukraÅ›Ä‡.}
+{3052}{}{Nie sÄ…dzÄ™, Å¼eby nasza znajomoÅ›Ä‡ byÅ‚a aÅ¼ *tak* bliska.}
+{3053}{}{Jeszcze raz tego dotniesz, a kaÅ¼Ä™ ci za to zapÅ‚aciÄ‡.}
+{3054}{}{Zabieraj te Å‚apy}
+{3055}{}{RÃ³b tak dalej, to ci urwÄ™ gÅ‚owÄ™.}
+{3056}{}{RÄ™ce przy sobie!}
+{3057}{}{Szukasz kÅ‚opotÃ³w?}
 {3058}{}{Dotknij mnie jeszcze raz, to zginiesz.}
-{3059}{}{Tylko k³opoty s¹ za darmo.}
-{3060}{}{Hej! Odwal siê.}
-{3061}{}{Pilnuj siê!}
-{3062}{}{Chceta wykorkowaæ?}
-{3063}{}{Spróbuj jeszcze raz, a rozwalê ci ³eb.}
-{3064}{}{To moje, rêce precz!}
+{3059}{}{Tylko kÅ‚opoty sÄ… za darmo.}
+{3060}{}{Hej! Odwal siÄ™.}
+{3061}{}{Pilnuj siÄ™!}
+{3062}{}{Chceta wykorkowaÄ‡?}
+{3063}{}{SprÃ³buj jeszcze raz, a rozwalÄ™ ci Å‚eb.}
+{3064}{}{To moje, rÄ™ce precz!}
 {3075}{}{}
 {3100}{}{}
 {3300}{}{}
-{3325}{}{A mo¿e jednak od³ó¿ wszystko tam, gdzie le¿a³o?}
-{3326}{}{Wiesz, to nie³adnie zabieraæ cudze.}
-{3327}{}{Zabieraj siê stamd¹d je³opo!}
-{3328}{}{Nie wyskakuj mi tu z gadk¹, ¿e "szukasz swoich kluczy". Zabieraj siê st¹d!}
-{3329}{}{Bez wzglêdu na to, czego szukasz, tu go nie ma. Zrozumiano?}
+{3325}{}{A moÅ¼e jednak odÅ‚Ã³Å¼ wszystko tam, gdzie leÅ¼aÅ‚o?}
+{3326}{}{Wiesz, to nieÅ‚adnie zabieraÄ‡ cudze.}
+{3327}{}{Zabieraj siÄ™ stamdÄ…d jeÅ‚opo!}
+{3328}{}{Nie wyskakuj mi tu z gadkÄ…, Å¼e "szukasz swoich kluczy". Zabieraj siÄ™ stÄ…d!}
+{3329}{}{Bez wzglÄ™du na to, czego szukasz, tu go nie ma. Zrozumiano?}
 {3350}{}{}
 {3375}{}{}
 {3400}{}{}
 {3600}{}{}
 {3625}{}{Hej, ty! Co tak przy tym majdrujesz?}
-{3626}{}{Jeœli nie masz w rêku klucza, lepiej siê odsuñ.}
-{3627}{}{To nie jest zamkniête przypadkiem, je³opo.}
-{3628}{}{Zostaw to zanim wpakujesz siê w k³opoty!}
+{3626}{}{JeÅ›li nie masz w rÄ™ku klucza, lepiej siÄ™ odsuÅ„.}
+{3627}{}{To nie jest zamkniÄ™te przypadkiem, jeÅ‚opo.}
+{3628}{}{Zostaw to zanim wpakujesz siÄ™ w kÅ‚opoty!}
 {3650}{}{}
 {3675}{}{}
 {3700}{}{}
 {3900}{}{}
 {3925}{}{Hej ty! Co tu robisz?}
-{3926}{}{Nie powinno ciê tutaj byæ!}
-{3927}{}{Jeœli myœlisz, ¿e przejdziesz obok mnie tak po prostu, to siê rozczarujesz!}
-{3928}{}{Lepiej nie planuj tego, co mi siê wydaje, ¿e planujesz.}
-{3929}{}{Co? Niby myœlisz, ¿e ciê nie widzê? Spadaj st¹d!}
+{3926}{}{Nie powinno ciÄ™ tutaj byÄ‡!}
+{3927}{}{JeÅ›li myÅ›lisz, Å¼e przejdziesz obok mnie tak po prostu, to siÄ™ rozczarujesz!}
+{3928}{}{Lepiej nie planuj tego, co mi siÄ™ wydaje, Å¼e planujesz.}
+{3929}{}{Co? Niby myÅ›lisz, Å¼e ciÄ™ nie widzÄ™? Spadaj stÄ…d!}
 {3950}{}{}
 {3975}{}{}
 {4000}{}{}
@@ -233,28 +233,28 @@
 {5150}{}{}
 {5175}{}{}
 {5200}{}{}
-{5400}{}{Zabieraj siê od tego.}
-{9000}{}{Naprawy zakoñczone.}
-{9001}{}{Prze³adowanie zakoñczone.}
-{9002}{}{Trwa naprawa g³ównych uszkodzeñ.}
-{10000}{}{Powiedz mi coœ...}
-{10001}{}{Myœlê, ¿e to dobra pora, ¿eby siê podleczyæ.}
-{10002}{}{Poczekaj tu a¿ wrócê, dobrze?}
-{10003}{}{Schowaj broñ.}
-{10004}{}{B¹dŸ blisko mnie.}
-{10005}{}{Nie odchodŸ za daleko.}
-{10006}{}{Musimy siê trochê rozsun¹æ.}
+{5400}{}{Zabieraj siÄ™ od tego.}
+{9000}{}{Naprawy zakoÅ„czone.}
+{9001}{}{PrzeÅ‚adowanie zakoÅ„czone.}
+{9002}{}{Trwa naprawa gÅ‚Ã³wnych uszkodzeÅ„.}
+{10000}{}{Powiedz mi coÅ›...}
+{10001}{}{MyÅ›lÄ™, Å¼e to dobra pora, Å¼eby siÄ™ podleczyÄ‡.}
+{10002}{}{Poczekaj tu aÅ¼ wrÃ³cÄ™, dobrze?}
+{10003}{}{Schowaj broÅ„.}
+{10004}{}{BÄ…dÅº blisko mnie.}
+{10005}{}{Nie odchodÅº za daleko.}
+{10006}{}{Musimy siÄ™ trochÄ™ rozsunÄ…Ä‡.}
 {10007}{}{To tyle. Przynajmniej na razie.}
-{10008}{}{Musimy zmieniæ odleg³oœæ miêdzy nami.}
-{10009}{}{Muszê z tob¹ porozmawiaæ o walce.}
-{10010}{}{Chocia¿... ten dystans jest odpowiedni.}
-{10011}{}{W³aœciwie to nie musimy rozmawiaæ o walce.}
-{10012}{}{Zdejmij swój pancerz.}
-{10013}{}{Powiedz mi, jakiego rodzaju broni u¿ywasz.}
+{10008}{}{Musimy zmieniÄ‡ odlegÅ‚oÅ›Ä‡ miÄ™dzy nami.}
+{10009}{}{MuszÄ™ z tobÄ… porozmawiaÄ‡ o walce.}
+{10010}{}{ChociaÅ¼... ten dystans jest odpowiedni.}
+{10011}{}{WÅ‚aÅ›ciwie to nie musimy rozmawiaÄ‡ o walce.}
+{10012}{}{Zdejmij swÃ³j pancerz.}
+{10013}{}{Powiedz mi, jakiego rodzaju broni uÅ¼ywasz.}
 {10100}{}{Ruszajmy.}
 {20000}{}{To niczego nie robi.}
-{20100}{}{Te drzwi nie maj¹ zamka.}
-{21020}{}{dwadzieœcia}
-{30000}{}{Okradasz w³asne plemiê.}
+{20100}{}{Te drzwi nie majÄ… zamka.}
+{21020}{}{dwadzieÅ›cia}
+{30000}{}{Okradasz wÅ‚asne plemiÄ™.}
 {40000}{}{Slot Jinxera}
-{40001}{}{Inteligentny toster zdradzi³ tobie sekretny sposób pozwalaj¹cy, na wydobycie z maszyn ca³ej gotówki jak¹ tylko posiadaj¹. Niestety, w trakcie w³amywania, maszyna ulega uszkodzeniu. Ups!}
+{40001}{}{Inteligentny toster zdradziÅ‚ tobie sekretny sposÃ³b pozwalajÄ…cy, na wydobycie z maszyn caÅ‚ej gotÃ³wki jakÄ… tylko posiadajÄ…. Niestety, w trakcie wÅ‚amywania, maszyna ulega uszkodzeniu. Ups!}

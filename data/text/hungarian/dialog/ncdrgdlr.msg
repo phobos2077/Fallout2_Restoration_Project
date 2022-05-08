@@ -1,60 +1,60 @@
-{150}{}{A férfi gy?rött ruhát visel. Id?nként megvakarja az orrát és ide-oda leseget.}
+{150}{}{A fÃ©rfi gy?rÃ¶tt ruhÃ¡t visel. Id?nkÃ©nt megvakarja az orrÃ¡t Ã©s ide-oda leseget.}
 {151}{}{You see a drug dealer.}
 {152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
-{200}{}{Hé, te h?s! Nem akarsz Jettel ünnepelni? Gyere, beszéljük meg!}
-{201}{}{Frankón seggbe rúgtad az Enklávét! Valóságos h?s vagy! Nem akarsz lazítani, és egy kis Jettel megünnepelni a nagy eseményt?}
-{202}{}{::Éljenez::}
-{203}{}{::Fütyül::}
-{204}{}{Az Enklávé rendberakása után nincs is jobb egy kis Jetnél! Nincs igazam?}
-{205}{}{Olyan cuccom van énnekem, amit?l az egekig repülsz, te kis h?s!}
-{206}{}{Tapasztalt vagy már?}
-{207}{}{H?söm, ha az agyadat akarod kenegetni, gyere üzleteljünk. Neked az összes szaromat olcsóbban adom.}
-{208}{}{Én tudom, mi után kajtatsz, barátom, és nálam meg is találod. Bármennyi Jet is kelljen, nálam megkapod.}
-{209}{}{Miért sétálsz, ha repülhetnél is?}
-{210}{}{Én árulom a legtisztább Jetet a városban. Nem olcsó, de az utolsó szemig megéri a pénzét.}
-{211}{}{Repülni szeretnél? Pénzed van? Akkor gyere hozzám!}
-{212}{}{Olyan anyagom van, amit?l elszállsz az égbe, barátom.}
-{213}{}{Teli vagyok Jettel, és még annál is több Jetem van. Nézd csak meg!}
-{214}{}{Csak mondd meg, miben segíthetek, h?söm! Mondd el, mire van szükséged, és én a legjobb áron hozzájuttatlak.}
-{215}{}{Szóval egy kis Jettel szeretnél ünnepelni, h?söm? A legjobb helyen jársz. Csak neked mindenb?l a jobbat adom.}
-{216}{}{A legkevesebb, hogy neked, a h?snek, mindent olcsóbban adok. Ez semmiség ahhoz képest, hogy megmentetted az irhánkat.}
-{217}{}{Az Enklávé lenyomása után nincs is jobb egy jó kis Jetnél, mi? Igazam van? Az árumból a legjobbat adom neked.}
+{200}{}{HÃ©, te h?s! Nem akarsz Jettel Ã¼nnepelni? Gyere, beszÃ©ljÃ¼k meg!}
+{201}{}{FrankÃ³n seggbe rÃºgtad az EnklÃ¡vÃ©t! ValÃ³sÃ¡gos h?s vagy! Nem akarsz lazÃ­tani, Ã©s egy kis Jettel megÃ¼nnepelni a nagy esemÃ©nyt?}
+{202}{}{::Ã‰ljenez::}
+{203}{}{::FÃ¼tyÃ¼l::}
+{204}{}{Az EnklÃ¡vÃ© rendberakÃ¡sa utÃ¡n nincs is jobb egy kis JetnÃ©l! Nincs igazam?}
+{205}{}{Olyan cuccom van Ã©nnekem, amit?l az egekig repÃ¼lsz, te kis h?s!}
+{206}{}{Tapasztalt vagy mÃ¡r?}
+{207}{}{H?sÃ¶m, ha az agyadat akarod kenegetni, gyere Ã¼zleteljÃ¼nk. Neked az Ã¶sszes szaromat olcsÃ³bban adom.}
+{208}{}{Ã‰n tudom, mi utÃ¡n kajtatsz, barÃ¡tom, Ã©s nÃ¡lam meg is talÃ¡lod. BÃ¡rmennyi Jet is kelljen, nÃ¡lam megkapod.}
+{209}{}{MiÃ©rt sÃ©tÃ¡lsz, ha repÃ¼lhetnÃ©l is?}
+{210}{}{Ã‰n Ã¡rulom a legtisztÃ¡bb Jetet a vÃ¡rosban. Nem olcsÃ³, de az utolsÃ³ szemig megÃ©ri a pÃ©nzÃ©t.}
+{211}{}{RepÃ¼lni szeretnÃ©l? PÃ©nzed van? Akkor gyere hozzÃ¡m!}
+{212}{}{Olyan anyagom van, amit?l elszÃ¡llsz az Ã©gbe, barÃ¡tom.}
+{213}{}{Teli vagyok Jettel, Ã©s mÃ©g annÃ¡l is tÃ¶bb Jetem van. NÃ©zd csak meg!}
+{214}{}{Csak mondd meg, miben segÃ­thetek, h?sÃ¶m! Mondd el, mire van szÃ¼ksÃ©ged, Ã©s Ã©n a legjobb Ã¡ron hozzÃ¡juttatlak.}
+{215}{}{SzÃ³val egy kis Jettel szeretnÃ©l Ã¼nnepelni, h?sÃ¶m? A legjobb helyen jÃ¡rsz. Csak neked mindenb?l a jobbat adom.}
+{216}{}{A legkevesebb, hogy neked, a h?snek, mindent olcsÃ³bban adok. Ez semmisÃ©g ahhoz kÃ©pest, hogy megmentetted az irhÃ¡nkat.}
+{217}{}{Az EnklÃ¡vÃ© lenyomÃ¡sa utÃ¡n nincs is jobb egy jÃ³ kis JetnÃ©l, mi? Igazam van? Az Ã¡rumbÃ³l a legjobbat adom neked.}
 {218}{}{I got shit that'll help you kiss the sky, hero. And for you: a nice discount. How does that sound?}
 {219}{}{Cukorka van?}
-{220}{}{Elpályázol}
+{220}{}{ElpÃ¡lyÃ¡zol}
 {221}{}{Mid van?}
-{222}{}{Most semmit nem akarok, kösz.}
-{230}{}{Hé, hé... egy igazi nagysággal állok szemben. Számodra, barátom, a legjobbat adom mindenb?l. Mondd el a barátaidnak is, rendben?}
-{231}{}{Bulizni akarsz, és Jet kell hozzá, barátom? A legjobb helyen jársz. Számodra mindenb?l a legjobbat adom.}
-{232}{}{Annyi Jetem van, hogy föld körüli pályára állnál t?le. Ami viszont a legszebb, hogy árengedményt adok. Beszéljünk az árról?}
+{222}{}{Most semmit nem akarok, kÃ¶sz.}
+{230}{}{HÃ©, hÃ©... egy igazi nagysÃ¡ggal Ã¡llok szemben. SzÃ¡modra, barÃ¡tom, a legjobbat adom mindenb?l. Mondd el a barÃ¡taidnak is, rendben?}
+{231}{}{Bulizni akarsz, Ã©s Jet kell hozzÃ¡, barÃ¡tom? A legjobb helyen jÃ¡rsz. SzÃ¡modra mindenb?l a legjobbat adom.}
+{232}{}{Annyi Jetem van, hogy fÃ¶ld kÃ¶rÃ¼li pÃ¡lyÃ¡ra Ã¡llnÃ¡l t?le. Ami viszont a legszebb, hogy Ã¡rengedmÃ©nyt adok. BeszÃ©ljÃ¼nk az Ã¡rrÃ³l?}
 {233}{}{I got shit that'll help you kiss the sky, friend. And for you: a discount. That sound all right?}
-{234}{}{A legkevesebb, amit megtehetek érted, hogy leviszem az áraimat. Én így mutatom ki a barátságomat.}
-{235}{}{Klasszis vagy, tudtad? Klasszis. És amikor ilyen klasszisok üzletelnek velem, mindig árengedményt adok.}
-{236}{}{Csak mondd el, miben segíthetek neked, barátom. Mondd el a barátaidnak, és a legjobb renói áron vásárolhatsz t?lem.}
-{237}{}{Az egész napos rohanás után nincs is jobb egy kis Jetnél, nem igaz? Számodra mindenb?l a legjobbat adom.}
-{238}{}{Hé, hé... egy igazi nagysággal állok szemben. Számodra, kis hölgy, a legjobbat adom mindenb?l. Mondd el a barátaidnak is, rendben?}
-{239}{}{Bulizni akarsz, és Jet kell hozzá, kislány? A legjobb helyen jársz. Számodra mindenb?l a legjobbat adom.}
-{240}{}{Annyi Jetem van, hogy orbitális pályára állnál t?le, kislány. Ami viszont a legszebb, hogy árengedményt adok. Beszéljünk az árról?}
-{241}{}{Olyan cuccom van, amit?l az egekig repülsz, kis hölgy. Ráadásul engedményt is adok. Jól hangzik, mi?}
-{242}{}{A legkevesebb, amit megtehetek érted, kislány, hogy leviszem az áraimat. Én így mutatom ki a barátságomat.}
-{247}{}{Tudom, mit keresel, hajcsár, és nálam meg is kapod. Bármennyi Jet kell, t?lem megkaphatod.}
-{248}{}{Miért sétálnál, ha repülhetnél is? Te Jetet akarsz, t?lem viszont megveheted.}
-{249}{}{Hajcsár, nálam kapható a város legtisztább Jetje. Nem olcsó, de megéri az utolsó szemig.}
-{250}{}{Repülni akarsz, hajcsár? Pénzed van? Akkor gyere közelebb!}
-{251}{}{A nálam lév? anyagtól felszállsz az égbe, hajcsár.}
-{252}{}{Jet hegyek vannak nálam, és még annál is több. Gyere, nézz rá az árumra!}
-{253}{}{A nálam lév? Jett?l földkörüli pályára állnál, hajcsár. Gyere, beszéljük meg az árat!}
-{254}{}{Tapasztalt vagy, hajcsár? Hadd bódítsalak el a város legjobb min?ség? Jet-jével.}
-{255}{}{Jetet keresel? Gyerünk, hajcsár, kössünk üzletet!}
-{256}{}{Jetet keresel? Gyerünk, hajcsár, megbeszélhetjük a dolgot.}
-{261}{}{Én tudom, mi után kajtatsz, barátom, és nálam meg is találod. Bármennyi Jet is kelljen, nálam megkapod.}
-{262}{}{Miért sétálsz, ha repülhetnél is?}
-{263}{}{Nálam kapható a város legtisztább Jetje. Nem olcsó, de megéri a pénzt.}
-{264}{}{Repülni szeretnél? Dolcsi van nálad? Akkor gyere közelebb...}
-{265}{}{Olyan anyagom van, amit?l elszállsz az égbe, barátom.}
-{266}{}{Jet hegyek vannak nálam, és még annál is több. Gyere, nézz rá az árumra!}
-{267}{}{Elég Jet van nálam ahhoz, hogy földkörüli pályára állj t?le. Nem akarod megtekinteni?}
-{268}{}{Tapasztalt vagy már? Hadd dobjalak fel a város legjobb Jet-jével!}
-{269}{}{Jetre fáj a fogad? Üzleteljünk!}
-{270}{}{Jetre fáj a fogad? Beszélgessünk!}
+{234}{}{A legkevesebb, amit megtehetek Ã©rted, hogy leviszem az Ã¡raimat. Ã‰n Ã­gy mutatom ki a barÃ¡tsÃ¡gomat.}
+{235}{}{Klasszis vagy, tudtad? Klasszis. Ã‰s amikor ilyen klasszisok Ã¼zletelnek velem, mindig Ã¡rengedmÃ©nyt adok.}
+{236}{}{Csak mondd el, miben segÃ­thetek neked, barÃ¡tom. Mondd el a barÃ¡taidnak, Ã©s a legjobb renÃ³i Ã¡ron vÃ¡sÃ¡rolhatsz t?lem.}
+{237}{}{Az egÃ©sz napos rohanÃ¡s utÃ¡n nincs is jobb egy kis JetnÃ©l, nem igaz? SzÃ¡modra mindenb?l a legjobbat adom.}
+{238}{}{HÃ©, hÃ©... egy igazi nagysÃ¡ggal Ã¡llok szemben. SzÃ¡modra, kis hÃ¶lgy, a legjobbat adom mindenb?l. Mondd el a barÃ¡taidnak is, rendben?}
+{239}{}{Bulizni akarsz, Ã©s Jet kell hozzÃ¡, kislÃ¡ny? A legjobb helyen jÃ¡rsz. SzÃ¡modra mindenb?l a legjobbat adom.}
+{240}{}{Annyi Jetem van, hogy orbitÃ¡lis pÃ¡lyÃ¡ra Ã¡llnÃ¡l t?le, kislÃ¡ny. Ami viszont a legszebb, hogy Ã¡rengedmÃ©nyt adok. BeszÃ©ljÃ¼nk az Ã¡rrÃ³l?}
+{241}{}{Olyan cuccom van, amit?l az egekig repÃ¼lsz, kis hÃ¶lgy. RÃ¡adÃ¡sul engedmÃ©nyt is adok. JÃ³l hangzik, mi?}
+{242}{}{A legkevesebb, amit megtehetek Ã©rted, kislÃ¡ny, hogy leviszem az Ã¡raimat. Ã‰n Ã­gy mutatom ki a barÃ¡tsÃ¡gomat.}
+{247}{}{Tudom, mit keresel, hajcsÃ¡r, Ã©s nÃ¡lam meg is kapod. BÃ¡rmennyi Jet kell, t?lem megkaphatod.}
+{248}{}{MiÃ©rt sÃ©tÃ¡lnÃ¡l, ha repÃ¼lhetnÃ©l is? Te Jetet akarsz, t?lem viszont megveheted.}
+{249}{}{HajcsÃ¡r, nÃ¡lam kaphatÃ³ a vÃ¡ros legtisztÃ¡bb Jetje. Nem olcsÃ³, de megÃ©ri az utolsÃ³ szemig.}
+{250}{}{RepÃ¼lni akarsz, hajcsÃ¡r? PÃ©nzed van? Akkor gyere kÃ¶zelebb!}
+{251}{}{A nÃ¡lam lÃ©v? anyagtÃ³l felszÃ¡llsz az Ã©gbe, hajcsÃ¡r.}
+{252}{}{Jet hegyek vannak nÃ¡lam, Ã©s mÃ©g annÃ¡l is tÃ¶bb. Gyere, nÃ©zz rÃ¡ az Ã¡rumra!}
+{253}{}{A nÃ¡lam lÃ©v? Jett?l fÃ¶ldkÃ¶rÃ¼li pÃ¡lyÃ¡ra Ã¡llnÃ¡l, hajcsÃ¡r. Gyere, beszÃ©ljÃ¼k meg az Ã¡rat!}
+{254}{}{Tapasztalt vagy, hajcsÃ¡r? Hadd bÃ³dÃ­tsalak el a vÃ¡ros legjobb min?sÃ©g? Jet-jÃ©vel.}
+{255}{}{Jetet keresel? GyerÃ¼nk, hajcsÃ¡r, kÃ¶ssÃ¼nk Ã¼zletet!}
+{256}{}{Jetet keresel? GyerÃ¼nk, hajcsÃ¡r, megbeszÃ©lhetjÃ¼k a dolgot.}
+{261}{}{Ã‰n tudom, mi utÃ¡n kajtatsz, barÃ¡tom, Ã©s nÃ¡lam meg is talÃ¡lod. BÃ¡rmennyi Jet is kelljen, nÃ¡lam megkapod.}
+{262}{}{MiÃ©rt sÃ©tÃ¡lsz, ha repÃ¼lhetnÃ©l is?}
+{263}{}{NÃ¡lam kaphatÃ³ a vÃ¡ros legtisztÃ¡bb Jetje. Nem olcsÃ³, de megÃ©ri a pÃ©nzt.}
+{264}{}{RepÃ¼lni szeretnÃ©l? Dolcsi van nÃ¡lad? Akkor gyere kÃ¶zelebb...}
+{265}{}{Olyan anyagom van, amit?l elszÃ¡llsz az Ã©gbe, barÃ¡tom.}
+{266}{}{Jet hegyek vannak nÃ¡lam, Ã©s mÃ©g annÃ¡l is tÃ¶bb. Gyere, nÃ©zz rÃ¡ az Ã¡rumra!}
+{267}{}{ElÃ©g Jet van nÃ¡lam ahhoz, hogy fÃ¶ldkÃ¶rÃ¼li pÃ¡lyÃ¡ra Ã¡llj t?le. Nem akarod megtekinteni?}
+{268}{}{Tapasztalt vagy mÃ¡r? Hadd dobjalak fel a vÃ¡ros legjobb Jet-jÃ©vel!}
+{269}{}{Jetre fÃ¡j a fogad? ÃœzleteljÃ¼nk!}
+{270}{}{Jetre fÃ¡j a fogad? BeszÃ©lgessÃ¼nk!}
 {519}{}{MINT a cukorka!}

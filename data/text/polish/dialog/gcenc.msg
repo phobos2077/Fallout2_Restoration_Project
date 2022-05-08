@@ -1,1 +1,1 @@
-{100}{}{Øadnej odpowiedzi ze strony straønika.}
+{100}{}{≈ªadnej odpowiedzi ze strony stra≈ºnika.}

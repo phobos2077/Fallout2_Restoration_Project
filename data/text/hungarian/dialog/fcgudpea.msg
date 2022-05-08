@@ -1,75 +1,75 @@
-{100}{}{Egy fura pizsamát visel? fickót látsz.}
-{101}{}{? egy Shi városlakó.}
-{102}{}{Ez az ember minden korábban látott népségt?l különbözik. Oda sem bagózik, mit csinálsz.}
-{103}{}{Ugye nem vagy kém?}
+{100}{}{Egy fura pizsamÃ¡t visel? fickÃ³t lÃ¡tsz.}
+{101}{}{? egy Shi vÃ¡roslakÃ³.}
+{102}{}{Ez az ember minden korÃ¡bban lÃ¡tott nÃ©psÃ©gt?l kÃ¼lÃ¶nbÃ¶zik. Oda sem bagÃ³zik, mit csinÃ¡lsz.}
+{103}{}{Ugye nem vagy kÃ©m?}
 {104}{}{Ki vagy te?}
-{105}{}{Hal és alga. Ez jut nekünk.}
-{106}{}{Haha! Nézd már a fura kerekszem?t!}
-{107}{}{Úgy nézel ki, mint egy Hubologista.}
-{108}{}{Hagyj minket békén!}
-{109}{}{Soká éljen a Sárkány!}
+{105}{}{Hal Ã©s alga. Ez jut nekÃ¼nk.}
+{106}{}{Haha! NÃ©zd mÃ¡r a fura kerekszem?t!}
+{107}{}{Ãšgy nÃ©zel ki, mint egy Hubologista.}
+{108}{}{Hagyj minket bÃ©kÃ©n!}
+{109}{}{SokÃ¡ Ã©ljen a SÃ¡rkÃ¡ny!}
 {110}{}{Vesszen Lo Pan!}
-{111}{}{A Sárkány a mi h?sünk!}
-{112}{}{Vigyázz Lo Pannal! Z?rös fickó.}
+{111}{}{A SÃ¡rkÃ¡ny a mi h?sÃ¼nk!}
+{112}{}{VigyÃ¡zz Lo Pannal! Z?rÃ¶s fickÃ³.}
 {113}{}{Azok a punkok mindig zajonganak.}
-{114}{}{Munka, munka, munka. Rizs, rizs, rizs. ::sóhajt::}
-{115}{}{Ennyit tartogat az élet?}
-{116}{}{Ravaszabbak vagyunk, mint gondolnád.}
-{117}{}{Nézzétek! Egy lao wai!}
-{118}{}{Nem hiszem, hogy kedvelnélek.}
-{119}{}{Félek t?led.}
-{120}{}{Kérlek, ne bánts!}
-{121}{}{Fogadjunk, tetszenél Lo Pannak!}
-{122}{}{Légyszíves, ne okozz bajt!}
-{123}{}{Szeretem az életet. Nem csinálok olyat, ami miatt meg kéne válnom t?le.}
-{124}{}{A pusztaság egyre félelmetesebb.}
-{125}{}{Uram... igen, uram... viszlát, uram.}
+{114}{}{Munka, munka, munka. Rizs, rizs, rizs. ::sÃ³hajt::}
+{115}{}{Ennyit tartogat az Ã©let?}
+{116}{}{Ravaszabbak vagyunk, mint gondolnÃ¡d.}
+{117}{}{NÃ©zzÃ©tek! Egy lao wai!}
+{118}{}{Nem hiszem, hogy kedvelnÃ©lek.}
+{119}{}{FÃ©lek t?led.}
+{120}{}{KÃ©rlek, ne bÃ¡nts!}
+{121}{}{Fogadjunk, tetszenÃ©l Lo Pannak!}
+{122}{}{LÃ©gyszÃ­ves, ne okozz bajt!}
+{123}{}{Szeretem az Ã©letet. Nem csinÃ¡lok olyat, ami miatt meg kÃ©ne vÃ¡lnom t?le.}
+{124}{}{A pusztasÃ¡g egyre fÃ©lelmetesebb.}
+{125}{}{Uram... igen, uram... viszlÃ¡t, uram.}
 {126}{}{Haha! A mocskos Lo Pan meghalt!}
-{127}{}{Segítettél rajtunk!}
+{127}{}{SegÃ­tettÃ©l rajtunk!}
 {128}{}{Lo Pan meghalt!}
-{129}{}{Akkor jöhetnek a Hubologisták!}
-{130}{}{Nézd már a fura kerekszem?t!}
-{131}{}{Úgy nézel ki, mint egy Hubologista.}
-{132}{}{Hagyj minket békén!}
-{133}{}{Soká éljen a Sárkány!}
-{134}{}{Soká éljen az Uralkodó!}
-{135}{}{Munka, munka, munka. Rizs, rizs, rizs. ::sóhajt::}
-{136}{}{Ennyit tartogat az élet?}
-{137}{}{A Sárkány... meghalt...}
-{138}{}{Ó, ne! A Sárkány meghalt!}
-{139}{}{Az élet mostantól fogva értelmetlen.}
-{140}{}{Túléljük... valahogy.}
-{141}{}{Ki lesz mostantól a h?sünk?}
-{142}{}{A Sárkánnyal odalettek az álmaink.}
-{143}{}{Nincsenek többé céljaink...}
-{144}{}{Hadd tanítsuk meg gyermekeinket, hogy olyanok lehessenek, mint a Sárkány.}
-{145}{}{Új álmokra lesz szükségünk.}
-{146}{}{Az Uralkodó szócsöve meghalt!}
+{129}{}{Akkor jÃ¶hetnek a HubologistÃ¡k!}
+{130}{}{NÃ©zd mÃ¡r a fura kerekszem?t!}
+{131}{}{Ãšgy nÃ©zel ki, mint egy Hubologista.}
+{132}{}{Hagyj minket bÃ©kÃ©n!}
+{133}{}{SokÃ¡ Ã©ljen a SÃ¡rkÃ¡ny!}
+{134}{}{SokÃ¡ Ã©ljen az UralkodÃ³!}
+{135}{}{Munka, munka, munka. Rizs, rizs, rizs. ::sÃ³hajt::}
+{136}{}{Ennyit tartogat az Ã©let?}
+{137}{}{A SÃ¡rkÃ¡ny... meghalt...}
+{138}{}{Ã“, ne! A SÃ¡rkÃ¡ny meghalt!}
+{139}{}{Az Ã©let mostantÃ³l fogva Ã©rtelmetlen.}
+{140}{}{TÃºlÃ©ljÃ¼k... valahogy.}
+{141}{}{Ki lesz mostantÃ³l a h?sÃ¼nk?}
+{142}{}{A SÃ¡rkÃ¡nnyal odalettek az Ã¡lmaink.}
+{143}{}{Nincsenek tÃ¶bbÃ© cÃ©ljaink...}
+{144}{}{Hadd tanÃ­tsuk meg gyermekeinket, hogy olyanok lehessenek, mint a SÃ¡rkÃ¡ny.}
+{145}{}{Ãšj Ã¡lmokra lesz szÃ¼ksÃ©gÃ¼nk.}
+{146}{}{Az UralkodÃ³ szÃ³csÃ¶ve meghalt!}
 {147}{}{Mi lesz most?}
-{148}{}{Remélem, a vademberek nem fognak most lerohanni minket!}
-{149}{}{A jók mindig korán halnak.}
-{150}{}{Remélem, túl fogjuk élni Ken Lee nélkül.}
-{151}{}{Hallottam, hogy egyedül Ken Lee tartotta fenn az uralkodót.}
-{152}{}{Hallottam, hogy az Uralkodó csak elterel? m?veletként szolgált Ken Lee számára.}
-{153}{}{Munka, munka, munka. Rizs, rizs, rizs. ::sóhajt::}
-{154}{}{Ennyit tartogat az élet?}
-{155}{}{Ravaszabbak vagyunk, mint gondolnád.}
-{156}{}{Nézzétek! Egy kívülálló!}
-{164}{}{Te ölted meg BHK-9-et? Jó munka volt!}
-{165}{}{Azoktól a Hubologistáktól kiver a víz.}
-{166}{}{Tiszteletreméltó látogató, nagy szolgálatot tettél nekünk.}
-{167}{}{Halál a Hubologistákra!}
-{168}{}{Ez talán kihajtja innen a Hubologistákat.}
-{169}{}{Idióta Hubologisták, még a saját vezet?jüket sem tudják megvédeni.}
-{170}{}{Remélem, a Hubologisták nem állnak bosszút rajtunk.}
-{171}{}{Végül is... szerintem nem vagy kém.}
-{172}{}{Mocskos disznó! Meghalsz!}
-{173}{}{Szégyent hoztál a családodra!}
-{174}{}{Hagyj békén minket, lao wai!}
-{175}{}{Nem okoztál már így is elég kárt?}
-{176}{}{Utállak!}
-{177}{}{Hagyd el a várost!}
-{178}{}{Menj vissza a népedhez!}
-{179}{}{Ne árnyékold be az életemet az arcoddal!}
-{180}{}{Mennyiért mennél el innen?}
-{181}{}{Segítség! Segítség!}
+{148}{}{RemÃ©lem, a vademberek nem fognak most lerohanni minket!}
+{149}{}{A jÃ³k mindig korÃ¡n halnak.}
+{150}{}{RemÃ©lem, tÃºl fogjuk Ã©lni Ken Lee nÃ©lkÃ¼l.}
+{151}{}{Hallottam, hogy egyedÃ¼l Ken Lee tartotta fenn az uralkodÃ³t.}
+{152}{}{Hallottam, hogy az UralkodÃ³ csak elterel? m?veletkÃ©nt szolgÃ¡lt Ken Lee szÃ¡mÃ¡ra.}
+{153}{}{Munka, munka, munka. Rizs, rizs, rizs. ::sÃ³hajt::}
+{154}{}{Ennyit tartogat az Ã©let?}
+{155}{}{Ravaszabbak vagyunk, mint gondolnÃ¡d.}
+{156}{}{NÃ©zzÃ©tek! Egy kÃ­vÃ¼lÃ¡llÃ³!}
+{164}{}{Te Ã¶lted meg BHK-9-et? JÃ³ munka volt!}
+{165}{}{AzoktÃ³l a HubologistÃ¡ktÃ³l kiver a vÃ­z.}
+{166}{}{TiszteletremÃ©ltÃ³ lÃ¡togatÃ³, nagy szolgÃ¡latot tettÃ©l nekÃ¼nk.}
+{167}{}{HalÃ¡l a HubologistÃ¡kra!}
+{168}{}{Ez talÃ¡n kihajtja innen a HubologistÃ¡kat.}
+{169}{}{IdiÃ³ta HubologistÃ¡k, mÃ©g a sajÃ¡t vezet?jÃ¼ket sem tudjÃ¡k megvÃ©deni.}
+{170}{}{RemÃ©lem, a HubologistÃ¡k nem Ã¡llnak bosszÃºt rajtunk.}
+{171}{}{VÃ©gÃ¼l is... szerintem nem vagy kÃ©m.}
+{172}{}{Mocskos disznÃ³! Meghalsz!}
+{173}{}{SzÃ©gyent hoztÃ¡l a csalÃ¡dodra!}
+{174}{}{Hagyj bÃ©kÃ©n minket, lao wai!}
+{175}{}{Nem okoztÃ¡l mÃ¡r Ã­gy is elÃ©g kÃ¡rt?}
+{176}{}{UtÃ¡llak!}
+{177}{}{Hagyd el a vÃ¡rost!}
+{178}{}{Menj vissza a nÃ©pedhez!}
+{179}{}{Ne Ã¡rnyÃ©kold be az Ã©letemet az arcoddal!}
+{180}{}{MennyiÃ©rt mennÃ©l el innen?}
+{181}{}{SegÃ­tsÃ©g! SegÃ­tsÃ©g!}

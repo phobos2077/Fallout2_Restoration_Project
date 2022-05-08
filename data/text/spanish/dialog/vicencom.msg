@@ -1,207 +1,207 @@
-{100}{}{Ves un terminal de computadora. Está ejecutando algún tipo de rutina de diagnóstico.}
+{100}{}{Ves un terminal de computadora. EstÃ¡ ejecutando algÃºn tipo de rutina de diagnÃ³stico.}
 {101}{}{Ves la computadora central de Ciudad Refugio. }
-{102}{}{Ves un terminal de computadora. Está ejecutando algún tipo de rutina de diagnóstico.}
+{102}{}{Ves un terminal de computadora. EstÃ¡ ejecutando algÃºn tipo de rutina de diagnÃ³stico.}
 {103}{}{Ves una caja de metal que habla consigo misma con voz femenina.}
 {104}{}{Ves una caja de metal parlante.}
 {105}{}{Ves una caja de metal que habla consigo misma con voz femenina.}
 {106}{}{El terminal de computadora se ha apagado.}
-{107}{}{Comenzando diagnóstico de sistema. }
-{108}{}{Una vez iniciado, el diagnóstico de sistema puede ser cancelado en cualquier momento por el operador del sistema.}
-{109}{}{Vault-Tec recomienda un mantenimiento y diagnósticos regulares para asegurar un buen funcionamiento.}
-{110}{}{Vault-Tec: Los primeros y únicos en tecnología de Refugios.}
-{111}{}{Comenzando diagnóstico de sistema.}
+{107}{}{Comenzando diagnÃ³stico de sistema. }
+{108}{}{Una vez iniciado, el diagnÃ³stico de sistema puede ser cancelado en cualquier momento por el operador del sistema.}
+{109}{}{Vault-Tec recomienda un mantenimiento y diagnÃ³sticos regulares para asegurar un buen funcionamiento.}
+{110}{}{Vault-Tec: Los primeros y Ãºnicos en tecnologÃ­a de Refugios.}
+{111}{}{Comenzando diagnÃ³stico de sistema.}
 {112}{}{Sistemas de seguridad...}
 {113}{}{Terminal de entrada: Desconectado.}
-{114}{}{Cámaras de seguridad... 1A... 1B... 1C operando con eficiencia óptima.}
-{115}{}{Sistemas de seguridad... 2A... 2B... 2C operando con eficiencia óptima.}
-{116}{}{Sistemas de seguridad... 3A... 3B... 3C operando con eficiencia óptima.}
+{114}{}{CÃ¡maras de seguridad... 1A... 1B... 1C operando con eficiencia Ã³ptima.}
+{115}{}{Sistemas de seguridad... 2A... 2B... 2C operando con eficiencia Ã³ptima.}
+{116}{}{Sistemas de seguridad... 3A... 3B... 3C operando con eficiencia Ã³ptima.}
 {117}{}{Sistemas ambientales...}
-{118}{}{Ventilación 1A... 1B... operando con eficiencia óptima.}
-{119}{}{Ventilación 2A... 2B...}
+{118}{}{VentilaciÃ³n 1A... 1B... operando con eficiencia Ã³ptima.}
+{119}{}{VentilaciÃ³n 2A... 2B...}
 {120}{}{2B...}
 {121}{}{Confirmando...}
-{122}{}{Atención: Obstrucción detectada en Ventilación 2B. }
-{123}{}{Revisando en profundidad sistemas ambientales…}
-{124}{}{Obstrucción anotada en el informe de mantenimiento de ingeniería, y notificado un operador.}
-{125}{}{Continuando comprobación...}
-{126}{}{Ventilación 2C... 2D... operando con eficiencia óptima.}
-{127}{}{Ventilación 3A... 3B... 3C... 3D... 3E... operando con eficiencia óptima.}
+{122}{}{AtenciÃ³n: ObstrucciÃ³n detectada en VentilaciÃ³n 2B. }
+{123}{}{Revisando en profundidad sistemas ambientalesâ€¦}
+{124}{}{ObstrucciÃ³n anotada en el informe de mantenimiento de ingenierÃ­a, y notificado un operador.}
+{125}{}{Continuando comprobaciÃ³n...}
+{126}{}{VentilaciÃ³n 2C... 2D... operando con eficiencia Ã³ptima.}
+{127}{}{VentilaciÃ³n 3A... 3B... 3C... 3D... 3E... operando con eficiencia Ã³ptima.}
 {128}{}{Temperatura y humedad en el interior del Refugio dentro de las especificaciones requeridas.}
-{129}{}{Suministro de energía...}
-{130}{}{Todos los niveles de energía están dentro de las especificaciones requeridas. }
-{131}{}{El modo de ahorro de energía en los niveles 2 y 3 sigue activo.}
-{132}{}{Atención: la puerta al Refugio está abierta. En caso de emergencia, la puerta se sellará.}
-{133}{}{Todas las lecturas son normales. Diagnóstico de sistema concluido. Preparándose para escribirlo en disco...}
+{129}{}{Suministro de energÃ­a...}
+{130}{}{Todos los niveles de energÃ­a estÃ¡n dentro de las especificaciones requeridas. }
+{131}{}{El modo de ahorro de energÃ­a en los niveles 2 y 3 sigue activo.}
+{132}{}{AtenciÃ³n: la puerta al Refugio estÃ¡ abierta. En caso de emergencia, la puerta se sellarÃ¡.}
+{133}{}{Todas las lecturas son normales. DiagnÃ³stico de sistema concluido. PreparÃ¡ndose para escribirlo en disco...}
 {134}{}{Las lecturas se han guardado en un holodisco. }
 {135}{}{El listado de lecturas ha sido transferido a la oficina de Listas principal.}
-{136}{}{Tres copias de seguridad están siendo enviadas ahora a la Caja fuerte principal.}
-{137}{}{Un respaldo de copia de seguridad está siendo enviado ahora al servidor principal de listas para su distribución por todos los demás terminales de Ciudad Refugio.}
+{136}{}{Tres copias de seguridad estÃ¡n siendo enviadas ahora a la Caja fuerte principal.}
+{137}{}{Un respaldo de copia de seguridad estÃ¡ siendo enviado ahora al servidor principal de listas para su distribuciÃ³n por todos los demÃ¡s terminales de Ciudad Refugio.}
 {138}{}{Ya es seguro apagar el terminal. }
 {139}{}{Gracias.}
-{140}{}{Comenzando diagnóstico de sistema. }
-{141}{}{Una vez iniciado, el diagnóstico de sistema puede ser cancelado en cualquier momento por el operador del sistema.}
-{142}{}{Vault-Tec recomienda un mantenimiento y diagnósticos regulares para asegurar un buen funcionamiento.}
-{143}{}{Vault-Tec: Los primeros y únicos en tecnología de Refugios.}
-{144}{}{Comenzando diagnóstico de sistema.}
+{140}{}{Comenzando diagnÃ³stico de sistema. }
+{141}{}{Una vez iniciado, el diagnÃ³stico de sistema puede ser cancelado en cualquier momento por el operador del sistema.}
+{142}{}{Vault-Tec recomienda un mantenimiento y diagnÃ³sticos regulares para asegurar un buen funcionamiento.}
+{143}{}{Vault-Tec: Los primeros y Ãºnicos en tecnologÃ­a de Refugios.}
+{144}{}{Comenzando diagnÃ³stico de sistema.}
 {145}{}{Sistemas de seguridad...}
 {146}{}{Terminal de entrada: Desconectado.}
-{147}{}{Cámaras de seguridad... 1A... 1B... 1C operando con eficiencia óptima.}
-{148}{}{Sistemas de seguridad... 2A... 2B... 2C operando con eficiencia óptima.}
-{149}{}{Sistemas de seguridad... 3A... 3B... 3C operando con eficiencia óptima.}
+{147}{}{CÃ¡maras de seguridad... 1A... 1B... 1C operando con eficiencia Ã³ptima.}
+{148}{}{Sistemas de seguridad... 2A... 2B... 2C operando con eficiencia Ã³ptima.}
+{149}{}{Sistemas de seguridad... 3A... 3B... 3C operando con eficiencia Ã³ptima.}
 {150}{}{Sistemas ambientales... }
-{151}{}{Ventilación 1A... 1B... operando con eficiencia óptima.}
-{152}{}{Ventilación 2A... 2B... 2C... 2D... operando con eficiencia óptima.}
-{153}{}{Ventilación 3A... 3B... 3C... 3D... 3E... operando con eficiencia óptima.}
+{151}{}{VentilaciÃ³n 1A... 1B... operando con eficiencia Ã³ptima.}
+{152}{}{VentilaciÃ³n 2A... 2B... 2C... 2D... operando con eficiencia Ã³ptima.}
+{153}{}{VentilaciÃ³n 3A... 3B... 3C... 3D... 3E... operando con eficiencia Ã³ptima.}
 {154}{}{Temperatura y humedad en el interior del Refugio dentro de las especificaciones requeridas.}
-{155}{}{Suministro de energía...}
-{156}{}{Todos los niveles de energía están dentro de las especificaciones requeridas. }
-{157}{}{El modo de ahorro de energía en los niveles 2 y 3 sigue activo.}
-{158}{}{Atención: la puerta al Refugio está abierta. En caso de emergencia, la puerta se sellará.}
-{159}{}{Todas las lecturas son normales. Diagnóstico de sistema concluido. Preparándose para escribirlo en disco...}
+{155}{}{Suministro de energÃ­a...}
+{156}{}{Todos los niveles de energÃ­a estÃ¡n dentro de las especificaciones requeridas. }
+{157}{}{El modo de ahorro de energÃ­a en los niveles 2 y 3 sigue activo.}
+{158}{}{AtenciÃ³n: la puerta al Refugio estÃ¡ abierta. En caso de emergencia, la puerta se sellarÃ¡.}
+{159}{}{Todas las lecturas son normales. DiagnÃ³stico de sistema concluido. PreparÃ¡ndose para escribirlo en disco...}
 {160}{}{Las lecturas se han guardado en un holodisco. }
 {161}{}{El listado de lecturas ha sido transferido a la oficina de Listas principal.}
-{162}{}{Tres copias de seguridad están siendo enviadas ahora a la Caja fuerte principal.}
-{163}{}{Un respaldo de copia de seguridad está siendo enviado ahora al servidor principal de listas para su distribución por todos los demás terminales de Ciudad Refugio.}
+{162}{}{Tres copias de seguridad estÃ¡n siendo enviadas ahora a la Caja fuerte principal.}
+{163}{}{Un respaldo de copia de seguridad estÃ¡ siendo enviado ahora al servidor principal de listas para su distribuciÃ³n por todos los demÃ¡s terminales de Ciudad Refugio.}
 {164}{}{Ya es seguro apagar el terminal. }
 {165}{}{Gracias.}
-{166}{}{Ves una caja de metal hablándole al aire con voz femenina. ¡La mujer debe estar dentro de la caja! Debe estar muy pero que muy apretada ahí dentro.}
-{167}{}{Has entrado en el sistema de la computadora central de Ciudad Refugio. La interfaz parece relativamente fácil de entender; todo parece estar desglosado en archivos.}
-{168}{}{¿Hola? ¿Hola?}
+{166}{}{Ves una caja de metal hablÃ¡ndole al aire con voz femenina. Â¡La mujer debe estar dentro de la caja! Debe estar muy pero que muy apretada ahÃ­ dentro.}
+{167}{}{Has entrado en el sistema de la computadora central de Ciudad Refugio. La interfaz parece relativamente fÃ¡cil de entender; todo parece estar desglosado en archivos.}
+{168}{}{Â¿Hola? Â¿Hola?}
 {169}{}{Tratas de forzar la apertura de la caja para que la mujer pueda salir.}
 {170}{}{Dejas de balbucear}
-{171}{}{Buscas en los archivos la localización del Refugio 13.}
-{172}{}{Buscas en los archivos cualquier mención del Kit de Creación del Jardín del Edén.}
+{171}{}{Buscas en los archivos la localizaciÃ³n del Refugio 13.}
+{172}{}{Buscas en los archivos cualquier menciÃ³n del Kit de CreaciÃ³n del JardÃ­n del EdÃ©n.}
 {173}{}{Introduces el disco de la central nuclear de Gecko en la computadora.}
-{174}{}{Intentas abrir la computadora y buscar un módulo de reconocimiento de voz.}
+{174}{}{Intentas abrir la computadora y buscar un mÃ³dulo de reconocimiento de voz.}
 {175}{}{Introduces el PipBoy en la ranura que descubriste antes.}
 {176}{}{Introduces el PipBoy en la ranura que descubriste antes.}
-{177}{}{Finalizas la sesión en el terminal.}
+{177}{}{Finalizas la sesiÃ³n en el terminal.}
 {178}{}{La caja de metal no responde.}
 {179}{}{Tratas de forzar la apertura de la caja para que la mujer pueda salir.}
 {180}{}{Dejas de balbucear}
-{181}{}{Te arrodillas bajo la caja metálica. Metes los dedos en una de las placas bajo la caja
- y la arrancas. ¡No hay ninguna mujer ahí! Sólo un montón de serpientes muertas y luces centelleantes.}
+{181}{}{Te arrodillas bajo la caja metÃ¡lica. Metes los dedos en una de las placas bajo la caja
+ y la arrancas. Â¡No hay ninguna mujer ahÃ­! SÃ³lo un montÃ³n de serpientes muertas y luces centelleantes.}
 {182}{}{Apartas las serpientes, rebuscas.}
 {183}{}{Dejas de balbucear}
 {184}{}{Se escucha un GZZZZTTTTTT y entonces...}
 {185}{}{... te despiertas.}
 {186}{}{Dejas de balbucear}
-{187}{}{Intentas forzar la apertura del panel bajo la máquina y buscas un módulo de reconocimiento de voz. No
+{187}{}{Intentas forzar la apertura del panel bajo la mÃ¡quina y buscas un mÃ³dulo de reconocimiento de voz. No
  ves ninguno... los circuitos impresos en esta computadora son muy distintos de los de la del Refugio 13.
  }
 {188}{}{Repones el panel y buscas entre los archivos de la computadora.}
 {189}{}{Pues muy bien. Mejor ir a buscar en otra parte.}
-{190}{}{Mientras repones el panel, sin embargo, te fijas de repente en un pequeño dibujo de Vault Boy situado
- bajo el terminal. Al lado del dibujo hay un espacio que parece tener el tamaño de tu PipBoy.}
-{191}{}{Insertas tu PipBoy en la ranura vacía.}
+{190}{}{Mientras repones el panel, sin embargo, te fijas de repente en un pequeÃ±o dibujo de Vault Boy situado
+ bajo el terminal. Al lado del dibujo hay un espacio que parece tener el tamaÃ±o de tu PipBoy.}
+{191}{}{Insertas tu PipBoy en la ranura vacÃ­a.}
 {192}{}{Dejas el terminal.}
-{193}{}{¡Cuando casi dejas de balbucear, ves a la sonriente pequeña personita de tu pequeño Vault
- Boy bajo la caja de metal! Señala un agujero cerca de él. Igual quiere hablar con tu
+{193}{}{Â¡Cuando casi dejas de balbucear, ves a la sonriente pequeÃ±a personita de tu pequeÃ±o Vault
+ Boy bajo la caja de metal! SeÃ±ala un agujero cerca de Ã©l. Igual quiere hablar con tu
  personita Vault Boy.}
-{194}{}{Cuando estás a punto de irte, te fijas de repente en un pequeño dibujo de Vault Boy situado
- bajo el terminal. Al lado del dibujo hay un espacio que parece tener el tamaño de tu PipBoy.}
+{194}{}{Cuando estÃ¡s a punto de irte, te fijas de repente en un pequeÃ±o dibujo de Vault Boy situado
+ bajo el terminal. Al lado del dibujo hay un espacio que parece tener el tamaÃ±o de tu PipBoy.}
 {195}{}{Pones a tu PipBoy de brazo en el agujero para que puedan hablar.}
-{196}{}{Insertas tu PipBoy en la ranura vacía.}
+{196}{}{Insertas tu PipBoy en la ranura vacÃ­a.}
 {197}{}{Dejas el terminal.}
-{198}{}{¡Vaya! Los dos parecen tener MUCHO que hablar! Hablan con palabras raras que suenan como
+{198}{}{Â¡Vaya! Los dos parecen tener MUCHO que hablar! Hablan con palabras raras que suenan como
  chirridos, pitidos, y cantos de mantis. Con el tiempo, se escucha un pitido, y tu PipBoy sale fuera.}
 {199}{}{Tomas tu PipBoy y te vas.}
-{200}{}{Se abre una pequeña ventana en la pantalla del terminal, con un sonriente Vault Boy a su lado. Mientras miras, el
- Vault Boy empieza a silbar en silencio y da golpecitos con el pie. Una luz roja está parpadeando al lado de la ranura de la computadora.}
+{200}{}{Se abre una pequeÃ±a ventana en la pantalla del terminal, con un sonriente Vault Boy a su lado. Mientras miras, el
+ Vault Boy empieza a silbar en silencio y da golpecitos con el pie. Una luz roja estÃ¡ parpadeando al lado de la ranura de la computadora.}
 {201}{}{Esperas...}
 {202}{}{Cancelas el procedimiento y te desconectas del terminal.}
 {203}{}{Un molesto chirrido surge de la ranura junto a Vault Boy. Vault Boy continua silbando
  en silencio y dando golpes con el pie.}
 {204}{}{Esperas...}
 {205}{}{Cancelas el procedimiento y te desconectas del terminal.}
-{206}{}{De repente, Vault Boy se detiene y frunce el ceño. Aparece una marca de exclamación sobre su cabeza, y
+{206}{}{De repente, Vault Boy se detiene y frunce el ceÃ±o. Aparece una marca de exclamaciÃ³n sobre su cabeza, y
  comienza a menear su dedo delante de ti. }
-{207}{}{¡Le devuelves el gesto al pequeño bastardo!}
-{208}{}{Intentas determinar cuál es el problema.}
+{207}{}{Â¡Le devuelves el gesto al pequeÃ±o bastardo!}
+{208}{}{Intentas determinar cuÃ¡l es el problema.}
 {209}{}{Cancelas el procedimiento y te desconectas del terminal.}
-{210}{}{Una pequeña pantalla bajo Vault Boy afirma que el último mantenimiento programado fue hace 50.352 años.
- Los archivos están corruptos y necesitan ser "reformateados". ¿Quieres continuar?}
+{210}{}{Una pequeÃ±a pantalla bajo Vault Boy afirma que el Ãºltimo mantenimiento programado fue hace 50.352 aÃ±os.
+ Los archivos estÃ¡n corruptos y necesitan ser "reformateados". Â¿Quieres continuar?}
 {211}{}{Eh... desde luego.}
-{212}{}{¡Qu… no! ¡Ni hablar! }
+{212}{}{Â¡Quâ€¦ no! Â¡Ni hablar! }
 {213}{}{Cancelas el procedimiento y te desconectas del terminal.}
-{214}{}{Comenzando procedimiento de inicialización... Reformateando PipBoy...}
+{214}{}{Comenzando procedimiento de inicializaciÃ³n... Reformateando PipBoy...}
 {215}{}{}
 {216}{}{Esperas...}
 {217}{}{Cancelas el procedimiento y te desconectas del terminal.}
-{218}{}{Comenzando procedimiento de inicialización...}
+{218}{}{Comenzando procedimiento de inicializaciÃ³n...}
 {219}{}{                             Reformateando PipBoy...}
-{220}{}{¡Oye! ¡Devuélveme mi maldito PipBoy!}
-{221}{}{¡Cancelar! ¡Cancelar! }
-{222}{}{Se está copiando el archivo geográfico de California del Norte en la base de datos del PipBoy. }
-{223}{}{Copiando archivo... Broken Hills... Gecko... República de Nueva California... Nuevo Reno... Redding... Ciudad Refugio... Descarga completa.}
-{224}{}{Continuas buscando más información en los archivos.}
-{225}{}{Finalizas la sesión en el terminal.}
-{226}{}{Has vuelto al menú principal. Una serie de archivos y programas de búsqueda se listan en la
+{220}{}{Â¡Oye! Â¡DevuÃ©lveme mi maldito PipBoy!}
+{221}{}{Â¡Cancelar! Â¡Cancelar! }
+{222}{}{Se estÃ¡ copiando el archivo geogrÃ¡fico de California del Norte en la base de datos del PipBoy. }
+{223}{}{Copiando archivo... Broken Hills... Gecko... RepÃºblica de Nueva California... Nuevo Reno... Redding... Ciudad Refugio... Descarga completa.}
+{224}{}{Continuas buscando mÃ¡s informaciÃ³n en los archivos.}
+{225}{}{Finalizas la sesiÃ³n en el terminal.}
+{226}{}{Has vuelto al menÃº principal. Una serie de archivos y programas de bÃºsqueda se listan en la
  pantalla del terminal.}
-{227}{}{Buscas cualquier mención del Refugio 13 en los archivos.}
-{228}{}{Buscas cualquier referencia al Kit de Creación del Jardín del Edén.}
-{229}{}{Solicitas los informes del generador de energía de Ciudad Refugio. }
-{230}{}{Finalizas la sesión en el terminal.}
-{231}{}{De acuerdo con los informes de producción, parece que Gordon estaba en lo cierto. El generador de Ciudad Refugio ya
- está alcanzado su límite. Sin un nuevo suministro energético, Ciudad Refugio no podrá expandirse.}
-{232}{}{Continúas buscando en los archivos.}
-{233}{}{Finalizas la sesión en el terminal.}
-{234}{}{Los archivos sólo muestran dos refugios: el Refugio 8 (este Refugio) y el Refugio 15, localizado lejos al sur.
+{227}{}{Buscas cualquier menciÃ³n del Refugio 13 en los archivos.}
+{228}{}{Buscas cualquier referencia al Kit de CreaciÃ³n del JardÃ­n del EdÃ©n.}
+{229}{}{Solicitas los informes del generador de energÃ­a de Ciudad Refugio. }
+{230}{}{Finalizas la sesiÃ³n en el terminal.}
+{231}{}{De acuerdo con los informes de producciÃ³n, parece que Gordon estaba en lo cierto. El generador de Ciudad Refugio ya
+ estÃ¡ alcanzado su lÃ­mite. Sin un nuevo suministro energÃ©tico, Ciudad Refugio no podrÃ¡ expandirse.}
+{232}{}{ContinÃºas buscando en los archivos.}
+{233}{}{Finalizas la sesiÃ³n en el terminal.}
+{234}{}{Los archivos sÃ³lo muestran dos refugios: el Refugio 8 (este Refugio) y el Refugio 15, localizado lejos al sur.
  Lamentablemente, no hay menciones al Refugio 13.}
-{235}{}{Introduces la localización del Refugio 15 en tu PipBoy.}
-{236}{}{Continuas buscando más información en los archivos.}
-{237}{}{Finalizas la sesión en el terminal.}
-{238}{}{Según los archivos, actualmente no hay un GECK en stock en la Oficina de Servicios de Ciudad Refugio.
- Los habitantes de Ciudad Refugio parecen haber utilizado el único que tenían en ayudar a establecer el lugar cuando
+{235}{}{Introduces la localizaciÃ³n del Refugio 15 en tu PipBoy.}
+{236}{}{Continuas buscando mÃ¡s informaciÃ³n en los archivos.}
+{237}{}{Finalizas la sesiÃ³n en el terminal.}
+{238}{}{SegÃºn los archivos, actualmente no hay un GECK en stock en la Oficina de Servicios de Ciudad Refugio.
+ Los habitantes de Ciudad Refugio parecen haber utilizado el Ãºnico que tenÃ­an en ayudar a establecer el lugar cuando
  llegaron a la superficie.}
-{239}{}{Te desplazas por la información restante.}
-{240}{}{Por lo que puedes sacar de los archivos, dos GECKs eran parte del paquete de inventario estándar
- de cada Refugio. Sin embargo, sólo se envió uno al Refugio 8.}
-{241}{}{Referencias cruzadas de la información de envíos de GECK.}
-{242}{}{Vuelves al menú principal.}
-{243}{}{Finalizas la sesión en el terminal.}
-{244}{}{Debido a un error en los envíos, parece que el Refugio 8 recibió un excedente de chips de agua que iban dirigidos a
- otro Refugio. Posiblemente el otro Refugio recibió el segundo GECK del Refugio 8.}
-{245}{}{Vuelves al menú principal.}
-{246}{}{Finalizas la sesión en el terminal.}
-{247}{}{Se abre una pequeña ventana en la pantalla del terminal, con un sonriente Vault Boy al lado. Mientras miras, el
- Vault Boy te mira, te guiña un ojo, y levanta su dedo pulgar. Una luz roja está parpadeando junto a la
+{239}{}{Te desplazas por la informaciÃ³n restante.}
+{240}{}{Por lo que puedes sacar de los archivos, dos GECKs eran parte del paquete de inventario estÃ¡ndar
+ de cada Refugio. Sin embargo, sÃ³lo se enviÃ³ uno al Refugio 8.}
+{241}{}{Referencias cruzadas de la informaciÃ³n de envÃ­os de GECK.}
+{242}{}{Vuelves al menÃº principal.}
+{243}{}{Finalizas la sesiÃ³n en el terminal.}
+{244}{}{Debido a un error en los envÃ­os, parece que el Refugio 8 recibiÃ³ un excedente de chips de agua que iban dirigidos a
+ otro Refugio. Posiblemente el otro Refugio recibiÃ³ el segundo GECK del Refugio 8.}
+{245}{}{Vuelves al menÃº principal.}
+{246}{}{Finalizas la sesiÃ³n en el terminal.}
+{247}{}{Se abre una pequeÃ±a ventana en la pantalla del terminal, con un sonriente Vault Boy al lado. Mientras miras, el
+ Vault Boy te mira, te guiÃ±a un ojo, y levanta su dedo pulgar. Una luz roja estÃ¡ parpadeando junto a la
  ranura de la computadora.}
 {248}{}{Le levantas el dedo pulgar al Vault Boy.}
 {249}{}{Le haces un gesto obsceno con el dedo medio al Vault Boy.}
-{250}{}{La información de desarrollo de Fallout 2 se está incluyendo en la base de datos del PipBoy. Copiando archivo... Créditos de desarrollo de Ciudad Refugio... Descarga completa.}
+{250}{}{La informaciÃ³n de desarrollo de Fallout 2 se estÃ¡ incluyendo en la base de datos del PipBoy. Copiando archivo... CrÃ©ditos de desarrollo de Ciudad Refugio... Descarga completa.}
 {251}{}{Gracias.}
-{252}{}{Será mejor que esta pérdida de tiempo suponga algunos puntos extra de habilidad, o me voy a cabrear.}
+{252}{}{SerÃ¡ mejor que esta pÃ©rdida de tiempo suponga algunos puntos extra de habilidad, o me voy a cabrear.}
 {253}{}{El Vault Boy de la pantalla se despide con la mano, y la pantalla se ennegrece. El terminal se ha
  apagado.}
 {254}{}{[Te vas]}
-{255}{}{Sí, mejor que desaparezcas, mierdecilla.}
-{256}{}{El terminal se ha apagado. No tienes ni idea de cómo volver a encender el sistema.}
+{255}{}{SÃ­, mejor que desaparezcas, mierdecilla.}
+{256}{}{El terminal se ha apagado. No tienes ni idea de cÃ³mo volver a encender el sistema.}
 {257}{}{Te marchas.}
-{258}{}{Leyendo disco... Datos del reactor: Central de energía atómica... Eficiencia: 43%/75%... Error: Calibración de central - MD4/gh1... ¿Desea optimizar?}
+{258}{}{Leyendo disco... Datos del reactor: Central de energÃ­a atÃ³mica... Eficiencia: 43%/75%... Error: CalibraciÃ³n de central - MD4/gh1... Â¿Desea optimizar?}
 {259}{}{}
 {260}{}{}
 {261}{}{}
 {262}{}{}
-{263}{}{Inicio de procedimiento de optimización. }
-{264}{}{Cancelar la operación y buscar en los archivos.}
-{265}{}{Finalizas la sesión en el terminal.}
-{266}{}{Iniciando procedimiento de optimización... Optimizando... Optimización completa. Por favor, retire el disco.}
+{263}{}{Inicio de procedimiento de optimizaciÃ³n. }
+{264}{}{Cancelar la operaciÃ³n y buscar en los archivos.}
+{265}{}{Finalizas la sesiÃ³n en el terminal.}
+{266}{}{Iniciando procedimiento de optimizaciÃ³n... Optimizando... OptimizaciÃ³n completa. Por favor, retire el disco.}
 {267}{}{}
 {268}{}{}
 {269}{}{}
 {270}{}{Buscas en los archivos.}
-{271}{}{Finalizas la sesión en el terminal.}
+{271}{}{Finalizas la sesiÃ³n en el terminal.}
 {272}{}{Oooooooh. Eso zumbaaaaa.}
-{300}{}{Como usted está a punto de regresar al archivo de listado, que hábilmente aviso oculto entrada en la lista de archivos..}
-{301}{}{Como usted está a punto de cerrar el terminal, que hábilmente aviso oculto entrada en la lista de archivos.}
+{300}{}{Como usted estÃ¡ a punto de regresar al archivo de listado, que hÃ¡bilmente aviso oculto entrada en la lista de archivos..}
+{301}{}{Como usted estÃ¡ a punto de cerrar el terminal, que hÃ¡bilmente aviso oculto entrada en la lista de archivos.}
 {302}{}{[CONTINUAR]}
-{303}{}{Después de unos minutos usted es capaz de obtener acceso al archivo bloqueado. Sólo hay un archivo que se enumeran y se
- titulado "Clasificados." Parece que tus puntos de habilidad en la Ciencia están pagando.}
+{303}{}{DespuÃ©s de unos minutos usted es capaz de obtener acceso al archivo bloqueado. SÃ³lo hay un archivo que se enumeran y se
+ titulado "Clasificados." Parece que tus puntos de habilidad en la Ciencia estÃ¡n pagando.}
 {304}{}{[Leer entrada.]}
-{305}{}{La lectura a través de el archivo, parece como si el único propósito de Bóveda 8 era el de actuar como un "control de Bóveda" en una serie de Bóvedas creado por una corporación llamada Vault-Tec.
- La intención era que la Bóveda de 8 a abrir y volver a colonizar la superficie después de 10 años. También parece que la Bóveda 8 no fue la única Bóveda con una finalidad distinta de proteger a sus habitantes de la Gran Guerra.
- Tal vez se puede encontrar más información sobre el verdadero propósito de estas Bóvedas en otro lugar.}
+{305}{}{La lectura a travÃ©s de el archivo, parece como si el Ãºnico propÃ³sito de BÃ³veda 8 era el de actuar como un "control de BÃ³veda" en una serie de BÃ³vedas creado por una corporaciÃ³n llamada Vault-Tec.
+ La intenciÃ³n era que la BÃ³veda de 8 a abrir y volver a colonizar la superficie despuÃ©s de 10 aÃ±os. TambiÃ©n parece que la BÃ³veda 8 no fue la Ãºnica BÃ³veda con una finalidad distinta de proteger a sus habitantes de la Gran Guerra.
+ Tal vez se puede encontrar mÃ¡s informaciÃ³n sobre el verdadero propÃ³sito de estas BÃ³vedas en otro lugar.}
 {306}{}{[Volver al archivo de listado.]}
-{307}{}{[Cerrar sesión.]}
-{308}{}{Aprender sobre el verdadero propósito de la Bóveda 8 y que no es más que la construcción de todas las Bóvedas que salta a la vista.}
+{307}{}{[Cerrar sesiÃ³n.]}
+{308}{}{Aprender sobre el verdadero propÃ³sito de la BÃ³veda 8 y que no es mÃ¡s que la construcciÃ³n de todas las BÃ³vedas que salta a la vista.}

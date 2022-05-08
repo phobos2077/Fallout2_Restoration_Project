@@ -1,49 +1,49 @@
-{100}{}{Egy sírt látsz.}
-{101}{}{Egy nyitott sírt látsz.}
-{102}{}{Ez egy sírhely.}
-{103}{}{Felnyitott sírhely.}
-{150}{}{A sírhely be van fedve. }
-{151}{}{Felnyitott sírhely.}
-{200}{}{Egy sírkövet látsz.}
-{201}{}{Egy fejfát látsz.}
-{250}{}{Ezen a sírkövön egyetlen jelölés sincs.}
-{251}{}{A sírkövön lév? nevet lekaparták.}
-{252}{}{A sírkövön az alábbi név olvasható: John Doe.}
-{253}{}{A fejfára vésett nevet és dátumot lekoptatta az id?járás.}
-{260}{}{Ezen a fejfán egyetlen jelölés sincs.}
-{261}{}{A fejfáról lekaparták a nevet.}
-{262}{}{A fejfán olvasható név John Doe.}
-{263}{}{A fejfára vésett nevet és dátumot lekoptatta az id?járás.}
-{275}{}{Megvizsgálod a sírkövet: }
-{276}{}{Megvizsgálod a fejfát: }
-{300}{}{"Itt nyugszik Chris Avellone, a Táncparkett Ördöge."}
-{301}{}{"Chris Jones. Éjszárny."}
-{302}{}{"Christopher Michael Holland, más néven 'Chris Holland', más néven 'Chris'. Két és fél ok létezik, hogy elolvasd e sírk? feliratát... Normális esetben elvárnád, hogy az okok fel legyenek sorolva."}
+{100}{}{Egy sÃ­rt lÃ¡tsz.}
+{101}{}{Egy nyitott sÃ­rt lÃ¡tsz.}
+{102}{}{Ez egy sÃ­rhely.}
+{103}{}{Felnyitott sÃ­rhely.}
+{150}{}{A sÃ­rhely be van fedve. }
+{151}{}{Felnyitott sÃ­rhely.}
+{200}{}{Egy sÃ­rkÃ¶vet lÃ¡tsz.}
+{201}{}{Egy fejfÃ¡t lÃ¡tsz.}
+{250}{}{Ezen a sÃ­rkÃ¶vÃ¶n egyetlen jelÃ¶lÃ©s sincs.}
+{251}{}{A sÃ­rkÃ¶vÃ¶n lÃ©v? nevet lekapartÃ¡k.}
+{252}{}{A sÃ­rkÃ¶vÃ¶n az alÃ¡bbi nÃ©v olvashatÃ³: John Doe.}
+{253}{}{A fejfÃ¡ra vÃ©sett nevet Ã©s dÃ¡tumot lekoptatta az id?jÃ¡rÃ¡s.}
+{260}{}{Ezen a fejfÃ¡n egyetlen jelÃ¶lÃ©s sincs.}
+{261}{}{A fejfÃ¡rÃ³l lekapartÃ¡k a nevet.}
+{262}{}{A fejfÃ¡n olvashatÃ³ nÃ©v John Doe.}
+{263}{}{A fejfÃ¡ra vÃ©sett nevet Ã©s dÃ¡tumot lekoptatta az id?jÃ¡rÃ¡s.}
+{275}{}{MegvizsgÃ¡lod a sÃ­rkÃ¶vet: }
+{276}{}{MegvizsgÃ¡lod a fejfÃ¡t: }
+{300}{}{"Itt nyugszik Chris Avellone, a TÃ¡ncparkett Ã–rdÃ¶ge."}
+{301}{}{"Chris Jones. Ã‰jszÃ¡rny."}
+{302}{}{"Christopher Michael Holland, mÃ¡s nÃ©ven 'Chris Holland', mÃ¡s nÃ©ven 'Chris'. KÃ©t Ã©s fÃ©l ok lÃ©tezik, hogy elolvasd e sÃ­rk? feliratÃ¡t... NormÃ¡lis esetben elvÃ¡rnÃ¡d, hogy az okok fel legyenek sorolva."}
 {303}{}{"Colin McComb: Another pointless life."}
 {304}{}{"David Hendee: the loudest among the dead. May he rest in peace, quietly."}
-{305}{}{"Ed Hyland. "Kapd be!", közölte a világgal."}
-{306}{}{"Eric Demilt. Az IGAZI bunyós srác."}
-{307}{}{"Feargus Urquhart: Túl sok francos listát csinált."}
-{308}{}{"Fred Hatch. Meghalt, miközben Myron hangját rögzítették."}
-{309}{}{"Gary Platner. Meggyilkolták, mert nem akart több menedékvárosi modellt készíteni."}
-{310}{}{"Jason Anderson: megsz?nt él? istennek lenni." }
+{305}{}{"Ed Hyland. "Kapd be!", kÃ¶zÃ¶lte a vilÃ¡ggal."}
+{306}{}{"Eric Demilt. Az IGAZI bunyÃ³s srÃ¡c."}
+{307}{}{"Feargus Urquhart: TÃºl sok francos listÃ¡t csinÃ¡lt."}
+{308}{}{"Fred Hatch. Meghalt, mikÃ¶zben Myron hangjÃ¡t rÃ¶gzÃ­tettÃ©k."}
+{309}{}{"Gary Platner. MeggyilkoltÃ¡k, mert nem akart tÃ¶bb menedÃ©kvÃ¡rosi modellt kÃ©szÃ­teni."}
+{310}{}{"Jason Anderson: megsz?nt Ã©l? istennek lenni." }
 {311}{}{"Jason G. Suinn."}
 {312}{}{"Jason Taylor."}
 {313}{}{"Jeremy Barnes. A Black Isle kopasz fej? majma.}
-{314}{}{"Jesse Reynolds. Szerette a gyömbéres süteményt. Túlságosan is."}
+{314}{}{"Jesse Reynolds. Szerette a gyÃ¶mbÃ©res sÃ¼temÃ©nyt. TÃºlsÃ¡gosan is."}
 {315}{}{"John Deiley."}
 {316}{}{"John Price."}
-{317}{}{"Leonard Boyarski. Menedékvárosi szám?zött."}
-{318}{}{"Rupert Dinkos, meghalt 2000 telén."}
-{319}{}{"Matt Norton. Lehetett volna valaki. Lehetett volna contenda bel?le, de csak csövességre futotta. Ennyire telt neki."}
+{317}{}{"Leonard Boyarski. MenedÃ©kvÃ¡rosi szÃ¡m?zÃ¶tt."}
+{318}{}{"Rupert Dinkos, meghalt 2000 telÃ©n."}
+{319}{}{"Matt Norton. Lehetett volna valaki. Lehetett volna contenda bel?le, de csak csÃ¶vessÃ©gre futotta. Ennyire telt neki."}
 {320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top.]}
-{321}{}{"Robert Collier. Csendes. Halálos. Egyszer?en csak Rob."}
+{321}{}{"Robert Collier. Csendes. HalÃ¡los. Egyszer?en csak Rob."}
 {322}{}{"Robert Hertenstein 2. Az orvosa el akarta mondani neki, de ? kitartott: 'Nem akarom tudni."}
 {323}{}{"Scott Campbell. Nem Naomi."}
-{324}{}{"Itt nyugszik Scott Everts. Késett a munkából. Késett az életb?l."}
+{324}{}{"Itt nyugszik Scott Everts. KÃ©sett a munkÃ¡bÃ³l. KÃ©sett az Ã©letb?l."}
 {325}{}{"Scott Rodenhizer. 3D fejeket modellezett."}
 {326}{}{"Thomas French: Died while attempting to master the Flying Guillotine."}
-{327}{}{"Tim Cain. Alapító, Szeret?, Bunyós, Programozó."}
+{327}{}{"Tim Cain. AlapÃ­tÃ³, Szeret?, BunyÃ³s, ProgramozÃ³."}
 {328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray."}
 {329}{}{"Zeb -- Still Older Than Dirt."}
 {330}{}{"Dennis Presnell. We can almost hear him now. 'You call that a funeral?! That sucked! You guys are !@#holes! I'm never dying again! Blah blah blah...'" Scratched below it says, "God rest 'Cryin' D, shoulda kept on the patch."}
@@ -51,65 +51,65 @@
 {332}{}{"Sal De Ban, died 9/24/96."}
 {333}{}{"Greg Zeschule, Fall '99."}
 {334}{}{"Ray Muzyka, Summer '98."}
-{335}{}{"Evan Chantland, 1974-????: Nem volt paranoiás, ?t tényleg üldözték."}
-{336}{}{"Itt nyugszik Moose, halottabb nem is lehetne. Itt találtunk rá fej nélkül."}
+{335}{}{"Evan Chantland, 1974-????: Nem volt paranoiÃ¡s, ?t tÃ©nyleg Ã¼ldÃ¶ztÃ©k."}
+{336}{}{"Itt nyugszik Moose, halottabb nem is lehetne. Itt talÃ¡ltunk rÃ¡ fej nÃ©lkÃ¼l."}
 {337}{}{"Amy Presnell."}
-{338}{}{"Stephen Bokkes, élt 25 évet. A szörny? végzet parittyái és nyilai által élete teljében ragadta el a halál."}
-{339}{}{"R.I.P. Doug "Szopatós" Finch (Az évszám nem számít) Megölték mert cigarettázott franciázás közben. Utolsó szavai ezek voltak: Most szétbaszlak!"}
+{338}{}{"Stephen Bokkes, Ã©lt 25 Ã©vet. A szÃ¶rny? vÃ©gzet parittyÃ¡i Ã©s nyilai Ã¡ltal Ã©lete teljÃ©ben ragadta el a halÃ¡l."}
+{339}{}{"R.I.P. Doug "SzopatÃ³s" Finch (Az Ã©vszÃ¡m nem szÃ¡mÃ­t) MegÃ¶ltÃ©k mert cigarettÃ¡zott franciÃ¡zÃ¡s kÃ¶zben. UtolsÃ³ szavai ezek voltak: Most szÃ©tbaszlak!"}
 {340}{}{"Here lies Donnie Cornwell, good and dead. In an extra large coffin to fit his extra large head."}
-{341}{}{"Rob Giampa úgy élte az életét, ahogy a n?it szerette: gyorsan, olcsón és egyszer?en."}
+{341}{}{"Rob Giampa Ãºgy Ã©lte az Ã©letÃ©t, ahogy a n?it szerette: gyorsan, olcsÃ³n Ã©s egyszer?en."}
 {342}{}{"T. D. Hamilton: Hear lies a stank hoe that should have been dead a long time ago. Rest in hell, BITCH!"}
-{343}{}{"A határid? újabb áldozata."}
-{344}{}{"Dogbomb meghalt. Éljen soká a Kutya."}
+{343}{}{"A hatÃ¡rid? Ãºjabb Ã¡ldozata."}
+{344}{}{"Dogbomb meghalt. Ã‰ljen sokÃ¡ a Kutya."}
 {345}{}{"Kris Snider: Too competitive."}
-{346}{}{"Tudsz valami értelmeset kezdeni az életeddel?"}
-{347}{}{"Miért nem ölöd meg magad? Így másra maradna a balhé."}
-{348}{}{"Charles Cuevas: Egyszer azt mondta 'Vagy a jégkorong vagy a halál.' Hát nem a jégkorongot kapta."}
+{346}{}{"Tudsz valami Ã©rtelmeset kezdeni az Ã©leteddel?"}
+{347}{}{"MiÃ©rt nem Ã¶lÃ¶d meg magad? Ãgy mÃ¡sra maradna a balhÃ©."}
+{348}{}{"Charles Cuevas: Egyszer azt mondta 'Vagy a jÃ©gkorong vagy a halÃ¡l.' HÃ¡t nem a jÃ©gkorongot kapta."}
 {349}{}{"William Lebus."}
-{350}{}{"Reg Arnedo: még mindig halljuk a hangját a termekben."}
+{350}{}{"Reg Arnedo: mÃ©g mindig halljuk a hangjÃ¡t a termekben."}
 {351}{}{"Shanna SanPaolo."}
 {352}{}{"Brahmin Wrangler."}
 {353}{}{"Josh Walters, 1971-2011. Died of complications during his fifth liver transplant."}
-{354}{}{"Doug Avery. Utálta a háborút, mert tönkretette a kamionos életformáját."}
-{355}{}{"Itt nyugszik Ezekial Aikle, élt 102 évet. A jók korán halnak."}
-{356}{}{"Itt nyugszik Ann Mann, ki vénlányként élt, de vén Mann-ként halt. 1767 Dec. 8."}
-{357}{}{"Izráel gyermekei kenyeret akartak és az Úr küldött nekik mannát, az öreg tisztvisel?, Wallace feleséget akart, az Ördög meg elküldte neki Annát.}
-{358}{}{"Itt nyugszik Éleszt?s Johnny. Engedelmetekkel, a kelés ideje elmúlt."}
-{359}{}{"Itt nyugszik Jonathan Blake váza, mert fék helyet rálépett a gázra."}
+{354}{}{"Doug Avery. UtÃ¡lta a hÃ¡borÃºt, mert tÃ¶nkretette a kamionos Ã©letformÃ¡jÃ¡t."}
+{355}{}{"Itt nyugszik Ezekial Aikle, Ã©lt 102 Ã©vet. A jÃ³k korÃ¡n halnak."}
+{356}{}{"Itt nyugszik Ann Mann, ki vÃ©nlÃ¡nykÃ©nt Ã©lt, de vÃ©n Mann-kÃ©nt halt. 1767 Dec. 8."}
+{357}{}{"IzrÃ¡el gyermekei kenyeret akartak Ã©s az Ãšr kÃ¼ldÃ¶tt nekik mannÃ¡t, az Ã¶reg tisztvisel?, Wallace felesÃ©get akart, az Ã–rdÃ¶g meg elkÃ¼ldte neki AnnÃ¡t.}
+{358}{}{"Itt nyugszik Ã‰leszt?s Johnny. Engedelmetekkel, a kelÃ©s ideje elmÃºlt."}
+{359}{}{"Itt nyugszik Jonathan Blake vÃ¡za, mert fÃ©k helyet rÃ¡lÃ©pett a gÃ¡zra."}
 {360}{}{"Itt nyugszik Butch, sebtiben temetve, gyors volt a ravasszal, de el? lassan vette." }
-{361}{}{"Tisztelet övezze férjem, John Barnes emlékét, ki meghalt 1803 január 3-án. Tisztességes, 23 éves özvegye egy jó feleség minden tulajdonságával rendelkezik és epekedve várja, hogy valaki megvigasztalja."}
-{362}{}{"Sir Szokatlan John. Itt nyugszik egy becsületes jogász és ez bizony Szokatlan.}
-{363}{}{"Én voltam Valaki. Hogy ki, az nem tartozik rád!"}
-{364}{}{"Ez a sír Lester Moore-é, négy golyót kapott a .44-esb?l. Se többet, se kevesebbet."}
-{365}{}{"Nem hittétek el, hogy beteg vagyok!"}
-{366}{}{"Ki ezt olvasod, ha szükséged támadék egy kis pénzre, áss 4 láb mélyre és egy Penny lészen jutalmad."}
-{367}{}{"A hölgy mindig mondogatta, hogy a lábai egyszer még a vesztét okozzák majd, de senki sem hitt neki."}
-{368}{}{"Június 22-én Jonathan Fiddle kissé lehangolódott."}
-{369}{}{"Az élet kifogott Annán, kivel elbánt egy bannán. :) Nem maga a gyümölcs, mit evett, hanem a héja, melyen pofára esett."}
-{370}{}{"Eltávozott Owen Moore, nem lehetett többé Mór."}
-{371}{}{"A kis Chris, a Fa emlékére: Itt nyugszik egy fába zárt Fa, egyik Fa a másikban. A küls? fa ugyan nyer?, a bels? aligha dicsérhet?."}
-{372}{}{"Sírjára nem került dísz, itt nyugszik Jonathan Pease. Megboldogult, ez csak a porhüvelye, Pease-nek már Istennél van a helye." }
+{361}{}{"Tisztelet Ã¶vezze fÃ©rjem, John Barnes emlÃ©kÃ©t, ki meghalt 1803 januÃ¡r 3-Ã¡n. TisztessÃ©ges, 23 Ã©ves Ã¶zvegye egy jÃ³ felesÃ©g minden tulajdonsÃ¡gÃ¡val rendelkezik Ã©s epekedve vÃ¡rja, hogy valaki megvigasztalja."}
+{362}{}{"Sir Szokatlan John. Itt nyugszik egy becsÃ¼letes jogÃ¡sz Ã©s ez bizony Szokatlan.}
+{363}{}{"Ã‰n voltam Valaki. Hogy ki, az nem tartozik rÃ¡d!"}
+{364}{}{"Ez a sÃ­r Lester Moore-Ã©, nÃ©gy golyÃ³t kapott a .44-esb?l. Se tÃ¶bbet, se kevesebbet."}
+{365}{}{"Nem hittÃ©tek el, hogy beteg vagyok!"}
+{366}{}{"Ki ezt olvasod, ha szÃ¼ksÃ©ged tÃ¡madÃ©k egy kis pÃ©nzre, Ã¡ss 4 lÃ¡b mÃ©lyre Ã©s egy Penny lÃ©szen jutalmad."}
+{367}{}{"A hÃ¶lgy mindig mondogatta, hogy a lÃ¡bai egyszer mÃ©g a vesztÃ©t okozzÃ¡k majd, de senki sem hitt neki."}
+{368}{}{"JÃºnius 22-Ã©n Jonathan Fiddle kissÃ© lehangolÃ³dott."}
+{369}{}{"Az Ã©let kifogott AnnÃ¡n, kivel elbÃ¡nt egy bannÃ¡n. :) Nem maga a gyÃ¼mÃ¶lcs, mit evett, hanem a hÃ©ja, melyen pofÃ¡ra esett."}
+{370}{}{"EltÃ¡vozott Owen Moore, nem lehetett tÃ¶bbÃ© MÃ³r."}
+{371}{}{"A kis Chris, a Fa emlÃ©kÃ©re: Itt nyugszik egy fÃ¡ba zÃ¡rt Fa, egyik Fa a mÃ¡sikban. A kÃ¼ls? fa ugyan nyer?, a bels? aligha dicsÃ©rhet?."}
+{372}{}{"SÃ­rjÃ¡ra nem kerÃ¼lt dÃ­sz, itt nyugszik Jonathan Pease. Megboldogult, ez csak a porhÃ¼velye, Pease-nek mÃ¡r IstennÃ©l van a helye." }
 {373}{}{"Who was fatally burned March 21, 1870 by the explosion of a lamp filled with "R.E. Danforth's Non-Explosive Burning Fluid"."}
-{374}{}{"Született 1903-ban -- Meghalt 1942-ben. Felnézett a liftaknába, hogy lássa jön-e a lift. Jött." }
-{375}{}{"Itt fekszik egy teljesen felöltöztetett Ateista, de nincs hova mennie."}
+{374}{}{"SzÃ¼letett 1903-ban -- Meghalt 1942-ben. FelnÃ©zett a liftaknÃ¡ba, hogy lÃ¡ssa jÃ¶n-e a lift. JÃ¶tt." }
+{375}{}{"Itt fekszik egy teljesen felÃ¶ltÃ¶ztetett Ateista, de nincs hova mennie."}
 {376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
-{377}{}{"Sarah Smart: Szónok, Író, Professzor, De Amicitia."}
+{377}{}{"Sarah Smart: SzÃ³nok, ÃrÃ³, Professzor, De Amicitia."}
 {378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
 {379}{}{"Jughead - King of Queen Archie's World".}
 {380}{}{"R.I.P Casey Donahue Died 8/6/98 Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
 {382}{}{"Jay "Potato Feet" Nielson. Musician. Passed on at the age of 104, during a drum solo."}
-{383}{}{"Nitsa - Charles ?miatta nem jutott jéghokihoz."}
-{384}{}{"Thuy Dang. Isten bocsássa meg a nevét."}
-{500}{}{Ügyesen elhelyeztél egy csapdát a sírba.}
-{501}{}{Nem sikerült épkézláb csapdát helyezned a sírba. }
-{510}{}{ ügyesen elhelyezett egy csapdát a sírba.}
-{511}{}{ sikertelenül próbált csapdát helyezni a sírba. }
-{515}{}{A síron találtál egy csapdát.}
-{516}{}{Nem találtál csapdát a síron.}
-{520}{}{ talált egy csapdát a síron.}
-{521}{}{ nem talált csapdát a síron.}
-{525}{}{Hozzáért?en hatástalanítottad a csapdát.}
-{526}{}{Nem sikerült hatástalanítanod a csapdát.}
-{530}{}{ hozzáért?en hatástalanította a csapdát.}
-{531}{}{ nem tudta hatástalanítani a csapdát.}
+{383}{}{"Nitsa - Charles ?miatta nem jutott jÃ©ghokihoz."}
+{384}{}{"Thuy Dang. Isten bocsÃ¡ssa meg a nevÃ©t."}
+{500}{}{Ãœgyesen elhelyeztÃ©l egy csapdÃ¡t a sÃ­rba.}
+{501}{}{Nem sikerÃ¼lt Ã©pkÃ©zlÃ¡b csapdÃ¡t helyezned a sÃ­rba. }
+{510}{}{ Ã¼gyesen elhelyezett egy csapdÃ¡t a sÃ­rba.}
+{511}{}{ sikertelenÃ¼l prÃ³bÃ¡lt csapdÃ¡t helyezni a sÃ­rba. }
+{515}{}{A sÃ­ron talÃ¡ltÃ¡l egy csapdÃ¡t.}
+{516}{}{Nem talÃ¡ltÃ¡l csapdÃ¡t a sÃ­ron.}
+{520}{}{ talÃ¡lt egy csapdÃ¡t a sÃ­ron.}
+{521}{}{ nem talÃ¡lt csapdÃ¡t a sÃ­ron.}
+{525}{}{HozzÃ¡Ã©rt?en hatÃ¡stalanÃ­tottad a csapdÃ¡t.}
+{526}{}{Nem sikerÃ¼lt hatÃ¡stalanÃ­tanod a csapdÃ¡t.}
+{530}{}{ hozzÃ¡Ã©rt?en hatÃ¡stalanÃ­totta a csapdÃ¡t.}
+{531}{}{ nem tudta hatÃ¡stalanÃ­tani a csapdÃ¡t.}

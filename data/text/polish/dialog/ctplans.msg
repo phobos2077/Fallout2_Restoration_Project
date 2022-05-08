@@ -1,1 +1,1 @@
-{100}{}{Uda³o ci siê zdobyæ plany Latacza.}
+{100}{}{UdaÅ‚o ci siÄ™ zdobyÄ‡ plany Latacza.}

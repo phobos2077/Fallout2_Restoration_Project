@@ -1,65 +1,65 @@
-{100}{}{Widzisz wysokiego, siwiej¹cego mê¿czyznê z kufelkiem piwa.}
-{101}{}{Widzisz Johna L. Sullivana, piêœciarza.}
-{102}{}{Widzisz wysokiego, starszego mê¿czyznê z muskularnymi ramionami i siwymi, piêknie zaczesanymi sumiastymi w¹sami.}
-{103}{}{Ta, ju¿ masz ciutkê za wiela.}
-{104}{}{Dla boga, ale masz wióry pod klepk¹.}
-{105}{}{NieŸle by Torr dosta³ za jego pieniundze.}
-{106}{}{No, ruszaj siê, dziwactwo takowe jakieœ.}
-{107}{}{A, nastêpny dzikus kopniêty przez matulê naturê w ¿yæ.}
-{108}{}{[Ogl¹da ciê z góry na dó³ z zadowoleniem] No, co my tu mamy? Co widzio³, to nie znalisz ty za wiele naszej nauki, co?}
-{109}{}{Jak se zejdziesz z tego twojego bochego padu³u, to dyæ i mo¿e pomogo ci trocha z twemi machaniami.}
-{110}{}{O czym ty mówisz?}
-{111}{}{A tak, jasne, prze pana. Zobaczymy siê kiedy indziej. Mo¿e.}
-{112}{}{No, toæ tylko moja wyedukacyjowana myœl, li mog³o by ci siê nadaæ trochê wskazówek.}
-{113}{}{Wskazówek? W czym?}
-{114}{}{Nie s¹dzê, starcze. W¹tpiê, ¿ebyœ *ty* móg³ mnie czegokolwiek nauczyæ. Na razie.}
-{115}{}{Dyæ w s³odziutkiej nauce. W sztuce sportowej.}
-{116}{}{Ee, sztuce? Mówisz o magii!?! Mo¿esz mnie nauczyæ magicznych czarów?}
-{117}{}{O czym ty mówisz?}
-{118}{}{[Uœmiecha siê szeroko] Takoj, móg³¿ebym bajaæ ci o strzygoniach, utopcach i innych w¹pierzach. Chcesz li tego?}
+{100}{}{Widzisz wysokiego, siwiejÄ…cego mÄ™Å¼czyznÄ™ z kufelkiem piwa.}
+{101}{}{Widzisz Johna L. Sullivana, piÄ™Å›ciarza.}
+{102}{}{Widzisz wysokiego, starszego mÄ™Å¼czyznÄ™ z muskularnymi ramionami i siwymi, piÄ™knie zaczesanymi sumiastymi wÄ…sami.}
+{103}{}{Ta, juÅ¼ masz ciutkÄ™ za wiela.}
+{104}{}{Dla boga, ale masz wiÃ³ry pod klepkÄ….}
+{105}{}{NieÅºle by Torr dostaÅ‚ za jego pieniundze.}
+{106}{}{No, ruszaj siÄ™, dziwactwo takowe jakieÅ›.}
+{107}{}{A, nastÄ™pny dzikus kopniÄ™ty przez matulÄ™ naturÄ™ w Å¼yÄ‡.}
+{108}{}{[OglÄ…da ciÄ™ z gÃ³ry na dÃ³Å‚ z zadowoleniem] No, co my tu mamy? Co widzioÅ‚, to nie znalisz ty za wiele naszej nauki, co?}
+{109}{}{Jak se zejdziesz z tego twojego bochego paduÅ‚u, to dyÄ‡ i moÅ¼e pomogo ci trocha z twemi machaniami.}
+{110}{}{O czym ty mÃ³wisz?}
+{111}{}{A tak, jasne, prze pana. Zobaczymy siÄ™ kiedy indziej. MoÅ¼e.}
+{112}{}{No, toÄ‡ tylko moja wyedukacyjowana myÅ›l, li mogÅ‚o by ci siÄ™ nadaÄ‡ trochÄ™ wskazÃ³wek.}
+{113}{}{WskazÃ³wek? W czym?}
+{114}{}{Nie sÄ…dzÄ™, starcze. WÄ…tpiÄ™, Å¼ebyÅ› *ty* mÃ³gÅ‚ mnie czegokolwiek nauczyÄ‡. Na razie.}
+{115}{}{DyÄ‡ w sÅ‚odziutkiej nauce. W sztuce sportowej.}
+{116}{}{Ee, sztuce? MÃ³wisz o magii!?! MoÅ¼esz mnie nauczyÄ‡ magicznych czarÃ³w?}
+{117}{}{O czym ty mÃ³wisz?}
+{118}{}{[UÅ›miecha siÄ™ szeroko] Takoj, mÃ³gÅ‚Å¼ebym bajaÄ‡ ci o strzygoniach, utopcach i innych wÄ…pierzach. Chcesz li tego?}
 {119}{}{Brzmi wspaniale. Naucz mnie tego.}
-{120}{}{Piêœciarstwo, mêska sztuka bitki na rêce. Zalim to mia³ na umyœle.}
-{121}{}{Piêœciarstwo, mêska, ee, i kobica, sztuka bitki na rêce. Zalim to mia³ na umyœle.}
-{122}{}{Có¿, chyba to te¿ mi mo¿e siê przydaæ.}
-{123}{}{Chyba wiem o tym wiêcej, ni¿ mo¿esz mnie jeszcze douczyæ.}
-{124}{}{[mówi¹c do ludzi dooko³a] S³yszali? Mam ja tu takowego. Chce s³uchaæ o krasnoludkach, po³udnicach i innych strzygach. [ze œmiechu prawie nie zlatuje ze sto³ka] Dali, brachu, piwo na mnie, toæ twój bilet do œwiata dziwów.}
-{125}{}{[mówi¹c do ludzi dooko³a] S³yszali? Mam ja tu takowego. Chce s³uchaæ o krasnoludkach, po³udnicach i innych strzygach. [ze œmiechu prawie nie zlatuje ze sto³ka] Dali, krasawico, piwo na mnie, toæ twój bilet do œwiata dziwów.}
-{126}{}{Potrzebujê tylko siê napiæ? To wspaniale. Dziêki za radê.}
-{127}{}{Jakoœ wydaje mi siê, ¿e mnie trochê nabierasz.}
-{128}{}{Zali, napitek to zacz¹tek. Musita znaleŸæ oczko rusa³kowe. [mruga do siedz¹cych obok]}
+{120}{}{PiÄ™Å›ciarstwo, mÄ™ska sztuka bitki na rÄ™ce. Zalim to miaÅ‚ na umyÅ›le.}
+{121}{}{PiÄ™Å›ciarstwo, mÄ™ska, ee, i kobica, sztuka bitki na rÄ™ce. Zalim to miaÅ‚ na umyÅ›le.}
+{122}{}{CÃ³Å¼, chyba to teÅ¼ mi moÅ¼e siÄ™ przydaÄ‡.}
+{123}{}{Chyba wiem o tym wiÄ™cej, niÅ¼ moÅ¼esz mnie jeszcze douczyÄ‡.}
+{124}{}{[mÃ³wiÄ…c do ludzi dookoÅ‚a] SÅ‚yszali? Mam ja tu takowego. Chce sÅ‚uchaÄ‡ o krasnoludkach, poÅ‚udnicach i innych strzygach. [ze Å›miechu prawie nie zlatuje ze stoÅ‚ka] Dali, brachu, piwo na mnie, toÄ‡ twÃ³j bilet do Å›wiata dziwÃ³w.}
+{125}{}{[mÃ³wiÄ…c do ludzi dookoÅ‚a] SÅ‚yszali? Mam ja tu takowego. Chce sÅ‚uchaÄ‡ o krasnoludkach, poÅ‚udnicach i innych strzygach. [ze Å›miechu prawie nie zlatuje ze stoÅ‚ka] Dali, krasawico, piwo na mnie, toÄ‡ twÃ³j bilet do Å›wiata dziwÃ³w.}
+{126}{}{PotrzebujÄ™ tylko siÄ™ napiÄ‡? To wspaniale. DziÄ™ki za radÄ™.}
+{127}{}{JakoÅ› wydaje mi siÄ™, Å¼e mnie trochÄ™ nabierasz.}
+{128}{}{Zali, napitek to zaczÄ…tek. Musita znaleÅºÄ‡ oczko rusaÅ‚kowe. [mruga do siedzÄ…cych obok]}
 {129}{}{I co potem?}
-{130}{}{No, siadasz przy stawiku i œlepia wypatrujesz za rusa³eczk¹ w wodzie. Jak wskoczysz w toñ, porw¹ ciê w tan do samej jutrzni. Jeœli wy¿yjesz, to ukradn¹ ciê do rusa³kowej krainy. [h³e, h³e, cha, cha]}
-{131}{}{Jak siê o tym dowiedzia³eœ?}
-{132}{}{Jakoœ wydaje mi siê, ¿e mnie nabierasz.}
-{133}{}{O, dyæ w mojej krwi to, pakoj. Jakem ja dêb! [podnosi swój kufel]}
-{134}{}{Tak, jedŸ sobie tym jakiem. Dobra. Dziêki za rady. S³uchaj, pozwól, ¿e zapytam ciê o coœ innego.}
-{135}{}{Jakoœ wydaje mi siê, ¿e wszystko to sobie zmyœli³eœ.}
-{136}{}{Yy, có¿, ee, widzê, ¿e z ciebie zajêty cz³owiek. Do zobaczenia póŸniej.}
-{137}{}{[Patrzy na ciebie] Mo¿e i to prawda jest. Mo¿e tak. No to oporz¹dŸ siê.}
-{138}{}{Tak zrobiê. Do widzenia.}
-{139}{}{Mo¿e i tak. Ale tak czy owak pysznie ¿em siê ubawi³. Tu masz piwko, na mnie, za takie ³ykniêcie tego.}
-{140}{}{Dziêki. A teraz co tam mówi³eœ o tej s³odkiej nauce?}
-{141}{}{Nie wezmê od ciebie piwa. Wiem wiêcej, ni¿ móg³byœ mnie nauczyæ, stary pijaku. ¯egnam.}
-{142}{}{No, chodŸmy na s³oñce. Znajesz, to wszystko biega o to, sztoby ca³e cia³o uderza³o jako ten œwiñski bat...}
+{130}{}{No, siadasz przy stawiku i Å›lepia wypatrujesz za rusaÅ‚eczkÄ… w wodzie. Jak wskoczysz w toÅ„, porwÄ… ciÄ™ w tan do samej jutrzni. JeÅ›li wyÅ¼yjesz, to ukradnÄ… ciÄ™ do rusaÅ‚kowej krainy. [hÅ‚e, hÅ‚e, cha, cha]}
+{131}{}{Jak siÄ™ o tym dowiedziaÅ‚eÅ›?}
+{132}{}{JakoÅ› wydaje mi siÄ™, Å¼e mnie nabierasz.}
+{133}{}{O, dyÄ‡ w mojej krwi to, pakoj. Jakem ja dÄ™b! [podnosi swÃ³j kufel]}
+{134}{}{Tak, jedÅº sobie tym jakiem. Dobra. DziÄ™ki za rady. SÅ‚uchaj, pozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{135}{}{JakoÅ› wydaje mi siÄ™, Å¼e wszystko to sobie zmyÅ›liÅ‚eÅ›.}
+{136}{}{Yy, cÃ³Å¼, ee, widzÄ™, Å¼e z ciebie zajÄ™ty czÅ‚owiek. Do zobaczenia pÃ³Åºniej.}
+{137}{}{[Patrzy na ciebie] MoÅ¼e i to prawda jest. MoÅ¼e tak. No to oporzÄ…dÅº siÄ™.}
+{138}{}{Tak zrobiÄ™. Do widzenia.}
+{139}{}{MoÅ¼e i tak. Ale tak czy owak pysznie Å¼em siÄ™ ubawiÅ‚. Tu masz piwko, na mnie, za takie Å‚ykniÄ™cie tego.}
+{140}{}{DziÄ™ki. A teraz co tam mÃ³wiÅ‚eÅ› o tej sÅ‚odkiej nauce?}
+{141}{}{Nie wezmÄ™ od ciebie piwa. Wiem wiÄ™cej, niÅ¼ mÃ³gÅ‚byÅ› mnie nauczyÄ‡, stary pijaku. Å»egnam.}
+{142}{}{No, chodÅºmy na sÅ‚oÅ„ce. Znajesz, to wszystko biega o to, sztoby caÅ‚e ciaÅ‚o uderzaÅ‚o jako ten Å›wiÅ„ski bat...}
 {143}{}{A, cha.}
 {144}{}{Nie mam na to teraz czasu. Na razie.}
-{145}{}{[Po kilku sp³ywaj¹cych potem godzinach] Tera poznajesz, co siê by³o robi³o Ÿle?}
-{146}{}{Tak, rozumiem. Dziêkujê, ¿e poœwiêci³eœ mi pan swój czas, panie Sullivan.}
-{147}{}{To by³o wspania³e. Pozwól, ¿e dam ci $10 na browar. Przynajmniej tyle mogê zrobiæ.}
-{148}{}{Ta, chyba tak. Dziêki. Na razie.}
-{149}{}{Mojaszto by³a radnoj. A jakby kto pyta³... rzeknij, i¿li to Pi¹stka John Sullivan nauczy³ by³ ciê takiej bitki.}
-{150}{}{Zrobi siê, Johnie. Dziêkujê i do zobaczenia.}
-{151}{}{Nie, nie. Nie móg³¿ebym wzi¹æ twoich pieniundzów. Toæ by³a moja przyjemnoœæ nauczaja ciê, com umia³. Baczaj na siebie. Masz-li iskrê.}
-{152}{}{To wspaniale, ale pozwól, ¿e spytam ciê o jedn¹ rzecz. Gdzie siê tak nauczy³eœ walczyæ?}
-{153}{}{Dziêki, John. Do widzenia.}
-{154}{}{To dawne dzieje. Jak¿em by³ jeszcze ma³ym knypkiem, nie mia³em oleju w ³bie. Sadyba nazywajo Reno. Nie szukaj guza i trzymajta siê z dala od ludzisk stamt¹d.}
+{145}{}{[Po kilku spÅ‚ywajÄ…cych potem godzinach] Tera poznajesz, co siÄ™ byÅ‚o robiÅ‚o Åºle?}
+{146}{}{Tak, rozumiem. DziÄ™kujÄ™, Å¼e poÅ›wiÄ™ciÅ‚eÅ› mi pan swÃ³j czas, panie Sullivan.}
+{147}{}{To byÅ‚o wspaniaÅ‚e. PozwÃ³l, Å¼e dam ci $10 na browar. Przynajmniej tyle mogÄ™ zrobiÄ‡.}
+{148}{}{Ta, chyba tak. DziÄ™ki. Na razie.}
+{149}{}{Mojaszto byÅ‚a radnoj. A jakby kto pytaÅ‚... rzeknij, iÅ¼li to PiÄ…stka John Sullivan nauczyÅ‚ byÅ‚ ciÄ™ takiej bitki.}
+{150}{}{Zrobi siÄ™, Johnie. DziÄ™kujÄ™ i do zobaczenia.}
+{151}{}{Nie, nie. Nie mÃ³gÅ‚Å¼ebym wziÄ…Ä‡ twoich pieniundzÃ³w. ToÄ‡ byÅ‚a moja przyjemnoÅ›Ä‡ nauczaja ciÄ™, com umiaÅ‚. Baczaj na siebie. Masz-li iskrÄ™.}
+{152}{}{To wspaniale, ale pozwÃ³l, Å¼e spytam ciÄ™ o jednÄ… rzecz. Gdzie siÄ™ tak nauczyÅ‚eÅ› walczyÄ‡?}
+{153}{}{DziÄ™ki, John. Do widzenia.}
+{154}{}{To dawne dzieje. JakÅ¼em byÅ‚ jeszcze maÅ‚ym knypkiem, nie miaÅ‚em oleju w Å‚bie. Sadyba nazywajo Reno. Nie szukaj guza i trzymajta siÄ™ z dala od ludzisk stamtÄ…d.}
 {155}{}{Gdzie jest Reno?}
-{156}{}{Och, w porz¹dku. Dziêki, John. Do widzenia.}
-{157}{}{Nie rzeknê ci. Ruszajta ju¿. I nie figluj. Bywaj.}
-{158}{}{OK, jeszcze raz dziêki. Do zobaczenia, John.}
-{159}{}{Trzymajta siê z dala od k³opotów. Umisz ju¿ to co ja.}
-{160}{}{Dziêki. Wspomina³eœ coœ przedtem o sztuce?}
-{161}{}{Dziêki, John. Doceniam twoj¹ pomoc. Do zobaczenia.}
-{162}{}{Rzek³em by³em o piêœciarstwie. Reszta to by³a bujda. Ju¿li lepiej wróca do mojego kufelka. Miej szczêœcie.}
-{163}{}{Och, w porz¹dku. Dziêki, John. Do widzenia.}
-{164}{}{John Sullivan pomóg³ ci polepszyæ twoje zdolnoœci walki wrêcz i broni¹ bia³¹.}
+{156}{}{Och, w porzÄ…dku. DziÄ™ki, John. Do widzenia.}
+{157}{}{Nie rzeknÄ™ ci. Ruszajta juÅ¼. I nie figluj. Bywaj.}
+{158}{}{OK, jeszcze raz dziÄ™ki. Do zobaczenia, John.}
+{159}{}{Trzymajta siÄ™ z dala od kÅ‚opotÃ³w. Umisz juÅ¼ to co ja.}
+{160}{}{DziÄ™ki. WspominaÅ‚eÅ› coÅ› przedtem o sztuce?}
+{161}{}{DziÄ™ki, John. Doceniam twojÄ… pomoc. Do zobaczenia.}
+{162}{}{RzekÅ‚em byÅ‚em o piÄ™Å›ciarstwie. Reszta to byÅ‚a bujda. JuÅ¼li lepiej wrÃ³ca do mojego kufelka. Miej szczÄ™Å›cie.}
+{163}{}{Och, w porzÄ…dku. DziÄ™ki, John. Do widzenia.}
+{164}{}{John Sullivan pomÃ³gÅ‚ ci polepszyÄ‡ twoje zdolnoÅ›ci walki wrÄ™cz i broniÄ… biaÅ‚Ä….}

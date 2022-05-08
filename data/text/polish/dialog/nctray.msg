@@ -1,266 +1,266 @@
-{100}{}{Widzisz przystojnego czarnego mê¿czyznê... eee, nie, zaczekaj. Widzisz T-Raya.}
-{150}{}{Widzisz dobrze umiêœnionego, czarnego mê¿czyznê w grubych okularach, z rzadk¹ bródk¹ i du¿ym tupetem.}
-{151}{}{Widzisz T-Raya. Dobrze mu w tych onych d¿insach.}
-{152}{}{Widzisz T-Raya. Raz na jakiœ czas porusza i dotyka swoich bicepsów, szepc¹c do siebie "kurde".}
-{153}{}{Z ledwoœci¹ dostrzegasz T-Raya spod tego ca³ego tupetu.}
-{200}{}{Hej, to nie moja wina, ¿e w tej gumce, której u¿yliœmy, by³a dziura.}
-{201}{}{Hejhejhej! Nie chwali³em siê nikomu, ¿e ty i ja to robiliœmy. Naprawdê! Ktoœ inny musia³ to powiedzieæ.}
-{202}{}{KURDE, kobieto. Po tym ca³ym dymaniu odchodzisz i ratujesz œwiat. Oto jak na ciebie dzia³a moc T-Raya.}
-{210}{}{Powiedzia³em wszystkim, ¿e ze sob¹ TRZYMAMY. Kiedy dajê s³owo, to tak samo jak wtedy, gdy ty wydajesz rozkazy.}
-{211}{}{Masz szczêœcie, ¿e by³em w pobli¿u by uratowaæ twój ty³ek, bo inaczej Enklawa zjad³aby ciê na ŒNIADANIE.}
-{212}{}{Jo, hiro³. Powiedz wszystkim, ¿e T-Ray to twój cz³owiek, dobrzeee?}
-{220}{}{Hejhejhej, zawita³a do nas rodzina królewska. Oto idzie cz³owiek o wielkich zas³ugach.}
-{221}{}{Wiesz, gdyby przysz³o ci do g³owy wpaœæ tu przed t¹ ca³¹ wypraw¹ i odwaleniem ca³ej tej roboty, to móg³bym pomóc ci zflekowaæ prezydenta.}
-{222}{}{Te¿ poszed³bym do Enklawy, ale by³em zbyt zajêty rozmow¹ przez telefon.}
-{230}{}{Ile koni mechanicznych ma to coœ, co masz na sobie?}
-{231}{}{Jak sobie radzisz w toalecie z ca³ym tym ¿elastwem na sobie?}
-{232}{}{Da³oby siê, ¿ebym dosta³ na chwilê tê zbrojê? Nie bêdê jej rozbieraæ, chcê j¹ tylko po¿yczyæ.}
-{250}{}{Oto przychodzi cz³owiek, by znów mnie mêczyæ.}
-{251}{}{O tak, Impala to dobry samochód, ale to nic w porównaniu z Omni.}
-{252}{}{Zawsze, kiedy siê kochamy, jest gor¹co jak w wulkanie...}
-{253}{}{Kurde, temu samochodowi przyda³aby siê mosiê¿na obwódka wokó³ tablicy rejestracyjnej.}
-{254}{}{Silnik wci¹¿ w dobrym stanie.}
-{255}{}{Wnêtrze œmierdzi trochê tak, jakby ktoœ siê w nim zesra³.}
-{256}{}{Wnêtrze œmierdzi gekonami.}
-{257}{}{A gdzie ten samochód mia³by siê ŒPIESZYÆ?}
-{258}{}{Samochód nie musi siê œpieszyæ, ¿eby zabraæ ciê tam, gdzie zechcesz, kapewu?}
-{259}{}{Mój samochód nie jest szybki, ale moje kochanie i owszem.}
-{260}{}{Nie mogê uwierzyæ, ¿e moja klata jest tak DU¯A jak w³aœnie jest.}
-{261}{}{Mam kaca na miarê dwug³owej braminy.}
-{262}{}{Ten Kr¹¿ownik szos ma pe³ny system analogowy, 800+ koni mechanicznych, przyspiesza od 0 do 60 mil w mniej ni¿ sekundê.}
-{263}{}{Szybki? Kr¹¿ownik szos przyspiesza od 0 do 60 mil w mniej ni¿ sekundê.}
-{264}{}{Ten Kr¹¿ownik szos ma kopa: w sumie 800+.}
-{265}{}{Ten Kr¹¿ownik szos ma pe³ny system analogowy i ¿adnych komputerów. ¯adnych udziwnieñ.}
-{266}{}{Ten Kr¹¿ownik szos to uroczy wózek. Chrystus zdecydowanie wiedzia³, jak to siê robi.}
-{267}{}{Mia³em dziesiêæ aut, gdy zatr¹bi³ na mnie œwiat.}
-{268}{}{Daj mi tê czêœæ, tê jedn¹ czêœæ.}
-{275}{}{Kim jesteœ? Co tu robisz?}
-{276}{}{Kurde. Popatrzcie, kto tu wszed³... wygl¹da na to, ¿e te wszystkie æwiczenia górnych czêœci cia³a w koñcu siê na coœ przyda³y. Co mogê dla ciebie zrobiæ, kochanie?}
+{100}{}{Widzisz przystojnego czarnego mÄ™Å¼czyznÄ™... eee, nie, zaczekaj. Widzisz T-Raya.}
+{150}{}{Widzisz dobrze umiÄ™Å›nionego, czarnego mÄ™Å¼czyznÄ™ w grubych okularach, z rzadkÄ… brÃ³dkÄ… i duÅ¼ym tupetem.}
+{151}{}{Widzisz T-Raya. Dobrze mu w tych onych dÅ¼insach.}
+{152}{}{Widzisz T-Raya. Raz na jakiÅ› czas porusza i dotyka swoich bicepsÃ³w, szepcÄ…c do siebie "kurde".}
+{153}{}{Z ledwoÅ›ciÄ… dostrzegasz T-Raya spod tego caÅ‚ego tupetu.}
+{200}{}{Hej, to nie moja wina, Å¼e w tej gumce, ktÃ³rej uÅ¼yliÅ›my, byÅ‚a dziura.}
+{201}{}{Hejhejhej! Nie chwaliÅ‚em siÄ™ nikomu, Å¼e ty i ja to robiliÅ›my. NaprawdÄ™! KtoÅ› inny musiaÅ‚ to powiedzieÄ‡.}
+{202}{}{KURDE, kobieto. Po tym caÅ‚ym dymaniu odchodzisz i ratujesz Å›wiat. Oto jak na ciebie dziaÅ‚a moc T-Raya.}
+{210}{}{PowiedziaÅ‚em wszystkim, Å¼e ze sobÄ… TRZYMAMY. Kiedy dajÄ™ sÅ‚owo, to tak samo jak wtedy, gdy ty wydajesz rozkazy.}
+{211}{}{Masz szczÄ™Å›cie, Å¼e byÅ‚em w pobliÅ¼u by uratowaÄ‡ twÃ³j tyÅ‚ek, bo inaczej Enklawa zjadÅ‚aby ciÄ™ na ÅšNIADANIE.}
+{212}{}{Jo, hiroÅ‚. Powiedz wszystkim, Å¼e T-Ray to twÃ³j czÅ‚owiek, dobrzeee?}
+{220}{}{Hejhejhej, zawitaÅ‚a do nas rodzina krÃ³lewska. Oto idzie czÅ‚owiek o wielkich zasÅ‚ugach.}
+{221}{}{Wiesz, gdyby przyszÅ‚o ci do gÅ‚owy wpaÅ›Ä‡ tu przed tÄ… caÅ‚Ä… wyprawÄ… i odwaleniem caÅ‚ej tej roboty, to mÃ³gÅ‚bym pomÃ³c ci zflekowaÄ‡ prezydenta.}
+{222}{}{TeÅ¼ poszedÅ‚bym do Enklawy, ale byÅ‚em zbyt zajÄ™ty rozmowÄ… przez telefon.}
+{230}{}{Ile koni mechanicznych ma to coÅ›, co masz na sobie?}
+{231}{}{Jak sobie radzisz w toalecie z caÅ‚ym tym Å¼elastwem na sobie?}
+{232}{}{DaÅ‚oby siÄ™, Å¼ebym dostaÅ‚ na chwilÄ™ tÄ™ zbrojÄ™? Nie bÄ™dÄ™ jej rozbieraÄ‡, chcÄ™ jÄ… tylko poÅ¼yczyÄ‡.}
+{250}{}{Oto przychodzi czÅ‚owiek, by znÃ³w mnie mÄ™czyÄ‡.}
+{251}{}{O tak, Impala to dobry samochÃ³d, ale to nic w porÃ³wnaniu z Omni.}
+{252}{}{Zawsze, kiedy siÄ™ kochamy, jest gorÄ…co jak w wulkanie...}
+{253}{}{Kurde, temu samochodowi przydaÅ‚aby siÄ™ mosiÄ™Å¼na obwÃ³dka wokÃ³Å‚ tablicy rejestracyjnej.}
+{254}{}{Silnik wciÄ…Å¼ w dobrym stanie.}
+{255}{}{WnÄ™trze Å›mierdzi trochÄ™ tak, jakby ktoÅ› siÄ™ w nim zesraÅ‚.}
+{256}{}{WnÄ™trze Å›mierdzi gekonami.}
+{257}{}{A gdzie ten samochÃ³d miaÅ‚by siÄ™ ÅšPIESZYÄ†?}
+{258}{}{SamochÃ³d nie musi siÄ™ Å›pieszyÄ‡, Å¼eby zabraÄ‡ ciÄ™ tam, gdzie zechcesz, kapewu?}
+{259}{}{MÃ³j samochÃ³d nie jest szybki, ale moje kochanie i owszem.}
+{260}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e moja klata jest tak DUÅ»A jak wÅ‚aÅ›nie jest.}
+{261}{}{Mam kaca na miarÄ™ dwugÅ‚owej braminy.}
+{262}{}{Ten KrÄ…Å¼ownik szos ma peÅ‚ny system analogowy, 800+ koni mechanicznych, przyspiesza od 0 do 60 mil w mniej niÅ¼ sekundÄ™.}
+{263}{}{Szybki? KrÄ…Å¼ownik szos przyspiesza od 0 do 60 mil w mniej niÅ¼ sekundÄ™.}
+{264}{}{Ten KrÄ…Å¼ownik szos ma kopa: w sumie 800+.}
+{265}{}{Ten KrÄ…Å¼ownik szos ma peÅ‚ny system analogowy i Å¼adnych komputerÃ³w. Å»adnych udziwnieÅ„.}
+{266}{}{Ten KrÄ…Å¼ownik szos to uroczy wÃ³zek. Chrystus zdecydowanie wiedziaÅ‚, jak to siÄ™ robi.}
+{267}{}{MiaÅ‚em dziesiÄ™Ä‡ aut, gdy zatrÄ…biÅ‚ na mnie Å›wiat.}
+{268}{}{Daj mi tÄ™ czÄ™Å›Ä‡, tÄ™ jednÄ… czÄ™Å›Ä‡.}
+{275}{}{Kim jesteÅ›? Co tu robisz?}
+{276}{}{Kurde. Popatrzcie, kto tu wszedÅ‚... wyglÄ…da na to, Å¼e te wszystkie Ä‡wiczenia gÃ³rnych czÄ™Å›ci ciaÅ‚a w koÅ„cu siÄ™ na coÅ› przydaÅ‚y. Co mogÄ™ dla ciebie zrobiÄ‡, kochanie?}
 {277}{}{Znowu ty? Czego ZNOWU chcesz?}
-{278}{}{Kurde, kobieto... znowu tutaj? Czego ZNOWU chcesz? Nie chcê s³uchaæ nic o tym, jak zasz³aœ w ci¹¿ê...}
+{278}{}{Kurde, kobieto... znowu tutaj? Czego ZNOWU chcesz? Nie chcÄ™ sÅ‚uchaÄ‡ nic o tym, jak zaszÅ‚aÅ› w ciÄ…Å¼Ä™...}
 {279}{}{}
 {280}{}{ wchodzi gdzie }
-{281}{}{ iœæ}
-{282}{}{OdejdŸ}
-{283}{}{Sk¹d masz ten Kr¹¿ownik szos? Podoba mi siê jego wygl¹d.}
-{284}{}{Ten samochód w gara¿u nale¿y do mnie.}
-{285}{}{To ty jesteœ tym dupkiem, który ukrad³ mój samochód?}
+{281}{}{ iÅ›Ä‡}
+{282}{}{OdejdÅº}
+{283}{}{SkÄ…d masz ten KrÄ…Å¼ownik szos? Podoba mi siÄ™ jego wyglÄ…d.}
+{284}{}{Ten samochÃ³d w garaÅ¼u naleÅ¼y do mnie.}
+{285}{}{To ty jesteÅ› tym dupkiem, ktÃ³ry ukradÅ‚ mÃ³j samochÃ³d?}
 {286}{}{Jestem porucznikiem Bichopa, }
-{287}{}{Jestem jednym z poruczników Bishopa. Jestem tu po jego samochód.}
+{287}{}{Jestem jednym z porucznikÃ³w Bishopa. Jestem tu po jego samochÃ³d.}
 {288}{}{Przybywam po darmowe baterie dla pana Bishopa.}
-{289}{}{Czy mo¿esz ulepszyæ tego Highwaymana?}
-{290}{}{Czy mogê kupiæ od ciebie baterie?}
-{291}{}{Nic takiego. Ju¿ sobie idê.}
-{300}{}{Cz³owieku, to NIE toaleta, wcale tu nie wchodzisz. Spadaj.}
+{289}{}{Czy moÅ¼esz ulepszyÄ‡ tego Highwaymana?}
+{290}{}{Czy mogÄ™ kupiÄ‡ od ciebie baterie?}
+{291}{}{Nic takiego. JuÅ¼ sobie idÄ™.}
+{300}{}{CzÅ‚owieku, to NIE toaleta, wcale tu nie wchodzisz. Spadaj.}
 {301}{}{Dziewczyno, to NIE toaleta, wcale tu nie wchodzisz. Spadaj.}
-{302}{}{Chcesz w to WEJŒÆ? Tutaj? Nooo... (ogl¹da ciê od góry do do³u) ...mê¿czyzna musi robiæ, co do niego nale¿y. Zróbmy to od razu.}
+{302}{}{Chcesz w to WEJÅšÄ†? Tutaj? Nooo... (oglÄ…da ciÄ™ od gÃ³ry do doÅ‚u) ...mÄ™Å¼czyzna musi robiÄ‡, co do niego naleÅ¼y. ZrÃ³bmy to od razu.}
 {303}{}{Aha, aha.}
 {304}{}{Nia nia.}
-{306}{}{Zróbcie to od razu.}
-{307}{}{Uch nie, dziêki. Ju¿ nie mam na to o choty. Do widzenia.}
+{306}{}{ZrÃ³bcie to od razu.}
+{307}{}{Uch nie, dziÄ™ki. JuÅ¼ nie mam na to o choty. Do widzenia.}
 {320}{}{No dobrze...}
 {321}{}{Uch-uch-uch}
-{330}{}{Aj, wiêc tylko IGRASZ z T-Ray'em? No dobra. Zmiataj, kobieto... mam lepsze suki pod rêk¹.}
-{331}{}{A czaz p³ynie, p³ynie, p³ynie... ku przysz³oœci.}
-{333}{}{Jeœli dasz radê z³apaæ sobie jakiegoœ psa, to mo¿esz zrobiæ z nim, co tylko zechcesz. ¯egnam.}
-{334}{}{To, ¿e uprawiasz seks z psami, dziwnym trafem mnie nie zaskakuje. ¯egnam.}
-{340}{}{Masz na myœli tego Highwaymana za drzwiami? Masz RACJÊ, ¿e ci siê podoba jego wygl¹d. To cudowna maszyna, niedawny nab-bytek... w³aœnie chcemy trochê go przystroiæ, dodaæ kilka ulepszeñ, a potem opyliæ staremu Bishopowi.}
+{330}{}{Aj, wiÄ™c tylko IGRASZ z T-Ray'em? No dobra. Zmiataj, kobieto... mam lepsze suki pod rÄ™kÄ….}
+{331}{}{A czaz pÅ‚ynie, pÅ‚ynie, pÅ‚ynie... ku przyszÅ‚oÅ›ci.}
+{333}{}{JeÅ›li dasz radÄ™ zÅ‚apaÄ‡ sobie jakiegoÅ› psa, to moÅ¼esz zrobiÄ‡ z nim, co tylko zechcesz. Å»egnam.}
+{334}{}{To, Å¼e uprawiasz seks z psami, dziwnym trafem mnie nie zaskakuje. Å»egnam.}
+{340}{}{Masz na myÅ›li tego Highwaymana za drzwiami? Masz RACJÄ˜, Å¼e ci siÄ™ podoba jego wyglÄ…d. To cudowna maszyna, niedawny nab-bytek... wÅ‚aÅ›nie chcemy trochÄ™ go przystroiÄ‡, dodaÄ‡ kilka ulepszeÅ„, a potem opyliÄ‡ staremu Bishopowi.}
 {341}{}{"Ulepszenia"? Jakiego rodzaju ulepszenia?}
-{342}{}{Sprzedaæ BISHOPOWI? S³uchaj, idioto... Bishiop nie¿... eee, to znaczy, mogê daæ tyle samo co Bishop.}
-{343}{}{Sprzedaæ Bishopowi? Do diaska, mogê daæ tyle samo co Bishop, a nawet trochê wiêcej.}
-{344}{}{Có¿ za zbieg okolicznoœci. Jestem porucznikiem Bishopa, }
-{346}{}{Muszê ci powiedzieæ, ¿e nikomu tego samochodu nie sprzedasz. Nale¿y do mnie.}
-{347}{}{Brzmi nieŸle. Na razie.}
-{360}{}{Podkrêcenie silnika, wyczyszczenie wnêtrza, mosiê¿na obwódka wokó³ tablicy rejestracyjnej - no i trzeba jeszcze wyrzuciæ ze œrodka to ca³e gówno, zrobi siê trochê miejsca. Kiedy ju¿ skoñczymy, zgarniemy niez³¹ kaskê od pana Bishopa.}
-{361}{}{Sprzedacie go Bishopowi? Mogê daæ tyle co Bishop, a nawet trochê wiêcej.}
-{362}{}{Có¿ za zbieg okolicznoœci. Jestem jednym z poruczników Bishopa: }
-{365}{}{Brzmi nieŸle. No to na razie.}
-{375}{}{Chcesz daæ tyle co BISHOP? Cz³owieku, to mnóstwo kapuchy. KUPA dolców. No, a do tego on jest jedn¹ z najwiêkszych szych w Reno, co nie? Jak mu dam tê maszynê, to bêd¹ z tego... korzyœci w NATURZE.}
-{376}{}{Chcesz daæ tyle co BISHOP? Kobieto, to mnóstwo kapuchy. KUPA dolców. No, a do tego on jest jedn¹ z najwiêkszych szych w Reno, co nie? Jak mu dam tê maszynê, to bêd¹ z tego... korzyœci w NATURZE.}
-{377}{}{Zamieniam siê w s³uch...}
-{378}{}{Czy 1000 dolców zmieni twoje zdanie?}
-{379}{}{Czy 750 dolców zmieni twoje zdanie?}
-{380}{}{Czy 500 dolców zmieni twoje zdanie?}
-{381}{}{Niestety nie mam teraz doœæ pieniêdzy, by z³o¿yæ ci ofertê...}
-{382}{}{A co powiesz na noc ze mn¹, co T-Ray? Nigdy nie przydarzy ci siê nic wspanialszego.}
-{383}{}{Moja oferta brzmi nastêpuj¹co: zostawiê ciê w jednym kawa³ku, a ty natychmiast oddasz mi MÓJ samochód.}
-{384}{}{Niewa¿ne... muszê ju¿ iœæ.}
-{395}{}{Cz³owieku, tyle to mi nawet nie starczy na waciki do uszu, nie wspominaj¹c ju¿ o tym, ¿ebym mia³ zmieniæ zdanie. }
-{396}{}{Kobieto, tyle to mi nawet nie starczy na waciki do uszu, nie wspominaj¹c ju¿ o tym, ¿ebym mia³ zmieniæ zdanie. }
-{397}{}{Pewnie ci siê wydaje, ¿e samochody s¹ tanie.}
-{398}{}{A wiêc omówmy to jeszcze raz.}
-{399}{}{S³uchaj, nie mogê z³o¿yæ ci teraz propozycji, ale jak tylko uzbieram parê dolców...}
-{401}{}{Nie, ale twoje ¿ycie jak najbardziej. Zostawiê ciê w jednym kawa³ku, jeœli natychmiast oddasz mi MÓJ samochód.}
-{402}{}{Nie mam na to teraz czasu. ¯egnam.}
-{420}{}{Niaa, ju¿ dokarmiam jednego psa, a nie chcê tu otwieraæ ca³ego schroniska. S¹dz¹c po twoim wygl¹dzie nie masz niczego, co by³oby warte mojego czasu.}
-{421}{}{Twoja strata. Poka¿ mi przynajmniej swoje towary.}
-{422}{}{Wiesz co? RZYGAÆ mi siê chce od s³uchania tych twoich bzdur. Zaraz potnê ciê na tyle kawa³ków, ¿e bêdziesz sobie móg³ otworzyæ w³asn¹ rzeŸniê.}
-{423}{}{No dobrze. Pójdê ju¿.}
-{436}{}{No to chrzaniæ te ca³e negocjacje. Natychmiast oddaj mi MÓJ samochód. Bo jak nie.}
-{437}{}{Daruj sobie. Zaraz potnê ciê na tyle kawa³ków, ¿e bêdziesz sobie móg³ otworzyæ swoj¹ w³asn¹ rzeŸniê.}
-{445}{}{(Jego oczy b³¹dz¹ po twoim ciele) No nie wiem, kobieto, czy jesteœ TEGO warta. W koñcu przecie¿ rozmawiamy o HIGHWAYMANIE...}
-{446}{}{Och, jestem tego warta. Nawet wiêcej.}
-{455}{}{Mo¿esz mówiæ, ¿e zg³upia³em... uk³ad stoi. Trochê siê z tob¹ pobawiê, a potem mo¿esz odjechaæ st¹d Highwaymanem.}
-{456}{}{No to do dzie³a.}
-{457}{}{Chrzaniæ te ca³e negocjacje. Natychmiast oddaj mi MÓJ samochód. Bo jak nie.}
-{458}{}{Zmieni³am zdanie. Myœlê, ¿e zamiast tego ciê po prostu zabijê.}
-{459}{}{Niewa¿ne. Pójdê ju¿.}
-{470}{}{S³uchaj, po co ty w³aœciwie marnujesz mój czas? Jak nie masz pieniêdzy, to nie masz tu nic do za³atwienia. Mam lepsze rzeczy do robienia, ni¿ gadanie z takim tanim graczem jak ty.}
-{471}{}{Jedyne, co tu jest tanie, to twoje ¿ycie. Zostawiê ciê w jednym kawa³ku, jeœli natychmiast oddasz mi MÓJ samochód.}
-{472}{}{Wiesz co? To by³a twoja ostatnia szansa. Teraz ciê ZABIJÊ.}
-{485}{}{TWÓJ samochód? }
-{486}{}{Cz³owieku, nawet kurde nie wiesz, o czym mówisz. }
-{487}{}{Kobieto, nawet kurde nie wiesz, o czym mówisz. }
-{488}{}{Ten Highwayman to by³ porzucony na poboczu wrak. I wiesz co? Teraz jest nasz. Oczywiœcie, jeœli masz jakieœ W¥TPLIWOŒCI, to mo¿emy to za³atwiæ na miejscu...}
-{489}{}{O taak, mam w¹tpliwoœci. No choæ tu, z³ota r¹siu...}
+{342}{}{SprzedaÄ‡ BISHOPOWI? SÅ‚uchaj, idioto... Bishiop nieÅ¼... eee, to znaczy, mogÄ™ daÄ‡ tyle samo co Bishop.}
+{343}{}{SprzedaÄ‡ Bishopowi? Do diaska, mogÄ™ daÄ‡ tyle samo co Bishop, a nawet trochÄ™ wiÄ™cej.}
+{344}{}{CÃ³Å¼ za zbieg okolicznoÅ›ci. Jestem porucznikiem Bishopa, }
+{346}{}{MuszÄ™ ci powiedzieÄ‡, Å¼e nikomu tego samochodu nie sprzedasz. NaleÅ¼y do mnie.}
+{347}{}{Brzmi nieÅºle. Na razie.}
+{360}{}{PodkrÄ™cenie silnika, wyczyszczenie wnÄ™trza, mosiÄ™Å¼na obwÃ³dka wokÃ³Å‚ tablicy rejestracyjnej - no i trzeba jeszcze wyrzuciÄ‡ ze Å›rodka to caÅ‚e gÃ³wno, zrobi siÄ™ trochÄ™ miejsca. Kiedy juÅ¼ skoÅ„czymy, zgarniemy niezÅ‚Ä… kaskÄ™ od pana Bishopa.}
+{361}{}{Sprzedacie go Bishopowi? MogÄ™ daÄ‡ tyle co Bishop, a nawet trochÄ™ wiÄ™cej.}
+{362}{}{CÃ³Å¼ za zbieg okolicznoÅ›ci. Jestem jednym z porucznikÃ³w Bishopa: }
+{365}{}{Brzmi nieÅºle. No to na razie.}
+{375}{}{Chcesz daÄ‡ tyle co BISHOP? CzÅ‚owieku, to mnÃ³stwo kapuchy. KUPA dolcÃ³w. No, a do tego on jest jednÄ… z najwiÄ™kszych szych w Reno, co nie? Jak mu dam tÄ™ maszynÄ™, to bÄ™dÄ… z tego... korzyÅ›ci w NATURZE.}
+{376}{}{Chcesz daÄ‡ tyle co BISHOP? Kobieto, to mnÃ³stwo kapuchy. KUPA dolcÃ³w. No, a do tego on jest jednÄ… z najwiÄ™kszych szych w Reno, co nie? Jak mu dam tÄ™ maszynÄ™, to bÄ™dÄ… z tego... korzyÅ›ci w NATURZE.}
+{377}{}{Zamieniam siÄ™ w sÅ‚uch...}
+{378}{}{Czy 1000 dolcÃ³w zmieni twoje zdanie?}
+{379}{}{Czy 750 dolcÃ³w zmieni twoje zdanie?}
+{380}{}{Czy 500 dolcÃ³w zmieni twoje zdanie?}
+{381}{}{Niestety nie mam teraz doÅ›Ä‡ pieniÄ™dzy, by zÅ‚oÅ¼yÄ‡ ci ofertÄ™...}
+{382}{}{A co powiesz na noc ze mnÄ…, co T-Ray? Nigdy nie przydarzy ci siÄ™ nic wspanialszego.}
+{383}{}{Moja oferta brzmi nastÄ™pujÄ…co: zostawiÄ™ ciÄ™ w jednym kawaÅ‚ku, a ty natychmiast oddasz mi MÃ“J samochÃ³d.}
+{384}{}{NiewaÅ¼ne... muszÄ™ juÅ¼ iÅ›Ä‡.}
+{395}{}{CzÅ‚owieku, tyle to mi nawet nie starczy na waciki do uszu, nie wspominajÄ…c juÅ¼ o tym, Å¼ebym miaÅ‚ zmieniÄ‡ zdanie. }
+{396}{}{Kobieto, tyle to mi nawet nie starczy na waciki do uszu, nie wspominajÄ…c juÅ¼ o tym, Å¼ebym miaÅ‚ zmieniÄ‡ zdanie. }
+{397}{}{Pewnie ci siÄ™ wydaje, Å¼e samochody sÄ… tanie.}
+{398}{}{A wiÄ™c omÃ³wmy to jeszcze raz.}
+{399}{}{SÅ‚uchaj, nie mogÄ™ zÅ‚oÅ¼yÄ‡ ci teraz propozycji, ale jak tylko uzbieram parÄ™ dolcÃ³w...}
+{401}{}{Nie, ale twoje Å¼ycie jak najbardziej. ZostawiÄ™ ciÄ™ w jednym kawaÅ‚ku, jeÅ›li natychmiast oddasz mi MÃ“J samochÃ³d.}
+{402}{}{Nie mam na to teraz czasu. Å»egnam.}
+{420}{}{Niaa, juÅ¼ dokarmiam jednego psa, a nie chcÄ™ tu otwieraÄ‡ caÅ‚ego schroniska. SÄ…dzÄ…c po twoim wyglÄ…dzie nie masz niczego, co byÅ‚oby warte mojego czasu.}
+{421}{}{Twoja strata. PokaÅ¼ mi przynajmniej swoje towary.}
+{422}{}{Wiesz co? RZYGAÄ† mi siÄ™ chce od sÅ‚uchania tych twoich bzdur. Zaraz potnÄ™ ciÄ™ na tyle kawaÅ‚kÃ³w, Å¼e bÄ™dziesz sobie mÃ³gÅ‚ otworzyÄ‡ wÅ‚asnÄ… rzeÅºniÄ™.}
+{423}{}{No dobrze. PÃ³jdÄ™ juÅ¼.}
+{436}{}{No to chrzaniÄ‡ te caÅ‚e negocjacje. Natychmiast oddaj mi MÃ“J samochÃ³d. Bo jak nie.}
+{437}{}{Daruj sobie. Zaraz potnÄ™ ciÄ™ na tyle kawaÅ‚kÃ³w, Å¼e bÄ™dziesz sobie mÃ³gÅ‚ otworzyÄ‡ swojÄ… wÅ‚asnÄ… rzeÅºniÄ™.}
+{445}{}{(Jego oczy bÅ‚Ä…dzÄ… po twoim ciele) No nie wiem, kobieto, czy jesteÅ› TEGO warta. W koÅ„cu przecieÅ¼ rozmawiamy o HIGHWAYMANIE...}
+{446}{}{Och, jestem tego warta. Nawet wiÄ™cej.}
+{455}{}{MoÅ¼esz mÃ³wiÄ‡, Å¼e zgÅ‚upiaÅ‚em... ukÅ‚ad stoi. TrochÄ™ siÄ™ z tobÄ… pobawiÄ™, a potem moÅ¼esz odjechaÄ‡ stÄ…d Highwaymanem.}
+{456}{}{No to do dzieÅ‚a.}
+{457}{}{ChrzaniÄ‡ te caÅ‚e negocjacje. Natychmiast oddaj mi MÃ“J samochÃ³d. Bo jak nie.}
+{458}{}{ZmieniÅ‚am zdanie. MyÅ›lÄ™, Å¼e zamiast tego ciÄ™ po prostu zabijÄ™.}
+{459}{}{NiewaÅ¼ne. PÃ³jdÄ™ juÅ¼.}
+{470}{}{SÅ‚uchaj, po co ty wÅ‚aÅ›ciwie marnujesz mÃ³j czas? Jak nie masz pieniÄ™dzy, to nie masz tu nic do zaÅ‚atwienia. Mam lepsze rzeczy do robienia, niÅ¼ gadanie z takim tanim graczem jak ty.}
+{471}{}{Jedyne, co tu jest tanie, to twoje Å¼ycie. ZostawiÄ™ ciÄ™ w jednym kawaÅ‚ku, jeÅ›li natychmiast oddasz mi MÃ“J samochÃ³d.}
+{472}{}{Wiesz co? To byÅ‚a twoja ostatnia szansa. Teraz ciÄ™ ZABIJÄ˜.}
+{485}{}{TWÃ“J samochÃ³d? }
+{486}{}{CzÅ‚owieku, nawet kurde nie wiesz, o czym mÃ³wisz. }
+{487}{}{Kobieto, nawet kurde nie wiesz, o czym mÃ³wisz. }
+{488}{}{Ten Highwayman to byÅ‚ porzucony na poboczu wrak. I wiesz co? Teraz jest nasz. OczywiÅ›cie, jeÅ›li masz jakieÅ› WÄ„TPLIWOÅšCI, to moÅ¼emy to zaÅ‚atwiÄ‡ na miejscu...}
+{489}{}{O taak, mam wÄ…tpliwoÅ›ci. No choÄ‡ tu, zÅ‚ota rÄ…siu...}
 {490}{}{Co robisz z tym samochodem?}
-{491}{}{Nie, wszystko w porz¹dku. Mo¿esz sobie wzi¹æ tego cholernego Highwaymana. To i tak kupa gówna. Zu¿ywa za du¿o pr¹du, w œrodku œmierdzi gekonami, baga¿nik jest za ma³y... ale dla ciebie bêdzie w sam raz. Na razie.}
-{492}{}{Nie, nie mam ¿adnych w¹tpliwoœci... na razie. Bywaj.}
-{500}{}{Hejhejhej, poczekaj! *Kupa gówna? Œmierdzi gekonami?* }
-{501}{}{Cz³owieku, bra³eœ jakiœ nowy Jet, czy co? }
-{502}{}{Kobieto, bra³aœ jakiœ nowy Jet, czy co? }
-{503}{}{To jest HIGHWAYMAN. Nie tylko dzia³a, ale w dodatku, po tym, jak go podrasujê, bêdzie mrucza³ jak ka¿da moja kobieta.}
-{504}{}{Rzygaæ mi siê chce od s³uchania ciebie. ¯ryj o³ów, z³ota r¹siu...}
-{505}{}{Co chcesz poprawiæ w samochodzie?}
-{506}{}{Jak chcesz. Spadam st¹d.}
-{520}{}{W³aœnie, tak MYŒLA£EM. Lepiej st¹d zmykaj, zanim mamusia zacznie siê o ciebie martwiæ.}
-{521}{}{O nie, to TWOJA mama siê martwi, kiedy nie ma mnie w pobli¿u, ¿eby jej zrobiæ dobrze.}
-{522}{}{Machnij rêk¹ i wyjdŸ bez ha³asu.}
-{530}{}{No dobra. Uk³ad stoi. (Po cichu przelicza pieni¹dze i wsadza je do kieszeni) Highwayman jest twój. Oczywiœcie nie ma bateryjek zasilaj¹cych ani ¿adnego z tych spec-cja³ów, które mia³em dodaæ...}
-{531}{}{O jakich specja³ach mowa?}
-{532}{}{Rzygaæ mi siê ju¿ chce od s³uchania tych twoich bzdur. ¯ryj o³ów, z³ota r¹siu...}
-{533}{}{Och, ale da³eœ mi ju¿ tak DU¯O. Spadam st¹d.}
-{540}{}{(T-Ray ociera pot z czo³a) Do licha, kobieto. No dobra, Highwayman jest twój. Nie ma ¿adnego z tych spec-cja³ów, które mia³em dodaæ...}
-{541}{}{*Uuff-uuff* O jakich specja³ach... *uuff-uuff* ...mówisz?}
-{542}{}{Dosyæ mam ju¿... *uuff-*uuff* ...tych twoich bzdur. ¯ryj... *fiuuu* ...o³ów, z³ota r¹siu...}
-{543}{}{Mam z powrotem... *uuff-uuff* ...mój samochód i.... *uuff-uuff* ...nie chcê, ¿ebyœ go wiêcej dotyka³. Spadam... st¹d.}
-{550}{}{Pewnie, ¿e mogê. Mogê podrasowaæ ³adowarkê baterii, podkrêciæ silnik, trochê wyczyœciæ wnêtrze, nadaæ mu trochê po³ysku, dodaæ mosiê¿n¹ obwódkê wokó³ tablicy rejestracyjnej - no i wyrzuciæ trochê tych œmieci z baga¿nika, ¿eby zrobiæ wiêcej miejsca. 500 dolców.}
-{551}{}{No wiesz, podrasowaæ ³adowarkê baterii, podkrêciæ silnik, trochê wyczyœciæ wnêtrze, nadaæ mu trochê po³ysku, dodaæ mosiê¿n¹ obwódkê wokó³ tablicy rejestracyjnej - no i wyrzuciæ trochê tych œmieci z baga¿nika, ¿eby zrobiæ wiêcej miejsca. Interesuje ciê to? 500 dolców.}
-{552}{}{Pewnie. Oto 500 dolców.}
+{491}{}{Nie, wszystko w porzÄ…dku. MoÅ¼esz sobie wziÄ…Ä‡ tego cholernego Highwaymana. To i tak kupa gÃ³wna. ZuÅ¼ywa za duÅ¼o prÄ…du, w Å›rodku Å›mierdzi gekonami, bagaÅ¼nik jest za maÅ‚y... ale dla ciebie bÄ™dzie w sam raz. Na razie.}
+{492}{}{Nie, nie mam Å¼adnych wÄ…tpliwoÅ›ci... na razie. Bywaj.}
+{500}{}{Hejhejhej, poczekaj! *Kupa gÃ³wna? Åšmierdzi gekonami?* }
+{501}{}{CzÅ‚owieku, braÅ‚eÅ› jakiÅ› nowy Jet, czy co? }
+{502}{}{Kobieto, braÅ‚aÅ› jakiÅ› nowy Jet, czy co? }
+{503}{}{To jest HIGHWAYMAN. Nie tylko dziaÅ‚a, ale w dodatku, po tym, jak go podrasujÄ™, bÄ™dzie mruczaÅ‚ jak kaÅ¼da moja kobieta.}
+{504}{}{RzygaÄ‡ mi siÄ™ chce od sÅ‚uchania ciebie. Å»ryj oÅ‚Ã³w, zÅ‚ota rÄ…siu...}
+{505}{}{Co chcesz poprawiÄ‡ w samochodzie?}
+{506}{}{Jak chcesz. Spadam stÄ…d.}
+{520}{}{WÅ‚aÅ›nie, tak MYÅšLAÅEM. Lepiej stÄ…d zmykaj, zanim mamusia zacznie siÄ™ o ciebie martwiÄ‡.}
+{521}{}{O nie, to TWOJA mama siÄ™ martwi, kiedy nie ma mnie w pobliÅ¼u, Å¼eby jej zrobiÄ‡ dobrze.}
+{522}{}{Machnij rÄ™kÄ… i wyjdÅº bez haÅ‚asu.}
+{530}{}{No dobra. UkÅ‚ad stoi. (Po cichu przelicza pieniÄ…dze i wsadza je do kieszeni) Highwayman jest twÃ³j. OczywiÅ›cie nie ma bateryjek zasilajÄ…cych ani Å¼adnego z tych spec-cjaÅ‚Ã³w, ktÃ³re miaÅ‚em dodaÄ‡...}
+{531}{}{O jakich specjaÅ‚ach mowa?}
+{532}{}{RzygaÄ‡ mi siÄ™ juÅ¼ chce od sÅ‚uchania tych twoich bzdur. Å»ryj oÅ‚Ã³w, zÅ‚ota rÄ…siu...}
+{533}{}{Och, ale daÅ‚eÅ› mi juÅ¼ tak DUÅ»O. Spadam stÄ…d.}
+{540}{}{(T-Ray ociera pot z czoÅ‚a) Do licha, kobieto. No dobra, Highwayman jest twÃ³j. Nie ma Å¼adnego z tych spec-cjaÅ‚Ã³w, ktÃ³re miaÅ‚em dodaÄ‡...}
+{541}{}{*Uuff-uuff* O jakich specjaÅ‚ach... *uuff-uuff* ...mÃ³wisz?}
+{542}{}{DosyÄ‡ mam juÅ¼... *uuff-*uuff* ...tych twoich bzdur. Å»ryj... *fiuuu* ...oÅ‚Ã³w, zÅ‚ota rÄ…siu...}
+{543}{}{Mam z powrotem... *uuff-uuff* ...mÃ³j samochÃ³d i.... *uuff-uuff* ...nie chcÄ™, Å¼ebyÅ› go wiÄ™cej dotykaÅ‚. Spadam... stÄ…d.}
+{550}{}{Pewnie, Å¼e mogÄ™. MogÄ™ podrasowaÄ‡ Å‚adowarkÄ™ baterii, podkrÄ™ciÄ‡ silnik, trochÄ™ wyczyÅ›ciÄ‡ wnÄ™trze, nadaÄ‡ mu trochÄ™ poÅ‚ysku, dodaÄ‡ mosiÄ™Å¼nÄ… obwÃ³dkÄ™ wokÃ³Å‚ tablicy rejestracyjnej - no i wyrzuciÄ‡ trochÄ™ tych Å›mieci z bagaÅ¼nika, Å¼eby zrobiÄ‡ wiÄ™cej miejsca. 500 dolcÃ³w.}
+{551}{}{No wiesz, podrasowaÄ‡ Å‚adowarkÄ™ baterii, podkrÄ™ciÄ‡ silnik, trochÄ™ wyczyÅ›ciÄ‡ wnÄ™trze, nadaÄ‡ mu trochÄ™ poÅ‚ysku, dodaÄ‡ mosiÄ™Å¼nÄ… obwÃ³dkÄ™ wokÃ³Å‚ tablicy rejestracyjnej - no i wyrzuciÄ‡ trochÄ™ tych Å›mieci z bagaÅ¼nika, Å¼eby zrobiÄ‡ wiÄ™cej miejsca. Interesuje ciÄ™ to? 500 dolcÃ³w.}
+{552}{}{Pewnie. Oto 500 dolcÃ³w.}
 {553}{}{Co powiesz na 300?}
-{554}{}{Nie mam tyle przy sobie. Mogê tu wróciæ jak uzbieram pieni¹dze?}
-{555}{}{A co powiesz na jeszcze trochê czu³oœci?}
-{556}{}{A moje cia³o? Interesuje ciê?}
-{558}{}{RZYGAÆ mi siê chce od s³uchania tych wszystkich bzdur. ¯ryj o³ów, z³ota r¹siu...}
-{559}{}{Nie chcê, ¿ebyœ wiêcej dotyka³ mojego samochodu. Spadam st¹d.}
-{575}{}{Zrobione. (Bierze pieni¹dze) Samochód jest ju¿ gotowy. I pamiêtaj: jeœli kiedykolwiek bêdziesz potrzebowaæ do niego baterii, to przyjdŸ do mnie, za³atwiê ci je.}
-{576}{}{Mogê teraz zobaczyæ, co masz na sk³adzie?}
-{577}{}{W porz¹dku, dziêki. Na razie T-Ray.}
-{590}{}{(Potrz¹sa g³ow¹) Niaa, nie ma mowy. 500 albo nic.}
-{615}{}{Pewnie, ¿e mo¿esz. Samochód jest gotowy. I pamiêtaj: jeœli kiedykolwiek bêdziesz potrzebowaæ do niego baterii, to przyjdŸ do mnie, za³atwiê ci je.}
-{616}{}{W³aœciwie to kilka baterii przyda³oby mi siê ju¿ teraz.}
-{617}{}{Przyda³oby siê kilka baterii, ale wiesz co? Jakoœ nie mam ochoty p³aciæ pieniêdzmi... masz mo¿e ochotê na coœ... INNEGO?}
-{619}{}{W porz¹dku. Na razie.}
-{630}{}{(Wzrusza ramionami) Przykro mi, nie mamy teraz ¿adnych baterii... przyjdŸ za tydzieñ albo za dwa, mo¿e coœ siê zmieni. Oczywiœcie... moglibyœmy przejœæ do rzeczy i BEZ TEGO...}
+{554}{}{Nie mam tyle przy sobie. MogÄ™ tu wrÃ³ciÄ‡ jak uzbieram pieniÄ…dze?}
+{555}{}{A co powiesz na jeszcze trochÄ™ czuÅ‚oÅ›ci?}
+{556}{}{A moje ciaÅ‚o? Interesuje ciÄ™?}
+{558}{}{RZYGAÄ† mi siÄ™ chce od sÅ‚uchania tych wszystkich bzdur. Å»ryj oÅ‚Ã³w, zÅ‚ota rÄ…siu...}
+{559}{}{Nie chcÄ™, Å¼ebyÅ› wiÄ™cej dotykaÅ‚ mojego samochodu. Spadam stÄ…d.}
+{575}{}{Zrobione. (Bierze pieniÄ…dze) SamochÃ³d jest juÅ¼ gotowy. I pamiÄ™taj: jeÅ›li kiedykolwiek bÄ™dziesz potrzebowaÄ‡ do niego baterii, to przyjdÅº do mnie, zaÅ‚atwiÄ™ ci je.}
+{576}{}{MogÄ™ teraz zobaczyÄ‡, co masz na skÅ‚adzie?}
+{577}{}{W porzÄ…dku, dziÄ™ki. Na razie T-Ray.}
+{590}{}{(PotrzÄ…sa gÅ‚owÄ…) Niaa, nie ma mowy. 500 albo nic.}
+{615}{}{Pewnie, Å¼e moÅ¼esz. SamochÃ³d jest gotowy. I pamiÄ™taj: jeÅ›li kiedykolwiek bÄ™dziesz potrzebowaÄ‡ do niego baterii, to przyjdÅº do mnie, zaÅ‚atwiÄ™ ci je.}
+{616}{}{WÅ‚aÅ›ciwie to kilka baterii przydaÅ‚oby mi siÄ™ juÅ¼ teraz.}
+{617}{}{PrzydaÅ‚oby siÄ™ kilka baterii, ale wiesz co? JakoÅ› nie mam ochoty pÅ‚aciÄ‡ pieniÄ™dzmi... masz moÅ¼e ochotÄ™ na coÅ›... INNEGO?}
+{619}{}{W porzÄ…dku. Na razie.}
+{630}{}{(Wzrusza ramionami) Przykro mi, nie mamy teraz Å¼adnych baterii... przyjdÅº za tydzieÅ„ albo za dwa, moÅ¼e coÅ› siÄ™ zmieni. OczywiÅ›cie... moglibyÅ›my przejÅ›Ä‡ do rzeczy i BEZ TEGO...}
 {631}{}{Dobrze.}
-{632}{}{Przykro mi, tylko jeœli to JEST interes. PóŸniej T-Ray.}
-{640}{}{Kurde, suko! Da³em ci ju¿ trochê czu³oœci piêæ minut temu! Chcesz mnie ZABIÆ?}
+{632}{}{Przykro mi, tylko jeÅ›li to JEST interes. PÃ³Åºniej T-Ray.}
+{640}{}{Kurde, suko! DaÅ‚em ci juÅ¼ trochÄ™ czuÅ‚oÅ›ci piÄ™Ä‡ minut temu! Chcesz mnie ZABIÄ†?}
 {641}{}{Poczekaj no...}
-{642}{}{No chodŸ, muszê siê na³adowaæ i tylko TWOJE czu³oœci mog¹ mi w tym pomóc.}
-{643}{}{No to bez ³aski. Bywaj.}
-{650}{}{Niaa, dokarmiam ju¿ jednego psa, a nie chcê otwieraæ ca³ego schroniska. S¹dz¹c po twoim wygl¹dzie, nie masz nic, co by³oby warte mojego czasu. Podkrêcenie Highwaymana bêdzie kosztowaæ 500 dolców.}
-{651}{}{No dobra. Oto 500 dolców.}
-{653}{}{Wiesz co? RZYGAÆ mi siê chce od tych twoich bzdur. Zaraz ciê ukatrupiê.}
-{660}{}{(Zatrzymuje ciê, zanim zd¹¿ysz wyjœæ) Kobieto, zaczekaj momencik. Nie powiedzia³em, ¿e nie MAM dla ciebie ¿adnej czu³oœci. PrzejdŸmy do konkretów.}
-{661}{}{(Ogl¹da ciê od góry do do³u) Mê¿czyzna musi robiæ, co do niego nale¿y. PrzejdŸmy do konkretów.}
-{662}{}{PrzejdŸcie do "konkretów".}
-{663}{}{Nie, ju¿ nie chcê tego robiæ. Na razie.}
-{670}{}{Hej! Oto cz³owiek z zas³ugami wpada na œmieci T-Raya! Witamy, witamy... }
-{671}{}{Hej, kochaniutka. Przychodzisz, ¿eby wypocz¹æ u boku T-Raya po skopaniu ty³ka ca³emu œwiatu? }
-{672}{}{Wiesz co... mam coœ, co mog³oby przydaæ siê twojemu samochodowi... JEŒLI go ci¹gle jeszcze masz.}
+{642}{}{No chodÅº, muszÄ™ siÄ™ naÅ‚adowaÄ‡ i tylko TWOJE czuÅ‚oÅ›ci mogÄ… mi w tym pomÃ³c.}
+{643}{}{No to bez Å‚aski. Bywaj.}
+{650}{}{Niaa, dokarmiam juÅ¼ jednego psa, a nie chcÄ™ otwieraÄ‡ caÅ‚ego schroniska. SÄ…dzÄ…c po twoim wyglÄ…dzie, nie masz nic, co byÅ‚oby warte mojego czasu. PodkrÄ™cenie Highwaymana bÄ™dzie kosztowaÄ‡ 500 dolcÃ³w.}
+{651}{}{No dobra. Oto 500 dolcÃ³w.}
+{653}{}{Wiesz co? RZYGAÄ† mi siÄ™ chce od tych twoich bzdur. Zaraz ciÄ™ ukatrupiÄ™.}
+{660}{}{(Zatrzymuje ciÄ™, zanim zdÄ…Å¼ysz wyjÅ›Ä‡) Kobieto, zaczekaj momencik. Nie powiedziaÅ‚em, Å¼e nie MAM dla ciebie Å¼adnej czuÅ‚oÅ›ci. PrzejdÅºmy do konkretÃ³w.}
+{661}{}{(OglÄ…da ciÄ™ od gÃ³ry do doÅ‚u) MÄ™Å¼czyzna musi robiÄ‡, co do niego naleÅ¼y. PrzejdÅºmy do konkretÃ³w.}
+{662}{}{PrzejdÅºcie do "konkretÃ³w".}
+{663}{}{Nie, juÅ¼ nie chcÄ™ tego robiÄ‡. Na razie.}
+{670}{}{Hej! Oto czÅ‚owiek z zasÅ‚ugami wpada na Å›mieci T-Raya! Witamy, witamy... }
+{671}{}{Hej, kochaniutka. Przychodzisz, Å¼eby wypoczÄ…Ä‡ u boku T-Raya po skopaniu tyÅ‚ka caÅ‚emu Å›wiatu? }
+{672}{}{Wiesz co... mam coÅ›, co mogÅ‚oby przydaÄ‡ siÄ™ twojemu samochodowi... JEÅšLI go ciÄ…gle jeszcze masz.}
 {673}{}{Sso tojezd}
 {675}{}{Co takiego masz dla mojego samochodu?}
-{690}{}{Kurde, kobieto! Da³em ci ju¿ trochê czu³oœci piêæ minut temu! Chcesz mnie ZABIÆ?}
-{691}{}{Chcesz zrobiæ to JESZCZE RAZ? Kurde, kobieto! Czy ty NIGDY nie trzymasz jednej nogi przy drugiej?}
-{692}{}{No wiêc...}
-{693}{}{No chodŸ, potrzebny mi ma³y remont i tylko TWOJE czu³oœci mog¹ mi w tym pomóc.}
-{710}{}{(Przygl¹da ci siê, marszczy brwi) Jassne, pewnie. Znam WSZYSTKICH poruczników Bishopa, a ty nie jesteœ ¿adnym z nich. (G³ow¹ pokazuje drzwi) Zmiataj st¹d zanim stracê cierpliwoœæ.}
-{711}{}{JESTEM jednym z poruczników Bishopa. Wiêc jak, zrobimy ten interes, czy nie?}
-{712}{}{Ju¿ idê, idê...}
-{720}{}{(Uœmiecha siê szyderczo) Jasne, ubijemy co siê da. Mam nadziejê, ¿e nie masz rodziny, która bêdzie za tob¹ têskniæ...}
-{721}{}{Ty siê lepiej módl, ¿ebyœ mia³ rodzinê, która da radê znaleŸæ wszystkie twoje kawa³ki.}
-{730}{}{(Przygl¹da ci siê) Ty jesteœ jednym z nowych poruczników Bishopa?! Niaa... ¿eby tak by³o, potrzeba by ci by³o wiêcej wzrostu, wiêcej... (chyba ma w¹tpliwoœci) ...wredziochostwa.}
-{731}{}{(Przygl¹da ci siê) Ty jesteœ }
+{690}{}{Kurde, kobieto! DaÅ‚em ci juÅ¼ trochÄ™ czuÅ‚oÅ›ci piÄ™Ä‡ minut temu! Chcesz mnie ZABIÄ†?}
+{691}{}{Chcesz zrobiÄ‡ to JESZCZE RAZ? Kurde, kobieto! Czy ty NIGDY nie trzymasz jednej nogi przy drugiej?}
+{692}{}{No wiÄ™c...}
+{693}{}{No chodÅº, potrzebny mi maÅ‚y remont i tylko TWOJE czuÅ‚oÅ›ci mogÄ… mi w tym pomÃ³c.}
+{710}{}{(PrzyglÄ…da ci siÄ™, marszczy brwi) Jassne, pewnie. Znam WSZYSTKICH porucznikÃ³w Bishopa, a ty nie jesteÅ› Å¼adnym z nich. (GÅ‚owÄ… pokazuje drzwi) Zmiataj stÄ…d zanim stracÄ™ cierpliwoÅ›Ä‡.}
+{711}{}{JESTEM jednym z porucznikÃ³w Bishopa. WiÄ™c jak, zrobimy ten interes, czy nie?}
+{712}{}{JuÅ¼ idÄ™, idÄ™...}
+{720}{}{(UÅ›miecha siÄ™ szyderczo) Jasne, ubijemy co siÄ™ da. Mam nadziejÄ™, Å¼e nie masz rodziny, ktÃ³ra bÄ™dzie za tobÄ… tÄ™skniÄ‡...}
+{721}{}{Ty siÄ™ lepiej mÃ³dl, Å¼ebyÅ› miaÅ‚ rodzinÄ™, ktÃ³ra da radÄ™ znaleÅºÄ‡ wszystkie twoje kawaÅ‚ki.}
+{730}{}{(PrzyglÄ…da ci siÄ™) Ty jesteÅ› jednym z nowych porucznikÃ³w Bishopa?! Niaa... Å¼eby tak byÅ‚o, potrzeba by ci byÅ‚o wiÄ™cej wzrostu, wiÄ™cej... (chyba ma wÄ…tpliwoÅ›ci) ...wredziochostwa.}
+{731}{}{(PrzyglÄ…da ci siÄ™) Ty jesteÅ› }
 {732}{}{Jestem legit. Nie wierysz mi?}
 {733}{}{Jestem }
-{734}{}{Nie wierz we wszystko, co ci powiedz¹. Porozmawiajmy o samochodzie pana Bishopa.}
-{735}{}{Zapomnij, ¿e w ogóle rozmawialiœmy. Spadam st¹d.}
-{745}{}{(Unosi rêce w poddañczym geœcie) Nienienie, tylko siê tak zgrywam.}
+{734}{}{Nie wierz we wszystko, co ci powiedzÄ…. Porozmawiajmy o samochodzie pana Bishopa.}
+{735}{}{Zapomnij, Å¼e w ogÃ³le rozmawialiÅ›my. Spadam stÄ…d.}
+{745}{}{(Unosi rÄ™ce w poddaÅ„czym geÅ›cie) Nienienie, tylko siÄ™ tak zgrywam.}
 {746}{}{Porozmawiajmy o samochodzie pana Bishopa.}
-{747}{}{Nastêpnym razem uwa¿aj, co mówisz. Spadam st¹d.}
-{755}{}{Juuu¿, juuu¿... oto umowa: mo¿emy dokonaæ wszystkich ulepszeñ, podrasowaæ go i pronto dostarczyæ Bishopowi. Cena... (wzrusza ramionami, uœmiecha siê) ...pytanie brzmi: czy jest W OGÓLE jakaœ cena za takiego Highwaymana?}
-{756}{}{Mów dalej.}
+{747}{}{NastÄ™pnym razem uwaÅ¼aj, co mÃ³wisz. Spadam stÄ…d.}
+{755}{}{JuuuÅ¼, juuuÅ¼... oto umowa: moÅ¼emy dokonaÄ‡ wszystkich ulepszeÅ„, podrasowaÄ‡ go i pronto dostarczyÄ‡ Bishopowi. Cena... (wzrusza ramionami, uÅ›miecha siÄ™) ...pytanie brzmi: czy jest W OGÃ“LE jakaÅ› cena za takiego Highwaymana?}
+{756}{}{MÃ³w dalej.}
 {757}{}{Nie mam CZASU na te twoje brednie. Co sugerujesz?}
-{758}{}{Masz racjê. Nie ma. Zabieram samochód ze sob¹, a w zamian za to pan Bishop pozwoli ci kontynuowaæ twoj¹ dzia³alnoœæ w tym miejscu.}
-{759}{}{Nie mam na to czasu. Spadam st¹d.}
-{770}{}{Ja to widzê tak, ¿e ten Highwayman... zapewne jest ostatnim dzia³aj¹cym egzemplarzem... jest wart CONAJMNIEJ 3000 dolców... ale wiesz co? (Mruga okiem) Bior¹c pod uwagê jego stan, oddam tê wspania³¹ maszynê za 2700 dolców. Oczywiœcie, musimy porozmawiaæ o korzyœciach w NATURZE: przywilejach klubowych, wolnym wstêpie do lo-lokalu...}
-{771}{}{2700? Nie ma sprawy. Proszê.}
-{772}{}{Pan Bishop jest gotów zaoferowaæ 1500 dolców.}
-{773}{}{2700? Nie, nie... pan Bishop weŸmie go za 900 dolców.}
-{774}{}{Proponujê inny uk³ad. Wezmê samochód nieodp³atnie, a w zamian za to pan Bishop pozwoli ci kontynuowaæ twoj¹ dzia³alnoœæ w tym miejscu.}
-{775}{}{Powiem panu Bishopowi i wrócê z odpowiedzi¹.}
-{780}{}{(T-Ray mruga oczami, po czym powoli i szeroko wyszczerza siê, podczas gdy ty odliczasz pieni¹dze) O tak, lubiê takie szybkie i proste umowy. Mi³o siê z tob¹ za³atwia sprawy, mi³o siê za³atwia... a teraz jeœli chodzi o te korzyœci w naturze...?}
-{781}{}{Bêdziesz musia³ porozmawiaæ o tym z panem Bishopem. Pan Bishop ma jeszcze jedno ¿yczenie: darmowe baterie z twojego sklepu. Osobiœcie mu je odniosê.}
-{782}{}{O innych korzyœciach bêdziesz musia³ porozmawiaæ osobiœcie z panem Bishopem. Pamiêtaj, ¿eby wybraæ siê do niego z broni¹, i ¿eby g³oœno domagaæ siê tego, czego jest ci winien. On szanuje takich ludzi.}
-{783}{}{O korzyœciach w naturze bêdziesz musia³ sam porozmawiaæ z panem Bishopem. ¯egnam.}
-{790}{}{Cz³owieku, tyle to mi nawet nie starczy na waciki do uszu! }
+{758}{}{Masz racjÄ™. Nie ma. Zabieram samochÃ³d ze sobÄ…, a w zamian za to pan Bishop pozwoli ci kontynuowaÄ‡ twojÄ… dziaÅ‚alnoÅ›Ä‡ w tym miejscu.}
+{759}{}{Nie mam na to czasu. Spadam stÄ…d.}
+{770}{}{Ja to widzÄ™ tak, Å¼e ten Highwayman... zapewne jest ostatnim dziaÅ‚ajÄ…cym egzemplarzem... jest wart CONAJMNIEJ 3000 dolcÃ³w... ale wiesz co? (Mruga okiem) BiorÄ…c pod uwagÄ™ jego stan, oddam tÄ™ wspaniaÅ‚Ä… maszynÄ™ za 2700 dolcÃ³w. OczywiÅ›cie, musimy porozmawiaÄ‡ o korzyÅ›ciach w NATURZE: przywilejach klubowych, wolnym wstÄ™pie do lo-lokalu...}
+{771}{}{2700? Nie ma sprawy. ProszÄ™.}
+{772}{}{Pan Bishop jest gotÃ³w zaoferowaÄ‡ 1500 dolcÃ³w.}
+{773}{}{2700? Nie, nie... pan Bishop weÅºmie go za 900 dolcÃ³w.}
+{774}{}{ProponujÄ™ inny ukÅ‚ad. WezmÄ™ samochÃ³d nieodpÅ‚atnie, a w zamian za to pan Bishop pozwoli ci kontynuowaÄ‡ twojÄ… dziaÅ‚alnoÅ›Ä‡ w tym miejscu.}
+{775}{}{Powiem panu Bishopowi i wrÃ³cÄ™ z odpowiedziÄ….}
+{780}{}{(T-Ray mruga oczami, po czym powoli i szeroko wyszczerza siÄ™, podczas gdy ty odliczasz pieniÄ…dze) O tak, lubiÄ™ takie szybkie i proste umowy. MiÅ‚o siÄ™ z tobÄ… zaÅ‚atwia sprawy, miÅ‚o siÄ™ zaÅ‚atwia... a teraz jeÅ›li chodzi o te korzyÅ›ci w naturze...?}
+{781}{}{BÄ™dziesz musiaÅ‚ porozmawiaÄ‡ o tym z panem Bishopem. Pan Bishop ma jeszcze jedno Å¼yczenie: darmowe baterie z twojego sklepu. OsobiÅ›cie mu je odniosÄ™.}
+{782}{}{O innych korzyÅ›ciach bÄ™dziesz musiaÅ‚ porozmawiaÄ‡ osobiÅ›cie z panem Bishopem. PamiÄ™taj, Å¼eby wybraÄ‡ siÄ™ do niego z broniÄ…, i Å¼eby gÅ‚oÅ›no domagaÄ‡ siÄ™ tego, czego jest ci winien. On szanuje takich ludzi.}
+{783}{}{O korzyÅ›ciach w naturze bÄ™dziesz musiaÅ‚ sam porozmawiaÄ‡ z panem Bishopem. Å»egnam.}
+{790}{}{CzÅ‚owieku, tyle to mi nawet nie starczy na waciki do uszu! }
 {791}{}{Kobieto, tyle to mi nawet nie starczy na waciki do uszu! }
-{792}{}{Czy Bishopowi siê wydaje, ¿e samochody s¹ TANIE?!}
-{793}{}{A mo¿e wydaje ci siê, ¿e ciê potraktowano... nieuczciwie?}
-{794}{}{Pan Bishop zaproponowa³ HOJN¥ zap³atê w wysokoœci 1500 dolców. Nastêpna oferta ci siê nie spodoba.}
-{795}{}{W takim razie byæ mo¿e oferta w wysokoœci 900 dolców bêdzie ci bardziej odpowiadaæ. Pan Bishop bêdzie zadowolony, ¿e proponujesz mu tak tanie us³ugi.}
-{797}{}{Poniewa¿ jego hojna oferta zosta³a odrzucona, mam nakazane zabraæ samochód bez jakiejkolwiek zap³aty.}
-{798}{}{Mêczy mnie ta rozmowa. Wrócê póŸniej.}
-{810}{}{Dziewiêæs... cz³owieku, ¿artujesz czy co?! }
-{811}{}{Dziewiêæs... kobieto, ¿artujesz czy co?! }
-{812}{}{Nie rób sobie jaj! To jest HIGHWAYMAN. Nie robi¹ ju¿ takich, NIGDZIE, rozumiesz? INNE rodziny na pewno z chêci¹ zap³ac¹ wiêcej, jeœli ten tani drañ Bishop nie chce...}
-{814}{}{Pan Bishop z³o¿y³ ci bardzo HOJN¥ ofertê, 900 ¿etonów. Nastêpna oferta ci siê nie spodoba.}
-{816}{}{A wiêc robisz interesy z innymi rodzinami? Pan Bishop z chêci¹ siê o tym dowie.}
-{817}{}{¯e co proszê? Jak w³aœnie nazwa³eœ pana Bishopa?}
-{818}{}{Mêczy mnie to. PóŸniej porozmawiamy.}
-{830}{}{(T-Ray zamiera. Przez chwilê wydaje ci siê, ¿e ciê zaatakuje, ale po chwili siê uspokaja) Cz³owieku, to surowe warunki.}
-{831}{}{(T-Ray zamiera. Przez chwilê wydaje ci siê, ¿e ciê zaatakuje, ale po chwili siê uspokaja) Kobieto, to surowe warunki.}
-{832}{}{ Co ja takiego zrobi³em panu Bishopowi, ¿eby na to zas³u¿yæ? Hê?}
-{834}{}{Zabiorê go do pana Bishopa. Och... pan Bishop ma jeszcze jedno ¿yczenie: chcia³by dostaæ od ciebie kilka darmowych baterii. Osobiœcie mu je dostarczê.}
-{835}{}{Na pewno coœ by siê znalaz³o. On ciê niezbyt lubi. Mi³o siê z tob¹ robi interesy.}
-{845}{}{O nienienie, nic z tych rzeczy...! Ja i pan Bishop, my zawsze mówimy sobie wszystko prosto w twarz i nie ma ¿adnych problemów. On mnie traktuje jak trzeba, a ty mu to przeka¿esz, dobraaa? Ale... uch... co z tymi korzyœciami w naturze, o których w spomnia³em?}
-{846}{}{T¹ kwestiê bêdziesz musia³ osobiœcie przedyskutowaæ z panem Bishopem. Pan Bishop ma jeszcze jedno ¿yczenie: chcia³by otrzymaæ od ciebie kilka darmowych baterii. Osobiœcie mu je zaniosê.}
-{847}{}{O innych korzyœciach bêdziesz musia³ porozmawiaæ osobiœcie z panem Bishopem. Pamiêtaj, ¿eby wybraæ siê do niego z broni¹, i ¿eby g³oœno domagaæ siê tego, co jest ci winien. On szanuje takich ludzi.}
-{855}{}{(Uœmiech T-Raya blednie) Jasne... pewnie, pewnie... nie ma sprawy.}
+{792}{}{Czy Bishopowi siÄ™ wydaje, Å¼e samochody sÄ… TANIE?!}
+{793}{}{A moÅ¼e wydaje ci siÄ™, Å¼e ciÄ™ potraktowano... nieuczciwie?}
+{794}{}{Pan Bishop zaproponowaÅ‚ HOJNÄ„ zapÅ‚atÄ™ w wysokoÅ›ci 1500 dolcÃ³w. NastÄ™pna oferta ci siÄ™ nie spodoba.}
+{795}{}{W takim razie byÄ‡ moÅ¼e oferta w wysokoÅ›ci 900 dolcÃ³w bÄ™dzie ci bardziej odpowiadaÄ‡. Pan Bishop bÄ™dzie zadowolony, Å¼e proponujesz mu tak tanie usÅ‚ugi.}
+{797}{}{PoniewaÅ¼ jego hojna oferta zostaÅ‚a odrzucona, mam nakazane zabraÄ‡ samochÃ³d bez jakiejkolwiek zapÅ‚aty.}
+{798}{}{MÄ™czy mnie ta rozmowa. WrÃ³cÄ™ pÃ³Åºniej.}
+{810}{}{DziewiÄ™Ä‡s... czÅ‚owieku, Å¼artujesz czy co?! }
+{811}{}{DziewiÄ™Ä‡s... kobieto, Å¼artujesz czy co?! }
+{812}{}{Nie rÃ³b sobie jaj! To jest HIGHWAYMAN. Nie robiÄ… juÅ¼ takich, NIGDZIE, rozumiesz? INNE rodziny na pewno z chÄ™ciÄ… zapÅ‚acÄ… wiÄ™cej, jeÅ›li ten tani draÅ„ Bishop nie chce...}
+{814}{}{Pan Bishop zÅ‚oÅ¼yÅ‚ ci bardzo HOJNÄ„ ofertÄ™, 900 Å¼etonÃ³w. NastÄ™pna oferta ci siÄ™ nie spodoba.}
+{816}{}{A wiÄ™c robisz interesy z innymi rodzinami? Pan Bishop z chÄ™ciÄ… siÄ™ o tym dowie.}
+{817}{}{Å»e co proszÄ™? Jak wÅ‚aÅ›nie nazwaÅ‚eÅ› pana Bishopa?}
+{818}{}{MÄ™czy mnie to. PÃ³Åºniej porozmawiamy.}
+{830}{}{(T-Ray zamiera. Przez chwilÄ™ wydaje ci siÄ™, Å¼e ciÄ™ zaatakuje, ale po chwili siÄ™ uspokaja) CzÅ‚owieku, to surowe warunki.}
+{831}{}{(T-Ray zamiera. Przez chwilÄ™ wydaje ci siÄ™, Å¼e ciÄ™ zaatakuje, ale po chwili siÄ™ uspokaja) Kobieto, to surowe warunki.}
+{832}{}{ Co ja takiego zrobiÅ‚em panu Bishopowi, Å¼eby na to zasÅ‚uÅ¼yÄ‡? HÄ™?}
+{834}{}{ZabiorÄ™ go do pana Bishopa. Och... pan Bishop ma jeszcze jedno Å¼yczenie: chciaÅ‚by dostaÄ‡ od ciebie kilka darmowych baterii. OsobiÅ›cie mu je dostarczÄ™.}
+{835}{}{Na pewno coÅ› by siÄ™ znalazÅ‚o. On ciÄ™ niezbyt lubi. MiÅ‚o siÄ™ z tobÄ… robi interesy.}
+{845}{}{O nienienie, nic z tych rzeczy...! Ja i pan Bishop, my zawsze mÃ³wimy sobie wszystko prosto w twarz i nie ma Å¼adnych problemÃ³w. On mnie traktuje jak trzeba, a ty mu to przekaÅ¼esz, dobraaa? Ale... uch... co z tymi korzyÅ›ciami w naturze, o ktÃ³rych w spomniaÅ‚em?}
+{846}{}{TÄ… kwestiÄ™ bÄ™dziesz musiaÅ‚ osobiÅ›cie przedyskutowaÄ‡ z panem Bishopem. Pan Bishop ma jeszcze jedno Å¼yczenie: chciaÅ‚by otrzymaÄ‡ od ciebie kilka darmowych baterii. OsobiÅ›cie mu je zaniosÄ™.}
+{847}{}{O innych korzyÅ›ciach bÄ™dziesz musiaÅ‚ porozmawiaÄ‡ osobiÅ›cie z panem Bishopem. PamiÄ™taj, Å¼eby wybraÄ‡ siÄ™ do niego z broniÄ…, i Å¼eby gÅ‚oÅ›no domagaÄ‡ siÄ™ tego, co jest ci winien. On szanuje takich ludzi.}
+{855}{}{(UÅ›miech T-Raya blednie) Jasne... pewnie, pewnie... nie ma sprawy.}
 {856}{}{Doskonale. W tej chwili daj mi wszystkie baterie, jakie masz.}
-{857}{}{(OdejdŸ.)}
-{865}{}{Pewnie, pewnie... hej, powiedz swojemu szefowi, ¿e mo¿e te¿ te baterie ode mnie kupiæ. W tej okolicy ci¹gle znajdujê nowe.}
-{866}{}{Serio? Poka¿ mi, co masz na sk³adzie.}
-{875}{}{Nie mamy w tej chwili baterii. W wiêkszoœci samochodów, które rozebraliœmy, nic nie by³o. Daj nam tydzieñ lub dwa, dobrzeee?}
-{876}{}{No dobrze. Niech ci bêdzie. Tym razem. Bywaj.}
-{885}{}{(T-Ray jakby trochê siê zgarbi³) Dooobra, dooobra. Masz. To wszystko, co mam.}
-{886}{}{No dobrze. Za dwa tygodnie wrócê po now¹ dostawê. Przygotuj j¹ dla pana Bishopa.}
-{896}{}{Dobrze. Spróbujê póŸniej.}
-{905}{}{Pewnie, mamy coœ.}
-{906}{}{Mogê zobaczyæ wasze towary?}
-{907}{}{Eee, bardzo by mi siê przyda³y, ale nie chcê za nie p³aciæ. Czy jest coœ... INNEGO, co chcia³byœ ode mnie za nie dostaæ?}
+{857}{}{(OdejdÅº.)}
+{865}{}{Pewnie, pewnie... hej, powiedz swojemu szefowi, Å¼e moÅ¼e teÅ¼ te baterie ode mnie kupiÄ‡. W tej okolicy ciÄ…gle znajdujÄ™ nowe.}
+{866}{}{Serio? PokaÅ¼ mi, co masz na skÅ‚adzie.}
+{875}{}{Nie mamy w tej chwili baterii. W wiÄ™kszoÅ›ci samochodÃ³w, ktÃ³re rozebraliÅ›my, nic nie byÅ‚o. Daj nam tydzieÅ„ lub dwa, dobrzeee?}
+{876}{}{No dobrze. Niech ci bÄ™dzie. Tym razem. Bywaj.}
+{885}{}{(T-Ray jakby trochÄ™ siÄ™ zgarbiÅ‚) Dooobra, dooobra. Masz. To wszystko, co mam.}
+{886}{}{No dobrze. Za dwa tygodnie wrÃ³cÄ™ po nowÄ… dostawÄ™. Przygotuj jÄ… dla pana Bishopa.}
+{896}{}{Dobrze. SprÃ³bujÄ™ pÃ³Åºniej.}
+{905}{}{Pewnie, mamy coÅ›.}
+{906}{}{MogÄ™ zobaczyÄ‡ wasze towary?}
+{907}{}{Eee, bardzo by mi siÄ™ przydaÅ‚y, ale nie chcÄ™ za nie pÅ‚aciÄ‡. Czy jest coÅ›... INNEGO, co chciaÅ‚byÅ› ode mnie za nie dostaÄ‡?}
 {909}{}{Tylko sprawdzam. Na razie.}
-{915}{}{P³yty grawitacyjne! Te cudeñka sprawi¹, ¿e bêdziesz LATAÆ wzd³u¿ i wszerz pustkowi, a poza tym maj¹ chip recyklingowy, dziêki któremu prawie nie zu¿ywaj¹ paliwa. Co ty na to? Chcesz je?}
-{916}{}{Ja lubi ja braæ}
-{918}{}{Brzmi nieŸle. Wezmê je.}
-{919}{}{Nie w tej chwili. Przybywam, by zabraæ baterie dla pana Bishopa.}
-{920}{}{Nie w tej chwili. Czy móg³byœ ulepszyæ mojego Highwaymana bez dodawania p³yt grawitacyjnych?}
-{921}{}{Nie w tej chwili. Czy zamiast tego mogê kupiæ od ciebie kilka baterii?}
-{922}{}{Nie, nie teraz. Mo¿e póŸniej. Na razie.}
-{930}{}{(T-Ray spêdza w warsztacie godzinkê czy dwie. Kiedy znów siê pojawia, p³yty grawitacyjne s¹ ju¿ zamontowane.)}
-{931}{}{Dziêki T-Ray. Doceniam to. Pójdê je wypróbowaæ.}
-{940}{}{Nie krêpuj siê.}
-{941}{}{Co moje, to i twoje. Ale powiedz wszystkim, ¿e to powiedzia³em.}
-{942}{}{Kurde. Ratujesz œwiat i DALEJ musisz siê babraæ w tym ca³ym gównie.}
-{950}{}{Zabieraj siê od moich œmieci.}
-{951}{}{Nastêpnym razem jak dotkniesz moich œmieci, to ci z³ojê dupê na kwaœne jab³ko.}
-{1000}{}{Uda³o ci siê odzyskaæ samochód bez u¿ycia przemocy.}
-{1001}{}{Uda³o ci siê skutecznie oszukaæ T-Raya.}
-{1002}{}{Uda³o ci siê uzyskaæ darmowy zapas baterii samochodowych.}
-{1100}{}{Za... du¿o... seksu... zaraz... pêknê...}
-{2000}{}{Uda³o ci siê uzyskaæ baterie do Highwaymana.}
-{2010}{}{Twój Highwayman zosta³ ulepszony.}
-{5286}{}{. Jestem tu po samochód.}
-{5731}{}{?! S³ysza³em, ¿e }
+{915}{}{PÅ‚yty grawitacyjne! Te cudeÅ„ka sprawiÄ…, Å¼e bÄ™dziesz LATAÄ† wzdÅ‚uÅ¼ i wszerz pustkowi, a poza tym majÄ… chip recyklingowy, dziÄ™ki ktÃ³remu prawie nie zuÅ¼ywajÄ… paliwa. Co ty na to? Chcesz je?}
+{916}{}{Ja lubi ja braÄ‡}
+{918}{}{Brzmi nieÅºle. WezmÄ™ je.}
+{919}{}{Nie w tej chwili. Przybywam, by zabraÄ‡ baterie dla pana Bishopa.}
+{920}{}{Nie w tej chwili. Czy mÃ³gÅ‚byÅ› ulepszyÄ‡ mojego Highwaymana bez dodawania pÅ‚yt grawitacyjnych?}
+{921}{}{Nie w tej chwili. Czy zamiast tego mogÄ™ kupiÄ‡ od ciebie kilka baterii?}
+{922}{}{Nie, nie teraz. MoÅ¼e pÃ³Åºniej. Na razie.}
+{930}{}{(T-Ray spÄ™dza w warsztacie godzinkÄ™ czy dwie. Kiedy znÃ³w siÄ™ pojawia, pÅ‚yty grawitacyjne sÄ… juÅ¼ zamontowane.)}
+{931}{}{DziÄ™ki T-Ray. Doceniam to. PÃ³jdÄ™ je wyprÃ³bowaÄ‡.}
+{940}{}{Nie krÄ™puj siÄ™.}
+{941}{}{Co moje, to i twoje. Ale powiedz wszystkim, Å¼e to powiedziaÅ‚em.}
+{942}{}{Kurde. Ratujesz Å›wiat i DALEJ musisz siÄ™ babraÄ‡ w tym caÅ‚ym gÃ³wnie.}
+{950}{}{Zabieraj siÄ™ od moich Å›mieci.}
+{951}{}{NastÄ™pnym razem jak dotkniesz moich Å›mieci, to ci zÅ‚ojÄ™ dupÄ™ na kwaÅ›ne jabÅ‚ko.}
+{1000}{}{UdaÅ‚o ci siÄ™ odzyskaÄ‡ samochÃ³d bez uÅ¼ycia przemocy.}
+{1001}{}{UdaÅ‚o ci siÄ™ skutecznie oszukaÄ‡ T-Raya.}
+{1002}{}{UdaÅ‚o ci siÄ™ uzyskaÄ‡ darmowy zapas baterii samochodowych.}
+{1100}{}{Za... duÅ¼o... seksu... zaraz... pÄ™knÄ™...}
+{2000}{}{UdaÅ‚o ci siÄ™ uzyskaÄ‡ baterie do Highwaymana.}
+{2010}{}{TwÃ³j Highwayman zostaÅ‚ ulepszony.}
+{5286}{}{. Jestem tu po samochÃ³d.}
+{5731}{}{?! SÅ‚yszaÅ‚em, Å¼e }
 {5733}{}{. Nie wierzysz mi?}
-{6731}{}{ ma wiêcej wzrostu, wiêcej... (chyba ma w¹tpliwoœci) ...wredziochostwa.}
+{6731}{}{ ma wiÄ™cej wzrostu, wiÄ™cej... (chyba ma wÄ…tpliwoÅ›ci) ...wredziochostwa.}

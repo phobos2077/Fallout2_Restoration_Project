@@ -1,48 +1,48 @@
-{100}{}{Widzisz szpona œmierci, który obserwuje ciê dziwnie inteligentnym wzrokiem.}
-{101}{}{Widzisz Jula, szpona œmierci.}
-{102}{}{Widzisz typowego szpona œmierci. To ogromne stworzenie ma potê¿n¹ budowê cia³a, ostre zêby i d³ugie pazury.}
-{103}{}{Stop. Ty nie idzie tu. To miejsce bez wstêpu.}
-{104}{}{Dobra. Ja iœæ.}
+{100}{}{Widzisz szpona Å›mierci, ktÃ³ry obserwuje ciÄ™ dziwnie inteligentnym wzrokiem.}
+{101}{}{Widzisz Jula, szpona Å›mierci.}
+{102}{}{Widzisz typowego szpona Å›mierci. To ogromne stworzenie ma potÄ™Å¼nÄ… budowÄ™ ciaÅ‚a, ostre zÄ™by i dÅ‚ugie pazury.}
+{103}{}{Stop. Ty nie idzie tu. To miejsce bez wstÄ™pu.}
+{104}{}{Dobra. Ja iÅ›Ä‡.}
 {105}{}{To miejsce co?}
 {106}{}{Twoja kto?}
-{107}{}{No dobrze, pójdê sobie.}
-{108}{}{Chodzê tam, gdzie mi siê podoba, jaszczurzy pomiocie!}
+{107}{}{No dobrze, pÃ³jdÄ™ sobie.}
+{108}{}{ChodzÄ™ tam, gdzie mi siÄ™ podoba, jaszczurzy pomiocie!}
 {109}{}{Co to za miejsce?}
-{110}{}{Kim jesteœ?}
-{111}{}{To wylêgarnia. Matka stada w œrodku. Jaja w œrodku. Pilnujê. Ca³e stado pilnuje.}
-{112}{}{Ja chce rozmawiaæ matka.}
+{110}{}{Kim jesteÅ›?}
+{111}{}{To wylÄ™garnia. Matka stada w Å›rodku. Jaja w Å›rodku. PilnujÄ™. CaÅ‚e stado pilnuje.}
+{112}{}{Ja chce rozmawiaÄ‡ matka.}
 {113}{}{Twoja kto?}
-{114}{}{Moja iœæ ju¿}
-{115}{}{A wiêc pójdê sobie.}
-{116}{}{Kim jesteœ?}
-{117}{}{Pragnê porozmawiaæ z matk¹.}
-{118}{}{Ja Jul. Wojownik stada. Pilnujê wylêgarni. Pilnujê matki.}
+{114}{}{Moja iÅ›Ä‡ juÅ¼}
+{115}{}{A wiÄ™c pÃ³jdÄ™ sobie.}
+{116}{}{Kim jesteÅ›?}
+{117}{}{PragnÄ™ porozmawiaÄ‡ z matkÄ….}
+{118}{}{Ja Jul. Wojownik stada. PilnujÄ™ wylÄ™garni. PilnujÄ™ matki.}
 {119}{}{Ja}
-{120}{}{Moja iœæ ju¿}
-{121}{}{Pilnowaæ matki wa¿ne praca. Ty wa¿ne.}
+{120}{}{Moja iÅ›Ä‡ juÅ¼}
+{121}{}{PilnowaÄ‡ matki waÅ¼ne praca. Ty waÅ¼ne.}
 {122}{}{Jestem}
-{123}{}{Pilnowanie matki to wielka odpowiedzialnoœæ. Musisz byæ wa¿nym cz³onkiem stada.}
-{124}{}{Chyba ju¿ sobie pójdê.}
-{125}{}{Czekaj. Zapytam matkê.}
-{126}{}{W porz¹dku.}
-{127}{}{Matka mówi porozmawia. WejdŸ. Nie rób k³opotów. Nie chcê krzywdziæ ty, ale krzywdziæ mocno, jeœli zrobisz k³opoty.}
-{128}{}{Matka mówi porozmawia. WejdŸ, ale bez nikt, przyjaciele zostaæ tutaj. Nie rób k³opotów. Nie chcê krzywdziæ ty, ale krzywdziæ mocno, jeœli ty zrobisz k³opoty.}
-{129}{}{W porz¹dku.}
-{130}{}{Tak myœlisz? Ja tak nie patrzê. To mi robi przyjemnoœæ. Ja lubiê. Dziêkujê.}
-{131}{}{Nie za ma co. Ja ju¿ iœæ.}
-{132}{}{Ja chce rozmawiaæ matka.}
-{133}{}{Nie ma za co. Muszê ju¿ iœæ.}
-{134}{}{Czy mogê porozmawiaæ z matk¹?}
-{135}{}{Jaszczurzy pomiot... och, rozumiem. Ha ha! Teraz ty zrozum to. Ja pilnujê, bo ja najwredniejszy, najmocniejszy skurwysyn w ca³ej cholernej krypcie. Zadzierasz ze mn¹, zadzierasz z najlepszym. OdejdŸ albo oderwê ci g³owê i zmuszê patrzeæ jak sikam do szyi.}
-{136}{}{Chyba ju¿ pójdê.}
-{137}{}{Ach tak? Zobaczmy, jaki jesteœ mocny!}
+{123}{}{Pilnowanie matki to wielka odpowiedzialnoÅ›Ä‡. Musisz byÄ‡ waÅ¼nym czÅ‚onkiem stada.}
+{124}{}{Chyba juÅ¼ sobie pÃ³jdÄ™.}
+{125}{}{Czekaj. Zapytam matkÄ™.}
+{126}{}{W porzÄ…dku.}
+{127}{}{Matka mÃ³wi porozmawia. WejdÅº. Nie rÃ³b kÅ‚opotÃ³w. Nie chcÄ™ krzywdziÄ‡ ty, ale krzywdziÄ‡ mocno, jeÅ›li zrobisz kÅ‚opoty.}
+{128}{}{Matka mÃ³wi porozmawia. WejdÅº, ale bez nikt, przyjaciele zostaÄ‡ tutaj. Nie rÃ³b kÅ‚opotÃ³w. Nie chcÄ™ krzywdziÄ‡ ty, ale krzywdziÄ‡ mocno, jeÅ›li ty zrobisz kÅ‚opoty.}
+{129}{}{W porzÄ…dku.}
+{130}{}{Tak myÅ›lisz? Ja tak nie patrzÄ™. To mi robi przyjemnoÅ›Ä‡. Ja lubiÄ™. DziÄ™kujÄ™.}
+{131}{}{Nie za ma co. Ja juÅ¼ iÅ›Ä‡.}
+{132}{}{Ja chce rozmawiaÄ‡ matka.}
+{133}{}{Nie ma za co. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{134}{}{Czy mogÄ™ porozmawiaÄ‡ z matkÄ…?}
+{135}{}{Jaszczurzy pomiot... och, rozumiem. Ha ha! Teraz ty zrozum to. Ja pilnujÄ™, bo ja najwredniejszy, najmocniejszy skurwysyn w caÅ‚ej cholernej krypcie. Zadzierasz ze mnÄ…, zadzierasz z najlepszym. OdejdÅº albo oderwÄ™ ci gÅ‚owÄ™ i zmuszÄ™ patrzeÄ‡ jak sikam do szyi.}
+{136}{}{Chyba juÅ¼ pÃ³jdÄ™.}
+{137}{}{Ach tak? Zobaczmy, jaki jesteÅ› mocny!}
 {138}{}{To znowu ty. Czego ty chcesz?}
-{139}{}{Ja mówi czeœæ. Ja iœæ.}
-{140}{}{Kto ty mówi ty byæ?}
+{139}{}{Ja mÃ³wi czeÅ›Ä‡. Ja iÅ›Ä‡.}
+{140}{}{Kto ty mÃ³wi ty byÄ‡?}
 {141}{}{To miejsce co?}
-{142}{}{Chcê siê tylko przywitaæ.}
+{142}{}{ChcÄ™ siÄ™ tylko przywitaÄ‡.}
 {143}{}{Co to za miejsce?}
-{144}{}{Mówi³eœ, ¿e kim jesteœ?}
-{145}{}{Ty ju¿ dawno nie ¿yæ. Ty tylko masz za ma³y rozum, ¿eby siê przewróciæ.}
-{146}{}{. Ja chce rozmawiaæ matka.}
-{147}{}{, Jul i pragnê porozmawiaæ z matk¹, jeœli to mo¿liwe.}
+{144}{}{MÃ³wiÅ‚eÅ›, Å¼e kim jesteÅ›?}
+{145}{}{Ty juÅ¼ dawno nie Å¼yÄ‡. Ty tylko masz za maÅ‚y rozum, Å¼eby siÄ™ przewrÃ³ciÄ‡.}
+{146}{}{. Ja chce rozmawiaÄ‡ matka.}
+{147}{}{, Jul i pragnÄ™ porozmawiaÄ‡ z matkÄ…, jeÅ›li to moÅ¼liwe.}

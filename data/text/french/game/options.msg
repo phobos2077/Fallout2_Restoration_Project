@@ -40,7 +40,7 @@
 {211}{}{Prolixe}
 {212}{}{Bref}
 {213}{}{Cibles uniquement}
-{214}{}{Aucune préférence.}
+{214}{}{Aucune prÃ©fÃ©rence.}
 {215}{}{Minimum}
 {216}{}{Maximum}
 {217}{}{Lent}
@@ -53,5 +53,5 @@
 {224}{}{Maximum}
 {300}{}{TERMINER}
 {301}{}{PAUSE}
-{1000}{}{Le menu des préférences n'est malheureusement }
-{1001}{}{pas disponible dans la version de démo.}
+{1000}{}{Le menu des prÃ©fÃ©rences n'est malheureusement }
+{1001}{}{pas disponible dans la version de dÃ©mo.}

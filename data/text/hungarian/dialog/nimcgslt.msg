@@ -1,50 +1,50 @@
-{150}{}{Ez itt egy rusnya, rozsdás pénznyer? automata.}
-{151}{}{Ez itt egy rusnya kinézet? pénznyer? automata. Teljesen rozsdás, és számos horpadás borítja, mintha valami nehéz tárggyal egyfolytában püfölték volna.}
-{200}{}{*Hé, fiata... ::Köhög:: ::Köhög:: ::Zihál:: ...gyere... ::Krákog:: Játsszunk egy kicsit.*}
-{201}{}{*Üdv, fiata... ::Köhög:: ::Köhög::*}
-{202}{}{*Hé, fiata... ::Köhög:: ::Krákog:: ::Zihál:: ...miért... ::Krákog:: ...nem dobsz belém egy kis pénzt?}
-{203}{}{*Zörög*}
+{150}{}{Ez itt egy rusnya, rozsdÃ¡s pÃ©nznyer? automata.}
+{151}{}{Ez itt egy rusnya kinÃ©zet? pÃ©nznyer? automata. Teljesen rozsdÃ¡s, Ã©s szÃ¡mos horpadÃ¡s borÃ­tja, mintha valami nehÃ©z tÃ¡rggyal egyfolytÃ¡ban pÃ¼fÃ¶ltÃ©k volna.}
+{200}{}{*HÃ©, fiata... ::KÃ¶hÃ¶g:: ::KÃ¶hÃ¶g:: ::ZihÃ¡l:: ...gyere... ::KrÃ¡kog:: JÃ¡tsszunk egy kicsit.*}
+{201}{}{*Ãœdv, fiata... ::KÃ¶hÃ¶g:: ::KÃ¶hÃ¶g::*}
+{202}{}{*HÃ©, fiata... ::KÃ¶hÃ¶g:: ::KrÃ¡kog:: ::ZihÃ¡l:: ...miÃ©rt... ::KrÃ¡kog:: ...nem dobsz belÃ©m egy kis pÃ©nzt?}
+{203}{}{*ZÃ¶rÃ¶g*}
 {204}{}{*Csattog*}
 {205}{}{*Kerreg*}
-{206}{}{*Összevissza csattog*}
+{206}{}{*Ã–sszevissza csattog*}
 {207}{}{*Zzzztttt*}
 {208}{}{*Kattog-kerreg-csattan*}
 {209}{}{*Kattog-csattan-nyikorog*}
 {210}{}{*Klattyan*}
 {211}{}{*Csilingel*}
-{212}{}{*Hülye hangot ad ki magából*}
-{213}{}{*Hé, szépsé... ::Köhög:: ::Köhög:: ::Zihál:: ...gyere... ::Krákog:: Játsszunk egy kicsit!*}
-{214}{}{*Üdv, szépsé... ::Köhög:: ::Köhög:: Francba!*}
-{215}{}{*Tegyél be egy érmét, húzd meg a karomat. Jóhh leszek hozzád. Hehe.*}
-{216}{}{*Milyen szép is vagy kics... ::Köhög:: ::Krákog:: ::Zihál:: Miért... ::Krákog:: ...nem jössz játszani rajtam?*}
-{230}{}{Egy kopott fémdobozt látsz, melynek három szeme és egy karja van.}
-{235}{}{A háromszem?, egykarú fémdoboz nem válaszol.}
-{240}{}{Megragadod a karját és rántasz rajta egy jókorát Hogy, hogy nem, éles csörg? hang hallatszik.}
-{245}{}{(Ez egy pénznyer? automata. Meglehet, hogy a legrondább, amit egész New Renóban láttál. A karja meghajlott, két ablaka betört, ezenkívül számos horpadás borítja.)}
+{212}{}{*HÃ¼lye hangot ad ki magÃ¡bÃ³l*}
+{213}{}{*HÃ©, szÃ©psÃ©... ::KÃ¶hÃ¶g:: ::KÃ¶hÃ¶g:: ::ZihÃ¡l:: ...gyere... ::KrÃ¡kog:: JÃ¡tsszunk egy kicsit!*}
+{214}{}{*Ãœdv, szÃ©psÃ©... ::KÃ¶hÃ¶g:: ::KÃ¶hÃ¶g:: Francba!*}
+{215}{}{*TegyÃ©l be egy Ã©rmÃ©t, hÃºzd meg a karomat. JÃ³hh leszek hozzÃ¡d. Hehe.*}
+{216}{}{*Milyen szÃ©p is vagy kics... ::KÃ¶hÃ¶g:: ::KrÃ¡kog:: ::ZihÃ¡l:: MiÃ©rt... ::KrÃ¡kog:: ...nem jÃ¶ssz jÃ¡tszani rajtam?*}
+{230}{}{Egy kopott fÃ©mdobozt lÃ¡tsz, melynek hÃ¡rom szeme Ã©s egy karja van.}
+{235}{}{A hÃ¡romszem?, egykarÃº fÃ©mdoboz nem vÃ¡laszol.}
+{240}{}{Megragadod a karjÃ¡t Ã©s rÃ¡ntasz rajta egy jÃ³korÃ¡t Hogy, hogy nem, Ã©les csÃ¶rg? hang hallatszik.}
+{245}{}{(Ez egy pÃ©nznyer? automata. Meglehet, hogy a legrondÃ¡bb, amit egÃ©sz New RenÃ³ban lÃ¡ttÃ¡l. A karja meghajlott, kÃ©t ablaka betÃ¶rt, ezenkÃ­vÃ¼l szÃ¡mos horpadÃ¡s borÃ­tja.)}
 {246}{}{Your hand quivers as you reach for your chips. (The machine continues to whisper at you in its gravelly voice.)
  *Come on, now...::cough::...that's it...*}
-{250}{}{Ahogy a tárcsák pörögni kezdenek, hirtelen fülsiketít? csörömpölés hallatszik, és...}
-{251}{}{SEMMI! (Közli a gép száraz hangon.) *Legközelebb talán szerencsésebb leszel, fiata... ::Köhög:: ::Köhög:: ::Zihál::}
-{255}{}{(A gép tovább suttog feléd.) *Próbáld újra, fiata... még egyszer, hogy... ::Köhög:: ::Krákog:: ...próbára tedd a szerencséd.*}
-{260}{}{A pörgés lassan megáll, a nyeremény... }
-{261}{}{(A gép meleg hangon kuncog.) *Ez az, fiatal. Tudtam, hogy men... ::Köhög:: ::Köhög:: ...menni fog.*}
-{265}{}{(A gép nevet.) *Ez az, men?kém! Tudtam, hogy még... ::Zihál:: nem égtem ki teljesen! Hehe!*}
-{270}{}{(Ez itt valószín?leg a legrandább játékgép, amit valaha láttál. Miközben borzadállyal vegyes kíváncsisággal bámulsz rá, hirtelen egy súlyos férfihang szólal meg a pénzbedobó nyílásból.) *Mintha már láttam volna itt egy ilyen fiatalt korábban... ::Köhög:: ::Köhög:: Esetleg... ::Krákog:: ...nem teszel egy próbát?}
-{275}{}{*Én még mindig itt vagyok, fiatal,* kattog az automata. *Gyerünk... jáccani akarsz? Az én id?m lassan lejár...*}
-{280}{}{*Én vagyok a legrégibb félkarú rabló Renóban. Mondhatom, hogy... ::Köhög:: ::Köhög:: ...örökt?l fogva m?ködöm. Sajna fogytán az er?m. Most játszol, vagy itt fogok szétrozsdásodni?*}
-{285}{}{:Köhög:: ::Köhög:: *Nincs id?m itt szarakodni veled, fiatal. Gondolom a legkisebb dolgod is nagyobb annál, hogy itt velem trécselj, mi? Forgatsz valamit a fejedben?}
-{295}{}{*Ugyan már, fiatal! Ne itasd az egereket! Minden jóra fordul, hallod-e! Én majd tör?döm veled, rendbe'?}
-{300}{}{*Hé, ugyan, hagyd már abba! Sétálj egyet, szell?ztesd ki a fejed... :Köhög:: ...segítek lenyugodni. Szerinted, menni fog, fiatal?}
-{301}{}{Rendbe' leszek... kösssz hogy beszél velem vén jáccógép}
-{305}{}{*Najszen! Nem kell megköszönni, [X]. Most pedig eriggy és mutasd meg nekik! Te vagy az egyetlen Valaki a gyökerek és rablók kétbites világában... ::Köhög:: ::Zihál:: ::Köhög:: ...szóval vigyázol magadra, mi?}
-{306}{}{Úgy leszen... neked legjobbat szintén, rendbe'?}
-{310}{}{(Ahogy meghúzod a meghajlott kart, olyan érzésed támad, mintha a gép megkönnyebbülten felsóhajtott volna, aztán jó darabig semmilyen zajt nem hallat. Amikor már éppen ott akarnád hagyni, valami kattyogást hallasz a gép mélyér?l. Néhány másodperccel kés?bb a kattyogás fülsért? robajjá er?södik, és megindul a zuhatag.) MEGÜTÖTTED A F?NYEREMÉNYT!}
-{311}{}{Begy?jtöd a nyereményt!}
-{315}{}{(Úgy látszik, a gép ezzel beadta a kulcsot. A f?nyeremény kiadásával egyszer?en kilehelte a lelkét. Nem tudod megállni, hogy ne érezz némi sajnálatot iránta.)}
-{320}{}{Ez a gép ?si darab. Kész csoda, hogy még mindig m?ködik.}
-{321}{}{Amíg az öregember játszik a géppel, semmit nem csinálhatsz vele.}
-{322}{}{A gép túl van azon a ponton, hogy meg lehessen javítani.}
-{323}{}{Ezzel a géppel többre nem jutsz.}
-{324}{}{Ez a gép igen ?si darab. Kész csoda, hogy még mindig m?ködik. Elbütykölsz vele egy darabig, mire szörny? csikorgó hangot ad ki magából. Hirtelen úgy döntesz, hogy hagyod a fenébe.}
+{250}{}{Ahogy a tÃ¡rcsÃ¡k pÃ¶rÃ¶gni kezdenek, hirtelen fÃ¼lsiketÃ­t? csÃ¶rÃ¶mpÃ¶lÃ©s hallatszik, Ã©s...}
+{251}{}{SEMMI! (KÃ¶zli a gÃ©p szÃ¡raz hangon.) *LegkÃ¶zelebb talÃ¡n szerencsÃ©sebb leszel, fiata... ::KÃ¶hÃ¶g:: ::KÃ¶hÃ¶g:: ::ZihÃ¡l::}
+{255}{}{(A gÃ©p tovÃ¡bb suttog felÃ©d.) *PrÃ³bÃ¡ld Ãºjra, fiata... mÃ©g egyszer, hogy... ::KÃ¶hÃ¶g:: ::KrÃ¡kog:: ...prÃ³bÃ¡ra tedd a szerencsÃ©d.*}
+{260}{}{A pÃ¶rgÃ©s lassan megÃ¡ll, a nyeremÃ©ny... }
+{261}{}{(A gÃ©p meleg hangon kuncog.) *Ez az, fiatal. Tudtam, hogy men... ::KÃ¶hÃ¶g:: ::KÃ¶hÃ¶g:: ...menni fog.*}
+{265}{}{(A gÃ©p nevet.) *Ez az, men?kÃ©m! Tudtam, hogy mÃ©g... ::ZihÃ¡l:: nem Ã©gtem ki teljesen! Hehe!*}
+{270}{}{(Ez itt valÃ³szÃ­n?leg a legrandÃ¡bb jÃ¡tÃ©kgÃ©p, amit valaha lÃ¡ttÃ¡l. MikÃ¶zben borzadÃ¡llyal vegyes kÃ­vÃ¡ncsisÃ¡ggal bÃ¡mulsz rÃ¡, hirtelen egy sÃºlyos fÃ©rfihang szÃ³lal meg a pÃ©nzbedobÃ³ nyÃ­lÃ¡sbÃ³l.) *Mintha mÃ¡r lÃ¡ttam volna itt egy ilyen fiatalt korÃ¡bban... ::KÃ¶hÃ¶g:: ::KÃ¶hÃ¶g:: Esetleg... ::KrÃ¡kog:: ...nem teszel egy prÃ³bÃ¡t?}
+{275}{}{*Ã‰n mÃ©g mindig itt vagyok, fiatal,* kattog az automata. *GyerÃ¼nk... jÃ¡ccani akarsz? Az Ã©n id?m lassan lejÃ¡r...*}
+{280}{}{*Ã‰n vagyok a legrÃ©gibb fÃ©lkarÃº rablÃ³ RenÃ³ban. Mondhatom, hogy... ::KÃ¶hÃ¶g:: ::KÃ¶hÃ¶g:: ...Ã¶rÃ¶kt?l fogva m?kÃ¶dÃ¶m. Sajna fogytÃ¡n az er?m. Most jÃ¡tszol, vagy itt fogok szÃ©trozsdÃ¡sodni?*}
+{285}{}{:KÃ¶hÃ¶g:: ::KÃ¶hÃ¶g:: *Nincs id?m itt szarakodni veled, fiatal. Gondolom a legkisebb dolgod is nagyobb annÃ¡l, hogy itt velem trÃ©cselj, mi? Forgatsz valamit a fejedben?}
+{295}{}{*Ugyan mÃ¡r, fiatal! Ne itasd az egereket! Minden jÃ³ra fordul, hallod-e! Ã‰n majd tÃ¶r?dÃ¶m veled, rendbe'?}
+{300}{}{*HÃ©, ugyan, hagyd mÃ¡r abba! SÃ©tÃ¡lj egyet, szell?ztesd ki a fejed... :KÃ¶hÃ¶g:: ...segÃ­tek lenyugodni. Szerinted, menni fog, fiatal?}
+{301}{}{Rendbe' leszek... kÃ¶sssz hogy beszÃ©l velem vÃ©n jÃ¡ccÃ³gÃ©p}
+{305}{}{*Najszen! Nem kell megkÃ¶szÃ¶nni, [X]. Most pedig eriggy Ã©s mutasd meg nekik! Te vagy az egyetlen Valaki a gyÃ¶kerek Ã©s rablÃ³k kÃ©tbites vilÃ¡gÃ¡ban... ::KÃ¶hÃ¶g:: ::ZihÃ¡l:: ::KÃ¶hÃ¶g:: ...szÃ³val vigyÃ¡zol magadra, mi?}
+{306}{}{Ãšgy leszen... neked legjobbat szintÃ©n, rendbe'?}
+{310}{}{(Ahogy meghÃºzod a meghajlott kart, olyan Ã©rzÃ©sed tÃ¡mad, mintha a gÃ©p megkÃ¶nnyebbÃ¼lten felsÃ³hajtott volna, aztÃ¡n jÃ³ darabig semmilyen zajt nem hallat. Amikor mÃ¡r Ã©ppen ott akarnÃ¡d hagyni, valami kattyogÃ¡st hallasz a gÃ©p mÃ©lyÃ©r?l. NÃ©hÃ¡ny mÃ¡sodperccel kÃ©s?bb a kattyogÃ¡s fÃ¼lsÃ©rt? robajjÃ¡ er?sÃ¶dik, Ã©s megindul a zuhatag.) MEGÃœTÃ–TTED A F?NYEREMÃ‰NYT!}
+{311}{}{Begy?jtÃ¶d a nyeremÃ©nyt!}
+{315}{}{(Ãšgy lÃ¡tszik, a gÃ©p ezzel beadta a kulcsot. A f?nyeremÃ©ny kiadÃ¡sÃ¡val egyszer?en kilehelte a lelkÃ©t. Nem tudod megÃ¡llni, hogy ne Ã©rezz nÃ©mi sajnÃ¡latot irÃ¡nta.)}
+{320}{}{Ez a gÃ©p ?si darab. KÃ©sz csoda, hogy mÃ©g mindig m?kÃ¶dik.}
+{321}{}{AmÃ­g az Ã¶regember jÃ¡tszik a gÃ©ppel, semmit nem csinÃ¡lhatsz vele.}
+{322}{}{A gÃ©p tÃºl van azon a ponton, hogy meg lehessen javÃ­tani.}
+{323}{}{Ezzel a gÃ©ppel tÃ¶bbre nem jutsz.}
+{324}{}{Ez a gÃ©p igen ?si darab. KÃ©sz csoda, hogy mÃ©g mindig m?kÃ¶dik. ElbÃ¼tykÃ¶lsz vele egy darabig, mire szÃ¶rny? csikorgÃ³ hangot ad ki magÃ¡bÃ³l. Hirtelen Ãºgy dÃ¶ntesz, hogy hagyod a fenÃ©be.}
 {325}{}{This machine is ancient. It is a miracle it's still working. You tinker with it for a bit, but you can't seem to fix it. Working on the machine appears to have made things only worse.}
-{326}{}{Ez a gép igen ?si darab. Kész csoda, hogy még m?ködik. Elkezded bütykölgetni, letisztítasz néhány fogaskereket, de ett?l még ugyanolyan szánalmas állapotban marad.}
+{326}{}{Ez a gÃ©p igen ?si darab. KÃ©sz csoda, hogy mÃ©g m?kÃ¶dik. Elkezded bÃ¼tykÃ¶lgetni, letisztÃ­tasz nÃ©hÃ¡ny fogaskereket, de ett?l mÃ©g ugyanolyan szÃ¡nalmas Ã¡llapotban marad.}

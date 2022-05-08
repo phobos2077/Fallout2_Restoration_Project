@@ -14,8 +14,8 @@
 {232}{}{Cassino}
 {240}{}{Base}
 {250}{}{Hotel}
-{251}{}{Sal„o}
-{252}{}{ArmazÈm de ¡gua}
+{251}{}{Sal√£o}
+{252}{}{Armaz√©m de √Ågua}
 {260}{}{Entrance}
 {261}{}{Downtown}
 {262}{}{Alturas}
@@ -28,8 +28,8 @@
 {273}{}{Level 3}
 {274}{}{Level 4}
 {280}{}{Entrance}
-{281}{}{Fortaleza NÌvel 1}
-{282}{}{Fortaleza NÌvel 2}
+{281}{}{Fortaleza N√≠vel 1}
+{282}{}{Fortaleza N√≠vel 2}
 {283}{}{Vats Level 1}
 {284}{}{Vats Level 2}
 {290}{}{Cratera}
@@ -42,7 +42,7 @@
 {310}{}{Entrance}
 {311}{}{Interior}
 {500}{}{You gained 10,000 experience points!}
-{501}{}{RuÌnas}
+{501}{}{Ru√≠nas}
 {1000}{}{Desert}
 {1001}{}{Mountains}
 {1002}{}{City}

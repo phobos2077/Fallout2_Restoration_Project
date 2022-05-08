@@ -1,19 +1,19 @@
 {100}{}{Ves a un tipo musculoso, de pecho fornido.}
-{101}{}{Es Hal, el capitán de la caravana de brahmines.}
-{102}{}{Está masticando una bola de algo que espera que no escupa en tu dirección, porque apesta lo que no está escrito.}
-{103}{}{¿Estás aquí por la caravana?}
+{101}{}{Es Hal, el capitÃ¡n de la caravana de brahmines.}
+{102}{}{EstÃ¡ masticando una bola de algo que espera que no escupa en tu direcciÃ³n, porque apesta lo que no estÃ¡ escrito.}
+{103}{}{Â¿EstÃ¡s aquÃ­ por la caravana?}
 {104}{}{}
-{105}{}{Sí.}
+{105}{}{SÃ­.}
 {106}{}{No.}
-{107}{}{Mantén los ojos bien abiertos.}
-{108}{}{¡Quédense juntos, hombres!}
-{109}{}{Siguen así, muchachos.}
-{110}{}{Genial. Vamos a bailar. ¡Hacia Redding, muchachos!}
-{111}{}{De acuerdo, entonces déjame tranquilo. Tengo 500 cabezas de brahmin que poner en camino.}
-{112}{}{¿Otra vez tú? Lárgate.}
+{107}{}{MantÃ©n los ojos bien abiertos.}
+{108}{}{Â¡QuÃ©dense juntos, hombres!}
+{109}{}{Siguen asÃ­, muchachos.}
+{110}{}{Genial. Vamos a bailar. Â¡Hacia Redding, muchachos!}
+{111}{}{De acuerdo, entonces dÃ©jame tranquilo. Tengo 500 cabezas de brahmin que poner en camino.}
+{112}{}{Â¿Otra vez tÃº? LÃ¡rgate.}
 {113}{}{Vaya, todo se ha ido a la mierda! Me temo que no hay dinero en este viaje para ninguno de nosotros. Podemos estar contentos de seguir vivos.}
-{114}{}{Bueno, los rancheros no están demasiado contentos: por el viaje nos dan 1.000 dólares. Mala suerte.}
-{115}{}{Bien, tuvimos una racha de mala suerte, pero lo hiciste bien. Aquí están los $2000 dólares por lo que se acordó.}
-{116}{}{¡Cojones, lo hiciste simplemente bien! Aquí hay un bono de 1.000 dólares para ti. Eso, y 2.000 dólares son tu paga. ¡Redding, ándate con ojo esta noche!}
-{117}{}{Estás solo. Que tengas buen viaje.}
-{118}{}{Eres la peor parodia de guardia que haya visto nunca. Lárgate de aquí.}
+{114}{}{Bueno, los rancheros no estÃ¡n demasiado contentos: por el viaje nos dan 1.000 dÃ³lares. Mala suerte.}
+{115}{}{Bien, tuvimos una racha de mala suerte, pero lo hiciste bien. AquÃ­ estÃ¡n los $2000 dÃ³lares por lo que se acordÃ³.}
+{116}{}{Â¡Cojones, lo hiciste simplemente bien! AquÃ­ hay un bono de 1.000 dÃ³lares para ti. Eso, y 2.000 dÃ³lares son tu paga. Â¡Redding, Ã¡ndate con ojo esta noche!}
+{117}{}{EstÃ¡s solo. Que tengas buen viaje.}
+{118}{}{Eres la peor parodia de guardia que haya visto nunca. LÃ¡rgate de aquÃ­.}

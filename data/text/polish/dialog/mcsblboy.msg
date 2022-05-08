@@ -1,18 +1,18 @@
-{100}{}{Widzisz rozczochranego, ma³ego ch³opca zajmuj¹cego siê Braminami.}
-{101}{}{Widzisz ch³opca stajennego.}
-{150}{}{Wygl¹da na zapracowanego.}
-{200}{}{Przykro mi, stajnie s¹ pe³ne. Musisz poszukaæ gdzie indziej.}
-{201}{}{Jestem teraz naprawdê zajêty.}
-{250}{}{Smród? Chyba mo¿na do niego przywykn¹æ.}
-{251}{}{Nie œmierdzi a¿ tak bardzo.}
-{252}{}{Chyba nie bêdê musia³ nawoziæ pola w tym roku. Dziêki.}
-{300}{}{Ten potrzebuje œwie¿ego siana.}
-{301}{}{Muszê przynieœæ trochê wiêcej wody.}
-{302}{}{Uff! Chyba czas pójœæ po ³opatê.}
-{303}{}{Z tym chyba wszystko w porz¹dku.}
-{304}{}{Tego lepiej mieæ na oku. Wygl¹da na nieco chorego.}
-{350}{}{Chrr... Œpiê... Chrr...}
-{351}{}{*ZIEW* Muszê byæ wczeœnie na nogach.}
-{352}{}{Hej, ja jeszcze rosnê. Potrzebujê snu.}
-{353}{}{Mo¿e idŸ lepiej pogadaæ z kimœ innym.}
-{354}{}{Ale chce mi siê spaæ. Gdyby tylko nie to ci¹g³e glêdzenie nad uchem.}
+{100}{}{Widzisz rozczochranego, maÅ‚ego chÅ‚opca zajmujÄ…cego siÄ™ Braminami.}
+{101}{}{Widzisz chÅ‚opca stajennego.}
+{150}{}{WyglÄ…da na zapracowanego.}
+{200}{}{Przykro mi, stajnie sÄ… peÅ‚ne. Musisz poszukaÄ‡ gdzie indziej.}
+{201}{}{Jestem teraz naprawdÄ™ zajÄ™ty.}
+{250}{}{SmrÃ³d? Chyba moÅ¼na do niego przywyknÄ…Ä‡.}
+{251}{}{Nie Å›mierdzi aÅ¼ tak bardzo.}
+{252}{}{Chyba nie bÄ™dÄ™ musiaÅ‚ nawoziÄ‡ pola w tym roku. DziÄ™ki.}
+{300}{}{Ten potrzebuje Å›wieÅ¼ego siana.}
+{301}{}{MuszÄ™ przynieÅ›Ä‡ trochÄ™ wiÄ™cej wody.}
+{302}{}{Uff! Chyba czas pÃ³jÅ›Ä‡ po Å‚opatÄ™.}
+{303}{}{Z tym chyba wszystko w porzÄ…dku.}
+{304}{}{Tego lepiej mieÄ‡ na oku. WyglÄ…da na nieco chorego.}
+{350}{}{Chrr... ÅšpiÄ™... Chrr...}
+{351}{}{*ZIEW* MuszÄ™ byÄ‡ wczeÅ›nie na nogach.}
+{352}{}{Hej, ja jeszcze rosnÄ™. PotrzebujÄ™ snu.}
+{353}{}{MoÅ¼e idÅº lepiej pogadaÄ‡ z kimÅ› innym.}
+{354}{}{Ale chce mi siÄ™ spaÄ‡. Gdyby tylko nie to ciÄ…gÅ‚e glÄ™dzenie nad uchem.}

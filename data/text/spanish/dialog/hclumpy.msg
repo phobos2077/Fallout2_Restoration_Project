@@ -1,45 +1,45 @@
-{100}{}{Ves a un necrófago. Ahora mismo yace bajo tu parachoques delantero.}
-{101}{}{Ves a Lumpy. Esperas que esté bien.}
-{102}{}{Ves a un necrófago que parece bastante dolorido. Quizá si tu habilidad al volante fuese mejor, podrías haber evitado esto.}
-{103}{}{¡Oooooh! ¡Eso pincha!}
-{104}{}{¡Ouch! ¡Mi sacroilíaco!}
-{105}{}{¿Alguien ha visto mi vesícula biliar?}
-{106}{}{¡Mi columna! ¡Mi columna!}
-{107}{}{¡Voy hacia ti, Elizabeth!}
-{108}{}{Un médico...}
-{109}{}{¿Alguien puede ayudarme? No puedo leer el número de la matrícula.}
-{110}{}{¡Oye, colega!}
-{111}{}{¡Oiga, señorita!}
-{112}{}{Me llamo Lumpy. ¿Podrías ayudarme un momentito?}
-{113}{}{Pupita. ¿Tú bien, Lumpy?}
-{114}{}{¡Oh, Dios mío! ¿Estás bien, Lumpy?}
+{100}{}{Ves a un necrÃ³fago. Ahora mismo yace bajo tu parachoques delantero.}
+{101}{}{Ves a Lumpy. Esperas que estÃ© bien.}
+{102}{}{Ves a un necrÃ³fago que parece bastante dolorido. QuizÃ¡ si tu habilidad al volante fuese mejor, podrÃ­as haber evitado esto.}
+{103}{}{Â¡Oooooh! Â¡Eso pincha!}
+{104}{}{Â¡Ouch! Â¡Mi sacroilÃ­aco!}
+{105}{}{Â¿Alguien ha visto mi vesÃ­cula biliar?}
+{106}{}{Â¡Mi columna! Â¡Mi columna!}
+{107}{}{Â¡Voy hacia ti, Elizabeth!}
+{108}{}{Un mÃ©dico...}
+{109}{}{Â¿Alguien puede ayudarme? No puedo leer el nÃºmero de la matrÃ­cula.}
+{110}{}{Â¡Oye, colega!}
+{111}{}{Â¡Oiga, seÃ±orita!}
+{112}{}{Me llamo Lumpy. Â¿PodrÃ­as ayudarme un momentito?}
+{113}{}{Pupita. Â¿TÃº bien, Lumpy?}
+{114}{}{Â¡Oh, Dios mÃ­o! Â¿EstÃ¡s bien, Lumpy?}
 {115}{}{Ups...}
-{116}{}{Oh, todo de color de rosa. Si no tengo varias fracturas compuestas y un adorno de capó alojado varios centímetros en mi culo, todo va genial.}
-{117}{}{Ohhh. ¿Necesitas ayuda?}
-{118}{}{Bien. Adiós.}
-{119}{}{De acuerdo, relájate. ¿Necesitas que te ayude?}
-{120}{}{Gracias a Dios. Pensaba que podrías estar en un grave aprieto. Bien, ya nos veremos.}
+{116}{}{Oh, todo de color de rosa. Si no tengo varias fracturas compuestas y un adorno de capÃ³ alojado varios centÃ­metros en mi culo, todo va genial.}
+{117}{}{Ohhh. Â¿Necesitas ayuda?}
+{118}{}{Bien. AdiÃ³s.}
+{119}{}{De acuerdo, relÃ¡jate. Â¿Necesitas que te ayude?}
+{120}{}{Gracias a Dios. Pensaba que podrÃ­as estar en un grave aprieto. Bien, ya nos veremos.}
 {121}{}{[Lumpy te mira a los ojos en silencio. Parpadea. Dos veces.]}
-{122}{}{Uhhh... pregunta tonta. ¿Sí?}
-{123}{}{Tomaré eso como un sí.}
-{124}{}{¡Por supuesto que sí, cojones! ¡Apenas me puedo mover! Y óyeme, no es por lloriquear. He tenido heridas peores.
- Porque esto no es nada comparado con un embrollo con un camión de Cola hace varios años allá por el sur. ¡Deberías
- haberlo visto, chico! ¡Chapas por todas partes!}
-{125}{}{Aaahhh. ¡Divertiiido!}
-{126}{}{¡Caramba! ¡Imagina a alguien topándose con eso en el desierto! ¡Se hubiera hecho rico!}
-{127}{}{Puedes apostar a que sí. ¡Arrgh! ¡Oww! Odio poner fin a esta apasionante conversación, pero si pudieras ayudarme a salir de
- debajo de este parachoques, te lo agradecería.}
-{128}{}{¿Seguro?}
-{129}{}{¿Estás seguro? Creo que no deberías moverte.}
-{130}{}{Ahh, no te preocupes. Con el tiempo todo volverá a su sitio.}
-{131}{}{Vale. ¡Prepara tú!}
-{132}{}{De acuerdo. ¡Prepárate!}
-{133}{}{¡Sí, ups! ¿Dónde diablos aprendiste a conducir?}
+{122}{}{Uhhh... pregunta tonta. Â¿SÃ­?}
+{123}{}{TomarÃ© eso como un sÃ­.}
+{124}{}{Â¡Por supuesto que sÃ­, cojones! Â¡Apenas me puedo mover! Y Ã³yeme, no es por lloriquear. He tenido heridas peores.
+ Porque esto no es nada comparado con un embrollo con un camiÃ³n de Cola hace varios aÃ±os allÃ¡ por el sur. Â¡DeberÃ­as
+ haberlo visto, chico! Â¡Chapas por todas partes!}
+{125}{}{Aaahhh. Â¡Divertiiido!}
+{126}{}{Â¡Caramba! Â¡Imagina a alguien topÃ¡ndose con eso en el desierto! Â¡Se hubiera hecho rico!}
+{127}{}{Puedes apostar a que sÃ­. Â¡Arrgh! Â¡Oww! Odio poner fin a esta apasionante conversaciÃ³n, pero si pudieras ayudarme a salir de
+ debajo de este parachoques, te lo agradecerÃ­a.}
+{128}{}{Â¿Seguro?}
+{129}{}{Â¿EstÃ¡s seguro? Creo que no deberÃ­as moverte.}
+{130}{}{Ahh, no te preocupes. Con el tiempo todo volverÃ¡ a su sitio.}
+{131}{}{Vale. Â¡Prepara tÃº!}
+{132}{}{De acuerdo. Â¡PrepÃ¡rate!}
+{133}{}{Â¡SÃ­, ups! Â¿DÃ³nde diablos aprendiste a conducir?}
 {134}{}{Aprendo solo.}
-{135}{}{Bien, en realidad aprendí por mi cuenta.}
-{136}{}{Se nota. Créeme.}
-{137}{}{Oh. ¿Tú bien?}
-{138}{}{Oh... bien, yo... hmmmm. ¿Estás... estás bien?}
-{139}{}{Lo dije. 'Necesitamos señales de tráfico', dije. ¿Pero me escucharon? Noooo... ¡no le hagamos caso al viejo Lumpy!}
-{200}{}{¡Oh, mierda!}
+{135}{}{Bien, en realidad aprendÃ­ por mi cuenta.}
+{136}{}{Se nota. CrÃ©eme.}
+{137}{}{Oh. Â¿TÃº bien?}
+{138}{}{Oh... bien, yo... hmmmm. Â¿EstÃ¡s... estÃ¡s bien?}
+{139}{}{Lo dije. 'Necesitamos seÃ±ales de trÃ¡fico', dije. Â¿Pero me escucharon? Noooo... Â¡no le hagamos caso al viejo Lumpy!}
+{200}{}{Â¡Oh, mierda!}
 {201}{}{Eh, oh. Golpear hombre apestoso.}

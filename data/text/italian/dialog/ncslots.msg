@@ -2,7 +2,7 @@
 {101}{}{Vedi una scintillante slot machine.}
 {150}{}{Vedi una slot machine. Giureresti di averla beccata, con la coda dell'occhio, mentre era intenta ad osservarti.}
 {151}{}{La sua struttura lucente e la sua leva dorata scintillano sensualmente sotto le luci di New Reno.}
-{152}{}{Vedi una scintillante slot machine. E' fatta apposta per i giocatori accaniti…la puntata minima e' di }
+{152}{}{Vedi una scintillante slot machine. E' fatta apposta per i giocatori accanitiâ€¦la puntata minima e' di }
 {153}{}{ dollari.}
 {154}{}{Vedi una scintillante slot machine.}
 {160}{}{*Vieni a giocare un po' con me, cowboy.*}
@@ -41,11 +41,11 @@
 {220}{}{Impugni il suo braccio e lo scuoti calorosamente. Appena la fai, si sente un *bzzzzzzz,* e la scatola parla! "Prego... inserire... monete."}
 {221}{}{Aighhhhh! Robot! Robot! Scappareeeeee}
 {222}{}{Te ne vai.}
-{225}{}{Osservi la slot machine e ti rendi conto, maledicendo la tua poverta', che non hai abbastanza denaro per giocare. Sara' per la prossima volta…}
+{225}{}{Osservi la slot machine e ti rendi conto, maledicendo la tua poverta', che non hai abbastanza denaro per giocare. Sara' per la prossima voltaâ€¦}
 {226}{}{Te ne vai.}
 {230}{}{Vedi una slot machine. La sua struttura lucente e la sua leva dorata scintillano sensualmente sotto le luci di New Reno. La sua fessura per le monete ti chiama a se', e senti il sangue fluire al volto per l'eccitazione.}
-{231}{}{(La tua mano trema mentre raggiunge le monete. La slot machine continua a sussurrarti.) *Vieni, zucchero…ecco…vieni adesso…non scherzare…*}
-{232}{}{(La tua mano trema mentre raggiunge le monete. La slot machine continua a sussurrarti.) *Vieni, dolcezza…ecco…impugna il manico…impugnalo saldamente…vieni adesso…*}
+{231}{}{(La tua mano trema mentre raggiunge le monete. La slot machine continua a sussurrarti.) *Vieni, zuccheroâ€¦eccoâ€¦vieni adessoâ€¦non scherzareâ€¦*}
+{232}{}{(La tua mano trema mentre raggiunge le monete. La slot machine continua a sussurrarti.) *Vieni, dolcezzaâ€¦eccoâ€¦impugna il manicoâ€¦impugnalo saldamenteâ€¦vieni adessoâ€¦*}
 {233}{}{Hai }
 {234}{}{ monete con te. Vuoi rischiare tutto?}
 {235}{}{Hai }
@@ -55,8 +55,8 @@
 {239}{}{ monete?}
 {240}{}{Smetti di giocare.}
 {241}{}{Smetti di giocare.}
-{245}{}{Gli slot girano, e…non esce nulla.}
-{246}{}{NULLA. NULLA! La senti ridere, e ti infuri…i buttafuori sono costretti a strappare con la forza il tuo corpo urlante dalla slot machine.}
+{245}{}{Gli slot girano, eâ€¦non esce nulla.}
+{246}{}{NULLA. NULLA! La senti ridere, e ti infuriâ€¦i buttafuori sono costretti a strappare con la forza il tuo corpo urlante dalla slot machine.}
 {247}{}{((La slot machine ridacchia.) *Ho avuto quello che volevo da questa relazione. Mi spiace, dolcezza. Sta' attento che le porte del casino non ti sbattano sul sedere, quando esci. Ah ah ah ah ah ah ah.*}
 {248}{}{Adesso hai }
 {249}{}{ monete. Cerchi di recuperare le perdite e continui a giocare?}
@@ -67,8 +67,8 @@
 {254}{}{Smetti di giocare.}
 {255}{}{Smetti di giocare.}
 {260}{}{Tre Pugnali. Vinci quello che avevi puntato.}
-{261}{}{(La slot machine continua a sussurrarti.) *Dai, zucchero…succede a tutti almeno una volta nella vita…provaci ancora…ti prego…*}
-{262}{}{(La slot machine continua a sussurrarti.) *Dai, dolcezza…provaci di nuovo…impugna il manico…impugnalo saldamente…vai, adesso…*}
+{261}{}{(La slot machine continua a sussurrarti.) *Dai, zuccheroâ€¦succede a tutti almeno una volta nella vitaâ€¦provaci ancoraâ€¦ti pregoâ€¦*}
+{262}{}{(La slot machine continua a sussurrarti.) *Dai, dolcezzaâ€¦provaci di nuovoâ€¦impugna il manicoâ€¦impugnalo saldamenteâ€¦vai, adessoâ€¦*}
 {263}{}{Hai ancora }
 {264}{}{ moneta. Continui a giocare?}
 {265}{}{Hai ancora }
@@ -76,8 +76,8 @@
 {267}{}{Smetti di giocare.}
 {268}{}{Smetti di giocare.}
 {275}{}{Tre Proiettili! Raddoppi i tuoi soldi!}
-{276}{}{(La slot machine emette un gemito di piacere.) *Cosi', zucchero…continua a tirare la leva…piu' veloce, piu' forte, piu' veloce…dai, adesso…*}
-{277}{}{(La slot machine emette un gemito di piacere.) *Cosi', dolcezza…continua a tirare il manico…piu' veloce, piu' forte, piu' veloce…dai, adesso…*}
+{276}{}{(La slot machine emette un gemito di piacere.) *Cosi', zuccheroâ€¦continua a tirare la levaâ€¦piu' veloce, piu' forte, piu' veloceâ€¦dai, adessoâ€¦*}
+{277}{}{(La slot machine emette un gemito di piacere.) *Cosi', dolcezzaâ€¦continua a tirare il manicoâ€¦piu' veloce, piu' forte, piu' veloceâ€¦dai, adessoâ€¦*}
 {278}{}{Adesso hai }
 {279}{}{ monete! Continui a giocare?}
 {280}{}{Smetti di giocare.}
@@ -121,7 +121,7 @@
 {350}{}{*Su, su... non pensarci piu'... lascia fare tutto a me. Dai, appoggia la tua testa su di me. Ecco. Sfogati pure.*}
 {351}{}{*Su, su... non pensarci piu', zucchero... lascia fare tutto a me. Dai, appoggia la tua splendida testa su di me. Ecco. Sfogati pure.*}
 {352}{}{Grascie, shlot mashiiin *sniff* sei la migliore}
-{353}{}{Tu shei la shooola persona *buona* che ho incontrato finora... tu-tutti gli altri sono cosi' cattivi e hanno tentato di farmi *male* e di prendere i miei shooldi e…*sniff*}
+{353}{}{Tu shei la shooola persona *buona* che ho incontrato finora... tu-tutti gli altri sono cosi' cattivi e hanno tentato di farmi *male* e di prendere i miei shooldi eâ€¦*sniff*}
 {354}{}{::Respiri profondamente, te ne vai.::}
 {360}{}{(Appoggi la tua testa stanca sulla macchina.)}
 {361}{}{*Sei sicura di stare bene, dolcezza? Non mi sento tranquillo a lasciarti andare via da sola vedendoti in questo stato.*}
@@ -135,8 +135,8 @@
 {375}{}{Ciaooooo}
 {380}{}{Vedi una slot machine per veri amanti del rischio - la puntata minima e' di }
 {381}{}{ monete. La sua struttura lucente e la sua leva dorata scintillano sensualmente sotto le luci di New Reno. La sua fessura per le monete ti chiama a se', e senti il sangue fluire al volto per l'eccitazione.}
-{382}{}{(La tua mano trema mentre raggiunge le monete. La slot machine continua a sussurrarti.) *Vieni, zucchero…ecco…vieni adesso…non scherzare…*}
-{383}{}{(La tua mano trema mentre raggiunge le monete. La slot machine continua a sussurrarti.) *Vieni, dolcezza…ecco…impugna il manico…impugnalo saldamente…vieni adesso…*}
+{382}{}{(La tua mano trema mentre raggiunge le monete. La slot machine continua a sussurrarti.) *Vieni, zuccheroâ€¦eccoâ€¦vieni adessoâ€¦non scherzareâ€¦*}
+{383}{}{(La tua mano trema mentre raggiunge le monete. La slot machine continua a sussurrarti.) *Vieni, dolcezzaâ€¦eccoâ€¦impugna il manicoâ€¦impugnalo saldamenteâ€¦vieni adessoâ€¦*}
 {384}{}{Hai }
 {385}{}{ monete rimaste. Vuoi rischiare tutto?}
 {386}{}{Hai }
@@ -146,8 +146,8 @@
 {390}{}{ monete?}
 {391}{}{Smetti di giocare.}
 {392}{}{Smetti di giocare.}
-{400}{}{Gli slot girano, e…non esce nulla.}
-{401}{}{NULLA. NULLA! La senti ridere, e ti infuri…i buttafuori sono costretti a strappare con la forza il tuo corpo urlante dalla slot machine.}
+{400}{}{Gli slot girano, eâ€¦non esce nulla.}
+{401}{}{NULLA. NULLA! La senti ridere, e ti infuriâ€¦i buttafuori sono costretti a strappare con la forza il tuo corpo urlante dalla slot machine.}
 {402}{}{((La slot machine ridacchia.) *Ho avuto quello che volevo da questa relazione. Mi spiace, dolcezza. Sta' attento che le porte del casino non ti sbattano sul sedere, quando esci. Ah ah ah ah ah ah ah.*}
 {403}{}{Adesso hai }
 {404}{}{ monete. Cerchi di recuperare le perdite e continui a giocare?}
@@ -157,16 +157,16 @@
 {408}{}{Non puoi piu' permetterti una giocata. Sei costretto a smettere.}
 {409}{}{Smetti di giocare.}
 {410}{}{Smetti di giocare.}
-{415}{}{Tre Bombe…vinci quello che avevi puntato.}
-{416}{}{(La slot machine continua a sussurrarti.) *Dai, zucchero…succede a tutti almeno una volta nella vita…provaci ancora…ti prego…*}
-{417}{}{(La slot machine continua a sussurrarti.) *Dai, dolcezza…provaci di nuovo…impugna il manico…impugnalo saldamente…vai, adesso…*}
+{415}{}{Tre Bombeâ€¦vinci quello che avevi puntato.}
+{416}{}{(La slot machine continua a sussurrarti.) *Dai, zuccheroâ€¦succede a tutti almeno una volta nella vitaâ€¦provaci ancoraâ€¦ti pregoâ€¦*}
+{417}{}{(La slot machine continua a sussurrarti.) *Dai, dolcezzaâ€¦provaci di nuovoâ€¦impugna il manicoâ€¦impugnalo saldamenteâ€¦vai, adessoâ€¦*}
 {418}{}{Hai ancora }
 {419}{}{ monete. Continui a giocare?}
 {420}{}{Smetti di giocare.}
 {421}{}{Smetti di giocare.}
 {425}{}{Tre Atomiche! Raddoppi i tuoi soldi!}
-{426}{}{(La slot machine emette un gemito di piacere.) *Cosi', zucchero…continua a tirare la leva…piu' veloce, piu' forte, piu' veloce…dai, adesso…*}
-{427}{}{(La slot machine emette un gemito di piacere.) *Cosi', dolcezza…continua a tirare il manico…piu' veloce, piu' forte, piu' veloce…dai, adesso…*}
+{426}{}{(La slot machine emette un gemito di piacere.) *Cosi', zuccheroâ€¦continua a tirare la levaâ€¦piu' veloce, piu' forte, piu' veloceâ€¦dai, adessoâ€¦*}
+{427}{}{(La slot machine emette un gemito di piacere.) *Cosi', dolcezzaâ€¦continua a tirare il manicoâ€¦piu' veloce, piu' forte, piu' veloceâ€¦dai, adessoâ€¦*}
 {428}{}{Adesso hai }
 {429}{}{ monete! Continui a giocare?}
 {430}{}{Smetti di giocare.}

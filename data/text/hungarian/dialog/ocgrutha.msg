@@ -1,48 +1,48 @@
-{100}{}{Ez egy jól megtermett halálkarom. A csupa izom lénynek éles fogai és karmai vannak.}
-{101}{}{? Gruthar, a halálkarmok vezére.}
-{102}{}{A lehet? legleny?göz?bb halálkaromhoz van szerencséd.}
-{103}{}{Ne félj t?lem, ember! Nem akarlak bántani. Gruthar vagyok, e halálkarom falka vezére. Miért jöttél ide?}
-{104}{}{Miért jöttél ide?}
-{105}{}{Öö...}
-{106}{}{Hogy szétrúgjam a segged! }
-{107}{}{Egy halálkarom hogy tud ilyen szépen beszélni?}
-{108}{}{Azt akarom tudni, mi történt az emberekkel, akik régen itt éltek.}
-{109}{}{Egy ÉLET nev? valamit keresek. Azt mondták, itt megtalálom.}
-{110}{}{Megkértek, hogy irtsak ki egy barlangnyi veszélyes halálkarmot...}
-{111}{}{A helyi brahmin farmok elleni rablótámadások után nyomozok. Tudsz valamit ez ügyben?}
+{100}{}{Ez egy jÃ³l megtermett halÃ¡lkarom. A csupa izom lÃ©nynek Ã©les fogai Ã©s karmai vannak.}
+{101}{}{? Gruthar, a halÃ¡lkarmok vezÃ©re.}
+{102}{}{A lehet? legleny?gÃ¶z?bb halÃ¡lkaromhoz van szerencsÃ©d.}
+{103}{}{Ne fÃ©lj t?lem, ember! Nem akarlak bÃ¡ntani. Gruthar vagyok, e halÃ¡lkarom falka vezÃ©re. MiÃ©rt jÃ¶ttÃ©l ide?}
+{104}{}{MiÃ©rt jÃ¶ttÃ©l ide?}
+{105}{}{Ã–Ã¶...}
+{106}{}{Hogy szÃ©trÃºgjam a segged! }
+{107}{}{Egy halÃ¡lkarom hogy tud ilyen szÃ©pen beszÃ©lni?}
+{108}{}{Azt akarom tudni, mi tÃ¶rtÃ©nt az emberekkel, akik rÃ©gen itt Ã©ltek.}
+{109}{}{Egy Ã‰LET nev? valamit keresek. Azt mondtÃ¡k, itt megtalÃ¡lom.}
+{110}{}{MegkÃ©rtek, hogy irtsak ki egy barlangnyi veszÃ©lyes halÃ¡lkarmot...}
+{111}{}{A helyi brahmin farmok elleni rablÃ³tÃ¡madÃ¡sok utÃ¡n nyomozok. Tudsz valamit ez Ã¼gyben?}
 {112}{}{Azt hiszem, megyek.}
-{113}{}{Ember, nem vagy te buta. Látom a szemedben az igazságot. Kérlek, ne próbálj megtéveszteni! Nincs türelmem ilyen játékokhoz.}
-{114}{}{Rendben. Ha hülyének akarod tettetni magad, hát legyen. Jöjj vissza, ha meggondoltad magad!}
-{115}{}{Elnézést. Úgy látszik, intellektuális kihívásokkal küzdesz. Nem vagy veszélyes se rám, se a falkára nézve. Légy üdvözölve nálunk, és tekintsd biztonságos mennyországnak e helyet a külvilággal szemben. Ne bánts senkit, tartsd távol magad a bajtól, úgy mindig tárt karokkal várunk.}
-{116}{}{Bocsáss meg nekem! Nem akartam durva lenni, de nem vettem észre, hogy ez a beszélgetésünk lényege. Beszélek a nyelveden, el tudom olvasni az irásodat. Mi többet kéne még elmondani?}
-{117}{}{Értem.}
-{118}{}{Nem akarok kíváncsiskodni, de bizonyára meg tudod érteni az érdekl?désemet ebben a témában.}
-{119}{}{Ja, persze, mi lenne, ha hagynád, hogy én döntsem el, mi helytálló és mi nem?}
-{120}{}{Igen, bizonyára. Rendben. Ha barátokként válunk el, ember, beszélhetnél Gorisszal. Neki több rálátása van a témára, mint nekem. Általában a Menedék könyvtárában találhatod meg ?t.}
-{121}{}{Köszönöm. Alig várom, hogy találkozzak Gorisszal.}
-{122}{}{Nem akarom a barátaim számát egy halálkarommal gyarapítani. Minden jót!}
+{113}{}{Ember, nem vagy te buta. LÃ¡tom a szemedben az igazsÃ¡got. KÃ©rlek, ne prÃ³bÃ¡lj megtÃ©veszteni! Nincs tÃ¼relmem ilyen jÃ¡tÃ©kokhoz.}
+{114}{}{Rendben. Ha hÃ¼lyÃ©nek akarod tettetni magad, hÃ¡t legyen. JÃ¶jj vissza, ha meggondoltad magad!}
+{115}{}{ElnÃ©zÃ©st. Ãšgy lÃ¡tszik, intellektuÃ¡lis kihÃ­vÃ¡sokkal kÃ¼zdesz. Nem vagy veszÃ©lyes se rÃ¡m, se a falkÃ¡ra nÃ©zve. LÃ©gy Ã¼dvÃ¶zÃ¶lve nÃ¡lunk, Ã©s tekintsd biztonsÃ¡gos mennyorszÃ¡gnak e helyet a kÃ¼lvilÃ¡ggal szemben. Ne bÃ¡nts senkit, tartsd tÃ¡vol magad a bajtÃ³l, Ãºgy mindig tÃ¡rt karokkal vÃ¡runk.}
+{116}{}{BocsÃ¡ss meg nekem! Nem akartam durva lenni, de nem vettem Ã©szre, hogy ez a beszÃ©lgetÃ©sÃ¼nk lÃ©nyege. BeszÃ©lek a nyelveden, el tudom olvasni az irÃ¡sodat. Mi tÃ¶bbet kÃ©ne mÃ©g elmondani?}
+{117}{}{Ã‰rtem.}
+{118}{}{Nem akarok kÃ­vÃ¡ncsiskodni, de bizonyÃ¡ra meg tudod Ã©rteni az Ã©rdekl?dÃ©semet ebben a tÃ©mÃ¡ban.}
+{119}{}{Ja, persze, mi lenne, ha hagynÃ¡d, hogy Ã©n dÃ¶ntsem el, mi helytÃ¡llÃ³ Ã©s mi nem?}
+{120}{}{Igen, bizonyÃ¡ra. Rendben. Ha barÃ¡tokkÃ©nt vÃ¡lunk el, ember, beszÃ©lhetnÃ©l Gorisszal. Neki tÃ¶bb rÃ¡lÃ¡tÃ¡sa van a tÃ©mÃ¡ra, mint nekem. ÃltalÃ¡ban a MenedÃ©k kÃ¶nyvtÃ¡rÃ¡ban talÃ¡lhatod meg ?t.}
+{121}{}{KÃ¶szÃ¶nÃ¶m. Alig vÃ¡rom, hogy talÃ¡lkozzak Gorisszal.}
+{122}{}{Nem akarom a barÃ¡taim szÃ¡mÃ¡t egy halÃ¡lkarommal gyarapÃ­tani. Minden jÃ³t!}
 {123}{}{Rendben.}
-{124}{}{Elmentek, ember. Nem öltük meg ?ket és nem vettük el az otthonukat. Az nem a mi stílusunk. Megértem, hogy nem hiszel nekem, de remélem, hogy a cselekedeteim után ítélsz meg, és nem félelem vagy elfogultság alapján.}
-{125}{}{Hé, talán rájöttél, hogy szét tudom rúgni a segged?}
-{126}{}{Gruthar, te tiszteletreméltó vagy.}
+{124}{}{Elmentek, ember. Nem Ã¶ltÃ¼k meg ?ket Ã©s nem vettÃ¼k el az otthonukat. Az nem a mi stÃ­lusunk. MegÃ©rtem, hogy nem hiszel nekem, de remÃ©lem, hogy a cselekedeteim utÃ¡n Ã­tÃ©lsz meg, Ã©s nem fÃ©lelem vagy elfogultsÃ¡g alapjÃ¡n.}
+{125}{}{HÃ©, talÃ¡n rÃ¡jÃ¶ttÃ©l, hogy szÃ©t tudom rÃºgni a segged?}
+{126}{}{Gruthar, te tiszteletremÃ©ltÃ³ vagy.}
 {127}{}{Persze.}
-{128}{}{Élet... Szokták a búzára is mondani... várj... nyilván nem arra gondoltál. Bocs, de nem tudom, milyen tárgy az az ÉLET, g?zöm sincs, hol találhatsz olyat.}
-{129}{}{Igen, azt hiszem, már említetted. Nem tudom, mi az az ÉLET, és hol lehet találni olyat.}
-{130}{}{Beengedsz, hogy itt is utána nézzek?}
-{131}{}{Hé, az a búzás megjegyzés nem volt rossz. Gyakran szoktál hülyeségeket mondani?}
-{132}{}{Nyilvánvaló, hogy a veled folytatott beszélgetés id?pocsékolás. Viszlát!}
-{133}{}{Hogy ?szinte legyek, magam sem vagyok teljesen biztos abban, mi is az pontosan. Megengeded, hogy körülnézzek?}
-{134}{}{Sajnálom, de nem engedem, hogy bárki csak úgy kószáljon a termekben. Én felelek az itt él?k biztonságáért és muszáj óvatosnak lennem. Akárhogy is, majd utánanézek az ÉLET-nek, és ha tálálok olyat, megmondom.}
-{135}{}{Sajnálom, de nem engedem, hogy bárki csak úgy kószáljon a termekben. Én felelek az itt él?k biztonságáért és muszáj óvatosnak lennem.}
-{136}{}{Nézd, ez a hely nem a tied. Meglehet, hogy szétnézek, ha tetszik, ha nem!}
-{137}{}{Megértelek, Gruthar, és figyelembe veszem a bizalmas légkör utáni vágyad.}
-{138}{}{Megértem az aggodalmadat. Nem ismersz eléggé, hogy bízz bennem. Mi lenne, ha valahogy segítenék neked, és cserébe beengednél szétnézni?}
-{139}{}{(Gruthar fürkész? tekintettel néz rád egy pillanatig.) Akarsz nekünk segíteni? Igen, nem sok gonoszságot érzek benned. Legyen, ahogy akarod, megbízom benned.}
+{128}{}{Ã‰let... SzoktÃ¡k a bÃºzÃ¡ra is mondani... vÃ¡rj... nyilvÃ¡n nem arra gondoltÃ¡l. Bocs, de nem tudom, milyen tÃ¡rgy az az Ã‰LET, g?zÃ¶m sincs, hol talÃ¡lhatsz olyat.}
+{129}{}{Igen, azt hiszem, mÃ¡r emlÃ­tetted. Nem tudom, mi az az Ã‰LET, Ã©s hol lehet talÃ¡lni olyat.}
+{130}{}{Beengedsz, hogy itt is utÃ¡na nÃ©zzek?}
+{131}{}{HÃ©, az a bÃºzÃ¡s megjegyzÃ©s nem volt rossz. Gyakran szoktÃ¡l hÃ¼lyesÃ©geket mondani?}
+{132}{}{NyilvÃ¡nvalÃ³, hogy a veled folytatott beszÃ©lgetÃ©s id?pocsÃ©kolÃ¡s. ViszlÃ¡t!}
+{133}{}{Hogy ?szinte legyek, magam sem vagyok teljesen biztos abban, mi is az pontosan. Megengeded, hogy kÃ¶rÃ¼lnÃ©zzek?}
+{134}{}{SajnÃ¡lom, de nem engedem, hogy bÃ¡rki csak Ãºgy kÃ³szÃ¡ljon a termekben. Ã‰n felelek az itt Ã©l?k biztonsÃ¡gÃ¡Ã©rt Ã©s muszÃ¡j Ã³vatosnak lennem. AkÃ¡rhogy is, majd utÃ¡nanÃ©zek az Ã‰LET-nek, Ã©s ha tÃ¡lÃ¡lok olyat, megmondom.}
+{135}{}{SajnÃ¡lom, de nem engedem, hogy bÃ¡rki csak Ãºgy kÃ³szÃ¡ljon a termekben. Ã‰n felelek az itt Ã©l?k biztonsÃ¡gÃ¡Ã©rt Ã©s muszÃ¡j Ã³vatosnak lennem.}
+{136}{}{NÃ©zd, ez a hely nem a tied. Meglehet, hogy szÃ©tnÃ©zek, ha tetszik, ha nem!}
+{137}{}{MegÃ©rtelek, Gruthar, Ã©s figyelembe veszem a bizalmas lÃ©gkÃ¶r utÃ¡ni vÃ¡gyad.}
+{138}{}{MegÃ©rtem az aggodalmadat. Nem ismersz elÃ©ggÃ©, hogy bÃ­zz bennem. Mi lenne, ha valahogy segÃ­tenÃ©k neked, Ã©s cserÃ©be beengednÃ©l szÃ©tnÃ©zni?}
+{139}{}{(Gruthar fÃ¼rkÃ©sz? tekintettel nÃ©z rÃ¡d egy pillanatig.) Akarsz nekÃ¼nk segÃ­teni? Igen, nem sok gonoszsÃ¡got Ã©rzek benned. Legyen, ahogy akarod, megbÃ­zom benned.}
 {140}{}{(Gruthar stares at you intently for a moment.) I think not. I can sense the evil in you, human.
  I cannot risk the lives of those I protect by taking a chance with you.}
-{141}{}{Köszönöm!}
-{142}{}{Jól van. Egy golyó általi lebenymetszés gyakorlati érték? megoldásnak t?nik a problémámra.}
-{143}{}{Sajnálom, hogy így érzel, Gruthar.}
+{141}{}{KÃ¶szÃ¶nÃ¶m!}
+{142}{}{JÃ³l van. Egy golyÃ³ Ã¡ltali lebenymetszÃ©s gyakorlati Ã©rtÃ©k? megoldÃ¡snak t?nik a problÃ©mÃ¡mra.}
+{143}{}{SajnÃ¡lom, hogy Ã­gy Ã©rzel, Gruthar.}
 {144}{}{Akkor megyek.}
 {145}{}{There are many machines here, machines built by humans. Deathclaw hands cannot use these
  machines. However, there is one machine that understands questions. I ask it to run the other machines
@@ -50,101 +50,101 @@
  out of food and water. I have ordered raids on the human lands so that we may survive. I am not proud
  of this and I would put an end to it. If you repair this machine, I will be able to feed my people once
  again. I will gladly stop the raids. Will you agree to this?}
-{146}{}{Sajnálom, nincs ötletem, hogyan javítsam meg ezt.}
-{147}{}{Nem vagyok technikus, de megpróbálhatom.}
-{148}{}{Hmm... úgy látszik, elromlott a hangfelismer? modul rajta. Nézzük meg!}
-{149}{}{Meggondoltam magam. Többet kell még róla gondolkodnom.}
+{146}{}{SajnÃ¡lom, nincs Ã¶tletem, hogyan javÃ­tsam meg ezt.}
+{147}{}{Nem vagyok technikus, de megprÃ³bÃ¡lhatom.}
+{148}{}{Hmm... Ãºgy lÃ¡tszik, elromlott a hangfelismer? modul rajta. NÃ©zzÃ¼k meg!}
+{149}{}{Meggondoltam magam. TÃ¶bbet kell mÃ©g rÃ³la gondolkodnom.}
 {150}{}{Megteszek neked mindent, amit tudok.}
-{151}{}{Eszemben nincs halálkarmoknak segíteni.}
-{152}{}{Kösz. A gép a menedék vezérl?termében van, a 3. szinten. Ha meg tudod javítani, kérlek csináld meg! Bízom benned. Kérlek, ne hagyj cserben! Szívesen látott vendég vagy nálunk.}
+{151}{}{Eszemben nincs halÃ¡lkarmoknak segÃ­teni.}
+{152}{}{KÃ¶sz. A gÃ©p a menedÃ©k vezÃ©rl?termÃ©ben van, a 3. szinten. Ha meg tudod javÃ­tani, kÃ©rlek csinÃ¡ld meg! BÃ­zom benned. KÃ©rlek, ne hagyj cserben! SzÃ­vesen lÃ¡tott vendÃ©g vagy nÃ¡lunk.}
 {153}{}{Nem hagylak cserben, Gruthar. Erre szavamat adom.}
-{154}{}{Kösz. Rajta leszek.}
-{155}{}{Megpróbálok feln?ni a feladathoz...}
-{156}{}{Értem... A halálkarmok természetüknél fogva veszélyesek, és vigyázni kell, ha az ember a vadonban találkozik velük. Akárhogy is, biztos vagyok benne, hogy észrevetted, mennyire eltér?ek vagyunk. A falkám nem jelent veszélyt rád vagy más emberi közösségre. Mi a rokonaink fölé fejl?dtünk, és csak azt akarjuk, hogy békén hagyjanak minket.}
-{157}{}{Öhm... ja.}
-{158}{}{A te fejlett intelligenciád nagyobb fenyegetést jelent, mint egy közönséges halálkarom, Gruthar.}
-{159}{}{Észrevettem, hogy ti nem azok a vérszomjas gyilkosok vagytok, aminek a halálkarmokat ismerik.}
-{160}{}{Hasonló kérdéseken elmélkedve már sok álmatlan éjszakát töltöttem el mélyen a gondolataimba merülve. Végül arra jutottam, hogy az intelligencia ajándékával járó terhek és felel?sségek felmérhetetlenek. A gondolkodó létforma számára csak két választás marad. Az egyik, hogy elfogadja az életet a saját valójában, és a legjobbat hozza ki bel?le magának és másoknak, vagy kipusztul. Én az élet kihívásait választottam. Ha ezzel veszélyt jelentek az emberi fajnak, akkor nagyon tudom sajnálni a kis aggyal megáldott embereket, akik így gondolják...}
-{161}{}{Hát igen... nekem kicsi az agyam, de van egy NAGY puskám.}
-{162}{}{Ennél jobban nem is érthetnék veled egyet. Én nem gondolom, hogy veszélyes vagy, Gruthar.}
-{163}{}{Öö... ja. Amit mondtál.}
+{154}{}{KÃ¶sz. Rajta leszek.}
+{155}{}{MegprÃ³bÃ¡lok feln?ni a feladathoz...}
+{156}{}{Ã‰rtem... A halÃ¡lkarmok termÃ©szetÃ¼knÃ©l fogva veszÃ©lyesek, Ã©s vigyÃ¡zni kell, ha az ember a vadonban talÃ¡lkozik velÃ¼k. AkÃ¡rhogy is, biztos vagyok benne, hogy Ã©szrevetted, mennyire eltÃ©r?ek vagyunk. A falkÃ¡m nem jelent veszÃ©lyt rÃ¡d vagy mÃ¡s emberi kÃ¶zÃ¶ssÃ©gre. Mi a rokonaink fÃ¶lÃ© fejl?dtÃ¼nk, Ã©s csak azt akarjuk, hogy bÃ©kÃ©n hagyjanak minket.}
+{157}{}{Ã–hm... ja.}
+{158}{}{A te fejlett intelligenciÃ¡d nagyobb fenyegetÃ©st jelent, mint egy kÃ¶zÃ¶nsÃ©ges halÃ¡lkarom, Gruthar.}
+{159}{}{Ã‰szrevettem, hogy ti nem azok a vÃ©rszomjas gyilkosok vagytok, aminek a halÃ¡lkarmokat ismerik.}
+{160}{}{HasonlÃ³ kÃ©rdÃ©seken elmÃ©lkedve mÃ¡r sok Ã¡lmatlan Ã©jszakÃ¡t tÃ¶ltÃ¶ttem el mÃ©lyen a gondolataimba merÃ¼lve. VÃ©gÃ¼l arra jutottam, hogy az intelligencia ajÃ¡ndÃ©kÃ¡val jÃ¡rÃ³ terhek Ã©s felel?ssÃ©gek felmÃ©rhetetlenek. A gondolkodÃ³ lÃ©tforma szÃ¡mÃ¡ra csak kÃ©t vÃ¡lasztÃ¡s marad. Az egyik, hogy elfogadja az Ã©letet a sajÃ¡t valÃ³jÃ¡ban, Ã©s a legjobbat hozza ki bel?le magÃ¡nak Ã©s mÃ¡soknak, vagy kipusztul. Ã‰n az Ã©let kihÃ­vÃ¡sait vÃ¡lasztottam. Ha ezzel veszÃ©lyt jelentek az emberi fajnak, akkor nagyon tudom sajnÃ¡lni a kis aggyal megÃ¡ldott embereket, akik Ã­gy gondoljÃ¡k...}
+{161}{}{HÃ¡t igen... nekem kicsi az agyam, de van egy NAGY puskÃ¡m.}
+{162}{}{EnnÃ©l jobban nem is Ã©rthetnÃ©k veled egyet. Ã‰n nem gondolom, hogy veszÃ©lyes vagy, Gruthar.}
+{163}{}{Ã–Ã¶... ja. Amit mondtÃ¡l.}
 {164}{}{(Gruthar pauses and seems to be carefully considering his response to you) I am sorry to say
  that I ordered the raids on the human lands. I am responsible for the lives of many here. We are
  running out of food, water, and other supplies. Until I can get the situation corrected, I need to take
  what I, a deathclaw, cannot ask humans for.}
-{165}{}{Igen, most már tudom a rajtaütések okát. Én meg csak megszüntetem!}
-{166}{}{Sajnálom, hogy ezt kell hallanom. Van valami mód, hogy segítsek és leállíthasd a rajtaütéseket?}
-{167}{}{Eleget hallottam. Id?re van szükségem, hogy gondolkodjak.}
-{168}{}{Értem...}
-{169}{}{Nem vagyok megelégedve a döntéseddel, de elfogadom. Elmehetsz, de kérlek, térj vissza ha meggondoltad magad!}
-{170}{}{Megbeszéltük.}
-{171}{}{Helló}
+{165}{}{Igen, most mÃ¡r tudom a rajtaÃ¼tÃ©sek okÃ¡t. Ã‰n meg csak megszÃ¼ntetem!}
+{166}{}{SajnÃ¡lom, hogy ezt kell hallanom. Van valami mÃ³d, hogy segÃ­tsek Ã©s leÃ¡llÃ­thasd a rajtaÃ¼tÃ©seket?}
+{167}{}{Eleget hallottam. Id?re van szÃ¼ksÃ©gem, hogy gondolkodjak.}
+{168}{}{Ã‰rtem...}
+{169}{}{Nem vagyok megelÃ©gedve a dÃ¶ntÃ©seddel, de elfogadom. Elmehetsz, de kÃ©rlek, tÃ©rj vissza ha meggondoltad magad!}
+{170}{}{MegbeszÃ©ltÃ¼k.}
+{171}{}{HellÃ³}
 {172}{}{Nem. Mindenesetre, rajta vagyok.}
-{173}{}{Sajnálom, Gruthar. A hangmodul elromlott. Szerezni kell egy újat.}
-{174}{}{Nem ismerem az ilyesmi m?ködését, de hiszek neked.}
-{175}{}{Megbeszéltük.}
-{176}{}{Visszatérek, szavamra.}
-{177}{}{Helló}
-{178}{}{Nem, még keresek.}
-{179}{}{Igen, és itt is van!}
+{173}{}{SajnÃ¡lom, Gruthar. A hangmodul elromlott. Szerezni kell egy Ãºjat.}
+{174}{}{Nem ismerem az ilyesmi m?kÃ¶dÃ©sÃ©t, de hiszek neked.}
+{175}{}{MegbeszÃ©ltÃ¼k.}
+{176}{}{VisszatÃ©rek, szavamra.}
+{177}{}{HellÃ³}
+{178}{}{Nem, mÃ©g keresek.}
+{179}{}{Igen, Ã©s itt is van!}
 {180}{}{}
-{181}{}{Helyreállítottad az emberekbe vetett bizalmamat. Mindent köszönök, amit a falkáért tettél. Van valami, amit cserébe tehetnék érted?}
+{181}{}{HelyreÃ¡llÃ­tottad az emberekbe vetett bizalmamat. Mindent kÃ¶szÃ¶nÃ¶k, amit a falkÃ¡Ã©rt tettÃ©l. Van valami, amit cserÃ©be tehetnÃ©k Ã©rted?}
 {182}{}{You said you would let me know if you found a GECK here. Did you locate one?}
 {183}{}{Yes, I am looking for a GECK. I have been told that I could find it here. Do you know where it is?}
-{184}{}{Kösz, nem. Mindenem megvan, ami kell.}
+{184}{}{KÃ¶sz, nem. Mindenem megvan, ami kell.}
 {185}{}{Ah, let me see. [He leaves, then returns a moment later, awkwardly clutching some kind of metallic case in his large claws.] Yes, there was a geck in the vault storage room. It is yours with many thanks.}
 {186}{}{Yes, there was a geck in the vault storage room. However, it is missing. I am sorry
  that I cannot give it to you as a reward for all your generous help.}
-{187}{}{Köszönöm!}
-{188}{}{Öö.. rendben. Keresek valahol egy másikat.}
-{189}{}{Helló, ember. Remélem, nem akarod a bolondját járatni velem.}
-{190}{}{Bocsánatot akarok kérni és újrakezdeni, Gruthar.}
+{187}{}{KÃ¶szÃ¶nÃ¶m!}
+{188}{}{Ã–Ã¶.. rendben. Keresek valahol egy mÃ¡sikat.}
+{189}{}{HellÃ³, ember. RemÃ©lem, nem akarod a bolondjÃ¡t jÃ¡ratni velem.}
+{190}{}{BocsÃ¡natot akarok kÃ©rni Ã©s Ãºjrakezdeni, Gruthar.}
 {191}{}{Bocs, de mennem kell.}
-{192}{}{Öö, bocsi.}
-{193}{}{Üdvözöllek, ember. Meggondoltad magad?}
-{194}{}{A fenébe, dehogy. Csak a hallgatni akartam egy kicsi, hogy alázod a nyelvet.}
-{195}{}{Nem, nem hinném}
-{196}{}{Igen, Gruthar. Segítek neked.}
-{197}{}{Üdvözöllek, barátom. Megvizsgáltad már a gépet?}
-{198}{}{Még nem, de rajta vagyok.}
-{199}{}{Helló, barátom. Megmentetted a falkát, nagyon hálásak vagyunk.}
+{192}{}{Ã–Ã¶, bocsi.}
+{193}{}{ÃœdvÃ¶zÃ¶llek, ember. Meggondoltad magad?}
+{194}{}{A fenÃ©be, dehogy. Csak a hallgatni akartam egy kicsi, hogy alÃ¡zod a nyelvet.}
+{195}{}{Nem, nem hinnÃ©m}
+{196}{}{Igen, Gruthar. SegÃ­tek neked.}
+{197}{}{ÃœdvÃ¶zÃ¶llek, barÃ¡tom. MegvizsgÃ¡ltad mÃ¡r a gÃ©pet?}
+{198}{}{MÃ©g nem, de rajta vagyok.}
+{199}{}{HellÃ³, barÃ¡tom. Megmentetted a falkÃ¡t, nagyon hÃ¡lÃ¡sak vagyunk.}
 {200}{}{}
 {201}{}{}
-{202}{}{Pusztulj, kígyólelk? ember!}
+{202}{}{Pusztulj, kÃ­gyÃ³lelk? ember!}
 {203}{}{}
 {204}{}{}
-{205}{}{Nincs nekem bajom veled, ember, és nem is akarom, hogy legyen. Tárgyaljunk civilizáltan! Kérlek, viszonozd a jóindulatomat!}
-{206}{}{Rendben, beszélj!}
-{207}{}{Halálkarom vagy és ez halálos ítélet a számodra... bizonyám...}
-{208}{}{Bocsánat, Gruthar. Beszélgessünk!}
+{205}{}{Nincs nekem bajom veled, ember, Ã©s nem is akarom, hogy legyen. TÃ¡rgyaljunk civilizÃ¡ltan! KÃ©rlek, viszonozd a jÃ³indulatomat!}
+{206}{}{Rendben, beszÃ©lj!}
+{207}{}{HalÃ¡lkarom vagy Ã©s ez halÃ¡los Ã­tÃ©let a szÃ¡modra... bizonyÃ¡m...}
+{208}{}{BocsÃ¡nat, Gruthar. BeszÃ©lgessÃ¼nk!}
 {209}{}{Whatever. I'm gone.}
-{210}{}{Nem. Én vagyok itt a vezet?, tehát én döntök. Ha nem tetszik, mehetsz vissza az emberek közé.}
-{211}{}{Az anyád kenyerit, azt!}
-{212}{}{Oké, most már megyek.}
-{213}{}{Persze, Gruthar. Egy pillanatra elfeledkeztem magamról.}
-{214}{}{Biztosítalak, hogy nem akartam viccelni, illetve játszani veled. Bocsáss meg, ha ezt a benyomást keltettem volna. Segítek neked, ha tudok.}
-{215}{}{Rendben, kösz.}
-{216}{}{Elnézést kérek, nem akartalak megbántani.}
+{210}{}{Nem. Ã‰n vagyok itt a vezet?, tehÃ¡t Ã©n dÃ¶ntÃ¶k. Ha nem tetszik, mehetsz vissza az emberek kÃ¶zÃ©.}
+{211}{}{Az anyÃ¡d kenyerit, azt!}
+{212}{}{OkÃ©, most mÃ¡r megyek.}
+{213}{}{Persze, Gruthar. Egy pillanatra elfeledkeztem magamrÃ³l.}
+{214}{}{BiztosÃ­talak, hogy nem akartam viccelni, illetve jÃ¡tszani veled. BocsÃ¡ss meg, ha ezt a benyomÃ¡st keltettem volna. SegÃ­tek neked, ha tudok.}
+{215}{}{Rendben, kÃ¶sz.}
+{216}{}{ElnÃ©zÃ©st kÃ©rek, nem akartalak megbÃ¡ntani.}
 {217}{}{Give up the civilized act, bud. It doesn't work on me.}
-{218}{}{(Gruthar egy sor mély morgást hallat.) Igaz, nem az én tulajdonom ez a hely, ember, de ez az otthonom és mások otthona is, akik rám bízták a védelmüket. Ne feszítsd odáig a húrt, hogy valami visszavonhatatlant tegyünk!}
-{219}{}{Bocsánat! Udvariatlan voltam és túlléptem a szükséges határt.}
-{220}{}{Baszódj meg te is, meg a fajtád is!}
-{221}{}{Héé! Én elt?ntem innen.}
-{222}{}{Kösz. Kérlek, menj a vezérl?be, és cseréld ki a modult!}
-{223}{}{Vedd úgy, hogy már kész is van!}
+{218}{}{(Gruthar egy sor mÃ©ly morgÃ¡st hallat.) Igaz, nem az Ã©n tulajdonom ez a hely, ember, de ez az otthonom Ã©s mÃ¡sok otthona is, akik rÃ¡m bÃ­ztÃ¡k a vÃ©delmÃ¼ket. Ne feszÃ­tsd odÃ¡ig a hÃºrt, hogy valami visszavonhatatlant tegyÃ¼nk!}
+{219}{}{BocsÃ¡nat! Udvariatlan voltam Ã©s tÃºllÃ©ptem a szÃ¼ksÃ©ges hatÃ¡rt.}
+{220}{}{BaszÃ³dj meg te is, meg a fajtÃ¡d is!}
+{221}{}{HÃ©Ã©! Ã‰n elt?ntem innen.}
+{222}{}{KÃ¶sz. KÃ©rlek, menj a vezÃ©rl?be, Ã©s cserÃ©ld ki a modult!}
+{223}{}{Vedd Ãºgy, hogy mÃ¡r kÃ©sz is van!}
 {224}{}{}
-{225}{}{Mostantól nem látunk szívesen. Menj el!}
-{226}{}{Viszlát!}
-{227}{}{Viszlát!}
-{228}{}{Megbeszéltük.}
-{229}{}{Elfogadom a bocsánatkérésed, ember. Legyen jó napod!}
-{230}{}{Megbeszéltük.}
-{231}{}{! Megnézted a gépet?}
-{232}{}{. Várni fogom a visszatérésed.}
-{233}{}{! Megtaláltad a gép javításához szükséges alkatrészt?}
-{234}{}{Ööö, oké.}
-{235}{}{Remélem, élvezed az ittléted.}
-{236}{}{Sajnálom, hogy idáig jutottunk. Megengedtem neki, hogy addig maradjon, amíg nem jelent veszélyt a falkára. ? választotta az útját. Remélem, megérted.}
+{225}{}{MostantÃ³l nem lÃ¡tunk szÃ­vesen. Menj el!}
+{226}{}{ViszlÃ¡t!}
+{227}{}{ViszlÃ¡t!}
+{228}{}{MegbeszÃ©ltÃ¼k.}
+{229}{}{Elfogadom a bocsÃ¡natkÃ©rÃ©sed, ember. Legyen jÃ³ napod!}
+{230}{}{MegbeszÃ©ltÃ¼k.}
+{231}{}{! MegnÃ©zted a gÃ©pet?}
+{232}{}{. VÃ¡rni fogom a visszatÃ©rÃ©sed.}
+{233}{}{! MegtalÃ¡ltad a gÃ©p javÃ­tÃ¡sÃ¡hoz szÃ¼ksÃ©ges alkatrÃ©szt?}
+{234}{}{Ã–Ã¶Ã¶, okÃ©.}
+{235}{}{RemÃ©lem, Ã©lvezed az ittlÃ©ted.}
+{236}{}{SajnÃ¡lom, hogy idÃ¡ig jutottunk. Megengedtem neki, hogy addig maradjon, amÃ­g nem jelent veszÃ©lyt a falkÃ¡ra. ? vÃ¡lasztotta az ÃºtjÃ¡t. RemÃ©lem, megÃ©rted.}
 {237}{}{Rossz vagy!}
-{238}{}{Megértem, Gruthar.}
-{239}{}{Igen. Matt nem jó.}
+{238}{}{MegÃ©rtem, Gruthar.}
+{239}{}{Igen. Matt nem jÃ³.}

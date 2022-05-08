@@ -1,5 +1,5 @@
-{100}{}{Me siento extraño. Pero entonces... ¿era su jardinero o el mejor amigo del primo segundo de su cuñado? Me duele la cabeza.}
-{101}{}{Ella era hermosa... pero él no la merecía.}
+{100}{}{Me siento extraÃ±o. Pero entonces... Â¿era su jardinero o el mejor amigo del primo segundo de su cuÃ±ado? Me duele la cabeza.}
+{101}{}{Ella era hermosa... pero Ã©l no la merecÃ­a.}
 {102}{}{<sniff, sniff>}
-{103}{}{¿Por qué sigo leyendo esta basura?}
-{200}{}{Te sientes a gusto tras terminar el libro, pero no has aprendido nada útil de él.}
+{103}{}{Â¿Por quÃ© sigo leyendo esta basura?}
+{200}{}{Te sientes a gusto tras terminar el libro, pero no has aprendido nada Ãºtil de Ã©l.}

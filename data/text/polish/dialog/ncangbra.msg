@@ -1,6 +1,6 @@
-{100}{}{Widzisz braminê w z³ym humorze.}
-{150}{}{Widzisz ogromn¹ braminê w z³ym humorze. Ma opuchniêty ¿o³¹dek i oczy nabieg³e krwi¹.}
-{151}{}{Widzisz ogromn¹ braminê w z³ym humorze. Ma opuchniêty ¿o³¹dek i oczy nabieg³e krwi¹. Wygl¹da na bardzo chorego. Mo¿e da³oby siê mu jakoœ pomóc.}
+{100}{}{Widzisz braminÄ™ w zÅ‚ym humorze.}
+{150}{}{Widzisz ogromnÄ… braminÄ™ w zÅ‚ym humorze. Ma opuchniÄ™ty Å¼oÅ‚Ä…dek i oczy nabiegÅ‚e krwiÄ….}
+{151}{}{Widzisz ogromnÄ… braminÄ™ w zÅ‚ym humorze. Ma opuchniÄ™ty Å¼oÅ‚Ä…dek i oczy nabiegÅ‚e krwiÄ…. WyglÄ…da na bardzo chorego. MoÅ¼e daÅ‚oby siÄ™ mu jakoÅ› pomÃ³c.}
 {198}{}{::Rnnnrrrrr?::}
 {199}{}{::Hrrnnnnr?::}
 {200}{}{Muu}
@@ -10,5 +10,5 @@
 {204}{}{::Rnnnrrrrr!!!::}
 {205}{}{::Gnnnnnrrrr!!!::}
 {206}{}{::Hrrnnnnr!!!::}
-{225}{}{Wyci¹gasz przedmiot, który tkwi³ we wnêtrznoœciach braminy.}
-{235}{}{We wnêtrznoœciach braminy tkwi jakiœ przedmiot, ale nie udaje ci siê go dosiêgn¹æ.}
+{225}{}{WyciÄ…gasz przedmiot, ktÃ³ry tkwiÅ‚ we wnÄ™trznoÅ›ciach braminy.}
+{235}{}{We wnÄ™trznoÅ›ciach braminy tkwi jakiÅ› przedmiot, ale nie udaje ci siÄ™ go dosiÄ™gnÄ…Ä‡.}

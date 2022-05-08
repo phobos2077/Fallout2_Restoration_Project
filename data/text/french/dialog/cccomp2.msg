@@ -1,40 +1,40 @@
 {100}{}{Tu vois un technicien.}
 {101}{}{Tu vois un technicien de l'Enclave.}
-{102}{}{Tu vois quelqu'un en blouse de labo. Il a l'air confiant et sûr de lui.}
+{102}{}{Tu vois quelqu'un en blouse de labo. Il a l'air confiant et sÃ»r de lui.}
 {103}{}{Oui, soldat ?}
-{104}{}{Quoi être ici ?}
+{104}{}{Quoi Ãªtre ici ?}
 {105}{}{Moi disais juste bonjour. Moi partir maintenant.}
-{106}{}{Où suis-je ici ?}
+{106}{}{OÃ¹ suis-je ici ?}
 {107}{}{Salut. A plus.}
-{108}{}{Ici c'est le centre informatique. Par là, c'est le noyau, le terminal est juste à côté, et ces périphériques sont les unités de stockage des données sur holobandes. C'est le plus récent et le plus puissant des centres.}
+{108}{}{Ici c'est le centre informatique. Par lÃ , c'est le noyau, le terminal est juste Ã  cÃ´tÃ©, et ces pÃ©riphÃ©riques sont les unitÃ©s de stockage des donnÃ©es sur holobandes. C'est le plus rÃ©cent et le plus puissant des centres.}
 {109}{}{Oh. Heu, quoi toi faire ?}
 {110}{}{Alors, que fais-tu ici ?}
-{111}{}{Je suis le plus ancien analyste informatique. Je dois conserver tout l'équipement ici.}
+{111}{}{Je suis le plus ancien analyste informatique. Je dois conserver tout l'Ã©quipement ici.}
 {112}{}{Oh. Moi utiliser ordinateur ?}
 {113}{}{Moi pas comprendre. Moi partir.}
-{114}{}{Puis-je utiliser le système pour une minute ? Juste pour jeter un coup d'oeil.}
+{114}{}{Puis-je utiliser le systÃ¨me pour une minute ? Juste pour jeter un coup d'oeil.}
 {115}{}{A une prochaine...}
-{116}{}{Hum... Je ne suis pas censé permettre au personnel non formé d'utiliser le matériel. C'est plutôt complexe et délicat, tu comprends.}
-{117}{}{S'il vous plaît ? Moi rien casser.}
+{116}{}{Hum... Je ne suis pas censÃ© permettre au personnel non formÃ© d'utiliser le matÃ©riel. C'est plutÃ´t complexe et dÃ©licat, tu comprends.}
+{117}{}{S'il vous plaÃ®t ? Moi rien casser.}
 {118}{}{Je promets de ne rien casser.}
-{119}{}{Bon, d'accord. Tu peux accéder au système à partir du terminal là-bas. Mais fais attention. On se ferait tous les deux incendier si tu endommageais cette machine. Oh, le mot de passe c'est "Snookie".}
-{120}{}{Je suis désolé, mais c'est hors de question. Je ne suis même pas censé laisser le personnel autorisé utiliser seul l'équipement.}
+{119}{}{Bon, d'accord. Tu peux accÃ©der au systÃ¨me Ã  partir du terminal lÃ -bas. Mais fais attention. On se ferait tous les deux incendier si tu endommageais cette machine. Oh, le mot de passe c'est "Snookie".}
+{120}{}{Je suis dÃ©solÃ©, mais c'est hors de question. Je ne suis mÃªme pas censÃ© laisser le personnel autorisÃ© utiliser seul l'Ã©quipement.}
 {121}{}{Snookie ? C'est quoi, snookie ?}
 {122}{}{Ok. Moi comprendre.}
-{123}{}{Snookie ? Qu'est-ce que ça peut bien être ?}
-{124}{}{Très bien. Je comprends.}
-{125}{}{'Snookie' c'est le surnom de ma copine. Je trouve ça mignon. C'est elle dans le hall là-bas. C'est un des gardes..}
-{126}{}{Ok, très bien. Merci.}
+{123}{}{Snookie ? Qu'est-ce que Ã§a peut bien Ãªtre ?}
+{124}{}{TrÃ¨s bien. Je comprends.}
+{125}{}{'Snookie' c'est le surnom de ma copine. Je trouve Ã§a mignon. C'est elle dans le hall lÃ -bas. C'est un des gardes..}
+{126}{}{Ok, trÃ¨s bien. Merci.}
 {127}{}{Ouais... c'est mignon. Merci.}
 {128}{}{Tu ne portes pas ton uniforme.}
-{129}{}{Tu ferais mieux d'aller mettre ton uniforme. L'armurerie est sous le hall à gauche.}
-{130}{}{Tu prends des gros risques en te promenant sans uniforme. Tu ferais mieux d'aller à la réserve.}
+{129}{}{Tu ferais mieux d'aller mettre ton uniforme. L'armurerie est sous le hall Ã  gauche.}
+{130}{}{Tu prends des gros risques en te promenant sans uniforme. Tu ferais mieux d'aller Ã  la rÃ©serve.}
 {131}{}{Mais bon sang, qui es-tu ?! -- Alerte ! Des intrus !!!}
-{132}{}{La base a été infiltrée ! Alerte !!}
+{132}{}{La base a Ã©tÃ© infiltrÃ©e ! Alerte !!}
 {133}{}{Un groupe d'intrus ! Sonnez l'alarme !!}
 {134}{}{Merde ! Lancez les sauvegardes !}
-{135}{}{Arrêtez toutes les opérations secrètes.}
-{136}{}{Verrouillez le système et activez tous les mots de passe.}
+{135}{}{ArrÃªtez toutes les opÃ©rations secrÃ¨tes.}
+{136}{}{Verrouillez le systÃ¨me et activez tous les mots de passe.}
 {137}{}{Je suis un chercheur, pas un combattant !}
-{138}{}{Le point rouge de la diode du laser se pose sur l'ennemi. Tu presses la détente.}
+{138}{}{Le point rouge de la diode du laser se pose sur l'ennemi. Tu presses la dÃ©tente.}
 {139}{}{A l'aide ! Au centre informatique !}

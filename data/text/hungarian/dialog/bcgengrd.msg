@@ -1,46 +1,46 @@
-{100}{}{Egy Khan rablót látsz.}
-{101}{}{Egy Khan rablót látsz.}
-{102}{}{Egy keménykötés? fickót látsz páncélban, fegyverekkel és rossz modorral. Csakis egy Khan tag lehet.}
+{100}{}{Egy Khan rablÃ³t lÃ¡tsz.}
+{101}{}{Egy Khan rablÃ³t lÃ¡tsz.}
+{102}{}{Egy kemÃ©nykÃ¶tÃ©s? fickÃ³t lÃ¡tsz pÃ¡ncÃ©lban, fegyverekkel Ã©s rossz modorral. Csakis egy Khan tag lehet.}
 {103}{}{Mi a... Azt hiszem, nem ismerlek. Ki a fasz vagy te?}
-{104}{}{Itt van az azonosítóm. Hadd mutassam meg.}
-{105}{}{A nevem... hmm... Pat, és új vagyok itt.}
+{104}{}{Itt van az azonosÃ­tÃ³m. Hadd mutassam meg.}
+{105}{}{A nevem... hmm... Pat, Ã©s Ãºj vagyok itt.}
 {106}{}{Rendben, seggfej. Most megmutathatod, hogy tudsz l?ni!}
-{107}{}{Ja, igen. Rendben. Nem ismertelek fel el?ször. Menj csak, tedd a dolgod!}
-{108}{}{Hé, nem vagyok olyan hülye!}
-{109}{}{Még nem vagy halott? A picsába.}
-{110}{}{Ember, Darion nem azért fizet, hogy csak itt álljak, és ne csináljak semmit.}
-{111}{}{Néha például leülök, és abszolúte semmire se gondolok.}
-{112}{}{Általában nem érdekel, hogy mások mit gondolnak.}
-{113}{}{A tudatlanság boldogság... azt hiszem.}
-{114}{}{Mikor halad át a következ? karaván? Örülnék egy kis akciónak.}
-{115}{}{Örülnék egy kis pihen?nek.}
-{116}{}{A francba, még mindig fáj a tököm. Chrissy, te hülye picsa.}
-{117}{}{Francba, mindig kimaradunk a jó kis akciókból.}
-{118}{}{Mikor fogunk végre elmenni err?l a tet? helyr?l?}
-{119}{}{Nem ismerlek, de azt hiszem, ez szopás.}
-{120}{}{Senki sincs a környéken, akit ki lehetne nyúvasztani?}
-{121}{}{Merre van az az istenverte fürd?szoba?}
-{122}{}{Bassza meg, nekünk soha nem jár egy kis pihen?? Jó lenne valamiféle szakszervezet, vagy mi a fasz.}
-{123}{}{Talán kormányt kellene alapítanunk, mint a régi id?kben.}
-{124}{}{Ember, kiváncsi lennék, milyen lehetett akkoriban Elnöknek lenni.}
-{125}{}{Fogadok, bármit megtehettél, ha te voltál az Elnök.}
-{126}{}{Azt hiszem, az apám büszke lenne rám. Kár, hogy már megöltem.}
-{127}{}{GY?LÖLÖM A PATKÁNYOKAT! UTÁLOM, UTÁLOM, UTÁLOM!}
-{128}{}{Hé, az a páncél új rajtad? Mi a besorolásod, hogy ilyet kaptál?}
-{129}{}{Ez a nyamvadt Menedék rohadtul büdös. Nem utálod?}
-{130}{}{Hé, ki miatt is kellene nyitva tartanunk a szemünket?}
-{131}{}{Én csak állok, állok, állok.}
-{132}{}{Azt hiszem, csak simán ki kellene nyírnunk mindenkit odafent és itthagyni ezt a patkányfészket.}
-{133}{}{Mi a franc bajod van a patkányokkal?}
-{134}{}{Tépted már ki egy patkány lábait?}
+{107}{}{Ja, igen. Rendben. Nem ismertelek fel el?szÃ¶r. Menj csak, tedd a dolgod!}
+{108}{}{HÃ©, nem vagyok olyan hÃ¼lye!}
+{109}{}{MÃ©g nem vagy halott? A picsÃ¡ba.}
+{110}{}{Ember, Darion nem azÃ©rt fizet, hogy csak itt Ã¡lljak, Ã©s ne csinÃ¡ljak semmit.}
+{111}{}{NÃ©ha pÃ©ldÃ¡ul leÃ¼lÃ¶k, Ã©s abszolÃºte semmire se gondolok.}
+{112}{}{ÃltalÃ¡ban nem Ã©rdekel, hogy mÃ¡sok mit gondolnak.}
+{113}{}{A tudatlansÃ¡g boldogsÃ¡g... azt hiszem.}
+{114}{}{Mikor halad Ã¡t a kÃ¶vetkez? karavÃ¡n? Ã–rÃ¼lnÃ©k egy kis akciÃ³nak.}
+{115}{}{Ã–rÃ¼lnÃ©k egy kis pihen?nek.}
+{116}{}{A francba, mÃ©g mindig fÃ¡j a tÃ¶kÃ¶m. Chrissy, te hÃ¼lye picsa.}
+{117}{}{Francba, mindig kimaradunk a jÃ³ kis akciÃ³kbÃ³l.}
+{118}{}{Mikor fogunk vÃ©gre elmenni err?l a tet? helyr?l?}
+{119}{}{Nem ismerlek, de azt hiszem, ez szopÃ¡s.}
+{120}{}{Senki sincs a kÃ¶rnyÃ©ken, akit ki lehetne nyÃºvasztani?}
+{121}{}{Merre van az az istenverte fÃ¼rd?szoba?}
+{122}{}{Bassza meg, nekÃ¼nk soha nem jÃ¡r egy kis pihen?? JÃ³ lenne valamifÃ©le szakszervezet, vagy mi a fasz.}
+{123}{}{TalÃ¡n kormÃ¡nyt kellene alapÃ­tanunk, mint a rÃ©gi id?kben.}
+{124}{}{Ember, kivÃ¡ncsi lennÃ©k, milyen lehetett akkoriban ElnÃ¶knek lenni.}
+{125}{}{Fogadok, bÃ¡rmit megtehettÃ©l, ha te voltÃ¡l az ElnÃ¶k.}
+{126}{}{Azt hiszem, az apÃ¡m bÃ¼szke lenne rÃ¡m. KÃ¡r, hogy mÃ¡r megÃ¶ltem.}
+{127}{}{GY?LÃ–LÃ–M A PATKÃNYOKAT! UTÃLOM, UTÃLOM, UTÃLOM!}
+{128}{}{HÃ©, az a pÃ¡ncÃ©l Ãºj rajtad? Mi a besorolÃ¡sod, hogy ilyet kaptÃ¡l?}
+{129}{}{Ez a nyamvadt MenedÃ©k rohadtul bÃ¼dÃ¶s. Nem utÃ¡lod?}
+{130}{}{HÃ©, ki miatt is kellene nyitva tartanunk a szemÃ¼nket?}
+{131}{}{Ã‰n csak Ã¡llok, Ã¡llok, Ã¡llok.}
+{132}{}{Azt hiszem, csak simÃ¡n ki kellene nyÃ­rnunk mindenkit odafent Ã©s itthagyni ezt a patkÃ¡nyfÃ©szket.}
+{133}{}{Mi a franc bajod van a patkÃ¡nyokkal?}
+{134}{}{TÃ©pted mÃ¡r ki egy patkÃ¡ny lÃ¡bait?}
 {135}{}{Szeretem a fegyvereket, igen! SZERETEM A FEGYVEREKET! NAGYON, NAGYON SZERETEM A FEGYVEREKET!}
-{136}{}{Hé, hall engem valaki?}
-{137}{}{Ó, igen, csak azért dumálok, hogy épesz? maradjak valahogy.}
-{138}{}{Hé, emlékszik még valaki, mi volt a Long Island Jeges Teában?}
-{139}{}{Aha, vodka, rum, tequila, triple sec, lime, és Nuka.}
-{140}{}{Hé, nézd -- felgyulladtak a lámpák. Mi a ...}
-{141}{}{Darion mondta, hogy megjavítja azt a francos világítást. Azt hiszem, sikerült neki.}
-{142}{}{Nem hinném, hogy a generátor megjavítja magát.}
-{143}{}{Elég furcsa volt, most legalább látok. Jézus, ez a hely nagyon szarul néz ki!}
-{144}{}{Azta, nagyon világos lett itt! Hol van a fényer? szabályzó?}
-{145}{}{Halál rád!}
+{136}{}{HÃ©, hall engem valaki?}
+{137}{}{Ã“, igen, csak azÃ©rt dumÃ¡lok, hogy Ã©pesz? maradjak valahogy.}
+{138}{}{HÃ©, emlÃ©kszik mÃ©g valaki, mi volt a Long Island Jeges TeÃ¡ban?}
+{139}{}{Aha, vodka, rum, tequila, triple sec, lime, Ã©s Nuka.}
+{140}{}{HÃ©, nÃ©zd -- felgyulladtak a lÃ¡mpÃ¡k. Mi a ...}
+{141}{}{Darion mondta, hogy megjavÃ­tja azt a francos vilÃ¡gÃ­tÃ¡st. Azt hiszem, sikerÃ¼lt neki.}
+{142}{}{Nem hinnÃ©m, hogy a generÃ¡tor megjavÃ­tja magÃ¡t.}
+{143}{}{ElÃ©g furcsa volt, most legalÃ¡bb lÃ¡tok. JÃ©zus, ez a hely nagyon szarul nÃ©z ki!}
+{144}{}{Azta, nagyon vilÃ¡gos lett itt! Hol van a fÃ©nyer? szabÃ¡lyzÃ³?}
+{145}{}{HalÃ¡l rÃ¡d!}

@@ -177,9 +177,9 @@
 {1630}{}{That's good to hear. Excuse me a moment. [He walks over to Dex, gives him a high five, then returns to you.] I'm glad to see you and my man Dex have stuck together. You know I spent a lot of time writing that dude's dialogue.}
 {1631}{}{How do you know Dex? And you "wrote his dialogue"? What are you talking about?}
 {1640}{}{Look, don't worry about it. But if you ever decide to embark on another epic quest, make sure to stop by the EPA. There's a shitload of things to do there and if you play your cards right, you might find yourself a new companion. [He looks you over and grins.] Yeah, you're just Dex's type, so you'll be friends for sure.}
-{1641}{}{Kösz, mennem kell.}
+{1641}{}{KÃ¶sz, mennem kell.}
 {1650}{}{Look, don't worry about it. But if you ever decide to embark on another epic quest, make sure to stop by the EPA. There's a shitload of things to do there and if you play your cards right, you might find yourself a new companion. [He looks you over.] You'll probably have to change your attitude if you want to make friends with Dex. He likes his companions to be a bit more ... morally impaired.}
-{1651}{}{Kösz, mennem kell.}
+{1651}{}{KÃ¶sz, mennem kell.}
 {1660}{}{[He nods and looks off into the distance.] You know, Dex wasn't my only contribution. I also helped the Bear Dude in sprucing this world up by serving as adviser, tester, and guardian of canon and original intent. But mostly, I was tasked with bringing all the new wasteland speech up to par. It's been a hell of a long road, but if you ask me, this thing turned out pretty fuckin' sweet. [He looks back at you and grins.]}
 {1661}{}{Whatever. I'm tired of listening to this. Bye.}
 {1662}{}{That's quite noble of you. You've done a remarkable job. Take care of yourself. Bye.}
@@ -225,7 +225,7 @@
 {2041}{}{Alright. Take care.}
 {2050}{}{[The robot's head lowers in sadness.] Well, my work isn't for everyone I suppose. Now, if you'll excuse me,
  I must be going. I've got more goodies to unleash upon this world.}
-{2051}{}{Ahogy gondolja. Viszlát!}
+{2051}{}{Ahogy gondolja. ViszlÃ¡t!}
 {2060}{}{I so enjoy creating new things.}
 {2061}{}{So many new details now. So beautiful.}
 {2100}{}{You see Mash.}
@@ -248,8 +248,8 @@
 {2131}{}{I'll keep that in mind. Thanks.}
 {2132}{}{Right. Goodbye.}
 {2140}{}{Most excellent. Well, you take care.}
-{2141}{}{Viszlát!}
-{2142}{}{Még találkozunk.}
+{2141}{}{ViszlÃ¡t!}
+{2142}{}{MÃ©g talÃ¡lkozunk.}
 {2150}{}{The Source is tricky, but I can handle it.}
 {2151}{}{Enjoy the expanded visibility of this world!}
 {2152}{}{Enjoy the new you!}

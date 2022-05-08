@@ -1,17 +1,17 @@
 {100}{}{Figyelmeztetni kell Lynette-et!}
-{101}{}{Figyelmeztetni kell Menedékvárost!}
-{102}{}{Kívülálló söpredék...}
+{101}{}{Figyelmeztetni kell MenedÃ©kvÃ¡rost!}
+{102}{}{KÃ­vÃ¼lÃ¡llÃ³ sÃ¶predÃ©k...}
 {103}{}{Elfajzott mocsok...}
-{104}{}{Ideje, hogy még több kívülálló szemetet gyomláljunk ki... Pusztuljatok, kívülállók!}
-{105}{}{Mit csinálsz Menedékváros környékén?}
-{106}{}{Mi dolgod van Menedékváros közelében?}
-{107}{}{Ez a rész Menedékváros fennhatósága alá tartozik!}
-{108}{}{Vigyázz magadra!}
-{109}{}{Menedékváros nem *mindenki* menedékhelye. Úgyhogy menj csak tovább!}
-{110}{}{A te fajtád Rejtekbe való!}
-{111}{}{Azt javaslom, most azonnal indulj is el odafelé!}
-{112}{}{Helló, polgártárs!}
-{113}{}{Tehetek valamit érted, polgártárs?}
-{114}{}{Szükséged van kíséretre Menedékvárosig?}
-{115}{}{Mit csinálsz ilyen távol Menedékvárostól, polgártárs?}
-{116}{}{Aggódtunk, hogy esetleg megsérültél, polgártárs.}
+{104}{}{Ideje, hogy mÃ©g tÃ¶bb kÃ­vÃ¼lÃ¡llÃ³ szemetet gyomlÃ¡ljunk ki... Pusztuljatok, kÃ­vÃ¼lÃ¡llÃ³k!}
+{105}{}{Mit csinÃ¡lsz MenedÃ©kvÃ¡ros kÃ¶rnyÃ©kÃ©n?}
+{106}{}{Mi dolgod van MenedÃ©kvÃ¡ros kÃ¶zelÃ©ben?}
+{107}{}{Ez a rÃ©sz MenedÃ©kvÃ¡ros fennhatÃ³sÃ¡ga alÃ¡ tartozik!}
+{108}{}{VigyÃ¡zz magadra!}
+{109}{}{MenedÃ©kvÃ¡ros nem *mindenki* menedÃ©khelye. Ãšgyhogy menj csak tovÃ¡bb!}
+{110}{}{A te fajtÃ¡d Rejtekbe valÃ³!}
+{111}{}{Azt javaslom, most azonnal indulj is el odafelÃ©!}
+{112}{}{HellÃ³, polgÃ¡rtÃ¡rs!}
+{113}{}{Tehetek valamit Ã©rted, polgÃ¡rtÃ¡rs?}
+{114}{}{SzÃ¼ksÃ©ged van kÃ­sÃ©retre MenedÃ©kvÃ¡rosig?}
+{115}{}{Mit csinÃ¡lsz ilyen tÃ¡vol MenedÃ©kvÃ¡rostÃ³l, polgÃ¡rtÃ¡rs?}
+{116}{}{AggÃ³dtunk, hogy esetleg megsÃ©rÃ¼ltÃ©l, polgÃ¡rtÃ¡rs.}

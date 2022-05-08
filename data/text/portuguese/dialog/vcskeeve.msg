@@ -34,7 +34,7 @@
 {133}{}{Probably not enough to interest you. I'll be back when I have some more.}
 {134}{}{Never mind. Maybe we'll talk later.}
 {135}{}{Well, there's a few things you can do. One is become a Citizen. They never search Citizens. Of course, your chances of becoming a Citizen are next to nothing.}
-{136}{}{Por quê?}
+{136}{}{Por quÃª?}
 {137}{}{What else could I do?}
 {138}{}{Nevermind. Maybe we'll talk some other time.}
 {139}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}
@@ -54,7 +54,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {151}{}{Any other options?}
 {152}{}{All right, then. Thanks.}
 {153}{}{Well, you CAN become a Citizen... unofficially.}
-{154}{}{Do que você está falando?}
+{154}{}{Do que vocÃª estÃ¡ falando?}
 {155}{}{Never mind. Maybe we'll talk some other time.}
 {156}{}{If you got the cash, then I'll go into detail. Otherwise...}
 {157}{}{I've got the money. What are you selling?}
@@ -95,7 +95,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {185}{}{No problem. You have my silence.}
 {186}{}{Two hundred or nothing, Outsider. It's the only way you're going to get inside the gate.}
 {187}{}{I think I'll try official channels.}
-{188}{}{Não, obrigado.}
+{188}{}{NÃ£o, obrigado.}
 {189}{}{Ha! Good luck, Outsider. The only way you'll get a Day Pass outta ol' man Wallace is if you pry
  it from his stingy, dead fingers.}
 {190}{}{I'll try him anyway.}
@@ -104,12 +104,12 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {193}{}{You again. What do you want?}
 {194}{}{Vant? Vant!}
 {195}{}{Desliga}
-{196}{}{O que é este lugar?}
+{196}{}{O que Ã© este lugar?}
 {197}{}{I'd like to get inside the city.}
 {198}{}{I'd like to buy those fake Citizenship papers you were offering before.}
 {199}{}{I've decided to turn you in for selling fake Citizenship papers.}
 {200}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
-{201}{}{Não importa.}
+{201}{}{NÃ£o importa.}
 {202}{}{Look, dim, get out of here, or I'll call the guards.}
 {203}{}{Look, dim, get out of h -- Mmmm. Wait a minute. Maybe...}
 {204}{}{Hurnh?}
@@ -152,13 +152,13 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {238}{}{We'll see about that.}
 {239}{}{I'll take the Citizenship papers, then.}
 {240}{}{Well, $200's too steep for me. I might be back if I get some more money.}
-{241}{}{Não, valeu. Talvez outra hora.}
+{241}{}{NÃ£o, valeu. Talvez outra hora.}
 {242}{}{What does it take to become a real Citizen?}
 {243}{}{Hmmmm. How much for the Citizenship papers again?}
 {244}{}{If I have to pry it from his dead fingers, I will.}
 {245}{}{How do you become a real Citizen?}
 {246}{}{Nada, esquece.}
-{247}{}{Não, valeu. Talvez outra hora.}
+{247}{}{NÃ£o, valeu. Talvez outra hora.}
 {248}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of
  Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}
 {249}{}{What is this test?}

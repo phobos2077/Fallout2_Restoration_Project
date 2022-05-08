@@ -1,8 +1,8 @@
-{100}{}{Egy számítógép-terminált látsz.}
-{101}{}{Darion számítógép-terminálját látod.}
-{102}{}{Egy szabványos számítógép-terminált látsz. Úgy t?nik, m?köd?képes, és adatokat vár.}
-{103}{}{Belépsz a számítógépbe, és gyorsan átnézed a fájlokat. Néhány személyes naplóbejegyzés mellett több részletes jelentést is találsz az ÚKK-ról. Úgy t?nik, egy kém van a tanácsukban. Kimásolod a jelentéseket egy hololemezre.}
-{104}{}{Nehézségeid vannak a fájlok elérésével.}
-{105}{}{Megbeszéltük.}
-{106}{}{A számítógép nem tartalmaz más hasznos információt az ÚKK-ban lapuló kémen kívül.}
-{107}{}{Megbeszéltük.}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz.}
+{101}{}{Darion szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡ljÃ¡t lÃ¡tod.}
+{102}{}{Egy szabvÃ¡nyos szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz. Ãšgy t?nik, m?kÃ¶d?kÃ©pes, Ã©s adatokat vÃ¡r.}
+{103}{}{BelÃ©psz a szÃ¡mÃ­tÃ³gÃ©pbe, Ã©s gyorsan Ã¡tnÃ©zed a fÃ¡jlokat. NÃ©hÃ¡ny szemÃ©lyes naplÃ³bejegyzÃ©s mellett tÃ¶bb rÃ©szletes jelentÃ©st is talÃ¡lsz az ÃšKK-rÃ³l. Ãšgy t?nik, egy kÃ©m van a tanÃ¡csukban. KimÃ¡solod a jelentÃ©seket egy hololemezre.}
+{104}{}{NehÃ©zsÃ©geid vannak a fÃ¡jlok elÃ©rÃ©sÃ©vel.}
+{105}{}{MegbeszÃ©ltÃ¼k.}
+{106}{}{A szÃ¡mÃ­tÃ³gÃ©p nem tartalmaz mÃ¡s hasznos informÃ¡ciÃ³t az ÃšKK-ban lapulÃ³ kÃ©men kÃ­vÃ¼l.}
+{107}{}{MegbeszÃ©ltÃ¼k.}

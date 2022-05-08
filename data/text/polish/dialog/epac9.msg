@@ -1,62 +1,62 @@
-{100}{}{Widzisz du¿y komputer.}
-{101}{}{Widzisz Pana Ma³ego Chemika!.}
-{102}{}{Du¿y komputer do robienia leków.}
-{200}{}{Witaj u¿ytkowniku! Jestem Pan Ma³y Chemik! W czym mogê pomóc, tobie?!}
+{100}{}{Widzisz duÅ¼y komputer.}
+{101}{}{Widzisz Pana MaÅ‚ego Chemika!.}
+{102}{}{DuÅ¼y komputer do robienia lekÃ³w.}
+{200}{}{Witaj uÅ¼ytkowniku! Jestem Pan MaÅ‚y Chemik! W czym mogÄ™ pomÃ³c, tobie?!}
 {201}{}{Co tutaj robisz?}
-{210}{}{Robiê leki! Wszelkie rodzaje i odmiany! Kiedy ¿ycie ciê dobija, Pan Ma³y Chemik Ci pomo¿e! Jak Pan Ma³y Chemik dzia³a?! To proste! Wszystko czego potrzebujesz to odrobina wiedzy naukowej i sk³adników, resztê zostaw mi! No dalej! Spróbuj! Dzieci, pamiêtajcie ¿eby zapytaæ mamê lub tatê o pozwolenie zanim zaczniecie siê bawiæ z Panem Ma³ym Chemikiem!}
-{211}{}{W porz¹dku, spróbujê.}
-{212}{}{Mo¿e póŸniej.}
-{220}{}{Wspaniale! Zróbmy jakieœ leki! Co chcemy zrobiæ?!}
+{210}{}{RobiÄ™ leki! Wszelkie rodzaje i odmiany! Kiedy Å¼ycie ciÄ™ dobija, Pan MaÅ‚y Chemik Ci pomoÅ¼e! Jak Pan MaÅ‚y Chemik dziaÅ‚a?! To proste! Wszystko czego potrzebujesz to odrobina wiedzy naukowej i skÅ‚adnikÃ³w, resztÄ™ zostaw mi! No dalej! SprÃ³buj! Dzieci, pamiÄ™tajcie Å¼eby zapytaÄ‡ mamÄ™ lub tatÄ™ o pozwolenie zanim zaczniecie siÄ™ bawiÄ‡ z Panem MaÅ‚ym Chemikiem!}
+{211}{}{W porzÄ…dku, sprÃ³bujÄ™.}
+{212}{}{MoÅ¼e pÃ³Åºniej.}
+{220}{}{Wspaniale! ZrÃ³bmy jakieÅ› leki! Co chcemy zrobiÄ‡?!}
 {221}{}{Stimpaki.}
 {222}{}{Super Stimpaki.}
-{223}{}{Truciznê.}
-{224}{}{Odtrutkê.}
-{225}{}{Apteczkê pierwszej pomocy.}
-{226}{}{Torbê lekarsk¹.}
+{223}{}{TruciznÄ™.}
+{224}{}{OdtrutkÄ™.}
+{225}{}{ApteczkÄ™ pierwszej pomocy.}
+{226}{}{TorbÄ™ lekarskÄ….}
 {227}{}{Wygrzew.}
 {228}{}{Mentaty.}
 {229}{}{Psycho.}
-{230}{}{Œwietny wybór! ¯eby zrobiæ stimpaki nakarm mnie: jednym kwiatem brocka, jednym korzeniem ksnadrowym i jedn¹ pust¹ strzykawk¹! Mniam-mniam!}
-{231}{}{Zrób stimpaki.}
-{232}{}{Nie mam przy sobie tych sk³adników.}
-{233}{}{Wróæ do menu.}
-{240}{}{Œwietny wybór! ¯eby zrobiæ super stimpaki,  nakarm mnie proszê: jednym zwyk³ym stimpakiem, jednym owocem i Nuka Col¹! Mniam-mniam!}
-{241}{}{Zrób Super stimpack.}
-{250}{}{Œwietny wybór! ¯eby zrobiæ Psycho, nakarm mnie proszê: jednym pude³kiem Mentatów, jednym Wygrzewem, jednym owocem i stimpakiem! Mniam-mniam!}
-{251}{}{Zrób Psycho}
-{260}{}{Œwietny wybór! ¯eby zrobiæ Mentaty, nakarm mnie proszê : jedn¹ apteczk¹ pierwszej pomocy, jednym owocem i butelk¹ alkoholu! Mniam-mniam!}
-{262}{}{Zrób trochê Mentatów.}
-{263}{}{WyjdŸ.}
-{270}{}{Œwietny wybór! ¯eby zrobiæ torbê lekarsk¹, nakarm mnie proszê: jednym stimpakiem, jednym zestawem pierwszej pomocy, jedn¹ pust¹ strzykawk¹ oraz odtrutk¹! Mniam-mniam!}
-{272}{}{Zrób torbê lekarsk¹.}
-{280}{}{Œwietny wybór! ¯eby zrobiæ apteczkê pierwszej pomocy, nakarm mnie proszê: jednym stimpakiem, jedn¹ pust¹ strzykawk¹, jedn¹ odtrutk¹ i jednym AntyRadem! Mniam-mniam!}
-{282}{}{Zrób apteczkê pierwszej pomocy.}
-{290}{}{Œwietny wybór! ¯eby zrobiæ truciznê, nakarm mnie proszê: jedn¹ pust¹ strzykawk¹, jednym ogonem radskorpiona i jedn¹ Nuka Col¹! Mniam-mniam!}
-{292}{}{Zrób trochê trucizny.}
-{300}{}{Œwietny wybór! ¯eby zrobiæ Wygrzew, nakarm mnie proszê: jedn¹ apteczk¹ pierwszej pomocy, jednym piwem i jedn¹ Nuka Col¹! Mniam-mniam!}
-{302}{}{Zrób Wygrzew.}
-{310}{}{Œwietny wybór! ¯eby zrobiæ Rad-X, nakarm mnie proszê: jedn¹ apteczk¹ pierwszej pomocy i jedn¹ Nuka Col¹! Mniam-mniam!}
-{312}{}{Zrób Rad-X.}
-{320}{}{Œwietny wybór! ¯eby zrobiæ AntyRad, nakarm mnie proszê: jedn¹ Nuka Col¹, jedn¹ pust¹ strzykawk¹ i stimpakiem! Mniam-mniam!}
+{230}{}{Åšwietny wybÃ³r! Å»eby zrobiÄ‡ stimpaki nakarm mnie: jednym kwiatem brocka, jednym korzeniem ksnadrowym i jednÄ… pustÄ… strzykawkÄ…! Mniam-mniam!}
+{231}{}{ZrÃ³b stimpaki.}
+{232}{}{Nie mam przy sobie tych skÅ‚adnikÃ³w.}
+{233}{}{WrÃ³Ä‡ do menu.}
+{240}{}{Åšwietny wybÃ³r! Å»eby zrobiÄ‡ super stimpaki,  nakarm mnie proszÄ™: jednym zwykÅ‚ym stimpakiem, jednym owocem i Nuka ColÄ…! Mniam-mniam!}
+{241}{}{ZrÃ³b Super stimpack.}
+{250}{}{Åšwietny wybÃ³r! Å»eby zrobiÄ‡ Psycho, nakarm mnie proszÄ™: jednym pudeÅ‚kiem MentatÃ³w, jednym Wygrzewem, jednym owocem i stimpakiem! Mniam-mniam!}
+{251}{}{ZrÃ³b Psycho}
+{260}{}{Åšwietny wybÃ³r! Å»eby zrobiÄ‡ Mentaty, nakarm mnie proszÄ™ : jednÄ… apteczkÄ… pierwszej pomocy, jednym owocem i butelkÄ… alkoholu! Mniam-mniam!}
+{262}{}{ZrÃ³b trochÄ™ MentatÃ³w.}
+{263}{}{WyjdÅº.}
+{270}{}{Åšwietny wybÃ³r! Å»eby zrobiÄ‡ torbÄ™ lekarskÄ…, nakarm mnie proszÄ™: jednym stimpakiem, jednym zestawem pierwszej pomocy, jednÄ… pustÄ… strzykawkÄ… oraz odtrutkÄ…! Mniam-mniam!}
+{272}{}{ZrÃ³b torbÄ™ lekarskÄ….}
+{280}{}{Åšwietny wybÃ³r! Å»eby zrobiÄ‡ apteczkÄ™ pierwszej pomocy, nakarm mnie proszÄ™: jednym stimpakiem, jednÄ… pustÄ… strzykawkÄ…, jednÄ… odtrutkÄ… i jednym AntyRadem! Mniam-mniam!}
+{282}{}{ZrÃ³b apteczkÄ™ pierwszej pomocy.}
+{290}{}{Åšwietny wybÃ³r! Å»eby zrobiÄ‡ truciznÄ™, nakarm mnie proszÄ™: jednÄ… pustÄ… strzykawkÄ…, jednym ogonem radskorpiona i jednÄ… Nuka ColÄ…! Mniam-mniam!}
+{292}{}{ZrÃ³b trochÄ™ trucizny.}
+{300}{}{Åšwietny wybÃ³r! Å»eby zrobiÄ‡ Wygrzew, nakarm mnie proszÄ™: jednÄ… apteczkÄ… pierwszej pomocy, jednym piwem i jednÄ… Nuka ColÄ…! Mniam-mniam!}
+{302}{}{ZrÃ³b Wygrzew.}
+{310}{}{Åšwietny wybÃ³r! Å»eby zrobiÄ‡ Rad-X, nakarm mnie proszÄ™: jednÄ… apteczkÄ… pierwszej pomocy i jednÄ… Nuka ColÄ…! Mniam-mniam!}
+{312}{}{ZrÃ³b Rad-X.}
+{320}{}{Åšwietny wybÃ³r! Å»eby zrobiÄ‡ AntyRad, nakarm mnie proszÄ™: jednÄ… Nuka ColÄ…, jednÄ… pustÄ… strzykawkÄ… i stimpakiem! Mniam-mniam!}
 {322}{}{Make a AntyRad.}
-{330}{}{Œwietny wybór! ¯eby zrobiæ odtrutkê, nakarm mnie proszê: jednym ogonem radskorpiona i butelk¹ alkoholu! Mniam-mniam!}
-{331}{}{Zrób odtrutkê.}
-{340}{}{O jejku! Specjalne zamówienie! Jaki specjalny specyfik Pan Ma³y Chemik ma dla ciebie przygotowaæ dzisiaj?!}
-{341}{}{Marihuanê.}
+{330}{}{Åšwietny wybÃ³r! Å»eby zrobiÄ‡ odtrutkÄ™, nakarm mnie proszÄ™: jednym ogonem radskorpiona i butelkÄ… alkoholu! Mniam-mniam!}
+{331}{}{ZrÃ³b odtrutkÄ™.}
+{340}{}{O jejku! Specjalne zamÃ³wienie! Jaki specjalny specyfik Pan MaÅ‚y Chemik ma dla ciebie przygotowaÄ‡ dzisiaj?!}
+{341}{}{MarihuanÄ™.}
 {342}{}{Specyfik Doktora.}
-{343}{}{Mój przyjaciel Cassidy ma problemy z sercem. Mo¿esz zrobiæ coœ, co mu pomo¿e?}
-{344}{}{Stabilizator Syndromu Odrzucenia Œrodowiska.}
-{350}{}{To twój szczêœliwy dzieñ! Mam wystarczaj¹co du¿o chemikaliów w swoich zbiornikach do przygotowania takiego lekarstwa! Czy chcesz ¿eby Pan Ma³y Chemik je zsyntetyzowa³?!}
+{343}{}{MÃ³j przyjaciel Cassidy ma problemy z sercem. MoÅ¼esz zrobiÄ‡ coÅ›, co mu pomoÅ¼e?}
+{344}{}{Stabilizator Syndromu Odrzucenia Åšrodowiska.}
+{350}{}{To twÃ³j szczÄ™Å›liwy dzieÅ„! Mam wystarczajÄ…co duÅ¼o chemikaliÃ³w w swoich zbiornikach do przygotowania takiego lekarstwa! Czy chcesz Å¼eby Pan MaÅ‚y Chemik je zsyntetyzowaÅ‚?!}
 {351}{}{Syntetyzuj.}
-{352}{}{Wróæ do menu g³ównego.}
-{360}{}{O o! Przepraszam, ale nie mam ju¿ wystarczaj¹co chemikaliów niezbêdnych do przygotowania tego!}
-{370}{}{Zamówienie zrealizowane! To by³o zabawne! Proszê odebraæ przedmiot z podajnika! Dziêkujê za u¿ycie Pana Ma³ego Chemika! Zróbmy jeszcze kiedyœ leki.}
-{371}{}{Wiêcej opcji.}
-{375}{}{Pan Ma³y Chemik uwielbia pomagaæ! Mogê zsyntetyzowaæ substancjê zwan¹ nitrogliceryn¹, która ustabilizuje nieregularn¹ pracê serca i zapobiegnie zawa³owi.}
+{352}{}{WrÃ³Ä‡ do menu gÅ‚Ã³wnego.}
+{360}{}{O o! Przepraszam, ale nie mam juÅ¼ wystarczajÄ…co chemikaliÃ³w niezbÄ™dnych do przygotowania tego!}
+{370}{}{ZamÃ³wienie zrealizowane! To byÅ‚o zabawne! ProszÄ™ odebraÄ‡ przedmiot z podajnika! DziÄ™kujÄ™ za uÅ¼ycie Pana MaÅ‚ego Chemika! ZrÃ³bmy jeszcze kiedyÅ› leki.}
+{371}{}{WiÄ™cej opcji.}
+{375}{}{Pan MaÅ‚y Chemik uwielbia pomagaÄ‡! MogÄ™ zsyntetyzowaÄ‡ substancjÄ™ zwanÄ… nitroglicerynÄ…, ktÃ³ra ustabilizuje nieregularnÄ… pracÄ™ serca i zapobiegnie zawaÅ‚owi.}
 {380}{}{Rad-X.}
 {381}{}{AntryRad.}
-{382}{}{Coœ specjalnego.}
+{382}{}{CoÅ› specjalnego.}
 {383}{}{Na razie nic.}
-{390}{}{To twój szczêœliwy dzieñ! Mam wystarczaj¹co du¿o chemikaliów w swoich zbiornikach do zrobienia jednej dawki SSOŒ! Czy chcesz ¿eby Pan Ma³y Chemik go zsyntetyzowa³?!}
+{390}{}{To twÃ³j szczÄ™Å›liwy dzieÅ„! Mam wystarczajÄ…co duÅ¼o chemikaliÃ³w w swoich zbiornikach do zrobienia jednej dawki SSOÅš! Czy chcesz Å¼eby Pan MaÅ‚y Chemik go zsyntetyzowaÅ‚?!}
 {391}{}{Syntetyzuj.}
-{392}{}{Wyjœcie.}
+{392}{}{WyjÅ›cie.}

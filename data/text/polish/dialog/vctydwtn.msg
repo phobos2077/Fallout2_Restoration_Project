@@ -1,1 +1,1 @@
-{100}{}{Jesteú w úrÛdmieúciu Kryptopolis.}
+{100}{}{Jeste≈õ w ≈õr√≥dmie≈õciu Kryptopolis.}

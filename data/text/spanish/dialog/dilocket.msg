@@ -1,2 +1,2 @@
-{100}{}{Ves un viejo medallón.}
-{101}{}{Seguramente éste sea el medallón que el fantasma estaba buscando.}
+{100}{}{Ves un viejo medallÃ³n.}
+{101}{}{Seguramente Ã©ste sea el medallÃ³n que el fantasma estaba buscando.}

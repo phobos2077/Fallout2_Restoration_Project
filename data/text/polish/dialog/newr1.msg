@@ -1,7 +1,7 @@
-{100}{}{Witamy w Nowym Reno, najwiêkszym miasteczku na œwiecie. Ognie ze œmietników i œwiat³o neonów oœwietlaj¹ miasto piekielnym blaskiem.}
-{101}{}{Przed tob¹ posêpna równina usiana grobami. Okrwawione pale stercz¹ z ziemi z przywi¹zanymi do nich resztkami ludzkich zw³ok.}
-{102}{}{Wygl¹da to na star¹ przedwojenn¹ elektryczn¹ stacjê regeneracyjn¹. Budynki otacza cmentarzysko wraków.}
-{103}{}{Jesteœ przy Stajniach. Nowy p³ot otacza wejœcia do dwu czêœci farmy.}
+{100}{}{Witamy w Nowym Reno, najwiÄ™kszym miasteczku na Å›wiecie. Ognie ze Å›mietnikÃ³w i Å›wiatÅ‚o neonÃ³w oÅ›wietlajÄ… miasto piekielnym blaskiem.}
+{101}{}{Przed tobÄ… posÄ™pna rÃ³wnina usiana grobami. Okrwawione pale sterczÄ… z ziemi z przywiÄ…zanymi do nich resztkami ludzkich zwÅ‚ok.}
+{102}{}{WyglÄ…da to na starÄ… przedwojennÄ… elektrycznÄ… stacjÄ™ regeneracyjnÄ…. Budynki otacza cmentarzysko wrakÃ³w.}
+{103}{}{JesteÅ› przy Stajniach. Nowy pÅ‚ot otacza wejÅ›cia do dwu czÄ™Å›ci farmy.}
 {150}{}{[WSTECZ]}
 {151}{}{[KONTYNUUJ]}
 {201}{}{Salvatore}
@@ -14,10 +14,10 @@
 {224}{}{}
 {300}{}{}
 {301}{}{Szept}
-{302}{}{Paj¹k}
+{302}{}{PajÄ…k}
 {303}{}{Odra}
 {304}{}{Profesor}
-{305}{}{Pi¹cha}
+{305}{}{PiÄ…cha}
 {306}{}{Byk}
 {307}{}{Bosman}
 {308}{}{Uciszacz}
@@ -29,24 +29,24 @@
 {314}{}{Goryl}
 {315}{}{Paker}
 {316}{}{Czarny}
-{317}{}{Swój}
+{317}{}{SwÃ³j}
 {318}{}{Tasak}
 {319}{}{Brocoo}
 {320}{}{Dwa-Razy}
 {321}{}{Romeo}
 {322}{}{Puchatek}
-{323}{}{Œwie¿y}
-{324}{}{T³umik}
-{325}{}{M³ot}
+{323}{}{ÅšwieÅ¼y}
+{324}{}{TÅ‚umik}
+{325}{}{MÅ‚ot}
 {326}{}{Kastet}
-{327}{}{Góral}
+{327}{}{GÃ³ral}
 {328}{}{Karington}
 {329}{}{Oczy Kobry}
 {330}{}{Wilk}
 {331}{}{Kosiarz}
-{332}{}{Weso³y}
+{332}{}{WesoÅ‚y}
 {333}{}{Gruby}
-{334}{}{Pere³ka}
+{334}{}{PereÅ‚ka}
 {335}{}{Jimmy Reno}
 {336}{}{Jadeit}
 {337}{}{Blizna}
@@ -54,13 +54,13 @@
 {339}{}{Asior}
 {340}{}{Jednooki Jack}
 {341}{}{Nikki}
-{342}{}{Lodówa}
+{342}{}{LodÃ³wa}
 {343}{}{Chytrus}
-{344}{}{Œliski}
+{344}{}{Åšliski}
 {345}{}{Charlie}
 {346}{}{Opium}
 {347}{}{Kosa}
-{348}{}{Anio³ek}
+{348}{}{AnioÅ‚ek}
 {349}{}{Fixer}
 {350}{}{Rekin}
 {351}{}{Ogar}
@@ -71,89 +71,89 @@
 {356}{}{Wiki}
 {357}{}{Chase}
 {358}{}{Gilotyna}
-{359}{}{Mróz}
+{359}{}{MrÃ³z}
 {360}{}{Valentino}
 {361}{}{Grabarz}
-{362}{}{Ma³y Joe}
-{363}{}{Królowa Œniegu}
+{362}{}{MaÅ‚y Joe}
+{363}{}{KrÃ³lowa Åšniegu}
 {364}{}{Pstryk}
 {365}{}{Dolec}
-{366}{}{¯eton}
-{367}{}{Szczêœciarz}
-{368}{}{Œwiêty}
-{369}{}{Wykidaj³o}
+{366}{}{Å»eton}
+{367}{}{SzczÄ™Å›ciarz}
+{368}{}{ÅšwiÄ™ty}
+{369}{}{WykidajÅ‚o}
 {370}{}{Modliszka}
 {371}{}{Skorpion}
 {372}{}{Szafa}
 {373}{}{Sam}
 {374}{}{Niebieski Lou}
 {375}{}{Tommy Spluwa}
-{376}{}{Œwirniêta Jane}
+{376}{}{ÅšwirniÄ™ta Jane}
 {377}{}{Wdowa}
-{378}{}{Œmieciarz}
+{378}{}{Åšmieciarz}
 {379}{}{Nick 9 Cali}
 {380}{}{Zaklinacz}
-{381}{}{Król}
-{382}{}{£omot}
+{381}{}{KrÃ³l}
+{382}{}{Åomot}
 {383}{}{Santana}
 {384}{}{Joey}
 {385}{}{Cezar}
 {386}{}{Mickey}
 {387}{}{Narko}
 {388}{}{Kiler}
-{389}{}{RzeŸnik}
+{389}{}{RzeÅºnik}
 {390}{}{Rudy}
 {391}{}{Rubin}
 {392}{}{X}
 {393}{}{}
 {400}{}{}
 {401}{}{Jabby}
-{402}{}{Krêc¹ca Jenny}
-{403}{}{T³ok}
+{402}{}{KrÄ™cÄ…ca Jenny}
+{403}{}{TÅ‚ok}
 {404}{}{Huragan}
-{405}{}{Wielki Z³y Matkozdziebca}
+{405}{}{Wielki ZÅ‚y Matkozdziebca}
 {406}{}{Dziecko Przeznaczenia}
-{407}{}{Wœciek³y Byk}
+{407}{}{WÅ›ciekÅ‚y Byk}
 {408}{}{LaMotta}
-{409}{}{P³ug}
+{409}{}{PÅ‚ug}
 {410}{}{Joe Szklaneczka}
 {411}{}{Nancy Nowe Reno}
-{412}{}{£ysy Byk}
-{413}{}{Ksiê¿niczka}
-{414}{}{Ksi¹¿ê}
+{412}{}{Åysy Byk}
+{413}{}{KsiÄ™Å¼niczka}
+{414}{}{KsiÄ…Å¼Ä™}
 {415}{}{Kozak}
-{416}{}{¯elazna Dziewica}
+{416}{}{Å»elazna Dziewica}
 {417}{}{Rozpruwacz}
 {418}{}{Walkiria}
 {419}{}{Hak}
 {420}{}{Grzechotnik}
-{421}{}{Z³a Lala}
+{421}{}{ZÅ‚a Lala}
 {422}{}{Szczena}
-{423}{}{Œciana}
-{424}{}{Pi³a}
-{425}{}{Helen Kó³ka}
+{423}{}{Åšciana}
+{424}{}{PiÅ‚a}
+{425}{}{Helen KÃ³Å‚ka}
 {426}{}{Tommy Spluwa}
 {427}{}{Czarna Wdowa}
-{428}{}{£amacz}
+{428}{}{Åamacz}
 {429}{}{Delilah}
-{430}{}{B³yskawica}
+{430}{}{BÅ‚yskawica}
 {431}{}{Jocco}
 {432}{}{Siostra Stal}
-{433}{}{Super M³ot}
+{433}{}{Super MÅ‚ot}
 {434}{}{Apollo}
 {435}{}{Scrapiron}
 {436}{}{Tygrysica}
 {437}{}{Tyson}
 {438}{}{Lady J}
 {439}{}{Drago}
-{440}{}{Pa³a}
-{441}{}{Ksiê¿na}
-{442}{}{Buldo¿er}
-{443}{}{£aska}
-{444}{}{Luke ¯elazna Piêœæ}
+{440}{}{PaÅ‚a}
+{441}{}{KsiÄ™Å¼na}
+{442}{}{BuldoÅ¼er}
+{443}{}{Åaska}
+{444}{}{Luke Å»elazna PiÄ™Å›Ä‡}
 {445}{}{Faith}
-{446}{}{Doktor Pi¹cha}
-{447}{}{Lataj¹ca Zakonnica}
+{446}{}{Doktor PiÄ…cha}
+{447}{}{LatajÄ…ca Zakonnica}
 {448}{}{Balboa}
 {449}{}{Floyd Ray Willis}
 {450}{}{Calamity Jane}
@@ -165,28 +165,28 @@
 {456}{}{Jim Nowe Reno}
 {457}{}{Miazga}
 {458}{}{Rico}
-{459}{}{£amignat}
-{460}{}{Zajebójca}
+{459}{}{Åamignat}
+{460}{}{ZajebÃ³jca}
 {461}{}{Szeryf}
 {462}{}{Butch Coolidge}
 {463}{}{Kotka}
-{464}{}{Z³y Urok}
-{465}{}{Czo³g}
-{466}{}{Miêœniak}
+{464}{}{ZÅ‚y Urok}
+{465}{}{CzoÅ‚g}
+{466}{}{MiÄ™Å›niak}
 {467}{}{Mynx}
 {468}{}{Skorpion}
 {469}{}{Czapa}
 {470}{}{Gepard}
 {471}{}{Wyrok}
 {472}{}{Judge Jury}
-{473}{}{Œrubokrêt}
+{473}{}{ÅšrubokrÄ™t}
 {474}{}{Atena}
-{475}{}{Wœciek³y Pies}
+{475}{}{WÅ›ciekÅ‚y Pies}
 {476}{}{}
 {496}{}{Wielki Stu}
 {497}{}{Miami}
 {498}{}{X}
-{499}{}{Twoje Imiê}
+{499}{}{Twoje ImiÄ™}
 {500}{}{}
 {501}{}{Rodd Rokks}
 {502}{}{Randy Mercury}
@@ -199,14 +199,14 @@
 {509}{}{Kurt Loader}
 {510}{}{Rick Dripps}
 {511}{}{Dick Seamen}
-{512}{}{Polski M³ot}
+{512}{}{Polski MÅ‚ot}
 {513}{}{Ron Jeremy}
 {514}{}{Cock of the Walk}
 {515}{}{Vinnie LaJoya}
 {516}{}{Sir Lance-a-lot}
 {517}{}{Dick Smothers}
 {518}{}{Jeremy Bolt}
-{519}{}{Pan Ró¿owy}
+{519}{}{Pan RÃ³Å¼owy}
 {520}{}{Ricky Rachtman}
 {521}{}{Cuthbert}
 {522}{}{Dave Handy}
@@ -256,12 +256,12 @@
 {566}{}{Maria Swallo}
 {567}{}{Lady J}
 {568}{}{Glenda Glenn}
-{569}{}{Królowa El¿bieta}
+{569}{}{KrÃ³lowa ElÅ¼bieta}
 {570}{}{Jenna Jammison}
 {571}{}{Bunny LaJoya}
 {572}{}{Madame Butterfly}
 {573}{}{Jenny X}
-{574}{}{S³odka Jane}
+{574}{}{SÅ‚odka Jane}
 {575}{}{Darlin' Nikki}
 {576}{}{Sharonna}
 {577}{}{Suzy Q}
@@ -270,7 +270,7 @@
 {580}{}{Dominatrish}
 {581}{}{Princess X}
 {582}{}{Carlotta}
-{583}{}{Ca³uœna Mary}
+{583}{}{CaÅ‚uÅ›na Mary}
 {584}{}{April Wine}
 {585}{}{Ruby Red}
 {586}{}{Christie Chipps}
@@ -287,18 +287,18 @@
 {597}{}{Valerie Vixen}
 {598}{}{Ruth Less}
 {599}{}{}
-{700}{}{Diabe³}
+{700}{}{DiabeÅ‚}
 {701}{}{Tony Spluwa}
 {702}{}{"Stalowy" Mark Torrance}
 {703}{}{Xander "Pewniacha" Holyland}
-{704}{}{Paj¹k}
+{704}{}{PajÄ…k}
 {705}{}{Chudy}
-{706}{}{S³odki Jones}
+{706}{}{SÅ‚odki Jones}
 {707}{}{Il Roche}
 {708}{}{Tito}
 {709}{}{Rudy}
 {710}{}{Wielki George}
-{711}{}{Swój}
+{711}{}{SwÃ³j}
 {712}{}{Gruby Johnny}
 {713}{}{Nicki}
 {714}{}{LaMotta}
@@ -310,18 +310,18 @@
 {750}{}{Joqq}
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
-{753}{}{Prze¿uwacz}
-{1000}{}{Jules prowadzi ciê w kierunku ruin bloków otaczaj¹cych Nowe Reno. Nie s¹dzisz, aby uda³o ci siê samodzielnie znaleŸæ to miejsce. Gdy tylko docieracie na miejsce, Jules znika.}
-{1100}{}{Œlad prowadzi ciê do zrujnowanych bloków otaczaj¹cych Nowe Reno.}
-{1200}{}{Odkrywasz ma³¹ metalow¹ skrzynkê na pieni¹dze. Nie uda³oby ci siê jej odnaleŸæ bez specjalnych poszukiwañ.}
-{1300}{}{Cody prowadzi ciê do ruin bloków otaczaj¹cych Nowe Reno. Nie s¹dzisz, aby uda³o ci siê samodzielnie znaleŸæ to miejsce.}
+{753}{}{PrzeÅ¼uwacz}
+{1000}{}{Jules prowadzi ciÄ™ w kierunku ruin blokÃ³w otaczajÄ…cych Nowe Reno. Nie sÄ…dzisz, aby udaÅ‚o ci siÄ™ samodzielnie znaleÅºÄ‡ to miejsce. Gdy tylko docieracie na miejsce, Jules znika.}
+{1100}{}{Åšlad prowadzi ciÄ™ do zrujnowanych blokÃ³w otaczajÄ…cych Nowe Reno.}
+{1200}{}{Odkrywasz maÅ‚Ä… metalowÄ… skrzynkÄ™ na pieniÄ…dze. Nie udaÅ‚oby ci siÄ™ jej odnaleÅºÄ‡ bez specjalnych poszukiwaÅ„.}
+{1300}{}{Cody prowadzi ciÄ™ do ruin blokÃ³w otaczajÄ…cych Nowe Reno. Nie sÄ…dzisz, aby udaÅ‚o ci siÄ™ samodzielnie znaleÅºÄ‡ to miejsce.}
 {1400}{}{Pokonujesz pierwszego przeciwnika.}
 {1401}{}{Pokonujesz drugiego przeciwnika.}
 {1402}{}{Pokonujesz trzeciego przeciwnika.}
-{1403}{}{Pokonujesz Prze¿uwacza!}
-{1404}{}{Zostajesz Miêdzynarodowym Mistrzem Krajowym Wagi Ciê¿kiej Nowego Reno.}
+{1403}{}{Pokonujesz PrzeÅ¼uwacza!}
+{1404}{}{Zostajesz MiÄ™dzynarodowym Mistrzem Krajowym Wagi CiÄ™Å¼kiej Nowego Reno.}
 {1405}{}{Pokonujesz ostatniego przeciwnika!}
-{1500}{}{Uda³o ci siê przekonaæ pani¹ Wright do zniszczenia kadzi.}
-{1550}{}{Uda³o ci siê byæ œwiadkiem tajnej transakcji.}
-{1600}{}{W ogniu walki Prze¿uwacz odgryza ci ucho.}
-{1700}{}{W gniewie odgryzasz Prze¿uwaczowi ucho.}
+{1500}{}{UdaÅ‚o ci siÄ™ przekonaÄ‡ paniÄ… Wright do zniszczenia kadzi.}
+{1550}{}{UdaÅ‚o ci siÄ™ byÄ‡ Å›wiadkiem tajnej transakcji.}
+{1600}{}{W ogniu walki PrzeÅ¼uwacz odgryza ci ucho.}
+{1700}{}{W gniewie odgryzasz PrzeÅ¼uwaczowi ucho.}

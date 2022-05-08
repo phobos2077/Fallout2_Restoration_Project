@@ -1,4 +1,4 @@
-{100}{}{Nincs látható zárszerekezet az ajtón.}
-{101}{}{Ezt az ajtót még a keményebb robbanószerek sem karcolják meg.}
-{102}{}{Ezek bizony vastag biztonsági ajtók. Be vannak ágyazva a padlóba és a mennyezetbe.}
-{103}{}{Nem látsz módot az ajtó kinyitására.}
+{100}{}{Nincs lÃ¡thatÃ³ zÃ¡rszerekezet az ajtÃ³n.}
+{101}{}{Ezt az ajtÃ³t mÃ©g a kemÃ©nyebb robbanÃ³szerek sem karcoljÃ¡k meg.}
+{102}{}{Ezek bizony vastag biztonsÃ¡gi ajtÃ³k. Be vannak Ã¡gyazva a padlÃ³ba Ã©s a mennyezetbe.}
+{103}{}{Nem lÃ¡tsz mÃ³dot az ajtÃ³ kinyitÃ¡sÃ¡ra.}

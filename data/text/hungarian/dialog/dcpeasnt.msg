@@ -1,7 +1,7 @@
 {100}{}{You see a resident of The Den.}
 {101}{}{You see a resident of The Den.}
-{102}{}{Helló!}
-{103}{}{Örülök, hogy látlak.}
+{102}{}{HellÃ³!}
+{103}{}{Ã–rÃ¼lÃ¶k, hogy lÃ¡tlak.}
 {104}{}{Not from around here, are you?}
 {105}{}{Mom is a great lady, isn't she?}
 {106}{}{I'm glad the orphans of The Den have a place to live now.}

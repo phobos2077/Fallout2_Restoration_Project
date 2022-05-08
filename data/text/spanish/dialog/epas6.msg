@@ -1,1 +1,1 @@
-{100}{}{Hay un bajo zumbido en el aire, como un campo magnético está en algún lugar cercano.}
+{100}{}{Hay un bajo zumbido en el aire, como un campo magnÃ©tico estÃ¡ en algÃºn lugar cercano.}

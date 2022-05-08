@@ -1,30 +1,30 @@
-{100}{}{Tu vois une personne en pyjama amusant. Elle semble préoccupée.}
-{101}{}{Tu vois un ingénieur du sous-marin Shi.}
-{150}{}{Euh, que fais-tu, à rôder comme ça ?}
+{100}{}{Tu vois une personne en pyjama amusant. Elle semble prÃ©occupÃ©e.}
+{101}{}{Tu vois un ingÃ©nieur du sous-marin Shi.}
+{150}{}{Euh, que fais-tu, Ã  rÃ´der comme Ã§a ?}
 {151}{}{Tu es un genre d'espion ?}
 {200}{}{C'est crasseux, regarde toute cette rouille !}
-{201}{}{Je ne comprends pas pourquoi on a besoin de garder ça en état.}
+{201}{}{Je ne comprends pas pourquoi on a besoin de garder Ã§a en Ã©tat.}
 {202}{}{Ces torpilles sont un danger permanent.}
-{300}{}{Je ne me rappelle pas t'avoir déjà vu ici, que fais-tu dans la salle des torpilles ? Et puis qui es-tu à la fin ?}
-{301}{}{Encore toi ? Que fais-tu encore dans la salle des torpilles ? Et qui es-tu à la fin ?}
-{302}{}{On m'a demandé de rejoindre ton équipe technique à la dernière minute. Désolé de ne pas t'avoir prévenu plus tôt. Oh, et je suis là pour faire un peu de maintenance sur les torpilles. Elles sont dans un état ! De quoi provoquer un accident !}
-{303}{}{J'ai été rajouté à ta liste récemment. On m'a demandé de travailler sur le système de lancement des torpilles, depuis leurs récents caprices. Je pense que ça doit être dû à certains défauts dans la conception des cartes mères Sungsam.}
-{304}{}{Je suis un réparateur, fraîchement ajouté à ta liste. Je suis supposé faire de la maintenance périodique sur les torpilles, depuis qu'elles sont dans ce putain d'état ! Regarde toute cette rouille ! Et les propulseurs ont l'air de vouloir tomber en morceaux !}
-{305}{}{Désolé, je me suis trompé de salle.}
-{310}{}{Oh, ça fait du bien d'avoir un technicien qualifié à bord. J'avais l'intention de réparer ça, mais ces torpilles me fichent la frousse. Tu savais qu'elles transportent assez d'explosif pour réduire ce vaisseau en morceaux finement broyés ?}
-{311}{}{Je vais faire très attention, c'est promis.}
-{320}{}{Ils m'ont envoyé un mécano finalement, après toutes ces semaines de réclamation...}
-{330}{}{Euh, tu n'as pas l'air d'un mécano. Franchement, je ne pense pas que tu différencies une clef d'un tournevis, alors pourquoi tu ne ferais pas demi-tour pour aider les autres gars, au lieu de squatter la salle des torpilles ? Je ne voudrais pas que tu nous fasses exploser accidentellement.}
-{331}{}{Très bien, je vais y aller.}
-{340}{}{Tout ça c'est bien joli, mais, euh, pourquoi cherches-tu la console de la salle des torpilles ? C'est dans la pièce derrière toi. J'ai besoin d'un mécano, pas d'un autre ingénieur, alors à moins que tu sois aussi un réparateur talentueux, je veux que tu partes.}
-{341}{}{En fait, oui, je suis aussi réparateur, avec une bonne part d'expérience sur les technologies anciennes. Je crois que je peux manipuler ces torpilles. Je ferai fonctionner correctement les propulseurs et m'assurerai qu'elles ne nous réduisent pas en petits morceaux.}
-{342}{}{Très bien, je vais y aller.}
-{350}{}{Oh, les spécialistes sur deux domaines ne sont pas légion dans les terres désolées. Je suppose que je peux te faire confiance, alors va et répare-moi ces torpilles que je puisse finalement me sentir un peu plus en sécurité.}
+{300}{}{Je ne me rappelle pas t'avoir dÃ©jÃ  vu ici, que fais-tu dans la salle des torpilles ? Et puis qui es-tu Ã  la fin ?}
+{301}{}{Encore toi ? Que fais-tu encore dans la salle des torpilles ? Et qui es-tu Ã  la fin ?}
+{302}{}{On m'a demandÃ© de rejoindre ton Ã©quipe technique Ã  la derniÃ¨re minute. DÃ©solÃ© de ne pas t'avoir prÃ©venu plus tÃ´t. Oh, et je suis lÃ  pour faire un peu de maintenance sur les torpilles. Elles sont dans un Ã©tat ! De quoi provoquer un accident !}
+{303}{}{J'ai Ã©tÃ© rajoutÃ© Ã  ta liste rÃ©cemment. On m'a demandÃ© de travailler sur le systÃ¨me de lancement des torpilles, depuis leurs rÃ©cents caprices. Je pense que Ã§a doit Ãªtre dÃ» Ã  certains dÃ©fauts dans la conception des cartes mÃ¨res Sungsam.}
+{304}{}{Je suis un rÃ©parateur, fraÃ®chement ajoutÃ© Ã  ta liste. Je suis supposÃ© faire de la maintenance pÃ©riodique sur les torpilles, depuis qu'elles sont dans ce putain d'Ã©tat ! Regarde toute cette rouille ! Et les propulseurs ont l'air de vouloir tomber en morceaux !}
+{305}{}{DÃ©solÃ©, je me suis trompÃ© de salle.}
+{310}{}{Oh, Ã§a fait du bien d'avoir un technicien qualifiÃ© Ã  bord. J'avais l'intention de rÃ©parer Ã§a, mais ces torpilles me fichent la frousse. Tu savais qu'elles transportent assez d'explosif pour rÃ©duire ce vaisseau en morceaux finement broyÃ©s ?}
+{311}{}{Je vais faire trÃ¨s attention, c'est promis.}
+{320}{}{Ils m'ont envoyÃ© un mÃ©cano finalement, aprÃ¨s toutes ces semaines de rÃ©clamation...}
+{330}{}{Euh, tu n'as pas l'air d'un mÃ©cano. Franchement, je ne pense pas que tu diffÃ©rencies une clef d'un tournevis, alors pourquoi tu ne ferais pas demi-tour pour aider les autres gars, au lieu de squatter la salle des torpilles ? Je ne voudrais pas que tu nous fasses exploser accidentellement.}
+{331}{}{TrÃ¨s bien, je vais y aller.}
+{340}{}{Tout Ã§a c'est bien joli, mais, euh, pourquoi cherches-tu la console de la salle des torpilles ? C'est dans la piÃ¨ce derriÃ¨re toi. J'ai besoin d'un mÃ©cano, pas d'un autre ingÃ©nieur, alors Ã  moins que tu sois aussi un rÃ©parateur talentueux, je veux que tu partes.}
+{341}{}{En fait, oui, je suis aussi rÃ©parateur, avec une bonne part d'expÃ©rience sur les technologies anciennes. Je crois que je peux manipuler ces torpilles. Je ferai fonctionner correctement les propulseurs et m'assurerai qu'elles ne nous rÃ©duisent pas en petits morceaux.}
+{342}{}{TrÃ¨s bien, je vais y aller.}
+{350}{}{Oh, les spÃ©cialistes sur deux domaines ne sont pas lÃ©gion dans les terres dÃ©solÃ©es. Je suppose que je peux te faire confiance, alors va et rÃ©pare-moi ces torpilles que je puisse finalement me sentir un peu plus en sÃ©curitÃ©.}
 {351}{}{D'accord.}
-{360}{}{Hé, je suis occupé là.}
-{361}{}{Désolé, je travaille.}
-{370}{}{Ne touche pas à ça !}
+{360}{}{HÃ©, je suis occupÃ© lÃ .}
+{361}{}{DÃ©solÃ©, je travaille.}
+{370}{}{Ne touche pas Ã  Ã§a !}
 {371}{}{Qu'est-ce que je t'ai dit ?!}
-{372}{}{Je t'ai prévenu !}
+{372}{}{Je t'ai prÃ©venu !}
 {375}{}{Qu'est-ce que tu fais, putain ! Gardes !}
-{380}{}{Arrête de perdre ton temps et va bosser.}
+{380}{}{ArrÃªte de perdre ton temps et va bosser.}

@@ -1,29 +1,29 @@
-{100}{}{Osoba ta wygl¹da na jakiegoœ stra¿nika.}
-{101}{}{Widzisz Obroñcê.}
-{150}{}{Cz³owiek ten ma blad¹ skórê i znacznie powiêkszone Ÿrenice. Poza tym wygl¹da na normaln¹ osobê.}
+{100}{}{Osoba ta wyglÄ…da na jakiegoÅ› straÅ¼nika.}
+{101}{}{Widzisz ObroÅ„cÄ™.}
+{150}{}{CzÅ‚owiek ten ma bladÄ… skÃ³rÄ™ i znacznie powiÄ™kszone Åºrenice. Poza tym wyglÄ…da na normalnÄ… osobÄ™.}
 {200}{}{O cholera!}
-{201}{}{Uuuu! To bêdzie bola³o!}
-{210}{}{Chyba wiesz, ¿e mo¿esz wejœæ tylnymi drzwiami...}
+{201}{}{Uuuu! To bÄ™dzie bolaÅ‚o!}
+{210}{}{Chyba wiesz, Å¼e moÅ¼esz wejÅ›Ä‡ tylnymi drzwiami...}
 {211}{}{Buahahahaha!}
-{212}{}{Nie bêdê tego komentowaæ.}
-{213}{}{Mój Bo¿e! Rozbrajasz mnie! Zrób to jeszcze raz!}
-{214}{}{Co za dureñ!}
+{212}{}{Nie bÄ™dÄ™ tego komentowaÄ‡.}
+{213}{}{MÃ³j BoÅ¼e! Rozbrajasz mnie! ZrÃ³b to jeszcze raz!}
+{214}{}{Co za dureÅ„!}
 {215}{}{Hahahaha!}
-{220}{}{Mamy rozkaz przyprowadziæ ka¿dego powierzchniowca do Vegeira. Nie stanie ci siê krzywda. Proszê, chodŸ z nami.}
-{221}{}{IdŸ do diab³a, nie zamierzam z wami nigdzie iœæ.}
-{222}{}{Chcê zadaæ ci kilka pytañ.}
+{220}{}{Mamy rozkaz przyprowadziÄ‡ kaÅ¼dego powierzchniowca do Vegeira. Nie stanie ci siÄ™ krzywda. ProszÄ™, chodÅº z nami.}
+{221}{}{IdÅº do diabÅ‚a, nie zamierzam z wami nigdzie iÅ›Ä‡.}
+{222}{}{ChcÄ™ zadaÄ‡ ci kilka pytaÅ„.}
 {223}{}{Yy?}
-{224}{}{Mo¿e ci to wyt³umaczê. Nic ci siê nie stanie DOPÓKI nie bêdziesz stawiaæ oporu. Czy stawiasz opór?}
-{225}{}{Tak, stawiam czynny opór.}
-{226}{}{Widzê, ¿e wszelki opór jest daremny. Niech wam bêdzie. Pójdê z wami.}
-{230}{}{Vegeir odpowie na twoje wszystkie pytania. Teraz chodŸ z nami.}
-{231}{}{Dobrze, na razie pójdê z wami.}
-{232}{}{Nie! Nigdzie nie pójdê, dopóki nie dostanê kilku odpowiedzi.}
-{240}{}{Hmm... Ciekawe, czy to mo¿na uznaæ za wyj¹tek od regu³y... Nie, nie, jednak nie! Vegeir powiedzia³ WSZYSCY powierzchniowcy, nawet debile. ChodŸ z nami.}
-{241}{}{[IdŸ ze stra¿nikami.]}
-{242}{}{[Zabij wszystkich i niech Bóg ich os¹dzi.]}
-{250}{}{Przykro mi. Nie mo¿esz têdy wyjœæ.}
-{251}{}{To wyjœcie jest dla robotników.}
-{252}{}{Za du¿o wysi³ku wymaga³oby ustawienie ramp dla tylko jednej osoby.}
-{253}{}{Je¿eli chcesz st¹d wyjœæ, zapytaj Vegeira.}
+{224}{}{MoÅ¼e ci to wytÅ‚umaczÄ™. Nic ci siÄ™ nie stanie DOPÃ“KI nie bÄ™dziesz stawiaÄ‡ oporu. Czy stawiasz opÃ³r?}
+{225}{}{Tak, stawiam czynny opÃ³r.}
+{226}{}{WidzÄ™, Å¼e wszelki opÃ³r jest daremny. Niech wam bÄ™dzie. PÃ³jdÄ™ z wami.}
+{230}{}{Vegeir odpowie na twoje wszystkie pytania. Teraz chodÅº z nami.}
+{231}{}{Dobrze, na razie pÃ³jdÄ™ z wami.}
+{232}{}{Nie! Nigdzie nie pÃ³jdÄ™, dopÃ³ki nie dostanÄ™ kilku odpowiedzi.}
+{240}{}{Hmm... Ciekawe, czy to moÅ¼na uznaÄ‡ za wyjÄ…tek od reguÅ‚y... Nie, nie, jednak nie! Vegeir powiedziaÅ‚ WSZYSCY powierzchniowcy, nawet debile. ChodÅº z nami.}
+{241}{}{[IdÅº ze straÅ¼nikami.]}
+{242}{}{[Zabij wszystkich i niech BÃ³g ich osÄ…dzi.]}
+{250}{}{Przykro mi. Nie moÅ¼esz tÄ™dy wyjÅ›Ä‡.}
+{251}{}{To wyjÅ›cie jest dla robotnikÃ³w.}
+{252}{}{Za duÅ¼o wysiÅ‚ku wymagaÅ‚oby ustawienie ramp dla tylko jednej osoby.}
+{253}{}{JeÅ¼eli chcesz stÄ…d wyjÅ›Ä‡, zapytaj Vegeira.}
 {260}{}{Oki Doki.}

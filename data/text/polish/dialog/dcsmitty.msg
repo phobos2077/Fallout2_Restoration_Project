@@ -1,92 +1,92 @@
 {100}{}{Widzisz umorusanego mechanika.}
-{150}{}{Widzisz Smitty'ego - mechanika i w³aœciciela z³omowiska w jednej osobie.}
+{150}{}{Widzisz Smitty'ego - mechanika i wÅ‚aÅ›ciciela zÅ‚omowiska w jednej osobie.}
 {151}{}{Widzisz umorusanego mechanika w brudnym ubraniu roboczym.}
-{200}{}{Ty szkodniku! Wynoœ siê st¹d zanim dam ci nauczkê!}
-{201}{}{Wynoœ siê st¹d!}
-{202}{}{Wynoœ siê z mojej ziemi!}
-{203}{}{Cholerny szkodniku, uciekaj st¹d.}
-{204}{}{IdŸ do diab³a.}
-{220}{}{Hej, wynoœ siê z mojej ziemi.}
-{221}{}{Hej, g³upolu, uciekaj st¹d.}
-{222}{}{No ju¿, sio!}
+{200}{}{Ty szkodniku! WynoÅ› siÄ™ stÄ…d zanim dam ci nauczkÄ™!}
+{201}{}{WynoÅ› siÄ™ stÄ…d!}
+{202}{}{WynoÅ› siÄ™ z mojej ziemi!}
+{203}{}{Cholerny szkodniku, uciekaj stÄ…d.}
+{204}{}{IdÅº do diabÅ‚a.}
+{220}{}{Hej, wynoÅ› siÄ™ z mojej ziemi.}
+{221}{}{Hej, gÅ‚upolu, uciekaj stÄ…d.}
+{222}{}{No juÅ¼, sio!}
 {223}{}{Nie mam czasu dla takich jak ty.}
-{224}{}{Nie potrafiê mówiæ po g³upkowemu.}
-{240}{}{Witaj, m³odzieñcze. Co stary Smitty mo¿e dla ciebie zrobiæ?}
-{241}{}{Witaj, œlicznotko. Co stary Smitty mo¿e ci... dla ciebie zrobiæ?}
-{242}{}{A niech mnie! Co mogê dla ciebie zrobiæ tym razem?}
-{243}{}{Jak leci! Wielkie dziêki za tê wy¿erkê od Mamuœki. Co stary Smitty mo¿e dla ciebie zrobiæ?}
-{244}{}{Zastanawiam siê w³aœnie czym siê tu zajmujesz?}
-{245}{}{S³uchaj, staruszku, mam tu tak¹ rzecz z Gecko...}
-{246}{}{Hej Smitty, interesuje mnie samochód, który masz na sprzeda¿.}
-{247}{}{Przynoszê ci jedzenie od Mamuœki.}
-{248}{}{S³uchaj, staruszku, mam tu tak¹ rzecz z Klamath...}
-{249}{}{Chcê siê tylko trochê rozejrzeæ. Do zobaczenia, Smitty.}
+{224}{}{Nie potrafiÄ™ mÃ³wiÄ‡ po gÅ‚upkowemu.}
+{240}{}{Witaj, mÅ‚odzieÅ„cze. Co stary Smitty moÅ¼e dla ciebie zrobiÄ‡?}
+{241}{}{Witaj, Å›licznotko. Co stary Smitty moÅ¼e ci... dla ciebie zrobiÄ‡?}
+{242}{}{A niech mnie! Co mogÄ™ dla ciebie zrobiÄ‡ tym razem?}
+{243}{}{Jak leci! Wielkie dziÄ™ki za tÄ™ wyÅ¼erkÄ™ od MamuÅ›ki. Co stary Smitty moÅ¼e dla ciebie zrobiÄ‡?}
+{244}{}{Zastanawiam siÄ™ wÅ‚aÅ›nie czym siÄ™ tu zajmujesz?}
+{245}{}{SÅ‚uchaj, staruszku, mam tu takÄ… rzecz z Gecko...}
+{246}{}{Hej Smitty, interesuje mnie samochÃ³d, ktÃ³ry masz na sprzedaÅ¼.}
+{247}{}{PrzynoszÄ™ ci jedzenie od MamuÅ›ki.}
+{248}{}{SÅ‚uchaj, staruszku, mam tu takÄ… rzecz z Klamath...}
+{249}{}{ChcÄ™ siÄ™ tylko trochÄ™ rozejrzeÄ‡. Do zobaczenia, Smitty.}
 {260}{}{Niech no stary Smitty rzuci na to okiem.}
-{261}{}{Jasne, proszê bardzo.}
-{262}{}{Mo¿e póŸniej. Na razie chcê ciê o coœ zapytaæ.}
-{263}{}{Mo¿e innym razem. Do zobaczenia, Smitty.}
+{261}{}{Jasne, proszÄ™ bardzo.}
+{262}{}{MoÅ¼e pÃ³Åºniej. Na razie chcÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{263}{}{MoÅ¼e innym razem. Do zobaczenia, Smitty.}
 {280}{}{Niech no stary Smitty rzuci na to okiem.}
-{281}{}{Jasne, proszê bardzo.}
-{282}{}{Mo¿e póŸniej. Na razie chcê ciê o coœ zapytaæ.}
-{283}{}{Mo¿e innym razem. Do zobaczenia, Smitty.}
-{300}{}{No no... to mi wygl¹da na stary kontroler ogniw zasilaj¹cych. Hmm, jakby to wsadziæ do starego Kr¹¿ownika Szos, chodzi³by jak prawdziwy skarb.}
-{301}{}{Hê?}
-{310}{}{Hmm, to wygl¹da jak regulator ogniw zasilaj¹cych. Gdybym mia³ tu jakiœ sprawny samochód, móg³bym zmniejszyæ jego zu¿ycie paliwa.}
-{311}{}{Hê?}
-{320}{}{To bardzo mi³o z twojej strony. Wielkie dziêki! Oto ma³y prezent w nagrodê. Mo¿e ci siê kiedyœ przydaæ, zw³aszcza w tych stronach. (Daje ci Stimpak)}
-{321}{}{Dziêki, Smitty. Do zobaczenia.}
-{322}{}{Eee... Dziêki, ale zajrza³em niedawno do Mamuœki i zd¹¿y³em ju¿ co nieco przek¹siæ. Nie jestem g³odny.}
-{323}{}{Uuups, osoba, która zwykle dostarcza te przesy³ki zachorowa³a, wiêc j¹ zastêpujê. Mogê mimo to dostaæ trochê punktów doœwiadczenia?}
-{324}{}{Och, serdecznie przepraszam. Mam nadziejê, ¿e Mamuœka mnie nie wyleje. Bardzo potrzebujê tej pracy.}
-{325}{}{Wiesz, ¿e nie dajemy ju¿ darmowych posi³ków po przekroczeniu 24 godzin, prawda?}
-{326}{}{Có¿, w takim razie JA zjem ten posi³ek.}
-{327}{}{Mamuœka nie bêdzie zachwycona jak siê o tym dowie.}
-{330}{}{Widzisz, mam tu ten samochód - Kr¹¿ownik Szos firmy Chrysalis Motors. Prawdziwe cacko. Reklamowali go has³em: "Nic nie zatrzyma Kr¹¿ownika Szos". Zbudowany jak czo³g - ot co.}
-{331}{}{A co to ma wspólnego ze mn¹?}
-{340}{}{Widzisz, myœla³em, ¿e potrzebujê do niego akumulatora, ale okazuje siê, ¿e wystarczy za³o¿yæ nowy kontroler ogniw zasilaj¹cych. One zawsze ³atwo siê psu³y.}
-{341}{}{Mam takie coœ!}
-{350}{}{Naprawdê? No to zawrzyjmy uk³ad. Daj mi $2000, a ja sprzedam ci ten samochód. Cholercia, nawet zainstalujê w nim twój kontroler ogniw zasilaj¹cych. Bêdzie chodzi³ jak nowy. Do tego dorzucê jeszcze parê nowych ogniw.}
-{351}{}{To wspaniale! Oto pieni¹dze i czêœæ.}
-{352}{}{Mo¿e póŸniej. Chcê ciê najpierw o coœ zapytaæ, Smitty.}
-{353}{}{Zastanowiê siê. Do zobaczenia, Smitty.}
-{370}{}{Tylko nie szalej od razu. Daj mu siê najpierw rozgrzaæ.}
-{371}{}{Jasne. Dziêki, Smitty.}
-{380}{}{Có¿, to bardzo du¿o i bardzo ma³o zarazem.}
-{381}{}{Hê?}
-{390}{}{Chodzi mi o to, ¿e taki regulator to dobra rzecz, ale bez kontrolera ogniw zasilaj¹cych siê i tak nie obejdzie.}
+{281}{}{Jasne, proszÄ™ bardzo.}
+{282}{}{MoÅ¼e pÃ³Åºniej. Na razie chcÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{283}{}{MoÅ¼e innym razem. Do zobaczenia, Smitty.}
+{300}{}{No no... to mi wyglÄ…da na stary kontroler ogniw zasilajÄ…cych. Hmm, jakby to wsadziÄ‡ do starego KrÄ…Å¼ownika Szos, chodziÅ‚by jak prawdziwy skarb.}
+{301}{}{HÄ™?}
+{310}{}{Hmm, to wyglÄ…da jak regulator ogniw zasilajÄ…cych. Gdybym miaÅ‚ tu jakiÅ› sprawny samochÃ³d, mÃ³gÅ‚bym zmniejszyÄ‡ jego zuÅ¼ycie paliwa.}
+{311}{}{HÄ™?}
+{320}{}{To bardzo miÅ‚o z twojej strony. Wielkie dziÄ™ki! Oto maÅ‚y prezent w nagrodÄ™. MoÅ¼e ci siÄ™ kiedyÅ› przydaÄ‡, zwÅ‚aszcza w tych stronach. (Daje ci Stimpak)}
+{321}{}{DziÄ™ki, Smitty. Do zobaczenia.}
+{322}{}{Eee... DziÄ™ki, ale zajrzaÅ‚em niedawno do MamuÅ›ki i zdÄ…Å¼yÅ‚em juÅ¼ co nieco przekÄ…siÄ‡. Nie jestem gÅ‚odny.}
+{323}{}{Uuups, osoba, ktÃ³ra zwykle dostarcza te przesyÅ‚ki zachorowaÅ‚a, wiÄ™c jÄ… zastÄ™pujÄ™. MogÄ™ mimo to dostaÄ‡ trochÄ™ punktÃ³w doÅ›wiadczenia?}
+{324}{}{Och, serdecznie przepraszam. Mam nadziejÄ™, Å¼e MamuÅ›ka mnie nie wyleje. Bardzo potrzebujÄ™ tej pracy.}
+{325}{}{Wiesz, Å¼e nie dajemy juÅ¼ darmowych posiÅ‚kÃ³w po przekroczeniu 24 godzin, prawda?}
+{326}{}{CÃ³Å¼, w takim razie JA zjem ten posiÅ‚ek.}
+{327}{}{MamuÅ›ka nie bÄ™dzie zachwycona jak siÄ™ o tym dowie.}
+{330}{}{Widzisz, mam tu ten samochÃ³d - KrÄ…Å¼ownik Szos firmy Chrysalis Motors. Prawdziwe cacko. Reklamowali go hasÅ‚em: "Nic nie zatrzyma KrÄ…Å¼ownika Szos". Zbudowany jak czoÅ‚g - ot co.}
+{331}{}{A co to ma wspÃ³lnego ze mnÄ…?}
+{340}{}{Widzisz, myÅ›laÅ‚em, Å¼e potrzebujÄ™ do niego akumulatora, ale okazuje siÄ™, Å¼e wystarczy zaÅ‚oÅ¼yÄ‡ nowy kontroler ogniw zasilajÄ…cych. One zawsze Å‚atwo siÄ™ psuÅ‚y.}
+{341}{}{Mam takie coÅ›!}
+{350}{}{NaprawdÄ™? No to zawrzyjmy ukÅ‚ad. Daj mi $2000, a ja sprzedam ci ten samochÃ³d. Cholercia, nawet zainstalujÄ™ w nim twÃ³j kontroler ogniw zasilajÄ…cych. BÄ™dzie chodziÅ‚ jak nowy. Do tego dorzucÄ™ jeszcze parÄ™ nowych ogniw.}
+{351}{}{To wspaniale! Oto pieniÄ…dze i czÄ™Å›Ä‡.}
+{352}{}{MoÅ¼e pÃ³Åºniej. ChcÄ™ ciÄ™ najpierw o coÅ› zapytaÄ‡, Smitty.}
+{353}{}{ZastanowiÄ™ siÄ™. Do zobaczenia, Smitty.}
+{370}{}{Tylko nie szalej od razu. Daj mu siÄ™ najpierw rozgrzaÄ‡.}
+{371}{}{Jasne. DziÄ™ki, Smitty.}
+{380}{}{CÃ³Å¼, to bardzo duÅ¼o i bardzo maÅ‚o zarazem.}
+{381}{}{HÄ™?}
+{390}{}{Chodzi mi o to, Å¼e taki regulator to dobra rzecz, ale bez kontrolera ogniw zasilajÄ…cych siÄ™ i tak nie obejdzie.}
 {391}{}{Dlaczego?}
-{400}{}{Bo jakbym mia³ kontroler, to za $2000 odpicowa³bym dla ciebie ten Kr¹¿ownik Szos Chrysalis Motors.}
-{401}{}{Naprawdê? A gdzie mogê znaleŸæ taki kontroler ogniw zasilaj¹cych?}
-{410}{}{Co za niem¹dre pytanie! Gdybym wiedzia³ gdzie mo¿na znaleŸæ takie cacko, sam bym ju¿ dawno jeŸdzi³ tym cudeñkiem, nie s¹dzisz?}
-{411}{}{Có¿, spróbujê siê rozejrzeæ za takim urz¹dzeniem.}
-{420}{}{Dobry pomys³. Jeœli go znajdziesz, przynieœ go do mnie. No i nie zapomnij o $2000.}
-{421}{}{Umowa stoi, Smitty. Chcê ciê jeszcze o coœ zapytaæ.}
-{422}{}{Najlepiej od razu zacznê szukaæ. Do widzenia.}
-{430}{}{Witaj, jak siê sprawuje twój samochód?}
-{431}{}{Ca³kiem nieŸle, Smitty. S³uchaj, nie wiesz, do czego mo¿e s³u¿yæ ta czêœæ samochodowa?}
-{432}{}{Wspaniale, Smitty, po prostu wspaniale. Hej, mam dla ciebie posi³ek. Pozdrowienia do Mamuœki.}
-{433}{}{W porz¹dku, Smitty. Trzymaj siê. Do zobaczenia.}
-{450}{}{No proszê, to jest regulator ogniw zasilaj¹cych. Powinien zmniejszyæ zu¿ycie paliwa. Mogê go dla ciebie zamontowaæ, za jakieœ... $750.}
-{451}{}{Umowa stoi, Smitty. Oto czêœæ i pieni¹dze.}
-{452}{}{Przemyœlê to sobie. Do zobaczenia.}
-{460}{}{G³ównie pilnujê ca³ego tego z³omu. I tak mam tu tylko jedn¹ rzecz wart¹ parê groszy.}
+{400}{}{Bo jakbym miaÅ‚ kontroler, to za $2000 odpicowaÅ‚bym dla ciebie ten KrÄ…Å¼ownik Szos Chrysalis Motors.}
+{401}{}{NaprawdÄ™? A gdzie mogÄ™ znaleÅºÄ‡ taki kontroler ogniw zasilajÄ…cych?}
+{410}{}{Co za niemÄ…dre pytanie! Gdybym wiedziaÅ‚ gdzie moÅ¼na znaleÅºÄ‡ takie cacko, sam bym juÅ¼ dawno jeÅºdziÅ‚ tym cudeÅ„kiem, nie sÄ…dzisz?}
+{411}{}{CÃ³Å¼, sprÃ³bujÄ™ siÄ™ rozejrzeÄ‡ za takim urzÄ…dzeniem.}
+{420}{}{Dobry pomysÅ‚. JeÅ›li go znajdziesz, przynieÅ› go do mnie. No i nie zapomnij o $2000.}
+{421}{}{Umowa stoi, Smitty. ChcÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{422}{}{Najlepiej od razu zacznÄ™ szukaÄ‡. Do widzenia.}
+{430}{}{Witaj, jak siÄ™ sprawuje twÃ³j samochÃ³d?}
+{431}{}{CaÅ‚kiem nieÅºle, Smitty. SÅ‚uchaj, nie wiesz, do czego moÅ¼e sÅ‚uÅ¼yÄ‡ ta czÄ™Å›Ä‡ samochodowa?}
+{432}{}{Wspaniale, Smitty, po prostu wspaniale. Hej, mam dla ciebie posiÅ‚ek. Pozdrowienia do MamuÅ›ki.}
+{433}{}{W porzÄ…dku, Smitty. Trzymaj siÄ™. Do zobaczenia.}
+{450}{}{No proszÄ™, to jest regulator ogniw zasilajÄ…cych. Powinien zmniejszyÄ‡ zuÅ¼ycie paliwa. MogÄ™ go dla ciebie zamontowaÄ‡, za jakieÅ›... $750.}
+{451}{}{Umowa stoi, Smitty. Oto czÄ™Å›Ä‡ i pieniÄ…dze.}
+{452}{}{PrzemyÅ›lÄ™ to sobie. Do zobaczenia.}
+{460}{}{GÅ‚Ã³wnie pilnujÄ™ caÅ‚ego tego zÅ‚omu. I tak mam tu tylko jednÄ… rzecz wartÄ… parÄ™ groszy.}
 {461}{}{Co to takiego?}
-{462}{}{No tak. Mogê ciê zapytaæ o coœ jeszcze?}
-{470}{}{No... mam tu autentyczny Kr¹¿ownik Szos firmy Chrysalis Motors. Reklamowali je has³em: "Nic nie zatrzyma Kr¹¿ownika Szos". Trzeba przyznaæ - ten wóz jest zbudowany jak czo³g.}
+{462}{}{No tak. MogÄ™ ciÄ™ zapytaÄ‡ o coÅ› jeszcze?}
+{470}{}{No... mam tu autentyczny KrÄ…Å¼ownik Szos firmy Chrysalis Motors. Reklamowali je hasÅ‚em: "Nic nie zatrzyma KrÄ…Å¼ownika Szos". Trzeba przyznaÄ‡ - ten wÃ³z jest zbudowany jak czoÅ‚g.}
 {471}{}{Niesamowite! Jest sprawny?}
-{480}{}{Myœlisz, ¿e siedzia³bym w tej œmierdz¹cej dziurze, gdyby by³ sprawny?}
+{480}{}{MyÅ›lisz, Å¼e siedziaÅ‚bym w tej Å›mierdzÄ…cej dziurze, gdyby byÅ‚ sprawny?}
 {481}{}{Tak.}
 {482}{}{Pewnie nie.}
-{490}{}{Có¿, pewnie masz racjê. Przyzwyczai³em siê ju¿ do tej dziury.}
+{490}{}{CÃ³Å¼, pewnie masz racjÄ™. PrzyzwyczaiÅ‚em siÄ™ juÅ¼ do tej dziury.}
 {491}{}{Rozumiem.}
-{500}{}{Có¿, chyba jednak tak. Polubi³em trochê tê dziurê.}
+{500}{}{CÃ³Å¼, chyba jednak tak. PolubiÅ‚em trochÄ™ tÄ™ dziurÄ™.}
 {501}{}{Rozumiem.}
-{510}{}{Ale chêtnie sprzedam ten wóz. Gdyby ktoœ przyniós³ mi akumulator - nie, czekaj, chyba potrzebujê raczej kontrolera ogniw zasilaj¹cych. Tak, gdybym mia³ coœ takiego, sprzeda³bym wóz za $2000. Instalacja kontrolera wliczona w cenê.}
-{511}{}{Brzmi interesuj¹co. Jeœli uda mi siê kiedyœ znaleŸæ taki kontroler, zg³oszê siê do ciebie. Mogê ciê jeszcze o coœ zapytaæ?}
-{512}{}{Odezwê siê jak ju¿ go znajdê. Do widzenia, Smitty.}
-{520}{}{Proszê bardzo. Jak nowy. Tylko ostro¿nie siê z nim obchodŸ.}
-{521}{}{Jasne. Dziêki, Smitty. Do zobaczenia.}
-{600}{}{TRZYMAJ SIÊ Z DALA OD MOJEGO SAMOCHODU!}
-{650}{}{I ¿ebym ciê ju¿ nigdy nie z³apa³ na w³óczeniu siê przy moim samochodzie.}
-{651}{}{Nie z³apiesz, obiecujê.}
+{510}{}{Ale chÄ™tnie sprzedam ten wÃ³z. Gdyby ktoÅ› przyniÃ³sÅ‚ mi akumulator - nie, czekaj, chyba potrzebujÄ™ raczej kontrolera ogniw zasilajÄ…cych. Tak, gdybym miaÅ‚ coÅ› takiego, sprzedaÅ‚bym wÃ³z za $2000. Instalacja kontrolera wliczona w cenÄ™.}
+{511}{}{Brzmi interesujÄ…co. JeÅ›li uda mi siÄ™ kiedyÅ› znaleÅºÄ‡ taki kontroler, zgÅ‚oszÄ™ siÄ™ do ciebie. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{512}{}{OdezwÄ™ siÄ™ jak juÅ¼ go znajdÄ™. Do widzenia, Smitty.}
+{520}{}{ProszÄ™ bardzo. Jak nowy. Tylko ostroÅ¼nie siÄ™ z nim obchodÅº.}
+{521}{}{Jasne. DziÄ™ki, Smitty. Do zobaczenia.}
+{600}{}{TRZYMAJ SIÄ˜ Z DALA OD MOJEGO SAMOCHODU!}
+{650}{}{I Å¼ebym ciÄ™ juÅ¼ nigdy nie zÅ‚apaÅ‚ na wÅ‚Ã³czeniu siÄ™ przy moim samochodzie.}
+{651}{}{Nie zÅ‚apiesz, obiecujÄ™.}
 {652}{}{Uggg-K.}

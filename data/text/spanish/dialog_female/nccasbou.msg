@@ -2,80 +2,80 @@
 {150}{}{Ves a un guardia del seguridad del casino. Y es GRANDE.}
 {151}{}{Ves a un guardia del seguridad del casino. Es grande... y parece enfadado.}
 {152}{}{Ves a un guardia del seguridad del casino. Te mira con sospecha.}
-{153}{}{Ves a un guardia del seguridad del casino. Creías que sólo los mutantes eran tan grandes.}
-{200}{}{Eh… debería quitarse esa armadura... bueno, no importa.}
-{201}{}{Eh, señor… o señora... debería quitarse esa armadura... eh, no importa.}
-{202}{}{Señor… señora... no puede llevar eso en el casino... eh, salvo que realmente quiera. No importa.}
-{205}{}{Eh, ¿por qué está andando a hurtadillas, señor?}
-{206}{}{Eh, ¿va de incógnito, señor?}
-{210}{}{Eh, ¿por qué está andando a hurtadillas, señora?}
-{211}{}{Eh, ¿va de incógnito, señora?}
-{215}{}{Buenas tardes, señor.}
-{216}{}{Qué hay, señor.}
-{220}{}{Buenas tardes, señora.}
-{221}{}{Qué hay, señora.}
-{225}{}{Buenos días, señor.}
-{230}{}{Buenos días, señora.}
-{235}{}{Amigo, estás entrando en el casino equivocado.}
-{236}{}{Será mejor que te vayas. Ahora.}
-{237}{}{Este no es lugar para jugar con la vida de uno. Será mejor que te marches.}
-{240}{}{Zorra, estás entrando en el casino equivocado.}
-{241}{}{Será mejor que te vayas. Ahora.}
-{242}{}{Este no es lugar para jugar con la vida de uno. Será mejor que te marches.}
-{245}{}{Señor, lo siento, tendrá que guardar ese arma.}
-{250}{}{Señora, lo siento, tendrá que guardar ese arma.}
-{255}{}{Cariño, lo siento, pero no puedes llevar armas en el casino. Je-je... ya eres lo bastante letal así.}
-{260}{}{Cariño, con un cuerpo como ese, no podrás andar a hurtadillas por ninguna parte.}
-{265}{}{Tribal, será mejor que guardes ese arma AHORA mismo.}
-{270}{}{Tribal, será mejor que dejes esa mierda de andar a hurtadillas AHORA mismo.}
-{275}{}{Hey, hey… ¡Myron! Hace mucho tiempo que no te veía fuera del laboratorio.}
-{276}{}{¿Estás aquí para probar alguna nueva mercancía, Myron?}
-{277}{}{¡Hey! Entra, Myron.}
-{280}{}{Nada de mutantes. Tendrá que esperar fuera.}
-{281}{}{Mantén a tu mascota en el exterior, amante de mutantes.}
-{282}{}{Ese monstruo mutante no está permitido aquí.}
+{153}{}{Ves a un guardia del seguridad del casino. CreÃ­as que sÃ³lo los mutantes eran tan grandes.}
+{200}{}{Ehâ€¦ deberÃ­a quitarse esa armadura... bueno, no importa.}
+{201}{}{Eh, seÃ±orâ€¦ o seÃ±ora... deberÃ­a quitarse esa armadura... eh, no importa.}
+{202}{}{SeÃ±orâ€¦ seÃ±ora... no puede llevar eso en el casino... eh, salvo que realmente quiera. No importa.}
+{205}{}{Eh, Â¿por quÃ© estÃ¡ andando a hurtadillas, seÃ±or?}
+{206}{}{Eh, Â¿va de incÃ³gnito, seÃ±or?}
+{210}{}{Eh, Â¿por quÃ© estÃ¡ andando a hurtadillas, seÃ±ora?}
+{211}{}{Eh, Â¿va de incÃ³gnito, seÃ±ora?}
+{215}{}{Buenas tardes, seÃ±or.}
+{216}{}{QuÃ© hay, seÃ±or.}
+{220}{}{Buenas tardes, seÃ±ora.}
+{221}{}{QuÃ© hay, seÃ±ora.}
+{225}{}{Buenos dÃ­as, seÃ±or.}
+{230}{}{Buenos dÃ­as, seÃ±ora.}
+{235}{}{Amigo, estÃ¡s entrando en el casino equivocado.}
+{236}{}{SerÃ¡ mejor que te vayas. Ahora.}
+{237}{}{Este no es lugar para jugar con la vida de uno. SerÃ¡ mejor que te marches.}
+{240}{}{Zorra, estÃ¡s entrando en el casino equivocado.}
+{241}{}{SerÃ¡ mejor que te vayas. Ahora.}
+{242}{}{Este no es lugar para jugar con la vida de uno. SerÃ¡ mejor que te marches.}
+{245}{}{SeÃ±or, lo siento, tendrÃ¡ que guardar ese arma.}
+{250}{}{SeÃ±ora, lo siento, tendrÃ¡ que guardar ese arma.}
+{255}{}{CariÃ±o, lo siento, pero no puedes llevar armas en el casino. Je-je... ya eres lo bastante letal asÃ­.}
+{260}{}{CariÃ±o, con un cuerpo como ese, no podrÃ¡s andar a hurtadillas por ninguna parte.}
+{265}{}{Tribal, serÃ¡ mejor que guardes ese arma AHORA mismo.}
+{270}{}{Tribal, serÃ¡ mejor que dejes esa mierda de andar a hurtadillas AHORA mismo.}
+{275}{}{Hey, heyâ€¦ Â¡Myron! Hace mucho tiempo que no te veÃ­a fuera del laboratorio.}
+{276}{}{Â¿EstÃ¡s aquÃ­ para probar alguna nueva mercancÃ­a, Myron?}
+{277}{}{Â¡Hey! Entra, Myron.}
+{280}{}{Nada de mutantes. TendrÃ¡ que esperar fuera.}
+{281}{}{MantÃ©n a tu mascota en el exterior, amante de mutantes.}
+{282}{}{Ese monstruo mutante no estÃ¡ permitido aquÃ­.}
 {285}{}{Nada de droides.}
 {286}{}{No servimos a droides.}
 {287}{}{Nada de droides. Que espere fuera.}
-{290}{}{Bienvenido al casino, señor.}
-{291}{}{Como la seda, señor.}
-{292}{}{Sin problemas hoy, señor.}
-{293}{}{Eh, ¿hay algún problema, señor? ¿O sólo está de visita?}
-{294}{}{Tommy Pelotas envía sus saludos.}
-{295}{}{¿Le hablará bien al jefe de mí?}
-{296}{}{Bienvenido al casino, señora.}
-{297}{}{Como la seda, señora.}
-{298}{}{Sin problemas hoy, señora.}
-{299}{}{Eh, ¿hay algún problema, señora? ¿O sólo está de visita?}
-{310}{}{Bienvenido al casino, señor.}
-{311}{}{Como la seda, señor.}
-{312}{}{¿Cuando es su próximo combate, señor?}
-{315}{}{Bienvenido al casino, señora.}
-{316}{}{Como la seda, señora.}
-{317}{}{¿Cuando es su próximo combate, señora?}
-{320}{}{¿Cuándo vas a pasar por aquí a verme?}
-{321}{}{¡Hey, bienvenida al casino! ¿Bailarás esta noche?}
+{290}{}{Bienvenido al casino, seÃ±or.}
+{291}{}{Como la seda, seÃ±or.}
+{292}{}{Sin problemas hoy, seÃ±or.}
+{293}{}{Eh, Â¿hay algÃºn problema, seÃ±or? Â¿O sÃ³lo estÃ¡ de visita?}
+{294}{}{Tommy Pelotas envÃ­a sus saludos.}
+{295}{}{Â¿Le hablarÃ¡ bien al jefe de mÃ­?}
+{296}{}{Bienvenido al casino, seÃ±ora.}
+{297}{}{Como la seda, seÃ±ora.}
+{298}{}{Sin problemas hoy, seÃ±ora.}
+{299}{}{Eh, Â¿hay algÃºn problema, seÃ±ora? Â¿O sÃ³lo estÃ¡ de visita?}
+{310}{}{Bienvenido al casino, seÃ±or.}
+{311}{}{Como la seda, seÃ±or.}
+{312}{}{Â¿Cuando es su prÃ³ximo combate, seÃ±or?}
+{315}{}{Bienvenido al casino, seÃ±ora.}
+{316}{}{Como la seda, seÃ±ora.}
+{317}{}{Â¿Cuando es su prÃ³ximo combate, seÃ±ora?}
+{320}{}{Â¿CuÃ¡ndo vas a pasar por aquÃ­ a verme?}
+{321}{}{Â¡Hey, bienvenida al casino! Â¿BailarÃ¡s esta noche?}
 {322}{}{Eres mortal, dulzura.}
-{323}{}{La Dama fortuna va a tener celos si sigues viniendo por aquí.}
-{324}{}{He oído que Tommy Pelotas quiere ofrecerte una proyección privada.}
+{323}{}{La Dama fortuna va a tener celos si sigues viniendo por aquÃ­.}
+{324}{}{He oÃ­do que Tommy Pelotas quiere ofrecerte una proyecciÃ³n privada.}
 {330}{}{El casino es en el interior. No hables conmigo.}
-{331}{}{El casino es en el INTERIOR. IN-TERIOR. Estúpidos tribales.}
+{331}{}{El casino es en el INTERIOR. IN-TERIOR. EstÃºpidos tribales.}
 {335}{}{Ve a tocarle las narices a otro, tribal.}
-{336}{}{El casino es en el INTERIOR. IN-TERIOR. Estúpidos tribales.}
-{337}{}{No busco ningún culo tribal ahora mismo. Lárgate.}
+{336}{}{El casino es en el INTERIOR. IN-TERIOR. EstÃºpidos tribales.}
+{337}{}{No busco ningÃºn culo tribal ahora mismo. LÃ¡rgate.}
 {338}{}{Desaparece, cara de culo. Estoy trabajando.}
-{339}{}{Ve a ladrarle a alguien que esté más borracho que yo, cara de perro.}
+{339}{}{Ve a ladrarle a alguien que estÃ© mÃ¡s borracho que yo, cara de perro.}
 {345}{}{Se supone que no puedo charlar estando de servicio, pero me alegra que le patearas el culo al Enclave.}
-{346}{}{Lo has hecho muy bien. Descansa de lo de salvar al mundo, y diviértete un poco.}
-{347}{}{Te oído que Tommy Pelotas te está buscando. Cuidado.}
+{346}{}{Lo has hecho muy bien. Descansa de lo de salvar al mundo, y diviÃ©rtete un poco.}
+{347}{}{Te oÃ­do que Tommy Pelotas te estÃ¡ buscando. Cuidado.}
 {350}{}{Tienes las pelotas bien grandes para haber eliminado al Enclave de esa forma.}
-{351}{}{Seguro que cargarse al Enclave como tú hiciste requiere más pelotas que todo Nuevo Reno junto.}
+{351}{}{Seguro que cargarse al Enclave como tÃº hiciste requiere mÃ¡s pelotas que todo Nuevo Reno junto.}
 {352}{}{Descalabrar al Enclave te hace casi un tipo tan duro como Tommy Pelotas.}
 {353}{}{Se supone que no puedo charlar estando de servicio, pero me alegra que le patearas el culo al Enclave.}
-{354}{}{Lo has hecho muy bien. Descansa de lo de salvar al mundo, y diviértete un poco.}
-{355}{}{Tienes las pelotas bien grandes para haber eliminado al Enclave de esa forma. Bueno, no PELOTAS, per se, pero ya sabes a qué me refiero.}
-{356}{}{Cariño, seguro que cargarse al Enclave como tú hiciste requiere más pelotas que todo Nuevo Reno junto.}
-{357}{}{¿Crees que te podrías interesar en un tipo como yo? Quiero decir, no soy de los que salvan al mundo, pero soy bastante fuerte y tengo buen corazón.}
-{360}{}{Si ese necrófago entra aquí, va a morir dos veces.}
-{361}{}{El necrófago se queda fuera.}
-{362}{}{No permitimos necrófagos aquí. Llévalo de vuelta a Gecko, donde pertenecen los de su clase.}
+{354}{}{Lo has hecho muy bien. Descansa de lo de salvar al mundo, y diviÃ©rtete un poco.}
+{355}{}{Tienes las pelotas bien grandes para haber eliminado al Enclave de esa forma. Bueno, no PELOTAS, per se, pero ya sabes a quÃ© me refiero.}
+{356}{}{CariÃ±o, seguro que cargarse al Enclave como tÃº hiciste requiere mÃ¡s pelotas que todo Nuevo Reno junto.}
+{357}{}{Â¿Crees que te podrÃ­as interesar en un tipo como yo? Quiero decir, no soy de los que salvan al mundo, pero soy bastante fuerte y tengo buen corazÃ³n.}
+{360}{}{Si ese necrÃ³fago entra aquÃ­, va a morir dos veces.}
+{361}{}{El necrÃ³fago se queda fuera.}
+{362}{}{No permitimos necrÃ³fagos aquÃ­. LlÃ©valo de vuelta a Gecko, donde pertenecen los de su clase.}

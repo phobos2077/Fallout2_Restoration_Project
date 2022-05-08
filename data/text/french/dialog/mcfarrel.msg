@@ -1,68 +1,68 @@
-{100}{}{Tu vois un vieil homme. Comparé à lui, un pruneau a l'air moins fripé.}
+{100}{}{Tu vois un vieil homme. ComparÃ© Ã  lui, un pruneau a l'air moins fripÃ©.}
 {101}{}{Tu vois Farrel.}
-{102}{}{A chacun de ses mouvements, on entend des craquements de brindilles sèches.}
-{150}{}{Hé, bas les pattes !}
-{151}{}{Arrête ça! }
+{102}{}{A chacun de ses mouvements, on entend des craquements de brindilles sÃ¨ches.}
+{150}{}{HÃ©, bas les pattes !}
+{151}{}{ArrÃªte Ã§a! }
 {152}{}{Au voleur !}
-{153}{}{Je l'ai pas volée la montre, alors arrêtez de venir ici et de harceler le vieux Farrel !}
-{154}{}{Cornélius affirme que tu as volé sa montre en or.}
-{155}{}{Où as-tu eu l'argent pour acheter de nouveaux outils ?}
+{153}{}{Je l'ai pas volÃ©e la montre, alors arrÃªtez de venir ici et de harceler le vieux Farrel !}
+{154}{}{CornÃ©lius affirme que tu as volÃ© sa montre en or.}
+{155}{}{OÃ¹ as-tu eu l'argent pour acheter de nouveaux outils ?}
 {156}{}{Que peux-tu me dire sur Modoc ?}
 {157}{}{Que fais-tu dans le coin ?}
 {158}{}{Une montre ? De quoi parles-tu ?}
 {159}{}{Qu'y a-t-il encore ?!}
 {162}{}{Que caches-tu dans ce coffre-fort mural ?}
 {165}{}{Peux-tu m'emmener dans ton jardin ?}
-{166}{}{J'ai éliminé la vermine de ton jardin.}
-{167}{}{Tu as parlé d'une montre tout à l'heure.}
-{168}{}{C'est ça la montre que tu cherches ?}
+{166}{}{J'ai Ã©liminÃ© la vermine de ton jardin.}
+{167}{}{Tu as parlÃ© d'une montre tout Ã  l'heure.}
+{168}{}{C'est Ã§a la montre que tu cherches ?}
 {169}{}{Bestioles poilues mortes !}
 {170}{}{Jar - din ?}
-{171}{}{Encore ! Mais combien de gens Cornélius va-t-il m'envoyer pour trouver sa montre ? Je n'ai rien fait ! En fait, je suis probablement victime du même voleur. A peu près au même moment où on a volé sa montre, on m'a volé des outils. Mais je suis certain que tu ne me croiras pas, alors tu peux chercher ici si tu veux, sinon tu ne partiras jamais. Allez, fais ce que tu as à faire.}
-{172}{}{Je vais quand même jeter un oeil.}
-{173}{}{C'est Miria qui te l'a dit ? Je devrais lui coller une bonne fessée pour lui apprendre à faire courir des rumeurs. Ecoute, je suis peut-être pauvre, mais j'ai ma fierté. J'ai aidé un des marchands à réparer son wagon et il m'a donné des outils en échange.}
+{171}{}{Encore ! Mais combien de gens CornÃ©lius va-t-il m'envoyer pour trouver sa montre ? Je n'ai rien fait ! En fait, je suis probablement victime du mÃªme voleur. A peu prÃ¨s au mÃªme moment oÃ¹ on a volÃ© sa montre, on m'a volÃ© des outils. Mais je suis certain que tu ne me croiras pas, alors tu peux chercher ici si tu veux, sinon tu ne partiras jamais. Allez, fais ce que tu as Ã  faire.}
+{172}{}{Je vais quand mÃªme jeter un oeil.}
+{173}{}{C'est Miria qui te l'a dit ? Je devrais lui coller une bonne fessÃ©e pour lui apprendre Ã  faire courir des rumeurs. Ecoute, je suis peut-Ãªtre pauvre, mais j'ai ma fiertÃ©. J'ai aidÃ© un des marchands Ã  rÃ©parer son wagon et il m'a donnÃ© des outils en Ã©change.}
 {174}{}{Avoue-le, tu es coupable !}
 {175}{}{Quelle preuve as-tu que ce que tu dis est vrai ?}
-{176}{}{Tu ne penses quand même pas que je vais croire ça ?}
-{177}{}{Mon honneur est une preuve suffisante. Je n'ai rien à dire de plus.}
-{178}{}{Si tu ne l'as pas prise, alors qui l'a volée ?}
-{179}{}{Je suppose que c'est un voleur qui passait par notre ville, il a pris la montre et il doit être loin maintenant. Encore que je n'arrive vraiment pas à comprendre pourquoi il se serait intéressé à mes outils.}
-{180}{}{Tu ne penses quand même pas que je vais croire ça ?}
-{181}{}{Non, mais comme je sais que c'est pas moi le coupable, c'est la seule théorie que j'ai à proposer.}
+{176}{}{Tu ne penses quand mÃªme pas que je vais croire Ã§a ?}
+{177}{}{Mon honneur est une preuve suffisante. Je n'ai rien Ã  dire de plus.}
+{178}{}{Si tu ne l'as pas prise, alors qui l'a volÃ©e ?}
+{179}{}{Je suppose que c'est un voleur qui passait par notre ville, il a pris la montre et il doit Ãªtre loin maintenant. Encore que je n'arrive vraiment pas Ã  comprendre pourquoi il se serait intÃ©ressÃ© Ã  mes outils.}
+{180}{}{Tu ne penses quand mÃªme pas que je vais croire Ã§a ?}
+{181}{}{Non, mais comme je sais que c'est pas moi le coupable, c'est la seule thÃ©orie que j'ai Ã  proposer.}
 {182}{}{Puis-je te poser encore quelques questions ?}
 {183}{}{Ha ! Si tu me crois tellement coupable, pourquoi ne me tires-tu pas dessus pour en finir ? Sale petite crapule, viens ici et essaie de m'attraper !}
-{184}{}{Comment las-tu trouvé ? J'avais caché ce coffre pour que personne ne le trouve. Tu dois être un voleur professionnel. Hmm... Où étais-tu quand la montre en or a disparu ? Je crois que tu devrais partir et il serait préférable qu'il ne manque rien dans le coffre ou j'appellerai le Shérif Jo. Allez, fiche-moi le camp !}
-{185}{}{Modoc est une petite communauté de fermiers et d'éleveurs. Nous fournissons la majeure partie de la nourriture des villes avoisinantes en vendant nos récoltes en échange de certaines denrées. En fait, c'est un bon arrangement. Mais la sécheresse pourrait bouleverser tout ça. Nous avons à peine de quoi subsister, alors il n'est pas question de vendre quoi que ce soit.}
-{187}{}{Eh bien, je bricole dans le jardin, j'essaie de faire pousser ces sacrées plantes sans eau. Mais maintenant ce n'est plus possible car j'ai été envahi par ce truc énorme et je n'arrive pas à m'en débarrasser. Et en plus, personne ne veut m'aider parce qu'ils croient que j'ai volé la montre en or de Cornélius.}
-{188}{}{Eh bien, je bricole dans le jardin, j'essaie de faire pousser ces sacrées plantes sans eau. Mais maintenant ce n'est plus possible car j'ai été envahi par ce truc énorme et je n'arrive pas à m'en débarrasser. Sans les produits de mon jardin, je vais finir par mourir de faim, c'est sûr.}
+{184}{}{Comment las-tu trouvÃ© ? J'avais cachÃ© ce coffre pour que personne ne le trouve. Tu dois Ãªtre un voleur professionnel. Hmm... OÃ¹ Ã©tais-tu quand la montre en or a disparu ? Je crois que tu devrais partir et il serait prÃ©fÃ©rable qu'il ne manque rien dans le coffre ou j'appellerai le ShÃ©rif Jo. Allez, fiche-moi le camp !}
+{185}{}{Modoc est une petite communautÃ© de fermiers et d'Ã©leveurs. Nous fournissons la majeure partie de la nourriture des villes avoisinantes en vendant nos rÃ©coltes en Ã©change de certaines denrÃ©es. En fait, c'est un bon arrangement. Mais la sÃ©cheresse pourrait bouleverser tout Ã§a. Nous avons Ã  peine de quoi subsister, alors il n'est pas question de vendre quoi que ce soit.}
+{187}{}{Eh bien, je bricole dans le jardin, j'essaie de faire pousser ces sacrÃ©es plantes sans eau. Mais maintenant ce n'est plus possible car j'ai Ã©tÃ© envahi par ce truc Ã©norme et je n'arrive pas Ã  m'en dÃ©barrasser. Et en plus, personne ne veut m'aider parce qu'ils croient que j'ai volÃ© la montre en or de CornÃ©lius.}
+{188}{}{Eh bien, je bricole dans le jardin, j'essaie de faire pousser ces sacrÃ©es plantes sans eau. Mais maintenant ce n'est plus possible car j'ai Ã©tÃ© envahi par ce truc Ã©norme et je n'arrive pas Ã  m'en dÃ©barrasser. Sans les produits de mon jardin, je vais finir par mourir de faim, c'est sÃ»r.}
 {189}{}{Je peux t'aider, si tu paies.}
 {190}{}{Je serai heureux de pouvoir t'aider.}
-{191}{}{Avoue quetu as volé la montre et je t'aiderai.}
-{193}{}{Mais regarde donc ! Je ne suis qu'un pauvre vieux ! J'arrive tout juste à me nourrir, alors comment veux-tu que je te paie ?}
-{194}{}{Je serai quand même heureux de t'aider.}
+{191}{}{Avoue quetu as volÃ© la montre et je t'aiderai.}
+{193}{}{Mais regarde donc ! Je ne suis qu'un pauvre vieux ! J'arrive tout juste Ã  me nourrir, alors comment veux-tu que je te paie ?}
+{194}{}{Je serai quand mÃªme heureux de t'aider.}
 {195}{}{Eh bien tant pis, je ne peux rien faire pour toi.}
-{196}{}{Ce serait merveilleux. Je ne te remercierai jamais assez. Mon jardin est un peu plus loin à l'Est. Viens avec moi, je vais te montrer.}
-{197}{}{Merci, tu fais vraiment partie de mes héros ! Bien peu de gens risqueraient leur vie pour un inconnu. Merci ! Mille fois merci ! [Tu as alors une étrange sensation qui te parcourt le corps jusqu'au bout des orteils.]}
+{196}{}{Ce serait merveilleux. Je ne te remercierai jamais assez. Mon jardin est un peu plus loin Ã  l'Est. Viens avec moi, je vais te montrer.}
+{197}{}{Merci, tu fais vraiment partie de mes hÃ©ros ! Bien peu de gens risqueraient leur vie pour un inconnu. Merci ! Mille fois merci ! [Tu as alors une Ã©trange sensation qui te parcourt le corps jusqu'au bout des orteils.]}
 {198}{}{Puis-je vous poser encore quelques questions ?}
-{199}{}{Je préférerais crever de faim plutôt que de ternir ma réputation ! Va au diable !}
-{200}{}{Tout le monde m'accuse d'avoir volé la montre en or de mon meilleur ami Cornélius. Nous sommes amis depuis tellement longtemps, je n'aurais jamais pu lui faire ça. J'ai cherché partout en espérant la trouver pour que nous puissions redevenir amis. Mais je n'ai pas eu cette chance.}
+{199}{}{Je prÃ©fÃ©rerais crever de faim plutÃ´t que de ternir ma rÃ©putation ! Va au diable !}
+{200}{}{Tout le monde m'accuse d'avoir volÃ© la montre en or de mon meilleur ami CornÃ©lius. Nous sommes amis depuis tellement longtemps, je n'aurais jamais pu lui faire Ã§a. J'ai cherchÃ© partout en espÃ©rant la trouver pour que nous puissions redevenir amis. Mais je n'ai pas eu cette chance.}
 {201}{}{Je serai dans le coin pendant un moment. Si je trouve quelque chose, je te tiendrai au courant.}
 {202}{}{C'est vraiment dommage. Puis-je te poser encore quelques questions ?}
-{203}{}{Vraiment, tu ferais ça ? Personne ne veut m'aider parce qu'ils croient tous que j'ai volé la montre. Pour une fois, ce serait bien d'avoir quelqu'un de mon côté. J'ai déjà demandé à tout le monde, ça ne coûte rien de leur demander encore une fois. Peut-être qu'ils te diront des choses qu'ils n'ont pas voulu me dire. Tu pourrais aussi aller faire un tour à l'Auberge de Rose. Cornélius a la réputation de mettre les choses n'importe où et d'oublier ce qu'il en a fait deux minutes après.}
-{205}{}{Fais voir ! Mais oui, c'est ça !! Tu dis qu'un rat vivant dans les égouts l'avait volée !? Et il t'a fallu descendre là-dedans pour la récupérer ?! Pffouii !! Je vais tout de suite aller la donner à Cornélius. Nous pourrons redevenir amis. Merci !}
-{206}{}{Dis-moi, aimerais-tu rendre un petit service au vieux Farrel ? J'ai ce problème de vermine qui envahit mon jardin. Débarrasse-moi de ces saletés et je te récompenserai bien.}
+{203}{}{Vraiment, tu ferais Ã§a ? Personne ne veut m'aider parce qu'ils croient tous que j'ai volÃ© la montre. Pour une fois, ce serait bien d'avoir quelqu'un de mon cÃ´tÃ©. J'ai dÃ©jÃ  demandÃ© Ã  tout le monde, Ã§a ne coÃ»te rien de leur demander encore une fois. Peut-Ãªtre qu'ils te diront des choses qu'ils n'ont pas voulu me dire. Tu pourrais aussi aller faire un tour Ã  l'Auberge de Rose. CornÃ©lius a la rÃ©putation de mettre les choses n'importe oÃ¹ et d'oublier ce qu'il en a fait deux minutes aprÃ¨s.}
+{205}{}{Fais voir ! Mais oui, c'est Ã§a !! Tu dis qu'un rat vivant dans les Ã©gouts l'avait volÃ©e !? Et il t'a fallu descendre lÃ -dedans pour la rÃ©cupÃ©rer ?! Pffouii !! Je vais tout de suite aller la donner Ã  CornÃ©lius. Nous pourrons redevenir amis. Merci !}
+{206}{}{Dis-moi, aimerais-tu rendre un petit service au vieux Farrel ? J'ai ce problÃ¨me de vermine qui envahit mon jardin. DÃ©barrasse-moi de ces saletÃ©s et je te rÃ©compenserai bien.}
 {207}{}{Non, non, non... moi pas vouloir faire.}
 {208}{}{Voui.}
 {209}{}{A' revoir !}
-{210}{}{Alors, dégage, pauv' tâche !}
-{211}{}{C'est très gentil de ta part, mon bon monsieur. [Il te prend la main et te guide vers le jardin.] Je ne voudrais pas que tu te perdes. Reviens me voir lorsque tu auras tué ces sales bestioles.}
-{212}{}{Ma très chère et gentille dame. Tu es si douce pour un vieillard. [Il te prend la main et te guide vers le jardin]. Je ne voudrais pas que tu te perdes. Reviens me voir lorsque tu auras tué ces sales bestioles.}
-{213}{}{Fantastique ! Voici ta récompense ! [Il fouille dans son pantalon et en extrait un biscuit à moitié mangé.] Allez maintenant, sois un gentil néandertal, prends ton biscuit et va jouer dehors.}
-{300}{}{Je vais tuer ce bâtard.}
+{210}{}{Alors, dÃ©gage, pauv' tÃ¢che !}
+{211}{}{C'est trÃ¨s gentil de ta part, mon bon monsieur. [Il te prend la main et te guide vers le jardin.] Je ne voudrais pas que tu te perdes. Reviens me voir lorsque tu auras tuÃ© ces sales bestioles.}
+{212}{}{Ma trÃ¨s chÃ¨re et gentille dame. Tu es si douce pour un vieillard. [Il te prend la main et te guide vers le jardin]. Je ne voudrais pas que tu te perdes. Reviens me voir lorsque tu auras tuÃ© ces sales bestioles.}
+{213}{}{Fantastique ! Voici ta rÃ©compense ! [Il fouille dans son pantalon et en extrait un biscuit Ã  moitiÃ© mangÃ©.] Allez maintenant, sois un gentil nÃ©andertal, prends ton biscuit et va jouer dehors.}
+{300}{}{Je vais tuer ce bÃ¢tard.}
 {301}{}{Je le hais....}
 {302}{}{<Grrr...>}
-{501}{}{Je l'ai pas volée ta sale montre !}
+{501}{}{Je l'ai pas volÃ©e ta sale montre !}
 {502}{}{C'est pas moi, je te dis !}
-{503}{}{Tu ne pourras même pas atteindre le mur d'une grange !}
-{550}{}{Il ne prête pas attention à ce que tu dis.}
-{600}{}{Tu as pacifiquement résolu l'hostilité entre Farrel et Cornélius.}
+{503}{}{Tu ne pourras mÃªme pas atteindre le mur d'une grange !}
+{550}{}{Il ne prÃªte pas attention Ã  ce que tu dis.}
+{600}{}{Tu as pacifiquement rÃ©solu l'hostilitÃ© entre Farrel et CornÃ©lius.}

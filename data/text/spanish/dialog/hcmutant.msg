@@ -1,59 +1,59 @@
 {100}{}{Ves a un viejo mutante.}
 {101}{}{Ves a un viejo mutante, un residente de Broken Hills.}
-{102}{}{Al examinarlo más de cerca, ves a un mutante envejecido. La fuerza de los músculos del mutante aún es
+{102}{}{Al examinarlo mÃ¡s de cerca, ves a un mutante envejecido. La fuerza de los mÃºsculos del mutante aÃºn es
  visible, al igual que el orgullo implica su presencia.}
-{103}{}{Creo… que… el gas radón mantiene jóvenes a los mineros.}
-{104}{}{Estoy perdiendo mis recuerdos… todo vuelve a mí… espera…}
-{105}{}{¿Has oído hablar de que los humanos están conspirando para matarnos?}
-{106}{}{Ojalá fuéramos más aceptados por los humanos. A nuestra manera, también nosotros lo somos.}
-{107}{}{¿Cómo va todo por el mundo exterior? Uno no se entera de mucho estos días.}
-{108}{}{Alguien dijo que fue el VEF lo que nos está haciendo seniles.}
-{109}{}{Todo parece desvanecerse. Yo era fuerte y rápido... ahora parece que soy poco más
+{103}{}{Creoâ€¦ queâ€¦ el gas radÃ³n mantiene jÃ³venes a los mineros.}
+{104}{}{Estoy perdiendo mis recuerdosâ€¦ todo vuelve a mÃ­â€¦ esperaâ€¦}
+{105}{}{Â¿Has oÃ­do hablar de que los humanos estÃ¡n conspirando para matarnos?}
+{106}{}{OjalÃ¡ fuÃ©ramos mÃ¡s aceptados por los humanos. A nuestra manera, tambiÃ©n nosotros lo somos.}
+{107}{}{Â¿CÃ³mo va todo por el mundo exterior? Uno no se entera de mucho estos dÃ­as.}
+{108}{}{Alguien dijo que fue el VEF lo que nos estÃ¡ haciendo seniles.}
+{109}{}{Todo parece desvanecerse. Yo era fuerte y rÃ¡pido... ahora parece que soy poco mÃ¡s
  que un humano.}
-{110}{}{¿Qué importa la vida cuando de todas formas todo termina?}
-{132}{}{¿Quién soltó a esos perros? ¡Los aplastaré!}
-{133}{}{Franc y Manson harían bien en quedarse escondidos… si los atrapo, aplastaré sus cráneos con mis manos desnudas.}
+{110}{}{Â¿QuÃ© importa la vida cuando de todas formas todo termina?}
+{132}{}{Â¿QuiÃ©n soltÃ³ a esos perros? Â¡Los aplastarÃ©!}
+{133}{}{Franc y Manson harÃ­an bien en quedarse escondidosâ€¦ si los atrapo, aplastarÃ© sus crÃ¡neos con mis manos desnudas.}
 {134}{}{Franc. Manson. Escoria andante.}
-{135}{}{Esos pequeños hijos de su madre son libres para matar de nuevo, ¿eh?}
-{136}{}{Debemos organizar un equipo de búsquedas para esos dos.}
-{137}{}{No voy a conciliar el sueño hasta que esos monstruos estén muertos.}
-{138}{}{Allá va toda sensación de seguridad.}
-{139}{}{Bueno… ummm… ¿quién eras?}
-{140}{}{¿Franc y Manson se van a comportar? Eso es un brindis al sol como no he visto otro.}
-{141}{}{No te vamos a estar muy agradecidos si esos dos gilipollas causan más problemas, como te imaginarás.}
-{142}{}{De acuerdo… estoy dispuesto a darles una oportunidad a esos dos cabronazos…}
-{143}{}{¿Cómo puedo llegar a casa?}
-{144}{}{¿No acabo de hablar contigo?}
-{145}{}{No voy a conciliar el sueño hasta que esos monstruos estén muertos.}
-{146}{}{Allá va toda sensación de seguridad.}
-{147}{}{Bueno… ummm… ¿quién eras?}
-{148}{}{¡Lo sabía! Sabía que esos montones de mierda la tenían tomada con nosotros!}
-{149}{}{Nunca confié en ese bastardo de Jacob.}
-{150}{}{Entonces… los humanos intentan matarnos. Quizá los matemos a ellos en su lugar.}
-{151}{}{No todos los humanos están haciendo esto, ¿verdad?}
-{152}{}{Vaya, vaya, vaya… ¿más artimañas humanas?}
-{153}{}{Pierdo más a cada día que pasa… mis recuerdos y mi fe en la humanidad se han ido hoy.}
+{135}{}{Esos pequeÃ±os hijos de su madre son libres para matar de nuevo, Â¿eh?}
+{136}{}{Debemos organizar un equipo de bÃºsquedas para esos dos.}
+{137}{}{No voy a conciliar el sueÃ±o hasta que esos monstruos estÃ©n muertos.}
+{138}{}{AllÃ¡ va toda sensaciÃ³n de seguridad.}
+{139}{}{Buenoâ€¦ ummmâ€¦ Â¿quiÃ©n eras?}
+{140}{}{Â¿Franc y Manson se van a comportar? Eso es un brindis al sol como no he visto otro.}
+{141}{}{No te vamos a estar muy agradecidos si esos dos gilipollas causan mÃ¡s problemas, como te imaginarÃ¡s.}
+{142}{}{De acuerdoâ€¦ estoy dispuesto a darles una oportunidad a esos dos cabronazosâ€¦}
+{143}{}{Â¿CÃ³mo puedo llegar a casa?}
+{144}{}{Â¿No acabo de hablar contigo?}
+{145}{}{No voy a conciliar el sueÃ±o hasta que esos monstruos estÃ©n muertos.}
+{146}{}{AllÃ¡ va toda sensaciÃ³n de seguridad.}
+{147}{}{Buenoâ€¦ ummmâ€¦ Â¿quiÃ©n eras?}
+{148}{}{Â¡Lo sabÃ­a! SabÃ­a que esos montones de mierda la tenÃ­an tomada con nosotros!}
+{149}{}{Nunca confiÃ© en ese bastardo de Jacob.}
+{150}{}{Entoncesâ€¦ los humanos intentan matarnos. QuizÃ¡ los matemos a ellos en su lugar.}
+{151}{}{No todos los humanos estÃ¡n haciendo esto, Â¿verdad?}
+{152}{}{Vaya, vaya, vayaâ€¦ Â¿mÃ¡s artimaÃ±as humanas?}
+{153}{}{Pierdo mÃ¡s a cada dÃ­a que pasaâ€¦ mis recuerdos y mi fe en la humanidad se han ido hoy.}
 {154}{}{Eres bueno, lo eres.}
-{162}{}{Francis está impresionado. Yo también.}
-{163}{}{¿Cómo puede un humano batir a un mutante en un pulso? ¿Hiciste trampas?}
-{164}{}{¿Y cómo vas a utilizar tu nuevo premio?}
+{162}{}{Francis estÃ¡ impresionado. Yo tambiÃ©n.}
+{163}{}{Â¿CÃ³mo puede un humano batir a un mutante en un pulso? Â¿Hiciste trampas?}
+{164}{}{Â¿Y cÃ³mo vas a utilizar tu nuevo premio?}
 {165}{}{Fuerte. Fuerte.}
 {166}{}{En cuanto pruebas a un muti, ya no quieres otra cosa.}
-{167}{}{He oído que tuviste lo tuyo... con Francis.}
-{168}{}{Me sorprende que aún puedas caminar.}
-{169}{}{Ja… ¡Francis puede estar mayor, pero aún tiene lo que hay que tener!}
+{167}{}{He oÃ­do que tuviste lo tuyo... con Francis.}
+{168}{}{Me sorprende que aÃºn puedas caminar.}
+{169}{}{Jaâ€¦ Â¡Francis puede estar mayor, pero aÃºn tiene lo que hay que tener!}
 {170}{}{Esa pobre gente.}
-{171}{}{Estar atrapado bajo tierra…}
-{172}{}{Y entonces lo dije, dije, "Jacob y Aileen son problemáticos. Igual que Franc y Manson". ¿Pero alguien me 
+{171}{}{Estar atrapado bajo tierraâ€¦}
+{172}{}{Y entonces lo dije, dije, "Jacob y Aileen son problemÃ¡ticos. Igual que Franc y Manson". Â¿Pero alguien me 
  hizo caso? Noooooo.}
-{173}{}{Túneles, ¿eh? Siempre supe que esos bastardos eran ratas y gusanos.}
-{174}{}{Así que el hedor procedía de esos cuerpos, ¿eh?}
-{175}{}{¿Por qué nos haces daño?}
-{176}{}{Los humanos nunca confiaron en mí.}
-{177}{}{Déjame tranquilo.}
-{178}{}{¿Por qué no te has muerto ya?}
-{179}{}{¿Por qué los humanos siempre aplastan aquello que temen?}
+{173}{}{TÃºneles, Â¿eh? Siempre supe que esos bastardos eran ratas y gusanos.}
+{174}{}{AsÃ­ que el hedor procedÃ­a de esos cuerpos, Â¿eh?}
+{175}{}{Â¿Por quÃ© nos haces daÃ±o?}
+{176}{}{Los humanos nunca confiaron en mÃ­.}
+{177}{}{DÃ©jame tranquilo.}
+{178}{}{Â¿Por quÃ© no te has muerto ya?}
+{179}{}{Â¿Por quÃ© los humanos siempre aplastan aquello que temen?}
 {180}{}{Eres escoria.}
 {181}{}{Tu vida no vale nada.}
-{182}{}{Tú… recuerdo a una persona como tú…}
+{182}{}{TÃºâ€¦ recuerdo a una persona como tÃºâ€¦}
 {183}{}{Soy demasiado viejo incluso para odiarte.}

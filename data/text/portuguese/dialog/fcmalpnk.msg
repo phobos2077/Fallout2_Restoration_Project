@@ -1,95 +1,95 @@
-{100}{}{Você vê um petroleiro vagabundo.}
-{101}{}{Você vê um punk.}
-{102}{}{Você vê um homem bem bonito, cínico e vestindo roupas esfarrapadas.}
+{100}{}{VocÃª vÃª um petroleiro vagabundo.}
+{101}{}{VocÃª vÃª um punk.}
+{102}{}{VocÃª vÃª um homem bem bonito, cÃ­nico e vestindo roupas esfarrapadas.}
 {103}{}{Nada funciona.}
-{104}{}{Não aguento mais peixe.}
+{104}{}{NÃ£o aguento mais peixe.}
 {105}{}{Quanto antes partirmos, melhor.}
-{106}{}{A melhor coisa de ser um nômade é o autocontrole.}
+{106}{}{A melhor coisa de ser um nÃ´made Ã© o autocontrole.}
 {107}{}{Na verdade, prefiro morrer do que lhe dar o controle.}
-{108}{}{Ninguém comanda minha vida! Eu sou meu próprio rei!}
-{109}{}{Eu sou meu próprio chefe.}
-{110}{}{Eu sou único! Assim como todo mundo!}
-{111}{}{Às vezes esse mundo de cinismo me chateia.}
-{112}{}{Da próxima vez, quero encontrar uma tribo de góticos.}
-{113}{}{Eu vi Selmy e Barro despedaçados lá embaixo.}
-{114}{}{Eu ouvi falar que o Imperador Shi é absurdamente inteligente.}
-{115}{}{Esses Shi tem um cara engraçada.}
+{108}{}{NinguÃ©m comanda minha vida! Eu sou meu prÃ³prio rei!}
+{109}{}{Eu sou meu prÃ³prio chefe.}
+{110}{}{Eu sou Ãºnico! Assim como todo mundo!}
+{111}{}{Ã€s vezes esse mundo de cinismo me chateia.}
+{112}{}{Da prÃ³xima vez, quero encontrar uma tribo de gÃ³ticos.}
+{113}{}{Eu vi Selmy e Barro despedaÃ§ados lÃ¡ embaixo.}
+{114}{}{Eu ouvi falar que o Imperador Shi Ã© absurdamente inteligente.}
+{115}{}{Esses Shi tem um cara engraÃ§ada.}
 {116}{}{Eu sou mente aberta, hm?}
-{117}{}{Vou te emprestar minha namorada se você me emprestar a sua.}
+{117}{}{Vou te emprestar minha namorada se vocÃª me emprestar a sua.}
 {118}{}{Olha pra esses novos punks. Bando de posers.}
-{119}{}{O AHS-9 nos enganou, e vai te enganar também se você der mole.}
-{120}{}{Ovelha. Não passa de uma ovelha morta.}
+{119}{}{O AHS-9 nos enganou, e vai te enganar tambÃ©m se vocÃª der mole.}
+{120}{}{Ovelha. NÃ£o passa de uma ovelha morta.}
 {121}{}{Diga aqueles cornos Hubologistas que nunca iremos com eles.}
-{122}{}{Nunca vá para o Hub.}
-{123}{}{Espero que você esteja orgulhoso de si mesmo.}
-{124}{}{Será que eles nunca perceberão que matar nosso "líder" não nos fará seguir o deles?}
-{125}{}{Você é um cuzão.}
+{122}{}{Nunca vÃ¡ para o Hub.}
+{123}{}{Espero que vocÃª esteja orgulhoso de si mesmo.}
+{124}{}{SerÃ¡ que eles nunca perceberÃ£o que matar nosso "lÃ­der" nÃ£o nos farÃ¡ seguir o deles?}
+{125}{}{VocÃª Ã© um cuzÃ£o.}
 {126}{}{Baah! Baah!}
-{127}{}{Então, como foi levar de um mutante?}
+{127}{}{EntÃ£o, como foi levar de um mutante?}
 {128}{}{Aquele mutante forte e grande, Francis, te machucou?}
-{129}{}{Francis, brincar com você?}
-{130}{}{Francis é um cara bem grande.}
+{129}{}{Francis, brincar com vocÃª?}
+{130}{}{Francis Ã© um cara bem grande.}
 {131}{}{O grande e velho Francis, huh?}
 {132}{}{}
-{133}{}{Hey! É o aleijado!}
-{134}{}{Eai, se precisar de alguma ajuda, não se importe em perguntar.}
+{133}{}{Hey! Ã‰ o aleijado!}
+{134}{}{Eai, se precisar de alguma ajuda, nÃ£o se importe em perguntar.}
 {135}{}{Uau! Um babaca falante!}
-{136}{}{Você ganha alguma coisa sendo um trouxa?}
-{137}{}{Sacrificar nosso pequeno Chippie, não é?}
+{136}{}{VocÃª ganha alguma coisa sendo um trouxa?}
+{137}{}{Sacrificar nosso pequeno Chippie, nÃ£o Ã©?}
 {138}{}{Pobre Chip.}
-{139}{}{Ah, olha, é o "herói".}
-{140}{}{Ei, todo mundo! É o cuzão egoísta!}
-{141}{}{Como se alguém quisesse falar com você agora.}
-{142}{}{Você odeia o Chip!}
-{143}{}{Posso fazer alguma coisa por você? Que se foda!}
-{144}{}{Não fala comigo.}
-{145}{}{Muito legal de sua parte tentar o baço do Chip.}
+{139}{}{Ah, olha, Ã© o "herÃ³i".}
+{140}{}{Ei, todo mundo! Ã‰ o cuzÃ£o egoÃ­sta!}
+{141}{}{Como se alguÃ©m quisesse falar com vocÃª agora.}
+{142}{}{VocÃª odeia o Chip!}
+{143}{}{Posso fazer alguma coisa por vocÃª? Que se foda!}
+{144}{}{NÃ£o fala comigo.}
+{145}{}{Muito legal de sua parte tentar o baÃ§o do Chip.}
 {146}{}{Pelo menos tentou.}
 {147}{}{Pobre Chip.}
-{148}{}{Má sorte para o velho Chippie.}
-{149}{}{Chip está cada vez mais zuado. É foda.}
-{150}{}{Bom trabalho com o baço!}
-{151}{}{Olha... um herói e um caça-baços.}
-{152}{}{Não sabia que eles faziam baços.}
+{148}{}{MÃ¡ sorte para o velho Chippie.}
+{149}{}{Chip estÃ¡ cada vez mais zuado. Ã‰ foda.}
+{150}{}{Bom trabalho com o baÃ§o!}
+{151}{}{Olha... um herÃ³i e um caÃ§a-baÃ§os.}
+{152}{}{NÃ£o sabia que eles faziam baÃ§os.}
 {153}{}{Obrigado por salvar Chip.}
-{154}{}{Olá, fã de Chip!}
+{154}{}{OlÃ¡, fÃ£ de Chip!}
 {155}{}{Estamos todos felizes por Chip.}
 {156}{}{Obrigado por salvar Chip.}
-{157}{}{Agora será mais fácil para Badger viver.}
-{158}{}{Sempre gostei de Suze. Ainda bem que ela não está morta.}
-{159}{}{Será que Suze será babá dos meus filhos?}
-{160}{}{Matar monstros, salvar namoradas... Será que tem alguma coisa de herói que você não faz?}
-{161}{}{Você pode salvar minha namorada também? Ha ha!}
-{162}{}{Talvez Badger durma com você por salvar a namorada dele.}
-{163}{}{Aposto que Badger está felizão agora.}
-{164}{}{Talvez você devesse pedir alguns favores a Badger.}
+{157}{}{Agora serÃ¡ mais fÃ¡cil para Badger viver.}
+{158}{}{Sempre gostei de Suze. Ainda bem que ela nÃ£o estÃ¡ morta.}
+{159}{}{SerÃ¡ que Suze serÃ¡ babÃ¡ dos meus filhos?}
+{160}{}{Matar monstros, salvar namoradas... SerÃ¡ que tem alguma coisa de herÃ³i que vocÃª nÃ£o faz?}
+{161}{}{VocÃª pode salvar minha namorada tambÃ©m? Ha ha!}
+{162}{}{Talvez Badger durma com vocÃª por salvar a namorada dele.}
+{163}{}{Aposto que Badger estÃ¡ felizÃ£o agora.}
+{164}{}{Talvez vocÃª devesse pedir alguns favores a Badger.}
 {165}{}{Pobre Badger. Pobre Suze.}
-{166}{}{Eu te avisei para não descer alí...}
-{167}{}{... desgraça de monstros do porão...}
+{166}{}{Eu te avisei para nÃ£o descer alÃ­...}
+{167}{}{... desgraÃ§a de monstros do porÃ£o...}
 {168}{}{Sinto muito por Badger agora.}
 {169}{}{Morta no barco. Coitada da Suze.}
-{170}{}{Irmão... Isso vai melhorar nossa vida?}
-{171}{}{Ali embaixo é perigoso!}
-{172}{}{Carai... porque ela estaria lá embaixo?}
-{173}{}{Deveriamos fechar o porão.}
+{170}{}{IrmÃ£o... Isso vai melhorar nossa vida?}
+{171}{}{Ali embaixo Ã© perigoso!}
+{172}{}{Carai... porque ela estaria lÃ¡ embaixo?}
+{173}{}{Deveriamos fechar o porÃ£o.}
 {174}{}{Vamos sair do barco.}
-{175}{}{Você vai levar o petroleiro para o oeste?}
-{176}{}{Acho que é hora de sumir do navio.}
+{175}{}{VocÃª vai levar o petroleiro para o oeste?}
+{176}{}{Acho que Ã© hora de sumir do navio.}
 {177}{}{Estou pronto para sair daqui.}
-{178}{}{Já embalei todas as minhas coisas.}
+{178}{}{JÃ¡ embalei todas as minhas coisas.}
 {179}{}{Eu nem quero ir para o oeste.}
 {180}{}{}
 {181}{}{}
 {182}{}{}
 {183}{}{Conhece algum lugar bom para se estabelecer?}
-{184}{}{Vou me certificar que você esteja limpo antes de ir.}
+{184}{}{Vou me certificar que vocÃª esteja limpo antes de ir.}
 {185}{}{Bora trabalhar!}
-{186}{}{Porra... Já era o Badger.}
+{186}{}{Porra... JÃ¡ era o Badger.}
 {187}{}{Quem teria o matado?}
-{188}{}{Não sei porra nenhuma sobre computadores. E você?}
+{188}{}{NÃ£o sei porra nenhuma sobre computadores. E vocÃª?}
 {189}{}{Cara... Badger sempre conheceu os melhores lugares para ir.}
 {190}{}{Agora eu nunca vou ouvir sua banda tocar!}
-{191}{}{Assassinos morféticos... se livraram do Badger... estúpido.}
+{191}{}{Assassinos morfÃ©ticos... se livraram do Badger... estÃºpido.}
 {192}{}{To puto agora.}
-{193}{}{Quero vingança pelo Badger!}
-{194}{}{A vida não tem muito sentido sem o Badger.}
+{193}{}{Quero vinganÃ§a pelo Badger!}
+{194}{}{A vida nÃ£o tem muito sentido sem o Badger.}

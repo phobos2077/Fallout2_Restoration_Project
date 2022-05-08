@@ -1,13 +1,13 @@
-{100}{}{Ezekért jó árakat szakítok a piacon.}
-{101}{}{Próbáld meg nem megrongálni az árut!}
+{100}{}{EzekÃ©rt jÃ³ Ã¡rakat szakÃ­tok a piacon.}
+{101}{}{PrÃ³bÃ¡ld meg nem megrongÃ¡lni az Ã¡rut!}
 {102}{}{Talpraesett rabszolga lesz bel?led.}
-{103}{}{Ez nem jó.}
-{104}{}{Visszavonulás!}
-{105}{}{Talán bútort fogok inkább árulni.}
-{106}{}{A rabszolga-keresked?k nem támadják meg egymást.}
-{107}{}{A céh hallani fog err?l!}
-{108}{}{Mit csinál itt?}
-{109}{}{Szerencsével jártál?}
-{110}{}{Találtál jó rabszolgákat?}
-{111}{}{Új készleteket keresünk.}
-{112}{}{Ez a mi területünk.}
+{103}{}{Ez nem jÃ³.}
+{104}{}{VisszavonulÃ¡s!}
+{105}{}{TalÃ¡n bÃºtort fogok inkÃ¡bb Ã¡rulni.}
+{106}{}{A rabszolga-keresked?k nem tÃ¡madjÃ¡k meg egymÃ¡st.}
+{107}{}{A cÃ©h hallani fog err?l!}
+{108}{}{Mit csinÃ¡l itt?}
+{109}{}{SzerencsÃ©vel jÃ¡rtÃ¡l?}
+{110}{}{TalÃ¡ltÃ¡l jÃ³ rabszolgÃ¡kat?}
+{111}{}{Ãšj kÃ©szleteket keresÃ¼nk.}
+{112}{}{Ez a mi terÃ¼letÃ¼nk.}

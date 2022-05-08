@@ -1,109 +1,109 @@
-{100}{}{Egy ?rt látsz.}
-{150}{}{Ez itt egy unatkozó ?r. Nagyon úgy néz ki, hogy most bárhol szívesebben lenne, mint itt.}
-{151}{}{Ez itt Myron egyik unatkozó ?re.}
-{152}{}{Ez itt Myron egyik unatkozó ?re. Nagyon úgy néz ki, hogy most bárhol szívesebben lenne, mint itt.}
-{200}{}{Ha még egyszer hozzányúlsz ahhoz a szarhoz, kinyúvasztalak!}
-{205}{}{Menj csak! Minden okés.}
-{206}{}{Menj csak tovább! Minden oké.}
-{210}{}{Ha még egyszer hozzányúlsz ahhoz az ajtóhoz, nagyon megbánod!}
-{211}{}{Húzz onnan!}
-{215}{}{Hé, Myron! Sétálni mész?}
-{216}{}{Vigyázz magadra, Myron!}
-{217}{}{Nehogy bajba kerülj, Myron, oké?}
-{218}{}{Ne menj túl messzire, Myron!}
-{225}{}{Hé, }
+{100}{}{Egy ?rt lÃ¡tsz.}
+{150}{}{Ez itt egy unatkozÃ³ ?r. Nagyon Ãºgy nÃ©z ki, hogy most bÃ¡rhol szÃ­vesebben lenne, mint itt.}
+{151}{}{Ez itt Myron egyik unatkozÃ³ ?re.}
+{152}{}{Ez itt Myron egyik unatkozÃ³ ?re. Nagyon Ãºgy nÃ©z ki, hogy most bÃ¡rhol szÃ­vesebben lenne, mint itt.}
+{200}{}{Ha mÃ©g egyszer hozzÃ¡nyÃºlsz ahhoz a szarhoz, kinyÃºvasztalak!}
+{205}{}{Menj csak! Minden okÃ©s.}
+{206}{}{Menj csak tovÃ¡bb! Minden okÃ©.}
+{210}{}{Ha mÃ©g egyszer hozzÃ¡nyÃºlsz ahhoz az ajtÃ³hoz, nagyon megbÃ¡nod!}
+{211}{}{HÃºzz onnan!}
+{215}{}{HÃ©, Myron! SÃ©tÃ¡lni mÃ©sz?}
+{216}{}{VigyÃ¡zz magadra, Myron!}
+{217}{}{Nehogy bajba kerÃ¼lj, Myron, okÃ©?}
+{218}{}{Ne menj tÃºl messzire, Myron!}
+{225}{}{HÃ©, }
 {230}{}{Itt egy }
-{235}{}{Néhány cojone idetolta a képét. Ajánlom, hogy küldd el ?ket!}
-{236}{}{Úgy nézel ki, mint egy }
-{240}{}{Jobb lenne, ha visszahúznál a }
-{241}{}{Úgy nézel ki, mint egy }
-{245}{}{Ha nem akarsz balhét... rakd el azt a fegyvert!}
-{250}{}{Behatoló!}
-{260}{}{Vidd innen azt a guruló hulladékot!}
-{261}{}{Robotok nem jöhetnek ide! Vidd innen a francba!}
-{262}{}{Ha az a robot ittmarad, ócskavasat csinálunk bel?le!}
-{270}{}{Csak nem mutánsszagot érzek? Vidd innen, miel?tt idegesek leszünk!}
-{271}{}{Ki vagy te? Mutánsbérenc? Annak a valaminek a helye odakinn van! Nem mondom kétszer...}
-{272}{}{Az a mutáns ott céltábla akar lenni? Csak lófráljatok még itt egy kicsit, és valóra váltjuk az álmát.}
-{280}{}{Mi ez a rohadó szag? Vidd ki innen azt a ghoult, de rögtön!}
-{281}{}{Vidd ki innen azt a ghoult a mocskos kurva anyjába! NE MONDJAM MÉG EGYSZER!}
-{282}{}{Ha az a ghoul még egy percig itt marad, halottabb lesz, mint amennyire máris az.}
-{290}{}{::Azta:: Ezt kapjátok ki!}
-{291}{}{Hé, chica, nincs szükséged társaságra?}
-{292}{}{Nem akarsz eltölteni egy kis id?t velünk, chica?}
-{293}{}{::Amikor meglát, farkas módjára vonít:: Aúúúúúúúú!}
-{300}{}{Mi a francot akarsz itt, hajcsár? A rabszolgák fenn vannak.}
-{305}{}{Mi történt veled, Myron?}
-{310}{}{Myron még mindig másnapos?}
+{235}{}{NÃ©hÃ¡ny cojone idetolta a kÃ©pÃ©t. AjÃ¡nlom, hogy kÃ¼ldd el ?ket!}
+{236}{}{Ãšgy nÃ©zel ki, mint egy }
+{240}{}{Jobb lenne, ha visszahÃºznÃ¡l a }
+{241}{}{Ãšgy nÃ©zel ki, mint egy }
+{245}{}{Ha nem akarsz balhÃ©t... rakd el azt a fegyvert!}
+{250}{}{BehatolÃ³!}
+{260}{}{Vidd innen azt a gurulÃ³ hulladÃ©kot!}
+{261}{}{Robotok nem jÃ¶hetnek ide! Vidd innen a francba!}
+{262}{}{Ha az a robot ittmarad, Ã³cskavasat csinÃ¡lunk bel?le!}
+{270}{}{Csak nem mutÃ¡nsszagot Ã©rzek? Vidd innen, miel?tt idegesek leszÃ¼nk!}
+{271}{}{Ki vagy te? MutÃ¡nsbÃ©renc? Annak a valaminek a helye odakinn van! Nem mondom kÃ©tszer...}
+{272}{}{Az a mutÃ¡ns ott cÃ©ltÃ¡bla akar lenni? Csak lÃ³frÃ¡ljatok mÃ©g itt egy kicsit, Ã©s valÃ³ra vÃ¡ltjuk az Ã¡lmÃ¡t.}
+{280}{}{Mi ez a rohadÃ³ szag? Vidd ki innen azt a ghoult, de rÃ¶gtÃ¶n!}
+{281}{}{Vidd ki innen azt a ghoult a mocskos kurva anyjÃ¡ba! NE MONDJAM MÃ‰G EGYSZER!}
+{282}{}{Ha az a ghoul mÃ©g egy percig itt marad, halottabb lesz, mint amennyire mÃ¡ris az.}
+{290}{}{::Azta:: Ezt kapjÃ¡tok ki!}
+{291}{}{HÃ©, chica, nincs szÃ¼ksÃ©ged tÃ¡rsasÃ¡gra?}
+{292}{}{Nem akarsz eltÃ¶lteni egy kis id?t velÃ¼nk, chica?}
+{293}{}{::Amikor meglÃ¡t, farkas mÃ³djÃ¡ra vonÃ­t:: AÃºÃºÃºÃºÃºÃºÃºÃº!}
+{300}{}{Mi a francot akarsz itt, hajcsÃ¡r? A rabszolgÃ¡k fenn vannak.}
+{305}{}{Mi tÃ¶rtÃ©nt veled, Myron?}
+{310}{}{Myron mÃ©g mindig mÃ¡snapos?}
 {311}{}{Unatkozom.}
-{312}{}{Láttad a tegnapi bunyót?}
-{313}{}{Alig várom, hogy vége legyen a m?szaknak.}
-{320}{}{Segíccsek, amigo? Ez itt már nem publikus terület.}
-{321}{}{Nahát, nahát, nahát... egy sztár jött el ma közénk. Találkád van Myronnal, chica?}
-{322}{}{Segíccsek, chica? Ez itt már nem publikus terület.}
-{323}{}{(Az ?r mosolyogva végigmér.) Találkád van Myronnal, chica?}
-{324}{}{Én akar világbéke}
-{325}{}{Én akar átmegy ajtó}
+{312}{}{LÃ¡ttad a tegnapi bunyÃ³t?}
+{313}{}{Alig vÃ¡rom, hogy vÃ©ge legyen a m?szaknak.}
+{320}{}{SegÃ­ccsek, amigo? Ez itt mÃ¡r nem publikus terÃ¼let.}
+{321}{}{NahÃ¡t, nahÃ¡t, nahÃ¡t... egy sztÃ¡r jÃ¶tt el ma kÃ¶zÃ©nk. TalÃ¡lkÃ¡d van Myronnal, chica?}
+{322}{}{SegÃ­ccsek, chica? Ez itt mÃ¡r nem publikus terÃ¼let.}
+{323}{}{(Az ?r mosolyogva vÃ©gigmÃ©r.) TalÃ¡lkÃ¡d van Myronnal, chica?}
+{324}{}{Ã‰n akar vilÃ¡gbÃ©ke}
+{325}{}{Ã‰n akar Ã¡tmegy ajtÃ³}
 {326}{}{Kiiiii Vagyol te?}
-{327}{}{Elpályázol}
-{328}{}{Nem publikus? Mi van az ajtó mögött?}
-{329}{}{Myronhoz jöttem.}
-{330}{}{Myronhoz jöttem, és amint látod, van jelvényem.}
-{331}{}{Myronhoz jöttem. Tudod, "Rendhagyó találkozónk" van.}
-{332}{}{Hogyne! Itt kell még állnom, szépfiú, vagy legelteted még a szemed egy darabig?}
-{333}{}{Bocs, de milyen találkozóról beszélsz?}
-{334}{}{Bocsánat, nem jó szobába jöttem. Már megyek is.}
-{350}{}{Otthagytad a helyed, rabszolga? Jobb lesz, ha visszamész az emeletre, miel?tt bedugunk egy ketrecbe!}
-{351}{}{ÉN AKAR VILÁGBÉKE ÉN AKAR VILÁGBÉKE}
-{352}{}{ÉN MONDOK MEGY ÁT AJTÓ}
+{327}{}{ElpÃ¡lyÃ¡zol}
+{328}{}{Nem publikus? Mi van az ajtÃ³ mÃ¶gÃ¶tt?}
+{329}{}{Myronhoz jÃ¶ttem.}
+{330}{}{Myronhoz jÃ¶ttem, Ã©s amint lÃ¡tod, van jelvÃ©nyem.}
+{331}{}{Myronhoz jÃ¶ttem. Tudod, "RendhagyÃ³ talÃ¡lkozÃ³nk" van.}
+{332}{}{Hogyne! Itt kell mÃ©g Ã¡llnom, szÃ©pfiÃº, vagy legelteted mÃ©g a szemed egy darabig?}
+{333}{}{Bocs, de milyen talÃ¡lkozÃ³rÃ³l beszÃ©lsz?}
+{334}{}{BocsÃ¡nat, nem jÃ³ szobÃ¡ba jÃ¶ttem. MÃ¡r megyek is.}
+{350}{}{Otthagytad a helyed, rabszolga? Jobb lesz, ha visszamÃ©sz az emeletre, miel?tt bedugunk egy ketrecbe!}
+{351}{}{Ã‰N AKAR VILÃGBÃ‰KE Ã‰N AKAR VILÃGBÃ‰KE}
+{352}{}{Ã‰N MONDOK MEGY ÃT AJTÃ“}
 {353}{}{KIIII VAGYOL TE?}
 {354}{}{[Shamble off]}
-{360}{}{(Készenlétbe helyezi a fegyverét.) Ezt élvezni fogom. Legalább egy órája nem vertem el egyetlen rabszolgát sem...}
-{361}{}{(Készenlétbe helyezi a fegyverét.) Ezt élvezni fogom. Legalább két napja nem öltem meg senkit...}
-{362}{}{TE VAGYOL AKI DÖGÖL MEG}
-{363}{}{ SZÉTÜT}
+{360}{}{(KÃ©szenlÃ©tbe helyezi a fegyverÃ©t.) Ezt Ã©lvezni fogom. LegalÃ¡bb egy Ã³rÃ¡ja nem vertem el egyetlen rabszolgÃ¡t sem...}
+{361}{}{(KÃ©szenlÃ©tbe helyezi a fegyverÃ©t.) Ezt Ã©lvezni fogom. LegalÃ¡bb kÃ©t napja nem Ã¶ltem meg senkit...}
+{362}{}{TE VAGYOL AKI DÃ–GÃ–L MEG}
+{363}{}{ SZÃ‰TÃœT}
 {364}{}{[Try and run.]}
-{365}{}{Haver, egy életen át szívni fogsz.}
-{370}{}{(Rádbámul.) Bocs, de ezt tudni alapvet? dolog. Most pedig húzás... amigo.}
-{371}{}{(Rádbámul.) Bocs, de ezt tudni alapvet? dolog. Most pedig húzás... chica.}
-{374}{}{Engedjetek már át... Be kell jutnom azon az ajtón.}
+{365}{}{Haver, egy Ã©leten Ã¡t szÃ­vni fogsz.}
+{370}{}{(RÃ¡dbÃ¡mul.) Bocs, de ezt tudni alapvet? dolog. Most pedig hÃºzÃ¡s... amigo.}
+{371}{}{(RÃ¡dbÃ¡mul.) Bocs, de ezt tudni alapvet? dolog. Most pedig hÃºzÃ¡s... chica.}
+{374}{}{Engedjetek mÃ¡r Ã¡t... Be kell jutnom azon az ajtÃ³n.}
 {375}{}{Rendben, rendben.}
-{380}{}{Ó, hát TE vagy az, ugyebár? A fenébe, miért nem ezzel kezdted? Elkerülhettük volna ezt a beszélgetést, és már az elején megmondhattam volna, hogy HÚZZ A FRANCBA!}
-{381}{}{Myron vár engem. Jobb lesz, ha beengedsz, különben megütöd a bokád!}
-{390}{}{Nahiszen... Nem mész te sehova! Most pedig t?nés, miel?tt begorombulok!}
-{391}{}{Legalább egy üzenetet át tudnál adni neki?}
-{400}{}{Nem. T?nés, kis szaros!}
-{401}{}{Nem megyek sehova, amíg be nem engedsz! Igazából azt szeretném látni, ahogy megpróbálsz kitessékelni.}
-{402}{}{Nem megyek sehova, amíg be nem engedsz! Igazából azt szeretném látni, te szánalmas szarzsák, ahogy megpróbálsz kitessékelni.}
+{380}{}{Ã“, hÃ¡t TE vagy az, ugyebÃ¡r? A fenÃ©be, miÃ©rt nem ezzel kezdted? ElkerÃ¼lhettÃ¼k volna ezt a beszÃ©lgetÃ©st, Ã©s mÃ¡r az elejÃ©n megmondhattam volna, hogy HÃšZZ A FRANCBA!}
+{381}{}{Myron vÃ¡r engem. Jobb lesz, ha beengedsz, kÃ¼lÃ¶nben megÃ¼tÃ¶d a bokÃ¡d!}
+{390}{}{Nahiszen... Nem mÃ©sz te sehova! Most pedig t?nÃ©s, miel?tt begorombulok!}
+{391}{}{LegalÃ¡bb egy Ã¼zenetet Ã¡t tudnÃ¡l adni neki?}
+{400}{}{Nem. T?nÃ©s, kis szaros!}
+{401}{}{Nem megyek sehova, amÃ­g be nem engedsz! IgazÃ¡bÃ³l azt szeretnÃ©m lÃ¡tni, ahogy megprÃ³bÃ¡lsz kitessÃ©kelni.}
+{402}{}{Nem megyek sehova, amÃ­g be nem engedsz! IgazÃ¡bÃ³l azt szeretnÃ©m lÃ¡tni, te szÃ¡nalmas szarzsÃ¡k, ahogy megprÃ³bÃ¡lsz kitessÃ©kelni.}
 {404}{}{Rendben.}
-{411}{}{Én sem...}
-{412}{}{Védd magad!}
-{425}{}{Igen? Lássuk... Hmmmm. (Megnézi a jelvényt és vállat von.) Rendben van, de ne húzd az id?t! Myron elfoglalt ember, és nem szereti, ha zavarják.}
-{426}{}{Értem.}
-{435}{}{(A szemét végigfuttatja rajtad.) Menj csak... hehe... kés?bb persze rám is szakíthatnál id?t. Ha bent végeztél.}
-{436}{}{Hát... majd észben tartom. Akkor mehetek?}
-{437}{}{Meglátjuk, jó?}
+{411}{}{Ã‰n sem...}
+{412}{}{VÃ©dd magad!}
+{425}{}{Igen? LÃ¡ssuk... Hmmmm. (MegnÃ©zi a jelvÃ©nyt Ã©s vÃ¡llat von.) Rendben van, de ne hÃºzd az id?t! Myron elfoglalt ember, Ã©s nem szereti, ha zavarjÃ¡k.}
+{426}{}{Ã‰rtem.}
+{435}{}{(A szemÃ©t vÃ©gigfuttatja rajtad.) Menj csak... hehe... kÃ©s?bb persze rÃ¡m is szakÃ­thatnÃ¡l id?t. Ha bent vÃ©geztÃ©l.}
+{436}{}{HÃ¡t... majd Ã©szben tartom. Akkor mehetek?}
+{437}{}{MeglÃ¡tjuk, jÃ³?}
 {445}{}{Hogyne, kedvesem. Menj csak be!}
 {446}{}{Menj csak be nyugodtan!}
-{447}{}{Köszi.}
-{455}{}{Márminthogy te? Haha! Chica, te oda nem fogsz bemenni, hacsak Myron nem vakult meg id?közben! Ismerem én az ízlését! Nem nagyon érdeklik az ilyen szutyok, Jet-kunyizó kurvák.}
-{457}{}{Nézd, én azért jöttem, hogy Myronnal beszélhessek. Van jelvényem.}
+{447}{}{KÃ¶szi.}
+{455}{}{MÃ¡rminthogy te? Haha! Chica, te oda nem fogsz bemenni, hacsak Myron nem vakult meg id?kÃ¶zben! Ismerem Ã©n az Ã­zlÃ©sÃ©t! Nem nagyon Ã©rdeklik az ilyen szutyok, Jet-kunyizÃ³ kurvÃ¡k.}
+{457}{}{NÃ©zd, Ã©n azÃ©rt jÃ¶ttem, hogy Myronnal beszÃ©lhessek. Van jelvÃ©nyem.}
 {458}{}{Elmegyek akkor...}
-{465}{}{Ó, elnézést. Összetévesztettelek valakivel. Mit is akarsz, chica?}
-{466}{}{Mi van amögött az ajtó mögött?}
-{475}{}{Myron vár téged?}
-{477}{}{Igen. Bemehetek? Megbeszélend? üzleti ügyünk van.}
-{478}{}{Nem, most nem. Vigyázzatok magatokra, srácok!}
+{465}{}{Ã“, elnÃ©zÃ©st. Ã–sszetÃ©vesztettelek valakivel. Mit is akarsz, chica?}
+{466}{}{Mi van amÃ¶gÃ¶tt az ajtÃ³ mÃ¶gÃ¶tt?}
+{475}{}{Myron vÃ¡r tÃ©ged?}
+{477}{}{Igen. Bemehetek? MegbeszÃ©lend? Ã¼zleti Ã¼gyÃ¼nk van.}
+{478}{}{Nem, most nem. VigyÃ¡zzatok magatokra, srÃ¡cok!}
 {479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
 {480}{}{Heh, I sure do. Try not to make too much of a ruckus while you're here. (To himself) Damn, Myron's such a lucky
  man.)}
 {485}{}{Myron nincs bent.}
-{487}{}{Bemehetek azért?}
-{495}{}{(Megvonja a vállát.) Engem nem érdekel. Ha várni akarsz rá, akkor várj. Fogalmam sincs, mikor jön vissza... ha egyáltalán visszajön.}
+{487}{}{Bemehetek azÃ©rt?}
+{495}{}{(Megvonja a vÃ¡llÃ¡t.) Engem nem Ã©rdekel. Ha vÃ¡rni akarsz rÃ¡, akkor vÃ¡rj. Fogalmam sincs, mikor jÃ¶n vissza... ha egyÃ¡ltalÃ¡n visszajÃ¶n.}
 {5225}{}{! Mi a helyzet?}
-{5230}{}{! Nyírjuk ki!}
+{5230}{}{! NyÃ­rjuk ki!}
 {5236}{}{ az ember, aki nem tudja, mikor fog meghalni.}
-{5240}{}{ falkába, puta?}
+{5240}{}{ falkÃ¡ba, puta?}
 {5241}{}{ a szajha, aki nem tudja, mikor fog meghalni.}
-{5476}{}{! Amögött az ajtó mögött Myron dolgozik. Aszondod, hogy vár téged?}
-{5486}{}{, mi a dörgés? Amúgy... Myron nincs odabenn!}
+{5476}{}{! AmÃ¶gÃ¶tt az ajtÃ³ mÃ¶gÃ¶tt Myron dolgozik. Aszondod, hogy vÃ¡r tÃ©ged?}
+{5486}{}{, mi a dÃ¶rgÃ©s? AmÃºgy... Myron nincs odabenn!}

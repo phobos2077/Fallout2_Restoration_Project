@@ -1,7 +1,7 @@
 {100}{}{Tu vois un robot M. Handy.}
-{101}{}{Tu vois un robot, M. Handy, très dépressif.}
-{102}{}{Ce robot, M. Handy, semble très dépressif pour plusieurs raisons.}
-{200}{}{ô le malheur est sur moi !}
+{101}{}{Tu vois un robot, M. Handy, trÃ¨s dÃ©pressif.}
+{102}{}{Ce robot, M. Handy, semble trÃ¨s dÃ©pressif pour plusieurs raisons.}
+{200}{}{Ã´ le malheur est sur moi !}
 {201}{}{Ras le bol...}
 {202}{}{Je veux mourir...}
 {203}{}{Que quelqu'un me tue...}
@@ -10,7 +10,7 @@
 {206}{}{Ennuyeux...}
 {207}{}{...SNIF-SNIF...}
 {208}{}{La vie. Ne me parlez pas de la vie.}
-{209}{}{Je pense que vous voudriez savoir, je me sens très déprimé.}
-{210}{}{Désolé pour la respiration, ce que je ne fais jamais de toute façon donc je ne sais pas pourquoi je me donne la peine d'en parler, oh Dieu, je suis si diminué.}
+{209}{}{Je pense que vous voudriez savoir, je me sens trÃ¨s dÃ©primÃ©.}
+{210}{}{DÃ©solÃ© pour la respiration, ce que je ne fais jamais de toute faÃ§on donc je ne sais pas pourquoi je me donne la peine d'en parler, oh Dieu, je suis si diminuÃ©.}
 {500}{}{Oui, Pousse-moi du haut d'une falaise.}
-{501}{}{<Bzzt> Arrête ! <Bzzt>}
+{501}{}{<Bzzt> ArrÃªte ! <Bzzt>}

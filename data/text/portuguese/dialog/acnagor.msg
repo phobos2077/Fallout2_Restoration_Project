@@ -1,56 +1,56 @@
-{100}{}{Você vê seu primo, Nagor. Você não vê seu cachorro, Fumaça, em qualquer lugar.}
-{101}{}{Você conheceu Nagor desde que ele era um bebê, e sempre o ajudou quando podia.}
-{102}{}{Primo, estou feliz em ver você! Eu preciso de sua ajuda.}
-{103}{}{Desculpe, mas eu não tenho tempo.}
-{104}{}{Que tipo de ajuda você precisa?}
-{105}{}{Então eu irei para fora na minha missão!}
-{106}{}{Espere aí... em que você precisa de ajuda?}
-{107}{}{Você faz isso.}
-{108}{}{Fumaça fugiu para o campo de caça e não voltou e agora Morlis não deixe-me ir encontrar ele. Ela diz que é muito perigoso e ele é apenas um cão, mas eu estava indo de qualquer maneira. Mas agora você está aqui e você pode fazê-lo e eu não iria me meter em apuros.}
-{109}{}{Com certeza. Mas onde estão os terrenos de caça?}
-{110}{}{Com certeza. Eu vou encontrá-lo agora.}
-{111}{}{Esqueça, eu não tenho tempo para isso.}
-{112}{}{O que você fez, foi atingido na cabeça com uma pedra? Eles estão do outro lado da tenda de Hakunin, a norte da vila.}
+{100}{}{VocÃª vÃª seu primo, Nagor. VocÃª nÃ£o vÃª seu cachorro, FumaÃ§a, em qualquer lugar.}
+{101}{}{VocÃª conheceu Nagor desde que ele era um bebÃª, e sempre o ajudou quando podia.}
+{102}{}{Primo, estou feliz em ver vocÃª! Eu preciso de sua ajuda.}
+{103}{}{Desculpe, mas eu nÃ£o tenho tempo.}
+{104}{}{Que tipo de ajuda vocÃª precisa?}
+{105}{}{EntÃ£o eu irei para fora na minha missÃ£o!}
+{106}{}{Espere aÃ­... em que vocÃª precisa de ajuda?}
+{107}{}{VocÃª faz isso.}
+{108}{}{FumaÃ§a fugiu para o campo de caÃ§a e nÃ£o voltou e agora Morlis nÃ£o deixe-me ir encontrar ele. Ela diz que Ã© muito perigoso e ele Ã© apenas um cÃ£o, mas eu estava indo de qualquer maneira. Mas agora vocÃª estÃ¡ aqui e vocÃª pode fazÃª-lo e eu nÃ£o iria me meter em apuros.}
+{109}{}{Com certeza. Mas onde estÃ£o os terrenos de caÃ§a?}
+{110}{}{Com certeza. Eu vou encontrÃ¡-lo agora.}
+{111}{}{EsqueÃ§a, eu nÃ£o tenho tempo para isso.}
+{112}{}{O que vocÃª fez, foi atingido na cabeÃ§a com uma pedra? Eles estÃ£o do outro lado da tenda de Hakunin, a norte da vila.}
 {113}{}{Eu vou estar de volta com ele em breve.}
-{114}{}{Você já encontrou Fumaça?}
-{115}{}{Não, ainda não. Onde você disse que é o campo de caça?}
-{116}{}{Não, ainda não.}
-{117}{}{Você já encontrou Fumaça?}
-{118}{}{Não, ainda não. Eu vou estar de volta em breve, porém.}
-{119}{}{Sinto muito, mas ele está morto.}
-{120}{}{Você está apenas dizendo isso porque você não quer olhar! Eu não me importo com o que
-  Morlis diz, eu vou encontrá-lo.}
-{121}{}{Nagor, e se algo acontecer com você? Morlis ficaria sozinha e isso faria
- com que ela ficase triste. Você não quer deixá-la triste, não é?}
-{122}{}{Você faz isso.}
-{123}{}{Bem... não, eu não quero fazer isso. Ok, eu não quero ir, mas não é justo!}
-{124}{}{Fumaça ficará bem. Adeus.}
-{125}{}{Você encontrou o Fumaça! Obrigado! Fumaça, você é um cão mau!}
-{126}{}{Você é bem-vindo. Adeus.}
-{127}{}{Obrigado novamente. Eu espero que você tenha realmente uma viagem divertida!}
-{128}{}{Eu sinto falta do Fumaça. Por que você não poderia salvá-lo? Você é o Escolhido.}
-{129}{}{Estou ocupada, burro. Vá jogar em outro lugar.}
+{114}{}{VocÃª jÃ¡ encontrou FumaÃ§a?}
+{115}{}{NÃ£o, ainda nÃ£o. Onde vocÃª disse que Ã© o campo de caÃ§a?}
+{116}{}{NÃ£o, ainda nÃ£o.}
+{117}{}{VocÃª jÃ¡ encontrou FumaÃ§a?}
+{118}{}{NÃ£o, ainda nÃ£o. Eu vou estar de volta em breve, porÃ©m.}
+{119}{}{Sinto muito, mas ele estÃ¡ morto.}
+{120}{}{VocÃª estÃ¡ apenas dizendo isso porque vocÃª nÃ£o quer olhar! Eu nÃ£o me importo com o que
+Â  Morlis diz, eu vou encontrÃ¡-lo.}
+{121}{}{Nagor, e se algo acontecer com vocÃª? Morlis ficaria sozinha e isso faria
+ com que ela ficase triste. VocÃª nÃ£o quer deixÃ¡-la triste, nÃ£o Ã©?}
+{122}{}{VocÃª faz isso.}
+{123}{}{Bem... nÃ£o, eu nÃ£o quero fazer isso. Ok, eu nÃ£o quero ir, mas nÃ£o Ã© justo!}
+{124}{}{FumaÃ§a ficarÃ¡ bem. Adeus.}
+{125}{}{VocÃª encontrou o FumaÃ§a! Obrigado! FumaÃ§a, vocÃª Ã© um cÃ£o mau!}
+{126}{}{VocÃª Ã© bem-vindo. Adeus.}
+{127}{}{Obrigado novamente. Eu espero que vocÃª tenha realmente uma viagem divertida!}
+{128}{}{Eu sinto falta do FumaÃ§a. Por que vocÃª nÃ£o poderia salvÃ¡-lo? VocÃª Ã© o Escolhido.}
+{129}{}{Estou ocupada, burro. VÃ¡ jogar em outro lugar.}
 {130}{}{Eu vou.}
-{131}{}{Eu vou por trás da fumaça.}
-{200}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi falar muito sobre os tempos difíceis que estão por vir.}
-{201}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi falar muito sobre os tempos difíceis que estão por vir.}
+{131}{}{Eu vou por trÃ¡s da fumaÃ§a.}
+{200}{}{OlÃ¡ primo... Ã©, eu quero dizer Escolhido. Espero que vocÃª tenha encontrado o GECK. Ouvi falar muito sobre os tempos difÃ­ceis que estÃ£o por vir.}
+{201}{}{OlÃ¡ primo... Ã©, eu quero dizer Escolhido. Espero que vocÃª tenha encontrado o GECK. Ouvi falar muito sobre os tempos difÃ­ceis que estÃ£o por vir.}
 {202}{}{Eu ainda olho, Nagor.}
 {203}{}{Eu ainda estou procurando, primo.}
-{204}{}{Bem-vindo a casa, primo. As coisas estão ficando um pouco apertadas por aqui. Você já encontrou o santo Treze e o GECK?}
-{205}{}{Bem-vindo a casa, primo. As coisas estão ficando um pouco apertadas por aqui. Você já encontrou o santo Treze e o GECK?}
-{206}{}{Não encontrei. Desculpa.}
+{204}{}{Bem-vindo a casa, primo. As coisas estÃ£o ficando um pouco apertadas por aqui. VocÃª jÃ¡ encontrou o santo Treze e o GECK?}
+{205}{}{Bem-vindo a casa, primo. As coisas estÃ£o ficando um pouco apertadas por aqui. VocÃª jÃ¡ encontrou o santo Treze e o GECK?}
+{206}{}{NÃ£o encontrei. Desculpa.}
 {207}{}{Desculpe, Nagor. Eu ainda estou procurando.}
-{208}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços aqui. Por favor encontre o GECK. Estamos em necessidade desesperada!}
-{209}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços aqui. Por favor encontre o GECK. Estamos em necessidade desesperada!}
+{208}{}{OlÃ¡ novamente, primo. Eu acho que vocÃª jÃ¡ percebeu que as coisas estÃ£o realmente caindo aos pedaÃ§os aqui. Por favor encontre o GECK. Estamos em necessidade desesperada!}
+{209}{}{OlÃ¡ novamente, primo. Eu acho que vocÃª jÃ¡ percebeu que as coisas estÃ£o realmente caindo aos pedaÃ§os aqui. Por favor encontre o GECK. Estamos em necessidade desesperada!}
 {210}{}{Oi, primo.}
 {211}{}{Oi, primo.}
-{212}{}{Você não soa auto como de costume.}
-{213}{}{Você não soa como seu eu habitual.}
-{214}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você deixou. As pessoas estão
-doentes, os brahmins estão morrendo e ... eu ... meu cachorro, Fumaça morreu - Morlis o cozinhou. Sinto muita falta dele. Desculpe, mas não posso
+{212}{}{VocÃª nÃ£o soa auto como de costume.}
+{213}{}{VocÃª nÃ£o soa como seu eu habitual.}
+{214}{}{Me desculpe, primo. As coisas estÃ£o piorando desde a Ãºltima vez que vocÃª deixou. As pessoas estÃ£o
+doentes, os brahmins estÃ£o morrendo e ... eu ... meu cachorro, FumaÃ§a morreu - Morlis o cozinhou. Sinto muita falta dele. Desculpe, mas nÃ£o posso
 realmente falar mais ...}
-{215}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você deixou. As pessoas estão doentes,
-  Os brahmins estão morrendo e ... eu ... meu cachorro Fumaça morreu. Sinto muita falta dele. Desculpe, mas não posso realmente
-  falar mais ...}
-{300}{}{Você vê Nagor.}
-{302}{}{Primo, estou feliz em ver você! Eu preciso de sua ajuda.}
+{215}{}{Me desculpe, primo. As coisas estÃ£o piorando desde a Ãºltima vez que vocÃª deixou. As pessoas estÃ£o doentes,
+Â  Os brahmins estÃ£o morrendo e ... eu ... meu cachorro FumaÃ§a morreu. Sinto muita falta dele. Desculpe, mas nÃ£o posso realmente
+Â  falar mais ...}
+{300}{}{VocÃª vÃª Nagor.}
+{302}{}{Primo, estou feliz em ver vocÃª! Eu preciso de sua ajuda.}

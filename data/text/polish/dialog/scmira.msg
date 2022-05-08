@@ -1,104 +1,104 @@
-{100}{}{Zgadujesz, ¿e nawet pomimo zielonych w³osów i irokeza masz do czynienia z barmank¹.}
-{101}{}{To jest Mira. W³aœnie robi drinka zwanego Rad-A-Waster.}
-{102}{}{No có¿, jest m³oda i atrakcyjna, ale jest coœ takiego w jej oczach, co mówi ci, ¿e nie zadaje siê z byle kim. To oraz kastety wisz¹ce na ³añcuchu wokó³ jej szyi.}
-{103}{}{Jestem Mira. Co podaæ?}
-{104}{}{Witam ponownie. Podaæ coœ?}
-{105}{}{Poproszê coœ do picia.}
+{100}{}{Zgadujesz, Å¼e nawet pomimo zielonych wÅ‚osÃ³w i irokeza masz do czynienia z barmankÄ….}
+{101}{}{To jest Mira. WÅ‚aÅ›nie robi drinka zwanego Rad-A-Waster.}
+{102}{}{No cÃ³Å¼, jest mÅ‚oda i atrakcyjna, ale jest coÅ› takiego w jej oczach, co mÃ³wi ci, Å¼e nie zadaje siÄ™ z byle kim. To oraz kastety wiszÄ…ce na Å‚aÅ„cuchu wokÃ³Å‚ jej szyi.}
+{103}{}{Jestem Mira. Co podaÄ‡?}
+{104}{}{Witam ponownie. PodaÄ‡ coÅ›?}
+{105}{}{PoproszÄ™ coÅ› do picia.}
 {106}{}{Krypty 13?}
 {107}{}{GECK?}
-{108}{}{Niewa¿ne. Podaj mi specjalnoœæ zak³adu.}
+{108}{}{NiewaÅ¼ne. Podaj mi specjalnoÅ›Ä‡ zakÅ‚adu.}
 {109}{}{Podaj mi piwo.}
 {110}{}{Informacje.}
 {111}{}{Szukam pracy.}
-{112}{}{Có¿, przecie¿ to ty! Dok³adnie tak jak lubiê.}
+{112}{}{CÃ³Å¼, przecieÅ¼ to ty! DokÅ‚adnie tak jak lubiÄ™.}
 {113}{}{Znowu ty?}
 {114}{}{Yubba.}
-{115}{}{Jejku - Lenny pokonany. Imponuj¹ce! Ten drink bêdzie na koszt firmy.}
-{116}{}{Atakowanie Lennego - to by³o szalone!}
-{117}{}{O jejku, porywaj¹ce towarzystwo. W takim razie weŸ Rad-A-Wastera. Tylko dziesiêæ dolców.}
+{115}{}{Jejku - Lenny pokonany. ImponujÄ…ce! Ten drink bÄ™dzie na koszt firmy.}
+{116}{}{Atakowanie Lennego - to byÅ‚o szalone!}
+{117}{}{O jejku, porywajÄ…ce towarzystwo. W takim razie weÅº Rad-A-Wastera. Tylko dziesiÄ™Ä‡ dolcÃ³w.}
 {118}{}{Tak.}
 {119}{}{Nie.}
 {120}{}{Kupisz drinka? 10$.}
 {121}{}{Tak.}
 {122}{}{Nie.}
-{123}{}{Rad-A-Waster raz, proszê bardzo! 10$.}
-{124}{}{W porz¹dku.}
-{125}{}{Dziesiêæ dolców? To dla mnie za du¿o.}
-{126}{}{W porz¹dku, jeden dolar.}
-{127}{}{W porz¹dku.}
+{123}{}{Rad-A-Waster raz, proszÄ™ bardzo! 10$.}
+{124}{}{W porzÄ…dku.}
+{125}{}{DziesiÄ™Ä‡ dolcÃ³w? To dla mnie za duÅ¼o.}
+{126}{}{W porzÄ…dku, jeden dolar.}
+{127}{}{W porzÄ…dku.}
 {128}{}{Nie mam tyle kasy.}
-{129}{}{Spróbuj u Merka. Jest w pokoju obok.}
+{129}{}{SprÃ³buj u Merka. Jest w pokoju obok.}
 {130}{}{Tutaj nic dla ciebie nie ma.}
-{131}{}{Dziêki, chyba.}
-{132}{}{Wiêc, to wszystko?}
+{131}{}{DziÄ™ki, chyba.}
+{132}{}{WiÄ™c, to wszystko?}
 {133}{}{Krypty 13?}
 {134}{}{GECK?}
-{135}{}{Masz odrobinê czasu, by odpowiedzieæ mi na kilka pytañ?}
-{136}{}{Moja iœæ, pa pa.}
+{135}{}{Masz odrobinÄ™ czasu, by odpowiedzieÄ‡ mi na kilka pytaÅ„?}
+{136}{}{Moja iÅ›Ä‡, pa pa.}
 {137}{}{To wszystko.}
-{138}{}{Zmiataj st¹d!}
-{139}{}{Jasne, mam odrobinkê czasu. Od tego s¹ przecie¿ barmani. Tylko niech nic g³upiego nie przyjdzie ci do g³owy.}
+{138}{}{Zmiataj stÄ…d!}
+{139}{}{Jasne, mam odrobinkÄ™ czasu. Od tego sÄ… przecieÅ¼ barmani. Tylko niech nic gÅ‚upiego nie przyjdzie ci do gÅ‚owy.}
 {140}{}{Dla ciebie, kochanie, zawsze mam czas. Czego potrzebujesz?}
 {141}{}{Jasne.}
-{142}{}{Opowiedz mi o tym mieœcie.}
-{143}{}{Czy kiedykolwiek s³ysza³aœ o Krypcie 13?}
-{144}{}{Szukam urz¹dzenia zwanego GECK. Wiesz coœ o tym?}
-{145}{}{O co chodzi z tym goœciem - Merkiem?}
-{146}{}{Jakiœ glina z miasta pieprzy jakieœ bzdury na twój temat. Mo¿esz mi wyt³umaczyæ, o co chodzi?}
-{147}{}{Có¿, w takim razie ten pomys³ w³aœnie wzi¹³ w ³eb.}
-{148}{}{Nazywa siê RNK. Kiedyœ by³y to Cieniste Piaski, ale po upadku Mistrza, Aradesh i inni za³o¿yli Republikê. RNK jest teraz bardzo rozleg³a. Wszystko na po³udnie st¹d nale¿y do Republiki.}
-{149}{}{Jedna uwaga. Staraj siê nie rozrabiaæ. S¹dy nie s¹ zbyt przychylne dla takich jak my, jeœli wiesz co mam na myœli. Obywatele maj¹ wiêcej praw ni¿ ty.}
-{150}{}{S³uchaj, nie mam nic wiêcej do powiedzenia na ten temat.}
+{142}{}{Opowiedz mi o tym mieÅ›cie.}
+{143}{}{Czy kiedykolwiek sÅ‚yszaÅ‚aÅ› o Krypcie 13?}
+{144}{}{Szukam urzÄ…dzenia zwanego GECK. Wiesz coÅ› o tym?}
+{145}{}{O co chodzi z tym goÅ›ciem - Merkiem?}
+{146}{}{JakiÅ› glina z miasta pieprzy jakieÅ› bzdury na twÃ³j temat. MoÅ¼esz mi wytÅ‚umaczyÄ‡, o co chodzi?}
+{147}{}{CÃ³Å¼, w takim razie ten pomysÅ‚ wÅ‚aÅ›nie wziÄ…Å‚ w Å‚eb.}
+{148}{}{Nazywa siÄ™ RNK. KiedyÅ› byÅ‚y to Cieniste Piaski, ale po upadku Mistrza, Aradesh i inni zaÅ‚oÅ¼yli RepublikÄ™. RNK jest teraz bardzo rozlegÅ‚a. Wszystko na poÅ‚udnie stÄ…d naleÅ¼y do Republiki.}
+{149}{}{Jedna uwaga. Staraj siÄ™ nie rozrabiaÄ‡. SÄ…dy nie sÄ… zbyt przychylne dla takich jak my, jeÅ›li wiesz co mam na myÅ›li. Obywatele majÄ… wiÄ™cej praw niÅ¼ ty.}
+{150}{}{SÅ‚uchaj, nie mam nic wiÄ™cej do powiedzenia na ten temat.}
 {151}{}{Hmm.}
-{152}{}{Jeszcze kilka pytañ...}
-{153}{}{Dziêki, postaram siê nie zapomnieæ.}
-{154}{}{Ty te¿ szukasz zaginionego skarbu? Musisz spotkaæ siê z Bobem z rancza Westina. On ci¹gle o nim myœli. Zapewne jednak bêdzie mu potrzebna pewna zachêta.}
-{155}{}{Bob? Moja iœæ.}
-{156}{}{Jeszcze kilka pytañ...}
-{157}{}{Dziêki, postaram siê nie zapomnieæ.}
-{158}{}{Powiedz mi jak to siê robi, a ja ci to przygotujê.}
-{159}{}{Nie byæ drink. GECK to... GECK.}
+{152}{}{Jeszcze kilka pytaÅ„...}
+{153}{}{DziÄ™ki, postaram siÄ™ nie zapomnieÄ‡.}
+{154}{}{Ty teÅ¼ szukasz zaginionego skarbu? Musisz spotkaÄ‡ siÄ™ z Bobem z rancza Westina. On ciÄ…gle o nim myÅ›li. Zapewne jednak bÄ™dzie mu potrzebna pewna zachÄ™ta.}
+{155}{}{Bob? Moja iÅ›Ä‡.}
+{156}{}{Jeszcze kilka pytaÅ„...}
+{157}{}{DziÄ™ki, postaram siÄ™ nie zapomnieÄ‡.}
+{158}{}{Powiedz mi jak to siÄ™ robi, a ja ci to przygotujÄ™.}
+{159}{}{Nie byÄ‡ drink. GECK to... GECK.}
 {160}{}{To nie jest drink. To Generator Ekosystemu Cudownej Krainy.}
-{161}{}{Jeszcze kilka pytañ...}
-{162}{}{Dziêki, postaram siê nie zapomnieæ.}
-{163}{}{To fantastyczny goœæ. Jest moim szefem, spodziewasz siê, ¿e powiem o nim coœ z³ego?}
-{164}{}{Jeszcze kilka pytañ...}
-{165}{}{Dziêki, postaram siê nie zapomnieæ.}
-{166}{}{Ten drañ... To by³ g³oœny rozwód, to wszystko.}
-{167}{}{No có¿, mo¿e porozmawiamy o czymœ innym?}
-{168}{}{Chyba ju¿ sobie pójdê.}
-{169}{}{S³uchaj osio³ku, mo¿esz spróbowaæ u doktora Henry'ego w mieœcie, bo ja mam inne rzeczy na g³owie.}
-{170}{}{Generator Ekosystemu...? Brzmi jak nazwa jakiegoœ urz¹dzenia. O tych sprawach rozmawiaj z Dorot¹, miejskim mechanikiem. }
-{171}{}{Jeszcze kilka pytañ...}
-{172}{}{Dziêki, postaram siê nie zapomnieæ.}
-{173}{}{Hmm - praca? Chcesz pracê? Pomo¿esz Miri?}
+{161}{}{Jeszcze kilka pytaÅ„...}
+{162}{}{DziÄ™ki, postaram siÄ™ nie zapomnieÄ‡.}
+{163}{}{To fantastyczny goÅ›Ä‡. Jest moim szefem, spodziewasz siÄ™, Å¼e powiem o nim coÅ› zÅ‚ego?}
+{164}{}{Jeszcze kilka pytaÅ„...}
+{165}{}{DziÄ™ki, postaram siÄ™ nie zapomnieÄ‡.}
+{166}{}{Ten draÅ„... To byÅ‚ gÅ‚oÅ›ny rozwÃ³d, to wszystko.}
+{167}{}{No cÃ³Å¼, moÅ¼e porozmawiamy o czymÅ› innym?}
+{168}{}{Chyba juÅ¼ sobie pÃ³jdÄ™.}
+{169}{}{SÅ‚uchaj osioÅ‚ku, moÅ¼esz sprÃ³bowaÄ‡ u doktora Henry'ego w mieÅ›cie, bo ja mam inne rzeczy na gÅ‚owie.}
+{170}{}{Generator Ekosystemu...? Brzmi jak nazwa jakiegoÅ› urzÄ…dzenia. O tych sprawach rozmawiaj z DorotÄ…, miejskim mechanikiem. }
+{171}{}{Jeszcze kilka pytaÅ„...}
+{172}{}{DziÄ™ki, postaram siÄ™ nie zapomnieÄ‡.}
+{173}{}{Hmm - praca? Chcesz pracÄ™? PomoÅ¼esz Miri?}
 {174}{}{Tak.}
 {175}{}{Nie.}
-{176}{}{S³uchaj - z³y cz³owiek skrzywdziæ Mirê. Z³y cz³owiek nazywaæ siê Jack. SkrzywdŸ z³ego cz³owieka. Mira ciê lubi, da ci ³adnego gnata. Dobra?}
+{176}{}{SÅ‚uchaj - zÅ‚y czÅ‚owiek skrzywdziÄ‡ MirÄ™. ZÅ‚y czÅ‚owiek nazywaÄ‡ siÄ™ Jack. SkrzywdÅº zÅ‚ego czÅ‚owieka. Mira ciÄ™ lubi, da ci Å‚adnego gnata. Dobra?}
 {177}{}{Tak.}
 {178}{}{Nie.}
-{179}{}{Dobrze! Mira ma linê przerzucon¹ przez mur. IdŸ w nocy. ZnajdŸ linê. Zakradnij siê do du¿e miejsce przy bramie. ZnajdŸ Jacka. SkrzywdŸ Jacka. Mira da ci gnata.}
-{180}{}{IdŸ w nocy. ZnajdŸ linê. Zakradnij siê do du¿e miejsce przy bramie. ZnajdŸ Jacka. SkrzywdŸ Jacka. Mira da ci gnata. A teraz idŸ ju¿. Ja byæ widziana z ty - nie byæ dobrze. Pomó¿ Miri i wróæ. Zrozumiano?}
-{181}{}{Mira s³yszeæ, ¿e Jack skrzywdzony. Dobra robota. Tu gnat, ty braæ. Dziêki.}
-{182}{}{Ty te¿ siê chrzañ. Nigdy siê nie uwolniê od tego drania.}
-{183}{}{Musisz pogadaæ z Merkiem, ale tu go nie ma. PrzyjdŸ w nocy. Wtedy siê tu zjawia.}
-{184}{}{Nie mam pojêcia, co siê przez ciebie sta³o Lenny'emu, ale na twoim miejscu nie krêci³abym siê tu. To nie przysporzy ci wielbicieli.}
-{185}{}{Hej, ostrzega³am ciê. Och, trudno...}
-{186}{}{Ty jesteœ Mira, prawda? Jakiœ glina coœ mi o tobie mówi³.}
-{187}{}{Ty Mira? Z³e Jack rzeczy mówiæ o ty.}
-{188}{}{Ten drañ Jack? Co ci powiedzia³?}
-{189}{}{Jack martwy. By³o bum.}
-{190}{}{Moja zabiæ. On z³y cz³owiek.}
-{191}{}{Nie warto siê martwiæ. Jest martwy. Wysadzi³ siê w powietrze w elektrowni.}
-{192}{}{Ju¿ niewiele. Zgin¹³ z moich r¹k.}
-{193}{}{¯artujesz? To najlepsza wiadomoœæ jak¹ dzisiaj us³ysza³am. Mam nadziejê, ¿e z jego mózgu by³a ³adna tapeta. Przeklêty psychol zas³u¿y³ sobie na to. Masz tu Rad-a-Wastera na mój koszt.}
-{194}{}{Moja lubiæ.}
-{195}{}{Moja iœæ ju¿}
-{196}{}{Dziêki - mam nadziejê. S³uchaj, masz czas by odpowiedzieæ mi na kilka pytañ?}
-{197}{}{Dziêki. Po prostu uwa¿am, ¿e powinnaœ o tym wiedzieæ.}
-{198}{}{Co? O, gdybym nie by³a w pracy, wspiê³abym siê na bar i... có¿, poca³owa³a ciê. Ta ma³a gnida zas³u¿y³a sobie na to. Nie mów nikomu, ale mia³am nadziejê znaleŸæ jakiegoœ g³upiego osi³ka ¿eby to dla mnie za³atwi³. Mam nawet nagrodê. Jest twoja. Z tego co s³ysza³am, w pe³ni na ni¹ zas³ugujesz.}
-{199}{}{Dziêki - mam nadziejê. S³uchaj, masz czas by odpowiedzieæ mi na kilka pytañ?}
-{200}{}{Dziêki. Po prostu uwa¿am, ¿e powinnaœ o tym wiedzieæ.}
-{201}{}{Osio³ku, sprawiasz, ¿e jestem najszczêœliwsz¹ kobiet¹ w okolicy! W nagrodê mam dla ciebie niespodziankê, tutaj za barem. Jest twoja.}
-{202}{}{Moja lubiæ Mira.}
-{203}{}{Moja lubiæ gnat. Moja iœæ pa pa.}
+{179}{}{Dobrze! Mira ma linÄ™ przerzuconÄ… przez mur. IdÅº w nocy. ZnajdÅº linÄ™. Zakradnij siÄ™ do duÅ¼e miejsce przy bramie. ZnajdÅº Jacka. SkrzywdÅº Jacka. Mira da ci gnata.}
+{180}{}{IdÅº w nocy. ZnajdÅº linÄ™. Zakradnij siÄ™ do duÅ¼e miejsce przy bramie. ZnajdÅº Jacka. SkrzywdÅº Jacka. Mira da ci gnata. A teraz idÅº juÅ¼. Ja byÄ‡ widziana z ty - nie byÄ‡ dobrze. PomÃ³Å¼ Miri i wrÃ³Ä‡. Zrozumiano?}
+{181}{}{Mira sÅ‚yszeÄ‡, Å¼e Jack skrzywdzony. Dobra robota. Tu gnat, ty braÄ‡. DziÄ™ki.}
+{182}{}{Ty teÅ¼ siÄ™ chrzaÅ„. Nigdy siÄ™ nie uwolniÄ™ od tego drania.}
+{183}{}{Musisz pogadaÄ‡ z Merkiem, ale tu go nie ma. PrzyjdÅº w nocy. Wtedy siÄ™ tu zjawia.}
+{184}{}{Nie mam pojÄ™cia, co siÄ™ przez ciebie staÅ‚o Lenny'emu, ale na twoim miejscu nie krÄ™ciÅ‚abym siÄ™ tu. To nie przysporzy ci wielbicieli.}
+{185}{}{Hej, ostrzegaÅ‚am ciÄ™. Och, trudno...}
+{186}{}{Ty jesteÅ› Mira, prawda? JakiÅ› glina coÅ› mi o tobie mÃ³wiÅ‚.}
+{187}{}{Ty Mira? ZÅ‚e Jack rzeczy mÃ³wiÄ‡ o ty.}
+{188}{}{Ten draÅ„ Jack? Co ci powiedziaÅ‚?}
+{189}{}{Jack martwy. ByÅ‚o bum.}
+{190}{}{Moja zabiÄ‡. On zÅ‚y czÅ‚owiek.}
+{191}{}{Nie warto siÄ™ martwiÄ‡. Jest martwy. WysadziÅ‚ siÄ™ w powietrze w elektrowni.}
+{192}{}{JuÅ¼ niewiele. ZginÄ…Å‚ z moich rÄ…k.}
+{193}{}{Å»artujesz? To najlepsza wiadomoÅ›Ä‡ jakÄ… dzisiaj usÅ‚yszaÅ‚am. Mam nadziejÄ™, Å¼e z jego mÃ³zgu byÅ‚a Å‚adna tapeta. PrzeklÄ™ty psychol zasÅ‚uÅ¼yÅ‚ sobie na to. Masz tu Rad-a-Wastera na mÃ³j koszt.}
+{194}{}{Moja lubiÄ‡.}
+{195}{}{Moja iÅ›Ä‡ juÅ¼}
+{196}{}{DziÄ™ki - mam nadziejÄ™. SÅ‚uchaj, masz czas by odpowiedzieÄ‡ mi na kilka pytaÅ„?}
+{197}{}{DziÄ™ki. Po prostu uwaÅ¼am, Å¼e powinnaÅ› o tym wiedzieÄ‡.}
+{198}{}{Co? O, gdybym nie byÅ‚a w pracy, wspiÄ™Å‚abym siÄ™ na bar i... cÃ³Å¼, pocaÅ‚owaÅ‚a ciÄ™. Ta maÅ‚a gnida zasÅ‚uÅ¼yÅ‚a sobie na to. Nie mÃ³w nikomu, ale miaÅ‚am nadziejÄ™ znaleÅºÄ‡ jakiegoÅ› gÅ‚upiego osiÅ‚ka Å¼eby to dla mnie zaÅ‚atwiÅ‚. Mam nawet nagrodÄ™. Jest twoja. Z tego co sÅ‚yszaÅ‚am, w peÅ‚ni na niÄ… zasÅ‚ugujesz.}
+{199}{}{DziÄ™ki - mam nadziejÄ™. SÅ‚uchaj, masz czas by odpowiedzieÄ‡ mi na kilka pytaÅ„?}
+{200}{}{DziÄ™ki. Po prostu uwaÅ¼am, Å¼e powinnaÅ› o tym wiedzieÄ‡.}
+{201}{}{OsioÅ‚ku, sprawiasz, Å¼e jestem najszczÄ™Å›liwszÄ… kobietÄ… w okolicy! W nagrodÄ™ mam dla ciebie niespodziankÄ™, tutaj za barem. Jest twoja.}
+{202}{}{Moja lubiÄ‡ Mira.}
+{203}{}{Moja lubiÄ‡ gnat. Moja iÅ›Ä‡ pa pa.}

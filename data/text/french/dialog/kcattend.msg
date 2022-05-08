@@ -1,59 +1,59 @@
-{100}{}{Voici une jeune femme très séduisante.}
-{101}{}{Voici une des hôtesses des Bains.}
+{100}{}{Voici une jeune femme trÃ¨s sÃ©duisante.}
+{101}{}{Voici une des hÃ´tesses des Bains.}
 {102}{}{Voici l'une des filles de Sally La Fouine.}
 {103}{}{Voici une femme qui a l'air de s'ennuyer.}
-{104}{}{Voici une femme qui te regarde des pieds à la tête.}
-{105}{}{Cette femme te déshabille du regard.}
+{104}{}{Voici une femme qui te regarde des pieds Ã  la tÃªte.}
+{105}{}{Cette femme te dÃ©shabille du regard.}
 {106}{}{Voici une jeune femme.}
-{110}{}{C'était du rapide.}
+{110}{}{C'Ã©tait du rapide.}
 {111}{}{Ca fait longtemps, mon chou ?}
-{112}{}{Ca durera peut-être plus longtemps la prochaine fois.}
+{112}{}{Ca durera peut-Ãªtre plus longtemps la prochaine fois.}
 {113}{}{On fait pas la course, tu sais ?}
-{114}{}{Est-ce que tes amis t'appellent « Speedy » ?}
-{115}{}{Si tous mes clients étaient aussi rapides que toi, je rentrerais chez moi plus tôt. }
+{114}{}{Est-ce que tes amis t'appellent Â« Speedy Â» ?}
+{115}{}{Si tous mes clients Ã©taient aussi rapides que toi, je rentrerais chez moi plus tÃ´t. }
 {116}{}{C'est plus amusant si tu attends que je t'aide.}
-{117}{}{Si tu attendais que je me déshabille, je parie que t'aurais plus de plaisir.}
-{120}{}{C'était très bien. Tu es un mâle, un vrai.}
-{121}{}{C'était vraiment quelque chose. Tu es fantastique. Au suivant !}
-{122}{}{Oh, oui ! Oh, ça n'a jamais été aussi bon... ::Bâillement::}
-{123}{}{Tu es le meilleur. Reviens bientôt.}
-{124}{}{Je suis sûre que tu rendrais une fille tribale très heureuse.}
-{125}{}{Non, mon chou, la taille n'a aucune importance. C'était super.}
-{126}{}{Mon petit coeur brûlant d'amour.}
-{127}{}{Quel joli petit bonhomme tu as là !}
-{130}{}{La taille c'est très important ! Doux mystère de la vie...}
-{131}{}{Je déclarerai des heures sup' la prochaine fois que je te verrai.}
+{117}{}{Si tu attendais que je me dÃ©shabille, je parie que t'aurais plus de plaisir.}
+{120}{}{C'Ã©tait trÃ¨s bien. Tu es un mÃ¢le, un vrai.}
+{121}{}{C'Ã©tait vraiment quelque chose. Tu es fantastique. Au suivant !}
+{122}{}{Oh, oui ! Oh, Ã§a n'a jamais Ã©tÃ© aussi bon... ::BÃ¢illement::}
+{123}{}{Tu es le meilleur. Reviens bientÃ´t.}
+{124}{}{Je suis sÃ»re que tu rendrais une fille tribale trÃ¨s heureuse.}
+{125}{}{Non, mon chou, la taille n'a aucune importance. C'Ã©tait super.}
+{126}{}{Mon petit coeur brÃ»lant d'amour.}
+{127}{}{Quel joli petit bonhomme tu as lÃ  !}
+{130}{}{La taille c'est trÃ¨s important ! Doux mystÃ¨re de la vie...}
+{131}{}{Je dÃ©clarerai des heures sup' la prochaine fois que je te verrai.}
 {132}{}{Au moins toi, tu en veux pour ton argent.}
-{133}{}{Je prends mon après-midi.}
+{133}{}{Je prends mon aprÃ¨s-midi.}
 {134}{}{Incroyable ! Toi aussi tu as senti la terre trembler ?}
 {135}{}{Maintenant, je sais ce que la Grande Catherine a pu ressentir.}
-{140}{}{Hé ! Un sou est un sou.}
-{141}{}{C'était, heu... différent.}
-{142}{}{C'était vraiment spécial. Au suivant !}
+{140}{}{HÃ© ! Un sou est un sou.}
+{141}{}{C'Ã©tait, heu... diffÃ©rent.}
+{142}{}{C'Ã©tait vraiment spÃ©cial. Au suivant !}
 {143}{}{Non, tu n'utiliseras pas mon parfum.}
-{144}{}{Hé bien, au moins tu as des moustaches plus petites que la plupart de mes clients.}
-{145}{}{T'es sûre que t'es une fille ?}
-{150}{}{C'était pas mal.}
-{151}{}{C'était différent, mais dans le genre intéressant.}
-{152}{}{J'aimerais bien renouveler l'expérience un de ces quatre.}
+{144}{}{HÃ© bien, au moins tu as des moustaches plus petites que la plupart de mes clients.}
+{145}{}{T'es sÃ»re que t'es une fille ?}
+{150}{}{C'Ã©tait pas mal.}
+{151}{}{C'Ã©tait diffÃ©rent, mais dans le genre intÃ©ressant.}
+{152}{}{J'aimerais bien renouveler l'expÃ©rience un de ces quatre.}
 {153}{}{On pourrait se revoir en dehors de mes heures de travail.}
-{154}{}{C'était vraiment adorable, mon lapin.}
-{155}{}{Wahou ! Ma vie ne sera plus jamais la même à présent !}
-{156}{}{J'aurais jamais pensé que ça pouvait être comme ça.}
-{160}{}{Tu devrais parler à Sally La Fouine.}
+{154}{}{C'Ã©tait vraiment adorable, mon lapin.}
+{155}{}{Wahou ! Ma vie ne sera plus jamais la mÃªme Ã  prÃ©sent !}
+{156}{}{J'aurais jamais pensÃ© que Ã§a pouvait Ãªtre comme Ã§a.}
+{160}{}{Tu devrais parler Ã  Sally La Fouine.}
 {161}{}{Quel bout de chou tu fais !}
 {162}{}{Je t'aimerai toujours !}
 {163}{}{Reviens me voir de temps en temps.}
 {164}{}{Tu sais siffler, hein ?}
-{165}{}{Avant, j'étais blanche comme neige et un jour, j'ai dérapé.}
+{165}{}{Avant, j'Ã©tais blanche comme neige et un jour, j'ai dÃ©rapÃ©.}
 {166}{}{::Siffle::}
-{167}{}{Salut toi, beau félin.}
-{168}{}{Salut trésooor...}
+{167}{}{Salut toi, beau fÃ©lin.}
+{168}{}{Salut trÃ©sooor...}
 {169}{}{Si tu veux de l'action, va voir Sally.}
 {170}{}{Gratte, gratte, gratounette...}
 {171}{}{Un bon bain ne te ferait pas de mal.}
 {172}{}{Oh, un tribal, j'adore les trucs exotiques.}
-{173}{}{En général, je ne touche pas aux tribals.}
+{173}{}{En gÃ©nÃ©ral, je ne touche pas aux tribals.}
 {174}{}{Le spectacle te fait envie ?}
 {175}{}{T'as envie de moi ?}
 {176}{}{Il faut payer pour toucher, mon lapin.}

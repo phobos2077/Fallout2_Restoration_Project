@@ -6,7 +6,7 @@
 {106}{}{Teste de roteiro 4}
 {107}{}{Teste de roteiro 5}
 {108}{}{Guerreiro de Arroio}
-{109}{}{Alde„o de Arroyo}
+{109}{}{Alde√£o de Arroyo}
 {110}{}{Mynoc}
 {111}{}{Ancia de Arroyo}
 {112}{}{Hakunin}
@@ -63,7 +63,7 @@
 {163}{}{Tumulo}
 {164}{}{Tumulo}
 {165}{}{Ossos}
-{166}{}{Di·rio}
+{166}{}{Di√°rio}
 {167}{}{Medalhao}
 {168}{}{Quieto}
 {169}{}{Tumulo}
@@ -75,7 +75,7 @@
 {175}{}{Dados}
 {176}{}{Aldo}
 {177}{}{Ardin}
-{178}{}{CrianÁa}
+{178}{}{Crian√ßa}
 {179}{}{Cidadao}
 {180}{}{Maida}
 {181}{}{Sajag}
@@ -111,17 +111,17 @@
 {211}{}{Harry}
 {212}{}{Sra. Smith}
 {213}{}{Melinda}
-{214}{}{CaÁador}
+{214}{}{Ca√ßador}
 {215}{}{Sr. Smith}
 {216}{}{Skeeve}
-{217}{}{Proconsul GregÛrio}
+{217}{}{Proconsul Greg√≥rio}
 {218}{}{Enfermeira Phyllis}
 {219}{}{Randal}
 {220}{}{Gosma}
 {221}{}{Barkus}
 {222}{}{Aldeao}
 {223}{}{Stark}
-{224}{}{Guarda do Port„o da Vault}
+{224}{}{Guarda do Port√£o da Vault}
 {225}{}{Velho Joe}
 {226}{}{Connar}
 {227}{}{Wallace}
@@ -146,7 +146,7 @@
 {246}{}{Roteiro do mapa}
 {247}{}{Roteiro do mapa}
 {248}{}{Roteiro do mapa}
-{249}{}{Robo de seguranÁa}
+{249}{}{Robo de seguran√ßa}
 {250}{}{Robo de reparos}
 {251}{}{Holodisco}
 {252}{}{Holodisco}
@@ -170,22 +170,22 @@
 {270}{}{Cofre}
 {271}{}{Cofre}
 {272}{}{Tandi}
-{273}{}{Armadilha de LanÁa}
-{274}{}{Armadilha de LanÁa}
-{275}{}{Armadilha de LanÁa}
-{276}{}{Armadilha de LanÁa}
-{277}{}{Armadilha de LanÁa}
-{278}{}{Armadilha de LanÁa}
-{279}{}{Armadilha de LanÁa}
-{280}{}{Armadilha de LanÁa}
-{281}{}{Armadilha de LanÁa}
-{282}{}{Armadilha de LanÁa}
-{283}{}{Armadilha de LanÁa}
-{284}{}{Armadilha de LanÁa}
-{285}{}{Armadilha de LanÁa}
-{286}{}{Armadilha de LanÁa}
-{287}{}{Armadilha de LanÁa}
-{288}{}{Armadilha de LanÁa}
+{273}{}{Armadilha de Lan√ßa}
+{274}{}{Armadilha de Lan√ßa}
+{275}{}{Armadilha de Lan√ßa}
+{276}{}{Armadilha de Lan√ßa}
+{277}{}{Armadilha de Lan√ßa}
+{278}{}{Armadilha de Lan√ßa}
+{279}{}{Armadilha de Lan√ßa}
+{280}{}{Armadilha de Lan√ßa}
+{281}{}{Armadilha de Lan√ßa}
+{282}{}{Armadilha de Lan√ßa}
+{283}{}{Armadilha de Lan√ßa}
+{284}{}{Armadilha de Lan√ßa}
+{285}{}{Armadilha de Lan√ßa}
+{286}{}{Armadilha de Lan√ßa}
+{287}{}{Armadilha de Lan√ßa}
+{288}{}{Armadilha de Lan√ßa}
 {289}{}{Caverna Fantasma 1}
 {290}{}{Caverna Fantasma 2}
 {291}{}{Ghost Farm}
@@ -194,7 +194,7 @@
 {294}{}{Pousada Modoc}
 {295}{}{Centro de Modoc}
 {296}{}{Latrina de Modoc}
-{297}{}{PoÁo de Modoc}
+{297}{}{Po√ßo de Modoc}
 {298}{}{Area 2 da NCR}
 {299}{}{Jardins de Arroio}
 {300}{}{Gecko}
@@ -214,7 +214,7 @@
 {314}{}{Tia Morlis}
 {315}{}{Lucas}
 {316}{}{Feargus}
-{317}{}{PoÁo}
+{317}{}{Po√ßo}
 {318}{}{Gruthar}
 {319}{}{Roteiro do mapa}
 {320}{}{Doofus}
@@ -237,17 +237,17 @@
 {337}{}{Emissor}
 {338}{}{Emissor}
 {339}{}{Emissor}
-{340}{}{Campo de forÁa}
-{341}{}{Campo de forÁa}
-{342}{}{Campo de forÁa}
-{343}{}{Campo de forÁa}
-{344}{}{Campo de forÁa}
-{345}{}{Campo de forÁa}
-{346}{}{Campo de forÁa}
-{347}{}{Campo de forÁa}
-{348}{}{Campo de forÁa}
-{349}{}{Campo de forÁa}
-{350}{}{Campo de forÁa}
+{340}{}{Campo de for√ßa}
+{341}{}{Campo de for√ßa}
+{342}{}{Campo de for√ßa}
+{343}{}{Campo de for√ßa}
+{344}{}{Campo de for√ßa}
+{345}{}{Campo de for√ßa}
+{346}{}{Campo de for√ßa}
+{347}{}{Campo de for√ßa}
+{348}{}{Campo de for√ßa}
+{349}{}{Campo de for√ßa}
+{350}{}{Campo de for√ßa}
 {351}{}{Klaxon}
 {352}{}{Buster}
 {353}{}{Prateleiras}
@@ -263,7 +263,7 @@
 {363}{}{Armadilha de plasma}
 {364}{}{Terminal}
 {365}{}{Quadro de avisos}
-{366}{}{Port„o}
+{366}{}{Port√£o}
 {367}{}{Gosma}
 {368}{}{Porta}
 {369}{}{Porta}
@@ -327,8 +327,8 @@
 {427}{}{Traficante de drogas}
 {428}{}{Cliente do Cassino}
 {429}{}{Comprador}
-{430}{}{ZÈ Droguinha}
-{431}{}{Mobili·rio}
+{430}{}{Z√© Droguinha}
+{431}{}{Mobili√°rio}
 {432}{}{Piso}
 {433}{}{Terreno}
 {434}{}{Holodisco}
@@ -354,10 +354,10 @@
 {454}{}{Rua 2, New Reno}
 {455}{}{Zona Comercial, New Reno}
 {456}{}{Lado Leste, New Reno}
-{457}{}{Est·bulos, New Reno}
+{457}{}{Est√°bulos, New Reno}
 {458}{}{Sucateiro, New Reno}
 {459}{}{Golgota, New Reno}
-{460}{}{Por„o de Bishop, New Reno}
+{460}{}{Por√£o de Bishop, New Reno}
 {461}{}{Holodisco}
 {462}{}{Holodisco}
 {463}{}{Holodisco}
@@ -367,29 +367,29 @@
 {467}{}{carrinho de mina}
 {468}{}{Melchior}
 {469}{}{Besta mutante}
-{470}{}{Subst‚ncia FEV}
+{470}{}{Subst√¢ncia FEV}
 {471}{}{Capitao da Guarda}
 {472}{}{Supervisor de Escravos}
 {473}{}{Mascote de Melchior}
 {474}{}{Guarda escravista}
 {475}{}{Porta}
 {476}{}{Terminal}
-{477}{}{CaÁa-nÌqueis}
-{478}{}{CrianÁa}
+{477}{}{Ca√ßa-n√≠queis}
+{478}{}{Crian√ßa}
 {479}{}{Sheb}
 {480}{}{Guarda}
 {481}{}{Emissor}
-{482}{}{Campo de forÁa}
+{482}{}{Campo de for√ßa}
 {483}{}{Sulik}
 {484}{}{Dr. Henry}
 {485}{}{Guarda}
 {486}{}{Guardas de Ataque de Carlson}
-{487}{}{Guardas do port„o de Carlson}
+{487}{}{Guardas do port√£o de Carlson}
 {488}{}{Prisioneiro}
 {489}{}{Prisioneiro}
 {490}{}{Cidadao}
-{491}{}{EscritÛrio de ServiÁos}
-{492}{}{Guarda de expediÁ„o}
+{491}{}{Escrit√≥rio de Servi√ßos}
+{492}{}{Guarda de expedi√ß√£o}
 {493}{}{Trabalhador ghoul}
 {494}{}{Resplandecente}
 {495}{}{Guarda Ghoul}
@@ -409,16 +409,16 @@
 {509}{}{Bob}
 {510}{}{Garota do cassino}
 {511}{}{Garota do cassino}
-{512}{}{Bola Oito M·gica}
+{512}{}{Bola Oito M√°gica}
 {513}{}{Brahmin}
-{514}{}{CaÁa-nÌqueis}
+{514}{}{Ca√ßa-n√≠queis}
 {515}{}{Velho McGee}
-{516}{}{Monte de trÍs cartas}
+{516}{}{Monte de tr√™s cartas}
 {517}{}{Algernon}
 {518}{}{Bill}
 {519}{}{Guarda costa de Bishop}
 {520}{}{John Bishop}
-{521}{}{M·quina de cassino}
+{521}{}{M√°quina de cassino}
 {522}{}{Garoto da Loja do Chopp}
 {523}{}{Chris Wright}
 {524}{}{Cody}
@@ -431,13 +431,13 @@
 {531}{}{Jagged Jimmy J}
 {532}{}{Keith Wright}
 {533}{}{Lee Anne Bishop}
-{534}{}{Lloyd Bonit„o }
+{534}{}{Lloyd Bonit√£o }
 {535}{}{Mason}
 {536}{}{Guarda}
 {537}{}{Myron}
 {538}{}{Nikki}
 {539}{}{Orville Wright}
-{540}{}{Chefe do poÁo}
+{540}{}{Chefe do po√ßo}
 {541}{}{Renesco, o Astronauta}
 {542}{}{Marjorie Reed}
 {543}{}{Chefe Salvatore}
@@ -455,7 +455,7 @@
 {555}{}{Porta da cela}
 {556}{}{Grande Jesus Mordino}
 {557}{}{Hoss}
-{558}{}{Soro mutagÍnico}
+{558}{}{Soro mutag√™nico}
 {559}{}{Caixa}
 {560}{}{Caixa}
 {561}{}{Caixa}
@@ -506,7 +506,7 @@
 {606}{}{Super mutante}
 {607}{}{Pescador}
 {608}{}{Traficante de escravos}
-{609}{}{CaÁador}
+{609}{}{Ca√ßador}
 {610}{}{Filho de Carlson}
 {611}{}{Carlson}
 {612}{}{}
@@ -516,7 +516,7 @@
 {616}{}{Computador}
 {617}{}{Brahmin}
 {618}{}{Deathclaw}
-{619}{}{SaÌda}
+{619}{}{Sa√≠da}
 {620}{}{Computador}
 {621}{}{Feargus}
 {622}{}{Ariel}
@@ -526,7 +526,7 @@
 {626}{}{Dar}
 {627}{}{Dave}
 {628}{}{Gordon}
-{629}{}{Sinal fora de serviÁo}
+{629}{}{Sinal fora de servi√ßo}
 {630}{}{Maquinaria de Controle do Reator}
 {631}{}{Jimmy}
 {632}{}{Joseph}
@@ -541,12 +541,12 @@
 {641}{}{Caixa}
 {642}{}{Valdis}
 {643}{}{Terminal do computador}
-{644}{}{Arm·rio de metal}
-{645}{}{Ba˙}
+{644}{}{Arm√°rio de metal}
+{645}{}{Ba√∫}
 {646}{}{Guarda Deathclaw}
 {647}{}{Goris}
 {648}{}{Caixa}
-{649}{}{Arm·rio de metal}
+{649}{}{Arm√°rio de metal}
 {650}{}{Trapaceiro}
 {651}{}{V15 map Script}
 {652}{}{Phil}
@@ -570,9 +570,9 @@
 {670}{}{Guarda de Darion}
 {671}{}{Cachorro de Darion}
 {672}{}{Cassidy}
-{673}{}{PoÁo}
+{673}{}{Po√ßo}
 {674}{}{Rato toupeira}
-{675}{}{PedaÁo de brahmin}
+{675}{}{Peda√ßo de brahmin}
 {676}{}{Brahmin}
 {677}{}{Porta do elevador}
 {678}{}{Doguinho}
@@ -584,7 +584,7 @@
 {684}{}{Guarda da Vault 15}
 {685}{}{Slag}
 {686}{}{Tapete}
-{687}{}{CrianÁa}
+{687}{}{Crian√ßa}
 {688}{}{Aileen}
 {689}{}{Guarda}
 {690}{}{Doc Holiday}
@@ -622,7 +622,7 @@
 {722}{}{Nomade}
 {723}{}{Vagabundo}
 {724}{}{Bandido}
-{725}{}{Ladr„o}
+{725}{}{Ladr√£o}
 {726}{}{Highwayman}
 {727}{}{Traficante de escravos}
 {728}{}{Escravo}
@@ -635,11 +635,11 @@
 {735}{}{Terminal do computador}
 {736}{}{Computador}
 {737}{}{Gerador de energia}
-{738}{}{Campo de forÁa}
+{738}{}{Campo de for√ßa}
 {739}{}{Campones}
 {740}{}{Emissor}
-{741}{}{Porta do Ref˙gio}
-{742}{}{Porta de SeguranÁa.}
+{741}{}{Porta do Ref√∫gio}
+{742}{}{Porta de Seguran√ßa.}
 {743}{}{Encontro de Bess}
 {744}{}{Bess}
 {745}{}{Brahmin}
@@ -650,25 +650,25 @@
 {750}{}{Safe}
 {751}{}{Safe}
 {752}{}{Tumulo}
-{753}{}{CÙmoda}
+{753}{}{C√¥moda}
 {754}{}{Tumulo}
 {755}{}{Quieto}
 {756}{}{Ramirez}
-{757}{}{Mapa de Encontro AleatÛrio da Caverna 1}
+{757}{}{Mapa de Encontro Aleat√≥rio da Caverna 1}
 {758}{}{Caixa}
 {759}{}{Porta}
-{760}{}{Mapa de Encontro AleatÛrio da Caverna 2}
-{761}{}{Mapa de Encontro AleatÛrio da Caverna 3}
-{762}{}{Mapa de Encontro AleatÛrio da Caverna 4}
-{763}{}{Mapa de Encontro AleatÛrio da Caverna 2}
+{760}{}{Mapa de Encontro Aleat√≥rio da Caverna 2}
+{761}{}{Mapa de Encontro Aleat√≥rio da Caverna 3}
+{762}{}{Mapa de Encontro Aleat√≥rio da Caverna 4}
+{763}{}{Mapa de Encontro Aleat√≥rio da Caverna 2}
 {764}{}{Porta}
 {765}{}{Roteiro do mapa}
-{766}{}{AlÁap„o}
+{766}{}{Al√ßap√£o}
 {767}{}{Cofre}
 {768}{}{Sala}
 {769}{}{Thomas Moore}
 {770}{}{Porta}
-{771}{}{Arm·rio}
+{771}{}{Arm√°rio}
 {772}{}{Bueiro}
 {773}{}{Tumulo}
 {774}{}{Guarda de Suprimentos}
@@ -701,7 +701,7 @@
 {801}{}{John}
 {802}{}{Joshua}
 {803}{}{Escada}
-{804}{}{CabeÁa Grande}
+{804}{}{Cabe√ßa Grande}
 {805}{}{Heroi Negro}
 {806}{}{Heroina Vermelha}
 {807}{}{Set}
@@ -715,7 +715,7 @@
 {815}{}{Roteiro do mapa}
 {816}{}{Rato Vorpal}
 {817}{}{Doguinho}
-{818}{}{Sargento de PerfuraÁ„o}
+{818}{}{Sargento de Perfura√ß√£o}
 {819}{}{Guarda}
 {820}{}{Tecnico}
 {821}{}{Comandante}
@@ -749,9 +749,9 @@
 {849}{}{Cameron}
 {850}{}{Porta}
 {851}{}{Klint}
-{852}{}{PlantaÁıes}
+{852}{}{Planta√ß√µes}
 {853}{}{Tecnico de laboratorio Shi}
-{854}{}{CrianÁa}
+{854}{}{Crian√ßa}
 {855}{}{Ghoul}
 {856}{}{Dr. Fung}
 {857}{}{Jul}
@@ -765,7 +765,7 @@
 {865}{}{Nomade Chefe}
 {866}{}{Hubologista}
 {867}{}{Louco}
-{868}{}{Cors·rio}
+{868}{}{Cors√°rio}
 {869}{}{Canibal}
 {870}{}{Xama Nomade}
 {871}{}{Saqueador}
@@ -801,7 +801,7 @@
 {901}{}{}
 {902}{}{Caixa}
 {903}{}{Presidente Richardson}
-{904}{}{Canh„o Howitzer}
+{904}{}{Canh√£o Howitzer}
 {905}{}{Porta}
 {906}{}{Deathclaw bebe}
 {907}{}{Perigoso Dan}
@@ -811,8 +811,8 @@
 {911}{}{Nording}
 {912}{}{Velani}
 {913}{}{Ferndown}
-{914}{}{O Drag„o}
-{915}{}{CavalariÁo}
+{914}{}{O Drag√£o}
+{915}{}{Cavalari√ßo}
 {916}{}{Comerciante}
 {917}{}{Habitante}
 {918}{}{Slag}
@@ -833,16 +833,16 @@
 {933}{}{Kaga}
 {934}{}{Kaga}
 {935}{}{Kaga}
-{936}{}{CaÁador de Recompensa}
+{936}{}{Ca√ßador de Recompensa}
 {937}{}{Computador}
 {938}{}{Computador}
 {939}{}{Computador}
 {940}{}{Darrow}
 {941}{}{Farrell}
 {942}{}{Patrono do Bar}
-{943}{}{Cidad„o da Vault}
+{943}{}{Cidad√£o da Vault}
 {944}{}{Servo da Vault}
-{945}{}{PoÁo de ventilaÁ„o}
+{945}{}{Po√ßo de ventila√ß√£o}
 {946}{}{Charlie}
 {947}{}{Painel de Controle do Refrigerante}
 {948}{}{Estrume}
@@ -870,7 +870,7 @@
 {970}{}{Tom Murray}
 {971}{}{Porta resistente}
 {972}{}{Habitante}
-{973}{}{¡rea da C‚mara Municipal de Vault City}
+{973}{}{√Årea da C√¢mara Municipal de Vault City}
 {974}{}{Purificador de ar}
 {975}{}{Rochas}
 {976}{}{Jogador}
@@ -884,8 +884,8 @@
 {984}{}{}
 {985}{}{}
 {986}{}{Emissor}
-{987}{}{Porta de seguranÁa}
-{988}{}{Porta de seguranÁa}
+{987}{}{Porta de seguran√ßa}
+{988}{}{Porta de seguran√ßa}
 {989}{}{Estoque de Darrow}
 {990}{}{Porta}
 {991}{}{Super Mutante Legal}
@@ -894,7 +894,7 @@
 {994}{}{Melchior Jr.}
 {995}{}{Scanner de Retina}
 {996}{}{Porta do elevador}
-{997}{}{Recept·culo CibernÈtico}
+{997}{}{Recept√°culo Cibern√©tico}
 {998}{}{Parede}
 {999}{}{Roteiro do mapa}
 {1000}{}{Estoque de Farrell}
@@ -918,15 +918,15 @@
 {1018}{}{Caixa}
 {1019}{}{Caixa}
 {1020}{}{Porta-malas}
-{1021}{}{Porta de SeguranÁa.}
+{1021}{}{Porta de Seguran√ßa.}
 {1022}{}{Terminal do computador}
 {1023}{}{Terminal do computador}
 {1024}{}{Terminal do computador}
 {1025}{}{Lao Chou}
 {1026}{}{}
-{1027}{}{PoÁo de ventilaÁ„o}
+{1027}{}{Po√ßo de ventila√ß√£o}
 {1028}{}{Roteiro do mapa}
-{1029}{}{Cad·ver}
+{1029}{}{Cad√°ver}
 {1030}{}{Fios expostos}
 {1031}{}{Caixa}
 {1032}{}{Escravo}
@@ -935,14 +935,14 @@
 {1035}{}{Chip}
 {1036}{}{Reactor}
 {1037}{}{Computador do Reator}
-{1038}{}{Caixa eletrÙnico}
+{1038}{}{Caixa eletr√¥nico}
 {1039}{}{Cofre}
 {1040}{}{Wanamingo}
 {1041}{}{Patrono do Bar}
 {1042}{}{Patrono do Bar}
 {1043}{}{Porta da cadeia}
 {1044}{}{Suze}
-{1045}{}{Capit„o Ron Meyers}
+{1045}{}{Capit√£o Ron Meyers}
 {1046}{}{Porta do Curral}
 {1047}{}{Mina Wanamingo}
 {1048}{}{Entrada da Mina Wanamingo}
@@ -1015,15 +1015,15 @@
 {1115}{}{Emissor}
 {1116}{}{Emissor}
 {1117}{}{Emissor}
-{1118}{}{Campo de forÁa}
-{1119}{}{Campo de forÁa}
-{1120}{}{Campo de forÁa}
+{1118}{}{Campo de for√ßa}
+{1119}{}{Campo de for√ßa}
+{1120}{}{Campo de for√ßa}
 {1121}{}{Hubologista}
 {1122}{}{Computador}
 {1123}{}{Porta do bunker}
-{1124}{}{Port„o}
+{1124}{}{Port√£o}
 {1125}{}{Caixa}
-{1126}{}{Irm„o Morton}
+{1126}{}{Irm√£o Morton}
 {1127}{}{Emissor}
 {1128}{}{Emissor}
 {1129}{}{Emissor}
@@ -1045,10 +1045,10 @@
 {1145}{}{}
 {1146}{}{Roteiro do mapa}
 {1147}{}{Escravo}
-{1148}{}{Cidad„o da Vault}
+{1148}{}{Cidad√£o da Vault}
 {1149}{}{Porta}
 {1150}{}{Boxeador}
-{1151}{}{Porta do Ref˙gio}
+{1151}{}{Porta do Ref√∫gio}
 {1152}{}{Xarn}
 {1153}{}{Raul}
 {1154}{}{Quincy}
@@ -1068,14 +1068,14 @@
 {1168}{}{Tecnico}
 {1169}{}{Cave In}
 {1170}{}{Patrulheiro da Enclave}
-{1171}{}{Porta de seguranÁa}
+{1171}{}{Porta de seguran√ßa}
 {1172}{}{Roteiro do mapa}
 {1173}{}{Roteiro do mapa}
 {1174}{}{Roteiro do mapa}
 {1175}{}{Roteiro do mapa}
 {1176}{}{Roteiro do mapa}
 {1177}{}{Roteiro do mapa}
-{1178}{}{Robo de seguranÁa}
+{1178}{}{Robo de seguran√ßa}
 {1179}{}{Caixa de esmolas}
 {1180}{}{Cadaver}
 {1181}{}{Caixa}
@@ -1121,12 +1121,12 @@
 {1221}{}{Roteiro do mapa}
 {1222}{}{}
 {1223}{}{Tumulo}
-{1224}{}{Caix„o Willie}
+{1224}{}{Caix√£o Willie}
 {1225}{}{Computador sem chave de entrada}
 {1226}{}{Porta sem chave de entrada}
 {1227}{}{Computador}
 {1228}{}{Kohl}
-{1229}{}{CrianÁa}
+{1229}{}{Crian√ßa}
 {1230}{}{Biscoito}
 {1231}{}{Torreta}
 {1232}{}{Brian}
@@ -1140,7 +1140,7 @@
 {1240}{}{Eric}
 {1241}{}{}
 {1242}{}{Caixa}
-{1243}{}{Escorpi„o gigante}
+{1243}{}{Escorpi√£o gigante}
 {1244}{}{Jane}
 {1245}{}{}
 {1246}{}{Roteiro do mapa}
@@ -1154,7 +1154,7 @@
 {1254}{}{Cao Cibernetico}
 {1255}{}{Luke}
 {1256}{}{Joshua}
-{1257}{}{Port„o}
+{1257}{}{Port√£o}
 {1258}{}{Matt}
 {1259}{}{Porta}
 {1260}{}{Guarda}
@@ -1186,8 +1186,8 @@
 {1286}{}{Typhon}
 {1287}{}{Guarda-costas}
 {1288}{}{Roteiro do mapa}
-{1289}{}{Arm·rio}
-{1290}{}{PoÁo}
+{1289}{}{Arm√°rio}
+{1290}{}{Po√ßo}
 {1291}{}{Micky}
 {1292}{}{Torreta}
 {1293}{}{Ghoul velho}
@@ -1201,59 +1201,59 @@
 {1301}{}{Gerador}
 {1302}{}{Porta}
 {1303}{}{Porta}
-{1304}{}{PipBoy mÈdico}
-{1305}{}{Arm·rio}
-{1306}{}{Arm·rio}
-{1307}{}{Arm·rio}
-{1308}{}{Arm·rio}
-{1309}{}{Arm·rio}
-{1310}{}{Arm·rio}
-{1311}{}{Arm·rio}
-{1312}{}{Arm·rio}
-{1313}{}{Arm·rio}
-{1314}{}{Arm·rio}
-{1315}{}{Arm·rio}
-{1316}{}{Arm·rio}
-{1317}{}{Arm·rio}
-{1318}{}{Arm·rio}
-{1319}{}{Arm·rio}
-{1320}{}{Arm·rio}
-{1321}{}{Arm·rio}
-{1322}{}{Arm·rio}
-{1323}{}{Arm·rio}
-{1324}{}{Arm·rio}
+{1304}{}{PipBoy m√©dico}
+{1305}{}{Arm√°rio}
+{1306}{}{Arm√°rio}
+{1307}{}{Arm√°rio}
+{1308}{}{Arm√°rio}
+{1309}{}{Arm√°rio}
+{1310}{}{Arm√°rio}
+{1311}{}{Arm√°rio}
+{1312}{}{Arm√°rio}
+{1313}{}{Arm√°rio}
+{1314}{}{Arm√°rio}
+{1315}{}{Arm√°rio}
+{1316}{}{Arm√°rio}
+{1317}{}{Arm√°rio}
+{1318}{}{Arm√°rio}
+{1319}{}{Arm√°rio}
+{1320}{}{Arm√°rio}
+{1321}{}{Arm√°rio}
+{1322}{}{Arm√°rio}
+{1323}{}{Arm√°rio}
+{1324}{}{Arm√°rio}
 {1325}{}{Roteiro do mapa}
-{1326}{}{VocÍ n„o pode me ver}
+{1326}{}{Voc√™ n√£o pode me ver}
 {1327}{}{Tin Woodsman}
 {1328}{}{Roteiro do mapa}
-{1329}{}{FormaÁ„o de pedra}
+{1329}{}{Forma√ß√£o de pedra}
 {1330}{}{}
 {1331}{}{Terminal}
-{1332}{}{Arm·rio}
+{1332}{}{Arm√°rio}
 {1333}{}{}
 {1334}{}{Roteiro do mapa}
-{1335}{}{Robo de seguraÁa}
-{1336}{}{Robo de seguraÁa}
-{1337}{}{Arm·rio}
-{1338}{}{Arm·rio}
-{1339}{}{Arm·rio}
-{1340}{}{Arm·rio}
-{1341}{}{Arm·rio}
-{1342}{}{Arm·rio}
-{1343}{}{Arm·rio}
-{1344}{}{Arm·rio}
-{1345}{}{Arm·rio}
-{1346}{}{Arm·rio}
-{1347}{}{Arm·rio}
-{1348}{}{Arm·rio}
-{1349}{}{Arm·rio}
-{1350}{}{Arm·rio}
-{1351}{}{Arm·rio}
-{1352}{}{Arm·rio}
-{1353}{}{Arm·rio}
-{1354}{}{Arm·rio}
-{1355}{}{Arm·rio}
-{1356}{}{Arm·rio}
+{1335}{}{Robo de segura√ßa}
+{1336}{}{Robo de segura√ßa}
+{1337}{}{Arm√°rio}
+{1338}{}{Arm√°rio}
+{1339}{}{Arm√°rio}
+{1340}{}{Arm√°rio}
+{1341}{}{Arm√°rio}
+{1342}{}{Arm√°rio}
+{1343}{}{Arm√°rio}
+{1344}{}{Arm√°rio}
+{1345}{}{Arm√°rio}
+{1346}{}{Arm√°rio}
+{1347}{}{Arm√°rio}
+{1348}{}{Arm√°rio}
+{1349}{}{Arm√°rio}
+{1350}{}{Arm√°rio}
+{1351}{}{Arm√°rio}
+{1352}{}{Arm√°rio}
+{1353}{}{Arm√°rio}
+{1354}{}{Arm√°rio}
+{1355}{}{Arm√°rio}
+{1356}{}{Arm√°rio}
 {1357}{}{Invasor de doca}
 {1358}{}{Garoto da doca}
 {1359}{}{Roteiro do mapa}
@@ -1263,26 +1263,26 @@
 {1363}{}{Porta}
 {1364}{}{O Grande Ananias}
 {1365}{}{Roteiro do mapa}
-{1366}{}{Alde„o sujo}
+{1366}{}{Alde√£o sujo}
 {1367}{}{Mensageiro}
 {1368}{}{Mapa}
 {1369}{}{Roteiro do mapa}
 {1370}{}{Roteiro do mapa}
 {1371}{}{Roteiro do mapa}
 {1372}{}{Roteiro do mapa}
-{1373}{}{M·quina de Nuka-Cola}
+{1373}{}{M√°quina de Nuka-Cola}
 {1374}{}{Dock}
 {1375}{}{Porta}
 {1376}{}{Mina}
 {1377}{}{Mina}
 {1378}{}{Ex}
 {1379}{}{Mel}
-{1380}{}{Duto de ventilaÁ„o}
+{1380}{}{Duto de ventila√ß√£o}
 {1381}{}{Kevin}
 {1382}{}{Alarme}
-{1383}{}{Arm·rio}
-{1384}{}{Arm·rio}
-{1385}{}{Arm·rio}
+{1383}{}{Arm√°rio}
+{1384}{}{Arm√°rio}
+{1385}{}{Arm√°rio}
 {1386}{}{}
 {1387}{}{}
 {1388}{}{}
@@ -1298,7 +1298,7 @@
 {1398}{}{}
 {1399}{}{}
 {1400}{}{Mine}
-{1401}{}{Arm·rio}
+{1401}{}{Arm√°rio}
 {1402}{}{Porta}
 {1403}{}{}
 {1404}{}{}
@@ -1309,25 +1309,25 @@
 {1409}{}{}
 {1410}{}{Bill}
 {1411}{}{}
-{1412}{}{CrianÁa}
+{1412}{}{Crian√ßa}
 {1413}{}{Deathclaw}
-{1414}{}{Irm„ Elaine}
+{1414}{}{Irm√£ Elaine}
 {1415}{}{Tumulo}
 {1416}{}{Tumulo}
-{1417}{}{Irm„o Hank}
+{1417}{}{Irm√£o Hank}
 {1418}{}{Doutor Abbey}
-{1419}{}{Irm„o John}
-{1420}{}{Irm„o Max}
+{1419}{}{Irm√£o John}
+{1420}{}{Irm√£o Max}
 {1421}{}{Merchant}
 {1422}{}{Merchant}
 {1423}{}{Guarda do comerciante}
 {1424}{}{Senhora Peterson}
-{1425}{}{Cidad„o Abbey}
+{1425}{}{Cidad√£o Abbey}
 {1426}{}{Senhor Peterson}
-{1427}{}{Bomba de ·gua}
-{1428}{}{Irm„o Samuel}
-{1429}{}{Cidad„o Abbey}
-{1430}{}{Irm„o Thomas}
+{1427}{}{Bomba de √°gua}
+{1428}{}{Irm√£o Samuel}
+{1429}{}{Cidad√£o Abbey}
+{1430}{}{Irm√£o Thomas}
 {1431}{}{Tom}
 {1432}{}{Computador Abbey}
 {1433}{}{Monge Chefe de Abbey}
@@ -1335,20 +1335,20 @@
 {1435}{}{Monge Abbey}
 {1436}{}{Monge Abbey}
 {1437}{}{Monge Abbey}
-{1438}{}{Irm„o Paul}
+{1438}{}{Irm√£o Paul}
 {1439}{}{Tribal}
-{1440}{}{Irm„o Matthew}
+{1440}{}{Irm√£o Matthew}
 {1441}{}{mapa}
 {1442}{}{Rato toupeira}
 {1443}{}{Ann}
 {1444}{}{Guerreiro Chefe}
 {1445}{}{Marli}
 {1446}{}{Aldeoes}
-{1447}{}{Xam„}
+{1447}{}{Xam√£}
 {1448}{}{Fantasma}
 {1449}{}{Tribal}
 {1450}{}{Kurisu}
-{1451}{}{PoÁo}
+{1451}{}{Po√ßo}
 {1452}{}{Mapa da tribo}
 {1453}{}{Tribal}
 {1454}{}{Serin}
@@ -1408,7 +1408,7 @@
 {1508}{}{Kitsune}
 {1509}{}{Guerreiro}
 {1510}{}{Repelente de insetos}
-{1511}{}{MÈdico do Prisioneiro}
+{1511}{}{M√©dico do Prisioneiro}
 {1512}{}{Formiga gigante}
 {1513}{}{O Doutor}
 {1514}{}{A Mosca da Fruta}
@@ -1418,31 +1418,31 @@
 {1518}{}{EPA Folheto}
 {1519}{}{Voz do Computador}
 {1520}{}{Computador de Pesquisa}
-{1521}{}{Computador da Cadeira ElÈtrica}
+{1521}{}{Computador da Cadeira El√©trica}
 {1522}{}{Porta Eletronica}
 {1523}{}{Gerador de Holograma}
-{1524}{}{Porta de SeguranÁa.}
+{1524}{}{Porta de Seguran√ßa.}
 {1525}{}{Porta do elevador}
 {1526}{}{Porta}
-{1527}{}{Produtos QuÌmicos aleatÛrios}
-{1528}{}{Terreno fÈrtil}
-{1529}{}{Terreno fÈrtil}
-{1530}{}{Computador de hibernaÁ„o}
-{1531}{}{Gerador de iluminaÁao}
-{1532}{}{Campo de ForÁa}
-{1533}{}{PulverizaÁ„o de plantas}
-{1534}{}{Bobina magnÈtica do computador}
-{1535}{}{Campo de ForÁa}
-{1536}{}{Maquina de projeÁao}
+{1527}{}{Produtos Qu√≠micos aleat√≥rios}
+{1528}{}{Terreno f√©rtil}
+{1529}{}{Terreno f√©rtil}
+{1530}{}{Computador de hiberna√ß√£o}
+{1531}{}{Gerador de ilumina√ßao}
+{1532}{}{Campo de For√ßa}
+{1533}{}{Pulveriza√ß√£o de plantas}
+{1534}{}{Bobina magn√©tica do computador}
+{1535}{}{Campo de For√ßa}
+{1536}{}{Maquina de proje√ßao}
 {1537}{}{Porta}
 {1538}{}{computador}
 {1539}{}{Porta}
 {1540}{}{Computador}
-{1541}{}{Campo de ForÁa}
+{1541}{}{Campo de For√ßa}
 {1542}{}{Dinamite}
 {1543}{}{Gatilho de dinamite}
 {1544}{}{Coisas na mesa}
-{1545}{}{Arm·rio}
+{1545}{}{Arm√°rio}
 {1546}{}{Spatial Script}
 {1547}{}{Spatial Script}
 {1548}{}{Spatial Script}
@@ -1451,7 +1451,7 @@
 {1551}{}{Spatial Script}
 {1552}{}{Spatial Script}
 {1553}{}{Spatial Script}
-{1554}{}{VentilaÁ„o de ar condicionado}
+{1554}{}{Ventila√ß√£o de ar condicionado}
 {1555}{}{Ventilador}
 {1556}{}{Ventilador}
 {1557}{}{Comando espacial}
@@ -1462,15 +1462,15 @@
 {1562}{}{espacial}
 {1563}{}{}
 {1564}{}{computador de holograma}
-{1565}{}{CrianÁa}
+{1565}{}{Crian√ßa}
 {1566}{}{espacial}
 {1567}{}{Vertibird}
 {1568}{}{computador}
 {1569}{}{espacial}
 {1570}{}{Mr. Handy}
 {1571}{}{Bomba nuclear}
-{1572}{}{PoÁo}
-{1573}{}{PoÁo}
+{1572}{}{Po√ßo}
+{1573}{}{Po√ßo}
 {1574}{}{}
 {1575}{}{Ranger da NCR}
 {1576}{}{nome do objeto}
@@ -1494,9 +1494,9 @@
 {1594}{}{Prostituta}
 {1595}{}{Gosma}
 {1596}{}{Espacial}
-{1597}{}{C‚mara de hibernaÁ„o espacial}
+{1597}{}{C√¢mara de hiberna√ß√£o espacial}
 {1598}{}{}
-{1599}{}{Arm·rio}
+{1599}{}{Arm√°rio}
 {1600}{}{Roteiro do mapa}
 {1601}{}{Modder}
 {1602}{}{Fumar}
@@ -1517,17 +1517,17 @@
 {1617}{}{Engradado}
 {1618}{}{Humano Voraz}
 {1619}{}{mapa}
-{1620}{}{painel de campo de forÁa}
+{1620}{}{painel de campo de for√ßa}
 {1621}{}{Ventilador}
 {1622}{}{Guarda}
 {1623}{}{Barco a motor}
 {1624}{}{Guarda}
 {1625}{}{Sucata}
 {1626}{}{escadas}
-{1627}{}{poÁo do elevador}
+{1627}{}{po√ßo do elevador}
 {1628}{}{espacial}
-{1629}{}{poÁo do elevador}
-{1630}{}{Arm·rio}
+{1629}{}{po√ßo do elevador}
+{1630}{}{Arm√°rio}
 {1631}{}{Guarda da doca}
 {1632}{}{Tecnico}
 {1633}{}{Tecnico}
@@ -1554,5 +1554,5 @@
 {1654}{}{Porta}
 {1655}{}{espacial}
 {1656}{}{Robo de reparos}
-{1657}{}{Robo de seguranÁa}
+{1657}{}{Robo de seguran√ßa}
 {1658}{}{Porta}

@@ -1,63 +1,63 @@
 {100}{}{Ves a un habitante de La Guarida.}
 {101}{}{Ves a Derek.}
-{150}{}{Parece bastante ágil.}
-{200}{}{Lárgate.}
+{150}{}{Parece bastante Ã¡gil.}
+{200}{}{LÃ¡rgate.}
 {201}{}{Estoy demasiado cansado para hablar.}
 {202}{}{Vete de mi sitio.}
-{203}{}{Búscate tu propio sitio para dormir.}
+{203}{}{BÃºscate tu propio sitio para dormir.}
 {204}{}{Deja de molestarme.}
 {205}{}{Estoy agotado.}
-{206}{}{¡Oh!}
-{207}{}{Eh, ¿qué estás haciendo aquí?}
-{220}{}{Aléjate de Metzger, tribal.}
-{221}{}{¿Por qué siempre hace tanto calor?}
-{222}{}{¿Por qué vivimos en el desierto?}
+{206}{}{Â¡Oh!}
+{207}{}{Eh, Â¿quÃ© estÃ¡s haciendo aquÃ­?}
+{220}{}{AlÃ©jate de Metzger, tribal.}
+{221}{}{Â¿Por quÃ© siempre hace tanto calor?}
+{222}{}{Â¿Por quÃ© vivimos en el desierto?}
 {223}{}{Soy un buen cocinero.}
-{224}{}{Un día abriré mi propio restaurante.}
+{224}{}{Un dÃ­a abrirÃ© mi propio restaurante.}
 {225}{}{Ojala tuviera una cocina de verdad.}
-{226}{}{¿Por qué siempre me toca bailar con la más fea?}
-{227}{}{La gente siempre me está jodiendo.}
+{226}{}{Â¿Por quÃ© siempre me toca bailar con la mÃ¡s fea?}
+{227}{}{La gente siempre me estÃ¡ jodiendo.}
 {228}{}{Fred es un iluso: plan maestro, y una mierda.}
-{240}{}{¡Shhhh! Están por todas partes...}
-{241}{}{¡Haz que paren!}
-{242}{}{¿Así que has encontrado ese maldito libro?}
-{243}{}{No sé porque Becky no me contrata.}
-{244}{}{¡No voy a volverme loco!}
-{245}{}{¡Tengo mi dinero!}
+{240}{}{Â¡Shhhh! EstÃ¡n por todas partes...}
+{241}{}{Â¡Haz que paren!}
+{242}{}{Â¿AsÃ­ que has encontrado ese maldito libro?}
+{243}{}{No sÃ© porque Becky no me contrata.}
+{244}{}{Â¡No voy a volverme loco!}
+{245}{}{Â¡Tengo mi dinero!}
 {246}{}{Normalmente salen por la noche.}
-{247}{}{¡Me gustan las patatas!}
-{248}{}{¡No pises la cosa verde sin llevar botas!}
-{249}{}{Vuélvelo del revés.}
+{247}{}{Â¡Me gustan las patatas!}
+{248}{}{Â¡No pises la cosa verde sin llevar botas!}
+{249}{}{VuÃ©lvelo del revÃ©s.}
 {250}{}{Oh, ahora si que me duele la cabeza.}
-{251}{}{¡Soy un gran maestro cocinero!}
-{252}{}{Nunca envenenaría la comida de un novato.}
-{260}{}{Eh, ¿buscas algo de pan recién hecho?}
-{261}{}{Sí.}
+{251}{}{Â¡Soy un gran maestro cocinero!}
+{252}{}{Nunca envenenarÃ­a la comida de un novato.}
+{260}{}{Eh, Â¿buscas algo de pan reciÃ©n hecho?}
+{261}{}{SÃ­.}
 {262}{}{Estoy buscando el libro de Becky.}
-{263}{}{No, adiós.}
+{263}{}{No, adiÃ³s.}
 {270}{}{Oh, hola de nuevo.}
-{271}{}{Así que, ¿dónde está el libro de Becky?}
-{272}{}{Eh, ¿qué tal si me das algo más de ese pan?}
-{273}{}{Adiós.}
-{280}{}{¡Ja! Igual que yo. ¿Te he contado lo buen cocinero que soy? Pero Becky, por alguna razón, no quiere contratarme. Dice que soy inestable.}
-{281}{}{Probablemente tenga razón.}
+{271}{}{AsÃ­ que, Â¿dÃ³nde estÃ¡ el libro de Becky?}
+{272}{}{Eh, Â¿quÃ© tal si me das algo mÃ¡s de ese pan?}
+{273}{}{AdiÃ³s.}
+{280}{}{Â¡Ja! Igual que yo. Â¿Te he contado lo buen cocinero que soy? Pero Becky, por alguna razÃ³n, no quiere contratarme. Dice que soy inestable.}
+{281}{}{Probablemente tenga razÃ³n.}
 {282}{}{Estoy buscando el libro de Becky.}
 {283}{}{Eso es genial. Yo tengo que... eh... irme.}
-{290}{}{¿Qué? ¡Tú! ¡Que te jodan, colega! Yo no soy... ¡oh! Joder.}
-{291}{}{¿Qué? ¡Tú! ¡Que te jodan, amiga! Yo no soy... ¡oh! Joder.}
-{292}{}{Maldición.}
-{293}{}{No hace falta decir nada más.}
-{300}{}{Oh, sí. No me gustaba. Demasiado besuqueo. Lo tiré en la esquina de ese edificio... no ese edificio... no... ¿era un edificio? Quizás lo deje en algún otro lado... ¿o lo tiré? ¡Oh! ¡Mi cabeza!}
-{301}{}{¿Libro? Oh, ese libro. ¿Quién te envía? No sé si ese es el lado correcto. No te olvides el papel higiénico.}
-{302}{}{¡No puedo! Ellos... oh, mierda... ¿tienes el queso? ¡Huye!}
-{303}{}{¡Eh! No es problema mío. ¿Qué se supone que debía hacer? ¿Luchar contra ellos? ¡Hombrecillos verdes, con grandes dientes puntiagudos! ¡Joder! ¡Ouch! ¡Para ya!}
-{304}{}{¡Me duele la cabeza! ¿Qué...? ¿Quién ha dicho eso?}
+{290}{}{Â¿QuÃ©? Â¡TÃº! Â¡Que te jodan, colega! Yo no soy... Â¡oh! Joder.}
+{291}{}{Â¿QuÃ©? Â¡TÃº! Â¡Que te jodan, amiga! Yo no soy... Â¡oh! Joder.}
+{292}{}{MaldiciÃ³n.}
+{293}{}{No hace falta decir nada mÃ¡s.}
+{300}{}{Oh, sÃ­. No me gustaba. Demasiado besuqueo. Lo tirÃ© en la esquina de ese edificio... no ese edificio... no... Â¿era un edificio? QuizÃ¡s lo deje en algÃºn otro lado... Â¿o lo tirÃ©? Â¡Oh! Â¡Mi cabeza!}
+{301}{}{Â¿Libro? Oh, ese libro. Â¿QuiÃ©n te envÃ­a? No sÃ© si ese es el lado correcto. No te olvides el papel higiÃ©nico.}
+{302}{}{Â¡No puedo! Ellos... oh, mierda... Â¿tienes el queso? Â¡Huye!}
+{303}{}{Â¡Eh! No es problema mÃ­o. Â¿QuÃ© se supone que debÃ­a hacer? Â¿Luchar contra ellos? Â¡Hombrecillos verdes, con grandes dientes puntiagudos! Â¡Joder! Â¡Ouch! Â¡Para ya!}
+{304}{}{Â¡Me duele la cabeza! Â¿QuÃ©...? Â¿QuiÃ©n ha dicho eso?}
 {305}{}{Eso ha sido de gran ayuda.}
 {306}{}{Uh.}
-{310}{}{¿Qué? ¡Te estás burlando de mí! ¡Que te jodan! ¡No soy inestable! ¡Sé cocinar! ¡No oigo voces!}
-{311}{}{¡Te voy a... mierda! ¡Joder! ¡Hostia! ¡Para ya! ¡Cállate! ¿Qué? Vale.}
-{312}{}{¡Eh! Deja... de hacer.. joder.}
-{313}{}{Adiós.}
+{310}{}{Â¿QuÃ©? Â¡Te estÃ¡s burlando de mÃ­! Â¡Que te jodan! Â¡No soy inestable! Â¡SÃ© cocinar! Â¡No oigo voces!}
+{311}{}{Â¡Te voy a... mierda! Â¡Joder! Â¡Hostia! Â¡Para ya! Â¡CÃ¡llate! Â¿QuÃ©? Vale.}
+{312}{}{Â¡Eh! Deja... de hacer.. joder.}
+{313}{}{AdiÃ³s.}
 {314}{}{Nada.}
-{320}{}{¡Eh! ¡Aléjate de mí!}
-{321}{}{¡No me toques!}
+{320}{}{Â¡Eh! Â¡AlÃ©jate de mÃ­!}
+{321}{}{Â¡No me toques!}

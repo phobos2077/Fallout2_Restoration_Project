@@ -1,3 +1,3 @@
 {100}{}{Du siehst einen Gecko.}
-{101}{}{Du siehst einen Gecko, bedeckt mit Felsbrocken. Er sieht mächtig verärgert aus.}
-{200}{}{Du lässt bewusst das verletzte und hilflose Männchen sterben. Ein teuflisches Grinsen überzieht dein Gesicht.}
+{101}{}{Du siehst einen Gecko, bedeckt mit Felsbrocken. Er sieht mÃ¤chtig verÃ¤rgert aus.}
+{200}{}{Du lÃ¤sst bewusst das verletzte und hilflose MÃ¤nnchen sterben. Ein teuflisches Grinsen Ã¼berzieht dein Gesicht.}

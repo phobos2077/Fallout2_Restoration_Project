@@ -1,3 +1,3 @@
-{100}{}{Você entrou no pasto dos brahmins.}
-{200}{}{Você protegeu com sucesso os brahmins.}
-{202}{}{Você falhou em ajudar Torr a protejer os brahmins.}
+{100}{}{VocÃª entrou no pasto dos brahmins.}
+{200}{}{VocÃª protegeu com sucesso os brahmins.}
+{202}{}{VocÃª falhou em ajudar Torr a protejer os brahmins.}

@@ -4,8 +4,8 @@
 {103}{}{Sie ist eine Einwohnerin von Abbey.}
 {200}{}{Willkommen, Fremder.}
 {201}{}{Friede sei mit dir.}
-{202}{}{Dieser Ort ist so schön!}
+{202}{}{Dieser Ort ist so schÃ¶n!}
 {203}{}{Hallo.}
-{204}{}{Schönes Wetter.}
-{205}{}{Sei vorsichtig draußen im Ödland.}
+{204}{}{SchÃ¶nes Wetter.}
+{205}{}{Sei vorsichtig drauÃŸen im Ã–dland.}
 {500}{}{GAUNER!}

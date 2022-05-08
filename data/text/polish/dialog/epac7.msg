@@ -1,47 +1,47 @@
 {100}{}{Widzisz Hologram.}
-{101}{}{Widzisz Dyrektorkê do spraw Public Relations.}
-{102}{}{Hologram 40011. Odpowiada za wycieczki i kontakty z pras¹, tu w AOŒ.}
-{200}{}{[Ten hologram atrakcyjnej kobiety wita ciê przyjaznym uœmiechem.] Witam zwiedzaj¹cych, witam w AOŒ. W czym mogê pomóc? Obiad dla wszystkich pracowników AOŒ zostanie podany w po³udnie w sto³ówce.}
-{201}{}{Co? A z reszt¹, niewa¿ne. Kim jesteœ?}
-{202}{}{Muszê ju¿ iœæ. Czeœæ.}
-{210}{}{Ja? Hologram 40011, Dyrektor do spraw Public Relations. Organizujê wycieczki, zwiedzanie i inne rzeczy, dbam o to aby dla zwiedzaj¹cych wszystko przebiega³o sprawnie. Wkrótce rozpocznie siê wycieczka po muzeum AOŒ. Proszê przygotowaæ przepustki.}
-{211}{}{To brzmi jak naprawdê wci¹gaj¹ca praca. ¯egnaj.}
-{212}{}{Wiêc mo¿e pomog³abyœ mi w czymœ?}
-{220}{}{Oczywiœcie. Chêtnie Ci pomogê. Co mogê dla ciebie zrobiæ? Przewodniki mo¿na znaleŸæ w biurze g³ównym i na stolikach w ca³ej AOŒ.}
-{221}{}{S¹ pewne drzwi na dolnych poziomach, których nie mogê otworzyæ bez has³a g³osowego. A naprawdê chce przez nie przejœæ i zwiedziæ resztê kompleksu. Znasz mo¿e has³o?}
-{230}{}{Oczywiœcie, ¿e znam has³o, ale niestety, nie mogê Ci go zdradziæ. Rozumiem twój entuzjazm zobaczenia wszystkiego co ten oœrodek ma do zaoferowania, ale s¹ pewne zasady których musimy przestrzegaæ, dla twojego bezpieczeñstwa. Pamiêtajcie, oferujemy zwiedzanie z przewodnikiem o okreœlonych porach.}
-{231}{}{Naprawdê, nie musisz siê martwiæ o moje bezpieczeñstwo, jestem Dzieckiem Przeznaczenia. Poza tym, kiedy ostatnio mia³aœ *prawdziwego* zwiedzaj¹cego? Naprawdê chcesz mnie zawieœæ?}
-{232}{}{Dobra. ¯egnam}
-{240}{}{Oczywiœcie, ¿e nie. Ale, podaj¹c Ci has³o nara¿am nie tylko ciebie, ale ca³y kompleks. Dzieci, proszê nie przedrzeŸniaæ hologramów.}
-{241}{}{A w jaki sposób to mo¿e zagroziæ kompleksowi? Nie chcê ci psuæ dnia, panienko, ale to miejsce by³o ju¿ w piekle i z powrotem. Nie ma tu nic poza niebezpiecznymi chemikaliami i zepsutymi robotami. Szczerze, nie wiem jak mo¿na, by jeszcze pogorszyæ jego stan.}
+{101}{}{Widzisz DyrektorkÄ™ do spraw Public Relations.}
+{102}{}{Hologram 40011. Odpowiada za wycieczki i kontakty z prasÄ…, tu w AOÅš.}
+{200}{}{[Ten hologram atrakcyjnej kobiety wita ciÄ™ przyjaznym uÅ›miechem.] Witam zwiedzajÄ…cych, witam w AOÅš. W czym mogÄ™ pomÃ³c? Obiad dla wszystkich pracownikÃ³w AOÅš zostanie podany w poÅ‚udnie w stoÅ‚Ã³wce.}
+{201}{}{Co? A z resztÄ…, niewaÅ¼ne. Kim jesteÅ›?}
+{202}{}{MuszÄ™ juÅ¼ iÅ›Ä‡. CzeÅ›Ä‡.}
+{210}{}{Ja? Hologram 40011, Dyrektor do spraw Public Relations. OrganizujÄ™ wycieczki, zwiedzanie i inne rzeczy, dbam o to aby dla zwiedzajÄ…cych wszystko przebiegaÅ‚o sprawnie. WkrÃ³tce rozpocznie siÄ™ wycieczka po muzeum AOÅš. ProszÄ™ przygotowaÄ‡ przepustki.}
+{211}{}{To brzmi jak naprawdÄ™ wciÄ…gajÄ…ca praca. Å»egnaj.}
+{212}{}{WiÄ™c moÅ¼e pomogÅ‚abyÅ› mi w czymÅ›?}
+{220}{}{OczywiÅ›cie. ChÄ™tnie Ci pomogÄ™. Co mogÄ™ dla ciebie zrobiÄ‡? Przewodniki moÅ¼na znaleÅºÄ‡ w biurze gÅ‚Ã³wnym i na stolikach w caÅ‚ej AOÅš.}
+{221}{}{SÄ… pewne drzwi na dolnych poziomach, ktÃ³rych nie mogÄ™ otworzyÄ‡ bez hasÅ‚a gÅ‚osowego. A naprawdÄ™ chce przez nie przejÅ›Ä‡ i zwiedziÄ‡ resztÄ™ kompleksu. Znasz moÅ¼e hasÅ‚o?}
+{230}{}{OczywiÅ›cie, Å¼e znam hasÅ‚o, ale niestety, nie mogÄ™ Ci go zdradziÄ‡. Rozumiem twÃ³j entuzjazm zobaczenia wszystkiego co ten oÅ›rodek ma do zaoferowania, ale sÄ… pewne zasady ktÃ³rych musimy przestrzegaÄ‡, dla twojego bezpieczeÅ„stwa. PamiÄ™tajcie, oferujemy zwiedzanie z przewodnikiem o okreÅ›lonych porach.}
+{231}{}{NaprawdÄ™, nie musisz siÄ™ martwiÄ‡ o moje bezpieczeÅ„stwo, jestem Dzieckiem Przeznaczenia. Poza tym, kiedy ostatnio miaÅ‚aÅ› *prawdziwego* zwiedzajÄ…cego? NaprawdÄ™ chcesz mnie zawieÅ›Ä‡?}
+{232}{}{Dobra. Å»egnam}
+{240}{}{OczywiÅ›cie, Å¼e nie. Ale, podajÄ…c Ci hasÅ‚o naraÅ¼am nie tylko ciebie, ale caÅ‚y kompleks. Dzieci, proszÄ™ nie przedrzeÅºniaÄ‡ hologramÃ³w.}
+{241}{}{A w jaki sposÃ³b to moÅ¼e zagroziÄ‡ kompleksowi? Nie chcÄ™ ci psuÄ‡ dnia, panienko, ale to miejsce byÅ‚o juÅ¼ w piekle i z powrotem. Nie ma tu nic poza niebezpiecznymi chemikaliami i zepsutymi robotami. Szczerze, nie wiem jak moÅ¼na, by jeszcze pogorszyÄ‡ jego stan.}
 {242}{}{Dobra, zapomnij.}
-{250}{}{No. . . nie wiem. Z³ama³abym protokó³. Ale. . . mo¿e, je¿eli mi w czymœ pomo¿esz. Odwiedzaj¹cy, proszê pamiêtaæ, ¿e poziom niebieski jest zamkniêty z bardzo nieciekawych przyczyn. Nie ma powodu, aby siê tym interesowaæ.}
-{251}{}{Jasne, mogê ci pomóc. Co trzeba zrobiæ.}
-{260}{}{Ach tak, teraz wygl¹da tu znacznie lepiej, bardzo Ci dziêkujê. Has³o brzmi ABRE. Wystarczy je powiedzieæ wyraŸnie i drzwi siê otworz¹. A teraz proszê wszystkich...}
-{261}{}{TAK, s³yszeliœmy ju¿. Dziêkujê za has³o. ¯egnaj.}
-{270}{}{Witaj ponownie. Czego potrzebujesz? Oœrodek AOŒ bêdzie zamkniêty na czas nieokreœlony z powodu braku personelu.}
-{271}{}{Mam teraz wiêcej czasu. Mo¿esz mi powiedzieæ co tu robisz?}
-{272}{}{Niewa¿ne.}
-{280}{}{Witaj ponownie. Nie ma w tej chwili wycieczki, ale jeœli poczekasz a¿ zbierze siê wystarczaj¹co zwiedzaj¹cych, z przyjemnoœci¹ j¹ zorganizujê.}
-{281}{}{Nie chcê nic zwiedzaæ. Czeœæ.}
-{282}{}{Zastanawiam siê czy mog³abyœ mi w czymœ pomóc?}
-{290}{}{Witaj. Jestem trochê zajêta przygotowywaniem planu zwiedzania na nowy sezon. Mo¿esz wróciæ póŸniej?}
-{291}{}{Chêtnie, ale bardzo siê œpieszê. Zrozum, ja *naprawdê* potrzebujê has³a do tych drzwi. Proszê, podaj mi je?}
-{300}{}{Jeszcze raz dziêkuje za twoj¹ pomoc, ale proszê u¿ywaj tego has³a rozwa¿nie. Pamiêtaj, to nasz ma³y sekret. Dziêkujemy za odwiedzenie AOŒ, mam nadziejê, ¿e siê pañstwu podoba³o.}
-{301}{}{Dziêki. Na razie.}
+{250}{}{No. . . nie wiem. ZÅ‚amaÅ‚abym protokÃ³Å‚. Ale. . . moÅ¼e, jeÅ¼eli mi w czymÅ› pomoÅ¼esz. OdwiedzajÄ…cy, proszÄ™ pamiÄ™taÄ‡, Å¼e poziom niebieski jest zamkniÄ™ty z bardzo nieciekawych przyczyn. Nie ma powodu, aby siÄ™ tym interesowaÄ‡.}
+{251}{}{Jasne, mogÄ™ ci pomÃ³c. Co trzeba zrobiÄ‡.}
+{260}{}{Ach tak, teraz wyglÄ…da tu znacznie lepiej, bardzo Ci dziÄ™kujÄ™. HasÅ‚o brzmi ABRE. Wystarczy je powiedzieÄ‡ wyraÅºnie i drzwi siÄ™ otworzÄ…. A teraz proszÄ™ wszystkich...}
+{261}{}{TAK, sÅ‚yszeliÅ›my juÅ¼. DziÄ™kujÄ™ za hasÅ‚o. Å»egnaj.}
+{270}{}{Witaj ponownie. Czego potrzebujesz? OÅ›rodek AOÅš bÄ™dzie zamkniÄ™ty na czas nieokreÅ›lony z powodu braku personelu.}
+{271}{}{Mam teraz wiÄ™cej czasu. MoÅ¼esz mi powiedzieÄ‡ co tu robisz?}
+{272}{}{NiewaÅ¼ne.}
+{280}{}{Witaj ponownie. Nie ma w tej chwili wycieczki, ale jeÅ›li poczekasz aÅ¼ zbierze siÄ™ wystarczajÄ…co zwiedzajÄ…cych, z przyjemnoÅ›ciÄ… jÄ… zorganizujÄ™.}
+{281}{}{Nie chcÄ™ nic zwiedzaÄ‡. CzeÅ›Ä‡.}
+{282}{}{Zastanawiam siÄ™ czy mogÅ‚abyÅ› mi w czymÅ› pomÃ³c?}
+{290}{}{Witaj. Jestem trochÄ™ zajÄ™ta przygotowywaniem planu zwiedzania na nowy sezon. MoÅ¼esz wrÃ³ciÄ‡ pÃ³Åºniej?}
+{291}{}{ChÄ™tnie, ale bardzo siÄ™ Å›pieszÄ™. Zrozum, ja *naprawdÄ™* potrzebujÄ™ hasÅ‚a do tych drzwi. ProszÄ™, podaj mi je?}
+{300}{}{Jeszcze raz dziÄ™kuje za twojÄ… pomoc, ale proszÄ™ uÅ¼ywaj tego hasÅ‚a rozwaÅ¼nie. PamiÄ™taj, to nasz maÅ‚y sekret. DziÄ™kujemy za odwiedzenie AOÅš, mam nadziejÄ™, Å¼e siÄ™ paÅ„stwu podobaÅ‚o.}
+{301}{}{DziÄ™ki. Na razie.}
 {302}{}{Zapraszam ponownie.}
-{303}{}{Nie zapomnijcie odwiedziæ stoiska z pami¹tkami AOŒ.}
-{310}{}{Myœlisz, ¿e da³oby siê coœ zrobiæ z tym oœwietleniem? To niew³aœciwe, oprowadzaæ wycieczkê po tak s³abo oœwietlonym kompleksie.
- Jeœli rozœwietlisz to miejsce dla mnie, podam ci has³o. Proszê pamiêtaæ, po wizycie w naszym ma³ym zoo nale¿y dok³adnie umyæ rêce.}
-{311}{}{W porz¹dku, zobaczê co da siê zrobiæ.}
-{312}{}{Niewa¿ne. Nie interesuje mnie to.}
-{320}{}{Kompleks ci¹gle wygl¹da szaro. Nadal zamierzasz naprawiæ œwiat³o, prawda? Pamiêtajcie odwiedzaj¹cy, wszelkie formularze musz¹ byæ podpisane przed koñcem wycieczki.}
-{321}{}{Nie martw siê. Pracujê nad tym.}
-{322}{}{Zajmê siê tym.}
-{330}{}{Mielibyœmy wiêcej odwiedzaj¹cych gdyby na poziomie gruntu by³o czyœciej.}
-{331}{}{Jak mam oprowadzaæ wycieczki bez odpowiedniego oœwietlenia?}
-{332}{}{Te roœliny zabijaj¹ ca³y ruch turystyczny.}
-{333}{}{Widok tych wszystkich zepsutych robotów jest *bardzo* ma³o atrakcyjny.}
-{334}{}{10031, od dekad jesteœ bezu¿yteczny.}
-{335}{}{Chodzi mi tylko o to, ¿eby to miejsce lepiej siê prezentowa³o.}
-{336}{}{Zburzenie kompleksu to ¿adna odpowiedŸ.}
+{303}{}{Nie zapomnijcie odwiedziÄ‡ stoiska z pamiÄ…tkami AOÅš.}
+{310}{}{MyÅ›lisz, Å¼e daÅ‚oby siÄ™ coÅ› zrobiÄ‡ z tym oÅ›wietleniem? To niewÅ‚aÅ›ciwe, oprowadzaÄ‡ wycieczkÄ™ po tak sÅ‚abo oÅ›wietlonym kompleksie.
+ JeÅ›li rozÅ›wietlisz to miejsce dla mnie, podam ci hasÅ‚o. ProszÄ™ pamiÄ™taÄ‡, po wizycie w naszym maÅ‚ym zoo naleÅ¼y dokÅ‚adnie umyÄ‡ rÄ™ce.}
+{311}{}{W porzÄ…dku, zobaczÄ™ co da siÄ™ zrobiÄ‡.}
+{312}{}{NiewaÅ¼ne. Nie interesuje mnie to.}
+{320}{}{Kompleks ciÄ…gle wyglÄ…da szaro. Nadal zamierzasz naprawiÄ‡ Å›wiatÅ‚o, prawda? PamiÄ™tajcie odwiedzajÄ…cy, wszelkie formularze muszÄ… byÄ‡ podpisane przed koÅ„cem wycieczki.}
+{321}{}{Nie martw siÄ™. PracujÄ™ nad tym.}
+{322}{}{ZajmÄ™ siÄ™ tym.}
+{330}{}{MielibyÅ›my wiÄ™cej odwiedzajÄ…cych gdyby na poziomie gruntu byÅ‚o czyÅ›ciej.}
+{331}{}{Jak mam oprowadzaÄ‡ wycieczki bez odpowiedniego oÅ›wietlenia?}
+{332}{}{Te roÅ›liny zabijajÄ… caÅ‚y ruch turystyczny.}
+{333}{}{Widok tych wszystkich zepsutych robotÃ³w jest *bardzo* maÅ‚o atrakcyjny.}
+{334}{}{10031, od dekad jesteÅ› bezuÅ¼yteczny.}
+{335}{}{Chodzi mi tylko o to, Å¼eby to miejsce lepiej siÄ™ prezentowaÅ‚o.}
+{336}{}{Zburzenie kompleksu to Å¼adna odpowiedÅº.}

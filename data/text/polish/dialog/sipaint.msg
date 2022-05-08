@@ -1,1 +1,1 @@
-{100}{}{Z ty³u obrazu znajdujesz odrêcznie narysowan¹ mapê ukazuj¹ca lokalizacjê Krypty 13.}
+{100}{}{Z tyÅ‚u obrazu znajdujesz odrÄ™cznie narysowanÄ… mapÄ™ ukazujÄ…ca lokalizacjÄ™ Krypty 13.}

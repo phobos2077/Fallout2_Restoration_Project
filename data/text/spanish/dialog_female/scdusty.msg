@@ -1,32 +1,32 @@
 {100}{}{Ves a un tipo calvo y regordete, limpiando un vaso.}
 {101}{}{Es el camarero.}
-{102}{}{Es un tipo de aspecto rudo con la nariz torcida y las orejas hinchadas, como si hace años hubiera sido boxeador.}
-{103}{}{¿Qué puedo servirte?}
-{104}{}{Oye, tú eres la que hizo renunciar a Jack, ¿verdad? Ese fue un buen trabajo. ¿Qué quieres?}
+{102}{}{Es un tipo de aspecto rudo con la nariz torcida y las orejas hinchadas, como si hace aÃ±os hubiera sido boxeador.}
+{103}{}{Â¿QuÃ© puedo servirte?}
+{104}{}{Oye, tÃº eres la que hizo renunciar a Jack, Â¿verdad? Ese fue un buen trabajo. Â¿QuÃ© quieres?}
 {105}{}{Claro.}
 {106}{}{Bebida.}
-{107}{}{¿Quién es el tipo grande de ahí?}
-{108}{}{¿Qué se puede hacer en esta ciudad?}
-{109}{}{Adiós.}
-{110}{}{Hoss, el muchacho de la presidente Tandi. Es un problema cuando está borracho, así que yo de ti me mantendría alejado de él.}
-{111}{}{Era Hoss, el hijo de la presidente Tandi. ¡Muchacha, seguro que te encandila su trasero!}
-{112}{}{¿Presidente Tandi?}
-{113}{}{Un tipo duro, ¿eh? Gracias.}
-{114}{}{No demasiado. Si buscas problemas, ve a beber en algún lugar, como el Rawhide. Si buscas trabajo, está la parcela de Westin al oeste de la ciudad. También he oído algo acerca de que la Presidente Tandi está buscando a un especialista.}
-{115}{}{¿Especialista?}
-{116}{}{¿Presidente Tandi?}
+{107}{}{Â¿QuiÃ©n es el tipo grande de ahÃ­?}
+{108}{}{Â¿QuÃ© se puede hacer en esta ciudad?}
+{109}{}{AdiÃ³s.}
+{110}{}{Hoss, el muchacho de la presidente Tandi. Es un problema cuando estÃ¡ borracho, asÃ­ que yo de ti me mantendrÃ­a alejado de Ã©l.}
+{111}{}{Era Hoss, el hijo de la presidente Tandi. Â¡Muchacha, seguro que te encandila su trasero!}
+{112}{}{Â¿Presidente Tandi?}
+{113}{}{Un tipo duro, Â¿eh? Gracias.}
+{114}{}{No demasiado. Si buscas problemas, ve a beber en algÃºn lugar, como el Rawhide. Si buscas trabajo, estÃ¡ la parcela de Westin al oeste de la ciudad. TambiÃ©n he oÃ­do algo acerca de que la Presidente Tandi estÃ¡ buscando a un especialista.}
+{115}{}{Â¿Especialista?}
+{116}{}{Â¿Presidente Tandi?}
 {117}{}{Gracias.}
-{118}{}{La hija del presidente Aradesh, el tipo que fundó la RNC. Ha sido la presidente durante años. Y hace un buen trabajo.}
-{119}{}{¿Y ella está buscando a un especialista? ¿De qué clase?}
-{120}{}{¿Quién es el tipo grande?}
+{118}{}{La hija del presidente Aradesh, el tipo que fundÃ³ la RNC. Ha sido la presidente durante aÃ±os. Y hace un buen trabajo.}
+{119}{}{Â¿Y ella estÃ¡ buscando a un especialista? Â¿De quÃ© clase?}
+{120}{}{Â¿QuiÃ©n es el tipo grande?}
 {121}{}{Gracias.}
-{122}{}{No lo sé. Gunther, su ayudante, probablemente lo sepa. Está abajo, en el edificio del Congreso.}
-{123}{}{¿Quién es el tipo grande?}
+{122}{}{No lo sÃ©. Gunther, su ayudante, probablemente lo sepa. EstÃ¡ abajo, en el edificio del Congreso.}
+{123}{}{Â¿QuiÃ©n es el tipo grande?}
 {124}{}{Gracias.}
-{125}{}{¿Quieres beber algo?}
+{125}{}{Â¿Quieres beber algo?}
 {126}{}{Claro.}
 {127}{}{No.}
-{128}{}{¡Déjame invitarte a una bebida! ¡He querido golpearlo durante años!}
+{128}{}{Â¡DÃ©jame invitarte a una bebida! Â¡He querido golpearlo durante aÃ±os!}
 {129}{}{Tengo algunas preguntas.}
-{130}{}{¡Bien! Adiós.}
-{131}{}{¡Muchacho, seguro que te encandila el trasero de Hoss! ¿Qué puedo conseguirte?}
+{130}{}{Â¡Bien! AdiÃ³s.}
+{131}{}{Â¡Muchacho, seguro que te encandila el trasero de Hoss! Â¿QuÃ© puedo conseguirte?}

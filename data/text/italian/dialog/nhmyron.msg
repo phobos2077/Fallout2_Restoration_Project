@@ -30,7 +30,7 @@
 {256}{}{Perfetto. Lasciano entrare persino i ghoul, adesso.}
 {257}{}{Dovresti far prendere un po' d'aria a quel tuo ghoul. Emana un tanfo insopportabile.}
 {258}{}{Quel ghoul e' radioattivo?}
-{259}{}{Prova a strofinare una puzzola sul tuo ghoul. Forse così avra' un odore migliore!}
+{259}{}{Prova a strofinare una puzzola sul tuo ghoul. Forse cosÃ¬ avra' un odore migliore!}
 {265}{}{Faremo qualcosa nel breve periodo?}
 {266}{}{Non credi che dovremmo avere piu' donne in questo gruppo del cavolo?}
 {267}{}{Possiamo andare da qualche parte dove ci siano piu' donne?}
@@ -536,7 +536,7 @@
 {1646}{}{E' questo quello che usi per far crescere l'allucinogeno?}
 {1647}{}{Utilizzi della merda di brahmin come fertilizzante per gli ingredienti del Jet, giusto? Cosa mi puoi dire di piu'?}
 {1648}{}{Non me lo vuoi dire? Benissimo. Allora vorrei farti qualche altra domanda...}
-{1649}{}{D'accordo. Posso già intuire dove questo discorso andra' a finire. Lasciamo perdere.}
+{1649}{}{D'accordo. Posso giÃ  intuire dove questo discorso andra' a finire. Lasciamo perdere.}
 {1655}{myn239a}{Molto bene. E questo e' tutto quello che imparerai da me, amico. Se vuoi saperne di piu', devi scoprirlo da solo.}
 {1656}{myn239b}{Molto bene. E questo e' tutto quello che imparerai da me, miss. Se vuoi saperne di piu', devi scoprirlo da sola.}
 {1657}{myn239c}{Molto bene, bellezza. Ma questo e' tutto quello che imparerai da me, percio' non sforzare la tua testolina. Basta parlare: perche' tu ed io non, ehm, eheh...}

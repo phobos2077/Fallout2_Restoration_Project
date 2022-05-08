@@ -1,11 +1,11 @@
-{100}{}{Widzisz ma³ego urwipo³cia.}
-{101}{}{Widzisz m³odego Melchiora.}
-{150}{}{Wygl¹da na weso³ego, pogodnego ch³opca.}
-{200}{}{Dzieñ dobry! Jestem Melchior Junior.}
-{201}{}{Mój tato jest górnikiem. Nazywa siê Melchior, zupe³nie jak ja.}
-{202}{}{Mój tato jest dobrym górnikiem, ale chce zostaæ czarodziejem.}
-{203}{}{Tato ma swój pseudonim artystyczny - Melchior Wspania³y.}
-{204}{}{Jego najlepsza sztuczka to wyci¹ganie szczura z kapelusza.}
-{205}{}{Tato poszed³ z jakimiœ ludŸmi w metalowych strojach.}
-{206}{}{Mam nadziejê, ¿e nied³ugo wróci. Brakuje mi jego magicznych sztuczek.}
-{207}{}{Zostanê kiedyœ wielkim magiem jak mój Tato!}
+{100}{}{Widzisz maÅ‚ego urwipoÅ‚cia.}
+{101}{}{Widzisz mÅ‚odego Melchiora.}
+{150}{}{WyglÄ…da na wesoÅ‚ego, pogodnego chÅ‚opca.}
+{200}{}{DzieÅ„ dobry! Jestem Melchior Junior.}
+{201}{}{MÃ³j tato jest gÃ³rnikiem. Nazywa siÄ™ Melchior, zupeÅ‚nie jak ja.}
+{202}{}{MÃ³j tato jest dobrym gÃ³rnikiem, ale chce zostaÄ‡ czarodziejem.}
+{203}{}{Tato ma swÃ³j pseudonim artystyczny - Melchior WspaniaÅ‚y.}
+{204}{}{Jego najlepsza sztuczka to wyciÄ…ganie szczura z kapelusza.}
+{205}{}{Tato poszedÅ‚ z jakimiÅ› ludÅºmi w metalowych strojach.}
+{206}{}{Mam nadziejÄ™, Å¼e niedÅ‚ugo wrÃ³ci. Brakuje mi jego magicznych sztuczek.}
+{207}{}{ZostanÄ™ kiedyÅ› wielkim magiem jak mÃ³j Tato!}

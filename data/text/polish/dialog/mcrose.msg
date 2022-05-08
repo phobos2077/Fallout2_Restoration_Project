@@ -1,79 +1,79 @@
-{100}{}{Widzisz sympatyczna kobietê przy koœci.}
+{100}{}{Widzisz sympatyczna kobietÄ™ przy koÅ›ci.}
 {101}{}{Widzisz Rose.}
-{102}{}{Jej siwe w³osy s¹ spiête w luŸny kok, a ona sama chodzi ko³ysz¹c siê lekko na boki. W jej obecnoœci czujesz siê dziwnie spokojnie.}
-{150}{}{Przykro mi, ale jest zamkniête. Niedawno by³ pogrzeb w rodzinie. [poci¹ga nosem]}
-{151}{}{Hej! Tylko ja mogê przegl¹daæ pud³o rzeczy znalezionych!}
-{152}{}{Zaczynam myœleæ, ¿e chcesz coœ ukraœæ!}
-{153}{}{£apaj z³odzieja!}
-{154}{}{Witamy w Pensjonacie Rose. Och, ale¿ z ciebie przystojniak, m³ody cz³owieku. W czym Rose mo¿e ci dziœ pomóc?}
-{155}{}{Witamy w Pensjonacie Rose. Och, ale¿ z ciebie ³adna dziewczyna. W czym Rose mo¿e ci dziœ pomóc?}
-{156}{}{Umieram z g³odu! Co mo¿esz mi zaoferowaæ do jedzenia?}
-{157}{}{Chcê wynaj¹æ na noc pokój.}
-{158}{}{Pewnie pracuj¹c tu czêsto s³yszysz ró¿ne plotki. Mogê ciê o coœ zapytaæ?}
-{159}{}{[G³oœno siê oblizujesz.]}
-{160}{}{Mi³o ciê znów widzieæ! Co mogê dla ciebie zrobiæ?}
-{165}{}{Och! To ty. Wszyscy mówi¹ o tobie, o twoim poœwiêceniu i odwadze podczas rozwi¹zywania zagadki Nawiedzonej Farmy. Wiedz, ¿e zawsze chêtnie bêdê ciê tu widzieæ, a wszystkie posi³ki masz od dzisiaj gratis. Mo¿esz te¿ w nagrodê przejrzeæ pud³o rzeczy znalezionych i wzi¹æ, co tylko sobie zechcesz.}
+{102}{}{Jej siwe wÅ‚osy sÄ… spiÄ™te w luÅºny kok, a ona sama chodzi koÅ‚yszÄ…c siÄ™ lekko na boki. W jej obecnoÅ›ci czujesz siÄ™ dziwnie spokojnie.}
+{150}{}{Przykro mi, ale jest zamkniÄ™te. Niedawno byÅ‚ pogrzeb w rodzinie. [pociÄ…ga nosem]}
+{151}{}{Hej! Tylko ja mogÄ™ przeglÄ…daÄ‡ pudÅ‚o rzeczy znalezionych!}
+{152}{}{Zaczynam myÅ›leÄ‡, Å¼e chcesz coÅ› ukraÅ›Ä‡!}
+{153}{}{Åapaj zÅ‚odzieja!}
+{154}{}{Witamy w Pensjonacie Rose. Och, aleÅ¼ z ciebie przystojniak, mÅ‚ody czÅ‚owieku. W czym Rose moÅ¼e ci dziÅ› pomÃ³c?}
+{155}{}{Witamy w Pensjonacie Rose. Och, aleÅ¼ z ciebie Å‚adna dziewczyna. W czym Rose moÅ¼e ci dziÅ› pomÃ³c?}
+{156}{}{Umieram z gÅ‚odu! Co moÅ¼esz mi zaoferowaÄ‡ do jedzenia?}
+{157}{}{ChcÄ™ wynajÄ…Ä‡ na noc pokÃ³j.}
+{158}{}{Pewnie pracujÄ…c tu czÄ™sto sÅ‚yszysz rÃ³Å¼ne plotki. MogÄ™ ciÄ™ o coÅ› zapytaÄ‡?}
+{159}{}{[GÅ‚oÅ›no siÄ™ oblizujesz.]}
+{160}{}{MiÅ‚o ciÄ™ znÃ³w widzieÄ‡! Co mogÄ™ dla ciebie zrobiÄ‡?}
+{165}{}{Och! To ty. Wszyscy mÃ³wiÄ… o tobie, o twoim poÅ›wiÄ™ceniu i odwadze podczas rozwiÄ…zywania zagadki Nawiedzonej Farmy. Wiedz, Å¼e zawsze chÄ™tnie bÄ™dÄ™ ciÄ™ tu widzieÄ‡, a wszystkie posiÅ‚ki masz od dzisiaj gratis. MoÅ¼esz teÅ¼ w nagrodÄ™ przejrzeÄ‡ pudÅ‚o rzeczy znalezionych i wziÄ…Ä‡, co tylko sobie zechcesz.}
 {166}{}{Oto bohater Modoc! Witamy, witamy.}
-{167}{}{Mam wielk¹ ochotê na jeden z twoich wyœmienitych omletów.}
-{168}{}{Oto, co chcia³am us³yszeæ! M³ody mê¿czyzna musi du¿o jeœæ, aby by³ wielki i silny. Mogê ci powiedzieæ, ¿e nie od¿ywiasz siê zbyt dobrze. Usi¹dŸ sobie wygodnie i wybierz coœ z menu.}
-{169}{}{Widaæ to po tobie. Kiedy ostatni raz porz¹dnie sobie podjad³aœ, m³oda damo? Jesteœ chuda jak szczapa. Przejrzyj sobie menu i powiedz starej Rose, na co masz ochotê.}
+{167}{}{Mam wielkÄ… ochotÄ™ na jeden z twoich wyÅ›mienitych omletÃ³w.}
+{168}{}{Oto, co chciaÅ‚am usÅ‚yszeÄ‡! MÅ‚ody mÄ™Å¼czyzna musi duÅ¼o jeÅ›Ä‡, aby byÅ‚ wielki i silny. MogÄ™ ci powiedzieÄ‡, Å¼e nie odÅ¼ywiasz siÄ™ zbyt dobrze. UsiÄ…dÅº sobie wygodnie i wybierz coÅ› z menu.}
+{169}{}{WidaÄ‡ to po tobie. Kiedy ostatni raz porzÄ…dnie sobie podjadÅ‚aÅ›, mÅ‚oda damo? JesteÅ› chuda jak szczapa. Przejrzyj sobie menu i powiedz starej Rose, na co masz ochotÄ™.}
 {170}{}{Pulpety z bramina. [$5]}
 {171}{}{Pustynny omlet. [$25]}
-{172}{}{Wodê. [$1000]}
-{173}{}{Zapiekankê z bramina. [$5]}
+{172}{}{WodÄ™. [$1000]}
+{173}{}{ZapiekankÄ™ z bramina. [$5]}
 {174}{}{Kynoburgera. [$7]}
 {175}{}{Gulasz pasterski. [$3]}
-{176}{}{Nie, dziêki. Nie czujê g³odu.}
-{177}{}{Och, przykro mi, ale chyba nie masz wystarczaj¹co du¿o gotówki. Mo¿e wpadniesz póŸniej?}
-{178}{}{Ale ja umieram z g³odu! Mo¿e zamówiê coœ tañszego...}
-{179}{}{Poczekaj! Mogê ci zadaæ kilka pytañ?}
-{180}{}{Pewnie wracasz po dok³adkê? Widzê, ¿e bardzo lubisz braminie pulpety. Niestety, dopóki twój rekord siê utrzymuje, musisz zaczekaæ, a¿ ktoœ go pobije, by moc ponownie wzi¹æ udzia³ w konkursie.}
-{181}{}{Pulpety z bramina - oczywiœcie bez BSE! Wiesz, prowadzimy tu taki ma³y konkurs, kto zje najwiêcej pulpetów. Jak na razie rekord wynosi 36. Jeœli go pobijesz, nie musisz w ogóle p³aciæ za posi³ek. Nie wygl¹dasz na osobê, której sprawi³oby to trudnoœæ. Chcesz spróbowaæ?}
-{182}{}{W porz¹dku, mogê zap³aciæ, by znów skosztowaæ sma¿one j¹dra bramina.}
-{183}{}{Czujê taki g³ód, ¿e pewnie podwojê obecny rekord. Gdzie te pulpety?}
-{184}{}{Nie, dziêki. Proszê o jedn¹ porcjê.}
-{185}{}{Och, to wspaniale. Ka¿da porcja sk³ada siê z 10 sztuk. Musisz jednak zap³aciæ z góry. Oddam ci te pieni¹dze, jak tylko pobijesz rekord. Proszê $20.}
-{186}{}{Nie mam tyle. Mo¿e spróbujê póŸniej, a na razie, proszê jedn¹ porcjê.}
-{187}{}{Proszê. I tak dostanê je z powrotem, kiedy tylko pobijê rekord.}
-{188}{}{[Rose zabiera pieni¹dze i wraca po chwili trzymaj¹c kopiasty talerz pulpetów. Hmmm... nie wygl¹daj¹ tak, jak mo¿na by by³o s¹dziæ. S¹ wielkoœci pi³eczek do golfa, pokryte panierk¹ i zasma¿one w oleju na z³ocistobr¹zowy kolor. Ostro¿nie próbujesz jednego z nich. Pychota! Zaczynasz ³apczywie pa³aszowaæ.]}
-{189}{}{[W okolicach 34 pulpetu czujesz pierwsze efekty przejedzenia. Wokó³ ciebie zd¹¿y³ siê ju¿ zebraæ spory t³um, oczekuj¹cy historycznej chwili ustanowienia nowego rekordu. Chc¹c z³apaæ nieco oddechu, postanawiasz uci¹æ sobie krótk¹ pogawêdkê z Rose.]}
-{190}{}{[Wrzucasz jeden pulpet do ust] 'Mmff... chrup... umch...' Nie mów z pe³nymi ustami, skarbie. [Prze³ykasz]}
-{191}{}{Jak je przyrz¹dzasz? Jeœli to nie jest jakaœ tajemnica szefowej kuchni, albo coœ w tym stylu. Moi znajomi chêtnie poznaliby przepis na coœ tak wybornego.}
-{192}{}{Och, to ¿adna tajemnica. Obtaczasz je w panierce, dodajesz soli i zasma¿asz w t³uszczu. [Wrzucasz nastêpny pulpet do ust]}
-{193}{}{A jak przyrz¹dzasz miêso? Ma tak¹ specyficzn¹ konsystencjê. [Prze³ykasz nastêpn¹. S¹ naprawdê pyszne!]}
-{194}{}{To 37! To nowy rekord! [T³um wydaje okrzyki radoœci!]}
-{195}{}{[To dodaje ci si³ i postanawiasz dalej próbowaæ swoich sil i wk³adasz do ust nastêpny pulpet]}
-{196}{}{["Trzydzieœci osiem!" krzyczy rozochocony t³um] Có¿, s¹ tak pyszne, poniewa¿ zbiera siê je, gdy bramin jest wci¹¿ ¿ywy. To proste - ³apiesz go za mosznê i jednym ciêciem odcinasz wszystkie cztery u samej nasady. Ale musisz uwa¿aæ - braminowi zazwyczaj to siê nie podoba.}
-{197}{}{[Trzydziesty ósmy "pulpet" wylatuje z twoich ust z prêdkoœci¹ œwiat³a]}
-{198}{}{Nie mo¿emy ci policzyæ tej ostatniej, ale i tak nowy rekord wynosi 37! Oto twoje pieni¹dze. Gratulacje!}
+{176}{}{Nie, dziÄ™ki. Nie czujÄ™ gÅ‚odu.}
+{177}{}{Och, przykro mi, ale chyba nie masz wystarczajÄ…co duÅ¼o gotÃ³wki. MoÅ¼e wpadniesz pÃ³Åºniej?}
+{178}{}{Ale ja umieram z gÅ‚odu! MoÅ¼e zamÃ³wiÄ™ coÅ› taÅ„szego...}
+{179}{}{Poczekaj! MogÄ™ ci zadaÄ‡ kilka pytaÅ„?}
+{180}{}{Pewnie wracasz po dokÅ‚adkÄ™? WidzÄ™, Å¼e bardzo lubisz braminie pulpety. Niestety, dopÃ³ki twÃ³j rekord siÄ™ utrzymuje, musisz zaczekaÄ‡, aÅ¼ ktoÅ› go pobije, by moc ponownie wziÄ…Ä‡ udziaÅ‚ w konkursie.}
+{181}{}{Pulpety z bramina - oczywiÅ›cie bez BSE! Wiesz, prowadzimy tu taki maÅ‚y konkurs, kto zje najwiÄ™cej pulpetÃ³w. Jak na razie rekord wynosi 36. JeÅ›li go pobijesz, nie musisz w ogÃ³le pÅ‚aciÄ‡ za posiÅ‚ek. Nie wyglÄ…dasz na osobÄ™, ktÃ³rej sprawiÅ‚oby to trudnoÅ›Ä‡. Chcesz sprÃ³bowaÄ‡?}
+{182}{}{W porzÄ…dku, mogÄ™ zapÅ‚aciÄ‡, by znÃ³w skosztowaÄ‡ smaÅ¼one jÄ…dra bramina.}
+{183}{}{CzujÄ™ taki gÅ‚Ã³d, Å¼e pewnie podwojÄ™ obecny rekord. Gdzie te pulpety?}
+{184}{}{Nie, dziÄ™ki. ProszÄ™ o jednÄ… porcjÄ™.}
+{185}{}{Och, to wspaniale. KaÅ¼da porcja skÅ‚ada siÄ™ z 10 sztuk. Musisz jednak zapÅ‚aciÄ‡ z gÃ³ry. Oddam ci te pieniÄ…dze, jak tylko pobijesz rekord. ProszÄ™ $20.}
+{186}{}{Nie mam tyle. MoÅ¼e sprÃ³bujÄ™ pÃ³Åºniej, a na razie, proszÄ™ jednÄ… porcjÄ™.}
+{187}{}{ProszÄ™. I tak dostanÄ™ je z powrotem, kiedy tylko pobijÄ™ rekord.}
+{188}{}{[Rose zabiera pieniÄ…dze i wraca po chwili trzymajÄ…c kopiasty talerz pulpetÃ³w. Hmmm... nie wyglÄ…dajÄ… tak, jak moÅ¼na by byÅ‚o sÄ…dziÄ‡. SÄ… wielkoÅ›ci piÅ‚eczek do golfa, pokryte panierkÄ… i zasmaÅ¼one w oleju na zÅ‚ocistobrÄ…zowy kolor. OstroÅ¼nie prÃ³bujesz jednego z nich. Pychota! Zaczynasz Å‚apczywie paÅ‚aszowaÄ‡.]}
+{189}{}{[W okolicach 34 pulpetu czujesz pierwsze efekty przejedzenia. WokÃ³Å‚ ciebie zdÄ…Å¼yÅ‚ siÄ™ juÅ¼ zebraÄ‡ spory tÅ‚um, oczekujÄ…cy historycznej chwili ustanowienia nowego rekordu. ChcÄ…c zÅ‚apaÄ‡ nieco oddechu, postanawiasz uciÄ…Ä‡ sobie krÃ³tkÄ… pogawÄ™dkÄ™ z Rose.]}
+{190}{}{[Wrzucasz jeden pulpet do ust] 'Mmff... chrup... umch...' Nie mÃ³w z peÅ‚nymi ustami, skarbie. [PrzeÅ‚ykasz]}
+{191}{}{Jak je przyrzÄ…dzasz? JeÅ›li to nie jest jakaÅ› tajemnica szefowej kuchni, albo coÅ› w tym stylu. Moi znajomi chÄ™tnie poznaliby przepis na coÅ› tak wybornego.}
+{192}{}{Och, to Å¼adna tajemnica. Obtaczasz je w panierce, dodajesz soli i zasmaÅ¼asz w tÅ‚uszczu. [Wrzucasz nastÄ™pny pulpet do ust]}
+{193}{}{A jak przyrzÄ…dzasz miÄ™so? Ma takÄ… specyficznÄ… konsystencjÄ™. [PrzeÅ‚ykasz nastÄ™pnÄ…. SÄ… naprawdÄ™ pyszne!]}
+{194}{}{To 37! To nowy rekord! [TÅ‚um wydaje okrzyki radoÅ›ci!]}
+{195}{}{[To dodaje ci siÅ‚ i postanawiasz dalej prÃ³bowaÄ‡ swoich sil i wkÅ‚adasz do ust nastÄ™pny pulpet]}
+{196}{}{["TrzydzieÅ›ci osiem!" krzyczy rozochocony tÅ‚um] CÃ³Å¼, sÄ… tak pyszne, poniewaÅ¼ zbiera siÄ™ je, gdy bramin jest wciÄ…Å¼ Å¼ywy. To proste - Å‚apiesz go za mosznÄ™ i jednym ciÄ™ciem odcinasz wszystkie cztery u samej nasady. Ale musisz uwaÅ¼aÄ‡ - braminowi zazwyczaj to siÄ™ nie podoba.}
+{197}{}{[Trzydziesty Ã³smy "pulpet" wylatuje z twoich ust z prÄ™dkoÅ›ciÄ… Å›wiatÅ‚a]}
+{198}{}{Nie moÅ¼emy ci policzyÄ‡ tej ostatniej, ale i tak nowy rekord wynosi 37! Oto twoje pieniÄ…dze. Gratulacje!}
 {199}{}{[Niedobrze ci]}
-{200}{}{Och, to moja specjalnoœæ. Mam nadziejê, ¿e nadal czujesz g³ód. Jestem pewna, ¿e po raz pierwszy jesz tak dobry omlet. [Wychodzi i wraca z najwiêkszym widzianym przez ciebie kiedykolwiek omletem]}
-{201}{}{[Po tak obfitym posi³ku czujesz siê w pe³ni si³]}
-{202}{}{[Znika za lad¹ i szybko wraca z twoim zamówieniem]}
-{203}{}{Mogê ci zadaæ kilka pytañ?}
-{204}{}{Przykro mi, kochanie. Jestem zajêta innymi klientami. Mo¿e bêdê mog³a chwilê pogawêdziæ, jeœli zamówisz coœ jeszcze.}
-{205}{}{W takim wypadku nadaj czujê g³ód. Co mo¿esz mi poleciæ?}
-{206}{}{Pewnie, ale poœpiesz siê, kochanie. Inni klienci te¿ czekaj¹.}
-{207}{}{Co mo¿esz mi powiedzieæ o znikniêciu zegarka Corneliusa?}
-{208}{}{S³ysza³aœ kiedyœ o czymœ takim jak GECK?}
+{200}{}{Och, to moja specjalnoÅ›Ä‡. Mam nadziejÄ™, Å¼e nadal czujesz gÅ‚Ã³d. Jestem pewna, Å¼e po raz pierwszy jesz tak dobry omlet. [Wychodzi i wraca z najwiÄ™kszym widzianym przez ciebie kiedykolwiek omletem]}
+{201}{}{[Po tak obfitym posiÅ‚ku czujesz siÄ™ w peÅ‚ni siÅ‚]}
+{202}{}{[Znika za ladÄ… i szybko wraca z twoim zamÃ³wieniem]}
+{203}{}{MogÄ™ ci zadaÄ‡ kilka pytaÅ„?}
+{204}{}{Przykro mi, kochanie. Jestem zajÄ™ta innymi klientami. MoÅ¼e bÄ™dÄ™ mogÅ‚a chwilÄ™ pogawÄ™dziÄ‡, jeÅ›li zamÃ³wisz coÅ› jeszcze.}
+{205}{}{W takim wypadku nadaj czujÄ™ gÅ‚Ã³d. Co moÅ¼esz mi poleciÄ‡?}
+{206}{}{Pewnie, ale poÅ›piesz siÄ™, kochanie. Inni klienci teÅ¼ czekajÄ….}
+{207}{}{Co moÅ¼esz mi powiedzieÄ‡ o znikniÄ™ciu zegarka Corneliusa?}
+{208}{}{SÅ‚yszaÅ‚aÅ› kiedyÅ› o czymÅ› takim jak GECK?}
 {209}{}{Co wiesz o Nawiedzonej Farmie?}
-{210}{}{Nigdy jeszcze nie zdarzy³o mi siê ogl¹daæ tak du¿ego omleta. Jakie zwierzê sk³ada takie wielkie jaja?}
+{210}{}{Nigdy jeszcze nie zdarzyÅ‚o mi siÄ™ oglÄ…daÄ‡ tak duÅ¼ego omleta. Jakie zwierzÄ™ skÅ‚ada takie wielkie jaja?}
 {211}{}{Z czego jest zrobiony kynoburger?}
-{212}{}{Och! Znasz mego mê¿a, Corneliusa? Ta ca³a sprawa z tym zegarkiem jest po prostu okropna. Cornelius przekona³ ju¿ chyba ca³e miasteczko, ¿e zabra³ mu go jego najlepszy przyjaciel, Farrell. Jeœli go znasz, to pewnie wiadomy jest ci fakt, i¿ jego umys³ nie jest ju¿ tak sprawny, jak dawniej. Jestem wiêcej ni¿ pewna, ¿e biedaczek po³o¿y³ gdzieœ zegarek i zapomnia³ gdzie.}
-{213}{}{A teraz, skoro ju¿ niczego wiêcej nie potrzebujesz, wrócê do moich klientów.}
-{214}{}{Czy mogê ci zadaæ kilka pytañ?}
-{215}{}{Chwileczkê, wci¹¿ czujê g³ód.}
-{216}{}{GECK, powiadasz? Nie, chyba nie. S³ysza³am o przepisie na niez³¹ zupê z trzech gekonów, ale na pewno nie o GECKu.}
-{217}{}{[Dostrzegasz maluj¹cy siê na jej twarzy strach] Trzymaj siê od niej z dala! S³ysza³am od podró¿ników o gnij¹cych cia³ach przywi¹zanych do s³upów i œwiec¹cych kszta³tach, przemykaj¹cych siê noc¹ przez pola. Nie orientujê siê, ile z tych plotek jest prawd¹, lecz wiem, ¿e jakiœ czas temu Karl wyprowadzi³ siê stamt¹d i od tej pory s³uch po nim zagin¹³.}
-{218}{}{Ach, pytasz o pustynny omlet? Wyborny, nieprawda¿? Niektórzy mówi¹, ¿e ma w³aœciwoœci lecznicze. [Rozgl¹da siê nerwowo] Och! W³aœnie przyszli nowi klienci. Zaraz wracam. [Hmm... Nie odpowiedzia³a na twoje pytanie]}
-{220}{}{Nasze kynoburgery s¹ robione tylko i wy³¹cznie z pierwszego sortu psiny. Miêso jest peklowane i ciête na æwierækilowe kotlety. A ten specyficzny dymny posmak bierze siê z tego, ¿e wêdzi siê je powoli w dymie z wysuszonego braminiego ³ajna.}
-{221}{}{Biedaczysko. Wygl¹dasz, jakby nie dane ci by³o jeœæ od bardzo dawna. Siadaj sobie i pozwól, by Rose przynios³a ci coœ do jedzenia. [Wychodzi i wraca po chwili z wielkim omletem.] A teraz nie pozwolê ci st¹d odejœæ, dopóki nie zjesz wszystkiego.}
-{222}{}{Przykro mi, ale nie mam ju¿ wolnych miejsc. Wszystkie zajêli cz³onkowie du¿ej karawany.}
-{225}{}{Naprawdê?! Musisz czuæ wielkie pragnienie. Podnios³am cenê, by zniechêciæ ludzi do zamawiania jej. Picie wody to luksus, ze wzglêdu na brak deszczy i wysychaj¹c¹ studniê. Wci¹¿ masz na ni¹ ochotê?}
-{226}{}{Tak! Rozpaczliwie potrzebujê wody!}
-{227}{}{Hmm... Tak w³aœciwie, to czujê raczej g³ód.}
-{228}{}{Przykro mi, ale ju¿ nie serwujemy omletów. Jakiœ wariat wdar³ siê do kurnika i zabi³ nasz¹... nioskê.}
-{229}{}{Czujê silny g³ód. Powiedz mi, co masz w spisie.}
-{230}{}{Naprawdê œlinka mi ciek³a na myœl o skonsumowaniu jeszcze jednego z twoich wybornych omletów. Chyba niestety muszê obejœæ siê smakiem.}
+{212}{}{Och! Znasz mego mÄ™Å¼a, Corneliusa? Ta caÅ‚a sprawa z tym zegarkiem jest po prostu okropna. Cornelius przekonaÅ‚ juÅ¼ chyba caÅ‚e miasteczko, Å¼e zabraÅ‚ mu go jego najlepszy przyjaciel, Farrell. JeÅ›li go znasz, to pewnie wiadomy jest ci fakt, iÅ¼ jego umysÅ‚ nie jest juÅ¼ tak sprawny, jak dawniej. Jestem wiÄ™cej niÅ¼ pewna, Å¼e biedaczek poÅ‚oÅ¼yÅ‚ gdzieÅ› zegarek i zapomniaÅ‚ gdzie.}
+{213}{}{A teraz, skoro juÅ¼ niczego wiÄ™cej nie potrzebujesz, wrÃ³cÄ™ do moich klientÃ³w.}
+{214}{}{Czy mogÄ™ ci zadaÄ‡ kilka pytaÅ„?}
+{215}{}{ChwileczkÄ™, wciÄ…Å¼ czujÄ™ gÅ‚Ã³d.}
+{216}{}{GECK, powiadasz? Nie, chyba nie. SÅ‚yszaÅ‚am o przepisie na niezÅ‚Ä… zupÄ™ z trzech gekonÃ³w, ale na pewno nie o GECKu.}
+{217}{}{[Dostrzegasz malujÄ…cy siÄ™ na jej twarzy strach] Trzymaj siÄ™ od niej z dala! SÅ‚yszaÅ‚am od podrÃ³Å¼nikÃ³w o gnijÄ…cych ciaÅ‚ach przywiÄ…zanych do sÅ‚upÃ³w i Å›wiecÄ…cych ksztaÅ‚tach, przemykajÄ…cych siÄ™ nocÄ… przez pola. Nie orientujÄ™ siÄ™, ile z tych plotek jest prawdÄ…, lecz wiem, Å¼e jakiÅ› czas temu Karl wyprowadziÅ‚ siÄ™ stamtÄ…d i od tej pory sÅ‚uch po nim zaginÄ…Å‚.}
+{218}{}{Ach, pytasz o pustynny omlet? Wyborny, nieprawdaÅ¼? NiektÃ³rzy mÃ³wiÄ…, Å¼e ma wÅ‚aÅ›ciwoÅ›ci lecznicze. [RozglÄ…da siÄ™ nerwowo] Och! WÅ‚aÅ›nie przyszli nowi klienci. Zaraz wracam. [Hmm... Nie odpowiedziaÅ‚a na twoje pytanie]}
+{220}{}{Nasze kynoburgery sÄ… robione tylko i wyÅ‚Ä…cznie z pierwszego sortu psiny. MiÄ™so jest peklowane i ciÄ™te na Ä‡wierÄ‡kilowe kotlety. A ten specyficzny dymny posmak bierze siÄ™ z tego, Å¼e wÄ™dzi siÄ™ je powoli w dymie z wysuszonego braminiego Å‚ajna.}
+{221}{}{Biedaczysko. WyglÄ…dasz, jakby nie dane ci byÅ‚o jeÅ›Ä‡ od bardzo dawna. Siadaj sobie i pozwÃ³l, by Rose przyniosÅ‚a ci coÅ› do jedzenia. [Wychodzi i wraca po chwili z wielkim omletem.] A teraz nie pozwolÄ™ ci stÄ…d odejÅ›Ä‡, dopÃ³ki nie zjesz wszystkiego.}
+{222}{}{Przykro mi, ale nie mam juÅ¼ wolnych miejsc. Wszystkie zajÄ™li czÅ‚onkowie duÅ¼ej karawany.}
+{225}{}{NaprawdÄ™?! Musisz czuÄ‡ wielkie pragnienie. PodniosÅ‚am cenÄ™, by zniechÄ™ciÄ‡ ludzi do zamawiania jej. Picie wody to luksus, ze wzglÄ™du na brak deszczy i wysychajÄ…cÄ… studniÄ™. WciÄ…Å¼ masz na niÄ… ochotÄ™?}
+{226}{}{Tak! Rozpaczliwie potrzebujÄ™ wody!}
+{227}{}{Hmm... Tak wÅ‚aÅ›ciwie, to czujÄ™ raczej gÅ‚Ã³d.}
+{228}{}{Przykro mi, ale juÅ¼ nie serwujemy omletÃ³w. JakiÅ› wariat wdarÅ‚ siÄ™ do kurnika i zabiÅ‚ naszÄ…... nioskÄ™.}
+{229}{}{CzujÄ™ silny gÅ‚Ã³d. Powiedz mi, co masz w spisie.}
+{230}{}{NaprawdÄ™ Å›linka mi ciekÅ‚a na myÅ›l o skonsumowaniu jeszcze jednego z twoich wybornych omletÃ³w. Chyba niestety muszÄ™ obejÅ›Ä‡ siÄ™ smakiem.}
 {231}{}{Aach! Oogie!}
-{300}{}{[Szybko wraca ze szklank¹ mêtnego, br¹zowego p³ynu. W szklance jest wiêcej piasku ni¿ wody, ale pragnienie jest tak silne, ¿e prawie tego nie zauwa¿asz.] Masz tu, kochanie, jeszcze ciasteczko do zak¹szenia.}
+{300}{}{[Szybko wraca ze szklankÄ… mÄ™tnego, brÄ…zowego pÅ‚ynu. W szklance jest wiÄ™cej piasku niÅ¼ wody, ale pragnienie jest tak silne, Å¼e prawie tego nie zauwaÅ¼asz.] Masz tu, kochanie, jeszcze ciasteczko do zakÄ…szenia.}

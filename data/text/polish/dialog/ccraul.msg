@@ -1,53 +1,53 @@
 {100}{}{Widzisz mechanika.}
 {101}{}{Widzisz mechanika Raula.}
-{102}{}{Widzisz mê¿czyznê w brudnym mundurze wojskowym. S¹dz¹c po plamach smaru jest bardziej mechanikiem ni¿ ¿o³nierzem i to w dodatku ciê¿ko pracuj¹cym.}
-{103}{}{Cz³owieku, no wybacz, ale nie mam czasu na pogaduszki, nie? Muszê siê zaj¹æ tym ptaszkiem.}
-{104}{}{Doktor chcieæ K-9 dzia³a. On mówiæ ty mieæ czêœæ.}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ w brudnym mundurze wojskowym. SÄ…dzÄ…c po plamach smaru jest bardziej mechanikiem niÅ¼ Å¼oÅ‚nierzem i to w dodatku ciÄ™Å¼ko pracujÄ…cym.}
+{103}{}{CzÅ‚owieku, no wybacz, ale nie mam czasu na pogaduszki, nie? MuszÄ™ siÄ™ zajÄ…Ä‡ tym ptaszkiem.}
+{104}{}{Doktor chcieÄ‡ K-9 dziaÅ‚a. On mÃ³wiÄ‡ ty mieÄ‡ czÄ™Å›Ä‡.}
 {105}{}{Uch... dobra.}
-{106}{}{Uch, Quincy chce ty przyjœæ. On mówiæ ja ci to mówiæ.}
-{107}{}{Doktorek chce naprawiæ swojego psa. Wys³a³ mnie tu po czêœæ do niego.}
-{108}{}{W porz¹dku. Na razie.}
-{109}{}{Raul, Quincy chce, ¿ebyœ do niego poszed³.}
-{110}{}{Quincy, tak? Cz³owieku, Raul nie chce go tera ogl¹daæ. Raul ma doœæ jego kitu, no nie?}
-{111}{}{W porz¹dku.}
-{112}{}{Quincy mówiæ ty dupek. On mówiæ ty mieæ pietra przyjœæ.}
+{106}{}{Uch, Quincy chce ty przyjÅ›Ä‡. On mÃ³wiÄ‡ ja ci to mÃ³wiÄ‡.}
+{107}{}{Doktorek chce naprawiÄ‡ swojego psa. WysÅ‚aÅ‚ mnie tu po czÄ™Å›Ä‡ do niego.}
+{108}{}{W porzÄ…dku. Na razie.}
+{109}{}{Raul, Quincy chce, Å¼ebyÅ› do niego poszedÅ‚.}
+{110}{}{Quincy, tak? CzÅ‚owieku, Raul nie chce go tera oglÄ…daÄ‡. Raul ma doÅ›Ä‡ jego kitu, no nie?}
+{111}{}{W porzÄ…dku.}
+{112}{}{Quincy mÃ³wiÄ‡ ty dupek. On mÃ³wiÄ‡ ty mieÄ‡ pietra przyjÅ›Ä‡.}
 {113}{}{Dobra.}
-{114}{}{Quincy powiedzia³, ¿e jesteœ dupkiem i masz za du¿ego pietra, ¿eby siê do niego zg³osiæ.}
-{115}{}{Hej, cz³owieku, Raul nie bêdzie s³uchaæ tego gówna od nikogo. Czy widzisz, ¿eby Quincy robi³ coœ przy tych ptaszkach? Cz³owieku, mowy nie ma. Tylko Raul pracuje przy tych maluszkach. A wiesz dlaczego? Bo Quincy siê na tym CHUJA zna, oto dlaczego!}
+{114}{}{Quincy powiedziaÅ‚, Å¼e jesteÅ› dupkiem i masz za duÅ¼ego pietra, Å¼eby siÄ™ do niego zgÅ‚osiÄ‡.}
+{115}{}{Hej, czÅ‚owieku, Raul nie bÄ™dzie sÅ‚uchaÄ‡ tego gÃ³wna od nikogo. Czy widzisz, Å¼eby Quincy robiÅ‚ coÅ› przy tych ptaszkach? CzÅ‚owieku, mowy nie ma. Tylko Raul pracuje przy tych maluszkach. A wiesz dlaczego? Bo Quincy siÄ™ na tym CHUJA zna, oto dlaczego!}
 {116}{}{Uch...}
-{117}{}{No wiêc...}
-{118}{}{No wybacz, cz³owieku. Raul nie powinien tak na ciebie wrzeszczeæ, no nie? To nie twoja wina, ty tu tylko nosisz wiadomoœci. Hej, cz³owieku, masz teraz chwilkê?}
-{119}{}{Tak, mieæ chwilkê. A co?}
+{117}{}{No wiÄ™c...}
+{118}{}{No wybacz, czÅ‚owieku. Raul nie powinien tak na ciebie wrzeszczeÄ‡, no nie? To nie twoja wina, ty tu tylko nosisz wiadomoÅ›ci. Hej, czÅ‚owieku, masz teraz chwilkÄ™?}
+{119}{}{Tak, mieÄ‡ chwilkÄ™. A co?}
 {120}{}{W sumie mam, a co?}
-{121}{}{No to s³uchaj, cz³owieku. Raul pójdzie tera z³o¿yæ Quincy'emu wizytê, no nie? Raul pójdzie przetrzepaæ facetowi ty³ek, a ty tu zostaniesz i popilnujesz ptaszków Raula, dobra?}
+{121}{}{No to sÅ‚uchaj, czÅ‚owieku. Raul pÃ³jdzie tera zÅ‚oÅ¼yÄ‡ Quincy'emu wizytÄ™, no nie? Raul pÃ³jdzie przetrzepaÄ‡ facetowi tyÅ‚ek, a ty tu zostaniesz i popilnujesz ptaszkÃ³w Raula, dobra?}
 {122}{}{Ja popilnujesz.}
-{123}{}{Pewnie Raul. Zrobiê to dla ciebie, nie jesteœ pierwszy lepszy.}
-{124}{}{Hej, cz³owieku, dziêki. Raul wisi ci jednego! Nie odchodŸ za daleko, no i wiesz, jak ktoœ coœ bêdzie grzebaæ w ptaszkach Raula to odstrzel mu ty³ek, dobra?}
-{125}{}{W porz¹dku.}
-{126}{}{Hej, cz³owieku, co ty tam robisz? Zabieraj siê kurwa od tego ptaszka! Raul i tak ma ju¿ z wami doœæ problemów, nie? Cholerne pilociki wystarcz¹!}
-{127}{}{Hej, cz³owieku, Raul ci ju¿ mówi³, cobyœ siê kurwa odwali³ od tych jego ptaszków. Teraz Raul musi nauczyæ ciê s³uchaæ. No dalej, cz³owieku, chodzino tu, zdejmuj zbroje i dawaj, jeden na jednego, mano e mano z Raulem.}
-{128}{}{Nie, ja tak nie chcieæ.}
-{129}{}{Ty siê Raul iœc jebaæ. Ja ciê zabiæ na œmieræ!}
-{130}{}{Nie, dziêki, koleœ, jesteœ dla mnie za twardy.}
-{131}{}{Po co u¿ywaæ piêœci, skoro mam doskona³¹ broñ?}
-{132}{}{Cz³owieku, przestañ przypieprzaæ siê do ptaszków Raula! Spadaj st¹d!}
-{133}{}{W porz¹dku.}
-{134}{}{Raul s¹dzi, ¿e trzeba mieæ nie po kolei w g³owie, ¿eby ³aziæ tu bez munduru.}
-{135}{}{Hej, cz³owieku, jak ciê sier¿ant z³apie bez muduru, to ci urwie g³owê.}
-{136}{}{Cz³owieku, co ty tu robisz bez muduru?}
-{137}{}{Kurwa! Zostaliœmy zaatakowani! Alarm!}
-{138}{}{Stra¿! Intruzi!}
-{139}{}{Stra¿! Intruzi w hangarze!}
-{140}{}{Hej, cz³owieku, co jest? Atakuj¹ nas?}
-{141}{}{Cz³owieku, po co ten alarm? Co siê sta³o?}
-{142}{}{Co siê do jasnej cholery dzieje?}
-{143}{}{Raul zaraz poœle ciê do medyków.}
-{144}{}{Hej, cz³owieku, zmów paciorek!}
-{145}{}{Raul zaraz skopie ci ty³ek!}
-{146}{}{Dobra, cz³owieku, weŸ go z tamtej szafki. Zabieraj go i pozdrów doktorka od Raula.}
-{147}{}{Dziêkujê.}
-{150}{}{Hej, cz³owieku! Raul nie lubi jak ktoœ siê przypieprza do jego zabawek. Wynoœ siê!}
-{151}{}{Raul mówi³ ci, ¿eby nie grzebaæ w jego rzeczach! Stra¿!}
-{200}{}{Raul s³ysza³, ¿e znowu opowiadasz o nim bzdury.}
-{201}{}{To ju¿ ostatni taki numer, ty ruda cipo ty. Tym razem Raul zrobi ci kuku na cacy.}
-{300}{}{Nie widaæ, ¿e Raul jest zajêty?}
+{123}{}{Pewnie Raul. ZrobiÄ™ to dla ciebie, nie jesteÅ› pierwszy lepszy.}
+{124}{}{Hej, czÅ‚owieku, dziÄ™ki. Raul wisi ci jednego! Nie odchodÅº za daleko, no i wiesz, jak ktoÅ› coÅ› bÄ™dzie grzebaÄ‡ w ptaszkach Raula to odstrzel mu tyÅ‚ek, dobra?}
+{125}{}{W porzÄ…dku.}
+{126}{}{Hej, czÅ‚owieku, co ty tam robisz? Zabieraj siÄ™ kurwa od tego ptaszka! Raul i tak ma juÅ¼ z wami doÅ›Ä‡ problemÃ³w, nie? Cholerne pilociki wystarczÄ…!}
+{127}{}{Hej, czÅ‚owieku, Raul ci juÅ¼ mÃ³wiÅ‚, cobyÅ› siÄ™ kurwa odwaliÅ‚ od tych jego ptaszkÃ³w. Teraz Raul musi nauczyÄ‡ ciÄ™ sÅ‚uchaÄ‡. No dalej, czÅ‚owieku, chodzino tu, zdejmuj zbroje i dawaj, jeden na jednego, mano e mano z Raulem.}
+{128}{}{Nie, ja tak nie chcieÄ‡.}
+{129}{}{Ty siÄ™ Raul iÅ›c jebaÄ‡. Ja ciÄ™ zabiÄ‡ na Å›mierÄ‡!}
+{130}{}{Nie, dziÄ™ki, koleÅ›, jesteÅ› dla mnie za twardy.}
+{131}{}{Po co uÅ¼ywaÄ‡ piÄ™Å›ci, skoro mam doskonaÅ‚Ä… broÅ„?}
+{132}{}{CzÅ‚owieku, przestaÅ„ przypieprzaÄ‡ siÄ™ do ptaszkÃ³w Raula! Spadaj stÄ…d!}
+{133}{}{W porzÄ…dku.}
+{134}{}{Raul sÄ…dzi, Å¼e trzeba mieÄ‡ nie po kolei w gÅ‚owie, Å¼eby Å‚aziÄ‡ tu bez munduru.}
+{135}{}{Hej, czÅ‚owieku, jak ciÄ™ sierÅ¼ant zÅ‚apie bez muduru, to ci urwie gÅ‚owÄ™.}
+{136}{}{CzÅ‚owieku, co ty tu robisz bez muduru?}
+{137}{}{Kurwa! ZostaliÅ›my zaatakowani! Alarm!}
+{138}{}{StraÅ¼! Intruzi!}
+{139}{}{StraÅ¼! Intruzi w hangarze!}
+{140}{}{Hej, czÅ‚owieku, co jest? AtakujÄ… nas?}
+{141}{}{CzÅ‚owieku, po co ten alarm? Co siÄ™ staÅ‚o?}
+{142}{}{Co siÄ™ do jasnej cholery dzieje?}
+{143}{}{Raul zaraz poÅ›le ciÄ™ do medykÃ³w.}
+{144}{}{Hej, czÅ‚owieku, zmÃ³w paciorek!}
+{145}{}{Raul zaraz skopie ci tyÅ‚ek!}
+{146}{}{Dobra, czÅ‚owieku, weÅº go z tamtej szafki. Zabieraj go i pozdrÃ³w doktorka od Raula.}
+{147}{}{DziÄ™kujÄ™.}
+{150}{}{Hej, czÅ‚owieku! Raul nie lubi jak ktoÅ› siÄ™ przypieprza do jego zabawek. WynoÅ› siÄ™!}
+{151}{}{Raul mÃ³wiÅ‚ ci, Å¼eby nie grzebaÄ‡ w jego rzeczach! StraÅ¼!}
+{200}{}{Raul sÅ‚yszaÅ‚, Å¼e znowu opowiadasz o nim bzdury.}
+{201}{}{To juÅ¼ ostatni taki numer, ty ruda cipo ty. Tym razem Raul zrobi ci kuku na cacy.}
+{300}{}{Nie widaÄ‡, Å¼e Raul jest zajÄ™ty?}

@@ -1,133 +1,133 @@
 {100}{}{Ves a un viejo arrugado que lleva una bata de doctor.}
 {101}{}{Ves al doctor Holliday.}
-{102}{}{Ves a un viejo arrugado con una bata de doctor ligeramente manchada de sangre. El hombre irradia un aire de sabiduría. También parece estar ligeramente enfermo.}
-{103}{}{::resuella:: Hola. Soy el doctor Holliday. ¿En qué puedo ayudarte?}
-{104}{}{¿Qué quieres ahora?}
-{105}{}{¡Ay!}
-{106}{}{Estoy herida y necesito curación.}
-{107}{}{Uno de mis amigos está herido y necesita curación.}
-{108}{}{¿Qué haces aquí?}
-{109}{}{Háblame de la ciudad.}
-{110}{}{¿Algún cotilleo?}
-{111}{}{Tan solo véndeme algunas medicinas.}
-{112}{}{Olvídalo. Lo siento.}
-{113}{}{Déjame echarte un vistazo. Puedo curarte, pero te costara algo.}
-{114}{}{¿Cuánto?}
-{115}{}{Olvídalo.}
-{116}{}{Sí, puedo curar esto… ::resuello:: por un precio.}
-{117}{}{¿Cuánto?}
-{118}{}{Olvídalo.}
-{119}{}{¿Que qué hago aquí? Estás en un hospital. Llevo puesta una bata de doctor. Estoy cubierto de sangre. Hay bisturís, cosas punzantes tiradas por el suelo. O soy un asesino exitoso o un aceptable doctor. Tú eliges.}
+{102}{}{Ves a un viejo arrugado con una bata de doctor ligeramente manchada de sangre. El hombre irradia un aire de sabidurÃ­a. TambiÃ©n parece estar ligeramente enfermo.}
+{103}{}{::resuella:: Hola. Soy el doctor Holliday. Â¿En quÃ© puedo ayudarte?}
+{104}{}{Â¿QuÃ© quieres ahora?}
+{105}{}{Â¡Ay!}
+{106}{}{Estoy herida y necesito curaciÃ³n.}
+{107}{}{Uno de mis amigos estÃ¡ herido y necesita curaciÃ³n.}
+{108}{}{Â¿QuÃ© haces aquÃ­?}
+{109}{}{HÃ¡blame de la ciudad.}
+{110}{}{Â¿AlgÃºn cotilleo?}
+{111}{}{Tan solo vÃ©ndeme algunas medicinas.}
+{112}{}{OlvÃ­dalo. Lo siento.}
+{113}{}{DÃ©jame echarte un vistazo. Puedo curarte, pero te costara algo.}
+{114}{}{Â¿CuÃ¡nto?}
+{115}{}{OlvÃ­dalo.}
+{116}{}{SÃ­, puedo curar estoâ€¦ ::resuello:: por un precio.}
+{117}{}{Â¿CuÃ¡nto?}
+{118}{}{OlvÃ­dalo.}
+{119}{}{Â¿Que quÃ© hago aquÃ­? EstÃ¡s en un hospital. Llevo puesta una bata de doctor. Estoy cubierto de sangre. Hay bisturÃ­s, cosas punzantes tiradas por el suelo. O soy un asesino exitoso o un aceptable doctor. TÃº eliges.}
 {120}{}{Creo que puedo llamarte doctor.}
 {121}{}{No te hagas el listillo conmigo, viejo.}
-{122}{}{Un buen doctor no se llenaría por completo de sangre.}
-{123}{}{Vamos a ver. Nací aquí hace años. El lugar aún se estaba formando. Me instalé cuando era un adolescente y estuve labrando la zona durante un tiempo. Conocí a una mujer. Nos enamoramos. Murió por una enfermedad. Entonces decidí que sería doctor.}
-{124}{}{¿Sí? Sigue.}
-{125}{}{Estábamos hablando sobre Broken Hills, no sobre tu vida.}
-{126}{}{Te sorprendería lo que dice la gente cuando está sufriendo dolor.}
-{127}{}{Oh ¿sí? ¿Como qué?}
-{128}{}{He cambiado de opinión. Me gustaría preguntar otra cosa.}
-{129}{}{Eso te costará 50 dólares.}
-{130}{}{Pagaré.}
-{131}{}{Olvídalo.}
-{132}{}{Por heridas como esa, perderás 100 dólares.}
-{133}{}{Pagaré.}
-{134}{}{Olvídalo.}
-{135}{}{Eso parece que tiene que doler mucho. También le va a doler a tu cartera... 150 dólares.}
-{136}{}{Pagaré.}
-{137}{}{Olvídalo.}
-{138}{}{¡Ouch! Vas a necesitar algunos serios apaños. 200 dólares.}
-{139}{}{Pagaré.}
-{140}{}{Olvídalo.}
-{141}{}{Buf… amigo, esto va a dolerte mucho. 300 dólares y estarás como nuevo.}
-{142}{}{Pagaré.}
-{143}{}{Olvídalo.}
-{144}{}{Debería estar bien después de un poco de mi ayuda… ::resuello:: por la suma de 50 dólares.}
-{145}{}{Pagaré.}
-{146}{}{Olvídalo.}
-{147}{}{¿Has tenido algo de acción? Recuerdo cuando era un pequeño diablillo. Yo también acababa
- lleno de agujeros. Esta desventura te costará 100 dólares.}
-{148}{}{Pagaré.}
-{149}{}{Olvídalo.}
-{150}{}{Muchacha, ¿cuidas de tus amigos? ::tose:: Si te quieres hacer cargo de este amigo tuyo, necesitarás pagar 150 dólares.}
-{151}{}{Pagaré.}
-{152}{}{Olvídalo.}
-{153}{}{Debes ser muy buena para inspirar una lealtad como ésta en tus amigos. Espero que seas buena... porque esto te va a costar ::tose:: 200 dólares.}
-{154}{}{Pagaré.}
-{155}{}{Olvídalo.}
-{156}{}{¡Ouch! Necesitaré ponerte una escayola en eso o algo así. Gracias a mis amplios conocimientos médicos, estarás corriendo de nuevo por 300 dólares.}
-{157}{}{Pagaré.}
-{158}{}{Olvídalo.}
-{159}{}{Amiga, no tienes esa cantidad de dinero. Puedo venderte algunas medicinas si quieres, pero la curación que estás buscando no la puedes conseguir del modo en que yo puedo proporcionártela.}
+{122}{}{Un buen doctor no se llenarÃ­a por completo de sangre.}
+{123}{}{Vamos a ver. NacÃ­ aquÃ­ hace aÃ±os. El lugar aÃºn se estaba formando. Me instalÃ© cuando era un adolescente y estuve labrando la zona durante un tiempo. ConocÃ­ a una mujer. Nos enamoramos. MuriÃ³ por una enfermedad. Entonces decidÃ­ que serÃ­a doctor.}
+{124}{}{Â¿SÃ­? Sigue.}
+{125}{}{EstÃ¡bamos hablando sobre Broken Hills, no sobre tu vida.}
+{126}{}{Te sorprenderÃ­a lo que dice la gente cuando estÃ¡ sufriendo dolor.}
+{127}{}{Oh Â¿sÃ­? Â¿Como quÃ©?}
+{128}{}{He cambiado de opiniÃ³n. Me gustarÃ­a preguntar otra cosa.}
+{129}{}{Eso te costarÃ¡ 50 dÃ³lares.}
+{130}{}{PagarÃ©.}
+{131}{}{OlvÃ­dalo.}
+{132}{}{Por heridas como esa, perderÃ¡s 100 dÃ³lares.}
+{133}{}{PagarÃ©.}
+{134}{}{OlvÃ­dalo.}
+{135}{}{Eso parece que tiene que doler mucho. TambiÃ©n le va a doler a tu cartera... 150 dÃ³lares.}
+{136}{}{PagarÃ©.}
+{137}{}{OlvÃ­dalo.}
+{138}{}{Â¡Ouch! Vas a necesitar algunos serios apaÃ±os. 200 dÃ³lares.}
+{139}{}{PagarÃ©.}
+{140}{}{OlvÃ­dalo.}
+{141}{}{Bufâ€¦ amigo, esto va a dolerte mucho. 300 dÃ³lares y estarÃ¡s como nuevo.}
+{142}{}{PagarÃ©.}
+{143}{}{OlvÃ­dalo.}
+{144}{}{DeberÃ­a estar bien despuÃ©s de un poco de mi ayudaâ€¦ ::resuello:: por la suma de 50 dÃ³lares.}
+{145}{}{PagarÃ©.}
+{146}{}{OlvÃ­dalo.}
+{147}{}{Â¿Has tenido algo de acciÃ³n? Recuerdo cuando era un pequeÃ±o diablillo. Yo tambiÃ©n acababa
+ lleno de agujeros. Esta desventura te costarÃ¡ 100 dÃ³lares.}
+{148}{}{PagarÃ©.}
+{149}{}{OlvÃ­dalo.}
+{150}{}{Muchacha, Â¿cuidas de tus amigos? ::tose:: Si te quieres hacer cargo de este amigo tuyo, necesitarÃ¡s pagar 150 dÃ³lares.}
+{151}{}{PagarÃ©.}
+{152}{}{OlvÃ­dalo.}
+{153}{}{Debes ser muy buena para inspirar una lealtad como Ã©sta en tus amigos. Espero que seas buena... porque esto te va a costar ::tose:: 200 dÃ³lares.}
+{154}{}{PagarÃ©.}
+{155}{}{OlvÃ­dalo.}
+{156}{}{Â¡Ouch! NecesitarÃ© ponerte una escayola en eso o algo asÃ­. Gracias a mis amplios conocimientos mÃ©dicos, estarÃ¡s corriendo de nuevo por 300 dÃ³lares.}
+{157}{}{PagarÃ©.}
+{158}{}{OlvÃ­dalo.}
+{159}{}{Amiga, no tienes esa cantidad de dinero. Puedo venderte algunas medicinas si quieres, pero la curaciÃ³n que estÃ¡s buscando no la puedes conseguir del modo en que yo puedo proporcionÃ¡rtela.}
 {160}{}{Dame las medicinas.}
 {161}{}{No, gracias.}
 {162}{}{Ha sido un placer.}
 {163}{}{Gracias.}
 {164}{}{Eso no es aceptable.}
-{165}{}{¿Qué tal esto?}
+{165}{}{Â¿QuÃ© tal esto?}
 {166}{}{Es todo lo que quiero ofrecer. Hasta luego.}
-{167}{}{::resuello:: ¿Estás herido? Déjame echarle un vistazo a eso. ¿Tienes dinero?}
-{168}{}{¿Di-nero?}
-{169}{}{¡S-sí!}
-{170}{}{Déjame echar un vistazo a tu mochila. (mira tu mochila y toma algo) Vale. Bien, esto
+{167}{}{::resuello:: Â¿EstÃ¡s herido? DÃ©jame echarle un vistazo a eso. Â¿Tienes dinero?}
+{168}{}{Â¿Di-nero?}
+{169}{}{Â¡S-sÃ­!}
+{170}{}{DÃ©jame echar un vistazo a tu mochila. (mira tu mochila y toma algo) Vale. Bien, esto
  te puede doler un poco.}
-{171}{}{¿Duele?}
-{172}{}{Sí. Y así… ¡Ya está! Hemos terminado. Buena suerte, ¿vale? ¡No te hagas daño!}
-{173}{}{¡G-gracias!}
+{171}{}{Â¿Duele?}
+{172}{}{SÃ­. Y asÃ­â€¦ Â¡Ya estÃ¡! Hemos terminado. Buena suerte, Â¿vale? Â¡No te hagas daÃ±o!}
+{173}{}{Â¡G-gracias!}
 {174}{}{Exacto. Soy doctor. Me alegra ver que la inteligencia sigue viva y en forma en el mundo post-nuclear.}
-{175}{}{¡Ja! ¡Y está dando vueltas dentro del cuerpo de un viejo de 70 años!}
+{175}{}{Â¡Ja! Â¡Y estÃ¡ dando vueltas dentro del cuerpo de un viejo de 70 aÃ±os!}
 {176}{}{No quiero seguir aguantando tus mierdas, viejo.}
-{177}{}{Mmmm.. Sí. Tengo más preguntas.}
-{178}{}{Adiós.}
-{179}{}{Amenazas al único doctor de la ciudad. Gran idea. ::tose:: Amigo, si quieres algo, puedes
- pedirlo amablemente. De lo contrario, lárgate de mi hospital.}
-{180}{}{Que te den, viejo. Prepárate para morir.}
-{181}{}{Sí. Lo que sea.}
-{182}{}{Lo siento. Un mal día.}
-{183}{}{Sólo estaba bromeando.}
+{177}{}{Mmmm.. SÃ­. Tengo mÃ¡s preguntas.}
+{178}{}{AdiÃ³s.}
+{179}{}{Amenazas al Ãºnico doctor de la ciudad. Gran idea. ::tose:: Amigo, si quieres algo, puedes
+ pedirlo amablemente. De lo contrario, lÃ¡rgate de mi hospital.}
+{180}{}{Que te den, viejo. PrepÃ¡rate para morir.}
+{181}{}{SÃ­. Lo que sea.}
+{182}{}{Lo siento. Un mal dÃ­a.}
+{183}{}{SÃ³lo estaba bromeando.}
 {184}{}{Jovencita, tienes mucho que aprender sobre el respeto.}
 {185}{}{Muchacho, tienes mucho que aprender sobre el humor.}
-{186}{}{Sí, vale.}
-{187}{}{Vale, me has cabreado. Ahora vas a tener que curarte tú solito.}
-{188}{}{(Puedes ver una mirada risueña tras sus gafas). No se ve en muchos otros lugares estos días. Los jóvenes del mundo, por ejemplo…}
-{189}{}{¡Oye!}
+{186}{}{SÃ­, vale.}
+{187}{}{Vale, me has cabreado. Ahora vas a tener que curarte tÃº solito.}
+{188}{}{(Puedes ver una mirada risueÃ±a tras sus gafas). No se ve en muchos otros lugares estos dÃ­as. Los jÃ³venes del mundo, por ejemploâ€¦}
+{189}{}{Â¡Oye!}
 {190}{}{Viejo, no me ofendas.}
 {191}{}{...son los depositarios de lo que nuestros mayores supieron una vez...}
-{192}{}{Sí, sí, sí… Tengo que irme.}
-{193}{}{Relájate, chaval. Solo estaba bromeando contigo.}
-{194}{}{Sí, lo sé. Entonces… mmmm… }
-{195}{}{… ¡y lo que rechazamos deciros, pequeño bastardo! (se echa a reír). Chaval, la próxima vez que necesites verme por ayuda médica, invita la casa.}
+{192}{}{SÃ­, sÃ­, sÃ­â€¦ Tengo que irme.}
+{193}{}{RelÃ¡jate, chaval. Solo estaba bromeando contigo.}
+{194}{}{SÃ­, lo sÃ©. Entoncesâ€¦ mmmmâ€¦ }
+{195}{}{â€¦ Â¡y lo que rechazamos deciros, pequeÃ±o bastardo! (se echa a reÃ­r). Chaval, la prÃ³xima vez que necesites verme por ayuda mÃ©dica, invita la casa.}
 {196}{}{Tengo otras preguntas.}
 {197}{}{Gracias. Hasta otra.}
-{198}{}{¿Estás herida? Déjame apañarte eso.}
+{198}{}{Â¿EstÃ¡s herida? DÃ©jame apaÃ±arte eso.}
 {199}{}{Umm...}
-{200}{}{Gracias. ¡Hasta luego!}
-{201}{}{¿Hay alguien herido? Oh, poneos en fila y me haré cargo de todos vosotros.}
-{202}{}{Una cosa más...}
-{203}{}{¡Gracias! ¡Adiós!}
-{204}{}{Sorprendentemente poco. Lo siento, pero cuando estoy concentrado en curar a alguien, no suelo prestar atención a sus mas íntimos secretos.}
-{205}{}{Oh. ¿Me responderás a más preguntas?}
-{206}{}{Entonces viajé a San Francisco y estudié allí con los chinos… un viejo caballero que
- se llamaba señor Fung me enseñó todo lo que sé sobre medicina. También me enseñó ciertos conocimientos.}
-{207}{}{¿Y entonces qué pasó?}
-{208}{}{¿Y qué tiene que ver esto con Broken Hills?}
-{209}{}{¡Estoy llegando a eso! Los jóvenes de hoy día… tan impacientes.}
+{200}{}{Gracias. Â¡Hasta luego!}
+{201}{}{Â¿Hay alguien herido? Oh, poneos en fila y me harÃ© cargo de todos vosotros.}
+{202}{}{Una cosa mÃ¡s...}
+{203}{}{Â¡Gracias! Â¡AdiÃ³s!}
+{204}{}{Sorprendentemente poco. Lo siento, pero cuando estoy concentrado en curar a alguien, no suelo prestar atenciÃ³n a sus mas Ã­ntimos secretos.}
+{205}{}{Oh. Â¿Me responderÃ¡s a mÃ¡s preguntas?}
+{206}{}{Entonces viajÃ© a San Francisco y estudiÃ© allÃ­ con los chinosâ€¦ un viejo caballero que
+ se llamaba seÃ±or Fung me enseÃ±Ã³ todo lo que sÃ© sobre medicina. TambiÃ©n me enseÃ±Ã³ ciertos conocimientos.}
+{207}{}{Â¿Y entonces quÃ© pasÃ³?}
+{208}{}{Â¿Y quÃ© tiene que ver esto con Broken Hills?}
+{209}{}{Â¡Estoy llegando a eso! Los jÃ³venes de hoy dÃ­aâ€¦ tan impacientes.}
 {210}{}{Lo siento. Sigue.}
-{211}{}{Esto es una mierda. Me voy de aquí.}
-{212}{}{Entonces, vine aquí y vi que Marcus había convertido el poblado de chabolas que recuerdo de mi
- juventud en la "creciente metrópoli" que ves ante ti. He visto a gente atraída por promesas de
+{211}{}{Esto es una mierda. Me voy de aquÃ­.}
+{212}{}{Entonces, vine aquÃ­ y vi que Marcus habÃ­a convertido el poblado de chabolas que recuerdo de mi
+ juventud en la "creciente metrÃ³poli" que ves ante ti. He visto a gente atraÃ­da por promesas de
  riqueza. He visto a personas crecer y morir. He visto el curso de la historia.}
-{213}{}{Entonces eso significa…}
-{214}{}{Eso significa que no conozco a la mayoría de la gente nueva de hoy en día. La mayoría de mis recuerdos son sólo eso: recuerdos.}
+{213}{}{Entonces eso significaâ€¦}
+{214}{}{Eso significa que no conozco a la mayorÃ­a de la gente nueva de hoy en dÃ­a. La mayorÃ­a de mis recuerdos son sÃ³lo eso: recuerdos.}
 {215}{}{Oh. Bueno, gracias por la historia.}
-{216}{}{¡Capullo! ¿Me has hecho esperar tanto tiempo para nada?}
-{217}{}{No, gracias por escucharme. La próxima vez que estés aquí y necesites curarte, invita la casa.}
-{218}{}{¡Gracias! Así que de todas formas…}
-{219}{}{Gracias. ¡Hasta luego!}
-{220}{}{Sí. ¡Espero que lo mereciera! (ríe entre dientes)}
-{221}{}{No. En realidad no. Cuéntame algo más.}
-{222}{}{No. Viejo capullo arrugado. Adiós.}
-{300}{}{¿A quién te gustaría que curara?}
+{216}{}{Â¡Capullo! Â¿Me has hecho esperar tanto tiempo para nada?}
+{217}{}{No, gracias por escucharme. La prÃ³xima vez que estÃ©s aquÃ­ y necesites curarte, invita la casa.}
+{218}{}{Â¡Gracias! AsÃ­ que de todas formasâ€¦}
+{219}{}{Gracias. Â¡Hasta luego!}
+{220}{}{SÃ­. Â¡Espero que lo mereciera! (rÃ­e entre dientes)}
+{221}{}{No. En realidad no. CuÃ©ntame algo mÃ¡s.}
+{222}{}{No. Viejo capullo arrugado. AdiÃ³s.}
+{300}{}{Â¿A quiÃ©n te gustarÃ­a que curara?}
 {301}{}{Vic.}
 {302}{}{Myron.}
 {303}{}{Marcus.}
@@ -141,10 +141,10 @@
 {311}{}{Ves a Miria.}
 {312}{}{Al robocerebro.}
 {313}{}{No importa.}
-{314}{}{¿Estás herida? Déjame echar un vistazo. Me encargaré de tus compañeros también.}
-{315}{}{Listo. Ya estáis todos mejor.}
+{314}{}{Â¿EstÃ¡s herida? DÃ©jame echar un vistazo. Me encargarÃ© de tus compaÃ±eros tambiÃ©n.}
+{315}{}{Listo. Ya estÃ¡is todos mejor.}
 {316}{}{[continuar]}
-{400}{}{Albóndiga.}
+{400}{}{AlbÃ³ndiga.}
 {401}{}{K-9.}
 {402}{}{Kitsune.}
 {403}{}{Dex.}

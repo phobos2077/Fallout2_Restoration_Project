@@ -1,116 +1,116 @@
-{100}{}{Egy faládát látsz.}
-{101}{}{Egy fém öltöz?szekrényt látsz.}
-{102}{}{Egy robosztus konténert látsz lakattal (tolvajkulcssal nyitható), és valamilyen robbanó csapda van rajta, melyet talán fel tudsz feszíteni.}
-{103}{}{Egy robosztus konténert látsz lakattal és valamilyen robbanó csapda van rajta, melyet talán fel tudsz feszíteni.}
-{104}{}{Egy robosztus konténert látsz minden látható zárszerkezet nélkül és valamilyen robbanó csapda van rajta, melyet talán fel tudsz feszíteni.}
-{105}{}{Egy robosztus konténert látsz rozsdás lakattal és valamilyen robbanó csapda van rajta, melyet talán fel tudsz feszíteni.}
-{106}{}{Egy robosztus konténert látsz lakattal (tolvajkulcssal nyitható), és egy csapda van rajta, melyet talán fel tudsz feszíteni. }
-{107}{}{Egy robosztus konténert látsz lakattal és egy csapda van rajta, melyet talán fel tudsz feszíteni.}
-{108}{}{Egy robosztus konténert látsz minden látható zárszerkezet nélkül, és egy csapda van rajta, melyet talán fel tudsz feszíteni.}
-{109}{}{Egy robosztus konténert látsz rozsdás lakattal és egy csapda van rajta, melyet talán fel tudsz feszíteni.}
-{110}{}{Egy robosztus konténert látsz lakattal (tolvajkulcssal nyitható) egy szakító huzalt rajta, melyet talán le tudsz feszíteni.}
-{111}{}{Egy robosztus konténert látsz lakattal és egy elszakadt huzalt rajta, melyet talán fel tudsz feszíteni. }
-{112}{}{Egy robosztus konténert látsz minden látható zárszerkezet nélkül, és egy elszakadt huzalt rajta, melyet talán fel tudsz feszíteni.}
-{113}{}{Egy robosztus konténert látsz rozsdás lakattal és egy szakító huzalt rajta, melyet talán le tudsz feszíteni.}
-{114}{}{Egy robosztus konténert látsz lakattal (tolvajkulcssal nyitható), melyet talán fel tudsz feszíteni. }
-{115}{}{Egy robosztus konténert látsz lakattal, melyet talán fel tudsz feszíteni. }
-{116}{}{Egy robosztus konténert látsz minden látható zárszerkezet nélkül, melyet talán fel tudsz feszíteni.}
-{117}{}{Egy robosztus konténert látsz rozsdás lakattal, melyet talán fel tudsz feszíteni. }
-{118}{}{Egy robosztus konténert látsz lakattal (tolvajkulcssal nyitható), és valamilyen robbanó csapda van rajta.}
-{119}{}{Egy robosztus konténert látsz lakattal és valamilyen robbanó csapda van rajta.}
-{120}{}{Egy robosztus konténert látsz minden látható zárszerkezet nélkül és valamilyen robbanó csapda van rajta.}
-{121}{}{Egy robosztus konténert látsz rozsdás lakattal és valamilyen robbanó csapda van rajta.}
-{122}{}{Egy robosztus konténert látsz lakattal (tolvajkulcssal nyitható), és egy csapda van rajta.}
-{123}{}{Egy robosztus konténert látsz lakattal és egy csapda van rajta.}
-{124}{}{Egy robosztus konténert látsz minden látható zárszerkezet nélkül, és egy csapda van rajta.}
-{125}{}{Egy robosztus konténert látsz rozsdás lakattal és egy csapda van rajta.}
-{126}{}{Egy robosztus konténert látsz lakattal (tolvajkulcssal nyitható), és egy szakító huzalt rajta. }
-{127}{}{Egy robosztus konténert látsz lakattalés egy elszakadt huzalt rajta.}
-{128}{}{Egy robosztus konténert látsz minden látható zárszerkezet nélkül, és egy elszakadt huzalt rajta.}
-{129}{}{Egy robosztus konténert látsz rozsdás lakattal és egy szakító huzalt rajta.}
-{130}{}{Egy robosztus konténert látsz lakattal (tolvajkulcssal nyitható).}
-{131}{}{Egy robosztus konténert látsz lakattal.}
-{132}{}{Egy robosztus konténert látsz minden látható zárszerkezet nélkül.}
-{133}{}{Egy robosztus konténert látsz rozsdás lakattal.}
-{134}{}{Egy sérült konténert látsz lakattal (tolvajkulcssal nyitható), és valamilyen robbanó csapda van rajta.}
-{135}{}{Egy sérült konténert látsz lakattal és valamilyen robbanó csapda van rajta.}
-{136}{}{Egy sérült konténert látsz minden látható zárszerkezet nélkül és valamilyen robbanó csapda van rajta. }
-{137}{}{Egy sérült konténert látsz rozsdás lakattal és valamilyen robbanó csapda van rajta.}
-{138}{}{Egy sérült konténert látsz lakattal (tolvajkulcssal nyitható), és egy csapda van rajta.}
-{139}{}{Egy sérült konténert látsz lakattal és egy csapda van rajta.}
-{140}{}{Egy sérült konténert látsz minden látható zárszerkezet nélkül, és egy csapda van rajta.}
-{141}{}{Egy sérült konténert látsz rozsdás lakattal és egy csapda van rajta.}
-{142}{}{Egy sérült konténert látsz lakattal (tolvajkulcssal nyitható), és egy szakító huzalt rajta.}
-{143}{}{Egy sérült konténert látsz lakattal és egy elszakadt huzalt rajta.}
-{144}{}{Egy sérült konténert látsz minden látható zárszerkezet nélkül, és egy elszakadt huzalt rajta.}
-{145}{}{Egy sérült konténert látsz rozsdás lakattal és egy szakító huzalt rajta.}
-{146}{}{Egy sérült konténert látsz lakattal (tolvajkulcssal nyitható).}
-{147}{}{Egy sérült konténert látsz lakattal.}
-{148}{}{Egy sérült konténert látsz minden látható zárszerkezet nélkül.}
-{149}{}{Egy sérült konténert látsz rozsdás lakattal.}
-{150}{}{Egy öreg konténert látsz lakattal (tolvajkulcssal nyitható), és valamilyen robbanó csapda van rajta.}
-{151}{}{Egy öreg konténert látsz lakattal és valamilyen robbanó csapda van rajta.}
-{152}{}{Egy öreg konténert látsz minden látható zárszerkezet nélkül és valamilyen robbanó csapda van rajta.}
-{153}{}{Egy öreg konténert látsz rozsdás lakattal és valamilyen robbanó csapda van rajta .}
-{154}{}{Egy öreg konténert látsz lakattal (tolvajkulcssal nyitható), és egy csapda van rajta.}
-{155}{}{Egy öreg konténert látsz lakattal és egy csapda van rajta.}
-{156}{}{Egy öreg konténert látsz minden látható zárszerkezet nélkül, és egy csapda van rajta. }
-{157}{}{Egy öreg konténert látsz rozsdás lakattal és egy csapda van rajta}
-{158}{}{Egy öreg konténert látsz lakattal (tolvajkulcssal nyitható), és egy szakító huzalt rajta.}
-{159}{}{Egy öreg konténert látsz lakattal és egy elszakadt huzalt rajta.}
-{160}{}{Egy öreg konténert látsz minden látható zárszerkezet nélkül, és egy elszakadt huzalt rajta.}
-{161}{}{Egy öreg konténert látsz rozsdás lakattal és egy szakító huzalt rajta.}
-{162}{}{Egy öreg konténert látsz lakattal (tolvajkulcssal nyitható).}
-{163}{}{Egy öreg konténert látsz lakattal.}
-{164}{}{Egy öreg konténert látsz minden látható zárszerkezet nélkül.}
-{165}{}{Egy öreg konténert látsz rozsdás lakattal.}
-{166}{}{Aktiváltál egy csapdát, és }
-{167}{}{ ÉP a büntetés!}
-{168}{}{ aktivált egy csapdát, és }
-{169}{}{ ÉP a büntetés!}
-{170}{}{Ügyesen kinyitottad a konténeren lév? lakatot.}
-{171}{}{Képességek hiányában összetörted a konténeren lév? lakatot.}
-{172}{}{Nem sikerült kinyitnod a konténeren lév? lakatot.}
-{173}{}{ ügyesen kinyitotta a konténeren lév? lakatot.}
-{174}{}{ képességek hiányában összetörte a konténeren lév? lakatot.}
-{175}{}{ nem tudta kinyitni a konténeren lév? lakatot.}
-{176}{}{Leütötted a lakatot a konténerr?l.}
-{177}{}{Miközben megpróbáltad leütni a lakatot a konténerr?l, meghúzódott a hátad, és [x] ÉP-t sérültél.}
-{178}{}{Miközben megpróbáltad leütni a lakatot a konténerr?l, meghúzódott a hátad, és }
-{179}{}{ ÉP a büntetés!}
-{180}{}{Túl gyenge vagy, hogy leverd a zárat.}
-{181}{}{ leütötte a lakatot a konténerr?l.}
-{182}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és [x] ÉP-t sérült.}
-{183}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és }
-{184}{}{ ÉP a büntetés!}
-{185}{}{ túl gyenge, hogy leverje a zárat.}
-{186}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és [x] ÉP-t sérült.}
-{187}{}{ háta megsérül, miközben megpróbálta leverni a zárat és }
-{188}{}{ ÉP a büntetés!}
-{189}{}{Ügyesen bezártad a konténert.}
-{190}{}{Nem tudtad bezárni a konténert.}
-{191}{}{ bezárta a konténert.}
-{192}{}{ nem tudta bezárni a konténert.}
-{193}{}{Ennyi meg se karcolta a konténert.}
-{194}{}{Egy csapdát találtál a konténeren.}
-{195}{}{Nem voltál képes csapdát találni a kontérenen.}
-{196}{}{Hozzáért?en hatástalanítottad a csapdát.}
-{198}{}{Nem sikerült hatástalanítanod a csapdát.}
-{199}{}{ csapdát talált a konténeren.}
-{200}{}{ nem volt képes csapdát találni a konténeren.}
-{201}{}{ hozzáért?en hatástalanította a csapdát.}
-{202}{}{ nem tudta kiiktatni a csapdát.}
-{203}{}{Úgy néz ki, a konténer be van zárva.}
-{204}{}{Észreveszel egy csapdát a konténeren.}
+{100}{}{Egy falÃ¡dÃ¡t lÃ¡tsz.}
+{101}{}{Egy fÃ©m Ã¶ltÃ¶z?szekrÃ©nyt lÃ¡tsz.}
+{102}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), Ã©s valamilyen robbanÃ³ csapda van rajta, melyet talÃ¡n fel tudsz feszÃ­teni.}
+{103}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal Ã©s valamilyen robbanÃ³ csapda van rajta, melyet talÃ¡n fel tudsz feszÃ­teni.}
+{104}{}{Egy robosztus kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l Ã©s valamilyen robbanÃ³ csapda van rajta, melyet talÃ¡n fel tudsz feszÃ­teni.}
+{105}{}{Egy robosztus kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s valamilyen robbanÃ³ csapda van rajta, melyet talÃ¡n fel tudsz feszÃ­teni.}
+{106}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), Ã©s egy csapda van rajta, melyet talÃ¡n fel tudsz feszÃ­teni. }
+{107}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal Ã©s egy csapda van rajta, melyet talÃ¡n fel tudsz feszÃ­teni.}
+{108}{}{Egy robosztus kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy csapda van rajta, melyet talÃ¡n fel tudsz feszÃ­teni.}
+{109}{}{Egy robosztus kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s egy csapda van rajta, melyet talÃ¡n fel tudsz feszÃ­teni.}
+{110}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³) egy szakÃ­tÃ³ huzalt rajta, melyet talÃ¡n le tudsz feszÃ­teni.}
+{111}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal Ã©s egy elszakadt huzalt rajta, melyet talÃ¡n fel tudsz feszÃ­teni. }
+{112}{}{Egy robosztus kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy elszakadt huzalt rajta, melyet talÃ¡n fel tudsz feszÃ­teni.}
+{113}{}{Egy robosztus kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s egy szakÃ­tÃ³ huzalt rajta, melyet talÃ¡n le tudsz feszÃ­teni.}
+{114}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), melyet talÃ¡n fel tudsz feszÃ­teni. }
+{115}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal, melyet talÃ¡n fel tudsz feszÃ­teni. }
+{116}{}{Egy robosztus kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, melyet talÃ¡n fel tudsz feszÃ­teni.}
+{117}{}{Egy robosztus kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal, melyet talÃ¡n fel tudsz feszÃ­teni. }
+{118}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), Ã©s valamilyen robbanÃ³ csapda van rajta.}
+{119}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal Ã©s valamilyen robbanÃ³ csapda van rajta.}
+{120}{}{Egy robosztus kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l Ã©s valamilyen robbanÃ³ csapda van rajta.}
+{121}{}{Egy robosztus kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s valamilyen robbanÃ³ csapda van rajta.}
+{122}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), Ã©s egy csapda van rajta.}
+{123}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal Ã©s egy csapda van rajta.}
+{124}{}{Egy robosztus kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy csapda van rajta.}
+{125}{}{Egy robosztus kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s egy csapda van rajta.}
+{126}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), Ã©s egy szakÃ­tÃ³ huzalt rajta. }
+{127}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattalÃ©s egy elszakadt huzalt rajta.}
+{128}{}{Egy robosztus kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy elszakadt huzalt rajta.}
+{129}{}{Egy robosztus kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s egy szakÃ­tÃ³ huzalt rajta.}
+{130}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³).}
+{131}{}{Egy robosztus kontÃ©nert lÃ¡tsz lakattal.}
+{132}{}{Egy robosztus kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l.}
+{133}{}{Egy robosztus kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal.}
+{134}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), Ã©s valamilyen robbanÃ³ csapda van rajta.}
+{135}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz lakattal Ã©s valamilyen robbanÃ³ csapda van rajta.}
+{136}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l Ã©s valamilyen robbanÃ³ csapda van rajta. }
+{137}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s valamilyen robbanÃ³ csapda van rajta.}
+{138}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), Ã©s egy csapda van rajta.}
+{139}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz lakattal Ã©s egy csapda van rajta.}
+{140}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy csapda van rajta.}
+{141}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s egy csapda van rajta.}
+{142}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), Ã©s egy szakÃ­tÃ³ huzalt rajta.}
+{143}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz lakattal Ã©s egy elszakadt huzalt rajta.}
+{144}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy elszakadt huzalt rajta.}
+{145}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s egy szakÃ­tÃ³ huzalt rajta.}
+{146}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³).}
+{147}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz lakattal.}
+{148}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l.}
+{149}{}{Egy sÃ©rÃ¼lt kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal.}
+{150}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), Ã©s valamilyen robbanÃ³ csapda van rajta.}
+{151}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz lakattal Ã©s valamilyen robbanÃ³ csapda van rajta.}
+{152}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l Ã©s valamilyen robbanÃ³ csapda van rajta.}
+{153}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s valamilyen robbanÃ³ csapda van rajta .}
+{154}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), Ã©s egy csapda van rajta.}
+{155}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz lakattal Ã©s egy csapda van rajta.}
+{156}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy csapda van rajta. }
+{157}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s egy csapda van rajta}
+{158}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³), Ã©s egy szakÃ­tÃ³ huzalt rajta.}
+{159}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz lakattal Ã©s egy elszakadt huzalt rajta.}
+{160}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy elszakadt huzalt rajta.}
+{161}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal Ã©s egy szakÃ­tÃ³ huzalt rajta.}
+{162}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz lakattal (tolvajkulcssal nyithatÃ³).}
+{163}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz lakattal.}
+{164}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l.}
+{165}{}{Egy Ã¶reg kontÃ©nert lÃ¡tsz rozsdÃ¡s lakattal.}
+{166}{}{AktivÃ¡ltÃ¡l egy csapdÃ¡t, Ã©s }
+{167}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{168}{}{ aktivÃ¡lt egy csapdÃ¡t, Ã©s }
+{169}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{170}{}{Ãœgyesen kinyitottad a kontÃ©neren lÃ©v? lakatot.}
+{171}{}{KÃ©pessÃ©gek hiÃ¡nyÃ¡ban Ã¶sszetÃ¶rted a kontÃ©neren lÃ©v? lakatot.}
+{172}{}{Nem sikerÃ¼lt kinyitnod a kontÃ©neren lÃ©v? lakatot.}
+{173}{}{ Ã¼gyesen kinyitotta a kontÃ©neren lÃ©v? lakatot.}
+{174}{}{ kÃ©pessÃ©gek hiÃ¡nyÃ¡ban Ã¶sszetÃ¶rte a kontÃ©neren lÃ©v? lakatot.}
+{175}{}{ nem tudta kinyitni a kontÃ©neren lÃ©v? lakatot.}
+{176}{}{LeÃ¼tÃ¶tted a lakatot a kontÃ©nerr?l.}
+{177}{}{MikÃ¶zben megprÃ³bÃ¡ltad leÃ¼tni a lakatot a kontÃ©nerr?l, meghÃºzÃ³dott a hÃ¡tad, Ã©s [x] Ã‰P-t sÃ©rÃ¼ltÃ©l.}
+{178}{}{MikÃ¶zben megprÃ³bÃ¡ltad leÃ¼tni a lakatot a kontÃ©nerr?l, meghÃºzÃ³dott a hÃ¡tad, Ã©s }
+{179}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{180}{}{TÃºl gyenge vagy, hogy leverd a zÃ¡rat.}
+{181}{}{ leÃ¼tÃ¶tte a lakatot a kontÃ©nerr?l.}
+{182}{}{ hÃ¡ta megsÃ©rÃ¼lt, mikÃ¶zben megprÃ³bÃ¡lta leverni a zÃ¡rat, Ã©s [x] Ã‰P-t sÃ©rÃ¼lt.}
+{183}{}{ hÃ¡ta megsÃ©rÃ¼lt, mikÃ¶zben megprÃ³bÃ¡lta leverni a zÃ¡rat, Ã©s }
+{184}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{185}{}{ tÃºl gyenge, hogy leverje a zÃ¡rat.}
+{186}{}{ hÃ¡ta megsÃ©rÃ¼lt, mikÃ¶zben megprÃ³bÃ¡lta leverni a zÃ¡rat, Ã©s [x] Ã‰P-t sÃ©rÃ¼lt.}
+{187}{}{ hÃ¡ta megsÃ©rÃ¼l, mikÃ¶zben megprÃ³bÃ¡lta leverni a zÃ¡rat Ã©s }
+{188}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{189}{}{Ãœgyesen bezÃ¡rtad a kontÃ©nert.}
+{190}{}{Nem tudtad bezÃ¡rni a kontÃ©nert.}
+{191}{}{ bezÃ¡rta a kontÃ©nert.}
+{192}{}{ nem tudta bezÃ¡rni a kontÃ©nert.}
+{193}{}{Ennyi meg se karcolta a kontÃ©nert.}
+{194}{}{Egy csapdÃ¡t talÃ¡ltÃ¡l a kontÃ©neren.}
+{195}{}{Nem voltÃ¡l kÃ©pes csapdÃ¡t talÃ¡lni a kontÃ©renen.}
+{196}{}{HozzÃ¡Ã©rt?en hatÃ¡stalanÃ­tottad a csapdÃ¡t.}
+{198}{}{Nem sikerÃ¼lt hatÃ¡stalanÃ­tanod a csapdÃ¡t.}
+{199}{}{ csapdÃ¡t talÃ¡lt a kontÃ©neren.}
+{200}{}{ nem volt kÃ©pes csapdÃ¡t talÃ¡lni a kontÃ©neren.}
+{201}{}{ hozzÃ¡Ã©rt?en hatÃ¡stalanÃ­totta a csapdÃ¡t.}
+{202}{}{ nem tudta kiiktatni a csapdÃ¡t.}
+{203}{}{Ãšgy nÃ©z ki, a kontÃ©ner be van zÃ¡rva.}
+{204}{}{Ã‰szreveszel egy csapdÃ¡t a kontÃ©neren.}
 {205}{}{ notices a trap on the container jamb.}
-{206}{}{Nem tudsz csapdát helyezni a konténerre, mert az nyitva van.}
-{207}{}{ nem tud csapdát helyezni a konténerre, mert az nyitva van.}
-{208}{}{Tökéletes csapdát helyeztél a konténerre.}
-{209}{}{Nem tudod rendesen felszerelni a csapdát a konténerre.}
-{210}{}{ tökéletes csapdát helyezett a konténerre.}
-{211}{}{ nem tudta rendesen felszerelni a csapdát a konténerre.}
+{206}{}{Nem tudsz csapdÃ¡t helyezni a kontÃ©nerre, mert az nyitva van.}
+{207}{}{ nem tud csapdÃ¡t helyezni a kontÃ©nerre, mert az nyitva van.}
+{208}{}{TÃ¶kÃ©letes csapdÃ¡t helyeztÃ©l a kontÃ©nerre.}
+{209}{}{Nem tudod rendesen felszerelni a csapdÃ¡t a kontÃ©nerre.}
+{210}{}{ tÃ¶kÃ©letes csapdÃ¡t helyezett a kontÃ©nerre.}
+{211}{}{ nem tudta rendesen felszerelni a csapdÃ¡t a kontÃ©nerre.}
 {212}{}{You see a refrigerator.}
-{400}{}{Kinyitottad a konténert.}
+{400}{}{Kinyitottad a kontÃ©nert.}
 {601}{}{It is open, dummy.}
 {610}{}{You fail spectacularly, and the explosive goes off prematurely.}
 {611}{}{ fails spectacularly, and the explosive goes off prematurely.}

@@ -1,1 +1,1 @@
-{100}{}{Tu es entré dans le campement aux alentours des murs de la République de Nouvelle Californie.}
+{100}{}{Tu es entrÃ© dans le campement aux alentours des murs de la RÃ©publique de Nouvelle Californie.}

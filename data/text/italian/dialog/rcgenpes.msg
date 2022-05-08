@@ -46,13 +46,13 @@
 {145}{}{Sei il migliore.}
 {146}{}{Anche i selvaggi sono persone.}
 {147}{}{Non c'e' niente come gli amici, non e' vero?}
-{148}{}{Credo di aver voglia di cantare…}
+{148}{}{Credo di aver voglia di cantareâ€¦}
 {149}{}{Ritiro gran parte di quello che prima ho detto su di te.}
 {150}{}{Che amico.}
 {151}{}{I selvaggi sono persone come noi.}
 {152}{}{Hip, hip, hurrah per il selvaggio.}
-{153}{}{./~ La mia gola e' secca… ./~}
-{154}{}{./~ 99 bottiglie di birra sul muro, 99 bottiglie di birra… ./~}
+{153}{}{./~ La mia gola e' seccaâ€¦ ./~}
+{154}{}{./~ 99 bottiglie di birra sul muro, 99 bottiglie di birraâ€¦ ./~}
 {155}{}{Quest'uomo sembra essere a casa sua.}
 {156}{}{Vedi un uomo che mangia.}
 {157}{}{Vedi un uomo intento a rammendare un vestito.}
@@ -88,7 +88,7 @@
 {187}{}{Vedi una persona che deve aver puntato dei soldi sui combattimenti.}
 {188}{}{Questa persona sembra eccitata.}
 {189}{}{Fallo secco!}
-{190}{}{Ecco che svanisce una settimana di paga…di nuovo.}
+{190}{}{Ecco che svanisce una settimana di pagaâ€¦di nuovo.}
 {191}{}{Yeah!}
 {192}{}{Uccidi, uccidi, uccidi!}
 {193}{}{Alla gola!}

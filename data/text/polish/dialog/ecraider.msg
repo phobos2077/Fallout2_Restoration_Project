@@ -1,19 +1,19 @@
-{100}{}{Widzisz groŸnie wygl¹daj¹c¹ osobê.}
-{101}{}{Widzisz najeŸdŸcê.}
-{200}{}{Jesteœ na naszym terytorium. Teraz zginiesz!}
-{201}{}{Jak œmiesz zjawiaæ siê tu bez zaproszenia!}
-{202}{}{Giñ, mieszczuchu!}
-{203}{}{Pewnie nieŸle zarobiê na twojej œmierci.}
-{204}{}{Uciekaj, póki jeszcze mo¿esz!}
-{205}{}{Wiecie co robiæ, panowie.}
-{206}{}{¯adnych œwiadków.}
-{207}{}{Os³aniajcie mnie.}
-{208}{}{Bez litoœci!}
-{209}{}{Nikt nie mo¿e prze¿yæ.}
-{210}{}{Bishop kaza³ wyt³uc w³óczêgów.}
-{211}{}{Za to nam p³ac¹!}
-{300}{}{Widzisz ¯abê Mortona.}
-{301}{}{Widzisz Ropuchê Mortona.}
-{302}{}{Widzisz Traszkê Mortona.}
-{303}{}{Widzisz Wê¿a Mortona.}
-{305}{}{Przez ciebie zgin¹³ mój brat! Ju¿ nie ¿yjesz!}
+{100}{}{Widzisz groÅºnie wyglÄ…dajÄ…cÄ… osobÄ™.}
+{101}{}{Widzisz najeÅºdÅºcÄ™.}
+{200}{}{JesteÅ› na naszym terytorium. Teraz zginiesz!}
+{201}{}{Jak Å›miesz zjawiaÄ‡ siÄ™ tu bez zaproszenia!}
+{202}{}{GiÅ„, mieszczuchu!}
+{203}{}{Pewnie nieÅºle zarobiÄ™ na twojej Å›mierci.}
+{204}{}{Uciekaj, pÃ³ki jeszcze moÅ¼esz!}
+{205}{}{Wiecie co robiÄ‡, panowie.}
+{206}{}{Å»adnych Å›wiadkÃ³w.}
+{207}{}{OsÅ‚aniajcie mnie.}
+{208}{}{Bez litoÅ›ci!}
+{209}{}{Nikt nie moÅ¼e przeÅ¼yÄ‡.}
+{210}{}{Bishop kazaÅ‚ wytÅ‚uc wÅ‚Ã³czÄ™gÃ³w.}
+{211}{}{Za to nam pÅ‚acÄ…!}
+{300}{}{Widzisz Å»abÄ™ Mortona.}
+{301}{}{Widzisz RopuchÄ™ Mortona.}
+{302}{}{Widzisz TraszkÄ™ Mortona.}
+{303}{}{Widzisz WÄ™Å¼a Mortona.}
+{305}{}{Przez ciebie zginÄ…Å‚ mÃ³j brat! JuÅ¼ nie Å¼yjesz!}

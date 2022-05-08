@@ -1,116 +1,116 @@
-{100}{}{Widzisz niskiego, smag³ego mê¿czyznê. Uœmiecha siê do ciebie.}
-{101}{}{Widzisz Sajaga, w³aœciciela i barmana Tawerny pod Z³ocistym Gekonem.}
-{110}{}{Witamy w Tawernie, Hotelu i Faktorii pod Z³ocistym Gekonem. Nazywam siê Sajag, jestem w³aœcicielem tego lokalu. Czym mogê s³u¿yæ?}
+{100}{}{Widzisz niskiego, smagÅ‚ego mÄ™Å¼czyznÄ™. UÅ›miecha siÄ™ do ciebie.}
+{101}{}{Widzisz Sajaga, wÅ‚aÅ›ciciela i barmana Tawerny pod ZÅ‚ocistym Gekonem.}
+{110}{}{Witamy w Tawernie, Hotelu i Faktorii pod ZÅ‚ocistym Gekonem. Nazywam siÄ™ Sajag, jestem wÅ‚aÅ›cicielem tego lokalu. Czym mogÄ™ sÅ‚uÅ¼yÄ‡?}
 {111}{}{Oeeeoch?}
-{112}{}{Pici! (wska¿ palcem szklankê)}
-{113}{}{Chcê siê czegoœ napiæ.}
-{114}{}{Chcê siê jakoœ przywitaæ z bywalcami baru. Kolejka dla wszystkich!}
-{115}{}{Chcê pohandlowaæ.}
+{112}{}{Pici! (wskaÅ¼ palcem szklankÄ™)}
+{113}{}{ChcÄ™ siÄ™ czegoÅ› napiÄ‡.}
+{114}{}{ChcÄ™ siÄ™ jakoÅ› przywitaÄ‡ z bywalcami baru. Kolejka dla wszystkich!}
+{115}{}{ChcÄ™ pohandlowaÄ‡.}
 {116}{}{Szukam pokoju na noc.}
-{120}{}{No proszê, kolejny przyg³up. Zupe³nie jak Torr. Spadaj z mojego baru!}
-{130}{}{Klient nasz pan. Jeœli chcesz wydaæ trochê pieniêdzy, to jesteœ we w³aœciwym miejscu. Co mogê dla ciebie zrobiæ?}
-{131}{}{Nie mo¿na powiedzieæ, ¿eby mieszkañcy tej czêœci miasta pa³ali do ciebie mi³oœci¹. Diabli wiedz¹ kto ma racjê. W czym mogê ci pomóc?}
+{120}{}{No proszÄ™, kolejny przygÅ‚up. ZupeÅ‚nie jak Torr. Spadaj z mojego baru!}
+{130}{}{Klient nasz pan. JeÅ›li chcesz wydaÄ‡ trochÄ™ pieniÄ™dzy, to jesteÅ› we wÅ‚aÅ›ciwym miejscu. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{131}{}{Nie moÅ¼na powiedzieÄ‡, Å¼eby mieszkaÅ„cy tej czÄ™Å›ci miasta paÅ‚ali do ciebie miÅ‚oÅ›ciÄ…. Diabli wiedzÄ… kto ma racjÄ™. W czym mogÄ™ ci pomÃ³c?}
 {132}{}{Daj mi piwko.}
 {133}{}{Kolejka dla wszystkich!}
-{134}{}{Chcê pohandlowaæ.}
+{134}{}{ChcÄ™ pohandlowaÄ‡.}
 {135}{}{Szukam pokoju na noc.}
-{136}{}{Dziêki za pomoc. Do widzenia.}
-{137}{}{¯egnaj.}
-{140}{}{Jeden kufel Gekonowych Szczyn, ju¿ siê robi. Jedyne $5 za najlepsze piwo na pó³noc od Redding.}
-{141}{}{Nala³eœ mi jakichœ szczyn!?!}
-{142}{}{Dziêki za piwo. Teraz potrzebujê informacji.}
-{143}{}{Dziêki. To na razie wszystko. Do widzenia.}
-{150}{}{W takim razie kolejka szczyn dla ca³ego baru! Cholercia! To bêdzie $30. (Uœmiecha siê szeroko)}
-{151}{}{Wszyscy tutaj pij¹ jaszczurze szczyny!?!}
-{152}{}{Niech wypij¹ moje zdrowie. Sajag, potrzebujê informacji.}
+{136}{}{DziÄ™ki za pomoc. Do widzenia.}
+{137}{}{Å»egnaj.}
+{140}{}{Jeden kufel Gekonowych Szczyn, juÅ¼ siÄ™ robi. Jedyne $5 za najlepsze piwo na pÃ³Å‚noc od Redding.}
+{141}{}{NalaÅ‚eÅ› mi jakichÅ› szczyn!?!}
+{142}{}{DziÄ™ki za piwo. Teraz potrzebujÄ™ informacji.}
+{143}{}{DziÄ™ki. To na razie wszystko. Do widzenia.}
+{150}{}{W takim razie kolejka szczyn dla caÅ‚ego baru! Cholercia! To bÄ™dzie $30. (UÅ›miecha siÄ™ szeroko)}
+{151}{}{Wszyscy tutaj pijÄ… jaszczurze szczyny!?!}
+{152}{}{Niech wypijÄ… moje zdrowie. Sajag, potrzebujÄ™ informacji.}
 {153}{}{Wypijcie moje zdrowie, przyjaciele. Do zobaczenia.}
-{160}{}{Obawiam siê, ¿e chwilowo nie mo¿esz sobie pozwoliæ na taki wydatek. Przykro mi. Nie udzielam kredytów. (Uœmiecha siê)}
-{161}{}{Typowe dla dzikusów - du¿o braæ, nic nie p³aciæ. Bez pieniêdzy nic tu nie dostaniesz. Wynoœ siê.}
-{170}{}{Uspokój siê. Tak mówimy tu na piwo. (Chichocze) Jesteœ pod Z³ocistym Gekonem, nie?}
-{171}{}{To po prostu piwo. Z³ocisty Gekon, Szczyny Gekona, no wiesz? Nad¹¿asz? (Krêci g³ow¹) Dzikusy, phi.}
-{172}{}{Och, rozumiem. He he. W Arroyo zda¿a³o siê nam naprawdê... Eee, niewa¿ne.}
+{160}{}{Obawiam siÄ™, Å¼e chwilowo nie moÅ¼esz sobie pozwoliÄ‡ na taki wydatek. Przykro mi. Nie udzielam kredytÃ³w. (UÅ›miecha siÄ™)}
+{161}{}{Typowe dla dzikusÃ³w - duÅ¼o braÄ‡, nic nie pÅ‚aciÄ‡. Bez pieniÄ™dzy nic tu nie dostaniesz. WynoÅ› siÄ™.}
+{170}{}{UspokÃ³j siÄ™. Tak mÃ³wimy tu na piwo. (Chichocze) JesteÅ› pod ZÅ‚ocistym Gekonem, nie?}
+{171}{}{To po prostu piwo. ZÅ‚ocisty Gekon, Szczyny Gekona, no wiesz? NadÄ…Å¼asz? (KrÄ™ci gÅ‚owÄ…) Dzikusy, phi.}
+{172}{}{Och, rozumiem. He he. W Arroyo zdaÅ¼aÅ‚o siÄ™ nam naprawdÄ™... Eee, niewaÅ¼ne.}
 {173}{}{Ach, rozumiem. Bardzo sprytne.}
-{174}{}{Nie bêdê piæ szczyn! Niewa¿ne gdzie s¹ podawane i jak je nazywacie!}
-{180}{}{No to skoro czêœci oficjaln¹ mamy ju¿ za sob¹... co mogê dla ciebie zrobiæ? (Uœmiecha siê)}
-{181}{}{Wielki to dla nas zaszczyt, piæ w tak znamienitym towarzystwie. (Krzywi siê) Czego tu szukasz?}
-{182}{}{Chyba siê jeszcze czegoœ napijê.}
-{183}{}{Chcê postawiæ kolejkê moim nowym przyjacio³om.}
-{184}{}{Chcê ciê o coœ zapytaæ.}
-{185}{}{Chyba niczego ju¿ nie potrzebujê.}
-{190}{}{Wszyscy potrzebuj¹ informacji. Co chcesz wiedzieæ?}
-{191}{}{Taaa? A co chcesz wiedzieæ?}
-{192}{}{Czy s¹ w pobli¿u Klamath jakieœ wiêksze osady?}
-{193}{}{Czy s¹ w Klamath jacyœ kupcy?}
-{194}{}{Czy w Klamath dzieje siê ostatnio coœ ciekawego?}
-{195}{}{Szukam pracy. Mo¿esz mi pomóc?}
-{196}{}{Gdzie mogê kupiæ jakieœ lekarstwa?}
-{197}{}{Szukam urz¹dzenia zwanego Generator Ekosystemu Cudownej Krainy. S³ysza³eœ o nim?}
-{198}{}{To wszystko, co chcê wiedzieæ, ale potrzebujê jeszcze czegoœ.}
-{199}{}{Nie mam wiêcej pytañ.}
-{210}{}{Witaj. Wróble na dachu æwierkaj¹, ¿e wiesz gdzie stary Bob Flacha ukry³ swoj¹ aparaturê. Ja te¿ bardzo chêtnie bym siê dowiedzia³.}
-{211}{}{Mylisz siê. Nie znam nikogo o nazwisku Flacha.}
-{212}{}{Ale ode mnie siê tego nie dowiesz.}
-{213}{}{Dlaczego ciê to interesuje?}
-{214}{}{A ile jesteœ gotów zap³aciæ za tak¹ informacjê?}
-{215}{}{Nie w¹tpiê! Konkurencja ci szkodzi, co?}
-{220}{}{W takim razie zapomnijmy o ca³ej sprawie. To drobiazg. (Uœmiecha siê)}
-{230}{}{Có¿, nasz drogi Bob depcze po odciskach paru moich partnerów handlowych. Mi nie przeszkadza konkurencja (uœmiecha siê), ale oni to inna sprawa. Zap³acê $50 osobie, która powie mi gdzie jest jego aparatura. Niczego wiêcej nie wymagam. (Uœmiecha siê)}
-{231}{}{Podobno przez samogon Boba rozchorowa³o siê ju¿ wiele osób. Zap³acê ci $50 jeœli powiesz mi gdzie jest jego aparatura. Wtedy zwo³am radê miejsk¹ i ka¿emy mu j¹ rozebraæ. (Uœmiecha siê szeroko)}
-{232}{}{$50 to uczciwa cena - zw³aszcza, ¿e nie muszê nic robiæ, ¿eby je otrzymaæ. (Powiedz mu gdzie znajduje siê aparatura Boba.)}
-{233}{}{Ode mnie niczego siê nie dowiesz.}
-{234}{}{Nie wydaje mi siê, ¿eby whiskey Boba mog³a komuœ zaszkodziæ.}
-{235}{}{Za $50 mogê ci powiedzieæ, gdzie jest jego aparatura, ale najpierw opowiedz mi coœ wiêcej o tych... partnerach handlowych. (Powiedz Sajagowi gdzie Bob ukry³ aparaturê.)}
-{240}{}{Piêkne dziêki za informacjê. Dobrze j¹ wykorzystam. (Uœmiecha siê) Oto twoje $50 i kufel szczyn na koszt domu. Mogê ci jeszcze w czymœ pomóc?}
-{241}{}{Chêtnie uczczê to jeszcze jednym kuflem szczyn.}
-{242}{}{Kolejka szczyn dla wszystkich moich przyjació³!}
-{243}{}{Chcê ciê jeszcze o coœ zapytaæ.}
-{244}{}{To ju¿ chyba wszystko co chcê wiedzieæ. ¯egnaj.}
-{250}{}{Có¿, powiedzmy, ¿e utrzymujê kontakty z kilkoma wa¿nymi osobami na po³udnie st¹d - w Norze.}
-{251}{}{Postaram siê o tym pamiêtaæ. Dziêki za pieni¹dze.}
-{260}{}{U mnie dostaniesz wszystko: leki, alkohol, ró¿ne takie. Mam swoje... specjalne Ÿród³a. Jeœli masz do sprzedania jakieœ skórki, to te¿ jesteœ we w³aœciwym miejscu.}
-{261}{}{Poka¿ co tam masz.}
-{262}{}{Chyba chwilowo niczego nie potrzebujê, ale mam kilka pytañ.}
-{263}{}{Specjalne Ÿród³a? To mo¿e zaoferujesz mi jak¹œ specjaln¹ cenê?}
-{270}{}{Dla naszych przyjació³ zawsze znajdzie siê wolny k¹t. Osiem godzin bezpiecznej, wygodnej drzemki za jedyne $20. Ca³y pokój dla ciebie!}
-{271}{}{Nie mamy ¿adnych pokoi. Przykro mi.}
-{272}{}{$20 to chyba uczciwa cena. Biorê.}
-{273}{}{Chyba jednak nie skorzystam, Sajag. Interesuje mnie coœ innego.}
-{280}{}{Hej, dziêki za informacje. Moi przyjaciele z Nory nie musz¹ siê ju¿ martwiæ o konkurencjê. (Z³owieszczy uœmiech)}
-{281}{}{Dziêki za informacje. Rada miejska... w drodze g³osowania postanowi³a zakazaæ Bobowi pêdzenia bimbru. Teraz ju¿ nie bêdzie tru³ niewinnych ludzi. (Wspó³czuj¹cy uœmiech)}
-{282}{}{Ca³a przyjemnoœæ po mojej stronie. Przyjemnoœæ i $50!}
-{283}{}{Có¿, dobrze wiedzieæ, ¿e Klamath jest bezpieczne od tej jego trucizny.}
-{284}{}{Nie ma o czym mówiæ.}
-{290}{}{Niech no pomyœlê. W mieœcie dzieje siê ostatnio ca³kiem sporo. (Liczy na palcach) Mamy tu robaludy poluj¹ce na braminy, ogromne gryzonie, ducha i zaginionego trapera. Od wielu lat nie by³o w Klamath takiego o¿ywienia.}
-{291}{}{Opowiedz mi o robaludach poluj¹cych na braminy.}
+{174}{}{Nie bÄ™dÄ™ piÄ‡ szczyn! NiewaÅ¼ne gdzie sÄ… podawane i jak je nazywacie!}
+{180}{}{No to skoro czÄ™Å›ci oficjalnÄ… mamy juÅ¼ za sobÄ…... co mogÄ™ dla ciebie zrobiÄ‡? (UÅ›miecha siÄ™)}
+{181}{}{Wielki to dla nas zaszczyt, piÄ‡ w tak znamienitym towarzystwie. (Krzywi siÄ™) Czego tu szukasz?}
+{182}{}{Chyba siÄ™ jeszcze czegoÅ› napijÄ™.}
+{183}{}{ChcÄ™ postawiÄ‡ kolejkÄ™ moim nowym przyjacioÅ‚om.}
+{184}{}{ChcÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{185}{}{Chyba niczego juÅ¼ nie potrzebujÄ™.}
+{190}{}{Wszyscy potrzebujÄ… informacji. Co chcesz wiedzieÄ‡?}
+{191}{}{Taaa? A co chcesz wiedzieÄ‡?}
+{192}{}{Czy sÄ… w pobliÅ¼u Klamath jakieÅ› wiÄ™ksze osady?}
+{193}{}{Czy sÄ… w Klamath jacyÅ› kupcy?}
+{194}{}{Czy w Klamath dzieje siÄ™ ostatnio coÅ› ciekawego?}
+{195}{}{Szukam pracy. MoÅ¼esz mi pomÃ³c?}
+{196}{}{Gdzie mogÄ™ kupiÄ‡ jakieÅ› lekarstwa?}
+{197}{}{Szukam urzÄ…dzenia zwanego Generator Ekosystemu Cudownej Krainy. SÅ‚yszaÅ‚eÅ› o nim?}
+{198}{}{To wszystko, co chcÄ™ wiedzieÄ‡, ale potrzebujÄ™ jeszcze czegoÅ›.}
+{199}{}{Nie mam wiÄ™cej pytaÅ„.}
+{210}{}{Witaj. WrÃ³ble na dachu Ä‡wierkajÄ…, Å¼e wiesz gdzie stary Bob Flacha ukryÅ‚ swojÄ… aparaturÄ™. Ja teÅ¼ bardzo chÄ™tnie bym siÄ™ dowiedziaÅ‚.}
+{211}{}{Mylisz siÄ™. Nie znam nikogo o nazwisku Flacha.}
+{212}{}{Ale ode mnie siÄ™ tego nie dowiesz.}
+{213}{}{Dlaczego ciÄ™ to interesuje?}
+{214}{}{A ile jesteÅ› gotÃ³w zapÅ‚aciÄ‡ za takÄ… informacjÄ™?}
+{215}{}{Nie wÄ…tpiÄ™! Konkurencja ci szkodzi, co?}
+{220}{}{W takim razie zapomnijmy o caÅ‚ej sprawie. To drobiazg. (UÅ›miecha siÄ™)}
+{230}{}{CÃ³Å¼, nasz drogi Bob depcze po odciskach paru moich partnerÃ³w handlowych. Mi nie przeszkadza konkurencja (uÅ›miecha siÄ™), ale oni to inna sprawa. ZapÅ‚acÄ™ $50 osobie, ktÃ³ra powie mi gdzie jest jego aparatura. Niczego wiÄ™cej nie wymagam. (UÅ›miecha siÄ™)}
+{231}{}{Podobno przez samogon Boba rozchorowaÅ‚o siÄ™ juÅ¼ wiele osÃ³b. ZapÅ‚acÄ™ ci $50 jeÅ›li powiesz mi gdzie jest jego aparatura. Wtedy zwoÅ‚am radÄ™ miejskÄ… i kaÅ¼emy mu jÄ… rozebraÄ‡. (UÅ›miecha siÄ™ szeroko)}
+{232}{}{$50 to uczciwa cena - zwÅ‚aszcza, Å¼e nie muszÄ™ nic robiÄ‡, Å¼eby je otrzymaÄ‡. (Powiedz mu gdzie znajduje siÄ™ aparatura Boba.)}
+{233}{}{Ode mnie niczego siÄ™ nie dowiesz.}
+{234}{}{Nie wydaje mi siÄ™, Å¼eby whiskey Boba mogÅ‚a komuÅ› zaszkodziÄ‡.}
+{235}{}{Za $50 mogÄ™ ci powiedzieÄ‡, gdzie jest jego aparatura, ale najpierw opowiedz mi coÅ› wiÄ™cej o tych... partnerach handlowych. (Powiedz Sajagowi gdzie Bob ukryÅ‚ aparaturÄ™.)}
+{240}{}{PiÄ™kne dziÄ™ki za informacjÄ™. Dobrze jÄ… wykorzystam. (UÅ›miecha siÄ™) Oto twoje $50 i kufel szczyn na koszt domu. MogÄ™ ci jeszcze w czymÅ› pomÃ³c?}
+{241}{}{ChÄ™tnie uczczÄ™ to jeszcze jednym kuflem szczyn.}
+{242}{}{Kolejka szczyn dla wszystkich moich przyjaciÃ³Å‚!}
+{243}{}{ChcÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{244}{}{To juÅ¼ chyba wszystko co chcÄ™ wiedzieÄ‡. Å»egnaj.}
+{250}{}{CÃ³Å¼, powiedzmy, Å¼e utrzymujÄ™ kontakty z kilkoma waÅ¼nymi osobami na poÅ‚udnie stÄ…d - w Norze.}
+{251}{}{Postaram siÄ™ o tym pamiÄ™taÄ‡. DziÄ™ki za pieniÄ…dze.}
+{260}{}{U mnie dostaniesz wszystko: leki, alkohol, rÃ³Å¼ne takie. Mam swoje... specjalne ÅºrÃ³dÅ‚a. JeÅ›li masz do sprzedania jakieÅ› skÃ³rki, to teÅ¼ jesteÅ› we wÅ‚aÅ›ciwym miejscu.}
+{261}{}{PokaÅ¼ co tam masz.}
+{262}{}{Chyba chwilowo niczego nie potrzebujÄ™, ale mam kilka pytaÅ„.}
+{263}{}{Specjalne ÅºrÃ³dÅ‚a? To moÅ¼e zaoferujesz mi jakÄ…Å› specjalnÄ… cenÄ™?}
+{270}{}{Dla naszych przyjaciÃ³Å‚ zawsze znajdzie siÄ™ wolny kÄ…t. Osiem godzin bezpiecznej, wygodnej drzemki za jedyne $20. CaÅ‚y pokÃ³j dla ciebie!}
+{271}{}{Nie mamy Å¼adnych pokoi. Przykro mi.}
+{272}{}{$20 to chyba uczciwa cena. BiorÄ™.}
+{273}{}{Chyba jednak nie skorzystam, Sajag. Interesuje mnie coÅ› innego.}
+{280}{}{Hej, dziÄ™ki za informacje. Moi przyjaciele z Nory nie muszÄ… siÄ™ juÅ¼ martwiÄ‡ o konkurencjÄ™. (ZÅ‚owieszczy uÅ›miech)}
+{281}{}{DziÄ™ki za informacje. Rada miejska... w drodze gÅ‚osowania postanowiÅ‚a zakazaÄ‡ Bobowi pÄ™dzenia bimbru. Teraz juÅ¼ nie bÄ™dzie truÅ‚ niewinnych ludzi. (WspÃ³Å‚czujÄ…cy uÅ›miech)}
+{282}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie. PrzyjemnoÅ›Ä‡ i $50!}
+{283}{}{CÃ³Å¼, dobrze wiedzieÄ‡, Å¼e Klamath jest bezpieczne od tej jego trucizny.}
+{284}{}{Nie ma o czym mÃ³wiÄ‡.}
+{290}{}{Niech no pomyÅ›lÄ™. W mieÅ›cie dzieje siÄ™ ostatnio caÅ‚kiem sporo. (Liczy na palcach) Mamy tu robaludy polujÄ…ce na braminy, ogromne gryzonie, ducha i zaginionego trapera. Od wielu lat nie byÅ‚o w Klamath takiego oÅ¼ywienia.}
+{291}{}{Opowiedz mi o robaludach polujÄ…cych na braminy.}
 {292}{}{Opowiedz mi o tych gryzoniach.}
 {293}{}{Opowiedz mi o duchu.}
-{294}{}{Nie dziwiê siê, ¿e w ca³ym tym zamieszaniu ktoœ zagin¹³. Opowiedz mi o tym traperze.}
-{295}{}{Chcê ciê jeszcze o coœ zapytaæ.}
-{296}{}{Nie mam wiêcej pytañ.}
-{300}{}{Có¿, Duntonowie zawsze chêtnie przyjm¹ kogoœ do odwalania za nich brudnej roboty. No i Torr, ch³opak Bucknerów, boi siê pilnowaæ nocami stada bramin ze wzglêdu na robaludy.}
-{301}{}{Dziêki. Mam jeszcze jedno pytanie.}
-{302}{}{To ju¿ chyba wszystko co chcê wiedzieæ, ale potrzebujê czegoœ jeszcze.}
-{303}{}{To ju¿ chyba wszystko co chcê wiedzieæ. ¯egnaj.}
-{310}{}{W pobli¿u jest kilka osiedli. Na pó³nocny zachód st¹d mieszkaj¹ dzikusy - ale o tym raczej wiesz, prawda? (Uœmiecha siê) No i parê dni drogi na po³udnie le¿y Nora - to chyba najbli¿sze miasto. Daleko, na po³udniowym zachodzie le¿y górnicza osada zwana Redding.}
-{320}{}{Nie mamy tu zbyt wielu kupców. Prawdê mówi¹c, znam tylko jednego - Vica. Ma dom we wschodniej czêœci miasta. Swego czasu sprzedawa³ przedwojenny sprzêt dzikusom, albo w Norze, ale od jakiegoœ czasu go tu nie widujê.}
-{330}{}{S³uchaj, towar œci¹gniêty specjalnie z Nory musi trochê kosztowaæ.}
-{331}{}{Có¿, dla specjalnej przyjació³ki znajd¹ siê specjalne ceny. (Uœmiecha siê) Œci¹gniêcie towaru z Nory niema³o kosztuje, ale dla ciebie, s³onko, obni¿ê trochê poprzeczkê.}
-{340}{}{Nie mam pojêcia o czym mówisz. Chcesz coœ kupiæ, czy nie?}
-{341}{}{Jasne, ¿e tak. To by³o g³upie pytanie.}
-{342}{}{Nie mam ochoty robiæ z tob¹ interesów.}
-{343}{}{Przecie¿ masz kontakty w Norze. Na pewno mo¿esz trochê obni¿yæ ceny.}
-{350}{}{Podobno jakieœ poruszaj¹ce siê na dwóch nogach insekty atakuj¹ nocami braminy. Póki co, tylko Torr lepiej siê im przyjrza³. Straszne, nie?}
-{360}{}{Podobno jakiœ olbrzymi szczur, wielkoœci samochodu, rz¹dzi wszystkimi gryzoniami w Osadzie Traperów (na zachód od centrum). Ludzie mówi¹, ¿e zamieszkuje ci¹gn¹ce siê pod osad¹ tunele górnicze, a zwyk³e szczury znosz¹ mu ka¿d¹ b³yskotkê, któr¹ uda siê im znaleŸæ. (Oblizuje wargi) Mmm, musia³o siê tego sporo uzbieraæ.}
-{370}{}{Na zachód od miasta jest pewien kanion. Kilka miesiêcy temu zobaczyliœmy tam jasne œwiat³o, a potem zaczê³y znikaæ zwierzaki. Wszystkie œlady prowadzi³y do kanionu. Dziwne, nie? Niektórzy s³yszeli dziwny p³acz, albo jêk dobiegaj¹cy z kanionu.}
-{380}{}{Có¿, Smiley by³ jednym z najlepszych traperów w historii. Pewnego dnia, ni st¹d ni zow¹d zostawi³ pani¹ Buckner i wyruszy³ w drogê. Powiedzia³, ¿e wie sk¹d siê bior¹ wszystkie z³ociste gekony. Twierdzi³, ¿e jak znajdzie to miejsce, bêdzie cholernie bogaty. Jak na razie, to jest cholernie zaginiony.}
-{381}{}{To niesamowite. Opowiedz mi jeszcze trochê lokalnych plotek.}
-{382}{}{Dziêki, to ju¿ chyba wszystko.}
-{390}{}{Cudownej Krainy, tak? Brzmi ciekawie, ale nie mam pojêcia gdzie mo¿na coœ takiego znaleŸæ. Najbli¿ej cudownej krainy by³em odwiedzaj¹c Jenny w £aŸni. I to za kilka marnych dolarów! (Uœmiecha siê)}
-{391}{}{Có¿, niezupe³nie o to mi chodzi. Mogê ciê jeszcze o coœ zapytaæ?}
-{392}{}{Dziêki, to ju¿ chyba wszystko.}
+{294}{}{Nie dziwiÄ™ siÄ™, Å¼e w caÅ‚ym tym zamieszaniu ktoÅ› zaginÄ…Å‚. Opowiedz mi o tym traperze.}
+{295}{}{ChcÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{296}{}{Nie mam wiÄ™cej pytaÅ„.}
+{300}{}{CÃ³Å¼, Duntonowie zawsze chÄ™tnie przyjmÄ… kogoÅ› do odwalania za nich brudnej roboty. No i Torr, chÅ‚opak BucknerÃ³w, boi siÄ™ pilnowaÄ‡ nocami stada bramin ze wzglÄ™du na robaludy.}
+{301}{}{DziÄ™ki. Mam jeszcze jedno pytanie.}
+{302}{}{To juÅ¼ chyba wszystko co chcÄ™ wiedzieÄ‡, ale potrzebujÄ™ czegoÅ› jeszcze.}
+{303}{}{To juÅ¼ chyba wszystko co chcÄ™ wiedzieÄ‡. Å»egnaj.}
+{310}{}{W pobliÅ¼u jest kilka osiedli. Na pÃ³Å‚nocny zachÃ³d stÄ…d mieszkajÄ… dzikusy - ale o tym raczej wiesz, prawda? (UÅ›miecha siÄ™) No i parÄ™ dni drogi na poÅ‚udnie leÅ¼y Nora - to chyba najbliÅ¼sze miasto. Daleko, na poÅ‚udniowym zachodzie leÅ¼y gÃ³rnicza osada zwana Redding.}
+{320}{}{Nie mamy tu zbyt wielu kupcÃ³w. PrawdÄ™ mÃ³wiÄ…c, znam tylko jednego - Vica. Ma dom we wschodniej czÄ™Å›ci miasta. Swego czasu sprzedawaÅ‚ przedwojenny sprzÄ™t dzikusom, albo w Norze, ale od jakiegoÅ› czasu go tu nie widujÄ™.}
+{330}{}{SÅ‚uchaj, towar Å›ciÄ…gniÄ™ty specjalnie z Nory musi trochÄ™ kosztowaÄ‡.}
+{331}{}{CÃ³Å¼, dla specjalnej przyjaciÃ³Å‚ki znajdÄ… siÄ™ specjalne ceny. (UÅ›miecha siÄ™) ÅšciÄ…gniÄ™cie towaru z Nory niemaÅ‚o kosztuje, ale dla ciebie, sÅ‚onko, obniÅ¼Ä™ trochÄ™ poprzeczkÄ™.}
+{340}{}{Nie mam pojÄ™cia o czym mÃ³wisz. Chcesz coÅ› kupiÄ‡, czy nie?}
+{341}{}{Jasne, Å¼e tak. To byÅ‚o gÅ‚upie pytanie.}
+{342}{}{Nie mam ochoty robiÄ‡ z tobÄ… interesÃ³w.}
+{343}{}{PrzecieÅ¼ masz kontakty w Norze. Na pewno moÅ¼esz trochÄ™ obniÅ¼yÄ‡ ceny.}
+{350}{}{Podobno jakieÅ› poruszajÄ…ce siÄ™ na dwÃ³ch nogach insekty atakujÄ… nocami braminy. PÃ³ki co, tylko Torr lepiej siÄ™ im przyjrzaÅ‚. Straszne, nie?}
+{360}{}{Podobno jakiÅ› olbrzymi szczur, wielkoÅ›ci samochodu, rzÄ…dzi wszystkimi gryzoniami w Osadzie TraperÃ³w (na zachÃ³d od centrum). Ludzie mÃ³wiÄ…, Å¼e zamieszkuje ciÄ…gnÄ…ce siÄ™ pod osadÄ… tunele gÃ³rnicze, a zwykÅ‚e szczury znoszÄ… mu kaÅ¼dÄ… bÅ‚yskotkÄ™, ktÃ³rÄ… uda siÄ™ im znaleÅºÄ‡. (Oblizuje wargi) Mmm, musiaÅ‚o siÄ™ tego sporo uzbieraÄ‡.}
+{370}{}{Na zachÃ³d od miasta jest pewien kanion. Kilka miesiÄ™cy temu zobaczyliÅ›my tam jasne Å›wiatÅ‚o, a potem zaczÄ™Å‚y znikaÄ‡ zwierzaki. Wszystkie Å›lady prowadziÅ‚y do kanionu. Dziwne, nie? NiektÃ³rzy sÅ‚yszeli dziwny pÅ‚acz, albo jÄ™k dobiegajÄ…cy z kanionu.}
+{380}{}{CÃ³Å¼, Smiley byÅ‚ jednym z najlepszych traperÃ³w w historii. Pewnego dnia, ni stÄ…d ni zowÄ…d zostawiÅ‚ paniÄ… Buckner i wyruszyÅ‚ w drogÄ™. PowiedziaÅ‚, Å¼e wie skÄ…d siÄ™ biorÄ… wszystkie zÅ‚ociste gekony. TwierdziÅ‚, Å¼e jak znajdzie to miejsce, bÄ™dzie cholernie bogaty. Jak na razie, to jest cholernie zaginiony.}
+{381}{}{To niesamowite. Opowiedz mi jeszcze trochÄ™ lokalnych plotek.}
+{382}{}{DziÄ™ki, to juÅ¼ chyba wszystko.}
+{390}{}{Cudownej Krainy, tak? Brzmi ciekawie, ale nie mam pojÄ™cia gdzie moÅ¼na coÅ› takiego znaleÅºÄ‡. NajbliÅ¼ej cudownej krainy byÅ‚em odwiedzajÄ…c Jenny w ÅaÅºni. I to za kilka marnych dolarÃ³w! (UÅ›miecha siÄ™)}
+{391}{}{CÃ³Å¼, niezupeÅ‚nie o to mi chodzi. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{392}{}{DziÄ™ki, to juÅ¼ chyba wszystko.}
 {2900}{}{Obecnie, jest tutaj bardzo cicho}
-{2901}{}{robale poluj¹ce na braminy}
+{2901}{}{robale polujÄ…ce na braminy}
 {2902}{}{szkodniki o nietypowych rozmiarach}
 {2903}{}{duch}
 {2904}{}{zaginiony traper}
-{2905}{}{. Klamath staje siê ostatnio bardzo gor¹cym miejscem.}
+{2905}{}{. Klamath staje siÄ™ ostatnio bardzo gorÄ…cym miejscem.}

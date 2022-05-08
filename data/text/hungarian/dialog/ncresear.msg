@@ -1,117 +1,117 @@
-{100}{}{? Marjorie Reed, a kutatók vezet?je.}
-{150}{}{Ez a n? igen fáradtnak t?nik. Haja kopaszra van nyírva és fehér köpenyt visel.}
-{151}{}{A hölgy Marjorie Reed. Miközben magában morgolódik, éppen egy fecskend?t tölt fel.}
-{200}{}{Üdv, Myron.}
+{100}{}{? Marjorie Reed, a kutatÃ³k vezet?je.}
+{150}{}{Ez a n? igen fÃ¡radtnak t?nik. Haja kopaszra van nyÃ­rva Ã©s fehÃ©r kÃ¶penyt visel.}
+{151}{}{A hÃ¶lgy Marjorie Reed. MikÃ¶zben magÃ¡ban morgolÃ³dik, Ã©ppen egy fecskend?t tÃ¶lt fel.}
+{200}{}{Ãœdv, Myron.}
 {201}{}{Myron, van egy perce...?}
-{202}{}{Nincs hír róla, mikor jönnek új rabszolgák, Myron?}
-{203}{}{Myron, az új eredmények igen bíztatóak...}
+{202}{}{Nincs hÃ­r rÃ³la, mikor jÃ¶nnek Ãºj rabszolgÃ¡k, Myron?}
+{203}{}{Myron, az Ãºj eredmÃ©nyek igen bÃ­ztatÃ³ak...}
 {204}{}{Myron, volna egy perce?}
-{215}{}{Hol a fenében van Myron?...}
-{216}{}{Hozzátok ide Myront! Ezt neki is látnia kell.}
-{217}{}{A rabszolgák igazán befoghatnák már a szájukat...}
+{215}{}{Hol a fenÃ©ben van Myron?...}
+{216}{}{HozzÃ¡tok ide Myront! Ezt neki is lÃ¡tnia kell.}
+{217}{}{A rabszolgÃ¡k igazÃ¡n befoghatnÃ¡k mÃ¡r a szÃ¡jukat...}
 {218}{}{Hol hagytam azt a fecskend?t?...}
-{219}{}{Látta valaki a 31-es alanyt? Az el?bb még itt volt.}
-{220}{}{A rabszolgák hozzanak még több Béta Jetet!}
-{221}{}{A Béta Jet teszteredményei nagyon bíztatóak, de...}
-{222}{}{Ha megnézzük az egy dózis/óra periódust... a "belöv?dés" 15 perct?l egy óráig is eltarthat... hmmmmmm.}
-{223}{}{A 12-es alanynak egyfolytában vérzik az orra...}
-{224}{}{Ez már az ötödik alkalom, hogy a 12-es Alanynak rohamai vannak... adjuk be a dózist, és nézzük meg, mi történik...}
-{225}{}{Szóval miféle hallucinációi voltak a fickónak?}
-{226}{}{Nézzük meg a szívritmusát! Ha a t?réshatáron belül van, adjuk be a dózist!}
-{227}{}{Miért lett öngyilkos az a n? a kontroll-csoportból? Még rá sem került a sor!}
-{228}{}{Az átkozott ?rök tudnak vigyázni a saját seggükre...}
-{235}{}{Üdvözlet, Myron úr. A tesztek a tervek szerint haladnak.}
+{219}{}{LÃ¡tta valaki a 31-es alanyt? Az el?bb mÃ©g itt volt.}
+{220}{}{A rabszolgÃ¡k hozzanak mÃ©g tÃ¶bb BÃ©ta Jetet!}
+{221}{}{A BÃ©ta Jet teszteredmÃ©nyei nagyon bÃ­ztatÃ³ak, de...}
+{222}{}{Ha megnÃ©zzÃ¼k az egy dÃ³zis/Ã³ra periÃ³dust... a "belÃ¶v?dÃ©s" 15 perct?l egy Ã³rÃ¡ig is eltarthat... hmmmmmm.}
+{223}{}{A 12-es alanynak egyfolytÃ¡ban vÃ©rzik az orra...}
+{224}{}{Ez mÃ¡r az Ã¶tÃ¶dik alkalom, hogy a 12-es Alanynak rohamai vannak... adjuk be a dÃ³zist, Ã©s nÃ©zzÃ¼k meg, mi tÃ¶rtÃ©nik...}
+{225}{}{SzÃ³val mifÃ©le hallucinÃ¡ciÃ³i voltak a fickÃ³nak?}
+{226}{}{NÃ©zzÃ¼k meg a szÃ­vritmusÃ¡t! Ha a t?rÃ©shatÃ¡ron belÃ¼l van, adjuk be a dÃ³zist!}
+{227}{}{MiÃ©rt lett Ã¶ngyilkos az a n? a kontroll-csoportbÃ³l? MÃ©g rÃ¡ sem kerÃ¼lt a sor!}
+{228}{}{Az Ã¡tkozott ?rÃ¶k tudnak vigyÃ¡zni a sajÃ¡t seggÃ¼kre...}
+{235}{}{ÃœdvÃ¶zlet, Myron Ãºr. A tesztek a tervek szerint haladnak.}
 {236}{}{Myron, sir, this new strain of Jet is extremely addictive. The slaves are almost willing to kill each other for it.}
-{237}{}{Myron úr, ha meglátja az eredményeket, elégedett lesz. Az új Jet ugyanis annyira üt?s, hogy a rabszolgák még étel helyett is azt akarnak bevenni.}
-{238}{}{Kik ezek az emberek magával, Myron? Új tesztalanyok?}
-{239}{}{Az összes közül a harmadik tesztcsoport ígérkezik a legjobbnak, Myron úr.}
-{240}{}{Myron úr, ha volna egy kis ideje... szerintem a következ? tesztcsoportba kéne legalább három gyerek.}
-{241}{}{Myron úr, a 46-os Alany szívrohamot kapott. Mostantól naponta csak hat dózist engedélyezünk.}
-{242}{}{Myron úr, kérem... rövidesen új fecskend?szállítmányra lesz szükség Menedékvárosból. Örökké nem használhatjuk ezeket.}
-{243}{}{Van valami hír, mikor szállítanak be új rabszolgákat, Myron úr?}
-{244}{}{Myron úr, mivel légzési zavaraik voltak a múlt héten, három rabszolgát áttettünk a kontroll-csoportból a tesztcsoportba.}
-{245}{}{Myron úr, rossz híreim vannak. Le kellett l?nünk egy menekül? rabszolgát. Nagy pazarlás ez...}
+{237}{}{Myron Ãºr, ha meglÃ¡tja az eredmÃ©nyeket, elÃ©gedett lesz. Az Ãºj Jet ugyanis annyira Ã¼t?s, hogy a rabszolgÃ¡k mÃ©g Ã©tel helyett is azt akarnak bevenni.}
+{238}{}{Kik ezek az emberek magÃ¡val, Myron? Ãšj tesztalanyok?}
+{239}{}{Az Ã¶sszes kÃ¶zÃ¼l a harmadik tesztcsoport Ã­gÃ©rkezik a legjobbnak, Myron Ãºr.}
+{240}{}{Myron Ãºr, ha volna egy kis ideje... szerintem a kÃ¶vetkez? tesztcsoportba kÃ©ne legalÃ¡bb hÃ¡rom gyerek.}
+{241}{}{Myron Ãºr, a 46-os Alany szÃ­vrohamot kapott. MostantÃ³l naponta csak hat dÃ³zist engedÃ©lyezÃ¼nk.}
+{242}{}{Myron Ãºr, kÃ©rem... rÃ¶videsen Ãºj fecskend?szÃ¡llÃ­tmÃ¡nyra lesz szÃ¼ksÃ©g MenedÃ©kvÃ¡rosbÃ³l. Ã–rÃ¶kkÃ© nem hasznÃ¡lhatjuk ezeket.}
+{243}{}{Van valami hÃ­r, mikor szÃ¡llÃ­tanak be Ãºj rabszolgÃ¡kat, Myron Ãºr?}
+{244}{}{Myron Ãºr, mivel lÃ©gzÃ©si zavaraik voltak a mÃºlt hÃ©ten, hÃ¡rom rabszolgÃ¡t Ã¡ttettÃ¼nk a kontroll-csoportbÃ³l a tesztcsoportba.}
+{245}{}{Myron Ãºr, rossz hÃ­reim vannak. Le kellett l?nÃ¼nk egy menekÃ¼l? rabszolgÃ¡t. Nagy pazarlÃ¡s ez...}
 {246}{}{Myron, this new hallucinogen you've developed is promising, but it is not as addictive as Jet...}
-{250}{}{(A kopasz n? fel sem néz a jegyzettömbjéb?l.) Igen?}
+{250}{}{(A kopasz n? fel sem nÃ©z a jegyzettÃ¶mbjÃ©b?l.) Igen?}
 {251}{}{Nem!}
 {252}{}{Igen!}
-{253}{}{He-he. Tar vagyol. Nézel ki mint férfi}
+{253}{}{He-he. Tar vagyol. NÃ©zel ki mint fÃ©rfi}
 {254}{}{Delenn?}
-{255}{}{Elpályázol}
+{255}{}{ElpÃ¡lyÃ¡zol}
 {256}{}{Ki vagy te?}
-{257}{}{Elnézést, összetévesztettem egy másik kopasz n?vel, aki jegyzettömböt szorongat. Már itt sem vagyok.}
-{265}{}{(A n? felemeli a tekintetét és rádbámul.) Maga az egyik kontroll alany? Nem mintha számítana... ?rség! Vigyék a helyére ezt a rabszolgát!}
-{266}{}{Hol lenni rabszolga? Én nem lát egyet senem}
-{275}{}{Nézze, nagyon elfoglalt ember vagyok, szóval, ha nem haragszik... [Felpillant a jegyzettömbb?l és elkomorul.] Maga kicsoda? Hogy került ide?}
-{276}{}{Nézze, nagyon elfoglalt ember vagyok, szóval, ha nem haragszik... [Felpillant a jegyzettömbb?l és elkomorul.] Már megint maga az? Mit akar?}
-{277}{}{Istálló ajtója nyitottan vanik. Hehe... érteni? Nekem teccik.}
-{278}{}{Én vagyok az új alkalmazottak egyike. Ide rendeltek.}
+{257}{}{ElnÃ©zÃ©st, Ã¶sszetÃ©vesztettem egy mÃ¡sik kopasz n?vel, aki jegyzettÃ¶mbÃ¶t szorongat. MÃ¡r itt sem vagyok.}
+{265}{}{(A n? felemeli a tekintetÃ©t Ã©s rÃ¡dbÃ¡mul.) Maga az egyik kontroll alany? Nem mintha szÃ¡mÃ­tana... ?rsÃ©g! VigyÃ©k a helyÃ©re ezt a rabszolgÃ¡t!}
+{266}{}{Hol lenni rabszolga? Ã‰n nem lÃ¡t egyet senem}
+{275}{}{NÃ©zze, nagyon elfoglalt ember vagyok, szÃ³val, ha nem haragszik... [Felpillant a jegyzettÃ¶mbb?l Ã©s elkomorul.] Maga kicsoda? Hogy kerÃ¼lt ide?}
+{276}{}{NÃ©zze, nagyon elfoglalt ember vagyok, szÃ³val, ha nem haragszik... [Felpillant a jegyzettÃ¶mbb?l Ã©s elkomorul.] MÃ¡r megint maga az? Mit akar?}
+{277}{}{IstÃ¡llÃ³ ajtÃ³ja nyitottan vanik. Hehe... Ã©rteni? Nekem teccik.}
+{278}{}{Ã‰n vagyok az Ãºj alkalmazottak egyike. Ide rendeltek.}
 {279}{}{Myront keresem. Itt van valahol?}
-{280}{}{Abban a jegyzetfüzetben az új teszteredmények vannak? Vethetnék rájuk egy pillantást?}
-{282}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
-{295}{}{Ezt a területet idegenek nem látogathatják. Távozzék, különben hívom az ?rséget!}
-{296}{}{De hát szerettem volna feltenni egy-két kérdést önnek...}
-{298}{}{Abban a jegyzetfüzetben az új teszteredmények vannak? Vethetnék rájuk egy pillantást? Én magam is kutató vagyok.}
-{300}{}{Jól van. Elnézést, hogy zavartam önt.}
-{310}{}{?rség! ?rség, vigyék innen ezt a személyt!}
-{315}{}{Szóval még több ?rt raknak ide... Szépen vagyunk! Mintha számítana egyáltalán hányan vannak... nézze, bárki is küldte ide magát, nyilván ellátta instrukciókkal. Beszéljen a többi ?r valamelyikével, hogy megtalálja, hova van beosztva! Menjen!}
-{316}{}{Nem vagyok ?r. Az új kutatók egyike vagyok. Van számomra valami feladata?}
-{317}{}{Elnézést, de azt reméltem, hogy körbevezet engem. Láttam, hogy itt áll, és er?s kényszert éreztem, hogy beszéljek magával. A vizit után akár vacsorázhatnánk is...}
-{318}{}{Köszönöm. Ön igen segít?kész.}
-{325}{}{Ön KUTATÓ...? Hmmmm. Sosem láttam itt azel?tt. Mennyit tud a gyógyszerészeti kutatásokról?}
-{326}{}{Öö, eleget. Csak d?ljön hátra és figyeljen.}
-{327}{}{Elég sokat tudok az alapvet? neurokémiai összetev?k elegyítésér?l és gyártásáról, és azt hiszem, hasznossá tudnám tenni magam ön mellett.}
+{280}{}{Abban a jegyzetfÃ¼zetben az Ãºj teszteredmÃ©nyek vannak? VethetnÃ©k rÃ¡juk egy pillantÃ¡st?}
+{282}{}{Vegye Ãºgy, hogy nem is szÃ³ltam! BocsÃ¡nat, hogy zavartam.}
+{295}{}{Ezt a terÃ¼letet idegenek nem lÃ¡togathatjÃ¡k. TÃ¡vozzÃ©k, kÃ¼lÃ¶nben hÃ­vom az ?rsÃ©get!}
+{296}{}{De hÃ¡t szerettem volna feltenni egy-kÃ©t kÃ©rdÃ©st Ã¶nnek...}
+{298}{}{Abban a jegyzetfÃ¼zetben az Ãºj teszteredmÃ©nyek vannak? VethetnÃ©k rÃ¡juk egy pillantÃ¡st? Ã‰n magam is kutatÃ³ vagyok.}
+{300}{}{JÃ³l van. ElnÃ©zÃ©st, hogy zavartam Ã¶nt.}
+{310}{}{?rsÃ©g! ?rsÃ©g, vigyÃ©k innen ezt a szemÃ©lyt!}
+{315}{}{SzÃ³val mÃ©g tÃ¶bb ?rt raknak ide... SzÃ©pen vagyunk! Mintha szÃ¡mÃ­tana egyÃ¡ltalÃ¡n hÃ¡nyan vannak... nÃ©zze, bÃ¡rki is kÃ¼ldte ide magÃ¡t, nyilvÃ¡n ellÃ¡tta instrukciÃ³kkal. BeszÃ©ljen a tÃ¶bbi ?r valamelyikÃ©vel, hogy megtalÃ¡lja, hova van beosztva! Menjen!}
+{316}{}{Nem vagyok ?r. Az Ãºj kutatÃ³k egyike vagyok. Van szÃ¡momra valami feladata?}
+{317}{}{ElnÃ©zÃ©st, de azt remÃ©ltem, hogy kÃ¶rbevezet engem. LÃ¡ttam, hogy itt Ã¡ll, Ã©s er?s kÃ©nyszert Ã©reztem, hogy beszÃ©ljek magÃ¡val. A vizit utÃ¡n akÃ¡r vacsorÃ¡zhatnÃ¡nk is...}
+{318}{}{KÃ¶szÃ¶nÃ¶m. Ã–n igen segÃ­t?kÃ©sz.}
+{325}{}{Ã–n KUTATÃ“...? Hmmmm. Sosem lÃ¡ttam itt azel?tt. Mennyit tud a gyÃ³gyszerÃ©szeti kutatÃ¡sokrÃ³l?}
+{326}{}{Ã–Ã¶, eleget. Csak d?ljÃ¶n hÃ¡tra Ã©s figyeljen.}
+{327}{}{ElÃ©g sokat tudok az alapvet? neurokÃ©miai Ã¶sszetev?k elegyÃ­tÃ©sÃ©r?l Ã©s gyÃ¡rtÃ¡sÃ¡rÃ³l, Ã©s azt hiszem, hasznossÃ¡ tudnÃ¡m tenni magam Ã¶n mellett.}
 {328}{}{Mennem kell.}
-{335}{}{Ha! Pontosan ezt fogom tenni. Figyelem, ahogy elmegy innen. Pont. Távozzon, miel?tt hívom az ?rséget!}
+{335}{}{Ha! Pontosan ezt fogom tenni. Figyelem, ahogy elmegy innen. Pont. TÃ¡vozzon, miel?tt hÃ­vom az ?rsÃ©get!}
 {336}{}{Rendben.}
-{337}{}{Megyek... ::aztán magadban hozzáteszed:: kopasz kurva.}
-{345}{}{Hmmmm. Jól van. Hadd vázoljam, mit is csinálunk itt. Egy Jetnek nevezett metamfetamin hatásait és hatékonyságát vizsgáljuk.}
-{346}{}{Értem. És hogy halad a kutatás?}
-{347}{}{Azt hiszem, támadt egy ötletem. Egyedül fogom szemrevételezni a tesztterület többi részét.}
-{355}{}{Nem túl rózsás. A határid?k szorosak és rövid id?n belül le kell tisztáznunk a Jet gyártási folyamatát.}
+{337}{}{Megyek... ::aztÃ¡n magadban hozzÃ¡teszed:: kopasz kurva.}
+{345}{}{Hmmmm. JÃ³l van. Hadd vÃ¡zoljam, mit is csinÃ¡lunk itt. Egy Jetnek nevezett metamfetamin hatÃ¡sait Ã©s hatÃ©konysÃ¡gÃ¡t vizsgÃ¡ljuk.}
+{346}{}{Ã‰rtem. Ã‰s hogy halad a kutatÃ¡s?}
+{347}{}{Azt hiszem, tÃ¡madt egy Ã¶tletem. EgyedÃ¼l fogom szemrevÃ©telezni a tesztterÃ¼let tÃ¶bbi rÃ©szÃ©t.}
+{355}{}{Nem tÃºl rÃ³zsÃ¡s. A hatÃ¡rid?k szorosak Ã©s rÃ¶vid id?n belÃ¼l le kell tisztÃ¡znunk a Jet gyÃ¡rtÃ¡si folyamatÃ¡t.}
 {356}{}{Why? Jet seems addictive enough already.}
-{357}{}{Mire fel a szoros határid??}
-{358}{}{Hát nem egyszer? feladat annyi szent. Nézze, valamit nagyon sürg?sen el kell intéznem. Mindjárt visszajövök.}
+{357}{}{Mire fel a szoros hatÃ¡rid??}
+{358}{}{HÃ¡t nem egyszer? feladat annyi szent. NÃ©zze, valamit nagyon sÃ¼rg?sen el kell intÃ©znem. MindjÃ¡rt visszajÃ¶vÃ¶k.}
 {365}{}{No one's come out and said it, but it's probably due to Jet distribution in Redding. Jet's potent *enough,* but
  there's a good deal of room for improvement, and the 'brass' wants to increase Jet addiction in Redding.}
-{366}{}{Mi ez a reddingi balhé?}
-{367}{}{Hát sok szerencsét a határid?k betartásához...}
+{366}{}{Mi ez a reddingi balhÃ©?}
+{367}{}{HÃ¡t sok szerencsÃ©t a hatÃ¡rid?k betartÃ¡sÃ¡hoz...}
 {375}{}{It's potent *enough,* but there's room for improvement. The 'brass' wants to increase Jet distribution in
  Redding, and they want the addiction rate as close to 100% as we can get it. It's going to require us pulling some long hours.}
-{377}{}{Köszönöm az információt. Kés?bb még jövök.}
+{377}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. KÃ©s?bb mÃ©g jÃ¶vÃ¶k.}
 {385}{}{Addict the miners in Redding to Jet, and whoever controls the Jet, controls Redding. Typical power play.}
 {386}{}{So... who does control the drugs?}
 {395}{}{Who controls the drugs? The Mordinos. Of course, Myron laid all the groundwork for Jet's composition.
  We do mostly clean-up work.}
-{396}{}{Myron az ön f?nöke?}
-{405}{}{Akár ANNAK is nevezheti. Okos ember, ezt nem tudom elvitatni t?le, de nem sokat tör?dik vele, mi történik idefenn. Leginkább az alagsori kuckójában tartózkodik... látogatókat nem fogad, csak a prostituáltak hadait. Tipikus projekt vezet?.}
-{406}{}{Benézhetnék hozzá?}
-{407}{}{Igen, de a marketingesek rosszabbak. Mindenesetre kösz az információt. Kés?bb még benézek.}
-{415}{}{Gondolom... hadd adjak egy belép?jelvényt. Csak mutassa meg az ?röknek. Ne sokat maradjon, ha nem muszáj! Myron nem szereti, ha sok idejét rabolják.}
-{416}{}{Gondolom... hadd adjak egy belép?jelvényt. Csak mutassa meg az ?röknek. Ne sokat maradjon, ha nem muszáj! Myron nem szereti, ha sok idejét rabolják... persze a maga esetében lehet, hogy kivételt tesz.}
-{417}{}{Köszönöm a jelvényt. Kés?bb találkozunk.}
-{425}{}{Nézze, nagyon elfoglalt vagyok, szóval, ha nem bánja...}
-{426}{}{Nézze, én... én, ööö, nagyon elfoglalt vagyok, szóval, ha nem bánja...}
+{396}{}{Myron az Ã¶n f?nÃ¶ke?}
+{405}{}{AkÃ¡r ANNAK is nevezheti. Okos ember, ezt nem tudom elvitatni t?le, de nem sokat tÃ¶r?dik vele, mi tÃ¶rtÃ©nik idefenn. LeginkÃ¡bb az alagsori kuckÃ³jÃ¡ban tartÃ³zkodik... lÃ¡togatÃ³kat nem fogad, csak a prostituÃ¡ltak hadait. Tipikus projekt vezet?.}
+{406}{}{BenÃ©zhetnÃ©k hozzÃ¡?}
+{407}{}{Igen, de a marketingesek rosszabbak. Mindenesetre kÃ¶sz az informÃ¡ciÃ³t. KÃ©s?bb mÃ©g benÃ©zek.}
+{415}{}{Gondolom... hadd adjak egy belÃ©p?jelvÃ©nyt. Csak mutassa meg az ?rÃ¶knek. Ne sokat maradjon, ha nem muszÃ¡j! Myron nem szereti, ha sok idejÃ©t raboljÃ¡k.}
+{416}{}{Gondolom... hadd adjak egy belÃ©p?jelvÃ©nyt. Csak mutassa meg az ?rÃ¶knek. Ne sokat maradjon, ha nem muszÃ¡j! Myron nem szereti, ha sok idejÃ©t raboljÃ¡k... persze a maga esetÃ©ben lehet, hogy kivÃ©telt tesz.}
+{417}{}{KÃ¶szÃ¶nÃ¶m a jelvÃ©nyt. KÃ©s?bb talÃ¡lkozunk.}
+{425}{}{NÃ©zze, nagyon elfoglalt vagyok, szÃ³val, ha nem bÃ¡nja...}
+{426}{}{NÃ©zze, Ã©n... Ã©n, Ã¶Ã¶Ã¶, nagyon elfoglalt vagyok, szÃ³val, ha nem bÃ¡nja...}
 {427}{}{Akkor hagyjuk...}
-{428}{}{Mindenesetre köszönöm.}
-{429}{}{Mindenesetre köszönöm... ::halkan hozzáteszed még:: te beképzelt golyófej? ribanc.}
-{435}{}{Hát... hmmm... nagyon hízelg?, de momentán én is nagyon elfoglalt vagyok... szóval... ööö...}
-{436}{}{Nem bánná, ha munka után magáért jönnék? Semmi nem kötelez?... csak egy kis vacsora, kellemes beszélgetés. Ahogy így elnézem magát, jót tenne egy kis lazítás. Az itteni munka nagyon megviselheti.}
-{437}{}{Hát csak úgy megkérdeztem. Mindenesetre köszönöm.}
+{428}{}{Mindenesetre kÃ¶szÃ¶nÃ¶m.}
+{429}{}{Mindenesetre kÃ¶szÃ¶nÃ¶m... ::halkan hozzÃ¡teszed mÃ©g:: te bekÃ©pzelt golyÃ³fej? ribanc.}
+{435}{}{HÃ¡t... hmmm... nagyon hÃ­zelg?, de momentÃ¡n Ã©n is nagyon elfoglalt vagyok... szÃ³val... Ã¶Ã¶Ã¶...}
+{436}{}{Nem bÃ¡nnÃ¡, ha munka utÃ¡n magÃ¡Ã©rt jÃ¶nnÃ©k? Semmi nem kÃ¶telez?... csak egy kis vacsora, kellemes beszÃ©lgetÃ©s. Ahogy Ã­gy elnÃ©zem magÃ¡t, jÃ³t tenne egy kis lazÃ­tÃ¡s. Az itteni munka nagyon megviselheti.}
+{437}{}{HÃ¡t csak Ãºgy megkÃ©rdeztem. Mindenesetre kÃ¶szÃ¶nÃ¶m.}
 {445}{}{Oh, not THAT busy... heh... well, no, pretty busy. I mean, mostly it's routine drug testing, and occasionally we have
  a slave go over the edge...}
-{446}{}{A kísérleti metamfetamin rabszolgasorba hajtott emberi lényekbe való szándékos injektálása nem kérd?jelezi meg az alapvet? emberiességét?}
-{447}{}{Úh. Ez aztán veszélyesnek hangzik! Nem szokott megsérülni? Sok halálos m?hiba szokott történni?}
+{446}{}{A kÃ­sÃ©rleti metamfetamin rabszolgasorba hajtott emberi lÃ©nyekbe valÃ³ szÃ¡ndÃ©kos injektÃ¡lÃ¡sa nem kÃ©rd?jelezi meg az alapvet? emberiessÃ©gÃ©t?}
+{447}{}{Ãšh. Ez aztÃ¡n veszÃ©lyesnek hangzik! Nem szokott megsÃ©rÃ¼lni? Sok halÃ¡los m?hiba szokott tÃ¶rtÃ©nni?}
 {448}{}{Drug testing? Really? How are things going?}
-{449}{}{Érdekesen hangzik, de most mennem kell... ööö, kés?bb biztos visszajövök.}
-{455}{}{Ez valami gyenge próbálkozás volt, hogy viccesnek t?njön?}
+{449}{}{Ã‰rdekesen hangzik, de most mennem kell... Ã¶Ã¶Ã¶, kÃ©s?bb biztos visszajÃ¶vÃ¶k.}
+{455}{}{Ez valami gyenge prÃ³bÃ¡lkozÃ¡s volt, hogy viccesnek t?njÃ¶n?}
 {456}{}{Just asking. I mean, what if you had been sold into slavery, been taken here, then pumped full of drugs?}
-{457}{}{Ööö, igen. Most mennem kell.}
-{465}{}{Én a karám egyik oldalán állok, ?k pedig a másik oldalán. Mivel kezdünk hipotézisekbe bocsátkozni, megérdekl?döm, hogy esetleg nincs-e kedve személyesen meggy?z?dni, milyen is lehet a másik oldalon állni. Van egy-két kihasználatlan karámunk.}
-{466}{}{Várjunk egy pillanatot...}
-{467}{}{Öö, kösz nem kérek bel?le. Bocsánat, hogy zavartam.}
-{475}{}{A rabszolgák halála érdekli? Nem sok történik. Többnyire véletlen túladagolás szokta okozni, általában egy asszisztens hibájából, de el?fordul, hogy egy rabszolga saját magát sebesíti meg. Némelyek túl sok Jetet vesznek be, mert a repülést túl komolyan gondolják.}
+{457}{}{Ã–Ã¶Ã¶, igen. Most mennem kell.}
+{465}{}{Ã‰n a karÃ¡m egyik oldalÃ¡n Ã¡llok, ?k pedig a mÃ¡sik oldalÃ¡n. Mivel kezdÃ¼nk hipotÃ©zisekbe bocsÃ¡tkozni, megÃ©rdekl?dÃ¶m, hogy esetleg nincs-e kedve szemÃ©lyesen meggy?z?dni, milyen is lehet a mÃ¡sik oldalon Ã¡llni. Van egy-kÃ©t kihasznÃ¡latlan karÃ¡munk.}
+{466}{}{VÃ¡rjunk egy pillanatot...}
+{467}{}{Ã–Ã¶, kÃ¶sz nem kÃ©rek bel?le. BocsÃ¡nat, hogy zavartam.}
+{475}{}{A rabszolgÃ¡k halÃ¡la Ã©rdekli? Nem sok tÃ¶rtÃ©nik. TÃ¶bbnyire vÃ©letlen tÃºladagolÃ¡s szokta okozni, Ã¡ltalÃ¡ban egy asszisztens hibÃ¡jÃ¡bÃ³l, de el?fordul, hogy egy rabszolga sajÃ¡t magÃ¡t sebesÃ­ti meg. NÃ©melyek tÃºl sok Jetet vesznek be, mert a repÃ¼lÃ©st tÃºl komolyan gondoljÃ¡k.}
 {476}{}{Other than that, how's the drug testing going?}
-{477}{}{Fogadni mertem volna. Azért kösz az információt. Ön igen segít?kész.}
-{485}{}{Próbálkozzon lent a laborban! Az ?rzött ajtónál. Ha találkoznak, mondja már meg neki, hogy ha van ideje, jöjjön fel ide. Ha nem ANNYIRA elfoglalt...}
-{1000}{}{Kaptál egy ideiglenes belép?t Marjorie-t?l.}
+{477}{}{Fogadni mertem volna. AzÃ©rt kÃ¶sz az informÃ¡ciÃ³t. Ã–n igen segÃ­t?kÃ©sz.}
+{485}{}{PrÃ³bÃ¡lkozzon lent a laborban! Az ?rzÃ¶tt ajtÃ³nÃ¡l. Ha talÃ¡lkoznak, mondja mÃ¡r meg neki, hogy ha van ideje, jÃ¶jjÃ¶n fel ide. Ha nem ANNYIRA elfoglalt...}
+{1000}{}{KaptÃ¡l egy ideiglenes belÃ©p?t Marjorie-t?l.}

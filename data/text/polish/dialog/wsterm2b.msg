@@ -1,88 +1,88 @@
 {100}{}{Terminal komputerowy.}
-{101}{}{W wielu miejscach do obudowy poprzylepiano zdjêcia sk¹po odzianych kobiet.}
-{102}{}{Nie mo¿esz odczytaæ, co pokazuje monitor.}
-{103}{}{Terminal Zarz¹dzania Wyposa¿eniem                                 
- Pola Si³owe - Wy³¹czone                                            
- P³yty Pora¿aj¹ce - Wy³¹czone}
-{104}{}{Terminal Zarz¹dzania Wyposa¿eniem                                 
- Pola Si³owe - Wy³¹czone                                            
- P³yty Pora¿aj¹ce - Aktywne}
-{105}{}{Terminal Zarz¹dzania Wyposa¿eniem                                 
- Pola Si³owe - Aktywne                                              
- P³yty Pora¿aj¹ce - Wy³¹czone}
-{106}{}{Terminal Zarz¹dzania Wyposa¿eniem                                 
- Pola Si³owe - Aktywne                                              
- P³yty Pora¿aj¹ce - Aktywne}
-{107}{}{Wy³¹cz P³yty Pora¿aj¹ce}
-{108}{}{Wy³¹cz Pola Si³owe}
-{109}{}{Przeczytaj Pocztê}
-{110}{}{WyjdŸ.}
-{111}{}{[Mimo usilnych prób z twojej strony, te wszystkie dziwne kreski nic ci nie mówi¹.]}
-{112}{}{Wy³¹cz P³yty Pora¿aj¹ce                                             
- Proszê Podaæ Has³o:_}
-{113}{}{W³am siê do systemu bezpieczeñstwa.}
-{114}{}{Zgadnij Has³o}
-{115}{}{Wróæ do Menu G³ównego}
-{116}{}{WyjdŸ.}
+{101}{}{W wielu miejscach do obudowy poprzylepiano zdjÄ™cia skÄ…po odzianych kobiet.}
+{102}{}{Nie moÅ¼esz odczytaÄ‡, co pokazuje monitor.}
+{103}{}{Terminal ZarzÄ…dzania WyposaÅ¼eniem                                 
+ Pola SiÅ‚owe - WyÅ‚Ä…czone                                            
+ PÅ‚yty PoraÅ¼ajÄ…ce - WyÅ‚Ä…czone}
+{104}{}{Terminal ZarzÄ…dzania WyposaÅ¼eniem                                 
+ Pola SiÅ‚owe - WyÅ‚Ä…czone                                            
+ PÅ‚yty PoraÅ¼ajÄ…ce - Aktywne}
+{105}{}{Terminal ZarzÄ…dzania WyposaÅ¼eniem                                 
+ Pola SiÅ‚owe - Aktywne                                              
+ PÅ‚yty PoraÅ¼ajÄ…ce - WyÅ‚Ä…czone}
+{106}{}{Terminal ZarzÄ…dzania WyposaÅ¼eniem                                 
+ Pola SiÅ‚owe - Aktywne                                              
+ PÅ‚yty PoraÅ¼ajÄ…ce - Aktywne}
+{107}{}{WyÅ‚Ä…cz PÅ‚yty PoraÅ¼ajÄ…ce}
+{108}{}{WyÅ‚Ä…cz Pola SiÅ‚owe}
+{109}{}{Przeczytaj PocztÄ™}
+{110}{}{WyjdÅº.}
+{111}{}{[Mimo usilnych prÃ³b z twojej strony, te wszystkie dziwne kreski nic ci nie mÃ³wiÄ….]}
+{112}{}{WyÅ‚Ä…cz PÅ‚yty PoraÅ¼ajÄ…ce                                             
+ ProszÄ™ PodaÄ‡ HasÅ‚o:_}
+{113}{}{WÅ‚am siÄ™ do systemu bezpieczeÅ„stwa.}
+{114}{}{Zgadnij HasÅ‚o}
+{115}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{116}{}{WyjdÅº.}
 {117}{}{[Ten program jest dla ciebie po prostu zbyt skomplikowany, nie zrozumiesz go.]}
-{118}{}{Wróæ do Menu G³ównego}
-{119}{}{WyjdŸ.}
-{120}{}{[Udaje ci siê obejœæ sprawdzanie has³a i wy³¹czyæ P³yty Pora¿aj¹ce.]}
-{121}{}{Wróæ do Menu G³ównego}
-{122}{}{WyjdŸ.}
-{123}{}{Wy³¹cz Pola Si³owe                                                     
- Proszê Podaæ Has³o:_}
-{124}{}{W³am siê do systemu bezpieczeñstwa.}
-{125}{}{Zgadnij Has³o}
-{126}{}{Wróæ do Menu G³ównego}
-{127}{}{WyjdŸ.}
-{128}{}{[Te pliki s¹ zakodowane i bez dekodera nie dasz rady niczego odczytaæ.]}
-{129}{}{Wróæ do Menu G³ównego}
-{130}{}{WyjdŸ.}
-{131}{}{[Dzieciêca igraszka. Pola si³owe s¹ teraz wy³¹czone.]}
-{132}{}{Wróæ do Menu G³ównego}
-{133}{}{WyjdŸ.}
-{134}{}{[Ktoœ zapomnia³ zamkn¹æ swoj¹ skrzynkê pocztow¹.]           
- Potwierdzenie Zamówienia                                          
+{118}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{119}{}{WyjdÅº.}
+{120}{}{[Udaje ci siÄ™ obejÅ›Ä‡ sprawdzanie hasÅ‚a i wyÅ‚Ä…czyÄ‡ PÅ‚yty PoraÅ¼ajÄ…ce.]}
+{121}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{122}{}{WyjdÅº.}
+{123}{}{WyÅ‚Ä…cz Pola SiÅ‚owe                                                     
+ ProszÄ™ PodaÄ‡ HasÅ‚o:_}
+{124}{}{WÅ‚am siÄ™ do systemu bezpieczeÅ„stwa.}
+{125}{}{Zgadnij HasÅ‚o}
+{126}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{127}{}{WyjdÅº.}
+{128}{}{[Te pliki sÄ… zakodowane i bez dekodera nie dasz rady niczego odczytaÄ‡.]}
+{129}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{130}{}{WyjdÅº.}
+{131}{}{[DzieciÄ™ca igraszka. Pola siÅ‚owe sÄ… teraz wyÅ‚Ä…czone.]}
+{132}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{133}{}{WyjdÅº.}
+{134}{}{[KtoÅ› zapomniaÅ‚ zamknÄ…Ä‡ swojÄ… skrzynkÄ™ pocztowÄ….]           
+ Potwierdzenie ZamÃ³wienia                                          
  Uwaga dot. Ewakuacji                                               
  Randka w Ciemno                                                     
  Handel}
-{135}{}{[Wybierz plik, który chcesz przeczytaæ.]}
-{136}{}{Przeczytaj list "Potwierdzenie Zamówienia"}
+{135}{}{[Wybierz plik, ktÃ³ry chcesz przeczytaÄ‡.]}
+{136}{}{Przeczytaj list "Potwierdzenie ZamÃ³wienia"}
 {137}{}{Przeczytaj list "Uwaga dot. Ewakuacji"}
 {138}{}{Przeczytaj list "Randka w Ciemno"}
 {139}{}{Przeczytaj list "Handel"}
-{140}{}{Wróæ do Menu G³ównego}
-{141}{}{WyjdŸ.}
-{142}{}{To jest potwierdzenie przyjêcia Pañskiego zamówienia na Debbie w Armii i G³êbokie Gard³o czêœæ 1059. Zamówienie powinno nadejœæ poczt¹ w ci¹gu 2 do 4 tygodni. Dziêkujemy za Pañskie zamówienie.}
+{140}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{141}{}{WyjdÅº.}
+{142}{}{To jest potwierdzenie przyjÄ™cia PaÅ„skiego zamÃ³wienia na Debbie w Armii i GÅ‚Ä™bokie GardÅ‚o czÄ™Å›Ä‡ 1059. ZamÃ³wienie powinno nadejÅ›Ä‡ pocztÄ… w ciÄ…gu 2 do 4 tygodni. DziÄ™kujemy za PaÅ„skie zamÃ³wienie.}
 {143}{}{Przeczytaj inne listy}
-{144}{}{WyjdŸ.}
-{145}{}{Ewakuacja Sk³adu Wojskowego Sierra zosta³a przyœpieszona o tydzieñ. Wszystkie œrodki bezpieczeñstwa musz¹ byæ uruchomione do tego czasu. Z rozkazu Genera³a Cliftona.}
+{144}{}{WyjdÅº.}
+{145}{}{Ewakuacja SkÅ‚adu Wojskowego Sierra zostaÅ‚a przyÅ›pieszona o tydzieÅ„. Wszystkie Å›rodki bezpieczeÅ„stwa muszÄ… byÄ‡ uruchomione do tego czasu. Z rozkazu GeneraÅ‚a Cliftona.}
 {146}{}{Przeczytaj inne listy}
-{147}{}{WyjdŸ.}
-{148}{}{[Rozlega siê ciche furkotanie i z terminala zaczynaj¹ wydobywaæ siê k³êby dymu. Stoisz tak i patrzysz jak klawiatura zamienia siê w lepk¹ ka³u¿ê. Hm... to musia³ byæ jeden z tych wirusów, o których ci tyle mówiono.]}
-{149}{}{WyjdŸ.}
-{150}{}{Tu Klinger z 8063-ciej. Desperacko potrzebujemy czêœci numer 102-53B. Gdybyœ móg³ wys³aæ dla nas zamówienie, to mam skrzynkê Chateau Lafayette z 2155. Odpisz mi ASAP.}
+{147}{}{WyjdÅº.}
+{148}{}{[Rozlega siÄ™ ciche furkotanie i z terminala zaczynajÄ… wydobywaÄ‡ siÄ™ kÅ‚Ä™by dymu. Stoisz tak i patrzysz jak klawiatura zamienia siÄ™ w lepkÄ… kaÅ‚uÅ¼Ä™. Hm... to musiaÅ‚ byÄ‡ jeden z tych wirusÃ³w, o ktÃ³rych ci tyle mÃ³wiono.]}
+{149}{}{WyjdÅº.}
+{150}{}{Tu Klinger z 8063-ciej. Desperacko potrzebujemy czÄ™Å›ci numer 102-53B. GdybyÅ› mÃ³gÅ‚ wysÅ‚aÄ‡ dla nas zamÃ³wienie, to mam skrzynkÄ™ Chateau Lafayette z 2155. Odpisz mi ASAP.}
 {151}{}{Przeczytaj inne listy}
-{152}{}{WyjdŸ.}
-{153}{}{[Có¿ za nieprawdopodobne szczêœcie! Uda³o ci siê zgadn¹æ     
- w³aœciwe has³o. "Cycuszki".]                                        
- Wy³¹czanie P³yt Pora¿aj¹cych}
-{154}{}{Wróæ do Menu G³ównego}
-{155}{}{WyjdŸ.}
-{156}{}{[Mimo usilnych prób nie jesteœ w stanie odgadn¹æ has³a.]}
-{157}{}{Wróæ do Menu G³ównego}
-{158}{}{WyjdŸ.}
-{159}{}{[Ta osoba musia³a mieæ obsesjê na punkcie biustów.             
- Prawid³owe has³o to "sutki"]                                      
- Wy³¹czanie Pól Si³owych}
-{160}{}{Wróæ do Menu G³ównego}
-{161}{}{WyjdŸ.}
-{162}{}{[Mimo usilnych prób nie jesteœ w stanie odgadn¹æ has³a.]}
-{163}{}{Wróæ do Menu G³ównego}
-{164}{}{WyjdŸ.}
-{165}{}{[Jakimœ cudem twoje majstrowanie powoduje, ¿e terminal wybucha ci prosto w twarz.]}
-{166}{}{WyjdŸ.}
-{200}{}{[Ten terminal nie jest ju¿ sprawny.]}
-{300}{}{Udaje ci siê wy³¹czyæ p³yty pora¿aj¹ce.}
-{400}{}{Komputer znajduje siê w trybie diagnostycznym. Proszê zaczekaæ, a¿ procedura diagnostyczna zostanie ukoñczona.}
+{152}{}{WyjdÅº.}
+{153}{}{[CÃ³Å¼ za nieprawdopodobne szczÄ™Å›cie! UdaÅ‚o ci siÄ™ zgadnÄ…Ä‡     
+ wÅ‚aÅ›ciwe hasÅ‚o. "Cycuszki".]                                        
+ WyÅ‚Ä…czanie PÅ‚yt PoraÅ¼ajÄ…cych}
+{154}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{155}{}{WyjdÅº.}
+{156}{}{[Mimo usilnych prÃ³b nie jesteÅ› w stanie odgadnÄ…Ä‡ hasÅ‚a.]}
+{157}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{158}{}{WyjdÅº.}
+{159}{}{[Ta osoba musiaÅ‚a mieÄ‡ obsesjÄ™ na punkcie biustÃ³w.             
+ PrawidÅ‚owe hasÅ‚o to "sutki"]                                      
+ WyÅ‚Ä…czanie PÃ³l SiÅ‚owych}
+{160}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{161}{}{WyjdÅº.}
+{162}{}{[Mimo usilnych prÃ³b nie jesteÅ› w stanie odgadnÄ…Ä‡ hasÅ‚a.]}
+{163}{}{WrÃ³Ä‡ do Menu GÅ‚Ã³wnego}
+{164}{}{WyjdÅº.}
+{165}{}{[JakimÅ› cudem twoje majstrowanie powoduje, Å¼e terminal wybucha ci prosto w twarz.]}
+{166}{}{WyjdÅº.}
+{200}{}{[Ten terminal nie jest juÅ¼ sprawny.]}
+{300}{}{Udaje ci siÄ™ wyÅ‚Ä…czyÄ‡ pÅ‚yty poraÅ¼ajÄ…ce.}
+{400}{}{Komputer znajduje siÄ™ w trybie diagnostycznym. ProszÄ™ zaczekaÄ‡, aÅ¼ procedura diagnostyczna zostanie ukoÅ„czona.}

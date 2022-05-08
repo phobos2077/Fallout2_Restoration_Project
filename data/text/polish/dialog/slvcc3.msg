@@ -1,5 +1,5 @@
 {100}{}{Widzisz psa obronnego.}
-{101}{}{Widzisz psa, wygl¹da na zaniedbanego.}
+{101}{}{Widzisz psa, wyglÄ…da na zaniedbanego.}
 {102}{}{Hau!}
 {103}{}{Hau! Hau!}
 {104}{}{Grrr!}

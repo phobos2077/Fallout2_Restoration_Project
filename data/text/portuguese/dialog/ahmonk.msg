@@ -1,158 +1,158 @@
-{100}{}{Você vê o Abade, o líder espiritual da Abadia.}
-{101}{}{Há algo sobre este monge que te leva a acreditar que ele é bem importante.}
+{100}{}{VocÃª vÃª o Abade, o lÃ­der espiritual da Abadia.}
+{101}{}{HÃ¡ algo sobre este monge que te leva a acreditar que ele Ã© bem importante.}
 {200}{}{Bem-vindo viajante.}
-{201}{}{Paz para você.}
-{202}{}{Nós somos os guardiões do conhecimento.}
-{203}{}{Me desculpe, mas o conhecimento de nossos livros não é útil para você.}
-{300}{}{Bem-vindo ao mosteiro, viajante. Como posso ajudá-lo?}
-{301}{}{O que você pode me dizer sobre sua ordem?}
-{302}{}{Você já ouviu falar de um dispositivo chamado GECK?}
-{303}{}{Você sabe onde eu poderia encontrar o Vault 13?}
+{201}{}{Paz para vocÃª.}
+{202}{}{NÃ³s somos os guardiÃµes do conhecimento.}
+{203}{}{Me desculpe, mas o conhecimento de nossos livros nÃ£o Ã© Ãºtil para vocÃª.}
+{300}{}{Bem-vindo ao mosteiro, viajante. Como posso ajudÃ¡-lo?}
+{301}{}{O que vocÃª pode me dizer sobre sua ordem?}
+{302}{}{VocÃª jÃ¡ ouviu falar de um dispositivo chamado GECK?}
+{303}{}{VocÃª sabe onde eu poderia encontrar o Vault 13?}
 {304}{}{Adeus.}
-{400}{}{O que você quer saber?}
+{400}{}{O que vocÃª quer saber?}
 {401}{}{Tudo bem. Eu gostaria de saber algo mais.}
-{402}{}{Hmm ... .Isso * soa * familiar. Por que, sim, lembro que o Irmão Thomas mencionou algo sobre isso recentemente. Me desculpe, mas não lembro exatamente o que ele disse.}
-{403}{}{Isso é bom. Basta me apontar para o Irmão Thomas e eu vou perguntar a ele.}
-{404}{}{Eu não sei nada sobre isso.}
+{402}{}{Hmm ... .Isso * soa * familiar. Por que, sim, lembro que o IrmÃ£o Thomas mencionou algo sobre isso recentemente. Me desculpe, mas nÃ£o lembro exatamente o que ele disse.}
+{403}{}{Isso Ã© bom. Basta me apontar para o IrmÃ£o Thomas e eu vou perguntar a ele.}
+{404}{}{Eu nÃ£o sei nada sobre isso.}
 {405}{}{Bem, de qualquer forma obrigado.}
-{406}{}{Receio que não possamos fazer isso. Você vê, tenho a impressão de que o irmão Thomas não está mais entre
-  os vivos. Mas, felizmente para você, ele foi um dos nossos transcriptores mais confiáveis. Tenho certeza de quais artigos ele fez
-  sobre a informação que você procura foi transcrita em nossos computadores.}
-{407}{}{Espere um segundo, você está "com a impressão" de que o irmão Thomas está morto? De onde eu venho, a morte é uma coisa bem clara. Então, ele está morto, ou não está?}
-{408}{}{O Irmão Thomas faltou por vários dias, desde que ele foi até as cavernas abaixo da Abadia. [Ele suspira cansadamente.]
-  Você vê, alguns dos moradores da Abadia alegaram ter visto uma enorme besta acorrentada lá, e o irmão Thomas era bastante céptico.
-  Ele decidiu por conta própria dissipar esses rumores, no entanto, como se mostra, seu desaparecimento só os validou.}
-{409}{}{Hmmm. Talvez eu devesse dar uma olhada no que está lá em baixo. *Eu SOU* o escolhido afinal de contas...}
+{406}{}{Receio que nÃ£o possamos fazer isso. VocÃª vÃª, tenho a impressÃ£o de que o irmÃ£o Thomas nÃ£o estÃ¡ mais entre
+Â  os vivos. Mas, felizmente para vocÃª, ele foi um dos nossos transcriptores mais confiÃ¡veis. Tenho certeza de quais artigos ele fez
+Â  sobre a informaÃ§Ã£o que vocÃª procura foi transcrita em nossos computadores.}
+{407}{}{Espere um segundo, vocÃª estÃ¡ "com a impressÃ£o" de que o irmÃ£o Thomas estÃ¡ morto? De onde eu venho, a morte Ã© uma coisa bem clara. EntÃ£o, ele estÃ¡ morto, ou nÃ£o estÃ¡?}
+{408}{}{O IrmÃ£o Thomas faltou por vÃ¡rios dias, desde que ele foi atÃ© as cavernas abaixo da Abadia. [Ele suspira cansadamente.]
+Â  VocÃª vÃª, alguns dos moradores da Abadia alegaram ter visto uma enorme besta acorrentada lÃ¡, e o irmÃ£o Thomas era bastante cÃ©ptico.
+Â  Ele decidiu por conta prÃ³pria dissipar esses rumores, no entanto, como se mostra, seu desaparecimento sÃ³ os validou.}
+{409}{}{Hmmm. Talvez eu devesse dar uma olhada no que estÃ¡ lÃ¡ em baixo. *Eu SOU* o escolhido afinal de contas...}
 {410}{}{Eu sou aventureiro. Eu posso dar uma olhada.}
-{411}{}{Você realmente faria isso? Talvez enquanto você estiver lá, você poderia procurar um determinado livro. Você viu, foi o último
-  conhecido por estar na posse do irmão Thomas, e é muito importante para nós, como foi transmitida por nossos fundadores.
-  Se você pudesse recuperar esse livro, eu ficaria muito agradecido. Na verdade, eu lhe concederia acesso total aos nossos computadores, então você
-  pode procurar o que quiser.}
-{412}{}{É um acordo. Volto em breve.}
+{411}{}{VocÃª realmente faria isso? Talvez enquanto vocÃª estiver lÃ¡, vocÃª poderia procurar um determinado livro. VocÃª viu, foi o Ãºltimo
+Â  conhecido por estar na posse do irmÃ£o Thomas, e Ã© muito importante para nÃ³s, como foi transmitida por nossos fundadores.
+Â  Se vocÃª pudesse recuperar esse livro, eu ficaria muito agradecido. Na verdade, eu lhe concederia acesso total aos nossos computadores, entÃ£o vocÃª
+Â  pode procurar o que quiser.}
+{412}{}{Ã‰ um acordo. Volto em breve.}
 {413}{}{Talvez, deixe-me pensar sobre isso mais algumas...}
-{414}{}{Obrigado. Por favor, deixe-me saber se você encontrar o livro.}
+{414}{}{Obrigado. Por favor, deixe-me saber se vocÃª encontrar o livro.}
 {415}{}{Ok, tchau.}
-{416}{}{Olá, meu amigo.}
+{416}{}{OlÃ¡, meu amigo.}
 {417}{}{Matei sua besta, e eu tenho o seu livro.}
 {418}{}{Excelente! Deixe-me ficar com isso!}
-{419}{}{Aqui está.}
-{420}{}{Não tão rápido. Quanto é que vale para você?}
-{421}{}{[Ele tira o livro de você e acaricia sua capa como se fosse para apaziguá-lo.] Você nos fez um ótimo serviço. Você agora
-  tem acesso total aos nossos computadores na biblioteca. Diga ao irmão Paul que concedo permissão para acessar nossos arquivos.}
+{419}{}{Aqui estÃ¡.}
+{420}{}{NÃ£o tÃ£o rÃ¡pido. Quanto Ã© que vale para vocÃª?}
+{421}{}{[Ele tira o livro de vocÃª e acaricia sua capa como se fosse para apaziguÃ¡-lo.] VocÃª nos fez um Ã³timo serviÃ§o. VocÃª agora
+Â  tem acesso total aos nossos computadores na biblioteca. Diga ao irmÃ£o Paul que concedo permissÃ£o para acessar nossos arquivos.}
 {422}{}{Obrigado.}
-{423}{}{Você quer dinheiro para isso? Tudo bem, aqui estão US $ 250. Vá ver o irmão Paul para acessar os computadores.}
+{423}{}{VocÃª quer dinheiro para isso? Tudo bem, aqui estÃ£o US $ 250. VÃ¡ ver o irmÃ£o Paul para acessar os computadores.}
 {424}{}{Obrigado pelo dinheiro, tchau.}
-{425}{}{Você deve olhar um computador no segundo andar, agora que você tem acesso completo lá.}
+{425}{}{VocÃª deve olhar um computador no segundo andar, agora que vocÃª tem acesso completo lÃ¡.}
 {426}{}{Ok, tchau.}
-{430}{}{Qual é o propósito de sua ordem?}
-{431}{}{Qual é a história por trás da Abadia?}
-{432}{}{Hmm, eu não tenho quaisquer dúvidas no momento.}
-{433}{}{Nossa santa missão é ler, copiar e cuidar dos nossos livros sagrados de conhecimento e outras relíquias da era perdida.
-  É nossa esperança que, com esse conhecimento, possamos criar um Memorial que um dia possa ajudar a humanidade a emergir da
- Era das Trevas auto-imposta. Qualquer informação que encontramos é gravada, para que não se perca como se estivesse num
-  grande refúgio das chamas.}
-{434}{}{Após a Grande Guerra, as mãos orientadoras do destino dirigiram nossos antepassados a esta antiga Abadia nas montanhas. Devido a
-  Sua localização remota, o mosteiro sobreviveu ao Dilúvio da Chama praticamente incólume. À medida que nossos antepassados exploravam o prédio,
-  Eles descobriram uma extensa biblioteca de livros. E não apenas textos religiosos, oh não, esta biblioteca continha a gama de
-  obras escritas, desde clássicos literários até enciclopédias científicas.}
-{435}{}{O que aconteceu então?}
-{436}{}{Eu já ouvi o suficiente.}
-{437}{}{Eles logo perceberam o verdadeiro tesouro da sabedoria guardada nesses livros - especialmente os tomos científicos.
-  Aqui estavam as crónicas de uma civilização caída. Uma idade perdida. Havia alguns que achavam que seria melhor
-  destruir esse conhecimento, por medo de que volte a orientar a humanidade para o apocalipse. Mas foi eventualmente
-  decidido que, em vez disso, se dedicariam a garantir a preservação dos livros, a serem lançados quando,
-  e se, o mundo estiver pronto para isso.}
+{430}{}{Qual Ã© o propÃ³sito de sua ordem?}
+{431}{}{Qual Ã© a histÃ³ria por trÃ¡s da Abadia?}
+{432}{}{Hmm, eu nÃ£o tenho quaisquer dÃºvidas no momento.}
+{433}{}{Nossa santa missÃ£o Ã© ler, copiar e cuidar dos nossos livros sagrados de conhecimento e outras relÃ­quias da era perdida.
+Â  Ã‰ nossa esperanÃ§a que, com esse conhecimento, possamos criar um Memorial que um dia possa ajudar a humanidade a emergir da
+ Era das Trevas auto-imposta. Qualquer informaÃ§Ã£o que encontramos Ã© gravada, para que nÃ£o se perca como se estivesse num
+Â  grande refÃºgio das chamas.}
+{434}{}{ApÃ³s a Grande Guerra, as mÃ£os orientadoras do destino dirigiram nossos antepassados a esta antiga Abadia nas montanhas. Devido a
+Â  Sua localizaÃ§Ã£o remota, o mosteiro sobreviveu ao DilÃºvio da Chama praticamente incÃ³lume. Ã€ medida que nossos antepassados exploravam o prÃ©dio,
+Â  Eles descobriram uma extensa biblioteca de livros. E nÃ£o apenas textos religiosos, oh nÃ£o, esta biblioteca continha a gama de
+Â  obras escritas, desde clÃ¡ssicos literÃ¡rios atÃ© enciclopÃ©dias cientÃ­ficas.}
+{435}{}{O que aconteceu entÃ£o?}
+{436}{}{Eu jÃ¡ ouvi o suficiente.}
+{437}{}{Eles logo perceberam o verdadeiro tesouro da sabedoria guardada nesses livros - especialmente os tomos cientÃ­ficos.
+Â  Aqui estavam as crÃ³nicas de uma civilizaÃ§Ã£o caÃ­da. Uma idade perdida. Havia alguns que achavam que seria melhor
+Â  destruir esse conhecimento, por medo de que volte a orientar a humanidade para o apocalipse. Mas foi eventualmente
+Â  decidido que, em vez disso, se dedicariam a garantir a preservaÃ§Ã£o dos livros, a serem lanÃ§ados quando,
+Â  e se, o mundo estiver pronto para isso.}
 {438}{}{[MAIS]}
-{439}{}{E, utilizando uma pequena impressora, eles começaram a fazer cópias dos livros e também a transcrevê-los
-  nos computadores da Abadia para preservá-los digitalmente, se os livros físicos já forem destruídos. Ao longo dos longos anos,
-  outros se depararam com a Abadia, e alguns optaram por ficar e viver suas vidas no tranquilo silêncio da nossa casa de montanha.}
-{440}{}{Obrigado pela história.}
+{439}{}{E, utilizando uma pequena impressora, eles comeÃ§aram a fazer cÃ³pias dos livros e tambÃ©m a transcrevÃª-los
+Â  nos computadores da Abadia para preservÃ¡-los digitalmente, se os livros fÃ­sicos jÃ¡ forem destruÃ­dos. Ao longo dos longos anos,
+Â  outros se depararam com a Abadia, e alguns optaram por ficar e viver suas vidas no tranquilo silÃªncio da nossa casa de montanha.}
+{440}{}{Obrigado pela histÃ³ria.}
 {441}{}{De onde seus antepassados vieram?}
 {442}{}{Eles nunca disseram de onde eles vieram originalmente. Suspeitamos que vieram aqui originalmente do leste.}
-{443}{}{Bem, obrigado pela história.}
-{444}{}{Você precisa de alguma ajuda aqui no mosteiro?}
-{445}{}{Eu descobri o que há de errado com a sua bomba de água.}
-{446}{}{Você sabe alguma coisa sobre os fundadores originais?}
-{447}{}{Não conheço todos os nomes dos nossos fundadores, mas o mais importante que conheço é Miller.
-  Antes da Grande Guerra, ele era engenheiro elétrico trabalhando para o governo dos Estados Unidos. Pouco depois,
-  ele se converteu ao catolicismo e fez um juramento consigo mesmo de passar o resto de sua vida preservando o
-  conhecimento do passado. Seu maior medo era que esse conhecimento ficaria perdido para sempre e, portanto, precisava ser preservado
-  para que as futuras gerações possam se beneficiar.}
-{448}{}{Você deve ter bastante conhecimento depois de ter lido muito.}
-{449}{}{Eu realmente li muito na minha vida. No entanto, você pode estar desapontado com as limitações do meu conhecimento. Entende,
-  nós gravamos e preservamos. Estamos proibidos de agir sobre a sabedoria desses livros, portanto, nossa compreensão do texto é bastante limitada.}
-{450}{}{Aguarde, você está me dizendo que você só cegamente transcrever esses livros, mesmo sem tentar compreendê-los?}
-{451}{}{Como eu disse, é nosso trabalho preservar esse conhecimento, não para entender. Antes que esse conhecimento possa 
-retornar para a humanidade, ele deve primeiro provar ter subido acima de sua tendência de genocídio em massa. Essa é a única maneira de
-  Certificar-se de que a história não se repita.}
-{452}{}{Bem, eu tenho notícias para você: esse dia nunca virá. E enquanto você está acumulando todo esse conhecimento em seu
- pequeno paraíso nas montanhas aqui, as pessoas que estão no meio do deserto estão lutando todos os dias para sobreviver. Na verdade, toda a minha tribo
-  está à beira da destruição. O conhecimento contido nesses livros poderia ajudar a curar doenças, melhorar as culturas e
-  aumentar a chance de sobrevivência da humanidade.}
-{453}{}{Ah, bem, suponho que você tenha um bom ponto. Mas parece que a informação armazenada aqui poderia ajudar muito.
-  as pessoas. Mesmo que você não pense que o mundo está pronto para esse conhecimento, não vejo por que * você * não pode pelo menos tentar aprender com isso.
-  Caso contrário, qual é o objetivo de mantê-lo?}
-{454}{}{Eu entendo sua frustração com nossos caminhos, mas você deve entender que é assim que as coisas sempre foram
-  para nós. Para alterar as coisas agora, depois de tantos anos ... isso seria blasfemo contra nossa fé. Não, eu sinto que devemos continuar
-  para viver de acordo com as regras estabelecidas pelos nossos antepassados.}
-{455}{}{Eu entendo sua frustração com nossos caminhos, mas você deve entender que é assim que as coisas sempre foram
-  para nós. Para alterar as coisas agora, depois de tantos anos ... isso seria blasfemo contra nossa fé. Ainda assim, devo considerar
-  suas palavras. Eu vejo grande sabedoria em você, vagabundo. É uma pena que eu conheci poucos, como você.}
+{443}{}{Bem, obrigado pela histÃ³ria.}
+{444}{}{VocÃª precisa de alguma ajuda aqui no mosteiro?}
+{445}{}{Eu descobri o que hÃ¡ de errado com a sua bomba de Ã¡gua.}
+{446}{}{VocÃª sabe alguma coisa sobre os fundadores originais?}
+{447}{}{NÃ£o conheÃ§o todos os nomes dos nossos fundadores, mas o mais importante que conheÃ§o Ã© Miller.
+Â  Antes da Grande Guerra, ele era engenheiro elÃ©trico trabalhando para o governo dos Estados Unidos. Pouco depois,
+Â  ele se converteu ao catolicismo e fez um juramento consigo mesmo de passar o resto de sua vida preservando o
+Â  conhecimento do passado. Seu maior medo era que esse conhecimento ficaria perdido para sempre e, portanto, precisava ser preservado
+Â  para que as futuras geraÃ§Ãµes possam se beneficiar.}
+{448}{}{VocÃª deve ter bastante conhecimento depois de ter lido muito.}
+{449}{}{Eu realmente li muito na minha vida. No entanto, vocÃª pode estar desapontado com as limitaÃ§Ãµes do meu conhecimento. Entende,
+Â  nÃ³s gravamos e preservamos. Estamos proibidos de agir sobre a sabedoria desses livros, portanto, nossa compreensÃ£o do texto Ã© bastante limitada.}
+{450}{}{Aguarde, vocÃª estÃ¡ me dizendo que vocÃª sÃ³ cegamente transcrever esses livros, mesmo sem tentar compreendÃª-los?}
+{451}{}{Como eu disse, Ã© nosso trabalho preservar esse conhecimento, nÃ£o para entender. Antes que esse conhecimento possa 
+retornar para a humanidade, ele deve primeiro provar ter subido acima de sua tendÃªncia de genocÃ­dio em massa. Essa Ã© a Ãºnica maneira de
+Â  Certificar-se de que a histÃ³ria nÃ£o se repita.}
+{452}{}{Bem, eu tenho notÃ­cias para vocÃª: esse dia nunca virÃ¡. E enquanto vocÃª estÃ¡ acumulando todo esse conhecimento em seu
+Â pequeno paraÃ­so nas montanhas aqui, as pessoas que estÃ£o no meio do deserto estÃ£o lutando todos os dias para sobreviver. Na verdade, toda a minha tribo
+Â  estÃ¡ Ã  beira da destruiÃ§Ã£o. O conhecimento contido nesses livros poderia ajudar a curar doenÃ§as, melhorar as culturas e
+Â  aumentar a chance de sobrevivÃªncia da humanidade.}
+{453}{}{Ah, bem, suponho que vocÃª tenha um bom ponto. Mas parece que a informaÃ§Ã£o armazenada aqui poderia ajudar muito.
+Â  as pessoas. Mesmo que vocÃª nÃ£o pense que o mundo estÃ¡ pronto para esse conhecimento, nÃ£o vejo por que * vocÃª * nÃ£o pode pelo menos tentar aprender com isso.
+Â  Caso contrÃ¡rio, qual Ã© o objetivo de mantÃª-lo?}
+{454}{}{Eu entendo sua frustraÃ§Ã£o com nossos caminhos, mas vocÃª deve entender que Ã© assim que as coisas sempre foram
+Â  para nÃ³s. Para alterar as coisas agora, depois de tantos anos ... isso seria blasfemo contra nossa fÃ©. NÃ£o, eu sinto que devemos continuar
+Â  para viver de acordo com as regras estabelecidas pelos nossos antepassados.}
+{455}{}{Eu entendo sua frustraÃ§Ã£o com nossos caminhos, mas vocÃª deve entender que Ã© assim que as coisas sempre foram
+Â  para nÃ³s. Para alterar as coisas agora, depois de tantos anos ... isso seria blasfemo contra nossa fÃ©. Ainda assim, devo considerar
+Â  suas palavras. Eu vejo grande sabedoria em vocÃª, vagabundo. Ã‰ uma pena que eu conheci poucos, como vocÃª.}
 {456}{}{Obrigado. Eu gostaria de saber algo mais embora.}
 {457}{}{Muito bem. Eu gostaria de saber algo mais embora.}
 {500}{}{Pare com isso!}
-{501}{}{Você ganha 200 pontos de experiência por trazer de volta o livro.}
-{600}{}{Eu reparei sua bomba de água quebrada.}
-{601}{}{Isso é uma ótima notícia, na verdade. Aquela bomba de água estava travando a algum tempo. Esses comerciantes disseram que
-  poderiam cuidar disso, mas eles não pareciam estar fazendo muito progresso. É uma coisa boa que você veio. Obrigado novamente.}
-{602}{}{Espero um pouco de dinheiro por isso, você sabe. Agora tossir!}
-{603}{}{Não há problema. Eu tenho algumas outras perguntas embora.}
-{604}{}{Estou feliz por estar de assistência. Cuide-se.}
-{605}{}{[Franzir de sobrancelhas.] Eu vejo. Tudo bem, pegue essas moedas. Agora vá, e pare de me incomodar.}
+{501}{}{VocÃª ganha 200 pontos de experiÃªncia por trazer de volta o livro.}
+{600}{}{Eu reparei sua bomba de Ã¡gua quebrada.}
+{601}{}{Isso Ã© uma Ã³tima notÃ­cia, na verdade. Aquela bomba de Ã¡gua estava travando a algum tempo. Esses comerciantes disseram que
+Â  poderiam cuidar disso, mas eles nÃ£o pareciam estar fazendo muito progresso. Ã‰ uma coisa boa que vocÃª veio. Obrigado novamente.}
+{602}{}{Espero um pouco de dinheiro por isso, vocÃª sabe. Agora tossir!}
+{603}{}{NÃ£o hÃ¡ problema. Eu tenho algumas outras perguntas embora.}
+{604}{}{Estou feliz por estar de assistÃªncia. Cuide-se.}
+{605}{}{[Franzir de sobrancelhas.] Eu vejo. Tudo bem, pegue essas moedas. Agora vÃ¡, e pare de me incomodar.}
 {606}{}{Obrigado, *pai*.}
-{700}{}{Uhh...não eu pareço ter perdido isso.}
-{701}{}{O que!? [Ele suspira profundamente.] É muito lamentável que você não tenha conseguido recuperar esse livro. Mas você diz que você
-  matou a besta? Hm, então deve ser seguro enviar nossas próprias pessoas para continuar procurando por isso. De qualquer forma, por seu
-  serviço, devo conceder-lhe acesso aos nossos computadores. Vá ver o irmão Paul para a chave de acesso.}
+{700}{}{Uhh...nÃ£o eu pareÃ§o ter perdido isso.}
+{701}{}{O que!? [Ele suspira profundamente.] Ã‰ muito lamentÃ¡vel que vocÃª nÃ£o tenha conseguido recuperar esse livro. Mas vocÃª diz que vocÃª
+Â  matou a besta? Hm, entÃ£o deve ser seguro enviar nossas prÃ³prias pessoas para continuar procurando por isso. De qualquer forma, por seu
+Â  serviÃ§o, devo conceder-lhe acesso aos nossos computadores. VÃ¡ ver o irmÃ£o Paul para a chave de acesso.}
 {702}{}{Obrigado.}
-{800}{}{Na verdade sim. Nossa principal bomba de água tem atuado por algum tempo e, agora, parece ter se quebrado
-  completamente. Se você sabe alguma coisa sobre máquinas, você acha que poderia dar uma olhada e ver se algo poderia ser feito?
-  Existem alguns comerciantes que já estão trabalhando nisso. Temo que pouco progresso tenha sido feito.}
+{800}{}{Na verdade sim. Nossa principal bomba de Ã¡gua tem atuado por algum tempo e, agora, parece ter se quebrado
+Â  completamente. Se vocÃª sabe alguma coisa sobre mÃ¡quinas, vocÃª acha que poderia dar uma olhada e ver se algo poderia ser feito?
+Â  Existem alguns comerciantes que jÃ¡ estÃ£o trabalhando nisso. Temo que pouco progresso tenha sido feito.}
 {801}{}{Eu estou feliz em ajudar. Vou relatar o progresso.}
-{802}{}{Claro, ficarei feliz em ajudar ... por um preço, é claro.}
+{802}{}{Claro, ficarei feliz em ajudar ... por um preÃ§o, Ã© claro.}
 {803}{}{Na verdade, pensando bem, deixe-me perguntar-lhe algo mais.}
-{804}{}{O que!? Oh, tudo bem. Se esse é o tipo de pessoa que você é, então você receberá o pagamento pelo seu serviço. Aqui está
-  25 moedas para começar. Por favor, deixe-me saber se algo pode ser feito. [O homem suspira enquanto ele te entrega as moedas]}
-{805}{}{Ei, não há necessidade de suspirar. Você acha que tudo na vida vem de graça? Agora, deixe-me trabalhar.}
+{804}{}{O que!? Oh, tudo bem. Se esse Ã© o tipo de pessoa que vocÃª Ã©, entÃ£o vocÃª receberÃ¡ o pagamento pelo seu serviÃ§o. Aqui estÃ¡
+Â  25 moedas para comeÃ§ar. Por favor, deixe-me saber se algo pode ser feito. [O homem suspira enquanto ele te entrega as moedas]}
+{805}{}{Ei, nÃ£o hÃ¡ necessidade de suspirar. VocÃª acha que tudo na vida vem de graÃ§a? Agora, deixe-me trabalhar.}
 {806}{}{Realmente? Por favor, diga.}
 {807}{}{O motor se foi e fritou todos os conectores. Vou para Vault City para obter uma nova parte.}
-{808}{}{Oh, obrigado. Você é realmente uma grande ajuda. Informe uma vez que você instale a nova peça.}
+{808}{}{Oh, obrigado. VocÃª Ã© realmente uma grande ajuda. Informe uma vez que vocÃª instale a nova peÃ§a.}
 {809}{}{Eu vou. Estarei de volta em breve.}
-{900}{}{Você explica ao Abade que, enquanto a informação que eles detêm poderia levar à aniquilação da humanidade, isso também poderia levar à salvação da humanidade.}
-{901}{}{Você aprende sobre o fundador original da Abadia.}
+{900}{}{VocÃª explica ao Abade que, enquanto a informaÃ§Ã£o que eles detÃªm poderia levar Ã  aniquilaÃ§Ã£o da humanidade, isso tambÃ©m poderia levar Ã  salvaÃ§Ã£o da humanidade.}
+{901}{}{VocÃª aprende sobre o fundador original da Abadia.}
 {1000}{}{Eu matei um monstro assustador na caverna.}
-{1010}{}{Mesmo? Isso é ótimo. Isso é muito corajoso de você. Você é um grande menino.}
-{1011}{}{Mesmo? Isso é ótimo. Isso é muito corajoso de você. Você é uma grande garota.}
+{1010}{}{Mesmo? Isso Ã© Ã³timo. Isso Ã© muito corajoso de vocÃª. VocÃª Ã© um grande menino.}
+{1011}{}{Mesmo? Isso Ã© Ã³timo. Isso Ã© muito corajoso de vocÃª. VocÃª Ã© uma grande garota.}
 {1012}{}{(sorriso) eu sei.}
-{1020}{}{Você encontrou um livro lá? Um amigo meu tinha, e ele desapareceu. }
+{1020}{}{VocÃª encontrou um livro lÃ¡? Um amigo meu tinha, e ele desapareceu. }
 {1021}{}{Encontro o livro. Aqui, pesado e nenhum jarro dentro.}
-{1022}{}{Não consigo encontrar um livro. Desculpa. Eu vou olhar agora.}
+{1022}{}{NÃ£o consigo encontrar um livro. Desculpa. Eu vou olhar agora.}
 {1030}{}{Eu encontrei o livro.}
-{1031}{}{Isso é ótimo. Obrigado. Você é um cara especial.}
-{1032}{}{Isso é ótimo. Obrigado. Você é especial.}
+{1031}{}{Isso Ã© Ã³timo. Obrigado. VocÃª Ã© um cara especial.}
+{1032}{}{Isso Ã© Ã³timo. Obrigado. VocÃª Ã© especial.}
 {1033}{}{YAY.}
-{1100}{}{Eu estava lá mais cedo. Eu vi alguns cadáveres, então eu acho que um deles pertencia ao seu monge desaparecido. E se
-  Isso faz você se sentir melhor, matei o responsável por sua morte.}
-{1110}{}{Ah ... então é como eu temia. O Irmão Thomas será muito desapontador. Você tem meus agradecimentos por livrar-nos de qualquer coisa
-  que se escondia lá embaixo. No entanto, eu ... eu suponho que você encontrou um livro enquanto você estava lá. Isso é muito
-  importante que foi visto pela última vez na posse do irmão Thomas.}
-{1111}{}{Não, mas eu suponho que eu poderia voltar e verificar.}
-{1112}{}{Você quer dizer esse livro?}
+{1100}{}{Eu estava lÃ¡ mais cedo. Eu vi alguns cadÃ¡veres, entÃ£o eu acho que um deles pertencia ao seu monge desaparecido. E se
+Â  Isso faz vocÃª se sentir melhor, matei o responsÃ¡vel por sua morte.}
+{1110}{}{Ah ... entÃ£o Ã© como eu temia. O IrmÃ£o Thomas serÃ¡ muito desapontador. VocÃª tem meus agradecimentos por livrar-nos de qualquer coisa
+Â  que se escondia lÃ¡ embaixo. No entanto, eu ... eu suponho que vocÃª encontrou um livro enquanto vocÃª estava lÃ¡. Isso Ã© muito
+Â  importante que foi visto pela Ãºltima vez na posse do irmÃ£o Thomas.}
+{1111}{}{NÃ£o, mas eu suponho que eu poderia voltar e verificar.}
+{1112}{}{VocÃª quer dizer esse livro?}
 {1113}{}{Antes de eu ir, deixe-me perguntar-lhe algo mais.}
 {1411}{}{Muito interessante. Eu tenho que ir agora.}
-{3000}{}{Como posso ajudá-lo?}
-{4091}{}{Então, ninguém mais se incomodou em ir lá e verificá-lo? E se ele simplesmente está preso lá de alguma forma, e ele está lentamente morrendo de fome?}
-{4092}{}{Suponho que seja possível, mas você deve entender. Somos pessoas pacíficas. O pensamento de enfrentar um desses monstros de terra firme é terrível para nós. Nós simplesmente não estamos equipados para tais confrontos.}
-{4177}{}{Eu já matei a besta.}
-{4188}{}{Excelente! E quanto ao livro; você foi capaz de recuperá-lo?}
-{6020}{}{Se você realmente quer mostrar sua gratidão, que tal um pouco de dinheiro para o meu problema?}
+{3000}{}{Como posso ajudÃ¡-lo?}
+{4091}{}{EntÃ£o, ninguÃ©m mais se incomodou em ir lÃ¡ e verificÃ¡-lo? E se ele simplesmente estÃ¡ preso lÃ¡ de alguma forma, e ele estÃ¡ lentamente morrendo de fome?}
+{4092}{}{Suponho que seja possÃ­vel, mas vocÃª deve entender. Somos pessoas pacÃ­ficas. O pensamento de enfrentar um desses monstros de terra firme Ã© terrÃ­vel para nÃ³s. NÃ³s simplesmente nÃ£o estamos equipados para tais confrontos.}
+{4177}{}{Eu jÃ¡ matei a besta.}
+{4188}{}{Excelente! E quanto ao livro; vocÃª foi capaz de recuperÃ¡-lo?}
+{6020}{}{Se vocÃª realmente quer mostrar sua gratidÃ£o, que tal um pouco de dinheiro para o meu problema?}

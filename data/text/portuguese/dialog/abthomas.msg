@@ -1,2 +1,2 @@
-{100}{}{Você vê um monge morto.}
-{101}{}{Você vê os restos do Irmão Thomas. Parece como se ele morreu de uma morte dolorosa.}
+{100}{}{VocÃª vÃª um monge morto.}
+{101}{}{VocÃª vÃª os restos do IrmÃ£o Thomas. Parece como se ele morreu de uma morte dolorosa.}

@@ -1,3 +1,3 @@
-{100}{}{¡Guau!}
-{101}{}{¡Guau! ¡Guau!}
-{102}{}{¡Guau! ¡Guau! ¡Guau!}
+{100}{}{Â¡Guau!}
+{101}{}{Â¡Guau! Â¡Guau!}
+{102}{}{Â¡Guau! Â¡Guau! Â¡Guau!}

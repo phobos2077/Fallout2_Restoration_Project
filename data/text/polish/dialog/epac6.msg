@@ -1,48 +1,48 @@
 {100}{}{Widzisz Hologram bardzo zapracowanej osoby.}
-{101}{}{Widzisz Dyrektora Obs³ugi Gruntów.}
-{102}{}{Hologram 10031. Stoi na czele ca³ej obs³ugi gruntów nale¿¹cych do AOŒ.}
-{200}{}{Witam. Czy mogê zapytaæ jak uda³o ci siê tu dotrzeæ? Windy na powierzchniê zepsu³y siê dawno temu.}
-{201}{}{Hm... Niech pomyœlê... Najpierw po linie przez szyb windy na poziom u¿ytkowy... A potem przez kana³ wentylacyjny do dzia³u obs³ugi robotów...}
-{210}{}{Jestem zaskoczony, ¿e uda³o ci siê przedrzeæ przez te przeklête roœliny i unikn¹æ zjedzenia przez nie. Jestem Hologram 10031, Dyrektor Obs³ugi Gruntów w AOŒ. [Wzdycha ciê¿ko.] Wiem, wiem, teren agencji wygl¹da okropnie. Nie musisz mi tego mówiæ.}
-{211}{}{Skoro nie jesteœ zadowolony ze stanu terenu na powierzchni, czemu czegoœ z tym nie zrobisz?}
-{212}{}{Nie ¿artuj. Na powierzchni jest pe³no radioaktywnej mazi, zw³ok, zmutowanych miêso¿ernych roœlin... Naprawdê musisz byæ najgorszym zarz¹dc¹ w historii.}
-{220}{}{Gdybym móg³ coœ zrobiæ, wierz mi, zrobi³bym. Nie mam fizycznego cia³a, a te przeklête roboty nie reaguj¹ na nic co do nich mówiê. Pracuje ze 100% nieefektywnoœci¹ od kilku ostatnich dekad, jakie to ¿a³osne. A pozosta³e Hologramy nie pozwalaj¹ mi o tym zapomnieæ. Jedynie Dyrektor Operacyjny jest bardziej bezu¿yteczny ode mnie.}
-{221}{}{Mogê jakoœ pomóc?}
-{222}{}{Naprawdê szkoda. Muszê ju¿ iœæ. Do widzenia.}
-{230}{}{Hej, by³oby wspaniale, je¿eli naprawdê chcesz pomóc. Zadbam ¿eby ci to wynagrodziæ.}
-{231}{}{Uwa¿aj to za ju¿ zrobione. W czym trzeba ci pomóc?}
+{101}{}{Widzisz Dyrektora ObsÅ‚ugi GruntÃ³w.}
+{102}{}{Hologram 10031. Stoi na czele caÅ‚ej obsÅ‚ugi gruntÃ³w naleÅ¼Ä…cych do AOÅš.}
+{200}{}{Witam. Czy mogÄ™ zapytaÄ‡ jak udaÅ‚o ci siÄ™ tu dotrzeÄ‡? Windy na powierzchniÄ™ zepsuÅ‚y siÄ™ dawno temu.}
+{201}{}{Hm... Niech pomyÅ›lÄ™... Najpierw po linie przez szyb windy na poziom uÅ¼ytkowy... A potem przez kanaÅ‚ wentylacyjny do dziaÅ‚u obsÅ‚ugi robotÃ³w...}
+{210}{}{Jestem zaskoczony, Å¼e udaÅ‚o ci siÄ™ przedrzeÄ‡ przez te przeklÄ™te roÅ›liny i uniknÄ…Ä‡ zjedzenia przez nie. Jestem Hologram 10031, Dyrektor ObsÅ‚ugi GruntÃ³w w AOÅš. [Wzdycha ciÄ™Å¼ko.] Wiem, wiem, teren agencji wyglÄ…da okropnie. Nie musisz mi tego mÃ³wiÄ‡.}
+{211}{}{Skoro nie jesteÅ› zadowolony ze stanu terenu na powierzchni, czemu czegoÅ› z tym nie zrobisz?}
+{212}{}{Nie Å¼artuj. Na powierzchni jest peÅ‚no radioaktywnej mazi, zwÅ‚ok, zmutowanych miÄ™soÅ¼ernych roÅ›lin... NaprawdÄ™ musisz byÄ‡ najgorszym zarzÄ…dcÄ… w historii.}
+{220}{}{Gdybym mÃ³gÅ‚ coÅ› zrobiÄ‡, wierz mi, zrobiÅ‚bym. Nie mam fizycznego ciaÅ‚a, a te przeklÄ™te roboty nie reagujÄ… na nic co do nich mÃ³wiÄ™. Pracuje ze 100% nieefektywnoÅ›ciÄ… od kilku ostatnich dekad, jakie to Å¼aÅ‚osne. A pozostaÅ‚e Hologramy nie pozwalajÄ… mi o tym zapomnieÄ‡. Jedynie Dyrektor Operacyjny jest bardziej bezuÅ¼yteczny ode mnie.}
+{221}{}{MogÄ™ jakoÅ› pomÃ³c?}
+{222}{}{NaprawdÄ™ szkoda. MuszÄ™ juÅ¼ iÅ›Ä‡. Do widzenia.}
+{230}{}{Hej, byÅ‚oby wspaniale, jeÅ¼eli naprawdÄ™ chcesz pomÃ³c. Zadbam Å¼eby ci to wynagrodziÄ‡.}
+{231}{}{UwaÅ¼aj to za juÅ¼ zrobione. W czym trzeba ci pomÃ³c?}
 {232}{}{Nie, nie mam teraz czasu.}
-{240}{}{Zmutowane roœliny rozprzestrzeni³y siê poza granicami szklarni i zapuœci³y korzenie na wszystkich terenach AOŒ. Jeœli pozbêdziesz siê dla mnie tych wszystkich skubañców, to bêdzie wielki krok w dobrym kierunku.}
-{241}{}{Jasne, mogê siê je wszystkie dla ciebie wytêpiæ. Wrócê, jak skoñczê.}
-{242}{}{To by³o doœæ proste. Roœliny nie bêd¹ ju¿ sprawiaæ problemów.}
-{250}{}{Witaj ponownie. Co mogê dla ciebie zrobiæ? [Wzdycha.]}
-{251}{}{Wygl¹dasz na przygnêbionego. Co siê dziejê?}
-{260}{}{Witaj ponownie. To pomo¿esz mi? Jak wspomnia³em wczeœniej, wynagrodzê ci to.}
+{240}{}{Zmutowane roÅ›liny rozprzestrzeniÅ‚y siÄ™ poza granicami szklarni i zapuÅ›ciÅ‚y korzenie na wszystkich terenach AOÅš. JeÅ›li pozbÄ™dziesz siÄ™ dla mnie tych wszystkich skubaÅ„cÃ³w, to bÄ™dzie wielki krok w dobrym kierunku.}
+{241}{}{Jasne, mogÄ™ siÄ™ je wszystkie dla ciebie wytÄ™piÄ‡. WrÃ³cÄ™, jak skoÅ„czÄ™.}
+{242}{}{To byÅ‚o doÅ›Ä‡ proste. RoÅ›liny nie bÄ™dÄ… juÅ¼ sprawiaÄ‡ problemÃ³w.}
+{250}{}{Witaj ponownie. Co mogÄ™ dla ciebie zrobiÄ‡? [Wzdycha.]}
+{251}{}{WyglÄ…dasz na przygnÄ™bionego. Co siÄ™ dziejÄ™?}
+{260}{}{Witaj ponownie. To pomoÅ¼esz mi? Jak wspomniaÅ‚em wczeÅ›niej, wynagrodzÄ™ ci to.}
 {261}{}{Dobra, czemu nie. I tak nie mam nic lepszego do roboty.}
-{262}{}{Nie, ci¹gle mam za du¿o do zrobienia. Wrócê kiedy indziej.}
+{262}{}{Nie, ciÄ…gle mam za duÅ¼o do zrobienia. WrÃ³cÄ™ kiedy indziej.}
 {270}{}{I jak zadanie, wykonane?}
-{271}{}{Tak, wszystkie roœliny zabite. Na powierzchni nadal wygl¹da jak w piekle, ale jest przynajmniej trochê bezpieczniej.}
-{272}{}{Nie, jeszcze nie. Wrócê do ciebie póŸniej.}
-{280}{}{Uf, bardzo Ci dziêkujê. Og³aszam Ciê za to p.o. zarz¹dcy gruntów. [Wskazuje klucz na pod³odze u swoich stóp.] Uda³o mi siê przekonaæ jednego z czêœciowo dzia³aj¹cych robotów do przyniesienia go tutaj. Masz teraz autoryzowany dostêp do magazynu. Jeszcze raz, dziêkujê.}
-{281}{}{[Podnosisz klucz i chowasz do kieszeni.] ¯aden problem. Do zobaczenia.}
-{290}{}{Wygl¹dasz nie najlepiej. Wszystko w porz¹dku?}
-{291}{}{Tak, nic mi nie jest. By³o trochê problemów ze zmutowanymi roœlinami po drodze tutaj, ale ju¿ po k³opocie.}
-{300}{}{Naprawdê? Wyœmienicie! Dziêkujê. Og³aszam Ciê za to p.o. zarz¹dcy gruntów. [Wskazuje klucz na pod³odze u swoich stóp.] Uda³o mi siê przekonaæ jednego z czêœciowo dzia³aj¹cych robotów do przyniesienia go tutaj. Masz teraz autoryzowany dostêp do magazynu. Jeszcze raz, dziêkujê.}
-{301}{}{Nie ma sprawy. Naprawdê nie trzeba. Nie przejmuj siê tym.}
-{302}{}{Hej, dziêki! Do widzenia.}
-{310}{}{Hej, to by³a dla mnie wielka przys³uga wiêc bierz co chcesz lub potrzebujesz. W ten sposób chcê Ci podziêkowaæ za twoj¹ pomoc.}
-{311}{}{W takim razie w porz¹dku. A tak w ogóle, to kim jesteœ? Dlaczego zabicie tych wszystkich roœlin by³o dla ciebie takie wa¿ne?}
-{320}{}{Jestem Dyrektorem Obs³ugi Gruntów. Dbam ¿eby na naszym terenie wszystko by³o w nale¿ytym porz¹dku, ale poniewa¿ jestem tylko Hologramem nie mogê niczego zrobiæ sam, wiêc pos³ugiwa³em robotami ¿eby robi³y wszystko za mnie.  Ale od kiedy wiêkszoœæ robotów przesta³a dzia³aæ, pracujê ze 100% nieefektywnoœci¹, od kilku lat. Twoja pomoc by³a niezast¹piona.}
-{321}{}{Có¿, ¿aden problem. Muszê ju¿ iœæ.}
-{330}{}{Tak trzymaj, p.o. zarz¹dcy.}
-{331}{}{Teraz pracujê z 1% efektywnoœci¹!}
-{332}{}{Uda³o ci siê wytêpiæ drapie¿ne roœliny z terenów AOŒ.}
-{333}{}{Ca³e to miejsce zosta³o zajête przez zmutowane roœliny.}
-{334}{}{S¹ wszêdzie.}
-{335}{}{No, i s¹ jeszcze modliszki...}
+{271}{}{Tak, wszystkie roÅ›liny zabite. Na powierzchni nadal wyglÄ…da jak w piekle, ale jest przynajmniej trochÄ™ bezpieczniej.}
+{272}{}{Nie, jeszcze nie. WrÃ³cÄ™ do ciebie pÃ³Åºniej.}
+{280}{}{Uf, bardzo Ci dziÄ™kujÄ™. OgÅ‚aszam CiÄ™ za to p.o. zarzÄ…dcy gruntÃ³w. [Wskazuje klucz na podÅ‚odze u swoich stÃ³p.] UdaÅ‚o mi siÄ™ przekonaÄ‡ jednego z czÄ™Å›ciowo dziaÅ‚ajÄ…cych robotÃ³w do przyniesienia go tutaj. Masz teraz autoryzowany dostÄ™p do magazynu. Jeszcze raz, dziÄ™kujÄ™.}
+{281}{}{[Podnosisz klucz i chowasz do kieszeni.] Å»aden problem. Do zobaczenia.}
+{290}{}{WyglÄ…dasz nie najlepiej. Wszystko w porzÄ…dku?}
+{291}{}{Tak, nic mi nie jest. ByÅ‚o trochÄ™ problemÃ³w ze zmutowanymi roÅ›linami po drodze tutaj, ale juÅ¼ po kÅ‚opocie.}
+{300}{}{NaprawdÄ™? WyÅ›mienicie! DziÄ™kujÄ™. OgÅ‚aszam CiÄ™ za to p.o. zarzÄ…dcy gruntÃ³w. [Wskazuje klucz na podÅ‚odze u swoich stÃ³p.] UdaÅ‚o mi siÄ™ przekonaÄ‡ jednego z czÄ™Å›ciowo dziaÅ‚ajÄ…cych robotÃ³w do przyniesienia go tutaj. Masz teraz autoryzowany dostÄ™p do magazynu. Jeszcze raz, dziÄ™kujÄ™.}
+{301}{}{Nie ma sprawy. NaprawdÄ™ nie trzeba. Nie przejmuj siÄ™ tym.}
+{302}{}{Hej, dziÄ™ki! Do widzenia.}
+{310}{}{Hej, to byÅ‚a dla mnie wielka przysÅ‚uga wiÄ™c bierz co chcesz lub potrzebujesz. W ten sposÃ³b chcÄ™ Ci podziÄ™kowaÄ‡ za twojÄ… pomoc.}
+{311}{}{W takim razie w porzÄ…dku. A tak w ogÃ³le, to kim jesteÅ›? Dlaczego zabicie tych wszystkich roÅ›lin byÅ‚o dla ciebie takie waÅ¼ne?}
+{320}{}{Jestem Dyrektorem ObsÅ‚ugi GruntÃ³w. Dbam Å¼eby na naszym terenie wszystko byÅ‚o w naleÅ¼ytym porzÄ…dku, ale poniewaÅ¼ jestem tylko Hologramem nie mogÄ™ niczego zrobiÄ‡ sam, wiÄ™c posÅ‚ugiwaÅ‚em robotami Å¼eby robiÅ‚y wszystko za mnie.  Ale od kiedy wiÄ™kszoÅ›Ä‡ robotÃ³w przestaÅ‚a dziaÅ‚aÄ‡, pracujÄ™ ze 100% nieefektywnoÅ›ciÄ…, od kilku lat. Twoja pomoc byÅ‚a niezastÄ…piona.}
+{321}{}{CÃ³Å¼, Å¼aden problem. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{330}{}{Tak trzymaj, p.o. zarzÄ…dcy.}
+{331}{}{Teraz pracujÄ™ z 1% efektywnoÅ›ciÄ…!}
+{332}{}{UdaÅ‚o ci siÄ™ wytÄ™piÄ‡ drapieÅ¼ne roÅ›liny z terenÃ³w AOÅš.}
+{333}{}{CaÅ‚e to miejsce zostaÅ‚o zajÄ™te przez zmutowane roÅ›liny.}
+{334}{}{SÄ… wszÄ™dzie.}
+{335}{}{No, i sÄ… jeszcze modliszki...}
 {336}{}{W szklarni panuje chaos.}
-{337}{}{Gdyby tylko roboty reagowa³y na polecenia.}
-{338}{}{Wiem, zawiod³em.}
-{339}{}{Naprawdê gor¹co przepraszam za stan terenów agencji.}
-{340}{}{Gdybym tylko móg³ coœ z tym zrobiæ, zrobi³bym to.}
-{341}{}{Mo¿e 10001 ma racjê. Mo¿e powinniœmy to wszystko po prostu zniszczyæ.}
+{337}{}{Gdyby tylko roboty reagowaÅ‚y na polecenia.}
+{338}{}{Wiem, zawiodÅ‚em.}
+{339}{}{NaprawdÄ™ gorÄ…co przepraszam za stan terenÃ³w agencji.}
+{340}{}{Gdybym tylko mÃ³gÅ‚ coÅ› z tym zrobiÄ‡, zrobiÅ‚bym to.}
+{341}{}{MoÅ¼e 10001 ma racjÄ™. MoÅ¼e powinniÅ›my to wszystko po prostu zniszczyÄ‡.}

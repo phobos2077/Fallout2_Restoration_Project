@@ -5,52 +5,52 @@
         """"""""""""""""""""""""""""""""""""""""
                           Projekt: Experiment zur Organ-Roboter-Synthese}
 {104}{}{}
-{105}{}{Systeme überprüfen}
+{105}{}{Systeme Ã¼berprÃ¼fen}
 {106}{}{Roboter aktivieren}
 {107}{}{Beenden}
-{108}{}{Hä?}
+{108}{}{HÃ¤?}
 {109}{}{[Du kannst nicht lesen, was auf dem Monitor steht.]}
 {110}{}{Programm beendet}
 {111}{}{Beenden}
 {112}{}{Ups!}
 {113}{}{Bitte warten...
-                                                           Roboterträgerstruktur - OK  
-                                     Behälter für Bio-Gel - vollständig befüllt 
+                                                           RobotertrÃ¤gerstruktur - OK  
+                                     BehÃ¤lter fÃ¼r Bio-Gel - vollstÃ¤ndig befÃ¼llt 
                        Organaufbewahrungseinheit - reagiert  
                           Bereit zum Aktivieren.}
 {114}{}{Bitte warten...
-                                                           Roboterträgerstruktur - OK 
-                                      Behälter für Bio–Gel - vollständig befüllt           
+                                                           RobotertrÃ¤gerstruktur - OK 
+                                      BehÃ¤lter fÃ¼r Bioâ€“Gel - vollstÃ¤ndig befÃ¼llt           
 		             Organaufbewahrungseinheit - nicht vorhanden  
                 Aktivierung nicht empfohlen.}
 {115}{}{Bitte warten...
-                                                           Roboterträgerstruktur - Motivator austauschen
-              Behälter für Bio–Gel - vollständig befüllt 
+                                                           RobotertrÃ¤gerstruktur - Motivator austauschen
+              BehÃ¤lter fÃ¼r Bioâ€“Gel - vollstÃ¤ndig befÃ¼llt 
                        Organaufbewahrungseinheit - reagiert 
                            Aktivierung nicht empfohlen.}
 {116}{}{Bitte warten...
-                                                           Roboterträgerstruktur - Motivator austauschen 
-			             Behälter für Bio–Gel - voll 
+                                                           RobotertrÃ¤gerstruktur - Motivator austauschen 
+			             BehÃ¤lter fÃ¼r Bioâ€“Gel - voll 
                   Organaufbewahrungseinheit - nicht vorhanden
                   Aktivierung nicht empfohlen.}
 {117}{}{Bitte warten...
-                                                           Roboterträgerstruktur - OK  
-                                     Behälter für Bio–Gel - nachfüllen erforderlich
+                                                           RobotertrÃ¤gerstruktur - OK  
+                                     BehÃ¤lter fÃ¼r Bioâ€“Gel - nachfÃ¼llen erforderlich
                    Organaufbewahrungseinheit - reagiert
                             Aktivierung nicht empfohlen.}
 {118}{}{Bitte warten...
-                                                           Roboterträgerstruktur - OK  
-                                     Behälter für Bio–Gel - nachfüllen erforderlich 
+                                                           RobotertrÃ¤gerstruktur - OK  
+                                     BehÃ¤lter fÃ¼r Bioâ€“Gel - nachfÃ¼llen erforderlich 
 		                  Organaufbewahrungseinheit - nicht vorhanden 
                  Aktivierung nicht empfohlen.}
 {119}{}{Bitte warten...
-                                                           Roboterträgerstruktur - Motivator austauschen 
-			             Behälter für Bio–Gel - nachfüllen erforderlich 
+                                                           RobotertrÃ¤gerstruktur - Motivator austauschen 
+			             BehÃ¤lter fÃ¼r Bioâ€“Gel - nachfÃ¼llen erforderlich 
                   Organaufbewahrungseinheit - reagiert
                             Aktivierung nicht empfohlen.}
 {120}{}{Bitte warten...
-                                                           Roboterträgerstruktur - Motivator austauschen 
-			             Behälter für Bio–Gel - nachfüllen erforderlich 
+                                                           RobotertrÃ¤gerstruktur - Motivator austauschen 
+			             BehÃ¤lter fÃ¼r Bioâ€“Gel - nachfÃ¼llen erforderlich 
                   Organaufbewahrungseinheit - nicht vorhanden
                   Aktivierung nicht empfohlen.}
 {121}{}{}
@@ -58,7 +58,7 @@
 {124}{}{}
 {153}{}{Startsequenz einleiten}
 {154}{}{Beenden}
-{155}{}{Sicherheitsprotokoll deaktiviert                                     Gerät in Betrieb.}
+{155}{}{Sicherheitsprotokoll deaktiviert                                     GerÃ¤t in Betrieb.}
 {156}{}{}
 {157}{}{}
 {158}{}{}
@@ -69,10 +69,10 @@
 {163}{}{}
 {164}{}{Anlaufsequenz initialisieren}
 {165}{}{                                           Leistungspegel - Sollwerte}
-{166}{}{                                          Synchronisationsverhältnis - 75%}
-{167}{}{                                  Gerät ist betriebsbereit.}
-{170}{}{                                          Synchronisationsverhältnis - 50%}
-{174}{}{                                          Synchronisationsverhältnis - 10%}
+{166}{}{                                          SynchronisationsverhÃ¤ltnis - 75%}
+{167}{}{                                  GerÃ¤t ist betriebsbereit.}
+{170}{}{                                          SynchronisationsverhÃ¤ltnis - 50%}
+{174}{}{                                          SynchronisationsverhÃ¤ltnis - 10%}
 {176}{}{Beenden}
 {200}{}{ kann nicht lesen, was auf dem Monitor steht.}
 {300}{}{Der Computer scheint mit einer Art Abwehrmechanismus ausgestattet zu sein.}
@@ -81,5 +81,5 @@
                                          Programm unterbrochen
                                               Ladevorgang... 
                                                         Programm fortsetzen 
-                                               Synchronisationsverhältnis - 100% 
-                                Gerät ist betriebsbereit.}
+                                               SynchronisationsverhÃ¤ltnis - 100% 
+                                GerÃ¤t ist betriebsbereit.}

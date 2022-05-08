@@ -1,21 +1,21 @@
-{100}{}{Widzisz jednego z zaniedbanych mieszkañców Podmurza.}
-{101}{}{¯ycie chyba nie oszczêdza³o tej osoby.}
-{102}{}{Hej, na co siê gapisz?}
-{103}{}{£adny dzieñ... dla wszystkich oprócz mnie.}
-{104}{}{Lepiej siê tu nie krêæ.}
-{105}{}{Ciekawe, czy kiedyœ wpuszcz¹ mnie do miasta.}
-{106}{}{Gdzieœ mi zgin¹³ ostatni dolar...}
+{100}{}{Widzisz jednego z zaniedbanych mieszkaÅ„cÃ³w Podmurza.}
+{101}{}{Å»ycie chyba nie oszczÄ™dzaÅ‚o tej osoby.}
+{102}{}{Hej, na co siÄ™ gapisz?}
+{103}{}{Åadny dzieÅ„... dla wszystkich oprÃ³cz mnie.}
+{104}{}{Lepiej siÄ™ tu nie krÄ™Ä‡.}
+{105}{}{Ciekawe, czy kiedyÅ› wpuszczÄ… mnie do miasta.}
+{106}{}{GdzieÅ› mi zginÄ…Å‚ ostatni dolar...}
 {107}{}{Fajne masz ciuchy.}
-{108}{}{Da siê tu wy¿yæ... tylko trzeba uwa¿aæ, ¿eby nie z³amaæ prawa.}
-{109}{}{Lepsze to ni¿ ¿ycie na Pustkowiach...}
-{110}{}{IdŸ sobie.}
-{111}{}{Forsa mi siê koñczy...}
-{112}{}{Wynoœ siê, s³yszysz?}
-{113}{}{ZejdŸ mi z oczu.}
-{114}{}{Wszyscy jesteœcie tacy sami.}
-{115}{}{Odczep siê.}
-{116}{}{IdŸ st¹d.}
-{117}{}{Zajmij siê sob¹.}
+{108}{}{Da siÄ™ tu wyÅ¼yÄ‡... tylko trzeba uwaÅ¼aÄ‡, Å¼eby nie zÅ‚amaÄ‡ prawa.}
+{109}{}{Lepsze to niÅ¼ Å¼ycie na Pustkowiach...}
+{110}{}{IdÅº sobie.}
+{111}{}{Forsa mi siÄ™ koÅ„czy...}
+{112}{}{WynoÅ› siÄ™, sÅ‚yszysz?}
+{113}{}{ZejdÅº mi z oczu.}
+{114}{}{Wszyscy jesteÅ›cie tacy sami.}
+{115}{}{Odczep siÄ™.}
+{116}{}{IdÅº stÄ…d.}
+{117}{}{Zajmij siÄ™ sobÄ….}
 {118}{}{Nie chcemy tu takich jak ty.}
-{119}{}{Brama jest tam. Pospiesz siê, bo ci j¹ zamkn¹.}
-{120}{}{Pustynny œmieæ...}
+{119}{}{Brama jest tam. Pospiesz siÄ™, bo ci jÄ… zamknÄ….}
+{120}{}{Pustynny Å›mieÄ‡...}

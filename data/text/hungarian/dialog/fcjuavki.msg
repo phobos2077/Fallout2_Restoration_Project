@@ -1,132 +1,132 @@
-{100}{}{Egy bámulatosan összeill? párt látsz.}
-{101}{}{New Reno két legnotóriusabb filmsztárjához, Juan Cruzhoz és Vikki Goldman-hez van szerencséd.}
-{102}{}{Egy sötét hajú férfi és egy sz?ke hajú n? áll it. Mindketten nagyon vonzó jelenségek. Csak úgy sugárzik bel?lük a pajzán "jer közelebb" invitálás.}
-{103}{}{A férfi: Helló! Juan Cruz vagyok! A n?: Én pedig Vikki Goldman! Mindketten: Hírességek vagyunk és a Hubológia követ?i. Legyen oly kedves figyelembe venni, hogy bármely hasonlóság emberekkel, netán szervezetekkel, legyenek él?k vagy holtak, pusztán a véletlen m?ve.}
+{100}{}{Egy bÃ¡mulatosan Ã¶sszeill? pÃ¡rt lÃ¡tsz.}
+{101}{}{New Reno kÃ©t legnotÃ³riusabb filmsztÃ¡rjÃ¡hoz, Juan Cruzhoz Ã©s Vikki Goldman-hez van szerencsÃ©d.}
+{102}{}{Egy sÃ¶tÃ©t hajÃº fÃ©rfi Ã©s egy sz?ke hajÃº n? Ã¡ll it. Mindketten nagyon vonzÃ³ jelensÃ©gek. Csak Ãºgy sugÃ¡rzik bel?lÃ¼k a pajzÃ¡n "jer kÃ¶zelebb" invitÃ¡lÃ¡s.}
+{103}{}{A fÃ©rfi: HellÃ³! Juan Cruz vagyok! A n?: Ã‰n pedig Vikki Goldman! Mindketten: HÃ­ressÃ©gek vagyunk Ã©s a HubolÃ³gia kÃ¶vet?i. Legyen oly kedves figyelembe venni, hogy bÃ¡rmely hasonlÃ³sÃ¡g emberekkel, netÃ¡n szervezetekkel, legyenek Ã©l?k vagy holtak, pusztÃ¡n a vÃ©letlen m?ve.}
 {104}{}{Ah? Cluz? Doldnin?}
-{105}{}{Maguk mit?l hírességek?}
-{106}{}{Milyen hasonlóságról beszélnek itt nekem?}
+{105}{}{Maguk mit?l hÃ­ressÃ©gek?}
+{106}{}{Milyen hasonlÃ³sÃ¡grÃ³l beszÃ©lnek itt nekem?}
 {107}{}{Hubologista akarok lenni. Hol lehet felcsapni?}
-{108}{}{Vikki kedves, Dave H. szerelmes magába.}
+{108}{}{Vikki kedves, Dave H. szerelmes magÃ¡ba.}
 {109}{}{Nagyszer?! Most mennem kell.}
-{110}{}{A férfi: A pusztaság szegény gyermeke... A n?: Talán egy behangolás segítene... A férfi: Igen, megkérdem magától: szeretne egy behangolást?}
+{110}{}{A fÃ©rfi: A pusztasÃ¡g szegÃ©ny gyermeke... A n?: TalÃ¡n egy behangolÃ¡s segÃ­tene... A fÃ©rfi: Igen, megkÃ©rdem magÃ¡tÃ³l: szeretne egy behangolÃ¡st?}
 {111}{}{Ige'!}
 {112}{}{Nem!}
-{113}{}{A n?: Szerfelett remélem, hogy ez segített. Jó szerencse kísérje útját!}
-{114}{}{Viszonlátására!}
-{115}{}{De bizonyám!}
-{116}{}{A férfi: Ha nem fogadja el a segítségünket... A n?: ...akkor nem segíthetünk magán. Minden jót!}
-{117}{}{Üdv!}
-{118}{}{A férfi: Látja? A Hub tanításai megint bebizonyították értékállóságukat!}
-{119}{}{Volna néhány kérdésem.}
-{120}{}{Kösz! Viszlát!}
+{113}{}{A n?: Szerfelett remÃ©lem, hogy ez segÃ­tett. JÃ³ szerencse kÃ­sÃ©rje ÃºtjÃ¡t!}
+{114}{}{ViszonlÃ¡tÃ¡sÃ¡ra!}
+{115}{}{De bizonyÃ¡m!}
+{116}{}{A fÃ©rfi: Ha nem fogadja el a segÃ­tsÃ©gÃ¼nket... A n?: ...akkor nem segÃ­thetÃ¼nk magÃ¡n. Minden jÃ³t!}
+{117}{}{Ãœdv!}
+{118}{}{A fÃ©rfi: LÃ¡tja? A Hub tanÃ­tÃ¡sai megint bebizonyÃ­tottÃ¡k Ã©rtÃ©kÃ¡llÃ³sÃ¡gukat!}
+{119}{}{Volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{120}{}{KÃ¶sz! ViszlÃ¡t!}
 {121}{}{Her: Why, we were in the movie business in New Reno. We made hundreds of films, many of them classics, like "Top Bun," "Frisky Bizness," and "Days of Rubber". That's what makes us celebrities.}
-{122}{}{A férfi: De hát ugyebár maga is az iparban dolgozik, nem hinném, hogy ez újdonságszámba menne.}
-{123}{}{Örülök, hogy végre arcokat láthatok a nevek mögött.}
-{124}{}{Kit érdekel, hogy MAGUK támogatják-e vagy sem? Nem hozhatom meg a saját döntésemet?}
-{125}{}{Értem. Nos, feltennék még néhány kérdést maguknak.}
-{126}{}{Kösz, viszlát!}
-{127}{}{A n?: Ó, igen, határozottan a saját döntéseit kell meghoznia. A férfi: És a Hub legújabb könyve alapján megtanulhatja, miképp hozza meg a MEGFELEL? döntését!}
-{128}{}{A legújabb könyve alapján? Nem halt meg a szerz??}
-{129}{}{A "megfelel?" döntés... hogyne. Mi a helyzet a szabad akarattal?}
+{122}{}{A fÃ©rfi: De hÃ¡t ugyebÃ¡r maga is az iparban dolgozik, nem hinnÃ©m, hogy ez ÃºjdonsÃ¡gszÃ¡mba menne.}
+{123}{}{Ã–rÃ¼lÃ¶k, hogy vÃ©gre arcokat lÃ¡thatok a nevek mÃ¶gÃ¶tt.}
+{124}{}{Kit Ã©rdekel, hogy MAGUK tÃ¡mogatjÃ¡k-e vagy sem? Nem hozhatom meg a sajÃ¡t dÃ¶ntÃ©semet?}
+{125}{}{Ã‰rtem. Nos, feltennÃ©k mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st maguknak.}
+{126}{}{KÃ¶sz, viszlÃ¡t!}
+{127}{}{A n?: Ã“, igen, hatÃ¡rozottan a sajÃ¡t dÃ¶ntÃ©seit kell meghoznia. A fÃ©rfi: Ã‰s a Hub legÃºjabb kÃ¶nyve alapjÃ¡n megtanulhatja, mikÃ©pp hozza meg a MEGFELEL? dÃ¶ntÃ©sÃ©t!}
+{128}{}{A legÃºjabb kÃ¶nyve alapjÃ¡n? Nem halt meg a szerz??}
+{129}{}{A "megfelel?" dÃ¶ntÃ©s... hogyne. Mi a helyzet a szabad akarattal?}
 {130}{}{Nagyszer?en hangzik. Hogy lehet csatlakozni?}
-{131}{}{Hogyne. Volna még néhány érdekl?d? kérdésem.}
-{132}{}{Szuper. Viszlát!}
-{133}{}{A férfi: További kérdésekre kiváncsi? Mi tudjuk a választ! Természetesen a Nagy Kerék kegyelméb?l.}
-{134}{}{Milyen módon csatlakozhatnék?}
-{135}{}{Mit?l lettek maguk hírességek?}
-{136}{}{Nem inkább a hírességek pátyolgatása nélkül kéne meghoznom a döntésemet?}
-{137}{}{Milyen módon csatlakozhatnék?}
-{138}{}{Vikki kedves, Dave H. szerelmes magába.}
-{139}{}{Nem, nincs több kérdésem.}
-{140}{}{A n?: [üres, fagyos arccal néz] A férfi: Köszönjük.}
-{141}{}{Ööö... Volna néhány kérdésem.}
-{142}{}{Részemr?l ennyi lenne! Minden jót maguknak!}
-{143}{}{A férfi: Meghalt? Haha! Mi ehelyett azt szeretjük mondogatni, hogy valamennyi neurodinját behangolta, és csatlakozott a Csillagbéli Atyához. A n?: Rengeteg feljegyzése és megkezdett kézirata van a birtokunkban, melyek segítségével tovább terjeszthetjük a Hub igéjét. A férfi: Példának okáért van egy cetlink, amin ez áll: "2 tucat tojás/tej/WC P.". Egyértelm?, hogy nagy fontossággal bír. Mindenkinek hallania kell.}
-{144}{}{Ööö... úgy bizony. Még kérdeznék, ha nem gond.}
-{145}{}{Micsoda? Azért mert egy tökkelütött lefirkantott valamit, egyb?l publikálni kell mindent?}
-{146}{}{Igen! Dícsértessék a Hub! Látom a fényt! Milyen módon csatlakozhatnék?}
-{147}{}{Szuper. Viszlát!}
-{148}{}{A férfi: Igen. Egyesek azt gondolhatják, hogy mi hasonlítunk valakikre. A n?: Az igazság viszont az, hogy ez csakis a véletlen m?ve.}
-{149}{}{H?, hát bizony megkönnyebültem... Mellesleg volna néhány kérdésem.}
-{150}{}{Fogom. Minden jót!}
-{151}{}{A n?: Természetesen mindenki a szabad akaratából dönt. A maga döntésén múlik, mennyire szennyezi be a neurodinjait a világ mocskával. A férfi: A maga döntésén múlik, hogy örömnélküli, céltalan életet él-e az élet forgatagában. Mindketten: De van másik út is, a Nagy Kerék tanításán keresztül kiszélesítheti az életr?l alkotott fogalmait.}
+{131}{}{Hogyne. Volna mÃ©g nÃ©hÃ¡ny Ã©rdekl?d? kÃ©rdÃ©sem.}
+{132}{}{Szuper. ViszlÃ¡t!}
+{133}{}{A fÃ©rfi: TovÃ¡bbi kÃ©rdÃ©sekre kivÃ¡ncsi? Mi tudjuk a vÃ¡laszt! TermÃ©szetesen a Nagy KerÃ©k kegyelmÃ©b?l.}
+{134}{}{Milyen mÃ³don csatlakozhatnÃ©k?}
+{135}{}{Mit?l lettek maguk hÃ­ressÃ©gek?}
+{136}{}{Nem inkÃ¡bb a hÃ­ressÃ©gek pÃ¡tyolgatÃ¡sa nÃ©lkÃ¼l kÃ©ne meghoznom a dÃ¶ntÃ©semet?}
+{137}{}{Milyen mÃ³don csatlakozhatnÃ©k?}
+{138}{}{Vikki kedves, Dave H. szerelmes magÃ¡ba.}
+{139}{}{Nem, nincs tÃ¶bb kÃ©rdÃ©sem.}
+{140}{}{A n?: [Ã¼res, fagyos arccal nÃ©z] A fÃ©rfi: KÃ¶szÃ¶njÃ¼k.}
+{141}{}{Ã–Ã¶Ã¶... Volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{142}{}{RÃ©szemr?l ennyi lenne! Minden jÃ³t maguknak!}
+{143}{}{A fÃ©rfi: Meghalt? Haha! Mi ehelyett azt szeretjÃ¼k mondogatni, hogy valamennyi neurodinjÃ¡t behangolta, Ã©s csatlakozott a CsillagbÃ©li AtyÃ¡hoz. A n?: Rengeteg feljegyzÃ©se Ã©s megkezdett kÃ©zirata van a birtokunkban, melyek segÃ­tsÃ©gÃ©vel tovÃ¡bb terjeszthetjÃ¼k a Hub igÃ©jÃ©t. A fÃ©rfi: PÃ©ldÃ¡nak okÃ¡Ã©rt van egy cetlink, amin ez Ã¡ll: "2 tucat tojÃ¡s/tej/WC P.". EgyÃ©rtelm?, hogy nagy fontossÃ¡ggal bÃ­r. Mindenkinek hallania kell.}
+{144}{}{Ã–Ã¶Ã¶... Ãºgy bizony. MÃ©g kÃ©rdeznÃ©k, ha nem gond.}
+{145}{}{Micsoda? AzÃ©rt mert egy tÃ¶kkelÃ¼tÃ¶tt lefirkantott valamit, egyb?l publikÃ¡lni kell mindent?}
+{146}{}{Igen! DÃ­csÃ©rtessÃ©k a Hub! LÃ¡tom a fÃ©nyt! Milyen mÃ³don csatlakozhatnÃ©k?}
+{147}{}{Szuper. ViszlÃ¡t!}
+{148}{}{A fÃ©rfi: Igen. Egyesek azt gondolhatjÃ¡k, hogy mi hasonlÃ­tunk valakikre. A n?: Az igazsÃ¡g viszont az, hogy ez csakis a vÃ©letlen m?ve.}
+{149}{}{H?, hÃ¡t bizony megkÃ¶nnyebÃ¼ltem... Mellesleg volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{150}{}{Fogom. Minden jÃ³t!}
+{151}{}{A n?: TermÃ©szetesen mindenki a szabad akaratÃ¡bÃ³l dÃ¶nt. A maga dÃ¶ntÃ©sÃ©n mÃºlik, mennyire szennyezi be a neurodinjait a vilÃ¡g mocskÃ¡val. A fÃ©rfi: A maga dÃ¶ntÃ©sÃ©n mÃºlik, hogy Ã¶rÃ¶mnÃ©lkÃ¼li, cÃ©ltalan Ã©letet Ã©l-e az Ã©let forgatagÃ¡ban. Mindketten: De van mÃ¡sik Ãºt is, a Nagy KerÃ©k tanÃ­tÃ¡sÃ¡n keresztÃ¼l kiszÃ©lesÃ­theti az Ã©letr?l alkotott fogalmait.}
 {152}{}{Mi az a Neurodin?}
-{153}{}{Nagyszer?en hangzik. Milyen módon csatlakozhatnék?}
-{154}{}{Hmm. Asszem, maradok az élet forgatagánál.}
+{153}{}{Nagyszer?en hangzik. Milyen mÃ³don csatlakozhatnÃ©k?}
+{154}{}{Hmm. Asszem, maradok az Ã©let forgatagÃ¡nÃ¡l.}
 {155}{}{Szupi. Sajnos, most rohannom kell.}
-{156}{}{A n?: Tökkelütöttnek meri nevezni a Hub-ot (meghajol a képe el?tt)? Itt? Az ? tanításának szentelt fellegvárban? A férfi: Takarodjon innen! Ha bárkihez is hozzászól kifelé menet, meghal. Hitetlen pép! Mindketten: Na, ett?l is megszabadultunk!}
-{157}{}{Akkor talán jobb lesz, ha magam ugrom rájuk. Amúgy se tetszettek a maguk filmjei. Nézzük, hogy játszanak el egy meghalós jelenetet!}
-{158}{}{A maguk filmjei egyszer?en szarok! Jó napot!}
-{159}{}{Viszlát!}
-{160}{}{A n?: A neurodinok a Nagy Háború során elpusztult lelkek esszenciája, egyfolytában a maga spirituális esszenciáját szennyezik és rossz útra terelik magát. A férfi: Ha többet szeretne tudni a tanításasinkról, csatlakoznia kell az egyházunkhoz!}
-{161}{}{Igen, ez páratlan ajánlatnak hangzik!}
-{162}{}{Úgy hallottam, ez science fiction, de azt nem tudtam, milyen mértékben. Az a Hub most már egyértelm?, hogy tökkelütött volt.}
-{163}{}{Hát az a helyzet, hogy kiváncsivá tettek, mire juthatok ezzel. Belépnék.}
-{164}{}{Hmm. Nah, most nem. Ett?l eltekintve volna néhány kérdésem.}
-{165}{}{Ömm... mennem kell. Viszlát!}
-{166}{}{A férfi: Ez igen nyitott gondolkodásra vall magától. A n?: Nagyon megvilágosodott. A férfi: Mi megosztjuk a véleményünket az emberekkel - és ha sztár mivoltunk több hív?t képes vonzani, nem vonakodunk bevetni a nemes cél érdekében.}
-{167}{}{Volna még néhány egyéb kérdésem.}
-{168}{}{Érdekelne, hogyan csatlakozhatnék.}
-{169}{}{Értem. Hát akkor isten veled.}
+{156}{}{A n?: TÃ¶kkelÃ¼tÃ¶ttnek meri nevezni a Hub-ot (meghajol a kÃ©pe el?tt)? Itt? Az ? tanÃ­tÃ¡sÃ¡nak szentelt fellegvÃ¡rban? A fÃ©rfi: Takarodjon innen! Ha bÃ¡rkihez is hozzÃ¡szÃ³l kifelÃ© menet, meghal. Hitetlen pÃ©p! Mindketten: Na, ett?l is megszabadultunk!}
+{157}{}{Akkor talÃ¡n jobb lesz, ha magam ugrom rÃ¡juk. AmÃºgy se tetszettek a maguk filmjei. NÃ©zzÃ¼k, hogy jÃ¡tszanak el egy meghalÃ³s jelenetet!}
+{158}{}{A maguk filmjei egyszer?en szarok! JÃ³ napot!}
+{159}{}{ViszlÃ¡t!}
+{160}{}{A n?: A neurodinok a Nagy HÃ¡borÃº sorÃ¡n elpusztult lelkek esszenciÃ¡ja, egyfolytÃ¡ban a maga spirituÃ¡lis esszenciÃ¡jÃ¡t szennyezik Ã©s rossz Ãºtra terelik magÃ¡t. A fÃ©rfi: Ha tÃ¶bbet szeretne tudni a tanÃ­tÃ¡sasinkrÃ³l, csatlakoznia kell az egyhÃ¡zunkhoz!}
+{161}{}{Igen, ez pÃ¡ratlan ajÃ¡nlatnak hangzik!}
+{162}{}{Ãšgy hallottam, ez science fiction, de azt nem tudtam, milyen mÃ©rtÃ©kben. Az a Hub most mÃ¡r egyÃ©rtelm?, hogy tÃ¶kkelÃ¼tÃ¶tt volt.}
+{163}{}{HÃ¡t az a helyzet, hogy kivÃ¡ncsivÃ¡ tettek, mire juthatok ezzel. BelÃ©pnÃ©k.}
+{164}{}{Hmm. Nah, most nem. Ett?l eltekintve volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{165}{}{Ã–mm... mennem kell. ViszlÃ¡t!}
+{166}{}{A fÃ©rfi: Ez igen nyitott gondolkodÃ¡sra vall magÃ¡tÃ³l. A n?: Nagyon megvilÃ¡gosodott. A fÃ©rfi: Mi megosztjuk a vÃ©lemÃ©nyÃ¼nket az emberekkel - Ã©s ha sztÃ¡r mivoltunk tÃ¶bb hÃ­v?t kÃ©pes vonzani, nem vonakodunk bevetni a nemes cÃ©l Ã©rdekÃ©ben.}
+{167}{}{Volna mÃ©g nÃ©hÃ¡ny egyÃ©b kÃ©rdÃ©sem.}
+{168}{}{Ã‰rdekelne, hogyan csatlakozhatnÃ©k.}
+{169}{}{Ã‰rtem. HÃ¡t akkor isten veled.}
 {170}{}{Him: Well, it's very simple. We just give you this informational holodisc. Her: ... you sit through a short movie... Him:... and then you go talk to AHS-7! Her: Easy, isn't it?}
-{171}{}{Csináljuk!}
-{172}{}{Nem hiszem, hogy készen állok erre.}
-{173}{}{A n?: Ez a maga különbejáratú joga. A férfi: Remélem, megérti, hogy nem császkálhat keresztül-kasul a bázisunkon. A n?: Ezért jobb lenne, ha távozna! Ha nagyon köti az ebet a karóhoz, az ?rök valószín?leg le fogják l?ni.}
-{174}{}{H?, ez pazar! Meghívnak, hogy csatlakozzam, és amikor nem akarok, le akarnak l?ni? Szép kis elbánás, mondhatom!}
-{175}{}{Lehet, hogy el?bb le kéne magukat puffantanom, mint egy kutyát.}
-{176}{}{Na, én akkor MOST lépek...}
-{177}{}{A férfi: Ez az utolsó esélye, hogy meggondolja magát. A n?: Nem szívesen látnánk, ha valami kellemetlenség történne magával.}
+{171}{}{CsinÃ¡ljuk!}
+{172}{}{Nem hiszem, hogy kÃ©szen Ã¡llok erre.}
+{173}{}{A n?: Ez a maga kÃ¼lÃ¶nbejÃ¡ratÃº joga. A fÃ©rfi: RemÃ©lem, megÃ©rti, hogy nem csÃ¡szkÃ¡lhat keresztÃ¼l-kasul a bÃ¡zisunkon. A n?: EzÃ©rt jobb lenne, ha tÃ¡vozna! Ha nagyon kÃ¶ti az ebet a karÃ³hoz, az ?rÃ¶k valÃ³szÃ­n?leg le fogjÃ¡k l?ni.}
+{174}{}{H?, ez pazar! MeghÃ­vnak, hogy csatlakozzam, Ã©s amikor nem akarok, le akarnak l?ni? SzÃ©p kis elbÃ¡nÃ¡s, mondhatom!}
+{175}{}{Lehet, hogy el?bb le kÃ©ne magukat puffantanom, mint egy kutyÃ¡t.}
+{176}{}{Na, Ã©n akkor MOST lÃ©pek...}
+{177}{}{A fÃ©rfi: Ez az utolsÃ³ esÃ©lye, hogy meggondolja magÃ¡t. A n?: Nem szÃ­vesen lÃ¡tnÃ¡nk, ha valami kellemetlensÃ©g tÃ¶rtÃ©nne magÃ¡val.}
 {178}{}{Baszd meg!}
-{179}{}{Remek. Milyen módon csatlakozhatnék?}
-{180}{}{Valami KELLEMETLEN fog magával történni!}
-{181}{}{Én azért nem innék el?re a medve b?rére. Minden jót!}
-{182}{}{A férfi: Mindent, amit tudunk, megtettünk magáért. A n?: Szerencse kísérje az útja során!}
-{183}{}{Üdv!}
-{184}{}{A n?: Dave? A számítógépes faszi? A férfi: Haha! Azt a szerencsétlent! Vikki az enyém, testestül-lelkestül! Nincs az az eset, hogy az a... elnézést, most épp negatív energiát kezdtem fókuszálni... Biztos összemocskoltam a neurodinjaimat. A n?: [feléd suttog] Szerintem Dave csini fiú, de amíg Juan itt van, semmit nem tehetek. A férfi: Fú. A Neurodinjaim újra tiszták.}
-{185}{}{Hát... akkor még kérdeznék ezt-azt.}
-{186}{}{Ez minden. Viszlát!}
-{187}{}{A n?: Nem is volt olyan rossz, ugye? A férfi: Most menjen, és beszéljen BHK-7-el! Hamarosan mindketten Hubológia-elvtársak leszünk! A n?: Úgy izgulok! A férfi: Az újoncok felvételét?l mindig kanos leszek. A n?: Ó, édesem... A férfi: Ó, bébi...}
-{188}{}{Akkor talán majd kés?bb visszanéznék...}
-{189}{}{A férfi: Ez nagy kár. A n?: Most már kötelezettségei vannak.}
+{179}{}{Remek. Milyen mÃ³don csatlakozhatnÃ©k?}
+{180}{}{Valami KELLEMETLEN fog magÃ¡val tÃ¶rtÃ©nni!}
+{181}{}{Ã‰n azÃ©rt nem innÃ©k el?re a medve b?rÃ©re. Minden jÃ³t!}
+{182}{}{A fÃ©rfi: Mindent, amit tudunk, megtettÃ¼nk magÃ¡Ã©rt. A n?: Szerencse kÃ­sÃ©rje az Ãºtja sorÃ¡n!}
+{183}{}{Ãœdv!}
+{184}{}{A n?: Dave? A szÃ¡mÃ­tÃ³gÃ©pes faszi? A fÃ©rfi: Haha! Azt a szerencsÃ©tlent! Vikki az enyÃ©m, testestÃ¼l-lelkestÃ¼l! Nincs az az eset, hogy az a... elnÃ©zÃ©st, most Ã©pp negatÃ­v energiÃ¡t kezdtem fÃ³kuszÃ¡lni... Biztos Ã¶sszemocskoltam a neurodinjaimat. A n?: [felÃ©d suttog] Szerintem Dave csini fiÃº, de amÃ­g Juan itt van, semmit nem tehetek. A fÃ©rfi: FÃº. A Neurodinjaim Ãºjra tisztÃ¡k.}
+{185}{}{HÃ¡t... akkor mÃ©g kÃ©rdeznÃ©k ezt-azt.}
+{186}{}{Ez minden. ViszlÃ¡t!}
+{187}{}{A n?: Nem is volt olyan rossz, ugye? A fÃ©rfi: Most menjen, Ã©s beszÃ©ljen BHK-7-el! Hamarosan mindketten HubolÃ³gia-elvtÃ¡rsak leszÃ¼nk! A n?: Ãšgy izgulok! A fÃ©rfi: Az Ãºjoncok felvÃ©telÃ©t?l mindig kanos leszek. A n?: Ã“, Ã©desem... A fÃ©rfi: Ã“, bÃ©bi...}
+{188}{}{Akkor talÃ¡n majd kÃ©s?bb visszanÃ©znÃ©k...}
+{189}{}{A fÃ©rfi: Ez nagy kÃ¡r. A n?: Most mÃ¡r kÃ¶telezettsÃ©gei vannak.}
 {190}{}{-DONE-}
-{191}{}{A férfi: Maga most életre szóló döntést hozott. A n?: Sajnos, rossz döntés volt. Mindketten: ?rség! ?rség!}
+{191}{}{A fÃ©rfi: Maga most Ã©letre szÃ³lÃ³ dÃ¶ntÃ©st hozott. A n?: Sajnos, rossz dÃ¶ntÃ©s volt. Mindketten: ?rsÃ©g! ?rsÃ©g!}
 {192}{}{Francba!}
-{193}{}{A férfi: Üdvözöljök,}
-{194}{}{Szóval most, hogy Hubologista vagyok, mi a teend?m?}
-{195}{}{Hogyan tudnék magukkal összekovácsolódni?}
-{196}{}{Azt hiszem, ennél többet nem akartam. Minden jót!}
+{193}{}{A fÃ©rfi: ÃœdvÃ¶zÃ¶ljÃ¶k,}
+{194}{}{SzÃ³val most, hogy Hubologista vagyok, mi a teend?m?}
+{195}{}{Hogyan tudnÃ©k magukkal Ã¶sszekovÃ¡csolÃ³dni?}
+{196}{}{Azt hiszem, ennÃ©l tÃ¶bbet nem akartam. Minden jÃ³t!}
 {197}{}{}
 {198}{}{}
-{199}{}{A férfi: Beszélhetne Harry Rocket-tel a felszínen. Talán segítségére lehet. A n?: Vagy beszélhetne BHK-7-el, esetleg BHK-9-el. Mindig vannak új ötleteik. A férfi: Vagy csak egyszer?en figyelje az ImaKéperny?t. A n?: Esetleg csinálhatna valami galibát a Kerék ellenségei közt.}
-{200}{}{Köszönöm. Hogyan tudnék magukkal összekovácsolódni?}
-{201}{}{Köszönöm. Ez minden, amit tudni akartam.}
-{202}{}{A n?: Szomorú dolog ez - mivel a Csillagbéli Atya tudja, hogy maga aranyos -, de ezt inkább mégsem kéne. A férfi: Természetesen mindketten nagyon megtisztel?nek találjuk! A n?: Esetleg valamikor mindannyian elmehetnénk New Renóba, és közösen forgathatnánk egy filmet.}
+{199}{}{A fÃ©rfi: BeszÃ©lhetne Harry Rocket-tel a felszÃ­nen. TalÃ¡n segÃ­tsÃ©gÃ©re lehet. A n?: Vagy beszÃ©lhetne BHK-7-el, esetleg BHK-9-el. Mindig vannak Ãºj Ã¶tleteik. A fÃ©rfi: Vagy csak egyszer?en figyelje az ImaKÃ©perny?t. A n?: Esetleg csinÃ¡lhatna valami galibÃ¡t a KerÃ©k ellensÃ©gei kÃ¶zt.}
+{200}{}{KÃ¶szÃ¶nÃ¶m. Hogyan tudnÃ©k magukkal Ã¶sszekovÃ¡csolÃ³dni?}
+{201}{}{KÃ¶szÃ¶nÃ¶m. Ez minden, amit tudni akartam.}
+{202}{}{A n?: SzomorÃº dolog ez - mivel a CsillagbÃ©li Atya tudja, hogy maga aranyos -, de ezt inkÃ¡bb mÃ©gsem kÃ©ne. A fÃ©rfi: TermÃ©szetesen mindketten nagyon megtisztel?nek talÃ¡ljuk! A n?: Esetleg valamikor mindannyian elmehetnÃ©nk New RenÃ³ba, Ã©s kÃ¶zÃ¶sen forgathatnÃ¡nk egy filmet.}
 {203}{}{Oh, all right. What else is there to do as a Hubologist?}
-{204}{}{Ó, rendben. Minden jót!}
-{205}{}{A n?: A hancúrozás rosszat tesz a neurodinjainak. A férfi: Bizonyám. A n?: Ezért kell ?szintének lennem, és elmondani, hogy nem találom magát vonzónak. A férfi: Ennek ellenére továbbra is szeretjük magát, mint a Hub követ?jét!}
+{204}{}{Ã“, rendben. Minden jÃ³t!}
+{205}{}{A n?: A hancÃºrozÃ¡s rosszat tesz a neurodinjainak. A fÃ©rfi: BizonyÃ¡m. A n?: EzÃ©rt kell ?szintÃ©nek lennem, Ã©s elmondani, hogy nem talÃ¡lom magÃ¡t vonzÃ³nak. A fÃ©rfi: Ennek ellenÃ©re tovÃ¡bbra is szeretjÃ¼k magÃ¡t, mint a Hub kÃ¶vet?jÃ©t!}
 {206}{}{Gee, thanks. So what else is there to do as a Hubologist?}
 {207}{}{Aha-aha. [mormogsz] barmok.}
-{208}{}{Üdvözletünket küldjük, újoncok!}
-{209}{}{Én Vikki Goldman vagyok!}
-{210}{}{Én pedig Juan Cruz!}
-{211}{}{Hírességek vagyuk, amint azt már tudják.}
-{212}{}{Szerintünk a Hubológia az élet útja.}
-{213}{}{Mi TUDJUK, hogy a Hubológia az élet útja.}
-{214}{}{Bogarakat pörkölök az agyhullámaimmal!}
-{215}{}{Jól mutatok sztaniolsipkában!}
-{216}{}{Ha keményen dolgozik, hogy optimalizálja magát, a társunk lehet!}
-{217}{}{Mi nagyon szeretnénk, ha így lenne.}
-{218}{}{Igen. Mi mindig keressük az új barátokat...}
-{219}{}{...addig, amíg a saját optimalizálásukon fáradoznak.}
-{220}{}{És olyan magas fokozatúak, mint mi.}
-{221}{}{BHK-5-ösök vagyunk.}
-{222}{}{A jöv?ben magukból is válhat BHK-5.}
-{223}{}{Ha sok pénzt adományoznak, sokkal hamarabb válhatnak BHK-5-té.}
-{224}{}{Persze ne gondolják, hogy csak a pénzükért akarjuk magukat.}
-{225}{}{Nem!!! Mi TÉNYLEG SEGÍTENI akarunk!}
-{226}{}{Igazából err?l szól a Hubológia.}
+{208}{}{ÃœdvÃ¶zletÃ¼nket kÃ¼ldjÃ¼k, Ãºjoncok!}
+{209}{}{Ã‰n Vikki Goldman vagyok!}
+{210}{}{Ã‰n pedig Juan Cruz!}
+{211}{}{HÃ­ressÃ©gek vagyuk, amint azt mÃ¡r tudjÃ¡k.}
+{212}{}{SzerintÃ¼nk a HubolÃ³gia az Ã©let Ãºtja.}
+{213}{}{Mi TUDJUK, hogy a HubolÃ³gia az Ã©let Ãºtja.}
+{214}{}{Bogarakat pÃ¶rkÃ¶lÃ¶k az agyhullÃ¡maimmal!}
+{215}{}{JÃ³l mutatok sztaniolsipkÃ¡ban!}
+{216}{}{Ha kemÃ©nyen dolgozik, hogy optimalizÃ¡lja magÃ¡t, a tÃ¡rsunk lehet!}
+{217}{}{Mi nagyon szeretnÃ©nk, ha Ã­gy lenne.}
+{218}{}{Igen. Mi mindig keressÃ¼k az Ãºj barÃ¡tokat...}
+{219}{}{...addig, amÃ­g a sajÃ¡t optimalizÃ¡lÃ¡sukon fÃ¡radoznak.}
+{220}{}{Ã‰s olyan magas fokozatÃºak, mint mi.}
+{221}{}{BHK-5-Ã¶sÃ¶k vagyunk.}
+{222}{}{A jÃ¶v?ben magukbÃ³l is vÃ¡lhat BHK-5.}
+{223}{}{Ha sok pÃ©nzt adomÃ¡nyoznak, sokkal hamarabb vÃ¡lhatnak BHK-5-tÃ©.}
+{224}{}{Persze ne gondoljÃ¡k, hogy csak a pÃ©nzÃ¼kÃ©rt akarjuk magukat.}
+{225}{}{Nem!!! Mi TÃ‰NYLEG SEGÃTENI akarunk!}
+{226}{}{IgazÃ¡bÃ³l err?l szÃ³l a HubolÃ³gia.}
 {227}{}{[megtapsolod ?ket]}
-{228}{}{. Remélem, jól halad a megvilágosodás útján. A n?: Olyan nagy... reményeket táplálunk maga iránt...}
-{229}{}{Els? lecke: Ugyebár itt van az örökkévalóság. Az egyik oldalon ott van Quetzel. [ujjával mutat valahova] Itt pedig mi vagyunk. [megintcsak mutat valahova] Nem kell mást csinálnunk, hogy eljussunk oda, csak egyszer?en jó sokat járni.}
-{230}{}{Ember, temérdek cip?re lesz szükségünk!}
-{231}{}{A férfi: Most menjen, beszéljen BHK-7-el, és hamarosan Hubológia-elvtársak lehetünk! A n?: Úgy izgulok! A férfi: Az újoncok felvételét?l mindig kanos leszek. A n?: Ó, édesem... A férfi: Ó, bébi...}
+{228}{}{. RemÃ©lem, jÃ³l halad a megvilÃ¡gosodÃ¡s ÃºtjÃ¡n. A n?: Olyan nagy... remÃ©nyeket tÃ¡plÃ¡lunk maga irÃ¡nt...}
+{229}{}{Els? lecke: UgyebÃ¡r itt van az Ã¶rÃ¶kkÃ©valÃ³sÃ¡g. Az egyik oldalon ott van Quetzel. [ujjÃ¡val mutat valahova] Itt pedig mi vagyunk. [megintcsak mutat valahova] Nem kell mÃ¡st csinÃ¡lnunk, hogy eljussunk oda, csak egyszer?en jÃ³ sokat jÃ¡rni.}
+{230}{}{Ember, temÃ©rdek cip?re lesz szÃ¼ksÃ©gÃ¼nk!}
+{231}{}{A fÃ©rfi: Most menjen, beszÃ©ljen BHK-7-el, Ã©s hamarosan HubolÃ³gia-elvtÃ¡rsak lehetÃ¼nk! A n?: Ãšgy izgulok! A fÃ©rfi: Az Ãºjoncok felvÃ©telÃ©t?l mindig kanos leszek. A n?: Ã“, Ã©desem... A fÃ©rfi: Ã“, bÃ©bi...}

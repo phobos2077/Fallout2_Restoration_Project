@@ -1,19 +1,19 @@
 {100}{}{Die siehst Frenchy.}
 {101}{}{Die siehst Paine.}
 {102}{}{Die siehst Sims.}
-{150}{}{Du siehst einen ziemlich runtergekommenen Mann. Er hat es sich an der Mülltonne mit dem Lagerfeuer bequem gemacht und singt. Er hat eine recht schöne Stimme.}
-{151}{}{Du siehst einen ziemlich runtergekommenen Mann. Er hat es sich an der Mülltonne mit dem Lagerfeuer bequem gemacht und singt. }
+{150}{}{Du siehst einen ziemlich runtergekommenen Mann. Er hat es sich an der MÃ¼lltonne mit dem Lagerfeuer bequem gemacht und singt. Er hat eine recht schÃ¶ne Stimme.}
+{151}{}{Du siehst einen ziemlich runtergekommenen Mann. Er hat es sich an der MÃ¼lltonne mit dem Lagerfeuer bequem gemacht und singt. }
 {200}{}{Hey... }
 {203}{}{Hast 'n Wunsch, Kleiner?}
-{204}{}{::Tippt sich an seinen nicht vorhandenen Hut.:: Womit könn' wa dienen, Frollein?}
-{205}{}{Kääännst duuu 'Ruder dein Boot den Strom hinab'?}
-{206}{}{Kenntu 'Neun MILLIjarden Flasch'nbier stehn drüben ahm Klawiehr, kanntu das singen?}
+{204}{}{::Tippt sich an seinen nicht vorhandenen Hut.:: Womit kÃ¶nn' wa dienen, Frollein?}
+{205}{}{KÃ¤Ã¤Ã¤nnst duuu 'Ruder dein Boot den Strom hinab'?}
+{206}{}{Kenntu 'Neun MILLIjarden Flasch'nbier stehn drÃ¼ben ahm Klawiehr, kanntu das singen?}
 {207}{}{Neeee ich jetz' gehn}
-{208}{}{Es wäre mir eine große Ehre. Danke, Leute.}
-{209}{}{Da habt ihr ein paar Dollar. Könnt ihr noch was anderes spielen?}
-{210}{}{Nein, ich hör einfach nur zu, danke.}
-{300}{}{Also gut...ihr habt gehört, wasser gesagt hat. Probieren wir's mit was anderem.}
-{301}{}{Also gut...ihr habt gehört, wasse gesagt hat. Probieren wir's mit was anderem.}
+{208}{}{Es wÃ¤re mir eine groÃŸe Ehre. Danke, Leute.}
+{209}{}{Da habt ihr ein paar Dollar. KÃ¶nnt ihr noch was anderes spielen?}
+{210}{}{Nein, ich hÃ¶r einfach nur zu, danke.}
+{300}{}{Also gut...ihr habt gehÃ¶rt, wasser gesagt hat. Probieren wir's mit was anderem.}
+{301}{}{Also gut...ihr habt gehÃ¶rt, wasse gesagt hat. Probieren wir's mit was anderem.}
 {302}{}{Dankkke}
 {303}{}{Danke, Leute.}
 {400}{}{Oooooh}
@@ -22,7 +22,7 @@
 {408}{}{Einsam sitz ich hier und ganz alleiiiiiiin...}
 {409}{}{}
 {500}{}{Weiter im Text}
-{501}{}{Fühl den Schmerz}
+{501}{}{FÃ¼hl den Schmerz}
 {502}{}{Schau mal wieder vorbei}
 {503}{}{}
 {600}{}{ Flaschen Bier am Klavier...}
@@ -42,9 +42,9 @@
 {803}{}{Jet-Gegenmittel.}
 {804}{}{}
 {900}{}{Gib mir}
-{901}{}{Einen Kuss, damit ich träumen kann}
+{901}{}{Einen Kuss, damit ich trÃ¤umen kann}
 {902}{}{Einen Kuss, dass meine Phantasie}
-{903}{}{Mich weit hinfortträgt}
+{903}{}{Mich weit hinforttrÃ¤gt}
 {904}{}{Mmmmm}
 {905}{}{Mein Schatz,}
 {906}{}{Nur das eine will ich noch von dir:}
@@ -54,8 +54,8 @@
 {915}{}{Und wenn ich dann bin allein}
 {916}{}{Werd in Gedanken ich bei dir sein}
 {917}{}{Wiiiiiieder bei dir sein und duuuuu bei mir}
-{918}{}{Im Taumel der Glückseligkeit}
-{919}{}{Die nie vorübergeht}
+{918}{}{Im Taumel der GlÃ¼ckseligkeit}
+{919}{}{Die nie vorÃ¼bergeht}
 {920}{}{Oh, lass mich deine Lippen kosten, dieses letzte Mal}
 {921}{}{Gib mir den Kuss, der nie vergeht...}
 {923}{}{Gib mir, was nur du mir geben kannst}
@@ -63,8 +63,8 @@
 {930}{}{Wiiiiiieder bei dir sein und duuuuu bei mir}
 {933}{}{Ohhhh}
 {935}{}{Ein Kuss, ein Augenblick}
-{937}{}{Der nie vorübergeht}
+{937}{}{Der nie vorÃ¼bergeht}
 {941}{}{}
-{1200}{}{! Unser Superheld! Irgendwelche Wünsche? Vielleicht 'nen kleinen Song, hm?}
-{1201}{}{. Womit könn' wa dienen?}
-{1202}{}{. Könn' wa was für dich tun, Kumpel?}
+{1200}{}{! Unser Superheld! Irgendwelche WÃ¼nsche? Vielleicht 'nen kleinen Song, hm?}
+{1201}{}{. Womit kÃ¶nn' wa dienen?}
+{1202}{}{. KÃ¶nn' wa was fÃ¼r dich tun, Kumpel?}

@@ -1,93 +1,93 @@
 {100}{}{Ves a un comediante.}
-{150}{}{Ves a un comediante de mierda. Está nervioso, y se nota.}
-{200}{}{Está demasiado ocupado con su rutina como para hablar en este momento.}
-{1000}{}{Entonces… eh… ¿por qué cruzó el escorpión rad la carretera?}
-{1001}{}{¡Para alejarse de su aburrido CULO!}
-{1002}{}{¡Yo digo que matemos a este tipo!}
-{1003}{}{Porque el escorpión… eh, quería alejarse de las partículas radiactivas…}
-{1004}{}{¡Apestas!}
-{1005}{}{¡QUE TE JODAN!}
-{1006}{}{Eh, el chiste, veréis, es que como ya es un mutante, no necesitaba cruzar la carretera, así que… eh…}
+{150}{}{Ves a un comediante de mierda. EstÃ¡ nervioso, y se nota.}
+{200}{}{EstÃ¡ demasiado ocupado con su rutina como para hablar en este momento.}
+{1000}{}{Entoncesâ€¦ ehâ€¦ Â¿por quÃ© cruzÃ³ el escorpiÃ³n rad la carretera?}
+{1001}{}{Â¡Para alejarse de su aburrido CULO!}
+{1002}{}{Â¡Yo digo que matemos a este tipo!}
+{1003}{}{Porque el escorpiÃ³nâ€¦ eh, querÃ­a alejarse de las partÃ­culas radiactivasâ€¦}
+{1004}{}{Â¡Apestas!}
+{1005}{}{Â¡QUE TE JODAN!}
+{1006}{}{Eh, el chiste, verÃ©is, es que como ya es un mutante, no necesitaba cruzar la carretera, asÃ­ queâ€¦ ehâ€¦}
 {1007}{}{}
-{2000}{}{Je-je. Gecko… necrófagos, ¿vale? Necrófagos… caray, APESTAN.}
-{2001}{}{¡Tú apestas!}
-{2002}{}{¡Este tipo sólo debería actuar después de muerto!}
-{2003}{}{Eh… je je… así que, eh, los necrófagos huelen mal. Así que, como, eh…}
-{2004}{}{¿He mencionado que los necrófagos apestan?}
-{2005}{}{Um, así que me encuentro a este necrófago, vale, le pregunto, '¿Tenéis envidia de que yo no apeste?'}
-{2006}{}{Responde, "No. Eh, ¿por qué lo preguntas?"}
+{2000}{}{Je-je. Geckoâ€¦ necrÃ³fagos, Â¿vale? NecrÃ³fagosâ€¦ caray, APESTAN.}
+{2001}{}{Â¡TÃº apestas!}
+{2002}{}{Â¡Este tipo sÃ³lo deberÃ­a actuar despuÃ©s de muerto!}
+{2003}{}{Ehâ€¦ je jeâ€¦ asÃ­ que, eh, los necrÃ³fagos huelen mal. AsÃ­ que, como, ehâ€¦}
+{2004}{}{Â¿He mencionado que los necrÃ³fagos apestan?}
+{2005}{}{Um, asÃ­ que me encuentro a este necrÃ³fago, vale, le pregunto, 'Â¿TenÃ©is envidia de que yo no apeste?'}
+{2006}{}{Responde, "No. Eh, Â¿por quÃ© lo preguntas?"}
 {2007}{}{Le digo, porque eres VERDE.}
-{2008}{}{Eh… verde de envidia. ¿Entendéis?}
-{2010}{}{¡Buuu!}
+{2008}{}{Ehâ€¦ verde de envidia. Â¿EntendÃ©is?}
+{2010}{}{Â¡Buuu!}
 {2011}{}{}
-{3000}{}{Entonces… había una prostituta, vale, una zorra estúpida…}
-{3001}{}{¡Tu madre es una zorra!}
-{3002}{}{"¿Zorra?" Voy a apuñalarte hasta la muerte tras el espectáculo!}
-{3003}{}{Y… eh… ella dice, vale, dice, '¿llevas un Gecko en tu bolsillo o sólo es que estás… eh, cachondo?'}
-{3006}{}{Eh… ¿he mencionado que era un Gecko de fuego…? Je je.}
+{3000}{}{Entoncesâ€¦ habÃ­a una prostituta, vale, una zorra estÃºpidaâ€¦}
+{3001}{}{Â¡Tu madre es una zorra!}
+{3002}{}{"Â¿Zorra?" Voy a apuÃ±alarte hasta la muerte tras el espectÃ¡culo!}
+{3003}{}{Yâ€¦ ehâ€¦ ella dice, vale, dice, 'Â¿llevas un Gecko en tu bolsillo o sÃ³lo es que estÃ¡sâ€¦ eh, cachondo?'}
+{3006}{}{Ehâ€¦ Â¿he mencionado que era un Gecko de fuegoâ€¦? Je je.}
 {3007}{}{}
-{4000}{}{¿Vertibirds?}
-{4001}{}{¿Verti qué?}
-{4002}{}{¿De qué demonios está hablando este tipo?}
-{4003}{}{¿Qué hay de esas bolsitas de cacahuetes que sirven en los vuelos?}
-{4004}{}{¿Qué pasa con el salami que te sirven?}
-{4005}{}{¿Qué... pasa con eso?}
+{4000}{}{Â¿Vertibirds?}
+{4001}{}{Â¿Verti quÃ©?}
+{4002}{}{Â¿De quÃ© demonios estÃ¡ hablando este tipo?}
+{4003}{}{Â¿QuÃ© hay de esas bolsitas de cacahuetes que sirven en los vuelos?}
+{4004}{}{Â¿QuÃ© pasa con el salami que te sirven?}
+{4005}{}{Â¿QuÃ©... pasa con eso?}
 {4006}{}{}
-{5000}{}{¿Rasgos opcionales?}
+{5000}{}{Â¿Rasgos opcionales?}
 {5001}{}{*Bostezos*}
-{5002}{}{Ya sabéis, como japoneses. ¿Alguno ha visto alguno últimamente?}
-{5003}{}{¿Alguien ha visto tu miembrecillo últimamente?}
-{5004}{}{Ehhh... ¿creéis que hay alguien que dice, "Oye, creo que quiero más fallos críticos?"}
-{5005}{}{¿Quién... es esa gente?}
-{5006}{}{Oye, yo he oído hablar de uno en algún lugar antes.}
+{5002}{}{Ya sabÃ©is, como japoneses. Â¿Alguno ha visto alguno Ãºltimamente?}
+{5003}{}{Â¿Alguien ha visto tu miembrecillo Ãºltimamente?}
+{5004}{}{Ehhh... Â¿creÃ©is que hay alguien que dice, "Oye, creo que quiero mÃ¡s fallos crÃ­ticos?"}
+{5005}{}{Â¿QuiÃ©n... es esa gente?}
+{5006}{}{Oye, yo he oÃ­do hablar de uno en algÃºn lugar antes.}
 {5007}{}{}
-{6000}{}{¿Escorpiones rad?}
-{6001}{}{¿Qué es eso de rad?}
-{6002}{}{Es la abreviatura de RADIACIÓN, gilipollas.}
-{6003}{}{¿Quienes son los que creen que los escorpiones mutados...}
+{6000}{}{Â¿Escorpiones rad?}
+{6001}{}{Â¿QuÃ© es eso de rad?}
+{6002}{}{Es la abreviatura de RADIACIÃ“N, gilipollas.}
+{6003}{}{Â¿Quienes son los que creen que los escorpiones mutados...}
 {6004}{}{...son 'rad-icales'?}
-{6005}{}{¡Apestas!}
+{6005}{}{Â¡Apestas!}
 {6006}{}{}
-{7000}{}{¿Ratas topo?}
+{7000}{}{Â¿Ratas topo?}
 {7001}{}{Oh, caray...}
-{7002}{}{¿Qué pasa con esas cosas?}
-{7003}{}{¿Son topos...}
+{7002}{}{Â¿QuÃ© pasa con esas cosas?}
+{7003}{}{Â¿Son topos...}
 {7004}{}{o...}
 {7005}{}{son ratas?}
-{7006}{}{¿Y las ratas cerdo?}
-{7007}{}{¿Qué pasa con ellas?}
-{7008}{}{Ehhh... sí, ¿qué pasa con ellas?}
+{7006}{}{Â¿Y las ratas cerdo?}
+{7007}{}{Â¿QuÃ© pasa con ellas?}
+{7008}{}{Ehhh... sÃ­, Â¿quÃ© pasa con ellas?}
 {7009}{}{}
 {8000}{}{Supermutantes?}
-{8001}{}{¿Es que este gilipollas nunca deja de hacer chistes estúpidos?}
-{8002}{}{¿Qué es tan 'super' de ellos?}
-{8003}{}{¿Cuando fue la última vez que visteis a un supermutante...}
-{8004}{}{...salvando a un gato de un árbol?}
-{8005}{}{¡Nunca! ¿Sabéis por qué?}
+{8001}{}{Â¿Es que este gilipollas nunca deja de hacer chistes estÃºpidos?}
+{8002}{}{Â¿QuÃ© es tan 'super' de ellos?}
+{8003}{}{Â¿Cuando fue la Ãºltima vez que visteis a un supermutante...}
+{8004}{}{...salvando a un gato de un Ã¡rbol?}
+{8005}{}{Â¡Nunca! Â¿SabÃ©is por quÃ©?}
 {8006}{}{*Bostezos*}
 {8007}{}{Ehhh... porque los supermutantes no rescatan gatos...}
-{8008}{}{¡Los matan sin piedad!}
-{8009}{}{Ojalá alguien se cargara a este imb...}
-{8010}{}{Entonces, ¿quién los llama SUPER mutantes?}
-{8011}{}{¿Quién es esa gente?}
-{8012}{}{¡Probablemente los mismos idiotas que te contrataron a ti!}
+{8008}{}{Â¡Los matan sin piedad!}
+{8009}{}{OjalÃ¡ alguien se cargara a este imb...}
+{8010}{}{Entonces, Â¿quiÃ©n los llama SUPER mutantes?}
+{8011}{}{Â¿QuiÃ©n es esa gente?}
+{8012}{}{Â¡Probablemente los mismos idiotas que te contrataron a ti!}
 {8013}{}{}
-{9000}{}{¿Y qué pasa con ese idiota, Myron?}
-{9001}{}{¿Está hablando de mí?}
-{9002}{}{¡Quiero decir, menudo empollón! Es como si hubiera vivido en el sótano de sus padres TODA su vida.}
+{9000}{}{Â¿Y quÃ© pasa con ese idiota, Myron?}
+{9001}{}{Â¿EstÃ¡ hablando de mÃ­?}
+{9002}{}{Â¡Quiero decir, menudo empollÃ³n! Es como si hubiera vivido en el sÃ³tano de sus padres TODA su vida.}
 {9003}{}{*Ja* *Ja* *Ja*}
-{9004}{}{¡Oye!}
+{9004}{}{Â¡Oye!}
 {9005}{}{Bueno, Myron, ERES un idiota.}
-{9006}{}{No te preocupes por eso, Myron. Sólo intenta ser gracioso.}
-{9007}{}{¡Sí, y tú tienes suerte de que no te patee el culo, amigo!}
+{9006}{}{No te preocupes por eso, Myron. SÃ³lo intenta ser gracioso.}
+{9007}{}{Â¡SÃ­, y tÃº tienes suerte de que no te patee el culo, amigo!}
 {9008}{}{}
-{10000}{}{Entonces, ¿habéis oído lo de que noquearon a la estúpida hija de Bishop?}
+{10000}{}{Entonces, Â¿habÃ©is oÃ­do lo de que noquearon a la estÃºpida hija de Bishop?}
 {10001}{}{*Aplausos*}
 {10002}{}{::Silbidos::}
-{10003}{}{¡Increíble!}
-{11000}{}{Je je. ¿Habéis oído lo de esa tribal que acabó con el Enclave?}
-{11001}{}{El tribal era taaan estúpido que, eh, el tribal, bueno… eh, voló su plataforma.}
-{11002}{}{¡BOOM!}
-{11003}{}{¿He mencionado que la tribal era estúpida?}
-{11004}{}{¡Tú eres el estúpido!}
+{10003}{}{Â¡IncreÃ­ble!}
+{11000}{}{Je je. Â¿HabÃ©is oÃ­do lo de esa tribal que acabÃ³ con el Enclave?}
+{11001}{}{El tribal era taaan estÃºpido que, eh, el tribal, buenoâ€¦ eh, volÃ³ su plataforma.}
+{11002}{}{Â¡BOOM!}
+{11003}{}{Â¿He mencionado que la tribal era estÃºpida?}
+{11004}{}{Â¡TÃº eres el estÃºpido!}
 {11005}{}{}

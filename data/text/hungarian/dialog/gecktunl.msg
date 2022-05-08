@@ -1,1 +1,1 @@
-{100}{}{Beléptél Gekkó földalatti alagútrendszerébe.}
+{100}{}{BelÃ©ptÃ©l GekkÃ³ fÃ¶ldalatti alagÃºtrendszerÃ©be.}

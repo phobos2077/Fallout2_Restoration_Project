@@ -1,9 +1,9 @@
-{100}{}{¡Sal de nuestro territorio!}
-{101}{}{Estás en los barrios bajos, compadre.}
+{100}{}{Â¡Sal de nuestro territorio!}
+{101}{}{EstÃ¡s en los barrios bajos, compadre.}
 {102}{}{Esto te va a doler.}
-{103}{}{¿Qué estás haciendo en mi barrio?}
-{104}{}{¿Alguna vez te has comido un sandwich de nudillos?}
-{105}{}{¡Lárgate!}
-{106}{}{¡Te arrepentirás de esto!}
-{107}{}{¡Eres duro de pelar!}
-{108}{}{La próxima vez.}
+{103}{}{Â¿QuÃ© estÃ¡s haciendo en mi barrio?}
+{104}{}{Â¿Alguna vez te has comido un sandwich de nudillos?}
+{105}{}{Â¡LÃ¡rgate!}
+{106}{}{Â¡Te arrepentirÃ¡s de esto!}
+{107}{}{Â¡Eres duro de pelar!}
+{108}{}{La prÃ³xima vez.}

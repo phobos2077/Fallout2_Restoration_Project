@@ -1,19 +1,19 @@
-{100}{}{Tenha cuidado! … um radscorpion!}
-{101}{}{Olhando mais de perto, esse escorpi„o parece estar usando Ûculos com
- aro de metal. Na verdade, parece bastante inteligente e nada ameaÁador.}
+{100}{}{Tenha cuidado! √â um radscorpion!}
+{101}{}{Olhando mais de perto, esse escorpi√£o parece estar usando √≥culos com
+ aro de metal. Na verdade, parece bastante inteligente e nada amea√ßador.}
 {102}{}{::click:: ::click clack::}
-{103}{}{Eu posso te ajudar com alguma coisa? VocÍ est· atrapalhando meus experimentos!}
+{103}{}{Eu posso te ajudar com alguma coisa? Voc√™ est√° atrapalhando meus experimentos!}
 {104}{}{::se esgueirando:: ::click click click::}
-{105}{}{Que? O que vocÍ quer com ele?}
+{105}{}{Que? O que voc√™ quer com ele?}
 {106}{}{Fffff!}
-{107}{}{Bom menino! Fique de pÈ agora!}
+{107}{}{Bom menino! Fique de p√© agora!}
 {108}{}{[Te analisa com cautela]}
 {109}{}{[faz gestos com suas garras]}
-{110}{}{[parece quase amig·vel]}
-{111}{}{Por favor, n„o incomode o escorpi„o. Ele teve um dia difÌcil.}
-{112}{}{Ele est· um pouco indisposto agora.}
+{110}{}{[parece quase amig√°vel]}
+{111}{}{Por favor, n√£o incomode o escorpi√£o. Ele teve um dia dif√≠cil.}
+{112}{}{Ele est√° um pouco indisposto agora.}
 {113}{}{::se esgueirando::}
 {114}{}{::click::}
 {115}{}{::click-clack::}
 {116}{}{::afiando::}
-{117}{}{Olhando mais de perto, este escorpi„o parece ser bastante inteligente e n„o ameaÁador.}
+{117}{}{Olhando mais de perto, este escorpi√£o parece ser bastante inteligente e n√£o amea√ßador.}

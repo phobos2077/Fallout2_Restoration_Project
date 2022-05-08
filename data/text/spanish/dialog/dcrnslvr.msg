@@ -3,58 +3,58 @@
 {102}{}{Ves a un esclavista bastante grande.}
 {150}{}{Este es un esclavista que parece disfrutar con su trabajo.}
 {151}{}{Este esclavista parece ser muy fuerte pero no muy avispado.}
-{152}{}{Este esclavista parece estar bien armado, como los demás.}
+{152}{}{Este esclavista parece estar bien armado, como los demÃ¡s.}
 {225}{}{Vamos a atraparlos.}
-{226}{}{Matad sólo a los hostiles.}
+{226}{}{Matad sÃ³lo a los hostiles.}
 {227}{}{Ve delante; nosotros te seguimos.}
-{228}{}{Acaba sólo con los hostiles: los demás son nuestra paga.}
+{228}{}{Acaba sÃ³lo con los hostiles: los demÃ¡s son nuestra paga.}
 {229}{}{Estoy listo para abrir algunas cabezas.}
-{230}{}{¿Dónde están? ¿Los ves?}
-{235}{}{Aún no es hora de marcharse.}
+{230}{}{Â¿DÃ³nde estÃ¡n? Â¿Los ves?}
+{235}{}{AÃºn no es hora de marcharse.}
 {236}{}{Acabad con los hostiles que queden.}
-{237}{}{No matéis a los desarmados. Acabad con los demás.}
-{238}{}{Todavía tenemos por delante más derramamiento de sangre.}
-{245}{}{Ha sido una cacería horrible.}
+{237}{}{No matÃ©is a los desarmados. Acabad con los demÃ¡s.}
+{238}{}{TodavÃ­a tenemos por delante mÃ¡s derramamiento de sangre.}
+{245}{}{Ha sido una cacerÃ­a horrible.}
 {246}{}{Esto apenas ha valido la pena. No hemos conseguido una mierda.}
-{247}{}{La próxima vez, cárgate sólo a los hostiles. Esto no es un juego.}
+{247}{}{La prÃ³xima vez, cÃ¡rgate sÃ³lo a los hostiles. Esto no es un juego.}
 {248}{}{Metzger se va a cabrear.}
-{255}{}{No ha estado mal, pero la próxima vez no mates a los desarmados si quieres que nos paguen.}
+{255}{}{No ha estado mal, pero la prÃ³xima vez no mates a los desarmados si quieres que nos paguen.}
 {256}{}{No estuvo tan mal. Hemos sacado unos cuantos esclavos decentes de esto.}
-{257}{}{Las he visto mejores, pero al menos nos pagarán.}
+{257}{}{Las he visto mejores, pero al menos nos pagarÃ¡n.}
 {265}{}{Eh, lo hemos hecho bastante bien. Casi los atrapamos a todos.}
 {266}{}{Gracias por tu ayuda.}
-{267}{}{Buen trabajo. El pago por esta cacería debería ser bueno.}
-{268}{}{Ha sido divertido y deberíamos conseguir una buena cantidad de dinero.}
-{275}{}{Hemos estado fantásticos. Será mejor que Metzger nos dé una buena prima.}
-{276}{}{¡Ha sido perfecto! Me voy a pillar una buena cogorza esta noche.}
+{267}{}{Buen trabajo. El pago por esta cacerÃ­a deberÃ­a ser bueno.}
+{268}{}{Ha sido divertido y deberÃ­amos conseguir una buena cantidad de dinero.}
+{275}{}{Hemos estado fantÃ¡sticos. SerÃ¡ mejor que Metzger nos dÃ© una buena prima.}
+{276}{}{Â¡Ha sido perfecto! Me voy a pillar una buena cogorza esta noche.}
 {277}{}{Un puto sobresaliente. Hemos estado geniales.}
-{278}{}{¡Así es como se hace!}
-{285}{}{¿Dónde están?}
+{278}{}{Â¡AsÃ­ es como se hace!}
+{285}{}{Â¿DÃ³nde estÃ¡n?}
 {286}{}{Me voy a echar un polvo.}
-{287}{}{Apuesto a que esta vez conseguiré matar a más que tú.}
+{287}{}{Apuesto a que esta vez conseguirÃ© matar a mÃ¡s que tÃº.}
 {288}{}{Eh, gatito, gatito, gatito.}
-{295}{}{El resto de vosotros ya estáis muertos, pero aún no lo sabéis.}
-{296}{}{¡No podéis esconderos!}
+{295}{}{El resto de vosotros ya estÃ¡is muertos, pero aÃºn no lo sabÃ©is.}
+{296}{}{Â¡No podÃ©is esconderos!}
 {297}{}{Sal o te vuelo la puta cabeza.}
-{298}{}{¡Ah, eso ha estado bien! ¿Dónde están el resto?}
+{298}{}{Â¡Ah, eso ha estado bien! Â¿DÃ³nde estÃ¡n el resto?}
 {305}{}{Mierda.}
 {306}{}{Vaya mierda.}
-{307}{}{Maldición.}
-{308}{}{Mejor que no volvamos a hacerlo así.}
+{307}{}{MaldiciÃ³n.}
+{308}{}{Mejor que no volvamos a hacerlo asÃ­.}
 {309}{}{Joder... y yo que iba a emborracharme esta noche.}
-{310}{}{Salgamos de aquí. Esto da asco.}
-{320}{}{No está mal.}
+{310}{}{Salgamos de aquÃ­. Esto da asco.}
+{320}{}{No estÃ¡ mal.}
 {321}{}{Espero que sea suficiente. Necesito reponer mis existencias de Jet.}
 {322}{}{Vamos.}
 {323}{}{Las he visto mejores, pero el dinero es el dinero.}
-{324}{}{Metzger debería estar contento con esto.}
+{324}{}{Metzger deberÃ­a estar contento con esto.}
 {325}{}{Bastante bien.}
-{326}{}{De prisa. Larguémonos.}
-{327}{}{Esto debería bastar..}
-{328}{}{Buen botín.}
+{326}{}{De prisa. LarguÃ©monos.}
+{327}{}{Esto deberÃ­a bastar..}
+{328}{}{Buen botÃ­n.}
 {329}{}{Vamos. Quiero mi dinero.}
-{335}{}{¡Tendremos prima!}
+{335}{}{Â¡Tendremos prima!}
 {336}{}{Cojonudo.}
-{337}{}{Acorraladles y vámonos.}
-{338}{}{Dejad de hacer el idiota. Vámonos.}
-{339}{}{Dios, está cacería ha sido genial.}
+{337}{}{Acorraladles y vÃ¡monos.}
+{338}{}{Dejad de hacer el idiota. VÃ¡monos.}
+{339}{}{Dios, estÃ¡ cacerÃ­a ha sido genial.}

@@ -1,2 +1,2 @@
-1:Die Brotherhood of Steel schlägt die erste Invasionswelle der Mutanten zurück, doch ein Verräter aus den eigenen Reihen bringt die Zitadelle zu Fall.
-2:Zum Glück lernen die Mutanten den Umgang mit der neuen Technik nur langsam und können sie daher nicht gegen dich einsetzen.
+1:Die Brotherhood of Steel schlÃ¤gt die erste Invasionswelle der Mutanten zurÃ¼ck, doch ein VerrÃ¤ter aus den eigenen Reihen bringt die Zitadelle zu Fall.
+2:Zum GlÃ¼ck lernen die Mutanten den Umgang mit der neuen Technik nur langsam und kÃ¶nnen sie daher nicht gegen dich einsetzen.

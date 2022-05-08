@@ -1,1 +1,1 @@
-{100}{}{Es liegt ein leises Summen in der Luft, als wenn ein Magnetfeld irgendwo in der Nähe ist.}
+{100}{}{Es liegt ein leises Summen in der Luft, als wenn ein Magnetfeld irgendwo in der NÃ¤he ist.}

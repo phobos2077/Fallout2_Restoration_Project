@@ -52,7 +52,7 @@
 {142}{}{Whatcha pestering me with now?}
 {143}{}{Who's Doc Johnson?}
 {144}{}{You need some help, Sheriff?}
-{145}{}{Enquanto o gato est· fora...}
+{145}{}{Enquanto o gato est√° fora...}
 {146}{}{Well, I won't keep you any longer. You must need your rest. Goodbye.}
 {147}{}{Good ole Painless Doc Johnson's our town doc. You have a toothache or a broken bone, he'll set
  you to right. He also sells medicine. All kinds of medicine, if you get my drift. For *whatever* ails
@@ -237,7 +237,7 @@
 {273}{}{Dash it all, but that just isn't my sort of soiree, mon frere. Goodbye.}
 {274}{}{His name's Morton, and they call him Frog 'cause he croaks people. Ready to go get 'im?}
 {275}{}{Ohhhh. Ouch. That's terrible. The pain, the pain...}
-{276}{}{Eu faÁo.}
+{276}{}{Eu fa√ßo.}
 {277}{}{I don't think I want to risk getting croaked, Sheriff. Goodbye.}
 {278}{}{Hey, I didn't make that one up - he did. With puns that bad, I'd say that gives you just one
  more reason to kill 'im. You up for it?}

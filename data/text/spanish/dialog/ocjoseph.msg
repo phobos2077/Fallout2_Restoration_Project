@@ -1,86 +1,86 @@
 {100}{}{Ves a un hombre bajito que lleva un libro en las manos.}
 {101}{}{ves a Joseph, el herbalista.}
 {102}{}{Ves a un hombre bajito con un libro titulado "Hierbas y sus usos medicinales".}
-{103}{}{Hola, soy Joseph el herbalista. ¿En qué puedo ayudarte?}
-{104}{}{Tengo pupita. ¿Tú curas?}
-{105}{}{Estoy malito. ¿Tú curas?}
-{106}{}{Falta trozo, ¿tú curas?}
-{107}{}{Hago preguntas. ¿Vale?}
+{103}{}{Hola, soy Joseph el herbalista. Â¿En quÃ© puedo ayudarte?}
+{104}{}{Tengo pupita. Â¿TÃº curas?}
+{105}{}{Estoy malito. Â¿TÃº curas?}
+{106}{}{Falta trozo, Â¿tÃº curas?}
+{107}{}{Hago preguntas. Â¿Vale?}
 {108}{}{Siento, yo marcho.}
-{109}{}{Estoy herido. ¿Puedes ayudarme?}
-{110}{}{Me siento enfermo. ¿Puedes ayudarme?}
-{111}{}{Estoy mutilado. ¿Puedes ayudarme?}
-{112}{}{Me gustaría hacerte algunas preguntas.}
-{113}{}{Sólo quería saludar.}
-{114}{}{Desde luego. Hmmm. Vas a necesitar algo de esto. Aplicaré este bálsamo a la herida.
- Ahora tan solo recuéstate y descansa un par de horas.}
-{115}{}{Agradezco yo. Adiós.}
+{109}{}{Estoy herido. Â¿Puedes ayudarme?}
+{110}{}{Me siento enfermo. Â¿Puedes ayudarme?}
+{111}{}{Estoy mutilado. Â¿Puedes ayudarme?}
+{112}{}{Me gustarÃ­a hacerte algunas preguntas.}
+{113}{}{SÃ³lo querÃ­a saludar.}
+{114}{}{Desde luego. Hmmm. Vas a necesitar algo de esto. AplicarÃ© este bÃ¡lsamo a la herida.
+ Ahora tan solo recuÃ©state y descansa un par de horas.}
+{115}{}{Agradezco yo. AdiÃ³s.}
 {116}{}{Gracias, Doc. Me siento mucho mejor.}
-{117}{}{Desde luego. Hmmm. Esto va a llevar su tiempo, así que tendrás que pasar aquí la noche. Vas a
- necesitar beberte esto... lo sé, sabe asqueroso. Ahora, tan solo recuéstate y te despertaré
- por la mañana.}
-{118}{}{Siento bien. Adiós.}
-{119}{}{Gracias. Eso resolvió el problema.}
-{120}{}{Lo siento, pero no soy un doctor en medicina y no puedo llevar a cabo una cirugía. Te sugeriría que
- fueras a una de las ciudades más grandes y buscases a un cirujano. Inténtalo en la República de Nueva California. Está al este de aquí.}
-{121}{}{Vale. Adiós.}
+{117}{}{Desde luego. Hmmm. Esto va a llevar su tiempo, asÃ­ que tendrÃ¡s que pasar aquÃ­ la noche. Vas a
+ necesitar beberte esto... lo sÃ©, sabe asqueroso. Ahora, tan solo recuÃ©state y te despertarÃ©
+ por la maÃ±ana.}
+{118}{}{Siento bien. AdiÃ³s.}
+{119}{}{Gracias. Eso resolviÃ³ el problema.}
+{120}{}{Lo siento, pero no soy un doctor en medicina y no puedo llevar a cabo una cirugÃ­a. Te sugerirÃ­a que
+ fueras a una de las ciudades mÃ¡s grandes y buscases a un cirujano. IntÃ©ntalo en la RepÃºblica de Nueva California. EstÃ¡ al este de aquÃ­.}
+{121}{}{Vale. AdiÃ³s.}
 {122}{}{De acuerdo. Gracias de todos modos.}
-{123}{}{¿Qué es lo que quieres saber?}
-{124}{}{¿Tú prisionero?}
-{125}{}{¿Puedes irte si quieres?}
-{126}{}{¿Qué sabes de Garras?}
-{127}{}{¿Cómo vienes aquí?}
+{123}{}{Â¿QuÃ© es lo que quieres saber?}
+{124}{}{Â¿TÃº prisionero?}
+{125}{}{Â¿Puedes irte si quieres?}
+{126}{}{Â¿QuÃ© sabes de Garras?}
+{127}{}{Â¿CÃ³mo vienes aquÃ­?}
 {128}{}{Yo irme ahora.}
-{129}{}{¿Eres prisionero aquí?}
-{130}{}{¿Puedes marcharte si lo deseas?}
-{131}{}{¿Qué puedes contarme de las Garras mortales?}
-{132}{}{¿Cómo llegaste aquí en principio?}
-{133}{}{Gracias por la información. Me dirigiré afuera.}
-{134}{}{No, no soy un prisionero. Estoy aquí porque me necesitan. He aprendido a aceptar el hecho de que algunos de mis pacientes son Garras mortales.}
-{135}{}{Vale. Necesito saber más.}
-{136}{}{Gracias. Adiós.}
+{129}{}{Â¿Eres prisionero aquÃ­?}
+{130}{}{Â¿Puedes marcharte si lo deseas?}
+{131}{}{Â¿QuÃ© puedes contarme de las Garras mortales?}
+{132}{}{Â¿CÃ³mo llegaste aquÃ­ en principio?}
+{133}{}{Gracias por la informaciÃ³n. Me dirigirÃ© afuera.}
+{134}{}{No, no soy un prisionero. Estoy aquÃ­ porque me necesitan. He aprendido a aceptar el hecho de que algunos de mis pacientes son Garras mortales.}
+{135}{}{Vale. Necesito saber mÃ¡s.}
+{136}{}{Gracias. AdiÃ³s.}
 {137}{}{Eso dice mucho de ti.}
 {138}{}{Ya veo.}
-{139}{}{Esa es una decisión con la que no puedo estar de acuerdo, pero es tu vida.}
-{140}{}{Sí puedo, y a menudo lo hago. Tengo que recolectar mis hierbas de vez en cuando, y nunca me lo han impedido. Solía preguntarme si las Garras mortales me seguían en secreto y me detendrían de todos modos si intentase escapar. Así que un día puse a prueba esa teoría.}
+{139}{}{Esa es una decisiÃ³n con la que no puedo estar de acuerdo, pero es tu vida.}
+{140}{}{SÃ­ puedo, y a menudo lo hago. Tengo que recolectar mis hierbas de vez en cuando, y nunca me lo han impedido. SolÃ­a preguntarme si las Garras mortales me seguÃ­an en secreto y me detendrÃ­an de todos modos si intentase escapar. AsÃ­ que un dÃ­a puse a prueba esa teorÃ­a.}
 {141}{}{Lo tengo. Marcho ahora.}
-{142}{}{Necesito preguntar más.}
-{143}{}{Era una opción estúpida y tienes suerte de que diera resultado.}
+{142}{}{Necesito preguntar mÃ¡s.}
+{143}{}{Era una opciÃ³n estÃºpida y tienes suerte de que diera resultado.}
 {144}{}{De acuerdo.}
-{145}{}{Buena idea. Me alegra comprobar que funcionó.}
+{145}{}{Buena idea. Me alegra comprobar que funcionÃ³.}
 {146}{}{Bien, veamos... las Garras mortales parecen ser mutaciones de los camaleones Jackson, la variedad cornamentada.
- Muchas similitudes siguen presentes, pero el número de diferencias es aún mayor. El factor de
- mutación es realmente elevado. Esta especie es muy inteligente, el equivalente de un ser humano de ocho años,
+ Muchas similitudes siguen presentes, pero el nÃºmero de diferencias es aÃºn mayor. El factor de
+ mutaciÃ³n es realmente elevado. Esta especie es muy inteligente, el equivalente de un ser humano de ocho aÃ±os,
  con algunos individuos que alcanzan el nivel humano normal. Su capacidad de aprendizaje es muy alta y son
  capaces de pensamientos abstractos y razonamientos.}
 {147}{}{Eh... lo que has dicho.}
 {148}{}{Tengo que ir ahora yo.}
 {149}{}{Uh-huh.}
 {150}{}{Vaya, estoy impresionado con tus conocimientos.}
-{151}{}{A mí me suena a un montón de tonterías.}
-{152}{}{Una noche estaba recogiendo unas hierbas cuando una voz me llamó desde la oscuridad. 'Te he estado
- vigilando,' dijo, 'y sé que eres un curandero. ¿Dedicarías tu talento a curar
- a alguien ajeno a ti? ¿Alguien que muchos considerarían un enemigo?'}
+{151}{}{A mÃ­ me suena a un montÃ³n de tonterÃ­as.}
+{152}{}{Una noche estaba recogiendo unas hierbas cuando una voz me llamÃ³ desde la oscuridad. 'Te he estado
+ vigilando,' dijo, 'y sÃ© que eres un curandero. Â¿DedicarÃ­as tu talento a curar
+ a alguien ajeno a ti? Â¿Alguien que muchos considerarÃ­an un enemigo?'}
 {153}{}{Ugh.}
 {154}{}{Gracias. Marcho ahora.}
-{155}{}{Qué pérdida de tiempo quedarse aquí cuando podrías estar ayudando a los demás.}
+{155}{}{QuÃ© pÃ©rdida de tiempo quedarse aquÃ­ cuando podrÃ­as estar ayudando a los demÃ¡s.}
 {156}{}{Eres un hombre realmente dedicado que merece reconocimiento.}
 {157}{}{Interesante.}
-{158}{}{No ayudaré a alguien como tú. Márchate.}
-{159}{}{Viajé a otra ciudad y me quedé allí una semana más o menos, antes de volver. Cuando lo hice, fui
- acogido cálidamente. Gruthar, el líder de la manada, me visitó en privado y me dio las gracias personalmente por haber 
- regresado. No, definitivamente estoy aquí porque así lo quiero.}
+{158}{}{No ayudarÃ© a alguien como tÃº. MÃ¡rchate.}
+{159}{}{ViajÃ© a otra ciudad y me quedÃ© allÃ­ una semana mÃ¡s o menos, antes de volver. Cuando lo hice, fui
+ acogido cÃ¡lidamente. Gruthar, el lÃ­der de la manada, me visitÃ³ en privado y me dio las gracias personalmente por haber 
+ regresado. No, definitivamente estoy aquÃ­ porque asÃ­ lo quiero.}
 {160}{}{Aunque no tienen cuerdas vocales, las Garras mortales parecen imitar el habla humana como
- lo hace un loro. Aún tengo que descubrir el mecanismo exacto que hay tras ello, así que no puedo decir más
- de momento. Socialmente, son animales de manada con un código ético muy rígido. Los lidera un 'macho
- alfa' que gobierna con el consentimiento común de la manada. Parece que son extremadamente leales a la manada como un
- todo, tratándola como una unidad familiar en vez de tener familias individuales, como los humanos.}
-{161}{}{Su sentido del bien y del mal está muy bien definido. Siguen un código ético que se aplica
- a la manada en su conjunto. La violencia nunca se usa como solución a un problema dentro de la manada, hasta
- donde he podido comprobarlo. No han cometido 'crímenes capitales' aquí, así que no puedo decir cómo
+ lo hace un loro. AÃºn tengo que descubrir el mecanismo exacto que hay tras ello, asÃ­ que no puedo decir mÃ¡s
+ de momento. Socialmente, son animales de manada con un cÃ³digo Ã©tico muy rÃ­gido. Los lidera un 'macho
+ alfa' que gobierna con el consentimiento comÃºn de la manada. Parece que son extremadamente leales a la manada como un
+ todo, tratÃ¡ndola como una unidad familiar en vez de tener familias individuales, como los humanos.}
+{161}{}{Su sentido del bien y del mal estÃ¡ muy bien definido. Siguen un cÃ³digo Ã©tico que se aplica
+ a la manada en su conjunto. La violencia nunca se usa como soluciÃ³n a un problema dentro de la manada, hasta
+ donde he podido comprobarlo. No han cometido 'crÃ­menes capitales' aquÃ­, asÃ­ que no puedo decir cÃ³mo
  los resuelven. Hmmm. Eso es todo lo que se me ocurre por ahora. Espero que te ayude.}
-{162}{}{Le respondí que respetaba la vida en general y que haría todo lo posible por curar a los heridos, sin importar
- de quién o qué se trataba. Pensé que se trataría de algún ladrón o saqueador que se había herido a sí mismo y necesitaba
+{162}{}{Le respondÃ­ que respetaba la vida en general y que harÃ­a todo lo posible por curar a los heridos, sin importar
+ de quiÃ©n o quÃ© se trataba. PensÃ© que se tratarÃ­a de algÃºn ladrÃ³n o saqueador que se habÃ­a herido a sÃ­ mismo y necesitaba
  un doctor. Puedes imaginar mi sorpresa cuando un par de Garras mortales surgieron de la oscuridad
- con un compañero herido. Alguien le había disparado a base de bien. Les dije que no podía encargarme de él
- donde estábamos, así que me vendaron los ojos y me trajeron aquí. Y aquí he estado desde ese día.}
+ con un compaÃ±ero herido. Alguien le habÃ­a disparado a base de bien. Les dije que no podÃ­a encargarme de Ã©l
+ donde estÃ¡bamos, asÃ­ que me vendaron los ojos y me trajeron aquÃ­. Y aquÃ­ he estado desde ese dÃ­a.}

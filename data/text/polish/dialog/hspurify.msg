@@ -1,12 +1,12 @@
-{100}{}{Spory kawa³ machinerii.}
-{101}{}{Oczyszczacz powietrza wydaje stukaj¹ce i skrzypi¹ce dŸwiêki. Wygl¹da na zepsuty. Mo¿e potrzebna jest jakaœ czêœæ...}
-{102}{}{Oczyszczacz powietrza cicho warkocze. Wydaje siê, ¿e pracuje w porz¹dku.}
-{110}{}{Ta czêœæ nie pomo¿e w naprawie.}
-{120}{}{Uda³o ci siê naprawiæ oczyszczacz.}
-{125}{}{Uda³o ci siê zniszczyæ oczyszczacz.}
-{129}{}{Sabota¿yœci nie mog¹ ju¿ wys³aæ sygna³u zniszczenia do prze³¹cznika. Jest ju¿ bezu¿yteczny, wiêc go wyrzucasz.}
-{130}{}{Jest ju¿ naprawiony.}
+{100}{}{Spory kawaÅ‚ machinerii.}
+{101}{}{Oczyszczacz powietrza wydaje stukajÄ…ce i skrzypiÄ…ce dÅºwiÄ™ki. WyglÄ…da na zepsuty. MoÅ¼e potrzebna jest jakaÅ› czÄ™Å›Ä‡...}
+{102}{}{Oczyszczacz powietrza cicho warkocze. Wydaje siÄ™, Å¼e pracuje w porzÄ…dku.}
+{110}{}{Ta czÄ™Å›Ä‡ nie pomoÅ¼e w naprawie.}
+{120}{}{UdaÅ‚o ci siÄ™ naprawiÄ‡ oczyszczacz.}
+{125}{}{UdaÅ‚o ci siÄ™ zniszczyÄ‡ oczyszczacz.}
+{129}{}{SabotaÅ¼yÅ›ci nie mogÄ… juÅ¼ wysÅ‚aÄ‡ sygnaÅ‚u zniszczenia do przeÅ‚Ä…cznika. Jest juÅ¼ bezuÅ¼yteczny, wiÄ™c go wyrzucasz.}
+{130}{}{Jest juÅ¼ naprawiony.}
 {131}{}{Stuk}
 {132}{}{Skrzyp}
-{133}{}{Brzdêk}
+{133}{}{BrzdÄ™k}
 {134}{}{Whirrrrrrrr}

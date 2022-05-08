@@ -10,7 +10,7 @@
  name.}
 {108}{}{I'm just a normal person who is quite impressed with your special nature. Can you tell me your
  name?}
-{109}{}{N„o importa.}
+{109}{}{N√£o importa.}
 {110}{}{(Giggles) You look funny! Meow... I'm Sandy. I'm not really a cat. I just like to play like I
  am.}
 {111}{}{(Screams) Mommy! Mommy! Mommy!}
@@ -27,7 +27,7 @@
 {122}{}{Are you forced to stay here?}
 {123}{}{Do you like it here?}
 {124}{}{Are you safe here?}
-{125}{}{Deixa pra l·. Tchau.}
+{125}{}{Deixa pra l√°. Tchau.}
 {126}{}{Yeah. My mom always tells me where I can and can't go. She tells me where I can play and when
  to eat and when to go to bed and when to go potty and when to go to school and everything. I don't think
  it's fair that she can do anything she wants but I've gotta do what she says all the time.}

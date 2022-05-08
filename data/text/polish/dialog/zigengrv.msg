@@ -1,115 +1,115 @@
-{100}{}{Widzisz grób.}
-{101}{}{Widzisz rozkopany grób.}
-{102}{}{Masz przed sob¹ mogi³ê.}
-{103}{}{Masz przed sob¹ odkryt¹ mogi³ê.}
-{150}{}{Ten grób zosta³ zakryty.}
-{151}{}{Ten grób zosta³ rozkopany.}
+{100}{}{Widzisz grÃ³b.}
+{101}{}{Widzisz rozkopany grÃ³b.}
+{102}{}{Masz przed sobÄ… mogiÅ‚Ä™.}
+{103}{}{Masz przed sobÄ… odkrytÄ… mogiÅ‚Ä™.}
+{150}{}{Ten grÃ³b zostaÅ‚ zakryty.}
+{151}{}{Ten grÃ³b zostaÅ‚ rozkopany.}
 {200}{}{Widzisz nagrobek.}
 {201}{}{Widzisz nagrobek.}
 {250}{}{Na tym nagrobku nie ma napisu.}
-{251}{}{Napis na tym nagrobku zosta³ zatarty.}
-{252}{}{Napis na grobie g³osi John Doe.}
-{253}{}{Napis na tym nagrobku zosta³ zatarty przez pogodê.}
-{260}{}{Nie ma ¿adnego napisu na tym nagrobku.}
-{261}{}{Napis na tej p³ycie nagrobnej zosta³ zatarty.}
+{251}{}{Napis na tym nagrobku zostaÅ‚ zatarty.}
+{252}{}{Napis na grobie gÅ‚osi John Doe.}
+{253}{}{Napis na tym nagrobku zostaÅ‚ zatarty przez pogodÄ™.}
+{260}{}{Nie ma Å¼adnego napisu na tym nagrobku.}
+{261}{}{Napis na tej pÅ‚ycie nagrobnej zostaÅ‚ zatarty.}
 {262}{}{Nazwisko na nagrobku Zbyszek Nowak.}
-{263}{}{Napis na tym nagrobku zosta³ zatarty przez pogodê.}
-{275}{}{Nagrobek g³osi: }
+{263}{}{Napis na tym nagrobku zostaÅ‚ zatarty przez pogodÄ™.}
+{275}{}{Nagrobek gÅ‚osi: }
 {276}{}{Na nagrobku jest napisane: }
-{300}{}{"Tu spoczywa Chris Avellone, Król Parkietu."}
+{300}{}{"Tu spoczywa Chris Avellone, KrÃ³l Parkietu."}
 {301}{}{"Chris Jones. Nietoperz."}
-{302}{}{"Christopher Michael Holland, alias 'Chris Holland', alias 'Chris': Istnieje dwa i pó³ powodu, dla którego warto przeczytaæ ten nagrobek... Normalnie, powody te zosta³yby wypisane."}
-{303}{}{"Colin McComb: Kolejny bezcelowy ¿ywot."}
-{304}{}{"David Hendee: najg³oœniejszy poœród martwych. Niech spoczywa w pokoju... i ciszy."}
-{305}{}{"Ed Hyland. Kaza³ œwiatu siê odwaliæ."}
-{306}{}{"Eric Demilt. PRAWDZIWY Bojowy Ch³opak."}
-{307}{}{"Feargus Urquhart: Sporz¹dzi³ o jedn¹ przeklêt¹ listê za du¿o."}
-{308}{}{"Fred Hatch. Umar³ podczas nagrywania g³osu Myrona."}
-{309}{}{"Gary Platner. Zabity za NIE zrobienie wiêkszej liczby modeli mieszkañców Kryptopolis."}
-{310}{}{"Jason Anderson: wci¹¿ bóg, ale ju¿ nie ¿ywy."}
+{302}{}{"Christopher Michael Holland, alias 'Chris Holland', alias 'Chris': Istnieje dwa i pÃ³Å‚ powodu, dla ktÃ³rego warto przeczytaÄ‡ ten nagrobek... Normalnie, powody te zostaÅ‚yby wypisane."}
+{303}{}{"Colin McComb: Kolejny bezcelowy Å¼ywot."}
+{304}{}{"David Hendee: najgÅ‚oÅ›niejszy poÅ›rÃ³d martwych. Niech spoczywa w pokoju... i ciszy."}
+{305}{}{"Ed Hyland. KazaÅ‚ Å›wiatu siÄ™ odwaliÄ‡."}
+{306}{}{"Eric Demilt. PRAWDZIWY Bojowy ChÅ‚opak."}
+{307}{}{"Feargus Urquhart: SporzÄ…dziÅ‚ o jednÄ… przeklÄ™tÄ… listÄ™ za duÅ¼o."}
+{308}{}{"Fred Hatch. UmarÅ‚ podczas nagrywania gÅ‚osu Myrona."}
+{309}{}{"Gary Platner. Zabity za NIE zrobienie wiÄ™kszej liczby modeli mieszkaÅ„cÃ³w Kryptopolis."}
+{310}{}{"Jason Anderson: wciÄ…Å¼ bÃ³g, ale juÅ¼ nie Å¼ywy."}
 {311}{}{"Jason G. Suinn."}
 {312}{}{"Jason Taylor."}
-{313}{}{"Jeremy Barnes. £ysog³owa ma³pa z Black Isle."}
-{314}{}{"Jesse Reynolds. Lubi³ sobie goln¹æ. Za bardzo..."}
+{313}{}{"Jeremy Barnes. ÅysogÅ‚owa maÅ‚pa z Black Isle."}
+{314}{}{"Jesse Reynolds. LubiÅ‚ sobie golnÄ…Ä‡. Za bardzo..."}
 {315}{}{"John Deiley."}
 {316}{}{"John Price."}
 {317}{}{"Leonard Boyarski. Wygnaniec z Kryptopolis."}
-{318}{}{"Rupert Dinkos, umar³ zim¹ '00."}
-{319}{}{"Matt Norton. Móg³ do czegoœ dojœæ. Móg³ byæ KIMŒ WA¯NYM, a nie obibokiem, którym by³."}
-{320}{}{"Nick Kesting." [Na grobie stoi ma³e wiaderko pe³ne miedzianych ³usek.]}
-{321}{}{"Robert Collier. Cichy. Zabójczy. Rob."}
-{322}{}{"Robert Hertenstein 2. Jego doktor próbowa³ mu to powiedzieæ, ale ten upar³ siê, ¿e 'Trochê za du¿o tych informacji.'"}
+{318}{}{"Rupert Dinkos, umarÅ‚ zimÄ… '00."}
+{319}{}{"Matt Norton. MÃ³gÅ‚ do czegoÅ› dojÅ›Ä‡. MÃ³gÅ‚ byÄ‡ KIMÅš WAÅ»NYM, a nie obibokiem, ktÃ³rym byÅ‚."}
+{320}{}{"Nick Kesting." [Na grobie stoi maÅ‚e wiaderko peÅ‚ne miedzianych Å‚usek.]}
+{321}{}{"Robert Collier. Cichy. ZabÃ³jczy. Rob."}
+{322}{}{"Robert Hertenstein 2. Jego doktor prÃ³bowaÅ‚ mu to powiedzieÄ‡, ale ten uparÅ‚ siÄ™, Å¼e 'TrochÄ™ za duÅ¼o tych informacji.'"}
 {323}{}{"Scott Campbell. Nie ten od zupy."}
-{324}{}{"Tu spoczywa Scott Everts. SpóŸnia³ siê do pracy. Zd¹¿y³ na sw¹ œmieræ."}
-{325}{}{"Scott Rodenhizer. Twórca trójwymiarowych g³ów."}
-{326}{}{"Thomas French: Zgin¹³ próbuj¹c opanowaæ Lataj¹c¹ Gilotynê."}
-{327}{}{"Tim Cain. Za³o¿yciel, Kochanek, Wojownik, Programista."}
-{328}{}{"Tramell Ray Isaac: Tu spoczywa jeden z najciê¿ej pracuj¹cych ludzi w bran¿y. Animator par excellence (jak siê to pisze?). Tak myœlê. Spoczywaj w pokoju T-Ray."}
-{329}{}{"Zeb - Wci¹¿ Starszy Ni¿ Brud."}
-{330}{}{"Dennis Presnell. Prawie go teraz s³yszymy. 'Nazywacie to pogrzebem?! By³ do kitu! Jesteœcie !@#je! Ju¿ nigdy wiêcej nie umrê! Bla bla bla...'" Wydrapane poni¿ej g³osi, "Panie, miej w opiece 'Wyj¹cego' D., powinien by³ zostaæ do poprawek."}
-{331}{}{"Rupert Diukos, zmar³ 24/9/96."}
-{332}{}{"Sal De Ban, zmar³ 24/9/96."}
-{333}{}{"Greg Zeschule, jesieñ '99."}
+{324}{}{"Tu spoczywa Scott Everts. SpÃ³ÅºniaÅ‚ siÄ™ do pracy. ZdÄ…Å¼yÅ‚ na swÄ… Å›mierÄ‡."}
+{325}{}{"Scott Rodenhizer. TwÃ³rca trÃ³jwymiarowych gÅ‚Ã³w."}
+{326}{}{"Thomas French: ZginÄ…Å‚ prÃ³bujÄ…c opanowaÄ‡ LatajÄ…cÄ… GilotynÄ™."}
+{327}{}{"Tim Cain. ZaÅ‚oÅ¼yciel, Kochanek, Wojownik, Programista."}
+{328}{}{"Tramell Ray Isaac: Tu spoczywa jeden z najciÄ™Å¼ej pracujÄ…cych ludzi w branÅ¼y. Animator par excellence (jak siÄ™ to pisze?). Tak myÅ›lÄ™. Spoczywaj w pokoju T-Ray."}
+{329}{}{"Zeb - WciÄ…Å¼ Starszy NiÅ¼ Brud."}
+{330}{}{"Dennis Presnell. Prawie go teraz sÅ‚yszymy. 'Nazywacie to pogrzebem?! ByÅ‚ do kitu! JesteÅ›cie !@#je! JuÅ¼ nigdy wiÄ™cej nie umrÄ™! Bla bla bla...'" Wydrapane poniÅ¼ej gÅ‚osi, "Panie, miej w opiece 'WyjÄ…cego' D., powinien byÅ‚ zostaÄ‡ do poprawek."}
+{331}{}{"Rupert Diukos, zmarÅ‚ 24/9/96."}
+{332}{}{"Sal De Ban, zmarÅ‚ 24/9/96."}
+{333}{}{"Greg Zeschule, jesieÅ„ '99."}
 {334}{}{"Ray Muzyka, lato '98."}
-{335}{}{"Evan Chantland, 74-??: Wcale nie mia³ paranoi, oni naprawdê go œledzili!"}
-{336}{}{"Tu spoczywa £oœ, zimny i martwy. Tu go znaleŸliœmy, nie mia³ g³owy."}
+{335}{}{"Evan Chantland, 74-??: Wcale nie miaÅ‚ paranoi, oni naprawdÄ™ go Å›ledzili!"}
+{336}{}{"Tu spoczywa ÅoÅ›, zimny i martwy. Tu go znaleÅºliÅ›my, nie miaÅ‚ gÅ‚owy."}
 {337}{}{"Amy Presnell."}
-{338}{}{"Stephen Bokkes, lat 25. Zgin¹³ m³odo od pocisków zawistnego losu." }
-{339}{}{"Tu spoczywa Doug "Skully" Finch (Data nie jest wa¿na). Zabity za palenie w supermarkecie. Ostatnie s³owa - `A mo¿ecie mi...!'"}
-{340}{}{"Tu spoczywa Donnie Cornwell, dobry i martwy. W ekstra du¿ej trumnie, ¿eby pomieœci³a jego ekstra du¿¹ g³owê."}
-{341}{}{"Rob Giampa wiód³ takie ¿ycie, jakie lubi³ kobiety: szybkie, tanie i ³atwe."}
-{342}{}{"T. D. Hamilton: Tu le¿y œmierdz¹ca szmata, która powinna by³a umrzeæ dawno temu? Sma¿ siê w piekle, SUKO!"}
+{338}{}{"Stephen Bokkes, lat 25. ZginÄ…Å‚ mÅ‚odo od pociskÃ³w zawistnego losu." }
+{339}{}{"Tu spoczywa Doug "Skully" Finch (Data nie jest waÅ¼na). Zabity za palenie w supermarkecie. Ostatnie sÅ‚owa - `A moÅ¼ecie mi...!'"}
+{340}{}{"Tu spoczywa Donnie Cornwell, dobry i martwy. W ekstra duÅ¼ej trumnie, Å¼eby pomieÅ›ciÅ‚a jego ekstra duÅ¼Ä… gÅ‚owÄ™."}
+{341}{}{"Rob Giampa wiÃ³dÅ‚ takie Å¼ycie, jakie lubiÅ‚ kobiety: szybkie, tanie i Å‚atwe."}
+{342}{}{"T. D. Hamilton: Tu leÅ¼y Å›mierdzÄ…ca szmata, ktÃ³ra powinna byÅ‚a umrzeÄ‡ dawno temu? SmaÅ¼ siÄ™ w piekle, SUKO!"}
 {343}{}{"Kolejna ofiara ostatecznego terminu."}
-{344}{}{"Dogbomb nie ¿yje. Niech ¿yje Dog."}
-{345}{}{"Kris Snider: Zabi³a go rywalizacja."}
-{346}{}{"Czy twoje ¿ycie ma sens?"}
-{347}{}{"Zabij siê sam i oszczêdŸ komuœ k³opotu?"}
-{348}{}{"Charles Cuevas: Powiedzia³ kiedyœ, 'Dajcie mi hokej, albo dajcie mi œmieræ.' Hokeja nie dosta³."}
+{344}{}{"Dogbomb nie Å¼yje. Niech Å¼yje Dog."}
+{345}{}{"Kris Snider: ZabiÅ‚a go rywalizacja."}
+{346}{}{"Czy twoje Å¼ycie ma sens?"}
+{347}{}{"Zabij siÄ™ sam i oszczÄ™dÅº komuÅ› kÅ‚opotu?"}
+{348}{}{"Charles Cuevas: PowiedziaÅ‚ kiedyÅ›, 'Dajcie mi hokej, albo dajcie mi Å›mierÄ‡.' Hokeja nie dostaÅ‚."}
 {349}{}{"William Lebus."}
-{350}{}{"Reg Arnedo: echo jego g³osu wci¹¿ rozbrzmiewa w korytarzach."}
+{350}{}{"Reg Arnedo: echo jego gÅ‚osu wciÄ…Å¼ rozbrzmiewa w korytarzach."}
 {351}{}{"Shanna SanPaolo."}
 {352}{}{"Brahmin Wrangler."}
-{353}{}{"Josh Walters, 1971-2011. Umar³ w wyniku komplikacji po pi¹tym przeszczepie w¹troby."}
-{354}{}{"Doug Avery. Znienawidzi³ wojnê za zniszczenie osiedla przyczep campingowych, na którym mieszka³."}
-{355}{}{"Tu spoczywa Ezekial Aikle, lat 102. Tylko dobrzy umieraj¹ m³odo."}
-{356}{}{"Tu spoczywa Ann Mann, która ¿y³a jako stara panna, ale umar³ jako stary mê¿czyzna. 8 grudnia, 1767"}
-{357}{}{"Dzieci Izraela chcia³y chleba, a Pan zes³a³ im mannê, stary Wallace chcia³ ¿onê, a Diabe³ zes³a³ mu Annê."}
-{358}{}{"Tu le¿y Jaœ Dro¿d¿e. Wybaczcie mi, ¿e nie rosnê."}
-{359}{}{"Tu spoczywaj¹ doczesne szcz¹tki Jonathana Blake'a. Nie chcia³ nam wierzyæ, ¿e gaz jest po prawej."}
-{360}{}{"Tu spoczywa Butch, niech go Pan dogl¹da. Szybko ci¹gn¹³ za spust, wolno broñ wyci¹ga³."}
-{361}{}{"Œwiêtej pamiêci John Barnes. Zmar³ tragicznie 3 stycznia 1803 roku. Jego urodziwa m³oda wdowa, lat 23, z licznymi cechami dobrej ¿ony, chêtnie spotka pocieszyciela."}
-{362}{}{"Sir Jan Dziwny, tu le¿y uczciwy prawnik i to jest dziwne."}
-{363}{}{"By³em KIMŒ! Kim? Nie twój interes!"}
-{364}{}{"Tu spoczywa Lester Moore. Postrzeli³ siê trzykrotnie w potylicê przy czyszczeniu broni."}
-{365}{}{"Mówi³em, ¿e Ÿle siê czujê! Ale nie! Wy wiedzieliœcie lepiej!!!"}
-{366}{}{"Jeœli szukasz kasy, ³ap ³opatê, kop dó³, a znajdziesz Grosik."}
-{367}{}{"Czêsto mawia³a, ¿e umiera z nudów, ale nikt jej nie s³ucha³."}
-{368}{}{"20-go paŸdziernika Adam Kozio³ przesta³ fikaæ."}
-{369}{}{"Tu spoczywa nasza Anna, za³atwiona przez banana. Najlepszy dowód na to, ¿e nawet na owocu mo¿na siê przejechaæ."}
-{370}{}{"Pamiêci Owena Moore. Chocia¿ na tyle by³o go staæ."}
-{371}{}{"Pamiêci Chrisa Wooda, pochowanego w piêknej, dêbowej trumnie. Najlepszy dowód na to, ¿e piêkne opakowanie nie zawsze skrywa ³adny prezent.}
-{372}{}{"Tu spoczywaj¹ doczesne szcz¹tki Jonathana Pease. Bóg jest cierpliwy i mi³osierny. Cierpliwoœæ bêdzie mu bardzo potrzebna."}
-{373}{}{"Zgin¹³ tragicznie 21 marca 1870 r. w wyniku eksplozji "Nie-eksploduj¹cego paliwa R.E. Danfortha"."}
-{374}{}{"Urodzona 1903 - zmar³a 1942. Spojrza³a w górê szybu windy, by sprawdziæ, czy ta jedzie w dó³. Jecha³a."}
-{375}{}{"Tu spoczywa Ateista. Ca³y wystrojony ale nie ma dok¹d pójœæ!"}
-{376}{}{"Eileen Suh: Bóg jest nieograniczony w swym mi³osierdziu. Ona by³a niemi³osiernie ograniczona."}
+{353}{}{"Josh Walters, 1971-2011. UmarÅ‚ w wyniku komplikacji po piÄ…tym przeszczepie wÄ…troby."}
+{354}{}{"Doug Avery. ZnienawidziÅ‚ wojnÄ™ za zniszczenie osiedla przyczep campingowych, na ktÃ³rym mieszkaÅ‚."}
+{355}{}{"Tu spoczywa Ezekial Aikle, lat 102. Tylko dobrzy umierajÄ… mÅ‚odo."}
+{356}{}{"Tu spoczywa Ann Mann, ktÃ³ra Å¼yÅ‚a jako stara panna, ale umarÅ‚ jako stary mÄ™Å¼czyzna. 8 grudnia, 1767"}
+{357}{}{"Dzieci Izraela chciaÅ‚y chleba, a Pan zesÅ‚aÅ‚ im mannÄ™, stary Wallace chciaÅ‚ Å¼onÄ™, a DiabeÅ‚ zesÅ‚aÅ‚ mu AnnÄ™."}
+{358}{}{"Tu leÅ¼y JaÅ› DroÅ¼dÅ¼e. Wybaczcie mi, Å¼e nie rosnÄ™."}
+{359}{}{"Tu spoczywajÄ… doczesne szczÄ…tki Jonathana Blake'a. Nie chciaÅ‚ nam wierzyÄ‡, Å¼e gaz jest po prawej."}
+{360}{}{"Tu spoczywa Butch, niech go Pan doglÄ…da. Szybko ciÄ…gnÄ…Å‚ za spust, wolno broÅ„ wyciÄ…gaÅ‚."}
+{361}{}{"ÅšwiÄ™tej pamiÄ™ci John Barnes. ZmarÅ‚ tragicznie 3 stycznia 1803 roku. Jego urodziwa mÅ‚oda wdowa, lat 23, z licznymi cechami dobrej Å¼ony, chÄ™tnie spotka pocieszyciela."}
+{362}{}{"Sir Jan Dziwny, tu leÅ¼y uczciwy prawnik i to jest dziwne."}
+{363}{}{"ByÅ‚em KIMÅš! Kim? Nie twÃ³j interes!"}
+{364}{}{"Tu spoczywa Lester Moore. PostrzeliÅ‚ siÄ™ trzykrotnie w potylicÄ™ przy czyszczeniu broni."}
+{365}{}{"MÃ³wiÅ‚em, Å¼e Åºle siÄ™ czujÄ™! Ale nie! Wy wiedzieliÅ›cie lepiej!!!"}
+{366}{}{"JeÅ›li szukasz kasy, Å‚ap Å‚opatÄ™, kop dÃ³Å‚, a znajdziesz Grosik."}
+{367}{}{"CzÄ™sto mawiaÅ‚a, Å¼e umiera z nudÃ³w, ale nikt jej nie sÅ‚uchaÅ‚."}
+{368}{}{"20-go paÅºdziernika Adam KozioÅ‚ przestaÅ‚ fikaÄ‡."}
+{369}{}{"Tu spoczywa nasza Anna, zaÅ‚atwiona przez banana. Najlepszy dowÃ³d na to, Å¼e nawet na owocu moÅ¼na siÄ™ przejechaÄ‡."}
+{370}{}{"PamiÄ™ci Owena Moore. ChociaÅ¼ na tyle byÅ‚o go staÄ‡."}
+{371}{}{"PamiÄ™ci Chrisa Wooda, pochowanego w piÄ™knej, dÄ™bowej trumnie. Najlepszy dowÃ³d na to, Å¼e piÄ™kne opakowanie nie zawsze skrywa Å‚adny prezent.}
+{372}{}{"Tu spoczywajÄ… doczesne szczÄ…tki Jonathana Pease. BÃ³g jest cierpliwy i miÅ‚osierny. CierpliwoÅ›Ä‡ bÄ™dzie mu bardzo potrzebna."}
+{373}{}{"ZginÄ…Å‚ tragicznie 21 marca 1870 r. w wyniku eksplozji "Nie-eksplodujÄ…cego paliwa R.E. Danfortha"."}
+{374}{}{"Urodzona 1903 - zmarÅ‚a 1942. SpojrzaÅ‚a w gÃ³rÄ™ szybu windy, by sprawdziÄ‡, czy ta jedzie w dÃ³Å‚. JechaÅ‚a."}
+{375}{}{"Tu spoczywa Ateista. CaÅ‚y wystrojony ale nie ma dokÄ…d pÃ³jÅ›Ä‡!"}
+{376}{}{"Eileen Suh: BÃ³g jest nieograniczony w swym miÅ‚osierdziu. Ona byÅ‚a niemiÅ‚osiernie ograniczona."}
 {377}{}{"Sarah Smart: Oratorka, Autorka, Profesorka, De Amicitia."}
-{378}{}{"Tim Winkle - Nie zniosê niczyjej hipokryzji, poza swoj¹."}
-{379}{}{"Jughead – Król Œwita Królowej Archie."}
-{380}{}{"Casey Donahue. Zmar³ 06.08.98. Skoczy³ z dachu, lecz zosta³ trafiony przez piorun nim spad³ na ziemiê. Z technicznego punktu widzenia NIE BY£ samobójc¹."}
+{378}{}{"Tim Winkle - Nie zniosÄ™ niczyjej hipokryzji, poza swojÄ…."}
+{379}{}{"Jughead â€“ KrÃ³l Åšwita KrÃ³lowej Archie."}
+{380}{}{"Casey Donahue. ZmarÅ‚ 06.08.98. SkoczyÅ‚ z dachu, lecz zostaÅ‚ trafiony przez piorun nim spadÅ‚ na ziemiÄ™. Z technicznego punktu widzenia NIE BYÅ samobÃ³jcÄ…."}
 {381}{}{"Christopher 'Nietoperz' Jones: zapalony zielarz."}
-{382}{}{"Jay "Kartoflane Stopy" Nielson. Muzyk. Zmar³ w wieku 104 lat, podczas solówki na perkusji."}
-{383}{}{"Nitsa - Powód, dla którego Charles NIE DOSTA£ hokeja."}
-{384}{}{"Thuy Dang. Niech Bóg zlituje siê nad jego nazwiskiem."}
-{500}{}{Zrêcznie zastawiasz pu³apkê na grobie.}
-{501}{}{Nie udaje ci siê zastawiæ pu³apki na grobie.}
-{510}{}{ zrêcznie zak³ada pu³apkê na grobie.}
-{511}{}{ nie jest w stanie za³o¿yæ pu³apki na grobie.}
-{515}{}{Znajdujesz pu³apkê.}
-{516}{}{Nie znajdujesz ¿adnej pu³apki.}
-{520}{}{ znajduje pu³apkê na grobie.}
-{521}{}{ nie znajduje ¿adnej pu³apki na grobie.}
-{525}{}{Sprawnie rozbrajasz pu³apkê.}
-{526}{}{Nie uda³o ci siê rozbroiæ pu³apki.}
-{530}{}{ sprawnie rozbraja pu³apkê.}
-{531}{}{ nie jest w stanie rozbroiæ pu³apki.}
+{382}{}{"Jay "Kartoflane Stopy" Nielson. Muzyk. ZmarÅ‚ w wieku 104 lat, podczas solÃ³wki na perkusji."}
+{383}{}{"Nitsa - PowÃ³d, dla ktÃ³rego Charles NIE DOSTAÅ hokeja."}
+{384}{}{"Thuy Dang. Niech BÃ³g zlituje siÄ™ nad jego nazwiskiem."}
+{500}{}{ZrÄ™cznie zastawiasz puÅ‚apkÄ™ na grobie.}
+{501}{}{Nie udaje ci siÄ™ zastawiÄ‡ puÅ‚apki na grobie.}
+{510}{}{ zrÄ™cznie zakÅ‚ada puÅ‚apkÄ™ na grobie.}
+{511}{}{ nie jest w stanie zaÅ‚oÅ¼yÄ‡ puÅ‚apki na grobie.}
+{515}{}{Znajdujesz puÅ‚apkÄ™.}
+{516}{}{Nie znajdujesz Å¼adnej puÅ‚apki.}
+{520}{}{ znajduje puÅ‚apkÄ™ na grobie.}
+{521}{}{ nie znajduje Å¼adnej puÅ‚apki na grobie.}
+{525}{}{Sprawnie rozbrajasz puÅ‚apkÄ™.}
+{526}{}{Nie udaÅ‚o ci siÄ™ rozbroiÄ‡ puÅ‚apki.}
+{530}{}{ sprawnie rozbraja puÅ‚apkÄ™.}
+{531}{}{ nie jest w stanie rozbroiÄ‡ puÅ‚apki.}

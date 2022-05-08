@@ -1,149 +1,149 @@
 {100}{}{Widzisz Tylera.}
-{101}{}{Widzisz Tylera, przywódcê gangu.}
-{150}{}{Wygl¹da na niez³ego osi³ka.}
-{200}{}{Hej, odpierdol siê od tych drzwi.}
+{101}{}{Widzisz Tylera, przywÃ³dcÄ™ gangu.}
+{150}{}{WyglÄ…da na niezÅ‚ego osiÅ‚ka.}
+{200}{}{Hej, odpierdol siÄ™ od tych drzwi.}
 {201}{}{Debil.}
 {210}{}{Koniec zabawy.}
-{220}{}{Mówi³em ci, ¿e to ³atwizna.}
-{221}{}{To by³o ³atwe - jak strzelanie do œpi¹cego!}
-{222}{}{Ta jebana suka wreszcie nie ¿yje!}
-{223}{}{Dziêki za cynk, mi³o z twojej strony.}
-{230}{}{Gdzie ciê do cholery wciê³o?}
-{231}{}{Zasrana pu³apka! Pieprzenie.}
-{232}{}{Móg³bym ciê teraz wypatroszyæ.}
-{233}{}{Twój wielki plan poszed³ siê goniæ.}
-{234}{}{Co jest, zachcia³o ci siê sraæ, czy co?}
-{235}{}{Jak mo¿na by³o coœ takiego spieprzyæ?!}
-{240}{}{PrzyprowadŸ tylko tutaj te ofiary a my rozsmarujemy je po œcianach.}
+{220}{}{MÃ³wiÅ‚em ci, Å¼e to Å‚atwizna.}
+{221}{}{To byÅ‚o Å‚atwe - jak strzelanie do Å›piÄ…cego!}
+{222}{}{Ta jebana suka wreszcie nie Å¼yje!}
+{223}{}{DziÄ™ki za cynk, miÅ‚o z twojej strony.}
+{230}{}{Gdzie ciÄ™ do cholery wciÄ™Å‚o?}
+{231}{}{Zasrana puÅ‚apka! Pieprzenie.}
+{232}{}{MÃ³gÅ‚bym ciÄ™ teraz wypatroszyÄ‡.}
+{233}{}{TwÃ³j wielki plan poszedÅ‚ siÄ™ goniÄ‡.}
+{234}{}{Co jest, zachciaÅ‚o ci siÄ™ sraÄ‡, czy co?}
+{235}{}{Jak moÅ¼na byÅ‚o coÅ› takiego spieprzyÄ‡?!}
+{240}{}{PrzyprowadÅº tylko tutaj te ofiary a my rozsmarujemy je po Å›cianach.}
 {241}{}{Czekamy.}
-{242}{}{Nie mamy na to ca³ej nocy.}
-{243}{}{Na co czekasz? Chcê ju¿ kogoœ zabiæ.}
-{244}{}{Bierz siê do roboty zanim nabior¹ podejrzeñ!}
-{245}{}{Rusz wreszcie dupê.}
-{250}{}{Kto ty, kurwa, jesteœ i czego tu, kurwa, szukasz?}
+{242}{}{Nie mamy na to caÅ‚ej nocy.}
+{243}{}{Na co czekasz? ChcÄ™ juÅ¼ kogoÅ› zabiÄ‡.}
+{244}{}{Bierz siÄ™ do roboty zanim nabiorÄ… podejrzeÅ„!}
+{245}{}{Rusz wreszcie dupÄ™.}
+{250}{}{Kto ty, kurwa, jesteÅ› i czego tu, kurwa, szukasz?}
 {251}{}{Czego tu znowu szukasz?}
-{252}{}{Metzger mnie przys³a³. Potrzebuje kilku niewolników.}
-{253}{}{Mam siê rozejrzeæ w œrodku.}
-{254}{}{Niewa¿ne. ¯egnaj.}
+{252}{}{Metzger mnie przysÅ‚aÅ‚. Potrzebuje kilku niewolnikÃ³w.}
+{253}{}{Mam siÄ™ rozejrzeÄ‡ w Å›rodku.}
+{254}{}{NiewaÅ¼ne. Å»egnaj.}
 {255}{}{Ja }
-{256}{}{Parówa?}
-{260}{}{Po jak¹ cholerê? Jego towar nigdzie siê nie wybiera.}
-{261}{}{To jego œwiñstwo jest tam, gdzie byæ powinno.}
-{262}{}{A, tak. Jesteœ teraz £owc¹, co? No i czego chce stary? Przecie¿ ten towar nigdzie siê nie wybiera.}
-{263}{}{Mam sprawdziæ, czy wszystko jest w porz¹dku.}
-{264}{}{Mimo to chcê siê upewniæ.}
-{265}{}{Niewa¿ne.}
-{270}{}{Taa, jaaasne. Tylko jakoœ nigdy ciê tu wczeœniej nie widzia³em. Spieprzaj st¹d.}
-{271}{}{Wpuœæ mnie do œrodka zanim przemodelujê ci twarz!}
-{272}{}{S³uchaj, Matzger œci¹gn¹³ mnie do miasta bo chce, ¿eby ktoœ z zewn¹trz dopilnowa³, ¿e wszystko jest OK.}
-{273}{}{W porz¹dku.}
-{280}{}{Niech ci bêdzie. W³aŸ. Co on, boi siê, ¿e mu to wyjdzie na w³asnych nogach? Przecie¿ nikt mu tego nie zabierze!}
-{281}{}{Pieprzyæ. W³aŸ do œrodka. Co on, boi siê, ¿e mu to wyjdzie na w³asnych nogach? Przecie¿ nikt mu tego nie zabierze!}
+{256}{}{ParÃ³wa?}
+{260}{}{Po jakÄ… cholerÄ™? Jego towar nigdzie siÄ™ nie wybiera.}
+{261}{}{To jego Å›wiÅ„stwo jest tam, gdzie byÄ‡ powinno.}
+{262}{}{A, tak. JesteÅ› teraz ÅowcÄ…, co? No i czego chce stary? PrzecieÅ¼ ten towar nigdzie siÄ™ nie wybiera.}
+{263}{}{Mam sprawdziÄ‡, czy wszystko jest w porzÄ…dku.}
+{264}{}{Mimo to chcÄ™ siÄ™ upewniÄ‡.}
+{265}{}{NiewaÅ¼ne.}
+{270}{}{Taa, jaaasne. Tylko jakoÅ› nigdy ciÄ™ tu wczeÅ›niej nie widziaÅ‚em. Spieprzaj stÄ…d.}
+{271}{}{WpuÅ›Ä‡ mnie do Å›rodka zanim przemodelujÄ™ ci twarz!}
+{272}{}{SÅ‚uchaj, Matzger Å›ciÄ…gnÄ…Å‚ mnie do miasta bo chce, Å¼eby ktoÅ› z zewnÄ…trz dopilnowaÅ‚, Å¼e wszystko jest OK.}
+{273}{}{W porzÄ…dku.}
+{280}{}{Niech ci bÄ™dzie. WÅ‚aÅº. Co on, boi siÄ™, Å¼e mu to wyjdzie na wÅ‚asnych nogach? PrzecieÅ¼ nikt mu tego nie zabierze!}
+{281}{}{PieprzyÄ‡. WÅ‚aÅº do Å›rodka. Co on, boi siÄ™, Å¼e mu to wyjdzie na wÅ‚asnych nogach? PrzecieÅ¼ nikt mu tego nie zabierze!}
 {282}{}{Bywaj.}
-{290}{}{Pieprzyæ to, mam to gdzieœ. Zreszt¹ i tak nic z tym nie zrobisz.}
+{290}{}{PieprzyÄ‡ to, mam to gdzieÅ›. ZresztÄ… i tak nic z tym nie zrobisz.}
 {291}{}{Grrrr.}
-{292}{}{Dziêkujê.}
-{300}{}{Spadaj, twardzielu, zanim rozwalê ci maskê.}
-{301}{}{Spadaj, suko. Metzger nigdy nie przys³a³by tu laski. No ju¿, zje¿d¿aj st¹d!}
-{302}{}{Suka? Poka¿ê ci co potrafi ta SUKA!}
-{303}{}{IdŸ siê jebaæ.}
-{304}{}{[OdejdŸ.]}
-{310}{}{Zje¿d¿aj.}
-{320}{}{To bardzo ³adnie. Ja Tyler. Ty iœæ pa pa.}
+{292}{}{DziÄ™kujÄ™.}
+{300}{}{Spadaj, twardzielu, zanim rozwalÄ™ ci maskÄ™.}
+{301}{}{Spadaj, suko. Metzger nigdy nie przysÅ‚aÅ‚by tu laski. No juÅ¼, zjeÅ¼dÅ¼aj stÄ…d!}
+{302}{}{Suka? PokaÅ¼Ä™ ci co potrafi ta SUKA!}
+{303}{}{IdÅº siÄ™ jebaÄ‡.}
+{304}{}{[OdejdÅº.]}
+{310}{}{ZjeÅ¼dÅ¼aj.}
+{320}{}{To bardzo Å‚adnie. Ja Tyler. Ty iÅ›Ä‡ pa pa.}
 {321}{}{Ur.}
 {322}{}{Uch...}
 {330}{}{Spadaj, debilu.}
 {331}{}{Sukju!}
 {332}{}{Arug!}
-{340}{}{Jakoœ ci nie ufam. Spadaj.}
-{341}{}{W porz¹dku.}
+{340}{}{JakoÅ› ci nie ufam. Spadaj.}
+{341}{}{W porzÄ…dku.}
 {342}{}{Ale!}
 {343}{}{Dobra.}
-{350}{}{Pewnie, ju¿ ci wierzê. Kto ciê przys³a³?}
-{351}{}{Ju¿ to s³ysza³em, zakuta pa³o. Kto ciê tu, kurwa, przys³a³?}
-{352}{}{A jak myœlisz zasrañcu? Przestañ siê opieprzaæ i wpuszczaj mnie do œrodka.}
-{353}{}{Ró¿owa pantera.}
-{354}{}{Po¿a³ujesz tego.}
-{360}{}{¯e co? Zje¿d¿aj st¹d!}
+{350}{}{Pewnie, juÅ¼ ci wierzÄ™. Kto ciÄ™ przysÅ‚aÅ‚?}
+{351}{}{JuÅ¼ to sÅ‚yszaÅ‚em, zakuta paÅ‚o. Kto ciÄ™ tu, kurwa, przysÅ‚aÅ‚?}
+{352}{}{A jak myÅ›lisz zasraÅ„cu? PrzestaÅ„ siÄ™ opieprzaÄ‡ i wpuszczaj mnie do Å›rodka.}
+{353}{}{RÃ³Å¼owa pantera.}
+{354}{}{PoÅ¼aÅ‚ujesz tego.}
+{360}{}{Å»e co? ZjeÅ¼dÅ¼aj stÄ…d!}
 {361}{}{Ale...}
 {362}{}{Dobra.}
-{370}{}{Czego znowu chce szef? Nastêpna g³upia inspekcja?}
+{370}{}{Czego znowu chce szef? NastÄ™pna gÅ‚upia inspekcja?}
 {371}{}{Tak?}
 {372}{}{Co teraz?}
 {373}{}{Jak leci?}
-{374}{}{Przepraszam, muszê ju¿ iœæ.}
+{374}{}{Przepraszam, muszÄ™ juÅ¼ iÅ›Ä‡.}
 {375}{}{Uk.}
 {376}{}{Lubi?}
-{380}{}{Œwietnie! Prawie zapomnia³em - mój kumpel nieŸle siê wczoraj ob³owi³ przy stoliku i chce wydaæ trochê kasy, jeœli wiesz co mam na myœli.}
-{381}{}{Cholernie tu nudno. Nienawidzê sterczeæ na stra¿y, ale dziœ wieczorem bêdzie lepiej. Mój kumpel nieŸle siê wczoraj ob³owi³ przy stoliku i chce wydaæ trochê kasy, jeœli wiesz co mam na myœli.}
-{382}{}{Bêdzie impreza, co?}
-{383}{}{Brzmi obiecuj¹co.}
-{390}{}{No, goœæ robi dziœ wieczorem balangê. Bêdzie niez³y odlot.}
-{391}{}{No, goœæ robi dziœ wieczorem balangê. Bêdzie niez³y odlot. Zaprosi³bym ciê, ksiê¿niczko, ale to impreza tylko dla najbli¿szych znajomych.}
+{380}{}{Åšwietnie! Prawie zapomniaÅ‚em - mÃ³j kumpel nieÅºle siÄ™ wczoraj obÅ‚owiÅ‚ przy stoliku i chce wydaÄ‡ trochÄ™ kasy, jeÅ›li wiesz co mam na myÅ›li.}
+{381}{}{Cholernie tu nudno. NienawidzÄ™ sterczeÄ‡ na straÅ¼y, ale dziÅ› wieczorem bÄ™dzie lepiej. MÃ³j kumpel nieÅºle siÄ™ wczoraj obÅ‚owiÅ‚ przy stoliku i chce wydaÄ‡ trochÄ™ kasy, jeÅ›li wiesz co mam na myÅ›li.}
+{382}{}{BÄ™dzie impreza, co?}
+{383}{}{Brzmi obiecujÄ…co.}
+{390}{}{No, goÅ›Ä‡ robi dziÅ› wieczorem balangÄ™. BÄ™dzie niezÅ‚y odlot.}
+{391}{}{No, goÅ›Ä‡ robi dziÅ› wieczorem balangÄ™. BÄ™dzie niezÅ‚y odlot. ZaprosiÅ‚bym ciÄ™, ksiÄ™Å¼niczko, ale to impreza tylko dla najbliÅ¼szych znajomych.}
 {392}{}{Wypijcie za moje zdrowie.}
-{393}{}{Rozumiem. Bawcie siê dobrze.}
-{394}{}{Czeœæ.}
-{400}{}{Mo¿esz na to liczyæ! Zamierzam siê schlaæ jak œwinia!}
+{393}{}{Rozumiem. Bawcie siÄ™ dobrze.}
+{394}{}{CzeÅ›Ä‡.}
+{400}{}{MoÅ¼esz na to liczyÄ‡! Zamierzam siÄ™ schlaÄ‡ jak Å›winia!}
 {401}{}{Bywaj.}
-{410}{}{Gówno ciê to obchodzi. Spadaj.}
+{410}{}{GÃ³wno ciÄ™ to obchodzi. Spadaj.}
 {411}{}{Tak sobie.}
-{412}{}{Chcesz mnie wkurzyæ?}
-{413}{}{NieŸle!}
-{414}{}{Jestem zmêczony.}
-{415}{}{W porz¹dku.}
-{416}{}{Zje¿d¿aj.}
-{417}{}{Bywa³o lepiej.}
+{412}{}{Chcesz mnie wkurzyÄ‡?}
+{413}{}{NieÅºle!}
+{414}{}{Jestem zmÄ™czony.}
+{415}{}{W porzÄ…dku.}
+{416}{}{ZjeÅ¼dÅ¼aj.}
+{417}{}{BywaÅ‚o lepiej.}
 {418}{}{Och.}
-{430}{}{Nie mogê siê doczekaæ na tê imprezê. Mam nadziejê, ¿e goœæ œci¹gnie jakieœ dziwki.}
-{431}{}{Ten goœæ potrafi zrobiæ porz¹dn¹ balangê.}
-{432}{}{Impreza coraz bli¿ej.}
-{433}{}{Impreza! Szkoda, ¿e jeszcze mnie tam nie ma.}
-{440}{}{Hej, co jest? Impreza coraz bli¿ej.}
+{430}{}{Nie mogÄ™ siÄ™ doczekaÄ‡ na tÄ™ imprezÄ™. Mam nadziejÄ™, Å¼e goÅ›Ä‡ Å›ciÄ…gnie jakieÅ› dziwki.}
+{431}{}{Ten goÅ›Ä‡ potrafi zrobiÄ‡ porzÄ…dnÄ… balangÄ™.}
+{432}{}{Impreza coraz bliÅ¼ej.}
+{433}{}{Impreza! Szkoda, Å¼e jeszcze mnie tam nie ma.}
+{440}{}{Hej, co jest? Impreza coraz bliÅ¼ej.}
 {441}{}{Co jest?}
-{442}{}{Mam informacje, które mog³yby ciê zainteresowaæ.}
+{442}{}{Mam informacje, ktÃ³re mogÅ‚yby ciÄ™ zainteresowaÄ‡.}
 {443}{}{Nic nic.}
 {444}{}{Uhg.}
 {445}{}{Ursek?}
-{450}{}{Cholera, co siê z tob¹ dzieje? Odstaw na trochê te prochy, co?}
-{451}{}{Stary, te prochy ciê zniszcz¹.}
-{452}{}{Laluniu, te prochy ciê zniszcz¹.}
-{453}{}{[Mrukniêcie]}
+{450}{}{Cholera, co siÄ™ z tobÄ… dzieje? Odstaw na trochÄ™ te prochy, co?}
+{451}{}{Stary, te prochy ciÄ™ zniszczÄ….}
+{452}{}{Laluniu, te prochy ciÄ™ zniszczÄ….}
+{453}{}{[MrukniÄ™cie]}
 {460}{}{Tak? Niby jakie?}
 {461}{}{Nie ma nic za darmo.}
-{462}{}{Lara planuje was dzisiaj obrobiæ.}
-{463}{}{Poczekaj chwilê.}
-{470}{}{Dziêki. Masz tu pieni¹dze. Od dawna czeka³em na tê zadymê.}
-{480}{}{Wal siê. Nie p³acê w ciemno. Najpierw powiedz co wiesz, potem zastanowiê siê, czy warto ci p³aciæ.}
-{481}{}{Lara planuje was dzisiaj obrobiæ.}
+{462}{}{Lara planuje was dzisiaj obrobiÄ‡.}
+{463}{}{Poczekaj chwilÄ™.}
+{470}{}{DziÄ™ki. Masz tu pieniÄ…dze. Od dawna czekaÅ‚em na tÄ™ zadymÄ™.}
+{480}{}{Wal siÄ™. Nie pÅ‚acÄ™ w ciemno. Najpierw powiedz co wiesz, potem zastanowiÄ™ siÄ™, czy warto ci pÅ‚aciÄ‡.}
+{481}{}{Lara planuje was dzisiaj obrobiÄ‡.}
 {482}{}{Nie.}
-{490}{}{Serio? No proszê, ta suka ma jednak jaja. Dziêki za informacjê, warta jest jakieœ $100.}
-{491}{}{Dziêkujê.}
-{500}{}{Powoli! Zaczekamy tutaj, a¿ siê pojawi¹, tak... dla pewnoœci. Kto wie, mo¿e próbujesz mnie wykiwaæ? Jeœli siê pojawi¹ - dostaniesz forsê, jeœli nie - kulê.}
-{501}{}{Ale ja siê brzydzê przemoc¹.}
-{502}{}{Brzmi nieŸle.}
-{510}{}{S³uchaj, gówno mnie obchodzi czym jesteœ. Nie dostaniesz ani grosza, dopóki siê nie pojawi¹. Ty ich tu œci¹gnij, a my zajmiemy siê reszt¹.}
-{511}{}{W porz¹dku.}
-{600}{}{Jesteœ nowym ch³opcem na posy³ki szefa, co?}
+{490}{}{Serio? No proszÄ™, ta suka ma jednak jaja. DziÄ™ki za informacjÄ™, warta jest jakieÅ› $100.}
+{491}{}{DziÄ™kujÄ™.}
+{500}{}{Powoli! Zaczekamy tutaj, aÅ¼ siÄ™ pojawiÄ…, tak... dla pewnoÅ›ci. Kto wie, moÅ¼e prÃ³bujesz mnie wykiwaÄ‡? JeÅ›li siÄ™ pojawiÄ… - dostaniesz forsÄ™, jeÅ›li nie - kulÄ™.}
+{501}{}{Ale ja siÄ™ brzydzÄ™ przemocÄ….}
+{502}{}{Brzmi nieÅºle.}
+{510}{}{SÅ‚uchaj, gÃ³wno mnie obchodzi czym jesteÅ›. Nie dostaniesz ani grosza, dopÃ³ki siÄ™ nie pojawiÄ…. Ty ich tu Å›ciÄ…gnij, a my zajmiemy siÄ™ resztÄ….}
+{511}{}{W porzÄ…dku.}
+{600}{}{JesteÅ› nowym chÅ‚opcem na posyÅ‚ki szefa, co?}
 {601}{}{Czego chcesz?}
-{602}{}{Co jest? Metzger raptem przesta³ nam ufaæ?}
-{603}{}{No i? Inspekcja skoñczona?}
-{604}{}{Mówi³em ci, ¿e wszystko jest w porz¹dku!}
-{605}{}{Robota skoñczona?}
-{606}{}{Metzger pewnie siê ju¿ za tob¹ stêskni³. Mo¿e skocz do niego i sprawdŸ, co?}
-{607}{}{Co odpieprzy³o Metzgerowi? Myœli, ¿e przestaliœmy pilnowaæ tego gówna?}
-{608}{}{Ci¹gle tu jesteœ? Skocz zobaczyæ, czy nie ma ciê gdzie indziej, co?}
-{609}{}{Jesteœ now¹ zdzir¹ szefa, co?}
+{602}{}{Co jest? Metzger raptem przestaÅ‚ nam ufaÄ‡?}
+{603}{}{No i? Inspekcja skoÅ„czona?}
+{604}{}{MÃ³wiÅ‚em ci, Å¼e wszystko jest w porzÄ…dku!}
+{605}{}{Robota skoÅ„czona?}
+{606}{}{Metzger pewnie siÄ™ juÅ¼ za tobÄ… stÄ™skniÅ‚. MoÅ¼e skocz do niego i sprawdÅº, co?}
+{607}{}{Co odpieprzyÅ‚o Metzgerowi? MyÅ›li, Å¼e przestaliÅ›my pilnowaÄ‡ tego gÃ³wna?}
+{608}{}{CiÄ…gle tu jesteÅ›? Skocz zobaczyÄ‡, czy nie ma ciÄ™ gdzie indziej, co?}
+{609}{}{JesteÅ› nowÄ… zdzirÄ… szefa, co?}
 {700}{}{Nie jestem w nastroju.}
 {701}{}{Nie teraz.}
-{702}{}{Jestem zajêty.}
-{710}{}{Znowu ty! A¿ tak chcesz wleŸæ do tego koœcio³a? Po co? Nie ma tam nic ciekawego.}
+{702}{}{Jestem zajÄ™ty.}
+{710}{}{Znowu ty! AÅ¼ tak chcesz wleÅºÄ‡ do tego koÅ›cioÅ‚a? Po co? Nie ma tam nic ciekawego.}
 {711}{}{Czego tu, kurwa, szukasz?}
-{712}{}{Widzisz ten znak na moim czole? No to mnie wpuœæ! Natychmiast!}
-{713}{}{Jestem jego now¹ suk¹. Jak mnie nie wpuœcisz do œrodka bêdziesz mia³ powa¿nie przesrane.}
-{714}{}{S³uchaj, koleœ. Metzger mnie wypatroszy, jeœli nie rozejrzê siê w œrodku. Wiesz jaki on jest.}
-{715}{}{Nie twój zasrany interes. Jeœli szef chce sprawdziæ towar to go sprawdzê. Lepiej z nim nie dyskutowaæ.}
-{716}{}{Niewa¿ne.}
+{712}{}{Widzisz ten znak na moim czole? No to mnie wpuÅ›Ä‡! Natychmiast!}
+{713}{}{Jestem jego nowÄ… sukÄ…. Jak mnie nie wpuÅ›cisz do Å›rodka bÄ™dziesz miaÅ‚ powaÅ¼nie przesrane.}
+{714}{}{SÅ‚uchaj, koleÅ›. Metzger mnie wypatroszy, jeÅ›li nie rozejrzÄ™ siÄ™ w Å›rodku. Wiesz jaki on jest.}
+{715}{}{Nie twÃ³j zasrany interes. JeÅ›li szef chce sprawdziÄ‡ towar to go sprawdzÄ™. Lepiej z nim nie dyskutowaÄ‡.}
+{716}{}{NiewaÅ¼ne.}
 {717}{}{Szaka?}
-{800}{}{Ktoœ ty do ... Hej! A to ty. Jednak pszysz... *hik* pszy... yyy wpad³eœ na nasz¹ impreskê. Wiedzia³em, ¿e bedziesz. (Tyler gramoli siê w twoj¹ stronê i ³apie ciê za ramiê.) Czy kiedykolwiek mówi³em Ci jak bardso Ciê ... (Spostrzeg³ gang Lary) Co jest kurwa! W ¿adnym pierdolonym razie! To przyjêcie siê nie skoñczy *hik* s powodu jakiejœ pierdolonej dzifki i jej kumpli. Czas na roswa³kê ch³opaki!}
+{800}{}{KtoÅ› ty do ... Hej! A to ty. Jednak pszysz... *hik* pszy... yyy wpadÅ‚eÅ› na naszÄ… impreskÄ™. WiedziaÅ‚em, Å¼e bedziesz. (Tyler gramoli siÄ™ w twojÄ… stronÄ™ i Å‚apie ciÄ™ za ramiÄ™.) Czy kiedykolwiek mÃ³wiÅ‚em Ci jak bardso CiÄ™ ... (SpostrzegÅ‚ gang Lary) Co jest kurwa! W Å¼adnym pierdolonym razie! To przyjÄ™cie siÄ™ nie skoÅ„czy *hik* s powodu jakiejÅ› pierdolonej dzifki i jej kumpli. Czas na roswaÅ‚kÄ™ chÅ‚opaki!}
 {801}{}{[KONIEC]}
 {1255}{}{!}

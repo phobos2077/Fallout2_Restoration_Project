@@ -1,171 +1,171 @@
-{100}{}{KÉSZ}
-{101}{}{OPCIÓK}
-{102}{}{MÉGSE}
-{103}{}{NYOMTATÁS}
+{100}{}{KÃ‰SZ}
+{101}{}{OPCIÃ“K}
+{102}{}{MÃ‰GSE}
+{103}{}{NYOMTATÃS}
 {104}{}{KOR}
 {105}{}{NEM}
-{106}{}{NÉV}
-{107}{}{FÉRFI}
+{106}{}{NÃ‰V}
+{107}{}{FÃ‰RFI}
 {108}{}{N?}
-{109}{}{KÉPESS.}
+{109}{}{KÃ‰PESS.}
 {110}{}{KARMA}
-{111}{}{HULLÁK}
-{112}{}{KÉPZ. PONTOK}
+{111}{}{HULLÃK}
+{112}{}{KÃ‰PZ. PONTOK}
 {113}{}{Szint:}
 {114}{}{TP:}
-{115}{}{Köv. szint:}
+{115}{}{KÃ¶v. szint:}
 {116}{}{KAR.PONTOK}
-{117}{}{KÉPZETTSÉGEK}
-{118}{}{Miel?tt elkezdenéd a játékot,}
-{119}{}{miel?tt elkezded a játékot!}
+{117}{}{KÃ‰PZETTSÃ‰GEK}
+{118}{}{Miel?tt elkezdenÃ©d a jÃ¡tÃ©kot,}
+{119}{}{miel?tt elkezded a jÃ¡tÃ©kot!}
 {120}{}{Karakterpontok}
-{121}{}{Szabad karakterpontok, amiket az els?dleges képességek növelésére használhatsz.}
-{122}{}{Következ? szint}
-{123}{}{Ennyi tapasztalati pont kell még a következ? szint eléréséhez.}
-{124}{}{Képességek}
+{121}{}{Szabad karakterpontok, amiket az els?dleges kÃ©pessÃ©gek nÃ¶velÃ©sÃ©re hasznÃ¡lhatsz.}
+{122}{}{KÃ¶vetkez? szint}
+{123}{}{Ennyi tapasztalati pont kell mÃ©g a kÃ¶vetkez? szint elÃ©rÃ©sÃ©hez.}
+{124}{}{KÃ©pessÃ©gek}
 {125}{}{Karma}
-{126}{}{Hullák}
-{127}{}{A képességek további tulajdonságokat adnak. Minden harmadik szinten választhatsz egy képességet.}
-{128}{}{A játékban hozott döntéseid eredménye.}
-{129}{}{Ez a számláló tartja számon, milyen él?lényb?l mennyit öltél meg, vagy öltek meg a jelenlétedben.}
-{130}{}{Képzettség pontok}
-{131}{}{Ezekkel a pontokkal növelheted a képzettségeidet. Ahogy egyre ügyesebb leszel valamiben, annál több pont kell a növelésére. Egy képzettség elsajátítása sok id?be és er?feszítésbe telik.}
-{132}{}{Elérte a maximum értéket.}
-{133}{}{Nem tudod növelni.}
-{134}{}{Minimum értéken van.}
-{135}{}{Nem tudod csökkenteni.}
-{136}{}{Nincs elég képzettség pontod.}
+{126}{}{HullÃ¡k}
+{127}{}{A kÃ©pessÃ©gek tovÃ¡bbi tulajdonsÃ¡gokat adnak. Minden harmadik szinten vÃ¡laszthatsz egy kÃ©pessÃ©get.}
+{128}{}{A jÃ¡tÃ©kban hozott dÃ¶ntÃ©seid eredmÃ©nye.}
+{129}{}{Ez a szÃ¡mlÃ¡lÃ³ tartja szÃ¡mon, milyen Ã©l?lÃ©nyb?l mennyit Ã¶ltÃ©l meg, vagy Ã¶ltek meg a jelenlÃ©tedben.}
+{130}{}{KÃ©pzettsÃ©g pontok}
+{131}{}{Ezekkel a pontokkal nÃ¶velheted a kÃ©pzettsÃ©geidet. Ahogy egyre Ã¼gyesebb leszel valamiben, annÃ¡l tÃ¶bb pont kell a nÃ¶velÃ©sÃ©re. Egy kÃ©pzettsÃ©g elsajÃ¡tÃ­tÃ¡sa sok id?be Ã©s er?feszÃ­tÃ©sbe telik.}
+{132}{}{ElÃ©rte a maximum Ã©rtÃ©ket.}
+{133}{}{Nem tudod nÃ¶velni.}
+{134}{}{Minimum Ã©rtÃ©ken van.}
+{135}{}{Nem tudod csÃ¶kkenteni.}
+{136}{}{Nincs elÃ©g kÃ©pzettsÃ©g pontod.}
 {137}{}{Alap:}
-{138}{}{SPEC KÉPZ.}
-{139}{}{VÁLASZTHATÓ JELLEMVONÁSOK}
-{140}{}{Már megvan a két választható}
-{141}{}{három spec képzettséged!}
-{142}{}{Miel?tt elkezdenéd a játékot,}
-{143}{}{miel?tt elkezded a játékot!}
-{144}{}{Speciális képzettségek}
-{145}{}{A speciális képzettségekhez +20%-ot kapsz, és kétszer gyorsabban fejl?dnek. Hármat kell választanod!}
-{146}{}{Választható jellemvonások}
-{147}{}{A jellemvonások részletezik a karaktered egyéniségét. Mindegyiknek van pozitív és negatív hatása. Legfeljebb kett?t választhatsz.}
-{148}{}{Már megvan a két választható}
-{149}{}{jellemvonásod!}
-{150}{}{Képzettségek}
-{151}{}{A képzettségek elsajátított tudást jelölnek. Tapasztalattal, vagy játék közbeni különleges események során n?nek. Minél nagyobb az érték, annál jártasabb vagy az adott képzettségben.}
-{152}{}{Válassz egy képességet}
-{153}{}{Válassz egy új jellemvonást}
-{154}{}{Jellemvonás elvesztése}
-{155}{}{Válassz egy új spec képzettséget}
-{156}{}{Jellemvonás}
-{157}{}{Minden tulajdonságnak 1 és 10 között kell lennie,}
-{158}{}{miel?tt elkezded a játékot!}
-{160}{}{Nem adtál nevet a karakterednek.}
-{161}{}{Így is ?t választod?}
-{175}{}{Köv. szint:}
-{200}{}{Pocsék}
+{138}{}{SPEC KÃ‰PZ.}
+{139}{}{VÃLASZTHATÃ“ JELLEMVONÃSOK}
+{140}{}{MÃ¡r megvan a kÃ©t vÃ¡laszthatÃ³}
+{141}{}{hÃ¡rom spec kÃ©pzettsÃ©ged!}
+{142}{}{Miel?tt elkezdenÃ©d a jÃ¡tÃ©kot,}
+{143}{}{miel?tt elkezded a jÃ¡tÃ©kot!}
+{144}{}{SpeciÃ¡lis kÃ©pzettsÃ©gek}
+{145}{}{A speciÃ¡lis kÃ©pzettsÃ©gekhez +20%-ot kapsz, Ã©s kÃ©tszer gyorsabban fejl?dnek. HÃ¡rmat kell vÃ¡lasztanod!}
+{146}{}{VÃ¡laszthatÃ³ jellemvonÃ¡sok}
+{147}{}{A jellemvonÃ¡sok rÃ©szletezik a karaktered egyÃ©nisÃ©gÃ©t. Mindegyiknek van pozitÃ­v Ã©s negatÃ­v hatÃ¡sa. Legfeljebb kett?t vÃ¡laszthatsz.}
+{148}{}{MÃ¡r megvan a kÃ©t vÃ¡laszthatÃ³}
+{149}{}{jellemvonÃ¡sod!}
+{150}{}{KÃ©pzettsÃ©gek}
+{151}{}{A kÃ©pzettsÃ©gek elsajÃ¡tÃ­tott tudÃ¡st jelÃ¶lnek. Tapasztalattal, vagy jÃ¡tÃ©k kÃ¶zbeni kÃ¼lÃ¶nleges esemÃ©nyek sorÃ¡n n?nek. MinÃ©l nagyobb az Ã©rtÃ©k, annÃ¡l jÃ¡rtasabb vagy az adott kÃ©pzettsÃ©gben.}
+{152}{}{VÃ¡lassz egy kÃ©pessÃ©get}
+{153}{}{VÃ¡lassz egy Ãºj jellemvonÃ¡st}
+{154}{}{JellemvonÃ¡s elvesztÃ©se}
+{155}{}{VÃ¡lassz egy Ãºj spec kÃ©pzettsÃ©get}
+{156}{}{JellemvonÃ¡s}
+{157}{}{Minden tulajdonsÃ¡gnak 1 Ã©s 10 kÃ¶zÃ¶tt kell lennie,}
+{158}{}{miel?tt elkezded a jÃ¡tÃ©kot!}
+{160}{}{Nem adtÃ¡l nevet a karakterednek.}
+{161}{}{Ãgy is ?t vÃ¡lasztod?}
+{175}{}{KÃ¶v. szint:}
+{200}{}{PocsÃ©k}
 {201}{}{Rossz}
 {202}{}{Gyenge}
 {203}{}{Elmegy}
-{204}{}{Átlag}
-{205}{}{Jó}
+{204}{}{Ãtlag}
+{205}{}{JÃ³}
 {206}{}{Nyer?}
-{207}{}{Kiváló}
+{207}{}{KivÃ¡lÃ³}
 {208}{}{Tuti}
 {209}{}{H?sies}
-{300}{editor}{Életpont}
-{301}{}{Akciópont}
-{302}{editor}{Védelmi érték}
-{303}{}{Pusztakezes sebzés}
-{304}{}{Közelharci sebzés}
-{305}{}{Sebzésell.}
-{306}{}{Méregellenállás}
-{307}{}{Sugárzás-ell.}
-{308}{editor}{Reakció}
-{309}{editor}{Regenerálódás}
-{310}{editor}{Kritikus esélye}
-{311}{editor}{Teherbírás}
-{312}{}{Mérgezés}
-{313}{}{Sugárfert?zés}
-{314}{}{Szemsérülés}
-{315}{}{Törött jobb kar}
-{316}{}{Törött bal kar}
-{317}{}{Törött jobb láb}
-{318}{}{Törött bal láb}
-{400}{}{Méreg van a szervezetedben. Amíg meg nem gyógyítod, vagy magától nem távozik, folyamatos sebzést szenvedsz t?le.}
-{401}{}{Sugárfert?zésben szenvedsz. Minél több, annál súlyosabb a hatása.}
-{402}{}{Megsérült az egyik, vagy mindkét szemed. Ez befolyással van az Érzékelésedre.}
-{403}{}{Megsérült a jobb karod és nem tudod rendesen használni. Ha megsérült az egyik karod, nem tudsz kétkezes fegyvereket használni. Ha mindkett? megsérült, nem tudsz fegyvert használni.}
-{404}{}{Megsérült a bal karod és nem tudod rendesen használni. Ha megsérült az egyik karod, nem tudsz kétkezes fegyvereket használni. Ha mindkett? megsérült, egyáltalán nem tudsz fegyvert használni.}
-{405}{}{Eltört a jobb lábad.}
-{406}{}{Eltört a bal lábad.}
-{500}{}{Január}
-{501}{}{Február}
-{502}{}{Március}
-{503}{}{Április}
-{504}{}{Május}
-{505}{}{Június}
-{506}{}{Július}
+{300}{editor}{Ã‰letpont}
+{301}{}{AkciÃ³pont}
+{302}{editor}{VÃ©delmi Ã©rtÃ©k}
+{303}{}{Pusztakezes sebzÃ©s}
+{304}{}{KÃ¶zelharci sebzÃ©s}
+{305}{}{SebzÃ©sell.}
+{306}{}{MÃ©regellenÃ¡llÃ¡s}
+{307}{}{SugÃ¡rzÃ¡s-ell.}
+{308}{editor}{ReakciÃ³}
+{309}{editor}{RegenerÃ¡lÃ³dÃ¡s}
+{310}{editor}{Kritikus esÃ©lye}
+{311}{editor}{TeherbÃ­rÃ¡s}
+{312}{}{MÃ©rgezÃ©s}
+{313}{}{SugÃ¡rfert?zÃ©s}
+{314}{}{SzemsÃ©rÃ¼lÃ©s}
+{315}{}{TÃ¶rÃ¶tt jobb kar}
+{316}{}{TÃ¶rÃ¶tt bal kar}
+{317}{}{TÃ¶rÃ¶tt jobb lÃ¡b}
+{318}{}{TÃ¶rÃ¶tt bal lÃ¡b}
+{400}{}{MÃ©reg van a szervezetedben. AmÃ­g meg nem gyÃ³gyÃ­tod, vagy magÃ¡tÃ³l nem tÃ¡vozik, folyamatos sebzÃ©st szenvedsz t?le.}
+{401}{}{SugÃ¡rfert?zÃ©sben szenvedsz. MinÃ©l tÃ¶bb, annÃ¡l sÃºlyosabb a hatÃ¡sa.}
+{402}{}{MegsÃ©rÃ¼lt az egyik, vagy mindkÃ©t szemed. Ez befolyÃ¡ssal van az Ã‰rzÃ©kelÃ©sedre.}
+{403}{}{MegsÃ©rÃ¼lt a jobb karod Ã©s nem tudod rendesen hasznÃ¡lni. Ha megsÃ©rÃ¼lt az egyik karod, nem tudsz kÃ©tkezes fegyvereket hasznÃ¡lni. Ha mindkett? megsÃ©rÃ¼lt, nem tudsz fegyvert hasznÃ¡lni.}
+{404}{}{MegsÃ©rÃ¼lt a bal karod Ã©s nem tudod rendesen hasznÃ¡lni. Ha megsÃ©rÃ¼lt az egyik karod, nem tudsz kÃ©tkezes fegyvereket hasznÃ¡lni. Ha mindkett? megsÃ©rÃ¼lt, egyÃ¡ltalÃ¡n nem tudsz fegyvert hasznÃ¡lni.}
+{405}{}{EltÃ¶rt a jobb lÃ¡bad.}
+{406}{}{EltÃ¶rt a bal lÃ¡bad.}
+{500}{}{JanuÃ¡r}
+{501}{}{FebruÃ¡r}
+{502}{}{MÃ¡rcius}
+{503}{}{Ãprilis}
+{504}{}{MÃ¡jus}
+{505}{}{JÃºnius}
+{506}{}{JÃºlius}
 {507}{}{Augusztus}
 {508}{}{Szeptember}
-{509}{}{Október}
+{509}{}{OktÃ³ber}
 {510}{}{November}
 {511}{}{December}
-{600}{}{MENTÉS}
-{601}{}{TÖLTÉS}
-{602}{}{MENTÉS TXT-BE}
-{603}{}{TÖRLÉS}
-{604}{}{KÉSZ}
-{605}{}{Biztos, hogy törölni akarod}
+{600}{}{MENTÃ‰S}
+{601}{}{TÃ–LTÃ‰S}
+{602}{}{MENTÃ‰S TXT-BE}
+{603}{}{TÃ–RLÃ‰S}
+{604}{}{KÃ‰SZ}
+{605}{}{Biztos, hogy tÃ¶rÃ¶lni akarod}
 {606}{}{ezt a karaktert?}
 {607}{}{ sikeresen elmentve.}
-{608}{}{ sikeresen betöltve.}
-{609}{}{már létezik.}
-{610}{}{Biztos, hogy felülírod?}
-{611}{}{Hiba a mentésben }
-{612}{}{Hiba a töltésben }
-{613}{}{Karakter fájl érvénytelen.}
-{614}{}{Karakter adat érvénytelen.}
-{615}{}{Hiba a fájl lista olvasásában!}
-{616}{}{NYOMTATÁS}
-{617}{}{JÁTÉKOS}
+{608}{}{ sikeresen betÃ¶ltve.}
+{609}{}{mÃ¡r lÃ©tezik.}
+{610}{}{Biztos, hogy felÃ¼lÃ­rod?}
+{611}{}{Hiba a mentÃ©sben }
+{612}{}{Hiba a tÃ¶ltÃ©sben }
+{613}{}{Karakter fÃ¡jl Ã©rvÃ©nytelen.}
+{614}{}{Karakter adat Ã©rvÃ©nytelen.}
+{615}{}{Hiba a fÃ¡jl lista olvasÃ¡sÃ¡ban!}
+{616}{}{NYOMTATÃS}
+{617}{}{JÃTÃ‰KOS}
 {618}{}{BLANK.GCD}
 {620}{}{FALLOUT}
 {621}{}{VAULT-13 PERSONNEL RECORD}
 {622}{}{hours}
 {623}{}{ ::: Statisztika :::}
 {624}{}{    Er?:}
-{625}{}{    Életpontok:}
-{626}{}{     Reakció:}
-{627}{}{   Érzékelés:}
-{628}{}{    Védelmi érték:}
-{629}{}{    Regenerálódás:}
-{630}{}{   Kitartás:}
-{631}{}{   Akciópontok:}
-{632}{}{   Kritikus esélye:}
+{625}{}{    Ã‰letpontok:}
+{626}{}{     ReakciÃ³:}
+{627}{}{   Ã‰rzÃ©kelÃ©s:}
+{628}{}{    VÃ©delmi Ã©rtÃ©k:}
+{629}{}{    RegenerÃ¡lÃ³dÃ¡s:}
+{630}{}{   KitartÃ¡s:}
+{631}{}{   AkciÃ³pontok:}
+{632}{}{   Kritikus esÃ©lye:}
 {633}{}{    Karizma:}
-{634}{}{   Pusztakezes sebzés:}
-{635}{}{     Teherbírás:}
+{634}{}{   Pusztakezes sebzÃ©s:}
+{635}{}{     TeherbÃ­rÃ¡s:}
 {636}{}{  Intelligencia:}
-{637}{}{    Sebzésellenállás:}
-{638}{}{    Ügyesség:}
-{639}{}{  Sugárzás-ellenállás:}
+{637}{}{    SebzÃ©sellenÃ¡llÃ¡s:}
+{638}{}{    ÃœgyessÃ©g:}
+{639}{}{  SugÃ¡rzÃ¡s-ellenÃ¡llÃ¡s:}
 {640}{}{      Szerencse:}
-{641}{}{    Méregellenállás:}
-{642}{}{ Név:}
+{641}{}{    MÃ©regellenÃ¡llÃ¡s:}
+{642}{}{ NÃ©v:}
 {643}{}{Kor:}
 {644}{}{        Nem:}
-{645}{}{Férfi}
+{645}{}{FÃ©rfi}
 {646}{}{N?}
 {647}{}{ Szint:}
 {648}{}{        TP:}
-{649}{}{Köv. szint:}
-{650}{}{ ::: Jellemvonások :::}
-{651}{}{ ::: Képességek :::}
+{649}{}{KÃ¶v. szint:}
+{650}{}{ ::: JellemvonÃ¡sok :::}
+{651}{}{ ::: KÃ©pessÃ©gek :::}
 {652}{}{ ::: Karma :::}
-{653}{}{ ::: Képzettségek :::        ::: Hullák :::}
-{654}{}{ ::: Tárgylista :::}
-{655}{}{                   Össz tömeg:}
+{653}{}{ ::: KÃ©pzettsÃ©gek :::        ::: HullÃ¡k :::}
+{654}{}{ ::: TÃ¡rgylista :::}
+{655}{}{                   Ã–ssz tÃ¶meg:}
 {656}{}{ ::: Addictions :::}
-{657}{}{ ::: Hírnév :::}
-{1000}{}{Hírnév (Általános) }
+{657}{}{ ::: HÃ­rnÃ©v :::}
+{1000}{}{HÃ­rnÃ©v (ÃltalÃ¡nos) }
 {1001}{}{Berzerker}
 {1002}{}{Bajnok}
 {1003}{}{Gyerekgyilkos}
@@ -179,72 +179,72 @@
 {1011}{}{Tragic addiction}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Szexpert}
-{1014}{}{Bokszoló}
-{1015}{}{Dzsigoló}
-{1016}{}{Sír-rabló}
-{1017}{}{A Salvatore család tagja}
-{1018}{}{Házas}
-{1019}{}{Pornósztár}
+{1014}{}{BokszolÃ³}
+{1015}{}{DzsigolÃ³}
+{1016}{}{SÃ­r-rablÃ³}
+{1017}{}{A Salvatore csalÃ¡d tagja}
+{1018}{}{HÃ¡zas}
+{1019}{}{PornÃ³sztÃ¡r}
 {1020}{}{Rabszolga-keresked?}
-{1021}{}{A Puszta Szüze}
-{1022}{}{A Bishop család tagja}
-{1023}{}{A Mordino család tagja}
-{1024}{}{A Wright család tagja}
-{1025}{}{Elvált}
+{1021}{}{A Puszta SzÃ¼ze}
+{1022}{}{A Bishop csalÃ¡d tagja}
+{1023}{}{A Mordino csalÃ¡d tagja}
+{1024}{}{A Wright csalÃ¡d tagja}
+{1025}{}{ElvÃ¡lt}
 {1026}{}{Smoker}
-{1100}{}{Ez a változó érték mutatja az általános megítélésedet. Minél nagyobb, annál elismertebb vagy a térségben. Ha negatív az érték, gonosz tetteid miatt sokan gy?lölnek.}
-{1101}{}{Nagyon sok embert öltél meg. Ez nem tesz túl jót a hírnevednek, habár a rossz emberek jobban fognak kedvelni.}
-{1102}{}{A tetteid miatt az emberek Bajnoka lettél. A gonosz elleni harcodról mindenfelé hallott. A tisztességes emberek jobban kedvelnek.}
-{1103}{}{Gyerekeket öltél meg, a Pusztaság fiatalságát. Ez bizony nagyon rossz dolog. Te nagyon, nagyon rossz ember vagy.}
-{1104}{}{Iszonyúan élvezed a Nuka-Kólát, a poszt-nukleáris világ üdít?italát.}
+{1100}{}{Ez a vÃ¡ltozÃ³ Ã©rtÃ©k mutatja az Ã¡ltalÃ¡nos megÃ­tÃ©lÃ©sedet. MinÃ©l nagyobb, annÃ¡l elismertebb vagy a tÃ©rsÃ©gben. Ha negatÃ­v az Ã©rtÃ©k, gonosz tetteid miatt sokan gy?lÃ¶lnek.}
+{1101}{}{Nagyon sok embert Ã¶ltÃ©l meg. Ez nem tesz tÃºl jÃ³t a hÃ­rnevednek, habÃ¡r a rossz emberek jobban fognak kedvelni.}
+{1102}{}{A tetteid miatt az emberek Bajnoka lettÃ©l. A gonosz elleni harcodrÃ³l mindenfelÃ© hallott. A tisztessÃ©ges emberek jobban kedvelnek.}
+{1103}{}{Gyerekeket Ã¶ltÃ©l meg, a PusztasÃ¡g fiatalsÃ¡gÃ¡t. Ez bizony nagyon rossz dolog. Te nagyon, nagyon rossz ember vagy.}
+{1104}{}{IszonyÃºan Ã©lvezed a Nuka-KÃ³lÃ¡t, a poszt-nukleÃ¡ris vilÃ¡g Ã¼dÃ­t?italÃ¡t.}
 {1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
 {1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
 {1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
-{1109}{}{Problémád van az alkohollal. Pontosabban az ivással.}
+{1109}{}{ProblÃ©mÃ¡d van az alkohollal. Pontosabban az ivÃ¡ssal.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
-{1113}{}{Tudod, mi az a szex, és tudod, mi az az el?játék. Van fogalmad róla, hogyan kell kielégíteni az ellenkez? nem tagjait.}
-{1114}{}{Te vagy Észak-Kalifornia nehézsúlyú bokszbajnoka. Hírnevet és elismerést szereztél... és egy kis bónuszt a keménységedhez valamint a pusztakezes képzettségedhez.}
-{1115}{}{Legyünk ?szinték: Mindennel lefekszel, ami két lábon jár, de néha még ennyire sem vagy válogatós.}
-{1116}{}{"?k már halottak, nem érdekli ?ket" - ez lett a te mottód. Mások maradványainak felásása számodra már meghaladja a hobbi szintet.}
-{1117}{}{A Salvatore család tagja lettél. Ismert és elismert vagy, ráadásul remekül nézel ki öltönyben.}
-{1118}{}{Bekötötték a fejed. Hé, ez a te bajod, nem a miénk.}
-{1119}{}{Hatalmas, fényes, és tündökl? csillag vagy. Egész New Reno ismeri a szexuális teljesítményedet.}
-{1120}{}{Beléptél a Rabszolga-keresked?k csoportjába. Attól a tetkótól a homlokodon mindenkinek nyilvánvalóvá válik a foglalkozásod.}
-{1121}{}{Többet kéne randiznod. A szexuális tapasztalataid... hát, hogy is mondjam... egysíkúak.}
-{1122}{}{A Bishop család tagja lettél. Ismert és elismert vagy, ráadásul remekül nézel ki öltönyben.}
-{1123}{}{A Mordino család tagja lettél. Ismert és elismert vagy, ráadásul remekül nézel ki öltönyben.}
-{1124}{}{A Wright család tagja lettél. Ismert és elismert vagy, ráadásul remekül nézel ki öltönyben.}
-{1125}{}{A házastársad már nincs veled. Remélem, boldog vagy.}
+{1113}{}{Tudod, mi az a szex, Ã©s tudod, mi az az el?jÃ¡tÃ©k. Van fogalmad rÃ³la, hogyan kell kielÃ©gÃ­teni az ellenkez? nem tagjait.}
+{1114}{}{Te vagy Ã‰szak-Kalifornia nehÃ©zsÃºlyÃº bokszbajnoka. HÃ­rnevet Ã©s elismerÃ©st szereztÃ©l... Ã©s egy kis bÃ³nuszt a kemÃ©nysÃ©gedhez valamint a pusztakezes kÃ©pzettsÃ©gedhez.}
+{1115}{}{LegyÃ¼nk ?szintÃ©k: Mindennel lefekszel, ami kÃ©t lÃ¡bon jÃ¡r, de nÃ©ha mÃ©g ennyire sem vagy vÃ¡logatÃ³s.}
+{1116}{}{"?k mÃ¡r halottak, nem Ã©rdekli ?ket" - ez lett a te mottÃ³d. MÃ¡sok maradvÃ¡nyainak felÃ¡sÃ¡sa szÃ¡modra mÃ¡r meghaladja a hobbi szintet.}
+{1117}{}{A Salvatore csalÃ¡d tagja lettÃ©l. Ismert Ã©s elismert vagy, rÃ¡adÃ¡sul remekÃ¼l nÃ©zel ki Ã¶ltÃ¶nyben.}
+{1118}{}{BekÃ¶tÃ¶ttÃ©k a fejed. HÃ©, ez a te bajod, nem a miÃ©nk.}
+{1119}{}{Hatalmas, fÃ©nyes, Ã©s tÃ¼ndÃ¶kl? csillag vagy. EgÃ©sz New Reno ismeri a szexuÃ¡lis teljesÃ­tmÃ©nyedet.}
+{1120}{}{BelÃ©ptÃ©l a Rabszolga-keresked?k csoportjÃ¡ba. AttÃ³l a tetkÃ³tÃ³l a homlokodon mindenkinek nyilvÃ¡nvalÃ³vÃ¡ vÃ¡lik a foglalkozÃ¡sod.}
+{1121}{}{TÃ¶bbet kÃ©ne randiznod. A szexuÃ¡lis tapasztalataid... hÃ¡t, hogy is mondjam... egysÃ­kÃºak.}
+{1122}{}{A Bishop csalÃ¡d tagja lettÃ©l. Ismert Ã©s elismert vagy, rÃ¡adÃ¡sul remekÃ¼l nÃ©zel ki Ã¶ltÃ¶nyben.}
+{1123}{}{A Mordino csalÃ¡d tagja lettÃ©l. Ismert Ã©s elismert vagy, rÃ¡adÃ¡sul remekÃ¼l nÃ©zel ki Ã¶ltÃ¶nyben.}
+{1124}{}{A Wright csalÃ¡d tagja lettÃ©l. Ismert Ã©s elismert vagy, rÃ¡adÃ¡sul remekÃ¼l nÃ©zel ki Ã¶ltÃ¶nyben.}
+{1125}{}{A hÃ¡zastÃ¡rsad mÃ¡r nincs veled. RemÃ©lem, boldog vagy.}
 {1126}{}{You are a smoker. They say it'll kill ya, but you're not dead yet. And anyway, it's a good way to look damn cool in a post-apocalyptic world.}
-{2000}{}{Bálványozott}
+{2000}{}{BÃ¡lvÃ¡nyozott}
 {2001}{}{Kedvelt}
 {2002}{}{Elfogadott}
 {2003}{}{Semleges}
 {2004}{}{Ellenszenves}
-{2005}{}{Utált}
-{2006}{}{Üldözött}
-{2100}{}{Ezen a környéken mindenki hozzád hasonló szeretne lenni. Te vagy a város h?se, és mindenki példaképe.}
-{2101}{}{Az emberek el?re köszönnek, integetnek neked, akárhova is mész azon a környéken. Mindenki hallott rólad, és örülnek a hallottaknak.}
-{2102}{}{Igaz, hogy nem fogadnak tárt karokkal, de minimum bólintanak, amikor találkoznak veled. A többiekhez hasonlóan beilleszkedtél.}
-{2103}{}{Általában gyanakvóak az idegenekkel szemben, de még nem ismernek eléggé.}
-{2104}{}{Te is csak egy újabb kívülálló vagy, aki valószín?leg csak bajt kever.}
-{2105}{}{Bebizonyítottad az embereknek, hogy gyanakvásuk nem volt hiábavaló. Amikor a közelükbe érsz, összesúgnak a hátad mögött. Tudják, hogy bajkever? vagy.}
-{2106}{}{Amikor mások közelébe mész, megbámulnak és suttognak, néhányan átmennek az utca másik felére, csak hogy ne kelljen melletted elmenni, míg mások leköpnek, elfordulnak t?led. Mindenki tudja, hogy te vagy a létez? legrosszabb dolog az életükben.}
+{2005}{}{UtÃ¡lt}
+{2006}{}{ÃœldÃ¶zÃ¶tt}
+{2100}{}{Ezen a kÃ¶rnyÃ©ken mindenki hozzÃ¡d hasonlÃ³ szeretne lenni. Te vagy a vÃ¡ros h?se, Ã©s mindenki pÃ©ldakÃ©pe.}
+{2101}{}{Az emberek el?re kÃ¶szÃ¶nnek, integetnek neked, akÃ¡rhova is mÃ©sz azon a kÃ¶rnyÃ©ken. Mindenki hallott rÃ³lad, Ã©s Ã¶rÃ¼lnek a hallottaknak.}
+{2102}{}{Igaz, hogy nem fogadnak tÃ¡rt karokkal, de minimum bÃ³lintanak, amikor talÃ¡lkoznak veled. A tÃ¶bbiekhez hasonlÃ³an beilleszkedtÃ©l.}
+{2103}{}{ÃltalÃ¡ban gyanakvÃ³ak az idegenekkel szemben, de mÃ©g nem ismernek elÃ©ggÃ©.}
+{2104}{}{Te is csak egy Ãºjabb kÃ­vÃ¼lÃ¡llÃ³ vagy, aki valÃ³szÃ­n?leg csak bajt kever.}
+{2105}{}{BebizonyÃ­tottad az embereknek, hogy gyanakvÃ¡suk nem volt hiÃ¡bavalÃ³. Amikor a kÃ¶zelÃ¼kbe Ã©rsz, Ã¶sszesÃºgnak a hÃ¡tad mÃ¶gÃ¶tt. TudjÃ¡k, hogy bajkever? vagy.}
+{2106}{}{Amikor mÃ¡sok kÃ¶zelÃ©be mÃ©sz, megbÃ¡mulnak Ã©s suttognak, nÃ©hÃ¡nyan Ã¡tmennek az utca mÃ¡sik felÃ©re, csak hogy ne kelljen melletted elmenni, mÃ­g mÃ¡sok lekÃ¶pnek, elfordulnak t?led. Mindenki tudja, hogy te vagy a lÃ©tez? legrosszabb dolog az Ã©letÃ¼kben.}
 {3000}{}{Elesettek Megment?je}
 {3001}{}{A Puszta ?rz?je}
-{3002}{}{A Reménység Pajzsa}
-{3003}{}{Védelmez?}
-{3004}{}{Vándor}
-{3005}{}{Áruló}
-{3006}{}{A Kétségbeesés Fegyvere}
+{3002}{}{A RemÃ©nysÃ©g Pajzsa}
+{3003}{}{VÃ©delmez?}
+{3004}{}{VÃ¡ndor}
+{3005}{}{ÃrulÃ³}
+{3006}{}{A KÃ©tsÃ©gbeesÃ©s Fegyvere}
 {3007}{}{A Puszta Ostora}
-{3008}{}{Sátánfajzat}
-{4000}{}{Hírnév}
+{3008}{}{SÃ¡tÃ¡nfajzat}
+{4000}{}{HÃ­rnÃ©v}
 {4001}{}{Addictions}
-{4100}{}{Megmutatja, milyen a hírneved az adott helyen.}
+{4100}{}{Megmutatja, milyen a hÃ­rneved az adott helyen.}
 {4101}{}{Things you have become addicted to.}
 {5000}{}{Sorry, you can only print your}
 {5001}{}{character in the full version.}

@@ -1,9 +1,9 @@
-{150}{}{Você vê um caça-níqueis feio e enferrujado.}
-{151}{}{Você vê um caça-níqueis muito feio. Ele está coberto de ferrujem e está amassado em várias partes, como se tivesse sido
+{150}{}{VocÃª vÃª um caÃ§a-nÃ­queis feio e enferrujado.}
+{151}{}{VocÃª vÃª um caÃ§a-nÃ­queis muito feio. Ele estÃ¡ coberto de ferrujem e estÃ¡ amassado em vÃ¡rias partes, como se tivesse sido
  atingido repetidamente por um objeto pesado.}
-{200}{}{*Ei, meu jovem…::tosse:: ::tosse:: ::ofegante:: …vem…::tosse seca::…me jogá por um segundo.*}
-{201}{}{*Olá, meu jove- ::tosse:: ::tosse::*}
-{202}{}{*Como vai, jovem amig- ::tosse:: ::tosse seca:: ::ofegante:: …por que…::tosse seca::…não vem fazê uma aposta?*}
+{200}{}{*Ei, meu jovemâ€¦::tosse:: ::tosse:: ::ofegante:: â€¦vemâ€¦::tosse seca::â€¦me jogÃ¡ por um segundo.*}
+{201}{}{*OlÃ¡, meu jove- ::tosse:: ::tosse::*}
+{202}{}{*Como vai, jovem amig- ::tosse:: ::tosse seca:: ::ofegante:: â€¦por queâ€¦::tosse seca::â€¦nÃ£o vem fazÃª uma aposta?*}
 {203}{}{*Trac-trac-trac*}
 {204}{}{*Clink*}
 {205}{}{*Thwunk*}
@@ -14,49 +14,49 @@
 {210}{}{*Clunk*}
 {211}{}{*Tink-tinkety-tink*}
 {212}{}{*Efeito de som idiota*}
-{213}{}{*Ei, belezin…::tosse:: ::tosse:: ::ofegante:: …vem…::tosse seca::…me jogá por um segundo.*}
-{214}{}{*Olá, belezin- ::tosse:: ::tosse:: Disgraça!*}
-{215}{}{*Coloca uma moeda e puxa meu braço. Eu prometo que vou ser gentil cocê. He-he.*}
-{216}{}{*Mas que gracinha de garot-- ::tosse:: ::tosse seca:: ::ofegante:: Por que…::tosse seca::…num vem me jogá?*}
-{230}{}{Você vê uma caixa de metal inanimada com três olhos e um braço.}
-{235}{}{A estranha caixa de metal inanimada com três olhos e um braço não responde.}
-{240}{}{Você segura o braço dela e balança calorosamente. Quando faz isso, ouve um som alto como um chocalho!}
-{245}{}{(Você vê um caça-níqueis. Talvez seja o caça-níqueis mais feio que você já tenha visto em New Reno. A alavanca está torta, duas
- das janelas estão quebradas e está completamente amassado.)}
-{246}{}{Sua mão treme quando pega as moedas. (A máquina continua sussurrando pra você com sua voz moribunda.)
- *Vem, agora…::tosse::…isso mermo…*}
-{250}{}{Você ouve um barulho de doer os ouvidos quando as roletas giram e...}
-{251}{}{NADA! (A máquina ri sarcasticamente.) *Mais sorte na próxima, jove -- ::tosse:: ::tosse:: ::ofegante::}
-{255}{}{(A máquina continua sussurrando pra você.) *Tenta de novo, jovem... mais uma pra - ::tosse:: ::tosse seca:: - aproveitá a sorte.*}
-{260}{}{Finalmente, as roletas param e revelam… }
-{261}{}{(A máquina ri calorosamente.) *Isso mesmo, jovem. Eu sabia que cê cons... ::tosse:: ::tosse:: …eguiria.*}
-{265}{}{(A máquina dá uma gargalhada.) *Muito bem, é isso mermo. Eu sabia que ainda tinha… ::ofgante:: …mojo sobrano! He-he!*}
-{270}{}{(Diante de você talvez esteja o caça-níqueis mais feio que você já viu. Você olha pra ele com uma fascinação mórbida,
- de repente uma voz moribunda masculina sussurra através do compartimento de moedas.) *Nunca vi um jovem como ocê por aqui antes - ::tosse::
- ::tosse:: Cê quer… ::tosse seca:: ::ofegante::… tentá a sorte?*}
-{275}{}{*Eu ainda tô aqui, jovem.* o caça-níqueis faz barulhos. *Ei, chega mais... cê qué fazê uma aposta? Eu não tenho muito tempo nesse mundo.*}
-{280}{}{*Eu sou o bandido maneta mais velho de Reno. Eu tô por aqui desde…::tosse:: ::tosse::…bem, desde sempre. Starting ta
- show, ah'm sorry ta say. Olha, cê vai apostar ou eu vou ficar esperando aqui e enferrujar?*}
-{285}{}{::Tosse:: ::tosse:: *Num tenho TEMPO pra batê papo, jovem. E com certeza cê também tem coisas mais importantes pra fazê do que conversar comigo, eh? Alguma coisa em mente?*}
-{295}{}{*Calma lá, jovem. Pára de chorá. Vai ficá tudo bem, entendeu? Eu vou tomá conta docê, ok?*}
-{300}{}{*Ei, qual é, já chega disso. Vai dá uma volta, limpá a mente…::tosse::…ajuda a relaxá. Cê acha que vai ficá melhor,
+{213}{}{*Ei, belezinâ€¦::tosse:: ::tosse:: ::ofegante:: â€¦vemâ€¦::tosse seca::â€¦me jogÃ¡ por um segundo.*}
+{214}{}{*OlÃ¡, belezin- ::tosse:: ::tosse:: DisgraÃ§a!*}
+{215}{}{*Coloca uma moeda e puxa meu braÃ§o. Eu prometo que vou ser gentil cocÃª. He-he.*}
+{216}{}{*Mas que gracinha de garot-- ::tosse:: ::tosse seca:: ::ofegante:: Por queâ€¦::tosse seca::â€¦num vem me jogÃ¡?*}
+{230}{}{VocÃª vÃª uma caixa de metal inanimada com trÃªs olhos e um braÃ§o.}
+{235}{}{A estranha caixa de metal inanimada com trÃªs olhos e um braÃ§o nÃ£o responde.}
+{240}{}{VocÃª segura o braÃ§o dela e balanÃ§a calorosamente. Quando faz isso, ouve um som alto como um chocalho!}
+{245}{}{(VocÃª vÃª um caÃ§a-nÃ­queis. Talvez seja o caÃ§a-nÃ­queis mais feio que vocÃª jÃ¡ tenha visto em New Reno. A alavanca estÃ¡ torta, duas
+ das janelas estÃ£o quebradas e estÃ¡ completamente amassado.)}
+{246}{}{Sua mÃ£o treme quando pega as moedas. (A mÃ¡quina continua sussurrando pra vocÃª com sua voz moribunda.)
+ *Vem, agoraâ€¦::tosse::â€¦isso mermoâ€¦*}
+{250}{}{VocÃª ouve um barulho de doer os ouvidos quando as roletas giram e...}
+{251}{}{NADA! (A mÃ¡quina ri sarcasticamente.) *Mais sorte na prÃ³xima, jove -- ::tosse:: ::tosse:: ::ofegante::}
+{255}{}{(A mÃ¡quina continua sussurrando pra vocÃª.) *Tenta de novo, jovem... mais uma pra - ::tosse:: ::tosse seca:: - aproveitÃ¡ a sorte.*}
+{260}{}{Finalmente, as roletas param e revelamâ€¦ }
+{261}{}{(A mÃ¡quina ri calorosamente.) *Isso mesmo, jovem. Eu sabia que cÃª cons... ::tosse:: ::tosse:: â€¦eguiria.*}
+{265}{}{(A mÃ¡quina dÃ¡ uma gargalhada.) *Muito bem, Ã© isso mermo. Eu sabia que ainda tinhaâ€¦ ::ofgante:: â€¦mojo sobrano! He-he!*}
+{270}{}{(Diante de vocÃª talvez esteja o caÃ§a-nÃ­queis mais feio que vocÃª jÃ¡ viu. VocÃª olha pra ele com uma fascinaÃ§Ã£o mÃ³rbida,
+ de repente uma voz moribunda masculina sussurra atravÃ©s do compartimento de moedas.) *Nunca vi um jovem como ocÃª por aqui antes - ::tosse::
+ ::tosse:: CÃª querâ€¦ ::tosse seca:: ::ofegante::â€¦ tentÃ¡ a sorte?*}
+{275}{}{*Eu ainda tÃ´ aqui, jovem.* o caÃ§a-nÃ­queis faz barulhos. *Ei, chega mais... cÃª quÃ© fazÃª uma aposta? Eu nÃ£o tenho muito tempo nesse mundo.*}
+{280}{}{*Eu sou o bandido maneta mais velho de Reno. Eu tÃ´ por aqui desdeâ€¦::tosse:: ::tosse::â€¦bem, desde sempre. Starting ta
+ show, ah'm sorry ta say. Olha, cÃª vai apostar ou eu vou ficar esperando aqui e enferrujar?*}
+{285}{}{::Tosse:: ::tosse:: *Num tenho TEMPO pra batÃª papo, jovem. E com certeza cÃª tambÃ©m tem coisas mais importantes pra fazÃª do que conversar comigo, eh? Alguma coisa em mente?*}
+{295}{}{*Calma lÃ¡, jovem. PÃ¡ra de chorÃ¡. Vai ficÃ¡ tudo bem, entendeu? Eu vou tomÃ¡ conta docÃª, ok?*}
+{300}{}{*Ei, qual Ã©, jÃ¡ chega disso. Vai dÃ¡ uma volta, limpÃ¡ a menteâ€¦::tosse::â€¦ajuda a relaxÃ¡. CÃª acha que vai ficÃ¡ melhor,
  jovem?*}
-{301}{}{Eu vô ficá legal... valeu por cunversá cumigo, caça-níqueu véio}
-{305}{}{*Ah! Num precisa agradecê, [X]. Agora, cê vai lá fora e mostra o INFERNO pra eles. Cê é o único herói que nós temo nesse mundo
- de desgramados e ladrãos... ::tosse:: ::ofegante:: ::tosse::… toma cuidado, entendeu??*}
-{306}{}{'Tendi -- cê tamém, tá?}
-{310}{}{(Assim que você puxa a manivela, você pensa ter ouvido a máquina dar um suspiro de alívio, seguido de um longo silêncio. Quando você
- está prester a desistir, ouve um som de algo fazendo barulho bem no fundo da máquina. Alguns segundos depois, o barulho cresce pra
- um barulho ensurdecedor quando moedas começam a pular pra fora como uma avalanche!!) JACKPOT!}
+{301}{}{Eu vÃ´ ficÃ¡ legal... valeu por cunversÃ¡ cumigo, caÃ§a-nÃ­queu vÃ©io}
+{305}{}{*Ah! Num precisa agradecÃª, [X]. Agora, cÃª vai lÃ¡ fora e mostra o INFERNO pra eles. CÃª Ã© o Ãºnico herÃ³i que nÃ³s temo nesse mundo
+ de desgramados e ladrÃ£os... ::tosse:: ::ofegante:: ::tosse::â€¦ toma cuidado, entendeu??*}
+{306}{}{'Tendi -- cÃª tamÃ©m, tÃ¡?}
+{310}{}{(Assim que vocÃª puxa a manivela, vocÃª pensa ter ouvido a mÃ¡quina dar um suspiro de alÃ­vio, seguido de um longo silÃªncio. Quando vocÃª
+ estÃ¡ prester a desistir, ouve um som de algo fazendo barulho bem no fundo da mÃ¡quina. Alguns segundos depois, o barulho cresce pra
+ um barulho ensurdecedor quando moedas comeÃ§am a pular pra fora como uma avalanche!!) JACKPOT!}
 {311}{}{Coletar os ganhos!}
-{315}{}{(Essa máquina parece ter finalmente partido. Parece ter pago o jackpot foi o seu anúncio de morte.
- Você não pode ajudar mas sente pena dela.)}
-{320}{}{Essa máquina é muito antiga. É um milagre que ainda esteja funcionando.}
-{321}{}{Você não pode trabalhar na máquina enquanto o velho está jogando.}
-{322}{}{Essa máquina é irreparável.}
-{323}{}{Não há mais nada que você possa fazer com essa máquina.}
-{324}{}{Essa máquina é muito antiga. É um milagre que ainda esteja funcionando. Você mexe nela por um tempo até ouvir um terrível
- som estalando. Você decide deixá-la como está.}
-{325}{}{Essa máquina é muito antiga. É um milagre que ainda esteja funcionando. Você mexe nela por um tempo, mas você não consegue consetá-la.}
-{326}{}{Essa máquina é muito antiga. É um milagre que ainda esteja funcionando. Você mexe nela por um tempo e limpa algumas das
- engrenagens, mas ainda está em péssimo estado.}
+{315}{}{(Essa mÃ¡quina parece ter finalmente partido. Parece ter pago o jackpot foi o seu anÃºncio de morte.
+ VocÃª nÃ£o pode ajudar mas sente pena dela.)}
+{320}{}{Essa mÃ¡quina Ã© muito antiga. Ã‰ um milagre que ainda esteja funcionando.}
+{321}{}{VocÃª nÃ£o pode trabalhar na mÃ¡quina enquanto o velho estÃ¡ jogando.}
+{322}{}{Essa mÃ¡quina Ã© irreparÃ¡vel.}
+{323}{}{NÃ£o hÃ¡ mais nada que vocÃª possa fazer com essa mÃ¡quina.}
+{324}{}{Essa mÃ¡quina Ã© muito antiga. Ã‰ um milagre que ainda esteja funcionando. VocÃª mexe nela por um tempo atÃ© ouvir um terrÃ­vel
+ som estalando. VocÃª decide deixÃ¡-la como estÃ¡.}
+{325}{}{Essa mÃ¡quina Ã© muito antiga. Ã‰ um milagre que ainda esteja funcionando. VocÃª mexe nela por um tempo, mas vocÃª nÃ£o consegue consetÃ¡-la.}
+{326}{}{Essa mÃ¡quina Ã© muito antiga. Ã‰ um milagre que ainda esteja funcionando. VocÃª mexe nela por um tempo e limpa algumas das
+ engrenagens, mas ainda estÃ¡ em pÃ©ssimo estado.}

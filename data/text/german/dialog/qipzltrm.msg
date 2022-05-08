@@ -1,5 +1,5 @@
 {100}{}{Du siehst ein Terminal.}
-{101}{}{Dieses Terminal scheint zur Bedienung der Türen hier zu dienen.}
-{102}{}{Du hörst, wie sich Türen öffnen.}
-{110}{}{Du musst da was gelöst haben.}
-{120}{}{Der Elektroboden entlädt sich.}
+{101}{}{Dieses Terminal scheint zur Bedienung der TÃ¼ren hier zu dienen.}
+{102}{}{Du hÃ¶rst, wie sich TÃ¼ren Ã¶ffnen.}
+{110}{}{Du musst da was gelÃ¶st haben.}
+{120}{}{Der Elektroboden entlÃ¤dt sich.}

@@ -1,207 +1,207 @@
-{100}{}{Widzisz pannê Kitty.}
-{150}{}{Widzisz osza³amiaj¹co piêkn¹ kobietê. Pomimo bardzo... odkrywczej sukienki, wygl¹da na profesjonalistkê i prawdziwego cz³owieka interesu.}
-{200}{}{Dochody z pierwszego kwarta³u nieco wzros³y... a teraz, jeœli weŸmiemy pod uwagê podwy¿szony haracz...}
-{201}{}{Jeœli przy³apiê j¹ na braniu Jetu, nawet na malutkim *ffiuuu*, to j¹ st¹d wyrzucê...}
-{202}{}{Zbli¿a siê czas comiesiêcznych badañ... akurat w sam¹ porê przed nowym sezonem karawanowym.}
-{203}{}{Potrzebujê wiêcej dziewczyn na to przyjêcie basenowe u Bishopa...}
+{100}{}{Widzisz pannÄ™ Kitty.}
+{150}{}{Widzisz oszaÅ‚amiajÄ…co piÄ™knÄ… kobietÄ™. Pomimo bardzo... odkrywczej sukienki, wyglÄ…da na profesjonalistkÄ™ i prawdziwego czÅ‚owieka interesu.}
+{200}{}{Dochody z pierwszego kwartaÅ‚u nieco wzrosÅ‚y... a teraz, jeÅ›li weÅºmiemy pod uwagÄ™ podwyÅ¼szony haracz...}
+{201}{}{JeÅ›li przyÅ‚apiÄ™ jÄ… na braniu Jetu, nawet na malutkim *ffiuuu*, to jÄ… stÄ…d wyrzucÄ™...}
+{202}{}{ZbliÅ¼a siÄ™ czas comiesiÄ™cznych badaÅ„... akurat w samÄ… porÄ™ przed nowym sezonem karawanowym.}
+{203}{}{PotrzebujÄ™ wiÄ™cej dziewczyn na to przyjÄ™cie basenowe u Bishopa...}
 {204}{}{Te cholerne terminarze Macrosoftu...}
-{205}{}{Spêdzam za du¿o czasu przy tych terminarzach, w koñcu nie zrobiê ¿adnej PRAWDZIWEJ roboty.}
-{206}{}{Lepiej, ¿eby Jules przys³a³ mi tu kogoœ napalonego... i bogatego.}
-{215}{}{(Stoj¹ca przed tob¹ kobieta jest osza³amiaj¹co piêkna. Kiedy do niej podchodzisz, odrywa wzrok od swojej pracy i uœmiecha siê) Ach, nowa twarz! Jestem panna Kitty... witamy w Kociej £apce.}
+{205}{}{SpÄ™dzam za duÅ¼o czasu przy tych terminarzach, w koÅ„cu nie zrobiÄ™ Å¼adnej PRAWDZIWEJ roboty.}
+{206}{}{Lepiej, Å¼eby Jules przysÅ‚aÅ‚ mi tu kogoÅ› napalonego... i bogatego.}
+{215}{}{(StojÄ…ca przed tobÄ… kobieta jest oszaÅ‚amiajÄ…co piÄ™kna. Kiedy do niej podchodzisz, odrywa wzrok od swojej pracy i uÅ›miecha siÄ™) Ach, nowa twarz! Jestem panna Kitty... witamy w Kociej Åapce.}
 {216}{}{Witam ponownie!}
-{217}{}{Proszê, proszê, czy¿ to nie s³awa reñskiego ringu?!}
-{218}{}{By³am ciekawa, kiedy pan }
-{219}{}{O jejku jejku, czy¿ to nie gwiazda z³otego ekranu?}
-{220}{}{ Na co ma pan dziœ ochotê?}
-{221}{}{ Na co ma pani dziœ ochotê?}
-{222}{}{Oggottê?}
-{223}{}{Tyy maa ³aaadneee w³oooosy}
-{224}{}{Tyy mówi "ochodê" H³e-h³e-h³e-h³e-h³e}
-{225}{}{George mófi, sze mamy swoje f³azne ochody i mam siem tszymaæ ot ciebie stala albo nie posfoli mi siem pawiæ z króli¿kami wiêc ja jusz pójdem}
-{226}{}{Jules powiedzia³ mi, ¿eby tu zajrzeæ, jeœli mam ochotê na trochê... rozrywki.}
+{217}{}{ProszÄ™, proszÄ™, czyÅ¼ to nie sÅ‚awa reÅ„skiego ringu?!}
+{218}{}{ByÅ‚am ciekawa, kiedy pan }
+{219}{}{O jejku jejku, czyÅ¼ to nie gwiazda zÅ‚otego ekranu?}
+{220}{}{ Na co ma pan dziÅ› ochotÄ™?}
+{221}{}{ Na co ma pani dziÅ› ochotÄ™?}
+{222}{}{OggottÄ™?}
+{223}{}{Tyy maa Å‚aaadneee wÅ‚oooosy}
+{224}{}{Tyy mÃ³wi "ochodÄ™" HÅ‚e-hÅ‚e-hÅ‚e-hÅ‚e-hÅ‚e}
+{225}{}{George mÃ³fi, sze mamy swoje fÅ‚azne ochody i mam siem tszymaÄ‡ ot ciebie stala albo nie posfoli mi siem pawiÄ‡ z krÃ³liÅ¼kami wiÄ™c ja jusz pÃ³jdem}
+{226}{}{Jules powiedziaÅ‚ mi, Å¼eby tu zajrzeÄ‡, jeÅ›li mam ochotÄ™ na trochÄ™... rozrywki.}
 {227}{}{Szukam... rozrywki.}
-{228}{}{Prawdê mówi¹c, chcê zadaæ kilka pytañ.}
-{229}{}{Widzisz, wszêdzie na pustyni wala³y siê te magazyny, "Kocia £apka" i nie mam pojêcia, co to w³aœciwie jest. Mam tu jeden egzemplarz.}
-{230}{}{Mam tu tê kolekcjê numerów Kociej £apki, o któr¹ prosi³aœ.}
-{231}{}{Dziêki, ale dziœ nie skorzystam.}
-{240}{}{(Piêkna pani dotyka palcem d³oni twojego czó³ka) Och, biedactwo... mo¿esz tu chwilkê zostaæ, ¿eby siê otrz¹sn¹æ z tego ca³ego ba³aganu, ale nie mo¿esz zostaæ tu zbyt d³ugo, dobrze? Obiecaj mi to.}
-{241}{}{Dooobrzee, œliczna paaniii, dzieenkujee.}
-{245}{}{(Uœmiecha siê i mruga do ciebie) Ach tak? A wiêc jesteœ we w³aœciwym miejscu. Bez wzglêdu na to, jakie s¹ twoje chêci i marzenia, mo¿emy ci to dostarczyæ... i nie wstydŸ siê, ju¿ to wszystko s³yszeliœmy. A wiêc, na co masz ochotê?}
-{246}{}{Przepraszam za tak¹ œmia³oœæ, ale pragnê lepiej poznaæ CIEBIE. O której koñczysz? Uch, pracê, oczywiœcie.}
-{247}{}{To zale¿y... co jest w menu?}
-{248}{}{Chcê czegoœ specjalnego dla jednego z moich znajomych.}
-{249}{}{Proszê o coœ dla jednego z moich przyjació³. To z okazji... eee, urodzin.}
-{250}{}{Chcê zadaæ ci kilka pytañ...}
-{251}{}{W³aœciwie to nie mam ju¿ na nic ochoty. Trema i tak dalej. Do widzenia.}
-{255}{}{To bardzo mi³e, ale... nie. Nie mogê.}
-{256}{}{Oj, daj spokój. Tylko jeden drink. Bez zobowi¹zañ. Bêdziemy siê dobrze bawiæ.}
-{257}{}{Jeœli nie lubisz kobiet, to nie ma sprawy. Do licha, ja te¿ nie lubiê wiêkszoœci kobiet, które spotykam. Mamy ze sob¹ coœ wspólnego.}
-{258}{}{Hej, nie martw siê... nie mam na sobie zbroi wspomaganej, no nie?}
-{259}{}{W porz¹dku. Mam kilka pytañ...}
-{260}{}{Wybacz, nie chcê ciê do niczego zmuszaæ. Do widzenia.}
-{265}{}{(Rozgl¹da siê wokó³, a potem pochyla siê i szepcze) Wiesz co... wróæ tu, jak ju¿ zrobisz wszystko, co jest do zrobienia, ¿eby uratowaæ twoj¹ wioskê, a wtedy pogadamy, dobra?}
-{266}{}{W porz¹dku. Mam parê innych pytañ...}
-{267}{}{A wiêc umowa stoi. Na razie.}
-{275}{}{Popatrzmy (odlicza na palcach) ...mamy romantyczne zaloty, dalekomorskie odwierty, wycie do ksiê¿yca i wiele innych egzotycznych mo¿liwoœci. (uœmiecha siê) Pytanie tylko, na co TY masz dziœ humor?}
-{276}{}{Poproszê trochê... æwiczeñ ustnych.}
-{277}{}{Myœlê, ¿e prosty, zwierzêcy, pod³y, wulgarny seks w zupe³noœci mi wystarczy.}
-{278}{}{Poproszê pe³n¹ obróbkê dolnych i górnych czêœci cia³a.}
-{279}{}{Czy mo¿na by z nimi po prostu, no wiesz, porozmawiaæ?}
-{280}{}{Mam specjalne ¿yczenie... dramatyczne.}
-{290}{}{W porz¹dku. }
-{291}{}{(Mrugniêcie okiem) To bêdzie nieodp³atnie.}
-{292}{}{To bêdzie }
-{293}{}{Dobrze. Oto pieni¹dze.}
-{294}{}{Nie mogê sprzeczaæ siê o cenê. Zróbmy to.}
-{295}{}{Niewa¿ne. Mam kilka pytañ...}
-{296}{}{Nie mam tyle pieniêdzy... mo¿e innym razem.}
-{320}{}{Ale¿ oczywiœcie, ¿e mo¿na. Nazywamy to "specja³ Kestinga". }
+{228}{}{PrawdÄ™ mÃ³wiÄ…c, chcÄ™ zadaÄ‡ kilka pytaÅ„.}
+{229}{}{Widzisz, wszÄ™dzie na pustyni walaÅ‚y siÄ™ te magazyny, "Kocia Åapka" i nie mam pojÄ™cia, co to wÅ‚aÅ›ciwie jest. Mam tu jeden egzemplarz.}
+{230}{}{Mam tu tÄ™ kolekcjÄ™ numerÃ³w Kociej Åapki, o ktÃ³rÄ… prosiÅ‚aÅ›.}
+{231}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{240}{}{(PiÄ™kna pani dotyka palcem dÅ‚oni twojego czÃ³Å‚ka) Och, biedactwo... moÅ¼esz tu chwilkÄ™ zostaÄ‡, Å¼eby siÄ™ otrzÄ…snÄ…Ä‡ z tego caÅ‚ego baÅ‚aganu, ale nie moÅ¼esz zostaÄ‡ tu zbyt dÅ‚ugo, dobrze? Obiecaj mi to.}
+{241}{}{Dooobrzee, Å›liczna paaniii, dzieenkujee.}
+{245}{}{(UÅ›miecha siÄ™ i mruga do ciebie) Ach tak? A wiÄ™c jesteÅ› we wÅ‚aÅ›ciwym miejscu. Bez wzglÄ™du na to, jakie sÄ… twoje chÄ™ci i marzenia, moÅ¼emy ci to dostarczyÄ‡... i nie wstydÅº siÄ™, juÅ¼ to wszystko sÅ‚yszeliÅ›my. A wiÄ™c, na co masz ochotÄ™?}
+{246}{}{Przepraszam za takÄ… Å›miaÅ‚oÅ›Ä‡, ale pragnÄ™ lepiej poznaÄ‡ CIEBIE. O ktÃ³rej koÅ„czysz? Uch, pracÄ™, oczywiÅ›cie.}
+{247}{}{To zaleÅ¼y... co jest w menu?}
+{248}{}{ChcÄ™ czegoÅ› specjalnego dla jednego z moich znajomych.}
+{249}{}{ProszÄ™ o coÅ› dla jednego z moich przyjaciÃ³Å‚. To z okazji... eee, urodzin.}
+{250}{}{ChcÄ™ zadaÄ‡ ci kilka pytaÅ„...}
+{251}{}{WÅ‚aÅ›ciwie to nie mam juÅ¼ na nic ochoty. Trema i tak dalej. Do widzenia.}
+{255}{}{To bardzo miÅ‚e, ale... nie. Nie mogÄ™.}
+{256}{}{Oj, daj spokÃ³j. Tylko jeden drink. Bez zobowiÄ…zaÅ„. BÄ™dziemy siÄ™ dobrze bawiÄ‡.}
+{257}{}{JeÅ›li nie lubisz kobiet, to nie ma sprawy. Do licha, ja teÅ¼ nie lubiÄ™ wiÄ™kszoÅ›ci kobiet, ktÃ³re spotykam. Mamy ze sobÄ… coÅ› wspÃ³lnego.}
+{258}{}{Hej, nie martw siÄ™... nie mam na sobie zbroi wspomaganej, no nie?}
+{259}{}{W porzÄ…dku. Mam kilka pytaÅ„...}
+{260}{}{Wybacz, nie chcÄ™ ciÄ™ do niczego zmuszaÄ‡. Do widzenia.}
+{265}{}{(RozglÄ…da siÄ™ wokÃ³Å‚, a potem pochyla siÄ™ i szepcze) Wiesz co... wrÃ³Ä‡ tu, jak juÅ¼ zrobisz wszystko, co jest do zrobienia, Å¼eby uratowaÄ‡ twojÄ… wioskÄ™, a wtedy pogadamy, dobra?}
+{266}{}{W porzÄ…dku. Mam parÄ™ innych pytaÅ„...}
+{267}{}{A wiÄ™c umowa stoi. Na razie.}
+{275}{}{Popatrzmy (odlicza na palcach) ...mamy romantyczne zaloty, dalekomorskie odwierty, wycie do ksiÄ™Å¼yca i wiele innych egzotycznych moÅ¼liwoÅ›ci. (uÅ›miecha siÄ™) Pytanie tylko, na co TY masz dziÅ› humor?}
+{276}{}{PoproszÄ™ trochÄ™... Ä‡wiczeÅ„ ustnych.}
+{277}{}{MyÅ›lÄ™, Å¼e prosty, zwierzÄ™cy, podÅ‚y, wulgarny seks w zupeÅ‚noÅ›ci mi wystarczy.}
+{278}{}{PoproszÄ™ peÅ‚nÄ… obrÃ³bkÄ™ dolnych i gÃ³rnych czÄ™Å›ci ciaÅ‚a.}
+{279}{}{Czy moÅ¼na by z nimi po prostu, no wiesz, porozmawiaÄ‡?}
+{280}{}{Mam specjalne Å¼yczenie... dramatyczne.}
+{290}{}{W porzÄ…dku. }
+{291}{}{(MrugniÄ™cie okiem) To bÄ™dzie nieodpÅ‚atnie.}
+{292}{}{To bÄ™dzie }
+{293}{}{Dobrze. Oto pieniÄ…dze.}
+{294}{}{Nie mogÄ™ sprzeczaÄ‡ siÄ™ o cenÄ™. ZrÃ³bmy to.}
+{295}{}{NiewaÅ¼ne. Mam kilka pytaÅ„...}
+{296}{}{Nie mam tyle pieniÄ™dzy... moÅ¼e innym razem.}
+{320}{}{AleÅ¼ oczywiÅ›cie, Å¼e moÅ¼na. Nazywamy to "specjaÅ‚ Kestinga". }
 {322}{}{Kosztuje tylko }
 {323}{}{Czemu to tak nazywacie?}
-{325}{}{Dla mnie bomba. A wiêc zgoda.}
-{326}{}{Mo¿e innym razem. Mam kilka pytañ...}
-{335}{}{No có¿... plotka g³osi, ¿e by³ kiedyœ taki pracownik s³ynnej firmy komputerowej, który lubi³ rozmawiaæ z innymi (wzruszenie ramion).}
-{336}{}{Przypadkiem zarabia³ tylko }
-{337}{}{Przypadkiem zupe³nie nic nie zarabia³, wiêc staæ go by³o tylko na rozmowê.}
-{338}{}{Och. W porz¹dku, zapisz mnie wiêc na sesjê konwersacji. Oto }
-{340}{}{Chyba spasujê. Mam kilka pytañ...}
+{325}{}{Dla mnie bomba. A wiÄ™c zgoda.}
+{326}{}{MoÅ¼e innym razem. Mam kilka pytaÅ„...}
+{335}{}{No cÃ³Å¼... plotka gÅ‚osi, Å¼e byÅ‚ kiedyÅ› taki pracownik sÅ‚ynnej firmy komputerowej, ktÃ³ry lubiÅ‚ rozmawiaÄ‡ z innymi (wzruszenie ramion).}
+{336}{}{Przypadkiem zarabiaÅ‚ tylko }
+{337}{}{Przypadkiem zupeÅ‚nie nic nie zarabiaÅ‚, wiÄ™c staÄ‡ go byÅ‚o tylko na rozmowÄ™.}
+{338}{}{Och. W porzÄ…dku, zapisz mnie wiÄ™c na sesjÄ™ konwersacji. Oto }
+{340}{}{Chyba spasujÄ™. Mam kilka pytaÅ„...}
 {350}{}{Tak?}
-{351}{}{Zapytaæ nie zaszkodzi...}
-{352}{}{W porz¹dku. (Uœmiecha siê) Jednak odpowiedzi mog¹ ciê kosztowaæ...}
+{351}{}{ZapytaÄ‡ nie zaszkodzi...}
+{352}{}{W porzÄ…dku. (UÅ›miecha siÄ™) Jednak odpowiedzi mogÄ… ciÄ™ kosztowaÄ‡...}
 {353}{}{Pewnie. Jakie masz pytania?}
-{354}{}{Podobno niektóre z waszych dziewcz¹t wybiera siê, by... odwiedzi³y Myrona.}
-{355}{}{Jules powiedzia³ mi, ¿e mo¿na tu znaleŸæ... rozrywkê.}
-{361}{}{W³aœciwie to lepiej ju¿ pójdê.}
-{375}{}{Jest szansa, ¿e zdo³amy ci dogodziæ. A twoje ¿yczenie to...?}
-{376}{}{Chcê, ¿eby druga osoba za³o¿y³a kombinezon mieszkañca Krypty, nazywa³a mnie "Przybyszem z Krypty" i ¿ebyœmy wyruszyli na poszukiwanie "Krypty 69".}
-{377}{}{Chcê zostaæ "uwiêziony" przez jak¹œ porywaj¹c¹ mutantkê, a potem zostaæ zmuszony, by zanurkowaæ w jej mutuj¹cej "kadzi".}
-{378}{}{Chcia³bym zagraæ rolê "Herka", m³odego, wyroœniêtego niewolnika porwanego z rodzinnej wioski przez bandê po¿¹dliwych ³owczyñ. Ale jest jeden haczyk... on mo¿e siê komunikowaæ tylko za pomoc¹ swojego CIA£A.}
-{379}{}{Chcia³abym zagraæ rolê "Zeny", m³odej, wyroœniêtej niewolnicy porwanej z rodzinnej wioski przez bandê ³owców. Ale jest jeden haczyk... ona mo¿e siê komunikowaæ tylko za pomoc¹ swojego CIA£A.}
-{380}{}{Chcê zostaæ "uwiêziona" przez z³oœliwego porucznika mutantów, brutalnie przes³uchana, a potem zanurzona w jego mutuj¹cych kadziach.}
-{381}{}{Macie mo¿e jakieœ dziewczyny, które wygl¹daj¹ jak Angela Bishop? Muszê wy³adowaæ swoje fascynacje.}
-{382}{}{Macie mo¿e jakieœ dziewczyny, które wygl¹daj¹ jak pani Bishop? Muszê wy³adowaæ swoje fascynacje.}
-{383}{}{Chcê zamiast tego zadaæ ci kilka pytañ...}
-{384}{}{W³aœciwie to niewa¿ne. Muszê ju¿ iœæ.}
-{395}{}{Oczywiœcie. (Rzuca okiem na twoje towarzystwo) Kto z nich?}
-{396}{}{Czy mo¿ecie zaj¹æ siê Lennym? Myœlê, ¿e on nigdy nie ca³owa³ dziewczyny.}
-{397}{}{Czy masz tu kogoœ, kto móg³by, eee, "poradziæ" sobie z Marcusem?}
-{398}{}{Ten tutaj ma³y oblech - Myron.}
-{399}{}{"Koœæ w Nosie", jeœli wiesz o co mi chodzi. He he.}
-{400}{}{Cassidy. Ostatni raz by³ chyba dawno temu.}
+{354}{}{Podobno niektÃ³re z waszych dziewczÄ…t wybiera siÄ™, by... odwiedziÅ‚y Myrona.}
+{355}{}{Jules powiedziaÅ‚ mi, Å¼e moÅ¼na tu znaleÅºÄ‡... rozrywkÄ™.}
+{361}{}{WÅ‚aÅ›ciwie to lepiej juÅ¼ pÃ³jdÄ™.}
+{375}{}{Jest szansa, Å¼e zdoÅ‚amy ci dogodziÄ‡. A twoje Å¼yczenie to...?}
+{376}{}{ChcÄ™, Å¼eby druga osoba zaÅ‚oÅ¼yÅ‚a kombinezon mieszkaÅ„ca Krypty, nazywaÅ‚a mnie "Przybyszem z Krypty" i Å¼ebyÅ›my wyruszyli na poszukiwanie "Krypty 69".}
+{377}{}{ChcÄ™ zostaÄ‡ "uwiÄ™ziony" przez jakÄ…Å› porywajÄ…cÄ… mutantkÄ™, a potem zostaÄ‡ zmuszony, by zanurkowaÄ‡ w jej mutujÄ…cej "kadzi".}
+{378}{}{ChciaÅ‚bym zagraÄ‡ rolÄ™ "Herka", mÅ‚odego, wyroÅ›niÄ™tego niewolnika porwanego z rodzinnej wioski przez bandÄ™ poÅ¼Ä…dliwych Å‚owczyÅ„. Ale jest jeden haczyk... on moÅ¼e siÄ™ komunikowaÄ‡ tylko za pomocÄ… swojego CIAÅA.}
+{379}{}{ChciaÅ‚abym zagraÄ‡ rolÄ™ "Zeny", mÅ‚odej, wyroÅ›niÄ™tej niewolnicy porwanej z rodzinnej wioski przez bandÄ™ Å‚owcÃ³w. Ale jest jeden haczyk... ona moÅ¼e siÄ™ komunikowaÄ‡ tylko za pomocÄ… swojego CIAÅA.}
+{380}{}{ChcÄ™ zostaÄ‡ "uwiÄ™ziona" przez zÅ‚oÅ›liwego porucznika mutantÃ³w, brutalnie przesÅ‚uchana, a potem zanurzona w jego mutujÄ…cych kadziach.}
+{381}{}{Macie moÅ¼e jakieÅ› dziewczyny, ktÃ³re wyglÄ…dajÄ… jak Angela Bishop? MuszÄ™ wyÅ‚adowaÄ‡ swoje fascynacje.}
+{382}{}{Macie moÅ¼e jakieÅ› dziewczyny, ktÃ³re wyglÄ…dajÄ… jak pani Bishop? MuszÄ™ wyÅ‚adowaÄ‡ swoje fascynacje.}
+{383}{}{ChcÄ™ zamiast tego zadaÄ‡ ci kilka pytaÅ„...}
+{384}{}{WÅ‚aÅ›ciwie to niewaÅ¼ne. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{395}{}{OczywiÅ›cie. (Rzuca okiem na twoje towarzystwo) Kto z nich?}
+{396}{}{Czy moÅ¼ecie zajÄ…Ä‡ siÄ™ Lennym? MyÅ›lÄ™, Å¼e on nigdy nie caÅ‚owaÅ‚ dziewczyny.}
+{397}{}{Czy masz tu kogoÅ›, kto mÃ³gÅ‚by, eee, "poradziÄ‡" sobie z Marcusem?}
+{398}{}{Ten tutaj maÅ‚y oblech - Myron.}
+{399}{}{"KoÅ›Ä‡ w Nosie", jeÅ›li wiesz o co mi chodzi. He he.}
+{400}{}{Cassidy. Ostatni raz byÅ‚ chyba dawno temu.}
 {401}{}{Vic. "Kupiec" Vic.}
-{402}{}{Czy któraœ z twoich dziewczyn mog³aby przeczytaæ s³ownik Robo Mózgowi? To pobudza jego oœrodek mózgowy.}
-{403}{}{Doktor chcia³by chyba mieæ "gor¹czkê", albo i dwie.}
-{404}{}{Davinowi przyda³oby siê... du¿o... dodatkowych doœwiadczeñ.}
-{405}{}{Miria chcia³aby odbyæ wycieczkê na dzik¹ stronê.}
-{406}{}{W³aœciwie to nikt. Dziêki.}
-{407}{}{Dex, ten tutaj. Lepiej miej na niego oko, on czasami traci nad sob¹ kontrolê.}
-{408}{}{Kot Jules, ten tutaj. Ale uwa¿aj, mo¿e gryŸæ dziewczyny.}
-{409}{}{Kitsune, tutaj. Mam nadziejê, ¿e mo¿esz zaspokoiæ jej azjatyckie potrzeby, jeœli wiesz co mam na myœli.}
-{420}{}{To ten przyjaciel tutaj? (Ogl¹da wskazan¹ osobê ze wszystkich stron i kiwa g³ow¹) Myœlê, ¿e potrafimy ci dogodziæ... }
-{421}{}{(Ogl¹da wskazan¹ osobê ze wszystkich stron i kiwa g³ow¹) Myœlê, ¿e potrafimy ci dogodziæ... }
-{422}{}{ dolarów.}
-{423}{}{Nie martw siê o pieni¹dze. To bêdzie za darmo.}
+{402}{}{Czy ktÃ³raÅ› z twoich dziewczyn mogÅ‚aby przeczytaÄ‡ sÅ‚ownik Robo MÃ³zgowi? To pobudza jego oÅ›rodek mÃ³zgowy.}
+{403}{}{Doktor chciaÅ‚by chyba mieÄ‡ "gorÄ…czkÄ™", albo i dwie.}
+{404}{}{Davinowi przydaÅ‚oby siÄ™... duÅ¼o... dodatkowych doÅ›wiadczeÅ„.}
+{405}{}{Miria chciaÅ‚aby odbyÄ‡ wycieczkÄ™ na dzikÄ… stronÄ™.}
+{406}{}{WÅ‚aÅ›ciwie to nikt. DziÄ™ki.}
+{407}{}{Dex, ten tutaj. Lepiej miej na niego oko, on czasami traci nad sobÄ… kontrolÄ™.}
+{408}{}{Kot Jules, ten tutaj. Ale uwaÅ¼aj, moÅ¼e gryÅºÄ‡ dziewczyny.}
+{409}{}{Kitsune, tutaj. Mam nadziejÄ™, Å¼e moÅ¼esz zaspokoiÄ‡ jej azjatyckie potrzeby, jeÅ›li wiesz co mam na myÅ›li.}
+{420}{}{To ten przyjaciel tutaj? (OglÄ…da wskazanÄ… osobÄ™ ze wszystkich stron i kiwa gÅ‚owÄ…) MyÅ›lÄ™, Å¼e potrafimy ci dogodziÄ‡... }
+{421}{}{(OglÄ…da wskazanÄ… osobÄ™ ze wszystkich stron i kiwa gÅ‚owÄ…) MyÅ›lÄ™, Å¼e potrafimy ci dogodziÄ‡... }
+{422}{}{ dolarÃ³w.}
+{423}{}{Nie martw siÄ™ o pieniÄ…dze. To bÄ™dzie za darmo.}
 {424}{}{Dobrze. Oto one.}
-{425}{}{Nie mogê spieraæ siê z tak¹ cen¹. W porz¹dku.}
-{426}{}{Mo¿e póŸniej... wiesz co, mam kilka pytañ.}
-{427}{}{Hmmm. Mo¿e jak bêdê mia³ wystarczaj¹co du¿o pieniêdzy.}
-{428}{}{W³aœciwie to ju¿ tego nie chcê. Do widzenia.}
-{440}{}{(Wygl¹da na zaskoczon¹) Zobaczmy. (Przegl¹da magazyny) No, no... wiesz, s³ysza³am takie pog³oski, ¿e jeszcze przed wojn¹ Kocia £apka by³a wydawnictwem... pornograficznym.}
+{425}{}{Nie mogÄ™ spieraÄ‡ siÄ™ z takÄ… cenÄ…. W porzÄ…dku.}
+{426}{}{MoÅ¼e pÃ³Åºniej... wiesz co, mam kilka pytaÅ„.}
+{427}{}{Hmmm. MoÅ¼e jak bÄ™dÄ™ miaÅ‚ wystarczajÄ…co duÅ¼o pieniÄ™dzy.}
+{428}{}{WÅ‚aÅ›ciwie to juÅ¼ tego nie chcÄ™. Do widzenia.}
+{440}{}{(WyglÄ…da na zaskoczonÄ…) Zobaczmy. (PrzeglÄ…da magazyny) No, no... wiesz, sÅ‚yszaÅ‚am takie pogÅ‚oski, Å¼e jeszcze przed wojnÄ… Kocia Åapka byÅ‚a wydawnictwem... pornograficznym.}
 {441}{}{Pornogru - porn-o-gra - pornu - uch, wydawnictwem, tak?}
-{442}{}{To miejsce by³o wydawnictwem?}
-{450}{}{Tak... tych pokoi u¿ywano do krêcenia filmów z modelami z ca³ego œwiata. (Wydaje siê zafascynowana magazynami) Masz tutaj spory kawa³ek hisorii.}
-{451}{}{Wiesz, no, ja tylko czytam artyku³y.}
-{452}{}{Strasznie siê cieszê, ¿e w koñcu wiem, co to jest. To wkurzaj¹ce, jak siê ci¹gle to ogl¹da i ci¹gle dostaje ten sam komunikat. Pewnie DALEJ bêdzie siê pojawia³ ten sam, mimo ¿e teraz ju¿ wiem, co to jest.}
-{460}{}{Wiesz co... jeœli dasz radê przynieœæ mi pe³ny zestaw... powiedzmy, dziesiêæ wydañ, odkupiê je od ciebie. Bêd¹ w sam raz na wystawê, ¿eby przyci¹gaæ klientów. Co ty na to?}
-{461}{}{Jeœli dam radê ZNALEÆ ich a¿ tyle... wiesz co, mam jeszcze parê pytañ...}
-{462}{}{W³aœciwie to zupe³nie przypadkiem mam dziesiêæ sztuk przy sobie.}
-{463}{}{Pewnie. Jeœli znajdê ich tyle, to na pewno tu wpadnê.}
-{470}{}{Cudownie! Dam ci $500 za ca³y komplet.}
-{471}{}{$500? Po uzbieraniu ich WSZYSTKICH? Nie ma mowy, chcê tysi¹c.}
-{472}{}{Brzmi nieŸle. Oto one. Ale uwa¿aj na numer pi¹ty... wygl¹da na to, ¿e kartki siê poskleja³y.}
-{473}{}{Nie, chyba jednak je zatrzymam... wiesz co, mam kilka innych pytañ...}
-{474}{}{Nie, dziêki, czujê do nich przywi¹zanie. Mo¿e innym razem.}
-{480}{}{Hmmmmm. Siedemset piêædziesi¹t i umowa stoi.}
-{481}{}{$750? W porz¹dku. S¹ twoje.}
-{482}{}{W takim razie jednak je zatrzymam... s³uchaj, mam kilka innych pytañ...}
-{483}{}{Zapomnij. Mo¿e innym razem.}
-{490}{}{Proszê. (Przelicza pieni¹dze i wrêcza ci je) Jeszcze raz dziêki.}
-{491}{}{Wiesz co, mam kilka innych pytañ...}
+{442}{}{To miejsce byÅ‚o wydawnictwem?}
+{450}{}{Tak... tych pokoi uÅ¼ywano do krÄ™cenia filmÃ³w z modelami z caÅ‚ego Å›wiata. (Wydaje siÄ™ zafascynowana magazynami) Masz tutaj spory kawaÅ‚ek hisorii.}
+{451}{}{Wiesz, no, ja tylko czytam artykuÅ‚y.}
+{452}{}{Strasznie siÄ™ cieszÄ™, Å¼e w koÅ„cu wiem, co to jest. To wkurzajÄ…ce, jak siÄ™ ciÄ…gle to oglÄ…da i ciÄ…gle dostaje ten sam komunikat. Pewnie DALEJ bÄ™dzie siÄ™ pojawiaÅ‚ ten sam, mimo Å¼e teraz juÅ¼ wiem, co to jest.}
+{460}{}{Wiesz co... jeÅ›li dasz radÄ™ przynieÅ›Ä‡ mi peÅ‚ny zestaw... powiedzmy, dziesiÄ™Ä‡ wydaÅ„, odkupiÄ™ je od ciebie. BÄ™dÄ… w sam raz na wystawÄ™, Å¼eby przyciÄ…gaÄ‡ klientÃ³w. Co ty na to?}
+{461}{}{JeÅ›li dam radÄ™ ZNALEÅ¹Ä† ich aÅ¼ tyle... wiesz co, mam jeszcze parÄ™ pytaÅ„...}
+{462}{}{WÅ‚aÅ›ciwie to zupeÅ‚nie przypadkiem mam dziesiÄ™Ä‡ sztuk przy sobie.}
+{463}{}{Pewnie. JeÅ›li znajdÄ™ ich tyle, to na pewno tu wpadnÄ™.}
+{470}{}{Cudownie! Dam ci $500 za caÅ‚y komplet.}
+{471}{}{$500? Po uzbieraniu ich WSZYSTKICH? Nie ma mowy, chcÄ™ tysiÄ…c.}
+{472}{}{Brzmi nieÅºle. Oto one. Ale uwaÅ¼aj na numer piÄ…ty... wyglÄ…da na to, Å¼e kartki siÄ™ posklejaÅ‚y.}
+{473}{}{Nie, chyba jednak je zatrzymam... wiesz co, mam kilka innych pytaÅ„...}
+{474}{}{Nie, dziÄ™ki, czujÄ™ do nich przywiÄ…zanie. MoÅ¼e innym razem.}
+{480}{}{Hmmmmm. Siedemset piÄ™Ä‡dziesiÄ…t i umowa stoi.}
+{481}{}{$750? W porzÄ…dku. SÄ… twoje.}
+{482}{}{W takim razie jednak je zatrzymam... sÅ‚uchaj, mam kilka innych pytaÅ„...}
+{483}{}{Zapomnij. MoÅ¼e innym razem.}
+{490}{}{ProszÄ™. (Przelicza pieniÄ…dze i wrÄ™cza ci je) Jeszcze raz dziÄ™ki.}
+{491}{}{Wiesz co, mam kilka innych pytaÅ„...}
 {492}{}{Nie ma sprawy. Do widzenia.}
-{500}{}{Naprawdê? (Ogl¹da nr 5, po czym przegl¹da resztê) Hmmmm. Wygl¹da na to, ¿e masz tu dwa jednakowe egzemplarze, wiêc ten jeden mo¿esz wzi¹æ z powrotem... ale pozwól, ¿e najpierw zetrê tê plamê.}
-{501}{}{Dobrze. Uch... a tak w ogóle, to ta plama nie jest moja. Nie mam pojêcia, sk¹d siê tam wziê³a.}
-{502}{}{Dobrze. Na pewno dasz radê zetrzeæ tê plamê? Wygl¹da na to, ¿e siê tam porz¹dnie przylepi³a.}
-{510}{}{To siê ci¹gle zdarza... (panna Kitty zaczyna czyœciæ pismo) ...g³ównie z rozk³adówkami. To powinno wystarczyæ... (unosi je) ...dobre wydanie - zdaje siê zawiera artyku³ o broniach energetycznych. Proszê.}
-{511}{}{Mam kilka innych pytañ...}
-{512}{}{Artyku³ o broniach energetycznych? Dziêki. Mo¿e go póŸniej przeczytam.}
-{520}{}{(Kiedy mówisz, wstrz¹œniêta podnosi wzrok) Ty! Jesteœ z powrotem! Ja... myœla³am, ¿e ju¿ nie ¿yjesz. (Chyba jej ul¿y³o) Tak siê *martwi³am*. Ryzykowaæ ¿yciem, walczyæ z Enklaw¹... to najodwa¿niejsza rzecz, o jakiej kiedykolwiek s³ysza³am.}
-{521}{}{(Kiedy mówisz, wstrz¹œniêta podnosi wzrok) Ty! S³ysza³am o tobie. (Jej twarz rozjaœnia siê w zachwycie) Ryzykowaæ ¿yciem, walczyæ z Enklaw¹... to najodwa¿niejsza rzecz, o jakiej kiedykolwiek s³ysza³am.}
-{522}{}{! Cieszê siê, ¿e jesteœ z powrotem. Ju¿ samo przebywanie kogoœ takiego jak ty w pobli¿u nakrêca interes: ryzykowaæ ¿yciem, walczyæ z Enklaw¹... to najodwa¿niejsza rzecz, o jakiej kiedykolwiek s³ysza³am.}
-{523}{}{Kurcze, panno Kitty. To jezd nic czego nikt inny by nie zrobi³by by, gdyby by³by na moim miejscu by.}
-{524}{}{Doooook³adnie, z³otko. I to jest najodwa¿niejsza rzecz o jakiej kiedykolwiek us³yszysz, bo jestem NAJGORSZY z najgorszych.}
-{525}{}{To nie by³o nic, czego nie zrobi³aby na moim miejscu ka¿da wkurwiona kobieta, której ktoœ porwa³ ca³¹ wioskê.}
-{526}{}{I to jest najodwa¿niejsza rzecz o jakiej KIEDYKOLWIEK us³yszysz, bo jestem NAJGORSZ¥ suk¹ na ca³ych pustkowiach.}
-{527}{}{Dziêki. Jako bohaterka po prostu wykonujê swoj¹ pracê.}
-{528}{}{Dziêki. Jako bohater po prostu wykonujê swoj¹ pracê.}
-{529}{}{Kopaæ ty³ki i zbieraæ tytu³y, oto moja praca.}
-{545}{}{Jaka skromnoœæ. }
-{546}{}{Jaka si³a. Jaka... pewnoœæ siebie. }
-{547}{}{KOCHAM to u ciebie. (Ogarnia rêk¹ ca³¹ Koci¹ £apkê) Zawsze bêdziemy ciê tu mi³o witaæ, bez op³aty.}
-{548}{}{A wiêc... co powiesz na tê randkê, o której kiedyœ rozmawialiœmy?}
-{549}{}{A wiêc... co ty na to... no wiesz, ty i ja... jakby... no wiesz.}
-{550}{}{Z³otko, czujem siem jak maszyna, a to nie jest tak, jak siem powinienem czuæ. ChodŸ tutaj.}
-{551}{}{Œwietnie! Wiesz, co, mam jeszcze kilka pytañ, zanim sobie dogodzê...}
-{552}{}{Dziêki. Doceniam to panno Kitty.}
-{553}{}{Nie oczekujê niczego mniej. Skorzystam póŸniej.}
-{565}{}{W porz¹dku, }
-{566}{}{...pozwól mi tylko wzi¹æ swój p³aszcz.}
-{567}{}{Nie ma poœpiechu.}
-{568}{}{Dobrze, ¿e mam swój "p³aszcz" w kieszeni. He, he.}
-{569}{}{Pewnie. Ale poœpiesz siê... mamy rezerwacjê na ósm¹. W moich SPODNIACH.}
-{570}{}{Pewnie. Ale poœpiesz siê... ty i mój jêzyk s¹ umówieni na ósm¹.}
+{500}{}{NaprawdÄ™? (OglÄ…da nr 5, po czym przeglÄ…da resztÄ™) Hmmmm. WyglÄ…da na to, Å¼e masz tu dwa jednakowe egzemplarze, wiÄ™c ten jeden moÅ¼esz wziÄ…Ä‡ z powrotem... ale pozwÃ³l, Å¼e najpierw zetrÄ™ tÄ™ plamÄ™.}
+{501}{}{Dobrze. Uch... a tak w ogÃ³le, to ta plama nie jest moja. Nie mam pojÄ™cia, skÄ…d siÄ™ tam wziÄ™Å‚a.}
+{502}{}{Dobrze. Na pewno dasz radÄ™ zetrzeÄ‡ tÄ™ plamÄ™? WyglÄ…da na to, Å¼e siÄ™ tam porzÄ…dnie przylepiÅ‚a.}
+{510}{}{To siÄ™ ciÄ…gle zdarza... (panna Kitty zaczyna czyÅ›ciÄ‡ pismo) ...gÅ‚Ã³wnie z rozkÅ‚adÃ³wkami. To powinno wystarczyÄ‡... (unosi je) ...dobre wydanie - zdaje siÄ™ zawiera artykuÅ‚ o broniach energetycznych. ProszÄ™.}
+{511}{}{Mam kilka innych pytaÅ„...}
+{512}{}{ArtykuÅ‚ o broniach energetycznych? DziÄ™ki. MoÅ¼e go pÃ³Åºniej przeczytam.}
+{520}{}{(Kiedy mÃ³wisz, wstrzÄ…Å›niÄ™ta podnosi wzrok) Ty! JesteÅ› z powrotem! Ja... myÅ›laÅ‚am, Å¼e juÅ¼ nie Å¼yjesz. (Chyba jej ulÅ¼yÅ‚o) Tak siÄ™ *martwiÅ‚am*. RyzykowaÄ‡ Å¼yciem, walczyÄ‡ z EnklawÄ…... to najodwaÅ¼niejsza rzecz, o jakiej kiedykolwiek sÅ‚yszaÅ‚am.}
+{521}{}{(Kiedy mÃ³wisz, wstrzÄ…Å›niÄ™ta podnosi wzrok) Ty! SÅ‚yszaÅ‚am o tobie. (Jej twarz rozjaÅ›nia siÄ™ w zachwycie) RyzykowaÄ‡ Å¼yciem, walczyÄ‡ z EnklawÄ…... to najodwaÅ¼niejsza rzecz, o jakiej kiedykolwiek sÅ‚yszaÅ‚am.}
+{522}{}{! CieszÄ™ siÄ™, Å¼e jesteÅ› z powrotem. JuÅ¼ samo przebywanie kogoÅ› takiego jak ty w pobliÅ¼u nakrÄ™ca interes: ryzykowaÄ‡ Å¼yciem, walczyÄ‡ z EnklawÄ…... to najodwaÅ¼niejsza rzecz, o jakiej kiedykolwiek sÅ‚yszaÅ‚am.}
+{523}{}{Kurcze, panno Kitty. To jezd nic czego nikt inny by nie zrobiÅ‚by by, gdyby byÅ‚by na moim miejscu by.}
+{524}{}{DoooookÅ‚adnie, zÅ‚otko. I to jest najodwaÅ¼niejsza rzecz o jakiej kiedykolwiek usÅ‚yszysz, bo jestem NAJGORSZY z najgorszych.}
+{525}{}{To nie byÅ‚o nic, czego nie zrobiÅ‚aby na moim miejscu kaÅ¼da wkurwiona kobieta, ktÃ³rej ktoÅ› porwaÅ‚ caÅ‚Ä… wioskÄ™.}
+{526}{}{I to jest najodwaÅ¼niejsza rzecz o jakiej KIEDYKOLWIEK usÅ‚yszysz, bo jestem NAJGORSZÄ„ sukÄ… na caÅ‚ych pustkowiach.}
+{527}{}{DziÄ™ki. Jako bohaterka po prostu wykonujÄ™ swojÄ… pracÄ™.}
+{528}{}{DziÄ™ki. Jako bohater po prostu wykonujÄ™ swojÄ… pracÄ™.}
+{529}{}{KopaÄ‡ tyÅ‚ki i zbieraÄ‡ tytuÅ‚y, oto moja praca.}
+{545}{}{Jaka skromnoÅ›Ä‡. }
+{546}{}{Jaka siÅ‚a. Jaka... pewnoÅ›Ä‡ siebie. }
+{547}{}{KOCHAM to u ciebie. (Ogarnia rÄ™kÄ… caÅ‚Ä… KociÄ… ÅapkÄ™) Zawsze bÄ™dziemy ciÄ™ tu miÅ‚o witaÄ‡, bez opÅ‚aty.}
+{548}{}{A wiÄ™c... co powiesz na tÄ™ randkÄ™, o ktÃ³rej kiedyÅ› rozmawialiÅ›my?}
+{549}{}{A wiÄ™c... co ty na to... no wiesz, ty i ja... jakby... no wiesz.}
+{550}{}{ZÅ‚otko, czujem siem jak maszyna, a to nie jest tak, jak siem powinienem czuÄ‡. ChodÅº tutaj.}
+{551}{}{Åšwietnie! Wiesz, co, mam jeszcze kilka pytaÅ„, zanim sobie dogodzÄ™...}
+{552}{}{DziÄ™ki. Doceniam to panno Kitty.}
+{553}{}{Nie oczekujÄ™ niczego mniej. Skorzystam pÃ³Åºniej.}
+{565}{}{W porzÄ…dku, }
+{566}{}{...pozwÃ³l mi tylko wziÄ…Ä‡ swÃ³j pÅ‚aszcz.}
+{567}{}{Nie ma poÅ›piechu.}
+{568}{}{Dobrze, Å¼e mam swÃ³j "pÅ‚aszcz" w kieszeni. He, he.}
+{569}{}{Pewnie. Ale poÅ›piesz siÄ™... mamy rezerwacjÄ™ na Ã³smÄ…. W moich SPODNIACH.}
+{570}{}{Pewnie. Ale poÅ›piesz siÄ™... ty i mÃ³j jÄ™zyk sÄ… umÃ³wieni na Ã³smÄ….}
 {575}{}{Och, }
-{576}{}{, ty mia¿d¿¹ce Enklawê zwierzê...}
+{576}{}{, ty miaÅ¼dÅ¼Ä…ce EnklawÄ™ zwierzÄ™...}
 {577}{}{::Buanbuan-buan-ba-buan oookuaka oookuaka::}
-{585}{}{(Kiwa g³ow¹) Tak, to prawda. Zwykle musimy je wszechstronnie trenowaæ, by st³umiæ ich naturaln¹ odrazê. To w tej chwili niemal¿e rytua³ inicjacyjny. Poza tym, jeœli dziewczyna potrafi przetrzymaæ Myrona, to znaczy, ¿e jest twarda...}
-{586}{}{Chcê siê z nim spotkaæ. Czy mogê zg³osiæ siê na ochotniczkê jako jego nastêpny "wybór"?}
-{587}{}{Rozumiem. Mam kilka innych pytañ...}
-{588}{}{Hmmmm. Dziêki za informacjê.}
-{595}{}{(Przygl¹da ci siê, potem robi okrê¿ny ruch palcem) Obróæ siê. Hmmmm... }
-{596}{}{Nie, nie s¹dzê, ¿ebyœ siê nada³a. Mo¿e gdybyœ siê trochê umy³a, zadba³a o... prezencjê. Przykro mi.}
-{597}{}{Tak... tak, myœlê, ¿e siê doskonale nadasz. Interesuje ciê ta praca? Wszystkie moje dziewczêta ju¿ ni¹... rzygaj¹.}
+{585}{}{(Kiwa gÅ‚owÄ…) Tak, to prawda. Zwykle musimy je wszechstronnie trenowaÄ‡, by stÅ‚umiÄ‡ ich naturalnÄ… odrazÄ™. To w tej chwili niemalÅ¼e rytuaÅ‚ inicjacyjny. Poza tym, jeÅ›li dziewczyna potrafi przetrzymaÄ‡ Myrona, to znaczy, Å¼e jest twarda...}
+{586}{}{ChcÄ™ siÄ™ z nim spotkaÄ‡. Czy mogÄ™ zgÅ‚osiÄ‡ siÄ™ na ochotniczkÄ™ jako jego nastÄ™pny "wybÃ³r"?}
+{587}{}{Rozumiem. Mam kilka innych pytaÅ„...}
+{588}{}{Hmmmm. DziÄ™ki za informacjÄ™.}
+{595}{}{(PrzyglÄ…da ci siÄ™, potem robi okrÄ™Å¼ny ruch palcem) ObrÃ³Ä‡ siÄ™. Hmmmm... }
+{596}{}{Nie, nie sÄ…dzÄ™, Å¼ebyÅ› siÄ™ nadaÅ‚a. MoÅ¼e gdybyÅ› siÄ™ trochÄ™ umyÅ‚a, zadbaÅ‚a o... prezencjÄ™. Przykro mi.}
+{597}{}{Tak... tak, myÅ›lÄ™, Å¼e siÄ™ doskonale nadasz. Interesuje ciÄ™ ta praca? Wszystkie moje dziewczÄ™ta juÅ¼ niÄ…... rzygajÄ….}
 {598}{}{Jasne.}
-{599}{}{Hmmm. Mam kilka innych pytañ...}
-{600}{}{Nie, ale mo¿e poproszê ciê o to póŸniej. Mam kilka innych pytañ...}
-{610}{}{(Kiwa g³ow¹) Doskonale. Nied³ugo powinien siê pojawiæ jeden z poruczników Mordina. Jeœli usi¹dziesz i poczekasz, przedstawiê ciê jako jedn¹ z... kandydatek.}
+{599}{}{Hmmm. Mam kilka innych pytaÅ„...}
+{600}{}{Nie, ale moÅ¼e poproszÄ™ ciÄ™ o to pÃ³Åºniej. Mam kilka innych pytaÅ„...}
+{610}{}{(Kiwa gÅ‚owÄ…) Doskonale. NiedÅ‚ugo powinien siÄ™ pojawiÄ‡ jeden z porucznikÃ³w Mordina. JeÅ›li usiÄ…dziesz i poczekasz, przedstawiÄ™ ciÄ™ jako jednÄ… z... kandydatek.}
 {611}{}{Dobrze... zaczekam na niego.}
-{612}{}{W³aœciwie to niewa¿ne. Mam kilka innych pytañ...}
-{613}{}{Niewa¿ne... zmieni³am zdanie. Mo¿e kiedy indziej.}
-{620}{}{(Ogl¹da ciê od góry do do³u, po czym kiwa g³ow¹) Myœlê, ¿e potrafimy ci dogodziæ...}
-{621}{}{(Ogl¹da twoje towarzystwo od góry do do³u, po czym kiwa g³ow¹) Myœlê, ¿e potrafimy dogodziæ tej osobie...}
-{623}{}{(Mruga okiem) To jest nieodp³atna us³uga, wiêc nie martw siê o pieni¹dze.}
+{612}{}{WÅ‚aÅ›ciwie to niewaÅ¼ne. Mam kilka innych pytaÅ„...}
+{613}{}{NiewaÅ¼ne... zmieniÅ‚am zdanie. MoÅ¼e kiedy indziej.}
+{620}{}{(OglÄ…da ciÄ™ od gÃ³ry do doÅ‚u, po czym kiwa gÅ‚owÄ…) MyÅ›lÄ™, Å¼e potrafimy ci dogodziÄ‡...}
+{621}{}{(OglÄ…da twoje towarzystwo od gÃ³ry do doÅ‚u, po czym kiwa gÅ‚owÄ…) MyÅ›lÄ™, Å¼e potrafimy dogodziÄ‡ tej osobie...}
+{623}{}{(Mruga okiem) To jest nieodpÅ‚atna usÅ‚uga, wiÄ™c nie martw siÄ™ o pieniÄ…dze.}
 {700}{}{Ooooo-taaak.}
-{701}{}{Wstrz¹saj¹ce.}
-{702}{}{£ojej. To by³o takie mocne.}
+{701}{}{WstrzÄ…sajÄ…ce.}
+{702}{}{Åojej. To byÅ‚o takie mocne.}
 {703}{}{Ojoj.}
 {704}{}{*Fiuu*}
-{705}{}{Heh... Mam nadziejê, ¿e nie zasz³a ze mn¹ w ci¹¿ê.}
-{706}{}{Wiesz, ¿e to nie to samo kiedy ich krew jest ci¹gle ciep³a?}
-{707}{}{Mam nadziejê, ¿e robiliœcie notatki.}
-{708}{}{Dziewczyny sta³y siê doœæ przera¿aj¹ce, po koñcu œwiata... Jak dla mnie bomba.}
-{709}{}{...i dlatego laseczki zwyk³y nazywaæ mnie "Dex, Ksi¹¿ê Seksu".}
-{710}{}{Rozmawiacie przez wiele godzin. Dziewczyny z Kociej £apce maj¹ niesamowite pojêcie o ludzkiej naturze.}
-{711}{}{Porucznik Mordina przybywa i najwyraŸniej jest pod wra¿eniem. Prowadzi siê na pó³noc od miasta do miejsca, które nazywa siê "Stajnie".}
+{705}{}{Heh... Mam nadziejÄ™, Å¼e nie zaszÅ‚a ze mnÄ… w ciÄ…Å¼Ä™.}
+{706}{}{Wiesz, Å¼e to nie to samo kiedy ich krew jest ciÄ…gle ciepÅ‚a?}
+{707}{}{Mam nadziejÄ™, Å¼e robiliÅ›cie notatki.}
+{708}{}{Dziewczyny staÅ‚y siÄ™ doÅ›Ä‡ przeraÅ¼ajÄ…ce, po koÅ„cu Å›wiata... Jak dla mnie bomba.}
+{709}{}{...i dlatego laseczki zwykÅ‚y nazywaÄ‡ mnie "Dex, KsiÄ…Å¼Ä™ Seksu".}
+{710}{}{Rozmawiacie przez wiele godzin. Dziewczyny z Kociej Åapce majÄ… niesamowite pojÄ™cie o ludzkiej naturze.}
+{711}{}{Porucznik Mordina przybywa i najwyraÅºniej jest pod wraÅ¼eniem. Prowadzi siÄ™ na pÃ³Å‚noc od miasta do miejsca, ktÃ³re nazywa siÄ™ "Stajnie".}
 {720}{}{*gwizd*}
 {721}{}{*klap klap klap*}
 {722}{}{Ale jazda!}
 {723}{}{Juhuu.}
 {730}{}{*chlip chlip chlip*}
-{731}{}{Czujê siê jakby... mnie tak strasznie... oszukano...}
+{731}{}{CzujÄ™ siÄ™ jakby... mnie tak strasznie... oszukano...}
 {740}{}{*Rrrarrr*}
 {750}{}{*Aauuuu*}
 {760}{}{*Bzzzt*}
-{770}{}{Ale jazda, szefie! Nie uprawia³em seksu ju¿ od baaaaaaardzo dawna.}
-{800}{}{Magazyny "Kocia £apka" zosta³y dostarczone do panny Kitty.}
-{900}{}{Czujesz, ¿e twoje cia³o jest teraz bardziej dostrojone i skoordynowane z tob¹.}
-{1218}{}{ ciê tu przyœle (mrugniêcie okiem)...}
-{1336}{}{ dolarów tygodniowo.}
+{770}{}{Ale jazda, szefie! Nie uprawiaÅ‚em seksu juÅ¼ od baaaaaaardzo dawna.}
+{800}{}{Magazyny "Kocia Åapka" zostaÅ‚y dostarczone do panny Kitty.}
+{900}{}{Czujesz, Å¼e twoje ciaÅ‚o jest teraz bardziej dostrojone i skoordynowane z tobÄ….}
+{1218}{}{ ciÄ™ tu przyÅ›le (mrugniÄ™cie okiem)...}
+{1336}{}{ dolarÃ³w tygodniowo.}

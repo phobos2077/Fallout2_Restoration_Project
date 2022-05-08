@@ -13,38 +13,38 @@
 {165}{}{You see a ragged-looking woman. When she catches your eye, she sneers.}
 {200}{}{::Palmas::}
 {201}{}{::Assobios::}
-{202}{}{Você detonou fácil aqueles idiotas da Enclave! Fácil de mais!}
-{203}{}{Você acabou com a Enclave facilmente, }
-{204}{}{Parabéns por destruir a Enclave, }
-{205}{}{Parabéns por destruir a Enclave, }
+{202}{}{VocÃª detonou fÃ¡cil aqueles idiotas da Enclave! FÃ¡cil de mais!}
+{203}{}{VocÃª acabou com a Enclave facilmente, }
+{204}{}{ParabÃ©ns por destruir a Enclave, }
+{205}{}{ParabÃ©ns por destruir a Enclave, }
 {215}{}{Uh-oh. Saia do caminho.}
 {216}{}{Just looking at him... her... it... WHATEVER it is gives me the shivers.}
-{217}{}{Você acha que essa coisa quer atirar em alguém?}
-{218}{}{Isso é carne da fúria do inferno. Uh, embaixo da armadura, é isso.}
+{217}{}{VocÃª acha que essa coisa quer atirar em alguÃ©m?}
+{218}{}{Isso Ã© carne da fÃºria do inferno. Uh, embaixo da armadura, Ã© isso.}
 {219}{}{Fique fora do caminho dessa coisa.}
-{220}{}{O que me diz sobre esse olhar-assassino…}
+{220}{}{O que me diz sobre esse olhar-assassinoâ€¦}
 {221}{}{*Glup*}
-{222}{}{Eu acho que esse Sr. Roboto está me scaneando.}
-{223}{}{Eu acho que esse tanque ambulante está me dando o olhar da morte. Vou cair fora daqui.}
-{224}{}{Eu ouvi que essa coisa acabou com três assassinos só ontem.}
-{240}{}{Bem, oláááá garanhão.}
-{241}{}{Um garanhão como você ta na seca? Eu vou estar livre amanhã à noite.}
-{242}{}{O que você vai fazer mais tarde, marinheiro?}
-{243}{}{Eu posso sentir seus músculos?}
-{244}{}{Como você não fica cansado depois de ficar com o pau duro?}
+{222}{}{Eu acho que esse Sr. Roboto estÃ¡ me scaneando.}
+{223}{}{Eu acho que esse tanque ambulante estÃ¡ me dando o olhar da morte. Vou cair fora daqui.}
+{224}{}{Eu ouvi que essa coisa acabou com trÃªs assassinos sÃ³ ontem.}
+{240}{}{Bem, olÃ¡Ã¡Ã¡Ã¡ garanhÃ£o.}
+{241}{}{Um garanhÃ£o como vocÃª ta na seca? Eu vou estar livre amanhÃ£ Ã  noite.}
+{242}{}{O que vocÃª vai fazer mais tarde, marinheiro?}
+{243}{}{Eu posso sentir seus mÃºsculos?}
+{244}{}{Como vocÃª nÃ£o fica cansado depois de ficar com o pau duro?}
 {245}{}{Quer ir na minha casa tomar um drink?}
 {246}{}{Eu quero comer meu jantar longe do seu peito.}
-{247}{}{Precisa de uma parceira para o próximo filme?}
-{248}{}{::Olhares no seu bíceps.::}
+{247}{}{Precisa de uma parceira para o prÃ³ximo filme?}
+{248}{}{::Olhares no seu bÃ­ceps.::}
 {249}{}{::Claps, whistles::}
-{255}{}{Whoa. Dá uma olhada nisso.}
+{255}{}{Whoa. DÃ¡ uma olhada nisso.}
 {256}{}{Would you look at THAT?}
 {257}{}{::As bocas soltam um 'caramba.'::}
 {258}{}{Eu SABIA que devia ter me barbeado hoje.}
 {259}{}{Vem conversar comigo um pouco, tetas-de-mel.}
 {260}{}{Tribais pega suas tetas! Droga!}
 {261}{}{Cheque os peitos dessa tribal.}
-{262}{}{Aqui está a melhor potranca do meu rebanho.}
+{262}{}{Aqui estÃ¡ a melhor potranca do meu rebanho.}
 {263}{}{Eu tomaria banho por essa mulher.}
 {264}{}{Eu tenho seu compridinho bem aqui.}
 {265}{}{Mexa isso!}
@@ -52,11 +52,11 @@
 {267}{}{::Assobios::}
 {268}{}{Essas pernas ficam totalmente erguidas?}
 {269}{}{Hey, beautiful, you got a tongue to go with that ass?}
-{270}{}{Você pega batatas fritas para acompanhar essa mexida, linda?}
-{271}{}{Talvez ela vai dançar hoje de noite.}
-{272}{}{Você viu o último filme dela? Muito bom, cara, muito BOM.}
+{270}{}{VocÃª pega batatas fritas para acompanhar essa mexida, linda?}
+{271}{}{Talvez ela vai danÃ§ar hoje de noite.}
+{272}{}{VocÃª viu o Ãºltimo filme dela? Muito bom, cara, muito BOM.}
 {273}{}{me desculpe. Eu tenho que ir ao banheiro e er, ajeitar meu cabelo por um segundo.}
-{274}{}{Eu queria ser a calça dela.}
+{274}{}{Eu queria ser a calÃ§a dela.}
 {275}{}{Eu gostaria de ser a calcinha dela.}
 {276}{}{Eu gostaria de cheirar o short dela.}
 {277}{}{That is one foxy lady.}
@@ -67,36 +67,36 @@
 {282}{}{Daaaaamn.}
 {283}{}{Check out those headlights.}
 {284}{}{I bet she has back problems.}
-{285}{}{Você não parece tão forte, Sr. Prizefighter.}
+{285}{}{VocÃª nÃ£o parece tÃ£o forte, Sr. Prizefighter.}
 {286}{}{I got 20 chips riding on you!}
-{287}{}{Ei, campeão! Aquela última luta foi ótima!}
-{288}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
-{289}{}{Você vai cair? Eu ganhei 30 conto apostando em você.}
-{290}{}{Quanto você pesa?}
-{291}{}{Onde você trabalha fora do ringue?}
-{292}{}{Cuidado com o Masticator. Ele é louco por orelhas.}
-{293}{}{Eu te pagaria uma bebida se não tivesse perdido todo meu dinheiro apostando no seu oponente.}
-{294}{}{Você não parece ser tão forte, Srta. Gancho de esquerda.}
-{295}{}{Posso ver seus músculos abdominais?}
+{287}{}{Ei, campeÃ£o! Aquela Ãºltima luta foi Ã³tima!}
+{288}{}{Vi vocÃª lutando no ringue. Que belo gancho que vocÃª deu.}
+{289}{}{VocÃª vai cair? Eu ganhei 30 conto apostando em vocÃª.}
+{290}{}{Quanto vocÃª pesa?}
+{291}{}{Onde vocÃª trabalha fora do ringue?}
+{292}{}{Cuidado com o Masticator. Ele Ã© louco por orelhas.}
+{293}{}{Eu te pagaria uma bebida se nÃ£o tivesse perdido todo meu dinheiro apostando no seu oponente.}
+{294}{}{VocÃª nÃ£o parece ser tÃ£o forte, Srta. Gancho de esquerda.}
+{295}{}{Posso ver seus mÃºsculos abdominais?}
 {300}{}{Fique fora do caminho desse cara.}
-{301}{}{Eu acho que ele está olhando para mim.}
-{302}{}{Eu acho que esse tanque ambulante está me dando o olhar da morte. Vou cair fora daqui.}
-{303}{}{Fiquei sabendo que ele matou três assassinos só ontem.}
-{304}{}{Só de olhar para ele me dá arrepios.}
-{305}{}{Você acha que essa coisa quer atirar em alguém?}
+{301}{}{Eu acho que ele estÃ¡ olhando para mim.}
+{302}{}{Eu acho que esse tanque ambulante estÃ¡ me dando o olhar da morte. Vou cair fora daqui.}
+{303}{}{Fiquei sabendo que ele matou trÃªs assassinos sÃ³ ontem.}
+{304}{}{SÃ³ de olhar para ele me dÃ¡ arrepios.}
+{305}{}{VocÃª acha que essa coisa quer atirar em alguÃ©m?}
 {306}{}{Uh-oh. Saia do caminho.}
-{307}{}{Isso é carne da fúria do inferno.}
-{308}{}{O que me diz sobre esse olhar-assassino…}
+{307}{}{Isso Ã© carne da fÃºria do inferno.}
+{308}{}{O que me diz sobre esse olhar-assassinoâ€¦}
 {309}{}{*Glup*}
-{310}{}{Então, é uma La Femme Nikita da vida.}
-{311}{}{Só de olhar pra ela me da arrepios.}
-{312}{}{Você acha que ela quer atirar em alguém?}
-{313}{}{Acho que ela está olhando pra mim.}
-{314}{}{Eu acho que ela está me dando o olhar da morte. Vou cair fora daqui.}
-{315}{}{Fiquei sabendo que ela matou três assassinos só ontem.}
-{316}{}{Que bunda! Uh, bunda má, é isso.}
+{310}{}{EntÃ£o, Ã© uma La Femme Nikita da vida.}
+{311}{}{SÃ³ de olhar pra ela me da arrepios.}
+{312}{}{VocÃª acha que ela quer atirar em alguÃ©m?}
+{313}{}{Acho que ela estÃ¡ olhando pra mim.}
+{314}{}{Eu acho que ela estÃ¡ me dando o olhar da morte. Vou cair fora daqui.}
+{315}{}{Fiquei sabendo que ela matou trÃªs assassinos sÃ³ ontem.}
+{316}{}{Que bunda! Uh, bunda mÃ¡, Ã© isso.}
 {320}{}{What's with all the slavers around here recently?}
-{321}{}{Eu não tinha visto esse escravista por aqui...}
+{321}{}{Eu nÃ£o tinha visto esse escravista por aqui...}
 {322}{}{I wonder if the slaver's headed to the Stables...}
 {323}{}{Wonder if that slaver's got any stock...}
 {324}{}{You headed to the stables, slaver?}
@@ -104,20 +104,20 @@
 {326}{}{Slaver's bound for Golgotha.}
 {327}{}{That stink from Golgotha was damn awful last night...}
 {328}{}{Friggin' slavers...}
-{329}{}{Todos podem ter sorte…}
+{329}{}{Todos podem ter sorteâ€¦}
 {330}{}{Heard they got a new crop o' slaves.}
 {331}{}{New crop of slaves in the whorehouse.}
 {332}{}{Conjunction, Junction.}
-{333}{}{Eu faço banco.}
+{333}{}{Eu faÃ§o banco.}
 {334}{}{Sometimes too much to drink is not enough.}
 {335}{}{Damned crossroaders in the casinos...}
-{336}{}{Ótimo, outro sortudo.}
+{336}{}{Ã“timo, outro sortudo.}
 {337}{}{A Casa ta contra mim.}
 {338}{}{A fortuna ta contra mim.}
 {339}{}{Glad they put that guy on the rack...}
 {340}{}{Cabra imundo...}
 {341}{}{Slavers walking round like they own the place...}
-{342}{}{A Casa está a meu favor.}
+{342}{}{A Casa estÃ¡ a meu favor.}
 {343}{}{Bad luck, ill wind, not good times, not good times...}
 {344}{}{Reno's a-heating up, time ta move on.}
 {345}{}{That Bishop daughter is out of control.}
@@ -133,20 +133,20 @@
 {355}{}{This town's great... except for the tourists.}
 {356}{}{This town's great... except for the slavers.}
 {357}{}{This town's great... except for the pimps and whores.}
-{365}{}{Isso é um tipo de caça-níquel que está te seguindo por aí?}
-{366}{}{Isso é um robô caça-níqueis?}
-{367}{}{O seu robô faz truques? Uh…truques de mágica, que eu quis dizer.}
-{375}{}{Diga que aquilo não é um mutante.}
+{365}{}{Isso Ã© um tipo de caÃ§a-nÃ­quel que estÃ¡ te seguindo por aÃ­?}
+{366}{}{Isso Ã© um robÃ´ caÃ§a-nÃ­queis?}
+{367}{}{O seu robÃ´ faz truques? Uhâ€¦truques de mÃ¡gica, que eu quis dizer.}
+{375}{}{Diga que aquilo nÃ£o Ã© um mutante.}
 {376}{}{That a mutant?}
 {377}{}{Holy shit. Mutants in New Reno. Must mean trouble.}
-{378}{}{Aquele mutante é um dos grandes.}
+{378}{}{Aquele mutante Ã© um dos grandes.}
 {379}{}{Filthy mutant-lover...}
 {385}{}{Yer friend has a bone through his nose.}
 {386}{}{Everybody in yer little band stick a bone through their nose to prove themselves?}
 {387}{}{That fella with you from the 'stick-a-bone-up-my-honker' tribe?}
 {388}{}{That fella with the bone in his nose is proof that tribals ain't never gonna be civilized.}
 {389}{}{That fella got a bone in his nose?}
-{390}{}{Aquele cara tem um osso enfiado no nariz que é do tamanho do meu braço. Deus do céu.}
+{390}{}{Aquele cara tem um osso enfiado no nariz que Ã© do tamanho do meu braÃ§o. Deus do cÃ©u.}
 {391}{}{I don't even want to know how that friend o' yours got that bone in his nose.}
 {392}{}{Great. It's one of those tribal shit-kickers.}
 {393}{}{How many tribals are gonna be coming to this town?}
@@ -154,17 +154,17 @@
 {395}{}{Boy's bound for Golgotha.}
 {396}{}{That stink from Golgotha was damn awful last night...}
 {397}{}{Friggin' tourists.}
-{398}{}{Todos podem ter sorte…}
+{398}{}{Todos podem ter sorteâ€¦}
 {399}{}{Heard they got a new crop o' slaves.}
 {400}{}{Conjunction, Junction.}
-{401}{}{Eu faço banco.}
+{401}{}{Eu faÃ§o banco.}
 {402}{}{Sometimes too much to drink is not enough.}
 {403}{}{Damned crossroaders in the casinos...}
 {404}{}{A Casa ta contra mim.}
 {405}{}{A fortuna ta contra mim.}
 {406}{}{Glad they put that guy on the rack...}
 {407}{}{Cabra imundo...}
-{408}{}{A Casa está a meu favor.}
+{408}{}{A Casa estÃ¡ a meu favor.}
 {409}{}{Bad luck, ill wind, not good times, not good times...}
 {410}{}{Reno's a-heating up, time ta move on.}
 {411}{}{That Bishop daughter is out of control.}
@@ -198,18 +198,18 @@
 {456}{}{That stink from Golgotha was damn awful last night...}
 {457}{}{Can't find his ass in a sandstorm...}
 {458}{}{Friggin' tourists.}
-{459}{}{Todos podem ter sorte…}
+{459}{}{Todos podem ter sorteâ€¦}
 {460}{}{Heard they got a new crop o' slaves.}
 {461}{}{Conjunction, Junction.}
-{462}{}{Eu faço banco.}
+{462}{}{Eu faÃ§o banco.}
 {463}{}{Sometimes too much to drink is not enough.}
 {464}{}{Damned crossroaders in the casinos...}
-{465}{}{Ótimo, outro sortudo.}
+{465}{}{Ã“timo, outro sortudo.}
 {466}{}{A Casa ta contra mim.}
 {467}{}{A fortuna ta contra mim.}
 {468}{}{Glad they put that guy on the rack...}
 {469}{}{Cabra imundo...}
-{470}{}{A Casa está a meu favor.}
+{470}{}{A Casa estÃ¡ a meu favor.}
 {471}{}{Bad luck, ill wind, not good times, not good times...}
 {472}{}{Reno's a-heating up, time ta move on.}
 {473}{}{That Bishop daughter is out of control.}
@@ -227,54 +227,54 @@
 {485}{}{This town's great... except for the pimps and whores.}
 {486}{}{Might head downtown, see if any new men are in town...}
 {487}{}{If the Temperance Union lectures me one more time...}
-{490}{}{Você detonou fácil aqueles idiotas da Enclave! Fácil de mais!}
-{491}{}{Eu sempre soube que o Presidente queria matar a todos nós.}
-{492}{}{O Presidente tá vivo?  Quando foi a última eleição?}
-{493}{}{Você acabou com a Enclave facilmente, }
+{490}{}{VocÃª detonou fÃ¡cil aqueles idiotas da Enclave! FÃ¡cil de mais!}
+{491}{}{Eu sempre soube que o Presidente queria matar a todos nÃ³s.}
+{492}{}{O Presidente tÃ¡ vivo?  Quando foi a Ãºltima eleiÃ§Ã£o?}
+{493}{}{VocÃª acabou com a Enclave facilmente, }
 {494}{}{A Enclave nunca mexeu comigo, mas eu estou feliz que eles se foram.}
-{495}{}{Eu não consigo acreditar que a Enclave continuou lutando a guerra durante todos esses anos. Idiotas.}
+{495}{}{Eu nÃ£o consigo acreditar que a Enclave continuou lutando a guerra durante todos esses anos. Idiotas.}
 {496}{}{I felt a great disturbance... as if a hundred evil bastards on an oil derrick suddenly cried out in terror and were suddenly silenced. Strange.}
-{497}{}{Parabéns por destruir a Enclave, }
+{497}{}{ParabÃ©ns por destruir a Enclave, }
 {498}{}{This game was brought to you by the letter Z.}
-{499}{}{Nós sentimos falta do Tim Cain. Ele costumava cozinhar pães maravilhosos. E ele costumava nos espancar como se fossemos crianças.}
+{499}{}{NÃ³s sentimos falta do Tim Cain. Ele costumava cozinhar pÃ£es maravilhosos. E ele costumava nos espancar como se fossemos crianÃ§as.}
 {500}{}{Yeah, yeah, I'm the Avatar, too.}
 {501}{}{New Reno was designed by Chris Avellone and Tom French. Rumor is that they will marry soon.}
 {502}{}{Feargus got that frowny-look on his face when he saw how many float text messages I have.}
 {503}{}{You score is 192 out of 208. You really should have used the mutated toe on Horrigan.}
-{510}{}{Você está procurando pelo seu irmão Robby? Você sabe, o Robô? Aw, esquece.}
+{510}{}{VocÃª estÃ¡ procurando pelo seu irmÃ£o Robby? VocÃª sabe, o RobÃ´? Aw, esquece.}
 {511}{}{Me desculpa, por eu estar no seu caminho? Eu vou deixar a cidade.}
 {512}{}{Me desculpa, por eu estar respirando seu ar? Eu vou parar.}
-{513}{}{::Batidas na armadura:: Tem alguém aí?}
-{514}{}{'Perigo, Will Robinson! Perigo, Will Robinson!' Heh-heh. Uh…e só uma piada.}
+{513}{}{::Batidas na armadura:: Tem alguÃ©m aÃ­?}
+{514}{}{'Perigo, Will Robinson! Perigo, Will Robinson!' Heh-heh. Uhâ€¦e sÃ³ uma piada.}
 {515}{}{Beeeeela armadura. Tem ar condicionado?}
-{516}{}{Você não fica com calor aí?}
-{517}{}{Perdeu seu coração, homem de lata?}
+{516}{}{VocÃª nÃ£o fica com calor aÃ­?}
+{517}{}{Perdeu seu coraÃ§Ã£o, homem de lata?}
 {518}{}{Uh, hello, sir... ma'am... whatever you are.}
-{519}{}{Tem alguma coisa errada, senhor…madame…uh, o que quer que você seja?}
+{519}{}{Tem alguma coisa errada, senhorâ€¦madameâ€¦uh, o que quer que vocÃª seja?}
 {520}{}{Are you some kind of new walking arcade game?}
 {521}{}{Are you one of those new console systems that are coming out?}
-{522}{}{Não, eu NÃO vou colocar óleo nas suas juntas.}
+{522}{}{NÃ£o, eu NÃƒO vou colocar Ã³leo nas suas juntas.}
 {523}{}{You look like you were on your way to one of those battle-mech PC games and got lost.}
-{524}{}{É, é, 'clank-whirrr-clank' pra você também.}
-{525}{}{Se você pensa que essa armadura me intimida, você está certo.}
-{540}{}{Você ta vendendo?}
+{524}{}{Ã‰, Ã©, 'clank-whirrr-clank' pra vocÃª tambÃ©m.}
+{525}{}{Se vocÃª pensa que essa armadura me intimida, vocÃª estÃ¡ certo.}
+{540}{}{VocÃª ta vendendo?}
 {541}{}{Eu posso comprar suas roupas? Eu digo, agora?}
 {542}{}{Eu SABIA que devia ter me barbeado hoje.}
 {543}{}{Come chat with me for a sec, honey.}
-{544}{}{Vamos lá, lábios-de-mel…ande comigo.}
-{545}{}{Pequena ninfa ligeira, não é?}
-{546}{}{Eu tomei banho por você.}
+{544}{}{Vamos lÃ¡, lÃ¡bios-de-melâ€¦ande comigo.}
+{545}{}{Pequena ninfa ligeira, nÃ£o Ã©?}
+{546}{}{Eu tomei banho por vocÃª.}
 {547}{}{Eu tenho seu compridinho bem aqui.}
 {548}{}{Essas pernas ficam totalmente erguidas?}
-{549}{}{Você vai dançar essa noite?}
+{549}{}{VocÃª vai danÃ§ar essa noite?}
 {550}{}{me desculpe. Eu tenho que ir ao banheiro e er, ajeitar meu cabelo por um segundo.}
 {551}{}{Eu queria ser suas roupas de baixo.}
 {552}{}{Eu gostaria de cheirar seu shorts.}
 {553}{}{You are one foxy lady.}
-{554}{}{Me foda se eu estiver errado, querida, mas você não quer me beijar?}
+{554}{}{Me foda se eu estiver errado, querida, mas vocÃª nÃ£o quer me beijar?}
 {555}{}{Droga. Todas essas curvas e eu sem freio nenhum.}
-{556}{}{Sabe o que ficaria bem em você? Eu.}
-{557}{}{Suas calças podem não ser a melhor coisa na Terra, mas elas estão perto.}
+{556}{}{Sabe o que ficaria bem em vocÃª? Eu.}
+{557}{}{Suas calÃ§as podem nÃ£o ser a melhor coisa na Terra, mas elas estÃ£o perto.}
 {558}{}{Nice bazoongas!}
 {559}{}{Nice begonias!}
 {560}{}{Those headlights of yours are gonna blind me.}
@@ -283,8 +283,8 @@
 {581}{}{Anything wrong, sir?}
 {582}{}{Me desculpa, por eu estar no seu caminho? Eu vou deixar a cidade.}
 {583}{}{Me desculpa, por eu estar respirando seu ar? Eu vou parar.}
-{584}{}{Dê minhas saudações para o seu chefe.}
-{585}{}{Olha, por favor... Eu não quero problema nenhum.}
+{584}{}{DÃª minhas saudaÃ§Ãµes para o seu chefe.}
+{585}{}{Olha, por favor... Eu nÃ£o quero problema nenhum.}
 {586}{}{Hello, ma'am. How are you?}
 {587}{}{Anything wrong, ma'am?}
 {600}{}{What's with all the slavers around here recently?}
@@ -307,7 +307,7 @@
 {617}{}{You better be careful around these parts, or you'll be bound for Golgotha.}
 {618}{}{New Reno wouldn't be a bad place 'cept for all the friggin' tourists.}
 {619}{}{Conjunction, Junction.}
-{620}{}{Eu faço banco.}
+{620}{}{Eu faÃ§o banco.}
 {621}{}{Sometimes too much to drink is not enough.}
 {622}{}{Damned crossroaders in the casinos...}
 {623}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
@@ -315,7 +315,7 @@
 {625}{}{A fortuna ta contra mim.}
 {626}{}{Glad they put that guy on the rack...}
 {627}{}{Cabra imundo...}
-{628}{}{O que você quer?}
+{628}{}{O que vocÃª quer?}
 {629}{}{Bad luck, ill wind, not good times, not good times...}
 {630}{}{Reno's a-heating up, time ta move on.}
 {631}{}{That Bishop daughter is out of control.}
@@ -331,7 +331,7 @@
 {652}{}{That fella with you from the 'stick-a-bone-up-my-honker' tribe?}
 {653}{}{That fella with the bone in his nose is proof that tribals ain't never gonna be civilized.}
 {654}{}{That fella got a bone in his nose?}
-{655}{}{Aquele cara tem um osso enfiado no nariz que é do tamanho do meu braço. Deus do céu.}
+{655}{}{Aquele cara tem um osso enfiado no nariz que Ã© do tamanho do meu braÃ§o. Deus do cÃ©u.}
 {656}{}{I don't even want to know how that friend o' yours got that bone in his nose.}
 {657}{}{I hate this goddamn town.}
 {658}{}{I've been in this town too long.}
@@ -347,7 +347,7 @@
 {668}{}{You better be careful around these parts, or you'll be bound for Golgotha.}
 {669}{}{New Reno wouldn't be a bad place 'cept for all the friggin' tourists.}
 {670}{}{Conjunction, Junction.}
-{671}{}{Eu faço banco.}
+{671}{}{Eu faÃ§o banco.}
 {672}{}{Sometimes too much to drink is not enough.}
 {673}{}{Damned crossroaders in the casinos...}
 {674}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
@@ -355,7 +355,7 @@
 {676}{}{A fortuna ta contra mim.}
 {677}{}{Glad they put that guy on the rack...}
 {678}{}{Cabra imundo...}
-{679}{}{O que você quer?}
+{679}{}{O que vocÃª quer?}
 {680}{}{Bad luck, ill wind, not good times, not good times...}
 {681}{}{Reno's a-heating up, time ta move on.}
 {682}{}{That Bishop daughter is out of control.}
@@ -391,7 +391,7 @@
 {714}{}{Heard they got a new crop o' slaves.}
 {715}{}{New crop of slaves in the whorehouse.}
 {716}{}{Conjunction, Junction.}
-{717}{}{Eu faço banco.}
+{717}{}{Eu faÃ§o banco.}
 {718}{}{Sometimes too much to drink is not enough.}
 {719}{}{Damned crossroaders in the casinos...}
 {720}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
@@ -399,7 +399,7 @@
 {722}{}{A fortuna ta contra mim.}
 {723}{}{Glad they put that guy on the rack...}
 {724}{}{Cabra imundo...}
-{725}{}{O que você quer?}
+{725}{}{O que vocÃª quer?}
 {726}{}{Bad luck, ill wind, not good times, not good times...}
 {727}{}{Reno's a-heating up, time ta move on.}
 {728}{}{That Bishop daughter is out of control.}
@@ -413,7 +413,7 @@
 {736}{}{Might head downtown, see if any new men are in town...}
 {737}{}{Glad they put that asshole on the rack...}
 {1203}{}{!}
-{1204}{}{! Você chuta bundas! Você chuta BUNDAS!}
-{1205}{}{! Você tem tanto DINHEIRO!}
+{1204}{}{! VocÃª chuta bundas! VocÃª chuta BUNDAS!}
+{1205}{}{! VocÃª tem tanto DINHEIRO!}
 {1493}{}{!}
-{1497}{}{! Você chuta bundas! Você chuta BUNDAS!}
+{1497}{}{! VocÃª chuta bundas! VocÃª chuta BUNDAS!}

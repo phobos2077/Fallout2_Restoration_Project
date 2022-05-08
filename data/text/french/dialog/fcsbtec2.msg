@@ -1,28 +1,28 @@
-{100}{}{Tu vois une personne en pyjama amusant. Elle semble préoccupée.}
-{101}{}{Tu vois un ingénieur du sous-marin Shi.}
-{150}{}{Euh, que fais-tu, à rôder comme ça ?}
+{100}{}{Tu vois une personne en pyjama amusant. Elle semble prÃ©occupÃ©e.}
+{101}{}{Tu vois un ingÃ©nieur du sous-marin Shi.}
+{150}{}{Euh, que fais-tu, Ã  rÃ´der comme Ã§a ?}
 {151}{}{Tu es un genre d'espion ?}
-{200}{}{Ce serait plus facile si mon Chinois était meilleur...}
-{201}{}{Erreur I/O !? Comment un système de guidage peut donner une erreur I/O !?}
-{202}{}{001100010010011110100001101101110011 ? Où est ma liste des codes d'erreur...}
-{203}{}{J'espère que la base de données IFF fonctionne encore. Ca rendrait les choses beaucoup plus faciles.}
-{300}{}{Que veux-tu, Gaijin ? Tu ne vois pas que j'essaie de reconfigurer le système de guidage là ?}
-{301}{}{En fait, c'est pour ça que je suis là. J'ai de nouvelles données pour ce système, vérifiées par l'Empereur, euh, personnellement. Tu peux les rentrer ? Tu sembles être celui qui connaît le mieux ce système.}
-{302}{}{C'est pour ça que je suis là, je peux t'aider à configurer le système. Apparemment la connexion entre le système de navigation du sous-marin et le transpondeur IFF a finalement rendu l'âme, alors tu dois contourner le problème, ça te dérange si je te file un coup de main ?}
-{303}{}{Désolé de t'avoir dérangé.}
-{310}{}{Oh, j'attends ces nouvelles données depuis des lustres ! Tu devrais être là depuis la semaine dernière, du moins, quand je travaillais sur ce qui restait de la base de données de la bataille. a présent je dois encore la cracker... Enfin... La vie d'un ingénieur, je suppose.}
-{311}{}{Amuse-toi. Je vais voir si autre chose doit être réparé.}
-{320}{}{Je te connais rudement bien ! Pour ce que je sais des Gaijins, tu pourrais être un genre d'espion étranger, cherchant à désactiver ce sous-marin, parce que tes projets pour voyager sur les mers vers des contrées étranges seraient terminés si les torpilles coulaient ton bateau ! Je suis certain que Ken Lee ne laisserait pas un étranger monter à bord du  Shi-Huang-Ti avec des mauvaises intentions, alors désolé, mais je ne peux pas accepter ces coordonnées à moins que notre leader ne me les donne personnellement.}
-{321}{}{Bon, puis-je au moins t'aider à configurer le sous-marin ? J'ai de l'expérience avec les anciens systèmes informatiques, assez pour comprendre pourquoi un système de lampe à tube vieux de 200 ans peut refuser d'obéir à son maître.}
-{322}{}{D'accord, désolé de t'avoir dérangé.}
-{330}{}{Je suppose que tu peux m'aider, ici, essaie. [L'ingénieur Shi te laisse prendre le clavier. Après quelque temps pour te familiariser avec l'interface utilisateur, tu commences à travailler. Quelques minutes plus tard, non seulement tu as reconfiguré les paramètres de lancement pour que le sous-marin ne coule pas le pétrolier, mais tu as aussi réparé une erreur du système, empêchant les techniciens d'accéder au système du sous-marin facilement.]}
-{331}{}{Ok, on y est. J'ai réparé le système. Il ne devrait plus poser de problèmes maintenant. J'espère que ça améliorera ton travail.}
-{340}{}{Merci pour ton aide, c’est difficile de trouver un bon technicien informatique de nos jours.}
-{350}{}{Désolé, mais non. Tu pourrais casser quelque chose et nous perdrions le système du sous-marin pour de bon et je ne me vois *pas* régler manuellement le module d'acquisition de cibles des torpilles. Alors, à moins que tu aies quelque chose d'*important* pour moi, s'il te plaît laisse-moi retourner à mon travail.}
-{351}{}{En fait, oui. J'ai des nouveaux paramètres de ciblage pour les torpilles, vérifiés par l'Empereur, euh, lui-même. C'est toi le génie de l'informatique ici, alors je pense que je peux te faire confiance avec ça.}
-{352}{}{Désolé de t'avoir dérangé.}
-{360}{}{Non, je n'ai besoin ni d'aide, ni de nouvelles données. Je suis ici pour travailler et tu m'en empêches, alors va-t'en ou je devrais *faire en sorte* que tu t'en ailles !}
-{361}{}{Désolé de t'avoir dérangé.}
-{370}{}{Hé, je suis occupé là.}
-{371}{}{Désolé, je travaille.}
-{400}{}{Tu as berné l'ingénieur et désactivé le sous-marin.}
+{200}{}{Ce serait plus facile si mon Chinois Ã©tait meilleur...}
+{201}{}{Erreur I/O !? Comment un systÃ¨me de guidage peut donner une erreur I/O !?}
+{202}{}{001100010010011110100001101101110011 ? OÃ¹ est ma liste des codes d'erreur...}
+{203}{}{J'espÃ¨re que la base de donnÃ©es IFF fonctionne encore. Ca rendrait les choses beaucoup plus faciles.}
+{300}{}{Que veux-tu, Gaijin ? Tu ne vois pas que j'essaie de reconfigurer le systÃ¨me de guidage lÃ  ?}
+{301}{}{En fait, c'est pour Ã§a que je suis lÃ . J'ai de nouvelles donnÃ©es pour ce systÃ¨me, vÃ©rifiÃ©es par l'Empereur, euh, personnellement. Tu peux les rentrer ? Tu sembles Ãªtre celui qui connaÃ®t le mieux ce systÃ¨me.}
+{302}{}{C'est pour Ã§a que je suis lÃ , je peux t'aider Ã  configurer le systÃ¨me. Apparemment la connexion entre le systÃ¨me de navigation du sous-marin et le transpondeur IFF a finalement rendu l'Ã¢me, alors tu dois contourner le problÃ¨me, Ã§a te dÃ©range si je te file un coup de main ?}
+{303}{}{DÃ©solÃ© de t'avoir dÃ©rangÃ©.}
+{310}{}{Oh, j'attends ces nouvelles donnÃ©es depuis des lustres ! Tu devrais Ãªtre lÃ  depuis la semaine derniÃ¨re, du moins, quand je travaillais sur ce qui restait de la base de donnÃ©es de la bataille. a prÃ©sent je dois encore la cracker... Enfin... La vie d'un ingÃ©nieur, je suppose.}
+{311}{}{Amuse-toi. Je vais voir si autre chose doit Ãªtre rÃ©parÃ©.}
+{320}{}{Je te connais rudement bien ! Pour ce que je sais des Gaijins, tu pourrais Ãªtre un genre d'espion Ã©tranger, cherchant Ã  dÃ©sactiver ce sous-marin, parce que tes projets pour voyager sur les mers vers des contrÃ©es Ã©tranges seraient terminÃ©s si les torpilles coulaient ton bateau ! Je suis certain que Ken Lee ne laisserait pas un Ã©tranger monter Ã  bord du  Shi-Huang-Ti avec des mauvaises intentions, alors dÃ©solÃ©, mais je ne peux pas accepter ces coordonnÃ©es Ã  moins que notre leader ne me les donne personnellement.}
+{321}{}{Bon, puis-je au moins t'aider Ã  configurer le sous-marin ? J'ai de l'expÃ©rience avec les anciens systÃ¨mes informatiques, assez pour comprendre pourquoi un systÃ¨me de lampe Ã  tube vieux de 200 ans peut refuser d'obÃ©ir Ã  son maÃ®tre.}
+{322}{}{D'accord, dÃ©solÃ© de t'avoir dÃ©rangÃ©.}
+{330}{}{Je suppose que tu peux m'aider, ici, essaie. [L'ingÃ©nieur Shi te laisse prendre le clavier. AprÃ¨s quelque temps pour te familiariser avec l'interface utilisateur, tu commences Ã  travailler. Quelques minutes plus tard, non seulement tu as reconfigurÃ© les paramÃ¨tres de lancement pour que le sous-marin ne coule pas le pÃ©trolier, mais tu as aussi rÃ©parÃ© une erreur du systÃ¨me, empÃªchant les techniciens d'accÃ©der au systÃ¨me du sous-marin facilement.]}
+{331}{}{Ok, on y est. J'ai rÃ©parÃ© le systÃ¨me. Il ne devrait plus poser de problÃ¨mes maintenant. J'espÃ¨re que Ã§a amÃ©liorera ton travail.}
+{340}{}{Merci pour ton aide, câ€™est difficile de trouver un bon technicien informatique de nos jours.}
+{350}{}{DÃ©solÃ©, mais non. Tu pourrais casser quelque chose et nous perdrions le systÃ¨me du sous-marin pour de bon et je ne me vois *pas* rÃ©gler manuellement le module d'acquisition de cibles des torpilles. Alors, Ã  moins que tu aies quelque chose d'*important* pour moi, s'il te plaÃ®t laisse-moi retourner Ã  mon travail.}
+{351}{}{En fait, oui. J'ai des nouveaux paramÃ¨tres de ciblage pour les torpilles, vÃ©rifiÃ©s par l'Empereur, euh, lui-mÃªme. C'est toi le gÃ©nie de l'informatique ici, alors je pense que je peux te faire confiance avec Ã§a.}
+{352}{}{DÃ©solÃ© de t'avoir dÃ©rangÃ©.}
+{360}{}{Non, je n'ai besoin ni d'aide, ni de nouvelles donnÃ©es. Je suis ici pour travailler et tu m'en empÃªches, alors va-t'en ou je devrais *faire en sorte* que tu t'en ailles !}
+{361}{}{DÃ©solÃ© de t'avoir dÃ©rangÃ©.}
+{370}{}{HÃ©, je suis occupÃ© lÃ .}
+{371}{}{DÃ©solÃ©, je travaille.}
+{400}{}{Tu as bernÃ© l'ingÃ©nieur et dÃ©sactivÃ© le sous-marin.}

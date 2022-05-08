@@ -13,14 +13,14 @@
 {800}{}{Deathclaw}
 {801}{}{Um deathclaw imaturo.}
 {900}{}{Doguinho}
-{901}{}{Um canino, provavelmente mestiço.}
+{901}{}{Um canino, provavelmente mestiÃ§o.}
 {1000}{}{Brahmin}
-{1001}{}{Uma vaca mutante de duas cabeças.}
+{1001}{}{Uma vaca mutante de duas cabeÃ§as.}
 {1100}{}{Rato}
 {1101}{}{Um tipico rato grande.}
 {1200}{}{Mantis}
 {1201}{}{Louva a Deus mutante.}
-{1300}{}{Ancião}
+{1300}{}{AnciÃ£o}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{Planta de esporos}
@@ -91,7 +91,7 @@
 {8000}{}{Gecko pequeno}
 {8100}{}{Gecko pequeno forte}
 {8200}{}{Cachorro selvagem}
-{8201}{}{Um cao selvagem de raça misturada.}
+{8201}{}{Um cao selvagem de raÃ§a misturada.}
 {8300}{}{Gecko dourado}
 {8400}{}{Deathclaw}
 {8500}{}{Ovo Deathclaw}
@@ -104,8 +104,8 @@
 {9200}{}{Cidadao}
 {9300}{}{Cidadao de Classe Alta}
 {9400}{}{Cidada de Classe Alta}
-{9500}{}{Caçador}
-{9600}{}{Caçador}
+{9500}{}{CaÃ§ador}
+{9600}{}{CaÃ§ador}
 {9700}{}{Sulik}
 {9800}{}{Maida Buckner}
 {9900}{}{Torr}
@@ -124,7 +124,7 @@
 {11200}{}{Rato Porco}
 {11300}{}{Rato Porco Forte}
 {11400}{}{Brahmin fraco}
-{11401}{}{Uma vaca mutante de duas cabeças.}
+{11401}{}{Uma vaca mutante de duas cabeÃ§as.}
 {11500}{}{A.Pwr.Armor (don't use)}
 {11600}{}{Rato Mutante}
 {11601}{}{Um rato mutante resistente.}
@@ -183,8 +183,8 @@
 {16700}{}{Peao}
 {16800}{}{Peao}
 {16900}{}{Peao}
-{17000}{}{Segurança}
-{17100}{}{Segurança}
+{17000}{}{SeguranÃ§a}
+{17100}{}{SeguranÃ§a}
 {17200}{}{Mr. Handy Fraco}
 {17300}{}{Resplandecente generico}
 {17400}{}{Dar}
@@ -194,18 +194,18 @@
 {17800}{}{Ghoul do reator}
 {17900}{}{Ghoul Generico}
 {18000}{}{Matt}
-{18100}{}{Caçador de recompensa chefe (1-6)}
-{18200}{}{Caçador de recompensa (1-6)}
-{18300}{}{Caçador de recompensa chefe (7-12)}
-{18400}{}{Caçador de recompensa (7-12)}
-{18500}{}{Caçador de recompensa (7-12)}
-{18600}{}{Caçador de recompensa chefe (13-18)}
-{18700}{}{Caçador de recompensa (13-18)}
-{18800}{}{Caçador de recompensa (13-18)}
-{18900}{}{Caçador de recompensa chefe (19-?)}
-{19000}{}{Caçador de recompensa (19-?)}
+{18100}{}{CaÃ§ador de recompensa chefe (1-6)}
+{18200}{}{CaÃ§ador de recompensa (1-6)}
+{18300}{}{CaÃ§ador de recompensa chefe (7-12)}
+{18400}{}{CaÃ§ador de recompensa (7-12)}
+{18500}{}{CaÃ§ador de recompensa (7-12)}
+{18600}{}{CaÃ§ador de recompensa chefe (13-18)}
+{18700}{}{CaÃ§ador de recompensa (13-18)}
+{18800}{}{CaÃ§ador de recompensa (13-18)}
+{18900}{}{CaÃ§ador de recompensa chefe (19-?)}
+{19000}{}{CaÃ§ador de recompensa (19-?)}
 {19100}{}{Bess}
-{19101}{}{Uma vaca mutante de duas cabeças.}
+{19101}{}{Uma vaca mutante de duas cabeÃ§as.}
 {19200}{}{Balthas}
 {19300}{}{Grisham}
 {19400}{}{Phil}
@@ -216,8 +216,8 @@
 {19900}{}{Zeke}
 {20000}{}{Butcher}
 {20100}{}{Petey}
-{20200}{}{Caçador primitivo}
-{20300}{}{Caçador primitivo}
+{20200}{}{CaÃ§ador primitivo}
+{20300}{}{CaÃ§ador primitivo}
 {20400}{}{Canibal}
 {20500}{}{Canibal}
 {20600}{}{Santo}
@@ -279,7 +279,7 @@
 {26200}{}{Ranger da NCR}
 {26300}{}{Saqueador}
 {26400}{}{Saqueador}
-{26500}{}{Lloyd Bonitão }
+{26500}{}{Lloyd BonitÃ£o }
 {26600}{}{Rato Vorpal}
 {26700}{}{Homem de Vault 13}
 {26800}{}{Mulher de Vault 13}
@@ -289,8 +289,8 @@
 {27200}{}{Hakeswill}
 {27300}{}{Grande Jesus Mordino}
 {27400}{}{Dumar}
-{27500}{}{Mãe Deathclaw}
-{27600}{}{O Dragão}
+{27500}{}{MÃ£e Deathclaw}
+{27600}{}{O DragÃ£o}
 {27700}{}{Lo Pan}
 {27800}{}{Hubologista}
 {27900}{}{Hubologista}
@@ -309,18 +309,18 @@
 {29200}{}{Pessoa em um tipo de armadura estranha}
 {29300}{}{Presidente}
 {29400}{}{Vice Presidente}
-{29500}{}{Técnico}
+{29500}{}{TÃ©cnico}
 {29600}{}{Badger}
 {29700}{}{Dr. Fung}
-{29800}{}{Criança}
-{29900}{}{Criança}
+{29800}{}{CrianÃ§a}
+{29900}{}{CrianÃ§a}
 {30000}{}{Comerciante de armas}
 {30100}{}{Tecnico de laboratorio Shi}
 {30200}{}{Guarda Shi}
-{30300}{}{Camponês Shi}
-{30400}{}{Camponês Shi}
-{30500}{}{Camponês de Lo Pan}
-{30600}{}{Camponês de Lo Pan}
+{30300}{}{CamponÃªs Shi}
+{30400}{}{CamponÃªs Shi}
+{30500}{}{CamponÃªs de Lo Pan}
+{30600}{}{CamponÃªs de Lo Pan}
 {30700}{}{Trabalhador do Porto}
 {30800}{}{Mercador Shi}
 {30900}{}{Keeng Ra'at}
@@ -438,9 +438,9 @@
 {42100}{}{Mason}
 {42200}{}{Capanga de Salvatore 1}
 {42300}{}{Capanga de Salvatore 2}
-{42400}{}{Barman Genérico 1}
-{42500}{}{Barman Genérico 2}
-{42600}{}{Barman Genérico 3}
+{42400}{}{Barman GenÃ©rico 1}
+{42500}{}{Barman GenÃ©rico 2}
+{42600}{}{Barman GenÃ©rico 3}
 {42700}{}{Boxeador 1}
 {42800}{}{Boxeador 2}
 {42900}{}{Boxeador 3}
@@ -455,14 +455,14 @@
 {43800}{}{Porteiro do cassino 1}
 {43900}{}{Porteiro do cassino 2}
 {44000}{}{Garota do cassino}
-{44100}{}{Traficante de Drogas/Cafetão1}
-{44200}{}{Traficante de Drogas/Cafetão2}
-{44300}{}{Traficante de Drogas/Cafetão3}
-{44400}{}{Traficante de Drogas/Cafetão4}
+{44100}{}{Traficante de Drogas/CafetÃ£o1}
+{44200}{}{Traficante de Drogas/CafetÃ£o2}
+{44300}{}{Traficante de Drogas/CafetÃ£o3}
+{44400}{}{Traficante de Drogas/CafetÃ£o4}
 {44500}{}{McGee}
 {44600}{}{Miss Kitty}
-{44700}{}{Puta genérica 1}
-{44800}{}{Puta genérica 2}
+{44700}{}{Puta genÃ©rica 1}
+{44800}{}{Puta genÃ©rica 2}
 {44900}{}{Jagged Jimmy J}
 {45000}{}{Renesco}
 {45100}{}{Cientista}
@@ -485,7 +485,7 @@
 {46800}{}{"Doc" Andrew}
 {46900}{}{Barman}
 {47000}{}{Torreta}
-{47001}{}{Esta é uma torreta automatizada equipada com um canhão de plasma duplo.}
+{47001}{}{Esta Ã© uma torreta automatizada equipada com um canhÃ£o de plasma duplo.}
 {47100}{}{K-9 (base)}
 {47200}{}{K-9 (Nivel 1)}
 {47300}{}{K-9 (Nivel 2)}
@@ -502,8 +502,8 @@
 {48301}{}{O guarda-costas do presidente.}
 {48400}{}{Nessa}
 {48401}{}{O fantasma da morte Nessa.}
-{48500}{}{Xamã}
-{48501}{}{Xamã tribal.}
+{48500}{}{XamÃ£}
+{48501}{}{XamÃ£ tribal.}
 {48600}{}{Warrior  }
 {48601}{}{Guerreiro da tribo.}
 {48700}{}{Guarda}
@@ -516,17 +516,17 @@
 {49400}{}{Holograma 00000}
 {49401}{}{O holograma para o diretor de ciencia.}
 {49500}{}{Holograma 10001}
-{49501}{}{O holograma para o diretor de segurança.}
+{49501}{}{O holograma para o diretor de seguranÃ§a.}
 {49600}{}{Holograma 12001}
-{49601}{}{O holograma para o diretor de operaçoes.}
+{49601}{}{O holograma para o diretor de operaÃ§oes.}
 {49700}{}{Holograma 10031}
-{49701}{}{Holograma para o diretor da Planta de Manutençao.}
+{49701}{}{Holograma para o diretor da Planta de ManutenÃ§ao.}
 {49800}{}{Holograma 40011}
-{49801}{}{Holograma para o Diretor de Relações Públicas.}
+{49801}{}{Holograma para o Diretor de RelaÃ§Ãµes PÃºblicas.}
 {49900}{}{Robo Mr. Handy}
-{49901}{}{Uma versão seriamente deprimida do Mr. Handy.}
+{49901}{}{Uma versÃ£o seriamente deprimida do Mr. Handy.}
 {50000}{}{O Doutor}
-{50001}{}{O principal - e único - Médico à esquerda na EPA.}
+{50001}{}{O principal - e Ãºnico - MÃ©dico Ã  esquerda na EPA.}
 {50100}{}{Planta de Esporos EPA}
 {50101}{}{Uma planta de esporos horrivelmente mutada.}
 {50200}{}{Kitsune}
@@ -573,12 +573,12 @@
 {54000}{}{Minigun Jim}
 {54100}{}{Bofast}
 {54200}{}{Krom}
-{54300}{}{Planta de esporos mãe}
-{54400}{}{Mão Alien}
+{54300}{}{Planta de esporos mÃ£e}
+{54400}{}{MÃ£o Alien}
 {54500}{}{Planta de Esporos EPA}
 {54501}{}{Uma planta de esporos horrivelmente mutada.}
 {54600}{}{Cachorro selvagem}
-{54601}{}{Um cao selvagem de raça misturada.}
+{54601}{}{Um cao selvagem de raÃ§a misturada.}
 {54700}{}{Robo Sentinela Mark II}
 {54800}{}{Velho Joe}
 {54900}{}{Uma criatura planta}

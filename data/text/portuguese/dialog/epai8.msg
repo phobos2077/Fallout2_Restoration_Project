@@ -1,5 +1,5 @@
-{100}{}{Parece que há um problema com este elevador.}
-{101}{}{Este elevador obviamente não está funcionando. Você terá que encontrar outra maneira.}
-{102}{}{Você vê uma porta de elevador danificada.}
-{103}{}{Em uma inspeção mais próxima, a cabine do elevador está faltando e as portas estão presas.}
-{104}{}{Você não tem uma chance de consertar isso.}
+{100}{}{Parece que hÃ¡ um problema com este elevador.}
+{101}{}{Este elevador obviamente nÃ£o estÃ¡ funcionando. VocÃª terÃ¡ que encontrar outra maneira.}
+{102}{}{VocÃª vÃª uma porta de elevador danificada.}
+{103}{}{Em uma inspeÃ§Ã£o mais prÃ³xima, a cabine do elevador estÃ¡ faltando e as portas estÃ£o presas.}
+{104}{}{VocÃª nÃ£o tem uma chance de consertar isso.}

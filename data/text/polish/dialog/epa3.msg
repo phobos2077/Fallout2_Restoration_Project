@@ -1,2 +1,2 @@
-{100}{}{Kiedy urywa siê zgrzyt jad¹cej windy, zaczynaj¹ do ciebie docieraæ dŸwiêki drapania i stukania. Przed tob¹ trzaska pole si³owe,
- blokuj¹ce przejœcie.}
+{100}{}{Kiedy urywa siÄ™ zgrzyt jadÄ…cej windy, zaczynajÄ… do ciebie docieraÄ‡ dÅºwiÄ™ki drapania i stukania. Przed tobÄ… trzaska pole siÅ‚owe,
+ blokujÄ…ce przejÅ›cie.}

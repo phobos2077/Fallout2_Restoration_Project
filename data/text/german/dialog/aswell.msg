@@ -1,2 +1,2 @@
 {100}{}{Der Brunnen funktioniert schon lange nicht mehr. Er muss repariert werden.}
-{101}{}{Der Brunnen funktioniert pr‰chtig.}
+{101}{}{Der Brunnen funktioniert pr√§chtig.}

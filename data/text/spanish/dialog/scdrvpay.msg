@@ -1,15 +1,15 @@
 {100}{}{Ves a un hombre vestido con ropa de trabajo.}
-{101}{}{Es comprador brahmin. Está esperando la caravana de Hal.}
+{101}{}{Es comprador brahmin. EstÃ¡ esperando la caravana de Hal.}
 {102}{}{Huele a brahmin.}
 {113}{}{Vaya, todo se ha ido a la mierda! Me temo que no hay dinero en este viaje para ninguno de nosotros. Podemos estar contentos de seguir vivos.}
-{114}{}{Bueno, los rancheros no están demasiado contentos: por el viaje nos dan 1.000 dólares. Mala suerte.}
-{115}{}{Bien, tuviste mala suerte, pero lo hiciste bien. Aquí están los $2000 dólares por lo acordado.}
-{116}{}{¡Cojones, lo hiciste simplemente bien! Aquí hay un bono de 1.000 dólares para ti. Eso, y 2.000 dólares son tu paga. ¡Redding, ándate con ojo esta noche!}
-{118}{}{Eres la peor parodia de guardia que haya visto nunca. Lárgate de aquí.}
-{119}{}{Que mal que Hal no lo logró.}
-{120}{}{Lástima lo del Hal.}
+{114}{}{Bueno, los rancheros no estÃ¡n demasiado contentos: por el viaje nos dan 1.000 dÃ³lares. Mala suerte.}
+{115}{}{Bien, tuviste mala suerte, pero lo hiciste bien. AquÃ­ estÃ¡n los $2000 dÃ³lares por lo acordado.}
+{116}{}{Â¡Cojones, lo hiciste simplemente bien! AquÃ­ hay un bono de 1.000 dÃ³lares para ti. Eso, y 2.000 dÃ³lares son tu paga. Â¡Redding, Ã¡ndate con ojo esta noche!}
+{118}{}{Eres la peor parodia de guardia que haya visto nunca. LÃ¡rgate de aquÃ­.}
+{119}{}{Que mal que Hal no lo logrÃ³.}
+{120}{}{LÃ¡stima lo del Hal.}
 {121}{}{Me alegra hacer negocios contigo.}
-{213}{}{¡Vaya, Hal está muerto! ¡Y todo se ha ido a la mierda! Me temo que no habrá dinero para ninguno de nosotros. Podemos estar contentos de seguir vivos.}
-{214}{}{¡Vaya, Hal está muerto! Y los rancheros no están contentos - tan solo $1000 dólares. Mala suerte.}
-{215}{}{¡Maldita sea, Hal está muerto! Al menos los brahmin están bien. Aquí están los $2000 por lo acordado.}
-{216}{}{¡Maldita sea, Hal está muerto! Aún así, te las arreglaste bien. Hay un bono de $1000 para ti. Eso y $2000 hacen tu paga. ¡Será mejor que Redding tenga cuidado esta noche!}
+{213}{}{Â¡Vaya, Hal estÃ¡ muerto! Â¡Y todo se ha ido a la mierda! Me temo que no habrÃ¡ dinero para ninguno de nosotros. Podemos estar contentos de seguir vivos.}
+{214}{}{Â¡Vaya, Hal estÃ¡ muerto! Y los rancheros no estÃ¡n contentos - tan solo $1000 dÃ³lares. Mala suerte.}
+{215}{}{Â¡Maldita sea, Hal estÃ¡ muerto! Al menos los brahmin estÃ¡n bien. AquÃ­ estÃ¡n los $2000 por lo acordado.}
+{216}{}{Â¡Maldita sea, Hal estÃ¡ muerto! AÃºn asÃ­, te las arreglaste bien. Hay un bono de $1000 para ti. Eso y $2000 hacen tu paga. Â¡SerÃ¡ mejor que Redding tenga cuidado esta noche!}

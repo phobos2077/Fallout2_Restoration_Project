@@ -1,39 +1,39 @@
-{100}{}{Rêczna broñ palna}
-{101}{}{Broñ ciê¿ka}
-{102}{}{Broñ energetyczna}
+{100}{}{RÄ™czna broÅ„ palna}
+{101}{}{BroÅ„ ciÄ™Å¼ka}
+{102}{}{BroÅ„ energetyczna}
 {103}{}{Bez broni}
-{104}{}{Broñ bia³a}
+{104}{}{BroÅ„ biaÅ‚a}
 {105}{}{Rzucanie}
 {106}{}{Pierwsza Pomoc}
 {107}{}{Leczenie}
-{108}{}{Skradanie siê}
-{109}{}{Otwieranie zamków}
-{110}{}{Kradzie¿}
-{111}{}{Pu³apki}
-{112}{}{Nauki œcis³e}
+{108}{}{Skradanie siÄ™}
+{109}{}{Otwieranie zamkÃ³w}
+{110}{}{KradzieÅ¼}
+{111}{}{PuÅ‚apki}
+{112}{}{Nauki Å›cisÅ‚e}
 {113}{}{Naprawa}
 {114}{}{Retoryka}
 {115}{}{Handel}
 {116}{}{Hazard}
 {117}{}{Sztuka przetrwania}
-{200}{}{U¿ytkowanie, konserwacja i ogólna znajomoœæ rêcznej broni palnej - pistoletów, rewolwerów, pistoletów maszynowych i karabinów.}
-{201}{}{U¿ytkowanie i konserwacja naprawdê du¿ych spluw - wielolufowych karabinów maszynowych, wyrzutni rakiet, miotaczy ognia itp.}
-{202}{}{Konserwacja i ³adowanie broni energetycznych. Wiedza, jak uzbroiæ i pos³u¿yæ siê broni¹ wykorzystuj¹c¹ technologiê laserow¹ b¹dŸ plazmow¹.}
-{203}{}{Suma wschodnich sztuk walki, boksu i innych technik walki bez broni. Zasady prowadzenia boju za pomoc¹ samego cia³a.}
-{204}{}{Zasady pos³ugiwania siê broni¹ bia³¹ - kastetami, no¿ami, m³otami, w³óczniami itd. - w bezpoœrednim starciu.}
-{205}{}{Umiejêtnoœæ pos³ugiwania siê broni¹ miotan¹ - ciskanymi no¿ami, w³óczniami i granatami.}
-{206}{}{Podstawowa umiejêtnoœæ medyczna, wykorzystywana do leczenia skaleczeñ, otaræ i innych pomniejszych dolegliwoœci. Opatrzenie ran jest na krótk¹ metê w stanie zniwelowaæ wiêcej obra¿eñ ni¿ sam odpoczynek.}
-{207}{}{Sztuka uzdrawiania powa¿nych ran i okaleczonych koñczyn. Bez zastosowania umiejêtnoœci leczenia, powrót tych ostatnich do pe³nej sprawnoœci trwa o wiele d³u¿ej.}
-{208}{}{Zdolnoœæ skrytego przemieszczania siê, po³¹czona z bieg³oœci¹ w kamufla¿u. Umiejêtnie zastosowane, powa¿nie utrudni twoje wykrycie. Podczas skradania tryb biegu nie jest dostêpny.}
-{209}{}{Umiejêtnoœæ otwierania zamków bez w³aœciwego klucza. Pos³ugiwanie siê wytrychami (klasycznymi lub elektronicznymi) bardzo w tym pomaga.}
-{210}{}{Zdolnoœæ czynienia cudzych rzeczy w³asnymi. Okradaæ mo¿na zarówno osoby (najlepiej zakradaj¹c siê od ty³u), jak i miejsca.}
-{211}{}{Umiejêtnoœæ wykrywania i usuwanie pu³apek, jak równie¿ podk³adania ³adunków wybuchowych.}
-{212}{}{Obejmuj¹ wiele zaawansowanych dziedzin, takich jak m.in. informatyka, biologia, fizyka i geologia.}
-{213}{}{Praktyczne zastosowanie znajomoœci nauk œcis³ych. Naprawianie zepsutego wyposa¿enia, maszyn oraz urz¹dzeñ elektronicznych.}
-{214}{}{Sztuka efektywnego komunikowania siê, przekonywania innych do w³asnego zdania, oraz ³gania w sposób wykluczaj¹cy przy³apanie.}
-{215}{}{Umiejêtnoœæ uzyskiwania lepszych cen na sprzedawane i kupowane przedmioty.}
-{216}{}{Teoria i praktyka zak³adów. Umiejêtnoœæ grania w karty, koœci i inne gry hazardowe.}
-{217}{}{Praktyczna znajomoœæ zasad ¿ycia na niezamieszka³ych terenach, umiejêtnoœæ korzystania z darów natury (i materia³ów rozszczepialnych). Wiedza o florze i faunie.}
+{200}{}{UÅ¼ytkowanie, konserwacja i ogÃ³lna znajomoÅ›Ä‡ rÄ™cznej broni palnej - pistoletÃ³w, rewolwerÃ³w, pistoletÃ³w maszynowych i karabinÃ³w.}
+{201}{}{UÅ¼ytkowanie i konserwacja naprawdÄ™ duÅ¼ych spluw - wielolufowych karabinÃ³w maszynowych, wyrzutni rakiet, miotaczy ognia itp.}
+{202}{}{Konserwacja i Å‚adowanie broni energetycznych. Wiedza, jak uzbroiÄ‡ i posÅ‚uÅ¼yÄ‡ siÄ™ broniÄ… wykorzystujÄ…cÄ… technologiÄ™ laserowÄ… bÄ…dÅº plazmowÄ….}
+{203}{}{Suma wschodnich sztuk walki, boksu i innych technik walki bez broni. Zasady prowadzenia boju za pomocÄ… samego ciaÅ‚a.}
+{204}{}{Zasady posÅ‚ugiwania siÄ™ broniÄ… biaÅ‚Ä… - kastetami, noÅ¼ami, mÅ‚otami, wÅ‚Ã³czniami itd. - w bezpoÅ›rednim starciu.}
+{205}{}{UmiejÄ™tnoÅ›Ä‡ posÅ‚ugiwania siÄ™ broniÄ… miotanÄ… - ciskanymi noÅ¼ami, wÅ‚Ã³czniami i granatami.}
+{206}{}{Podstawowa umiejÄ™tnoÅ›Ä‡ medyczna, wykorzystywana do leczenia skaleczeÅ„, otarÄ‡ i innych pomniejszych dolegliwoÅ›ci. Opatrzenie ran jest na krÃ³tkÄ… metÄ™ w stanie zniwelowaÄ‡ wiÄ™cej obraÅ¼eÅ„ niÅ¼ sam odpoczynek.}
+{207}{}{Sztuka uzdrawiania powaÅ¼nych ran i okaleczonych koÅ„czyn. Bez zastosowania umiejÄ™tnoÅ›ci leczenia, powrÃ³t tych ostatnich do peÅ‚nej sprawnoÅ›ci trwa o wiele dÅ‚uÅ¼ej.}
+{208}{}{ZdolnoÅ›Ä‡ skrytego przemieszczania siÄ™, poÅ‚Ä…czona z biegÅ‚oÅ›ciÄ… w kamuflaÅ¼u. UmiejÄ™tnie zastosowane, powaÅ¼nie utrudni twoje wykrycie. Podczas skradania tryb biegu nie jest dostÄ™pny.}
+{209}{}{UmiejÄ™tnoÅ›Ä‡ otwierania zamkÃ³w bez wÅ‚aÅ›ciwego klucza. PosÅ‚ugiwanie siÄ™ wytrychami (klasycznymi lub elektronicznymi) bardzo w tym pomaga.}
+{210}{}{ZdolnoÅ›Ä‡ czynienia cudzych rzeczy wÅ‚asnymi. OkradaÄ‡ moÅ¼na zarÃ³wno osoby (najlepiej zakradajÄ…c siÄ™ od tyÅ‚u), jak i miejsca.}
+{211}{}{UmiejÄ™tnoÅ›Ä‡ wykrywania i usuwanie puÅ‚apek, jak rÃ³wnieÅ¼ podkÅ‚adania Å‚adunkÃ³w wybuchowych.}
+{212}{}{ObejmujÄ… wiele zaawansowanych dziedzin, takich jak m.in. informatyka, biologia, fizyka i geologia.}
+{213}{}{Praktyczne zastosowanie znajomoÅ›ci nauk Å›cisÅ‚ych. Naprawianie zepsutego wyposaÅ¼enia, maszyn oraz urzÄ…dzeÅ„ elektronicznych.}
+{214}{}{Sztuka efektywnego komunikowania siÄ™, przekonywania innych do wÅ‚asnego zdania, oraz Å‚gania w sposÃ³b wykluczajÄ…cy przyÅ‚apanie.}
+{215}{}{UmiejÄ™tnoÅ›Ä‡ uzyskiwania lepszych cen na sprzedawane i kupowane przedmioty.}
+{216}{}{Teoria i praktyka zakÅ‚adÃ³w. UmiejÄ™tnoÅ›Ä‡ grania w karty, koÅ›ci i inne gry hazardowe.}
+{217}{}{Praktyczna znajomoÅ›Ä‡ zasad Å¼ycia na niezamieszkaÅ‚ych terenach, umiejÄ™tnoÅ›Ä‡ korzystania z darÃ³w natury (i materiaÅ‚Ã³w rozszczepialnych). Wiedza o florze i faunie.}
 {300}{}{+ (4 x ZR)}
 {301}{}{+ (2 x ZR)}
 {302}{}{+ (2 x ZR)}
@@ -53,44 +53,44 @@
 {316}{}{+ (5 x SZ)}
 {317}{}{+ (2 x (WT + IN))}
 {500}{}{Leczysz %d PW.}
-{501}{}{Ju¿ i tak wygl¹dasz zdrowo.}
-{502}{}{%s ju¿ i tak wygl¹da zdrowo.}
-{503}{}{Nie udaje siê ci wyleczyæ.}
-{505}{}{Otrzymujesz %d PD za doskonalenie twoich umiejêtnoœci przez praktykê.}
-{510}{}{\nskill_use: zastosowano niew³aœciw¹ umiejêtnoœæ.}
-{512}{}{Nie jesteœ w stanie uzdrowiæ trupa.}
-{513}{}{Pozwól martwym spoczywaæ w spokoju.}
-{514}{}{Nie ¿yje, musisz siê z tym pogodziæ.}
-{520}{}{Przywracasz pe³niê sprawnoœci twojej %s.}
-{521}{}{Przywracasz pe³niê sprawnoœci %s twojego pacjenta.}
-{525}{}{Nie udaje ci siê przywróciæ pe³ni sprawnoœci twojej %s.}
-{526}{}{Nie udaje ci siê przywróciæ pe³ni sprawnoœci %s twojego pacjenta.}
-{530}{}{uszkodzonej ga³ce ocznej}
-{531}{}{okaleczonej lewej rêce}
-{532}{}{okaleczonej prawej rêce}
+{501}{}{JuÅ¼ i tak wyglÄ…dasz zdrowo.}
+{502}{}{%s juÅ¼ i tak wyglÄ…da zdrowo.}
+{503}{}{Nie udaje siÄ™ ci wyleczyÄ‡.}
+{505}{}{Otrzymujesz %d PD za doskonalenie twoich umiejÄ™tnoÅ›ci przez praktykÄ™.}
+{510}{}{\nskill_use: zastosowano niewÅ‚aÅ›ciwÄ… umiejÄ™tnoÅ›Ä‡.}
+{512}{}{Nie jesteÅ› w stanie uzdrowiÄ‡ trupa.}
+{513}{}{PozwÃ³l martwym spoczywaÄ‡ w spokoju.}
+{514}{}{Nie Å¼yje, musisz siÄ™ z tym pogodziÄ‡.}
+{520}{}{Przywracasz peÅ‚niÄ™ sprawnoÅ›ci twojej %s.}
+{521}{}{Przywracasz peÅ‚niÄ™ sprawnoÅ›ci %s twojego pacjenta.}
+{525}{}{Nie udaje ci siÄ™ przywrÃ³ciÄ‡ peÅ‚ni sprawnoÅ›ci twojej %s.}
+{526}{}{Nie udaje ci siÄ™ przywrÃ³ciÄ‡ peÅ‚ni sprawnoÅ›ci %s twojego pacjenta.}
+{530}{}{uszkodzonej gaÅ‚ce ocznej}
+{531}{}{okaleczonej lewej rÄ™ce}
+{532}{}{okaleczonej prawej rÄ™ce}
 {533}{}{okaleczonej prawej nodze}
 {534}{}{okaleczonej lewej nodze}
-{550}{}{Nie udaje ci siê otworzyæ zamka.}
-{551}{}{Nie udaje ci siê znaleŸæ jakichkolwiek pu³apek.}
-{552}{}{Nie udaje ci siê czegokolwiek nauczyæ.}
-{553}{}{Nie jesteœ w stanie tego naprawiæ.}
-{570}{}{Z³apano ciê na próbie kradzie¿y (%s).}
-{571}{}{£up (%s) niepostrze¿enie staje siê twoj¹ w³asnoœci¹.}
-{572}{}{Z³apano ciê na podk³adaniu ³adunku (%s).}
-{573}{}{Niepostrze¿enie podk³adasz ³adunek (%s).}
-{590}{}{Twoja zdolnoœæ pos³ugiwania siê t¹ umiejêtnoœci¹ zosta³a nadwerê¿ona. Odczekaj chwilê.}
-{591}{}{Odczuwasz teraz zbyt du¿e zmêczenie.}
-{592}{}{Ten wysi³ek móg³by ciê zabiæ.}
-{600}{}{Nie posiadasz wystarczaj¹cych umiejêtnoœci, by leczyæ powa¿ne rany.}
-{601}{}{Robot nie nadaje siê do naprawy.}
-{1000}{}{Mo¿e pomóc?}
-{1001}{}{Mogê to zrobiæ.}
+{550}{}{Nie udaje ci siÄ™ otworzyÄ‡ zamka.}
+{551}{}{Nie udaje ci siÄ™ znaleÅºÄ‡ jakichkolwiek puÅ‚apek.}
+{552}{}{Nie udaje ci siÄ™ czegokolwiek nauczyÄ‡.}
+{553}{}{Nie jesteÅ› w stanie tego naprawiÄ‡.}
+{570}{}{ZÅ‚apano ciÄ™ na prÃ³bie kradzieÅ¼y (%s).}
+{571}{}{Åup (%s) niepostrzeÅ¼enie staje siÄ™ twojÄ… wÅ‚asnoÅ›ciÄ….}
+{572}{}{ZÅ‚apano ciÄ™ na podkÅ‚adaniu Å‚adunku (%s).}
+{573}{}{NiepostrzeÅ¼enie podkÅ‚adasz Å‚adunek (%s).}
+{590}{}{Twoja zdolnoÅ›Ä‡ posÅ‚ugiwania siÄ™ tÄ… umiejÄ™tnoÅ›ciÄ… zostaÅ‚a nadwerÄ™Å¼ona. Odczekaj chwilÄ™.}
+{591}{}{Odczuwasz teraz zbyt duÅ¼e zmÄ™czenie.}
+{592}{}{Ten wysiÅ‚ek mÃ³gÅ‚by ciÄ™ zabiÄ‡.}
+{600}{}{Nie posiadasz wystarczajÄ…cych umiejÄ™tnoÅ›ci, by leczyÄ‡ powaÅ¼ne rany.}
+{601}{}{Robot nie nadaje siÄ™ do naprawy.}
+{1000}{}{MoÅ¼e pomÃ³c?}
+{1001}{}{MogÄ™ to zrobiÄ‡.}
 {1002}{}{Rozumiem.}
-{1003}{}{Ca³a przyjemnoœæ po mojej stronie.}
-{1004}{}{W porz¹dku.}
-{1005}{}{Spróbujê.}
-{1100}{}{Gdyby by³y jakieœ problemy, daj znaæ.}
+{1003}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie.}
+{1004}{}{W porzÄ…dku.}
+{1005}{}{SprÃ³bujÄ™.}
+{1100}{}{Gdyby byÅ‚y jakieÅ› problemy, daj znaÄ‡.}
 {1101}{}{Rozumiesz?}
-{1102}{}{Je¿eli tego chcesz.}
-{1103}{}{No, dalej, spróbuj.}
-{1104}{}{Ale¿ proszê.}
+{1102}{}{JeÅ¼eli tego chcesz.}
+{1103}{}{No, dalej, sprÃ³buj.}
+{1104}{}{AleÅ¼ proszÄ™.}

@@ -2,61 +2,61 @@
 {101}{}{Tu vois le garde de la porte du Commandant.}
 {102}{}{Tu vois quelqu'un en armure de combat. Son plastron porte un insigne que tu n'as jamais vu avant.}
 {103}{}{Que fais-tu ici ?}
-{104}{}{Quoi être ici ?}
+{104}{}{Quoi Ãªtre ici ?}
 {105}{}{Heu... Moi ici depuis pas longtemps.}
 {106}{}{Moi nettoyer ici.}
 {107}{}{Moi pas rappeler. Moi partir.}
-{108}{}{Où suis-je ici ?}
+{108}{}{OÃ¹ suis-je ici ?}
 {109}{}{Bonjour, je suis ici depuis peu de temps.}
 {110}{}{Je suis ici pour nettoyer le bureau du Commandant.}
 {111}{}{Ca ne fait rien.}
-{112}{}{Ici c'est le bureau du Commandant de la base. Cette zone est interdite à tout le personnel. Je dois te demander de partir.}
-{113}{}{Moi avoir affaires à traiter avec Commandant.}
-{114}{}{Très bien.}
-{115}{}{J'ai des affaires à traiter avec le Commandant.}
+{112}{}{Ici c'est le bureau du Commandant de la base. Cette zone est interdite Ã  tout le personnel. Je dois te demander de partir.}
+{113}{}{Moi avoir affaires Ã  traiter avec Commandant.}
+{114}{}{TrÃ¨s bien.}
+{115}{}{J'ai des affaires Ã  traiter avec le Commandant.}
 {116}{}{D'accord.}
 {117}{}{Quelle est nature de ces affaires ?}
 {118}{}{Euh...}
-{119}{}{Zut. Moi tout gâcher...}
+{119}{}{Zut. Moi tout gÃ¢cher...}
 {120}{}{Laisse tomber. Moi partir.}
 {121}{}{Bon...}
-{122}{}{Heu, nous avons reçu un appel de la sécurité de la base. Apparemment, ils craignent que le passe du pétrolier puisse se retrouver entre de mauvaises mains. Nous devons le mettre en sécurité.}
+{122}{}{Heu, nous avons reÃ§u un appel de la sÃ©curitÃ© de la base. Apparemment, ils craignent que le passe du pÃ©trolier puisse se retrouver entre de mauvaises mains. Nous devons le mettre en sÃ©curitÃ©.}
 {123}{}{Je m'en vais.}
 {124}{}{C'est ton dernier avertissement. Je te demande de quitter cette zone.}
 {125}{}{Ok.}
 {126}{}{Oh... Ta gueule ! Moi rentrer de force !}
-{127}{}{Ferme-la ! Mes flingues vont me montrer l'entrée, tu vas voir !}
-{128}{}{Quoi ? Oh, j'ai compris. Tu as foutu en l'air le clebs et Dornan t'a assigné au nettoyage.}
+{127}{}{Ferme-la ! Mes flingues vont me montrer l'entrÃ©e, tu vas voir !}
+{128}{}{Quoi ? Oh, j'ai compris. Tu as foutu en l'air le clebs et Dornan t'a assignÃ© au nettoyage.}
 {129}{}{Ouais... Moi tout casser... chien... et beurk.}
-{130}{}{[Parlant à la radio :] Commandant. Le soldat affecté au nettoyage est ici. [Pause...] Très bien. [Il s'adresse à toi :] Entre.}
+{130}{}{[Parlant Ã  la radio :] Commandant. Le soldat affectÃ© au nettoyage est ici. [Pause...] TrÃ¨s bien. [Il s'adresse Ã  toi :] Entre.}
 {131}{}{Merci.}
-{132}{}{[Parlant à la radio :] Commandant. Le soldat affecté à la sécurité est ici. La base principale veut mettre le passe du pétrolier en sûreté. [Pause...] Très bien. [Il s'adresse à toi :] Entre.}
+{132}{}{[Parlant Ã  la radio :] Commandant. Le soldat affectÃ© Ã  la sÃ©curitÃ© est ici. La base principale veut mettre le passe du pÃ©trolier en sÃ»retÃ©. [Pause...] TrÃ¨s bien. [Il s'adresse Ã  toi :] Entre.}
 {133}{}{Fais-moi voir tes consignes.}
 {134}{}{Merci.}
 {135}{}{Oh, je ne les ai pas sur moi.}
-{136}{}{[Calmement :] Tu as dû te perdre alors. Ici c'est le bureau du Commandant de la base. Personne ne peut entrer sans que le vieux en donne lui-même l'ordre.}
+{136}{}{[Calmement :] Tu as dÃ» te perdre alors. Ici c'est le bureau du Commandant de la base. Personne ne peut entrer sans que le vieux en donne lui-mÃªme l'ordre.}
 {137}{}{Personne ne vient ici ? Jamais ?}
 {138}{}{Personne ne peut le voir ?}
-{139}{}{[Calmement :] Personne. Bon, à part l'équipe de nettoyage. Ils seront ici dans une heure environ. Autrement, cette zone est interdite. Bon, maintenant, tu ferais mieux de partir.}
+{139}{}{[Calmement :] Personne. Bon, Ã  part l'Ã©quipe de nettoyage. Ils seront ici dans une heure environ. Autrement, cette zone est interdite. Bon, maintenant, tu ferais mieux de partir.}
 {140}{}{Ok.}
-{141}{}{[Parlant à la radio :] Commandant. Le soldat affecté au nettoyage est ici. [Pause...] Très bien. [Il s'adresse à toi :] Entre.}
+{141}{}{[Parlant Ã  la radio :] Commandant. Le soldat affectÃ© au nettoyage est ici. [Pause...] TrÃ¨s bien. [Il s'adresse Ã  toi :] Entre.}
 {142}{}{Tu es en avance. Reviens plus tard.}
 {143}{}{Ok.}
-{144}{}{Alors retourne au bureau des communications et demande les consignes par écrit.}
+{144}{}{Alors retourne au bureau des communications et demande les consignes par Ã©crit.}
 {145}{}{Ok.}
-{146}{}{Tu cherches sûrement l'armurerie. Retourne dans l'entrée, tourne à droite et c'est la première porte à gauche. Ils te donneront ton équipement réglementaire là-bas.}
+{146}{}{Tu cherches sÃ»rement l'armurerie. Retourne dans l'entrÃ©e, tourne Ã  droite et c'est la premiÃ¨re porte Ã  gauche. Ils te donneront ton Ã©quipement rÃ©glementaire lÃ -bas.}
 {147}{}{Merci.}
 {148}{}{Mais bon sang, qui es-tu ?! -- Alerte ! Des intrus !!!}
-{149}{}{La base a été infiltrée ! Alerte !!}
+{149}{}{La base a Ã©tÃ© infiltrÃ©e ! Alerte !!}
 {150}{}{Un groupe d'intrus ! Sonnez l'alarme !!}
-{151}{}{Alerte de sécurité !! Condamnez la base !!!}
-{152}{}{Fermez toutes les stations !! Nous sommes en état alerte !!}
+{151}{}{Alerte de sÃ©curitÃ© !! Condamnez la base !!!}
+{152}{}{Fermez toutes les stations !! Nous sommes en Ã©tat alerte !!}
 {153}{}{Alerte intrus !! Activez le code rouge !!!}
 {154}{}{On va t'exterminer !!}
-{155}{}{L'Enclave régnera sur le monde !}
-{156}{}{Ta mort permettra à l'Enclave de survivre !}
-{160}{}{Tu es de retour. As-tu apporté l'autorisation pour le passe ?}
+{155}{}{L'Enclave rÃ©gnera sur le monde !}
+{156}{}{Ta mort permettra Ã  l'Enclave de survivre !}
+{160}{}{Tu es de retour. As-tu apportÃ© l'autorisation pour le passe ?}
 {161}{}{Non pas encore. Je vais la chercher.}
-{162}{}{Ouais, c'est ça. Juste quand j'te dis que l'équipe de nettoyage va arriver, comme par magie toi tu dis en faire partie ! Tu m'prends vraiment pour un con ou quoi ? J't'ai pas quitté des yeux ! Allez, dégage !}
-{200}{}{[Parlant à la radio :] Commandant. [Pause...] Vous êtes là Commandant ? [Pause...] Hmm...Pas de réponse. Ca ne lui ressemble pas. Je devrais aller le voir.}
+{162}{}{Ouais, c'est Ã§a. Juste quand j'te dis que l'Ã©quipe de nettoyage va arriver, comme par magie toi tu dis en faire partie ! Tu m'prends vraiment pour un con ou quoi ? J't'ai pas quittÃ© des yeux ! Allez, dÃ©gage !}
+{200}{}{[Parlant Ã  la radio :] Commandant. [Pause...] Vous Ãªtes lÃ  Commandant ? [Pause...] Hmm...Pas de rÃ©ponse. Ca ne lui ressemble pas. Je devrais aller le voir.}
 {201}{}{(Putain de merde, le Commandant est mort ! Alerte, nous avons un intrus !!}

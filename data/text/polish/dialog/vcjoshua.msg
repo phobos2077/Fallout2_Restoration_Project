@@ -1,3 +1,3 @@
 {100}{}{To Joshua.}
-{101}{}{Widzisz rozczochranego, m³odego ch³opaka o têpawym uœmiechu.}
-{102}{}{Dziêki za wyci¹gniêcie mnie z k³opotów. Jestem ci bardzo wdziêczny. Wkrótce ja i moja ¿ona ruszymy dalej.}
+{101}{}{Widzisz rozczochranego, mÅ‚odego chÅ‚opaka o tÄ™pawym uÅ›miechu.}
+{102}{}{DziÄ™ki za wyciÄ…gniÄ™cie mnie z kÅ‚opotÃ³w. Jestem ci bardzo wdziÄ™czny. WkrÃ³tce ja i moja Å¼ona ruszymy dalej.}

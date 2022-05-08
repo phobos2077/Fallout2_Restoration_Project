@@ -83,7 +83,7 @@
 {604}{}{Alarm Clock}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
 {606}{}{Welcome to the RobCo Pip-Boy 2000.}
-{607}{}{Até mais.}
+{607}{}{AtÃ© mais.}
 {608}{}{Wake up.}
 {700}{}{Vault 13}
 {701}{}{Calm rebel faction.}
@@ -94,7 +94,7 @@
 {710}{}{Buried Vault}
 {720}{}{Shady Sands}
 {721}{}{Cure Jarvis of Radscorpion Poison.}
-{722}{}{Fazer O Antídoto Do Veneno.}
+{722}{}{Fazer O AntÃ­doto Do Veneno.}
 {723}{}{Rescue Tandi from the Raiders.}
 {724}{}{Stop the Radscorpions.}
 {730}{}{Junktown}

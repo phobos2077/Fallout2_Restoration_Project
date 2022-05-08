@@ -28,8 +28,8 @@
 {127}{}{I Ghoul non sono ammessi all'interno della citta'! Dovete andarvene!}
 {128}{}{Si', ho gia' un padrone. I miei documenti sono conservati nel Centro Collocamento Servi.}
 {129}{}{La prego, mi lasci in pace. Io sono un servo di Vault City.}
-{130}{}{La scongiuro: ha per caso visto due bambini con i capelli neri…? Sono stati presi da altri schiavisti due anni fa e sono stati venduti da qualche parte a Nord.}
-{131}{}{Per favore… Non mi e' permesso parlare.}
+{130}{}{La scongiuro: ha per caso visto due bambini con i capelli neriâ€¦? Sono stati presi da altri schiavisti due anni fa e sono stati venduti da qualche parte a Nord.}
+{131}{}{Per favoreâ€¦ Non mi e' permesso parlare.}
 {132}{}{Se un Cittadino mi dovesse beccare a parlare con uno schiavista, saro' punito.}
 {133}{}{Le guardie mi denunceranno se lei continua a parlare con me.}
 {134}{}{Non posso parlare con lei. Ho del lavoro da fare.}

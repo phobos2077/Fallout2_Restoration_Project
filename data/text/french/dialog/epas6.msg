@@ -1,1 +1,1 @@
-{100}{}{Il y a un léger bruit de grésillement dans l'air, comme un champ magnétique aux alentours.}
+{100}{}{Il y a un lÃ©ger bruit de grÃ©sillement dans l'air, comme un champ magnÃ©tique aux alentours.}

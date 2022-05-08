@@ -1,2 +1,2 @@
-{100}{}{Te cia³a wygl¹daj¹ na sztuczne - to po prostu kuk³y, obleczone w braminie wnêtrznoœci.}
-{101}{}{Coœ tu nie gra.}
+{100}{}{Te ciaÅ‚a wyglÄ…dajÄ… na sztuczne - to po prostu kukÅ‚y, obleczone w braminie wnÄ™trznoÅ›ci.}
+{101}{}{CoÅ› tu nie gra.}

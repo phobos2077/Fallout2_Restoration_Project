@@ -1,26 +1,26 @@
-{100}{}{Egy kezeslábast visel?, idegesnek t?n? figurát látsz.}
-{101}{}{? Ferndown, Menedékváros kereskedelmi ügynöke.}
-{102}{}{Egy vékony figurát látsz piszkos kezeslábasban. Ingerültnek t?nik.}
-{103}{}{Attól tartok, nem tudunk fizetni azért, mert elhagytad a karavánt. Biztos vagyok benne, hogy Ben emiatt halt meg.}
-{104}{}{Tényleg az hitted, hogy megjutalmazok egy tolvajt? Szerencsésnek mondhatod magad, hogy nem lincseltek meg útközben. Most pedig t?nj el!}
-{105}{}{Tolvajt? Kikérem magamnak, te hálátlan dög! Most pedig távozom. Viszlát!}
-{106}{}{Hamarosan megbánod, hogy ujjat húztál velem! Viszlát!}
-{107}{}{A karaván veszteségeib?l ítélve nehéz lenne elhinnem, hogy jól végezted a dolgodat. Ezt a mulasztást nem tudjuk értékelni.}
-{108}{}{Te szemétláda! Megfizetsz azért, hogy bepaliztál! Viszlát!}
-{109}{}{Néha az ember szerencsésebb másoknál. Ez most nem az a nap. Viszlát!}
+{100}{}{Egy kezeslÃ¡bast visel?, idegesnek t?n? figurÃ¡t lÃ¡tsz.}
+{101}{}{? Ferndown, MenedÃ©kvÃ¡ros kereskedelmi Ã¼gynÃ¶ke.}
+{102}{}{Egy vÃ©kony figurÃ¡t lÃ¡tsz piszkos kezeslÃ¡basban. IngerÃ¼ltnek t?nik.}
+{103}{}{AttÃ³l tartok, nem tudunk fizetni azÃ©rt, mert elhagytad a karavÃ¡nt. Biztos vagyok benne, hogy Ben emiatt halt meg.}
+{104}{}{TÃ©nyleg az hitted, hogy megjutalmazok egy tolvajt? SzerencsÃ©snek mondhatod magad, hogy nem lincseltek meg ÃºtkÃ¶zben. Most pedig t?nj el!}
+{105}{}{Tolvajt? KikÃ©rem magamnak, te hÃ¡lÃ¡tlan dÃ¶g! Most pedig tÃ¡vozom. ViszlÃ¡t!}
+{106}{}{Hamarosan megbÃ¡nod, hogy ujjat hÃºztÃ¡l velem! ViszlÃ¡t!}
+{107}{}{A karavÃ¡n vesztesÃ©geib?l Ã­tÃ©lve nehÃ©z lenne elhinnem, hogy jÃ³l vÃ©gezted a dolgodat. Ezt a mulasztÃ¡st nem tudjuk Ã©rtÃ©kelni.}
+{108}{}{Te szemÃ©tlÃ¡da! Megfizetsz azÃ©rt, hogy bepaliztÃ¡l! ViszlÃ¡t!}
+{109}{}{NÃ©ha az ember szerencsÃ©sebb mÃ¡soknÃ¡l. Ez most nem az a nap. ViszlÃ¡t!}
 {110}{}{We didn't quite lose everything on the caravan, but we lost more we can afford. If you'd done
  your job right, you'd be getting more than this $50.}
-{111}{}{Hát, azt hiszem, ez is több, mint a semmi. Viszlát!}
-{112}{}{Te, tetves szemétláda! Senki sem csinálta volna jobban! Megbánod még, hogy átvertél! Viszlát!}
+{111}{}{HÃ¡t, azt hiszem, ez is tÃ¶bb, mint a semmi. ViszlÃ¡t!}
+{112}{}{Te, tetves szemÃ©tlÃ¡da! Senki sem csinÃ¡lta volna jobban! MegbÃ¡nod mÃ©g, hogy Ã¡tvertÃ©l! ViszlÃ¡t!}
 {113}{}{That wasn't too bad at all. Here's your $100. It'll be a while before we get another caravan
  master, so I don't know when we'll be traveling again.}
-{114}{}{Nem hiszem, hogy valaha is szándékomban állna újra ennyi id?t tölteni egy brahmin hátsó felének nézegetésével. Viszlát!}
-{115}{}{Végülis nem volt ez annyira rossz. Viszlát kés?bb.}
-{116}{}{Ez jó menet volt. Lehet, hogy nélküled nem is m?ködött volna ilyen pöpecül a dolog. Tessék, a 100 dollárod, plusz 50 dollár bónusz a jó munkáért. Még egyszer köszönöm. Bárcsak Ben is megélhette volna.}
-{117}{}{Mindig öröm számomra, ha olyan emberrel találkozom, aki tudja értékelni a min?ségi munkát. Talán látjuk még egymást. Viszlát!}
-{118}{}{Mindig jól jön egy kis zsebpénz. Kösz, és viszlát!}
-{119}{}{Nem tudom elhinni, hogy Ben felvett egy ilyen idiótát, mint te. Nos, feltételezem ez volt az utolsó jótékonykodása. Szerencsés vagy, hogy egyáltalán túlélted. Viszlát!}
+{114}{}{Nem hiszem, hogy valaha is szÃ¡ndÃ©komban Ã¡llna Ãºjra ennyi id?t tÃ¶lteni egy brahmin hÃ¡tsÃ³ felÃ©nek nÃ©zegetÃ©sÃ©vel. ViszlÃ¡t!}
+{115}{}{VÃ©gÃ¼lis nem volt ez annyira rossz. ViszlÃ¡t kÃ©s?bb.}
+{116}{}{Ez jÃ³ menet volt. Lehet, hogy nÃ©lkÃ¼led nem is m?kÃ¶dÃ¶tt volna ilyen pÃ¶pecÃ¼l a dolog. TessÃ©k, a 100 dollÃ¡rod, plusz 50 dollÃ¡r bÃ³nusz a jÃ³ munkÃ¡Ã©rt. MÃ©g egyszer kÃ¶szÃ¶nÃ¶m. BÃ¡rcsak Ben is megÃ©lhette volna.}
+{117}{}{Mindig Ã¶rÃ¶m szÃ¡momra, ha olyan emberrel talÃ¡lkozom, aki tudja Ã©rtÃ©kelni a min?sÃ©gi munkÃ¡t. TalÃ¡n lÃ¡tjuk mÃ©g egymÃ¡st. ViszlÃ¡t!}
+{118}{}{Mindig jÃ³l jÃ¶n egy kis zsebpÃ©nz. KÃ¶sz, Ã©s viszlÃ¡t!}
+{119}{}{Nem tudom elhinni, hogy Ben felvett egy ilyen idiÃ³tÃ¡t, mint te. Nos, feltÃ©telezem ez volt az utolsÃ³ jÃ³tÃ©konykodÃ¡sa. SzerencsÃ©s vagy, hogy egyÃ¡ltalÃ¡n tÃºlÃ©lted. ViszlÃ¡t!}
 {120}{}{Ook?}
-{121}{}{Sajnálom, hogy odaveszett Ben Wade. Jó ember volt, és nehéz lesz pótolni. A nevem Ferndown és én fogok gondoskodni arról, hogy megkapd, ami jár neked.}
-{122}{}{Öö, köszi.}
+{121}{}{SajnÃ¡lom, hogy odaveszett Ben Wade. JÃ³ ember volt, Ã©s nehÃ©z lesz pÃ³tolni. A nevem Ferndown Ã©s Ã©n fogok gondoskodni arrÃ³l, hogy megkapd, ami jÃ¡r neked.}
+{122}{}{Ã–Ã¶, kÃ¶szi.}
 {123}{}{Too bad for Ben Wade, he was a good man.}

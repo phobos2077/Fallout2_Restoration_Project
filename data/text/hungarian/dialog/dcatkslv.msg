@@ -1,38 +1,38 @@
-{100}{}{A férfi eléggé er?s és éber.}
-{101}{}{A testalkatát meghazudtolva eléggé er?snek látszik.}
-{200}{}{Ez a férfi rettenetesen sovány, de elég dühös egyúttal.}
-{201}{}{Ez az ember elég er?snek látszik.}
-{202}{}{Sebesen szedi a lábát.}
-{210}{}{Ez a n? olyan benyomást kelt, mintha sosem fürdött volna életében.}
-{211}{}{Er?s harcosnak látszik.}
-{212}{}{Ez a férfi szemlátomást nem sok vizet zavar.}
-{245}{}{Csendet! Közel vannak.}
-{246}{}{Ölni rossz emberek.}
-{247}{}{Nem vinni el család t?lem.}
-{248}{}{Megvédem család.}
-{249}{}{Nem találhatnak meg minket.}
+{100}{}{A fÃ©rfi elÃ©ggÃ© er?s Ã©s Ã©ber.}
+{101}{}{A testalkatÃ¡t meghazudtolva elÃ©ggÃ© er?snek lÃ¡tszik.}
+{200}{}{Ez a fÃ©rfi rettenetesen sovÃ¡ny, de elÃ©g dÃ¼hÃ¶s egyÃºttal.}
+{201}{}{Ez az ember elÃ©g er?snek lÃ¡tszik.}
+{202}{}{Sebesen szedi a lÃ¡bÃ¡t.}
+{210}{}{Ez a n? olyan benyomÃ¡st kelt, mintha sosem fÃ¼rdÃ¶tt volna Ã©letÃ©ben.}
+{211}{}{Er?s harcosnak lÃ¡tszik.}
+{212}{}{Ez a fÃ©rfi szemlÃ¡tomÃ¡st nem sok vizet zavar.}
+{245}{}{Csendet! KÃ¶zel vannak.}
+{246}{}{Ã–lni rossz emberek.}
+{247}{}{Nem vinni el csalÃ¡d t?lem.}
+{248}{}{MegvÃ©dem csalÃ¡d.}
+{249}{}{Nem talÃ¡lhatnak meg minket.}
 {250}{}{?k rossz emberek.}
-{260}{}{Hajcsárok jönnek. Csituljatok!}
-{261}{}{Készüljetek! Közel vannak.}
-{262}{}{Nem visztek magatokkal harc nélkül!}
+{260}{}{HajcsÃ¡rok jÃ¶nnek. Csituljatok!}
+{261}{}{KÃ©szÃ¼ljetek! KÃ¶zel vannak.}
+{262}{}{Nem visztek magatokkal harc nÃ©lkÃ¼l!}
 {263}{}{Minket nem fognak rabul ejteni!}
-{264}{}{Azok a hajcsárok megfizetnek ezért!}
-{265}{}{Egyetlen hajcsár sem viheti el a családom.}
+{264}{}{Azok a hajcsÃ¡rok megfizetnek ezÃ©rt!}
+{265}{}{Egyetlen hajcsÃ¡r sem viheti el a csalÃ¡dom.}
 {300}{}{Te most meghalsz!}
-{301}{}{Én öl!}
-{302}{}{Te nem bánt család!}
-{303}{}{Te nem visz el család!}
-{304}{}{Én véd!}
-{305}{}{Bántalak téged!}
+{301}{}{Ã‰n Ã¶l!}
+{302}{}{Te nem bÃ¡nt csalÃ¡d!}
+{303}{}{Te nem visz el csalÃ¡d!}
+{304}{}{Ã‰n vÃ©d!}
+{305}{}{BÃ¡ntalak tÃ©ged!}
 {306}{}{Te megfizet!}
-{307}{}{Halál rád!}
-{308}{}{Bántani foglak!}
-{350}{}{Nem viszed el a családomat, hajcsár!}
-{351}{}{Meghalsz, söpredék!}
-{352}{}{Megfizetsz, te szemét!}
-{353}{}{A halálomig harcolok a családomért!}
-{354}{}{Nem menekülsz!}
-{355}{}{Nem viszed el a barátaimat!}
-{356}{}{Ezért elkaplak!}
-{357}{}{Istenverte hajcsárok!}
-{358}{}{Ezért megfizetsz!}
+{307}{}{HalÃ¡l rÃ¡d!}
+{308}{}{BÃ¡ntani foglak!}
+{350}{}{Nem viszed el a csalÃ¡domat, hajcsÃ¡r!}
+{351}{}{Meghalsz, sÃ¶predÃ©k!}
+{352}{}{Megfizetsz, te szemÃ©t!}
+{353}{}{A halÃ¡lomig harcolok a csalÃ¡domÃ©rt!}
+{354}{}{Nem menekÃ¼lsz!}
+{355}{}{Nem viszed el a barÃ¡taimat!}
+{356}{}{EzÃ©rt elkaplak!}
+{357}{}{Istenverte hajcsÃ¡rok!}
+{358}{}{EzÃ©rt megfizetsz!}

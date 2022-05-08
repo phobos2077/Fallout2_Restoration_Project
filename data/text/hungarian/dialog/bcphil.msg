@@ -1,56 +1,56 @@
-{100}{}{Egy Khan rablót látsz.}
-{101}{}{Phil, a Khan ?rök egyike.}
-{102}{}{Egy keménykötés? fiatal férfit látsz, fém páncélban. Állig fel van fegyverezve.}
-{103}{}{Szitává kellene l?nöm téged, de kiváncsi vagyok, mivel tudsz el?rukkolni.}
-{104}{}{Én keres kém. Megy ezen úton.}
-{105}{}{Én keres elveszett lány. Te tud merre talál?}
-{106}{}{Én jönni ide véletelen. Most menni.}
-{107}{}{Baszni meg. Én l?ni téged szita.}
-{108}{}{Öö. }
-{109}{}{Egy hallgatózót keresek, aki erre jött.}
-{110}{}{Egy elveszett lányt keresek. Nem láttad?}
-{111}{}{Sajnálom, rossz ösvényt követhettem véletlenül. Mennem kell.}
-{112}{}{El?rukkolok egy kis ólommal, seggfej!}
-{113}{}{Azt hiszem, megbeszélhetnénk ezt, mint két civilizált lény.}
-{114}{}{Ah, az én lennék. Most, hogy megtaláltál, mi következik?}
-{115}{}{Miért te kémked Rebecca?}
-{116}{}{Most már én tudni nem l?ni rossz személy. Kösz!}
-{117}{}{Semmi, most én menni.}
-{118}{}{Miért kémkedsz Rebecca után?}
-{119}{}{Csak biztos akartam benne lenni, hogy a megfelel? embert lövöm agyon. Kösz, és további kellemes napot!}
+{100}{}{Egy Khan rablÃ³t lÃ¡tsz.}
+{101}{}{Phil, a Khan ?rÃ¶k egyike.}
+{102}{}{Egy kemÃ©nykÃ¶tÃ©s? fiatal fÃ©rfit lÃ¡tsz, fÃ©m pÃ¡ncÃ©lban. Ãllig fel van fegyverezve.}
+{103}{}{SzitÃ¡vÃ¡ kellene l?nÃ¶m tÃ©ged, de kivÃ¡ncsi vagyok, mivel tudsz el?rukkolni.}
+{104}{}{Ã‰n keres kÃ©m. Megy ezen Ãºton.}
+{105}{}{Ã‰n keres elveszett lÃ¡ny. Te tud merre talÃ¡l?}
+{106}{}{Ã‰n jÃ¶nni ide vÃ©letelen. Most menni.}
+{107}{}{Baszni meg. Ã‰n l?ni tÃ©ged szita.}
+{108}{}{Ã–Ã¶. }
+{109}{}{Egy hallgatÃ³zÃ³t keresek, aki erre jÃ¶tt.}
+{110}{}{Egy elveszett lÃ¡nyt keresek. Nem lÃ¡ttad?}
+{111}{}{SajnÃ¡lom, rossz Ã¶svÃ©nyt kÃ¶vethettem vÃ©letlenÃ¼l. Mennem kell.}
+{112}{}{El?rukkolok egy kis Ã³lommal, seggfej!}
+{113}{}{Azt hiszem, megbeszÃ©lhetnÃ©nk ezt, mint kÃ©t civilizÃ¡lt lÃ©ny.}
+{114}{}{Ah, az Ã©n lennÃ©k. Most, hogy megtalÃ¡ltÃ¡l, mi kÃ¶vetkezik?}
+{115}{}{MiÃ©rt te kÃ©mked Rebecca?}
+{116}{}{Most mÃ¡r Ã©n tudni nem l?ni rossz szemÃ©ly. KÃ¶sz!}
+{117}{}{Semmi, most Ã©n menni.}
+{118}{}{MiÃ©rt kÃ©mkedsz Rebecca utÃ¡n?}
+{119}{}{Csak biztos akartam benne lenni, hogy a megfelel? embert lÃ¶vÃ¶m agyon. KÃ¶sz, Ã©s tovÃ¡bbi kellemes napot!}
 {120}{}{Hmm. Semmi, azt hiszem, megyek.}
-{121}{}{Nem bírom elhinni, hogy szerinted csak így idesétálsz, és még válaszokat is akarsz a kérdéseidre! Á, a fenébe is, úgyis meghalsz, és most még nagylelk? voltam. Bezártuk a kölyköt a hátsó szobába, és jól elszórakoztunk vele. Az a kurva Rebecca megpróbálja megkeresni, így rajta tartjuk a szemünket, csak hogy biztosak legyünk benne, nem jut túl közel.}
-{122}{}{Te beteg fejben. Én gyógyítani eltávolít fejed.}
-{123}{}{Mit értesz az alatt, hogy jól elszórakoztatok a lánnyal?}
-{124}{}{Óh, ez megmagyarázni. Most én megy.}
+{121}{}{Nem bÃ­rom elhinni, hogy szerinted csak Ã­gy idesÃ©tÃ¡lsz, Ã©s mÃ©g vÃ¡laszokat is akarsz a kÃ©rdÃ©seidre! Ã, a fenÃ©be is, Ãºgyis meghalsz, Ã©s most mÃ©g nagylelk? voltam. BezÃ¡rtuk a kÃ¶lykÃ¶t a hÃ¡tsÃ³ szobÃ¡ba, Ã©s jÃ³l elszÃ³rakoztunk vele. Az a kurva Rebecca megprÃ³bÃ¡lja megkeresni, Ã­gy rajta tartjuk a szemÃ¼nket, csak hogy biztosak legyÃ¼nk benne, nem jut tÃºl kÃ¶zel.}
+{122}{}{Te beteg fejben. Ã‰n gyÃ³gyÃ­tani eltÃ¡volÃ­t fejed.}
+{123}{}{Mit Ã©rtesz az alatt, hogy jÃ³l elszÃ³rakoztatok a lÃ¡nnyal?}
+{124}{}{Ã“h, ez megmagyarÃ¡zni. Most Ã©n megy.}
 {125}{}{Te beteg vagy. Azt hiszem, most elaltatlak.}
-{126}{}{Remek, érezd jól magad, én megyek.}
-{127}{}{Add át a lányt, és senkinek nem kell meghalnia!}
-{128}{}{Gondolj erre, miközben meghalsz, hülye!}
+{126}{}{Remek, Ã©rezd jÃ³l magad, Ã©n megyek.}
+{127}{}{Add Ã¡t a lÃ¡nyt, Ã©s senkinek nem kell meghalnia!}
+{128}{}{Gondolj erre, mikÃ¶zben meghalsz, hÃ¼lye!}
 {129}{}{}
 {130}{}{}
-{131}{}{Mi a fenéért tenném?}
-{132}{}{Mert jót tesz a lelki békédnek.}
-{133}{}{Mert én vagyok a legrosszabb dolog, ami történhet veled. Rosszabb, amit valaha is el tudtál képzelni. Most pedig add át a lányt, vagy megízlelheted a fájdalmat!}
-{134}{}{Mert ha nekiállunk harcolni, egyikünk meg fog halni. Nem akarom, hogy haláleset legyen, úgyhogy oldjuk meg ezt békesen. Oké?}
-{135}{}{Ez nem hangnem, baszódj meg!}
+{131}{}{Mi a fenÃ©Ã©rt tennÃ©m?}
+{132}{}{Mert jÃ³t tesz a lelki bÃ©kÃ©dnek.}
+{133}{}{Mert Ã©n vagyok a legrosszabb dolog, ami tÃ¶rtÃ©nhet veled. Rosszabb, amit valaha is el tudtÃ¡l kÃ©pzelni. Most pedig add Ã¡t a lÃ¡nyt, vagy megÃ­zlelheted a fÃ¡jdalmat!}
+{134}{}{Mert ha nekiÃ¡llunk harcolni, egyikÃ¼nk meg fog halni. Nem akarom, hogy halÃ¡leset legyen, Ãºgyhogy oldjuk meg ezt bÃ©kesen. OkÃ©?}
+{135}{}{Ez nem hangnem, baszÃ³dj meg!}
 {136}{}{}
 {137}{}{}
-{138}{}{Hm, ez úgy hangzik, mint egy kihívás. Elfogadom.}
+{138}{}{Hm, ez Ãºgy hangzik, mint egy kihÃ­vÃ¡s. Elfogadom.}
 {139}{}{}
 {140}{}{}
-{141}{}{Hmm... Én... Igen, oké. Itt a kulcs a cellájához, a kunyhó hátsó szobájában van. Vidd ?t, és t?njetek innen, de ne gyere vissza! Ha még egyszer idejössz, meglátjuk, melyikünk marad életben.}
-{142}{}{Lássuk, melyikünk jön ki ebb?l élve!}
-{143}{}{Kösz, a megfelel? módon cselekedtél.}
-{144}{}{Az egyetlen módja, hogy távozz innen: lábbal el?re, koporsóban.}
+{141}{}{Hmm... Ã‰n... Igen, okÃ©. Itt a kulcs a cellÃ¡jÃ¡hoz, a kunyhÃ³ hÃ¡tsÃ³ szobÃ¡jÃ¡ban van. Vidd ?t, Ã©s t?njetek innen, de ne gyere vissza! Ha mÃ©g egyszer idejÃ¶ssz, meglÃ¡tjuk, melyikÃ¼nk marad Ã©letben.}
+{142}{}{LÃ¡ssuk, melyikÃ¼nk jÃ¶n ki ebb?l Ã©lve!}
+{143}{}{KÃ¶sz, a megfelel? mÃ³don cselekedtÃ©l.}
+{144}{}{Az egyetlen mÃ³dja, hogy tÃ¡vozz innen: lÃ¡bbal el?re, koporsÃ³ban.}
 {145}{}{}
 {146}{}{}
-{147}{}{Arra gondolsz, aki be van zárva hátra? Akivel elszórakoztunk? Nem, nem láttam ?t.}
-{148}{}{Te beteg fejben. Én gyógyítani eltávolít fejed.}
-{149}{}{Mit értesz az alatt, hogy jól elszórakoztatok a lánnyal?}
-{150}{}{Ó. Most én menni.}
+{147}{}{Arra gondolsz, aki be van zÃ¡rva hÃ¡tra? Akivel elszÃ³rakoztunk? Nem, nem lÃ¡ttam ?t.}
+{148}{}{Te beteg fejben. Ã‰n gyÃ³gyÃ­tani eltÃ¡volÃ­t fejed.}
+{149}{}{Mit Ã©rtesz az alatt, hogy jÃ³l elszÃ³rakoztatok a lÃ¡nnyal?}
+{150}{}{Ã“. Most Ã©n menni.}
 {151}{}{Te beteg vagy. Azt hiszem, most elaltatlak.}
-{152}{}{Remek, érezd jól magad, én megyek.}
-{153}{}{Add át a lányt, és senkinek nem kell meghalnia!}
-{154}{}{Á, hát visszatértél. Lássuk, ki marad életben.}
-{155}{}{Kinyírtuk azt a kurvát, Chrissy-t, és most eljött a te id?d is!}
+{152}{}{Remek, Ã©rezd jÃ³l magad, Ã©n megyek.}
+{153}{}{Add Ã¡t a lÃ¡nyt, Ã©s senkinek nem kell meghalnia!}
+{154}{}{Ã, hÃ¡t visszatÃ©rtÃ©l. LÃ¡ssuk, ki marad Ã©letben.}
+{155}{}{KinyÃ­rtuk azt a kurvÃ¡t, Chrissy-t, Ã©s most eljÃ¶tt a te id?d is!}

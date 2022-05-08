@@ -1,64 +1,64 @@
-{100}{}{Você vê alguém cuja pele foi gravemente queimada. Parece estar de guarda.}
-{101}{}{Você vê um ghoul de guarda.}
-{102}{}{Você vê alguém cuja pele parece ter sido queimada com radiação. Tanta radiação deveria
- tê-lo matado, mas ele continua bem o suficiente. Parece que ele está montando
+{100}{}{VocÃª vÃª alguÃ©m cuja pele foi gravemente queimada. Parece estar de guarda.}
+{101}{}{VocÃª vÃª um ghoul de guarda.}
+{102}{}{VocÃª vÃª alguÃ©m cuja pele parece ter sido queimada com radiaÃ§Ã£o. Tanta radiaÃ§Ã£o deveria
+ tÃª-lo matado, mas ele continua bem o suficiente. Parece que ele estÃ¡ montando
  guarda aqui.}
-{110}{}{Bem-vindo à usina atômica. Apenas um aviso antes de entrar: se algo der errado enquanto você estiver
- aí dentro, botaremos a culpa em você, pele lisa.}
-{111}{}{Olá, amigo. Eu tenho que te informar que se algo der errado aí, qualquer não ghouls - como você -
- será considerado culpado.}
+{110}{}{Bem-vindo Ã  usina atÃ´mica. Apenas um aviso antes de entrar: se algo der errado enquanto vocÃª estiver
+ aÃ­ dentro, botaremos a culpa em vocÃª, pele lisa.}
+{111}{}{OlÃ¡, amigo. Eu tenho que te informar que se algo der errado aÃ­, qualquer nÃ£o ghouls - como vocÃª -
+ serÃ¡ considerado culpado.}
 {112}{}{Blook?}
-{113}{}{Eu vou tomar cuidado. Estou procurando algo e talvez você possa me ajudar.}
+{113}{}{Eu vou tomar cuidado. Estou procurando algo e talvez vocÃª possa me ajudar.}
 {114}{}{Isso me parece justo. Eu vou tomar cuidado. Adeus.}
-{120}{}{Você voltou, hein? Tomou o caminho errado?}
+{120}{}{VocÃª voltou, hein? Tomou o caminho errado?}
 {121}{}{Brugah.}
-{122}{}{Na verdade, preciso de outras instruções.}
-{123}{}{Pensei ter visto pessoas morando aqui. Isso é seguro?}
-{124}{}{Oh não. Tranquilo, estou só olhando em volta. Adeus.}
-{130}{}{Certo, você precisa de ajuda para encontrar o que? A sala de controle do reator, a sala de suprimentos, a sala 
- de controle do robô ou o poço do reator?}
+{122}{}{Na verdade, preciso de outras instruÃ§Ãµes.}
+{123}{}{Pensei ter visto pessoas morando aqui. Isso Ã© seguro?}
+{124}{}{Oh nÃ£o. Tranquilo, estou sÃ³ olhando em volta. Adeus.}
+{130}{}{Certo, vocÃª precisa de ajuda para encontrar o que? A sala de controle do reator, a sala de suprimentos, a sala 
+ de controle do robÃ´ ou o poÃ§o do reator?}
 {131}{}{A sala de controle do reator.}
 {132}{}{A sala de suprimentos.}
-{133}{}{A sala de controle do robô.}
-{134}{}{O poço do reator.}
-{135}{}{Acho que não preciso de instruções por enquanto. Adeus.}
-{140}{}{Acho que Jeremy tem uma chave. Os guardas nas portas de segurança têm chaves, assim como algumas pessoas
+{133}{}{A sala de controle do robÃ´.}
+{134}{}{O poÃ§o do reator.}
+{135}{}{Acho que nÃ£o preciso de instruÃ§Ãµes por enquanto. Adeus.}
+{140}{}{Acho que Jeremy tem uma chave. Os guardas nas portas de seguranÃ§a tÃªm chaves, assim como algumas pessoas
  que vivem aqui no reator.}
 {141}{}{Interessante. Deixe-me perguntar outra coisa.}
-{142}{}{Obrigado. Isso é tudo que eu precisava saber. Adeus.}
-{150}{}{O poço do reator fica logo depois da sala de controle e depois da sala de Festus. Mas antes, você
- precisa de um cartão vermelho para entrar.}
+{142}{}{Obrigado. Isso Ã© tudo que eu precisava saber. Adeus.}
+{150}{}{O poÃ§o do reator fica logo depois da sala de controle e depois da sala de Festus. Mas antes, vocÃª
+ precisa de um cartÃ£o vermelho para entrar.}
 {151}{}{Onde fica a sala de controle do reator?}
 {152}{}{Interessante. Deixe-me perguntar outra coisa.}
-{153}{}{Preciso de um cartão? Como faço ter um desses?}
-{154}{}{Obrigado. Isso é tudo que eu precisava saber. Adeus.}
-{160}{}{A sala de suprimentos fica em uma porta à esquerda daquela porta que você entrou 
-no prédio.
- Você precisa falar com Jeremy se quiser conseguir suprimentos.}
-{161}{}{Obrigado. No entanto, preciso saber onde está outra coisa.}
-{162}{}{Obrigado. Isso é tudo que eu precisava saber. Adeus.}
-{170}{}{Bem, temos uma tendência a gostar do vazamento de radiação aqui. Os resplandecentes gostam.
- Nenhum de nós se sentiria muito bem sem ele.}
+{153}{}{Preciso de um cartÃ£o? Como faÃ§o ter um desses?}
+{154}{}{Obrigado. Isso Ã© tudo que eu precisava saber. Adeus.}
+{160}{}{A sala de suprimentos fica em uma porta Ã  esquerda daquela porta que vocÃª entrou 
+no prÃ©dio.
+ VocÃª precisa falar com Jeremy se quiser conseguir suprimentos.}
+{161}{}{Obrigado. No entanto, preciso saber onde estÃ¡ outra coisa.}
+{162}{}{Obrigado. Isso Ã© tudo que eu precisava saber. Adeus.}
+{170}{}{Bem, temos uma tendÃªncia a gostar do vazamento de radiaÃ§Ã£o aqui. Os resplandecentes gostam.
+ Nenhum de nÃ³s se sentiria muito bem sem ele.}
 {171}{}{Interessante. Deixe-me perguntar outra coisa.}
 {172}{}{Como assim vazamentos?!?!}
-{173}{}{Oh, beleza. Isso é tudo que eu precisava saber. Adeus.}
-{180}{}{A sala de controle do reator fica pela porta à direita daquela pela qual você entrou no edifício.
- Em seguida, passe pela porta dos fundos. Passe o portão com segurança amarela. Depois, à direita.
- Mas você precisará de um cartão para a porta de segurança.}
+{173}{}{Oh, beleza. Isso Ã© tudo que eu precisava saber. Adeus.}
+{180}{}{A sala de controle do reator fica pela porta Ã  direita daquela pela qual vocÃª entrou no edifÃ­cio.
+ Em seguida, passe pela porta dos fundos. Passe o portÃ£o com seguranÃ§a amarela. Depois, Ã  direita.
+ Mas vocÃª precisarÃ¡ de um cartÃ£o para a porta de seguranÃ§a.}
 {181}{}{Interessante. Deixe-me perguntar outra coisa.}
-{182}{}{Preciso de um cartão? Como faço ter um desses?}
-{183}{}{Obrigado. Isso é tudo que eu precisava saber. Adeus.}
-{190}{}{Não sei por que você quer ir lá. Esse maldito robô de manutenção não funciona bem há anos.
- Mas é apenas depois da sala de controle do reator.}
+{182}{}{Preciso de um cartÃ£o? Como faÃ§o ter um desses?}
+{183}{}{Obrigado. Isso Ã© tudo que eu precisava saber. Adeus.}
+{190}{}{NÃ£o sei por que vocÃª quer ir lÃ¡. Esse maldito robÃ´ de manutenÃ§Ã£o nÃ£o funciona bem hÃ¡ anos.
+ Mas Ã© apenas depois da sala de controle do reator.}
 {191}{}{Onde fica a sala de controle do reator?}
 {192}{}{Interessante. Deixe-me perguntar outra coisa.}
-{193}{}{Preciso de um cartão? Como faço ter um desses?}
-{194}{}{Obrigado. Isso é tudo que eu precisava saber. Adeus.}
-{200}{}{Bom, eu não me preocuparia, só se você planeja ficar aqui por mais algumas semanas.
+{193}{}{Preciso de um cartÃ£o? Como faÃ§o ter um desses?}
+{194}{}{Obrigado. Isso Ã© tudo que eu precisava saber. Adeus.}
+{200}{}{Bom, eu nÃ£o me preocuparia, sÃ³ se vocÃª planeja ficar aqui por mais algumas semanas.
 A maior 
- parte da radiação que o reator vaza vai para a água de refrigeração e a bombeamos de volta para o subsolo.
+ parte da radiaÃ§Ã£o que o reator vaza vai para a Ã¡gua de refrigeraÃ§Ã£o e a bombeamos de volta para o subsolo.
  O pouco que vaza acima do solo nos faz sentir bem de alguma forma.}
-{201}{}{Oh, isso não parece tão ruim. Preciso perguntar outra coisa.}
+{201}{}{Oh, isso nÃ£o parece tÃ£o ruim. Preciso perguntar outra coisa.}
 {202}{}{Hmm, acho melhor seguir em frente. Adeus.}
-{300}{}{Certo. O que mais você gostaria de saber?}
-{301}{}{Preciso de instruções para outro lugar.}
+{300}{}{Certo. O que mais vocÃª gostaria de saber?}
+{301}{}{Preciso de instruÃ§Ãµes para outro lugar.}

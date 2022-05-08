@@ -1,54 +1,54 @@
-{100}{}{Widzisz w³aœciciela sklepu.}
+{100}{}{Widzisz wÅ‚aÅ›ciciela sklepu.}
 {101}{}{Widzisz Tubby'ego.}
-{150}{}{To jest w³aœciciel sklepu.}
-{151}{}{To jest Tubby, w³aœciciel sklepu.}
+{150}{}{To jest wÅ‚aÅ›ciciel sklepu.}
+{151}{}{To jest Tubby, wÅ‚aÅ›ciciel sklepu.}
 {152}{}{[ROZMAWIAJ]}
-{153}{}{Lepiej za³atwiaj swoje interesy gdzie indziej.}
-{154}{}{Jesteœ cz³owiekiem biznesu. Porozmawiajmy o interesach.}
-{155}{}{Mogê ciê o coœ zapytaæ?}
+{153}{}{Lepiej zaÅ‚atwiaj swoje interesy gdzie indziej.}
+{154}{}{JesteÅ› czÅ‚owiekiem biznesu. Porozmawiajmy o interesach.}
+{155}{}{MogÄ™ ciÄ™ o coÅ› zapytaÄ‡?}
 {156}{}{Bywaj.}
-{157}{}{Tak siê cieszê, ¿e ciê znów widzê. Co mogê dla ciebie zrobiæ tym razem?}
+{157}{}{Tak siÄ™ cieszÄ™, Å¼e ciÄ™ znÃ³w widzÄ™. Co mogÄ™ dla ciebie zrobiÄ‡ tym razem?}
 {158}{}{Pohandlujmy.}
-{159}{}{Mogê ciê o coœ zapytaæ?}
-{160}{}{Na razie nic. Dziêkujê.}
-{161}{}{Witam, drogi panie, witam u Tubby'ego. Jestem Tubby, we w³asnej osobie. Czym mogê s³u¿yæ?}
-{162}{}{Interesuje mnie wymiana towarów.}
-{163}{}{Potrzebujê informacji.}
-{164}{}{¯egnaj.}
-{165}{}{Witam, droga pani. Przyjaciele mówi¹ na mnie Tubby. Witam w moim skromnym sklepie. W czym mogê pani pomóc?}
-{166}{}{Chcê coœ kupiæ.}
-{167}{}{Potrzebujê informacji.}
-{168}{}{¯egnaj.}
-{169}{}{Lepiej bêdzie jak sobie pójdziesz.}
+{159}{}{MogÄ™ ciÄ™ o coÅ› zapytaÄ‡?}
+{160}{}{Na razie nic. DziÄ™kujÄ™.}
+{161}{}{Witam, drogi panie, witam u Tubby'ego. Jestem Tubby, we wÅ‚asnej osobie. Czym mogÄ™ sÅ‚uÅ¼yÄ‡?}
+{162}{}{Interesuje mnie wymiana towarÃ³w.}
+{163}{}{PotrzebujÄ™ informacji.}
+{164}{}{Å»egnaj.}
+{165}{}{Witam, droga pani. Przyjaciele mÃ³wiÄ… na mnie Tubby. Witam w moim skromnym sklepie. W czym mogÄ™ pani pomÃ³c?}
+{166}{}{ChcÄ™ coÅ› kupiÄ‡.}
+{167}{}{PotrzebujÄ™ informacji.}
+{168}{}{Å»egnaj.}
+{169}{}{Lepiej bÄ™dzie jak sobie pÃ³jdziesz.}
 {170}{}{Bywaj.}
-{171}{}{Co chcesz wiedzieæ?}
-{172}{}{Kto rz¹dzi w tym mieœcie?}
-{173}{}{Dlaczego wszyscy tutaj handluj¹ prochami?}
-{174}{}{Wiesz gdzie znajduje siê jakaœ Krypta?}
-{175}{}{Mo¿e jednak kupiê coœ od ciebie.}
-{176}{}{Niewa¿ne. ¯egnaj.}
-{177}{}{Ojej. Widzê, ¿e porozumienie siê z tob¹ mo¿e byæ nieco problematyczne. Kiwnij g³ow¹, jeœli chcesz coœ kupiæ.}
-{178}{}{[Kiwnij g³ow¹.]}
+{171}{}{Co chcesz wiedzieÄ‡?}
+{172}{}{Kto rzÄ…dzi w tym mieÅ›cie?}
+{173}{}{Dlaczego wszyscy tutaj handlujÄ… prochami?}
+{174}{}{Wiesz gdzie znajduje siÄ™ jakaÅ› Krypta?}
+{175}{}{MoÅ¼e jednak kupiÄ™ coÅ› od ciebie.}
+{176}{}{NiewaÅ¼ne. Å»egnaj.}
+{177}{}{Ojej. WidzÄ™, Å¼e porozumienie siÄ™ z tobÄ… moÅ¼e byÄ‡ nieco problematyczne. Kiwnij gÅ‚owÄ…, jeÅ›li chcesz coÅ› kupiÄ‡.}
+{178}{}{[Kiwnij gÅ‚owÄ….]}
 {179}{}{Pa-pa.}
-{180}{}{Obawiam siê, ¿e nikt. Nora to doœæ anarchistyczne osiedle. Obowi¹zuje jedynie darwinowska regu³a: prze¿yj¹ najsilniejsi, najszybsi i najsprytniejsi. Zastanów siê, czy nale¿ysz do którejœ z tych grup.}
-{181}{}{Dziêki.}
-{182}{}{Prochy to podstawa kruchej ekonomii tego osiedla. Inne miasta maj¹ zbo¿a albo z³oto, my mamy prochy.}
-{183}{}{Dziêkujê.}
-{184}{}{S³ysza³em o miejscu zwanym Kryptopolis, ale niestety nie mam pojêcia gdzie to jest. Widzisz, bardzo niewiele okolicznych miast mo¿e sobie pozwoliæ na œwiadczone w Kryptopolis us³ugi medyczne, wiêc ma³o kto tam zagl¹da.}
-{185}{}{Dobra. Dziêki.}
-{186}{}{To nie jest informacja, któr¹ mo¿na siê dzieliæ z byle kim.}
-{187}{}{Mo¿e stówka pomo¿e ci zmieniæ zdanie?}
-{188}{}{Mo¿e dam ci za ni¹ $50. Co ty na to?}
-{189}{}{To mo¿e zawrzyjmy uk³ad: albo ty powiesz mi co wiesz, albo ja przewietrzê ci mózg.}
-{190}{}{Niewa¿ne.}
-{191}{}{A mogê ciê zapytaæ o coœ innego?}
-{192}{}{No có¿, takie pieni¹dze z pewnoœci¹ uspokoi³y by moje sumienie. Tyle tylko, ¿e nie masz doœæ gotówki!}
-{193}{}{Pewnie zosta³a w innych spodniach. Pójdê jej poszukaæ.}
+{180}{}{Obawiam siÄ™, Å¼e nikt. Nora to doÅ›Ä‡ anarchistyczne osiedle. ObowiÄ…zuje jedynie darwinowska reguÅ‚a: przeÅ¼yjÄ… najsilniejsi, najszybsi i najsprytniejsi. ZastanÃ³w siÄ™, czy naleÅ¼ysz do ktÃ³rejÅ› z tych grup.}
+{181}{}{DziÄ™ki.}
+{182}{}{Prochy to podstawa kruchej ekonomii tego osiedla. Inne miasta majÄ… zboÅ¼a albo zÅ‚oto, my mamy prochy.}
+{183}{}{DziÄ™kujÄ™.}
+{184}{}{SÅ‚yszaÅ‚em o miejscu zwanym Kryptopolis, ale niestety nie mam pojÄ™cia gdzie to jest. Widzisz, bardzo niewiele okolicznych miast moÅ¼e sobie pozwoliÄ‡ na Å›wiadczone w Kryptopolis usÅ‚ugi medyczne, wiÄ™c maÅ‚o kto tam zaglÄ…da.}
+{185}{}{Dobra. DziÄ™ki.}
+{186}{}{To nie jest informacja, ktÃ³rÄ… moÅ¼na siÄ™ dzieliÄ‡ z byle kim.}
+{187}{}{MoÅ¼e stÃ³wka pomoÅ¼e ci zmieniÄ‡ zdanie?}
+{188}{}{MoÅ¼e dam ci za niÄ… $50. Co ty na to?}
+{189}{}{To moÅ¼e zawrzyjmy ukÅ‚ad: albo ty powiesz mi co wiesz, albo ja przewietrzÄ™ ci mÃ³zg.}
+{190}{}{NiewaÅ¼ne.}
+{191}{}{A mogÄ™ ciÄ™ zapytaÄ‡ o coÅ› innego?}
+{192}{}{No cÃ³Å¼, takie pieniÄ…dze z pewnoÅ›ciÄ… uspokoiÅ‚y by moje sumienie. Tyle tylko, Å¼e nie masz doÅ›Ä‡ gotÃ³wki!}
+{193}{}{Pewnie zostaÅ‚a w innych spodniach. PÃ³jdÄ™ jej poszukaÄ‡.}
 {194}{}{To raczej nie wystarczy.}
-{500}{}{Jasne Petey. Zaraz przyjdê.}
+{500}{}{Jasne Petey. Zaraz przyjdÄ™.}
 {501}{}{Zaczekaj, Petey!}
-{502}{}{Ju¿ lecê, ju¿ lecê.}
-{510}{}{Proszê bardzo, Petey.}
-{511}{}{Wiesz co, Petey, powinieneœ odstawiæ to gówno.}
-{512}{}{Masz, Petey, i zje¿d¿aj st¹d w cholerê.}
-{520}{}{Interesy z tob¹ to przyjemnoœæ.}
+{502}{}{JuÅ¼ lecÄ™, juÅ¼ lecÄ™.}
+{510}{}{ProszÄ™ bardzo, Petey.}
+{511}{}{Wiesz co, Petey, powinieneÅ› odstawiÄ‡ to gÃ³wno.}
+{512}{}{Masz, Petey, i zjeÅ¼dÅ¼aj stÄ…d w cholerÄ™.}
+{520}{}{Interesy z tobÄ… to przyjemnoÅ›Ä‡.}

@@ -1,17 +1,17 @@
-{100}{}{Egy ajtót látsz.}
-{101}{}{Rendkívül masszívnak t?nik.}
-{102}{}{Az ajtó meg sem mozdul.}
-{103}{}{(Észreveszel egy kis lyukat az ajtón, ahonnan valamiféle hang sz?r?dik ki.) Helló...}
-{104}{}{Öhh, helló...}
-{105}{}{Mióta tudnak az ajtók beszélni?}
-{106}{}{Ööö, szia.}
-{107}{}{BANDA PROBLÉMA VÉGTAG}
-{108}{}{Egy kattanás, és az ajtó kitárul.}
-{109}{}{Bocs, de megvagyunk enélkül.}
-{110}{}{Az ajtó csak a másik oldalról nyílik, így nem tudod feltörni a zárat.}
-{111}{}{Az ajtó a keretbe simul, ezért nincs hely arra, hogy letedd a csapdát.}
-{112}{}{Az ajtó beszakad a nagy nyomás alatt.}
-{113}{}{Az ajtó már ki van nyitva.}
-{114}{}{Kevés vagy te ehhez az ajtóhoz.}
+{100}{}{Egy ajtÃ³t lÃ¡tsz.}
+{101}{}{RendkÃ­vÃ¼l masszÃ­vnak t?nik.}
+{102}{}{Az ajtÃ³ meg sem mozdul.}
+{103}{}{(Ã‰szreveszel egy kis lyukat az ajtÃ³n, ahonnan valamifÃ©le hang sz?r?dik ki.) HellÃ³...}
+{104}{}{Ã–hh, hellÃ³...}
+{105}{}{MiÃ³ta tudnak az ajtÃ³k beszÃ©lni?}
+{106}{}{Ã–Ã¶Ã¶, szia.}
+{107}{}{BANDA PROBLÃ‰MA VÃ‰GTAG}
+{108}{}{Egy kattanÃ¡s, Ã©s az ajtÃ³ kitÃ¡rul.}
+{109}{}{Bocs, de megvagyunk enÃ©lkÃ¼l.}
+{110}{}{Az ajtÃ³ csak a mÃ¡sik oldalrÃ³l nyÃ­lik, Ã­gy nem tudod feltÃ¶rni a zÃ¡rat.}
+{111}{}{Az ajtÃ³ a keretbe simul, ezÃ©rt nincs hely arra, hogy letedd a csapdÃ¡t.}
+{112}{}{Az ajtÃ³ beszakad a nagy nyomÃ¡s alatt.}
+{113}{}{Az ajtÃ³ mÃ¡r ki van nyitva.}
+{114}{}{KevÃ©s vagy te ehhez az ajtÃ³hoz.}
 {120}{}{Herro, Ra Ra?}
 {121}{}{Hehe, door talkie. Hi!}

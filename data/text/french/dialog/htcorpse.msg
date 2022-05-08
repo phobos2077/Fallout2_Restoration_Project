@@ -1,1 +1,1 @@
-{100}{}{Tu vois les restes de plusieurs citoyens des Collines Brisées.}
+{100}{}{Tu vois les restes de plusieurs citoyens des Collines BrisÃ©es.}

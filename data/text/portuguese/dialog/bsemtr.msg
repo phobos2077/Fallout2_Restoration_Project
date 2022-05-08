@@ -1,5 +1,5 @@
-{100}{}{Você verá uma estranha engenhoca, próximo a um campo de força.}
-{101}{}{Você vê um emissor de campo de força.}
-{102}{}{Esta é a parede mais estranha que você já viu.}
-{103}{}{Este é um emissor de campo de força. Dá o poder ao campo de força.}
+{100}{}{VocÃª verÃ¡ uma estranha engenhoca, prÃ³ximo a um campo de forÃ§a.}
+{101}{}{VocÃª vÃª um emissor de campo de forÃ§a.}
+{102}{}{Esta Ã© a parede mais estranha que vocÃª jÃ¡ viu.}
+{103}{}{Este Ã© um emissor de campo de forÃ§a. DÃ¡ o poder ao campo de forÃ§a.}
 {104}{}{O emissor faz uma zunindo de som e explode.}

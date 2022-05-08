@@ -13,7 +13,7 @@
 {112}{}{You'd think that even someone like you would know better than that.}
 {113}{}{And I was just starting to get bored too.}
 {114}{}{Yeah! Party's on!}
-{115}{}{Vamos dançar.}
+{115}{}{Vamos danÃ§ar.}
 {116}{}{Ready to rumble?}
 {117}{}{Oh yeah, bring it on, badman.}
 {118}{}{I wanna see what your insides look like.}
@@ -40,7 +40,7 @@
 {139}{}{Gotta pay to play, pal.}
 {140}{}{Told you to knock it off. Too bad you didn't listen.}
 {141}{}{Now we've gotta come down hard on you.}
-{142}{}{Isso vai ser bem doloroso... para você.}
+{142}{}{Isso vai ser bem doloroso... para vocÃª.}
 {143}{}{Better put up that gat, pal.}
 {144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Better put that piece away.}
@@ -85,7 +85,7 @@
 {184}{}{I can't believe you're pulling that shit right in front of us.}
 {185}{}{Uh, excuse me. KNOCK THAT SHIT OFF!}
 {186}{}{Stop fucking with the door, you idiot.}
-{187}{}{O que você está fazendo?}
+{187}{}{O que vocÃª estÃ¡ fazendo?}
 {188}{}{Sheesh, just a lower quality of criminals every day. }
 {189}{}{Step away from the door.}
 {190}{}{Don't touch that door again.}

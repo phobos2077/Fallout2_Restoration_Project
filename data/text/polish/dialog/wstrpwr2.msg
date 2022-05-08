@@ -1,2 +1,2 @@
-{100}{}{Zahaczasz o ¿y³kê potykacza.}
-{101}{}{ zahacza o ¿y³kê potykacza.}
+{100}{}{Zahaczasz o Å¼yÅ‚kÄ™ potykacza.}
+{101}{}{ zahacza o Å¼yÅ‚kÄ™ potykacza.}

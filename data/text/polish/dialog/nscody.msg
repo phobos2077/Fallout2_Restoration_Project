@@ -1,2 +1,2 @@
-{100}{}{Kiedy pochodzisz do zw³ok Cody'ego, uderza ciê przyt³aczaj¹cy zapach wody koloñskiej Jules.}
-{101}{}{Kiedy pochodzisz do zw³ok Cody'ego, uderza ciê przyt³aczaj¹cy zapach, charakterystycznej wody koloñskiej.}
+{100}{}{Kiedy pochodzisz do zwÅ‚ok Cody'ego, uderza ciÄ™ przytÅ‚aczajÄ…cy zapach wody koloÅ„skiej Jules.}
+{101}{}{Kiedy pochodzisz do zwÅ‚ok Cody'ego, uderza ciÄ™ przytÅ‚aczajÄ…cy zapach, charakterystycznej wody koloÅ„skiej.}

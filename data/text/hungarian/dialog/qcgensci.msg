@@ -1,59 +1,59 @@
-{100}{}{Egy kutatót látsz.}
-{101}{}{Az Enklávé kutatócsapatának tagját látod.}
-{102}{}{Az Egyesült Államok Vegyi Kutatóalakulatának tagját látod.}
-{103}{}{Bárcsak ezeknek az eredményeknek lenne valami értelme is.}
-{104}{}{Ez egy rakás szar!}
-{105}{}{Ez az adat nem ellentmondásos.}
-{106}{}{Ezekb?l jó kis grafikont lehet rajzolni.}
-{107}{}{Mi az a maradék nélküli osztás?}
-{108}{}{Az összetev?ket ki kell egyensúlyozni.}
-{109}{}{A kibaszott spektrométer szétment.}
-{110}{}{Hol vannak a szerel?k, ha szükség van rájuk?}
-{111}{}{Éppen most kalibráltam az Infravörös-spektrométert.}
-{112}{}{Hogy halad a kristályosítás?}
-{113}{}{A szintézis létrejött, doktor.}
-{114}{}{Kiváló munka.}
-{115}{}{A Projekt az ütemterv szerint halad.}
-{116}{}{Az itteni eredmények kiválóak.}
+{100}{}{Egy kutatÃ³t lÃ¡tsz.}
+{101}{}{Az EnklÃ¡vÃ© kutatÃ³csapatÃ¡nak tagjÃ¡t lÃ¡tod.}
+{102}{}{Az EgyesÃ¼lt Ãllamok Vegyi KutatÃ³alakulatÃ¡nak tagjÃ¡t lÃ¡tod.}
+{103}{}{BÃ¡rcsak ezeknek az eredmÃ©nyeknek lenne valami Ã©rtelme is.}
+{104}{}{Ez egy rakÃ¡s szar!}
+{105}{}{Ez az adat nem ellentmondÃ¡sos.}
+{106}{}{Ezekb?l jÃ³ kis grafikont lehet rajzolni.}
+{107}{}{Mi az a maradÃ©k nÃ©lkÃ¼li osztÃ¡s?}
+{108}{}{Az Ã¶sszetev?ket ki kell egyensÃºlyozni.}
+{109}{}{A kibaszott spektromÃ©ter szÃ©tment.}
+{110}{}{Hol vannak a szerel?k, ha szÃ¼ksÃ©g van rÃ¡juk?}
+{111}{}{Ã‰ppen most kalibrÃ¡ltam az InfravÃ¶rÃ¶s-spektromÃ©tert.}
+{112}{}{Hogy halad a kristÃ¡lyosÃ­tÃ¡s?}
+{113}{}{A szintÃ©zis lÃ©trejÃ¶tt, doktor.}
+{114}{}{KivÃ¡lÃ³ munka.}
+{115}{}{A Projekt az Ã¼temterv szerint halad.}
+{116}{}{Az itteni eredmÃ©nyek kivÃ¡lÃ³ak.}
 {117}{}{Nos?}
-{118}{}{Ez a sugárzás kikészít.}
-{119}{}{Csak egy újabb gyakorlat.}
-{120}{}{Nem hagyhatom itt a munkám csak úgy.}
-{121}{}{Nem fogok biztonságba jutni.}
-{122}{}{Hányingerem van.}
-{123}{}{Hogy várják el, hogy áram nélkül dolgozzak?}
-{124}{}{Ez most szétbassza az egész kísérletem.}
-{125}{}{Ez túl sok.}
-{126}{}{Figyelmeztetniük kellett volna minket, hogy tesztelik a vészhelyzeti rendszereket.}
-{127}{}{Ég a tüd?m!}
-{128}{}{Nem látok! Ki oltotta le a villanyt?}
-{129}{}{Öhg, kkkhg, aahhh, öhg...}
-{130}{}{öhhheep, öhg}
-{131}{}{Vérzik a tüd?m!}
-{132}{}{Ég a szemem!}
+{118}{}{Ez a sugÃ¡rzÃ¡s kikÃ©szÃ­t.}
+{119}{}{Csak egy Ãºjabb gyakorlat.}
+{120}{}{Nem hagyhatom itt a munkÃ¡m csak Ãºgy.}
+{121}{}{Nem fogok biztonsÃ¡gba jutni.}
+{122}{}{HÃ¡nyingerem van.}
+{123}{}{Hogy vÃ¡rjÃ¡k el, hogy Ã¡ram nÃ©lkÃ¼l dolgozzak?}
+{124}{}{Ez most szÃ©tbassza az egÃ©sz kÃ­sÃ©rletem.}
+{125}{}{Ez tÃºl sok.}
+{126}{}{FigyelmeztetniÃ¼k kellett volna minket, hogy tesztelik a vÃ©szhelyzeti rendszereket.}
+{127}{}{Ã‰g a tÃ¼d?m!}
+{128}{}{Nem lÃ¡tok! Ki oltotta le a villanyt?}
+{129}{}{Ã–hg, kkkhg, aahhh, Ã¶hg...}
+{130}{}{Ã¶hhheep, Ã¶hg}
+{131}{}{VÃ©rzik a tÃ¼d?m!}
+{132}{}{Ã‰g a szemem!}
 {133}{}{Asszem, beteg vagyok.}
-{134}{}{Már alig tudok állni.}
+{134}{}{MÃ¡r alig tudok Ã¡llni.}
 {135}{}{Jaj neeeeeeeeeeee!}
-{136}{}{Már látom a fényt... jövök hozzád, anyu!}
-{137}{}{Nem látok senkit.}
-{138}{}{Ez csak egy újabb biztonsági gyakorlat lesz.}
-{139}{}{Ezek a katonák sosem fáradnak bele a gyakorlatokba?}
-{140}{}{Ne, már megint! Ez már a második ebben a hónapban.}
-{141}{}{Már megint pattognak a tojásfejek.}
-{142}{}{És csak azért, hogy fontosnak érezhessék magukat.}
-{143}{}{Micsoda id?pazarlás!}
-{144}{}{Mintha bárki is behatolhatna ide!}
-{145}{}{Hát ez az? Honnan is jönne egy behatoló? Honnan?}
-{146}{}{Mintha nem látnánk, ha behatolna ide valaki!}
-{147}{}{Már megint meghibásodott az a kurva riasztó! Nagyszer?!}
+{136}{}{MÃ¡r lÃ¡tom a fÃ©nyt... jÃ¶vÃ¶k hozzÃ¡d, anyu!}
+{137}{}{Nem lÃ¡tok senkit.}
+{138}{}{Ez csak egy Ãºjabb biztonsÃ¡gi gyakorlat lesz.}
+{139}{}{Ezek a katonÃ¡k sosem fÃ¡radnak bele a gyakorlatokba?}
+{140}{}{Ne, mÃ¡r megint! Ez mÃ¡r a mÃ¡sodik ebben a hÃ³napban.}
+{141}{}{MÃ¡r megint pattognak a tojÃ¡sfejek.}
+{142}{}{Ã‰s csak azÃ©rt, hogy fontosnak Ã©rezhessÃ©k magukat.}
+{143}{}{Micsoda id?pazarlÃ¡s!}
+{144}{}{Mintha bÃ¡rki is behatolhatna ide!}
+{145}{}{HÃ¡t ez az? Honnan is jÃ¶nne egy behatolÃ³? Honnan?}
+{146}{}{Mintha nem lÃ¡tnÃ¡nk, ha behatolna ide valaki!}
+{147}{}{MÃ¡r megint meghibÃ¡sodott az a kurva riasztÃ³! Nagyszer?!}
 {148}{}{Nincs nekem id?m erre a szarra!}
 {149}{}{Mit akarsz?}
-{150}{}{Nem látod, hogy dolgozom?}
-{151}{}{T?nés! Elfoglalt ember vagyok.}
+{150}{}{Nem lÃ¡tod, hogy dolgozom?}
+{151}{}{T?nÃ©s! Elfoglalt ember vagyok.}
 {152}{}{Nincs jobb dolgod?}
-{153}{}{Nem emlékszem, hogy vizsgálati alanyt rendeltem volna.}
-{154}{}{Mi a fenét akarsz?}
-{155}{}{Lépj olajra!}
-{156}{}{Buzerálj valaki mást!}
+{153}{}{Nem emlÃ©kszem, hogy vizsgÃ¡lati alanyt rendeltem volna.}
+{154}{}{Mi a fenÃ©t akarsz?}
+{155}{}{LÃ©pj olajra!}
+{156}{}{BuzerÃ¡lj valaki mÃ¡st!}
 {157}{}{Igen?}
-{158}{}{Ez a munka nagy odafigyelést igényel, szóval t?nés!}
+{158}{}{Ez a munka nagy odafigyelÃ©st igÃ©nyel, szÃ³val t?nÃ©s!}

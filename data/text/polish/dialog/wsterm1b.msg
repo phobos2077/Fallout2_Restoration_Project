@@ -1,71 +1,71 @@
 {100}{}{Terminal komputerowy.}
-{101}{}{Oszczêdzacz ekranu jest w³¹czony.}
-{102}{}{Nie mo¿esz odczytaæ, co pokazuje monitor.}
-{103}{}{System Bezpieczeñstwa Skynet                                     
+{101}{}{OszczÄ™dzacz ekranu jest wÅ‚Ä…czony.}
+{102}{}{Nie moÅ¼esz odczytaÄ‡, co pokazuje monitor.}
+{103}{}{System BezpieczeÅ„stwa Skynet                                     
  Intruz na Poziomie 1                                                 
- Uruchamiam Œrodki Zapobiegawcze na Poziomie 1                
- Œrodki Zapobiegawcze - Transmisja Przerwana                 
+ Uruchamiam Åšrodki Zapobiegawcze na Poziomie 1                
+ Åšrodki Zapobiegawcze - Transmisja Przerwana                 
  Uruchamiam Zautomatyzowane Systemy Naprawcze}
-{104}{}{System Bezpieczeñstwa Skynet                                     
+{104}{}{System BezpieczeÅ„stwa Skynet                                     
  Intruz na Poziomie 1                                                 
- Uruchamiam Œrodki Zapobiegawcze na Poziomie 1                
- Podejmujê próbê okrê¿nego pod³¹czenia zasilania do         
- generatorów pola.}
-{105}{}{System Bezpieczeñstwa Skynet                                     
+ Uruchamiam Åšrodki Zapobiegawcze na Poziomie 1                
+ PodejmujÄ™ prÃ³bÄ™ okrÄ™Å¼nego podÅ‚Ä…czenia zasilania do         
+ generatorÃ³w pola.}
+{105}{}{System BezpieczeÅ„stwa Skynet                                     
  Intruz na Poziomie 1                                                 
- Uruchamiam Œrodki Zapobiegawcze na Poziomie 1}
-{106}{}{Alarm na Poziomie 1 odwo³any - Fa³szywy Alarm}
-{107}{}{[Dostrzegasz na klawiaturze klawisz z napisem "Pomoc". Wciœnij Klawisz.]}
-{108}{}{W³am siê do systemu bezpieczeñstwa.}
-{109}{}{WyjdŸ.}
-{110}{}{Ajj! [Uderzasz ze z³oœci¹ piêœci¹ w klawiaturê]}
-{112}{}{System Bezpieczeñstwa Skynet                                     
- Wykryto Intruzów - Obszar Zewnêtrzny                         
- Rozpoczêto Automatyczn¹ Naprawê...                            
- Brama G³ówna - Awaria                                             
+ Uruchamiam Åšrodki Zapobiegawcze na Poziomie 1}
+{106}{}{Alarm na Poziomie 1 odwoÅ‚any - FaÅ‚szywy Alarm}
+{107}{}{[Dostrzegasz na klawiaturze klawisz z napisem "Pomoc". WciÅ›nij Klawisz.]}
+{108}{}{WÅ‚am siÄ™ do systemu bezpieczeÅ„stwa.}
+{109}{}{WyjdÅº.}
+{110}{}{Ajj! [Uderzasz ze zÅ‚oÅ›ciÄ… piÄ™Å›ciÄ… w klawiaturÄ™]}
+{112}{}{System BezpieczeÅ„stwa Skynet                                     
+ Wykryto IntruzÃ³w - Obszar ZewnÄ™trzny                         
+ RozpoczÄ™to AutomatycznÄ… NaprawÄ™...                            
+ Brama GÅ‚Ã³wna - Awaria                                             
  Ponowne Uruchamianie...                                             
- Brama G³ówna zg³asza, ¿e zasuwy wci¹¿ znajduj¹ siê na     
+ Brama GÅ‚Ã³wna zgÅ‚asza, Å¼e zasuwy wciÄ…Å¼ znajdujÄ… siÄ™ na     
  miejscu.                                                                
- Powrót do trybu oszczêdzania energii.}
-{113}{}{W³¹cz System Alarmowy na Poziomie 1}
-{114}{}{W³¹cz program auto-diagnostyczny.}
-{115}{}{WyjdŸ.}
-{116}{}{Ajj! [Uderzasz ze z³oœci¹ piêœci¹ w klawiaturê]}
-{118}{}{System Bezpieczeñstwa Skynet                                     
- Dostêp z tego terminala zosta³ zablokowany.}
-{120}{}{WyjdŸ.}
-{122}{}{B³¹d 29                                                                  
- Po³¹czenie z serwerem niemo¿liwe                                 
- Proszê restartowaæ system}
-{124}{}{WyjdŸ.}
-{125}{}{Trwa Analiza Polecenia Proszê Czekaæ...                            
- Przyjêto                                                              
- Wy³¹czam Systemy Alarmowe na Poziomie 1}
-{126}{}{[Przy takich tandetnych zabezpieczeniach trudno siê dziwiæ, ¿e wylecieli w powietrze.] WyjdŸ.}
-{127}{}{[Pojawia siê menu]                                                     
- Aby Wy³¹czyæ Alarm Wciœnij - 1                                    
- Aby Uruchomiæ Procedurê Diagnostyczn¹ Wciœnij - 2           
- Aby Zakoñczyæ Wciœnij - 3}
-{128}{}{Wciœnij 1}
-{129}{}{Wciœnij 2}
-{130}{}{Wciœnij 3}
-{131}{}{Uwaga! Ten program dzia³a najlepiej, gdy wszystkie inne programy s¹ wy³¹czone. Czy chcesz zrobiæ to teraz?}
+ PowrÃ³t do trybu oszczÄ™dzania energii.}
+{113}{}{WÅ‚Ä…cz System Alarmowy na Poziomie 1}
+{114}{}{WÅ‚Ä…cz program auto-diagnostyczny.}
+{115}{}{WyjdÅº.}
+{116}{}{Ajj! [Uderzasz ze zÅ‚oÅ›ciÄ… piÄ™Å›ciÄ… w klawiaturÄ™]}
+{118}{}{System BezpieczeÅ„stwa Skynet                                     
+ DostÄ™p z tego terminala zostaÅ‚ zablokowany.}
+{120}{}{WyjdÅº.}
+{122}{}{BÅ‚Ä…d 29                                                                  
+ PoÅ‚Ä…czenie z serwerem niemoÅ¼liwe                                 
+ ProszÄ™ restartowaÄ‡ system}
+{124}{}{WyjdÅº.}
+{125}{}{Trwa Analiza Polecenia ProszÄ™ CzekaÄ‡...                            
+ PrzyjÄ™to                                                              
+ WyÅ‚Ä…czam Systemy Alarmowe na Poziomie 1}
+{126}{}{[Przy takich tandetnych zabezpieczeniach trudno siÄ™ dziwiÄ‡, Å¼e wylecieli w powietrze.] WyjdÅº.}
+{127}{}{[Pojawia siÄ™ menu]                                                     
+ Aby WyÅ‚Ä…czyÄ‡ Alarm WciÅ›nij - 1                                    
+ Aby UruchomiÄ‡ ProcedurÄ™ DiagnostycznÄ… WciÅ›nij - 2           
+ Aby ZakoÅ„czyÄ‡ WciÅ›nij - 3}
+{128}{}{WciÅ›nij 1}
+{129}{}{WciÅ›nij 2}
+{130}{}{WciÅ›nij 3}
+{131}{}{Uwaga! Ten program dziaÅ‚a najlepiej, gdy wszystkie inne programy sÄ… wyÅ‚Ä…czone. Czy chcesz zrobiÄ‡ to teraz?}
 {132}{}{Tak}
 {133}{}{Nie}
-{134}{}{WyjdŸ.}
-{135}{}{Wy³¹czam wyszystkie programy                                      
- Wy³¹czam Program Ochronny Skynet - Poziom 1                
- Ostatni raz system sprawdzono 15 PaŸdŸernika 1990         
+{134}{}{WyjdÅº.}
+{135}{}{WyÅ‚Ä…czam wyszystkie programy                                      
+ WyÅ‚Ä…czam Program Ochronny Skynet - Poziom 1                
+ Ostatni raz system sprawdzono 15 PaÅºdÅºernika 1990         
  Trwa Sprawdzanie Systemu...                                       
- Szacowany pozosta³y czas do ukoñczenia - 99:24:60:60}
-{136}{}{[Nie s¹dzisz, ¿eby to siê mia³o zakoñczyæ w rozs¹dnym czasie.] WyjdŸ.}
-{137}{}{Dostêp Zabroniony... Dostêp Zabroniony...                         
+ Szacowany pozostaÅ‚y czas do ukoÅ„czenia - 99:24:60:60}
+{136}{}{[Nie sÄ…dzisz, Å¼eby to siÄ™ miaÅ‚o zakoÅ„czyÄ‡ w rozsÄ…dnym czasie.] WyjdÅº.}
+{137}{}{DostÄ™p Zabroniony... DostÄ™p Zabroniony...                         
  Jzaedd Zabroniony... Quada Adjfjef...                            
- Dostêp Przyznany                                                   
- Wy³¹czanie Systemów Alarmowych na Poziomie 1}
-{138}{}{WyjdŸ.}
-{139}{}{Nieupowa¿nione Wejœcie do Systemu                                
- Uruchamiam Blokadê Bezpieczeñstwa Terminala...                
- Dostêp do tego terminala zosta³ ODCIÊTY}
-{140}{}{WyjdŸ.}
-{200}{}{Komputer znajduje siê w trybie diagnostycznym. Proszê zaczekaæ, a¿ procedura diagnostyczna zostanie ukoñczona.}
+ DostÄ™p Przyznany                                                   
+ WyÅ‚Ä…czanie SystemÃ³w Alarmowych na Poziomie 1}
+{138}{}{WyjdÅº.}
+{139}{}{NieupowaÅ¼nione WejÅ›cie do Systemu                                
+ Uruchamiam BlokadÄ™ BezpieczeÅ„stwa Terminala...                
+ DostÄ™p do tego terminala zostaÅ‚ ODCIÄ˜TY}
+{140}{}{WyjdÅº.}
+{200}{}{Komputer znajduje siÄ™ w trybie diagnostycznym. ProszÄ™ zaczekaÄ‡, aÅ¼ procedura diagnostyczna zostanie ukoÅ„czona.}

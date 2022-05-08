@@ -1,138 +1,138 @@
-{100}{}{Du siehst einen untersetzten Shi, der aussieht, als wüsste er einiges.}
+{100}{}{Du siehst einen untersetzten Shi, der aussieht, als wÃ¼sste er einiges.}
 {101}{}{Du siehst Ken Lee, den Berater des Kaisers.}
-{102}{}{Du siehst einen untersetzten Shi mit Brille und der Andeutung eines Lächelns.}
-{103}{}{Was kann ich für dich tun, mein Freund?}
+{102}{}{Du siehst einen untersetzten Shi mit Brille und der Andeutung eines LÃ¤chelns.}
+{103}{}{Was kann ich fÃ¼r dich tun, mein Freund?}
 {104}{}{Was willst du?}
-{105}{}{Was kann ich für dich tun?}
+{105}{}{Was kann ich fÃ¼r dich tun?}
 {106}{}{Du?}
 {107}{}{Wer bist du?}
-{108}{}{Was ist das für ein Ort?}
+{108}{}{Was ist das fÃ¼r ein Ort?}
 {109}{}{Ich bin auf der Suche nach einigen Vermissten aus meinem Dorf.}
 {110}{}{Ich brauche Benzin.}
-{111}{}{Ich möchte mit dem Kaiser sprechen.}
-{112}{}{Ich komme im Auftrag der Hubologen, den Kaiser zu töten.}
+{111}{}{Ich mÃ¶chte mit dem Kaiser sprechen.}
+{112}{}{Ich komme im Auftrag der Hubologen, den Kaiser zu tÃ¶ten.}
 {113}{}{Nichts, danke. Wiedersehn.}
-{114}{}{Ich bin Ken Lee, der Berater des Kaisers. Und du, mein Freund, scheinst mir ein wenig schwer von Begriff. Also, merk dir: um zur Enklave zu gelangen, musst du den Poseidon-Tanker nehmen und dazu brauchst du Benzin. Ich wünsche dir viel Glück.}
+{114}{}{Ich bin Ken Lee, der Berater des Kaisers. Und du, mein Freund, scheinst mir ein wenig schwer von Begriff. Also, merk dir: um zur Enklave zu gelangen, musst du den Poseidon-Tanker nehmen und dazu brauchst du Benzin. Ich wÃ¼nsche dir viel GlÃ¼ck.}
 {115}{}{Tanke!}
-{116}{}{Ich bin Ken Lee. Ich bin der Berater des Kaisers. Der Kaiser wünscht nicht, dass ich mit dir spreche, daher unterlasse ich es. Verschwinde, Narr.}
+{116}{}{Ich bin Ken Lee. Ich bin der Berater des Kaisers. Der Kaiser wÃ¼nscht nicht, dass ich mit dir spreche, daher unterlasse ich es. Verschwinde, Narr.}
 {117}{}{Grrr!}
 {118}{}{Ach, Fremdling, ich kann dir nicht weiterhelfen. Vielleicht findest du die Antwort irgendwo anders. Leb wohl.}
 {119}{}{Lehwoll!}
 {120}{}{Ich bin Ken Lee. Ich bin der Berater des Kaisers der Shi. Ich verbreite die Weisheit des Kaisers. Und wer bist du?}
-{121}{}{Ich möchte den Kaiser sprechen.}
+{121}{}{Ich mÃ¶chte den Kaiser sprechen.}
 {122}{}{Ich bin}
-{123}{}{Du hörst dich an wie ein aufgeblasener Lakai.}
+{123}{}{Du hÃ¶rst dich an wie ein aufgeblasener Lakai.}
 {124}{}{Niemand Wichtiges. Wiedersehn.}
 {125}{}{Dies ist der Stahlpalast des Kaisers, das Herz von Shi-Town.}
 {126}{}{Und wo ist der Kaiser?}
-{127}{}{Was für eine Art von Forschung betreibt ihr hier?}
-{128}{}{Erzähl mir die Geschichte dieses Ortes.}
-{129}{}{Ach so. Bis später.}
+{127}{}{Was fÃ¼r eine Art von Forschung betreibt ihr hier?}
+{128}{}{ErzÃ¤hl mir die Geschichte dieses Ortes.}
+{129}{}{Ach so. Bis spÃ¤ter.}
 {130}{}{Wenn du den Kaiser sprechen willst, nenn mir deinen richtigen Namen.}
-{131}{}{Ja, natürlich. Ich bin}
+{131}{}{Ja, natÃ¼rlich. Ich bin}
 {132}{}{Sicher. Mein Name ist}
 {133}{}{Ja.}
 {134}{}{Vergiss es.}
-{135}{}{Nicht jedem widerfährt die Ehre, den Kaiser zu sehen. Zunächst musst du dich als würdig erweisen. Bist du bereit, dazu?}
+{135}{}{Nicht jedem widerfÃ¤hrt die Ehre, den Kaiser zu sehen. ZunÃ¤chst musst du dich als wÃ¼rdig erweisen. Bist du bereit, dazu?}
 {136}{}{Ja.}
-{137}{}{Nein. Ich musste in den letzten Monaten genug Prüfungen bestehen. Das reicht für den Rest meines Lebens. }
-{138}{}{Ich glaube kaum, dass der Kaiser dich zu sehen wünscht. Ich habe Befehl, niemanden einzulassen, der mir auf die Nerven geht oder das Böse ausdünstet. Du tust beides, Fremdling, also: guten Tag!}
+{137}{}{Nein. Ich musste in den letzten Monaten genug PrÃ¼fungen bestehen. Das reicht fÃ¼r den Rest meines Lebens. }
+{138}{}{Ich glaube kaum, dass der Kaiser dich zu sehen wÃ¼nscht. Ich habe Befehl, niemanden einzulassen, der mir auf die Nerven geht oder das BÃ¶se ausdÃ¼nstet. Du tust beides, Fremdling, also: guten Tag!}
 {139}{}{[Fertig]}
-{140}{}{Mit Beleidigungen erreichst du gar nichts, Fremder, man wird dich höchstens aus dem Palast werfen. Also hüte deine Zunge.}
-{141}{}{Das hättest du wohl gern!}
+{140}{}{Mit Beleidigungen erreichst du gar nichts, Fremder, man wird dich hÃ¶chstens aus dem Palast werfen. Also hÃ¼te deine Zunge.}
+{141}{}{Das hÃ¤ttest du wohl gern!}
 {142}{}{Fein.}
 {143}{}{Der Kaiser ist neugierigen Augen verborgen. Meine Aufgabe ist es, den Kaiser abzuschirmen, daher kann und werde ich dir nicht sagen, wo er ist. }
 {144}{}{Ich habe noch weitere Fragen.}
-{145}{}{Tschüss.}
-{146}{}{Unsere Forschungsarbeit wird die Welt verändern. Falls du noch mehr wissen willst, rate ich dir, Dr. Wong Yi Tze aufzusuchen. }
+{145}{}{TschÃ¼ss.}
+{146}{}{Unsere Forschungsarbeit wird die Welt verÃ¤ndern. Falls du noch mehr wissen willst, rate ich dir, Dr. Wong Yi Tze aufzusuchen. }
 {147}{}{Das werde ich. Aber ich habe noch weitere Fragen.}
 {148}{}{Das werde ich. Wiedersehn.}
-{149}{}{Wir sind Überlebende aus einem U-Boot Wrack. Als wir auf Grund liefen, haben wir das Metall des U-Boots verwendet und diesen Palast damit erbaut. Einige glauben die Geschichte nicht.}
-{150}{}{Hm. Hört sich fast so an, als würdest du sie deshalb kritisieren.}
+{149}{}{Wir sind Ãœberlebende aus einem U-Boot Wrack. Als wir auf Grund liefen, haben wir das Metall des U-Boots verwendet und diesen Palast damit erbaut. Einige glauben die Geschichte nicht.}
+{150}{}{Hm. HÃ¶rt sich fast so an, als wÃ¼rdest du sie deshalb kritisieren.}
 {151}{}{Alles klar. Danke. Wiedersehn.}
 {152}{}{Ach ja! Ich habe einige deiner Filme gesehen. Aber das ist doch bestimmt nicht dein richtiger Name?}
-{153}{}{Doch, natürlich.}
+{153}{}{Doch, natÃ¼rlich.}
 {154}{}{Nein. Mein richtiger Name ist}
 {155}{}{Das ist der einzige Name, den du wissen musst, Alter.}
-{156}{}{Das ist ganz und gar unmöglich. Auf Wiedersehen.}
+{156}{}{Das ist ganz und gar unmÃ¶glich. Auf Wiedersehen.}
 {157}{}{[Fertig]}
-{158}{}{Halte mich nicht für einfältig! Ich kenne mich aus im Geschäft. Ich bin schon einmal nach New Reno gereist.}
+{158}{}{Halte mich nicht fÃ¼r einfÃ¤ltig! Ich kenne mich aus im GeschÃ¤ft. Ich bin schon einmal nach New Reno gereist.}
 {159}{}{OK, mein Name ist}
 {160}{}{Das ist mein richtiger Name! Und nun lass mich mit dem Kaiser sprechen!}
-{161}{}{Großartig. Folgendes wird von dir verlangt: Nördlich von hier liegt die kleine Militärbasis Navarro. Dort haben sie viele Vertibirds. Wir benötigen Pläne und Blaupausen, um unsere eigenen Exemplare herzustellen. Beschaffe uns diese und du wirst den Kaiser sehen.}
+{161}{}{GroÃŸartig. Folgendes wird von dir verlangt: NÃ¶rdlich von hier liegt die kleine MilitÃ¤rbasis Navarro. Dort haben sie viele Vertibirds. Wir benÃ¶tigen PlÃ¤ne und Blaupausen, um unsere eigenen Exemplare herzustellen. Beschaffe uns diese und du wirst den Kaiser sehen.}
 {162}{}{Jetzt hast du es.}
 {163}{}{Vergiss es.}
-{164}{}{Willst du dich jetzt unserer Prüfung unterziehen?}
-{165}{}{Nö.}
+{164}{}{Willst du dich jetzt unserer PrÃ¼fung unterziehen?}
+{165}{}{NÃ¶.}
 {166}{}{Also gut, ich tu's.}
-{167}{}{Vermisste Dorfbewohner? Mir ist nichts darüber bekannt. Vielleicht weiß der Kaiser mehr darüber.}
+{167}{}{Vermisste Dorfbewohner? Mir ist nichts darÃ¼ber bekannt. Vielleicht weiÃŸ der Kaiser mehr darÃ¼ber.}
 {168}{}{Ich habe noch weitere Fragen.}
-{169}{}{Danke. Tschüss.}
-{170}{}{Du musst noch eine zweite Prüfung bestehen: Die Hubologen sind unsere Feinde. Ihr Anführer, AHS-9, entführt unsere Kinder und unterzieht sie einer Gehirnwäsche. Töte ihn zum Wohle der Shi und ich werde dir verraten, wie du mit dem Kaiser sprechen kannst.}
+{169}{}{Danke. TschÃ¼ss.}
+{170}{}{Du musst noch eine zweite PrÃ¼fung bestehen: Die Hubologen sind unsere Feinde. Ihr AnfÃ¼hrer, AHS-9, entfÃ¼hrt unsere Kinder und unterzieht sie einer GehirnwÃ¤sche. TÃ¶te ihn zum Wohle der Shi und ich werde dir verraten, wie du mit dem Kaiser sprechen kannst.}
 {171}{}{Er ist so gut wie tot.}
 {172}{}{Nein, ich glaube nicht.}
-{173}{}{Nein? Das betrübt mich, doch ich kann dich verstehen. Viel Glück auf deiner Suche. Wenn du deine Meinung änderst, weißt du ja, wo du mich findest.  }
+{173}{}{Nein? Das betrÃ¼bt mich, doch ich kann dich verstehen. Viel GlÃ¼ck auf deiner Suche. Wenn du deine Meinung Ã¤nderst, weiÃŸt du ja, wo du mich findest.  }
 {174}{}{Sicher. Ich habe noch weitere Fragen.}
-{175}{}{Jo. Tschüss.}
+{175}{}{Jo. TschÃ¼ss.}
 {176}{}{Ich bin gespannt auf das Ergebnis. Auf Wiedersehen.  }
 {177}{}{Auf Wiedersehen.}
-{178}{}{Kritisieren? Jeder Narr, der seine Nachforschungen richtig angestellt hat, weiß, dass das U-Boot Wrack das Fundament von Shi-Town ist. Es bringt einfach nichts mit denen zu streiten, die etwas anderes behaupten.}
+{178}{}{Kritisieren? Jeder Narr, der seine Nachforschungen richtig angestellt hat, weiÃŸ, dass das U-Boot Wrack das Fundament von Shi-Town ist. Es bringt einfach nichts mit denen zu streiten, die etwas anderes behaupten.}
 {179}{}{Das ist sehr besonnen von dir.}
-{180}{}{Das ist es. Und ich habe täglich mit diesen Leuten zu tun. Leider!}
+{180}{}{Das ist es. Und ich habe tÃ¤glich mit diesen Leuten zu tun. Leider!}
 {181}{}{Mmh, ich habe noch weitere Fragen.}
 {182}{}{Ja, du Armer. Mach's gut.}
-{183}{}{Du bist ein wahrhaft würdiger Empfänger unseres Benzins. Ich denke, ich kann dich getrost in unsere
- Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld für den großen Computer. Es ist
+{183}{}{Du bist ein wahrhaft wÃ¼rdiger EmpfÃ¤nger unseres Benzins. Ich denke, ich kann dich getrost in unsere
+ Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld fÃ¼r den groÃŸen Computer. Es ist
  ausgeschaltet. Mit dem Kennwort "CSPDMSHR-Shih-huang-ti-X9372" kannst du die Verbindung zum
  Kaisercomputer herstellen. Der Kaiser kann unser Benzin dahin leiten, wo du es brauchst.}
 {184}{}{Danke.}
 {185}{}{Wachen! Der Feind ist unter uns! Wachen!}
-{186}{}{Wirklich? Sicher möchtest du den Spieß umdrehen? Unsere Hilfe ist dir sicher, wenn du bereit bist, AHS-9 zu töten. }
+{186}{}{Wirklich? Sicher mÃ¶chtest du den SpieÃŸ umdrehen? Unsere Hilfe ist dir sicher, wenn du bereit bist, AHS-9 zu tÃ¶ten. }
 {187}{}{Er ist so gut wie tot.}
 {188}{}{Nein.}
-{189}{}{Großartig. Ich hoffe, ich werde bald Kunde von deinem Erfolg erhalten.}
+{189}{}{GroÃŸartig. Ich hoffe, ich werde bald Kunde von deinem Erfolg erhalten.}
 {190}{}{Das wirst du. Ich habe noch weitere Fragen.}
 {191}{}{Das wirst du. Wiedersehn.}
 {192}{}{In diesem Fall musst du unser Feind sein. Geh!}
 {193}{}{Auf Wiedersehen.}
-{194}{}{Mit dem Tod von AHS-9, dem Großen und Schrecklichen, sind die Hubologen keine wirkliche Gefahr mehr für uns und unsere Forschungsarbeit. Gute Arbeit! Wir stehen in deiner Schuld. Möchtest du den Kaiser sprechen?}
+{194}{}{Mit dem Tod von AHS-9, dem GroÃŸen und Schrecklichen, sind die Hubologen keine wirkliche Gefahr mehr fÃ¼r uns und unsere Forschungsarbeit. Gute Arbeit! Wir stehen in deiner Schuld. MÃ¶chtest du den Kaiser sprechen?}
 {195}{}{Ja.}
 {196}{}{Jetzt noch nicht. Ich habe noch weitere Fragen.}
-{197}{}{Du hast dich als Freund der Shi erwiesen. Ich denke, ich kann dich getrost in unsere Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld für den großen Computer. Es ist ausgeschaltet. Mit dem Kennwort "CSPDMSHR-Shih-huang-ti-X9372" kannst du die Verbindung zum Kaisercomputer herstellen. Ich hoffe, das wird dir von Nutzen sein.}
+{197}{}{Du hast dich als Freund der Shi erwiesen. Ich denke, ich kann dich getrost in unsere Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld fÃ¼r den groÃŸen Computer. Es ist ausgeschaltet. Mit dem Kennwort "CSPDMSHR-Shih-huang-ti-X9372" kannst du die Verbindung zum Kaisercomputer herstellen. Ich hoffe, das wird dir von Nutzen sein.}
 {198}{}{Der Kaiser ist ein COMPUTER?}
 {199}{}{Alles klar, danke.}
-{200}{}{Ja. Er speichert unsere Geschichte, unsere Forschungsarbeit und macht Vorhersagen über die Zukunft. Er ist bei weitem besser als irgendein fehlbares menschliches Wesen. Dennoch modifizieren wir seine Vorschläge mit unserem eigenen Wissen über die menschliche Natur.}
+{200}{}{Ja. Er speichert unsere Geschichte, unsere Forschungsarbeit und macht Vorhersagen Ã¼ber die Zukunft. Er ist bei weitem besser als irgendein fehlbares menschliches Wesen. Dennoch modifizieren wir seine VorschlÃ¤ge mit unserem eigenen Wissen Ã¼ber die menschliche Natur.}
 {201}{}{Ich...verstehe. Also danke, dass du dir die Zeit genommen hast.}
-{202}{}{Unsere Spione berichten uns, du hättest die Vertibird-Pläne den Hubologen gegeben. Stiehl sie für uns und du wirst reich belohnt.}
+{202}{}{Unsere Spione berichten uns, du hÃ¤ttest die Vertibird-PlÃ¤ne den Hubologen gegeben. Stiehl sie fÃ¼r uns und du wirst reich belohnt.}
 {203}{}{Alles klar. Ich habe ein paar Fragen.}
 {204}{}{Niemals.}
-{205}{}{Dank dir für die Vertibird-Pläne, Fremder. Womit können wir dir helfen?}
+{205}{}{Dank dir fÃ¼r die Vertibird-PlÃ¤ne, Fremder. Womit kÃ¶nnen wir dir helfen?}
 {206}{}{Ich habe ein paar Fragen.}
-{207}{}{Äh...nichts.}
-{208}{}{Sobald du die Vertibird-Pläne hast, gib sie Dr. Wong Yi Tze. Er wird schon etwas daraus machen.}
+{207}{}{Ã„h...nichts.}
+{208}{}{Sobald du die Vertibird-PlÃ¤ne hast, gib sie Dr. Wong Yi Tze. Er wird schon etwas daraus machen.}
 {209}{}{OK. Ich habe noch mehr Fragen.}
 {210}{}{OK. Wiedersehn.}
-{211}{}{. Ich möchte den Kaiser sehen.}
+{211}{}{. Ich mÃ¶chte den Kaiser sehen.}
 {212}{}{.}
-{213}{}{Denk dran, du musst die Pläne zu Dr. Wong Yi Tze bringen.}
+{213}{}{Denk dran, du musst die PlÃ¤ne zu Dr. Wong Yi Tze bringen.}
 {214}{}{Du beleidigst mich ja schon wieder! Vergiss es.}
-{215}{}{Ich habe dir bereits erklärt, dass ich deinen Namen wissen muss.}
+{215}{}{Ich habe dir bereits erklÃ¤rt, dass ich deinen Namen wissen muss.}
 {216}{}{Ist gut, mein Name ist }
 {217}{}{Vergiss es, Idiot!}
 {218}{}{Denk daran, der Kaiser erwartet den Tod von AHS-9.}
-{219}{}{Tut mir leid, aber ich kann dir nichts von unserem Benzin anbieten. Vielleicht sprichst du darüber mit dem Kaiser? }
+{219}{}{Tut mir leid, aber ich kann dir nichts von unserem Benzin anbieten. Vielleicht sprichst du darÃ¼ber mit dem Kaiser? }
 {220}{}{Wie mach ich das?}
 {221}{}{Kann ich noch eine Frage stellen?}
-{222}{}{Ich wünschte, ich könnte dir etwas von unserem Benzin geben, aber leider sind unsere Vorräte erschöpft. Sie wurden irgendwie zu den Hubologen umgeleitet. Vielleicht kannst du jemanden finden, der sie wieder zurückleitet.}
+{222}{}{Ich wÃ¼nschte, ich kÃ¶nnte dir etwas von unserem Benzin geben, aber leider sind unsere VorrÃ¤te erschÃ¶pft. Sie wurden irgendwie zu den Hubologen umgeleitet. Vielleicht kannst du jemanden finden, der sie wieder zurÃ¼ckleitet.}
 {223}{}{Kann ich jetzt den Kaiser sehen?}
-{224}{}{Ich möchte dich höflich daran erinnern, dass ich dir, sofern du die Vertibird-Pläne nicht Dr. Wong Yi Tze übergeben hast, keinen Zutritt zum Kaiser gewähren kann. Ich hoffe, du verstehst.}
+{224}{}{Ich mÃ¶chte dich hÃ¶flich daran erinnern, dass ich dir, sofern du die Vertibird-PlÃ¤ne nicht Dr. Wong Yi Tze Ã¼bergeben hast, keinen Zutritt zum Kaiser gewÃ¤hren kann. Ich hoffe, du verstehst.}
 {500}{}{Entferne dich, oder ich rufe die Wachen!}
 {501}{}{Verschwinde! Das ist die vorletzte Warnung.}
 {502}{}{Ich warne dich zum letzten Mal.}
 {503}{}{Wache!}
 {1430}{}{Der Kaiser ist neugierigen Augen verborgen und meine Aufgabe ist es, den Kaiser abzuschirmen.
  Allerdings hast du dich als Freund der Shi erwiesen. Ich denke, ich kann dich getrost in unsere
- Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld für den großen Computer.
+ Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld fÃ¼r den groÃŸen Computer.
  Es ist ausgeschaltet. Mit dem Kennwort "CSPDMSHR-Shih-huang-ti-X9372" kannst du die Verbindung
  zum Kaisercomputer herstellen. Ich hoffe, das wird dir von Nutzen sein.}
 {2001}{}{Ich...verstehe. Also danke, dass du dir die Zeit genommen hast. Ich habe jetzt ein Dorf zu retten.}

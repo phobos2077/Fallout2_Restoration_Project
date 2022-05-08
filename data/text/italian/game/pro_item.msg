@@ -545,7 +545,7 @@
 {27800}{}{Selce}
 {27801}{}{Una pietra usata per affilare armi.}
 {27900}{}{Interfaccia Neurale}
-{27901}{}{E' una specie di casco a cui sono collegati alcuni elettrodi. E' dotato di una presa standard che permette di connetterlo a un computer. Comunque è rotto.}
+{27901}{}{E' una specie di casco a cui sono collegati alcuni elettrodi. E' dotato di una presa standard che permette di connetterlo a un computer. Comunque Ã¨ rotto.}
 {28000}{}{Lancia Affilata}
 {28001}{}{Un'asta con la punta affilata. Il manico e' di legno, mentre la punta e' d'acciaio lavorato. Min FZ: 4.}
 {28100}{}{Occhio di Dixon}

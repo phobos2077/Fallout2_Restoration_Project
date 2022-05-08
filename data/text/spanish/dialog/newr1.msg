@@ -1,13 +1,13 @@
-{100}{}{Bienvenido a Nuevo Reno, la pequeÒa ciudad m·s grande del mundo. Bidones con hogueras
- y carteles de neÛn baÒan la ciudad con un horroroso resplandor.}
-{101}{}{Ante ti hay una lÛbrega explanada moteada de tumbas. Unos postes ensangrentados sobresalen de la
- tierra con los restos de cad·veres atados a ellos.}
+{100}{}{Bienvenido a Nuevo Reno, la peque√±a ciudad m√°s grande del mundo. Bidones con hogueras
+ y carteles de ne√≥n ba√±an la ciudad con un horroroso resplandor.}
+{101}{}{Ante ti hay una l√≥brega explanada moteada de tumbas. Unos postes ensangrentados sobresalen de la
+ tierra con los restos de cad√°veres atados a ellos.}
 {102}{}{Esto parece una antigua gasolinera de antes de la guerra. Un cementerio de
  coches achatarrados rodea los edificios.}
 {103}{}{Has llegado al establo. Una cerca de malla de alambre rodea las dos entradas
  de la granja.}
 {150}{}{[ANTERIOR]}
-{151}{}{[M¡S]}
+{151}{}{[M√ÅS]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
@@ -18,12 +18,12 @@
 {224}{}{}
 {300}{}{}
 {301}{}{Susurrador}
-{302}{}{AraÒa}
+{302}{}{Ara√±a}
 {303}{}{Mezquino}
 {304}{}{Maestro}
 {305}{}{Desplazador}
 {306}{}{Toro}
-{307}{}{Capit·n}
+{307}{}{Capit√°n}
 {308}{}{Silenciador}
 {309}{}{Zurdo}
 {310}{}{Diestro}
@@ -47,7 +47,7 @@
 {328}{}{Tendero}
 {329}{}{Ojos de Serpiente}
 {330}{}{Lobo}
-{331}{}{MatÛn}
+{331}{}{Mat√≥n}
 {332}{}{Smiley}
 {333}{}{Grueso}
 {334}{}{Perla}
@@ -60,13 +60,13 @@
 {341}{}{Nikki}
 {342}{}{Hombre de Hielo}
 {343}{}{Sly}
-{344}{}{MaÒoso}
+{344}{}{Ma√±oso}
 {345}{}{Charlie}
 {346}{}{Opio}
 {347}{}{Daga}
 {348}{}{Ojos de Angel}
 {349}{}{Solucionador}
-{350}{}{TiburÛn}
+{350}{}{Tibur√≥n}
 {351}{}{Sabueso}
 {352}{}{Reverendo}
 {353}{}{Magnum}
@@ -78,14 +78,14 @@
 {359}{}{Escarcha}
 {360}{}{Valentino}
 {361}{}{Sepulturero}
-{362}{}{PequeÒo Joe}
+{362}{}{Peque√±o Joe}
 {363}{}{Reina de Hielo}
 {364}{}{Interruptor}
 {365}{}{Pavos}
 {366}{}{Chapas}
 {367}{}{Afortunado}
 {368}{}{Santo}
-{369}{}{N˙meros}
+{369}{}{N√∫meros}
 {370}{}{Mantis}
 {371}{}{Scorpio}
 {372}{}{Gordo}
@@ -101,20 +101,20 @@
 {382}{}{Asesino}
 {383}{}{Santana}
 {384}{}{Joey}
-{385}{}{CÈsar}
+{385}{}{C√©sar}
 {386}{}{Mickey}
 {387}{}{Vagabundo}
 {388}{}{Giuseppe}
 {389}{}{Matarife}
 {390}{}{Rojo}
-{391}{}{RubÌ}
+{391}{}{Rub√≠}
 {392}{}{X}
 {393}{}{}
 {400}{}{}
 {401}{}{Directo}
 {402}{}{Jenny Giratoria}
-{403}{}{PistÛn}
-{404}{}{Hurac·n}
+{403}{}{Pist√≥n}
+{404}{}{Hurac√°n}
 {405}{}{Hijoputa Peligroso}
 {406}{}{Elegido}
 {407}{}{Toro Bravo}
@@ -130,9 +130,9 @@
 {417}{}{Destripador}
 {418}{}{Valkiria}
 {419}{}{Gancho}
-{420}{}{VÌbora}
+{420}{}{V√≠bora}
 {421}{}{Mala Mujerrr}
-{422}{}{MandÌbula de Piedra}
+{422}{}{Mand√≠bula de Piedra}
 {423}{}{Muro de piedra}
 {424}{}{Motosierra}
 {425}{}{Helen Ruedas}
@@ -140,10 +140,10 @@
 {427}{}{Viuda Negra}
 {428}{}{Smash}
 {429}{}{Dalila}
-{430}{}{Rel·mpago}
+{430}{}{Rel√°mpago}
 {431}{}{Jocco}
 {432}{}{Hermana Acero}
-{433}{}{S˙per alm·dena}
+{433}{}{S√∫per alm√°dena}
 {434}{}{Apollo}
 {435}{}{Scrapiron}
 {436}{}{Tigresa}
@@ -156,7 +156,7 @@
 {443}{}{Grace}
 {444}{}{Luke Mano de Hierro}
 {445}{}{Faith}
-{446}{}{Doctor PuÒo}
+{446}{}{Doctor Pu√±o}
 {447}{}{Monja Voladora}
 {448}{}{Balboa}
 {449}{}{Floyd Ray Willis}
@@ -164,7 +164,7 @@
 {451}{}{Cobra}
 {452}{}{Asesino Sangriento}
 {453}{}{Ejecutor}
-{454}{}{Tren de MercancÌas}
+{454}{}{Tren de Mercanc√≠as}
 {455}{}{Super Vixen}
 {456}{}{Jim Nuevo Reno}
 {457}{}{Triturador}
@@ -176,14 +176,14 @@
 {463}{}{Gata Callejera}
 {464}{}{Bad Mojo}
 {465}{}{Tanque}
-{466}{}{GrandullÛn}
+{466}{}{Grandull√≥n}
 {467}{}{Mynx}
-{468}{}{EscorpiÛn}
+{468}{}{Escorpi√≥n}
 {469}{}{Brioso}
 {470}{}{Cheetah}
 {471}{}{Veredicto}
 {472}{}{Juez Jurado}
-{473}{}{Martillo PilÛn}
+{473}{}{Martillo Pil√≥n}
 {474}{}{Athena}
 {475}{}{Perro Loco}
 {476}{}{}
@@ -210,7 +210,7 @@
 {516}{}{Sir Lance-a-lot}
 {517}{}{Dick Smothers}
 {518}{}{Jeremy Bolt}
-{519}{}{SeÒor Rosa}
+{519}{}{Se√±or Rosa}
 {520}{}{Ricky Rachtman}
 {521}{}{Cuthbert}
 {522}{}{Dave Manitas}
@@ -245,7 +245,7 @@
 {551}{}{Vixxxen}
 {552}{}{Mable Syrup}
 {553}{}{Amber Waves}
-{554}{}{Lucy F·cil}
+{554}{}{Lucy F√°cil}
 {555}{}{Amy Amplia}
 {556}{}{Molly Mounds}
 {557}{}{Honey Tits}
@@ -274,7 +274,7 @@
 {580}{}{Dominatrish}
 {581}{}{Princesa X}
 {582}{}{Carlotta}
-{583}{}{CariÒosa Mary}
+{583}{}{Cari√±osa Mary}
 {584}{}{April Wine}
 {585}{}{Ruby Red}
 {586}{}{Christie Chipps}
@@ -283,7 +283,7 @@
 {589}{}{Gata Callejera}
 {590}{}{Lady Chatterfly}
 {591}{}{The Postwoman}
-{592}{}{SeÒorita Holmes}
+{592}{}{Se√±orita Holmes}
 {593}{}{Debbie Dare}
 {594}{}{Jessica Long}
 {595}{}{Mynx}
@@ -295,7 +295,7 @@
 {701}{}{Tony Gunn}
 {702}{}{Mark "Acero" Torrance}
 {703}{}{Xander "Seguro" Holyland}
-{704}{}{AraÒa}
+{704}{}{Ara√±a}
 {705}{}{Slim}
 {706}{}{Dulce Jones}
 {707}{}{Il Roche}
@@ -318,16 +318,16 @@
 {1000}{}{Jules te conduce al interior de los bloques en ruinas que rodean Nuevo Reno. No crees que hubieras encontrado
  este lugar por tu cuenta. En cuanto llegas, Jules desaparece.}
 {1100}{}{El rastro te conduce a los bloques en ruinas que rodean Nuevo Reno.}
-{1200}{}{Descubres una pequeÒa caja de caudales met·lica. No la hubieras encontrado si no la hubieras estado buscando.}
-{1300}{}{Cody te conduce a los bloques en ruinas que rodean Nuevo Reno, y despuÈs vuelve por donde habÌa venido. No
+{1200}{}{Descubres una peque√±a caja de caudales met√°lica. No la hubieras encontrado si no la hubieras estado buscando.}
+{1300}{}{Cody te conduce a los bloques en ruinas que rodean Nuevo Reno, y despu√©s vuelve por donde hab√≠a venido. No
  crees que hubieras encontrado este lugar por tu cuenta.}
 {1400}{}{Has derrotado a tu primer contrincante.}
 {1401}{}{Has derrotado a tu segundo contrincante.}
 {1402}{}{Has derrotado a tu tercer contrincante.}
-{1403}{}{°Has derrotado al Masticador!}
-{1404}{}{Te has convertido en el nuevo campeÛn de los pesos pesados de Nuevo Reno.}
-{1405}{}{°Has derrotado a tu ˙ltimo contrincante!}
-{1500}{}{Has convencido a la seÒora Wright para que destruya los alambiques.}
-{1550}{}{Has sido testigo de la transacciÛn secreta.}
-{1600}{}{En el fragor de la lucha, el Masticador te arrancÛ la oreja.}
+{1403}{}{¬°Has derrotado al Masticador!}
+{1404}{}{Te has convertido en el nuevo campe√≥n de los pesos pesados de Nuevo Reno.}
+{1405}{}{¬°Has derrotado a tu √∫ltimo contrincante!}
+{1500}{}{Has convencido a la se√±ora Wright para que destruya los alambiques.}
+{1550}{}{Has sido testigo de la transacci√≥n secreta.}
+{1600}{}{En el fragor de la lucha, el Masticador te arranc√≥ la oreja.}
 {1700}{}{Enfurecido, le arrancas la oreja al Masticador.}

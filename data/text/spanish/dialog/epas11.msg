@@ -1,1 +1,1 @@
-{100}{}{Si estoy lo suficientemente cuidadoso, podría atar una cuerda y bajar a través de este hueco del ascensor.}
+{100}{}{Si estoy lo suficientemente cuidadoso, podrÃ­a atar una cuerda y bajar a travÃ©s de este hueco del ascensor.}

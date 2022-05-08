@@ -1,7 +1,7 @@
-{100}{}{Ez egy Nuka-Cola automata. Elt?n?dsz, vajon m?ködik-e még.}
-{101}{}{[bumm-bumm... rázás... sutty]}
-{102}{}{Egy üveg nem túl friss Nuka-Colához jutottál.}
+{100}{}{Ez egy Nuka-Cola automata. Elt?n?dsz, vajon m?kÃ¶dik-e mÃ©g.}
+{101}{}{[bumm-bumm... rÃ¡zÃ¡s... sutty]}
+{102}{}{Egy Ã¼veg nem tÃºl friss Nuka-ColÃ¡hoz jutottÃ¡l.}
 {103}{}{Uuhhhhh!}
 {104}{}{You dodge the bottle of Nuka-Cola.}
 {105}{}{ skillfully dodges a bottle of Nuka-Cola.}
-{106}{}{Az automata üres.}
+{106}{}{Az automata Ã¼res.}

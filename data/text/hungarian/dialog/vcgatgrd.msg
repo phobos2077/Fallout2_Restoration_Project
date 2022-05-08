@@ -1,118 +1,118 @@
-{100}{}{Menedékváros egyik ?rét látod.}
+{100}{}{MenedÃ©kvÃ¡ros egyik ?rÃ©t lÃ¡tod.}
 {101}{}{You see a diligent-looking guard. The guard is wearing metal armor and carrying a powerful-looking rifle.}
-{102}{}{Hé! T?nj onnan!}
-{103}{}{Egyszer már figyelmeztettünk.}
-{104}{}{Odass! ? az, aki legy?zte az Enklávét! Azonnal nyissátok ki a kaput!}
-{105}{}{Jó napot, Kapitány.}
-{106}{}{Uram! Örülök, hogy láthatom, uram!}
+{102}{}{HÃ©! T?nj onnan!}
+{103}{}{Egyszer mÃ¡r figyelmeztettÃ¼nk.}
+{104}{}{Odass! ? az, aki legy?zte az EnklÃ¡vÃ©t! Azonnal nyissÃ¡tok ki a kaput!}
+{105}{}{JÃ³ napot, KapitÃ¡ny.}
+{106}{}{Uram! Ã–rÃ¼lÃ¶k, hogy lÃ¡thatom, uram!}
 {107}{}{Uram, igenis, uram!}
-{108}{}{Menedékváros mindenek felett, Kapitány.}
-{109}{}{Elnézésedet kérem, Polgártárs, de ghoulok nem léphetnek be Menedékváros területére.}
-{110}{}{Elnézésedet kérem, Polgártárs, de mutánsok nem léphetnek be Menedékváros területére.}
-{111}{}{Jobb lesz, ha az a ghoul hátrébb lép a kaputól. Most rögtön!}
-{112}{}{Jobb lesz, ha az a mutáns hátrébb lép a kaputól. Most rögtön!}
-{113}{}{Jó napot, Polgártárs!}
-{114}{}{Örülök, hogy látlak, Polgártárs!}
-{115}{}{Menedékváros mindenek felett, Polgártárs.}
+{108}{}{MenedÃ©kvÃ¡ros mindenek felett, KapitÃ¡ny.}
+{109}{}{ElnÃ©zÃ©sedet kÃ©rem, PolgÃ¡rtÃ¡rs, de ghoulok nem lÃ©phetnek be MenedÃ©kvÃ¡ros terÃ¼letÃ©re.}
+{110}{}{ElnÃ©zÃ©sedet kÃ©rem, PolgÃ¡rtÃ¡rs, de mutÃ¡nsok nem lÃ©phetnek be MenedÃ©kvÃ¡ros terÃ¼letÃ©re.}
+{111}{}{Jobb lesz, ha az a ghoul hÃ¡trÃ©bb lÃ©p a kaputÃ³l. Most rÃ¶gtÃ¶n!}
+{112}{}{Jobb lesz, ha az a mutÃ¡ns hÃ¡trÃ©bb lÃ©p a kaputÃ³l. Most rÃ¶gtÃ¶n!}
+{113}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{114}{}{Ã–rÃ¼lÃ¶k, hogy lÃ¡tlak, PolgÃ¡rtÃ¡rs!}
+{115}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs.}
 {116}{}{Takarodj ki innen!}
 {117}{}{T?nj el!}
-{118}{}{Valami baj van? Vagy épp keresel magadnak egyet?}
-{119}{}{Nem akarlak bántani... ha nem muszáj.}
-{120}{}{Minden rendben, beléphetsz.}
-{121}{}{Jó napot, utazó!}
-{122}{}{Üdvözöllek!}
-{123}{}{Az Enklávé elleni harcod nagy hatással volt még az Els? Polgárra is.}
-{124}{}{Úgy hallottam, hogy délr?l, San Franciscóból jöttél. Igaz ez?}
-{125}{}{Igaz, hogy az Egyesült Államok még mindig háborúban áll?}
-{126}{}{Készíthetnél egy szép listát az utazásaidról a menedékvárosi számítógépek számára.}
-{127}{}{Bármikor szívesen látunk Menedékvárosban.}
-{128}{}{Szép rendben katalogizálnod kellene az Enklávé elleni tetteidet, és feltenni a Lista Szerverre.}
-{129}{}{Ghoulok nem léphetnek be. Fogd azt az... izét, és t?njetek innen! Most rögtön!}
-{130}{}{Mutánsok nem léphetnek be. Tüntesd el innen azt a... teremtményt! Most rögtön!}
-{131}{}{Lassan a testtel, barátom! Nem léphetsz be oda a megfelel? engedély nélkül.}
-{132}{}{Ehng-edh-éj?}
+{118}{}{Valami baj van? Vagy Ã©pp keresel magadnak egyet?}
+{119}{}{Nem akarlak bÃ¡ntani... ha nem muszÃ¡j.}
+{120}{}{Minden rendben, belÃ©phetsz.}
+{121}{}{JÃ³ napot, utazÃ³!}
+{122}{}{ÃœdvÃ¶zÃ¶llek!}
+{123}{}{Az EnklÃ¡vÃ© elleni harcod nagy hatÃ¡ssal volt mÃ©g az Els? PolgÃ¡rra is.}
+{124}{}{Ãšgy hallottam, hogy dÃ©lr?l, San FranciscÃ³bÃ³l jÃ¶ttÃ©l. Igaz ez?}
+{125}{}{Igaz, hogy az EgyesÃ¼lt Ãllamok mÃ©g mindig hÃ¡borÃºban Ã¡ll?}
+{126}{}{KÃ©szÃ­thetnÃ©l egy szÃ©p listÃ¡t az utazÃ¡saidrÃ³l a menedÃ©kvÃ¡rosi szÃ¡mÃ­tÃ³gÃ©pek szÃ¡mÃ¡ra.}
+{127}{}{BÃ¡rmikor szÃ­vesen lÃ¡tunk MenedÃ©kvÃ¡rosban.}
+{128}{}{SzÃ©p rendben katalogizÃ¡lnod kellene az EnklÃ¡vÃ© elleni tetteidet, Ã©s feltenni a Lista Szerverre.}
+{129}{}{Ghoulok nem lÃ©phetnek be. Fogd azt az... izÃ©t, Ã©s t?njetek innen! Most rÃ¶gtÃ¶n!}
+{130}{}{MutÃ¡nsok nem lÃ©phetnek be. TÃ¼ntesd el innen azt a... teremtmÃ©nyt! Most rÃ¶gtÃ¶n!}
+{131}{}{Lassan a testtel, barÃ¡tom! Nem lÃ©phetsz be oda a megfelel? engedÃ©ly nÃ©lkÃ¼l.}
+{132}{}{Ehng-edh-Ã©j?}
 {133}{}{[Elcsoszogsz]}
-{134}{}{Megfelel? engedély?}
-{135}{}{Bocsánat.}
-{136}{}{Úgy látom, a Kívülállók beltenyészetének egy tipikus példányával állunk szemben. Nézd, setét barátom! T?nj innen, miel?tt megsérülsz! Rendben?}
-{137}{}{ÉN NEM LENNI SETÉTT!}
+{134}{}{Megfelel? engedÃ©ly?}
+{135}{}{BocsÃ¡nat.}
+{136}{}{Ãšgy lÃ¡tom, a KÃ­vÃ¼lÃ¡llÃ³k beltenyÃ©szetÃ©nek egy tipikus pÃ©ldÃ¡nyÃ¡val Ã¡llunk szemben. NÃ©zd, setÃ©t barÃ¡tom! T?nj innen, miel?tt megsÃ©rÃ¼lsz! Rendben?}
+{137}{}{Ã‰N NEM LENNI SETÃ‰TT!}
 {138}{}{[Elcsoszogsz]}
-{139}{}{Ahogy mondod, "megfelel? engedély".}
-{140}{}{Ha be akarsz jutni Menedékvárosba, Wallace-szal, a vámparancsnokkal beszélj! T?le kaphatsz Napi Belép?t... indokolt esetben.}
-{141}{}{Elnézést, mit is kell tennem, hogy Napi Belép?t kaphassak?}
-{142}{}{Napi Belép?? Mi az?}
-{143}{}{Oké, kösz.}
-{144}{}{A Vámhivatal épületében dolgozik, t?led jobbra.}
-{145}{}{Most pedig menj! Nincs id?m Kívülállókat pesztrálni.}
-{146}{}{Mi az a Napi Belép??}
-{147}{}{Köszönöm a segítséget. Viszlát!}
-{148}{}{Egy kártya, amivel jogosult vagy sötétedésig a városban tartózkodni.}
-{149}{}{Most pedig menj! Nincs id?m Kívülállókat pesztrálni.}
-{150}{}{Elnézést, mit is kell tennem, hogy Napi Belép?t kaphassak?}
-{151}{}{Köszönöm a segítséget. Viszlát!}
-{152}{}{Ha be akarsz jutni, Napi Belép?re lesz szükséged.}
-{153}{}{Szerezz egy Napi Belép?t, és beengedlek!}
-{154}{}{Maradj távol a kaputól!}
-{155}{}{Nincs itt semmi látnivaló!}
-{156}{}{Van Napi Belép?d?}
+{139}{}{Ahogy mondod, "megfelel? engedÃ©ly".}
+{140}{}{Ha be akarsz jutni MenedÃ©kvÃ¡rosba, Wallace-szal, a vÃ¡mparancsnokkal beszÃ©lj! T?le kaphatsz Napi BelÃ©p?t... indokolt esetben.}
+{141}{}{ElnÃ©zÃ©st, mit is kell tennem, hogy Napi BelÃ©p?t kaphassak?}
+{142}{}{Napi BelÃ©p?? Mi az?}
+{143}{}{OkÃ©, kÃ¶sz.}
+{144}{}{A VÃ¡mhivatal Ã©pÃ¼letÃ©ben dolgozik, t?led jobbra.}
+{145}{}{Most pedig menj! Nincs id?m KÃ­vÃ¼lÃ¡llÃ³kat pesztrÃ¡lni.}
+{146}{}{Mi az a Napi BelÃ©p??}
+{147}{}{KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get. ViszlÃ¡t!}
+{148}{}{Egy kÃ¡rtya, amivel jogosult vagy sÃ¶tÃ©tedÃ©sig a vÃ¡rosban tartÃ³zkodni.}
+{149}{}{Most pedig menj! Nincs id?m KÃ­vÃ¼lÃ¡llÃ³kat pesztrÃ¡lni.}
+{150}{}{ElnÃ©zÃ©st, mit is kell tennem, hogy Napi BelÃ©p?t kaphassak?}
+{151}{}{KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get. ViszlÃ¡t!}
+{152}{}{Ha be akarsz jutni, Napi BelÃ©p?re lesz szÃ¼ksÃ©ged.}
+{153}{}{Szerezz egy Napi BelÃ©p?t, Ã©s beengedlek!}
+{154}{}{Maradj tÃ¡vol a kaputÃ³l!}
+{155}{}{Nincs itt semmi lÃ¡tnivalÃ³!}
+{156}{}{Van Napi BelÃ©p?d?}
 {157}{}{Sajnos nincs.}
-{158}{}{Nincs, mivel nincs rá szükségem. Polgár vagyok.}
-{159}{}{Mire véljem ezt, Polgártárs?! Nem szoktam hozzá az ilyen hangnemhez. Tessék, az igazolványom.}
-{160}{}{Egy Polgár, mi? Na, mutasd csak az igazolványod... "Polgártárs"!}
-{161}{}{Oppsz... nézzenek oda... hát nem otthon felejtettem?}
-{162}{}{Tessék.}
-{163}{}{Elnézést, félreértettük egymást. Tulajdonképpen csak az érdekel, hogy juthatok be a kapun.}
-{164}{}{Elnézésedet kérem, Polgártárs, nem akartalak megsérteni. NYISSÁTOK KI A KAPUT!}
+{158}{}{Nincs, mivel nincs rÃ¡ szÃ¼ksÃ©gem. PolgÃ¡r vagyok.}
+{159}{}{Mire vÃ©ljem ezt, PolgÃ¡rtÃ¡rs?! Nem szoktam hozzÃ¡ az ilyen hangnemhez. TessÃ©k, az igazolvÃ¡nyom.}
+{160}{}{Egy PolgÃ¡r, mi? Na, mutasd csak az igazolvÃ¡nyod... "PolgÃ¡rtÃ¡rs"!}
+{161}{}{Oppsz... nÃ©zzenek oda... hÃ¡t nem otthon felejtettem?}
+{162}{}{TessÃ©k.}
+{163}{}{ElnÃ©zÃ©st, fÃ©lreÃ©rtettÃ¼k egymÃ¡st. TulajdonkÃ©ppen csak az Ã©rdekel, hogy juthatok be a kapun.}
+{164}{}{ElnÃ©zÃ©sedet kÃ©rem, PolgÃ¡rtÃ¡rs, nem akartalak megsÃ©rteni. NYISSÃTOK KI A KAPUT!}
 {165}{}{Rendben.}
-{166}{}{Ne nézz minket bolondnak, Kívülálló! Ha be akarsz jutni, beszélj Wallace-szal és kérj t?le egy Napi Belép?t! Eszedbe ne jusson még egyszer ezzel próbálkozni, megértetted?}
-{167}{}{(Távozol.)}
-{168}{}{Hmmmm... érvényesnek t?nik. Furcsa, de nem emlékszem rád.}
-{169}{}{Arra semmi szükség. Elég ha megsasolod azt az írást, fiam!}
-{170}{}{Nem neheztelek, Polgártárs, ilyesmi velem is el?fordult már.}
-{171}{}{Ki érti ezt? Pedig én tisztán emlékszem rád... kedves... izomagy.}
-{172}{}{Bizonyára csak elkerültük egymást, Polgártárs.}
-{173}{}{Ó... igen? Nézd! Nem tudom, ki vagy, de hogy nem Polgár, az egészen biztos. Add csak ide azt az igazolványt és kotródj innen! Ha be akarsz jutni, kérj te is egy Napi Belép?t Wallace-tól, mint bárki más.}
-{174}{}{Erre gondolsz, barátom?... [meglobogtatod a papírt]... gyere, és vedd el! Képes vagy rá?}
-{175}{}{Elnézést, mit is kell tennem, hogy Napi Belép?t kaphassak?}
-{176}{}{Szóval nem érdekel? Sebaj. Viszlát!}
-{177}{}{Nos... rendben, NYISSÁTOK KI A KAPUT! Menedékváros mindenek felett!}
-{178}{}{Mi van?... Ja persze... Menedékváros mindenki felett!}
-{179}{}{Köszi.}
-{180}{}{Kérem a Napi Belép?t.}
-{181}{}{Tessék.}
-{182}{}{Nekem nem kell Napi Belép?. Polgár vagyok.}
-{183}{}{Csak egy pillanatra beugranék megnézni, hogy mi a helyzet.}
-{184}{}{Nincs id?m csevegni, értve vagyok? Na, t?nés innen!}
-{185}{}{Oké, oké. Csak barátságos próbáltam lenni.}
-{186}{}{(Távozol.)}
-{187}{}{Rendben, de miel?tt belépsz, át kell kutatnom a holmidat.}
-{188}{}{Ööö, oké.}
-{189}{}{Miért van erre szükség? Mit keresel?}
-{190}{}{Arról szó sem lehet. Inkább elmegyek.}
-{191}{}{Megállni! Kívülállók sötétedés után nem mehetnek a városba!}
-{192}{}{De hát van Napi Belép?m.}
-{193}{}{Miért? Én Polgár vagyok.}
-{194}{}{Értem, viszlát!}
-{195}{}{Polgár vagy? Úgy, mint múltkor, igaz? Na, add csak ide azt a "polgársági igazolványt" és takarodj innen!}
-{196}{}{Erre gondolsz, barátom?... [meglobogtatod a papírt]... gyere, és vedd el! Képes vagy rá?}
+{166}{}{Ne nÃ©zz minket bolondnak, KÃ­vÃ¼lÃ¡llÃ³! Ha be akarsz jutni, beszÃ©lj Wallace-szal Ã©s kÃ©rj t?le egy Napi BelÃ©p?t! Eszedbe ne jusson mÃ©g egyszer ezzel prÃ³bÃ¡lkozni, megÃ©rtetted?}
+{167}{}{(TÃ¡vozol.)}
+{168}{}{Hmmmm... Ã©rvÃ©nyesnek t?nik. Furcsa, de nem emlÃ©kszem rÃ¡d.}
+{169}{}{Arra semmi szÃ¼ksÃ©g. ElÃ©g ha megsasolod azt az Ã­rÃ¡st, fiam!}
+{170}{}{Nem neheztelek, PolgÃ¡rtÃ¡rs, ilyesmi velem is el?fordult mÃ¡r.}
+{171}{}{Ki Ã©rti ezt? Pedig Ã©n tisztÃ¡n emlÃ©kszem rÃ¡d... kedves... izomagy.}
+{172}{}{BizonyÃ¡ra csak elkerÃ¼ltÃ¼k egymÃ¡st, PolgÃ¡rtÃ¡rs.}
+{173}{}{Ã“... igen? NÃ©zd! Nem tudom, ki vagy, de hogy nem PolgÃ¡r, az egÃ©szen biztos. Add csak ide azt az igazolvÃ¡nyt Ã©s kotrÃ³dj innen! Ha be akarsz jutni, kÃ©rj te is egy Napi BelÃ©p?t Wallace-tÃ³l, mint bÃ¡rki mÃ¡s.}
+{174}{}{Erre gondolsz, barÃ¡tom?... [meglobogtatod a papÃ­rt]... gyere, Ã©s vedd el! KÃ©pes vagy rÃ¡?}
+{175}{}{ElnÃ©zÃ©st, mit is kell tennem, hogy Napi BelÃ©p?t kaphassak?}
+{176}{}{SzÃ³val nem Ã©rdekel? Sebaj. ViszlÃ¡t!}
+{177}{}{Nos... rendben, NYISSÃTOK KI A KAPUT! MenedÃ©kvÃ¡ros mindenek felett!}
+{178}{}{Mi van?... Ja persze... MenedÃ©kvÃ¡ros mindenki felett!}
+{179}{}{KÃ¶szi.}
+{180}{}{KÃ©rem a Napi BelÃ©p?t.}
+{181}{}{TessÃ©k.}
+{182}{}{Nekem nem kell Napi BelÃ©p?. PolgÃ¡r vagyok.}
+{183}{}{Csak egy pillanatra beugranÃ©k megnÃ©zni, hogy mi a helyzet.}
+{184}{}{Nincs id?m csevegni, Ã©rtve vagyok? Na, t?nÃ©s innen!}
+{185}{}{OkÃ©, okÃ©. Csak barÃ¡tsÃ¡gos prÃ³bÃ¡ltam lenni.}
+{186}{}{(TÃ¡vozol.)}
+{187}{}{Rendben, de miel?tt belÃ©psz, Ã¡t kell kutatnom a holmidat.}
+{188}{}{Ã–Ã¶Ã¶, okÃ©.}
+{189}{}{MiÃ©rt van erre szÃ¼ksÃ©g? Mit keresel?}
+{190}{}{ArrÃ³l szÃ³ sem lehet. InkÃ¡bb elmegyek.}
+{191}{}{MegÃ¡llni! KÃ­vÃ¼lÃ¡llÃ³k sÃ¶tÃ©tedÃ©s utÃ¡n nem mehetnek a vÃ¡rosba!}
+{192}{}{De hÃ¡t van Napi BelÃ©p?m.}
+{193}{}{MiÃ©rt? Ã‰n PolgÃ¡r vagyok.}
+{194}{}{Ã‰rtem, viszlÃ¡t!}
+{195}{}{PolgÃ¡r vagy? Ãšgy, mint mÃºltkor, igaz? Na, add csak ide azt a "polgÃ¡rsÃ¡gi igazolvÃ¡nyt" Ã©s takarodj innen!}
+{196}{}{Erre gondolsz, barÃ¡tom?... [meglobogtatod a papÃ­rt]... gyere, Ã©s vedd el! KÃ©pes vagy rÃ¡?}
 {197}{}{Rendben, rendben.}
-{198}{}{Menj és beszélj Wallace-szal, a Vámparancsnokkal! És... még valami. Kezdelek unni. Ha nem akarsz megsérülni, jobban teszed, ha lekopsz.}
-{199}{}{Már itt sem vagyok.}
-{200}{}{Igen, de ugye NAPI Belép?d van? És szerinted most nappal van? Lelépni!}
-{201}{}{Oké, oké.}
+{198}{}{Menj Ã©s beszÃ©lj Wallace-szal, a VÃ¡mparancsnokkal! Ã‰s... mÃ©g valami. Kezdelek unni. Ha nem akarsz megsÃ©rÃ¼lni, jobban teszed, ha lekopsz.}
+{199}{}{MÃ¡r itt sem vagyok.}
+{200}{}{Igen, de ugye NAPI BelÃ©p?d van? Ã‰s szerinted most nappal van? LelÃ©pni!}
+{201}{}{OkÃ©, okÃ©.}
 {202}{}{Sometimes Outworlders try to smuggle alcohol or addictive drugs into Vault City: Buffout, Jet, Psycho,
  Mentats... that sort of thing.}
-{203}{}{Értem. Tiszta vagyok, kutass át csak nyugodtan!}
-{204}{}{Tulajdonképpen semmi dolgom Menedékvárosban. Viszlát!}
+{203}{}{Ã‰rtem. Tiszta vagyok, kutass Ã¡t csak nyugodtan!}
+{204}{}{TulajdonkÃ©ppen semmi dolgom MenedÃ©kvÃ¡rosban. ViszlÃ¡t!}
 {205}{}{Sorry, can't let you in with those items in your possession. Drugs and alcohol are not permitted in Vault
  City. Ditch them then come back, all right?}
-{206}{}{Oké.}
-{207}{}{Úgy néz ki, minden rendben van. Bemehetsz.}
-{208}{}{Köszi.}
+{206}{}{OkÃ©.}
+{207}{}{Ãšgy nÃ©z ki, minden rendben van. Bemehetsz.}
+{208}{}{KÃ¶szi.}
 {209}{}{Ighen. Heer}
 {210}{}{Byeeee}
-{211}{}{Hmmmm... [érdekl?dve tanulmányoz egy ideig, majd megvonja a vállát]}
-{212}{}{Okhéééj.}
+{211}{}{Hmmmm... [Ã©rdekl?dve tanulmÃ¡nyoz egy ideig, majd megvonja a vÃ¡llÃ¡t]}
+{212}{}{OkhÃ©Ã©Ã©j.}
 {213}{}{Nyem. Byeeee}
 {214}{}{Rhendbhen}
 {215}{}{Ige'.}

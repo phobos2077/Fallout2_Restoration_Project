@@ -1,3 +1,3 @@
-{100}{}{Du hast einen Weidebereich für Brahmin betreten.}
-{200}{}{Du hast die Brahmin erfolgreich beschützt.}
-{202}{}{Du hast es nicht geschafft, die Brahmin mit Torr zu schützen.}
+{100}{}{Du hast einen Weidebereich fÃ¼r Brahmin betreten.}
+{200}{}{Du hast die Brahmin erfolgreich beschÃ¼tzt.}
+{202}{}{Du hast es nicht geschafft, die Brahmin mit Torr zu schÃ¼tzen.}

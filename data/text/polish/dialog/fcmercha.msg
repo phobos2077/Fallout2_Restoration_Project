@@ -1,47 +1,47 @@
 {100}{}{Widzisz handlarza.}
 {101}{}{Widzisz handlarza.}
-{102}{}{Widzisz ruchliwego handlarza Shi. Jak wszyscy tutaj wydaje siÍ byÊ pe≥ny øycia.}
-{103}{}{Kupujcie oúmiornice! Bardzo smaczne!}
+{102}{}{Widzisz ruchliwego handlarza Shi. Jak wszyscy tutaj wydaje siƒô byƒá pe≈Çny ≈ºycia.}
+{103}{}{Kupujcie o≈õmiornice! Bardzo smaczne!}
 {104}{}{Lubisz ryby! Mamy ryby!}
 {105}{}{Hej! Hej! Kup to! To!}
-{106}{}{Nie kupuj od niego! To bezczelny z≥odziej!}
-{107}{}{Podejdü tu i zobacz! Spodoba ci siÍ!}
+{106}{}{Nie kupuj od niego! To bezczelny z≈Çodziej!}
+{107}{}{Podejd≈∫ tu i zobacz! Spodoba ci siƒô!}
 {108}{}{Zobacz to! Zobacz!}
 {109}{}{Ej, lao wai! Chcesz interes? Ja mam interesy!}
-{110}{}{Tutaj! Tutaj! Chodücie tutaj!}
-{111}{}{Myúlisz, øe to jest dobre? SprÛbuj tego!}
-{112}{}{Mamy ryby, mamy glony, mamy ryø, mamy... ee...}
-{113}{}{Duøo tu nie roúnie, ale co roúnie, to mamy tutaj!}
+{110}{}{Tutaj! Tutaj! Chod≈∫cie tutaj!}
+{111}{}{My≈õlisz, ≈ºe to jest dobre? Spr√≥buj tego!}
+{112}{}{Mamy ryby, mamy glony, mamy ry≈º, mamy... ee...}
+{113}{}{Du≈ºo tu nie ro≈õnie, ale co ro≈õnie, to mamy tutaj!}
 {114}{}{Do domu! Do domu, lao wai!}
 {115}{}{Nie chcemy twojego biznesu!}
-{116}{}{Odejdü! Odejdü!}
-{117}{}{Twoje pieniπdze tu nie dobre! Idü!}
-{118}{}{Idü juø!}
-{119}{}{Nie lubisz walczyÊ? Mai Da Chiang ma broÒ dla ciebie!}
+{116}{}{Odejd≈∫! Odejd≈∫!}
+{117}{}{Twoje pieniƒÖdze tu nie dobre! Id≈∫!}
+{118}{}{Id≈∫ ju≈º!}
+{119}{}{Nie lubisz walczyƒá? Mai Da Chiang ma bro≈Ñ dla ciebie!}
 {120}{}{Ty kochanek i nie walczysz, co?}
 {121}{}{Ej, pasikoniku!}
-{122}{}{Kupujcie oúmiornice! Bardzo smaczne!}
+{122}{}{Kupujcie o≈õmiornice! Bardzo smaczne!}
 {123}{}{Lubisz ryby! Mamy ryby!}
 {124}{}{Hej! Hej! Kup to! To!}
-{125}{}{Nie kupuj od niego! To bezczelny z≥odziej!}
-{126}{}{Podejdü tu i zobacz! Spodoba ci siÍ!}
+{125}{}{Nie kupuj od niego! To bezczelny z≈Çodziej!}
+{126}{}{Podejd≈∫ tu i zobacz! Spodoba ci siƒô!}
 {127}{}{Zobacz to! Zobacz!}
 {128}{}{Ej, lao wai! Chcesz interes? Ja mam interesy!}
-{129}{}{Tutaj! Tutaj! Chodücie tutaj!}
-{130}{}{Myúlisz, øe to jest dobre? SprÛbuj tego!}
-{131}{}{Mamy ryby, mamy glony, mamy ryø, mamy... ee...}
-{132}{}{Duøo tu nie roúnie, ale co roúnie, to mamy tutaj!}
-{133}{}{Mamy wyprzedaø z okazji úmierci doradcy!}
-{134}{}{Rany... czy nowy przywÛdca da nam nowe podatki?}
+{129}{}{Tutaj! Tutaj! Chod≈∫cie tutaj!}
+{130}{}{My≈õlisz, ≈ºe to jest dobre? Spr√≥buj tego!}
+{131}{}{Mamy ryby, mamy glony, mamy ry≈º, mamy... ee...}
+{132}{}{Du≈ºo tu nie ro≈õnie, ale co ro≈õnie, to mamy tutaj!}
+{133}{}{Mamy wyprzeda≈º z okazji ≈õmierci doradcy!}
+{134}{}{Rany... czy nowy przyw√≥dca da nam nowe podatki?}
 {135}{}{Biedny Ken Lee.}
-{136}{}{Miasto Shi nigdy juø nie bÍdzie takie samo bez Kena Lee.}
+{136}{}{Miasto Shi nigdy ju≈º nie bƒôdzie takie samo bez Kena Lee.}
 {137}{}{Lubisz ryby! Mamy ryby!}
 {138}{}{Hej! Hej! Kup to! To!}
-{139}{}{Nie kupuj od niego! To bezczelny z≥odziej!}
-{140}{}{Podejdü tu i zobacz! Spodoba ci siÍ!}
+{139}{}{Nie kupuj od niego! To bezczelny z≈Çodziej!}
+{140}{}{Podejd≈∫ tu i zobacz! Spodoba ci siƒô!}
 {141}{}{Zobacz to! Zobacz!}
 {142}{}{Ej, lao wai! Chcesz interes? Ja mam interesy!}
-{143}{}{Tutaj! Tutaj! Chodücie tutaj!}
-{144}{}{Myúlisz, øe to jest dobre? SprÛbuj tego!}
-{145}{}{Mamy ryby, mamy glony, mamy ryø, mamy... ee...}
-{146}{}{Duøo tu nie roúnie, ale co roúnie, to mamy tutaj!}
+{143}{}{Tutaj! Tutaj! Chod≈∫cie tutaj!}
+{144}{}{My≈õlisz, ≈ºe to jest dobre? Spr√≥buj tego!}
+{145}{}{Mamy ryby, mamy glony, mamy ry≈º, mamy... ee...}
+{146}{}{Du≈ºo tu nie ro≈õnie, ale co ro≈õnie, to mamy tutaj!}

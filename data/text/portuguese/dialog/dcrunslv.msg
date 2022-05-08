@@ -1,44 +1,44 @@
-{100}{}{Você vê um homem grande e de aparência primitiva.}
-{101}{}{Você vê uma mulher primitiva delgada.}
-{200}{}{Você vê um homem de aparência estranha.}
-{201}{}{Você vê um homem de aparência irregular.}
-{202}{}{Você vê um homem em roupas esfarrapadas.}
-{210}{}{Você vê uma mulher muito suja.}
-{211}{}{Você vê uma mulher bastante suja.}
-{212}{}{Você vê uma mulher de aparência magra.}
-{270}{}{Eles não me encontram.}
+{100}{}{VocÃª vÃª um homem grande e de aparÃªncia primitiva.}
+{101}{}{VocÃª vÃª uma mulher primitiva delgada.}
+{200}{}{VocÃª vÃª um homem de aparÃªncia estranha.}
+{201}{}{VocÃª vÃª um homem de aparÃªncia irregular.}
+{202}{}{VocÃª vÃª um homem em roupas esfarrapadas.}
+{210}{}{VocÃª vÃª uma mulher muito suja.}
+{211}{}{VocÃª vÃª uma mulher bastante suja.}
+{212}{}{VocÃª vÃª uma mulher de aparÃªncia magra.}
+{270}{}{Eles nÃ£o me encontram.}
 {271}{}{Deve se esconder. Deve se esconder.}
 {272}{}{Por que eles querem machucar?}
 {273}{}{Me assusta.}
-{274}{}{Eu não luta.}
+{274}{}{Eu nÃ£o luta.}
 {275}{}{Eu quero viver.}
-{276}{}{Não machuca família.}
+{276}{}{NÃ£o machuca famÃ­lia.}
 {280}{}{Oh, merda!}
-{281}{}{Por que eles estão fazendo isso?}
-{282}{}{E a minha família?}
-{283}{}{Eu não quero morrer.}
-{284}{}{Eu não quero ser um escravo.}
-{285}{}{Eu mereço melhor do que isso.}
+{281}{}{Por que eles estÃ£o fazendo isso?}
+{282}{}{E a minha famÃ­lia?}
+{283}{}{Eu nÃ£o quero morrer.}
+{284}{}{Eu nÃ£o quero ser um escravo.}
+{285}{}{Eu mereÃ§o melhor do que isso.}
 {300}{}{Ahhh!}
-{301}{}{Não mate! Não mate!}
+{301}{}{NÃ£o mate! NÃ£o mate!}
 {302}{}{Pare!}
 {303}{}{Socorro!}
 {304}{}{Corre!}
 {305}{}{Deixe sozinho!}
-{306}{}{Não machuque!}
+{306}{}{NÃ£o machuque!}
 {307}{}{Nenhum mal!}
-{308}{}{Eu não lutar!}
+{308}{}{Eu nÃ£o lutar!}
 {350}{}{Correr para sua vida!}
-{351}{}{Não deixe que eles o peguem!}
+{351}{}{NÃ£o deixe que eles o peguem!}
 {352}{}{Escravistas! Corra disso!}
-{353}{}{Ajude alguém! Por favor!}
+{353}{}{Ajude alguÃ©m! Por favor!}
 {354}{}{Corra disso, Marty!}
 {355}{}{Ahhh!}
 {356}{}{Pare a insanidade!}
-{357}{}{Não fizemos nada! Deixe-nos em paz!}
-{358}{}{Eu reconheço essa tatuagem!}
-{359}{}{Não, por favor!}
-{360}{}{Por favor, não me mate!}
-{361}{}{Eu não lutar; não me mate!}
-{362}{}{Por favor, eu não quero morrer!}
-{363}{}{Vocês são escravistas não são? Oh Deus.}
+{357}{}{NÃ£o fizemos nada! Deixe-nos em paz!}
+{358}{}{Eu reconheÃ§o essa tatuagem!}
+{359}{}{NÃ£o, por favor!}
+{360}{}{Por favor, nÃ£o me mate!}
+{361}{}{Eu nÃ£o lutar; nÃ£o me mate!}
+{362}{}{Por favor, eu nÃ£o quero morrer!}
+{363}{}{VocÃªs sÃ£o escravistas nÃ£o sÃ£o? Oh Deus.}

@@ -1,7 +1,7 @@
-{100}{}{Du siehst einen Mann mit wachsamen Augen, der sehr geschäftsmäßig wirkt.}
-{101}{}{Du siehst einen Würfelspiel-Croupier.}
-{102}{}{Er hat einen Stock und ziemlich viele Chips. Du könntest dein Glück mit ihm versuchen.}
-{103}{}{Die Einsätze, bitte. Es wird wieder gewürfelt.}
+{100}{}{Du siehst einen Mann mit wachsamen Augen, der sehr geschÃ¤ftsmÃ¤ÃŸig wirkt.}
+{101}{}{Du siehst einen WÃ¼rfelspiel-Croupier.}
+{102}{}{Er hat einen Stock und ziemlich viele Chips. Du kÃ¶nntest dein GlÃ¼ck mit ihm versuchen.}
+{103}{}{Die EinsÃ¤tze, bitte. Es wird wieder gewÃ¼rfelt.}
 {104}{}{Wieviel setzt du auf PASSLINE?}
 {105}{}{Wieviel setzt du auf DON'T PASSLINE?}
 {106}{}{Wieviel setzt du auf COMELINE?}
@@ -55,7 +55,7 @@
 {155}{}{Hardway-Wetten...}
 {156}{}{Welche Art Wette?}
 {157}{}{Wieviel setzt du auf PLACE?}
-{200}{}{7 würfeln (Gewinnquote 5 zu 1)}
+{200}{}{7 wÃ¼rfeln (Gewinnquote 5 zu 1)}
 {201}{}{3er-Pasch (Gewinnquote 10 zu 1)}
 {202}{}{4er-Pasch (Gewinnquote 10 zu 1)}
 {203}{}{5er-Pasch (Gewinnquote 8 zu 1)}
@@ -65,26 +65,26 @@
 {207}{}{1 & 1 (Gewinnquote 30 zu 1)}
 {208}{}{6 & 6 (Gewinnquote 30 zu 1)}
 {209}{}{Beliebiger Pasch (Gewinnquote 8 zu 1)}
-{299}{}{Welche Zahl für die PLACE-Wette?}
+{299}{}{Welche Zahl fÃ¼r die PLACE-Wette?}
 {300}{}{auf 4 (Gewinnquote 1,8)}
 {301}{}{auf 5 (Gewinnquote 1,4)}
 {302}{}{auf 6 (Gewinnquote 1,16)}
 {303}{}{auf 8 (Gewinnquote 1,16)}
 {304}{}{auf 9 (Gewinnquote 1,4)}
 {305}{}{auf 10 (Gewinnquote 1,8)}
-{400}{}{Zurück...}
+{400}{}{ZurÃ¼ck...}
 {500}{}{$}
 {501}{}{.}
 {600}{}{Sieben - Line-Wetten gewinnen.}
 {601}{}{Elf - Line-Wetten gewinnen.}
 {602}{}{Zwei - Line-Wetten verlieren.}
 {603}{}{Drei - Line-Wetten verlieren.}
-{604}{}{Zwölf - Line-Wetten verlieren.}
+{604}{}{ZwÃ¶lf - Line-Wetten verlieren.}
 {610}{}{Sieben - Don't Line-Wetten verlieren, Point off.}
 {611}{}{Elf - Don't Line-Wetten gewinnen.}
 {612}{}{Zwei - Don't Line-Wetten gewinnen.}
 {613}{}{Drei - Don't Line-Wetten gewinnen.}
-{614}{}{Zwölf - Schiebt die Don't Line-Wetten.}
+{614}{}{ZwÃ¶lf - Schiebt die Don't Line-Wetten.}
 {620}{}{Proposition-Wette 7}
 {621}{}{Proposition-Wette 3er Pasch}
 {622}{}{Proposition-Wette 4er Pasch}
@@ -126,13 +126,13 @@
 {700}{}{Kein Point, gleiche Quote.}
 {701}{}{Spiel}
 {702}{}{Spiel nicht}
-{710}{}{Würfel1:}
-{711}{}{Würfel2:}
+{710}{}{WÃ¼rfel1:}
+{711}{}{WÃ¼rfel2:}
 {712}{}{Tut mir leid, ich muss gehn.}
-{713}{}{Nein, danke, ich möchte nicht setzen.}
+{713}{}{Nein, danke, ich mÃ¶chte nicht setzen.}
 {714}{}{Points sind off.}
 {800}{}{Gewinnquote auf Spielnummern nehmen.}
-{801}{}{Wähl einen Gewinnquotenfaktor. Gewinnquote für:}
+{801}{}{WÃ¤hl einen Gewinnquotenfaktor. Gewinnquote fÃ¼r:}
 {802}{}{x-Gewinnquote.}
 {803}{}{derzeit bei:}
 {804}{}{Gewinnquote auf 4.}
@@ -142,5 +142,5 @@
 {808}{}{Gewinnquote auf 9.}
 {809}{}{Gewinnquote auf 10.}
 {810}{}{Auf welche Nummer setzen?}
-{1100}{}{Du siehst eine Frau mit wachsamen Augen und geschäftsmäßigem Verhalten.}
-{1102}{}{Sie hat einen Stock und sehr viele Chips. Du solltest dein Glück mit Ihr versuchen.}
+{1100}{}{Du siehst eine Frau mit wachsamen Augen und geschÃ¤ftsmÃ¤ÃŸigem Verhalten.}
+{1102}{}{Sie hat einen Stock und sehr viele Chips. Du solltest dein GlÃ¼ck mit Ihr versuchen.}

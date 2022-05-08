@@ -1,37 +1,37 @@
-{100}{}{Widzisz m³od¹ kobietê.}
-{101}{}{Widzisz Chrissy, córkê Rebeki.}
-{102}{}{Widzisz ³adn¹ m³od¹ kobietê. Wygl¹da na pewn¹ siebie i wydaje ci siê, ¿e potrafi³aby daæ sobie radê w walce.}
-{103}{}{Jeœli myœlisz, ¿e uda ci siê mnie zgwa³ciæ, to b¹dŸ pewien, ¿e najpierw zrobiê ci krawat z jaj i zawi¹¿ê ci go na szyi. Kapujesz?}
-{104}{}{Pozwól mi zgadn¹æ. Ch³opaki maj¹ ju¿ dosyæ obrywania tam, gdzie ich boli najbardziej i przys³ali ciebie, ¿ebyœ zrobi³a coœ nieprzyzwoitego. Musisz wiedzieæ, ¿e ciebie mogê za³atwiæ tak samo. Wystarczy tylko kopaæ trochê wy¿ej. Kapujesz?}
+{100}{}{Widzisz mÅ‚odÄ… kobietÄ™.}
+{101}{}{Widzisz Chrissy, cÃ³rkÄ™ Rebeki.}
+{102}{}{Widzisz Å‚adnÄ… mÅ‚odÄ… kobietÄ™. WyglÄ…da na pewnÄ… siebie i wydaje ci siÄ™, Å¼e potrafiÅ‚aby daÄ‡ sobie radÄ™ w walce.}
+{103}{}{JeÅ›li myÅ›lisz, Å¼e uda ci siÄ™ mnie zgwaÅ‚ciÄ‡, to bÄ…dÅº pewien, Å¼e najpierw zrobiÄ™ ci krawat z jaj i zawiÄ…Å¼Ä™ ci go na szyi. Kapujesz?}
+{104}{}{PozwÃ³l mi zgadnÄ…Ä‡. ChÅ‚opaki majÄ… juÅ¼ dosyÄ‡ obrywania tam, gdzie ich boli najbardziej i przysÅ‚ali ciebie, Å¼ebyÅ› zrobiÅ‚a coÅ› nieprzyzwoitego. Musisz wiedzieÄ‡, Å¼e ciebie mogÄ™ zaÅ‚atwiÄ‡ tak samo. Wystarczy tylko kopaÄ‡ trochÄ™ wyÅ¼ej. Kapujesz?}
 {105}{}{Krawat?}
 {106}{}{}
 {107}{}{Co tu dzieje? Kto ty?}
 {108}{}{}
-{109}{}{Chcê wiedzieæ kim jesteœ i co siê tutaj dzieje.}
-{110}{}{Zgadza siê. Fantazyjny kawa³ek materia³u noszony wokó³ szyi dla ozdoby. Podobny do szarfy, ale dla mê¿czyzn. A teraz wyobraŸ sobie mnie jak ciê kopiê TAK MOCNO, ¿e twoje dzwonki zawijaj¹ ci siê na szyi. Kapujesz?}
-{111}{}{Moja rozumieæ. Ty nie robiæ moja krzywda.}
-{112}{}{Kapujê, proszê nie rób mi krzywdy.}
-{113}{}{W porz¹dku, wiêc czego tutaj szukasz?}
+{109}{}{ChcÄ™ wiedzieÄ‡ kim jesteÅ› i co siÄ™ tutaj dzieje.}
+{110}{}{Zgadza siÄ™. Fantazyjny kawaÅ‚ek materiaÅ‚u noszony wokÃ³Å‚ szyi dla ozdoby. Podobny do szarfy, ale dla mÄ™Å¼czyzn. A teraz wyobraÅº sobie mnie jak ciÄ™ kopiÄ™ TAK MOCNO, Å¼e twoje dzwonki zawijajÄ… ci siÄ™ na szyi. Kapujesz?}
+{111}{}{Moja rozumieÄ‡. Ty nie robiÄ‡ moja krzywda.}
+{112}{}{KapujÄ™, proszÄ™ nie rÃ³b mi krzywdy.}
+{113}{}{W porzÄ…dku, wiÄ™c czego tutaj szukasz?}
 {114}{}{}
-{115}{}{Moja chcieæ wiedzieæ, co tu dzieje? Kto ty?}
+{115}{}{Moja chcieÄ‡ wiedzieÄ‡, co tu dzieje? Kto ty?}
 {116}{}{}
-{117}{}{Chcê wiedzieæ kim jesteœ i co siê tutaj dzieje.}
-{118}{}{Naprawdê? To super! ChodŸmy.}
-{119}{}{W porz¹dku.}
-{120}{}{W skrócie: nazywam siê Chrissy i jestem z osiedla. Kiedy w ubieg³ym tygodniu bada³am okolicê znalaz³am tamto wejœcie. Myœla³am, ¿e to mo¿e byæ opuszczona kopalnia czy coœ, wiêc postanowi³am to sprawdziæ. Tyle, ¿e to nie jest kopalnia - to ukryte wejœcie do Krypty 15, która jest u¿ywana jako baza przez bandytów zw¹cych siebie Chanami. Z³apali mnie, kiedy wêszy³am w pobli¿u. Ich przywódca, Darion, kaza³ mnie zamkn¹æ tutaj.}
-{121}{}{Dobra. Moja zabraæ ty do domu.}
-{122}{}{W porz¹dku. Zabiorê ciê do domu.}
-{123}{}{A niech mnie... Dzisiaj musi byæ mój szczêœliwy dzieñ. Czemu zawdziêczam przyjemnoœæ ogl¹dania ciê znowu?}
+{117}{}{ChcÄ™ wiedzieÄ‡ kim jesteÅ› i co siÄ™ tutaj dzieje.}
+{118}{}{NaprawdÄ™? To super! ChodÅºmy.}
+{119}{}{W porzÄ…dku.}
+{120}{}{W skrÃ³cie: nazywam siÄ™ Chrissy i jestem z osiedla. Kiedy w ubiegÅ‚ym tygodniu badaÅ‚am okolicÄ™ znalazÅ‚am tamto wejÅ›cie. MyÅ›laÅ‚am, Å¼e to moÅ¼e byÄ‡ opuszczona kopalnia czy coÅ›, wiÄ™c postanowiÅ‚am to sprawdziÄ‡. Tyle, Å¼e to nie jest kopalnia - to ukryte wejÅ›cie do Krypty 15, ktÃ³ra jest uÅ¼ywana jako baza przez bandytÃ³w zwÄ…cych siebie Chanami. ZÅ‚apali mnie, kiedy wÄ™szyÅ‚am w pobliÅ¼u. Ich przywÃ³dca, Darion, kazaÅ‚ mnie zamknÄ…Ä‡ tutaj.}
+{121}{}{Dobra. Moja zabraÄ‡ ty do domu.}
+{122}{}{W porzÄ…dku. ZabiorÄ™ ciÄ™ do domu.}
+{123}{}{A niech mnie... Dzisiaj musi byÄ‡ mÃ³j szczÄ™Å›liwy dzieÅ„. Czemu zawdziÄ™czam przyjemnoÅ›Ä‡ oglÄ…dania ciÄ™ znowu?}
 {124}{}{}
 {125}{}{Co tu dzieje? Kto ty?}
 {126}{}{}
-{127}{}{Chcê wiedzieæ kim jesteœ i co siê tutaj dzieje.}
-{128}{}{Proszê, zabierz mnie do mojej matki - Rebeki.}
-{129}{}{Mój ksi¹¿ê w lœni¹cej zbroi powróci³. No, mo¿e by i lœni³a gdyby by³a czyszczona co jakiœ czas. A, i dobrze by by³o pomyœleæ równie¿ o k¹pieli. Wiêc, co mogê dla ciebie zrobiæ?}
-{130}{}{Ja tylko witaæ. Ja ju¿ iœæ.}
-{131}{}{Pomyœla³em tylko, ¿e siê przywitam. Teraz chyba ju¿ pójdê.}
-{132}{}{Hej, wiem, ¿e jestem wyszczekana, ale chcê ci powiedzieæ, ¿e jestem ci bardzo wdziêczna za uratowanie mojego ty³ka. Wielkie dziêki!}
+{127}{}{ChcÄ™ wiedzieÄ‡ kim jesteÅ› i co siÄ™ tutaj dzieje.}
+{128}{}{ProszÄ™, zabierz mnie do mojej matki - Rebeki.}
+{129}{}{MÃ³j ksiÄ…Å¼Ä™ w lÅ›niÄ…cej zbroi powrÃ³ciÅ‚. No, moÅ¼e by i lÅ›niÅ‚a gdyby byÅ‚a czyszczona co jakiÅ› czas. A, i dobrze by byÅ‚o pomyÅ›leÄ‡ rÃ³wnieÅ¼ o kÄ…pieli. WiÄ™c, co mogÄ™ dla ciebie zrobiÄ‡?}
+{130}{}{Ja tylko witaÄ‡. Ja juÅ¼ iÅ›Ä‡.}
+{131}{}{PomyÅ›laÅ‚em tylko, Å¼e siÄ™ przywitam. Teraz chyba juÅ¼ pÃ³jdÄ™.}
+{132}{}{Hej, wiem, Å¼e jestem wyszczekana, ale chcÄ™ ci powiedzieÄ‡, Å¼e jestem ci bardzo wdziÄ™czna za uratowanie mojego tyÅ‚ka. Wielkie dziÄ™ki!}
 {133}{}{Niezamaco.}
-{134}{}{Ca³a przyjemnoœæ po mojej stronie.}
-{135}{}{Ludzie z Przytu³ka chroni¹ tych goœci pomagaj¹c utrzymaæ istnienie Krypty 15 w tajemnicy, ale nie wiedz¹ co siê tu naprawdê dzieje. Darion powiedzia³ nam, ¿e krypta jest remontowany, ¿ebyœmy w przysz³oœci mieli bezpieczne miejsce do ¿ycia z mnóstwem jedzenia i wody, ale to wszystko k³amstwo. By³am tam i rozejrza³am siê trochê. Krypta jest martwa, a maszyny produkuj¹ce ¿ywnoœæ i dostarczaj¹ce wodê nie dzia³aj¹. Wszystko co od nich dostajemy pochodzi z grabie¿y.}
-{136}{}{Pos³uchaj, muszê wróciæ do domu i ostrzec wszystkich o tym, co tu siê naprawdê dzieje. Nie mo¿emy pomagaæ tym potworom. Pomo¿esz mi siê st¹d wydostaæ?}
+{134}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie.}
+{135}{}{Ludzie z PrzytuÅ‚ka chroniÄ… tych goÅ›ci pomagajÄ…c utrzymaÄ‡ istnienie Krypty 15 w tajemnicy, ale nie wiedzÄ… co siÄ™ tu naprawdÄ™ dzieje. Darion powiedziaÅ‚ nam, Å¼e krypta jest remontowany, Å¼ebyÅ›my w przyszÅ‚oÅ›ci mieli bezpieczne miejsce do Å¼ycia z mnÃ³stwem jedzenia i wody, ale to wszystko kÅ‚amstwo. ByÅ‚am tam i rozejrzaÅ‚am siÄ™ trochÄ™. Krypta jest martwa, a maszyny produkujÄ…ce Å¼ywnoÅ›Ä‡ i dostarczajÄ…ce wodÄ™ nie dziaÅ‚ajÄ…. Wszystko co od nich dostajemy pochodzi z grabieÅ¼y.}
+{136}{}{PosÅ‚uchaj, muszÄ™ wrÃ³ciÄ‡ do domu i ostrzec wszystkich o tym, co tu siÄ™ naprawdÄ™ dzieje. Nie moÅ¼emy pomagaÄ‡ tym potworom. PomoÅ¼esz mi siÄ™ stÄ…d wydostaÄ‡?}

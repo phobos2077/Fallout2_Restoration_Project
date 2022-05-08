@@ -1,24 +1,24 @@
-{100}{}{PoseidoNet számítógép.}
-{101}{}{PoseidoNet számítógép.}
-{102}{}{PoseidoNet számítógép.}
-{103}{}{::pittyegés:: A terminál meghibásodott. NavKomp telepítés szükséges. ::pittyegés::}
+{100}{}{PoseidoNet szÃ¡mÃ­tÃ³gÃ©p.}
+{101}{}{PoseidoNet szÃ¡mÃ­tÃ³gÃ©p.}
+{102}{}{PoseidoNet szÃ¡mÃ­tÃ³gÃ©p.}
+{103}{}{::pittyegÃ©s:: A terminÃ¡l meghibÃ¡sodott. NavKomp telepÃ­tÃ©s szÃ¼ksÃ©ges. ::pittyegÃ©s::}
 {104}{}{[DONE]}
-{105}{}{Üdvözöljük a PoseidoNeten! Ez a terminál csak a POT Valdez tankhajó és a dokkoló egység közötti átvitelre alkalmas. Várom a parancsát...}
+{105}{}{ÃœdvÃ¶zÃ¶ljÃ¼k a PoseidoNeten! Ez a terminÃ¡l csak a POT Valdez tankhajÃ³ Ã©s a dokkolÃ³ egysÃ©g kÃ¶zÃ¶tti Ã¡tvitelre alkalmas. VÃ¡rom a parancsÃ¡t...}
 {106}{}{Induljunk!}
-{107}{}{Státusz ellen?rzése.}
-{108}{}{Kilépés.}
-{109}{}{-Üzemanyag tartály: Üres- -Raktér: Üres- -Navigációs Számítógép: Nem m?ködik- -Dokkoló kötél: Kivetve-}
+{107}{}{StÃ¡tusz ellen?rzÃ©se.}
+{108}{}{KilÃ©pÃ©s.}
+{109}{}{-Ãœzemanyag tartÃ¡ly: Ãœres- -RaktÃ©r: Ãœres- -NavigÃ¡ciÃ³s SzÃ¡mÃ­tÃ³gÃ©p: Nem m?kÃ¶dik- -DokkolÃ³ kÃ¶tÃ©l: Kivetve-}
 {110}{}{[BACK]}
-{111}{}{Kilépés.}
-{112}{}{-Üzemanyag tartály: Teli- -Raktér: Üres- -Navigációs Számítógép: Nem m?ködik- -Dokkoló kötél: Kivetve-}
+{111}{}{KilÃ©pÃ©s.}
+{112}{}{-Ãœzemanyag tartÃ¡ly: Teli- -RaktÃ©r: Ãœres- -NavigÃ¡ciÃ³s SzÃ¡mÃ­tÃ³gÃ©p: Nem m?kÃ¶dik- -DokkolÃ³ kÃ¶tÃ©l: Kivetve-}
 {113}{}{[BACK]}
-{114}{}{Kilépés.}
-{115}{}{HIBA: Az üzemanyagtartály üres.}
+{114}{}{KilÃ©pÃ©s.}
+{115}{}{HIBA: Az Ã¼zemanyagtartÃ¡ly Ã¼res.}
 {116}{}{ERROR: Navigation Computer non Functional.}
-{117}{}{-Üzemanyag tartály: Üres- -Raktér: Üres- -Navigációs Számítógép: M?ködik- -Dokkoló kötél: Kivetve-}
-{118}{}{-Üzemanyag tartály: Teli- -Raktér: Üres- -Navigációs Számítógép: M?ködik- -Dokkoló kötél: Kivetve-}
+{117}{}{-Ãœzemanyag tartÃ¡ly: Ãœres- -RaktÃ©r: Ãœres- -NavigÃ¡ciÃ³s SzÃ¡mÃ­tÃ³gÃ©p: M?kÃ¶dik- -DokkolÃ³ kÃ¶tÃ©l: Kivetve-}
+{118}{}{-Ãœzemanyag tartÃ¡ly: Teli- -RaktÃ©r: Ãœres- -NavigÃ¡ciÃ³s SzÃ¡mÃ­tÃ³gÃ©p: M?kÃ¶dik- -DokkolÃ³ kÃ¶tÃ©l: Kivetve-}
 {119}{}{You see a PoseidoNet Navigation Computer.}
-{129}{}{[Sietve átfutsz a kidokkolási procedúrán, mire a hajó leválik a dokkról...]}
+{129}{}{[Sietve Ã¡tfutsz a kidokkolÃ¡si procedÃºrÃ¡n, mire a hajÃ³ levÃ¡lik a dokkrÃ³l...]}
 {130}{}{[DONE]}
 {131}{}{Navigation Computer on-line.}
 {200}{}{WARNING: Submarine still active. Proceeding would result in the ship's destruction.}

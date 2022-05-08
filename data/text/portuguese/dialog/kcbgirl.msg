@@ -1,63 +1,63 @@
-{100}{}{Você vê uma jovem muito atraente.}
-{101}{}{Você vê uma atendente da casa de banho.}
-{102}{}{Você vê uma das garotas de Sally Nariz Grande.}
-{103}{}{Você vê uma mulher com o olhar entediado.}
-{104}{}{Você vê uma mulher que não tira os olhos de você.}
+{100}{}{VocÃª vÃª uma jovem muito atraente.}
+{101}{}{VocÃª vÃª uma atendente da casa de banho.}
+{102}{}{VocÃª vÃª uma das garotas de Sally Nariz Grande.}
+{103}{}{VocÃª vÃª uma mulher com o olhar entediado.}
+{104}{}{VocÃª vÃª uma mulher que nÃ£o tira os olhos de vocÃª.}
 {105}{}{Esta mulher esta te comendo com os olhos.}
-{106}{}{Você vê uma mulher jovem.}
-{110}{}{Você vê uma jovem atraente. Seu rosto esta coberto com algum tipo de pó branco.}
-{111}{}{Você vê uma mulher de meia idade com seios fartos.}
-{112}{}{Você vê uma mulher atraente vestindo uma roupa bem decotada.}
-{113}{}{Você vê uma mulher te avaliando com o olhar... com uma careta no rosto.}
-{120}{}{O que! Isso foi rápido.}
-{121}{}{Faz muito tempo que você não é acariciado?}
-{122}{}{Tomara que da próxima vez dure um pouco mais.}
-{123}{}{Isso não é uma corrida, você sabe.}
-{124}{}{Seus amigos chamam você de 'Ligeirinho'?}
-{125}{}{Se todos os meus clientes fossem assim tão rápidos, eu poderia chegar em casa mais cedo.}
-{126}{}{É mais legal se você esperar até que eu te ajude.}
-{127}{}{Se você tivesse esperado até que eu tirasse a minha roupa, com certeza iria gostar mais.}
-{130}{}{É isso aí, se saiu muito bem! Você é um homem de verdade.}
-{131}{}{Isso foi especial. Você é maravilhoso. Próximo!}
-{132}{}{Incrível, nunca senti nada igual antes. (bocejo)}
-{133}{}{Você é o melhor. Volte mais tarde.}
+{106}{}{VocÃª vÃª uma mulher jovem.}
+{110}{}{VocÃª vÃª uma jovem atraente. Seu rosto esta coberto com algum tipo de pÃ³ branco.}
+{111}{}{VocÃª vÃª uma mulher de meia idade com seios fartos.}
+{112}{}{VocÃª vÃª uma mulher atraente vestindo uma roupa bem decotada.}
+{113}{}{VocÃª vÃª uma mulher te avaliando com o olhar... com uma careta no rosto.}
+{120}{}{O que! Isso foi rÃ¡pido.}
+{121}{}{Faz muito tempo que vocÃª nÃ£o Ã© acariciado?}
+{122}{}{Tomara que da prÃ³xima vez dure um pouco mais.}
+{123}{}{Isso nÃ£o Ã© uma corrida, vocÃª sabe.}
+{124}{}{Seus amigos chamam vocÃª de 'Ligeirinho'?}
+{125}{}{Se todos os meus clientes fossem assim tÃ£o rÃ¡pidos, eu poderia chegar em casa mais cedo.}
+{126}{}{Ã‰ mais legal se vocÃª esperar atÃ© que eu te ajude.}
+{127}{}{Se vocÃª tivesse esperado atÃ© que eu tirasse a minha roupa, com certeza iria gostar mais.}
+{130}{}{Ã‰ isso aÃ­, se saiu muito bem! VocÃª Ã© um homem de verdade.}
+{131}{}{Isso foi especial. VocÃª Ã© maravilhoso. PrÃ³ximo!}
+{132}{}{IncrÃ­vel, nunca senti nada igual antes. (bocejo)}
+{133}{}{VocÃª Ã© o melhor. Volte mais tarde.}
 {134}{}{Tenho certeza que vai fazer uma tribal muito feliz.}
-{135}{}{Não, amorzinho. O tamanho não importa. Se saiu bem.}
-{136}{}{Você é mesmo uma delícia de homem. Pode ir agora.}
-{137}{}{Own, que coisinha fofinha que você tem guardada aí.}
-{140}{}{Tamanho importa sim! Meu deus do céu...}
-{141}{}{Da próxima vez que vier, te deixarei ficar um pouco mais.}
+{135}{}{NÃ£o, amorzinho. O tamanho nÃ£o importa. Se saiu bem.}
+{136}{}{VocÃª Ã© mesmo uma delÃ­cia de homem. Pode ir agora.}
+{137}{}{Own, que coisinha fofinha que vocÃª tem guardada aÃ­.}
+{140}{}{Tamanho importa sim! Meu deus do cÃ©u...}
+{141}{}{Da prÃ³xima vez que vier, te deixarei ficar um pouco mais.}
 {142}{}{Com certeza sua grana vale a pena.}
 {143}{}{Vou tirar o resto do dia de folga.}
-{144}{}{Uau! Você sentiu o chão tremer também?}
+{144}{}{Uau! VocÃª sentiu o chÃ£o tremer tambÃ©m?}
 {145}{}{Agora eu sei como se sentia a grande Catherine.}
-{150}{}{Bom, dinheiro é dinheiro, né....}
+{150}{}{Bom, dinheiro Ã© dinheiro, nÃ©....}
 {151}{}{Uau! Essa foi uhh...diferente.}
-{152}{}{Se saiu muito bem. Próximo!}
-{153}{}{Não, você não pode usar meu perfume.}
-{154}{}{Bem, pelo menos o seu bigode é menor que a da maioria dos meus clientes.}
-{155}{}{Você tem certeza que é uma garota?}
-{160}{}{Até que foi gostosinho.}
-{161}{}{Foi bem diferente, e não foi tão mal.}
+{152}{}{Se saiu muito bem. PrÃ³ximo!}
+{153}{}{NÃ£o, vocÃª nÃ£o pode usar meu perfume.}
+{154}{}{Bem, pelo menos o seu bigode Ã© menor que a da maioria dos meus clientes.}
+{155}{}{VocÃª tem certeza que Ã© uma garota?}
+{160}{}{AtÃ© que foi gostosinho.}
+{161}{}{Foi bem diferente, e nÃ£o foi tÃ£o mal.}
 {162}{}{Acho que gostaria de tentar de novo algum dia.}
-{163}{}{Acho que devíamos fazer isso algum dia, depois que sair do trabalho.}
-{164}{}{Foi ótimo, docinho.}
-{165}{}{Wow! Minha vida será bem diferente a partir de agora...}
-{166}{}{Eu não sabia que poderia ser assim.}
-{170}{}{Você deveria ir falar com a Sally Nariz Grande.}
-{171}{}{Você não é uma fofura?}
+{163}{}{Acho que devÃ­amos fazer isso algum dia, depois que sair do trabalho.}
+{164}{}{Foi Ã³timo, docinho.}
+{165}{}{Wow! Minha vida serÃ¡ bem diferente a partir de agora...}
+{166}{}{Eu nÃ£o sabia que poderia ser assim.}
+{170}{}{VocÃª deveria ir falar com a Sally Nariz Grande.}
+{171}{}{VocÃª nÃ£o Ã© uma fofura?}
 {172}{}{Te amo a muito tempo!}
 {173}{}{Venha me ver outro dia.}
-{174}{}{Vejo que você sabe assobiar, certo?}
+{174}{}{Vejo que vocÃª sabe assobiar, certo?}
 {175}{}{Eu costumava ser pura como a neve, mas me deixei levar.}
 {176}{}{(Assovios)}
 {177}{}{Hola! Tigre.}
 {178}{}{Hey, baaaaaby...}
-{179}{}{Se quer um pouco de ação, vá falar com Sally.}
+{179}{}{Se quer um pouco de aÃ§Ã£o, vÃ¡ falar com Sally.}
 {180}{}{Esfrega ai embaixo...}
 {181}{}{Acho que devo te dar um banho.}
-{182}{}{Oh, você vem de uma aldeia? Acho isso tão exótico...}
-{183}{}{Normalmente não faço isso com tribais.}
-{184}{}{Gosta do que vê?}
-{185}{}{Você me quer?}
+{182}{}{Oh, vocÃª vem de uma aldeia? Acho isso tÃ£o exÃ³tico...}
+{183}{}{Normalmente nÃ£o faÃ§o isso com tribais.}
+{184}{}{Gosta do que vÃª?}
+{185}{}{VocÃª me quer?}
 {186}{}{Tem que pagar se quiser brincar, docinho.}

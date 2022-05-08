@@ -1,52 +1,52 @@
-{100}{}{Ves a un técnico.}
-{101}{}{Ves a un técnico del Enclave.}
-{102}{}{Ves a alguien que lleva una bata de laboratorio. Parece confiado y seguro de sí mismo.}
-{103}{}{¿Sí, señor?}
-{104}{}{Yo nuevo aquí. Necesito respuesta.}
-{105}{}{Sólo digo hola. Marcho.}
-{106}{}{Soy nuevo aquí y estoy intentado familiarizarme con la base. ¿Puedo hacerte algunas preguntas?}
-{107}{}{Sólo pasaba a saludar. Nos vemos.}
+{100}{}{Ves a un tÃ©cnico.}
+{101}{}{Ves a un tÃ©cnico del Enclave.}
+{102}{}{Ves a alguien que lleva una bata de laboratorio. Parece confiado y seguro de sÃ­ mismo.}
+{103}{}{Â¿SÃ­, seÃ±or?}
+{104}{}{Yo nuevo aquÃ­. Necesito respuesta.}
+{105}{}{SÃ³lo digo hola. Marcho.}
+{106}{}{Soy nuevo aquÃ­ y estoy intentado familiarizarme con la base. Â¿Puedo hacerte algunas preguntas?}
+{107}{}{SÃ³lo pasaba a saludar. Nos vemos.}
 {108}{}{Claro, soldado.}
-{109}{}{¿Puedo ayudarte en algo?}
-{110}{}{¿Qué es este lugar?}
-{111}{}{¿Cuál es tu trabajo?}
-{112}{}{¿Dónde está la base principal del Enclave?}
-{113}{}{Busco planos de v-vertibird. ¿Dónde encuentro yo?}
+{109}{}{Â¿Puedo ayudarte en algo?}
+{110}{}{Â¿QuÃ© es este lugar?}
+{111}{}{Â¿CuÃ¡l es tu trabajo?}
+{112}{}{Â¿DÃ³nde estÃ¡ la base principal del Enclave?}
+{113}{}{Busco planos de v-vertibird. Â¿DÃ³nde encuentro yo?}
 {117}{}{Tengo que marchar.}
-{118}{}{¿Qué lugar es éste?}
-{119}{}{¿Cuál es tu trabajo aquí?}
-{120}{}{¿Dónde está la base principal del Enclave?}
-{121}{}{Estoy buscando los planos de los vertibird. ¿Dónde los guardan?}
+{118}{}{Â¿QuÃ© lugar es Ã©ste?}
+{119}{}{Â¿CuÃ¡l es tu trabajo aquÃ­?}
+{120}{}{Â¿DÃ³nde estÃ¡ la base principal del Enclave?}
+{121}{}{Estoy buscando los planos de los vertibird. Â¿DÃ³nde los guardan?}
 {125}{}{Nada. Tengo que irme.}
-{126}{}{Esto es el centro de comunicaciones. Aquí procesamos todas las comunicaciones de la base principal.}
-{127}{}{Vale. Más preguntas.}
-{128}{}{Muy bien. Sólo un par de preguntas más.}
-{129}{}{Soy técnico del centro de comunicaciones, primera clase. Realizo tareas de supervisión. Básicamente me aseguro de que nadie la cague.}
+{126}{}{Esto es el centro de comunicaciones. AquÃ­ procesamos todas las comunicaciones de la base principal.}
+{127}{}{Vale. MÃ¡s preguntas.}
+{128}{}{Muy bien. SÃ³lo un par de preguntas mÃ¡s.}
+{129}{}{Soy tÃ©cnico del centro de comunicaciones, primera clase. Realizo tareas de supervisiÃ³n. BÃ¡sicamente me aseguro de que nadie la cague.}
 {130}{}{Eh... ya.}
 {131}{}{Bien. Sigue con tu trabajo.}
-{132}{}{Soldado, esa información sólo es para los que la necesitan saber. Si tienes que preguntar es que no necesitas saberla.}
+{132}{}{Soldado, esa informaciÃ³n sÃ³lo es para los que la necesitan saber. Si tienes que preguntar es que no necesitas saberla.}
 {133}{}{Vale.}
-{134}{}{Vamos, no es como si fuera un maldito tribal o algo así. Llevamos el mismo uniforme, ¿te has fijado en la insignia de la armadura?}
+{134}{}{Vamos, no es como si fuera un maldito tribal o algo asÃ­. Llevamos el mismo uniforme, Â¿te has fijado en la insignia de la armadura?}
 {135}{}{Entendido.}
-{136}{}{Sí, señor. La base principal se encuentra más allá de la costa del Pacífico, cerca de la ciudad de San Francisco. ¿Puedo preguntarle por qué quiere saberlo?}
-{137}{}{Soldado, te he dicho que esa información sólo es para los que la necesitan saber.}
+{136}{}{SÃ­, seÃ±or. La base principal se encuentra mÃ¡s allÃ¡ de la costa del PacÃ­fico, cerca de la ciudad de San Francisco. Â¿Puedo preguntarle por quÃ© quiere saberlo?}
+{137}{}{Soldado, te he dicho que esa informaciÃ³n sÃ³lo es para los que la necesitan saber.}
 {138}{}{Por razones de seguridad, estoy comprobando el nivel de conocimientos entre el personal de la base. Ahora, dime todas las formas posibles de llegar a la base principal.}
 {139}{}{Entendido.}
-{140}{}{Sí, señor. Primero, los vertibird son el método principal que se usa a la hora de viajar a la base principal. Debido a la complejidad de su manejo es dudoso que elementos subversivos puedan pilotar un vertibird. En segundo lugar, hay un petrolero operativo en el puerto de San Francisco. Sin embargo, el barco ha sido inutilizado y se necesita una llave maestra para reiniciarlo. El comandante de la base tiene esa llave en su poder. En tercer lugar, sería concebible, con el equipo apropiado, alcanzar la base a nado, pero las posibilidades de supervivencia son cercanas a cero.}
+{140}{}{SÃ­, seÃ±or. Primero, los vertibird son el mÃ©todo principal que se usa a la hora de viajar a la base principal. Debido a la complejidad de su manejo es dudoso que elementos subversivos puedan pilotar un vertibird. En segundo lugar, hay un petrolero operativo en el puerto de San Francisco. Sin embargo, el barco ha sido inutilizado y se necesita una llave maestra para reiniciarlo. El comandante de la base tiene esa llave en su poder. En tercer lugar, serÃ­a concebible, con el equipo apropiado, alcanzar la base a nado, pero las posibilidades de supervivencia son cercanas a cero.}
 {141}{}{Gracias.}
 {142}{}{Gracias.}
-{143}{}{Pues deberían estar en Mantenimiento, justo al lado de la torre de control aéreo.}
+{143}{}{Pues deberÃ­an estar en Mantenimiento, justo al lado de la torre de control aÃ©reo.}
 {144}{}{Vale.}
 {145}{}{Entendido.}
-{155}{}{¿Estás loco? ¿Cómo se te ocurre estar por aquí sin uniforme? ¡Rápido, vístete!}
+{155}{}{Â¿EstÃ¡s loco? Â¿CÃ³mo se te ocurre estar por aquÃ­ sin uniforme? Â¡RÃ¡pido, vÃ­stete!}
 {156}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}
-{157}{}{¿Por qué no llevas puesto el uniforme?}
-{158}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}
-{159}{}{¡Intrusos! ¡Avisad a los guardias!}
-{160}{}{¡Guardias! ¡Intrusos en el centro de comunicaciones!}
-{161}{}{¿Qué pasa? ¿Nos atacan?}
-{162}{}{¿A qué viene la alerta? ¿Qué está ocurriendo?}
-{163}{}{¿Qué carajo está pasando?}
-{164}{}{Sólo soy un técnico, ¡no me dispares!}
-{165}{}{¡No me enrolé aquí para luchar, sólo soy un técnico!}
-{166}{}{¿Ves esto? ¡Sólo es una bata de laboratorio, no una armadura! ¡Me voy de aquí!}
+{157}{}{Â¿Por quÃ© no llevas puesto el uniforme?}
+{158}{}{Â¡Ay, carajo! Â¡Nos invaden! Â¡Alerta!}
+{159}{}{Â¡Intrusos! Â¡Avisad a los guardias!}
+{160}{}{Â¡Guardias! Â¡Intrusos en el centro de comunicaciones!}
+{161}{}{Â¿QuÃ© pasa? Â¿Nos atacan?}
+{162}{}{Â¿A quÃ© viene la alerta? Â¿QuÃ© estÃ¡ ocurriendo?}
+{163}{}{Â¿QuÃ© carajo estÃ¡ pasando?}
+{164}{}{SÃ³lo soy un tÃ©cnico, Â¡no me dispares!}
+{165}{}{Â¡No me enrolÃ© aquÃ­ para luchar, sÃ³lo soy un tÃ©cnico!}
+{166}{}{Â¿Ves esto? Â¡SÃ³lo es una bata de laboratorio, no una armadura! Â¡Me voy de aquÃ­!}

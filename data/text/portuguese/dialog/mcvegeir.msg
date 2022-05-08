@@ -1,113 +1,113 @@
-{100}{}{Você vê o líder dos Slags.}
-{101}{}{Você vê Vegeir.}
+{100}{}{VocÃª vÃª o lÃ­der dos Slags.}
+{101}{}{VocÃª vÃª Vegeir.}
 {102}{}{Um homem alto e imponente. Seus movimentos te lembram um gato espreitando sua presa.}
-{150}{}{Você pode sair pelo alçapão localizado na parte de trás desse prédio.}
+{150}{}{VocÃª pode sair pelo alÃ§apÃ£o localizado na parte de trÃ¡s desse prÃ©dio.}
 {151}{}{Por favor entregue a mensagem em Modoc.}
-{152}{}{Modoc é ao sul daqui.}
+{152}{}{Modoc Ã© ao sul daqui.}
 {153}{}{Sul.}
-{154}{}{Não, o outro sul.}
-{155}{}{Um visitante - que conveniente. Estava pensando em um jeito de fazer contato com o povo da superfície,
- mas agora eu não preciso me preocupar com isso -- graças a sua chegada na hora certa. Bem vindo ao lar dos
+{154}{}{NÃ£o, o outro sul.}
+{155}{}{Um visitante - que conveniente. Estava pensando em um jeito de fazer contato com o povo da superfÃ­cie,
+ mas agora eu nÃ£o preciso me preocupar com isso -- graÃ§as a sua chegada na hora certa. Bem vindo ao lar dos
  Slags.}
-{156}{}{Que bom que você voltou. Então, eu presumo que você entregou a mensagem em Modoc. Como ela foi
+{156}{}{Que bom que vocÃª voltou. EntÃ£o, eu presumo que vocÃª entregou a mensagem em Modoc. Como ela foi
  recebida?}
 {157}{}{Eles precisam de tempo para pensar no assunto.}
-{158}{}{Eles tem algumas restrições.}
+{158}{}{Eles tem algumas restriÃ§Ãµes.}
 {159}{}{Eu quero levar Jonny para casa, para seus pais.}
-{160}{}{Você reconsiderou nos ajudar?}
+{160}{}{VocÃª reconsiderou nos ajudar?}
 {161}{}{Primeiro, eu preciso fazer algumas perguntas.}
-{162}{}{A resposta ainda é não.}
+{162}{}{A resposta ainda Ã© nÃ£o.}
 {163}{}{Eu decidi te ajudar.}
-{165}{}{Obrigado por nos ajudar. Você sempre será bem vindo aqui. Por seus serviços, eu te ofereço isso como
+{165}{}{Obrigado por nos ajudar. VocÃª sempre serÃ¡ bem vindo aqui. Por seus serviÃ§os, eu te ofereÃ§o isso como
  recompensa. [Vegeir te entrega um assault rifle.]}
-{166}{}{Obrigado por nos ajudar. Você sempre será bem vindo aqui.}
-{167}{}{Está tudo bem em levar o Jonny de volta para seus pais?}
-{168}{}{Por favor deixe me desculpar pelas circunstâncias desagradáveis em que nos conhecemos. Normalmente, os
- Protetores teriam tentado te assustar. Normalmente chacoalhando correntes e alguns gemidos baixos é
- o suficiente para assustar qualquer um, mas recentemente eles receberam ordens para me trazer qualquer pessoa da superfície que eles
+{166}{}{Obrigado por nos ajudar. VocÃª sempre serÃ¡ bem vindo aqui.}
+{167}{}{EstÃ¡ tudo bem em levar o Jonny de volta para seus pais?}
+{168}{}{Por favor deixe me desculpar pelas circunstÃ¢ncias desagradÃ¡veis em que nos conhecemos. Normalmente, os
+ Protetores teriam tentado te assustar. Normalmente chacoalhando correntes e alguns gemidos baixos Ã©
+ o suficiente para assustar qualquer um, mas recentemente eles receberam ordens para me trazer qualquer pessoa da superfÃ­cie que eles
  encontrarem.}
-{169}{}{Está bem. Estou indo agora.}
-{170}{}{O que você quer comigo?}
+{169}{}{EstÃ¡ bem. Estou indo agora.}
+{170}{}{O que vocÃª quer comigo?}
 {171}{}{Fantasmas?}
-{172}{}{Você sairá SE e QUANDO eu decidir que você pode ir. Não antes disso.}
-{173}{}{Uma tarefa simples. Nós precisamos fazer contato com a cidade a sudoeste; Eu acredito que se chama
- "Modoc." Você poderia nos fazer esse favor?}
+{172}{}{VocÃª sairÃ¡ SE e QUANDO eu decidir que vocÃª pode ir. NÃ£o antes disso.}
+{173}{}{Uma tarefa simples. NÃ³s precisamos fazer contato com a cidade a sudoeste; Eu acredito que se chama
+ "Modoc." VocÃª poderia nos fazer esse favor?}
 {174}{}{Como que eu saio disso?}
-{175}{}{Eu tenho que fazer muitas perguntas antes de possivelmente aceitar essa missão.}
-{176}{}{É justo. Eu não esperava que alguém aceitasse cegamente tarefas de estranhos, sem primeiro aprender
- um pouco sobre eles. Faça suas perguntas, e eu vou responder da melhor forma que eu puder.}
-{177}{}{Por que você não manda um dos seus homens para entregar a mesnsagem?}
+{175}{}{Eu tenho que fazer muitas perguntas antes de possivelmente aceitar essa missÃ£o.}
+{176}{}{Ã‰ justo. Eu nÃ£o esperava que alguÃ©m aceitasse cegamente tarefas de estranhos, sem primeiro aprender
+ um pouco sobre eles. FaÃ§a suas perguntas, e eu vou responder da melhor forma que eu puder.}
+{177}{}{Por que vocÃª nÃ£o manda um dos seus homens para entregar a mesnsagem?}
 {178}{}{Me conte sobre o seu povo.}
-{179}{}{Quais são suas defesas?}
-{180}{}{Eu já escutei o suficiente. Estou pronto para tomar minha decisão.}
-{181}{}{Faça suas perguntas.}
-{190}{}{Por que você voltou para a superfície?}
-{191}{}{Por que a grande charada fantasma na superfície?}
-{192}{}{Qual é o propósito da sua mensagem?}
-{194}{}{Desde o Selamento, nós, como um povo, mudamos. Poucos conseguem suportar estar na superfície porque eles
- não estão acostumados a ter um mar negro de nada sobre eles. A sensação de estar caindo para cima é tão
- grande para eles, que eles ficam congelados, grudados no chão. Mas essa não é a razão principal. Todos nós
- não suportamos a luz brilhante que vocês chamam de sol; vivendo no subterrâneo por tanto tempo fez nossos
- olhos ficarem sensíveis à luz. Nós não podemos viajar muito longe da segurança de nossos lares embaixo da terra.}
+{179}{}{Quais sÃ£o suas defesas?}
+{180}{}{Eu jÃ¡ escutei o suficiente. Estou pronto para tomar minha decisÃ£o.}
+{181}{}{FaÃ§a suas perguntas.}
+{190}{}{Por que vocÃª voltou para a superfÃ­cie?}
+{191}{}{Por que a grande charada fantasma na superfÃ­cie?}
+{192}{}{Qual Ã© o propÃ³sito da sua mensagem?}
+{194}{}{Desde o Selamento, nÃ³s, como um povo, mudamos. Poucos conseguem suportar estar na superfÃ­cie porque eles
+ nÃ£o estÃ£o acostumados a ter um mar negro de nada sobre eles. A sensaÃ§Ã£o de estar caindo para cima Ã© tÃ£o
+ grande para eles, que eles ficam congelados, grudados no chÃ£o. Mas essa nÃ£o Ã© a razÃ£o principal. Todos nÃ³s
+ nÃ£o suportamos a luz brilhante que vocÃªs chamam de sol; vivendo no subterrÃ¢neo por tanto tempo fez nossos
+ olhos ficarem sensÃ­veis Ã  luz. NÃ³s nÃ£o podemos viajar muito longe da seguranÃ§a de nossos lares embaixo da terra.}
 {195}{}{Posso fazer mais algumas perguntas?}
-{197}{}{Uma vez, há muito tempo, nós erámos parecidos com o povo da superfície. Também morávamos acima do solo, até que o mundo
- da superfície pegou fogo. Nossos ancestrais -- que faziam parte de uma milícia secreta -- selaram eles mesmos e suas
- famílias aqui embaixo para proteção. Por gerações, permanecemos aqui embaixo, escondidos em segurança
- no ventre da Mãe Terra.}
-{200}{}{Nossa população aumentou de forma constante após o Selamento. E logo ficou claro que não poderíamos
- sobreviver por muito tempo aqui embaixo sem suprimentos. Então o Selo foi quebrado, e de novo nós olhamos
- para a superfície em busca de sobrevivência.}
-{203}{}{Anos atrás, alguém tentou tomar nossa fazenda, colhendo as plantações e roubando animais
- a que eles não tinham direito. Nós não somos pessoas violentas por natureza, mas alguma coisa tinha de ser feita. Na época
- nossa sobrevivência dependia dessas plantações. Foi quando tivemos a ideia dos fantasmas. Nos cobrindo
- com fúngus brilhantes, fomos capazes de assustar essa pessoa e outros vizinhos curiosos.
- Infelizmente, foi um pouco eficaz demais. Ultimamente, nós temos tentado fazer contato com
- o povo da superfície, porém ninguém mais apareceu na fazenda com medo dos fantasmas. Por sorte, você caiu aqui.}
-{206}{}{Chega! Sem mais perguntas. Tome sua decisão agora!}
-{207}{}{Me desculpe; Eu não posso te ajudar.}
+{197}{}{Uma vez, hÃ¡ muito tempo, nÃ³s erÃ¡mos parecidos com o povo da superfÃ­cie. TambÃ©m morÃ¡vamos acima do solo, atÃ© que o mundo
+ da superfÃ­cie pegou fogo. Nossos ancestrais -- que faziam parte de uma milÃ­cia secreta -- selaram eles mesmos e suas
+ famÃ­lias aqui embaixo para proteÃ§Ã£o. Por geraÃ§Ãµes, permanecemos aqui embaixo, escondidos em seguranÃ§a
+ no ventre da MÃ£e Terra.}
+{200}{}{Nossa populaÃ§Ã£o aumentou de forma constante apÃ³s o Selamento. E logo ficou claro que nÃ£o poderÃ­amos
+ sobreviver por muito tempo aqui embaixo sem suprimentos. EntÃ£o o Selo foi quebrado, e de novo nÃ³s olhamos
+ para a superfÃ­cie em busca de sobrevivÃªncia.}
+{203}{}{Anos atrÃ¡s, alguÃ©m tentou tomar nossa fazenda, colhendo as plantaÃ§Ãµes e roubando animais
+ a que eles nÃ£o tinham direito. NÃ³s nÃ£o somos pessoas violentas por natureza, mas alguma coisa tinha de ser feita. Na Ã©poca
+ nossa sobrevivÃªncia dependia dessas plantaÃ§Ãµes. Foi quando tivemos a ideia dos fantasmas. Nos cobrindo
+ com fÃºngus brilhantes, fomos capazes de assustar essa pessoa e outros vizinhos curiosos.
+ Infelizmente, foi um pouco eficaz demais. Ultimamente, nÃ³s temos tentado fazer contato com
+ o povo da superfÃ­cie, porÃ©m ninguÃ©m mais apareceu na fazenda com medo dos fantasmas. Por sorte, vocÃª caiu aqui.}
+{206}{}{Chega! Sem mais perguntas. Tome sua decisÃ£o agora!}
+{207}{}{Me desculpe; Eu nÃ£o posso te ajudar.}
 {208}{}{Sim, eu terei prazer em levar sua mensagem para Modoc.}
-{209}{}{Sinto muito ouvir isso. Por favor se considere um convidado dos Slags. Quando nós finalmente
- estabelecer contato com o povo da superfície, nós permetiremos você sair. Até lá, não tente
- sair das cavernas - as consequências serão desagradáveis.}
-{210}{}{Com a conclusão do novo sistema de irrigação, nosso suprimento de comida vai exceder em muito as nossas necessidades. Nós
- queremos estabelecer um comércio com o povo da superfície e trocar suprimentos de comida por rémedios necessários.}
+{209}{}{Sinto muito ouvir isso. Por favor se considere um convidado dos Slags. Quando nÃ³s finalmente
+ estabelecer contato com o povo da superfÃ­cie, nÃ³s permetiremos vocÃª sair. AtÃ© lÃ¡, nÃ£o tente
+ sair das cavernas - as consequÃªncias serÃ£o desagradÃ¡veis.}
+{210}{}{Com a conclusÃ£o do novo sistema de irrigaÃ§Ã£o, nosso suprimento de comida vai exceder em muito as nossas necessidades. NÃ³s
+ queremos estabelecer um comÃ©rcio com o povo da superfÃ­cie e trocar suprimentos de comida por rÃ©medios necessÃ¡rios.}
 {213}{}{Por favor nos ilumine com sua sabedoria.}
-{216}{}{Eu sabia que você entenderia. Aqui está a mensagem transmitindo nosso pedido. Por favor leve-a para Modoc
+{216}{}{Eu sabia que vocÃª entenderia. Aqui estÃ¡ a mensagem transmitindo nosso pedido. Por favor leve-a para Modoc
  e entregue para a pessoa no comando. Retorne aqui quando completar a tarefa. Eu irei dizer para os Protetores
- aguardarem seu retorno. Agradecemos por você fazer esse serviço para nós.}
-{217}{}{Típico do povo da superfície. Nunca fazem nada para alguém se não tiver ganho pessoal
- envolvido. Obviamente, não confiamos em pessoas como você. Iremos encontrar alguma outra pessoa para entregar a
- mensagem. Apesar de não sermos pessoas violentas, não tente sair das cavernas ou irá se arrepender.}
-{218}{}{Hmm… Eu entendo. Tal decisão não pode ser tomada assim. Por favor me mantenha informado de seu
+ aguardarem seu retorno. Agradecemos por vocÃª fazer esse serviÃ§o para nÃ³s.}
+{217}{}{TÃ­pico do povo da superfÃ­cie. Nunca fazem nada para alguÃ©m se nÃ£o tiver ganho pessoal
+ envolvido. Obviamente, nÃ£o confiamos em pessoas como vocÃª. Iremos encontrar alguma outra pessoa para entregar a
+ mensagem. Apesar de nÃ£o sermos pessoas violentas, nÃ£o tente sair das cavernas ou irÃ¡ se arrepender.}
+{218}{}{Hmmâ€¦ Eu entendo. Tal decisÃ£o nÃ£o pode ser tomada assim. Por favor me mantenha informado de seu
  progresso.}
-{219}{}{Então não me incomode mais.}
-{220}{}{Sobre o quê?}
-{221}{}{Eles não confiam em vocês. Afinal, eles pensão que vocês matam quem passa por aqui e empalam os corpos na frente da sua
+{219}{}{EntÃ£o nÃ£o me incomode mais.}
+{220}{}{Sobre o quÃª?}
+{221}{}{Eles nÃ£o confiam em vocÃªs. Afinal, eles pensÃ£o que vocÃªs matam quem passa por aqui e empalam os corpos na frente da sua
  fazenda.}
 {222}{}{Eles querem saber o que aconteceu com o fazendeiro que vivia aqui.}
-{223}{}{Nós somos um povo pacífico, e não matamos ninguém. Esses corpos são meros bonecos que fizemos
- para assustar aqueles que tentam roubar de nós. Se você examinar os corpos de perto, você vai notar que eles não passam de
+{223}{}{NÃ³s somos um povo pacÃ­fico, e nÃ£o matamos ninguÃ©m. Esses corpos sÃ£o meros bonecos que fizemos
+ para assustar aqueles que tentam roubar de nÃ³s. Se vocÃª examinar os corpos de perto, vocÃª vai notar que eles nÃ£o passam de
  de tripas de brahmin e palha.}
-{224}{}{E sobre o pobre Karl? Você sabe, o fazendeiro que vivia na sua fazenda?}
-{225}{}{Esse era o nome dele, Karl? Nós assustamos ele, nada mais. Eu acredito que ele voltou para casa
- quando descobriu que a fazenda era assombrada. Os Protetores me informaram que ele foi para oeste. Você pode tentar
- procurá-lo nessa direção.}
+{224}{}{E sobre o pobre Karl? VocÃª sabe, o fazendeiro que vivia na sua fazenda?}
+{225}{}{Esse era o nome dele, Karl? NÃ³s assustamos ele, nada mais. Eu acredito que ele voltou para casa
+ quando descobriu que a fazenda era assombrada. Os Protetores me informaram que ele foi para oeste. VocÃª pode tentar
+ procurÃ¡-lo nessa direÃ§Ã£o.}
 {226}{}{Vou te manter informado sobre o meu progresso.}
-{227}{}{Nós o assustamos -- nada mais. Eu acredito que ele voltou para casa quando descobriu que
- a fazenda era assombrada. Os Protetores informaram que ele seguiu para noroeste. Você pode tentar procurá-lo nessa
- direção.}
-{231}{}{Vi que você conheceu o Jonny. Nós o encontramos vagando na escuridão de um dos nossos túneis mais profundos.
- Ele disse que caiu em um poço seco perto de sua casa, e então ficou preso em um túnel com uma caverna. Nós
- tratamos ele como um de nós e ele é amado por todos -- então você entenderá porque estou com receio de
- entregá-lo a um estranho que ainda tem que provar ser de confiança. Eu irei devolver o Jonny
- quando eu tiver certeza que ele chegará em casa com segurança.}
-{232}{}{Você provou ser de confiança sem deixar dúvidas. Tirando o fato de que iremos sentir falta do pequeno Jonny
- , nós iremos arrumar uma escolta para você e o Jonny voltarem para Modoc imediatamente.}
-{233}{}{Oh cara! Não acredito que você não se assustou com os nossos pequenos truques. Você é muito idiota para se assustar.
- Eu odeio depender de um indivíduo tão desafiado intelectualmente, mas nós precisamos dos seus serviços.
- Leve essa mensagem para Modoc. Entregue para o líder de Modoc e tente não se perder.}
+{227}{}{NÃ³s o assustamos -- nada mais. Eu acredito que ele voltou para casa quando descobriu que
+ a fazenda era assombrada. Os Protetores informaram que ele seguiu para noroeste. VocÃª pode tentar procurÃ¡-lo nessa
+ direÃ§Ã£o.}
+{231}{}{Vi que vocÃª conheceu o Jonny. NÃ³s o encontramos vagando na escuridÃ£o de um dos nossos tÃºneis mais profundos.
+ Ele disse que caiu em um poÃ§o seco perto de sua casa, e entÃ£o ficou preso em um tÃºnel com uma caverna. NÃ³s
+ tratamos ele como um de nÃ³s e ele Ã© amado por todos -- entÃ£o vocÃª entenderÃ¡ porque estou com receio de
+ entregÃ¡-lo a um estranho que ainda tem que provar ser de confianÃ§a. Eu irei devolver o Jonny
+ quando eu tiver certeza que ele chegarÃ¡ em casa com seguranÃ§a.}
+{232}{}{VocÃª provou ser de confianÃ§a sem deixar dÃºvidas. Tirando o fato de que iremos sentir falta do pequeno Jonny
+ , nÃ³s iremos arrumar uma escolta para vocÃª e o Jonny voltarem para Modoc imediatamente.}
+{233}{}{Oh cara! NÃ£o acredito que vocÃª nÃ£o se assustou com os nossos pequenos truques. VocÃª Ã© muito idiota para se assustar.
+ Eu odeio depender de um indivÃ­duo tÃ£o desafiado intelectualmente, mas nÃ³s precisamos dos seus serviÃ§os.
+ Leve essa mensagem para Modoc. Entregue para o lÃ­der de Modoc e tente nÃ£o se perder.}
 {300}{}{Eu vou embora agora.}
-{301}{}{O que você quer comigo?}
+{301}{}{O que vocÃª quer comigo?}
 {302}{}{Adeus.}
 {303}{}{Fantasmas?}
-{400}{}{A mensagem foi bem recebida. A cidade de Modoc gostaria de estabelecer comércio com o seu povo.}
+{400}{}{A mensagem foi bem recebida. A cidade de Modoc gostaria de estabelecer comÃ©rcio com o seu povo.}

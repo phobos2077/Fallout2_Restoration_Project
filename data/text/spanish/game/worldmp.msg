@@ -15,7 +15,7 @@
 {240}{}{Base}
 {250}{}{Hotel}
 {251}{}{Sala}
-{252}{}{Almacén de Agua}
+{252}{}{AlmacÃ©n de Agua}
 {260}{}{Entrada}
 {261}{}{Centro de la ciudad}
 {262}{}{Alturas}
@@ -41,10 +41,10 @@
 {304}{}{Almacen}
 {310}{}{Entrada}
 {311}{}{Interior}
-{500}{}{¡Has ganado 10.000 puntos de experiencia!}
+{500}{}{Â¡Has ganado 10.000 puntos de experiencia!}
 {501}{}{Ruinas}
 {1000}{}{Desierto}
-{1001}{}{Montañas}
+{1001}{}{MontaÃ±as}
 {1002}{}{Ciudad}
 {1003}{}{Costa}
 {1004}{}{Desconocido}

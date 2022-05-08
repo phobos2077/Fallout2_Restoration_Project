@@ -1,5 +1,5 @@
-{100}{}{Ez egy robot test. Úgy látszik, meg lehetne javítani a megfelel? alkatrészek birtokában.}
-{101}{}{Kicserélted a tönkrement motivátort.}
-{102}{}{Csatlakoztattad az agyat a robot test neurális interfészéhez.}
-{103}{}{A Bio-Med gél tartály tele van.}
+{100}{}{Ez egy robot test. Ãšgy lÃ¡tszik, meg lehetne javÃ­tani a megfelel? alkatrÃ©szek birtokÃ¡ban.}
+{101}{}{KicserÃ©lted a tÃ¶nkrement motivÃ¡tort.}
+{102}{}{Csatlakoztattad az agyat a robot test neurÃ¡lis interfÃ©szÃ©hez.}
+{103}{}{A Bio-Med gÃ©l tartÃ¡ly tele van.}
 {104}{}{Look's all set to be activated.}

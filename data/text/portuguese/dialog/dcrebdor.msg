@@ -1,34 +1,34 @@
-{100}{}{Você vê um guarda.}
-{101}{}{Você vê um guarda do Becky's Casino Bar.}
+{100}{}{VocÃª vÃª um guarda.}
+{101}{}{VocÃª vÃª um guarda do Becky's Casino Bar.}
 {150}{}{Ele parece estar de olho na porta.}
-{200}{}{Você não vai sair tão fácil.}
-{210}{}{Isto é para o quarto de Rebecca. Ninguém é permitido.}
-{211}{}{Espero que você esteja se divertindo.}
-{212}{}{Você está procurando por Becky? Ela está ali mesmo.}
+{200}{}{VocÃª nÃ£o vai sair tÃ£o fÃ¡cil.}
+{210}{}{Isto Ã© para o quarto de Rebecca. NinguÃ©m Ã© permitido.}
+{211}{}{Espero que vocÃª esteja se divertindo.}
+{212}{}{VocÃª estÃ¡ procurando por Becky? Ela estÃ¡ ali mesmo.}
 {213}{}{Oi.}
 {214}{}{Desfrute das mesas.}
 {215}{}{Becky tem as bebidas mais baratas da cidade.}
 {230}{}{Afaste-se disso agora mesmo.}
-{231}{}{Não toque nisso novamente.}
+{231}{}{NÃ£o toque nisso novamente.}
 {232}{}{Recuar!}
 {233}{}{Deixe isso sozinho.}
-{234}{}{O que você pensa que está fazendo?}
-{240}{}{Ladrão!}
-{250}{}{Nós não toleramos isso aqui.}
-{300}{}{Baby, você está fazendo algo depois do trabalho?}
-{301}{}{Você está bem, como sempre.}
-{302}{}{Você realmente sabe como correr a mesa, baby.}
-{303}{}{Ei mel, você pode pegar os dados de novo? Eu amo o jeito que você se move.}
-{304}{}{Olá. Como vai, doçura?}
-{305}{}{Então... você e eu... depois do trabalho?}
-{306}{}{Becky pode me dar amanhã se você estiver... disponível.}
-{307}{}{Eu já te disse o que olhos bonitos você tem?}
-{350}{}{Você me ignorando novamente. Dois podem jogar esse jogo.}
-{351}{}{O que? Você ainda está chateado comigo?}
-{352}{}{Você, uh, fazendo um bom trabalho... continue com seu trabalho...}
-{353}{}{O que? Você me ignorando novamente?}
-{354}{}{Você está ocupado... eu entendo. Vamos conversar mais tarde.}
-{355}{}{Cara, você sabe como jogar duro para conseguir.}
-{356}{}{Eu vou... uh, falo com você mais tarde, então.}
-{357}{}{Bom falar com você também... vou voltar mais lá, então.}
+{234}{}{O que vocÃª pensa que estÃ¡ fazendo?}
+{240}{}{LadrÃ£o!}
+{250}{}{NÃ³s nÃ£o toleramos isso aqui.}
+{300}{}{Baby, vocÃª estÃ¡ fazendo algo depois do trabalho?}
+{301}{}{VocÃª estÃ¡ bem, como sempre.}
+{302}{}{VocÃª realmente sabe como correr a mesa, baby.}
+{303}{}{Ei mel, vocÃª pode pegar os dados de novo? Eu amo o jeito que vocÃª se move.}
+{304}{}{OlÃ¡. Como vai, doÃ§ura?}
+{305}{}{EntÃ£o... vocÃª e eu... depois do trabalho?}
+{306}{}{Becky pode me dar amanhÃ£ se vocÃª estiver... disponÃ­vel.}
+{307}{}{Eu jÃ¡ te disse o que olhos bonitos vocÃª tem?}
+{350}{}{VocÃª me ignorando novamente. Dois podem jogar esse jogo.}
+{351}{}{O que? VocÃª ainda estÃ¡ chateado comigo?}
+{352}{}{VocÃª, uh, fazendo um bom trabalho... continue com seu trabalho...}
+{353}{}{O que? VocÃª me ignorando novamente?}
+{354}{}{VocÃª estÃ¡ ocupado... eu entendo. Vamos conversar mais tarde.}
+{355}{}{Cara, vocÃª sabe como jogar duro para conseguir.}
+{356}{}{Eu vou... uh, falo com vocÃª mais tarde, entÃ£o.}
+{357}{}{Bom falar com vocÃª tambÃ©m... vou voltar mais lÃ¡, entÃ£o.}
 {375}{}{Oh, merda...}

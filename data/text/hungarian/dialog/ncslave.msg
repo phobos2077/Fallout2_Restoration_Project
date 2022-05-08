@@ -1,113 +1,113 @@
 {100}{}{Ez a rabszolga igen beteges.}
 {101}{}{You see a drugged slave.}
 {102}{}{Rabszolga.}
-{150}{}{Ez az ember nagyon megtört. A tekintete ide-oda cikázik, mintha valami láthatatlan rovart akarna követni.}
-{151}{}{Ez a rabszolga igen beteges. Iszonyúan ijedt képet vág, a szeme pedig képtelen rádfókuszálni.}
-{152}{}{Ez a rabszolga igen beteges. A ruhája össze-vissza szakadozott, a b?re úgy lóg rajta, mint egy ruha.}
-{153}{}{Ez a rabszolga igen beteges. Keservesen köhög, inge mellkasi részét vérfoltok csúfítják.}
-{154}{}{Ez a rabszolga igen beteges. Rászáradt vizelet és ürülék szaga árad bel?le.}
-{155}{}{Ez a rabszolga igen beteges. A fogai kihullottak, a szemei vérben úsznak.}
-{156}{}{Ez a rabszolga igen beteges. Az arcát és a nyakát valami jellegzetes folt tarkítja, amit id?r?l-id?re megvakar.}
-{160}{}{A n? nagyon megtört. Egyfolytában a földet bámulja, mintha nem merne felpillantani.}
-{161}{}{Ez a rabszolga igen beteges. Iszonyúan ijedt képet vág, a szeme pedig képtelen rádfókuszálni.}
-{162}{}{Ez a rabszolga igen beteges. Úgy t?nik, nemigen vesz tudomást a folyamatosan rászálló döglegyek hadáról.}
-{163}{}{Ez a rabszolga igen beteges. A ruhája össze-vissza szakadozott, a b?re úgy lóg rajta, mint egy ruha.}
-{164}{}{Ez a rabszolga igen beteges. Minden lélegzetnél zihál és a taknya-nyála összefolyik.}
-{165}{}{Ez a rabszolga igen beteges. Rászáradt vizelet és ürülék szaga árad bel?le.}
-{166}{}{Ez a rabszolga igen beteges. Az arcát és a nyakát valami jellegzetes folt tarkítja, amit id?r?l-id?re megvakar.}
-{167}{}{Ez a rabszolga igen beteges. Olyan, mintha egyfolytában sírni akarna, de könnyek nem jönnek a szeméb?l.}
-{170}{}{Ez itt egy igen-igen lelassult fickó. Üres szemekkel bámul maga elé.}
+{150}{}{Ez az ember nagyon megtÃ¶rt. A tekintete ide-oda cikÃ¡zik, mintha valami lÃ¡thatatlan rovart akarna kÃ¶vetni.}
+{151}{}{Ez a rabszolga igen beteges. IszonyÃºan ijedt kÃ©pet vÃ¡g, a szeme pedig kÃ©ptelen rÃ¡dfÃ³kuszÃ¡lni.}
+{152}{}{Ez a rabszolga igen beteges. A ruhÃ¡ja Ã¶ssze-vissza szakadozott, a b?re Ãºgy lÃ³g rajta, mint egy ruha.}
+{153}{}{Ez a rabszolga igen beteges. Keservesen kÃ¶hÃ¶g, inge mellkasi rÃ©szÃ©t vÃ©rfoltok csÃºfÃ­tjÃ¡k.}
+{154}{}{Ez a rabszolga igen beteges. RÃ¡szÃ¡radt vizelet Ã©s Ã¼rÃ¼lÃ©k szaga Ã¡rad bel?le.}
+{155}{}{Ez a rabszolga igen beteges. A fogai kihullottak, a szemei vÃ©rben Ãºsznak.}
+{156}{}{Ez a rabszolga igen beteges. Az arcÃ¡t Ã©s a nyakÃ¡t valami jellegzetes folt tarkÃ­tja, amit id?r?l-id?re megvakar.}
+{160}{}{A n? nagyon megtÃ¶rt. EgyfolytÃ¡ban a fÃ¶ldet bÃ¡mulja, mintha nem merne felpillantani.}
+{161}{}{Ez a rabszolga igen beteges. IszonyÃºan ijedt kÃ©pet vÃ¡g, a szeme pedig kÃ©ptelen rÃ¡dfÃ³kuszÃ¡lni.}
+{162}{}{Ez a rabszolga igen beteges. Ãšgy t?nik, nemigen vesz tudomÃ¡st a folyamatosan rÃ¡szÃ¡llÃ³ dÃ¶glegyek hadÃ¡rÃ³l.}
+{163}{}{Ez a rabszolga igen beteges. A ruhÃ¡ja Ã¶ssze-vissza szakadozott, a b?re Ãºgy lÃ³g rajta, mint egy ruha.}
+{164}{}{Ez a rabszolga igen beteges. Minden lÃ©legzetnÃ©l zihÃ¡l Ã©s a taknya-nyÃ¡la Ã¶sszefolyik.}
+{165}{}{Ez a rabszolga igen beteges. RÃ¡szÃ¡radt vizelet Ã©s Ã¼rÃ¼lÃ©k szaga Ã¡rad bel?le.}
+{166}{}{Ez a rabszolga igen beteges. Az arcÃ¡t Ã©s a nyakÃ¡t valami jellegzetes folt tarkÃ­tja, amit id?r?l-id?re megvakar.}
+{167}{}{Ez a rabszolga igen beteges. Olyan, mintha egyfolytÃ¡ban sÃ­rni akarna, de kÃ¶nnyek nem jÃ¶nnek a szemÃ©b?l.}
+{170}{}{Ez itt egy igen-igen lelassult fickÃ³. Ãœres szemekkel bÃ¡mul maga elÃ©.}
 {171}{}{You see a drugged slave. His eyes dart around the area, never focusing on any one thing.}
 {172}{}{You see a drugged slave. As you watch, he bites his forearm and peels back some skin with his teeth, slowly chewing it.}
 {173}{}{You see a drugged slave. He has a faint smile on his face, but his eyes are glazed and vacant.}
 {174}{}{You see a drugged slave. He is gazing vacantly out into space, drool coming from his lips.}
 {175}{}{You see a drugged slave. As he sees you, he winces and gives a painful smile, as if you are too bright to look at.}
-{180}{}{Ez a n? reszket. A földet bámulja, mintha attól rettegne, elmegy alóla, ha nem nézi.}
+{180}{}{Ez a n? reszket. A fÃ¶ldet bÃ¡mulja, mintha attÃ³l rettegne, elmegy alÃ³la, ha nem nÃ©zi.}
 {181}{}{You see a drugged slave. She is giggling to herself, and there are traces of blood on the corners of her mouth.}
 {182}{}{You see a drugged slave. There are track marks on her arm intermixed with bruises and lash marks.}
 {183}{}{You see a drugged slave. She blinks rapidly, as if her eyes are dry.}
 {184}{}{You see a drugged slave. She is scratching the back her hands, so much so that the skin is tearing off.}
 {185}{}{You see a drugged slave. Vomit stains cover the front of her shirt, and she smells faintly of turpentine.}
-{190}{}{Ez az ember igen sovány. A testét korbácsnyomok borítják, közben jámbor arccal bámul a földre, mintha csak parancsra várna.}
-{191}{}{Ezt a rabszolgát jól megverték.}
-{192}{}{Ez az ember igen sovány. A testét korbácsnyomok borítják, közben jámbor arccal bámul a földre, mintha csak parancsra várna.}
-{195}{}{Ez a n? reszket. A testét korbácsnyomok borítják, közben a ruhája cafatokban lóg rajta.}
+{190}{}{Ez az ember igen sovÃ¡ny. A testÃ©t korbÃ¡csnyomok borÃ­tjÃ¡k, kÃ¶zben jÃ¡mbor arccal bÃ¡mul a fÃ¶ldre, mintha csak parancsra vÃ¡rna.}
+{191}{}{Ezt a rabszolgÃ¡t jÃ³l megvertÃ©k.}
+{192}{}{Ez az ember igen sovÃ¡ny. A testÃ©t korbÃ¡csnyomok borÃ­tjÃ¡k, kÃ¶zben jÃ¡mbor arccal bÃ¡mul a fÃ¶ldre, mintha csak parancsra vÃ¡rna.}
+{195}{}{Ez a n? reszket. A testÃ©t korbÃ¡csnyomok borÃ­tjÃ¡k, kÃ¶zben a ruhÃ¡ja cafatokban lÃ³g rajta.}
 {196}{}{Egy rabszolga-n?...}
-{197}{}{Egy rabszolga-n?t látsz. Egyfolytában reszket, a testét korbácsnyomok borítják.}
+{197}{}{Egy rabszolga-n?t lÃ¡tsz. EgyfolytÃ¡ban reszket, a testÃ©t korbÃ¡csnyomok borÃ­tjÃ¡k.}
 {200}{}{::Snnnffff::}
-{201}{}{::Höhhhhk::}
-{202}{}{::Köhög::}
-{203}{}{::Vakaródzik::}
+{201}{}{::HÃ¶hhhhk::}
+{202}{}{::KÃ¶hÃ¶g::}
+{203}{}{::VakarÃ³dzik::}
 {204}{}{::Elhessegeti a legyeket::}
 {210}{}{::Snnnffff::}
 {211}{}{*Kuncog*}
 {212}{}{Heeeeeeee}
 {213}{}{Hee heeee hee.. hee..}
 {214}{}{EeeeEEEEeeeeEEEE}
-{220}{}{::Üres arccal bámul rád::}
-{221}{}{::Csendesen sír::}
-{222}{}{::Üres arccal bámul rád::}
-{223}{}{::Hülyén pislog feléd::}
-{224}{}{::Zihálva köhög::}
-{225}{}{::Érthetetlenül mormog valamit::}
+{220}{}{::Ãœres arccal bÃ¡mul rÃ¡d::}
+{221}{}{::Csendesen sÃ­r::}
+{222}{}{::Ãœres arccal bÃ¡mul rÃ¡d::}
+{223}{}{::HÃ¼lyÃ©n pislog felÃ©d::}
+{224}{}{::ZihÃ¡lva kÃ¶hÃ¶g::}
+{225}{}{::Ã‰rthetetlenÃ¼l mormog valamit::}
 {226}{}{Hnnnnnh... hnnn}
-{227}{}{::Megtörli az orrát a kezével::}
-{228}{}{Hönnnnnhh}
-{229}{}{Rrrörr..rrr... ::Köhög::}
-{240}{}{::A szemét dörzsöli::}
-{241}{}{::Horkant mint a disznó::}
-{242}{}{::Megvakarja a fejét, aztán a szemét dörzsöli::}
+{227}{}{::MegtÃ¶rli az orrÃ¡t a kezÃ©vel::}
+{228}{}{HÃ¶nnnnnhh}
+{229}{}{RrrÃ¶rr..rrr... ::KÃ¶hÃ¶g::}
+{240}{}{::A szemÃ©t dÃ¶rzsÃ¶li::}
+{241}{}{::Horkant mint a disznÃ³::}
+{242}{}{::Megvakarja a fejÃ©t, aztÃ¡n a szemÃ©t dÃ¶rzsÃ¶li::}
 {243}{}{Hee heeee hee.. hee..}
 {244}{}{Ugyi Gugyi Bugyi}
-{245}{}{Fúú-fúúúúúú}
+{245}{}{FÃºÃº-fÃºÃºÃºÃºÃºÃº}
 {246}{}{EeeeEEEEeeeeEEEE}
-{247}{}{A szemem egy nagy bogár}
-{248}{}{Hú hú hú hú}
-{249}{}{Húúú Húúúú}
-{250}{}{Múúúúúúúúú}
-{251}{}{Rossz vagyok jó vagyok rossz vagyok jó vagyok}
-{252}{}{Ez mindennél jobb}
-{260}{}{Már van gazdám. Nála vannak a papírjaim.}
-{261}{}{Kérlek, hagyj! Már van gazdám.}
-{262}{}{Könyörgöm... láttál két sötét hajú gyereket? Egy másik hajcsár vitte el ?ket két évvel ezel?tt és Északon adott túl rajtuk.}
-{263}{}{Nagyon kérlek... nem beszélhetek senkivel!}
+{247}{}{A szemem egy nagy bogÃ¡r}
+{248}{}{HÃº hÃº hÃº hÃº}
+{249}{}{HÃºÃºÃº HÃºÃºÃºÃº}
+{250}{}{MÃºÃºÃºÃºÃºÃºÃºÃºÃº}
+{251}{}{Rossz vagyok jÃ³ vagyok rossz vagyok jÃ³ vagyok}
+{252}{}{Ez mindennÃ©l jobb}
+{260}{}{MÃ¡r van gazdÃ¡m. NÃ¡la vannak a papÃ­rjaim.}
+{261}{}{KÃ©rlek, hagyj! MÃ¡r van gazdÃ¡m.}
+{262}{}{KÃ¶nyÃ¶rgÃ¶m... lÃ¡ttÃ¡l kÃ©t sÃ¶tÃ©t hajÃº gyereket? Egy mÃ¡sik hajcsÃ¡r vitte el ?ket kÃ©t Ã©vvel ezel?tt Ã©s Ã‰szakon adott tÃºl rajtuk.}
+{263}{}{Nagyon kÃ©rlek... nem beszÃ©lhetek senkivel!}
 {264}{}{Please... let me be. My master will be back soon.}
-{265}{}{Ha a gazdám meglátja, hogy egy hajcsárral beszélek, el fog verni.}
-{266}{}{Már van gazdám. Nem fog örülni, ha meglátja, hogy veled beszélgetek.}
-{267}{}{Nem beszélhetek veled. Kötelességeim vannak.}
+{265}{}{Ha a gazdÃ¡m meglÃ¡tja, hogy egy hajcsÃ¡rral beszÃ©lek, el fog verni.}
+{266}{}{MÃ¡r van gazdÃ¡m. Nem fog Ã¶rÃ¼lni, ha meglÃ¡tja, hogy veled beszÃ©lgetek.}
+{267}{}{Nem beszÃ©lhetek veled. KÃ¶telessÃ©geim vannak.}
 {268}{}{If I am caught speaking to a slaver, they will start testing the drugs on me.}
-{269}{}{Kérlek, menj el, rabszolga-keresked?! Nem akarok bajt.}
-{270}{}{Ne beszél itt szökésr?l! Én... sosem próbáltam megszökni innen. Nem mernék ellenszegülni a gazdámnak.}
+{269}{}{KÃ©rlek, menj el, rabszolga-keresked?! Nem akarok bajt.}
+{270}{}{Ne beszÃ©l itt szÃ¶kÃ©sr?l! Ã‰n... sosem prÃ³bÃ¡ltam megszÃ¶kni innen. Nem mernÃ©k ellenszegÃ¼lni a gazdÃ¡mnak.}
 {280}{}{If they catch me talking to you, they will start testing drugs on me.}
-{281}{}{Egy másik rabszolgával dolgoztam együtt, de néhány napja meghalt túladagolásban.}
+{281}{}{Egy mÃ¡sik rabszolgÃ¡val dolgoztam egyÃ¼tt, de nÃ©hÃ¡ny napja meghalt tÃºladagolÃ¡sban.}
 {282}{}{They test new drugs on us. Some are poisonous.}
-{283}{}{A gazdám... jó hozzám.}
-{284}{}{A gazdám megtiltotta, hogy bárkivel is beszélgessek.}
-{285}{}{Légyszíves... nem beszélgethetünk!}
-{286}{}{Kérlek, hagyj magamra! A gazdám hamarosan visszajön.}
-{287}{}{Ha a gazdám elkap, hogy beszélgetünk, el fog verni.}
-{288}{}{A gazdám jó ember. Csak ritkán ver meg.}
-{289}{}{Nem hiányzik a család. A gazdám kedves hozzám.}
+{283}{}{A gazdÃ¡m... jÃ³ hozzÃ¡m.}
+{284}{}{A gazdÃ¡m megtiltotta, hogy bÃ¡rkivel is beszÃ©lgessek.}
+{285}{}{LÃ©gyszÃ­ves... nem beszÃ©lgethetÃ¼nk!}
+{286}{}{KÃ©rlek, hagyj magamra! A gazdÃ¡m hamarosan visszajÃ¶n.}
+{287}{}{Ha a gazdÃ¡m elkap, hogy beszÃ©lgetÃ¼nk, el fog verni.}
+{288}{}{A gazdÃ¡m jÃ³ ember. Csak ritkÃ¡n ver meg.}
+{289}{}{Nem hiÃ¡nyzik a csalÃ¡d. A gazdÃ¡m kedves hozzÃ¡m.}
 {290}{}{I was taken from a tribal village north of here. Life is much... better here.}
 {291}{}{Engem Rejtekben ejtettek foglyul.}
-{292}{}{Nem beszélhetek veled. El kell végeznem a munkámat.}
-{293}{}{Miel?tt a gazdám visszajön, be kell fejeznem a munkámat.}
-{294}{}{Tilos beszélnünk!}
-{295}{}{Kérlek, menj el! Könyörgöm! Így csak bajba sodorsz!}
-{296}{}{Megszökni? Nincs hova. A pusztákat szörnyetegek lakják! Elevenen megeszik a szökevényeket.}
-{297}{}{A lebeteged? rabszolgákat rendszerint megölik.}
-{298}{}{Nekem sikerült eljutnom New Reno-ig. A másik kett? megbetegedett és a hajcsárok lel?tték ?ket.}
-{299}{}{Igen? Miben segíthetek?}
-{300}{}{Hallottam pletykákat rebesgetni valami földalatti vágányrendszerr?l, de nem tudok senkir?l, aki meglépett volna.}
-{301}{}{Julia megszökött, de másnap elfogták a Golgotán. Kikötözték egy kerékhez, és hagyták éhenhalni.}
-{302}{}{A szökevény rabszolgákat elfogják és hagyják ?ket meghalni a Golgotán.}
-{303}{}{Nem, fogalmam sincs, hol lehet a családom. Néha még gondolok rájuk, de nem túl gyakran.}
-{304}{}{New Reno, hogy is mondjam... nem olyan rossz hely, mint Rejtek. Legalábbis egy-két tekintetben.}
-{305}{}{::Félve elfordul::}
-{306}{}{::Fél, ezért inkább elfordul t?led.::}
-{307}{}{Ha rájöttél, mit kíván a gazdád, a verések... megritkulnak.}
-{308}{}{Valamikor régen rabszolga-keresked?k fogtak el. Már alig emlékszem rá.}
-{309}{}{Régen volt két gyermekem, de elhurcolták ?ket észak felé. Remélem, valami jobb helyen kötöttek ki, mint ez.}
-{310}{}{Sajnálom, de nincs id?m beszélgetni.}
-{311}{}{A gazdám mostanában haragszik rám. Azt mondja, ha még egyszer feldühítem, el fog adni az Istállóba.}
-{312}{}{A szökevények mind a Golgotán végzik, vagy eladják ?ket az Istállóba tesztelés céljából.}
+{292}{}{Nem beszÃ©lhetek veled. El kell vÃ©geznem a munkÃ¡mat.}
+{293}{}{Miel?tt a gazdÃ¡m visszajÃ¶n, be kell fejeznem a munkÃ¡mat.}
+{294}{}{Tilos beszÃ©lnÃ¼nk!}
+{295}{}{KÃ©rlek, menj el! KÃ¶nyÃ¶rgÃ¶m! Ãgy csak bajba sodorsz!}
+{296}{}{MegszÃ¶kni? Nincs hova. A pusztÃ¡kat szÃ¶rnyetegek lakjÃ¡k! Elevenen megeszik a szÃ¶kevÃ©nyeket.}
+{297}{}{A lebeteged? rabszolgÃ¡kat rendszerint megÃ¶lik.}
+{298}{}{Nekem sikerÃ¼lt eljutnom New Reno-ig. A mÃ¡sik kett? megbetegedett Ã©s a hajcsÃ¡rok lel?ttÃ©k ?ket.}
+{299}{}{Igen? Miben segÃ­thetek?}
+{300}{}{Hallottam pletykÃ¡kat rebesgetni valami fÃ¶ldalatti vÃ¡gÃ¡nyrendszerr?l, de nem tudok senkir?l, aki meglÃ©pett volna.}
+{301}{}{Julia megszÃ¶kÃ¶tt, de mÃ¡snap elfogtÃ¡k a GolgotÃ¡n. KikÃ¶tÃ¶ztÃ©k egy kerÃ©khez, Ã©s hagytÃ¡k Ã©henhalni.}
+{302}{}{A szÃ¶kevÃ©ny rabszolgÃ¡kat elfogjÃ¡k Ã©s hagyjÃ¡k ?ket meghalni a GolgotÃ¡n.}
+{303}{}{Nem, fogalmam sincs, hol lehet a csalÃ¡dom. NÃ©ha mÃ©g gondolok rÃ¡juk, de nem tÃºl gyakran.}
+{304}{}{New Reno, hogy is mondjam... nem olyan rossz hely, mint Rejtek. LegalÃ¡bbis egy-kÃ©t tekintetben.}
+{305}{}{::FÃ©lve elfordul::}
+{306}{}{::FÃ©l, ezÃ©rt inkÃ¡bb elfordul t?led.::}
+{307}{}{Ha rÃ¡jÃ¶ttÃ©l, mit kÃ­vÃ¡n a gazdÃ¡d, a verÃ©sek... megritkulnak.}
+{308}{}{Valamikor rÃ©gen rabszolga-keresked?k fogtak el. MÃ¡r alig emlÃ©kszem rÃ¡.}
+{309}{}{RÃ©gen volt kÃ©t gyermekem, de elhurcoltÃ¡k ?ket Ã©szak felÃ©. RemÃ©lem, valami jobb helyen kÃ¶tÃ¶ttek ki, mint ez.}
+{310}{}{SajnÃ¡lom, de nincs id?m beszÃ©lgetni.}
+{311}{}{A gazdÃ¡m mostanÃ¡ban haragszik rÃ¡m. Azt mondja, ha mÃ©g egyszer feldÃ¼hÃ­tem, el fog adni az IstÃ¡llÃ³ba.}
+{312}{}{A szÃ¶kevÃ©nyek mind a GolgotÃ¡n vÃ©gzik, vagy eladjÃ¡k ?ket az IstÃ¡llÃ³ba tesztelÃ©s cÃ©ljÃ¡bÃ³l.}

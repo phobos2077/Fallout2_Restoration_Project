@@ -1,90 +1,90 @@
 {100}{}{Widzisz Martina.}
-{101}{}{Widzisz cz³owieka z wybit¹ szczêk¹, który notorycznie mruga oczyma.}
+{101}{}{Widzisz czÅ‚owieka z wybitÄ… szczÄ™kÄ…, ktÃ³ry notorycznie mruga oczyma.}
 {102}{}{Widzisz Martina.}
-{103}{}{Widzisz cz³owieka z wybit¹ szczêk¹, który notorycznie mruga oczyma.}
-{104}{}{Dziêki za u-u-uratowanie nas. S³ysza³em o tym nawet tu-tu-tutaj.}
+{103}{}{Widzisz czÅ‚owieka z wybitÄ… szczÄ™kÄ…, ktÃ³ry notorycznie mruga oczyma.}
+{104}{}{DziÄ™ki za u-u-uratowanie nas. SÅ‚yszaÅ‚em o tym nawet tu-tu-tutaj.}
 {105}{}{Po-po-pomocy! Intruz!}
 {106}{}{Mu-mu-mutant! Po-po-pomocy!}
 {107}{}{Ghh-Gh-Ghul! Po-po-pomocy!}
 {108}{}{::Bum-bam-bum-bam::}
 {109}{}{2 sekundy}
-{110}{}{"Moooo-¿eeee..."}
+{110}{}{"Moooo-Å¼eeee..."}
 {111}{}{2 sekundy}
-{112}{}{"Pooomyœlisz o mnieeee... gdy jeeesteœ saaaama..."}
+{112}{}{"PooomyÅ›lisz o mnieeee... gdy jeeesteÅ› saaaama..."}
 {113}{}{2 sekundy}
-{114}{}{"Moooo-¿eeee...ten który czeeeeka...na cieeeebie..."}
+{114}{}{"Moooo-Å¼eeee...ten ktÃ³ry czeeeeka...na cieeeebie..."}
 {115}{}{2 sekundy}
-{116}{}{"...z³aaamie ci seerce..."}
+{116}{}{"...zÅ‚aaamie ci seerce..."}
 {117}{}{2 sekundy}
 {118}{}{"...co wtedy zrooobisz?"}
 {119}{}{2 sekundy}
-{120}{}{::Udaje oklaski i szaleñstwo t³umu::}
+{120}{}{::Udaje oklaski i szaleÅ„stwo tÅ‚umu::}
 {121}{}{2 sekundy}
-{122}{}{Dzi-dziêkujê wam, je-jesteœcie w-wspania³¹ pu-publicznoœci¹!}
+{122}{}{Dzi-dziÄ™kujÄ™ wam, je-jesteÅ›cie w-wspaniaÅ‚Ä… pu-publicznoÅ›ciÄ…!}
 {123}{}{2 sekundy}
 {124}{}{Je-jeszcze raz? Nie-nie ma sprawy!}
 {125}{}{*Snfff*}
 {126}{}{Co...?!! Ajjj!}
 {127}{}{Aaaajjjjjjjj!}
 {128}{}{Hej, spokojnie!}
-{129}{}{Jaki masz, do cholery, problem?! Uspokój siê!}
-{130}{}{U-uwa¿aj! Mo-mo¿esz przy-przyprawiæ mnie o-o-o zawa³.}
+{129}{}{Jaki masz, do cholery, problem?! UspokÃ³j siÄ™!}
+{130}{}{U-uwaÅ¼aj! Mo-moÅ¼esz przy-przyprawiÄ‡ mnie o-o-o zawaÅ‚.}
 {131}{}{Aiiieeee! Aiiieeee!}
-{132}{}{Przepraszam, to nie by³o celowe.}
-{133}{}{Mu-Mu-MUSISZ uwa¿aæ na to co dzieje siê dooko³a ciebie, bo jeŸli nie to prêdzej czy póŸniej ktoŸ tutaj zejdzie na zerce.}
+{132}{}{Przepraszam, to nie byÅ‚o celowe.}
+{133}{}{Mu-Mu-MUSISZ uwaÅ¼aÄ‡ na to co dzieje siÄ™ dookoÅ‚a ciebie, bo jeÅºli nie to prÄ™dzej czy pÃ³Åºniej ktoÅº tutaj zejdzie na zerce.}
 {134}{}{Nie-nie ma zprawy.}
 {135}{}{Ja-ja-jasne}
-{136}{}{Po prozdu nie-niewiele ludzi schodzi dz-dziœ do Zchronu.}
-{137}{}{(Nie ma sprawy. Po prostu niewiele ludzi schodzi dziœ do Krypty.)}
-{138}{}{(Przepraszam. Po prostu niewiele ludzi schodzi dziœ do Ktypty.)}
+{136}{}{Po prozdu nie-niewiele ludzi schodzi dz-dziÅ› do Zchronu.}
+{137}{}{(Nie ma sprawy. Po prostu niewiele ludzi schodzi dziÅ› do Krypty.)}
+{138}{}{(Przepraszam. Po prostu niewiele ludzi schodzi dziÅ› do Ktypty.)}
 {139}{}{Co masz tutaj do roboty?}
-{140}{}{Czy mo¿esz mi powiedzieæ, gdzie jest G³ówny Komputer Krypty?}
-{141}{}{Aha. Œwietnie siê z tob¹ rozmawia³o. Na razie.}
-{142}{}{O-on je-jezd t-tutaj. To t-t-ten ga-ga-gad¹jacy ko-komputer.}
-{143}{}{(On jest tutaj. To ten gadaj¹cy komputer.)}
+{140}{}{Czy moÅ¼esz mi powiedzieÄ‡, gdzie jest GÅ‚Ã³wny Komputer Krypty?}
+{141}{}{Aha. Åšwietnie siÄ™ z tobÄ… rozmawiaÅ‚o. Na razie.}
+{142}{}{O-on je-jezd t-tutaj. To t-t-ten ga-ga-gadÄ…jacy ko-komputer.}
+{143}{}{(On jest tutaj. To ten gadajÄ…cy komputer.)}
 {144}{}{Co masz tutaj do roboty?}
-{145}{}{Dziêki. Do zobaczenia.}
-{146}{}{Rzuciæ cz-czasem o-okiem na rz-rzeczy tu magazynofane. U-U-pewniæ ziem, ¿e fszystkie drzwi s¹ zam-zamkniete.}
-{147}{}{(Rzuciæ czasem okiem na rzeczy tu zmagazynowane. Upewniæ siê, ¿e wszystkie drzwi s¹ zamkniête.)}
+{145}{}{DziÄ™ki. Do zobaczenia.}
+{146}{}{RzuciÄ‡ cz-czasem o-okiem na rz-rzeczy tu magazynofane. U-U-pewniÄ‡ ziem, Å¼e fszystkie drzwi sÄ… zam-zamkniete.}
+{147}{}{(RzuciÄ‡ czasem okiem na rzeczy tu zmagazynowane. UpewniÄ‡ siÄ™, Å¼e wszystkie drzwi sÄ… zamkniÄ™te.)}
 {148}{}{Masz klucz?}
 {149}{}{Co tutaj przechowujecie?}
-{150}{}{Zobaczymy siê nied³ugo. Czeœæ.}
-{151}{}{Hm-hm. Ni-nie ma znaczenja, poniewasz wi-wienkszoœæ drzwi j-jest i tak z-zatszaœniêta na a-amen.}
-{152}{}{(Hm-hm. Nie ma znaczenia, poniewa¿ wiêkszoœæ drzwi jest i tak zatrzaœniêta na amen.)}
+{150}{}{Zobaczymy siÄ™ niedÅ‚ugo. CzeÅ›Ä‡.}
+{151}{}{Hm-hm. Ni-nie ma znaczenja, poniewasz wi-wienkszoÅ›Ä‡ drzwi j-jest i tak z-zatszaÅ›niÄ™ta na a-amen.}
+{152}{}{(Hm-hm. Nie ma znaczenia, poniewaÅ¼ wiÄ™kszoÅ›Ä‡ drzwi jest i tak zatrzaÅ›niÄ™ta na amen.)}
 {153}{}{Co tutaj przechowujecie?}
-{154}{}{Zobaczymy siê nied³ugo. Czeœæ.}
-{155}{}{Cz-czêœci za-zamienne... za-zapasy... i r-r-rudê...}
-{156}{}{(Czêœci zamienne, zapasy i rudê.)}
-{157}{}{Rudê?}
-{158}{}{Aha. Dziêki za informacje.}
-{159}{}{R-r-rudê z Re-Re-Redding... ni-nie ma jej o-obecnie t-tak du¿o.}
-{160}{}{(Rudê z Redding. Nie ma jej obecnie tak du¿o.)}
-{161}{}{Nie ma du¿o rudy z Redding? Dlaczego?}
-{162}{}{Aha. Dziêki za informacje.}
-{163}{}{Ni-nie wiem. Mak-MakKlure jezd powa¿nie za-zaniepokojony w zw-zwi¹zku z tom sytuacjom.}
-{164}{}{(Nie wiem. McClure jest powa¿nie zaniepokojony w zwi¹zku z t¹ sytuacj¹.)}
-{165}{}{Czy mo¿esz mi powiedzieæ, gdzie jest G³ówny Komputer?}
-{166}{}{Wobec tego mo¿e porozmawiam w³aœnie z nim. Dziêki.}
-{167}{}{Wi-witaj p-p-ponownie. Po-poczebujesz czegoœ?}
-{168}{}{(Witaj ponownie. Potrzebujesz czegoœ?)}
+{154}{}{Zobaczymy siÄ™ niedÅ‚ugo. CzeÅ›Ä‡.}
+{155}{}{Cz-czÄ™Å›ci za-zamienne... za-zapasy... i r-r-rudÄ™...}
+{156}{}{(CzÄ™Å›ci zamienne, zapasy i rudÄ™.)}
+{157}{}{RudÄ™?}
+{158}{}{Aha. DziÄ™ki za informacje.}
+{159}{}{R-r-rudÄ™ z Re-Re-Redding... ni-nie ma jej o-obecnie t-tak duÅ¼o.}
+{160}{}{(RudÄ™ z Redding. Nie ma jej obecnie tak duÅ¼o.)}
+{161}{}{Nie ma duÅ¼o rudy z Redding? Dlaczego?}
+{162}{}{Aha. DziÄ™ki za informacje.}
+{163}{}{Ni-nie wiem. Mak-MakKlure jezd powaÅ¼nie za-zaniepokojony w zw-zwiÄ…zku z tom sytuacjom.}
+{164}{}{(Nie wiem. McClure jest powaÅ¼nie zaniepokojony w zwiÄ…zku z tÄ… sytuacjÄ….)}
+{165}{}{Czy moÅ¼esz mi powiedzieÄ‡, gdzie jest GÅ‚Ã³wny Komputer?}
+{166}{}{Wobec tego moÅ¼e porozmawiam wÅ‚aÅ›nie z nim. DziÄ™ki.}
+{167}{}{Wi-witaj p-p-ponownie. Po-poczebujesz czegoÅ›?}
+{168}{}{(Witaj ponownie. Potrzebujesz czegoÅ›?)}
 {169}{}{Geeechk}
-{170}{}{Czy móg³byœ ju¿ przestaæ œpiewaæ, do jasnej cholery?! Oszaleje przez to.}
-{171}{}{Masz wymarzony g³os do œpiewania. Powinieneœ wiêcej æwiczyæ.}
+{170}{}{Czy mÃ³gÅ‚byÅ› juÅ¼ przestaÄ‡ Å›piewaÄ‡, do jasnej cholery?! Oszaleje przez to.}
+{171}{}{Masz wymarzony gÅ‚os do Å›piewania. PowinieneÅ› wiÄ™cej Ä‡wiczyÄ‡.}
 {172}{}{Powiedz mi raz jeszcze, co masz tutaj do roboty?}
-{173}{}{Niewa¿ne. Przepraszam za zawracanie g³owy.}
-{174}{}{Dz-dziêki! Za-zawsze mi-mi³o u-us³yszeæ coŸ takiego.}
+{173}{}{NiewaÅ¼ne. Przepraszam za zawracanie gÅ‚owy.}
+{174}{}{Dz-dziÄ™ki! Za-zawsze mi-miÅ‚o u-usÅ‚yszeÄ‡ coÅº takiego.}
 {175}{}{Powiedz mi raz jeszcze, co masz tutaj do roboty?}
-{176}{}{Po prostu przysz³o mi do g³owy, ¿e powinieneœ wiedzieæ. Trzymaj siê.}
+{176}{}{Po prostu przyszÅ‚o mi do gÅ‚owy, Å¼e powinieneÅ› wiedzieÄ‡. Trzymaj siÄ™.}
 {177}{}{P-p-pewnie. Z-z-zaraz pszestane.}
-{178}{}{(Pewnie. Zaraz przestanê.)}
+{178}{}{(Pewnie. Zaraz przestanÄ™.)}
 {179}{}{Aha... powiedz mi raz jeszcze, co masz tutaj do roboty?}
-{180}{}{Dobra. Uczyñ wszystkim przys³ugê, i siedŸ cicho.}
-{181}{}{M-m-m-masz byæ ci-cicho!! Ciiiii!}
+{180}{}{Dobra. UczyÅ„ wszystkim przysÅ‚ugÄ™, i siedÅº cicho.}
+{181}{}{M-m-m-masz byÄ‡ ci-cicho!! Ciiiii!}
 {182}{}{Jaaaaasne.}
 {183}{}{C-c-co t-ty tu r-robisz?!}
 {184}{}{GEK}
-{185}{}{Ge-ge-GECK? S-s-sprawdŸ w tym ko-ko-komputerze... ga-gadaj¹cym pudle.}
+{185}{}{Ge-ge-GECK? S-s-sprawdÅº w tym ko-ko-komputerze... ga-gadajÄ…cym pudle.}
 {186}{}{Okeeej. Dzienki.}
 {187}{}{Zuh-zuh-zuh-Zzzzzzzzz}
-{188}{}{Ni-nie z-zbli¿aj siê do t-t-tych d-drzwi!}
+{188}{}{Ni-nie z-zbliÅ¼aj siÄ™ do t-t-tych d-drzwi!}
 {189}{}{Zzzzzzz.}

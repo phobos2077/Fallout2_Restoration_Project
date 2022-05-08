@@ -1,1 +1,1 @@
-{100}{}{Este armário requer um código de chave.}
+{100}{}{Este armÃ¡rio requer um cÃ³digo de chave.}

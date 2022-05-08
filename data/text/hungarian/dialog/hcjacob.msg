@@ -1,150 +1,150 @@
-{100}{}{Egy vézna embert látsz. Laboratóriumi köpenyt visel.}
-{101}{}{Jacob, a vegyész.}
-{102}{}{Egy vézna embert látsz, aki foltos köpenyt visel. Kézfejeit elszínezték a vegyianyagok.}
+{100}{}{Egy vÃ©zna embert lÃ¡tsz. LaboratÃ³riumi kÃ¶penyt visel.}
+{101}{}{Jacob, a vegyÃ©sz.}
+{102}{}{Egy vÃ©zna embert lÃ¡tsz, aki foltos kÃ¶penyt visel. KÃ©zfejeit elszÃ­neztÃ©k a vegyianyagok.}
 {103}{}{Hi there. I'm Jacob, the chemist of the Chemist's Drugstore. What can I do for you?}
 {104}{}{Mit akarsz?}
-{105}{}{Helló! Mit tehetek érted?}
-{106}{}{Üdv! Mit tehetek érted?}
-{107}{}{Da jagga! Ííp úúp op!}
-{108}{}{Gógyszertára? Gyógyszerpára?}
-{109}{}{Van nálam egy kis finomítandó érc, de nem akarok annyit fizetni, amennyit a finomítóban kérnek.}
+{105}{}{HellÃ³! Mit tehetek Ã©rted?}
+{106}{}{Ãœdv! Mit tehetek Ã©rted?}
+{107}{}{Da jagga! ÃÃ­p ÃºÃºp op!}
+{108}{}{GÃ³gyszertÃ¡ra? GyÃ³gyszerpÃ¡ra?}
+{109}{}{Van nÃ¡lam egy kis finomÃ­tandÃ³ Ã©rc, de nem akarok annyit fizetni, amennyit a finomÃ­tÃ³ban kÃ©rnek.}
 {110}{}{Mit tudsz mondani Broken Hillsr?l?}
-{111}{}{Szeretnék kikevertetni valamit.}
-{112}{}{Azt mondták, hogy beszéljek veled egy bizonyos mutánsokkal kapcsolatos problémáról.}
-{113}{}{Viszlát!}
-{114}{}{::arca grimaszba rándul:: Menj innen! Nincs id?m az ilyenekre!}
+{111}{}{SzeretnÃ©k kikevertetni valamit.}
+{112}{}{Azt mondtÃ¡k, hogy beszÃ©ljek veled egy bizonyos mutÃ¡nsokkal kapcsolatos problÃ©mÃ¡rÃ³l.}
+{113}{}{ViszlÃ¡t!}
+{114}{}{::arca grimaszba rÃ¡ndul:: Menj innen! Nincs id?m az ilyenekre!}
 {115}{}{[DONE]}
 {116}{}{Drugstore. It's a drugstore. Look, do you want anything?}
-{117}{}{Megint te? Szeretnél valamit?}
+{117}{}{Megint te? SzeretnÃ©l valamit?}
 {118}{}{Ige'!}
 {119}{}{Nemm.}
-{120}{}{Rendben. Lássuk, mit adhatok!}
-{121}{}{[TOVÁBB]}
-{122}{}{Akkor távozz!}
+{120}{}{Rendben. LÃ¡ssuk, mit adhatok!}
+{121}{}{[TOVÃBB]}
+{122}{}{Akkor tÃ¡vozz!}
 {123}{}{[DONE]}
-{124}{}{Tessék. Megvagyunk. Kösz a borravalót. Most pedig kérlek, távozz!}
-{125}{}{Okké!}
-{148}{}{El?bb mondd el, hogy viszonyulsz a mutánsokhoz!}
-{149}{}{Gy?lölöm ?ket.}
-{150}{}{Nem foglalnék állást.}
+{124}{}{TessÃ©k. Megvagyunk. KÃ¶sz a borravalÃ³t. Most pedig kÃ©rlek, tÃ¡vozz!}
+{125}{}{OkkÃ©!}
+{148}{}{El?bb mondd el, hogy viszonyulsz a mutÃ¡nsokhoz!}
+{149}{}{Gy?lÃ¶lÃ¶m ?ket.}
+{150}{}{Nem foglalnÃ©k Ã¡llÃ¡st.}
 {151}{}{Szeretem ?ket!}
-{152}{}{Akkor elmondom neked az igaz történetet.}
+{152}{}{Akkor elmondom neked az igaz tÃ¶rtÃ©netet.}
 {153}{}{A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along
  and forced everyone under his rule. }
-{154}{}{Elég! Te ?rült vagy. Viszlát!}
-{155}{}{Mesélj még!}
-{156}{}{Talán elmondom az igaz történetet, ha meggondolod magad.}
-{157}{}{Oké. Mondd el!}
-{158}{}{Nem. Nem érdekel.}
+{154}{}{ElÃ©g! Te ?rÃ¼lt vagy. ViszlÃ¡t!}
+{155}{}{MesÃ©lj mÃ©g!}
+{156}{}{TalÃ¡n elmondom az igaz tÃ¶rtÃ©netet, ha meggondolod magad.}
+{157}{}{OkÃ©. Mondd el!}
+{158}{}{Nem. Nem Ã©rdekel.}
 {159}{}{In that case, it's just great being here. This town has everything you could want... mutant
  sheriff, uranium mine, hospital, store... you can get just about anything here. You want anything else?}
 {160}{}{Igen.}
 {161}{}{Nem.}
-{162}{}{Nagyszer?! Viszlát!}
-{163}{}{Viszlát!}
-{164}{}{Azóta uralkodik itt, mióta a Mester elpusztult. Mindenkit lecsuk, aki ellenkezik vele... vagy csak egyszer?en "elt?nnek". Broken Hills civilizáltnak t?nhet, de valójában nem más, mint vérszomjas mutánsok vadászmezeje. Egy barátom barátjának voltak barátai, akik elt?ntek, miután beszéltek...}
+{162}{}{Nagyszer?! ViszlÃ¡t!}
+{163}{}{ViszlÃ¡t!}
+{164}{}{AzÃ³ta uralkodik itt, miÃ³ta a Mester elpusztult. Mindenkit lecsuk, aki ellenkezik vele... vagy csak egyszer?en "elt?nnek". Broken Hills civilizÃ¡ltnak t?nhet, de valÃ³jÃ¡ban nem mÃ¡s, mint vÃ©rszomjas mutÃ¡nsok vadÃ¡szmezeje. Egy barÃ¡tom barÃ¡tjÃ¡nak voltak barÃ¡tai, akik elt?ntek, miutÃ¡n beszÃ©ltek...}
 {165}{}{Folytasd!}
-{166}{}{Elég! Te ?rült vagy. Viszlát!}
-{167}{}{Mi csak színleljük, hogy ez egy civilizált város, hogy jó dolgunk van itt... de mindannyian félünk a mutánsok dühét?l. Napról-napra kevesebben vagyunk, mi emberek.}
-{168}{}{Én csak öreg és rozoga mutánsokat láttam itt.}
-{169}{}{Miért nem harcoltok?}
-{170}{}{Azért, mert megpróbálnak bepalizni, barátom. Átvernek a palánkon.}
-{171}{}{Akkor meg miért nem veszitek fel a harcot ellenük?}
-{172}{}{Bepalizni engem? Aha. Asszem, mennem kell. Viszlát!}
-{173}{}{Az igazat megvallva már harcolunk. A barátaimmal olyan csapást tervezünk, ami megszabadítja ezt a várost a mutánsoktól, de néhányunkat lecsukták. Ki kellene hozni ?ket. Velünk tartasz?}
+{166}{}{ElÃ©g! Te ?rÃ¼lt vagy. ViszlÃ¡t!}
+{167}{}{Mi csak szÃ­nleljÃ¼k, hogy ez egy civilizÃ¡lt vÃ¡ros, hogy jÃ³ dolgunk van itt... de mindannyian fÃ©lÃ¼nk a mutÃ¡nsok dÃ¼hÃ©t?l. NaprÃ³l-napra kevesebben vagyunk, mi emberek.}
+{168}{}{Ã‰n csak Ã¶reg Ã©s rozoga mutÃ¡nsokat lÃ¡ttam itt.}
+{169}{}{MiÃ©rt nem harcoltok?}
+{170}{}{AzÃ©rt, mert megprÃ³bÃ¡lnak bepalizni, barÃ¡tom. Ãtvernek a palÃ¡nkon.}
+{171}{}{Akkor meg miÃ©rt nem veszitek fel a harcot ellenÃ¼k?}
+{172}{}{Bepalizni engem? Aha. Asszem, mennem kell. ViszlÃ¡t!}
+{173}{}{Az igazat megvallva mÃ¡r harcolunk. A barÃ¡taimmal olyan csapÃ¡st tervezÃ¼nk, ami megszabadÃ­tja ezt a vÃ¡rost a mutÃ¡nsoktÃ³l, de nÃ©hÃ¡nyunkat lecsuktÃ¡k. Ki kellene hozni ?ket. VelÃ¼nk tartasz?}
 {174}{}{Nem.}
-{175}{}{Nem. S?t, megyek és beárullak. Te ?rült vagy!}
+{175}{}{Nem. S?t, megyek Ã©s beÃ¡rullak. Te ?rÃ¼lt vagy!}
 {176}{}{Persze! }
-{177}{}{Biztos? Ez az emberiség egyetlen esélye, hogy megszabaduljon a rohadt mutánsok elnyomásától.}
+{177}{}{Biztos? Ez az emberisÃ©g egyetlen esÃ©lye, hogy megszabaduljon a rohadt mutÃ¡nsok elnyomÃ¡sÃ¡tÃ³l.}
 {178}{}{Biztos.}
-{179}{}{Rendben. Meggy?ztél. }
-{180}{}{A te döntésed. Járd hát a saját utad! Azért sajnálom, elég belevalónak t?nsz.}
-{181}{}{Aha. Viszlát!}
-{182}{}{Valóban? Nem hiszem, árulókám.}
+{179}{}{Rendben. Meggy?ztÃ©l. }
+{180}{}{A te dÃ¶ntÃ©sed. JÃ¡rd hÃ¡t a sajÃ¡t utad! AzÃ©rt sajnÃ¡lom, elÃ©g belevalÃ³nak t?nsz.}
+{181}{}{Aha. ViszlÃ¡t!}
+{182}{}{ValÃ³ban? Nem hiszem, Ã¡rulÃ³kÃ¡m.}
 {183}{}{Mi?}
-{184}{}{Lenne egy kis munkám a számodra. A barátaimat, Mansont és Franc-et, fogva tartják a börtönben. Ki kellene hoznod ?ket, lehet?leg csendben. Nem akarom, hogy az egész város üldöz?be vegyen titeket.}
-{185}{}{Mi van, ha meg kell ölnöm valakit?}
-{186}{}{Fogom. Hadd kérdezzek még valamit!}
-{187}{}{Felejts el! Nem vállalom.}
-{188}{}{Értem. Viszlát!}
-{189}{}{Nem probléma. Úgyis csak mutánsok. Csak csendben csináld, az a lényeg!}
-{190}{}{Fogom. Hadd kérdezzek még valamit!}
-{191}{}{Értem. Viszlát!}
+{184}{}{Lenne egy kis munkÃ¡m a szÃ¡modra. A barÃ¡taimat, Mansont Ã©s Franc-et, fogva tartjÃ¡k a bÃ¶rtÃ¶nben. Ki kellene hoznod ?ket, lehet?leg csendben. Nem akarom, hogy az egÃ©sz vÃ¡ros Ã¼ldÃ¶z?be vegyen titeket.}
+{185}{}{Mi van, ha meg kell Ã¶lnÃ¶m valakit?}
+{186}{}{Fogom. Hadd kÃ©rdezzek mÃ©g valamit!}
+{187}{}{Felejts el! Nem vÃ¡llalom.}
+{188}{}{Ã‰rtem. ViszlÃ¡t!}
+{189}{}{Nem problÃ©ma. Ãšgyis csak mutÃ¡nsok. Csak csendben csinÃ¡ld, az a lÃ©nyeg!}
+{190}{}{Fogom. Hadd kÃ©rdezzek mÃ©g valamit!}
+{191}{}{Ã‰rtem. ViszlÃ¡t!}
 {192}{}{More questions?}
-{193}{}{Van nálam egy kis finomítandó érc, de nem akarok annyit fizetni, amennyit a finomítóban kérnek.}
+{193}{}{Van nÃ¡lam egy kis finomÃ­tandÃ³ Ã©rc, de nem akarok annyit fizetni, amennyit a finomÃ­tÃ³ban kÃ©rnek.}
 {194}{}{Mit tudsz mondani Broken Hillsr?l?}
-{195}{}{Szeretnék kikevertetni valamit.}
-{196}{}{Semmit. Viszlát!}
-{222}{}{Menj a saját fajtádhoz, mutánsimádó! Hogy tehetted ezt Chaddel? Nem érdekel, mit tettél értünk. Az emberiség szégyene vagy!}
-{223}{}{Viszlát!}
-{224}{}{Szép munkát végeztél a börtönben! }
-{225}{}{Köszi.}
-{226}{}{Muszáj volt mindenkit megölni? Most mindenki aggódni fog. Na, mindegy, nem érdekes.}
-{227}{}{Bocsánat.}
-{228}{}{Kihoztad ?ket, végülis ez a lényeg. Csak most az egész város tudja, hogy valamilyen kapcsolatban állsz Mansonnal és Franc-el. Na, mindegy.}
-{229}{}{Bocsánat.}
-{230}{}{Azt hiszem, rádbízhatok valami fontosat. Mit szólnál még egy kis munkához?}
-{231}{}{Mit tehetek érted, barátom?}
-{232}{}{További munka? Micsoda?}
-{233}{}{Ércet szeretnék finomíttatni.}
-{234}{}{Most nem. Vegyi anyagokra lenne szükségem.}
-{235}{}{Most nem, kösz. Viszlát!}
-{258}{}{Egyszer?. Utáljuk a mutánsokat, s?t meg akarjuk ölni ?ket. A legegyszer?bben úgy tehetjük el ?ket láb alól, ha felrobbantjuk a bányát, amíg bent vannak. Neked kellene elhelyezned a robbanószert.}
+{195}{}{SzeretnÃ©k kikevertetni valamit.}
+{196}{}{Semmit. ViszlÃ¡t!}
+{222}{}{Menj a sajÃ¡t fajtÃ¡dhoz, mutÃ¡nsimÃ¡dÃ³! Hogy tehetted ezt Chaddel? Nem Ã©rdekel, mit tettÃ©l Ã©rtÃ¼nk. Az emberisÃ©g szÃ©gyene vagy!}
+{223}{}{ViszlÃ¡t!}
+{224}{}{SzÃ©p munkÃ¡t vÃ©geztÃ©l a bÃ¶rtÃ¶nben! }
+{225}{}{KÃ¶szi.}
+{226}{}{MuszÃ¡j volt mindenkit megÃ¶lni? Most mindenki aggÃ³dni fog. Na, mindegy, nem Ã©rdekes.}
+{227}{}{BocsÃ¡nat.}
+{228}{}{Kihoztad ?ket, vÃ©gÃ¼lis ez a lÃ©nyeg. Csak most az egÃ©sz vÃ¡ros tudja, hogy valamilyen kapcsolatban Ã¡llsz Mansonnal Ã©s Franc-el. Na, mindegy.}
+{229}{}{BocsÃ¡nat.}
+{230}{}{Azt hiszem, rÃ¡dbÃ­zhatok valami fontosat. Mit szÃ³lnÃ¡l mÃ©g egy kis munkÃ¡hoz?}
+{231}{}{Mit tehetek Ã©rted, barÃ¡tom?}
+{232}{}{TovÃ¡bbi munka? Micsoda?}
+{233}{}{Ã‰rcet szeretnÃ©k finomÃ­ttatni.}
+{234}{}{Most nem. Vegyi anyagokra lenne szÃ¼ksÃ©gem.}
+{235}{}{Most nem, kÃ¶sz. ViszlÃ¡t!}
+{258}{}{Egyszer?. UtÃ¡ljuk a mutÃ¡nsokat, s?t meg akarjuk Ã¶lni ?ket. A legegyszer?bben Ãºgy tehetjÃ¼k el ?ket lÃ¡b alÃ³l, ha felrobbantjuk a bÃ¡nyÃ¡t, amÃ­g bent vannak. Neked kellene elhelyezned a robbanÃ³szert.}
 {259}{}{I'll do it!}
 {260}{}{Nem tehetem.}
-{261}{}{Nagyszer?, barátom! Tessék. Fogd ezt, és szereld fel a bánya légtisztítójára! Aztán minél el?bb
-t?nj el onnan! Elrendeztük, hogy a mutánsok a bányában legyenek.}
-{262}{}{Csak szólj, amikor készen állsz!}
+{261}{}{Nagyszer?, barÃ¡tom! TessÃ©k. Fogd ezt, Ã©s szereld fel a bÃ¡nya lÃ©gtisztÃ­tÃ³jÃ¡ra! AztÃ¡n minÃ©l el?bb
+t?nj el onnan! ElrendeztÃ¼k, hogy a mutÃ¡nsok a bÃ¡nyÃ¡ban legyenek.}
+{262}{}{Csak szÃ³lj, amikor kÃ©szen Ã¡llsz!}
 {263}{}{Rendicsek!}
 {264}{}{I can't do it.}
-{265}{}{Miért nem? Megijedtél, vagy mi? Biztosan nem vállalod?}
+{265}{}{MiÃ©rt nem? MegijedtÃ©l, vagy mi? Biztosan nem vÃ¡llalod?}
 {266}{}{Igen.}
-{267}{}{Nem, azt hiszem, mégiscsak vállalom.}
-{268}{}{Azt hiszem, megértem. Remélem, te is meg fogod érteni, amikor azt mondom, hogy t?nj a szemem el?l! Áruló!}
+{267}{}{Nem, azt hiszem, mÃ©giscsak vÃ¡llalom.}
+{268}{}{Azt hiszem, megÃ©rtem. RemÃ©lem, te is meg fogod Ã©rteni, amikor azt mondom, hogy t?nj a szemem el?l! ÃrulÃ³!}
 {269}{}{[DONE]}
-{270}{}{Készen állsz a terv végrehajtására?}
-{272}{}{Igen. Húzzunk bele!}
+{270}{}{KÃ©szen Ã¡llsz a terv vÃ©grehajtÃ¡sÃ¡ra?}
+{272}{}{Igen. HÃºzzunk bele!}
 {273}{}{I've changed my mind. I don't want to do this.}
-{274}{}{Jó! Erre a napra vártam. Csak szereld fel a bombát a bánya légtisztítójára, aztán minél el?bb t?nj el onnan! Szép nagy robbanás lesz. Utána találkozunk.}
-{275}{}{Viszlát! Halál a mutánsokra!}
-{276}{}{Meggondoltam magam. Nem akarom megcsinálni.}
-{277}{}{Áruló!}
-{278}{}{Jó munkát végeztél. Egyszer. Kár, hogy utána ellenünk fordultál.}
-{279}{}{Végre megszabadultunk az igazságtalan mutáns elnyomástól. Nagyon köszönjük a segítséged! Van egy kisebb fegyvergy?jtemény Liz boltja alagsorában. Jutalmul vigyél el bármit, amit akarsz.}
-{280}{}{Elhagyjuk a várost. Neked is jobb lenne lelépni.}
-{281}{}{Keress meg a gyógyszertárban! Ott majd beszélünk.}
-{282}{}{Kész az érced. Tessék.}
-{283}{}{Köszönöm!}
-{284}{}{Még nincs kész az érced. Kell még egy kis id?.}
-{285}{}{Lenne még néhány kérdésem.}
-{286}{}{Oké. Viszlát!}
-{287}{}{Készen állsz az elterel? hadm?veletre?}
-{288}{}{Készen állsz, hogy újra megpróbáld az elterel? hadm?veletet?}
-{289}{}{Jaja. Akarsz segíteni az elterel? hadm?veletben?}
-{290}{}{Szeretnék egy kis... ööö... gyógyszert vásárolni.}
-{291}{}{Másvalamit?}
+{274}{}{JÃ³! Erre a napra vÃ¡rtam. Csak szereld fel a bombÃ¡t a bÃ¡nya lÃ©gtisztÃ­tÃ³jÃ¡ra, aztÃ¡n minÃ©l el?bb t?nj el onnan! SzÃ©p nagy robbanÃ¡s lesz. UtÃ¡na talÃ¡lkozunk.}
+{275}{}{ViszlÃ¡t! HalÃ¡l a mutÃ¡nsokra!}
+{276}{}{Meggondoltam magam. Nem akarom megcsinÃ¡lni.}
+{277}{}{ÃrulÃ³!}
+{278}{}{JÃ³ munkÃ¡t vÃ©geztÃ©l. Egyszer. KÃ¡r, hogy utÃ¡na ellenÃ¼nk fordultÃ¡l.}
+{279}{}{VÃ©gre megszabadultunk az igazsÃ¡gtalan mutÃ¡ns elnyomÃ¡stÃ³l. Nagyon kÃ¶szÃ¶njÃ¼k a segÃ­tsÃ©ged! Van egy kisebb fegyvergy?jtemÃ©ny Liz boltja alagsorÃ¡ban. Jutalmul vigyÃ©l el bÃ¡rmit, amit akarsz.}
+{280}{}{Elhagyjuk a vÃ¡rost. Neked is jobb lenne lelÃ©pni.}
+{281}{}{Keress meg a gyÃ³gyszertÃ¡rban! Ott majd beszÃ©lÃ¼nk.}
+{282}{}{KÃ©sz az Ã©rced. TessÃ©k.}
+{283}{}{KÃ¶szÃ¶nÃ¶m!}
+{284}{}{MÃ©g nincs kÃ©sz az Ã©rced. Kell mÃ©g egy kis id?.}
+{285}{}{Lenne mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{286}{}{OkÃ©. ViszlÃ¡t!}
+{287}{}{KÃ©szen Ã¡llsz az elterel? hadm?veletre?}
+{288}{}{KÃ©szen Ã¡llsz, hogy Ãºjra megprÃ³bÃ¡ld az elterel? hadm?veletet?}
+{289}{}{Jaja. Akarsz segÃ­teni az elterel? hadm?veletben?}
+{290}{}{SzeretnÃ©k egy kis... Ã¶Ã¶Ã¶... gyÃ³gyszert vÃ¡sÃ¡rolni.}
+{291}{}{MÃ¡svalamit?}
 {292}{}{Igen.}
-{293}{}{Nem, kösz. Viszlát!}
-{294}{}{Most láthatod, hogy milyen veszedelmesek a mutánsok. Bárcsak korábban láttad volna!}
-{295}{}{Ha nem segítesz nekünk, mi sem segítünk neked.}
-{296}{}{Mit ácsorogsz ott? A honfitársaid arra várnak, hogy megmentsd ?ket az elnyomástól!}
-{297}{}{Óh.. tényleg.}
-{298}{}{Azt mondtam, hogy mentsd meg ?ket, nem azt, hogy ölesd meg ?ket! Mi a franc van veled?}
-{299}{}{Elnézést... én csak...}
-{300}{}{Semmi, csak! Bármit is akartál, teljesen hazavágtad a tervünket! Most megfizetsz!}
+{293}{}{Nem, kÃ¶sz. ViszlÃ¡t!}
+{294}{}{Most lÃ¡thatod, hogy milyen veszedelmesek a mutÃ¡nsok. BÃ¡rcsak korÃ¡bban lÃ¡ttad volna!}
+{295}{}{Ha nem segÃ­tesz nekÃ¼nk, mi sem segÃ­tÃ¼nk neked.}
+{296}{}{Mit Ã¡csorogsz ott? A honfitÃ¡rsaid arra vÃ¡rnak, hogy megmentsd ?ket az elnyomÃ¡stÃ³l!}
+{297}{}{Ã“h.. tÃ©nyleg.}
+{298}{}{Azt mondtam, hogy mentsd meg ?ket, nem azt, hogy Ã¶lesd meg ?ket! Mi a franc van veled?}
+{299}{}{ElnÃ©zÃ©st... Ã©n csak...}
+{300}{}{Semmi, csak! BÃ¡rmit is akartÃ¡l, teljesen hazavÃ¡gtad a tervÃ¼nket! Most megfizetsz!}
 {301}{}{Sorry, friend, but... I just lost my two best friends. Those bastard muties killed them in prison.}
-{302}{}{Urrggg. Naaagy baaaj. Pá!}
-{303}{}{Ööö... fúú. Igazán sajnálom. Részvétem. Viszlát!}
+{302}{}{Urrggg. Naaagy baaaj. PÃ¡!}
+{303}{}{Ã–Ã¶Ã¶... fÃºÃº. IgazÃ¡n sajnÃ¡lom. RÃ©szvÃ©tem. ViszlÃ¡t!}
 {304}{}{Ajjaj!}
-{305}{}{Hopplá? Azt mondtad, hogy "Hopplá"? Nincs közöd hozzá, ugye?}
-{306}{}{Baleset volt. Esküszöm!}
-{307}{}{Nincs. Persze, hogy nincs! Rohadt mutánsok!}
-{308}{}{Baleset egy fenét! Ez a tied, te mutánsimádó vakondpatkány!}
-{309}{}{Bizony... közeleg az ? napjuk.}
-{310}{}{Már mindent elmondtam, amit err?l a helyr?l tudni érdemes. Szóval, mit akarsz?}
-{311}{}{Volna még néhány kérdésem.}
+{305}{}{HopplÃ¡? Azt mondtad, hogy "HopplÃ¡"? Nincs kÃ¶zÃ¶d hozzÃ¡, ugye?}
+{306}{}{Baleset volt. EskÃ¼szÃ¶m!}
+{307}{}{Nincs. Persze, hogy nincs! Rohadt mutÃ¡nsok!}
+{308}{}{Baleset egy fenÃ©t! Ez a tied, te mutÃ¡nsimÃ¡dÃ³ vakondpatkÃ¡ny!}
+{309}{}{Bizony... kÃ¶zeleg az ? napjuk.}
+{310}{}{MÃ¡r mindent elmondtam, amit err?l a helyr?l tudni Ã©rdemes. SzÃ³val, mit akarsz?}
+{311}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
 {312}{}{Semmi. Hagyjuk!}
-{313}{}{Köszi.}
-{314}{}{[FOLYTATÁS]}
-{315}{}{Hé, haver! Kösz, hogy kirángattad a barátaimat a slamasztikából. Ez egy nagy jópont nálam.}
-{316}{}{Köszi.}
+{313}{}{KÃ¶szi.}
+{314}{}{[FOLYTATÃS]}
+{315}{}{HÃ©, haver! KÃ¶sz, hogy kirÃ¡ngattad a barÃ¡taimat a slamasztikÃ¡bÃ³l. Ez egy nagy jÃ³pont nÃ¡lam.}
+{316}{}{KÃ¶szi.}

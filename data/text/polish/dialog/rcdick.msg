@@ -1,123 +1,123 @@
-{100}{}{Widzisz obdartusa z d³ug¹ brod¹.}
+{100}{}{Widzisz obdartusa z dÅ‚ugÄ… brodÄ….}
 {101}{}{Widzisz Athabaska Dicka.}
-{102}{}{Ten facet wygl¹da jak górnik, który zna siê na rzeczy.}
-{103}{}{Z twoj¹ g³ow¹ nie nadajesz siê do kopalni.}
-{104}{}{Witaj w wielkim mieœcie.}
-{105}{}{Twoja g³ówka niezupe³nie pracuje, nie?}
-{106}{}{Twój umys³ jest bystry jak u robaka...}
-{107}{}{Moje ³opaty s¹ bystrzejsze od ciebie!}
-{108}{}{W kó³ko to samo. Wszyscy zarabiamy kasê tylko po to, by sobie polataæ na Jecie.}
-{109}{}{Pozwól, ¿e zapytam o coœ innego.}
+{102}{}{Ten facet wyglÄ…da jak gÃ³rnik, ktÃ³ry zna siÄ™ na rzeczy.}
+{103}{}{Z twojÄ… gÅ‚owÄ… nie nadajesz siÄ™ do kopalni.}
+{104}{}{Witaj w wielkim mieÅ›cie.}
+{105}{}{Twoja gÅ‚Ã³wka niezupeÅ‚nie pracuje, nie?}
+{106}{}{TwÃ³j umysÅ‚ jest bystry jak u robaka...}
+{107}{}{Moje Å‚opaty sÄ… bystrzejsze od ciebie!}
+{108}{}{W kÃ³Å‚ko to samo. Wszyscy zarabiamy kasÄ™ tylko po to, by sobie polataÄ‡ na Jecie.}
+{109}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
 {110}{}{Jet? Co to jest Jet?}
 {111}{}{Rozumiem. Do widzenia.}
-{112}{}{Urabiamy sobie rêce, by mieæ wystarczaj¹c¹ iloœæ Jetu. Cena tego cholerstwa wci¹¿ roœnie. Nienawidzê tego uczucia, gdy nie jest siê na Jecie.}
-{113}{}{Pozwól, ¿e zapytam o coœ innego.}
+{112}{}{Urabiamy sobie rÄ™ce, by mieÄ‡ wystarczajÄ…cÄ… iloÅ›Ä‡ Jetu. Cena tego cholerstwa wciÄ…Å¼ roÅ›nie. NienawidzÄ™ tego uczucia, gdy nie jest siÄ™ na Jecie.}
+{113}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
 {114}{}{Jet? Co to jest Jet?}
 {115}{}{Rozumiem. Do widzenia.}
-{116}{}{Ledwo co jestem w stanie zapracowaæ na Jet, którego potrzebujê, by sobie polataæ. Mo¿e uda siê coœ wykombinowaæ w Nowym Reno, rozumiesz, jakieœ po³¹czenie bezpoœrednie. Podobno Ascorti chce coœ takiego wykombinowaæ.}
-{117}{}{Pozwól, ¿e zapytam o coœ innego.}
+{116}{}{Ledwo co jestem w stanie zapracowaÄ‡ na Jet, ktÃ³rego potrzebujÄ™, by sobie polataÄ‡. MoÅ¼e uda siÄ™ coÅ› wykombinowaÄ‡ w Nowym Reno, rozumiesz, jakieÅ› poÅ‚Ä…czenie bezpoÅ›rednie. Podobno Ascorti chce coÅ› takiego wykombinowaÄ‡.}
+{117}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
 {118}{}{Asctorti? Kto to?}
 {119}{}{Jet? Co to jest Jet?}
 {120}{}{Rozumiem. Do widzenia.}
-{121}{}{Ostatnio nie czujê siê zbyt dobrze i wygl¹da na to, ¿e nie jestem sam. Próbowa³em polataæ trochê wiêcej na Jecie, ale to nie pomaga. Nawet poczu³em siê chyba jeszcze gorzej. Zdaje mi siê, ¿e jestem w do³ku jak ¿ó³wie jaja. Podobnie zachowuje siê reszta górników.}
-{122}{}{Pozwól, ¿e zapytam o coœ innego.}
+{121}{}{Ostatnio nie czujÄ™ siÄ™ zbyt dobrze i wyglÄ…da na to, Å¼e nie jestem sam. PrÃ³bowaÅ‚em polataÄ‡ trochÄ™ wiÄ™cej na Jecie, ale to nie pomaga. Nawet poczuÅ‚em siÄ™ chyba jeszcze gorzej. Zdaje mi siÄ™, Å¼e jestem w doÅ‚ku jak Å¼Ã³Å‚wie jaja. Podobnie zachowuje siÄ™ reszta gÃ³rnikÃ³w.}
+{122}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
 {123}{}{Jet? Co to jest Jet?}
 {124}{}{Rozumiem. Do widzenia.}
-{125}{}{Nie wiem, co siê sta³o, ale prawie wszyscy przestali braæ Jet po tej ostatniej dzia³ce. Myœla³em, ¿e odlecimy po tym Jecie do tego wielkiego lotniska w niebie. Teraz ju¿ nikt nie chce tego braæ. Przez to chce mi siê rzygaæ, nie rozumiem tego.}
-{126}{}{Pozwól, ¿e zapytam o coœ innego.}
+{125}{}{Nie wiem, co siÄ™ staÅ‚o, ale prawie wszyscy przestali braÄ‡ Jet po tej ostatniej dziaÅ‚ce. MyÅ›laÅ‚em, Å¼e odlecimy po tym Jecie do tego wielkiego lotniska w niebie. Teraz juÅ¼ nikt nie chce tego braÄ‡. Przez to chce mi siÄ™ rzygaÄ‡, nie rozumiem tego.}
+{126}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
 {127}{}{Jet? Co to jest Jet?}
 {128}{}{Rozumiem. Do widzenia.}
-{129}{}{Czeœæ. Nazywam siê Athabaska Dick. Ale wiêkszoœæ mówi na mnie Dick. Oczywiœcie, jest kilka osób, które mówi¹ na mnie Athabaska. Ale jednak zazwyczaj nazywaj¹ mnie Dick.}
-{130}{}{Sie masz. Co stary Athabaska Dick mo¿e zrobiæ dla ciebie?}
-{131}{}{Spieszy mi siê. No szybciej, szybciej! No? Na co czekasz? Jeœli chcesz pogadaæ z Athabaska Dickiem, musisz mówiæ trochê szybciej.}
-{132}{}{Cze... Czego chcesz? Nie... Nie widzisz, ¿e jestem zajêty? [mamrocze pod nosem] Muszê byæ wci¹¿ zajêty, wci¹¿... zajêty... zajêty...}
-{133}{}{[mamroczac] Czego chcesz od starego Athabaska Dicka? [do siebie] Czujê siê jakby mu³ kopn¹³ mnie w g³owê.}
-{134}{}{Czujê siê okropnie s³abo. Czemu zawracasz g³owê staremu Dickowi?}
-{135}{}{Czeœæ, nazywam siê Athabaska Dick. Zazwyczaj æpa³em Jet bez przerwy, ale ju¿ nie biorê tego gówna.}
-{136}{}{Nigdy w ¿yciu nie czu³em siê tak bardzo wymiêtoszonym i sp³ukanym.}
+{129}{}{CzeÅ›Ä‡. Nazywam siÄ™ Athabaska Dick. Ale wiÄ™kszoÅ›Ä‡ mÃ³wi na mnie Dick. OczywiÅ›cie, jest kilka osÃ³b, ktÃ³re mÃ³wiÄ… na mnie Athabaska. Ale jednak zazwyczaj nazywajÄ… mnie Dick.}
+{130}{}{Sie masz. Co stary Athabaska Dick moÅ¼e zrobiÄ‡ dla ciebie?}
+{131}{}{Spieszy mi siÄ™. No szybciej, szybciej! No? Na co czekasz? JeÅ›li chcesz pogadaÄ‡ z Athabaska Dickiem, musisz mÃ³wiÄ‡ trochÄ™ szybciej.}
+{132}{}{Cze... Czego chcesz? Nie... Nie widzisz, Å¼e jestem zajÄ™ty? [mamrocze pod nosem] MuszÄ™ byÄ‡ wciÄ…Å¼ zajÄ™ty, wciÄ…Å¼... zajÄ™ty... zajÄ™ty...}
+{133}{}{[mamroczac] Czego chcesz od starego Athabaska Dicka? [do siebie] CzujÄ™ siÄ™ jakby muÅ‚ kopnÄ…Å‚ mnie w gÅ‚owÄ™.}
+{134}{}{CzujÄ™ siÄ™ okropnie sÅ‚abo. Czemu zawracasz gÅ‚owÄ™ staremu Dickowi?}
+{135}{}{CzeÅ›Ä‡, nazywam siÄ™ Athabaska Dick. Zazwyczaj Ä‡paÅ‚em Jet bez przerwy, ale juÅ¼ nie biorÄ™ tego gÃ³wna.}
+{136}{}{Nigdy w Å¼yciu nie czuÅ‚em siÄ™ tak bardzo wymiÄ™toszonym i spÅ‚ukanym.}
 {137}{}{Co tu robisz, Dick?}
-{138}{}{Hej Dick... Co tam ostatnio s³ychaæ w mieœcie?}
-{139}{}{Czy s³ysza³aœ jakieœ ciekawe plotki?}
+{138}{}{Hej Dick... Co tam ostatnio sÅ‚ychaÄ‡ w mieÅ›cie?}
+{139}{}{Czy sÅ‚yszaÅ‚aÅ› jakieÅ› ciekawe plotki?}
 {140}{}{Asta-la-baska? Co to znaczy?!?}
-{141}{}{Co z tob¹?}
-{142}{}{Co ci siê sta³o?}
-{143}{}{Pracujê od czasu do czasu w Morningstar. Zawsze przyda im siê pomoc weterana.}
-{144}{}{A wiêc pozwól, ¿e zapytam ciê o coœ innego.}
-{145}{}{Rozumiem. Có¿, to wszystko, co muszê wiedzieæ. Do widzenia.}
-{146}{}{Nic... No, mo¿e poza tymi przeklêtymi Wanamingos.}
+{141}{}{Co z tobÄ…?}
+{142}{}{Co ci siÄ™ staÅ‚o?}
+{143}{}{PracujÄ™ od czasu do czasu w Morningstar. Zawsze przyda im siÄ™ pomoc weterana.}
+{144}{}{A wiÄ™c pozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{145}{}{Rozumiem. CÃ³Å¼, to wszystko, co muszÄ™ wiedzieÄ‡. Do widzenia.}
+{146}{}{Nic... No, moÅ¼e poza tymi przeklÄ™tymi Wanamingos.}
 {147}{}{Wanna-amigos? Co to takiego?}
-{148}{}{Oczywiœcie. A wiêc pozwól, ¿e zapytam ciê o coœ innego.}
-{149}{}{Có¿, to wszystko, co muszê wiedzieæ. Do widzenia.}
-{150}{}{Ata-baska, Athabaska. Chyba nie jest a¿ tak trudno to wymówiæ, nie? To tylko moja ksywka. Naprawdê chcesz wiedzieæ, sk¹d j¹ mam?}
-{151}{}{Raczej nie. Pozwól, ¿e spytam ciê o coœ innego.}
-{152}{}{To chyba ju¿ wszystko, co muszê wiedzieæ. Do widzenia.}
-{153}{}{Okej! Czujê siê poobijany jak pies i stawia³em suche wierzby od paru dni... Przynajmniej od kiedy wzi¹³em tê ostatni¹ dzia³kê. Coœ musia³o byæ z ni¹ nie tak. Jeœli to prze¿yjê, to ju¿ nigdy nie wezmê tego dziadostwa.}
-{154}{}{le to brzmi. Zapytam ciê wiêc o coœ innego.}
-{155}{}{Rozumiem. Có¿, to wszystko, co muszê wiedzieæ. Do widzenia.}
-{156}{}{Ten *z³y* Jet zosta³ podrzucony przeze mnie. Ale czujê, ¿e wszystko wyjdzie potem na dobre.}
-{157}{}{Co masz na myœli? Co siê sta³o?}
-{158}{}{Twierdzisz, ¿e nie wiesz, co to jest Wanamingo?}
-{159}{}{Aaaa... Jasne, ¿e je znam! Pozwól, ¿e spytam ciê o coœ innego.}
+{148}{}{OczywiÅ›cie. A wiÄ™c pozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{149}{}{CÃ³Å¼, to wszystko, co muszÄ™ wiedzieÄ‡. Do widzenia.}
+{150}{}{Ata-baska, Athabaska. Chyba nie jest aÅ¼ tak trudno to wymÃ³wiÄ‡, nie? To tylko moja ksywka. NaprawdÄ™ chcesz wiedzieÄ‡, skÄ…d jÄ… mam?}
+{151}{}{Raczej nie. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{152}{}{To chyba juÅ¼ wszystko, co muszÄ™ wiedzieÄ‡. Do widzenia.}
+{153}{}{Okej! CzujÄ™ siÄ™ poobijany jak pies i stawiaÅ‚em suche wierzby od paru dni... Przynajmniej od kiedy wziÄ…Å‚em tÄ™ ostatniÄ… dziaÅ‚kÄ™. CoÅ› musiaÅ‚o byÄ‡ z niÄ… nie tak. JeÅ›li to przeÅ¼yjÄ™, to juÅ¼ nigdy nie wezmÄ™ tego dziadostwa.}
+{154}{}{Å¹le to brzmi. Zapytam ciÄ™ wiÄ™c o coÅ› innego.}
+{155}{}{Rozumiem. CÃ³Å¼, to wszystko, co muszÄ™ wiedzieÄ‡. Do widzenia.}
+{156}{}{Ten *zÅ‚y* Jet zostaÅ‚ podrzucony przeze mnie. Ale czujÄ™, Å¼e wszystko wyjdzie potem na dobre.}
+{157}{}{Co masz na myÅ›li? Co siÄ™ staÅ‚o?}
+{158}{}{Twierdzisz, Å¼e nie wiesz, co to jest Wanamingo?}
+{159}{}{Aaaa... Jasne, Å¼e je znam! PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
 {160}{}{Nie, nie znam niczego takiego. Opowiedz mi o tym.}
-{161}{}{Nie, nie znam Wanna-jakmutamów i nie mam czasu s³uchaæ twoich bajek. Do widzenia}
-{162}{}{Rzuci³em ten na³óg - Oto co siê sta³o. W ¿yciu wiêcej nie wezmê Jetu. Przez tê ostatni¹ dzia³kê o ma³o co nie zgin¹³em. Ju¿ potem mia³em doœæ tego œwiñstwa. Od tego momentu nic nie biorê.}
-{163}{}{Có¿, to chyba dobrze dla ciebie. Spytam ciê o coœ innego.}
-{164}{}{Interesuj¹ce. Có¿, pozostawiam ciê twojemu powrotowi do zdrowia. Do widzenia.}
-{165}{}{Jedni twierdz¹, ¿e by³y tu jeszcze zanim spad³y bomby A, H, N, B i inne. Inni mówi¹, ¿e zosta³y genetycznie zmodyfikowane, aby byæ broni¹. No i s¹ jeszcze tacy, co twierdz¹, ¿e przylecia³y z innej planety. }
-{166}{}{Kim s¹ te wszystkie *one*? Kogo to obchodzi, jak siê tu znalaz³y, po prostu powiedz mi czym *one* s¹!}
-{167}{}{Tia, oczywiœcie. Ju¿ mam tego doœæ, staruszku. Do widzenia.}
-{168}{}{Niezupe³nie wiem czym one s¹, ale mogê ci powiedzieæ, ¿e zamknêli kopalniê Wanamingo na zachodzie, parê lat temu.}
-{169}{}{Kopalniê Wanamingo?}
-{170}{}{Jak mi³o. Muszê lecieæ, staruszku. Dziêki za historyjkê. Do widzenia.}
-{171}{}{No. A Wielka Wanamingo by³a najbogatsza w okolicy, ale teraz nikt siê nawet do niej nie zbli¿a. Jeœli chcesz, to mo¿esz sobie j¹ kupiæ od Ascortiego. Nikt jej nie chce.}
-{172}{}{Jak mówi³em. Wielka Wanamingo by³a najbogatsz¹ kopalni¹ w okolicy, ale teraz mo¿esz j¹ wykupiæ za bezcen.}
-{173}{}{Mogê j¹ kupiæ? Czy jest coœ warta?}
+{161}{}{Nie, nie znam Wanna-jakmutamÃ³w i nie mam czasu sÅ‚uchaÄ‡ twoich bajek. Do widzenia}
+{162}{}{RzuciÅ‚em ten naÅ‚Ã³g - Oto co siÄ™ staÅ‚o. W Å¼yciu wiÄ™cej nie wezmÄ™ Jetu. Przez tÄ™ ostatniÄ… dziaÅ‚kÄ™ o maÅ‚o co nie zginÄ…Å‚em. JuÅ¼ potem miaÅ‚em doÅ›Ä‡ tego Å›wiÅ„stwa. Od tego momentu nic nie biorÄ™.}
+{163}{}{CÃ³Å¼, to chyba dobrze dla ciebie. Spytam ciÄ™ o coÅ› innego.}
+{164}{}{InteresujÄ…ce. CÃ³Å¼, pozostawiam ciÄ™ twojemu powrotowi do zdrowia. Do widzenia.}
+{165}{}{Jedni twierdzÄ…, Å¼e byÅ‚y tu jeszcze zanim spadÅ‚y bomby A, H, N, B i inne. Inni mÃ³wiÄ…, Å¼e zostaÅ‚y genetycznie zmodyfikowane, aby byÄ‡ broniÄ…. No i sÄ… jeszcze tacy, co twierdzÄ…, Å¼e przyleciaÅ‚y z innej planety. }
+{166}{}{Kim sÄ… te wszystkie *one*? Kogo to obchodzi, jak siÄ™ tu znalazÅ‚y, po prostu powiedz mi czym *one* sÄ…!}
+{167}{}{Tia, oczywiÅ›cie. JuÅ¼ mam tego doÅ›Ä‡, staruszku. Do widzenia.}
+{168}{}{NiezupeÅ‚nie wiem czym one sÄ…, ale mogÄ™ ci powiedzieÄ‡, Å¼e zamknÄ™li kopalniÄ™ Wanamingo na zachodzie, parÄ™ lat temu.}
+{169}{}{KopalniÄ™ Wanamingo?}
+{170}{}{Jak miÅ‚o. MuszÄ™ lecieÄ‡, staruszku. DziÄ™ki za historyjkÄ™. Do widzenia.}
+{171}{}{No. A Wielka Wanamingo byÅ‚a najbogatsza w okolicy, ale teraz nikt siÄ™ nawet do niej nie zbliÅ¼a. JeÅ›li chcesz, to moÅ¼esz sobie jÄ… kupiÄ‡ od Ascortiego. Nikt jej nie chce.}
+{172}{}{Jak mÃ³wiÅ‚em. Wielka Wanamingo byÅ‚a najbogatszÄ… kopalniÄ… w okolicy, ale teraz moÅ¼esz jÄ… wykupiÄ‡ za bezcen.}
+{173}{}{MogÄ™ jÄ… kupiÄ‡? Czy jest coÅ› warta?}
 {174}{}{Kim jest Ascorti?}
 {175}{}{Brzmi zbyt niebezpiecznie jak dla mnie. Do widzenia.}
-{176}{}{Teraz... Nie. Nie s³yszysz, co mówiê? Jest pe³na tych cholernych Wanamingos. Ale jeœli ktoœ j¹ oczyœci... No, to bêdzie zupe³nie inna historia. Aby siê dorobiæ nawet nie trzeba zabijaæ wszystkich.}
+{176}{}{Teraz... Nie. Nie sÅ‚yszysz, co mÃ³wiÄ™? Jest peÅ‚na tych cholernych Wanamingos. Ale jeÅ›li ktoÅ› jÄ… oczyÅ›ci... No, to bÄ™dzie zupeÅ‚nie inna historia. Aby siÄ™ dorobiÄ‡ nawet nie trzeba zabijaÄ‡ wszystkich.}
 {177}{}{Co to znaczy?}
-{178}{}{Inna historia, powiadasz? Mnie raczej w niej nie bêdzie. Do widzenia.}
-{179}{}{Ponoæ jest tam jakaœ rzecz, za któr¹ w³aœciciele kopalni Morningstar i Kokoweef zap³aciliby sporo szmalcu.}
+{178}{}{Inna historia, powiadasz? Mnie raczej w niej nie bÄ™dzie. Do widzenia.}
+{179}{}{PonoÄ‡ jest tam jakaÅ› rzecz, za ktÃ³rÄ… wÅ‚aÅ›ciciele kopalni Morningstar i Kokoweef zapÅ‚aciliby sporo szmalcu.}
 {180}{}{Jaka *rzecz*?}
-{181}{}{Szmalec. Hmm. Muszê lecieæ. Do widzenia.}
-{182}{}{Bo widzisz, w kopalniach zazwyczaj kopa³y maszyny. Kurcze, kiedyœ robili niez³y sprzêt. Obydwie kopalnie maj¹ je, ale ktoœ, kto je projektowa³, zapomnia³ zrobiæ równie wytrzyma³e procesory kontrolne. ¯aden z tych, które maj¹ obie kopalnie, nie dzia³a. Hihi.}
+{181}{}{Szmalec. Hmm. MuszÄ™ lecieÄ‡. Do widzenia.}
+{182}{}{Bo widzisz, w kopalniach zazwyczaj kopaÅ‚y maszyny. Kurcze, kiedyÅ› robili niezÅ‚y sprzÄ™t. Obydwie kopalnie majÄ… je, ale ktoÅ›, kto je projektowaÅ‚, zapomniaÅ‚ zrobiÄ‡ rÃ³wnie wytrzymaÅ‚e procesory kontrolne. Å»aden z tych, ktÃ³re majÄ… obie kopalnie, nie dziaÅ‚a. Hihi.}
 {183}{}{Nie bardzo rozumiem, do czego zmierzasz.}
-{184}{}{Im wiêcej czêœci, tym szybciej coœ siê psuje. Dziêki za informacjê. Do widzenia.}
-{185}{}{Zmierzam do tego, ¿e ka¿dy z w³aœcicieli kopalni zap³aci sporo kasy za procesor kontrolny. Ha! Jeœli, któraœ mia³aby taki dzia³aj¹cy procesor, to mog³aby spokojnie wygryŸæ tê drug¹ z interesu lub wykupiæ.}
-{186}{}{Szkoda, ¿e nikt nie wie, gdzie zdobyæ taki procesor.}
-{187}{}{Muszê sprawdziæ dok³adnie, ile by zap³acili za tê zabawkê. Dziêki. Do widzenia.}
-{188}{}{Lepiej umyj sobie uszy! Przecie¿ powiedzia³em ci, gdzie szukaæ tego cholernego procesora. Nie s³yszysz mnie czy jak? W kopalni Wanamingo by³y takie maszyny i dzia³a³y, dopóki nie zamkniêto jej. Procesory pewnie nadal w niej s¹ i tylko czekaj¹, a¿ ktoœ je zgarnie!}
-{189}{}{Byæ mo¿e. Pozwól, ¿e spytam ciê o coœ innego.}
+{184}{}{Im wiÄ™cej czÄ™Å›ci, tym szybciej coÅ› siÄ™ psuje. DziÄ™ki za informacjÄ™. Do widzenia.}
+{185}{}{Zmierzam do tego, Å¼e kaÅ¼dy z wÅ‚aÅ›cicieli kopalni zapÅ‚aci sporo kasy za procesor kontrolny. Ha! JeÅ›li, ktÃ³raÅ› miaÅ‚aby taki dziaÅ‚ajÄ…cy procesor, to mogÅ‚aby spokojnie wygryÅºÄ‡ tÄ™ drugÄ… z interesu lub wykupiÄ‡.}
+{186}{}{Szkoda, Å¼e nikt nie wie, gdzie zdobyÄ‡ taki procesor.}
+{187}{}{MuszÄ™ sprawdziÄ‡ dokÅ‚adnie, ile by zapÅ‚acili za tÄ™ zabawkÄ™. DziÄ™ki. Do widzenia.}
+{188}{}{Lepiej umyj sobie uszy! PrzecieÅ¼ powiedziaÅ‚em ci, gdzie szukaÄ‡ tego cholernego procesora. Nie sÅ‚yszysz mnie czy jak? W kopalni Wanamingo byÅ‚y takie maszyny i dziaÅ‚aÅ‚y, dopÃ³ki nie zamkniÄ™to jej. Procesory pewnie nadal w niej sÄ… i tylko czekajÄ…, aÅ¼ ktoÅ› je zgarnie!}
+{189}{}{ByÄ‡ moÅ¼e. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
 {190}{}{W takim razie opowiedz mi o tych Wanna-myjkach.}
-{191}{}{Dziêki, muszê siê tym zainteresowaæ. Do widzenia.}
-{192}{}{No wiec... To by³o tak. Znam kogoœ, kto widzia³ je z bliska. To by³o... [jakiœ czas potem] ...i mia³o wielkie k³y, którymi... [jeszcze jakiœ czas póŸniej]...}
-{193}{}{Mia³em kumpla, z którym znaleŸliœmy ma³e z³o¿e i pewnego dnia... [jakiœ czas potem] ...wielkie jak Bramin! I œmierdzia³o jak cholera! [znów jakiœ czas potem]...}
-{194}{}{Pewnie zaraz uœniesz, ale... By³o póŸno itd. [jakiœ czas potem] ...œlady podobne trochê do Radskorpiona, a trochê do Gekona... [jeszcze jakiœ czas potem] ...a nie mówi³em, ¿e zaœniesz?}
-{195}{}{Co, co? [zrywasz siê z krótkiej drzemki].}
-{196}{}{Idê poszukaæ czegoœ, ¿eby nie zasn¹æ... Do widzenia.}
-{197}{}{...tak wiêc ju¿ wiesz. Niewolnicy, którzy pracowali w kopalni wysadzili magazyny dynamitu i uciekli, zamiast walczyæ z Wanamingos. Wkrótce potem zamkniêto kopalnie i nikt ju¿ do niej nie wróci³.}
-{198}{}{To gdzie ta ca³a kopalnia Wanamingo?}
-{199}{}{Brzmi rozs¹dnie. Do widzenia.}
-{200}{}{Na zachód od miasta. Ale s³ysza³em, ¿e parê Wanamingos przy³azi czasem w nocy do miasta, wiêc mo¿e nie potrzeba bêdzie tam ³aziæ, by je zobaczyæ! Hihi.}
-{201}{}{Ju¿ wiem wszystko na temat Wanamingos. Pozwól, ¿e spytam ciê o coœ innego.}
-{202}{}{Bêdê uwa¿aæ na te Wanno-myjki. Do widzenia.}
-{203}{}{Ascorti to nasz burmistrz. Jest w³aœcicielem Asa Ascortiego w œródmieœciu. Zajmuje siê kupnem i sprzeda¿¹ ró¿nych rzeczy. Jest pêpkiem naszego ma³ego œwiatka.}
-{204}{}{Ascorti jest merem Redding. Ale nie wiem dok³adnie, gdzie jest teraz. Nie widzia³am go ju¿ od pewnego czasu.}
-{205}{}{Mogê ciê zapytaæ o coœ jeszcze?}
-{206}{}{Aha... Okej. Muszê wiêc wys³uchaæ reszty twojego opowiadania.}
-{207}{}{Chyba ju¿ wystarczaj¹co d³ugo ciê s³ucham. Do widzenia.}
-{208}{}{Jet to taki cosik z Nowego Reno. Biorê tego tylko tyle, by *upiêkszyæ* sobie ¿ycie.}
-{209}{}{Pozwól, ¿e zapytam o coœ innego.}
-{210}{}{Interesuj¹ce. Dziêki i do widzenia.}
-{211}{}{Jet to jest to! Jeœli nie latam na Jetcie, to po prostu Ÿle siê czujê. Musisz kiedyœ spróbowaæ!}
-{212}{}{Pozwól, ¿e zapytam o coœ innego.}
-{213}{}{Interesuj¹ce. Dziêki i do widzenia.}
-{214}{}{Nie wyrabiam bez Jetu. Ostatnio ka¿dy to bierze. Bez niego nie da siê wyrobiæ. Rany, cz³owiek czuje siê po nim kiepsko, ale bez niego ¿ycie to gówno.}
-{215}{}{Pozwól, ¿e zapytam o coœ innego.}
-{216}{}{Interesuj¹ce. Dziêki i do widzenia.}
-{217}{}{Jet to dziadostwo. Ka¿dy, kto to wzi¹³, czujê siê po nim jakby mial zdechn¹æ. Chyba zaraz... [przechyla siê i sucho odkas³uje] ...przepraszam. Czy nie moglibyœmy pogadaæ o czymœ innym?}
-{218}{}{Jasne, przepraszam. Pozwól, ¿e zapytam ciê o coœ innego.}
-{219}{}{Interesuj¹ce. Dziêki i do widzenia.}
-{220}{}{Nie chcê s³uchaæ o tym cholerstwie. To gówno mo¿e zabiæ! Nawet sam jego widok jest gorszy od jadu radskorpiona. Nie mogê uwierzyæ, ¿e kiedyœ lubi³em to dziadostwo. Ale ostatnim razem... Jak to wzi¹³em, to myœla³em, ¿e zdechnê.}
-{221}{}{Pozwól, ¿e zapytam o coœ innego.}
-{222}{}{Interesuj¹ce. Dziêki i do widzenia.}
+{191}{}{DziÄ™ki, muszÄ™ siÄ™ tym zainteresowaÄ‡. Do widzenia.}
+{192}{}{No wiec... To byÅ‚o tak. Znam kogoÅ›, kto widziaÅ‚ je z bliska. To byÅ‚o... [jakiÅ› czas potem] ...i miaÅ‚o wielkie kÅ‚y, ktÃ³rymi... [jeszcze jakiÅ› czas pÃ³Åºniej]...}
+{193}{}{MiaÅ‚em kumpla, z ktÃ³rym znaleÅºliÅ›my maÅ‚e zÅ‚oÅ¼e i pewnego dnia... [jakiÅ› czas potem] ...wielkie jak Bramin! I Å›mierdziaÅ‚o jak cholera! [znÃ³w jakiÅ› czas potem]...}
+{194}{}{Pewnie zaraz uÅ›niesz, ale... ByÅ‚o pÃ³Åºno itd. [jakiÅ› czas potem] ...Å›lady podobne trochÄ™ do Radskorpiona, a trochÄ™ do Gekona... [jeszcze jakiÅ› czas potem] ...a nie mÃ³wiÅ‚em, Å¼e zaÅ›niesz?}
+{195}{}{Co, co? [zrywasz siÄ™ z krÃ³tkiej drzemki].}
+{196}{}{IdÄ™ poszukaÄ‡ czegoÅ›, Å¼eby nie zasnÄ…Ä‡... Do widzenia.}
+{197}{}{...tak wiÄ™c juÅ¼ wiesz. Niewolnicy, ktÃ³rzy pracowali w kopalni wysadzili magazyny dynamitu i uciekli, zamiast walczyÄ‡ z Wanamingos. WkrÃ³tce potem zamkniÄ™to kopalnie i nikt juÅ¼ do niej nie wrÃ³ciÅ‚.}
+{198}{}{To gdzie ta caÅ‚a kopalnia Wanamingo?}
+{199}{}{Brzmi rozsÄ…dnie. Do widzenia.}
+{200}{}{Na zachÃ³d od miasta. Ale sÅ‚yszaÅ‚em, Å¼e parÄ™ Wanamingos przyÅ‚azi czasem w nocy do miasta, wiÄ™c moÅ¼e nie potrzeba bÄ™dzie tam Å‚aziÄ‡, by je zobaczyÄ‡! Hihi.}
+{201}{}{JuÅ¼ wiem wszystko na temat Wanamingos. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{202}{}{BÄ™dÄ™ uwaÅ¼aÄ‡ na te Wanno-myjki. Do widzenia.}
+{203}{}{Ascorti to nasz burmistrz. Jest wÅ‚aÅ›cicielem Asa Ascortiego w Å›rÃ³dmieÅ›ciu. Zajmuje siÄ™ kupnem i sprzedaÅ¼Ä… rÃ³Å¼nych rzeczy. Jest pÄ™pkiem naszego maÅ‚ego Å›wiatka.}
+{204}{}{Ascorti jest merem Redding. Ale nie wiem dokÅ‚adnie, gdzie jest teraz. Nie widziaÅ‚am go juÅ¼ od pewnego czasu.}
+{205}{}{MogÄ™ ciÄ™ zapytaÄ‡ o coÅ› jeszcze?}
+{206}{}{Aha... Okej. MuszÄ™ wiÄ™c wysÅ‚uchaÄ‡ reszty twojego opowiadania.}
+{207}{}{Chyba juÅ¼ wystarczajÄ…co dÅ‚ugo ciÄ™ sÅ‚ucham. Do widzenia.}
+{208}{}{Jet to taki cosik z Nowego Reno. BiorÄ™ tego tylko tyle, by *upiÄ™kszyÄ‡* sobie Å¼ycie.}
+{209}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{210}{}{InteresujÄ…ce. DziÄ™ki i do widzenia.}
+{211}{}{Jet to jest to! JeÅ›li nie latam na Jetcie, to po prostu Åºle siÄ™ czujÄ™. Musisz kiedyÅ› sprÃ³bowaÄ‡!}
+{212}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{213}{}{InteresujÄ…ce. DziÄ™ki i do widzenia.}
+{214}{}{Nie wyrabiam bez Jetu. Ostatnio kaÅ¼dy to bierze. Bez niego nie da siÄ™ wyrobiÄ‡. Rany, czÅ‚owiek czuje siÄ™ po nim kiepsko, ale bez niego Å¼ycie to gÃ³wno.}
+{215}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{216}{}{InteresujÄ…ce. DziÄ™ki i do widzenia.}
+{217}{}{Jet to dziadostwo. KaÅ¼dy, kto to wziÄ…Å‚, czujÄ™ siÄ™ po nim jakby mial zdechnÄ…Ä‡. Chyba zaraz... [przechyla siÄ™ i sucho odkasÅ‚uje] ...przepraszam. Czy nie moglibyÅ›my pogadaÄ‡ o czymÅ› innym?}
+{218}{}{Jasne, przepraszam. PozwÃ³l, Å¼e zapytam ciÄ™ o coÅ› innego.}
+{219}{}{InteresujÄ…ce. DziÄ™ki i do widzenia.}
+{220}{}{Nie chcÄ™ sÅ‚uchaÄ‡ o tym cholerstwie. To gÃ³wno moÅ¼e zabiÄ‡! Nawet sam jego widok jest gorszy od jadu radskorpiona. Nie mogÄ™ uwierzyÄ‡, Å¼e kiedyÅ› lubiÅ‚em to dziadostwo. Ale ostatnim razem... Jak to wziÄ…Å‚em, to myÅ›laÅ‚em, Å¼e zdechnÄ™.}
+{221}{}{PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{222}{}{InteresujÄ…ce. DziÄ™ki i do widzenia.}

@@ -1,1 +1,1 @@
-{100}{}{Stoisz przy Wielkim Moœcie, jedynej drodze ³¹cz¹cej twoj¹ wioskê z rozleg³ym pustkowiem.}
+{100}{}{Stoisz przy Wielkim MoÅ›cie, jedynej drodze Å‚Ä…czÄ…cej twojÄ… wioskÄ™ z rozlegÅ‚ym pustkowiem.}

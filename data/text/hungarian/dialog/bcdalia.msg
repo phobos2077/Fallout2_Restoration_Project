@@ -1,59 +1,59 @@
-{100}{}{Egy rongyos ruhájú fiatal n?t látsz.}
+{100}{}{Egy rongyos ruhÃ¡jÃº fiatal n?t lÃ¡tsz.}
 {101}{}{Dalia.}
-{102}{}{Egy rongyos ruhájú fiatal n?t látsz. Nagyon ébernek t?nik, folyamatosan kémleli a környéket.}
-{103}{}{Helló! Dalia vagyok. Miben segíthetek?}
-{104}{}{Semmi, én csak köszönni.}
-{105}{}{Öö, te ki?}
-{106}{}{Mit csinálsz itt?}
-{107}{}{Te látszol ?rnek.}
-{108}{}{Én menni mostan.}
-{109}{}{Csak beköszöntem.}
+{102}{}{Egy rongyos ruhÃ¡jÃº fiatal n?t lÃ¡tsz. Nagyon Ã©bernek t?nik, folyamatosan kÃ©mleli a kÃ¶rnyÃ©ket.}
+{103}{}{HellÃ³! Dalia vagyok. Miben segÃ­thetek?}
+{104}{}{Semmi, Ã©n csak kÃ¶szÃ¶nni.}
+{105}{}{Ã–Ã¶, te ki?}
+{106}{}{Mit csinÃ¡lsz itt?}
+{107}{}{Te lÃ¡tszol ?rnek.}
+{108}{}{Ã‰n menni mostan.}
+{109}{}{Csak bekÃ¶szÃ¶ntem.}
 {110}{}{Ki vagy te?}
-{111}{}{Mit csinál itt?}
-{112}{}{Úgy nézel ki, mintha azt az ösvényt ?riznéd.}
+{111}{}{Mit csinÃ¡l itt?}
+{112}{}{Ãšgy nÃ©zel ki, mintha azt az Ã¶svÃ©nyt ?riznÃ©d.}
 {113}{}{Elmegyek akkor...}
-{114}{}{Nos, akkor helló. Most pedig, bármennyire is sajnálom, menned kell.}
-{115}{}{Én akarja csak beszélni.}
-{116}{}{Oké, menek elfele...}
-{117}{}{Beszélni akarok veled.}
-{118}{}{Viszlát!}
-{119}{}{Mondtam, hogy Dalia vagyok. Nézd, nem akarok durva lenni, de ebben a pillanatban nincs kedvem beszélgetni. Oké?}
-{120}{}{Oké, viszlát!}
-{121}{}{Csak még kicsi.}
+{114}{}{Nos, akkor hellÃ³. Most pedig, bÃ¡rmennyire is sajnÃ¡lom, menned kell.}
+{115}{}{Ã‰n akarja csak beszÃ©lni.}
+{116}{}{OkÃ©, menek elfele...}
+{117}{}{BeszÃ©lni akarok veled.}
+{118}{}{ViszlÃ¡t!}
+{119}{}{Mondtam, hogy Dalia vagyok. NÃ©zd, nem akarok durva lenni, de ebben a pillanatban nincs kedvem beszÃ©lgetni. OkÃ©?}
+{120}{}{OkÃ©, viszlÃ¡t!}
+{121}{}{Csak mÃ©g kicsi.}
 {122}{}{Akkor megyek.}
-{123}{}{Csak kérdezni akartam valamit.}
-{124}{}{Szeretem a friss leveg?t, szeretem a fákat, ezért állok itt. Valami gondod van ezzel?}
-{125}{}{Bocs, én megy.}
-{126}{}{Nem, nem gond. Én kérdez valami.}
-{127}{}{Nincs ezzel semmi gond, csak kiváncsi vagyok valamire.}
-{128}{}{Sajnálom, hogy zavartalak, akkor megyek is.}
-{129}{}{Szó sincs ilyesmir?l. Nincs az égvilágon semmi ebben a lyukban, amit ?rizni kellene. Már mondtam, csak élvezem a friss leveg?t. Most pedig menj!}
-{130}{}{Veled beszélni jó. Én beszél még.}
-{131}{}{Én sajnál zavarni téged. Én menni.}
-{132}{}{De hát olyan jól elbeszélgettünk, miért hagynánk most abba?}
-{133}{}{Azt hiszem, ideje távoznom.}
-{134}{}{Hagyj már engem békén! Nincs semmi mondanivalóm a számodra. Menj el!}
+{123}{}{Csak kÃ©rdezni akartam valamit.}
+{124}{}{Szeretem a friss leveg?t, szeretem a fÃ¡kat, ezÃ©rt Ã¡llok itt. Valami gondod van ezzel?}
+{125}{}{Bocs, Ã©n megy.}
+{126}{}{Nem, nem gond. Ã‰n kÃ©rdez valami.}
+{127}{}{Nincs ezzel semmi gond, csak kivÃ¡ncsi vagyok valamire.}
+{128}{}{SajnÃ¡lom, hogy zavartalak, akkor megyek is.}
+{129}{}{SzÃ³ sincs ilyesmir?l. Nincs az Ã©gvilÃ¡gon semmi ebben a lyukban, amit ?rizni kellene. MÃ¡r mondtam, csak Ã©lvezem a friss leveg?t. Most pedig menj!}
+{130}{}{Veled beszÃ©lni jÃ³. Ã‰n beszÃ©l mÃ©g.}
+{131}{}{Ã‰n sajnÃ¡l zavarni tÃ©ged. Ã‰n menni.}
+{132}{}{De hÃ¡t olyan jÃ³l elbeszÃ©lgettÃ¼nk, miÃ©rt hagynÃ¡nk most abba?}
+{133}{}{Azt hiszem, ideje tÃ¡voznom.}
+{134}{}{Hagyj mÃ¡r engem bÃ©kÃ©n! Nincs semmi mondanivalÃ³m a szÃ¡modra. Menj el!}
 {135}{}{}
 {136}{}{}
-{137}{}{Nincs mir?l beszélgetnünk. Hagyj békén!}
+{137}{}{Nincs mir?l beszÃ©lgetnÃ¼nk. Hagyj bÃ©kÃ©n!}
 {138}{}{}
 {139}{}{}
-{140}{}{Helló! Dalia vagyok. Miben segíthetek?}
+{140}{}{HellÃ³! Dalia vagyok. Miben segÃ­thetek?}
 {141}{}{Ember erre elmenni? Siet?sben?}
 {142}{}{Semmi.}
 {143}{}{Semmi.}
-{144}{}{Nem láttál erre valakit, akin látszott, hogy sürg?s dolga van?}
-{145}{}{Mindennap látok erre embereket, de nem foglalkozom velük különösebben.}
-{146}{}{Én nincs id? tied hülyeség hallgatni.}
+{144}{}{Nem lÃ¡ttÃ¡l erre valakit, akin lÃ¡tszott, hogy sÃ¼rg?s dolga van?}
+{145}{}{Mindennap lÃ¡tok erre embereket, de nem foglalkozom velÃ¼k kÃ¼lÃ¶nÃ¶sebben.}
+{146}{}{Ã‰n nincs id? tied hÃ¼lyesÃ©g hallgatni.}
 {147}{}{Rendben.}
-{148}{}{Lány élet veszélyben. Fiatal lány. Valaki lány. Te segíteni kérlek?}
-{149}{}{Nincs id?m erre a szarságra.}
+{148}{}{LÃ¡ny Ã©let veszÃ©lyben. Fiatal lÃ¡ny. Valaki lÃ¡ny. Te segÃ­teni kÃ©rlek?}
+{149}{}{Nincs id?m erre a szarsÃ¡gra.}
 {150}{}{Rendben, szia.}
-{151}{}{Nézd, egy fiatal lány élete veszélyben forog. Egy aggódó anya lányáé. Kérlek, segíts!}
-{152}{}{Kurvára nem érdekel... Sajnálom. Csak egy fegyveres vagyok, akit felbéreltek, hogy itt álljak, és ?rizzem ezt az ösvényt. Ezenkívül nem tudom, mi folyik a környéken. Nekem is volt egy lányom, és... igen, egy fickó elment erre. Átengedtem ?t, mert ismerte a megfelel? jelet... mint ahogy te is. Jól van, menj ! Én meg elt?nök innen.}
-{153}{}{Én köszön. Én nem felejt ezt el, Dalia.}
-{154}{}{Köszönöm. Nem fogom ezt elfelejteni, Dalia.}
-{155}{}{Akkor t?nj a pokolba, és hagyj békén!}
-{156}{}{Megbeszéltük.}
-{157}{}{Akkor t?nj a pokolba, és hagyj békén!}
-{158}{}{Megbeszéltük.}
+{151}{}{NÃ©zd, egy fiatal lÃ¡ny Ã©lete veszÃ©lyben forog. Egy aggÃ³dÃ³ anya lÃ¡nyÃ¡Ã©. KÃ©rlek, segÃ­ts!}
+{152}{}{KurvÃ¡ra nem Ã©rdekel... SajnÃ¡lom. Csak egy fegyveres vagyok, akit felbÃ©reltek, hogy itt Ã¡lljak, Ã©s ?rizzem ezt az Ã¶svÃ©nyt. EzenkÃ­vÃ¼l nem tudom, mi folyik a kÃ¶rnyÃ©ken. Nekem is volt egy lÃ¡nyom, Ã©s... igen, egy fickÃ³ elment erre. Ãtengedtem ?t, mert ismerte a megfelel? jelet... mint ahogy te is. JÃ³l van, menj ! Ã‰n meg elt?nÃ¶k innen.}
+{153}{}{Ã‰n kÃ¶szÃ¶n. Ã‰n nem felejt ezt el, Dalia.}
+{154}{}{KÃ¶szÃ¶nÃ¶m. Nem fogom ezt elfelejteni, Dalia.}
+{155}{}{Akkor t?nj a pokolba, Ã©s hagyj bÃ©kÃ©n!}
+{156}{}{MegbeszÃ©ltÃ¼k.}
+{157}{}{Akkor t?nj a pokolba, Ã©s hagyj bÃ©kÃ©n!}
+{158}{}{MegbeszÃ©ltÃ¼k.}

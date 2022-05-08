@@ -7,14 +7,14 @@
 {106}{}{I am on a quest for the Holy GECK. Do you know anything about this?}
 {107}{}{I am looking for a missing woman. She's the sister of my friend, Sulik.}
 {108}{}{Is there anything else that needs to be done around here?}
-{109}{}{Deixa pra l·. Tchau.}
+{109}{}{Deixa pra l√°. Tchau.}
 {110}{}{The Holy GECK... [He takes a long hit off his pipe.] There is a creature that we sometimes hunt -- sometimes, it hunts us. A gecko. No, I sense that's not what you seek. I'm afraid your Holy GECK is beyond my ken.}
 {111}{}{Deixe-me perguntar-lhe algo mais.}
 {112}{}{That's all I need to know. Bye.}
 {120}{}{Sulik? [He nods.] One of our best men. Equally skilled at the art of the hunt, and the art of communing with bonespirits. He left us to find his sister, Kurisu, who never returned from a nearby tribe. Tell me, child, where is Sulik now?}
 {121}{}{Oh, he's right here. Hey, Sulik, come on in here...}
 {122}{}{Oh, he's alright. I told him to wait while I get some things done.}
-{123}{}{Sinto muito, mas ele est· morto.}
+{123}{}{Sinto muito, mas ele est√° morto.}
 {124}{}{[Sulik and the tribe's chief exchange greetings.] It brings me great pleasure to see Sulik again. The bonespirits told me he had fallen into trouble. But what of his sister, Kurisu?}
 {125}{}{It is good to hear that Sulik is well. We were worried he got into trouble. So, his sister is still missing?
  She too is a member of our tribe.}
@@ -36,7 +36,7 @@
 {301}{}{Alright, finally! Let's hear it.}
 {302}{}{Not interested, old man. Bye.}
 {310}{}{[He takes a big hit off his pipe, then closes his eyes. After a moment, he nods.] Yes. I see the Great Bear spirit has guided your quest, breathing new life into old bones. Others as well. Perhaps they've come to you in a vision. Come from far, far away... where mutants are not allowed.}
-{311}{}{O que diabos vocÍ est· falando?}
+{311}{}{O que diabos voc√™ est√° falando?}
 {312}{}{Yeah yeah, I got the Star Wars special encounter. Don't tell me that's the final great secret.}
 {320}{}{The final secret... the greatest secret in the entire game... is, [As he does a dramatic pause, he takes another hit off his pipe. Suddenly, the pipe slips from his hands and falls into his robes, instantly igniting him in flames.]}
 {321}{}{Fuck!}

@@ -1,106 +1,106 @@
 {100}{}{Ves a un adicto.}
-{101}{}{Esta persona está muy drogada.}
-{102}{}{Parece que está totalmente colocado.}
-{103}{}{Parece que está totalmente colocada.}
-{104}{}{Tiene muy mal aspecto. Sospechas que está sufriendo la abstinencia de alguna clase de droga.}
-{105}{}{Ha visto mejores días. Parece que está pasando el mono.}
+{101}{}{Esta persona estÃ¡ muy drogada.}
+{102}{}{Parece que estÃ¡ totalmente colocado.}
+{103}{}{Parece que estÃ¡ totalmente colocada.}
+{104}{}{Tiene muy mal aspecto. Sospechas que estÃ¡ sufriendo la abstinencia de alguna clase de droga.}
+{105}{}{Ha visto mejores dÃ­as. Parece que estÃ¡ pasando el mono.}
 {106}{}{Este drogadicto parece un muerto viviente.}
 {107}{}{Crees que este drogadicto acaba de vomitar.}
-{150}{}{¡La luz me hace daño!}
-{151}{}{¡Hay monstruos por todas partes!}
+{150}{}{Â¡La luz me hace daÃ±o!}
+{151}{}{Â¡Hay monstruos por todas partes!}
 {152}{}{Me siento raro.}
-{153}{}{¿Estoy sangrando?}
+{153}{}{Â¿Estoy sangrando?}
 {154}{}{Esto nunca me ha parecido tan real.}
-{155}{}{¡Para ya!}
-{156}{}{¿Es que nadie va a ayudarme?}
-{157}{}{¡Ayuda!}
-{158}{}{¡Vete!}
-{159}{}{¡Ya me duele bastante la cabeza!}
-{160}{}{Déjame tranquilo.}
-{200}{}{Guau, tienes un extraño resplandor oscuro.}
-{201}{}{Oh, eres un grandullón.}
-{202}{}{No les digas que lo que tú y yo sabemos no está aquí.}
+{155}{}{Â¡Para ya!}
+{156}{}{Â¿Es que nadie va a ayudarme?}
+{157}{}{Â¡Ayuda!}
+{158}{}{Â¡Vete!}
+{159}{}{Â¡Ya me duele bastante la cabeza!}
+{160}{}{DÃ©jame tranquilo.}
+{200}{}{Guau, tienes un extraÃ±o resplandor oscuro.}
+{201}{}{Oh, eres un grandullÃ³n.}
+{202}{}{No les digas que lo que tÃº y yo sabemos no estÃ¡ aquÃ­.}
 {203}{}{Ahhh...}
-{204}{}{¿Puedes verme?}
+{204}{}{Â¿Puedes verme?}
 {205}{}{Se mu, mu silencioso. Toy cazando conejos.}
-{206}{}{¿Cómo has acabado aquí?}
+{206}{}{Â¿CÃ³mo has acabado aquÃ­?}
 {207}{}{Shhh, me estoy ocultando.}
-{208}{}{¡Corro más rápido que un lobo!}
-{209}{}{¡Me siento tan viva!}
-{210}{}{Corre por mis venas…}
-{211}{}{Justo ahí, cariño.}
-{212}{}{Oooohhh, ¿puedes sentir el poder?}
-{213}{}{Guau, estás brillando…}
-{214}{}{¡Te quiero, tío!}
-{215}{}{La vida se ha portado bien conmigo. ¿Y contigo?}
-{216}{}{Las pequeñas vuelan por la noche.}
+{208}{}{Â¡Corro mÃ¡s rÃ¡pido que un lobo!}
+{209}{}{Â¡Me siento tan viva!}
+{210}{}{Corre por mis venasâ€¦}
+{211}{}{Justo ahÃ­, cariÃ±o.}
+{212}{}{Oooohhh, Â¿puedes sentir el poder?}
+{213}{}{Guau, estÃ¡s brillandoâ€¦}
+{214}{}{Â¡Te quiero, tÃ­o!}
+{215}{}{La vida se ha portado bien conmigo. Â¿Y contigo?}
+{216}{}{Las pequeÃ±as vuelan por la noche.}
 {217}{}{Dile hola a mi amiguito.}
-{218}{}{Chico, qué sueño…}
-{219}{}{¿Has visto a mi perro?}
-{220}{}{Shhh, están detrás de ti…}
-{221}{}{¡Mío!}
+{218}{}{Chico, quÃ© sueÃ±oâ€¦}
+{219}{}{Â¿Has visto a mi perro?}
+{220}{}{Shhh, estÃ¡n detrÃ¡s de tiâ€¦}
+{221}{}{Â¡MÃ­o!}
 {222}{}{Oooh, mi cabeza.}
 {223}{}{Me duele todo.}
-{224}{}{Me están empezando a entrar los temblores.}
-{225}{}{Oh, necesito más.}
+{224}{}{Me estÃ¡n empezando a entrar los temblores.}
+{225}{}{Oh, necesito mÃ¡s.}
 {226}{}{Necesito una dosis.}
 {227}{}{No puedo esperar, lo necesito ahora.}
-{228}{}{¿Has cogido tú mi mierda?}
-{229}{}{Ah, déjame en paz.}
-{230}{}{Tengo tembleques gordos, tío.}
+{228}{}{Â¿Has cogido tÃº mi mierda?}
+{229}{}{Ah, dÃ©jame en paz.}
+{230}{}{Tengo tembleques gordos, tÃ­o.}
 {231}{}{Odio esta parte.}
 {232}{}{Me quiero morir.}
-{233}{}{Necesito más.}
-{234}{}{No podré aguantar esto mucho más tiempo.}
+{233}{}{Necesito mÃ¡s.}
+{234}{}{No podrÃ© aguantar esto mucho mÃ¡s tiempo.}
 {235}{}{Tengo fiebre.}
 {236}{}{Voy a vomitar.}
-{237}{}{Quizás si me hecho a dormir...}
-{238}{}{Tengo tembleques gordos, tía.}
-{300}{}{¿Esto es sangre?}
-{301}{}{¡Ay! ¿Estoy sangrando? ¡No siento nada!}
+{237}{}{QuizÃ¡s si me hecho a dormir...}
+{238}{}{Tengo tembleques gordos, tÃ­a.}
+{300}{}{Â¿Esto es sangre?}
+{301}{}{Â¡Ay! Â¿Estoy sangrando? Â¡No siento nada!}
 {302}{}{Tengo un hormigueo.}
-{303}{}{¿Quién hizo eso?}
-{304}{}{¿Qué pasa?}
+{303}{}{Â¿QuiÃ©n hizo eso?}
+{304}{}{Â¿QuÃ© pasa?}
 {305}{}{Estoy sangrando... creo.}
 {306}{}{Oh, que dolor.}
-{307}{}{Ahora sí que necesito una dosis.}
-{308}{}{Déjame morir.}
+{307}{}{Ahora sÃ­ que necesito una dosis.}
+{308}{}{DÃ©jame morir.}
 {350}{}{Ahhhh...}
-{351}{}{Estoy flotando…}
-{352}{}{¡Tengo el poder!}
-{353}{}{Hola, señora Flor.}
-{354}{}{Cuántos colores…}
-{355}{}{Amigo, ¿ves ese cielo?}
-{356}{}{Ellos están escuchándonos…}
-{357}{}{¿Dónde estoy?}
-{358}{}{¡Allí está!}
-{359}{}{¡Caray, no! ¡Para! ¡Espera! Vale, adelante.}
-{360}{}{Ahí, ahí… ahh…}
-{361}{}{Sí, ¡nena!}
-{362}{}{¿Qué fue eso?}
-{363}{}{¿Sasha? ¿Eres Sasha?}
-{364}{}{¡Los colores se desvanecen!}
-{365}{}{¿Mamá?}
-{366}{}{¡Oye! ¡Aléjate de mí! Oh…}
-{367}{}{¡No hagas eso!}
-{368}{}{No puedo ver… otra vez.}
+{351}{}{Estoy flotandoâ€¦}
+{352}{}{Â¡Tengo el poder!}
+{353}{}{Hola, seÃ±ora Flor.}
+{354}{}{CuÃ¡ntos coloresâ€¦}
+{355}{}{Amigo, Â¿ves ese cielo?}
+{356}{}{Ellos estÃ¡n escuchÃ¡ndonosâ€¦}
+{357}{}{Â¿DÃ³nde estoy?}
+{358}{}{Â¡AllÃ­ estÃ¡!}
+{359}{}{Â¡Caray, no! Â¡Para! Â¡Espera! Vale, adelante.}
+{360}{}{AhÃ­, ahÃ­â€¦ ahhâ€¦}
+{361}{}{SÃ­, Â¡nena!}
+{362}{}{Â¿QuÃ© fue eso?}
+{363}{}{Â¿Sasha? Â¿Eres Sasha?}
+{364}{}{Â¡Los colores se desvanecen!}
+{365}{}{Â¿MamÃ¡?}
+{366}{}{Â¡Oye! Â¡AlÃ©jate de mÃ­! Ohâ€¦}
+{367}{}{Â¡No hagas eso!}
+{368}{}{No puedo verâ€¦ otra vez.}
 {369}{}{Necesito...}
-{370}{}{Dame más…}
-{371}{}{¿Allí? No.}
+{370}{}{Dame mÃ¡sâ€¦}
+{371}{}{Â¿AllÃ­? No.}
 {372}{}{No. No puedo encontrarlo.}
-{373}{}{¡Haz que pare!}
+{373}{}{Â¡Haz que pare!}
 {374}{}{Uhg.}
 {375}{}{Oh, que dolor.}
 {376}{}{<cof> <cof> <cof>}
-{377}{}{Ooh, ¡mi cabeza!}
-{378}{}{¿Dónde he puesto mi alijo?}
-{400}{}{¡Un demonio!}
-{401}{}{¡El enemigo está entre nosotros!}
-{402}{}{¡Asesino! ¡Has matado a mi hijo!}
-{403}{}{¡Un monstruo! ¡Matadlo!}
-{404}{}{¡Ah! ¡Pargasraka!}
-{405}{}{¡Ahhhhhhhh!}
-{406}{}{¡No vas a quitármelo!}
-{407}{}{¡Devuélvemelo!}
-{408}{}{¡¡¡No!!!}
-{409}{}{¡Mi familia!}
+{377}{}{Ooh, Â¡mi cabeza!}
+{378}{}{Â¿DÃ³nde he puesto mi alijo?}
+{400}{}{Â¡Un demonio!}
+{401}{}{Â¡El enemigo estÃ¡ entre nosotros!}
+{402}{}{Â¡Asesino! Â¡Has matado a mi hijo!}
+{403}{}{Â¡Un monstruo! Â¡Matadlo!}
+{404}{}{Â¡Ah! Â¡Pargasraka!}
+{405}{}{Â¡Ahhhhhhhh!}
+{406}{}{Â¡No vas a quitÃ¡rmelo!}
+{407}{}{Â¡DevuÃ©lvemelo!}
+{408}{}{Â¡Â¡Â¡No!!!}
+{409}{}{Â¡Mi familia!}

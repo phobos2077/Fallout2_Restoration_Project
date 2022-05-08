@@ -1,102 +1,102 @@
-{100}{}{Egy vásárló.}
-{101}{}{Egy helybéli.}
-{150}{}{Úgy néz ki, mint aki tart valahova.}
-{151}{}{Úgy néz ki, mint aki tart valahova.}
-{152}{}{Iszik és más vásárlókkal beszélget. Ügyet sem vet rád.}
-{153}{}{Nagyon lefoglalja a beszélgetés.}
-{154}{}{Keresztülnéz Tubby polcán.}
-{155}{}{Tubby boltja körül ólálkodik.}
-{156}{}{Nem látsz semmi különöset rajta.}
-{157}{}{Nem látsz semmi különöset rajta.}
+{100}{}{Egy vÃ¡sÃ¡rlÃ³.}
+{101}{}{Egy helybÃ©li.}
+{150}{}{Ãšgy nÃ©z ki, mint aki tart valahova.}
+{151}{}{Ãšgy nÃ©z ki, mint aki tart valahova.}
+{152}{}{Iszik Ã©s mÃ¡s vÃ¡sÃ¡rlÃ³kkal beszÃ©lget. Ãœgyet sem vet rÃ¡d.}
+{153}{}{Nagyon lefoglalja a beszÃ©lgetÃ©s.}
+{154}{}{KeresztÃ¼lnÃ©z Tubby polcÃ¡n.}
+{155}{}{Tubby boltja kÃ¶rÃ¼l Ã³lÃ¡lkodik.}
+{156}{}{Nem lÃ¡tsz semmi kÃ¼lÃ¶nÃ¶set rajta.}
+{157}{}{Nem lÃ¡tsz semmi kÃ¼lÃ¶nÃ¶set rajta.}
 {200}{}{Takarodj a szemem el?l!}
-{201}{}{Ne érj hozzám!}
-{202}{}{Hozzám ne érj!}
+{201}{}{Ne Ã©rj hozzÃ¡m!}
+{202}{}{HozzÃ¡m ne Ã©rj!}
 {203}{}{Hagyd abba!}
-{204}{}{Mit csinál itt?}
-{300}{}{Bocsánat, most nem beszélgethetünk.}
+{204}{}{Mit csinÃ¡l itt?}
+{300}{}{BocsÃ¡nat, most nem beszÃ©lgethetÃ¼nk.}
 {301}{}{Hova is mentem?}
-{302}{}{Helló!}
-{303}{}{Bocsánat.}
+{302}{}{HellÃ³!}
+{303}{}{BocsÃ¡nat.}
 {304}{}{Szia!}
-{305}{}{Becky kocsmája a legjobb, de nem csak az árak miatt.}
-{306}{}{A pia vagy a játék miatt vagy itt?}
-{307}{}{Már csak néhány trubadúr hiányzik.}
-{308}{}{Helló!}
-{309}{}{Szerencsejátékos vagy?}
-{310}{}{Mi a helyzet a városon kívül?}
-{311}{}{Frankie egy rohadt dög. Minden indok nélkül utálja Becky-t.}
-{312}{}{Becky barátja vagy?}
-{313}{}{Igyál egyet, barátom!}
-{314}{}{Igyál! Olcsó a pia!}
-{315}{}{Ezek a piák biztosan nincsenek vizezve.}
-{316}{}{Az a Dyer tudja a dolgát.}
-{317}{}{Nincs jobb, mint a jó pia és a jó társaság.}
-{318}{}{Az egyetlen baj Becky piájával, hogy túlságosan itatja magát.}
-{319}{}{Becky... úgy értem, Rebecca egy cukifalat.}
-{320}{}{Ha bárki is hozzáér egy ujjal, nagyon megbánja.}
-{321}{}{Ez jó cucc.}
-{340}{}{Meg kéne ölnünk azért, amit tettél!}
-{341}{}{Nem tudom, mit ártott neked, de nem szolgált rá, hogy megöld.}
-{342}{}{Most, hogy Becky bezárt, talán New Renóba kéne húznunk.}
-{343}{}{Hiányzik Becky mosolya.}
-{344}{}{Nincs több olcsó szesz.}
-{345}{}{Rejtek már nem a régi Becky nélkül.}
-{360}{}{Frankie bárja tényleg igazi lyuk... bizony ömlik rajta a pénz...}
-{361}{}{Jobban szeretem a Lyukat, mint Becky kocsmáját.}
-{362}{}{Ezt a helyet Lyuknak hívjuk.}
-{363}{}{Foglalj helyet! Várj! Talán mégse...}
-{364}{}{Frankie-nek van stílusa. Becky csak a pénzért csinálja.}
+{305}{}{Becky kocsmÃ¡ja a legjobb, de nem csak az Ã¡rak miatt.}
+{306}{}{A pia vagy a jÃ¡tÃ©k miatt vagy itt?}
+{307}{}{MÃ¡r csak nÃ©hÃ¡ny trubadÃºr hiÃ¡nyzik.}
+{308}{}{HellÃ³!}
+{309}{}{SzerencsejÃ¡tÃ©kos vagy?}
+{310}{}{Mi a helyzet a vÃ¡roson kÃ­vÃ¼l?}
+{311}{}{Frankie egy rohadt dÃ¶g. Minden indok nÃ©lkÃ¼l utÃ¡lja Becky-t.}
+{312}{}{Becky barÃ¡tja vagy?}
+{313}{}{IgyÃ¡l egyet, barÃ¡tom!}
+{314}{}{IgyÃ¡l! OlcsÃ³ a pia!}
+{315}{}{Ezek a piÃ¡k biztosan nincsenek vizezve.}
+{316}{}{Az a Dyer tudja a dolgÃ¡t.}
+{317}{}{Nincs jobb, mint a jÃ³ pia Ã©s a jÃ³ tÃ¡rsasÃ¡g.}
+{318}{}{Az egyetlen baj Becky piÃ¡jÃ¡val, hogy tÃºlsÃ¡gosan itatja magÃ¡t.}
+{319}{}{Becky... Ãºgy Ã©rtem, Rebecca egy cukifalat.}
+{320}{}{Ha bÃ¡rki is hozzÃ¡Ã©r egy ujjal, nagyon megbÃ¡nja.}
+{321}{}{Ez jÃ³ cucc.}
+{340}{}{Meg kÃ©ne Ã¶lnÃ¼nk azÃ©rt, amit tettÃ©l!}
+{341}{}{Nem tudom, mit Ã¡rtott neked, de nem szolgÃ¡lt rÃ¡, hogy megÃ¶ld.}
+{342}{}{Most, hogy Becky bezÃ¡rt, talÃ¡n New RenÃ³ba kÃ©ne hÃºznunk.}
+{343}{}{HiÃ¡nyzik Becky mosolya.}
+{344}{}{Nincs tÃ¶bb olcsÃ³ szesz.}
+{345}{}{Rejtek mÃ¡r nem a rÃ©gi Becky nÃ©lkÃ¼l.}
+{360}{}{Frankie bÃ¡rja tÃ©nyleg igazi lyuk... bizony Ã¶mlik rajta a pÃ©nz...}
+{361}{}{Jobban szeretem a Lyukat, mint Becky kocsmÃ¡jÃ¡t.}
+{362}{}{Ezt a helyet Lyuknak hÃ­vjuk.}
+{363}{}{Foglalj helyet! VÃ¡rj! TalÃ¡n mÃ©gse...}
+{364}{}{Frankie-nek van stÃ­lusa. Becky csak a pÃ©nzÃ©rt csinÃ¡lja.}
 {365}{}{Frankie biztosan nem szereti Becky-t.}
-{366}{}{Frankie azt mondja, hogy Becky vizezi a piáját.}
+{366}{}{Frankie azt mondja, hogy Becky vizezi a piÃ¡jÃ¡t.}
 {367}{}{Hogy ityeg a fityeg?}
 {368}{}{Frankie tudja, hogyan kell bulizni.}
-{369}{}{Becky asztalai meg vannak buherálva! Legalábbis Frankie szerint.}
-{370}{}{Húzd meg, fenékig!}
-{390}{}{Francba, figyelmeztettem Frankiet, hogyan bánjon az emberekkel.}
-{391}{}{Frankie igazán visszafoghatta volna magát.}
-{392}{}{Hova fogunk menni ezután?}
-{393}{}{Sajnálatos, hogy Frankie elment. ? tudta, mi fán terem a bulizás.}
-{394}{}{Te aztán jól felhúztad magad. Mit csinált Frankie veled?}
-{395}{}{Frankie bántotta az anyád vagy mi?}
-{410}{}{Csak körülnézek.}
+{369}{}{Becky asztalai meg vannak buherÃ¡lva! LegalÃ¡bbis Frankie szerint.}
+{370}{}{HÃºzd meg, fenÃ©kig!}
+{390}{}{Francba, figyelmeztettem Frankiet, hogyan bÃ¡njon az emberekkel.}
+{391}{}{Frankie igazÃ¡n visszafoghatta volna magÃ¡t.}
+{392}{}{Hova fogunk menni ezutÃ¡n?}
+{393}{}{SajnÃ¡latos, hogy Frankie elment. ? tudta, mi fÃ¡n terem a bulizÃ¡s.}
+{394}{}{Te aztÃ¡n jÃ³l felhÃºztad magad. Mit csinÃ¡lt Frankie veled?}
+{395}{}{Frankie bÃ¡ntotta az anyÃ¡d vagy mi?}
+{410}{}{Csak kÃ¶rÃ¼lnÃ©zek.}
 {411}{}{Nem tudom, mit keresek.}
-{412}{}{Tubby egész biztosan sok Jetet szív.}
-{413}{}{Látsz valami jót?}
+{412}{}{Tubby egÃ©sz biztosan sok Jetet szÃ­v.}
+{413}{}{LÃ¡tsz valami jÃ³t?}
 {414}{}{Itt semmit.}
-{415}{}{Tubbynak kellene valami jobb áruforrás.}
+{415}{}{Tubbynak kellene valami jobb Ã¡ruforrÃ¡s.}
 {416}{}{You need drugs? Tubby is normally well stocked.}
-{430}{}{Miért kellett megölni Tubbyt?}
-{431}{}{Nem nagy veszteség, de Tubbyé volt az egyetlen valamirevaló bolt a városban.}
-{432}{}{Mit csinált Tubby, hogy így felkaptad rajta a vizet?}
+{430}{}{MiÃ©rt kellett megÃ¶lni Tubbyt?}
+{431}{}{Nem nagy vesztesÃ©g, de TubbyÃ© volt az egyetlen valamirevalÃ³ bolt a vÃ¡rosban.}
+{432}{}{Mit csinÃ¡lt Tubby, hogy Ã­gy felkaptad rajta a vizet?}
 {433}{}{Tubby valami rossz anyagot adott el neked, ugye?}
-{434}{}{Az a hír járta, hogy azért csaptad le Tubbyt, mert valami szart adott el, vagy ilyesmi.}
-{435}{}{Nem lep?dtem meg igazán. Az utóbbi id?ben sok embernek nem tetszettek Tubby viselt dolgai.}
-{440}{}{Ma semmi nem érdekel...}
-{441}{}{Üdv! Csak beugrottam beszélgetni az én öreg Flick barátomhoz.}
-{442}{}{Mit csinálsz itt?}
-{443}{}{Te is Flick barátja vagy?}
-{444}{}{Nem csináltam semmit...}
-{445}{}{Mit bámulsz?}
-{446}{}{Csak tégy úgy, mintha itt sem lennék!}
-{447}{}{Ne haragudj rám!}
-{460}{}{Baszd meg! Megölted Flicket!}
-{461}{}{Flick téged is lenyúlt?}
-{462}{}{Flick veszélyes játékokat ?zött.}
-{463}{}{Tök gáz, ami Flickel történt.}
-{464}{}{Azon gondolkodom, mit fognak azok a gyerekek csinálni, ha Flick már nincs többé.}
-{465}{}{Meglep?, hogy Flick ilyen sokáig húzta.}
-{480}{}{Ezt mi otthonnak hívjuk.}
-{481}{}{Legtöbbünk a Mama kosztján n?tt fel.}
-{482}{}{Gyerekkorom óta ismerem a Mamát.}
+{434}{}{Az a hÃ­r jÃ¡rta, hogy azÃ©rt csaptad le Tubbyt, mert valami szart adott el, vagy ilyesmi.}
+{435}{}{Nem lep?dtem meg igazÃ¡n. Az utÃ³bbi id?ben sok embernek nem tetszettek Tubby viselt dolgai.}
+{440}{}{Ma semmi nem Ã©rdekel...}
+{441}{}{Ãœdv! Csak beugrottam beszÃ©lgetni az Ã©n Ã¶reg Flick barÃ¡tomhoz.}
+{442}{}{Mit csinÃ¡lsz itt?}
+{443}{}{Te is Flick barÃ¡tja vagy?}
+{444}{}{Nem csinÃ¡ltam semmit...}
+{445}{}{Mit bÃ¡mulsz?}
+{446}{}{Csak tÃ©gy Ãºgy, mintha itt sem lennÃ©k!}
+{447}{}{Ne haragudj rÃ¡m!}
+{460}{}{Baszd meg! MegÃ¶lted Flicket!}
+{461}{}{Flick tÃ©ged is lenyÃºlt?}
+{462}{}{Flick veszÃ©lyes jÃ¡tÃ©kokat ?zÃ¶tt.}
+{463}{}{TÃ¶k gÃ¡z, ami Flickel tÃ¶rtÃ©nt.}
+{464}{}{Azon gondolkodom, mit fognak azok a gyerekek csinÃ¡lni, ha Flick mÃ¡r nincs tÃ¶bbÃ©.}
+{465}{}{Meglep?, hogy Flick ilyen sokÃ¡ig hÃºzta.}
+{480}{}{Ezt mi otthonnak hÃ­vjuk.}
+{481}{}{LegtÃ¶bbÃ¼nk a Mama kosztjÃ¡n n?tt fel.}
+{482}{}{Gyerekkorom Ã³ta ismerem a MamÃ¡t.}
 {483}{}{Mama mindenre odafigyel Rejtekben.}
-{484}{}{Mama mindenb?l tud szendvicset csinálni.}
-{485}{}{Remélem, legalább olyan jól megismered majd a Mamát, mint mi.}
-{486}{}{Frankó cég, frankó kaja. Mi mást kérhetnénk?}
-{487}{}{Csirió!}
-{488}{}{Helló!}
-{500}{}{Hogy voltál képes bántani szegény öreg Mamát?}
-{501}{}{Ismerem, úgy értem ismertem Mamát egész életemben.}
-{502}{}{Ártott neked valamit is?}
-{503}{}{Gyilkos! Szegény Mama...}
-{504}{}{Miért kellett ezt tenned?}
-{505}{}{Te szívtelen szörnyeteg!}
+{484}{}{Mama mindenb?l tud szendvicset csinÃ¡lni.}
+{485}{}{RemÃ©lem, legalÃ¡bb olyan jÃ³l megismered majd a MamÃ¡t, mint mi.}
+{486}{}{FrankÃ³ cÃ©g, frankÃ³ kaja. Mi mÃ¡st kÃ©rhetnÃ©nk?}
+{487}{}{CsiriÃ³!}
+{488}{}{HellÃ³!}
+{500}{}{Hogy voltÃ¡l kÃ©pes bÃ¡ntani szegÃ©ny Ã¶reg MamÃ¡t?}
+{501}{}{Ismerem, Ãºgy Ã©rtem ismertem MamÃ¡t egÃ©sz Ã©letemben.}
+{502}{}{Ãrtott neked valamit is?}
+{503}{}{Gyilkos! SzegÃ©ny Mama...}
+{504}{}{MiÃ©rt kellett ezt tenned?}
+{505}{}{Te szÃ­vtelen szÃ¶rnyeteg!}

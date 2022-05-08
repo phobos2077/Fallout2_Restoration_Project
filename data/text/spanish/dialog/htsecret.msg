@@ -1,1 +1,1 @@
-{100}{}{Has encontrado una cámara secreta en la mina.}
+{100}{}{Has encontrado una cÃ¡mara secreta en la mina.}

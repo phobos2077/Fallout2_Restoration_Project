@@ -1,32 +1,32 @@
-{100}{}{Widzisz ³owcê niewolników.}
-{101}{}{Ten ³owca niewolników wygl¹da na wrednego kolesia.}
-{200}{}{Tutaj jesteœ.}
+{100}{}{Widzisz Å‚owcÄ™ niewolnikÃ³w.}
+{101}{}{Ten Å‚owca niewolnikÃ³w wyglÄ…da na wrednego kolesia.}
+{200}{}{Tutaj jesteÅ›.}
 {201}{}{Teraz zginiesz.}
-{202}{}{Cholera, Stra¿nik RNK. Czas zabijaæ!}
-{300}{}{Zgubi³eœ siê, czy coœ?}
-{301}{}{Don tu rz¹dzi. Gadaj z nim.}
-{302}{}{To prywatna posiad³oœæ. Nie w³ócz siê tu.}
-{303}{}{Nie czêsto widuje siê kobietê ³owcê niewolników.}
-{304}{}{Dobrze ciê mieæ po naszej stronie.}
+{202}{}{Cholera, StraÅ¼nik RNK. Czas zabijaÄ‡!}
+{300}{}{ZgubiÅ‚eÅ› siÄ™, czy coÅ›?}
+{301}{}{Don tu rzÄ…dzi. Gadaj z nim.}
+{302}{}{To prywatna posiadÅ‚oÅ›Ä‡. Nie wÅ‚Ã³cz siÄ™ tu.}
+{303}{}{Nie czÄ™sto widuje siÄ™ kobietÄ™ Å‚owcÄ™ niewolnikÃ³w.}
+{304}{}{Dobrze ciÄ™ mieÄ‡ po naszej stronie.}
 {305}{}{Hej. Jak leci?}
-{306}{}{Uda³o ci siê ju¿ spa³owaæ jakiegoœ niewolnika?}
+{306}{}{UdaÅ‚o ci siÄ™ juÅ¼ spaÅ‚owaÄ‡ jakiegoÅ› niewolnika?}
 {307}{}{Witam ponownie.}
-{308}{}{Wyruszasz na nastêpne ³owy?}
-{309}{}{Jest doœæ spokojnie.}
-{310}{}{Kiedy wreszcie doczekam siê jakiejœ akcji?}
-{311}{}{Puszkowanie niewolników zawsze poprawia mi humor.}
-{312}{}{Wypady po niewolników s¹ super.}
-{313}{}{Hej, dobrze ciê mieæ po naszej stronie.}
-{500}{}{Hej ty, co ty tu robisz? Nigdy ciê tu nie widzia³em.}
-{501}{}{Metzger mnie przys³a³ ¿eby skontrolowaæ jego dobra. Wiesz jaki jest. Jeœli nie jest idealnie, to po zabawie. I ju¿ siê spóŸniam. Muszê jak najszybciej zrobiæ inspekcje i wracaæ z raportem do niego. Chyba nie chcesz byæ odpowiedzialny za moje spóŸnienie.}
-{502}{}{Yyy... hmm... W takim razie, nie przeszkadzam. Jestem tutaj, jeœli byœ czegoœ potrzebowa³.}
-{503}{}{Dziêki. Dobry z ciebie cz³owiek. Szepnê parê dobrych s³ów o tobie bossowi. Czeœæ.}
-{504}{}{Zabawne, ¿e Metzger móg³by wys³aæ kogoœ bez naszego tatua¿u. Nie oszukasz mnie. Czas pozbyæ siê œmieci.}
-{505}{}{Patrz! Jednog³owa krowa!}
-{506}{}{Ale, yyy, nie widzia³em ciê tu wczeœniej. Gdzie ten co zwykle sprawdza³?}
-{507}{}{Jest chory. Ciê¿ki przypadek grypy.}
-{508}{}{Zosta³ zabity podczas wypadu po niewolników.}
-{509}{}{A niech to, to przykre. W³aŸ. Bêdê tu w razie potrzeby.}
-{510}{}{Grypa? Ta, jasne. Zdaje siê, ¿e intruz dosta³ siê w nasze rêce.}
-{600}{}{Ostrzega³em ciê, dupku!}
+{308}{}{Wyruszasz na nastÄ™pne Å‚owy?}
+{309}{}{Jest doÅ›Ä‡ spokojnie.}
+{310}{}{Kiedy wreszcie doczekam siÄ™ jakiejÅ› akcji?}
+{311}{}{Puszkowanie niewolnikÃ³w zawsze poprawia mi humor.}
+{312}{}{Wypady po niewolnikÃ³w sÄ… super.}
+{313}{}{Hej, dobrze ciÄ™ mieÄ‡ po naszej stronie.}
+{500}{}{Hej ty, co ty tu robisz? Nigdy ciÄ™ tu nie widziaÅ‚em.}
+{501}{}{Metzger mnie przysÅ‚aÅ‚ Å¼eby skontrolowaÄ‡ jego dobra. Wiesz jaki jest. JeÅ›li nie jest idealnie, to po zabawie. I juÅ¼ siÄ™ spÃ³Åºniam. MuszÄ™ jak najszybciej zrobiÄ‡ inspekcje i wracaÄ‡ z raportem do niego. Chyba nie chcesz byÄ‡ odpowiedzialny za moje spÃ³Åºnienie.}
+{502}{}{Yyy... hmm... W takim razie, nie przeszkadzam. Jestem tutaj, jeÅ›li byÅ› czegoÅ› potrzebowaÅ‚.}
+{503}{}{DziÄ™ki. Dobry z ciebie czÅ‚owiek. SzepnÄ™ parÄ™ dobrych sÅ‚Ã³w o tobie bossowi. CzeÅ›Ä‡.}
+{504}{}{Zabawne, Å¼e Metzger mÃ³gÅ‚by wysÅ‚aÄ‡ kogoÅ› bez naszego tatuaÅ¼u. Nie oszukasz mnie. Czas pozbyÄ‡ siÄ™ Å›mieci.}
+{505}{}{Patrz! JednogÅ‚owa krowa!}
+{506}{}{Ale, yyy, nie widziaÅ‚em ciÄ™ tu wczeÅ›niej. Gdzie ten co zwykle sprawdzaÅ‚?}
+{507}{}{Jest chory. CiÄ™Å¼ki przypadek grypy.}
+{508}{}{ZostaÅ‚ zabity podczas wypadu po niewolnikÃ³w.}
+{509}{}{A niech to, to przykre. WÅ‚aÅº. BÄ™dÄ™ tu w razie potrzeby.}
+{510}{}{Grypa? Ta, jasne. Zdaje siÄ™, Å¼e intruz dostaÅ‚ siÄ™ w nasze rÄ™ce.}
+{600}{}{OstrzegaÅ‚em ciÄ™, dupku!}
 {800}{}{[dalej]}

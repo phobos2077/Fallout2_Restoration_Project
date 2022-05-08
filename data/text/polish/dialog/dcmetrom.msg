@@ -1,25 +1,25 @@
-{100}{}{Widzisz zahartowanego ³owcê niewolników w œrednim wieku.}
-{101}{}{Widzisz dobrze zbudowanego ³owcê niewolników.}
-{150}{}{Oto £owca, który czerpie przyjemnoœæ ze swojej pracy.}
-{151}{}{Ten £owca jest bardzo silny, ale chyba niezbyt bystry.}
-{200}{}{OdejdŸ od tych cholernych drzwi.}
+{100}{}{Widzisz zahartowanego Å‚owcÄ™ niewolnikÃ³w w Å›rednim wieku.}
+{101}{}{Widzisz dobrze zbudowanego Å‚owcÄ™ niewolnikÃ³w.}
+{150}{}{Oto Åowca, ktÃ³ry czerpie przyjemnoÅ›Ä‡ ze swojej pracy.}
+{151}{}{Ten Åowca jest bardzo silny, ale chyba niezbyt bystry.}
+{200}{}{OdejdÅº od tych cholernych drzwi.}
 {201}{}{Czego tu kurwa szukasz?}
-{202}{}{Metzger urwie ci ³eb. Spadaj st¹d, stary.}
+{202}{}{Metzger urwie ci Å‚eb. Spadaj stÄ…d, stary.}
 {203}{}{Hej, suko, zostaw te drzwi w spokoju.}
-{204}{}{¯adna suka nie ma wstêpu do pokoju Metzgera. Spadaj.}
-{205}{}{Spadaj, suko. £owca czy nie - pokój Metzgera nie jest do zwiedzania.}
-{250}{}{Gadaj z Metzgerem, a nie ze mn¹.}
-{251}{}{Chcesz do³¹czyæ do gildii?}
-{252}{}{W gildii mo¿na nieŸle zarobiæ.}
-{253}{}{W gildii mo¿na siê nieŸle zabawiæ.}
-{254}{}{Gadaj z Metzgerem, a nie ze mn¹, paniusiu.}
-{255}{}{Metzger nie zatrudni babki, wiêc sp³ywaj st¹d.}
-{256}{}{Zje¿d¿aj.}
-{257}{}{Hej, koleœ.}
-{258}{}{Masz szczêœcie, ¿e chodzisz tylko na polowania.}
-{259}{}{Pilnowanie drzwi jest ca³kiem do dupy.}
+{204}{}{Å»adna suka nie ma wstÄ™pu do pokoju Metzgera. Spadaj.}
+{205}{}{Spadaj, suko. Åowca czy nie - pokÃ³j Metzgera nie jest do zwiedzania.}
+{250}{}{Gadaj z Metzgerem, a nie ze mnÄ….}
+{251}{}{Chcesz doÅ‚Ä…czyÄ‡ do gildii?}
+{252}{}{W gildii moÅ¼na nieÅºle zarobiÄ‡.}
+{253}{}{W gildii moÅ¼na siÄ™ nieÅºle zabawiÄ‡.}
+{254}{}{Gadaj z Metzgerem, a nie ze mnÄ…, paniusiu.}
+{255}{}{Metzger nie zatrudni babki, wiÄ™c spÅ‚ywaj stÄ…d.}
+{256}{}{ZjeÅ¼dÅ¼aj.}
+{257}{}{Hej, koleÅ›.}
+{258}{}{Masz szczÄ™Å›cie, Å¼e chodzisz tylko na polowania.}
+{259}{}{Pilnowanie drzwi jest caÅ‚kiem do dupy.}
 {260}{}{Jak leci?}
-{261}{}{Jesteœ pierwsz¹ kobiet¹, jak¹ zatrudni³ Metzger.}
-{262}{}{Metzger chyba bardzo ciê lubi.}
-{263}{}{RadŸ sobie sama, damulko.}
-{264}{}{Kobieta-£owca... Kto by pomyœla³, ¿e doczekam takich czasów.}
+{261}{}{JesteÅ› pierwszÄ… kobietÄ…, jakÄ… zatrudniÅ‚ Metzger.}
+{262}{}{Metzger chyba bardzo ciÄ™ lubi.}
+{263}{}{RadÅº sobie sama, damulko.}
+{264}{}{Kobieta-Åowca... Kto by pomyÅ›laÅ‚, Å¼e doczekam takich czasÃ³w.}

@@ -1,89 +1,89 @@
 {100}{}{Ves a un jugador.}
-{101}{}{A este jugador le está yendo extremadamente bien.}
-{102}{}{Parece que está ganando, pero todo su dinero está sobre la mesa.}
-{103}{}{Parece que está ganando, pero todo su dinero está sobre la mesa.}
+{101}{}{A este jugador le estÃ¡ yendo extremadamente bien.}
+{102}{}{Parece que estÃ¡ ganando, pero todo su dinero estÃ¡ sobre la mesa.}
+{103}{}{Parece que estÃ¡ ganando, pero todo su dinero estÃ¡ sobre la mesa.}
 {104}{}{Esta persona no parece estar ganando ni perdiendo.}
 {105}{}{Esta persona hace tiempo que no gana.}
-{106}{}{Parece que está a punto de echarse a llorar y de quedarse sin dinero.}
+{106}{}{Parece que estÃ¡ a punto de echarse a llorar y de quedarse sin dinero.}
 {107}{}{Parece estar muy enfadado y estar perdiendo mucho dinero.}
-{200}{}{¡No me hagas daño!}
-{201}{}{¡No dispares!}
-{202}{}{¡No tengo dinero!}
-{203}{}{¿Por qué has tenido que matar a la pobre Becky?}
-{204}{}{¿Qué es lo que te hizo ella?}
-{205}{}{¡No he hecho nada!}
-{206}{}{Por favor, vete, no lo contaré a nadie.}
-{300}{}{¡Sí! ¡Los dados me quieren!}
+{200}{}{Â¡No me hagas daÃ±o!}
+{201}{}{Â¡No dispares!}
+{202}{}{Â¡No tengo dinero!}
+{203}{}{Â¿Por quÃ© has tenido que matar a la pobre Becky?}
+{204}{}{Â¿QuÃ© es lo que te hizo ella?}
+{205}{}{Â¡No he hecho nada!}
+{206}{}{Por favor, vete, no lo contarÃ© a nadie.}
+{300}{}{Â¡SÃ­! Â¡Los dados me quieren!}
 {301}{}{Oh, eso ha estado cerca.}
 {302}{}{No me interrumpas. Vas a arruinar mi racha.}
-{303}{}{¡Estoy en racha!}
-{304}{}{¡Dinero, dinero, dinero!}
-{305}{}{¡Adoro este juego!}
-{306}{}{¿Lo has visto? ¡Sí!}
-{307}{}{¡La ruleta es el mejor juego!}
-{308}{}{Me está yendo bastante bien, ¿qué tal a ti?}
-{309}{}{Me está yendo mejor de lo normal.}
-{310}{}{Un gran sitio, ¿no crees?}
+{303}{}{Â¡Estoy en racha!}
+{304}{}{Â¡Dinero, dinero, dinero!}
+{305}{}{Â¡Adoro este juego!}
+{306}{}{Â¿Lo has visto? Â¡SÃ­!}
+{307}{}{Â¡La ruleta es el mejor juego!}
+{308}{}{Me estÃ¡ yendo bastante bien, Â¿quÃ© tal a ti?}
+{309}{}{Me estÃ¡ yendo mejor de lo normal.}
+{310}{}{Un gran sitio, Â¿no crees?}
 {311}{}{Las mesas de Becky son mejores que las de Nuevo Reno.}
-{312}{}{¿Te gusta este juego? Es muy divertido.}
+{312}{}{Â¿Te gusta este juego? Es muy divertido.}
 {313}{}{No he tenido una buena tirada desde hace un buen rato.}
 {314}{}{Necesito una buena tirada.}
 {315}{}{Bueno, al menos no estoy perdiendo.}
-{316}{}{No me voy a ningún lado.}
+{316}{}{No me voy a ningÃºn lado.}
 {317}{}{Estoy en punto muerto.}
-{318}{}{Tienes que jugar a los números.}
-{319}{}{Apostar sólo al rojo o al negro no da ganancias.}
-{320}{}{Los dados no se están portando.}
+{318}{}{Tienes que jugar a los nÃºmeros.}
+{319}{}{Apostar sÃ³lo al rojo o al negro no da ganancias.}
+{320}{}{Los dados no se estÃ¡n portando.}
 {321}{}{Estoy deprimido y esto no pinta bien.}
 {322}{}{Espero que lo hagas mejor que yo.}
-{323}{}{He tenido días mejores.}
-{324}{}{Sé como jugar, honestamente.}
-{325}{}{La suerte no está de cara hoy.}
-{326}{}{Otro día de paga perdido para nada.}
-{327}{}{¡Estoy casi arruinado!}
-{328}{}{Maldición. Esto apesta.}
-{329}{}{¿Por qué siempre tiene que pasarme esto a mí?}
+{323}{}{He tenido dÃ­as mejores.}
+{324}{}{SÃ© como jugar, honestamente.}
+{325}{}{La suerte no estÃ¡ de cara hoy.}
+{326}{}{Otro dÃ­a de paga perdido para nada.}
+{327}{}{Â¡Estoy casi arruinado!}
+{328}{}{MaldiciÃ³n. Esto apesta.}
+{329}{}{Â¿Por quÃ© siempre tiene que pasarme esto a mÃ­?}
 {330}{}{No puedo ganar.}
 {331}{}{Odio este juego.}
-{400}{}{Maldición, ¡el de Becky era el único casino para apostar de la zona!}
-{401}{}{Aléjate.}
-{402}{}{¡No dispares!}
-{403}{}{Por favor, déjanos en paz.}
-{500}{}{No te pares aquí.}
-{501}{}{Sigue moviéndote.}
-{502}{}{¡VAMOS, 7!}
-{503}{}{¡Sí!}
-{504}{}{¡No pares!}
-{505}{}{¡Becky! ¡Hoy voy a llevarme todo tu dinero!}
-{506}{}{¡Woohoo! ¡He ganado!}
-{507}{}{¡Dame otro buen rebote!}
-{508}{}{¡Sí!}
-{509}{}{¡Muy bien!}
+{400}{}{MaldiciÃ³n, Â¡el de Becky era el Ãºnico casino para apostar de la zona!}
+{401}{}{AlÃ©jate.}
+{402}{}{Â¡No dispares!}
+{403}{}{Por favor, dÃ©janos en paz.}
+{500}{}{No te pares aquÃ­.}
+{501}{}{Sigue moviÃ©ndote.}
+{502}{}{Â¡VAMOS, 7!}
+{503}{}{Â¡SÃ­!}
+{504}{}{Â¡No pares!}
+{505}{}{Â¡Becky! Â¡Hoy voy a llevarme todo tu dinero!}
+{506}{}{Â¡Woohoo! Â¡He ganado!}
+{507}{}{Â¡Dame otro buen rebote!}
+{508}{}{Â¡SÃ­!}
+{509}{}{Â¡Muy bien!}
 {510}{}{Otra vez, vamos a verlo otra vez.}
 {511}{}{Vamos.}
-{512}{}{Es lo que quería.}
+{512}{}{Es lo que querÃ­a.}
 {513}{}{Casi.}
-{514}{}{No está mal.}
-{515}{}{¿Cómo ha podido pasar eso?}
+{514}{}{No estÃ¡ mal.}
+{515}{}{Â¿CÃ³mo ha podido pasar eso?}
 {516}{}{Ups.}
-{517}{}{Sin golpes, sin golpes. ¡Para!}
+{517}{}{Sin golpes, sin golpes. Â¡Para!}
 {518}{}{Bueno, el juego hace honor a su nombre.}
-{519}{}{Tan sólo necesito ganar una grande.}
-{520}{}{¡Cifras!}
-{521}{}{¿Otra vez?}
+{519}{}{Tan sÃ³lo necesito ganar una grande.}
+{520}{}{Â¡Cifras!}
+{521}{}{Â¿Otra vez?}
 {522}{}{Esto no pinta bien.}
-{523}{}{¡La ruleta apesta!}
-{524}{}{¡Becky! ¡Tus mesas me están matando!}
-{525}{}{¿Estos dados están cargados o qué?}
-{526}{}{¡Otra vez no!}
-{527}{}{¿Por qué yo?}
-{528}{}{¡Maldición! ¡Estaba tan cerca!}
-{529}{}{Oh Dios, Dios, Jesús, ¡MÁTAME!}
-{530}{}{¡Odio este juego!}
-{531}{}{¡Maldición! ¡Ese era mi número en la última tirada!}
-{532}{}{¿¿¿Otra vez negro!?!?}
-{600}{}{¡Vete!}
-{601}{}{¿Por qué has hecho eso?}
-{602}{}{¡Vete!}
-{603}{}{Detente, soy frágil.}
-{604}{}{Yo no te haría algo así a ti.}
+{523}{}{Â¡La ruleta apesta!}
+{524}{}{Â¡Becky! Â¡Tus mesas me estÃ¡n matando!}
+{525}{}{Â¿Estos dados estÃ¡n cargados o quÃ©?}
+{526}{}{Â¡Otra vez no!}
+{527}{}{Â¿Por quÃ© yo?}
+{528}{}{Â¡MaldiciÃ³n! Â¡Estaba tan cerca!}
+{529}{}{Oh Dios, Dios, JesÃºs, Â¡MÃTAME!}
+{530}{}{Â¡Odio este juego!}
+{531}{}{Â¡MaldiciÃ³n! Â¡Ese era mi nÃºmero en la Ãºltima tirada!}
+{532}{}{Â¿Â¿Â¿Otra vez negro!?!?}
+{600}{}{Â¡Vete!}
+{601}{}{Â¿Por quÃ© has hecho eso?}
+{602}{}{Â¡Vete!}
+{603}{}{Detente, soy frÃ¡gil.}
+{604}{}{Yo no te harÃ­a algo asÃ­ a ti.}

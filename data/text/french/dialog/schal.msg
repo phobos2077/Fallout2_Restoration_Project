@@ -1,19 +1,19 @@
-{100}{}{Un type très musclé au torse bombé.}
+{100}{}{Un type trÃ¨s musclÃ© au torse bombÃ©.}
 {101}{}{Voici Hal, le capitaine du rassemblement des Brahmines.}
-{102}{}{Il mâche une chique et tu espères qu'il ne la crachera pas dans ta direction parce que ça pue le chacal.}
+{102}{}{Il mÃ¢che une chique et tu espÃ¨res qu'il ne la crachera pas dans ta direction parce que Ã§a pue le chacal.}
 {103}{}{Tu viens pour le rassemblement ?}
 {104}{}{}
 {105}{}{Oui.}
 {106}{}{Non.}
 {107}{}{Ouvre l'oeil.}
-{108}{}{Ouaip, ce serait bien des chars allégoriques pour Redding !!}
-{109}{}{Je me demande quel genre de char allégorique pourrait convenir.}
+{108}{}{Ouaip, ce serait bien des chars allÃ©goriques pour Redding !!}
+{109}{}{Je me demande quel genre de char allÃ©gorique pourrait convenir.}
 {110}{}{Super. Allons-y. Direction Redding, les gars !}
-{111}{}{Alors laisse-moi tranquille. J'ai 500 têtes de Brahmines à mener.}
+{111}{}{Alors laisse-moi tranquille. J'ai 500 tÃªtes de Brahmines Ã  mener.}
 {112}{}{Encore toi ? Va-t'en !}
-{113}{}{Oh, quelle merde ! J'ai bien peur qu'il n'y ait d'argent pour personne sur ce coup. Réjouis toi d'être en vie.}
-{114}{}{Les gars du ranch sont pas très contents, t'as décroché que $1000. Pas de chance.}
-{115}{}{On a eu une série de malchances mais on s'en est sorti. Voilà tes $2000.}
-{116}{}{Putain, c'était super ! Voilà $1000 de bonus pour toi. Ca plus $2000 et comme ça ta paie est réglée. Redding a intérêt à faire attention ce soir.}
-{117}{}{Tu ne peux compter que sur toi-même maintenant. Bon voyage.}
+{113}{}{Oh, quelle merde ! J'ai bien peur qu'il n'y ait d'argent pour personne sur ce coup. RÃ©jouis toi d'Ãªtre en vie.}
+{114}{}{Les gars du ranch sont pas trÃ¨s contents, t'as dÃ©crochÃ© que $1000. Pas de chance.}
+{115}{}{On a eu une sÃ©rie de malchances mais on s'en est sorti. VoilÃ  tes $2000.}
+{116}{}{Putain, c'Ã©tait super ! VoilÃ  $1000 de bonus pour toi. Ca plus $2000 et comme Ã§a ta paie est rÃ©glÃ©e. Redding a intÃ©rÃªt Ã  faire attention ce soir.}
+{117}{}{Tu ne peux compter que sur toi-mÃªme maintenant. Bon voyage.}
 {118}{}{C'est l'excuse la plus minable que j'ai jamais vue pour un garde. Sortez d'ici.}

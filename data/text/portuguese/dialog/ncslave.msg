@@ -1,6 +1,6 @@
 {100}{}{You see a sickly slave.}
 {101}{}{You see a drugged slave.}
-{102}{}{Você vê um escravo.}
+{102}{}{VocÃª vÃª um escravo.}
 {150}{}{You see a broken looking man. His eyes dart around the area, as if following some invisible insect.}
 {151}{}{You see a sickly slave. He looks terribly frightened, and his eyes seem unable to focus on you.}
 {152}{}{You see a sickly slave. His clothes are in tatters, and his skin hangs loosely on his flesh.}
@@ -70,7 +70,7 @@
 {260}{}{Yes, I am already owned. My master has the papers.}
 {261}{}{Please leave me be. I am already owned by someone else.}
 {262}{}{I beg you: have you seen two children, dark-hair...? They were taken by other slavers two years ago and sold North.}
-{263}{}{Por favor... não tenho permissão para falar com ninguém.}
+{263}{}{Por favor... nÃ£o tenho permissÃ£o para falar com ninguÃ©m.}
 {264}{}{Please... let me be. My master will be back soon.}
 {265}{}{If my master catches me talking to a slaver, I will be beaten.}
 {266}{}{I already have a master. She will not be happy if you continue to talk to me.}
@@ -83,7 +83,7 @@
 {282}{}{They test new drugs on us. Some are poisonous.}
 {283}{}{My master is... good to me.}
 {284}{}{My master said not to speak to others.}
-{285}{}{Por favor... Não tenho permissão para falar com você.}
+{285}{}{Por favor... NÃ£o tenho permissÃ£o para falar com vocÃª.}
 {286}{}{Please let me be. My master will be back soon.}
 {287}{}{If my master catches me talking to you, he will beat me.}
 {288}{}{My master is good. He does not beat me often.}

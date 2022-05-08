@@ -1,23 +1,23 @@
-{100}{}{A zsoldosok egyik vezet?jét látod.}
-{150}{}{Egy b?rpáncélt visel? kemény fickót látsz. Számtalan sebhely és golyónyom borítja a testét, viszont a páncélja és a fegyvere jó állapotban vannak, szinte újak.}
-{151}{}{A zsoldosok egyik vezet?jét látod. A területet kémleli, közben az ujját a ravaszon tartja.}
-{200}{}{Nézzétek ezt a tökös köcsögöt...}
-{201}{}{Behatoló!}
-{202}{}{Fiúk, vendégünk van!}
-{203}{}{Vonszoljátok ide a seggeteket! Van egy behatolónk!}
-{204}{}{Nézzétek ki ugrott be hozzánk... most meghal...}
-{205}{}{Picsába! Ránk találtak!}
-{206}{}{Valami mocskot fújt ide a szél...}
-{207}{}{Eltévesztetted a házszámot, köcsög!}
-{208}{}{Nézzétek már mit hepciáskodik itt ez a kis szuka...}
-{215}{}{Lassan vissza kéne hívni a többi csapatot...}
-{216}{}{Úgy tudom, a Bravo csapat Menedékvárostól nem messze délre van... még mindig azt a karavánt követik.}
-{217}{}{Az a kis rüszü jobb, ha összeszedi magát... nehogy már ilyen szarosok kavarjanak itt...}
-{218}{}{Itt az id?, hogy kiküldjek egy ?rjáratot...}
-{219}{}{Ha csak egy kis id?re is kiiktathatnánk azokat a lézereket Menedékvárosban...}
-{220}{}{Megérkezhetne már Bishop parancsa...}
-{221}{}{Már legalább egy hete nem jött üzenet Bishoptól.}
-{222}{}{Szerintem a következ? célpont az ÚKK-ból Menedékvárosba tartó karaván lesz...}
-{223}{}{Készen kell állnunk, hogy azonnal indulhassunk, ha megjön a parancs.}
-{224}{}{Remélem, a fiúk ellen?rizték a csapdákat.}
-{225}{}{Visszatért már az Alpha és Bravo csapat?}
+{100}{}{A zsoldosok egyik vezet?jÃ©t lÃ¡tod.}
+{150}{}{Egy b?rpÃ¡ncÃ©lt visel? kemÃ©ny fickÃ³t lÃ¡tsz. SzÃ¡mtalan sebhely Ã©s golyÃ³nyom borÃ­tja a testÃ©t, viszont a pÃ¡ncÃ©lja Ã©s a fegyvere jÃ³ Ã¡llapotban vannak, szinte Ãºjak.}
+{151}{}{A zsoldosok egyik vezet?jÃ©t lÃ¡tod. A terÃ¼letet kÃ©mleli, kÃ¶zben az ujjÃ¡t a ravaszon tartja.}
+{200}{}{NÃ©zzÃ©tek ezt a tÃ¶kÃ¶s kÃ¶csÃ¶gÃ¶t...}
+{201}{}{BehatolÃ³!}
+{202}{}{FiÃºk, vendÃ©gÃ¼nk van!}
+{203}{}{VonszoljÃ¡tok ide a seggeteket! Van egy behatolÃ³nk!}
+{204}{}{NÃ©zzÃ©tek ki ugrott be hozzÃ¡nk... most meghal...}
+{205}{}{PicsÃ¡ba! RÃ¡nk talÃ¡ltak!}
+{206}{}{Valami mocskot fÃºjt ide a szÃ©l...}
+{207}{}{EltÃ©vesztetted a hÃ¡zszÃ¡mot, kÃ¶csÃ¶g!}
+{208}{}{NÃ©zzÃ©tek mÃ¡r mit hepciÃ¡skodik itt ez a kis szuka...}
+{215}{}{Lassan vissza kÃ©ne hÃ­vni a tÃ¶bbi csapatot...}
+{216}{}{Ãšgy tudom, a Bravo csapat MenedÃ©kvÃ¡rostÃ³l nem messze dÃ©lre van... mÃ©g mindig azt a karavÃ¡nt kÃ¶vetik.}
+{217}{}{Az a kis rÃ¼szÃ¼ jobb, ha Ã¶sszeszedi magÃ¡t... nehogy mÃ¡r ilyen szarosok kavarjanak itt...}
+{218}{}{Itt az id?, hogy kikÃ¼ldjek egy ?rjÃ¡ratot...}
+{219}{}{Ha csak egy kis id?re is kiiktathatnÃ¡nk azokat a lÃ©zereket MenedÃ©kvÃ¡rosban...}
+{220}{}{MegÃ©rkezhetne mÃ¡r Bishop parancsa...}
+{221}{}{MÃ¡r legalÃ¡bb egy hete nem jÃ¶tt Ã¼zenet BishoptÃ³l.}
+{222}{}{Szerintem a kÃ¶vetkez? cÃ©lpont az ÃšKK-bÃ³l MenedÃ©kvÃ¡rosba tartÃ³ karavÃ¡n lesz...}
+{223}{}{KÃ©szen kell Ã¡llnunk, hogy azonnal indulhassunk, ha megjÃ¶n a parancs.}
+{224}{}{RemÃ©lem, a fiÃºk ellen?riztÃ©k a csapdÃ¡kat.}
+{225}{}{VisszatÃ©rt mÃ¡r az Alpha Ã©s Bravo csapat?}

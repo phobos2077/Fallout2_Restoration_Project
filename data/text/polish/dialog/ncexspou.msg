@@ -1,4 +1,4 @@
-{200}{}{Przecie¿ ci¹gle ci mówiê, ¿e ciê kocham.}
+{200}{}{PrzecieÅ¼ ciÄ…gle ci mÃ³wiÄ™, Å¼e ciÄ™ kocham.}
 {201}{}{Aaach....}
-{202}{}{£aaaaa...}
-{203}{}{Mój tatko skopie ci dupê.}
+{202}{}{Åaaaaa...}
+{203}{}{MÃ³j tatko skopie ci dupÄ™.}

@@ -1,1 +1,1 @@
-{100}{}{Ce casier est fermé électroniquement. Impossible de le déverrouiller d'ici.}
+{100}{}{Ce casier est fermÃ© Ã©lectroniquement. Impossible de le dÃ©verrouiller d'ici.}

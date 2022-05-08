@@ -1,1 +1,1 @@
-{100}{}{Cette pièce sent très fort la fumée de bois.}
+{100}{}{Cette piÃ¨ce sent trÃ¨s fort la fumÃ©e de bois.}

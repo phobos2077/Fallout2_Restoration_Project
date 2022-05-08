@@ -1,86 +1,86 @@
-{100}{}{Egy még fiatalnak mondható, kopaszodó tudóssal hozott össze a sors. Eléggé belemerült a munkájába.}
+{100}{}{Egy mÃ©g fiatalnak mondhatÃ³, kopaszodÃ³ tudÃ³ssal hozott Ã¶ssze a sors. ElÃ©ggÃ© belemerÃ¼lt a munkÃ¡jÃ¡ba.}
 {101}{}{You see Crockett, the Hubologist scientist.}
-{102}{}{? egy fiatalnak mondható, kopaszodó kutató. Tipikus toprongyos tudósfej.}
+{102}{}{? egy fiatalnak mondhatÃ³, kopaszodÃ³ kutatÃ³. Tipikus toprongyos tudÃ³sfej.}
 {103}{}{Igen? Mit akar?}
-{104}{}{Ah. Öm. Dör.}
-{105}{}{Dr. Jing küldött. Egy meger?sített er?páncélt szeretne.}
-{106}{}{Meg tud tuningolni egy er?páncélt?}
+{104}{}{Ah. Ã–m. DÃ¶r.}
+{105}{}{Dr. Jing kÃ¼ldÃ¶tt. Egy meger?sÃ­tett er?pÃ¡ncÃ©lt szeretne.}
+{106}{}{Meg tud tuningolni egy er?pÃ¡ncÃ©lt?}
 {107}{}{Ki vagy te?}
-{108}{}{Mi a munkád?}
-{109}{}{Semmit, kösz.}
-{110}{}{A mindenit! Napról-napra egyre több el?embert lát az ember! El innen! El innen!}
-{111}{}{Aú.}
-{112}{}{Igen, csinálok ilyesmit. De mégis mit akar adni érte cserébe?}
-{113}{}{Dr. Jing valószín?leg hajlandó lesz üzemanyagot adni az ?rhajóhoz.}
+{108}{}{Mi a munkÃ¡d?}
+{109}{}{Semmit, kÃ¶sz.}
+{110}{}{A mindenit! NaprÃ³l-napra egyre tÃ¶bb el?embert lÃ¡t az ember! El innen! El innen!}
+{111}{}{AÃº.}
+{112}{}{Igen, csinÃ¡lok ilyesmit. De mÃ©gis mit akar adni Ã©rte cserÃ©be?}
+{113}{}{Dr. Jing valÃ³szÃ­n?leg hajlandÃ³ lesz Ã¼zemanyagot adni az ?rhajÃ³hoz.}
 {114}{}{Megfizetem.}
-{115}{}{Életben hagyom.}
+{115}{}{Ã‰letben hagyom.}
 {116}{}{Semmi. Hagyjuk!}
 {117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
-{118}{}{Nem. Kérdéseket akarok feltenni.}
+{118}{}{Nem. KÃ©rdÃ©seket akarok feltenni.}
 {119}{}{Aha, persze.}
-{120}{}{Új technológiák fejlesztésén dolgozom és azon vagyok, hogy néha leessen ez-az a kultistáktól, ha érti, mire gondolok.}
-{121}{}{Szóval maga nem Hubologista?}
-{122}{}{Fogom. Volna viszont még néhány kérdésem.}
+{120}{}{Ãšj technolÃ³giÃ¡k fejlesztÃ©sÃ©n dolgozom Ã©s azon vagyok, hogy nÃ©ha leessen ez-az a kultistÃ¡ktÃ³l, ha Ã©rti, mire gondolok.}
+{121}{}{SzÃ³val maga nem Hubologista?}
+{122}{}{Fogom. Volna viszont mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
 {123}{}{Nem. Mire gondol?}
-{124}{}{Miféle új technológiákat fejlesztett eddig?}
-{125}{}{Határozott beszéd. Viszlát!}
+{124}{}{MifÃ©le Ãºj technolÃ³giÃ¡kat fejlesztett eddig?}
+{125}{}{HatÃ¡rozott beszÃ©d. ViszlÃ¡t!}
 {126}{}{Well... I *guess* that'll have to do. It's a deal. Do you have the armor to be hardened on you?}
 {127}{}{Igen.}
 {128}{}{Nem.}
-{129}{}{Nagyszer?! Tízezer dollárt kérek érte, alku nincs. Új eszközöket kell beszereznem.}
-{130}{}{Tízezer dollár? Ez égbekiáltó! Nincs nálam ekkora összeg!}
-{131}{}{Rendben. Itt van a pénz.}
-{132}{}{Kés?bb visszajövök.}
-{133}{}{::Jót derül ezen:: Meg akar érte fenyegetni?}
-{134}{}{Igen. Csinálja, különben meghal!}
-{135}{}{Nem, csak poénkodtam.}
-{136}{}{Hagyja itt kábé egy napra, és megcsinálom. Miel?tt elmenne, tudatnom kell, hogy nagyjából két páncélra való nyersanyagom van.}
-{137}{}{Persze-persze. Volna még néhány kérdésem.}
-{138}{}{Akkor majd visszajövök a páncélért.}
-{139}{}{Ha nincs magánál az alapanyag, nem tudom megcsinálni a varázslatot. Jöjjön vissza, ha változik a helyzet!}
-{140}{}{Volna még néhány kérdésem.}
-{141}{}{Viszlát!}
-{142}{}{::Vállat von:: Akarja ezt a páncélt vagy sem? Potom tízezer pénz.}
-{143}{}{Kés?bb visszajövök.}
-{144}{}{Akarom. Itt az összeg.}
-{145}{}{Ez rablás! Szó sem lehet róla!}
-{146}{}{::Miután a szemedbe nézett, rájön, hogy komolyan gondolod:: Itt van magánál a páncél?}
+{129}{}{Nagyszer?! TÃ­zezer dollÃ¡rt kÃ©rek Ã©rte, alku nincs. Ãšj eszkÃ¶zÃ¶ket kell beszereznem.}
+{130}{}{TÃ­zezer dollÃ¡r? Ez Ã©gbekiÃ¡ltÃ³! Nincs nÃ¡lam ekkora Ã¶sszeg!}
+{131}{}{Rendben. Itt van a pÃ©nz.}
+{132}{}{KÃ©s?bb visszajÃ¶vÃ¶k.}
+{133}{}{::JÃ³t derÃ¼l ezen:: Meg akar Ã©rte fenyegetni?}
+{134}{}{Igen. CsinÃ¡lja, kÃ¼lÃ¶nben meghal!}
+{135}{}{Nem, csak poÃ©nkodtam.}
+{136}{}{Hagyja itt kÃ¡bÃ© egy napra, Ã©s megcsinÃ¡lom. Miel?tt elmenne, tudatnom kell, hogy nagyjÃ¡bÃ³l kÃ©t pÃ¡ncÃ©lra valÃ³ nyersanyagom van.}
+{137}{}{Persze-persze. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{138}{}{Akkor majd visszajÃ¶vÃ¶k a pÃ¡ncÃ©lÃ©rt.}
+{139}{}{Ha nincs magÃ¡nÃ¡l az alapanyag, nem tudom megcsinÃ¡lni a varÃ¡zslatot. JÃ¶jjÃ¶n vissza, ha vÃ¡ltozik a helyzet!}
+{140}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{141}{}{ViszlÃ¡t!}
+{142}{}{::VÃ¡llat von:: Akarja ezt a pÃ¡ncÃ©lt vagy sem? Potom tÃ­zezer pÃ©nz.}
+{143}{}{KÃ©s?bb visszajÃ¶vÃ¶k.}
+{144}{}{Akarom. Itt az Ã¶sszeg.}
+{145}{}{Ez rablÃ¡s! SzÃ³ sem lehet rÃ³la!}
+{146}{}{::MiutÃ¡n a szemedbe nÃ©zett, rÃ¡jÃ¶n, hogy komolyan gondolod:: Itt van magÃ¡nÃ¡l a pÃ¡ncÃ©l?}
 {147}{}{Igen.}
 {148}{}{Nem.}
-{149}{}{::Miután a szemedbe nézett, rájön, hogy csak blöffölsz:: Próbálkozz csak, tökmag! Az ?rök mindjárt elhúzzák a nótádat, és sosem tudod meg, hogy kell meger?síteni a páncélodat.}
+{149}{}{::MiutÃ¡n a szemedbe nÃ©zett, rÃ¡jÃ¶n, hogy csak blÃ¶ffÃ¶lsz:: PrÃ³bÃ¡lkozz csak, tÃ¶kmag! Az ?rÃ¶k mindjÃ¡rt elhÃºzzÃ¡k a nÃ³tÃ¡dat, Ã©s sosem tudod meg, hogy kell meger?sÃ­teni a pÃ¡ncÃ©lodat.}
 {150}{}{Fine. Die, pencil-neck.}
-{151}{}{Francba! Maga aztán szépen kihozott a sodromból!}
-{152}{}{Maga blöfföl! Majd mindjárt megnézzük, mit szólnak ehhez az ?rök.}
-{153}{}{Fenébe!}
-{154}{}{Ezek a srácok azt sem tudják a tudományról, hogy eszik-e vagy isszák. Csinos hölgyekért és jó zsíros fizetésért cserébe én végzem nekik a piszkos munkát.}
-{155}{}{Még fel akartam tenni néhány kérést.}
-{156}{}{Ez egyáltalán nem rossz. Viszlát!}
-{157}{}{Hát lássuk csak... építtettem egy nukleáris reaktort az ?rhajó számára. Kifejlesztettem az egyedülállónak számító er?páncél-meger?sít? eljárást. Ezenkívül én javítom az elromlott berendezéseket.}
-{158}{}{Értem. Nos, még kérdeznék, ha nem gond.}
-{159}{}{Hmm. Mennem kell. Üdv!}
-{160}{}{Hé, nincs énnekem semmi bajom veled. Csak ne bánts, kérlek!}
-{161}{}{Feltennék néhány kérdést.}
-{162}{}{A páncélomért jöttem.}
-{163}{}{Túl kés?.}
-{164}{}{Viszlát!}
-{165}{}{Egyel?re nem készült el. Még kell egy kis id?!}
-{166}{}{Remek. Még kérdeznék, ha nem gond.}
-{167}{}{Remek. Kés?bb visszajövök.}
-{168}{}{Elkészült. Itt van, tessék!}
-{169}{}{Köszönöm. Viszont volna néhány kérdésem.}
-{170}{}{Köszi.}
-{171}{}{Köszönöm. Most már akár meg is halhat!}
-{172}{}{Kifogytam a szükséges vegyianyagokból. Sajnálom.}
-{173}{}{Akkor megválaszolhatná néhány kérdésemet.}
-{174}{}{Ezek után akár meg is halhat!}
-{175}{}{Ó, a fenébe! Felesleges maradnom.}
-{176}{}{Naszóval, hol van az üzemanyagom?! Megígérte, hogy ellát üzemanyaggal, maga seggfej!}
-{177}{}{Megkapja, megkapja! El?bb azonban válaszoljon néhány kérdésemre!}
-{178}{}{Hát igen, átvertem...}
-{179}{}{Többet ugyan nem fog! ?RSÉG!}
+{151}{}{Francba! Maga aztÃ¡n szÃ©pen kihozott a sodrombÃ³l!}
+{152}{}{Maga blÃ¶ffÃ¶l! Majd mindjÃ¡rt megnÃ©zzÃ¼k, mit szÃ³lnak ehhez az ?rÃ¶k.}
+{153}{}{FenÃ©be!}
+{154}{}{Ezek a srÃ¡cok azt sem tudjÃ¡k a tudomÃ¡nyrÃ³l, hogy eszik-e vagy isszÃ¡k. Csinos hÃ¶lgyekÃ©rt Ã©s jÃ³ zsÃ­ros fizetÃ©sÃ©rt cserÃ©be Ã©n vÃ©gzem nekik a piszkos munkÃ¡t.}
+{155}{}{MÃ©g fel akartam tenni nÃ©hÃ¡ny kÃ©rÃ©st.}
+{156}{}{Ez egyÃ¡ltalÃ¡n nem rossz. ViszlÃ¡t!}
+{157}{}{HÃ¡t lÃ¡ssuk csak... Ã©pÃ­ttettem egy nukleÃ¡ris reaktort az ?rhajÃ³ szÃ¡mÃ¡ra. Kifejlesztettem az egyedÃ¼lÃ¡llÃ³nak szÃ¡mÃ­tÃ³ er?pÃ¡ncÃ©l-meger?sÃ­t? eljÃ¡rÃ¡st. EzenkÃ­vÃ¼l Ã©n javÃ­tom az elromlott berendezÃ©seket.}
+{158}{}{Ã‰rtem. Nos, mÃ©g kÃ©rdeznÃ©k, ha nem gond.}
+{159}{}{Hmm. Mennem kell. Ãœdv!}
+{160}{}{HÃ©, nincs Ã©nnekem semmi bajom veled. Csak ne bÃ¡nts, kÃ©rlek!}
+{161}{}{FeltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{162}{}{A pÃ¡ncÃ©lomÃ©rt jÃ¶ttem.}
+{163}{}{TÃºl kÃ©s?.}
+{164}{}{ViszlÃ¡t!}
+{165}{}{Egyel?re nem kÃ©szÃ¼lt el. MÃ©g kell egy kis id?!}
+{166}{}{Remek. MÃ©g kÃ©rdeznÃ©k, ha nem gond.}
+{167}{}{Remek. KÃ©s?bb visszajÃ¶vÃ¶k.}
+{168}{}{ElkÃ©szÃ¼lt. Itt van, tessÃ©k!}
+{169}{}{KÃ¶szÃ¶nÃ¶m. Viszont volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{170}{}{KÃ¶szi.}
+{171}{}{KÃ¶szÃ¶nÃ¶m. Most mÃ¡r akÃ¡r meg is halhat!}
+{172}{}{Kifogytam a szÃ¼ksÃ©ges vegyianyagokbÃ³l. SajnÃ¡lom.}
+{173}{}{Akkor megvÃ¡laszolhatnÃ¡ nÃ©hÃ¡ny kÃ©rdÃ©semet.}
+{174}{}{Ezek utÃ¡n akÃ¡r meg is halhat!}
+{175}{}{Ã“, a fenÃ©be! Felesleges maradnom.}
+{176}{}{NaszÃ³val, hol van az Ã¼zemanyagom?! MegÃ­gÃ©rte, hogy ellÃ¡t Ã¼zemanyaggal, maga seggfej!}
+{177}{}{Megkapja, megkapja! El?bb azonban vÃ¡laszoljon nÃ©hÃ¡ny kÃ©rdÃ©semre!}
+{178}{}{HÃ¡t igen, Ã¡tvertem...}
+{179}{}{TÃ¶bbet ugyan nem fog! ?RSÃ‰G!}
 {180}{}{Meghalsz, seggarc!}
-{181}{}{Picsába... húzok innen!}
-{182}{}{Oké, most tehát mit akar?}
-{183}{}{Ezúttal hajlandó kifizetni a tíz rongyot?}
-{184}{}{Hagyja itt egy napra, és megcsinálom. Arra azért felhívnám a figyelmét, hogy ennél többet nem tudok gyártani.}
-{185}{}{Hoztam egy másik meger?sítend? öltözéket.}
+{181}{}{PicsÃ¡ba... hÃºzok innen!}
+{182}{}{OkÃ©, most tehÃ¡t mit akar?}
+{183}{}{EzÃºttal hajlandÃ³ kifizetni a tÃ­z rongyot?}
+{184}{}{Hagyja itt egy napra, Ã©s megcsinÃ¡lom. Arra azÃ©rt felhÃ­vnÃ¡m a figyelmÃ©t, hogy ennÃ©l tÃ¶bbet nem tudok gyÃ¡rtani.}
+{185}{}{Hoztam egy mÃ¡sik meger?sÃ­tend? Ã¶ltÃ¶zÃ©ket.}

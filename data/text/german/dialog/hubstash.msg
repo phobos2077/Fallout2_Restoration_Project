@@ -1,1 +1,1 @@
-{100}{}{Du betrittst eine abgelegenes Gebiet, das mit toten Pflanzen übersäht ist. Vor dir befindet sich ein großer, gut geschützter Bunker.}
+{100}{}{Du betrittst eine abgelegenes Gebiet, das mit toten Pflanzen Ã¼bersÃ¤ht ist. Vor dir befindet sich ein groÃŸer, gut geschÃ¼tzter Bunker.}

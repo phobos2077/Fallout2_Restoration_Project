@@ -1,8 +1,8 @@
-{100}{}{Você vê Martin.}
-{101}{}{Você vê um gago que fica piscando os olhos rapidamente.}
-{102}{}{Você vê Martin.}
-{103}{}{Você vê um gago que fica piscando os olhos rapidamente.}
-{104}{}{Obrigado por s-sa-salvar a gente. Fiquei sabendo da notícia a-a-aqui em baixo.}
+{100}{}{VocÃª vÃª Martin.}
+{101}{}{VocÃª vÃª um gago que fica piscando os olhos rapidamente.}
+{102}{}{VocÃª vÃª Martin.}
+{103}{}{VocÃª vÃª um gago que fica piscando os olhos rapidamente.}
+{104}{}{Obrigado por s-sa-salvar a gente. Fiquei sabendo da notÃ­cia a-a-aqui em baixo.}
 {105}{}{S-so-socorro! Intruso!}
 {106}{}{Um m-mu-mutante. Socorro!}
 {107}{}{Um g-gho-ghoul! Socorro!}
@@ -18,72 +18,72 @@
 {117}{}{2 Segundos}
 {118}{}{"...then what will yooou dooooo?"}
 {119}{}{2 Segundos}
-{120}{}{::Simula aplausos e o gritos da multidão::}
+{120}{}{::Simula aplausos e o gritos da multidÃ£o::}
 {121}{}{2 Segundos}
-{122}{}{O-ob-obrigado, o-ob-obrigado... v-vo-vocês são uma ótima platéia.}
+{122}{}{O-ob-obrigado, o-ob-obrigado... v-vo-vocÃªs sÃ£o uma Ã³tima platÃ©ia.}
 {123}{}{2 Segundos}
 {124}{}{Um b-bis? T-tu-tudo bem!}
 {125}{}{*Snfff*}
 {126}{}{O q-?! Ahhh!}
 {127}{}{Aaaaaah!}
 {128}{}{Opa, calma!}
-{129}{}{Qual é o seu problema?! Fica calmo!}
-{130}{}{V-vo-você quase me m-matou de s-su-susto.}
+{129}{}{Qual Ã© o seu problema?! Fica calmo!}
+{130}{}{V-vo-vocÃª quase me m-matou de s-su-susto.}
 {131}{}{Aaaaah! Aaaaaaaaaaah!}
-{132}{}{Desculpe, não quis te assustar.}
-{133}{}{S-s-SE você prestasse atenção no que estivesse acontecendo a sua volta, talvez não tivesse dado um ataque do coração em NÓS dois.}
+{132}{}{Desculpe, nÃ£o quis te assustar.}
+{133}{}{S-s-SE vocÃª prestasse atenÃ§Ã£o no que estivesse acontecendo a sua volta, talvez nÃ£o tivesse dado um ataque do coraÃ§Ã£o em NÃ“S dois.}
 {134}{}{T-tu-tudo bem.}
 {135}{}{D-di-discupa.}
-{136}{}{Équi n-num vem m-muta gente'quinu Vault.}
-{137}{}{(Tudo bem. É que não vem muita gente aqui no Vault.)}
-{138}{}{(Desculpe. É que não vem muita gente aqui no Vault.)}
-{139}{}{O que você faz aqui?}
-{140}{}{Você sabe me dizer onde fica o Computador Central do Vault?}
-{141}{}{Ah, legal falar com você. Tchau.}
-{142}{}{Fica bem a-ali.... é o c-ca-caputadô f-f-flante.}
-{143}{}{(Fica bem ali. É o computador falante.)}
-{144}{}{O que você faz aqui?}
+{136}{}{Ã‰qui n-num vem m-muta gente'quinu Vault.}
+{137}{}{(Tudo bem. Ã‰ que nÃ£o vem muita gente aqui no Vault.)}
+{138}{}{(Desculpe. Ã‰ que nÃ£o vem muita gente aqui no Vault.)}
+{139}{}{O que vocÃª faz aqui?}
+{140}{}{VocÃª sabe me dizer onde fica o Computador Central do Vault?}
+{141}{}{Ah, legal falar com vocÃª. Tchau.}
+{142}{}{Fica bem a-ali.... Ã© o c-ca-caputadÃ´ f-f-flante.}
+{143}{}{(Fica bem ali. Ã‰ o computador falante.)}
+{144}{}{O que vocÃª faz aqui?}
 {145}{}{Obrigado. Adeus.}
-{146}{}{Só fico de o-oio nas cosa a-ar-amarzenada aqui. T-ter certeza que tudas as portas estão t-t-tanrcadas.}
-{147}{}{(Só fico de olho nas coisas armazenadas aqui. Just keep an eye on things in storage down here. Make sure all the doors stay locked.)}
-{148}{}{Você tem uma chave?}
-{149}{}{O que vocês armazenam aqui?}
-{150}{}{Te vejo por aí. Tchau.}
-{151}{}{Hã-hã. Mas'numporta, purque a m-maroia das portas tão e-empradas mesmo.}
-{152}{}{(Hã-hão. Mas não importa, porque a maioria das portas está emperrada mesmo.}
-{153}{}{O que vocês armazenam aqui?}
-{154}{}{Te vejo por aí. Tchau.}
-{155}{}{P-peças reservas... s-suprentos... e m-minéro.}
-{156}{}{(Peças reservas, suprimentos e minério.)}
-{157}{}{Minério?}
-{158}{}{Ham. Valeu pela informação.}
-{159}{}{M-minéro de R-ri-Ridin... n-não m-mu-muto, agora.}
-{160}{}{(Minério de Redding. Não muito, agora.)}
-{161}{}{Pouco minério de Redding? Por quê?}
-{162}{}{Ham. Valeu pela informação.}
-{163}{}{N-n-num sei. Mic-Clure tá muito p-p-peorcupado c'isso.}
-{164}{}{(Não sei. McClure está muito preocupado com isso.)}
-{165}{}{Você sabe me dizer onde fica o Computador Central?}
-{166}{}{Talvez eu fale com ele, então. Valeu.}
-{167}{}{O-olá de novo. V-você p-percisa de alguma cosa?}
-{168}{}{(Olá de novo. Você precisa de alguma coisa?)}
+{146}{}{SÃ³ fico de o-oio nas cosa a-ar-amarzenada aqui. T-ter certeza que tudas as portas estÃ£o t-t-tanrcadas.}
+{147}{}{(SÃ³ fico de olho nas coisas armazenadas aqui. Just keep an eye on things in storage down here. Make sure all the doors stay locked.)}
+{148}{}{VocÃª tem uma chave?}
+{149}{}{O que vocÃªs armazenam aqui?}
+{150}{}{Te vejo por aÃ­. Tchau.}
+{151}{}{HÃ£-hÃ£. Mas'numporta, purque a m-maroia das portas tÃ£o e-empradas mesmo.}
+{152}{}{(HÃ£-hÃ£o. Mas nÃ£o importa, porque a maioria das portas estÃ¡ emperrada mesmo.}
+{153}{}{O que vocÃªs armazenam aqui?}
+{154}{}{Te vejo por aÃ­. Tchau.}
+{155}{}{P-peÃ§as reservas... s-suprentos... e m-minÃ©ro.}
+{156}{}{(PeÃ§as reservas, suprimentos e minÃ©rio.)}
+{157}{}{MinÃ©rio?}
+{158}{}{Ham. Valeu pela informaÃ§Ã£o.}
+{159}{}{M-minÃ©ro de R-ri-Ridin... n-nÃ£o m-mu-muto, agora.}
+{160}{}{(MinÃ©rio de Redding. NÃ£o muito, agora.)}
+{161}{}{Pouco minÃ©rio de Redding? Por quÃª?}
+{162}{}{Ham. Valeu pela informaÃ§Ã£o.}
+{163}{}{N-n-num sei. Mic-Clure tÃ¡ muito p-p-peorcupado c'isso.}
+{164}{}{(NÃ£o sei. McClure estÃ¡ muito preocupado com isso.)}
+{165}{}{VocÃª sabe me dizer onde fica o Computador Central?}
+{166}{}{Talvez eu fale com ele, entÃ£o. Valeu.}
+{167}{}{O-olÃ¡ de novo. V-vocÃª p-percisa de alguma cosa?}
+{168}{}{(OlÃ¡ de novo. VocÃª precisa de alguma coisa?)}
 {169}{}{Geeechk}
-{170}{}{Você poderia parar com essa música infernal?! Está me enlouquecendo.}
-{171}{}{Você tem ótima voz pra música. Deveria continuar praticando.}
-{172}{}{O que você faz aqui mesmo?}
-{173}{}{Deixa pra lá. Desculpe incomodá-lo.}
-{174}{}{O-o-orbigrado! É muito g-gentil da sua parte.}
-{175}{}{O que você faz aqui mesmo?}
-{176}{}{Só achei que deveria saber. Se cuida.}
+{170}{}{VocÃª poderia parar com essa mÃºsica infernal?! EstÃ¡ me enlouquecendo.}
+{171}{}{VocÃª tem Ã³tima voz pra mÃºsica. Deveria continuar praticando.}
+{172}{}{O que vocÃª faz aqui mesmo?}
+{173}{}{Deixa pra lÃ¡. Desculpe incomodÃ¡-lo.}
+{174}{}{O-o-orbigrado! Ã‰ muito g-gentil da sua parte.}
+{175}{}{O que vocÃª faz aqui mesmo?}
+{176}{}{SÃ³ achei que deveria saber. Se cuida.}
 {177}{}{D-d-descupa. Eu v-vo'prar.}
 {178}{}{(Desculpa. Eu vou parar.)}
-{179}{}{Agora... o que você esta fazendo aqui?}
-{180}{}{Bom. Faça um favor ao mundo e fique quieto.}
-{181}{}{V-v-v-v-você tem que f-f-ficá'quieto! Shhhh!}
+{179}{}{Agora... o que vocÃª esta fazendo aqui?}
+{180}{}{Bom. FaÃ§a um favor ao mundo e fique quieto.}
+{181}{}{V-v-v-v-vocÃª tem que f-f-ficÃ¡'quieto! Shhhh!}
 {182}{}{Desculpaaaaa}
-{183}{}{O-o-o q-q-que v-você tá fazendo aqui em baixo?!}
+{183}{}{O-o-o q-q-que v-vocÃª tÃ¡ fazendo aqui em baixo?!}
 {184}{}{GEK}
-{185}{}{G-g-GECK? Você p-p-pode p-procurar no c-caputador central... a c-caixa f-falante.}
+{185}{}{G-g-GECK? VocÃª p-p-pode p-procurar no c-caputador central... a c-caixa f-falante.}
 {186}{}{Ceeerto. Valeuuu.}
 {187}{}{Z-z-z-Zzzzzzzzz}
 {188}{}{F-f-f-fique l-longe dessa p-po-porta!}

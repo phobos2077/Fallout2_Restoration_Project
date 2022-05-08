@@ -1,35 +1,35 @@
-{100}{}{Ez egy fehér ruhás Shi.}
+{100}{}{Ez egy fehÃ©r ruhÃ¡s Shi.}
 {101}{}{You see a Shi lab tech.}
-{102}{}{Ez egy fehér ruhás Shi a laborjában.}
-{103}{}{Barátom... Wong egy valóságos rabszolga-hajcsár.}
-{104}{}{Dolgozni, dolgozni, dolgozni. Csak ezért tartanak minket.}
-{105}{}{Ezzel a kísérlettel megváltoztatjuk a pusztaságot!}
-{106}{}{Vigyázz csak, pusztaság! Valami készül a számodra!}
-{107}{}{Újra látni akarom a napot.}
-{108}{}{Keverd össze ezt, keverd össze azt... néha nagyon untat.}
-{109}{}{Láttad a nagy kísérlet legújabb eredményeit? Nagyon ígéretes!}
-{110}{}{Bocsánat.}
-{116}{}{Ha! Tanítsátok meg azokat a kémeket, hogy is kell behatolni!}
-{117}{}{A hekkerek többet NEM FOGNAK próbálkozni.}
-{118}{}{Ha a tudományunkkal nem tudjuk legy?zni ?ket, majd gy?zünk a harcosainkkal.}
-{119}{}{Lo Pan és a Sárkány együtt... eléggé aggasztó ötlet.}
-{120}{}{Az a hekker nem tartott sokáig.}
-{121}{}{Dolgozni, dolgozni, dolgozni. Csak ezért tartanak minket.}
-{122}{}{Megváltoztatjuk a pusztaságot!}
-{123}{}{Vigyázz csak, pusztaság!}
-{124}{}{Újra látni akarom a napot.}
-{127}{}{Sheng Ming egy hitvány hulladék.}
-{128}{}{Még egy-két nap és kész leszünk.}
-{129}{}{Az Uralkodó dics?ségére! Bizony.}
-{130}{}{Hallottad? Valaki feltörte a számítógépeinket!}
+{102}{}{Ez egy fehÃ©r ruhÃ¡s Shi a laborjÃ¡ban.}
+{103}{}{BarÃ¡tom... Wong egy valÃ³sÃ¡gos rabszolga-hajcsÃ¡r.}
+{104}{}{Dolgozni, dolgozni, dolgozni. Csak ezÃ©rt tartanak minket.}
+{105}{}{Ezzel a kÃ­sÃ©rlettel megvÃ¡ltoztatjuk a pusztasÃ¡got!}
+{106}{}{VigyÃ¡zz csak, pusztasÃ¡g! Valami kÃ©szÃ¼l a szÃ¡modra!}
+{107}{}{Ãšjra lÃ¡tni akarom a napot.}
+{108}{}{Keverd Ã¶ssze ezt, keverd Ã¶ssze azt... nÃ©ha nagyon untat.}
+{109}{}{LÃ¡ttad a nagy kÃ­sÃ©rlet legÃºjabb eredmÃ©nyeit? Nagyon Ã­gÃ©retes!}
+{110}{}{BocsÃ¡nat.}
+{116}{}{Ha! TanÃ­tsÃ¡tok meg azokat a kÃ©meket, hogy is kell behatolni!}
+{117}{}{A hekkerek tÃ¶bbet NEM FOGNAK prÃ³bÃ¡lkozni.}
+{118}{}{Ha a tudomÃ¡nyunkkal nem tudjuk legy?zni ?ket, majd gy?zÃ¼nk a harcosainkkal.}
+{119}{}{Lo Pan Ã©s a SÃ¡rkÃ¡ny egyÃ¼tt... elÃ©ggÃ© aggasztÃ³ Ã¶tlet.}
+{120}{}{Az a hekker nem tartott sokÃ¡ig.}
+{121}{}{Dolgozni, dolgozni, dolgozni. Csak ezÃ©rt tartanak minket.}
+{122}{}{MegvÃ¡ltoztatjuk a pusztasÃ¡got!}
+{123}{}{VigyÃ¡zz csak, pusztasÃ¡g!}
+{124}{}{Ãšjra lÃ¡tni akarom a napot.}
+{127}{}{Sheng Ming egy hitvÃ¡ny hulladÃ©k.}
+{128}{}{MÃ©g egy-kÃ©t nap Ã©s kÃ©sz leszÃ¼nk.}
+{129}{}{Az UralkodÃ³ dics?sÃ©gÃ©re! Bizony.}
+{130}{}{Hallottad? Valaki feltÃ¶rte a szÃ¡mÃ­tÃ³gÃ©peinket!}
 {131}{}{Fogadjunk, hogy egy Hubologista volt...}
-{132}{}{Rá kéne ereszteni egy vírust a Hubologistákra.}
+{132}{}{RÃ¡ kÃ©ne ereszteni egy vÃ­rust a HubologistÃ¡kra.}
 {133}{}{Meg kell bosszulni a hekkereket!}
-{134}{}{Egyszer csak rájövünk, ki tört be hozzánk.}
-{135}{}{Dolgozni, dolgozni, dolgozni. Csak ezért tartanak minket.}
-{144}{}{Mi jó munkát végzünk itt! Ne tedd tönkre!}
-{145}{}{Mi megpróbáljuk megmenteni a pusztaságot, te idióta!}
-{146}{}{Ne! Ne a tudósokat!}
-{147}{}{Segítség! ?rség!}
-{148}{}{Kérlek! Hát nem érted?!}
-{149}{}{Ne! A kísérletek!...}
+{134}{}{Egyszer csak rÃ¡jÃ¶vÃ¼nk, ki tÃ¶rt be hozzÃ¡nk.}
+{135}{}{Dolgozni, dolgozni, dolgozni. Csak ezÃ©rt tartanak minket.}
+{144}{}{Mi jÃ³ munkÃ¡t vÃ©gzÃ¼nk itt! Ne tedd tÃ¶nkre!}
+{145}{}{Mi megprÃ³bÃ¡ljuk megmenteni a pusztasÃ¡got, te idiÃ³ta!}
+{146}{}{Ne! Ne a tudÃ³sokat!}
+{147}{}{SegÃ­tsÃ©g! ?rsÃ©g!}
+{148}{}{KÃ©rlek! HÃ¡t nem Ã©rted?!}
+{149}{}{Ne! A kÃ­sÃ©rletek!...}

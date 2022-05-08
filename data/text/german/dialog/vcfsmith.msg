@@ -1,8 +1,8 @@
-{100}{}{Du siehst eine müde wirkende Frau.}
+{100}{}{Du siehst eine mÃ¼de wirkende Frau.}
 {101}{}{Du siehst Mrs. Smith. }
 {102}{}{Du willst sicher mit meinem Mann sprechen.}
-{103}{}{Mein Mann und ich möchten dir ganz herzlich danken.}
-{104}{}{Vielen, vielen Dank...Mein Mann möchte dir was geben, für all deine Mühen.}
-{105}{}{Wir brauchen den Pflug so bald wie möglich...}
+{103}{}{Mein Mann und ich mÃ¶chten dir ganz herzlich danken.}
+{104}{}{Vielen, vielen Dank...Mein Mann mÃ¶chte dir was geben, fÃ¼r all deine MÃ¼hen.}
+{105}{}{Wir brauchen den Pflug so bald wie mÃ¶glich...}
 {106}{}{Mach, dass du wegkommst, bevor ich die Wache rufe!}
-{107}{}{Du siehst aus, als ob du ein netter Kerl wärst. Würdest du uns einen Gefallen tun?}
+{107}{}{Du siehst aus, als ob du ein netter Kerl wÃ¤rst. WÃ¼rdest du uns einen Gefallen tun?}

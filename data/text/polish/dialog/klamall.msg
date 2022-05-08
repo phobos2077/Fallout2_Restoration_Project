@@ -1,1 +1,1 @@
-{100}{}{Jesteœ w Osiedlu Traperów.}
+{100}{}{JesteÅ› w Osiedlu TraperÃ³w.}

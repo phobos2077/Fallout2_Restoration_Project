@@ -1,129 +1,129 @@
-{100}{}{Ves al dueño de 'El Agujero'.}
-{101}{}{Ves a Frankie, el dueño de 'El Agujero'.}
-{150}{}{Este parece ser el dueño de este sitio.}
+{100}{}{Ves al dueÃ±o de 'El Agujero'.}
+{101}{}{Ves a Frankie, el dueÃ±o de 'El Agujero'.}
+{150}{}{Este parece ser el dueÃ±o de este sitio.}
 {151}{}{Este es Frankie. Es quien regenta este garito.}
 {152}{}{[HABLAR]}
-{153}{}{Me llamo Frankie y estás en 'El Agujero' ¡El jodido mejor bar en cien millas! Todo el mundo se arrastra hasta 'El Agujero' cuando es hora de pasarlo bien. Ahora no causes muchos problemas, ¿me oyes?}
+{153}{}{Me llamo Frankie y estÃ¡s en 'El Agujero' Â¡El jodido mejor bar en cien millas! Todo el mundo se arrastra hasta 'El Agujero' cuando es hora de pasarlo bien. Ahora no causes muchos problemas, Â¿me oyes?}
 {154}{}{Te oigo.}
-{155}{}{Sí, vale. Lo que sea.}
+{155}{}{SÃ­, vale. Lo que sea.}
 {156}{}{Ya veo porque a este lugar le llaman 'El Agujero'.}
-{157}{}{¿Eh?}
-{158}{}{¿Qué deseas?}
+{157}{}{Â¿Eh?}
+{158}{}{Â¿QuÃ© deseas?}
 {159}{}{Whisky.}
 {160}{}{Mujeres.}
 {161}{}{Hombres.}
-{162}{}{Información.}
-{163}{}{Nada. Adiós.}
-{164}{}{Muuu iiigñe.}
-{165}{}{¡Eh! ¡Será mejor que cierres esa bocaza!}
-{166}{}{¿O qué?}
+{162}{}{InformaciÃ³n.}
+{163}{}{Nada. AdiÃ³s.}
+{164}{}{Muuu iiigÃ±e.}
+{165}{}{Â¡Eh! Â¡SerÃ¡ mejor que cierres esa bocaza!}
+{166}{}{Â¿O quÃ©?}
 {167}{}{Haz tu trabajo y ponme una copa.}
 {168}{}{Mejor me largo.}
 {169}{}{El whisky vale }
 {170}{}{ del ala por trago.}
-{171}{}{Aquí está tu dinero.}
-{172}{}{¡Ni de coña! ¡Eso es muy caro!}
-{173}{}{¿Por qué tu whisky cuesta mucho más que el del local de Becky?}
+{171}{}{AquÃ­ estÃ¡ tu dinero.}
+{172}{}{Â¡Ni de coÃ±a! Â¡Eso es muy caro!}
+{173}{}{Â¿Por quÃ© tu whisky cuesta mucho mÃ¡s que el del local de Becky?}
 {174}{}{No, gracias.}
-{175}{}{¿Algo más?}
-{176}{}{Sí.}
+{175}{}{Â¿Algo mÃ¡s?}
+{176}{}{SÃ­.}
 {177}{}{No, gracias.}
-{178}{}{¡No tienes suficiente dinero! ¡Esto no es un local de beneficencia!}
+{178}{}{Â¡No tienes suficiente dinero! Â¡Esto no es un local de beneficencia!}
 {179}{}{Oh, lo siento, estoy sin fondos.}
-{180}{}{Volveré.}
-{181}{}{¿Qué quieres?}
+{180}{}{VolverÃ©.}
+{181}{}{Â¿QuÃ© quieres?}
 {182}{}{Whisky.}
 {183}{}{Nada. Ya me marcho.}
-{184}{}{¡Hehehehe!}
-{185}{}{¡Y no vuelvas!}
+{184}{}{Â¡Hehehehe!}
+{185}{}{Â¡Y no vuelvas!}
 {186}{}{[SALIR]}
-{187}{}{No quiero a gente como tú en mi local. ¡Fuera!}
-{188}{}{Está bien, ya me marcho.}
+{187}{}{No quiero a gente como tÃº en mi local. Â¡Fuera!}
+{188}{}{EstÃ¡ bien, ya me marcho.}
 {189}{}{Wah.}
-{190}{}{Esas familias de Nuevo Reno te cobran un riñón por su alcohol. ¡No sé cómo ella lo consigue!}
-{191}{}{Bueno, deberías intentar averiguarlo.}
-{192}{}{Yo podría descubrir como lo hace.}
-{193}{}{Sé cómo lo hace.}
-{194}{}{Creo que mejor iré a comprarle el whisky a ella.}
-{195}{}{Si descubres de dónde saca su alcohol, te pagaré 100 dólares.}
-{196}{}{Vale, lo haré.}
+{190}{}{Esas familias de Nuevo Reno te cobran un riÃ±Ã³n por su alcohol. Â¡No sÃ© cÃ³mo ella lo consigue!}
+{191}{}{Bueno, deberÃ­as intentar averiguarlo.}
+{192}{}{Yo podrÃ­a descubrir como lo hace.}
+{193}{}{SÃ© cÃ³mo lo hace.}
+{194}{}{Creo que mejor irÃ© a comprarle el whisky a ella.}
+{195}{}{Si descubres de dÃ³nde saca su alcohol, te pagarÃ© 100 dÃ³lares.}
+{196}{}{Vale, lo harÃ©.}
 {197}{}{No, no me interesa.}
-{198}{}{Así qué, ¿cómo lo hace Becky? ¿Cómo puede vender su alcohol tan barato?}
-{199}{}{Tiene una destilería.}
-{200}{}{Aún no lo sé. Volveré.}
-{201}{}{¿Qué? ¡Una destilería! Maldición. Eh, aquí están los 100 dólares, y te pagaré 500 si la destruyes. Puedes usar mi palanca, en el cuarto de ahí atrás. ¡Eso dará cuenta de su estúpida destilería!}
+{198}{}{AsÃ­ quÃ©, Â¿cÃ³mo lo hace Becky? Â¿CÃ³mo puede vender su alcohol tan barato?}
+{199}{}{Tiene una destilerÃ­a.}
+{200}{}{AÃºn no lo sÃ©. VolverÃ©.}
+{201}{}{Â¿QuÃ©? Â¡Una destilerÃ­a! MaldiciÃ³n. Eh, aquÃ­ estÃ¡n los 100 dÃ³lares, y te pagarÃ© 500 si la destruyes. Puedes usar mi palanca, en el cuarto de ahÃ­ atrÃ¡s. Â¡Eso darÃ¡ cuenta de su estÃºpida destilerÃ­a!}
 {202}{}{Ya lo he hecho.}
-{203}{}{Bien, la destruiré.}
-{204}{}{Ni de broma. Eso es demasiado. Te traje la información. Tú úsala como quieras.}
+{203}{}{Bien, la destruirÃ©.}
+{204}{}{Ni de broma. Eso es demasiado. Te traje la informaciÃ³n. TÃº Ãºsala como quieras.}
 {205}{}{No, tengo una idea mejor.}
-{206}{}{Así que, ¿ya has destruido la destilería? Como te dije, hazlo con mi palanca. Eso la hará pedazos enseguida.}
-{207}{}{Sí, lo he hecho.}
+{206}{}{AsÃ­ que, Â¿ya has destruido la destilerÃ­a? Como te dije, hazlo con mi palanca. Eso la harÃ¡ pedazos enseguida.}
+{207}{}{SÃ­, lo he hecho.}
 {208}{}{Tengo una idea mejor.}
-{209}{}{No. Te lo haré saber cuando este hecho.}
-{210}{}{Entonces aquí están los 500 dólares. Gracias.}
+{209}{}{No. Te lo harÃ© saber cuando este hecho.}
+{210}{}{Entonces aquÃ­ estÃ¡n los 500 dÃ³lares. Gracias.}
 {211}{}{Me alegra hacer negocios contigo.}
-{212}{}{Ya te imaginarás, Frankie, ella construirá otra.}
-{213}{}{Gracias, adiós.}
-{214}{}{¡Maldición! Bueno, pero mientras tanto no tendrá alcohol.}
-{215}{}{¿Por qué luchar, Frankie? Únete a ella.}
-{216}{}{Piensa. ¿Donde más puedes conseguir alcohol?}
-{217}{}{¿Qué quieres decir?}
-{218}{}{Cómprale el licor a ella. Es más barato que el de Nuevo Reno, y así ganarás más dinero.}
+{212}{}{Ya te imaginarÃ¡s, Frankie, ella construirÃ¡ otra.}
+{213}{}{Gracias, adiÃ³s.}
+{214}{}{Â¡MaldiciÃ³n! Bueno, pero mientras tanto no tendrÃ¡ alcohol.}
+{215}{}{Â¿Por quÃ© luchar, Frankie? Ãšnete a ella.}
+{216}{}{Piensa. Â¿Donde mÃ¡s puedes conseguir alcohol?}
+{217}{}{Â¿QuÃ© quieres decir?}
+{218}{}{CÃ³mprale el licor a ella. Es mÃ¡s barato que el de Nuevo Reno, y asÃ­ ganarÃ¡s mÃ¡s dinero.}
 {219}{}{No quiero hacer esto.}
 {220}{}{No importa.}
-{221}{}{Mira, sólo quiero que destruyas su destilería. ¿Lo vas a hacer?}
-{222}{}{De acuerdo, lo haré.}
-{223}{}{No, no lo haré. Adiós.}
-{224}{}{Quizás tengas razón. Hablaré con ella. Gracias.}
-{225}{}{Eh, ¿para qué están los amigos?}
-{226}{}{Adiós.}
-{227}{}{Información no tengo.}
-{228}{}{¿De verdad? ¿Ni siquiera por qué el alcohol de Becky es mucho más barato que el tuyo?}
-{229}{}{Pensaba que los camareros lo sabían todo.}
-{230}{}{Entonces estoy en el lugar equivocado. Adiós.}
-{231}{}{Ve a hablar con Sheila. Eh, Sheila, ¡tienes un cliente!}
-{232}{}{Espera, ¡no es eso lo que quería!}
-{233}{}{Gracias. Adiós.}
-{234}{}{Si, me lo figuro. Para ti debe ser un gran reto conseguir algún hombre. Busca en otro sitio, hermana. No estoy para hacer actos de caridad.}
-{235}{}{¡Vale! Otra cosa entonces.}
+{221}{}{Mira, sÃ³lo quiero que destruyas su destilerÃ­a. Â¿Lo vas a hacer?}
+{222}{}{De acuerdo, lo harÃ©.}
+{223}{}{No, no lo harÃ©. AdiÃ³s.}
+{224}{}{QuizÃ¡s tengas razÃ³n. HablarÃ© con ella. Gracias.}
+{225}{}{Eh, Â¿para quÃ© estÃ¡n los amigos?}
+{226}{}{AdiÃ³s.}
+{227}{}{InformaciÃ³n no tengo.}
+{228}{}{Â¿De verdad? Â¿Ni siquiera por quÃ© el alcohol de Becky es mucho mÃ¡s barato que el tuyo?}
+{229}{}{Pensaba que los camareros lo sabÃ­an todo.}
+{230}{}{Entonces estoy en el lugar equivocado. AdiÃ³s.}
+{231}{}{Ve a hablar con Sheila. Eh, Sheila, Â¡tienes un cliente!}
+{232}{}{Espera, Â¡no es eso lo que querÃ­a!}
+{233}{}{Gracias. AdiÃ³s.}
+{234}{}{Si, me lo figuro. Para ti debe ser un gran reto conseguir algÃºn hombre. Busca en otro sitio, hermana. No estoy para hacer actos de caridad.}
+{235}{}{Â¡Vale! Otra cosa entonces.}
 {236}{}{Maldito...}
-{237}{}{¡No tengo porque aguantar esto!}
-{238}{}{Tengo una habitación justo ahí. Tú y yo podríamos usarla.}
+{237}{}{Â¡No tengo porque aguantar esto!}
+{238}{}{Tengo una habitaciÃ³n justo ahÃ­. TÃº y yo podrÃ­amos usarla.}
 {239}{}{Vale.}
-{240}{}{No, ¡no quería decir eso!}
-{242}{}{¿Un hombre? Ni que tú lo fueras.}
+{240}{}{No, Â¡no querÃ­a decir eso!}
+{242}{}{Â¿Un hombre? Ni que tÃº lo fueras.}
 {243}{}{Lo hubiera intentado si supieras como satisfacer a una mujer.}
 {244}{}{Eres el mejor hombre que he tenido. De verdad. Lo digo en serio.}
 {245}{}{Odio comer y salir corriendo, pero...}
-{246}{}{Bien, nos veremos más tarde.}
-{247}{}{Adiós.}
-{248}{}{Si, bien, vale. Esta vez limpia lo que ensucies, ¿de acuerdo?}
-{249}{}{Eh, ¡mirad todos! Fijaos en Billy. ¡Ha pillado a una chica!}
-{250}{}{¿Necesitas una fregona?}
+{246}{}{Bien, nos veremos mÃ¡s tarde.}
+{247}{}{AdiÃ³s.}
+{248}{}{Si, bien, vale. Esta vez limpia lo que ensucies, Â¿de acuerdo?}
+{249}{}{Eh, Â¡mirad todos! Fijaos en Billy. Â¡Ha pillado a una chica!}
+{250}{}{Â¿Necesitas una fregona?}
 {251}{}{Te veo en cinco minutos.}
-{252}{}{Sheila! ¡Vigila el bar!}
-{253}{}{Eh, Billy, ¡largo de ahí!}
-{254}{}{Ahora, ¿dónde nos habíamos quedado?}
-{255}{}{¿Dónde estás, mujer?}
-{256}{}{¿Piensas venir aquí?}
+{252}{}{Sheila! Â¡Vigila el bar!}
+{253}{}{Eh, Billy, Â¡largo de ahÃ­!}
+{254}{}{Ahora, Â¿dÃ³nde nos habÃ­amos quedado?}
+{255}{}{Â¿DÃ³nde estÃ¡s, mujer?}
+{256}{}{Â¿Piensas venir aquÃ­?}
 {257}{}{Vamos, nena.}
-{258}{}{Sígueme.}
-{259}{}{Ninguna mujer me deja plantado. ¡Fuera de aquí!}
+{258}{}{SÃ­gueme.}
+{259}{}{Ninguna mujer me deja plantado. Â¡Fuera de aquÃ­!}
 {260}{}{Bien.}
-{261}{}{Lo olvidé, tenia otros asuntos que atender enseguida. Por favor, perdóname, cariño.}
-{262}{}{Decidí que después de todo no quería dormir con tu feo culo.}
-{263}{}{Por suerte para ti, soy un buen tipo. No vuelvas hacerme algo así nunca.}
-{264}{}{No lo haré, cariño, lo prometo.}
-{265}{}{¡Voy a darte una patada en el culo, mujer!}
-{266}{}{¡Nadie me habla así! ¡Muere!}
+{261}{}{Lo olvidÃ©, tenia otros asuntos que atender enseguida. Por favor, perdÃ³name, cariÃ±o.}
+{262}{}{DecidÃ­ que despuÃ©s de todo no querÃ­a dormir con tu feo culo.}
+{263}{}{Por suerte para ti, soy un buen tipo. No vuelvas hacerme algo asÃ­ nunca.}
+{264}{}{No lo harÃ©, cariÃ±o, lo prometo.}
+{265}{}{Â¡Voy a darte una patada en el culo, mujer!}
+{266}{}{Â¡Nadie me habla asÃ­! Â¡Muere!}
 {267}{}{Te he dado todas las oportunidades del mundo. Ahora vete.}
-{268}{}{¡No vas a entrar el cuarto trasero con esa basura!}
-{300}{}{Eh, no quise decir que te pagaría para que mataras a la puta. ¡Lárgate de aquí!}
-{350}{}{¡Guau! Joder. Ha sido increíble.}
+{268}{}{Â¡No vas a entrar el cuarto trasero con esa basura!}
+{300}{}{Eh, no quise decir que te pagarÃ­a para que mataras a la puta. Â¡LÃ¡rgate de aquÃ­!}
+{350}{}{Â¡Guau! Joder. Ha sido increÃ­ble.}
 {351}{}{Dios, eres muy buena, nena.}
-{352}{}{Gracias, ha sido divertido. Ahora lárgate.}
+{352}{}{Gracias, ha sido divertido. Ahora lÃ¡rgate.}
 {353}{}{Ha sido, eh... Da igual, vete.}
-{354}{}{Oh, jamás lo había pasado peor.}
-{400}{}{¿Sabes, nena? Puedes estar muy buena, pero tienes mucho que aprender.}
-{410}{}{Nena, tengo trabajo que hacer, ¿sabes? No estoy todo el día aquí parado sin hacer nada. Bien, vale, ¿y qué si lo estoy? Es mi trabajo.}
-{420}{}{Mira, tan sólo quería que destruyeras la destilería y lo has hecho. Ahora vete.}
+{354}{}{Oh, jamÃ¡s lo habÃ­a pasado peor.}
+{400}{}{Â¿Sabes, nena? Puedes estar muy buena, pero tienes mucho que aprender.}
+{410}{}{Nena, tengo trabajo que hacer, Â¿sabes? No estoy todo el dÃ­a aquÃ­ parado sin hacer nada. Bien, vale, Â¿y quÃ© si lo estoy? Es mi trabajo.}
+{420}{}{Mira, tan sÃ³lo querÃ­a que destruyeras la destilerÃ­a y lo has hecho. Ahora vete.}

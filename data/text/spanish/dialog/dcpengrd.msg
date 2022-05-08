@@ -1,19 +1,19 @@
 {100}{}{Ves a un esclavista.}
 {150}{}{Parece estar muy alerta.}
-{200}{}{Tócala otra vez y te corto un brazo.}
-{201}{}{¡Te pillé!}
-{210}{}{Nadie salvo los esclavos entra ahí.}
+{200}{}{TÃ³cala otra vez y te corto un brazo.}
+{201}{}{Â¡Te pillÃ©!}
+{210}{}{Nadie salvo los esclavos entra ahÃ­.}
 {211}{}{Los esclavos no reciben visitas.}
-{212}{}{Sólo los miembros del gremio entran por esta puerta.}
-{213}{}{¿Estás buscando algún esclavo? Habla con Metzger.}
-{214}{}{Habla con Metzger. Los corrales de esclavos están restringidos.}
-{215}{}{¿Por qué estas deambulando por aquí? Largo.}
+{212}{}{SÃ³lo los miembros del gremio entran por esta puerta.}
+{213}{}{Â¿EstÃ¡s buscando algÃºn esclavo? Habla con Metzger.}
+{214}{}{Habla con Metzger. Los corrales de esclavos estÃ¡n restringidos.}
+{215}{}{Â¿Por quÃ© estas deambulando por aquÃ­? Largo.}
 {216}{}{Largo, puta. Los esclavos no reciben visitas.}
-{230}{}{¿Qué tal va, colega?}
-{231}{}{Un día muy tranquilo.}
+{230}{}{Â¿QuÃ© tal va, colega?}
+{231}{}{Un dÃ­a muy tranquilo.}
 {232}{}{Espero que te guste el gremio.}
 {233}{}{Espero que te salga todo bien.}
-{234}{}{¿Qué tal te fue la última cacería?}
+{234}{}{Â¿QuÃ© tal te fue la Ãºltima cacerÃ­a?}
 {235}{}{Hola.}
 {236}{}{Eres la clase de chicas que me gustan.}
 {237}{}{Una chica esclavista... Respeto eso.}

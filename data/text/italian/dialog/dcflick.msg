@@ -18,7 +18,7 @@
 {243}{}{That did it. See you around, Flick.}
 {260}{}{Mi so un mercante, cossa ti credi? 'na specie de bon Samurai-tano.}
 {261}{}{Come?}
-{262}{}{Certo, ehm, beh…lascia che ti chieda qualcos'altro.}
+{262}{}{Certo, ehm, behâ€¦lascia che ti chieda qualcos'altro.}
 {263}{}{Ah, oh. OK. Ci vediamo, Flick.}
 {280}{}{Vendo per i miei fioi.}
 {281}{}{Vendi fiori?}

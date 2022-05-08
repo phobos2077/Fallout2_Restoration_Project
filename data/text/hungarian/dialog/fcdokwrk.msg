@@ -1,29 +1,29 @@
-{100}{}{Ez itt egy Shi közember.}
-{101}{}{Dokkmunkás.}
-{102}{}{Ez itt egy Shi közember. A ruhája egy mer? halpikkely, kátrány és só.}
-{103}{}{Hajózásra való szép nap ez.}
-{104}{}{Mindig is odavoltam a tengerért.}
+{100}{}{Ez itt egy Shi kÃ¶zember.}
+{101}{}{DokkmunkÃ¡s.}
+{102}{}{Ez itt egy Shi kÃ¶zember. A ruhÃ¡ja egy mer? halpikkely, kÃ¡trÃ¡ny Ã©s sÃ³.}
+{103}{}{HajÃ³zÃ¡sra valÃ³ szÃ©p nap ez.}
+{104}{}{Mindig is odavoltam a tengerÃ©rt.}
 {105}{}{Szereted a hallevet?}
-{106}{}{Napfény, friss leveg?, tengeri kaja. Egy jó fürd?n kívül mi mást kívánhat az ember?}
-{107}{}{Kezdek besokallni a haltól.}
-{108}{}{Fáj a hátam.}
-{109}{}{Nézzétek csak... egy újabb turista!}
-{112}{}{Vigyázz a tankerben megbúvó szörnyekkel! Várj csak... szerintem már túl vagy rajta.}
-{113}{}{Szóval át akarod nézni a tankert?}
-{114}{}{Az a tanker kemény egy hely. Ezt mondogatják a punk-ok.}
+{106}{}{NapfÃ©ny, friss leveg?, tengeri kaja. Egy jÃ³ fÃ¼rd?n kÃ­vÃ¼l mi mÃ¡st kÃ­vÃ¡nhat az ember?}
+{107}{}{Kezdek besokallni a haltÃ³l.}
+{108}{}{FÃ¡j a hÃ¡tam.}
+{109}{}{NÃ©zzÃ©tek csak... egy Ãºjabb turista!}
+{112}{}{VigyÃ¡zz a tankerben megbÃºvÃ³ szÃ¶rnyekkel! VÃ¡rj csak... szerintem mÃ¡r tÃºl vagy rajta.}
+{113}{}{SzÃ³val Ã¡t akarod nÃ©zni a tankert?}
+{114}{}{Az a tanker kemÃ©ny egy hely. Ezt mondogatjÃ¡k a punk-ok.}
 {115}{}{Van valami dolgod odabenn?}
-{116}{}{Hajózásra való szép nap ez.}
-{117}{}{Mindig is odavoltam a tengerért.}
+{116}{}{HajÃ³zÃ¡sra valÃ³ szÃ©p nap ez.}
+{117}{}{Mindig is odavoltam a tengerÃ©rt.}
 {118}{}{Szereted a hallevet?}
-{119}{}{Napfény, friss leveg?, tengeri kaja. Egy jó fürd?n kívül mi mást kívánhat az ember?}
-{120}{}{Kezdek besokallni a haltól.}
-{121}{}{Fáj a hátam.}
-{122}{}{Nézzétek csak... egy újabb turista!}
+{119}{}{NapfÃ©ny, friss leveg?, tengeri kaja. Egy jÃ³ fÃ¼rd?n kÃ­vÃ¼l mi mÃ¡st kÃ­vÃ¡nhat az ember?}
+{120}{}{Kezdek besokallni a haltÃ³l.}
+{121}{}{FÃ¡j a hÃ¡tam.}
+{122}{}{NÃ©zzÃ©tek csak... egy Ãºjabb turista!}
 {125}{}{}
 {126}{}{}
 {127}{}{}
 {128}{}{}
-{150}{}{Ütött az óra, turista!}
-{151}{}{Gondolod, hogy túlélsz egy dokkbunyót?}
-{152}{}{Nem hinném, hogy elég szívós leszel.}
-{153}{}{Nézzük, mire mész egy markos Shi dokkmunkással!}
+{150}{}{ÃœtÃ¶tt az Ã³ra, turista!}
+{151}{}{Gondolod, hogy tÃºlÃ©lsz egy dokkbunyÃ³t?}
+{152}{}{Nem hinnÃ©m, hogy elÃ©g szÃ­vÃ³s leszel.}
+{153}{}{NÃ©zzÃ¼k, mire mÃ©sz egy markos Shi dokkmunkÃ¡ssal!}

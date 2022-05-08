@@ -1,6 +1,6 @@
 {100}{}{A Computer Terminal.}
 {101}{}{A rather antiquated computer. CPU speed of only 500hz.}
-{102}{}{Você é incapaz de ler o que está no monitor.}
+{102}{}{VocÃª Ã© incapaz de ler o que estÃ¡ no monitor.}
 {103}{}{Automated Repair Station
                                   Processing Repair Requests from Skynet
                         Dispatching Repair Units}

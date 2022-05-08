@@ -1,1 +1,1 @@
-{100}{}{Geräusche dringen aus den Höhlen heraus.}
+{100}{}{GerÃ¤usche dringen aus den HÃ¶hlen heraus.}

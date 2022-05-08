@@ -1,61 +1,61 @@
 {100}{}{Widzisz Hologram.}
 {101}{}{Widzisz Dyrektora do spraw Ochrony.}
-{102}{}{Hologram 10001. Nadzoruje ochronê AOŒ.}
-{200}{}{Staæ! Nie próbuj siê zbli¿yæ. Zidentyfikuj siê intruzie.}
-{201}{}{Jestem Dzieckiem Przeznaczenia z Arroyo. Zwiedzam AOŒ.}
-{202}{}{Nie jestem intruzem i teraz muszê ju¿ iœæ.}
+{102}{}{Hologram 10001. Nadzoruje ochronÄ™ AOÅš.}
+{200}{}{StaÄ‡! Nie prÃ³buj siÄ™ zbliÅ¼yÄ‡. Zidentyfikuj siÄ™ intruzie.}
+{201}{}{Jestem Dzieckiem Przeznaczenia z Arroyo. Zwiedzam AOÅš.}
+{202}{}{Nie jestem intruzem i teraz muszÄ™ juÅ¼ iÅ›Ä‡.}
 {203}{}{Jestem }
-{204}{}{, nie chcê przeszkadzaæ, tylko zwiedzam.}
-{210}{}{Zwiedzasz!? Zwiedzasz...MOJ¥...AOŒ!? Jak œmiesz mieæ czelnoœæ w³amywaæ siê tu i ³aziæ ot tak sobie! Vollidiot! Mam ochotê ciê aresztowaæ i wrzuciæ twoje dupsko do naszego zoo, by³aby z ciebie prawdziwa uczta dla naszych dziwade³!}
-{211}{}{Nie, czekaj! Nic z³ego nie robiê! Pozwól mi wyjaœniæ...}
-{220}{}{Nigdzie siê nie wybierasz, Pisskopf. Nikt nie bêdzie w³azi³ do mojej AOŒ bez uzasadnienia. Sk¹d mam wiedzieæ, ¿e nie jesteœ chiñskim szpiegiem?}
-{221}{}{Zgaduje, ¿e nie wiesz. Ale jeœli dasz mi szansê siê wyt³umaczyæ, mo¿e uda nam siê rozwi¹zaæ ten ma³y problem?}
-{222}{}{A co je¿eli nawet jestem? Czy to ma jakieœ znaczenie? Twoja cena AOŒ ju¿ siê nie liczy. Jest tylko kolejnym rozsypuj¹cym siê reliktem utraconej epoki.}
-{230}{}{No dobra, Schwachkopf, wyt³umacz siê. Ale dobrze ci radzê, postaraj siê, bo inaczej dostaniesz bêcki od moich robotów, a potem zaci¹gn¹ ciê na dó³ wprost na krzes³o elektryczne!}
-{231}{}{Dobra. Po pierwsze, nie jestem chiñskim szpiegiem, jestem, jak móg³byœ to okreœliæ, dzikusem. wybrano mnie do niezwykle trudnego zadania, uratowania mojej wioski od zag³ady. Szukam tu tylko czegoœ co mog³oby mi pomóc w mojej misji.}
-{232}{}{Odpieprz siê! Jesteœ HOLOGRAMEM. Najgorsze co mo¿esz mi zrobiæ to zakrzyczeæ mnie na œmieræ, czego ju¿ próbowa³eœ. A co do tych kawa³ków z³omu które nazywasz robotami, by³oby to mo¿e bardziej zastraszaj¹ce gdyby jakieœ dzia³a³y.}
-{240}{}{Odzyskaæ! Ty Pissnelke! Jak œmiesz ubli¿aæ tak tej instytucji! Nikt nie zabierze st¹d nawet kawa³ka papieru bez mojego pozwolenia! Ale, dostanie siê tak daleko w g³¹b AOŒ wymaga niema³ych umiejêtnoœci... mo¿e znalaz³bym dla ciebie... zastosowanie.}
-{241}{}{Hê?}
-{242}{}{Nie, dziêki, poszperam jeszcze trochê i sobie pójdê. Czeœæ!}
-{250}{}{Jak œmiesz! Taka obraza ze strony Blödes Arschloch. Kiedy zaczyna³em mój trening, brak kultury by³ karany. I byliœmy karani! Zapamiêtaj moje s³owa scheisskopf, ten twój ciêty jêzyk któregoœ dnia sprowadzi na ciebie œmieræ.}
-{251}{}{Byæ mo¿e, byæ mo¿e. Ale jeœli ten dzieñ w ogóle przyjdzie, zajmê siê tym wtedy i tam. Pewne jest to, ¿e nie ty mi j¹ zadasz. Jesteœ nikim. Nie masz ju¿ czym rz¹dziæ, dlatego zas³aniasz swój smutek gniewem. Od jak dawna roboty nie odpowiadaj¹?}
-{260}{}{Có¿, jak siê ju¿ pewnie domyœli³eœ, roboty w AOŒ ju¿ nie dzia³aj¹. Komputery ju¿ nie rejestruj¹ moich s³ownych rozkazów, a ¿e nie mam cia³a, nie mogê pos³u¿yæ siê konsol¹. Ja... Ju¿ nie jestem w stanie niczego broniæ. Proszê, napraw dla mnie komputer? Muszê kierowaæ robotami bo... bo tak.}
-{261}{}{Có¿, czemu nie? Zobaczê co da siê zrobiæ.}
-{262}{}{Nie, nie mam na to czasu. Czeœæ.}
-{270}{}{Fick dich du verdammter Arschficker! Zostaje mi tylko... tylko... [Wzdycha.] Masz racjê. Roboty ju¿ nie rozumiej¹, co do nich mówiê. Tylko siedz¹ tak bez ruchu. Komputery przesta³y dzia³aæ, a jako Hologram, nie mogê dotkn¹æ klawiatury. Jak ju¿ mówi³em od wielu lat, to miejsce wymaga remontu i przebudowy. Mo¿e kiedyœ bêdê mia³ moc, aby to zrobiæ.}
-{271}{}{Mo¿e dam radê ci pomóc? NieŸle sobie radzê z komputerami.}
-{280}{}{Dziêkujê. Jeœli uda ci siê naprawiæ komputer sterowania robotami, dam ci dostêp do dobrze zabezpieczonego skrzyd³a na poziomie czerwonym. Mo¿esz wzi¹æ co chcesz z magazynów. Obawiam siê, ¿e nie bêdê mia³ ju¿ z tego po¿ytku.}
-{281}{}{Dziêki. Wrócê jak skoñczê.}
+{204}{}{, nie chcÄ™ przeszkadzaÄ‡, tylko zwiedzam.}
+{210}{}{Zwiedzasz!? Zwiedzasz...MOJÄ„...AOÅš!? Jak Å›miesz mieÄ‡ czelnoÅ›Ä‡ wÅ‚amywaÄ‡ siÄ™ tu i Å‚aziÄ‡ ot tak sobie! Vollidiot! Mam ochotÄ™ ciÄ™ aresztowaÄ‡ i wrzuciÄ‡ twoje dupsko do naszego zoo, byÅ‚aby z ciebie prawdziwa uczta dla naszych dziwadeÅ‚!}
+{211}{}{Nie, czekaj! Nic zÅ‚ego nie robiÄ™! PozwÃ³l mi wyjaÅ›niÄ‡...}
+{220}{}{Nigdzie siÄ™ nie wybierasz, Pisskopf. Nikt nie bÄ™dzie wÅ‚aziÅ‚ do mojej AOÅš bez uzasadnienia. SkÄ…d mam wiedzieÄ‡, Å¼e nie jesteÅ› chiÅ„skim szpiegiem?}
+{221}{}{Zgaduje, Å¼e nie wiesz. Ale jeÅ›li dasz mi szansÄ™ siÄ™ wytÅ‚umaczyÄ‡, moÅ¼e uda nam siÄ™ rozwiÄ…zaÄ‡ ten maÅ‚y problem?}
+{222}{}{A co jeÅ¼eli nawet jestem? Czy to ma jakieÅ› znaczenie? Twoja cena AOÅš juÅ¼ siÄ™ nie liczy. Jest tylko kolejnym rozsypujÄ…cym siÄ™ reliktem utraconej epoki.}
+{230}{}{No dobra, Schwachkopf, wytÅ‚umacz siÄ™. Ale dobrze ci radzÄ™, postaraj siÄ™, bo inaczej dostaniesz bÄ™cki od moich robotÃ³w, a potem zaciÄ…gnÄ… ciÄ™ na dÃ³Å‚ wprost na krzesÅ‚o elektryczne!}
+{231}{}{Dobra. Po pierwsze, nie jestem chiÅ„skim szpiegiem, jestem, jak mÃ³gÅ‚byÅ› to okreÅ›liÄ‡, dzikusem. wybrano mnie do niezwykle trudnego zadania, uratowania mojej wioski od zagÅ‚ady. Szukam tu tylko czegoÅ› co mogÅ‚oby mi pomÃ³c w mojej misji.}
+{232}{}{Odpieprz siÄ™! JesteÅ› HOLOGRAMEM. Najgorsze co moÅ¼esz mi zrobiÄ‡ to zakrzyczeÄ‡ mnie na Å›mierÄ‡, czego juÅ¼ prÃ³bowaÅ‚eÅ›. A co do tych kawaÅ‚kÃ³w zÅ‚omu ktÃ³re nazywasz robotami, byÅ‚oby to moÅ¼e bardziej zastraszajÄ…ce gdyby jakieÅ› dziaÅ‚aÅ‚y.}
+{240}{}{OdzyskaÄ‡! Ty Pissnelke! Jak Å›miesz ubliÅ¼aÄ‡ tak tej instytucji! Nikt nie zabierze stÄ…d nawet kawaÅ‚ka papieru bez mojego pozwolenia! Ale, dostanie siÄ™ tak daleko w gÅ‚Ä…b AOÅš wymaga niemaÅ‚ych umiejÄ™tnoÅ›ci... moÅ¼e znalazÅ‚bym dla ciebie... zastosowanie.}
+{241}{}{HÄ™?}
+{242}{}{Nie, dziÄ™ki, poszperam jeszcze trochÄ™ i sobie pÃ³jdÄ™. CzeÅ›Ä‡!}
+{250}{}{Jak Å›miesz! Taka obraza ze strony BlÃ¶des Arschloch. Kiedy zaczynaÅ‚em mÃ³j trening, brak kultury byÅ‚ karany. I byliÅ›my karani! ZapamiÄ™taj moje sÅ‚owa scheisskopf, ten twÃ³j ciÄ™ty jÄ™zyk ktÃ³regoÅ› dnia sprowadzi na ciebie Å›mierÄ‡.}
+{251}{}{ByÄ‡ moÅ¼e, byÄ‡ moÅ¼e. Ale jeÅ›li ten dzieÅ„ w ogÃ³le przyjdzie, zajmÄ™ siÄ™ tym wtedy i tam. Pewne jest to, Å¼e nie ty mi jÄ… zadasz. JesteÅ› nikim. Nie masz juÅ¼ czym rzÄ…dziÄ‡, dlatego zasÅ‚aniasz swÃ³j smutek gniewem. Od jak dawna roboty nie odpowiadajÄ…?}
+{260}{}{CÃ³Å¼, jak siÄ™ juÅ¼ pewnie domyÅ›liÅ‚eÅ›, roboty w AOÅš juÅ¼ nie dziaÅ‚ajÄ…. Komputery juÅ¼ nie rejestrujÄ… moich sÅ‚ownych rozkazÃ³w, a Å¼e nie mam ciaÅ‚a, nie mogÄ™ posÅ‚uÅ¼yÄ‡ siÄ™ konsolÄ…. Ja... JuÅ¼ nie jestem w stanie niczego broniÄ‡. ProszÄ™, napraw dla mnie komputer? MuszÄ™ kierowaÄ‡ robotami bo... bo tak.}
+{261}{}{CÃ³Å¼, czemu nie? ZobaczÄ™ co da siÄ™ zrobiÄ‡.}
+{262}{}{Nie, nie mam na to czasu. CzeÅ›Ä‡.}
+{270}{}{Fick dich du verdammter Arschficker! Zostaje mi tylko... tylko... [Wzdycha.] Masz racjÄ™. Roboty juÅ¼ nie rozumiejÄ…, co do nich mÃ³wiÄ™. Tylko siedzÄ… tak bez ruchu. Komputery przestaÅ‚y dziaÅ‚aÄ‡, a jako Hologram, nie mogÄ™ dotknÄ…Ä‡ klawiatury. Jak juÅ¼ mÃ³wiÅ‚em od wielu lat, to miejsce wymaga remontu i przebudowy. MoÅ¼e kiedyÅ› bÄ™dÄ™ miaÅ‚ moc, aby to zrobiÄ‡.}
+{271}{}{MoÅ¼e dam radÄ™ ci pomÃ³c? NieÅºle sobie radzÄ™ z komputerami.}
+{280}{}{DziÄ™kujÄ™. JeÅ›li uda ci siÄ™ naprawiÄ‡ komputer sterowania robotami, dam ci dostÄ™p do dobrze zabezpieczonego skrzydÅ‚a na poziomie czerwonym. MoÅ¼esz wziÄ…Ä‡ co chcesz z magazynÃ³w. Obawiam siÄ™, Å¼e nie bÄ™dÄ™ miaÅ‚ juÅ¼ z tego poÅ¼ytku.}
+{281}{}{DziÄ™ki. WrÃ³cÄ™ jak skoÅ„czÄ™.}
 {290}{}{Lech mich! Nie mam ci nic do powiedzenia.}
 {291}{}{Dobra.}
-{300}{}{Uda³o ci siê ukoñczyæ zadanie? [W oczach b³ysk nadziei.]}
-{301}{}{Nie, jeszcze nie. Jeszcze nad tym pracujê.}
-{310}{}{Czy komputery znowu dzia³aj¹?}
-{311}{}{Tak. Uda³o mi siê je dla ciebie naprawiæ. Znów mo¿esz wydawaæ polecenia robotom.}
-{320}{}{Doskonale! Wspaniale! Teraz mogê zmia¿d¿yæ tych g³upców! AOŒ znów bêdzie oczyszczone! Dobrze, a teraz mam tu coœ dla ciebie. [Mówi do robotów.] Dawaj tu swoje opancerzone metalowe dupsko i daj temu cywilowi nagrodê za zas³ugi dla tego wspania³ego narodu! [Robot podje¿d¿a do ciebie i wyci¹ga kartê klucz. Kiedy j¹ odbierasz, wyje¿d¿a z pokoju. Z jakiegoœ powodu, odnosisz wra¿enie, ¿e by³oby lepiej dla robotów gdyby ich nie aktywowaæ.] A teraz ruszaj w swoj¹ stronê. Odmaszerowaæ!}
-{321}{}{Dziêkujê.}
-{322}{}{Odmaszerowaæ? A co ja, stra¿nik? Na razie, staruszku.}
+{300}{}{UdaÅ‚o ci siÄ™ ukoÅ„czyÄ‡ zadanie? [W oczach bÅ‚ysk nadziei.]}
+{301}{}{Nie, jeszcze nie. Jeszcze nad tym pracujÄ™.}
+{310}{}{Czy komputery znowu dziaÅ‚ajÄ…?}
+{311}{}{Tak. UdaÅ‚o mi siÄ™ je dla ciebie naprawiÄ‡. ZnÃ³w moÅ¼esz wydawaÄ‡ polecenia robotom.}
+{320}{}{Doskonale! Wspaniale! Teraz mogÄ™ zmiaÅ¼dÅ¼yÄ‡ tych gÅ‚upcÃ³w! AOÅš znÃ³w bÄ™dzie oczyszczone! Dobrze, a teraz mam tu coÅ› dla ciebie. [MÃ³wi do robotÃ³w.] Dawaj tu swoje opancerzone metalowe dupsko i daj temu cywilowi nagrodÄ™ za zasÅ‚ugi dla tego wspaniaÅ‚ego narodu! [Robot podjeÅ¼dÅ¼a do ciebie i wyciÄ…ga kartÄ™ klucz. Kiedy jÄ… odbierasz, wyjeÅ¼dÅ¼a z pokoju. Z jakiegoÅ› powodu, odnosisz wraÅ¼enie, Å¼e byÅ‚oby lepiej dla robotÃ³w gdyby ich nie aktywowaÄ‡.] A teraz ruszaj w swojÄ… stronÄ™. OdmaszerowaÄ‡!}
+{321}{}{DziÄ™kujÄ™.}
+{322}{}{OdmaszerowaÄ‡? A co ja, straÅ¼nik? Na razie, staruszku.}
 {330}{}{Zostaw mnie w spokoju!}
-{331}{}{Nic wiêcej od ciebie nie chcê.}
+{331}{}{Nic wiÄ™cej od ciebie nie chcÄ™.}
 {332}{}{MACH ES DIR SELBER!!}
-{333}{}{Jestem teraz zajêty.}
-{334}{}{PrzyjdŸ póŸniej.}
-{335}{}{Nie widzisz, ¿e jestem na konferencji?}
-{336}{}{Musimy zniszczyæ to miejsce, natychmiast!}
+{333}{}{Jestem teraz zajÄ™ty.}
+{334}{}{PrzyjdÅº pÃ³Åºniej.}
+{335}{}{Nie widzisz, Å¼e jestem na konferencji?}
+{336}{}{Musimy zniszczyÄ‡ to miejsce, natychmiast!}
 {337}{}{To absurd!}
 {338}{}{Nigdy!}
-{339}{}{Tylko po zniszczeniu starego, nowe mo¿e siê odrodziæ.}
+{339}{}{Tylko po zniszczeniu starego, nowe moÅ¼e siÄ™ odrodziÄ‡.}
 {340}{}{Kto jest za?}
-{341}{}{Roboty musz¹ zostaæ reaktywowane!}
+{341}{}{Roboty muszÄ… zostaÄ‡ reaktywowane!}
 {342}{}{Warmduschery! Wszyscy!}
-{343}{}{Nasze systemy obronne wymagaj¹ uzupe³nienia amunicji!}
-{344}{}{Gdybym to ja tu rz¹dzi³, wszystko wygl¹da³oby inaczej!}
+{343}{}{Nasze systemy obronne wymagajÄ… uzupeÅ‚nienia amunicji!}
+{344}{}{Gdybym to ja tu rzÄ…dziÅ‚, wszystko wyglÄ…daÅ‚oby inaczej!}
 {345}{}{Halt die Schnauze!}
-{400}{}{Aresztowaæ mnie? Jesteœ hologramem. Nie mo¿esz mnie nawet dotkn¹æ.}
-{401}{}{Widzê, ze mam tu Klugscheißerga! Myœlisz, ¿e nie mogê nakopaæ do dupy takiemu Warmduscherowi ja ty? No, mo¿e ja nie mogê, ale po to s¹ tu te roboty! Na prawdê szybko koñczy mi siê cierpliwoœæ. Wiêc lepiej zacznij siê t³umaczyæ. Sk¹d mam wiedzieæ, ¿e nie jesteœ chiñskim szpiegiem?}
-{410}{}{To tobie zawdziêczam dzia³anie komputera kontroli robotów?}
-{411}{}{Dok³adnie.}
-{412}{}{Uch... mo¿e.}
+{400}{}{AresztowaÄ‡ mnie? JesteÅ› hologramem. Nie moÅ¼esz mnie nawet dotknÄ…Ä‡.}
+{401}{}{WidzÄ™, ze mam tu KlugscheiÃŸerga! MyÅ›lisz, Å¼e nie mogÄ™ nakopaÄ‡ do dupy takiemu Warmduscherowi ja ty? No, moÅ¼e ja nie mogÄ™, ale po to sÄ… tu te roboty! Na prawdÄ™ szybko koÅ„czy mi siÄ™ cierpliwoÅ›Ä‡. WiÄ™c lepiej zacznij siÄ™ tÅ‚umaczyÄ‡. SkÄ…d mam wiedzieÄ‡, Å¼e nie jesteÅ› chiÅ„skim szpiegiem?}
+{410}{}{To tobie zawdziÄ™czam dziaÅ‚anie komputera kontroli robotÃ³w?}
+{411}{}{DokÅ‚adnie.}
+{412}{}{Uch... moÅ¼e.}
 {413}{}{Nie. To nie ja.}
-{420}{}{Quatsch! Jesteœ tutaj jedyn¹ istot¹ rozumn¹ z krwi i koœci, wiêc jestem pewien, ¿e to ty.}
-{421}{}{Dobra, w porz¹dku, to ja.}
+{420}{}{Quatsch! JesteÅ› tutaj jedynÄ… istotÄ… rozumnÄ… z krwi i koÅ›ci, wiÄ™c jestem pewien, Å¼e to ty.}
+{421}{}{Dobra, w porzÄ…dku, to ja.}

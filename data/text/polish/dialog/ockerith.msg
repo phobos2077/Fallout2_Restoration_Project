@@ -1,50 +1,50 @@
-{100}{}{Widzisz szpona œmierci.}
-{101}{}{Widzisz Kerith, matkê szponów œmierci.}
-{102}{}{Widzisz typowego szpona œmierci. To ogromne stworzenie ma potê¿n¹ budowê cia³a, ostre zêby i d³ugie pazury. Ten osobnik jest chyba p³ci ¿eñskiej, ale nie mo¿esz tego stwierdziæ z ca³kowit¹ pewnoœci¹. Na jej tu³owiu dostrzegasz kilka blizn od ran.}
-{103}{}{Odwiedziny ze strony cz³owieka to wydarzenie niespodziewane, ale nie niechciane. Nazywam siê Kerith.}
-{104}{}{W czym mogê ci pomóc?}
+{100}{}{Widzisz szpona Å›mierci.}
+{101}{}{Widzisz Kerith, matkÄ™ szponÃ³w Å›mierci.}
+{102}{}{Widzisz typowego szpona Å›mierci. To ogromne stworzenie ma potÄ™Å¼nÄ… budowÄ™ ciaÅ‚a, ostre zÄ™by i dÅ‚ugie pazury. Ten osobnik jest chyba pÅ‚ci Å¼eÅ„skiej, ale nie moÅ¼esz tego stwierdziÄ‡ z caÅ‚kowitÄ… pewnoÅ›ciÄ…. Na jej tuÅ‚owiu dostrzegasz kilka blizn od ran.}
+{103}{}{Odwiedziny ze strony czÅ‚owieka to wydarzenie niespodziewane, ale nie niechciane. Nazywam siÄ™ Kerith.}
+{104}{}{W czym mogÄ™ ci pomÃ³c?}
 {105}{}{Ty matka Sz'mierci?}
 {106}{}{Kto ojciec Sz'mierci?}
-{107}{}{Drzwi wygl¹da jak z³om. Co jest?}
-{108}{}{Kto zrobiæ pokój na gniazdo?}
-{109}{}{Moja iœæ ju¿}
-{110}{}{A wiêc to ty jesteœ matk¹ szponów œmierci?}
-{111}{}{Kto jest ojcem szponów œmierci?}
-{112}{}{Co siê sta³o z drzwiami? Wygl¹daj¹ jakby najlepsze dni mia³y ju¿ za sob¹.}
-{113}{}{Kto zbudowa³ tê wylêgarniê?}
-{114}{}{Lepiej ju¿ sobie pójdê.}
-{115}{}{Tak. W tej chwili jestem matk¹ stada. Kiedy z moich jaj wylêgn¹ siê potomkowie, przyjdzie kolej innych matek.}
-{116}{}{W porz¹dku.}
+{107}{}{Drzwi wyglÄ…da jak zÅ‚om. Co jest?}
+{108}{}{Kto zrobiÄ‡ pokÃ³j na gniazdo?}
+{109}{}{Moja iÅ›Ä‡ juÅ¼}
+{110}{}{A wiÄ™c to ty jesteÅ› matkÄ… szponÃ³w Å›mierci?}
+{111}{}{Kto jest ojcem szponÃ³w Å›mierci?}
+{112}{}{Co siÄ™ staÅ‚o z drzwiami? WyglÄ…dajÄ… jakby najlepsze dni miaÅ‚y juÅ¼ za sobÄ….}
+{113}{}{Kto zbudowaÅ‚ tÄ™ wylÄ™garniÄ™?}
+{114}{}{Lepiej juÅ¼ sobie pÃ³jdÄ™.}
+{115}{}{Tak. W tej chwili jestem matkÄ… stada. Kiedy z moich jaj wylÄ™gnÄ… siÄ™ potomkowie, przyjdzie kolej innych matek.}
+{116}{}{W porzÄ…dku.}
 {117}{}{Innych matek?}
 {118}{}{Rozumiem.}
-{119}{}{S¹ jeszcze inne matki?}
-{120}{}{Tak, s¹ jeszcze inne matki. Jeœli cokolwiek mi siê stanie, jedna z nich zostanie wybrana, by zaj¹æ moje miejsce. Stado musi przetrwaæ.}
+{119}{}{SÄ… jeszcze inne matki?}
+{120}{}{Tak, sÄ… jeszcze inne matki. JeÅ›li cokolwiek mi siÄ™ stanie, jedna z nich zostanie wybrana, by zajÄ…Ä‡ moje miejsce. Stado musi przetrwaÄ‡.}
 {121}{}{Uch, ja rozumi.}
 {122}{}{Rozumiem.}
-{123}{}{Te jaja zosta³y zap³odnione przez Gruthara, przywódcê stada. To Gruthar decyduje, kto bêdzie siê kojarzyæ, a kto nie. Gruthar umocni nasze stado.}
-{124}{}{Uhm, w porz¹dku.}
+{123}{}{Te jaja zostaÅ‚y zapÅ‚odnione przez Gruthara, przywÃ³dcÄ™ stada. To Gruthar decyduje, kto bÄ™dzie siÄ™ kojarzyÄ‡, a kto nie. Gruthar umocni nasze stado.}
+{124}{}{Uhm, w porzÄ…dku.}
 {125}{}{Hmmm. Rozumiem. Hodowla selektywna w celu ulepszenia rasy.}
-{126}{}{To bolesne wspomnienie. W czasie mego snu zdradziecki cz³owiek wkrad³ siê tutaj i umieœci³ wœród jaj bombê. Na szczêœcie nie zachowywa³ siê tak cicho, gdy odchodzi³, wiêc obudzi³am siê i znalaz³am bombê. Nie by³o czasu, by w³aœciwie zaj¹æ siê tym urz¹dzeniem, wiêc rzuci³am je w stronê drzwi i umieœci³am siebie miêdzy nim a jajami. Jaja i ja prze¿yliœmy. Drzwi nie.}
-{127}{}{Co byæ z cz³owiek?}
-{128}{}{Jak on przejœæ obok stra¿nik?}
-{129}{}{Ja ma wiêcej pytania.}
-{130}{}{Co siê sta³o z osob¹, która to zrobi³a?}
-{131}{}{Jak tej osobie uda³o siê przejœæ obok stra¿nika?}
-{132}{}{Mam jeszcze kilka pytañ.}
-{133}{}{Nazywa siê Matt i jest tu wiêŸniem. Osobiœcie pragnê³am jego œmierci - ale Gruthar na to nie pozwoli³. Nie widzê w tym ¿adnej m¹droœci, ale s³owo Gruthara jest prawem, którego siê dotrzymuje. Uwa¿aj na siebie, gdy bêdziesz rozmawiaæ z tym cz³owiekiem. Nie mo¿na mu ufaæ!}
-{134}{}{Jak on przejœæ obok stra¿nik?}
-{135}{}{W porz¹dku.}
-{136}{}{Jak tej osobie uda³o siê przejœæ obok stra¿nika?}
-{137}{}{W porz¹dku.}
-{138}{}{Stra¿nik zosta³ dodany po tym wydarzeniu. Wczeœniej mieliœmy wiêcej zaufania. Teraz jesteœmy ostro¿niejsi.}
-{139}{}{Co byæ z cz³owiek?}
+{126}{}{To bolesne wspomnienie. W czasie mego snu zdradziecki czÅ‚owiek wkradÅ‚ siÄ™ tutaj i umieÅ›ciÅ‚ wÅ›rÃ³d jaj bombÄ™. Na szczÄ™Å›cie nie zachowywaÅ‚ siÄ™ tak cicho, gdy odchodziÅ‚, wiÄ™c obudziÅ‚am siÄ™ i znalazÅ‚am bombÄ™. Nie byÅ‚o czasu, by wÅ‚aÅ›ciwie zajÄ…Ä‡ siÄ™ tym urzÄ…dzeniem, wiÄ™c rzuciÅ‚am je w stronÄ™ drzwi i umieÅ›ciÅ‚am siebie miÄ™dzy nim a jajami. Jaja i ja przeÅ¼yliÅ›my. Drzwi nie.}
+{127}{}{Co byÄ‡ z czÅ‚owiek?}
+{128}{}{Jak on przejÅ›Ä‡ obok straÅ¼nik?}
+{129}{}{Ja ma wiÄ™cej pytania.}
+{130}{}{Co siÄ™ staÅ‚o z osobÄ…, ktÃ³ra to zrobiÅ‚a?}
+{131}{}{Jak tej osobie udaÅ‚o siÄ™ przejÅ›Ä‡ obok straÅ¼nika?}
+{132}{}{Mam jeszcze kilka pytaÅ„.}
+{133}{}{Nazywa siÄ™ Matt i jest tu wiÄ™Åºniem. OsobiÅ›cie pragnÄ™Å‚am jego Å›mierci - ale Gruthar na to nie pozwoliÅ‚. Nie widzÄ™ w tym Å¼adnej mÄ…droÅ›ci, ale sÅ‚owo Gruthara jest prawem, ktÃ³rego siÄ™ dotrzymuje. UwaÅ¼aj na siebie, gdy bÄ™dziesz rozmawiaÄ‡ z tym czÅ‚owiekiem. Nie moÅ¼na mu ufaÄ‡!}
+{134}{}{Jak on przejÅ›Ä‡ obok straÅ¼nik?}
+{135}{}{W porzÄ…dku.}
+{136}{}{Jak tej osobie udaÅ‚o siÄ™ przejÅ›Ä‡ obok straÅ¼nika?}
+{137}{}{W porzÄ…dku.}
+{138}{}{StraÅ¼nik zostaÅ‚ dodany po tym wydarzeniu. WczeÅ›niej mieliÅ›my wiÄ™cej zaufania. Teraz jesteÅ›my ostroÅ¼niejsi.}
+{139}{}{Co byÄ‡ z czÅ‚owiek?}
 {140}{}{Moja kapuje.}
-{141}{}{Co siê sta³o z t¹ osob¹?}
+{141}{}{Co siÄ™ staÅ‚o z tÄ… osobÄ…?}
 {142}{}{Rozumiem.}
-{143}{}{Wybudowaliœmy tê jaskiniê, a ludzki przyjaciel zamontowa³ drzwi. Zdoby³ czêœci z osady na pó³nocny wschód st¹d.}
-{144}{}{To mi³e.}
-{145}{}{To mi³e.}
-{146}{}{Witaj ponownie. Dobrze ciê widzieæ. W czym mogê ci pomóc?}
-{147}{}{Ja tylko mówi czeœæ. Ja ju¿ iœæ.}
-{148}{}{Chcê siê tylko przywitaæ. Ju¿ sobie pójdê.}
-{149}{}{Zasmuca mnie, ¿e muszê ciê zabiæ.}
+{143}{}{WybudowaliÅ›my tÄ™ jaskiniÄ™, a ludzki przyjaciel zamontowaÅ‚ drzwi. ZdobyÅ‚ czÄ™Å›ci z osady na pÃ³Å‚nocny wschÃ³d stÄ…d.}
+{144}{}{To miÅ‚e.}
+{145}{}{To miÅ‚e.}
+{146}{}{Witaj ponownie. Dobrze ciÄ™ widzieÄ‡. W czym mogÄ™ ci pomÃ³c?}
+{147}{}{Ja tylko mÃ³wi czeÅ›Ä‡. Ja juÅ¼ iÅ›Ä‡.}
+{148}{}{ChcÄ™ siÄ™ tylko przywitaÄ‡. JuÅ¼ sobie pÃ³jdÄ™.}
+{149}{}{Zasmuca mnie, Å¼e muszÄ™ ciÄ™ zabiÄ‡.}

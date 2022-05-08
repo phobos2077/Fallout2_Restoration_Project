@@ -1,9 +1,9 @@
-{100}{}{Esta porta está trancada.}
-{101}{}{Você verá uma porta trancada, impedindo qualquer acesso posterior.}
-{102}{}{Você vê uma porta resistente.}
-{103}{}{A porta está agora desbloqueada.}
-{104}{}{Esta porta já está destrancada e aberta.}
-{105}{}{Você não conseguiu desbloquear a porta.}
-{106}{}{O bloqueio agora está preso.}
-{107}{}{A porta agora está bloqueada.}
-{108}{}{Você não bloqueia a porta.}
+{100}{}{Esta porta estÃ¡ trancada.}
+{101}{}{VocÃª verÃ¡ uma porta trancada, impedindo qualquer acesso posterior.}
+{102}{}{VocÃª vÃª uma porta resistente.}
+{103}{}{A porta estÃ¡ agora desbloqueada.}
+{104}{}{Esta porta jÃ¡ estÃ¡ destrancada e aberta.}
+{105}{}{VocÃª nÃ£o conseguiu desbloquear a porta.}
+{106}{}{O bloqueio agora estÃ¡ preso.}
+{107}{}{A porta agora estÃ¡ bloqueada.}
+{108}{}{VocÃª nÃ£o bloqueia a porta.}

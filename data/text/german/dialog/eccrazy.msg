@@ -1,5 +1,5 @@
-{100}{}{Du siehst einen Verrückten.}
+{100}{}{Du siehst einen VerrÃ¼ckten.}
 {101}{}{Mmmm....Gehirn.}
 {102}{}{Schick mehr Abenteurer.}
-{103}{}{Stöööööhhn...}
-{104}{}{Wenn bloß die Schmerzen nachließen.}
+{103}{}{StÃ¶Ã¶Ã¶Ã¶Ã¶hhn...}
+{104}{}{Wenn bloÃŸ die Schmerzen nachlieÃŸen.}

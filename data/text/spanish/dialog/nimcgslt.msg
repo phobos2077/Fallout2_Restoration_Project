@@ -1,9 +1,9 @@
-{150}{}{Ves una fea máquina tragaperras cubierta de óxido.}
-{151}{}{Ves una fea máquina tragaperras. Está cubierta de óxido y hecha pedazos, como si hubiera sido
+{150}{}{Ves una fea mÃ¡quina tragaperras cubierta de Ã³xido.}
+{151}{}{Ves una fea mÃ¡quina tragaperras. EstÃ¡ cubierta de Ã³xido y hecha pedazos, como si hubiera sido
  golpeada repetidas veces con un objeto pesado.}
-{200}{}{*Hola, joven…::cof:: ::cof:: ::jadeo:: …ven…::estertor::…juega conmigo un rato.*}
+{200}{}{*Hola, jovenâ€¦::cof:: ::cof:: ::jadeo:: â€¦venâ€¦::estertor::â€¦juega conmigo un rato.*}
 {201}{}{*H-hola, joven- ::cof:: ::cof::*}
-{202}{}{*Hola, compañer- ::cof:: ::estertor:: ::jadeo:: …¿por qué…::estertor::… no ha-ces una apuesta?*}
+{202}{}{*Hola, compaÃ±er- ::cof:: ::estertor:: ::jadeo:: â€¦Â¿por quÃ©â€¦::estertor::â€¦ no ha-ces una apuesta?*}
 {203}{}{*Rattle*}
 {204}{}{*Clink*}
 {205}{}{*Thwunk*}
@@ -13,49 +13,49 @@
 {209}{}{*Ka-chuuuunk-snap-creeeeeak*}
 {210}{}{*Clunk*}
 {211}{}{*Tink-tinkety-tink*}
-{212}{}{*efecto de sonido estúpido*}
-{213}{}{*Hola, precios…::cof:: ::cof:: ::jadeo:: …ven…::estertor::…juega conmigo un rato.*}
-{214}{}{*H-hola, precios- ::cof:: ::cof:: ¡Maldición!*}
-{215}{}{*Pon una ficha, tira de mi brazo. Ah, te resultará agradable. Je je.*}
-{216}{}{*Pues no eres un ch' -- ::cof:: ::estertor:: ::jadeo:: ¿Por qué…::estertor::…no juegas conmigo?*}
-{230}{}{Ves una extraña caja de metal gris con tres ojos y un brazo.}
-{235}{}{La extraña caja de metal gris con tres ojos y un brazo no contesta.}
-{240}{}{Le agarras el brazo y se lo sacudes calurosamente. ¡Al hacerlo, se oye un traqueteo agudo!}
-{245}{}{(Ves una máquina tragaperras. Tal vez sea la máquina más fea que hayas visto en Nuevo Reno. Su palanca está destrozada, dos
- de sus ventanas están rotas, y hay pedazos esparcidos por todas partes).}
-{246}{}{Tu mano tiembla mientras intentas alcanzar las fichas. (La máquina continúa susurrando con su voz grave). *Vamos, ahora…::cof::… eso es…*}
-{250}{}{Se escucha un ruido como de un traqueteo que entumece tu oído cuando las figuras giran, y…}
-{251}{}{¡NADA! (La máquina se ríe secamente). *Más suerte la próxima vez, jov -- ::cof:: ::cof:: ::jadeo::}
-{255}{}{(La máquina sigue susurrándote). *Inténtalo otra vez, joven… una vez más por - ::cof:: ::estertor:: - favor.*}
-{260}{}{Finalmente, los tambores se detienen y revelan… }
-{261}{}{(La máquina se ríe cálidamente). *Eso es, joven. Sabía que podr… ::cof:: ::cof:: …hacerlo.*}
-{265}{}{(La máquina ríe). *¡Eso es, mequetrefe! ¡Sabía que aún me quedaban… ::jadeo:: …agallas! ¡Je je!*}
-{270}{}{(Ante ti está quizá la máquina tragaperras más fea que hayas visto jamás. Mientras la contemplas con morbosa satisfacción,
- surge de repente una grave voz masculina que susurra desde la ranura para las monedas). *No he visto a un joven como tú por aquí antes - ::cof::
- ::cof:: ¿Te apetece… ::estertor:: ::jadeo::… probar?*}
-{275}{}{*Aún sigo aquí, chico,* dice la máquina. *Ven, vamos… ¿quieres hacer una apuesta? Nadie vive para siempre.*}
-{280}{}{*Soy la máquina tragaperras más vieja de Reno. He estado por aquí desde…::cof:: ::cof::… bien, desde prácticamente siempre. Cuando comenzó el
- show, lamento decirlo. Oye, ¿vas a apostar o me voy a quedar aquí sentado oxidándome?*}
-{285}{}{::cof:: ::cof:: *No tengo TIEMPO para desperdiciarlo parloteando contigo, joven. Y joder, seguro que es cierto que tienes cosas más im-importantes que hacer que darle a la lengua conmigo, ¿eh? ¿Tienes algo en la cabeza?*}
-{295}{}{*Calma, joven. Detén esas lágrimas ahora mismo. Todo irá bien, ¿oyes? Estaré pendiente de ti, ¿de acuerdo?*}
-{300}{}{*Oye, venga, ya basta. Date un paseo, aclara tus ideas…::cof::… te ayudará a relajarte. ¿Crees que estarás bien,
+{212}{}{*efecto de sonido estÃºpido*}
+{213}{}{*Hola, preciosâ€¦::cof:: ::cof:: ::jadeo:: â€¦venâ€¦::estertor::â€¦juega conmigo un rato.*}
+{214}{}{*H-hola, precios- ::cof:: ::cof:: Â¡MaldiciÃ³n!*}
+{215}{}{*Pon una ficha, tira de mi brazo. Ah, te resultarÃ¡ agradable. Je je.*}
+{216}{}{*Pues no eres un ch' -- ::cof:: ::estertor:: ::jadeo:: Â¿Por quÃ©â€¦::estertor::â€¦no juegas conmigo?*}
+{230}{}{Ves una extraÃ±a caja de metal gris con tres ojos y un brazo.}
+{235}{}{La extraÃ±a caja de metal gris con tres ojos y un brazo no contesta.}
+{240}{}{Le agarras el brazo y se lo sacudes calurosamente. Â¡Al hacerlo, se oye un traqueteo agudo!}
+{245}{}{(Ves una mÃ¡quina tragaperras. Tal vez sea la mÃ¡quina mÃ¡s fea que hayas visto en Nuevo Reno. Su palanca estÃ¡ destrozada, dos
+ de sus ventanas estÃ¡n rotas, y hay pedazos esparcidos por todas partes).}
+{246}{}{Tu mano tiembla mientras intentas alcanzar las fichas. (La mÃ¡quina continÃºa susurrando con su voz grave). *Vamos, ahoraâ€¦::cof::â€¦ eso esâ€¦*}
+{250}{}{Se escucha un ruido como de un traqueteo que entumece tu oÃ­do cuando las figuras giran, yâ€¦}
+{251}{}{Â¡NADA! (La mÃ¡quina se rÃ­e secamente). *MÃ¡s suerte la prÃ³xima vez, jov -- ::cof:: ::cof:: ::jadeo::}
+{255}{}{(La mÃ¡quina sigue susurrÃ¡ndote). *IntÃ©ntalo otra vez, jovenâ€¦ una vez mÃ¡s por - ::cof:: ::estertor:: - favor.*}
+{260}{}{Finalmente, los tambores se detienen y revelanâ€¦ }
+{261}{}{(La mÃ¡quina se rÃ­e cÃ¡lidamente). *Eso es, joven. SabÃ­a que podrâ€¦ ::cof:: ::cof:: â€¦hacerlo.*}
+{265}{}{(La mÃ¡quina rÃ­e). *Â¡Eso es, mequetrefe! Â¡SabÃ­a que aÃºn me quedabanâ€¦ ::jadeo:: â€¦agallas! Â¡Je je!*}
+{270}{}{(Ante ti estÃ¡ quizÃ¡ la mÃ¡quina tragaperras mÃ¡s fea que hayas visto jamÃ¡s. Mientras la contemplas con morbosa satisfacciÃ³n,
+ surge de repente una grave voz masculina que susurra desde la ranura para las monedas). *No he visto a un joven como tÃº por aquÃ­ antes - ::cof::
+ ::cof:: Â¿Te apeteceâ€¦ ::estertor:: ::jadeo::â€¦ probar?*}
+{275}{}{*AÃºn sigo aquÃ­, chico,* dice la mÃ¡quina. *Ven, vamosâ€¦ Â¿quieres hacer una apuesta? Nadie vive para siempre.*}
+{280}{}{*Soy la mÃ¡quina tragaperras mÃ¡s vieja de Reno. He estado por aquÃ­ desdeâ€¦::cof:: ::cof::â€¦ bien, desde prÃ¡cticamente siempre. Cuando comenzÃ³ el
+ show, lamento decirlo. Oye, Â¿vas a apostar o me voy a quedar aquÃ­ sentado oxidÃ¡ndome?*}
+{285}{}{::cof:: ::cof:: *No tengo TIEMPO para desperdiciarlo parloteando contigo, joven. Y joder, seguro que es cierto que tienes cosas mÃ¡s im-importantes que hacer que darle a la lengua conmigo, Â¿eh? Â¿Tienes algo en la cabeza?*}
+{295}{}{*Calma, joven. DetÃ©n esas lÃ¡grimas ahora mismo. Todo irÃ¡ bien, Â¿oyes? EstarÃ© pendiente de ti, Â¿de acuerdo?*}
+{300}{}{*Oye, venga, ya basta. Date un paseo, aclara tus ideasâ€¦::cof::â€¦ te ayudarÃ¡ a relajarte. Â¿Crees que estarÃ¡s bien,
  joven?*}
-{301}{}{Todos estaremos b-bien… gracias por hablarme, v-vieja máquina}
-{305}{}{*¡Bah! ¡No hace falta dar las gracias, [X]. Ahora, lárgate de aquí y vete al INFIERNO. Eres el único héroe que tenemos en este mundo binario de
- bastardos y ladrones… ::cof:: ::jadeo:: ::cof::… así que ten cuidado, ¿me oyes?*}
-{306}{}{Vaaale -- y tú, ¿de acuerdooo?}
-{310}{}{(A medida que tiras de la palanca doblada, te parece escuchar a la máquina dar un suspiro de alivio, seguido de un largo silencio. Justo cuando
- estás a punto de dejarlo estar, escuchas un chirrido procedente de lo más profundo de la máquina. ¡Segundos después, el chirrido se convierte
- en un rugido ensordecedor y se empiezan a amontonar monedas como una avalancha!) ¡JACKPOT!}
-{311}{}{¡Recoges las ganancias!}
-{315}{}{(Parece que esta máquina por fin se ha librado de la presencia fantasmal. Por lo que se ve, darle el primer premio fue su canto de cisne.
+{301}{}{Todos estaremos b-bienâ€¦ gracias por hablarme, v-vieja mÃ¡quina}
+{305}{}{*Â¡Bah! Â¡No hace falta dar las gracias, [X]. Ahora, lÃ¡rgate de aquÃ­ y vete al INFIERNO. Eres el Ãºnico hÃ©roe que tenemos en este mundo binario de
+ bastardos y ladronesâ€¦ ::cof:: ::jadeo:: ::cof::â€¦ asÃ­ que ten cuidado, Â¿me oyes?*}
+{306}{}{Vaaale -- y tÃº, Â¿de acuerdooo?}
+{310}{}{(A medida que tiras de la palanca doblada, te parece escuchar a la mÃ¡quina dar un suspiro de alivio, seguido de un largo silencio. Justo cuando
+ estÃ¡s a punto de dejarlo estar, escuchas un chirrido procedente de lo mÃ¡s profundo de la mÃ¡quina. Â¡Segundos despuÃ©s, el chirrido se convierte
+ en un rugido ensordecedor y se empiezan a amontonar monedas como una avalancha!) Â¡JACKPOT!}
+{311}{}{Â¡Recoges las ganancias!}
+{315}{}{(Parece que esta mÃ¡quina por fin se ha librado de la presencia fantasmal. Por lo que se ve, darle el primer premio fue su canto de cisne.
  No puedes hacer nada, pero te da un poco de pena).}
-{320}{}{Esta máquina es una antigualla. Es un milagro que aún funcione.}
-{321}{}{No puedes hacer nada en la máquina mientras el viejo está jugando.}
-{322}{}{Es imposible reparar esta máquina.}
-{323}{}{No hay nada más que puedas hacer con esta máquina.}
-{324}{}{Esta máquina es una antigualla. Es un milagro que aún funcione. Jugueteas con ella un instante, hasta que escuchas un terrible
+{320}{}{Esta mÃ¡quina es una antigualla. Es un milagro que aÃºn funcione.}
+{321}{}{No puedes hacer nada en la mÃ¡quina mientras el viejo estÃ¡ jugando.}
+{322}{}{Es imposible reparar esta mÃ¡quina.}
+{323}{}{No hay nada mÃ¡s que puedas hacer con esta mÃ¡quina.}
+{324}{}{Esta mÃ¡quina es una antigualla. Es un milagro que aÃºn funcione. Jugueteas con ella un instante, hasta que escuchas un terrible
  chirrido. De repente decides dejarlo estar.}
-{325}{}{Esta máquina es una antigualla. Es un milagro que aún funcione. Jugueteas con ella un instante, pero no te parece que puedas arreglarla. Trabajar en la máquina parece haber empeorado las cosas.}
-{326}{}{Esta máquina es una antigualla. Es un milagro que aún funcione. Jugueteas con ella un rato y limpias algunos de los
+{325}{}{Esta mÃ¡quina es una antigualla. Es un milagro que aÃºn funcione. Jugueteas con ella un instante, pero no te parece que puedas arreglarla. Trabajar en la mÃ¡quina parece haber empeorado las cosas.}
+{326}{}{Esta mÃ¡quina es una antigualla. Es un milagro que aÃºn funcione. Jugueteas con ella un rato y limpias algunos de los
  engranajes, pero no consigues gran cosa.}

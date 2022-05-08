@@ -1,4 +1,4 @@
-1:A menedékvárosi mészárlás legendává vált.
+1:A menedÃ©kvÃ¡rosi mÃ©szÃ¡rlÃ¡s legendÃ¡vÃ¡ vÃ¡lt.
 2:One day it was a thriving community, and the next, the body of its Citizens lay strewn throughout the streets.
-3:Úgy t?nt, mintha rablók ütöttek volna rajta a városon, de egyetlen támadó holttestére sem bukkantak rá.
-4:Úgy t?nt, mintha rablók ütöttek volna rajta a városon, de egyetlen támadó holttestére sem bukkantak rá.
+3:Ãšgy t?nt, mintha rablÃ³k Ã¼tÃ¶ttek volna rajta a vÃ¡roson, de egyetlen tÃ¡madÃ³ holttestÃ©re sem bukkantak rÃ¡.
+4:Ãšgy t?nt, mintha rablÃ³k Ã¼tÃ¶ttek volna rajta a vÃ¡roson, de egyetlen tÃ¡madÃ³ holttestÃ©re sem bukkantak rÃ¡.

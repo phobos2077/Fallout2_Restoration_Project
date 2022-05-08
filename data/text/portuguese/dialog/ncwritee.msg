@@ -15,7 +15,7 @@
 {203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
 {204}{}{Ei! }
 {205}{}{Way to smash the Enclave, }
-{206}{}{Você deve ter sido mais forte que Tommy Bengala para destruir a Enclave assim.}
+{206}{}{VocÃª deve ter sido mais forte que Tommy Bengala para destruir a Enclave assim.}
 {207}{}{Those Enclave fellas sound like real bastards.}
 {208}{}{They were gonna dump some new VIRUS into the air? Bastards. Hope you shot a few for me.}
 {209}{}{I thought the President was a myth, a boogeyman used to scare children.}
@@ -25,15 +25,15 @@
 {213}{}{New Reno was designed by Chris Avellone and scripted by Tom French. Tom plays in a band. Chris plays with himself.}
 {214}{}{I hope I get to be a major character in Fallout 3, like Tandi or Ian. Bein' a thug sucks.}
 {215}{}{Heard you busted up that Enclave down South. You're pretty brave.}
-{225}{}{Como você usa o banheiro com isso?}
+{225}{}{Como vocÃª usa o banheiro com isso?}
 {230}{}{Keep that weapon outta sight around the youngsters, okay?}
 {231}{}{Don't be flashin' that weapon 'round the youngsters, okay?}
 {235}{}{You nearly scart the devil outta me, sneakin' around like that!}
 {236}{}{Why're you skulkin' around like that?}
 {237}{}{Whoa! Stop tryin' ta make like a shadow... I almost shot you, fer Chrissakes! Sheesh.}
-{240}{}{Saudações, }
+{240}{}{SaudaÃ§Ãµes, }
 {241}{}{Damn hot, innit,}
-{242}{}{Saudações, }
+{242}{}{SaudaÃ§Ãµes, }
 {245}{}{It's one of the }
 {250}{}{It's one of the }
 {255}{}{It's one of the }
@@ -47,18 +47,18 @@
 {280}{}{What're you sneakin' around for? That'll get you shot.}
 {281}{}{What th' hell... er, heck, you sneakin' around for? You lookin' to get shot?}
 {285}{}{Is that some kind of slot machine that's followin' you around?}
-{286}{}{Isso é um robô caça-níqueis?}
+{286}{}{Isso Ã© um robÃ´ caÃ§a-nÃ­queis?}
 {287}{}{Is that a brain inside that robot thing? Yechhh.}
 {288}{}{That some kind of rovin' brain display case you got with you?}
 {289}{}{That a robot? I ain't never seen one of those before.}
-{295}{}{Diga que aquilo não é um mutante.}
+{295}{}{Diga que aquilo nÃ£o Ã© um mutante.}
 {296}{}{That a mutant?}
 {297}{}{Holy brahmin turds. Mutants in New Reno. Must mean trouble...}
-{298}{}{Aquele mutante é um dos grandes.}
+{298}{}{Aquele mutante Ã© um dos grandes.}
 {299}{}{That mutant o' yours better watch himself round here, y'hear me?}
-{305}{}{O que você quer?}
+{305}{}{O que vocÃª quer?}
 {306}{}{Help you with somethin'?}
-{307}{}{Desgraça de calor...}
+{307}{}{DesgraÃ§a de calor...}
 {308}{}{New Reno gets uglier every day...}
 {309}{}{What're you doing round here?}
 {310}{}{If you're lookin' for alcohol, the train station is the place to be.}
@@ -70,16 +70,16 @@
 {324}{}{You lookin' for a car wash?}
 {325}{}{You look like you belong in a battle mech computer game. This is Fallout 2. Maybe you opened the
  wrong folder on your hard drive?}
-{326}{}{Como você usa o banheiro com isso?}
+{326}{}{Como vocÃª usa o banheiro com isso?}
 {335}{}{How're you, }
 {336}{}{Good to have you in the family, uh, even though you aren't family, y'know? Uh... nevermind.}
-{337}{}{Ouvi dizer que Tommy Bengala estava de volta à cidade. Assustador.}
+{337}{}{Ouvi dizer que Tommy Bengala estava de volta Ã  cidade. Assustador.}
 {338}{}{We Wrights are the strongest family 'cause we ARE family.}
 {339}{}{Shame about my lil' brother. He was a good kid, but Jet's all over this town, hard to avoid it...}
 {340}{}{Dad said he'd strangle us if he ever hears about us takin' Jet.}
 {341}{}{Dad's still upset, so be careful when you talk to him, y'hear?}
 {342}{}{Chris's gonna get a whippin' if he keeps sneakin' inta the whorehouse.}
-{343}{}{Desgraça de calor...}
+{343}{}{DesgraÃ§a de calor...}
 {344}{}{Ain't seen Mom for a while. If you see her, don't mention nothin' about the stills, 'kay?}
 {345}{}{Keith took apart the piano last week and put it back together. Smart kid.}
 {346}{}{We're going huntin' for radscorpions again in a few days.}
@@ -104,7 +104,7 @@
 {368}{}{Dad said he'd strangle us if he ever hears 'bout us takin' Jet.}
 {369}{}{Dad's still upset, so be careful when you talk to him, you hear?}
 {370}{}{Chris's gonna get a whippin' if he keeps sneakin' inta the whorehouse.}
-{371}{}{Desgraça de calor...}
+{371}{}{DesgraÃ§a de calor...}
 {372}{}{Keith took apart the piano last week and put it back together. Smart kid.}
 {373}{}{We're going huntin' for radscorpions again in a few days.}
 {374}{}{Are you REALLY talkin' to God when you're havin' sex on stage?}
@@ -137,9 +137,9 @@
 {427}{}{I suggest you and yer ghoul friend leave before there's trouble.}
 {1204}{}{! Way to kick the Enclave's ass... er, butt!}
 {1205}{}{. That took some serious guts.}
-{1240}{}{. O que você tem feito?}
+{1240}{}{. O que vocÃª tem feito?}
 {1241}{}{?}
-{1242}{}{. Como estão as coisas?}
+{1242}{}{. Como estÃ£o as coisas?}
 {1245}{}{ family! And he's armed! Call the others!}
 {1250}{}{ family! And she's armed! Call the others!}
 {1255}{}{ family sneakin' around! Call the others!}

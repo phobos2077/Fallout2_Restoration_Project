@@ -1,4 +1,4 @@
-{100}{}{Você vê um boxeador.}
+{100}{}{VocÃª vÃª um boxeador.}
 {101}{}{You see Mike "the Masticator."}
 {150}{}{His arms look like tree trunks.}
 {151}{}{Each arm looks like it could double as a tank barrel.}

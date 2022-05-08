@@ -1,1 +1,1 @@
-{100}{}{Przed tob¹ z³omowisko w Gecko.}
+{100}{}{Przed tobÄ… zÅ‚omowisko w Gecko.}

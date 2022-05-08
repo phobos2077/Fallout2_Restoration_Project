@@ -1,18 +1,18 @@
-{100}{}{Widzisz podejrzliwie zerkaj¹cego stra¿nika.}
-{101}{}{Widzisz groŸnie spogl¹daj¹cego stra¿nika.}
-{102}{}{Zajmij siê swoimi sprawami.}
-{103}{}{S¹dzê, ¿e najwy¿szy czas byœ sobie poszed³.}
-{104}{}{Nie lubiê twojego widoku.}
-{105}{}{Tylko uwa¿aj.}
+{100}{}{Widzisz podejrzliwie zerkajÄ…cego straÅ¼nika.}
+{101}{}{Widzisz groÅºnie spoglÄ…dajÄ…cego straÅ¼nika.}
+{102}{}{Zajmij siÄ™ swoimi sprawami.}
+{103}{}{SÄ…dzÄ™, Å¼e najwyÅ¼szy czas byÅ› sobie poszedÅ‚.}
+{104}{}{Nie lubiÄ™ twojego widoku.}
+{105}{}{Tylko uwaÅ¼aj.}
 {106}{}{Witam, Obywatelu.}
-{107}{}{Mi³o ciê widzieæ, obywatelu.}
-{108}{}{Pracowity dzieñ, obywatelu?}
+{107}{}{MiÅ‚o ciÄ™ widzieÄ‡, obywatelu.}
+{108}{}{Pracowity dzieÅ„, obywatelu?}
 {109}{}{Ty przodem, obywatelu.}
-{110}{}{Witaj, wêdrowcze.}
-{111}{}{Zajmij siê swoimi sprawami, przybyszu.}
-{112}{}{Przestañ siê w³óczyæ bez celu.}
-{113}{}{Je¿eli chcesz dostaæ siê do Kryptopolis, porozmawiaj z Wallacem.}
-{114}{}{Nic szczególnego, Kapitanie.}
+{110}{}{Witaj, wÄ™drowcze.}
+{111}{}{Zajmij siÄ™ swoimi sprawami, przybyszu.}
+{112}{}{PrzestaÅ„ siÄ™ wÅ‚Ã³czyÄ‡ bez celu.}
+{113}{}{JeÅ¼eli chcesz dostaÄ‡ siÄ™ do Kryptopolis, porozmawiaj z Wallacem.}
+{114}{}{Nic szczegÃ³lnego, Kapitanie.}
 {115}{}{Po prostu miej oczy szeroko otwarte, Kapitanie.}
 {116}{}{Kryptopolis na wieki, Kapitanie.}
-{117}{}{Dzieñ dobry, Kapitanie.}
+{117}{}{DzieÅ„ dobry, Kapitanie.}

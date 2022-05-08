@@ -1,186 +1,186 @@
-{100}{}{Ves una máquina tragaperras.}
-{101}{}{Ves una brillante máquina tragaperras.}
-{150}{}{Ves una máquina tragaperras. Jurarías que te está mirando por el rabillo del ojo.}
-{151}{}{Ves una máquina tragaperras. Su brillante carcasa y dorada palanca resplandecen seductoramente bajo las luces de Nuevo Reno.}
-{152}{}{Ves una brillante máquina tragaperras. Está diseñada para grandes apostadores… la apuesta mínima es de }
+{100}{}{Ves una mÃ¡quina tragaperras.}
+{101}{}{Ves una brillante mÃ¡quina tragaperras.}
+{150}{}{Ves una mÃ¡quina tragaperras. JurarÃ­as que te estÃ¡ mirando por el rabillo del ojo.}
+{151}{}{Ves una mÃ¡quina tragaperras. Su brillante carcasa y dorada palanca resplandecen seductoramente bajo las luces de Nuevo Reno.}
+{152}{}{Ves una brillante mÃ¡quina tragaperras. EstÃ¡ diseÃ±ada para grandes apostadoresâ€¦ la apuesta mÃ­nima es de }
 {153}{}{ fichas.}
-{154}{}{Ves una brillante máquina tragaperras.}
+{154}{}{Ves una brillante mÃ¡quina tragaperras.}
 {160}{}{*Ven a jugar un rato conmigo, vaquero*.}
 {161}{}{*Hola, guapo*.}
-{162}{}{*Pon una ficha, tira del brazo. Será bueno para ti.*}
-{163}{}{*Tick… Tick… Tiiiiick…*}
+{162}{}{*Pon una ficha, tira del brazo. SerÃ¡ bueno para ti.*}
+{163}{}{*Tickâ€¦ Tickâ€¦ Tiiiiickâ€¦*}
 {164}{}{*Hola, hermosura. Ven a jugar un rato conmigo*.}
 {165}{}{*Hola, hermosura*.}
-{166}{}{*Mira qué cosita tan guapa. ¿Por qué no vienes a jugar conmigo?*}
+{166}{}{*Mira quÃ© cosita tan guapa. Â¿Por quÃ© no vienes a jugar conmigo?*}
 {175}{}{*Ding*}
 {176}{}{*Bing*}
 {177}{}{*Kaaa-ching*}
 {178}{}{*Zzzzzzz*}
 {179}{}{*Ring-a-ling*}
 {180}{}{*Dingity-ding*}
-{185}{}{Ves una extraña caja de metal dorado con tres ojos y un brazo. Es una de las cosas más bonitas que hayas visto nunca.}
+{185}{}{Ves una extraÃ±a caja de metal dorado con tres ojos y un brazo. Es una de las cosas mÃ¡s bonitas que hayas visto nunca.}
 {186}{}{Yo }
-{187}{}{ quién tú}
-{188}{}{Quiero a MAMÁ. }
-{189}{}{ extraño ARR-YO. Quiero ir a casa.}
+{187}{}{ quiÃ©n tÃº}
+{188}{}{Quiero a MAMÃ. }
+{189}{}{ extraÃ±o ARR-YO. Quiero ir a casa.}
 {190}{}{Le estrechas la mano.}
 {191}{}{eres mutante raro.}
-{192}{}{¡Alabemos el Refugio! ¡Alabemos el Refugio!}
-{193}{}{¿Eres un chip de agua?}
+{192}{}{Â¡Alabemos el Refugio! Â¡Alabemos el Refugio!}
+{193}{}{Â¿Eres un chip de agua?}
 {194}{}{Te alejas, buscando otras cosas brillantes.}
 {195}{}{Te marchas.}
 {205}{}{La rara caja de metal dorado con tres ojos y un brazo no contesta.}
 {206}{}{YO }
 {207}{}{ CONTESTA A MI.}
 {208}{}{Le estrechas la mano.}
-{209}{}{Yo hijo de Morador de Refugio y tú me hablas AHORA.}
+{209}{}{Yo hijo de Morador de Refugio y tÃº me hablas AHORA.}
 {210}{}{eres mutante raro.}
-{211}{}{¿Eres un chip de agua?}
+{211}{}{Â¿Eres un chip de agua?}
 {212}{}{Te alejas, buscando otras cosas brillantes.}
 {213}{}{Te marchas.}
-{220}{}{Le agarras el brazo y lo sacudes con fuerza. ¡Al hacerlo, escuchas un *bzzzzzzz,* y la caja
- habla! "Por favor… introduce… moneda".}
+{220}{}{Le agarras el brazo y lo sacudes con fuerza. Â¡Al hacerlo, escuchas un *bzzzzzzz,* y la caja
+ habla! "Por favorâ€¦ introduceâ€¦ moneda".}
 {221}{}{Aighhhhh! Robot! Robot! Funcionaaaaar}
 {222}{}{Te marchas.}
-{225}{}{No tienes suficiente dinero para jugar, y maldices tu pobreza. Tal vez en otra ocasión…}
+{225}{}{No tienes suficiente dinero para jugar, y maldices tu pobreza. Tal vez en otra ocasiÃ³nâ€¦}
 {226}{}{Te marchas.}
-{230}{}{Ves una máquina tragaperras. Su brillante carcasa y dorada palanca resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para monedas te atrae, y sientes que tu cara se ruboriza por las expectativas.}
-{231}{}{(Tu mano tiembla mientras buscas tus fichas. La máquina sigue susurrándote.) *Venga, dulzura… eso es… vamos… no me provoques…*}
-{232}{}{(Tu mano tiembla mientras buscas tus fichas. La máquina sigue susurrándote.) *Vamos, cariño… eso es… sujeta la palanca… sujétala con fuerza… vamos…*}
+{230}{}{Ves una mÃ¡quina tragaperras. Su brillante carcasa y dorada palanca resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para monedas te atrae, y sientes que tu cara se ruboriza por las expectativas.}
+{231}{}{(Tu mano tiembla mientras buscas tus fichas. La mÃ¡quina sigue susurrÃ¡ndote.) *Venga, dulzuraâ€¦ eso esâ€¦ vamosâ€¦ no me provoquesâ€¦*}
+{232}{}{(Tu mano tiembla mientras buscas tus fichas. La mÃ¡quina sigue susurrÃ¡ndote.) *Vamos, cariÃ±oâ€¦ eso esâ€¦ sujeta la palancaâ€¦ sujÃ©tala con fuerzaâ€¦ vamosâ€¦*}
 {233}{}{Te quedan }
-{234}{}{ fichas. ¿Las arriesgas todas?}
+{234}{}{ fichas. Â¿Las arriesgas todas?}
 {235}{}{Te quedan }
-{236}{}{ fichas. ¿Apuestas }
+{236}{}{ fichas. Â¿Apuestas }
 {237}{}{ ficha?}
-{238}{}{¿Apuestas }
+{238}{}{Â¿Apuestas }
 {239}{}{ fichas?}
 {240}{}{Lo dejas para otra noche.}
-{241}{}{Lo dejas para otro día.}
-{245}{}{Las ruedas giran y… no pasa nada.}
-{246}{}{NADA. ¡NADA! Escuchas su risa, y te enfadas… los gorilas se ven forzados a hacer fuerza para alejarte de la máquina mientras gritas.}
-{247}{}{(La máquina se ríe). *Tengo todo lo que quiero de esta relación. Lo siento, cariño. No dejes que la puerta del casino te dé en el trasero cuando salgas. Ja ja ja ja ja ja.*}
+{241}{}{Lo dejas para otro dÃ­a.}
+{245}{}{Las ruedas giran yâ€¦ no pasa nada.}
+{246}{}{NADA. Â¡NADA! Escuchas su risa, y te enfadasâ€¦ los gorilas se ven forzados a hacer fuerza para alejarte de la mÃ¡quina mientras gritas.}
+{247}{}{(La mÃ¡quina se rÃ­e). *Tengo todo lo que quiero de esta relaciÃ³n. Lo siento, cariÃ±o. No dejes que la puerta del casino te dÃ© en el trasero cuando salgas. Ja ja ja ja ja ja.*}
 {248}{}{Ahora tienes }
-{249}{}{ fichas. ¿Intentas recuperar tus pérdidas y sigues jugando?}
+{249}{}{ fichas. Â¿Intentas recuperar tus pÃ©rdidas y sigues jugando?}
 {250}{}{Te quedan }
-{251}{}{ fichas. ¿Las arriesgas todas?}
-{252}{}{Te has arruinado. Tienes que dejarlo para otro día.}
+{251}{}{ fichas. Â¿Las arriesgas todas?}
+{252}{}{Te has arruinado. Tienes que dejarlo para otro dÃ­a.}
 {253}{}{Te has arruinado. Tienes que dejarlo para otra noche.}
 {254}{}{Lo dejas para otra noche.}
-{255}{}{Lo dejas para otro día.}
+{255}{}{Lo dejas para otro dÃ­a.}
 {260}{}{Tres Dagas. Recuperas lo jugado.}
-{261}{}{(La máquina continúa susurrándote). *Vamos, dulzura …le pasa a todo el mundo al menos una vez… vuelve a intentarlo… por favor…*}
-{262}{}{(La máquina continúa susurrándote). *Vamos, cariño… eso es… agarra la palanca… sujétala firmemente… vamos ya…*}
-{263}{}{Aún te quedan }
-{264}{}{ ficha. ¿Sigues jugando?}
+{261}{}{(La mÃ¡quina continÃºa susurrÃ¡ndote). *Vamos, dulzura â€¦le pasa a todo el mundo al menos una vezâ€¦ vuelve a intentarloâ€¦ por favorâ€¦*}
+{262}{}{(La mÃ¡quina continÃºa susurrÃ¡ndote). *Vamos, cariÃ±oâ€¦ eso esâ€¦ agarra la palancaâ€¦ sujÃ©tala firmementeâ€¦ vamos yaâ€¦*}
+{263}{}{AÃºn te quedan }
+{264}{}{ ficha. Â¿Sigues jugando?}
 {265}{}{Ahora te quedan }
-{266}{}{ fichas. ¿Sigues jugando?}
+{266}{}{ fichas. Â¿Sigues jugando?}
 {267}{}{Lo dejas para otra noche.}
-{268}{}{Lo dejas para otro día.}
-{275}{}{¡Tres Balas! ¡Doblas tu dinero!}
-{276}{}{((La máquina emite un suspiro de placer). *Eso es, dulzura… sigue sujetando la palanca… más rápido, más fuerte, más rápido… vamos, ahora…*}
-{277}{}{(La máquina emite un suspiro de placer). *Eso es, cariño… sigue sujetando la palanca… más rápido, más fuerte, más rápido… vamos, ahora…*}
+{268}{}{Lo dejas para otro dÃ­a.}
+{275}{}{Â¡Tres Balas! Â¡Doblas tu dinero!}
+{276}{}{((La mÃ¡quina emite un suspiro de placer). *Eso es, dulzuraâ€¦ sigue sujetando la palancaâ€¦ mÃ¡s rÃ¡pido, mÃ¡s fuerte, mÃ¡s rÃ¡pidoâ€¦ vamos, ahoraâ€¦*}
+{277}{}{(La mÃ¡quina emite un suspiro de placer). *Eso es, cariÃ±oâ€¦ sigue sujetando la palancaâ€¦ mÃ¡s rÃ¡pido, mÃ¡s fuerte, mÃ¡s rÃ¡pidoâ€¦ vamos, ahoraâ€¦*}
 {278}{}{Ahora tienes }
-{279}{}{ fichas! ¿Sigues jugando?}
+{279}{}{ fichas! Â¿Sigues jugando?}
 {280}{}{Lo dejas para otra noche.}
-{281}{}{Lo dejas para otro día.}
-{290}{}{Tres Granadas! ¡Acojonante! ¡Triplicas tu dinero!}
-{291}{}{(La máquina chilla de placer mientras las fichas resuenan en la bandeja). *¡Aaaaaaaah! ¡Eso es, dulzura! Oh, Dios, sí! ¡Sí! ¡Sí, otra vez! ¡Más rápido! ¡Más fuerte! ¡¿A qué estás esperando?! ¡Otra vez!*}
-{292}{}{(La máquina gruñe de placer mientras las fichas resuenan en la bandeja). *Ennnnghhhh! ¡Eso es, cariño! ¿Quién es tu macho?! ¡¿Quién es tu macho?!! ¡Hazlo otra vez! ¡Tira más fuerte esta vez! ¡Más fuerte!*}
+{281}{}{Lo dejas para otro dÃ­a.}
+{290}{}{Tres Granadas! Â¡Acojonante! Â¡Triplicas tu dinero!}
+{291}{}{(La mÃ¡quina chilla de placer mientras las fichas resuenan en la bandeja). *Â¡Aaaaaaaah! Â¡Eso es, dulzura! Oh, Dios, sÃ­! Â¡SÃ­! Â¡SÃ­, otra vez! Â¡MÃ¡s rÃ¡pido! Â¡MÃ¡s fuerte! Â¡Â¿A quÃ© estÃ¡s esperando?! Â¡Otra vez!*}
+{292}{}{(La mÃ¡quina gruÃ±e de placer mientras las fichas resuenan en la bandeja). *Ennnnghhhh! Â¡Eso es, cariÃ±o! Â¿QuiÃ©n es tu macho?! Â¡Â¿QuiÃ©n es tu macho?!! Â¡Hazlo otra vez! Â¡Tira mÃ¡s fuerte esta vez! Â¡MÃ¡s fuerte!*}
 {293}{}{Haces la danza de la victoria, girando las caderas y levantando los brazos en el aire, luego respiras profundamente y sigues jugando.}
-{294}{}{¡Vamos, granadas! ¡La nena necesita un nuevo par de zapatos! (Sigues jugando).}
+{294}{}{Â¡Vamos, granadas! Â¡La nena necesita un nuevo par de zapatos! (Sigues jugando).}
 {295}{}{Ahora tienes }
-{296}{}{ fichas. ¿Sigues jugando?}
+{296}{}{ fichas. Â¿Sigues jugando?}
 {297}{}{Lo dejas para otra noche.}
-{298}{}{Lo dejas para otro día.}
-{305}{}{(Ves una máquina tragaperras. Su estructura brillante y su palanca dorada resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae, y sientes cómo te ruborizas por la expectación. Mientras la miras, te guiña uno de sus tres ojos. Escuchas una voz grave susurrando desde la ranura para monedas). *¡Vaya, vaya! Hoooola, cielo. ¿Le harás pasar a esta nena un buen rato?*}
-{306}{}{(Ves una máquina tragaperras. Su fuerte y tosca estructura y su palanca dorada brillan como el sol bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae seductoramente, y sientes que los muslos te arden por la excitación. Mientras la miras, de repente una fuerte voz masculina susurra desde la ranura para monedas). *Jamás he visto a una mujer tan hermosa como tú antes, señorita. ¿Quieres una oportunidad conmigo?*}
+{298}{}{Lo dejas para otro dÃ­a.}
+{305}{}{(Ves una mÃ¡quina tragaperras. Su estructura brillante y su palanca dorada resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae, y sientes cÃ³mo te ruborizas por la expectaciÃ³n. Mientras la miras, te guiÃ±a uno de sus tres ojos. Escuchas una voz grave susurrando desde la ranura para monedas). *Â¡Vaya, vaya! Hoooola, cielo. Â¿Le harÃ¡s pasar a esta nena un buen rato?*}
+{306}{}{(Ves una mÃ¡quina tragaperras. Su fuerte y tosca estructura y su palanca dorada brillan como el sol bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae seductoramente, y sientes que los muslos te arden por la excitaciÃ³n. Mientras la miras, de repente una fuerte voz masculina susurra desde la ranura para monedas). *JamÃ¡s he visto a una mujer tan hermosa como tÃº antes, seÃ±orita. Â¿Quieres una oportunidad conmigo?*}
 {307}{}{::Te pellizcas::}
-{308}{}{Eh... ¿hola?}
+{308}{}{Eh... Â¿hola?}
 {309}{}{::Respiras profundamente, y te vas.::}
-{315}{}{*Sigo aquí, preciosa.* (La máquina baja el tono de voz). *Venga, vamos… ¿quieres hacer una apuesta?*}
-{316}{}{*Sigo aquí,dulzura*. (La máquina tragaperras baja la voz). *Eres todo un hombre, ¿sabes? Venga, vamos… ¿me quieres meter unas fichas?*}
-{317}{}{¿Quieeeen ERES tuuuu?}
-{318}{}{Cl-laro que har-ré una apuesssta}
-{319}{}{Creo que será mejor que me marche antes de que te meta algo que lamentaré más tarde.}
+{315}{}{*Sigo aquÃ­, preciosa.* (La mÃ¡quina baja el tono de voz). *Venga, vamosâ€¦ Â¿quieres hacer una apuesta?*}
+{316}{}{*Sigo aquÃ­,dulzura*. (La mÃ¡quina tragaperras baja la voz). *Eres todo un hombre, Â¿sabes? Venga, vamosâ€¦ Â¿me quieres meter unas fichas?*}
+{317}{}{Â¿Quieeeen ERES tuuuu?}
+{318}{}{Cl-laro que har-rÃ© una apuesssta}
+{319}{}{Creo que serÃ¡ mejor que me marche antes de que te meta algo que lamentarÃ© mÃ¡s tarde.}
 {320}{}{::Respiras profundamente, y te vas.::}
-{325}{}{*Soy tu hombre ideal*. (La máquina tragaperras te hace un guiño). *Dame unas pocas fichas, y te daré placer de formas que ningún hombre JAMÁS ha sabido darte.*}
-{326}{}{*Soy tu mujer idea, dulzura. Todo lo que quiero es un poco de atención. ¿Puedes hacerlo? Venga, sólo una o dos fichas?*}
-{327}{}{¿No podemos s-solo hablar?}
-{328}{}{Cl-laro que har-ré una apuesssta}
-{329}{}{Creo que será mejor que me marche antes de que te meta algo que lamentaré más tarde.}
+{325}{}{*Soy tu hombre ideal*. (La mÃ¡quina tragaperras te hace un guiÃ±o). *Dame unas pocas fichas, y te darÃ© placer de formas que ningÃºn hombre JAMÃS ha sabido darte.*}
+{326}{}{*Soy tu mujer idea, dulzura. Todo lo que quiero es un poco de atenciÃ³n. Â¿Puedes hacerlo? Venga, sÃ³lo una o dos fichas?*}
+{327}{}{Â¿No podemos s-solo hablar?}
+{328}{}{Cl-laro que har-rÃ© una apuesssta}
+{329}{}{Creo que serÃ¡ mejor que me marche antes de que te meta algo que lamentarÃ© mÃ¡s tarde.}
 {330}{}{::Respiras profundamente, y te vas.::}
-{335}{}{*Por supuesto que puedo, cielo, por supuesto que puedo*. (La máquina parece comprensiva). *¿Que le preocupa a tu cabecita?*}
-{336}{}{*Por supuesto que puedo, cielo, por supuesto que puedo*. (La máquina parece comprensiva). *¿Qué te preocupa, guapetón?*}
-{337}{}{Hecho de menos a MAMÁ y a ARROYO y… no puedo encontrar el GECK y… *sniff*}
-{338}{}{Hecho de menos a MAMÁ y Arroyo fue ATACADO y… no sé dónde están… y… *sniff*}
-{339}{}{Tengo que arreglar el gran barco… y no sé CÓMO… y m-m-mi MAMÁ se ha IDO y… *sniff*}
-{340}{}{He terminado de jugar… y ahora no hago más que dar vueltas y… me preocupa que todo haya ACABADO y… *sniff*}
-{341}{}{Es s-sólo que Fhallout no s-soporta mi maldita tarjeta gráf-fica y gasté tanto *dinero* y *sniff*}
-{342}{}{He intentado ha-hacerlo bien pero c-creo que he gastado *mal* todos mis puntos… y ahora s-soy una m-mierda de personaje… y… *sniff*}
-{343}{}{Estoy teniendo una co-cor-conversación con una máquina tragaperras, estoy bien jodido.}
+{335}{}{*Por supuesto que puedo, cielo, por supuesto que puedo*. (La mÃ¡quina parece comprensiva). *Â¿Que le preocupa a tu cabecita?*}
+{336}{}{*Por supuesto que puedo, cielo, por supuesto que puedo*. (La mÃ¡quina parece comprensiva). *Â¿QuÃ© te preocupa, guapetÃ³n?*}
+{337}{}{Hecho de menos a MAMÃ y a ARROYO yâ€¦ no puedo encontrar el GECK yâ€¦ *sniff*}
+{338}{}{Hecho de menos a MAMÃ y Arroyo fue ATACADO yâ€¦ no sÃ© dÃ³nde estÃ¡nâ€¦ yâ€¦ *sniff*}
+{339}{}{Tengo que arreglar el gran barcoâ€¦ y no sÃ© CÃ“MOâ€¦ y m-m-mi MAMÃ se ha IDO yâ€¦ *sniff*}
+{340}{}{He terminado de jugarâ€¦ y ahora no hago mÃ¡s que dar vueltas yâ€¦ me preocupa que todo haya ACABADO yâ€¦ *sniff*}
+{341}{}{Es s-sÃ³lo que Fhallout no s-soporta mi maldita tarjeta grÃ¡f-fica y gastÃ© tanto *dinero* y *sniff*}
+{342}{}{He intentado ha-hacerlo bien pero c-creo que he gastado *mal* todos mis puntosâ€¦ y ahora s-soy una m-mierda de personajeâ€¦ yâ€¦ *sniff*}
+{343}{}{Estoy teniendo una co-cor-conversaciÃ³n con una mÃ¡quina tragaperras, estoy bien jodido.}
 {344}{}{::Respiras profundamente, y te vas.::}
-{350}{}{*Vamos, vamos... que tu preciosa cabecita no se preocupe más por eso… tan solo deja que yo me ocupe de todo. Venga, descansa tu cabeza sobre mí. Vamos. Deja que salga todo*.}
-{351}{}{*Vamos, vamos... no te preocupes más, cielo… tan solo deja que yo me ocupe de todo. Venga, descansa tu hermosa cabeza sobre mí. Vamos. Deja que salga todo*.}
-{352}{}{Gracias, máquina tragap-perras *sniff* eres-eres la mejor}
-{353}{}{Tú única pedsona BUENA que he encontrado por ahí, todos MALOS que querían hacedme DAÑO y lle-llevarse mi dinero y… *sniff*}
+{350}{}{*Vamos, vamos... que tu preciosa cabecita no se preocupe mÃ¡s por esoâ€¦ tan solo deja que yo me ocupe de todo. Venga, descansa tu cabeza sobre mÃ­. Vamos. Deja que salga todo*.}
+{351}{}{*Vamos, vamos... no te preocupes mÃ¡s, cieloâ€¦ tan solo deja que yo me ocupe de todo. Venga, descansa tu hermosa cabeza sobre mÃ­. Vamos. Deja que salga todo*.}
+{352}{}{Gracias, mÃ¡quina tragap-perras *sniff* eres-eres la mejor}
+{353}{}{TÃº Ãºnica pedsona BUENA que he encontrado por ahÃ­, todos MALOS que querÃ­an hacedme DAÃ‘O y lle-llevarse mi dinero yâ€¦ *sniff*}
 {354}{}{::Respiras profundamente, y te vas.::}
-{360}{}{(Reposas tu cansada cabeza sobre la máquina).}
-{361}{}{*¿Seguro que estarás bien, cariño? No me siento cómoda dejando que te vayas solo cuando estás así*.}
-{362}{}{*¿Estarás bien, cielo? No me siento cómoda dejando que te vayas solo cuando estás así*.}
-{363}{}{Esssstaré bdien… grac-cias por hablar con-nmigo, m-m-máquina te quieeeeeero}
-{370}{}{(Una lágrima parece formarse en una de las ventanitas).}
-{371}{}{*Eres la única heroína que tenemos en este mundo binario de bastardos y ladrones, }
-{372}{}{. Ahora cuídate bien, ¿me oyes, cariño?* (Se da la vuelta). *Mejor que te vayas antes de que haga algo impropio de un hombre.*}
-{373}{}{*Eres el único héroe que tenemos en este mundo binario de bastardos y ladrones, }
-{374}{}{. Tú… tú… ahora cuídate, ¿me oyes, dulzura?* (Se da la vuelta). *Es mejor que te vayas antes de que empiece a llorar.*}
+{360}{}{(Reposas tu cansada cabeza sobre la mÃ¡quina).}
+{361}{}{*Â¿Seguro que estarÃ¡s bien, cariÃ±o? No me siento cÃ³moda dejando que te vayas solo cuando estÃ¡s asÃ­*.}
+{362}{}{*Â¿EstarÃ¡s bien, cielo? No me siento cÃ³moda dejando que te vayas solo cuando estÃ¡s asÃ­*.}
+{363}{}{EsssstarÃ© bdienâ€¦ grac-cias por hablar con-nmigo, m-m-mÃ¡quina te quieeeeeero}
+{370}{}{(Una lÃ¡grima parece formarse en una de las ventanitas).}
+{371}{}{*Eres la Ãºnica heroÃ­na que tenemos en este mundo binario de bastardos y ladrones, }
+{372}{}{. Ahora cuÃ­date bien, Â¿me oyes, cariÃ±o?* (Se da la vuelta). *Mejor que te vayas antes de que haga algo impropio de un hombre.*}
+{373}{}{*Eres el Ãºnico hÃ©roe que tenemos en este mundo binario de bastardos y ladrones, }
+{374}{}{. TÃºâ€¦ tÃºâ€¦ ahora cuÃ­date, Â¿me oyes, dulzura?* (Se da la vuelta). *Es mejor que te vayas antes de que empiece a llorar.*}
 {375}{}{Adioooos}
-{380}{}{Ves una máquina tragaperras para grandes apostadores: la apuesta mínima es }
+{380}{}{Ves una mÃ¡quina tragaperras para grandes apostadores: la apuesta mÃ­nima es }
 {381}{}{ fichas. Su brillante carcasa y dorada palanca resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para monedas te atrae, y sientes que tu cara se ruboriza por las expectativas.}
-{382}{}{(Tu mano tiembla mientras buscas tus fichas. La máquina sigue susurrándote.) *Venga, dulzura… eso es… vamos… no me provoques…*}
-{383}{}{(Tu mano tiembla mientras buscas tus fichas. La máquina sigue susurrándote.) *Vamos, cariño… eso es… sujeta la palanca… sujétala con fuerza… vamos…*}
+{382}{}{(Tu mano tiembla mientras buscas tus fichas. La mÃ¡quina sigue susurrÃ¡ndote.) *Venga, dulzuraâ€¦ eso esâ€¦ vamosâ€¦ no me provoquesâ€¦*}
+{383}{}{(Tu mano tiembla mientras buscas tus fichas. La mÃ¡quina sigue susurrÃ¡ndote.) *Vamos, cariÃ±oâ€¦ eso esâ€¦ sujeta la palancaâ€¦ sujÃ©tala con fuerzaâ€¦ vamosâ€¦*}
 {384}{}{Te quedan }
-{385}{}{ fichas. ¿Las arriesgas todas?}
+{385}{}{ fichas. Â¿Las arriesgas todas?}
 {386}{}{Te quedan }
-{387}{}{ fichas. ¿Apuestas }
+{387}{}{ fichas. Â¿Apuestas }
 {388}{}{ fichas?}
-{389}{}{¿Apuestas }
+{389}{}{Â¿Apuestas }
 {390}{}{ fichas?}
 {391}{}{Lo dejas para otra noche.}
-{392}{}{Lo dejas para otro día.}
-{400}{}{Las ruedas giran y… no pasa nada.}
-{401}{}{NADA. ¡NADA! Escuchas su risa, y te enfadas… los gorilas se ven forzados a hacer fuerza para alejarte de la máquina mientras gritas.)}
-{402}{}{(La máquina se ríe). *Tengo todo lo que quiero de esta relación. Lo siento, cariño. No dejes que la puerta del casino te dé en el trasero cuando salgas. Ja ja ja ja ja ja.*}
+{392}{}{Lo dejas para otro dÃ­a.}
+{400}{}{Las ruedas giran yâ€¦ no pasa nada.}
+{401}{}{NADA. Â¡NADA! Escuchas su risa, y te enfadasâ€¦ los gorilas se ven forzados a hacer fuerza para alejarte de la mÃ¡quina mientras gritas.)}
+{402}{}{(La mÃ¡quina se rÃ­e). *Tengo todo lo que quiero de esta relaciÃ³n. Lo siento, cariÃ±o. No dejes que la puerta del casino te dÃ© en el trasero cuando salgas. Ja ja ja ja ja ja.*}
 {403}{}{Ahora tienes }
-{404}{}{ fichas. ¿Intentas recuperar tus pérdidas y sigues jugando?}
+{404}{}{ fichas. Â¿Intentas recuperar tus pÃ©rdidas y sigues jugando?}
 {405}{}{Te quedan }
-{406}{}{ fichas. ¿Las arriesgas todas?}
+{406}{}{ fichas. Â¿Las arriesgas todas?}
 {407}{}{No puedes permitirte seguir jugando. Te ves forzado a dejarlo para otra noche.}
-{408}{}{No puedes permitirte seguir jugando. Te ves forzado a dejarlo para otro día.}
+{408}{}{No puedes permitirte seguir jugando. Te ves forzado a dejarlo para otro dÃ­a.}
 {409}{}{Lo dejas para otra noche.}
-{410}{}{Lo dejas para otro día.}
-{415}{}{Tres bombas… Recuperas lo jugado.}
-{416}{}{(La máquina continúa susurrándote). *Vamos, dulzura …le pasa a todo el mundo al menos una vez… vuelve a intentarlo… por favor…*}
-{417}{}{(La máquina continúa susurrándote). *Vamos, cariño… eso es… agarra la palanca… sujétala firmemente… vamos ya…*}
-{418}{}{Aún te quedan }
-{419}{}{ fichas. ¿Sigues jugando?}
+{410}{}{Lo dejas para otro dÃ­a.}
+{415}{}{Tres bombasâ€¦ Recuperas lo jugado.}
+{416}{}{(La mÃ¡quina continÃºa susurrÃ¡ndote). *Vamos, dulzura â€¦le pasa a todo el mundo al menos una vezâ€¦ vuelve a intentarloâ€¦ por favorâ€¦*}
+{417}{}{(La mÃ¡quina continÃºa susurrÃ¡ndote). *Vamos, cariÃ±oâ€¦ eso esâ€¦ agarra la palancaâ€¦ sujÃ©tala firmementeâ€¦ vamos yaâ€¦*}
+{418}{}{AÃºn te quedan }
+{419}{}{ fichas. Â¿Sigues jugando?}
 {420}{}{Lo dejas para otra noche.}
-{421}{}{Lo dejas para otro día.}
-{425}{}{Tres Armas Nucleares! ¡Doblas tu dinero!}
-{426}{}{((La máquina emite un suspiro de placer). *Eso es, dulzura… sigue sujetando la palanca… más rápido, más fuerte, más rápido… vamos, ahora…*}
-{427}{}{(La máquina emite un suspiro de placer). *Eso es, cariño… sigue sujetando la palanca… más rápido, más fuerte, más rápido… vamos, ahora…*}
+{421}{}{Lo dejas para otro dÃ­a.}
+{425}{}{Tres Armas Nucleares! Â¡Doblas tu dinero!}
+{426}{}{((La mÃ¡quina emite un suspiro de placer). *Eso es, dulzuraâ€¦ sigue sujetando la palancaâ€¦ mÃ¡s rÃ¡pido, mÃ¡s fuerte, mÃ¡s rÃ¡pidoâ€¦ vamos, ahoraâ€¦*}
+{427}{}{(La mÃ¡quina emite un suspiro de placer). *Eso es, cariÃ±oâ€¦ sigue sujetando la palancaâ€¦ mÃ¡s rÃ¡pido, mÃ¡s fuerte, mÃ¡s rÃ¡pidoâ€¦ vamos, ahoraâ€¦*}
 {428}{}{Ahora tienes }
-{429}{}{ fichas! ¿Sigues jugando?}
+{429}{}{ fichas! Â¿Sigues jugando?}
 {430}{}{Lo dejas para otra noche.}
-{431}{}{Lo dejas para otro día.}
-{435}{}{Tres Hongos Atómicos! ¡Triplicas tu dinero!}
-{436}{}{(La máquina chilla de placer mientras las fichas resuenan en la bandeja). *¡Aaaaaaaah! ¡Eso es, dulzura! Oh, Dios, sí! ¡Sí! ¡Sí, otra vez! ¡Más rápido! ¡Más fuerte! ¡¿A qué estás esperando?! ¡Otra vez!*}
-{437}{}{(La máquina gruñe de placer mientras las fichas resuenan en la bandeja). *Ennnnghhhh! ¡Eso es, cariño! ¿Quién es tu macho?! ¡¿Quién es tu macho?!! ¡Hazlo otra vez! ¡Tira más fuerte esta vez! ¡Más fuerte!*}
+{431}{}{Lo dejas para otro dÃ­a.}
+{435}{}{Tres Hongos AtÃ³micos! Â¡Triplicas tu dinero!}
+{436}{}{(La mÃ¡quina chilla de placer mientras las fichas resuenan en la bandeja). *Â¡Aaaaaaaah! Â¡Eso es, dulzura! Oh, Dios, sÃ­! Â¡SÃ­! Â¡SÃ­, otra vez! Â¡MÃ¡s rÃ¡pido! Â¡MÃ¡s fuerte! Â¡Â¿A quÃ© estÃ¡s esperando?! Â¡Otra vez!*}
+{437}{}{(La mÃ¡quina gruÃ±e de placer mientras las fichas resuenan en la bandeja). *Ennnnghhhh! Â¡Eso es, cariÃ±o! Â¿QuiÃ©n es tu macho?! Â¡Â¿QuiÃ©n es tu macho?!! Â¡Hazlo otra vez! Â¡Tira mÃ¡s fuerte esta vez! Â¡MÃ¡s fuerte!*}
 {438}{}{Haces la danza de la victoria, girando las caderas y levantando los brazos en el aire, luego respiras profundamente y sigues jugando.}
-{439}{}{¡Vamos, hongos atómicos! ¡La nena necesita un nuevo par de zapatos! (Sigues jugando).}
+{439}{}{Â¡Vamos, hongos atÃ³micos! Â¡La nena necesita un nuevo par de zapatos! (Sigues jugando).}
 {440}{}{Ahora tienes }
-{441}{}{ fichas. ¿Sigues jugando?}
+{441}{}{ fichas. Â¿Sigues jugando?}
 {442}{}{Lo dejas para otra noche.}
-{443}{}{Lo dejas para otro día.}
+{443}{}{Lo dejas para otro dÃ­a.}
 {1000}{}{Las probabilidades no parecen lo bastante buenas.}
 {1001}{}{Las probabilidades parecen buenas.}
 {1005}{}{No puedes estimar correctamente las probabilidades.}

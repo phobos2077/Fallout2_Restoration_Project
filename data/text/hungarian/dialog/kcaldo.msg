@@ -1,78 +1,78 @@
-{100}{}{Egy látszólag beteges férfit látsz, nagyon piszkos ruhában.}
-{101}{}{Ez Aldo, a város üdvözl?je. A leheletét már messzir?l érzed.}
-{200}{}{Üdv, pajtás! Még nem láttalak errefelé. Aldo vagyok, a város üdvözl?je. (hukk) Az én dolgom, hogy üdvözöljem az újonnan érkezetteket és válaszoljak a kérdéseikre err?l az idilli kis városról. Légy üdvözölve Klamathban! (hukk) Amúgy ki vagy?}
-{201}{}{Ööh, kösz a meleg fogadtatást, de csak átutazóban vagyok.}
+{100}{}{Egy lÃ¡tszÃ³lag beteges fÃ©rfit lÃ¡tsz, nagyon piszkos ruhÃ¡ban.}
+{101}{}{Ez Aldo, a vÃ¡ros Ã¼dvÃ¶zl?je. A leheletÃ©t mÃ¡r messzir?l Ã©rzed.}
+{200}{}{Ãœdv, pajtÃ¡s! MÃ©g nem lÃ¡ttalak errefelÃ©. Aldo vagyok, a vÃ¡ros Ã¼dvÃ¶zl?je. (hukk) Az Ã©n dolgom, hogy Ã¼dvÃ¶zÃ¶ljem az Ãºjonnan Ã©rkezetteket Ã©s vÃ¡laszoljak a kÃ©rdÃ©seikre err?l az idilli kis vÃ¡rosrÃ³l. LÃ©gy Ã¼dvÃ¶zÃ¶lve Klamathban! (hukk) AmÃºgy ki vagy?}
+{201}{}{Ã–Ã¶h, kÃ¶sz a meleg fogadtatÃ¡st, de csak Ã¡tutazÃ³ban vagyok.}
 {202}{}{A nevem }
 {203}{}{. Thanks for welcoming me here.}
-{204}{}{, Arroyóból. Én vagyok a Kiválasztott.}
-{205}{}{Nem hiszem, hogy tudnod kéne a nevemet, vagy bármi mást rólam. Kopj le, rohadt piás!}
-{206}{}{Nem hinném, hogy egy ilyen városnak, mint Klamath egy ilyen részeg disznó lenne az üdvözl?je, vagy bármi mása.}
-{300}{}{A hatalmas Kiválaszott, }
-{301}{}{, biztos nagyon fontos és hatalmas ember vagy a faludban. A magadfajta kaliber? ember minden bizonnyal szívesen követné a helyi szokást és megjutalmazná az üdvözl?jét. (böff)}
-{302}{}{Jutalomképp adok egy jótanácsot: ne igyál annyit!}
-{303}{}{Jutalmat akarsz? Hát, azt hiszem, 5 dollárt megér, hogy lekopj rólam.}
-{304}{}{Hát, nem szeretnék szakítani a hagyományokkal. 5 dollár elég lesz?}
-{305}{}{Inkább neked kéne megjutalmaznod engem, amiért nem szabadítom meg Klamathot t?led!}
-{306}{}{Bocs, de a Kiválasztottat nem érdekli a pénz - ezért nincs is nálam.}
-{350}{}{Hát, }
-{351}{}{ barátom, úgy látom (böff) hasznodra lenne némi útbaigazítás. De tudnod kell, hogy a szokás szerint valamiféle jutalmat illik adni az üdvözl?nek, miel?tt kérdez?sködni kezdesz.}
+{204}{}{, ArroyÃ³bÃ³l. Ã‰n vagyok a KivÃ¡lasztott.}
+{205}{}{Nem hiszem, hogy tudnod kÃ©ne a nevemet, vagy bÃ¡rmi mÃ¡st rÃ³lam. Kopj le, rohadt piÃ¡s!}
+{206}{}{Nem hinnÃ©m, hogy egy ilyen vÃ¡rosnak, mint Klamath egy ilyen rÃ©szeg disznÃ³ lenne az Ã¼dvÃ¶zl?je, vagy bÃ¡rmi mÃ¡sa.}
+{300}{}{A hatalmas KivÃ¡laszott, }
+{301}{}{, biztos nagyon fontos Ã©s hatalmas ember vagy a faludban. A magadfajta kaliber? ember minden bizonnyal szÃ­vesen kÃ¶vetnÃ© a helyi szokÃ¡st Ã©s megjutalmaznÃ¡ az Ã¼dvÃ¶zl?jÃ©t. (bÃ¶ff)}
+{302}{}{JutalomkÃ©pp adok egy jÃ³tanÃ¡csot: ne igyÃ¡l annyit!}
+{303}{}{Jutalmat akarsz? HÃ¡t, azt hiszem, 5 dollÃ¡rt megÃ©r, hogy lekopj rÃ³lam.}
+{304}{}{HÃ¡t, nem szeretnÃ©k szakÃ­tani a hagyomÃ¡nyokkal. 5 dollÃ¡r elÃ©g lesz?}
+{305}{}{InkÃ¡bb neked kÃ©ne megjutalmaznod engem, amiÃ©rt nem szabadÃ­tom meg Klamathot t?led!}
+{306}{}{Bocs, de a KivÃ¡lasztottat nem Ã©rdekli a pÃ©nz - ezÃ©rt nincs is nÃ¡lam.}
+{350}{}{HÃ¡t, }
+{351}{}{ barÃ¡tom, Ãºgy lÃ¡tom (bÃ¶ff) hasznodra lenne nÃ©mi ÃºtbaigazÃ­tÃ¡s. De tudnod kell, hogy a szokÃ¡s szerint valamifÃ©le jutalmat illik adni az Ã¼dvÃ¶zl?nek, miel?tt kÃ©rdez?skÃ¶dni kezdesz.}
 {355}{}{Bocs, de nincs egy vasam sem.}
-{400}{}{Mivel új vagy errefelé (hukk), nyilván nem tudod, hogy a szokás (böff) szerint valamiféle jutalmat illik adni az üdvözl?nek, miel?tt kérdez?sködni kezdesz. (hukk)}
-{450}{}{Köszönöm a pénzt, barátom. (böff) Gyógyszerre fogom költeni, tudod, a száraz torkomnak. Vedd úgy, hogy hivatalosan (hukk) üdvözölve vagy Klamath városában. Van valami kérdésed a mi kis városkánkról?}
-{451}{}{Nincs, kösz. Azt hiszem, egyedül is elboldogulok itt.}
-{452}{}{Hát, az igazat megvallva lenne néhány kérdésem.}
-{453}{}{Aldo, egy keresked?t keresek, aki régiségeket árul. Tudod, nagyon régi dolgokat.}
-{500}{}{Kérdezz bátran, b?kez? barátom!}
-{501}{}{Mivel foglalkoznak Klamathban a népek?}
-{502}{}{Hol tudnék itt bevásárolni vagy meggyógyíttatni magam? }
-{503}{}{Mit tudsz a gekkókról?}
-{504}{}{Hol veszed a piát?}
-{505}{}{Kösz, egyel?re ennyi elég.}
-{506}{}{Nem tudod véletlenül, hol találhatnék egy ÉLET-et?}
-{550}{}{Kösz a semmit. Remélem, nem maradsz sokáig! Nem szeretjük a fajtádat. Törzsbéliek... mind egyformák.}
-{600}{}{Itt Klamathban néhányan földet m?velnek, mások brahmint tenyésztenek, de a legtöbben gekkóra vadásznak.}
-{601}{}{Mi az a gekkó?}
-{602}{}{Kösz, azt hiszem, ennyi elég lesz.}
-{603}{}{Ez érdekes, de kérdeznék még valamit.}
-{650}{}{A gekkó egy nagyra n?tt gyík, amit a vadászok a húsa és a b?re miatt vadásznak. Persze a gekkó nem könny? zsákmány, átkozottul veszélyes a rohadék. Azt javaslom, kerüld el ?ket barátom! Túl sok a gond velük.}
-{651}{}{Kösz, azt hiszem, ennyi elég lesz.}
-{652}{}{Hmmm. Lenne még valami, Aldo.}
-{700}{}{A Buckner Házban és az Arany Gekkóban vehetsz, eladhatsz kedvedre. Néha még némi gyógynövény is akad náluk... nem mintha nekem bármit is adnának a (hukk) problémámra. Mindkét helyen nagyon sz?kmarkúak. Ha csak egy kicsit is elmaradsz a számlád fizetésével, már ki is dobnak az es?be.}
-{701}{}{Kösz az infót, ennyi elég is.}
-{702}{}{Mindig is szerettem a friss leveg?t, szerintem jót tesz. De hadd kérdezzek valami mást!}
-{750}{}{Tudom, hogy korábban nem volt pénzed, amit az üdvözl?dnek adhattál volna, de most talán (hukk) b?kez?bb leszel és készen állsz áldozni rá, hogy "hivatalosan" is üdvözölve légy Klamathban.}
-{751}{}{Azt hiszem, 5 dollárt megérne, hogy távol tartsd magad t?lem.}
-{752}{}{Tudtam, hogy valami hiányzik! Itt van 5 dollár, most már üdvözölhetsz!}
-{753}{}{Kösz, de inkább kihagyom ezt az üdvözlést.}
-{754}{}{Jobb lenne, ha mondjuk a pengém üdvözölne téged... belülr?l...}
-{800}{}{Helló, barátom, jó hogy újra látlak! Nem tudnál kisegíteni pár dollárral? Gyógyszerre kellene, tudod a torkom egyre szárazabb és (hukk) egyre jobban kapar. Cserébe akár egy újabb hivatalos (böff) üdvözlést is kaphatnál. }
-{801}{}{Persze, egy barát egészsége megér 5 dollárt.}
+{400}{}{Mivel Ãºj vagy errefelÃ© (hukk), nyilvÃ¡n nem tudod, hogy a szokÃ¡s (bÃ¶ff) szerint valamifÃ©le jutalmat illik adni az Ã¼dvÃ¶zl?nek, miel?tt kÃ©rdez?skÃ¶dni kezdesz. (hukk)}
+{450}{}{KÃ¶szÃ¶nÃ¶m a pÃ©nzt, barÃ¡tom. (bÃ¶ff) GyÃ³gyszerre fogom kÃ¶lteni, tudod, a szÃ¡raz torkomnak. Vedd Ãºgy, hogy hivatalosan (hukk) Ã¼dvÃ¶zÃ¶lve vagy Klamath vÃ¡rosÃ¡ban. Van valami kÃ©rdÃ©sed a mi kis vÃ¡roskÃ¡nkrÃ³l?}
+{451}{}{Nincs, kÃ¶sz. Azt hiszem, egyedÃ¼l is elboldogulok itt.}
+{452}{}{HÃ¡t, az igazat megvallva lenne nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{453}{}{Aldo, egy keresked?t keresek, aki rÃ©gisÃ©geket Ã¡rul. Tudod, nagyon rÃ©gi dolgokat.}
+{500}{}{KÃ©rdezz bÃ¡tran, b?kez? barÃ¡tom!}
+{501}{}{Mivel foglalkoznak Klamathban a nÃ©pek?}
+{502}{}{Hol tudnÃ©k itt bevÃ¡sÃ¡rolni vagy meggyÃ³gyÃ­ttatni magam? }
+{503}{}{Mit tudsz a gekkÃ³krÃ³l?}
+{504}{}{Hol veszed a piÃ¡t?}
+{505}{}{KÃ¶sz, egyel?re ennyi elÃ©g.}
+{506}{}{Nem tudod vÃ©letlenÃ¼l, hol talÃ¡lhatnÃ©k egy Ã‰LET-et?}
+{550}{}{KÃ¶sz a semmit. RemÃ©lem, nem maradsz sokÃ¡ig! Nem szeretjÃ¼k a fajtÃ¡dat. TÃ¶rzsbÃ©liek... mind egyformÃ¡k.}
+{600}{}{Itt Klamathban nÃ©hÃ¡nyan fÃ¶ldet m?velnek, mÃ¡sok brahmint tenyÃ©sztenek, de a legtÃ¶bben gekkÃ³ra vadÃ¡sznak.}
+{601}{}{Mi az a gekkÃ³?}
+{602}{}{KÃ¶sz, azt hiszem, ennyi elÃ©g lesz.}
+{603}{}{Ez Ã©rdekes, de kÃ©rdeznÃ©k mÃ©g valamit.}
+{650}{}{A gekkÃ³ egy nagyra n?tt gyÃ­k, amit a vadÃ¡szok a hÃºsa Ã©s a b?re miatt vadÃ¡sznak. Persze a gekkÃ³ nem kÃ¶nny? zsÃ¡kmÃ¡ny, Ã¡tkozottul veszÃ©lyes a rohadÃ©k. Azt javaslom, kerÃ¼ld el ?ket barÃ¡tom! TÃºl sok a gond velÃ¼k.}
+{651}{}{KÃ¶sz, azt hiszem, ennyi elÃ©g lesz.}
+{652}{}{Hmmm. Lenne mÃ©g valami, Aldo.}
+{700}{}{A Buckner HÃ¡zban Ã©s az Arany GekkÃ³ban vehetsz, eladhatsz kedvedre. NÃ©ha mÃ©g nÃ©mi gyÃ³gynÃ¶vÃ©ny is akad nÃ¡luk... nem mintha nekem bÃ¡rmit is adnÃ¡nak a (hukk) problÃ©mÃ¡mra. MindkÃ©t helyen nagyon sz?kmarkÃºak. Ha csak egy kicsit is elmaradsz a szÃ¡mlÃ¡d fizetÃ©sÃ©vel, mÃ¡r ki is dobnak az es?be.}
+{701}{}{KÃ¶sz az infÃ³t, ennyi elÃ©g is.}
+{702}{}{Mindig is szerettem a friss leveg?t, szerintem jÃ³t tesz. De hadd kÃ©rdezzek valami mÃ¡st!}
+{750}{}{Tudom, hogy korÃ¡bban nem volt pÃ©nzed, amit az Ã¼dvÃ¶zl?dnek adhattÃ¡l volna, de most talÃ¡n (hukk) b?kez?bb leszel Ã©s kÃ©szen Ã¡llsz Ã¡ldozni rÃ¡, hogy "hivatalosan" is Ã¼dvÃ¶zÃ¶lve lÃ©gy Klamathban.}
+{751}{}{Azt hiszem, 5 dollÃ¡rt megÃ©rne, hogy tÃ¡vol tartsd magad t?lem.}
+{752}{}{Tudtam, hogy valami hiÃ¡nyzik! Itt van 5 dollÃ¡r, most mÃ¡r Ã¼dvÃ¶zÃ¶lhetsz!}
+{753}{}{KÃ¶sz, de inkÃ¡bb kihagyom ezt az Ã¼dvÃ¶zlÃ©st.}
+{754}{}{Jobb lenne, ha mondjuk a pengÃ©m Ã¼dvÃ¶zÃ¶lne tÃ©ged... belÃ¼lr?l...}
+{800}{}{HellÃ³, barÃ¡tom, jÃ³ hogy Ãºjra lÃ¡tlak! Nem tudnÃ¡l kisegÃ­teni pÃ¡r dollÃ¡rral? GyÃ³gyszerre kellene, tudod a torkom egyre szÃ¡razabb Ã©s (hukk) egyre jobban kapar. CserÃ©be akÃ¡r egy Ãºjabb hivatalos (bÃ¶ff) Ã¼dvÃ¶zlÃ©st is kaphatnÃ¡l. }
+{801}{}{Persze, egy barÃ¡t egÃ©szsÃ©ge megÃ©r 5 dollÃ¡rt.}
 {802}{}{Bocs, Aldo, de nincs egy vasam se.}
-{803}{}{Szerintem már így is túl sok 'gyógyszert' szedtél be. Inkább dolgozz, a munka is gyógyító hatású lehet!}
-{810}{}{Kösz a semmit. Hogy lehetsz ilyen kegyetlen egy magamfajta beteg emberrel? Szemét alak! (Aldo a lábad elé köp, de egy része a koszos állán landol.)}
-{820}{}{Biztos vagyok benne, hogy b?kez?séged (hukk) szerencsét hoz majd neked. Remélem, még találkozunk.}
-{830}{}{Pedig tényleg hasznát venném egy kis pénznek. Nagyon gyengének érzem magam, de ha nincs (köh-köh) felesleges pénzed... megértelek. Talán legközelebb... (köh-köh) ...ha még élek egyáltalán addig. (köh-köh)}
-{850}{}{Hát, eddig az Arany Gekkóban vagy a Buckner Házban (böff) vettem a piát, de addig nem adnak többet, amíg nem rendezem a tartozásom. Szerencsémre Whiskey Bob ellátja a barátait a saját készletéb?l.}
-{851}{}{Örülök, hogy be tudod szerezni az orvosságodat. Ennyi most elég is lesz.}
-{852}{}{Érdekes. Hol is találom ezt a Whiskey Bobot?}
-{853}{}{Kösz Aldo. Kérdeznék még valamit.}
-{860}{}{Itt, nem messze, a belvárosban. De úgy tudom, mostanában nem tudott eljutni a szeszf?zdéjéhez. Nem ? a legmegbízhatóbb gyógyszer-forrás egy olyan beteg embernek (hükk), mint én.}
-{861}{}{Kösz az információt, Aldo. Ez minden, amire kíváncsi voltam.}
-{862}{}{Még jó, hogy találtál másik forrást. Öö, nem tudnál kicsit másfelé lehelni? Lenne még egy kérdésem.}
+{803}{}{Szerintem mÃ¡r Ã­gy is tÃºl sok 'gyÃ³gyszert' szedtÃ©l be. InkÃ¡bb dolgozz, a munka is gyÃ³gyÃ­tÃ³ hatÃ¡sÃº lehet!}
+{810}{}{KÃ¶sz a semmit. Hogy lehetsz ilyen kegyetlen egy magamfajta beteg emberrel? SzemÃ©t alak! (Aldo a lÃ¡bad elÃ© kÃ¶p, de egy rÃ©sze a koszos Ã¡llÃ¡n landol.)}
+{820}{}{Biztos vagyok benne, hogy b?kez?sÃ©ged (hukk) szerencsÃ©t hoz majd neked. RemÃ©lem, mÃ©g talÃ¡lkozunk.}
+{830}{}{Pedig tÃ©nyleg hasznÃ¡t vennÃ©m egy kis pÃ©nznek. Nagyon gyengÃ©nek Ã©rzem magam, de ha nincs (kÃ¶h-kÃ¶h) felesleges pÃ©nzed... megÃ©rtelek. TalÃ¡n legkÃ¶zelebb... (kÃ¶h-kÃ¶h) ...ha mÃ©g Ã©lek egyÃ¡ltalÃ¡n addig. (kÃ¶h-kÃ¶h)}
+{850}{}{HÃ¡t, eddig az Arany GekkÃ³ban vagy a Buckner HÃ¡zban (bÃ¶ff) vettem a piÃ¡t, de addig nem adnak tÃ¶bbet, amÃ­g nem rendezem a tartozÃ¡som. SzerencsÃ©mre Whiskey Bob ellÃ¡tja a barÃ¡tait a sajÃ¡t kÃ©szletÃ©b?l.}
+{851}{}{Ã–rÃ¼lÃ¶k, hogy be tudod szerezni az orvossÃ¡godat. Ennyi most elÃ©g is lesz.}
+{852}{}{Ã‰rdekes. Hol is talÃ¡lom ezt a Whiskey Bobot?}
+{853}{}{KÃ¶sz Aldo. KÃ©rdeznÃ©k mÃ©g valamit.}
+{860}{}{Itt, nem messze, a belvÃ¡rosban. De Ãºgy tudom, mostanÃ¡ban nem tudott eljutni a szeszf?zdÃ©jÃ©hez. Nem ? a legmegbÃ­zhatÃ³bb gyÃ³gyszer-forrÃ¡s egy olyan beteg embernek (hÃ¼kk), mint Ã©n.}
+{861}{}{KÃ¶sz az informÃ¡ciÃ³t, Aldo. Ez minden, amire kÃ­vÃ¡ncsi voltam.}
+{862}{}{MÃ©g jÃ³, hogy talÃ¡ltÃ¡l mÃ¡sik forrÃ¡st. Ã–Ã¶, nem tudnÃ¡l kicsit mÃ¡sfelÃ© lehelni? Lenne mÃ©g egy kÃ©rdÃ©sem.}
 {870}{}{Hello there, Friend -- you look a bit perplexed. What you need is a friend here in town. I'm
  Aldo, the town greeter.}
-{871}{}{Barát? Hehe. }
-{872}{}{ szeret barát.}
-{873}{}{Pfúj, rossz szag. Menny el most!}
-{880}{}{Ha adsz nekem 20 dollárt, a barátod leszek s?t, mindenki más is a városban. Így mennek a dolgok a nagyvárosban.}
-{881}{}{Hauúszat? Ookéé? Naaadj vááros? Ookéé?}
+{871}{}{BarÃ¡t? Hehe. }
+{872}{}{ szeret barÃ¡t.}
+{873}{}{PfÃºj, rossz szag. Menny el most!}
+{880}{}{Ha adsz nekem 20 dollÃ¡rt, a barÃ¡tod leszek s?t, mindenki mÃ¡s is a vÃ¡rosban. Ãgy mennek a dolgok a nagyvÃ¡rosban.}
+{881}{}{HauÃºszat? OokÃ©Ã©? Naaadj vÃ¡Ã¡ros? OokÃ©Ã©?}
 {882}{}{Aggyak neked most?}
-{890}{}{ÉLET? Én aztán tudnék mesélni az életr?l, az biztos! Vagy bármir?l. Még a gekkókról is.}
-{900}{}{Régi dolgok... (böff) ...hmm... az egyetlen régi dolgokban utazó keresked? itt Vic (hukk).}
-{901}{}{Vic? Hol találom ezt a Vicet?}
-{910}{}{Tulajdonképpen (hukk) nem tudom, merre lehet, már jó ideje nem láttam Vicet. Talán kérdezd meg (böff) Jennyt a Fürd?ben! ? meg Vic, (hukk) hát tudod... elég jóban voltak.}
-{911}{}{Lenne még egy kérdésem.}
-{912}{}{Kösz a tippet... megyek, miel?tt ezért is jutalmat kérnél.}
+{890}{}{Ã‰LET? Ã‰n aztÃ¡n tudnÃ©k mesÃ©lni az Ã©letr?l, az biztos! Vagy bÃ¡rmir?l. MÃ©g a gekkÃ³krÃ³l is.}
+{900}{}{RÃ©gi dolgok... (bÃ¶ff) ...hmm... az egyetlen rÃ©gi dolgokban utazÃ³ keresked? itt Vic (hukk).}
+{901}{}{Vic? Hol talÃ¡lom ezt a Vicet?}
+{910}{}{TulajdonkÃ©ppen (hukk) nem tudom, merre lehet, mÃ¡r jÃ³ ideje nem lÃ¡ttam Vicet. TalÃ¡n kÃ©rdezd meg (bÃ¶ff) Jennyt a FÃ¼rd?ben! ? meg Vic, (hukk) hÃ¡t tudod... elÃ©g jÃ³ban voltak.}
+{911}{}{Lenne mÃ©g egy kÃ©rdÃ©sem.}
+{912}{}{KÃ¶sz a tippet... megyek, miel?tt ezÃ©rt is jutalmat kÃ©rnÃ©l.}
 {920}{}{Hello again, friend. Do you have another $20 to spare to make our friendship even better?}
 {921}{}{Moar? Ook.}
 {922}{}{Me no share. Byee.}

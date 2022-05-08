@@ -1,14 +1,14 @@
 {100}{}{Widzisz Wielkiego Szu.}
-{101}{}{Wci¹¿ wygl¹da na oszusta.}
-{200}{}{Witam. Jestem Wielki Szu. Czym mogê s³u¿yæ?}
-{201}{}{Czy móg³byœ porwaæ moje plemiê?}
-{202}{}{Czy móg³byœ przydzieliæ mi misjê od Shi?}
-{203}{}{Czy móg³byœ przydzieliæ mi misjê od Elrona?}
-{204}{}{Czy móg³byœ przydzieliæ mi misjê od Bractwa?}
-{205}{}{Urz¹dŸ wszystko tak, jakby baza wojskowa zosta³a ju¿ odwiedzona.}
-{206}{}{Porwa³em twoje plemiê.}
-{207}{}{Przydzieli³em ci misjê od Shi.}
-{208}{}{Przydzieli³em ci misjê od Elrona.}
-{209}{}{Przydzieli³em ci misjê od Bractwa.}
-{210}{}{Od tej pory wszystko liczy siê tak, jakby baza wojskowa zosta³a ju¿ odwiedzona.}
-{211}{}{Dziêkujê, Wielki Szu.}
+{101}{}{WciÄ…Å¼ wyglÄ…da na oszusta.}
+{200}{}{Witam. Jestem Wielki Szu. Czym mogÄ™ sÅ‚uÅ¼yÄ‡?}
+{201}{}{Czy mÃ³gÅ‚byÅ› porwaÄ‡ moje plemiÄ™?}
+{202}{}{Czy mÃ³gÅ‚byÅ› przydzieliÄ‡ mi misjÄ™ od Shi?}
+{203}{}{Czy mÃ³gÅ‚byÅ› przydzieliÄ‡ mi misjÄ™ od Elrona?}
+{204}{}{Czy mÃ³gÅ‚byÅ› przydzieliÄ‡ mi misjÄ™ od Bractwa?}
+{205}{}{UrzÄ…dÅº wszystko tak, jakby baza wojskowa zostaÅ‚a juÅ¼ odwiedzona.}
+{206}{}{PorwaÅ‚em twoje plemiÄ™.}
+{207}{}{PrzydzieliÅ‚em ci misjÄ™ od Shi.}
+{208}{}{PrzydzieliÅ‚em ci misjÄ™ od Elrona.}
+{209}{}{PrzydzieliÅ‚em ci misjÄ™ od Bractwa.}
+{210}{}{Od tej pory wszystko liczy siÄ™ tak, jakby baza wojskowa zostaÅ‚a juÅ¼ odwiedzona.}
+{211}{}{DziÄ™kujÄ™, Wielki Szu.}

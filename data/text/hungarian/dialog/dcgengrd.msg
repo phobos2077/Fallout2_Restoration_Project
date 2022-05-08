@@ -1,12 +1,12 @@
-{100}{}{Egy félelmet kelt? útonállót látsz.}
-{101}{}{Egy Rejtekbéli ?rszem.}
-{102}{}{Ne most! Szolgálatban vagyok.}
-{103}{}{Nem beszélgethetek veled.}
-{104}{}{Kérlek, távozz!}
+{100}{}{Egy fÃ©lelmet kelt? ÃºtonÃ¡llÃ³t lÃ¡tsz.}
+{101}{}{Egy RejtekbÃ©li ?rszem.}
+{102}{}{Ne most! SzolgÃ¡latban vagyok.}
+{103}{}{Nem beszÃ©lgethetek veled.}
+{104}{}{KÃ©rlek, tÃ¡vozz!}
 {105}{}{Ne tarts fel!}
-{106}{}{Légyszíves, fordulj a f?nökömhöz!}
-{107}{}{Nem válaszolhatok a kérdéseidre.}
+{106}{}{LÃ©gyszÃ­ves, fordulj a f?nÃ¶kÃ¶mhÃ¶z!}
+{107}{}{Nem vÃ¡laszolhatok a kÃ©rdÃ©seidre.}
 {108}{}{Ne zaklass!}
 {109}{}{Itt dolgozom...}
 {110}{}{Nem tudok semmit.}
-{111}{}{Csak a f?nökkel szoktam beszélni.}
+{111}{}{Csak a f?nÃ¶kkel szoktam beszÃ©lni.}

@@ -1,2 +1,2 @@
-{100}{}{To chyba stary pokÛj Lloyda. Ktoú naniÛs≥ sadzy na dywan... Sadza pochodzi zapewne z kot≥owni.}
-{200}{}{204: W tym pokoju mieszka≥ Lloyd.}
+{100}{}{To chyba stary pok√≥j Lloyda. Kto≈õ nani√≥s≈Ç sadzy na dywan... Sadza pochodzi zapewne z kot≈Çowni.}
+{200}{}{204: W tym pokoju mieszka≈Ç Lloyd.}

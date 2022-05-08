@@ -1,4 +1,4 @@
-{100}{}{Você vê um grande mole-rat branco}
-{101}{}{Você vê o Rei Rato.}
-{102}{}{Você ve um grande mole-rat albino com um crânio alargado. Ele está espumando pela boca.}
-{103}{}{Você matou o Rei Rato!}
+{100}{}{VocÃª vÃª um grande mole-rat branco}
+{101}{}{VocÃª vÃª o Rei Rato.}
+{102}{}{VocÃª ve um grande mole-rat albino com um crÃ¢nio alargado. Ele estÃ¡ espumando pela boca.}
+{103}{}{VocÃª matou o Rei Rato!}

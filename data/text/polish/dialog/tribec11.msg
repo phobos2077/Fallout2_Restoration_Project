@@ -1,23 +1,23 @@
 {100}{}{Widzisz silnego wojownika plemiennego.}
-{101}{}{Ten plemienny wygl¹da na bardzo silnego, ale nie specjalnie bystrego.}
-{200}{}{Staæ! Co chce?}
+{101}{}{Ten plemienny wyglÄ…da na bardzo silnego, ale nie specjalnie bystrego.}
+{200}{}{StaÄ‡! Co chce?}
 {201}{}{Co tutaj robisz?}
-{202}{}{Pilnowaæ jaskinia. Czuwaæ, ¿eby z³e ludzie nie podkraœæ siê do nas.}
-{203}{}{Rozumiem. Mogê siê trochê rozejrzeæ?}
-{204}{}{Nie! Moja nie wolno wpuszczaæ obcy do jaskinia. Przywódca wojowniki tak mówiæ!}
-{205}{}{Mo¿e spróbujê póŸniej.}
+{202}{}{PilnowaÄ‡ jaskinia. CzuwaÄ‡, Å¼eby zÅ‚e ludzie nie podkraÅ›Ä‡ siÄ™ do nas.}
+{203}{}{Rozumiem. MogÄ™ siÄ™ trochÄ™ rozejrzeÄ‡?}
+{204}{}{Nie! Moja nie wolno wpuszczaÄ‡ obcy do jaskinia. PrzywÃ³dca wojowniki tak mÃ³wiÄ‡!}
+{205}{}{MoÅ¼e sprÃ³bujÄ™ pÃ³Åºniej.}
 {206}{}{Ty, znowu? Co chce tera?}
-{207}{}{Tylko przechodzê. Pilnuj dalej.}
-{208}{}{Przywódca wojowników powiedzia³ mi, ¿e mogê wejœæ do jaskini, ¿eby poszukaæ zaginionych myœliwych.}
-{209}{}{A, tak, ja nie widzia³ ich przez d³ugo. Mieæ nadzieja oni dobrze. Przywódca wojowniki mówiæ, ty mo¿e wejœæ? Dobrze, ty iœæ.}
-{210}{}{Dziêki. Dam Ci znaæ jeœli bêdziesz potrzebny.}
-{300}{}{Hej, gdzie ty œpieszyæ? Ty znaleŸæ cuœ?}
-{301}{}{Tak, uda³o mi siê znaleŸæ zaginionych myœliwych. Jeden z nich nie ¿yje, a drugi jest ciê¿ko ranny. Potrzebuje twojej pomocy ¿eby go wynieœæ i zanieœæ do Szamana. Pójdê poczekam z Szamanem, a ty ratuj myœliwego.}
-{302}{}{Cz³onek plemiê potrzebowaæ pomoc? Ja musieæ pomóc. W jaskinia? Ja nadchodziæ!}
+{207}{}{Tylko przechodzÄ™. Pilnuj dalej.}
+{208}{}{PrzywÃ³dca wojownikÃ³w powiedziaÅ‚ mi, Å¼e mogÄ™ wejÅ›Ä‡ do jaskini, Å¼eby poszukaÄ‡ zaginionych myÅ›liwych.}
+{209}{}{A, tak, ja nie widziaÅ‚ ich przez dÅ‚ugo. MieÄ‡ nadzieja oni dobrze. PrzywÃ³dca wojowniki mÃ³wiÄ‡, ty moÅ¼e wejÅ›Ä‡? Dobrze, ty iÅ›Ä‡.}
+{210}{}{DziÄ™ki. Dam Ci znaÄ‡ jeÅ›li bÄ™dziesz potrzebny.}
+{300}{}{Hej, gdzie ty Å›pieszyÄ‡? Ty znaleÅºÄ‡ cuÅ›?}
+{301}{}{Tak, udaÅ‚o mi siÄ™ znaleÅºÄ‡ zaginionych myÅ›liwych. Jeden z nich nie Å¼yje, a drugi jest ciÄ™Å¼ko ranny. Potrzebuje twojej pomocy Å¼eby go wynieÅ›Ä‡ i zanieÅ›Ä‡ do Szamana. PÃ³jdÄ™ poczekam z Szamanem, a ty ratuj myÅ›liwego.}
+{302}{}{CzÅ‚onek plemiÄ™ potrzebowaÄ‡ pomoc? Ja musieÄ‡ pomÃ³c. W jaskinia? Ja nadchodziÄ‡!}
 {303}{}{[dalej]}
-{400}{}{Dziêkuja twoja pomóc Serin. On dobry wojownik. Ty przyjaciel plemiê.}
-{401}{}{Dziêki. Ale, muszê ju¿ iœæ.}
-{402}{}{Witaj przyjaciel. Co ty potrzebowaæ?}
-{403}{}{Nic. Tylko przechodzê. Trzymaj siê.}
-{500}{}{Ty bohater! Ja uœciskaæ!}
-{501}{}{Naucz moja byæ bohater, jak Ty!}
+{400}{}{DziÄ™kuja twoja pomÃ³c Serin. On dobry wojownik. Ty przyjaciel plemiÄ™.}
+{401}{}{DziÄ™ki. Ale, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{402}{}{Witaj przyjaciel. Co ty potrzebowaÄ‡?}
+{403}{}{Nic. Tylko przechodzÄ™. Trzymaj siÄ™.}
+{500}{}{Ty bohater! Ja uÅ›ciskaÄ‡!}
+{501}{}{Naucz moja byÄ‡ bohater, jak Ty!}

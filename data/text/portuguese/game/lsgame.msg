@@ -1,20 +1,20 @@
 {100}{}{CARREGAR}
-{101}{}{ESCOLHA UM SLOT DE CARGA R¡PIDA}
+{101}{}{ESCOLHA UM SLOT DE CARGA R√ÅPIDA}
 {102}{}{SALVAR}
-{103}{}{ESCOLHA UM SLOT SALVAMENTO R¡PIDO}
+{103}{}{ESCOLHA UM SLOT SALVAMENTO R√ÅPIDO}
 {104}{}{FEITO}
 {105}{}{CANCEL}
 {106}{}{Erro ao carregar a lista de jogos salvos!}
-{107}{}{Salve o diretÛrio do jogo:}
-{108}{}{N„o existe ou est· corrompido.}
+{107}{}{Salve o diret√≥rio do jogo:}
+{108}{}{N√£o existe ou est√° corrompido.}
 {109}{}{SALVAR}
 {110}{}{CARREGAR}
 {111}{}{- VAZIO -}
 {112}{}{- ARQUIVO SALVO CORROMPIDO -}
-{113}{}{- VERS√O VELHA -}
+{113}{}{- VERS√ÉO VELHA -}
 {114}{}{Vazio.}
 {115}{}{Erro!}
-{116}{}{VERS√O VELHA.}
+{116}{}{VERS√ÉO VELHA.}
 {117}{}{JAN}
 {118}{}{FEV}
 {119}{}{MAR}
@@ -27,14 +27,14 @@
 {126}{}{OUT}
 {127}{}{NOV}
 {128}{}{DEZ}
-{129}{}{NÌvel}
-{130}{}{DESCRI«√O}
-{131}{}{Jogo j· existe, sobrescrever?}
+{129}{}{N√≠vel}
+{130}{}{DESCRI√á√ÉO}
+{131}{}{Jogo j√° existe, sobrescrever?}
 {132}{}{Erro durante o salvamento do jogo!}
-{133}{}{N„o foi possÌvel salvar jogo.}
+{133}{}{N√£o foi poss√≠vel salvar jogo.}
 {134}{}{Erro ao carregar o jogo!}
-{135}{}{N„o foi possÌvel carregar o jogo.}
-{136}{}{O Arquivo salvo do jogo È uma vers„o mais antiga.}
+{135}{}{N√£o foi poss√≠vel carregar o jogo.}
+{136}{}{O Arquivo salvo do jogo √© uma vers√£o mais antiga.}
 {137}{}{Mapa}
 {140}{}{Jogo Salvo.}
 {141}{}{Jogo Carregado.}

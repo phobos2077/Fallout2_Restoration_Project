@@ -1,16 +1,16 @@
-{100}{}{Ez az ember aztán sokmindent látott életében.}
-{101}{}{Egy keresked?t látsz.}
-{102}{}{Amindenit, ritkán látok embereket errefelé!}
-{103}{}{Hé! Várj! Van nálam egy-két cucc, ami segíthet az utadon!}
-{104}{}{Hé! Van nálad valami, amit elcserélhetnél ezekre?}
-{105}{}{Szerencsés nap ez a mai... Gyere, nézd meg a kínálatomat!}
-{200}{}{Üdvözöllek, utazó! Nem sok emberrel találkozom ezen az úton, de mindig örömmel tölt el, ha új vev?ket üdvözölhetek. Szeretnél csereberélni?}
-{201}{}{Hé, te! Remek, hogy megálltál! Az emberek többsége csak megy a vakvilágba... Nem szeretnél vásárolni valamit?}
-{202}{}{Nem volna ínyedre egy kis vásárlás?}
-{250}{}{Beszélhetünk róla...}
-{251}{}{Sajnálom, tovább kell mennem.}
+{100}{}{Ez az ember aztÃ¡n sokmindent lÃ¡tott Ã©letÃ©ben.}
+{101}{}{Egy keresked?t lÃ¡tsz.}
+{102}{}{Amindenit, ritkÃ¡n lÃ¡tok embereket errefelÃ©!}
+{103}{}{HÃ©! VÃ¡rj! Van nÃ¡lam egy-kÃ©t cucc, ami segÃ­thet az utadon!}
+{104}{}{HÃ©! Van nÃ¡lad valami, amit elcserÃ©lhetnÃ©l ezekre?}
+{105}{}{SzerencsÃ©s nap ez a mai... Gyere, nÃ©zd meg a kÃ­nÃ¡latomat!}
+{200}{}{ÃœdvÃ¶zÃ¶llek, utazÃ³! Nem sok emberrel talÃ¡lkozom ezen az Ãºton, de mindig Ã¶rÃ¶mmel tÃ¶lt el, ha Ãºj vev?ket Ã¼dvÃ¶zÃ¶lhetek. SzeretnÃ©l csereberÃ©lni?}
+{201}{}{HÃ©, te! Remek, hogy megÃ¡lltÃ¡l! Az emberek tÃ¶bbsÃ©ge csak megy a vakvilÃ¡gba... Nem szeretnÃ©l vÃ¡sÃ¡rolni valamit?}
+{202}{}{Nem volna Ã­nyedre egy kis vÃ¡sÃ¡rlÃ¡s?}
+{250}{}{BeszÃ©lhetÃ¼nk rÃ³la...}
+{251}{}{SajnÃ¡lom, tovÃ¡bb kell mennem.}
 {252}{}{Ja. Nekem lenni cucc!}
-{253}{}{Én menni elfele.}
-{260}{}{Jó volt üzletelni veled. Sok szerencsét az utazáshoz!}
-{261}{}{Viszlát!}
-{270}{}{Örülök, hogy újra látlak. Érdekel esetleg valami más?}
+{253}{}{Ã‰n menni elfele.}
+{260}{}{JÃ³ volt Ã¼zletelni veled. Sok szerencsÃ©t az utazÃ¡shoz!}
+{261}{}{ViszlÃ¡t!}
+{270}{}{Ã–rÃ¼lÃ¶k, hogy Ãºjra lÃ¡tlak. Ã‰rdekel esetleg valami mÃ¡s?}

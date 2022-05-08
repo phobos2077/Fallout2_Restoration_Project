@@ -1,2 +1,2 @@
-1:Você morreu.
-2:Sua busca para encontrar o Jardim do Éden e devolvê-lo para a sua aldeia falhou.
+1:VocÃª morreu.
+2:Sua busca para encontrar o Jardim do Ã‰den e devolvÃª-lo para a sua aldeia falhou.

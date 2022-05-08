@@ -1,2 +1,2 @@
-{100}{}{Você vê um robo de segurança.}
-{101}{}{Você vê um robo de segurança.}
+{100}{}{VocÃª vÃª um robo de seguranÃ§a.}
+{101}{}{VocÃª vÃª um robo de seguranÃ§a.}

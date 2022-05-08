@@ -1,6 +1,6 @@
-{100}{}{Widzisz grabie¿cê.}
-{101}{}{My tu byliœmy pierwsi!}
-{102}{}{Zaw³aszcz sobie w³asn¹ dzia³kê!}
+{100}{}{Widzisz grabieÅ¼cÄ™.}
+{101}{}{My tu byliÅ›my pierwsi!}
+{102}{}{ZawÅ‚aszcz sobie wÅ‚asnÄ… dziaÅ‚kÄ™!}
 {103}{}{Kolejna kreska na kolbie mojego pistoletu.}
-{104}{}{Nie mogê pozwoliæ ci odejœæ.}
-{105}{}{Za du¿o wiesz.}
+{104}{}{Nie mogÄ™ pozwoliÄ‡ ci odejÅ›Ä‡.}
+{105}{}{Za duÅ¼o wiesz.}

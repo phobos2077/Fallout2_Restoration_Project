@@ -1,5 +1,5 @@
 {100}{}{Widzisz niezadowolonego ochroniarza.}
-{101}{}{Warren krzywi siê nad swoj¹ niedawno rozciêt¹ rêk¹.}
+{101}{}{Warren krzywi siÄ™ nad swojÄ… niedawno rozciÄ™tÄ… rÄ™kÄ….}
 {200}{}{Dlaczego on zawsze tnie *mnie*?}
-{201}{}{Naprawdê zaczynam mieæ doœæ tego gówna.}
-{202}{}{Nastêpnym razem, powinien poci¹æ któregoœ z tych pieprzonych dzikusów.}
+{201}{}{NaprawdÄ™ zaczynam mieÄ‡ doÅ›Ä‡ tego gÃ³wna.}
+{202}{}{NastÄ™pnym razem, powinien pociÄ…Ä‡ ktÃ³regoÅ› z tych pieprzonych dzikusÃ³w.}

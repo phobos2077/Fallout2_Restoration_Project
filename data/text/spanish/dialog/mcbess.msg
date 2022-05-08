@@ -1,18 +1,18 @@
 {100}{}{De acuerdo a la chapa de su collar, su nombre es Bess.}
 {101}{}{Ves a Bess.}
-{110}{}{Parece que ha sido atacada por algún animal salvaje. Está muy malherida.}
-{111}{}{Éste es un buen brahmin que cualquiera estaría orgulloso de poseer.}
-{120}{}{¡Muuuuuuuuu!}
-{121}{}{[Este pobre brahmin está herido].}
+{110}{}{Parece que ha sido atacada por algÃºn animal salvaje. EstÃ¡ muy malherida.}
+{111}{}{Ã‰ste es un buen brahmin que cualquiera estarÃ­a orgulloso de poseer.}
+{120}{}{Â¡Muuuuuuuuu!}
+{121}{}{[Este pobre brahmin estÃ¡ herido].}
 {130}{}{Muuuuuu.}
 {131}{}{[Bess deja escapar un lastimero mugido].}
-{132}{}{Pobrecita: quizás no debería haberte vendido para que hagan cecina contigo. ¿Te gustaría que te sacara de aquí?}
-{133}{}{¡Sí! Vamos a hacer contigo un montón de sabrosa y rica cecina. Ya verás.}
+{132}{}{Pobrecita: quizÃ¡s no deberÃ­a haberte vendido para que hagan cecina contigo. Â¿Te gustarÃ­a que te sacara de aquÃ­?}
+{133}{}{Â¡SÃ­! Vamos a hacer contigo un montÃ³n de sabrosa y rica cecina. Ya verÃ¡s.}
 {140}{}{Muuuuuuuu.}
-{141}{}{[Eso ha sonado como un mugido mucho más feliz].}
-{142}{}{Vale, entonces salgamos de aquí.}
-{143}{}{Solo bromeaba. La cecina me hace más falta que tú.}
+{141}{}{[Eso ha sonado como un mugido mucho mÃ¡s feliz].}
+{142}{}{Vale, entonces salgamos de aquÃ­.}
+{143}{}{Solo bromeaba. La cecina me hace mÃ¡s falta que tÃº.}
 {150}{}{Muuuu.}
-{200}{}{Los primeros auxilios no podrán curar la pata lisiada de este pobre animal.}
+{200}{}{Los primeros auxilios no podrÃ¡n curar la pata lisiada de este pobre animal.}
 {300}{}{Has curado la pata lisiada del brahmin.}
 {310}{}{No has conseguido curar la pata del brahmin.}

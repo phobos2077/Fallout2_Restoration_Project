@@ -1,44 +1,44 @@
-{100}{}{Widzisz szpona œmierci, który obserwuje ciê dziwnie inteligentnym wzrokiem.}
-{101}{}{Widzisz Thearna, szpona œmierci.}
-{102}{}{Widzisz typowego szpona œmierci. To ogromne stworzenie ma potê¿n¹ budowê cia³a, ostre zêby i d³ugie pazury.}
-{103}{}{Wybacz. Nie mówiæ dobrze. Spróbujê z ty rozmawiaæ.}
+{100}{}{Widzisz szpona Å›mierci, ktÃ³ry obserwuje ciÄ™ dziwnie inteligentnym wzrokiem.}
+{101}{}{Widzisz Thearna, szpona Å›mierci.}
+{102}{}{Widzisz typowego szpona Å›mierci. To ogromne stworzenie ma potÄ™Å¼nÄ… budowÄ™ ciaÅ‚a, ostre zÄ™by i dÅ‚ugie pazury.}
+{103}{}{Wybacz. Nie mÃ³wiÄ‡ dobrze. SprÃ³bujÄ™ z ty rozmawiaÄ‡.}
 {104}{}{Ty czego chce?}
 {105}{}{Twoja kto?}
-{106}{}{Co ty robiæ?}
+{106}{}{Co ty robiÄ‡?}
 {107}{}{Jak ty sprytny?}
-{108}{}{Moja iœæ ju¿}
-{109}{}{Kim jesteœ?}
+{108}{}{Moja iÅ›Ä‡ juÅ¼}
+{109}{}{Kim jesteÅ›?}
 {110}{}{Co tutaj robisz?}
-{111}{}{Bez obrazy, ale jak bardzo inteligentny jesteœ?}
-{112}{}{Och, tylko têdy przechodzê.}
+{111}{}{Bez obrazy, ale jak bardzo inteligentny jesteÅ›?}
+{112}{}{Och, tylko tÄ™dy przechodzÄ™.}
 {113}{}{Ja Thearn. Kto ty?}
 {114}{}{Ja}
-{115}{}{Ja odejœæ}
-{116}{}{Muszê ju¿ iœæ.}
-{117}{}{Mi³o mi ciê poznaæ Thearnie. Jestem}
-{118}{}{Kapujê.}
-{119}{}{Jak tak teraz o tym pomyœlê, to gówno mnie obchodzi, kim jesteœ.}
-{120}{}{Pilnujê korytarz. Bezpieczeñstwo stada cel.}
+{115}{}{Ja odejÅ›Ä‡}
+{116}{}{MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{117}{}{MiÅ‚o mi ciÄ™ poznaÄ‡ Thearnie. Jestem}
+{118}{}{KapujÄ™.}
+{119}{}{Jak tak teraz o tym pomyÅ›lÄ™, to gÃ³wno mnie obchodzi, kim jesteÅ›.}
+{120}{}{PilnujÄ™ korytarz. BezpieczeÅ„stwo stada cel.}
 {121}{}{Och... Uch...}
 {122}{}{Pilnujesz? Czego?}
-{123}{}{Dobra. Ja iœæ.}
-{124}{}{A wiêc tak trzymaj. Pójdê ju¿.}
-{125}{}{Wykonujesz œwietn¹ robotê!}
-{126}{}{I ty nazywasz siebie stra¿nikiem? Ha!}
+{123}{}{Dobra. Ja iÅ›Ä‡.}
+{124}{}{A wiÄ™c tak trzymaj. PÃ³jdÄ™ juÅ¼.}
+{125}{}{Wykonujesz Å›wietnÄ… robotÄ™!}
+{126}{}{I ty nazywasz siebie straÅ¼nikiem? Ha!}
 {127}{}{Przed kim pilnujesz tego korytarza?}
-{128}{}{Intruz. Szpon œmierci, cz³owiek, cokolwiek. Stado zagro¿one, atakujê.}
+{128}{}{Intruz. Szpon Å›mierci, czÅ‚owiek, cokolwiek. Stado zagroÅ¼one, atakujÄ™.}
 {129}{}{Ach.}
 {130}{}{Rozumiem.}
-{131}{}{By³oby dla mnie wielkim zaskoczeniem, gdybyœ by³ wystarczaj¹co sprytny, by odró¿niæ przyjaciela od wroga.}
-{132}{}{Wspó³czujê wszystkim intruzom, którzy ciê spotkaj¹.}
-{133}{}{Niewa¿ne. Jeszcze siê zobaczymy.}
-{134}{}{Jak myœlê? Nie wiem. Pewne rzeczy rozumiem bardzo. Pewne rzeczy rozumiem ma³o. Du¿o rzeczy nie rozumiem.}
+{131}{}{ByÅ‚oby dla mnie wielkim zaskoczeniem, gdybyÅ› byÅ‚ wystarczajÄ…co sprytny, by odrÃ³Å¼niÄ‡ przyjaciela od wroga.}
+{132}{}{WspÃ³Å‚czujÄ™ wszystkim intruzom, ktÃ³rzy ciÄ™ spotkajÄ….}
+{133}{}{NiewaÅ¼ne. Jeszcze siÄ™ zobaczymy.}
+{134}{}{Jak myÅ›lÄ™? Nie wiem. Pewne rzeczy rozumiem bardzo. Pewne rzeczy rozumiem maÅ‚o. DuÅ¼o rzeczy nie rozumiem.}
 {135}{}{Ty, ja, tak samo.}
-{136}{}{To doskonale opisuje równie¿ i mnie.}
+{136}{}{To doskonale opisuje rÃ³wnieÅ¼ i mnie.}
 {137}{}{Dobrze ci idzie.}
-{138}{}{Innymi s³owy, jesteœ durniem.}
-{139}{}{Ty przyjaciel stada. Ty ratujesz stado naprawiaj¹c maszynê.}
-{140}{}{Witaj znowu. Wci¹¿ tu pilnujê.}
+{138}{}{Innymi sÅ‚owy, jesteÅ› durniem.}
+{139}{}{Ty przyjaciel stada. Ty ratujesz stado naprawiajÄ…c maszynÄ™.}
+{140}{}{Witaj znowu. WciÄ…Å¼ tu pilnujÄ™.}
 {141}{}{}
-{142}{}{Arrrrrrrrrgggh! Giñ!}
+{142}{}{Arrrrrrrrrgggh! GiÅ„!}
 {143}{}{.}

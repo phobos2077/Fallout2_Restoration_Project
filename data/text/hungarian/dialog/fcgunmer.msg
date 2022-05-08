@@ -1,52 +1,52 @@
 {100}{}{Egy lelkes Shi.}
 {101}{}{? Mai Da Chiang, a Red 888 Fegyverbolt tulajdonosa.}
-{102}{}{Ez egy jól táplált Shi, aki úgy lászik, állandóan magas fordulatszámon pörög.}
-{103}{}{Üdvözöllek a Red 888 Fegyverboltban! Mai Da Chiang vagyok, a tulaj. Segíthetek?}
+{102}{}{Ez egy jÃ³l tÃ¡plÃ¡lt Shi, aki Ãºgy lÃ¡szik, Ã¡llandÃ³an magas fordulatszÃ¡mon pÃ¶rÃ¶g.}
+{103}{}{ÃœdvÃ¶zÃ¶llek a Red 888 Fegyverboltban! Mai Da Chiang vagyok, a tulaj. SegÃ­thetek?}
 {104}{}{Grokken di ma!}
-{105}{}{Én vásárol!}
-{106}{}{Valami fegyverzet vásárlásán töröm a fejem.}
-{107}{}{Mesélj err?l a helyr?l!}
-{108}{}{Felejtsük el!}
-{109}{}{Sajnálom! Nem értem a nyelvedet! Minden jót!}
+{105}{}{Ã‰n vÃ¡sÃ¡rol!}
+{106}{}{Valami fegyverzet vÃ¡sÃ¡rlÃ¡sÃ¡n tÃ¶rÃ¶m a fejem.}
+{107}{}{MesÃ©lj err?l a helyr?l!}
+{108}{}{FelejtsÃ¼k el!}
+{109}{}{SajnÃ¡lom! Nem Ã©rtem a nyelvedet! Minden jÃ³t!}
 {110}{}{Rrr?}
-{111}{}{Ahh, fegyvert vennél, mi? Hát... ezt tudom nyújtani.}
-{112}{}{-tovább-}
-{113}{}{Nagyszer?, nagyszer?. Kösz az üzletelést. Jöjj vissza mihamarabb!}
-{114}{}{Még kérdeznék!}
-{115}{}{Üdv!}
-{116}{}{Nem. Nem elég jó. Sajnálom. Esetleg valami egyéb?}
-{117}{}{Még kérdeznék, ha nem tartom fel.}
-{118}{}{Nem. Viszlát!}
-{119}{}{Szükséged van még valamire?}
-{120}{}{Én vásárol!}
-{121}{}{Nem. Viszlát!}
-{122}{}{Valami fegyverzet vásárlásán töröm a fejem.}
-{123}{}{Mesélj err?l a helyr?l!}
-{124}{}{Felejtsük el!}
-{125}{}{Évek óta itt élünk, de ez nem mindig volt így. Dr. Fung tudja a teljes történetünket. Le merném fogadni, hogy az érdekel, amivel mi foglalkozunk.}
+{111}{}{Ahh, fegyvert vennÃ©l, mi? HÃ¡t... ezt tudom nyÃºjtani.}
+{112}{}{-tovÃ¡bb-}
+{113}{}{Nagyszer?, nagyszer?. KÃ¶sz az Ã¼zletelÃ©st. JÃ¶jj vissza mihamarabb!}
+{114}{}{MÃ©g kÃ©rdeznÃ©k!}
+{115}{}{Ãœdv!}
+{116}{}{Nem. Nem elÃ©g jÃ³. SajnÃ¡lom. Esetleg valami egyÃ©b?}
+{117}{}{MÃ©g kÃ©rdeznÃ©k, ha nem tartom fel.}
+{118}{}{Nem. ViszlÃ¡t!}
+{119}{}{SzÃ¼ksÃ©ged van mÃ©g valamire?}
+{120}{}{Ã‰n vÃ¡sÃ¡rol!}
+{121}{}{Nem. ViszlÃ¡t!}
+{122}{}{Valami fegyverzet vÃ¡sÃ¡rlÃ¡sÃ¡n tÃ¶rÃ¶m a fejem.}
+{123}{}{MesÃ©lj err?l a helyr?l!}
+{124}{}{FelejtsÃ¼k el!}
+{125}{}{Ã‰vek Ã³ta itt Ã©lÃ¼nk, de ez nem mindig volt Ã­gy. Dr. Fung tudja a teljes tÃ¶rtÃ©netÃ¼nket. Le mernÃ©m fogadni, hogy az Ã©rdekel, amivel mi foglalkozunk.}
 {126}{}{Igen.}
-{127}{}{Nem, igazság szerint a történelem érdekel. Megyek, megkeresem Fungot. Minden jót!}
-{128}{}{Embereink f?leg halászattal és tudományokkal foglalkoznak. A halászok halat fognak, a tudósok pedig egy olyan projekten dolgoznak, amely az elmondásuk szerint hamarosan megváltoztatja a világot.}
-{129}{}{Meg akarják változtatni a világot?}
-{130}{}{Mi egyéb történik manapság a városban?}
-{131}{}{Hmm. Érdekes. Még kérdeznék valamit, ha nem gond.}
-{132}{}{Kösz. Viszlát!}
-{133}{}{Nem tudok egyebet mondani. A titkaikat megtartják maguknak.}
-{134}{}{Értem. Mi egyéb történik a városban?}
-{135}{}{Értem. Volna még néhány kérdésem.}
-{136}{}{Kösz. Viszlát!}
-{137}{}{A városban két rivális harcm?vész verseng egymással. Az egyik Lo Pan, az önz?, a másik a Sárkány, az emberek pártfogója. Azt mondják, bármelyikük is nyer, az esemény meghatározza majd a harcm?vészetek jöv?jét.}
-{138}{}{Értem. Van valami egyéb a városban?}
-{139}{}{Értem. Volna még néhány kérdésem.}
-{140}{}{Köszi.}
-{141}{}{Egy rakás csavargó felköltözött a kiköt?ben álló Poseidon Olaj Tankerre. Szörnyek tanyáztak a hajóban, de azok a csavargók bezárták ?ket a hajótest alsóbb szintjeire. Habár kívülállókról van szó, hálásak vagyunk, hogy megtették ezt nekünk.}
-{142}{}{Egyéb újság?}
-{143}{}{Értem. Volna még néhány kérdésem.}
-{144}{}{Kösz. Viszlát!}
-{145}{}{A tudósok azt jelentették, hogy valaki áttörte a számítógépes védelmüket és ellopta a titkainkat.}
-{146}{}{Egyéb újság?}
-{147}{}{Értem. Volna még néhány kérdésem.}
-{148}{}{Kösz. Viszlát!}
-{149}{}{Jelen pillanatban más nem jut eszembe. Szép napot!}
-{150}{}{Minden jót!}
-{151}{}{Tolvaj, gyilkos, b?nöz? vagy. Attól tartok, meg kell, hogy öljelek.}
+{127}{}{Nem, igazsÃ¡g szerint a tÃ¶rtÃ©nelem Ã©rdekel. Megyek, megkeresem Fungot. Minden jÃ³t!}
+{128}{}{Embereink f?leg halÃ¡szattal Ã©s tudomÃ¡nyokkal foglalkoznak. A halÃ¡szok halat fognak, a tudÃ³sok pedig egy olyan projekten dolgoznak, amely az elmondÃ¡suk szerint hamarosan megvÃ¡ltoztatja a vilÃ¡got.}
+{129}{}{Meg akarjÃ¡k vÃ¡ltoztatni a vilÃ¡got?}
+{130}{}{Mi egyÃ©b tÃ¶rtÃ©nik manapsÃ¡g a vÃ¡rosban?}
+{131}{}{Hmm. Ã‰rdekes. MÃ©g kÃ©rdeznÃ©k valamit, ha nem gond.}
+{132}{}{KÃ¶sz. ViszlÃ¡t!}
+{133}{}{Nem tudok egyebet mondani. A titkaikat megtartjÃ¡k maguknak.}
+{134}{}{Ã‰rtem. Mi egyÃ©b tÃ¶rtÃ©nik a vÃ¡rosban?}
+{135}{}{Ã‰rtem. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{136}{}{KÃ¶sz. ViszlÃ¡t!}
+{137}{}{A vÃ¡rosban kÃ©t rivÃ¡lis harcm?vÃ©sz verseng egymÃ¡ssal. Az egyik Lo Pan, az Ã¶nz?, a mÃ¡sik a SÃ¡rkÃ¡ny, az emberek pÃ¡rtfogÃ³ja. Azt mondjÃ¡k, bÃ¡rmelyikÃ¼k is nyer, az esemÃ©ny meghatÃ¡rozza majd a harcm?vÃ©szetek jÃ¶v?jÃ©t.}
+{138}{}{Ã‰rtem. Van valami egyÃ©b a vÃ¡rosban?}
+{139}{}{Ã‰rtem. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{140}{}{KÃ¶szi.}
+{141}{}{Egy rakÃ¡s csavargÃ³ felkÃ¶ltÃ¶zÃ¶tt a kikÃ¶t?ben Ã¡llÃ³ Poseidon Olaj Tankerre. SzÃ¶rnyek tanyÃ¡ztak a hajÃ³ban, de azok a csavargÃ³k bezÃ¡rtÃ¡k ?ket a hajÃ³test alsÃ³bb szintjeire. HabÃ¡r kÃ­vÃ¼lÃ¡llÃ³krÃ³l van szÃ³, hÃ¡lÃ¡sak vagyunk, hogy megtettÃ©k ezt nekÃ¼nk.}
+{142}{}{EgyÃ©b ÃºjsÃ¡g?}
+{143}{}{Ã‰rtem. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{144}{}{KÃ¶sz. ViszlÃ¡t!}
+{145}{}{A tudÃ³sok azt jelentettÃ©k, hogy valaki Ã¡ttÃ¶rte a szÃ¡mÃ­tÃ³gÃ©pes vÃ©delmÃ¼ket Ã©s ellopta a titkainkat.}
+{146}{}{EgyÃ©b ÃºjsÃ¡g?}
+{147}{}{Ã‰rtem. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{148}{}{KÃ¶sz. ViszlÃ¡t!}
+{149}{}{Jelen pillanatban mÃ¡s nem jut eszembe. SzÃ©p napot!}
+{150}{}{Minden jÃ³t!}
+{151}{}{Tolvaj, gyilkos, b?nÃ¶z? vagy. AttÃ³l tartok, meg kell, hogy Ã¶ljelek.}

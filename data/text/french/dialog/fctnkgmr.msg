@@ -12,18 +12,18 @@
 {111}{}{Je ne vends aucune information, juste des armes. Tu veux voir ce que j'ai ?}
 {112}{}{Oui.}
 {113}{}{Non.}
-{114}{}{Je crois que ce que j'ai ‡ te proposer va te plaire. Prends ton temps et examine bien les choses.}
+{114}{}{Je crois que ce que j'ai √† te proposer va te plaire. Prends ton temps et examine bien les choses.}
 {115}{}{Ok.}
 {116}{}{Autre chose ?}
 {117}{}{Oui.}
 {118}{}{Non.}
-{119}{}{Alors je te souhaite une bonne journÈe.}
+{119}{}{Alors je te souhaite une bonne journ√©e.}
 {120}{}{Ok.}
 {121}{}{Rebonjour. Tu veux autre chose ?}
 {122}{}{Oui.}
 {123}{}{Non.}
-{124}{}{DÈsolÈ mais le magasin est fermÈ. J'ouvre vers 8 heures. Reviens ‡ ce moment-l‡ si tu veux quelque chose.}
+{124}{}{D√©sol√© mais le magasin est ferm√©. J'ouvre vers 8 heures. Reviens √† ce moment-l√† si tu veux quelque chose.}
 {125}{}{Ok.}
-{126}{}{Je n'ai rien ‡ te vendre. Sors de mon magasin !}
+{126}{}{Je n'ai rien √† te vendre. Sors de mon magasin !}
 {127}{}{Ok.}
-{128}{}{J'espËre que cette livraison va bientÙt arriver.}
+{128}{}{J'esp√®re que cette livraison va bient√¥t arriver.}

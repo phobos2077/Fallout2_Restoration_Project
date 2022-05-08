@@ -2,7 +2,7 @@
 {101}{}{You see Madame Modjeska.}
 {102}{}{I want to be alone.}
 {103}{}{Please just go away.}
-{104}{}{Não me incomode.}
+{104}{}{NÃ£o me incomode.}
 {105}{}{Please leave me.}
 {106}{}{I have no tolerance for the simple.}
 {107}{}{Most of the rabble are just working to get enough Jet. They need something to take their minds
@@ -44,11 +44,11 @@
 {137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
 {138}{}{Hear any interesting rumors?}
 {139}{}{Why do they call you Madame Modjeska?}
-{140}{}{Qual é o problema com você?}
+{140}{}{Qual Ã© o problema com vocÃª?}
 {141}{}{What happened to you?}
 {142}{}{Lately, I don't do much at all. I used to run part of Lou's operation at the Malamute Saloon -
  but we had a falling out, so I quit.}
-{143}{}{Deixa eu te perguntar outra coisa, então.}
+{143}{}{Deixa eu te perguntar outra coisa, entÃ£o.}
 {144}{}{I understand. Well, that's all I needed to know. Goodbye.}
 {145}{}{All I hear about are politics. That always seems to be the big stir in discussion.}
 {146}{}{Politics? What do you mean?}
@@ -58,7 +58,7 @@
  just stuck, even though I don't work there any more.}
 {150}{}{Where do you work now?}
 {151}{}{Deixe-me perguntar-lhe algo mais.}
-{152}{}{Acho que é tudo que preciso saber. Adeus.}
+{152}{}{Acho que Ã© tudo que preciso saber. Adeus.}
 {153}{}{I flew a bit of Jet a few days back and it made me feel quite unwell. Must have been a tainted
  batch. I 'm not eager to try that again. Oh well, back to the bottle, I suppose.}
 {154}{}{Sounds bad. Let me ask you something else, then.}
@@ -80,7 +80,7 @@
 {168}{}{In this game, Redding is the greased brahmin - and a golden one at that. New Reno, the New
  California Republic, and Vault City are all trying to catch us... or at least keep the others from
  catching us.}
-{169}{}{O que você quer dizer?}
+{169}{}{O que vocÃª quer dizer?}
 {170}{}{That's nice. Well, I better be going, Madame. Thanks for the insight. Goodbye.}
 {171}{}{Here in Redding we mine gold. Then we ship it to New Reno, the NCR, and Vault City in return for
  goods. Each of those places would like to have the gold - and the trade - all to themselves.}
@@ -88,7 +88,7 @@
 {173}{}{Who wouldn't? I think I'll try to find some of that gold myself. Thanks, and goodbye.}
 {174}{}{We're big enough, and far enough away, to make a take-over expensive as well as dangerous. Much
  more efficient to have us join willingly.}
-{175}{}{O que você quer dizer?}
+{175}{}{O que vocÃª quer dizer?}
 {176}{}{That makes sense. Thanks for clueing me in. Goodbye.}
 {177}{}{The three powers are trying to get Redding to choose which side to ally themselves with. They've
  all got powerful allies in town, and it looks like things are coming to a head. Soon, Redding's going to

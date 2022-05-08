@@ -1,82 +1,82 @@
 {100}{}{Ves a un joven delgado con gafas.}
 {101}{}{Es Gunther, el ayudante de la presidente Tandi. Al menos eso es lo que dice el cartel de la puerta.}
-{102}{}{Parece oficioso y ocupado, del tipo nacido para ser el burócrata que el resto odia.}
-{103}{}{¿Puedo ayudarte?}
-{104}{}{¿Otra vez tú?}
+{102}{}{Parece oficioso y ocupado, del tipo nacido para ser el burÃ³crata que el resto odia.}
+{103}{}{Â¿Puedo ayudarte?}
+{104}{}{Â¿Otra vez tÃº?}
 {105}{}{Uhhhh - trabajar. Trabajar con Tandi yo.}
-{106}{}{¿Quién eres?}
-{107}{}{Estoy aquí para ver a la presidente Tandi por un trabajo.}
+{106}{}{Â¿QuiÃ©n eres?}
+{107}{}{Estoy aquÃ­ para ver a la presidente Tandi por un trabajo.}
 {108}{}{Lo siento, oficina equivocada.}
-{109}{}{¿Quieres trabajo?}
-{110}{}{Vamos a intentarlo de nuevo. ¿Ayudar a Tandi? ¿Hacer trabajo para Tandi?}
-{111}{}{¡Sísisisi!}
+{109}{}{Â¿Quieres trabajo?}
+{110}{}{Vamos a intentarlo de nuevo. Â¿Ayudar a Tandi? Â¿Hacer trabajo para Tandi?}
+{111}{}{Â¡SÃ­sisisi!}
 {112}{}{Tandi trabajo. Quiero yo.}
-{113}{}{¿Qué haces?}
-{114}{}{Uhhhh... ¡mato, mato mucho grande!}
-{115}{}{Uhhhh... yo listo. Anciana dice que tengo cerebro-de-niño. Tengo 2 cerebros. Yo listo.}
-{116}{}{¡No puedes tomar el trabajo de presidente!}
-{117}{}{¿No?}
+{113}{}{Â¿QuÃ© haces?}
+{114}{}{Uhhhh... Â¡mato, mato mucho grande!}
+{115}{}{Uhhhh... yo listo. Anciana dice que tengo cerebro-de-niÃ±o. Tengo 2 cerebros. Yo listo.}
+{116}{}{Â¡No puedes tomar el trabajo de presidente!}
+{117}{}{Â¿No?}
 {118}{}{Oh. De acuerdo.}
-{119}{}{Vale. No estoy seguro de que sea eso lo que está buscando. En fin, dijo que los enviase a todos. Puedes ir. Habla con Tandi ahora.}
-{120}{}{¡NO! Tú eres tonta. ¡El presidente debe ser listo, hablar con palabras de dos sílabas! Tú no eres presidente.}
-{121}{}{Oh. ¿Que yo hago?}
-{122}{}{Yo no como tú. Tú gritas. Hombre malo.}
-{123}{}{Mi nombre es Gunther, soy el asistente personal de la presidente Tandi. Y ahora, ¿qué puedo hacer por ti?}
+{119}{}{Vale. No estoy seguro de que sea eso lo que estÃ¡ buscando. En fin, dijo que los enviase a todos. Puedes ir. Habla con Tandi ahora.}
+{120}{}{Â¡NO! TÃº eres tonta. Â¡El presidente debe ser listo, hablar con palabras de dos sÃ­labas! TÃº no eres presidente.}
+{121}{}{Oh. Â¿Que yo hago?}
+{122}{}{Yo no como tÃº. TÃº gritas. Hombre malo.}
+{123}{}{Mi nombre es Gunther, soy el asistente personal de la presidente Tandi. Y ahora, Â¿quÃ© puedo hacer por ti?}
 {124}{}{Estoy buscando el Refugio 13.}
 {125}{}{Estoy buscando un GECK.}
 {126}{}{Creo que la presidente tiene un trabajo que hay que hacer.}
-{127}{}{La Señora Presidente no concede entrevistas referidas al Refugio 13. Lo siento. Está demasiado ocupada como para ver a cada prospector que se deja caer por aquí.}
-{128}{}{¿Eh? No lo entiendo.}
-{129}{}{¿Qué acerca de un GECK? Ella puede saber algo acerca de eso?}
-{130}{}{Se habló sobre un trabajo.}
-{131}{}{Me resultas inútil. Me marcho.}
-{132}{}{Entonces te sugiero que leas la placa de la estatua del exterior. Y ahora, buenos días.}
-{133}{}{No tengo ni idea de lo que estás hablando. ¿Tienes alguna pregunta de verdad?}
+{127}{}{La SeÃ±ora Presidente no concede entrevistas referidas al Refugio 13. Lo siento. EstÃ¡ demasiado ocupada como para ver a cada prospector que se deja caer por aquÃ­.}
+{128}{}{Â¿Eh? No lo entiendo.}
+{129}{}{Â¿QuÃ© acerca de un GECK? Ella puede saber algo acerca de eso?}
+{130}{}{Se hablÃ³ sobre un trabajo.}
+{131}{}{Me resultas inÃºtil. Me marcho.}
+{132}{}{Entonces te sugiero que leas la placa de la estatua del exterior. Y ahora, buenos dÃ­as.}
+{133}{}{No tengo ni idea de lo que estÃ¡s hablando. Â¿Tienes alguna pregunta de verdad?}
 {134}{}{Estoy buscando el Refugio 13.}
 {135}{}{Creo que la presidente tiene un trabajo que hay que hacer.}
 {136}{}{No importa.}
-{137}{}{Ah, sí. Bien, ella me dio instrucciones para dejar pasar a cualquiera que preguntara sobre ello. Puedes pasar. Es la puerta de mi derecha.}
-{138}{}{¿La Señora Presidente ha terminado contigo? ¿Cómo han ido las cosas?}
-{139}{}{Bien. Yo adiós.}
-{140}{}{Muy bien. Ahora, me largo de aquí.}
-{141}{}{¿Estás aquí para informar de los resultados del Refugio 15?}
-{142}{}{Sí.}
+{137}{}{Ah, sÃ­. Bien, ella me dio instrucciones para dejar pasar a cualquiera que preguntara sobre ello. Puedes pasar. Es la puerta de mi derecha.}
+{138}{}{Â¿La SeÃ±ora Presidente ha terminado contigo? Â¿CÃ³mo han ido las cosas?}
+{139}{}{Bien. Yo adiÃ³s.}
+{140}{}{Muy bien. Ahora, me largo de aquÃ­.}
+{141}{}{Â¿EstÃ¡s aquÃ­ para informar de los resultados del Refugio 15?}
+{142}{}{SÃ­.}
 {143}{}{No.}
-{144}{}{Bien, lo siento, pero la Señora Presidente está muy ocupada. ¿Por qué no vuelves cuando el trabajo esté hecho?}
+{144}{}{Bien, lo siento, pero la SeÃ±ora Presidente estÃ¡ muy ocupada. Â¿Por quÃ© no vuelves cuando el trabajo estÃ© hecho?}
 {145}{}{Vale.}
-{146}{}{¡Excelente! Avisaré de que vas.}
-{147}{}{¡Zorra! ¡Guardias! ¡Asesina! ¡Asesina!}
-{148}{}{¡Ya de vuelta! ¿Y ahora qué?}
+{146}{}{Â¡Excelente! AvisarÃ© de que vas.}
+{147}{}{Â¡Zorra! Â¡Guardias! Â¡Asesina! Â¡Asesina!}
+{148}{}{Â¡Ya de vuelta! Â¿Y ahora quÃ©?}
 {149}{}{Rec-compensa.}
 {150}{}{La presidente dijo que te preguntara por una recompensa.}
 {151}{}{D-dinero.}
-{152}{}{Estoy aquí para recoger mi paga.}
-{153}{}{Tu presidente dijo que deberías saber que hay un espía en vuestra casa: alguien llamado Feargus.}
+{152}{}{Estoy aquÃ­ para recoger mi paga.}
+{153}{}{Tu presidente dijo que deberÃ­as saber que hay un espÃ­a en vuestra casa: alguien llamado Feargus.}
 {154}{}{Nada.}
-{155}{}{Desde luego, acaba de avisarme sobre ello. Una recompensa de 6.000 dólares y el agradecimiento de la RNC, dijo. Ahora, tengo trabajo que hacer. Adiós.}
-{156}{}{Veamos. En el contrato pone 500 dólares. Aquí están.}
-{157}{}{De hecho, acaba de avisarme para cambiar la cantidad: parece que has merecido un extra. Aquí están, 900 dólares y las gracias de la RNC. Y ahora, he de continuar trabajando, así que adiós.}
-{158}{}{Tu presidente dijo que deberías saber que hay un espía en vuestra casa: alguien llamado Feargus.}
-{159}{}{Adiós.}
-{160}{}{¿Feargus? ¡No lo creo!}
+{155}{}{Desde luego, acaba de avisarme sobre ello. Una recompensa de 6.000 dÃ³lares y el agradecimiento de la RNC, dijo. Ahora, tengo trabajo que hacer. AdiÃ³s.}
+{156}{}{Veamos. En el contrato pone 500 dÃ³lares. AquÃ­ estÃ¡n.}
+{157}{}{De hecho, acaba de avisarme para cambiar la cantidad: parece que has merecido un extra. AquÃ­ estÃ¡n, 900 dÃ³lares y las gracias de la RNC. Y ahora, he de continuar trabajando, asÃ­ que adiÃ³s.}
+{158}{}{Tu presidente dijo que deberÃ­as saber que hay un espÃ­a en vuestra casa: alguien llamado Feargus.}
+{159}{}{AdiÃ³s.}
+{160}{}{Â¿Feargus? Â¡No lo creo!}
 {161}{}{Echa una mirada a este disco.}
-{162}{}{Lo que sea. Me largo de aquí.}
-{163}{}{Maldición. Parece una prueba sólida. Mira, nos encargaremos de esto. Aquí tienes 4.000 dólares por la información.}
-{164}{}{No acepto dinero manchado de sangre. Me largo de aquí.}
-{165}{}{Gracias. Que tengas un buen día.}
-{166}{}{Oh, eres tú. Mira, este no es un buen momento. De hecho, creo que la Señora Presidente preferiría que no te involucraras en nada más. Gracias y buenos días.}
+{162}{}{Lo que sea. Me largo de aquÃ­.}
+{163}{}{MaldiciÃ³n. Parece una prueba sÃ³lida. Mira, nos encargaremos de esto. AquÃ­ tienes 4.000 dÃ³lares por la informaciÃ³n.}
+{164}{}{No acepto dinero manchado de sangre. Me largo de aquÃ­.}
+{165}{}{Gracias. Que tengas un buen dÃ­a.}
+{166}{}{Oh, eres tÃº. Mira, este no es un buen momento. De hecho, creo que la SeÃ±ora Presidente preferirÃ­a que no te involucraras en nada mÃ¡s. Gracias y buenos dÃ­as.}
 {167}{}{Te voy a hablar claro. La presidente no va a verte... ni ahora ni nunca. Se te ha pagado. Ahora simplemente vete.}
 {171}{}{Yo ir.}
 {172}{}{Absolutamente nada.}
-{173}{}{¡Zorra! ¡Guardias! ¡Asesina! ¡Asesina!}
+{173}{}{Â¡Zorra! Â¡Guardias! Â¡Asesina! Â¡Asesina!}
 {174}{}{He estado en el Refugio 15 y necesito hablarle a tu jefa sobre ello.}
 {175}{}{Tengo que hablar del Refugio 15.}
-{176}{}{Deberías saber que hay un espía en vuestra casa: alguien cuyo nombre empieza por F.}
-{177}{}{También encuentro espía. Ferrrgus.}
+{176}{}{DeberÃ­as saber que hay un espÃ­a en vuestra casa: alguien cuyo nombre empieza por F.}
+{177}{}{TambiÃ©n encuentro espÃ­a. Ferrrgus.}
 {178}{}{Yo no mentir. Miira. (Le das el disco).}
-{179}{}{¡Agradezco yo!}
-{500}{}{Tenemos las puertas cerradas por una razón.}
+{179}{}{Â¡Agradezco yo!}
+{500}{}{Tenemos las puertas cerradas por una razÃ³n.}
 {501}{}{Debo pedirte que te vayas.}
-{502}{}{Este es tu último aviso. Vete antes de que tenga que sacarte yo.}
+{502}{}{Este es tu Ãºltimo aviso. Vete antes de que tenga que sacarte yo.}
 {503}{}{Seguridad: por favor, encargaos de este problema.}
-{510}{}{Bueno, espera un minuto. Tengo más que discutir con tu jefe sobre el Refugio 15.}
+{510}{}{Bueno, espera un minuto. Tengo mÃ¡s que discutir con tu jefe sobre el Refugio 15.}

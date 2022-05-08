@@ -1,1 +1,1 @@
-{100}{}{Você alcançou o nível de ar, água e energia da EPA.}
+{100}{}{VocÃª alcanÃ§ou o nÃ­vel de ar, Ã¡gua e energia da EPA.}

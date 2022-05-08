@@ -1,23 +1,23 @@
-{100}{}{Ves a un capitán mercenario.}
+{100}{}{Ves a un capitÃ¡n mercenario.}
 {150}{}{Ves a un tipo duro vestido con una armadura de combate. Su armadura y sus armas parecen en buen estado, casi nuevas.}
-{151}{}{Ves a un capitán mercenario. Está examinando la zona y portando su pistola.}
+{151}{}{Ves a un capitÃ¡n mercenario. EstÃ¡ examinando la zona y portando su pistola.}
 {200}{}{Vaya, que cojonazos los de este hijo de puta...}
-{201}{}{¡Contacto!}
-{202}{}{¡Tenemos intrusos, muchachos!}
-{203}{}{¡A divertirse, muchachos, tenemos un intruso!}
-{204}{}{Vaya, mira quién ha venido aquí a morir…}
-{205}{}{¡Maldición! ¡Alguien nos ha encontrado!}
-{206}{}{Que vengas aquí es una fiesta...}
+{201}{}{Â¡Contacto!}
+{202}{}{Â¡Tenemos intrusos, muchachos!}
+{203}{}{Â¡A divertirse, muchachos, tenemos un intruso!}
+{204}{}{Vaya, mira quiÃ©n ha venido aquÃ­ a morirâ€¦}
+{205}{}{Â¡MaldiciÃ³n! Â¡Alguien nos ha encontrado!}
+{206}{}{Que vengas aquÃ­ es una fiesta...}
 {207}{}{Has venido al lugar equivocado, puta.}
-{208}{}{Vaya, mira cómo se pavonea esta golfa...}
-{215}{}{Mejor será llamar a esos equipos pronto...}
-{216}{}{Creo que el equipo Bravo se encuentra a unos pocos clicks al sur de Ciudad Refugio... aún estarán siguiendo el rastro de la caravana.}
-{217}{}{Será mejor que esa rata del desierto aparezca pronto... esa clase de mierda no cuela por aquí.}
-{218}{}{Es hora de enviar algunos hombres para comprobar el perímetro…}
-{219}{}{Si tan sólo pudiéramos sabotear esos cañones láser de Ciudad Refugio…}
-{220}{}{Aún estoy esperando la respuesta de Bishop…}
-{221}{}{Hace una semana desde que Bishop envió un mensajero.}
-{222}{}{Supongo que la siguiente caravana debería venir de la RNC a Ciudad Refugio…}
+{208}{}{Vaya, mira cÃ³mo se pavonea esta golfa...}
+{215}{}{Mejor serÃ¡ llamar a esos equipos pronto...}
+{216}{}{Creo que el equipo Bravo se encuentra a unos pocos clicks al sur de Ciudad Refugio... aÃºn estarÃ¡n siguiendo el rastro de la caravana.}
+{217}{}{SerÃ¡ mejor que esa rata del desierto aparezca pronto... esa clase de mierda no cuela por aquÃ­.}
+{218}{}{Es hora de enviar algunos hombres para comprobar el perÃ­metroâ€¦}
+{219}{}{Si tan sÃ³lo pudiÃ©ramos sabotear esos caÃ±ones lÃ¡ser de Ciudad Refugioâ€¦}
+{220}{}{AÃºn estoy esperando la respuesta de Bishopâ€¦}
+{221}{}{Hace una semana desde que Bishop enviÃ³ un mensajero.}
+{222}{}{Supongo que la siguiente caravana deberÃ­a venir de la RNC a Ciudad Refugioâ€¦}
 {223}{}{Tenemos que estar listos para partir en el momento de la noticia.}
 {224}{}{Espero que esos chicos hayan revisado las trampas.}
-{225}{}{¿Aún no han informado los equipos Alpha y Bravo?}
+{225}{}{Â¿AÃºn no han informado los equipos Alpha y Bravo?}

@@ -1,211 +1,211 @@
-{100}{}{É isso mesmo ... acho.}
-{101}{}{Não, mas ele não pode... eu, bem...hmmm...}
+{100}{}{Ã‰ isso mesmo ... acho.}
+{101}{}{NÃ£o, mas ele nÃ£o pode... eu, bem...hmmm...}
 {102}{}{O fio azul para a caixa vermelha ...}
-{103}{}{Estas mutações estão progredindo muito bem.}
-{104}{}{Não demorará muito agora.}
+{103}{}{Estas mutaÃ§Ãµes estÃ£o progredindo muito bem.}
+{104}{}{NÃ£o demorarÃ¡ muito agora.}
 {105}{}{Apenas mais algumas gotas de HCl...}
-{106}{}{Você vê um homem de jaleco branco.}
-{107}{}{Você vê O Médico.}
-{108}{}{O principal - e único - Doutor deixado na EPA.}
+{106}{}{VocÃª vÃª um homem de jaleco branco.}
+{107}{}{VocÃª vÃª O MÃ©dico.}
+{108}{}{O principal - e Ãºnico - Doutor deixado na EPA.}
 {109}{}{Seria imprudente para atacar-me.}
 {120}{}{Sim?}
-{121}{}{Oi, meu nome é }
-{122}{}{. Quem é você?}
-{123}{}{Desculpe incomodá-lo. Adeus.}
-{130}{}{Eu sou conhecido como o Médico.}
-{131}{}{Oh, certo. Então, o que faz? Por que você está aqui sozinho? O resto do lugar parece deserto.}
+{121}{}{Oi, meu nome Ã© }
+{122}{}{. Quem Ã© vocÃª?}
+{123}{}{Desculpe incomodÃ¡-lo. Adeus.}
+{130}{}{Eu sou conhecido como o MÃ©dico.}
+{131}{}{Oh, certo. EntÃ£o, o que faz? Por que vocÃª estÃ¡ aqui sozinho? O resto do lugar parece deserto.}
 {132}{}{OK, obrigado.}
-{140}{}{Vejo que você é adequadamente habilidoso nos caminhos da ciência. Talvez você possa entender o que eu faço depois de tudo. O que você deseja saber?}
-{141}{}{Por que você está aqui?}
-{142}{}{O que você faz aqui?}
-{150}{}{Desculpe, mas não acredito que você tenha as habilidades necessárias para entender o que estou fazendo aqui. Volte quando você for mentalmente mais capacitado.}
-{151}{}{Whoa, apenas um minuto. Eu terei uma chance em qualquer coisa que você me desse!}
-{152}{}{Bem, tudo certo então. Adeus.}
-{160}{}{Eu fazia parte da equipe original de cientistas que trabalhava aqui na EPA antes da guerra. Infelizmente, nenhum deles era habilidoso o suficiente nas disciplinas científicas ou possuía resolução suficiente e teve que sair. Agora, eu sou o único a ser deixado.}
-{161}{}{Então, você está feliz com isso? Quero dizer, sendo o único aqui?}
-{170}{}{Tudo o que eu quero realmente. No momento, estou realizando mais pesquisas genéticas sobre criaturas que criei para observar os efeitos da VEF em seus sistemas imunológicos. Anos atrás, criei muitas drogas novas e adaptei várias outras, mas não faço mais isso.}
-{171}{}{O que isso tem a ver com as criaturas que você tenha criado?}
-{172}{}{Que tipo de drogas você já fez?}
-{180}{}{Não, você não pode. Você simplesmente não é qualificado o suficiente nas formas de aprimoramento científico e biológico. Agora, se você me desculpar, está perdendo meu tempo.}
-{181}{}{Eu certamente não estou. Tente-me.}
-{190}{}{<sorrisos> Bem, talvez sim. OK, se você quiser, vou lhe dar uma chance. O que você gostaria de saber?}
-{191}{}{Por que você está aqui?}
-{192}{}{O que você faz aqui?}
-{200}{}{Por que, claro! Ninguém para cuidar de mim. Não tem regras. Faço o que quiser, sempre que quiser. Além disso, com apenas eu sendo deixado aqui, tenho acesso a todos os equipamentos que eu precisaria. Algo mais?}
-{201}{}{Quem são as pessoas por ali naquelas gaiolas?}
-{202}{}{O que é o engraçado líquido colorido que eu vi em torno da EPA?}
-{203}{}{De onde você tira todos os equipamentos?}
-{210}{}{Aqueles nas primeiras celas por esse muro são alguns aldeões que vagaram aqui por engano e eu os capturei para uso mais tarde. Os outros de aparência mais forte são meus próprios guerreiros para ... emergências.}
-{211}{}{...para usar mais tarde? O que você quer dizer?}
+{140}{}{Vejo que vocÃª Ã© adequadamente habilidoso nos caminhos da ciÃªncia. Talvez vocÃª possa entender o que eu faÃ§o depois de tudo. O que vocÃª deseja saber?}
+{141}{}{Por que vocÃª estÃ¡ aqui?}
+{142}{}{O que vocÃª faz aqui?}
+{150}{}{Desculpe, mas nÃ£o acredito que vocÃª tenha as habilidades necessÃ¡rias para entender o que estou fazendo aqui. Volte quando vocÃª for mentalmente mais capacitado.}
+{151}{}{Whoa, apenas um minuto. Eu terei uma chance em qualquer coisa que vocÃª me desse!}
+{152}{}{Bem, tudo certo entÃ£o. Adeus.}
+{160}{}{Eu fazia parte da equipe original de cientistas que trabalhava aqui na EPA antes da guerra. Infelizmente, nenhum deles era habilidoso o suficiente nas disciplinas cientÃ­ficas ou possuÃ­a resoluÃ§Ã£o suficiente e teve que sair. Agora, eu sou o Ãºnico a ser deixado.}
+{161}{}{EntÃ£o, vocÃª estÃ¡ feliz com isso? Quero dizer, sendo o Ãºnico aqui?}
+{170}{}{Tudo o que eu quero realmente. No momento, estou realizando mais pesquisas genÃ©ticas sobre criaturas que criei para observar os efeitos da VEF em seus sistemas imunolÃ³gicos. Anos atrÃ¡s, criei muitas drogas novas e adaptei vÃ¡rias outras, mas nÃ£o faÃ§o mais isso.}
+{171}{}{O que isso tem a ver com as criaturas que vocÃª tenha criado?}
+{172}{}{Que tipo de drogas vocÃª jÃ¡ fez?}
+{180}{}{NÃ£o, vocÃª nÃ£o pode. VocÃª simplesmente nÃ£o Ã© qualificado o suficiente nas formas de aprimoramento cientÃ­fico e biolÃ³gico. Agora, se vocÃª me desculpar, estÃ¡ perdendo meu tempo.}
+{181}{}{Eu certamente nÃ£o estou. Tente-me.}
+{190}{}{<sorrisos> Bem, talvez sim. OK, se vocÃª quiser, vou lhe dar uma chance. O que vocÃª gostaria de saber?}
+{191}{}{Por que vocÃª estÃ¡ aqui?}
+{192}{}{O que vocÃª faz aqui?}
+{200}{}{Por que, claro! NinguÃ©m para cuidar de mim. NÃ£o tem regras. FaÃ§o o que quiser, sempre que quiser. AlÃ©m disso, com apenas eu sendo deixado aqui, tenho acesso a todos os equipamentos que eu precisaria. Algo mais?}
+{201}{}{Quem sÃ£o as pessoas por ali naquelas gaiolas?}
+{202}{}{O que Ã© o engraÃ§ado lÃ­quido colorido que eu vi em torno da EPA?}
+{203}{}{De onde vocÃª tira todos os equipamentos?}
+{210}{}{Aqueles nas primeiras celas por esse muro sÃ£o alguns aldeÃµes que vagaram aqui por engano e eu os capturei para uso mais tarde. Os outros de aparÃªncia mais forte sÃ£o meus prÃ³prios guerreiros para ... emergÃªncias.}
+{211}{}{...para usar mais tarde? O que vocÃª quer dizer?}
 {212}{}{Obrigado. Posso fazer outra pergunta?}
 {213}{}{Direito. Obrigado. Eu preciso ir agora.}
-{220}{}{Químicos e tanques de VEF principalmente. Tudo estava completo em grandes barris para armazenamento seguro aqui na EPA. Infelizmente, houve um pequeno acidente e um enorme vazamento químico forçou todos, exceto aqueles hologramas daft, a sair. Alguns dos produtos químicos vazaram para os níveis mais baixos. Agora estou usando isso como material de experimentação. Até agora, ofereceu alguns resultados promissores!}
-{221}{}{Que tipos de resultados? Quer dizer que você criou essas criaturas?}
-{222}{}{Então, onde você obter todos os seus equipamentos?}
-{230}{}{Aqui principalmente. A EPA foi originalmente projetada e decorada com todos os tipos de máquinas e, como todos os outros cientistas deixaram, nenhum foi usado. Estou acabando com algumas coisas agora depois de tantos anos ...}
-{231}{}{Deixa pra lá. Eu devo ir agora.}
-{240}{}{Drogas? Dezenas! Ao longo dos anos eu criei mentats, buffouts, stimpaks, kits médicos de diferentes pontos fortes, psicos e muitos outros que você não entenderia. Mas não faço mais isso. Eu criei o Sr. Chemmie! robô para fazer isso por mim. Está no complexo principal. Se você tem a inteligência e habilidades científicas que você diz, então, sinta-se livre para usá-lo para fazer qualquer droga que você deseja.}
-{241}{}{Que medicamentos você criou?}
+{220}{}{QuÃ­micos e tanques de VEF principalmente. Tudo estava completo em grandes barris para armazenamento seguro aqui na EPA. Infelizmente, houve um pequeno acidente e um enorme vazamento quÃ­mico forÃ§ou todos, exceto aqueles hologramas daft, a sair. Alguns dos produtos quÃ­micos vazaram para os nÃ­veis mais baixos. Agora estou usando isso como material de experimentaÃ§Ã£o. AtÃ© agora, ofereceu alguns resultados promissores!}
+{221}{}{Que tipos de resultados? Quer dizer que vocÃª criou essas criaturas?}
+{222}{}{EntÃ£o, onde vocÃª obter todos os seus equipamentos?}
+{230}{}{Aqui principalmente. A EPA foi originalmente projetada e decorada com todos os tipos de mÃ¡quinas e, como todos os outros cientistas deixaram, nenhum foi usado. Estou acabando com algumas coisas agora depois de tantos anos ...}
+{231}{}{Deixa pra lÃ¡. Eu devo ir agora.}
+{240}{}{Drogas? Dezenas! Ao longo dos anos eu criei mentats, buffouts, stimpaks, kits mÃ©dicos de diferentes pontos fortes, psicos e muitos outros que vocÃª nÃ£o entenderia. Mas nÃ£o faÃ§o mais isso. Eu criei o Sr. Chemmie! robÃ´ para fazer isso por mim. EstÃ¡ no complexo principal. Se vocÃª tem a inteligÃªncia e habilidades cientÃ­ficas que vocÃª diz, entÃ£o, sinta-se livre para usÃ¡-lo para fazer qualquer droga que vocÃª deseja.}
+{241}{}{Que medicamentos vocÃª criou?}
 {242}{}{Onde posso encontrar o Chemmie!?}
-{243}{}{Obrigado. Digo, você já ouviu falar do jet?}
-{250}{}{Sim, criei muitas criaturas enquanto estive na EPA. Se você é um tipo explorador, então você pode ter encontrado alguns deles nos resíduos. Centauros? Flutuadores? Os aliens"? Eles vagam livremente agora nos resíduos. Acabei de reter alguns aqui e na base principal para futuras referências.}
-{251}{}{Só um minuto. Você está me dizendo que todas aquelas criaturas lá fora, as coisas que estão atacando o deserto e matando inocentes foram criadas por você ?!}
-{252}{}{Whoa, nota para si: não se enoje com o médico. Adeus.}
-{260}{}{'O que eu quero dizer?' O vírus da evolução forçada, é claro! Estou apenas começando a experimentar os efeitos sobre os seres humanos. Todos nós ouvimos a história do Mestre. Eu estava pensando em fazer algo parecido comigo mesmo. Um exército próprio seria certamente muito útil!}
-{261}{}{Você não acha isso um pouco imoral? Como você pode considerar uma coisa tão hedionda?}
-{262}{}{Apenas ficando ao redor dos humanos? Em que mais você trabalhou?}
+{243}{}{Obrigado. Digo, vocÃª jÃ¡ ouviu falar do jet?}
+{250}{}{Sim, criei muitas criaturas enquanto estive na EPA. Se vocÃª Ã© um tipo explorador, entÃ£o vocÃª pode ter encontrado alguns deles nos resÃ­duos. Centauros? Flutuadores? Os aliens"? Eles vagam livremente agora nos resÃ­duos. Acabei de reter alguns aqui e na base principal para futuras referÃªncias.}
+{251}{}{SÃ³ um minuto. VocÃª estÃ¡ me dizendo que todas aquelas criaturas lÃ¡ fora, as coisas que estÃ£o atacando o deserto e matando inocentes foram criadas por vocÃª ?!}
+{252}{}{Whoa, nota para si: nÃ£o se enoje com o mÃ©dico. Adeus.}
+{260}{}{'O que eu quero dizer?' O vÃ­rus da evoluÃ§Ã£o forÃ§ada, Ã© claro! Estou apenas comeÃ§ando a experimentar os efeitos sobre os seres humanos. Todos nÃ³s ouvimos a histÃ³ria do Mestre. Eu estava pensando em fazer algo parecido comigo mesmo. Um exÃ©rcito prÃ³prio seria certamente muito Ãºtil!}
+{261}{}{VocÃª nÃ£o acha isso um pouco imoral? Como vocÃª pode considerar uma coisa tÃ£o hedionda?}
+{262}{}{Apenas ficando ao redor dos humanos? Em que mais vocÃª trabalhou?}
 {263}{}{Bem, boa sorte com isso. Devo ir agora.}
-{270}{}{Sim, suponho que você pode. Você me diverte muito. O que mais posso responder pra você? }
+{270}{}{Sim, suponho que vocÃª pode. VocÃª me diverte muito. O que mais posso responder pra vocÃª? }
 {271}{}{Diga-me novamente sobre essas pessoas.}
-{272}{}{O que é o engraçado líquido colorido em torno do EPA?}
-{273}{}{De onde você tira todos os equipamentos e suprimentos para suas experiências?}
-{280}{}{Não não não. Antes de sair, devo pedir-lhe uma coisa. Você poderia me fazer um pequeno favor? Não deixo a segurança do armazém por medo de serem roubadas. Preciso de algumas matérias-primas. Você poderia me ajudar?}
-{281}{}{Sim, suponho que sim. O que você precisa?}
-{282}{}{Não, estou muito ocupado no momento. Talvez alguma outra hora.}
-{290}{}{Sim, eu me perguntei o que o vírus faria em animais domesticados normais, salvo no armazenamento antes da guerra. O desafortunado teve afetado seus ciclos reprodutivos e eles procriaram muito rapidamente. Os soltei nos resíduos logo que percebi isso.}
-{291}{}{Você é um monstro! Não é de admirar que ninguém na área conheça você! Você deve ser descartado.}
-{292}{}{Bem, eu não concordo com o que você está fazendo, mas não há nada que eu possa fazer sobre isso. Adeus.}
-{300}{}{Medicamentos especiais? Bem, eu tenho cultivado uma nova safra de maconha. É uma droga pré-guerra que encontrei em um congelamento profundo. Eu só tenho estrume com as criaturas mutantes que você vê aqui, então era mais perigoso do que eu pensava. Os primeiros testes não tiveram muito sucesso, mesmo assim ...}
+{272}{}{O que Ã© o engraÃ§ado lÃ­quido colorido em torno do EPA?}
+{273}{}{De onde vocÃª tira todos os equipamentos e suprimentos para suas experiÃªncias?}
+{280}{}{NÃ£o nÃ£o nÃ£o. Antes de sair, devo pedir-lhe uma coisa. VocÃª poderia me fazer um pequeno favor? NÃ£o deixo a seguranÃ§a do armazÃ©m por medo de serem roubadas. Preciso de algumas matÃ©rias-primas. VocÃª poderia me ajudar?}
+{281}{}{Sim, suponho que sim. O que vocÃª precisa?}
+{282}{}{NÃ£o, estou muito ocupado no momento. Talvez alguma outra hora.}
+{290}{}{Sim, eu me perguntei o que o vÃ­rus faria em animais domesticados normais, salvo no armazenamento antes da guerra. O desafortunado teve afetado seus ciclos reprodutivos e eles procriaram muito rapidamente. Os soltei nos resÃ­duos logo que percebi isso.}
+{291}{}{VocÃª Ã© um monstro! NÃ£o Ã© de admirar que ninguÃ©m na Ã¡rea conheÃ§a vocÃª! VocÃª deve ser descartado.}
+{292}{}{Bem, eu nÃ£o concordo com o que vocÃª estÃ¡ fazendo, mas nÃ£o hÃ¡ nada que eu possa fazer sobre isso. Adeus.}
+{300}{}{Medicamentos especiais? Bem, eu tenho cultivado uma nova safra de maconha. Ã‰ uma droga prÃ©-guerra que encontrei em um congelamento profundo. Eu sÃ³ tenho estrume com as criaturas mutantes que vocÃª vÃª aqui, entÃ£o era mais perigoso do que eu pensava. Os primeiros testes nÃ£o tiveram muito sucesso, mesmo assim ...}
 {301}{}{Posso pegar um pouco dessa droga?}
-{302}{}{Por que não estavam a ser bem sucedido? O que aconteceu?}
-{310}{}{Sr. Chemmie! está localizado na seção nordeste do piso inferior da EPA. Ou talvez o noroeste ... Na verdade, está no último andar. Oh, não consigo lembrar mais. É um enorme pedaço de maquinaria. Você não pode perder isso.}
-{311}{}{Direito. Obrigado. Você mencionou que você tinha criado alguns medicamentos especiais. Como o que?}
-{320}{}{Facilmente. Sou cientista. Isto é o que eu faço. As experiências são minha vida. Embora diferente, é realmente apenas outro tipo de experiência.}
-{321}{}{Você está mexendo com coisas que você não deveria estar alterando! E se der errado? E se algumas das pessoas que você está trabalhando morrem !?}
-{330}{}{Eliminado! Ah não. Acho que não. Estou fazendo o trabalho que originalmente fui contratado para fazer. Investigue e experimente. Contudo, com o passar do tempo, você começa a ficar sem coisas para investigar, então você tem que ser mais liberal em suas idéias. Eu acho que uma vez foi chamado de "pensar fora da caixa".}
-{331}{}{Eu já tive o suficiente disso! Se ninguém vai parar você, então eu vou.}
-{332}{}{Você está doente e eu estou deixando. Adeus.}
-{340}{}{Sim, porque não? Fique a vontade. Há abundância nos galpões de armazenamento no nível da superfície. Eu acho que posso ter programado o Sr. Chemmie! para fazê-lo também. Não faço mais nada por aqui, pois ocupa muito espaço.}
-{341}{}{Obrigado! Você estava dizendo há um momento que você não teve sucesso em julgamentos iniciais? Por que isso?}
-{350}{}{Bem, alguns dos sujeitos de teste tiveram reações graves ao vírus, mas nem sequer valem a pena mencionar. Alguns erros aqui e ali são esperados em nossa linha de trabalho. Agora, se você me desculpar, tenho coisas para fazer.}
-{351}{}{Sim, eu suponho que eu faço bem. Adeus.}
-{360}{}{Em seguida, eles morrem. O que você espera que eu faça? Esta é a forma como se faz o progresso.}
-{361}{}{Monstruoso! Inacreditável! Você morre - agora!}
-{362}{}{Eu não aguento mais isso. Adeus. Eu não vou estar de volta em breve.}
-{370}{}{Jato? Sim, essa é a droga que a maior parte de Redding está em alta, se não estou enganada. É um composto excepcionalmente complexo e minhas máquinas não conseguiram reproduzi-lo mesmo em potência máxima. Por quê? O que você sabe disso?}
+{302}{}{Por que nÃ£o estavam a ser bem sucedido? O que aconteceu?}
+{310}{}{Sr. Chemmie! estÃ¡ localizado na seÃ§Ã£o nordeste do piso inferior da EPA. Ou talvez o noroeste ... Na verdade, estÃ¡ no Ãºltimo andar. Oh, nÃ£o consigo lembrar mais. Ã‰ um enorme pedaÃ§o de maquinaria. VocÃª nÃ£o pode perder isso.}
+{311}{}{Direito. Obrigado. VocÃª mencionou que vocÃª tinha criado alguns medicamentos especiais. Como o que?}
+{320}{}{Facilmente. Sou cientista. Isto Ã© o que eu faÃ§o. As experiÃªncias sÃ£o minha vida. Embora diferente, Ã© realmente apenas outro tipo de experiÃªncia.}
+{321}{}{VocÃª estÃ¡ mexendo com coisas que vocÃª nÃ£o deveria estar alterando! E se der errado? E se algumas das pessoas que vocÃª estÃ¡ trabalhando morrem !?}
+{330}{}{Eliminado! Ah nÃ£o. Acho que nÃ£o. Estou fazendo o trabalho que originalmente fui contratado para fazer. Investigue e experimente. Contudo, com o passar do tempo, vocÃª comeÃ§a a ficar sem coisas para investigar, entÃ£o vocÃª tem que ser mais liberal em suas idÃ©ias. Eu acho que uma vez foi chamado de "pensar fora da caixa".}
+{331}{}{Eu jÃ¡ tive o suficiente disso! Se ninguÃ©m vai parar vocÃª, entÃ£o eu vou.}
+{332}{}{VocÃª estÃ¡ doente e eu estou deixando. Adeus.}
+{340}{}{Sim, porque nÃ£o? Fique a vontade. HÃ¡ abundÃ¢ncia nos galpÃµes de armazenamento no nÃ­vel da superfÃ­cie. Eu acho que posso ter programado o Sr. Chemmie! para fazÃª-lo tambÃ©m. NÃ£o faÃ§o mais nada por aqui, pois ocupa muito espaÃ§o.}
+{341}{}{Obrigado! VocÃª estava dizendo hÃ¡ um momento que vocÃª nÃ£o teve sucesso em julgamentos iniciais? Por que isso?}
+{350}{}{Bem, alguns dos sujeitos de teste tiveram reaÃ§Ãµes graves ao vÃ­rus, mas nem sequer valem a pena mencionar. Alguns erros aqui e ali sÃ£o esperados em nossa linha de trabalho. Agora, se vocÃª me desculpar, tenho coisas para fazer.}
+{351}{}{Sim, eu suponho que eu faÃ§o bem. Adeus.}
+{360}{}{Em seguida, eles morrem. O que vocÃª espera que eu faÃ§a? Esta Ã© a forma como se faz o progresso.}
+{361}{}{Monstruoso! InacreditÃ¡vel! VocÃª morre - agora!}
+{362}{}{Eu nÃ£o aguento mais isso. Adeus. Eu nÃ£o vou estar de volta em breve.}
+{370}{}{Jato? Sim, essa Ã© a droga que a maior parte de Redding estÃ¡ em alta, se nÃ£o estou enganada. Ã‰ um composto excepcionalmente complexo e minhas mÃ¡quinas nÃ£o conseguiram reproduzi-lo mesmo em potÃªncia mÃ¡xima. Por quÃª? O que vocÃª sabe disso?}
 {371}{}{Bem, eu tenho aqui comigo o seu criador.}
-{380}{}{[*Olhos brilham*] Realmente!? Quem? Posso vê-lo? Talvez falar com ele?}
-{381}{}{Claro. O nome dele é Myron. Ele está bem aqui.}
-{390}{}{Obrigado por trazer esse garoto Myron para mim. Ele é muito experiente! Não tão intelectualmente adepto quanto eu, entendo, mas bem, no entanto. Se ele quiser se estabelecer, pode vir aqui como meu aprendiz.}
-{391}{}{Não tenho certeza de que ele gostaria de ser um aprendiz de alguém. É melhor irmos.}
-{400}{}{Um momento, antes de você ir. Por favor, pegue isso como um sinal por trazer Myron aqui. Não tenho nenhum uso real para isso.}
-{401}{}{Hey, obrigado. Hum, o que é?}
-{410}{}{É um Solar Scorcher. Foi um experimento meu. Ele de alimenta da energia do sol e, portanto, não é necessária munição. Na verdade, funciona e será de grande utilidade para você, tenho certeza, nos resíduos profundos. Isso requer uma pergunta adicional na verdade ...}
-{411}{}{O que é isso?}
-{420}{}{Você parece um tipo aventureiro. Estou restrito aos fundamentos da EPA para cuidar de muitas experiências, mas preciso de algum equipamento que acabei. Você poderia colecionar algumas coisas para mim?}
-{421}{}{Sim, suponho que sim. O que você precisa?}
-{422}{}{Não, estou ocupado no momento em salvar minha aldeia. Talvez outra hora.}
-{430}{}{Bem, um dos únicos animais que não procurei em detalhes é o Gecko Dourado. Preciso de algum material de pesquisa antes de poder ir mais longe. Você poderia coletar, digamos, 10 peles de gecko de ouro e trazê-las de volta aqui para mim? Tenho certeza de que poderia encontrar algo aqui para lhe dar.}
+{380}{}{[*Olhos brilham*] Realmente!? Quem? Posso vÃª-lo? Talvez falar com ele?}
+{381}{}{Claro. O nome dele Ã© Myron. Ele estÃ¡ bem aqui.}
+{390}{}{Obrigado por trazer esse garoto Myron para mim. Ele Ã© muito experiente! NÃ£o tÃ£o intelectualmente adepto quanto eu, entendo, mas bem, no entanto. Se ele quiser se estabelecer, pode vir aqui como meu aprendiz.}
+{391}{}{NÃ£o tenho certeza de que ele gostaria de ser um aprendiz de alguÃ©m. Ã‰ melhor irmos.}
+{400}{}{Um momento, antes de vocÃª ir. Por favor, pegue isso como um sinal por trazer Myron aqui. NÃ£o tenho nenhum uso real para isso.}
+{401}{}{Hey, obrigado. Hum, o que Ã©?}
+{410}{}{Ã‰ um Solar Scorcher. Foi um experimento meu. Ele de alimenta da energia do sol e, portanto, nÃ£o Ã© necessÃ¡ria muniÃ§Ã£o. Na verdade, funciona e serÃ¡ de grande utilidade para vocÃª, tenho certeza, nos resÃ­duos profundos. Isso requer uma pergunta adicional na verdade ...}
+{411}{}{O que Ã© isso?}
+{420}{}{VocÃª parece um tipo aventureiro. Estou restrito aos fundamentos da EPA para cuidar de muitas experiÃªncias, mas preciso de algum equipamento que acabei. VocÃª poderia colecionar algumas coisas para mim?}
+{421}{}{Sim, suponho que sim. O que vocÃª precisa?}
+{422}{}{NÃ£o, estou ocupado no momento em salvar minha aldeia. Talvez outra hora.}
+{430}{}{Bem, um dos Ãºnicos animais que nÃ£o procurei em detalhes Ã© o Gecko Dourado. Preciso de algum material de pesquisa antes de poder ir mais longe. VocÃª poderia coletar, digamos, 10 peles de gecko de ouro e trazÃª-las de volta aqui para mim? Tenho certeza de que poderia encontrar algo aqui para lhe dar.}
 {431}{}{Sem problemas. Eu voltarei assim que os tiver.}
-{432}{}{Eu já tenho 10 peles comigo.}
-{440}{}{[Olha para você.] O que?}
-{441}{}{Uh, olá novamente. Não percebi quem você é a última vez que falamos.}
-{450}{}{Você de novo? O que você quer agora?}
-{451}{}{O que você faz aqui? Este lugar é como uma cidade fantasma.}
-{460}{}{Se você não quiser me ajudar, então por favor, me deixe em paz. Ou, você já decidiu emprestar suas habilidades?}
-{461}{}{Sim. O que você quer que eu faça?}
-{462}{}{Não, mas assim como eu sou livre, eu vou estar de volta para o ajudar.}
-{470}{}{Olá. Você já se acalmou em tudo ainda?}
-{471}{}{Não, eu estou aqui para matar você. O mundo precisa de menos pessoas como você.}
+{432}{}{Eu jÃ¡ tenho 10 peles comigo.}
+{440}{}{[Olha para vocÃª.] O que?}
+{441}{}{Uh, olÃ¡ novamente. NÃ£o percebi quem vocÃª Ã© a Ãºltima vez que falamos.}
+{450}{}{VocÃª de novo? O que vocÃª quer agora?}
+{451}{}{O que vocÃª faz aqui? Este lugar Ã© como uma cidade fantasma.}
+{460}{}{Se vocÃª nÃ£o quiser me ajudar, entÃ£o por favor, me deixe em paz. Ou, vocÃª jÃ¡ decidiu emprestar suas habilidades?}
+{461}{}{Sim. O que vocÃª quer que eu faÃ§a?}
+{462}{}{NÃ£o, mas assim como eu sou livre, eu vou estar de volta para o ajudar.}
+{470}{}{OlÃ¡. VocÃª jÃ¡ se acalmou em tudo ainda?}
+{471}{}{NÃ£o, eu estou aqui para matar vocÃª. O mundo precisa de menos pessoas como vocÃª.}
 {472}{}{Sim, suponho que sim. Eu preciso fazer algumas perguntas.}
-{480}{}{O que você quer? Eu tenho experiências para assistir a mais, você sabe!}
-{481}{}{Conte-me sobre os medicamentos que você está fazendo.}
+{480}{}{O que vocÃª quer? Eu tenho experiÃªncias para assistir a mais, vocÃª sabe!}
+{481}{}{Conte-me sobre os medicamentos que vocÃª estÃ¡ fazendo.}
 {482}{}{Conte-me sobre essas pessoas novamente.}
-{483}{}{Eu estou procurando por trabalho. Você tem algum?}
-{484}{}{De onde você tira todo o seu equipamento?}
-{490}{}{Você já coletou as peles como eu pedi?}
-{491}{}{Sim, eles estão aqui.}
-{492}{}{Não, ainda não.}
-{500}{}{Maravilhoso!!! Excelente! Deixe-me ver...ah sim, estes farão muito bem! Agora, então, você quer outro trabalho?}
-{501}{}{Sim, se você tem alguma coisa}
-{502}{}{Ainda não, obrigado. Tchau.}
-{510}{}{Bem, embora o armazém seja onde eu faço quase todo o meu trabalho, ainda preciso entrar no complexo principal de vez em quando. No entanto, as luzes foram fixadas permanentemente em baixa configuração. Classifique isso para mim para que eu possa entrar no próprio edifício EPA.}
-{511}{}{Não há problema.}
-{512}{}{Eu vou voltar para você, quando eu tiver tempo para fazer.}
-{513}{}{Eu já fiz isso! Havia alguns fios soltos sobre a placa de circuito principal e eu mana-}
-{520}{}{Agora que você matou todos os meus guerreiros, você já demonstrou ser digno de você. Você pensaria em trabalhar para mim?}
-{521}{}{O que!? Trabalhando para você!? O que você quer que eu faça?}
-{522}{}{Não, obrigado. Tchau.}
-{530}{}{Você já solucionou o problema de energia ainda?}
-{531}{}{Sim, sim, sim, eu não preciso saber as especificidades. Obrigado. Agora, eu ainda tenho mais uma tarefa se você deve empreender.}
-{532}{}{O que é isso?}
-{533}{}{Não, eu ainda estou trabalhando nisso.}
-{540}{}{Estou experimentando com um novo soro no momento para melhorar a agilidade e a consciência das pessoas para ajudá-los a sobreviver neste mundo hostil. Você me permitiria tentar isso com você, não é?}
+{483}{}{Eu estou procurando por trabalho. VocÃª tem algum?}
+{484}{}{De onde vocÃª tira todo o seu equipamento?}
+{490}{}{VocÃª jÃ¡ coletou as peles como eu pedi?}
+{491}{}{Sim, eles estÃ£o aqui.}
+{492}{}{NÃ£o, ainda nÃ£o.}
+{500}{}{Maravilhoso!!! Excelente! Deixe-me ver...ah sim, estes farÃ£o muito bem! Agora, entÃ£o, vocÃª quer outro trabalho?}
+{501}{}{Sim, se vocÃª tem alguma coisa}
+{502}{}{Ainda nÃ£o, obrigado. Tchau.}
+{510}{}{Bem, embora o armazÃ©m seja onde eu faÃ§o quase todo o meu trabalho, ainda preciso entrar no complexo principal de vez em quando. No entanto, as luzes foram fixadas permanentemente em baixa configuraÃ§Ã£o. Classifique isso para mim para que eu possa entrar no prÃ³prio edifÃ­cio EPA.}
+{511}{}{NÃ£o hÃ¡ problema.}
+{512}{}{Eu vou voltar para vocÃª, quando eu tiver tempo para fazer.}
+{513}{}{Eu jÃ¡ fiz isso! Havia alguns fios soltos sobre a placa de circuito principal e eu mana-}
+{520}{}{Agora que vocÃª matou todos os meus guerreiros, vocÃª jÃ¡ demonstrou ser digno de vocÃª. VocÃª pensaria em trabalhar para mim?}
+{521}{}{O que!? Trabalhando para vocÃª!? O que vocÃª quer que eu faÃ§a?}
+{522}{}{NÃ£o, obrigado. Tchau.}
+{530}{}{VocÃª jÃ¡ solucionou o problema de energia ainda?}
+{531}{}{Sim, sim, sim, eu nÃ£o preciso saber as especificidades. Obrigado. Agora, eu ainda tenho mais uma tarefa se vocÃª deve empreender.}
+{532}{}{O que Ã© isso?}
+{533}{}{NÃ£o, eu ainda estou trabalhando nisso.}
+{540}{}{Estou experimentando com um novo soro no momento para melhorar a agilidade e a consciÃªncia das pessoas para ajudÃ¡-los a sobreviver neste mundo hostil. VocÃª me permitiria tentar isso com vocÃª, nÃ£o Ã©?}
 {541}{}{Bem...suponho que sim, que mal poderia fazer?}
-{550}{}{Mais do que você jamais acreditaria se der errado ... Agora fique quieto e vamos descer!}
+{550}{}{Mais do que vocÃª jamais acreditaria se der errado ... Agora fique quieto e vamos descer!}
 {551}{}{Caraca! Espere um minuto...}
-{560}{}{Ahh, você está ai! De volta à terra da vida, vejo! Como você está se sentindo?}
+{560}{}{Ahh, vocÃª estÃ¡ ai! De volta Ã  terra da vida, vejo! Como vocÃª estÃ¡ se sentindo?}
 {561}{}{Uh, bem, por que?}
-{570}{}{Você acabou de escurecer por algumas horas, mas você deveria estar bem agora. As indicações mostram que você está muito mais alerta e responsivo.}
+{570}{}{VocÃª acabou de escurecer por algumas horas, mas vocÃª deveria estar bem agora. As indicaÃ§Ãµes mostram que vocÃª estÃ¡ muito mais alerta e responsivo.}
 {571}{}{Wow! Obrigado, Doutor.}
-{580}{}{Não há problema. Se você alguma vez precisar de alguma coisa, me avise.}
+{580}{}{NÃ£o hÃ¡ problema. Se vocÃª alguma vez precisar de alguma coisa, me avise.}
 {581}{}{Eu vou. Adeus.}
-{590}{}{Você já decidiu me ajudar?}
-{591}{}{Sim, eu vou ajudar você. Eu vou voltar quando a energia estiver restaurada.}
-{592}{}{Não, desculpe.}
-{600}{}{Me desculpe, mas não há nada mais que eu possa fazer por você agora. Eu não tenho mais trabalhos a ser feito. Obrigado por sua ajuda.}
-{601}{}{Tchau então.}
+{590}{}{VocÃª jÃ¡ decidiu me ajudar?}
+{591}{}{Sim, eu vou ajudar vocÃª. Eu vou voltar quando a energia estiver restaurada.}
+{592}{}{NÃ£o, desculpe.}
+{600}{}{Me desculpe, mas nÃ£o hÃ¡ nada mais que eu possa fazer por vocÃª agora. Eu nÃ£o tenho mais trabalhos a ser feito. Obrigado por sua ajuda.}
+{601}{}{Tchau entÃ£o.}
 {602}{}{Sim, havia alguns fios soltos e eu tinha de encontrar algum lixo-}
-{603}{}{NÃO! O que você está fazendo?}
-{700}{}{Espere um segundo! Você faz parte da equipe * original * ?! Mas, isso tem que fazer você ter quase 200 anos de idade!}
-{701}{}{Bem, suponho que isso seja verdade, de certa forma. Na verdade, nasci há 202 anos. No entanto, não há nenhuma maneira que eu poderia ter vivido tanto tempo através de meios regulares.}
-{702}{}{Vá em frente. Eu estou ouvindo.}
-{703}{}{Quando a guerra começou, os outros cientistas e eu usamos as câmaras de armazenamento criogênico. Entregamos mais controle das instalações aos hologramas e robôs, então nos colocamos nas câmaras para aguardar o pior da destruição.}
-{704}{}{Mas, a grande guerra foi ao longo de muitos, muitos anos atrás.}
-{705}{}{Verdade. Inicialmente, saímos da hibernação há cerca de 90 anos e descobrimos que este lugar havia se deteriorado muito. A maioria dos outros cientistas aqui continuou algumas de suas pesquisas originais, já que na verdade não sabiam o que mais fazer.}
+{603}{}{NÃƒO! O que vocÃª estÃ¡ fazendo?}
+{700}{}{Espere um segundo! VocÃª faz parte da equipe * original * ?! Mas, isso tem que fazer vocÃª ter quase 200 anos de idade!}
+{701}{}{Bem, suponho que isso seja verdade, de certa forma. Na verdade, nasci hÃ¡ 202 anos. No entanto, nÃ£o hÃ¡ nenhuma maneira que eu poderia ter vivido tanto tempo atravÃ©s de meios regulares.}
+{702}{}{VÃ¡ em frente. Eu estou ouvindo.}
+{703}{}{Quando a guerra comeÃ§ou, os outros cientistas e eu usamos as cÃ¢maras de armazenamento criogÃªnico. Entregamos mais controle das instalaÃ§Ãµes aos hologramas e robÃ´s, entÃ£o nos colocamos nas cÃ¢maras para aguardar o pior da destruiÃ§Ã£o.}
+{704}{}{Mas, a grande guerra foi ao longo de muitos, muitos anos atrÃ¡s.}
+{705}{}{Verdade. Inicialmente, saÃ­mos da hibernaÃ§Ã£o hÃ¡ cerca de 90 anos e descobrimos que este lugar havia se deteriorado muito. A maioria dos outros cientistas aqui continuou algumas de suas pesquisas originais, jÃ¡ que na verdade nÃ£o sabiam o que mais fazer.}
 {706}{}{[MAIS]}
-{707}{}{Eu não podia acreditar na sua visão científica curta ... sua falta de imaginação! Tivemos uma oportunidade incrível de fazer algumas coisas incríveis. Tivemos a chance de refazer as coisas como achamos oportuno. Infelizmente, meus camaradas pagaram sua falta de visão ...}
-{708}{}{Você os matou!?}
-{709}{}{Compreensível.}
+{707}{}{Eu nÃ£o podia acreditar na sua visÃ£o cientÃ­fica curta ... sua falta de imaginaÃ§Ã£o! Tivemos uma oportunidade incrÃ­vel de fazer algumas coisas incrÃ­veis. Tivemos a chance de refazer as coisas como achamos oportuno. Infelizmente, meus camaradas pagaram sua falta de visÃ£o ...}
+{708}{}{VocÃª os matou!?}
+{709}{}{CompreensÃ­vel.}
 {710}{}{Por favor, continue.}
-{711}{}{Não, eu não os matei. Mas eu não poderia fazê-los ficar aqui interferindo com meus planos. Eu simplesmente manipulei eventos aqui para que eles escolhessem sair.}
-{712}{}{Ok, isso responde parte da história. Mas ainda falta algo ...}
-{713}{}{Ah sim. Me desculpe por isso. Às vezes, sento em tangentes ou minha mente simplesmente vagueia. Grandes mentes, você sabe? De qualquer forma, continuo usando o tanque. Eu ainda o modifiquei um pouco.}
-{714}{}{Quais as modificações que você fez?}
-{715}{}{Eu acho que já ouvi o suficiente disso. Adeus.}
-{716}{}{Bem, a primeira vez que usamos as câmaras criogênicas, era como se eu tivesse ido dormir e acordei. Mas percebi que era uma perda de tempo. Eu redefini as configurações da câmara para que eu pudesse usá-la por anos de cada vez, mas mantendo a mente consciente! Eu uso esses períodos prolongados para refletir sobre projetos atuais e pensar em novas experiências. Ao fazê-lo, posso ver os efeitos a longo prazo da minha pesquisa.}
-{717}{}{Alguma vez pensou que talvez ao utilizar a câmara de como isso pode ser prejudicial para você de alguma forma?}
-{718}{}{Absurdo! De alguma coisa estou melhorando. Posso ver as coisas tão claramente, agora, graças aos meus períodos de hibernação lúcida.}
+{711}{}{NÃ£o, eu nÃ£o os matei. Mas eu nÃ£o poderia fazÃª-los ficar aqui interferindo com meus planos. Eu simplesmente manipulei eventos aqui para que eles escolhessem sair.}
+{712}{}{Ok, isso responde parte da histÃ³ria. Mas ainda falta algo ...}
+{713}{}{Ah sim. Me desculpe por isso. Ã€s vezes, sento em tangentes ou minha mente simplesmente vagueia. Grandes mentes, vocÃª sabe? De qualquer forma, continuo usando o tanque. Eu ainda o modifiquei um pouco.}
+{714}{}{Quais as modificaÃ§Ãµes que vocÃª fez?}
+{715}{}{Eu acho que jÃ¡ ouvi o suficiente disso. Adeus.}
+{716}{}{Bem, a primeira vez que usamos as cÃ¢maras criogÃªnicas, era como se eu tivesse ido dormir e acordei. Mas percebi que era uma perda de tempo. Eu redefini as configuraÃ§Ãµes da cÃ¢mara para que eu pudesse usÃ¡-la por anos de cada vez, mas mantendo a mente consciente! Eu uso esses perÃ­odos prolongados para refletir sobre projetos atuais e pensar em novas experiÃªncias. Ao fazÃª-lo, posso ver os efeitos a longo prazo da minha pesquisa.}
+{717}{}{Alguma vez pensou que talvez ao utilizar a cÃ¢mara de como isso pode ser prejudicial para vocÃª de alguma forma?}
+{718}{}{Absurdo! De alguma coisa estou melhorando. Posso ver as coisas tÃ£o claramente, agora, graÃ§as aos meus perÃ­odos de hibernaÃ§Ã£o lÃºcida.}
 {719}{}{Que buraco! Adeus.}
-{720}{}{Essa é realmente uma ótima ideia. Gênio! Ei, você acha que eu poderia ver essa câmara criogênica?}
+{720}{}{Essa Ã© realmente uma Ã³tima ideia. GÃªnio! Ei, vocÃª acha que eu poderia ver essa cÃ¢mara criogÃªnica?}
 {721}{}{Eu vejo. Conte-me sobre outra coisa.}
-{722}{}{Bem, claro. Está bem ali. Eu fiz isso acontecer há algum tempo atrás. Manter a câmara no subnível desta instalação não era apenas uma ideia sábia.}
-{723}{}{Interessantes. Então, como é que funciona?}
-{724}{}{Bem, claro, os princípios científicos da criogenia são bastante avançados. No entanto, as funções são regidas pelo computador aqui, tem uma interface bastante fácil. [Ele leva alguns minutos mostrando como o sistema funciona.]}
-{725}{}{Obrigado pelas informações, Doutor. Eu acho que eu ainda gostaria de saber sobre algumas outras coisas.}
-{726}{}{Obrigado pela informação, doutor. Quem sabe? Informações como essa só podem ser úteis algum dia. Adeus.}
+{722}{}{Bem, claro. EstÃ¡ bem ali. Eu fiz isso acontecer hÃ¡ algum tempo atrÃ¡s. Manter a cÃ¢mara no subnÃ­vel desta instalaÃ§Ã£o nÃ£o era apenas uma ideia sÃ¡bia.}
+{723}{}{Interessantes. EntÃ£o, como Ã© que funciona?}
+{724}{}{Bem, claro, os princÃ­pios cientÃ­ficos da criogenia sÃ£o bastante avanÃ§ados. No entanto, as funÃ§Ãµes sÃ£o regidas pelo computador aqui, tem uma interface bastante fÃ¡cil. [Ele leva alguns minutos mostrando como o sistema funciona.]}
+{725}{}{Obrigado pelas informaÃ§Ãµes, Doutor. Eu acho que eu ainda gostaria de saber sobre algumas outras coisas.}
+{726}{}{Obrigado pela informaÃ§Ã£o, doutor. Quem sabe? InformaÃ§Ãµes como essa sÃ³ podem ser Ãºteis algum dia. Adeus.}
 {727}{}{Bom, chega de bate-papo. Eu deveria estar indo. Adeus, Doutor.}
-{728}{}{Não, simplesmente não faria para deixá-los ficar aqui interferindo com meus planos ... de modo algum ... [O Médico olha além de você aparentemente perdido em seus pensamentos.]}
-{729}{}{Você sabe, você é uma pessoa torcida. Eu acho que vou ter que mostrar-lhe como eu 'experimento' nas pessoas. Hora de morrer!}
-{730}{}{Então, você está feliz com essa situação? Quero dizer, sendo o único aqui?}
+{728}{}{NÃ£o, simplesmente nÃ£o faria para deixÃ¡-los ficar aqui interferindo com meus planos ... de modo algum ... [O MÃ©dico olha alÃ©m de vocÃª aparentemente perdido em seus pensamentos.]}
+{729}{}{VocÃª sabe, vocÃª Ã© uma pessoa torcida. Eu acho que vou ter que mostrar-lhe como eu 'experimento' nas pessoas. Hora de morrer!}
+{730}{}{EntÃ£o, vocÃª estÃ¡ feliz com essa situaÃ§Ã£o? Quero dizer, sendo o Ãºnico aqui?}
 {731}{}{O que mais gostaria de conhecer?}
-{800}{}{Na verdade, espere um segundo. Você parece um tipo aventureiro. Eu podem ter um uso para alguém com suas habilidades.}
-{801}{}{Com certeza. O que você precisa?}
-{802}{}{Não, obrigado. Tchau.}
-{803}{}{Bem, eu estava coletando amostras em um dos meus sítios de trabalho e pareço ter deixado uma das minhas ferramentas lá. Normalmente
-Eu simplesmente iria buscá-lo, mas estou extremamente ocupado no momento e por minha vida não consigo lembrar o exato
-local em que eu deixei. Em qualquer caso, siga a noroeste deste edifício e você encontrará a área onde deixei minha ferramenta. Deve
-ser um bolo de peças.}
+{800}{}{Na verdade, espere um segundo. VocÃª parece um tipo aventureiro. Eu podem ter um uso para alguÃ©m com suas habilidades.}
+{801}{}{Com certeza. O que vocÃª precisa?}
+{802}{}{NÃ£o, obrigado. Tchau.}
+{803}{}{Bem, eu estava coletando amostras em um dos meus sÃ­tios de trabalho e pareÃ§o ter deixado uma das minhas ferramentas lÃ¡. Normalmente
+Eu simplesmente iria buscÃ¡-lo, mas estou extremamente ocupado no momento e por minha vida nÃ£o consigo lembrar o exato
+local em que eu deixei. Em qualquer caso, siga a noroeste deste edifÃ­cio e vocÃª encontrarÃ¡ a Ã¡rea onde deixei minha ferramenta. Deve
+ser um bolo de peÃ§as.}
 {804}{}{Eu irei direto para isso.}
-{805}{}{Não interessado. Tchau.}
-{806}{}{Bem, espere. Tem certeza que você não vai me ajudar com uma coisinha?}
+{805}{}{NÃ£o interessado. Tchau.}
+{806}{}{Bem, espere. Tem certeza que vocÃª nÃ£o vai me ajudar com uma coisinha?}
 {810}{}{Excelente! Agora, preciso voltar ao trabalho. [Para si mesmo.] Tudo vai de acordo com o plano.}
 {811}{}{[FEITO]}
-{820}{}{Isso é ruim. Bem, devo estar voltando ao trabalho. [Para si.] Quase o teve. Agora, onde vou encontrar outro sujeito de teste …}
+{820}{}{Isso Ã© ruim. Bem, devo estar voltando ao trabalho. [Para si.] Quase o teve. Agora, onde vou encontrar outro sujeito de teste â€¦}
 {821}{}{[FEITO]}
 {830}{}{[O homem olha assustado.] O que-?!}
 {831}{}{Eu ainda estou procurando a sua parte.}
-{832}{}{Aqui está a sua ferramenta. Pedaço de bolo de fato.}
-{833}{}{Você estava tentando me matar lá fora? Era um labirinto cheio de monstros mutantes. Esta não era uma parte comum
-  trabalho de recuperação, agora era?}
-{840}{}{O que?! Me dê isso! [Ele tirou a ferramenta de sua mão.] Como é que você - Ah, deixa pra lá. De volta à prancheta de desenho, em seguida,...}
-{841}{}{[Você ignora a reação do homem.] Muito bem, se você precisar de mais alguma coisa, avise-me. Tchau.}
-{850}{}{Isso não é da sua conta. [Ele arranca a ferramenta da sua mão.] Agora, saia daqui. Eu tenho coisas para fazer. [Ele olha
-  murmurando para si mesmo.]}
+{832}{}{Aqui estÃ¡ a sua ferramenta. PedaÃ§o de bolo de fato.}
+{833}{}{VocÃª estava tentando me matar lÃ¡ fora? Era um labirinto cheio de monstros mutantes. Esta nÃ£o era uma parte comum
+Â  trabalho de recuperaÃ§Ã£o, agora era?}
+{840}{}{O que?! Me dÃª isso! [Ele tirou a ferramenta de sua mÃ£o.] Como Ã© que vocÃª - Ah, deixa pra lÃ¡. De volta Ã  prancheta de desenho, em seguida,...}
+{841}{}{[VocÃª ignora a reaÃ§Ã£o do homem.] Muito bem, se vocÃª precisar de mais alguma coisa, avise-me. Tchau.}
+{850}{}{Isso nÃ£o Ã© da sua conta. [Ele arranca a ferramenta da sua mÃ£o.] Agora, saia daqui. Eu tenho coisas para fazer. [Ele olha
+Â  murmurando para si mesmo.]}
 {851}{}{Seja o que for. Tchau.}
-{852}{}{Eu não penso assim. Você tentou me matar e agora vou retribuir o favor. Prepare-se para morrer!}
-{860}{}{Uh, sim, é claro. Bem, vá lá então.}
+{852}{}{Eu nÃ£o penso assim. VocÃª tentou me matar e agora vou retribuir o favor. Prepare-se para morrer!}
+{860}{}{Uh, sim, Ã© claro. Bem, vÃ¡ lÃ¡ entÃ£o.}
 {861}{}{[FEITO]}
 {900}{}{*Resmunga*}
-{901}{}{* Para si mesmo * Tinha certeza de que ele não voltaria.}
-{1000}{}{Você retorna a ferramenta esquecida do médico.}
+{901}{}{* Para si mesmo * Tinha certeza de que ele nÃ£o voltaria.}
+{1000}{}{VocÃª retorna a ferramenta esquecida do mÃ©dico.}

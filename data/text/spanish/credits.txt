@@ -1,8 +1,8 @@
-#TRADUCCIÓN
+#TRADUCCIÃ“N
 
 CLAN DLAN - www.clandlan.net
 
-#PROGRAMACIÓN
+#PROGRAMACIÃ“N
 
 @Programador principal
 Jesse Reynolds
@@ -15,12 +15,12 @@ Thomas French
 Chris Holland
 Dan Spitzley
 
-@Programación adicional de
+@ProgramaciÃ³n adicional de
 Tim Cain
 John Price
 Michael Bernstein
 
-@Tecnología cinemáticas
+@TecnologÃ­a cinemÃ¡ticas
 Paul Edelstein
 
 @Instalador/Autoplay
@@ -58,7 +58,7 @@ Christopher Jones
 Benc Orpak
 Adoni Torres
 
-@Material gráfico original de
+@Material grÃ¡fico original de
 Jason Anderson
 Leonard Boyarsky
 Michael Dean
@@ -67,11 +67,11 @@ Sharon Shellman
 
 #DISENO
 
-@Diseñadores principales
+@DiseÃ±adores principales
 Feargus Urquhart
 Matthew J. Norton
 
-@Diseñadores
+@DiseÃ±adores
 Jason G. Suinn
 John Deiley
 Chris Avellone
@@ -79,39 +79,39 @@ David "Zeb" Cook
 Dave Hendee
 Colin McComb
 
-@Diseñador técnico
+@DiseÃ±ador tÃ©cnico
 Scott Everts
 
-@Diseñadores de niveles
+@DiseÃ±adores de niveles
 John Deiley
 Scott Everts
 Jason G. Suinn
 
-@Diseño adicional de
+@DiseÃ±o adicional de
 Robert Hertenstein 2
 Nick Kesting
 Fred Hatch
 
-@Diseño/Diálogos
+@DiseÃ±o/DiÃ¡logos
 Mark O'Green
 
-@Diseño original del juego de
+@DiseÃ±o original del juego de
 Tim Cain
 Leonard Boyarsky
 Jason Anderson
 Jason Taylor
 Scott Campbell
 
-@Diseño del sistema SPECIAL
+@DiseÃ±o del sistema SPECIAL
 Chris Taylor
 Tim Cain
 Jess Heinig
 Feargus Urquhart
 
 
-#PRODUCCIÓN
+#PRODUCCIÃ“N
 
-@Director de División
+@Director de DivisiÃ³n
 Feargus Urquhart
 
 @Productores
@@ -122,14 +122,14 @@ Feargus Urquhart
 Fred Hatch
 Douglas Avery
 
-@Director auxiliar de división
+@Director auxiliar de divisiÃ³n
 Jeremy Barnes
 
-@Coordinadores de sincronía labial
+@Coordinadores de sincronÃ­a labial
 Jason G. Suinn
 Dave Hendee
 
-@Artistas de sincronía labial
+@Artistas de sincronÃ­a labial
 Douglas Avery
 Chris Benson
 David "Zeb" Cook
@@ -148,17 +148,17 @@ Chad Allison
 Steve Victory
 Colin Totman
 
-@Supervisores de proyecto versión PC
+@Supervisores de proyecto versiÃ³n PC
 Greg "Moose" Baumeister
 Steve McLafferty
 Darrell Jones
 
-@Probadores principales versión PC
+@Probadores principales versiÃ³n PC
 Dennis Presnell
 Chad Nicholas
 Dave Simon
 
-@Probadores versión PC
+@Probadores versiÃ³n PC
 Ed Hyland
 Dany Martinez
 WR Saunders
@@ -179,16 +179,16 @@ Scott Humphreys
 @Manager de compatibilidad de S.I.
 Frank Pimentel
 
-@Técnico principal de S.I.
+@TÃ©cnico principal de S.I.
 Bill Delk
 
-@Técnico de S.I
+@TÃ©cnico de S.I
 Tom Quast
 
 @Administrador Base de datos QA
 Steve Cabiness
 
-@Técnicos de Compatibilidad
+@TÃ©cnicos de Compatibilidad
 Derek Gibbs
 John Parker
 Ed Robles
@@ -220,11 +220,11 @@ Ron Valdez
 
 @Voces grabadas en Marc Graue Studio
 
-@Diseño de Sonido
+@DiseÃ±o de Sonido
 Paul Menichini
 Tim Walston
 
-@Diseño de Sonido en Cinematicas
+@DiseÃ±o de Sonido en Cinematicas
 David Farmer
 
 @Mezcla de re-grabado en Cinematicas
@@ -235,7 +235,7 @@ Charles Deenen
 @Administrador de Sonido
 Gloria Soto
 
-@Diseño adicional de sonido de
+@DiseÃ±o adicional de sonido de
 Larry Peacock
 Weddington
 EFX
@@ -247,7 +247,7 @@ Wes Smith
 Julian Cook
 of Marc Graue Studios
 
-@Música de
+@MÃºsica de
 Mark Morgan
 @para
 Four Bars Intertainment
@@ -306,20 +306,20 @@ Jeffrey Jones
 
 "A KISS TO BUILD A DREAM ON"
 @Interpretada por Louie Armstrong
-@Cortesía of GRP Records
+@CortesÃ­a of GRP Records
 @Con licencia de UNIVERSAL MUSIC SPECIAL MARKETS
 
 "A KISS TO BUILD A DREAM ON"
 @Escrita por Bert Kalmer, Harry Ruby y Oscar Hammerstein II
-@(C) 1935, 1951 renovación 1963, 1979 METRO GOLDWYN MAYER, INC.
+@(C) 1935, 1951 renovaciÃ³n 1963, 1979 METRO GOLDWYN MAYER, INC.
 @Derechos asignados a EMI CATALOGUE PARTNERSHIP
 @Todos los Derechos controlados y administrados por EMI MILLER CATALOG INC.
 @Todos los Derechos reservados.  Copyright internacional asegurado.
 @Usada con permiso.
 
-@AVISO: Es una violación  de la Ley Federal de Copyright
+@AVISO: Es una violaciÃ³n  de la Ley Federal de Copyright
 @copiar, duplicar o reproducir este Programa o cualquier
-@porción de este Programa sin el permiso expreso por
+@porciÃ³n de este Programa sin el permiso expreso por
 @escrito del propietario del copyright.
 
 
@@ -344,10 +344,10 @@ Greg Peterson
 @Encargado auxiliar de Marketing
 Greg Bauman
 
-@Manager de Relaciones Públicas
+@Manager de Relaciones PÃºblicas
 Krys Card
 
-@Managers de Gestión y Control
+@Managers de GestiÃ³n y Control
 Thom Dohner
 Paul Naftalis
 
@@ -361,18 +361,18 @@ Paul Naftalis
 @mi madre, mi padre, mi hijo y mi hermano y a todos mis
 @adorables fans por comprar este juego;  (Rob H.)
 @Becky Warner y Billie Ryder;  (Matt N.) Meine
-@DieMonika und der kater;  (Jesse R.) "A Papá,
-@fuiste una inspiración toda mi vida. Te hecho de menos
+@DieMonika und der kater;  (Jesse R.) "A PapÃ¡,
+@fuiste una inspiraciÃ³n toda mi vida. Te hecho de menos
 @siempre."
 
 @Agradecimientos especiales a:
 @Los miembros de los tablones de mensajes de Fallout y Fallout 2.
-@¡Gracias por vuestros comentarios, sugerencias y demás secretitos!
-@¡Al Interplay Video Room, por el procesamiento por encima y más allá
+@Â¡Gracias por vuestros comentarios, sugerencias y demÃ¡s secretitos!
+@Â¡Al Interplay Video Room, por el procesamiento por encima y mÃ¡s allÃ¡
 @de lo que dicta el deber!
 
 @Fallout 2 fue posible gracias a Interplay Productions,
-@Team Fallout 2, la letrar Q y los números 42 y 20.
+@Team Fallout 2, la letrar Q y los nÃºmeros 42 y 20.
 
 
 
@@ -407,7 +407,7 @@ Paul Naftalis
 
 
 
-@¿Te topaste con los encuentros extra-especiales?
+@Â¿Te topaste con los encuentros extra-especiales?
 
 
 
@@ -444,7 +444,7 @@ Paul Naftalis
 
 
 
-@¿Quizá encontraste el Halcón Maltés?
+@Â¿QuizÃ¡ encontraste el HalcÃ³n MaltÃ©s?
 
 
 
@@ -463,4 +463,4 @@ Paul Naftalis
 
 
 
-@¡Ja!  Disfruta...
+@Â¡Ja!  Disfruta...

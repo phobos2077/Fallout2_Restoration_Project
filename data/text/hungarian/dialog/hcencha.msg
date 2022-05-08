@@ -1,55 +1,55 @@
-{100}{}{Egy fekete b?rpáncélos embert látsz, arcán komor kifejezés ül, kezében pedig egy szép nagy fegyvert tart.}
+{100}{}{Egy fekete b?rpÃ¡ncÃ©los embert lÃ¡tsz, arcÃ¡n komor kifejezÃ©s Ã¼l, kezÃ©ben pedig egy szÃ©p nagy fegyvert tart.}
 {101}{}{? }
-{102}{}{Egy karavánkísér?t látsz, akit az út pora borít, s aki megfáradt a harctól. Úgy t?nik, hogy a karavánutak is egyre veszélyesebbek manapság.}
-{103}{}{Segíthetek?}
+{102}{}{Egy karavÃ¡nkÃ­sÃ©r?t lÃ¡tsz, akit az Ãºt pora borÃ­t, s aki megfÃ¡radt a harctÃ³l. Ãšgy t?nik, hogy a karavÃ¡nutak is egyre veszÃ©lyesebbek manapsÃ¡g.}
+{103}{}{SegÃ­thetek?}
 {104}{}{Aggle ok too!}
 {105}{}{Dollgozni nekked?}
-{106}{}{Igen, a karavánmestert keresem.}
-{107}{}{Chadról szeretnék kérdezni pár dolgot.}
+{106}{}{Igen, a karavÃ¡nmestert keresem.}
+{107}{}{ChadrÃ³l szeretnÃ©k kÃ©rdezni pÃ¡r dolgot.}
 {108}{}{Ki vagy te?}
-{109}{}{Sajnálom Chadot. Ki az új vezet??}
-{110}{}{Nem, kösz.}
-{111}{}{Ha munkát keresel, beszélj Billel, az emberrel ott bent a házban. BENT! ? talán majd megérti, hogy mit karattyolsz. Sok sikert!}
+{109}{}{SajnÃ¡lom Chadot. Ki az Ãºj vezet??}
+{110}{}{Nem, kÃ¶sz.}
+{111}{}{Ha munkÃ¡t keresel, beszÃ©lj Billel, az emberrel ott bent a hÃ¡zban. BENT! ? talÃ¡n majd megÃ©rti, hogy mit karattyolsz. Sok sikert!}
 {112}{}{Duhhhh...}
 {113}{}{That'd be }
 {114}{}{Igen.}
 {115}{}{Nem.}
-{116}{}{Talán tudok válaszolni. Mit akarsz tudni?}
+{116}{}{TalÃ¡n tudok vÃ¡laszolni. Mit akarsz tudni?}
 {117}{}{Milyen ember?}
-{118}{}{Megbízható?}
-{119}{}{Honnan szerzi a pénzt?}
-{120}{}{Milyen a múltja?}
-{121}{}{Hagyjuk. Viszlát kés?bb!}
-{122}{}{Hogy én? }
-{123}{}{Sajnálod Chadot? Ha! Jó sokat kerestél, mi? Az új f?nök }
-{124}{}{Viszlát!}
-{125}{}{Akkor te Billt keresed, Broken Hills karavánjainak szervez?jét. ? tud neked munkát adni.}
-{126}{}{Köszi.}
-{127}{}{Rendben. Lássuk csak!}
-{128}{}{Hogy milyen ember? Hát, barátságos, de kemény. Jó vezet?, és általában rendesen bánik velünk Nem durvul velünk, meg ilyesmi, ha arra vagy kiváncsi. Van még kérdés?}
-{129}{}{Nekem mindig úgy t?nt, hogy egyszer?en van nála - és nem kevés. Ez nem az a fajta kérdés, amit csak úgy feltesz az ember valakinek, tudod. Egyéb kérdés?}
-{130}{}{Hát, egy kicsit gyanús, szerintem... de mindenki az manapság. Van még kérdésed?}
-{131}{}{Semmit nem tudok a múltjáról. Mi mind más városból jöttünk, hogy munkát szerezzünk itt, mint karavánkísér?. Gondolom, neki is siet?sen el kellett hagynia egy másik helyet, és így került ide. Egyéb kérdés?}
-{132}{}{Mivel én vagyok az új karavánvezet?, talán én vagyok az egyetlen, aki nem utál téged. Miben segíthetek?}
-{133}{}{Munkát szeretnék.}
-{134}{}{Leveszed a részed?}
-{135}{}{Mikor indul a következ? karaván?}
-{136}{}{Semmit, kösz.}
-{137}{}{Beszélj Billel, mint mindig!}
-{138}{}{Oké.}
-{139}{}{Azután, ami Chaddal történt, nem hiszem. Egyéb kérdés?}
+{118}{}{MegbÃ­zhatÃ³?}
+{119}{}{Honnan szerzi a pÃ©nzt?}
+{120}{}{Milyen a mÃºltja?}
+{121}{}{Hagyjuk. ViszlÃ¡t kÃ©s?bb!}
+{122}{}{Hogy Ã©n? }
+{123}{}{SajnÃ¡lod Chadot? Ha! JÃ³ sokat kerestÃ©l, mi? Az Ãºj f?nÃ¶k }
+{124}{}{ViszlÃ¡t!}
+{125}{}{Akkor te Billt keresed, Broken Hills karavÃ¡njainak szervez?jÃ©t. ? tud neked munkÃ¡t adni.}
+{126}{}{KÃ¶szi.}
+{127}{}{Rendben. LÃ¡ssuk csak!}
+{128}{}{Hogy milyen ember? HÃ¡t, barÃ¡tsÃ¡gos, de kemÃ©ny. JÃ³ vezet?, Ã©s Ã¡ltalÃ¡ban rendesen bÃ¡nik velÃ¼nk Nem durvul velÃ¼nk, meg ilyesmi, ha arra vagy kivÃ¡ncsi. Van mÃ©g kÃ©rdÃ©s?}
+{129}{}{Nekem mindig Ãºgy t?nt, hogy egyszer?en van nÃ¡la - Ã©s nem kevÃ©s. Ez nem az a fajta kÃ©rdÃ©s, amit csak Ãºgy feltesz az ember valakinek, tudod. EgyÃ©b kÃ©rdÃ©s?}
+{130}{}{HÃ¡t, egy kicsit gyanÃºs, szerintem... de mindenki az manapsÃ¡g. Van mÃ©g kÃ©rdÃ©sed?}
+{131}{}{Semmit nem tudok a mÃºltjÃ¡rÃ³l. Mi mind mÃ¡s vÃ¡rosbÃ³l jÃ¶ttÃ¼nk, hogy munkÃ¡t szerezzÃ¼nk itt, mint karavÃ¡nkÃ­sÃ©r?. Gondolom, neki is siet?sen el kellett hagynia egy mÃ¡sik helyet, Ã©s Ã­gy kerÃ¼lt ide. EgyÃ©b kÃ©rdÃ©s?}
+{132}{}{Mivel Ã©n vagyok az Ãºj karavÃ¡nvezet?, talÃ¡n Ã©n vagyok az egyetlen, aki nem utÃ¡l tÃ©ged. Miben segÃ­thetek?}
+{133}{}{MunkÃ¡t szeretnÃ©k.}
+{134}{}{Leveszed a rÃ©szed?}
+{135}{}{Mikor indul a kÃ¶vetkez? karavÃ¡n?}
+{136}{}{Semmit, kÃ¶sz.}
+{137}{}{BeszÃ©lj Billel, mint mindig!}
+{138}{}{OkÃ©.}
+{139}{}{AzutÃ¡n, ami Chaddal tÃ¶rtÃ©nt, nem hiszem. EgyÃ©b kÃ©rdÃ©s?}
 {140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day. You'll
  earn the money on the way back, too, if you want it. One way or another, though, we're leaving then.}
 {141}{}{Szeva.}
-{142}{}{Mehetünk?}
-{143}{}{Kösz mindent. Itt az 500 dollárod. Ha új munkát szeretnél, beszélj Billel!}
+{142}{}{MehetÃ¼nk?}
+{143}{}{KÃ¶sz mindent. Itt az 500 dollÃ¡rod. Ha Ãºj munkÃ¡t szeretnÃ©l, beszÃ©lj Billel!}
 {144}{}{Te mocsok! Most meghalsz!}
 {145}{}{Umm...}
-{150}{}{, a karavánkísér?.}
-{151}{}{. Bill karavánjait kísérem. Más kérdés?}
+{150}{}{, a karavÃ¡nkÃ­sÃ©r?.}
+{151}{}{. Bill karavÃ¡njait kÃ­sÃ©rem. MÃ¡s kÃ©rdÃ©s?}
 {152}{}{ vagyok.}
-{153}{}{. Itt kell lennie valahol. Munkát keresel?}
-{154}{}{. Sok sikert a munkához, barom!}
+{153}{}{. Itt kell lennie valahol. MunkÃ¡t keresel?}
+{154}{}{. Sok sikert a munkÃ¡hoz, barom!}
 {200}{}{Chad}
 {201}{}{Hatch}
 {202}{}{Stark}

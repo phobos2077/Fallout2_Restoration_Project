@@ -1,21 +1,21 @@
-{100}{}{Widzisz dziwn¹ bestiê.}
-{101}{}{Widzisz supermutanta. Zdaje siê byæ niespe³na rozumu.}
-{102}{}{Stój!}
-{103}{}{Ani kroku dalej! Taka jest wola Melchiora Wspania³ego!}
-{104}{}{Padnij na kolana przed najwiêkszym magiem tego œwiata!}
-{105}{}{Chyl czo³a przed Melchiorem Wspania³ym!}
-{106}{}{Nakarmiê tob¹ moje zwierz¹tka!}
-{107}{}{Ostrzega³em ciê! Do ataku, moje zwierz¹tka!}
+{100}{}{Widzisz dziwnÄ… bestiÄ™.}
+{101}{}{Widzisz supermutanta. Zdaje siÄ™ byÄ‡ niespeÅ‚na rozumu.}
+{102}{}{StÃ³j!}
+{103}{}{Ani kroku dalej! Taka jest wola Melchiora WspaniaÅ‚ego!}
+{104}{}{Padnij na kolana przed najwiÄ™kszym magiem tego Å›wiata!}
+{105}{}{Chyl czoÅ‚a przed Melchiorem WspaniaÅ‚ym!}
+{106}{}{NakarmiÄ™ tobÄ… moje zwierzÄ…tka!}
+{107}{}{OstrzegaÅ‚em ciÄ™! Do ataku, moje zwierzÄ…tka!}
 {1000}{}{CZARYMARY!}
-{1001}{}{Moje szponiaste zwierz¹tka ciê ukatrupiæ.}
+{1001}{}{Moje szponiaste zwierzÄ…tka ciÄ™ ukatrupiÄ‡.}
 {1002}{}{Szponiasty zwierzaku - atakuj!}
 {1010}{}{ABRADABRA!}
-{1011}{}{Melchior zrobiæ ogniste zwierz¹tka. One spaliæ cz³owiek.}
-{1012}{}{Spaliæ CZ£O-WIEK!}
+{1011}{}{Melchior zrobiÄ‡ ogniste zwierzÄ…tka. One spaliÄ‡ czÅ‚owiek.}
+{1012}{}{SpaliÄ‡ CZÅO-WIEK!}
 {1020}{}{SALABIM!}
-{1021}{}{Zêbate zwierz¹tka ciê za³atwiæ!}
-{1022}{}{UgryŸæ! UgryŸæ!}
+{1021}{}{ZÄ™bate zwierzÄ…tka ciÄ™ zaÅ‚atwiÄ‡!}
+{1022}{}{UgryÅºÄ‡! UgryÅºÄ‡!}
 {1030}{}{HOKUPOKU!}
-{1031}{}{Cholera! Moja ma ju¿ tylko grube szczury.}
-{1032}{}{Mojej koñczyæ siê zwierzaki.}
-{1050}{}{Ojojoj... Nie ma futrzaków?}
+{1031}{}{Cholera! Moja ma juÅ¼ tylko grube szczury.}
+{1032}{}{Mojej koÅ„czyÄ‡ siÄ™ zwierzaki.}
+{1050}{}{Ojojoj... Nie ma futrzakÃ³w?}

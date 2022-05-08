@@ -1,168 +1,168 @@
 {100}{}{Widzisz niezwykle zaniedbanego ghula.}
 {101}{}{Widzisz Festusa, kierownika elektrowni atomowej.}
-{102}{}{Widzisz spogl¹daj¹cego spode ³ba ghula o niebywale odra¿aj¹cym wygl¹dzie. Œmierdzi jak jedna wielka, zaropia³a rana.}
-{110}{}{Czy z tob¹ kura zamieni³a siê na ³by? Cha, cha, cha!}
-{111}{}{G³upi jesteœ czy co? Che, che, che. Wygl¹dasz zupe³nie jak ktoœ z Kryptopolis.}
-{112}{}{Có¿, mamusia nie da³a ci rozumku, co? IdŸ do Kryptopolis.}
-{113}{}{Mam tyle spraw na g³owie. Dlaczego nie wrócisz do swojego Kryptopolis? Nie ma tu dla ciebie miejsca.}
-{114}{}{Cha, cha, cha! Wygl¹dasz jakby nawiedzi³a ciê twoja zmar³a teœciowa!}
-{120}{}{Witam. Jestem Festus. Nadzorujê tu ca³y reaktor. Beze mnie to ca³e miasto przesta³oby istnieæ. Jestem bardzo zajêtym facetem. Naprawdê, daj¹ mi za du¿o roboty.}
-{121}{}{Mam tyle do zrobienia. Serio nale¿y mi siê urlop. Ale wiesz co? Nikt inny nie potrafi prowadziæ tej elektrowni atomowej. Wiesz, wydobywam si³ê drzemi¹c¹ w atomie. To naprawdê mo¿e wykoñczyæ nawet takiego goœcia jak ja.}
-{122}{}{Czym siê tutaj zajmujesz?}
-{123}{}{Rozumiem, ¿e reaktor nie dzia³a zbyt dobrze. Czy to prawda?}
-{124}{}{Dlaczego wygl¹dasz - i pachniesz - jakbyœ siê rozk³ada³?}
-{125}{}{Có¿, nie chcê ci d³u¿ej zabieraæ twojego cennego czasu. Hmm, pójdê ju¿ sobie. Do zobaczenia.}
-{130}{}{No, teraz, dziêki mnie, reaktor dzia³a bez zak³óceñ. Jestem po prostu za dobry do tej roboty.}
-{131}{}{Reaktor dzia³a ju¿ ca³kiem nieŸle. Mo¿e mo¿na by by³o go jeszcze trochê podkrêciæ, ale i tak jest to kawa³ dobrej roboty.}
-{132}{}{Trochê podkrêciæ? Co masz na myœli?}
-{133}{}{Có¿, nic nie jest doskonale. Do widzenia, Festus.}
-{141}{}{Có¿, nadzorujê tê elektrowniê atomow¹. Ale tak naprawdê to sam kierujê tym ca³ym interesem.}
-{142}{}{Ta, nadzorujê tu wszystko - jako kierownik. Wszystko samodzielnie. By³oby to niemo¿liwe, gdybym nie by³ w tym tak cholernie dobry. To jest po prostu dar...}
-{143}{}{Samodzielnie? A co robi¹ ci wszyscy ludzie w s¹siednim pokoju?}
-{144}{}{Musisz wiêc wiedzieæ co nieco o energii atomowej.}
-{145}{}{Có¿, nie chcê ciê odrywaæ od pracy. Do widzenia.}
-{150}{}{Pró¿niacy. Nic wiêcej. Oni naprawdê nie rozumiej¹, co tu trzeba zrobiæ. Po prostu zajmuj¹ miejsce. Wkurza mnie, ¿e myœl¹, ¿e wiedz¹ coœ o elektrowniach atomowych. Jakbym to nie ja by³ od myœlenia...}
-{151}{}{Hmm. Wiêc jeszcze raz, co tutaj robisz?}
-{152}{}{A, tak. Có¿, lepiej ju¿ pójdê. Do zobaczenia.}
-{160}{}{Co wiem o energii atomowej? Có¿, prawie j¹ wynalaz³em. Wiem o niej wiêcej ni¿ ktokolwiek inny z ¿ywych. Je¿eli chodzi o energiê atomow¹ - nie ma lepszych ode mnie.}
-{161}{}{Hmm. Wiêc jeszcze raz, co tutaj robisz?}
-{162}{}{A, tak. Có¿, lepiej ju¿ pójdê. Do zobaczenia.}
-{170}{}{Wiesz, ja naprawdê krêcê tym ca³ym interesem. To trudna rzecz. Ale mam lata doœwiadczeñ. Je¿eli chodzi o elektrownie atomowe, jestem w pe³ni profesjonalist¹.}
-{171}{}{Musisz byæ bardzo dobry w tym, co robisz.}
-{172}{}{Z pewnoœci¹. Hmm, chyba ju¿ pójdê. Do zobaczenia.}
-{180}{}{Wiêkszoœæ ludzi myœli, ¿e jest to proste. Myœl¹, ¿e ka¿dy mo¿e kierowaæ reaktorem atomowym. Ale nie jest to robota dla niewytrenowanych czy ludzi o s³abych nerwach. Przecie¿ tutaj wyzwalamy energiê atomu!}
-{181}{}{Jestem pod wra¿eniem.}
-{182}{}{Có¿, nie chcê ciê zatrzymywaæ. Do widzenia.}
-{190}{}{Z pewnoœci¹ przyda³aby mi siê jak¹œ pomoc. Ale widzisz, nikt nie jest odpowiednio wykwalifikowany do robienia tego, co ja. Oni nawet nie rozumiej¹ podstaw mojej pracy.}
-{191}{}{Jak ktokolwiek móg³by mieæ nadziejê na nad¹¿enie za tob¹?}
-{192}{}{Jesteœ kimœ wyj¹tkowym, bez dwóch zdañ. Do widzenia.}
-{200}{}{Zauwa¿asz, ¿e jestem. Widzê, ¿e naprawdê potrafisz zrozumieæ takie rzeczy. Gdybym nie by³ tutaj tak zajêty, rz¹dzi³bym Gecko. I, powiem ci, rz¹dzi³bym nim dobrze.}
-{201}{}{Rz¹dzi³byœ tak¿e miastem?}
-{202}{}{Aaaaaaa! Idê st¹d. Serio. Nie próbuj mnie powstrzymywaæ. ¯egnam!}
-{210}{}{Có¿, nie by³oby tego handlu z Broken Hills za rudê uranow¹. Zamiast tego wymienialibyœmy j¹ za nasz¹ energiê. Mogliby prowadziæ miasto u¿ywaj¹c energii atomu.}
-{211}{}{Ale czy nie musielibyœcie poprowadziæ linii przesy³owych przez setki mil zdradliwej pustyni?}
-{212}{}{Czujesz coœ? Coœ tu œmierdzi. Lepiej ju¿ pójdê. Do widzenia.}
-{220}{}{Hmm, tak s¹dze. To zmusi³oby ich do kupowania od nas ogromnych akumulatorów. Tak, to jest w³aœnie w tym piêkne. Potem musieliby te¿ kupowaæ baterie. A to tylko pocz¹tek. Mam tak¿e inne plany, jak...}
-{221}{}{Jesteœ tak¿e politykiem? To niezwyk³e, ¿e twoje zdolnoœci obejmuj¹ tak rozleg³y obszar.}
-{222}{}{Czy coœ tu gnije? Chyba potrzebujê trochê œwie¿ego powietrza. Do widzenia.}
-{230}{}{Po prostu jestem wszechstronnie utalentowany. Tak naprawdê jestem dobry we wszystkim, czego spróbujê. Rzadko znajdziesz kogoœ lepszego. Oczywiœcie, akurat najbardziej lubiê kierowaæ t¹ elektrowni¹ atomow¹. Ale gdybym chcia³, móg³bym robiæ cokolwiek innego.}
-{231}{}{Nie mogê uwierzyæ, ¿e nikt w Gecko nie widzi twojego prawdziwego potencja³u. Idê im o tym w tej chwili powiedzieæ. Do zobaczenia.}
-{232}{}{Muszê siê uwolniæ... s³abnê... muszê odejœæ...}
-{240}{}{Co ciê sprowadza do tej czêœci mojego reaktora?}
-{241}{}{Có¿, mam czêœæ, której mo¿esz u¿yæ do jego naprawienia.}
-{242}{}{Tak tylko siê rozgl¹dam... Do widzenia.}
-{250}{}{Wiesz co, nie jestem pewien, czy to jest w³aœciwa czêœæ. Mo¿e trzeba zabraæ j¹ z powrotem do Kryptopolis, ¿eby to sprawdziæ. Nie s¹dzê, abym móg³ ci w tym pomóc.}
-{251}{}{Z pewnoœci¹ to jest w³aœciwa czêœæ. Mam wielk¹ wiarê w twoje zdolnoœci.}
-{252}{}{Chyba masz racjê. Lepiej znajdê inny sposób na zainstalowanie tej czêœci.}
-{260}{}{Nie s¹dzê, ¿eby ludzie z Kryptopolis a¿ tak nas lubili. Wcale bym siê nie zdziwi³, gdyby zainstalowali tam jak¹œ pu³apkê. Mo¿e to tylko wygl¹da jak w³aœciwa czêœæ, a tak naprawdê to bomba! Nie oszukasz mnie tak ³atwo. Nie bêdê instalowa³ tej rzeczy.}
-{261}{}{Gdyby to by³a bomba, z twoim technicznym doœwiadczeniem ju¿ dawno byœ o tym wiedzia³. Po prostu zainstaluj tê czêœæ.}
-{262}{}{Chyba masz racjê. Lepiej znajdê inny sposób na zainstalowanie tej czêœci.}
-{270}{}{No dobra. Ale wci¹¿ nie jestem pewien, czy to jest w³aœciwa czêœæ, czy tylko jakaœ pu³apka. Wiesz, jestem zbyt cenny, aby mnie straciæ. Mo¿e powinienem pozwoliæ zrobiæ to komuœ innemu... póŸniej... znacznie póŸniej.}
-{271}{}{To musi byæ zrobione teraz. A ty jesteœ jedyn¹ osob¹, która mo¿e to dobrze zrobiæ. No dalej, ca³e Gecko
+{102}{}{Widzisz spoglÄ…dajÄ…cego spode Å‚ba ghula o niebywale odraÅ¼ajÄ…cym wyglÄ…dzie. Åšmierdzi jak jedna wielka, zaropiaÅ‚a rana.}
+{110}{}{Czy z tobÄ… kura zamieniÅ‚a siÄ™ na Å‚by? Cha, cha, cha!}
+{111}{}{GÅ‚upi jesteÅ› czy co? Che, che, che. WyglÄ…dasz zupeÅ‚nie jak ktoÅ› z Kryptopolis.}
+{112}{}{CÃ³Å¼, mamusia nie daÅ‚a ci rozumku, co? IdÅº do Kryptopolis.}
+{113}{}{Mam tyle spraw na gÅ‚owie. Dlaczego nie wrÃ³cisz do swojego Kryptopolis? Nie ma tu dla ciebie miejsca.}
+{114}{}{Cha, cha, cha! WyglÄ…dasz jakby nawiedziÅ‚a ciÄ™ twoja zmarÅ‚a teÅ›ciowa!}
+{120}{}{Witam. Jestem Festus. NadzorujÄ™ tu caÅ‚y reaktor. Beze mnie to caÅ‚e miasto przestaÅ‚oby istnieÄ‡. Jestem bardzo zajÄ™tym facetem. NaprawdÄ™, dajÄ… mi za duÅ¼o roboty.}
+{121}{}{Mam tyle do zrobienia. Serio naleÅ¼y mi siÄ™ urlop. Ale wiesz co? Nikt inny nie potrafi prowadziÄ‡ tej elektrowni atomowej. Wiesz, wydobywam siÅ‚Ä™ drzemiÄ…cÄ… w atomie. To naprawdÄ™ moÅ¼e wykoÅ„czyÄ‡ nawet takiego goÅ›cia jak ja.}
+{122}{}{Czym siÄ™ tutaj zajmujesz?}
+{123}{}{Rozumiem, Å¼e reaktor nie dziaÅ‚a zbyt dobrze. Czy to prawda?}
+{124}{}{Dlaczego wyglÄ…dasz - i pachniesz - jakbyÅ› siÄ™ rozkÅ‚adaÅ‚?}
+{125}{}{CÃ³Å¼, nie chcÄ™ ci dÅ‚uÅ¼ej zabieraÄ‡ twojego cennego czasu. Hmm, pÃ³jdÄ™ juÅ¼ sobie. Do zobaczenia.}
+{130}{}{No, teraz, dziÄ™ki mnie, reaktor dziaÅ‚a bez zakÅ‚Ã³ceÅ„. Jestem po prostu za dobry do tej roboty.}
+{131}{}{Reaktor dziaÅ‚a juÅ¼ caÅ‚kiem nieÅºle. MoÅ¼e moÅ¼na by byÅ‚o go jeszcze trochÄ™ podkrÄ™ciÄ‡, ale i tak jest to kawaÅ‚ dobrej roboty.}
+{132}{}{TrochÄ™ podkrÄ™ciÄ‡? Co masz na myÅ›li?}
+{133}{}{CÃ³Å¼, nic nie jest doskonale. Do widzenia, Festus.}
+{141}{}{CÃ³Å¼, nadzorujÄ™ tÄ™ elektrowniÄ™ atomowÄ…. Ale tak naprawdÄ™ to sam kierujÄ™ tym caÅ‚ym interesem.}
+{142}{}{Ta, nadzorujÄ™ tu wszystko - jako kierownik. Wszystko samodzielnie. ByÅ‚oby to niemoÅ¼liwe, gdybym nie byÅ‚ w tym tak cholernie dobry. To jest po prostu dar...}
+{143}{}{Samodzielnie? A co robiÄ… ci wszyscy ludzie w sÄ…siednim pokoju?}
+{144}{}{Musisz wiÄ™c wiedzieÄ‡ co nieco o energii atomowej.}
+{145}{}{CÃ³Å¼, nie chcÄ™ ciÄ™ odrywaÄ‡ od pracy. Do widzenia.}
+{150}{}{PrÃ³Å¼niacy. Nic wiÄ™cej. Oni naprawdÄ™ nie rozumiejÄ…, co tu trzeba zrobiÄ‡. Po prostu zajmujÄ… miejsce. Wkurza mnie, Å¼e myÅ›lÄ…, Å¼e wiedzÄ… coÅ› o elektrowniach atomowych. Jakbym to nie ja byÅ‚ od myÅ›lenia...}
+{151}{}{Hmm. WiÄ™c jeszcze raz, co tutaj robisz?}
+{152}{}{A, tak. CÃ³Å¼, lepiej juÅ¼ pÃ³jdÄ™. Do zobaczenia.}
+{160}{}{Co wiem o energii atomowej? CÃ³Å¼, prawie jÄ… wynalazÅ‚em. Wiem o niej wiÄ™cej niÅ¼ ktokolwiek inny z Å¼ywych. JeÅ¼eli chodzi o energiÄ™ atomowÄ… - nie ma lepszych ode mnie.}
+{161}{}{Hmm. WiÄ™c jeszcze raz, co tutaj robisz?}
+{162}{}{A, tak. CÃ³Å¼, lepiej juÅ¼ pÃ³jdÄ™. Do zobaczenia.}
+{170}{}{Wiesz, ja naprawdÄ™ krÄ™cÄ™ tym caÅ‚ym interesem. To trudna rzecz. Ale mam lata doÅ›wiadczeÅ„. JeÅ¼eli chodzi o elektrownie atomowe, jestem w peÅ‚ni profesjonalistÄ….}
+{171}{}{Musisz byÄ‡ bardzo dobry w tym, co robisz.}
+{172}{}{Z pewnoÅ›ciÄ…. Hmm, chyba juÅ¼ pÃ³jdÄ™. Do zobaczenia.}
+{180}{}{WiÄ™kszoÅ›Ä‡ ludzi myÅ›li, Å¼e jest to proste. MyÅ›lÄ…, Å¼e kaÅ¼dy moÅ¼e kierowaÄ‡ reaktorem atomowym. Ale nie jest to robota dla niewytrenowanych czy ludzi o sÅ‚abych nerwach. PrzecieÅ¼ tutaj wyzwalamy energiÄ™ atomu!}
+{181}{}{Jestem pod wraÅ¼eniem.}
+{182}{}{CÃ³Å¼, nie chcÄ™ ciÄ™ zatrzymywaÄ‡. Do widzenia.}
+{190}{}{Z pewnoÅ›ciÄ… przydaÅ‚aby mi siÄ™ jakÄ…Å› pomoc. Ale widzisz, nikt nie jest odpowiednio wykwalifikowany do robienia tego, co ja. Oni nawet nie rozumiejÄ… podstaw mojej pracy.}
+{191}{}{Jak ktokolwiek mÃ³gÅ‚by mieÄ‡ nadziejÄ™ na nadÄ…Å¼enie za tobÄ…?}
+{192}{}{JesteÅ› kimÅ› wyjÄ…tkowym, bez dwÃ³ch zdaÅ„. Do widzenia.}
+{200}{}{ZauwaÅ¼asz, Å¼e jestem. WidzÄ™, Å¼e naprawdÄ™ potrafisz zrozumieÄ‡ takie rzeczy. Gdybym nie byÅ‚ tutaj tak zajÄ™ty, rzÄ…dziÅ‚bym Gecko. I, powiem ci, rzÄ…dziÅ‚bym nim dobrze.}
+{201}{}{RzÄ…dziÅ‚byÅ› takÅ¼e miastem?}
+{202}{}{Aaaaaaa! IdÄ™ stÄ…d. Serio. Nie prÃ³buj mnie powstrzymywaÄ‡. Å»egnam!}
+{210}{}{CÃ³Å¼, nie byÅ‚oby tego handlu z Broken Hills za rudÄ™ uranowÄ…. Zamiast tego wymienialibyÅ›my jÄ… za naszÄ… energiÄ™. Mogliby prowadziÄ‡ miasto uÅ¼ywajÄ…c energii atomu.}
+{211}{}{Ale czy nie musielibyÅ›cie poprowadziÄ‡ linii przesyÅ‚owych przez setki mil zdradliwej pustyni?}
+{212}{}{Czujesz coÅ›? CoÅ› tu Å›mierdzi. Lepiej juÅ¼ pÃ³jdÄ™. Do widzenia.}
+{220}{}{Hmm, tak sÄ…dze. To zmusiÅ‚oby ich do kupowania od nas ogromnych akumulatorÃ³w. Tak, to jest wÅ‚aÅ›nie w tym piÄ™kne. Potem musieliby teÅ¼ kupowaÄ‡ baterie. A to tylko poczÄ…tek. Mam takÅ¼e inne plany, jak...}
+{221}{}{JesteÅ› takÅ¼e politykiem? To niezwykÅ‚e, Å¼e twoje zdolnoÅ›ci obejmujÄ… tak rozlegÅ‚y obszar.}
+{222}{}{Czy coÅ› tu gnije? Chyba potrzebujÄ™ trochÄ™ Å›wieÅ¼ego powietrza. Do widzenia.}
+{230}{}{Po prostu jestem wszechstronnie utalentowany. Tak naprawdÄ™ jestem dobry we wszystkim, czego sprÃ³bujÄ™. Rzadko znajdziesz kogoÅ› lepszego. OczywiÅ›cie, akurat najbardziej lubiÄ™ kierowaÄ‡ tÄ… elektrowniÄ… atomowÄ…. Ale gdybym chciaÅ‚, mÃ³gÅ‚bym robiÄ‡ cokolwiek innego.}
+{231}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e nikt w Gecko nie widzi twojego prawdziwego potencjaÅ‚u. IdÄ™ im o tym w tej chwili powiedzieÄ‡. Do zobaczenia.}
+{232}{}{MuszÄ™ siÄ™ uwolniÄ‡... sÅ‚abnÄ™... muszÄ™ odejÅ›Ä‡...}
+{240}{}{Co ciÄ™ sprowadza do tej czÄ™Å›ci mojego reaktora?}
+{241}{}{CÃ³Å¼, mam czÄ™Å›Ä‡, ktÃ³rej moÅ¼esz uÅ¼yÄ‡ do jego naprawienia.}
+{242}{}{Tak tylko siÄ™ rozglÄ…dam... Do widzenia.}
+{250}{}{Wiesz co, nie jestem pewien, czy to jest wÅ‚aÅ›ciwa czÄ™Å›Ä‡. MoÅ¼e trzeba zabraÄ‡ jÄ… z powrotem do Kryptopolis, Å¼eby to sprawdziÄ‡. Nie sÄ…dzÄ™, abym mÃ³gÅ‚ ci w tym pomÃ³c.}
+{251}{}{Z pewnoÅ›ciÄ… to jest wÅ‚aÅ›ciwa czÄ™Å›Ä‡. Mam wielkÄ… wiarÄ™ w twoje zdolnoÅ›ci.}
+{252}{}{Chyba masz racjÄ™. Lepiej znajdÄ™ inny sposÃ³b na zainstalowanie tej czÄ™Å›ci.}
+{260}{}{Nie sÄ…dzÄ™, Å¼eby ludzie z Kryptopolis aÅ¼ tak nas lubili. Wcale bym siÄ™ nie zdziwiÅ‚, gdyby zainstalowali tam jakÄ…Å› puÅ‚apkÄ™. MoÅ¼e to tylko wyglÄ…da jak wÅ‚aÅ›ciwa czÄ™Å›Ä‡, a tak naprawdÄ™ to bomba! Nie oszukasz mnie tak Å‚atwo. Nie bÄ™dÄ™ instalowaÅ‚ tej rzeczy.}
+{261}{}{Gdyby to byÅ‚a bomba, z twoim technicznym doÅ›wiadczeniem juÅ¼ dawno byÅ› o tym wiedziaÅ‚. Po prostu zainstaluj tÄ™ czÄ™Å›Ä‡.}
+{262}{}{Chyba masz racjÄ™. Lepiej znajdÄ™ inny sposÃ³b na zainstalowanie tej czÄ™Å›ci.}
+{270}{}{No dobra. Ale wciÄ…Å¼ nie jestem pewien, czy to jest wÅ‚aÅ›ciwa czÄ™Å›Ä‡, czy tylko jakaÅ› puÅ‚apka. Wiesz, jestem zbyt cenny, aby mnie straciÄ‡. MoÅ¼e powinienem pozwoliÄ‡ zrobiÄ‡ to komuÅ› innemu... pÃ³Åºniej... znacznie pÃ³Åºniej.}
+{271}{}{To musi byÄ‡ zrobione teraz. A ty jesteÅ› jedynÄ… osobÄ…, ktÃ³ra moÅ¼e to dobrze zrobiÄ‡. No dalej, caÅ‚e Gecko
  na ciebie liczy!}
-{272}{}{Chyba masz racjê. Lepiej znajdê inny sposób na zainstalowanie tej czêœci.}
-{300}{}{Có¿, z pewnoœci¹ zu¿ywa du¿o uranu. I trochê przecieka. Wiesz, poprosi³bym kogoœ, ¿eby to naprawi³, ale nikt mnie nie s³ucha.}
-{301}{}{Podobno wyciek radioaktywny dostaje siê do wód gruntowych. Czy to prawda?}
-{302}{}{Przecie¿ jesteœ ekspertem od wszystkiego. Dlaczego sam tego nie zreperujesz? Tak w ogóle, to co ty tutaj robisz?}
-{310}{}{Tak, to mo¿liwe, ale nie s¹dzê, aby wyrz¹dzi³o to czemukolwiek jak¹œ krzywdê. B¹dŸ co b¹dŸ to jest pod ziemi¹.}
-{311}{}{Myœlê, ¿e mo¿esz siê myliæ. Kryptopolis skar¿y siê, ¿e ten reaktor powoduje ska¿enie ich wody radioaktywnoœci¹.}
+{272}{}{Chyba masz racjÄ™. Lepiej znajdÄ™ inny sposÃ³b na zainstalowanie tej czÄ™Å›ci.}
+{300}{}{CÃ³Å¼, z pewnoÅ›ciÄ… zuÅ¼ywa duÅ¼o uranu. I trochÄ™ przecieka. Wiesz, poprosiÅ‚bym kogoÅ›, Å¼eby to naprawiÅ‚, ale nikt mnie nie sÅ‚ucha.}
+{301}{}{Podobno wyciek radioaktywny dostaje siÄ™ do wÃ³d gruntowych. Czy to prawda?}
+{302}{}{PrzecieÅ¼ jesteÅ› ekspertem od wszystkiego. Dlaczego sam tego nie zreperujesz? Tak w ogÃ³le, to co ty tutaj robisz?}
+{310}{}{Tak, to moÅ¼liwe, ale nie sÄ…dzÄ™, aby wyrzÄ…dziÅ‚o to czemukolwiek jakÄ…Å› krzywdÄ™. BÄ…dÅº co bÄ…dÅº to jest pod ziemiÄ….}
+{311}{}{MyÅ›lÄ™, Å¼e moÅ¼esz siÄ™ myliÄ‡. Kryptopolis skarÅ¼y siÄ™, Å¼e ten reaktor powoduje skaÅ¼enie ich wody radioaktywnoÅ›ciÄ….}
 {312}{}{Skoro tak twierdzisz. Do widzenia.}
-{320}{}{Niemo¿liwe. Nikt nie wiedzia³by o tym wiêcej ode mnie. Oni po prostu szukaj¹ koz³a ofiarnego, na którego mogliby zrzuciæ swój problem. Nawet nie korzystamy z tej samej warstwy wodonoœnej.}
-{321}{}{Jesteœ pewny siebie. Ale oni te¿.}
-{330}{}{Có¿, to tylko banda amatorów, je¿eli idzie o energiê atomow¹. Tutaj ja jestem prawdziwym ekspertem. To co mówiê, masz jak w banku. To znaczy, gdyby jakiœ bank jeszcze istnia³.}
-{331}{}{Có¿, chyba wiesz, o czym mówisz. Do widzenia.}
-{332}{}{Ja mam co do tego pewne w¹tpliwoœci. Do widzenia.}
-{340}{}{Masz mo¿e zbêdny Hydroelektryczny Regulator Magnetosfery?}
-{341}{}{Ty naprawdê wiesz co to jest?}
-{342}{}{Jasne, jesteœ gotowy go zainstalowaæ?}
-{350}{}{Czemu siê dziwisz? Mówi³em ci, ¿e wiem wszystko o elektrowniach atomowych. Na przysz³oœæ s³uchaj mnie dok³adniej.}
-{351}{}{Có¿, skoro wiesz co to jest, musisz te¿ wiedzieæ, jak to zainstalowaæ.}
-{352}{}{Chyba ju¿ za d³ugo ciê s³ucham. ¯egnam.}
-{360}{}{Oczywiœcie, ¿e tak. Przecie¿ to takie proste dla kogoœ obdarzonego takim doœwiadczeniem i talentem jak mój. Wychowa³em siê na Regulatorach Magnetosfery.}
-{361}{}{To wspaniale. Czy móg³byœ go dla mnie zainstalowaæ?}
-{370}{}{Có¿, chyba móg³bym go zainstalowaæ. Z pewnoœci¹ jestem jedyn¹ osob¹, która potrafi to dobrze zrobiæ. Instalowanie Hydroelektrycznego Regulatora Magnetosfery wymaga trochê sprytu.}
-{371}{}{Oto Regulator. Dobrze, ¿e mogê na ciebie liczyæ.}
+{320}{}{NiemoÅ¼liwe. Nikt nie wiedziaÅ‚by o tym wiÄ™cej ode mnie. Oni po prostu szukajÄ… kozÅ‚a ofiarnego, na ktÃ³rego mogliby zrzuciÄ‡ swÃ³j problem. Nawet nie korzystamy z tej samej warstwy wodonoÅ›nej.}
+{321}{}{JesteÅ› pewny siebie. Ale oni teÅ¼.}
+{330}{}{CÃ³Å¼, to tylko banda amatorÃ³w, jeÅ¼eli idzie o energiÄ™ atomowÄ…. Tutaj ja jestem prawdziwym ekspertem. To co mÃ³wiÄ™, masz jak w banku. To znaczy, gdyby jakiÅ› bank jeszcze istniaÅ‚.}
+{331}{}{CÃ³Å¼, chyba wiesz, o czym mÃ³wisz. Do widzenia.}
+{332}{}{Ja mam co do tego pewne wÄ…tpliwoÅ›ci. Do widzenia.}
+{340}{}{Masz moÅ¼e zbÄ™dny Hydroelektryczny Regulator Magnetosfery?}
+{341}{}{Ty naprawdÄ™ wiesz co to jest?}
+{342}{}{Jasne, jesteÅ› gotowy go zainstalowaÄ‡?}
+{350}{}{Czemu siÄ™ dziwisz? MÃ³wiÅ‚em ci, Å¼e wiem wszystko o elektrowniach atomowych. Na przyszÅ‚oÅ›Ä‡ sÅ‚uchaj mnie dokÅ‚adniej.}
+{351}{}{CÃ³Å¼, skoro wiesz co to jest, musisz teÅ¼ wiedzieÄ‡, jak to zainstalowaÄ‡.}
+{352}{}{Chyba juÅ¼ za dÅ‚ugo ciÄ™ sÅ‚ucham. Å»egnam.}
+{360}{}{OczywiÅ›cie, Å¼e tak. PrzecieÅ¼ to takie proste dla kogoÅ› obdarzonego takim doÅ›wiadczeniem i talentem jak mÃ³j. WychowaÅ‚em siÄ™ na Regulatorach Magnetosfery.}
+{361}{}{To wspaniale. Czy mÃ³gÅ‚byÅ› go dla mnie zainstalowaÄ‡?}
+{370}{}{CÃ³Å¼, chyba mÃ³gÅ‚bym go zainstalowaÄ‡. Z pewnoÅ›ciÄ… jestem jedynÄ… osobÄ…, ktÃ³ra potrafi to dobrze zrobiÄ‡. Instalowanie Hydroelektrycznego Regulatora Magnetosfery wymaga trochÄ™ sprytu.}
+{371}{}{Oto Regulator. Dobrze, Å¼e mogÄ™ na ciebie liczyÄ‡.}
 {372}{}{Z drugiej strony, chyba jednak poszukam innego sposobu. Do widzenia.}
-{380}{}{Chyba móg³bym go zainstalowaæ. Ale instalowanie Hydroelektrycznego Regulatora Magnetosfery wymaga trochê sprytu. I jest niebezpieczne. Nie ¿ebym siê ba³ o siebie. Ale kto prowadzi³by tê elektrowniê atomow¹, gdyby coœ mi siê sta³o? Przykro mi, ale nie mogê ci pomóc.}
-{381}{}{Po prostu jesteœ podszyty tchórzem. ¯egnam.}
-{390}{}{Nie mogê ci teraz pomóc. Jestem zbyt zajêty.}
-{391}{}{Wróæ w przysz³ym tygodniu. Mo¿e wtedy bêdê mia³ czas.}
-{392}{}{Ee, i tak masz nie tê czêœæ, co potrzeba. Tak, no w³aœnie.}
-{393}{}{Przykro mi, ale jestem zbyt zajêty, ¿eby ci pomóc.}
-{394}{}{Nie mogê zdradziæ Gecko i nara¿aæ siê.}
-{400}{}{A, tak. Che, che. Jasne, to odpowiednia czêœæ. Tylko ¿e to jest, ee, trochê bardziej prymitywny model od tego, do którego jestem przyzwyczajony. To wszystko.}
-{401}{}{Dobrze. Wiêc idŸ i zainstaluj go.}
-{410}{}{Chyba wiedz¹, ¿e nie ma sensu próbowaæ robiæ ze mnie g³upca z bomb¹. Jestem pewien, ¿e oni wiedz¹, z kim maj¹ tu do czynienia.}
-{411}{}{W Kryptopolis czêsto o tobie mówi¹. Zazwyczaj szepcz¹ z podziwem. A teraz zainstaluj w koñcu te cholern¹ czêœæ.}
-{420}{}{Dobra, zrobione. Hej! Ja to zrobi³em. Naprawdê jestem tak dobry.}
+{380}{}{Chyba mÃ³gÅ‚bym go zainstalowaÄ‡. Ale instalowanie Hydroelektrycznego Regulatora Magnetosfery wymaga trochÄ™ sprytu. I jest niebezpieczne. Nie Å¼ebym siÄ™ baÅ‚ o siebie. Ale kto prowadziÅ‚by tÄ™ elektrowniÄ™ atomowÄ…, gdyby coÅ› mi siÄ™ staÅ‚o? Przykro mi, ale nie mogÄ™ ci pomÃ³c.}
+{381}{}{Po prostu jesteÅ› podszyty tchÃ³rzem. Å»egnam.}
+{390}{}{Nie mogÄ™ ci teraz pomÃ³c. Jestem zbyt zajÄ™ty.}
+{391}{}{WrÃ³Ä‡ w przyszÅ‚ym tygodniu. MoÅ¼e wtedy bÄ™dÄ™ miaÅ‚ czas.}
+{392}{}{Ee, i tak masz nie tÄ™ czÄ™Å›Ä‡, co potrzeba. Tak, no wÅ‚aÅ›nie.}
+{393}{}{Przykro mi, ale jestem zbyt zajÄ™ty, Å¼eby ci pomÃ³c.}
+{394}{}{Nie mogÄ™ zdradziÄ‡ Gecko i naraÅ¼aÄ‡ siÄ™.}
+{400}{}{A, tak. Che, che. Jasne, to odpowiednia czÄ™Å›Ä‡. Tylko Å¼e to jest, ee, trochÄ™ bardziej prymitywny model od tego, do ktÃ³rego jestem przyzwyczajony. To wszystko.}
+{401}{}{Dobrze. WiÄ™c idÅº i zainstaluj go.}
+{410}{}{Chyba wiedzÄ…, Å¼e nie ma sensu prÃ³bowaÄ‡ robiÄ‡ ze mnie gÅ‚upca z bombÄ…. Jestem pewien, Å¼e oni wiedzÄ…, z kim majÄ… tu do czynienia.}
+{411}{}{W Kryptopolis czÄ™sto o tobie mÃ³wiÄ…. Zazwyczaj szepczÄ… z podziwem. A teraz zainstaluj w koÅ„cu te cholernÄ… czÄ™Å›Ä‡.}
+{420}{}{Dobra, zrobione. Hej! Ja to zrobiÅ‚em. NaprawdÄ™ jestem tak dobry.}
 {421}{}{Kurde, dobry jestem.}
-{422}{}{By³o ciê¿ko, ale uda³o mi siê. Jestem bohaterem.}
-{423}{}{Zas³ugujê na podwy¿kê za pracê, któr¹ wykonujê.}
-{424}{}{Z pewnoœci¹ Gecko ma teraz u mnie d³ug wdziêcznoœci.}
-{425}{}{Widzia³ mnie ktoœ? Nawet nie mrugn¹³em okiem.}
+{422}{}{ByÅ‚o ciÄ™Å¼ko, ale udaÅ‚o mi siÄ™. Jestem bohaterem.}
+{423}{}{ZasÅ‚ugujÄ™ na podwyÅ¼kÄ™ za pracÄ™, ktÃ³rÄ… wykonujÄ™.}
+{424}{}{Z pewnoÅ›ciÄ… Gecko ma teraz u mnie dÅ‚ug wdziÄ™cznoÅ›ci.}
+{425}{}{WidziaÅ‚ mnie ktoÅ›? Nawet nie mrugnÄ…Å‚em okiem.}
 {430}{}{Czego chcesz?}
-{431}{}{Podobno zajmujesz siê wydawaniem czêœci, a ja jednej z nich potrzebujê.}
-{432}{}{Zastanawiam siê, co tutaj robisz?}
+{431}{}{Podobno zajmujesz siÄ™ wydawaniem czÄ™Å›ci, a ja jednej z nich potrzebujÄ™.}
+{432}{}{Zastanawiam siÄ™, co tutaj robisz?}
 {440}{}{Ty? Po co ci ona?}
-{441}{}{Có¿, potrzebuj¹ jej ch³opaki z sali obok. Wiedz, ¿e chc¹ j¹ zdobyæ, ¿eby po prostu zobaczyæ ciebie w akcji.}
-{442}{}{Po prostu potrzebujê. Ej, b¹dŸ kolega. Po prostu daj mi jedn¹. OK?}
-{443}{}{Chyba lepiej, ¿ebyœ mi j¹ da³. Wiesz, praca w elektrowni, ludzie miewaj¹ wypadki. Rozumiemy siê?}
-{444}{}{Potrzebujê jej, bo - Hej, czy to nie jest alarm Urz¹dzenia Robi¹cego "Ping"?}
-{450}{}{No dobra. Oto ten twój Formularz Zapotrzebowania Na Czêœci. Chyba masz powody, ¿eby o niego prosiæ.}
-{451}{}{No dobra. Oto ten twój... Hej? Gdzie siê to cholerstwo zapodzia³o? Musi tu gdzieœ byæ... Hmm, no có¿, chyba siê go teraz nie doszukam. Ale w koñcu siê znajdzie.}
-{452}{}{Dziêki. Do zobaczenia.}
-{453}{}{No có¿. Wiêc mo¿e wrócê póŸniej. Do widzenia.}
-{460}{}{Nie obchodzi mnie czego chcesz. Te Formularze Zapotrzebowania Na Czêœci s¹ przeznaczone tylko do oficjalnych dzia³añ. Powierza siê je tylko wa¿nemu personelowi. Dlatego je mam. Rozumiesz? Wa¿nemu personelowi.}
+{441}{}{CÃ³Å¼, potrzebujÄ… jej chÅ‚opaki z sali obok. Wiedz, Å¼e chcÄ… jÄ… zdobyÄ‡, Å¼eby po prostu zobaczyÄ‡ ciebie w akcji.}
+{442}{}{Po prostu potrzebujÄ™. Ej, bÄ…dÅº kolega. Po prostu daj mi jednÄ…. OK?}
+{443}{}{Chyba lepiej, Å¼ebyÅ› mi jÄ… daÅ‚. Wiesz, praca w elektrowni, ludzie miewajÄ… wypadki. Rozumiemy siÄ™?}
+{444}{}{PotrzebujÄ™ jej, bo - Hej, czy to nie jest alarm UrzÄ…dzenia RobiÄ…cego "Ping"?}
+{450}{}{No dobra. Oto ten twÃ³j Formularz Zapotrzebowania Na CzÄ™Å›ci. Chyba masz powody, Å¼eby o niego prosiÄ‡.}
+{451}{}{No dobra. Oto ten twÃ³j... Hej? Gdzie siÄ™ to cholerstwo zapodziaÅ‚o? Musi tu gdzieÅ› byÄ‡... Hmm, no cÃ³Å¼, chyba siÄ™ go teraz nie doszukam. Ale w koÅ„cu siÄ™ znajdzie.}
+{452}{}{DziÄ™ki. Do zobaczenia.}
+{453}{}{No cÃ³Å¼. WiÄ™c moÅ¼e wrÃ³cÄ™ pÃ³Åºniej. Do widzenia.}
+{460}{}{Nie obchodzi mnie czego chcesz. Te Formularze Zapotrzebowania Na CzÄ™Å›ci sÄ… przeznaczone tylko do oficjalnych dziaÅ‚aÅ„. Powierza siÄ™ je tylko waÅ¼nemu personelowi. Dlatego je mam. Rozumiesz? WaÅ¼nemu personelowi.}
 {461}{}{Tak, rozumiem. Do widzenia.}
-{462}{}{Có¿, ty kiedyœ zrozumiesz coœ innego. Mo¿e nie dzisiaj, ale wkrótce. ¯egnam.}
-{470}{}{Ee, tak, tak w³aœnie powinno byæ. Mam mnóstwo pilnej roboty. Je¿eli to ju¿ wszystko...}
-{471}{}{Hmm, tak naprawdê to potrzebujê Formularza Zapotrzebowania Na Czêœci.}
-{472}{}{W sumie to niczego nie potrzebujê. ¯egnam.}
-{480}{}{Co masz na myœli? No có¿, byæ mo¿e za du¿o ostatnio pracowa³em. Nie mia³em czasu, ¿eby zadbaæ o siebie tak jak powinienem. Mo¿e radioaktywnoœæ dzia³a na mnie nieco inaczej.}
-{481}{}{Ee, tego... mo¿e powinieneœ pomyœleæ o k¹pieli, ¿eby usun¹æ ten dziwny zapaszek.}
-{490}{}{Có¿, chyba powinienem. Ale zawsze, gdy siê k¹piê, z³azi ze mnie mnóstwo skóry, a wszystkie strupy siê otwieraj¹. Aha, no i jeszcze paznokcie mi siê wci¹¿ ³ami¹...}
-{491}{}{Czekaj! Wystarczy! Mo¿e wróæmy jednak do poprzedniego tematu.}
-{500}{}{Festus odchodzi i po chwili wraca. Wci¹¿ jednak ma przy sobie czêœæ.}
+{462}{}{CÃ³Å¼, ty kiedyÅ› zrozumiesz coÅ› innego. MoÅ¼e nie dzisiaj, ale wkrÃ³tce. Å»egnam.}
+{470}{}{Ee, tak, tak wÅ‚aÅ›nie powinno byÄ‡. Mam mnÃ³stwo pilnej roboty. JeÅ¼eli to juÅ¼ wszystko...}
+{471}{}{Hmm, tak naprawdÄ™ to potrzebujÄ™ Formularza Zapotrzebowania Na CzÄ™Å›ci.}
+{472}{}{W sumie to niczego nie potrzebujÄ™. Å»egnam.}
+{480}{}{Co masz na myÅ›li? No cÃ³Å¼, byÄ‡ moÅ¼e za duÅ¼o ostatnio pracowaÅ‚em. Nie miaÅ‚em czasu, Å¼eby zadbaÄ‡ o siebie tak jak powinienem. MoÅ¼e radioaktywnoÅ›Ä‡ dziaÅ‚a na mnie nieco inaczej.}
+{481}{}{Ee, tego... moÅ¼e powinieneÅ› pomyÅ›leÄ‡ o kÄ…pieli, Å¼eby usunÄ…Ä‡ ten dziwny zapaszek.}
+{490}{}{CÃ³Å¼, chyba powinienem. Ale zawsze, gdy siÄ™ kÄ…piÄ™, zÅ‚azi ze mnie mnÃ³stwo skÃ³ry, a wszystkie strupy siÄ™ otwierajÄ…. Aha, no i jeszcze paznokcie mi siÄ™ wciÄ…Å¼ Å‚amiÄ…...}
+{491}{}{Czekaj! Wystarczy! MoÅ¼e wrÃ³Ä‡my jednak do poprzedniego tematu.}
+{500}{}{Festus odchodzi i po chwili wraca. WciÄ…Å¼ jednak ma przy sobie czÄ™Å›Ä‡.}
 {510}{}{[Zrobione.]}
-{520}{}{Festus oddaje ci czêœæ.}
-{530}{}{Festus odchodzi i po chwili wraca. WyraŸnie jest z czegoœ zadowolony.}
-{600}{}{Mam dysk z danymi reaktora, który mo¿e pomóc ci zoptymalizowaæ reaktor.}
-{610}{}{Dobrze, daj mi go, a zobaczymy, co mogê zrobiæ.}
+{520}{}{Festus oddaje ci czÄ™Å›Ä‡.}
+{530}{}{Festus odchodzi i po chwili wraca. WyraÅºnie jest z czegoÅ› zadowolony.}
+{600}{}{Mam dysk z danymi reaktora, ktÃ³ry moÅ¼e pomÃ³c ci zoptymalizowaÄ‡ reaktor.}
+{610}{}{Dobrze, daj mi go, a zobaczymy, co mogÄ™ zrobiÄ‡.}
 {620}{}{Trzymaj.}
 {630}{}{Nie, chyba go jeszcze zatrzymam.}
-{640}{}{W porz¹dku, wygl¹da dobrze. Dziêki za pomoc.}
+{640}{}{W porzÄ…dku, wyglÄ…da dobrze. DziÄ™ki za pomoc.}
 {650}{}{Jasne. Nie ma problemu.}
-{700}{}{Uda³o ci siê przekonaæ Festusa, aby pomóg³ ci naprawiæ elektrowniê.}
-{800}{}{Znaczy siê reaktor teraz ju¿ dzia³a, ale na pewno móg³by dzia³aæ lepiej. To znaczy lepiej o ca³¹ rewolucjê przemys³ow¹, gdybyœmy tylko mieli ciut wiêcej danych. Gdyby uda³o ci siê zdobyæ dane optymalizacyjne, moglibyœmy gotowaæ na gazie, ee, znaczy, wiesz o co mi chodzi.}
-{801}{}{Dane optymalizacyjne? Gdzie mogê je znaleŸæ?}
-{802}{}{Có¿, zapewne mo¿na by je zdobyæ w g³ównym komputerze Kryptopolis.}
-{803}{}{Dobrze. Zobaczê, co da siê zrobiæ.}
-{804}{}{Hmm, to jest myœl.}
-{805}{}{Zrobiê to wtedy, gdy pies z papieru z³apie w piekle azbestowego kota. ¯egnam, Festus.}
-{806}{}{Za³o¿ê siê, ¿e ktoœ tak sprytny jak ty móg³by siê tam wœlizgn¹æ i za³adowaæ z g³ównego komputera na holodysk dane o wydajnoœci reaktora. PóŸniej trzeba by tylko wróciæ do nas. To by wystarczy³o. Sam bym to zrobi³, ale jestem zbyt cenny, aby siê st¹d oddalaæ, nawet na moment.}
-{807}{}{Nie znoszê zostawiaæ roboty wykonanej tylko w po³owie.}
-{808}{}{Hmm, nie s¹dzê, ¿eby usz³o mi to na sucho. Przykro mi, Festus. Do widzenia.}
-{809}{}{To mo¿e siê udaæ. Widzê, ¿e czêœæ mojej inteligencji sp³ynê³a na ciebie. Dobrze, bardzo dobrze. Musisz to szybko dostarczyæ do goœcia o nazwisku McClure. Z tego co s³ysza³em, to jedyny cz³owiek, który nastawi³by ucho na cokolwiek niezwi¹zanego z jak¿e cennymi obywatelami Kryptopolis.}
-{810}{}{Radny McClure jest cz³owiekiem, którego muszê zobaczyæ. Dziêki za radê. Chyba to zrobiê.}
-{811}{}{Jasne, po prostu nie mogê siê doczekaæ uwiêzienia w Kryptopolis za sympatyzowanie z mutantami. Nie Festus, dziêki. Sam musisz to za³atwiæ. ¯egnam.}
-{812}{}{Moja krew! Mia³em nadziejê, ¿e to powiesz. Œwietnie. Po prostu w³ó¿ ten dysk do g³ównego komputera Kryptopolis, a póŸniej dostarcz go do mnie. Bêdziemy zu¿ywaæ mniej uranu, rdzeñ nie bêdzie tak strasznie przecieka³, a Kryptopolis nie bêdzie mia³o powodu, aby nas wyeliminowaæ.}
-{813}{}{Ja z pewnoœci¹ nie chcê zobaczyæ zniszczenia Gecko. Zrobiê to.}
-{814}{}{Jakoœ nie mam na to ochoty. Przykro mi, Festus. Do widzenia.}
-{815}{}{Ach, gdybym móg³ znaleŸæ czas, ¿eby pójœæ i zrobiæ to samemu - ale nie mogê. Wszystko co mogê, to podziêkowaæ ci, dzieciaku. Wyœwiadczysz nam wszystkim ogromn¹ przys³ugê... (chlip, chlip) Jestem z ciebie dumny.}
-{816}{}{Có¿, lepiej ju¿ pójdê. Do widzenia, Festus. Wrócê z potrzebnymi ci danymi najszybciej jak tylko bêdzie to mo¿liwe.}
-{817}{}{Nie stój tak, jakby ci oœæ w gardle stanê³a. IdŸ i zdob¹dŸ te dane.}
-{818}{}{Nie stój tak. Reaktor nie bêdzie dzia³a³ wiecznie.}
-{819}{}{Ruszaj siê i zdob¹dŸ dane optymalizacyjne, tak jak ustaliliœmy.}
-{820}{}{Bêdzie mnóstwo czasu na pogaduszki *po* optymalizacji reaktora.}
-{821}{}{IdŸ do Kryptopolis i daj McClure'owi dysk z danymi ekonomicznymi w zamian za dane o reaktorze, których potrzebujemy.}
+{700}{}{UdaÅ‚o ci siÄ™ przekonaÄ‡ Festusa, aby pomÃ³gÅ‚ ci naprawiÄ‡ elektrowniÄ™.}
+{800}{}{Znaczy siÄ™ reaktor teraz juÅ¼ dziaÅ‚a, ale na pewno mÃ³gÅ‚by dziaÅ‚aÄ‡ lepiej. To znaczy lepiej o caÅ‚Ä… rewolucjÄ™ przemysÅ‚owÄ…, gdybyÅ›my tylko mieli ciut wiÄ™cej danych. Gdyby udaÅ‚o ci siÄ™ zdobyÄ‡ dane optymalizacyjne, moglibyÅ›my gotowaÄ‡ na gazie, ee, znaczy, wiesz o co mi chodzi.}
+{801}{}{Dane optymalizacyjne? Gdzie mogÄ™ je znaleÅºÄ‡?}
+{802}{}{CÃ³Å¼, zapewne moÅ¼na by je zdobyÄ‡ w gÅ‚Ã³wnym komputerze Kryptopolis.}
+{803}{}{Dobrze. ZobaczÄ™, co da siÄ™ zrobiÄ‡.}
+{804}{}{Hmm, to jest myÅ›l.}
+{805}{}{ZrobiÄ™ to wtedy, gdy pies z papieru zÅ‚apie w piekle azbestowego kota. Å»egnam, Festus.}
+{806}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e ktoÅ› tak sprytny jak ty mÃ³gÅ‚by siÄ™ tam wÅ›lizgnÄ…Ä‡ i zaÅ‚adowaÄ‡ z gÅ‚Ã³wnego komputera na holodysk dane o wydajnoÅ›ci reaktora. PÃ³Åºniej trzeba by tylko wrÃ³ciÄ‡ do nas. To by wystarczyÅ‚o. Sam bym to zrobiÅ‚, ale jestem zbyt cenny, aby siÄ™ stÄ…d oddalaÄ‡, nawet na moment.}
+{807}{}{Nie znoszÄ™ zostawiaÄ‡ roboty wykonanej tylko w poÅ‚owie.}
+{808}{}{Hmm, nie sÄ…dzÄ™, Å¼eby uszÅ‚o mi to na sucho. Przykro mi, Festus. Do widzenia.}
+{809}{}{To moÅ¼e siÄ™ udaÄ‡. WidzÄ™, Å¼e czÄ™Å›Ä‡ mojej inteligencji spÅ‚ynÄ™Å‚a na ciebie. Dobrze, bardzo dobrze. Musisz to szybko dostarczyÄ‡ do goÅ›cia o nazwisku McClure. Z tego co sÅ‚yszaÅ‚em, to jedyny czÅ‚owiek, ktÃ³ry nastawiÅ‚by ucho na cokolwiek niezwiÄ…zanego z jakÅ¼e cennymi obywatelami Kryptopolis.}
+{810}{}{Radny McClure jest czÅ‚owiekiem, ktÃ³rego muszÄ™ zobaczyÄ‡. DziÄ™ki za radÄ™. Chyba to zrobiÄ™.}
+{811}{}{Jasne, po prostu nie mogÄ™ siÄ™ doczekaÄ‡ uwiÄ™zienia w Kryptopolis za sympatyzowanie z mutantami. Nie Festus, dziÄ™ki. Sam musisz to zaÅ‚atwiÄ‡. Å»egnam.}
+{812}{}{Moja krew! MiaÅ‚em nadziejÄ™, Å¼e to powiesz. Åšwietnie. Po prostu wÅ‚Ã³Å¼ ten dysk do gÅ‚Ã³wnego komputera Kryptopolis, a pÃ³Åºniej dostarcz go do mnie. BÄ™dziemy zuÅ¼ywaÄ‡ mniej uranu, rdzeÅ„ nie bÄ™dzie tak strasznie przeciekaÅ‚, a Kryptopolis nie bÄ™dzie miaÅ‚o powodu, aby nas wyeliminowaÄ‡.}
+{813}{}{Ja z pewnoÅ›ciÄ… nie chcÄ™ zobaczyÄ‡ zniszczenia Gecko. ZrobiÄ™ to.}
+{814}{}{JakoÅ› nie mam na to ochoty. Przykro mi, Festus. Do widzenia.}
+{815}{}{Ach, gdybym mÃ³gÅ‚ znaleÅºÄ‡ czas, Å¼eby pÃ³jÅ›Ä‡ i zrobiÄ‡ to samemu - ale nie mogÄ™. Wszystko co mogÄ™, to podziÄ™kowaÄ‡ ci, dzieciaku. WyÅ›wiadczysz nam wszystkim ogromnÄ… przysÅ‚ugÄ™... (chlip, chlip) Jestem z ciebie dumny.}
+{816}{}{CÃ³Å¼, lepiej juÅ¼ pÃ³jdÄ™. Do widzenia, Festus. WrÃ³cÄ™ z potrzebnymi ci danymi najszybciej jak tylko bÄ™dzie to moÅ¼liwe.}
+{817}{}{Nie stÃ³j tak, jakby ci oÅ›Ä‡ w gardle stanÄ™Å‚a. IdÅº i zdobÄ…dÅº te dane.}
+{818}{}{Nie stÃ³j tak. Reaktor nie bÄ™dzie dziaÅ‚aÅ‚ wiecznie.}
+{819}{}{Ruszaj siÄ™ i zdobÄ…dÅº dane optymalizacyjne, tak jak ustaliliÅ›my.}
+{820}{}{BÄ™dzie mnÃ³stwo czasu na pogaduszki *po* optymalizacji reaktora.}
+{821}{}{IdÅº do Kryptopolis i daj McClure'owi dysk z danymi ekonomicznymi w zamian za dane o reaktorze, ktÃ³rych potrzebujemy.}
 {822}{}{No dalej. Daj ten dysk McClure'owi.}
-{823}{}{Kryptopolis? Niewykonane zadanie? Dzwoni ci coœ, ale w którym koœciele?}
-{824}{}{Poœpiesz siê!}
-{825}{}{Dziêki za wyci¹gniêcie z Kryptopolis danych, których potrzebowaliœmy, aby zoptymalizowaæ tê star¹, przeciekaj¹c¹ bestiê. Masz zwinnoœæ jak w¹¿, nie zaprzeczam. Ta robota zosta³a zrobiona prawie tak dobrze, jakbym to ja j¹ zrobi³. Oczywiœcie, je¿eli tak na serio chcesz *zakoñczyæ* te robótkê, to w³ó¿ po prostu ten dysk do Terminala Obs³ugi Robota.}
-{826}{}{Có¿, nigdy nie zostawiam roboty zrobionej tylko do po³owy. Do widzenia, Festus.}
-{827}{}{Ta, na pewno byœ to zrobi³. Ty napuszony bufonie. ¯egnam.}
-{828}{}{Jesteœ w porz¹siu. Nie ma co do tego w¹tpliwoœci. Wiedzia³em, ¿e to zrobisz.}
+{823}{}{Kryptopolis? Niewykonane zadanie? Dzwoni ci coÅ›, ale w ktÃ³rym koÅ›ciele?}
+{824}{}{PoÅ›piesz siÄ™!}
+{825}{}{DziÄ™ki za wyciÄ…gniÄ™cie z Kryptopolis danych, ktÃ³rych potrzebowaliÅ›my, aby zoptymalizowaÄ‡ tÄ™ starÄ…, przeciekajÄ…cÄ… bestiÄ™. Masz zwinnoÅ›Ä‡ jak wÄ…Å¼, nie zaprzeczam. Ta robota zostaÅ‚a zrobiona prawie tak dobrze, jakbym to ja jÄ… zrobiÅ‚. OczywiÅ›cie, jeÅ¼eli tak na serio chcesz *zakoÅ„czyÄ‡* te robÃ³tkÄ™, to wÅ‚Ã³Å¼ po prostu ten dysk do Terminala ObsÅ‚ugi Robota.}
+{826}{}{CÃ³Å¼, nigdy nie zostawiam roboty zrobionej tylko do poÅ‚owy. Do widzenia, Festus.}
+{827}{}{Ta, na pewno byÅ› to zrobiÅ‚. Ty napuszony bufonie. Å»egnam.}
+{828}{}{JesteÅ› w porzÄ…siu. Nie ma co do tego wÄ…tpliwoÅ›ci. WiedziaÅ‚em, Å¼e to zrobisz.}
 {829}{}{Jestem z ciebie dumny.}
-{830}{}{Dziêki. A teraz pozwól mi wróciæ do moich bardzo wa¿nych zajêæ.}
-{831}{}{Postêpuj tak dalej, a byæ mo¿e któregoœ dnia dorównasz mi w odwadze i inteligencji.}
-{900}{}{Nie widzisz, ¿e jestem zajêty?}
+{830}{}{DziÄ™ki. A teraz pozwÃ³l mi wrÃ³ciÄ‡ do moich bardzo waÅ¼nych zajÄ™Ä‡.}
+{831}{}{PostÄ™puj tak dalej, a byÄ‡ moÅ¼e ktÃ³regoÅ› dnia dorÃ³wnasz mi w odwadze i inteligencji.}
+{900}{}{Nie widzisz, Å¼e jestem zajÄ™ty?}

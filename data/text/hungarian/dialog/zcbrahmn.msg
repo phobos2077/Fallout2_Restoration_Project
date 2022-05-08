@@ -1,12 +1,12 @@
-{100}{}{Háziasított brahmin.}
-{101}{}{A tehenek ki voltak téve a sugárzás káros hatásainak, ezért egyel több fejük n?tt. Így lett a tehenekb?l brahmin.}
-{102}{}{Semmi különöset nem veszel észre a brahminon.}
-{103}{}{A brahminokkal nem sok mindenr?l lehet társalogni.}
-{104}{}{Nincs jobb dolgod, mint itt álldogálni és egy kétfej? tehénhez beszélni?}
-{105}{}{Ez egy brahmin. Két feje van.}
-{201}{}{Múúú...}
-{202}{}{Múúú Múúú Múúú...}
-{203}{}{Múúú...}
-{204}{}{Múúúúúú...}
-{205}{}{Múúúúúúúúú...}
-{206}{}{:: KÉR?DZIK ::}
+{100}{}{HÃ¡ziasÃ­tott brahmin.}
+{101}{}{A tehenek ki voltak tÃ©ve a sugÃ¡rzÃ¡s kÃ¡ros hatÃ¡sainak, ezÃ©rt egyel tÃ¶bb fejÃ¼k n?tt. Ãgy lett a tehenekb?l brahmin.}
+{102}{}{Semmi kÃ¼lÃ¶nÃ¶set nem veszel Ã©szre a brahminon.}
+{103}{}{A brahminokkal nem sok mindenr?l lehet tÃ¡rsalogni.}
+{104}{}{Nincs jobb dolgod, mint itt Ã¡lldogÃ¡lni Ã©s egy kÃ©tfej? tehÃ©nhez beszÃ©lni?}
+{105}{}{Ez egy brahmin. KÃ©t feje van.}
+{201}{}{MÃºÃºÃº...}
+{202}{}{MÃºÃºÃº MÃºÃºÃº MÃºÃºÃº...}
+{203}{}{MÃºÃºÃº...}
+{204}{}{MÃºÃºÃºÃºÃºÃº...}
+{205}{}{MÃºÃºÃºÃºÃºÃºÃºÃºÃº...}
+{206}{}{:: KÃ‰R?DZIK ::}

@@ -7,29 +7,29 @@
 {152}{}{Wuff! Wuff! Wuff!}
 {153}{}{[Der Hund scheint ausgesprochen aufgeregt zu sein.]}
 {154}{}{Gutes Hundchen.}
-{155}{}{Weißt du wo Jonny ist, Alter?}
+{155}{}{WeiÃŸt du wo Jonny ist, Alter?}
 {156}{}{Bleib hier, Laddie.}
 {157}{}{Komm, wir suchen Jonny.}
 {158}{}{Ist Jonny in den Brunnen gefallen, Laddie?}
 {159}{}{Was ist denn los, Alter, willst du mir etwas sagen?}
-{160}{}{Grrrr! [Laddie schnappt wütend nach dir.]}
+{160}{}{Grrrr! [Laddie schnappt wÃ¼tend nach dir.]}
 {161}{}{[Hmm... Aus irgendeinem Grund mag er dich nicht.]}
 {162}{}{Wuff! Wuff! Wuff! [Laddie springt an dir hoch und leckt dir das Gesicht.]}
-{163}{}{[Was für ein guter Hund.]}
-{164}{}{Wuff? [Du kannst den Hund geradezu über dich lachen hören.]}
-{165}{}{[Niemand mag Klugschwätzer.]}
+{163}{}{[Was fÃ¼r ein guter Hund.]}
+{164}{}{Wuff? [Du kannst den Hund geradezu Ã¼ber dich lachen hÃ¶ren.]}
+{165}{}{[Niemand mag KlugschwÃ¤tzer.]}
 {167}{}{Ist Jonny irgendwo in Modoc?}
 {168}{}{Hat Jonny Modoc verlassen?}
-{169}{}{Wurde Jonny von Aliens entführt?}
-{170}{}{Ich hab keine Zeit zum Spielen, Laddie, wir müssen Jonny finden. Komm.}
+{169}{}{Wurde Jonny von Aliens entfÃ¼hrt?}
+{170}{}{Ich hab keine Zeit zum Spielen, Laddie, wir mÃ¼ssen Jonny finden. Komm.}
 {171}{}{Beim Schlachthaus?}
 {172}{}{Bei der Gerberei?}
-{173}{}{Bei der Warenbörse?}
+{173}{}{Bei der WarenbÃ¶rse?}
 {174}{}{Beim Brunnen?}
 {175}{}{Irgendwo anders?}
 {177}{}{Bei Roses Pension?}
 {180}{}{Ist er nach Norden gegangen?}
-{181}{}{Ist er nach Süden gegangen?}
+{181}{}{Ist er nach SÃ¼den gegangen?}
 {182}{}{Ist er nach Osten gegangen?}
 {183}{}{Ist er nach Westen gegangen?}
 {186}{}{Wuff?}

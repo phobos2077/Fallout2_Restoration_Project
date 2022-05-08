@@ -1,64 +1,64 @@
-{100}{}{Widzisz starego osiedleñca.}
+{100}{}{Widzisz starego osiedleÅ„ca.}
 {101}{}{To Zeke, osiedleniec.}
-{102}{}{Widzisz starszego mê¿czyznê o przerzedzonych, bia³ych w³osach.}
-{103}{}{Nazywam siê Zeke. Przykro mi, ale nie mam czasu na rozmowê z tob¹ - zreszt¹ w tym mieœcie nie ma nic, co powinno ciê interesowaæ. Im szybciej wyruszysz w drogê, tym lepiej.}
-{104}{}{Uhm, w porz¹dku.}
-{105}{}{Moja mieæ pytania.}
-{106}{}{Dobrze, odejdê.}
-{107}{}{Chcê tylko zapytaæ o kilka rzeczy.}
-{108}{}{Niestety, odpowiedzi w³aœnie siê nam skoñczy³y. Mo¿e wrócisz, jak otrzymamy now¹ dostawê?}
+{102}{}{Widzisz starszego mÄ™Å¼czyznÄ™ o przerzedzonych, biaÅ‚ych wÅ‚osach.}
+{103}{}{Nazywam siÄ™ Zeke. Przykro mi, ale nie mam czasu na rozmowÄ™ z tobÄ… - zresztÄ… w tym mieÅ›cie nie ma nic, co powinno ciÄ™ interesowaÄ‡. Im szybciej wyruszysz w drogÄ™, tym lepiej.}
+{104}{}{Uhm, w porzÄ…dku.}
+{105}{}{Moja mieÄ‡ pytania.}
+{106}{}{Dobrze, odejdÄ™.}
+{107}{}{ChcÄ™ tylko zapytaÄ‡ o kilka rzeczy.}
+{108}{}{Niestety, odpowiedzi wÅ‚aÅ›nie siÄ™ nam skoÅ„czyÅ‚y. MoÅ¼e wrÃ³cisz, jak otrzymamy nowÄ… dostawÄ™?}
 {109}{}{Zrobione.}
-{110}{}{Witam znowu. Niestety, nadal nie mam dla ciebie ¿adnych odpowiedzi. Nie radzisz sobie najlepiej z odczytywaniem aluzji, co?}
+{110}{}{Witam znowu. Niestety, nadal nie mam dla ciebie Å¼adnych odpowiedzi. Nie radzisz sobie najlepiej z odczytywaniem aluzji, co?}
 {111}{}{Zrobione.}
-{112}{}{Rebeka powiedzia³a mi, ile ci zawdziêcza. Muszê ciê przeprosiæ za przyjêcie, które ci poprzednio zgotowa³em. Myli³em siê co do ciebie. W czym mogê ci pomóc?}
-{113}{}{Moja mieæ pytania.}
+{112}{}{Rebeka powiedziaÅ‚a mi, ile ci zawdziÄ™cza. MuszÄ™ ciÄ™ przeprosiÄ‡ za przyjÄ™cie, ktÃ³re ci poprzednio zgotowaÅ‚em. MyliÅ‚em siÄ™ co do ciebie. W czym mogÄ™ ci pomÃ³c?}
+{113}{}{Moja mieÄ‡ pytania.}
 {114}{}{W niczym. Pa.}
-{115}{}{Mam kilka pytañ.}
-{116}{}{Chwilowo w niczym, dziêki.}
-{117}{}{Co chcesz wiedzieæ?}
+{115}{}{Mam kilka pytaÅ„.}
+{116}{}{Chwilowo w niczym, dziÄ™ki.}
+{117}{}{Co chcesz wiedzieÄ‡?}
 {118}{}{Twoja pracuje dla Darion?}
-{119}{}{Co twoja robiæ z bandyty?}
+{119}{}{Co twoja robiÄ‡ z bandyty?}
 {120}{}{Gdzie drzwi Krypta?}
-{121}{}{Co tu s³ychaæ?}
-{122}{}{Moja ju¿ iœæ.}
+{121}{}{Co tu sÅ‚ychaÄ‡?}
+{122}{}{Moja juÅ¼ iÅ›Ä‡.}
 {123}{}{Pracujesz dla Dariona?}
-{124}{}{Co zamierzasz zrobiæ z bandytami?}
-{125}{}{Gdzie znajduje siê wejœcie do Krypty?}
-{126}{}{Co jeszcze s³ychaæ w mieœcie?}
-{127}{}{To ju¿ chyba wszystko. Muszê iœæ.}
-{128}{}{Tak. Jestem swego rodzaju ³¹cznikiem miêdzy nim a mieszkañcami. Nie powiem, ¿ebym by³ z tego dumny. Szczególnie teraz, kiedy wiem co on knuje.}
-{129}{}{W porz¹dku.}
+{124}{}{Co zamierzasz zrobiÄ‡ z bandytami?}
+{125}{}{Gdzie znajduje siÄ™ wejÅ›cie do Krypty?}
+{126}{}{Co jeszcze sÅ‚ychaÄ‡ w mieÅ›cie?}
+{127}{}{To juÅ¼ chyba wszystko. MuszÄ™ iÅ›Ä‡.}
+{128}{}{Tak. Jestem swego rodzaju Å‚Ä…cznikiem miÄ™dzy nim a mieszkaÅ„cami. Nie powiem, Å¼ebym byÅ‚ z tego dumny. SzczegÃ³lnie teraz, kiedy wiem co on knuje.}
+{129}{}{W porzÄ…dku.}
 {130}{}{Rozumiem.}
-{131}{}{Nic. Oni maj¹ spluwy, kontroluj¹ wodê i ¿ywnoœæ, a to znaczy, ¿e oni tu rz¹dz¹. Kropka. Bez pomocy Dariona nie prze¿yjemy tu zbyt d³ugo.}
+{131}{}{Nic. Oni majÄ… spluwy, kontrolujÄ… wodÄ™ i Å¼ywnoÅ›Ä‡, a to znaczy, Å¼e oni tu rzÄ…dzÄ…. Kropka. Bez pomocy Dariona nie przeÅ¼yjemy tu zbyt dÅ‚ugo.}
 {132}{}{Hmm. Moja chyba rozumuje.}
 {133}{}{Hmm. Rozumiem.}
-{134}{}{Za tamtymi drzwiami, ale jest zamkniête od wewn¹trz i zabezpieczone pu³apkami. Nie mam pojêcia jak je otworzyæ... Czekaj chwilê. Jakiœ czas temu znalaz³em tê kartê i nie mam pojêcia, do czego mo¿e s³u¿yæ. Rebeka twierdzi, ¿e wiesz o jakichœ drzwiach, ko³o których trzymali Chrissy. Mo¿e ta karta je otworzy. Proszê, oto ona.}
-{135}{}{Moja dziêkuje.}
-{136}{}{Dziêki. Spróbujê.}
-{137}{}{Na zachód st¹d le¿y miasto zwane RNK. Jego w³adze twierdz¹, ¿e Krypta 15 by³a domem ich przodków i domagaj¹ siê jej zwrotu. Przysy³aj¹ tu swoich ludzi, którzy próbuj¹ nas przekonaæ do odejœcia, ale na pró¿no. To jedyny dom jaki mamy.}
-{138}{}{Mo¿e wy dogadaæ z RNK?}
-{139}{}{Mo¿e jednak rozwa¿ycie ofertê RNK?}
-{140}{}{To zale¿y. Co masz na myœli?}
-{141}{}{Do³¹czcie do plemiê RNK. Uczcie od starszych. Niech RNK wejœæ do Krypta. Oba szczêœliwe.}
-{142}{}{Do³¹czcie do RNK, pozwólcie im przy³¹czyæ wasze ziemie i dajcie dostêp do Krypty. W zamian oni naucz¹ was rzeczy, które pozwol¹ wam przetrwaæ na tym pustkowiu i zaoferuj¹ ochronê.}
-{143}{}{NieŸle... Podoba mi siê. Jeœli uda ci siê namówiæ RNK na takie warunki, to mo¿emy siê dogadaæ. Ale... Widzisz, ktoœ musi jeszcze zaj¹æ siê Darionem i jego zbirami. Lepiej zrobiæ to teraz, zanim zorientuj¹ siê co siê œwiêci i przygotuj¹ siê nale¿ycie do odparcia ataku. Trzeba natychmiast wy³¹czyæ Dariona z gry. Zrobisz to? Zaskoczenie bêdzie twoim dodatkowym atutem.}
-{144}{}{Racja, moja utrupiæ Darion.}
+{134}{}{Za tamtymi drzwiami, ale jest zamkniÄ™te od wewnÄ…trz i zabezpieczone puÅ‚apkami. Nie mam pojÄ™cia jak je otworzyÄ‡... Czekaj chwilÄ™. JakiÅ› czas temu znalazÅ‚em tÄ™ kartÄ™ i nie mam pojÄ™cia, do czego moÅ¼e sÅ‚uÅ¼yÄ‡. Rebeka twierdzi, Å¼e wiesz o jakichÅ› drzwiach, koÅ‚o ktÃ³rych trzymali Chrissy. MoÅ¼e ta karta je otworzy. ProszÄ™, oto ona.}
+{135}{}{Moja dziÄ™kuje.}
+{136}{}{DziÄ™ki. SprÃ³bujÄ™.}
+{137}{}{Na zachÃ³d stÄ…d leÅ¼y miasto zwane RNK. Jego wÅ‚adze twierdzÄ…, Å¼e Krypta 15 byÅ‚a domem ich przodkÃ³w i domagajÄ… siÄ™ jej zwrotu. PrzysyÅ‚ajÄ… tu swoich ludzi, ktÃ³rzy prÃ³bujÄ… nas przekonaÄ‡ do odejÅ›cia, ale na prÃ³Å¼no. To jedyny dom jaki mamy.}
+{138}{}{MoÅ¼e wy dogadaÄ‡ z RNK?}
+{139}{}{MoÅ¼e jednak rozwaÅ¼ycie ofertÄ™ RNK?}
+{140}{}{To zaleÅ¼y. Co masz na myÅ›li?}
+{141}{}{DoÅ‚Ä…czcie do plemiÄ™ RNK. Uczcie od starszych. Niech RNK wejÅ›Ä‡ do Krypta. Oba szczÄ™Å›liwe.}
+{142}{}{DoÅ‚Ä…czcie do RNK, pozwÃ³lcie im przyÅ‚Ä…czyÄ‡ wasze ziemie i dajcie dostÄ™p do Krypty. W zamian oni nauczÄ… was rzeczy, ktÃ³re pozwolÄ… wam przetrwaÄ‡ na tym pustkowiu i zaoferujÄ… ochronÄ™.}
+{143}{}{NieÅºle... Podoba mi siÄ™. JeÅ›li uda ci siÄ™ namÃ³wiÄ‡ RNK na takie warunki, to moÅ¼emy siÄ™ dogadaÄ‡. Ale... Widzisz, ktoÅ› musi jeszcze zajÄ…Ä‡ siÄ™ Darionem i jego zbirami. Lepiej zrobiÄ‡ to teraz, zanim zorientujÄ… siÄ™ co siÄ™ Å›wiÄ™ci i przygotujÄ… siÄ™ naleÅ¼ycie do odparcia ataku. Trzeba natychmiast wyÅ‚Ä…czyÄ‡ Dariona z gry. Zrobisz to? Zaskoczenie bÄ™dzie twoim dodatkowym atutem.}
+{144}{}{Racja, moja utrupiÄ‡ Darion.}
 {145}{}{Moja nie wiem.}
-{146}{}{Tak, pewnie masz racjê.}
+{146}{}{Tak, pewnie masz racjÄ™.}
 {147}{}{Nie wiem.}
-{148}{}{Œwietnie. Powodzenia... i dziêkujê.}
+{148}{}{Åšwietnie. Powodzenia... i dziÄ™kujÄ™.}
 {149}{}{Zrobione.}
-{150}{}{Có¿, przemyœl to sobie, ale pamiêtaj - tak d³ugo, jak Darion tu jest nie ma mowy o jakichœ uk³adach z RNK. Tak bêdzie bezpieczniej dla nas wszystkich. Póki co, oficjalnie nie by³o tej rozmowy, a ty jesteœ nadal niemile widzianym goœciem. Rozumiesz?}
-{151}{}{W porz¹dku.}
-{152}{}{Czeœæ. Ci¹gle czekam na ostateczne rozwi¹zanie naszego problemu. Innymi s³owy - skop dupê Darionowi!}
+{150}{}{CÃ³Å¼, przemyÅ›l to sobie, ale pamiÄ™taj - tak dÅ‚ugo, jak Darion tu jest nie ma mowy o jakichÅ› ukÅ‚adach z RNK. Tak bÄ™dzie bezpieczniej dla nas wszystkich. PÃ³ki co, oficjalnie nie byÅ‚o tej rozmowy, a ty jesteÅ› nadal niemile widzianym goÅ›ciem. Rozumiesz?}
+{151}{}{W porzÄ…dku.}
+{152}{}{CzeÅ›Ä‡. CiÄ…gle czekam na ostateczne rozwiÄ…zanie naszego problemu. Innymi sÅ‚owy - skop dupÄ™ Darionowi!}
 {153}{}{Zrobione.}
-{154}{}{Uda³o ci siê! Wreszcie zrzuciliœmy jarzmo Dariona. Dziêkujê! Mo¿emy natychmiast przyst¹piæ do pertraktacji z RNK. Niech tylko przyœl¹ tu swoich przedstawicieli.}
+{154}{}{UdaÅ‚o ci siÄ™! Wreszcie zrzuciliÅ›my jarzmo Dariona. DziÄ™kujÄ™! MoÅ¼emy natychmiast przystÄ…piÄ‡ do pertraktacji z RNK. Niech tylko przyÅ›lÄ… tu swoich przedstawicieli.}
 {155}{}{Zrobione.}
-{156}{}{Dziêki tobie mo¿emy rozpocz¹æ nowe ¿ycie. Jesteœmy twoimi d³u¿nikami.}
-{157}{}{OdejdŸ. Nie mam ci nic do powiedzenia.}
-{158}{}{Czekaj, zanim pójdziesz... Jakiœ czas temu znalaz³em tê kartê i nie mam pojêcia, do czego mo¿e s³u¿yæ. Rebeka twierdzi, ¿e wiesz o jakichœ drzwiach, ko³o których trzymali Chrissy. Mo¿e ta karta je otworzy. Proszê, oto ona.}
-{159}{}{Dziêkujê.}
-{160}{}{W czym mogê ci pomóc?}
-{161}{}{Pozosta³y nasze problemy z RNK, ale zaproponowana przez ciebie umowa powinna je rozwi¹zaæ.}
-{162}{}{Uda³o ci siê! Wreszcie zrzuciliœmy jarzmo Dariona. Dziêkujê!}
-{163}{}{Po œmierci Dariona zostaliœmy bez wody i ¿ywnoœci. Ju¿ po nas! Wielkie dziêki.}
+{156}{}{DziÄ™ki tobie moÅ¼emy rozpoczÄ…Ä‡ nowe Å¼ycie. JesteÅ›my twoimi dÅ‚uÅ¼nikami.}
+{157}{}{OdejdÅº. Nie mam ci nic do powiedzenia.}
+{158}{}{Czekaj, zanim pÃ³jdziesz... JakiÅ› czas temu znalazÅ‚em tÄ™ kartÄ™ i nie mam pojÄ™cia, do czego moÅ¼e sÅ‚uÅ¼yÄ‡. Rebeka twierdzi, Å¼e wiesz o jakichÅ› drzwiach, koÅ‚o ktÃ³rych trzymali Chrissy. MoÅ¼e ta karta je otworzy. ProszÄ™, oto ona.}
+{159}{}{DziÄ™kujÄ™.}
+{160}{}{W czym mogÄ™ ci pomÃ³c?}
+{161}{}{PozostaÅ‚y nasze problemy z RNK, ale zaproponowana przez ciebie umowa powinna je rozwiÄ…zaÄ‡.}
+{162}{}{UdaÅ‚o ci siÄ™! Wreszcie zrzuciliÅ›my jarzmo Dariona. DziÄ™kujÄ™!}
+{163}{}{Po Å›mierci Dariona zostaliÅ›my bez wody i Å¼ywnoÅ›ci. JuÅ¼ po nas! Wielkie dziÄ™ki.}

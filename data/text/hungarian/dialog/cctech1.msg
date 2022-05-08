@@ -1,50 +1,50 @@
 {100}{}{Technikus.}
-{101}{}{Számítógép-technikus. }
-{102}{}{Ez a laborköpenyes technikus egy rakás tollat hord a köpenye zsebében.}
+{101}{}{SzÃ¡mÃ­tÃ³gÃ©p-technikus. }
+{102}{}{Ez a laborkÃ¶penyes technikus egy rakÃ¡s tollat hord a kÃ¶penye zsebÃ©ben.}
 {103}{}{Igen uram?}
-{104}{}{Én lenni új itten. Kérdezni kell néhány dolog.}
+{104}{}{Ã‰n lenni Ãºj itten. KÃ©rdezni kell nÃ©hÃ¡ny dolog.}
 {105}{}{Csak beugrani. Most pedig menni.}
-{106}{}{Helló, új vagyok és szeretnék kiigazodni a bázison. Segítene?}
-{107}{}{Bocs, hogy zavartam. Már megyek is.}
-{108}{}{Magam is újonc vagyok itt, uram. Nem tudom, hogy meg tudom-e válaszolni a kérdéseit, de megpróbálom.}
-{109}{}{Miben segíthetek?}
+{106}{}{HellÃ³, Ãºj vagyok Ã©s szeretnÃ©k kiigazodni a bÃ¡zison. SegÃ­tene?}
+{107}{}{Bocs, hogy zavartam. MÃ¡r megyek is.}
+{108}{}{Magam is Ãºjonc vagyok itt, uram. Nem tudom, hogy meg tudom-e vÃ¡laszolni a kÃ©rdÃ©seit, de megprÃ³bÃ¡lom.}
+{109}{}{Miben segÃ­thetek?}
 {110}{}{Mi lenni ez hely?}
-{111}{}{Mi lenni munkád?}
-{112}{}{Hol lenni f?bázis?}
-{113}{}{Keresni gépmadár tervek. Hol lenni?}
+{111}{}{Mi lenni munkÃ¡d?}
+{112}{}{Hol lenni f?bÃ¡zis?}
+{113}{}{Keresni gÃ©pmadÃ¡r tervek. Hol lenni?}
 {117}{}{Menni mostan.}
-{118}{}{Mi ez a hely tulajdonképpen?}
+{118}{}{Mi ez a hely tulajdonkÃ©ppen?}
 {119}{}{Mit dolgozik itt?}
-{120}{}{Hol található az Enklávé f? bázisa?}
-{121}{}{Vetnem kéne néhány pillantást a gépmadár tervekre. Hol tartják ?ket?}
+{120}{}{Hol talÃ¡lhatÃ³ az EnklÃ¡vÃ© f? bÃ¡zisa?}
+{121}{}{Vetnem kÃ©ne nÃ©hÃ¡ny pillantÃ¡st a gÃ©pmadÃ¡r tervekre. Hol tartjÃ¡k ?ket?}
 {125}{}{Semmiben. Mennem kell.}
-{126}{}{Ez az operatív parancsnokság. Itt kezeljük a kommunikációs berendezéseket.}
-{127}{}{Értem. Kérdezni még.}
-{128}{}{Értem. Van még néhány kérdésem.}
-{129}{}{Másodosztályú technikus vagyok, a be- és kimen? információkat továbbítom. A rendfenntartás szintén az én dolgom.}
-{130}{}{Öhm... ja.}
-{131}{}{Jól van, csak így tovább!}
+{126}{}{Ez az operatÃ­v parancsnoksÃ¡g. Itt kezeljÃ¼k a kommunikÃ¡ciÃ³s berendezÃ©seket.}
+{127}{}{Ã‰rtem. KÃ©rdezni mÃ©g.}
+{128}{}{Ã‰rtem. Van mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{129}{}{MÃ¡sodosztÃ¡lyÃº technikus vagyok, a be- Ã©s kimen? informÃ¡ciÃ³kat tovÃ¡bbÃ­tom. A rendfenntartÃ¡s szintÃ©n az Ã©n dolgom.}
+{130}{}{Ã–hm... ja.}
+{131}{}{JÃ³l van, csak Ã­gy tovÃ¡bb!}
 {132}{}{Viccel, ugye?}
-{133}{}{Nem vicc. Hol lenni f?bázis?}
-{134}{}{Úgy nézek ki, mint aki viccel?}
-{135}{}{A f?bázis a Csendes-óceánon található. Nem bánja, ha megtudakolom, miért kérdi?}
-{136}{}{Nem mondani. Katonai okok végütt. Hogy jutni oda?}
-{137}{}{De "bánom", ez katonai ügy. Hány lehetséges módon lehet eljutni oda?}
-{138}{}{Hát... gépmadáron, ez teljesen egyértelm?, nem? Persze, valahol a San Francisco-i öbölben van egy hajó is, ami esetleg használható lenne. Ezen kívül csak az úszás marad, uram.}
-{139}{}{Köszi.}
-{140}{}{Köszi.}
-{141}{}{A szervizben tárolják ?ket, a légiirányítók mellett.}
-{142}{}{Oké.}
-{143}{}{Értem.}
-{153}{}{Maga valami nudista, hogy egyenruha nélkül mászkál?}
+{133}{}{Nem vicc. Hol lenni f?bÃ¡zis?}
+{134}{}{Ãšgy nÃ©zek ki, mint aki viccel?}
+{135}{}{A f?bÃ¡zis a Csendes-Ã³ceÃ¡non talÃ¡lhatÃ³. Nem bÃ¡nja, ha megtudakolom, miÃ©rt kÃ©rdi?}
+{136}{}{Nem mondani. Katonai okok vÃ©gÃ¼tt. Hogy jutni oda?}
+{137}{}{De "bÃ¡nom", ez katonai Ã¼gy. HÃ¡ny lehetsÃ©ges mÃ³don lehet eljutni oda?}
+{138}{}{HÃ¡t... gÃ©pmadÃ¡ron, ez teljesen egyÃ©rtelm?, nem? Persze, valahol a San Francisco-i Ã¶bÃ¶lben van egy hajÃ³ is, ami esetleg hasznÃ¡lhatÃ³ lenne. Ezen kÃ­vÃ¼l csak az ÃºszÃ¡s marad, uram.}
+{139}{}{KÃ¶szi.}
+{140}{}{KÃ¶szi.}
+{141}{}{A szervizben tÃ¡roljÃ¡k ?ket, a lÃ©giirÃ¡nyÃ­tÃ³k mellett.}
+{142}{}{OkÃ©.}
+{143}{}{Ã‰rtem.}
+{153}{}{Maga valami nudista, hogy egyenruha nÃ©lkÃ¼l mÃ¡szkÃ¡l?}
 {154}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
-{155}{}{Miért nincs magán egyenruha?}
-{156}{}{Szent szar! Megtámadtak bennünket! Riadó!}
-{157}{}{Behatolók! Hívjátok az ?rséget!}
-{158}{}{?rség! Behatolók az operatív parancsnokságon!}
-{159}{}{Mi van? Megtámadtak, vagy mi?}
-{160}{}{Miért van riadó? Mi történik?}
+{155}{}{MiÃ©rt nincs magÃ¡n egyenruha?}
+{156}{}{Szent szar! MegtÃ¡madtak bennÃ¼nket! RiadÃ³!}
+{157}{}{BehatolÃ³k! HÃ­vjÃ¡tok az ?rsÃ©get!}
+{158}{}{?rsÃ©g! BehatolÃ³k az operatÃ­v parancsnoksÃ¡gon!}
+{159}{}{Mi van? MegtÃ¡madtak, vagy mi?}
+{160}{}{MiÃ©rt van riadÃ³? Mi tÃ¶rtÃ©nik?}
 {161}{}{Mi a szar folyik itt?}
-{162}{}{Én csak egy technikus vagyok, ne bántson!}
-{163}{}{Nem harcolni jöttem, csak továbbképzésre!}
-{164}{}{Ez egy laborköpeny, nem páncél! Már itt sem vagyok!}
+{162}{}{Ã‰n csak egy technikus vagyok, ne bÃ¡ntson!}
+{163}{}{Nem harcolni jÃ¶ttem, csak tovÃ¡bbkÃ©pzÃ©sre!}
+{164}{}{Ez egy laborkÃ¶peny, nem pÃ¡ncÃ©l! MÃ¡r itt sem vagyok!}

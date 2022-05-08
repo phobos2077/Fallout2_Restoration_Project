@@ -1,2 +1,2 @@
-{100}{}{Tienes una extraña sensación sobre este lugar. El encantador aroma de excremento de vaca y carne podrida
- emana a pocos pasos de aquí.}
+{100}{}{Tienes una extraÃ±a sensaciÃ³n sobre este lugar. El encantador aroma de excremento de vaca y carne podrida
+ emana a pocos pasos de aquÃ­.}

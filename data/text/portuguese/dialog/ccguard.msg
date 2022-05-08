@@ -1,20 +1,20 @@
-{100}{}{Você vê brilhante, brilhante homem de lata.}
+{100}{}{VocÃª vÃª brilhante, brilhante homem de lata.}
 {101}{}{Um soldado de armadura.}
-{102}{}{Um soldado em algum novo tipo de armadura de energia, você teria que adivinhar.}
-{103}{}{Você acredita nisso? Eu tenho o dever KP novamente!}
-{104}{}{A palavra é o velho que vai dar licença para o SF!}
+{102}{}{Um soldado em algum novo tipo de armadura de energia, vocÃª teria que adivinhar.}
+{103}{}{VocÃª acredita nisso? Eu tenho o dever KP novamente!}
+{104}{}{A palavra Ã© o velho que vai dar licenÃ§a para o SF!}
 {105}{}{Para o inferno com a espera. Eu digo pra eliminar todos esses primitivos e acabar com isso.}
-{106}{}{Tem uma luz? Oh, espere, não importa. Tenho uma.}
-{107}{}{Jogo de Craps por trás do armario esta noite. Não deixe o CO saber.}
-{108}{}{Que é isso?" <zzzt> Temos um intruso aqui!}
-{109}{}{Você aí! Pare!}
+{106}{}{Tem uma luz? Oh, espere, nÃ£o importa. Tenho uma.}
+{107}{}{Jogo de Craps por trÃ¡s do armario esta noite. NÃ£o deixe o CO saber.}
+{108}{}{Que Ã© isso?" <zzzt> Temos um intruso aqui!}
+{109}{}{VocÃª aÃ­! Pare!}
 {110}{}{Intruso na base!}
-{111}{}{Espere-oh, não importa.}
-{112}{}{Olhe, é melhor obter o seu id. Esses falsos alarmes levaram todo mundo a um salto.}
-{113}{}{Você deveria estar aqui, certo? Porra, esses falsos alarmes estão em meus nervos!}
-{114}{}{Intruso está aqui! Pegue-o!}
-{115}{}{Há o intruso!}
-{116}{}{Por aqui! Não os deixe fugir!}
-{117}{}{Temos um ataque na frente. Enviar cópia de segurança!}
-{118}{}{Não deixe o intruso chegar ao portão!}
+{111}{}{Espere-oh, nÃ£o importa.}
+{112}{}{Olhe, Ã© melhor obter o seu id. Esses falsos alarmes levaram todo mundo a um salto.}
+{113}{}{VocÃª deveria estar aqui, certo? Porra, esses falsos alarmes estÃ£o em meus nervos!}
+{114}{}{Intruso estÃ¡ aqui! Pegue-o!}
+{115}{}{HÃ¡ o intruso!}
+{116}{}{Por aqui! NÃ£o os deixe fugir!}
+{117}{}{Temos um ataque na frente. Enviar cÃ³pia de seguranÃ§a!}
+{118}{}{NÃ£o deixe o intruso chegar ao portÃ£o!}
 {119}{}{Morra, primitivo!}

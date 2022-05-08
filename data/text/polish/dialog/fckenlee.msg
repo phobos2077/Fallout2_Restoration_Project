@@ -1,131 +1,131 @@
-{100}{}{Widzisz niskiego mê¿czyznê Shi, z którego twarzy wyczytujesz ogromn¹ wiedzê tkwi¹c¹ w jego umyœle.}
-{101}{}{Widzisz Kena Lee, doradcê Cesarza.}
-{102}{}{Widzisz niskiego mê¿czyznê Shi uœmiechaj¹cego siê krzywo spod okularów.}
-{103}{}{Czego sobie ¿yczysz?}
+{100}{}{Widzisz niskiego mÄ™Å¼czyznÄ™ Shi, z ktÃ³rego twarzy wyczytujesz ogromnÄ… wiedzÄ™ tkwiÄ…cÄ… w jego umyÅ›le.}
+{101}{}{Widzisz Kena Lee, doradcÄ™ Cesarza.}
+{102}{}{Widzisz niskiego mÄ™Å¼czyznÄ™ Shi uÅ›miechajÄ…cego siÄ™ krzywo spod okularÃ³w.}
+{103}{}{Czego sobie Å¼yczysz?}
 {104}{}{Czego chcesz?}
-{105}{}{Co mogê dla ciebie zrobiæ?}
+{105}{}{Co mogÄ™ dla ciebie zrobiÄ‡?}
 {106}{}{Twoja?}
-{107}{}{Kim jesteœ?}
+{107}{}{Kim jesteÅ›?}
 {108}{}{Co to za miejsce?}
-{109}{}{Szukam zaginionych mieszkañców wioski.}
+{109}{}{Szukam zaginionych mieszkaÅ„cÃ³w wioski.}
 {110}{}{Potrzebne mi paliwo.}
-{111}{}{Chcia³bym rozmawiaæ z Cesarzem.}
+{111}{}{ChciaÅ‚bym rozmawiaÄ‡ z Cesarzem.}
 {112}{}{Centrolodzy wyznaczyli mnie do zabicia Cesarza.}
-{113}{}{Nic. Dziêkujê. Do widzenia.}
-{114}{}{Jestem Ken Lee, doradca Cesarza. A ty wydajesz siê byæ prostym cz³owiekiem, wiêc zapamiêtaj: je¿eli poszukujesz Enklawy, musisz pop³yn¹æ tam tankowcem Posejdon. Potrzebujesz do niego paliwa. Masz moje b³ogos³awieñstwo.}
-{115}{}{Dziêkuju!}
-{116}{}{Jestem Ken Lee. Jestem doradc¹ Cesarza. Cesarz zaleci³ mi nie rozmawiaæ z tob¹, a wiêc nie zrobiê tego. ¯egnaj, ciemnoto bo¿a.}
+{113}{}{Nic. DziÄ™kujÄ™. Do widzenia.}
+{114}{}{Jestem Ken Lee, doradca Cesarza. A ty wydajesz siÄ™ byÄ‡ prostym czÅ‚owiekiem, wiÄ™c zapamiÄ™taj: jeÅ¼eli poszukujesz Enklawy, musisz popÅ‚ynÄ…Ä‡ tam tankowcem Posejdon. Potrzebujesz do niego paliwa. Masz moje bÅ‚ogosÅ‚awieÅ„stwo.}
+{115}{}{DziÄ™kuju!}
+{116}{}{Jestem Ken Lee. Jestem doradcÄ… Cesarza. Cesarz zaleciÅ‚ mi nie rozmawiaÄ‡ z tobÄ…, a wiÄ™c nie zrobiÄ™ tego. Å»egnaj, ciemnoto boÅ¼a.}
 {117}{}{Grrr!}
-{118}{}{Ach, wêdrowcze, nie mogê ci pomóc. Byæ mo¿e znajdziesz rozwi¹zanie swojej misji gdzie indziej. ¯egnaj.}
-{119}{}{¯egnaj!}
-{120}{}{Jestem Ken Lee. Jestem doradc¹ Cesarza Shi. Niosê m¹droœæ Cesarza. A kim ty jesteœ?}
-{121}{}{Chcê zobaczyæ siê z Cesarzem.}
+{118}{}{Ach, wÄ™drowcze, nie mogÄ™ ci pomÃ³c. ByÄ‡ moÅ¼e znajdziesz rozwiÄ…zanie swojej misji gdzie indziej. Å»egnaj.}
+{119}{}{Å»egnaj!}
+{120}{}{Jestem Ken Lee. Jestem doradcÄ… Cesarza Shi. NiosÄ™ mÄ…droÅ›Ä‡ Cesarza. A kim ty jesteÅ›?}
+{121}{}{ChcÄ™ zobaczyÄ‡ siÄ™ z Cesarzem.}
 {122}{}{Jestem }
-{123}{}{Wygl¹dasz mi raczej na przeroœniêtego s³ugusa.}
-{124}{}{Nikim wa¿nym. Do widzenia.}
-{125}{}{To Stalowy Pa³ac Cesarza. Serce miasta Shi.}
+{123}{}{WyglÄ…dasz mi raczej na przeroÅ›niÄ™tego sÅ‚ugusa.}
+{124}{}{Nikim waÅ¼nym. Do widzenia.}
+{125}{}{To Stalowy PaÅ‚ac Cesarza. Serce miasta Shi.}
 {126}{}{A gdzie jest Cesarz?}
-{127}{}{Jakimi badaniami siê tutaj zajmujecie?}
-{128}{}{Jaka jest przesz³oœæ tego miejsca?}
+{127}{}{Jakimi badaniami siÄ™ tutaj zajmujecie?}
+{128}{}{Jaka jest przeszÅ‚oÅ›Ä‡ tego miejsca?}
 {129}{}{Rozumiem. Do zobaczenia.}
-{130}{}{Je¿eli chcesz widzieæ siê z Cesarzem, musisz mi wpierw podaæ swoje imiê.}
-{131}{}{Och. W porz¹dku. Jestem }
-{132}{}{Oczywiœcie. Nazywam siê }
+{130}{}{JeÅ¼eli chcesz widzieÄ‡ siÄ™ z Cesarzem, musisz mi wpierw podaÄ‡ swoje imiÄ™.}
+{131}{}{Och. W porzÄ…dku. Jestem }
+{132}{}{OczywiÅ›cie. Nazywam siÄ™ }
 {133}{}{Tak.}
 {134}{}{Zapomnij o tym.}
-{135}{}{Nie ka¿dy mo¿e mieæ szansê zobaczenia Cesarza. Najpierw trzeba dowieœæ w³asnej wartoœci. Czy pragniesz dowieœæ swojej?}
+{135}{}{Nie kaÅ¼dy moÅ¼e mieÄ‡ szansÄ™ zobaczenia Cesarza. Najpierw trzeba dowieÅ›Ä‡ wÅ‚asnej wartoÅ›ci. Czy pragniesz dowieÅ›Ä‡ swojej?}
 {136}{}{Tak.}
-{137}{}{Nie. W ci¹gu kilku ostatnich miesiêcy zebra³o mi siê testów na ca³e ¿ycie.}
-{138}{}{Nie s¹dzê, aby Cesarz chcia³ siê z tob¹ zobaczyæ. Przykazano mi, abym zabroni³ wejœcia tym, którzy obra¿¹ mnie lub zion¹ z³em. Ty spe³niasz obydwa te warunki. ¯yczê dobrego dnia.}
+{137}{}{Nie. W ciÄ…gu kilku ostatnich miesiÄ™cy zebraÅ‚o mi siÄ™ testÃ³w na caÅ‚e Å¼ycie.}
+{138}{}{Nie sÄ…dzÄ™, aby Cesarz chciaÅ‚ siÄ™ z tobÄ… zobaczyÄ‡. Przykazano mi, abym zabroniÅ‚ wejÅ›cia tym, ktÃ³rzy obraÅ¼Ä… mnie lub zionÄ… zÅ‚em. Ty speÅ‚niasz obydwa te warunki. Å»yczÄ™ dobrego dnia.}
 {139}{}{[dalej]}
-{140}{}{Obra¿anie mnie nie da ci nic poza wydaleniem ze Stalowego Pa³acu. Wyka¿ siê uprzejmoœci¹ i kontroluj swój jêzyk.}
-{141}{}{Zmuœ mnie.}
+{140}{}{ObraÅ¼anie mnie nie da ci nic poza wydaleniem ze Stalowego PaÅ‚acu. WykaÅ¼ siÄ™ uprzejmoÅ›ciÄ… i kontroluj swÃ³j jÄ™zyk.}
+{141}{}{ZmuÅ› mnie.}
 {142}{}{Dobra.}
-{143}{}{Cesarz pozostaje ukryty przed drapie¿nymi oczami. Poniewa¿ moim zadaniem jest s³u¿yæ jako jego tarcza, nie mogê i nie powiem, gdzie siê znajduje.}
-{144}{}{Mam wiêcej pytañ.}
+{143}{}{Cesarz pozostaje ukryty przed drapieÅ¼nymi oczami. PoniewaÅ¼ moim zadaniem jest sÅ‚uÅ¼yÄ‡ jako jego tarcza, nie mogÄ™ i nie powiem, gdzie siÄ™ znajduje.}
+{144}{}{Mam wiÄ™cej pytaÅ„.}
 {145}{}{Bywaj.}
-{146}{}{Prowadzimy badania, które zmieni¹ œwiat. Wiêcej odpowiedzi na twoje pytania udzieli ci doktor Wong Yi Tze. }
-{147}{}{Zrobiê tak. Mam jeszcze kilka pytañ.}
-{148}{}{Tak zrobiê. Do widzenia.}
-{149}{}{Jesteœmy rozbitkami z wraku okrêtu podwodnego. Gdy wydostaliœmy siê na l¹d, wykorzystaliœmy pociêty metal z ³odzi na zbudowanie tego Pa³acu. Niektórzy w to nie wierz¹.}
-{150}{}{Hmm. Brzmi to tak, jakbyœ siê z kogoœ naœmiewa³.}
-{151}{}{Rozumiem. Dziêkujê i do zobaczenia.}
-{152}{}{Ach, tak! Widzia³em kilka twoich filmów. Ale czy na pewno to twoje prawdziwe imiê?}
-{153}{}{Oczywiœcie.}
-{154}{}{Nie, tak naprawdê nazywam siê }
+{146}{}{Prowadzimy badania, ktÃ³re zmieniÄ… Å›wiat. WiÄ™cej odpowiedzi na twoje pytania udzieli ci doktor Wong Yi Tze. }
+{147}{}{ZrobiÄ™ tak. Mam jeszcze kilka pytaÅ„.}
+{148}{}{Tak zrobiÄ™. Do widzenia.}
+{149}{}{JesteÅ›my rozbitkami z wraku okrÄ™tu podwodnego. Gdy wydostaliÅ›my siÄ™ na lÄ…d, wykorzystaliÅ›my pociÄ™ty metal z Å‚odzi na zbudowanie tego PaÅ‚acu. NiektÃ³rzy w to nie wierzÄ….}
+{150}{}{Hmm. Brzmi to tak, jakbyÅ› siÄ™ z kogoÅ› naÅ›miewaÅ‚.}
+{151}{}{Rozumiem. DziÄ™kujÄ™ i do zobaczenia.}
+{152}{}{Ach, tak! WidziaÅ‚em kilka twoich filmÃ³w. Ale czy na pewno to twoje prawdziwe imiÄ™?}
+{153}{}{OczywiÅ›cie.}
+{154}{}{Nie, tak naprawdÄ™ nazywam siÄ™ }
 {155}{}{Tyle ci wystarczy, starcze.}
-{156}{}{Bêdzie to raczej niemo¿liwe. Do widzenia.}
+{156}{}{BÄ™dzie to raczej niemoÅ¼liwe. Do widzenia.}
 {157}{}{[dalej]}
-{158}{}{Musisz mi koniecznie powiedzieæ coœ wiêcej. Wiem, jak dzia³a "biznes". Podró¿owa³em ju¿ do Nowego Reno.}
-{159}{}{Dobrze, tak naprawdê nazywam siê }
-{160}{}{. To moje prawdziwe imiê! A teraz pozwól mi porozmawiaæ z Cesarzem!}
-{161}{}{Doskonale. Oto czego od ciebie oczekujê: na pó³noc st¹d znajduje siê ma³a baza wojskowa o nazwie Navarro. S¹ tam liczne latacze. Potrzebujemy ich planów konstrukcyjnych, aby móc je budowaæ samemu. Zdob¹dŸ je, a bêdziesz na najlepszej drodze do zobaczenia Cesarza.}
+{158}{}{Musisz mi koniecznie powiedzieÄ‡ coÅ› wiÄ™cej. Wiem, jak dziaÅ‚a "biznes". PodrÃ³Å¼owaÅ‚em juÅ¼ do Nowego Reno.}
+{159}{}{Dobrze, tak naprawdÄ™ nazywam siÄ™ }
+{160}{}{. To moje prawdziwe imiÄ™! A teraz pozwÃ³l mi porozmawiaÄ‡ z Cesarzem!}
+{161}{}{Doskonale. Oto czego od ciebie oczekujÄ™: na pÃ³Å‚noc stÄ…d znajduje siÄ™ maÅ‚a baza wojskowa o nazwie Navarro. SÄ… tam liczne latacze. Potrzebujemy ich planÃ³w konstrukcyjnych, aby mÃ³c je budowaÄ‡ samemu. ZdobÄ…dÅº je, a bÄ™dziesz na najlepszej drodze do zobaczenia Cesarza.}
 {162}{}{Jasne.}
 {163}{}{Zapomnij o tym.}
-{164}{}{Czy rozwa¿ysz wziêcie udzia³u w naszym teœcie?}
-{165}{}{¯aden.}
-{166}{}{Och, no dobra. Zrobiê to.}
-{167}{}{Zaginieni mieszkañcy wioski? Nie s³ysza³em o takich. Byæ mo¿e Cesarz wiedzia³by coœ o nich.}
-{168}{}{Mam wiêcej pytañ.}
-{169}{}{Dziêki. Na razie.}
-{170}{}{Musisz wykonaæ drugie zadanie: Centrolodzy s¹ naszymi wrogami. Ich lider, UKC-9, porywa nasze dzieci i poddaje je praniu mózgu. Zabij go dla dobra Shi, a ja powiem ci, jak porozmawiaæ z Cesarzem.}
-{171}{}{On ju¿ jest martwy.}
-{172}{}{Nie, nie s¹dzê.}
-{173}{}{Nie? Smuci mnie to, ale rozumiem. ¯yczê szczêœcia w podró¿y. Je¿eli zmienisz zdanie, wiesz gdzie mnie szukaæ.}
-{174}{}{Oczywiœcie. Mam tak¿e inne pytania.}
-{175}{}{Dobra. Czeœæ.}
-{176}{}{Nie mogê siê doczekaæ wyniku twojej próby. ¯yczê mi³ego dnia.}
+{164}{}{Czy rozwaÅ¼ysz wziÄ™cie udziaÅ‚u w naszym teÅ›cie?}
+{165}{}{Å»aden.}
+{166}{}{Och, no dobra. ZrobiÄ™ to.}
+{167}{}{Zaginieni mieszkaÅ„cy wioski? Nie sÅ‚yszaÅ‚em o takich. ByÄ‡ moÅ¼e Cesarz wiedziaÅ‚by coÅ› o nich.}
+{168}{}{Mam wiÄ™cej pytaÅ„.}
+{169}{}{DziÄ™ki. Na razie.}
+{170}{}{Musisz wykonaÄ‡ drugie zadanie: Centrolodzy sÄ… naszymi wrogami. Ich lider, UKC-9, porywa nasze dzieci i poddaje je praniu mÃ³zgu. Zabij go dla dobra Shi, a ja powiem ci, jak porozmawiaÄ‡ z Cesarzem.}
+{171}{}{On juÅ¼ jest martwy.}
+{172}{}{Nie, nie sÄ…dzÄ™.}
+{173}{}{Nie? Smuci mnie to, ale rozumiem. Å»yczÄ™ szczÄ™Å›cia w podrÃ³Å¼y. JeÅ¼eli zmienisz zdanie, wiesz gdzie mnie szukaÄ‡.}
+{174}{}{OczywiÅ›cie. Mam takÅ¼e inne pytania.}
+{175}{}{Dobra. CzeÅ›Ä‡.}
+{176}{}{Nie mogÄ™ siÄ™ doczekaÄ‡ wyniku twojej prÃ³by. Å»yczÄ™ miÅ‚ego dnia.}
 {177}{}{Do widzenia.}
-{178}{}{Naœmiewa³ z kogoœ? Ka¿dy g³upiec, który trochê by pogrzeba³, wiedzia³by, ¿e fundamentem miasta Shi jest wrak tej starej ³odzi podwodnej. K³ótnia z tymi, którzy twierdz¹, ¿e nie by³o ¿adnej ³odzi, wydaje siê bezcelowa.}
-{179}{}{To bardzo spokojne s³owa.}
-{180}{}{Z pewnoœci¹ tak. A ja z takimi ludŸmi mam codziennie do czynienia. Niestety!}
-{181}{}{Có¿, mam jeszcze kilka pytañ.}
+{178}{}{NaÅ›miewaÅ‚ z kogoÅ›? KaÅ¼dy gÅ‚upiec, ktÃ³ry trochÄ™ by pogrzebaÅ‚, wiedziaÅ‚by, Å¼e fundamentem miasta Shi jest wrak tej starej Å‚odzi podwodnej. KÅ‚Ã³tnia z tymi, ktÃ³rzy twierdzÄ…, Å¼e nie byÅ‚o Å¼adnej Å‚odzi, wydaje siÄ™ bezcelowa.}
+{179}{}{To bardzo spokojne sÅ‚owa.}
+{180}{}{Z pewnoÅ›ciÄ… tak. A ja z takimi ludÅºmi mam codziennie do czynienia. Niestety!}
+{181}{}{CÃ³Å¼, mam jeszcze kilka pytaÅ„.}
 {182}{}{Och, biedaku. Do widzenia.}
-{183}{}{Z pewnoœci¹ nasze paliwo znalaz³o godnego w³aœciciela. S¹dzê, ¿e mogê powierzyæ ci nasz sekret. W pomieszczeniu za mn¹ zosta³o wy³¹czone pole si³owe broni¹ce dostêpu do du¿ego komputera. Wpisz has³o "CSPDMSHR-Shih-huang-ti-X9372", a po³¹czysz siê z Cesarskim Komputerem. Cesarz bêdzie w stanie przetransportowaæ nasze paliwo tam, gdzie potrzebujesz.}
-{184}{}{Dziêkujê.}
-{185}{}{Stra¿! Wróg jest miedzy nami! Stra¿!}
-{186}{}{Naprawdê? Mo¿e wiêc chcesz zmieniæ strony? Przyrzekam nasz¹ pomoc, je¿eli zgodzisz siê zabiæ UKC-9.}
-{187}{}{On ju¿ jest martwy.}
+{183}{}{Z pewnoÅ›ciÄ… nasze paliwo znalazÅ‚o godnego wÅ‚aÅ›ciciela. SÄ…dzÄ™, Å¼e mogÄ™ powierzyÄ‡ ci nasz sekret. W pomieszczeniu za mnÄ… zostaÅ‚o wyÅ‚Ä…czone pole siÅ‚owe broniÄ…ce dostÄ™pu do duÅ¼ego komputera. Wpisz hasÅ‚o "CSPDMSHR-Shih-huang-ti-X9372", a poÅ‚Ä…czysz siÄ™ z Cesarskim Komputerem. Cesarz bÄ™dzie w stanie przetransportowaÄ‡ nasze paliwo tam, gdzie potrzebujesz.}
+{184}{}{DziÄ™kujÄ™.}
+{185}{}{StraÅ¼! WrÃ³g jest miedzy nami! StraÅ¼!}
+{186}{}{NaprawdÄ™? MoÅ¼e wiÄ™c chcesz zmieniÄ‡ strony? Przyrzekam naszÄ… pomoc, jeÅ¼eli zgodzisz siÄ™ zabiÄ‡ UKC-9.}
+{187}{}{On juÅ¼ jest martwy.}
 {188}{}{Nie.}
-{189}{}{Doskonale. Mam nadziejê wkrótce us³yszeæ o twoim sukcesie.}
-{190}{}{Us³yszysz. Mam wiêcej pytañ.}
-{191}{}{Us³yszysz. Na razie.}
-{192}{}{W takim wypadku mo¿esz byæ tylko naszym wrogiem. Mi³ego dnia.}
+{189}{}{Doskonale. Mam nadziejÄ™ wkrÃ³tce usÅ‚yszeÄ‡ o twoim sukcesie.}
+{190}{}{UsÅ‚yszysz. Mam wiÄ™cej pytaÅ„.}
+{191}{}{UsÅ‚yszysz. Na razie.}
+{192}{}{W takim wypadku moÅ¼esz byÄ‡ tylko naszym wrogiem. MiÅ‚ego dnia.}
 {193}{}{Do widzenia.}
-{194}{}{Wraz ze œmierci¹ Wielkiego i Okropnego UKC-9, Centrolodzy nie stanowi¹ ju¿ realnego zagro¿enia ani dla nas, ani dla naszych badañ. Gratulujê. Masz nasz¹ wdziêcznoœæ. Czy chcesz rozmawiaæ z Cesarzem?}
+{194}{}{Wraz ze Å›mierciÄ… Wielkiego i Okropnego UKC-9, Centrolodzy nie stanowiÄ… juÅ¼ realnego zagroÅ¼enia ani dla nas, ani dla naszych badaÅ„. GratulujÄ™. Masz naszÄ… wdziÄ™cznoÅ›Ä‡. Czy chcesz rozmawiaÄ‡ z Cesarzem?}
 {195}{}{Tak.}
 {196}{}{Nie teraz. Mimo to mam inne pytania.}
-{197}{}{Twoje czyny dowiod³y, ¿e Shi mog¹ na ciebie zawsze liczyæ. S¹dzê, ¿e mogê powierzyæ ci nasz sekret. W pomieszczeniu za mn¹ zosta³o wy³¹czone pole si³owe broni¹ce dostêpu do du¿ego komputera. Wpisz has³o "CSPDMSHR-Shih-huang-ti-X9372", a po³¹czysz siê z Cesarskim Komputerem. Mam nadziejê, ¿e oka¿e ci siê to pomocne.}
+{197}{}{Twoje czyny dowiodÅ‚y, Å¼e Shi mogÄ… na ciebie zawsze liczyÄ‡. SÄ…dzÄ™, Å¼e mogÄ™ powierzyÄ‡ ci nasz sekret. W pomieszczeniu za mnÄ… zostaÅ‚o wyÅ‚Ä…czone pole siÅ‚owe broniÄ…ce dostÄ™pu do duÅ¼ego komputera. Wpisz hasÅ‚o "CSPDMSHR-Shih-huang-ti-X9372", a poÅ‚Ä…czysz siÄ™ z Cesarskim Komputerem. Mam nadziejÄ™, Å¼e okaÅ¼e ci siÄ™ to pomocne.}
 {198}{}{Cesarz to KOMPUTER?}
-{199}{}{£apiê. Dziêki.}
-{200}{}{Tak. Przechowuje nasz¹ historiê, nasze badania, nasze mo¿liwoœci rozwoju na przysz³oœæ. Jest o wiele lepszy od ka¿dego zawodnego cz³owieka - mimo to, zawsze konfrontujemy jego propozycje z nasz¹ wiedz¹ o ludzkiej naturze.}
-{201}{}{... Rozumiem. Có¿, dziêkujê za twój czas.}
-{202}{}{Szpiedzy donieœli nam, ¿e Centrolodzy otrzymali od ciebie plany lataczy. Ukradnij je dla nas, a otrzymasz nagrodê.}
-{203}{}{Za³atwione. Mam jeszcze kilka pytañ.}
+{199}{}{ÅapiÄ™. DziÄ™ki.}
+{200}{}{Tak. Przechowuje naszÄ… historiÄ™, nasze badania, nasze moÅ¼liwoÅ›ci rozwoju na przyszÅ‚oÅ›Ä‡. Jest o wiele lepszy od kaÅ¼dego zawodnego czÅ‚owieka - mimo to, zawsze konfrontujemy jego propozycje z naszÄ… wiedzÄ… o ludzkiej naturze.}
+{201}{}{... Rozumiem. CÃ³Å¼, dziÄ™kujÄ™ za twÃ³j czas.}
+{202}{}{Szpiedzy donieÅ›li nam, Å¼e Centrolodzy otrzymali od ciebie plany lataczy. Ukradnij je dla nas, a otrzymasz nagrodÄ™.}
+{203}{}{ZaÅ‚atwione. Mam jeszcze kilka pytaÅ„.}
 {204}{}{Nie ma mowy.}
-{205}{}{Dziêkujê za plany lataczy, wêdrowcze. Co mogê dla ciebie uczyniæ?}
+{205}{}{DziÄ™kujÄ™ za plany lataczy, wÄ™drowcze. Co mogÄ™ dla ciebie uczyniÄ‡?}
 {206}{}{Mam pytania.}
 {207}{}{Yy... nic.}
-{208}{}{Gdy ju¿ zdobêdziesz plany lataczy, oddaj je doktorowi Wongowi Yi Tze. U¿yje ich w dobrej sprawie.}
+{208}{}{Gdy juÅ¼ zdobÄ™dziesz plany lataczy, oddaj je doktorowi Wongowi Yi Tze. UÅ¼yje ich w dobrej sprawie.}
 {209}{}{Dobrze. Mam jeszcze inne pytania.}
 {210}{}{Dobra. Na razie.}
-{211}{}{. Chcê siê zobaczyæ z Cesarzem?}
+{211}{}{. ChcÄ™ siÄ™ zobaczyÄ‡ z Cesarzem?}
 {212}{}{.}
-{213}{}{Pamiêtaj, ¿e musisz zanieœæ plany doktorowi Wongowi Yi Tze.}
-{214}{}{Znowu chcesz mnie obra¿aæ. Mam tego dosyæ.}
-{215}{}{Jak ju¿ t³umaczy³em, muszê znaæ twoje imiê.}
-{216}{}{W porz¹dku, nazywam siê }
+{213}{}{PamiÄ™taj, Å¼e musisz zanieÅ›Ä‡ plany doktorowi Wongowi Yi Tze.}
+{214}{}{Znowu chcesz mnie obraÅ¼aÄ‡. Mam tego dosyÄ‡.}
+{215}{}{Jak juÅ¼ tÅ‚umaczyÅ‚em, muszÄ™ znaÄ‡ twoje imiÄ™.}
+{216}{}{W porzÄ…dku, nazywam siÄ™ }
 {217}{}{Zapomnij o tym, debilu!}
-{218}{}{Pamiêtaj, ¿e Cesarz oczekuje œmierci UKC-9.}
-{219}{}{Przykro mi, ale nie mogê ci zaoferowaæ naszego paliwa. Mo¿e gdyby Cesarz z tob¹ porozmawia³?}
-{220}{}{Jak mam to zrobiæ?}
-{221}{}{Czy mogê po prostu zadaæ kolejne pytanie?}
-{222}{}{Chcia³bym ci zaoferowaæ nasze paliwo, ale niestety nasze magazyny s¹ puste. W jakiœ sposób paliwo zosta³o skierowane do Centrologów. Mo¿liwe, ¿e zdo³asz znaleŸæ kogoœ, kto móg³by przekserowaæ  je z powrotem.}
-{223}{}{Czy mogê teraz spotkaæ siê z Cesarzem?}
-{224}{}{Uprzejmie ci przypominam, ¿e dopóki nie dostarczysz planów lataczy doktorowi Wongowi Yi Tze, wrota do Cesarza pozostan¹ zamkniête. Mam nadziejê, ¿e to rozumiesz.}
-{500}{}{Opuœæ ten teren, albo wezwê stra¿ników.}
-{501}{}{Znikaj st¹d. To moje drugie ostrze¿enie.}
-{502}{}{To moje ostatnie ostrze¿enie.}
-{503}{}{Stra¿!}
-{1430}{}{Cesarz pozostaje ukryty przed ciekawskimi oczami. Moim zadaniem jest dzia³aæ jako os³ona Cesarza. Jednak ty udowodni³eœ, ¿e jesteœ przyjacielem Shi. Ufam, ¿e mogê powierzyæ ci nasze sekrety. Na zapleczu zauwa¿ysz, ¿e pole si³owe do du¿ego komputera zosta³o wy³¹czone. Wpisz has³o "CSPDMSHR-Shih-huang-ti-X9372", a po³¹czysz siê z komputerem Cesarza. Mam nadziejê, ¿e oka¿e siê to dla ciebie przydatne.}
-{2001}{}{... Rozumiem. Có¿, dziêkujê za twój czas. Mam wioskê do uratowania.}
+{218}{}{PamiÄ™taj, Å¼e Cesarz oczekuje Å›mierci UKC-9.}
+{219}{}{Przykro mi, ale nie mogÄ™ ci zaoferowaÄ‡ naszego paliwa. MoÅ¼e gdyby Cesarz z tobÄ… porozmawiaÅ‚?}
+{220}{}{Jak mam to zrobiÄ‡?}
+{221}{}{Czy mogÄ™ po prostu zadaÄ‡ kolejne pytanie?}
+{222}{}{ChciaÅ‚bym ci zaoferowaÄ‡ nasze paliwo, ale niestety nasze magazyny sÄ… puste. W jakiÅ› sposÃ³b paliwo zostaÅ‚o skierowane do CentrologÃ³w. MoÅ¼liwe, Å¼e zdoÅ‚asz znaleÅºÄ‡ kogoÅ›, kto mÃ³gÅ‚by przekserowaÄ‡  je z powrotem.}
+{223}{}{Czy mogÄ™ teraz spotkaÄ‡ siÄ™ z Cesarzem?}
+{224}{}{Uprzejmie ci przypominam, Å¼e dopÃ³ki nie dostarczysz planÃ³w lataczy doktorowi Wongowi Yi Tze, wrota do Cesarza pozostanÄ… zamkniÄ™te. Mam nadziejÄ™, Å¼e to rozumiesz.}
+{500}{}{OpuÅ›Ä‡ ten teren, albo wezwÄ™ straÅ¼nikÃ³w.}
+{501}{}{Znikaj stÄ…d. To moje drugie ostrzeÅ¼enie.}
+{502}{}{To moje ostatnie ostrzeÅ¼enie.}
+{503}{}{StraÅ¼!}
+{1430}{}{Cesarz pozostaje ukryty przed ciekawskimi oczami. Moim zadaniem jest dziaÅ‚aÄ‡ jako osÅ‚ona Cesarza. Jednak ty udowodniÅ‚eÅ›, Å¼e jesteÅ› przyjacielem Shi. Ufam, Å¼e mogÄ™ powierzyÄ‡ ci nasze sekrety. Na zapleczu zauwaÅ¼ysz, Å¼e pole siÅ‚owe do duÅ¼ego komputera zostaÅ‚o wyÅ‚Ä…czone. Wpisz hasÅ‚o "CSPDMSHR-Shih-huang-ti-X9372", a poÅ‚Ä…czysz siÄ™ z komputerem Cesarza. Mam nadziejÄ™, Å¼e okaÅ¼e siÄ™ to dla ciebie przydatne.}
+{2001}{}{... Rozumiem. CÃ³Å¼, dziÄ™kujÄ™ za twÃ³j czas. Mam wioskÄ™ do uratowania.}

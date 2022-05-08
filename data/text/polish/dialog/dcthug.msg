@@ -1,15 +1,15 @@
-{100}{}{Widzisz groŸnie wygl¹daj¹cego mê¿czyznê.}
-{150}{}{Wygl¹da na bezwzglêdnego.}
-{151}{}{ZejdŸ mi z oczu.}
-{152}{}{Szukasz k³opotów?}
-{153}{}{Spadaj st¹d.}
+{100}{}{Widzisz groÅºnie wyglÄ…dajÄ…cego mÄ™Å¼czyznÄ™.}
+{150}{}{WyglÄ…da na bezwzglÄ™dnego.}
+{151}{}{ZejdÅº mi z oczu.}
+{152}{}{Szukasz kÅ‚opotÃ³w?}
+{153}{}{Spadaj stÄ…d.}
 {154}{}{Nie interesuje mnie to.}
-{155}{}{IdŸ sobie.}
-{200}{}{Hej, œmieciu.}
-{201}{}{Chcesz w mordê?}
-{202}{}{ChodŸ tu, cioto.}
-{203}{}{Mam do ciebie podejœæ?}
-{204}{}{Do mnie mówisz?}
-{205}{}{Chcesz jeszcze trochê?}
-{206}{}{Hej, skarbie, chodŸ tutaj.}
-{207}{}{Chcesz zobaczyæ moje tatua¿e?}
+{155}{}{IdÅº sobie.}
+{200}{}{Hej, Å›mieciu.}
+{201}{}{Chcesz w mordÄ™?}
+{202}{}{ChodÅº tu, cioto.}
+{203}{}{Mam do ciebie podejÅ›Ä‡?}
+{204}{}{Do mnie mÃ³wisz?}
+{205}{}{Chcesz jeszcze trochÄ™?}
+{206}{}{Hej, skarbie, chodÅº tutaj.}
+{207}{}{Chcesz zobaczyÄ‡ moje tatuaÅ¼e?}

@@ -1,46 +1,46 @@
 {100}{}{Tu vois un hologramme.}
 {101}{}{Tu vois le directeur des relations publiques.}
-{102}{}{Hologramme 40011. Elle est responsable de tout ce qui concerne les visites et communiqués de presse à l'EPA.}
-{200}{}{Bonjour. Comment puis-je vous aider ? Le déjeuner sera servi dans la cafétéria à midi pour tous les employés de la compagnie.}
+{102}{}{Hologramme 40011. Elle est responsable de tout ce qui concerne les visites et communiquÃ©s de presse Ã  l'EPA.}
+{200}{}{Bonjour. Comment puis-je vous aider ? Le dÃ©jeuner sera servi dans la cafÃ©tÃ©ria Ã  midi pour tous les employÃ©s de la compagnie.}
 {201}{}{Pardon ? Oh peu importe. Qui es-tu ?}
 {202}{}{Je dois y aller. Au revoir}
-{210}{}{Moi ? Je suis le Directeur des Relations publiques ici. J'organise les déplacements, visites et d'autres choses et garantis que l'endroit est sans danger pour le public sur une base journalière. La visite du musée EPA commencera bientôt. Ayez, s'il vous plaît, vos laissez-passer sous la main.}
+{210}{}{Moi ? Je suis le Directeur des Relations publiques ici. J'organise les dÃ©placements, visites et d'autres choses et garantis que l'endroit est sans danger pour le public sur une base journaliÃ¨re. La visite du musÃ©e EPA commencera bientÃ´t. Ayez, s'il vous plaÃ®t, vos laissez-passer sous la main.}
 {211}{}{Cela a l'air d'un emploi fascinant. Au revoir.}
-{212}{}{Peut-être que tu pourrais m'aider ?}
-{220}{}{Que puis-je faire pour vous ? Des brochures de visite peuvent être trouvées dans le bureau principal et dans les boîtes aux lettres partout dans l'EPA.}
-{221}{}{Bien, il y a quelques portes dans les niveaux les plus bas que je ne peux pas ouvrir. Elles sont équipées de consoles à reconnaissance vocale. Je dois absolument les traverser. As-tu les codes de sécurité ?}
-{230}{}{Oui, j'ai les codes d'accès pour celles-là mais je ne peux pas juste les donner à toutes les personnes qui se promènent ici. Vous devez d'abord prouver que vos intentions sont nobles. Le complexe EPA offre des visites à certaines personnes avec des temps prédéterminés.}
-{231}{}{Bien, tu es en sécurité en me confiant cela. Je ne suis pas le moins du monde quelqu'un de dangereux.}
+{212}{}{Peut-Ãªtre que tu pourrais m'aider ?}
+{220}{}{Que puis-je faire pour vous ? Des brochures de visite peuvent Ãªtre trouvÃ©es dans le bureau principal et dans les boÃ®tes aux lettres partout dans l'EPA.}
+{221}{}{Bien, il y a quelques portes dans les niveaux les plus bas que je ne peux pas ouvrir. Elles sont Ã©quipÃ©es de consoles Ã  reconnaissance vocale. Je dois absolument les traverser. As-tu les codes de sÃ©curitÃ© ?}
+{230}{}{Oui, j'ai les codes d'accÃ¨s pour celles-lÃ  mais je ne peux pas juste les donner Ã  toutes les personnes qui se promÃ¨nent ici. Vous devez d'abord prouver que vos intentions sont nobles. Le complexe EPA offre des visites Ã  certaines personnes avec des temps prÃ©dÃ©terminÃ©s.}
+{231}{}{Bien, tu es en sÃ©curitÃ© en me confiant cela. Je ne suis pas le moins du monde quelqu'un de dangereux.}
 {232}{}{Alors c'est correct. Au revoir}
-{240}{}{Peut-être. Mais comment en être sûr ? Je peux mettre le complexe en danger si je vous les donne. Ne touchez pas les hologrammes s'il vous plaît.}
-{241}{}{Comment pourrais-je mettre le complexe en danger ? Ce n'est pas comme si quelqu'un vivait ici. Il n'y a plus d'expériences en cours et les ascenseurs ne sont plus utilisés, donc personne ne peut entrer et être blessé. Allez, il n'y aura pas du mal...}
-{242}{}{Oh alors oubliez ça.}
-{250}{}{Je... Je ne sais pas. Je défierai le protocole. Mais... Si vous pouviez m'assister avec quelque chose. Visiteur, notez que le niveau bleu est restreint pour des raisons qui sont très peu intéressantes, il n'y a guère besoin d'être curieux à son propos.}
-{251}{}{Bien sûr, je pourrai t'assister. Dis-moi juste de ce dont tu as besoin.}
-{260}{}{Hum... C'est d'accord. Le mot de passe est ARBRE. Parlez distinctement devant à la porte et elle s'ouvrira. Ne le répétez pas à tout le monde... }
+{240}{}{Peut-Ãªtre. Mais comment en Ãªtre sÃ»r ? Je peux mettre le complexe en danger si je vous les donne. Ne touchez pas les hologrammes s'il vous plaÃ®t.}
+{241}{}{Comment pourrais-je mettre le complexe en danger ? Ce n'est pas comme si quelqu'un vivait ici. Il n'y a plus d'expÃ©riences en cours et les ascenseurs ne sont plus utilisÃ©s, donc personne ne peut entrer et Ãªtre blessÃ©. Allez, il n'y aura pas du mal...}
+{242}{}{Oh alors oubliez Ã§a.}
+{250}{}{Je... Je ne sais pas. Je dÃ©fierai le protocole. Mais... Si vous pouviez m'assister avec quelque chose. Visiteur, notez que le niveau bleu est restreint pour des raisons qui sont trÃ¨s peu intÃ©ressantes, il n'y a guÃ¨re besoin d'Ãªtre curieux Ã  son propos.}
+{251}{}{Bien sÃ»r, je pourrai t'assister. Dis-moi juste de ce dont tu as besoin.}
+{260}{}{Hum... C'est d'accord. Le mot de passe est ARBRE. Parlez distinctement devant Ã  la porte et elle s'ouvrira. Ne le rÃ©pÃ©tez pas Ã  tout le monde... }
 {261}{}{Oui, je comprends. Merci pour le code. Au revoir.}
-{270}{}{Bonjour encore. Que voulez-vous ? Le complexe EPA sera fermé à l'avenir, c'était prévisible en raison du manque de personnel.}
+{270}{}{Bonjour encore. Que voulez-vous ? Le complexe EPA sera fermÃ© Ã  l'avenir, c'Ã©tait prÃ©visible en raison du manque de personnel.}
 {271}{}{Maintenant j'ai plus de temps, dis-moi ce que tu fais ici !}
 {272}{}{Laisse tomber.}
-{280}{}{Alors vous êtes encore revenu ? Il n'y a pas de visite en ce moment, mais si vous voulez bien patienter, je pourrais vous arranger ça.}
+{280}{}{Alors vous Ãªtes encore revenu ? Il n'y a pas de visite en ce moment, mais si vous voulez bien patienter, je pourrais vous arranger Ã§a.}
 {281}{}{Je ne veux pas faire de visite, merci. Au revoir.}
 {282}{}{Je me demande si tu pourrais faire quelque chose pour moi ?}
-{290}{}{Bonjour. Je suis un peu occupée en ce moment avec la conception du nouveau programme de visite pour la prochaine saison. Pourriez-vous revenir plus tard ?}
-{291}{}{Non, j'ai à faire. J'ai vraiment besoin du code d'accès pour les portes. Peux-tu me le donner ?}
-{300}{}{Merci encore pour ton assistance, je vous prierai d'être responsable du mot de passe que je vous ai fourni. Souvenez-vous que c'est notre petit secret. Merci d'avoir visité l'EPA, j'espère que vous avez eu une bonne expérience ici.}
+{290}{}{Bonjour. Je suis un peu occupÃ©e en ce moment avec la conception du nouveau programme de visite pour la prochaine saison. Pourriez-vous revenir plus tard ?}
+{291}{}{Non, j'ai Ã  faire. J'ai vraiment besoin du code d'accÃ¨s pour les portes. Peux-tu me le donner ?}
+{300}{}{Merci encore pour ton assistance, je vous prierai d'Ãªtre responsable du mot de passe que je vous ai fourni. Souvenez-vous que c'est notre petit secret. Merci d'avoir visitÃ© l'EPA, j'espÃ¨re que vous avez eu une bonne expÃ©rience ici.}
 {301}{}{Merci. Au revoir.}
 {302}{}{<Sniff>}
-{303}{}{Qu'est-ce que j'ai manqué ?}
-{310}{}{Pensez-vous pouvoir réparer l'éclairage ? Il serait inapproprié d'accomplir des rondes par un tel manque d'éclairage. Si vous pouviez rétablir l'éclairage dans cet endroit pour moi, je vous donnerais le mot de passe. Veuillez vous souvenir de laver vigoureusement vos mains après avoir visité notre zoo.}
-{311}{}{Trés bien. Je vais voir ce que je peux faire.}
-{312}{}{Je m'en fiche. Cela ne m'intéresse pas.}
-{320}{}{Le complexe est toujours dans la pénombre. Vous allez réparer l'éclairage, n'est-ce pas ? Souvenez-vous visiteur, tout malaise doit être signalé avant la fin de la ronde.}
-{321}{}{Ne t'inquiète pas. J'y travaille.}
+{303}{}{Qu'est-ce que j'ai manquÃ© ?}
+{310}{}{Pensez-vous pouvoir rÃ©parer l'Ã©clairage ? Il serait inappropriÃ© d'accomplir des rondes par un tel manque d'Ã©clairage. Si vous pouviez rÃ©tablir l'Ã©clairage dans cet endroit pour moi, je vous donnerais le mot de passe. Veuillez vous souvenir de laver vigoureusement vos mains aprÃ¨s avoir visitÃ© notre zoo.}
+{311}{}{TrÃ©s bien. Je vais voir ce que je peux faire.}
+{312}{}{Je m'en fiche. Cela ne m'intÃ©resse pas.}
+{320}{}{Le complexe est toujours dans la pÃ©nombre. Vous allez rÃ©parer l'Ã©clairage, n'est-ce pas ? Souvenez-vous visiteur, tout malaise doit Ãªtre signalÃ© avant la fin de la ronde.}
+{321}{}{Ne t'inquiÃ¨te pas. J'y travaille.}
 {322}{}{Je vais m'en occuper.}
-{330}{}{Nous aurions plus de visiteurs si le sol était propre.}
-{331}{}{Comment suis-je censé faire des rondes sans un bon éclairage ?}
+{330}{}{Nous aurions plus de visiteurs si le sol Ã©tait propre.}
+{331}{}{Comment suis-je censÃ© faire des rondes sans un bon Ã©clairage ?}
 {332}{}{Ces plantes tuent tous les potentiels touristes.}
-{333}{}{Tous ces robots détruits sont *vraiment* disgracieux.}
-{334}{}{10031, vous avez été inutile pendant des décennies.}
-{335}{}{Tout ce que je dis, est que cet endroit a besoin d'être plus présentable.}
-{336}{}{Détruire ce complexe n'est pas une solution.}
+{333}{}{Tous ces robots dÃ©truits sont *vraiment* disgracieux.}
+{334}{}{10031, vous avez Ã©tÃ© inutile pendant des dÃ©cennies.}
+{335}{}{Tout ce que je dis, est que cet endroit a besoin d'Ãªtre plus prÃ©sentable.}
+{336}{}{DÃ©truire ce complexe n'est pas une solution.}

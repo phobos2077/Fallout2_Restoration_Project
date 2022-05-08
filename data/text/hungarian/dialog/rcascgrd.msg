@@ -1,93 +1,93 @@
-{100}{}{Egy jól megtermett ?r áll itt. Éppen téged vizslat.}
-{101}{}{Ascorti egyik biztonsági emberével hozott össze a jó sors.}
-{102}{}{Ez itt egy profi, éber ?r. A tömeget figyeli.}
-{103}{}{El a kezekkel a holminktól, Jack!}
-{104}{}{Sokba fog neked kerülni, ha mohó vagy!}
-{105}{}{Okosabbat is tehetnél!}
-{106}{}{Azt hitted, csak úgy elszelelhetsz vele?}
-{107}{}{Most már nem fogsz tudni elkölteni semmit.}
-{108}{}{Ennek a visszavonulásnak ára van.}
-{109}{}{Éppen azon gondolkodtam, mennyire unatkozom. Kösz szépen, idegen!}
+{100}{}{Egy jÃ³l megtermett ?r Ã¡ll itt. Ã‰ppen tÃ©ged vizslat.}
+{101}{}{Ascorti egyik biztonsÃ¡gi emberÃ©vel hozott Ã¶ssze a jÃ³ sors.}
+{102}{}{Ez itt egy profi, Ã©ber ?r. A tÃ¶meget figyeli.}
+{103}{}{El a kezekkel a holminktÃ³l, Jack!}
+{104}{}{Sokba fog neked kerÃ¼lni, ha mohÃ³ vagy!}
+{105}{}{Okosabbat is tehetnÃ©l!}
+{106}{}{Azt hitted, csak Ãºgy elszelelhetsz vele?}
+{107}{}{Most mÃ¡r nem fogsz tudni elkÃ¶lteni semmit.}
+{108}{}{Ennek a visszavonulÃ¡snak Ã¡ra van.}
+{109}{}{Ã‰ppen azon gondolkodtam, mennyire unatkozom. KÃ¶sz szÃ©pen, idegen!}
 {110}{}{Igen, kezd?dik a buli!}
 {111}{}{De nagy marha vagy te! }
-{112}{}{Az ember azt gondolná, hogy még a hozzád hasonlók sem csinálnak ekkora hülyeséget.}
-{113}{}{És én már keztem épp unatkozni!}
+{112}{}{Az ember azt gondolnÃ¡, hogy mÃ©g a hozzÃ¡d hasonlÃ³k sem csinÃ¡lnak ekkora hÃ¼lyesÃ©get.}
+{113}{}{Ã‰s Ã©n mÃ¡r keztem Ã©pp unatkozni!}
 {114}{}{Igen! Buli van!}
-{115}{}{Táncoljunk!}
-{116}{}{Készen állsz a balhéra?}
-{117}{}{Gyerünk, csináld csak, rossz fiú!}
-{118}{}{Kiváncsi vagyok, hogy nézel ki belülr?l.}
-{119}{}{Szerencsére nem nekem kell majd feltakarítani innen a bels? szerveidet.}
-{120}{}{Már vagy egy hete nem volt egy jó harcban részünk.}
-{121}{}{Ó igen, ó igeeeeen!}
-{122}{}{Jó, hogy itt lehetek.}
+{115}{}{TÃ¡ncoljunk!}
+{116}{}{KÃ©szen Ã¡llsz a balhÃ©ra?}
+{117}{}{GyerÃ¼nk, csinÃ¡ld csak, rossz fiÃº!}
+{118}{}{KivÃ¡ncsi vagyok, hogy nÃ©zel ki belÃ¼lr?l.}
+{119}{}{SzerencsÃ©re nem nekem kell majd feltakarÃ­tani innen a bels? szerveidet.}
+{120}{}{MÃ¡r vagy egy hete nem volt egy jÃ³ harcban rÃ©szÃ¼nk.}
+{121}{}{Ã“ igen, Ã³ igeeeeen!}
+{122}{}{JÃ³, hogy itt lehetek.}
 {123}{}{Ne baszakodj a kuncsaftokkal!}
-{124}{}{Most majd meglátod, mit jelent az, hogy teljeskör? szolgáltatás.}
-{125}{}{Nem támadhatod meg a vendégeket, és t?nhetsz el csak úgy!}
+{124}{}{Most majd meglÃ¡tod, mit jelent az, hogy teljeskÃ¶r? szolgÃ¡ltatÃ¡s.}
+{125}{}{Nem tÃ¡madhatod meg a vendÃ©geket, Ã©s t?nhetsz el csak Ãºgy!}
 {126}{}{Ez nem olyan hely, haver.}
-{127}{}{Ne rombold a f?nök üzletét!}
-{128}{}{Az életeddel játszottál, és vesztettél.}
-{129}{}{Úgy t?nik, ezt el fogod veszíteni.}
-{130}{}{Szétcincállak, amiért verekedni kezdtél itt!}
+{127}{}{Ne rombold a f?nÃ¶k Ã¼zletÃ©t!}
+{128}{}{Az Ã©leteddel jÃ¡tszottÃ¡l, Ã©s vesztettÃ©l.}
+{129}{}{Ãšgy t?nik, ezt el fogod veszÃ­teni.}
+{130}{}{SzÃ©tcincÃ¡llak, amiÃ©rt verekedni kezdtÃ©l itt!}
 {131}{}{Seggfej!}
-{132}{}{Nem gondolhatod komolyan, hogy ilyeneket csinálsz és még élve is hagyunk!}
+{132}{}{Nem gondolhatod komolyan, hogy ilyeneket csinÃ¡lsz Ã©s mÃ©g Ã©lve is hagyunk!}
 {133}{}{Time to take you outta' da' gene-pool.}
-{134}{}{Okosabbat kellene csinálnod.}
-{135}{}{Sajnálom, hogy idág fajult a dolog.}
+{134}{}{Okosabbat kellene csinÃ¡lnod.}
+{135}{}{SajnÃ¡lom, hogy idÃ¡g fajult a dolog.}
 {136}{}{Vesztes vagy!}
 {137}{}{Fenn kell tartanom itt a rendet.}
-{138}{}{Ez neked jobban fog fájni, mint nekünk.}
-{139}{}{Ha játszani akarsz, fizess, haver.}
-{140}{}{Mondtam, hogy kopj le! Kár, hogy nem hallgattál rám.}
-{141}{}{Most megkapod a magadét!}
-{142}{}{Ez nagyon fog fájni... neked!}
+{138}{}{Ez neked jobban fog fÃ¡jni, mint nekÃ¼nk.}
+{139}{}{Ha jÃ¡tszani akarsz, fizess, haver.}
+{140}{}{Mondtam, hogy kopj le! KÃ¡r, hogy nem hallgattÃ¡l rÃ¡m.}
+{141}{}{Most megkapod a magadÃ©t!}
+{142}{}{Ez nagyon fog fÃ¡jni... neked!}
 {143}{}{Jobb, ha visszateszed azt a stukkert, haver.}
 {144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Jobb, ha elteszed azt a fegyvert!}
-{146}{}{Tartsd a tokjában, fiúka!}
+{146}{}{Tartsd a tokjÃ¡ban, fiÃºka!}
 {147}{}{Tedd el a fegyveredet!}
-{148}{}{Jobb, ha visszateszed azt a fegyvert a helyére!}
-{149}{}{Amíg itt vagy, tartsd távol a kezedet a fegyveredt?l!}
+{148}{}{Jobb, ha visszateszed azt a fegyvert a helyÃ©re!}
+{149}{}{AmÃ­g itt vagy, tartsd tÃ¡vol a kezedet a fegyveredt?l!}
 {150}{}{Tedd el azt a fegyvert, haver!}
-{151}{}{Elnézést, de meg kell kérjelek, hogy tedd el azt a fegyvert.}
-{152}{}{Tedd el a fegyveredet! Azt akarjuk, hogy dolgok továbbra is barátságosan follyanak itt.}
+{151}{}{ElnÃ©zÃ©st, de meg kell kÃ©rjelek, hogy tedd el azt a fegyvert.}
+{152}{}{Tedd el a fegyveredet! Azt akarjuk, hogy dolgok tovÃ¡bbra is barÃ¡tsÃ¡gosan follyanak itt.}
 {153}{}{Csak rendben tartom itt a dolgokat.}
-{154}{}{Játssz korrektül!}
-{155}{}{Jobb, ha csínján bánsz itt a dolgokkal!}
-{156}{}{Eridj tovább!}
-{157}{}{Nincs itt semmi látnivaló!}
-{158}{}{Legyen jó napod!}
-{159}{}{Üdvözlünk az Ascorti-nál!}
-{160}{}{Tegyél úgy, mintha barátságos lennél!}
-{161}{}{Legyen jó napod!}
-{162}{}{Itt az Ascorti-nál mindenki egy Ász.}
-{163}{}{Akkor azt mondtam nekik: vegyétek le a kezeteket az én...}
-{164}{}{Nem hiszem el, hogy létezik olyan hülye, aki még erre is rádupláz.}
-{165}{}{Aha, ez szopattyú, sosem láttam még ilyet.}
-{166}{}{Ember, nem érzem túl jól magam.}
-{167}{}{Az ott Ascorti egyik pénzéhes vásárlója.}
-{168}{}{Psszt, rendesen állj, figyel a f?nök!}
-{169}{}{Nem úgy van az! Legalább húsz volt...}
-{170}{}{Gyomorégést kapok attól a Gekkó sütit?l.}
-{171}{}{Tegnap hosszú éjszakád volt?}
-{172}{}{Gondolom, még mindig másnapos vagy t?le.}
-{173}{}{Törvényt szegni, törvényt szegni...}
-{174}{}{Ne gondold, hogy idejössz a városunkba, és ezt csinálhatod!}
-{175}{}{Nem csinálhatod ezt a szarságot itt!}
-{176}{}{Nincs szükségünk itt a magadfajtára!}
-{177}{}{Valakinek laposra kell taposnia téged!}
-{178}{}{Valami b?zlik ebben a városban, és azt hiszem, te vagy az.}
-{179}{}{Szarszagot érzek... ó, hát kit nem látnak szemeim!}
-{180}{}{T?nj a városunkból, pöcs!}
-{181}{}{Túl régóta nem törtem be senkinek a fejét.}
-{182}{}{Ezért most végignézem, ahogy elvérzel!}
-{183}{}{Te *tényleg* azt hitted, hogy nem fogjuk észrevenni?}
-{184}{}{Nem hiszem el, hogy pont el?ttünk csinálod ezt a szarságot.}
-{185}{}{Öö, elnézést. HAGYD ABBA EZT A BAROMSÁGOT!}
-{186}{}{Ne szórakozz azzal az ajtóval, idióta!}
-{187}{}{Mit csinál itt?}
-{188}{}{Pfff, már a b?nöz?k is napról-napra egyre silányabbak.}
-{189}{}{Lépj távolabb attól az ajtótól!}
-{190}{}{Ne nyúlj még egyszer ahhoz az ajtóhoz!}
-{191}{}{Lépj távolabb attól az ajtótól!}
-{192}{}{Ne nyúlj még egyszer ahhoz az ajtóhoz!}
+{154}{}{JÃ¡tssz korrektÃ¼l!}
+{155}{}{Jobb, ha csÃ­njÃ¡n bÃ¡nsz itt a dolgokkal!}
+{156}{}{Eridj tovÃ¡bb!}
+{157}{}{Nincs itt semmi lÃ¡tnivalÃ³!}
+{158}{}{Legyen jÃ³ napod!}
+{159}{}{ÃœdvÃ¶zlÃ¼nk az Ascorti-nÃ¡l!}
+{160}{}{TegyÃ©l Ãºgy, mintha barÃ¡tsÃ¡gos lennÃ©l!}
+{161}{}{Legyen jÃ³ napod!}
+{162}{}{Itt az Ascorti-nÃ¡l mindenki egy Ãsz.}
+{163}{}{Akkor azt mondtam nekik: vegyÃ©tek le a kezeteket az Ã©n...}
+{164}{}{Nem hiszem el, hogy lÃ©tezik olyan hÃ¼lye, aki mÃ©g erre is rÃ¡duplÃ¡z.}
+{165}{}{Aha, ez szopattyÃº, sosem lÃ¡ttam mÃ©g ilyet.}
+{166}{}{Ember, nem Ã©rzem tÃºl jÃ³l magam.}
+{167}{}{Az ott Ascorti egyik pÃ©nzÃ©hes vÃ¡sÃ¡rlÃ³ja.}
+{168}{}{Psszt, rendesen Ã¡llj, figyel a f?nÃ¶k!}
+{169}{}{Nem Ãºgy van az! LegalÃ¡bb hÃºsz volt...}
+{170}{}{GyomorÃ©gÃ©st kapok attÃ³l a GekkÃ³ sÃ¼tit?l.}
+{171}{}{Tegnap hosszÃº Ã©jszakÃ¡d volt?}
+{172}{}{Gondolom, mÃ©g mindig mÃ¡snapos vagy t?le.}
+{173}{}{TÃ¶rvÃ©nyt szegni, tÃ¶rvÃ©nyt szegni...}
+{174}{}{Ne gondold, hogy idejÃ¶ssz a vÃ¡rosunkba, Ã©s ezt csinÃ¡lhatod!}
+{175}{}{Nem csinÃ¡lhatod ezt a szarsÃ¡got itt!}
+{176}{}{Nincs szÃ¼ksÃ©gÃ¼nk itt a magadfajtÃ¡ra!}
+{177}{}{Valakinek laposra kell taposnia tÃ©ged!}
+{178}{}{Valami b?zlik ebben a vÃ¡rosban, Ã©s azt hiszem, te vagy az.}
+{179}{}{Szarszagot Ã©rzek... Ã³, hÃ¡t kit nem lÃ¡tnak szemeim!}
+{180}{}{T?nj a vÃ¡rosunkbÃ³l, pÃ¶cs!}
+{181}{}{TÃºl rÃ©gÃ³ta nem tÃ¶rtem be senkinek a fejÃ©t.}
+{182}{}{EzÃ©rt most vÃ©gignÃ©zem, ahogy elvÃ©rzel!}
+{183}{}{Te *tÃ©nyleg* azt hitted, hogy nem fogjuk Ã©szrevenni?}
+{184}{}{Nem hiszem el, hogy pont el?ttÃ¼nk csinÃ¡lod ezt a szarsÃ¡got.}
+{185}{}{Ã–Ã¶, elnÃ©zÃ©st. HAGYD ABBA EZT A BAROMSÃGOT!}
+{186}{}{Ne szÃ³rakozz azzal az ajtÃ³val, idiÃ³ta!}
+{187}{}{Mit csinÃ¡l itt?}
+{188}{}{Pfff, mÃ¡r a b?nÃ¶z?k is naprÃ³l-napra egyre silÃ¡nyabbak.}
+{189}{}{LÃ©pj tÃ¡volabb attÃ³l az ajtÃ³tÃ³l!}
+{190}{}{Ne nyÃºlj mÃ©g egyszer ahhoz az ajtÃ³hoz!}
+{191}{}{LÃ©pj tÃ¡volabb attÃ³l az ajtÃ³tÃ³l!}
+{192}{}{Ne nyÃºlj mÃ©g egyszer ahhoz az ajtÃ³hoz!}

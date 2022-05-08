@@ -1,1 +1,1 @@
-{100}{}{Jesteú w Krypcie Kryptopolis.}
+{100}{}{Jeste≈õ w Krypcie Kryptopolis.}

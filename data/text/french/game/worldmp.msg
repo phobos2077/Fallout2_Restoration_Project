@@ -1,50 +1,50 @@
-{200}{}{Entrée de la caverne}
-{201}{}{Entrée}
+{200}{}{EntrÃ©e de la caverne}
+{201}{}{EntrÃ©e}
 {202}{}{Habitations}
 {203}{}{Centre de commandement}
-{210}{}{Entrée du désert}
-{211}{}{Cavernes/Entrée}
+{210}{}{EntrÃ©e du dÃ©sert}
+{211}{}{Cavernes/EntrÃ©e}
 {212}{}{Habitations}
 {213}{}{Centre de commandement}
-{220}{}{Entrée}
+{220}{}{EntrÃ©e}
 {221}{}{Jardin}
-{222}{}{Enclos à Brahmines}
-{230}{}{Entrée}
+{222}{}{Enclos Ã  Brahmines}
+{230}{}{EntrÃ©e}
 {231}{}{Pieuterie}
 {232}{}{Casino}
 {240}{}{Base}
-{250}{}{Hôtel}
+{250}{}{HÃ´tel}
 {251}{}{Hall}
-{252}{}{Réservoir}
-{260}{}{Entrée}
+{252}{}{RÃ©servoir}
+{260}{}{EntrÃ©e}
 {261}{}{Centre-ville}
 {262}{}{Hauteurs}
 {263}{}{Vieille ville}
 {264}{}{Marchands}
 {265}{}{Grotte}
-{270}{}{Entrée}
+{270}{}{EntrÃ©e}
 {271}{}{Niveau 1}
 {272}{}{Niveau 2}
 {273}{}{Niveau 3}
 {274}{}{Niveau 4}
-{280}{}{Entrée}
+{280}{}{EntrÃ©e}
 {281}{}{Fort - Niveau 1}
 {282}{}{Fort - Niveau 2}
 {283}{}{Cuves - Niveau 1}
 {284}{}{Cuves - Niveau 2}
-{290}{}{Cratère}
+{290}{}{CratÃ¨re}
 {291}{}{Niveau 1}
 {300}{}{Sanctuaire}
 {301}{}{Centre-ville}
-{302}{}{Bibliothèque}
+{302}{}{BibliothÃ¨que}
 {303}{}{Forteresse}
-{304}{}{Entrepôt}
-{310}{}{Entrée}
-{311}{}{Intérieur}
-{500}{}{Tu as gagné 10 000 points d'expérience !}
+{304}{}{EntrepÃ´t}
+{310}{}{EntrÃ©e}
+{311}{}{IntÃ©rieur}
+{500}{}{Tu as gagnÃ© 10 000 points d'expÃ©rience !}
 {501}{}{Ruines}
-{1000}{}{Désert}
+{1000}{}{DÃ©sert}
 {1001}{}{Montagnes}
 {1002}{}{Ville}
-{1003}{}{Côte}
+{1003}{}{CÃ´te}
 {1004}{}{Inconnu}

@@ -1,419 +1,419 @@
-{100}{}{Ez itt egy renói lakos.}
-{150}{}{Egy szakadt kinézet? embert látsz. Unatkozik.}
-{151}{}{Egy szakadt kinézet? embert látsz. Bamba képpel bámul.}
-{152}{}{Egy szakadt kinézet? embert látsz. Úgy t?nik, másnapossággal küzd.}
-{153}{}{Egy szakadt kinézet? embert látsz. Kissé be van nyomva szegény.}
-{154}{}{Egy szakadt kinézet? embert látsz. El?bb bosszankodva végigmér, aztán ügyet sem vet rád.}
-{155}{}{Egy szakadt kinézet? embert látsz. Elég rossz hangulatban van.}
-{160}{}{Egy szakadt kinézet? n?t látsz. Unatkozik.}
-{161}{}{Egy szakadt kinézet? n?t látsz. Bamba képpel bámul.}
-{162}{}{Egy szakadt kinézet? n?t látsz. A semmibe néz.}
-{163}{}{Egy szakadt kinézet? n?t látsz. Egy kicsit be van csípve.}
-{164}{}{Egy szakadt kinézet? n?t látsz. El?bb bosszankodva végigmér, aztán ügyet sem vet rád.}
-{165}{}{Egy szakadt kinézet? n?t látsz. Amikor elkapja a tekinteted, viszolyogva néz rád.}
+{100}{}{Ez itt egy renÃ³i lakos.}
+{150}{}{Egy szakadt kinÃ©zet? embert lÃ¡tsz. Unatkozik.}
+{151}{}{Egy szakadt kinÃ©zet? embert lÃ¡tsz. Bamba kÃ©ppel bÃ¡mul.}
+{152}{}{Egy szakadt kinÃ©zet? embert lÃ¡tsz. Ãšgy t?nik, mÃ¡snapossÃ¡ggal kÃ¼zd.}
+{153}{}{Egy szakadt kinÃ©zet? embert lÃ¡tsz. KissÃ© be van nyomva szegÃ©ny.}
+{154}{}{Egy szakadt kinÃ©zet? embert lÃ¡tsz. El?bb bosszankodva vÃ©gigmÃ©r, aztÃ¡n Ã¼gyet sem vet rÃ¡d.}
+{155}{}{Egy szakadt kinÃ©zet? embert lÃ¡tsz. ElÃ©g rossz hangulatban van.}
+{160}{}{Egy szakadt kinÃ©zet? n?t lÃ¡tsz. Unatkozik.}
+{161}{}{Egy szakadt kinÃ©zet? n?t lÃ¡tsz. Bamba kÃ©ppel bÃ¡mul.}
+{162}{}{Egy szakadt kinÃ©zet? n?t lÃ¡tsz. A semmibe nÃ©z.}
+{163}{}{Egy szakadt kinÃ©zet? n?t lÃ¡tsz. Egy kicsit be van csÃ­pve.}
+{164}{}{Egy szakadt kinÃ©zet? n?t lÃ¡tsz. El?bb bosszankodva vÃ©gigmÃ©r, aztÃ¡n Ã¼gyet sem vet rÃ¡d.}
+{165}{}{Egy szakadt kinÃ©zet? n?t lÃ¡tsz. Amikor elkapja a tekinteted, viszolyogva nÃ©z rÃ¡d.}
 {200}{}{::Tapsol::}
-{201}{}{::Éljenez::}
-{202}{}{Nem semmi, hogy felperzselted azokat az Enklávés barmokat! Nem semmi!}
-{203}{}{Király, hogy lezúztad az Enklávét.}
-{204}{}{Gratula, hogy letapostad az Enklávét, }
-{205}{}{Gratula, hogy letapostad az Enklávét, }
-{215}{}{Öö... menjetek az útjából!}
-{216}{}{Nézzétek... nem tudom, ki fia-borja, de borsódzik t?le a hátam.}
-{217}{}{Szerinted az az izé rajtad visszatart valakit?}
-{218}{}{Pokoli egy test! Öö, úgy értem a páncél alatt.}
-{219}{}{Menjetek az útjából!}
-{220}{}{Egy veszélyes kinézet? alakról beszéln...}
+{201}{}{::Ã‰ljenez::}
+{202}{}{Nem semmi, hogy felperzselted azokat az EnklÃ¡vÃ©s barmokat! Nem semmi!}
+{203}{}{KirÃ¡ly, hogy lezÃºztad az EnklÃ¡vÃ©t.}
+{204}{}{Gratula, hogy letapostad az EnklÃ¡vÃ©t, }
+{205}{}{Gratula, hogy letapostad az EnklÃ¡vÃ©t, }
+{215}{}{Ã–Ã¶... menjetek az ÃºtjÃ¡bÃ³l!}
+{216}{}{NÃ©zzÃ©tek... nem tudom, ki fia-borja, de borsÃ³dzik t?le a hÃ¡tam.}
+{217}{}{Szerinted az az izÃ© rajtad visszatart valakit?}
+{218}{}{Pokoli egy test! Ã–Ã¶, Ãºgy Ã©rtem a pÃ¡ncÃ©l alatt.}
+{219}{}{Menjetek az ÃºtjÃ¡bÃ³l!}
+{220}{}{Egy veszÃ©lyes kinÃ©zet? alakrÃ³l beszÃ©ln...}
 {221}{}{*Nyel egyet*}
 {222}{}{Asszem, az a Robot Robi leszkennelt engem.}
-{223}{}{Az a sétáló tank rámnézett, és majd meghaltam! Na, akkor én gyorsan leléptem...}
-{224}{}{Az az izé ott, csak tegnap három ver?embert szedett szét.}
-{240}{}{Üdv, cs?dör!}
-{241}{}{Egy ilyen cs?dörnek nincs szüksége nyeregre? Szabad vagyok holnap éjszaka.}
-{242}{}{Mit csinálsz este, tengerész?}
+{223}{}{Az a sÃ©tÃ¡lÃ³ tank rÃ¡mnÃ©zett, Ã©s majd meghaltam! Na, akkor Ã©n gyorsan lelÃ©ptem...}
+{224}{}{Az az izÃ© ott, csak tegnap hÃ¡rom ver?embert szedett szÃ©t.}
+{240}{}{Ãœdv, cs?dÃ¶r!}
+{241}{}{Egy ilyen cs?dÃ¶rnek nincs szÃ¼ksÃ©ge nyeregre? Szabad vagyok holnap Ã©jszaka.}
+{242}{}{Mit csinÃ¡lsz este, tengerÃ©sz?}
 {243}{}{Megtapogathatom az izmaidat?}
-{244}{}{Hogy a fenébe nem ájulsz el, amikor erekciód van?}
-{245}{}{Nem ugrasz be hozzám egy italra?}
-{246}{}{A mellkasodról szeretnék vacsorázni.}
-{247}{}{Nem akarsz egy partnert a következ? filmedhez?}
-{248}{}{::A bicepszedet bámulja::}
-{249}{}{::Tapsol, fütyül::}
-{255}{}{Azta! Ezt nézzétek!}
-{256}{}{Van ember, aki rá meri vetni a szemét?}
-{257}{}{::Szájával a "francba" szót formázza::}
-{258}{}{TUDTAM, hogy borotválkoznom kellett volna reggel.}
-{259}{}{Gyere, csevegjünk már egy kicsit, édeske!}
-{260}{}{Még az a törzsbéli csöcs! Berosálok!}
-{261}{}{Nézd már azt lökhárítót azon a törzsbélin!}
-{262}{}{Ott az én nyájam legszebb példánya.}
-{263}{}{Annak a n?nek a kedvéért megfürdenék.}
-{264}{}{Itt van a te különbejáratú aranybányád.}
-{265}{}{Vigyázz szét ne ess!}
+{244}{}{Hogy a fenÃ©be nem Ã¡julsz el, amikor erekciÃ³d van?}
+{245}{}{Nem ugrasz be hozzÃ¡m egy italra?}
+{246}{}{A mellkasodrÃ³l szeretnÃ©k vacsorÃ¡zni.}
+{247}{}{Nem akarsz egy partnert a kÃ¶vetkez? filmedhez?}
+{248}{}{::A bicepszedet bÃ¡mulja::}
+{249}{}{::Tapsol, fÃ¼tyÃ¼l::}
+{255}{}{Azta! Ezt nÃ©zzÃ©tek!}
+{256}{}{Van ember, aki rÃ¡ meri vetni a szemÃ©t?}
+{257}{}{::SzÃ¡jÃ¡val a "francba" szÃ³t formÃ¡zza::}
+{258}{}{TUDTAM, hogy borotvÃ¡lkoznom kellett volna reggel.}
+{259}{}{Gyere, csevegjÃ¼nk mÃ¡r egy kicsit, Ã©deske!}
+{260}{}{MÃ©g az a tÃ¶rzsbÃ©li csÃ¶cs! BerosÃ¡lok!}
+{261}{}{NÃ©zd mÃ¡r azt lÃ¶khÃ¡rÃ­tÃ³t azon a tÃ¶rzsbÃ©lin!}
+{262}{}{Ott az Ã©n nyÃ¡jam legszebb pÃ©ldÃ¡nya.}
+{263}{}{Annak a n?nek a kedvÃ©Ã©rt megfÃ¼rdenÃ©k.}
+{264}{}{Itt van a te kÃ¼lÃ¶nbejÃ¡ratÃº aranybÃ¡nyÃ¡d.}
+{265}{}{VigyÃ¡zz szÃ©t ne ess!}
 {266}{}{Ez az, ne hagyd abba!}
-{267}{}{::Fütyül::}
-{268}{}{Ezek aztán mutatós lábak...}
-{269}{}{Hé, szépségem, ilyen fenékhez járna egy gondos nyelv is.}
-{270}{}{Szépségem, tetszik ahogy rázod! Áram is van hozzá?}
-{271}{}{Lehet, hogy ma éjjel táncolni fog...}
-{272}{}{Láttátok a legújabb filmjét? Eszméletlen, ember, eszméletlen!}
-{273}{}{Elnézést, el kell mennem a mosdóba, és ööö... egy kicsit meg kell fésülködnöm.}
-{274}{}{Hát lennék a bugyija helyében.}
-{275}{}{Szeretnék a bugyija lenni.}
-{276}{}{Bizony megszagolnám a sortját...}
-{277}{}{Az ott nagyon dögös egy n?.}
-{278}{}{Francba. Micsoda ívek... addig bámulom, míg kisodródok.}
-{279}{}{Figyeld már, milyen mellszerkezete van a csajnak!}
-{280}{}{Nézd már azt a didkót!}
-{281}{}{De szívesen belenéznék a nagy, barna szemeibe.}
+{267}{}{::FÃ¼tyÃ¼l::}
+{268}{}{Ezek aztÃ¡n mutatÃ³s lÃ¡bak...}
+{269}{}{HÃ©, szÃ©psÃ©gem, ilyen fenÃ©khez jÃ¡rna egy gondos nyelv is.}
+{270}{}{SzÃ©psÃ©gem, tetszik ahogy rÃ¡zod! Ãram is van hozzÃ¡?}
+{271}{}{Lehet, hogy ma Ã©jjel tÃ¡ncolni fog...}
+{272}{}{LÃ¡ttÃ¡tok a legÃºjabb filmjÃ©t? EszmÃ©letlen, ember, eszmÃ©letlen!}
+{273}{}{ElnÃ©zÃ©st, el kell mennem a mosdÃ³ba, Ã©s Ã¶Ã¶Ã¶... egy kicsit meg kell fÃ©sÃ¼lkÃ¶dnÃ¶m.}
+{274}{}{HÃ¡t lennÃ©k a bugyija helyÃ©ben.}
+{275}{}{SzeretnÃ©k a bugyija lenni.}
+{276}{}{Bizony megszagolnÃ¡m a sortjÃ¡t...}
+{277}{}{Az ott nagyon dÃ¶gÃ¶s egy n?.}
+{278}{}{Francba. Micsoda Ã­vek... addig bÃ¡mulom, mÃ­g kisodrÃ³dok.}
+{279}{}{Figyeld mÃ¡r, milyen mellszerkezete van a csajnak!}
+{280}{}{NÃ©zd mÃ¡r azt a didkÃ³t!}
+{281}{}{De szÃ­vesen belenÃ©znÃ©k a nagy, barna szemeibe.}
 {282}{}{A francbaaaa.}
-{283}{}{Azt a lökhárítót kapd ki!}
-{284}{}{Ilyen mellekkel biztos fáj a háta.}
-{285}{}{Nem is t?nsz olyan keménynek, Mr. Bunyós.}
-{286}{}{20 dollárt tettem rád!}
-{287}{}{Hé, bajnok! Király volt az utolsó meccsed!}
-{288}{}{Láttalak bunyózni a ringben. Iszonyat jobb horgod van!}
-{289}{}{Ugye nem akarsz lefeküdni a ringben? 30 dolcsit tettem rád.}
+{283}{}{Azt a lÃ¶khÃ¡rÃ­tÃ³t kapd ki!}
+{284}{}{Ilyen mellekkel biztos fÃ¡j a hÃ¡ta.}
+{285}{}{Nem is t?nsz olyan kemÃ©nynek, Mr. BunyÃ³s.}
+{286}{}{20 dollÃ¡rt tettem rÃ¡d!}
+{287}{}{HÃ©, bajnok! KirÃ¡ly volt az utolsÃ³ meccsed!}
+{288}{}{LÃ¡ttalak bunyÃ³zni a ringben. Iszonyat jobb horgod van!}
+{289}{}{Ugye nem akarsz lefekÃ¼dni a ringben? 30 dolcsit tettem rÃ¡d.}
 {290}{}{Mennyit nyomsz fekve?}
 {291}{}{Hol edzel?}
-{292}{}{Vigyázz a Húsdarálóval! Imádja a füleket!}
-{293}{}{Meghívnálak egy italra, de az ellenfeledre fogadtam, és elbuktam az összes pénzem.}
-{294}{}{Nem is t?nsz olyan keménynek, Mr. Balhorog.}
-{295}{}{Megnézhetem a befeszített hasizmodat?}
-{300}{}{Menjen mindenki az útjából!}
-{301}{}{Asszem, rámnézett...}
-{302}{}{Ajjaj, rámnézett és majd meghaltam! Na, akkor én mennék is...}
-{303}{}{Azt hallottam, csak tegnap vagy három ver?embert l?tt agyon...}
-{304}{}{Ha csak ránézek, elfog a borzongás.}
-{305}{}{Szerintetek el akarja rettenteni a népet?}
-{306}{}{Öö... menjetek az útjából!}
+{292}{}{VigyÃ¡zz a HÃºsdarÃ¡lÃ³val! ImÃ¡dja a fÃ¼leket!}
+{293}{}{MeghÃ­vnÃ¡lak egy italra, de az ellenfeledre fogadtam, Ã©s elbuktam az Ã¶sszes pÃ©nzem.}
+{294}{}{Nem is t?nsz olyan kemÃ©nynek, Mr. Balhorog.}
+{295}{}{MegnÃ©zhetem a befeszÃ­tett hasizmodat?}
+{300}{}{Menjen mindenki az ÃºtjÃ¡bÃ³l!}
+{301}{}{Asszem, rÃ¡mnÃ©zett...}
+{302}{}{Ajjaj, rÃ¡mnÃ©zett Ã©s majd meghaltam! Na, akkor Ã©n mennÃ©k is...}
+{303}{}{Azt hallottam, csak tegnap vagy hÃ¡rom ver?embert l?tt agyon...}
+{304}{}{Ha csak rÃ¡nÃ©zek, elfog a borzongÃ¡s.}
+{305}{}{Szerintetek el akarja rettenteni a nÃ©pet?}
+{306}{}{Ã–Ã¶... menjetek az ÃºtjÃ¡bÃ³l!}
 {307}{}{Pokoli egy teste van.}
-{308}{}{Egy veszélyes kinézet? alakról beszéln...}
+{308}{}{Egy veszÃ©lyes kinÃ©zet? alakrÃ³l beszÃ©ln...}
 {309}{}{*Nyel egyet*}
-{310}{}{La Femme Nikita, meg a hozzá hasonlók.}
-{311}{}{Ha csak ránézek, elfog a borzongás.}
-{312}{}{Szerintetek el akarja rettenteni a népet?}
-{313}{}{Szerintem a n? pont rámnézett...}
-{314}{}{Úgy nézett rám, hogy majd meg haltam. Na, én léptem.}
-{315}{}{Azt mondják, csak tegnap három ver?embert l?tt agyon.}
-{316}{}{Szép a feneke... úgy értem, fene kemény egy alak.}
-{320}{}{Mi a fene van, hogy így megszaporodtak a hajcsárok errefelé?}
-{321}{}{Ezt a hajcsárt nem láttam itt korábban...}
-{322}{}{Kiváncsi vagyok, hogy a hajcsár az Istállókhoz ment-e...}
-{323}{}{Kiváncsi vagyok, a hajcsárnak van-e áruja...}
-{324}{}{Az Istállókhoz indultál, hajcsár?}
-{325}{}{Na, egy ÚJABB hajcsár! Mordino biztos felfedezett egy újabb aranybányát...}
-{326}{}{A hajcsár a Golgotán fog kikötni.}
-{327}{}{A múlt éjszaka majd meg lehetett pusztulni a Golgotáról jöv? b?zt?l...}
-{328}{}{Elcseszett hajcsárok...}
-{329}{}{Ennyit az én rohadt szerencsémr?l...}
-{330}{}{Azt mondják, egy csomó új rabszolgájuk van.}
-{331}{}{Egy csomó új rabszolga van a bordélyban.}
-{332}{}{Biztos jó munkásember... teccikérteni...}
+{310}{}{La Femme Nikita, meg a hozzÃ¡ hasonlÃ³k.}
+{311}{}{Ha csak rÃ¡nÃ©zek, elfog a borzongÃ¡s.}
+{312}{}{Szerintetek el akarja rettenteni a nÃ©pet?}
+{313}{}{Szerintem a n? pont rÃ¡mnÃ©zett...}
+{314}{}{Ãšgy nÃ©zett rÃ¡m, hogy majd meg haltam. Na, Ã©n lÃ©ptem.}
+{315}{}{Azt mondjÃ¡k, csak tegnap hÃ¡rom ver?embert l?tt agyon.}
+{316}{}{SzÃ©p a feneke... Ãºgy Ã©rtem, fene kemÃ©ny egy alak.}
+{320}{}{Mi a fene van, hogy Ã­gy megszaporodtak a hajcsÃ¡rok errefelÃ©?}
+{321}{}{Ezt a hajcsÃ¡rt nem lÃ¡ttam itt korÃ¡bban...}
+{322}{}{KivÃ¡ncsi vagyok, hogy a hajcsÃ¡r az IstÃ¡llÃ³khoz ment-e...}
+{323}{}{KivÃ¡ncsi vagyok, a hajcsÃ¡rnak van-e Ã¡ruja...}
+{324}{}{Az IstÃ¡llÃ³khoz indultÃ¡l, hajcsÃ¡r?}
+{325}{}{Na, egy ÃšJABB hajcsÃ¡r! Mordino biztos felfedezett egy Ãºjabb aranybÃ¡nyÃ¡t...}
+{326}{}{A hajcsÃ¡r a GolgotÃ¡n fog kikÃ¶tni.}
+{327}{}{A mÃºlt Ã©jszaka majd meg lehetett pusztulni a GolgotÃ¡rÃ³l jÃ¶v? b?zt?l...}
+{328}{}{Elcseszett hajcsÃ¡rok...}
+{329}{}{Ennyit az Ã©n rohadt szerencsÃ©mr?l...}
+{330}{}{Azt mondjÃ¡k, egy csomÃ³ Ãºj rabszolgÃ¡juk van.}
+{331}{}{Egy csomÃ³ Ãºj rabszolga van a bordÃ©lyban.}
+{332}{}{Biztos jÃ³ munkÃ¡sember... teccikÃ©rteni...}
 {333}{}{A bankra hajtok.}
-{334}{}{Néha még a sok pia is kevés.}
-{335}{}{Franc esne a kaszinói lébecolókba...}
-{336}{}{Nagyszer?, egy újabb sóher.}
-{337}{}{Az egész Ház ellenem volt.}
-{338}{}{A szerencse elpártolt t?lem.}
-{339}{}{Örülök, hogy helyrerakták azt a srácot...}
-{340}{}{Mocskos b?zláda...}
-{341}{}{A hajcsárok úgy flangálnak itt, mintha övék lenne a város...}
-{342}{}{A Ház megkönyörült rajtam.}
-{343}{}{Balszerencse üldöz, rossz szelek fújnak, nagy a baj, nagy a baj...}
-{344}{}{Kezd forrósodni a talaj Renóban, ideje továbbállni.}
-{345}{}{Az a Bishop lány nagyon elkanászodott.}
-{346}{}{Ha az Önmegtartóztatók Szövetsége újból kioktat...}
-{347}{}{Tullyt már megint az árokparton láttam beájulva.}
+{334}{}{NÃ©ha mÃ©g a sok pia is kevÃ©s.}
+{335}{}{Franc esne a kaszinÃ³i lÃ©becolÃ³kba...}
+{336}{}{Nagyszer?, egy Ãºjabb sÃ³her.}
+{337}{}{Az egÃ©sz HÃ¡z ellenem volt.}
+{338}{}{A szerencse elpÃ¡rtolt t?lem.}
+{339}{}{Ã–rÃ¼lÃ¶k, hogy helyreraktÃ¡k azt a srÃ¡cot...}
+{340}{}{Mocskos b?zlÃ¡da...}
+{341}{}{A hajcsÃ¡rok Ãºgy flangÃ¡lnak itt, mintha Ã¶vÃ©k lenne a vÃ¡ros...}
+{342}{}{A HÃ¡z megkÃ¶nyÃ¶rÃ¼lt rajtam.}
+{343}{}{Balszerencse Ã¼ldÃ¶z, rossz szelek fÃºjnak, nagy a baj, nagy a baj...}
+{344}{}{Kezd forrÃ³sodni a talaj RenÃ³ban, ideje tovÃ¡bbÃ¡llni.}
+{345}{}{Az a Bishop lÃ¡ny nagyon elkanÃ¡szodott.}
+{346}{}{Ha az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge ÃºjbÃ³l kioktat...}
+{347}{}{Tullyt mÃ¡r megint az Ã¡rokparton lÃ¡ttam beÃ¡julva.}
 {348}{}{A franc esne azokba a Rejtekbeli mocskokba!}
-{349}{}{El kéne t?nnöm ebb?l a városból.}
-{350}{}{Már megint láttam egy túladagoltat. A legyek ki-be röpködtek a száján, közben egyre csak mosolygott.}
-{351}{}{Én MEGPRÓBÁLTAM kiszállni, de...}
-{352}{}{Hajcsár, jobb lesz, ha összeszeded magad ebben a városban...}
-{353}{}{Gy?lölöm ezt az istenverte várost.}
-{354}{}{Túl régóta vagyok ebben a városban.}
-{355}{}{Ez egy remek város... a turistákat leszámítva.}
-{356}{}{Ez egy remek város... a hajcsárokat leszámítva.}
-{357}{}{Ez egy remek város... a striciket és a kurvákat leszámítva.}
-{365}{}{Az a valami ott a nyomodban nem valami pénznyer? automata?}
-{366}{}{Az ott nem egy robot pénznyel? automata?}
-{367}{}{A robotod tud trükköket? Ööö... úgy értem, b?vésztrükköket.}
-{375}{}{Jól látok? Az ott egy mutáns?}
-{376}{}{Az ott egy mutáns?}
-{377}{}{Szentséges fosrakás! Mutánsok New Renóban. Ez bajt jelent.}
-{378}{}{Az a mutáns egy jó nagy kib...}
-{379}{}{Mocskos mutáns-bérenc...}
-{385}{}{A barátodnak farok n?tt az orrába.}
-{386}{}{A csapatodban mindenkinek farkakat kell dugdosni az orrába, hogy bizonyítsa a rátermettségét?}
-{387}{}{Az a fickó a "dugjatok-farkat-a-cserpákomba" törzsb?l származik?}
-{388}{}{Az a farokorrú fickó azt akarja bebizonyítani, hogy soha nem akar civilizált ember lenni?}
-{389}{}{Annak a fickónak farok van az orrában?}
-{390}{}{Annak a fickónak akkora a farok van az orrában, mint a karom. Te jószagúúú...}
-{391}{}{Nem akarom tudni, hogy az a farok milyen módon került a barátod orrába.}
-{392}{}{Nagyszer?! Már megint egy ungabunga szartaposó.}
-{393}{}{Mégis hány barlanglakó akar még ebbe a városba jönni?}
-{394}{}{Na, egy újabb f?eml?s.}
-{395}{}{A srác a Golgotán fog kikötni.}
-{396}{}{A múlt éjszaka majd meg lehetett pusztulni a Golgotáról jöv? b?zt?l...}
-{397}{}{Gyökér turisták...}
-{398}{}{Ennyit az én rohadt szerencsémr?l...}
-{399}{}{Azt mondják, egy csomó új rabszolgájuk van.}
-{400}{}{Biztos jó munkásember... teccikérteni...}
+{349}{}{El kÃ©ne t?nnÃ¶m ebb?l a vÃ¡rosbÃ³l.}
+{350}{}{MÃ¡r megint lÃ¡ttam egy tÃºladagoltat. A legyek ki-be rÃ¶pkÃ¶dtek a szÃ¡jÃ¡n, kÃ¶zben egyre csak mosolygott.}
+{351}{}{Ã‰n MEGPRÃ“BÃLTAM kiszÃ¡llni, de...}
+{352}{}{HajcsÃ¡r, jobb lesz, ha Ã¶sszeszeded magad ebben a vÃ¡rosban...}
+{353}{}{Gy?lÃ¶lÃ¶m ezt az istenverte vÃ¡rost.}
+{354}{}{TÃºl rÃ©gÃ³ta vagyok ebben a vÃ¡rosban.}
+{355}{}{Ez egy remek vÃ¡ros... a turistÃ¡kat leszÃ¡mÃ­tva.}
+{356}{}{Ez egy remek vÃ¡ros... a hajcsÃ¡rokat leszÃ¡mÃ­tva.}
+{357}{}{Ez egy remek vÃ¡ros... a striciket Ã©s a kurvÃ¡kat leszÃ¡mÃ­tva.}
+{365}{}{Az a valami ott a nyomodban nem valami pÃ©nznyer? automata?}
+{366}{}{Az ott nem egy robot pÃ©nznyel? automata?}
+{367}{}{A robotod tud trÃ¼kkÃ¶ket? Ã–Ã¶Ã¶... Ãºgy Ã©rtem, b?vÃ©sztrÃ¼kkÃ¶ket.}
+{375}{}{JÃ³l lÃ¡tok? Az ott egy mutÃ¡ns?}
+{376}{}{Az ott egy mutÃ¡ns?}
+{377}{}{SzentsÃ©ges fosrakÃ¡s! MutÃ¡nsok New RenÃ³ban. Ez bajt jelent.}
+{378}{}{Az a mutÃ¡ns egy jÃ³ nagy kib...}
+{379}{}{Mocskos mutÃ¡ns-bÃ©renc...}
+{385}{}{A barÃ¡todnak farok n?tt az orrÃ¡ba.}
+{386}{}{A csapatodban mindenkinek farkakat kell dugdosni az orrÃ¡ba, hogy bizonyÃ­tsa a rÃ¡termettsÃ©gÃ©t?}
+{387}{}{Az a fickÃ³ a "dugjatok-farkat-a-cserpÃ¡komba" tÃ¶rzsb?l szÃ¡rmazik?}
+{388}{}{Az a farokorrÃº fickÃ³ azt akarja bebizonyÃ­tani, hogy soha nem akar civilizÃ¡lt ember lenni?}
+{389}{}{Annak a fickÃ³nak farok van az orrÃ¡ban?}
+{390}{}{Annak a fickÃ³nak akkora a farok van az orrÃ¡ban, mint a karom. Te jÃ³szagÃºÃºÃº...}
+{391}{}{Nem akarom tudni, hogy az a farok milyen mÃ³don kerÃ¼lt a barÃ¡tod orrÃ¡ba.}
+{392}{}{Nagyszer?! MÃ¡r megint egy ungabunga szartaposÃ³.}
+{393}{}{MÃ©gis hÃ¡ny barlanglakÃ³ akar mÃ©g ebbe a vÃ¡rosba jÃ¶nni?}
+{394}{}{Na, egy Ãºjabb f?eml?s.}
+{395}{}{A srÃ¡c a GolgotÃ¡n fog kikÃ¶tni.}
+{396}{}{A mÃºlt Ã©jszaka majd meg lehetett pusztulni a GolgotÃ¡rÃ³l jÃ¶v? b?zt?l...}
+{397}{}{GyÃ¶kÃ©r turistÃ¡k...}
+{398}{}{Ennyit az Ã©n rohadt szerencsÃ©mr?l...}
+{399}{}{Azt mondjÃ¡k, egy csomÃ³ Ãºj rabszolgÃ¡juk van.}
+{400}{}{Biztos jÃ³ munkÃ¡sember... teccikÃ©rteni...}
 {401}{}{A bankra hajtok.}
-{402}{}{Néha még a sok pia is kevés.}
-{403}{}{Franc esne a kaszinói lébecolókba...}
-{404}{}{Az egész Ház ellenem volt.}
-{405}{}{A szerencse elpártolt t?lem.}
-{406}{}{Örülök, hogy helyrerakták azt a srácot...}
-{407}{}{Mocskos b?zláda...}
-{408}{}{A Ház megkönyörült rajtam.}
-{409}{}{Balszerencse üldöz, rossz szelek fújnak, nagy a baj, nagy a baj...}
-{410}{}{Kezd forrósodni a talaj Renóban, ideje továbbállni.}
-{411}{}{Az a Bishop lány nagyon elkanászodott.}
-{412}{}{Ha az Önmegtartóztatók Szövetsége újból kioktat...}
-{413}{}{Tullyt már megint az árokparton láttam beájulva.}
-{414}{}{Rohadt füves!}
-{415}{}{Az ott nem idevalósi.}
-{416}{}{El kéne t?nnöm ebb?l a városból.}
-{417}{}{Már megint láttam egy túladagoltat. A legyek ki-be röpködtek a száján, közben egyre csak mosolygott.}
-{418}{}{Én MEGPRÓBÁLTAM kiszállni, de...}
-{419}{}{Minek ez a nagy követel?zés?}
-{420}{}{Gy?lölöm ezt az istenverte várost.}
-{421}{}{Túl régóta vagyok ebben a városban.}
-{422}{}{Ez egy remek város... a turistákat leszámítva.}
-{423}{}{Ez egy remek város... a hajcsárokat leszámítva.}
-{424}{}{Ez egy remek város... a striciket és a kurvákat leszámítva.}
+{402}{}{NÃ©ha mÃ©g a sok pia is kevÃ©s.}
+{403}{}{Franc esne a kaszinÃ³i lÃ©becolÃ³kba...}
+{404}{}{Az egÃ©sz HÃ¡z ellenem volt.}
+{405}{}{A szerencse elpÃ¡rtolt t?lem.}
+{406}{}{Ã–rÃ¼lÃ¶k, hogy helyreraktÃ¡k azt a srÃ¡cot...}
+{407}{}{Mocskos b?zlÃ¡da...}
+{408}{}{A HÃ¡z megkÃ¶nyÃ¶rÃ¼lt rajtam.}
+{409}{}{Balszerencse Ã¼ldÃ¶z, rossz szelek fÃºjnak, nagy a baj, nagy a baj...}
+{410}{}{Kezd forrÃ³sodni a talaj RenÃ³ban, ideje tovÃ¡bbÃ¡llni.}
+{411}{}{Az a Bishop lÃ¡ny nagyon elkanÃ¡szodott.}
+{412}{}{Ha az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge ÃºjbÃ³l kioktat...}
+{413}{}{Tullyt mÃ¡r megint az Ã¡rokparton lÃ¡ttam beÃ¡julva.}
+{414}{}{Rohadt fÃ¼ves!}
+{415}{}{Az ott nem idevalÃ³si.}
+{416}{}{El kÃ©ne t?nnÃ¶m ebb?l a vÃ¡rosbÃ³l.}
+{417}{}{MÃ¡r megint lÃ¡ttam egy tÃºladagoltat. A legyek ki-be rÃ¶pkÃ¶dtek a szÃ¡jÃ¡n, kÃ¶zben egyre csak mosolygott.}
+{418}{}{Ã‰n MEGPRÃ“BÃLTAM kiszÃ¡llni, de...}
+{419}{}{Minek ez a nagy kÃ¶vetel?zÃ©s?}
+{420}{}{Gy?lÃ¶lÃ¶m ezt az istenverte vÃ¡rost.}
+{421}{}{TÃºl rÃ©gÃ³ta vagyok ebben a vÃ¡rosban.}
+{422}{}{Ez egy remek vÃ¡ros... a turistÃ¡kat leszÃ¡mÃ­tva.}
+{423}{}{Ez egy remek vÃ¡ros... a hajcsÃ¡rokat leszÃ¡mÃ­tva.}
+{424}{}{Ez egy remek vÃ¡ros... a striciket Ã©s a kurvÃ¡kat leszÃ¡mÃ­tva.}
 {425}{}{Nem adod el az asszonyodat?}
-{426}{}{Mennyiért adod a n?det?}
+{426}{}{MennyiÃ©rt adod a n?det?}
 {427}{}{Nagyon csinos a n?d.}
 {428}{}{Tud f?zni az asszonyod? Ha igen, magammal viszem.}
-{429}{}{Mennyit kérsz azért a csajsziért?}
-{430}{}{Nézzétek, megjött a placc új f?nöke.}
-{431}{}{Ma éjszaka valami akcióra vágyom!}
-{432}{}{Mrs. Bishopnak aztán csinos popsija van.}
-{450}{}{Mrs. Bishopnak aztán csinos popsija van.}
-{451}{}{Ha az Önmegtartóztatók Szövetsége újból kioktat...}
-{452}{}{Nagyszer?! Már megint egy ungabunga szartaposó.}
-{453}{}{Mégis hány barlanglakó akar még ebbe a városba jönni?}
-{454}{}{Na, egy újabb f?eml?s.}
-{455}{}{A vadember a Golgotán fog kikötni.}
-{456}{}{A múlt éjszaka majd meg lehetett pusztulni a Golgotáról jöv? b?zt?l...}
-{457}{}{Utolsó kis csíra...}
-{458}{}{Gyökér turisták...}
-{459}{}{Ennyit az én rohadt szerencsémr?l...}
-{460}{}{Azt mondják, egy csomó új rabszolgájuk van.}
-{461}{}{Biztos jó munkásember... teccikérteni...}
+{429}{}{Mennyit kÃ©rsz azÃ©rt a csajsziÃ©rt?}
+{430}{}{NÃ©zzÃ©tek, megjÃ¶tt a placc Ãºj f?nÃ¶ke.}
+{431}{}{Ma Ã©jszaka valami akciÃ³ra vÃ¡gyom!}
+{432}{}{Mrs. Bishopnak aztÃ¡n csinos popsija van.}
+{450}{}{Mrs. Bishopnak aztÃ¡n csinos popsija van.}
+{451}{}{Ha az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge ÃºjbÃ³l kioktat...}
+{452}{}{Nagyszer?! MÃ¡r megint egy ungabunga szartaposÃ³.}
+{453}{}{MÃ©gis hÃ¡ny barlanglakÃ³ akar mÃ©g ebbe a vÃ¡rosba jÃ¶nni?}
+{454}{}{Na, egy Ãºjabb f?eml?s.}
+{455}{}{A vadember a GolgotÃ¡n fog kikÃ¶tni.}
+{456}{}{A mÃºlt Ã©jszaka majd meg lehetett pusztulni a GolgotÃ¡rÃ³l jÃ¶v? b?zt?l...}
+{457}{}{UtolsÃ³ kis csÃ­ra...}
+{458}{}{GyÃ¶kÃ©r turistÃ¡k...}
+{459}{}{Ennyit az Ã©n rohadt szerencsÃ©mr?l...}
+{460}{}{Azt mondjÃ¡k, egy csomÃ³ Ãºj rabszolgÃ¡juk van.}
+{461}{}{Biztos jÃ³ munkÃ¡sember... teccikÃ©rteni...}
 {462}{}{A bankra hajtok.}
-{463}{}{Néha még a sok pia is kevés.}
-{464}{}{Franc esne a kaszinói lébecolókba...}
-{465}{}{Nagyszer?, egy újabb sóher.}
-{466}{}{Az egész Ház ellenem volt.}
-{467}{}{A szerencse elpártolt t?lem.}
-{468}{}{Örülök, hogy helyrerakták azt a srácot...}
-{469}{}{Mocskos b?zláda...}
-{470}{}{A Ház megkönyörült rajtam.}
-{471}{}{Balszerencse üldöz, rossz szelek fújnak, nagy a baj, nagy a baj...}
-{472}{}{Kezd forrósodni a talaj Renóban, ideje továbbállni.}
-{473}{}{Az a Bishop lány nagyon elkanászodott.}
-{474}{}{Tullyt már megint az árokparton láttam beájulva.}
-{475}{}{Rohadt füves!}
-{476}{}{Az ott nem idevalósi.}
-{477}{}{El kéne t?nnöm ebb?l a városból.}
-{478}{}{Már megint láttam egy túladagoltat. A legyek ki-be röpködtek a száján, közben egyre csak mosolygott.}
-{479}{}{Én MEGPRÓBÁLTAM kiszállni, de...}
-{480}{}{Minek ez a nagy követel?zés?}
-{481}{}{Gy?lölöm ezt az istenverte várost.}
-{482}{}{Túl régóta vagyok ebben a városban.}
-{483}{}{Ez egy remek város... a turistákat leszámítva.}
-{484}{}{Ez egy remek város... a hajcsárokat leszámítva.}
-{485}{}{Ez egy remek város... a striciket és a kurvákat leszámítva.}
-{486}{}{Ki kéne mennem a külvárosba megnézni, vannak-e új férfiak...}
-{487}{}{Ha az Önmegtartóztatók Szövetsége újból kioktat...}
-{490}{}{Nem semmi, hogy felperzselted azokat az Enklávés barmokat! Nem semmi!}
-{491}{}{Mindig tudtam, hogy az Elnök mindannyiunkat ki akar nyírni.}
-{492}{}{Elnök még élt? Mikor is volt az utolsó választás?}
-{493}{}{Király, hogy lezúztad az Enklávét.}
-{494}{}{Soha nem volt bajom az Enklávéval, de jobb, hogy végük.}
-{495}{}{Nem hiszem el, hogy az Enklávé ennyi id? után még mindig a háborúskodással foglalkozott. Idióták.}
-{496}{}{Érzem, hogy valami háborog... mintha több száz gonosz pöcsfej kiáltott volna fel végs? kétségbeesésében egy olajfúrótornyon, aztán néma csend lett. Különös.}
-{497}{}{Gratula, hogy letapostad az Enklávét, }
-{498}{}{Ezt a játékot a Z bet?nek köszönhetjük.}
-{499}{}{Hiányzik Tim Cain. Csodás cipókat sütött régen. Aztán elfenekelt bennünket, mint a gyerekeket.}
-{500}{}{Igen, igen, én is Avatar vagyok.}
-{501}{}{New Renót Chris Avellone és Tom French tervezte. Azt rebesgetik, hamarosan megn?sülnek.}
-{502}{}{Feargus, amikor meglátta, mennyi felúszó szövegem van, a homlokát ráncolta. Mellesleg Bassman is húzta a száját.}
-{503}{}{A lehetséges 208-ból 192 pontot szereztél. A mutálódott lábujjat használnod kellett volna Horrigan-en.}
-{510}{}{Robi testvéredet keresed? Tudod, a Robot... na mindegy, hagyjuk.}
-{511}{}{Bocsánat, hogy útban voltam! Elhúzok inkább a városból.}
-{512}{}{Bocsánat, hogy elszívtam ön el?l a leveg?t! Rögvest abbahagyom.}
-{513}{}{::Kopogtat a páncélodon:: Van valaki odabenn?}
-{514}{}{"Veszélyben a Robinson család! Veszélyben a Robinson család!" Hehe... ööö... csak vicceltem.}
-{515}{}{Kiráááály ez a páncél! Van benne légkondi?}
+{463}{}{NÃ©ha mÃ©g a sok pia is kevÃ©s.}
+{464}{}{Franc esne a kaszinÃ³i lÃ©becolÃ³kba...}
+{465}{}{Nagyszer?, egy Ãºjabb sÃ³her.}
+{466}{}{Az egÃ©sz HÃ¡z ellenem volt.}
+{467}{}{A szerencse elpÃ¡rtolt t?lem.}
+{468}{}{Ã–rÃ¼lÃ¶k, hogy helyreraktÃ¡k azt a srÃ¡cot...}
+{469}{}{Mocskos b?zlÃ¡da...}
+{470}{}{A HÃ¡z megkÃ¶nyÃ¶rÃ¼lt rajtam.}
+{471}{}{Balszerencse Ã¼ldÃ¶z, rossz szelek fÃºjnak, nagy a baj, nagy a baj...}
+{472}{}{Kezd forrÃ³sodni a talaj RenÃ³ban, ideje tovÃ¡bbÃ¡llni.}
+{473}{}{Az a Bishop lÃ¡ny nagyon elkanÃ¡szodott.}
+{474}{}{Tullyt mÃ¡r megint az Ã¡rokparton lÃ¡ttam beÃ¡julva.}
+{475}{}{Rohadt fÃ¼ves!}
+{476}{}{Az ott nem idevalÃ³si.}
+{477}{}{El kÃ©ne t?nnÃ¶m ebb?l a vÃ¡rosbÃ³l.}
+{478}{}{MÃ¡r megint lÃ¡ttam egy tÃºladagoltat. A legyek ki-be rÃ¶pkÃ¶dtek a szÃ¡jÃ¡n, kÃ¶zben egyre csak mosolygott.}
+{479}{}{Ã‰n MEGPRÃ“BÃLTAM kiszÃ¡llni, de...}
+{480}{}{Minek ez a nagy kÃ¶vetel?zÃ©s?}
+{481}{}{Gy?lÃ¶lÃ¶m ezt az istenverte vÃ¡rost.}
+{482}{}{TÃºl rÃ©gÃ³ta vagyok ebben a vÃ¡rosban.}
+{483}{}{Ez egy remek vÃ¡ros... a turistÃ¡kat leszÃ¡mÃ­tva.}
+{484}{}{Ez egy remek vÃ¡ros... a hajcsÃ¡rokat leszÃ¡mÃ­tva.}
+{485}{}{Ez egy remek vÃ¡ros... a striciket Ã©s a kurvÃ¡kat leszÃ¡mÃ­tva.}
+{486}{}{Ki kÃ©ne mennem a kÃ¼lvÃ¡rosba megnÃ©zni, vannak-e Ãºj fÃ©rfiak...}
+{487}{}{Ha az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge ÃºjbÃ³l kioktat...}
+{490}{}{Nem semmi, hogy felperzselted azokat az EnklÃ¡vÃ©s barmokat! Nem semmi!}
+{491}{}{Mindig tudtam, hogy az ElnÃ¶k mindannyiunkat ki akar nyÃ­rni.}
+{492}{}{ElnÃ¶k mÃ©g Ã©lt? Mikor is volt az utolsÃ³ vÃ¡lasztÃ¡s?}
+{493}{}{KirÃ¡ly, hogy lezÃºztad az EnklÃ¡vÃ©t.}
+{494}{}{Soha nem volt bajom az EnklÃ¡vÃ©val, de jobb, hogy vÃ©gÃ¼k.}
+{495}{}{Nem hiszem el, hogy az EnklÃ¡vÃ© ennyi id? utÃ¡n mÃ©g mindig a hÃ¡borÃºskodÃ¡ssal foglalkozott. IdiÃ³tÃ¡k.}
+{496}{}{Ã‰rzem, hogy valami hÃ¡borog... mintha tÃ¶bb szÃ¡z gonosz pÃ¶csfej kiÃ¡ltott volna fel vÃ©gs? kÃ©tsÃ©gbeesÃ©sÃ©ben egy olajfÃºrÃ³tornyon, aztÃ¡n nÃ©ma csend lett. KÃ¼lÃ¶nÃ¶s.}
+{497}{}{Gratula, hogy letapostad az EnklÃ¡vÃ©t, }
+{498}{}{Ezt a jÃ¡tÃ©kot a Z bet?nek kÃ¶szÃ¶nhetjÃ¼k.}
+{499}{}{HiÃ¡nyzik Tim Cain. CsodÃ¡s cipÃ³kat sÃ¼tÃ¶tt rÃ©gen. AztÃ¡n elfenekelt bennÃ¼nket, mint a gyerekeket.}
+{500}{}{Igen, igen, Ã©n is Avatar vagyok.}
+{501}{}{New RenÃ³t Chris Avellone Ã©s Tom French tervezte. Azt rebesgetik, hamarosan megn?sÃ¼lnek.}
+{502}{}{Feargus, amikor meglÃ¡tta, mennyi felÃºszÃ³ szÃ¶vegem van, a homlokÃ¡t rÃ¡ncolta. Mellesleg Bassman is hÃºzta a szÃ¡jÃ¡t.}
+{503}{}{A lehetsÃ©ges 208-bÃ³l 192 pontot szereztÃ©l. A mutÃ¡lÃ³dott lÃ¡bujjat hasznÃ¡lnod kellett volna Horrigan-en.}
+{510}{}{Robi testvÃ©redet keresed? Tudod, a Robot... na mindegy, hagyjuk.}
+{511}{}{BocsÃ¡nat, hogy Ãºtban voltam! ElhÃºzok inkÃ¡bb a vÃ¡rosbÃ³l.}
+{512}{}{BocsÃ¡nat, hogy elszÃ­vtam Ã¶n el?l a leveg?t! RÃ¶gvest abbahagyom.}
+{513}{}{::Kopogtat a pÃ¡ncÃ©lodon:: Van valaki odabenn?}
+{514}{}{"VeszÃ©lyben a Robinson csalÃ¡d! VeszÃ©lyben a Robinson csalÃ¡d!" Hehe... Ã¶Ã¶Ã¶... csak vicceltem.}
+{515}{}{KirÃ¡Ã¡Ã¡Ã¡ly ez a pÃ¡ncÃ©l! Van benne lÃ©gkondi?}
 {516}{}{Nincs meleg odabenn?}
-{517}{}{Elhagytad a szíved, bádogember?}
-{518}{}{Öö, üdv, uram... vagy hölgyem... vagy vakármi van odabenn.}
-{519}{}{Nincs semmi gond, uram... hölgyem... ööö, vagy akármi is legyen?}
-{520}{}{Te valami új sétáló játékautomata vagy?}
-{521}{}{Te nem valamelyik újonann kijött játékkonzol vagy?}
-{522}{}{Nem, nem fogom megolajozni az eresztékeidet!}
-{523}{}{Úgy nézel ki, mint aki egy csatarobotokat felvonultató PC-s játékba indult, de eltévedt útközben.}
-{524}{}{Persze, persze, jó "csitt-csatt, dirr-durr"-t kívánok neked is...}
-{525}{}{Ha azt hiszed, hogy meg tudsz félemlíteni azzal a páncéllal... akkor igazad van.}
-{540}{}{Árulsz valamit?}
-{541}{}{Megvehetem az öltözéked? Úgy értem, most azonnal.}
-{542}{}{TUDTAM, hogy borotválkoznom kellett volna reggel.}
-{543}{}{Gyere, beszélgessünk már, tündibündi!}
-{544}{}{Gyere, tündérke...sétáljunk egyet!}
-{545}{}{Ügyes kis buksza vagy, mi?}
-{546}{}{A kedvedért megfürdenék.}
-{547}{}{Itt van a te különbejáratú aranybányád.}
-{548}{}{Ezek aztán mutatós lábak...}
-{549}{}{Táncolsz ma este?}
-{550}{}{Elnézést, el kell mennem a mosdóba, és ööö... egy kicsit meg kell fésülködnöm.}
-{551}{}{Szeretnék a bugyid lenni.}
-{552}{}{Hát megszagolnám a sortodat...}
-{553}{}{Nagyon dögös egy csajszi vagy ám.}
-{554}{}{Javíts ki, ha tévednék, de nem akarsz megcsókolni?}
-{555}{}{Francba. Micsoda ívek... addig bámulom, míg kisodródok.}
-{556}{}{Tudod mi állna jól rajtad? Én.}
-{557}{}{Lehet, hogy a bugyid nem a legjobb dolog a világon, de nem sok választ el t?le.}
-{558}{}{Szép didkók!}
+{517}{}{Elhagytad a szÃ­ved, bÃ¡dogember?}
+{518}{}{Ã–Ã¶, Ã¼dv, uram... vagy hÃ¶lgyem... vagy vakÃ¡rmi van odabenn.}
+{519}{}{Nincs semmi gond, uram... hÃ¶lgyem... Ã¶Ã¶Ã¶, vagy akÃ¡rmi is legyen?}
+{520}{}{Te valami Ãºj sÃ©tÃ¡lÃ³ jÃ¡tÃ©kautomata vagy?}
+{521}{}{Te nem valamelyik Ãºjonann kijÃ¶tt jÃ¡tÃ©kkonzol vagy?}
+{522}{}{Nem, nem fogom megolajozni az eresztÃ©keidet!}
+{523}{}{Ãšgy nÃ©zel ki, mint aki egy csatarobotokat felvonultatÃ³ PC-s jÃ¡tÃ©kba indult, de eltÃ©vedt ÃºtkÃ¶zben.}
+{524}{}{Persze, persze, jÃ³ "csitt-csatt, dirr-durr"-t kÃ­vÃ¡nok neked is...}
+{525}{}{Ha azt hiszed, hogy meg tudsz fÃ©lemlÃ­teni azzal a pÃ¡ncÃ©llal... akkor igazad van.}
+{540}{}{Ãrulsz valamit?}
+{541}{}{Megvehetem az Ã¶ltÃ¶zÃ©ked? Ãšgy Ã©rtem, most azonnal.}
+{542}{}{TUDTAM, hogy borotvÃ¡lkoznom kellett volna reggel.}
+{543}{}{Gyere, beszÃ©lgessÃ¼nk mÃ¡r, tÃ¼ndibÃ¼ndi!}
+{544}{}{Gyere, tÃ¼ndÃ©rke...sÃ©tÃ¡ljunk egyet!}
+{545}{}{Ãœgyes kis buksza vagy, mi?}
+{546}{}{A kedvedÃ©rt megfÃ¼rdenÃ©k.}
+{547}{}{Itt van a te kÃ¼lÃ¶nbejÃ¡ratÃº aranybÃ¡nyÃ¡d.}
+{548}{}{Ezek aztÃ¡n mutatÃ³s lÃ¡bak...}
+{549}{}{TÃ¡ncolsz ma este?}
+{550}{}{ElnÃ©zÃ©st, el kell mennem a mosdÃ³ba, Ã©s Ã¶Ã¶Ã¶... egy kicsit meg kell fÃ©sÃ¼lkÃ¶dnÃ¶m.}
+{551}{}{SzeretnÃ©k a bugyid lenni.}
+{552}{}{HÃ¡t megszagolnÃ¡m a sortodat...}
+{553}{}{Nagyon dÃ¶gÃ¶s egy csajszi vagy Ã¡m.}
+{554}{}{JavÃ­ts ki, ha tÃ©vednÃ©k, de nem akarsz megcsÃ³kolni?}
+{555}{}{Francba. Micsoda Ã­vek... addig bÃ¡mulom, mÃ­g kisodrÃ³dok.}
+{556}{}{Tudod mi Ã¡llna jÃ³l rajtad? Ã‰n.}
+{557}{}{Lehet, hogy a bugyid nem a legjobb dolog a vilÃ¡gon, de nem sok vÃ¡laszt el t?le.}
+{558}{}{SzÃ©p didkÃ³k!}
 {559}{}{Csinos cicik!}
-{560}{}{A lökhárítódról tuti lepattannék!}
-{561}{}{Nem fáj a hátad?}
-{580}{}{Üdvözöljük, uram. Hogy van?}
+{560}{}{A lÃ¶khÃ¡rÃ­tÃ³drÃ³l tuti lepattannÃ©k!}
+{561}{}{Nem fÃ¡j a hÃ¡tad?}
+{580}{}{ÃœdvÃ¶zÃ¶ljÃ¼k, uram. Hogy van?}
 {581}{}{Nincs semmi gond, uram?}
-{582}{}{Bocsánat, hogy útban voltam! Elhúzok inkább a városból.}
-{583}{}{Bocsánat, hogy elszívtam ön el?l a leveg?t! Rögvest abbahagyom.}
-{584}{}{Adja át az üdvözletem a f?nökének!}
-{585}{}{Kérem... távol áll t?lem, hogy balhézzak.}
-{586}{}{Üdvözöljük, hölgyem. Hogy van?}
-{587}{}{Nincs semmi gond, hölgyem?}
-{600}{}{Mi a fene van, hogy így megszaporodtak a hajcsárok errefelé?}
-{601}{}{Ezt a hajcsárt nem láttam itt korábban...}
-{602}{}{Ha rabszolgákat akarsz eladni, próbálkozz a Mordino családdal!}
-{603}{}{Az Istállókhoz indultál? A rabszolgák többségét ott tartják.}
-{604}{}{Mutasd az árudat!}
-{605}{}{Ha rabszolgákat akarsz eladni, ugorj be a Mordino családhoz!}
-{606}{}{Gy?lölöm ezt az istenverte várost.}
-{607}{}{Túl régóta vagyok ebben a városban.}
-{608}{}{Ez egy remek város... a turistákat leszámítva.}
-{609}{}{Ez egy remek város... a hajcsárokat leszámítva.}
-{610}{}{Ez egy remek város... a striciket és a kurvákat leszámítva.}
+{582}{}{BocsÃ¡nat, hogy Ãºtban voltam! ElhÃºzok inkÃ¡bb a vÃ¡rosbÃ³l.}
+{583}{}{BocsÃ¡nat, hogy elszÃ­vtam Ã¶n el?l a leveg?t! RÃ¶gvest abbahagyom.}
+{584}{}{Adja Ã¡t az Ã¼dvÃ¶zletem a f?nÃ¶kÃ©nek!}
+{585}{}{KÃ©rem... tÃ¡vol Ã¡ll t?lem, hogy balhÃ©zzak.}
+{586}{}{ÃœdvÃ¶zÃ¶ljÃ¼k, hÃ¶lgyem. Hogy van?}
+{587}{}{Nincs semmi gond, hÃ¶lgyem?}
+{600}{}{Mi a fene van, hogy Ã­gy megszaporodtak a hajcsÃ¡rok errefelÃ©?}
+{601}{}{Ezt a hajcsÃ¡rt nem lÃ¡ttam itt korÃ¡bban...}
+{602}{}{Ha rabszolgÃ¡kat akarsz eladni, prÃ³bÃ¡lkozz a Mordino csalÃ¡ddal!}
+{603}{}{Az IstÃ¡llÃ³khoz indultÃ¡l? A rabszolgÃ¡k tÃ¶bbsÃ©gÃ©t ott tartjÃ¡k.}
+{604}{}{Mutasd az Ã¡rudat!}
+{605}{}{Ha rabszolgÃ¡kat akarsz eladni, ugorj be a Mordino csalÃ¡dhoz!}
+{606}{}{Gy?lÃ¶lÃ¶m ezt az istenverte vÃ¡rost.}
+{607}{}{TÃºl rÃ©gÃ³ta vagyok ebben a vÃ¡rosban.}
+{608}{}{Ez egy remek vÃ¡ros... a turistÃ¡kat leszÃ¡mÃ­tva.}
+{609}{}{Ez egy remek vÃ¡ros... a hajcsÃ¡rokat leszÃ¡mÃ­tva.}
+{610}{}{Ez egy remek vÃ¡ros... a striciket Ã©s a kurvÃ¡kat leszÃ¡mÃ­tva.}
 {611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
-{612}{}{A Golgota a sivatagban van, délre Renótól.}
-{613}{}{Lehet, hogy szegény vagyok, de nem lélekben.}
-{614}{}{Nem vagyok szegény, csak rohadtul balszerencsés.}
-{615}{}{A múlt éjszaka majd meg lehetett pusztulni a Golgotáról jöv? b?zt?l...}
-{616}{}{A büdös életbe! Már 53 dolcsinál tartottam, amikor...}
-{617}{}{Jobban teszed, ha vigyázol magadra errefelé, különben a Golgotán fogsz kikötni.}
+{612}{}{A Golgota a sivatagban van, dÃ©lre RenÃ³tÃ³l.}
+{613}{}{Lehet, hogy szegÃ©ny vagyok, de nem lÃ©lekben.}
+{614}{}{Nem vagyok szegÃ©ny, csak rohadtul balszerencsÃ©s.}
+{615}{}{A mÃºlt Ã©jszaka majd meg lehetett pusztulni a GolgotÃ¡rÃ³l jÃ¶v? b?zt?l...}
+{616}{}{A bÃ¼dÃ¶s Ã©letbe! MÃ¡r 53 dolcsinÃ¡l tartottam, amikor...}
+{617}{}{Jobban teszed, ha vigyÃ¡zol magadra errefelÃ©, kÃ¼lÃ¶nben a GolgotÃ¡n fogsz kikÃ¶tni.}
 {618}{}{New Reno nem lenne olyan rossz hely, ha nem volna az a sok elcseszett turista.}
-{619}{}{Biztos jó munkásember... teccikérteni...}
+{619}{}{Biztos jÃ³ munkÃ¡sember... teccikÃ©rteni...}
 {620}{}{A bankra hajtok.}
-{621}{}{Néha még a sok pia is kevés.}
-{622}{}{Franc esne a kaszinói lébecolókba...}
-{623}{}{Azt nevezzük sóhernek, aki bejön ide, és egy vagy két dollárba fogad az asztaloknál.}
-{624}{}{Az egész Ház ellenem volt.}
-{625}{}{A szerencse elpártolt t?lem.}
-{626}{}{Örülök, hogy helyrerakták azt a srácot...}
-{627}{}{Mocskos b?zláda...}
+{621}{}{NÃ©ha mÃ©g a sok pia is kevÃ©s.}
+{622}{}{Franc esne a kaszinÃ³i lÃ©becolÃ³kba...}
+{623}{}{Azt nevezzÃ¼k sÃ³hernek, aki bejÃ¶n ide, Ã©s egy vagy kÃ©t dollÃ¡rba fogad az asztaloknÃ¡l.}
+{624}{}{Az egÃ©sz HÃ¡z ellenem volt.}
+{625}{}{A szerencse elpÃ¡rtolt t?lem.}
+{626}{}{Ã–rÃ¼lÃ¶k, hogy helyreraktÃ¡k azt a srÃ¡cot...}
+{627}{}{Mocskos b?zlÃ¡da...}
 {628}{}{Mit akarsz?}
-{629}{}{Balszerencse üldöz, rossz szelek fújnak, nagy a baj, nagy a baj...}
-{630}{}{Kezd forrósodni a talaj Renóban, ideje továbbállni.}
-{631}{}{Az a Bishop lány nagyon elkanászodott.}
-{632}{}{Ha az Önmegtartóztatók Szövetsége újból kioktat...}
-{633}{}{Tullyt már megint az árokparton láttam beájulva.}
-{634}{}{El kéne t?nnöm ebb?l a városból.}
-{635}{}{Már megint láttam egy túladagoltat. A legyek ki-be röpködtek a száján, közben egyre csak mosolygott.}
-{636}{}{Én MEGPRÓBÁLTAM kiszállni, de...}
-{637}{}{Ne piszkálj!}
-{638}{}{Figyelj, most nincs id?m beszélgetni.}
-{650}{}{A barátodnak farok n?tt az orrába.}
-{651}{}{A csapatodban mindenkinek farkakat kell dugdosni az orrába, hogy bizonyítsa a rátermettségét?}
-{652}{}{Az a fickó a "dugjatok-farkat-a-cserpákomba" törzsb?l származik?}
-{653}{}{Az a farokorrú fickó azt akarja bebizonyítani, hogy soha nem akar civilizált ember lenni?}
-{654}{}{Annak a fickónak farok van az orrában?}
-{655}{}{Annak a fickónak akkora a farok van az orrában, mint a karom. Te jószagúúú...}
-{656}{}{Nem akarom tudni, hogy az a farok milyen módon került a barátod orrába.}
-{657}{}{Gy?lölöm ezt az istenverte várost.}
-{658}{}{Túl régóta vagyok ebben a városban.}
-{659}{}{Ez egy remek város... a turistákat leszámítva.}
-{660}{}{Ez egy remek város... a hajcsárokat leszámítva.}
-{661}{}{Ez egy remek város... a striciket és a kurvákat leszámítva.}
+{629}{}{Balszerencse Ã¼ldÃ¶z, rossz szelek fÃºjnak, nagy a baj, nagy a baj...}
+{630}{}{Kezd forrÃ³sodni a talaj RenÃ³ban, ideje tovÃ¡bbÃ¡llni.}
+{631}{}{Az a Bishop lÃ¡ny nagyon elkanÃ¡szodott.}
+{632}{}{Ha az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge ÃºjbÃ³l kioktat...}
+{633}{}{Tullyt mÃ¡r megint az Ã¡rokparton lÃ¡ttam beÃ¡julva.}
+{634}{}{El kÃ©ne t?nnÃ¶m ebb?l a vÃ¡rosbÃ³l.}
+{635}{}{MÃ¡r megint lÃ¡ttam egy tÃºladagoltat. A legyek ki-be rÃ¶pkÃ¶dtek a szÃ¡jÃ¡n, kÃ¶zben egyre csak mosolygott.}
+{636}{}{Ã‰n MEGPRÃ“BÃLTAM kiszÃ¡llni, de...}
+{637}{}{Ne piszkÃ¡lj!}
+{638}{}{Figyelj, most nincs id?m beszÃ©lgetni.}
+{650}{}{A barÃ¡todnak farok n?tt az orrÃ¡ba.}
+{651}{}{A csapatodban mindenkinek farkakat kell dugdosni az orrÃ¡ba, hogy bizonyÃ­tsa a rÃ¡termettsÃ©gÃ©t?}
+{652}{}{Az a fickÃ³ a "dugjatok-farkat-a-cserpÃ¡komba" tÃ¶rzsb?l szÃ¡rmazik?}
+{653}{}{Az a farokorrÃº fickÃ³ azt akarja bebizonyÃ­tani, hogy soha nem akar civilizÃ¡lt ember lenni?}
+{654}{}{Annak a fickÃ³nak farok van az orrÃ¡ban?}
+{655}{}{Annak a fickÃ³nak akkora a farok van az orrÃ¡ban, mint a karom. Te jÃ³szagÃºÃºÃº...}
+{656}{}{Nem akarom tudni, hogy az a farok milyen mÃ³don kerÃ¼lt a barÃ¡tod orrÃ¡ba.}
+{657}{}{Gy?lÃ¶lÃ¶m ezt az istenverte vÃ¡rost.}
+{658}{}{TÃºl rÃ©gÃ³ta vagyok ebben a vÃ¡rosban.}
+{659}{}{Ez egy remek vÃ¡ros... a turistÃ¡kat leszÃ¡mÃ­tva.}
+{660}{}{Ez egy remek vÃ¡ros... a hajcsÃ¡rokat leszÃ¡mÃ­tva.}
+{661}{}{Ez egy remek vÃ¡ros... a striciket Ã©s a kurvÃ¡kat leszÃ¡mÃ­tva.}
 {662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
-{663}{}{A Golgota a sivatagban van, délre Renótól.}
-{664}{}{Lehet, hogy szegény vagyok, de nem lélekben.}
-{665}{}{Nem vagyok szegény, csak rohadtul balszerencsés.}
-{666}{}{A múlt éjszaka majd meg lehetett pusztulni a Golgotáról jöv? b?zt?l...}
-{667}{}{A büdös életbe! Már 53 dolcsinál tartottam, amikor...}
-{668}{}{Jobban teszed, ha vigyázol magadra errefelé, különben a Golgotán fogsz kikötni.}
+{663}{}{A Golgota a sivatagban van, dÃ©lre RenÃ³tÃ³l.}
+{664}{}{Lehet, hogy szegÃ©ny vagyok, de nem lÃ©lekben.}
+{665}{}{Nem vagyok szegÃ©ny, csak rohadtul balszerencsÃ©s.}
+{666}{}{A mÃºlt Ã©jszaka majd meg lehetett pusztulni a GolgotÃ¡rÃ³l jÃ¶v? b?zt?l...}
+{667}{}{A bÃ¼dÃ¶s Ã©letbe! MÃ¡r 53 dolcsinÃ¡l tartottam, amikor...}
+{668}{}{Jobban teszed, ha vigyÃ¡zol magadra errefelÃ©, kÃ¼lÃ¶nben a GolgotÃ¡n fogsz kikÃ¶tni.}
 {669}{}{New Reno nem lenne olyan rossz hely, ha nem volna az a sok elcseszett turista.}
-{670}{}{Biztos jó munkásember... teccikérteni...}
+{670}{}{Biztos jÃ³ munkÃ¡sember... teccikÃ©rteni...}
 {671}{}{A bankra hajtok.}
-{672}{}{Néha még a sok pia is kevés.}
-{673}{}{Franc esne a kaszinói lébecolókba...}
-{674}{}{Azt nevezzük sóhernek, aki bejön ide, és egy vagy két dollárba fogad az asztaloknál.}
-{675}{}{Az egész Ház ellenem volt.}
-{676}{}{A szerencse elpártolt t?lem.}
-{677}{}{Örülök, hogy helyrerakták azt a srácot...}
-{678}{}{Mocskos b?zláda...}
+{672}{}{NÃ©ha mÃ©g a sok pia is kevÃ©s.}
+{673}{}{Franc esne a kaszinÃ³i lÃ©becolÃ³kba...}
+{674}{}{Azt nevezzÃ¼k sÃ³hernek, aki bejÃ¶n ide, Ã©s egy vagy kÃ©t dollÃ¡rba fogad az asztaloknÃ¡l.}
+{675}{}{Az egÃ©sz HÃ¡z ellenem volt.}
+{676}{}{A szerencse elpÃ¡rtolt t?lem.}
+{677}{}{Ã–rÃ¼lÃ¶k, hogy helyreraktÃ¡k azt a srÃ¡cot...}
+{678}{}{Mocskos b?zlÃ¡da...}
 {679}{}{Mit akarsz?}
-{680}{}{Balszerencse üldöz, rossz szelek fújnak, nagy a baj, nagy a baj...}
-{681}{}{Kezd forrósodni a talaj Renóban, ideje továbbállni.}
-{682}{}{Az a Bishop lány nagyon elkanászodott.}
-{683}{}{Ha az Önmegtartóztatók Szövetsége újból kioktat...}
-{684}{}{Tullyt már megint az árokparton láttam beájulva.}
-{685}{}{El kéne t?nnöm ebb?l a városból.}
-{686}{}{Már megint láttam egy túladagoltat. A legyek ki-be röpködtek a száján, közben egyre csak mosolygott.}
-{687}{}{Én MEGPRÓBÁLTAM kiszállni, de...}
-{688}{}{Ne piszkálj!}
-{689}{}{Figyelj, most nincs id?m beszélgetni.}
-{690}{}{? a "nejed"? Kölcsönkérhetem egy-két órára?}
-{691}{}{Nincs kedved feleséget cserélni?}
+{680}{}{Balszerencse Ã¼ldÃ¶z, rossz szelek fÃºjnak, nagy a baj, nagy a baj...}
+{681}{}{Kezd forrÃ³sodni a talaj RenÃ³ban, ideje tovÃ¡bbÃ¡llni.}
+{682}{}{Az a Bishop lÃ¡ny nagyon elkanÃ¡szodott.}
+{683}{}{Ha az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge ÃºjbÃ³l kioktat...}
+{684}{}{Tullyt mÃ¡r megint az Ã¡rokparton lÃ¡ttam beÃ¡julva.}
+{685}{}{El kÃ©ne t?nnÃ¶m ebb?l a vÃ¡rosbÃ³l.}
+{686}{}{MÃ¡r megint lÃ¡ttam egy tÃºladagoltat. A legyek ki-be rÃ¶pkÃ¶dtek a szÃ¡jÃ¡n, kÃ¶zben egyre csak mosolygott.}
+{687}{}{Ã‰n MEGPRÃ“BÃLTAM kiszÃ¡llni, de...}
+{688}{}{Ne piszkÃ¡lj!}
+{689}{}{Figyelj, most nincs id?m beszÃ©lgetni.}
+{690}{}{? a "nejed"? KÃ¶lcsÃ¶nkÃ©rhetem egy-kÃ©t Ã³rÃ¡ra?}
+{691}{}{Nincs kedved felesÃ©get cserÃ©lni?}
 {692}{}{Nem adod el az asszonyodat?}
-{693}{}{Mennyiért adod a n?det?}
+{693}{}{MennyiÃ©rt adod a n?det?}
 {694}{}{Nagyon csinos a n?d.}
 {695}{}{Tud f?zni az asszonyod? Ha igen, magammal viszem.}
-{696}{}{Mennyit kérsz azért a csajsziért?}
-{697}{}{Mrs. Bishopnak aztán csinos popsija van.}
-{700}{}{Ma éjszaka valami akcióra vágyom!}
-{701}{}{Találj egy kurvát, játszadozz!}
-{702}{}{Mrs. Bishopnak aztán csinos popsija van.}
+{696}{}{Mennyit kÃ©rsz azÃ©rt a csajsziÃ©rt?}
+{697}{}{Mrs. Bishopnak aztÃ¡n csinos popsija van.}
+{700}{}{Ma Ã©jszaka valami akciÃ³ra vÃ¡gyom!}
+{701}{}{TalÃ¡lj egy kurvÃ¡t, jÃ¡tszadozz!}
+{702}{}{Mrs. Bishopnak aztÃ¡n csinos popsija van.}
 {703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
-{704}{}{A Golgota a sivatagban van, délre Renótól.}
-{705}{}{Lehet, hogy szegény vagyok, de nem lélekben.}
-{706}{}{Nem vagyok szegény, csak rohadtul balszerencsés.}
-{707}{}{Mégis hány barlanglakó akar még ebbe a városba jönni?}
-{708}{}{Mondd meg a többi törzsbélinek, hogy maradjanak otthon!}
-{709}{}{Egy újabb f?eml?s? Ti vademberek úgy szaporodtok, mint a sáskák.}
-{710}{}{A múlt éjszaka majd meg lehetett pusztulni a Golgotáról jöv? b?zt?l...}
-{711}{}{A büdös életbe! Már 53 dolcsinál tartottam, amikor...}
-{712}{}{Jobban teszed, ha vigyázol magadra errefelé, különben a Golgotán fogsz kikötni.}
+{704}{}{A Golgota a sivatagban van, dÃ©lre RenÃ³tÃ³l.}
+{705}{}{Lehet, hogy szegÃ©ny vagyok, de nem lÃ©lekben.}
+{706}{}{Nem vagyok szegÃ©ny, csak rohadtul balszerencsÃ©s.}
+{707}{}{MÃ©gis hÃ¡ny barlanglakÃ³ akar mÃ©g ebbe a vÃ¡rosba jÃ¶nni?}
+{708}{}{Mondd meg a tÃ¶bbi tÃ¶rzsbÃ©linek, hogy maradjanak otthon!}
+{709}{}{Egy Ãºjabb f?eml?s? Ti vademberek Ãºgy szaporodtok, mint a sÃ¡skÃ¡k.}
+{710}{}{A mÃºlt Ã©jszaka majd meg lehetett pusztulni a GolgotÃ¡rÃ³l jÃ¶v? b?zt?l...}
+{711}{}{A bÃ¼dÃ¶s Ã©letbe! MÃ¡r 53 dolcsinÃ¡l tartottam, amikor...}
+{712}{}{Jobban teszed, ha vigyÃ¡zol magadra errefelÃ©, kÃ¼lÃ¶nben a GolgotÃ¡n fogsz kikÃ¶tni.}
 {713}{}{New Reno nem lenne olyan rossz hely, ha nem volna az a sok elcseszett turista.}
-{714}{}{Azt mondják, egy csomó új rabszolgájuk van.}
-{715}{}{Egy csomó új rabszolga van a bordélyban.}
-{716}{}{Biztos jó munkásember... teccikérteni...}
+{714}{}{Azt mondjÃ¡k, egy csomÃ³ Ãºj rabszolgÃ¡juk van.}
+{715}{}{Egy csomÃ³ Ãºj rabszolga van a bordÃ©lyban.}
+{716}{}{Biztos jÃ³ munkÃ¡sember... teccikÃ©rteni...}
 {717}{}{A bankra hajtok.}
-{718}{}{Néha még a sok pia is kevés.}
-{719}{}{Franc esne a kaszinói lébecolókba...}
-{720}{}{Azt nevezzük sóhernek, aki bejön ide, és egy vagy két dollárba fogad az asztaloknál.}
-{721}{}{Az egész Ház ellenem volt.}
-{722}{}{A szerencse elpártolt t?lem.}
-{723}{}{Örülök, hogy helyrerakták azt a srácot...}
-{724}{}{Mocskos b?zláda...}
+{718}{}{NÃ©ha mÃ©g a sok pia is kevÃ©s.}
+{719}{}{Franc esne a kaszinÃ³i lÃ©becolÃ³kba...}
+{720}{}{Azt nevezzÃ¼k sÃ³hernek, aki bejÃ¶n ide, Ã©s egy vagy kÃ©t dollÃ¡rba fogad az asztaloknÃ¡l.}
+{721}{}{Az egÃ©sz HÃ¡z ellenem volt.}
+{722}{}{A szerencse elpÃ¡rtolt t?lem.}
+{723}{}{Ã–rÃ¼lÃ¶k, hogy helyreraktÃ¡k azt a srÃ¡cot...}
+{724}{}{Mocskos b?zlÃ¡da...}
 {725}{}{Mit akarsz?}
-{726}{}{Balszerencse üldöz, rossz szelek fújnak, nagy a baj, nagy a baj...}
-{727}{}{Kezd forrósodni a talaj Renóban, ideje továbbállni.}
-{728}{}{Az a Bishop lány nagyon elkanászodott.}
-{729}{}{Ha az Önmegtartóztatók Szövetsége újból kioktat...}
-{730}{}{Tullyt már megint az árokparton láttam beájulva.}
-{731}{}{El kéne t?nnöm ebb?l a városból.}
-{732}{}{Már megint láttam egy túladagoltat. A legyek ki-be röpködtek a száján, közben egyre csak mosolygott.}
-{733}{}{Én MEGPRÓBÁLTAM kiszállni, de...}
-{734}{}{Ne piszkálj!}
-{735}{}{Figyelj, most nincs id?m beszélgetni.}
-{736}{}{Ki kéne mennem a külvárosba megnézni, vannak-e új férfiak...}
-{737}{}{Örülök, hogy helyrerakták azt a srácot...}
+{726}{}{Balszerencse Ã¼ldÃ¶z, rossz szelek fÃºjnak, nagy a baj, nagy a baj...}
+{727}{}{Kezd forrÃ³sodni a talaj RenÃ³ban, ideje tovÃ¡bbÃ¡llni.}
+{728}{}{Az a Bishop lÃ¡ny nagyon elkanÃ¡szodott.}
+{729}{}{Ha az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge ÃºjbÃ³l kioktat...}
+{730}{}{Tullyt mÃ¡r megint az Ã¡rokparton lÃ¡ttam beÃ¡julva.}
+{731}{}{El kÃ©ne t?nnÃ¶m ebb?l a vÃ¡rosbÃ³l.}
+{732}{}{MÃ¡r megint lÃ¡ttam egy tÃºladagoltat. A legyek ki-be rÃ¶pkÃ¶dtek a szÃ¡jÃ¡n, kÃ¶zben egyre csak mosolygott.}
+{733}{}{Ã‰n MEGPRÃ“BÃLTAM kiszÃ¡llni, de...}
+{734}{}{Ne piszkÃ¡lj!}
+{735}{}{Figyelj, most nincs id?m beszÃ©lgetni.}
+{736}{}{Ki kÃ©ne mennem a kÃ¼lvÃ¡rosba megnÃ©zni, vannak-e Ãºj fÃ©rfiak...}
+{737}{}{Ã–rÃ¼lÃ¶k, hogy helyreraktÃ¡k azt a srÃ¡cot...}
 {1203}{}{!}
-{1204}{}{! Király vagy! KIRÁLY vagy, mint Linda!}
+{1204}{}{! KirÃ¡ly vagy! KIRÃLY vagy, mint Linda!}
 {1205}{}{! Annyira TUDSZ!}
 {1493}{}{!}
-{1497}{}{! Király vagy! KIRÁLY vagy, mint Linda!}
+{1497}{}{! KirÃ¡ly vagy! KIRÃLY vagy, mint Linda!}

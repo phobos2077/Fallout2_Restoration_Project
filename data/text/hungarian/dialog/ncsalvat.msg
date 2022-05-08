@@ -1,168 +1,168 @@
-{100}{}{? nem más, mint Louis Salvatore.}
-{150}{}{Egy id?s, jól öltözött úriemberhez van szerencséd. Oxigénpalackot visel, és bizony nehezére esik a lélegzés.}
-{151}{}{? Louis Salvatore. Oxigénpalackot visel, és bizony nehezére esik a lélegzés.}
-{200}{}{*Köhög*}
-{201}{}{::Zihál::}
-{202}{}{*Köhécsel*}
-{210}{}{?rség! ?r... *Köhécsel*... ?rség!}
-{215}{}{(Salvatore k?vé dermedt arccal fordul feléd. Egy röpke pillanatig végigtanulmányoz, aztán fura mozdulatot tesz a kezével. Abban a szent pillanatban beindul a kaszinó riasztója.)}
-{216}{}{Aúúúú! Kapcsolni ki! Fülek fáj! FÜLEK FÁJ!}
-{217}{}{NEM TUD BESZÉLNI NAGY ZAJBA. KAPCSOL KI OSZT BESZÉL!}
-{218}{}{Ki fogom magából vonni a zoxigént, papa! Többet az életben nem lesz gondja a lélegzéssel!}
-{219}{}{Tudtam, hogy el?bb engedélyt kellett volna kérnem...}
-{220}{}{Picsába!}
-{221}{}{Öö, ugye ezzel csak a szobapincért hívta.}
-{230}{}{(Az id?s ember rádnéz. Beesett arcát májfoltok borítják. Légz?maszkot visel, amely az oldaláról lelógó oxigénpalackhoz van csatlakoztatva.) Mit... akarsz t?lem?}
-{231}{}{Én akar... én nem tud mit akar}
-{232}{}{Én akar}
-{233}{}{Én }
+{100}{}{? nem mÃ¡s, mint Louis Salvatore.}
+{150}{}{Egy id?s, jÃ³l Ã¶ltÃ¶zÃ¶tt Ãºriemberhez van szerencsÃ©d. OxigÃ©npalackot visel, Ã©s bizony nehezÃ©re esik a lÃ©legzÃ©s.}
+{151}{}{? Louis Salvatore. OxigÃ©npalackot visel, Ã©s bizony nehezÃ©re esik a lÃ©legzÃ©s.}
+{200}{}{*KÃ¶hÃ¶g*}
+{201}{}{::ZihÃ¡l::}
+{202}{}{*KÃ¶hÃ©csel*}
+{210}{}{?rsÃ©g! ?r... *KÃ¶hÃ©csel*... ?rsÃ©g!}
+{215}{}{(Salvatore k?vÃ© dermedt arccal fordul felÃ©d. Egy rÃ¶pke pillanatig vÃ©gigtanulmÃ¡nyoz, aztÃ¡n fura mozdulatot tesz a kezÃ©vel. Abban a szent pillanatban beindul a kaszinÃ³ riasztÃ³ja.)}
+{216}{}{AÃºÃºÃºÃº! Kapcsolni ki! FÃ¼lek fÃ¡j! FÃœLEK FÃJ!}
+{217}{}{NEM TUD BESZÃ‰LNI NAGY ZAJBA. KAPCSOL KI OSZT BESZÃ‰L!}
+{218}{}{Ki fogom magÃ¡bÃ³l vonni a zoxigÃ©nt, papa! TÃ¶bbet az Ã©letben nem lesz gondja a lÃ©legzÃ©ssel!}
+{219}{}{Tudtam, hogy el?bb engedÃ©lyt kellett volna kÃ©rnem...}
+{220}{}{PicsÃ¡ba!}
+{221}{}{Ã–Ã¶, ugye ezzel csak a szobapincÃ©rt hÃ­vta.}
+{230}{}{(Az id?s ember rÃ¡dnÃ©z. Beesett arcÃ¡t mÃ¡jfoltok borÃ­tjÃ¡k. LÃ©gz?maszkot visel, amely az oldalÃ¡rÃ³l lelÃ³gÃ³ oxigÃ©npalackhoz van csatlakoztatva.) Mit... akarsz t?lem?}
+{231}{}{Ã‰n akar... Ã©n nem tud mit akar}
+{232}{}{Ã‰n akar}
+{233}{}{Ã‰n }
 {234}{}{[Wander off.]}
-{235}{}{Információt hoztam magának.}
-{236}{}{Információt hoztam magának, Mr. Salvatore.}
-{237}{}{Munkát keresek.}
-{238}{}{Mr. Salvatore, magát az erély és korrektség emberének ismeri mindenki. Szeretnék magának dolgozni.}
-{239}{}{Azt akartam tudni, honnan szerzik a fényhozókat.}
-{240}{}{Azt rebesgetik, hogy maguk mérgezték meg Mr. Wright gyerekét. Kérdem én: miért?}
-{241}{}{Azt hiszem, rossz szobába jöttem. Elnézést.}
-{250}{}{Elmondtam, miért kellett meghalnia a gyereknek, viszont ez nem fogja elhagyni a szoba négy falát. (Salvatore különös mozdulatot tesz a kezével, mire az egész kaszinóban beindul a riasztó.)}
-{251}{}{(Salvatore egy röpke pillanatig undorodva méreget, aztán fura mozdulatot tesz a kezével. Abban a pillanatban az egész kaszinó területén megszólal a riasztó.)}
-{254}{}{Ki fogom magából vonni a zoxigént, papa! Többet az életben nem lesz gondja a lélegzéssel!}
-{270}{}{(Vesz egy mély lélegzetet a maszkból, aztán megrázza a fejét.) Nem tudsz te semmit... amit nekem tudnom kéne, }
-{271}{}{Nem emlékszem, hogy bemutatkoztam volna. Honnan tudja a nevem?}
-{272}{}{Öö, oké... Hát az a helyzet, hogy megbízatást keresek.}
-{276}{}{Úgy t?nik, tényleg rossz szobába jöttem. Ha megbocsát...}
-{290}{}{(Csendesen néz rád egy pillanatig. Kérdésed lehet, hogy mulattatja, lehet, hogy bosszantja ?t... nehéz megmondani.) Még mindig itt vagy, }
-{291}{}{Ööö... hmmm. Hát az a helyzet, hogy megbízatást keresek.}
-{305}{}{(Beleszippant az oxigénmaszkba, aztán megereszt egy halovány mosolyt.) Hát... persze... persze. Aztán miért is kéne téged felfogadnom?}
-{306}{}{Hát, miért is ne? Nevezzen meg egy feladatot, én megcsinálom! Keményen tudok dolgozni, és megvan hozzá a képességem, hogy elintézzek dolgokat.}
-{307}{}{A mindenit, azt mondtam volna, hogy munkát keresek? Azt akartam mondani, hogy menni szeretnék.}
-{315}{}{(Beleszippant az oxigénmaszkba, és megereszt egy halovány mosolyt.) Hát... persze. Viszont... szeretnék biztosítékot kapni a megbízhatóságodról. Ami bizonyítja, hogy... elkötelezetten dolgozol nekem.}
+{235}{}{InformÃ¡ciÃ³t hoztam magÃ¡nak.}
+{236}{}{InformÃ¡ciÃ³t hoztam magÃ¡nak, Mr. Salvatore.}
+{237}{}{MunkÃ¡t keresek.}
+{238}{}{Mr. Salvatore, magÃ¡t az erÃ©ly Ã©s korrektsÃ©g emberÃ©nek ismeri mindenki. SzeretnÃ©k magÃ¡nak dolgozni.}
+{239}{}{Azt akartam tudni, honnan szerzik a fÃ©nyhozÃ³kat.}
+{240}{}{Azt rebesgetik, hogy maguk mÃ©rgeztÃ©k meg Mr. Wright gyerekÃ©t. KÃ©rdem Ã©n: miÃ©rt?}
+{241}{}{Azt hiszem, rossz szobÃ¡ba jÃ¶ttem. ElnÃ©zÃ©st.}
+{250}{}{Elmondtam, miÃ©rt kellett meghalnia a gyereknek, viszont ez nem fogja elhagyni a szoba nÃ©gy falÃ¡t. (Salvatore kÃ¼lÃ¶nÃ¶s mozdulatot tesz a kezÃ©vel, mire az egÃ©sz kaszinÃ³ban beindul a riasztÃ³.)}
+{251}{}{(Salvatore egy rÃ¶pke pillanatig undorodva mÃ©reget, aztÃ¡n fura mozdulatot tesz a kezÃ©vel. Abban a pillanatban az egÃ©sz kaszinÃ³ terÃ¼letÃ©n megszÃ³lal a riasztÃ³.)}
+{254}{}{Ki fogom magÃ¡bÃ³l vonni a zoxigÃ©nt, papa! TÃ¶bbet az Ã©letben nem lesz gondja a lÃ©legzÃ©ssel!}
+{270}{}{(Vesz egy mÃ©ly lÃ©legzetet a maszkbÃ³l, aztÃ¡n megrÃ¡zza a fejÃ©t.) Nem tudsz te semmit... amit nekem tudnom kÃ©ne, }
+{271}{}{Nem emlÃ©kszem, hogy bemutatkoztam volna. Honnan tudja a nevem?}
+{272}{}{Ã–Ã¶, okÃ©... HÃ¡t az a helyzet, hogy megbÃ­zatÃ¡st keresek.}
+{276}{}{Ãšgy t?nik, tÃ©nyleg rossz szobÃ¡ba jÃ¶ttem. Ha megbocsÃ¡t...}
+{290}{}{(Csendesen nÃ©z rÃ¡d egy pillanatig. KÃ©rdÃ©sed lehet, hogy mulattatja, lehet, hogy bosszantja ?t... nehÃ©z megmondani.) MÃ©g mindig itt vagy, }
+{291}{}{Ã–Ã¶Ã¶... hmmm. HÃ¡t az a helyzet, hogy megbÃ­zatÃ¡st keresek.}
+{305}{}{(Beleszippant az oxigÃ©nmaszkba, aztÃ¡n megereszt egy halovÃ¡ny mosolyt.) HÃ¡t... persze... persze. AztÃ¡n miÃ©rt is kÃ©ne tÃ©ged felfogadnom?}
+{306}{}{HÃ¡t, miÃ©rt is ne? Nevezzen meg egy feladatot, Ã©n megcsinÃ¡lom! KemÃ©nyen tudok dolgozni, Ã©s megvan hozzÃ¡ a kÃ©pessÃ©gem, hogy elintÃ©zzek dolgokat.}
+{307}{}{A mindenit, azt mondtam volna, hogy munkÃ¡t keresek? Azt akartam mondani, hogy menni szeretnÃ©k.}
+{315}{}{(Beleszippant az oxigÃ©nmaszkba, Ã©s megereszt egy halovÃ¡ny mosolyt.) HÃ¡t... persze. Viszont... szeretnÃ©k biztosÃ­tÃ©kot kapni a megbÃ­zhatÃ³sÃ¡godrÃ³l. Ami bizonyÃ­tja, hogy... elkÃ¶telezetten dolgozol nekem.}
 {316}{}{Mit tegyek?}
 {317}{}{Mit tegyek, Mr. Salvatore?}
-{325}{}{(Kicsit megrázza a fejét.) Naivitásod... itt nemigen jön be. A szavak semmit sem érnek. Szóval Louis Salvatorénak szeretnél dolgozni? Akkor tudnom kell, mennyire bízhatom benned.}
-{326}{}{Számíthat rám.}
-{327}{}{Hadd bizonyítsam be, Mr. Salvatore! Bízzon meg valamivel!}
-{335}{}{(Mélyet szippant az oxigénmaszkból.) Van egy ember... aki arra használta... a kártyatudását, hogy meglopjon. Az összeg... triviális. A sérelem már korántsem. Azt akarom, hogy az az ember meghaljon, és a lopott pénz visszakerüljön a kezembe.}
+{325}{}{(Kicsit megrÃ¡zza a fejÃ©t.) NaivitÃ¡sod... itt nemigen jÃ¶n be. A szavak semmit sem Ã©rnek. SzÃ³val Louis SalvatorÃ©nak szeretnÃ©l dolgozni? Akkor tudnom kell, mennyire bÃ­zhatom benned.}
+{326}{}{SzÃ¡mÃ­that rÃ¡m.}
+{327}{}{Hadd bizonyÃ­tsam be, Mr. Salvatore! BÃ­zzon meg valamivel!}
+{335}{}{(MÃ©lyet szippant az oxigÃ©nmaszkbÃ³l.) Van egy ember... aki arra hasznÃ¡lta... a kÃ¡rtyatudÃ¡sÃ¡t, hogy meglopjon. Az Ã¶sszeg... triviÃ¡lis. A sÃ©relem mÃ¡r korÃ¡ntsem. Azt akarom, hogy az az ember meghaljon, Ã©s a lopott pÃ©nz visszakerÃ¼ljÃ¶n a kezembe.}
 {336}{}{Ki lenne a tolvaj?}
 {338}{}{Mennyit lopott el?}
-{339}{}{Hát ez kemény küldetés is lehet. Kaphatok egy olyan lézerpisztolyt, amit a maguk családja használ?}
-{340}{}{Öö, a bérgyilkosság nem az én kenyerem. Inkább mennék.}
-{350}{}{Mason elmondja... a részleteket. (A kijárat felé biccent.) Most pedig menj!}
+{339}{}{HÃ¡t ez kemÃ©ny kÃ¼ldetÃ©s is lehet. Kaphatok egy olyan lÃ©zerpisztolyt, amit a maguk csalÃ¡dja hasznÃ¡l?}
+{340}{}{Ã–Ã¶, a bÃ©rgyilkossÃ¡g nem az Ã©n kenyerem. InkÃ¡bb mennÃ©k.}
+{350}{}{Mason elmondja... a rÃ©szleteket. (A kijÃ¡rat felÃ© biccent.) Most pedig menj!}
 {351}{}{Rendben.}
-{352}{}{Köszönöm, Mr. Salvatore. Máris megyek Masonhöz.}
-{360}{}{Akkor nem sok hasznodat... veszem. Távozz innen!}
-{361}{}{Ööö, várjunkegypillanatot... meggondoltam magam. Elvállalom.}
-{362}{}{Szótlanul távozol.}
-{370}{}{(Összesz?kül a szeme, aztán sziszeg? hangon szólal meg.) Eddig még nem bizonyítottad a rátermettségedet. Eridj Masonhöz! ? majd elmondja a megbízatásod... részleteit.}
-{371}{}{Na, jó. Átmenetileg felejtse el a pisztolyokat!}
-{372}{}{Megértettem, Mr. Salvatore. Bocsásson meg a kérdésért. Megyek Masonhöz.}
-{373}{}{Ha nem fegyverez fel engem rendesen, nem tudom ellátni a munkámat.}
-{380}{}{Beszélj Masonnel! ? majd elmondja a megbízatásod... részleteit.}
-{385}{}{(Salvatore rádnéz, és szippant egyet a maszkból.) Megszabadultál a... tolvajtól?}
-{386}{}{Nem... Lloyd elhagyta a várost a pénzzel együtt.}
-{387}{}{Igen. A kesely?k már valószín?leg ki is szarták a darabkáit.}
-{388}{}{Még nem.}
-{389}{}{Nem, Mr. Salvatore. Lloyd a pénzzel együtt elhagyta a várost.}
-{390}{}{Igen, példát statuáltam vele, Mr. Salvatore.}
-{391}{}{Még nem, Mr. Salvatore.}
-{400}{}{Pedig... Masonnek azt mondtad, hogy a végére jártál a dolognak.}
-{401}{}{Hát igen, de...}
-{405}{}{(Összeérinti az ujjait.) És a... pénz? Visszahoztad?}
-{406}{}{Sajnos nem, sehol nem találtam.}
-{407}{}{Nem, Lloyd már elköltötte a pénzt.}
+{352}{}{KÃ¶szÃ¶nÃ¶m, Mr. Salvatore. MÃ¡ris megyek MasonhÃ¶z.}
+{360}{}{Akkor nem sok hasznodat... veszem. TÃ¡vozz innen!}
+{361}{}{Ã–Ã¶Ã¶, vÃ¡rjunkegypillanatot... meggondoltam magam. ElvÃ¡llalom.}
+{362}{}{SzÃ³tlanul tÃ¡vozol.}
+{370}{}{(Ã–sszesz?kÃ¼l a szeme, aztÃ¡n sziszeg? hangon szÃ³lal meg.) Eddig mÃ©g nem bizonyÃ­tottad a rÃ¡termettsÃ©gedet. Eridj MasonhÃ¶z! ? majd elmondja a megbÃ­zatÃ¡sod... rÃ©szleteit.}
+{371}{}{Na, jÃ³. Ãtmenetileg felejtse el a pisztolyokat!}
+{372}{}{MegÃ©rtettem, Mr. Salvatore. BocsÃ¡sson meg a kÃ©rdÃ©sÃ©rt. Megyek MasonhÃ¶z.}
+{373}{}{Ha nem fegyverez fel engem rendesen, nem tudom ellÃ¡tni a munkÃ¡mat.}
+{380}{}{BeszÃ©lj Masonnel! ? majd elmondja a megbÃ­zatÃ¡sod... rÃ©szleteit.}
+{385}{}{(Salvatore rÃ¡dnÃ©z, Ã©s szippant egyet a maszkbÃ³l.) MegszabadultÃ¡l a... tolvajtÃ³l?}
+{386}{}{Nem... Lloyd elhagyta a vÃ¡rost a pÃ©nzzel egyÃ¼tt.}
+{387}{}{Igen. A kesely?k mÃ¡r valÃ³szÃ­n?leg ki is szartÃ¡k a darabkÃ¡it.}
+{388}{}{MÃ©g nem.}
+{389}{}{Nem, Mr. Salvatore. Lloyd a pÃ©nzzel egyÃ¼tt elhagyta a vÃ¡rost.}
+{390}{}{Igen, pÃ©ldÃ¡t statuÃ¡ltam vele, Mr. Salvatore.}
+{391}{}{MÃ©g nem, Mr. Salvatore.}
+{400}{}{Pedig... Masonnek azt mondtad, hogy a vÃ©gÃ©re jÃ¡rtÃ¡l a dolognak.}
+{401}{}{HÃ¡t igen, de...}
+{405}{}{(Ã–sszeÃ©rinti az ujjait.) Ã‰s a... pÃ©nz? Visszahoztad?}
+{406}{}{Sajnos nem, sehol nem talÃ¡ltam.}
+{407}{}{Nem, Lloyd mÃ¡r elkÃ¶ltÃ¶tte a pÃ©nzt.}
 {408}{}{Igen.}
-{410}{}{Nem, Mr. Salvatore, nem bukkantam a pénz nyomára.}
-{411}{}{Nem, Mr. Salvatore. Lloyd már elköltötte a pénzt.}
+{410}{}{Nem, Mr. Salvatore, nem bukkantam a pÃ©nz nyomÃ¡ra.}
+{411}{}{Nem, Mr. Salvatore. Lloyd mÃ¡r elkÃ¶ltÃ¶tte a pÃ©nzt.}
 {412}{}{Igen, Mr. Salvatore.}
-{420}{}{Az volt a feladatod, hogy szerezd vissza az ellopott pénzt. Megcsináltad vagy sem?}
-{421}{}{Hát az a helyzet, hogy nem, mert...}
-{422}{}{Ööö, itt van a pénz nálam...}
-{423}{}{Hát, tudja, én nem...}
-{430}{}{Add ide a pénzem...}
-{431}{}{Hát, igazság szerint, az összeg most épp nincs nálam...}
-{432}{}{Adsz neki 250 dollárt.}
-{433}{}{Adsz neki 500 dollárt.}
-{434}{}{Adsz neki 750 dollárt.}
-{435}{}{Adsz neki 1000 dollárt.}
-{436}{}{Adsz neki 1000 dollárt. (Ez a megfelel? összeg)}
+{420}{}{Az volt a feladatod, hogy szerezd vissza az ellopott pÃ©nzt. MegcsinÃ¡ltad vagy sem?}
+{421}{}{HÃ¡t az a helyzet, hogy nem, mert...}
+{422}{}{Ã–Ã¶Ã¶, itt van a pÃ©nz nÃ¡lam...}
+{423}{}{HÃ¡t, tudja, Ã©n nem...}
+{430}{}{Add ide a pÃ©nzem...}
+{431}{}{HÃ¡t, igazsÃ¡g szerint, az Ã¶sszeg most Ã©pp nincs nÃ¡lam...}
+{432}{}{Adsz neki 250 dollÃ¡rt.}
+{433}{}{Adsz neki 500 dollÃ¡rt.}
+{434}{}{Adsz neki 750 dollÃ¡rt.}
+{435}{}{Adsz neki 1000 dollÃ¡rt.}
+{436}{}{Adsz neki 1000 dollÃ¡rt. (Ez a megfelel? Ã¶sszeg)}
 {437}{}{(Gyorsan elslisszolsz.)}
-{450}{}{Ez az összeg... nem az az összeg, amit ellopott t?lem az a fickó. Lehet, hogy nem tudod, mennyit lopott el, lehet, hogy egyszer?en csak le akarod nyelni. Bármelyik is legyen...}
-{451}{}{Ó, elnézést, nyilván elszámoltam magam...}
-{455}{}{(Ahogy átadod neki a pénzt, Salvatore bólogat, de a felénél felemeli a kezét.) A maradék... téged illet.}
-{456}{}{Ó, köszönöm!}
-{468}{}{Ó, köszönöm, Mr. Salvatore!}
-{475}{}{(Mr. Salvatore beleszippant a maszkba.) Van egy másik ügy... amire rá kéne nézned.}
-{476}{}{Hogyne, hogyne, miért is ne? Mi a feladat? Egy újabb Öldd-Meg-Hozd-El megbízatás?}
-{477}{}{Érdekel a megbízatás, Mr. Salvatore. Mit szeretne, hogy tegyek?}
-{478}{}{Nem-nem, befejeztem a behajtós melót. Felhagyok az ilyesmivel.}
-{479}{}{Én több munkát nem vállalok, Mr. Salvatore. Mennem kell.}
-{485}{}{A területemen tevékenyked? egyik polgár... az általunk nyújtott szolgáltatásért... nem fizette ki a tartozását... Szedd be t?le a pénzt! Ha tiltakozna, közöld vele, hogy te... az én képvisel?m vagy. Beszéld meg Masonnel a részleteket!}
-{487}{}{Igenis, Mr. Salvatore. Megyek, és megtárgyaljuk.}
-{488}{}{Nem, köszönöm! Nem végzek zsarolós megbízatásokat.}
-{495}{}{Te... hazudsz itt nekem. Tudom, hogy még mindig él.}
-{500}{}{Megcsináltad, amit megbeszéltünk?}
-{501}{}{Igen, Mr. Salvatore, itt van nálam a beszedett tartozás, ahogy utasított.}
-{502}{}{Igen, itt van a tartozás.}
-{503}{}{Még nem. Még nem tudtam kipofozni az öregb?l.}
-{504}{}{Még nem, Mr. Salvatore. Ha újból visszajövök, ígérem, hogy nálam lesz.}
-{515}{}{Te azt mondtad Masonnek, hogy már beszedted a pénzt. Most akkor mire véljem a dolgot?}
-{525}{}{Nagyon jó. (Várakozó álláspontra helyezkedik.)}
-{527}{}{Adsz neki 900 dollárt.}
-{528}{}{Adsz neki 800 dollárt.}
-{529}{}{Igazság szerint, most épp nincs NÁLAM az összeg...}
-{540}{}{Ez az összeg... nem az az összeg, amit ellopott t?lem az a fickó. Lehet, hogy nem tudod, mennyit lopott el, lehet, hogy egyszer?en csak le akarod nyelni. Bármelyik is legyen...}
-{545}{}{(Miközben átnyújtod a pénzt, Salvatore bólogat.) Ez... jó munka volt. Tied lehet a 25 százaléka.}
-{546}{}{(Miközben átnyújtod a pénzt, Salvatore bólogat.) Ez... t?rhet? munka volt. Tied lehet a 10 százaléka.}
-{555}{}{(Beleszippant a maszkba.) Megcsináltad... amit kértem. Mostantól nincs szükségem a... szolgálataidra. (A kijárat felé mutat.) Távozhatsz!}
-{556}{}{Öhm... oké.}
-{557}{}{Miel?tt elmennék, fizetségképpen kaphatnék egy lézerpisztolyt?}
-{565}{}{(Beleszippant a maszkba.) Van egy... másik ügy, amiben közre kéne m?ködnöd.}
-{566}{}{Miért is ne? Mi volna a feladat? Újabb zsarolás?}
-{568}{}{Nem, a zsarolás nem az én asztalom. Itt most szépen abbahagyom.}
-{575}{}{Nos, egy... fontos tranzakció várat magára. Szükségem van egy plusz... ?rre, hogy biztos lehessek a tranzakció problémamentes lefutásában. Beszélj Masonnel, és tedd azt, amit mond!}
-{576}{}{Mi ez a tranzakció?}
-{577}{}{Hol lesz a tranzakció?}
-{578}{}{Kaphatnék egyet a lézerpisztolyaikból?}
-{579}{}{Ezt a küldetést most nem vállalhatom el, Mr. Salvatore. Sajnos mennem kell.}
-{585}{}{A részleteket majd... Mason elmondja. Eridj!}
-{595}{}{Igeeeen. Ezúttal igen. Ezenkívül más fegyverzetet is vinned kell. Beszélj Masonnel a részleteket illet?en! Majd ad neked egy fényhozót.}
-{596}{}{Jól van.}
+{450}{}{Ez az Ã¶sszeg... nem az az Ã¶sszeg, amit ellopott t?lem az a fickÃ³. Lehet, hogy nem tudod, mennyit lopott el, lehet, hogy egyszer?en csak le akarod nyelni. BÃ¡rmelyik is legyen...}
+{451}{}{Ã“, elnÃ©zÃ©st, nyilvÃ¡n elszÃ¡moltam magam...}
+{455}{}{(Ahogy Ã¡tadod neki a pÃ©nzt, Salvatore bÃ³logat, de a felÃ©nÃ©l felemeli a kezÃ©t.) A maradÃ©k... tÃ©ged illet.}
+{456}{}{Ã“, kÃ¶szÃ¶nÃ¶m!}
+{468}{}{Ã“, kÃ¶szÃ¶nÃ¶m, Mr. Salvatore!}
+{475}{}{(Mr. Salvatore beleszippant a maszkba.) Van egy mÃ¡sik Ã¼gy... amire rÃ¡ kÃ©ne nÃ©zned.}
+{476}{}{Hogyne, hogyne, miÃ©rt is ne? Mi a feladat? Egy Ãºjabb Ã–ldd-Meg-Hozd-El megbÃ­zatÃ¡s?}
+{477}{}{Ã‰rdekel a megbÃ­zatÃ¡s, Mr. Salvatore. Mit szeretne, hogy tegyek?}
+{478}{}{Nem-nem, befejeztem a behajtÃ³s melÃ³t. Felhagyok az ilyesmivel.}
+{479}{}{Ã‰n tÃ¶bb munkÃ¡t nem vÃ¡llalok, Mr. Salvatore. Mennem kell.}
+{485}{}{A terÃ¼letemen tevÃ©kenyked? egyik polgÃ¡r... az Ã¡ltalunk nyÃºjtott szolgÃ¡ltatÃ¡sÃ©rt... nem fizette ki a tartozÃ¡sÃ¡t... Szedd be t?le a pÃ©nzt! Ha tiltakozna, kÃ¶zÃ¶ld vele, hogy te... az Ã©n kÃ©pvisel?m vagy. BeszÃ©ld meg Masonnel a rÃ©szleteket!}
+{487}{}{Igenis, Mr. Salvatore. Megyek, Ã©s megtÃ¡rgyaljuk.}
+{488}{}{Nem, kÃ¶szÃ¶nÃ¶m! Nem vÃ©gzek zsarolÃ³s megbÃ­zatÃ¡sokat.}
+{495}{}{Te... hazudsz itt nekem. Tudom, hogy mÃ©g mindig Ã©l.}
+{500}{}{MegcsinÃ¡ltad, amit megbeszÃ©ltÃ¼nk?}
+{501}{}{Igen, Mr. Salvatore, itt van nÃ¡lam a beszedett tartozÃ¡s, ahogy utasÃ­tott.}
+{502}{}{Igen, itt van a tartozÃ¡s.}
+{503}{}{MÃ©g nem. MÃ©g nem tudtam kipofozni az Ã¶regb?l.}
+{504}{}{MÃ©g nem, Mr. Salvatore. Ha ÃºjbÃ³l visszajÃ¶vÃ¶k, Ã­gÃ©rem, hogy nÃ¡lam lesz.}
+{515}{}{Te azt mondtad Masonnek, hogy mÃ¡r beszedted a pÃ©nzt. Most akkor mire vÃ©ljem a dolgot?}
+{525}{}{Nagyon jÃ³. (VÃ¡rakozÃ³ Ã¡llÃ¡spontra helyezkedik.)}
+{527}{}{Adsz neki 900 dollÃ¡rt.}
+{528}{}{Adsz neki 800 dollÃ¡rt.}
+{529}{}{IgazsÃ¡g szerint, most Ã©pp nincs NÃLAM az Ã¶sszeg...}
+{540}{}{Ez az Ã¶sszeg... nem az az Ã¶sszeg, amit ellopott t?lem az a fickÃ³. Lehet, hogy nem tudod, mennyit lopott el, lehet, hogy egyszer?en csak le akarod nyelni. BÃ¡rmelyik is legyen...}
+{545}{}{(MikÃ¶zben Ã¡tnyÃºjtod a pÃ©nzt, Salvatore bÃ³logat.) Ez... jÃ³ munka volt. Tied lehet a 25 szÃ¡zalÃ©ka.}
+{546}{}{(MikÃ¶zben Ã¡tnyÃºjtod a pÃ©nzt, Salvatore bÃ³logat.) Ez... t?rhet? munka volt. Tied lehet a 10 szÃ¡zalÃ©ka.}
+{555}{}{(Beleszippant a maszkba.) MegcsinÃ¡ltad... amit kÃ©rtem. MostantÃ³l nincs szÃ¼ksÃ©gem a... szolgÃ¡lataidra. (A kijÃ¡rat felÃ© mutat.) TÃ¡vozhatsz!}
+{556}{}{Ã–hm... okÃ©.}
+{557}{}{Miel?tt elmennÃ©k, fizetsÃ©gkÃ©ppen kaphatnÃ©k egy lÃ©zerpisztolyt?}
+{565}{}{(Beleszippant a maszkba.) Van egy... mÃ¡sik Ã¼gy, amiben kÃ¶zre kÃ©ne m?kÃ¶dnÃ¶d.}
+{566}{}{MiÃ©rt is ne? Mi volna a feladat? Ãšjabb zsarolÃ¡s?}
+{568}{}{Nem, a zsarolÃ¡s nem az Ã©n asztalom. Itt most szÃ©pen abbahagyom.}
+{575}{}{Nos, egy... fontos tranzakciÃ³ vÃ¡rat magÃ¡ra. SzÃ¼ksÃ©gem van egy plusz... ?rre, hogy biztos lehessek a tranzakciÃ³ problÃ©mamentes lefutÃ¡sÃ¡ban. BeszÃ©lj Masonnel, Ã©s tedd azt, amit mond!}
+{576}{}{Mi ez a tranzakciÃ³?}
+{577}{}{Hol lesz a tranzakciÃ³?}
+{578}{}{KaphatnÃ©k egyet a lÃ©zerpisztolyaikbÃ³l?}
+{579}{}{Ezt a kÃ¼ldetÃ©st most nem vÃ¡llalhatom el, Mr. Salvatore. Sajnos mennem kell.}
+{585}{}{A rÃ©szleteket majd... Mason elmondja. Eridj!}
+{595}{}{Igeeeen. EzÃºttal igen. EzenkÃ­vÃ¼l mÃ¡s fegyverzetet is vinned kell. BeszÃ©lj Masonnel a rÃ©szleteket illet?en! Majd ad neked egy fÃ©nyhozÃ³t.}
+{596}{}{JÃ³l van.}
 {605}{}{Foglalj helyet, }
-{607}{}{Megtiszteltetésnek venném, Mr. Salvatore.}
-{608}{}{Nem tehetem. Más elkötelezettségeim vannak. Azért köszönöm a lehet?séget.}
-{610}{}{Megtisztelve érezném magam, Mr. Salvatore, de nem tehetem. Egy másik család számára kell megcsinálnom valamit... egész pontosan az anyámnak.}
-{615}{}{Hát ez... sajnálatos. Nem vállalhatom a kockázatát, hogy... hallgatni fogsz a sivatagban látottakról. Isten veled, }
-{616}{}{Hohó! Várjunk egy pillanatot...!}
-{617}{}{Valóban? Ne zavartassa magát! Egyenként fogom lehentelni az egész családját.}
-{620}{}{Nagyszer?! Válassz egy nevet magadnak...}
+{607}{}{MegtiszteltetÃ©snek vennÃ©m, Mr. Salvatore.}
+{608}{}{Nem tehetem. MÃ¡s elkÃ¶telezettsÃ©geim vannak. AzÃ©rt kÃ¶szÃ¶nÃ¶m a lehet?sÃ©get.}
+{610}{}{Megtisztelve Ã©reznÃ©m magam, Mr. Salvatore, de nem tehetem. Egy mÃ¡sik csalÃ¡d szÃ¡mÃ¡ra kell megcsinÃ¡lnom valamit... egÃ©sz pontosan az anyÃ¡mnak.}
+{615}{}{HÃ¡t ez... sajnÃ¡latos. Nem vÃ¡llalhatom a kockÃ¡zatÃ¡t, hogy... hallgatni fogsz a sivatagban lÃ¡tottakrÃ³l. Isten veled, }
+{616}{}{HohÃ³! VÃ¡rjunk egy pillanatot...!}
+{617}{}{ValÃ³ban? Ne zavartassa magÃ¡t! EgyenkÃ©nt fogom lehentelni az egÃ©sz csalÃ¡djÃ¡t.}
+{620}{}{Nagyszer?! VÃ¡lassz egy nevet magadnak...}
 {621}{}{Mi lenne ha...}
-{630}{}{(Bólint) Ez bizony... jó név. Most menj és beszélj Masonnel. Adni fog majd... valamit.}
-{640}{}{Légy üdvözölve, }
-{645}{}{Nincs szükségem többé a szolgálataidra, }
-{650}{}{Ó...}
-{651}{}{...öörrghhh...}
-{652}{}{...*leveg?ért kapkod* ...Meg f... *köhög*... *zihál*...}
-{653}{}{...ne ...meg f... *örrghh*}
-{654}{}{...segíts... *leveg?ért kapkod* ...kérlek...}
-{655}{}{...könyö... könyörülj...}
-{656}{}{*zihál*}
+{630}{}{(BÃ³lint) Ez bizony... jÃ³ nÃ©v. Most menj Ã©s beszÃ©lj Masonnel. Adni fog majd... valamit.}
+{640}{}{LÃ©gy Ã¼dvÃ¶zÃ¶lve, }
+{645}{}{Nincs szÃ¼ksÃ©gem tÃ¶bbÃ© a szolgÃ¡lataidra, }
+{650}{}{Ã“...}
+{651}{}{...Ã¶Ã¶rrghhh...}
+{652}{}{...*leveg?Ã©rt kapkod* ...Meg f... *kÃ¶hÃ¶g*... *zihÃ¡l*...}
+{653}{}{...ne ...meg f... *Ã¶rrghh*}
+{654}{}{...segÃ­ts... *leveg?Ã©rt kapkod* ...kÃ©rlek...}
+{655}{}{...kÃ¶nyÃ¶... kÃ¶nyÃ¶rÃ¼lj...}
+{656}{}{*zihÃ¡l*}
 {657}{}{...Meg fo...}
 {658}{}{...Meg fo...}
-{659}{}{::Leáll a légzése::}
-{660}{}{He-he, szeretek öreg embereket gyilkolni.}
-{675}{}{(Mr. Salvatore hosszas hallgatás után megszólal.) New Renót... mi Salvatorék fogjuk uralni. Ha a cél érdekében meg kell halnia egy gyereknek, hát meg kell halnia... ez az oka.}
-{676}{}{Mi köze van egy gyerek halálának New Reno kézben tartásához? Ennek nincs SEMMI DE SEMMI értelme.}
-{677}{}{Meggyilkolta egy másik ember FIÁT, Salvatore. Ezzel aláírta a saját halálos ítéletét...}
-{678}{}{Értem. Csak tudni akartam, mi vezérelte.}
-{800}{}{Eltetted láb alól a Salvatore családf?t.}
-{825}{}{Kinyírtad a Salvatore családf?t.}
-{850}{}{Pontot tettél a Lloyd "ügy" végére.}
-{875}{}{Beszedted a tartozást Mr. Salvatore számára.}
-{900}{}{Ezennel a Salvatore család tagja lettél.}
-{925}{}{Sikeresen lefolytattad a titkos tranzakciót.}
+{659}{}{::LeÃ¡ll a lÃ©gzÃ©se::}
+{660}{}{He-he, szeretek Ã¶reg embereket gyilkolni.}
+{675}{}{(Mr. Salvatore hosszas hallgatÃ¡s utÃ¡n megszÃ³lal.) New RenÃ³t... mi SalvatorÃ©k fogjuk uralni. Ha a cÃ©l Ã©rdekÃ©ben meg kell halnia egy gyereknek, hÃ¡t meg kell halnia... ez az oka.}
+{676}{}{Mi kÃ¶ze van egy gyerek halÃ¡lÃ¡nak New Reno kÃ©zben tartÃ¡sÃ¡hoz? Ennek nincs SEMMI DE SEMMI Ã©rtelme.}
+{677}{}{Meggyilkolta egy mÃ¡sik ember FIÃT, Salvatore. Ezzel alÃ¡Ã­rta a sajÃ¡t halÃ¡los Ã­tÃ©letÃ©t...}
+{678}{}{Ã‰rtem. Csak tudni akartam, mi vezÃ©relte.}
+{800}{}{Eltetted lÃ¡b alÃ³l a Salvatore csalÃ¡df?t.}
+{825}{}{KinyÃ­rtad a Salvatore csalÃ¡df?t.}
+{850}{}{Pontot tettÃ©l a Lloyd "Ã¼gy" vÃ©gÃ©re.}
+{875}{}{Beszedted a tartozÃ¡st Mr. Salvatore szÃ¡mÃ¡ra.}
+{900}{}{Ezennel a Salvatore csalÃ¡d tagja lettÃ©l.}
+{925}{}{Sikeresen lefolytattad a titkos tranzakciÃ³t.}
 {5233}{}{! Ki vagyol}
-{5270}{}{. Szóval akkor... mit is akarsz t?lem?}
+{5270}{}{. SzÃ³val akkor... mit is akarsz t?lem?}
 {5290}{}{, add el?, mit... akarsz t?lem?}
-{5605}{}{. Mindent megtettél... amit kértem. Szeretném, ha közénk állnál. Szeretném, ha a Salvatore család tagja lennél!}
+{5605}{}{. Mindent megtettÃ©l... amit kÃ©rtem. SzeretnÃ©m, ha kÃ¶zÃ©nk Ã¡llnÃ¡l. SzeretnÃ©m, ha a Salvatore csalÃ¡d tagja lennÃ©l!}
 {5640}{}{ vagyok.}
 {5645}{}{ vagyok.}

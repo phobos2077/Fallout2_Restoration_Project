@@ -1,12 +1,12 @@
-{100}{}{Ves a un nómada.}
-{101}{}{Hola, debes ser nuevo por aquí.}
-{102}{}{Deberías hablar con el jefe.}
+{100}{}{Ves a un nÃ³mada.}
+{101}{}{Hola, debes ser nuevo por aquÃ­.}
+{102}{}{DeberÃ­as hablar con el jefe.}
 {103}{}{Hoy no creo que haga tanto calor como ayer.}
-{104}{}{¿Qué tal es la vida en la ciudad?}
-{105}{}{¡Infiel!}
-{106}{}{¿Por qué nos atacas?}
-{107}{}{¡Defenderé a la tribu con mi vida!}
-{108}{}{¿Cómo te atreves a violar nuestra hospitalidad!}
-{109}{}{¡Márchate!}
-{110}{}{Déjanos.}
-{111}{}{Somos una tribu pacífica.}
+{104}{}{Â¿QuÃ© tal es la vida en la ciudad?}
+{105}{}{Â¡Infiel!}
+{106}{}{Â¿Por quÃ© nos atacas?}
+{107}{}{Â¡DefenderÃ© a la tribu con mi vida!}
+{108}{}{Â¿CÃ³mo te atreves a violar nuestra hospitalidad!}
+{109}{}{Â¡MÃ¡rchate!}
+{110}{}{DÃ©janos.}
+{111}{}{Somos una tribu pacÃ­fica.}

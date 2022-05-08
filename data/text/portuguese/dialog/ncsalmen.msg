@@ -7,20 +7,20 @@
 {154}{}{You see one of Salvatore's men. He looks silent, deadly, and possibly asleep.}
 {155}{}{You see one of Salvatore's men. He looks silent, deadly, and potentially very bored.}
 {160}{}{::Nods Respectfully::}
-{161}{}{Você deve ser um cara durão para explodir o Enclave como fez.}
-{162}{}{Você é quase tão durão quanto Tommy Bengala.}
+{161}{}{VocÃª deve ser um cara durÃ£o para explodir o Enclave como fez.}
+{162}{}{VocÃª Ã© quase tÃ£o durÃ£o quanto Tommy Bengala.}
 {163}{}{I heard what you did to the Enclave. Word travels fast.}
 {164}{}{Thought about replaying the game as a different character?}
 {170}{}{Why are you sneaking around?}
 {171}{}{Why the secrecy? Somebody looking for you?}
 {172}{}{You trying to keep a low profile?}
 {173}{}{Why you sneaking around? Somebody chasing you?}
-{180}{}{Ora ora, se não é }
+{180}{}{Ora ora, se nÃ£o Ã© }
 {181}{}{You LOST, pal? You better get out of here.}
-{182}{}{Esse cara tá procurando problemas...}
+{182}{}{Esse cara tÃ¡ procurando problemas...}
 {183}{}{Get out of here. Now.}
 {184}{}{Unless you're looking for trouble, you better leave right now.}
-{185}{}{Ora ora, se não é }
+{185}{}{Ora ora, se nÃ£o Ã© }
 {186}{}{You LOST, girl? You better get out of here.}
 {187}{}{This chick's asking for trouble...}
 {195}{}{No weapons allowed in here.}
@@ -41,7 +41,7 @@
 {226}{}{No robots. Get it outta here.}
 {230}{}{No mutants allowed in here. Get him outta here. Now.}
 {231}{}{Mutants aren't allowed in here. Get him outta here. Now.}
-{235}{}{Como você usa o banheiro com isso?}
+{235}{}{Como vocÃª usa o banheiro com isso?}
 {240}{}{Sir.}
 {241}{}{Hello, sir.}
 {242}{}{Nothing to report, sir.}
@@ -62,7 +62,7 @@
 {255}{}{The Bishops talk big. Salvatores don't need to talk.}
 {256}{}{All's quiet on the northern front.}
 {257}{}{Saw some Bishops today, and they steered clear. They're getting smarter.}
-{258}{}{Está tudo de boa hoje.}
+{258}{}{EstÃ¡ tudo de boa hoje.}
 {259}{}{Ma'am.}
 {260}{}{Hello, ma'am.}
 {261}{}{Nothing to report, ma'am.}
@@ -78,13 +78,13 @@
 {286}{}{You know, Family Salvatore could really use someone like you.}
 {287}{}{You should talk to Mason about a job.}
 {288}{}{If prizefighting loses its charm, you might want to consider joining up with us.}
-{289}{}{Consegui $20 apostando em você!}
-{290}{}{Ei, campeão! Aquela última luta foi ótima!}
-{291}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
-{292}{}{Quanto você pesa?}
-{293}{}{Onde você trabalha fora do ringue?}
-{294}{}{Cuidado com o Masticator. Ele é louco por orelhas.}
-{295}{}{Eu te pagaria uma bebida se não tivesse perdido todo meu dinheiro apostando no seu oponente.}
+{289}{}{Consegui $20 apostando em vocÃª!}
+{290}{}{Ei, campeÃ£o! Aquela Ãºltima luta foi Ã³tima!}
+{291}{}{Vi vocÃª lutando no ringue. Que belo gancho que vocÃª deu.}
+{292}{}{Quanto vocÃª pesa?}
+{293}{}{Onde vocÃª trabalha fora do ringue?}
+{294}{}{Cuidado com o Masticator. Ele Ã© louco por orelhas.}
+{295}{}{Eu te pagaria uma bebida se nÃ£o tivesse perdido todo meu dinheiro apostando no seu oponente.}
 {305}{}{Something I can do for you?}
 {306}{}{This ain't the porn studio, lover-boy.}
 {307}{}{Take your business elsewhere, lover-boy.}
@@ -93,7 +93,7 @@
 {311}{}{Breaks my heart, but I really can't talk right now.}
 {312}{}{C'mon now, you're distracting me, sweetheart.}
 {313}{}{I can't help you.}
-{314}{}{Ouvi dizer que o Tommy Bengala quer um fazer um exame médico privado com você.}
+{314}{}{Ouvi dizer que o Tommy Bengala quer um fazer um exame mÃ©dico privado com vocÃª.}
 {315}{}{Not now, sweetheart. Business.}
 {316}{}{I'd chat, but the boss could be watching.}
 {325}{}{Secure that weapon NOW, slaver.}

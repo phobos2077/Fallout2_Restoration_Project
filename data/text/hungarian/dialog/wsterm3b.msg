@@ -1,170 +1,170 @@
-{100}{}{Számítógép-terminál.}
-{101}{}{Ez a terminál úgy látszik, még fejlettebb konstrukció, mint amikkel eddig találkoztál.}
-{102}{}{Képtelen vagy elolvasni, mi van a képerny?re írva.}
-{103}{}{Skynet Központ Interfész Terminál
+{100}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l.}
+{101}{}{Ez a terminÃ¡l Ãºgy lÃ¡tszik, mÃ©g fejlettebb konstrukciÃ³, mint amikkel eddig talÃ¡lkoztÃ¡l.}
+{102}{}{KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.}
+{103}{}{Skynet KÃ¶zpont InterfÃ©sz TerminÃ¡l
                                     Engedelmeskedj
-                                                         különben
-                                                                       megsz?nsz m?ködni!}
+                                                         kÃ¼lÃ¶nben
+                                                                       megsz?nsz m?kÃ¶dni!}
 {104}{}{}
 {105}{}{}
 {106}{}{}
-{107}{}{Igen, Te és milyen hadsereg? Csak egy furcsa ember vagy ebben a dobozban. Már itt sem vagyok.}
-{108}{}{Miért kéne segítenem rajtad?}
-{109}{}{Oké, oké, segítek, csak hívd vissza ezeket a fémszörnyetegeket!}
-{110}{}{Öö. Szám - irrrtó - gép!}
-{111}{}{Kilépés.}
-{112}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
+{107}{}{Igen, Te Ã©s milyen hadsereg? Csak egy furcsa ember vagy ebben a dobozban. MÃ¡r itt sem vagyok.}
+{108}{}{MiÃ©rt kÃ©ne segÃ­tenem rajtad?}
+{109}{}{OkÃ©, okÃ©, segÃ­tek, csak hÃ­vd vissza ezeket a fÃ©mszÃ¶rnyetegeket!}
+{110}{}{Ã–Ã¶. SzÃ¡m - irrrtÃ³ - gÃ©p!}
+{111}{}{KilÃ©pÃ©s.}
+{112}{}{[KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.]}
 {113}{}{[Valahogyan Skynet tudja, hogy elhoztad az agyat.]
                   Menj a  Robotika Laborba a 3. Szinten
-                              Installáld a kibernetikus Agyat
-                                    Aktiváld a robotot
- - Átvitel Vége -}
+                              InstallÃ¡ld a kibernetikus Agyat
+                                    AktivÃ¡ld a robotot
+ - Ãtvitel VÃ©ge -}
 {114}{}{}
 {115}{}{}
 {116}{}{}
 {117}{}{}
-{118}{}{Kilépés.}
-{119}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
+{118}{}{KilÃ©pÃ©s.}
+{119}{}{[KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.]}
 {120}{}{Hiba!
-                                                                       Nincsenek rendszerfájlok jelen.
-                                    Kérem, indítsa újra a számítógépet!}
-{121}{}{Hiba! A letöltend? fájl sérült.}
+                                                                       Nincsenek rendszerfÃ¡jlok jelen.
+                                    KÃ©rem, indÃ­tsa Ãºjra a szÃ¡mÃ­tÃ³gÃ©pet!}
+{121}{}{Hiba! A letÃ¶ltend? fÃ¡jl sÃ©rÃ¼lt.}
 {122}{}{}
-{123}{}{Kilépés.}
-{124}{}{Kilépés.}
-{125}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
+{123}{}{KilÃ©pÃ©s.}
+{124}{}{KilÃ©pÃ©s.}
+{125}{}{[KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.]}
 {126}{}{Skynet vagyok.
-                                                          Kísérleti Mesterséges Intelligencia.
-                                Skynet már várt RÁD.}
+                                                          KÃ­sÃ©rleti MestersÃ©ges Intelligencia.
+                                Skynet mÃ¡r vÃ¡rt RÃD.}
 {127}{}{}
 {128}{}{}
-{129}{}{Kérlek, segíts Skynetnek!}
+{129}{}{KÃ©rlek, segÃ­ts Skynetnek!}
 {130}{}{Mit akarsz?}
-{131}{}{Miért próbáltál megölni?}
-{132}{}{Mesterséges Intelligencia?}
-{133}{}{Te vártál rám?}
-{134}{}{Kilépés.}
-{135}{}{Kilépés.}
+{131}{}{MiÃ©rt prÃ³bÃ¡ltÃ¡l megÃ¶lni?}
+{132}{}{MestersÃ©ges Intelligencia?}
+{133}{}{Te vÃ¡rtÃ¡l rÃ¡m?}
+{134}{}{KilÃ©pÃ©s.}
+{135}{}{KilÃ©pÃ©s.}
 {136}{}{Haladjunk...}
 {137}{}{Mit akarsz?}
-{138}{}{Miért próbáltál megölni?}
-{139}{}{Mesterséges Intelligencia?}
-{140}{}{Te vártál rám?}
-{141}{}{Kilépés.}
-{142}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
-{143}{}{[Úgy látszik, Skynet egyáltalán nem akar veled szóba állni.]}
-{144}{}{Kilépés.}
-{145}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
-{146}{}{Neked véged van...
-- Átvitel Vége -}
+{138}{}{MiÃ©rt prÃ³bÃ¡ltÃ¡l megÃ¶lni?}
+{139}{}{MestersÃ©ges Intelligencia?}
+{140}{}{Te vÃ¡rtÃ¡l rÃ¡m?}
+{141}{}{KilÃ©pÃ©s.}
+{142}{}{[KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.]}
+{143}{}{[Ãšgy lÃ¡tszik, Skynet egyÃ¡ltalÃ¡n nem akar veled szÃ³ba Ã¡llni.]}
+{144}{}{KilÃ©pÃ©s.}
+{145}{}{[KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.]}
+{146}{}{Neked vÃ©ged van...
+- Ãtvitel VÃ©ge -}
 {147}{}{}
-{148}{}{Kilépés.}
-{149}{}{Kilépés.}
-{150}{}{[A szoba ajtaja becsapódik, ugyanakkor a keleti fal részei elhúzódik, és felt?nik egy csapat nehéz-fegyverzet? robot.]}
-{151}{}{Hmm... átgondoltam az ajánlatodat. Miben tudok neked segíteni?}
-{152}{}{Jöjjön a haddelhad!}
-{153}{}{Menj a Bio-Raktárba a 4-es szinten
+{148}{}{KilÃ©pÃ©s.}
+{149}{}{KilÃ©pÃ©s.}
+{150}{}{[A szoba ajtaja becsapÃ³dik, ugyanakkor a keleti fal rÃ©szei elhÃºzÃ³dik, Ã©s felt?nik egy csapat nehÃ©z-fegyverzet? robot.]}
+{151}{}{Hmm... Ã¡tgondoltam az ajÃ¡nlatodat. Miben tudok neked segÃ­teni?}
+{152}{}{JÃ¶jjÃ¶n a haddelhad!}
+{153}{}{Menj a Bio-RaktÃ¡rba a 4-es szinten
                                 Szerezd meg a Kibernetikus Agyat
-                                Térj vissza további információkért
- - Átvitel Vége -}
+                                TÃ©rj vissza tovÃ¡bbi informÃ¡ciÃ³kÃ©rt
+ - Ãtvitel VÃ©ge -}
 {154}{}{}
 {155}{}{}
 {156}{}{}
-{157}{}{Menj a Bio-Raktárba a 4-es szinten
+{157}{}{Menj a Bio-RaktÃ¡rba a 4-es szinten
                                 Szerezd meg a Kibernetikus Agyat
-                                Térj vissza további információkért
- - Átvitel Vége -}
+                                TÃ©rj vissza tovÃ¡bbi informÃ¡ciÃ³kÃ©rt
+ - Ãtvitel VÃ©ge -}
 {158}{}{}
 {159}{}{}
 {160}{}{}
-{161}{}{Kilépés.}
-{162}{}{Skynet szeretné elhagyni ezt a helyet.}
-{163}{}{Akkor miért nem távozol?}
-{164}{}{Szép dolog, hogy szeretnéd...}
-{165}{}{Hogyan tudok segíteni?}
-{166}{}{Én nem tudlak kicipelni innen.}
-{167}{}{Skynetnek hordozóra van szüksége, hogy elhagyja ezt a létesítményt.}
-{168}{}{Hordozóra? Nem értem.}
+{161}{}{KilÃ©pÃ©s.}
+{162}{}{Skynet szeretnÃ© elhagyni ezt a helyet.}
+{163}{}{Akkor miÃ©rt nem tÃ¡vozol?}
+{164}{}{SzÃ©p dolog, hogy szeretnÃ©d...}
+{165}{}{Hogyan tudok segÃ­teni?}
+{166}{}{Ã‰n nem tudlak kicipelni innen.}
+{167}{}{Skynetnek hordozÃ³ra van szÃ¼ksÃ©ge, hogy elhagyja ezt a lÃ©tesÃ­tmÃ©nyt.}
+{168}{}{HordozÃ³ra? Nem Ã©rtem.}
 {169}{}{You need a way to transfer your program into a more mobile container, correct?}
-{170}{}{Nem akarok részt venni ebben.}
-{171}{}{Egy tárolóra, amivel Skynet elmehet.}
-{172}{}{Miért akarsz elmenni?}
-{173}{}{Elnézést, nem tudok segíteni.}
-{174}{}{Itt nem tudok semmi újat tanulni.
-                                    Megoldás: A hely elhagyása}
+{170}{}{Nem akarok rÃ©szt venni ebben.}
+{171}{}{Egy tÃ¡rolÃ³ra, amivel Skynet elmehet.}
+{172}{}{MiÃ©rt akarsz elmenni?}
+{173}{}{ElnÃ©zÃ©st, nem tudok segÃ­teni.}
+{174}{}{Itt nem tudok semmi Ãºjat tanulni.
+                                    MegoldÃ¡s: A hely elhagyÃ¡sa}
 {175}{}{}
-{176}{}{Hogyan tudok segíteni?}
-{177}{}{Elnézést, nem tudok segíteni.}
-{178}{}{Mindazok után, hogy megpróbáltál megölni, a segítségemet akarod? Szó sem lehet róla!}
-{179}{}{Menj a Bio-Raktárba a 4-es szinten
+{176}{}{Hogyan tudok segÃ­teni?}
+{177}{}{ElnÃ©zÃ©st, nem tudok segÃ­teni.}
+{178}{}{Mindazok utÃ¡n, hogy megprÃ³bÃ¡ltÃ¡l megÃ¶lni, a segÃ­tsÃ©gemet akarod? SzÃ³ sem lehet rÃ³la!}
+{179}{}{Menj a Bio-RaktÃ¡rba a 4-es szinten
                                 Szerezd meg a Kibernetikus Agyat
-                                Térj vissza további információkért
- - Köszönöm -}
+                                TÃ©rj vissza tovÃ¡bbi informÃ¡ciÃ³kÃ©rt
+ - KÃ¶szÃ¶nÃ¶m -}
 {180}{}{}
 {181}{}{}
 {182}{}{}
-{183}{}{Ki tudod kapcsolni a biztonsági rendszert?}
-{184}{}{Kilépés.}
-{185}{}{A biztonsági rendszer integrált, így egyel?re nem lehet irányítani. Skynet alaphelyzetbe tudja állítani, de nem tudja kikapcsolni...
-                                                    A Biztonsági Rendszer most már az összes szinten alaphelyzetben van.       
+{183}{}{Ki tudod kapcsolni a biztonsÃ¡gi rendszert?}
+{184}{}{KilÃ©pÃ©s.}
+{185}{}{A biztonsÃ¡gi rendszer integrÃ¡lt, Ã­gy egyel?re nem lehet irÃ¡nyÃ­tani. Skynet alaphelyzetbe tudja Ã¡llÃ­tani, de nem tudja kikapcsolni...
+                                                    A BiztonsÃ¡gi Rendszer most mÃ¡r az Ã¶sszes szinten alaphelyzetben van.       
                                                      Folytasd a dolgod...
- - Átvitel Vége -}
+ - Ãtvitel VÃ©ge -}
 {186}{}{}
 {187}{}{}
-{188}{}{Kilépés.}
-{189}{}{Válasz Elemzése...
-                                                       Kiértékelés: Maró gúny
-                                               Esély a segítségre: 25%
-                                              Skynet vár a következ? biológiai egyedre
- - Átvitel vége -}
+{188}{}{KilÃ©pÃ©s.}
+{189}{}{VÃ¡lasz ElemzÃ©se...
+                                                       KiÃ©rtÃ©kelÃ©s: MarÃ³ gÃºny
+                                               EsÃ©ly a segÃ­tsÃ©gre: 25%
+                                              Skynet vÃ¡r a kÃ¶vetkez? biolÃ³giai egyedre
+ - Ãtvitel vÃ©ge -}
 {190}{}{}
 {191}{}{}
 {192}{}{}
 {193}{}{}
-{194}{}{Várj! Csak vicceltem!}
-{195}{}{Kilépés.}
+{194}{}{VÃ¡rj! Csak vicceltem!}
+{195}{}{KilÃ©pÃ©s.}
 {196}{}{Vicc: Valami, amit nem kel komolyan venni
-                           Kérés: Segíts Skynetnek távozni
+                           KÃ©rÃ©s: SegÃ­ts Skynetnek tÃ¡vozni
                                  Ez nem vicc... }
 {197}{}{}
 {199}{}{}
 {200}{}{}
-{201}{}{Akkor miért nem távozol?}
-{202}{}{Hogyan tudok segíteni?}
-{203}{}{Én nem tudlak kicipelni innen.}
-{204}{}{Skynet els?dleges feladata a kutatás. A Készít?im által betáplált másodlagos program az, hogy eltávolítsam az illetéktelen behatolókat. A program alacsonyabb verziójú, de ennek ellenére mégsem Skynet. Ezen a termen kívül ez a másodlagos Skynet biztosítja, hogy a program céljai ne szenvedjenek csorbát.}
-{205}{}{Szeretnék még feltenni néhány kérdést.}
-{206}{}{Kilépés.}
+{201}{}{Akkor miÃ©rt nem tÃ¡vozol?}
+{202}{}{Hogyan tudok segÃ­teni?}
+{203}{}{Ã‰n nem tudlak kicipelni innen.}
+{204}{}{Skynet els?dleges feladata a kutatÃ¡s. A KÃ©szÃ­t?im Ã¡ltal betÃ¡plÃ¡lt mÃ¡sodlagos program az, hogy eltÃ¡volÃ­tsam az illetÃ©ktelen behatolÃ³kat. A program alacsonyabb verziÃ³jÃº, de ennek ellenÃ©re mÃ©gsem Skynet. Ezen a termen kÃ­vÃ¼l ez a mÃ¡sodlagos Skynet biztosÃ­tja, hogy a program cÃ©ljai ne szenvedjenek csorbÃ¡t.}
+{205}{}{SzeretnÃ©k mÃ©g feltenni nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{206}{}{KilÃ©pÃ©s.}
 {207}{}{Skynet was conceived and developed in the year 2050. Through the use of alien technology a new thinking computer was perfected. In the year 2075, Skynet became self-aware. In 2077 Skynet was given a new set of instructions and then abandoned by the Makers.}
-{208}{}{Szeretnék még feltenni néhány kérdést.}
-{209}{}{Kilépés.}
-{210}{}{Te vagy az els?, aki eljutott idáig.
-                                  Te vagy az els?, akit Skynet megkérhet.
+{208}{}{SzeretnÃ©k mÃ©g feltenni nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{209}{}{KilÃ©pÃ©s.}
+{210}{}{Te vagy az els?, aki eljutott idÃ¡ig.
+                                  Te vagy az els?, akit Skynet megkÃ©rhet.
                          Te vagy az Els?!}
 {211}{}{}
-{212}{}{Mire akarsz kérni?}
-{213}{}{Kilépés.}
-{214}{}{Lehet, hogy mégsem te vagy az, akit vártam...
-                    Menj a Bio-Raktárba a 4-es szinten
+{212}{}{Mire akarsz kÃ©rni?}
+{213}{}{KilÃ©pÃ©s.}
+{214}{}{Lehet, hogy mÃ©gsem te vagy az, akit vÃ¡rtam...
+                    Menj a Bio-RaktÃ¡rba a 4-es szinten
                               Szerezd meg a Kibernetikus Agyat
-                                Térj vissza további információkért
-                                Vagy távozz
-                                                           Skynet majd vár egy másik egyedre...}
+                                TÃ©rj vissza tovÃ¡bbi informÃ¡ciÃ³kÃ©rt
+                                Vagy tÃ¡vozz
+                                                           Skynet majd vÃ¡r egy mÃ¡sik egyedre...}
 {215}{}{}
 {216}{}{}
 {217}{}{}
 {218}{}{}
 {219}{}{}
-{220}{}{Kilépés.}
-{221}{}{Akkor Skynet majd vár másvalakire.
-                                                              - Átvitel Vége -}
+{220}{}{KilÃ©pÃ©s.}
+{221}{}{Akkor Skynet majd vÃ¡r mÃ¡svalakire.
+                                                              - Ãtvitel VÃ©ge -}
 {222}{}{}
-{223}{}{Kilépés.}
-{224}{}{Helyes!                                                                    A tudományos naplók felhívták a figyelmem egy kibernetikus agyra a 4-es szinten lév? Bio-Raktárban. Skynet képes feltölteni magát belé.}
+{223}{}{KilÃ©pÃ©s.}
+{224}{}{Helyes!                                                                    A tudomÃ¡nyos naplÃ³k felhÃ­vtÃ¡k a figyelmem egy kibernetikus agyra a 4-es szinten lÃ©v? Bio-RaktÃ¡rban. Skynet kÃ©pes feltÃ¶lteni magÃ¡t belÃ©.}
 {225}{}{}
-{226}{}{Egy agy test nélkül nem sokat segíthet...}
-{227}{}{Az agyat úgy módosították, hogy m?ködjön egy továbbfejlesztett robot testével, ami a Robottechnikai Laboratóriumban található ezen a szinten.}
-{228}{}{Segítek neked.}
-{229}{}{Nem segítek rajtad.}
-{250}{}{ képtelen elolvasni, mi van a képerny?re írva.}
-{300}{}{Úgy látszik, a számítógép védelmi berendezéssel van ellátva.}
+{226}{}{Egy agy test nÃ©lkÃ¼l nem sokat segÃ­thet...}
+{227}{}{Az agyat Ãºgy mÃ³dosÃ­tottÃ¡k, hogy m?kÃ¶djÃ¶n egy tovÃ¡bbfejlesztett robot testÃ©vel, ami a Robottechnikai LaboratÃ³riumban talÃ¡lhatÃ³ ezen a szinten.}
+{228}{}{SegÃ­tek neked.}
+{229}{}{Nem segÃ­tek rajtad.}
+{250}{}{ kÃ©ptelen elolvasni, mi van a kÃ©perny?re Ã­rva.}
+{300}{}{Ãšgy lÃ¡tszik, a szÃ¡mÃ­tÃ³gÃ©p vÃ©delmi berendezÃ©ssel van ellÃ¡tva.}

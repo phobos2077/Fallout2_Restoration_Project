@@ -1,4 +1,4 @@
-{150}{}{Semmi hasznosat nem tudtál csinálni, cserébe megrázott 50000 volt. Legalább nem kell többet borotválkoznod.}
-{151}{}{Az er?tér sértetlennek t?nik.}
-{152}{}{Az er?tér 15 másodpercre megsz?nt.}
-{200}{}{Igen, elég sok energia megy keresztül ezen. Megállsz, miel?tt az elektromosság ívet húzna a kezedhez.}
+{150}{}{Semmi hasznosat nem tudtÃ¡l csinÃ¡lni, cserÃ©be megrÃ¡zott 50000 volt. LegalÃ¡bb nem kell tÃ¶bbet borotvÃ¡lkoznod.}
+{151}{}{Az er?tÃ©r sÃ©rtetlennek t?nik.}
+{152}{}{Az er?tÃ©r 15 mÃ¡sodpercre megsz?nt.}
+{200}{}{Igen, elÃ©g sok energia megy keresztÃ¼l ezen. MegÃ¡llsz, miel?tt az elektromossÃ¡g Ã­vet hÃºzna a kezedhez.}

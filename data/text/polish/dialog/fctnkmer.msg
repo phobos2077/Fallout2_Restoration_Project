@@ -1,32 +1,32 @@
 {100}{}{Widzisz handlarza.}
-{101}{}{Widzisz Jennê, w³aœcicielkê sklepu.}
-{102}{}{Widzisz œliczn¹ w³aœcicielkê sklepu.}
-{103}{}{Czeœæ! Jestem Jenna. Czym mogê s³u¿yæ?}
-{104}{}{Ja chcieæ informacji.}
+{101}{}{Widzisz JennÄ™, wÅ‚aÅ›cicielkÄ™ sklepu.}
+{102}{}{Widzisz Å›licznÄ… wÅ‚aÅ›cicielkÄ™ sklepu.}
+{103}{}{CzeÅ›Ä‡! Jestem Jenna. Czym mogÄ™ sÅ‚uÅ¼yÄ‡?}
+{104}{}{Ja chcieÄ‡ informacji.}
 {105}{}{A co masz?}
-{106}{}{Niczym, ja iœæ.}
-{107}{}{Potrzebujê informacji.}
+{106}{}{Niczym, ja iÅ›Ä‡.}
+{107}{}{PotrzebujÄ™ informacji.}
 {108}{}{A co masz do zaoferowania?}
 {109}{}{Nie teraz.}
-{110}{}{Mówi¹, ¿e im mniej wiesz, tym d³u¿ej ¿yjesz. Wiêcej informacji ode mnie nie uzyskasz. Chcesz obejrzeæ mój towar?}
+{110}{}{MÃ³wiÄ…, Å¼e im mniej wiesz, tym dÅ‚uÅ¼ej Å¼yjesz. WiÄ™cej informacji ode mnie nie uzyskasz. Chcesz obejrzeÄ‡ mÃ³j towar?}
 {111}{}{Tak.}
 {112}{}{Nie.}
-{113}{}{Œwietnie. Rozejrzyj siê.}
+{113}{}{Åšwietnie. Rozejrzyj siÄ™.}
 {114}{}{}
-{115}{}{W porz¹dku.}
-{116}{}{Coœ jeszcze?}
+{115}{}{W porzÄ…dku.}
+{116}{}{CoÅ› jeszcze?}
 {117}{}{Tak.}
 {118}{}{Nie.}
-{119}{}{W takim razie ¿yczê mi³ego dnia.}
+{119}{}{W takim razie Å¼yczÄ™ miÅ‚ego dnia.}
 {120}{}{}
-{121}{}{W porz¹dku.}
-{122}{}{Witaj ponownie. Mogê ci pomóc jeszcze w czymœ?}
+{121}{}{W porzÄ…dku.}
+{122}{}{Witaj ponownie. MogÄ™ ci pomÃ³c jeszcze w czymÅ›?}
 {123}{}{Tak.}
 {124}{}{Nie.}
-{125}{}{Przykro mi, ale jest ju¿ zamkniête. Otwieram o ósmej, przyjdŸ wtedy.}
+{125}{}{Przykro mi, ale jest juÅ¼ zamkniÄ™te. Otwieram o Ã³smej, przyjdÅº wtedy.}
 {126}{}{}
-{127}{}{W porz¹dku.}
-{128}{}{Nie chcê ciê tutaj. Wynoœ siê st¹d!}
+{127}{}{W porzÄ…dku.}
+{128}{}{Nie chcÄ™ ciÄ™ tutaj. WynoÅ› siÄ™ stÄ…d!}
 {129}{}{}
-{130}{}{W porz¹dku.}
-{131}{}{Mam nadziejê, ¿e ta dostawa nied³ugo tu dotrze.}
+{130}{}{W porzÄ…dku.}
+{131}{}{Mam nadziejÄ™, Å¼e ta dostawa niedÅ‚ugo tu dotrze.}

@@ -1,64 +1,64 @@
-{100}{}{Egy öreged? földfoglalót látsz.}
-{101}{}{Zeke, a földfoglalók egyike.}
-{102}{}{Egy öreged? férfit látsz, vékony, ?sz hajjal.}
-{103}{}{A nevem Zeke, idegen. Sajnálom, de nincs id?m veled beszélgetni -- és egyébként sem hinném, hogy bármi is lenne számodra ezen a helyen. Tovább kellene állnod.}
-{104}{}{Ööö, oké.}
-{105}{}{Én van kérdések.}
+{100}{}{Egy Ã¶reged? fÃ¶ldfoglalÃ³t lÃ¡tsz.}
+{101}{}{Zeke, a fÃ¶ldfoglalÃ³k egyike.}
+{102}{}{Egy Ã¶reged? fÃ©rfit lÃ¡tsz, vÃ©kony, ?sz hajjal.}
+{103}{}{A nevem Zeke, idegen. SajnÃ¡lom, de nincs id?m veled beszÃ©lgetni -- Ã©s egyÃ©bkÃ©nt sem hinnÃ©m, hogy bÃ¡rmi is lenne szÃ¡modra ezen a helyen. TovÃ¡bb kellene Ã¡llnod.}
+{104}{}{Ã–Ã¶Ã¶, okÃ©.}
+{105}{}{Ã‰n van kÃ©rdÃ©sek.}
 {106}{}{Rendben, elmegyek.}
-{107}{}{Csak pár kérdést akartam feltenni.}
-{108}{}{Nos, azt hiszem, rá fogsz jönni, hogy kifogytunk a válaszokból. Miért nem jössz vissza, ha kapunk egy újabb szállítmányt?}
-{109}{}{Megbeszéltük.}
-{110}{}{Üdv újra nálunk. Még mindig nem érkeztek meg a válaszok. Fogadj meg egy tanácsot, és t?nj a fenébe.}
-{111}{}{Megbeszéltük.}
-{112}{}{Rebecca elmondta, mit tettél érte. Elnézésedet kérem a bánásmódért. Kétségkívül nem ezt érdemelted. Miben segíthetek?}
-{113}{}{Én van kérdések.}
-{114}{}{Semmiben. Pápá.}
-{115}{}{Lenne néhány kérdésem.}
-{116}{}{Jelenleg semmiben, köszönöm.}
+{107}{}{Csak pÃ¡r kÃ©rdÃ©st akartam feltenni.}
+{108}{}{Nos, azt hiszem, rÃ¡ fogsz jÃ¶nni, hogy kifogytunk a vÃ¡laszokbÃ³l. MiÃ©rt nem jÃ¶ssz vissza, ha kapunk egy Ãºjabb szÃ¡llÃ­tmÃ¡nyt?}
+{109}{}{MegbeszÃ©ltÃ¼k.}
+{110}{}{Ãœdv Ãºjra nÃ¡lunk. MÃ©g mindig nem Ã©rkeztek meg a vÃ¡laszok. Fogadj meg egy tanÃ¡csot, Ã©s t?nj a fenÃ©be.}
+{111}{}{MegbeszÃ©ltÃ¼k.}
+{112}{}{Rebecca elmondta, mit tettÃ©l Ã©rte. ElnÃ©zÃ©sedet kÃ©rem a bÃ¡nÃ¡smÃ³dÃ©rt. KÃ©tsÃ©gkÃ­vÃ¼l nem ezt Ã©rdemelted. Miben segÃ­thetek?}
+{113}{}{Ã‰n van kÃ©rdÃ©sek.}
+{114}{}{Semmiben. PÃ¡pÃ¡.}
+{115}{}{Lenne nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{116}{}{Jelenleg semmiben, kÃ¶szÃ¶nÃ¶m.}
 {117}{}{Mit akarsz tudni?}
 {118}{}{Te dolgozni Darion?}
-{119}{}{Mit te csinálni rablókkal?}
-{120}{}{Hol lenni menedék ajtó?}
-{121}{}{Mi más folyik itt?}
+{119}{}{Mit te csinÃ¡lni rablÃ³kkal?}
+{120}{}{Hol lenni menedÃ©k ajtÃ³?}
+{121}{}{Mi mÃ¡s folyik itt?}
 {122}{}{Elmegyek.}
 {123}{}{Darionnak dolgozol?}
-{124}{}{Mit szándékozik tenni a rablók ügyében?}
-{125}{}{Merre van a Menedék bejárata?}
-{126}{}{Mi történik mostanában errefelé?}
+{124}{}{Mit szÃ¡ndÃ©kozik tenni a rablÃ³k Ã¼gyÃ©ben?}
+{125}{}{Merre van a MenedÃ©k bejÃ¡rata?}
+{126}{}{Mi tÃ¶rtÃ©nik mostanÃ¡ban errefelÃ©?}
 {127}{}{Azt hiszem, ennyi. Most megyek.}
-{128}{}{Igen, neki. Én vagyok a közvetít? közte és az itteniek között. Most, hogy tudom a tényeket, nem nagyon örülök ennek.}
-{129}{}{Oké.}
-{130}{}{Értem.}
-{131}{}{Semmit. Fegyvereik vannak, az ? irányításuk alatt van a táplálék és a víz is. Ez azt jelenti, hogy ?k parancsolnak. Pont. Nem vagyunk képzettek, és Darion pártfogása nélkül nincs semmiféle támaszunk. Hogy fordulhatnánk ellene? Ki vagyunk szolgáltatva neki.}
-{132}{}{Hmm. Én gondol én ért.}
-{133}{}{Hmm. Értem.}
-{134}{}{Itt van az ajtó mögött, de be van zárva a másik oldalról, és alá is van aknázva. Ráadásul nincs semmiféle eszközöm, hogy kinyissam... Várj egy percet. Ezt a kulcs-kártyát még régebben találtam, és fogalmam sincs, mire való. Rebecca azt mondta, hogy találtál valami ajtófélét ott, ahol fogvatartották Chrissy-t. Talán ez a kártya kinyitja. Tessék, vedd el.}
-{135}{}{Én köszön.}
-{136}{}{Kösz. Megpróbálom.}
-{137}{}{Innen nyugatra van egy város, ÚKK-nak hívják. Azt állítják, a 15-ös Menedék az ? ?si otthonuk, és visszakövetelik. Embereket küldenek ide, hogy megpróbáljanak rábeszélni minket a távozásra, de mi nem megyünk sehova. Ez az egyetlen otthonunk.}
-{138}{}{Te talán csinál alku ÚKK-val?}
-{139}{}{Gondolt már arra, hogy alkut kössön az ÚKK-val?}
-{140}{}{Az attól függ. Mire gondolsz?}
-{141}{}{Csatlakozz ÚKK törzs. Tanujj vénekt?'! Megenged ÚKK-nak belépni Menedék. Mindenki boldog.}
-{142}{}{Csatlakozzon az ÚKK-hoz, hagyja, hogy hozzájuk csatolják a területeteket, és engedjék be ?ket a Menedékbe. Cserébe megtaníthatják magukat mindenre, ami ahhoz kell, hogy önállóan éljenek, plusz a védelmüket is felajánlhatják,}
-{143}{}{Nem rossz... Nekem tetszik. Amint ráveszed az ÚKK-t, hogy ?k is fogadják el az ajánlatot, máris van egy alkulehet?ség. Viszont... Valakinek gondoskodnia kell Darionról és a barátairól. Mégpedig azel?tt, hogy ráébrednének, mi történt, és felkészülhetnének egy támadásra. Miért nem csinálod ezt végig, és iktatod ki Dariont most? A meglepetés ereje a te oldaladon van.}
-{144}{}{Te jól beszél, én elintéz.}
-{145}{}{Én nem biztos.}
+{128}{}{Igen, neki. Ã‰n vagyok a kÃ¶zvetÃ­t? kÃ¶zte Ã©s az itteniek kÃ¶zÃ¶tt. Most, hogy tudom a tÃ©nyeket, nem nagyon Ã¶rÃ¼lÃ¶k ennek.}
+{129}{}{OkÃ©.}
+{130}{}{Ã‰rtem.}
+{131}{}{Semmit. Fegyvereik vannak, az ? irÃ¡nyÃ­tÃ¡suk alatt van a tÃ¡plÃ¡lÃ©k Ã©s a vÃ­z is. Ez azt jelenti, hogy ?k parancsolnak. Pont. Nem vagyunk kÃ©pzettek, Ã©s Darion pÃ¡rtfogÃ¡sa nÃ©lkÃ¼l nincs semmifÃ©le tÃ¡maszunk. Hogy fordulhatnÃ¡nk ellene? Ki vagyunk szolgÃ¡ltatva neki.}
+{132}{}{Hmm. Ã‰n gondol Ã©n Ã©rt.}
+{133}{}{Hmm. Ã‰rtem.}
+{134}{}{Itt van az ajtÃ³ mÃ¶gÃ¶tt, de be van zÃ¡rva a mÃ¡sik oldalrÃ³l, Ã©s alÃ¡ is van aknÃ¡zva. RÃ¡adÃ¡sul nincs semmifÃ©le eszkÃ¶zÃ¶m, hogy kinyissam... VÃ¡rj egy percet. Ezt a kulcs-kÃ¡rtyÃ¡t mÃ©g rÃ©gebben talÃ¡ltam, Ã©s fogalmam sincs, mire valÃ³. Rebecca azt mondta, hogy talÃ¡ltÃ¡l valami ajtÃ³fÃ©lÃ©t ott, ahol fogvatartottÃ¡k Chrissy-t. TalÃ¡n ez a kÃ¡rtya kinyitja. TessÃ©k, vedd el.}
+{135}{}{Ã‰n kÃ¶szÃ¶n.}
+{136}{}{KÃ¶sz. MegprÃ³bÃ¡lom.}
+{137}{}{Innen nyugatra van egy vÃ¡ros, ÃšKK-nak hÃ­vjÃ¡k. Azt Ã¡llÃ­tjÃ¡k, a 15-Ã¶s MenedÃ©k az ? ?si otthonuk, Ã©s visszakÃ¶vetelik. Embereket kÃ¼ldenek ide, hogy megprÃ³bÃ¡ljanak rÃ¡beszÃ©lni minket a tÃ¡vozÃ¡sra, de mi nem megyÃ¼nk sehova. Ez az egyetlen otthonunk.}
+{138}{}{Te talÃ¡n csinÃ¡l alku ÃšKK-val?}
+{139}{}{Gondolt mÃ¡r arra, hogy alkut kÃ¶ssÃ¶n az ÃšKK-val?}
+{140}{}{Az attÃ³l fÃ¼gg. Mire gondolsz?}
+{141}{}{Csatlakozz ÃšKK tÃ¶rzs. Tanujj vÃ©nekt?'! Megenged ÃšKK-nak belÃ©pni MenedÃ©k. Mindenki boldog.}
+{142}{}{Csatlakozzon az ÃšKK-hoz, hagyja, hogy hozzÃ¡juk csatoljÃ¡k a terÃ¼leteteket, Ã©s engedjÃ©k be ?ket a MenedÃ©kbe. CserÃ©be megtanÃ­thatjÃ¡k magukat mindenre, ami ahhoz kell, hogy Ã¶nÃ¡llÃ³an Ã©ljenek, plusz a vÃ©delmÃ¼ket is felajÃ¡nlhatjÃ¡k,}
+{143}{}{Nem rossz... Nekem tetszik. Amint rÃ¡veszed az ÃšKK-t, hogy ?k is fogadjÃ¡k el az ajÃ¡nlatot, mÃ¡ris van egy alkulehet?sÃ©g. Viszont... Valakinek gondoskodnia kell DarionrÃ³l Ã©s a barÃ¡tairÃ³l. MÃ©gpedig azel?tt, hogy rÃ¡Ã©brednÃ©nek, mi tÃ¶rtÃ©nt, Ã©s felkÃ©szÃ¼lhetnÃ©nek egy tÃ¡madÃ¡sra. MiÃ©rt nem csinÃ¡lod ezt vÃ©gig, Ã©s iktatod ki Dariont most? A meglepetÃ©s ereje a te oldaladon van.}
+{144}{}{Te jÃ³l beszÃ©l, Ã©n elintÃ©z.}
+{145}{}{Ã‰n nem biztos.}
 {146}{}{Igen, azt hiszem, ezt meg kell tenni.}
 {147}{}{Nem tudom.}
-{148}{}{Kiváló. Sok szerencsét, és köszönöm.}
-{149}{}{Megbeszéltük.}
-{150}{}{Nos, gondolkodom rajta, de azért egyet vegyél figyelembe -- amíg Darion a képben van, nincs más választásom, mint fenntartani a dolgokat úgy, ahogy eddig voltak, mindenki biztonsága érdekében. Ez azt jelenti, hogy nincs alku, és te továbbra is persona non grata leszel. Érted?}
-{151}{}{Oké.}
-{152}{}{Üdv! Még mindig várok a problémáink végs? megoldására. Másként fogalmazva, rúgd szét Darion seggét!}
-{153}{}{Megbeszéltük.}
-{154}{}{Megcsináltad, barátom! Tovább nem nyögjük Darion igáját. Köszönöm! Most már kész vagyok elfogadni az ÚKK ajánlatát. Csak egy képvisel?jükre van szükség, és aláírom a szerz?dést.}
-{155}{}{Megbeszéltük.}
-{156}{}{Köszönjük a lehet?séget az új életre. Mindannyian tartozunk neked.}
+{148}{}{KivÃ¡lÃ³. Sok szerencsÃ©t, Ã©s kÃ¶szÃ¶nÃ¶m.}
+{149}{}{MegbeszÃ©ltÃ¼k.}
+{150}{}{Nos, gondolkodom rajta, de azÃ©rt egyet vegyÃ©l figyelembe -- amÃ­g Darion a kÃ©pben van, nincs mÃ¡s vÃ¡lasztÃ¡som, mint fenntartani a dolgokat Ãºgy, ahogy eddig voltak, mindenki biztonsÃ¡ga Ã©rdekÃ©ben. Ez azt jelenti, hogy nincs alku, Ã©s te tovÃ¡bbra is persona non grata leszel. Ã‰rted?}
+{151}{}{OkÃ©.}
+{152}{}{Ãœdv! MÃ©g mindig vÃ¡rok a problÃ©mÃ¡ink vÃ©gs? megoldÃ¡sÃ¡ra. MÃ¡skÃ©nt fogalmazva, rÃºgd szÃ©t Darion seggÃ©t!}
+{153}{}{MegbeszÃ©ltÃ¼k.}
+{154}{}{MegcsinÃ¡ltad, barÃ¡tom! TovÃ¡bb nem nyÃ¶gjÃ¼k Darion igÃ¡jÃ¡t. KÃ¶szÃ¶nÃ¶m! Most mÃ¡r kÃ©sz vagyok elfogadni az ÃšKK ajÃ¡nlatÃ¡t. Csak egy kÃ©pvisel?jÃ¼kre van szÃ¼ksÃ©g, Ã©s alÃ¡Ã­rom a szerz?dÃ©st.}
+{155}{}{MegbeszÃ©ltÃ¼k.}
+{156}{}{KÃ¶szÃ¶njÃ¼k a lehet?sÃ©get az Ãºj Ã©letre. Mindannyian tartozunk neked.}
 {157}{}{Menj el! Nincs mit mondanom neked.}
-{158}{}{Várj, miel?tt mész... Ezt a kulcs-kártyát még régebben találtam, és fogalmam sincs, mire való. Rebecca azt mondta, hogy találtál valami ajtófélét ott, ahol fogva tartották Chrissy-t. Talán ez a kártya kinyitja. Tessék, vedd el!}
-{159}{}{Köszi.}
-{160}{}{Miben segíthetek?}
-{161}{}{Csak a gond az ÚKK-val, de azt hiszem, az alku, amit ajánlottál, meg fogja oldani.}
-{162}{}{Megcsináltad, barátom! Tovább nem nyögjük Darion igáját. Köszönöm!}
-{163}{}{Most, hogy Darion eltávozott, nem fogunk táplálékhoz jutni. Biztosan elpusztulunk. "Nagyon szépen" köszönjük.}
+{158}{}{VÃ¡rj, miel?tt mÃ©sz... Ezt a kulcs-kÃ¡rtyÃ¡t mÃ©g rÃ©gebben talÃ¡ltam, Ã©s fogalmam sincs, mire valÃ³. Rebecca azt mondta, hogy talÃ¡ltÃ¡l valami ajtÃ³fÃ©lÃ©t ott, ahol fogva tartottÃ¡k Chrissy-t. TalÃ¡n ez a kÃ¡rtya kinyitja. TessÃ©k, vedd el!}
+{159}{}{KÃ¶szi.}
+{160}{}{Miben segÃ­thetek?}
+{161}{}{Csak a gond az ÃšKK-val, de azt hiszem, az alku, amit ajÃ¡nlottÃ¡l, meg fogja oldani.}
+{162}{}{MegcsinÃ¡ltad, barÃ¡tom! TovÃ¡bb nem nyÃ¶gjÃ¼k Darion igÃ¡jÃ¡t. KÃ¶szÃ¶nÃ¶m!}
+{163}{}{Most, hogy Darion eltÃ¡vozott, nem fogunk tÃ¡plÃ¡lÃ©khoz jutni. Biztosan elpusztulunk. "Nagyon szÃ©pen" kÃ¶szÃ¶njÃ¼k.}

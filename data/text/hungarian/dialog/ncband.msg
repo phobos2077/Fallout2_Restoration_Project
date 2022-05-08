@@ -1,47 +1,47 @@
 {100}{}{? Frenchy.}
 {101}{}{? Paine.}
-{102}{}{?t Simsnek hívják.}
-{150}{}{Ez a férfi igen-igen szakadt. A ég? kuka mellé húzódott, és közben énekel. Nagyon jó hangja van.}
-{151}{}{Ez az ember énekes. Az ég? kuka mellé vette be magát, és egész véletlenül énekel.}
-{200}{}{Hé...}
-{203}{}{Segíccsünk valamibe', fijam?}
-{204}{}{::Megemeli a képzeletbeli kalapját:: Segíccsünk valamibe', h?gyem?}
-{205}{}{Ismerni Húzd... húzd... húzd meg jól?}
-{206}{}{El... el tuggyátok jáccani... Lökd ide a sört?}
-{207}{}{Neeem menek én menek}
-{208}{}{Megtisztelnétek vele. Köszi, srácok.}
-{209}{}{Itt van egy kis lovetta. Tudnátok még játszani valamit?}
-{210}{}{Nem, köszi, csak fülelek.}
-{300}{}{Jól van akkor... hallottátok a srácot, fiúk. Próbájjunk valami egéssszen mást!}
-{301}{}{Jól van akkor... hallottátok a hölgyet, fiúk. Próbájjunk valami egéssszen mást!}
-{302}{}{Kösssz}
-{303}{}{Köszi, srácok.}
-{400}{}{Óóóóh}
-{402}{}{Honvágyam van, nem tudom hovaaaa...}
-{405}{}{Attól félek, sosem érek haza...}
-{408}{}{Hiába repülöm át az id?t, az életem tipikus renói cs?d...}
+{102}{}{?t Simsnek hÃ­vjÃ¡k.}
+{150}{}{Ez a fÃ©rfi igen-igen szakadt. A Ã©g? kuka mellÃ© hÃºzÃ³dott, Ã©s kÃ¶zben Ã©nekel. Nagyon jÃ³ hangja van.}
+{151}{}{Ez az ember Ã©nekes. Az Ã©g? kuka mellÃ© vette be magÃ¡t, Ã©s egÃ©sz vÃ©letlenÃ¼l Ã©nekel.}
+{200}{}{HÃ©...}
+{203}{}{SegÃ­ccsÃ¼nk valamibe', fijam?}
+{204}{}{::Megemeli a kÃ©pzeletbeli kalapjÃ¡t:: SegÃ­ccsÃ¼nk valamibe', h?gyem?}
+{205}{}{Ismerni HÃºzd... hÃºzd... hÃºzd meg jÃ³l?}
+{206}{}{El... el tuggyÃ¡tok jÃ¡ccani... LÃ¶kd ide a sÃ¶rt?}
+{207}{}{Neeem menek Ã©n menek}
+{208}{}{MegtisztelnÃ©tek vele. KÃ¶szi, srÃ¡cok.}
+{209}{}{Itt van egy kis lovetta. TudnÃ¡tok mÃ©g jÃ¡tszani valamit?}
+{210}{}{Nem, kÃ¶szi, csak fÃ¼lelek.}
+{300}{}{JÃ³l van akkor... hallottÃ¡tok a srÃ¡cot, fiÃºk. PrÃ³bÃ¡jjunk valami egÃ©ssszen mÃ¡st!}
+{301}{}{JÃ³l van akkor... hallottÃ¡tok a hÃ¶lgyet, fiÃºk. PrÃ³bÃ¡jjunk valami egÃ©ssszen mÃ¡st!}
+{302}{}{KÃ¶sssz}
+{303}{}{KÃ¶szi, srÃ¡cok.}
+{400}{}{Ã“Ã³Ã³Ã³h}
+{402}{}{HonvÃ¡gyam van, nem tudom hovaaaa...}
+{405}{}{AttÃ³l fÃ©lek, sosem Ã©rek haza...}
+{408}{}{HiÃ¡ba repÃ¼lÃ¶m Ã¡t az id?t, az Ã©letem tipikus renÃ³i cs?d...}
 {409}{}{}
-{500}{}{Vigyázz arra, hogy mit csinálsz,}
-{501}{}{Ha nem figyelsz majd kitör a frász.}
-{502}{}{Megmondtam neked, milyen ez a város, vess magadra és ne engem átkozz! }
+{500}{}{VigyÃ¡zz arra, hogy mit csinÃ¡lsz,}
+{501}{}{Ha nem figyelsz majd kitÃ¶r a frÃ¡sz.}
+{502}{}{Megmondtam neked, milyen ez a vÃ¡ros, vess magadra Ã©s ne engem Ã¡tkozz! }
 {503}{}{}
-{600}{}{Amíg a munka becsület dolga}
-{601}{}{Én tisztességgel megszomjazom.}
-{602}{}{De amíg élek, bár rövid az élet,}
-{603}{}{Vizet már nem iszom.}
+{600}{}{AmÃ­g a munka becsÃ¼let dolga}
+{601}{}{Ã‰n tisztessÃ©ggel megszomjazom.}
+{602}{}{De amÃ­g Ã©lek, bÃ¡r rÃ¶vid az Ã©let,}
+{603}{}{Vizet mÃ¡r nem iszom.}
 {605}{}{}
-{700}{}{Húzd... húzd...}
-{701}{}{Húzd meg jól...}
-{702}{}{Röpülj csónakom}
+{700}{}{HÃºzd... hÃºzd...}
+{701}{}{HÃºzd meg jÃ³l...}
+{702}{}{RÃ¶pÃ¼lj csÃ³nakom}
 {703}{}{Ringasson, ringasson, ringasson}
-{706}{}{Az élet áá-álom.}
+{706}{}{Az Ã©let Ã¡Ã¡-Ã¡lom.}
 {707}{}{}
-{800}{}{Mérgez? n?k, mérgezett tudat, közvetlen hang, közvetlen életveszély }
-{801}{}{Kinek emelhetsz szobrot? Kinek a nevében beszélj? Miért égnek a hangok?}
-{802}{}{Ki lesz az úr? Van-e élet a Földön...}
-{803}{}{A metadonon túl}
+{800}{}{MÃ©rgez? n?k, mÃ©rgezett tudat, kÃ¶zvetlen hang, kÃ¶zvetlen Ã©letveszÃ©ly }
+{801}{}{Kinek emelhetsz szobrot? Kinek a nevÃ©ben beszÃ©lj? MiÃ©rt Ã©gnek a hangok?}
+{802}{}{Ki lesz az Ãºr? Van-e Ã©let a FÃ¶ldÃ¶n...}
+{803}{}{A metadonon tÃºl}
 {804}{}{}
-{900}{}{Emlékszel a FALLOUT 2 elején a Louis Armstrong számra? Na, figyu... Give me}
+{900}{}{EmlÃ©kszel a FALLOUT 2 elejÃ©n a Louis Armstrong szÃ¡mra? Na, figyu... Give me}
 {901}{}{A kiss to build a dream on}
 {902}{}{And my imagination}
 {903}{}{Will thrive upon that kiss}
@@ -59,12 +59,12 @@
 {920}{}{Oh, give me your lips for just a moment}
 {921}{}{And my imagination will make that moment live...}
 {923}{}{Give me what you alone can give}
-{925}{}{::Szájjal trombitál::}
+{925}{}{::SzÃ¡jjal trombitÃ¡l::}
 {930}{}{I'll... be with yoooou}
-{933}{}{Óhhhh}
+{933}{}{Ã“hhhh}
 {935}{}{lips for just a moment}
 {937}{}{Will make that moment live}
 {941}{}{}
-{1200}{}{! A nagy h?s! Segíthetünk valamiben? Énekeljünk valami különlegeset talán?}
-{1201}{}{. Segíthetünk valamiben?}
-{1202}{}{. Segíthetünk valamiben, bajnok?}
+{1200}{}{! A nagy h?s! SegÃ­thetÃ¼nk valamiben? Ã‰nekeljÃ¼nk valami kÃ¼lÃ¶nlegeset talÃ¡n?}
+{1201}{}{. SegÃ­thetÃ¼nk valamiben?}
+{1202}{}{. SegÃ­thetÃ¼nk valamiben, bajnok?}

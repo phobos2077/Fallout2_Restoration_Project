@@ -1,39 +1,39 @@
-{100}{}{Tu vois un moine d'un certain âge.}
-{101}{}{Tu vois Frère Matthew.}
-{102}{}{Debout sur un podium, il prêche aux habitants de l'Abbaye.}
-{200}{}{Chers habitants de l'Abbaye. Prenez un instant pour écouter ce que j'ai à vous dire.}
-{201}{}{Ici nous collectons, les reliques sacrées d'un temps révolu.}
-{202}{}{Brûlés par le Déluge de Flammes, dans le noir, nous fûmes jetés.}
-{203}{}{Un Mémorial nous ferons, pour préserver la sagesse des anciens.}
-{204}{}{Nous devons le garder et prendre soin de lui, même si la flamme s'est refroidie;}
-{205}{}{Il pourrait s'enflammer une fois encore, fusse la sagesse utilisée à mauvais escient.}
-{206}{}{Ainsi, nul ne peut apprendre, par crainte d'un autre, le Déluge de Flammes.}
-{207}{}{Mais un jour, les hommes s'élèveront au-dessus de leur désir de destruction.}
-{208}{}{Et le Mémorial sera là, attendant la réintroduction.}
-{209}{}{Donc nous devons nous consacrer à notre tâche, de peur que toute cette sagesse, nous perdions.}
-{210}{}{Nous devons le préserver et le protéger, mais ne jamais l'utiliser.}
-{211}{}{Donc, mes frères, partez maintenant, et laissez vos esprits s'élever;}
-{212}{}{Par les gardiens de la connaissance, nous avons chacun, été doté.}
-{213}{}{A présent, je vous prie de prendre un moment, pour réfléchir sur ces paroles.}
-{224}{}{A présent, je vous prie de prendre un moment, pour réfléchir sur ces paroles.}
-{300}{}{Salutations l'ami. Je ne pense pas vous avoir vu par ici. Mon nom est frère Matthew, j'enseigne au monde l'importance des livres et du savoir qu'ils renferment.}
+{100}{}{Tu vois un moine d'un certain Ã¢ge.}
+{101}{}{Tu vois FrÃ¨re Matthew.}
+{102}{}{Debout sur un podium, il prÃªche aux habitants de l'Abbaye.}
+{200}{}{Chers habitants de l'Abbaye. Prenez un instant pour Ã©couter ce que j'ai Ã  vous dire.}
+{201}{}{Ici nous collectons, les reliques sacrÃ©es d'un temps rÃ©volu.}
+{202}{}{BrÃ»lÃ©s par le DÃ©luge de Flammes, dans le noir, nous fÃ»mes jetÃ©s.}
+{203}{}{Un MÃ©morial nous ferons, pour prÃ©server la sagesse des anciens.}
+{204}{}{Nous devons le garder et prendre soin de lui, mÃªme si la flamme s'est refroidie;}
+{205}{}{Il pourrait s'enflammer une fois encore, fusse la sagesse utilisÃ©e Ã  mauvais escient.}
+{206}{}{Ainsi, nul ne peut apprendre, par crainte d'un autre, le DÃ©luge de Flammes.}
+{207}{}{Mais un jour, les hommes s'Ã©lÃ¨veront au-dessus de leur dÃ©sir de destruction.}
+{208}{}{Et le MÃ©morial sera lÃ , attendant la rÃ©introduction.}
+{209}{}{Donc nous devons nous consacrer Ã  notre tÃ¢che, de peur que toute cette sagesse, nous perdions.}
+{210}{}{Nous devons le prÃ©server et le protÃ©ger, mais ne jamais l'utiliser.}
+{211}{}{Donc, mes frÃ¨res, partez maintenant, et laissez vos esprits s'Ã©lever;}
+{212}{}{Par les gardiens de la connaissance, nous avons chacun, Ã©tÃ© dotÃ©.}
+{213}{}{A prÃ©sent, je vous prie de prendre un moment, pour rÃ©flÃ©chir sur ces paroles.}
+{224}{}{A prÃ©sent, je vous prie de prendre un moment, pour rÃ©flÃ©chir sur ces paroles.}
+{300}{}{Salutations l'ami. Je ne pense pas vous avoir vu par ici. Mon nom est frÃ¨re Matthew, j'enseigne au monde l'importance des livres et du savoir qu'ils renferment.}
 {301}{}{Heureux de vous rencontrer Matt. Je m'appelle }
-{302}{}{ et je suis en quête du J.E.K sacré.}
-{303}{}{Désolé, je dois partir.}
-{400}{}{Un J.E.K, hein ? J'ai le souvenir d'avoir lu quelque chose à ce propos lors de l'une de mes sessions de lecture. Allez au second étage, et demandez l'accès à l'un de nos ordinateurs. Je suis sûr que vous trouverez quelque chose d'intéressant là-bas. Et tant que vous y êtes, prenez un moment pour consulter notre bibliothèque. Tous nos livres n'ont pas encore été recopiés sur les ordinateurs et de grands ouvrages sont encore dans leur format originel.}
+{302}{}{ et je suis en quÃªte du J.E.K sacrÃ©.}
+{303}{}{DÃ©solÃ©, je dois partir.}
+{400}{}{Un J.E.K, hein ? J'ai le souvenir d'avoir lu quelque chose Ã  ce propos lors de l'une de mes sessions de lecture. Allez au second Ã©tage, et demandez l'accÃ¨s Ã  l'un de nos ordinateurs. Je suis sÃ»r que vous trouverez quelque chose d'intÃ©ressant lÃ -bas. Et tant que vous y Ãªtes, prenez un moment pour consulter notre bibliothÃ¨que. Tous nos livres n'ont pas encore Ã©tÃ© recopiÃ©s sur les ordinateurs et de grands ouvrages sont encore dans leur format originel.}
 {401}{}{Je pense que j'irai. Mais j'ai d'autres questions.}
-{402}{}{Merci. Je devrais y aller à présent.}
-{500}{}{Je suis à votre service. Que voudriez-vous savoir ?}
+{402}{}{Merci. Je devrais y aller Ã  prÃ©sent.}
+{500}{}{Je suis Ã  votre service. Que voudriez-vous savoir ?}
 {501}{}{Que pouvez-vous me dire sur cet endroit ?}
-{502}{}{Votre prêche semblait très poétique. Une raison particulière ?}
+{502}{}{Votre prÃªche semblait trÃ¨s poÃ©tique. Une raison particuliÃ¨re ?}
 {503}{}{Peu importe. Prenez soin de vous.}
-{600}{}{Hé bien, l'Abbaye est le foyer de tous, tant qu'on n'y vient pas créer de troubles. Nous sommes une communauté indépendante et ne recevons que rarement des visiteurs. La majorité des personnes que vous voyez ici sont arrivées ensemble. Je faisais partie de ce groupe et je n'étais encore qu'un enfant. Nous avons atteint ce vieux monastère et avons pensé que ce serait un endroit de paix. Nous avons trouvé des livres un peu partout et avons décidé que notre mission serait de les préserver pour que les générations futures puissent en profiter également.}
+{600}{}{HÃ© bien, l'Abbaye est le foyer de tous, tant qu'on n'y vient pas crÃ©er de troubles. Nous sommes une communautÃ© indÃ©pendante et ne recevons que rarement des visiteurs. La majoritÃ© des personnes que vous voyez ici sont arrivÃ©es ensemble. Je faisais partie de ce groupe et je n'Ã©tais encore qu'un enfant. Nous avons atteint ce vieux monastÃ¨re et avons pensÃ© que ce serait un endroit de paix. Nous avons trouvÃ© des livres un peu partout et avons dÃ©cidÃ© que notre mission serait de les prÃ©server pour que les gÃ©nÃ©rations futures puissent en profiter Ã©galement.}
 {601}{}{Continue.}
-{602}{}{Avec les années, quelques autres voyageurs sont parvenus jusqu'ici et ont décidé d'y rester. Cet endroit resta très calme et nous espérons que cela continuera.}
-{603}{}{Très intéressant. J'ai une autre question.}
-{604}{}{Intéressant. Bien, je dois m'en aller.}
-{700}{}{[L'homme glousse à votre question.] Non, non aucune raison particulière. J'ai simplement lu beaucoup de poésies et j'aime à m'en servir dans mes enseignements. Ca permet de laisser un plus grand impact dans l'esprit de ceux qui écoutent.}
-{701}{}{Très bien. Une autre question.}
+{602}{}{Avec les annÃ©es, quelques autres voyageurs sont parvenus jusqu'ici et ont dÃ©cidÃ© d'y rester. Cet endroit resta trÃ¨s calme et nous espÃ©rons que cela continuera.}
+{603}{}{TrÃ¨s intÃ©ressant. J'ai une autre question.}
+{604}{}{IntÃ©ressant. Bien, je dois m'en aller.}
+{700}{}{[L'homme glousse Ã  votre question.] Non, non aucune raison particuliÃ¨re. J'ai simplement lu beaucoup de poÃ©sies et j'aime Ã  m'en servir dans mes enseignements. Ca permet de laisser un plus grand impact dans l'esprit de ceux qui Ã©coutent.}
+{701}{}{TrÃ¨s bien. Une autre question.}
 {800}{}{C'est bon de vous revoir }
 {801}{}{. Que puis-je faire pour vous ?}
 {802}{}{J'ai quelques questions.}

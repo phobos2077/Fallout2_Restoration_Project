@@ -1,33 +1,33 @@
-{100}{}{Egy számítógép-terminált látsz.}
-{101}{}{Fizika-állomás.}
-{102}{}{M?köd? számítógép-terminál.}
-{103}{}{Üdvözöljük! Kérem, azonosítsa magát!}
-{104}{}{[Óóó! Nézd már a villogó fényeket!]}
-{105}{}{::megpróbálod kitalálni a jelszót::}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz.}
+{101}{}{Fizika-Ã¡llomÃ¡s.}
+{102}{}{M?kÃ¶d? szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l.}
+{103}{}{ÃœdvÃ¶zÃ¶ljÃ¼k! KÃ©rem, azonosÃ­tsa magÃ¡t!}
+{104}{}{[Ã“Ã³Ã³! NÃ©zd mÃ¡r a villogÃ³ fÃ©nyeket!]}
+{105}{}{::megprÃ³bÃ¡lod kitalÃ¡lni a jelszÃ³t::}
 {106}{}{KSLJKJ:Ken-Lee-97313}
-{107}{}{::meghekkeled a számítógépet::}
-{108}{}{Kilépés.}
-{109}{}{Fizika adatbázis: -Kutatás- -Teória-}
-{110}{}{Kutatás...}
-{111}{}{Teória...}
-{112}{}{Állomás deaktiválása.}
-{113}{}{Helytelen jelszó! Kérem, beszéljen a rendszergazdával. Viszlát!}
-{114}{}{::meghekkeled a számítógépet::}
-{115}{}{::távozol::}
-{116}{}{Behatolót érzékeltem. Lekapcsolás. Legyen jó napja!}
-{117}{}{-kész-}
-{118}{}{"A gépmadár terveinek közelmúltbeli megszerzésével hatalmas lépést tettünk egy repül? járm? gyakorlati megvalósítása felé. Az év végére várjuk a m?köd? prototípus elkészülését, két éven belül pedig megkezd?dhet a tömeggyártás." - Dr. Wong}
+{107}{}{::meghekkeled a szÃ¡mÃ­tÃ³gÃ©pet::}
+{108}{}{KilÃ©pÃ©s.}
+{109}{}{Fizika adatbÃ¡zis: -KutatÃ¡s- -TeÃ³ria-}
+{110}{}{KutatÃ¡s...}
+{111}{}{TeÃ³ria...}
+{112}{}{ÃllomÃ¡s deaktivÃ¡lÃ¡sa.}
+{113}{}{Helytelen jelszÃ³! KÃ©rem, beszÃ©ljen a rendszergazdÃ¡val. ViszlÃ¡t!}
+{114}{}{::meghekkeled a szÃ¡mÃ­tÃ³gÃ©pet::}
+{115}{}{::tÃ¡vozol::}
+{116}{}{BehatolÃ³t Ã©rzÃ©keltem. LekapcsolÃ¡s. Legyen jÃ³ napja!}
+{117}{}{-kÃ©sz-}
+{118}{}{"A gÃ©pmadÃ¡r terveinek kÃ¶zelmÃºltbeli megszerzÃ©sÃ©vel hatalmas lÃ©pÃ©st tettÃ¼nk egy repÃ¼l? jÃ¡rm? gyakorlati megvalÃ³sÃ­tÃ¡sa felÃ©. Az Ã©v vÃ©gÃ©re vÃ¡rjuk a m?kÃ¶d? prototÃ­pus elkÃ©szÃ¼lÃ©sÃ©t, kÃ©t Ã©ven belÃ¼l pedig megkezd?dhet a tÃ¶meggyÃ¡rtÃ¡s." - Dr. Wong}
 {119}{}{::copy plans::}
 {120}{}{Vissza.}
-{121}{}{"Még mindig dolgozunk egy leveg?ben közleked? járm? használható modelljén. Az eddig elkészült tervek egyike sem bizonyult biztonságosnak, aerodinamikusnak. Talán ha hozzáférhetnénk az ?sök terveihez..." - Dr. Wong}
+{121}{}{"MÃ©g mindig dolgozunk egy leveg?ben kÃ¶zleked? jÃ¡rm? hasznÃ¡lhatÃ³ modelljÃ©n. Az eddig elkÃ©szÃ¼lt tervek egyike sem bizonyult biztonsÃ¡gosnak, aerodinamikusnak. TalÃ¡n ha hozzÃ¡fÃ©rhetnÃ©nk az ?sÃ¶k terveihez..." - Dr. Wong}
 {122}{}{Vissza.}
-{123}{}{(Miután keresztülrágtad magad a bemutatkozáson és a matematikán, felfedezed, hogy a Shik, az ?sök ?rutazási teóriáit alapul véve, újra nukleáris energia kifejlesztésén munkálkodnak. Ezzel fityiszt mutatnak a Hubologistáknak és megzabolázzák a nap, a szél és a tenger energiáját. Legalábbis a jegyzetek tanúsága szerint.)}
+{123}{}{(MiutÃ¡n keresztÃ¼lrÃ¡gtad magad a bemutatkozÃ¡son Ã©s a matematikÃ¡n, felfedezed, hogy a Shik, az ?sÃ¶k ?rutazÃ¡si teÃ³riÃ¡it alapul vÃ©ve, Ãºjra nukleÃ¡ris energia kifejlesztÃ©sÃ©n munkÃ¡lkodnak. Ezzel fityiszt mutatnak a HubologistÃ¡knak Ã©s megzabolÃ¡zzÃ¡k a nap, a szÃ©l Ã©s a tenger energiÃ¡jÃ¡t. LegalÃ¡bbis a jegyzetek tanÃºsÃ¡ga szerint.)}
 {124}{}{Vissza.}
-{125}{}{Állomás deaktiválva.}
-{126}{}{Állomás aktiválása.}
-{127}{}{-kilépés-}
-{128}{}{Véletlenszer? bet?- és számkombinációkat kezdesz bepötyögni és valami hihetetlen szerencse folytán sikerrel jársz! Disznó szerencséd van...}
-{129}{}{-tovább-}
-{130}{}{A számítógép semmilyen inputra nem reagál.}
-{131}{}{Nem találsz rajta semmilyen helyet, ahol ezt alkalmazhatnád.}
-{132}{}{Tervek másolása folyamatban... másolás kész... Visszatérés a... I/O error... GPF... Terminál deaktiválva.}
+{125}{}{ÃllomÃ¡s deaktivÃ¡lva.}
+{126}{}{ÃllomÃ¡s aktivÃ¡lÃ¡sa.}
+{127}{}{-kilÃ©pÃ©s-}
+{128}{}{VÃ©letlenszer? bet?- Ã©s szÃ¡mkombinÃ¡ciÃ³kat kezdesz bepÃ¶tyÃ¶gni Ã©s valami hihetetlen szerencse folytÃ¡n sikerrel jÃ¡rsz! DisznÃ³ szerencsÃ©d van...}
+{129}{}{-tovÃ¡bb-}
+{130}{}{A szÃ¡mÃ­tÃ³gÃ©p semmilyen inputra nem reagÃ¡l.}
+{131}{}{Nem talÃ¡lsz rajta semmilyen helyet, ahol ezt alkalmazhatnÃ¡d.}
+{132}{}{Tervek mÃ¡solÃ¡sa folyamatban... mÃ¡solÃ¡s kÃ©sz... VisszatÃ©rÃ©s a... I/O error... GPF... TerminÃ¡l deaktivÃ¡lva.}

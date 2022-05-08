@@ -1,6 +1,6 @@
-{100}{}{Zugang genehmigt für Ebene }
+{100}{}{Zugang genehmigt fÃ¼r Ebene }
 {101}{}{Zugang verweigert.}
 {102}{}{Netzhautmuster unbekannt.}
-{103}{}{Sicherheitsverstoß auf Ebene }
-{104}{}{Zugang genehmigt für Ebene 4.}
-{105}{}{Sicherheitsverstoß auf Ebene 4.}
+{103}{}{SicherheitsverstoÃŸ auf Ebene }
+{104}{}{Zugang genehmigt fÃ¼r Ebene 4.}
+{105}{}{SicherheitsverstoÃŸ auf Ebene 4.}

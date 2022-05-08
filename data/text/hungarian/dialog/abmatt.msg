@@ -28,7 +28,7 @@
 {401}{}{I think I just might. I have some questions though.}
 {402}{}{Thanks. I think I'll go do that now.}
 {500}{}{I am at your service. What would you like to know?}
-{501}{}{Mit tudsz mondani nekem err?l a v·rosrÛl?}
+{501}{}{Mit tudsz mondani nekem err?l a v√°rosr√≥l?}
 {502}{}{You seem to be very poetic in your preaching. Any reason for this?}
 {503}{}{Nevermind. Take care.}
 {600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get
@@ -45,6 +45,6 @@
  and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
 {701}{}{Fair enough. Another question.}
 {800}{}{It is good to see you again }
-{801}{}{. Mit tehetek Èrted?}
-{802}{}{Volna nÈh·ny kÈrdÈsem.}
+{801}{}{. Mit tehetek √©rted?}
+{802}{}{Volna n√©h√°ny k√©rd√©sem.}
 {803}{}{Nothing. See you around.}

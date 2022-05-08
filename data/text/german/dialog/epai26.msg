@@ -1,2 +1,2 @@
-{100}{}{Du drückst auf den Auslöser aber es passiert nichts.}
-{101}{}{Du drückst auf den Auslöser und das Dynamit explodiert.}
+{100}{}{Du drÃ¼ckst auf den AuslÃ¶ser aber es passiert nichts.}
+{101}{}{Du drÃ¼ckst auf den AuslÃ¶ser und das Dynamit explodiert.}

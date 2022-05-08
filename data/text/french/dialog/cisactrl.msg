@@ -1,9 +1,9 @@
-{100}{}{Tu vois un ordinateur en état de fonctionnement.}
-{101}{}{Tu vois le terminal de contrôle du trafic aérien.}
-{102}{}{Bienvenue au contrôle du trafic aérien. Ce terminal contrôle l'alignement du satellite afin d'organiser les déplacements des hélicoptères. Veuillez entrer une commande.}
-{103}{}{[Se déconnecter]}
-{104}{}{Aligner le satellite afin de recevoir les coordonnées géographiques de l'Enclave.}
-{105}{}{Satellite en cours de réalignement. Veuillez patienter...}
+{100}{}{Tu vois un ordinateur en Ã©tat de fonctionnement.}
+{101}{}{Tu vois le terminal de contrÃ´le du trafic aÃ©rien.}
+{102}{}{Bienvenue au contrÃ´le du trafic aÃ©rien. Ce terminal contrÃ´le l'alignement du satellite afin d'organiser les dÃ©placements des hÃ©licoptÃ¨res. Veuillez entrer une commande.}
+{103}{}{[Se dÃ©connecter]}
+{104}{}{Aligner le satellite afin de recevoir les coordonnÃ©es gÃ©ographiques de l'Enclave.}
+{105}{}{Satellite en cours de rÃ©alignement. Veuillez patienter...}
 {106}{}{[Plus]}
-{107}{}{Réalignement réussi. Plate-forme d'amarrage prête à accueillir les avions.}
-{108}{}{[Se déconnecter]}
+{107}{}{RÃ©alignement rÃ©ussi. Plate-forme d'amarrage prÃªte Ã  accueillir les avions.}
+{108}{}{[Se dÃ©connecter]}

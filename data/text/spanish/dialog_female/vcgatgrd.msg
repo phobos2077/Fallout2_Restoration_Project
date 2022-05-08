@@ -1,116 +1,116 @@
 {100}{}{Ves a uno de los guardias de las puertas de Ciudad Refugio.}
-{101}{}{Ves a un guardia de apariencia diligente. Lleva una armadura metálica y tiene un rifle que parece muy potente.}
-{102}{}{¡Oye! ¡Sal de aquí!}
+{101}{}{Ves a un guardia de apariencia diligente. Lleva una armadura metÃ¡lica y tiene un rifle que parece muy potente.}
+{102}{}{Â¡Oye! Â¡Sal de aquÃ­!}
 {103}{}{Te advertimos una vez...}
-{104}{}{¡Oye! Es quien derrotó al Enclave. Abre la puerta.}
-{105}{}{Que le vaya bien, capitán.}
-{106}{}{Señora. Me alegra verla, señora.}
-{107}{}{¡Señora, sí señora!}
-{108}{}{Ciudad Refugio prevalece, capitán.}
-{109}{}{Mis disculpas, Ciudadana, pero no se permiten necrófagos dentro de Ciudad Refugio.}
+{104}{}{Â¡Oye! Es quien derrotÃ³ al Enclave. Abre la puerta.}
+{105}{}{Que le vaya bien, capitÃ¡n.}
+{106}{}{SeÃ±ora. Me alegra verla, seÃ±ora.}
+{107}{}{Â¡SeÃ±ora, sÃ­ seÃ±ora!}
+{108}{}{Ciudad Refugio prevalece, capitÃ¡n.}
+{109}{}{Mis disculpas, Ciudadana, pero no se permiten necrÃ³fagos dentro de Ciudad Refugio.}
 {110}{}{Mis disculpas, Ciudadana, pero no se permiten mutantes dentro de Ciudad Refugio.}
-{111}{}{Ese necrófago debe alejarse de la entrada. Ahora.}
+{111}{}{Ese necrÃ³fago debe alejarse de la entrada. Ahora.}
 {112}{}{Ese mutante debe alejarse de la entrada. Ahora.}
 {113}{}{Que te vaya bien, Ciudadana.}
 {114}{}{Me alegra verle, Ciudadana.}
 {115}{}{Ciudad Refugio prevalece, Ciudadana.}
-{116}{}{Vete de aquí.}
-{117}{}{Piérdete.}
-{118}{}{¿Tienes algún problema? ¿O estás buscando uno?}
-{119}{}{No quiero tener que hacerte daño.}
-{120}{}{Tienes autorización para pasar. Entra.}
+{116}{}{Vete de aquÃ­.}
+{117}{}{PiÃ©rdete.}
+{118}{}{Â¿Tienes algÃºn problema? Â¿O estÃ¡s buscando uno?}
+{119}{}{No quiero tener que hacerte daÃ±o.}
+{120}{}{Tienes autorizaciÃ³n para pasar. Entra.}
 {121}{}{Que te vaya bien, viajera.}
 {122}{}{Bienvenida de nuevo.}
-{123}{}{Tu lucha contra el Enclave impresionó incluso a la Primer Ciudadano.}
-{124}{}{He oído que has viajado hacia el sur incluso hasta San Francisco. ¿Es cierto?}
-{125}{}{¿Es cierto que los Estados Unidos aún luchan en la guerra?}
-{126}{}{Deberías catalogar tus viajes en la computadora de Ciudad Refugio.}
-{127}{}{Estás invitado a quedarte en Ciudad Refugio tanto tiempo como quieras.}
-{128}{}{Deberías catalogar tus hazañas contra el Enclave e incluirlas en el Servidor de Listas.}
-{129}{}{No se permiten necrófagos en Ciudad Refugio. Saca a esa... cosa de aquí. Ahora.}
-{130}{}{No se permiten mutantes en Ciudad Refugio. Saca a esa... cosa de aquí. Ahora.}
-{131}{}{Quédate justo ahí, amiga. No se permite el paso más allá de este punto a nadie que no tenga una autorización adecuada.}
-{132}{}{¿Auto-rición adec-cada?}
+{123}{}{Tu lucha contra el Enclave impresionÃ³ incluso a la Primer Ciudadano.}
+{124}{}{He oÃ­do que has viajado hacia el sur incluso hasta San Francisco. Â¿Es cierto?}
+{125}{}{Â¿Es cierto que los Estados Unidos aÃºn luchan en la guerra?}
+{126}{}{DeberÃ­as catalogar tus viajes en la computadora de Ciudad Refugio.}
+{127}{}{EstÃ¡s invitado a quedarte en Ciudad Refugio tanto tiempo como quieras.}
+{128}{}{DeberÃ­as catalogar tus hazaÃ±as contra el Enclave e incluirlas en el Servidor de Listas.}
+{129}{}{No se permiten necrÃ³fagos en Ciudad Refugio. Saca a esa... cosa de aquÃ­. Ahora.}
+{130}{}{No se permiten mutantes en Ciudad Refugio. Saca a esa... cosa de aquÃ­. Ahora.}
+{131}{}{QuÃ©date justo ahÃ­, amiga. No se permite el paso mÃ¡s allÃ¡ de este punto a nadie que no tenga una autorizaciÃ³n adecuada.}
+{132}{}{Â¿Auto-riciÃ³n adec-cada?}
 {133}{}{Dejas de balbucear}
-{134}{}{¿Autorización adecuada?}
+{134}{}{Â¿AutorizaciÃ³n adecuada?}
 {135}{}{No importa, entonces.}
-{136}{}{Parece que tenemos a otra víctima de la endogamia de los errantes por aquí... mira, tonta, vete de aquí antes de que te lastimes, ¿vale?}
-{137}{}{¡YO NO VOY!}
+{136}{}{Parece que tenemos a otra vÃ­ctima de la endogamia de los errantes por aquÃ­... mira, tonta, vete de aquÃ­ antes de que te lastimes, Â¿vale?}
+{137}{}{Â¡YO NO VOY!}
 {138}{}{Dejas de balbucear}
-{139}{}{Sí, "autorización adecuada".}
-{140}{}{Si quieres entrar en Ciudad Refugio, tienes que hablar con Wallace, el Jefe de Aduana. Él puede proporcionarte un pase de día.}
-{141}{}{¿Dónde puedo encontrar a Wallace?}
-{142}{}{¿Un pase de día? ¿Qué es eso?}
+{139}{}{SÃ­, "autorizaciÃ³n adecuada".}
+{140}{}{Si quieres entrar en Ciudad Refugio, tienes que hablar con Wallace, el Jefe de Aduana. Ã‰l puede proporcionarte un pase de dÃ­a.}
+{141}{}{Â¿DÃ³nde puedo encontrar a Wallace?}
+{142}{}{Â¿Un pase de dÃ­a? Â¿QuÃ© es eso?}
 {143}{}{Vale, gracias.}
-{144}{}{Wallace está en el edificio de Aduanas, justo aquí enfrente. }
-{145}{}{Ahora muévete. No tengo tiempo para hablar con errantes.}
-{146}{}{¿Qué es un pase de día?}
-{147}{}{Gracias por tu tiempo. Adiós.}
-{148}{}{Un pase de día te permitirá entrar en nuestra ciudad... si tienes asuntos aquí. }
-{149}{}{Ahora muévete. No tengo tiempo para hablar con errantes.}
-{150}{}{¿Dónde puedo encontrar a Wallace?}
-{151}{}{Gracias por tu tiempo. Adiós.}
-{152}{}{Necesitas un pase de día para entrar en la ciudad.}
-{153}{}{Consigue un pase de día y te permitiré pasar.}
-{154}{}{Aléjate de la entrada.}
+{144}{}{Wallace estÃ¡ en el edificio de Aduanas, justo aquÃ­ enfrente. }
+{145}{}{Ahora muÃ©vete. No tengo tiempo para hablar con errantes.}
+{146}{}{Â¿QuÃ© es un pase de dÃ­a?}
+{147}{}{Gracias por tu tiempo. AdiÃ³s.}
+{148}{}{Un pase de dÃ­a te permitirÃ¡ entrar en nuestra ciudad... si tienes asuntos aquÃ­. }
+{149}{}{Ahora muÃ©vete. No tengo tiempo para hablar con errantes.}
+{150}{}{Â¿DÃ³nde puedo encontrar a Wallace?}
+{151}{}{Gracias por tu tiempo. AdiÃ³s.}
+{152}{}{Necesitas un pase de dÃ­a para entrar en la ciudad.}
+{153}{}{Consigue un pase de dÃ­a y te permitirÃ© pasar.}
+{154}{}{AlÃ©jate de la entrada.}
 {155}{}{No vagabundees.}
-{156}{}{¿Tienes un pase de día?}
+{156}{}{Â¿Tienes un pase de dÃ­a?}
 {157}{}{No, no lo tengo.}
 {158}{}{No, pero soy una Ciudadana.}
-{159}{}{¡¿Cómo *osas* cuestionarme?! ¡Soy una Ciudadana! ¡Aquí están mis documentos!}
-{160}{}{Una Ciudadana, ¿eh? Déjame ver tus documentos.}
+{159}{}{Â¡Â¿CÃ³mo *osas* cuestionarme?! Â¡Soy una Ciudadana! Â¡AquÃ­ estÃ¡n mis documentos!}
+{160}{}{Una Ciudadana, Â¿eh? DÃ©jame ver tus documentos.}
 {161}{}{Eh... no los llevo conmigo.}
-{162}{}{De acuerdo, aquí tienes.}
-{163}{}{Eh, lo que quise decir era ¿cómo consigo la Ciudadanía?}
-{164}{}{Mis disculpas, Ciudadana. No pretendía ofenderla. Tiene permiso para entrar.}
+{162}{}{De acuerdo, aquÃ­ tienes.}
+{163}{}{Eh, lo que quise decir era Â¿cÃ³mo consigo la CiudadanÃ­a?}
+{164}{}{Mis disculpas, Ciudadana. No pretendÃ­a ofenderla. Tiene permiso para entrar.}
 {165}{}{Muy bien.}
-{166}{}{Mira, "Ciudadana", necesitas un pase de día para entrar aquí, ¿de acuerdo? No intentes engañarme de nuevo.}
+{166}{}{Mira, "Ciudadana", necesitas un pase de dÃ­a para entrar aquÃ­, Â¿de acuerdo? No intentes engaÃ±arme de nuevo.}
 {167}{}{(Te marchas).}
-{168}{}{Hmmmnn... parecen legítimos. Qué gracia, no recuerdo haberte visto nunca por aquí antes.}
-{169}{}{Bien, quizá deberías ser más observador. Tengo una cita con la Primer Ciudadano, y me está esperando.}
-{170}{}{Espero que me recuerdes la próxima vez.}
-{171}{}{Porque resulta que tengo la Ciudadanía de todos los Refugios.}
+{168}{}{Hmmmnn... parecen legÃ­timos. QuÃ© gracia, no recuerdo haberte visto nunca por aquÃ­ antes.}
+{169}{}{Bien, quizÃ¡ deberÃ­as ser mÃ¡s observador. Tengo una cita con la Primer Ciudadano, y me estÃ¡ esperando.}
+{170}{}{Espero que me recuerdes la prÃ³xima vez.}
+{171}{}{Porque resulta que tengo la CiudadanÃ­a de todos los Refugios.}
 {172}{}{No nos habremos encontrado antes. Estoy encantada de conocerte.}
-{173}{}{Oh, ¿es así? Mira, no sé quién eres, pero no eres Ciudadana. Dame esos documentos y sal de aquí. Si quieres entrar, tendrás que conseguir de Wallace un pase de día, como todo el mundo.}
-{174}{}{¿Quieres los documentos? ¡Ven a por ellos!}
-{175}{}{¿Dónde puedo encontrar a Wallace?}
-{176}{}{De acuerdo. Adiós.}
-{177}{}{Bien, todo está en orden, puedes entrar. Ciudad Refugio prevalece, Ciudadana.}
-{178}{}{Eh, sí... Ciudad Refugio prevalece, Ciudadana.}
+{173}{}{Oh, Â¿es asÃ­? Mira, no sÃ© quiÃ©n eres, pero no eres Ciudadana. Dame esos documentos y sal de aquÃ­. Si quieres entrar, tendrÃ¡s que conseguir de Wallace un pase de dÃ­a, como todo el mundo.}
+{174}{}{Â¿Quieres los documentos? Â¡Ven a por ellos!}
+{175}{}{Â¿DÃ³nde puedo encontrar a Wallace?}
+{176}{}{De acuerdo. AdiÃ³s.}
+{177}{}{Bien, todo estÃ¡ en orden, puedes entrar. Ciudad Refugio prevalece, Ciudadana.}
+{178}{}{Eh, sÃ­... Ciudad Refugio prevalece, Ciudadana.}
 {179}{}{Gracias.}
-{180}{}{El pase de día, por favor.}
-{181}{}{Aquí están.}
-{182}{}{No necesito un pase de día. Soy una Ciudadana.}
-{183}{}{Sólo venía a ver lo que estabas haciendo.}
-{184}{}{No tengo tiempo para charlar, ¿de acuerdo? Ahora, vete de aquí.}
-{185}{}{Está bien, está bien. Sólo intentaba ser amigable...}
+{180}{}{El pase de dÃ­a, por favor.}
+{181}{}{AquÃ­ estÃ¡n.}
+{182}{}{No necesito un pase de dÃ­a. Soy una Ciudadana.}
+{183}{}{SÃ³lo venÃ­a a ver lo que estabas haciendo.}
+{184}{}{No tengo tiempo para charlar, Â¿de acuerdo? Ahora, vete de aquÃ­.}
+{185}{}{EstÃ¡ bien, estÃ¡ bien. SÃ³lo intentaba ser amigable...}
 {186}{}{(Te marchas).}
 {187}{}{De acuerdo. Antes de que entres, tengo que revisar tus pertenencias.}
-{188}{}{Eh, está bien.}
-{189}{}{¿Para qué?}
-{190}{}{Olvídalo, entonces.}
-{191}{}{Quédate justo ahí. No se permite a errantes entrar en Ciudad Refugio durante la noche.}
+{188}{}{Eh, estÃ¡ bien.}
+{189}{}{Â¿Para quÃ©?}
+{190}{}{OlvÃ­dalo, entonces.}
+{191}{}{QuÃ©date justo ahÃ­. No se permite a errantes entrar en Ciudad Refugio durante la noche.}
 {192}{}{Pero tengo un pase.}
 {193}{}{Pero soy Ciudadana.}
 {194}{}{Lo siento. Ya me marcho.}
-{195}{}{Oh, así que AHORA eres una Ciudadana, ¿eh? ¿Igual que la última vez? Dame esos "documentos de Ciudadanía" y lárgate de aquí.}
-{196}{}{¿Quieres los documentos? ¡Ven a por ellos!}
+{195}{}{Oh, asÃ­ que AHORA eres una Ciudadana, Â¿eh? Â¿Igual que la Ãºltima vez? Dame esos "documentos de CiudadanÃ­a" y lÃ¡rgate de aquÃ­.}
+{196}{}{Â¿Quieres los documentos? Â¡Ven a por ellos!}
 {197}{}{De acuerdo, de acuerdo.}
-{198}{}{Ve a hablar con Wallace, el Jefe de Aduana. Ahora, déjame.}
-{199}{}{Está bien. Adiós.}
-{200}{}{Sí, tienes un pase de DÍA. ¿Te parece que es de día? Lárgate.}
-{201}{}{Está bien, Está bien.}
+{198}{}{Ve a hablar con Wallace, el Jefe de Aduana. Ahora, dÃ©jame.}
+{199}{}{EstÃ¡ bien. AdiÃ³s.}
+{200}{}{SÃ­, tienes un pase de DÃA. Â¿Te parece que es de dÃ­a? LÃ¡rgate.}
+{201}{}{EstÃ¡ bien, EstÃ¡ bien.}
 {202}{}{A veces, los errantes intentan meter de contrabando en Ciudad Refugio alcohol o drogas adictivas: esteroides, Jet, Psico, Mentats... ese tipo de cosas.}
 {203}{}{Oh, de acuerdo. Puedes registrarme.}
-{204}{}{Entonces olvídalo. No necesito entrar en Ciudad Refugio siendo maltratado.}
-{205}{}{Lo siento, no se permite entrar disponiendo de estos artículos. Las drogas y el alcohol no están permitidos en Ciudad Refugio. Deshazte de ellos y regresa, ¿de acuerdo?}
+{204}{}{Entonces olvÃ­dalo. No necesito entrar en Ciudad Refugio siendo maltratado.}
+{205}{}{Lo siento, no se permite entrar disponiendo de estos artÃ­culos. Las drogas y el alcohol no estÃ¡n permitidos en Ciudad Refugio. Deshazte de ellos y regresa, Â¿de acuerdo?}
 {206}{}{Vale.}
-{207}{}{Muy bien, parece que estás limpia. Puedes entrar.}
+{207}{}{Muy bien, parece que estÃ¡s limpia. Puedes entrar.}
 {208}{}{Gracias.}
-{209}{}{Sí. Vooy}
-{210}{}{Adióoos}
-{211}{}{Eh… (Te estudia un momento, y luego se encoge de hombros). }
+{209}{}{SÃ­. Vooy}
+{210}{}{AdiÃ³oos}
+{211}{}{Ehâ€¦ (Te estudia un momento, y luego se encoge de hombros). }
 {212}{}{Yo de acuerdo.}
-{213}{}{No no. Adióoos}
+{213}{}{No no. AdiÃ³oos}
 {214}{}{De ac-cuerdo}
-{215}{}{Sí.}
+{215}{}{SÃ­.}

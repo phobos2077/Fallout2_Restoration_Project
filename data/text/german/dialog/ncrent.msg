@@ -1,1 +1,1 @@
-{100}{}{Du hast die Außenbezirke der befestigten Siedlung, der New California Republic, betreten.}
+{100}{}{Du hast die AuÃŸenbezirke der befestigten Siedlung, der New California Republic, betreten.}

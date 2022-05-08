@@ -8,11 +8,11 @@
 {203}{}{Du hast kein Gras mehr.}
 {210}{}{Whoa. Das ist ein HERRVORRAGENDES Kraut.}
 {211}{}{Okay, ich werde mich einfach kurz hinlegen.}
-{212}{}{Du fängst an dich SEHR schwindellig zu fühlen.}
-{213}{}{Ich fühle mich jetzt wirklich komisch...}
-{214}{}{...das muss so sein wie Hakuin sich in seinem Garten fühlt.}
-{215}{}{Das war verrückt. Obwohl ich mich jetzt besser fühle.}
-{216}{}{Oh scheiße...}
-{217}{}{Du wirst ohnmächtig.}
+{212}{}{Du fÃ¤ngst an dich SEHR schwindellig zu fÃ¼hlen.}
+{213}{}{Ich fÃ¼hle mich jetzt wirklich komisch...}
+{214}{}{...das muss so sein wie Hakuin sich in seinem Garten fÃ¼hlt.}
+{215}{}{Das war verrÃ¼ckt. Obwohl ich mich jetzt besser fÃ¼hle.}
+{216}{}{Oh scheiÃŸe...}
+{217}{}{Du wirst ohnmÃ¤chtig.}
 {218}{}{Du wachst benommen und verwirrt auf.}
-{250}{}{Rauchen ist eine widerliche Angewohnheit für eine Frau.}
+{250}{}{Rauchen ist eine widerliche Angewohnheit fÃ¼r eine Frau.}

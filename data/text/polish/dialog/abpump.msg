@@ -1,12 +1,12 @@
-{100}{}{Widzisz pompê wodn¹.}
-{101}{}{Widzisz naprawdê star¹ pompê wodn¹. Wygl¹da na zepsut¹.}
-{102}{}{Pompa wodna jest ju¿ sprawna.}
-{103}{}{Go³ymi rêkoma nie naprawisz tej maszyny. Mo¿e jakieœ narzêdzia pomog¹ w zainstalowaniu tej czêœci.}
-{104}{}{Naprawiasz pompê wodn¹.}
-{105}{}{Nie uda³o ci siê naprawiæ pompy.}
-{106}{}{Ju¿ wiesz co jest nie tak z t¹ pomp¹ wodn¹.}
-{200}{}{Podnosisz klapê i zagl¹dasz do maszyny. Widzisz du¿o pordzewia³ych zêbatek i przek³adni. Jeden z silników jest pêkniêty.}
+{100}{}{Widzisz pompÄ™ wodnÄ….}
+{101}{}{Widzisz naprawdÄ™ starÄ… pompÄ™ wodnÄ…. WyglÄ…da na zepsutÄ….}
+{102}{}{Pompa wodna jest juÅ¼ sprawna.}
+{103}{}{GoÅ‚ymi rÄ™koma nie naprawisz tej maszyny. MoÅ¼e jakieÅ› narzÄ™dzia pomogÄ… w zainstalowaniu tej czÄ™Å›ci.}
+{104}{}{Naprawiasz pompÄ™ wodnÄ….}
+{105}{}{Nie udaÅ‚o ci siÄ™ naprawiÄ‡ pompy.}
+{106}{}{JuÅ¼ wiesz co jest nie tak z tÄ… pompÄ… wodnÄ….}
+{200}{}{Podnosisz klapÄ™ i zaglÄ…dasz do maszyny. Widzisz duÅ¼o pordzewiaÅ‚ych zÄ™batek i przekÅ‚adni. Jeden z silnikÃ³w jest pÄ™kniÄ™ty.}
 {201}{}{Na dzisiaj wystarczy.}
-{202}{}{Musisz siê jeszcze nad tym zastanowiæ.}
-{203}{}{Po dok³adniejszych oglêdzinach zauwa¿asz, ¿e pêkniêcie silnika nie jest jedyn¹ przyczyn¹ problemów z pomp¹, jest te¿ problem ze z³¹czami na przewodach. Styki popali³y siê w ci¹gu tych wszystkich lat pracy. Do naprawy tej maszyny bêd¹ potrzebne nowy silnik i zestaw kabli.}
-{204}{}{Wyjœcie.}
+{202}{}{Musisz siÄ™ jeszcze nad tym zastanowiÄ‡.}
+{203}{}{Po dokÅ‚adniejszych oglÄ™dzinach zauwaÅ¼asz, Å¼e pÄ™kniÄ™cie silnika nie jest jedynÄ… przyczynÄ… problemÃ³w z pompÄ…, jest teÅ¼ problem ze zÅ‚Ä…czami na przewodach. Styki popaliÅ‚y siÄ™ w ciÄ…gu tych wszystkich lat pracy. Do naprawy tej maszyny bÄ™dÄ… potrzebne nowy silnik i zestaw kabli.}
+{204}{}{WyjÅ›cie.}

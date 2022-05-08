@@ -1,47 +1,47 @@
-{100}{}{Egy alacsony, izgága férfit látsz.}
-{101}{}{Micky, a kincsvadász.}
-{102}{}{Ez az igazán alacsony emberke barátságosnak és nagyon határozottnak t?nik. Szeme körbejár, mintha csillogó dolgokat keresne.}
-{103}{}{Üdvözöllek, barátom! Véletlenül nem bukkantál mostanában elfekv? drágakövekre vagy esetleg nemesfémre?}
-{104}{}{Nahát, újra megajándékoztál a jelenléteddel. Esetleg elrejtett kincs nyomára bukkantál, amire fel szeretnéd hívni a figyelmemet?}
-{105}{}{Szükséged van valakire, aki kinyomozza az elrejtett kincsek rejtekhelyét? Ne keress tovább!}
-{106}{}{Nincs kiincsh mááma.}
-{107}{}{Ja. Elkelne a segítséged.}
-{108}{}{Hínak hogy?}
-{109}{}{Viszlát!}
-{110}{}{Nem, sajnos. De ha találok valamit, azonnal szólok neked.}
+{100}{}{Egy alacsony, izgÃ¡ga fÃ©rfit lÃ¡tsz.}
+{101}{}{Micky, a kincsvadÃ¡sz.}
+{102}{}{Ez az igazÃ¡n alacsony emberke barÃ¡tsÃ¡gosnak Ã©s nagyon hatÃ¡rozottnak t?nik. Szeme kÃ¶rbejÃ¡r, mintha csillogÃ³ dolgokat keresne.}
+{103}{}{ÃœdvÃ¶zÃ¶llek, barÃ¡tom! VÃ©letlenÃ¼l nem bukkantÃ¡l mostanÃ¡ban elfekv? drÃ¡gakÃ¶vekre vagy esetleg nemesfÃ©mre?}
+{104}{}{NahÃ¡t, Ãºjra megajÃ¡ndÃ©koztÃ¡l a jelenlÃ©teddel. Esetleg elrejtett kincs nyomÃ¡ra bukkantÃ¡l, amire fel szeretnÃ©d hÃ­vni a figyelmemet?}
+{105}{}{SzÃ¼ksÃ©ged van valakire, aki kinyomozza az elrejtett kincsek rejtekhelyÃ©t? Ne keress tovÃ¡bb!}
+{106}{}{Nincs kiincsh mÃ¡Ã¡ma.}
+{107}{}{Ja. Elkelne a segÃ­tsÃ©ged.}
+{108}{}{HÃ­nak hogy?}
+{109}{}{ViszlÃ¡t!}
+{110}{}{Nem, sajnos. De ha talÃ¡lok valamit, azonnal szÃ³lok neked.}
 {111}{}{Well, yes, actually. I think you'd be the perfect partner for a, shall we say, "joint venture".}
-{112}{}{Hogy hívnak?}
-{113}{}{Értem.}
+{112}{}{Hogy hÃ­vnak?}
+{113}{}{Ã‰rtem.}
 {114}{}{Me? I'm Micky, suave and debonair Treasure Hunter of Broken Hills.}
-{115}{}{Vaddász?}
-{116}{}{Viszlát!}
-{117}{}{Kincsvadász?}
-{118}{}{Milyen aranyos! Na, viszlát!}
-{119}{}{Ne mondd, hogy nem hallottál még rólam! Soha nem meséltek neked Fürge Mickyr?l? A csodás t?zpárbajairól, a nehéz ökölcsapásairól és a hatalmas zsákmányokról?}
+{115}{}{VaddÃ¡sz?}
+{116}{}{ViszlÃ¡t!}
+{117}{}{KincsvadÃ¡sz?}
+{118}{}{Milyen aranyos! Na, viszlÃ¡t!}
+{119}{}{Ne mondd, hogy nem hallottÃ¡l mÃ©g rÃ³lam! Soha nem mesÃ©ltek neked FÃ¼rge Mickyr?l? A csodÃ¡s t?zpÃ¡rbajairÃ³l, a nehÃ©z Ã¶kÃ¶lcsapÃ¡sairÃ³l Ã©s a hatalmas zsÃ¡kmÃ¡nyokrÃ³l?}
 {120}{}{Nm.}
-{121}{}{Attól tartok, kimaradtam bel?le.}
-{122}{}{Hát, akkor rengeteg mindenb?l maradtál ki, barátom. Egyszer el kell, hogy meséljek neked mindent, egészen a vérfagyasztó részletekig.}
+{121}{}{AttÃ³l tartok, kimaradtam bel?le.}
+{122}{}{HÃ¡t, akkor rengeteg mindenb?l maradtÃ¡l ki, barÃ¡tom. Egyszer el kell, hogy mesÃ©ljek neked mindent, egÃ©szen a vÃ©rfagyasztÃ³ rÃ©szletekig.}
 {123}{}{Szupiii!}
-{124}{}{Visszafojtott lélegzettel fogom várni.}
-{125}{}{Hát, nem vagyok meglepve. A kincsvadászok keresettsége jelent?sen csökkent az utóbi években. Ez az egész halál, éhinség meg harc-a-túlélésért dolog elég er?sen kiölte az emberekb?l a kalandvágyat. Azért ne feledd, hogy kihez fordulj, ha bármit találnál!}
-{126}{}{Okké-zsokké.}
-{127}{}{Te leszel az els? a listámon.}
-{128}{}{Tényleg?! Ez nagyszer?! Mi a zsákmány? Arany? Ékszerek? Szent ereklyék?}
-{129}{}{Sok péndzz.}
+{124}{}{Visszafojtott lÃ©legzettel fogom vÃ¡rni.}
+{125}{}{HÃ¡t, nem vagyok meglepve. A kincsvadÃ¡szok keresettsÃ©ge jelent?sen csÃ¶kkent az utÃ³bi Ã©vekben. Ez az egÃ©sz halÃ¡l, Ã©hinsÃ©g meg harc-a-tÃºlÃ©lÃ©sÃ©rt dolog elÃ©g er?sen kiÃ¶lte az emberekb?l a kalandvÃ¡gyat. AzÃ©rt ne feledd, hogy kihez fordulj, ha bÃ¡rmit talÃ¡lnÃ¡l!}
+{126}{}{OkkÃ©-zsokkÃ©.}
+{127}{}{Te leszel az els? a listÃ¡mon.}
+{128}{}{TÃ©nyleg?! Ez nagyszer?! Mi a zsÃ¡kmÃ¡ny? Arany? Ã‰kszerek? Szent ereklyÃ©k?}
+{129}{}{Sok pÃ©ndzz.}
 {130}{}{Semmisemnem.}
-{131}{}{Egy nagy rakás pénz. Elegend? ahhoz, hogy egy jó darabig ne legyen gondunk semmire.}
-{132}{}{Hát, azt hiszem, inkább mégis egyedül keresem meg.}
-{133}{}{Ty?ha! Ez aztán a kaland, amire vártam. Mit szólsz a fifti-fiftihez, partner?}
+{131}{}{Egy nagy rakÃ¡s pÃ©nz. Elegend? ahhoz, hogy egy jÃ³ darabig ne legyen gondunk semmire.}
+{132}{}{HÃ¡t, azt hiszem, inkÃ¡bb mÃ©gis egyedÃ¼l keresem meg.}
+{133}{}{Ty?ha! Ez aztÃ¡n a kaland, amire vÃ¡rtam. Mit szÃ³lsz a fifti-fiftihez, partner?}
 {134}{}{Iiigen!}
-{135}{}{Nem. Pá!}
+{135}{}{Nem. PÃ¡!}
 {136}{}{Rendben.}
-{137}{}{Meggondoltam magam. Inkább megpróbálom egyedül megszerezni a pénzt. Viszlát kés?bb!}
-{138}{}{Remek! Szóval, mi a sztori? Hol vanak a rosszfiúk? Mit kell csinálnom?}
-{139}{}{Gyerr vellem! Bemász sötét hejjre.}
-{140}{}{Mondjuk úgy, el kell töltened egy kis id?t a helyi "barlangokban".}
+{137}{}{Meggondoltam magam. InkÃ¡bb megprÃ³bÃ¡lom egyedÃ¼l megszerezni a pÃ©nzt. ViszlÃ¡t kÃ©s?bb!}
+{138}{}{Remek! SzÃ³val, mi a sztori? Hol vanak a rosszfiÃºk? Mit kell csinÃ¡lnom?}
+{139}{}{Gyerr vellem! BemÃ¡sz sÃ¶tÃ©t hejjre.}
+{140}{}{Mondjuk Ãºgy, el kell tÃ¶ltened egy kis id?t a helyi "barlangokban".}
 {141}{}{Nagyszer?! Mutasd az utat!}
-{142}{}{Hol kiincsh? Bellvárosh?}
-{143}{}{Még nem tudom pontosan, hol a kincs. Azt mondták, valahol itt kell lennie.}
-{144}{}{Mi? Itt a belvárosban? Ha! Aki ezt mondta neked, az vagy hazudott, vagy bedilizett. Broken Hills legmocskosabb helyeit kivéve mindent átkutattam, de nem találtam semmit az ég világon. Már azon is gondolkoztam, hogy továbbállok innen.}
-{145}{}{Nemm jóó. Pá-pá.}
-{146}{}{Az baj. Azt hittem, te tudsz majd segíteni. Hát akkor, viszlát!}
+{142}{}{Hol kiincsh? BellvÃ¡rosh?}
+{143}{}{MÃ©g nem tudom pontosan, hol a kincs. Azt mondtÃ¡k, valahol itt kell lennie.}
+{144}{}{Mi? Itt a belvÃ¡rosban? Ha! Aki ezt mondta neked, az vagy hazudott, vagy bedilizett. Broken Hills legmocskosabb helyeit kivÃ©ve mindent Ã¡tkutattam, de nem talÃ¡ltam semmit az Ã©g vilÃ¡gon. MÃ¡r azon is gondolkoztam, hogy tovÃ¡bbÃ¡llok innen.}
+{145}{}{Nemm jÃ³Ã³. PÃ¡-pÃ¡.}
+{146}{}{Az baj. Azt hittem, te tudsz majd segÃ­teni. HÃ¡t akkor, viszlÃ¡t!}

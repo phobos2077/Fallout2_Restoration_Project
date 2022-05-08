@@ -1,181 +1,181 @@
 {100}{}{You see a short man with Jet-black hair and a nice smile.}
-{101}{}{Ascortit látod, aki éppenséggel Redding polgármestere.}
-{102}{}{Egy elegánsan öltözött, nyájas férfire fókuszál most a pupillád.}
-{103}{}{Mozgás, haver!}
-{104}{}{Ha azért jöttél, hogy próbára tedd a szerencséd, légy üdvözölve!}
-{105}{}{Játssz vagy t?nj innen a búsba!}
-{106}{}{Jobb lesz, ha visszafogod magad amíg itt tartózkodsz!}
-{107}{}{Tégy próbát az asztaloknál, bennszülött!}
-{108}{}{Ki kéne próbálnod a pénznyer?ket, bennszülött! Esetleg a ráolvasás is segítene!}
-{109}{}{Csak módjával idd tüzes vizet, bennszülött!}
-{110}{}{Üdvözöljük Redding el?kel? városában... és köszöntjük a kaszinómban! Ascortinál mindenki nagyágyú! Én vagyok Ascorti, a tulajdonos és e remek város els? embere.}
-{111}{}{Mit tehet önért Ascorti polgármester?}
-{112}{}{Van valami munkalehet?ség itt, Reddingben?}
-{113}{}{Mi a helyzet a városban mostanában?}
-{114}{}{Hallott valami olyasmir?l, amit Édenkert Létrehozást El?segít? Táskának neveznek?}
-{115}{}{Mi a munkád?}
-{116}{}{Csak bámészkodtam, polgármester úr. Majd kés?bb találkozunk! Viszlát!}
-{117}{}{Ezt a kaszinót üzemeltetem, és besegítenek még néhány dologba a városka életében. Ezenkívül én foglalkozom például a birtoklevelekkel meg ilyesmikkel.}
-{118}{}{Milyen birtoklevelekr?l van szó?}
-{119}{}{Értem. Akkor hadd kérdezzek valami mást, polgármester úr.}
-{120}{}{Olyasféle birtoklevelekkel foglalkozom, mint pl. a Nagy-Wanamingo bányáé, amit meg akarok venni magától. Nem akarja eladni?}
-{121}{}{Talán... Mennyit lenne hajlandó felajánlani érte?}
-{122}{}{Esetleg... De el?tte hadd kérdezzek más egyébr?l is!}
-{123}{}{Még gondolkodom rajta. Viszlát, polgármester!}
-{124}{}{Nos, csak egyetlen birtoklevelet érint a dolog. Amit eladtam önnek. Tudja, ami a Nagy-Wanamingo bányáé volt...}
-{125}{}{Ja, hogy az a birtoklevél! Most már emlékszem. Akkor inkább kérdeznék valami mást, polgármester úr.}
-{126}{}{Természetesen - csak kíváncsi voltam, hogy volt-e más ilyen üzlete is. Na, ideje, hogy nekilássak kipucolni azt a bányát... Viszlát!}
-{127}{}{A Nagy-Wanamingo bánya birtoklevele, amit visszavásároltam önt?l. Emlékszik?}
-{128}{}{Persze, hogy emlékszem! Öö, izé... feltehetnék egy másik témával kapcsolatos kérdést is, polgármester úr?}
-{129}{}{Igen, persze, hogy emlékszem. Csak érdekl?dtem. Viszlát, Ascorti polgármester úr!}
-{130}{}{Mindenféle magántulajdon. Most, mit tesz isten, éppen van egy hihetetlenül értékes eladó birtoklevelem...}
+{101}{}{Ascortit lÃ¡tod, aki Ã©ppensÃ©ggel Redding polgÃ¡rmestere.}
+{102}{}{Egy elegÃ¡nsan Ã¶ltÃ¶zÃ¶tt, nyÃ¡jas fÃ©rfire fÃ³kuszÃ¡l most a pupillÃ¡d.}
+{103}{}{MozgÃ¡s, haver!}
+{104}{}{Ha azÃ©rt jÃ¶ttÃ©l, hogy prÃ³bÃ¡ra tedd a szerencsÃ©d, lÃ©gy Ã¼dvÃ¶zÃ¶lve!}
+{105}{}{JÃ¡tssz vagy t?nj innen a bÃºsba!}
+{106}{}{Jobb lesz, ha visszafogod magad amÃ­g itt tartÃ³zkodsz!}
+{107}{}{TÃ©gy prÃ³bÃ¡t az asztaloknÃ¡l, bennszÃ¼lÃ¶tt!}
+{108}{}{Ki kÃ©ne prÃ³bÃ¡lnod a pÃ©nznyer?ket, bennszÃ¼lÃ¶tt! Esetleg a rÃ¡olvasÃ¡s is segÃ­tene!}
+{109}{}{Csak mÃ³djÃ¡val idd tÃ¼zes vizet, bennszÃ¼lÃ¶tt!}
+{110}{}{ÃœdvÃ¶zÃ¶ljÃ¼k Redding el?kel? vÃ¡rosÃ¡ban... Ã©s kÃ¶szÃ¶ntjÃ¼k a kaszinÃ³mban! AscortinÃ¡l mindenki nagyÃ¡gyÃº! Ã‰n vagyok Ascorti, a tulajdonos Ã©s e remek vÃ¡ros els? embere.}
+{111}{}{Mit tehet Ã¶nÃ©rt Ascorti polgÃ¡rmester?}
+{112}{}{Van valami munkalehet?sÃ©g itt, Reddingben?}
+{113}{}{Mi a helyzet a vÃ¡rosban mostanÃ¡ban?}
+{114}{}{Hallott valami olyasmir?l, amit Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡nak neveznek?}
+{115}{}{Mi a munkÃ¡d?}
+{116}{}{Csak bÃ¡mÃ©szkodtam, polgÃ¡rmester Ãºr. Majd kÃ©s?bb talÃ¡lkozunk! ViszlÃ¡t!}
+{117}{}{Ezt a kaszinÃ³t Ã¼zemeltetem, Ã©s besegÃ­tenek mÃ©g nÃ©hÃ¡ny dologba a vÃ¡roska Ã©letÃ©ben. EzenkÃ­vÃ¼l Ã©n foglalkozom pÃ©ldÃ¡ul a birtoklevelekkel meg ilyesmikkel.}
+{118}{}{Milyen birtoklevelekr?l van szÃ³?}
+{119}{}{Ã‰rtem. Akkor hadd kÃ©rdezzek valami mÃ¡st, polgÃ¡rmester Ãºr.}
+{120}{}{OlyasfÃ©le birtoklevelekkel foglalkozom, mint pl. a Nagy-Wanamingo bÃ¡nyÃ¡Ã©, amit meg akarok venni magÃ¡tÃ³l. Nem akarja eladni?}
+{121}{}{TalÃ¡n... Mennyit lenne hajlandÃ³ felajÃ¡nlani Ã©rte?}
+{122}{}{Esetleg... De el?tte hadd kÃ©rdezzek mÃ¡s egyÃ©br?l is!}
+{123}{}{MÃ©g gondolkodom rajta. ViszlÃ¡t, polgÃ¡rmester!}
+{124}{}{Nos, csak egyetlen birtoklevelet Ã©rint a dolog. Amit eladtam Ã¶nnek. Tudja, ami a Nagy-Wanamingo bÃ¡nyÃ¡Ã© volt...}
+{125}{}{Ja, hogy az a birtoklevÃ©l! Most mÃ¡r emlÃ©kszem. Akkor inkÃ¡bb kÃ©rdeznÃ©k valami mÃ¡st, polgÃ¡rmester Ãºr.}
+{126}{}{TermÃ©szetesen - csak kÃ­vÃ¡ncsi voltam, hogy volt-e mÃ¡s ilyen Ã¼zlete is. Na, ideje, hogy nekilÃ¡ssak kipucolni azt a bÃ¡nyÃ¡t... ViszlÃ¡t!}
+{127}{}{A Nagy-Wanamingo bÃ¡nya birtoklevele, amit visszavÃ¡sÃ¡roltam Ã¶nt?l. EmlÃ©kszik?}
+{128}{}{Persze, hogy emlÃ©kszem! Ã–Ã¶, izÃ©... feltehetnÃ©k egy mÃ¡sik tÃ©mÃ¡val kapcsolatos kÃ©rdÃ©st is, polgÃ¡rmester Ãºr?}
+{129}{}{Igen, persze, hogy emlÃ©kszem. Csak Ã©rdekl?dtem. ViszlÃ¡t, Ascorti polgÃ¡rmester Ãºr!}
+{130}{}{MindenfÃ©le magÃ¡ntulajdon. Most, mit tesz isten, Ã©ppen van egy hihetetlenÃ¼l Ã©rtÃ©kes eladÃ³ birtoklevelem...}
 {131}{}{Mi van?}
-{132}{}{Elhiszem, hogy van... de el?tte még meg szeretnék kérdezni valamit, polgármester úr.}
-{133}{}{Hmm... el?ször egy kicsit körbenézek a városban, polgármester úr. Viszlát!}
-{134}{}{A Nagy-Wanamingo bányáé. Az a bánya, amelyik a városka határában fekszik. Ha érdekli, én hajlandó vagyok eladni önnek potom 1000 dollárért. Ez egy nem mindennapi ajánlat! Mindössze csak a szerencsének köszönheti, hogy ilyen nagyvonalú napot fogott ki.}
-{135}{}{Ez érdekesen hangzik... Mondjon róla még valamit!}
-{136}{}{Nincs itt valami simlisség, polgármester úr?}
-{137}{}{Nem, nem hinném, hogy most meg akarnám venni, polgármester úr. Inkább engedje meg, hogy kérdezzek valami mást.}
-{138}{}{Nos, a bányában lakozik néhány átkozott dög, amiket érdemes lenne elintézni, miel?tt bárki is lemerészkedne oda dolgozni. Ha megvenné t?lem a birtoklevelet, szépen legyilkolgathatná a bányát ellep? szörnyetegeket, én pedig örömmel vásárolnám vissza önt?l sokkal magasabb áron.}
-{139}{}{Mégis mennyivel magasabb áron?}
-{140}{}{Miért nem Ön tisztítja meg a bányát, ha annyira jövedelmez??}
-{141}{}{Miféle szörnyetegekr?l beszél?!}
-{142}{}{Semmiféle simlisség nincsen! Egyáltalán nincs! Egyszer?en csak ki kell füstölni onnan a nem oda ill? elemeket. De ez nem okozhat gondot egy ilyen belevaló embernek, mint ön. Ha érdekli, még mondhatok róla többet is.}
-{143}{}{Rendben, essünk neki... Halljuk a részleteket!}
-{144}{}{Valahogy most nincs kedvem ilyen ügyekbe keveredni, polgármester úr. Inkább kérdeznék helyette valami mást.}
-{145}{}{Értem. Ezt a nemes feladatot inkább valaki másra hagynám. Minden jót, polgármester úr!}
-{146}{}{Heh! Jóval a duplája felett! Úgy vélem, legalább ennyit megér önnek a rászánt id?. Ennél többet viszont már tényleg nem tudok érte fizetni. Ráadásul még rengeteg munka vár rám, hogy a bányát termel?képes állapotba hozzam.}
-{147}{}{Ez jól hangzik! Szóval mennyit is kéne fizetnem érte?}
-{148}{}{Annyira nem érdekel. Helyette viszont kérdeznék valami mást, kedves polgármester úr.}
-{149}{}{A Nagy-Wanamingo bánya birtoklevele csak 1000 dollárba kerül. Akkor megveszi?}
+{132}{}{Elhiszem, hogy van... de el?tte mÃ©g meg szeretnÃ©k kÃ©rdezni valamit, polgÃ¡rmester Ãºr.}
+{133}{}{Hmm... el?szÃ¶r egy kicsit kÃ¶rbenÃ©zek a vÃ¡rosban, polgÃ¡rmester Ãºr. ViszlÃ¡t!}
+{134}{}{A Nagy-Wanamingo bÃ¡nyÃ¡Ã©. Az a bÃ¡nya, amelyik a vÃ¡roska hatÃ¡rÃ¡ban fekszik. Ha Ã©rdekli, Ã©n hajlandÃ³ vagyok eladni Ã¶nnek potom 1000 dollÃ¡rÃ©rt. Ez egy nem mindennapi ajÃ¡nlat! MindÃ¶ssze csak a szerencsÃ©nek kÃ¶szÃ¶nheti, hogy ilyen nagyvonalÃº napot fogott ki.}
+{135}{}{Ez Ã©rdekesen hangzik... Mondjon rÃ³la mÃ©g valamit!}
+{136}{}{Nincs itt valami simlissÃ©g, polgÃ¡rmester Ãºr?}
+{137}{}{Nem, nem hinnÃ©m, hogy most meg akarnÃ¡m venni, polgÃ¡rmester Ãºr. InkÃ¡bb engedje meg, hogy kÃ©rdezzek valami mÃ¡st.}
+{138}{}{Nos, a bÃ¡nyÃ¡ban lakozik nÃ©hÃ¡ny Ã¡tkozott dÃ¶g, amiket Ã©rdemes lenne elintÃ©zni, miel?tt bÃ¡rki is lemerÃ©szkedne oda dolgozni. Ha megvennÃ© t?lem a birtoklevelet, szÃ©pen legyilkolgathatnÃ¡ a bÃ¡nyÃ¡t ellep? szÃ¶rnyetegeket, Ã©n pedig Ã¶rÃ¶mmel vÃ¡sÃ¡rolnÃ¡m vissza Ã¶nt?l sokkal magasabb Ã¡ron.}
+{139}{}{MÃ©gis mennyivel magasabb Ã¡ron?}
+{140}{}{MiÃ©rt nem Ã–n tisztÃ­tja meg a bÃ¡nyÃ¡t, ha annyira jÃ¶vedelmez??}
+{141}{}{MifÃ©le szÃ¶rnyetegekr?l beszÃ©l?!}
+{142}{}{SemmifÃ©le simlissÃ©g nincsen! EgyÃ¡ltalÃ¡n nincs! Egyszer?en csak ki kell fÃ¼stÃ¶lni onnan a nem oda ill? elemeket. De ez nem okozhat gondot egy ilyen belevalÃ³ embernek, mint Ã¶n. Ha Ã©rdekli, mÃ©g mondhatok rÃ³la tÃ¶bbet is.}
+{143}{}{Rendben, essÃ¼nk neki... Halljuk a rÃ©szleteket!}
+{144}{}{Valahogy most nincs kedvem ilyen Ã¼gyekbe keveredni, polgÃ¡rmester Ãºr. InkÃ¡bb kÃ©rdeznÃ©k helyette valami mÃ¡st.}
+{145}{}{Ã‰rtem. Ezt a nemes feladatot inkÃ¡bb valaki mÃ¡sra hagynÃ¡m. Minden jÃ³t, polgÃ¡rmester Ãºr!}
+{146}{}{Heh! JÃ³val a duplÃ¡ja felett! Ãšgy vÃ©lem, legalÃ¡bb ennyit megÃ©r Ã¶nnek a rÃ¡szÃ¡nt id?. EnnÃ©l tÃ¶bbet viszont mÃ¡r tÃ©nyleg nem tudok Ã©rte fizetni. RÃ¡adÃ¡sul mÃ©g rengeteg munka vÃ¡r rÃ¡m, hogy a bÃ¡nyÃ¡t termel?kÃ©pes Ã¡llapotba hozzam.}
+{147}{}{Ez jÃ³l hangzik! SzÃ³val mennyit is kÃ©ne fizetnem Ã©rte?}
+{148}{}{Annyira nem Ã©rdekel. Helyette viszont kÃ©rdeznÃ©k valami mÃ¡st, kedves polgÃ¡rmester Ãºr.}
+{149}{}{A Nagy-Wanamingo bÃ¡nya birtoklevele csak 1000 dollÃ¡rba kerÃ¼l. Akkor megveszi?}
 {150}{}{Persze, megveszem azt a birtoklevelet!}
-{151}{}{Szívesen megvenném a birtoklevelet, de sajnos nincs elég pénzem jelen pillanatban... Kérdeznék valami mást!}
-{152}{}{Most nem szeretném megvásárolni. Viszont kérdezni azt szeretnék...}
-{153}{}{Talán majd kés?bb, polgármester úr!}
-{154}{}{Akkor nekiállok kiállítani a Nagy-Wanamingo bánya birtoklevelét az ön nevére. Kérem, azonnal értesítsen, amint megtisztította a bányát, hogy mihamarabb vissza tudjam önt?l vásárolni!}
-{155}{}{Meglesz! Most viszont még kérdeznék valami mást is, polgármester úr...}
-{156}{}{Oké! Hamarosan visszajövök, polgármester!}
-{157}{}{Nem érzem magam képesnek erre. Igazából nem vagyok én olyan ember, aki csak úgy keresi magának a veszélyt... Tisztában vagyok vele, hogy sem az er?m, sem a harci képességeim nem ütik meg a szükséges mércét. De ön! Ön aztán rátermettnek t?nik, hombre! Ez egyenesen önnek való...}
-{158}{}{Lehet, hogy így van. Mennyit is szándékozik szánni a birtoklevél visszavásárlására, ha esetleg sikerülne lerendezni ezt a bánya-ügyet?}
-{159}{}{Lehet, hogy igen, lehet, hogy nem. Még gondolkodnom kell rajta. Addig is hadd kérdezzek valami másról, polgármester.}
-{160}{}{Nekem erre most nincs felesleges id?m. Nagyon sajnálom, polgármester úr. Viszlát!}
-{161}{}{Nah, kisepregette már a bányát?}
-{162}{}{De ki ám!}
-{163}{}{Még nem, de nemsokára meglesz. Addig is szeretnék kérdezni egy s mást.}
-{164}{}{Dolgozom rajta. Viszlát, Ascorti polgármester úr!}
-{165}{}{Hát... szerintem még nem sikerült elintéznie az összes rohadt wanamingót... Jobb lesz, ha visszamegy és még körülnéz egy kicsit. Addig nem fogom visszavásárolni a bányát, amíg az összes meg nem döglik!}
-{166}{}{Értem. Kezdéskeppen hadd kérdezzek még valamit, polgármester úr.}
-{167}{}{Akkor jobb lesz, ha tényleg visszamegyek és újra szétnézek.}
-{168}{}{Gratulálok, nagyszer? munkát végzett! Sikerült elpusztítania az összes nyamvadt wanamingót a bányában! De lenne még egy kis gond...}
-{169}{}{Egy kis gond?! Úgymint?}
-{170}{}{Megtisztította az egész bányát. Nagyon-nagyon szépen köszönöm! Hajlandó eladni a birtoklevelet? Adok érte 2500 dollárt.}
-{171}{}{Kötve hiszem. Úgy érzem, egyel?re jobb lesz, ha nálam marad. Viszlát, polgármester úr!}
-{172}{}{Naná! Örülök, hogy megszabadulhatok ett?l az átkozott birtoklevélt?l, tisztelt polgármester úr!}
-{173}{}{Wanamingóknak hívjuk ?ket. Borzalmas természetfeletti teremtmények, pengeéles fogakkal és szívókával vagy mi a túróval... Nem túlságosan okosak, de ha közel engedi ?ket magához, nagyon megjárhatja...}
-{174}{}{Értem. És azt szeretné, hogy szabadítsam meg a bányát ezekt?l a kedves lényekt?l?}
-{175}{}{Eltalálta! Tudtam én, hogy ön nem olyan lassú felfogású, mint amilyennek látszik! Okos is tud lenni, ha szükség van rá...}
-{176}{}{Jaja. Nos, akkor mennyit is kell majd kibírnom ezért a busás üzletért?}
-{177}{}{Nagyon is otthonos volt, amíg valaki be nem költözött... Egy tipikus rosszfiú, Morton, a H?t?s... és... öö... a bandája. Legalábbis ezt hallottam.}
-{178}{}{Miért hívják ?t H?t?snek?}
-{179}{}{És ehhez nekem mi közöm van?}
+{151}{}{SzÃ­vesen megvennÃ©m a birtoklevelet, de sajnos nincs elÃ©g pÃ©nzem jelen pillanatban... KÃ©rdeznÃ©k valami mÃ¡st!}
+{152}{}{Most nem szeretnÃ©m megvÃ¡sÃ¡rolni. Viszont kÃ©rdezni azt szeretnÃ©k...}
+{153}{}{TalÃ¡n majd kÃ©s?bb, polgÃ¡rmester Ãºr!}
+{154}{}{Akkor nekiÃ¡llok kiÃ¡llÃ­tani a Nagy-Wanamingo bÃ¡nya birtoklevelÃ©t az Ã¶n nevÃ©re. KÃ©rem, azonnal Ã©rtesÃ­tsen, amint megtisztÃ­totta a bÃ¡nyÃ¡t, hogy mihamarabb vissza tudjam Ã¶nt?l vÃ¡sÃ¡rolni!}
+{155}{}{Meglesz! Most viszont mÃ©g kÃ©rdeznÃ©k valami mÃ¡st is, polgÃ¡rmester Ãºr...}
+{156}{}{OkÃ©! Hamarosan visszajÃ¶vÃ¶k, polgÃ¡rmester!}
+{157}{}{Nem Ã©rzem magam kÃ©pesnek erre. IgazÃ¡bÃ³l nem vagyok Ã©n olyan ember, aki csak Ãºgy keresi magÃ¡nak a veszÃ©lyt... TisztÃ¡ban vagyok vele, hogy sem az er?m, sem a harci kÃ©pessÃ©geim nem Ã¼tik meg a szÃ¼ksÃ©ges mÃ©rcÃ©t. De Ã¶n! Ã–n aztÃ¡n rÃ¡termettnek t?nik, hombre! Ez egyenesen Ã¶nnek valÃ³...}
+{158}{}{Lehet, hogy Ã­gy van. Mennyit is szÃ¡ndÃ©kozik szÃ¡nni a birtoklevÃ©l visszavÃ¡sÃ¡rlÃ¡sÃ¡ra, ha esetleg sikerÃ¼lne lerendezni ezt a bÃ¡nya-Ã¼gyet?}
+{159}{}{Lehet, hogy igen, lehet, hogy nem. MÃ©g gondolkodnom kell rajta. Addig is hadd kÃ©rdezzek valami mÃ¡srÃ³l, polgÃ¡rmester.}
+{160}{}{Nekem erre most nincs felesleges id?m. Nagyon sajnÃ¡lom, polgÃ¡rmester Ãºr. ViszlÃ¡t!}
+{161}{}{Nah, kisepregette mÃ¡r a bÃ¡nyÃ¡t?}
+{162}{}{De ki Ã¡m!}
+{163}{}{MÃ©g nem, de nemsokÃ¡ra meglesz. Addig is szeretnÃ©k kÃ©rdezni egy s mÃ¡st.}
+{164}{}{Dolgozom rajta. ViszlÃ¡t, Ascorti polgÃ¡rmester Ãºr!}
+{165}{}{HÃ¡t... szerintem mÃ©g nem sikerÃ¼lt elintÃ©znie az Ã¶sszes rohadt wanamingÃ³t... Jobb lesz, ha visszamegy Ã©s mÃ©g kÃ¶rÃ¼lnÃ©z egy kicsit. Addig nem fogom visszavÃ¡sÃ¡rolni a bÃ¡nyÃ¡t, amÃ­g az Ã¶sszes meg nem dÃ¶glik!}
+{166}{}{Ã‰rtem. KezdÃ©skeppen hadd kÃ©rdezzek mÃ©g valamit, polgÃ¡rmester Ãºr.}
+{167}{}{Akkor jobb lesz, ha tÃ©nyleg visszamegyek Ã©s Ãºjra szÃ©tnÃ©zek.}
+{168}{}{GratulÃ¡lok, nagyszer? munkÃ¡t vÃ©gzett! SikerÃ¼lt elpusztÃ­tania az Ã¶sszes nyamvadt wanamingÃ³t a bÃ¡nyÃ¡ban! De lenne mÃ©g egy kis gond...}
+{169}{}{Egy kis gond?! Ãšgymint?}
+{170}{}{MegtisztÃ­totta az egÃ©sz bÃ¡nyÃ¡t. Nagyon-nagyon szÃ©pen kÃ¶szÃ¶nÃ¶m! HajlandÃ³ eladni a birtoklevelet? Adok Ã©rte 2500 dollÃ¡rt.}
+{171}{}{KÃ¶tve hiszem. Ãšgy Ã©rzem, egyel?re jobb lesz, ha nÃ¡lam marad. ViszlÃ¡t, polgÃ¡rmester Ãºr!}
+{172}{}{NanÃ¡! Ã–rÃ¼lÃ¶k, hogy megszabadulhatok ett?l az Ã¡tkozott birtoklevÃ©lt?l, tisztelt polgÃ¡rmester Ãºr!}
+{173}{}{WanamingÃ³knak hÃ­vjuk ?ket. Borzalmas termÃ©szetfeletti teremtmÃ©nyek, pengeÃ©les fogakkal Ã©s szÃ­vÃ³kÃ¡val vagy mi a tÃºrÃ³val... Nem tÃºlsÃ¡gosan okosak, de ha kÃ¶zel engedi ?ket magÃ¡hoz, nagyon megjÃ¡rhatja...}
+{174}{}{Ã‰rtem. Ã‰s azt szeretnÃ©, hogy szabadÃ­tsam meg a bÃ¡nyÃ¡t ezekt?l a kedves lÃ©nyekt?l?}
+{175}{}{EltalÃ¡lta! Tudtam Ã©n, hogy Ã¶n nem olyan lassÃº felfogÃ¡sÃº, mint amilyennek lÃ¡tszik! Okos is tud lenni, ha szÃ¼ksÃ©g van rÃ¡...}
+{176}{}{Jaja. Nos, akkor mennyit is kell majd kibÃ­rnom ezÃ©rt a busÃ¡s Ã¼zletÃ©rt?}
+{177}{}{Nagyon is otthonos volt, amÃ­g valaki be nem kÃ¶ltÃ¶zÃ¶tt... Egy tipikus rosszfiÃº, Morton, a H?t?s... Ã©s... Ã¶Ã¶... a bandÃ¡ja. LegalÃ¡bbis ezt hallottam.}
+{178}{}{MiÃ©rt hÃ­vjÃ¡k ?t H?t?snek?}
+{179}{}{Ã‰s ehhez nekem mi kÃ¶zÃ¶m van?}
 {180}{}{Nagyszer?, mit kezdjek ezzel?}
-{181}{}{Szerintem azért ragasztották ezt a nevet rá, mert folyton hidegre teszi az embereket. Velejéig romlott ember, akit nem szabad elszalasztani... és ha sikerül, ön h?s lesz! Szeretne h?s lenni, nem?}
-{182}{}{Meglehet, de még mindig nem látom át, mi közöm nekem ehhez.}
-{183}{}{Hogyne, persze! Miképp segíthetek?}
-{184}{}{Most jutott eszembe, hogy elfelejtettem kitakarítani! Majd visszanézek, amint megbillentettem pár hátsót, Polgármester úr...!}
-{185}{}{Háááát... amíg a bánya nincs kitisztítva, nem tudok munkásokat küldeni oda. Szóval, ha el akarja adni nekem a bányát, ez a gond az ön vállát nyomja...}
-{186}{}{Miért hívják ?t H?t?snek?}
-{187}{}{Nagyszer?! Mit tudok én tenni az ügyben?}
-{188}{}{Akkor jobb is lesz, ha belevágok. Viszlát, polgármester úr!}
-{189}{}{Van egy olyan érzésem, hogy vissza kellene mennie a Wanamingo bányába, és leszámolni a H?t?ssel meg a bandájával... Ha sikerült, jöjjön vissza és én abban a szent pillanatban, szélesvásznú szinkronizált mosoly kíséretében visszavásárolom önt?l a bányát.}
-{190}{}{Hát már sosem mehetnek simán a dolgok? Rendben, polgármester úr. Kés?bb találkozunk. Van még egy-két függ?ben lev? ügyem, amit le kell zárnom.}
-{191}{}{Hajlandó végre eladni nekem a Wanamingo bányát?}
-{192}{}{Hát persze, polgármester úr! Mit is mondott, mekkora lenne az összeg?}
-{193}{}{Most még nem, polgármester úr! Viszlát!}
-{194}{}{Hallottam, hogy úgy döntött, segít a seriffnek. Helyes! Nem engedhetjük meg, hogy annak a csóró Rooneynak ilyen szép háza legyen.}
-{195}{}{Arra az aprócska, széllelbélelt viskóra gondol, amiért szó szerint kiszipolyozza ?t?}
-{196}{}{Lett volna rá egy fogadásom. Mennyivel tartozik Önnek?}
-{197}{}{Majd meglátom, mit tehetek az ügyben. Viszont még kérdeznék valami mást is.}
-{198}{}{Ja. Mégis kicsoda ön?}
-{199}{}{Jobb szeretem, ha inkább kényelmes, évszakhoz igazított szell?z?rendszerrel felszerelt lakásnak nevezzük. És az ára is igazán elfogadható.}
-{200}{}{Bizonyára így is van. Mennyi lakbérrel tartozik még Önnek?}
-{201}{}{Hmmm... most már jobb lesz, ha megyek, polgármester úr. Viszlát!}
-{202}{}{Nézzük csak! Mrs. Rooney... igen, már meg is van... 120 dollárral tartozik nekem. Pontosan 120 dollárral!}
-{203}{}{Csak ennyi? Itt van a zsebemben az összeg.}
-{204}{}{Hát ez nem valami sok. Hadd kérdezzek még valami mást!}
-{205}{}{Majd meglátom, hogyan tudnám behajtani rajta az adósságot. Viszlát!}
-{206}{}{Ez így rendben is van. Az ügy elsimítva. Köszönöm, hogy lerendeztük a tartozását.}
-{207}{}{Nem gond! De azért kérdeznék még valami mást is.}
-{208}{}{Szerintem csak vannak emberek, akik gavallérabbak másoknál. Viszlát, polgármester úr!}
-{209}{}{Köszönöm, hogy megtisztította a tulajdonomat, seriff! Most már végre kiadhatom valakinek, aki fizet is azért, hogy benne lakik!}
-{210}{}{Hát nem érzem magam valami jól azután, amit tettem.}
-{211}{}{Ebben van ráció.}
-{212}{}{Miért nem? Pedig érezze csak jól magát! Azzal, hogy kitette az özvegy Rooney sz?rét, újra tudok fizetni az alkalmazottaimnak. Ha nem adok nekik fizetést, a családjaik éhezni fognak! Ez nem volna helyes, ugye?}
-{213}{}{Nem volna. Ebben a tekintetben még nem is gondoltam át a dolgot. A baj az, hogy továbbra sem érzem magam valami jól miatta.}
-{214}{}{Nem úgy t?nik, mintha túl rosszul menne itt a dolga. Biztosra veszem, hogy a kaszinóból elég bevétele származik!}
-{215}{}{Jó adag elszántságra van ahhoz szükség, hogy az ember mindig helyesen cselekedjen, még akkor is, ha éppen rossz érzések maradnak benne. Komoly dolgot vitt véghez, és jól helyt állt. Meghívom egy sörre!}
-{216}{}{Köszönöm, polgármester! Ez igazán rendes volt magától.}
-{217}{}{Nem akarok én magával inni semmit se! Se most, se máskor! Viszlát!}
-{218}{}{Nincs itt semmi gond... Boldog vagyok, hogy meghívhatom egy korsóra a helyi rendfenntartó er?t...}
-{219}{}{Még egyszer köszönöm, polgármester úr! És még hadd kérdezzek valami másról is.}
-{220}{}{Köszönöm, polgármester! Kés?bb találkozunk! Viszlát!}
-{221}{}{Ma talán igen... de ki tudja, mit hoz a holnap? Valahogy fenn kell tartanom a kényes egyensúlyt, és jó bevételt kell produkálnom. Tartozom ezzel az alkalmazottaimnak, meg persze magamnak is.}
-{222}{}{Úgy vélem, ez éppen elég méltányos.}
-{223}{}{Maga még annyit sem ér, mint egy döglött gekkó bele... Eleget hallgattam magát! Viszlát!}
-{224}{}{Csak szerettem volna újból megköszönni, hogy a lehet? leghelyesebben járt el Mrs. Rooneyval. Én igazán nem akartam kirúgni azt az öreglányt a házából...}
-{225}{}{Mégis így történt. Inkább beszélgessünk valami szívderít?bb témáról!}
-{226}{}{Valahogy éreztem, hogy valami ilyesmit fog mondani. Viszlát, polgármester úr!}
-{227}{}{Túl messzire ment azzal az özvegyasszony Rooneyval! Nem ártott ? a légynek sem! Miért kellett mindenáron megölni?}
-{228}{}{Megérdemelte!}
+{181}{}{Szerintem azÃ©rt ragasztottÃ¡k ezt a nevet rÃ¡, mert folyton hidegre teszi az embereket. VelejÃ©ig romlott ember, akit nem szabad elszalasztani... Ã©s ha sikerÃ¼l, Ã¶n h?s lesz! Szeretne h?s lenni, nem?}
+{182}{}{Meglehet, de mÃ©g mindig nem lÃ¡tom Ã¡t, mi kÃ¶zÃ¶m nekem ehhez.}
+{183}{}{Hogyne, persze! MikÃ©pp segÃ­thetek?}
+{184}{}{Most jutott eszembe, hogy elfelejtettem kitakarÃ­tani! Majd visszanÃ©zek, amint megbillentettem pÃ¡r hÃ¡tsÃ³t, PolgÃ¡rmester Ãºr...!}
+{185}{}{HÃ¡Ã¡Ã¡Ã¡t... amÃ­g a bÃ¡nya nincs kitisztÃ­tva, nem tudok munkÃ¡sokat kÃ¼ldeni oda. SzÃ³val, ha el akarja adni nekem a bÃ¡nyÃ¡t, ez a gond az Ã¶n vÃ¡llÃ¡t nyomja...}
+{186}{}{MiÃ©rt hÃ­vjÃ¡k ?t H?t?snek?}
+{187}{}{Nagyszer?! Mit tudok Ã©n tenni az Ã¼gyben?}
+{188}{}{Akkor jobb is lesz, ha belevÃ¡gok. ViszlÃ¡t, polgÃ¡rmester Ãºr!}
+{189}{}{Van egy olyan Ã©rzÃ©sem, hogy vissza kellene mennie a Wanamingo bÃ¡nyÃ¡ba, Ã©s leszÃ¡molni a H?t?ssel meg a bandÃ¡jÃ¡val... Ha sikerÃ¼lt, jÃ¶jjÃ¶n vissza Ã©s Ã©n abban a szent pillanatban, szÃ©lesvÃ¡sznÃº szinkronizÃ¡lt mosoly kÃ­sÃ©retÃ©ben visszavÃ¡sÃ¡rolom Ã¶nt?l a bÃ¡nyÃ¡t.}
+{190}{}{HÃ¡t mÃ¡r sosem mehetnek simÃ¡n a dolgok? Rendben, polgÃ¡rmester Ãºr. KÃ©s?bb talÃ¡lkozunk. Van mÃ©g egy-kÃ©t fÃ¼gg?ben lev? Ã¼gyem, amit le kell zÃ¡rnom.}
+{191}{}{HajlandÃ³ vÃ©gre eladni nekem a Wanamingo bÃ¡nyÃ¡t?}
+{192}{}{HÃ¡t persze, polgÃ¡rmester Ãºr! Mit is mondott, mekkora lenne az Ã¶sszeg?}
+{193}{}{Most mÃ©g nem, polgÃ¡rmester Ãºr! ViszlÃ¡t!}
+{194}{}{Hallottam, hogy Ãºgy dÃ¶ntÃ¶tt, segÃ­t a seriffnek. Helyes! Nem engedhetjÃ¼k meg, hogy annak a csÃ³rÃ³ Rooneynak ilyen szÃ©p hÃ¡za legyen.}
+{195}{}{Arra az aprÃ³cska, szÃ©llelbÃ©lelt viskÃ³ra gondol, amiÃ©rt szÃ³ szerint kiszipolyozza ?t?}
+{196}{}{Lett volna rÃ¡ egy fogadÃ¡som. Mennyivel tartozik Ã–nnek?}
+{197}{}{Majd meglÃ¡tom, mit tehetek az Ã¼gyben. Viszont mÃ©g kÃ©rdeznÃ©k valami mÃ¡st is.}
+{198}{}{Ja. MÃ©gis kicsoda Ã¶n?}
+{199}{}{Jobb szeretem, ha inkÃ¡bb kÃ©nyelmes, Ã©vszakhoz igazÃ­tott szell?z?rendszerrel felszerelt lakÃ¡snak nevezzÃ¼k. Ã‰s az Ã¡ra is igazÃ¡n elfogadhatÃ³.}
+{200}{}{BizonyÃ¡ra Ã­gy is van. Mennyi lakbÃ©rrel tartozik mÃ©g Ã–nnek?}
+{201}{}{Hmmm... most mÃ¡r jobb lesz, ha megyek, polgÃ¡rmester Ãºr. ViszlÃ¡t!}
+{202}{}{NÃ©zzÃ¼k csak! Mrs. Rooney... igen, mÃ¡r meg is van... 120 dollÃ¡rral tartozik nekem. Pontosan 120 dollÃ¡rral!}
+{203}{}{Csak ennyi? Itt van a zsebemben az Ã¶sszeg.}
+{204}{}{HÃ¡t ez nem valami sok. Hadd kÃ©rdezzek mÃ©g valami mÃ¡st!}
+{205}{}{Majd meglÃ¡tom, hogyan tudnÃ¡m behajtani rajta az adÃ³ssÃ¡got. ViszlÃ¡t!}
+{206}{}{Ez Ã­gy rendben is van. Az Ã¼gy elsimÃ­tva. KÃ¶szÃ¶nÃ¶m, hogy lerendeztÃ¼k a tartozÃ¡sÃ¡t.}
+{207}{}{Nem gond! De azÃ©rt kÃ©rdeznÃ©k mÃ©g valami mÃ¡st is.}
+{208}{}{Szerintem csak vannak emberek, akik gavallÃ©rabbak mÃ¡soknÃ¡l. ViszlÃ¡t, polgÃ¡rmester Ãºr!}
+{209}{}{KÃ¶szÃ¶nÃ¶m, hogy megtisztÃ­totta a tulajdonomat, seriff! Most mÃ¡r vÃ©gre kiadhatom valakinek, aki fizet is azÃ©rt, hogy benne lakik!}
+{210}{}{HÃ¡t nem Ã©rzem magam valami jÃ³l azutÃ¡n, amit tettem.}
+{211}{}{Ebben van rÃ¡ciÃ³.}
+{212}{}{MiÃ©rt nem? Pedig Ã©rezze csak jÃ³l magÃ¡t! Azzal, hogy kitette az Ã¶zvegy Rooney sz?rÃ©t, Ãºjra tudok fizetni az alkalmazottaimnak. Ha nem adok nekik fizetÃ©st, a csalÃ¡djaik Ã©hezni fognak! Ez nem volna helyes, ugye?}
+{213}{}{Nem volna. Ebben a tekintetben mÃ©g nem is gondoltam Ã¡t a dolgot. A baj az, hogy tovÃ¡bbra sem Ã©rzem magam valami jÃ³l miatta.}
+{214}{}{Nem Ãºgy t?nik, mintha tÃºl rosszul menne itt a dolga. Biztosra veszem, hogy a kaszinÃ³bÃ³l elÃ©g bevÃ©tele szÃ¡rmazik!}
+{215}{}{JÃ³ adag elszÃ¡ntsÃ¡gra van ahhoz szÃ¼ksÃ©g, hogy az ember mindig helyesen cselekedjen, mÃ©g akkor is, ha Ã©ppen rossz Ã©rzÃ©sek maradnak benne. Komoly dolgot vitt vÃ©ghez, Ã©s jÃ³l helyt Ã¡llt. MeghÃ­vom egy sÃ¶rre!}
+{216}{}{KÃ¶szÃ¶nÃ¶m, polgÃ¡rmester! Ez igazÃ¡n rendes volt magÃ¡tÃ³l.}
+{217}{}{Nem akarok Ã©n magÃ¡val inni semmit se! Se most, se mÃ¡skor! ViszlÃ¡t!}
+{218}{}{Nincs itt semmi gond... Boldog vagyok, hogy meghÃ­vhatom egy korsÃ³ra a helyi rendfenntartÃ³ er?t...}
+{219}{}{MÃ©g egyszer kÃ¶szÃ¶nÃ¶m, polgÃ¡rmester Ãºr! Ã‰s mÃ©g hadd kÃ©rdezzek valami mÃ¡srÃ³l is.}
+{220}{}{KÃ¶szÃ¶nÃ¶m, polgÃ¡rmester! KÃ©s?bb talÃ¡lkozunk! ViszlÃ¡t!}
+{221}{}{Ma talÃ¡n igen... de ki tudja, mit hoz a holnap? Valahogy fenn kell tartanom a kÃ©nyes egyensÃºlyt, Ã©s jÃ³ bevÃ©telt kell produkÃ¡lnom. Tartozom ezzel az alkalmazottaimnak, meg persze magamnak is.}
+{222}{}{Ãšgy vÃ©lem, ez Ã©ppen elÃ©g mÃ©ltÃ¡nyos.}
+{223}{}{Maga mÃ©g annyit sem Ã©r, mint egy dÃ¶glÃ¶tt gekkÃ³ bele... Eleget hallgattam magÃ¡t! ViszlÃ¡t!}
+{224}{}{Csak szerettem volna ÃºjbÃ³l megkÃ¶szÃ¶nni, hogy a lehet? leghelyesebben jÃ¡rt el Mrs. Rooneyval. Ã‰n igazÃ¡n nem akartam kirÃºgni azt az Ã¶reglÃ¡nyt a hÃ¡zÃ¡bÃ³l...}
+{225}{}{MÃ©gis Ã­gy tÃ¶rtÃ©nt. InkÃ¡bb beszÃ©lgessÃ¼nk valami szÃ­vderÃ­t?bb tÃ©mÃ¡rÃ³l!}
+{226}{}{Valahogy Ã©reztem, hogy valami ilyesmit fog mondani. ViszlÃ¡t, polgÃ¡rmester Ãºr!}
+{227}{}{TÃºl messzire ment azzal az Ã¶zvegyasszony Rooneyval! Nem Ã¡rtott ? a lÃ©gynek sem! MiÃ©rt kellett mindenÃ¡ron megÃ¶lni?}
+{228}{}{MegÃ©rdemelte!}
 {229}{}{Baleset volt...}
-{230}{}{Megérdemelteee?! ? csak egy ártatlan id?s hölgy volt! Maga tisztára be van golyózva! T?njön el innen!}
-{231}{}{Maga beszól nekem, mi?}
-{232}{}{Már amúgy is éppen indulófélben voltam... Viszlát!}
-{233}{}{Baleset?! Egyes testrészeit még mindig keresik!!! Ajánlom, hogy a jöv?ben lehet?leg ne szokjon rá az ilyen balesetekre! Árt az üzletnek!}
-{234}{}{Megértettem. Hadd kérdezzek valami mást, polgármester úr!}
-{235}{}{Legközelebb sokkal óvatosabb leszek.}
-{236}{}{Igen, magához szóltam! Lát itt valaki mást is, akinek beszólhattam volna?! Húzzon el a kocsmámból a búsba!}
-{237}{}{Maga *HOZZÁM* beszél?}
-{238}{}{Megyek már, megyek...}
-{239}{}{Micsoda?! Maga süket vagy teljesen segg idióta?! *ÉN* *MAGÁHOZ* beszéltem!!! Takarodjon innen!}
-{240}{}{Hát, bizonyára hozzám beszélt, mert nem látok senki mást a környéken...}
-{241}{}{Rendben van! Elmegyek! Ne izgassa halálra magát! Ég áldja!}
-{242}{}{A törzsükben mindenki ilyen barom? Remek. Akar táncolni? Akkor táncoljunk! ?rség!}
-{243}{}{Bizonyára hozzám beszél, de nekem egyáltalán nem tetszik, amit hallok...}
-{244}{}{Hohóóó... hé! Nyugi, emberke! Éppen menni akartam.}
-{245}{}{Hallottam, hogy Earl Marionnak dolgozol, helyettes seriffként, amíg ? jobban nem lesz. Ez bizonyára alaposan lefoglal majd egy ideig. Akárhogy is legyen, más neked való munka ebben a városban nem nagyon jut eszembe.}
-{246}{}{Értem. Akkor hadd kérdezzek még, Ascorti polgármester úr!}
-{247}{}{Mondjon valamit a bánya tulajdonosairól!}
-{248}{}{Mindenesetre köszönöm, polgármester. Viszlát!}
-{249}{}{Hallottam, hogy nagyon ügyesen kisegítette Marion seriffet. A város egészen elcsöndesedett, mióta segített neki. Momentán semmi olyan nem jut eszembe, ami megfelelne a képességeinek.}
-{250}{}{Köszönet, polgármester! Ez nagyon sokat jelent nekem. Szeretnék más egyébr?l is feltenni pár kérdést.}
-{251}{}{Mondjon valamit a bánya tulajdonosairól!}
-{252}{}{Azért kösz. Na, akkor beletaposok a lábbuszba... Viszlát!}
-{253}{}{Ha jók az értesüléseim, akkor Earl Marion seriff éppen keres valakit, aki kisegítené ?t egy kis id?re, amíg a tropára ment lába meggyógyul. Talán vele kellene beszélned. Az irodája innen délre van, az utca túloldalán.}
-{254}{}{Kösz a tippet! De még miel?tt elrohannék, feltennék néhány kérdést.}
-{255}{}{Mondjon valamit a bánya tulajdonosairól!}
-{256}{}{Talán akkor át kellene néznem oda... Kösz!}
-{257}{}{Nos, van a seriff meg a bánya tulajdonosai. Olyasvalakit keresnek, aki szerezne nekik egy alkatrészt a gépeik egyikébe.}
+{230}{}{MegÃ©rdemelteee?! ? csak egy Ã¡rtatlan id?s hÃ¶lgy volt! Maga tisztÃ¡ra be van golyÃ³zva! T?njÃ¶n el innen!}
+{231}{}{Maga beszÃ³l nekem, mi?}
+{232}{}{MÃ¡r amÃºgy is Ã©ppen indulÃ³fÃ©lben voltam... ViszlÃ¡t!}
+{233}{}{Baleset?! Egyes testrÃ©szeit mÃ©g mindig keresik!!! AjÃ¡nlom, hogy a jÃ¶v?ben lehet?leg ne szokjon rÃ¡ az ilyen balesetekre! Ãrt az Ã¼zletnek!}
+{234}{}{MegÃ©rtettem. Hadd kÃ©rdezzek valami mÃ¡st, polgÃ¡rmester Ãºr!}
+{235}{}{LegkÃ¶zelebb sokkal Ã³vatosabb leszek.}
+{236}{}{Igen, magÃ¡hoz szÃ³ltam! LÃ¡t itt valaki mÃ¡st is, akinek beszÃ³lhattam volna?! HÃºzzon el a kocsmÃ¡mbÃ³l a bÃºsba!}
+{237}{}{Maga *HOZZÃM* beszÃ©l?}
+{238}{}{Megyek mÃ¡r, megyek...}
+{239}{}{Micsoda?! Maga sÃ¼ket vagy teljesen segg idiÃ³ta?! *Ã‰N* *MAGÃHOZ* beszÃ©ltem!!! Takarodjon innen!}
+{240}{}{HÃ¡t, bizonyÃ¡ra hozzÃ¡m beszÃ©lt, mert nem lÃ¡tok senki mÃ¡st a kÃ¶rnyÃ©ken...}
+{241}{}{Rendben van! Elmegyek! Ne izgassa halÃ¡lra magÃ¡t! Ã‰g Ã¡ldja!}
+{242}{}{A tÃ¶rzsÃ¼kben mindenki ilyen barom? Remek. Akar tÃ¡ncolni? Akkor tÃ¡ncoljunk! ?rsÃ©g!}
+{243}{}{BizonyÃ¡ra hozzÃ¡m beszÃ©l, de nekem egyÃ¡ltalÃ¡n nem tetszik, amit hallok...}
+{244}{}{HohÃ³Ã³Ã³... hÃ©! Nyugi, emberke! Ã‰ppen menni akartam.}
+{245}{}{Hallottam, hogy Earl Marionnak dolgozol, helyettes seriffkÃ©nt, amÃ­g ? jobban nem lesz. Ez bizonyÃ¡ra alaposan lefoglal majd egy ideig. AkÃ¡rhogy is legyen, mÃ¡s neked valÃ³ munka ebben a vÃ¡rosban nem nagyon jut eszembe.}
+{246}{}{Ã‰rtem. Akkor hadd kÃ©rdezzek mÃ©g, Ascorti polgÃ¡rmester Ãºr!}
+{247}{}{Mondjon valamit a bÃ¡nya tulajdonosairÃ³l!}
+{248}{}{Mindenesetre kÃ¶szÃ¶nÃ¶m, polgÃ¡rmester. ViszlÃ¡t!}
+{249}{}{Hallottam, hogy nagyon Ã¼gyesen kisegÃ­tette Marion seriffet. A vÃ¡ros egÃ©szen elcsÃ¶ndesedett, miÃ³ta segÃ­tett neki. MomentÃ¡n semmi olyan nem jut eszembe, ami megfelelne a kÃ©pessÃ©geinek.}
+{250}{}{KÃ¶szÃ¶net, polgÃ¡rmester! Ez nagyon sokat jelent nekem. SzeretnÃ©k mÃ¡s egyÃ©br?l is feltenni pÃ¡r kÃ©rdÃ©st.}
+{251}{}{Mondjon valamit a bÃ¡nya tulajdonosairÃ³l!}
+{252}{}{AzÃ©rt kÃ¶sz. Na, akkor beletaposok a lÃ¡bbuszba... ViszlÃ¡t!}
+{253}{}{Ha jÃ³k az Ã©rtesÃ¼lÃ©seim, akkor Earl Marion seriff Ã©ppen keres valakit, aki kisegÃ­tenÃ© ?t egy kis id?re, amÃ­g a tropÃ¡ra ment lÃ¡ba meggyÃ³gyul. TalÃ¡n vele kellene beszÃ©lned. Az irodÃ¡ja innen dÃ©lre van, az utca tÃºloldalÃ¡n.}
+{254}{}{KÃ¶sz a tippet! De mÃ©g miel?tt elrohannÃ©k, feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{255}{}{Mondjon valamit a bÃ¡nya tulajdonosairÃ³l!}
+{256}{}{TalÃ¡n akkor Ã¡t kellene nÃ©znem oda... KÃ¶sz!}
+{257}{}{Nos, van a seriff meg a bÃ¡nya tulajdonosai. Olyasvalakit keresnek, aki szerezne nekik egy alkatrÃ©szt a gÃ©peik egyikÃ©be.}
 {258}{}{Mi ez a dolog a seriffel?}
-{259}{}{Mi a helyzet a bányatulajdonosokkal?}
-{260}{}{Érdekes. Még lenne néhány kérdésem, polgármester úr.}
-{261}{}{Lehet, hogy körbenézek egy kicsit... Köszi és viszlát!}
-{262}{}{A mindenit, úgy van! Hallottam, hogy már elindult és megszerezte egyik?jüknek a chipet.}
+{259}{}{Mi a helyzet a bÃ¡nyatulajdonosokkal?}
+{260}{}{Ã‰rdekes. MÃ©g lenne nÃ©hÃ¡ny kÃ©rdÃ©sem, polgÃ¡rmester Ãºr.}
+{261}{}{Lehet, hogy kÃ¶rbenÃ©zek egy kicsit... KÃ¶szi Ã©s viszlÃ¡t!}
+{262}{}{A mindenit, Ãºgy van! Hallottam, hogy mÃ¡r elindult Ã©s megszerezte egyik?jÃ¼knek a chipet.}
 {263}{}{Nos, akkor mondjon nekem valamit a seriffr?l!}
-{264}{}{Ja, az én voltam. Akkor most beszéljünk valami másról, polgármester!}
-{265}{}{Ó, azt hittem, lesz majd valami új. Akkor viszlát!}
-{266}{}{Nem tudok túl sokat róluk. Talán beszélnie kéne Dinamit Den McGrewval a Morningstar bányában, vagy Marge LeBarge-dzsal a Kokoweefben. Mindketten innen északra találhatóak a belvárostól, a temet?n keresztül.}
-{267}{}{Kösz! Szóval akkor mi van a seriffel?}
-{268}{}{Köszönöm! De még hadd tudakoljak meg pár információt.}
-{269}{}{Esetleg el kellene sétálnom hozzájuk, és beszélni velük. Kösz, polgármester úr! Viszlát!}
-{270}{}{Az utóbbi id?ben kezdtek belassulni az aranyszállítmányok, mert a bányászaink túl sok id?t töltenek a "repkedéssel"... csak úgy nyomják magukba a Jetet.}
+{264}{}{Ja, az Ã©n voltam. Akkor most beszÃ©ljÃ¼nk valami mÃ¡srÃ³l, polgÃ¡rmester!}
+{265}{}{Ã“, azt hittem, lesz majd valami Ãºj. Akkor viszlÃ¡t!}
+{266}{}{Nem tudok tÃºl sokat rÃ³luk. TalÃ¡n beszÃ©lnie kÃ©ne Dinamit Den McGrewval a Morningstar bÃ¡nyÃ¡ban, vagy Marge LeBarge-dzsal a Kokoweefben. Mindketten innen Ã©szakra talÃ¡lhatÃ³ak a belvÃ¡rostÃ³l, a temet?n keresztÃ¼l.}
+{267}{}{KÃ¶sz! SzÃ³val akkor mi van a seriffel?}
+{268}{}{KÃ¶szÃ¶nÃ¶m! De mÃ©g hadd tudakoljak meg pÃ¡r informÃ¡ciÃ³t.}
+{269}{}{Esetleg el kellene sÃ©tÃ¡lnom hozzÃ¡juk, Ã©s beszÃ©lni velÃ¼k. KÃ¶sz, polgÃ¡rmester Ãºr! ViszlÃ¡t!}
+{270}{}{Az utÃ³bbi id?ben kezdtek belassulni az aranyszÃ¡llÃ­tmÃ¡nyok, mert a bÃ¡nyÃ¡szaink tÃºl sok id?t tÃ¶ltenek a "repkedÃ©ssel"... csak Ãºgy nyomjÃ¡k magukba a Jetet.}
 {271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
  are up, and our exports are down. Bad for business all the way around.}
-{272}{}{Mindenki túlságosan el van szállva a Jett?l... ahelyett, hogy megfelel?en dolgoznának! Így még a normális aranykitermelés tizedét sem érjük el, és ezért alaposan meg kellett emelni az árakat. Tarthatatlan!}
-{273}{}{Úgy t?nik, mindenki beszívott egy jó adag Jetet... Az összes Jet-Pilóta durva detoxikációnak van alávetve. Úgy vélem, valami nem stimmel velük. Nem tudom, mi történt velük, de szerintem hamarosan minden jóra fordul.}
-{274}{}{A dolgok már majdnem rendbe jöttek. Mindenki, aki a Jet hatása alatt volt, elkezdett leszokni róla. A bánya termelése és szállítási ütemezésünk hamarosan visszatér a megszokott szintre. Úgy látom, a nehezén már túl vagyunk.}
-{275}{}{Hmmm... Ez érdekes! Hadd kérdez?sködjek még valami másról is, Ascorti polgármester!}
-{276}{}{Értem. Köszönöm az információt, polgármester. Viszlát!}
-{277}{}{Édenkert Létrehozást El?segít? Táska? Ha jól emlékszem, Menedékvárosban gyártottak ilyet. Mindegyik menedékben lennie kell egy ilyennek, de az biztos, hogy a környéken nincs ilyesmi.}
-{278}{}{Óh, értem. Még kérdeznék valami mást is, polgármester úr.}
-{279}{}{Akkor jobb lesz, ha tovább keresem. Köszönöm, Ascorti úr!}
+{272}{}{Mindenki tÃºlsÃ¡gosan el van szÃ¡llva a Jett?l... ahelyett, hogy megfelel?en dolgoznÃ¡nak! Ãgy mÃ©g a normÃ¡lis aranykitermelÃ©s tizedÃ©t sem Ã©rjÃ¼k el, Ã©s ezÃ©rt alaposan meg kellett emelni az Ã¡rakat. Tarthatatlan!}
+{273}{}{Ãšgy t?nik, mindenki beszÃ­vott egy jÃ³ adag Jetet... Az Ã¶sszes Jet-PilÃ³ta durva detoxikÃ¡ciÃ³nak van alÃ¡vetve. Ãšgy vÃ©lem, valami nem stimmel velÃ¼k. Nem tudom, mi tÃ¶rtÃ©nt velÃ¼k, de szerintem hamarosan minden jÃ³ra fordul.}
+{274}{}{A dolgok mÃ¡r majdnem rendbe jÃ¶ttek. Mindenki, aki a Jet hatÃ¡sa alatt volt, elkezdett leszokni rÃ³la. A bÃ¡nya termelÃ©se Ã©s szÃ¡llÃ­tÃ¡si Ã¼temezÃ©sÃ¼nk hamarosan visszatÃ©r a megszokott szintre. Ãšgy lÃ¡tom, a nehezÃ©n mÃ¡r tÃºl vagyunk.}
+{275}{}{Hmmm... Ez Ã©rdekes! Hadd kÃ©rdez?skÃ¶djek mÃ©g valami mÃ¡srÃ³l is, Ascorti polgÃ¡rmester!}
+{276}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t, polgÃ¡rmester. ViszlÃ¡t!}
+{277}{}{Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡ska? Ha jÃ³l emlÃ©kszem, MenedÃ©kvÃ¡rosban gyÃ¡rtottak ilyet. Mindegyik menedÃ©kben lennie kell egy ilyennek, de az biztos, hogy a kÃ¶rnyÃ©ken nincs ilyesmi.}
+{278}{}{Ã“h, Ã©rtem. MÃ©g kÃ©rdeznÃ©k valami mÃ¡st is, polgÃ¡rmester Ãºr.}
+{279}{}{Akkor jobb lesz, ha tovÃ¡bb keresem. KÃ¶szÃ¶nÃ¶m, Ascorti Ãºr!}

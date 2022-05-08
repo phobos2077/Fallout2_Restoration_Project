@@ -1,1 +1,1 @@
-{100}{}{Du siehst keine Möglichkeit, wie du die Tür öffnen könntest.}
+{100}{}{Du siehst keine MÃ¶glichkeit, wie du die TÃ¼r Ã¶ffnen kÃ¶nntest.}

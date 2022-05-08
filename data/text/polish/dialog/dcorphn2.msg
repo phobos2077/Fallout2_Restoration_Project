@@ -1,11 +1,11 @@
 {100}{}{Widzisz dziecko.}
-{101}{}{Widzisz ma³ego ch³opca. Sprawia wra¿enie szczêœliwego.}
-{102}{}{Widzisz ma³¹ dziewczynkê. Sprawia wra¿enie szczêœliwej.}
-{200}{}{Dzieñ dobry Panu!}
-{201}{}{Przepraszamy, ¿e próbowaliœmy ciê okraœæ.}
-{202}{}{Bardzo mi siê tu podoba.}
-{203}{}{Dziêkuje, ¿e pomog³eœ Mamie przygotowaæ to miejsce!}
-{300}{}{Dzieñ dobry Pani!}
-{301}{}{Przepraszamy, ¿e próbowaliœmy ciê okraœæ.}
-{302}{}{Bardzo mi siê tu podoba.}
-{303}{}{Dziêkuje, ¿e pomog³eœ Mamie przygotowaæ to miejsce!}
+{101}{}{Widzisz maÅ‚ego chÅ‚opca. Sprawia wraÅ¼enie szczÄ™Å›liwego.}
+{102}{}{Widzisz maÅ‚Ä… dziewczynkÄ™. Sprawia wraÅ¼enie szczÄ™Å›liwej.}
+{200}{}{DzieÅ„ dobry Panu!}
+{201}{}{Przepraszamy, Å¼e prÃ³bowaliÅ›my ciÄ™ okraÅ›Ä‡.}
+{202}{}{Bardzo mi siÄ™ tu podoba.}
+{203}{}{DziÄ™kuje, Å¼e pomogÅ‚eÅ› Mamie przygotowaÄ‡ to miejsce!}
+{300}{}{DzieÅ„ dobry Pani!}
+{301}{}{Przepraszamy, Å¼e prÃ³bowaliÅ›my ciÄ™ okraÅ›Ä‡.}
+{302}{}{Bardzo mi siÄ™ tu podoba.}
+{303}{}{DziÄ™kuje, Å¼e pomogÅ‚eÅ› Mamie przygotowaÄ‡ to miejsce!}

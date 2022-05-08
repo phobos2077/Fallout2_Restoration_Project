@@ -1,24 +1,24 @@
-{100}{}{Egy ?rt látsz.}
-{101}{}{Egy ?rt látsz er?páncélban.}
-{102}{}{Egy ?rt látsz, aki az er?páncél egy különös változatát viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
-{103}{}{Nincs jelenteni valóm.}
-{104}{}{Nálam semmi, és nálad?}
-{105}{}{Nem kéne a posztodon lenned? Nem jó, hogy itt csavarogsz.}
+{100}{}{Egy ?rt lÃ¡tsz.}
+{101}{}{Egy ?rt lÃ¡tsz er?pÃ¡ncÃ©lban.}
+{102}{}{Egy ?rt lÃ¡tsz, aki az er?pÃ¡ncÃ©l egy kÃ¼lÃ¶nÃ¶s vÃ¡ltozatÃ¡t viseli. A mellkasÃ¡n van egy jel, amit nem tudsz hova tenni.}
+{103}{}{Nincs jelenteni valÃ³m.}
+{104}{}{NÃ¡lam semmi, Ã©s nÃ¡lad?}
+{105}{}{Nem kÃ©ne a posztodon lenned? Nem jÃ³, hogy itt csavarogsz.}
 {106}{}{Nincs rajtad egyenruha.}
-{107}{}{Jelentkezz az ?rmesternél és kapj magadra egy páncélt!}
-{108}{}{Nagy kockázatot válalsz, ha csak így flangálsz itt. Vegyél fel egy páncélt!}
-{109}{}{Kik ezek a fickók?... Behatolók! Riadó!}
-{110}{}{Megtámadtak bennünket! Riadó!}
-{111}{}{Behatolók! Riadó!}
-{112}{}{Biztonsági riadó! Zárjátok le a bázist!}
+{107}{}{Jelentkezz az ?rmesternÃ©l Ã©s kapj magadra egy pÃ¡ncÃ©lt!}
+{108}{}{Nagy kockÃ¡zatot vÃ¡lalsz, ha csak Ã­gy flangÃ¡lsz itt. VegyÃ©l fel egy pÃ¡ncÃ©lt!}
+{109}{}{Kik ezek a fickÃ³k?... BehatolÃ³k! RiadÃ³!}
+{110}{}{MegtÃ¡madtak bennÃ¼nket! RiadÃ³!}
+{111}{}{BehatolÃ³k! RiadÃ³!}
+{112}{}{BiztonsÃ¡gi riadÃ³! ZÃ¡rjÃ¡tok le a bÃ¡zist!}
 {113}{}{Secure all stations! We're on alert!}
-{114}{}{Behatolók! Vörös kód!}
-{115}{}{Szétalázunk!}
-{116}{}{Az Enklávé lesz a világ ura!}
-{117}{}{Te elpusztulsz, az Enklávé fennmarad!}
+{114}{}{BehatolÃ³k! VÃ¶rÃ¶s kÃ³d!}
+{115}{}{SzÃ©talÃ¡zunk!}
+{116}{}{Az EnklÃ¡vÃ© lesz a vilÃ¡g ura!}
+{117}{}{Te elpusztulsz, az EnklÃ¡vÃ© fennmarad!}
 {200}{}{...seggfej...}
-{201}{}{...igen, jobb ha húzol innen...}
-{202}{}{...ekkora tirpák köcsögöt...}
+{201}{}{...igen, jobb ha hÃºzol innen...}
+{202}{}{...ekkora tirpÃ¡k kÃ¶csÃ¶gÃ¶t...}
 {203}{}{...Igen, uram! Bassza meg, uram!...}
 {300}{}{Hold on there. What do you think you're doing with that aircraft? There are no scheduled flights for several days.}
 {301}{}{Nrg?}

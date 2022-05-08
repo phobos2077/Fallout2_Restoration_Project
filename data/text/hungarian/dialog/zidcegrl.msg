@@ -1,140 +1,140 @@
-{100}{}{Egy kártyaosztót látsz.}
-{101}{}{Ez egy kockázó asztal.}
-{110}{}{Ifjú leányzó.}
+{100}{}{Egy kÃ¡rtyaosztÃ³t lÃ¡tsz.}
+{101}{}{Ez egy kockÃ¡zÃ³ asztal.}
+{110}{}{IfjÃº leÃ¡nyzÃ³.}
 {111}{}{Asztal.}
-{140}{}{Ezen az asztalon kockázni szoktak.}
-{141}{}{Az asztal tele van mindenféle tárggyal.}
-{150}{}{? a kaszinó egyik kártyaosztója.}
-{151}{}{? a kaszinó egyik kártyaosztója. Int, hogy menj közelebb, és játssz.}
-{152}{}{? a kaszinó egyik kártyaosztója. A ruhája alig takarja el a testét.}
-{153}{}{? a kaszinó egyik kártyaosztója. Csinos virgácsai vannak.}
-{154}{}{? a kaszinó egyik kártyaosztója. Rádkacsint.}
-{155}{}{? a kaszinó egyik kártyaosztója. Naggggyon jó illata van.}
-{160}{}{Ez a n? hihetetlenül gyönyör?.}
-{161}{}{Integet neked, hogy menj oda hozzá.}
-{162}{}{Ehhez a kosztümhöz nem sok állatot öltek le. Meglehet?sen apróra sikeredett.}
-{163}{}{A virgácsai leny?göz?ek.}
-{164}{}{Rádkacsintott!}
-{165}{}{Naggggyon jó illata van.}
+{140}{}{Ezen az asztalon kockÃ¡zni szoktak.}
+{141}{}{Az asztal tele van mindenfÃ©le tÃ¡rggyal.}
+{150}{}{? a kaszinÃ³ egyik kÃ¡rtyaosztÃ³ja.}
+{151}{}{? a kaszinÃ³ egyik kÃ¡rtyaosztÃ³ja. Int, hogy menj kÃ¶zelebb, Ã©s jÃ¡tssz.}
+{152}{}{? a kaszinÃ³ egyik kÃ¡rtyaosztÃ³ja. A ruhÃ¡ja alig takarja el a testÃ©t.}
+{153}{}{? a kaszinÃ³ egyik kÃ¡rtyaosztÃ³ja. Csinos virgÃ¡csai vannak.}
+{154}{}{? a kaszinÃ³ egyik kÃ¡rtyaosztÃ³ja. RÃ¡dkacsint.}
+{155}{}{? a kaszinÃ³ egyik kÃ¡rtyaosztÃ³ja. Naggggyon jÃ³ illata van.}
+{160}{}{Ez a n? hihetetlenÃ¼l gyÃ¶nyÃ¶r?.}
+{161}{}{Integet neked, hogy menj oda hozzÃ¡.}
+{162}{}{Ehhez a kosztÃ¼mhÃ¶z nem sok Ã¡llatot Ã¶ltek le. Meglehet?sen aprÃ³ra sikeredett.}
+{163}{}{A virgÃ¡csai leny?gÃ¶z?ek.}
+{164}{}{RÃ¡dkacsintott!}
+{165}{}{Naggggyon jÃ³ illata van.}
 {175}{}{NINCS KOCKA!!!}
-{176}{}{TÚL SOK KOCKA VAN JÁTÉKBAN!!!}
-{177}{}{Mióta dobókockát cseréltél, mintha javultak volna az esélyeid.}
-{178}{}{Az esélyek nem túl rózsásak.}
-{179}{}{Nehéz lenne teljes bizonyossággal megjósolni az eredményt.}
-{185}{}{Az esélyeid normálisak.}
-{186}{}{Nehéz lenne teljes bizonyossággal megjósolni az eredményt.}
-{187}{}{Az esélyek nem túl rózsásak.}
-{200}{}{::Éljenez::}
+{176}{}{TÃšL SOK KOCKA VAN JÃTÃ‰KBAN!!!}
+{177}{}{MiÃ³ta dobÃ³kockÃ¡t cserÃ©ltÃ©l, mintha javultak volna az esÃ©lyeid.}
+{178}{}{Az esÃ©lyek nem tÃºl rÃ³zsÃ¡sak.}
+{179}{}{NehÃ©z lenne teljes bizonyossÃ¡ggal megjÃ³solni az eredmÃ©nyt.}
+{185}{}{Az esÃ©lyeid normÃ¡lisak.}
+{186}{}{NehÃ©z lenne teljes bizonyossÃ¡ggal megjÃ³solni az eredmÃ©nyt.}
+{187}{}{Az esÃ©lyek nem tÃºl rÃ³zsÃ¡sak.}
+{200}{}{::Ã‰ljenez::}
 {201}{}{::Tapsol::}
-{202}{}{::Fütyül::}
+{202}{}{::FÃ¼tyÃ¼l::}
 {203}{}{}
-{204}{}{Már azt hittük, teljesen megfeledkeztél rólunk, míg a világ megmentésén fáradoztál!}
-{215}{}{Helló, }
-{216}{}{Ha kés?bb egy kis társaságra vágyna...}
-{217}{}{Hé, te... [kacsint] Nem akarsz kockáztatni?}
-{218}{}{? aztán... [megborzong] ...nagyon veszélyes!}
-{219}{}{Köszönjük, hogy ellátogatott a kaszinónkba, }
-{220}{}{Mondjon már egy-két jó szót értem a f?nöknél...}
-{221}{}{Üdvözöljük, hölgyem. Csak kérdezzen, hátha tudok segíteni.}
-{222}{}{Játszani szeretne, hölgyem?}
-{223}{}{Ez a lány... [megborzong] ...nagyon veszélyes!}
-{235}{}{Ez itt már éppen eléggé kockára tette az életét.}
-{236}{}{Öö, szerintem egyszer?en csak eltévesztette a kaszinót...}
-{237}{}{Ha nem t?nik el, miel?tt a fiúk meglátnák...}
+{204}{}{MÃ¡r azt hittÃ¼k, teljesen megfeledkeztÃ©l rÃ³lunk, mÃ­g a vilÃ¡g megmentÃ©sÃ©n fÃ¡radoztÃ¡l!}
+{215}{}{HellÃ³, }
+{216}{}{Ha kÃ©s?bb egy kis tÃ¡rsasÃ¡gra vÃ¡gyna...}
+{217}{}{HÃ©, te... [kacsint] Nem akarsz kockÃ¡ztatni?}
+{218}{}{? aztÃ¡n... [megborzong] ...nagyon veszÃ©lyes!}
+{219}{}{KÃ¶szÃ¶njÃ¼k, hogy ellÃ¡togatott a kaszinÃ³nkba, }
+{220}{}{Mondjon mÃ¡r egy-kÃ©t jÃ³ szÃ³t Ã©rtem a f?nÃ¶knÃ©l...}
+{221}{}{ÃœdvÃ¶zÃ¶ljÃ¼k, hÃ¶lgyem. Csak kÃ©rdezzen, hÃ¡tha tudok segÃ­teni.}
+{222}{}{JÃ¡tszani szeretne, hÃ¶lgyem?}
+{223}{}{Ez a lÃ¡ny... [megborzong] ...nagyon veszÃ©lyes!}
+{235}{}{Ez itt mÃ¡r Ã©ppen elÃ©ggÃ© kockÃ¡ra tette az Ã©letÃ©t.}
+{236}{}{Ã–Ã¶, szerintem egyszer?en csak eltÃ©vesztette a kaszinÃ³t...}
+{237}{}{Ha nem t?nik el, miel?tt a fiÃºk meglÃ¡tnÃ¡k...}
 {238}{}{Ajjaj! Gond van...}
-{239}{}{Ez itt már éppen eléggé kockára tette az életét.}
-{240}{}{Ehm. Szerintem ez nem éppen a legmegfelel?bb kaszinó neki...}
-{241}{}{Ha nem t?nik el, miel?tt a fiúk meglátják...}
-{250}{}{Hé, izomagy! Nem akarsz egy kis pénzt kockára tenni?}
-{251}{}{Hé, bajnok... [rádkacsint] ...nincs kedved játszani?}
-{252}{}{Hé, bajnok... [mosolyog] ...nem teszed próbára a szerencséd?}
-{253}{}{Ha kés?bb egy kis társaságra vágyna...}
-{254}{}{Kíváncsi vagyok, beszélhetnék-e vele...}
-{255}{}{Hé, }
-{256}{}{Ha nyerni szeretnél egy kis pénzt, a legjobb helyen jársz!}
-{257}{}{Érzem Fortuna asszony illatát... mindenki csak nyer és nyer!}
-{258}{}{Jöjjön közelebb, }
-{259}{}{Kér még egy italt?}
-{260}{}{Köszönjük, hogy ellátogatott a kaszinónkba, }
-{261}{}{Helló, }
-{262}{}{Próbáljon szerencsét, }
-{263}{}{Köszönjük, hogy ellátogatott a kaszinónkba, }
-{270}{}{Helló, mozisztár! Nem akarsz itthagyni egy kis pénzt?}
-{271}{}{Hé, }
-{272}{}{Hé, }
-{273}{}{Ha szeretne pár dolcsival gazdagabb lenni, }
-{274}{}{Érzem Fortuna asszony illatát... mindenki csak nyer és nyer!}
-{275}{}{Jöjjön közelebb, }
-{276}{}{Kér még egy italt?}
-{277}{}{Köszönjük, hogy ellátogatott a kaszinónkba, }
-{278}{}{Hé, miss Díva! Nem akarod elkölteni a gázsidat!}
-{279}{}{Táncolsz ma éjjel?}
-{290}{}{Szia, édesem. El akarsz költeni egy kis pénzt?}
-{291}{}{Szia, édes! [rádkacsint] ...nincs kedved játszani?}
-{292}{}{Hé, cukipofa! [mosolyog] Nem akarod próbára tenni a szerencsédet?}
-{293}{}{Ha nyerni szeretnél egy kis pénzt, a legjobb helyen jársz!}
-{294}{}{Érzem Fortuna asszony illatát... mindenki csak nyer és nyer!}
-{295}{}{Lépjen ide, és nyerjen pár dollárt!}
-{296}{}{Hozhatok egy újabb italt, kedves?}
-{297}{}{Köszönjük, hogy a mi kaszinónkat választottad, édesem!}
-{298}{}{Ha most éppen játszani szeretnél, szabad az asztal...}
-{299}{}{Csók, édes! Csak nem akarsz egy kis pénzt elkölteni?}
-{300}{}{Játszani szeretnél, édesem?}
-{301}{}{Köszönjük, hogy a mi kaszinónkat választottad, édesem!}
-{320}{}{[Az osztó idegesen rádpillant, majd az ajkába harap.] Öö, tegyék meg tétjeiket! A legkisebb tét }
-{321}{}{Tegye meg a tétjét, uram! Legalább }
-{322}{}{Hölgyem, tegye meg a tétjét! A minimális tét }
-{323}{}{Tegyék még a tétjeiket! A minimális tét  }
-{324}{}{Én jác-ccani jobban}
-{325}{}{Én játszani csapol le csacsi pucérba'}
-{326}{}{Miféle játék? Lehet gekkób?rbe foganni? Nekem van gekk... óóóóóó... mi szép fények!}
+{239}{}{Ez itt mÃ¡r Ã©ppen elÃ©ggÃ© kockÃ¡ra tette az Ã©letÃ©t.}
+{240}{}{Ehm. Szerintem ez nem Ã©ppen a legmegfelel?bb kaszinÃ³ neki...}
+{241}{}{Ha nem t?nik el, miel?tt a fiÃºk meglÃ¡tjÃ¡k...}
+{250}{}{HÃ©, izomagy! Nem akarsz egy kis pÃ©nzt kockÃ¡ra tenni?}
+{251}{}{HÃ©, bajnok... [rÃ¡dkacsint] ...nincs kedved jÃ¡tszani?}
+{252}{}{HÃ©, bajnok... [mosolyog] ...nem teszed prÃ³bÃ¡ra a szerencsÃ©d?}
+{253}{}{Ha kÃ©s?bb egy kis tÃ¡rsasÃ¡gra vÃ¡gyna...}
+{254}{}{KÃ­vÃ¡ncsi vagyok, beszÃ©lhetnÃ©k-e vele...}
+{255}{}{HÃ©, }
+{256}{}{Ha nyerni szeretnÃ©l egy kis pÃ©nzt, a legjobb helyen jÃ¡rsz!}
+{257}{}{Ã‰rzem Fortuna asszony illatÃ¡t... mindenki csak nyer Ã©s nyer!}
+{258}{}{JÃ¶jjÃ¶n kÃ¶zelebb, }
+{259}{}{KÃ©r mÃ©g egy italt?}
+{260}{}{KÃ¶szÃ¶njÃ¼k, hogy ellÃ¡togatott a kaszinÃ³nkba, }
+{261}{}{HellÃ³, }
+{262}{}{PrÃ³bÃ¡ljon szerencsÃ©t, }
+{263}{}{KÃ¶szÃ¶njÃ¼k, hogy ellÃ¡togatott a kaszinÃ³nkba, }
+{270}{}{HellÃ³, mozisztÃ¡r! Nem akarsz itthagyni egy kis pÃ©nzt?}
+{271}{}{HÃ©, }
+{272}{}{HÃ©, }
+{273}{}{Ha szeretne pÃ¡r dolcsival gazdagabb lenni, }
+{274}{}{Ã‰rzem Fortuna asszony illatÃ¡t... mindenki csak nyer Ã©s nyer!}
+{275}{}{JÃ¶jjÃ¶n kÃ¶zelebb, }
+{276}{}{KÃ©r mÃ©g egy italt?}
+{277}{}{KÃ¶szÃ¶njÃ¼k, hogy ellÃ¡togatott a kaszinÃ³nkba, }
+{278}{}{HÃ©, miss DÃ­va! Nem akarod elkÃ¶lteni a gÃ¡zsidat!}
+{279}{}{TÃ¡ncolsz ma Ã©jjel?}
+{290}{}{Szia, Ã©desem. El akarsz kÃ¶lteni egy kis pÃ©nzt?}
+{291}{}{Szia, Ã©des! [rÃ¡dkacsint] ...nincs kedved jÃ¡tszani?}
+{292}{}{HÃ©, cukipofa! [mosolyog] Nem akarod prÃ³bÃ¡ra tenni a szerencsÃ©det?}
+{293}{}{Ha nyerni szeretnÃ©l egy kis pÃ©nzt, a legjobb helyen jÃ¡rsz!}
+{294}{}{Ã‰rzem Fortuna asszony illatÃ¡t... mindenki csak nyer Ã©s nyer!}
+{295}{}{LÃ©pjen ide, Ã©s nyerjen pÃ¡r dollÃ¡rt!}
+{296}{}{Hozhatok egy Ãºjabb italt, kedves?}
+{297}{}{KÃ¶szÃ¶njÃ¼k, hogy a mi kaszinÃ³nkat vÃ¡lasztottad, Ã©desem!}
+{298}{}{Ha most Ã©ppen jÃ¡tszani szeretnÃ©l, szabad az asztal...}
+{299}{}{CsÃ³k, Ã©des! Csak nem akarsz egy kis pÃ©nzt elkÃ¶lteni?}
+{300}{}{JÃ¡tszani szeretnÃ©l, Ã©desem?}
+{301}{}{KÃ¶szÃ¶njÃ¼k, hogy a mi kaszinÃ³nkat vÃ¡lasztottad, Ã©desem!}
+{320}{}{[Az osztÃ³ idegesen rÃ¡dpillant, majd az ajkÃ¡ba harap.] Ã–Ã¶, tegyÃ©k meg tÃ©tjeiket! A legkisebb tÃ©t }
+{321}{}{Tegye meg a tÃ©tjÃ©t, uram! LegalÃ¡bb }
+{322}{}{HÃ¶lgyem, tegye meg a tÃ©tjÃ©t! A minimÃ¡lis tÃ©t }
+{323}{}{TegyÃ©k mÃ©g a tÃ©tjeiket! A minimÃ¡lis tÃ©t  }
+{324}{}{Ã‰n jÃ¡c-ccani jobban}
+{325}{}{Ã‰n jÃ¡tszani csapol le csacsi pucÃ©rba'}
+{326}{}{MifÃ©le jÃ¡tÃ©k? Lehet gekkÃ³b?rbe foganni? Nekem van gekk... Ã³Ã³Ã³Ã³Ã³Ã³... mi szÃ©p fÃ©nyek!}
 {327}{}{[Van }
 {328}{}{Fogadok }
-{329}{}{Áááá, nekem ez már túl nagymen?!}
-{330}{}{Köszönöm, ma nincs több tét!}
-{331}{}{Ööö... Bocsi, de nem tudom, hogy kell ezeket a fránya játékokat játszani.}
-{340}{}{Izé... Úgy hallottam, hogy az értelmi fogyatékosaknak agyat osztogatnak hátul. Talán nem ártana ott körülnézned.}
-{341}{}{Ööö, jól van, uram. Jöjjön máskor is.}
-{342}{}{Öhm, rendben, asszonyom. Jöjjön vissza minél hamarabb!}
-{343}{}{Uisz-láááááát!}
-{344}{}{Álllllat! }
-{345}{}{Öööagyizémicsoda?! Én akar megnézni!}
-{350}{}{Jól van, uram. Jöjjön vissza minél hamarabb!}
-{351}{}{Jól van, hölgyem. Jöjjön vissza minél hamarabb!}
-{352}{}{[Az osztó felhúzza a szemöldökét.] }
-{354}{}{Kösz, meglesz!}
+{329}{}{ÃÃ¡Ã¡Ã¡, nekem ez mÃ¡r tÃºl nagymen?!}
+{330}{}{KÃ¶szÃ¶nÃ¶m, ma nincs tÃ¶bb tÃ©t!}
+{331}{}{Ã–Ã¶Ã¶... Bocsi, de nem tudom, hogy kell ezeket a frÃ¡nya jÃ¡tÃ©kokat jÃ¡tszani.}
+{340}{}{IzÃ©... Ãšgy hallottam, hogy az Ã©rtelmi fogyatÃ©kosaknak agyat osztogatnak hÃ¡tul. TalÃ¡n nem Ã¡rtana ott kÃ¶rÃ¼lnÃ©zned.}
+{341}{}{Ã–Ã¶Ã¶, jÃ³l van, uram. JÃ¶jjÃ¶n mÃ¡skor is.}
+{342}{}{Ã–hm, rendben, asszonyom. JÃ¶jjÃ¶n vissza minÃ©l hamarabb!}
+{343}{}{Uisz-lÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡t!}
+{344}{}{Ãlllllat! }
+{345}{}{Ã–Ã¶Ã¶agyizÃ©micsoda?! Ã‰n akar megnÃ©zni!}
+{350}{}{JÃ³l van, uram. JÃ¶jjÃ¶n vissza minÃ©l hamarabb!}
+{351}{}{JÃ³l van, hÃ¶lgyem. JÃ¶jjÃ¶n vissza minÃ©l hamarabb!}
+{352}{}{[Az osztÃ³ felhÃºzza a szemÃ¶ldÃ¶kÃ©t.] }
+{354}{}{KÃ¶sz, meglesz!}
 {355}{}{Meglehet...}
-{400}{}{Sajnálom. Talán legközelebb több szerencséje lesz.}
-{401}{}{Sajnálom, uram. Legközelebb biztos nagyobb szerencséje lesz.}
-{402}{}{Együttérzek, asszonyom! Esetleg ha újra megpróbálná...}
-{410}{}{Ön nyert!}
-{411}{}{Ön nyert! Gratulálok, uram!}
-{412}{}{Ön nyert! Gratulálok, hölgyem!}
-{420}{}{Nyert! Megduplázta a pénzét!}
-{421}{}{Nyert! Megduplázta a pénzét! Gratulálok, uram!}
-{422}{}{Ön nyert! Most dupla pénzt vihet haza! Nagyszer? volt, hölgyem!}
-{430}{}{Gratulálok! Háromszoros pénz üti a markát!}
-{431}{}{Nyert! Ön megtriplázta a pénzét! A szerencse beköltözött a házba! Gratulálok, uram!}
+{400}{}{SajnÃ¡lom. TalÃ¡n legkÃ¶zelebb tÃ¶bb szerencsÃ©je lesz.}
+{401}{}{SajnÃ¡lom, uram. LegkÃ¶zelebb biztos nagyobb szerencsÃ©je lesz.}
+{402}{}{EgyÃ¼ttÃ©rzek, asszonyom! Esetleg ha Ãºjra megprÃ³bÃ¡lnÃ¡...}
+{410}{}{Ã–n nyert!}
+{411}{}{Ã–n nyert! GratulÃ¡lok, uram!}
+{412}{}{Ã–n nyert! GratulÃ¡lok, hÃ¶lgyem!}
+{420}{}{Nyert! MegduplÃ¡zta a pÃ©nzÃ©t!}
+{421}{}{Nyert! MegduplÃ¡zta a pÃ©nzÃ©t! GratulÃ¡lok, uram!}
+{422}{}{Ã–n nyert! Most dupla pÃ©nzt vihet haza! Nagyszer? volt, hÃ¶lgyem!}
+{430}{}{GratulÃ¡lok! HÃ¡romszoros pÃ©nz Ã¼ti a markÃ¡t!}
+{431}{}{Nyert! Ã–n megtriplÃ¡zta a pÃ©nzÃ©t! A szerencse bekÃ¶ltÃ¶zÃ¶tt a hÃ¡zba! GratulÃ¡lok, uram!}
 {432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
-{440}{}{Mára elég lesz.}
-{441}{}{Ma estére elég lesz ennyi.}
-{450}{}{Elnézést, de az asztalt lezártuk. Valaki megbuherálta a kockákat.}
-{451}{}{Bocsánatot kérek, uram, de az asztal nem használható. Valaki csalt a kockákkal.}
-{452}{}{Bocsásson meg asszonyom, az asztal most nem üzemelhet. Valaki megberhelte a kockákat.}
+{440}{}{MÃ¡ra elÃ©g lesz.}
+{441}{}{Ma estÃ©re elÃ©g lesz ennyi.}
+{450}{}{ElnÃ©zÃ©st, de az asztalt lezÃ¡rtuk. Valaki megbuherÃ¡lta a kockÃ¡kat.}
+{451}{}{BocsÃ¡natot kÃ©rek, uram, de az asztal nem hasznÃ¡lhatÃ³. Valaki csalt a kockÃ¡kkal.}
+{452}{}{BocsÃ¡sson meg asszonyom, az asztal most nem Ã¼zemelhet. Valaki megberhelte a kockÃ¡kat.}
 {453}{}{Ehhh, rendben.}
-{454}{}{Sajnálattal hallom. Kösz!}
-{2203}{}{! Isten hozta a kaszinóban, tisztelt h?s!}
-{2215}{}{! Segíthetek *valamiben*?}
+{454}{}{SajnÃ¡lattal hallom. KÃ¶sz!}
+{2203}{}{! Isten hozta a kaszinÃ³ban, tisztelt h?s!}
+{2215}{}{! SegÃ­thetek *valamiben*?}
 {2219}{}{ vagyok.}
 {2255}{}{. Szeretne gazdag lenni?}
-{2258}{}{, nyerjen egy kis pénzt!}
+{2258}{}{, nyerjen egy kis pÃ©nzt!}
 {2260}{}{ vagyok.}
-{2261}{}{. Árulja el, ha bármiben is a segítségére tudnék lenni!}
+{2261}{}{. Ãrulja el, ha bÃ¡rmiben is a segÃ­tsÃ©gÃ©re tudnÃ©k lenni!}
 {2262}{}{?}
 {2263}{}{ vagyok.}
-{2321}{}{ dollár. Tegyék meg a tétjeiket!...}
-{2327}{}{ dollárod] }
+{2321}{}{ dollÃ¡r. TegyÃ©k meg a tÃ©tjeiket!...}
+{2327}{}{ dollÃ¡rod] }
 {2328}{}{ vagyok.}
-{2344}{}{ számára újabb tárgy mindig jön jól [Távozol.]}
-{2352}{}{ dolcsi neked túl nagymen?? [gúnyolódik] Haver, te aztán tényleg rossz városban kötöttél ki!}
-{2353}{}{ dolcsi neked túl nagymen?? [megvet?en] Csajszikám, ez a város aztán tényleg nem neked való!}
+{2344}{}{ szÃ¡mÃ¡ra Ãºjabb tÃ¡rgy mindig jÃ¶n jÃ³l [TÃ¡vozol.]}
+{2352}{}{ dolcsi neked tÃºl nagymen?? [gÃºnyolÃ³dik] Haver, te aztÃ¡n tÃ©nyleg rossz vÃ¡rosban kÃ¶tÃ¶ttÃ©l ki!}
+{2353}{}{ dolcsi neked tÃºl nagymen?? [megvet?en] CsajszikÃ¡m, ez a vÃ¡ros aztÃ¡n tÃ©nyleg nem neked valÃ³!}

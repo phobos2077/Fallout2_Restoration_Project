@@ -1,59 +1,59 @@
 {100}{}{Widzisz niskiego ghula.}
-{101}{}{Widzisz Percy'ego Crumpa, s³awnego ghula-handlarza.}
-{102}{}{Widzisz niskiego, krêpego ghula. Ma mi³¹ powierzchownoœæ... jak na ghula, oczywiœcie.}
-{103}{}{A niech mnie kule. Jak ja ci siê odwdziêczê za uratowanie mojego przyjaciela? Chooo-lercia. Oto ma³e co nieco za twoje trudy.}
-{104}{}{Ca³a przyjemnoœæ po mojej stronie.}
+{101}{}{Widzisz Percy'ego Crumpa, sÅ‚awnego ghula-handlarza.}
+{102}{}{Widzisz niskiego, krÄ™pego ghula. Ma miÅ‚Ä… powierzchownoÅ›Ä‡... jak na ghula, oczywiÅ›cie.}
+{103}{}{A niech mnie kule. Jak ja ci siÄ™ odwdziÄ™czÄ™ za uratowanie mojego przyjaciela? Chooo-lercia. Oto maÅ‚e co nieco za twoje trudy.}
+{104}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie.}
 {105}{}{Co tam dla mnie masz?}
-{106}{}{Lepiej, ¿eby mi siê op³aci³o. To nie by³a ³atwa robota i trzeba siê by³o przy tym nieŸle nachodziæ. I jakie ryzyko! Diabli wiedz¹ co mog³o siê mi przydarzyæ.}
-{107}{}{Na pewno nie chcesz pomóc staremu Percy'emu z jego problemem? Chooo-lernie by mi siê przyda³a twoja pomoc!}
-{108}{}{Eee, muszê siê jeszcze trochê zastanowiæ. Mo¿e w miêdzyczasie moglibyœmy trochê siê powymieniaæ.}
-{109}{}{Opowiedz mi jeszcze raz o ca³ej sprawie.}
-{110}{}{Bêdziesz mnie o to mêczyæ za ka¿dym razem, kiedy tu wejdê?! Mam tego doœæ. Do widzenia.}
-{111}{}{Wiesz ju¿ gdzie jest Woody? Zaczynam siê o niego chooo-lernie martwiæ. Nigdy wczeœniej nie oddala³ siê na tak d³ugo.}
-{112}{}{Eee... nie, jeszcze nie. Hej, mo¿e moglibyœmy trochê pohandlowaæ?}
-{113}{}{Nie, nie wiem gdzie on jest. Mo¿e lepiej bêdzie, jeœli natychmiast wrócê do poszukiwañ.}
-{114}{}{Witam, witam! Jestem Percy Crump, G³ówny Kupiec tej miejscowoœci. Ale dla ciebie mogê byæ po prostu dobrym starym Percym. Czemu by nie, w koñcu wszyscy tak na mnie mówi¹, he he. Co mogê dla ciebie zrobiæ?}
-{115}{}{Co stary Percy mo¿e dla ciebie zrobiæ?}
-{116}{}{Co nowego s³ychaæ w waszym mieœcie?}
-{117}{}{Zastanawiam siê w³aœnie czy masz tu coœ ciekawego na wymianê?}
-{118}{}{Có¿, w zasadzie nic. Tylko siê rozgl¹dam. Do widzenia.}
-{119}{}{Kupiæ?}
-{120}{}{Gu? Moja iœæ pa pa.}
-{121}{}{Chcê ci tylko po-gra-tulowaæ z okazji naprawienia naszego cennego reaktora. Teraz chodzi jak zegarek! No, a poza tym, gdzieœ wciê³o mojego kumpla Woddy'ego.}
-{122}{}{Muszê ci podziêkowaæ za naprawienie naszego reaktora atomowego. Ten chooo-lerny g³upol, Festus nigdy by sobie z tym nie poradzi³. No, a poza tym, gdzieœ wciê³o mojego kumpla Woody'ego.}
-{123}{}{W mieœcie nie dzieje siê zbyt wiele. Podobno Wooz wykopa³ jakiegoœ ¿ó³todzioba z knajpy. He he he. No, a poza tym, gdzieœ wciê³o mojego kumpla, Woody'ego.}
-{124}{}{Có¿, opowiedz mi o tym coœ wiêcej.}
-{125}{}{Och, to fatalnie. Nie lubiê smutnych opowieœci. Na pewno wolisz byæ teraz sam. Do zobaczenia.}
-{126}{}{Jasne, ¿e tak! Mam tu mnóstwo ciekawych rzeczy po bardzo przyzwoitych cenach.}
-{127}{}{Masz ju¿ wszystko, czego potrzebujesz, czy szukasz czegoœ jeszcze?}
+{106}{}{Lepiej, Å¼eby mi siÄ™ opÅ‚aciÅ‚o. To nie byÅ‚a Å‚atwa robota i trzeba siÄ™ byÅ‚o przy tym nieÅºle nachodziÄ‡. I jakie ryzyko! Diabli wiedzÄ… co mogÅ‚o siÄ™ mi przydarzyÄ‡.}
+{107}{}{Na pewno nie chcesz pomÃ³c staremu Percy'emu z jego problemem? Chooo-lernie by mi siÄ™ przydaÅ‚a twoja pomoc!}
+{108}{}{Eee, muszÄ™ siÄ™ jeszcze trochÄ™ zastanowiÄ‡. MoÅ¼e w miÄ™dzyczasie moglibyÅ›my trochÄ™ siÄ™ powymieniaÄ‡.}
+{109}{}{Opowiedz mi jeszcze raz o caÅ‚ej sprawie.}
+{110}{}{BÄ™dziesz mnie o to mÄ™czyÄ‡ za kaÅ¼dym razem, kiedy tu wejdÄ™?! Mam tego doÅ›Ä‡. Do widzenia.}
+{111}{}{Wiesz juÅ¼ gdzie jest Woody? Zaczynam siÄ™ o niego chooo-lernie martwiÄ‡. Nigdy wczeÅ›niej nie oddalaÅ‚ siÄ™ na tak dÅ‚ugo.}
+{112}{}{Eee... nie, jeszcze nie. Hej, moÅ¼e moglibyÅ›my trochÄ™ pohandlowaÄ‡?}
+{113}{}{Nie, nie wiem gdzie on jest. MoÅ¼e lepiej bÄ™dzie, jeÅ›li natychmiast wrÃ³cÄ™ do poszukiwaÅ„.}
+{114}{}{Witam, witam! Jestem Percy Crump, GÅ‚Ã³wny Kupiec tej miejscowoÅ›ci. Ale dla ciebie mogÄ™ byÄ‡ po prostu dobrym starym Percym. Czemu by nie, w koÅ„cu wszyscy tak na mnie mÃ³wiÄ…, he he. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{115}{}{Co stary Percy moÅ¼e dla ciebie zrobiÄ‡?}
+{116}{}{Co nowego sÅ‚ychaÄ‡ w waszym mieÅ›cie?}
+{117}{}{Zastanawiam siÄ™ wÅ‚aÅ›nie czy masz tu coÅ› ciekawego na wymianÄ™?}
+{118}{}{CÃ³Å¼, w zasadzie nic. Tylko siÄ™ rozglÄ…dam. Do widzenia.}
+{119}{}{KupiÄ‡?}
+{120}{}{Gu? Moja iÅ›Ä‡ pa pa.}
+{121}{}{ChcÄ™ ci tylko po-gra-tulowaÄ‡ z okazji naprawienia naszego cennego reaktora. Teraz chodzi jak zegarek! No, a poza tym, gdzieÅ› wciÄ™Å‚o mojego kumpla Woddy'ego.}
+{122}{}{MuszÄ™ ci podziÄ™kowaÄ‡ za naprawienie naszego reaktora atomowego. Ten chooo-lerny gÅ‚upol, Festus nigdy by sobie z tym nie poradziÅ‚. No, a poza tym, gdzieÅ› wciÄ™Å‚o mojego kumpla Woody'ego.}
+{123}{}{W mieÅ›cie nie dzieje siÄ™ zbyt wiele. Podobno Wooz wykopaÅ‚ jakiegoÅ› Å¼Ã³Å‚todzioba z knajpy. He he he. No, a poza tym, gdzieÅ› wciÄ™Å‚o mojego kumpla, Woody'ego.}
+{124}{}{CÃ³Å¼, opowiedz mi o tym coÅ› wiÄ™cej.}
+{125}{}{Och, to fatalnie. Nie lubiÄ™ smutnych opowieÅ›ci. Na pewno wolisz byÄ‡ teraz sam. Do zobaczenia.}
+{126}{}{Jasne, Å¼e tak! Mam tu mnÃ³stwo ciekawych rzeczy po bardzo przyzwoitych cenach.}
+{127}{}{Masz juÅ¼ wszystko, czego potrzebujesz, czy szukasz czegoÅ› jeszcze?}
 {128}{}{Moja chce?}
 {129}{}{Hmmm... Zobaczmy co tu masz.}
-{130}{}{Chcê jeszcze raz rzuciæ okiem na twój towar.}
-{131}{}{To ju¿ chyba wszystko. Dziêki, Percy. Do widzenia.}
-{132}{}{Uug. Moja iœæ pa pa.}
-{133}{}{Z tej wielkiej skrzyni œrodków antyradiacyjnych nie ma zbyt wielkiego po¿ytku. Ciekawe gdzie by³a, jak jej potrzebowa³em sto parê lat temu? He he heee. Proszê bardzo, jest twoja. Ostatnio przekonujê siê, ¿e z roku na rok co raz trudniej o przyjació³... takich jak ty.}
-{134}{}{Ca³a przyjemnoœæ po mojej stronie, Percy. Dziêkujê za lekarstwa.}
-{135}{}{Ekstra - ³atwa robota za du¿¹ kasê. To mi siê podoba.}
-{136}{}{A bo widzisz... mia³em przyjaciela imieniem Woody. Ten Woody, on lubi sobie pospaæ jak nikt inny. Co gorsza, Woody lubi równie¿ podró¿owaæ. Ot - nie potrafi usiedzieæ na ty³ku d³u¿ej ni¿ dwa dni.}
-{137}{}{W porz¹dku.}
-{138}{}{Có¿, w tych stronach nie jest to jakiœ szczególny problem, ale z tego co s³ysza³em, Woody wybra³ siê na spacer do Nory. Wiesz gdzie to jest?}
-{139}{}{Tak, wiem gdzie le¿y Nora. Mów dalej.}
-{140}{}{Niestety, nie wiem gdzie le¿y Nora.}
-{141}{}{Ca³kiem ³atwo tam dotrzeæ. Patrz: Zaznaczê j¹ na tej twojej fikuœnej mapce.}
-{142}{}{Hej, tylko ostro¿nie! W porz¹dku, mów dalej.}
-{143}{}{Có¿, tak czy inaczej, jak ju¿ mówi³em - w Gecko nie jest to wielki problem, ale obcy ludzie nie s¹ przyzwyczajeni do naszego wygl¹du.}
+{130}{}{ChcÄ™ jeszcze raz rzuciÄ‡ okiem na twÃ³j towar.}
+{131}{}{To juÅ¼ chyba wszystko. DziÄ™ki, Percy. Do widzenia.}
+{132}{}{Uug. Moja iÅ›Ä‡ pa pa.}
+{133}{}{Z tej wielkiej skrzyni Å›rodkÃ³w antyradiacyjnych nie ma zbyt wielkiego poÅ¼ytku. Ciekawe gdzie byÅ‚a, jak jej potrzebowaÅ‚em sto parÄ™ lat temu? He he heee. ProszÄ™ bardzo, jest twoja. Ostatnio przekonujÄ™ siÄ™, Å¼e z roku na rok co raz trudniej o przyjaciÃ³Å‚... takich jak ty.}
+{134}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie, Percy. DziÄ™kujÄ™ za lekarstwa.}
+{135}{}{Ekstra - Å‚atwa robota za duÅ¼Ä… kasÄ™. To mi siÄ™ podoba.}
+{136}{}{A bo widzisz... miaÅ‚em przyjaciela imieniem Woody. Ten Woody, on lubi sobie pospaÄ‡ jak nikt inny. Co gorsza, Woody lubi rÃ³wnieÅ¼ podrÃ³Å¼owaÄ‡. Ot - nie potrafi usiedzieÄ‡ na tyÅ‚ku dÅ‚uÅ¼ej niÅ¼ dwa dni.}
+{137}{}{W porzÄ…dku.}
+{138}{}{CÃ³Å¼, w tych stronach nie jest to jakiÅ› szczegÃ³lny problem, ale z tego co sÅ‚yszaÅ‚em, Woody wybraÅ‚ siÄ™ na spacer do Nory. Wiesz gdzie to jest?}
+{139}{}{Tak, wiem gdzie leÅ¼y Nora. MÃ³w dalej.}
+{140}{}{Niestety, nie wiem gdzie leÅ¼y Nora.}
+{141}{}{CaÅ‚kiem Å‚atwo tam dotrzeÄ‡. Patrz: ZaznaczÄ™ jÄ… na tej twojej fikuÅ›nej mapce.}
+{142}{}{Hej, tylko ostroÅ¼nie! W porzÄ…dku, mÃ³w dalej.}
+{143}{}{CÃ³Å¼, tak czy inaczej, jak juÅ¼ mÃ³wiÅ‚em - w Gecko nie jest to wielki problem, ale obcy ludzie nie sÄ… przyzwyczajeni do naszego wyglÄ…du.}
 {144}{}{I co z tego?}
-{145}{}{Co jest? Nie kojarzysz jeszcze?! Bojê siê, ¿e Woody uci¹³ sobie ma³¹ drzemkê gdzieœ w Norze - w koñcu to spory kawa³ drogi - a nieprzyzwyczajeni mieszkañcy pochowali biedaka ¿ywcem! Szukam w³aœnie kogoœ, kto zechcia³by go tam poszukaæ.}
+{145}{}{Co jest? Nie kojarzysz jeszcze?! BojÄ™ siÄ™, Å¼e Woody uciÄ…Å‚ sobie maÅ‚Ä… drzemkÄ™ gdzieÅ› w Norze - w koÅ„cu to spory kawaÅ‚ drogi - a nieprzyzwyczajeni mieszkaÅ„cy pochowali biedaka Å¼ywcem! Szukam wÅ‚aÅ›nie kogoÅ›, kto zechciaÅ‚by go tam poszukaÄ‡.}
 {146}{}{I...?}
-{147}{}{Có¿, brakuje mi go. Ot co. (Percy mruga trochê intensywniej) Och, rozumiem, chcesz wiedzieæ czy ci siê to op³aci?}
-{148}{}{Te s³owa bardzo pozytywnie wp³ywaj¹ na moj¹ motywacjê. Mów dalej.}
-{149}{}{No tak... wiem gdzie mo¿na znaleŸæ ca³e mnóstwo przedwojennego towaru - g³ównie oryginalnych Anty-Radów i Rad-Xu. Mi siê ju¿ nie przydadz¹, ale dla g³adkoskórych s¹ na pewno sporo warte. To jak - pomo¿esz mi czy nie? Zap³acê ci dopiero jak bêdê mia³ pewnoœæ, ¿e Woody jest bezpieczny.}
-{150}{}{Ca³e mnóstwo? To znaczy ile?}
-{151}{}{Dobra, umowa stoi. Odezwê siê wkrótce.}
-{152}{}{Przykro mi. Chwilowo nie mogê ci pomóc.}
-{153}{}{Zastanowiê siê jeszcze. Do widzenia.}
-{154}{}{Wiêcej, ni¿ dasz radê kiedykolwiek zu¿yæ. To jak - umowa stoi?}
-{155}{}{Dobra, umowa stoi. Odezwê siê wkrótce.}
-{156}{}{Przykro mi. Chwilowo nie mogê ci pomóc.}
-{157}{}{Zastanowiê siê jeszcze. Do widzenia.}
-{158}{}{Piêkne dziêki za odnalezienie mojego kumpla Woody'ego. Co stary Percy mo¿e dla ciebie zrobiæ?}
+{147}{}{CÃ³Å¼, brakuje mi go. Ot co. (Percy mruga trochÄ™ intensywniej) Och, rozumiem, chcesz wiedzieÄ‡ czy ci siÄ™ to opÅ‚aci?}
+{148}{}{Te sÅ‚owa bardzo pozytywnie wpÅ‚ywajÄ… na mojÄ… motywacjÄ™. MÃ³w dalej.}
+{149}{}{No tak... wiem gdzie moÅ¼na znaleÅºÄ‡ caÅ‚e mnÃ³stwo przedwojennego towaru - gÅ‚Ã³wnie oryginalnych Anty-RadÃ³w i Rad-Xu. Mi siÄ™ juÅ¼ nie przydadzÄ…, ale dla gÅ‚adkoskÃ³rych sÄ… na pewno sporo warte. To jak - pomoÅ¼esz mi czy nie? ZapÅ‚acÄ™ ci dopiero jak bÄ™dÄ™ miaÅ‚ pewnoÅ›Ä‡, Å¼e Woody jest bezpieczny.}
+{150}{}{CaÅ‚e mnÃ³stwo? To znaczy ile?}
+{151}{}{Dobra, umowa stoi. OdezwÄ™ siÄ™ wkrÃ³tce.}
+{152}{}{Przykro mi. Chwilowo nie mogÄ™ ci pomÃ³c.}
+{153}{}{ZastanowiÄ™ siÄ™ jeszcze. Do widzenia.}
+{154}{}{WiÄ™cej, niÅ¼ dasz radÄ™ kiedykolwiek zuÅ¼yÄ‡. To jak - umowa stoi?}
+{155}{}{Dobra, umowa stoi. OdezwÄ™ siÄ™ wkrÃ³tce.}
+{156}{}{Przykro mi. Chwilowo nie mogÄ™ ci pomÃ³c.}
+{157}{}{ZastanowiÄ™ siÄ™ jeszcze. Do widzenia.}
+{158}{}{PiÄ™kne dziÄ™ki za odnalezienie mojego kumpla Woody'ego. Co stary Percy moÅ¼e dla ciebie zrobiÄ‡?}

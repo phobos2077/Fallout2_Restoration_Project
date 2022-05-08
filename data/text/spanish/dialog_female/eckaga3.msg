@@ -1,22 +1,22 @@
 {100}{}{Ves a un hombre que lleva una armadura de metal.}
 {101}{}{Ves a Kaga.}
-{102}{}{Sí, es Kaga el no-tan-Grande. Lleva una armadura de metal y quiere matarte.}
-{103}{}{¡Tú otra vez!}
-{104}{}{Kaga se está cansando de nuestros continuos encuentros.}
-{105}{}{Elegida... ¡hmph!}
+{102}{}{SÃ­, es Kaga el no-tan-Grande. Lleva una armadura de metal y quiere matarte.}
+{103}{}{Â¡TÃº otra vez!}
+{104}{}{Kaga se estÃ¡ cansando de nuestros continuos encuentros.}
+{105}{}{Elegida... Â¡hmph!}
 {106}{}{Acabemos con esto.}
-{107}{}{¡Te arrepentirás de haber oído el nombre de Kaga!}
-{108}{}{Las habilidades de Kaga han mejorado desde la última vez que nos vimos.}
-{109}{}{Esto se está convirtiendo en una mala costumbre.}
-{110}{}{Kaga necesita entrenar un poco más.}
-{111}{}{Kaga volverá.}
-{120}{}{Así que nos encontramos de nuevo, Kaga.}
-{150}{}{[Un alto y fornido guerrero está frente a ti, sus ojos brillan con odio mientras te mira.] Entonces, ellos echan a Kaga, ¿y te consideran el Elegido? ¡JA! ¿Crees que ser la nieta del Morador del Refugio te hace especial? ¿Crees que eres mejor que yo, Kaga el Grande?}
-{151}{}{Bueno, yo SOY el Elegido, ¿no?}
-{152}{}{Hey ahora, espera un segundo. Nunca dije que era mejor que tú.}
-{160}{}{¡Ese título no significará nada cuando Kaga te arranque la cabeza de tus hombros!}
-{161}{}{No hay palabras que puedan salvar tu piel. Con tu muerte, el honor de Kaga será restaurado. ¡Kaga ahora tomará su venganza!}
-{200}{}{¿Ooglie?}
-{201}{}{¿¡Qué!? ¿Te eligieron a *ti* para ser el Elegido? Oh mi, se han vuelto desesperados.}
+{107}{}{Â¡Te arrepentirÃ¡s de haber oÃ­do el nombre de Kaga!}
+{108}{}{Las habilidades de Kaga han mejorado desde la Ãºltima vez que nos vimos.}
+{109}{}{Esto se estÃ¡ convirtiendo en una mala costumbre.}
+{110}{}{Kaga necesita entrenar un poco mÃ¡s.}
+{111}{}{Kaga volverÃ¡.}
+{120}{}{AsÃ­ que nos encontramos de nuevo, Kaga.}
+{150}{}{[Un alto y fornido guerrero estÃ¡ frente a ti, sus ojos brillan con odio mientras te mira.] Entonces, ellos echan a Kaga, Â¿y te consideran el Elegido? Â¡JA! Â¿Crees que ser la nieta del Morador del Refugio te hace especial? Â¿Crees que eres mejor que yo, Kaga el Grande?}
+{151}{}{Bueno, yo SOY el Elegido, Â¿no?}
+{152}{}{Hey ahora, espera un segundo. Nunca dije que era mejor que tÃº.}
+{160}{}{Â¡Ese tÃ­tulo no significarÃ¡ nada cuando Kaga te arranque la cabeza de tus hombros!}
+{161}{}{No hay palabras que puedan salvar tu piel. Con tu muerte, el honor de Kaga serÃ¡ restaurado. Â¡Kaga ahora tomarÃ¡ su venganza!}
+{200}{}{Â¿Ooglie?}
+{201}{}{Â¿Â¡QuÃ©!? Â¿Te eligieron a *ti* para ser el Elegido? Oh mi, se han vuelto desesperados.}
 {202}{}{No gusta. Parece mal.}
-{203}{}{Kaga ni siquiera se molestará en hablar contigo más. ¡Prepárate para morir a manos de Kaga!}
+{203}{}{Kaga ni siquiera se molestarÃ¡ en hablar contigo mÃ¡s. Â¡PrepÃ¡rate para morir a manos de Kaga!}

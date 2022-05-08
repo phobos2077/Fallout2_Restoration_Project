@@ -1,38 +1,38 @@
 {100}{}{Widzisz wojownika.}
 {101}{}{Widzisz Serina.}
-{102}{}{Wygl¹da na ciê¿ko rannego i ma z³aman¹ nogê.}
-{103}{}{Widzisz Serina. Wygl¹da na ciê¿ko rannego i ma z³aman¹ nogê.}
-{104}{}{Widzisz Serina. Ma zabanda¿owan¹ nogê i kuœtyka.}
-{105}{}{Widzisz Serina. Wygl¹da lepiej i g³êboko œpi.}
-{106}{}{Widzisz Serina. Wygl¹da na to, ¿e wyzdrowia³.}
-{200}{}{*Aaa* Giñ potworze!! Nie bêdziesz...}
-{201}{}{Uspokój siê. Jesteœ ju¿ bezpieczny. Gekon nie ¿yje.}
-{202}{}{Co!? Och, chwa³a duchom, kumpel. Ba³em siê, ¿e byæ ju¿ po mnie.}
-{203}{}{Co siê tu sta³o?}
-{204}{}{Jerem i ja iœæ na cotygodniowe polowanie. Pójœæ przez przejœcie w jaskinia, na pole gdzie ¿yæ du¿o gekonów. Polowanie pójœæ Ÿle. Musieliœmy uciekaæ. Za du¿o gekonów z duchy furii. My wejœæ do jaskini. Zacz¹æ krzyczeæ o pomoc. [Urywa na chwilê i krzywi siê z bólu próbuj¹c masowaæ swoj¹ nogê.]}
-{205}{}{Mów dalej.}
-{206}{}{Przejœcie ju¿ by³o na krawêdzi zawalenia. Woda przesi¹kaæ ze strumienia nad nami. Œmiertelne przejœcie, ale byæ wielki skrót na pola. Teraz ju¿ nie byæ. Widzisz, my krzyczeæ jak g³upcy i strop zawaliæ siê na nas.}
+{102}{}{WyglÄ…da na ciÄ™Å¼ko rannego i ma zÅ‚amanÄ… nogÄ™.}
+{103}{}{Widzisz Serina. WyglÄ…da na ciÄ™Å¼ko rannego i ma zÅ‚amanÄ… nogÄ™.}
+{104}{}{Widzisz Serina. Ma zabandaÅ¼owanÄ… nogÄ™ i kuÅ›tyka.}
+{105}{}{Widzisz Serina. WyglÄ…da lepiej i gÅ‚Ä™boko Å›pi.}
+{106}{}{Widzisz Serina. WyglÄ…da na to, Å¼e wyzdrowiaÅ‚.}
+{200}{}{*Aaa* GiÅ„ potworze!! Nie bÄ™dziesz...}
+{201}{}{UspokÃ³j siÄ™. JesteÅ› juÅ¼ bezpieczny. Gekon nie Å¼yje.}
+{202}{}{Co!? Och, chwaÅ‚a duchom, kumpel. BaÅ‚em siÄ™, Å¼e byÄ‡ juÅ¼ po mnie.}
+{203}{}{Co siÄ™ tu staÅ‚o?}
+{204}{}{Jerem i ja iÅ›Ä‡ na cotygodniowe polowanie. PÃ³jÅ›Ä‡ przez przejÅ›cie w jaskinia, na pole gdzie Å¼yÄ‡ duÅ¼o gekonÃ³w. Polowanie pÃ³jÅ›Ä‡ Åºle. MusieliÅ›my uciekaÄ‡. Za duÅ¼o gekonÃ³w z duchy furii. My wejÅ›Ä‡ do jaskini. ZaczÄ…Ä‡ krzyczeÄ‡ o pomoc. [Urywa na chwilÄ™ i krzywi siÄ™ z bÃ³lu prÃ³bujÄ…c masowaÄ‡ swojÄ… nogÄ™.]}
+{205}{}{MÃ³w dalej.}
+{206}{}{PrzejÅ›cie juÅ¼ byÅ‚o na krawÄ™dzi zawalenia. Woda przesiÄ…kaÄ‡ ze strumienia nad nami. Åšmiertelne przejÅ›cie, ale byÄ‡ wielki skrÃ³t na pola. Teraz juÅ¼ nie byÄ‡. Widzisz, my krzyczeÄ‡ jak gÅ‚upcy i strop zawaliÄ‡ siÄ™ na nas.}
 {207}{}{[Dalej.]}
-{208}{}{Biedny Jerem. Ja widzia³em jak wieki kamieñ zmia¿d¿yæ go niczym robaka. Wielkie kamienie mnie nie trafiæ, ale paszcza Gekona tak. W³aœnie kiedy ja ju¿ myœleæ, ja bezpieczny, znik¹d pojawiæ siê gekon i wzi¹æ wielki gryz z nogi. Powali³o mnie na ziemia. Nie mia³em dzidy, myœleæ gekon ma ze mnie jadalnia. Ale duchy mieæ inny plan. Sprowadzi³y ostatni du¿y kamieñ na g³owa gekon. Zmia¿d¿yæ to p³asko. Ale zmia¿d¿yæ te¿ moja noga.}
+{208}{}{Biedny Jerem. Ja widziaÅ‚em jak wieki kamieÅ„ zmiaÅ¼dÅ¼yÄ‡ go niczym robaka. Wielkie kamienie mnie nie trafiÄ‡, ale paszcza Gekona tak. WÅ‚aÅ›nie kiedy ja juÅ¼ myÅ›leÄ‡, ja bezpieczny, znikÄ…d pojawiÄ‡ siÄ™ gekon i wziÄ…Ä‡ wielki gryz z nogi. PowaliÅ‚o mnie na ziemia. Nie miaÅ‚em dzidy, myÅ›leÄ‡ gekon ma ze mnie jadalnia. Ale duchy mieÄ‡ inny plan. SprowadziÅ‚y ostatni duÅ¼y kamieÅ„ na gÅ‚owa gekon. ZmiaÅ¼dÅ¼yÄ‡ to pÅ‚asko. Ale zmiaÅ¼dÅ¼yÄ‡ teÅ¼ moja noga.}
 {209}{}{[Dalej.]}
-{210}{}{W ten sposób ja przybity do ziemia, bez dzida. Nagle, ja s³yszeæ coœ na mnie iœæ z ciemnoœci. Zbli¿y³o siê, a ja zobaczy³em wielkiego wœciek³ego gekona. Spadaj¹ce kamienie tylko, go roz³oœciæ. I wtedy ty siê pojawiæ, kumpel. Zaprawdê, ja byæ twój d³u¿nik.}
-{211}{}{£a³, ale historia. Wygl¹da, ¿e masz du¿o szczêœcia, ¿e ¿yjesz. Jak twoja noga?}
-{212}{}{Nie dobrze, kumpel. Wydaje siê, ¿e kamieñ byæ silniejszy ni¿ moja koœæ nogi. Ja w¹tpiæ, ja prêdko wstaæ i chodziæ.}
-{213}{}{Nie martw siê, jestem wykwalifikowanym lekarzem. Pozwól, ¿e obejrzê twoj¹ nogê i zobaczê co mogê zrobiæ.}
-{214}{}{Nie martw siê, wyniesienie ciê st¹d nie powinno byæ dla mnie problemem. Wtedy szaman bêdzie móg³ obejrzeæ twoj¹ nogê.}
-{215}{}{Powinniœmy sprowadziæ tu profesjonalistê ¿eby to obejrza³. Pójdê szybko i poszukam pomocy. Jaskinia wydaje siê ju¿ pusta, wiêc powinieneœ byæ bezpieczny do mojego powrotu.}
-{216}{}{Hm... chyba nie mam doœæ si³y ¿eby ciê st¹d wynieœæ, ale za³o¿ê siê, ¿e Sulik mo¿e to zrobiæ. [Do Sulika.] Wynieœmy st¹d tego goœcia.}
-{217}{}{Hm... chyba nie mam doœæ si³y ¿eby ciê st¹d wynieœæ, ale za³o¿ê siê, ¿e Marcus mo¿e to zrobiæ. [Do Marcusa.] Wynieœmy st¹d tego goœcia.}
-{218}{}{[Badasz nogê wojownika. Jest paskudnie rozerwana i widaæ koœæ w kilku miejscach. Zrêcznie nastawiasz koœæ, powstrzymujesz krwawienie, usztywniasz nogê i przygotowujesz j¹ do leczenia.]}
-{219}{}{[Po blisko 15 minutach bolesnej pracy noga jest w znacznie lepszym stanie. Wygl¹da na to, ¿e ten cz³owiek znowu bêdzie móg³ chodziæ.]}
-{220}{}{W porz¹dku, to powinno wystarczyæ. Bêdziesz potrzebowa³ kilku dni odpoczynku ¿eby w pe³ni siê zagoi³a. A na razie za bardzo jej nie przesilaj i powinno byæ dobrze.}
-{221}{}{Œwiête duchy ciê prowadziæ, kumpel! Dziêkujê. Ja teraz pokuœtykaæ do szaman. Po trochê dobrych zió³ co ³agodz¹ ból. Kumpel, my zobaczyæ siê znowu w wioska.}
+{210}{}{W ten sposÃ³b ja przybity do ziemia, bez dzida. Nagle, ja sÅ‚yszeÄ‡ coÅ› na mnie iÅ›Ä‡ z ciemnoÅ›ci. ZbliÅ¼yÅ‚o siÄ™, a ja zobaczyÅ‚em wielkiego wÅ›ciekÅ‚ego gekona. SpadajÄ…ce kamienie tylko, go rozÅ‚oÅ›ciÄ‡. I wtedy ty siÄ™ pojawiÄ‡, kumpel. ZaprawdÄ™, ja byÄ‡ twÃ³j dÅ‚uÅ¼nik.}
+{211}{}{ÅaÅ‚, ale historia. WyglÄ…da, Å¼e masz duÅ¼o szczÄ™Å›cia, Å¼e Å¼yjesz. Jak twoja noga?}
+{212}{}{Nie dobrze, kumpel. Wydaje siÄ™, Å¼e kamieÅ„ byÄ‡ silniejszy niÅ¼ moja koÅ›Ä‡ nogi. Ja wÄ…tpiÄ‡, ja prÄ™dko wstaÄ‡ i chodziÄ‡.}
+{213}{}{Nie martw siÄ™, jestem wykwalifikowanym lekarzem. PozwÃ³l, Å¼e obejrzÄ™ twojÄ… nogÄ™ i zobaczÄ™ co mogÄ™ zrobiÄ‡.}
+{214}{}{Nie martw siÄ™, wyniesienie ciÄ™ stÄ…d nie powinno byÄ‡ dla mnie problemem. Wtedy szaman bÄ™dzie mÃ³gÅ‚ obejrzeÄ‡ twojÄ… nogÄ™.}
+{215}{}{PowinniÅ›my sprowadziÄ‡ tu profesjonalistÄ™ Å¼eby to obejrzaÅ‚. PÃ³jdÄ™ szybko i poszukam pomocy. Jaskinia wydaje siÄ™ juÅ¼ pusta, wiÄ™c powinieneÅ› byÄ‡ bezpieczny do mojego powrotu.}
+{216}{}{Hm... chyba nie mam doÅ›Ä‡ siÅ‚y Å¼eby ciÄ™ stÄ…d wynieÅ›Ä‡, ale zaÅ‚oÅ¼Ä™ siÄ™, Å¼e Sulik moÅ¼e to zrobiÄ‡. [Do Sulika.] WynieÅ›my stÄ…d tego goÅ›cia.}
+{217}{}{Hm... chyba nie mam doÅ›Ä‡ siÅ‚y Å¼eby ciÄ™ stÄ…d wynieÅ›Ä‡, ale zaÅ‚oÅ¼Ä™ siÄ™, Å¼e Marcus moÅ¼e to zrobiÄ‡. [Do Marcusa.] WynieÅ›my stÄ…d tego goÅ›cia.}
+{218}{}{[Badasz nogÄ™ wojownika. Jest paskudnie rozerwana i widaÄ‡ koÅ›Ä‡ w kilku miejscach. ZrÄ™cznie nastawiasz koÅ›Ä‡, powstrzymujesz krwawienie, usztywniasz nogÄ™ i przygotowujesz jÄ… do leczenia.]}
+{219}{}{[Po blisko 15 minutach bolesnej pracy noga jest w znacznie lepszym stanie. WyglÄ…da na to, Å¼e ten czÅ‚owiek znowu bÄ™dzie mÃ³gÅ‚ chodziÄ‡.]}
+{220}{}{W porzÄ…dku, to powinno wystarczyÄ‡. BÄ™dziesz potrzebowaÅ‚ kilku dni odpoczynku Å¼eby w peÅ‚ni siÄ™ zagoiÅ‚a. A na razie za bardzo jej nie przesilaj i powinno byÄ‡ dobrze.}
+{221}{}{ÅšwiÄ™te duchy ciÄ™ prowadziÄ‡, kumpel! DziÄ™kujÄ™. Ja teraz pokuÅ›tykaÄ‡ do szaman. Po trochÄ™ dobrych ziÃ³Å‚ co Å‚agodzÄ… bÃ³l. Kumpel, my zobaczyÄ‡ siÄ™ znowu w wioska.}
 {222}{}{[Zrobione.]}
-{300}{}{Dziêkujê, kumpel. My zobaczyæ siê znowu w wioska.}
-{400}{}{Dziêkujê bardzo, kumpel. Prawdziwie, ty b³ogos³awiæ przez duchy.}
+{300}{}{DziÄ™kujÄ™, kumpel. My zobaczyÄ‡ siÄ™ znowu w wioska.}
+{400}{}{DziÄ™kujÄ™ bardzo, kumpel. Prawdziwie, ty bÅ‚ogosÅ‚awiÄ‡ przez duchy.}
 {500}{}{zzzZZzzz...}
 {501}{}{...zzZZZZzz...zzz...}
-{600}{}{Leczysz nogê Serina.}
-{700}{}{Wymaga wiêcej opieki ni¿ mogê zaoferowaæ. Lepiej sobie pójdê.}
-{1000}{}{Dobrze ciê zerkaæ, bohaterze.}
-{1001}{}{Nigdy nie zaponê ile Ci zawdziêczam, bohaterze}
+{600}{}{Leczysz nogÄ™ Serina.}
+{700}{}{Wymaga wiÄ™cej opieki niÅ¼ mogÄ™ zaoferowaÄ‡. Lepiej sobie pÃ³jdÄ™.}
+{1000}{}{Dobrze ciÄ™ zerkaÄ‡, bohaterze.}
+{1001}{}{Nigdy nie zaponÄ™ ile Ci zawdziÄ™czam, bohaterze}

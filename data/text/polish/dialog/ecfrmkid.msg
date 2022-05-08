@@ -1,11 +1,11 @@
 {100}{}{Bla bla! Nie dogonisz mnie!}
-{101}{}{MÛj tato da ci wycisk!}
+{101}{}{M√≥j tato da ci wycisk!}
 {102}{}{A masz.}
-{103}{}{Odejdü!}
+{103}{}{Odejd≈∫!}
 {104}{}{Bla bla!}
-{105}{}{£aaa!}
+{105}{}{≈Åaaa!}
 {106}{}{Mamo!}
 {107}{}{Tatku!}
-{200}{}{Widzisz ma≥e dziecko.}
-{201}{}{To ma≥y ch≥opiec.}
-{202}{}{To ma≥a dziewczynka.}
+{200}{}{Widzisz ma≈Çe dziecko.}
+{201}{}{To ma≈Çy ch≈Çopiec.}
+{202}{}{To ma≈Ça dziewczynka.}

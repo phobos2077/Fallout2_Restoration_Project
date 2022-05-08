@@ -1,4 +1,4 @@
-{100}{}{Widzisz robota-straønika.}
-{101}{}{Widzisz uzbrojonego po zÍby robota-straønika.}
-{102}{}{Jeden taki poradzi sobie pewnie z ca≥ym oddzia≥em.}
+{100}{}{Widzisz robota-stra≈ºnika.}
+{101}{}{Widzisz uzbrojonego po zƒôby robota-stra≈ºnika.}
+{102}{}{Jeden taki poradzi sobie pewnie z ca≈Çym oddzia≈Çem.}
 {103}{}{Robot nie reaguje na twoje zaczepki.}

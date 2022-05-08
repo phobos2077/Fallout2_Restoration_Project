@@ -1,4 +1,4 @@
-{100}{}{Przepraszam moi nie-dwuno¿ni przyjaciele. Bêdziecie musieli tu na mnie poczekaæ.}
-{101}{}{Przepraszam mój nie-dwuno¿ny przyjacielu. Bêdziesz tu musia³ na mnie poczekaæ.}
+{100}{}{Przepraszam moi nie-dwunoÅ¼ni przyjaciele. BÄ™dziecie musieli tu na mnie poczekaÄ‡.}
+{101}{}{Przepraszam mÃ³j nie-dwunoÅ¼ny przyjacielu. BÄ™dziesz tu musiaÅ‚ na mnie poczekaÄ‡.}
 {102}{}{Widzisz szyb nieczynnej windy.}
-{103}{}{Ta winda nie dzia³a. Wk³adaj¹c w to trochê wysi³ku, prawdopodobnie dasz rade zejœæ na dó³.}
+{103}{}{Ta winda nie dziaÅ‚a. WkÅ‚adajÄ…c w to trochÄ™ wysiÅ‚ku, prawdopodobnie dasz rade zejÅ›Ä‡ na dÃ³Å‚.}

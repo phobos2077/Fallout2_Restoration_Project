@@ -1,9 +1,9 @@
 {100}{}{Usted ve un Hubologist de la guardia.}
 {101}{}{Usted ve un individuo armado con una cruel mirada en sus ojos.}
 {110}{}{Ves a un Hubologista.}
-{111}{}{…l est· mirando a los distintos equipos de computaciÛn antes de Èl.}
+{111}{}{√âl est√° mirando a los distintos equipos de computaci√≥n antes de √©l.}
 {200}{}{Somos leales a AHS-9.}
 {201}{}{La Estrella Padre cuida de todos nosotros.}
-{202}{}{Es aburrido aquÌ, pero es nuestro trabajo para ver m·s de las donaciones.}
+{202}{}{Es aburrido aqu√≠, pero es nuestro trabajo para ver m√°s de las donaciones.}
 {203}{}{Saludos amigo.}
 {300}{}{No me meto con nada.}

@@ -1,2 +1,2 @@
-{100}{}{O poÁo n„o funciona h· algum tempo. Precisa ser reparado.}
-{101}{}{O poÁo est· funcionando bem.}
+{100}{}{O po√ßo n√£o funciona h√° algum tempo. Precisa ser reparado.}
+{101}{}{O po√ßo est√° funcionando bem.}

@@ -1,98 +1,98 @@
-{100}{}{¡Oh, Dios! Una maciza muy atractiva.}
+{100}{}{Â¡Oh, Dios! Una maciza muy atractiva.}
 {101}{}{Ves a Miria.}
-{102}{}{No estas segura del porqué, pero las medidas 90-60-90 te vienen a la mente.}
-{150}{}{¡Puta!}
-{151}{}{¡Cómo te atreves a volver por aquí!}
-{152}{}{¡Que asco!}
-{153}{}{Espero que los dos seáis felices juntos.}
+{102}{}{No estas segura del porquÃ©, pero las medidas 90-60-90 te vienen a la mente.}
+{150}{}{Â¡Puta!}
+{151}{}{Â¡CÃ³mo te atreves a volver por aquÃ­!}
+{152}{}{Â¡Que asco!}
+{153}{}{Espero que los dos seÃ¡is felices juntos.}
 {154}{}{Hola, forastera. Soy Miria.}
-{155}{}{Me alegra que hayas vuelto. ¿Qué puedo HACER por ti?}
-{156}{}{¿Qué estás haciendo por aquí?}
-{157}{}{¿Qué puedes contarme sobre el matadero?}
-{158}{}{¿Has oído algún rumor interesante?}
-{159}{}{¡Fuki! ¡Fuki!}
-{160}{}{Si no estuviera tan aburrida, te diría que no. Así que pregunta.}
+{155}{}{Me alegra que hayas vuelto. Â¿QuÃ© puedo HACER por ti?}
+{156}{}{Â¿QuÃ© estÃ¡s haciendo por aquÃ­?}
+{157}{}{Â¿QuÃ© puedes contarme sobre el matadero?}
+{158}{}{Â¿Has oÃ­do algÃºn rumor interesante?}
+{159}{}{Â¡Fuki! Â¡Fuki!}
+{160}{}{Si no estuviera tan aburrida, te dirÃ­a que no. AsÃ­ que pregunta.}
 {164}{}{Corre el rumor de que es Farrel quien ha robado el reloj.}
-{165}{}{¿Por qué robaría Farrel el reloj?}
-{166}{}{¿Pero no es Farrel el mejor amigo de Cornelius?}
-{167}{}{Cuéntame algún otro rumor.}
-{168}{}{Porque la gente pobre suele acabar robando para llegar a fin de mes. Farrel entra claramente en la categoría de pobre y eso explica las nuevas herramientas que compró poco después de que el reloj de Cornelius desapareciera.}
-{170}{}{¿Puedo hacerte más preguntas?}
-{171}{}{Sí, son buenos amigos, esos dos. Qué es por lo que pienso que fue Farrel quien robó el reloj. ¿Quién sino Farrel tendría acceso al reloj de Cornelius?}
-{174}{}{No tengo nada más que contar. Mi familia regenta el matadero. La gente de todos los alrededores llevan sus brahmines aquí para que sean descuartizados. Después de matarlos y tratar la carne, es vendida a los mercaderes que a cambio la venden a los comerciantes de varios pueblos. Todo muy aburrido, si quieres mi opinión.}
-{176}{}{¡Has venido al lugar adecuado! Este pueblo es tan aburrido, que no hay nada que hacer salvo contar chismorreos y... [sigue hablando durante un buen rato hasta que por fin puedes intercalar palabra].}
-{177}{}{¿Qué más quieres saber?}
-{178}{}{¿Qué sabes sobre el reloj perdido de Cornelius?}
-{179}{}{¿Has mencionado algo sobre Rose?}
-{180}{}{¿Qué es eso de un brahmin mutado?}
-{181}{}{Háblame de Davin.}
+{165}{}{Â¿Por quÃ© robarÃ­a Farrel el reloj?}
+{166}{}{Â¿Pero no es Farrel el mejor amigo de Cornelius?}
+{167}{}{CuÃ©ntame algÃºn otro rumor.}
+{168}{}{Porque la gente pobre suele acabar robando para llegar a fin de mes. Farrel entra claramente en la categorÃ­a de pobre y eso explica las nuevas herramientas que comprÃ³ poco despuÃ©s de que el reloj de Cornelius desapareciera.}
+{170}{}{Â¿Puedo hacerte mÃ¡s preguntas?}
+{171}{}{SÃ­, son buenos amigos, esos dos. QuÃ© es por lo que pienso que fue Farrel quien robÃ³ el reloj. Â¿QuiÃ©n sino Farrel tendrÃ­a acceso al reloj de Cornelius?}
+{174}{}{No tengo nada mÃ¡s que contar. Mi familia regenta el matadero. La gente de todos los alrededores llevan sus brahmines aquÃ­ para que sean descuartizados. DespuÃ©s de matarlos y tratar la carne, es vendida a los mercaderes que a cambio la venden a los comerciantes de varios pueblos. Todo muy aburrido, si quieres mi opiniÃ³n.}
+{176}{}{Â¡Has venido al lugar adecuado! Este pueblo es tan aburrido, que no hay nada que hacer salvo contar chismorreos y... [sigue hablando durante un buen rato hasta que por fin puedes intercalar palabra].}
+{177}{}{Â¿QuÃ© mÃ¡s quieres saber?}
+{178}{}{Â¿QuÃ© sabes sobre el reloj perdido de Cornelius?}
+{179}{}{Â¿Has mencionado algo sobre Rose?}
+{180}{}{Â¿QuÃ© es eso de un brahmin mutado?}
+{181}{}{HÃ¡blame de Davin.}
 {182}{}{Hablemos de otra cosa.}
-{183}{}{Ah, Rose. La dueña de la 'Posada Rose'. Ahora bien, y esto no me lo has oído decir a mí, ¿te has preguntado alguna vez por qué su gallinero está tan bien protegido? Ella dice que es para proteger a las gallinas de los depredadores, pero si te fijas atentamente da la impresión de que lo que intenta es, en vez de impedir que algo entre, impedir que algo salga. Además, ¿quién ha oído hablar de gallinas que pongan huevos de doce libras?}
-{184}{}{Háblame de más rumores.}
-{186}{}{Es muy extraño, pero he oído que algunos rancheros dicen que de vez en cuando algún brahmin da a luz a un ternero con una sola cabeza. ¡Que cosa más rara!}
+{183}{}{Ah, Rose. La dueÃ±a de la 'Posada Rose'. Ahora bien, y esto no me lo has oÃ­do decir a mÃ­, Â¿te has preguntado alguna vez por quÃ© su gallinero estÃ¡ tan bien protegido? Ella dice que es para proteger a las gallinas de los depredadores, pero si te fijas atentamente da la impresiÃ³n de que lo que intenta es, en vez de impedir que algo entre, impedir que algo salga. AdemÃ¡s, Â¿quiÃ©n ha oÃ­do hablar de gallinas que pongan huevos de doce libras?}
+{184}{}{HÃ¡blame de mÃ¡s rumores.}
+{186}{}{Es muy extraÃ±o, pero he oÃ­do que algunos rancheros dicen que de vez en cuando algÃºn brahmin da a luz a un ternero con una sola cabeza. Â¡Que cosa mÃ¡s rara!}
 {189}{}{Es de la familia, y yo no voy soltando rumores de mi propia familia.}
-{192}{}{¿Quién, yo? Suelo hacer algunos trabajillos aquí y allá. Desde luego, nada de lo que merezca la pena hablar. [Pestañea y te mira fijamente].}
-{193}{}{De verdad que me gustaría saber más de ti.}
-{194}{}{Tienes razón, basta de charla. ¡Vamos a hacerlo! Sabes que lo estás deseando.}
-{196}{}{Estoy emocionada. Nunca nadie ha intentado conocerme mejor. ¡Todo lo que buscan es sexo, sexo, sexo! Estoy tan cansada de tener sexo salvaje todo el tiempo. Me alegra que no seas como los demás.}
-{197}{}{¡Serás zorra! Por un momento pensé que eras alguien especial.}
-{198}{}{Sabes, sólo soy un tipo normal como cualquier otro. Mis amigos suelen decir "}
-{199}{}{, eres guay porque eres tan normal como cualquier otro tipo". Sí, así de normal soy yo.}
-{200}{}{Bueno, es que nunca había conocido a nadie como tú.}
-{202}{}{¿Querer qué? ¿Qué estás insinuando?}
-{203}{}{Creo que ya sabes de lo que estoy hablando, nena. Sabes que esto es lo que quieres. [Sonríes y comienzas a quitarte la ropa].}
-{204}{}{Olvídalo, lo siento. No quería insinuar nada.}
-{205}{}{¡Como te atreves a llamarme zorra! ¡Déjame decirte que soy muy quisquillosa con la gente con la que me voy a la cama! ¡Y este mes sólo han sido 10 ó 20! ¡Esta conversación ha terminado!}
-{206}{}{Qué decepción. Eres igual que todos los demás, ¿no?}
-{208}{}{No. No lo creo. Estoy cansada de esta conversación. Adiós.}
-{209}{}{[Se sonroja] Para, vas a hacer que me ponga colorada. Eres una ricura. ¿Por qué no te acercas y te sientas aquí conmigo?}
-{210}{}{Creo que esto ha ido demasiado lejos. ¿No podemos simplemente hablar?}
-{211}{}{Pensé que nunca lo ibas a decir. ¿Por qué no nos ponemos un poco más cómodos?}
-{212}{}{¡Sí! Sabes lo que quiero, ¡nena!}
-{213}{}{¡Qué zorra eres!}
-{214}{}{¡No aguanto más! Eres perfecto. [Se arranca la ropa, te arranca la tuya y entonces...]}
-{215}{}{[El mundo nunca volverá a ser igual].}
+{192}{}{Â¿QuiÃ©n, yo? Suelo hacer algunos trabajillos aquÃ­ y allÃ¡. Desde luego, nada de lo que merezca la pena hablar. [PestaÃ±ea y te mira fijamente].}
+{193}{}{De verdad que me gustarÃ­a saber mÃ¡s de ti.}
+{194}{}{Tienes razÃ³n, basta de charla. Â¡Vamos a hacerlo! Sabes que lo estÃ¡s deseando.}
+{196}{}{Estoy emocionada. Nunca nadie ha intentado conocerme mejor. Â¡Todo lo que buscan es sexo, sexo, sexo! Estoy tan cansada de tener sexo salvaje todo el tiempo. Me alegra que no seas como los demÃ¡s.}
+{197}{}{Â¡SerÃ¡s zorra! Por un momento pensÃ© que eras alguien especial.}
+{198}{}{Sabes, sÃ³lo soy un tipo normal como cualquier otro. Mis amigos suelen decir "}
+{199}{}{, eres guay porque eres tan normal como cualquier otro tipo". SÃ­, asÃ­ de normal soy yo.}
+{200}{}{Bueno, es que nunca habÃ­a conocido a nadie como tÃº.}
+{202}{}{Â¿Querer quÃ©? Â¿QuÃ© estÃ¡s insinuando?}
+{203}{}{Creo que ya sabes de lo que estoy hablando, nena. Sabes que esto es lo que quieres. [SonrÃ­es y comienzas a quitarte la ropa].}
+{204}{}{OlvÃ­dalo, lo siento. No querÃ­a insinuar nada.}
+{205}{}{Â¡Como te atreves a llamarme zorra! Â¡DÃ©jame decirte que soy muy quisquillosa con la gente con la que me voy a la cama! Â¡Y este mes sÃ³lo han sido 10 Ã³ 20! Â¡Esta conversaciÃ³n ha terminado!}
+{206}{}{QuÃ© decepciÃ³n. Eres igual que todos los demÃ¡s, Â¿no?}
+{208}{}{No. No lo creo. Estoy cansada de esta conversaciÃ³n. AdiÃ³s.}
+{209}{}{[Se sonroja] Para, vas a hacer que me ponga colorada. Eres una ricura. Â¿Por quÃ© no te acercas y te sientas aquÃ­ conmigo?}
+{210}{}{Creo que esto ha ido demasiado lejos. Â¿No podemos simplemente hablar?}
+{211}{}{PensÃ© que nunca lo ibas a decir. Â¿Por quÃ© no nos ponemos un poco mÃ¡s cÃ³modos?}
+{212}{}{Â¡SÃ­! Sabes lo que quiero, Â¡nena!}
+{213}{}{Â¡QuÃ© zorra eres!}
+{214}{}{Â¡No aguanto mÃ¡s! Eres perfecto. [Se arranca la ropa, te arranca la tuya y entonces...]}
+{215}{}{[El mundo nunca volverÃ¡ a ser igual].}
 {216}{}{Mejor que eso no signifique lo que estoy pensando.}
-{217}{}{¡Aoooga!}
-{218}{}{¿Urg?}
-{219}{}{¡Ajá! Lo que pensaba. Es gracioso como los neanderthales y la gente civilizada pueden llegar a coincidir en este tema. [Ni siquiera lo ves venir, pero estás segura de que la marca del bofetón en tu cara desaparecerá algún día].}
-{250}{}{¡Socorro, papá! ¡Apártalo de mí!}
-{251}{}{¡Vete!}
-{260}{}{¡Socorro, papá! ¡Apártala de mí!}
-{270}{}{¡Socorro! ¡Apártalo de mí!}
-{280}{}{¡Socorro! ¡Apártala de mí!}
-{400}{}{¡Papi!}
-{401}{}{¡Oh oh!}
-{402}{}{¡Sí quiero!}
+{217}{}{Â¡Aoooga!}
+{218}{}{Â¿Urg?}
+{219}{}{Â¡AjÃ¡! Lo que pensaba. Es gracioso como los neanderthales y la gente civilizada pueden llegar a coincidir en este tema. [Ni siquiera lo ves venir, pero estÃ¡s segura de que la marca del bofetÃ³n en tu cara desaparecerÃ¡ algÃºn dÃ­a].}
+{250}{}{Â¡Socorro, papÃ¡! Â¡ApÃ¡rtalo de mÃ­!}
+{251}{}{Â¡Vete!}
+{260}{}{Â¡Socorro, papÃ¡! Â¡ApÃ¡rtala de mÃ­!}
+{270}{}{Â¡Socorro! Â¡ApÃ¡rtalo de mÃ­!}
+{280}{}{Â¡Socorro! Â¡ApÃ¡rtala de mÃ­!}
+{400}{}{Â¡Papi!}
+{401}{}{Â¡Oh oh!}
+{402}{}{Â¡SÃ­ quiero!}
 {410}{}{Uhh...}
-{411}{}{Ehhh... Continúa, por favor...}
-{412}{}{Yo... eh... yo…}
-{413}{}{Um… Sí quiero.}
-{420}{}{¡Tío Biff!}
-{450}{}{Uhhh, es con papi con quien deberías hablar.}
-{470}{}{Uhhh, es con tío Biff con quien deberías hablar.}
-{500}{}{Genial, creo que ahora tendré que ser yo la que lleve este basurero.}
-{1000}{}{¿Qué hacemos ahora, querida?}
-{1001}{}{¿Qué hacemos ahora, cariño?}
-{1002}{}{¿Qué hacemos ahora, tesoro?}
-{1003}{}{¿Qué hacemos ahora, amorcito?}
-{1004}{}{¿Qué hacemos ahora, azucarito?}
-{1005}{}{No, no, no... ¡No me refería a esa clase de distancia! Necesito que te eches un poco para atrás cuando vayamos por ahí.}
-{1006}{}{Tranquilízate, cariño, tan sólo déjame un poco de espacio cuando vayamos por ahí.}
-{1007}{}{Lo intentaré, mi pastelito. Es que es tan difícil tener tiempo para "nosotros" en este Yermo.}
+{411}{}{Ehhh... ContinÃºa, por favor...}
+{412}{}{Yo... eh... yoâ€¦}
+{413}{}{Umâ€¦ SÃ­ quiero.}
+{420}{}{Â¡TÃ­o Biff!}
+{450}{}{Uhhh, es con papi con quien deberÃ­as hablar.}
+{470}{}{Uhhh, es con tÃ­o Biff con quien deberÃ­as hablar.}
+{500}{}{Genial, creo que ahora tendrÃ© que ser yo la que lleve este basurero.}
+{1000}{}{Â¿QuÃ© hacemos ahora, querida?}
+{1001}{}{Â¿QuÃ© hacemos ahora, cariÃ±o?}
+{1002}{}{Â¿QuÃ© hacemos ahora, tesoro?}
+{1003}{}{Â¿QuÃ© hacemos ahora, amorcito?}
+{1004}{}{Â¿QuÃ© hacemos ahora, azucarito?}
+{1005}{}{No, no, no... Â¡No me referÃ­a a esa clase de distancia! Necesito que te eches un poco para atrÃ¡s cuando vayamos por ahÃ­.}
+{1006}{}{TranquilÃ­zate, cariÃ±o, tan sÃ³lo dÃ©jame un poco de espacio cuando vayamos por ahÃ­.}
+{1007}{}{Lo intentarÃ©, mi pastelito. Es que es tan difÃ­cil tener tiempo para "nosotros" en este Yermo.}
 {1008}{}{Lo mio es tuyo.}
-{1009}{}{De acuerdo, bollito, pero ¿tenemos que ir sólo con la armadura?}
-{1010}{}{Los objetos punzantes como los cuchillos me excitan mucho, aunque también puedo usar armas como una ametralladora si no hay más remedio. Pero no esperes que le dé a nada.}
+{1009}{}{De acuerdo, bollito, pero Â¿tenemos que ir sÃ³lo con la armadura?}
+{1010}{}{Los objetos punzantes como los cuchillos me excitan mucho, aunque tambiÃ©n puedo usar armas como una ametralladora si no hay mÃ¡s remedio. Pero no esperes que le dÃ© a nada.}
 {1020}{}{Tenemos que hablar sobre la distancia entre nosotros.}
 {1100}{}{Estoy completamente sana y lista para irnos.}
-{1200}{}{No me queda más que algún rasguño.}
-{1300}{}{Bueno, estoy casi curada pero cuando tengamos la oportunidad me vendría bien algo más de atención médica.}
+{1200}{}{No me queda mÃ¡s que algÃºn rasguÃ±o.}
+{1300}{}{Bueno, estoy casi curada pero cuando tengamos la oportunidad me vendrÃ­a bien algo mÃ¡s de atenciÃ³n mÃ©dica.}
 {1400}{}{Me he curado todo lo que he podido pero sigo bastante malherida.}
-{1500}{}{No, cariño; quiero ir contigo.}
-{1600}{}{Sí, lo dejaré a un lado.}
+{1500}{}{No, cariÃ±o; quiero ir contigo.}
+{1600}{}{SÃ­, lo dejarÃ© a un lado.}
 {1700}{}{}
 {1800}{}{No, no, mi dulcecito. Necesito estar cerca de ti.}
-{1900}{}{Pero entonces no estaría cerca de ti, terroncito.}
-{2000}{}{Creo que me he roto un miembro, amor. Échame un vistazo.}
+{1900}{}{Pero entonces no estarÃ­a cerca de ti, terroncito.}
+{2000}{}{Creo que me he roto un miembro, amor. Ã‰chame un vistazo.}
 {2001}{}{Me siento sofocada, amor. Creo que estoy irradiada.}
-{2002}{}{Estoy muy enferma, cariño. Creo que estoy envenenada.}
+{2002}{}{Estoy muy enferma, cariÃ±o. Creo que estoy envenenada.}

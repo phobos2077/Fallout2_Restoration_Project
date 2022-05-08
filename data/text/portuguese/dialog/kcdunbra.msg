@@ -1,3 +1,3 @@
-{100}{}{Estranho. Estas brahmins não têm as mesmas marcas. Parece que alguém desajeitadamente colocou sua própria
+{100}{}{Estranho. Estas brahmins nÃ£o tÃªm as mesmas marcas. Parece que alguÃ©m desajeitadamente colocou sua prÃ³pria
  marca sobre a que estava antes.}
-{101}{}{Mmmm... moo-moos' Não são marcas de queimaduras. Alguns homens maus colocaram uma nova marca sobre a velha.}
+{101}{}{Mmmm... moo-moos' NÃ£o sÃ£o marcas de queimaduras. Alguns homens maus colocaram uma nova marca sobre a velha.}

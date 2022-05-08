@@ -1,44 +1,44 @@
-{100}{}{Tu vois un homme d'âge moyen, portant une blouse blanche de labo. Il a l'air préoccupé.}
+{100}{}{Tu vois un homme d'Ã¢ge moyen, portant une blouse blanche de labo. Il a l'air prÃ©occupÃ©.}
 {101}{}{Tu vois le Dr Troy.}
-{102}{}{Tu vois un homme d'âge moyen, portant une blouse blanche de labo. Il a l'air préoccupé.}
-{103}{}{Voyons... On a trois piqûres d'inoculation prévues pour demain matin.}
-{104}{}{Je jure que Grégory est hypocondriaque...}
-{105}{}{Il faut encore faire la visite médicale des nouveaux domestiques.}
-{106}{}{Phyllis, tu peux m'apporter les analyses de sang du Proconsul, s'il te plaît ?}
-{107}{}{Bizarre... Ces résultats ne correspondent pas au seuil minimum des plaquettes.}
-{108}{}{On peut peut-être cloner cette rate à partir des cellules prélevées cet après-midi.}
-{109}{}{Faudrait introduire plus de vitamines dans les compléments diététiques...}
+{102}{}{Tu vois un homme d'Ã¢ge moyen, portant une blouse blanche de labo. Il a l'air prÃ©occupÃ©.}
+{103}{}{Voyons... On a trois piqÃ»res d'inoculation prÃ©vues pour demain matin.}
+{104}{}{Je jure que GrÃ©gory est hypocondriaque...}
+{105}{}{Il faut encore faire la visite mÃ©dicale des nouveaux domestiques.}
+{106}{}{Phyllis, tu peux m'apporter les analyses de sang du Proconsul, s'il te plaÃ®t ?}
+{107}{}{Bizarre... Ces rÃ©sultats ne correspondent pas au seuil minimum des plaquettes.}
+{108}{}{On peut peut-Ãªtre cloner cette rate Ã  partir des cellules prÃ©levÃ©es cet aprÃ¨s-midi.}
+{109}{}{Faudrait introduire plus de vitamines dans les complÃ©ments diÃ©tÃ©tiques...}
 {110}{}{Hum.}
-{111}{}{Phyllis, tu peux m'apporter une copie papier du dossier d'Hélène, s'il te plaît ?}
+{111}{}{Phyllis, tu peux m'apporter une copie papier du dossier d'HÃ©lÃ¨ne, s'il te plaÃ®t ?}
 {112}{}{Quand je pense que j'aurais pu prendre ce boulot chez 36.15 Love Line...}
-{113}{}{Ca commence à me courir de faire ces listes pour la Première citoyenne...}
-{114}{}{Encore pour une demande de fournitures médicales ? Je viens d'en envoyer une hier !}
+{113}{}{Ca commence Ã  me courir de faire ces listes pour la PremiÃ¨re citoyenne...}
+{114}{}{Encore pour une demande de fournitures mÃ©dicales ? Je viens d'en envoyer une hier !}
 {115}{}{Un mutant ! Gardes !}
 {116}{}{Une Goule ! Gardes !}
-{117}{}{Bonjour, je suis le Dr Troy. En quoi puis-je t'être utile ?}
+{117}{}{Bonjour, je suis le Dr Troy. En quoi puis-je t'Ãªtre utile ?}
 {118}{}{Moi bobo.}
 {119}{}{Aitr-utiiil ?}
 {120}{}{(Partir)}
-{121}{}{Je cherche l'ordinateur central. Sais-tu où il se trouve ?}
+{121}{}{Je cherche l'ordinateur central. Sais-tu oÃ¹ il se trouve ?}
 {122}{}{Que fais-tu ici ?}
 {123}{}{Rien, je passais, merci.}
-{124}{}{Vous êtes ? Enchanté de vous rencontrer. Si vous avez le temps, on pourrait peut-être comparer nos notes ? Je n'ai pas souvent l'occasion de parler à un autre médecin.}
-{125}{}{Volontiers. J'adorerais apprendre certaines des techniques médicales que vous, les citoyens, utilisez.}
+{124}{}{Vous Ãªtes ? EnchantÃ© de vous rencontrer. Si vous avez le temps, on pourrait peut-Ãªtre comparer nos notes ? Je n'ai pas souvent l'occasion de parler Ã  un autre mÃ©decin.}
+{125}{}{Volontiers. J'adorerais apprendre certaines des techniques mÃ©dicales que vous, les citoyens, utilisez.}
 {126}{}{Pas tout de suite. J'avais encore deux ou trois questions...}
-{127}{}{Peut-être plus tard. Il faut que j'y aille.}
-{128}{}{Excellent ! Bon, d'abord, je te fais visiter. Là, ce sont les systèmes de surveillance...}
+{127}{}{Peut-Ãªtre plus tard. Il faut que j'y aille.}
+{128}{}{Excellent ! Bon, d'abord, je te fais visiter. LÃ , ce sont les systÃ¨mes de surveillance...}
 {129}{}{}
-{130}{}{... et c'est ainsi que nous pouvons cloner des cellules pour créer des organes de rechange. Il faut veiller à ce que les cultures de tissus ne soient pas contaminées, mais... Bon, de toute façon, je crois que j'ai assez parlé... J'espère que ça a été instructif.}
+{130}{}{... et c'est ainsi que nous pouvons cloner des cellules pour crÃ©er des organes de rechange. Il faut veiller Ã  ce que les cultures de tissus ne soient pas contaminÃ©es, mais... Bon, de toute faÃ§on, je crois que j'ai assez parlÃ©... J'espÃ¨re que Ã§a a Ã©tÃ© instructif.}
 {131}{}{Sans aucun doute. Il y a encore quelques questions que je voulais te poser...}
-{132}{}{Merci de la visite, docteur Troy. Ca a été très instructif.}
-{133}{}{L'ordinateur central ? Il est au troisième étage. Descends par l'ascenseur, va tout droit jusqu'à un croisement en T, puis prends la première à gauche. Ca donne directement sur la salle des commandes.}
+{132}{}{Merci de la visite, docteur Troy. Ca a Ã©tÃ© trÃ¨s instructif.}
+{133}{}{L'ordinateur central ? Il est au troisiÃ¨me Ã©tage. Descends par l'ascenseur, va tout droit jusqu'Ã  un croisement en T, puis prends la premiÃ¨re Ã  gauche. Ca donne directement sur la salle des commandes.}
 {134}{}{Que fais-tu ici ?}
 {135}{}{Merci.}
-{136}{}{Je suis le médecin-chef de la Cité de l'Abri. Je m'occupe de tous les citoyens et je fais de mon mieux pour que tout le monde soit en bonne santé.}
-{137}{}{Je cherche l'ordinateur central. Sais-tu où il se trouve ?}
-{138}{}{Je vois. On pourra peut-être discuter plus tard.}
-{139}{}{Une minute... Je ne me souviens pas t'avoir déjà vu. Tu es un citoyen ?}
-{140}{}{Oui. Je n'ai eu mes papiers de citoyenneté que récemment.}
+{136}{}{Je suis le mÃ©decin-chef de la CitÃ© de l'Abri. Je m'occupe de tous les citoyens et je fais de mon mieux pour que tout le monde soit en bonne santÃ©.}
+{137}{}{Je cherche l'ordinateur central. Sais-tu oÃ¹ il se trouve ?}
+{138}{}{Je vois. On pourra peut-Ãªtre discuter plus tard.}
+{139}{}{Une minute... Je ne me souviens pas t'avoir dÃ©jÃ  vu. Tu es un citoyen ?}
+{140}{}{Oui. Je n'ai eu mes papiers de citoyennetÃ© que rÃ©cemment.}
 {141}{}{En fait, je suis }
 {142}{}{. Je suis le Capitaine de la Garde.}
 {143}{}{Euh... oui. Evidemment.}
@@ -46,227 +46,227 @@
 {145}{}{Un vrai plaisir de te rencontrer, }
 {146}{}{. Si jamais tu as besoin de mes services, tu me trouveras ici.}
 {147}{}{Merci. Au revoir.}
-{148}{}{Mais tu n'es pas originaire de la Cité de l'Abri, je me trompe ? Je suis sûr que je me souviendrais de quelqu'un comme toi. D'où es-tu ?}
-{149}{}{Attends un peu... T'es un étranger, n'est-ce pas ? D'où viens-tu ?}
-{150}{}{D'un petit village, à l'Ouest, appelé Arroyo.}
-{151}{}{Qu'est-ce que ça peut faire ?}
+{148}{}{Mais tu n'es pas originaire de la CitÃ© de l'Abri, je me trompe ? Je suis sÃ»r que je me souviendrais de quelqu'un comme toi. D'oÃ¹ es-tu ?}
+{149}{}{Attends un peu... T'es un Ã©tranger, n'est-ce pas ? D'oÃ¹ viens-tu ?}
+{150}{}{D'un petit village, Ã  l'Ouest, appelÃ© Arroyo.}
+{151}{}{Qu'est-ce que Ã§a peut faire ?}
 {152}{}{Ca te regarde pas, *docteur*. Je peux y aller, maintenant, ou tu as encore des questions ?}
-{153}{}{J'aime pas parler de mon passé.}
-{154}{}{Arroyo ? Je crois pas en avoir déjà entendu parler. Désolé d'avoir l'air de fouiner, mais je cherchais juste quelqu'un qui aurait franchi les murs de la Cité... La plupart des citoyens n'ont jamais quitté la Cité.}
+{153}{}{J'aime pas parler de mon passÃ©.}
+{154}{}{Arroyo ? Je crois pas en avoir dÃ©jÃ  entendu parler. DÃ©solÃ© d'avoir l'air de fouiner, mais je cherchais juste quelqu'un qui aurait franchi les murs de la CitÃ©... La plupart des citoyens n'ont jamais quittÃ© la CitÃ©.}
 {155}{}{Tu cherches quelqu'un ? Pourquoi ?}
-{156}{}{C'est *fascinant.* Qu'est-ce que ça a à voir avec moi ?}
-{157}{}{Désolé de fouiner. Je cherchais simplement quelqu'un qui aurait franchi les murs de la Cité de l'Abri... La plupart des citoyens n'ont jamais quitté la Cité.}
+{156}{}{C'est *fascinant.* Qu'est-ce que Ã§a a Ã  voir avec moi ?}
+{157}{}{DÃ©solÃ© de fouiner. Je cherchais simplement quelqu'un qui aurait franchi les murs de la CitÃ© de l'Abri... La plupart des citoyens n'ont jamais quittÃ© la CitÃ©.}
 {158}{}{Tu cherches quelqu'un ? Pourquoi ?}
-{159}{}{C'est *fascinant.* Qu'est-ce que ça a à voir avec moi ?}
-{160}{}{Tu as dû t'égarer dans les rues de la Cité... Regagne le couloir par lequel tu as pénétré ici et tourne à droite. Ca te mènera tout droit à la surface, d'accord ?}
-{161}{}{Merci pour les indications... Parfois, je m'égare un peu ? Je vais remonter à la surface maintenant.}
+{159}{}{C'est *fascinant.* Qu'est-ce que Ã§a a Ã  voir avec moi ?}
+{160}{}{Tu as dÃ» t'Ã©garer dans les rues de la CitÃ©... Regagne le couloir par lequel tu as pÃ©nÃ©trÃ© ici et tourne Ã  droite. Ca te mÃ¨nera tout droit Ã  la surface, d'accord ?}
+{161}{}{Merci pour les indications... Parfois, je m'Ã©gare un peu ? Je vais remonter Ã  la surface maintenant.}
 {162}{}{Je ne crois pas que ce soit encore le moment de partir, *docteur*. D'abord, j'aimerais voir ce que tu as en stock.}
-{163}{}{Je cherche quelqu'un qui pourrait me faire une commission un peu spéciale.}
+{163}{}{Je cherche quelqu'un qui pourrait me faire une commission un peu spÃ©ciale.}
 {164}{}{Qu'y a-t-il ?}
-{165}{}{M'intéresse pas. Merci.}
-{166}{}{Excellent ! Content que tu aies changé d'avis.}
-{167}{}{Je me suis laissé dire qu'il existe un nouveau stimulant dans le désert. Ca s'appelle le *Jet*, je crois. Je suis prêt à payer un millier de dollars pour avoir un échantillon.}
-{168}{}{Du Jet ? J'en ai un échantillon ici.}
-{169}{}{Il se trouve que j'ai un peu de Jet sur moi. Il est à toi pour mille deux cents.}
-{170}{}{J'ai un peu de Jet sur moi... Je m'en sépare pour mille cinq cents.}
-{171}{}{Donc... Tu veux que j'introduise du Jet en contrebande dans la Cité ?}
+{165}{}{M'intÃ©resse pas. Merci.}
+{166}{}{Excellent ! Content que tu aies changÃ© d'avis.}
+{167}{}{Je me suis laissÃ© dire qu'il existe un nouveau stimulant dans le dÃ©sert. Ca s'appelle le *Jet*, je crois. Je suis prÃªt Ã  payer un millier de dollars pour avoir un Ã©chantillon.}
+{168}{}{Du Jet ? J'en ai un Ã©chantillon ici.}
+{169}{}{Il se trouve que j'ai un peu de Jet sur moi. Il est Ã  toi pour mille deux cents.}
+{170}{}{J'ai un peu de Jet sur moi... Je m'en sÃ©pare pour mille cinq cents.}
+{171}{}{Donc... Tu veux que j'introduise du Jet en contrebande dans la CitÃ© ?}
 {172}{}{Que veux tu que je fasse ?}
-{173}{}{M'intéresse pas. Merci.}
+{173}{}{M'intÃ©resse pas. Merci.}
 {174}{}{C'est dommage. Reviens si tu changes d'avis... Je ne manquerai pas de te rembourser pour la peine.}
 {175}{}{J'avais d'autres questions pour toi...}
-{176}{}{Rembourser... Heu... Je préférerais du pognon, merci. Salut.}
-{177}{}{Très bien. Salut.}
-{178}{}{Hum. Etant donné que tu l'as sur toi, ça me paraît un prix plus que raisonnable. Très bien. Voilà ton argent... et merci.}
+{176}{}{Rembourser... Heu... Je prÃ©fÃ©rerais du pognon, merci. Salut.}
+{177}{}{TrÃ¨s bien. Salut.}
+{178}{}{Hum. Etant donnÃ© que tu l'as sur toi, Ã§a me paraÃ®t un prix plus que raisonnable. TrÃ¨s bien. VoilÃ  ton argent... et merci.}
 {179}{}{Il y a quelque chose d'autre que je voulais savoir...}
-{180}{}{Tu sais, je crois pas que ce soit une bonne idée de sniffer cette... saloperie. Crois-moi.}
-{181}{}{Besoin d'aide pour utiliser ce truc ? Je veux dire, je sais comment on peut se faire un super trip : il faut se boucher les narines, vider ses poumons, ensuite inspirer bien profondément et retenir sa respiration pendant à peu près une minute...}
+{180}{}{Tu sais, je crois pas que ce soit une bonne idÃ©e de sniffer cette... saloperie. Crois-moi.}
+{181}{}{Besoin d'aide pour utiliser ce truc ? Je veux dire, je sais comment on peut se faire un super trip : il faut se boucher les narines, vider ses poumons, ensuite inspirer bien profondÃ©ment et retenir sa respiration pendant Ã  peu prÃ¨s une minute...}
 {182}{}{C'est un plaisir de faire des affaires ensemble, docteur. Vas-y mollo avec ce truc.}
 {183}{}{*Merci*. Tu peux partir, maintenant.}
 {184}{}{Avant, il y a autre chose que je voulais te demander...}
-{185}{}{Tu sais, je crois pas que ce soit une bonne idée de sniffer cette... saloperie. Crois-moi.}
-{186}{}{Ca va, j'essaie juste d'être utile. A une prochaine, docteur.}
+{185}{}{Tu sais, je crois pas que ce soit une bonne idÃ©e de sniffer cette... saloperie. Crois-moi.}
+{186}{}{Ca va, j'essaie juste d'Ãªtre utile. A une prochaine, docteur.}
 {187}{}{De quoi parles-tu ?}
 {188}{}{Laisse tomber. Il y a autre chose que je voulais savoir...}
 {189}{}{Ben, ils fabriquent ce truc avec de la merde de Brahmine.}
-{190}{}{C'est des vapeurs de merde de Brahmine qu'il y a dans cette boîte de Jet. C'est dégueu, hein ?}
-{191}{}{C'est des vapeurs de merde de Brahmine qu'il y a dans cette boîte de Jet. C'est dégueu, hein ? Hé, au fait... Je cherche des bloqueurs d'endorphine. Tu sais où je pourrais en trouver ?}
-{192}{}{Eh bien, d'après le petit génie, là, ils font ça à partir de merde de Brahmine.}
-{193}{}{Eh bien, d'après le petit génie, ici présent, ce qu'il y a dans cette boîte de Jet, ce sont des vapeurs de merde de Brahmine. C'est dégueu, hein ?}
-{194}{}{Eh bien, d'après le petit génie, ici présent, ce qu'il y a dans cette boîte de Jet, ce sont des vapeurs de merde de Brahmine. C'est trop, hein ? Hé, au fait... On cherche des bloqueurs d'endorphine. T'aurais pas ça par hasard ?}
-{195}{}{Heu... Hant pis. C'est peut-être préférable de ne pas savoir.}
+{190}{}{C'est des vapeurs de merde de Brahmine qu'il y a dans cette boÃ®te de Jet. C'est dÃ©gueu, hein ?}
+{191}{}{C'est des vapeurs de merde de Brahmine qu'il y a dans cette boÃ®te de Jet. C'est dÃ©gueu, hein ? HÃ©, au fait... Je cherche des bloqueurs d'endorphine. Tu sais oÃ¹ je pourrais en trouver ?}
+{192}{}{Eh bien, d'aprÃ¨s le petit gÃ©nie, lÃ , ils font Ã§a Ã  partir de merde de Brahmine.}
+{193}{}{Eh bien, d'aprÃ¨s le petit gÃ©nie, ici prÃ©sent, ce qu'il y a dans cette boÃ®te de Jet, ce sont des vapeurs de merde de Brahmine. C'est dÃ©gueu, hein ?}
+{194}{}{Eh bien, d'aprÃ¨s le petit gÃ©nie, ici prÃ©sent, ce qu'il y a dans cette boÃ®te de Jet, ce sont des vapeurs de merde de Brahmine. C'est trop, hein ? HÃ©, au fait... On cherche des bloqueurs d'endorphine. T'aurais pas Ã§a par hasard ?}
+{195}{}{Heu... Hant pis. C'est peut-Ãªtre prÃ©fÃ©rable de ne pas savoir.}
 {196}{}{Je crois que... tu dois te tromper.}
-{197}{}{Ben, c'est assez dur à avaler. J'avais encore une ou deux questions...}
+{197}{}{Ben, c'est assez dur Ã  avaler. J'avais encore une ou deux questions...}
 {198}{}{Non, vraiment. Ils font pousser le Jet dans de la merde de Brahmine... Ils l'utilisent comme engrais.}
-{199}{}{Non, vraiment. A l'origine, ils faisaient pousser des hallucinogènes dans de la merde de Brahmine, puis ils ont découvert que les *vapeurs* augmentaient la productivité des ouvriers. Et en fait, on s'est rendu compte que les organismes de Brahmines étaient bourrés d'extraits de cette protéine contaminée d'avant-guerre...}
-{200}{}{C'est sans doute le cas. Franchement, je n'y crois pas moi-même. A plus tard, docteur.}
-{201}{}{Vraiment ? Hum. J'imagine que ces... excréments de Brahmine feraient un très bon engrais. Je n'y avais jamais pensé. Merci, l'ami. Je voulais en savoir plus long sur le procédé de fabrication.}
-{202}{}{Ouais, sauf que c'est de la merde de Brahmine qu'ils utilisent pour faire le Jet, pas des excréments. Salut, doc.}
-{203}{}{Pas de problème. Et pas d'imprudence, hein, compris ?}
-{204}{}{Hé, c'est notre genre ? A plus tard, docteur.}
-{205}{}{C'est... fascinant. Hum. Il faudrait peut-être que je prélève du sang sur la Brahmine qui est dans l'entrée... Merci, camarade. Vraiment, merci beaucoup. Je voulais en savoir plus long sur la fabrication.}
-{206}{}{Pas de problème. Et pas d'imprudence, hein, compris ?}
-{207}{}{Hé, c'est notre genre ? A plus tard, docteur.}
+{199}{}{Non, vraiment. A l'origine, ils faisaient pousser des hallucinogÃ¨nes dans de la merde de Brahmine, puis ils ont dÃ©couvert que les *vapeurs* augmentaient la productivitÃ© des ouvriers. Et en fait, on s'est rendu compte que les organismes de Brahmines Ã©taient bourrÃ©s d'extraits de cette protÃ©ine contaminÃ©e d'avant-guerre...}
+{200}{}{C'est sans doute le cas. Franchement, je n'y crois pas moi-mÃªme. A plus tard, docteur.}
+{201}{}{Vraiment ? Hum. J'imagine que ces... excrÃ©ments de Brahmine feraient un trÃ¨s bon engrais. Je n'y avais jamais pensÃ©. Merci, l'ami. Je voulais en savoir plus long sur le procÃ©dÃ© de fabrication.}
+{202}{}{Ouais, sauf que c'est de la merde de Brahmine qu'ils utilisent pour faire le Jet, pas des excrÃ©ments. Salut, doc.}
+{203}{}{Pas de problÃ¨me. Et pas d'imprudence, hein, compris ?}
+{204}{}{HÃ©, c'est notre genre ? A plus tard, docteur.}
+{205}{}{C'est... fascinant. Hum. Il faudrait peut-Ãªtre que je prÃ©lÃ¨ve du sang sur la Brahmine qui est dans l'entrÃ©e... Merci, camarade. Vraiment, merci beaucoup. Je voulais en savoir plus long sur la fabrication.}
+{206}{}{Pas de problÃ¨me. Et pas d'imprudence, hein, compris ?}
+{207}{}{HÃ©, c'est notre genre ? A plus tard, docteur.}
 {208}{}{Des bloqueurs d'endorphine ? Mais, pour quoi faire ?}
 {209}{}{Je crois qu'on pourrait utiliser les bloqueurs d'endorphine pour neutraliser le Jet, une fois qu'il est dans l'organisme. Mais, je peux pas faire de tests sans bloqueurs d'endorphine.}
 {210}{}{C'est pas grave. Il y a autre chose que je voulais savoir...}
 {211}{}{Rien. Il faut que j'y aille.}
-{212}{}{On n'a pas de bloqueurs d'endorphine ici, mais je peux programmer l'Autodoc pour qu'il en fabrique. Tu veux bien m'expliquer ta théorie ?}
-{213}{}{Voilà, la dépendance chimique au Jet est sans doute la chose la plus difficile à vaincre, alors j'ai pensé que, si on introduisait des bloqueurs d'endorphine dans l'organisme, on pourrait...}
-{215}{}{J'suis... sans voix. C'est la solution la plus géniale que j'aie entendue. J'expérimente des méthodes de guérison de la dépendance au Jet depuis des mois, et je n'y voyais pas de solution.}
+{212}{}{On n'a pas de bloqueurs d'endorphine ici, mais je peux programmer l'Autodoc pour qu'il en fabrique. Tu veux bien m'expliquer ta thÃ©orie ?}
+{213}{}{VoilÃ , la dÃ©pendance chimique au Jet est sans doute la chose la plus difficile Ã  vaincre, alors j'ai pensÃ© que, si on introduisait des bloqueurs d'endorphine dans l'organisme, on pourrait...}
+{215}{}{J'suis... sans voix. C'est la solution la plus gÃ©niale que j'aie entendue. J'expÃ©rimente des mÃ©thodes de guÃ©rison de la dÃ©pendance au Jet depuis des mois, et je n'y voyais pas de solution.}
 {216}{}{Toi aussi, tu travailles sur un antidote ?}
-{217}{}{Oui, c'est pour ça que j'avais besoin d'un échantillon de Jet.}
-{218}{}{Oui... et sans succès.}
-{219}{}{Il faut stopper l'emprise du Jet avant qu'elle ne se répande. Mais... avec les renseignements que tu nous as fournis, on pourrait fabriquer l'antidote dès à présent !}
+{217}{}{Oui, c'est pour Ã§a que j'avais besoin d'un Ã©chantillon de Jet.}
+{218}{}{Oui... et sans succÃ¨s.}
+{219}{}{Il faut stopper l'emprise du Jet avant qu'elle ne se rÃ©pande. Mais... avec les renseignements que tu nous as fournis, on pourrait fabriquer l'antidote dÃ¨s Ã  prÃ©sent !}
 {220}{}{Super ! Merci, docteur.}
-{221}{}{Ce jeune homme, là ? C'est lui qui a fait le Jet ?}
-{222}{}{Je n'irais pas jusqu'à employer le terme *homme*, mais c'est bien lui qui a conçu le Jet. Enfin, c'est ce qu'il dit.}
-{223}{}{Ouais, on dirait pas à le voir comme ça.}
+{221}{}{Ce jeune homme, lÃ  ? C'est lui qui a fait le Jet ?}
+{222}{}{Je n'irais pas jusqu'Ã  employer le terme *homme*, mais c'est bien lui qui a conÃ§u le Jet. Enfin, c'est ce qu'il dit.}
+{223}{}{Ouais, on dirait pas Ã  le voir comme Ã§a.}
 {224}{}{Myron, docteur Troy... Docteur Troy, Myron.}
-{225}{}{Alors, j'ai quelques questions à poser à ce jeune homme...}
-{226}{}{Heu, oui. Mais tu veux peut-être un peu d'aspirine avant de commencer. Je vais attendre là.}
+{225}{}{Alors, j'ai quelques questions Ã  poser Ã  ce jeune homme...}
+{226}{}{Heu, oui. Mais tu veux peut-Ãªtre un peu d'aspirine avant de commencer. Je vais attendre lÃ .}
 {227}{}{Fais comme chez toi.}
 {228}{}{Continue. Appelle-moi si tu as besoin de quelque chose... comme une batte de baseball par exemple.}
-{229}{}{Des vapeurs de Brahmines ? Pas banal comme procédé de fabrication, mais... hum. Il faudrait peut-être que je prélève du sang sur la Brahmine qui est dans l'entrée... Merci du conseil.}
-{230}{}{Pas de problème.}
+{229}{}{Des vapeurs de Brahmines ? Pas banal comme procÃ©dÃ© de fabrication, mais... hum. Il faudrait peut-Ãªtre que je prÃ©lÃ¨ve du sang sur la Brahmine qui est dans l'entrÃ©e... Merci du conseil.}
+{230}{}{Pas de problÃ¨me.}
 {231}{}{Certainement.}
-{232}{}{Tu pourrais peut-être aussi dire à ton voyou de copain qu'il gaspille ses hautes facultés intellectuelles à fabriquer des stimulants. D'autre part, ses manières et son langage laissent PLUS qu'à désirer.}
+{232}{}{Tu pourrais peut-Ãªtre aussi dire Ã  ton voyou de copain qu'il gaspille ses hautes facultÃ©s intellectuelles Ã  fabriquer des stimulants. D'autre part, ses maniÃ¨res et son langage laissent PLUS qu'Ã  dÃ©sirer.}
 {233}{}{Tu m'en diras tant.}
-{234}{}{Allez, toubib, laisse-toi un peu aller. Un peu de stimulant n'a jamais fait de mal à personne. Bon, à part ces SuperStimpaks... et le Buffout... et le Psycho. Bon, en fait, tant pis. Je vais y aller, là.}
-{235}{}{Je passe là-dessus.}
-{236}{}{Oui, je suis décidé à te payer un millier de dollars pour l'échantillon... et ton silence.}
-{237}{}{Justement, j'ai un échantillon de Jet ici.}
+{234}{}{Allez, toubib, laisse-toi un peu aller. Un peu de stimulant n'a jamais fait de mal Ã  personne. Bon, Ã  part ces SuperStimpaks... et le Buffout... et le Psycho. Bon, en fait, tant pis. Je vais y aller, lÃ .}
+{235}{}{Je passe lÃ -dessus.}
+{236}{}{Oui, je suis dÃ©cidÃ© Ã  te payer un millier de dollars pour l'Ã©chantillon... et ton silence.}
+{237}{}{Justement, j'ai un Ã©chantillon de Jet ici.}
 {238}{}{Que veux-tu faire de ce Jet ?}
 {239}{}{Pas mal. Ca marche.}
 {240}{}{Je marche pas.}
-{241}{}{Ca me serait... utile pour mon travail si je pouvais me procurer un échantillon de cette drogue. Je paierai un millier de dollars pour la livraison. Mais il est de la plus haute importance que cette transaction reste confidentielle.}
+{241}{}{Ca me serait... utile pour mon travail si je pouvais me procurer un Ã©chantillon de cette drogue. Je paierai un millier de dollars pour la livraison. Mais il est de la plus haute importance que cette transaction reste confidentielle.}
 {242}{}{Heu... Confidentiel ?}
-{243}{}{Ah vraiment ? Et combien vas-tu me payer pour que je garde le silence ? Je pourrais te dénoncer tout de suite.}
-{244}{}{Justement, j'ai un échantillon de Jet ici.}
+{243}{}{Ah vraiment ? Et combien vas-tu me payer pour que je garde le silence ? Je pourrais te dÃ©noncer tout de suite.}
+{244}{}{Justement, j'ai un Ã©chantillon de Jet ici.}
 {245}{}{Que veux-tu faire de ce Jet ?}
-{246}{}{Pas de problème. Tu peux compter sur moi.}
+{246}{}{Pas de problÃ¨me. Tu peux compter sur moi.}
 {247}{}{Je marche pas.}
-{248}{}{Heu, oui... Confidentiel. En tout cas, il faut que tout ça reste entre nous. Bouche cousue, d'accord.}
-{249}{}{Justement, j'ai un échantillon de Jet ici.}
+{248}{}{Heu, oui... Confidentiel. En tout cas, il faut que tout Ã§a reste entre nous. Bouche cousue, d'accord.}
+{249}{}{Justement, j'ai un Ã©chantillon de Jet ici.}
 {250}{}{Que veux-tu faire de ce Jet ?}
-{251}{}{Qu'est-ce qui va m'empêcher de te dénoncer tout de suite ?}
-{252}{}{Pas de problème. Ca restera *confidentiel* et puis tout ça, là, faut pas en parler.}
+{251}{}{Qu'est-ce qui va m'empÃªcher de te dÃ©noncer tout de suite ?}
+{252}{}{Pas de problÃ¨me. Ca restera *confidentiel* et puis tout Ã§a, lÃ , faut pas en parler.}
 {253}{}{Je marche pas.}
-{254}{}{C'est pas tes oignons. Trouve-moi un échantillon de Jet, apporte-le-moi et je paierai un millier de dollars... et ce prix comprend ton silence.}
-{255}{}{Ben, j'ai justement un échantillon de Jet ici.}
-{256}{}{Qu'est-ce qui va m'empêcher de te dénoncer tout de suite ?}
-{257}{}{Pas de problème. Tu peux compter sur moi.}
+{254}{}{C'est pas tes oignons. Trouve-moi un Ã©chantillon de Jet, apporte-le-moi et je paierai un millier de dollars... et ce prix comprend ton silence.}
+{255}{}{Ben, j'ai justement un Ã©chantillon de Jet ici.}
+{256}{}{Qu'est-ce qui va m'empÃªcher de te dÃ©noncer tout de suite ?}
+{257}{}{Pas de problÃ¨me. Tu peux compter sur moi.}
 {258}{}{Je marche pas.}
 {259}{}{Qu-quoi ?! Quel culot ! Comment *oses*-tu me menacer ?}
-{260}{}{Ouhlà ! Du calme, je faisais que demander. Pas de panique, là.}
-{261}{}{Mais si, et je vais le faire. Tu tiens beaucoup à ta citoyenneté ? La vie dans le désert, ça peut-être plutôt dur pour certains...}
-{262}{}{J'ai été stupide de te faire confiance ! Très bien... Que veux-tu ?}
+{260}{}{OuhlÃ  ! Du calme, je faisais que demander. Pas de panique, lÃ .}
+{261}{}{Mais si, et je vais le faire. Tu tiens beaucoup Ã  ta citoyennetÃ© ? La vie dans le dÃ©sert, Ã§a peut-Ãªtre plutÃ´t dur pour certains...}
+{262}{}{J'ai Ã©tÃ© stupide de te faire confiance ! TrÃ¨s bien... Que veux-tu ?}
 {263}{}{Cinq cents le premier de chaque mois, et cette histoire de came restera entre nous.}
-{264}{}{Mille le premier de chaque mois, et tu gardes ta citoyenneté.}
+{264}{}{Mille le premier de chaque mois, et tu gardes ta citoyennetÃ©.}
 {265}{}{Deux mille le premier de chaque mois, et je tiendrai ma langue.}
 {266}{}{Mais c'est de la folie ?! Je n'ai absolument pas les moyens !}
-{267}{}{Bon, bon, très bien. Disons cinq cents et on n'en parlera pas à la Première citoyenne.}
-{268}{}{Va falloir te DONNER les moyens, ou alors tu iras mendier des miettes dans l'entrée, comme les autres étrangers.}
-{269}{}{Très bien. Voilà le premier versement. J'espère que tu t'étoufferas avec.}
-{270}{}{Ca a été un plaisir, docteur. On va se revoir très bientôt.}
-{271}{}{Tu as intérêt à faire gaffe, ou tu seras le prochain patient de l'Autodoc. T'as pigé ?}
-{272}{}{Il n'y a PAS de quoi plaisanter, tout cela est très sérieux. Je te paierai un millier de dollars pour le Jet, ton silence... et fini, les questions. Tu fais le boulot ou pas ?}
-{273}{}{Bon, qu'est-ce que tu sais ? J'ai un échantillon de Jet ici.}
-{274}{}{Qu'est-ce qui va m'empêcher de te dénoncer tout de suite ?}
-{275}{}{D'accord, je vais faire ça.}
+{267}{}{Bon, bon, trÃ¨s bien. Disons cinq cents et on n'en parlera pas Ã  la PremiÃ¨re citoyenne.}
+{268}{}{Va falloir te DONNER les moyens, ou alors tu iras mendier des miettes dans l'entrÃ©e, comme les autres Ã©trangers.}
+{269}{}{TrÃ¨s bien. VoilÃ  le premier versement. J'espÃ¨re que tu t'Ã©toufferas avec.}
+{270}{}{Ca a Ã©tÃ© un plaisir, docteur. On va se revoir trÃ¨s bientÃ´t.}
+{271}{}{Tu as intÃ©rÃªt Ã  faire gaffe, ou tu seras le prochain patient de l'Autodoc. T'as pigÃ© ?}
+{272}{}{Il n'y a PAS de quoi plaisanter, tout cela est trÃ¨s sÃ©rieux. Je te paierai un millier de dollars pour le Jet, ton silence... et fini, les questions. Tu fais le boulot ou pas ?}
+{273}{}{Bon, qu'est-ce que tu sais ? J'ai un Ã©chantillon de Jet ici.}
+{274}{}{Qu'est-ce qui va m'empÃªcher de te dÃ©noncer tout de suite ?}
+{275}{}{D'accord, je vais faire Ã§a.}
 {276}{}{Je marche pas.}
 {277}{}{Vraiment ?}
-{278}{}{C'est parfait ! Merci... Tu n'as pas idée de l'importance que ça a pour mes travaux. Voilà ton argent, comme promis.}
+{278}{}{C'est parfait ! Merci... Tu n'as pas idÃ©e de l'importance que Ã§a a pour mes travaux. VoilÃ  ton argent, comme promis.}
 {279}{}{Super. Avant de partir, j'ai une ou deux autres questions...}
-{280}{}{Tu sais, je crois pas que ce soit une bonne idée de sniffer cette... saloperie. Crois-moi.}
-{281}{}{Pas de problème. Merci, doc.}
-{282}{}{Bonjour, Capitaine. En quoi puis-je vous être utile ?}
-{283}{}{Bonjour, citoyen. En quoi puis-je t'être utile ?}
+{280}{}{Tu sais, je crois pas que ce soit une bonne idÃ©e de sniffer cette... saloperie. Crois-moi.}
+{281}{}{Pas de problÃ¨me. Merci, doc.}
+{282}{}{Bonjour, Capitaine. En quoi puis-je vous Ãªtre utile ?}
+{283}{}{Bonjour, citoyen. En quoi puis-je t'Ãªtre utile ?}
 {284}{}{Que puis-je faire pour toi ?}
 {285}{}{Oui ?}
 {286}{}{Moi bobo.}
 {287}{}{Aitr-utiiil ?}
 {288}{}{(Partir)}
-{289}{}{J'ai besoin de tes compétences médicales.}
-{290}{}{Tu as dit tout à l'heure que tu étais médecin... Moi-même, je suis un genre de médecin.}
+{289}{}{J'ai besoin de tes compÃ©tences mÃ©dicales.}
+{290}{}{Tu as dit tout Ã  l'heure que tu Ã©tais mÃ©decin... Moi-mÃªme, je suis un genre de mÃ©decin.}
 {291}{}{As-tu des bloqueurs d'endorphine ?}
 {292}{}{J'ai ce Jet que tu voulais.}
 {293}{}{J'accepte le boulot, s'il est toujours libre.}
-{294}{}{Au sujet de ce Jet... Je crois que les autres citoyens aimeraient bien être au courant, aussi.}
-{295}{}{Rien aujourd'hui. Bonne journée, docteur.}
-{296}{}{Certainement. Je regrette... Ca fait un moment que j'ai pas eu à en administrer. Il y a belle lurette que la plupart des citoyens ont reçu les leurs. Un instant, je vais programmer l'Autodoc pour qu'il en fabrique...}
+{294}{}{Au sujet de ce Jet... Je crois que les autres citoyens aimeraient bien Ãªtre au courant, aussi.}
+{295}{}{Rien aujourd'hui. Bonne journÃ©e, docteur.}
+{296}{}{Certainement. Je regrette... Ca fait un moment que j'ai pas eu Ã  en administrer. Il y a belle lurette que la plupart des citoyens ont reÃ§u les leurs. Un instant, je vais programmer l'Autodoc pour qu'il en fabrique...}
 {297}{}{D'accord.}
-{298}{}{Voilà, c'est fini. Ah, un mot encore : ce vaccin n'immunise pas contre le poison et les radiations, mais il augmente la résistance naturelle.}
+{298}{}{VoilÃ , c'est fini. Ah, un mot encore : ce vaccin n'immunise pas contre le poison et les radiations, mais il augmente la rÃ©sistance naturelle.}
 {299}{}{Merci bien. Au fait, j'aurais encore une ou deux questions...}
 {300}{}{Super. Merci, docteur.}
 {301}{}{Oh, c'est toi. Que veux-tu ?}
 {302}{}{J'ai besoin qu'on me soigne.}
 {303}{}{Je me suis fait empoisonner.}
 {304}{}{Je me suis fait irradier.}
-{305}{}{Je viens récupérer mon fric. T'as pigé ?}
-{306}{}{Je suis là pour te rappeler que le premier du mois approche et qu'il vaudrait mieux préparer mon fric.}
+{305}{}{Je viens rÃ©cupÃ©rer mon fric. T'as pigÃ© ?}
+{306}{}{Je suis lÃ  pour te rappeler que le premier du mois approche et qu'il vaudrait mieux prÃ©parer mon fric.}
 {307}{}{Rien... pour aujourd'hui.}
-{308}{}{J'ai pas oublié. Voilà ton argent. Va-t-en.}
+{308}{}{J'ai pas oubliÃ©. VoilÃ  ton argent. Va-t-en.}
 {309}{}{Attends... Il faut aussi me soigner.}
 {310}{}{Attends... J'suis victime d'un empoisonnement. J'ai besoin qu'on me soigne.}
 {311}{}{Attends... J'me suis pris des radiations. J'ai besoin qu'on me soigne.}
-{312}{}{C'est un plaisir de traiter ensemble. A bientôt, toubib.}
-{313}{}{Je n'ai pas oublié. Tu auras ton argent. Va-t-en.}
+{312}{}{C'est un plaisir de traiter ensemble. A bientÃ´t, toubib.}
+{313}{}{Je n'ai pas oubliÃ©. Tu auras ton argent. Va-t-en.}
 {314}{}{Attends... Il faut aussi me soigner.}
 {315}{}{Attends... J'suis victime d'un empoisonnement. J'ai besoin qu'on me soigne.}
 {316}{}{Attends... J'me suis pris des radiations. J'ai besoin qu'on me soigne.}
-{317}{}{C'est tout ce que je voulais. A bientôt, toubib.}
-{318}{}{Je vois. D'abord, il faut que je contrôle tes signes vitaux... Penche-toi en arrière, on va te raccorder à l'Autodoc, là...}
-{320}{}{Hum. On dirait qu'il y a eu un petit problème de priorité des opérateurs pendant la procédure de démarrage, et l'Autodoc t'a accidentellement injecté du tri-éthalène de sodium.}
-{321}{}{Quoi ? Qu'est-ce que ça veut dire ?}
-{322}{}{Ca signifie qu'il te reste moins de dix secondes à vivre. Tu es d'une stupidité consternante ! Tu fais chanter quelqu'un, et puis tu mets ta vie entre ses mains ? C'est invraisemblable. Salut... et bon débarras.}
-{323}{}{Maintenant, il faut que je recharge ! Ce truc est merdique ! Je t'aurai à la prochaine partie.}
-{324}{}{Et le serment d'Hippocrate ?! Hé, je...}
+{317}{}{C'est tout ce que je voulais. A bientÃ´t, toubib.}
+{318}{}{Je vois. D'abord, il faut que je contrÃ´le tes signes vitaux... Penche-toi en arriÃ¨re, on va te raccorder Ã  l'Autodoc, lÃ ...}
+{320}{}{Hum. On dirait qu'il y a eu un petit problÃ¨me de prioritÃ© des opÃ©rateurs pendant la procÃ©dure de dÃ©marrage, et l'Autodoc t'a accidentellement injectÃ© du tri-Ã©thalÃ¨ne de sodium.}
+{321}{}{Quoi ? Qu'est-ce que Ã§a veut dire ?}
+{322}{}{Ca signifie qu'il te reste moins de dix secondes Ã  vivre. Tu es d'une stupiditÃ© consternante ! Tu fais chanter quelqu'un, et puis tu mets ta vie entre ses mains ? C'est invraisemblable. Salut... et bon dÃ©barras.}
+{323}{}{Maintenant, il faut que je recharge ! Ce truc est merdique ! Je t'aurai Ã  la prochaine partie.}
+{324}{}{Et le serment d'Hippocrate ?! HÃ©, je...}
 {325}{}{Je reviendrai te hanter. Je le jure !}
-{326}{}{Comment as-tu pu arriver jusqu'ici ? J'ai bien peur que tu ne puisses pas rester. Attends un peu, je vais demander à des gardes de t'escorter.}
+{326}{}{Comment as-tu pu arriver jusqu'ici ? J'ai bien peur que tu ne puisses pas rester. Attends un peu, je vais demander Ã  des gardes de t'escorter.}
 {327}{}{MOI PAS PARTIR !}
-{328}{}{Reste là un petit moment.}
-{329}{}{J'ai de bonnes nouvelles. J'ai réussi à faire un antidote à partir de l'échantillon de Jet que tu m'as donné.}
-{330}{}{Bonnes nouvelles... J'ai réussi à utiliser les renseignements que tu m'as donnés pour faire un antidote.}
-{331}{}{Une fois qu'on le prend, il annule les symptômes de besoin dus au Jet, et en plus... il supprime l'euphorie provoquée par le stimulant.}
-{332}{}{Génial. Puis-je en avoir ?}
-{333}{}{Puis-je en avoir un échantillon ? Je crois que ça aiderait les gens de Redding.}
-{334}{}{Bien sûr. En voilà un. Apporte-le à l'un de mes collègues de Redding, le docteur Johnson. Il pourra veiller à ce que ça aille à ceux qui en ont besoin.}
-{335}{}{Bien sûr. Je crois savoir que le Jet pose un grave problème à Redding. Si tu apportes l'antidote au médecin de là-bas, le docteur Johnson, il pourra veiller à ce que ceux qui en ont besoin en reçoivent.}
-{336}{}{Génial ! Je vais le mettre en lieu sûr. J'avais deux ou trois questions...}
+{328}{}{Reste lÃ  un petit moment.}
+{329}{}{J'ai de bonnes nouvelles. J'ai rÃ©ussi Ã  faire un antidote Ã  partir de l'Ã©chantillon de Jet que tu m'as donnÃ©.}
+{330}{}{Bonnes nouvelles... J'ai rÃ©ussi Ã  utiliser les renseignements que tu m'as donnÃ©s pour faire un antidote.}
+{331}{}{Une fois qu'on le prend, il annule les symptÃ´mes de besoin dus au Jet, et en plus... il supprime l'euphorie provoquÃ©e par le stimulant.}
+{332}{}{GÃ©nial. Puis-je en avoir ?}
+{333}{}{Puis-je en avoir un Ã©chantillon ? Je crois que Ã§a aiderait les gens de Redding.}
+{334}{}{Bien sÃ»r. En voilÃ  un. Apporte-le Ã  l'un de mes collÃ¨gues de Redding, le docteur Johnson. Il pourra veiller Ã  ce que Ã§a aille Ã  ceux qui en ont besoin.}
+{335}{}{Bien sÃ»r. Je crois savoir que le Jet pose un grave problÃ¨me Ã  Redding. Si tu apportes l'antidote au mÃ©decin de lÃ -bas, le docteur Johnson, il pourra veiller Ã  ce que ceux qui en ont besoin en reÃ§oivent.}
+{336}{}{GÃ©nial ! Je vais le mettre en lieu sÃ»r. J'avais deux ou trois questions...}
 {337}{}{Merci pour l'antidote.}
-{338}{}{Parfait ! Reviens ici quand tu auras l'échantillon de Jet et ton règlement sera prêt.}
+{338}{}{Parfait ! Reviens ici quand tu auras l'Ã©chantillon de Jet et ton rÃ¨glement sera prÃªt.}
 {339}{}{Ca marche. Mais dis-moi...}
 {340}{}{Je reviens avec le Jet.}
-{341}{}{Oui, je connais ça. C'est un processus intrusif par lequel on greffe des plaques d'impact et des membranes de dissipation thermique sur le squelette pour le protéger contre les chocs et la chaleur. Pourquoi ?}
-{342}{}{Oui, tu as déjà mentionné ces implants. Je ne vais pas pratiquer l'opération, je regrette. La procédure est irréversible, et les implants font plus de mal que de bien.}
-{343}{}{J'ai vu ça dans la base de données médicales de la Cité de l'Abri. Serait-il possible de m'opérer ?}
-{344}{}{Tu pourrais m'opérer ? Je ne peux pas le faire moi-même.}
-{345}{}{Très bien. J'avais autre chose à te demander...}
-{346}{}{Ok. Je vérifiais juste.}
-{347}{}{Ok. Je peux peut-être trouver quelqu'un d'autre pour l'opération.}
-{348}{}{Non, je regrette... Comme je l'ai dit, ces implants sont un processus intrusif et la période de récupération est longue et difficile. Les patients qui l'ont subie par le passé ont souvent développé des malformations osseuses.}
-{349}{}{J'accepte de prendre le risque. Tu peux le faire, quand même ?}
-{350}{}{Je n'envisage de pratiquer cette opération que dans les cas d'urgence et non pour des raisons de confort. Le risque est trop grand, et les implants n'apportent pas d'amélioration substantielle par rapport à l'armure de combat standard.}
+{341}{}{Oui, je connais Ã§a. C'est un processus intrusif par lequel on greffe des plaques d'impact et des membranes de dissipation thermique sur le squelette pour le protÃ©ger contre les chocs et la chaleur. Pourquoi ?}
+{342}{}{Oui, tu as dÃ©jÃ  mentionnÃ© ces implants. Je ne vais pas pratiquer l'opÃ©ration, je regrette. La procÃ©dure est irrÃ©versible, et les implants font plus de mal que de bien.}
+{343}{}{J'ai vu Ã§a dans la base de donnÃ©es mÃ©dicales de la CitÃ© de l'Abri. Serait-il possible de m'opÃ©rer ?}
+{344}{}{Tu pourrais m'opÃ©rer ? Je ne peux pas le faire moi-mÃªme.}
+{345}{}{TrÃ¨s bien. J'avais autre chose Ã  te demander...}
+{346}{}{Ok. Je vÃ©rifiais juste.}
+{347}{}{Ok. Je peux peut-Ãªtre trouver quelqu'un d'autre pour l'opÃ©ration.}
+{348}{}{Non, je regrette... Comme je l'ai dit, ces implants sont un processus intrusif et la pÃ©riode de rÃ©cupÃ©ration est longue et difficile. Les patients qui l'ont subie par le passÃ© ont souvent dÃ©veloppÃ© des malformations osseuses.}
+{349}{}{J'accepte de prendre le risque. Tu peux le faire, quand mÃªme ?}
+{350}{}{Je n'envisage de pratiquer cette opÃ©ration que dans les cas d'urgence et non pour des raisons de confort. Le risque est trop grand, et les implants n'apportent pas d'amÃ©lioration substantielle par rapport Ã  l'armure de combat standard.}
 {351}{}{Hum. D'accord, j'avais deux ou trois autres questions...}
-{352}{}{Bon, merci quand même.}
-{353}{}{Bon, merci quand même. Je trouverai peut-être quelqu'un d'autre pour faire cette opération.}
-{354}{}{Je regrette. Les installations sont réservées aux citoyens et il y a une liste de tous les patients dans la base de données...[Baissant la voix :] Cela dit, les Stimpaks qui sont dans les casiers du bas ne nous manqueront pas si tu en fais bon usage.}
+{352}{}{Bon, merci quand mÃªme.}
+{353}{}{Bon, merci quand mÃªme. Je trouverai peut-Ãªtre quelqu'un d'autre pour faire cette opÃ©ration.}
+{354}{}{Je regrette. Les installations sont rÃ©servÃ©es aux citoyens et il y a une liste de tous les patients dans la base de donnÃ©es...[Baissant la voix :] Cela dit, les Stimpaks qui sont dans les casiers du bas ne nous manqueront pas si tu en fais bon usage.}
 {355}{}{Hum. D'accord, j'avais deux ou trois autres questions...}
 {356}{}{Merci. Je vais les chercher.}
-{357}{}{Bien sûr, Capitaine. Voyons ce que je peux faire pour vous et vos amis.}
-{358}{}{Bien sûr, capitaine. Voyons ce que je peux faire pour vous et votre ami.}
-{359}{}{Il faut juste que je vérifie tes signes vitaux... Penche-toi et on va te raccorder à l'Autodoc là...}
-{361}{}{Oh là, ton ami mutant avait le corps truffé de balles et d'éclats d'obus. C'est un miracle qu'il n'ait pas eu un empoisonnement au plomb. J'ai réussi à tout lui retirer. Voilà, tout est là.}
-{362}{}{Ca devrait résoudre le problème. Dites-moi si vous avez besoin d'autre chose.}
+{357}{}{Bien sÃ»r, Capitaine. Voyons ce que je peux faire pour vous et vos amis.}
+{358}{}{Bien sÃ»r, capitaine. Voyons ce que je peux faire pour vous et votre ami.}
+{359}{}{Il faut juste que je vÃ©rifie tes signes vitaux... Penche-toi et on va te raccorder Ã  l'Autodoc lÃ ...}
+{361}{}{Oh lÃ , ton ami mutant avait le corps truffÃ© de balles et d'Ã©clats d'obus. C'est un miracle qu'il n'ait pas eu un empoisonnement au plomb. J'ai rÃ©ussi Ã  tout lui retirer. VoilÃ , tout est lÃ .}
+{362}{}{Ca devrait rÃ©soudre le problÃ¨me. Dites-moi si vous avez besoin d'autre chose.}
 {363}{}{Il faut aussi me soigner.}
-{364}{}{Il me faudrait de l'aide, j'ai reçu des radiations.}
-{365}{}{J'ai été victime d'un empoisonnement. Peux-tu m'aider ?}
+{364}{}{Il me faudrait de l'aide, j'ai reÃ§u des radiations.}
+{365}{}{J'ai Ã©tÃ© victime d'un empoisonnement. Peux-tu m'aider ?}
 {366}{}{Merci, docteur. Dites, vous connaissez quelque chose aux implants dermiques ?}
-{367}{}{Mes remerciements les plus sincères, docteur. J'aurais voulu savoir une ou deux choses...}
-{368}{}{Je vais sûrement revenir. Merci, docteur.}
-{369}{}{Bien sûr, citoyen. Quel est donc le problème ?}
-{370}{}{Bien sûr, capitaine. Quel est donc le problème ?}
-{371}{}{Bien sûr. Quel est donc le problème ?}
+{367}{}{Mes remerciements les plus sincÃ¨res, docteur. J'aurais voulu savoir une ou deux choses...}
+{368}{}{Je vais sÃ»rement revenir. Merci, docteur.}
+{369}{}{Bien sÃ»r, citoyen. Quel est donc le problÃ¨me ?}
+{370}{}{Bien sÃ»r, capitaine. Quel est donc le problÃ¨me ?}
+{371}{}{Bien sÃ»r. Quel est donc le problÃ¨me ?}
 {372}{}{J'ai besoin qu'on me soigne.}
 {373}{}{Je me suis fait irradier.}
 {374}{}{Je me suis fait empoisonner.}
@@ -275,20 +275,20 @@
 {377}{}{Vous connaissez quelque chose aux implants dermiques ?}
 {378}{}{Laisse tomber. J'avais une ou deux autres questions...}
 {379}{}{Rien. Merci, docteur.}
-{380}{}{Très bien. Il faut juste que je vérifie tes signes vitaux... Penche-toi et on va te raccorder à l'Autodoc là...}
+{380}{}{TrÃ¨s bien. Il faut juste que je vÃ©rifie tes signes vitaux... Penche-toi et on va te raccorder Ã  l'Autodoc lÃ ...}
 {382}{}{Ca devrait te remettre sur pieds. Comment te sens-tu ?}
 {383}{}{Parfait. C'est possible de soigner mon ami, aussi ?}
 {384}{}{Parfait. C'est possible de soigner mes amis, aussi ?}
 {385}{}{Vous connaissez quelque chose aux implants dermiques ?}
 {386}{}{Bien mieux, merci. J'avais encore une ou deux questions...}
 {387}{}{Super. Merci, docteur.}
-{388}{}{Très bien. Il faut juste que je vérifie tes signes vitaux... Penche-toi et on va te raccorder à l'Autodoc là...}
+{388}{}{TrÃ¨s bien. Il faut juste que je vÃ©rifie tes signes vitaux... Penche-toi et on va te raccorder Ã  l'Autodoc lÃ ...}
 {390}{}{Ca devrait te remettre sur pieds. Comment te sens-tu ?}
-{391}{}{Bien mieux, merci. Dites, avant que je me fasse encore empoisonner ou irradier, pendant la visite, vous avez parlé d'un vaccin qui permet de résister aux poisons et aux radiations. Je pourrais l'avoir ?}
+{391}{}{Bien mieux, merci. Dites, avant que je me fasse encore empoisonner ou irradier, pendant la visite, vous avez parlÃ© d'un vaccin qui permet de rÃ©sister aux poisons et aux radiations. Je pourrais l'avoir ?}
 {392}{}{Parfait. C'est possible de soigner mon ami, aussi ?}
 {393}{}{Parfait. C'est possible de soigner mes amis, aussi ?}
 {394}{}{Vous connaissez quelque chose aux implants dermiques ?}
-{395}{}{Bien mieux. J'avais quelques questions à vous poser...}
+{395}{}{Bien mieux. J'avais quelques questions Ã  vous poser...}
 {396}{}{Super. Merci, docteur.}
 {397}{}{Gardes !}
 {398}{}{Zzzzzzz.}

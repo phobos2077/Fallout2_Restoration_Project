@@ -1,103 +1,103 @@
-{100}{}{Widzisz æpuna.}
-{101}{}{Ta osoba jest powa¿nie naæpana.}
-{102}{}{Goœæ chyba nieŸle siê naæpa³.}
-{103}{}{Babka chyba nieŸle siê naæpa³a.}
-{104}{}{Ten facet nie wygl¹da najlepiej. Chyba jest na g³odzie.}
-{105}{}{Ta kobieta nie wygl¹da najlepiej. Chyba jest na g³odzie.}
-{106}{}{Ten æpun wygl¹da jak ¿ywy trup.}
-{107}{}{Ten æpun wygl¹da jakby przed chwil¹ zwymiotowa³.}
-{150}{}{Œwiat³a! One chc¹ mnie skrzywdziæ!}
-{151}{}{Potwory! Potwory s¹ wszêdzie!}
+{100}{}{Widzisz Ä‡puna.}
+{101}{}{Ta osoba jest powaÅ¼nie naÄ‡pana.}
+{102}{}{GoÅ›Ä‡ chyba nieÅºle siÄ™ naÄ‡paÅ‚.}
+{103}{}{Babka chyba nieÅºle siÄ™ naÄ‡paÅ‚a.}
+{104}{}{Ten facet nie wyglÄ…da najlepiej. Chyba jest na gÅ‚odzie.}
+{105}{}{Ta kobieta nie wyglÄ…da najlepiej. Chyba jest na gÅ‚odzie.}
+{106}{}{Ten Ä‡pun wyglÄ…da jak Å¼ywy trup.}
+{107}{}{Ten Ä‡pun wyglÄ…da jakby przed chwilÄ… zwymiotowaÅ‚.}
+{150}{}{ÅšwiatÅ‚a! One chcÄ… mnie skrzywdziÄ‡!}
+{151}{}{Potwory! Potwory sÄ… wszÄ™dzie!}
 {152}{}{Jakie to dziwne!}
-{153}{}{Czy ja krwawiê?}
+{153}{}{Czy ja krwawiÄ™?}
 {154}{}{Szabli, kurwa, szabli!}
-{155}{}{Przestañ, stary!}
-{156}{}{Czy nikt mi nie pomo¿e?}
+{155}{}{PrzestaÅ„, stary!}
+{156}{}{Czy nikt mi nie pomoÅ¼e?}
 {157}{}{Pomocy!}
-{158}{}{Uciekaæ!}
-{159}{}{Moja g³owa i tak bardzo boli!}
+{158}{}{UciekaÄ‡!}
+{159}{}{Moja gÅ‚owa i tak bardzo boli!}
 {160}{}{Zostaw mnie w spokoju.}
-{200}{}{Rany, ale fajnie œwiecisz.}
-{201}{}{Ojej, jaki du¿y piesek.}
-{202}{}{Nie mów im, ¿e my wiemy, ¿e ich nie ma.}
+{200}{}{Rany, ale fajnie Å›wiecisz.}
+{201}{}{Ojej, jaki duÅ¼y piesek.}
+{202}{}{Nie mÃ³w im, Å¼e my wiemy, Å¼e ich nie ma.}
 {203}{}{Aaach...}
-{204}{}{Naprawdê mnie widzisz?}
-{205}{}{B¹dŸ ba³dzo, ba³dzo cicho. Polujê na k³ólika.}
-{206}{}{Jak uda³o ci siê wleŸæ tak wysoko?}
-{207}{}{Ciii. Ja siê ukrywam.}
-{208}{}{Biegam szybciej ni¿ stado wilków!}
-{209}{}{Czujê siê bosko!}
-{210}{}{Czujê jak energia kr¹¿y w moich ¿y³ach...}
+{204}{}{NaprawdÄ™ mnie widzisz?}
+{205}{}{BÄ…dÅº baÅ‚dzo, baÅ‚dzo cicho. PolujÄ™ na kÅ‚Ã³lika.}
+{206}{}{Jak udaÅ‚o ci siÄ™ wleÅºÄ‡ tak wysoko?}
+{207}{}{Ciii. Ja siÄ™ ukrywam.}
+{208}{}{Biegam szybciej niÅ¼ stado wilkÃ³w!}
+{209}{}{CzujÄ™ siÄ™ bosko!}
+{210}{}{CzujÄ™ jak energia krÄ…Å¼y w moich Å¼yÅ‚ach...}
 {211}{}{Widzisz to, widzisz?!}
-{212}{}{Ooooch, czujesz tê potêgê?}
-{213}{}{Jej, ale jasno œwiecisz...}
-{214}{}{Kocham ciê! Kocham!}
-{215}{}{Moje ¿ycie jest takie cudowne. A twoje?}
-{216}{}{Te najstraszniejsze przychodz¹ noc¹.}
-{217}{}{Przywitaj siê z moim ma³ym przyjacielem.}
-{218}{}{Ch³opie, ale jestem œpi¹cy...}
-{219}{}{Gdzie jest mój piesek?}
-{220}{}{Ciii, s¹ tu¿ za tob¹...}
+{212}{}{Ooooch, czujesz tÄ™ potÄ™gÄ™?}
+{213}{}{Jej, ale jasno Å›wiecisz...}
+{214}{}{Kocham ciÄ™! Kocham!}
+{215}{}{Moje Å¼ycie jest takie cudowne. A twoje?}
+{216}{}{Te najstraszniejsze przychodzÄ… nocÄ….}
+{217}{}{Przywitaj siÄ™ z moim maÅ‚ym przyjacielem.}
+{218}{}{ChÅ‚opie, ale jestem Å›piÄ…cy...}
+{219}{}{Gdzie jest mÃ³j piesek?}
+{220}{}{Ciii, sÄ… tuÅ¼ za tobÄ…...}
 {221}{}{Moje!}
-{222}{}{Auuu! Moja g³owa!}
+{222}{}{Auuu! Moja gÅ‚owa!}
 {223}{}{Wszystko mnie boli.}
-{224}{}{Zaczyna mn¹ telepaæ.}
-{225}{}{Potrzebujê wiêcej.}
-{226}{}{Potrzebujê nastêpnej dzia³ki.}
-{227}{}{Ju¿ nie mogê, zaraz zwariujê.}
-{228}{}{Chcesz mi zabraæ towar?!}
+{224}{}{Zaczyna mnÄ… telepaÄ‡.}
+{225}{}{PotrzebujÄ™ wiÄ™cej.}
+{226}{}{PotrzebujÄ™ nastÄ™pnej dziaÅ‚ki.}
+{227}{}{JuÅ¼ nie mogÄ™, zaraz zwariujÄ™.}
+{228}{}{Chcesz mi zabraÄ‡ towar?!}
 {229}{}{Zostaw mnie w spokoju.}
-{230}{}{NieŸle mnie przycisnê³o, stary.}
-{231}{}{Jak ja tego nienawidzê.}
-{232}{}{Chcê umrzeæ...}
-{233}{}{Potrzebujê trochê towaru... szybko.}
-{234}{}{Ju¿ d³u¿ej nie wytrzymam.}
-{235}{}{Chyba mam gor¹czkê.}
-{236}{}{Chyba siê porzygam.}
-{237}{}{Mo¿e jeœli po prostu siê przeœpiê...}
-{238}{}{Mam straszne dreszcze, proszê pani.}
+{230}{}{NieÅºle mnie przycisnÄ™Å‚o, stary.}
+{231}{}{Jak ja tego nienawidzÄ™.}
+{232}{}{ChcÄ™ umrzeÄ‡...}
+{233}{}{PotrzebujÄ™ trochÄ™ towaru... szybko.}
+{234}{}{JuÅ¼ dÅ‚uÅ¼ej nie wytrzymam.}
+{235}{}{Chyba mam gorÄ…czkÄ™.}
+{236}{}{Chyba siÄ™ porzygam.}
+{237}{}{MoÅ¼e jeÅ›li po prostu siÄ™ przeÅ›piÄ™...}
+{238}{}{Mam straszne dreszcze, proszÄ™ pani.}
 {300}{}{Czy to krew?}
-{301}{}{Rany! Czy to krew? Bo ja nic nie czujê!}
-{302}{}{Nie ³askocz.}
-{303}{}{Kto to zrobi³?}
-{304}{}{Co siê tu dzieje?}
-{305}{}{Krwawiê... Chyba.}
-{306}{}{Auuu! Co za ból.}
-{307}{}{Potrzebujê dzia³ki.}
-{308}{}{Pozwól mi umrzeæ.}
+{301}{}{Rany! Czy to krew? Bo ja nic nie czujÄ™!}
+{302}{}{Nie Å‚askocz.}
+{303}{}{Kto to zrobiÅ‚?}
+{304}{}{Co siÄ™ tu dzieje?}
+{305}{}{KrwawiÄ™... Chyba.}
+{306}{}{Auuu! Co za bÃ³l.}
+{307}{}{PotrzebujÄ™ dziaÅ‚ki.}
+{308}{}{PozwÃ³l mi umrzeÄ‡.}
 {350}{}{Aaach...}
 {351}{}{Ja latam...}
-{352}{}{Czujê moc!}
-{353}{}{Dzieñ dobry, Panie Kwiatuszku.}
-{354}{}{Jakie œliczne kolorki...}
-{355}{}{Bardziej wiêcej przyjaciele widz¹cy w niebie?}
-{356}{}{Oni nie s³uchaj¹...}
+{352}{}{CzujÄ™ moc!}
+{353}{}{DzieÅ„ dobry, Panie Kwiatuszku.}
+{354}{}{Jakie Å›liczne kolorki...}
+{355}{}{Bardziej wiÄ™cej przyjaciele widzÄ…cy w niebie?}
+{356}{}{Oni nie sÅ‚uchajÄ…...}
 {357}{}{Do widzenia?}
 {358}{}{O, tam jest!}
-{359}{}{Nieee!!! Stój! Czekaj! Dobra, mo¿esz iœæ.}
+{359}{}{Nieee!!! StÃ³j! Czekaj! Dobra, moÅ¼esz iÅ›Ä‡.}
 {360}{}{Tam! Tam! Aaa...}
 {361}{}{Ooo taaak, skarbie!}
-{362}{}{Co to by³o?}
-{363}{}{Sasza? Gdzie jesteœ Sasza?}
-{364}{}{Kolory... bledn¹!}
+{362}{}{Co to byÅ‚o?}
+{363}{}{Sasza? Gdzie jesteÅ› Sasza?}
+{364}{}{Kolory... blednÄ…!}
 {365}{}{Mama?}
 {366}{}{Hej! Zostaw mnie w spokoju! Och...}
-{367}{}{Nie rób tak!}
-{368}{}{Ja nic nie widzê... znowu.}
-{369}{}{Potrzebujê...}
-{370}{}{Chcê wiêcej...}
+{367}{}{Nie rÃ³b tak!}
+{368}{}{Ja nic nie widzÄ™... znowu.}
+{369}{}{PotrzebujÄ™...}
+{370}{}{ChcÄ™ wiÄ™cej...}
 {371}{}{Tam?! Nie...}
 {372}{}{Nie. Nie wiem gdzie to jest.}
-{373}{}{Ka¿ mu przestaæ!}
+{373}{}{KaÅ¼ mu przestaÄ‡!}
 {374}{}{Ug.}
-{375}{}{Auuu! Co za ból.}
+{375}{}{Auuu! Co za bÃ³l.}
 {376}{}{<kaszle>}
-{377}{}{Oooch, moja g³owa!}
-{378}{}{Gdzie jest mój towar?}
+{377}{}{Oooch, moja gÅ‚owa!}
+{378}{}{Gdzie jest mÃ³j towar?}
 {400}{}{Demon!}
-{401}{}{Wróg u bram!}
-{402}{}{Mordercy! Zabiliœcie mojego syna?!}
-{403}{}{Potwór! Zabiæ go!}
+{401}{}{WrÃ³g u bram!}
+{402}{}{Mordercy! ZabiliÅ›cie mojego syna?!}
+{403}{}{PotwÃ³r! ZabiÄ‡ go!}
 {404}{}{A! Pargaraka!}
 {405}{}{Stopa od szczurasna! Ach!}
 {406}{}{Nie oddam ci tego!}

@@ -1,1 +1,1 @@
-{100}{}{Wow, das ist übles Zeug!}
+{100}{}{Wow, das ist Ã¼bles Zeug!}

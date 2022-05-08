@@ -9,7 +9,7 @@
 {203}{}{Not when he's slinking around like a thief and carrying a shovel.}
 {204}{}{Alright fine, but why are you carrying a shovel?}
 {205}{}{Whatever, I'm out of here.}
-{206}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
+{206}{}{Vegye Ãºgy, hogy nem is szÃ³ltam! BocsÃ¡nat, hogy zavartam.}
 {207}{}{You mean this ol' thing? [He glances down at the rusty shovel in his hands.] Well, uh, you never know when you
  might find something that needs digging up. Always be prepared I say.}
 {208}{}{Find something, eh? You mean like something in a grave?}
@@ -46,7 +46,7 @@
  lighter on some lad I dug up a couple weeks ago. I have no use for it and hopefully you might.}
 {304}{}{Thanks, Tom. I'm sure this'll come in handy. See you around.}
 {305}{}{(The old man nods and goes back to what he was doing.)}
-{306}{}{[vége]}
+{306}{}{[vÃ©ge]}
 {307}{}{Hello again. Thanks for everything!}
 {308}{}{*Whistle*}
 {400}{}{You youngins never learn. You aint the boss of me. I think I'll just kill you instead.}

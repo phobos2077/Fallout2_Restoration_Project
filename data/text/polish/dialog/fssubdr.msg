@@ -1,1 +1,1 @@
-{100}{}{Te drzwi ca≥kowicie przyrdzewia≥y. Nie ma moøliwoúci øeby je otworzyÊ.}
+{100}{}{Te drzwi ca≈Çkowicie przyrdzewia≈Çy. Nie ma mo≈ºliwo≈õci ≈ºeby je otworzyƒá.}

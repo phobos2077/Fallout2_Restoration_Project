@@ -1,44 +1,44 @@
-{100}{}{Ez a kutya naggggggyon ádáz fajta.}
+{100}{}{Ez a kutya naggggggyon Ã¡dÃ¡z fajta.}
 {101}{}{Dogmeat.}
 {102}{}{Dogmeat.}
-{103}{}{Amikor a kutya meglátja a Menedék kezeslábasát, sz?kölni kezd. Úgy t?nik, melléd akar szeg?dni.}
-{104}{}{[Füttyentesz]}
-{105}{}{Talán jöhetel velem, ha lenni több hej csapatba'.}
+{103}{}{Amikor a kutya meglÃ¡tja a MenedÃ©k kezeslÃ¡basÃ¡t, sz?kÃ¶lni kezd. Ãšgy t?nik, mellÃ©d akar szeg?dni.}
+{104}{}{[FÃ¼ttyentesz]}
+{105}{}{TalÃ¡n jÃ¶hetel velem, ha lenni tÃ¶bb hej csapatba'.}
 {106}{}{Nem-nem, kutyuli. Maradol!}
-{107}{}{Na, gyere komám! Itt az id?, hogy szétcsapjunk azok közt, akik megérdemlik!}
-{108}{}{Te csak ne aggódj, koma! Amint lesz hely a csapatban, visszajövök érted.}
+{107}{}{Na, gyere komÃ¡m! Itt az id?, hogy szÃ©tcsapjunk azok kÃ¶zt, akik megÃ©rdemlik!}
+{108}{}{Te csak ne aggÃ³dj, koma! Amint lesz hely a csapatban, visszajÃ¶vÃ¶k Ã©rted.}
 {109}{}{Bocsesz, Dogmeat. Most nem lehet.}
-{110}{}{A kutya torkos módon bekebelezi a nyársas iguanát, utána várakozóan néz rád...}
-{111}{}{[Füttyentesz]}
-{112}{}{Talán jöhetel velem, ha lenni több hej csapatba'.}
+{110}{}{A kutya torkos mÃ³don bekebelezi a nyÃ¡rsas iguanÃ¡t, utÃ¡na vÃ¡rakozÃ³an nÃ©z rÃ¡d...}
+{111}{}{[FÃ¼ttyentesz]}
+{112}{}{TalÃ¡n jÃ¶hetel velem, ha lenni tÃ¶bb hej csapatba'.}
 {113}{}{Nem-nem, kutyuli. Maradol!}
-{114}{}{Na, gyere komám! Itt az id?, hogy szétcsapjunk azok közt, akik megérdemlik!}
-{115}{}{Te csak ne aggódj, koma! Amint lesz hely a csapatban, visszajövök érted.}
+{114}{}{Na, gyere komÃ¡m! Itt az id?, hogy szÃ©tcsapjunk azok kÃ¶zt, akik megÃ©rdemlik!}
+{115}{}{Te csak ne aggÃ³dj, koma! Amint lesz hely a csapatban, visszajÃ¶vÃ¶k Ã©rted.}
 {116}{}{Bocsesz, Dogmeat. Most nem lehet.}
-{117}{}{Ez a kutya naggggggyon ádáz fajta.}
-{118}{}{[Füttyentesz]}
-{119}{}{Talán jöhetel velem, ha lenni több hej csapatba'.}
+{117}{}{Ez a kutya naggggggyon Ã¡dÃ¡z fajta.}
+{118}{}{[FÃ¼ttyentesz]}
+{119}{}{TalÃ¡n jÃ¶hetel velem, ha lenni tÃ¶bb hej csapatba'.}
 {120}{}{Maradol, kutyuli, ne mozdujj!}
 {121}{}{[Elcsoszogsz]}
-{122}{}{Na, gyere komám! Itt az id?, hogy szétcsapjunk azok közt, akik megérdemlik!}
-{123}{}{Visszajövök érted, amint lesz hely a csapatomban.}
-{124}{}{Ragadj rám! Értesz engem?}
-{125}{}{Tarts közepes távolságot, Dogmeat!}
-{126}{}{Maradj hátrébb, Dogmeat! Fedezz engem!}
+{122}{}{Na, gyere komÃ¡m! Itt az id?, hogy szÃ©tcsapjunk azok kÃ¶zt, akik megÃ©rdemlik!}
+{123}{}{VisszajÃ¶vÃ¶k Ã©rted, amint lesz hely a csapatomban.}
+{124}{}{Ragadj rÃ¡m! Ã‰rtesz engem?}
+{125}{}{Tarts kÃ¶zepes tÃ¡volsÃ¡got, Dogmeat!}
+{126}{}{Maradj hÃ¡trÃ©bb, Dogmeat! Fedezz engem!}
 {127}{}{Itt maradsz, Dogmeat! Itt maradsz!}
-{128}{}{Azt hiszem, most békén hagyom Dogmeatet.}
-{129}{}{Dogmeat hangosan felvakkant, aztán morogni kezd.}
-{130}{}{Ragadj rám! Értesz engem?}
-{131}{}{Tarts közepes távolságot, Dogmeat!}
-{132}{}{Maradj hátrébb, Dogmeat! Fedezz engem!}
+{128}{}{Azt hiszem, most bÃ©kÃ©n hagyom Dogmeatet.}
+{129}{}{Dogmeat hangosan felvakkant, aztÃ¡n morogni kezd.}
+{130}{}{Ragadj rÃ¡m! Ã‰rtesz engem?}
+{131}{}{Tarts kÃ¶zepes tÃ¡volsÃ¡got, Dogmeat!}
+{132}{}{Maradj hÃ¡trÃ©bb, Dogmeat! Fedezz engem!}
 {133}{}{Itt maradsz, Dogmeat! Itt maradsz!}
-{134}{}{Köszi, Dogmeat! Király vagy!}
-{135}{}{Vaúúúúúúúúúúú...}
-{136}{}{Vaúúúúúúúúúúú...}
-{137}{}{Hela, ne csesztesd a kutyámat!}
+{134}{}{KÃ¶szi, Dogmeat! KirÃ¡ly vagy!}
+{135}{}{VaÃºÃºÃºÃºÃºÃºÃºÃºÃºÃºÃº...}
+{136}{}{VaÃºÃºÃºÃºÃºÃºÃºÃºÃºÃºÃº...}
+{137}{}{Hela, ne csesztesd a kutyÃ¡mat!}
 {138}{}{Grrrrr....}
-{139}{}{(Kiváncsi vagyok, rá tudnám-e venni Dogmeatet, hogy máshogy kövessen?)}
-{150}{}{Vaú! Vaú!}
+{139}{}{(KivÃ¡ncsi vagyok, rÃ¡ tudnÃ¡m-e venni Dogmeatet, hogy mÃ¡shogy kÃ¶vessen?)}
+{150}{}{VaÃº! VaÃº!}
 {200}{}{Here boy, I got something for you! Let's see somebody mess with you now! (You place the K-9 Kevlar on Dogmeat.)}
 {201}{}{Is the armor weighting you down, boy? Here, let's take that thing off. (You remove the K-9 Kevlar from Dogmeat.) }
 {300}{}{*Wimper*}

@@ -1,1 +1,1 @@
-{100}{}{Esta puerta est· completamente oxidado m·s. No hay manera de abrirlo.}
+{100}{}{Esta puerta est√° completamente oxidado m√°s. No hay manera de abrirlo.}

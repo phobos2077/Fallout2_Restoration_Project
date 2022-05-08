@@ -1,43 +1,43 @@
 {100}{}{Du siehst einen Computer.}
 {101}{}{Du siehst den EPA Museumscomputer.}
 {200}{}{Willkommen im EPA Museum. Dieses Terminal wird Ihnen einen Film mittels
- einer spannenden neuen Holographietechnologie präsentieren! Der Film ist eine
- unterhaltsame und informative Vorrausschau auf die beängstigende, aber
- mögliche Realität einer postnuklearen Welt.}
+ einer spannenden neuen Holographietechnologie prÃ¤sentieren! Der Film ist eine
+ unterhaltsame und informative Vorrausschau auf die beÃ¤ngstigende, aber
+ mÃ¶gliche RealitÃ¤t einer postnuklearen Welt.}
 {201}{}{[Film abspielen.]}
 {202}{}{[Abmelden.]}
-{210}{}{[Das Terminal projiziert das Hologramm eines großen bebrillten Mannes in einem
- Laborkittel. Er winkt und lächelt freundlich in Deine Richtung] Hallo, ich bin Dr. Caleb 
+{210}{}{[Das Terminal projiziert das Hologramm eines groÃŸen bebrillten Mannes in einem
+ Laborkittel. Er winkt und lÃ¤chelt freundlich in Deine Richtung] Hallo, ich bin Dr. Caleb 
  und ich werde Sie durch dieses Video eines post-holocaust Amerikas begleiten.}
 {211}{}{[Mehr]}
 {220}{}{[Ein Wohnzimmer materialisiert sich um DR. Caleb herum, in dem eine Familie
  sich entspannt auf den Abend vorbereitet. Dr. Caleb legt seine Hand auf den Kopf
- eines Hundes und lächelt Dich an.] Vater raucht seine Pfeiffe, Mutter liest in ihrem
- Kochbuch während der kleine Billy und Susi noch ein bisschen fernsehen vor dem
+ eines Hundes und lÃ¤chelt Dich an.] Vater raucht seine Pfeiffe, Mutter liest in ihrem
+ Kochbuch wÃ¤hrend der kleine Billy und Susi noch ein bisschen fernsehen vor dem
  Zubettgehen. Sie glauben, dass alles in Ordnung ist. Sie ignorieren die heulenden
- Sirenen, glauben, es sein nur eine weitere Übung. Oh, aber was ist das?}
+ Sirenen, glauben, es sein nur eine weitere Ãœbung. Oh, aber was ist das?}
 {221}{}{[Mehr]}
-{230}{}{[Durch das Hinterfenster siehst Du eine große Bombe auf dem Boden aufschlagen,
+{230}{}{[Durch das Hinterfenster siehst Du eine groÃŸe Bombe auf dem Boden aufschlagen,
  die einen riesigen Atompilz hervorruft, der von einem grellen, blendendem Licht
- gefolgt wird.Nachdem das grelle Licht schwächer geworden ist, siehst Du Dr.
+ gefolgt wird.Nachdem das grelle Licht schwÃ¤cher geworden ist, siehst Du Dr.
  Caleb in der verbrannten Ruine des Wohnzimmers stehen, umringt von der nun zu
- Skeletten verwandelten Familie] Uh-Oh, sieht aus, als ob die Roten nun die große
- Bombe gezündet hätten und die Johnsons waren doch nicht ganz so sicher, wie sie
- annahmen. Nun, was können wir von dem Fehler der Familie Johnson lernen?}
+ Skeletten verwandelten Familie] Uh-Oh, sieht aus, als ob die Roten nun die groÃŸe
+ Bombe gezÃ¼ndet hÃ¤tten und die Johnsons waren doch nicht ganz so sicher, wie sie
+ annahmen. Nun, was kÃ¶nnen wir von dem Fehler der Familie Johnson lernen?}
 {231}{}{[Mehr]}
-{240}{}{Das stimmt. Im Falle eines Nuklearkriegs, möchten Sie, dass Ihre Familie sicher
- ist, im Schutz eines Vault-Tec Bunkers. Vault-Tec hat 122 öffentliche Bunker,
- überall über unser großartiges Land verteilt, errichtet, so dass sich einer sicher auch
- in Ihrer Nachbarschaft befinden müsste. Wie Sie sich sicher vorstellen können, sind
- die Plätze nur sehr eingeschränkt verfügbar, so dass Sie Ihre Plätze noch heute
+{240}{}{Das stimmt. Im Falle eines Nuklearkriegs, mÃ¶chten Sie, dass Ihre Familie sicher
+ ist, im Schutz eines Vault-Tec Bunkers. Vault-Tec hat 122 Ã¶ffentliche Bunker,
+ Ã¼berall Ã¼ber unser groÃŸartiges Land verteilt, errichtet, so dass sich einer sicher auch
+ in Ihrer Nachbarschaft befinden mÃ¼sste. Wie Sie sich sicher vorstellen kÃ¶nnen, sind
+ die PlÃ¤tze nur sehr eingeschrÃ¤nkt verfÃ¼gbar, so dass Sie Ihre PlÃ¤tze noch heute
  reservieren sollten, um *Ihre* Familie nicht enden zu sehen, wie die Johnsons hier.
- [Dr. Caleb tätschelt den Kopf des Hundeskeletts. Dessen Schädel löst sich vom
- Torax und fällt auf den Boden. Ein Staubsaugerroboter schwebt herbei und saugt
+ [Dr. Caleb tÃ¤tschelt den Kopf des Hundeskeletts. Dessen SchÃ¤del lÃ¶st sich vom
+ Torax und fÃ¤llt auf den Boden. Ein Staubsaugerroboter schwebt herbei und saugt
  die Skelettreste auf.}
 {241}{}{[Mehr]}
-{250}{}{Sieht aus, als ob Mr. Handy dieses Stück (Film) rausschneiden muss, um *diesen*
- Schlamassel beseitigen zu können. [Dr. Caleb lacht als das Bild verschwindet und
- durch einen Text ersetzt wird.]: Danke fürs Zuschauen. Dieses Lernvideo wurde
- Ihnen präsentiert von den netten Leuten bei Vault-Tec. Vault-Tec, Amerikas
- ultimative Lösung, wenn es um Ihr zu Hause geht.}
+{250}{}{Sieht aus, als ob Mr. Handy dieses StÃ¼ck (Film) rausschneiden muss, um *diesen*
+ Schlamassel beseitigen zu kÃ¶nnen. [Dr. Caleb lacht als das Bild verschwindet und
+ durch einen Text ersetzt wird.]: Danke fÃ¼rs Zuschauen. Dieses Lernvideo wurde
+ Ihnen prÃ¤sentiert von den netten Leuten bei Vault-Tec. Vault-Tec, Amerikas
+ ultimative LÃ¶sung, wenn es um Ihr zu Hause geht.}
 {251}{}{[Abmelden.]}

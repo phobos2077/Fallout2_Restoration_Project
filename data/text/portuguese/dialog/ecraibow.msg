@@ -1,15 +1,15 @@
 {100}{}{Orgulho gay!}
 {101}{}{Para baixo com heteros!}
-{102}{}{Forasteiros n„o s„o bem vindos!}
+{102}{}{Forasteiros n√£o s√£o bem vindos!}
 {103}{}{O orgulho de ser um dique!}
 {104}{}{Girl power!}
-{105}{}{N„o preciso de um homem!}
-{106}{}{A ConfederaÁ„o do Arco-Ìris ir· viver.}
+{105}{}{N√£o preciso de um homem!}
+{106}{}{A Confedera√ß√£o do Arco-√≠ris ir√° viver.}
 {107}{}{Retiro para o Amor Shack.}
 {108}{}{Venceremos!}
-{109}{}{Bem-vindo ‡ ConfederaÁ„o do Arco-Ìris.}
-{110}{}{Seu tipo È bem-vindo aqui.}
-{111}{}{VocÍ È um de nÛs.}
+{109}{}{Bem-vindo √† Confedera√ß√£o do Arco-√≠ris.}
+{110}{}{Seu tipo √© bem-vindo aqui.}
+{111}{}{Voc√™ √© um de n√≥s.}
 {112}{}{Colonizadores.}
 {113}{}{Colono.}
 {114}{}{Estranho.}

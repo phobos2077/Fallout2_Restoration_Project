@@ -1,41 +1,41 @@
-{100}{}{Você vê uma pessoa com um pijama engraçado. Ele parece preocupado.}
-{101}{}{Você vê um técnico de submarino Shi.}
-{150}{}{Uh, o que você está fazendo se esgueirando por aí?}
-{151}{}{Você é algum tipo de espião?}
-{200}{}{Que nojo, olha só essa ferrugem!}
-{201}{}{Não consigo entender por que mantemos isso funcionando.}
-{202}{}{Esses torpedos são um acidente esperando para acontecer.}
-{300}{}{Não me lembro de ter visto você por aqui, o que faz na sala de torpedos? E quem é você, afinal?}
-{301}{}{Você de novo? O que você está fazendo na sala de torpedos? E quem é você, afinal?}
-{302}{}{Sou uma adição de última hora à sua equipe de tecnologia. Desculpe por não avisar antes. Oh, eu estou aqui para fazer algumas
- manutenções nos torpedos. Estão péssimos, são um acidente esperando para acontecer!}
-{303}{}{Fui adicionado à sua lista recentemente. Fui convidado para trabalhar com os sistemas de mira dos torpedos,
- eles estão agindo mal recentemente. Pode ser devido a certas falhas crônicas no design da 
- placa mãe Sungsam.}
-{304}{}{Sou um técnico recém-adicionado à sua lista. Eu deveria estar fazendo a manutenção periódica nos torpedos,
- eles estão horríveis! Olha só essa poeira! E as hélices estão quase caindo!}
+{100}{}{VocÃª vÃª uma pessoa com um pijama engraÃ§ado. Ele parece preocupado.}
+{101}{}{VocÃª vÃª um tÃ©cnico de submarino Shi.}
+{150}{}{Uh, o que vocÃª estÃ¡ fazendo se esgueirando por aÃ­?}
+{151}{}{VocÃª Ã© algum tipo de espiÃ£o?}
+{200}{}{Que nojo, olha sÃ³ essa ferrugem!}
+{201}{}{NÃ£o consigo entender por que mantemos isso funcionando.}
+{202}{}{Esses torpedos sÃ£o um acidente esperando para acontecer.}
+{300}{}{NÃ£o me lembro de ter visto vocÃª por aqui, o que faz na sala de torpedos? E quem Ã© vocÃª, afinal?}
+{301}{}{VocÃª de novo? O que vocÃª estÃ¡ fazendo na sala de torpedos? E quem Ã© vocÃª, afinal?}
+{302}{}{Sou uma adiÃ§Ã£o de Ãºltima hora Ã  sua equipe de tecnologia. Desculpe por nÃ£o avisar antes. Oh, eu estou aqui para fazer algumas
+ manutenÃ§Ãµes nos torpedos. EstÃ£o pÃ©ssimos, sÃ£o um acidente esperando para acontecer!}
+{303}{}{Fui adicionado Ã  sua lista recentemente. Fui convidado para trabalhar com os sistemas de mira dos torpedos,
+ eles estÃ£o agindo mal recentemente. Pode ser devido a certas falhas crÃ´nicas no design da 
+ placa mÃ£e Sungsam.}
+{304}{}{Sou um tÃ©cnico recÃ©m-adicionado Ã  sua lista. Eu deveria estar fazendo a manutenÃ§Ã£o periÃ³dica nos torpedos,
+ eles estÃ£o horrÃ­veis! Olha sÃ³ essa poeira! E as hÃ©lices estÃ£o quase caindo!}
 {305}{}{Foi mal, sala errada.}
-{310}{}{Oh, finalmente tem um mecânico qualificado a bordo. Eu tento consertar isso, mas eu infelizmente não supero
- meu medo desses torpedos. Você sabia que eles carregam explosivos suficientes para transformar esse navio em um monte de sucata bem moida?}
+{310}{}{Oh, finalmente tem um mecÃ¢nico qualificado a bordo. Eu tento consertar isso, mas eu infelizmente nÃ£o supero
+ meu medo desses torpedos. VocÃª sabia que eles carregam explosivos suficientes para transformar esse navio em um monte de sucata bem moida?}
 {311}{}{Vou ser cuidadoso, prometo.}
-{320}{}{Finalmente me mandaram um mecânico, estou implorando isso a semanas...}
-{330}{}{Uh, você não parece um mecânico. Na moral, eu não acho que você sabe a diferença entre uma chave de fenda e uma 
- chave philips, então por que não volta e ajuda os outros caras em vez de ficar vagando pela sala de torpedos? Eu não
- quero que você nos exploda acidentalmente. }
+{320}{}{Finalmente me mandaram um mecÃ¢nico, estou implorando isso a semanas...}
+{330}{}{Uh, vocÃª nÃ£o parece um mecÃ¢nico. Na moral, eu nÃ£o acho que vocÃª sabe a diferenÃ§a entre uma chave de fenda e uma 
+ chave philips, entÃ£o por que nÃ£o volta e ajuda os outros caras em vez de ficar vagando pela sala de torpedos? Eu nÃ£o
+ quero que vocÃª nos exploda acidentalmente. }
 {331}{}{Bem, eu vou.}
-{340}{}{Tudo bem, mas, por que está procurando o console na sala de torpedos? Está na sala atrás de 
- você. Preciso de um mecânico, não de outro técnico, então, a menos que você também seja um ótimo reparador, preciso que saia.}
-{341}{}{Na verdade, sim, também sou um técnico, com bastante experiência em trabalhar com tecnologia antiga. Eu acredito
- que posso lidar com esses torpedos. Vou fazer com que as hélices funcionem corretamente e vou me certificar de que não nos transformem em um monte de
+{340}{}{Tudo bem, mas, por que estÃ¡ procurando o console na sala de torpedos? EstÃ¡ na sala atrÃ¡s de 
+ vocÃª. Preciso de um mecÃ¢nico, nÃ£o de outro tÃ©cnico, entÃ£o, a menos que vocÃª tambÃ©m seja um Ã³timo reparador, preciso que saia.}
+{341}{}{Na verdade, sim, tambÃ©m sou um tÃ©cnico, com bastante experiÃªncia em trabalhar com tecnologia antiga. Eu acredito
+ que posso lidar com esses torpedos. Vou fazer com que as hÃ©lices funcionem corretamente e vou me certificar de que nÃ£o nos transformem em um monte de
  sucata.}
 {342}{}{Bem, eu vou.}
-{350}{}{Oh, especialistas em ambos os campos não são comuns nas terras devastadas. Acho que posso confiar em você, então vá conserte aqueles
+{350}{}{Oh, especialistas em ambos os campos nÃ£o sÃ£o comuns nas terras devastadas. Acho que posso confiar em vocÃª, entÃ£o vÃ¡ conserte aqueles
  torpedos para que eu possa me sentir um pouco mais seguro.}
 {351}{}{De acordo.}
 {360}{}{Eai, estou ocupado aqui.}
 {361}{}{Desculpe, estou trabalhando.}
-{370}{}{Não toque nisso!}
+{370}{}{NÃ£o toque nisso!}
 {371}{}{O que eu te disse?!}
-{372}{}{Eu avisei a você!}
-{375}{}{Mas o que você está fazendo! Guardas!}
+{372}{}{Eu avisei a vocÃª!}
+{375}{}{Mas o que vocÃª estÃ¡ fazendo! Guardas!}
 {380}{}{Pare de vadiar e comece a trabalhar.}

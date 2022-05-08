@@ -1,5 +1,5 @@
 {100}{}{Ne me fais pas mal.}
-{101}{}{Tu es mon nouveau maître ?}
-{102}{}{La liberté, s'il te plaît.}
-{103}{}{Je veux être libre.}
+{101}{}{Tu es mon nouveau maÃ®tre ?}
+{102}{}{La libertÃ©, s'il te plaÃ®t.}
+{103}{}{Je veux Ãªtre libre.}
 {104}{}{Sauve qui peut !!}

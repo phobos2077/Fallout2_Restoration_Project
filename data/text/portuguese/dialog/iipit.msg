@@ -1,4 +1,4 @@
-{100}{}{Você caiu em um buraco nas cavernas abaixo.}
-{101}{}{Você vê um buraco no chão da caverna.}
-{102}{}{ vê um buraco no chão da caverna.}
-{103}{}{Você vê um buraco no chão da caverna.}
+{100}{}{VocÃª caiu em um buraco nas cavernas abaixo.}
+{101}{}{VocÃª vÃª um buraco no chÃ£o da caverna.}
+{102}{}{ vÃª um buraco no chÃ£o da caverna.}
+{103}{}{VocÃª vÃª um buraco no chÃ£o da caverna.}

@@ -1,146 +1,146 @@
-{100}{}{Widzisz jednego z synów Wrighta.}
-{101}{}{Widzisz jedn¹ z córek Wrighta.}
-{150}{}{Widzisz m³odego mê¿czyznê o nieprzyjemnym wyrazie twarzy. Usilnie stara siê wygl¹daæ na twardziela.}
-{151}{}{Widzisz jednego z synów Wrighta. Wygl¹da na uzbrojony po zêby, ale jest chyba zbyt m³ody, by wiedzieæ do czego s³u¿y ca³y ten arsena³.}
-{152}{}{Widzisz jednego z synów Wrighta. Próbuje wygl¹daæ groŸnie.}
-{153}{}{Widzisz jednego z synów Wrighta. Nie wygl¹da na zadowolonego. Najchêtniej robi³by chyba coœ... cokolwiek innego.}
-{160}{}{Widzisz m³od¹ kobietê o nieprzyjemnym wyrazie twarzy. Usilnie stara siê wygl¹daæ groŸnie.}
-{161}{}{Widzisz jedn¹ z córek Wrighta. Wygl¹da na uzbrojon¹ po zêby, ale jest chyba zbyt m³oda, ¿eby wiedzieæ do czego s³u¿y ca³y ten arsena³.}
-{162}{}{Widzisz jedn¹ z córek Wrighta. Ignoruje ciê, ale znacz¹co trzyma rêkêna kaburze.}
-{163}{}{Widzisz jedn¹ z córek Wrighta. Wygl¹da na bardziej wredn¹ od przeciêtnego grzechotnika.}
-{164}{}{Widzisz jedn¹ z córek Wrighta. Wygl¹da na bardziej wredn¹ od przeciêtnego grzechotnika. Nie wiedzieæ czemu, bardzo ci siê to w niej podoba.}
+{100}{}{Widzisz jednego z synÃ³w Wrighta.}
+{101}{}{Widzisz jednÄ… z cÃ³rek Wrighta.}
+{150}{}{Widzisz mÅ‚odego mÄ™Å¼czyznÄ™ o nieprzyjemnym wyrazie twarzy. Usilnie stara siÄ™ wyglÄ…daÄ‡ na twardziela.}
+{151}{}{Widzisz jednego z synÃ³w Wrighta. WyglÄ…da na uzbrojony po zÄ™by, ale jest chyba zbyt mÅ‚ody, by wiedzieÄ‡ do czego sÅ‚uÅ¼y caÅ‚y ten arsenaÅ‚.}
+{152}{}{Widzisz jednego z synÃ³w Wrighta. PrÃ³buje wyglÄ…daÄ‡ groÅºnie.}
+{153}{}{Widzisz jednego z synÃ³w Wrighta. Nie wyglÄ…da na zadowolonego. NajchÄ™tniej robiÅ‚by chyba coÅ›... cokolwiek innego.}
+{160}{}{Widzisz mÅ‚odÄ… kobietÄ™ o nieprzyjemnym wyrazie twarzy. Usilnie stara siÄ™ wyglÄ…daÄ‡ groÅºnie.}
+{161}{}{Widzisz jednÄ… z cÃ³rek Wrighta. WyglÄ…da na uzbrojonÄ… po zÄ™by, ale jest chyba zbyt mÅ‚oda, Å¼eby wiedzieÄ‡ do czego sÅ‚uÅ¼y caÅ‚y ten arsenaÅ‚.}
+{162}{}{Widzisz jednÄ… z cÃ³rek Wrighta. Ignoruje ciÄ™, ale znaczÄ…co trzyma rÄ™kÄ™na kaburze.}
+{163}{}{Widzisz jednÄ… z cÃ³rek Wrighta. WyglÄ…da na bardziej wrednÄ… od przeciÄ™tnego grzechotnika.}
+{164}{}{Widzisz jednÄ… z cÃ³rek Wrighta. WyglÄ…da na bardziej wrednÄ… od przeciÄ™tnego grzechotnika. Nie wiedzieÄ‡ czemu, bardzo ci siÄ™ to w niej podoba.}
 {200}{}{::Wiwatuje::}
 {201}{}{::Klaszcze::}
-{202}{}{::Gwi¿d¿e::}
-{203}{}{(Œpiewa) "We don't need another hero, we don't need to know the way home..."}
+{202}{}{::GwiÅ¼dÅ¼e::}
+{203}{}{(Åšpiewa) "We don't need another hero, we don't need to know the way home..."}
 {204}{}{Hej! }
-{205}{}{Gratulujê rozprawy z Enklaw¹, }
-{206}{}{Trzeba mieæ jaja nie z tej ziemi, ¿eby tak za³atwiæ Enklawê.}
-{207}{}{Ci goœcie z Enklawy to cholerne sukinsyny.}
-{208}{}{Mieli skaziæ okolicê jakimœ WIRUSEM?! Sukinsyny. Mam nadziejê, ¿e sma¿¹ siê w piekle.}
-{209}{}{Zawsze mi siê wydawa³o, ¿e Prezydent to mit, bajka dla niegrzecznych dzieci.}
-{210}{}{Wygl¹dasz jak ktoœ, kto tañczy³ z samym diab³em. Odpocznij trochê. Zas³ugujesz na urlop.}
-{211}{}{Chcesz zagraæ jeszcze raz, inn¹ postaci¹? Polecam kogoœ z wysokim poziomem Sztuki Przetrwania.}
+{205}{}{GratulujÄ™ rozprawy z EnklawÄ…, }
+{206}{}{Trzeba mieÄ‡ jaja nie z tej ziemi, Å¼eby tak zaÅ‚atwiÄ‡ EnklawÄ™.}
+{207}{}{Ci goÅ›cie z Enklawy to cholerne sukinsyny.}
+{208}{}{Mieli skaziÄ‡ okolicÄ™ jakimÅ› WIRUSEM?! Sukinsyny. Mam nadziejÄ™, Å¼e smaÅ¼Ä… siÄ™ w piekle.}
+{209}{}{Zawsze mi siÄ™ wydawaÅ‚o, Å¼e Prezydent to mit, bajka dla niegrzecznych dzieci.}
+{210}{}{WyglÄ…dasz jak ktoÅ›, kto taÅ„czyÅ‚ z samym diabÅ‚em. Odpocznij trochÄ™. ZasÅ‚ugujesz na urlop.}
+{211}{}{Chcesz zagraÄ‡ jeszcze raz, innÄ… postaciÄ…? Polecam kogoÅ› z wysokim poziomem Sztuki Przetrwania.}
 {212}{}{FEV? Co to takiego?}
-{213}{}{Nowe Reno zosta³o zaprojektowane przez Chrisa Avellone'a a stworzy³ je Tom French. Tom gra w zespole. Chris gra wszystkim na nerwach.}
-{214}{}{Mam nadziejê, ¿e w Fallout 3 dostanê jak¹œ wiêksz¹ rolê, coœ jak Tandi albo Ian. Bycie statyst¹ jest do dupy.}
-{215}{}{Podobno dziêki tobie Enklawa przesta³a istnieæ. Niezwyk³y wyczyn.}
-{225}{}{Jak sobie radzisz w toalecie z ca³ym tym ¿elastwem na sobie?}
-{230}{}{Nie paraduj z broni¹ przy dzieciach, dobra?}
-{231}{}{Nie wymachuj t¹ broni¹ przy dzieciach, dobra?}
-{235}{}{Przestañ siê tak skradaæ! Mam dostaæ zawa³u, czy co?!}
-{236}{}{Czemu siê tak skradasz?}
-{237}{}{Hej! Przestañ udawaæ mój cieñ... Cholera, ma³o brakowa³o, a by³o by po tobie! Szlag.}
+{213}{}{Nowe Reno zostaÅ‚o zaprojektowane przez Chrisa Avellone'a a stworzyÅ‚ je Tom French. Tom gra w zespole. Chris gra wszystkim na nerwach.}
+{214}{}{Mam nadziejÄ™, Å¼e w Fallout 3 dostanÄ™ jakÄ…Å› wiÄ™kszÄ… rolÄ™, coÅ› jak Tandi albo Ian. Bycie statystÄ… jest do dupy.}
+{215}{}{Podobno dziÄ™ki tobie Enklawa przestaÅ‚a istnieÄ‡. NiezwykÅ‚y wyczyn.}
+{225}{}{Jak sobie radzisz w toalecie z caÅ‚ym tym Å¼elastwem na sobie?}
+{230}{}{Nie paraduj z broniÄ… przy dzieciach, dobra?}
+{231}{}{Nie wymachuj tÄ… broniÄ… przy dzieciach, dobra?}
+{235}{}{PrzestaÅ„ siÄ™ tak skradaÄ‡! Mam dostaÄ‡ zawaÅ‚u, czy co?!}
+{236}{}{Czemu siÄ™ tak skradasz?}
+{237}{}{Hej! PrzestaÅ„ udawaÄ‡ mÃ³j cieÅ„... Cholera, maÅ‚o brakowaÅ‚o, a byÅ‚o by po tobie! Szlag.}
 {240}{}{Sie ma, }
-{241}{}{Straszny gor¹c, nie,}
+{241}{}{Straszny gorÄ…c, nie,}
 {242}{}{Sie ma, }
-{245}{}{To ktoœ z rodziny }
-{250}{}{To ktoœ z rodziny }
-{255}{}{To ktoœ z rodziny }
-{260}{}{Spadaj st¹d, zanim ciê podziurawimy!}
-{261}{}{Spadaj st¹d! Ludzie z twojej rodziny nie s¹ tu mile widziani!}
-{265}{}{Rzuæ broñ, £owco, albo zarobisz kulê!}
-{270}{}{Co siê tak krêcisz? Chcesz zarobiæ kulkê, £owco?}
-{275}{}{Rzuæ broñ, natychmiast!}
-{276}{}{Rzuæ broñ, albo zginiesz!}
-{277}{}{Schowaj broñ, albo zginiesz!}
-{280}{}{Jak bêdziesz tak siê skradaæ, to zarobisz kulkê w ³eb.}
-{281}{}{Czego siê kur... czê skradasz? Chcesz zgin¹æ?}
-{285}{}{Co tam ze sob¹ prowadzisz? Chodz¹c¹ lodówkê?}
+{245}{}{To ktoÅ› z rodziny }
+{250}{}{To ktoÅ› z rodziny }
+{255}{}{To ktoÅ› z rodziny }
+{260}{}{Spadaj stÄ…d, zanim ciÄ™ podziurawimy!}
+{261}{}{Spadaj stÄ…d! Ludzie z twojej rodziny nie sÄ… tu mile widziani!}
+{265}{}{RzuÄ‡ broÅ„, Åowco, albo zarobisz kulÄ™!}
+{270}{}{Co siÄ™ tak krÄ™cisz? Chcesz zarobiÄ‡ kulkÄ™, Åowco?}
+{275}{}{RzuÄ‡ broÅ„, natychmiast!}
+{276}{}{RzuÄ‡ broÅ„, albo zginiesz!}
+{277}{}{Schowaj broÅ„, albo zginiesz!}
+{280}{}{Jak bÄ™dziesz tak siÄ™ skradaÄ‡, to zarobisz kulkÄ™ w Å‚eb.}
+{281}{}{Czego siÄ™ kur... czÄ™ skradasz? Chcesz zginÄ…Ä‡?}
+{285}{}{Co tam ze sobÄ… prowadzisz? ChodzÄ…cÄ… lodÃ³wkÄ™?}
 {286}{}{Czy to jest robo-automat do gry?}
-{287}{}{Czy ten robot ma w œrodku mózg?! Obrzydliwoœæ.}
-{288}{}{Nie szkoda ci by³o mózgu dla tego robota? Mózg jest bardzo po¿ywny!}
-{289}{}{To robot, nie? Pierwszy raz widzê coœ takiego z bliska.}
-{295}{}{Powiedz mi, ¿e to nie jest mutant.}
+{287}{}{Czy ten robot ma w Å›rodku mÃ³zg?! ObrzydliwoÅ›Ä‡.}
+{288}{}{Nie szkoda ci byÅ‚o mÃ³zgu dla tego robota? MÃ³zg jest bardzo poÅ¼ywny!}
+{289}{}{To robot, nie? Pierwszy raz widzÄ™ coÅ› takiego z bliska.}
+{295}{}{Powiedz mi, Å¼e to nie jest mutant.}
 {296}{}{To mutant?}
-{297}{}{Niech mnie szlag! Mutanci w Nowym Reno. Bêd¹ k³opoty...}
+{297}{}{Niech mnie szlag! Mutanci w Nowym Reno. BÄ™dÄ… kÅ‚opoty...}
 {298}{}{Ten mutant to...}
-{299}{}{Lepiej uwa¿aj na tego twojego mutanta, kapujesz?}
+{299}{}{Lepiej uwaÅ¼aj na tego twojego mutanta, kapujesz?}
 {305}{}{Czego chcesz?}
-{306}{}{W czym mogê pomóc?}
-{307}{}{Cholernie gor¹co...}
-{308}{}{Nowe Reno z dnia na dzieñ robi siê paskudniejsze...}
+{306}{}{W czym mogÄ™ pomÃ³c?}
+{307}{}{Cholernie gorÄ…co...}
+{308}{}{Nowe Reno z dnia na dzieÅ„ robi siÄ™ paskudniejsze...}
 {309}{}{Co tu robisz?}
-{310}{}{Jeœli szukasz alkoholu, to rozejrzyj siê na stacji kolejowej, w pó³nocnej czêœci miasta... tutaj nic nie kupisz.}
-{311}{}{Uwa¿aj na siebie, przyjacielu. Jesteœ na terenie rodziny Wrightów.}
-{320}{}{Z tak¹ zbroj¹ lepiej pobaw siê z dzieæmi. Na pewno im siê spodoba.}
-{321}{}{Tylko nie rozdepcz mi w tej zbroi jakiegoœ dzieciaka, s³yszysz?}
-{322}{}{Nie jest ci w tym za gor¹co?}
-{323}{}{Chodz¹ca lodówka. Teraz nic mnie ju¿ nie zadziwi.}
+{310}{}{JeÅ›li szukasz alkoholu, to rozejrzyj siÄ™ na stacji kolejowej, w pÃ³Å‚nocnej czÄ™Å›ci miasta... tutaj nic nie kupisz.}
+{311}{}{UwaÅ¼aj na siebie, przyjacielu. JesteÅ› na terenie rodziny WrightÃ³w.}
+{320}{}{Z takÄ… zbrojÄ… lepiej pobaw siÄ™ z dzieÄ‡mi. Na pewno im siÄ™ spodoba.}
+{321}{}{Tylko nie rozdepcz mi w tej zbroi jakiegoÅ› dzieciaka, sÅ‚yszysz?}
+{322}{}{Nie jest ci w tym za gorÄ…co?}
+{323}{}{ChodzÄ…ca lodÃ³wka. Teraz nic mnie juÅ¼ nie zadziwi.}
 {324}{}{Szukasz myjni samochodowej?}
-{325}{}{Co to ma byæ?! Mechwarrior? Grasz w Fallout 2. Chyba pomyli³y ci siê ikonki!}
-{326}{}{Jak sobie radzisz w toalecie z ca³ym tym ¿elastwem na sobie?}
-{335}{}{Jak siê masz, }
-{336}{}{Dobrze ciê mieæ w rodzinie, eee, chocia¿ tak naprawdê to nie jesteœ z rodziny, wiesz? Zreszt¹, niewa¿ne.}
-{337}{}{Podobno Tommy Twardziel wróci³ do miasta.}
-{338}{}{My, Wrightowie jesteœmy najsilniejsz¹ rodzin¹, bo my JESTEŒMY rodzin¹.}
-{339}{}{Szkoda mojego m³odszego brata. To by³ dobry dzieciak, ale Jet zupe³nie wypali³ mu mózg...}
-{340}{}{Tata powiedzia³, ¿e udusi nas, jeœli chocia¿ pomyœlimy o braniu Jetu.}
-{341}{}{Tata ci¹gle jest wœciek³y, wiêc lepiej uwa¿aj rozmawiaj¹c z nim.}
-{342}{}{Chris dostanie baty jak nie przestanie wymykaæ siê do burdelu.}
-{343}{}{Cholernie gor¹co...}
-{344}{}{Ciekawe, co porabia Mama. Jak j¹ zobaczysz nie mów jej o aparaturze, dobra?}
-{345}{}{W zesz³ym tygodniu Keith roz³o¿y³ na czêœci pianino, a potem posk³ada³ je do kupy. Bystry dzieciak.}
-{346}{}{Za parê dni znów ruszamy polowaæ na radskorpiony.}
-{347}{}{Jeœli szukasz alkoholu, to rozejrzyj siê na stacji kolejowej, w pó³nocnej czêœci miasta... tutaj nic nie kupisz.}
-{348}{}{Uwa¿aj na dzieciaki. Bez przerwy pl¹cz¹ siê pod nogami.}
-{349}{}{Nauczysz mnie tak walczyæ?}
-{350}{}{Hej jesteœ }
-{351}{}{Dobrze walczysz. Porozmawiaj z Tat¹... eee, z szefem. Mo¿e znajdzie dla ciebie jak¹œ robotê.}
-{352}{}{Przyda³by siê nam ktoœ twojego pokroju.}
-{353}{}{Kiedy bêdziesz znowu walczyæ?}
-{354}{}{Nie mogê na ciebie postawiæ. Mama urwa³aby mi g³owê za hazard.}
-{355}{}{Si³y ci nie brakuje, to fakt.}
-{356}{}{Uwa¿aj na Prze¿uwacza, dobra? To wredny typ. Zanim siê obejrzysz, odgryzie ci ucho.}
-{360}{}{Mama mówi, ¿e jesteœ diabelskim nasieniem. Albo, ¿e masz diabelskie nasienie. Coœ w tym stylu.}
-{361}{}{Nie krêæ siê tutaj... Jak ciê Mama zobaczy, bêdzie awantura.}
-{362}{}{No i jak to jest w przemyœle filmowym? Mama nie pozwala mi ogl¹daæ twoich filmów.}
-{363}{}{Tylko nie mów maluchom czym siê zajmujesz.}
-{364}{}{Mama siê wœcieknie jak ciê zobaczy. Jest bardzo wyczulona na twoim punkcie.}
-{365}{}{Jeœli szukasz alkoholu, to rozejrzyj siê na stacji kolejowej, w pó³nocnej czêœci miasta... tutaj nic nie kupisz.}
-{366}{}{My, Wrightowie jesteœmy najsilniejsz¹ rodzin¹, bo my JESTEŒMY rodzin¹.}
-{367}{}{Szkoda mojego m³odszego brata. To by³ dobry dzieciak, ale Jet zupe³nie wypali³ mu mózg...}
-{368}{}{Tata powiedzia³, ¿e udusi nas, jeœli chocia¿ pomyœlimy o braniu Jetu.}
-{369}{}{Tata ci¹gle jest wœciek³y, wiêc lepiej uwa¿aj rozmawiaj¹c z nim.}
-{370}{}{Chris dostanie baty jak nie przestanie wymykaæ siê do burdelu.}
-{371}{}{Cholernie gor¹co...}
-{372}{}{W zesz³ym tygodniu Keith roz³o¿y³ na czêœci pianino, a potem posk³ada³ je do kupy. Bystry dzieciak.}
-{373}{}{Za parê dni znów ruszamy polowaæ na radskorpiony.}
-{374}{}{Czy naprawdê rozmawiasz z Bogiem, kiedy uprawiasz seks przed kamerami?}
-{375}{}{Mama mówi, ¿e jesteœ diabelskim nasieniem.}
-{376}{}{Mama mówi, ¿e jesteœ kurtyzan¹. Zb³¹kan¹ owieczk¹. Nie mam pojêcia o co jej chodzi.}
-{385}{}{Masz jakiœ interes do Taty? Powodzenia, ale on raczej nie szuka nowych pomocników.}
-{386}{}{Jeœli szukasz alkoholu, to rozejrzyj siê na stacji kolejowej, w pó³nocnej czêœci miasta... tutaj nic nie kupisz.}
-{387}{}{Uwa¿aj na siebie, przyjacielu. Jesteœ na terenie rodziny Wrightów.}
-{390}{}{Lepiej st¹d spadaj... nie przepadamy tu za ³owcami niewolników.}
-{391}{}{Nawet nie myœl o porywaniu st¹d kogokolwiek. Jak bêdziesz sprawiaæ k³opoty to ciê wypatroszymy.}
-{392}{}{Trzymaj siê z daleka ode mnie, £owco. Jeœli masz jakiœ interes do Taty, to za³atw go szybko i spadaj.}
-{393}{}{Mam nadziejê, ¿e nie masz przy sobie prochów, w przeciwnym razie Tata ciê za³atwi albo ja to zrobiê.}
-{394}{}{Mam ciê na oku, £owco, wiêc uwa¿aj co robisz, zrozumiano?}
-{395}{}{Trzymaj siê z dala od dzieci, s³yszysz? Jeden podejrzany ruch i nafaszerujê ciê o³owiem.}
-{396}{}{Zbli¿ siê tylko do dzieci, ³owco, a zastrzelê ciê jak psa.}
-{397}{}{Jeœli szukasz alkoholu, to rozejrzyj siê na stacji kolejowej, w pó³nocnej czêœci miasta... tutaj nic nie kupisz.}
-{398}{}{SkrzywdŸ tylko któregoœ Wrighta, £owco, a ca³a rodzina bêdzie ciê œcigaæ a¿ do œmierci.}
-{399}{}{Masz jakiœ interes do Taty? On niechêtnie rozmawia z ³owcami niewolników, wiêc lepiej spadaj.}
-{410}{}{Lepiej st¹d spadaj... Bez obrazy, ale Tato nie lubi dzikusów.}
-{411}{}{Nawet nie myœl o sprawianiu k³opotów. My, Wrightowie, mamy... eee... mia¿d¿¹c¹ przewagê liczebn¹.}
-{412}{}{Nie krêæ siê tu zbyt d³ugo. Jak masz jakiœ interes, to za³atw go i spadaj.}
-{413}{}{Mam nadziejê, ¿e nie masz przy sobie prochów, w przeciwnym razie Tata ciê za³atwi albo ja to zrobiê.}
-{414}{}{Mam ciê na oku, wiêc uwa¿aj co robisz, zrozumiano?}
-{415}{}{Sk¹d jesteœ? Dawno tu nie by³o ¿adnych dzikusów.}
-{416}{}{Jeœli szukasz alkoholu, to rozejrzyj siê na stacji kolejowej, w pó³nocnej czêœci miasta... tutaj nic nie kupisz.}
-{417}{}{SkrzywdŸ tylko któregoœ Wrighta, £owco, a ca³a rodzina bêdzie ciê œcigaæ a¿ do œmierci.}
-{418}{}{Masz jakiœ interes do Taty? Powodzenia, ale on raczej nie szuka nowych pomocników.}
-{425}{}{Ten ghul nie powinien siê tu krêciæ. Lepiej odeœlij go do domu.}
-{426}{}{Nie krêæ siê z tym ghulem ko³o dzieci. Mog¹ zostaæ napromieniowane.}
-{427}{}{Zabiesz st¹d lepiej tego ghula, albo bêd¹ k³opoty.}
-{1204}{}{! Najwy¿szy czas, ¿eby ktoœ skopa³ dup... ty³ek Enklawie!}
-{1205}{}{. To naprawdê niezwyk³y wyczyn.}
-{1240}{}{. Co siê z tob¹ dzia³o?}
+{325}{}{Co to ma byÄ‡?! Mechwarrior? Grasz w Fallout 2. Chyba pomyliÅ‚y ci siÄ™ ikonki!}
+{326}{}{Jak sobie radzisz w toalecie z caÅ‚ym tym Å¼elastwem na sobie?}
+{335}{}{Jak siÄ™ masz, }
+{336}{}{Dobrze ciÄ™ mieÄ‡ w rodzinie, eee, chociaÅ¼ tak naprawdÄ™ to nie jesteÅ› z rodziny, wiesz? ZresztÄ…, niewaÅ¼ne.}
+{337}{}{Podobno Tommy Twardziel wrÃ³ciÅ‚ do miasta.}
+{338}{}{My, Wrightowie jesteÅ›my najsilniejszÄ… rodzinÄ…, bo my JESTEÅšMY rodzinÄ….}
+{339}{}{Szkoda mojego mÅ‚odszego brata. To byÅ‚ dobry dzieciak, ale Jet zupeÅ‚nie wypaliÅ‚ mu mÃ³zg...}
+{340}{}{Tata powiedziaÅ‚, Å¼e udusi nas, jeÅ›li chociaÅ¼ pomyÅ›limy o braniu Jetu.}
+{341}{}{Tata ciÄ…gle jest wÅ›ciekÅ‚y, wiÄ™c lepiej uwaÅ¼aj rozmawiajÄ…c z nim.}
+{342}{}{Chris dostanie baty jak nie przestanie wymykaÄ‡ siÄ™ do burdelu.}
+{343}{}{Cholernie gorÄ…co...}
+{344}{}{Ciekawe, co porabia Mama. Jak jÄ… zobaczysz nie mÃ³w jej o aparaturze, dobra?}
+{345}{}{W zeszÅ‚ym tygodniu Keith rozÅ‚oÅ¼yÅ‚ na czÄ™Å›ci pianino, a potem poskÅ‚adaÅ‚ je do kupy. Bystry dzieciak.}
+{346}{}{Za parÄ™ dni znÃ³w ruszamy polowaÄ‡ na radskorpiony.}
+{347}{}{JeÅ›li szukasz alkoholu, to rozejrzyj siÄ™ na stacji kolejowej, w pÃ³Å‚nocnej czÄ™Å›ci miasta... tutaj nic nie kupisz.}
+{348}{}{UwaÅ¼aj na dzieciaki. Bez przerwy plÄ…czÄ… siÄ™ pod nogami.}
+{349}{}{Nauczysz mnie tak walczyÄ‡?}
+{350}{}{Hej jesteÅ› }
+{351}{}{Dobrze walczysz. Porozmawiaj z TatÄ…... eee, z szefem. MoÅ¼e znajdzie dla ciebie jakÄ…Å› robotÄ™.}
+{352}{}{PrzydaÅ‚by siÄ™ nam ktoÅ› twojego pokroju.}
+{353}{}{Kiedy bÄ™dziesz znowu walczyÄ‡?}
+{354}{}{Nie mogÄ™ na ciebie postawiÄ‡. Mama urwaÅ‚aby mi gÅ‚owÄ™ za hazard.}
+{355}{}{SiÅ‚y ci nie brakuje, to fakt.}
+{356}{}{UwaÅ¼aj na PrzeÅ¼uwacza, dobra? To wredny typ. Zanim siÄ™ obejrzysz, odgryzie ci ucho.}
+{360}{}{Mama mÃ³wi, Å¼e jesteÅ› diabelskim nasieniem. Albo, Å¼e masz diabelskie nasienie. CoÅ› w tym stylu.}
+{361}{}{Nie krÄ™Ä‡ siÄ™ tutaj... Jak ciÄ™ Mama zobaczy, bÄ™dzie awantura.}
+{362}{}{No i jak to jest w przemyÅ›le filmowym? Mama nie pozwala mi oglÄ…daÄ‡ twoich filmÃ³w.}
+{363}{}{Tylko nie mÃ³w maluchom czym siÄ™ zajmujesz.}
+{364}{}{Mama siÄ™ wÅ›cieknie jak ciÄ™ zobaczy. Jest bardzo wyczulona na twoim punkcie.}
+{365}{}{JeÅ›li szukasz alkoholu, to rozejrzyj siÄ™ na stacji kolejowej, w pÃ³Å‚nocnej czÄ™Å›ci miasta... tutaj nic nie kupisz.}
+{366}{}{My, Wrightowie jesteÅ›my najsilniejszÄ… rodzinÄ…, bo my JESTEÅšMY rodzinÄ….}
+{367}{}{Szkoda mojego mÅ‚odszego brata. To byÅ‚ dobry dzieciak, ale Jet zupeÅ‚nie wypaliÅ‚ mu mÃ³zg...}
+{368}{}{Tata powiedziaÅ‚, Å¼e udusi nas, jeÅ›li chociaÅ¼ pomyÅ›limy o braniu Jetu.}
+{369}{}{Tata ciÄ…gle jest wÅ›ciekÅ‚y, wiÄ™c lepiej uwaÅ¼aj rozmawiajÄ…c z nim.}
+{370}{}{Chris dostanie baty jak nie przestanie wymykaÄ‡ siÄ™ do burdelu.}
+{371}{}{Cholernie gorÄ…co...}
+{372}{}{W zeszÅ‚ym tygodniu Keith rozÅ‚oÅ¼yÅ‚ na czÄ™Å›ci pianino, a potem poskÅ‚adaÅ‚ je do kupy. Bystry dzieciak.}
+{373}{}{Za parÄ™ dni znÃ³w ruszamy polowaÄ‡ na radskorpiony.}
+{374}{}{Czy naprawdÄ™ rozmawiasz z Bogiem, kiedy uprawiasz seks przed kamerami?}
+{375}{}{Mama mÃ³wi, Å¼e jesteÅ› diabelskim nasieniem.}
+{376}{}{Mama mÃ³wi, Å¼e jesteÅ› kurtyzanÄ…. ZbÅ‚Ä…kanÄ… owieczkÄ…. Nie mam pojÄ™cia o co jej chodzi.}
+{385}{}{Masz jakiÅ› interes do Taty? Powodzenia, ale on raczej nie szuka nowych pomocnikÃ³w.}
+{386}{}{JeÅ›li szukasz alkoholu, to rozejrzyj siÄ™ na stacji kolejowej, w pÃ³Å‚nocnej czÄ™Å›ci miasta... tutaj nic nie kupisz.}
+{387}{}{UwaÅ¼aj na siebie, przyjacielu. JesteÅ› na terenie rodziny WrightÃ³w.}
+{390}{}{Lepiej stÄ…d spadaj... nie przepadamy tu za Å‚owcami niewolnikÃ³w.}
+{391}{}{Nawet nie myÅ›l o porywaniu stÄ…d kogokolwiek. Jak bÄ™dziesz sprawiaÄ‡ kÅ‚opoty to ciÄ™ wypatroszymy.}
+{392}{}{Trzymaj siÄ™ z daleka ode mnie, Åowco. JeÅ›li masz jakiÅ› interes do Taty, to zaÅ‚atw go szybko i spadaj.}
+{393}{}{Mam nadziejÄ™, Å¼e nie masz przy sobie prochÃ³w, w przeciwnym razie Tata ciÄ™ zaÅ‚atwi albo ja to zrobiÄ™.}
+{394}{}{Mam ciÄ™ na oku, Åowco, wiÄ™c uwaÅ¼aj co robisz, zrozumiano?}
+{395}{}{Trzymaj siÄ™ z dala od dzieci, sÅ‚yszysz? Jeden podejrzany ruch i nafaszerujÄ™ ciÄ™ oÅ‚owiem.}
+{396}{}{ZbliÅ¼ siÄ™ tylko do dzieci, Å‚owco, a zastrzelÄ™ ciÄ™ jak psa.}
+{397}{}{JeÅ›li szukasz alkoholu, to rozejrzyj siÄ™ na stacji kolejowej, w pÃ³Å‚nocnej czÄ™Å›ci miasta... tutaj nic nie kupisz.}
+{398}{}{SkrzywdÅº tylko ktÃ³regoÅ› Wrighta, Åowco, a caÅ‚a rodzina bÄ™dzie ciÄ™ Å›cigaÄ‡ aÅ¼ do Å›mierci.}
+{399}{}{Masz jakiÅ› interes do Taty? On niechÄ™tnie rozmawia z Å‚owcami niewolnikÃ³w, wiÄ™c lepiej spadaj.}
+{410}{}{Lepiej stÄ…d spadaj... Bez obrazy, ale Tato nie lubi dzikusÃ³w.}
+{411}{}{Nawet nie myÅ›l o sprawianiu kÅ‚opotÃ³w. My, Wrightowie, mamy... eee... miaÅ¼dÅ¼Ä…cÄ… przewagÄ™ liczebnÄ….}
+{412}{}{Nie krÄ™Ä‡ siÄ™ tu zbyt dÅ‚ugo. Jak masz jakiÅ› interes, to zaÅ‚atw go i spadaj.}
+{413}{}{Mam nadziejÄ™, Å¼e nie masz przy sobie prochÃ³w, w przeciwnym razie Tata ciÄ™ zaÅ‚atwi albo ja to zrobiÄ™.}
+{414}{}{Mam ciÄ™ na oku, wiÄ™c uwaÅ¼aj co robisz, zrozumiano?}
+{415}{}{SkÄ…d jesteÅ›? Dawno tu nie byÅ‚o Å¼adnych dzikusÃ³w.}
+{416}{}{JeÅ›li szukasz alkoholu, to rozejrzyj siÄ™ na stacji kolejowej, w pÃ³Å‚nocnej czÄ™Å›ci miasta... tutaj nic nie kupisz.}
+{417}{}{SkrzywdÅº tylko ktÃ³regoÅ› Wrighta, Åowco, a caÅ‚a rodzina bÄ™dzie ciÄ™ Å›cigaÄ‡ aÅ¼ do Å›mierci.}
+{418}{}{Masz jakiÅ› interes do Taty? Powodzenia, ale on raczej nie szuka nowych pomocnikÃ³w.}
+{425}{}{Ten ghul nie powinien siÄ™ tu krÄ™ciÄ‡. Lepiej odeÅ›lij go do domu.}
+{426}{}{Nie krÄ™Ä‡ siÄ™ z tym ghulem koÅ‚o dzieci. MogÄ… zostaÄ‡ napromieniowane.}
+{427}{}{Zabiesz stÄ…d lepiej tego ghula, albo bÄ™dÄ… kÅ‚opoty.}
+{1204}{}{! NajwyÅ¼szy czas, Å¼eby ktoÅ› skopaÅ‚ dup... tyÅ‚ek Enklawie!}
+{1205}{}{. To naprawdÄ™ niezwykÅ‚y wyczyn.}
+{1240}{}{. Co siÄ™ z tobÄ… dziaÅ‚o?}
 {1241}{}{?}
 {1242}{}{. Jak leci?}
-{1245}{}{! I to uzbrojony! Zawo³aj resztê!}
-{1250}{}{! I ma broñ! Zawo³aj resztê!}
-{1255}{}{ krêci siê w pobli¿u! Zawo³aj resztê!}
-{1335}{}{? Jakieœ k³opoty?}
-{1350}{}{, nie? Œwietnie sobie radzisz na ringu.}
+{1245}{}{! I to uzbrojony! ZawoÅ‚aj resztÄ™!}
+{1250}{}{! I ma broÅ„! ZawoÅ‚aj resztÄ™!}
+{1255}{}{ krÄ™ci siÄ™ w pobliÅ¼u! ZawoÅ‚aj resztÄ™!}
+{1335}{}{? JakieÅ› kÅ‚opoty?}
+{1350}{}{, nie? Åšwietnie sobie radzisz na ringu.}

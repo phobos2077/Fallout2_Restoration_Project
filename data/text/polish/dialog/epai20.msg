@@ -1,3 +1,3 @@
-{100}{}{Nieprawid≥owe has≥o. BlokujÍ system.}
-{101}{}{Prawid≥owe has≥o.}
+{100}{}{Nieprawid≈Çowe has≈Ço. Blokujƒô system.}
+{101}{}{Prawid≈Çowe has≈Ço.}
 {102}{}{DONICZKA}

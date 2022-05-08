@@ -1,113 +1,113 @@
 {100}{}{Widzisz schorowanego niewolnika.}
 {101}{}{Widzisz odurzonego niewolnika.}
 {102}{}{Widzisz niewolnika.}
-{150}{}{Widzisz mê¿czyznê. Wygl¹da na za³amanego. Rozgl¹da siê nerwowo po okolicy, jakby œledzi³ wzrokiem niewidzialn¹ muchê.}
-{151}{}{Widzisz schorowanego niewolnika. Wygl¹da na potwornie przera¿onego i nie mo¿e na niczym skupiæ uwagi.}
-{152}{}{Widzisz schorowanego niewolnika. Jest nieludzko wychudzony i brudny, a jego ciuchy wygl¹daj¹ jak podarte szmaty.}
-{153}{}{Widzisz schorowanego niewolnika. Czêsto kaszle i pluje krwi¹. Jego rêce nieustannie dr¿¹.}
-{154}{}{Widzisz schorowanego niewolnika. Czuæ go ka³em i uryn¹.}
-{155}{}{Widzisz schorowanego niewolnika. Ma przekrwione oczy i chyba straci³ wszystkie zêby.}
-{156}{}{Widzisz schorowanego niewolnika. Jego twarz i szyjê pokrywa jakaœ wysypka. Od czasu do czasu niezdarnie siê drapie.}
-{160}{}{Widzisz kobietê. Wygl¹da na za³aman¹. Bez przerwy wpatruje siê w ziemiê, jakby ba³a siê podnieœæ wzrok.}
-{161}{}{Widzisz schorowan¹ kobietê. Wygl¹da na potwornie przera¿on¹ i nie mo¿e na niczym skupiæ uwagi.}
-{162}{}{Widzisz schorowan¹ kobietê. Zdaje siê nie zauwa¿aæ much siadaj¹cych jej na twarzy i rêkach.}
-{163}{}{Widzisz schorowan¹ kobietê. Jest nieludzko wychudzona i brudna, a jej ciuchy wygl¹daj¹ jak podarte szmaty.}
-{164}{}{Widzisz schorowan¹ kobietê. Oddychanie zdaje siê jej sprawiaæ wielk¹ trudnoœæ.}
-{165}{}{Widzisz schorowan¹ kobietê. Czuæ j¹ ka³em i uryn¹.}
-{166}{}{Widzisz schorowan¹ kobietê. Jej twarz i szyjê pokrywaj¹ ropiej¹ce strupy.}
-{167}{}{Widzisz schorowan¹ kobietê. Wygl¹da, jakby próbowa³a p³akaæ, ale nie mia³a ju¿ si³y.}
-{170}{}{Widzisz obdartego mê¿czyznê. Patrzy przed siebie têpym spojrzeniem.}
-{171}{}{Widzisz odurzonego niewolnika. Rozgl¹da siê gor¹czkowo dooko³a.}
-{172}{}{Widzisz odurzonego niewolnika. W³aœnie wbi³ zêby we w³asne przedramiê i zaczyna je powoli ¿uæ.}
-{173}{}{Widzisz odurzonego niewolnika. Na jego twarzy b³¹ka siê s³aby uœmiech, ale oczy s¹ puste i szkliste.}
-{174}{}{Widzisz odurzonego niewolnika. Oczy wlepi³ w niebo i trochê siê œlini.}
-{175}{}{Widzisz odurzonego niewolnika. Na twój widok mru¿y oczy i z trudem siê uœmiecha. Potem kryje twarz w d³oniach i zaczyna szlochaæ.}
-{180}{}{Widzisz rozgor¹czkowan¹ kobietê. Intensywnie wpatruje siê w ziemiê, jakby ba³a siê straciæ j¹ choæ na chwilê z oczu.}
-{181}{}{Widzisz odurzon¹ kobietê. Chichocze nie zwa¿aj¹c na krew sp³ywaj¹c¹ z k¹cików jej ust.}
-{182}{}{Widzisz odurzon¹ kobietê. Na szyi i nadgarstkach ma jasne blizny po obro¿y i kajdanach.}
-{183}{}{Widzisz odurzon¹ kobietê. Intensywnie mruga oczami, jakby nie do koñca wierz¹c w to co widzi.}
-{184}{}{Widzisz odurzon¹ kobietê. Z zapa³em drapie swoje przedramiê tak intensywnie, ¿e zdziera z niego skórê do krwi. Zdaje siê tego nie zauwa¿aæ.}
-{185}{}{Widzisz odurzon¹ kobietê. NajwyraŸniej nie mo¿e przestaæ wymiotowaæ.}
-{190}{}{Widzisz wychudzonego mê¿czyznê. Jego ledwie okryte cia³o pokrywaj¹ siñce i zadrapania. Usilnie wpatruje siê we w³asne stopy.}
+{150}{}{Widzisz mÄ™Å¼czyznÄ™. WyglÄ…da na zaÅ‚amanego. RozglÄ…da siÄ™ nerwowo po okolicy, jakby Å›ledziÅ‚ wzrokiem niewidzialnÄ… muchÄ™.}
+{151}{}{Widzisz schorowanego niewolnika. WyglÄ…da na potwornie przeraÅ¼onego i nie moÅ¼e na niczym skupiÄ‡ uwagi.}
+{152}{}{Widzisz schorowanego niewolnika. Jest nieludzko wychudzony i brudny, a jego ciuchy wyglÄ…dajÄ… jak podarte szmaty.}
+{153}{}{Widzisz schorowanego niewolnika. CzÄ™sto kaszle i pluje krwiÄ…. Jego rÄ™ce nieustannie drÅ¼Ä….}
+{154}{}{Widzisz schorowanego niewolnika. CzuÄ‡ go kaÅ‚em i urynÄ….}
+{155}{}{Widzisz schorowanego niewolnika. Ma przekrwione oczy i chyba straciÅ‚ wszystkie zÄ™by.}
+{156}{}{Widzisz schorowanego niewolnika. Jego twarz i szyjÄ™ pokrywa jakaÅ› wysypka. Od czasu do czasu niezdarnie siÄ™ drapie.}
+{160}{}{Widzisz kobietÄ™. WyglÄ…da na zaÅ‚amanÄ…. Bez przerwy wpatruje siÄ™ w ziemiÄ™, jakby baÅ‚a siÄ™ podnieÅ›Ä‡ wzrok.}
+{161}{}{Widzisz schorowanÄ… kobietÄ™. WyglÄ…da na potwornie przeraÅ¼onÄ… i nie moÅ¼e na niczym skupiÄ‡ uwagi.}
+{162}{}{Widzisz schorowanÄ… kobietÄ™. Zdaje siÄ™ nie zauwaÅ¼aÄ‡ much siadajÄ…cych jej na twarzy i rÄ™kach.}
+{163}{}{Widzisz schorowanÄ… kobietÄ™. Jest nieludzko wychudzona i brudna, a jej ciuchy wyglÄ…dajÄ… jak podarte szmaty.}
+{164}{}{Widzisz schorowanÄ… kobietÄ™. Oddychanie zdaje siÄ™ jej sprawiaÄ‡ wielkÄ… trudnoÅ›Ä‡.}
+{165}{}{Widzisz schorowanÄ… kobietÄ™. CzuÄ‡ jÄ… kaÅ‚em i urynÄ….}
+{166}{}{Widzisz schorowanÄ… kobietÄ™. Jej twarz i szyjÄ™ pokrywajÄ… ropiejÄ…ce strupy.}
+{167}{}{Widzisz schorowanÄ… kobietÄ™. WyglÄ…da, jakby prÃ³bowaÅ‚a pÅ‚akaÄ‡, ale nie miaÅ‚a juÅ¼ siÅ‚y.}
+{170}{}{Widzisz obdartego mÄ™Å¼czyznÄ™. Patrzy przed siebie tÄ™pym spojrzeniem.}
+{171}{}{Widzisz odurzonego niewolnika. RozglÄ…da siÄ™ gorÄ…czkowo dookoÅ‚a.}
+{172}{}{Widzisz odurzonego niewolnika. WÅ‚aÅ›nie wbiÅ‚ zÄ™by we wÅ‚asne przedramiÄ™ i zaczyna je powoli Å¼uÄ‡.}
+{173}{}{Widzisz odurzonego niewolnika. Na jego twarzy bÅ‚Ä…ka siÄ™ sÅ‚aby uÅ›miech, ale oczy sÄ… puste i szkliste.}
+{174}{}{Widzisz odurzonego niewolnika. Oczy wlepiÅ‚ w niebo i trochÄ™ siÄ™ Å›lini.}
+{175}{}{Widzisz odurzonego niewolnika. Na twÃ³j widok mruÅ¼y oczy i z trudem siÄ™ uÅ›miecha. Potem kryje twarz w dÅ‚oniach i zaczyna szlochaÄ‡.}
+{180}{}{Widzisz rozgorÄ…czkowanÄ… kobietÄ™. Intensywnie wpatruje siÄ™ w ziemiÄ™, jakby baÅ‚a siÄ™ straciÄ‡ jÄ… choÄ‡ na chwilÄ™ z oczu.}
+{181}{}{Widzisz odurzonÄ… kobietÄ™. Chichocze nie zwaÅ¼ajÄ…c na krew spÅ‚ywajÄ…cÄ… z kÄ…cikÃ³w jej ust.}
+{182}{}{Widzisz odurzonÄ… kobietÄ™. Na szyi i nadgarstkach ma jasne blizny po obroÅ¼y i kajdanach.}
+{183}{}{Widzisz odurzonÄ… kobietÄ™. Intensywnie mruga oczami, jakby nie do koÅ„ca wierzÄ…c w to co widzi.}
+{184}{}{Widzisz odurzonÄ… kobietÄ™. Z zapaÅ‚em drapie swoje przedramiÄ™ tak intensywnie, Å¼e zdziera z niego skÃ³rÄ™ do krwi. Zdaje siÄ™ tego nie zauwaÅ¼aÄ‡.}
+{185}{}{Widzisz odurzonÄ… kobietÄ™. NajwyraÅºniej nie moÅ¼e przestaÄ‡ wymiotowaÄ‡.}
+{190}{}{Widzisz wychudzonego mÄ™Å¼czyznÄ™. Jego ledwie okryte ciaÅ‚o pokrywajÄ… siÅ„ce i zadrapania. Usilnie wpatruje siÄ™ we wÅ‚asne stopy.}
 {191}{}{Widzisz poturbowanego niewolnika.}
-{192}{}{Widzisz wychudzonego niewolnika. Jego ledwie okryte cia³o pokrywaj¹ siñce i zadrapania. Usilnie wpatruje siê we w³asne stopy.}
-{195}{}{Widzisz rozgor¹czkowan¹ kobietê. Jej cia³o pokrywaj¹ siñce a jej odzienie zwisa w strzêpach.}
-{196}{}{Widzisz niewolnicê.}
-{197}{}{Widzisz niewolnicê. Jej cia³o pokrywaj¹ siñce. Co kilka chwil ma napady dreszczy.}
+{192}{}{Widzisz wychudzonego niewolnika. Jego ledwie okryte ciaÅ‚o pokrywajÄ… siÅ„ce i zadrapania. Usilnie wpatruje siÄ™ we wÅ‚asne stopy.}
+{195}{}{Widzisz rozgorÄ…czkowanÄ… kobietÄ™. Jej ciaÅ‚o pokrywajÄ… siÅ„ce a jej odzienie zwisa w strzÄ™pach.}
+{196}{}{Widzisz niewolnicÄ™.}
+{197}{}{Widzisz niewolnicÄ™. Jej ciaÅ‚o pokrywajÄ… siÅ„ce. Co kilka chwil ma napady dreszczy.}
 {200}{}{::Yyyh::}
 {201}{}{::Huuuh::}
 {202}{}{::Kaszle::}
-{203}{}{::Drapie siê.::}
+{203}{}{::Drapie siÄ™.::}
 {204}{}{::Odgania muchy::}
 {210}{}{::Yyyh::}
 {211}{}{*Chichocze*}
 {212}{}{Heeeeeeee}
 {213}{}{Hee heeeee hee... hee...}
 {214}{}{EeeeEEEEeeeeEEEE}
-{220}{}{::Patrzy têpo przed siebie::}
+{220}{}{::Patrzy tÄ™po przed siebie::}
 {221}{}{::Cicho szlocha::}
-{222}{}{::Wpatruje siê w ciebie::}
-{223}{}{::G³upawo mruga do ciebie::}
-{224}{}{::G³oœno kaszle::}
-{225}{}{::Mamrocze coœ bez sensu.::}
+{222}{}{::Wpatruje siÄ™ w ciebie::}
+{223}{}{::GÅ‚upawo mruga do ciebie::}
+{224}{}{::GÅ‚oÅ›no kaszle::}
+{225}{}{::Mamrocze coÅ› bez sensu.::}
 {226}{}{Hnnnnh.... hnnn}
 {227}{}{::Wyciera nos::}
 {228}{}{Hunnnnnh}
 {229}{}{Rrrurrr... rr... ::Kaszle::}
 {240}{}{::Przeciera oczy::}
-{241}{}{::Kwiczy jak zarzynana œwinia::}
-{242}{}{::Drapie siê w g³owê i przeciera oczy::}
+{241}{}{::Kwiczy jak zarzynana Å›winia::}
+{242}{}{::Drapie siÄ™ w gÅ‚owÄ™ i przeciera oczy::}
 {243}{}{Hee heeeee hee... hee...}
 {244}{}{Kici Kici Kiiici}
 {245}{}{Hoo-hooooo}
 {246}{}{EeeeEEEEeeeeEEEE}
-{247}{}{Moje oczy s¹ wielkimi czarnymi muchami}
+{247}{}{Moje oczy sÄ… wielkimi czarnymi muchami}
 {248}{}{Raz, dwa... Raz, dwa, trzy...}
 {249}{}{Huu Huuu}
 {250}{}{Muuuuuuu}
-{251}{}{Dobry i z³y, dobry i z³y}
-{252}{}{Œwietnie wspaniale jasno}
-{260}{}{Tak, mam ju¿ w³aœciciela. Mój pan ma wszystkie papiery.}
-{261}{}{B³agam, zostaw mnie w spokoju. Mam ju¿ w³aœciciela.}
-{262}{}{B³agam ciê: wiesz mo¿e co siê sta³o z moimi dzieæmi...? Zabrali je inni ³owcy i sprzedali gdzieœ na pó³nocy.}
-{263}{}{Proszê... Nie wolno mi z nikim rozmawiaæ.}
-{264}{}{Proszê... zostaw mnie. Mój pan nied³ugo wróci.}
-{265}{}{Jeœli mój pan dowie siê, ¿e rozmawiam z ³owc¹ niewolników, ka¿e mnie zbiæ.}
-{266}{}{Ja ju¿ mam pana. Nie powinniœmy rozmawiaæ.}
-{267}{}{Nie mogê z tob¹ rozmawiaæ. Mam pilne obowi¹zki.}
-{268}{}{Jak mnie z³api¹ na rozmowie z ³owc¹ niewolników, wyœl¹ mnie do testowania prochów!}
-{269}{}{OdejdŸ natychmiast. Nie chcê tutaj ¿adnych problemów.}
-{270}{}{Uciec? Ja... nigdy siê nie odwa¿ê na sprzeciwienie siê woli mojego pana. Nie zamierzam uciekaæ.}
-{280}{}{Jak mnie z³api¹ na rozmowie z tob¹, skieruj¹ mnie do testowania prochów.}
-{281}{}{Jeden mój znajomy niewolnik zgin¹³ parê dni temu po przedawkowaniu.}
-{282}{}{Testuj¹ na nas nowe prochy. Niektóre z nich s¹ zabójcze.}
-{283}{}{Mój pan jest dla mnie... bardzo dobry.}
-{284}{}{Mój pan zakaza³ mi rozmów z obcymi.}
-{285}{}{Proszê... Nie wolno mi z nikim rozmawiaæ.}
-{286}{}{Proszê, zostaw mnie. Mój pan nied³ugo wróci.}
-{287}{}{Jak mój pan dowie siê o naszej rozmowie, bêdzie bardzo z³y.}
-{288}{}{Mój pan jest bardzo dobry. Nie bije mnie zbyt czêsto.}
-{289}{}{Nie brakuje mi rodziny. Mój pan jest bardzo dobry.}
-{290}{}{Pewnego dnia z wioski na pó³nocy zosta³em wywiezionny z wioski plemiennej na pó³noc st¹d. ¯ycie tutaj jest o wiele... Lepsze.}
-{291}{}{Z³apali mnie ko³o Nory.}
-{292}{}{Nie mogê z tob¹ teraz rozmawiaæ. Mam wiele rzeczy do zrobienia.}
-{293}{}{Muszê skoñczyæ pracê zanim wróci mój pan.}
-{294}{}{Zabroniono nam rozmawiaæ z obcymi.}
-{295}{}{OdejdŸ st¹d, b³agam. Przez ciebie bêdê mieæ k³opoty.}
-{296}{}{Uciec? A niby dok¹d? Pustkowie pe³ne s¹ okrutnych potworów, które po¿r¹ nas przed up³ywem dnia.}
-{297}{}{Niewolnicy, którzy siê rozchoruj¹ s¹ zwykle zabijani.}
-{298}{}{Jestem jednym z niewolników, którzy dotrwali do Nowego Reno. Dwóch innych rozchorowa³o siê po drodze i zostali rozstrzelani.}
-{299}{}{Tak? Czym mogê s³u¿yæ?}
-{300}{}{Podobno jest tu podziemna kolej, ale chyba jeszcze nikt st¹d nie uciek³.}
-{301}{}{Julia uciek³a, ale z³apali j¹ w Golgocie nastêpnego dnia. Przywi¹zali j¹ do ko³a i pozwolili umrzeæ z g³odu.}
-{302}{}{Schwytani uciekinierzy s¹ traceni w Golgocie.}
-{303}{}{Nie, nie wiem gdzie jest moja rodzina. Czasem o nich myœlê... Ale niezbyt czêsto.}
-{304}{}{Nowe Reno jest... nie jest takie z³e jak Nora. Zwykle nie jest.}
-{305}{}{::Odwraca siê.::}
-{306}{}{::Ignoruje ciê.::}
-{307}{}{Jak ju¿ poznasz zwyczaje nowego pana, to bij¹ ciê znacznie... rzadziej.}
-{308}{}{Handlarze ¿ywym towarem z³apali mnie dawno temu. By³o to dla mnie okropne prze¿ycie.}
-{309}{}{Nie wiem co siê sta³o z moimi dzieæmi. Wys³ano je na pó³noc. Mam nadziejê, ¿e maj¹ tam lepiej ni¿ ja.}
-{310}{}{Przykro mi, ale nie mam czasu na rozmowê.}
-{311}{}{Mój pan bardzo siê na mnie rozz³oœci³. Powiedzia³, ¿e sprzeda mnie do Stajni, jeœli jeszcze raz go nie pos³ucham.}
-{312}{}{Uciekinierzy gin¹ w Golgocie, albo s¹ wysy³ani do Stajni na testy.}
+{251}{}{Dobry i zÅ‚y, dobry i zÅ‚y}
+{252}{}{Åšwietnie wspaniale jasno}
+{260}{}{Tak, mam juÅ¼ wÅ‚aÅ›ciciela. MÃ³j pan ma wszystkie papiery.}
+{261}{}{BÅ‚agam, zostaw mnie w spokoju. Mam juÅ¼ wÅ‚aÅ›ciciela.}
+{262}{}{BÅ‚agam ciÄ™: wiesz moÅ¼e co siÄ™ staÅ‚o z moimi dzieÄ‡mi...? Zabrali je inni Å‚owcy i sprzedali gdzieÅ› na pÃ³Å‚nocy.}
+{263}{}{ProszÄ™... Nie wolno mi z nikim rozmawiaÄ‡.}
+{264}{}{ProszÄ™... zostaw mnie. MÃ³j pan niedÅ‚ugo wrÃ³ci.}
+{265}{}{JeÅ›li mÃ³j pan dowie siÄ™, Å¼e rozmawiam z Å‚owcÄ… niewolnikÃ³w, kaÅ¼e mnie zbiÄ‡.}
+{266}{}{Ja juÅ¼ mam pana. Nie powinniÅ›my rozmawiaÄ‡.}
+{267}{}{Nie mogÄ™ z tobÄ… rozmawiaÄ‡. Mam pilne obowiÄ…zki.}
+{268}{}{Jak mnie zÅ‚apiÄ… na rozmowie z Å‚owcÄ… niewolnikÃ³w, wyÅ›lÄ… mnie do testowania prochÃ³w!}
+{269}{}{OdejdÅº natychmiast. Nie chcÄ™ tutaj Å¼adnych problemÃ³w.}
+{270}{}{Uciec? Ja... nigdy siÄ™ nie odwaÅ¼Ä™ na sprzeciwienie siÄ™ woli mojego pana. Nie zamierzam uciekaÄ‡.}
+{280}{}{Jak mnie zÅ‚apiÄ… na rozmowie z tobÄ…, skierujÄ… mnie do testowania prochÃ³w.}
+{281}{}{Jeden mÃ³j znajomy niewolnik zginÄ…Å‚ parÄ™ dni temu po przedawkowaniu.}
+{282}{}{TestujÄ… na nas nowe prochy. NiektÃ³re z nich sÄ… zabÃ³jcze.}
+{283}{}{MÃ³j pan jest dla mnie... bardzo dobry.}
+{284}{}{MÃ³j pan zakazaÅ‚ mi rozmÃ³w z obcymi.}
+{285}{}{ProszÄ™... Nie wolno mi z nikim rozmawiaÄ‡.}
+{286}{}{ProszÄ™, zostaw mnie. MÃ³j pan niedÅ‚ugo wrÃ³ci.}
+{287}{}{Jak mÃ³j pan dowie siÄ™ o naszej rozmowie, bÄ™dzie bardzo zÅ‚y.}
+{288}{}{MÃ³j pan jest bardzo dobry. Nie bije mnie zbyt czÄ™sto.}
+{289}{}{Nie brakuje mi rodziny. MÃ³j pan jest bardzo dobry.}
+{290}{}{Pewnego dnia z wioski na pÃ³Å‚nocy zostaÅ‚em wywiezionny z wioski plemiennej na pÃ³Å‚noc stÄ…d. Å»ycie tutaj jest o wiele... Lepsze.}
+{291}{}{ZÅ‚apali mnie koÅ‚o Nory.}
+{292}{}{Nie mogÄ™ z tobÄ… teraz rozmawiaÄ‡. Mam wiele rzeczy do zrobienia.}
+{293}{}{MuszÄ™ skoÅ„czyÄ‡ pracÄ™ zanim wrÃ³ci mÃ³j pan.}
+{294}{}{Zabroniono nam rozmawiaÄ‡ z obcymi.}
+{295}{}{OdejdÅº stÄ…d, bÅ‚agam. Przez ciebie bÄ™dÄ™ mieÄ‡ kÅ‚opoty.}
+{296}{}{Uciec? A niby dokÄ…d? Pustkowie peÅ‚ne sÄ… okrutnych potworÃ³w, ktÃ³re poÅ¼rÄ… nas przed upÅ‚ywem dnia.}
+{297}{}{Niewolnicy, ktÃ³rzy siÄ™ rozchorujÄ… sÄ… zwykle zabijani.}
+{298}{}{Jestem jednym z niewolnikÃ³w, ktÃ³rzy dotrwali do Nowego Reno. DwÃ³ch innych rozchorowaÅ‚o siÄ™ po drodze i zostali rozstrzelani.}
+{299}{}{Tak? Czym mogÄ™ sÅ‚uÅ¼yÄ‡?}
+{300}{}{Podobno jest tu podziemna kolej, ale chyba jeszcze nikt stÄ…d nie uciekÅ‚.}
+{301}{}{Julia uciekÅ‚a, ale zÅ‚apali jÄ… w Golgocie nastÄ™pnego dnia. PrzywiÄ…zali jÄ… do koÅ‚a i pozwolili umrzeÄ‡ z gÅ‚odu.}
+{302}{}{Schwytani uciekinierzy sÄ… traceni w Golgocie.}
+{303}{}{Nie, nie wiem gdzie jest moja rodzina. Czasem o nich myÅ›lÄ™... Ale niezbyt czÄ™sto.}
+{304}{}{Nowe Reno jest... nie jest takie zÅ‚e jak Nora. Zwykle nie jest.}
+{305}{}{::Odwraca siÄ™.::}
+{306}{}{::Ignoruje ciÄ™.::}
+{307}{}{Jak juÅ¼ poznasz zwyczaje nowego pana, to bijÄ… ciÄ™ znacznie... rzadziej.}
+{308}{}{Handlarze Å¼ywym towarem zÅ‚apali mnie dawno temu. ByÅ‚o to dla mnie okropne przeÅ¼ycie.}
+{309}{}{Nie wiem co siÄ™ staÅ‚o z moimi dzieÄ‡mi. WysÅ‚ano je na pÃ³Å‚noc. Mam nadziejÄ™, Å¼e majÄ… tam lepiej niÅ¼ ja.}
+{310}{}{Przykro mi, ale nie mam czasu na rozmowÄ™.}
+{311}{}{MÃ³j pan bardzo siÄ™ na mnie rozzÅ‚oÅ›ciÅ‚. PowiedziaÅ‚, Å¼e sprzeda mnie do Stajni, jeÅ›li jeszcze raz go nie posÅ‚ucham.}
+{312}{}{Uciekinierzy ginÄ… w Golgocie, albo sÄ… wysyÅ‚ani do Stajni na testy.}

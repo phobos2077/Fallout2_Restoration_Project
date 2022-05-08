@@ -1,64 +1,64 @@
 {100}{}{Ves a una parroquiana.}
 {101}{}{Ves a Stacy.}
 {102}{}{Parece un poco triste.}
-{103}{}{¡Déjalo!}
-{104}{}{¿Cómo te atreves?}
-{105}{}{¡Aléjate de mi!}
-{106}{}{¿Por qué?}
-{107}{}{¡Por favor, para!}
-{108}{}{¡Asesina!}
-{109}{}{¡Pobre Mamá! ¡Pagarás por ello!}
-{110}{}{Mamá...}
+{103}{}{Â¡DÃ©jalo!}
+{104}{}{Â¿CÃ³mo te atreves?}
+{105}{}{Â¡AlÃ©jate de mi!}
+{106}{}{Â¿Por quÃ©?}
+{107}{}{Â¡Por favor, para!}
+{108}{}{Â¡Asesina!}
+{109}{}{Â¡Pobre MamÃ¡! Â¡PagarÃ¡s por ello!}
+{110}{}{MamÃ¡...}
 {111}{}{Ella era tan buena con todos...}
-{112}{}{Lo siento, no se me ocurre nada más de interés que decir.}
+{112}{}{Lo siento, no se me ocurre nada mÃ¡s de interÃ©s que decir.}
 {113}{}{Tengo el cerebro seco.}
 {114}{}{Eso es todo.}
 {115}{}{Hola.}
-{116}{}{¿Aún no has ido a ver a Mamá?}
+{116}{}{Â¿AÃºn no has ido a ver a MamÃ¡?}
 {117}{}{Oh, hola.}
-{118}{}{Oh, tú otra vez.}
-{119}{}{Háblame de tu gato.}
-{120}{}{¿A qué viene esa cara tan larga?}
-{121}{}{¿Vienes aquí con frecuencia?}
-{122}{}{Tendré que volver más tarde. Adiós.}
-{123}{}{¿Vale?}
+{118}{}{Oh, tÃº otra vez.}
+{119}{}{HÃ¡blame de tu gato.}
+{120}{}{Â¿A quÃ© viene esa cara tan larga?}
+{121}{}{Â¿Vienes aquÃ­ con frecuencia?}
+{122}{}{TendrÃ© que volver mÃ¡s tarde. AdiÃ³s.}
+{123}{}{Â¿Vale?}
 {124}{}{Uhg.}
 {131}{}{Por favor, no me molestes. Ahora mismo no estoy de humor.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
 {134}{}{Oh, por nada. A veces pienso en mi madre y mi gata. Las echo mucho de menos...}
-{135}{}{¿Gata?}
-{136}{}{Siento oír eso. Adiós.}
-{137}{}{Si, Mimosa. Ella era una gata tan dulce. Pero no tengo ganas de hablar de ella... Bueno, a menos que quieras invitarme a una copa. Eso me ayudaría.}
-{138}{}{Como he dicho, preferiría no hablar sobre ella ahora mismo. Si quieres invitarme, puede que se me suelte la lengua.}
-{139}{}{Por supuesto que lo haré. Me encantaría que me lo contaras.}
+{135}{}{Â¿Gata?}
+{136}{}{Siento oÃ­r eso. AdiÃ³s.}
+{137}{}{Si, Mimosa. Ella era una gata tan dulce. Pero no tengo ganas de hablar de ella... Bueno, a menos que quieras invitarme a una copa. Eso me ayudarÃ­a.}
+{138}{}{Como he dicho, preferirÃ­a no hablar sobre ella ahora mismo. Si quieres invitarme, puede que se me suelte la lengua.}
+{139}{}{Por supuesto que lo harÃ©. Me encantarÃ­a que me lo contaras.}
 {140}{}{Claro.}
-{141}{}{Lo siento, ahora mismo no tengo 10 dólares.}
+{141}{}{Lo siento, ahora mismo no tengo 10 dÃ³lares.}
 {142}{}{Obviamente.}
-{143}{}{¿Crees que eres graciosa o algo? Busca un chiste mejor.}
-{144}{}{¿A qué viene esa cara tan larga?}
-{145}{}{Da igual, adiós.}
-{146}{}{He oído que había algunos gatos que eran tan grandes como tú y yo. Solían comer animales tan grandes como un brahmin. Eso da miedo.}
+{143}{}{Â¿Crees que eres graciosa o algo? Busca un chiste mejor.}
+{144}{}{Â¿A quÃ© viene esa cara tan larga?}
+{145}{}{Da igual, adiÃ³s.}
+{146}{}{He oÃ­do que habÃ­a algunos gatos que eran tan grandes como tÃº y yo. SolÃ­an comer animales tan grandes como un brahmin. Eso da miedo.}
 {147}{}{Eso no es nada.}
-{148}{}{Sí, da miedo.}
-{149}{}{Pero de lo que estoy hablando es de un pequeño animal muy mono, más grande que una rata pero más pequeño que un perro. Algunos son bolas de pelo, como mi Mimosa, pero otros lo tienen corto.}
-{150}{}{¿De verdad?}
-{151}{}{Les gusta que les acaricien como a los perros, pero los gatos emiten un sonido de relajación maravilloso cuando lo haces.}
-{152}{}{Qué raro.}
-{153}{}{Mimosa solía ayudarme a dormir por la noche. Pienso en ella cada vez que me voy a la cama.}
-{154}{}{Qué bien.}
-{155}{}{Continúa.}
-{156}{}{Estaba conmigo cuando era pequeña, pero desapareció. Entonces no supe lo que le había pasado, era demasiado joven.}
-{157}{}{¿Por qué?}
-{158}{}{Bueno, entonces la comida era escasa y la gente tenía que comer. Es bastante triste...}
-{159}{}{¿Qué?}
-{160}{}{La gente se dedicó a cazarlos porque eran presa fácil. Por aquí ya no queda ninguno debido a eso.}
-{161}{}{¡Qué enfermos!}
+{148}{}{SÃ­, da miedo.}
+{149}{}{Pero de lo que estoy hablando es de un pequeÃ±o animal muy mono, mÃ¡s grande que una rata pero mÃ¡s pequeÃ±o que un perro. Algunos son bolas de pelo, como mi Mimosa, pero otros lo tienen corto.}
+{150}{}{Â¿De verdad?}
+{151}{}{Les gusta que les acaricien como a los perros, pero los gatos emiten un sonido de relajaciÃ³n maravilloso cuando lo haces.}
+{152}{}{QuÃ© raro.}
+{153}{}{Mimosa solÃ­a ayudarme a dormir por la noche. Pienso en ella cada vez que me voy a la cama.}
+{154}{}{QuÃ© bien.}
+{155}{}{ContinÃºa.}
+{156}{}{Estaba conmigo cuando era pequeÃ±a, pero desapareciÃ³. Entonces no supe lo que le habÃ­a pasado, era demasiado joven.}
+{157}{}{Â¿Por quÃ©?}
+{158}{}{Bueno, entonces la comida era escasa y la gente tenÃ­a que comer. Es bastante triste...}
+{159}{}{Â¿QuÃ©?}
+{160}{}{La gente se dedicÃ³ a cazarlos porque eran presa fÃ¡cil. Por aquÃ­ ya no queda ninguno debido a eso.}
+{161}{}{Â¡QuÃ© enfermos!}
 {162}{}{Puedo comprenderlo.}
-{163}{}{Quedan los salvajes, pero estoy segura que eso es lo que le pasó a la mía. Ahora sé por qué Mamá siempre la vigilaba.}
+{163}{}{Quedan los salvajes, pero estoy segura que eso es lo que le pasÃ³ a la mÃ­a. Ahora sÃ© por quÃ© MamÃ¡ siempre la vigilaba.}
 {164}{}{Que triste.}
 {165}{}{Lo siento.}
 {166}{}{Oh...}
 {167}{}{Me entristece pensar en ello...}
-{168}{}{Adiós.}
+{168}{}{AdiÃ³s.}
 {169}{}{Stacy te ha contado una triste historia sobre su querida gata Mimosa.}

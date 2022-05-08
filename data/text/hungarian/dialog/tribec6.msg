@@ -2,14 +2,14 @@
 {101}{}{Yeah, I was wondering who you're guarding.}
 {102}{}{Me? Oh no, I don't need anything. Bye.}
 {103}{}{Who you guard?}
-{104}{}{Üdv!}
+{104}{}{Ãœdv!}
 {110}{}{I be guarding tribe's holy leader. He who walks with spirits. Much honor guarding him. Keep out unwanted, like you. Now leave.}
 {111}{}{[DONE]}
 {120}{}{I say to leave, but you don't listen. I unleash spirits of fury when people don't listen. Suggest you get the feet movin'. Now.}
 {121}{}{[DONE]}
 {130}{}{Heard about the good deeds you been doing. See I was wrong about you. Forgive me for being a rude man, fren. Go on in and peep the big man. He be waiting for you.}
 {131}{}{Heard about the good deeds you been doing, fren. Go on in and peep the big man. He be waiting for you.}
-{132}{}{Köszönöm!}
+{132}{}{KÃ¶szÃ¶nÃ¶m!}
 {133}{}{Thankee.}
 {140}{}{Greetings, fren.}
 {141}{}{How goes things, warrior?}

@@ -20,38 +20,38 @@
 {114}{}{VOLUMEN DE SONIDO GENERAL}
 {115}{}{VOLUMEN DE MUSICA/PELICULAS}
 {116}{}{VOLUMEN DE EFECTOS DE SONIDO}
-{117}{}{VOLUMEN DE DI¡LOGOS}
+{117}{}{VOLUMEN DE DI√ÅLOGOS}
 {118}{}{NIVEL DE BRILLO}
 {119}{}{SENSIBILIDAD DEL RATON}
 {120}{}{POR DEFECTO}
 {121}{}{CANCELAR}
 {122}{}{Afecta a la velocidad del jugador}
 {123}{}{Pip-Boy discurso}
-{201}{}{SÌ}
+{201}{}{S√≠}
 {202}{}{No}
-{203}{}{F·cil}
+{203}{}{F√°cil}
 {204}{}{Normal}
-{205}{}{DifÌcil}
-{206}{}{DÈbil}
+{205}{}{Dif√≠cil}
+{206}{}{D√©bil}
 {207}{}{Normal}
 {208}{}{Duro}
 {209}{}{Normal}
-{210}{}{R·pida}
+{210}{}{R√°pida}
 {211}{}{Detallado}
 {212}{}{Breve}
-{213}{}{SÛlo al apuntar}
+{213}{}{S√≥lo al apuntar}
 {214}{}{Nada}
-{215}{}{MÌnima}
+{215}{}{M√≠nima}
 {216}{}{Gore}
 {217}{}{Lento}
-{218}{}{R·pido}
+{218}{}{R√°pido}
 {219}{}{Siempre}
 {220}{}{Mucho}
 {221}{}{Bajo}
 {222}{}{Alto}
-{223}{}{M·ximo}
+{223}{}{M√°ximo}
 {224}{}{Ancho}
 {300}{}{HECHO}
 {301}{}{PAUSA}
-{1000}{}{Lo sentimos, el men˙ de opciones no}
-{1001}{}{est· disponible en la versiÛn demo.}
+{1000}{}{Lo sentimos, el men√∫ de opciones no}
+{1001}{}{est√° disponible en la versi√≥n demo.}

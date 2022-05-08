@@ -1,2 +1,2 @@
-{100}{}{Ez Richard régi szobája.}
-{200}{}{Talán körül kéne nézni.}
+{100}{}{Ez Richard rÃ©gi szobÃ¡ja.}
+{200}{}{TalÃ¡n kÃ¶rÃ¼l kÃ©ne nÃ©zni.}

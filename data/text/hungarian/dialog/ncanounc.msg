@@ -1,31 +1,31 @@
-{100}{}{Hölgyeim és Uraim!}
-{101}{}{Fiúk és Lányok!}
-{102}{}{A mai mérk?zés szponzora...}
+{100}{}{HÃ¶lgyeim Ã©s Uraim!}
+{101}{}{FiÃºk Ã©s LÃ¡nyok!}
+{102}{}{A mai mÃ©rk?zÃ©s szponzora...}
 {103}{}{...a ROTGUT!}
-{104}{}{Ha mindenképpen innod kell, és nem számít, mi az...}
-{105}{}{Válaszd a Rotgut-ot!}
-{106}{}{Ebben a sarokban áll a kihívó, súlya }
-{107}{}{A másik sarokban pedig a címvéd?... súlya }
-{108}{}{Tehát, hogy ne szaporítsuk tovább a szót...}
-{109}{}{Húúúúúúúúúúúzzunk bele! Lássuk, kinek van vér a pucájában!}
-{123}{}{...a Gamma Glutty Sörgyár!}
-{124}{}{Ha a b?rödb?l hiányzik a szükséges "plussz izzás"...}
-{125}{}{Válaszd a Gamma Glutty Sört!}
+{104}{}{Ha mindenkÃ©ppen innod kell, Ã©s nem szÃ¡mÃ­t, mi az...}
+{105}{}{VÃ¡laszd a Rotgut-ot!}
+{106}{}{Ebben a sarokban Ã¡ll a kihÃ­vÃ³, sÃºlya }
+{107}{}{A mÃ¡sik sarokban pedig a cÃ­mvÃ©d?... sÃºlya }
+{108}{}{TehÃ¡t, hogy ne szaporÃ­tsuk tovÃ¡bb a szÃ³t...}
+{109}{}{HÃºÃºÃºÃºÃºÃºÃºÃºÃºÃºÃºzzunk bele! LÃ¡ssuk, kinek van vÃ©r a pucÃ¡jÃ¡ban!}
+{123}{}{...a Gamma Glutty SÃ¶rgyÃ¡r!}
+{124}{}{Ha a b?rÃ¶db?l hiÃ¡nyzik a szÃ¼ksÃ©ges "plussz izzÃ¡s"...}
+{125}{}{VÃ¡laszd a Gamma Glutty SÃ¶rt!}
 {143}{}{...a Cat's Paw Szalon!}
 {144}{}{When you got that itch that you NEED to scratch...}
-{145}{}{Irány a Cat's Paw Szalon!}
+{145}{}{IrÃ¡ny a Cat's Paw Szalon!}
 {163}{}{...a New Reno-i Fegyverbolt!}
 {164}{}{Ha messzir?l akarsz valakit lel?ni...}
-{165}{}{Látogass el a New Reno-i fegyverboltba!}
-{200}{}{A legújabb gy??????????zzztesünk...}
-{201}{}{...mégpedig kiütéssel...}
-{202}{}{...mégpedig technikai kiütéssel...}
-{203}{}{...sajnálatos diszkvalifikáció folytán...}
+{165}{}{LÃ¡togass el a New Reno-i fegyverboltba!}
+{200}{}{A legÃºjabb gy??????????zzztesÃ¼nk...}
+{201}{}{...mÃ©gpedig kiÃ¼tÃ©ssel...}
+{202}{}{...mÃ©gpedig technikai kiÃ¼tÃ©ssel...}
+{203}{}{...sajnÃ¡latos diszkvalifikÃ¡ciÃ³ folytÃ¡n...}
 {204}{}{...with a score of }
-{205}{}{arányban a gy?ztes }
-{206}{}{Ó...}
+{205}{}{arÃ¡nyban a gy?ztes }
+{206}{}{Ã“...}
 {210}{}{!!!}
-{1106}{}{ font. Nemrég jött a pusztaságból tehát még új New Renóban! A neve }
-{1107}{}{ font, mindannyian ISMERIK, SZERETIK ?t, aki nem más, mint }
+{1106}{}{ font. NemrÃ©g jÃ¶tt a pusztasÃ¡gbÃ³l tehÃ¡t mÃ©g Ãºj New RenÃ³ban! A neve }
+{1107}{}{ font, mindannyian ISMERIK, SZERETIK ?t, aki nem mÃ¡s, mint }
 {2106}{}{!}
 {2107}{}{!}

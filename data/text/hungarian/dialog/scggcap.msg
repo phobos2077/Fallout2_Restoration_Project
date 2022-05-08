@@ -1,18 +1,18 @@
-{100}{}{Ez a n? az ÚKK fegyveres er?inek egyenruháját viseli.}
-{101}{}{Az ?rség kapitánya.}
-{102}{}{Lehet, hogy csak egy n?, de a csíp?jén himbálózó sörétes puska azt sugallja, nem lenne jó kikezdeni vele.}
-{103}{}{Elnézését kérem, de elfoglalt n? vagyok. Nincs id?m csevegni.}
-{104}{}{Ha nem zavar sok vizet, remekül megleszünk egymással, idegen!}
-{105}{}{Kérdései vannak? Keresse fel Dumont Seriffet! ? majd válaszol.}
-{106}{}{A törvényeket elolvashatja kint a hirdet?táblán - nincs lövöldözés, nincs ivászat, nincs balhézás.}
-{107}{}{Mit tehetek érted, idegen?}
-{108}{}{Már megint maga az?}
-{109}{}{Én bemenni.}
-{110}{}{Szeretnék bejutni az ÚKK-ba.}
+{100}{}{Ez a n? az ÃšKK fegyveres er?inek egyenruhÃ¡jÃ¡t viseli.}
+{101}{}{Az ?rsÃ©g kapitÃ¡nya.}
+{102}{}{Lehet, hogy csak egy n?, de a csÃ­p?jÃ©n himbÃ¡lÃ³zÃ³ sÃ¶rÃ©tes puska azt sugallja, nem lenne jÃ³ kikezdeni vele.}
+{103}{}{ElnÃ©zÃ©sÃ©t kÃ©rem, de elfoglalt n? vagyok. Nincs id?m csevegni.}
+{104}{}{Ha nem zavar sok vizet, remekÃ¼l megleszÃ¼nk egymÃ¡ssal, idegen!}
+{105}{}{KÃ©rdÃ©sei vannak? Keresse fel Dumont Seriffet! ? majd vÃ¡laszol.}
+{106}{}{A tÃ¶rvÃ©nyeket elolvashatja kint a hirdet?tÃ¡blÃ¡n - nincs lÃ¶vÃ¶ldÃ¶zÃ©s, nincs ivÃ¡szat, nincs balhÃ©zÃ¡s.}
+{107}{}{Mit tehetek Ã©rted, idegen?}
+{108}{}{MÃ¡r megint maga az?}
+{109}{}{Ã‰n bemenni.}
+{110}{}{SzeretnÃ©k bejutni az ÃšKK-ba.}
 {111}{}{Semmi.}
-{112}{}{Nem megy addig sehova, amíg el nem rakja a fegyverét!}
+{112}{}{Nem megy addig sehova, amÃ­g el nem rakja a fegyverÃ©t!}
 {113}{}{Mindenkinek el kell raknia a fegyvereit!}
-{114}{}{Hmm... nos, elég tiszteletre méltónak t?nik. Mi a neve? Be kell, hogy irjam a naplóba.}
+{114}{}{Hmm... nos, elÃ©g tiszteletre mÃ©ltÃ³nak t?nik. Mi a neve? Be kell, hogy irjam a naplÃ³ba.}
 {115}{}{}
-{116}{}{Rendben, egy másodperc, és kinyitom a kaput.}
-{117}{}{Ne babráljon azzal! Hagyja abba, különben baj lesz!}
+{116}{}{Rendben, egy mÃ¡sodperc, Ã©s kinyitom a kaput.}
+{117}{}{Ne babrÃ¡ljon azzal! Hagyja abba, kÃ¼lÃ¶nben baj lesz!}

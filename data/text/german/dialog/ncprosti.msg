@@ -1,304 +1,304 @@
 {100}{}{Du siehst eine Prostituierte.}
-{150}{}{Du siehst eine... Dame der Nacht. Ihre zerlumpten Kleider sind verführerisch um ihren Körper drapiert.}
+{150}{}{Du siehst eine... Dame der Nacht. Ihre zerlumpten Kleider sind verfÃ¼hrerisch um ihren KÃ¶rper drapiert.}
 {151}{}{Du siehst eine Prostituierte. Sie zwinkert dir zu.}
-{152}{}{Du siehst eine Prostituierte. Ihre Augen sehen aus wie verglühende Kohlen.}
+{152}{}{Du siehst eine Prostituierte. Ihre Augen sehen aus wie verglÃ¼hende Kohlen.}
 {153}{}{Du siehst eine Prostituierte. Sie riecht wie Blumen.}
 {154}{}{Du siehst eine Prostituierte. Sie riecht wie Mutter.}
-{155}{}{Du siehst eine Prostituierte. Es ist dir ein Rätsel, wie die zerrissenen Lumpen ihre Brüste verdecken können.}
+{155}{}{Du siehst eine Prostituierte. Es ist dir ein RÃ¤tsel, wie die zerrissenen Lumpen ihre BrÃ¼ste verdecken kÃ¶nnen.}
 {156}{}{Du siehst eine Prostituierte. Sie sieht aus, als ob sie ihre Freier umbringt und auffrisst.}
 {157}{}{Du siehst eine Prostituierte. Sie taxiert dich wie ein Juwelier.}
-{158}{}{Du siehst eine Prostituierte. Ihre zerlumpten Kleider sind verführerisch um ihren Körper drapiert.}
+{158}{}{Du siehst eine Prostituierte. Ihre zerlumpten Kleider sind verfÃ¼hrerisch um ihren KÃ¶rper drapiert.}
 {175}{}{Oh mein Gott... Er ist es.}
-{176}{}{Du bist der größte Hengst der Welt.}
-{177}{}{::Wird ohnmächtig::}
+{176}{}{Du bist der grÃ¶ÃŸte Hengst der Welt.}
+{177}{}{::Wird ohnmÃ¤chtig::}
 {178}{}{Yeah, }
 {179}{}{::Klatscht::}
 {180}{}{::Jubelt::}
 {181}{}{Oh mein Gott... sie ist es. }
-{182}{}{Weg da, Mädel!}
+{182}{}{Weg da, MÃ¤del!}
 {183}{}{::Gibt dir einen Daumen-hoch-Zeichen::}
-{190}{}{Du hast nicht genug Chips dabei, damit du mich mit dem DING besteigen könntest.}
-{195}{}{Hier drüben }
+{190}{}{Du hast nicht genug Chips dabei, damit du mich mit dem DING besteigen kÃ¶nntest.}
+{195}{}{Hier drÃ¼ben }
 {196}{}{Da! Das ist er!}
 {197}{}{Hey, }
-{198}{}{Hey, süßer? Könnte ich eine Rolle haben?}
-{199}{}{Wann kommt dein nächster Film raus?}
-{200}{}{Mmmm-mmmm. Mach weiter, Schätzchen.}
-{201}{}{Für was brauchst du mich, Schwarzer Mann?}
+{198}{}{Hey, sÃ¼ÃŸer? KÃ¶nnte ich eine Rolle haben?}
+{199}{}{Wann kommt dein nÃ¤chster Film raus?}
+{200}{}{Mmmm-mmmm. Mach weiter, SchÃ¤tzchen.}
+{201}{}{FÃ¼r was brauchst du mich, Schwarzer Mann?}
 {202}{}{Hoppla. Mir ist da etwas in deine Hose gefallen. Lass es mich holen.}
 {203}{}{Du warst echt Klasse in Great Balls for Hire.}
 {204}{}{Du warst spitze in Good Will Humping.}
 {205}{}{Du warst klasse in Vault Sexzehn.}
-{206}{}{Ich bin ein großer Fan deiner Arbeit in Pokeahotass.}
-{207}{}{Mmmmm-mmmm. Wie hältst du dich so fit?}
+{206}{}{Ich bin ein groÃŸer Fan deiner Arbeit in Pokeahotass.}
+{207}{}{Mmmmm-mmmm. Wie hÃ¤ltst du dich so fit?}
 {208}{}{Gibst du mir ein Autogramm? Auf die Brust?}
-{209}{}{Könnte ich in deinem nächsten Film mitspielen?}
-{210}{}{Ich würde DIR nie einen Orgasmus vorspielen, }
+{209}{}{KÃ¶nnte ich in deinem nÃ¤chsten Film mitspielen?}
+{210}{}{Ich wÃ¼rde DIR nie einen Orgasmus vorspielen, }
 {211}{}{Werde... schwach. kann... nicht mehr aushalten... Muss... Sex... haben... mit dir...}
 {212}{}{Sie ist kein Star, sie ist nur "wilder" Abfall...}
 {213}{}{Ich wusste gar nicht, dass man Pornostars erlaubt so fett zu werden...}
-{214}{}{Sie ist sooo hässlich.}
-{215}{}{Sie hat so viel Sexappeal wie eine nasse Papiertüte...}
-{216}{}{Hässlich wie die Hölle...}
-{217}{}{Die Art wie sie spielt, man denkt sie wäre ein Superheldenmodell und kein Pornostar.}
-{218}{}{Wenn sie mir blöd kommt, Werde ich sie zerkratzen...}
-{219}{}{Ich weiß nicht, was die Korsischen Brüder in IHR sehen...}
-{220}{}{Sie ist so talentiert wie ein Fels und doppelt so hässlich.}
+{214}{}{Sie ist sooo hÃ¤sslich.}
+{215}{}{Sie hat so viel Sexappeal wie eine nasse PapiertÃ¼te...}
+{216}{}{HÃ¤sslich wie die HÃ¶lle...}
+{217}{}{Die Art wie sie spielt, man denkt sie wÃ¤re ein Superheldenmodell und kein Pornostar.}
+{218}{}{Wenn sie mir blÃ¶d kommt, Werde ich sie zerkratzen...}
+{219}{}{Ich weiÃŸ nicht, was die Korsischen BrÃ¼der in IHR sehen...}
+{220}{}{Sie ist so talentiert wie ein Fels und doppelt so hÃ¤sslich.}
 {221}{}{Ja so ist gut, GEH besser weiter.}
 {222}{}{Mir wird schon von ihrem Aussehen schlecht...}
 {223}{}{Schaut sie mal an, wie sie da rumstolziert...}
 {224}{}{Die hat ein Gesicht, das nur in Brahmin lieben kann.}
-{225}{}{Wenn das nich Königin Scheißhaufen ist.}
+{225}{}{Wenn das nich KÃ¶nigin ScheiÃŸhaufen ist.}
 {226}{}{Wenn das nicht die kleine Miss, ich bin eine Schlampe ist...}
 {227}{}{Wenn das nicht die kleine Miss-Porno-Star ist...}
-{228}{}{Hässlicher als der Arsch eines Brahmins.}
+{228}{}{HÃ¤sslicher als der Arsch eines Brahmins.}
 {229}{}{Verpiss dich! Dass hier ist unsere Ecke, Schlampe!}
 {230}{}{Beweg deinen fetten Arsch aus meinem Sichtfeld.}
 {231}{}{Du bist so talentiert wie mein Schuh.}
-{232}{}{Bleib auf dieser Straße und ich zerschneide dich.}
+{232}{}{Bleib auf dieser StraÃŸe und ich zerschneide dich.}
 {233}{}{Schlunze.}
 {234}{}{Bordsteinschwalbe...}
-{235}{}{Müll...}
+{235}{}{MÃ¼ll...}
 {236}{}{Hmphh!}
 {237}{}{Verschwinde von hier, du verjagst die ganze Kundschaft.}
-{238}{}{Dürre Hure.}
+{238}{}{DÃ¼rre Hure.}
 {239}{}{Sprich nicht mit mir, Schlampe.}
 {240}{}{Geh und mache dein Geld auf die langsame Art, Hure.}
 {241}{}{Welchen Teil von "verpiss dich" hast du nicht verstanden?}
 {242}{}{Sprich mich noch einmal an und ich schneide dir die Zunge raus.}
 {243}{}{Bordsteinschwalbe.}
 {244}{}{::Ignoriert dich.::}
-{245}{}{::macht eine obszöne Geste::}
+{245}{}{::macht eine obszÃ¶ne Geste::}
 {246}{}{Verschwinde von hier, "Miss Movie Star."}
 {247}{}{Verpiss dich, Hure.}
 {248}{}{Versuch was, dann zerkratz ich dich...}
-{249}{}{Ich weiß nicht, was die Korsischen Brüder in dir sehen...}
-{250}{}{du hast das Talent eines Felsens und bist dabei doppelt so hässlich.}
+{249}{}{Ich weiÃŸ nicht, was die Korsischen BrÃ¼der in dir sehen...}
+{250}{}{du hast das Talent eines Felsens und bist dabei doppelt so hÃ¤sslich.}
 {251}{}{Ich rede nicht mit Abfall wie dir.}
 {252}{}{Schaut euch mal diese Muskeln an! Ich werde schwach...}
 {253}{}{WOW!}
 {254}{}{::Pfeift::}
 {255}{}{Es ist wie ein Panzer gebaut. Seht euch das Kanonenrohr an.}
 {256}{}{Schau dir diese Kanone an...}
-{257}{}{Der gehört mir...}
+{257}{}{Der gehÃ¶rt mir...}
 {258}{}{::Seufz::}
-{259}{}{Was für ein Bad Boy.}
+{259}{}{Was fÃ¼r ein Bad Boy.}
 {260}{}{Der junge macht mich schwach.}
-{261}{}{Der König der Stecher...}
-{262}{}{Der hat Tinte im Füller, soviel ist sicher.}
+{261}{}{Der KÃ¶nig der Stecher...}
+{262}{}{Der hat Tinte im FÃ¼ller, soviel ist sicher.}
 {263}{}{Schaut! Es ist }
 {264}{}{}
-{265}{}{Mit dem würde ich auch gerne ne Runde kämpfen.}
-{266}{}{Möchtest du mit mir in den Ring steigen, Champion?}
+{265}{}{Mit dem wÃ¼rde ich auch gerne ne Runde kÃ¤mpfen.}
+{266}{}{MÃ¶chtest du mit mir in den Ring steigen, Champion?}
 {267}{}{Willst du boxen, Champ?}
 {268}{}{Und wie stehts, }
 {269}{}{Suchst du mich?}
-{270}{}{Wieso kommst du nicht öfters vorbei?}
+{270}{}{Wieso kommst du nicht Ã¶fters vorbei?}
 {271}{}{Ich hab ein Loch zu stopfen.}
 {272}{}{Brauchst du Gesellschaft, }
-{273}{}{Du bist So ein böser Junge.}
-{274}{}{Du machst mich schwach, weißt du?}
+{273}{}{Du bist So ein bÃ¶ser Junge.}
+{274}{}{Du machst mich schwach, weiÃŸt du?}
 {275}{}{Nettes Outfit hast du da.}
-{276}{}{Brauchst du wen, der sich für dich darum kümmert, Champ?}
-{277}{}{Hey... pass auf den Masticator auf. Ein echter Drecksack. Er hat mal versucht mir ein Ohr abzubeißen.}
+{276}{}{Brauchst du wen, der sich fÃ¼r dich darum kÃ¼mmert, Champ?}
+{277}{}{Hey... pass auf den Masticator auf. Ein echter Drecksack. Er hat mal versucht mir ein Ohr abzubeiÃŸen.}
 {278}{}{Schaut! Es ist }
 {279}{}{Brauchst du Gesellschaft, }
 {280}{}{}
-{281}{}{Sie ist so ein schlimmer Finger. Ich wünschte ich könnte einen Kerl so vermöbeln wie sie.}
+{281}{}{Sie ist so ein schlimmer Finger. Ich wÃ¼nschte ich kÃ¶nnte einen Kerl so vermÃ¶beln wie sie.}
 {282}{}{Da geht eine starke Frau.}
-{283}{}{Sie sieht so... (erschaudert)...gefährlich aus.}
+{283}{}{Sie sieht so... (erschaudert)...gefÃ¤hrlich aus.}
 {284}{}{Sie ist sehr sexy.}
 {285}{}{Oh mein Gott... Er ist es.}
-{286}{}{Er sieht so... (erschaudert)...gefährlich aus.}
+{286}{}{Er sieht so... (erschaudert)...gefÃ¤hrlich aus.}
 {287}{}{WOW!}
 {288}{}{::Pfeift::}
-{289}{}{Was für ein Bad Boy.}
+{289}{}{Was fÃ¼r ein Bad Boy.}
 {290}{}{Der junge macht mich schwach.}
-{291}{}{Der hat Tinte im Füller, soviel ist sicher.}
+{291}{}{Der hat Tinte im FÃ¼ller, soviel ist sicher.}
 {292}{}{Hallooooo, }
 {293}{}{Brauchst du Gesellschaft, }
 {294}{}{}
 {295}{}{Oh mein Gott... sie ist es. }
-{296}{}{Sie ist so böse.}
+{296}{}{Sie ist so bÃ¶se.}
 {297}{}{Da geht eine starke Frau.}
-{298}{}{Sie sieht so... (erschaudert)...gefährlich aus.}
+{298}{}{Sie sieht so... (erschaudert)...gefÃ¤hrlich aus.}
 {299}{}{Sie ist sehr sexy.}
-{300}{}{Mein Name ist Easy, Sklavenhändler. Wie lautet deiner?}
-{301}{}{Hey, Sklavenhändler, Brauchst du Gesellschaft?}
+{300}{}{Mein Name ist Easy, SklavenhÃ¤ndler. Wie lautet deiner?}
+{301}{}{Hey, SklavenhÃ¤ndler, Brauchst du Gesellschaft?}
 {302}{}{Lass mich dir ein paar Sachen beibringen, die einem nur eine Frau beibringen kann.}
-{303}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst, Sklavenhändler?}
-{304}{}{Du hast da ein paar heiße Teile, Sklavenhändler.}
-{305}{}{Kleine nervige Giftschlange da drüben.}
+{303}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst, SklavenhÃ¤ndler?}
+{304}{}{Du hast da ein paar heiÃŸe Teile, SklavenhÃ¤ndler.}
+{305}{}{Kleine nervige Giftschlange da drÃ¼ben.}
 {306}{}{Suchst du Action?}
-{307}{}{Sklavenhändler, du hattest noch nie richtig Sex, wenn du noch keinen Reno Sex hattest.}
-{308}{}{Möchtest du eine Verabredung?}
-{309}{}{Ich habe gehört es gab Ärger im Einkaufsviertel...}
+{307}{}{SklavenhÃ¤ndler, du hattest noch nie richtig Sex, wenn du noch keinen Reno Sex hattest.}
+{308}{}{MÃ¶chtest du eine Verabredung?}
+{309}{}{Ich habe gehÃ¶rt es gab Ã„rger im Einkaufsviertel...}
 {310}{}{Suchst du Unterhaltung?}
-{311}{}{Möchtest du tanzen?}
-{312}{}{Sklavenhändler, du hattest noch nie richtig Sex, wenn du noch keinen Reno Sex hattest.}
-{313}{}{Natürlich leiste ich dir Gesellschaft, für ein paar Chips natürlich.}
+{311}{}{MÃ¶chtest du tanzen?}
+{312}{}{SklavenhÃ¤ndler, du hattest noch nie richtig Sex, wenn du noch keinen Reno Sex hattest.}
+{313}{}{NatÃ¼rlich leiste ich dir Gesellschaft, fÃ¼r ein paar Chips natÃ¼rlich.}
 {314}{}{Ein neuer in der Stadt, sieht wie ein...}
-{315}{}{Willst du fliegen Sklavenhändler?}
+{315}{}{Willst du fliegen SklavenhÃ¤ndler?}
 {316}{}{Willst du Meister und Sklave spielen?}
 {317}{}{Nette Gurke.}
 {318}{}{Lass mich dich ein wenig aufmuntern.}
-{319}{}{Hast du dich verlaufen Sklavenhändler?}
-{320}{}{Musst du wieder mal deinen Waffe entladend Sklavenhändler?}
+{319}{}{Hast du dich verlaufen SklavenhÃ¤ndler?}
+{320}{}{Musst du wieder mal deinen Waffe entladend SklavenhÃ¤ndler?}
 {321}{}{Der Mann kann Metall zum schmelzen bringen.}
-{322}{}{Myron? Denn würde ich für ne Million Chips nicht anfassen. Sagen wir zwei Millionen.}
-{323}{}{Suchst du nach ein wenig Abwechslung, Sklavenhändler?}
-{324}{}{Ich mag deinen Gecko, Sklavenhändler.}
+{322}{}{Myron? Denn wÃ¼rde ich fÃ¼r ne Million Chips nicht anfassen. Sagen wir zwei Millionen.}
+{323}{}{Suchst du nach ein wenig Abwechslung, SklavenhÃ¤ndler?}
+{324}{}{Ich mag deinen Gecko, SklavenhÃ¤ndler.}
 {325}{}{Den Gecko in deiner Hose?}
-{326}{}{Hey, Sklavenhändler.}
-{327}{}{Willst du ne Verabredung Sklavenhändler?}
-{328}{}{Wo brennt's den, Sklavenhändler?}
+{326}{}{Hey, SklavenhÃ¤ndler.}
+{327}{}{Willst du ne Verabredung SklavenhÃ¤ndler?}
+{328}{}{Wo brennt's den, SklavenhÃ¤ndler?}
 {329}{}{Junge, lass mich dich zum Mann machen.}
 {330}{}{Willst du Meister und Sklave spielen?}
 {331}{}{Willst du die Paarungszeit der Deathclaws nachspielen?}
-{332}{}{Musst du mal dein Magazin leeren, Sklavenhändler?}
-{333}{}{Willst du einer Jungfrau helfen, ihre Jungfräulichkeit zu verlieren?}
-{334}{}{Dieser Sklavenhändler lässt meinen Geigerzähler durchbrennen.}
+{332}{}{Musst du mal dein Magazin leeren, SklavenhÃ¤ndler?}
+{333}{}{Willst du einer Jungfrau helfen, ihre JungfrÃ¤ulichkeit zu verlieren?}
+{334}{}{Dieser SklavenhÃ¤ndler lÃ¤sst meinen GeigerzÃ¤hler durchbrennen.}
 {335}{}{Wenn du willst bin ich extra nett, dass kostet dann aber extra.}
 {336}{}{[Sings.] "Let's play - master and servant. Let's play - master and servant."}
-{337}{}{Willst du mit mir spielen Sklavenhändler.}
+{337}{}{Willst du mit mir spielen SklavenhÃ¤ndler.}
 {338}{}{Ich habe endlich das gepolsterte Kopfteil installiert.}
 {339}{}{Ein Hauch des Paradies? Kostet nur 10 Chips.}
 {340}{}{Willst du Meister und Sklave spielen?}
 {341}{}{Myron: Nur Wachs, kein Docht.}
 {342}{}{Myron ist ein echter Tornado...}
 {343}{}{AC-DC, B n' D, was auch immer.}
-{344}{}{Was erwartet er von mir, dass ich mich bücke?}
-{345}{}{Brauchst du jemanden, den du mit deiner Leine einfangen kannst Sklavenhändler?}
+{344}{}{Was erwartet er von mir, dass ich mich bÃ¼cke?}
+{345}{}{Brauchst du jemanden, den du mit deiner Leine einfangen kannst SklavenhÃ¤ndler?}
 {346}{}{Myron kommt ab und zu vorbei...}
 {347}{}{Die Tochter von Bishop ist ein echter Betthase.}
 {348}{}{She ain't no Jet addict, she's a BONE addict.}
 {349}{}{Bei Cat's Paw wird dir sicher eingeheizt...}
-{350}{}{Ich bin gestern Marathon gelaufen, na ja besser gesagt vor Myron geflüchtet...}
-{351}{}{Suchst du einen Lebensabschnittsgefährten Sklavenhändler?}
+{350}{}{Ich bin gestern Marathon gelaufen, na ja besser gesagt vor Myron geflÃ¼chtet...}
+{351}{}{Suchst du einen LebensabschnittsgefÃ¤hrten SklavenhÃ¤ndler?}
 {352}{}{Ich laufe seit Gestern auf diesem Strich rum...}
-{353}{}{Gefällt dir was du siehst Sklavenhändler?}
-{354}{}{Suchst du etwas Zuneigung Sklavenhändler?}
-{355}{}{Hey du, Sklavenhändler! Willst du nicht rüberkommen und reden.}
-{356}{}{::Flüstert dir zu::}
+{353}{}{GefÃ¤llt dir was du siehst SklavenhÃ¤ndler?}
+{354}{}{Suchst du etwas Zuneigung SklavenhÃ¤ndler?}
+{355}{}{Hey du, SklavenhÃ¤ndler! Willst du nicht rÃ¼berkommen und reden.}
+{356}{}{::FlÃ¼stert dir zu::}
 {357}{}{Bleibst du lange in Reno?}
 {358}{}{Ich hasse Teebeutel.}
-{359}{}{Warum bringst du mich nicht zurück in deinen Käfig Sklavenhändler?}
+{359}{}{Warum bringst du mich nicht zurÃ¼ck in deinen KÃ¤fig SklavenhÃ¤ndler?}
 {360}{}{Mehr als ein paar Chips brauchst du nicht um meine volle Aufmerksamkeit zu bekommen.}
 {361}{}{Pure Reno Liebe, gibts nur hier.}
 {362}{}{Ich will mit dir spielen.}
-{363}{}{Ich bin schmutzig und heiß.}
-{364}{}{Ich bin schüchtern und heiß.}
-{365}{}{Ich bin verdorben und heiß.}
-{366}{}{Ich kann es dir "old school" mäßig machen.}
-{367}{}{Ich habe Syphilis... äh ich meine Erfahrung.}
-{368}{}{Ich bin schmutzig und heiß.}
+{363}{}{Ich bin schmutzig und heiÃŸ.}
+{364}{}{Ich bin schÃ¼chtern und heiÃŸ.}
+{365}{}{Ich bin verdorben und heiÃŸ.}
+{366}{}{Ich kann es dir "old school" mÃ¤ÃŸig machen.}
+{367}{}{Ich habe Syphilis... Ã¤h ich meine Erfahrung.}
+{368}{}{Ich bin schmutzig und heiÃŸ.}
 {369}{}{Abenteurer machen mich an.}
-{370}{}{Ich habe einen Freund wenn du eine Sandwich willst Sklavenhändler.}
-{371}{}{Ich wünschte mir Myron wäre schwul.}
+{370}{}{Ich habe einen Freund wenn du eine Sandwich willst SklavenhÃ¤ndler.}
+{371}{}{Ich wÃ¼nschte mir Myron wÃ¤re schwul.}
 {372}{}{Frischfleisch...}
-{373}{}{Ich weiß noch immer nicht warum die Straße Virgin Street heißt...}
+{373}{}{Ich weiÃŸ noch immer nicht warum die StraÃŸe Virgin Street heiÃŸt...}
 {374}{}{Kannst du einen 6 cm Nagel, mit deinen Penis in ein Brett schlagen?}
-{375}{}{Ich wünschte mir er würde ab und zu ne Papiertüte tragen...}
-{376}{}{Willst du der Lady keinen Drink kaufen Sklavenhändler?}
-{377}{}{Willst du mit einer einsamen Lady in die Stadt gehen Sklavenhändler?}
-{378}{}{Brauchst du heute Nacht einen Freund Sklavenhändler?}
-{379}{}{Suchst du nach neuer Ware Sklavenhändler?}
-{380}{}{Komm hier rüber Sklavenhändler, gleich beginnt die Show...}
-{381}{}{Ich habe gehört, dass ein Paar Frauen in der Stadt ihren Zuhälter getötet haben.}
-{382}{}{Die schönste Frau des Ödlandes, ist hier drüben...}
-{383}{}{Dieser Jules lässt mich besser in Ruhe.}
+{375}{}{Ich wÃ¼nschte mir er wÃ¼rde ab und zu ne PapiertÃ¼te tragen...}
+{376}{}{Willst du der Lady keinen Drink kaufen SklavenhÃ¤ndler?}
+{377}{}{Willst du mit einer einsamen Lady in die Stadt gehen SklavenhÃ¤ndler?}
+{378}{}{Brauchst du heute Nacht einen Freund SklavenhÃ¤ndler?}
+{379}{}{Suchst du nach neuer Ware SklavenhÃ¤ndler?}
+{380}{}{Komm hier rÃ¼ber SklavenhÃ¤ndler, gleich beginnt die Show...}
+{381}{}{Ich habe gehÃ¶rt, dass ein Paar Frauen in der Stadt ihren ZuhÃ¤lter getÃ¶tet haben.}
+{382}{}{Die schÃ¶nste Frau des Ã–dlandes, ist hier drÃ¼ben...}
+{383}{}{Dieser Jules lÃ¤sst mich besser in Ruhe.}
 {384}{}{Ich habe noch immer die Beule vom Bettpfosten...}
-{385}{}{Bin total erschöpft seit dieser letzten Tagung...}
-{386}{}{Ich wünscht die Sklavenhändlerkonvention würde in einer anderen Stadt stattfinden.}
-{387}{}{Ich dachte die Erde würde sich bewegen, aber es war nur das Chili.}
+{385}{}{Bin total erschÃ¶pft seit dieser letzten Tagung...}
+{386}{}{Ich wÃ¼nscht die SklavenhÃ¤ndlerkonvention wÃ¼rde in einer anderen Stadt stattfinden.}
+{387}{}{Ich dachte die Erde wÃ¼rde sich bewegen, aber es war nur das Chili.}
 {388}{}{Bring mich zum schmelzen.}
-{389}{}{Er macht weiter, er hat mich auf seinem Zähler...}
-{390}{}{Ich werde auch vorsichtig sein Sklavenhändler.}
+{389}{}{Er macht weiter, er hat mich auf seinem ZÃ¤hler...}
+{390}{}{Ich werde auch vorsichtig sein SklavenhÃ¤ndler.}
 {391}{}{Ich bin Jungfrau. Ich bin nur nicht sehr gut darin.}
 {392}{}{Jules versucht auf der 2nd Street zu dealen...}
-{393}{}{Hey Sklavenhändler! Brauchst du einen Führer?}
+{393}{}{Hey SklavenhÃ¤ndler! Brauchst du einen FÃ¼hrer?}
 {394}{}{Jules will immer alles umsonst.}
-{395}{}{Soll ich an deinen Käfig rütteln Sklavenhändler?}
-{396}{}{Ich höre, in den Familien braut sich wieder was zusammen.}
-{397}{}{Hier ist nichts los. Ich wünschte ne Karawane würde eintreffen.}
+{395}{}{Soll ich an deinen KÃ¤fig rÃ¼tteln SklavenhÃ¤ndler?}
+{396}{}{Ich hÃ¶re, in den Familien braut sich wieder was zusammen.}
+{397}{}{Hier ist nichts los. Ich wÃ¼nschte ne Karawane wÃ¼rde eintreffen.}
 {398}{}{Also zogen wir uns wie Deathclaws an...}
 {399}{}{Ich brauche Hilfe, um aus diesem Kleid herauszukommen.}
 {400}{}{Ziehst du mich aus?}
-{401}{}{Mmm-mmm. Sieht aus als wäre wieder Paarungszeit.}
+{401}{}{Mmm-mmm. Sieht aus als wÃ¤re wieder Paarungszeit.}
 {402}{}{Brauchst du einen Freund?}
 {403}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
-{404}{}{Wohin willst du Sklavenhändler?}
-{405}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
+{404}{}{Wohin willst du SklavenhÃ¤ndler?}
+{405}{}{Sie nennen mich nicht umsonst die GlÃ¼cksmarie.}
 {406}{}{Ich liebe die Kondome mit Brahmin Aroma.}
-{407}{}{Willst du einer Frau ne schöne Zeit machen Sklavenhändler?}
+{407}{}{Willst du einer Frau ne schÃ¶ne Zeit machen SklavenhÃ¤ndler?}
 {408}{}{Myron nervt mich immer. Wenigstens hat er GELD.}
 {409}{}{Alles was du brauchst ist hier.}
 {410}{}{Suchst du den Garten Eden? Hier ist er.}
-{411}{}{Du hast das Geld Sklavenhändler, ich die Zeit.}
-{412}{}{Kannst du mir helfen? Ich suche meine verlorene Jungfräulichkeit.}
+{411}{}{Du hast das Geld SklavenhÃ¤ndler, ich die Zeit.}
+{412}{}{Kannst du mir helfen? Ich suche meine verlorene JungfrÃ¤ulichkeit.}
 {413}{}{Ich bin noch Jungfrau, aber ich brauche das Geld.}
-{414}{}{Sei vorsichtig, es ist das erste Mal. Für heute.}
+{414}{}{Sei vorsichtig, es ist das erste Mal. FÃ¼r heute.}
 {415}{}{Ich so geil.}
 {416}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {417}{}{Lass mich dein inneres Kind erwecken.}
-{418}{}{Willst du tanzen Süßer?}
+{418}{}{Willst du tanzen SÃ¼ÃŸer?}
 {419}{}{Willst du dein Gebiet markieren?}
-{420}{}{Willst du mich zum stöhnen bringen?}
+{420}{}{Willst du mich zum stÃ¶hnen bringen?}
 {421}{}{::Purrrrr::}
 {422}{}{::Rrrrrowrrr::}
-{423}{}{::Bläst dir einen Kuss zu::}
+{423}{}{::BlÃ¤st dir einen Kuss zu::}
 {424}{}{Wollen wir zusammenkommen?}
-{425}{}{Ich bin nicht billig, aber ich kann dafür einiges bieten.}
+{425}{}{Ich bin nicht billig, aber ich kann dafÃ¼r einiges bieten.}
 {426}{}{Fesseln kostet Extra.}
 {427}{}{Wo ist meine Peitsche?}
 {428}{}{Bist du bereit.}
 {429}{}{Ich musste mich letzte Nacht wie Wilma verkleiden, verdammter Perverser.}
-{430}{}{Ich war gestern Nacht mit Myron zusammen, ungefähr fünf Sekunden.}
-{431}{}{Ich wünschte sie würden eine Bodylotion erfinden, die nach Jet riecht...}
-{432}{}{Wenn Myron nicht aufhört, wird mir bald mein Hintern abfallen.}
+{430}{}{Ich war gestern Nacht mit Myron zusammen, ungefÃ¤hr fÃ¼nf Sekunden.}
+{431}{}{Ich wÃ¼nschte sie wÃ¼rden eine Bodylotion erfinden, die nach Jet riecht...}
+{432}{}{Wenn Myron nicht aufhÃ¶rt, wird mir bald mein Hintern abfallen.}
 {433}{}{Die verdammte Abstinenzler-Vereinigung kommt bald wieder...}
 {434}{}{::Pfeift::}
 {435}{}{Ich garantiere dir, dass ich besser bin, als dieser PIPBoy, den du benutzt.}
-{436}{}{Willst du mir deine Narben zeigen Sklavenhändler?}
-{437}{}{Ich wäre gerne mit Avellone zusammen.}
-{438}{}{Ich wünschte Nick Kesting wäre hier. Wir können Stundenlang reden!}
+{436}{}{Willst du mir deine Narben zeigen SklavenhÃ¤ndler?}
+{437}{}{Ich wÃ¤re gerne mit Avellone zusammen.}
+{438}{}{Ich wÃ¼nschte Nick Kesting wÃ¤re hier. Wir kÃ¶nnen Stundenlang reden!}
 {439}{}{Nick Kesting ist ein sehr netter Kerl. Wir unterhalten uns immer so toll.}
 {440}{}{Tommy the Balls ist ein Traum von einem Kerl.}
 {441}{}{Schau an wer da gerade in die Stadt gekommen ist...}
-{442}{}{Du siehst aus als ob du Lust auf etwas Action hättest.}
+{442}{}{Du siehst aus als ob du Lust auf etwas Action hÃ¤ttest.}
 {443}{}{Oh man! Ein Tourist!}
-{444}{}{Beißen kostet extra.}
-{445}{}{Mein Name ist Easy Sklavenhändlerin. Wie lautet deiner?}
-{446}{}{Hey, Sklavenhändlerin. Suchst du nach anderen Frauen?}
-{447}{}{Willst du mal die andere Seite ausprobieren, Süße?}
-{448}{}{Brauchst du eine Sklavin für die Nacht, Sklavenhändlerin?}
-{449}{}{brauchst du jemanden, der den Zelt erwärmt Sklavenhändlerin?}
-{450}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst Sklavenhändlerin?}
-{451}{}{Willst du tanzen Sklavenhändlerin?}
-{452}{}{Sklavenhändlerin du hattest noch nie richtigen Sex, wenn du noch keinen Reno Sex hattest.}
-{453}{}{Willst du fliegen, Sklavenhändlerin?}
-{454}{}{Hast du dich verlaufen Sklavenhändlerin?}
-{455}{}{Suchst du etwas Spaß Sklavenhändlerin?}
-{456}{}{Ich wusste gar nicht, dass sie in der Sklavenhändlergilde auch Frauen aufnehmen...}
-{457}{}{Wo brennt's denn Sklavenhändlerin?}
-{458}{}{Die Sklavenhändlerin ist ziemlich frech.}
-{459}{}{Diese Sklavenhändlerin lässt meine Geigerzähler durch brennen.}
-{460}{}{Ich garantiere dir ich bin besser in meinem Geschäft, als der Roboter, der dir gerade folgt.}
-{461}{}{Ist der Roboter voll FUNKTIONSFÄHIG?}
+{444}{}{BeiÃŸen kostet extra.}
+{445}{}{Mein Name ist Easy SklavenhÃ¤ndlerin. Wie lautet deiner?}
+{446}{}{Hey, SklavenhÃ¤ndlerin. Suchst du nach anderen Frauen?}
+{447}{}{Willst du mal die andere Seite ausprobieren, SÃ¼ÃŸe?}
+{448}{}{Brauchst du eine Sklavin fÃ¼r die Nacht, SklavenhÃ¤ndlerin?}
+{449}{}{brauchst du jemanden, der den Zelt erwÃ¤rmt SklavenhÃ¤ndlerin?}
+{450}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst SklavenhÃ¤ndlerin?}
+{451}{}{Willst du tanzen SklavenhÃ¤ndlerin?}
+{452}{}{SklavenhÃ¤ndlerin du hattest noch nie richtigen Sex, wenn du noch keinen Reno Sex hattest.}
+{453}{}{Willst du fliegen, SklavenhÃ¤ndlerin?}
+{454}{}{Hast du dich verlaufen SklavenhÃ¤ndlerin?}
+{455}{}{Suchst du etwas SpaÃŸ SklavenhÃ¤ndlerin?}
+{456}{}{Ich wusste gar nicht, dass sie in der SklavenhÃ¤ndlergilde auch Frauen aufnehmen...}
+{457}{}{Wo brennt's denn SklavenhÃ¤ndlerin?}
+{458}{}{Die SklavenhÃ¤ndlerin ist ziemlich frech.}
+{459}{}{Diese SklavenhÃ¤ndlerin lÃ¤sst meine GeigerzÃ¤hler durch brennen.}
+{460}{}{Ich garantiere dir ich bin besser in meinem GeschÃ¤ft, als der Roboter, der dir gerade folgt.}
+{461}{}{Ist der Roboter voll FUNKTIONSFÃ„HIG?}
 {462}{}{Ist das eine Art Spielautomat, was da hinter dir herrennt? }
 {463}{}{Ist das ein einarmiger Bandit?}
-{464}{}{Kann dein Roboter auch Tricks? Äh... Zaubertricks, meine ich.}
+{464}{}{Kann dein Roboter auch Tricks? Ã„h... Zaubertricks, meine ich.}
 {465}{}{Sag mir, dass das kein Mutant ist.}
 {466}{}{Der Mutant kostet Extra. SEHR VIEL Extra.}
-{467}{}{Oh-oh. Mutanten in New Reno bedeuten sicher Ärger.}
+{467}{}{Oh-oh. Mutanten in New Reno bedeuten sicher Ã„rger.}
 {468}{}{Dieser Mutant ist ja riesig.}
-{469}{}{Dieser Mutant sieht aus als könnte er mich in einer Hand zerquetschen. Hmmmnnn.}
-{470}{}{Ich wüste nicht mal wie man einen Mutanten scharf macht.}
+{469}{}{Dieser Mutant sieht aus als kÃ¶nnte er mich in einer Hand zerquetschen. Hmmmnnn.}
+{470}{}{Ich wÃ¼ste nicht mal wie man einen Mutanten scharf macht.}
 {471}{}{Hey, Myron!}
-{472}{}{Myron! Süßer! Wann willst du zurückkommen und mir zusehen, wie ich mich einöle?}
+{472}{}{Myron! SÃ¼ÃŸer! Wann willst du zurÃ¼ckkommen und mir zusehen, wie ich mich einÃ¶le?}
 {473}{}{My-ron. Myyyyyy-ron.}
-{474}{}{Myron, wer ist den dein süßer Freund?}
-{475}{}{Myron, süßer! Myron! Suchst du ein bisschen Action?}
+{474}{}{Myron, wer ist den dein sÃ¼ÃŸer Freund?}
+{475}{}{Myron, sÃ¼ÃŸer! Myron! Suchst du ein bisschen Action?}
 {476}{}{Yoo-hoo! Myron!}
 {477}{}{Ich vermisse dich Myron!}
 {478}{}{Myron du bist ein Traum. Ein toller Traum.}
@@ -309,17 +309,17 @@
 {483}{}{Ich bin Leichtzuham. Und wer bist du?}
 {484}{}{Brauchst du Gesellschaft?}
 {485}{}{Lass mich dir ein paar Sachen beibringen, die einem nur eine Frau beibringen kann.}
-{486}{}{Brauchst du jemanden, der dein Zelt aufwärmt?}
-{487}{}{Möchtest du dein Bettzeug mit jemandem teilen?}
-{488}{}{Du hast da ein paar heiße Teile Kumpel.}
-{489}{}{Kleine nervige Giftschlange da drüben.}
+{486}{}{Brauchst du jemanden, der dein Zelt aufwÃ¤rmt?}
+{487}{}{MÃ¶chtest du dein Bettzeug mit jemandem teilen?}
+{488}{}{Du hast da ein paar heiÃŸe Teile Kumpel.}
+{489}{}{Kleine nervige Giftschlange da drÃ¼ben.}
 {490}{}{Suchst du Action?}
-{491}{}{Du weißt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
-{492}{}{Möchtest du eine Verabredung?}
-{493}{}{Ich habe gehört es gab Ärger im Einkaufsviertel...}
+{491}{}{Du weiÃŸt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
+{492}{}{MÃ¶chtest du eine Verabredung?}
+{493}{}{Ich habe gehÃ¶rt es gab Ã„rger im Einkaufsviertel...}
 {494}{}{Suchst du Unterhaltung?}
 {495}{}{Der einzige Sport, der gerade in Reno angesagt ist, ist Mandelhockey...}
-{496}{}{Möchtest du tanzen?}
+{496}{}{MÃ¶chtest du tanzen?}
 {497}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {498}{}{Ich kann nicht fassen wie viele Stripper auf Feargus Junggesellenabend waren.}
 {499}{}{Ein neuer Fremder in der Stadt, sieht aus wie...}
@@ -332,166 +332,166 @@
 {506}{}{Hast du eine Waffe die entladen werden muss, Soldat?}
 {507}{}{Der Mann kann Metall zum schmelzen bringen.}
 {508}{}{Es gibt zu viele Obdachlose in der Stadt und viel zu wenige Chips die im Umlauf sind.}
-{509}{}{Ich laufe seit der letzten Nacht in dieser Straße rum...}
-{510}{}{Brauchst du einen Freund für den Abend? Oder nur für zehn Minuten?}
-{511}{}{Möchtest du 'n bisschen Spaß?}
-{512}{}{Möchtest du in die Stadt gehen?}
+{509}{}{Ich laufe seit der letzten Nacht in dieser StraÃŸe rum...}
+{510}{}{Brauchst du einen Freund fÃ¼r den Abend? Oder nur fÃ¼r zehn Minuten?}
+{511}{}{MÃ¶chtest du 'n bisschen SpaÃŸ?}
+{512}{}{MÃ¶chtest du in die Stadt gehen?}
 {513}{}{Ich mag deinen Gecko.}
 {514}{}{Den Gecko in deiner Hose?}
-{515}{}{Brauchst du einen Führer für die Stadt Süßer?}
+{515}{}{Brauchst du einen FÃ¼hrer fÃ¼r die Stadt SÃ¼ÃŸer?}
 {516}{}{Wo brennt's denn?}
 {517}{}{Junge, lass mich dich zum Mann machen.}
-{518}{}{Ich finde es beschämend wie manche Frauen hier rumlaufen.}
+{518}{}{Ich finde es beschÃ¤mend wie manche Frauen hier rumlaufen.}
 {519}{}{Willst du die Paarungszeit der Deathclaws nachspielen?}
-{520}{}{Dieser Mann lässt meinen Geigerzähler durchbrennen.}
+{520}{}{Dieser Mann lÃ¤sst meinen GeigerzÃ¤hler durchbrennen.}
 {521}{}{Wenn ich hinterher mit dir reden soll, kostet's extra.}
 {522}{}{Kann ich dir irgendwie helfen Fremder?}
-{523}{}{Du weißt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
-{524}{}{Dein Freund, mit dem Knochen durch die Nase... großartiger Schmuck.}
+{523}{}{Du weiÃŸt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
+{524}{}{Dein Freund, mit dem Knochen durch die Nase... groÃŸartiger Schmuck.}
 {525}{}{Kann dein Freund mit dem Knochen durch die Nase auch Tricks damit?}
 {526}{}{Vielleicht sollte ich mir auch einen Knochen durch die Nase stecken. Das lockt vielleicht mehr weibliche Kunden an.}
-{527}{}{Dein Begleiter hat einen Knochen in seiner Nase so groß wie mein Arm. Jesus Christi.}
+{527}{}{Dein Begleiter hat einen Knochen in seiner Nase so groÃŸ wie mein Arm. Jesus Christi.}
 {528}{}{Ich will gar nicht wissen, wie der Knochen in seine Nase gekommen ist.}
-{529}{}{Ist dein Freund, mit dem Knochen durch die Nase, auch in diesem Geschäft?}
+{529}{}{Ist dein Freund, mit dem Knochen durch die Nase, auch in diesem GeschÃ¤ft?}
 {530}{}{Wie viel soll den dein Freund mit dem Knochen in der Nase kosten?}
-{531}{}{Für 30 Chips, kann ich den Knochen, in der Nase, deines Freundes länger machen.}
+{531}{}{FÃ¼r 30 Chips, kann ich den Knochen, in der Nase, deines Freundes lÃ¤nger machen.}
 {532}{}{Muss dein Freund mit dem Knochen in der Nase was kompensieren?}
 {533}{}{Ich habe endlich das gepolsterte Kopfteil installiert.}
 {534}{}{Ein Hauch des Paradieses? Nur zehn Chips.}
 {535}{}{Myron: Nur Wachs, kein Docht.}
 {536}{}{Myron ist ein echter Wirbelsturm.}
 {537}{}{AC-DC, B n' D, was auch immer.}
-{538}{}{Was erwartet er von mir, dass ich mich bücke?}
+{538}{}{Was erwartet er von mir, dass ich mich bÃ¼cke?}
 {539}{}{Ich denke das Reno Schild wird bald runterfallen...}
 {540}{}{Die Tochter von Bishop ist ein echter Betthase.}
 {541}{}{She ain't no Jet addict, she's a BONE addict.}
-{542}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
+{542}{}{Ich habe gehÃ¶rt, dass es in Vault City nur zwei Arten von BÃ¼rgern gibt. Vielleicht war das ein Klonunfall.}
 {543}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
-{544}{}{Suchst du nach Liebe Süßer?}
-{545}{}{Ich wünschte Myron würde umziehen. Weit weg.}
-{546}{}{Du kannst ALLES haben was du willst... für den entsprechenden Preis versteht sich.}
-{547}{}{Ich bin fertig, Schätzchen. Wie stehts bei dir?}
-{548}{}{::Flüstert dir zu::}
+{544}{}{Suchst du nach Liebe SÃ¼ÃŸer?}
+{545}{}{Ich wÃ¼nschte Myron wÃ¼rde umziehen. Weit weg.}
+{546}{}{Du kannst ALLES haben was du willst... fÃ¼r den entsprechenden Preis versteht sich.}
+{547}{}{Ich bin fertig, SchÃ¤tzchen. Wie stehts bei dir?}
+{548}{}{::FlÃ¼stert dir zu::}
 {549}{}{Ich hasse Teebeutel.}
 {550}{}{Willst du mit mir spielen.}
-{551}{}{Möchtest du 'n bisschen Spaß?}
+{551}{}{MÃ¶chtest du 'n bisschen SpaÃŸ?}
 {552}{}{Pure Reno Liebe, gibts nur hier.}
 {553}{}{Ich will mit dir spielen.}
-{554}{}{Ich bin schmutzig und heiß.}
-{555}{}{Ich bin schüchtern und heiß.}
-{556}{}{Ich bin verdorben und heiß.}
-{557}{}{Ich kann es dir "old school" mäßig machen.}
-{558}{}{Ich habe Syphilis... äh ich meine Erfahrung.}
-{559}{}{Ich bin schmutzig und heiß.}
+{554}{}{Ich bin schmutzig und heiÃŸ.}
+{555}{}{Ich bin schÃ¼chtern und heiÃŸ.}
+{556}{}{Ich bin verdorben und heiÃŸ.}
+{557}{}{Ich kann es dir "old school" mÃ¤ÃŸig machen.}
+{558}{}{Ich habe Syphilis... Ã¤h ich meine Erfahrung.}
+{559}{}{Ich bin schmutzig und heiÃŸ.}
 {560}{}{Abenteurer machen mich an.}
 {561}{}{Ich hab 'ne Freundin, wenn du's gern doppelt magst.}
-{562}{}{Ich wünschte mir Myron wäre schwul.}
+{562}{}{Ich wÃ¼nschte mir Myron wÃ¤re schwul.}
 {563}{}{Frischfleisch...}
-{564}{}{Ich weiß noch immer nicht warum die Straße Virgin Street heißt...}
-{565}{}{Ich wünschte mir er würde ab und zu ne Papiertüte tragen...}
+{564}{}{Ich weiÃŸ noch immer nicht warum die StraÃŸe Virgin Street heiÃŸt...}
+{565}{}{Ich wÃ¼nschte mir er wÃ¼rde ab und zu ne PapiertÃ¼te tragen...}
 {566}{}{Kaufst du mir nen Drink?}
 {567}{}{Nimmst du 'ne einsame Dame mit in die Stadt?}
 {568}{}{Oh man! Ein Tourist!}
-{569}{}{Komm her Süßer, die Show beginnt gleich...}
-{570}{}{Ich habe gehört, dass ein Paar Frauen in der Stadt ihren Zuhälter getötet haben.}
+{569}{}{Komm her SÃ¼ÃŸer, die Show beginnt gleich...}
+{570}{}{Ich habe gehÃ¶rt, dass ein Paar Frauen in der Stadt ihren ZuhÃ¤lter getÃ¶tet haben.}
 {571}{}{Hallooooo, Fremder.}
-{572}{}{Dieser Jules lässt mich besser in Ruhe.}
+{572}{}{Dieser Jules lÃ¤sst mich besser in Ruhe.}
 {573}{}{Ich habe noch immer die Beule vom Bettpfosten...}
-{574}{}{Bin total erschöpft seit dieser letzten Tagung...}
-{575}{}{Ich wünschte diese Wilden würden in eine andere Stadt gehen.}
-{576}{}{Ich dachte die Erde würde sich bewegen, aber es war nur das Chili.}
+{574}{}{Bin total erschÃ¶pft seit dieser letzten Tagung...}
+{575}{}{Ich wÃ¼nschte diese Wilden wÃ¼rden in eine andere Stadt gehen.}
+{576}{}{Ich dachte die Erde wÃ¼rde sich bewegen, aber es war nur das Chili.}
 {577}{}{Bring mich zum schmelzen.}
-{578}{}{Er macht weiter, er hat mich auf seinem Zähler...}
-{579}{}{Das Summen der Neonlichter macht mich noch ganz verrückt...}
+{578}{}{Er macht weiter, er hat mich auf seinem ZÃ¤hler...}
+{579}{}{Das Summen der Neonlichter macht mich noch ganz verrÃ¼ckt...}
 {580}{}{Ich bin Jungfrau. Ich bin nur nicht sehr gut darin.}
-{581}{}{Kaum zu glauben, dass ich dafür aus Den hierhergekommen bin...}
-{582}{}{Hey Fremder! Brauchst du einen Führer?}
+{581}{}{Kaum zu glauben, dass ich dafÃ¼r aus Den hierhergekommen bin...}
+{582}{}{Hey Fremder! Brauchst du einen FÃ¼hrer?}
 {583}{}{Jules will immer alles umsonst.}
-{584}{}{Ich höre, in den Familien braut sich wieder was zusammen.}
-{585}{}{Hier ist nichts los. Ich wünschte ne Karawane würde eintreffen.}
+{584}{}{Ich hÃ¶re, in den Familien braut sich wieder was zusammen.}
+{585}{}{Hier ist nichts los. Ich wÃ¼nschte ne Karawane wÃ¼rde eintreffen.}
 {586}{}{Also zogen wir uns wie Deathclaws an...}
 {587}{}{Ich brauche Hilfe, um aus diesem Kleid herauszukommen.}
 {588}{}{Ziehst du mich aus?}
-{589}{}{Mmm-mmm. Sieht aus als wäre wieder Paarungszeit.}
+{589}{}{Mmm-mmm. Sieht aus als wÃ¤re wieder Paarungszeit.}
 {590}{}{Willst du ein wenig Zeit totschlagen?}
 {591}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
-{592}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
+{592}{}{Sie nennen mich nicht umsonst die GlÃ¼cksmarie.}
 {593}{}{Ich liebe die Kondome mit Brahmin Aroma.}
-{594}{}{Magst du mal Spaß mit einer Dame haben?}
-{595}{}{Ich wünschte sie würden eine Art Sex Placebo für Myron entwickeln.}
+{594}{}{Magst du mal SpaÃŸ mit einer Dame haben?}
+{595}{}{Ich wÃ¼nschte sie wÃ¼rden eine Art Sex Placebo fÃ¼r Myron entwickeln.}
 {596}{}{Willst du ne Verabredung Wilder?}
 {597}{}{Willst du bums bums Wilder?}
 {598}{}{Willst du einen Regentanz in meinem Zimmer veranstalten?}
 {599}{}{Alles was du brauchst ist eine Nacht mit mir.}
 {600}{}{Suchst du den Garten Eden? Komm in mein Schlafzimmer.}
 {601}{}{Du hast die Knete, ich hab die Zeit.}
-{602}{}{Kannst du mir helfen? Ich suche meine verlorene Jungfräulichkeit.}
+{602}{}{Kannst du mir helfen? Ich suche meine verlorene JungfrÃ¤ulichkeit.}
 {603}{}{Ich bin noch Jungfrau, aber ich brauche das Geld.}
-{604}{}{Sei vorsichtig, es ist das erste Mal. Für heute.}
+{604}{}{Sei vorsichtig, es ist das erste Mal. FÃ¼r heute.}
 {605}{}{Ich so geil.}
 {606}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {607}{}{Lass mich dein inneres Kind erwecken.}
-{608}{}{Willst du tanzen Süßer?}
+{608}{}{Willst du tanzen SÃ¼ÃŸer?}
 {609}{}{Willst du dein Gebiet markieren?}
-{610}{}{Willst du mich zum stöhnen bringen?}
+{610}{}{Willst du mich zum stÃ¶hnen bringen?}
 {611}{}{::Purrrrr::}
 {612}{}{::Rrrrrowrrr::}
-{613}{}{::Bläst dir einen Kuss zu::}
+{613}{}{::BlÃ¤st dir einen Kuss zu::}
 {614}{}{Ich bin seit letzter Nacht auf...}
-{615}{}{Ich bin nicht billig, aber ich kann dafür einiges bieten.}
+{615}{}{Ich bin nicht billig, aber ich kann dafÃ¼r einiges bieten.}
 {616}{}{Fesseln kostet Extra.}
 {617}{}{Wo ist meine Peitsche?}
 {618}{}{Bist du bereit.}
 {619}{}{Ich musste mich letzte Nacht wie Wilma verkleiden, verdammter Perverser.}
-{620}{}{Ich war gestern Nacht mit Myron zusammen, ungefähr fünf Sekunden.}
+{620}{}{Ich war gestern Nacht mit Myron zusammen, ungefÃ¤hr fÃ¼nf Sekunden.}
 {621}{}{Willst du dein Magazin entladen?}
-{622}{}{Ich wünschte sie würden eine Bodylotion erfinden, die nach Jet riecht...}
-{623}{}{Willst du einer Jungfrau helfen, ihre Jungfräulichkeit zu verlieren?}
-{624}{}{Wenn Myron nicht aufhört, wird mir bald mein Hintern abfallen.}
+{622}{}{Ich wÃ¼nschte sie wÃ¼rden eine Bodylotion erfinden, die nach Jet riecht...}
+{623}{}{Willst du einer Jungfrau helfen, ihre JungfrÃ¤ulichkeit zu verlieren?}
+{624}{}{Wenn Myron nicht aufhÃ¶rt, wird mir bald mein Hintern abfallen.}
 {625}{}{Die verdammte Abstinenzler-Vereinigung kommt bald wieder...}
 {626}{}{::Pfeift::}
-{627}{}{Beißen kostet extra.}
+{627}{}{BeiÃŸen kostet extra.}
 {628}{}{Ich garantiere dir, dass ich besser bin, als dieser PIPBoy, den du benutzt.}
 {629}{}{Soll ich deine Schrauben anziehen?}
-{630}{}{Ich wäre gerne mit Avellone zusammen.}
-{631}{}{Ich wünschte Nick Kesting wäre hier. Wir können Stundenlang reden!}
+{630}{}{Ich wÃ¤re gerne mit Avellone zusammen.}
+{631}{}{Ich wÃ¼nschte Nick Kesting wÃ¤re hier. Wir kÃ¶nnen Stundenlang reden!}
 {632}{}{Nick Kesting ist ein sehr netter Kerl. Wir unterhalten uns immer so toll.}
 {633}{}{Tommy the Balls ist ein Traum von einem Kerl.}
 {634}{}{Schau, schau. Wer ist den da gerade in die Stadt gekommen.}
 {635}{}{Suchst du den Garten Eden? Komm in mein Schlafzimmer.}
 {636}{}{Willst du mit mir spielen.}
-{637}{}{Ich bin Leichtzuham. Und wer bist du, Schätzchen?}
-{638}{}{Hey Süße. Suchst du ne andere Frau?}
-{639}{}{Willst du mal die andere Seite ausprobieren, Süße?}
+{637}{}{Ich bin Leichtzuham. Und wer bist du, SchÃ¤tzchen?}
+{638}{}{Hey SÃ¼ÃŸe. Suchst du ne andere Frau?}
+{639}{}{Willst du mal die andere Seite ausprobieren, SÃ¼ÃŸe?}
 {640}{}{Brauchst du Gesellschaft?}
-{641}{}{Mädchen lass mich dir ein paar Dinge beibringen, die einen nur eine Frau zeigen kann.}
-{642}{}{Brauchst du jemanden, der dein Zelt warmhält, Kleines?}
+{641}{}{MÃ¤dchen lass mich dir ein paar Dinge beibringen, die einen nur eine Frau zeigen kann.}
+{642}{}{Brauchst du jemanden, der dein Zelt warmhÃ¤lt, Kleines?}
 {643}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst, Kleine?}
 {644}{}{Willst du tanzen kleine?}
-{645}{}{Vergiss die Spielautomaten, meine Gewinnchancen sind höher.}
-{646}{}{Mädchen, du hattest noch nie richtigen Sex, wenn du noch keinen Renosex hattest.}
-{647}{}{Willst du fliegen Mädchen?}
+{645}{}{Vergiss die Spielautomaten, meine Gewinnchancen sind hÃ¶her.}
+{646}{}{MÃ¤dchen, du hattest noch nie richtigen Sex, wenn du noch keinen Renosex hattest.}
+{647}{}{Willst du fliegen MÃ¤dchen?}
 {648}{}{Hast du dich verlaufen Cowgirl?}
 {649}{}{Musst du deine Waffe entladen, Action Girl?}
-{650}{}{Suchst du etwas Spaß Mädchen?}
+{650}{}{Suchst du etwas SpaÃŸ MÃ¤dchen?}
 {651}{}{Willst du ins Zentrum, Kleines?}
-{652}{}{Brauchst du einen Führer für die Stadt Süßer?}
-{653}{}{Wo brennt's denn Mädchen?}
-{654}{}{Diese Frau lässt meinen Geigerzähler durch brennen.}
+{652}{}{Brauchst du einen FÃ¼hrer fÃ¼r die Stadt SÃ¼ÃŸer?}
+{653}{}{Wo brennt's denn MÃ¤dchen?}
+{654}{}{Diese Frau lÃ¤sst meinen GeigerzÃ¤hler durch brennen.}
 {655}{}{Ich bin Leichtzuham. Und wer bist du?}
 {656}{}{Brauchst du Gesellschaft?}
 {657}{}{Lass mich dir ein paar Sachen beibringen, die einem nur eine Frau beibringen kann.}
-{658}{}{Brauchst du jemanden, der dein Zelt aufwärmt?}
-{659}{}{Möchtest du dein Bettzeug mit jemandem teilen?}
-{660}{}{Du hast da ein paar heiße Teile Kumpel.}
-{661}{}{Kleine nervige Giftschlange da drüben.}
+{658}{}{Brauchst du jemanden, der dein Zelt aufwÃ¤rmt?}
+{659}{}{MÃ¶chtest du dein Bettzeug mit jemandem teilen?}
+{660}{}{Du hast da ein paar heiÃŸe Teile Kumpel.}
+{661}{}{Kleine nervige Giftschlange da drÃ¼ben.}
 {662}{}{Suchst du Action?}
-{663}{}{Du weißt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
-{664}{}{Möchtest du eine Verabredung?}
-{665}{}{Ich habe gehört es gab Ärger im Einkaufsviertel...}
+{663}{}{Du weiÃŸt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
+{664}{}{MÃ¶chtest du eine Verabredung?}
+{665}{}{Ich habe gehÃ¶rt es gab Ã„rger im Einkaufsviertel...}
 {666}{}{Suchst du Unterhaltung?}
 {667}{}{Der einzige Sport, der gerade in Reno angesagt ist, ist Mandelhockey...}
-{668}{}{Möchtest du tanzen?}
+{668}{}{MÃ¶chtest du tanzen?}
 {669}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {670}{}{Ich kann nicht fassen wie viele Stripper auf Feargus Junggesellenabend waren.}
 {671}{}{Ein neuer Fremder in der Stadt, sieht aus wie...}
@@ -505,167 +505,167 @@
 {679}{}{Der Mann kann Metall zum schmelzen bringen.}
 {680}{}{Es gibt zu viele Obdachlose in der Stadt und viel zu wenige Chips die im Umlauf sind.}
 {681}{}{Ich bin seit gestern Nacht hier unterwegs...}
-{682}{}{Brauchst du einen Freund für den Abend? Oder nur für zehn Minuten?}
-{683}{}{Möchtest du 'n bisschen Spaß?}
-{684}{}{Möchtest du in die Stadt gehen?}
+{682}{}{Brauchst du einen Freund fÃ¼r den Abend? Oder nur fÃ¼r zehn Minuten?}
+{683}{}{MÃ¶chtest du 'n bisschen SpaÃŸ?}
+{684}{}{MÃ¶chtest du in die Stadt gehen?}
 {685}{}{Ich mag deinen Gecko.}
 {686}{}{Den Gecko in deiner Hose?}
-{687}{}{Brauchst du einen Führer durch die Stadt Süßer?}
+{687}{}{Brauchst du einen FÃ¼hrer durch die Stadt SÃ¼ÃŸer?}
 {688}{}{Wo brennt's denn?}
 {689}{}{Junge, lass mich dich zum Mann machen.}
 {690}{}{Mmmmm-mmmmm.}
 {691}{}{Willst du die Paarungszeit der Deathclaws nachspielen?}
-{692}{}{Dieser Mann lässt meinen Geigerzähler durchbrennen.}
+{692}{}{Dieser Mann lÃ¤sst meinen GeigerzÃ¤hler durchbrennen.}
 {693}{}{Wenn ich nachher noch mit dir reden soll kostet das extra..}
 {694}{}{Kann ich dir irgendwie helfen Fremder?}
-{695}{}{Du weißt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
+{695}{}{Du weiÃŸt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
 {696}{}{Ich habe endlich das gepolsterte Kopfteil installiert.}
 {697}{}{Ein Hauch des Paradies? Kostet nur 10 Chips.}
 {698}{}{Myron: Nur Wachs, kein Docht.}
 {699}{}{Myron ist ein echter Wirbelsturm.}
 {700}{}{AC-DC, B n' D, was auch immer.}
-{701}{}{Was erwartet er von mir, dass ich mich bücke?}
+{701}{}{Was erwartet er von mir, dass ich mich bÃ¼cke?}
 {702}{}{Ich denke das Reno Schild wird bald runterfallen...}
 {703}{}{Die Tochter von Bishop ist ein echter Betthase.}
 {704}{}{She ain't no Jet addict, she's a BONE addict.}
-{705}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
+{705}{}{Ich habe gehÃ¶rt, dass es in Vault City nur zwei Arten von BÃ¼rgern gibt. Vielleicht war das ein Klonunfall.}
 {706}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
-{707}{}{Suchst du nach Liebe Süßer?}
-{708}{}{Ich wünschte Myron würde umziehen. Weit weg.}
-{709}{}{Du kannst ALLES haben was du willst... für den entsprechenden Preis versteht sich.}
-{710}{}{Ich bin fertig, Schätzchen. Wie stehts bei dir?}
-{711}{}{::Flüstert dir zu::}
+{707}{}{Suchst du nach Liebe SÃ¼ÃŸer?}
+{708}{}{Ich wÃ¼nschte Myron wÃ¼rde umziehen. Weit weg.}
+{709}{}{Du kannst ALLES haben was du willst... fÃ¼r den entsprechenden Preis versteht sich.}
+{710}{}{Ich bin fertig, SchÃ¤tzchen. Wie stehts bei dir?}
+{711}{}{::FlÃ¼stert dir zu::}
 {712}{}{Ich hasse Teebeutel.}
 {713}{}{Willst du mit mir spielen.}
-{714}{}{Möchtest du 'n bisschen Spaß?}
+{714}{}{MÃ¶chtest du 'n bisschen SpaÃŸ?}
 {715}{}{Pure Reno Liebe, gibts nur hier.}
 {716}{}{Ich will mit dir spielen.}
-{717}{}{Ich bin schmutzig und heiß.}
-{718}{}{Ich bin schüchtern und heiß.}
-{719}{}{Ich bin verdorben und heiß.}
-{720}{}{Ich kann es dir "old school" mäßig machen.}
-{721}{}{Ich habe Syphilis... äh ich meine Erfahrung.}
-{722}{}{Ich bin schmutzig und heiß.}
+{717}{}{Ich bin schmutzig und heiÃŸ.}
+{718}{}{Ich bin schÃ¼chtern und heiÃŸ.}
+{719}{}{Ich bin verdorben und heiÃŸ.}
+{720}{}{Ich kann es dir "old school" mÃ¤ÃŸig machen.}
+{721}{}{Ich habe Syphilis... Ã¤h ich meine Erfahrung.}
+{722}{}{Ich bin schmutzig und heiÃŸ.}
 {723}{}{Abenteurer machen mich an.}
 {724}{}{Ich hab 'ne Freundin, wenn du's gern doppelt magst.}
-{725}{}{Ich wünschte mir Myron wäre schwul.}
+{725}{}{Ich wÃ¼nschte mir Myron wÃ¤re schwul.}
 {726}{}{Frischfleisch...}
-{727}{}{Ich weiß noch immer nicht warum die Straße Virgin Street heißt...}
-{728}{}{Ich wünschte mir er würde ab und zu ne Papiertüte tragen...}
+{727}{}{Ich weiÃŸ noch immer nicht warum die StraÃŸe Virgin Street heiÃŸt...}
+{728}{}{Ich wÃ¼nschte mir er wÃ¼rde ab und zu ne PapiertÃ¼te tragen...}
 {729}{}{Kaufst du mir nen Drink?}
 {730}{}{Nimmst du 'ne einsame Dame mit in die Stadt?}
 {731}{}{Oh man! Ein Tourist!}
-{732}{}{Komm her Süßer, die Show beginnt gleich...}
-{733}{}{Ich habe gehört, dass ein Paar Frauen in der Stadt ihren Zuhälter getötet haben.}
+{732}{}{Komm her SÃ¼ÃŸer, die Show beginnt gleich...}
+{733}{}{Ich habe gehÃ¶rt, dass ein Paar Frauen in der Stadt ihren ZuhÃ¤lter getÃ¶tet haben.}
 {734}{}{Hallooooo, Fremder.}
-{735}{}{Dieser Jules lässt mich besser in Ruhe.}
+{735}{}{Dieser Jules lÃ¤sst mich besser in Ruhe.}
 {736}{}{Ich habe noch immer die Beule vom Bettpfosten...}
-{737}{}{Bin total erschöpft seit dieser letzten Tagung...}
-{738}{}{Ich wünschte diese Wilden würden in eine andere Stadt gehen.}
-{739}{}{Ich dachte die Erde würde sich bewegen, aber es war nur das Chili.}
+{737}{}{Bin total erschÃ¶pft seit dieser letzten Tagung...}
+{738}{}{Ich wÃ¼nschte diese Wilden wÃ¼rden in eine andere Stadt gehen.}
+{739}{}{Ich dachte die Erde wÃ¼rde sich bewegen, aber es war nur das Chili.}
 {740}{}{Bring mich zum schmelzen.}
-{741}{}{Er macht weiter, er hat mich auf seinem Zähler...}
-{742}{}{Das Summen der Neonlichter macht mich noch ganz verrückt...}
+{741}{}{Er macht weiter, er hat mich auf seinem ZÃ¤hler...}
+{742}{}{Das Summen der Neonlichter macht mich noch ganz verrÃ¼ckt...}
 {743}{}{Ich bin Jungfrau. Ich bin nur nicht sehr gut darin.}
-{744}{}{Kaum zu glauben, dass ich dafür aus Den hierhergekommen bin...}
-{745}{}{Hey Fremder! Brauchst du einen Führer?}
+{744}{}{Kaum zu glauben, dass ich dafÃ¼r aus Den hierhergekommen bin...}
+{745}{}{Hey Fremder! Brauchst du einen FÃ¼hrer?}
 {746}{}{Jules will immer alles umsonst.}
-{747}{}{Ich höre, in den Familien braut sich wieder was zusammen.}
-{748}{}{Hier ist nichts los. Ich wünschte ne Karawane würde eintreffen.}
+{747}{}{Ich hÃ¶re, in den Familien braut sich wieder was zusammen.}
+{748}{}{Hier ist nichts los. Ich wÃ¼nschte ne Karawane wÃ¼rde eintreffen.}
 {749}{}{Also zogen wir uns wie Deathclaws an...}
 {750}{}{Ich brauche Hilfe, um aus diesem Kleid herauszukommen.}
 {751}{}{Ziehst du mich aus?}
-{752}{}{Mmm-mmm. Sieht aus als wäre wieder Paarungszeit.}
+{752}{}{Mmm-mmm. Sieht aus als wÃ¤re wieder Paarungszeit.}
 {753}{}{Willst du ein wenig Zeit totschlagen?}
 {754}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
-{755}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
+{755}{}{Sie nennen mich nicht umsonst die GlÃ¼cksmarie.}
 {756}{}{Ich liebe die Kondome mit Brahmin Aroma.}
-{757}{}{Magst du mal Spaß mit einer Dame haben?}
-{758}{}{Ich wünschte sie würden eine Art Sex Placebo für Myron entwickeln.}
+{757}{}{Magst du mal SpaÃŸ mit einer Dame haben?}
+{758}{}{Ich wÃ¼nschte sie wÃ¼rden eine Art Sex Placebo fÃ¼r Myron entwickeln.}
 {759}{}{Willst du ne Verabredung Wilder?}
 {760}{}{Willst du bums bums Wilder?}
 {761}{}{Willst du einen Regentanz in meinem Zimmer veranstalten?}
 {762}{}{Alles was du brauchst ist eine Nacht mit mir.}
 {763}{}{Suchst du den Garten Eden? Komm in mein Schlafzimmer.}
 {764}{}{Du hast die Knete, ich hab die Zeit.}
-{765}{}{Kannst du mir helfen? Ich suche meine verlorene Jungfräulichkeit.}
+{765}{}{Kannst du mir helfen? Ich suche meine verlorene JungfrÃ¤ulichkeit.}
 {766}{}{Ich bin noch Jungfrau, aber ich brauche das Geld.}
-{767}{}{Sei vorsichtig, es ist das erste Mal. Für heute.}
+{767}{}{Sei vorsichtig, es ist das erste Mal. FÃ¼r heute.}
 {768}{}{Ich so geil.}
 {769}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {770}{}{Lass mich dein inneres Kind erwecken.}
-{771}{}{Willst du tanzen Süßer?}
+{771}{}{Willst du tanzen SÃ¼ÃŸer?}
 {772}{}{Willst du dein Gebiet markieren?}
-{773}{}{Willst du mich zum stöhnen bringen?}
+{773}{}{Willst du mich zum stÃ¶hnen bringen?}
 {774}{}{::Purrrrr::}
 {775}{}{::Rrrrrowrrr::}
-{776}{}{::Bläst dir einen Kuss zu::}
+{776}{}{::BlÃ¤st dir einen Kuss zu::}
 {777}{}{Ich bin seit letzter Nacht auf...}
-{778}{}{Ich bin nicht billig, aber ich kann dafür einiges bieten.}
+{778}{}{Ich bin nicht billig, aber ich kann dafÃ¼r einiges bieten.}
 {779}{}{Fesseln kostet Extra.}
 {780}{}{Wo ist meine Peitsche?}
 {781}{}{Bist du bereit.}
 {782}{}{Ich musste mich letzte Nacht wie Wilma verkleiden, verdammter Perverser.}
-{783}{}{Ich war gestern Nacht mit Myron zusammen, ungefähr fünf Sekunden.}
+{783}{}{Ich war gestern Nacht mit Myron zusammen, ungefÃ¤hr fÃ¼nf Sekunden.}
 {784}{}{Willst du dein Magazin entladen?}
-{785}{}{Ich wünschte sie würden eine Bodylotion erfinden, die nach Jet riecht...}
-{786}{}{Willst du einer Jungfrau helfen, ihre Jungfräulichkeit zu verlieren?}
-{787}{}{Wenn Myron nicht aufhört, wird mir bald mein Hintern abfallen.}
+{785}{}{Ich wÃ¼nschte sie wÃ¼rden eine Bodylotion erfinden, die nach Jet riecht...}
+{786}{}{Willst du einer Jungfrau helfen, ihre JungfrÃ¤ulichkeit zu verlieren?}
+{787}{}{Wenn Myron nicht aufhÃ¶rt, wird mir bald mein Hintern abfallen.}
 {788}{}{Die verdammte Abstinenzler-Vereinigung kommt bald wieder...}
 {789}{}{::Pfeift::}
-{790}{}{Beißen kostet extra.}
+{790}{}{BeiÃŸen kostet extra.}
 {791}{}{Ich garantiere dir, dass ich besser bin, als dieser PIPBoy, den du benutzt.}
 {792}{}{Soll ich deine Schrauben anziehen?}
-{793}{}{Ich wäre gerne mit Avellone zusammen.}
-{794}{}{Ich wünschte Nick Kesting wäre hier. Wir können Stundenlang reden!}
+{793}{}{Ich wÃ¤re gerne mit Avellone zusammen.}
+{794}{}{Ich wÃ¼nschte Nick Kesting wÃ¤re hier. Wir kÃ¶nnen Stundenlang reden!}
 {795}{}{Nick Kesting ist ein sehr netter Kerl. Wir unterhalten uns immer so toll.}
 {796}{}{Tommy the Balls ist ein Traum von einem Kerl.}
 {797}{}{Schau an wer da gerade in die Stadt gekommen ist...}
 {798}{}{Suchst du den Garten Eden? Komm in mein Schlafzimmer.}
 {799}{}{Willst du mit mir spielen.}
-{800}{}{Ich bin Leichtzuham. Und wer bist du, Schätzchen?}
-{801}{}{Hey Süße. Suchst du ne andere Frau?}
-{802}{}{Willst du mal die andere Seite ausprobieren, Süße?}
+{800}{}{Ich bin Leichtzuham. Und wer bist du, SchÃ¤tzchen?}
+{801}{}{Hey SÃ¼ÃŸe. Suchst du ne andere Frau?}
+{802}{}{Willst du mal die andere Seite ausprobieren, SÃ¼ÃŸe?}
 {803}{}{Brauchst du Gesellschaft?}
-{804}{}{Mädchen lass mich dir ein paar Dinge beibringen, die einen nur eine Frau zeigen kann.}
-{805}{}{Brauchst du jemanden, der dein Zelt warmhält, Kleines?}
+{804}{}{MÃ¤dchen lass mich dir ein paar Dinge beibringen, die einen nur eine Frau zeigen kann.}
+{805}{}{Brauchst du jemanden, der dein Zelt warmhÃ¤lt, Kleines?}
 {806}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst, Kleine?}
 {807}{}{Willst du tanzen kleine?}
-{808}{}{Vergiss die Spielautomaten, meine Gewinnchancen sind höher.}
-{809}{}{Mädchen, du hattest noch nie richtigen Sex, wenn du noch keinen Renosex hattest.}
-{810}{}{Willst du fliegen Mädchen?}
+{808}{}{Vergiss die Spielautomaten, meine Gewinnchancen sind hÃ¶her.}
+{809}{}{MÃ¤dchen, du hattest noch nie richtigen Sex, wenn du noch keinen Renosex hattest.}
+{810}{}{Willst du fliegen MÃ¤dchen?}
 {811}{}{Hast du dich verlaufen Cowgirl?}
 {812}{}{Musst du deine Waffe entladen, Action Girl?}
-{813}{}{Suchst du etwas Spaß Mädchen?}
+{813}{}{Suchst du etwas SpaÃŸ MÃ¤dchen?}
 {814}{}{Willst du ins Zentrum, Kleines?}
-{815}{}{Brauchst du einen Führer durch die Stadt Süßer?}
-{816}{}{Wo brennt's denn Mädchen?}
-{817}{}{Diese Frau lässt meinen Geigerzähler durch brennen.}
-{818}{}{Die Enklave? Präsident? Erzähl mir die ganze Geschichte.}
-{819}{}{Tom French hat mir ein Drehbuch geschrieben. Er hat weiche, sanfte Hände.}
+{815}{}{Brauchst du einen FÃ¼hrer durch die Stadt SÃ¼ÃŸer?}
+{816}{}{Wo brennt's denn MÃ¤dchen?}
+{817}{}{Diese Frau lÃ¤sst meinen GeigerzÃ¤hler durch brennen.}
+{818}{}{Die Enklave? PrÃ¤sident? ErzÃ¤hl mir die ganze Geschichte.}
+{819}{}{Tom French hat mir ein Drehbuch geschrieben. Er hat weiche, sanfte HÃ¤nde.}
 {820}{}{Die wollten schon wieder einen KRIEG? Echt! Gut das du diese Bastarde erledigt hast.}
 {821}{}{Du bist ein echter Bad Boy. Ich meine du hast als speerwerfender Wilder begonnen - ohne Erfahrung - und du gehst aus und rettest die Welt. Du trittst ihnen in den Arsch. Ende der Geschichte.}
 {822}{}{Du solltest das spiel nochmal, mit einen anderen Charakter durchspielen.}
-{823}{}{Erzähl mir alles über deinen Kampf mit der Enklave...}
+{823}{}{ErzÃ¤hl mir alles Ã¼ber deinen Kampf mit der Enklave...}
 {824}{}{Hey, wenn du einmal gratis ran willst, weil du die Welt gerettet hast, ich bin sicher wir werden uns einig...}
-{825}{}{Ich weiß nicht, wie du gegen diese Enklavenschweine eine Chance hattest, aber du bist die mutigste Person die ich kenne.}
+{825}{}{Ich weiÃŸ nicht, wie du gegen diese Enklavenschweine eine Chance hattest, aber du bist die mutigste Person die ich kenne.}
 {826}{}{Tim Cain? Ja, er ist einer meiner Stammkunden.}
-{827}{}{Küss mich du Enklaven zerstörender Held.}
-{828}{}{Wie ich höre, suchen die Brüder nach dir. Die wollen 'nen Film über dein Abenteuer drehen.}
+{827}{}{KÃ¼ss mich du Enklaven zerstÃ¶render Held.}
+{828}{}{Wie ich hÃ¶re, suchen die BrÃ¼der nach dir. Die wollen 'nen Film Ã¼ber dein Abenteuer drehen.}
 {829}{}{Wir vermissen Tim Cain. er kann wunderbar Brot backen. Dann hat er uns immer den Hintern versohlt, wie kleinen Kindern.}
-{830}{}{Ich weiß, ich bin nur ein NPC, aber in bin sehr erbost, wie Frauen hier in New Reno behandelt werden.}
+{830}{}{Ich weiÃŸ, ich bin nur ein NPC, aber in bin sehr erbost, wie Frauen hier in New Reno behandelt werden.}
 {831}{}{Die Frauen in dieser Stadt scheinen von einem sexhungrigen Nerd entworfen worden zu sein, der noch immer bei seinen Eltern im Keller wohnt.}
-{832}{}{New Reno wurde von Chris Avellone und Tom French entworfen. Beide sind in sexueller hinsicht Götter.}
+{832}{}{New Reno wurde von Chris Avellone und Tom French entworfen. Beide sind in sexueller hinsicht GÃ¶tter.}
 {833}{}{Feargus bekam einen finsteren Blick als er gesehn hatte, wie viel Text ich hatte. Er ist immer so ernst.}
 {834}{}{Du sagst das Locutus der Enklave gedient hat? Und ich habe den Bastard umsonst rangelassen!}
-{835}{}{Ein Paar Frauen müssen dir echt dein Herz gebrochen haben, wenn du dich in so einer Powerrüstung versteckst. Lass mich die helfen.}
+{835}{}{Ein Paar Frauen mÃ¼ssen dir echt dein Herz gebrochen haben, wenn du dich in so einer PowerrÃ¼stung versteckst. Lass mich die helfen.}
 {836}{}{Pass auf, Eisenmann, wenn ich mich als Dorothy oder Toto, verkleiden soll kostet das extra.}
-{837}{}{Kumpel, wenn du es mit mir tun willst musst du aus dieser Rüstung raus; Das Metall ist hart und zerkratzt mich.}
-{838}{}{Gibt es da ne Lucke oder musst du für den Blowjob die Rüstung ausziehen?}
+{837}{}{Kumpel, wenn du es mit mir tun willst musst du aus dieser RÃ¼stung raus; Das Metall ist hart und zerkratzt mich.}
+{838}{}{Gibt es da ne Lucke oder musst du fÃ¼r den Blowjob die RÃ¼stung ausziehen?}
 {839}{}{Wenn du darin ne Erektion bekommst, scheuerst du ihn dabei nicht wund?}
-{840}{}{Sieht aus als hättest du dein eigenes Kondom dabei.}
-{841}{}{Ist das etwa ein neuartiges Ganzkörperkondom?}
-{842}{}{Du musst ja echt Angst vor Aids haben, wenn du in sowas rumläufst.}
+{840}{}{Sieht aus als hÃ¤ttest du dein eigenes Kondom dabei.}
+{841}{}{Ist das etwa ein neuartiges GanzkÃ¶rperkondom?}
+{842}{}{Du musst ja echt Angst vor Aids haben, wenn du in sowas rumlÃ¤ufst.}
 {843}{}{Wenn du mich in dem Ding haben willst kostet das extra.}
 {844}{}{Wenn ich das anziehen soll musst du erstmal da rauskommen.}
 {845}{}{Rostet die wenn ich Feucht werde?}
@@ -675,85 +675,85 @@
 {849}{}{Ist das so 'n neuartiger Vibrator?}
 {850}{}{Ich glaube sowas habe ich schon mal in einem Anime gesehen.}
 {851}{}{Bist du sicher, dass du nicht nur ne Autowaschanlage suchst?}
-{852}{}{Pass auf Süßer, du musst da raus; das Metall tut weh und verursacht Kratzer.}
+{852}{}{Pass auf SÃ¼ÃŸer, du musst da raus; das Metall tut weh und verursacht Kratzer.}
 {853}{}{Dient das Ding zur Geburtenkontrolle?}
-{854}{}{Willst du mit mir in den Ring steigen Süße? Ich halte locker 12 Runden durch.}
+{854}{}{Willst du mit mir in den Ring steigen SÃ¼ÃŸe? Ich halte locker 12 Runden durch.}
 {855}{}{Willst du boxen, }
-{856}{}{Mädchen, du bist ein echtes Bad Girl.}
-{857}{}{Wow, hast du Muskeln. Du bist stärker, als so mancher Mann den ich kenne. Und ich kenne viele Männer.}
+{856}{}{MÃ¤dchen, du bist ein echtes Bad Girl.}
+{857}{}{Wow, hast du Muskeln. Du bist stÃ¤rker, als so mancher Mann den ich kenne. Und ich kenne viele MÃ¤nner.}
 {858}{}{Wie gehts, }
 {859}{}{Suchst du mich?}
-{860}{}{Wieso kommst du nicht öfters vorbei?}
+{860}{}{Wieso kommst du nicht Ã¶fters vorbei?}
 {861}{}{Brauchst du Gesellschaft, }
 {862}{}{Netter Vorbau.}
-{863}{}{Hey... pass auf den Masticator auf. Ein echter Drecksack. Er hat mal versucht mir ein Ohr abzubeißen.}
-{864}{}{Du bisst echt sexy Mädchen, weißt du das?}
+{863}{}{Hey... pass auf den Masticator auf. Ein echter Drecksack. Er hat mal versucht mir ein Ohr abzubeiÃŸen.}
+{864}{}{Du bisst echt sexy MÃ¤dchen, weiÃŸt du das?}
 {865}{}{}
-{866}{}{wenn du noch eine Begleitung für später suchst...}
+{866}{}{wenn du noch eine Begleitung fÃ¼r spÃ¤ter suchst...}
 {867}{}{}
 {868}{}{Hallo, }
-{869}{}{Legst du beim Boss ein gutes Wort für mich ein?}
+{869}{}{Legst du beim Boss ein gutes Wort fÃ¼r mich ein?}
 {870}{}{wenn das nicht, }
 {871}{}{Ich kann alles tun was du willst, du musst nur fragen.}
-{872}{}{Legst du beim Boss ein gutes Wort für mich ein?}
+{872}{}{Legst du beim Boss ein gutes Wort fÃ¼r mich ein?}
 {873}{}{}
-{874}{}{Wenn sie später eine Begleitung suchen Fräulein...}
-{875}{}{Mein Name ist Easy, Sklavenhändler. Wie lautet deiner?}
-{876}{}{Brauchst du jemanden, den du mit deiner Leine einfangen kannst Sklavenhändler?}
-{877}{}{Warum bringst du mich nicht zurück in deinen Käfig Sklavenhändler?}
-{878}{}{Soll ich an deinen Käfig rütteln Sklavenhändler?}
-{879}{}{Du bist verspielt Sklavenhändler, oder?}
-{880}{}{Hast du deine eigenen Feuchttücher dabei?}
-{881}{}{Ja, die SIND echt und NEIN, du kannst dich nicht selbst überzeugen.}
+{874}{}{Wenn sie spÃ¤ter eine Begleitung suchen FrÃ¤ulein...}
+{875}{}{Mein Name ist Easy, SklavenhÃ¤ndler. Wie lautet deiner?}
+{876}{}{Brauchst du jemanden, den du mit deiner Leine einfangen kannst SklavenhÃ¤ndler?}
+{877}{}{Warum bringst du mich nicht zurÃ¼ck in deinen KÃ¤fig SklavenhÃ¤ndler?}
+{878}{}{Soll ich an deinen KÃ¤fig rÃ¼tteln SklavenhÃ¤ndler?}
+{879}{}{Du bist verspielt SklavenhÃ¤ndler, oder?}
+{880}{}{Hast du deine eigenen FeuchttÃ¼cher dabei?}
+{881}{}{Ja, die SIND echt und NEIN, du kannst dich nicht selbst Ã¼berzeugen.}
 {882}{}{Willst du reiten Cowboy?}
 {883}{}{Willst du mich mit deinem pinken Torpedo versenken?}
 {884}{}{Lass mich dir ein paar Sachen beibringen, die einem nur eine Frau beibringen kann.}
-{885}{}{Brauchst du jemanden, der dein Zelt aufwärmt Sklavenhändler?}
-{886}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst, Sklavenhändler?}
-{887}{}{Du hast da ein paar heiße Teile, Sklavenhändler.}
-{888}{}{Kleine lästige Schlampe da drüben.}
+{885}{}{Brauchst du jemanden, der dein Zelt aufwÃ¤rmt SklavenhÃ¤ndler?}
+{886}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst, SklavenhÃ¤ndler?}
+{887}{}{Du hast da ein paar heiÃŸe Teile, SklavenhÃ¤ndler.}
+{888}{}{Kleine lÃ¤stige Schlampe da drÃ¼ben.}
 {889}{}{Suchst du Action?}
-{890}{}{Du weißt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
-{891}{}{Möchtest du eine Verabredung?}
+{890}{}{Du weiÃŸt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
+{891}{}{MÃ¶chtest du eine Verabredung?}
 {892}{}{Hier gibt es nichts umsonst.}
-{893}{}{Ich habe gehört es gab Ärger im Einkaufsviertel...}
+{893}{}{Ich habe gehÃ¶rt es gab Ã„rger im Einkaufsviertel...}
 {894}{}{Suchst du Unterhaltung?}
 {895}{}{Der einzige Sport, der gerade in Reno angesagt ist, ist Mandelhockey...}
-{896}{}{Willst du tanzen Sklavenhändler?}
-{897}{}{Sklavenhändler, du hattest noch nie richtig Sex, wenn du noch keinen Reno Sex hattest.}
+{896}{}{Willst du tanzen SklavenhÃ¤ndler?}
+{897}{}{SklavenhÃ¤ndler, du hattest noch nie richtig Sex, wenn du noch keinen Reno Sex hattest.}
 {898}{}{Ich kann nicht fassen wie viele Stripper auf Feargus Junggesellenabend waren.}
-{899}{}{Mein Job? Ich verwandle Jungs in Männer.}
+{899}{}{Mein Job? Ich verwandle Jungs in MÃ¤nner.}
 {900}{}{Kannst du einen 6 cm Nagel, mit deinen Penis in ein Brett schlagen?}
 {901}{}{Ich bin schon zu lange in dieser Stadt...}
-{902}{}{Brauchst du einen Freund für dich Nacht Sklavenhändler? Oder für 10 Minuten?}
+{902}{}{Brauchst du einen Freund fÃ¼r dich Nacht SklavenhÃ¤ndler? Oder fÃ¼r 10 Minuten?}
 {903}{}{Willst du fliegen?}
 {904}{}{Ich habe lange keine Karawanen mehr aus Redding gesehen...}
 {905}{}{Nette Gurke.}
-{906}{}{Hast du dich verlaufen Sklavenhändler?}
-{907}{}{Musst du wieder mal deinen Waffe entladend Sklavenhändler?}
+{906}{}{Hast du dich verlaufen SklavenhÃ¤ndler?}
+{907}{}{Musst du wieder mal deinen Waffe entladend SklavenhÃ¤ndler?}
 {908}{}{Kann ich dir irgendwie helfen Fremder?}
-{909}{}{Ich mag deinen Gecko, Sklavenhändler.}
+{909}{}{Ich mag deinen Gecko, SklavenhÃ¤ndler.}
 {910}{}{Den Gecko in deiner Hose?}
-{911}{}{Brauchst du einen Führer durch die Stadt Süßer?}
-{912}{}{Wo brennt's den, Sklavenhändler?}
+{911}{}{Brauchst du einen FÃ¼hrer durch die Stadt SÃ¼ÃŸer?}
+{912}{}{Wo brennt's den, SklavenhÃ¤ndler?}
 {913}{}{Junge, lass mich dich zum Mann machen.}
-{914}{}{Willst du tanzen Sklavenhändler?}
+{914}{}{Willst du tanzen SklavenhÃ¤ndler?}
 {915}{}{Oh, hallo, Mr. Tyler. Gehen sie schon?}
 {916}{}{Wenn ich hinterher mit dir reden soll, kostet's extra.}
-{917}{}{Ja, die SIND echt und NEIN, du kannst dich nicht selbst überzeugen.}
+{917}{}{Ja, die SIND echt und NEIN, du kannst dich nicht selbst Ã¼berzeugen.}
 {918}{}{Dieser Kerl, Fred Hatch, er wollte von mir wissen, ob es auch mollige Frauen in der Stadt gibt. Komisch.}
 {919}{}{[Sings.] "Let's play - master and servant. Let's play - master and servant."}
 {920}{}{Willst du Meister und Sklave spielen?}
 {921}{}{Wenn ich nachher noch etwas bleiben soll kostet das extra.}
-{922}{}{Willst du sehen wo der Bär steppt?}
+{922}{}{Willst du sehen wo der BÃ¤r steppt?}
 {923}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
-{924}{}{Ich bin nicht billig, aber ich kann dafür einiges bieten.}
+{924}{}{Ich bin nicht billig, aber ich kann dafÃ¼r einiges bieten.}
 {925}{}{Ich werde passen wie ein frischer Anzug.}
-{926}{}{lass uns über Sackläuse reden, ich habe welche.}
+{926}{}{lass uns Ã¼ber SacklÃ¤use reden, ich habe welche.}
 {927}{}{Schau an wer da gerade in die Stadt gekommen ist...}
 {928}{}{Suchst du den Garten Eden? Komm in mein Schlafzimmer.}
 {929}{}{Suchst du Action?}
-{930}{}{Wenn du böse bist muss ich dich bestrafen.}
+{930}{}{Wenn du bÃ¶se bist muss ich dich bestrafen.}
 {931}{}{Ich habe endlich das gepolsterte Kopfteil installiert.}
 {932}{}{Ein Hauch des Paradies? Kostet nur 10 Chips.}
 {933}{}{Myron: Nur Wachs, kein Docht.}
@@ -761,172 +761,172 @@
 {935}{}{AC-DC, B n' D, was auch immer.}
 {936}{}{Die Tochter von Bishop ist ein echter Betthase.}
 {937}{}{She ain't no Jet addict, she's a BONE addict.}
-{938}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
+{938}{}{Ich habe gehÃ¶rt, dass es in Vault City nur zwei Arten von BÃ¼rgern gibt. Vielleicht war das ein Klonunfall.}
 {939}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
-{940}{}{Suchst du nach Liebe Süßer?}
-{941}{}{Keine Küsse. So sind die Regeln.}
-{942}{}{Ich wünschte Myron würde umziehen. Weit weg.}
-{943}{}{Du kannst ALLES haben was du willst Sklavenhändler... für den entsprechenden Preis versteht sich.}
-{944}{}{Ich bin fertig, Schätzchen. Wie stehts bei dir?}
+{940}{}{Suchst du nach Liebe SÃ¼ÃŸer?}
+{941}{}{Keine KÃ¼sse. So sind die Regeln.}
+{942}{}{Ich wÃ¼nschte Myron wÃ¼rde umziehen. Weit weg.}
+{943}{}{Du kannst ALLES haben was du willst SklavenhÃ¤ndler... fÃ¼r den entsprechenden Preis versteht sich.}
+{944}{}{Ich bin fertig, SchÃ¤tzchen. Wie stehts bei dir?}
 {945}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {946}{}{Ich hasse Teebeutel.}
-{947}{}{Willst du mit mir spielen Sklavenhändler.}
-{948}{}{Möchtest du 'n bisschen Spaß?}
+{947}{}{Willst du mit mir spielen SklavenhÃ¤ndler.}
+{948}{}{MÃ¶chtest du 'n bisschen SpaÃŸ?}
 {949}{}{Pure Reno Liebe, gibts nur hier.}
 {950}{}{Ich will mit dir spielen.}
-{951}{}{Ich bin schmutzig und heiß.}
-{952}{}{Ich bin schüchtern und heiß.}
-{953}{}{Ich bin verdorben und heiß.}
-{954}{}{Ich kann es dir "old school" mäßig machen.}
-{955}{}{Ich habe Syphilis... äh ich meine Erfahrung.}
-{956}{}{Ich bin schmutzig und heiß.}
+{951}{}{Ich bin schmutzig und heiÃŸ.}
+{952}{}{Ich bin schÃ¼chtern und heiÃŸ.}
+{953}{}{Ich bin verdorben und heiÃŸ.}
+{954}{}{Ich kann es dir "old school" mÃ¤ÃŸig machen.}
+{955}{}{Ich habe Syphilis... Ã¤h ich meine Erfahrung.}
+{956}{}{Ich bin schmutzig und heiÃŸ.}
 {957}{}{Ich habe auch ne Freundin, wenn du einen Dreier willst.}
-{958}{}{Ich wünschte mir Myron wäre schwul.}
-{959}{}{Ich weiß noch immer nicht warum die Straße Virgin Street heißt...}
-{960}{}{Ich wünschte mir er würde ab und zu ne Papiertüte tragen.}
-{961}{}{Kaufst du mir nen Drink Sklavenhändler?}
-{962}{}{Willst du mit einer einsamen Lady in die Stadt gehen Sklavenhändler?}
-{963}{}{Äh, natürlich bin ich eine Frau. Schau einfach nicht auf den Adamsapfel.}
-{964}{}{Ich habe gehört, dass ein Paar Frauen in der Stadt ihren Zuhälter getötet haben.}
+{958}{}{Ich wÃ¼nschte mir Myron wÃ¤re schwul.}
+{959}{}{Ich weiÃŸ noch immer nicht warum die StraÃŸe Virgin Street heiÃŸt...}
+{960}{}{Ich wÃ¼nschte mir er wÃ¼rde ab und zu ne PapiertÃ¼te tragen.}
+{961}{}{Kaufst du mir nen Drink SklavenhÃ¤ndler?}
+{962}{}{Willst du mit einer einsamen Lady in die Stadt gehen SklavenhÃ¤ndler?}
+{963}{}{Ã„h, natÃ¼rlich bin ich eine Frau. Schau einfach nicht auf den Adamsapfel.}
+{964}{}{Ich habe gehÃ¶rt, dass ein Paar Frauen in der Stadt ihren ZuhÃ¤lter getÃ¶tet haben.}
 {965}{}{Hallooooo, Fremder.}
-{966}{}{Dieser Jules lässt mich besser in Ruhe.}
+{966}{}{Dieser Jules lÃ¤sst mich besser in Ruhe.}
 {967}{}{Ich habe noch immer die Beule vom Bettpfosten...}
-{968}{}{Ist schlimm da draußen geworden, nach dem letzten Sklavereitreffen.}
-{969}{}{Ich wünschte die Gen Convention würde in einer anderen Stadt stattfinden.}
-{970}{}{Du kannst Metall zum schmelzen bringen, weißt du das?}
-{971}{}{Ich dachte die Erde würde sich bewegen, aber es war nur das Chili.}
+{968}{}{Ist schlimm da drauÃŸen geworden, nach dem letzten Sklavereitreffen.}
+{969}{}{Ich wÃ¼nschte die Gen Convention wÃ¼rde in einer anderen Stadt stattfinden.}
+{970}{}{Du kannst Metall zum schmelzen bringen, weiÃŸt du das?}
+{971}{}{Ich dachte die Erde wÃ¼rde sich bewegen, aber es war nur das Chili.}
 {972}{}{Bring mich zum schmelzen.}
 {973}{}{Ich bin Jungfrau. Ich bin nur nicht sehr gut darin.}
-{974}{}{Brauchst du einen Führer durch die Stadt Sklavenhändler?}
+{974}{}{Brauchst du einen FÃ¼hrer durch die Stadt SklavenhÃ¤ndler?}
 {975}{}{Whoa. DAS kostet extra.}
 {976}{}{Jules will immer alles umsonst.}
-{977}{}{Ich höre, in den Familien braut sich wieder was zusammen.}
-{978}{}{Hier ist nichts los. Ich wünschte ne Karawane würde eintreffen.}
+{977}{}{Ich hÃ¶re, in den Familien braut sich wieder was zusammen.}
+{978}{}{Hier ist nichts los. Ich wÃ¼nschte ne Karawane wÃ¼rde eintreffen.}
 {979}{}{Also zogen wir uns wie Deathclaws an...}
 {980}{}{Ich brauche Hilfe, um aus diesem Kleid herauszukommen.}
 {981}{}{Ziehst du mich aus?}
 {982}{}{Entschuldigung, was hast du gesagt? Ich war von deinem Arsch abgelenkt.}
 {983}{}{Willst du ein wenig Zeit totschlagen?}
-{984}{}{Möchtest du 'n bisschen Spaß?}
+{984}{}{MÃ¶chtest du 'n bisschen SpaÃŸ?}
 {985}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
-{986}{}{Möchtest du in die Stadt gehen?}
-{987}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
-{988}{}{Natürlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
-{989}{}{Willst du einer Frau ne schöne Zeit machen Sklavenhändler?}
-{990}{}{Ich wünschte sie würden eine Art Sex Placebo für Myron entwickeln.}
-{991}{}{Willst du ne Verabredung Sklavenhändler?}
-{992}{}{Alles was du brauchst ist eine Nacht mit mir Sklavenhändler.}
+{986}{}{MÃ¶chtest du in die Stadt gehen?}
+{987}{}{Sie nennen mich nicht umsonst die GlÃ¼cksmarie.}
+{988}{}{NatÃ¼rlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
+{989}{}{Willst du einer Frau ne schÃ¶ne Zeit machen SklavenhÃ¤ndler?}
+{990}{}{Ich wÃ¼nschte sie wÃ¼rden eine Art Sex Placebo fÃ¼r Myron entwickeln.}
+{991}{}{Willst du ne Verabredung SklavenhÃ¤ndler?}
+{992}{}{Alles was du brauchst ist eine Nacht mit mir SklavenhÃ¤ndler.}
 {993}{}{Suchst du den Garten Eden? Komm in mein Schlafzimmer.}
-{994}{}{Du hast die Chips Sklavenhändler, ich habe die Zeit.}
-{995}{}{Kannst du mir helfen? Ich suche meine verlorene Jungfräulichkeit.}
+{994}{}{Du hast die Chips SklavenhÃ¤ndler, ich habe die Zeit.}
+{995}{}{Kannst du mir helfen? Ich suche meine verlorene JungfrÃ¤ulichkeit.}
 {996}{}{Ich bin noch Jungfrau, aber ich brauche das Geld.}
-{997}{}{Sei vorsichtig, es ist das erste Mal. Für heute.}
+{997}{}{Sei vorsichtig, es ist das erste Mal. FÃ¼r heute.}
 {998}{}{Ich so geil.}
 {999}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {1000}{}{Lass mich dein inneres Kind erwecken.}
 {1001}{}{Ich mach das nur, um das College zu bezahlen.}
 {1002}{}{Pass auch, zum letzten Mal. Ich ziehe mich nicht wie der "Vaultbewohner" an}
 {1003}{}{Willst du dein Gebiet markieren?}
-{1004}{}{Willst du mich zum stöhnen bringen?}
+{1004}{}{Willst du mich zum stÃ¶hnen bringen?}
 {1005}{}{::Purrrrr::}
 {1006}{}{::Rrrrrowrrr::}
-{1007}{}{Hör auf mich zu nerven.}
+{1007}{}{HÃ¶r auf mich zu nerven.}
 {1008}{}{Ich bin seit letzter Nacht auf...}
 {1009}{}{Willst du die Paarungszeit der Deathclaws nachspielen?}
-{1010}{}{Ich bin nicht billig, aber ich kann dafür einiges bieten.}
+{1010}{}{Ich bin nicht billig, aber ich kann dafÃ¼r einiges bieten.}
 {1011}{}{Fesseln kostet Extra.}
 {1012}{}{Wo ist meine Peitsche?}
 {1013}{}{Bist du bereit.}
 {1014}{}{Ich musste mich letzte Nacht wie Wilma verkleiden, verdammter Perverser.}
-{1015}{}{Ich war gestern Nacht mit Myron zusammen, ungefähr fünf Sekunden.}
+{1015}{}{Ich war gestern Nacht mit Myron zusammen, ungefÃ¤hr fÃ¼nf Sekunden.}
 {1016}{}{Willst du dein Magazin entladen?}
-{1017}{}{Ich wünschte sie würden eine Bodylotion erfinden, die nach Jet riecht...}
-{1018}{}{Willst du einer Jungfrau helfen, ihre Jungfräulichkeit zu verlieren?}
-{1019}{}{Wenn Myron nicht aufhört, wird mir bald mein Hintern abfallen.}
+{1017}{}{Ich wÃ¼nschte sie wÃ¼rden eine Bodylotion erfinden, die nach Jet riecht...}
+{1018}{}{Willst du einer Jungfrau helfen, ihre JungfrÃ¤ulichkeit zu verlieren?}
+{1019}{}{Wenn Myron nicht aufhÃ¶rt, wird mir bald mein Hintern abfallen.}
 {1020}{}{Die verdammte Abstinenzler-Vereinigung kommt bald wieder...}
-{1021}{}{Du bringst meinen Geigerzähler zum Ausschlagen.}
+{1021}{}{Du bringst meinen GeigerzÃ¤hler zum Ausschlagen.}
 {1022}{}{::Pfeift::}
-{1023}{}{Beißen kostet extra.}
+{1023}{}{BeiÃŸen kostet extra.}
 {1024}{}{Ich garantiere dir, dass ich besser bin, als dieser PIPBoy, den du benutzt.}
 {1025}{}{Soll ich deine Schrauben anziehen?}
-{1026}{}{Ich wäre gerne mit Avellone zusammen.}
-{1027}{}{Ich wünschte Nick Kesting wäre hier. Wir können Stundenlang reden!}
+{1026}{}{Ich wÃ¤re gerne mit Avellone zusammen.}
+{1027}{}{Ich wÃ¼nschte Nick Kesting wÃ¤re hier. Wir kÃ¶nnen Stundenlang reden!}
 {1028}{}{Nick Kesting ist ein sehr netter Kerl. Wir unterhalten uns immer so toll.}
 {1029}{}{Tommy the Balls ist ein Traum von einem Kerl.}
-{1030}{}{Ich brauche nur 50 Chips um dich glücklich zu machen.}
-{1031}{}{Mein Name ist Easy Sklavenhändlerin. Wie lautet deiner?}
-{1032}{}{Brauchst du jemanden, den du mit deinem Lasso einfangen kannst Sklavenhändlerin?}
-{1033}{}{Warum bringst du mich nicht zurück in deinen Käfig Sklavenhändlerin?}
-{1034}{}{Hey, Sklavenhändlerin. Suchst du einen andere Frau?}
-{1035}{}{Willst du mal die andere Seite ausprobieren, Süße?}
-{1036}{}{Soll ich an deinem Käfig rütteln Sklavenhändlerin?}
-{1037}{}{Experimentierfreundlich Sklavenhändlerin? Beweis es.}
-{1038}{}{Willst du deine wilden Träume ausleben Sklavenhändlerin?}
-{1039}{}{Brauchst du jemanden, der dein Zelt warmhält Sklavenhändlerin?}
-{1040}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst Sklavenhändlerin?}
-{1041}{}{Du hast da ein paar echt heiße Kurven Sklavenhändlerin.}
-{1042}{}{Willst du tanzen Sklavenhändlerin?}
-{1043}{}{Sklavenhändlerin du hattest noch nie richtigen Sex, wenn du noch keinen Reno Sex hattest.}
-{1044}{}{Mein Job? Ich verwandle Jungen in "Männer". Ich weiß noch nicht genau in was ich eigentlich die Frauen verwandle, aber ich werde es herausfinden.}
-{1045}{}{Hast du dich verlaufen Sklavenhändlerin?}
-{1046}{}{Suchst du etwas Spaß Sklavenhändlerin?}
-{1047}{}{Brauchst du ein Date Sklavenhändlerin?}
-{1048}{}{Wo brennt's denn Sklavenhändlerin?}
-{1049}{}{Du lässt meinen Geigerzähler durchbrennen Sklavenhändlerin.}
+{1030}{}{Ich brauche nur 50 Chips um dich glÃ¼cklich zu machen.}
+{1031}{}{Mein Name ist Easy SklavenhÃ¤ndlerin. Wie lautet deiner?}
+{1032}{}{Brauchst du jemanden, den du mit deinem Lasso einfangen kannst SklavenhÃ¤ndlerin?}
+{1033}{}{Warum bringst du mich nicht zurÃ¼ck in deinen KÃ¤fig SklavenhÃ¤ndlerin?}
+{1034}{}{Hey, SklavenhÃ¤ndlerin. Suchst du einen andere Frau?}
+{1035}{}{Willst du mal die andere Seite ausprobieren, SÃ¼ÃŸe?}
+{1036}{}{Soll ich an deinem KÃ¤fig rÃ¼tteln SklavenhÃ¤ndlerin?}
+{1037}{}{Experimentierfreundlich SklavenhÃ¤ndlerin? Beweis es.}
+{1038}{}{Willst du deine wilden TrÃ¤ume ausleben SklavenhÃ¤ndlerin?}
+{1039}{}{Brauchst du jemanden, der dein Zelt warmhÃ¤lt SklavenhÃ¤ndlerin?}
+{1040}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst SklavenhÃ¤ndlerin?}
+{1041}{}{Du hast da ein paar echt heiÃŸe Kurven SklavenhÃ¤ndlerin.}
+{1042}{}{Willst du tanzen SklavenhÃ¤ndlerin?}
+{1043}{}{SklavenhÃ¤ndlerin du hattest noch nie richtigen Sex, wenn du noch keinen Reno Sex hattest.}
+{1044}{}{Mein Job? Ich verwandle Jungen in "MÃ¤nner". Ich weiÃŸ noch nicht genau in was ich eigentlich die Frauen verwandle, aber ich werde es herausfinden.}
+{1045}{}{Hast du dich verlaufen SklavenhÃ¤ndlerin?}
+{1046}{}{Suchst du etwas SpaÃŸ SklavenhÃ¤ndlerin?}
+{1047}{}{Brauchst du ein Date SklavenhÃ¤ndlerin?}
+{1048}{}{Wo brennt's denn SklavenhÃ¤ndlerin?}
+{1049}{}{Du lÃ¤sst meinen GeigerzÃ¤hler durchbrennen SklavenhÃ¤ndlerin.}
 {1050}{}{Ich bin Leichtzuham. Und wer bist du?}
 {1051}{}{Du bist verspielt oder?}
-{1052}{}{Hast du deine eigenen Feuchttücher dabei?}
+{1052}{}{Hast du deine eigenen FeuchttÃ¼cher dabei?}
 {1053}{}{Ja, die SIND echt.}
-{1054}{}{Ja, die SIND echt und NEIN, du kannst dich nicht selbst überzeugen.}
+{1054}{}{Ja, die SIND echt und NEIN, du kannst dich nicht selbst Ã¼berzeugen.}
 {1055}{}{Verpiss dich, Arschgesicht.}
 {1056}{}{Willst du reiten Cowboy?}
 {1057}{}{Willst du mich mit deinem pinken Torpedo versenken?}
-{1058}{}{Brauchst du jemanden, der dein Zelt aufwärmt?}
-{1059}{}{Möchtest du dein Bettzeug mit jemandem teilen?}
-{1060}{}{Du hast da ein paar heiße Teile Kumpel.}
-{1061}{}{Kleine nervige Giftschlange da drüben.}
+{1058}{}{Brauchst du jemanden, der dein Zelt aufwÃ¤rmt?}
+{1059}{}{MÃ¶chtest du dein Bettzeug mit jemandem teilen?}
+{1060}{}{Du hast da ein paar heiÃŸe Teile Kumpel.}
+{1061}{}{Kleine nervige Giftschlange da drÃ¼ben.}
 {1062}{}{Suchst du Action?}
-{1063}{}{Du weißt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
-{1064}{}{Möchtest du eine Verabredung?}
+{1063}{}{Du weiÃŸt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
+{1064}{}{MÃ¶chtest du eine Verabredung?}
 {1065}{}{Hier gibt es nichts umsonst.}
-{1066}{}{Ich habe gehört es gab Ärger im Einkaufsviertel...}
+{1066}{}{Ich habe gehÃ¶rt es gab Ã„rger im Einkaufsviertel...}
 {1067}{}{Suchst du Unterhaltung?}
 {1068}{}{Der einzige Sport, der gerade in Reno angesagt ist, ist Mandelhockey...}
-{1069}{}{Möchtest du tanzen?}
-{1070}{}{Du weißt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
-{1071}{}{Mein Job? Ich verwandle Jungs in Männer.}
+{1069}{}{MÃ¶chtest du tanzen?}
+{1070}{}{Du weiÃŸt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
+{1071}{}{Mein Job? Ich verwandle Jungs in MÃ¤nner.}
 {1072}{}{Kannst du einen 6 cm Nagel, mit deinen Penis in ein Brett schlagen?}
 {1073}{}{Ich bin seit gestern Nacht hier unterwegs...}
-{1074}{}{Brauchst du einen Freund für den Abend? Oder nur für zehn Minuten?}
+{1074}{}{Brauchst du einen Freund fÃ¼r den Abend? Oder nur fÃ¼r zehn Minuten?}
 {1075}{}{Willst du fliegen?}
 {1076}{}{Ich habe lange keine Karawanen mehr aus Redding gesehen...}
 {1077}{}{Nette Gurke.}
 {1078}{}{Hast du dich verlaufen Cowboy?}
 {1079}{}{Hast du eine Waffe die entladen werden muss, Soldat?}
 {1080}{}{Kann ich dir irgendwie helfen Fremder?}
-{1081}{}{Möchtest du 'n bisschen Spaß?}
-{1082}{}{Möchtest du in die Stadt gehen?}
+{1081}{}{MÃ¶chtest du 'n bisschen SpaÃŸ?}
+{1082}{}{MÃ¶chtest du in die Stadt gehen?}
 {1083}{}{Ich mag deinen Gecko.}
 {1084}{}{Den Gecko in deiner Hose?}
-{1085}{}{Brauchst du einen Führer für die Stadt Süßer?}
+{1085}{}{Brauchst du einen FÃ¼hrer fÃ¼r die Stadt SÃ¼ÃŸer?}
 {1086}{}{Wo brennt's denn?}
 {1087}{}{Du hast das Geld, ich hab die Zeit.}
 {1088}{}{Junge, lass mich dich zum Mann machen.}
 {1089}{}{Oh, hallo, Mr. Tyler. Gehen sie schon?}
 {1090}{}{Wenn ich hinterher mit dir reden soll, kostet's extra.}
 {1091}{}{Dieser Kerl, Fred Hatch, er wollte von mir wissen, ob es auch mollige Frauen in der Stadt gibt. Komisch.}
-{1092}{}{Dein Freund, mit dem Knochen durch die Nase... großartiger Schmuck.}
+{1092}{}{Dein Freund, mit dem Knochen durch die Nase... groÃŸartiger Schmuck.}
 {1093}{}{Kann dein Freund mit dem Knochen durch die Nase auch Tricks damit?}
 {1094}{}{Vielleicht sollte ich mir auch einen Knochen durch die Nase stecken. Das lockt vielleicht mehr weibliche Kunden an.}
-{1095}{}{Dein Begleiter hat einen Knochen in seiner Nase so groß wie mein Arm. Jesus Christi.}
+{1095}{}{Dein Begleiter hat einen Knochen in seiner Nase so groÃŸ wie mein Arm. Jesus Christi.}
 {1096}{}{Ich will gar nicht wissen, wie der Knochen in seine Nase gekommen ist.}
-{1097}{}{Ist dein Freund, mit dem Knochen durch die Nase, auch in diesem Geschäft?}
+{1097}{}{Ist dein Freund, mit dem Knochen durch die Nase, auch in diesem GeschÃ¤ft?}
 {1098}{}{Wie viel soll den dein Freund mit dem Knochen in der Nase kosten?}
-{1099}{}{Für 30 Chips, kann ich den Knochen, in der Nase, deines Freundes länger machen.}
+{1099}{}{FÃ¼r 30 Chips, kann ich den Knochen, in der Nase, deines Freundes lÃ¤nger machen.}
 {1100}{}{Muss dein Freund mit dem Knochen in der Nase was kompensieren?}
 {1101}{}{Suchst du den Garten Eden? Komm in mein Schlafzimmer.}
 {1102}{}{Suchst du Action?}
-{1103}{}{Wenn du böse bist muss ich dich bestrafen.}
+{1103}{}{Wenn du bÃ¶se bist muss ich dich bestrafen.}
 {1104}{}{Lass mich dir ein paar Sachen beibringen, die einem nur eine Frau beibringen kann.}
 {1105}{}{Ich habe endlich das gepolsterte Kopfteil installiert.}
 {1106}{}{Ein Hauch des Paradies? Kostet nur 10 Chips.}
@@ -935,153 +935,153 @@
 {1109}{}{AC-DC, B n' D, was auch immer.}
 {1110}{}{Die Tochter von Bishop ist ein echter Betthase.}
 {1111}{}{She ain't no Jet addict, she's a BONE addict.}
-{1112}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
+{1112}{}{Ich habe gehÃ¶rt, dass es in Vault City nur zwei Arten von BÃ¼rgern gibt. Vielleicht war das ein Klonunfall.}
 {1113}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
-{1114}{}{Suchst du nach Liebe Süßer?}
-{1115}{}{Keine Küsse. So sind die Regeln.}
-{1116}{}{Ich wünschte Myron würde umziehen. Weit weg.}
-{1117}{}{Du kannst ALLES haben was du willst... für den entsprechenden Preis versteht sich.}
-{1118}{}{Ich bin fertig, Schätzchen. Wie stehts bei dir?}
+{1114}{}{Suchst du nach Liebe SÃ¼ÃŸer?}
+{1115}{}{Keine KÃ¼sse. So sind die Regeln.}
+{1116}{}{Ich wÃ¼nschte Myron wÃ¼rde umziehen. Weit weg.}
+{1117}{}{Du kannst ALLES haben was du willst... fÃ¼r den entsprechenden Preis versteht sich.}
+{1118}{}{Ich bin fertig, SchÃ¤tzchen. Wie stehts bei dir?}
 {1119}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {1120}{}{Ich hasse Teebeutel.}
 {1121}{}{Willst du mit mir spielen.}
-{1122}{}{Möchtest du 'n bisschen Spaß?}
+{1122}{}{MÃ¶chtest du 'n bisschen SpaÃŸ?}
 {1123}{}{Ich kann nicht fassen wie viele Stripper auf Feargus Junggesellenabend waren.}
 {1124}{}{Pure Reno Liebe, gibts nur hier.}
 {1125}{}{Ich will mit dir spielen.}
-{1126}{}{Ich bin schmutzig und heiß.}
-{1127}{}{Ich bin schüchtern und heiß.}
-{1128}{}{Ich kann es dir "old school" mäßig machen.}
-{1129}{}{Ich bin verdorben und heiß.}
-{1130}{}{Ich habe Syphilis... äh ich meine Erfahrung.}
-{1131}{}{Ich bin schmutzig und heiß.}
+{1126}{}{Ich bin schmutzig und heiÃŸ.}
+{1127}{}{Ich bin schÃ¼chtern und heiÃŸ.}
+{1128}{}{Ich kann es dir "old school" mÃ¤ÃŸig machen.}
+{1129}{}{Ich bin verdorben und heiÃŸ.}
+{1130}{}{Ich habe Syphilis... Ã¤h ich meine Erfahrung.}
+{1131}{}{Ich bin schmutzig und heiÃŸ.}
 {1132}{}{Ich hab 'ne Freundin, wenn du's gern doppelt magst.}
-{1133}{}{Ich wünschte mir Myron wäre schwul.}
-{1134}{}{Ich weiß noch immer nicht warum die Straße Virgin Street heißt...}
-{1135}{}{Ich wünschte mir er würde ab und zu ne Papiertüte tragen.}
+{1133}{}{Ich wÃ¼nschte mir Myron wÃ¤re schwul.}
+{1134}{}{Ich weiÃŸ noch immer nicht warum die StraÃŸe Virgin Street heiÃŸt...}
+{1135}{}{Ich wÃ¼nschte mir er wÃ¼rde ab und zu ne PapiertÃ¼te tragen.}
 {1136}{}{Kaufst du mir nen Drink?}
 {1137}{}{Nimmst du 'ne einsame Dame mit in die Stadt?}
-{1138}{}{Äh, natürlich bin ich eine Frau. Schau einfach nicht auf den Adamsapfel.}
-{1139}{}{Ich habe gehört, dass ein Paar Frauen in der Stadt ihren Zuhälter getötet haben.}
+{1138}{}{Ã„h, natÃ¼rlich bin ich eine Frau. Schau einfach nicht auf den Adamsapfel.}
+{1139}{}{Ich habe gehÃ¶rt, dass ein Paar Frauen in der Stadt ihren ZuhÃ¤lter getÃ¶tet haben.}
 {1140}{}{Hallooooo, Fremder.}
-{1141}{}{Dieser Jules lässt mich besser in Ruhe.}
+{1141}{}{Dieser Jules lÃ¤sst mich besser in Ruhe.}
 {1142}{}{Ich habe noch immer die Beule vom Bettpfosten...}
-{1143}{}{Bin total erschöpft seit dieser letzten Tagung...}
-{1144}{}{Ich wünschte die Gen Convention würde in einer anderen Stadt stattfinden.}
-{1145}{}{Du kannst Metall zum schmelzen bringen, weißt du das?}
-{1146}{}{Ich dachte die Erde würde sich bewegen, aber es war nur das Chili.}
+{1143}{}{Bin total erschÃ¶pft seit dieser letzten Tagung...}
+{1144}{}{Ich wÃ¼nschte die Gen Convention wÃ¼rde in einer anderen Stadt stattfinden.}
+{1145}{}{Du kannst Metall zum schmelzen bringen, weiÃŸt du das?}
+{1146}{}{Ich dachte die Erde wÃ¼rde sich bewegen, aber es war nur das Chili.}
 {1147}{}{Bring mich zum schmelzen.}
 {1148}{}{Ich bin Jungfrau. Ich bin nur nicht sehr gut darin.}
-{1149}{}{Brauchst du einen Führer durch die Stadt?}
+{1149}{}{Brauchst du einen FÃ¼hrer durch die Stadt?}
 {1150}{}{*Whoa.* Das kostet extra.}
 {1151}{}{Jules will immer alles umsonst.}
-{1152}{}{Ich höre, in den Familien braut sich wieder was zusammen.}
-{1153}{}{Hier ist nichts los. Ich wünschte ne Karawane würde eintreffen.}
+{1152}{}{Ich hÃ¶re, in den Familien braut sich wieder was zusammen.}
+{1153}{}{Hier ist nichts los. Ich wÃ¼nschte ne Karawane wÃ¼rde eintreffen.}
 {1154}{}{Also zogen wir uns wie Deathclaws an...}
 {1155}{}{Ich brauche Hilfe, um aus diesem Kleid herauszukommen.}
 {1156}{}{Ziehst du mich aus?}
 {1157}{}{Entschuldigung, was hast du gesagt? Ich war von deinem Arsch abgelenkt.}
 {1158}{}{Willst du ein wenig Zeit totschlagen?}
 {1159}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
-{1160}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
-{1161}{}{Natürlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
-{1162}{}{Magst du mal Spaß mit einer Dame haben?}
-{1163}{}{Ich wünschte sie würden eine Art Sex Placebo für Myron entwickeln.}
+{1160}{}{Sie nennen mich nicht umsonst die GlÃ¼cksmarie.}
+{1161}{}{NatÃ¼rlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
+{1162}{}{Magst du mal SpaÃŸ mit einer Dame haben?}
+{1163}{}{Ich wÃ¼nschte sie wÃ¼rden eine Art Sex Placebo fÃ¼r Myron entwickeln.}
 {1164}{}{Willst du ne Verabredung Wilder?}
 {1165}{}{Willst du bums bums Wilder?}
 {1166}{}{Willst du einen Regentanz in meinem Zimmer veranstalten?}
 {1167}{}{Alles was du brauchst ist eine Nacht mit mir.}
 {1168}{}{Suchst du den Garten Eden? Komm in mein Schlafzimmer.}
-{1169}{}{Kannst du mir helfen? Ich suche meine verlorene Jungfräulichkeit.}
+{1169}{}{Kannst du mir helfen? Ich suche meine verlorene JungfrÃ¤ulichkeit.}
 {1170}{}{Ich bin noch Jungfrau, aber ich brauche das Geld.}
-{1171}{}{Sei vorsichtig, es ist das erste Mal. Für heute.}
+{1171}{}{Sei vorsichtig, es ist das erste Mal. FÃ¼r heute.}
 {1172}{}{Ich so geil.}
 {1173}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {1174}{}{Lass mich dein inneres Kind erwecken.}
 {1175}{}{Ich mach das nur, um das College zu bezahlen.}
-{1176}{}{Willst du tanzen Süßer?}
+{1176}{}{Willst du tanzen SÃ¼ÃŸer?}
 {1177}{}{Pass auf, zum letzten Mal. Ich werde mich nicht als "Vaultbewohner" verkleiden.}
 {1178}{}{Willst du dein Gebiet markieren?}
-{1179}{}{Willst du mich zum stöhnen bringen?}
+{1179}{}{Willst du mich zum stÃ¶hnen bringen?}
 {1180}{}{::Purrrrr::}
 {1181}{}{::Rrrrrowrrr::}
-{1182}{}{Hör auf mich zu nerven.}
+{1182}{}{HÃ¶r auf mich zu nerven.}
 {1183}{}{Ich bin seit letzter Nacht auf...}
 {1184}{}{Willst du die Paarungszeit der Deathclaws nachspielen?}
-{1185}{}{Ich bin nicht billig, aber ich kann dafür einiges bieten.}
+{1185}{}{Ich bin nicht billig, aber ich kann dafÃ¼r einiges bieten.}
 {1186}{}{Fesseln kostet Extra.}
 {1187}{}{Wo ist meine Peitsche?}
 {1188}{}{Bist du bereit.}
 {1189}{}{Ich musste mich letzte Nacht wie Wilma verkleiden, verdammter Perverser.}
-{1190}{}{Ich war gestern Nacht mit Myron zusammen, ungefähr fünf Sekunden.}
+{1190}{}{Ich war gestern Nacht mit Myron zusammen, ungefÃ¤hr fÃ¼nf Sekunden.}
 {1191}{}{Willst du dein Magazin entladen?}
-{1192}{}{Ich wünschte sie würden eine Bodylotion erfinden, die nach Jet riecht...}
-{1193}{}{Willst du einer Jungfrau helfen, ihre Jungfräulichkeit zu verlieren?}
-{1194}{}{Wenn Myron nicht aufhört, wird mir bald mein Hintern abfallen.}
+{1192}{}{Ich wÃ¼nschte sie wÃ¼rden eine Bodylotion erfinden, die nach Jet riecht...}
+{1193}{}{Willst du einer Jungfrau helfen, ihre JungfrÃ¤ulichkeit zu verlieren?}
+{1194}{}{Wenn Myron nicht aufhÃ¶rt, wird mir bald mein Hintern abfallen.}
 {1195}{}{Die verdammte Abstinenzler-Vereinigung kommt bald wieder...}
-{1196}{}{Du bringst meinen Geigerzähler zum Ausschlagen.}
+{1196}{}{Du bringst meinen GeigerzÃ¤hler zum Ausschlagen.}
 {1197}{}{::Pfeift::}
-{1198}{}{Beißen kostet extra.}
+{1198}{}{BeiÃŸen kostet extra.}
 {1199}{}{Ich garantiere dir, dass ich besser bin, als dieser PIPBoy, den du benutzt.}
 {1200}{}{Soll ich deine Schrauben anziehen?}
-{1201}{}{Ich wäre gerne mit Avellone zusammen.}
-{1202}{}{Ich wünschte Nick Kesting wäre hier. Wir können Stundenlang reden!}
+{1201}{}{Ich wÃ¤re gerne mit Avellone zusammen.}
+{1202}{}{Ich wÃ¼nschte Nick Kesting wÃ¤re hier. Wir kÃ¶nnen Stundenlang reden!}
 {1203}{}{Nick Kesting ist ein sehr netter Kerl. Wir unterhalten uns immer so toll.}
 {1204}{}{Tommy the Balls ist ein Traum von einem Kerl.}
-{1205}{}{Ich brauche nur 50 Chips um dich glücklich zu machen.}
-{1206}{}{Ich bin Leichtzuham. Und wer bist du, Schätzchen?}
-{1207}{}{Hey Süße. Suchst du ne andere Frau?}
-{1208}{}{Willst du mal die andere Seite ausprobieren, Süße?}
+{1205}{}{Ich brauche nur 50 Chips um dich glÃ¼cklich zu machen.}
+{1206}{}{Ich bin Leichtzuham. Und wer bist du, SchÃ¤tzchen?}
+{1207}{}{Hey SÃ¼ÃŸe. Suchst du ne andere Frau?}
+{1208}{}{Willst du mal die andere Seite ausprobieren, SÃ¼ÃŸe?}
 {1209}{}{Brauchst du Gesellschaft?}
-{1210}{}{Mädchen lass mich dir ein paar Dinge beibringen, die einen nur eine Frau zeigen kann.}
-{1211}{}{Brauchst du jemanden, der dein Zelt warmhält, Kleines?}
+{1210}{}{MÃ¤dchen lass mich dir ein paar Dinge beibringen, die einen nur eine Frau zeigen kann.}
+{1211}{}{Brauchst du jemanden, der dein Zelt warmhÃ¤lt, Kleines?}
 {1212}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst, Kleine?}
 {1213}{}{Willst du tanzen kleine?}
-{1214}{}{Mädchen, du hattest noch nie richtigen Sex, wenn du noch keinen Renosex hattest.}
-{1215}{}{Willst du fliegen Mädchen?}
+{1214}{}{MÃ¤dchen, du hattest noch nie richtigen Sex, wenn du noch keinen Renosex hattest.}
+{1215}{}{Willst du fliegen MÃ¤dchen?}
 {1216}{}{Hast du dich verlaufen Cowgirl?}
 {1217}{}{Hey Action Girl.}
-{1218}{}{Suchst du etwas Spaß Mädchen?}
+{1218}{}{Suchst du etwas SpaÃŸ MÃ¤dchen?}
 {1219}{}{Willst du ins Zentrum, Kleines?}
-{1220}{}{Brauchst du einen Führer für die Stadt Süßer?}
-{1221}{}{Wo brennt's denn Mädchen?}
-{1222}{}{Du hast die Chips Mädchen, ich habe die Zeit.}
+{1220}{}{Brauchst du einen FÃ¼hrer fÃ¼r die Stadt SÃ¼ÃŸer?}
+{1221}{}{Wo brennt's denn MÃ¤dchen?}
+{1222}{}{Du hast die Chips MÃ¤dchen, ich habe die Zeit.}
 {1223}{}{Ich bin Leichtzuham. Und wer bist du?}
 {1224}{}{Du bist verspielt oder?}
-{1225}{}{Hast du deine eigenen Feuchttücher dabei?}
+{1225}{}{Hast du deine eigenen FeuchttÃ¼cher dabei?}
 {1226}{}{Ja, die SIND echt.}
-{1227}{}{Ja, die SIND echt und NEIN, du kannst dich nicht selbst überzeugen.}
+{1227}{}{Ja, die SIND echt und NEIN, du kannst dich nicht selbst Ã¼berzeugen.}
 {1228}{}{Verpiss dich, Arschgesicht.}
 {1229}{}{Willst du reiten Cowboy?}
 {1230}{}{Willst du mich mit deinem pinken Torpedo versenken?}
-{1231}{}{Brauchst du jemanden, der dein Zelt aufwärmt?}
-{1232}{}{Möchtest du dein Bettzeug mit jemandem teilen?}
-{1233}{}{Du hast da ein paar heiße Teile Kumpel.}
-{1234}{}{Kleine nervige Giftschlange da drüben.}
+{1231}{}{Brauchst du jemanden, der dein Zelt aufwÃ¤rmt?}
+{1232}{}{MÃ¶chtest du dein Bettzeug mit jemandem teilen?}
+{1233}{}{Du hast da ein paar heiÃŸe Teile Kumpel.}
+{1234}{}{Kleine nervige Giftschlange da drÃ¼ben.}
 {1235}{}{Suchst du Action?}
-{1236}{}{Du weißt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
-{1237}{}{Möchtest du eine Verabredung?}
+{1236}{}{Du weiÃŸt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
+{1237}{}{MÃ¶chtest du eine Verabredung?}
 {1238}{}{Pass auf hier gibt es nichts umsonst.}
-{1239}{}{Hab gehört, es gab Schwierigkeiten in der Commercial Row...}
+{1239}{}{Hab gehÃ¶rt, es gab Schwierigkeiten in der Commercial Row...}
 {1240}{}{Suchst du Unterhaltung?}
 {1241}{}{Der einzige Sport, der gerade in Reno angesagt ist, ist Mandelhockey...}
-{1242}{}{Möchtest du tanzen?}
-{1243}{}{Du weißt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
-{1244}{}{Mein Job? Ich verwandle Jungs in Männer.}
+{1242}{}{MÃ¶chtest du tanzen?}
+{1243}{}{Du weiÃŸt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
+{1244}{}{Mein Job? Ich verwandle Jungs in MÃ¤nner.}
 {1245}{}{Kannst du einen 6 cm Nagel, mit deinen Penis in ein Brett schlagen?}
 {1246}{}{Ich bin seit gestern Nacht hier unterwegs...}
-{1247}{}{Brauchst du einen Freund für den Abend? Oder nur für zehn Minuten?}
+{1247}{}{Brauchst du einen Freund fÃ¼r den Abend? Oder nur fÃ¼r zehn Minuten?}
 {1248}{}{Willst du fliegen?}
 {1249}{}{Ich habe lange keine Karawanen mehr aus Redding gesehen...}
 {1250}{}{Nette Gurke.}
 {1251}{}{Hast du dich verlaufen Cowboy?}
 {1252}{}{Hast du eine Waffe die entladen werden muss, Soldat?}
 {1253}{}{Kann ich dir irgendwie helfen Fremder?}
-{1254}{}{Möchtest du 'n bisschen Spaß?}
-{1255}{}{Möchtest du in die Stadt gehen?}
+{1254}{}{MÃ¶chtest du 'n bisschen SpaÃŸ?}
+{1255}{}{MÃ¶chtest du in die Stadt gehen?}
 {1256}{}{Ich mag deinen Gecko.}
 {1257}{}{Den Gecko in deiner Hose?}
-{1258}{}{Brauchst du einen Führer für die Stadt Süßer?}
+{1258}{}{Brauchst du einen FÃ¼hrer fÃ¼r die Stadt SÃ¼ÃŸer?}
 {1259}{}{Wo brennt's denn?}
 {1260}{}{Du hast die Knete, ich hab die Zeit.}
 {1261}{}{Junge, lass mich dich zum Mann machen.}
@@ -1089,17 +1089,17 @@
 {1263}{}{Wenn ich hinterher mit dir reden soll, kostet's extra.}
 {1264}{}{Dieser Kerl, Fred Hatch, er wollte von mir wissen, ob es auch mollige Frauen in der Stadt gibt. Komisch.}
 {1265}{}{Wenn ich nach der Liebe wach bleiben soll, kostet's extra.}
-{1266}{}{Willst du sehen wo der Bär steppt?}
+{1266}{}{Willst du sehen wo der BÃ¤r steppt?}
 {1267}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
-{1268}{}{Ich bin nicht billig, aber ich kann dafür einiges bieten.}
-{1269}{}{Hey Süßer.}
+{1268}{}{Ich bin nicht billig, aber ich kann dafÃ¼r einiges bieten.}
+{1269}{}{Hey SÃ¼ÃŸer.}
 {1270}{}{Willst du ringen?}
 {1271}{}{Ich werde passen wie ein frischer Anzug.}
-{1272}{}{lass uns über Sackläuse reden, ich habe welche.}
+{1272}{}{lass uns Ã¼ber SacklÃ¤use reden, ich habe welche.}
 {1273}{}{Schau an wer da gerade in die Stadt gekommen ist...}
 {1274}{}{Suchst du den Garten Eden? Komm in mein Schlafzimmer.}
 {1275}{}{Suchst du Action?}
-{1276}{}{Wenn du böse bist muss ich dich bestrafen.}
+{1276}{}{Wenn du bÃ¶se bist muss ich dich bestrafen.}
 {1277}{}{Lass mich dir ein paar Sachen beibringen, die einem nur eine Frau beibringen kann.}
 {1278}{}{Ich habe endlich das gepolsterte Kopfteil installiert.}
 {1279}{}{Ein Hauch des Paradies? Kostet nur 10 Chips.}
@@ -1108,134 +1108,134 @@
 {1282}{}{AC-DC, B n' D, was auch immer.}
 {1283}{}{Die Tochter von Bishop ist ein echter Betthase.}
 {1284}{}{She ain't no Jet addict, she's a BONE addict.}
-{1285}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
+{1285}{}{Ich habe gehÃ¶rt, dass es in Vault City nur zwei Arten von BÃ¼rgern gibt. Vielleicht war das ein Klonunfall.}
 {1286}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
-{1287}{}{Suchst du nach Liebe Süßer?}
-{1288}{}{Keine Küsse. So sind die Regeln.}
-{1289}{}{Ich wünschte Myron würde umziehen. Weit weg.}
-{1290}{}{Du kannst ALLES haben was du willst... für den entsprechenden Preis versteht sich.}
-{1291}{}{Ich bin fertig, Schätzchen. Wie stehts bei dir?}
+{1287}{}{Suchst du nach Liebe SÃ¼ÃŸer?}
+{1288}{}{Keine KÃ¼sse. So sind die Regeln.}
+{1289}{}{Ich wÃ¼nschte Myron wÃ¼rde umziehen. Weit weg.}
+{1290}{}{Du kannst ALLES haben was du willst... fÃ¼r den entsprechenden Preis versteht sich.}
+{1291}{}{Ich bin fertig, SchÃ¤tzchen. Wie stehts bei dir?}
 {1292}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {1293}{}{Ich hasse Teebeutel.}
 {1294}{}{Willst du mit mir spielen.}
-{1295}{}{Suchst du etwas Spaß?}
+{1295}{}{Suchst du etwas SpaÃŸ?}
 {1296}{}{Ich kann nicht fassen wie viele Stripper auf Feargus Junggesellenabend waren.}
 {1297}{}{Richtige Liebe gibt es nur hier.}
 {1298}{}{Ich will mit dir spielen.}
-{1299}{}{Ich bin schmutzig und heiß.}
-{1300}{}{Ich bin schüchtern und heiß.}
-{1301}{}{Ich bin verdorben und heiß.}
-{1302}{}{Ich kann es dir "old school" mäßig machen.}
-{1303}{}{Ich habe Syphilis... äh ich meine Erfahrung.}
-{1304}{}{Ich bin schmutzig und heiß.}
+{1299}{}{Ich bin schmutzig und heiÃŸ.}
+{1300}{}{Ich bin schÃ¼chtern und heiÃŸ.}
+{1301}{}{Ich bin verdorben und heiÃŸ.}
+{1302}{}{Ich kann es dir "old school" mÃ¤ÃŸig machen.}
+{1303}{}{Ich habe Syphilis... Ã¤h ich meine Erfahrung.}
+{1304}{}{Ich bin schmutzig und heiÃŸ.}
 {1305}{}{Ich hab 'ne Freundin, wenn du's gern doppelt magst.}
-{1306}{}{Ich wünschte mir Myron wäre schwul.}
-{1307}{}{Ich weiß noch immer nicht warum die Straße Virgin Street heißt...}
-{1308}{}{Ich wünschte mir er würde ab und zu ne Papiertüte tragen.}
+{1306}{}{Ich wÃ¼nschte mir Myron wÃ¤re schwul.}
+{1307}{}{Ich weiÃŸ noch immer nicht warum die StraÃŸe Virgin Street heiÃŸt...}
+{1308}{}{Ich wÃ¼nschte mir er wÃ¼rde ab und zu ne PapiertÃ¼te tragen.}
 {1309}{}{Kaufst du mir nen Drink?}
 {1310}{}{Nimmst du 'ne einsame Dame mit in die Stadt?}
-{1311}{}{Äh, natürlich bin ich eine Frau. Schau einfach nicht auf den Adamsapfel.}
-{1312}{}{Ich habe gehört, dass ein Paar Frauen in der Stadt ihren Zuhälter getötet haben.}
-{1313}{}{Die Beste Liebe im ganzen Ödland, nur hier.}
-{1314}{}{Dieser Jules lässt mich besser in Ruhe.}
+{1311}{}{Ã„h, natÃ¼rlich bin ich eine Frau. Schau einfach nicht auf den Adamsapfel.}
+{1312}{}{Ich habe gehÃ¶rt, dass ein Paar Frauen in der Stadt ihren ZuhÃ¤lter getÃ¶tet haben.}
+{1313}{}{Die Beste Liebe im ganzen Ã–dland, nur hier.}
+{1314}{}{Dieser Jules lÃ¤sst mich besser in Ruhe.}
 {1315}{}{Ich habe noch immer die Beule vom Bettpfosten...}
-{1316}{}{Bin total erschöpft seit dieser letzten Tagung...}
-{1317}{}{Ich wünschte die Gen Convention würde in einer anderen Stadt stattfinden.}
-{1318}{}{Du kannst Metall zum schmelzen bringen, weißt du das?}
-{1319}{}{Ich dachte die Erde würde sich bewegen, aber es war nur das Chili.}
+{1316}{}{Bin total erschÃ¶pft seit dieser letzten Tagung...}
+{1317}{}{Ich wÃ¼nschte die Gen Convention wÃ¼rde in einer anderen Stadt stattfinden.}
+{1318}{}{Du kannst Metall zum schmelzen bringen, weiÃŸt du das?}
+{1319}{}{Ich dachte die Erde wÃ¼rde sich bewegen, aber es war nur das Chili.}
 {1320}{}{Bring mich zum schmelzen.}
 {1321}{}{Ich bin Jungfrau. Ich bin nur nicht sehr gut darin.}
-{1322}{}{Brauchst du einen Führer durch die Stadt?}
+{1322}{}{Brauchst du einen FÃ¼hrer durch die Stadt?}
 {1323}{}{WHOA. Das kostet extra.}
 {1324}{}{Jules will immer alles umsonst.}
-{1325}{}{Ich höre, in den Familien braut sich wieder was zusammen.}
-{1326}{}{Hier ist nichts los. Ich wünschte ne Karawane würde eintreffen.}
+{1325}{}{Ich hÃ¶re, in den Familien braut sich wieder was zusammen.}
+{1326}{}{Hier ist nichts los. Ich wÃ¼nschte ne Karawane wÃ¼rde eintreffen.}
 {1327}{}{Also zogen wir uns wie Deathclaws an...}
 {1328}{}{Ich brauche Hilfe, um aus diesem Kleid herauszukommen.}
 {1329}{}{Ziehst du mich aus?}
-{1330}{}{Entschuldigung was hast du gesagt? Ich war von deinen tollen Körper abgelenkt.}
+{1330}{}{Entschuldigung was hast du gesagt? Ich war von deinen tollen KÃ¶rper abgelenkt.}
 {1331}{}{Willst du ein wenig Zeit totschlagen?}
 {1332}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
-{1333}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
-{1334}{}{Natürlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
-{1335}{}{Magst du mal Spaß mit einer Dame haben?}
-{1336}{}{Mit Myron ist nichts los, nichts was eine Kugel im Kopf nicht heilen könnte.}
+{1333}{}{Sie nennen mich nicht umsonst die GlÃ¼cksmarie.}
+{1334}{}{NatÃ¼rlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
+{1335}{}{Magst du mal SpaÃŸ mit einer Dame haben?}
+{1336}{}{Mit Myron ist nichts los, nichts was eine Kugel im Kopf nicht heilen kÃ¶nnte.}
 {1337}{}{Willst du ne Verabredung Wilder?}
 {1338}{}{Willst du bums bums Wilder?}
 {1339}{}{Willst du einen Regentanz in meinem Zimmer veranstalten?}
 {1340}{}{Alles was du brauchst ist eine Nacht mit mir.}
 {1341}{}{Suchst du den Garten Eden? Komm in mein Schlafzimmer.}
-{1342}{}{Kannst du mir helfen? Ich suche meine verlorene Jungfräulichkeit.}
+{1342}{}{Kannst du mir helfen? Ich suche meine verlorene JungfrÃ¤ulichkeit.}
 {1343}{}{Ich bin noch Jungfrau, aber ich brauche das Geld.}
-{1344}{}{Sei vorsichtig, es ist das erste Mal. Für heute.}
+{1344}{}{Sei vorsichtig, es ist das erste Mal. FÃ¼r heute.}
 {1345}{}{Ich so geil.}
 {1346}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {1347}{}{Lass mich dein inneres Kind erwecken.}
 {1348}{}{Ich mach das nur, um das College zu bezahlen.}
-{1349}{}{Willst du tanzen Süßer?}
+{1349}{}{Willst du tanzen SÃ¼ÃŸer?}
 {1350}{}{Pass auf, zum letzten Mal. Ich werde mich nicht als "Vaultbewohner" verkleiden.}
 {1351}{}{Willst du dein Gebiet markieren?}
-{1352}{}{Willst du mich zum stöhnen bringen?}
+{1352}{}{Willst du mich zum stÃ¶hnen bringen?}
 {1353}{}{::Purrrrr::}
 {1354}{}{::Rrrrrowrrr::}
-{1355}{}{Hör auf mich zu nerven.}
+{1355}{}{HÃ¶r auf mich zu nerven.}
 {1356}{}{Ich hab es satt in Reno zu leben...}
 {1357}{}{Willst du die Paarungszeit der Deathclaws nachspielen?}
-{1358}{}{Ich bin nicht billig, aber ich kann dafür einiges bieten.}
+{1358}{}{Ich bin nicht billig, aber ich kann dafÃ¼r einiges bieten.}
 {1359}{}{Fesseln kostet Extra.}
 {1360}{}{Wo ist meine Peitsche?}
 {1361}{}{Bist du bereit.}
 {1362}{}{Ich musste mich letzte Nacht wie Wilma verkleiden, verdammter Perverser.}
-{1363}{}{Ich war gestern Nacht mit Myron zusammen, ungefähr fünf Sekunden.}
+{1363}{}{Ich war gestern Nacht mit Myron zusammen, ungefÃ¤hr fÃ¼nf Sekunden.}
 {1364}{}{Willst du dein Magazin entladen?}
 {1365}{}{Wo brennt's denn?}
-{1366}{}{Willst du mir helfen deine Jungfräulichkeit zu verlieren?}
-{1367}{}{Wenn Myron nicht aufhört, wird mir bald mein Hintern abfallen.}
+{1366}{}{Willst du mir helfen deine JungfrÃ¤ulichkeit zu verlieren?}
+{1367}{}{Wenn Myron nicht aufhÃ¶rt, wird mir bald mein Hintern abfallen.}
 {1368}{}{Die verdammte Abstinenzler-Vereinigung kommt bald wieder...}
-{1369}{}{Du bringst meinen Geigerzähler zum Ausschlagen.}
+{1369}{}{Du bringst meinen GeigerzÃ¤hler zum Ausschlagen.}
 {1370}{}{::Pfeift::}
-{1371}{}{Beißen kostet extra.}
+{1371}{}{BeiÃŸen kostet extra.}
 {1372}{}{Ich garantiere dir, dass ich besser bin, als dieser PIPBoy, den du benutzt.}
 {1373}{}{Soll ich deine Schrauben anziehen?}
-{1374}{}{Ich wäre gerne mit Avellone zusammen.}
-{1375}{}{Ich wünschte Nick Kesting wäre hier. Wir können Stundenlang reden!}
+{1374}{}{Ich wÃ¤re gerne mit Avellone zusammen.}
+{1375}{}{Ich wÃ¼nschte Nick Kesting wÃ¤re hier. Wir kÃ¶nnen Stundenlang reden!}
 {1376}{}{Nick Kesting ist ein sehr netter Kerl. Wir unterhalten uns immer so toll.}
 {1377}{}{Tommy the Balls ist ein Traum von einem Kerl.}
-{1378}{}{Ich brauche nur 50 Chips um dich glücklich zu machen.}
-{1379}{}{Ich bin Leichtzuham. Und wer bist du, Schätzchen?}
-{1380}{}{Hey Süße. Suchst du ne andere Frau?}
-{1381}{}{Willst du mal die andere Seite ausprobieren, Süße?}
+{1378}{}{Ich brauche nur 50 Chips um dich glÃ¼cklich zu machen.}
+{1379}{}{Ich bin Leichtzuham. Und wer bist du, SchÃ¤tzchen?}
+{1380}{}{Hey SÃ¼ÃŸe. Suchst du ne andere Frau?}
+{1381}{}{Willst du mal die andere Seite ausprobieren, SÃ¼ÃŸe?}
 {1382}{}{Brauchst du Gesellschaft?}
-{1383}{}{Mädchen lass mich dir ein paar Dinge beibringen, die einen nur eine Frau zeigen kann.}
-{1384}{}{Brauchst du jemanden, der dein Zelt warmhält, Kleines?}
+{1383}{}{MÃ¤dchen lass mich dir ein paar Dinge beibringen, die einen nur eine Frau zeigen kann.}
+{1384}{}{Brauchst du jemanden, der dein Zelt warmhÃ¤lt, Kleines?}
 {1385}{}{Brauchst du jemanden, mit dem du dein Bett teilen kannst, Kleine?}
 {1386}{}{Willst du tanzen kleine?}
-{1387}{}{Mädchen, du hattest noch nie richtigen Sex, wenn du noch keinen Renosex hattest.}
-{1388}{}{Willst du fliegen Mädchen?}
+{1387}{}{MÃ¤dchen, du hattest noch nie richtigen Sex, wenn du noch keinen Renosex hattest.}
+{1388}{}{Willst du fliegen MÃ¤dchen?}
 {1389}{}{Hast du dich verlaufen Cowgirl?}
 {1390}{}{Musst du deine Waffe entladen, Action Girl?}
-{1391}{}{Suchst du etwas Spaß Mädchen?}
+{1391}{}{Suchst du etwas SpaÃŸ MÃ¤dchen?}
 {1392}{}{Willst du ins Zentrum, Kleines?}
-{1393}{}{Brauchst du ein wenig Action Süße?}
-{1394}{}{Wo brennt's denn Mädchen?}
+{1393}{}{Brauchst du ein wenig Action SÃ¼ÃŸe?}
+{1394}{}{Wo brennt's denn MÃ¤dchen?}
 {1395}{}{Du hast die Knete, ich habe die Zeit.}
 {2175}{}{. Ihr wisst schon - hat der Enklave in den Hintern getreten.}
-{2178}{}{! Was 'ne Art, der Enklave eins überzuziehen!}
+{2178}{}{! Was 'ne Art, der Enklave eins Ã¼berzuziehen!}
 {2181}{}{. Ihr wisst schon - hat der Enklave in den Hintern getreten.}
 {2195}{}{!}
 {2197}{}{! Kannst du mir einen Job im Studio besorgen?}
 {2210}{}{.}
 {2263}{}{! Los, Hengst!}
-{2264}{}{ tritt so viele Hintern, man könnte meinen, er war ein Stiefel in einem früheren Leben.}
+{2264}{}{ tritt so viele Hintern, man kÃ¶nnte meinen, er war ein Stiefel in einem frÃ¼heren Leben.}
 {2268}{}{?}
 {2272}{}{?}
-{2278}{}{! Los, Mädel!}
+{2278}{}{! Los, MÃ¤del!}
 {2279}{}{?}
-{2280}{}{ tritt so viele Hintern, man könnte meinen, sie war ein Stiefel in einem früheren Leben.}
+{2280}{}{ tritt so viele Hintern, man kÃ¶nnte meinen, sie war ein Stiefel in einem frÃ¼heren Leben.}
 {2285}{}{.}
 {2292}{}{...}
 {2293}{}{?}
-{2294}{}{... hiiier, Schätzchen...}
+{2294}{}{... hiiier, SchÃ¤tzchen...}
 {2295}{}{.}
 {2855}{}{?}
 {2858}{}{?}
@@ -1244,29 +1244,29 @@
 {2867}{}{! Wie geht es dir?}
 {2868}{}{. Kann ich dir mit... *irgend etwas* helfen?}
 {2870}{}{.}
-{2873}{}{, du kleine Verführerin... was hast du vor?}
-{3100}{}{Du siehst ein Mädchen aus dem Cat's Paw.}
-{3150}{}{Du siehst eine... Dame der Nacht. Ihre zerlumpten Kleider sind verführerisch um ihren Körper drapiert.}
-{3151}{}{Du siehst ein Mädchen aus dem Cat's Paw. Sie zwinkert dir zu.}
-{3152}{}{Du siehst ein Mädchen aus dem Cat's Paw. Ihre Augen sehen aus wie verglühende Kohlen.}
-{3153}{}{Du siehst ein Mädchen aus dem Cat's Paw. Sie riecht wie Blumen.}
-{3154}{}{Du siehst ein Mädchen aus dem Cat's Paw. Sie riecht wie Mutter.}
-{3155}{}{Du siehst ein Mädchen aus dem Cat's Paw. Es ist dir ein Rätsel, wie die zerrissenen Lumpen ihre Brüste verdecken können.}
-{3156}{}{Du siehst ein Mädchen aus dem Cat's Paw. Sie sieht aus, als ob sie ihre Freier umbringt und auffrisst.}
-{3157}{}{Du siehst ein Mädchen aus dem Cat's Paw. Sie taxiert dich wie ein Juwelier.}
-{3158}{}{Du siehst ein Mädchen aus dem Cat's Paw. Ihre zerlumpten Kleider sind verführerisch um ihren Körper drapiert.}
+{2873}{}{, du kleine VerfÃ¼hrerin... was hast du vor?}
+{3100}{}{Du siehst ein MÃ¤dchen aus dem Cat's Paw.}
+{3150}{}{Du siehst eine... Dame der Nacht. Ihre zerlumpten Kleider sind verfÃ¼hrerisch um ihren KÃ¶rper drapiert.}
+{3151}{}{Du siehst ein MÃ¤dchen aus dem Cat's Paw. Sie zwinkert dir zu.}
+{3152}{}{Du siehst ein MÃ¤dchen aus dem Cat's Paw. Ihre Augen sehen aus wie verglÃ¼hende Kohlen.}
+{3153}{}{Du siehst ein MÃ¤dchen aus dem Cat's Paw. Sie riecht wie Blumen.}
+{3154}{}{Du siehst ein MÃ¤dchen aus dem Cat's Paw. Sie riecht wie Mutter.}
+{3155}{}{Du siehst ein MÃ¤dchen aus dem Cat's Paw. Es ist dir ein RÃ¤tsel, wie die zerrissenen Lumpen ihre BrÃ¼ste verdecken kÃ¶nnen.}
+{3156}{}{Du siehst ein MÃ¤dchen aus dem Cat's Paw. Sie sieht aus, als ob sie ihre Freier umbringt und auffrisst.}
+{3157}{}{Du siehst ein MÃ¤dchen aus dem Cat's Paw. Sie taxiert dich wie ein Juwelier.}
+{3158}{}{Du siehst ein MÃ¤dchen aus dem Cat's Paw. Ihre zerlumpten Kleider sind verfÃ¼hrerisch um ihren KÃ¶rper drapiert.}
 {3200}{}{Oh, Goott! Oh Goott! OhGoottohGoottohGoott... ooooooh Goooott.}
 {3201}{}{Ja! Ja! Jaaaaaaaaaa JaJaJaJa Ja Ja JAAA! Gezahlt wird beim Kassierer.}
-{3202}{}{Beeil dich. Die Uhr läuft.}
+{3202}{}{Beeil dich. Die Uhr lÃ¤uft.}
 {3203}{}{Brauchst du ein Taschentuch?}
-{3204}{}{Gib's mir, Fr... Ni... Sco... äh, 'tschuldige, wie war noch dein Name?}
+{3204}{}{Gib's mir, Fr... Ni... Sco... Ã¤h, 'tschuldige, wie war noch dein Name?}
 {3205}{}{Oh Gott, oh Gott, oh Gott! Sind wir JETZT fertig?}
 {3206}{}{Huoa. DAS kostet extra.}
 {3207}{}{Ja! Du bist Kolumbus, ich bin Amerika!}
 {3208}{}{Oh, Gott, das war das Beste. Runter jetzt, aber dalli. Gezahlt wird beim Kassierer.}
 {3209}{}{Schon drin?}
 {3210}{}{Ja, du BIST der Vaultbewohner. Ja, DU hast den Wasserchip gefunden und den MEISTER bezwungen. Du bist ein HELD.}
-{3211}{}{Du bist so rauh, du bist wie eine gehärtete Powerrüstung.}
+{3211}{}{Du bist so rauh, du bist wie eine gehÃ¤rtete PowerrÃ¼stung.}
 {3212}{}{*Huff*}
 {3213}{}{*Puff*}
 {3214}{}{Nein, ich werde die Mickymaus-Ohren NICHT aufsetzen.}

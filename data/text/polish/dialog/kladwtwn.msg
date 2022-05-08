@@ -1,1 +1,1 @@
-{100}{}{Wkraczasz do ma≥ego miasteczka zwanego Klamath.}
+{100}{}{Wkraczasz do ma≈Çego miasteczka zwanego Klamath.}

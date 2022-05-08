@@ -1,6 +1,6 @@
-{100}{}{Widzisz dobrze ubranego, umiêœnionego faceta, umyœlnie poruszaj¹cego siê powoli.}
-{101}{}{To Merk - ludzie z okolicy mówi¹ mu "szefie".}
-{102}{}{Tego goœcia otacza aura ch³odu i obojêtnoœci. Wydaje siê poœwiêcaæ ci tyle samo uwagi co muszê, któr¹ zgniata siê miedzy palcami.}
-{200}{}{Wygl¹da na jeszcze jednego faceta, który myœli wiêcej piêœciami ni¿ g³ow¹.}
+{100}{}{Widzisz dobrze ubranego, umiÄ™Å›nionego faceta, umyÅ›lnie poruszajÄ…cego siÄ™ powoli.}
+{101}{}{To Merk - ludzie z okolicy mÃ³wiÄ… mu "szefie".}
+{102}{}{Tego goÅ›cia otacza aura chÅ‚odu i obojÄ™tnoÅ›ci. Wydaje siÄ™ poÅ›wiÄ™caÄ‡ ci tyle samo uwagi co muszÄ™, ktÃ³rÄ… zgniata siÄ™ miedzy palcami.}
+{200}{}{WyglÄ…da na jeszcze jednego faceta, ktÃ³ry myÅ›li wiÄ™cej piÄ™Å›ciami niÅ¼ gÅ‚owÄ….}
 {201}{}{Hmmm. Jeden z ochroniarzy Merka.}
-{202}{}{Wielki. Twardy. G³upi. Ochroniarz.}
+{202}{}{Wielki. Twardy. GÅ‚upi. Ochroniarz.}

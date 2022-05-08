@@ -1,1 +1,1 @@
-{101}{}{Napis nad grobem g≥osi: "Christopher Winslow".}
+{101}{}{Napis nad grobem g≈Çosi: "Christopher Winslow".}

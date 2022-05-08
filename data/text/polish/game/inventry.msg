@@ -9,26 +9,26 @@
 {8}{}{Klasa pancerza}
 {9}{}{  Konw.}
 {10}{}{  Laser}
-{11}{}{  Ogieñ}
+{11}{}{  OgieÅ„}
 {12}{}{  Plazma}
 {13}{}{  Wybuchy}
 {14}{}{Bez broni}
 {15}{}{Moc:}
 {16}{}{Zas:}
 {17}{}{Amn:}
-{18}{}{(Ten egzemplarz nie jest w tej chwili u¿ywany)}
-{19}{}{Masz za ma³o punktów akcji, by skorzystaæ z ekwipunku.}
-{20}{}{Obci¹¿.:}
-{21}{}{PRZENIEŒ}
-{22}{}{CA£OŒÆ}
+{18}{}{(Ten egzemplarz nie jest w tej chwili uÅ¼ywany)}
+{19}{}{Masz za maÅ‚o punktÃ³w akcji, by skorzystaÄ‡ z ekwipunku.}
+{20}{}{ObciÄ…Å¼.:}
+{21}{}{PRZENIEÅš}
+{22}{}{CAÅOÅšÄ†}
 {23}{}{USTAW ZAPALNIK}
 {24}{}{Moc bez broni:}
-{25}{}{Za ciê¿kie. Nie jesteœ w stanie tego podnieœæ.}
-{26}{}{Nie ma ju¿ miejsca na ten przedmiot.}
+{25}{}{Za ciÄ™Å¼kie. Nie jesteÅ› w stanie tego podnieÅ›Ä‡.}
+{26}{}{Nie ma juÅ¼ miejsca na ten przedmiot.}
 {27}{}{OK, to dobry interes.}
-{28}{}{Nie, twoja oferta jest za s³aba.}
-{29}{}{Zyskujesz %d PD za skuteczne zastosowanie umiejêtnoœci kradzie¿y.}
+{28}{}{Nie, twoja oferta jest za sÅ‚aba.}
+{29}{}{Zyskujesz %d PD za skuteczne zastosowanie umiejÄ™tnoÅ›ci kradzieÅ¼y.}
 {30}{}{Waga.}
-{31}{}{Nie jesteœ w stanie unieœæ a¿ tyle.}
-{32}{}{Jest tego za du¿o, ¿eby móc to unieœæ.}
+{31}{}{Nie jesteÅ› w stanie unieÅ›Ä‡ aÅ¼ tyle.}
+{32}{}{Jest tego za duÅ¼o, Å¼eby mÃ³c to unieÅ›Ä‡.}
 {50}{}{Nie znajdujesz noc wartego zabrania.}

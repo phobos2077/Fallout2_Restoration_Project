@@ -1,14 +1,14 @@
 {100}{}{Du siehst einen Banditen.}
 {101}{}{Na, na, was haben wir denn da?}
-{102}{}{Einfache Reisende, was? Gibt's ja nicht. Hilfe bei euren Wertsachen gefällig?}
-{103}{}{Pass auf, wo du dich in Reno aufhältst, sonst könnte dir was zustoßen. Bleib mir bloß vom
+{102}{}{Einfache Reisende, was? Gibt's ja nicht. Hilfe bei euren Wertsachen gefÃ¤llig?}
+{103}{}{Pass auf, wo du dich in Reno aufhÃ¤ltst, sonst kÃ¶nnte dir was zustoÃŸen. Bleib mir bloÃŸ vom
  Leib.}
 {104}{}{Hallo, }
 {105}{}{.}
-{106}{}{Was machst du hier draußen, }
+{106}{}{Was machst du hier drauÃŸen, }
 {107}{}{?}
 {108}{}{Wir sind nur hergekommen, um uns mal anzusehen, was du so treibst, }
-{109}{}{. Schöner Tag heut, was, }
+{109}{}{. SchÃ¶ner Tag heut, was, }
 {110}{}{?}
 {111}{}{Biste hier rausgekommen, um mal wegzukommen von dem Ganzen, }
 {112}{}{? }

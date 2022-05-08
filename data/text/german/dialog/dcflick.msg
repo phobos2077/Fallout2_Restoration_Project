@@ -1,89 +1,89 @@
-{100}{}{Du siehst einen dünnen, schmierig aussehenden Mann.}
+{100}{}{Du siehst einen dÃ¼nnen, schmierig aussehenden Mann.}
 {150}{}{Du siehst Flick, der sich gerade ausgiebig seine Weichteile kratzt.}
 {151}{}{Du siehst einen schmuddeligen Typen mit einem verschlagenen Zucken im Gesicht.}
 {200}{}{He, raus hier, Volltrottel.}
 {201}{}{Hey, Fettsack! Ja du, hau ab.}
-{202}{}{Biste blöd oder was?}
-{203}{}{Wass'n dein Problem, häh?}
+{202}{}{Biste blÃ¶d oder was?}
+{203}{}{Wass'n dein Problem, hÃ¤h?}
 {204}{}{Verdammt, hau endlich ab hier.}
-{220}{}{Heda, ich bin Flick, was zum Teufel willste, häh?}
+{220}{}{Heda, ich bin Flick, was zum Teufel willste, hÃ¤h?}
 {221}{}{Was jetzt? Du verschwendest meine Zeit, Mensch.}
-{222}{}{Was ist das für'n verschrobener Akzent, Flick?}
+{222}{}{Was ist das fÃ¼r'n verschrobener Akzent, Flick?}
 {223}{}{Was zum Teufel tust du hier?}
-{224}{}{Ich suche eine Vault und einen Händler namens Vic. Hast du 'ne Ahnung, wo sie sein
- könnten?}
-{225}{}{Ich würde gern mit dir handeln.}
+{224}{}{Ich suche eine Vault und einen HÃ¤ndler namens Vic. Hast du 'ne Ahnung, wo sie sein
+ kÃ¶nnten?}
+{225}{}{Ich wÃ¼rde gern mit dir handeln.}
 {240}{}{Reicht dir das, Kumpel?}
-{241}{}{Eigentlich würd ich gern noch mal einen Blick auf deine Ware werfen.}
-{242}{}{Eigentlich würd ich dich gern etwas fragen.}
+{241}{}{Eigentlich wÃ¼rd ich gern noch mal einen Blick auf deine Ware werfen.}
+{242}{}{Eigentlich wÃ¼rd ich dich gern etwas fragen.}
 {243}{}{Das reicht. Also Flick, bis dann.}
-{260}{}{Ich hab für Leute zu sorgen, was hast du denn gedacht? Dass ich ein guter Samurai bin?}
+{260}{}{Ich hab fÃ¼r Leute zu sorgen, was hast du denn gedacht? Dass ich ein guter Samurai bin?}
 {261}{}{Sag, was ist?}
-{262}{}{Ja, äh, nun... ich möcht dich noch was anderes fragen.}
-{263}{}{Äh, oh. OK. Wiedersehn, Flick.}
-{280}{}{Ich sorg für die kleinen Paisanos.}
+{262}{}{Ja, Ã¤h, nun... ich mÃ¶cht dich noch was anderes fragen.}
+{263}{}{Ã„h, oh. OK. Wiedersehn, Flick.}
+{280}{}{Ich sorg fÃ¼r die kleinen Paisanos.}
 {281}{}{Bietest du mir kleine Pianos an?}
-{290}{}{Pai-san-o, du weißt schon, die Kinder. Meine Kinder.}
+{290}{}{Pai-san-o, du weiÃŸt schon, die Kinder. Meine Kinder.}
 {291}{}{Deine Kinder?}
-{292}{}{Hm, eigentlich bin ich nicht an Musikstunden für Kinder interessiert. Ich möcht dich was
+{292}{}{Hm, eigentlich bin ich nicht an Musikstunden fÃ¼r Kinder interessiert. Ich mÃ¶cht dich was
  anderes fragen.}
-{300}{}{Ja, nun, sie arbeiten für mich. Sie bringen mir Dinge. Kleine Dinge, weißt du.}
-{301}{}{Äh, nein.}
-{302}{}{Oh, OK. Dann möcht ich dich was anderes fragen.}
-{303}{}{Ah, ich verstehe. Nun, ich will dich nicht, äh, einschränken. Wiedersehn.}
+{300}{}{Ja, nun, sie arbeiten fÃ¼r mich. Sie bringen mir Dinge. Kleine Dinge, weiÃŸt du.}
+{301}{}{Ã„h, nein.}
+{302}{}{Oh, OK. Dann mÃ¶cht ich dich was anderes fragen.}
+{303}{}{Ah, ich verstehe. Nun, ich will dich nicht, Ã¤h, einschrÃ¤nken. Wiedersehn.}
 {315}{}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht.
- Dafür kümmere ich mich um sie.}
-{316}{}{Hört sich ja nach einer guten Abmachung an.}
+ DafÃ¼r kÃ¼mmere ich mich um sie.}
+{316}{}{HÃ¶rt sich ja nach einer guten Abmachung an.}
 {325}{}{[Flick zuckt mit den Schultern.] Ich komm ganz gut zurecht.}
 {326}{}{Ich will dich dann noch was anderes fragen.}
-{327}{}{Sie müssen dir ein richtiges Vermögen eingebracht haben. Mal sehen was du so hast.}
+{327}{}{Sie mÃ¼ssen dir ein richtiges VermÃ¶gen eingebracht haben. Mal sehen was du so hast.}
 {328}{}{Hab mich nur umgesehen. Also, auf Wiedersehen Flick.}
 {340}{}{Wovon redest du? Denkst du, ich bin ein beschissener pirla? Ein dummer filio di puttana?
- Denkst du, ich bin sowas wie 'n Clown? Bin ich hier zu deinem Vergnügen, oder was?}
-{341}{}{Äh, nein. Entschuldigung, ich war nur neugierig. Ich möcht dich noch was anderes fragen.}
-{342}{}{Genau, Dumpfbacke. Und nichts wird mich mehr amüsieren als deine Todeszuckungen.}
+ Denkst du, ich bin sowas wie 'n Clown? Bin ich hier zu deinem VergnÃ¼gen, oder was?}
+{341}{}{Ã„h, nein. Entschuldigung, ich war nur neugierig. Ich mÃ¶cht dich noch was anderes fragen.}
+{342}{}{Genau, Dumpfbacke. Und nichts wird mich mehr amÃ¼sieren als deine Todeszuckungen.}
 {343}{}{Also, wenn du deswegen total eingeschnappt bist... Ich gehe.}
-{360}{}{Vault, häh? Vielleicht weiß Momma was drüber, ich jedenfalls nicht. Aber diesen Typen
+{360}{}{Vault, hÃ¤h? Vielleicht weiÃŸ Momma was drÃ¼ber, ich jedenfalls nicht. Aber diesen Typen
  Vic, den kenn ich. Metzger hat diese porca pistola.}
 {361}{}{Vic? Isser das nich' da bei dir? Du idiota. Aber Momma, die kenne ich.}
 {362}{}{Wer ist Metzger?}
 {363}{}{Wer ist Momma?}
-{364}{}{Danke. Ich hätte da noch 'ne Frage.}
+{364}{}{Danke. Ich hÃ¤tte da noch 'ne Frage.}
 {365}{}{Danke, das ist alles, was ich wissen wollte. Auf Wiedersehen.}
 {380}{}{Momma betreibt einen Imbiss im Osten der Stadt. Gleich hinter dem Friedhof. Netter Laden,
  sie hat gute Pasta, Mama mia}
 {381}{}{Danke. Was ist mit dem Typen Metzger, der Vic hat?}
-{382}{}{Danke. Ich hätte da noch 'ne Frage.}
+{382}{}{Danke. Ich hÃ¤tte da noch 'ne Frage.}
 {383}{}{Danke, das ist alles, was ich wissen wollte. Auf Wiedersehen.}
-{400}{}{Ja, Metzger, der stronzo, der ist tot. Ich weiß nicht, was mit Vic passiert ist.}
-{401}{}{Metzger, der ist ein richtiger rompiballe. Leitet die Sklavenhändlergilde. Im Osten der
- Stadt, nördlich von Momma's. Und ich weiß, er hat Vic.}
+{400}{}{Ja, Metzger, der stronzo, der ist tot. Ich weiÃŸ nicht, was mit Vic passiert ist.}
+{401}{}{Metzger, der ist ein richtiger rompiballe. Leitet die SklavenhÃ¤ndlergilde. Im Osten der
+ Stadt, nÃ¶rdlich von Momma's. Und ich weiÃŸ, er hat Vic.}
 {402}{}{Danke, und was ist mit Momma?}
-{403}{}{Danke. Ich hätte da noch 'ne Frage.}
+{403}{}{Danke. Ich hÃ¤tte da noch 'ne Frage.}
 {404}{}{Danke, das ist alles, was ich wissen wollte. Auf Wiedersehen.}
-{410}{}{Ja da leck mich doch einer, sieh mal wer da kommt. Der barmherzige Samariter, der "die Kinder gerettet hat", beehrt mich mit seiner Anwesenheit. Weißt du, ich bin selbst ein 
-guter Samurai-ter. Hab mich um die Kinder und das alles gekümmert. Das ging gut, bis du vorbei gekommen bist und die Idee von dem beschissenen Waisenhaus umgesetzt hast.}
-{411}{}{Ja da leck mich doch einer, sieh mal wer da kommt. Der barmherzige Samariter, der "die Kinder gerettet hat", beehrt mich mit seiner Anwesenheit. Weißt du, ich bin selbst ein 
-guter Samurai-ter. Hab mich um die Kinder und das alles gekümmert. Das ging gut, bis du vorbei gekommen bist und die Idee von dem beschissenen Waisenhaus umgesetzt hast.}
+{410}{}{Ja da leck mich doch einer, sieh mal wer da kommt. Der barmherzige Samariter, der "die Kinder gerettet hat", beehrt mich mit seiner Anwesenheit. WeiÃŸt du, ich bin selbst ein 
+guter Samurai-ter. Hab mich um die Kinder und das alles gekÃ¼mmert. Das ging gut, bis du vorbei gekommen bist und die Idee von dem beschissenen Waisenhaus umgesetzt hast.}
+{411}{}{Ja da leck mich doch einer, sieh mal wer da kommt. Der barmherzige Samariter, der "die Kinder gerettet hat", beehrt mich mit seiner Anwesenheit. WeiÃŸt du, ich bin selbst ein 
+guter Samurai-ter. Hab mich um die Kinder und das alles gekÃ¼mmert. Das ging gut, bis du vorbei gekommen bist und die Idee von dem beschissenen Waisenhaus umgesetzt hast.}
 {412}{}{Bietest du mir kleine Pianos an?}
-{413}{}{Du hörst dich so an, als würd es dir nicht gefallen, dass die Kinder sich nicht mehr auf der Straße rumtreiben.}
-{420}{}{Hey, versteh mich nicht falsch. Das Leben auf der Straße ist hart für Kinder, aber das ist das Ende unserer Abmachung, dass macht mich fertig.}
-{421}{}{Was für eine Abmachung?}
+{413}{}{Du hÃ¶rst dich so an, als wÃ¼rd es dir nicht gefallen, dass die Kinder sich nicht mehr auf der StraÃŸe rumtreiben.}
+{420}{}{Hey, versteh mich nicht falsch. Das Leben auf der StraÃŸe ist hart fÃ¼r Kinder, aber das ist das Ende unserer Abmachung, dass macht mich fertig.}
+{421}{}{Was fÃ¼r eine Abmachung?}
 {422}{}{Du meinst das bestehlen der Leute, deren Sachen du dann Verkaufst.}
-{430}{}{Hör auf zu klugscheißen, du Arschloch. Die Kinder bringen mir Sachen die Sie finden. Ich weiß nicht wo Sie die finden, aber offen gesagt ist es mir scheißegal.}
+{430}{}{HÃ¶r auf zu klugscheiÃŸen, du Arschloch. Die Kinder bringen mir Sachen die Sie finden. Ich weiÃŸ nicht wo Sie die finden, aber offen gesagt ist es mir scheiÃŸegal.}
 {431}{}{Okay.}
-{432}{}{Du bist voll davon. Ich werd krank von solchem Abschaum wie dir, die Menschen für ihren eigenen Vorteil missbrauchen. Zeit zu sterben!}
-{440}{}{Pai-san-o, du weißt schon, die Kinder. Meine Kinder.}
+{432}{}{Du bist voll davon. Ich werd krank von solchem Abschaum wie dir, die Menschen fÃ¼r ihren eigenen Vorteil missbrauchen. Zeit zu sterben!}
+{440}{}{Pai-san-o, du weiÃŸt schon, die Kinder. Meine Kinder.}
 {441}{}{Und du hast eine Abmachung mit ihnen?}
 {450}{}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht.
- Dafür kümmere ich mich um sie.}
-{451}{}{Hört sich ja nach einer guten Abmachung an.}
-{460}{}{Ja...das Geschäft lief bis du gekommen bist. Sieh, deine Heldentat kostet mich Geld. Meine Geschäfte leiden wegen dir. Deshalb, mag ich dich nicht besonders.
- In der Tat, hasse ich dich mordsmäßig. Aber, ich bin Geschäftsmann, also wenn du Handeln willst, tu es, wenn nicht, verpiss dich.}
+ DafÃ¼r kÃ¼mmere ich mich um sie.}
+{451}{}{HÃ¶rt sich ja nach einer guten Abmachung an.}
+{460}{}{Ja...das GeschÃ¤ft lief bis du gekommen bist. Sieh, deine Heldentat kostet mich Geld. Meine GeschÃ¤fte leiden wegen dir. Deshalb, mag ich dich nicht besonders.
+ In der Tat, hasse ich dich mordsmÃ¤ÃŸig. Aber, ich bin GeschÃ¤ftsmann, also wenn du Handeln willst, tu es, wenn nicht, verpiss dich.}
 {461}{}{Ganz richtig, dann lass mal sehen was du auf Lager hast.}
 {462}{}{Ich denke, ich hab alles was ich brauche. Auf Wiedersehen.}
 {463}{}{Ich denke, ich bleibe...und trete dir in den Arsch.}
-{470}{}{Du schon wieder? Du bist besser hier um gute Geschäfte zu machen, da ich echt verflucht krank werde, wenn ich dich sehe. In der Tat, kommt mir immer ein wenig von meinem Frühstück hoch, wenn ich deine Visage sehe. So sehr widerst du mich an. Und wenn du nicht hier bist, um zu handeln, dann schlage ich vor, dass du dich umdrehst und deinen Arsch hier raus bewegst.}
+{470}{}{Du schon wieder? Du bist besser hier um gute GeschÃ¤fte zu machen, da ich echt verflucht krank werde, wenn ich dich sehe. In der Tat, kommt mir immer ein wenig von meinem FrÃ¼hstÃ¼ck hoch, wenn ich deine Visage sehe. So sehr widerst du mich an. Und wenn du nicht hier bist, um zu handeln, dann schlage ich vor, dass du dich umdrehst und deinen Arsch hier raus bewegst.}
 {471}{}{Lass uns handeln.}
 {472}{}{Hab mich nur umgesehen. Also, auf Wiedersehen Flick.}
 {480}{}{Du stiehlst mir meine Zeit?}

@@ -1,64 +1,64 @@
-{100}{}{Widzisz niskiego cz³owieka z wielkimi w¹sami.}
+{100}{}{Widzisz niskiego czÅ‚owieka z wielkimi wÄ…sami.}
 {101}{}{Widzisz Wielkiego Ananiasza.}
-{102}{}{Widzisz niskiego, w¹satego cz³owieka o bardzo tajemniczym spojrzeniu.}
-{103}{}{Ty! Co teraz chcesz zrobiæ niegdyœ Wielkiemu Ananiaszowi?}
-{104}{}{OdejdŸ ode mnie!}
-{105}{}{IdŸ rujnowaæ interes komuœ innemu.}
-{106}{}{IdŸ przeszkadzaæ komuœ innemu.}
-{107}{}{Nic gorszego nie mo¿e mnie ju¿ spotkaæ.}
-{108}{}{Po prostu odejdŸ, sta³o siê ju¿ wystarczaj¹co du¿o z³ego.}
-{109}{}{Jestem taki g³odny.}
-{110}{}{Jak ja teraz wykarmiê swoj¹ rodzinê?}
+{102}{}{Widzisz niskiego, wÄ…satego czÅ‚owieka o bardzo tajemniczym spojrzeniu.}
+{103}{}{Ty! Co teraz chcesz zrobiÄ‡ niegdyÅ› Wielkiemu Ananiaszowi?}
+{104}{}{OdejdÅº ode mnie!}
+{105}{}{IdÅº rujnowaÄ‡ interes komuÅ› innemu.}
+{106}{}{IdÅº przeszkadzaÄ‡ komuÅ› innemu.}
+{107}{}{Nic gorszego nie moÅ¼e mnie juÅ¼ spotkaÄ‡.}
+{108}{}{Po prostu odejdÅº, staÅ‚o siÄ™ juÅ¼ wystarczajÄ…co duÅ¼o zÅ‚ego.}
+{109}{}{Jestem taki gÅ‚odny.}
+{110}{}{Jak ja teraz wykarmiÄ™ swojÄ… rodzinÄ™?}
 {111}{}{Masz serce z kamienia.}
-{112}{}{Nie nie, MUMIA! Prosto z piasków staro¿ytnego Egiptu do piasków tego zniszczonego œwiata! Specjalnie dla ciebie!}
-{113}{}{OK, niech bêdzie. Ile kosztuje przyjemnoœæ obejrzenia sobie tych zw³ok?}
-{114}{}{(do siebie) Hmmm, mumia. Ciekawe, czy to coœ w rodzaju ghula? OK, chcê to zobaczyæ - ile p³acê?}
-{115}{}{Moje oczy ogl¹da³y ju¿ doœæ martwych cia³. ¯egnaj.}
-{116}{}{Dzieñ dobry, czeœæ i czo³em! Jestem Wielki Ananiasz (wrêcza ci ma³¹, ozdobn¹ kokardkê). Przybywam z sekretami od dalekich i bliskich przyjació³. Sekretami tajemnego œwiata... spoza naszej w³asnej egzystencji.}
-{117}{}{Wracasz poznaæ tajemnice Wielkiego Ananiasza?}
+{112}{}{Nie nie, MUMIA! Prosto z piaskÃ³w staroÅ¼ytnego Egiptu do piaskÃ³w tego zniszczonego Å›wiata! Specjalnie dla ciebie!}
+{113}{}{OK, niech bÄ™dzie. Ile kosztuje przyjemnoÅ›Ä‡ obejrzenia sobie tych zwÅ‚ok?}
+{114}{}{(do siebie) Hmmm, mumia. Ciekawe, czy to coÅ› w rodzaju ghula? OK, chcÄ™ to zobaczyÄ‡ - ile pÅ‚acÄ™?}
+{115}{}{Moje oczy oglÄ…daÅ‚y juÅ¼ doÅ›Ä‡ martwych ciaÅ‚. Å»egnaj.}
+{116}{}{DzieÅ„ dobry, czeÅ›Ä‡ i czoÅ‚em! Jestem Wielki Ananiasz (wrÄ™cza ci maÅ‚Ä…, ozdobnÄ… kokardkÄ™). Przybywam z sekretami od dalekich i bliskich przyjaciÃ³Å‚. Sekretami tajemnego Å›wiata... spoza naszej wÅ‚asnej egzystencji.}
+{117}{}{Wracasz poznaÄ‡ tajemnice Wielkiego Ananiasza?}
 {118}{}{Jakie tajemnice?}
-{119}{}{Uch, mi³o by³o pana poznaæ, panie Wielki Ananas... czy jakoœ tak.}
-{120}{}{Hmm, od tych wszystkich tajemnic chce mi siê spaæ. Lepiej ju¿ pójdê. ¯egnam.}
-{121}{}{Zerwij siê na nogi!}
-{127}{}{Dzisiaj, wœród œcian tego pokoju, wy³¹cznie dla twych oczu... auto-styczna mumia egipska!}
+{119}{}{Uch, miÅ‚o byÅ‚o pana poznaÄ‡, panie Wielki Ananas... czy jakoÅ› tak.}
+{120}{}{Hmm, od tych wszystkich tajemnic chce mi siÄ™ spaÄ‡. Lepiej juÅ¼ pÃ³jdÄ™. Å»egnam.}
+{121}{}{Zerwij siÄ™ na nogi!}
+{127}{}{Dzisiaj, wÅ›rÃ³d Å›cian tego pokoju, wyÅ‚Ä…cznie dla twych oczu... auto-styczna mumia egipska!}
 {128}{}{Mumia?}
-{129}{}{Mumia? Hmm, ciekawe kto móg³by siê na to nabraæ.... Nie, nikt nie jest taki g³upi.}
-{130}{}{Nie interesujê siê takimi rzeczami. Mdlejê na widok zw³ok.}
-{131}{}{W takim razie nie przeszkadzaj. S¹ inni, którzy chc¹ zobaczyæ mumiê.}
-{132}{}{Nie s¹dzê, ¿eby to by³a prawda.}
-{133}{}{A mo¿e tak zabierz st¹d swoj¹ ma³¹, w³ochat¹ dupê?}
-{134}{}{Coœ krêcisz, koleœ.}
-{135}{}{Rozumiem. Hmmm, a mo¿e zechcesz st¹d SPIER-[wskazuje palcem przed siebie]-DALAÆ!}
-{136}{}{Dla kogoœ takiego jak ty mo¿liwoœæ obejrzenia staro¿ytnej mumii za marne $25 powinna byæ niesamowitym prze¿yciem.}
-{137}{}{Dobra, wybulê forsê. A teraz... poka¿ mi mumiê!}
-{138}{}{Nie wydam tyle kasy. Jakoœ prze¿yjê bez ogl¹dania tego czegoœ. ¯egnam.}
-{139}{}{Po prostu odsuñ wieko sarkofagu, a staro¿ytna mumia w ca³ej swej okaza³oœci stanie przed twymi oczami. Proszê tylko nie dotykaæ eksponatu i nie robiæ ¿adnych zdjêæ.}
+{129}{}{Mumia? Hmm, ciekawe kto mÃ³gÅ‚by siÄ™ na to nabraÄ‡.... Nie, nikt nie jest taki gÅ‚upi.}
+{130}{}{Nie interesujÄ™ siÄ™ takimi rzeczami. MdlejÄ™ na widok zwÅ‚ok.}
+{131}{}{W takim razie nie przeszkadzaj. SÄ… inni, ktÃ³rzy chcÄ… zobaczyÄ‡ mumiÄ™.}
+{132}{}{Nie sÄ…dzÄ™, Å¼eby to byÅ‚a prawda.}
+{133}{}{A moÅ¼e tak zabierz stÄ…d swojÄ… maÅ‚Ä…, wÅ‚ochatÄ… dupÄ™?}
+{134}{}{CoÅ› krÄ™cisz, koleÅ›.}
+{135}{}{Rozumiem. Hmmm, a moÅ¼e zechcesz stÄ…d SPIER-[wskazuje palcem przed siebie]-DALAÄ†!}
+{136}{}{Dla kogoÅ› takiego jak ty moÅ¼liwoÅ›Ä‡ obejrzenia staroÅ¼ytnej mumii za marne $25 powinna byÄ‡ niesamowitym przeÅ¼yciem.}
+{137}{}{Dobra, wybulÄ™ forsÄ™. A teraz... pokaÅ¼ mi mumiÄ™!}
+{138}{}{Nie wydam tyle kasy. JakoÅ› przeÅ¼yjÄ™ bez oglÄ…dania tego czegoÅ›. Å»egnam.}
+{139}{}{Po prostu odsuÅ„ wieko sarkofagu, a staroÅ¼ytna mumia w caÅ‚ej swej okazaÅ‚oÅ›ci stanie przed twymi oczami. ProszÄ™ tylko nie dotykaÄ‡ eksponatu i nie robiÄ‡ Å¼adnych zdjÄ™Ä‡.}
 {140}{}{Super.}
-{141}{}{Proszê bardzo! Oto MUMIA! (wieko sarkofagu otwiera siê, i oczom twym ukazuje siê widok jakiejœ istoty, która do z³udzenia przypomina ghula le¿¹cego w niezbyt dobrze imituj¹cej sarkofag skrzyni.)}
-{142}{}{Proszê bardzo! Oto MUMIA! (wieko sarkofagu otwiera siê, ukazuj¹c auto-styczn¹ mumiê egipsk¹, któr¹ umieszczono poœród czegoœ, co wygl¹da na czyste z³oto!)}
-{143}{}{Hej, zaczekaj chwilê. To nie jest mumia. To jest ghul. WOODY! Hej WOODY! To ty?}
-{144}{}{Mnie to wygl¹da na ghula.}
-{145}{}{To jest ta mumia? Nie mogê uwierzyæ - wydaæ $25, ¿eby obejrzeæ szeœæ stóp zgni³ego miêsa! ¯egnam.}
-{146}{}{Jejku, to by³o œwietne... naprawdê. [Przygl¹dasz siê mumii jakby ciê zahipnotyzowa³a.]. Dziêki. Do zobaczenia.}
-{147}{}{[Mumia ziewa i przeci¹ga siê, po czym spogl¹da na ciebie przez swoje zaspane oczy i mamrocze] Czeœæ.}
-{148}{}{O kurde! To *jest* Woody! Biegnij Woody, biegnij! Zwiewaj st¹d! Gazu Woody!}
-{149}{}{Zapewniam ciê, ¿e ta mumia jest najprawdziwiej auto-styczna.}
-{150}{}{Udowodniê ci, ¿e nie. WOODY! Hej WOODY! To ty?}
-{151}{}{Skoro tak mówisz. Ale i tak s¹dzê, ¿e wygl¹da jak zwyk³y ghul. Na razie.}
-{152}{}{[Woody - to faktycznie Woody, a nie jakaœ mumia, stoi teraz zaspany przed tob¹ - owiniêty ze wszystkich stron papierem - trzaska wiekiem sarkofagu i wybiega na zewn¹trz, pozostawiaj¹c za sob¹ tylko strzêpy spowijaj¹cego go papieru toaletowego i dobiegaj¹cy z oddali g³os "Wielkie dziêki, cz³oowieeku!"]}
-{153}{}{Ha! Jestem geniuszem! A ty jesteœ skoñczony w tym mieœcie. Ju¿ nigdy nie bêdziesz Wielkim Ananiaszem, nie bêdziesz nawet jego zawszon¹ dup¹.}
+{141}{}{ProszÄ™ bardzo! Oto MUMIA! (wieko sarkofagu otwiera siÄ™, i oczom twym ukazuje siÄ™ widok jakiejÅ› istoty, ktÃ³ra do zÅ‚udzenia przypomina ghula leÅ¼Ä…cego w niezbyt dobrze imitujÄ…cej sarkofag skrzyni.)}
+{142}{}{ProszÄ™ bardzo! Oto MUMIA! (wieko sarkofagu otwiera siÄ™, ukazujÄ…c auto-stycznÄ… mumiÄ™ egipskÄ…, ktÃ³rÄ… umieszczono poÅ›rÃ³d czegoÅ›, co wyglÄ…da na czyste zÅ‚oto!)}
+{143}{}{Hej, zaczekaj chwilÄ™. To nie jest mumia. To jest ghul. WOODY! Hej WOODY! To ty?}
+{144}{}{Mnie to wyglÄ…da na ghula.}
+{145}{}{To jest ta mumia? Nie mogÄ™ uwierzyÄ‡ - wydaÄ‡ $25, Å¼eby obejrzeÄ‡ szeÅ›Ä‡ stÃ³p zgniÅ‚ego miÄ™sa! Å»egnam.}
+{146}{}{Jejku, to byÅ‚o Å›wietne... naprawdÄ™. [PrzyglÄ…dasz siÄ™ mumii jakby ciÄ™ zahipnotyzowaÅ‚a.]. DziÄ™ki. Do zobaczenia.}
+{147}{}{[Mumia ziewa i przeciÄ…ga siÄ™, po czym spoglÄ…da na ciebie przez swoje zaspane oczy i mamrocze] CzeÅ›Ä‡.}
+{148}{}{O kurde! To *jest* Woody! Biegnij Woody, biegnij! Zwiewaj stÄ…d! Gazu Woody!}
+{149}{}{Zapewniam ciÄ™, Å¼e ta mumia jest najprawdziwiej auto-styczna.}
+{150}{}{UdowodniÄ™ ci, Å¼e nie. WOODY! Hej WOODY! To ty?}
+{151}{}{Skoro tak mÃ³wisz. Ale i tak sÄ…dzÄ™, Å¼e wyglÄ…da jak zwykÅ‚y ghul. Na razie.}
+{152}{}{[Woody - to faktycznie Woody, a nie jakaÅ› mumia, stoi teraz zaspany przed tobÄ… - owiniÄ™ty ze wszystkich stron papierem - trzaska wiekiem sarkofagu i wybiega na zewnÄ…trz, pozostawiajÄ…c za sobÄ… tylko strzÄ™py spowijajÄ…cego go papieru toaletowego i dobiegajÄ…cy z oddali gÅ‚os "Wielkie dziÄ™ki, czÅ‚oowieeku!"]}
+{153}{}{Ha! Jestem geniuszem! A ty jesteÅ› skoÅ„czony w tym mieÅ›cie. JuÅ¼ nigdy nie bÄ™dziesz Wielkim Ananiaszem, nie bÄ™dziesz nawet jego zawszonÄ… dupÄ….}
 {154}{}{Uciekaj Woody! Aha! Jestem geniuszem!}
-{155}{}{[Wielki Ananiasz wzrusza ramionami] Wiedzia³em, ¿e tak bêdzie. A mog³em sprowadziæ jednog³ow¹ braminê - by³aby chyba bardziej interesuj¹ca. Muszê siê cofn¹æ do etapu projektowania.}
-{156}{}{Jednog³owa bramina? Jasne, drugiego takiego kitu ju¿ mi nie wciœniesz! ¯egnaj szarlatanie.}
-{157}{}{Uda³o ci siê uwolniæ Woodego.}
-{158}{}{Chyba wolê pos³uchaæ historii o duchach.}
-{200}{}{Wiem o rzeczach, o których zwyk³ym œmiertelnikom nawet siê nie œni³o. Ajjjaaa! Njarlot... Upss, sorki (heh, heh). Mam trochê rzeczy przywiezionych z daleka. Mogê opowiedzieæ ci o duchu, jak równie¿ pokazaæ auto-styczn¹ mumiê, która przyby³a prosto z Egiptu w sarkofagu, który stoi obok.}
-{201}{}{Opowiedz mi o mumii. Wprost umieram z ciekawoœci.}
-{202}{}{Mo¿e historia o duchu? Masz mo¿e colê albo kubek kakao?}
-{203}{}{Nie mam czasu na takie g³upoty.}
-{300}{}{Tak wiêc [daje znak, ¿eby podejœæ bli¿ej], niegdyœ ¿y³a sobie potê¿na królowa, rz¹dz¹ca wszystkimi ziemiami otaczaj¹cymi miasto. Potrafi³a utrzymaæ swoj¹ w³adzê dziêki jakiemuœ tajemniczemu amuletowi, z którym nigdy siê nie rozstawa³a. No i jak?}
-{301}{}{Uch, mo¿e byæ. No dobra. Tak wiêc królowa mia³a *magiczny* amulet. Och, opowiadaj dalej, bo chyba nie wytrzymam tego napiêcia [ziewniêcie].}
+{155}{}{[Wielki Ananiasz wzrusza ramionami] WiedziaÅ‚em, Å¼e tak bÄ™dzie. A mogÅ‚em sprowadziÄ‡ jednogÅ‚owÄ… braminÄ™ - byÅ‚aby chyba bardziej interesujÄ…ca. MuszÄ™ siÄ™ cofnÄ…Ä‡ do etapu projektowania.}
+{156}{}{JednogÅ‚owa bramina? Jasne, drugiego takiego kitu juÅ¼ mi nie wciÅ›niesz! Å»egnaj szarlatanie.}
+{157}{}{UdaÅ‚o ci siÄ™ uwolniÄ‡ Woodego.}
+{158}{}{Chyba wolÄ™ posÅ‚uchaÄ‡ historii o duchach.}
+{200}{}{Wiem o rzeczach, o ktÃ³rych zwykÅ‚ym Å›miertelnikom nawet siÄ™ nie Å›niÅ‚o. Ajjjaaa! Njarlot... Upss, sorki (heh, heh). Mam trochÄ™ rzeczy przywiezionych z daleka. MogÄ™ opowiedzieÄ‡ ci o duchu, jak rÃ³wnieÅ¼ pokazaÄ‡ auto-stycznÄ… mumiÄ™, ktÃ³ra przybyÅ‚a prosto z Egiptu w sarkofagu, ktÃ³ry stoi obok.}
+{201}{}{Opowiedz mi o mumii. Wprost umieram z ciekawoÅ›ci.}
+{202}{}{MoÅ¼e historia o duchu? Masz moÅ¼e colÄ™ albo kubek kakao?}
+{203}{}{Nie mam czasu na takie gÅ‚upoty.}
+{300}{}{Tak wiÄ™c [daje znak, Å¼eby podejÅ›Ä‡ bliÅ¼ej], niegdyÅ› Å¼yÅ‚a sobie potÄ™Å¼na krÃ³lowa, rzÄ…dzÄ…ca wszystkimi ziemiami otaczajÄ…cymi miasto. PotrafiÅ‚a utrzymaÄ‡ swojÄ… wÅ‚adzÄ™ dziÄ™ki jakiemuÅ› tajemniczemu amuletowi, z ktÃ³rym nigdy siÄ™ nie rozstawaÅ‚a. No i jak?}
+{301}{}{Uch, moÅ¼e byÄ‡. No dobra. Tak wiÄ™c krÃ³lowa miaÅ‚a *magiczny* amulet. Och, opowiadaj dalej, bo chyba nie wytrzymam tego napiÄ™cia [ziewniÄ™cie].}
 {302}{}{Dobra, na dzisiaj starczy. Na razie.}
-{400}{}{Jak chcesz. No wiêc, z³y czarownik otru³ m³od¹ ksiê¿niczkê i zabra³ jej amulet. Od tamtej pory, b³¹ka siê w pokoju obok szukaj¹c amuletu. Có¿, eee, w ka¿dym razie przynajmniej w godzinê wiedŸm. Dlatego zawsze zamykam te drzwi. Mo¿na siê przestraszyæ, co?}
-{401}{}{Duch ksiê¿niczki szukaj¹cej amuletu znajduje siê w pokoju obok? To wszystko? Nie mogê uwierzyæ, ¿e sprzedajesz *to* jako opowieœæ. Ju¿ wolê pos³uchaæ o tej g³upiej mumii, któr¹ podobno masz.}
+{400}{}{Jak chcesz. No wiÄ™c, zÅ‚y czarownik otruÅ‚ mÅ‚odÄ… ksiÄ™Å¼niczkÄ™ i zabraÅ‚ jej amulet. Od tamtej pory, bÅ‚Ä…ka siÄ™ w pokoju obok szukajÄ…c amuletu. CÃ³Å¼, eee, w kaÅ¼dym razie przynajmniej w godzinÄ™ wiedÅºm. Dlatego zawsze zamykam te drzwi. MoÅ¼na siÄ™ przestraszyÄ‡, co?}
+{401}{}{Duch ksiÄ™Å¼niczki szukajÄ…cej amuletu znajduje siÄ™ w pokoju obok? To wszystko? Nie mogÄ™ uwierzyÄ‡, Å¼e sprzedajesz *to* jako opowieÅ›Ä‡. JuÅ¼ wolÄ™ posÅ‚uchaÄ‡ o tej gÅ‚upiej mumii, ktÃ³rÄ… podobno masz.}
 {402}{}{Dobra, na dzisiaj starczy. Na razie.}

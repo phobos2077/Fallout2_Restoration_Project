@@ -1,6 +1,6 @@
-{100}{}{Egy bébi halálkarom.}
-{101}{}{Egy bébi halálkarom.}
-{102}{}{Ez itt egy kisebb kiadású halálkarom, karmokkal meg mindennel.}
-{103}{}{Szkvíí... Grrr!}
-{104}{}{Aanyúúú!}
+{100}{}{Egy bÃ©bi halÃ¡lkarom.}
+{101}{}{Egy bÃ©bi halÃ¡lkarom.}
+{102}{}{Ez itt egy kisebb kiadÃ¡sÃº halÃ¡lkarom, karmokkal meg mindennel.}
+{103}{}{SzkvÃ­Ã­... Grrr!}
+{104}{}{AanyÃºÃºÃº!}
 {105}{}{Krumli...}

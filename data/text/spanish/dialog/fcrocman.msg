@@ -1,69 +1,69 @@
 {100}{}{Ves a un hombre calvo de apariencia hostigada.}
 {101}{}{Ves a Harry, el supervisor del transbordador.}
 {102}{}{Ves a un hombre calvo de apariencia hostigada.}
-{103}{}{¡Ayyy! ¡Enemigos de la Iluminación! ¡Socorro! ¡Guardias!}
-{107}{}{¡Oye! ¡Carne cruda! ¿Quién eres? ¿Qué estás haciendo aquí?}
-{108}{}{¿Uh?}
-{109}{}{Tengo una carta para AHS-9. ¿Dónde la puedo dejar?}
+{103}{}{Â¡Ayyy! Â¡Enemigos de la IluminaciÃ³n! Â¡Socorro! Â¡Guardias!}
+{107}{}{Â¡Oye! Â¡Carne cruda! Â¿QuiÃ©n eres? Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
+{108}{}{Â¿Uh?}
+{109}{}{Tengo una carta para AHS-9. Â¿DÃ³nde la puedo dejar?}
 {110}{}{Soy }
 {111}{}{No es asunto tuyo.}
 {112}{}{Quiero unirme a los Hubologistas.}
-{113}{}{¿Quién eres TÚ? ¿Y qué estás haciendo TÚ aquí?}
-{114}{}{Nada. Adiós.}
-{115}{}{Genial, un idiota. Mira, amigo, sólo baja esas escaleras y quizá te puedan ajustar tus neurodinas y hacer algo útil de ti. Pero hasta entonces estoy ocupado. Y ahora vete.}
-{116}{}{¡Va-vale!}
-{117}{}{Déjala abajo. Muéstrasela a AHS-7, que tiene turno de guardia de puertas, y él la recogerá o te enviará a AHS-9. Y ahora, ¿puedo volver a trabajar, trozo de carne?}
+{113}{}{Â¿QuiÃ©n eres TÃš? Â¿Y quÃ© estÃ¡s haciendo TÃš aquÃ­?}
+{114}{}{Nada. AdiÃ³s.}
+{115}{}{Genial, un idiota. Mira, amigo, sÃ³lo baja esas escaleras y quizÃ¡ te puedan ajustar tus neurodinas y hacer algo Ãºtil de ti. Pero hasta entonces estoy ocupado. Y ahora vete.}
+{116}{}{Â¡Va-vale!}
+{117}{}{DÃ©jala abajo. MuÃ©strasela a AHS-7, que tiene turno de guardia de puertas, y Ã©l la recogerÃ¡ o te enviarÃ¡ a AHS-9. Y ahora, Â¿puedo volver a trabajar, trozo de carne?}
 {118}{}{Claro.}
-{119}{}{Tú no eres uno de los hermanos, y está, por tanto, no autorizado a ser aquí. A menos que usted está pensando en unirse a nosotros - que usted puede hacer por expresar su interés para AHS-7, que es en el puesto de la guardia. Ahora, bien en la planta baja o salir de aquí.}
+{119}{}{TÃº no eres uno de los hermanos, y estÃ¡, por tanto, no autorizado a ser aquÃ­. A menos que usted estÃ¡ pensando en unirse a nosotros - que usted puede hacer por expresar su interÃ©s para AHS-7, que es en el puesto de la guardia. Ahora, bien en la planta baja o salir de aquÃ­.}
 {120}{}{Vale, vale. No hay necesidad de ponerse irritable.}
-{121}{}{En realidad, sí es de mi incumbencia. Esta es mi nave, y estos son mis guardias. Y ahora, ¿quién eres y qué estás haciendo aquí?}
+{121}{}{En realidad, sÃ­ es de mi incumbencia. Esta es mi nave, y estos son mis guardias. Y ahora, Â¿quiÃ©n eres y quÃ© estÃ¡s haciendo aquÃ­?}
 {122}{}{Soy }
 {123}{}{No es asunto tuyo.}
 {124}{}{Quiero unirme a los Hubologistas.}
-{125}{}{¿Quién eres TÚ? ¿Y qué estás haciendo TÚ aquí?}
-{126}{}{Nada. Adiós.}
-{127}{}{Soy Harry. Soy el técnico jefe del transbordador.}
+{125}{}{Â¿QuiÃ©n eres TÃš? Â¿Y quÃ© estÃ¡s haciendo TÃš aquÃ­?}
+{126}{}{Nada. AdiÃ³s.}
+{127}{}{Soy Harry. Soy el tÃ©cnico jefe del transbordador.}
 {128}{}{Soy }
 {129}{}{No es asunto tuyo.}
 {130}{}{Quiero unirme a los Hubologistas.}
-{131}{}{Nada. Adiós.}
-{132}{}{No estás dispuesto a cooperar, ¿eh? ¡Guardias! ¡Matad al intruso!}
+{131}{}{Nada. AdiÃ³s.}
+{132}{}{No estÃ¡s dispuesto a cooperar, Â¿eh? Â¡Guardias! Â¡Matad al intruso!}
 {133}{}{Tus guardias son hombres muertos.}
-{134}{}{Baja por esa escalera y habla con AHS-7 en el puesto de guardia. Él te dirigirá adecuadamente.}
-{135}{}{Gracias. Adiós.}
-{161}{}{. Sólo estoy echando un vistazo.}
-{162}{}{. Sólo estoy echando un vistazo.}
-{163}{}{. Sólo estoy echando un vistazo.}
-{170}{}{Necesito ayuda, chico. ¿Puedes ayudarme?}
-{171}{}{Sigo necesitando ayuda, chico. ¿Puedes ayudarme?}
-{172}{}{¿Quién eres?}
-{173}{}{¿Qué estás haciendo aquí?}
+{134}{}{Baja por esa escalera y habla con AHS-7 en el puesto de guardia. Ã‰l te dirigirÃ¡ adecuadamente.}
+{135}{}{Gracias. AdiÃ³s.}
+{161}{}{. SÃ³lo estoy echando un vistazo.}
+{162}{}{. SÃ³lo estoy echando un vistazo.}
+{163}{}{. SÃ³lo estoy echando un vistazo.}
+{170}{}{Necesito ayuda, chico. Â¿Puedes ayudarme?}
+{171}{}{Sigo necesitando ayuda, chico. Â¿Puedes ayudarme?}
+{172}{}{Â¿QuiÃ©n eres?}
+{173}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
 {174}{}{Tengo una copia de los planos de los Shi.}
 {175}{}{Tengo los planos para el vertibird.}
 {176}{}{Los Shi tienen los planos del vertibird.}
-{177}{}{¿Qué puedo hacer por ti?}
-{178}{}{Olvídalo. Adiós.}
+{177}{}{Â¿QuÃ© puedo hacer por ti?}
+{178}{}{OlvÃ­dalo. AdiÃ³s.}
 {179}{}{Soy Harry, AHS-5. Soy el hermano estelar a cargo del transbordador espacial. Lo vamos a usar para viajar a Quetzel.}
-{180}{}{¿Puedo preguntar algo más?}
-{181}{}{Lo tengo. Adiós.}
+{180}{}{Â¿Puedo preguntar algo mÃ¡s?}
+{181}{}{Lo tengo. AdiÃ³s.}
 {182}{}{Lo que estoy haciendo es preparar la nave para el gran viaje hacia el Padre Estelar. Ya estamos casi listos.}
-{183}{}{¿Puedo preguntar algo más?}
-{184}{}{Lo tengo. Adiós.}
-{185}{}{¿Tienes los planos? ¡Excelente! Ahora todo lo que necesitamos es combustible! Los Shi tienen un montón. A ver si puedes enviarnos algo. ¡Buena suerte, recluta!}
+{183}{}{Â¿Puedo preguntar algo mÃ¡s?}
+{184}{}{Lo tengo. AdiÃ³s.}
+{185}{}{Â¿Tienes los planos? Â¡Excelente! Ahora todo lo que necesitamos es combustible! Los Shi tienen un montÃ³n. A ver si puedes enviarnos algo. Â¡Buena suerte, recluta!}
 {186}{}{[HECHO]}
-{187}{}{Entonces debes conseguirlos, ¿no crees? Ahora excúsame, camarada: debo seguir preparando la nave para nuestro épico viaje.}
+{187}{}{Entonces debes conseguirlos, Â¿no crees? Ahora excÃºsame, camarada: debo seguir preparando la nave para nuestro Ã©pico viaje.}
 {188}{}{Tengo los planos para el vertibird.}
 {189}{}{Por supuesto.}
-{190}{}{¡Ya tenemos todo lo que necesitamos para nuestro viaje! ¡Excelente! Ahora sólo nos queda esperar una palabra de AHS-9... y estoy seguro de que deseará que vengas con nosotros. Ve a acabar lo que debas, ¡y luego vuelve para unirte a nosotros con el Padre Estelar!}
-{191}{}{¡Nos veremos entonces!}
-{192}{}{Lo primero, necesitamos planos del vertibird para asegurarnos que la aerodinámica está bien. Si puedes hacer algo al respecto, compruébalo con los Shi o ve a esa vieja base de Navarro.}
-{193}{}{Recuerda que estás buscando los planos del vertibird para nosotros. Prueba con los Shi o en esa vieja base de Navarro.}
+{190}{}{Â¡Ya tenemos todo lo que necesitamos para nuestro viaje! Â¡Excelente! Ahora sÃ³lo nos queda esperar una palabra de AHS-9... y estoy seguro de que desearÃ¡ que vengas con nosotros. Ve a acabar lo que debas, Â¡y luego vuelve para unirte a nosotros con el Padre Estelar!}
+{191}{}{Â¡Nos veremos entonces!}
+{192}{}{Lo primero, necesitamos planos del vertibird para asegurarnos que la aerodinÃ¡mica estÃ¡ bien. Si puedes hacer algo al respecto, compruÃ©balo con los Shi o ve a esa vieja base de Navarro.}
+{193}{}{Recuerda que estÃ¡s buscando los planos del vertibird para nosotros. Prueba con los Shi o en esa vieja base de Navarro.}
 {194}{}{Nadie ha sido capaz de hacer planes para el vertibirds de la Shi, o a partir de que edad base en Navarro. Ha reconsiderado ayudarnos?}
-{195}{}{¡Recuerda, recluta! Los odiados Shi tienen los planos.}
+{195}{}{Â¡Recuerda, recluta! Los odiados Shi tienen los planos.}
 {196}{}{Tengo los planos para el vertibird.}
-{197}{}{Olvídalo.}
-{198}{}{Muy bien, lo haré.}
-{199}{}{¿Sabes qué necesitamos ahora? Combustible. A montones. Los Shi tienen. Ve a ver si puedes conseguirlo.}
-{200}{}{Recuerda que nos estás consiguiendo combustible para nuestra gran nave espacial.}
-{201}{}{Oh, de acuerdo. Adiós.}
+{197}{}{OlvÃ­dalo.}
+{198}{}{Muy bien, lo harÃ©.}
+{199}{}{Â¿Sabes quÃ© necesitamos ahora? Combustible. A montones. Los Shi tienen. Ve a ver si puedes conseguirlo.}
+{200}{}{Recuerda que nos estÃ¡s consiguiendo combustible para nuestra gran nave espacial.}
+{201}{}{Oh, de acuerdo. AdiÃ³s.}
 {300}{}{Tuvimos una brecha en la seguridad y nuestros reservas de combustible se han agotado. Estoy un poco ocupado para hablar ahora mismo.}

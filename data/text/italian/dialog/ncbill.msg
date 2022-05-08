@@ -17,6 +17,6 @@
 {241}{}{Non prima di averti dato una lezione.}
 {250}{}{(L'uomo rivolge lo sguardo verso di te.) Sembri un idiota.}
 {251}{}{Whoa. Calmati. Stavo solo chiedendoti un'opinione.}
-{252}{}{Uh… grazie dell'onesta'...}
+{252}{}{Uhâ€¦ grazie dell'onesta'...}
 {260}{}{(Ti fa cenno di stare zitto e di lasciarlo bere.)}
 {261}{}{-Lo lasci in pace-}

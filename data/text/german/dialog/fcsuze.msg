@@ -10,25 +10,25 @@
 {109}{}{Aaaarg.}
 {110}{}{Was hast du da unten gemacht?}
 {111}{}{Ja. Folge mir.}
-{112}{}{Oh, armes Ding. Die Strahlung und das Ödland sind nicht besonders angenehm, oder?
+{112}{}{Oh, armes Ding. Die Strahlung und das Ã–dland sind nicht besonders angenehm, oder?
  Hoffentlich kann dir jemand helfen.}
 {113}{}{Es ist wirklich ganz dumm. Ich hab mich etwas umgesehen, weil Dachs am Computer zu tun
- hatte, ich bin nach unten und hab mich irgendwie verlaufen und plötzlich war ich von Monstern
+ hatte, ich bin nach unten und hab mich irgendwie verlaufen und plÃ¶tzlich war ich von Monstern
  umringt. Gott sei Dank bist du aufgetaucht.}
 {114}{}{Ich habe noch weitere Fragen.}
 {115}{}{Du sagst es. Hast du was Interessantes entdeckt?}
 {116}{}{Du sagst es. Gehen wir.}
-{117}{}{Ich hab den Raum gefunden, in dem ich war. Außerdem noch einen Raum, der aussah wie ein
+{117}{}{Ich hab den Raum gefunden, in dem ich war. AuÃŸerdem noch einen Raum, der aussah wie ein
  Auftankbereich. Viel weiter bin ich nicht gekommen, wegen der Monster.}
 {118}{}{Ich habe noch weitere Fragen.}
 {119}{}{Woher bist du?}
-{120}{}{Gut. Das reicht für den Augenblick.}
-{121}{}{Ich komme von einem Ort südlich des Knochengartens und südlich des Glows. Nicht allzu
- weit vom Meer entfernt. Ich war Kindermädchen, aber dann mutierten die Kinder zu Monstern.}
+{120}{}{Gut. Das reicht fÃ¼r den Augenblick.}
+{121}{}{Ich komme von einem Ort sÃ¼dlich des Knochengartens und sÃ¼dlich des Glows. Nicht allzu
+ weit vom Meer entfernt. Ich war KindermÃ¤dchen, aber dann mutierten die Kinder zu Monstern.}
 {122}{}{Ich habe noch weitere Fragen.}
 {123}{}{Wie hast du Dachs kennengelernt?}
 {124}{}{Sehr interessant. Das ist im Augenblick alles.}
-{125}{}{Er kam in den Süden und in die Disco, in der ich immer war. Als bei mir alles
+{125}{}{Er kam in den SÃ¼den und in die Disco, in der ich immer war. Als bei mir alles
  zusammenbrach, dachte ich, ich komm mit hierher.}
 {126}{}{Ich habe noch weitere Fragen.}
 {127}{}{Danke, das war alles.}
@@ -39,6 +39,6 @@
 {132}{}{Woher bist du?}
 {133}{}{Wie hast du Dachs kennengelernt?}
 {134}{}{Jetzt nicht. Bis dann.}
-{135}{}{Oh mein Gott...Badger ist tot...ich weiß nicht, was ich jetzt tun soll...Ich hab hier
+{135}{}{Oh mein Gott...Badger ist tot...ich weiÃŸ nicht, was ich jetzt tun soll...Ich hab hier
  keine Freunde...meine ganze Familie ist tot...oh mein Gott.}
-{136}{}{Danke für deine Hilfe. Ich werde jetzt Dachs suchen.}
+{136}{}{Danke fÃ¼r deine Hilfe. Ich werde jetzt Dachs suchen.}

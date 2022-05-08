@@ -1,4 +1,4 @@
 {100}{}{Widzisz drzwi.}
 {101}{}{Widzisz drzwi.}
-{102}{}{Widzisz drzwi. O odró¿nieniu od normalnych drzwi - te nie maj¹ zamka.}
-{103}{}{Nic siê nie dzieje.}
+{102}{}{Widzisz drzwi. O odrÃ³Å¼nieniu od normalnych drzwi - te nie majÄ… zamka.}
+{103}{}{Nic siÄ™ nie dzieje.}

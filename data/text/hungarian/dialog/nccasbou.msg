@@ -1,81 +1,81 @@
-{100}{}{Ez az ember kidobóként dolgozik a kaszinóban.}
-{150}{}{Ez az ember egy kidobó. Jó NAGYRA n?tt, mondhatom!}
-{151}{}{? itt a kidobóember. Jó nagy. És dühös.}
-{152}{}{? itt a kidobóember. Gyanakodva méreget.}
-{153}{}{? itt a kidobóember. Korábban azt hitted, csak mutánsok n?nek ekkorára.}
-{200}{}{Ööö... le kéne venni azt a páncélt... tulképpen, vegyük úgy, mintha nem is szóltam volna.}
-{201}{}{Ööö, uram... vagy hölgyem... le kéne venni azt a páncélt... ööö, nem szóltam!}
-{202}{}{Uram... vagy hölgyem... ilyesmit nem lehet a kaszinóban viselni... hacsak nem annyira elengedhetetlen. Á, hagyjuk...}
-{205}{}{Ööö... miért lopakodik itt, uram?}
-{206}{}{Ööö... valami titkos küldetésben jár, uram?}
-{210}{}{Ööö... miért lopakodik itt, hölgyem?}
-{211}{}{Ööö... valami titkos küldetésben jár, hölgyem?}
-{215}{}{Jó estét, uram!}
-{216}{}{'Stét, uram!}
-{220}{}{Jó estét, hölgyem!}
-{221}{}{'Stét, hölgyem!}
-{225}{}{Jó napot, uram!}
-{230}{}{Jó napot, hölgyem!}
-{235}{}{Barátom, úgy t?nik, nem abba a kaszinóba jöttél, amelyikbe akartál.}
-{236}{}{A legjobb lenne, ha távoznál. Mondjuk most azonnal.}
-{237}{}{Ez nem az a hely, ahol az életedet kéne kockára tenni. Inkább menj máshova!}
-{240}{}{Hé szukácska, úgy t?nik, nem abba a kaszinóba jöttél, amelyikbe akartál.}
-{241}{}{A legjobb lenne, ha távoznál. Mondjuk most azonnal.}
-{242}{}{Ez nem az a hely, ahol az életedet kéne kockára tenni. Inkább menj máshova!}
-{245}{}{Uram, sajnálom, de el kell raknia azt a fegyvert!}
-{250}{}{Hölgyem, sajnálom, de el kell raknia azt a fegyvert!}
-{255}{}{Drágám, bocsánat, hogy szólok, de a kaszinóba nem vihetsz fegyvert. Hehe... anélkül is épp elég halálosan nézel ki.}
+{100}{}{Ez az ember kidobÃ³kÃ©nt dolgozik a kaszinÃ³ban.}
+{150}{}{Ez az ember egy kidobÃ³. JÃ³ NAGYRA n?tt, mondhatom!}
+{151}{}{? itt a kidobÃ³ember. JÃ³ nagy. Ã‰s dÃ¼hÃ¶s.}
+{152}{}{? itt a kidobÃ³ember. Gyanakodva mÃ©reget.}
+{153}{}{? itt a kidobÃ³ember. KorÃ¡bban azt hitted, csak mutÃ¡nsok n?nek ekkorÃ¡ra.}
+{200}{}{Ã–Ã¶Ã¶... le kÃ©ne venni azt a pÃ¡ncÃ©lt... tulkÃ©ppen, vegyÃ¼k Ãºgy, mintha nem is szÃ³ltam volna.}
+{201}{}{Ã–Ã¶Ã¶, uram... vagy hÃ¶lgyem... le kÃ©ne venni azt a pÃ¡ncÃ©lt... Ã¶Ã¶Ã¶, nem szÃ³ltam!}
+{202}{}{Uram... vagy hÃ¶lgyem... ilyesmit nem lehet a kaszinÃ³ban viselni... hacsak nem annyira elengedhetetlen. Ã, hagyjuk...}
+{205}{}{Ã–Ã¶Ã¶... miÃ©rt lopakodik itt, uram?}
+{206}{}{Ã–Ã¶Ã¶... valami titkos kÃ¼ldetÃ©sben jÃ¡r, uram?}
+{210}{}{Ã–Ã¶Ã¶... miÃ©rt lopakodik itt, hÃ¶lgyem?}
+{211}{}{Ã–Ã¶Ã¶... valami titkos kÃ¼ldetÃ©sben jÃ¡r, hÃ¶lgyem?}
+{215}{}{JÃ³ estÃ©t, uram!}
+{216}{}{'StÃ©t, uram!}
+{220}{}{JÃ³ estÃ©t, hÃ¶lgyem!}
+{221}{}{'StÃ©t, hÃ¶lgyem!}
+{225}{}{JÃ³ napot, uram!}
+{230}{}{JÃ³ napot, hÃ¶lgyem!}
+{235}{}{BarÃ¡tom, Ãºgy t?nik, nem abba a kaszinÃ³ba jÃ¶ttÃ©l, amelyikbe akartÃ¡l.}
+{236}{}{A legjobb lenne, ha tÃ¡voznÃ¡l. Mondjuk most azonnal.}
+{237}{}{Ez nem az a hely, ahol az Ã©letedet kÃ©ne kockÃ¡ra tenni. InkÃ¡bb menj mÃ¡shova!}
+{240}{}{HÃ© szukÃ¡cska, Ãºgy t?nik, nem abba a kaszinÃ³ba jÃ¶ttÃ©l, amelyikbe akartÃ¡l.}
+{241}{}{A legjobb lenne, ha tÃ¡voznÃ¡l. Mondjuk most azonnal.}
+{242}{}{Ez nem az a hely, ahol az Ã©letedet kÃ©ne kockÃ¡ra tenni. InkÃ¡bb menj mÃ¡shova!}
+{245}{}{Uram, sajnÃ¡lom, de el kell raknia azt a fegyvert!}
+{250}{}{HÃ¶lgyem, sajnÃ¡lom, de el kell raknia azt a fegyvert!}
+{255}{}{DrÃ¡gÃ¡m, bocsÃ¡nat, hogy szÃ³lok, de a kaszinÃ³ba nem vihetsz fegyvert. Hehe... anÃ©lkÃ¼l is Ã©pp elÃ©g halÃ¡losan nÃ©zel ki.}
 {260}{}{Kedvesem, ilyen testtel sehova nem fogsz tudni elosonni.}
-{265}{}{Hé, vadember, a saját érdekedben most azonnal tedd el azt a fegyvert!}
-{270}{}{Basszus, most rögtön hagyd abba a lopakodást, vadember!}
-{275}{}{Szeva, szeva, Myron! Régóta nem láttunk a laboron kívül.}
-{276}{}{Azért jöttél, Myron, hogy kipróbáld az új húsokat?}
-{277}{}{Hé! Gyere be hozzánk, Myron!}
-{280}{}{A mutáns szépen megvár idekinn!}
-{281}{}{Fene a mutánskedvel? fajtádat! A kis kedvenced nem fogja ide betenni a lábát, annyi szent!}
-{282}{}{Az ilyen mutáns torzszülöttek nem mehetnek be a kaszinóba!}
+{265}{}{HÃ©, vadember, a sajÃ¡t Ã©rdekedben most azonnal tedd el azt a fegyvert!}
+{270}{}{Basszus, most rÃ¶gtÃ¶n hagyd abba a lopakodÃ¡st, vadember!}
+{275}{}{Szeva, szeva, Myron! RÃ©gÃ³ta nem lÃ¡ttunk a laboron kÃ­vÃ¼l.}
+{276}{}{AzÃ©rt jÃ¶ttÃ©l, Myron, hogy kiprÃ³bÃ¡ld az Ãºj hÃºsokat?}
+{277}{}{HÃ©! Gyere be hozzÃ¡nk, Myron!}
+{280}{}{A mutÃ¡ns szÃ©pen megvÃ¡r idekinn!}
+{281}{}{Fene a mutÃ¡nskedvel? fajtÃ¡dat! A kis kedvenced nem fogja ide betenni a lÃ¡bÃ¡t, annyi szent!}
+{282}{}{Az ilyen mutÃ¡ns torzszÃ¼lÃ¶ttek nem mehetnek be a kaszinÃ³ba!}
 {285}{}{A droid kinnmarad!}
-{286}{}{Droidokat nem szolgálunk ki!}
-{287}{}{A droid szépen kinnmarad! Majd idekinn megvár!}
-{290}{}{Üdvözöljük a kaszinóban, uram!}
-{291}{}{Tetszik a szerkója, uram!}
-{292}{}{Semmi probléma, uram.}
-{293}{}{Öö... van valami gond, uram? Vagy csak erre járt?}
-{294}{}{Tökös Tomi üdvözletét küldi.}
-{295}{}{Mondjon már egy-két jó szót értem a f?nöknél...}
-{296}{}{Üdvözöljük a kaszinóban, hölgyem!}
-{297}{}{Tetszik a szerkója, hölgyem!}
-{298}{}{Semmi probléma, hölgyem.}
-{299}{}{Öö... van valami gond, hölgyem? Vagy csak erre járt?}
-{310}{}{Üdvözöljük a kaszinóban, uram!}
-{311}{}{Tetszik a szerkója, uram!}
-{312}{}{Mikor lesz a következ? meccse, uram?}
-{315}{}{Üdvözöljük a kaszinóban, hölgyem!}
-{316}{}{Tetszik a szerkója, hölgyem!}
-{317}{}{Mikor lesz a következ? meccse, hölgyem?}
-{320}{}{Mikor tudnál id?t szakítani rám?}
-{321}{}{Csaó, üdvözlünk a kaszinóban! Csak nem táncolni fogsz ma éjjel?}
-{322}{}{Halálos, ahogy kinézel, édesem!}
-{323}{}{Fortuna irigykedni fog, ha gyakran jársz majd nálunk.}
-{324}{}{Úgy hallottam, Tökös Tomi magánvetítésre vár téged.}
-{330}{}{A kaszinó odabenn van! Ne szólj hozzám!}
-{331}{}{A kaszinó ODABENN VAN! ODA-BENN! Elmebeteg ?stulok.}
-{335}{}{Eriggy, máshol rázd a segged, vadember!}
-{336}{}{A kaszinó ODABENN VAN! ODA-BENN! Elmebeteg ?stulok.}
-{337}{}{Ma nincs kedvem az ungabunga húshoz. Lódulj!}
-{338}{}{Ásd el magad, baromarcú! Nem látod, hogy dolgozom?}
-{339}{}{Eriggy azt' zaklass egy nálam is részegebbet, baromarcú!}
-{345}{}{Szolgálatban nem lenne szabad beszélgetnem, de azért örülök, hogy kipicsáztad az Enklávét.}
-{346}{}{Ügyes vagy, vadember! Most, hogy megmentetted a világot, pihenj egyet és érezd jól magad!}
-{347}{}{Azt hallottam, Tökös Tomi keresett téged. Vigyázz vele!}
-{350}{}{Hát nem semmi egy tökös dolog volt így elintézni az Enklávét!}
-{351}{}{Szerintem ha a Renóiak összes tökösségét összeadjuk, akkor sem teszi ki a tiedet azzal, hogy lenyomtad az Enklávét.}
-{352}{}{Az Enklávé eltörlésével majdnem olyan fasza gyerek lettél, mint Tökös Tomi.}
-{353}{}{Szolgálatban nem lenne szabad beszélgetnem, de azért örülök, hogy kipicsáztad az Enklávét.}
-{354}{}{Ügyes vagy, vadember! Most, hogy megmentetted a világot, pihenj egyet és érezd jól magad!}
-{355}{}{Hát nem semmi egy tökös dolog volt így elintézni az Enklávét! Na, jó, nyilván nem kell a tököst szó szerint érteni, de hát tudod mire gondolok!}
-{356}{}{Szerintem ha a Renóiak összes tökösségét összeadjuk, drágám, akkor sem teszi ki a tiedet azzal, hogy lenyomtad az Enklávét.}
-{357}{}{Nem jönnek be neked a hozzám hasonló srácok? Nem vagyok ugyan egy világmegment? típus, de elég er?s vagyok és jó a szívem.}
-{360}{}{Ha az a ghoul beteszi ide a lábát, újra meg fog halni!}
+{286}{}{Droidokat nem szolgÃ¡lunk ki!}
+{287}{}{A droid szÃ©pen kinnmarad! Majd idekinn megvÃ¡r!}
+{290}{}{ÃœdvÃ¶zÃ¶ljÃ¼k a kaszinÃ³ban, uram!}
+{291}{}{Tetszik a szerkÃ³ja, uram!}
+{292}{}{Semmi problÃ©ma, uram.}
+{293}{}{Ã–Ã¶... van valami gond, uram? Vagy csak erre jÃ¡rt?}
+{294}{}{TÃ¶kÃ¶s Tomi Ã¼dvÃ¶zletÃ©t kÃ¼ldi.}
+{295}{}{Mondjon mÃ¡r egy-kÃ©t jÃ³ szÃ³t Ã©rtem a f?nÃ¶knÃ©l...}
+{296}{}{ÃœdvÃ¶zÃ¶ljÃ¼k a kaszinÃ³ban, hÃ¶lgyem!}
+{297}{}{Tetszik a szerkÃ³ja, hÃ¶lgyem!}
+{298}{}{Semmi problÃ©ma, hÃ¶lgyem.}
+{299}{}{Ã–Ã¶... van valami gond, hÃ¶lgyem? Vagy csak erre jÃ¡rt?}
+{310}{}{ÃœdvÃ¶zÃ¶ljÃ¼k a kaszinÃ³ban, uram!}
+{311}{}{Tetszik a szerkÃ³ja, uram!}
+{312}{}{Mikor lesz a kÃ¶vetkez? meccse, uram?}
+{315}{}{ÃœdvÃ¶zÃ¶ljÃ¼k a kaszinÃ³ban, hÃ¶lgyem!}
+{316}{}{Tetszik a szerkÃ³ja, hÃ¶lgyem!}
+{317}{}{Mikor lesz a kÃ¶vetkez? meccse, hÃ¶lgyem?}
+{320}{}{Mikor tudnÃ¡l id?t szakÃ­tani rÃ¡m?}
+{321}{}{CsaÃ³, Ã¼dvÃ¶zlÃ¼nk a kaszinÃ³ban! Csak nem tÃ¡ncolni fogsz ma Ã©jjel?}
+{322}{}{HalÃ¡los, ahogy kinÃ©zel, Ã©desem!}
+{323}{}{Fortuna irigykedni fog, ha gyakran jÃ¡rsz majd nÃ¡lunk.}
+{324}{}{Ãšgy hallottam, TÃ¶kÃ¶s Tomi magÃ¡nvetÃ­tÃ©sre vÃ¡r tÃ©ged.}
+{330}{}{A kaszinÃ³ odabenn van! Ne szÃ³lj hozzÃ¡m!}
+{331}{}{A kaszinÃ³ ODABENN VAN! ODA-BENN! Elmebeteg ?stulok.}
+{335}{}{Eriggy, mÃ¡shol rÃ¡zd a segged, vadember!}
+{336}{}{A kaszinÃ³ ODABENN VAN! ODA-BENN! Elmebeteg ?stulok.}
+{337}{}{Ma nincs kedvem az ungabunga hÃºshoz. LÃ³dulj!}
+{338}{}{Ãsd el magad, baromarcÃº! Nem lÃ¡tod, hogy dolgozom?}
+{339}{}{Eriggy azt' zaklass egy nÃ¡lam is rÃ©szegebbet, baromarcÃº!}
+{345}{}{SzolgÃ¡latban nem lenne szabad beszÃ©lgetnem, de azÃ©rt Ã¶rÃ¼lÃ¶k, hogy kipicsÃ¡ztad az EnklÃ¡vÃ©t.}
+{346}{}{Ãœgyes vagy, vadember! Most, hogy megmentetted a vilÃ¡got, pihenj egyet Ã©s Ã©rezd jÃ³l magad!}
+{347}{}{Azt hallottam, TÃ¶kÃ¶s Tomi keresett tÃ©ged. VigyÃ¡zz vele!}
+{350}{}{HÃ¡t nem semmi egy tÃ¶kÃ¶s dolog volt Ã­gy elintÃ©zni az EnklÃ¡vÃ©t!}
+{351}{}{Szerintem ha a RenÃ³iak Ã¶sszes tÃ¶kÃ¶ssÃ©gÃ©t Ã¶sszeadjuk, akkor sem teszi ki a tiedet azzal, hogy lenyomtad az EnklÃ¡vÃ©t.}
+{352}{}{Az EnklÃ¡vÃ© eltÃ¶rlÃ©sÃ©vel majdnem olyan fasza gyerek lettÃ©l, mint TÃ¶kÃ¶s Tomi.}
+{353}{}{SzolgÃ¡latban nem lenne szabad beszÃ©lgetnem, de azÃ©rt Ã¶rÃ¼lÃ¶k, hogy kipicsÃ¡ztad az EnklÃ¡vÃ©t.}
+{354}{}{Ãœgyes vagy, vadember! Most, hogy megmentetted a vilÃ¡got, pihenj egyet Ã©s Ã©rezd jÃ³l magad!}
+{355}{}{HÃ¡t nem semmi egy tÃ¶kÃ¶s dolog volt Ã­gy elintÃ©zni az EnklÃ¡vÃ©t! Na, jÃ³, nyilvÃ¡n nem kell a tÃ¶kÃ¶st szÃ³ szerint Ã©rteni, de hÃ¡t tudod mire gondolok!}
+{356}{}{Szerintem ha a RenÃ³iak Ã¶sszes tÃ¶kÃ¶ssÃ©gÃ©t Ã¶sszeadjuk, drÃ¡gÃ¡m, akkor sem teszi ki a tiedet azzal, hogy lenyomtad az EnklÃ¡vÃ©t.}
+{357}{}{Nem jÃ¶nnek be neked a hozzÃ¡m hasonlÃ³ srÃ¡cok? Nem vagyok ugyan egy vilÃ¡gmegment? tÃ­pus, de elÃ©g er?s vagyok Ã©s jÃ³ a szÃ­vem.}
+{360}{}{Ha az a ghoul beteszi ide a lÃ¡bÃ¡t, Ãºjra meg fog halni!}
 {361}{}{A ghoul kinnmarad!}
-{362}{}{Nem szeretjük itt a ghoulokat. Vidd vissza Gekkóba, ahova való!}
+{362}{}{Nem szeretjÃ¼k itt a ghoulokat. Vidd vissza GekkÃ³ba, ahova valÃ³!}

@@ -1,1 +1,1 @@
-{100}{}{Você entrou em uma grande planície fora de Gecko. Há pessoas aqui usando armaduras de alta tecnologia.}
+{100}{}{VocÃª entrou em uma grande planÃ­cie fora de Gecko. HÃ¡ pessoas aqui usando armaduras de alta tecnologia.}

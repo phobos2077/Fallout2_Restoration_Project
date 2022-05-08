@@ -1,43 +1,43 @@
 {100}{}{Ves a un caravanero.}
-{101}{}{Gracias al Hacedor que has llegado. Parece que se está haciendo más y más duro el ir de un lado a otro sin ser atacado por alguien o algo.}
-{102}{}{¿Qué puedo hacer por ti?}
-{103}{}{¿A dónde te diriges?}
-{104}{}{¿Cuál es tu cargamento?}
-{105}{}{Adiós.}
+{101}{}{Gracias al Hacedor que has llegado. Parece que se estÃ¡ haciendo mÃ¡s y mÃ¡s duro el ir de un lado a otro sin ser atacado por alguien o algo.}
+{102}{}{Â¿QuÃ© puedo hacer por ti?}
+{103}{}{Â¿A dÃ³nde te diriges?}
+{104}{}{Â¿CuÃ¡l es tu cargamento?}
+{105}{}{AdiÃ³s.}
 {106}{}{Uhg.}
 {107}{}{He recogido un cargamento de }
 {108}{}{ y ahora me dirijo a }
 {109}{}{.}
-{110}{}{¿Cuál es tu cargamento?}
-{111}{}{Adiós.}
+{110}{}{Â¿CuÃ¡l es tu cargamento?}
+{111}{}{AdiÃ³s.}
 {112}{}{Llevamos }
-{113}{}{¿Crees que podría comerciar contigo?}
-{114}{}{¿A dónde te diriges?}
-{115}{}{Adiós.}
-{116}{}{Bueno, no veo por qué no, teniendo en cuenta que nos has ayudado en un apuro. Claro, por qué no. Esto es lo que tengo.}
+{113}{}{Â¿Crees que podrÃ­a comerciar contigo?}
+{114}{}{Â¿A dÃ³nde te diriges?}
+{115}{}{AdiÃ³s.}
+{116}{}{Bueno, no veo por quÃ© no, teniendo en cuenta que nos has ayudado en un apuro. Claro, por quÃ© no. Esto es lo que tengo.}
 {117}{}{[Comerciar]}
-{118}{}{He cambiado de opinión.}
-{119}{}{Sabía que te había visto antes. ¡Mierda! ¡Tú eres el que sale en los carteles de "Se Busca"! Oye, no quiero problemas. Tú te marchas por tu camino, nosotros por el nuestro. No le diremos a nadie que te hemos visto. ¡Ahora vete, por favor!}
-{120}{}{¡Eh! Tú eres el que sale en los carteles de "Se Busca". No te preocupes. No te voy a traicionar; de hecho, a mí también me buscan en un par de sitios. Ahora, querías comerciar…}
+{118}{}{He cambiado de opiniÃ³n.}
+{119}{}{SabÃ­a que te habÃ­a visto antes. Â¡Mierda! Â¡TÃº eres el que sale en los carteles de "Se Busca"! Oye, no quiero problemas. TÃº te marchas por tu camino, nosotros por el nuestro. No le diremos a nadie que te hemos visto. Â¡Ahora vete, por favor!}
+{120}{}{Â¡Eh! TÃº eres el que sale en los carteles de "Se Busca". No te preocupes. No te voy a traicionar; de hecho, a mÃ­ tambiÃ©n me buscan en un par de sitios. Ahora, querÃ­as comerciarâ€¦}
 {121}{}{[Comerciar]}
-{122}{}{Suficiente entonces. Tenemos que seguir nuestra marcha. No te preocupes, no le diré a ningún agente que te he visto.}
-{123}{}{¡Espera un momento! He oído hablar de ti. Tú eres el santurrón que va por ahí ayudando a todo el mundo. No nos gustan los de tu clase, ¡así que esfúmate!}
-{124}{}{He oído cosas buenas sobre alguien que encaja con tu descripción. Supongo que estaría bien cambiar algo de nuestro cargamento contigo. Esto es lo que tengo.}
+{122}{}{Suficiente entonces. Tenemos que seguir nuestra marcha. No te preocupes, no le dirÃ© a ningÃºn agente que te he visto.}
+{123}{}{Â¡Espera un momento! He oÃ­do hablar de ti. TÃº eres el santurrÃ³n que va por ahÃ­ ayudando a todo el mundo. No nos gustan los de tu clase, Â¡asÃ­ que esfÃºmate!}
+{124}{}{He oÃ­do cosas buenas sobre alguien que encaja con tu descripciÃ³n. Supongo que estarÃ­a bien cambiar algo de nuestro cargamento contigo. Esto es lo que tengo.}
 {125}{}{[Comerciar]}
-{126}{}{Adiós.}
-{127}{}{He oído hablar de ti. Tú eres ese machote que está montando jaleo por todas partes. Quería conocerte tan sólo para poder estrecharte la mano. Pensar en todos esas historias y rumores chungos que cuentan sobre ti, hace que se me caiga una lágrima. Será un honor comerciar contigo.}
+{126}{}{AdiÃ³s.}
+{127}{}{He oÃ­do hablar de ti. TÃº eres ese machote que estÃ¡ montando jaleo por todas partes. QuerÃ­a conocerte tan sÃ³lo para poder estrecharte la mano. Pensar en todos esas historias y rumores chungos que cuentan sobre ti, hace que se me caiga una lÃ¡grima. SerÃ¡ un honor comerciar contigo.}
 {128}{}{[Comerciar]}
-{129}{}{Adiós}
-{130}{}{Se dice que tú o alguien que se parece a ti ha estado montando jaleo últimamente. No hago negocios con los de tu clase. Lo siento.}
-{131}{}{Ni sé por qué te buscan ni me importa. No hago negocios con los de tu clase.}
-{132}{}{¿Por qué no te vas a hacer... "el bien" a otra parte? }
-{133}{}{Estoy seguro de que una persona con tu reputación podrá conseguir cosas en cualquier otra parte.}
-{134}{}{Indique su intencón.}
-{135}{}{¿A dónde te diriges?}
-{136}{}{¿Cuál es tu cargamento?}
-{137}{}{Adiós.}
+{129}{}{AdiÃ³s}
+{130}{}{Se dice que tÃº o alguien que se parece a ti ha estado montando jaleo Ãºltimamente. No hago negocios con los de tu clase. Lo siento.}
+{131}{}{Ni sÃ© por quÃ© te buscan ni me importa. No hago negocios con los de tu clase.}
+{132}{}{Â¿Por quÃ© no te vas a hacer... "el bien" a otra parte? }
+{133}{}{Estoy seguro de que una persona con tu reputaciÃ³n podrÃ¡ conseguir cosas en cualquier otra parte.}
+{134}{}{Indique su intencÃ³n.}
+{135}{}{Â¿A dÃ³nde te diriges?}
+{136}{}{Â¿CuÃ¡l es tu cargamento?}
+{137}{}{AdiÃ³s.}
 {138}{}{Uhg.}
-{139}{}{Eso está... bien. Que tengas un buen día.}
+{139}{}{Eso estÃ¡... bien. Que tengas un buen dÃ­a.}
 {150}{}{medicinas.}
 {151}{}{mineral de oro.}
 {152}{}{mineral de uranio.}

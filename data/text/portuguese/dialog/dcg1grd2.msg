@@ -1,7 +1,7 @@
-{100}{}{Você vê um bandido.}
-{101}{}{Ele é o amigo de Tyler.}
-{110}{}{Você aqui para a festa?}
+{100}{}{VocÃª vÃª um bandido.}
+{101}{}{Ele Ã© o amigo de Tyler.}
+{110}{}{VocÃª aqui para a festa?}
 {111}{}{*hickup* Cervejas em mim!}
-{112}{}{Putas estão na parte de trás, se você quer um passeio.}
-{120}{}{Ninguém foda uma festa quando estou por perto.}
-{130}{}{Nós mostrou que aqueles filhos da puta...Arruinar *hickup* uma boa festa e tudo.}
+{112}{}{Putas estÃ£o na parte de trÃ¡s, se vocÃª quer um passeio.}
+{120}{}{NinguÃ©m foda uma festa quando estou por perto.}
+{130}{}{NÃ³s mostrou que aqueles filhos da puta...Arruinar *hickup* uma boa festa e tudo.}

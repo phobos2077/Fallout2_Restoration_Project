@@ -1,52 +1,52 @@
-{100}{}{Widzisz osiedleñca w nêdznym odzieniu.}
+{100}{}{Widzisz osiedleÅ„ca w nÄ™dznym odzieniu.}
 {101}{}{To Brian.}
-{102}{}{Widzisz osiedleñca w nêdznym odzieniu. W ustach trzyma wyka³aczkê, zaœ ca³e ubranie jest zat³uszczone. Ma te¿ brudne paznokcie.}
-{103}{}{Zobaczymy, jak ci siê to spodoba, aspo³eczna gnido.}
+{102}{}{Widzisz osiedleÅ„ca w nÄ™dznym odzieniu. W ustach trzyma wykaÅ‚aczkÄ™, zaÅ› caÅ‚e ubranie jest zatÅ‚uszczone. Ma teÅ¼ brudne paznokcie.}
+{103}{}{Zobaczymy, jak ci siÄ™ to spodoba, aspoÅ‚eczna gnido.}
 {104}{}{Czego?}
 {105}{}{Nyug aarg.}
-{106}{}{Kim jesteœ?}
+{106}{}{Kim jesteÅ›?}
 {107}{}{Co to za miejsce?}
-{108}{}{S³ysza³eœ kiedyœ o GECKu?}
-{109}{}{S³uchaj, Eric poprosi³ mnie, ¿eby podwy¿szyæ przydzia³ energetyczny dla jego domu. Mówi, ¿e zbytnio siê poci.}
-{110}{}{S³uchaj, Eric jest naprawdê zadowolony w jego mi³ym, ch³odnym domku. I widzê, ¿e moc jednak nie za³ama³a siê w mieœcie.}
-{111}{}{W³aœnie rozmówiliœmy siê z Erykiem i powiedzia³ mi, ¿e kiedyœ prowadzi³ to miejsce i ¿e jest tyle mocy w prêtach uranowych, ¿e nawet nie zauwa¿ysz tego ma³ego uszczerbku, który by spowodowa³. Wiêc odkrêcaj kurek.}
+{108}{}{SÅ‚yszaÅ‚eÅ› kiedyÅ› o GECKu?}
+{109}{}{SÅ‚uchaj, Eric poprosiÅ‚ mnie, Å¼eby podwyÅ¼szyÄ‡ przydziaÅ‚ energetyczny dla jego domu. MÃ³wi, Å¼e zbytnio siÄ™ poci.}
+{110}{}{SÅ‚uchaj, Eric jest naprawdÄ™ zadowolony w jego miÅ‚ym, chÅ‚odnym domku. I widzÄ™, Å¼e moc jednak nie zaÅ‚amaÅ‚a siÄ™ w mieÅ›cie.}
+{111}{}{WÅ‚aÅ›nie rozmÃ³wiliÅ›my siÄ™ z Erykiem i powiedziaÅ‚ mi, Å¼e kiedyÅ› prowadziÅ‚ to miejsce i Å¼e jest tyle mocy w prÄ™tach uranowych, Å¼e nawet nie zauwaÅ¼ysz tego maÅ‚ego uszczerbku, ktÃ³ry by spowodowaÅ‚. WiÄ™c odkrÄ™caj kurek.}
 {112}{}{Nic takiego. Na razie.}
-{113}{}{Ja? Jestem Brian. Obs³ugujê generator, który zasila to miejsce.}
-{114}{}{Wiêc to z tob¹ muszê porozmawiaæ. Eric powiedzia³, ¿e jest mu u siebie zbyt niewygodnie, i ¿e potrzebuje wiêcej mocy do klimatyzacji.}
-{115}{}{Rozumiem. To bardzo interesuj¹ce. Musi ci to przynosiæ satysfakcjê.}
-{116}{}{Œwietnie. Mam wiêcej pytañ.}
-{117}{}{To miejsce to elektrownia Broken Hills. Zajmujê siê utrzymaniem tego miejsca w sprawnoœci... Upewniam siê, ¿e nagle nie stanie w miejscu, mimo ¿e ca³kiem dobrze dzia³a... Elektrownia zasilana jest przez prêty uranowe.}
-{118}{}{To musi byæ wspania³e. S³uchaj, mam wiêcej pytañ.}
-{119}{}{Prêty uranowe?}
-{120}{}{Interesuj¹ce. Na razie,}
-{121}{}{GECK? Nie s³ysza³em. S¹dzê te¿, ¿e nie s³ysza³ o tym równie¿ nikt w okolicy. Brzmi to jednak tak, jak zwierzê, lub coœ w tym stylu, które ma wredne pazury.}
-{122}{}{Nie, niezupe³nie. Mam inne pytania.}
-{123}{}{To zupe³nie nie to. Na razie.}
-{124}{}{Eric chce wiêcej mocy? Eric NIE MO¯E mieæ wiêcej mocy. Mamy tu bardzo chwiejn¹ równowagê energetyczn¹, i je¿eli Eric dostanie wiêcej mocy, to si¹dzie szpital. Albo œwiat³a. Albo kopalnia. Nie mo¿emy na to pozwoliæ.}
-{125}{}{Je¿eli ta maszyna ma prêty uranowe, to mo¿esz mieæ wiêcej ni¿ wystarczaj¹co energii na potrzeby tego miasta ORAZ Nowego Reno, i nawet nie zauwa¿ysz ró¿nicy. A teraz odkrêcaj kurek.}
+{113}{}{Ja? Jestem Brian. ObsÅ‚ugujÄ™ generator, ktÃ³ry zasila to miejsce.}
+{114}{}{WiÄ™c to z tobÄ… muszÄ™ porozmawiaÄ‡. Eric powiedziaÅ‚, Å¼e jest mu u siebie zbyt niewygodnie, i Å¼e potrzebuje wiÄ™cej mocy do klimatyzacji.}
+{115}{}{Rozumiem. To bardzo interesujÄ…ce. Musi ci to przynosiÄ‡ satysfakcjÄ™.}
+{116}{}{Åšwietnie. Mam wiÄ™cej pytaÅ„.}
+{117}{}{To miejsce to elektrownia Broken Hills. ZajmujÄ™ siÄ™ utrzymaniem tego miejsca w sprawnoÅ›ci... Upewniam siÄ™, Å¼e nagle nie stanie w miejscu, mimo Å¼e caÅ‚kiem dobrze dziaÅ‚a... Elektrownia zasilana jest przez prÄ™ty uranowe.}
+{118}{}{To musi byÄ‡ wspaniaÅ‚e. SÅ‚uchaj, mam wiÄ™cej pytaÅ„.}
+{119}{}{PrÄ™ty uranowe?}
+{120}{}{InteresujÄ…ce. Na razie,}
+{121}{}{GECK? Nie sÅ‚yszaÅ‚em. SÄ…dzÄ™ teÅ¼, Å¼e nie sÅ‚yszaÅ‚ o tym rÃ³wnieÅ¼ nikt w okolicy. Brzmi to jednak tak, jak zwierzÄ™, lub coÅ› w tym stylu, ktÃ³re ma wredne pazury.}
+{122}{}{Nie, niezupeÅ‚nie. Mam inne pytania.}
+{123}{}{To zupeÅ‚nie nie to. Na razie.}
+{124}{}{Eric chce wiÄ™cej mocy? Eric NIE MOÅ»E mieÄ‡ wiÄ™cej mocy. Mamy tu bardzo chwiejnÄ… rÃ³wnowagÄ™ energetycznÄ…, i jeÅ¼eli Eric dostanie wiÄ™cej mocy, to siÄ…dzie szpital. Albo Å›wiatÅ‚a. Albo kopalnia. Nie moÅ¼emy na to pozwoliÄ‡.}
+{125}{}{JeÅ¼eli ta maszyna ma prÄ™ty uranowe, to moÅ¼esz mieÄ‡ wiÄ™cej niÅ¼ wystarczajÄ…co energii na potrzeby tego miasta ORAZ Nowego Reno, i nawet nie zauwaÅ¼ysz rÃ³Å¼nicy. A teraz odkrÄ™caj kurek.}
 {126}{}{Ale... ale... on cierpi.}
-{127}{}{A wiêc nie ma sposobu, abyœ uczyni³ kilka usprawnieñ?}
-{128}{}{[Patrzy ponuro na wskaŸniki i cicho mówi.] To pod³e.}
+{127}{}{A wiÄ™c nie ma sposobu, abyÅ› uczyniÅ‚ kilka usprawnieÅ„?}
+{128}{}{[Patrzy ponuro na wskaÅºniki i cicho mÃ³wi.] To podÅ‚e.}
 {129}{}{Ta. Na razie!}
-{130}{}{Hej! Nie ruszaj nic! To delikatny sprzêt! Wynocha! Na zewn¹trz, ju¿! No ju¿! Sio do domu!}
+{130}{}{Hej! Nie ruszaj nic! To delikatny sprzÄ™t! Wynocha! Na zewnÄ…trz, juÅ¼! No juÅ¼! Sio do domu!}
 {131}{}{Ooooch! Guzzzzyky!}
-{132}{}{Có¿, tak nie jest. Niezupe³nie. Najczêœciej siedzê tu i upewniam siê, ¿e ¿aden wskaŸnik nie zacznie wariowaæ. Robiê tylko drobne poprawki. Przestawiam kilka pstryczków. To w sumie wszystko. Ka¿dy móg³by to robiæ.}
-{133}{}{A wiêc, powiedzmy, móg³byœ przes³aæ wiêcej energii do domu Erica?}
-{134}{}{Ka¿dy, co? Mam inne pytania.}
-{135}{}{Dziêki. Na razie.}
-{136}{}{Có¿, z t¹ kopalni¹ uranow¹ tu¿ obok i z energi¹ atomow¹ bêd¹c¹ nasz¹ przysz³oœci¹ logiczne jest, ¿e staramy siê nad¹¿yæ za nowymi czasami. Mo¿e i jesteœmy mali, ale jesteœmy postêpowi.}
+{132}{}{CÃ³Å¼, tak nie jest. NiezupeÅ‚nie. NajczÄ™Å›ciej siedzÄ™ tu i upewniam siÄ™, Å¼e Å¼aden wskaÅºnik nie zacznie wariowaÄ‡. RobiÄ™ tylko drobne poprawki. Przestawiam kilka pstryczkÃ³w. To w sumie wszystko. KaÅ¼dy mÃ³gÅ‚by to robiÄ‡.}
+{133}{}{A wiÄ™c, powiedzmy, mÃ³gÅ‚byÅ› przesÅ‚aÄ‡ wiÄ™cej energii do domu Erica?}
+{134}{}{KaÅ¼dy, co? Mam inne pytania.}
+{135}{}{DziÄ™ki. Na razie.}
+{136}{}{CÃ³Å¼, z tÄ… kopalniÄ… uranowÄ… tuÅ¼ obok i z energiÄ… atomowÄ… bÄ™dÄ…cÄ… naszÄ… przyszÅ‚oÅ›ciÄ… logiczne jest, Å¼e staramy siÄ™ nadÄ…Å¼yÄ‡ za nowymi czasami. MoÅ¼e i jesteÅ›my mali, ale jesteÅ›my postÄ™powi.}
 {137}{}{Hmm. Tak. Mam inne pytania.}
 {138}{}{Ta. Na razie.}
 {139}{}{Tak, jasne, technicznie to prawda, ale...}
-{140}{}{Ale nic. Po prostu jesteœ leniwy. Ruszaj siê.}
-{141}{}{Nie musisz siê tak o to zaperzaæ. [Nachyla g³owê i przekrêca pokrêt³o.] Proszê. Powiedz mu, ¿eby ju¿ przesta³ narzekaæ.}
-{142}{}{Masz z³ote serce, du¿uœ.}
-{143}{}{WsadŸ sobie to do gêby, któr¹ nigdy nie ca³ujesz. Nie dziêkujê za to, ¿eœ tak mi to ponad miarê utrudnia³.}
-{144}{}{Mo¿e po prostu powinien ciê czêœciej k¹paæ. Mi³ego dnia.}
+{140}{}{Ale nic. Po prostu jesteÅ› leniwy. Ruszaj siÄ™.}
+{141}{}{Nie musisz siÄ™ tak o to zaperzaÄ‡. [Nachyla gÅ‚owÄ™ i przekrÄ™ca pokrÄ™tÅ‚o.] ProszÄ™. Powiedz mu, Å¼eby juÅ¼ przestaÅ‚ narzekaÄ‡.}
+{142}{}{Masz zÅ‚ote serce, duÅ¼uÅ›.}
+{143}{}{WsadÅº sobie to do gÄ™by, ktÃ³rÄ… nigdy nie caÅ‚ujesz. Nie dziÄ™kujÄ™ za to, Å¼eÅ› tak mi to ponad miarÄ™ utrudniaÅ‚.}
+{144}{}{MoÅ¼e po prostu powinien ciÄ™ czÄ™Å›ciej kÄ…paÄ‡. MiÅ‚ego dnia.}
 {145}{}{Bywaj.}
-{146}{}{Nie. Niestety nie. Potrzeby miasta przewa¿aj¹ nad potrzebami jednostki.}
-{147}{}{Mam wiêc inne pytania.}
-{148}{}{Myœlisz bardzo funkcjonalnie. Dam mu znaæ, ¿e nie jest nikim wa¿nym. Do widzenia.}
+{146}{}{Nie. Niestety nie. Potrzeby miasta przewaÅ¼ajÄ… nad potrzebami jednostki.}
+{147}{}{Mam wiÄ™c inne pytania.}
+{148}{}{MyÅ›lisz bardzo funkcjonalnie. Dam mu znaÄ‡, Å¼e nie jest nikim waÅ¼nym. Do widzenia.}
 {149}{}{Hmm... co... yy?}
 {150}{}{Zzzzzz... hrrr...}
 {151}{}{Czego...? Hmm...? Hrrrr...}

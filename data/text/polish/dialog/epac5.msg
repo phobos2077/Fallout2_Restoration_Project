@@ -1,25 +1,25 @@
 {100}{}{Widzisz Hologram.}
 {101}{}{Widzisz Dyrektora Operacyjnego.}
-{102}{}{Hologram 12001. Zarz¹dza operacjami wewnêtrznymi AOŒ.}
-{200}{}{[Ten cwaniacko wygl¹daj¹cy hologram obdarza ciê nerwowym uœmiechem.] Dzieñ dobry, witamy w AOŒ. Z pewnoœci¹ zwróci³o twoj¹ uwagê i¿ przechodzimy w³aœnie pewne trudnoœci, ale przekroczymy ten most kiedy ju¿ do niego dotrzemy.}
-{201}{}{Uch, dobra. Kim jesteœ?}
-{210}{}{Jestem Dyrektorem Operacyjnym AOŒ.}
-{211}{}{A, tak. [Drapiesz siê w g³owê] A co to w³aœciwie oznacza?}
-{220}{}{[Z trudem powstrzymuje œmiech.] Ale¿, zajmujê siê koordynacj¹ dzia³añ. Sprawiam, ¿e pi³ka siê toczy. Teraz jest po twojej stronie boiska. Lubiê wyci¹gaæ z ludzi najlepsze. W koñcu, tu w AOŒ o to chodzi. Uczciwoœæ. Prawoœæ. Dziêkujê, cenimy twoj¹ opiniê.}
-{221}{}{O czym u diab³a mówisz?}
-{230}{}{Zapewniam ciê, pracujemy bez wytchnienia, by rozwi¹zaæ wszystkie problemy. Zdarza³y nam siê potkniêcia, ale wszystko idzie w dobrym kierunku. Jestem pewien, ¿e wszystkie normy zostan¹ osi¹gniête w danym czasie.}
-{231}{}{Jakie normy? Gadasz bez sensu. Czy ty w ogóle coœ tu robisz? Mo¿esz mi pomóc, czy nie?}
-{240}{}{Wszystko zale¿y od twoich oczekiwañ. Mam zwi¹zane rêce w tej kwestii, ale z przyjemnoœci¹ ci pomogê, jeœli mo¿esz.}
+{102}{}{Hologram 12001. ZarzÄ…dza operacjami wewnÄ™trznymi AOÅš.}
+{200}{}{[Ten cwaniacko wyglÄ…dajÄ…cy hologram obdarza ciÄ™ nerwowym uÅ›miechem.] DzieÅ„ dobry, witamy w AOÅš. Z pewnoÅ›ciÄ… zwrÃ³ciÅ‚o twojÄ… uwagÄ™ iÅ¼ przechodzimy wÅ‚aÅ›nie pewne trudnoÅ›ci, ale przekroczymy ten most kiedy juÅ¼ do niego dotrzemy.}
+{201}{}{Uch, dobra. Kim jesteÅ›?}
+{210}{}{Jestem Dyrektorem Operacyjnym AOÅš.}
+{211}{}{A, tak. [Drapiesz siÄ™ w gÅ‚owÄ™] A co to wÅ‚aÅ›ciwie oznacza?}
+{220}{}{[Z trudem powstrzymuje Å›miech.] AleÅ¼, zajmujÄ™ siÄ™ koordynacjÄ… dziaÅ‚aÅ„. Sprawiam, Å¼e piÅ‚ka siÄ™ toczy. Teraz jest po twojej stronie boiska. LubiÄ™ wyciÄ…gaÄ‡ z ludzi najlepsze. W koÅ„cu, tu w AOÅš o to chodzi. UczciwoÅ›Ä‡. PrawoÅ›Ä‡. DziÄ™kujÄ™, cenimy twojÄ… opiniÄ™.}
+{221}{}{O czym u diabÅ‚a mÃ³wisz?}
+{230}{}{Zapewniam ciÄ™, pracujemy bez wytchnienia, by rozwiÄ…zaÄ‡ wszystkie problemy. ZdarzaÅ‚y nam siÄ™ potkniÄ™cia, ale wszystko idzie w dobrym kierunku. Jestem pewien, Å¼e wszystkie normy zostanÄ… osiÄ…gniÄ™te w danym czasie.}
+{231}{}{Jakie normy? Gadasz bez sensu. Czy ty w ogÃ³le coÅ› tu robisz? MoÅ¼esz mi pomÃ³c, czy nie?}
+{240}{}{Wszystko zaleÅ¼y od twoich oczekiwaÅ„. Mam zwiÄ…zane rÄ™ce w tej kwestii, ale z przyjemnoÅ›ciÄ… ci pomogÄ™, jeÅ›li moÅ¼esz.}
 {241}{}{Zapomnij, na razie.}
-{242}{}{Przykro mi, ¿e nie mog³em byæ bardziej pomocny.}
-{243}{}{Dziêkujê za twój czas.}
-{244}{}{Lepiej tego nie komentowaæ.}
+{242}{}{Przykro mi, Å¼e nie mogÅ‚em byÄ‡ bardziej pomocny.}
+{243}{}{DziÄ™kujÄ™ za twÃ³j czas.}
+{244}{}{Lepiej tego nie komentowaÄ‡.}
 {245}{}{Bez komentarza.}
-{246}{}{A ja tak, ale nie mam do tego w³adzy.}
-{247}{}{Zajmiemy siê tym zagadnieniem kiedy do tego przyjdzie.}
-{248}{}{Spotkaliœmy siê, by dyskutowaæ, a nie dzia³aæ.}
-{249}{}{Jestem przekonany, ¿e AOŒ jest na drodze do sukcesu.}
-{250}{}{Istotnoœæ tego zagadnienia jest sporna.}
-{251}{}{Nie œpieszmy siê tak, dzia³amy za szybko.}
+{246}{}{A ja tak, ale nie mam do tego wÅ‚adzy.}
+{247}{}{Zajmiemy siÄ™ tym zagadnieniem kiedy do tego przyjdzie.}
+{248}{}{SpotkaliÅ›my siÄ™, by dyskutowaÄ‡, a nie dziaÅ‚aÄ‡.}
+{249}{}{Jestem przekonany, Å¼e AOÅš jest na drodze do sukcesu.}
+{250}{}{IstotnoÅ›Ä‡ tego zagadnienia jest sporna.}
+{251}{}{Nie Å›pieszmy siÄ™ tak, dziaÅ‚amy za szybko.}
 {252}{}{To brzmi adekwatnie.}
 {253}{}{Rozumiem twoje obawy.}

@@ -1,3 +1,3 @@
 {100}{}{Du siehst einen Ausgang.}
-{101}{}{Diese Viecher haben ein paar ziemlich große Spuren hinterlassen. Es dürfte nicht schwer
+{101}{}{Diese Viecher haben ein paar ziemlich groÃŸe Spuren hinterlassen. Es dÃ¼rfte nicht schwer
  sein, sie bis zu ihrem Nest zu verfolgen. (Ausgang nach Nordosten)}

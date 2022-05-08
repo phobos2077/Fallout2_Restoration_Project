@@ -10,7 +10,7 @@
 {109}{}{Guten Tag, Fremdling. Neu in der Stadt?}
 {110}{}{Geh jetzt weiter. Hier gibt es nichts zu sehen.}
 {111}{}{Ich bin im Streifendienst. Wenn's Probleme gibt, geh auf die Wache.}
-{112}{}{Hör auf, da rumzufummeln.}
+{112}{}{HÃ¶r auf, da rumzufummeln.}
 {113}{}{Lass die Finger da weg.}
 {114}{}{Daran darf man nicht rumfummeln.}
-{115}{}{Hör auf mit diesem Unfug, sonst muss ich dich töten.}
+{115}{}{HÃ¶r auf mit diesem Unfug, sonst muss ich dich tÃ¶ten.}

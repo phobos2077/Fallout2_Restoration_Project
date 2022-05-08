@@ -1,28 +1,28 @@
 {100}{}{Du siehst einen fies aussehenden Mann.}
-{101}{}{Du siehst Metzger, den Sklavenhändlermeister.}
-{150}{}{Metzger ist der Anführer der Sklavenhändlergilde.}
-{200}{}{Dafür wirst du bezahlen.}
-{210}{}{Was zum Teufel wollt ihr? Das ist hier die Sklavenhändlergilde und kein Asyl für
+{101}{}{Du siehst Metzger, den SklavenhÃ¤ndlermeister.}
+{150}{}{Metzger ist der AnfÃ¼hrer der SklavenhÃ¤ndlergilde.}
+{200}{}{DafÃ¼r wirst du bezahlen.}
+{210}{}{Was zum Teufel wollt ihr? Das ist hier die SklavenhÃ¤ndlergilde und kein Asyl fÃ¼r
  abgewrackte Junkies.}
-{211}{}{Was willst du hässliche Schlampe? Das ist hier die Sklavenhändlergilde und kein
+{211}{}{Was willst du hÃ¤ssliche Schlampe? Das ist hier die SklavenhÃ¤ndlergilde und kein
  verdammtes Eroscenter.}
-{212}{}{Was hast du vor, du Schlampe? Das ist hier die Sklavenhändlergilde und kein verdammtes
+{212}{}{Was hast du vor, du Schlampe? Das ist hier die SklavenhÃ¤ndlergilde und kein verdammtes
  Eroscenter.}
-{213}{}{Du gehst mir langsam auf die Nüsse. Was zum Teufel willst du jetzt schon wieder?}
+{213}{}{Du gehst mir langsam auf die NÃ¼sse. Was zum Teufel willst du jetzt schon wieder?}
 {214}{}{Also was jetzt?}
 {215}{}{Was?}
 {216}{}{Beeil dich besser.}
 {217}{}{Willst du Penner zur Abwechslung mal arbeiten?}
-{218}{}{Ich gewöhne mich langsam an dein blödes Gesicht. Bist du aus einem bestimmten Grund hier?}
+{218}{}{Ich gewÃ¶hne mich langsam an dein blÃ¶des Gesicht. Bist du aus einem bestimmten Grund hier?}
 {219}{}{Seh ich vielleicht aus wie dein Papa, oder was? Das will ich in drei Teufelsnamen nicht
  hoffen. Jetzt spuck's schon aus, was willst du?}
-{220}{}{Oh, schaut mal, wer hier ist. Hältst du dich für was Besonderes? Rede oder verpiss dich.}
-{221}{}{Was willst du jetzt, Sklavenhändler?}
-{222}{}{Willst du bloß blöd rumstehen, oder hast du was zu sagen?}
-{223}{}{Jetzt red schon. Ich hab für diesen Mist nicht den ganzen Tag Zeit.}
+{220}{}{Oh, schaut mal, wer hier ist. HÃ¤ltst du dich fÃ¼r was Besonderes? Rede oder verpiss dich.}
+{221}{}{Was willst du jetzt, SklavenhÃ¤ndler?}
+{222}{}{Willst du bloÃŸ blÃ¶d rumstehen, oder hast du was zu sagen?}
+{223}{}{Jetzt red schon. Ich hab fÃ¼r diesen Mist nicht den ganzen Tag Zeit.}
 {230}{}{Oh, und 'wer' soll das sein? Ich hoffe, du hast nicht vor, dieses Treffen zu
  wiederholen...}
-{231}{}{Du hast niemanden, der interessant für mich wäre. Ich interessiere mich nur für
+{231}{}{Du hast niemanden, der interessant fÃ¼r mich wÃ¤re. Ich interessiere mich nur fÃ¼r
  Leute - und damit meine ich normale Leute.}
 {232}{}{Du Schwachkopf, glaubst du, das hier ist ein Laden oder was? Komm wieder, wenn du einen
  Sklaven zu verkaufen hast. Wenn du sonstwas verkaufen willst, beweg deinen Hintern in einen Laden.}
@@ -33,64 +33,64 @@
 {237}{}{Cassidy}
 {238}{}{Sulik}
 {239}{}{Kann ich dich statt dessen was anderes fragen?}
-{240}{}{Ich hab's mir anders überlegt. Tschüss.}
+{240}{}{Ich hab's mir anders Ã¼berlegt. TschÃ¼ss.}
 {241}{}{Dex}
 {242}{}{Cat Jules}
 {243}{}{Kitsune}
 {245}{}{Leg los.}
 {246}{}{Ja?}
-{247}{}{Ich bin verdammt noch mal nicht dein Diener, also beeil dich gefälligst.}
+{247}{}{Ich bin verdammt noch mal nicht dein Diener, also beeil dich gefÃ¤lligst.}
 {248}{}{Was ist los, ich hab nicht den ganzen Tag Zeit.}
-{249}{}{Schieß los.}
+{249}{}{SchieÃŸ los.}
 {250}{}{Vielleicht.}
-{255}{}{Ich möchte was verkaufen.}
-{256}{}{Über Vic...}
-{257}{}{Ich suche nach einem Händler.}
-{258}{}{Lara wollte, dass ich dich um Erlaubnis für den Kampf mit Tyler bitte.}
+{255}{}{Ich mÃ¶chte was verkaufen.}
+{256}{}{Ãœber Vic...}
+{257}{}{Ich suche nach einem HÃ¤ndler.}
+{258}{}{Lara wollte, dass ich dich um Erlaubnis fÃ¼r den Kampf mit Tyler bitte.}
 {259}{}{Kann ich in die Gilde eintreten?}
-{260}{}{Was gibt es über eure Gilde zu erzählen?}
-{261}{}{Ich würde gern bei einer Sklavenjagd mitmachen.}
-{262}{}{Macht nichts. Tschüss.}
-{263}{}{ will töten.}
-{264}{}{NNö.}
-{265}{}{Ich hab mir die Sklaven angesehen, die du dahinten hast, aber weißt du, ich habe einen sehr, äh... *speziellen* Geschmack, und keiner von denen ist das, was ich suche. Sind das alle Sklaven die du zu bieten hast?}
+{260}{}{Was gibt es Ã¼ber eure Gilde zu erzÃ¤hlen?}
+{261}{}{Ich wÃ¼rde gern bei einer Sklavenjagd mitmachen.}
+{262}{}{Macht nichts. TschÃ¼ss.}
+{263}{}{ will tÃ¶ten.}
+{264}{}{NNÃ¶.}
+{265}{}{Ich hab mir die Sklaven angesehen, die du dahinten hast, aber weiÃŸt du, ich habe einen sehr, Ã¤h... *speziellen* Geschmack, und keiner von denen ist das, was ich suche. Sind das alle Sklaven die du zu bieten hast?}
 {270}{}{Kommst du damit klar? Ich nehme nicht jeden auf...aber was soll's. Wenn du Mist baust,
- verkauf ich dich. Du musst dich auf der Stirn tätowieren lassen, damit du für jeden als
- Sklavenhändler erkennbar bist. Die lässt sich dann nicht mehr wegmachen, also endgültig.}
-{271}{}{Ach, da kommt ja unser zartes kleines Blumenmädchen zurück... Hast du's dir also
- überlegt. Willst dich doch tätowieren lassen?}
-{272}{}{Ja, du könntest gehen... Für eine Jagd brauchst du nicht viel Verstand. Wenn du Mist
- baust, verkaufe ich dich einfach. Wenn du es dir zutraust, musst du dir eine Tätowierung auf die
- Stirn machen lassen, an der du für jeden als Sklavenhändler erkennbar bist.}
+ verkauf ich dich. Du musst dich auf der Stirn tÃ¤towieren lassen, damit du fÃ¼r jeden als
+ SklavenhÃ¤ndler erkennbar bist. Die lÃ¤sst sich dann nicht mehr wegmachen, also endgÃ¼ltig.}
+{271}{}{Ach, da kommt ja unser zartes kleines BlumenmÃ¤dchen zurÃ¼ck... Hast du's dir also
+ Ã¼berlegt. Willst dich doch tÃ¤towieren lassen?}
+{272}{}{Ja, du kÃ¶nntest gehen... FÃ¼r eine Jagd brauchst du nicht viel Verstand. Wenn du Mist
+ baust, verkaufe ich dich einfach. Wenn du es dir zutraust, musst du dir eine TÃ¤towierung auf die
+ Stirn machen lassen, an der du fÃ¼r jeden als SklavenhÃ¤ndler erkennbar bist.}
 {273}{}{Na, dann los.}
-{274}{}{Ich muss es mir überlegen. Ich melde mich dann wieder.}
-{275}{}{Vielleicht eher nicht. Tschüss.}
+{274}{}{Ich muss es mir Ã¼berlegen. Ich melde mich dann wieder.}
+{275}{}{Vielleicht eher nicht. TschÃ¼ss.}
 {276}{}{Ahja! [Nicken]}
 {277}{}{Nee, ne, ne, ne, ne!}
-{285}{}{Was hast du Idiot denn gedacht. Das hier ist eine Sklavenhändlergilde. Ich kaufe und
+{285}{}{Was hast du Idiot denn gedacht. Das hier ist eine SklavenhÃ¤ndlergilde. Ich kaufe und
  verkaufe Sklaven.}
 {286}{}{Woher bekommst du die Sklaven?}
-{287}{}{Ich möchte beitreten.}
+{287}{}{Ich mÃ¶chte beitreten.}
 {288}{}{Bitte eine andere Frage.}
-{289}{}{Ach so, OK. Tschüss.}
-{300}{}{Oh, hier und dort. Wir nehmen hauptsächlich Wilde und Nomaden, wenn wir welche auftreiben
- können.}
-{301}{}{Hört sich lustig an. Wie kommt man da rein?}
+{289}{}{Ach so, OK. TschÃ¼ss.}
+{300}{}{Oh, hier und dort. Wir nehmen hauptsÃ¤chlich Wilde und Nomaden, wenn wir welche auftreiben
+ kÃ¶nnen.}
+{301}{}{HÃ¶rt sich lustig an. Wie kommt man da rein?}
 {302}{}{Ich habe noch eine Frage.}
-{303}{}{Ach so, OK. Tschüss.}
-{310}{}{Meine Güte, du hast nicht mal geschrien. Ich bin ja so stolz auf dich... Diese
- Tätowierung sieht sogar richtig gut aus. Gib mir einfach Bescheid, wenn du für deine erste
+{303}{}{Ach so, OK. TschÃ¼ss.}
+{310}{}{Meine GÃ¼te, du hast nicht mal geschrien. Ich bin ja so stolz auf dich... Diese
+ TÃ¤towierung sieht sogar richtig gut aus. Gib mir einfach Bescheid, wenn du fÃ¼r deine erste
  Sklavenjagd bereit bist.}
-{311}{}{Danke. Tschüss.}
+{311}{}{Danke. TschÃ¼ss.}
 {312}{}{Ich BIN bereit.}
-{313}{}{Ich töten JETZT!}
+{313}{}{Ich tÃ¶ten JETZT!}
 {314}{}{Okeeh!}
-{320}{}{Du wirst von zwei meiner Männer an die Ziele herangeführt. Deine Bezahlung hängt davon
- ab, wie viele Sklaven du bringst, aber gib auch den anderen Deckung. Wenn jemand getötet wird,
+{320}{}{Du wirst von zwei meiner MÃ¤nner an die Ziele herangefÃ¼hrt. Deine Bezahlung hÃ¤ngt davon
+ ab, wie viele Sklaven du bringst, aber gib auch den anderen Deckung. Wenn jemand getÃ¶tet wird,
  gibt's weniger Geld.}
-{321}{}{Verdammt, alle ausgeflogen! Wir müssen warten, bis wieder Wilde herkommen. Vielleicht
- sollten wir anfangen, sie zu züchten.}
-{322}{}{Also, so geht das wirklich nicht. Zu große Verluste. Das hier ist ein Geschäft. Ich muss
+{321}{}{Verdammt, alle ausgeflogen! Wir mÃ¼ssen warten, bis wieder Wilde herkommen. Vielleicht
+ sollten wir anfangen, sie zu zÃ¼chten.}
+{322}{}{Also, so geht das wirklich nicht. Zu groÃŸe Verluste. Das hier ist ein GeschÃ¤ft. Ich muss
  Geld verdienen, nicht verlieren.}
 {323}{}{In Ordnung. Sie sind bereit.}
 {324}{}{Gut, du kannst jetzt gehen.}
@@ -98,28 +98,28 @@
 {326}{}{Gut. Komm zu mir, wenn du fertig bist.}
 {327}{}{OK.}
 {328}{}{Oh.}
-{340}{}{Bring alle um, die sich wehren. Töte sie, wenn sie dich angreifen. 
- Ich möchte mich nicht mit ihnen abgeben, sie machen zu viel Ärger. Wenn
- du fertig bist, nehmen sich die anderen Sklavenhändler die restlichen vor und markieren sie.}
+{340}{}{Bring alle um, die sich wehren. TÃ¶te sie, wenn sie dich angreifen. 
+ Ich mÃ¶chte mich nicht mit ihnen abgeben, sie machen zu viel Ã„rger. Wenn
+ du fertig bist, nehmen sich die anderen SklavenhÃ¤ndler die restlichen vor und markieren sie.}
 {341}{}{OK.}
 {342}{}{Oh.}
-{350}{}{Sobald sie mit dem Markieren der Sklaven anfangen, kannst du wieder zurückkommen. Dafür
- braucht man spezielles Training, also versuche nicht, die anderen selbst zu überwältigen. Mach,
- was du willst, aber die Ware muss unbeschädigt bleiben.}
+{350}{}{Sobald sie mit dem Markieren der Sklaven anfangen, kannst du wieder zurÃ¼ckkommen. DafÃ¼r
+ braucht man spezielles Training, also versuche nicht, die anderen selbst zu Ã¼berwÃ¤ltigen. Mach,
+ was du willst, aber die Ware muss unbeschÃ¤digt bleiben.}
 {351}{}{Also gut.}
 {352}{}{Aha.}
-{360}{}{Oh ja. Sie ist sehr hübsch. Ich gebe dir $}
-{361}{}{Er ist in Ordnung. Ich könnte ihn dir wahrscheinlich abnehmen für...sagen wir...$}
+{360}{}{Oh ja. Sie ist sehr hÃ¼bsch. Ich gebe dir $}
+{361}{}{Er ist in Ordnung. Ich kÃ¶nnte ihn dir wahrscheinlich abnehmen fÃ¼r...sagen wir...$}
 {362}{}{Du Vollidiot! Wie kommst du auf die hirnverbrannte Idee, dass ich diesen Schwachkopf
- wiederhaben will? Er hat eine Ewigkeit gebraucht, um ein blödes Funkgerät zu reparieren! Ein Funkgerät!
+ wiederhaben will? Er hat eine Ewigkeit gebraucht, um ein blÃ¶des FunkgerÃ¤t zu reparieren! Ein FunkgerÃ¤t!
  Jetzt hast du ihn am Hals. Ich will nicht, dass er noch mehr kaputtmacht.}
-{363}{}{Ich weiß nicht, der ist ziemlich dürr... aber einer von den Klugen? Das wär mir
+{363}{}{Ich weiÃŸ nicht, der ist ziemlich dÃ¼rr... aber einer von den Klugen? Das wÃ¤r mir
  schon was wert. Ich gebe dir $}
-{364}{}{Der hier sieht aus, als wäre er ein guter Schläger. Hmm... $}
-{365}{}{Noch ein Wilder. Der hier ist wie aus dem Gruselkabinett. Aber sieht kräftig aus und die Visage
- könnte noch was zusätzlich wert sein. $}
-{366}{}{Wie wär's mit jemand anderem?}
-{367}{}{Nun, dann möchte ich dir eine andere Frage stellen}
+{364}{}{Der hier sieht aus, als wÃ¤re er ein guter SchlÃ¤ger. Hmm... $}
+{365}{}{Noch ein Wilder. Der hier ist wie aus dem Gruselkabinett. Aber sieht krÃ¤ftig aus und die Visage
+ kÃ¶nnte noch was zusÃ¤tzlich wert sein. $}
+{366}{}{Wie wÃ¤r's mit jemand anderem?}
+{367}{}{Nun, dann mÃ¶chte ich dir eine andere Frage stellen}
 {368}{}{OK.}
 {369}{}{Fein.}
 {370}{}{OK.}
@@ -128,21 +128,21 @@
 {380}{}{OK, Jungs, dann sperrt ihn in den Pferch.}
 {381}{}{OK, Jungs, dann sperrt sie in den Pferch.}
 {382}{}{Geht klar, Boss.}
-{390}{}{Dann hör gefälligst auf, mir meine Zeit zu stehlen. Komm wieder, wenn du was hast, von
+{390}{}{Dann hÃ¶r gefÃ¤lligst auf, mir meine Zeit zu stehlen. Komm wieder, wenn du was hast, von
  dem du dich trennen willst.}
 {391}{}{Ich habe noch eine Frage an dich.}
 {392}{}{OK. Wiedersehn.}
-{400}{}{Was ist jetzt in die blöde Schlampe gefahren. Ich habe ihr vor einiger Zeit eine Chance
- gegeben. Hatte ihr aber den Mumm hierfür nicht zugetraut.}
+{400}{}{Was ist jetzt in die blÃ¶de Schlampe gefahren. Ich habe ihr vor einiger Zeit eine Chance
+ gegeben. Hatte ihr aber den Mumm hierfÃ¼r nicht zugetraut.}
 {401}{}{Wovon redest du?}
 {402}{}{Es ist also in Ordnung?}
-{410}{}{Sei doch nicht so zimperlich. Ich weiß genau, was sie vorhat. Ich habe ihr vor einiger
+{410}{}{Sei doch nicht so zimperlich. Ich weiÃŸ genau, was sie vorhat. Ich habe ihr vor einiger
  Zeit eine Chance gegeben und sie war dem nicht gewachsen, aber wenn sie es sich zutraut...}
 {411}{}{Es ist also in Ordnung?}
 {420}{}{Ich habe schon gesagt, dass das Angebot bestehen bleibt. Wenn sie glaubt, sie kann ihn
  fertigmachen und mein Zeug besser bewachen...}
 {421}{}{Also?}
-{422}{}{Heißt das Ja?}
+{422}{}{HeiÃŸt das Ja?}
 {430}{}{Es ist mir total Egal, wer von den beiden die Bewachung macht. Solange meiner Ware nichts
  passiert, ist es mir Wurscht.}
 {431}{}{Bitte eine andere Frage.}
@@ -154,45 +154,45 @@
 {442}{}{Was ist mit ihm?}
 {443}{}{Ja, das ist er.}
 {444}{}{Kann ich ihn sehen?}
-{445}{}{Warum behältst du ihn hier?}
-{446}{}{OK, danke, Tschüss.}
-{455}{}{Dieser kleine Mistkäfer. Er hat mir ein Funkgerät verkauft, mit dem man angeblich spezielle
- Übertragungen empfangen kann. War aber nicht so. Ich hab ihn erwischt, als er versucht hat, sich
- aus der Stadt zu schleichen, bevor ich was merke. Sein Fehler. Ich lasse mich nicht veräppeln.
- Er kann von Glück sagen, dass er noch lebt.}
+{445}{}{Warum behÃ¤ltst du ihn hier?}
+{446}{}{OK, danke, TschÃ¼ss.}
+{455}{}{Dieser kleine MistkÃ¤fer. Er hat mir ein FunkgerÃ¤t verkauft, mit dem man angeblich spezielle
+ Ãœbertragungen empfangen kann. War aber nicht so. Ich hab ihn erwischt, als er versucht hat, sich
+ aus der Stadt zu schleichen, bevor ich was merke. Sein Fehler. Ich lasse mich nicht verÃ¤ppeln.
+ Er kann von GlÃ¼ck sagen, dass er noch lebt.}
 {456}{}{Wie gesagt. Er muss zuerst noch was reparieren. Danach sehen wir weiter.}
-{457}{}{Er hat zwar dieses verdammte Funkgerät endlich zum Laufen gebracht, aber das heißt nicht, dass
+{457}{}{Er hat zwar dieses verdammte FunkgerÃ¤t endlich zum Laufen gebracht, aber das heiÃŸt nicht, dass
  ich ihn so leicht davonkommen lasse.}
-{458}{}{Er hat immerhin versucht, mich zu bescheißen.}
+{458}{}{Er hat immerhin versucht, mich zu bescheiÃŸen.}
 {459}{}{Kann ich ihn sehen?}
-{460}{}{Was meinst du für Übertragungen?}
+{460}{}{Was meinst du fÃ¼r Ãœbertragungen?}
 {461}{}{Okay, danke.}
-{462}{}{Vielleicht können wir das mit Geld regeln?}
-{463}{}{Welche Art von Übertragungen hast du vorhin gemeint?}
-{475}{}{Wozu? Ach, Mist, ist egal. Lass ihn einfach in Ruhe das verdammte Funkgerät reparieren. Ich
- hab die Schnauze voll davon, diesen Idioten durchzufüttern.}
-{476}{}{Warum behältst du ihn hier?}
+{462}{}{Vielleicht kÃ¶nnen wir das mit Geld regeln?}
+{463}{}{Welche Art von Ãœbertragungen hast du vorhin gemeint?}
+{475}{}{Wozu? Ach, Mist, ist egal. Lass ihn einfach in Ruhe das verdammte FunkgerÃ¤t reparieren. Ich
+ hab die Schnauze voll davon, diesen Idioten durchzufÃ¼ttern.}
+{476}{}{Warum behÃ¤ltst du ihn hier?}
 {477}{}{Danke.}
-{485}{}{Die Enklave und New... hey. Was zum Teufel geht dich das an? Es ist ein Geschäft. Ich muss
- sicher sein, dass mich keiner bescheißen will. Mehr brauchst du nicht zu wissen.}
-{486}{}{Kümmere dich um deinen eigenen Mist.}
+{485}{}{Die Enklave und New... hey. Was zum Teufel geht dich das an? Es ist ein GeschÃ¤ft. Ich muss
+ sicher sein, dass mich keiner bescheiÃŸen will. Mehr brauchst du nicht zu wissen.}
+{486}{}{KÃ¼mmere dich um deinen eigenen Mist.}
 {487}{}{OK.}
 {495}{}{In Ordnung, aber das kostet dich $}
 {496}{}{$}
-{497}{}{Können wir etwas aushandeln?}
+{497}{}{KÃ¶nnen wir etwas aushandeln?}
 {498}{}{Okay. Hier.}
-{499}{}{Zuerst möchte ich dir noch ein paar Fragen stellen.}
+{499}{}{Zuerst mÃ¶chte ich dir noch ein paar Fragen stellen.}
 {500}{}{Tut mir leid, das kann ich mir noch nicht leisten.}
-{510}{}{Also gut, er gehört dir, aber verpiss dich, bevor ich es mir anders überlege und ihm eine
- Kugel durch den hohlen Schädel jage.}
-{511}{}{Zuerst möchte ich dir noch ein paar Fragen stellen.}
+{510}{}{Also gut, er gehÃ¶rt dir, aber verpiss dich, bevor ich es mir anders Ã¼berlege und ihm eine
+ Kugel durch den hohlen SchÃ¤del jage.}
+{511}{}{Zuerst mÃ¶chte ich dir noch ein paar Fragen stellen.}
 {512}{}{Danke.}
-{520}{}{Oh, ja. Wir können alles sauber und fair aushandeln... Ich erlasse dir die Hälfte für
- 'n bisschen Spaß...}
-{521}{}{Hör lieber auf hier rumzukokettieren, Kleine. Ich bin nicht gerade für meine Geduld berühmt.}
+{520}{}{Oh, ja. Wir kÃ¶nnen alles sauber und fair aushandeln... Ich erlasse dir die HÃ¤lfte fÃ¼r
+ 'n bisschen SpaÃŸ...}
+{521}{}{HÃ¶r lieber auf hier rumzukokettieren, Kleine. Ich bin nicht gerade fÃ¼r meine Geduld berÃ¼hmt.}
 {522}{}{Nur wenn du nett zu mir bist.}
 {523}{}{Ach, wieso nicht.}
-{524}{}{Vielleicht später.}
+{524}{}{Vielleicht spÃ¤ter.}
 {530}{}{Du solltest es aber glauben.}
 {531}{}{Gut.}
 {540}{}{Hier hast du $}
@@ -201,54 +201,54 @@
 {543}{}{Hier ist dein Geld }
 {544}{}{$}
 {545}{}{Diesmal sind es $}
-{546}{}{Es war nicht so schwer, oder? Das nächste Mal ohne Fehler. Hier sind $}
+{546}{}{Es war nicht so schwer, oder? Das nÃ¤chste Mal ohne Fehler. Hier sind $}
 {547}{}{$}
 {548}{}{Na komm! $}
-{549}{}{Gebt euch gegenseitig Deckung und tötet nur die Sklaven, die sich wehren. Hier sind $}
+{549}{}{Gebt euch gegenseitig Deckung und tÃ¶tet nur die Sklaven, die sich wehren. Hier sind $}
 {550}{}{Nur $}
 {551}{}{Willste jetzt Geld verdienen oder nicht? Du nervst mich. Was ist schon dabei? Nimm jetzt
  deine $}
-{552}{}{Was hast du für Probleme? Deinen Anteil kannste diesmal abschreiben. Wir machen das hier
- nicht zum Spaß, sondern um Geld zu verdienen.}
-{553}{}{Nächstes Mal wird's besser.}
-{554}{}{Danke für nichts.}
+{552}{}{Was hast du fÃ¼r Probleme? Deinen Anteil kannste diesmal abschreiben. Wir machen das hier
+ nicht zum SpaÃŸ, sondern um Geld zu verdienen.}
+{553}{}{NÃ¤chstes Mal wird's besser.}
+{554}{}{Danke fÃ¼r nichts.}
 {555}{}{Danke.}
 {556}{}{Agh.}
 {570}{}{War das dein erstes Mal, du miese Schlampe? Das muss ja wohl dein erstes Mal gewesen sein.}
-{571}{}{Mann, Mädel, war das dein erstes Mal?}
+{571}{}{Mann, MÃ¤del, war das dein erstes Mal?}
 {572}{}{Eigentlich ziemlich gut.}
-{573}{}{Sehr schön, vielleicht können wir das irgendwann noch mal machen?}
+{573}{}{Sehr schÃ¶n, vielleicht kÃ¶nnen wir das irgendwann noch mal machen?}
 {574}{}{Mannomann! Das war... sehr gut angelegtes Geld.}
 {575}{}{Einmalig! So was wie dich hatte ich noch nie und ich hatte schon einige.}
-{600}{}{DU MIESES STÜCK DRECK! Wie kannst du die anderen Sklavenhändler da draußen im Stich
+{600}{}{DU MIESES STÃœCK DRECK! Wie kannst du die anderen SklavenhÃ¤ndler da drauÃŸen im Stich
  lassen? [Spuckt dir ins Gesicht] BRINGT IHN UM!}
 {601}{}{Aber ich...}
 {602}{}{Also gut, machen wir das.}
-{620}{}{Schön zu sehen, dass du es geschafft hast, wieder zurückzukommen.}
+{620}{}{SchÃ¶n zu sehen, dass du es geschafft hast, wieder zurÃ¼ckzukommen.}
 {621}{}{Ja, es war eine harte Jagd.}
-{622}{}{Danke. Es ist ein bisschen wüst zugegangen.}
-{623}{}{Aga Gääält!}
+{622}{}{Danke. Es ist ein bisschen wÃ¼st zugegangen.}
+{623}{}{Aga GÃ¤Ã¤Ã¤lt!}
 {630}{}{Oh, du willst Geld? Du willst bezahlt werden?}
 {631}{}{Jah.}
 {632}{}{Ugh.}
-{640}{}{Natürlich würde ich dir GERN helfen, aber... ich hab da ein kleines Problem... mit dem
- Angriff auf meine Männer...}
-{641}{}{Entschuldigung! Ich wollte nicht...also, ich... Ähh?}
+{640}{}{NatÃ¼rlich wÃ¼rde ich dir GERN helfen, aber... ich hab da ein kleines Problem... mit dem
+ Angriff auf meine MÃ¤nner...}
+{641}{}{Entschuldigung! Ich wollte nicht...also, ich... Ã„hh?}
 {642}{}{Oh-oh.}
 {650}{}{Oh, mach dir keine Sorgen. Ich bin gutherzig genug zu bezahlen...ich meine,
- zurückzuzahlen... Männer, es ist Zahltag.}
+ zurÃ¼ckzuzahlen... MÃ¤nner, es ist Zahltag.}
 {651}{}{Oh, mach dir keine Sorgen. Ich bin gutherzig genug zu bezahlen...ich meine,
- zurückzuzahlen... Männer, knallt die Schlampe ab.}
+ zurÃ¼ckzuzahlen... MÃ¤nner, knallt die Schlampe ab.}
 {652}{}{Hoppla.}
 {653}{}{Garaka!}
-{654}{}{Äh... Tank?}
+{654}{}{Ã„h... Tank?}
 {670}{}{Da bin ich mir sicher. Diesen Teil der Arbeit kann man nicht auf die leichte Schulter
- nehmen. Man braucht Vertrauen und Hingabe. Wir halten uns gegenseitig den Rücken frei. Gute
+ nehmen. Man braucht Vertrauen und Hingabe. Wir halten uns gegenseitig den RÃ¼cken frei. Gute
  Taktik, oder?}
 {671}{}{Ich glaub schon.}
 {672}{}{Was ist denn los?}
 {673}{}{Auf jeden Fall.}
-{680}{}{Glaubst du wirklich? Für so klug hätte ich dich gar nicht gehalten. Du bist wirklich ein
+{680}{}{Glaubst du wirklich? FÃ¼r so klug hÃ¤tte ich dich gar nicht gehalten. Du bist wirklich ein
  Schwachkopf. [Metzger starrt dich an, sieht dann in Richtung der Wachen und winkt sie in deine
  Richtung.]}
 {681}{}{Was passiert?}
@@ -257,43 +257,43 @@
  im Zwiespalt. Jemand hat es gewagt, meine Leute anzugreifen.}
 {691}{}{Wirklich?}
 {692}{}{Es war ein Unfall!}
-{700}{}{Wirklich? Ich bin so froh, dass du auch dieser Meinung bist. Was würdest du also tun, wenn
+{700}{}{Wirklich? Ich bin so froh, dass du auch dieser Meinung bist. Was wÃ¼rdest du also tun, wenn
  jemand dieses Vertrauen... ausnutzt?}
 {701}{}{Ah, sie warnen?}
 {702}{}{Pass auf, ich zeige es dir. [Angriff]}
 {703}{}{Sie bezahlen lassen.}
-{710}{}{Meinst du? Ehrlich? Ich weiß nicht. Ich dachte an etwas...Beständigeres. [Mit bösem
+{710}{}{Meinst du? Ehrlich? Ich weiÃŸ nicht. Ich dachte an etwas...BestÃ¤ndigeres. [Mit bÃ¶sem
  Grinsen sieht Metzger seine Wachen an und nickt.]}
 {711}{}{Was?}
 {712}{}{Oh Junge...}
-{720}{}{Ich bin froh, dass wir uns verstehen. [Metzger sieht zu seinen Wachen.] Männer, es ist
+{720}{}{Ich bin froh, dass wir uns verstehen. [Metzger sieht zu seinen Wachen.] MÃ¤nner, es ist
  Zahltag.}
-{721}{}{Äh...}
-{730}{}{Ja. Es ist wirklich schade. Diese Person versteht es einfach nicht, aber das lässt sich ja
- ändern. [Du siehst, wie Metzger eine kleine Handbewegung zu seinen Männern macht.] Zeit für
+{721}{}{Ã„h...}
+{730}{}{Ja. Es ist wirklich schade. Diese Person versteht es einfach nicht, aber das lÃ¤sst sich ja
+ Ã¤ndern. [Du siehst, wie Metzger eine kleine Handbewegung zu seinen MÃ¤nnern macht.] Zeit fÃ¼r
  Spielchen.}
 {731}{}{Oh wirklich?}
 {732}{}{Oh-oh.}
-{740}{}{Ja, leider passieren in dieser Gegend sehr oft Unfälle. Ich fürchte, wir werden gleich
- einen erleben. [Metzger lächelt zufrieden und nickt dann seinen Männern zu.]}
+{740}{}{Ja, leider passieren in dieser Gegend sehr oft UnfÃ¤lle. Ich fÃ¼rchte, wir werden gleich
+ einen erleben. [Metzger lÃ¤chelt zufrieden und nickt dann seinen MÃ¤nnern zu.]}
 {741}{}{Versucht's doch mal!}
 {742}{}{Ich komme hier nicht raus, oder?}
 {750}{}{Oh, aber das hier wird lustig. Das kannst du mir glauben.}
 {751}{}{LMAA.}
 {752}{}{Oh, ok.}
-{800}{}{Du hast den Anführer der Sklavenhändlergilde getötet.}
-{900}{}{Das, was du siehst, bekommst du auch. Wenn dir meine Ware nicht gefällt, dann verdammt nochmal geh mir aus den Augen und hör auf meine Zeit zu vergeuden.}
-{901}{}{Oh, Entschuldigung. Ich möchte dich etwas anderes fragen.}
+{800}{}{Du hast den AnfÃ¼hrer der SklavenhÃ¤ndlergilde getÃ¶tet.}
+{900}{}{Das, was du siehst, bekommst du auch. Wenn dir meine Ware nicht gefÃ¤llt, dann verdammt nochmal geh mir aus den Augen und hÃ¶r auf meine Zeit zu vergeuden.}
+{901}{}{Oh, Entschuldigung. Ich mÃ¶chte dich etwas anderes fragen.}
 {902}{}{OK. Ich denke, dass ich dann gehen werde. }
-{903}{}{Genau genommen hab ich vor, *dich* und diesen ganzen kranken Scheißverein hier zu beseitigen.}
-{910}{}{Das ist alles, was ich hier auf Lager hab, du pingeliger Wichser, aber ich bekomm immer wieder neue Ware aus meinem anderen Sklavenlager herein. Wenn du später wieder mal reinschaust, hab ich vielleicht etwas, das deiner Vorstellung entspricht - aber es sind hauptsächlich dumme Wilde, die alle gleich beschissen aussehen, also wenn das nicht dein Ding ist, wirst du hier kein Glück haben.}
-{911}{}{Hör mal, es ist vielleicht ein ungewöhnlicher Wunsch, aber ich würde wirklich gerne als erster einen Blick auf die neue Ware werfen, die du erhältst. Gibt es eine Möglichkeit, wie ich die Ware in deinem anderen Lager begutachten könnte? Natürlich wäre ich bereit, einen Aufpreis zu bezahlen.}
+{903}{}{Genau genommen hab ich vor, *dich* und diesen ganzen kranken ScheiÃŸverein hier zu beseitigen.}
+{910}{}{Das ist alles, was ich hier auf Lager hab, du pingeliger Wichser, aber ich bekomm immer wieder neue Ware aus meinem anderen Sklavenlager herein. Wenn du spÃ¤ter wieder mal reinschaust, hab ich vielleicht etwas, das deiner Vorstellung entspricht - aber es sind hauptsÃ¤chlich dumme Wilde, die alle gleich beschissen aussehen, also wenn das nicht dein Ding ist, wirst du hier kein GlÃ¼ck haben.}
+{911}{}{HÃ¶r mal, es ist vielleicht ein ungewÃ¶hnlicher Wunsch, aber ich wÃ¼rde wirklich gerne als erster einen Blick auf die neue Ware werfen, die du erhÃ¤ltst. Gibt es eine MÃ¶glichkeit, wie ich die Ware in deinem anderen Lager begutachten kÃ¶nnte? NatÃ¼rlich wÃ¤re ich bereit, einen Aufpreis zu bezahlen.}
 {912}{}{Okay, ich werde ab und zu mal reinschauen.}
-{913}{}{Gut, aber tu mir beim nächsten Mal einen Gefallen und vergeude nicht meine Zeit, es sei denn, du hast wirklich vor, einen Handel abzuschließen.}
-{914}{}{Ein Spitzenpreis, was? Jetzt spirchst meine Sprache. Normalerweise wickeln wir das Geschäft hier ab, aber ich denke, dass eine Ausnahme gemacht werden könnte, sofern du es ernst meinst. Ich sag dir, wie du dorthin kommst, aber es ist besser, wenn du es verdammt nochmal für dich behältst. Ich schwöre dir, wenn sich herausstellt, dass du ein Spion von diesen verfluchten Rangern bist, werde ich dich zur Strecke bringen und bei lebendigem Leib häuten. [Du lauschst seiner Wegbeschreibung und notierst dir den Standort des Sklavenlagers in deinem PIPBoy.]}
-{915}{}{Hab's. Ich möchte dich noch etwas anderes fragen.}
+{913}{}{Gut, aber tu mir beim nÃ¤chsten Mal einen Gefallen und vergeude nicht meine Zeit, es sei denn, du hast wirklich vor, einen Handel abzuschlieÃŸen.}
+{914}{}{Ein Spitzenpreis, was? Jetzt spirchst meine Sprache. Normalerweise wickeln wir das GeschÃ¤ft hier ab, aber ich denke, dass eine Ausnahme gemacht werden kÃ¶nnte, sofern du es ernst meinst. Ich sag dir, wie du dorthin kommst, aber es ist besser, wenn du es verdammt nochmal fÃ¼r dich behÃ¤ltst. Ich schwÃ¶re dir, wenn sich herausstellt, dass du ein Spion von diesen verfluchten Rangern bist, werde ich dich zur Strecke bringen und bei lebendigem Leib hÃ¤uten. [Du lauschst seiner Wegbeschreibung und notierst dir den Standort des Sklavenlagers in deinem PIPBoy.]}
+{915}{}{Hab's. Ich mÃ¶chte dich noch etwas anderes fragen.}
 {916}{}{Danke. Ich werd mich jetzt auf den Weg machen. Auf Wiedersehen.}
-{1360}{}{ für sie. Was hältst du davon?}
+{1360}{}{ fÃ¼r sie. Was hÃ¤ltst du davon?}
 {1361}{}{?}
 {1363}{}{.}
 {1364}{}{.}
@@ -303,7 +303,7 @@
 {1541}{}{. Du hast es denen sauber gezeigt. Mach so weiter.}
 {1542}{}{.}
 {1543}{}{, $}
-{1544}{}{ ist zwar kein Vermögen, aber viel mehr wirst du auch nicht kriegen.}
+{1544}{}{ ist zwar kein VermÃ¶gen, aber viel mehr wirst du auch nicht kriegen.}
 {1545}{}{ . Sehr gute Arbeit.}
 {1546}{}{.}
 {1547}{}{? Nicht schlecht.}

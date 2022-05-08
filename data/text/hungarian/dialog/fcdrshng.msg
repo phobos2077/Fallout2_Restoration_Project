@@ -36,16 +36,16 @@
 {294}{}{I don't have them on me, and even if I did I wouldn't hand them over to you. I want nothing to do with you or your veggie-zombies.}
 {300}{}{The facility is known as the EPA. I've marked it on your mapping device. Please, go there and try to find some seeds. And not just any plain old seeds -- they must be unique.}
 {301}{}{Ah, it seems you already know the location of the EPA. Please, go there and try to find some seeds. And not just any plain old seeds -- they must be unique.}
-{302}{}{Mindj·rt jˆvˆk.}
+{302}{}{Mindj√°rt j√∂v√∂k.}
 {303}{}{Eh, on second thought, I'm not interested in working for you anymore. We're done here.}
 {310}{}{[His eyes flare with rage] Kill him, my children! His body shall make a fine host for your newest sibling!}
 {311}{}{[His eyes flare with rage] Kill her, my children! Her body shall make a fine host for your newest sibling!}
 {312}{}{[DONE]}
 {320}{}{Excellent! Now I shall prepare your reward. Make yourself comfortable. This may take a little while.}
-{321}{}{[FOLYTAT¡S]}
+{321}{}{[FOLYTAT√ÅS]}
 {322}{}{Keep your reward. I don't have time to wait around.}
 {330}{}{Yes, bring the seeds to me and you may claim your reward.}
-{331}{}{Mindj·rt jˆvˆk.}
+{331}{}{Mindj√°rt j√∂v√∂k.}
 {340}{}{Simply giving you the location of the facility is a reward in itself, as it is bound to be full of useful supplies. You may of course keep anything else you find. I am only interested in unique seed samples. Once you have brought them to me, I will give you a gift to present to the Shi.}
 {341}{}{Alright, I'll do it. I'll be back.}
 {342}{}{You call that a reward? I can explore ruins on my own time. I'm not interested.}
@@ -75,12 +75,12 @@
 {412}{}{I'm always up for exploring some old ruins. Give me the location and I'll go see what I can find.}
 {413}{}{And what do I get out of it?}
 {420}{}{Yes, Dr. Wong is a bit of an obstacle. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will get the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{421}{}{MegnÈzem, mit tehetek.}
+{421}{}{Megn√©zem, mit tehetek.}
 {422}{}{If you want Wong dead, you'll need to give me something up front.}
 {423}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
 {424}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}
 {430}{}{Very well. This poison may come in handy. I extracted it from one of my creations. It is extremely deadly. [He gives you a syringe.]}
-{431}{}{MegnÈzem, mit tehetek.}
+{431}{}{Megn√©zem, mit tehetek.}
 {440}{}{[Looks at you expectantly.]}
 {441}{}{I'm still working on things. I'll get back to you.}
 {442}{}{I delivered the sample to the Shi.}
@@ -109,11 +109,11 @@
 {520}{}{Gene-splicing! Through the magic of science, I was able to develop a botany sentience serum. But giving the plants human-like intelligence was only half of the equation. In order to fully utilize such intelligence, I knew they would require a human-like body and senses.}
 {521}{}{Ah, which is where the 'fresh human cadavers' come in. You must tell me how you were able to get the plant life to interface with and take control of a human nervous system. And a dead one, at that. I wouldn't believe it were possible if I hadn't seen it firsthand.}
 {530}{}{Very well, I cannot promise you will fully comprehend what I am about to say, but I will do my best to explain it to you. [With the zeal of a preacher raving about his god to a rapt listener, he spends two hours detailing the process of his experiments, obviously taking great pride in his accomplishments.]}
-{531}{}{[TOV¡BB]}
+{531}{}{[TOV√ÅBB]}
 {540}{}{And so now you understand, I hope?}
 {541}{}{Yes, I do. It seemed totally impossible, but the way you've explained it makes complete sense. And the thing about the sponges, absolute genius! Morbid, but genius. But there was one thing you didn't explain. Where exactly are you getting these 'fresh human cadavers'?}
 {550}{}{Now hold on there a minute. Dr. Wong will be a bit of an obstacle here. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will getter the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{551}{}{MegnÈzem, mit tehetek.}
+{551}{}{Megn√©zem, mit tehetek.}
 {552}{}{If you want Wong dead, you'll need to give me something up front.}
 {553}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
 {554}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}

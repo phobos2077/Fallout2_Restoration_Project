@@ -1,4 +1,4 @@
-{100}{}{Tu vois un pauvre chien à l'air miteux, au bord de l'agonie.}
+{100}{}{Tu vois un pauvre chien Ã  l'air miteux, au bord de l'agonie.}
 {101}{}{Encore un chien de malheur...}
-{102}{}{Il lui manque des plaques entières de poils. On dirait un cadavre ambulant.}
-{103}{}{Ce chien commence à bien t'aimer. Ca n'est pas bon signe.}
+{102}{}{Il lui manque des plaques entiÃ¨res de poils. On dirait un cadavre ambulant.}
+{103}{}{Ce chien commence Ã  bien t'aimer. Ca n'est pas bon signe.}

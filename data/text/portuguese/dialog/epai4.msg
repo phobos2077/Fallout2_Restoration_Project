@@ -1,9 +1,9 @@
-{100}{}{Cadeira elétrica Estação de Computador: Selecione uma opção.}
-{101}{}{Capacitar Cadeira Elétrica.}
-{102}{}{Enfraquecer Cadeira Elétrica.}
-{103}{}{Cadeira Eletrica. Incentive a pessoa a se mover tão perto da cadeira quanto possível de ambos os lados. Obrigado.}
+{100}{}{Cadeira elÃ©trica EstaÃ§Ã£o de Computador: Selecione uma opÃ§Ã£o.}
+{101}{}{Capacitar Cadeira ElÃ©trica.}
+{102}{}{Enfraquecer Cadeira ElÃ©trica.}
+{103}{}{Cadeira Eletrica. Incentive a pessoa a se mover tÃ£o perto da cadeira quanto possÃ­vel de ambos os lados. Obrigado.}
 {104}{}{Cadeira Desabilitada.}
 {105}{}{Sair.}
-{106}{}{Você vê um computador zumbindo para si mesmo.}
-{107}{}{Você vê o Computador da Cadeira Elétrica.}
-{108}{}{Você vê um computador controlando a cadeira elétrica.}
+{106}{}{VocÃª vÃª um computador zumbindo para si mesmo.}
+{107}{}{VocÃª vÃª o Computador da Cadeira ElÃ©trica.}
+{108}{}{VocÃª vÃª um computador controlando a cadeira elÃ©trica.}

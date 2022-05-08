@@ -1,118 +1,118 @@
-{100}{}{Egy faajtót látsz.}
-{101}{}{Egy fémajtót látsz.}
-{102}{}{Egy masszív ajtót látsz er?s zárral, (tolvajkulcssal nyitható), és egy nagyerej? csapdát az ajtókeretben, amit talán kiiktathatsz.}
-{103}{}{Egy masszív ajtót látsz zárral és egy nagyerej? csapdát az ajtókeretben, amit talán kiiktathatsz.}
-{104}{}{Egy maszív ajtót látsz minden látható zárszerkezet nélkül, és egy nagyerej? csapdát az ajtókeretben, amit talán kiiktathatsz.}
-{105}{}{Egy masszív ajtót látsz öreg, rozsdás zárral, és egy nagyerej? csapdát az ajtókeretben, amit talán kiiktathatsz.}
-{106}{}{Egy nyitható,zárral felszerelt masszív ajtót látsz, és egy csapdát az ajtókeretben, amit talán kiiktathatsz.}
-{107}{}{Egy zárral felszerelt masszív ajtót látsz, és egy csapdát az ajtókeretben, amit talán kiiktathatsz.}
-{108}{}{Egy masszív ajtót látsz minden látható zárszerkezet nélkül, és egy csapdát az ajtókeretben, amit talán kiiktathatsz.}
-{109}{}{Egy masszív ajtót látsz öreg, rozsdás zárral, és egy csapdát az ajtókeretben, amit talán kiiktathatsz.}
-{110}{}{Egy masszív ajtót látsz zárral, (tolvajkulcssal nyitható), és egy bukódrótot az ajtókeretben, amit talán leszerelhetsz.}
-{111}{}{Egy masszív ajtót látsz zárral, és egy sodort bukódrótot az ajtókeretben, amit talán leszerelhetsz.}
-{112}{}{Egy masszív ajtót látsz minden látható zárszerkezet nélkül, és egy sodort bukódrótot az ajtókeretben, amit talán leszerelhetsz.}
-{113}{}{Egy masszív ajtót látsz öreg, rozsdás zárral, és egy bukódrótot az ajtókeretben, amit talán leszerelhetsz.}
-{114}{}{Egy masszív ajtót látsz zárral, amit talán kinyithatsz.}
-{115}{}{Egy masszív ajtót látsz zárral, amit talán kinyithatsz.}
-{116}{}{Egy masszív ajtót látsz minden látható zárszerkezet nélkül, amit talán kinyithatsz.}
-{117}{}{Egy masszív ajtót látsz öreg, rozsdás zárral, amit talán kinyithatsz.}
-{118}{}{Egy masszív ajtót látsz (tolvajkulcssal nyitható), és egy er?s csapdát az ajtókeretben.}
-{119}{}{Egy masszív ajtót látsz zárral és egy er?s csapdát az ajtókeretben.}
-{120}{}{Egy masszív ajtót látsz minden látható zárszerkezet nélkül, és egy er?s csapdát az ajtókeretben.}
-{121}{}{Egy masszív ajtót látsz öreg, rozsdás zárral, és egy er?s csapdát az ajtókeretben.}
-{122}{}{Egy masszív ajtót látsz (tolvajkulcssal nyitható), és egy csapdát az ajtókeretben.}
-{123}{}{Egy masszív ajtót látsz zárral és egy csapdát az ajtókeretben.}
-{124}{}{Egy masszív ajtót látsz minden látható zárszerkezet nélkül, és egy csapdát az ajtókeretben.}
-{125}{}{Egy masszív ajtót látsz öreg, rozsdás zárral, és egy csapdát az ajtókeretben.}
-{126}{}{Egy masszív ajtót látsz (tolvajkulcssal nyitható), és egy bukódrótot az ajtókeretben.}
-{127}{}{Egy masszív ajtót látsz zárral, és egy sodort bukódrótot az ajtókeretben.}
-{128}{}{Egy masszív ajtót látsz minden látható zárszerkezet nélkül, és egy sodort bukódrótot az ajtókeretben.}
-{129}{}{Egy masszív ajtót látsz öreg, rozsdás zárral, és egy bukódrótot az ajtókeretben.}
-{130}{}{Egy masszív ajtót látsz nyitható zárral.}
-{131}{}{Egy masszív ajtót látsz zárral.}
-{132}{}{Egy masszív ajtót látsz minden látható zárszerkezet nélkül.}
-{133}{}{Egy masszív ajtót látsz öreg, rozsdás zárral.}
-{134}{}{Egy megrongált ajtót látsz (tolvajkulcssal nyitható), és egy nagyerej? csapdát az ajtókeretben.}
-{135}{}{Egy megrongált ajtót látsz, és egy nagyerej? csapdát az ajtókeretben.}
-{136}{}{Egy megrongált ajtót látsz minden látható zárszerkezet nélkül, és egy nagyerej? csapdát az ajtókeretben.}
-{137}{}{Egy megrongált ajtót látsz öreg, rozsdás zárral, és egy nagyerej? csapdát az ajtókeretben.}
-{138}{}{Egy megrongált ajtót látsz (tolvajkulcssal nyitható), és egy csapdát az ajtókeretben.}
-{139}{}{Egy megrongált ajtót látsz, és egy csapdát az ajtókeretben.}
-{140}{}{Egy megrongált ajtót látsz minden látható zárszerkezet nélkül, és egy csapdát az ajtókeretben.}
-{141}{}{Egy megrongált ajtót látsz öreg, rozsdás zárral, és egy csapdát az ajtókeretben.}
-{142}{}{Egy megrongált ajtót látsz (tolvajkulcssal nyitható), és egy bukódrótot az ajtókeretben.}
-{143}{}{Egy megrongált ajtót látsz, és egy sodort bukódrótot az ajtókeretben.}
-{144}{}{Egy megrongált ajtót látsz minden látható zárszerkezet nélkül,és egy sodort bukódrótot az ajtókeretben.}
-{145}{}{Egy megrongált ajtót látsz öreg, rozsdás zárral, és egy bukódrótot az ajtókeretben.}
-{146}{}{Egy megrongált ajtót látsz nyitható zárral.}
-{147}{}{Egy megrongált ajtót látsz zárral.}
-{148}{}{Egy megrongált ajtót látsz minden látható zárszerkezet nélkül.}
-{149}{}{Egy megrongált ajtót látsz öreg, rozsdás zárral.}
-{150}{}{Egy régi ajtót látsz (tolvajkulcssal nyitható), és egy er?s csapdát az ajtókeretben.}
-{151}{}{Egy régi ajtót látsz zárral, és egy er?s csapdát az ajtókeretben.}
-{152}{}{Egy régi ajtót látsz minden látható zárszerkezet nélkül,és egy er?s csapdát az ajtókeretben.}
-{153}{}{Egy régi ajtót látsz hasonlóan öreg és rozsdás zárral, és egy er?s csapdát az ajtókeretben.}
-{154}{}{Egy régi ajtót látsz (tolvajkulcssal nyitható), és egy csapdát az ajtókeretben.}
-{155}{}{Egy régi ajtót látsz zárral és egy csapdát az ajtókeretben.}
-{156}{}{Egy régi ajtót látsz minden látható zárszerkezet nélkül, és egy csapdát az ajtókeretben.}
-{157}{}{Egy régi ajtót látsz hasonlóan öreg és rozsdás zárral, és egy csapdát az ajtókeretben.}
-{158}{}{Egy régi ajtót látsz (tolvajkulcssal nyitható), és egy bukódrótot az ajtókeretben.}
-{159}{}{Egy régi ajtót látsz zárral, és egy sodort bukódrótot az ajtókeretben.}
-{160}{}{Egy régi ajtót látsz minden látható zárszerkezet nélkül, és egy sodort bukódrótot az ajtókeretben.}
-{161}{}{Egy régi ajtót látsz hasonlóan öreg és rozsdás zárral, és egy bukódrótot az ajtókeretben.}
-{162}{}{Egy régi ajtót látsz nyitható zárral.}
-{163}{}{Egy régi ajtót látsz zárral.}
-{164}{}{Egy régi ajtót látsz minden látható zárszerkezet nélkül.}
-{165}{}{Egy régi ajtót látsz hasonlóan öreg és rozsdás zárral.}
-{166}{}{Aktiváltál egy csapdát, és }
-{167}{}{ ÉP a büntetés!}
-{168}{}{ aktivált egy csapdát, és }
-{169}{}{ ÉP a büntetés!}
-{170}{}{Gond nélkül kinyitottad zárat.}
-{171}{}{A képzettséged hiánya miatt a zár beragadt.}
-{172}{}{Nem sikerült kinyitnod a zárat.}
-{173}{}{ gond nélkül kinyitotta a zárat.}
-{174}{}{ képzettségének hiányában a zár beragadt.}
-{175}{}{ nem tudta kinyitni a zárat.}
-{176}{}{Leverted a zárat az ajtóról.}
-{177}{}{Miközben megpróbáltad leverni a zárat, megsérült a hátad, és [x] ÉP-t sérültél.}
-{178}{}{Miközben megpróbáltad leverni a zárat, megsérült a hátad és }
-{179}{}{ ÉP a büntetés!}
-{180}{}{Túl gyenge vagy, hogy leverd a zárat.}
-{181}{}{ leverte a zárat az ajtóról.}
-{182}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és [x] ÉP-t sérült.}
-{183}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és }
-{184}{}{ ÉP a büntetés!}
-{185}{}{ túl gyenge, hogy leverje a zárat.}
-{186}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és [x] ÉP-t sérült.}
-{187}{}{ háta megsérül, miközben megpróbálta leverni a zárat és }
-{188}{}{ ÉP a büntetés!}
-{189}{}{Gond nélkül bezártad a zárat.}
-{190}{}{Nem sikerült bezárnod a zárat.}
-{191}{}{ gond nélkül bezárta a zárat.}
-{192}{}{ nem tudta bezárni a zárat.}
-{193}{}{A robbanás meg sem karcolja az ajtót.}
-{194}{}{Megtaláltad a csapdát az ajtón.}
-{195}{}{Nem sikerült csapdát találnod az ajtón.}
-{196}{}{Hozzáért?en hatástalanítottad a csapdát.}
-{198}{}{Nem sikerült hatástalanítanod a csapdát.}
-{199}{}{ megtalálta a csapdát az ajtón.}
-{200}{}{ nem talált csapdát az ajtón.}
-{201}{}{ hozzáért?en hatástalanította a csapdát.}
-{202}{}{ nem tudta kiiktatni a csapdát.}
-{203}{}{Az ajtó bezártnak t?nik. A kulcs valami vékony kártya lehet.}
-{204}{}{Hallod, ahogy az elektromosság átfut az ajtón.}
-{205}{}{ hallja, ahogy az elektromosság átfut az ajtón.}
-{206}{}{Nem helyezhetsz csapdát erre az ajtóra, mert nyitva van.}
-{207}{}{ nem helyezhet csapdát erre az ajtóra, mert nyitva van.}
-{208}{}{Szakszer?en csapdát állítottál az ajtóban.}
-{209}{}{Nem sikerült megfelel? csapdát állítanod az ajtóba.}
-{210}{}{ szakszer?en csapdát állított az ajtóban.}
-{211}{}{ nem volt képes megfelel? csapdát állítani az ajtóba.}
-{300}{}{Kinyitod a zárat.}
-{301}{}{Bezárod a zárat.}
-{302}{}{Nem zárhatod be az ajtót, amíg nyitva van.}
-{303}{}{Ez a kulcs nem ebbe a zárba való.}
-{320}{}{Ezt az ajtót nem lehet bezárni.}
-{400}{}{Kinyitod a zárat.}
-{500}{}{Erre az ajtóra nem lehet csapdát szerelni.}
+{100}{}{Egy faajtÃ³t lÃ¡tsz.}
+{101}{}{Egy fÃ©majtÃ³t lÃ¡tsz.}
+{102}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz er?s zÃ¡rral, (tolvajkulcssal nyithatÃ³), Ã©s egy nagyerej? csapdÃ¡t az ajtÃ³keretben, amit talÃ¡n kiiktathatsz.}
+{103}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz zÃ¡rral Ã©s egy nagyerej? csapdÃ¡t az ajtÃ³keretben, amit talÃ¡n kiiktathatsz.}
+{104}{}{Egy maszÃ­v ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy nagyerej? csapdÃ¡t az ajtÃ³keretben, amit talÃ¡n kiiktathatsz.}
+{105}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral, Ã©s egy nagyerej? csapdÃ¡t az ajtÃ³keretben, amit talÃ¡n kiiktathatsz.}
+{106}{}{Egy nyithatÃ³,zÃ¡rral felszerelt masszÃ­v ajtÃ³t lÃ¡tsz, Ã©s egy csapdÃ¡t az ajtÃ³keretben, amit talÃ¡n kiiktathatsz.}
+{107}{}{Egy zÃ¡rral felszerelt masszÃ­v ajtÃ³t lÃ¡tsz, Ã©s egy csapdÃ¡t az ajtÃ³keretben, amit talÃ¡n kiiktathatsz.}
+{108}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy csapdÃ¡t az ajtÃ³keretben, amit talÃ¡n kiiktathatsz.}
+{109}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral, Ã©s egy csapdÃ¡t az ajtÃ³keretben, amit talÃ¡n kiiktathatsz.}
+{110}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz zÃ¡rral, (tolvajkulcssal nyithatÃ³), Ã©s egy bukÃ³drÃ³tot az ajtÃ³keretben, amit talÃ¡n leszerelhetsz.}
+{111}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz zÃ¡rral, Ã©s egy sodort bukÃ³drÃ³tot az ajtÃ³keretben, amit talÃ¡n leszerelhetsz.}
+{112}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy sodort bukÃ³drÃ³tot az ajtÃ³keretben, amit talÃ¡n leszerelhetsz.}
+{113}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral, Ã©s egy bukÃ³drÃ³tot az ajtÃ³keretben, amit talÃ¡n leszerelhetsz.}
+{114}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz zÃ¡rral, amit talÃ¡n kinyithatsz.}
+{115}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz zÃ¡rral, amit talÃ¡n kinyithatsz.}
+{116}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, amit talÃ¡n kinyithatsz.}
+{117}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral, amit talÃ¡n kinyithatsz.}
+{118}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz (tolvajkulcssal nyithatÃ³), Ã©s egy er?s csapdÃ¡t az ajtÃ³keretben.}
+{119}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz zÃ¡rral Ã©s egy er?s csapdÃ¡t az ajtÃ³keretben.}
+{120}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy er?s csapdÃ¡t az ajtÃ³keretben.}
+{121}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral, Ã©s egy er?s csapdÃ¡t az ajtÃ³keretben.}
+{122}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz (tolvajkulcssal nyithatÃ³), Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{123}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz zÃ¡rral Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{124}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{125}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral, Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{126}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz (tolvajkulcssal nyithatÃ³), Ã©s egy bukÃ³drÃ³tot az ajtÃ³keretben.}
+{127}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz zÃ¡rral, Ã©s egy sodort bukÃ³drÃ³tot az ajtÃ³keretben.}
+{128}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy sodort bukÃ³drÃ³tot az ajtÃ³keretben.}
+{129}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral, Ã©s egy bukÃ³drÃ³tot az ajtÃ³keretben.}
+{130}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz nyithatÃ³ zÃ¡rral.}
+{131}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz zÃ¡rral.}
+{132}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l.}
+{133}{}{Egy masszÃ­v ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral.}
+{134}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz (tolvajkulcssal nyithatÃ³), Ã©s egy nagyerej? csapdÃ¡t az ajtÃ³keretben.}
+{135}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz, Ã©s egy nagyerej? csapdÃ¡t az ajtÃ³keretben.}
+{136}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy nagyerej? csapdÃ¡t az ajtÃ³keretben.}
+{137}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral, Ã©s egy nagyerej? csapdÃ¡t az ajtÃ³keretben.}
+{138}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz (tolvajkulcssal nyithatÃ³), Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{139}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz, Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{140}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{141}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral, Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{142}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz (tolvajkulcssal nyithatÃ³), Ã©s egy bukÃ³drÃ³tot az ajtÃ³keretben.}
+{143}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz, Ã©s egy sodort bukÃ³drÃ³tot az ajtÃ³keretben.}
+{144}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l,Ã©s egy sodort bukÃ³drÃ³tot az ajtÃ³keretben.}
+{145}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral, Ã©s egy bukÃ³drÃ³tot az ajtÃ³keretben.}
+{146}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz nyithatÃ³ zÃ¡rral.}
+{147}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz zÃ¡rral.}
+{148}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l.}
+{149}{}{Egy megrongÃ¡lt ajtÃ³t lÃ¡tsz Ã¶reg, rozsdÃ¡s zÃ¡rral.}
+{150}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz (tolvajkulcssal nyithatÃ³), Ã©s egy er?s csapdÃ¡t az ajtÃ³keretben.}
+{151}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz zÃ¡rral, Ã©s egy er?s csapdÃ¡t az ajtÃ³keretben.}
+{152}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l,Ã©s egy er?s csapdÃ¡t az ajtÃ³keretben.}
+{153}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz hasonlÃ³an Ã¶reg Ã©s rozsdÃ¡s zÃ¡rral, Ã©s egy er?s csapdÃ¡t az ajtÃ³keretben.}
+{154}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz (tolvajkulcssal nyithatÃ³), Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{155}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz zÃ¡rral Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{156}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{157}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz hasonlÃ³an Ã¶reg Ã©s rozsdÃ¡s zÃ¡rral, Ã©s egy csapdÃ¡t az ajtÃ³keretben.}
+{158}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz (tolvajkulcssal nyithatÃ³), Ã©s egy bukÃ³drÃ³tot az ajtÃ³keretben.}
+{159}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz zÃ¡rral, Ã©s egy sodort bukÃ³drÃ³tot az ajtÃ³keretben.}
+{160}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l, Ã©s egy sodort bukÃ³drÃ³tot az ajtÃ³keretben.}
+{161}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz hasonlÃ³an Ã¶reg Ã©s rozsdÃ¡s zÃ¡rral, Ã©s egy bukÃ³drÃ³tot az ajtÃ³keretben.}
+{162}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz nyithatÃ³ zÃ¡rral.}
+{163}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz zÃ¡rral.}
+{164}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz minden lÃ¡thatÃ³ zÃ¡rszerkezet nÃ©lkÃ¼l.}
+{165}{}{Egy rÃ©gi ajtÃ³t lÃ¡tsz hasonlÃ³an Ã¶reg Ã©s rozsdÃ¡s zÃ¡rral.}
+{166}{}{AktivÃ¡ltÃ¡l egy csapdÃ¡t, Ã©s }
+{167}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{168}{}{ aktivÃ¡lt egy csapdÃ¡t, Ã©s }
+{169}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{170}{}{Gond nÃ©lkÃ¼l kinyitottad zÃ¡rat.}
+{171}{}{A kÃ©pzettsÃ©ged hiÃ¡nya miatt a zÃ¡r beragadt.}
+{172}{}{Nem sikerÃ¼lt kinyitnod a zÃ¡rat.}
+{173}{}{ gond nÃ©lkÃ¼l kinyitotta a zÃ¡rat.}
+{174}{}{ kÃ©pzettsÃ©gÃ©nek hiÃ¡nyÃ¡ban a zÃ¡r beragadt.}
+{175}{}{ nem tudta kinyitni a zÃ¡rat.}
+{176}{}{Leverted a zÃ¡rat az ajtÃ³rÃ³l.}
+{177}{}{MikÃ¶zben megprÃ³bÃ¡ltad leverni a zÃ¡rat, megsÃ©rÃ¼lt a hÃ¡tad, Ã©s [x] Ã‰P-t sÃ©rÃ¼ltÃ©l.}
+{178}{}{MikÃ¶zben megprÃ³bÃ¡ltad leverni a zÃ¡rat, megsÃ©rÃ¼lt a hÃ¡tad Ã©s }
+{179}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{180}{}{TÃºl gyenge vagy, hogy leverd a zÃ¡rat.}
+{181}{}{ leverte a zÃ¡rat az ajtÃ³rÃ³l.}
+{182}{}{ hÃ¡ta megsÃ©rÃ¼lt, mikÃ¶zben megprÃ³bÃ¡lta leverni a zÃ¡rat, Ã©s [x] Ã‰P-t sÃ©rÃ¼lt.}
+{183}{}{ hÃ¡ta megsÃ©rÃ¼lt, mikÃ¶zben megprÃ³bÃ¡lta leverni a zÃ¡rat, Ã©s }
+{184}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{185}{}{ tÃºl gyenge, hogy leverje a zÃ¡rat.}
+{186}{}{ hÃ¡ta megsÃ©rÃ¼lt, mikÃ¶zben megprÃ³bÃ¡lta leverni a zÃ¡rat, Ã©s [x] Ã‰P-t sÃ©rÃ¼lt.}
+{187}{}{ hÃ¡ta megsÃ©rÃ¼l, mikÃ¶zben megprÃ³bÃ¡lta leverni a zÃ¡rat Ã©s }
+{188}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{189}{}{Gond nÃ©lkÃ¼l bezÃ¡rtad a zÃ¡rat.}
+{190}{}{Nem sikerÃ¼lt bezÃ¡rnod a zÃ¡rat.}
+{191}{}{ gond nÃ©lkÃ¼l bezÃ¡rta a zÃ¡rat.}
+{192}{}{ nem tudta bezÃ¡rni a zÃ¡rat.}
+{193}{}{A robbanÃ¡s meg sem karcolja az ajtÃ³t.}
+{194}{}{MegtalÃ¡ltad a csapdÃ¡t az ajtÃ³n.}
+{195}{}{Nem sikerÃ¼lt csapdÃ¡t talÃ¡lnod az ajtÃ³n.}
+{196}{}{HozzÃ¡Ã©rt?en hatÃ¡stalanÃ­tottad a csapdÃ¡t.}
+{198}{}{Nem sikerÃ¼lt hatÃ¡stalanÃ­tanod a csapdÃ¡t.}
+{199}{}{ megtalÃ¡lta a csapdÃ¡t az ajtÃ³n.}
+{200}{}{ nem talÃ¡lt csapdÃ¡t az ajtÃ³n.}
+{201}{}{ hozzÃ¡Ã©rt?en hatÃ¡stalanÃ­totta a csapdÃ¡t.}
+{202}{}{ nem tudta kiiktatni a csapdÃ¡t.}
+{203}{}{Az ajtÃ³ bezÃ¡rtnak t?nik. A kulcs valami vÃ©kony kÃ¡rtya lehet.}
+{204}{}{Hallod, ahogy az elektromossÃ¡g Ã¡tfut az ajtÃ³n.}
+{205}{}{ hallja, ahogy az elektromossÃ¡g Ã¡tfut az ajtÃ³n.}
+{206}{}{Nem helyezhetsz csapdÃ¡t erre az ajtÃ³ra, mert nyitva van.}
+{207}{}{ nem helyezhet csapdÃ¡t erre az ajtÃ³ra, mert nyitva van.}
+{208}{}{Szakszer?en csapdÃ¡t Ã¡llÃ­tottÃ¡l az ajtÃ³ban.}
+{209}{}{Nem sikerÃ¼lt megfelel? csapdÃ¡t Ã¡llÃ­tanod az ajtÃ³ba.}
+{210}{}{ szakszer?en csapdÃ¡t Ã¡llÃ­tott az ajtÃ³ban.}
+{211}{}{ nem volt kÃ©pes megfelel? csapdÃ¡t Ã¡llÃ­tani az ajtÃ³ba.}
+{300}{}{Kinyitod a zÃ¡rat.}
+{301}{}{BezÃ¡rod a zÃ¡rat.}
+{302}{}{Nem zÃ¡rhatod be az ajtÃ³t, amÃ­g nyitva van.}
+{303}{}{Ez a kulcs nem ebbe a zÃ¡rba valÃ³.}
+{320}{}{Ezt az ajtÃ³t nem lehet bezÃ¡rni.}
+{400}{}{Kinyitod a zÃ¡rat.}
+{500}{}{Erre az ajtÃ³ra nem lehet csapdÃ¡t szerelni.}

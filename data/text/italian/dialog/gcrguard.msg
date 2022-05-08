@@ -41,7 +41,7 @@
 {164}{}{Se succede qualcosa noi incolpiamo te.}
 {170}{}{Sono piuttosto sorpreso di vedere un pelle-liscia come te qui dentro.}
 {171}{}{Mi sembra che tu stia cominciando ad abbronzarti.}
-{172}{}{Mmm, adoro questa radiazione di fondo -— e tu?}
+{172}{}{Mmm, adoro questa radiazione di fondo -â€” e tu?}
 {173}{}{Non toccare nulla qui dentro.}
 {174}{}{Tieni le mani a posto e andra' tutto bene.}
 {180}{}{Non prendere nulla senza autorizzazione.}

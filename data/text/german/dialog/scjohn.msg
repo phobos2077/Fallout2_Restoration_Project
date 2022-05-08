@@ -6,8 +6,8 @@
 {105}{}{OK, tschau.}
 {106}{}{Alles klar, bis dann.}
 {107}{}{Warte einen Moment. Warum willst du nicht mit mir reden?}
-{108}{}{Wir sind hier eine sehr introvertierte Gemeinde. Wir wollen keinen Ärger oder Einfluss von außen. Lass uns bitte einfach in Ruhe.}
+{108}{}{Wir sind hier eine sehr introvertierte Gemeinde. Wir wollen keinen Ã„rger oder Einfluss von auÃŸen. Lass uns bitte einfach in Ruhe.}
 {109}{}{OK.}
-{110}{}{Hallo... und Tschüss.}
-{111}{}{Danke für alles, was du für uns getan hast. Ich möcht mich für den kalten Empfang vorhin entschuldigen.}
+{110}{}{Hallo... und TschÃ¼ss.}
+{111}{}{Danke fÃ¼r alles, was du fÃ¼r uns getan hast. Ich mÃ¶cht mich fÃ¼r den kalten Empfang vorhin entschuldigen.}
 {112}{}{Hau ab, du Vollidiot.}

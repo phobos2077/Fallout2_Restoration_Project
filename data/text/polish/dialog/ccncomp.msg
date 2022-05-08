@@ -1,47 +1,47 @@
 {100}{}{Widzisz komputer.}
 {101}{}{Widzisz komputer.}
-{102}{}{Widzisz g³ówny komputer Navarro.}
-{103}{}{Proszê wprowadziæ has³o.}
+{102}{}{Widzisz gÅ‚Ã³wny komputer Navarro.}
+{103}{}{ProszÄ™ wprowadziÄ‡ hasÅ‚o.}
 {104}{}{Wpisz "Snookie".}
-{105}{}{Daj se spokój z tymi bzdetami.}
-{106}{}{Waliæ to.}
-{107}{}{Spróbuj w³amaæ siê do systemu.}
-{108}{}{Witamy w Enklawie. W tej chwili masz ograniczone uprawnienia systemowe. Dla u³atwienia obs³ugi wyposa¿ono ten system w parser potocznego jêzyka angielskiego. Proszê wprowadzaæ wszystkie polecenia w postaci zdañ w jêzyku angielskim.}
-{109}{}{W czym mogê pomóc?}
+{105}{}{Daj se spokÃ³j z tymi bzdetami.}
+{106}{}{WaliÄ‡ to.}
+{107}{}{SprÃ³buj wÅ‚amaÄ‡ siÄ™ do systemu.}
+{108}{}{Witamy w Enklawie. W tej chwili masz ograniczone uprawnienia systemowe. Dla uÅ‚atwienia obsÅ‚ugi wyposaÅ¼ono ten system w parser potocznego jÄ™zyka angielskiego. ProszÄ™ wprowadzaÄ‡ wszystkie polecenia w postaci zdaÅ„ w jÄ™zyku angielskim.}
+{109}{}{W czym mogÄ™ pomÃ³c?}
 {110}{}{Gdzie plany latacza?}
-{111}{}{Gdzie g³ówna baza Enklawa?}
+{111}{}{Gdzie gÅ‚Ã³wna baza Enklawa?}
 {112}{}{Gdzie zbrojownia?}
-{113}{}{Gdzie dowódca baza?}
+{113}{}{Gdzie dowÃ³dca baza?}
 {114}{}{Chyba to wszystko.}
-{115}{}{Gdzie znajduj¹ siê plany latacza?}
-{116}{}{Gdzie mieœci siê g³ówna baza Enklawy?}
-{117}{}{Gdzie mieœci siê zbrojownia?}
-{118}{}{Gdzie mieœci siê biuro dowódcy bazy?}
-{119}{}{To chyba ju¿ wszystko.}
-{120}{}{Trwa przeszukiwanie... trwa pobieranie aktualnych zapisów magazynowych... dane pobrane. Aktualne zapisy wskazuj¹, ¿e na sk³adzie jest 1 zestaw schematów konstrukcyjnych latacza. W tym kwartale dostarczono cztery kopie schematów konstrukcyjnych latacza. Trzy kopie schematów konstrukcyjnych latacza zosta³y zg³oszone jako zaginione. Schematy konstrukcyjne latacza s¹ sk³adowane w sekcji obs³ugi naziemnej.}
-{121}{}{Dobra... gdzie obs³uga?}
-{122}{}{Œwietnie. Gdzie mieœci siê obs³uga naziemna?}
-{123}{}{Trwa przeszukiwanie... trwa pobieranie danych architektonicznych... dane pobrane. Obs³uga naziemna mieœci siê na powierzchni, w pó³nocno-wschodnim kwadrancie bazy.}
-{124}{}{Dziêkujê.}
-{125}{}{Trwa przeszukiewanie... trwa pobieranie map... dane pobrane. Kwatera g³ówna Enklawy mieœci siê na Oceanie Spokojnym, 175 mil od wybrze¿a Kalifornii. Wspó³rzêdne geograficzne to 37 stopni 18 minut szerokoœci pó³nocnej i 120 stopni 7 minut d³ugoœci zachodniej.}
-{126}{}{Co do diab³a to znaczyæ?}
-{127}{}{Co do cholery znacz¹ te bzdury?}
-{128}{}{Trwa przeszukiwanie... trwa pobieranie s³ownika gwary angielskiej... dane pobrane. Podajê t³umaczenie: 1) to daleko, daleko na oceanie 2) to za wybrze¿em Kalifornii 3) to na zachód od miasta San Francisco 4) jeœli nie rozumiesz uk³adu wspó³rzêdnych geograficznych, to nie znajdziesz tego miejsca.}
-{129}{}{Jak tam dojœæ?}
-{130}{}{Jak mo¿na siê tam dostaæ?}
-{131}{}{Trwa przeszukiwanie... trwa pobieranie katalogu œrodków transportu... dane pobrane. Dane dotycz¹ce transportu wskazuj¹, ¿e w celu dotarcia do kwatery g³ównej Enklawy mo¿na u¿yæ 1.257 metod. Jednak¿e zapisy wskazuj¹ równie¿, ¿e tylko dwie spoœród tych metod s¹ w tej chwili dostêpne. Transpost za pomoc¹ latacza mo¿na uzyskaæ w bazie Navarro. Transport za pomoc¹ okrêtu mo¿na uzyskaæ w porcie San Francisco. Proszê wzi¹æ pod uwagê, ¿e transport za pomoc¹ okrêtu zosta³ oznaczony jako unieczynniony w raporcie bezpieczeñstwa 9837-334-27A, a dla jego ponownego uruchomienia konieczne jest posiadanie klucza. W tej chwili kluczem dysponuje dowódca bazy w Navarro.}
-{132}{}{W porz¹dku.}
-{133}{}{Kapujê.}
-{134}{}{Trwa przeszukiwanie... trwa pobieranie danych architektonicznych... dane pobrane. Zbrojownia mieœci siê pod ziemi¹ w pó³nocno-zachodnim kwadrancie bazy.}
+{115}{}{Gdzie znajdujÄ… siÄ™ plany latacza?}
+{116}{}{Gdzie mieÅ›ci siÄ™ gÅ‚Ã³wna baza Enklawy?}
+{117}{}{Gdzie mieÅ›ci siÄ™ zbrojownia?}
+{118}{}{Gdzie mieÅ›ci siÄ™ biuro dowÃ³dcy bazy?}
+{119}{}{To chyba juÅ¼ wszystko.}
+{120}{}{Trwa przeszukiwanie... trwa pobieranie aktualnych zapisÃ³w magazynowych... dane pobrane. Aktualne zapisy wskazujÄ…, Å¼e na skÅ‚adzie jest 1 zestaw schematÃ³w konstrukcyjnych latacza. W tym kwartale dostarczono cztery kopie schematÃ³w konstrukcyjnych latacza. Trzy kopie schematÃ³w konstrukcyjnych latacza zostaÅ‚y zgÅ‚oszone jako zaginione. Schematy konstrukcyjne latacza sÄ… skÅ‚adowane w sekcji obsÅ‚ugi naziemnej.}
+{121}{}{Dobra... gdzie obsÅ‚uga?}
+{122}{}{Åšwietnie. Gdzie mieÅ›ci siÄ™ obsÅ‚uga naziemna?}
+{123}{}{Trwa przeszukiwanie... trwa pobieranie danych architektonicznych... dane pobrane. ObsÅ‚uga naziemna mieÅ›ci siÄ™ na powierzchni, w pÃ³Å‚nocno-wschodnim kwadrancie bazy.}
+{124}{}{DziÄ™kujÄ™.}
+{125}{}{Trwa przeszukiewanie... trwa pobieranie map... dane pobrane. Kwatera gÅ‚Ã³wna Enklawy mieÅ›ci siÄ™ na Oceanie Spokojnym, 175 mil od wybrzeÅ¼a Kalifornii. WspÃ³Å‚rzÄ™dne geograficzne to 37 stopni 18 minut szerokoÅ›ci pÃ³Å‚nocnej i 120 stopni 7 minut dÅ‚ugoÅ›ci zachodniej.}
+{126}{}{Co do diabÅ‚a to znaczyÄ‡?}
+{127}{}{Co do cholery znaczÄ… te bzdury?}
+{128}{}{Trwa przeszukiwanie... trwa pobieranie sÅ‚ownika gwary angielskiej... dane pobrane. PodajÄ™ tÅ‚umaczenie: 1) to daleko, daleko na oceanie 2) to za wybrzeÅ¼em Kalifornii 3) to na zachÃ³d od miasta San Francisco 4) jeÅ›li nie rozumiesz ukÅ‚adu wspÃ³Å‚rzÄ™dnych geograficznych, to nie znajdziesz tego miejsca.}
+{129}{}{Jak tam dojÅ›Ä‡?}
+{130}{}{Jak moÅ¼na siÄ™ tam dostaÄ‡?}
+{131}{}{Trwa przeszukiwanie... trwa pobieranie katalogu Å›rodkÃ³w transportu... dane pobrane. Dane dotyczÄ…ce transportu wskazujÄ…, Å¼e w celu dotarcia do kwatery gÅ‚Ã³wnej Enklawy moÅ¼na uÅ¼yÄ‡ 1.257 metod. JednakÅ¼e zapisy wskazujÄ… rÃ³wnieÅ¼, Å¼e tylko dwie spoÅ›rÃ³d tych metod sÄ… w tej chwili dostÄ™pne. Transpost za pomocÄ… latacza moÅ¼na uzyskaÄ‡ w bazie Navarro. Transport za pomocÄ… okrÄ™tu moÅ¼na uzyskaÄ‡ w porcie San Francisco. ProszÄ™ wziÄ…Ä‡ pod uwagÄ™, Å¼e transport za pomocÄ… okrÄ™tu zostaÅ‚ oznaczony jako unieczynniony w raporcie bezpieczeÅ„stwa 9837-334-27A, a dla jego ponownego uruchomienia konieczne jest posiadanie klucza. W tej chwili kluczem dysponuje dowÃ³dca bazy w Navarro.}
+{132}{}{W porzÄ…dku.}
+{133}{}{KapujÄ™.}
+{134}{}{Trwa przeszukiwanie... trwa pobieranie danych architektonicznych... dane pobrane. Zbrojownia mieÅ›ci siÄ™ pod ziemiÄ… w pÃ³Å‚nocno-zachodnim kwadrancie bazy.}
 {135}{}{Moja kapuje.}
-{136}{}{Dobra, teraz ju¿ wiem.}
-{137}{}{Trwa przeszukiwanie... trwa pobieranie danych architektonicznych... dane pobrane. Biuro dowódcy bazy mieœci siê pod ziemi¹ w pó³nocno-wschodnim kwadrancie bazy.}
+{136}{}{Dobra, teraz juÅ¼ wiem.}
+{137}{}{Trwa przeszukiwanie... trwa pobieranie danych architektonicznych... dane pobrane. Biuro dowÃ³dcy bazy mieÅ›ci siÄ™ pod ziemiÄ… w pÃ³Å‚nocno-wschodnim kwadrancie bazy.}
 {138}{}{Dobra.}
-{139}{}{Brzmi nieŸle.}
-{140}{}{Dziêkujê za skorzystanie z EnklawaNet. Trwa zamykanie... }
+{139}{}{Brzmi nieÅºle.}
+{140}{}{DziÄ™kujÄ™ za skorzystanie z EnklawaNet. Trwa zamykanie... }
 {141}{}{Zrobione.}
 {142}{}{Polecenie?}
-{143}{}{Wykryto nieupowa¿nion¹ dzia³alnoœæ w g³ównym zespole komputerowym. Alarm. Alarm.}
+{143}{}{Wykryto nieupowaÅ¼nionÄ… dziaÅ‚alnoÅ›Ä‡ w gÅ‚Ã³wnym zespole komputerowym. Alarm. Alarm.}
 {144}{}{Uruchom program powitalny.}
 {145}{}{Kurwa!}
-{146}{}{Trwa zabezpieczaj¹ce blokowanie systemu.}
+{146}{}{Trwa zabezpieczajÄ…ce blokowanie systemu.}

@@ -1,97 +1,97 @@
-{100}{}{Força}
-{101}{}{Percepção}
-{102}{}{Resistência}
+{100}{}{ForÃ§a}
+{101}{}{PercepÃ§Ã£o}
+{102}{}{ResistÃªncia}
 {103}{}{Carisma}
-{104}{}{Inteligência}
+{104}{}{InteligÃªncia}
 {105}{}{Agilidade}
 {106}{}{Sorte}
-{107}{}{Máximo de Pontos de vida}
-{108}{}{Máximo de Pontos de Ação}
+{107}{}{MÃ¡ximo de Pontos de vida}
+{108}{}{MÃ¡ximo de Pontos de AÃ§Ã£o}
 {109}{}{Armadura}
 {110}{}{Dano desarmado}
-{111}{}{Bônus de Dano}
-{112}{}{Peso Máximo}
-{113}{}{Sequência}
-{114}{}{Recuperação}
-{115}{}{Chan. Críticas}
-{116}{}{Melhores Críticos}
-{117}{}{Tolerância a dor}
-{118}{}{Tolerância a Laser}
-{119}{}{Tolerância ao Fogo}
-{120}{}{Tolerância ao Plasma}
-{121}{}{Tolerância a Eletricidade}
-{122}{}{Tolerância a EMP}
-{123}{}{Tolerância a Explosão}
-{124}{}{Resistência a dano}
-{125}{}{Resistência a dano Laser}
-{126}{}{Resistência a dano de Fogo}
-{127}{}{Resistência a dano de Plasma}
-{128}{}{Resistência a dano elétrico}
-{129}{}{Resistência a dano EMP}
-{130}{}{Resistência a dano explosão}
-{131}{}{Resistência a Radiação}
-{132}{}{Resistência a veneno}
+{111}{}{BÃ´nus de Dano}
+{112}{}{Peso MÃ¡ximo}
+{113}{}{SequÃªncia}
+{114}{}{RecuperaÃ§Ã£o}
+{115}{}{Chan. CrÃ­ticas}
+{116}{}{Melhores CrÃ­ticos}
+{117}{}{TolerÃ¢ncia a dor}
+{118}{}{TolerÃ¢ncia a Laser}
+{119}{}{TolerÃ¢ncia ao Fogo}
+{120}{}{TolerÃ¢ncia ao Plasma}
+{121}{}{TolerÃ¢ncia a Eletricidade}
+{122}{}{TolerÃ¢ncia a EMP}
+{123}{}{TolerÃ¢ncia a ExplosÃ£o}
+{124}{}{ResistÃªncia a dano}
+{125}{}{ResistÃªncia a dano Laser}
+{126}{}{ResistÃªncia a dano de Fogo}
+{127}{}{ResistÃªncia a dano de Plasma}
+{128}{}{ResistÃªncia a dano elÃ©trico}
+{129}{}{ResistÃªncia a dano EMP}
+{130}{}{ResistÃªncia a dano explosÃ£o}
+{131}{}{ResistÃªncia a RadiaÃ§Ã£o}
+{132}{}{ResistÃªncia a veneno}
 {133}{}{Idade}
 {134}{}{Sexo}
 {135}{}{Pontos de Vida atual}
-{136}{}{Nível de envenenamento atual}
-{137}{}{Nível de radiação atual}
-{200}{}{Força física bruta. Uma grande força é bom para personagens físicos. Modifica: pontos de vida, Danos de corpo a Corpo e carregar peso.}
-{201}{}{A capacidade de ver, ouvir, saborear e perceber coisas incomuns. A alta percepção é importante para um franco-atirador. Modifica: Seqüência e combate a distância.}
-{202}{}{Energia e resistência física. Um personagem com grande resistência vai sobreviver onde os outros não podem. Modifica: Pontos de Vida, Resistência a veneno e Radiação, pts de vida adicionais por nível.}
-{203}{}{Uma combinação de aparência e charme. Um alto Carisma É importante para os personagens que querem influenciar as pessoas com as palavras. Modifica: reacções NPC, e os preços de troca.}
-{204}{}{O conhecimento, sabedoria e capacidade de pensar rapidamente. Ser inteligênte é importante para qualquer personagem. Modifica: pontos de perícia por nível, opções de diálogo, e muitas habilidades.}
-{205}{}{Coordenação e capacidade de se mover rapidamente. A alta agilidade é importante para qualquer personagem ativo. Modifica: Pontos de Ação, Armadura, e muitas outras habilidades.}
-{206}{}{O destino. O karma. Uma sorte extremamente alta ou baixa afetará seu personagem de alguma forma. Eventos e situações serão alteradas por quanta sorte (ou azar) o seu personagem tiver.}
-{207}{}{Quanto de dano seu personagem pode sofrer antes de morrer. Se você chegar a 0 PV ou menos, você está morto.}
-{208}{}{O número de ações que o seu personagem pode utilizar durante um turno de combate.}
+{136}{}{NÃ­vel de envenenamento atual}
+{137}{}{NÃ­vel de radiaÃ§Ã£o atual}
+{200}{}{ForÃ§a fÃ­sica bruta. Uma grande forÃ§a Ã© bom para personagens fÃ­sicos. Modifica: pontos de vida, Danos de corpo a Corpo e carregar peso.}
+{201}{}{A capacidade de ver, ouvir, saborear e perceber coisas incomuns. A alta percepÃ§Ã£o Ã© importante para um franco-atirador. Modifica: SeqÃ¼Ãªncia e combate a distÃ¢ncia.}
+{202}{}{Energia e resistÃªncia fÃ­sica. Um personagem com grande resistÃªncia vai sobreviver onde os outros nÃ£o podem. Modifica: Pontos de Vida, ResistÃªncia a veneno e RadiaÃ§Ã£o, pts de vida adicionais por nÃ­vel.}
+{203}{}{Uma combinaÃ§Ã£o de aparÃªncia e charme. Um alto Carisma Ã‰ importante para os personagens que querem influenciar as pessoas com as palavras. Modifica: reacÃ§Ãµes NPC, e os preÃ§os de troca.}
+{204}{}{O conhecimento, sabedoria e capacidade de pensar rapidamente. Ser inteligÃªnte Ã© importante para qualquer personagem. Modifica: pontos de perÃ­cia por nÃ­vel, opÃ§Ãµes de diÃ¡logo, e muitas habilidades.}
+{205}{}{CoordenaÃ§Ã£o e capacidade de se mover rapidamente. A alta agilidade Ã© importante para qualquer personagem ativo. Modifica: Pontos de AÃ§Ã£o, Armadura, e muitas outras habilidades.}
+{206}{}{O destino. O karma. Uma sorte extremamente alta ou baixa afetarÃ¡ seu personagem de alguma forma. Eventos e situaÃ§Ãµes serÃ£o alteradas por quanta sorte (ou azar) o seu personagem tiver.}
+{207}{}{Quanto de dano seu personagem pode sofrer antes de morrer. Se vocÃª chegar a 0 PV ou menos, vocÃª estÃ¡ morto.}
+{208}{}{O nÃºmero de aÃ§Ãµes que o seu personagem pode utilizar durante um turno de combate.}
 {209}{}{Modifica a possibilidade de ser ferido para este personagem em particular.}
-{210}{}{A quantidade de bônus de dano ao seu personagem causada no combate corpo-a-corpo.}
-{211}{}{A quantidade de bônus de dano ao seu personagem causada no combate corpo-a-corpo.}
-{212}{}{A quantidade máxima de equipamentos que seu personagem pode transportar, em libras.}
-{213}{}{Determina velocidade de reação durante um turno de combate.}
-{214}{}{No final de cada dia, o seu personagem vai curar 1 PV para cada ponto de Recuperação. Quando você descansa, você cura a cada 6 horas.}
-{215}{}{A possibilidade de causar um acerto crítico em combate é aumentada por este valor.}
-{216}{}{Melhores Críticos}
-{217}{}{Tolerância a dor}
-{218}{}{Tolerância a Laser}
-{219}{}{Tolerância ao Fogo}
-{220}{}{Tolerância ao Plasma}
-{221}{}{Tolerância a Eletricidade}
-{222}{}{Tolerância a EMP}
-{223}{}{Tolerância a Explosão}
-{224}{}{Qualquer dano recebido é reduzido por este valor. Resistência a Dano pode ser aumentada através do uso de armadura.}
-{225}{}{Resistência a dano Laser}
-{226}{}{Resistência a dano de Fogo}
-{227}{}{Resistência a dano de Plasma}
-{228}{}{Resistência a dano elétrico}
-{229}{}{Resistência a dano EMP}
-{230}{}{Resistência a dano explosão}
-{231}{}{A quantidade de radiação que você está exposto é reduzida nessa porcentagem. A resistência à radiação pode ser modificada pelo tipo de armadura usada e pelas drogas anti-radiação.}
+{210}{}{A quantidade de bÃ´nus de dano ao seu personagem causada no combate corpo-a-corpo.}
+{211}{}{A quantidade de bÃ´nus de dano ao seu personagem causada no combate corpo-a-corpo.}
+{212}{}{A quantidade mÃ¡xima de equipamentos que seu personagem pode transportar, em libras.}
+{213}{}{Determina velocidade de reaÃ§Ã£o durante um turno de combate.}
+{214}{}{No final de cada dia, o seu personagem vai curar 1 PV para cada ponto de RecuperaÃ§Ã£o. Quando vocÃª descansa, vocÃª cura a cada 6 horas.}
+{215}{}{A possibilidade de causar um acerto crÃ­tico em combate Ã© aumentada por este valor.}
+{216}{}{Melhores CrÃ­ticos}
+{217}{}{TolerÃ¢ncia a dor}
+{218}{}{TolerÃ¢ncia a Laser}
+{219}{}{TolerÃ¢ncia ao Fogo}
+{220}{}{TolerÃ¢ncia ao Plasma}
+{221}{}{TolerÃ¢ncia a Eletricidade}
+{222}{}{TolerÃ¢ncia a EMP}
+{223}{}{TolerÃ¢ncia a ExplosÃ£o}
+{224}{}{Qualquer dano recebido Ã© reduzido por este valor. ResistÃªncia a Dano pode ser aumentada atravÃ©s do uso de armadura.}
+{225}{}{ResistÃªncia a dano Laser}
+{226}{}{ResistÃªncia a dano de Fogo}
+{227}{}{ResistÃªncia a dano de Plasma}
+{228}{}{ResistÃªncia a dano elÃ©trico}
+{229}{}{ResistÃªncia a dano EMP}
+{230}{}{ResistÃªncia a dano explosÃ£o}
+{231}{}{A quantidade de radiaÃ§Ã£o que vocÃª estÃ¡ exposto Ã© reduzida nessa porcentagem. A resistÃªncia Ã  radiaÃ§Ã£o pode ser modificada pelo tipo de armadura usada e pelas drogas anti-radiaÃ§Ã£o.}
 {232}{}{Reduz o dano de veneno por esse valor.}
 {233}{}{Idade}
 {234}{}{Sexo}
 {235}{}{Pontos de Vida atual}
-{236}{}{Nível de envenenamento atual}
-{237}{}{Nível de radiação atual}
+{236}{}{NÃ­vel de envenenamento atual}
+{237}{}{NÃ­vel de radiaÃ§Ã£o atual}
 {301}{}{M.Ruim}
 {302}{}{Ruim}
 {303}{}{Pobre}
 {304}{}{Justo}
-{305}{}{Médio}
+{305}{}{MÃ©dio}
 {306}{}{Bom}
 {307}{}{M.Bom}
-{308}{}{Ótimo}
+{308}{}{Ã“timo}
 {309}{}{Excele.}
-{310}{}{Herói}
-{400}{}{Pontos de Perícia não gastos }
-{401}{}{Nível}
-{402}{}{Experiência}
-{403}{}{Reputação}
+{310}{}{HerÃ³i}
+{400}{}{Pontos de PerÃ­cia nÃ£o gastos }
+{401}{}{NÃ­vel}
+{402}{}{ExperiÃªncia}
+{403}{}{ReputaÃ§Ã£o}
 {404}{}{Karma}
-{500}{}{Pontos ganhos por subir de nível. Pode ser usado para aumentar sua perícia em 1% ou 2% em uma perícia destacada por cada ponto gastado.}
-{501}{}{A competência geral de um personagem. A medida de sua experiência e habilidades.}
-{502}{}{A recompensa por completar tarefas específicas, ou derrotar inimigos em combate. Mais pontos de experiência são necessários para atingir níveis mais elevados.}
-{503}{}{O que o mundo sabe de suas ações e atos. Isso vai modificar reações de NPC.}
-{504}{}{Os efeitos das ações que você tomou. Informações Importantes serão exibidas.}
-{600}{}{Você subiu um nível.}
+{500}{}{Pontos ganhos por subir de nÃ­vel. Pode ser usado para aumentar sua perÃ­cia em 1% ou 2% em uma perÃ­cia destacada por cada ponto gastado.}
+{501}{}{A competÃªncia geral de um personagem. A medida de sua experiÃªncia e habilidades.}
+{502}{}{A recompensa por completar tarefas especÃ­ficas, ou derrotar inimigos em combate. Mais pontos de experiÃªncia sÃ£o necessÃ¡rios para atingir nÃ­veis mais elevados.}
+{503}{}{O que o mundo sabe de suas aÃ§Ãµes e atos. Isso vai modificar reaÃ§Ãµes de NPC.}
+{504}{}{Os efeitos das aÃ§Ãµes que vocÃª tomou. InformaÃ§Ãµes Importantes serÃ£o exibidas.}
+{600}{}{VocÃª subiu um nÃ­vel.}

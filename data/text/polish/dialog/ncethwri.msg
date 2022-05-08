@@ -1,209 +1,209 @@
-{100}{}{Widzisz pani¹ Wright.}
-{150}{}{Widzisz pulchn¹ kobietê o smutnej twarzy. Od czasu do czasu wzdycha. Zdaje siê byæ przygnêbiona.}
-{151}{}{Widzisz pani¹ Wright. Od czasu do czasu wzdycha. Zdaje siê byæ przygnêbiona.}
-{175}{}{Widzisz pulchn¹ kobietê o rumianej twarzy. Nuci pod nosem i generalnie wydaje siê byæ zadowolona.}
-{176}{}{Widzisz pani¹ Wright. Nuci pod nosem i generalnie wydaje siê byæ zadowolona.}
+{100}{}{Widzisz paniÄ… Wright.}
+{150}{}{Widzisz pulchnÄ… kobietÄ™ o smutnej twarzy. Od czasu do czasu wzdycha. Zdaje siÄ™ byÄ‡ przygnÄ™biona.}
+{151}{}{Widzisz paniÄ… Wright. Od czasu do czasu wzdycha. Zdaje siÄ™ byÄ‡ przygnÄ™biona.}
+{175}{}{Widzisz pulchnÄ… kobietÄ™ o rumianej twarzy. Nuci pod nosem i generalnie wydaje siÄ™ byÄ‡ zadowolona.}
+{176}{}{Widzisz paniÄ… Wright. Nuci pod nosem i generalnie wydaje siÄ™ byÄ‡ zadowolona.}
 {200}{}{*Wzdycha*}
-{201}{}{Jak on móg³ mi to zrobiæ?}
-{205}{}{Kolejny piêkny dzieñ w Reno!}
+{201}{}{Jak on mÃ³gÅ‚ mi to zrobiÄ‡?}
+{205}{}{Kolejny piÄ™kny dzieÅ„ w Reno!}
 {206}{}{::Pogwizduje podczas pracy::}
 {207}{}{Ach, do roboty! Nic nie daje takiej satysfakcji jak dobrze wykonana praca!}
 {208}{}{::Hmmmm-hmmm-hmmm-hm-hm -hmmmm::}
-{209}{}{Kolejna wspania³a noc w Reno!}
-{210}{}{(Kobieta podskakuje) Ojej! Ale¿ siê przestraszy³am! (Patrzy na ciebie z ukosa) Tak, tak?}
-{211}{}{(Pani Wright podskakuje) Ojej! Ale¿ siê przestraszy³am! (Patrzy na ciebie z ukosa) O, witam ponownie!}
+{209}{}{Kolejna wspaniaÅ‚a noc w Reno!}
+{210}{}{(Kobieta podskakuje) Ojej! AleÅ¼ siÄ™ przestraszyÅ‚am! (Patrzy na ciebie z ukosa) Tak, tak?}
+{211}{}{(Pani Wright podskakuje) Ojej! AleÅ¼ siÄ™ przestraszyÅ‚am! (Patrzy na ciebie z ukosa) O, witam ponownie!}
 {212}{}{Kto, Kto?}
 {213}{}{Halo, halo!}
 {214}{}{Ty nie mama... Mama? Maaama...?! Mama! Moja poszuka mama.}
-{215}{}{Kim jesteœ?}
-{216}{}{Mam nadziejê, ¿e pani nie przeszkadzam. Piêkn¹ mamy dziœ pogodê, prawda?}
-{217}{}{Przepraszam. Wydawa³o mi siê, ¿e to inna osoba.}
-{220}{}{(Przygl¹da ci siê ze zdziwieniem) }
-{222}{}{(Przez moment przeszukuje kieszenie, poczym wyci¹ga z nich kilka drobiazgów i podaje ci je.) Proszê bardzo, skarbie. WeŸ je sobie. }
+{215}{}{Kim jesteÅ›?}
+{216}{}{Mam nadziejÄ™, Å¼e pani nie przeszkadzam. PiÄ™knÄ… mamy dziÅ› pogodÄ™, prawda?}
+{217}{}{Przepraszam. WydawaÅ‚o mi siÄ™, Å¼e to inna osoba.}
+{220}{}{(PrzyglÄ…da ci siÄ™ ze zdziwieniem) }
+{222}{}{(Przez moment przeszukuje kieszenie, poczym wyciÄ…ga z nich kilka drobiazgÃ³w i podaje ci je.) ProszÄ™ bardzo, skarbie. WeÅº je sobie. }
 {223}{}{Dzienks.}
-{224}{}{OdejdŸ}
-{230}{}{(Biedactwo! Za du¿o przebywasz na s³oñcu... }
+{224}{}{OdejdÅº}
+{230}{}{(Biedactwo! Za duÅ¼o przebywasz na sÅ‚oÅ„cu... }
 {231}{}{Och, biedactwo... nie masz domu? }
-{232}{}{(Przez moment przeszukuje kieszenie) Szkoda, ¿e nie mam dla ciebie jedzenia, albo wody.}
-{240}{}{Ale¿ tak, w³aœnie tak. (Uœmiecha siê) Jestem Pani Ethyl Wright, przewodnicz¹ca Unii WstrzemiêŸliwoœci w Nowym Reno. A kim ty jesteœ?}
-{241}{}{Podró¿nikiem poszukuj¹cym Generatora Ekosystemu Cudownej Krainy. Wie pani mo¿e gdzie go szukaæ?}
-{242}{}{Podró¿nikiem poszukuj¹cym miejsca zwanego Krypt¹ 13. Wie pani gdzie to jest?}
-{243}{}{Unia WstrzemiêŸliwoœci?}
-{244}{}{Pani Wright? Czy pani m¹¿ nie jest przypadkiem g³ow¹ rodziny Wright?}
-{245}{}{Pani jest matk¹ Richarda, tak? Podobno zmar³ ca³kiem niedawno.}
-{246}{}{Przykro mi, ale muszê ju¿ iœæ.}
-{250}{}{Ja? Ale¿ jestem Pani Ethyl Wright, przewodnicz¹ca tutejszej Unii WstrzemiêŸliwoœci. (Przygl¹da ci siê) A ty kim jesteœ?}
+{232}{}{(Przez moment przeszukuje kieszenie) Szkoda, Å¼e nie mam dla ciebie jedzenia, albo wody.}
+{240}{}{AleÅ¼ tak, wÅ‚aÅ›nie tak. (UÅ›miecha siÄ™) Jestem Pani Ethyl Wright, przewodniczÄ…ca Unii WstrzemiÄ™ÅºliwoÅ›ci w Nowym Reno. A kim ty jesteÅ›?}
+{241}{}{PodrÃ³Å¼nikiem poszukujÄ…cym Generatora Ekosystemu Cudownej Krainy. Wie pani moÅ¼e gdzie go szukaÄ‡?}
+{242}{}{PodrÃ³Å¼nikiem poszukujÄ…cym miejsca zwanego KryptÄ… 13. Wie pani gdzie to jest?}
+{243}{}{Unia WstrzemiÄ™ÅºliwoÅ›ci?}
+{244}{}{Pani Wright? Czy pani mÄ…Å¼ nie jest przypadkiem gÅ‚owÄ… rodziny Wright?}
+{245}{}{Pani jest matkÄ… Richarda, tak? Podobno zmarÅ‚ caÅ‚kiem niedawno.}
+{246}{}{Przykro mi, ale muszÄ™ juÅ¼ iÅ›Ä‡.}
+{250}{}{Ja? AleÅ¼ jestem Pani Ethyl Wright, przewodniczÄ…ca tutejszej Unii WstrzemiÄ™ÅºliwoÅ›ci. (PrzyglÄ…da ci siÄ™) A ty kim jesteÅ›?}
 {251}{}{Jestem }
-{252}{}{Podró¿nikiem, który ma kilka pytañ odnoœcie Nowego Reno...}
-{254}{}{Mi³o siê z pani¹ gawêdzi, ale niestety muszê ju¿ iœæ.}
-{260}{}{Ojej! Jesteœ DZIKUSEM, prawda? Twój akcent ciê zdradzi³! (Podnosi g³os i zaczyna mówiæ wolniej) CÓ¯ - POZWÓL, ¯E POWITAM CIÊ W NASZYM MIEŒCIE!}
-{261}{}{Co twoja mówi? Moja prosta dzikus. Nie rozumie twoja.}
-{262}{}{Kobieto, nie uskar¿am siê ani na g³uchotê ani na g³upotê. Rozumiem ciê DOSKONALE, nawet kiedy nie WRZESZCZYSZ!!!}
-{263}{}{Hmmm, dziêkujê pani. Mam kilka pytañ odnoœnie Nowego Reno...}
-{264}{}{MUSZÊ JU¯ IŒÆ.}
-{270}{}{POWIEDZIA£AM: POZWÓL, ¯E *JA*... (Wskazuje na siebie) ...POWITAM CIEBIE... (Wskazuje na ciebie) ...W... (Wskazuje rêk¹ na miasto) ...MIEŒCIE ŒWIAT£A!}
-{272}{}{Czy zbroja, któr¹ noszê wygl¹da ci na odzienie têpego mieszkañca pustyni? Daruj sobie tê 'dzikusow¹' gadkê, dobra?}
-{273}{}{Czy spluwa, któr¹ noszê wygl¹da ci na prymitywn¹ broñ têpego dzikusaw? Daruj sobie tê 'dzikusow¹' gadkê, dobra?}
-{274}{}{LEPIEJ SOBIE PÓJDÊ, ZANIM STRACÊ CIERPLIWOŒÆ.}
-{280}{}{Och! Przepraszam najmocniej! (Zdaje siê byæ zmieszana) Wybacz! Ja tylko myœla³am... có¿... niewa¿ne, zapomnijmy o ca³ej sprawie. Co mogê dla ciebie zrobiæ?}
-{281}{}{Mam parê pytañ odnoœnie Nowego Reno...}
-{282}{}{Niewa¿ne. Muszê ju¿ iœæ.}
-{290}{}{(Zezuje na ciebie, wzrusza ramionami) Przykro mi, Generator... czego? Nie, niestety nie mogê ci pomóc.}
-{291}{}{Mam kilka innych pytañ...}
-{292}{}{W takim razie trudno, muszê ju¿ iœæ.}
-{300}{}{Krypta 13? (Zastanawia siê) Niestety nie, nigdy nie... zaraz, czekaj. To nieprawda. Na pó³nocny wschód st¹d jest Kryptopolis. Mo¿e tego szukasz?}
-{301}{}{Nie, niestety. Ale mo¿e odpowie pani na jeszcze jedno pytanie...}
-{302}{}{Mo¿liwe. Mogê pani¹ jeszcze o coœ zapytaæ...?}
-{303}{}{To mo¿liwe. Do widzenia... i dziêkujê za informacje.}
-{310}{}{Ale¿ tak! (Grozi ci palcem) Nowe Reno to piêkne miasto, ale jest tu równie¿ GRZECH - wywodz¹cy siê g³ównie ze z³a drzemi¹cego w alkoholu... albo, jak mawiaj¹ proœci mieszkañcy Pustkowi... (Robi dramatyczn¹ pauzê) ...WODZIE OGNISTEJ!}
-{311}{}{Prawdê mówi¹c, my - proœci mieszkañcy Pustkowi - te¿ mówimy na to alkohol.}
-{312}{}{No tak, ale co z Uni¹ WstrzemiêŸliwoœci?}
-{313}{}{Muszê ju¿ iœæ. S³yszê zew moich dzikich pobratymców.}
-{315}{}{(Ci¹gnie dalej.) }
-{316}{}{Unia WstrzemiêŸliwoœci powsta³a, aby pomóc ludziom uwolniæ siê od drzemi¹cej w alkoholu trucizny i odkryæ owoce jakie niesie ze sob¹ ciê¿ka, uczciwa praca.}
+{252}{}{PodrÃ³Å¼nikiem, ktÃ³ry ma kilka pytaÅ„ odnoÅ›cie Nowego Reno...}
+{254}{}{MiÅ‚o siÄ™ z paniÄ… gawÄ™dzi, ale niestety muszÄ™ juÅ¼ iÅ›Ä‡.}
+{260}{}{Ojej! JesteÅ› DZIKUSEM, prawda? TwÃ³j akcent ciÄ™ zdradziÅ‚! (Podnosi gÅ‚os i zaczyna mÃ³wiÄ‡ wolniej) CÃ“Å» - POZWÃ“L, Å»E POWITAM CIÄ˜ W NASZYM MIEÅšCIE!}
+{261}{}{Co twoja mÃ³wi? Moja prosta dzikus. Nie rozumie twoja.}
+{262}{}{Kobieto, nie uskarÅ¼am siÄ™ ani na gÅ‚uchotÄ™ ani na gÅ‚upotÄ™. Rozumiem ciÄ™ DOSKONALE, nawet kiedy nie WRZESZCZYSZ!!!}
+{263}{}{Hmmm, dziÄ™kujÄ™ pani. Mam kilka pytaÅ„ odnoÅ›nie Nowego Reno...}
+{264}{}{MUSZÄ˜ JUÅ» IÅšÄ†.}
+{270}{}{POWIEDZIAÅAM: POZWÃ“L, Å»E *JA*... (Wskazuje na siebie) ...POWITAM CIEBIE... (Wskazuje na ciebie) ...W... (Wskazuje rÄ™kÄ… na miasto) ...MIEÅšCIE ÅšWIATÅA!}
+{272}{}{Czy zbroja, ktÃ³rÄ… noszÄ™ wyglÄ…da ci na odzienie tÄ™pego mieszkaÅ„ca pustyni? Daruj sobie tÄ™ 'dzikusowÄ…' gadkÄ™, dobra?}
+{273}{}{Czy spluwa, ktÃ³rÄ… noszÄ™ wyglÄ…da ci na prymitywnÄ… broÅ„ tÄ™pego dzikusaw? Daruj sobie tÄ™ 'dzikusowÄ…' gadkÄ™, dobra?}
+{274}{}{LEPIEJ SOBIE PÃ“JDÄ˜, ZANIM STRACÄ˜ CIERPLIWOÅšÄ†.}
+{280}{}{Och! Przepraszam najmocniej! (Zdaje siÄ™ byÄ‡ zmieszana) Wybacz! Ja tylko myÅ›laÅ‚am... cÃ³Å¼... niewaÅ¼ne, zapomnijmy o caÅ‚ej sprawie. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{281}{}{Mam parÄ™ pytaÅ„ odnoÅ›nie Nowego Reno...}
+{282}{}{NiewaÅ¼ne. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{290}{}{(Zezuje na ciebie, wzrusza ramionami) Przykro mi, Generator... czego? Nie, niestety nie mogÄ™ ci pomÃ³c.}
+{291}{}{Mam kilka innych pytaÅ„...}
+{292}{}{W takim razie trudno, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{300}{}{Krypta 13? (Zastanawia siÄ™) Niestety nie, nigdy nie... zaraz, czekaj. To nieprawda. Na pÃ³Å‚nocny wschÃ³d stÄ…d jest Kryptopolis. MoÅ¼e tego szukasz?}
+{301}{}{Nie, niestety. Ale moÅ¼e odpowie pani na jeszcze jedno pytanie...}
+{302}{}{MoÅ¼liwe. MogÄ™ paniÄ… jeszcze o coÅ› zapytaÄ‡...?}
+{303}{}{To moÅ¼liwe. Do widzenia... i dziÄ™kujÄ™ za informacje.}
+{310}{}{AleÅ¼ tak! (Grozi ci palcem) Nowe Reno to piÄ™kne miasto, ale jest tu rÃ³wnieÅ¼ GRZECH - wywodzÄ…cy siÄ™ gÅ‚Ã³wnie ze zÅ‚a drzemiÄ…cego w alkoholu... albo, jak mawiajÄ… proÅ›ci mieszkaÅ„cy Pustkowi... (Robi dramatycznÄ… pauzÄ™) ...WODZIE OGNISTEJ!}
+{311}{}{PrawdÄ™ mÃ³wiÄ…c, my - proÅ›ci mieszkaÅ„cy Pustkowi - teÅ¼ mÃ³wimy na to alkohol.}
+{312}{}{No tak, ale co z UniÄ… WstrzemiÄ™ÅºliwoÅ›ci?}
+{313}{}{MuszÄ™ juÅ¼ iÅ›Ä‡. SÅ‚yszÄ™ zew moich dzikich pobratymcÃ³w.}
+{315}{}{(CiÄ…gnie dalej.) }
+{316}{}{Unia WstrzemiÄ™ÅºliwoÅ›ci powstaÅ‚a, aby pomÃ³c ludziom uwolniÄ‡ siÄ™ od drzemiÄ…cej w alkoholu trucizny i odkryÄ‡ owoce jakie niesie ze sobÄ… ciÄ™Å¼ka, uczciwa praca.}
 {317}{}{Och. Ale co z...}
 {318}{}{Czyli co konkret...}
-{320}{}{(Zdaje siê byæ wstrz¹œniêta.) Mylisz siê straszliwie. Z pewnoœci¹ nawet taki prymitywny dzikus jak ty nie uwa¿a, ¿e... }
-{321}{}{Nie ma to jak p³atna mi³oœæ, trochê hazardu i butelka bimbru przed snem. To przecie¿ najwiêksze zalety ¿ycia na Pustkowiach!}
-{322}{}{Nie ma to jak p³atna mi³oœæ, trochê hazardu i butelka bimbru przed snem. To przecie¿ najwiêksze zalety ¿ycia na Pustkowiach!}
-{323}{}{Pozostawiam to twojej wyobraŸni. S¹dz¹c po twojej wczeœniejszej wypowiedzi, tak bêdzie lepiej.}
-{324}{}{Na klejnoty duchów wiatru, tak! Osobiœcie z upodobaniem oddajê siê wszystkim tym grzechom. }
-{325}{}{Na Richarda Millhouse'a Nixona i jego matkê! Nie wiem jakim praktykom oddajecie siê w swych prymitywnych norach rozpusty, ale w Nowym Reno sprawy maj¹ siê ku lepszemu! Jesteœmy CYWILIZOWANYMI ludŸmi!}
-{326}{}{¯aden z grzechów, o których mówisz nie ma wstêpu do naszej wioski. "Cywilizowanie" ludzie mogliby siê od nas wiele nauczyæ.}
-{327}{}{Kto wchodzi w sk³ad waszej organizacji?}
-{328}{}{Czym zajmuje siê wasza organizacja?}
-{329}{}{Rozumiem. Dziêkujê za rozmowê. Do widzenia.}
-{330}{}{(Zastanawia siê.) Có¿, chocia¿by drogi ojciec Tully.}
-{331}{}{(Zastanawia siê.) Có¿, drogi ojciec Tully by³ jednym z cz³onków, zanim umar³.}
-{332}{}{Hmmm, ojciec Tully konsumowa³ 'wodê ognist¹' czêœciej, ni¿ pani mineraln¹. W jego pobli¿u cz³owiekowi krêci³o siê w g³owie od samych oparów.}
+{320}{}{(Zdaje siÄ™ byÄ‡ wstrzÄ…Å›niÄ™ta.) Mylisz siÄ™ straszliwie. Z pewnoÅ›ciÄ… nawet taki prymitywny dzikus jak ty nie uwaÅ¼a, Å¼e... }
+{321}{}{Nie ma to jak pÅ‚atna miÅ‚oÅ›Ä‡, trochÄ™ hazardu i butelka bimbru przed snem. To przecieÅ¼ najwiÄ™ksze zalety Å¼ycia na Pustkowiach!}
+{322}{}{Nie ma to jak pÅ‚atna miÅ‚oÅ›Ä‡, trochÄ™ hazardu i butelka bimbru przed snem. To przecieÅ¼ najwiÄ™ksze zalety Å¼ycia na Pustkowiach!}
+{323}{}{Pozostawiam to twojej wyobraÅºni. SÄ…dzÄ…c po twojej wczeÅ›niejszej wypowiedzi, tak bÄ™dzie lepiej.}
+{324}{}{Na klejnoty duchÃ³w wiatru, tak! OsobiÅ›cie z upodobaniem oddajÄ™ siÄ™ wszystkim tym grzechom. }
+{325}{}{Na Richarda Millhouse'a Nixona i jego matkÄ™! Nie wiem jakim praktykom oddajecie siÄ™ w swych prymitywnych norach rozpusty, ale w Nowym Reno sprawy majÄ… siÄ™ ku lepszemu! JesteÅ›my CYWILIZOWANYMI ludÅºmi!}
+{326}{}{Å»aden z grzechÃ³w, o ktÃ³rych mÃ³wisz nie ma wstÄ™pu do naszej wioski. "Cywilizowanie" ludzie mogliby siÄ™ od nas wiele nauczyÄ‡.}
+{327}{}{Kto wchodzi w skÅ‚ad waszej organizacji?}
+{328}{}{Czym zajmuje siÄ™ wasza organizacja?}
+{329}{}{Rozumiem. DziÄ™kujÄ™ za rozmowÄ™. Do widzenia.}
+{330}{}{(Zastanawia siÄ™.) CÃ³Å¼, chociaÅ¼by drogi ojciec Tully.}
+{331}{}{(Zastanawia siÄ™.) CÃ³Å¼, drogi ojciec Tully byÅ‚ jednym z czÅ‚onkÃ³w, zanim umarÅ‚.}
+{332}{}{Hmmm, ojciec Tully konsumowaÅ‚ 'wodÄ™ ognistÄ…' czÄ™Å›ciej, niÅ¼ pani mineralnÄ…. W jego pobliÅ¼u czÅ‚owiekowi krÄ™ciÅ‚o siÄ™ w gÅ‚owie od samych oparÃ³w.}
 {333}{}{Ojciec Tully?}
-{335}{}{Ojej, jest ju¿ strasznie póŸno. Muszê iœæ.}
-{340}{}{S³uchaj no. (Marszczy brwi) Nie bêdê tolerowa³a takiego oczerniania! Ojciec Tully mia³ swoje problemy, ale dziêki Unii zwalczy³ w sobie pokusê i ocali³ duszê przed ogniem piekielnym!}
-{341}{}{Dam sobie g³owê uci¹æ, ¿e nasz dobry ojczulo pêdem goni do ka¿dej budy z gorza³¹, jak¹ zobaczy... o ile nie oœlep³ jeszcze od picia taniego bimbru.}
-{342}{}{To nie jest oczernianie. Po prostu duchowy przywódca waszego miasta idealnie pasuje do... ducha waszego miasta! }
-{343}{}{Dobrze. Nie chcê siê sprzeczaæ. Ale czym zajmuje siê Unia?}
-{344}{}{Mi³o mi to s³yszeæ. Lepiej ju¿ sobie pójdê.}
-{345}{}{O tak, to duchowy przywódca Nowego Reno. Prowadzi jedyn¹ œwi¹tyniê w ca³ym mieœcie. Po prostu MUSISZ z nim porozmawiaæ. To niesamowity, inspiruj¹cy cz³owiek!}
-{346}{}{Có¿, mo¿e tak zrobiê. Ale czym zajmuje siê Unia WstrzemiêŸliwoœci?}
-{347}{}{Mo¿e od razu go poszukam? Do widzenia.}
-{350}{}{Hmmf! Có¿ za niezwyk³a nieuprzejmoœæ! Od dziœ mo¿esz mi siê nie k³aniaæ.}
-{351}{}{Taki w³aœnie mam zamiar.}
+{335}{}{Ojej, jest juÅ¼ strasznie pÃ³Åºno. MuszÄ™ iÅ›Ä‡.}
+{340}{}{SÅ‚uchaj no. (Marszczy brwi) Nie bÄ™dÄ™ tolerowaÅ‚a takiego oczerniania! Ojciec Tully miaÅ‚ swoje problemy, ale dziÄ™ki Unii zwalczyÅ‚ w sobie pokusÄ™ i ocaliÅ‚ duszÄ™ przed ogniem piekielnym!}
+{341}{}{Dam sobie gÅ‚owÄ™ uciÄ…Ä‡, Å¼e nasz dobry ojczulo pÄ™dem goni do kaÅ¼dej budy z gorzaÅ‚Ä…, jakÄ… zobaczy... o ile nie oÅ›lepÅ‚ jeszcze od picia taniego bimbru.}
+{342}{}{To nie jest oczernianie. Po prostu duchowy przywÃ³dca waszego miasta idealnie pasuje do... ducha waszego miasta! }
+{343}{}{Dobrze. Nie chcÄ™ siÄ™ sprzeczaÄ‡. Ale czym zajmuje siÄ™ Unia?}
+{344}{}{MiÅ‚o mi to sÅ‚yszeÄ‡. Lepiej juÅ¼ sobie pÃ³jdÄ™.}
+{345}{}{O tak, to duchowy przywÃ³dca Nowego Reno. Prowadzi jedynÄ… Å›wiÄ…tyniÄ™ w caÅ‚ym mieÅ›cie. Po prostu MUSISZ z nim porozmawiaÄ‡. To niesamowity, inspirujÄ…cy czÅ‚owiek!}
+{346}{}{CÃ³Å¼, moÅ¼e tak zrobiÄ™. Ale czym zajmuje siÄ™ Unia WstrzemiÄ™ÅºliwoÅ›ci?}
+{347}{}{MoÅ¼e od razu go poszukam? Do widzenia.}
+{350}{}{Hmmf! CÃ³Å¼ za niezwykÅ‚a nieuprzejmoÅ›Ä‡! Od dziÅ› moÅ¼esz mi siÄ™ nie kÅ‚aniaÄ‡.}
+{351}{}{Taki wÅ‚aÅ›nie mam zamiar.}
 {352}{}{Dobrze.}
-{355}{}{Tak, tak, tak, to on. (Znów na ciebie zezuje) Przepraszam, znasz mojego mê¿a?}
-{356}{}{Tak, znam go. Rodzina Wrightów kontroluje dystrybucjê alkoholu w ca³ym Nowym Reno.}
-{357}{}{Nie osobiœcie, ale wiem, ¿e Wrightowie kontroluj¹ dystrybucjê alkoholu w ca³ym Nowym Reno.}
+{355}{}{Tak, tak, tak, to on. (ZnÃ³w na ciebie zezuje) Przepraszam, znasz mojego mÄ™Å¼a?}
+{356}{}{Tak, znam go. Rodzina WrightÃ³w kontroluje dystrybucjÄ™ alkoholu w caÅ‚ym Nowym Reno.}
+{357}{}{Nie osobiÅ›cie, ale wiem, Å¼e Wrightowie kontrolujÄ… dystrybucjÄ™ alkoholu w caÅ‚ym Nowym Reno.}
 {358}{}{Nie.}
-{359}{}{Niezupe³nie. Niestety, muszê ju¿ iœæ.}
-{360}{}{Och. (Mruga.) Wiêc co mogê dla ciebie zrobiæ?}
-{361}{}{A wiêc o co chcesz mnie zapytaæ?}
-{362}{}{(Podskakuje.) Ojej! Strasznie siê wystraszy³am! (Zezuje na ciebie) O, witam znowu!}
-{363}{}{Mówi³a pani coœ o Unii WstrzemiêŸliwoœci?}
+{359}{}{NiezupeÅ‚nie. Niestety, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{360}{}{Och. (Mruga.) WiÄ™c co mogÄ™ dla ciebie zrobiÄ‡?}
+{361}{}{A wiÄ™c o co chcesz mnie zapytaÄ‡?}
+{362}{}{(Podskakuje.) Ojej! Strasznie siÄ™ wystraszyÅ‚am! (Zezuje na ciebie) O, witam znowu!}
+{363}{}{MÃ³wiÅ‚a pani coÅ› o Unii WstrzemiÄ™ÅºliwoÅ›ci?}
 {364}{}{Szukam Generatora Ekosystemu Cudownej Krainy.}
-{365}{}{Szukam miejsca, które nazywa siê Krypta 13.}
-{366}{}{Pani m¹¿ jest g³ow¹ rodziny Wrightów, prawda?}
-{368}{}{Nic wa¿nego. Muszê ju¿ iœæ.}
-{369}{}{Przykro mi, chwilowo nie mam czasu na rozmowê. Do widzenia.}
-{375}{}{(Marszczy brwi.) A có¿ ty za bzdury wygadujesz? "Dystrybucja alkoholu w Nowym Reno"? Znam mojego mê¿a - ma sk³onnoœæ do alkoholu, ale walczy z na³ogiem...}
-{376}{}{Aha, walczy te¿ z ka¿dym, kto stanie na drodze jego alkoholowemu imperium.}
-{377}{}{Ethyl, jeœli jeszcze nie zauwa¿y³aœ, twój m¹¿ jest szefem rodziny mafijnej, która handluje alkoholem w ca³ym Nowym Reno. Wypicie sobie od czasu do czasu to najmniejsza z jego zbrodni.}
-{378}{}{Och, w takim razie to musi byæ inny pan Wright. Przepraszam. Do widzenia.}
-{380}{}{Och... dobry Bo¿e! Co za tupet! (Bierze g³êboki wdech) }
-{381}{}{To s¹ BARDZO powa¿ne oskar¿enia, drogi panie.}
-{382}{}{To s¹ BARDZO powa¿ne oskar¿enia, m³oda damo.}
+{365}{}{Szukam miejsca, ktÃ³re nazywa siÄ™ Krypta 13.}
+{366}{}{Pani mÄ…Å¼ jest gÅ‚owÄ… rodziny WrightÃ³w, prawda?}
+{368}{}{Nic waÅ¼nego. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{369}{}{Przykro mi, chwilowo nie mam czasu na rozmowÄ™. Do widzenia.}
+{375}{}{(Marszczy brwi.) A cÃ³Å¼ ty za bzdury wygadujesz? "Dystrybucja alkoholu w Nowym Reno"? Znam mojego mÄ™Å¼a - ma skÅ‚onnoÅ›Ä‡ do alkoholu, ale walczy z naÅ‚ogiem...}
+{376}{}{Aha, walczy teÅ¼ z kaÅ¼dym, kto stanie na drodze jego alkoholowemu imperium.}
+{377}{}{Ethyl, jeÅ›li jeszcze nie zauwaÅ¼yÅ‚aÅ›, twÃ³j mÄ…Å¼ jest szefem rodziny mafijnej, ktÃ³ra handluje alkoholem w caÅ‚ym Nowym Reno. Wypicie sobie od czasu do czasu to najmniejsza z jego zbrodni.}
+{378}{}{Och, w takim razie to musi byÄ‡ inny pan Wright. Przepraszam. Do widzenia.}
+{380}{}{Och... dobry BoÅ¼e! Co za tupet! (Bierze gÅ‚Ä™boki wdech) }
+{381}{}{To sÄ… BARDZO powaÅ¼ne oskarÅ¼enia, drogi panie.}
+{382}{}{To sÄ… BARDZO powaÅ¼ne oskarÅ¼enia, mÅ‚oda damo.}
 {383}{}{Wiem o tym, ale...}
-{384}{}{Niech mnie pani pos³ucha: mo¿e...}
-{385}{}{Nie, to ty pos³uchaj! To ¿aden sekret, ¿e - w PRZESZ£OŒCI - mój m¹¿ mia³ prywatny aparat destylacyjny. Tak czy inaczej PRZYRZEK£ mi, ¿e to tylko na jego w³asny u¿ytek, i NA MOJ¥ PROŒBÊ rozmontowa³ go!}
-{386}{}{Naprawdê? Mo¿e powinna pani...}
-{387}{}{Niech mnie pani pos³ucha: on...}
-{390}{}{(Marszczy brwi, k³adzie rêce na biodrach.) Przyjrzê siê temu, mo¿esz na to liczyæ! Ale jeœli oka¿e siê, ¿e nie masz racji, lepiej nie pokazuj siê wiêcej w tym mieœcie! Spotkajmy siê jutro rano w koœciele. Wtedy porozmawiamy.}
-{392}{}{W porz¹dku. Do zobaczenia.}
-{395}{}{(Uœmiech znika z jej twarzy.) Tak, mój syn, Richard... on... tak, Odszed³ w m³odym wieku. Ja... hmmm. Tak. (Patrzy na swoje rêce) Ja...}
-{396}{}{Ludzie mówi¹, ¿e przedawkowa³ Jet... czy to prawda?}
-{397}{}{Niewa¿ne. Widzê, ¿e to dla pani bardzo bolesne. Mam jeszcze kilka pytañ...}
-{398}{}{Niewa¿ne. Muszê ju¿ iœæ.}
-{400}{}{(Zaciska zêby.) Ta przeklêta trucizna! Myœla³am, ¿e nauczy³am go, ¿eby trzyma³ siê od niej z daleka, a on...}
-{401}{}{Wie pani sk¹d Richard móg³ wzi¹æ narkotyki?}
-{405}{}{Nie wiem! (Zaciska piêœci.) Sprzedaj¹ to œwiñstwo na ka¿dym rogu w Nowym Reno! GDZIEKOLWIEK pójdziesz, zawsze znajdzie siê jakiœ dealer...!}
-{406}{}{Czy zna pani jakiegoœ dealera?}
-{407}{}{Niewa¿ne. Mam jeszcze kilka pytañ...}
-{410}{}{Nie z imienia. Nauczyli siê ju¿ uciekaæ na sam mój widok... Ale najwiêcej krêci siê ko³o Alei Dziewic i przed kasynami.}
-{411}{}{Rozumiem. Mam kilka innych pytañ...}
-{415}{}{Trzymaj siê zdala ode mnie, demonie rozpusty! Cudzo³o¿yæ przed kamerami ku zepsuciu mas!}
-{416}{}{A niech mnie! Masz tupet... przychodziæ tu znowu! Cudzo³o¿yæ przed kamerami ku uciesze zboczeñców i zwyrodnialców, fuj!}
-{417}{}{Huh? Cu-co-leczyæ pszet kanarami czego?}
-{418}{}{Ojojojoj! Trudne s³owo! Trudne! Moja uciekaæ!}
-{419}{}{To w³aœnie ja. Mo¿e szukasz pracy? Lubiê kobitki przy koœci. (Mrugasz do niej.) Poluzuj trochê ten gorset i mo¿emy braæ siê do roboty.}
-{420}{}{B³êdy m³odoœci, brak pieniêdzy, sama pani rozumie...}
-{421}{}{Widzê, ¿e dalsza rozmowa nie ma wiêkszego sensu. Do widzenia.}
-{425}{}{Przecz! Wynoœ siê natychmiast!}
-{426}{}{Moja iœæ! Moja iœæ!}
-{427}{}{Dobrze ju¿! Ju¿ sobie idê!}
-{428}{}{Uspokój siê, kobieto. Z³oœæ piêknoœci szkodzi.}
-{430}{}{(Zezuje na ciebie, jej wzrok wêdruje w kierunku twojego tatua¿u. Jej g³os natychmiast staje siê osch³y.) }
+{384}{}{Niech mnie pani posÅ‚ucha: moÅ¼e...}
+{385}{}{Nie, to ty posÅ‚uchaj! To Å¼aden sekret, Å¼e - w PRZESZÅOÅšCI - mÃ³j mÄ…Å¼ miaÅ‚ prywatny aparat destylacyjny. Tak czy inaczej PRZYRZEKÅ mi, Å¼e to tylko na jego wÅ‚asny uÅ¼ytek, i NA MOJÄ„ PROÅšBÄ˜ rozmontowaÅ‚ go!}
+{386}{}{NaprawdÄ™? MoÅ¼e powinna pani...}
+{387}{}{Niech mnie pani posÅ‚ucha: on...}
+{390}{}{(Marszczy brwi, kÅ‚adzie rÄ™ce na biodrach.) PrzyjrzÄ™ siÄ™ temu, moÅ¼esz na to liczyÄ‡! Ale jeÅ›li okaÅ¼e siÄ™, Å¼e nie masz racji, lepiej nie pokazuj siÄ™ wiÄ™cej w tym mieÅ›cie! Spotkajmy siÄ™ jutro rano w koÅ›ciele. Wtedy porozmawiamy.}
+{392}{}{W porzÄ…dku. Do zobaczenia.}
+{395}{}{(UÅ›miech znika z jej twarzy.) Tak, mÃ³j syn, Richard... on... tak, OdszedÅ‚ w mÅ‚odym wieku. Ja... hmmm. Tak. (Patrzy na swoje rÄ™ce) Ja...}
+{396}{}{Ludzie mÃ³wiÄ…, Å¼e przedawkowaÅ‚ Jet... czy to prawda?}
+{397}{}{NiewaÅ¼ne. WidzÄ™, Å¼e to dla pani bardzo bolesne. Mam jeszcze kilka pytaÅ„...}
+{398}{}{NiewaÅ¼ne. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{400}{}{(Zaciska zÄ™by.) Ta przeklÄ™ta trucizna! MyÅ›laÅ‚am, Å¼e nauczyÅ‚am go, Å¼eby trzymaÅ‚ siÄ™ od niej z daleka, a on...}
+{401}{}{Wie pani skÄ…d Richard mÃ³gÅ‚ wziÄ…Ä‡ narkotyki?}
+{405}{}{Nie wiem! (Zaciska piÄ™Å›ci.) SprzedajÄ… to Å›wiÅ„stwo na kaÅ¼dym rogu w Nowym Reno! GDZIEKOLWIEK pÃ³jdziesz, zawsze znajdzie siÄ™ jakiÅ› dealer...!}
+{406}{}{Czy zna pani jakiegoÅ› dealera?}
+{407}{}{NiewaÅ¼ne. Mam jeszcze kilka pytaÅ„...}
+{410}{}{Nie z imienia. Nauczyli siÄ™ juÅ¼ uciekaÄ‡ na sam mÃ³j widok... Ale najwiÄ™cej krÄ™ci siÄ™ koÅ‚o Alei Dziewic i przed kasynami.}
+{411}{}{Rozumiem. Mam kilka innych pytaÅ„...}
+{415}{}{Trzymaj siÄ™ zdala ode mnie, demonie rozpusty! CudzoÅ‚oÅ¼yÄ‡ przed kamerami ku zepsuciu mas!}
+{416}{}{A niech mnie! Masz tupet... przychodziÄ‡ tu znowu! CudzoÅ‚oÅ¼yÄ‡ przed kamerami ku uciesze zboczeÅ„cÃ³w i zwyrodnialcÃ³w, fuj!}
+{417}{}{Huh? Cu-co-leczyÄ‡ pszet kanarami czego?}
+{418}{}{Ojojojoj! Trudne sÅ‚owo! Trudne! Moja uciekaÄ‡!}
+{419}{}{To wÅ‚aÅ›nie ja. MoÅ¼e szukasz pracy? LubiÄ™ kobitki przy koÅ›ci. (Mrugasz do niej.) Poluzuj trochÄ™ ten gorset i moÅ¼emy braÄ‡ siÄ™ do roboty.}
+{420}{}{BÅ‚Ä™dy mÅ‚odoÅ›ci, brak pieniÄ™dzy, sama pani rozumie...}
+{421}{}{WidzÄ™, Å¼e dalsza rozmowa nie ma wiÄ™kszego sensu. Do widzenia.}
+{425}{}{Przecz! WynoÅ› siÄ™ natychmiast!}
+{426}{}{Moja iÅ›Ä‡! Moja iÅ›Ä‡!}
+{427}{}{Dobrze juÅ¼! JuÅ¼ sobie idÄ™!}
+{428}{}{UspokÃ³j siÄ™, kobieto. ZÅ‚oÅ›Ä‡ piÄ™knoÅ›ci szkodzi.}
+{430}{}{(Zezuje na ciebie, jej wzrok wÄ™druje w kierunku twojego tatuaÅ¼u. Jej gÅ‚os natychmiast staje siÄ™ oschÅ‚y.) }
 {431}{}{Tak?}
-{432}{}{Znowu ty. Nie mamy o czym rozmawiaæ.}
-{433}{}{Moja... umh... moja... moja chce... uch... moja szuka... uch... chorera! Moja nie cierpi byæ g³upol! Nie cierpi!}
-{434}{}{Ja... uch... uuch, b³yskotka!}
-{435}{}{Mam kilka pytañ...}
-{436}{}{Widzê, ¿e rozmowa z pani¹ nie ma sensu. Do widzenia.}
-{440}{}{Rozumiem. Có¿, obawiam siê, ¿e nie mogê ci pomóc. Do widzenia.}
-{441}{}{Rozumiem. Có¿, obawiam siê, ¿e nie mogê ci pomóc. Dobranoc.}
-{442}{}{::Wzrusz ramionami i odejdŸ.::}
-{443}{}{W porz¹dku. Do widzenia.}
-{444}{}{W porz¹dku. Dobranoc.}
-{450}{}{(Widzisz pani¹ Wright. Wygl¹da na za³aman¹.)}
+{432}{}{Znowu ty. Nie mamy o czym rozmawiaÄ‡.}
+{433}{}{Moja... umh... moja... moja chce... uch... moja szuka... uch... chorera! Moja nie cierpi byÄ‡ gÅ‚upol! Nie cierpi!}
+{434}{}{Ja... uch... uuch, bÅ‚yskotka!}
+{435}{}{Mam kilka pytaÅ„...}
+{436}{}{WidzÄ™, Å¼e rozmowa z paniÄ… nie ma sensu. Do widzenia.}
+{440}{}{Rozumiem. CÃ³Å¼, obawiam siÄ™, Å¼e nie mogÄ™ ci pomÃ³c. Do widzenia.}
+{441}{}{Rozumiem. CÃ³Å¼, obawiam siÄ™, Å¼e nie mogÄ™ ci pomÃ³c. Dobranoc.}
+{442}{}{::Wzrusz ramionami i odejdÅº.::}
+{443}{}{W porzÄ…dku. Do widzenia.}
+{444}{}{W porzÄ…dku. Dobranoc.}
+{450}{}{(Widzisz paniÄ… Wright. WyglÄ…da na zaÅ‚amanÄ….)}
 {451}{}{Hmm... Ethyl, nic pani nie jest?}
-{452}{}{No i... czego siê pani dowiedzia³a?}
-{453}{}{Aha! I kto mia³ racjê?!}
-{454}{}{Przykro mi. Wrócê póŸniej.}
-{460}{}{Wszystko to prawda... wszystko co us³ysza³am od ciebie to szczera prawda. (Wzdycha.) Aparatura wcale nie zosta³a rozebrana. Nie zosta³a! (Marszczy brwi.) Ufa³am temu cz³owiekowi, ale alkohol by³ silniejszy - zrobi³ z niego k³amcê! *Oszukiwa³ w³asn¹ ¿onê!*}
-{461}{}{::Pozwól jej siê wygadaæ.::}
-{462}{}{To prawda Ethyl... kolejny dowód na diab³a czaj¹cego siê w alkoholu. To on kusi ludzi do z³ego. Zw³aszcza, kiedy palce w ca³ej sprawie maczaj¹ te¿ z³e duchy w³adzy i pieniêdzy.}
-{463}{}{Pewnie chcesz teraz byæ sama... Wrócê póŸniej.}
-{470}{}{(Wzbiera w niej gniew.) ZMUSZÊ go, ¿eby dotrzyma³ danej mi obietnicy, nawet, gdybym musia³a zniszczyæ tê aparaturê w³asnymi rêkami. A potem Orville i ja porozmawiamy sobie. Zobaczymy, co ten ma³y oszust ma do powiedzenia!}
-{471}{}{Proszê siê tym nie przejmowaæ, pani Wright. Dziêki mnie aparatura ju¿ nie dzia³a.}
-{472}{}{Gdzie jest ta aparatura? Mogê j¹ dla pani zniszczyæ.}
-{473}{}{Nie, ja siê tym zajmê. Jest pod stacj¹ kolejow¹, prawda? Ju¿ moja w tym g³owa, ¿eby j¹ zniszczyæ.}
-{474}{}{Dobry pomys³. Powinna pani zniszczyæ tê aparaturê.}
-{475}{}{W takim razie wrócê póŸniej.}
+{452}{}{No i... czego siÄ™ pani dowiedziaÅ‚a?}
+{453}{}{Aha! I kto miaÅ‚ racjÄ™?!}
+{454}{}{Przykro mi. WrÃ³cÄ™ pÃ³Åºniej.}
+{460}{}{Wszystko to prawda... wszystko co usÅ‚yszaÅ‚am od ciebie to szczera prawda. (Wzdycha.) Aparatura wcale nie zostaÅ‚a rozebrana. Nie zostaÅ‚a! (Marszczy brwi.) UfaÅ‚am temu czÅ‚owiekowi, ale alkohol byÅ‚ silniejszy - zrobiÅ‚ z niego kÅ‚amcÄ™! *OszukiwaÅ‚ wÅ‚asnÄ… Å¼onÄ™!*}
+{461}{}{::PozwÃ³l jej siÄ™ wygadaÄ‡.::}
+{462}{}{To prawda Ethyl... kolejny dowÃ³d na diabÅ‚a czajÄ…cego siÄ™ w alkoholu. To on kusi ludzi do zÅ‚ego. ZwÅ‚aszcza, kiedy palce w caÅ‚ej sprawie maczajÄ… teÅ¼ zÅ‚e duchy wÅ‚adzy i pieniÄ™dzy.}
+{463}{}{Pewnie chcesz teraz byÄ‡ sama... WrÃ³cÄ™ pÃ³Åºniej.}
+{470}{}{(Wzbiera w niej gniew.) ZMUSZÄ˜ go, Å¼eby dotrzymaÅ‚ danej mi obietnicy, nawet, gdybym musiaÅ‚a zniszczyÄ‡ tÄ™ aparaturÄ™ wÅ‚asnymi rÄ™kami. A potem Orville i ja porozmawiamy sobie. Zobaczymy, co ten maÅ‚y oszust ma do powiedzenia!}
+{471}{}{ProszÄ™ siÄ™ tym nie przejmowaÄ‡, pani Wright. DziÄ™ki mnie aparatura juÅ¼ nie dziaÅ‚a.}
+{472}{}{Gdzie jest ta aparatura? MogÄ™ jÄ… dla pani zniszczyÄ‡.}
+{473}{}{Nie, ja siÄ™ tym zajmÄ™. Jest pod stacjÄ… kolejowÄ…, prawda? JuÅ¼ moja w tym gÅ‚owa, Å¼eby jÄ… zniszczyÄ‡.}
+{474}{}{Dobry pomysÅ‚. Powinna pani zniszczyÄ‡ tÄ™ aparaturÄ™.}
+{475}{}{W takim razie wrÃ³cÄ™ pÃ³Åºniej.}
 {480}{}{... Jest w podziemiach starej stacji kolejowej, za naszym domem!}
-{481}{}{Zniszcz j¹! Rozerwij na strzêpy! Niech NIC z niej nie zostanie!}
-{482}{}{W porz¹dku...}
-{490}{}{Tak w³aœnie zrobiê! (Podwija rêkawy. Ku twojemu ogromnemu zdziwieniu ma bicepsy jak drwal.) Dziêkujê za otwarcie mi oczu. Sprowadzê mojego mê¿a na prost¹ drogê, nawet, gdyby mia³o go to ZABIÆ.}
-{491}{}{Có¿, mi³ej zabawy przy szturmowaniu zamku.}
-{500}{}{(Widzisz Ethyl. Widz¹c ciê unosi brwi) Czy ju¿...?}
-{501}{}{Rozwalona na strzêpy. Nic z niej nie zosta³o. Sprawa za³atwiona.}
+{481}{}{Zniszcz jÄ…! Rozerwij na strzÄ™py! Niech NIC z niej nie zostanie!}
+{482}{}{W porzÄ…dku...}
+{490}{}{Tak wÅ‚aÅ›nie zrobiÄ™! (Podwija rÄ™kawy. Ku twojemu ogromnemu zdziwieniu ma bicepsy jak drwal.) DziÄ™kujÄ™ za otwarcie mi oczu. SprowadzÄ™ mojego mÄ™Å¼a na prostÄ… drogÄ™, nawet, gdyby miaÅ‚o go to ZABIÄ†.}
+{491}{}{CÃ³Å¼, miÅ‚ej zabawy przy szturmowaniu zamku.}
+{500}{}{(Widzisz Ethyl. WidzÄ…c ciÄ™ unosi brwi) Czy juÅ¼...?}
+{501}{}{Rozwalona na strzÄ™py. Nic z niej nie zostaÅ‚o. Sprawa zaÅ‚atwiona.}
 {502}{}{Jeszcze nie. Gdzie jest ta aparatura?}
-{503}{}{Nie, aparatura jeszcze nie zosta³a zniszczona. Wrócê, kiedy bêdzie po wszystkim.}
-{510}{}{Jest w podziemiach stacji kolejowej, w pobli¿u naszego domu! Zniszcz j¹! Rozerwij na strzêpy! Niech NIC z niej nie zostanie!}
-{512}{}{Wrócê, kiedy bêdzie po wszystkim.}
-{515}{}{(£za sp³ywa jej po policzku.) Dziêkujê ci. Uda³o ci siê poskromiæ straszliwe z³o, czaj¹ce siê w Nowym Reno. Nie wiem, jak mam ci dziêkowaæ...}
-{516}{}{Nie ma o czym mówiæ. Do zobaczenia, pani Wright.}
-{517}{}{Trochê u mnie cienko z gotówk¹...}
-{520}{}{Na to mo¿emy ³atwo zaradziæ. ChodŸ za mn¹.}
-{521}{}{(IdŸ za ni¹.)}
-{522}{}{Prawdê mówi¹c, to nie musi mi siê pani odwdziêczaæ. Do zobaczenia, pani Wright.}
-{525}{}{Proszê bardzo. Wszystko, co znajduje siê w tej szafce jest twoje. Pieni¹dze na podró¿... i porêczne narzêdzie, które s³u¿y³o mi do wbijania rozumu w niektóre szczególnie zakute pa³y. Dziêkujê ci za wszystko.}
-{526}{}{To ja pani dziêkujê, pani Wright.}
-{530}{}{Dziêkujê za pomoc, }
-{535}{}{Nowe Reno nie mo¿e istnieæ wy³¹cznie dziêki zyskom z hazardu, alkoholu i prostytucji! Co to, to nie! Nie, dopóki Ethyl Wright tu rz¹dzi! Ha!}
-{536}{}{Ale ludzie LUBI¥ hazard, gorza³ê i dziwki. Popatrz choæby na mnie...}
-{539}{}{Przykro mi, ale mam jeszcze kilka pilnych spraw do za³atwienia.}
-{540}{}{(Nadyma siê.) Mo¿e publiczne oczernianie obcych ludzi jest standartow¹ praktyk¹ w twoim plemieniu, ale w Nowym Reno trzeba mieæ nie lada tupet, ¿eby szkalowaæ przy mnie mojego mê¿a!}
-{541}{}{S³uchaj, ja tylko twierdzê...}
-{542}{}{Prawda kole w oczy. Widzê, ¿e nie bêdzie ci ³atwo. Do widzenia.}
-{543}{}{Jak sobie chcesz. ¯egnam.}
-{545}{}{Co wiêcej, mój m¹¿ zobowi¹za³ siê pomóc mi w sprowadzaniu na dobr¹ drogê wszystkich zb³¹kanych owieczek. Jak ci nie wstyd! Podejrzewaæ mojego mê¿a o sprzedawanie alkoholu innym ludziom to...}
-{546}{}{To prawda, pani Wright. Pani m¹¿ handluje alkoholem w Nowym Reno. Nie jest chlub¹, tylko zaka³¹ tego miasta. Nich mi pani pomo¿e, a wspólnie po³o¿ymy kres temu paskudnemu procederowi.}
-{547}{}{Jeœli mi pani nie wierzy, proszê zajrzeæ na stacjê kolejow¹. Przekona siê pani na w³asne oczy.}
-{548}{}{Widzê, ¿e nie mamy chwilowo o czym rozmawiaæ. Udowodniê pani, ¿e mówiê prawdê.}
-{550}{}{Ale nie chcê, ¿eby moim dzieciom sta³a siê krzywda. ¯adnego wymachiwania broni¹! To nie s¹ Ÿli ludzie, po prostu dali siê... oszukaæ. Zrobiê wszystko, ¿eby to zmieniæ...}
-{551}{}{Dobrze, proszê siê nie obawiaæ... nikomu nie stanie siê krzywda.}
-{552}{}{Wrócê, kiedy bêdzie po wszystkim. Muszê najpierw za³atwiæ kilka pilnych spraw.}
-{553}{}{Niestety, nie mogê pani tego obiecaæ... Mo¿e powinna pani poszukaæ sobie kogoœ innego do pomocy.}
-{1251}{}{. Chcê pani¹ o coœ zapytaæ...}
+{503}{}{Nie, aparatura jeszcze nie zostaÅ‚a zniszczona. WrÃ³cÄ™, kiedy bÄ™dzie po wszystkim.}
+{510}{}{Jest w podziemiach stacji kolejowej, w pobliÅ¼u naszego domu! Zniszcz jÄ…! Rozerwij na strzÄ™py! Niech NIC z niej nie zostanie!}
+{512}{}{WrÃ³cÄ™, kiedy bÄ™dzie po wszystkim.}
+{515}{}{(Åza spÅ‚ywa jej po policzku.) DziÄ™kujÄ™ ci. UdaÅ‚o ci siÄ™ poskromiÄ‡ straszliwe zÅ‚o, czajÄ…ce siÄ™ w Nowym Reno. Nie wiem, jak mam ci dziÄ™kowaÄ‡...}
+{516}{}{Nie ma o czym mÃ³wiÄ‡. Do zobaczenia, pani Wright.}
+{517}{}{TrochÄ™ u mnie cienko z gotÃ³wkÄ…...}
+{520}{}{Na to moÅ¼emy Å‚atwo zaradziÄ‡. ChodÅº za mnÄ….}
+{521}{}{(IdÅº za niÄ….)}
+{522}{}{PrawdÄ™ mÃ³wiÄ…c, to nie musi mi siÄ™ pani odwdziÄ™czaÄ‡. Do zobaczenia, pani Wright.}
+{525}{}{ProszÄ™ bardzo. Wszystko, co znajduje siÄ™ w tej szafce jest twoje. PieniÄ…dze na podrÃ³Å¼... i porÄ™czne narzÄ™dzie, ktÃ³re sÅ‚uÅ¼yÅ‚o mi do wbijania rozumu w niektÃ³re szczegÃ³lnie zakute paÅ‚y. DziÄ™kujÄ™ ci za wszystko.}
+{526}{}{To ja pani dziÄ™kujÄ™, pani Wright.}
+{530}{}{DziÄ™kujÄ™ za pomoc, }
+{535}{}{Nowe Reno nie moÅ¼e istnieÄ‡ wyÅ‚Ä…cznie dziÄ™ki zyskom z hazardu, alkoholu i prostytucji! Co to, to nie! Nie, dopÃ³ki Ethyl Wright tu rzÄ…dzi! Ha!}
+{536}{}{Ale ludzie LUBIÄ„ hazard, gorzaÅ‚Ä™ i dziwki. Popatrz choÄ‡by na mnie...}
+{539}{}{Przykro mi, ale mam jeszcze kilka pilnych spraw do zaÅ‚atwienia.}
+{540}{}{(Nadyma siÄ™.) MoÅ¼e publiczne oczernianie obcych ludzi jest standartowÄ… praktykÄ… w twoim plemieniu, ale w Nowym Reno trzeba mieÄ‡ nie lada tupet, Å¼eby szkalowaÄ‡ przy mnie mojego mÄ™Å¼a!}
+{541}{}{SÅ‚uchaj, ja tylko twierdzÄ™...}
+{542}{}{Prawda kole w oczy. WidzÄ™, Å¼e nie bÄ™dzie ci Å‚atwo. Do widzenia.}
+{543}{}{Jak sobie chcesz. Å»egnam.}
+{545}{}{Co wiÄ™cej, mÃ³j mÄ…Å¼ zobowiÄ…zaÅ‚ siÄ™ pomÃ³c mi w sprowadzaniu na dobrÄ… drogÄ™ wszystkich zbÅ‚Ä…kanych owieczek. Jak ci nie wstyd! PodejrzewaÄ‡ mojego mÄ™Å¼a o sprzedawanie alkoholu innym ludziom to...}
+{546}{}{To prawda, pani Wright. Pani mÄ…Å¼ handluje alkoholem w Nowym Reno. Nie jest chlubÄ…, tylko zakaÅ‚Ä… tego miasta. Nich mi pani pomoÅ¼e, a wspÃ³lnie poÅ‚oÅ¼ymy kres temu paskudnemu procederowi.}
+{547}{}{JeÅ›li mi pani nie wierzy, proszÄ™ zajrzeÄ‡ na stacjÄ™ kolejowÄ…. Przekona siÄ™ pani na wÅ‚asne oczy.}
+{548}{}{WidzÄ™, Å¼e nie mamy chwilowo o czym rozmawiaÄ‡. UdowodniÄ™ pani, Å¼e mÃ³wiÄ™ prawdÄ™.}
+{550}{}{Ale nie chcÄ™, Å¼eby moim dzieciom staÅ‚a siÄ™ krzywda. Å»adnego wymachiwania broniÄ…! To nie sÄ… Åºli ludzie, po prostu dali siÄ™... oszukaÄ‡. ZrobiÄ™ wszystko, Å¼eby to zmieniÄ‡...}
+{551}{}{Dobrze, proszÄ™ siÄ™ nie obawiaÄ‡... nikomu nie stanie siÄ™ krzywda.}
+{552}{}{WrÃ³cÄ™, kiedy bÄ™dzie po wszystkim. MuszÄ™ najpierw zaÅ‚atwiÄ‡ kilka pilnych spraw.}
+{553}{}{Niestety, nie mogÄ™ pani tego obiecaÄ‡... MoÅ¼e powinna pani poszukaÄ‡ sobie kogoÅ› innego do pomocy.}
+{1251}{}{. ChcÄ™ paniÄ… o coÅ› zapytaÄ‡...}
 {1415}{}{(Podskakuje.) Ojej! (Zezuje na ciebie, wydyma usta.) A niech mnie...! }
 {1430}{}{(Podskakuje.) Ojej! }
-{1431}{}{(Obrzuca ciê szybkim spojrzeniem, jej twarz natychmiast zastyga w niemi³ym grymasie.) }
-{1480}{}{Naprawdê? Ja... có¿, dobrze... (Znowu siê rozkrêca) }
-{1530}{}{. Dopilujê, ¿eby rodzina Wrightów nigdy ju¿ nie zesz³a z prostej œcie¿ki.}
+{1431}{}{(Obrzuca ciÄ™ szybkim spojrzeniem, jej twarz natychmiast zastyga w niemiÅ‚ym grymasie.) }
+{1480}{}{NaprawdÄ™? Ja... cÃ³Å¼, dobrze... (Znowu siÄ™ rozkrÄ™ca) }
+{1530}{}{. DopilujÄ™, Å¼eby rodzina WrightÃ³w nigdy juÅ¼ nie zeszÅ‚a z prostej Å›cieÅ¼ki.}

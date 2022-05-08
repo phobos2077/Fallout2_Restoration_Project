@@ -1,6 +1,6 @@
 {100}{}{Zsoldos.}
-{101}{}{Fiúk, új céltábla!}
-{102}{}{Könny? célpont.}
-{103}{}{Rohanj... szeretem a mozgó célpontokat.}
-{104}{}{Halálzóna!}
-{105}{}{Ellenséges er? bemérve!}
+{101}{}{FiÃºk, Ãºj cÃ©ltÃ¡bla!}
+{102}{}{KÃ¶nny? cÃ©lpont.}
+{103}{}{Rohanj... szeretem a mozgÃ³ cÃ©lpontokat.}
+{104}{}{HalÃ¡lzÃ³na!}
+{105}{}{EllensÃ©ges er? bemÃ©rve!}

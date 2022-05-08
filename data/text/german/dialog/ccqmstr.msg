@@ -1,20 +1,20 @@
-{100}{}{Du siehst jemanden in Powerrüstung.}
+{100}{}{Du siehst jemanden in PowerrÃ¼stung.}
 {101}{}{Du siehst den Quartiermeister.}
-{102}{}{Du siehst jemanden in einer Powerrüstung von ungewöhnlichem Aussehen. Auf der Brustplatte
+{102}{}{Du siehst jemanden in einer PowerrÃ¼stung von ungewÃ¶hnlichem Aussehen. Auf der Brustplatte
  befindet sich ein Abzeichen, das du nicht kennst.}
 {103}{}{Wer zum Teufel seid ihr... Alarm! Eindringlinge in der Basis!}
-{104}{}{Was zum...Ich weiß schon, was du hier willst. Offensichtlich willst du den uralten Anzug
+{104}{}{Was zum...Ich weiÃŸ schon, was du hier willst. Offensichtlich willst du den uralten Anzug
  loswerden, den du da anhast.}
-{105}{}{Warum trägst du keine Uniform, Soldat?}
+{105}{}{Warum trÃ¤gst du keine Uniform, Soldat?}
 {106}{}{Stirb!}
-{107}{}{Äh, ja...}
-{108}{}{Äh...}
+{107}{}{Ã„h, ja...}
+{108}{}{Ã„h...}
 {109}{}{Ich neu hier.}
 {110}{}{Ich nix Soldat!}
-{111}{}{Äh, naja...}
+{111}{}{Ã„h, naja...}
 {112}{}{Ich bin neu hier.}
 {113}{}{Ich bin kein Soldat!}
-{114}{}{Äh, was? Fällt dir keine gute Entschuldigung ein? Ich warte, Soldat!}
+{114}{}{Ã„h, was? FÃ¤llt dir keine gute Entschuldigung ein? Ich warte, Soldat!}
 {115}{}{Ich noch nix Uniform.}
 {116}{}{Ich habe noch keine Uniform.}
 {117}{}{Bist einer von den Langsamen, was? (Seufz) Naja, ist ja nicht deine Schuld. Ich hab 'nen
@@ -22,13 +22,13 @@
 {118}{}{Bist du neu hier? Ich kann mich nicht erinnern, dich je gesehen zu haben.}
 {119}{}{Ja! Ich neu hier!}
 {120}{}{Ja, ich bin neu hier.}
-{121}{}{Dann brauchst du eine Grundausrüstung. Geh in die Waffenkammer, hol dir 'nen Anzug und
+{121}{}{Dann brauchst du eine GrundausrÃ¼stung. Geh in die Waffenkammer, hol dir 'nen Anzug und
  nimm deine Waffe. Danach musst du dich beim Ausbildungs-Sergeant melden.}
 {122}{}{Danke auch!}
-{123}{}{Gern geschehen. Jetzt raus mit dir. Ich muss arbeiten und will dabei nicht gestört werden.}
+{123}{}{Gern geschehen. Jetzt raus mit dir. Ich muss arbeiten und will dabei nicht gestÃ¶rt werden.}
 {124}{}{Ich hab jetzt zu tun, komm nachher wieder.}
 {125}{}{Hallo, Rekrut. Ich hab gerade 'nen Anruf von deinem Sergeant erhalten. Er sagt, ich soll
- dich ausrüsten und wieder zurückschicken. Stimmt das?}
+ dich ausrÃ¼sten und wieder zurÃ¼ckschicken. Stimmt das?}
 {126}{}{Ja.}
 {127}{}{Die Basis befindet sich in Alarmbereitschaft und ich kenne dich nicht. Zeig mir deine
  Papiere, Soldat.}

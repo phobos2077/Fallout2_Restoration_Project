@@ -1,13 +1,13 @@
-{100}{}{Un conducto de ventilaci髇 abastece de aire limpio a todo el complejo del Refugio. Puedes escuchar un d閎il traqueteo desde el interior del conducto.}
-{101}{}{Ves un conducto de ventilaci髇. }
-{102}{}{Un conducto de ventilaci髇 abastece de aire limpio a todo el complejo del Refugio. Puedes escuchar un d閎il traqueteo desde el interior del conducto.}
-{103}{}{Un conducto de ventilaci髇 abastece de aire limpio a todo el complejo del Refugio.}
-{104}{}{Ves un conducto de ventilaci髇. }
-{105}{}{Un conducto de ventilaci髇 abastece de aire limpio a todo el complejo del Refugio.}
+{100}{}{Un conducto de ventilaci贸n abastece de aire limpio a todo el complejo del Refugio. Puedes escuchar un d茅bil traqueteo desde el interior del conducto.}
+{101}{}{Ves un conducto de ventilaci贸n. }
+{102}{}{Un conducto de ventilaci贸n abastece de aire limpio a todo el complejo del Refugio. Puedes escuchar un d茅bil traqueteo desde el interior del conducto.}
+{103}{}{Un conducto de ventilaci贸n abastece de aire limpio a todo el complejo del Refugio.}
+{104}{}{Ves un conducto de ventilaci贸n. }
+{105}{}{Un conducto de ventilaci贸n abastece de aire limpio a todo el complejo del Refugio.}
 {106}{}{::Traqueteo::}
 {107}{}{No parece haber nada en mal estado en este conducto, a tu parecer.}
 {108}{}{Abres el conducto y buscas la fuente de la que proviene el traqueteo. Palpas algo en su interior y decides sacarlo.}
-{109}{}{Parece como si alguien hubiera escondido esto en el conducto de ventilaci髇.}
-{110}{}{Abres el conducto y buscas la fuente de la obstrucci髇. Palpas algo en su interior y decides sacarlo.}
-{111}{}{Parece como si alguien hubiera escondido esto en el conducto de ventilaci髇.}
+{109}{}{Parece como si alguien hubiera escondido esto en el conducto de ventilaci贸n.}
+{110}{}{Abres el conducto y buscas la fuente de la obstrucci贸n. Palpas algo en su interior y decides sacarlo.}
+{111}{}{Parece como si alguien hubiera escondido esto en el conducto de ventilaci贸n.}
 {112}{}{Encuentro eso en respiradero.}

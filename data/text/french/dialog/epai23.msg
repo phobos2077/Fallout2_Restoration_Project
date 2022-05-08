@@ -1,7 +1,7 @@
 {100}{}{Tu vois un terminal.}
-{101}{}{C'est une unité de contrôle champ de force.}
-{200}{}{Terminal de contrôle des champs de force. Entrez la commande :}
-{201}{}{Désactiver les champs de force.}
+{101}{}{C'est une unitÃ© de contrÃ´le champ de force.}
+{200}{}{Terminal de contrÃ´le des champs de force. Entrez la commande :}
+{201}{}{DÃ©sactiver les champs de force.}
 {202}{}{[Quitter]}
-{203}{}{Tu manipules l'interface en vain. Tu es sûr qu'avec des compétences plus élevées, tu y arriverais.}
-{204}{}{[Après un certain temps de bricolage, un compte à rebours apparaît sur l'écran avec comme message.] Sortie des créatures...}
+{203}{}{Tu manipules l'interface en vain. Tu es sÃ»r qu'avec des compÃ©tences plus Ã©levÃ©es, tu y arriverais.}
+{204}{}{[AprÃ¨s un certain temps de bricolage, un compte Ã  rebours apparaÃ®t sur l'Ã©cran avec comme message.] Sortie des crÃ©atures...}

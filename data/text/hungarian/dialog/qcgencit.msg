@@ -1,53 +1,53 @@
-{100}{}{Egy menedék-ruhát visel? ember.}
-{101}{}{Az Enklávé egyik polgárát látod.}
-{102}{}{Egy kicsit sápadt, de fitt polgárt látsz.}
-{103}{}{Akár pihenhetnénk is egy kicsit?}
-{104}{}{Kíváncsi vagyok, mi lesz a film a biztonsági gyakorlaton.}
+{100}{}{Egy menedÃ©k-ruhÃ¡t visel? ember.}
+{101}{}{Az EnklÃ¡vÃ© egyik polgÃ¡rÃ¡t lÃ¡tod.}
+{102}{}{Egy kicsit sÃ¡padt, de fitt polgÃ¡rt lÃ¡tsz.}
+{103}{}{AkÃ¡r pihenhetnÃ©nk is egy kicsit?}
+{104}{}{KÃ­vÃ¡ncsi vagyok, mi lesz a film a biztonsÃ¡gi gyakorlaton.}
 {105}{}{Mi vagy te?}
-{106}{}{Az id?járás itt mindig ugyanolyan.}
-{107}{}{A Projekt jól halad.}
-{108}{}{Ez a Bird alelnök tiszta szégyen.}
-{109}{}{Mindjárt kezd?dik a következ? m?szakom.}
-{110}{}{Isten áldja Amerikát!}
-{111}{}{A Projekt a megváltónk!}
-{112}{}{Még szerencse, hogy nem vagyunk a szárazföldön!}
-{113}{}{Csak egy újabb gyakorlat.}
-{114}{}{Mi ez a felhajtás?}
-{115}{}{Ez a reaktor szirénája!}
+{106}{}{Az id?jÃ¡rÃ¡s itt mindig ugyanolyan.}
+{107}{}{A Projekt jÃ³l halad.}
+{108}{}{Ez a Bird alelnÃ¶k tiszta szÃ©gyen.}
+{109}{}{MindjÃ¡rt kezd?dik a kÃ¶vetkez? m?szakom.}
+{110}{}{Isten Ã¡ldja AmerikÃ¡t!}
+{111}{}{A Projekt a megvÃ¡ltÃ³nk!}
+{112}{}{MÃ©g szerencse, hogy nem vagyunk a szÃ¡razfÃ¶ldÃ¶n!}
+{113}{}{Csak egy Ãºjabb gyakorlat.}
+{114}{}{Mi ez a felhajtÃ¡s?}
+{115}{}{Ez a reaktor szirÃ©nÃ¡ja!}
 {116}{}{H?ha.}
 {117}{}{Jobb ha beszerzek egy kis Rad-X-et.}
 {118}{}{Ez a szar mindig elromlik!}
-{119}{}{Azt hiszem, leégtem.}
-{120}{}{Lesz még melegebb is itt?}
-{121}{}{Ez nem jó.}
-{122}{}{Picsába, picsába és a jó büdös picsába!}
-{123}{}{Hol a légz?maszkom?}
+{119}{}{Azt hiszem, leÃ©gtem.}
+{120}{}{Lesz mÃ©g melegebb is itt?}
+{121}{}{Ez nem jÃ³.}
+{122}{}{PicsÃ¡ba, picsÃ¡ba Ã©s a jÃ³ bÃ¼dÃ¶s picsÃ¡ba!}
+{123}{}{Hol a lÃ©gz?maszkom?}
 {124}{}{Mi ez a furcsa szag?}
-{125}{}{Nem érzem jól magam.}
-{126}{}{Leveg?t... ég a torkom.}
-{127}{}{Anyám, mik ezek a kelések itt?}
-{128}{}{Ég a tüd?m!}
+{125}{}{Nem Ã©rzem jÃ³l magam.}
+{126}{}{Leveg?t... Ã©g a torkom.}
+{127}{}{AnyÃ¡m, mik ezek a kelÃ©sek itt?}
+{128}{}{Ã‰g a tÃ¼d?m!}
 {129}{}{Azt hiszem, elkelne egy kis friss leveg?.}
-{130}{}{Mi a fene? Sötétedik?}
-{131}{}{Álmos vagyok! Pihennem kell!}
-{132}{}{Azt hiszem, le kell ülnöm egy kicsit.}
-{133}{}{Még egy gyakorlat?}
-{134}{}{Nem lövések voltak ezek?}
-{135}{}{Hé, ki vagy te?}
-{136}{}{Várj! Mi folyik itt?}
-{137}{}{Már elegem van ezekb?l az örökös gyakorlatokból!}
-{138}{}{Igen, azt hiszem, megvan a behatoló!}
-{139}{}{Ne aggódj miatta!}
-{140}{}{A katonák majd vigyáznak ránk.}
-{141}{}{Hol van egy katona, amikor szükség van rá?}
+{130}{}{Mi a fene? SÃ¶tÃ©tedik?}
+{131}{}{Ãlmos vagyok! Pihennem kell!}
+{132}{}{Azt hiszem, le kell Ã¼lnÃ¶m egy kicsit.}
+{133}{}{MÃ©g egy gyakorlat?}
+{134}{}{Nem lÃ¶vÃ©sek voltak ezek?}
+{135}{}{HÃ©, ki vagy te?}
+{136}{}{VÃ¡rj! Mi folyik itt?}
+{137}{}{MÃ¡r elegem van ezekb?l az Ã¶rÃ¶kÃ¶s gyakorlatokbÃ³l!}
+{138}{}{Igen, azt hiszem, megvan a behatolÃ³!}
+{139}{}{Ne aggÃ³dj miatta!}
+{140}{}{A katonÃ¡k majd vigyÃ¡znak rÃ¡nk.}
+{141}{}{Hol van egy katona, amikor szÃ¼ksÃ©g van rÃ¡?}
 {142}{}{Nyugton kell maradnom, nyugton kell maradnom!!!}
-{143}{}{Ezzel sose készülök el.}
-{144}{}{Inkább lennék máshol.}
-{145}{}{Az a terminál-kezel? bizony csinos volt!}
-{146}{}{Ennek nincs értelme!}
-{147}{}{Ezt a szemét munkát csinálom látástól vakulásig, és még meg sem fizetnek érte.}
-{148}{}{Mindenki más munkáját is én végzem.}
-{149}{}{Miért nem azt csinálják az emberek, amit kellene?}
-{150}{}{Figyelj! Ha a számítógép nem m?ködik, fogj egy kalapácsot! Az mindig segít!}
-{151}{}{Imádom ezt a játékot! Csak nehogy valaki észrevegyen!}
-{152}{}{Kéne egy kis koffein.}
+{143}{}{Ezzel sose kÃ©szÃ¼lÃ¶k el.}
+{144}{}{InkÃ¡bb lennÃ©k mÃ¡shol.}
+{145}{}{Az a terminÃ¡l-kezel? bizony csinos volt!}
+{146}{}{Ennek nincs Ã©rtelme!}
+{147}{}{Ezt a szemÃ©t munkÃ¡t csinÃ¡lom lÃ¡tÃ¡stÃ³l vakulÃ¡sig, Ã©s mÃ©g meg sem fizetnek Ã©rte.}
+{148}{}{Mindenki mÃ¡s munkÃ¡jÃ¡t is Ã©n vÃ©gzem.}
+{149}{}{MiÃ©rt nem azt csinÃ¡ljÃ¡k az emberek, amit kellene?}
+{150}{}{Figyelj! Ha a szÃ¡mÃ­tÃ³gÃ©p nem m?kÃ¶dik, fogj egy kalapÃ¡csot! Az mindig segÃ­t!}
+{151}{}{ImÃ¡dom ezt a jÃ¡tÃ©kot! Csak nehogy valaki Ã©szrevegyen!}
+{152}{}{KÃ©ne egy kis koffein.}

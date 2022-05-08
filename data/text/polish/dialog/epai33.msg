@@ -1,4 +1,4 @@
-{100}{}{Sprawdzê to za kilka dni.}
-{101}{}{Coœ ju¿ tu jest posadzone. Nie ma miejsca na nic innego.}
-{102}{}{Powinienem je zachowaæ dla Arroyo. Nie ma sensu ich tu marnowaæ.}
+{100}{}{SprawdzÄ™ to za kilka dni.}
+{101}{}{CoÅ› juÅ¼ tu jest posadzone. Nie ma miejsca na nic innego.}
+{102}{}{Powinienem je zachowaÄ‡ dla Arroyo. Nie ma sensu ich tu marnowaÄ‡.}
 {200}{}{Sadzisz nasiona w ziemi.}

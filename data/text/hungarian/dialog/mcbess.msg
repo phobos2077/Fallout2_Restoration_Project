@@ -1,18 +1,18 @@
-{100}{}{A nyakörvére biggyesztett cimke szerint a neve Bess.}
+{100}{}{A nyakÃ¶rvÃ©re biggyesztett cimke szerint a neve Bess.}
 {101}{}{Ez itt Bess.}
 {110}{}{It looks like it's been attacked by some wild animal. It's hurt pretty bad.}
-{111}{}{Ez egy remek brahmin. Bárki büszke lenne, ha magáénak tudhatná.}
-{120}{}{Múúúúúú!}
-{121}{}{[Szegény brahmin... jól megsérült]}
-{130}{}{Múúúúúúúúú.}
-{131}{}{[Bess megereszt egy mély, gyászos múúúút.]}
-{132}{}{Szegény leányzó - talán nem kéne szárított húst csinálni bel?led. Ki akarsz jutni?}
-{133}{}{Bizony! Jó kis szárított hús lesz bel?led. Viszlát!}
-{140}{}{Múúúúúúú.}
-{141}{}{[Ez a múú most sokkal boldogabbnak t?nt]}
-{142}{}{Na, akkor húzzunk el innen.}
-{143}{}{Csak vicceltem. A szárított húsra jobban fáj a fogam, mint amennyire szükségem van rád.}
-{150}{}{Múúú.}
-{200}{}{Az els?segély nem elég, hogy helyre tudd tenni a szegény brahmin törött lábát.}
+{111}{}{Ez egy remek brahmin. BÃ¡rki bÃ¼szke lenne, ha magÃ¡Ã©nak tudhatnÃ¡.}
+{120}{}{MÃºÃºÃºÃºÃºÃº!}
+{121}{}{[SzegÃ©ny brahmin... jÃ³l megsÃ©rÃ¼lt]}
+{130}{}{MÃºÃºÃºÃºÃºÃºÃºÃºÃº.}
+{131}{}{[Bess megereszt egy mÃ©ly, gyÃ¡szos mÃºÃºÃºÃºt.]}
+{132}{}{SzegÃ©ny leÃ¡nyzÃ³ - talÃ¡n nem kÃ©ne szÃ¡rÃ­tott hÃºst csinÃ¡lni bel?led. Ki akarsz jutni?}
+{133}{}{Bizony! JÃ³ kis szÃ¡rÃ­tott hÃºs lesz bel?led. ViszlÃ¡t!}
+{140}{}{MÃºÃºÃºÃºÃºÃºÃº.}
+{141}{}{[Ez a mÃºÃº most sokkal boldogabbnak t?nt]}
+{142}{}{Na, akkor hÃºzzunk el innen.}
+{143}{}{Csak vicceltem. A szÃ¡rÃ­tott hÃºsra jobban fÃ¡j a fogam, mint amennyire szÃ¼ksÃ©gem van rÃ¡d.}
+{150}{}{MÃºÃºÃº.}
+{200}{}{Az els?segÃ©ly nem elÃ©g, hogy helyre tudd tenni a szegÃ©ny brahmin tÃ¶rÃ¶tt lÃ¡bÃ¡t.}
 {300}{}{You successfully heal the brahmin's broken leg.}
-{310}{}{Nem sikerült lekezelni a brahmin törött lábát.}
+{310}{}{Nem sikerÃ¼lt lekezelni a brahmin tÃ¶rÃ¶tt lÃ¡bÃ¡t.}

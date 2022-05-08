@@ -1,84 +1,84 @@
-{100}{}{A férfi úgy néz ki, mint egy eladó.}
+{100}{}{A fÃ©rfi Ãºgy nÃ©z ki, mint egy eladÃ³.}
 {101}{}{Lao Chou, a boltos.}
-{102}{}{Az illet? praktikus, kényelmes öltözéket visel.}
-{103}{}{Légy üdvözölve az üzletemben, a Repül? Sárkány 8-ban.}
-{104}{}{Mit tehetek magáért?}
+{102}{}{Az illet? praktikus, kÃ©nyelmes Ã¶ltÃ¶zÃ©ket visel.}
+{103}{}{LÃ©gy Ã¼dvÃ¶zÃ¶lve az Ã¼zletemben, a RepÃ¼l? SÃ¡rkÃ¡ny 8-ban.}
+{104}{}{Mit tehetek magÃ¡Ã©rt?}
 {105}{}{Da aggle oo!}
 {106}{}{Cucc!}
 {107}{}{Ki vagy te?}
-{108}{}{Felszereléseket szeretnék venni.}
-{109}{}{Információt szeretnék.}
-{110}{}{Viszlát!}
-{111}{}{Vásárolni akarsz valamit?}
-{112}{}{::bólintasz::}
-{113}{}{::megrázod a fejed::}
-{114}{}{Ezzel szolgálhatok.}
+{108}{}{FelszerelÃ©seket szeretnÃ©k venni.}
+{109}{}{InformÃ¡ciÃ³t szeretnÃ©k.}
+{110}{}{ViszlÃ¡t!}
+{111}{}{VÃ¡sÃ¡rolni akarsz valamit?}
+{112}{}{::bÃ³lintasz::}
+{113}{}{::megrÃ¡zod a fejed::}
+{114}{}{Ezzel szolgÃ¡lhatok.}
 {115}{}{[DONE]}
-{116}{}{Nos, ennél többet nem tehetek érted. Minden jót!}
+{116}{}{Nos, ennÃ©l tÃ¶bbet nem tehetek Ã©rted. Minden jÃ³t!}
 {117}{}{[DONE]}
-{118}{}{Lao Chou vagyok. Én vezetem ezt a vegyesboltot, a Repül? Sárkány 8-at. Olyan embernek ismernek engem, aki... információkban utazik...}
-{119}{}{Miféle információra gondoltál?}
-{120}{}{Értem. Vethetek egy pillantást a felszereléseidre?}
-{121}{}{Kevés olyan dolog történik a városban, amir?l ne tudnék. Persze csak a megfelel? kérdést kell feltenned ugyebár... Mit szeretnél tudni?}
-{122}{}{Szeretnék tuningokat egyes cuccaimhoz.}
-{123}{}{Hol találom meg a gépmadár terveit?}
-{124}{}{Üzemanyagot szeretnék találni a POT Valdez számára.}
-{125}{}{Rájöttem, hogy szükség van egy FBK-ra, hogy kezelhessem a Valdez számítógépét.}
-{126}{}{Kéne néhány számítógép-alkatrész a POT Valdez m?ködtetéséhez.}
-{127}{}{Egy lép nyomában kutatok.}
-{128}{}{Úgy hallottam, egy repül? alkalmatosság falusiakat hozott errefelé.}
-{129}{}{Semmit. Viszlát!}
+{118}{}{Lao Chou vagyok. Ã‰n vezetem ezt a vegyesboltot, a RepÃ¼l? SÃ¡rkÃ¡ny 8-at. Olyan embernek ismernek engem, aki... informÃ¡ciÃ³kban utazik...}
+{119}{}{MifÃ©le informÃ¡ciÃ³ra gondoltÃ¡l?}
+{120}{}{Ã‰rtem. Vethetek egy pillantÃ¡st a felszerelÃ©seidre?}
+{121}{}{KevÃ©s olyan dolog tÃ¶rtÃ©nik a vÃ¡rosban, amir?l ne tudnÃ©k. Persze csak a megfelel? kÃ©rdÃ©st kell feltenned ugyebÃ¡r... Mit szeretnÃ©l tudni?}
+{122}{}{SzeretnÃ©k tuningokat egyes cuccaimhoz.}
+{123}{}{Hol talÃ¡lom meg a gÃ©pmadÃ¡r terveit?}
+{124}{}{Ãœzemanyagot szeretnÃ©k talÃ¡lni a POT Valdez szÃ¡mÃ¡ra.}
+{125}{}{RÃ¡jÃ¶ttem, hogy szÃ¼ksÃ©g van egy FBK-ra, hogy kezelhessem a Valdez szÃ¡mÃ­tÃ³gÃ©pÃ©t.}
+{126}{}{KÃ©ne nÃ©hÃ¡ny szÃ¡mÃ­tÃ³gÃ©p-alkatrÃ©sz a POT Valdez m?kÃ¶dtetÃ©sÃ©hez.}
+{127}{}{Egy lÃ©p nyomÃ¡ban kutatok.}
+{128}{}{Ãšgy hallottam, egy repÃ¼l? alkalmatossÃ¡g falusiakat hozott errefelÃ©.}
+{129}{}{Semmit. ViszlÃ¡t!}
 {130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
-{131}{}{Köszönöm. Szeretnék még egy-két infót.}
-{132}{}{Kösz. Viszlát!}
-{133}{}{Kutakodj északon, Navarróban! A benzinkút közelében van egy titkos bázisuk.}
-{134}{}{Köszönöm. Szeretnék még egy-két infót.}
-{135}{}{Kösz. Viszlát!}
-{136}{}{Próbáltad már a régi Menedékekben? Úgy hallottam, hogy az ?sök rakás információját és technológiáját tárolják odalenn.}
-{137}{}{Köszönöm. Szeretnék még egy-két infót.}
-{138}{}{Kösz. Viszlát!}
-{139}{}{Egy lép nyomában? Haha! Igen, Chip a Valdezr?l nemrég elvesztette a lépét kártyán. Eladtam Dr. Wongnak. Nagyon odavolt t?le.}
-{140}{}{Dr. Wong? Hol találom ?t?}
-{141}{}{Hogy lehet elveszteni egy lépet?}
-{142}{}{Köszi. Hadd kérdezzek egy s mást!}
-{143}{}{Ja, vagy úgy... Üdv!}
-{144}{}{Dr. Wong az Acél Palota f? kutatója. Keresd ott!}
-{145}{}{Hogy lehet egy lépet véletlenül elveszíteni?}
-{146}{}{Köszönöm. Szeretnék még egy-két infót.}
-{147}{}{Kösz. Viszlát!}
-{148}{}{Részeg volt. Nagyon, nagyon részeg. Egész éjszaka csak a lépére panaszkodott, aztán fogadott rá.}
-{149}{}{EZÉRT vetted ki a lépét?}
-{150}{}{Értem. Nos, még kérdeznék, ha nem gond.}
-{151}{}{Igen. Adósság volt, és ? becsületes ember.}
-{152}{}{Értem. Szeretnék még egy-két infót.}
+{131}{}{KÃ¶szÃ¶nÃ¶m. SzeretnÃ©k mÃ©g egy-kÃ©t infÃ³t.}
+{132}{}{KÃ¶sz. ViszlÃ¡t!}
+{133}{}{Kutakodj Ã©szakon, NavarrÃ³ban! A benzinkÃºt kÃ¶zelÃ©ben van egy titkos bÃ¡zisuk.}
+{134}{}{KÃ¶szÃ¶nÃ¶m. SzeretnÃ©k mÃ©g egy-kÃ©t infÃ³t.}
+{135}{}{KÃ¶sz. ViszlÃ¡t!}
+{136}{}{PrÃ³bÃ¡ltad mÃ¡r a rÃ©gi MenedÃ©kekben? Ãšgy hallottam, hogy az ?sÃ¶k rakÃ¡s informÃ¡ciÃ³jÃ¡t Ã©s technolÃ³giÃ¡jÃ¡t tÃ¡roljÃ¡k odalenn.}
+{137}{}{KÃ¶szÃ¶nÃ¶m. SzeretnÃ©k mÃ©g egy-kÃ©t infÃ³t.}
+{138}{}{KÃ¶sz. ViszlÃ¡t!}
+{139}{}{Egy lÃ©p nyomÃ¡ban? Haha! Igen, Chip a Valdezr?l nemrÃ©g elvesztette a lÃ©pÃ©t kÃ¡rtyÃ¡n. Eladtam Dr. Wongnak. Nagyon odavolt t?le.}
+{140}{}{Dr. Wong? Hol talÃ¡lom ?t?}
+{141}{}{Hogy lehet elveszteni egy lÃ©pet?}
+{142}{}{KÃ¶szi. Hadd kÃ©rdezzek egy s mÃ¡st!}
+{143}{}{Ja, vagy Ãºgy... Ãœdv!}
+{144}{}{Dr. Wong az AcÃ©l Palota f? kutatÃ³ja. Keresd ott!}
+{145}{}{Hogy lehet egy lÃ©pet vÃ©letlenÃ¼l elveszÃ­teni?}
+{146}{}{KÃ¶szÃ¶nÃ¶m. SzeretnÃ©k mÃ©g egy-kÃ©t infÃ³t.}
+{147}{}{KÃ¶sz. ViszlÃ¡t!}
+{148}{}{RÃ©szeg volt. Nagyon, nagyon rÃ©szeg. EgÃ©sz Ã©jszaka csak a lÃ©pÃ©re panaszkodott, aztÃ¡n fogadott rÃ¡.}
+{149}{}{EZÃ‰RT vetted ki a lÃ©pÃ©t?}
+{150}{}{Ã‰rtem. Nos, mÃ©g kÃ©rdeznÃ©k, ha nem gond.}
+{151}{}{Igen. AdÃ³ssÃ¡g volt, Ã©s ? becsÃ¼letes ember.}
+{152}{}{Ã‰rtem. SzeretnÃ©k mÃ©g egy-kÃ©t infÃ³t.}
 {153}{}{Te beteg vagy, vazger!}
-{154}{}{Szuper. Viszlát!}
-{155}{}{Te viszont becstelen ember vagy! Nem t?rlek a boltomban. Gyere vissza máskor!}
+{154}{}{Szuper. ViszlÃ¡t!}
+{155}{}{Te viszont becstelen ember vagy! Nem t?rlek a boltomban. Gyere vissza mÃ¡skor!}
 {156}{}{Ahogy gondolja.}
-{157}{}{Nem-nem. Észak fel?l jöttek, és elrepültek fölöttünk, egyenesen a nyílt tenger irányába.}
-{158}{}{A nyílt tenger irányába? Hogy a francba menjek arrafelé?}
-{159}{}{Aha, hát hogyne... Mondd el, hol vannak, miel?tt felbontalak, mint egy doboz szardíniát!}
-{160}{}{Az a nagy helyzet... hogy a hajóink egyike sem alkalmas olyan nagy távolság megtételére. Hacsak...}
+{157}{}{Nem-nem. Ã‰szak fel?l jÃ¶ttek, Ã©s elrepÃ¼ltek fÃ¶lÃ¶ttÃ¼nk, egyenesen a nyÃ­lt tenger irÃ¡nyÃ¡ba.}
+{158}{}{A nyÃ­lt tenger irÃ¡nyÃ¡ba? Hogy a francba menjek arrafelÃ©?}
+{159}{}{Aha, hÃ¡t hogyne... Mondd el, hol vannak, miel?tt felbontalak, mint egy doboz szardÃ­niÃ¡t!}
+{160}{}{Az a nagy helyzet... hogy a hajÃ³ink egyike sem alkalmas olyan nagy tÃ¡volsÃ¡g megtÃ©telÃ©re. Hacsak...}
 {161}{}{Hacsak...?}
-{162}{}{Kösz a "segítségért". Inkább valami használhatóbb tanács után nézek...}
-{163}{}{...hacsak nem tudod m?ködésre bírni a kiköt?ben vesztegl? ósdi tankert. ?srégi hajó ugyan, de ha egy kicsit foglalkozik vele az ember, még m?ködhet. Kérdezd az ottani punkokat, ha több információ kell!}
-{164}{}{Köszönöm. Szeretnék még egy-két infót.}
-{165}{}{Kösz. Viszlát!}
-{166}{}{Azt rebesgetik, hogy a Hubologisták nagy mennyiség? üzemanyagra tettek szert a közelmúltban. Próbálj velük egyezkedni!}
-{167}{}{Köszönöm. Szeretnék még egy-két infót.}
-{168}{}{Kösz. Viszlát!}
-{169}{}{Próbálkozz valamelyik Shi tudóssal az Acél Palotában! Talán sikerül megoldaniuk az üzemanyag-problémádat.}
-{170}{}{Köszönöm. Szeretnék még egy-két infót.}
-{171}{}{Kösz. Viszlát!}
-{172}{}{Te az ellenségünk vagy. Halál rád!}
-{173}{}{Azzal, hogy eltetted BHK-9-t láb alól, nagy szolgálatot tettél a népemnek. Remélem, valahogy a szolgálatodra lehetek.}
+{162}{}{KÃ¶sz a "segÃ­tsÃ©gÃ©rt". InkÃ¡bb valami hasznÃ¡lhatÃ³bb tanÃ¡cs utÃ¡n nÃ©zek...}
+{163}{}{...hacsak nem tudod m?kÃ¶dÃ©sre bÃ­rni a kikÃ¶t?ben vesztegl? Ã³sdi tankert. ?srÃ©gi hajÃ³ ugyan, de ha egy kicsit foglalkozik vele az ember, mÃ©g m?kÃ¶dhet. KÃ©rdezd az ottani punkokat, ha tÃ¶bb informÃ¡ciÃ³ kell!}
+{164}{}{KÃ¶szÃ¶nÃ¶m. SzeretnÃ©k mÃ©g egy-kÃ©t infÃ³t.}
+{165}{}{KÃ¶sz. ViszlÃ¡t!}
+{166}{}{Azt rebesgetik, hogy a HubologistÃ¡k nagy mennyisÃ©g? Ã¼zemanyagra tettek szert a kÃ¶zelmÃºltban. PrÃ³bÃ¡lj velÃ¼k egyezkedni!}
+{167}{}{KÃ¶szÃ¶nÃ¶m. SzeretnÃ©k mÃ©g egy-kÃ©t infÃ³t.}
+{168}{}{KÃ¶sz. ViszlÃ¡t!}
+{169}{}{PrÃ³bÃ¡lkozz valamelyik Shi tudÃ³ssal az AcÃ©l PalotÃ¡ban! TalÃ¡n sikerÃ¼l megoldaniuk az Ã¼zemanyag-problÃ©mÃ¡dat.}
+{170}{}{KÃ¶szÃ¶nÃ¶m. SzeretnÃ©k mÃ©g egy-kÃ©t infÃ³t.}
+{171}{}{KÃ¶sz. ViszlÃ¡t!}
+{172}{}{Te az ellensÃ©gÃ¼nk vagy. HalÃ¡l rÃ¡d!}
+{173}{}{Azzal, hogy eltetted BHK-9-t lÃ¡b alÃ³l, nagy szolgÃ¡latot tettÃ©l a nÃ©pemnek. RemÃ©lem, valahogy a szolgÃ¡latodra lehetek.}
 {174}{}{Ki vagy te?}
-{175}{}{Felszereléseket szeretnék venni.}
-{176}{}{Információt szeretnék.}
-{177}{}{Viszlát!}
-{178}{}{Már odaadtad a Hubologistáknak, nemde?}
-{179}{}{Ó, hogyne... ah... Kérdezhetek valami mást?}
-{180}{}{Ó, hogyne... na, üdv!}
+{175}{}{FelszerelÃ©seket szeretnÃ©k venni.}
+{176}{}{InformÃ¡ciÃ³t szeretnÃ©k.}
+{177}{}{ViszlÃ¡t!}
+{178}{}{MÃ¡r odaadtad a HubologistÃ¡knak, nemde?}
+{179}{}{Ã“, hogyne... ah... KÃ©rdezhetek valami mÃ¡st?}
+{180}{}{Ã“, hogyne... na, Ã¼dv!}
 {200}{}{What else can you tell me about the tanker?}
 {210}{}{Even if you could get the NavCom working and the tanker fueled up, you'll still need considerable good fortune
  if you really want the ship to sail again.}
@@ -105,7 +105,7 @@
 {271}{}{Submarine?}
 {280}{}{We have nothing further to discuss, then.}
 {281}{}{You sure? My lovely wife Miria will certainly make it worth your while.}
-{282}{}{Viszlát!}
+{282}{}{ViszlÃ¡t!}
 {285}{}{You drive a hard bargain. Fine, $1500.}
 {286}{}{Here you go. But your information better be worth it.}
 {287}{}{(Lao Chou pockets the $1500.) It's not the tanker that's special. It's just a big rusty tanker like you said.
@@ -113,7 +113,7 @@
 {288}{}{Submarine?}
 {290}{}{Well if you put it that way, I have been cooped up in this dusty shop for a long time. It has been a quite a while since
  I enjoyed the company of a charming woman like yourself.}
-{291}{}{[FOLYTATÁS]}
+{291}{}{[FOLYTATÃS]}
 {300}{}{[Hours past with no end in sight. You begin to suspect that Lao Chou may not be completely human. You black out, eventually.]}
 {301}{}{hhh... What happened?}
 {310}{}{You fainted as I moved us into the triple-lotus position, and I had to finish pleasuring myself with the grinning-panda kata.
@@ -155,11 +155,11 @@
 {452}{}{That's outrageous for a simple password. I'll only go as high as $5000.}
 {453}{}{Nincs alku.}
 {460}{}{Ah, much appreciated. The password is XY8QIV2SHI. Others may be watching me after this, so don't forget the password. If ever we discuss it again, I'll need even more money for bribes.}
-{461}{}{Köszönöm. Minden jót!}
+{461}{}{KÃ¶szÃ¶nÃ¶m. Minden jÃ³t!}
 {470}{}{You are a crafty one, I'll give you that. Fine. I accept your offer. The password is XY8QIV2SHI. Don't forget it, or you'll have buy it from me again.}
-{471}{}{Köszönöm. Minden jót!}
+{471}{}{KÃ¶szÃ¶nÃ¶m. Minden jÃ³t!}
 {480}{}{Don't insult me with your meager offers. $10000. Take it or leave it.}
 {481}{}{Fine. Here's your $10000.}
 {482}{}{Nincs alku.}
 {490}{}{Your loss then. I don't believe we have anything else to discuss. Goodbye.}
-{491}{}{Viszlát!}
+{491}{}{ViszlÃ¡t!}

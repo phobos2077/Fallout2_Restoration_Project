@@ -1,11 +1,11 @@
-{100}{}{Ves a... un modelo de héroe blanco.}
-{101}{}{Ves a un hombre blanco muy musculoso con un uniforme del Refugio 13. Está sonriendo y riendo mientras cuenta su historia.}
-{102}{}{Ves a un héroe de raza blanca. Sonríe y se ríe.}
-{103}{}{Ves a un héroe de raza blanca. Sonríe y se ríe.}
-{104}{}{Era casi imposible mantener vivo a Albóndiga en Fallout 1, especialmente al final.}
-{105}{}{¡No tenía la suficiente resistencia para el final del juego!}
-{106}{}{Me encantaba ese perro. Ojalá hubiera salido en el vídeo del final.}
-{107}{}{Hubo un jugador, Vince DeNardo, que tenía un truco para mantener vivo a Albóndiga hasta el final.}
+{100}{}{Ves a... un modelo de hÃ©roe blanco.}
+{101}{}{Ves a un hombre blanco muy musculoso con un uniforme del Refugio 13. EstÃ¡ sonriendo y riendo mientras cuenta su historia.}
+{102}{}{Ves a un hÃ©roe de raza blanca. SonrÃ­e y se rÃ­e.}
+{103}{}{Ves a un hÃ©roe de raza blanca. SonrÃ­e y se rÃ­e.}
+{104}{}{Era casi imposible mantener vivo a AlbÃ³ndiga en Fallout 1, especialmente al final.}
+{105}{}{Â¡No tenÃ­a la suficiente resistencia para el final del juego!}
+{106}{}{Me encantaba ese perro. OjalÃ¡ hubiera salido en el vÃ­deo del final.}
+{107}{}{Hubo un jugador, Vince DeNardo, que tenÃ­a un truco para mantener vivo a AlbÃ³ndiga hasta el final.}
 {108}{}{Lo encerraba en los campos de fuerza de cada nivel de la base para mantenerlo alejado del combate.}
-{109}{}{Lo malo era tener que hacerlo en cada nivel sin que los mutantes se cargaran a Albóndiga.}
-{110}{}{Creo que se salió con la suya.}
+{109}{}{Lo malo era tener que hacerlo en cada nivel sin que los mutantes se cargaran a AlbÃ³ndiga.}
+{110}{}{Creo que se saliÃ³ con la suya.}

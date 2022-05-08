@@ -1,1 +1,1 @@
-{100}{}{Você entrou nos tuneis subterrâneos de Gecko.}
+{100}{}{VocÃª entrou nos tuneis subterrÃ¢neos de Gecko.}

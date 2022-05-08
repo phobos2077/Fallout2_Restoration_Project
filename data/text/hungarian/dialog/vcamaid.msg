@@ -1,8 +1,8 @@
-{100}{}{Egy Polgárt látsz.}
-{101}{}{A Komfortfelel?st látod.}
-{102}{}{Beszélj Randallal ha segítségre van szükséged!}
-{103}{}{Ez az a hely ahol üzletelünk a Polgárokkal.}
-{104}{}{Tartsd a kezed távol az árumtól, ha nincs engedélyed!}
+{100}{}{Egy PolgÃ¡rt lÃ¡tsz.}
+{101}{}{A Komfortfelel?st lÃ¡tod.}
+{102}{}{BeszÃ©lj Randallal ha segÃ­tsÃ©gre van szÃ¼ksÃ©ged!}
+{103}{}{Ez az a hely ahol Ã¼zletelÃ¼nk a PolgÃ¡rokkal.}
+{104}{}{Tartsd a kezed tÃ¡vol az Ã¡rumtÃ³l, ha nincs engedÃ©lyed!}
 {105}{}{Ez egy munka.}
-{106}{}{Randal segíthet  megszerezni mindazt, amire szükséged van.}
-{107}{}{A Menedék gépei sok ilyet csinálnak.}
+{106}{}{Randal segÃ­thet  megszerezni mindazt, amire szÃ¼ksÃ©ged van.}
+{107}{}{A MenedÃ©k gÃ©pei sok ilyet csinÃ¡lnak.}

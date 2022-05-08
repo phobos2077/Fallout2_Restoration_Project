@@ -1,198 +1,198 @@
-{100}{}{Phyllis segédorvos.}
-{101}{}{Egy fiatal, sovány n?t látsz. Er?s fert?tlenít?szaga van.}
-{102}{}{Phyllis segédorvos.}
-{103}{}{Egy fiatal, sovány n?t látsz. Er?s fert?tlenít?szaga van.}
-{104}{}{Kockára tetted az életed, hogy megments minket! Te vagy a legbátrabb ember, akit valaha ismertem.}
-{105}{}{Behatoló! Áííííí! ?rség!}
-{106}{}{Egy mutáns! Aíííí! ?rség!}
-{107}{}{Egy ghoul! Aíííí! ?rség!}
-{108}{}{Gregorynak még ki kell nyomtatatnom néhány grafikont.}
-{109}{}{Nézzük csak, mi van még!  Három szolgának véd?oltást kell adnom 14 órakor, aztán...}
-{110}{}{Ez a sípolás az ?rületbe kerget.}
-{111}{}{Esküszöm, ezek az orvosi adatbázisok beszélgetnek egymással...}
+{100}{}{Phyllis segÃ©dorvos.}
+{101}{}{Egy fiatal, sovÃ¡ny n?t lÃ¡tsz. Er?s fert?tlenÃ­t?szaga van.}
+{102}{}{Phyllis segÃ©dorvos.}
+{103}{}{Egy fiatal, sovÃ¡ny n?t lÃ¡tsz. Er?s fert?tlenÃ­t?szaga van.}
+{104}{}{KockÃ¡ra tetted az Ã©leted, hogy megments minket! Te vagy a legbÃ¡trabb ember, akit valaha ismertem.}
+{105}{}{BehatolÃ³! ÃÃ­Ã­Ã­Ã­Ã­! ?rsÃ©g!}
+{106}{}{Egy mutÃ¡ns! AÃ­Ã­Ã­Ã­! ?rsÃ©g!}
+{107}{}{Egy ghoul! AÃ­Ã­Ã­Ã­! ?rsÃ©g!}
+{108}{}{Gregorynak mÃ©g ki kell nyomtatatnom nÃ©hÃ¡ny grafikont.}
+{109}{}{NÃ©zzÃ¼k csak, mi van mÃ©g!  HÃ¡rom szolgÃ¡nak vÃ©d?oltÃ¡st kell adnom 14 Ã³rakor, aztÃ¡n...}
+{110}{}{Ez a sÃ­polÃ¡s az ?rÃ¼letbe kerget.}
+{111}{}{EskÃ¼szÃ¶m, ezek az orvosi adatbÃ¡zisok beszÃ©lgetnek egymÃ¡ssal...}
 {112}{}{Let's see... three hypodermics, antiseptic, three ampoules of RadX...}
-{113}{}{Jobb lesz felkészülni Dr.Troy holnapi szemináriumára.}
-{114}{}{A fene egye meg, már MEGINT túlóráztatnak! Agyamra mennek ezek a listák!}
+{113}{}{Jobb lesz felkÃ©szÃ¼lni Dr.Troy holnapi szeminÃ¡riumÃ¡ra.}
+{114}{}{A fene egye meg, mÃ¡r MEGINT tÃºlÃ³rÃ¡ztatnak! Agyamra mennek ezek a listÃ¡k!}
 {115}{}{Gyere vissza holnap!}
-{116}{}{Ha súlyos esetr?l van szó, esetleg felvehetlek a holnapi el?jegyzésbe.}
-{117}{}{Alig várom a m?szak végét. Kikészülök ett?l a rengeteg listától.}
-{118}{}{Legjobb lenne, ha holnap reggel jönnél vissza. Még nagyon sok listát kell elkészítenem.}
-{119}{}{Szegény Dr.Troy. Ártatlan volt, TUDOM!}
-{120}{}{Miért szám?zték Dr.Troyt?}
-{121}{}{Remélem, Dr.Troynak nem esik baja a pusztában.}
-{122}{}{Sajnálom, de túl elfoglalt vagyok ahhoz, hogy csevegjek veled. Ha bármire szükséged van, beszélj Dr.Troyjal!}
-{123}{}{Helló! Még nem láttalak errefelé. Netalán egy új Polgárhoz van szerencsém?}
-{124}{}{Jó napot!}
-{125}{}{Po'gár?}
-{126}{}{Jónapt?}
-{127}{}{Lenni meg... *HAPCI*... sérülve.}
-{128}{}{Én vagyok az ?rség új Kapitánya.}
-{129}{}{Igen, most lettem Polgár.}
-{130}{}{Most avattak Polgárrá.}
-{131}{}{Bocsánat, azt hiszem, rossz helyen járok. Viszlát!}
-{132}{}{Megsérültél? Ó... Istenem, milyen figyelmetlen vagyok. Kérlek, fordulj Dr. Troyhoz! ? majd segít.}
+{116}{}{Ha sÃºlyos esetr?l van szÃ³, esetleg felvehetlek a holnapi el?jegyzÃ©sbe.}
+{117}{}{Alig vÃ¡rom a m?szak vÃ©gÃ©t. KikÃ©szÃ¼lÃ¶k ett?l a rengeteg listÃ¡tÃ³l.}
+{118}{}{Legjobb lenne, ha holnap reggel jÃ¶nnÃ©l vissza. MÃ©g nagyon sok listÃ¡t kell elkÃ©szÃ­tenem.}
+{119}{}{SzegÃ©ny Dr.Troy. Ãrtatlan volt, TUDOM!}
+{120}{}{MiÃ©rt szÃ¡m?ztÃ©k Dr.Troyt?}
+{121}{}{RemÃ©lem, Dr.Troynak nem esik baja a pusztÃ¡ban.}
+{122}{}{SajnÃ¡lom, de tÃºl elfoglalt vagyok ahhoz, hogy csevegjek veled. Ha bÃ¡rmire szÃ¼ksÃ©ged van, beszÃ©lj Dr.Troyjal!}
+{123}{}{HellÃ³! MÃ©g nem lÃ¡ttalak errefelÃ©. NetalÃ¡n egy Ãºj PolgÃ¡rhoz van szerencsÃ©m?}
+{124}{}{JÃ³ napot!}
+{125}{}{Po'gÃ¡r?}
+{126}{}{JÃ³napt?}
+{127}{}{Lenni meg... *HAPCI*... sÃ©rÃ¼lve.}
+{128}{}{Ã‰n vagyok az ?rsÃ©g Ãºj KapitÃ¡nya.}
+{129}{}{Igen, most lettem PolgÃ¡r.}
+{130}{}{Most avattak PolgÃ¡rrÃ¡.}
+{131}{}{BocsÃ¡nat, azt hiszem, rossz helyen jÃ¡rok. ViszlÃ¡t!}
+{132}{}{MegsÃ©rÃ¼ltÃ©l? Ã“... Istenem, milyen figyelmetlen vagyok. KÃ©rlek, fordulj Dr. Troyhoz! ? majd segÃ­t.}
 {133}{}{'gen? Jaja.}
-{134}{}{Köszönöm, de el?bb feltehetnék néhány kérdést?}
-{135}{}{Értem. Viszlát!}
-{136}{}{Ó... bizonyára te az a szolga vagy, akit iderendeltek mára. El kéne... hmm... TE... MÉSZ... MARTINHOZ. Érted?}
-{137}{}{Hmm.... figyelj jobban! TE... MÉSZ... MARTINHOZ. Rendben?}
-{138}{}{TERMÉSZ MARTIN.}
-{139}{}{Lenni meg... *HAPCI*... sérülve.}
+{134}{}{KÃ¶szÃ¶nÃ¶m, de el?bb feltehetnÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{135}{}{Ã‰rtem. ViszlÃ¡t!}
+{136}{}{Ã“... bizonyÃ¡ra te az a szolga vagy, akit iderendeltek mÃ¡ra. El kÃ©ne... hmm... TE... MÃ‰SZ... MARTINHOZ. Ã‰rted?}
+{137}{}{Hmm.... figyelj jobban! TE... MÃ‰SZ... MARTINHOZ. Rendben?}
+{138}{}{TERMÃ‰SZ MARTIN.}
+{139}{}{Lenni meg... *HAPCI*... sÃ©rÃ¼lve.}
 {140}{}{[Elcsoszogsz]}
 {141}{}{IGEN, MARTIN!!! MENJ... LE... EMELET!}
 {142}{}{IGEN, MAR-TIN. MENJLEMELET.}
-{143}{}{Lenni meg... *HAPCI*... sérülve.}
+{143}{}{Lenni meg... *HAPCI*... sÃ©rÃ¼lve.}
 {144}{}{[Elcsoszogsz]}
-{145}{}{MENJ... LE... EMELET! EMELET... HÁROM. MOST. ÉRTED?}
-{146}{}{ÉN MEGYLE EMELLETT PÁROM MOSD!}
-{147}{}{Lenni meg... *HAPCI*... sérülve.}
+{145}{}{MENJ... LE... EMELET! EMELET... HÃROM. MOST. Ã‰RTED?}
+{146}{}{Ã‰N MEGYLE EMELLETT PÃROM MOSD!}
+{147}{}{Lenni meg... *HAPCI*... sÃ©rÃ¼lve.}
 {148}{}{[Elcsoszogsz]}
-{149}{}{A szolgáknak valamilyen idegrendszeri megbetegedésük lehet.}
-{150}{}{Értem. Akkor... légy üdvözölve Menedékvárosban, Kapitány!}
-{151}{}{Üdvözöllek Menedékvárosban, Polgártárs!}
-{152}{}{Ritkán látok új arcokat errefelé. Phyllis vagyok. Téged hogy hívnak?}
+{149}{}{A szolgÃ¡knak valamilyen idegrendszeri megbetegedÃ©sÃ¼k lehet.}
+{150}{}{Ã‰rtem. Akkor... lÃ©gy Ã¼dvÃ¶zÃ¶lve MenedÃ©kvÃ¡rosban, KapitÃ¡ny!}
+{151}{}{ÃœdvÃ¶zÃ¶llek MenedÃ©kvÃ¡rosban, PolgÃ¡rtÃ¡rs!}
+{152}{}{RitkÃ¡n lÃ¡tok Ãºj arcokat errefelÃ©. Phyllis vagyok. TÃ©ged hogy hÃ­vnak?}
 {153}{}{A nevem }
-{154}{}{Én }
-{155}{}{Ha meg akarnám mondani a nevem, már rég megtettem volna kedves... Sziphilis, vagy mi a franc.}
-{156}{}{Értem. Viszlát!}
-{157}{}{Otromba alak! Még soha nem találkoztam ilyen faragatlan tuskóval. Jobb lesz, ha elt?nsz! De azonnal!!!}
-{158}{}{Szerintem meg jobb lesz, ha megválogatod a szavaidat, vagy bajba kerülsz!}
-{159}{}{Rendben. Már úgyis menni akartam.}
-{160}{}{?rség! Dr.Troy! Segítség!!!}
-{161}{}{Szóval így állunk?! Nos, rendben!}
-{162}{}{Segédorvos vagyok, Dr.Troy asszisztense.}
-{163}{}{Mi a véleményed Dr.Troyról?}
-{164}{}{Feltehetek néhány kérdést?}
-{165}{}{Nagyszer?! Orvosi ellátásra van szükségem.}
-{166}{}{Értem. Viszlát!}
-{167}{}{Helló! Miben segíthetek?}
-{168}{}{Mit szeretnél tudni?}
-{169}{}{Mi a véleményed Dr.Troyról?}
-{170}{}{Elárulnád, hol van a Központi Számítógép?}
-{171}{}{Orvosi ellátásra van szükségem.}
-{172}{}{Mi a munkád?}
-{173}{}{Tudna mesélni Menedékvárosról?}
-{174}{}{Sajnos mennem kell. Viszlát!}
-{175}{}{Dr.Troy nagyon szigorú tud lenni, ha munkáról van szó, de amúgy jó ember. Menedékváros szerencsés, hogy nekik dolgozik.}
+{154}{}{Ã‰n }
+{155}{}{Ha meg akarnÃ¡m mondani a nevem, mÃ¡r rÃ©g megtettem volna kedves... Sziphilis, vagy mi a franc.}
+{156}{}{Ã‰rtem. ViszlÃ¡t!}
+{157}{}{Otromba alak! MÃ©g soha nem talÃ¡lkoztam ilyen faragatlan tuskÃ³val. Jobb lesz, ha elt?nsz! De azonnal!!!}
+{158}{}{Szerintem meg jobb lesz, ha megvÃ¡logatod a szavaidat, vagy bajba kerÃ¼lsz!}
+{159}{}{Rendben. MÃ¡r Ãºgyis menni akartam.}
+{160}{}{?rsÃ©g! Dr.Troy! SegÃ­tsÃ©g!!!}
+{161}{}{SzÃ³val Ã­gy Ã¡llunk?! Nos, rendben!}
+{162}{}{SegÃ©dorvos vagyok, Dr.Troy asszisztense.}
+{163}{}{Mi a vÃ©lemÃ©nyed Dr.TroyrÃ³l?}
+{164}{}{Feltehetek nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{165}{}{Nagyszer?! Orvosi ellÃ¡tÃ¡sra van szÃ¼ksÃ©gem.}
+{166}{}{Ã‰rtem. ViszlÃ¡t!}
+{167}{}{HellÃ³! Miben segÃ­thetek?}
+{168}{}{Mit szeretnÃ©l tudni?}
+{169}{}{Mi a vÃ©lemÃ©nyed Dr.TroyrÃ³l?}
+{170}{}{ElÃ¡rulnÃ¡d, hol van a KÃ¶zponti SzÃ¡mÃ­tÃ³gÃ©p?}
+{171}{}{Orvosi ellÃ¡tÃ¡sra van szÃ¼ksÃ©gem.}
+{172}{}{Mi a munkÃ¡d?}
+{173}{}{Tudna mesÃ©lni MenedÃ©kvÃ¡rosrÃ³l?}
+{174}{}{Sajnos mennem kell. ViszlÃ¡t!}
+{175}{}{Dr.Troy nagyon szigorÃº tud lenni, ha munkÃ¡rÃ³l van szÃ³, de amÃºgy jÃ³ ember. MenedÃ©kvÃ¡ros szerencsÃ©s, hogy nekik dolgozik.}
 {176}{}{Well, he asked me to smuggle some drugs into the city for him.}
-{177}{}{Feltehetnék egy másik kérdést?}
-{178}{}{Köszönöm a segítséget. Viszlát!}
+{177}{}{FeltehetnÃ©k egy mÃ¡sik kÃ©rdÃ©st?}
+{178}{}{KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get. ViszlÃ¡t!}
 {179}{}{}
 {180}{}{}
-{181}{}{Micsoda?! Ez egyáltalán nem vall Dr. Troyra. Mostanában elég keményen dolgozik és nyilván kikapcsolódásra van szüksége, de... nem, nem... ez lehetetlen. Biztos vagyok benne, hogy csupán félreértésr?l van szó.}
-{182}{}{Nem hinném. Elég világosan a tudomásomra hozta, mit akar.}
-{183}{}{Értem. Feltehetnék még egy kérdést?}
-{184}{}{Rendben. Lehet, hogy tényleg csak félreértésr?l van szó.}
-{185}{}{Én a helyedben vigyáznék a nyelvemre! Dr.Troy elismert és megbecsült tagja a városunknak.}
-{186}{}{Rendben, elnézést kérek. Feltehetnék még egy kérdést?}
-{187}{}{Köszönöm a figyelmeztetést, de én még azért utána járok ennek a dolognak. Viszlát!}
-{188}{}{Lent a harmadik szinten, ha jól emlékszem. Már nagyon rég nem jártam ott.}
+{181}{}{Micsoda?! Ez egyÃ¡ltalÃ¡n nem vall Dr. Troyra. MostanÃ¡ban elÃ©g kemÃ©nyen dolgozik Ã©s nyilvÃ¡n kikapcsolÃ³dÃ¡sra van szÃ¼ksÃ©ge, de... nem, nem... ez lehetetlen. Biztos vagyok benne, hogy csupÃ¡n fÃ©lreÃ©rtÃ©sr?l van szÃ³.}
+{182}{}{Nem hinnÃ©m. ElÃ©g vilÃ¡gosan a tudomÃ¡somra hozta, mit akar.}
+{183}{}{Ã‰rtem. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{184}{}{Rendben. Lehet, hogy tÃ©nyleg csak fÃ©lreÃ©rtÃ©sr?l van szÃ³.}
+{185}{}{Ã‰n a helyedben vigyÃ¡znÃ©k a nyelvemre! Dr.Troy elismert Ã©s megbecsÃ¼lt tagja a vÃ¡rosunknak.}
+{186}{}{Rendben, elnÃ©zÃ©st kÃ©rek. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{187}{}{KÃ¶szÃ¶nÃ¶m a figyelmeztetÃ©st, de Ã©n mÃ©g azÃ©rt utÃ¡na jÃ¡rok ennek a dolognak. ViszlÃ¡t!}
+{188}{}{Lent a harmadik szinten, ha jÃ³l emlÃ©kszem. MÃ¡r nagyon rÃ©g nem jÃ¡rtam ott.}
 {189}{}{Merthogy?}
-{190}{}{Feltehetnék egy másik kérdést?}
-{191}{}{Köszönöm a segítséget, bátyám. Viszlát!}
-{192}{}{Nem is tudom. Igazából nincs sok látnivaló arrafelé, manapság már csak raktárnak használják. Egyedül Martin van odalent és öö... hát... köztünk szólva, nem egy észlény.}
-{193}{}{"Észlény"?! Ezt... öö... nem értem.}
-{194}{}{Feltehetnék egy másik kérdést?}
-{195}{}{Értem. Köszönöm az információt.}
-{196}{}{Hmm... menj le és beszélj vele! Talán több közös van bennetek, mint azt els?re hittem. Jól megértitek majd egymást.}
-{197}{}{El?bb feltehetnék néhány kérdést?}
-{198}{}{Rendben. Megyek és beszélek vele.}
-{199}{}{Nincs sok mondanivalóm a várossal kapcsolatban. Egész életemben Polgár voltam, nincs összehasonlítási alapom. Azt azért elmondhatom, néha nagyon unalmas itt az élet.}
-{200}{}{Szégyen, hogy egy ilyen csinos, fiatal n? semmi érdekeset nem talál Menedékvárosban.}
-{201}{}{Komolyan mondod? Unalmas itt az élet?}
-{202}{}{Feltehetnék még egy kérdést?}
-{203}{}{Értem. Gondoltam, megkérdezem. Viszlát!}
-{204}{}{Nézd! Tudom, hogy új Polgár vagy és nem akarom lelohasztani a kedvedet, de... ez a város id?nként NAGYON unalmas tud lenni.}
-{205}{}{Egész pontosan mit akarsz ezzel mondani?}
-{206}{}{Bizonyára így van, de kérdezhetnék valamit?}
-{207}{}{Ezt sajnálattal hallom. Viszlát!}
-{208}{}{Úgy értem, észrevetted már, milyen szürke, milyen egyforma itt mindenki? És ÖREG! A legtöbb szeminárium és tanórán kívüli dolog nyolcvanasoknak szól. Most múltam huszonöt, de ebben a városban ötvenévesnek érzem magam.}
+{190}{}{FeltehetnÃ©k egy mÃ¡sik kÃ©rdÃ©st?}
+{191}{}{KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get, bÃ¡tyÃ¡m. ViszlÃ¡t!}
+{192}{}{Nem is tudom. IgazÃ¡bÃ³l nincs sok lÃ¡tnivalÃ³ arrafelÃ©, manapsÃ¡g mÃ¡r csak raktÃ¡rnak hasznÃ¡ljÃ¡k. EgyedÃ¼l Martin van odalent Ã©s Ã¶Ã¶... hÃ¡t... kÃ¶ztÃ¼nk szÃ³lva, nem egy Ã©szlÃ©ny.}
+{193}{}{"Ã‰szlÃ©ny"?! Ezt... Ã¶Ã¶... nem Ã©rtem.}
+{194}{}{FeltehetnÃ©k egy mÃ¡sik kÃ©rdÃ©st?}
+{195}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t.}
+{196}{}{Hmm... menj le Ã©s beszÃ©lj vele! TalÃ¡n tÃ¶bb kÃ¶zÃ¶s van bennetek, mint azt els?re hittem. JÃ³l megÃ©rtitek majd egymÃ¡st.}
+{197}{}{El?bb feltehetnÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{198}{}{Rendben. Megyek Ã©s beszÃ©lek vele.}
+{199}{}{Nincs sok mondanivalÃ³m a vÃ¡rossal kapcsolatban. EgÃ©sz Ã©letemben PolgÃ¡r voltam, nincs Ã¶sszehasonlÃ­tÃ¡si alapom. Azt azÃ©rt elmondhatom, nÃ©ha nagyon unalmas itt az Ã©let.}
+{200}{}{SzÃ©gyen, hogy egy ilyen csinos, fiatal n? semmi Ã©rdekeset nem talÃ¡l MenedÃ©kvÃ¡rosban.}
+{201}{}{Komolyan mondod? Unalmas itt az Ã©let?}
+{202}{}{FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{203}{}{Ã‰rtem. Gondoltam, megkÃ©rdezem. ViszlÃ¡t!}
+{204}{}{NÃ©zd! Tudom, hogy Ãºj PolgÃ¡r vagy Ã©s nem akarom lelohasztani a kedvedet, de... ez a vÃ¡ros id?nkÃ©nt NAGYON unalmas tud lenni.}
+{205}{}{EgÃ©sz pontosan mit akarsz ezzel mondani?}
+{206}{}{BizonyÃ¡ra Ã­gy van, de kÃ©rdezhetnÃ©k valamit?}
+{207}{}{Ezt sajnÃ¡lattal hallom. ViszlÃ¡t!}
+{208}{}{Ãšgy Ã©rtem, Ã©szrevetted mÃ¡r, milyen szÃ¼rke, milyen egyforma itt mindenki? Ã‰s Ã–REG! A legtÃ¶bb szeminÃ¡rium Ã©s tanÃ³rÃ¡n kÃ­vÃ¼li dolog nyolcvanasoknak szÃ³l. Most mÃºltam huszonÃ¶t, de ebben a vÃ¡rosban Ã¶tvenÃ©vesnek Ã©rzem magam.}
 {209}{}{Uh... octo-genarians? You mean the guards?}
-{210}{}{Apropó, felt?nt, hogy egyetlen gyerek sincs a városban. Miért?}
-{211}{}{Egyetértek, ezt már magam is tapasztaltam.}
-{212}{}{Értem. Gondoltam, megkérdezem. Viszlát!}
+{210}{}{ApropÃ³, felt?nt, hogy egyetlen gyerek sincs a vÃ¡rosban. MiÃ©rt?}
+{211}{}{EgyetÃ©rtek, ezt mÃ¡r magam is tapasztaltam.}
+{212}{}{Ã‰rtem. Gondoltam, megkÃ©rdezem. ViszlÃ¡t!}
 {213}{}{Uh no... "octogenarian" is an adjective that refers to a person who is eighty years old. }
-{214}{}{Rendben, így már értem. Van még egy kérdésem.}
-{215}{}{Világos. Sajnos most mennem kell.}
-{216}{}{Hát... igen, tényleg nincsenek gyerekek. Még nincsenek. Nem tudom mondták-e már, de Menedékváros egy megtervezett társadalom. A következ? termékenységi ciklus csak öt év múlva esedékes. }
-{217}{}{Micsoda?! Termékenységi ciklus?}
-{218}{}{Feltehetnék egy másik kérdést?}
-{219}{}{Értem. Viszlát!}
-{220}{}{Igen. A terhesség csak bizonyos években engedélyezett. Ezek id?pontját a Tanács határozza meg.}
-{221}{}{Mi van, ha valaki ennek ellenére teherbe esik?}
-{222}{}{Kérdeznék valami mást.}
-{223}{}{Értem. Viszlát!}
-{224}{}{Ugyan már, ez hogy fordulhatna el??}
-{225}{}{Hát... tudod... egy kis entyempentyem... szóval szex. Érted?}
-{226}{}{Ejtsük a témát! Kérdezhetek még valamit?}
+{214}{}{Rendben, Ã­gy mÃ¡r Ã©rtem. Van mÃ©g egy kÃ©rdÃ©sem.}
+{215}{}{VilÃ¡gos. Sajnos most mennem kell.}
+{216}{}{HÃ¡t... igen, tÃ©nyleg nincsenek gyerekek. MÃ©g nincsenek. Nem tudom mondtÃ¡k-e mÃ¡r, de MenedÃ©kvÃ¡ros egy megtervezett tÃ¡rsadalom. A kÃ¶vetkez? termÃ©kenysÃ©gi ciklus csak Ã¶t Ã©v mÃºlva esedÃ©kes. }
+{217}{}{Micsoda?! TermÃ©kenysÃ©gi ciklus?}
+{218}{}{FeltehetnÃ©k egy mÃ¡sik kÃ©rdÃ©st?}
+{219}{}{Ã‰rtem. ViszlÃ¡t!}
+{220}{}{Igen. A terhessÃ©g csak bizonyos Ã©vekben engedÃ©lyezett. Ezek id?pontjÃ¡t a TanÃ¡cs hatÃ¡rozza meg.}
+{221}{}{Mi van, ha valaki ennek ellenÃ©re teherbe esik?}
+{222}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{223}{}{Ã‰rtem. ViszlÃ¡t!}
+{224}{}{Ugyan mÃ¡r, ez hogy fordulhatna el??}
+{225}{}{HÃ¡t... tudod... egy kis entyempentyem... szÃ³val szex. Ã‰rted?}
+{226}{}{EjtsÃ¼k a tÃ©mÃ¡t! KÃ©rdezhetek mÃ©g valamit?}
 {227}{}{Azt hiszem, jobb, ha megyek.}
-{228}{}{A közösülésre gondolsz? Természetesen az engedélyezett a termékenységi cikluson kívül is.}
-{229}{}{És ett?l nem esnek teherbe a n?k?}
-{230}{}{Kérdeznék valami mást.}
-{231}{}{Értem. Gondoltam, megkérdezem. Viszlát!}
-{232}{}{Á nem, dehogy... tudod nálunk a terhesség nem a közösülés eredménye.}
-{233}{}{Félek megkérdezni, de azért megteszem. Hogy van ez?}
-{234}{}{Err?l a témáról eleget hallottam, kérdezhetnék valami mást?}
+{228}{}{A kÃ¶zÃ¶sÃ¼lÃ©sre gondolsz? TermÃ©szetesen az engedÃ©lyezett a termÃ©kenysÃ©gi cikluson kÃ­vÃ¼l is.}
+{229}{}{Ã‰s ett?l nem esnek teherbe a n?k?}
+{230}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{231}{}{Ã‰rtem. Gondoltam, megkÃ©rdezem. ViszlÃ¡t!}
+{232}{}{Ã nem, dehogy... tudod nÃ¡lunk a terhessÃ©g nem a kÃ¶zÃ¶sÃ¼lÃ©s eredmÃ©nye.}
+{233}{}{FÃ©lek megkÃ©rdezni, de azÃ©rt megteszem. Hogy van ez?}
+{234}{}{Err?l a tÃ©mÃ¡rÃ³l eleget hallottam, kÃ©rdezhetnÃ©k valami mÃ¡st?}
 {235}{}{Asszem, eleget hallottam.}
-{236}{}{A társadalmunk férfi tagjai "adakoznak" és a számítógép kiválasztja a legel?nyösebb párokat. Ezután a n?t az Auto-doki termékenyíti meg.}
+{236}{}{A tÃ¡rsadalmunk fÃ©rfi tagjai "adakoznak" Ã©s a szÃ¡mÃ­tÃ³gÃ©p kivÃ¡lasztja a legel?nyÃ¶sebb pÃ¡rokat. EzutÃ¡n a n?t az Auto-doki termÃ©kenyÃ­ti meg.}
 {237}{}{Adakozhatok?}
-{238}{}{Hogy lehet az, hogy senki nem esik teherbe a közösülést?l? Mi van a spontán terhességekkel?}
-{239}{}{Kérdeznék valami mást.}
-{240}{}{Megbocsátasz? Megyek és utánanézek, visszavonható-e a Polgárság.}
-{241}{}{Azt hiszem, sürg?sen el kell t?nnöm innen. Viszlát!}
-{242}{}{Természetesen. Igazán örülnénk, ha adakoznál. Menedékvárosnak szüksége van a friss genetikai anyagokra.}
-{243}{}{Jól van akkor...}
-{244}{}{Bocs, de nem kaphatnék egy magazint vagy valami?}
-{245}{}{Köszönjük! A hozzájárulásod igen... figyelemreméltó. Tehetségesnek t?nsz. Hogy érzed magad?}
-{246}{}{Nagyszer?en! Köszönöm!}
-{247}{}{Úgy t?nik, amit kaptunk... nem olyan értékes, mint gondoltam. Azért köszönjük.}
-{248}{}{Bevallom ?szintén, még soha nem hiányzott ennyire a kis porfészek Arroyo varázsa.}
-{249}{}{Még sosem éreztem ekkora szükségét.}
-{250}{}{Nem! ÉN köszönöm!!!}
-{251}{}{Ezen már én is gondolkoztam. Úgy t?nik, a Polgárok a hagyományos módon nem esnek teherbe, csak az Auto-doki végez sikeres megtermékenyítést.}
-{252}{}{Tudod a háttérsugárzás sterilitást, vagy ami még rosszabb, kromoszomális sérüléseket okozhat. Ennek egyébként még utánanézek.}
-{253}{}{Talán csak azért, mert itt nincs igazi szex.}
-{254}{}{Értem. Gondoltam, megkérdezem. Viszlát!}
-{255}{}{Tudod, ezen már én is gondolkoztam. Talán meg kéne említenem Dr.Troynak, bár mostanában túl elfoglalt ehhez.}
-{256}{}{Kérdezhetek valami mást?}
-{257}{}{Ez jó ötlet. Sok sikert!}
-{258}{}{Olyanok mint a... klónok. Ugyanúgy öltözködnek, ugyanúgy viselkednek és ami a legrosszabb, boldognak t?nnek. Néha attól tartok, egyszer én is ilyen leszek. Elég furcsán hangzik, nem?}
-{259}{}{Egyáltalán nem. A városnak nincs szüksége igazi egyéniségekre. Aki jól figyel, rögtön észreveszi, milyen sz?klátókör? itt mindenki.}
-{260}{}{Értem. Gondoltam, megkérdezem. Viszlát!}
-{261}{}{Igen, id?nként elég nyomasztó tud lenni, de azért félre ne érts! Ez egy nagyszer? hely.}
-{262}{}{Adok egy tanácsot. Menj, és nézz körül a kinti világban! Beszélhetnél néhány keresked?vel is, nyilván felvilágosítanának egy-két dologban.}
-{263}{}{Menedékvárosnak vannak el?nyei, ez kétségtelen. Feltehetnék még egy kérdést?}
-{264}{}{Azért örülök, hogy többnyire jól érzed itt magad. Nekem most mennem kell.}
-{265}{}{Szívem szerint már körülnéztem volna, de a többi Polgár lebeszélt róla.}
-{266}{}{Ez egy okkal több, hogy megtedd. Ugye nem akarsz olyan lenni, mint a többiek? Olyan szürke, olyan unalmas?}
-{267}{}{Tulajdonképpen igazuk van, veszélyes odakint. Kérdezhetek még valamit?}
-{268}{}{Igazuk van. Valószín?leg nem jó ötlet. Jobb, ha megyek.}
-{269}{}{Lehet, hogy igazad van. Talán egyszer elhagyom ezt a várost. Szeretnék többet megtudni a kinti világról.}
-{270}{}{Nagyszer?, de most szeretnék kérdezni még valamit.}
-{271}{}{Sok sikert a kalandhoz! Viszlát!}
+{238}{}{Hogy lehet az, hogy senki nem esik teherbe a kÃ¶zÃ¶sÃ¼lÃ©st?l? Mi van a spontÃ¡n terhessÃ©gekkel?}
+{239}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{240}{}{MegbocsÃ¡tasz? Megyek Ã©s utÃ¡nanÃ©zek, visszavonhatÃ³-e a PolgÃ¡rsÃ¡g.}
+{241}{}{Azt hiszem, sÃ¼rg?sen el kell t?nnÃ¶m innen. ViszlÃ¡t!}
+{242}{}{TermÃ©szetesen. IgazÃ¡n Ã¶rÃ¼lnÃ©nk, ha adakoznÃ¡l. MenedÃ©kvÃ¡rosnak szÃ¼ksÃ©ge van a friss genetikai anyagokra.}
+{243}{}{JÃ³l van akkor...}
+{244}{}{Bocs, de nem kaphatnÃ©k egy magazint vagy valami?}
+{245}{}{KÃ¶szÃ¶njÃ¼k! A hozzÃ¡jÃ¡rulÃ¡sod igen... figyelemremÃ©ltÃ³. TehetsÃ©gesnek t?nsz. Hogy Ã©rzed magad?}
+{246}{}{Nagyszer?en! KÃ¶szÃ¶nÃ¶m!}
+{247}{}{Ãšgy t?nik, amit kaptunk... nem olyan Ã©rtÃ©kes, mint gondoltam. AzÃ©rt kÃ¶szÃ¶njÃ¼k.}
+{248}{}{Bevallom ?szintÃ©n, mÃ©g soha nem hiÃ¡nyzott ennyire a kis porfÃ©szek Arroyo varÃ¡zsa.}
+{249}{}{MÃ©g sosem Ã©reztem ekkora szÃ¼ksÃ©gÃ©t.}
+{250}{}{Nem! Ã‰N kÃ¶szÃ¶nÃ¶m!!!}
+{251}{}{Ezen mÃ¡r Ã©n is gondolkoztam. Ãšgy t?nik, a PolgÃ¡rok a hagyomÃ¡nyos mÃ³don nem esnek teherbe, csak az Auto-doki vÃ©gez sikeres megtermÃ©kenyÃ­tÃ©st.}
+{252}{}{Tudod a hÃ¡ttÃ©rsugÃ¡rzÃ¡s sterilitÃ¡st, vagy ami mÃ©g rosszabb, kromoszomÃ¡lis sÃ©rÃ¼lÃ©seket okozhat. Ennek egyÃ©bkÃ©nt mÃ©g utÃ¡nanÃ©zek.}
+{253}{}{TalÃ¡n csak azÃ©rt, mert itt nincs igazi szex.}
+{254}{}{Ã‰rtem. Gondoltam, megkÃ©rdezem. ViszlÃ¡t!}
+{255}{}{Tudod, ezen mÃ¡r Ã©n is gondolkoztam. TalÃ¡n meg kÃ©ne emlÃ­tenem Dr.Troynak, bÃ¡r mostanÃ¡ban tÃºl elfoglalt ehhez.}
+{256}{}{KÃ©rdezhetek valami mÃ¡st?}
+{257}{}{Ez jÃ³ Ã¶tlet. Sok sikert!}
+{258}{}{Olyanok mint a... klÃ³nok. UgyanÃºgy Ã¶ltÃ¶zkÃ¶dnek, ugyanÃºgy viselkednek Ã©s ami a legrosszabb, boldognak t?nnek. NÃ©ha attÃ³l tartok, egyszer Ã©n is ilyen leszek. ElÃ©g furcsÃ¡n hangzik, nem?}
+{259}{}{EgyÃ¡ltalÃ¡n nem. A vÃ¡rosnak nincs szÃ¼ksÃ©ge igazi egyÃ©nisÃ©gekre. Aki jÃ³l figyel, rÃ¶gtÃ¶n Ã©szreveszi, milyen sz?klÃ¡tÃ³kÃ¶r? itt mindenki.}
+{260}{}{Ã‰rtem. Gondoltam, megkÃ©rdezem. ViszlÃ¡t!}
+{261}{}{Igen, id?nkÃ©nt elÃ©g nyomasztÃ³ tud lenni, de azÃ©rt fÃ©lre ne Ã©rts! Ez egy nagyszer? hely.}
+{262}{}{Adok egy tanÃ¡csot. Menj, Ã©s nÃ©zz kÃ¶rÃ¼l a kinti vilÃ¡gban! BeszÃ©lhetnÃ©l nÃ©hÃ¡ny keresked?vel is, nyilvÃ¡n felvilÃ¡gosÃ­tanÃ¡nak egy-kÃ©t dologban.}
+{263}{}{MenedÃ©kvÃ¡rosnak vannak el?nyei, ez kÃ©tsÃ©gtelen. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{264}{}{AzÃ©rt Ã¶rÃ¼lÃ¶k, hogy tÃ¶bbnyire jÃ³l Ã©rzed itt magad. Nekem most mennem kell.}
+{265}{}{SzÃ­vem szerint mÃ¡r kÃ¶rÃ¼lnÃ©ztem volna, de a tÃ¶bbi PolgÃ¡r lebeszÃ©lt rÃ³la.}
+{266}{}{Ez egy okkal tÃ¶bb, hogy megtedd. Ugye nem akarsz olyan lenni, mint a tÃ¶bbiek? Olyan szÃ¼rke, olyan unalmas?}
+{267}{}{TulajdonkÃ©ppen igazuk van, veszÃ©lyes odakint. KÃ©rdezhetek mÃ©g valamit?}
+{268}{}{Igazuk van. ValÃ³szÃ­n?leg nem jÃ³ Ã¶tlet. Jobb, ha megyek.}
+{269}{}{Lehet, hogy igazad van. TalÃ¡n egyszer elhagyom ezt a vÃ¡rost. SzeretnÃ©k tÃ¶bbet megtudni a kinti vilÃ¡grÃ³l.}
+{270}{}{Nagyszer?, de most szeretnÃ©k kÃ©rdezni mÃ©g valamit.}
+{271}{}{Sok sikert a kalandhoz! ViszlÃ¡t!}
 {272}{}{Hogy?}
-{273}{}{Nem tudtam nem észrevenni, hogy milyen csinos, sziporkázó n? vagy. Megérdemelsz egy kis kikapcsolódást. Mi lenne, ha velem vacsoráznál?}
-{274}{}{Felejtsd el, inkább kérdeznék valamit!}
-{275}{}{Értem. Gondoltam, megkérdezem. Viszlát!}
-{276}{}{Ó... tudod... én szeretnék, de sajnos nem lehet.}
-{277}{}{Végül is... miért ne?}
-{278}{}{Ugyan már, ne kéresd magad! Új vagyok és bajba kerülök, ha egyedül járkálok.}
-{279}{}{Ahogy akarod, de feltennék meg egy kérdést.}
-{280}{}{Értem. Gondoltam, megkérdezem. Viszlát!}
-{281}{}{Nagyszer?! Menjünk!}
-{282}{}{Köszönöm a csodálatos estét.}
-{283}{}{Persze... persze, talán máskor is eljövök. Majd... hívlak. Szia!}
-{284}{}{Sajnálom, de nem.}
-{285}{}{Rendben. Feltehetnék még egy kérdést?}
-{286}{}{Értem. Gondoltam, megkérdezem. Viszlát!}
-{287}{}{Jó tudni, hogy Menedékvárosban is vannak még nemi el?ítéletek. Viszlát!}
-{288}{}{. Mit csinálsz itt?}
-{289}{}{. Feltehetnék pár kérdést?}
-{290}{}{Azt hiszem, azért nincsenek itt gyerekek, mert lehet, hogy ez a Fallout2 európai verziója. Viszlát!}
-{291}{}{Adakoztál Menedékvárosnak és kedvez? genetikai anyagot biztosítottál a közösségnek.}
-{292}{}{Adakoztál Menedékvárosnak és friss genetikai anyagot biztosítottál a közösségnek.}
-{293}{}{Adakoztál Menedékvárosnak... bár nem sokra mentek vele.}
-{294}{}{Meggy?zted Phyllist, hogy beszéljen Dr.Troyjal a menedékvárosi nemz?képességet illet?en.}
-{295}{}{Meggy?zted Phyllist, hogy nézze meg a kinti világot.}
-{296}{}{Hamar rájöttél, hogy Phyllis elég unalmas és egoista. Úgy döntesz, többet nem randevúzol még csak hasonló n?kkel sem.}
-{297}{}{Ha már nyolcvanasokról beszélgetünk, eszembe jutott, hogy egy gyerek sincs Menedékvárosban.}
+{273}{}{Nem tudtam nem Ã©szrevenni, hogy milyen csinos, sziporkÃ¡zÃ³ n? vagy. MegÃ©rdemelsz egy kis kikapcsolÃ³dÃ¡st. Mi lenne, ha velem vacsorÃ¡znÃ¡l?}
+{274}{}{Felejtsd el, inkÃ¡bb kÃ©rdeznÃ©k valamit!}
+{275}{}{Ã‰rtem. Gondoltam, megkÃ©rdezem. ViszlÃ¡t!}
+{276}{}{Ã“... tudod... Ã©n szeretnÃ©k, de sajnos nem lehet.}
+{277}{}{VÃ©gÃ¼l is... miÃ©rt ne?}
+{278}{}{Ugyan mÃ¡r, ne kÃ©resd magad! Ãšj vagyok Ã©s bajba kerÃ¼lÃ¶k, ha egyedÃ¼l jÃ¡rkÃ¡lok.}
+{279}{}{Ahogy akarod, de feltennÃ©k meg egy kÃ©rdÃ©st.}
+{280}{}{Ã‰rtem. Gondoltam, megkÃ©rdezem. ViszlÃ¡t!}
+{281}{}{Nagyszer?! MenjÃ¼nk!}
+{282}{}{KÃ¶szÃ¶nÃ¶m a csodÃ¡latos estÃ©t.}
+{283}{}{Persze... persze, talÃ¡n mÃ¡skor is eljÃ¶vÃ¶k. Majd... hÃ­vlak. Szia!}
+{284}{}{SajnÃ¡lom, de nem.}
+{285}{}{Rendben. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{286}{}{Ã‰rtem. Gondoltam, megkÃ©rdezem. ViszlÃ¡t!}
+{287}{}{JÃ³ tudni, hogy MenedÃ©kvÃ¡rosban is vannak mÃ©g nemi el?Ã­tÃ©letek. ViszlÃ¡t!}
+{288}{}{. Mit csinÃ¡lsz itt?}
+{289}{}{. FeltehetnÃ©k pÃ¡r kÃ©rdÃ©st?}
+{290}{}{Azt hiszem, azÃ©rt nincsenek itt gyerekek, mert lehet, hogy ez a Fallout2 eurÃ³pai verziÃ³ja. ViszlÃ¡t!}
+{291}{}{AdakoztÃ¡l MenedÃ©kvÃ¡rosnak Ã©s kedvez? genetikai anyagot biztosÃ­tottÃ¡l a kÃ¶zÃ¶ssÃ©gnek.}
+{292}{}{AdakoztÃ¡l MenedÃ©kvÃ¡rosnak Ã©s friss genetikai anyagot biztosÃ­tottÃ¡l a kÃ¶zÃ¶ssÃ©gnek.}
+{293}{}{AdakoztÃ¡l MenedÃ©kvÃ¡rosnak... bÃ¡r nem sokra mentek vele.}
+{294}{}{Meggy?zted Phyllist, hogy beszÃ©ljen Dr.Troyjal a menedÃ©kvÃ¡rosi nemz?kÃ©pessÃ©get illet?en.}
+{295}{}{Meggy?zted Phyllist, hogy nÃ©zze meg a kinti vilÃ¡got.}
+{296}{}{Hamar rÃ¡jÃ¶ttÃ©l, hogy Phyllis elÃ©g unalmas Ã©s egoista. Ãšgy dÃ¶ntesz, tÃ¶bbet nem randevÃºzol mÃ©g csak hasonlÃ³ n?kkel sem.}
+{297}{}{Ha mÃ¡r nyolcvanasokrÃ³l beszÃ©lgetÃ¼nk, eszembe jutott, hogy egy gyerek sincs MenedÃ©kvÃ¡rosban.}

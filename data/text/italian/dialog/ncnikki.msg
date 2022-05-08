@@ -79,7 +79,7 @@
 {280}{}{Ehila', tesoro. Che ne dici di giocarti qualche spicciolo?}
 {281}{}{Vuoi giocare un po', tesoro?}
 {282}{}{Benvenuta nel nostro casino', tesoro.}
-{290}{}{Well, you're crazy for coming in here, but…place your bets. Minimum bet 5 chips. Place your bets…}
+{290}{}{Well, you're crazy for coming in here, butâ€¦place your bets. Minimum bet 5 chips. Place your betsâ€¦}
 {291}{}{Um... place your bets... minimum bet 5 chips. Place your bets...}
 {292}{}{Place your bet, sir. Minimum bet 5 chips. Place your bets...}
 {293}{}{Place your bet, ma'am. Minimum bet 5 chips. Place your bets...}

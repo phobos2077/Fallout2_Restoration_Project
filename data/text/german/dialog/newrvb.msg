@@ -1,42 +1,42 @@
-{100}{}{Du bist in einer Wüstenebene außerhalb von New Reno angekommen.}
-{110}{}{Du siehst mehrere mit Chemikalien gefüllte Container.}
-{120}{}{Du siehst mehrere Kisten, die mit Chemikalien gefüllt sind. Du kannst die Chemikalien nicht identifizieren, aber sie wurden *sehr* sorgfältig verpackt.}
+{100}{}{Du bist in einer WÃ¼stenebene auÃŸerhalb von New Reno angekommen.}
+{110}{}{Du siehst mehrere mit Chemikalien gefÃ¼llte Container.}
+{120}{}{Du siehst mehrere Kisten, die mit Chemikalien gefÃ¼llt sind. Du kannst die Chemikalien nicht identifizieren, aber sie wurden *sehr* sorgfÃ¤ltig verpackt.}
 {130}{}{Du siehst einen Vertibird.}
 {140}{}{Du siehst einen Vertibird...eine moderne Form des Hubschraubers. Leider hast du keine Ahnung, wie das Ding bedient wird.}
 {150}{}{Du hast keine Ahnung, wie das Ding bedient wird.}
 {200}{}{(Diese Typen machen mich wahnsinnig...)}
 {201}{}{(Sei still. Sie kommen.)}
 {202}{}{*Sstttt* Hast du die Ladung, die wir wollten? *Sssttt**}
-{203}{}{Ja, die Chemikalien sind alle hier. Du kannst sie nachprüfen, wenn du willst.}
-{204}{}{*Sstttt* Das wird nicht nötig sein. *Sssttt**}
-{205}{}{*Sstttt* Du weißt, was passiert, wenn die Chemikalien unseren Anforderungen nicht gerecht werden. *Sssttt**}
-{206}{}{Klar, natürlich. Äh, und du hast die Lichtwerfer mitgebracht...?}
+{203}{}{Ja, die Chemikalien sind alle hier. Du kannst sie nachprÃ¼fen, wenn du willst.}
+{204}{}{*Sstttt* Das wird nicht nÃ¶tig sein. *Sssttt**}
+{205}{}{*Sstttt* Du weiÃŸt, was passiert, wenn die Chemikalien unseren Anforderungen nicht gerecht werden. *Sssttt**}
+{206}{}{Klar, natÃ¼rlich. Ã„h, und du hast die Lichtwerfer mitgebracht...?}
 {207}{}{*Sstttt* Die Laserwaffen sind an der Ladeluke. *Sssttt**}
-{208}{}{*Sstttt* Damit wir auf deine Kooperation vertrauen können, übertragen wir den Entsicherungscode für die Waffen, sobald die Chemikalien aufgeladen sind. *Sssttt**}
-{209}{}{Äh...hm...also gut. Ladet die Kisten auf, Jungs -}
+{208}{}{*Sstttt* Damit wir auf deine Kooperation vertrauen kÃ¶nnen, Ã¼bertragen wir den Entsicherungscode fÃ¼r die Waffen, sobald die Chemikalien aufgeladen sind. *Sssttt**}
+{209}{}{Ã„h...hm...also gut. Ladet die Kisten auf, Jungs -}
 {210}{}{*Sstttt* Nein. *Sssttt**}
 {211}{}{*Sstttt* Wir laden die Kisten selbst auf. *Sssttt**}
-{212}{}{Äh, OK...OK. Natürlich. Macht Platz, Jungs.}
-{213}{}{In Ordnung; wir bleiben hier. Der Rest von euch Wachen...du auch, Frischling...geht zurück nach Reno. Wir treffen euch dann dort.}
+{212}{}{Ã„h, OK...OK. NatÃ¼rlich. Macht Platz, Jungs.}
+{213}{}{In Ordnung; wir bleiben hier. Der Rest von euch Wachen...du auch, Frischling...geht zurÃ¼ck nach Reno. Wir treffen euch dann dort.}
 {250}{}{Schaut! Jemand beobachtet uns!}
-{251}{}{Töte sie!}
-{252}{}{Sieht so aus, als hätten wir einen Spion...!}
-{253}{}{*Sstttt* Mission abgebrochen. Sicherungscode für Ladung initiiert. *Sssttt**}
-{254}{}{*Sstttt* Töte Feind und kehre zurück zur Basis. *Sssttt**}
-{300}{}{Komm' nicht in die Nähe dieser bewaffneten Kerle. Sie werden Dich aufschlitzen.}
-{301}{}{Zurück in Position.}
-{302}{}{Hör auf, rumzuzappeln...diese bewaffneten Kerle mögen das nicht besonders.}
+{251}{}{TÃ¶te sie!}
+{252}{}{Sieht so aus, als hÃ¤tten wir einen Spion...!}
+{253}{}{*Sstttt* Mission abgebrochen. Sicherungscode fÃ¼r Ladung initiiert. *Sssttt**}
+{254}{}{*Sstttt* TÃ¶te Feind und kehre zurÃ¼ck zur Basis. *Sssttt**}
+{300}{}{Komm' nicht in die NÃ¤he dieser bewaffneten Kerle. Sie werden Dich aufschlitzen.}
+{301}{}{ZurÃ¼ck in Position.}
+{302}{}{HÃ¶r auf, rumzuzappeln...diese bewaffneten Kerle mÃ¶gen das nicht besonders.}
 {350}{}{Verdammt! Was tust Du, Dummkopf?!}
-{351}{}{Zurück auf deinen Posten! Was zum Teufel tust -?!}
-{352}{}{*Sstttt* Mission abgebrochen. Sicherungscode für Ladung initiiert. *Sssttt**}
-{353}{}{*Sstttt* Töte Feind und kehre zurück zur Basis. *Sssttt**}
-{400}{}{[Sieht aus, als ob da eine Tür ist. Öffnen und hineinklettern?]}
+{351}{}{ZurÃ¼ck auf deinen Posten! Was zum Teufel tust -?!}
+{352}{}{*Sstttt* Mission abgebrochen. Sicherungscode fÃ¼r Ladung initiiert. *Sssttt**}
+{353}{}{*Sstttt* TÃ¶te Feind und kehre zurÃ¼ck zur Basis. *Sssttt**}
+{400}{}{[Sieht aus, als ob da eine TÃ¼r ist. Ã–ffnen und hineinklettern?]}
 {401}{}{Jo}
 {402}{}{[Verschwinde]}
 {403}{}{Steig in den Vertibird.}
-{404}{}{Du lässt die Finger davon.}
-{450}{}{[Sobald du in den Frachtraum kletterst, schließt sich die Tür hinter dir! Du versuchst sie wieder zu öffnen, aber es rührt sich nichts. Als du dir andere Fluchtwege überlegst, hörst du bewaffnete Soldaten an Bord des Vertibird gehen, als er gleich danach abhebt, bist du in ihm gefangen!]}
+{404}{}{Du lÃ¤sst die Finger davon.}
+{450}{}{[Sobald du in den Frachtraum kletterst, schlieÃŸt sich die TÃ¼r hinter dir! Du versuchst sie wieder zu Ã¶ffnen, aber es rÃ¼hrt sich nichts. Als du dir andere Fluchtwege Ã¼berlegst, hÃ¶rst du bewaffnete Soldaten an Bord des Vertibird gehen, als er gleich danach abhebt, bist du in ihm gefangen!]}
 {451}{}{Oh-oh}
 {452}{}{Oh, Mist...}
-{500}{}{Diese Kisten sind mit schweren Metallkanistern gefüllt. So sorgfältig, wie sie verpackt wurden, gehst du davon aus, dass sie irgendwelche gefährlichen Chemikalien enthalten.}
-{550}{}{Dies ist vermutlich nicht der beste Zeitpunkt, um ein Gespräch zu beginnen.}
+{500}{}{Diese Kisten sind mit schweren Metallkanistern gefÃ¼llt. So sorgfÃ¤ltig, wie sie verpackt wurden, gehst du davon aus, dass sie irgendwelche gefÃ¤hrlichen Chemikalien enthalten.}
+{550}{}{Dies ist vermutlich nicht der beste Zeitpunkt, um ein GesprÃ¤ch zu beginnen.}

@@ -1,141 +1,141 @@
-{100}{}{Widzisz ³adn¹, m³od¹ kobietê ubran¹ w uniform bojowy.}
+{100}{}{Widzisz Å‚adnÄ…, mÅ‚odÄ… kobietÄ™ ubranÄ… w uniform bojowy.}
 {101}{}{To Elise.}
-{102}{}{Wokó³ niej roztacza siê aura karnoœci, tak jakby by³a przyzwyczajona do wydawania rozkazów i, ¿e inni je wykonaj¹.}
+{102}{}{WokÃ³Å‚ niej roztacza siÄ™ aura karnoÅ›ci, tak jakby byÅ‚a przyzwyczajona do wydawania rozkazÃ³w i, Å¼e inni je wykonajÄ….}
 {103}{}{Czego chcesz?}
 {104}{}{Znowu ty?}
-{105}{}{Przysy³a mnie Karl.}
-{106}{}{Doktor Jubilee powiedzia³, ¿e mam z tob¹ porozmawiaæ.}
-{107}{}{Kim jesteœ?}
+{105}{}{PrzysyÅ‚a mnie Karl.}
+{106}{}{Doktor Jubilee powiedziaÅ‚, Å¼e mam z tobÄ… porozmawiaÄ‡.}
+{107}{}{Kim jesteÅ›?}
 {108}{}{Gy?}
-{109}{}{Szukam pewnej grupy. Takiej, która nienawidzi niewolnictwa. Nazywaj¹ siê Stra¿nikami Republiki Nowej Kalifornii.}
-{110}{}{Czy mo¿esz naprawiæ mój samochód?}
-{111}{}{Ee - to miejsce wydawa³o mi siê byæ opuszczone.}
-{112}{}{Tak? Co ci powiedzia³?}
-{113}{}{Niewiele. ¯e jesteœcie dobrymi ludŸmi i, ¿e byæ mo¿e zechcê siê z wami zwi¹zaæ.}
-{114}{}{Powiedzia³, ¿e p³acicie niez³¹ kasê.}
-{115}{}{Jestem Elise. To jest Gond. Jesteœmy cz³onkami "grupy", która próbuje czyniæ dobro dla ludzi.}
-{116}{}{Nie wygl¹dacie mi na organizacjê charytatywn¹, ani na koœció³.}
-{117}{}{Brzmi interesuj¹co. Dok³adniej w jaki sposób?}
-{118}{}{Chcê tylko naprawiæ mój samochód.}
-{119}{}{Wynoœ siê st¹d. Saloon jest na g³ównej ulicy.}
-{120}{}{Nienawidzi niewolnictwa, hmm. Ciekawe. A co zrobisz, gdy ju¿ znajdziesz tê grupê?}
-{121}{}{Spytam, czy nie chcieliby mniej przyj¹æ.}
-{122}{}{Skopiê im ty³ki.}
+{109}{}{Szukam pewnej grupy. Takiej, ktÃ³ra nienawidzi niewolnictwa. NazywajÄ… siÄ™ StraÅ¼nikami Republiki Nowej Kalifornii.}
+{110}{}{Czy moÅ¼esz naprawiÄ‡ mÃ³j samochÃ³d?}
+{111}{}{Ee - to miejsce wydawaÅ‚o mi siÄ™ byÄ‡ opuszczone.}
+{112}{}{Tak? Co ci powiedziaÅ‚?}
+{113}{}{Niewiele. Å»e jesteÅ›cie dobrymi ludÅºmi i, Å¼e byÄ‡ moÅ¼e zechcÄ™ siÄ™ z wami zwiÄ…zaÄ‡.}
+{114}{}{PowiedziaÅ‚, Å¼e pÅ‚acicie niezÅ‚Ä… kasÄ™.}
+{115}{}{Jestem Elise. To jest Gond. JesteÅ›my czÅ‚onkami "grupy", ktÃ³ra prÃ³buje czyniÄ‡ dobro dla ludzi.}
+{116}{}{Nie wyglÄ…dacie mi na organizacjÄ™ charytatywnÄ…, ani na koÅ›ciÃ³Å‚.}
+{117}{}{Brzmi interesujÄ…co. DokÅ‚adniej w jaki sposÃ³b?}
+{118}{}{ChcÄ™ tylko naprawiÄ‡ mÃ³j samochÃ³d.}
+{119}{}{WynoÅ› siÄ™ stÄ…d. Saloon jest na gÅ‚Ã³wnej ulicy.}
+{120}{}{Nienawidzi niewolnictwa, hmm. Ciekawe. A co zrobisz, gdy juÅ¼ znajdziesz tÄ™ grupÄ™?}
+{121}{}{Spytam, czy nie chcieliby mniej przyjÄ…Ä‡.}
+{122}{}{SkopiÄ™ im tyÅ‚ki.}
 {123}{}{Nic nic.}
-{124}{}{Nie twój interes. A teraz spadaj.}
-{125}{}{Interes samochodowy jest ju¿ zamkniêty, nieodwo³alnie. Do widzenia.}
+{124}{}{Nie twÃ³j interes. A teraz spadaj.}
+{125}{}{Interes samochodowy jest juÅ¼ zamkniÄ™ty, nieodwoÅ‚alnie. Do widzenia.}
 {126}{}{Nie. Do widzenia.}
-{127}{}{W porz¹dku, wiêc powiedz mi... co myœlisz o ³owcach niewolników?}
-{128}{}{Nienawidzê ich. Obrzydliwe, nikczemne szumowiny Ziemi.}
-{129}{}{Je¿eli zostawiaj¹ mnie w spokoju, to i ja ich zostawiam w spokoju.}
-{130}{}{Niektórzy z moich najlepszych kumpli s¹ ³owcami niewolników.}
-{131}{}{Czy tylko zale¿y ci na pieni¹dzach?}
-{132}{}{Oczywiœcie, ¿e nie. Wierzê w prawdê, sprawiedliwoœæ i walkê w obronie uciœnionych,}
-{133}{}{To pocz¹tek - dopóki ktoœ nie poda mi lepszej sprawy, dla której mo¿na by walczyæ.}
-{134}{}{A jest coœ wiêcej?}
-{135}{}{Nie wciskaj mi kitu. Widzê przecie¿, z kim mam do czynienia. ¯egnam.}
-{136}{}{Je¿eli nie wiesz, to tracê swój czas. Do widzenia.}
-{137}{}{Nie, nie jesteœmy organizacj¹ religijn¹. Mogê ci zadaæ pytanie?}
-{138}{}{Jasne, mów.}
-{139}{}{Nie tak szybko. Musisz zdaæ test, aby przy³¹czyæ siê do Stra¿ników.}
-{140}{}{W porz¹dku. Mów.}
-{141}{}{Test? Co to jest - szko³a?}
-{142}{}{Na zewn¹trz miasta jest ³owca niewolników. Mo¿e rzuci³ ci siê ju¿ w oczy jego obóz. Uwolnij tam niewolników, a potem wróæ i porozmawiamy.}
-{143}{}{Mogê to zrobiæ.}
-{144}{}{Nie ma mowy. Nie chcê tu mieæ ¿adnych k³opotów.}
-{145}{}{Có¿, to twój szczêœliwy dzieñ.}
-{146}{}{W³aœnie takie podejœcie jest g³ówn¹ przyczyn¹ istnienia okrucieñstwa niewolnictwa. Przykro mi, ale nie ma dla ciebie miejsca w naszej organizacji.}
-{147}{}{W porz¹dku.}
-{148}{}{Wiêc, zmiana zdania? Czy mo¿esz ju¿ udowodniæ swoj¹ wartoœæ?}
+{127}{}{W porzÄ…dku, wiÄ™c powiedz mi... co myÅ›lisz o Å‚owcach niewolnikÃ³w?}
+{128}{}{NienawidzÄ™ ich. Obrzydliwe, nikczemne szumowiny Ziemi.}
+{129}{}{JeÅ¼eli zostawiajÄ… mnie w spokoju, to i ja ich zostawiam w spokoju.}
+{130}{}{NiektÃ³rzy z moich najlepszych kumpli sÄ… Å‚owcami niewolnikÃ³w.}
+{131}{}{Czy tylko zaleÅ¼y ci na pieniÄ…dzach?}
+{132}{}{OczywiÅ›cie, Å¼e nie. WierzÄ™ w prawdÄ™, sprawiedliwoÅ›Ä‡ i walkÄ™ w obronie uciÅ›nionych,}
+{133}{}{To poczÄ…tek - dopÃ³ki ktoÅ› nie poda mi lepszej sprawy, dla ktÃ³rej moÅ¼na by walczyÄ‡.}
+{134}{}{A jest coÅ› wiÄ™cej?}
+{135}{}{Nie wciskaj mi kitu. WidzÄ™ przecieÅ¼, z kim mam do czynienia. Å»egnam.}
+{136}{}{JeÅ¼eli nie wiesz, to tracÄ™ swÃ³j czas. Do widzenia.}
+{137}{}{Nie, nie jesteÅ›my organizacjÄ… religijnÄ…. MogÄ™ ci zadaÄ‡ pytanie?}
+{138}{}{Jasne, mÃ³w.}
+{139}{}{Nie tak szybko. Musisz zdaÄ‡ test, aby przyÅ‚Ä…czyÄ‡ siÄ™ do StraÅ¼nikÃ³w.}
+{140}{}{W porzÄ…dku. MÃ³w.}
+{141}{}{Test? Co to jest - szkoÅ‚a?}
+{142}{}{Na zewnÄ…trz miasta jest Å‚owca niewolnikÃ³w. MoÅ¼e rzuciÅ‚ ci siÄ™ juÅ¼ w oczy jego obÃ³z. Uwolnij tam niewolnikÃ³w, a potem wrÃ³Ä‡ i porozmawiamy.}
+{143}{}{MogÄ™ to zrobiÄ‡.}
+{144}{}{Nie ma mowy. Nie chcÄ™ tu mieÄ‡ Å¼adnych kÅ‚opotÃ³w.}
+{145}{}{CÃ³Å¼, to twÃ³j szczÄ™Å›liwy dzieÅ„.}
+{146}{}{WÅ‚aÅ›nie takie podejÅ›cie jest gÅ‚Ã³wnÄ… przyczynÄ… istnienia okrucieÅ„stwa niewolnictwa. Przykro mi, ale nie ma dla ciebie miejsca w naszej organizacji.}
+{147}{}{W porzÄ…dku.}
+{148}{}{WiÄ™c, zmiana zdania? Czy moÅ¼esz juÅ¼ udowodniÄ‡ swojÄ… wartoÅ›Ä‡?}
 {149}{}{Jasne.}
-{150}{}{Co dok³adnie chcieliœcie mieæ za³atwione?}
-{151}{}{Czy nie masz jakiejœ roboty? Nie wracaj, dopóki zadanie nie zostanie wykonane.}
-{152}{}{S³ysza³am ju¿ wieœci. Niewolnicy s¹ wolni. Dobra robota! A wiêc czy chcesz ju¿ zostaæ Stra¿nikiem?}
+{150}{}{Co dokÅ‚adnie chcieliÅ›cie mieÄ‡ zaÅ‚atwione?}
+{151}{}{Czy nie masz jakiejÅ› roboty? Nie wracaj, dopÃ³ki zadanie nie zostanie wykonane.}
+{152}{}{SÅ‚yszaÅ‚am juÅ¼ wieÅ›ci. Niewolnicy sÄ… wolni. Dobra robota! A wiÄ™c czy chcesz juÅ¼ zostaÄ‡ StraÅ¼nikiem?}
 {153}{}{Tak.}
 {154}{}{Nie.}
-{155}{}{S³ysza³am, ¿e to dziêki tobie wszyscy niewolnicy z przedmieœcia zostali uwolnieni. To wspania³y czyn i chcia³abym ci uœcisn¹æ d³oñ.}
-{156}{}{Dziêkujê.}
-{157}{}{To proste. Wierzymy, ¿e niewolnictwo jest z³e i zrobimy wszystko aby je zwalczaæ. W RNK mamy wielu wysoko postawionych przyjació³. Dziêki nim ju¿ zabroniliœmy niewolnictwa na po³udniu, ale teraz mamy nadziejê szerzyæ s³owo na pó³nocy.}
-{158}{}{Z dum¹ do³¹czê do takiej grupy, jak Stra¿nicy. Zapiszcie mnie.}
-{159}{}{Interesuj¹ce... pomyœlê o tym, co powiedzia³aœ.}
-{160}{}{Czy przysiêgasz walczyæ z niewolnictwem, kiedy tylko wyst¹pi po temu sposobnoœæ i pomagaæ innym Stra¿nikom, kiedy tylko bêd¹ w potrzebie?}
+{155}{}{SÅ‚yszaÅ‚am, Å¼e to dziÄ™ki tobie wszyscy niewolnicy z przedmieÅ›cia zostali uwolnieni. To wspaniaÅ‚y czyn i chciaÅ‚abym ci uÅ›cisnÄ…Ä‡ dÅ‚oÅ„.}
+{156}{}{DziÄ™kujÄ™.}
+{157}{}{To proste. Wierzymy, Å¼e niewolnictwo jest zÅ‚e i zrobimy wszystko aby je zwalczaÄ‡. W RNK mamy wielu wysoko postawionych przyjaciÃ³Å‚. DziÄ™ki nim juÅ¼ zabroniliÅ›my niewolnictwa na poÅ‚udniu, ale teraz mamy nadziejÄ™ szerzyÄ‡ sÅ‚owo na pÃ³Å‚nocy.}
+{158}{}{Z dumÄ… doÅ‚Ä…czÄ™ do takiej grupy, jak StraÅ¼nicy. Zapiszcie mnie.}
+{159}{}{InteresujÄ…ce... pomyÅ›lÄ™ o tym, co powiedziaÅ‚aÅ›.}
+{160}{}{Czy przysiÄ™gasz walczyÄ‡ z niewolnictwem, kiedy tylko wystÄ…pi po temu sposobnoÅ›Ä‡ i pomagaÄ‡ innym StraÅ¼nikom, kiedy tylko bÄ™dÄ… w potrzebie?}
 {161}{}{Tak.}
 {162}{}{Nie.}
-{163}{}{Gratulacje, nale¿ysz teraz do Stra¿ników.}
-{164}{}{Mi³o ciê widzieæ, Stra¿niku. Obawiam siê jednak, ¿e w tej chwili nie ma tu du¿o do roboty. Wiêkszoœæ ludzi jest ju¿ na patrolach. Rozpowiem wszystkim, ¿e nale¿ysz do nas. Nie chcia³abym, aby któryœ z nas ciê zastrzeli³.}
-{165}{}{Có¿, zawsze szukamy dobrych ludzi, którzy poci¹gn¹ dalej nasz¹ sprawê. Je¿eli zmienisz zdanie, przyjdŸ do mnie. Z pewnoœci¹ nie chcesz siê teraz przy³¹czyæ?}
+{163}{}{Gratulacje, naleÅ¼ysz teraz do StraÅ¼nikÃ³w.}
+{164}{}{MiÅ‚o ciÄ™ widzieÄ‡, StraÅ¼niku. Obawiam siÄ™ jednak, Å¼e w tej chwili nie ma tu duÅ¼o do roboty. WiÄ™kszoÅ›Ä‡ ludzi jest juÅ¼ na patrolach. Rozpowiem wszystkim, Å¼e naleÅ¼ysz do nas. Nie chciaÅ‚abym, aby ktÃ³ryÅ› z nas ciÄ™ zastrzeliÅ‚.}
+{165}{}{CÃ³Å¼, zawsze szukamy dobrych ludzi, ktÃ³rzy pociÄ…gnÄ… dalej naszÄ… sprawÄ™. JeÅ¼eli zmienisz zdanie, przyjdÅº do mnie. Z pewnoÅ›ciÄ… nie chcesz siÄ™ teraz przyÅ‚Ä…czyÄ‡?}
 {166}{}{Na pewno.}
-{167}{}{Có¿, teraz, gdy o tym mówisz, chyba jednak chcê zostaæ Stra¿nikiem.}
-{168}{}{Rozumiem. Có¿, reprezentujê grupê nazywan¹ Stra¿nikami Republiki Nowej Kalifornii. Ktoœ z takimi pogl¹dami, jak twoje, móg³by kwalifikowaæ siê na cz³onka. Interesuje ciê to?}
+{167}{}{CÃ³Å¼, teraz, gdy o tym mÃ³wisz, chyba jednak chcÄ™ zostaÄ‡ StraÅ¼nikiem.}
+{168}{}{Rozumiem. CÃ³Å¼, reprezentujÄ™ grupÄ™ nazywanÄ… StraÅ¼nikami Republiki Nowej Kalifornii. KtoÅ› z takimi poglÄ…dami, jak twoje, mÃ³gÅ‚by kwalifikowaÄ‡ siÄ™ na czÅ‚onka. Interesuje ciÄ™ to?}
 {169}{}{Wspaniale! Zapiszcie mnie.}
-{170}{}{Brzmi interesuj¹co. Co mo¿esz mi powiedzieæ o Stra¿nikach?}
-{171}{}{Rozumiem. Dziêki za odwiedziny, ale nie widzê niczego innego, co moglibyœmy sobie powiedzieæ. Je¿eli zmienisz zdanie, wróæ i zobacz siê ze mn¹.}
-{172}{}{W porz¹dku.}
-{173}{}{W takim razie muszê prosiæ ciê o zejœcie mi z oczu. Ju¿!}
-{174}{}{W porz¹dku.}
-{175}{}{£owca niewolników! Wynoœ siê st¹d zanim usunê ci ten tatua¿ kul¹!}
+{170}{}{Brzmi interesujÄ…co. Co moÅ¼esz mi powiedzieÄ‡ o StraÅ¼nikach?}
+{171}{}{Rozumiem. DziÄ™ki za odwiedziny, ale nie widzÄ™ niczego innego, co moglibyÅ›my sobie powiedzieÄ‡. JeÅ¼eli zmienisz zdanie, wrÃ³Ä‡ i zobacz siÄ™ ze mnÄ….}
+{172}{}{W porzÄ…dku.}
+{173}{}{W takim razie muszÄ™ prosiÄ‡ ciÄ™ o zejÅ›cie mi z oczu. JuÅ¼!}
+{174}{}{W porzÄ…dku.}
+{175}{}{Åowca niewolnikÃ³w! WynoÅ› siÄ™ stÄ…d zanim usunÄ™ ci ten tatuaÅ¼ kulÄ…!}
 {176}{}{Jasne.}
-{177}{}{Tylko spróbuj!}
-{178}{}{Mamy agentów i sympatyków w niektórych miastach na pó³nocy. Roznosimy s³owo i uderzamy w ³owców niewolników gdzie tylko mo¿emy.}
-{179}{}{Witaj ponownie. Czy chcesz siê jednak przy³¹czyæ?}
-{180}{}{Niewa¿ne.}
-{181}{}{To nie nale¿y do ciebie. A teraz wyjdŸ, zanim oka¿ê przemoc.}
-{182}{}{Nie wiem, co siê przez ciebie sta³o Gondowi, ale zap³acisz za to!}
-{200}{}{Gratulacje, teraz jesteœ Stra¿nikiem RNK. Odt¹d, zwalczanie niewolnictwa jest twoim obowi¹zkiem. Dbaj o siebie przyjacielu.}
-{201}{}{Zanim pójdê, mam pewne informacje, które mog¹ ciê zainteresowaæ.}
-{202}{}{W porz¹dku. Dawaj.}
-{203}{}{Znam po³o¿enie obozu ³owców niewolników niedaleko na pó³nocny-zachód od Nory. Jeden z g³ównych obozów Metzgera.}
-{204}{}{Naprawdê? Có¿, w takim razie musi byæ jak najszybciej zniszczony. Nasi ludzie na pó³nocy próbowali znaleŸæ takie miejsca, ale bez skutku. Zniszczenie tego okropnego obozu jest istotne dla naszej misji zwalczenia niewolnictwa. Jak dobrze jest strze¿ony? I gdzie?}
-{205}{}{Spokojnie. Ju¿ za³atwione. Obóz ³owców jest ju¿ zniszczony.}
-{206}{}{Strze¿e go ponad tuzin ludzi.}
-{207}{}{Nie mam pewnoœci jak wielu ich jest. Jeszcze mnie tam nie by³o.}
-{208}{}{Co? To œwietnie. To musia³ byæ cios dla ³owców niewolników. Jesteœmy twoimi d³u¿nikami.}
-{209}{}{Wasza wdziêcznoœæ jest dla mnie wystarczaj¹c¹ nagrod¹. Trzymajcie siê.}
-{210}{}{Nie pogardzê pieniêdzmi. Mogê trochê dostaæ?}
-{211}{}{Musimy ich natychmiast zaatakowaæ. Bardzo przyda³aby siê nam twoja pomoc?}
-{212}{}{Myœlê, ¿e sobie poradzicie beze mnie. Do widzenia.}
-{213}{}{To mój obowi¹zek, jako Stra¿nika. Oczywiœcie, ¿e pomogê.}
-{214}{}{Wyœmienicie! Proszê zg³oœ siê jak ju¿ zlikwidujesz ten obóz.}
-{215}{}{Daj mi trochê czasu. Wrócê, jak siê przygotujê.}
-{216}{}{Oczywiœcie. Do zobaczenia wkrótce.}
-{217}{}{Dzia³am spontanicznie. Nie muszê siê przygotowywaæ. Czas ruszaæ w drogê.}
-{218}{}{W³aœciwie to nie chcê ju¿ tego robiæ. Do zobaczenia.}
-{219}{}{W³aœciwie to myœlê, ¿e najlepiej by by³o gdyby kilku Stra¿ników posz³o ze mn¹. Zapewni³oby to tym wiêksze zwyciêstwo zarówno dla mnie jak i dla sprawy zwalczania niewolnictwa.}
-{220}{}{Przykro mi, ale nie. Nie mogê sobie pozwoliæ na odes³anie nawet kilku moich ludzi. Niestety, ale musisz za³atwiæ to swoimi si³ami.}
-{221}{}{W porz¹dku, poradzê sobie. Jak skoñczê, z³o¿ê raport.}
-{222}{}{W porz¹dku, za³atwiê to. Ale potrzebuje czasu na przygotowanie. Jeszcze tu wrócê.}
-{223}{}{Wiêc muszê odmówiæ. ¯egnam.}
-{224}{}{Masz racjê. Zbiorê grupê ludzi i poœlê ich z tob¹. Mo¿esz ruszaæ?}
-{225}{}{Potrzebuje trochê czasu na przygotowania. Jeszcze tu wrócê.}
-{226}{}{Mogê. Ruszajmy.}
-{227}{}{Pieni¹dze? Có¿, mo¿emy przynajmniej tyle zrobiæ. Proszê 1000$ za fatygê. Jeszcze raz dziêkujê.}
-{228}{}{Przyjemnoœæ po mojej stronie. Do widzenia.}
-{229}{}{Czas zaatakowaæ obóz ³owców niewolników?}
-{230}{}{Wci¹¿ potrzebujê wiêcej czasu.}
-{231}{}{Mogê ruszaæ. Czas to za³atwiæ.}
-{232}{}{Oddzia³ do³¹czy po drodze. Powodzenia.}
+{177}{}{Tylko sprÃ³buj!}
+{178}{}{Mamy agentÃ³w i sympatykÃ³w w niektÃ³rych miastach na pÃ³Å‚nocy. Roznosimy sÅ‚owo i uderzamy w Å‚owcÃ³w niewolnikÃ³w gdzie tylko moÅ¼emy.}
+{179}{}{Witaj ponownie. Czy chcesz siÄ™ jednak przyÅ‚Ä…czyÄ‡?}
+{180}{}{NiewaÅ¼ne.}
+{181}{}{To nie naleÅ¼y do ciebie. A teraz wyjdÅº, zanim okaÅ¼Ä™ przemoc.}
+{182}{}{Nie wiem, co siÄ™ przez ciebie staÅ‚o Gondowi, ale zapÅ‚acisz za to!}
+{200}{}{Gratulacje, teraz jesteÅ› StraÅ¼nikiem RNK. OdtÄ…d, zwalczanie niewolnictwa jest twoim obowiÄ…zkiem. Dbaj o siebie przyjacielu.}
+{201}{}{Zanim pÃ³jdÄ™, mam pewne informacje, ktÃ³re mogÄ… ciÄ™ zainteresowaÄ‡.}
+{202}{}{W porzÄ…dku. Dawaj.}
+{203}{}{Znam poÅ‚oÅ¼enie obozu Å‚owcÃ³w niewolnikÃ³w niedaleko na pÃ³Å‚nocny-zachÃ³d od Nory. Jeden z gÅ‚Ã³wnych obozÃ³w Metzgera.}
+{204}{}{NaprawdÄ™? CÃ³Å¼, w takim razie musi byÄ‡ jak najszybciej zniszczony. Nasi ludzie na pÃ³Å‚nocy prÃ³bowali znaleÅºÄ‡ takie miejsca, ale bez skutku. Zniszczenie tego okropnego obozu jest istotne dla naszej misji zwalczenia niewolnictwa. Jak dobrze jest strzeÅ¼ony? I gdzie?}
+{205}{}{Spokojnie. JuÅ¼ zaÅ‚atwione. ObÃ³z Å‚owcÃ³w jest juÅ¼ zniszczony.}
+{206}{}{StrzeÅ¼e go ponad tuzin ludzi.}
+{207}{}{Nie mam pewnoÅ›ci jak wielu ich jest. Jeszcze mnie tam nie byÅ‚o.}
+{208}{}{Co? To Å›wietnie. To musiaÅ‚ byÄ‡ cios dla Å‚owcÃ³w niewolnikÃ³w. JesteÅ›my twoimi dÅ‚uÅ¼nikami.}
+{209}{}{Wasza wdziÄ™cznoÅ›Ä‡ jest dla mnie wystarczajÄ…cÄ… nagrodÄ…. Trzymajcie siÄ™.}
+{210}{}{Nie pogardzÄ™ pieniÄ™dzmi. MogÄ™ trochÄ™ dostaÄ‡?}
+{211}{}{Musimy ich natychmiast zaatakowaÄ‡. Bardzo przydaÅ‚aby siÄ™ nam twoja pomoc?}
+{212}{}{MyÅ›lÄ™, Å¼e sobie poradzicie beze mnie. Do widzenia.}
+{213}{}{To mÃ³j obowiÄ…zek, jako StraÅ¼nika. OczywiÅ›cie, Å¼e pomogÄ™.}
+{214}{}{WyÅ›mienicie! ProszÄ™ zgÅ‚oÅ› siÄ™ jak juÅ¼ zlikwidujesz ten obÃ³z.}
+{215}{}{Daj mi trochÄ™ czasu. WrÃ³cÄ™, jak siÄ™ przygotujÄ™.}
+{216}{}{OczywiÅ›cie. Do zobaczenia wkrÃ³tce.}
+{217}{}{DziaÅ‚am spontanicznie. Nie muszÄ™ siÄ™ przygotowywaÄ‡. Czas ruszaÄ‡ w drogÄ™.}
+{218}{}{WÅ‚aÅ›ciwie to nie chcÄ™ juÅ¼ tego robiÄ‡. Do zobaczenia.}
+{219}{}{WÅ‚aÅ›ciwie to myÅ›lÄ™, Å¼e najlepiej by byÅ‚o gdyby kilku StraÅ¼nikÃ³w poszÅ‚o ze mnÄ…. ZapewniÅ‚oby to tym wiÄ™ksze zwyciÄ™stwo zarÃ³wno dla mnie jak i dla sprawy zwalczania niewolnictwa.}
+{220}{}{Przykro mi, ale nie. Nie mogÄ™ sobie pozwoliÄ‡ na odesÅ‚anie nawet kilku moich ludzi. Niestety, ale musisz zaÅ‚atwiÄ‡ to swoimi siÅ‚ami.}
+{221}{}{W porzÄ…dku, poradzÄ™ sobie. Jak skoÅ„czÄ™, zÅ‚oÅ¼Ä™ raport.}
+{222}{}{W porzÄ…dku, zaÅ‚atwiÄ™ to. Ale potrzebuje czasu na przygotowanie. Jeszcze tu wrÃ³cÄ™.}
+{223}{}{WiÄ™c muszÄ™ odmÃ³wiÄ‡. Å»egnam.}
+{224}{}{Masz racjÄ™. ZbiorÄ™ grupÄ™ ludzi i poÅ›lÄ™ ich z tobÄ…. MoÅ¼esz ruszaÄ‡?}
+{225}{}{Potrzebuje trochÄ™ czasu na przygotowania. Jeszcze tu wrÃ³cÄ™.}
+{226}{}{MogÄ™. Ruszajmy.}
+{227}{}{PieniÄ…dze? CÃ³Å¼, moÅ¼emy przynajmniej tyle zrobiÄ‡. ProszÄ™ 1000$ za fatygÄ™. Jeszcze raz dziÄ™kujÄ™.}
+{228}{}{PrzyjemnoÅ›Ä‡ po mojej stronie. Do widzenia.}
+{229}{}{Czas zaatakowaÄ‡ obÃ³z Å‚owcÃ³w niewolnikÃ³w?}
+{230}{}{WciÄ…Å¼ potrzebujÄ™ wiÄ™cej czasu.}
+{231}{}{MogÄ™ ruszaÄ‡. Czas to zaÅ‚atwiÄ‡.}
+{232}{}{OddziaÅ‚ doÅ‚Ä…czy po drodze. Powodzenia.}
 {233}{}{[KONIEC]}
-{234}{}{Ju¿ s³ysza³am nowinê. Dziêkujê za twoj¹ pomoc. To musia³ byæ cios dla kajdaniarzy. Jesteœmy ci d³u¿ni.}
-{235}{}{Proszê, nie zwlekaj za d³ugo. Ten atak jest bardzo wa¿ny dla naszej sprawy.}
-{236}{}{Uda³o ci siê pomóc Stra¿nikom w ich walce z niewolnictwem.}
-{240}{}{Dziêkujê. Do widzenia.}
-{250}{}{W³aœciwie, jest jeszcze coœ. Wygl¹dasz na kogoœ godnego zaufania. Kogoœ kto nie darzy kajdaniarzy sympati¹.}
-{251}{}{Dobra, w³aœnie wybi³em ca³y obóz ³owców. Co masz jeszcze na myœli?}
-{252}{}{S¹dzê, ¿e na dzisiaj mam doœæ. Do zobaczenia.}
-{260}{}{Co ty tu robisz? To jest prywatna. Hej, chwila, chyba o tobie s³ysza³am. Ostatnio jeden z obozów niewolników Metzgera zosta³ zniszczony, to przypadkiem nie twoja robota?}
+{234}{}{JuÅ¼ sÅ‚yszaÅ‚am nowinÄ™. DziÄ™kujÄ™ za twojÄ… pomoc. To musiaÅ‚ byÄ‡ cios dla kajdaniarzy. JesteÅ›my ci dÅ‚uÅ¼ni.}
+{235}{}{ProszÄ™, nie zwlekaj za dÅ‚ugo. Ten atak jest bardzo waÅ¼ny dla naszej sprawy.}
+{236}{}{UdaÅ‚o ci siÄ™ pomÃ³c StraÅ¼nikom w ich walce z niewolnictwem.}
+{240}{}{DziÄ™kujÄ™. Do widzenia.}
+{250}{}{WÅ‚aÅ›ciwie, jest jeszcze coÅ›. WyglÄ…dasz na kogoÅ› godnego zaufania. KogoÅ› kto nie darzy kajdaniarzy sympatiÄ….}
+{251}{}{Dobra, wÅ‚aÅ›nie wybiÅ‚em caÅ‚y obÃ³z Å‚owcÃ³w. Co masz jeszcze na myÅ›li?}
+{252}{}{SÄ…dzÄ™, Å¼e na dzisiaj mam doÅ›Ä‡. Do zobaczenia.}
+{260}{}{Co ty tu robisz? To jest prywatna. Hej, chwila, chyba o tobie sÅ‚yszaÅ‚am. Ostatnio jeden z obozÃ³w niewolnikÃ³w Metzgera zostaÅ‚ zniszczony, to przypadkiem nie twoja robota?}
 {261}{}{Ta. Moja.}
-{262}{}{Tak, to moja robota. Coœ ci siê nie podoba? }
-{263}{}{Mo¿e... a co?}
-{264}{}{Nie mam pojêcia o czym mówisz. A teraz przepraszam, ale muszê ju¿ iœæ.}
-{270}{}{To by³a œwietna robota, po prostu chcia³abym uœcisn¹æ Ci rêkê.}
-{271}{}{Nie w tym rzecz. Wrêcz przeciwnie, chcê uœcisn¹æ Ci rêkê.}
-{272}{}{Bo to by³a œwietna robota, po prostu chcia³abym uœcisn¹æ Ci rêkê.}
-{273}{}{Nie pogardzê pieniêdzmi. Mogê trochê dostaæ?}
-{274}{}{Proszê bardzo. A teraz, mo¿e powiesz mi kim ty jesteœ?}
-{280}{}{Nie mamy zbyt wielkich funduszy, ale to by³a dla nas wielka przys³uga wiêc myœlê, ¿e mo¿emy siê rozstaæ z ich czêœci¹. Proszê 1000$.}
-{281}{}{Dziêki. Na razie.}
-{282}{}{Dziêki. A teraz, mo¿e powiesz mi kim ty jesteœ?}
-{290}{}{Nazywam siê Elsie. To jest Gond. Jesteœmy cz³onkami grupy walcz¹cej z niewolnictwem, nazywaj¹ nas Stra¿nikami Republiki Nowej Kalifornii. Przyda³by nam siê ktoœ taki jak ty. Jeœli chcesz siê do nas przy³¹czyæ, to mam dla ciebie zadanie.}
-{291}{}{Zamieniam siê w s³uch.}
-{292}{}{Nie interesuje mnie to. Czeœæ.}
-{300}{}{Pomóc w czymœ?}
+{262}{}{Tak, to moja robota. CoÅ› ci siÄ™ nie podoba? }
+{263}{}{MoÅ¼e... a co?}
+{264}{}{Nie mam pojÄ™cia o czym mÃ³wisz. A teraz przepraszam, ale muszÄ™ juÅ¼ iÅ›Ä‡.}
+{270}{}{To byÅ‚a Å›wietna robota, po prostu chciaÅ‚abym uÅ›cisnÄ…Ä‡ Ci rÄ™kÄ™.}
+{271}{}{Nie w tym rzecz. WrÄ™cz przeciwnie, chcÄ™ uÅ›cisnÄ…Ä‡ Ci rÄ™kÄ™.}
+{272}{}{Bo to byÅ‚a Å›wietna robota, po prostu chciaÅ‚abym uÅ›cisnÄ…Ä‡ Ci rÄ™kÄ™.}
+{273}{}{Nie pogardzÄ™ pieniÄ™dzmi. MogÄ™ trochÄ™ dostaÄ‡?}
+{274}{}{ProszÄ™ bardzo. A teraz, moÅ¼e powiesz mi kim ty jesteÅ›?}
+{280}{}{Nie mamy zbyt wielkich funduszy, ale to byÅ‚a dla nas wielka przysÅ‚uga wiÄ™c myÅ›lÄ™, Å¼e moÅ¼emy siÄ™ rozstaÄ‡ z ich czÄ™Å›ciÄ…. ProszÄ™ 1000$.}
+{281}{}{DziÄ™ki. Na razie.}
+{282}{}{DziÄ™ki. A teraz, moÅ¼e powiesz mi kim ty jesteÅ›?}
+{290}{}{Nazywam siÄ™ Elsie. To jest Gond. JesteÅ›my czÅ‚onkami grupy walczÄ…cej z niewolnictwem, nazywajÄ… nas StraÅ¼nikami Republiki Nowej Kalifornii. PrzydaÅ‚by nam siÄ™ ktoÅ› taki jak ty. JeÅ›li chcesz siÄ™ do nas przyÅ‚Ä…czyÄ‡, to mam dla ciebie zadanie.}
+{291}{}{Zamieniam siÄ™ w sÅ‚uch.}
+{292}{}{Nie interesuje mnie to. CzeÅ›Ä‡.}
+{300}{}{PomÃ³c w czymÅ›?}

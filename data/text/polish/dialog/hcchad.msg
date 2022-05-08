@@ -1,80 +1,80 @@
-{100}{}{Widzisz szczup³ego mê¿czyznê o wygl¹dzie budz¹cym sympatiê.}
+{100}{}{Widzisz szczupÅ‚ego mÄ™Å¼czyznÄ™ o wyglÄ…dzie budzÄ…cym sympatiÄ™.}
 {101}{}{Widzisz Chada, karawaniarza.}
-{102}{}{Widzisz szczup³ego mê¿czyznê, który uœmiecha siê tak, jakby uœmiech ten mia³ s³u¿yæ za tarczê. Nosi niczym nie wyró¿niaj¹ce siê ubrania i trzyma siê jak ktoœ, kto wie co robi.}
-{120}{}{Witaj! Co mogê dla ciebie zrobiæ?}
-{121}{}{Wiêcej pytañ? Zobaczmy, czy uda mi siê odpowiedzieæ.}
+{102}{}{Widzisz szczupÅ‚ego mÄ™Å¼czyznÄ™, ktÃ³ry uÅ›miecha siÄ™ tak, jakby uÅ›miech ten miaÅ‚ sÅ‚uÅ¼yÄ‡ za tarczÄ™. Nosi niczym nie wyrÃ³Å¼niajÄ…ce siÄ™ ubrania i trzyma siÄ™ jak ktoÅ›, kto wie co robi.}
+{120}{}{Witaj! Co mogÄ™ dla ciebie zrobiÄ‡?}
+{121}{}{WiÄ™cej pytaÅ„? Zobaczmy, czy uda mi siÄ™ odpowiedzieÄ‡.}
 {122}{}{Diirk diigler!}
 {123}{}{Ty kto?}
-{124}{}{Marcus pyta³ o ciebie.}
-{125}{}{Istnieje wystarczaj¹co du¿o dowodów, ¿eby aresztowaæ ciê za kradzie¿ pieniêdzy, które nale¿a³y do Broken Hills. Jesteœ skoñczony.}
-{126}{}{Istnieje wystarczaj¹co du¿o dowodów, ¿eby aresztowaæ ciê za kradzie¿ pieniêdzy, które nale¿a³y do Broken Hills. Odpal mi $1000, a za³atwiê ci ucieczkê z miasta.}
-{127}{}{Kim jesteœ?}
+{124}{}{Marcus pytaÅ‚ o ciebie.}
+{125}{}{Istnieje wystarczajÄ…co duÅ¼o dowodÃ³w, Å¼eby aresztowaÄ‡ ciÄ™ za kradzieÅ¼ pieniÄ™dzy, ktÃ³re naleÅ¼aÅ‚y do Broken Hills. JesteÅ› skoÅ„czony.}
+{126}{}{Istnieje wystarczajÄ…co duÅ¼o dowodÃ³w, Å¼eby aresztowaÄ‡ ciÄ™ za kradzieÅ¼ pieniÄ™dzy, ktÃ³re naleÅ¼aÅ‚y do Broken Hills. Odpal mi $1000, a zaÅ‚atwiÄ™ ci ucieczkÄ™ z miasta.}
+{127}{}{Kim jesteÅ›?}
 {128}{}{Opowiedz mi o tym miejscu.}
 {129}{}{Nic takiego. Na razie.}
-{130}{}{Zobaczcie, co tu przywia³o z pustkowi! Przykro mi, nie umiem ci pomóc.}
+{130}{}{Zobaczcie, co tu przywiaÅ‚o z pustkowi! Przykro mi, nie umiem ci pomÃ³c.}
 {131}{}{Po razie!}
 {132}{}{Jestem Chad. }
-{133}{}{S³uchaj, jestem bardzo zajêty. Proszê, idŸ poprzeszkadzaæ komuœ innemu.}
-{134}{}{Jestem w tym mieœcie szefem karawan, pilnujê interesów w punktach docelowych. Ostatnio koncentrujê siê g³ównie na Gecko.}
+{133}{}{SÅ‚uchaj, jestem bardzo zajÄ™ty. ProszÄ™, idÅº poprzeszkadzaÄ‡ komuÅ› innemu.}
+{134}{}{Jestem w tym mieÅ›cie szefem karawan, pilnujÄ™ interesÃ³w w punktach docelowych. Ostatnio koncentrujÄ™ siÄ™ gÅ‚Ã³wnie na Gecko.}
 {135}{}{Oki!}
-{136}{}{Chcê zdobyæ u ciebie pracê.}
-{137}{}{Fascynuj¹ce.}
+{136}{}{ChcÄ™ zdobyÄ‡ u ciebie pracÄ™.}
+{137}{}{FascynujÄ…ce.}
 {138}{}{Ale nudy.}
-{139}{}{Mam wiêcej pytañ.}
-{140}{}{Dziêki. Na razie.}
-{141}{}{Opowiedzieæ ci o Broken Hills? Có¿... Przeprowadzi³em siê tu kilka lat temu. Dosta³em pracê u Billa --
- to nasz Zaopatrzeniowiec -- i przenios³em siê tu, gdzie ¿yjê do dzisiaj. Jestem podw³adnym Marcusa i Billa, ale
+{139}{}{Mam wiÄ™cej pytaÅ„.}
+{140}{}{DziÄ™ki. Na razie.}
+{141}{}{OpowiedzieÄ‡ ci o Broken Hills? CÃ³Å¼... PrzeprowadziÅ‚em siÄ™ tu kilka lat temu. DostaÅ‚em pracÄ™ u Billa --
+ to nasz Zaopatrzeniowiec -- i przeniosÅ‚em siÄ™ tu, gdzie Å¼yjÄ™ do dzisiaj. Jestem podwÅ‚adnym Marcusa i Billa, ale
  odpowiadam za utrzymanie miasta.}
-{142}{}{Mam wiêcej pytañ.}
+{142}{}{Mam wiÄ™cej pytaÅ„.}
 {143}{}{Bywaj.}
-{144}{}{Na przyk³ad?}
-{145}{}{Podejrzewa, ¿e podbierasz pieni¹dze, które powinny iœæ do Broken Hills.}
-{146}{}{W³aœciwie to nic. Czeœæ.}
-{147}{}{S³uchaj nie lubiê ludzi, którzy oskar¿aj¹ mnie o coœ o czym nie mam nawet pojêcia. Sugerujê wyjœcie st¹d.}
-{150}{}{Dowiem siê prawdy. Czeœæ.}
-{156}{}{Porozmawiaj z Billem. On ci pomo¿e.}
-{157}{}{Mam wiêcej pytañ.}
-{158}{}{Dziêki. Na razie.}
-{159}{}{O tak. Pewnie nie przysz³oby ci to do g³owy, ale dziêki temu du¿o podró¿ujê i zwiedzam ca³y œwiat... i czujê, ¿e robiê coœ po¿ytecznego dla miasta. To dobre ¿ycie.}
-{160}{}{Brzmi œwietnie. Mi³o by³oby mieæ tak¹ pracê.}
-{161}{}{W³aœciwie wydaje mi siê to dosyæ nudne.}
-{162}{}{Mam wiêcej pytañ.}
+{144}{}{Na przykÅ‚ad?}
+{145}{}{Podejrzewa, Å¼e podbierasz pieniÄ…dze, ktÃ³re powinny iÅ›Ä‡ do Broken Hills.}
+{146}{}{WÅ‚aÅ›ciwie to nic. CzeÅ›Ä‡.}
+{147}{}{SÅ‚uchaj nie lubiÄ™ ludzi, ktÃ³rzy oskarÅ¼ajÄ… mnie o coÅ› o czym nie mam nawet pojÄ™cia. SugerujÄ™ wyjÅ›cie stÄ…d.}
+{150}{}{Dowiem siÄ™ prawdy. CzeÅ›Ä‡.}
+{156}{}{Porozmawiaj z Billem. On ci pomoÅ¼e.}
+{157}{}{Mam wiÄ™cej pytaÅ„.}
+{158}{}{DziÄ™ki. Na razie.}
+{159}{}{O tak. Pewnie nie przyszÅ‚oby ci to do gÅ‚owy, ale dziÄ™ki temu duÅ¼o podrÃ³Å¼ujÄ™ i zwiedzam caÅ‚y Å›wiat... i czujÄ™, Å¼e robiÄ™ coÅ› poÅ¼ytecznego dla miasta. To dobre Å¼ycie.}
+{160}{}{Brzmi Å›wietnie. MiÅ‚o byÅ‚oby mieÄ‡ takÄ… pracÄ™.}
+{161}{}{WÅ‚aÅ›ciwie wydaje mi siÄ™ to dosyÄ‡ nudne.}
+{162}{}{Mam wiÄ™cej pytaÅ„.}
 {163}{}{Bywaj.}
-{164}{}{Pewnie i tak jest du¿o bardziej fascynuj¹ce ni¿ twój tryb ¿ycia, palancie.}
-{165}{}{Niech ci bêdzie. Mam wiêcej pytañ.}
-{166}{}{Ha ha ha ha! Jasne. Bywaj zdrów, ofiaro losu.}
-{167}{}{Któregoœ dnia za to zap³acisz, pacanie.}
-{168}{}{Nie chcê ciê wiêcej widzieæ.}
-{169}{}{Naprawdê nie wysz³o ci z t¹ karawan¹. To tyle, jeœli chodzi o twoje pieni¹dze.}
-{170}{}{Nie ma co, to siê nazywa spieprzyæ robotê. ¯yczê szczêœcia w szukaniu pracy przy jakiejkolwiek naszej karawanie.}
+{164}{}{Pewnie i tak jest duÅ¼o bardziej fascynujÄ…ce niÅ¼ twÃ³j tryb Å¼ycia, palancie.}
+{165}{}{Niech ci bÄ™dzie. Mam wiÄ™cej pytaÅ„.}
+{166}{}{Ha ha ha ha! Jasne. Bywaj zdrÃ³w, ofiaro losu.}
+{167}{}{KtÃ³regoÅ› dnia za to zapÅ‚acisz, pacanie.}
+{168}{}{Nie chcÄ™ ciÄ™ wiÄ™cej widzieÄ‡.}
+{169}{}{NaprawdÄ™ nie wyszÅ‚o ci z tÄ… karawanÄ…. To tyle, jeÅ›li chodzi o twoje pieniÄ…dze.}
+{170}{}{Nie ma co, to siÄ™ nazywa spieprzyÄ‡ robotÄ™. Å»yczÄ™ szczÄ™Å›cia w szukaniu pracy przy jakiejkolwiek naszej karawanie.}
 {171}{}{Dobra robota. Oto twoje 200$.}
-{172}{}{Zmiataj st¹d. Nie chcemy ju¿ twojej pomocy.}
+{172}{}{Zmiataj stÄ…d. Nie chcemy juÅ¼ twojej pomocy.}
 {173}{}{Miej oczy szeroko otwarte.}
-{174}{}{Bêdê pilnowaæ twoich ty³ów.}
-{175}{}{Nie pozwól draniom ciê zaskoczyæ.}
-{200}{}{Nie wiem o czym mówisz. Sugerujê, to zostawiæ. A teraz wynoœ siê st¹d.}
-{201}{}{Mam lepszy pomys³. Co powiesz na œmieræ, na skutek pobicia.}
-{202}{}{Z³a odpowiedŸ. Masz pecha, ze mn¹ siê nie zadziera.}
-{203}{}{Dobra, ¿egnaj.}
-{204}{}{A cholera wiedzia³em, ¿e to nie mo¿e trwaæ wiecznie. [Rozgl¹da siê i œcisza g³os.] Dobra s³uchaj. Nikomu, o tym ani s³owa. Masz to 1000$ za twoj¹ dyskrecjê. [Podaje ci pieni¹dze.] A teraz wybacz, ale muszê ju¿ iœæ.}
+{174}{}{BÄ™dÄ™ pilnowaÄ‡ twoich tyÅ‚Ã³w.}
+{175}{}{Nie pozwÃ³l draniom ciÄ™ zaskoczyÄ‡.}
+{200}{}{Nie wiem o czym mÃ³wisz. SugerujÄ™, to zostawiÄ‡. A teraz wynoÅ› siÄ™ stÄ…d.}
+{201}{}{Mam lepszy pomysÅ‚. Co powiesz na Å›mierÄ‡, na skutek pobicia.}
+{202}{}{ZÅ‚a odpowiedÅº. Masz pecha, ze mnÄ… siÄ™ nie zadziera.}
+{203}{}{Dobra, Å¼egnaj.}
+{204}{}{A cholera wiedziaÅ‚em, Å¼e to nie moÅ¼e trwaÄ‡ wiecznie. [RozglÄ…da siÄ™ i Å›cisza gÅ‚os.] Dobra sÅ‚uchaj. Nikomu, o tym ani sÅ‚owa. Masz to 1000$ za twojÄ… dyskrecjÄ™. [Podaje ci pieniÄ…dze.] A teraz wybacz, ale muszÄ™ juÅ¼ iÅ›Ä‡.}
 {205}{}{[dalej]}
-{206}{}{Pomocy! Mamy z³odzieja.}
+{206}{}{Pomocy! Mamy zÅ‚odzieja.}
 {207}{}{}
-{208}{}{Co do...!? Kim ty u diab³a jesteœ?}
-{209}{}{Ja? Yyy, jestem zêbow¹ wró¿k¹. Przynoszê ci wielkie bogactwa.}
-{210}{}{Taa, a ja jestem Œwiêty Miko³aj. Kim ty kurwa jesteœ i co robisz w moim domu!?}
-{211}{}{Naprawdê? Ju¿ spotka³em goœcia, który twierdzi³, ¿e jest Œwiêtym Miko³ajem w Nowym Reno.}
-{212}{}{*Gapi siê têpo*}
-{213}{}{(kontynuujesz) Tak, a potem opowiedzia³em mu swoj¹ historiê o Arroyo...}
-{214}{}{S³uchaj, gówno mnie obchodz¹ twoje urojone opowieœci. To ty wêszysz wko³o i zadajesz g³upie pytania o zaginione z karawany pieni¹dze.}
-{215}{}{Dok³adnie. I jestem tu po ostatni dowód.}
-{216}{}{O naprawdê? Pozwól, ¿e pomogê. Dokumenty których szukasz s¹ w teczce zamkniêtej w najni¿szej szufladzie tamtej komody. Ale nigdy jej nie dostaniesz, bo cie zabijê, cholerne zbawienie pustkowi. Gdyby nie ty, móg³bym oskubywaæ karawany jeszcze przez kilka miesiêcy. Ale nie, bo ktoœ musia³ siê wmieszaæ w nie swoje cholerne sprawy. A teraz bêdê musia³ uciec z miasta, ale przynajmniej bêdê mia³ przyjemnoœæ zostawienia po sobie twoich zw³ok.}
-{217}{}{Nikt tu nie musi gin¹æ, Chad. Zamiast robiæ coœ g³upiego co mo¿e ciê kosztowaæ ¿ycie, powinieneœ siê uspokoiæ, a potem omówimy to z Marcusem.}
-{218}{}{Myœlisz, ¿e jestem g³upi? Ten wielki paskudny kloc od razu mnie zamknie. Nie, obawiam siê, ¿e na pewno ktoœ tu zginie. I to nie bêdê ja!}
-{219}{}{Jestem tu po ostatni dowód w sprawie okradania karawan.}
-{220}{}{O, naprawdê?...Myœla³em, ¿e ciê rozpozna³em.}
-{221}{}{Dobra, dobra. Przyznajê siê do wszystkiego. Nie chcê za to umieraæ. Powiedz Marcusowi, ¿e poddam siê bez oporu.}
-{222}{}{Dobra, nie ruszaj siê. Pójdê po Marcusa.}
+{208}{}{Co do...!? Kim ty u diabÅ‚a jesteÅ›?}
+{209}{}{Ja? Yyy, jestem zÄ™bowÄ… wrÃ³Å¼kÄ…. PrzynoszÄ™ ci wielkie bogactwa.}
+{210}{}{Taa, a ja jestem ÅšwiÄ™ty MikoÅ‚aj. Kim ty kurwa jesteÅ› i co robisz w moim domu!?}
+{211}{}{NaprawdÄ™? JuÅ¼ spotkaÅ‚em goÅ›cia, ktÃ³ry twierdziÅ‚, Å¼e jest ÅšwiÄ™tym MikoÅ‚ajem w Nowym Reno.}
+{212}{}{*Gapi siÄ™ tÄ™po*}
+{213}{}{(kontynuujesz) Tak, a potem opowiedziaÅ‚em mu swojÄ… historiÄ™ o Arroyo...}
+{214}{}{SÅ‚uchaj, gÃ³wno mnie obchodzÄ… twoje urojone opowieÅ›ci. To ty wÄ™szysz wkoÅ‚o i zadajesz gÅ‚upie pytania o zaginione z karawany pieniÄ…dze.}
+{215}{}{DokÅ‚adnie. I jestem tu po ostatni dowÃ³d.}
+{216}{}{O naprawdÄ™? PozwÃ³l, Å¼e pomogÄ™. Dokumenty ktÃ³rych szukasz sÄ… w teczce zamkniÄ™tej w najniÅ¼szej szufladzie tamtej komody. Ale nigdy jej nie dostaniesz, bo cie zabijÄ™, cholerne zbawienie pustkowi. Gdyby nie ty, mÃ³gÅ‚bym oskubywaÄ‡ karawany jeszcze przez kilka miesiÄ™cy. Ale nie, bo ktoÅ› musiaÅ‚ siÄ™ wmieszaÄ‡ w nie swoje cholerne sprawy. A teraz bÄ™dÄ™ musiaÅ‚ uciec z miasta, ale przynajmniej bÄ™dÄ™ miaÅ‚ przyjemnoÅ›Ä‡ zostawienia po sobie twoich zwÅ‚ok.}
+{217}{}{Nikt tu nie musi ginÄ…Ä‡, Chad. Zamiast robiÄ‡ coÅ› gÅ‚upiego co moÅ¼e ciÄ™ kosztowaÄ‡ Å¼ycie, powinieneÅ› siÄ™ uspokoiÄ‡, a potem omÃ³wimy to z Marcusem.}
+{218}{}{MyÅ›lisz, Å¼e jestem gÅ‚upi? Ten wielki paskudny kloc od razu mnie zamknie. Nie, obawiam siÄ™, Å¼e na pewno ktoÅ› tu zginie. I to nie bÄ™dÄ™ ja!}
+{219}{}{Jestem tu po ostatni dowÃ³d w sprawie okradania karawan.}
+{220}{}{O, naprawdÄ™?...MyÅ›laÅ‚em, Å¼e ciÄ™ rozpoznaÅ‚em.}
+{221}{}{Dobra, dobra. PrzyznajÄ™ siÄ™ do wszystkiego. Nie chcÄ™ za to umieraÄ‡. Powiedz Marcusowi, Å¼e poddam siÄ™ bez oporu.}
+{222}{}{Dobra, nie ruszaj siÄ™. PÃ³jdÄ™ po Marcusa.}
 {300}{}{Pozwalasz Chadowi uciec z miasta.}
 {400}{}{Zostaw mnie w spokoju.}
-{2040}{}{A cholera wiedzia³em, ¿e to nie mo¿e trwaæ wiecznie. [Rozgl¹da siê i œcisza g³os.] Dobra s³uchaj. Nikomu, o tym ani s³owa. Masz to 1000$ za twoj¹ dyskrecjê. [Podaje ci pieni¹dze, a ty jemu teczkê.] A teraz wybacz, ale muszê ju¿ iœæ.}
+{2040}{}{A cholera wiedziaÅ‚em, Å¼e to nie moÅ¼e trwaÄ‡ wiecznie. [RozglÄ…da siÄ™ i Å›cisza gÅ‚os.] Dobra sÅ‚uchaj. Nikomu, o tym ani sÅ‚owa. Masz to 1000$ za twojÄ… dyskrecjÄ™. [Podaje ci pieniÄ…dze, a ty jemu teczkÄ™.] A teraz wybacz, ale muszÄ™ juÅ¼ iÅ›Ä‡.}

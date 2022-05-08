@@ -1,11 +1,11 @@
-{100}{}{Ez egy számítógép terminál, mindenféle adatokat mutat.}
-{101}{}{Egy terminált látsz.}
-{102}{}{Ez egy számítógép terminál, mindenféle adatokat mutat.}
-{103}{}{Menedékváros Elosztó Számítógépét látod.}
-{104}{}{Egy terminál.}
-{105}{}{Menedékváros Elosztó Számítógépét látod.}
-{106}{}{A PipBoy szerint ezt a gépet kell használnod.}
-{107}{}{Semmi nem történik.}
-{108}{}{A PipBoy-ban lev? információ segítségével belépsz a gépbe.}
+{100}{}{Ez egy szÃ¡mÃ­tÃ³gÃ©p terminÃ¡l, mindenfÃ©le adatokat mutat.}
+{101}{}{Egy terminÃ¡lt lÃ¡tsz.}
+{102}{}{Ez egy szÃ¡mÃ­tÃ³gÃ©p terminÃ¡l, mindenfÃ©le adatokat mutat.}
+{103}{}{MenedÃ©kvÃ¡ros ElosztÃ³ SzÃ¡mÃ­tÃ³gÃ©pÃ©t lÃ¡tod.}
+{104}{}{Egy terminÃ¡l.}
+{105}{}{MenedÃ©kvÃ¡ros ElosztÃ³ SzÃ¡mÃ­tÃ³gÃ©pÃ©t lÃ¡tod.}
+{106}{}{A PipBoy szerint ezt a gÃ©pet kell hasznÃ¡lnod.}
+{107}{}{Semmi nem tÃ¶rtÃ©nik.}
+{108}{}{A PipBoy-ban lev? informÃ¡ciÃ³ segÃ­tsÃ©gÃ©vel belÃ©psz a gÃ©pbe.}
 {109}{}{Aztaaaaa .....}
-{110}{}{Több TONNÁNYI információt tanultál meg a Fallout 2-r?l.}
+{110}{}{TÃ¶bb TONNÃNYI informÃ¡ciÃ³t tanultÃ¡l meg a Fallout 2-r?l.}

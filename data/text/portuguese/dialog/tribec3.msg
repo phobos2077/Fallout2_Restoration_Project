@@ -1,16 +1,16 @@
-{100}{}{Você vê um tribal.}
-{101}{}{Você vê um membro da tribo.}
+{100}{}{VocÃª vÃª um tribal.}
+{101}{}{VocÃª vÃª um membro da tribo.}
 {102}{}{Uma das poucas pessoas restantes na tribo.}
-{200}{}{Você não é bem vindo aqui.}
-{201}{}{Os espíritos não gostam de você.}
-{202}{}{Vá embora, estranho.}
+{200}{}{VocÃª nÃ£o Ã© bem vindo aqui.}
+{201}{}{Os espÃ­ritos nÃ£o gostam de vocÃª.}
+{202}{}{VÃ¡ embora, estranho.}
 {203}{}{Por que nos afligem?}
 {204}{}{Bem-vindo, guerreiro.}
-{205}{}{Você sempre será bem-vindo aqui.}
-{206}{}{Os espíritos aceitam você como um de nós.}
+{205}{}{VocÃª sempre serÃ¡ bem-vindo aqui.}
+{206}{}{Os espÃ­ritos aceitam vocÃª como um de nÃ³s.}
 {207}{}{Obrigado por nos ajudar.}
-{208}{}{Eu pensei que todos estranhos eram maus. Não é tão...}
-{209}{}{Não faça isso.}
-{210}{}{Escravistas não são bem-vindos aqui!}
-{300}{}{Estamos honrados em tê-lo aqui, herói.}
+{208}{}{Eu pensei que todos estranhos eram maus. NÃ£o Ã© tÃ£o...}
+{209}{}{NÃ£o faÃ§a isso.}
+{210}{}{Escravistas nÃ£o sÃ£o bem-vindos aqui!}
+{300}{}{Estamos honrados em tÃª-lo aqui, herÃ³i.}
 {301}{}{Sua derrota da Enclave deve ser registada como lenda. Seus ancestrais ficaram orgulhosos.}

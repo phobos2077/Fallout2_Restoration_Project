@@ -1,9 +1,9 @@
 {100}{}{Ein Nomade.}
-{101}{}{Hallo, sieht so aus, als wärst du neu hier.}
-{102}{}{Du solltest mit dem Häuptling reden.}
-{103}{}{Ich find's heut nicht so heiß wie gestern.}
+{101}{}{Hallo, sieht so aus, als wÃ¤rst du neu hier.}
+{102}{}{Du solltest mit dem HÃ¤uptling reden.}
+{103}{}{Ich find's heut nicht so heiÃŸ wie gestern.}
 {104}{}{Wie ist das Leben in der Stadt denn so?}
-{105}{}{Ungläubiger!}
+{105}{}{UnglÃ¤ubiger!}
 {106}{}{Warum greifst du uns an?}
 {107}{}{Ich werd die Sippe mit meinem Leben verteidigen!}
 {108}{}{Wie kannst du es nur wagen, unsre Gastfreundschaft zu missbrauchen.}

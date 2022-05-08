@@ -1,12 +1,12 @@
-{100}{}{Sólo otro guardia. Alguien debe de criarlos, porque parecen todos iguales.}
-{101}{}{Nada más que otro guardia. Seguramente no le gustas.}
+{100}{}{SÃ³lo otro guardia. Alguien debe de criarlos, porque parecen todos iguales.}
+{101}{}{Nada mÃ¡s que otro guardia. Seguramente no le gustas.}
 {102}{}{Le observas detenidamente y te convences de que es un guardia.}
-{103}{}{No estás autorizado a estar aquí.}
-{104}{}{¿Puedo ver tu pase?}
+{103}{}{No estÃ¡s autorizado a estar aquÃ­.}
+{104}{}{Â¿Puedo ver tu pase?}
 {105}{}{Esto es propiedad gubernamental. Circula, extranjero.}
-{106}{}{Así que tú eres el chico nuevo, ¿eh?}
-{107}{}{Si no has hablado con Carlson, será mejor que lo hagas.}
-{108}{}{El señor Carlson te está esperando.}
-{109}{}{El señor Carlson te verá ahora.}
-{110}{}{Espero que sea importante. El señor Carlson es un hombre ocupado.}
-{111}{}{Está dentro. Te sugiero que no alargues la visita.}
+{106}{}{AsÃ­ que tÃº eres el chico nuevo, Â¿eh?}
+{107}{}{Si no has hablado con Carlson, serÃ¡ mejor que lo hagas.}
+{108}{}{El seÃ±or Carlson te estÃ¡ esperando.}
+{109}{}{El seÃ±or Carlson te verÃ¡ ahora.}
+{110}{}{Espero que sea importante. El seÃ±or Carlson es un hombre ocupado.}
+{111}{}{EstÃ¡ dentro. Te sugiero que no alargues la visita.}

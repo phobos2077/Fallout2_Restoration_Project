@@ -1,9 +1,9 @@
-{100}{}{Widzisz pracuj¹cy komputer.}
-{101}{}{To terminal kontroli lotów.}
-{102}{}{Witamy w kontroli lotów. Terminal umo¿liwia satelitarne naprowadzanie Lataczy. Proszê wprowadziæ polecenie.}
+{100}{}{Widzisz pracujÄ…cy komputer.}
+{101}{}{To terminal kontroli lotÃ³w.}
+{102}{}{Witamy w kontroli lotÃ³w. Terminal umoÅ¼liwia satelitarne naprowadzanie Lataczy. ProszÄ™ wprowadziÄ‡ polecenie.}
 {103}{}{Wyloguj.}
-{104}{}{Ustaw po³¹czenie satelitarne w celu uzyskania wspó³rzêdnych z Enklavy.}
-{105}{}{Nawi¹zywanie po³¹czenia z satelit¹. Proszê czekaæ...}
+{104}{}{Ustaw poÅ‚Ä…czenie satelitarne w celu uzyskania wspÃ³Å‚rzÄ™dnych z Enklavy.}
+{105}{}{NawiÄ…zywanie poÅ‚Ä…czenia z satelitÄ…. ProszÄ™ czekaÄ‡...}
 {106}{}{[KONTYNUUJ]}
-{107}{}{Nawi¹zano po³¹czenie satelitarne. L¹dowisko platformy zosta³o przygotowane na przyjêcie Lataczy.}
+{107}{}{NawiÄ…zano poÅ‚Ä…czenie satelitarne. LÄ…dowisko platformy zostaÅ‚o przygotowane na przyjÄ™cie Lataczy.}
 {108}{}{Wyloguj.}

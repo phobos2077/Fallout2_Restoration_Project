@@ -1,68 +1,68 @@
-{100}{}{Ta osoba lekko s³ania siê na nogach.}
+{100}{}{Ta osoba lekko sÅ‚ania siÄ™ na nogach.}
 {101}{}{Widzisz barmana.}
-{102}{}{NajwyraŸniej spróbowa³ trochê w³asnych trunków.}
-{103}{}{Cccc... ccc-co podaæ. [Hik.]}
-{104}{}{Nuka Colê [$6]}
+{102}{}{NajwyraÅºniej sprÃ³bowaÅ‚ trochÄ™ wÅ‚asnych trunkÃ³w.}
+{103}{}{Cccc... ccc-co podaÄ‡. [Hik.]}
+{104}{}{Nuka ColÄ™ [$6]}
 {105}{}{Piwo [$15]}
-{106}{}{Wódkê [$30]}
-{107}{}{Nic, dziêki.}
+{106}{}{WÃ³dkÄ™ [$30]}
+{107}{}{Nic, dziÄ™ki.}
 {108}{}{Ug.}
 {109}{}{Ooooch... ttto wogle nie kopie. [Podaje ci drinka.]}
 {110}{}{[Koniec]}
-{111}{}{Prosz. Troch ciep³e, bo gor¹c... Nnnnormalnie nie nad¹szam s produkcjom. [Ciep³e, ¿ó³te... co to mo¿e byæ?]}
+{111}{}{Prosz. Troch ciepÅ‚e, bo gorÄ…c... Nnnnormalnie nie nadÄ…szam s produkcjom. [CiepÅ‚e, Å¼Ã³Å‚te... co to moÅ¼e byÄ‡?]}
 {112}{}{[Koniec]}
-{113}{}{[Po pierwszym ³yku twój ¿o³¹dek zaczyna gwa³townie protestowaæ.]}
+{113}{}{[Po pierwszym Å‚yku twÃ³j Å¼oÅ‚Ä…dek zaczyna gwaÅ‚townie protestowaÄ‡.]}
 {114}{}{[Koniec]}
-{115}{}{Heej...[czka] Chyba æ jusz starczy, niee?}
+{115}{}{Heej...[czka] Chyba Ä‡ jusz starczy, niee?}
 {116}{}{[Koniec]}
-{117}{}{Haloo! Nie masz kasy! Wróæ jak siê www... wsbogacisz.}
+{117}{}{Haloo! Nie masz kasy! WrÃ³Ä‡ jak siÄ™ www... wsbogacisz.}
 {118}{}{[Koniec]}
-{119}{}{Zachowuje siê trochê dziwnie.}
-{120}{}{Widzisz æpuna.}
+{119}{}{Zachowuje siÄ™ trochÄ™ dziwnie.}
+{120}{}{Widzisz Ä‡puna.}
 {121}{}{Ma chyba dreszcze.}
 {122}{}{Czegochcesz? Mamwszystko!}
 {123}{}{Mentaty [$560]}
 {124}{}{Wygrzew [$400]}
 {125}{}{Psycho [$800]}
-{126}{}{Nic, dziêki.}
+{126}{}{Nic, dziÄ™ki.}
 {127}{}{Ug.}
-{128}{}{Toœwietnie! Dawajpieni¹dzeizje¿d¿ajst¹d. Jatuprowadzêinteres.}
+{128}{}{ToÅ›wietnie! DawajpieniÄ…dzeizjeÅ¼dÅ¼ajstÄ…d. JatuprowadzÄ™interes.}
 {129}{}{[Koniec]}
-{130}{}{Jaktomówi¹: Bezpieniêdzyniemamiodu... Och. Todlaseksu. Bezmamonyniemadmuchania. Wróæzkas¹.}
+{130}{}{JaktomÃ³wiÄ…: BezpieniÄ™dzyniemamiodu... Och. Todlaseksu. Bezmamonyniemadmuchania. WrÃ³Ä‡zkasÄ….}
 {131}{}{[Koniec]}
-{132}{}{Hehehe! Wygl¹dasznakogoœkomuprzydadz¹siêmentaty. Dawaj $1000.}
+{132}{}{Hehehe! WyglÄ…dasznakogoÅ›komuprzydadzÄ…siÄ™mentaty. Dawaj $1000.}
 {133}{}{[Daj mu $1000]}
-{134}{}{Ja iœæ.}
-{135}{}{OTAK! Tociêpostawinanogi!}
+{134}{}{Ja iÅ›Ä‡.}
+{135}{}{OTAK! TociÄ™postawinanogi!}
 {136}{}{[KONIEC]}
-{150}{}{Hej, ca³kiem nieŸle wygl¹dasz. Jak masz na imiê?}
-{151}{}{Trochê wy¿ej. O, tak.}
+{150}{}{Hej, caÅ‚kiem nieÅºle wyglÄ…dasz. Jak masz na imiÄ™?}
+{151}{}{TrochÄ™ wyÅ¼ej. O, tak.}
 {152}{}{To jak... pobaraszkujemy?}
-{153}{}{Ju¿... ju¿... ju¿... ju¿.}
-{154}{}{W³aœnie tak. Aha.}
-{155}{}{Nie teraz, idŸ sobie.}
-{156}{}{Ja tu sobie jeszcze trochê wypije...}
+{153}{}{JuÅ¼... juÅ¼... juÅ¼... juÅ¼.}
+{154}{}{WÅ‚aÅ›nie tak. Aha.}
+{155}{}{Nie teraz, idÅº sobie.}
+{156}{}{Ja tu sobie jeszcze trochÄ™ wypije...}
 {157}{}{Baraszkuj sobie... gdzie indziej.}
-{158}{}{Mo¿e oddalimy siê w jakieœ zaciszne miejce?}
-{159}{}{Uch, zróbmy to!}
-{160}{}{Nieee, trochê za du¿o tego alkoholu.}
-{161}{}{[Czkniêcie.] ::uœmiech::}
-{170}{}{Hej, mo¿e przejdziemy siê za tamten krzak?}
-{171}{}{Zda¿y³o ci siê robiæ to na haju?}
-{172}{}{Mogê ci pokazaæ gwiazdy, skarbie.}
-{173}{}{Wiesz czego chcê, skarbie.}
-{174}{}{Cudownie! Nareszcie ktoœ o odpowiednim temperamencie.}
+{158}{}{MoÅ¼e oddalimy siÄ™ w jakieÅ› zaciszne miejce?}
+{159}{}{Uch, zrÃ³bmy to!}
+{160}{}{Nieee, trochÄ™ za duÅ¼o tego alkoholu.}
+{161}{}{[CzkniÄ™cie.] ::uÅ›miech::}
+{170}{}{Hej, moÅ¼e przejdziemy siÄ™ za tamten krzak?}
+{171}{}{ZdaÅ¼yÅ‚o ci siÄ™ robiÄ‡ to na haju?}
+{172}{}{MogÄ™ ci pokazaÄ‡ gwiazdy, skarbie.}
+{173}{}{Wiesz czego chcÄ™, skarbie.}
+{174}{}{Cudownie! Nareszcie ktoÅ› o odpowiednim temperamencie.}
 {175}{}{To mi wystarczy.}
 {176}{}{Hej, masz papierosa?}
-{177}{}{No, no. Tylko siê za bardzo nie przywi¹zuj - ceniê sobie swoj¹ wolnoœæ.}
-{178}{}{Masz gibkoœæ pantery. Pragnê ciê.}
+{177}{}{No, no. Tylko siÄ™ za bardzo nie przywiÄ…zuj - ceniÄ™ sobie swojÄ… wolnoÅ›Ä‡.}
+{178}{}{Masz gibkoÅ›Ä‡ pantery. PragnÄ™ ciÄ™.}
 {179}{}{Zaczynamy?}
 {180}{}{Nie teraz.}
-{181}{}{Za³oga - bacznoœæ. Wchodzimy do œrodka.}
-{200}{}{Daj spokój!}
-{201}{}{IdŸ siê bawiæ gdzie indziej.}
-{202}{}{Kto ciê tu wpuœci³?}
+{181}{}{ZaÅ‚oga - bacznoÅ›Ä‡. Wchodzimy do Å›rodka.}
+{200}{}{Daj spokÃ³j!}
+{201}{}{IdÅº siÄ™ bawiÄ‡ gdzie indziej.}
+{202}{}{Kto ciÄ™ tu wpuÅ›ciÅ‚?}
 {203}{}{Ale szajs!}
-{204}{}{Wyluzuj koleœ.}
+{204}{}{Wyluzuj koleÅ›.}
 {205}{}{Daj sobie siana!}
-{210}{}{NajwyraŸniej spróbowa³a trochê w³asnych trunków.}
+{210}{}{NajwyraÅºniej sprÃ³bowaÅ‚a trochÄ™ wÅ‚asnych trunkÃ³w.}

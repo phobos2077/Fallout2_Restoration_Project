@@ -1,19 +1,19 @@
 {100}{}{WCZYTAJ}
 {101}{}{GRA DO SZYBKIEGO ODCZYTU}
-{102}{}{ZAPISZ GRÊ}
+{102}{}{ZAPISZ GRÄ˜}
 {103}{}{GRA DO SZYBKIEGO ZAPISU}
 {104}{}{GOTOWE}
 {105}{}{Anuluj}
-{106}{}{B³¹d w trakcie odczytu listy gier!}
+{106}{}{BÅ‚Ä…d w trakcie odczytu listy gier!}
 {107}{}{Katalog }
 {108}{}{nie istnieje lub jest wadliwy.}
-{109}{}{ZAPISZ GRÊ}
+{109}{}{ZAPISZ GRÄ˜}
 {110}{}{WCZYTAJ}
 {111}{}{- PLIK JEST PUSTY -}
 {112}{}{- PLIK JEST WADLIWY -}
 {113}{}{- STARA WERSJA -}
 {114}{}{Pusty plik.}
-{115}{}{B³¹d!}
+{115}{}{BÅ‚Ä…d!}
 {116}{}{Stara wersja.}
 {117}{}{STY}
 {118}{}{LUT}
@@ -24,19 +24,19 @@
 {123}{}{LIP}
 {124}{}{SIE}
 {125}{}{WRZ}
-{126}{}{PA}
+{126}{}{PAÅ¹}
 {127}{}{LIS}
 {128}{}{GRU}
-{129}{}{Poziom doœwiadczenia}
+{129}{}{Poziom doÅ›wiadczenia}
 {130}{}{OPIS}
-{131}{}{Plik ju¿ istnieje, czy chcesz go zast¹piæ?}
-{132}{}{B³¹d w trakcie zapisu!}
-{133}{}{Nie uda³o siê zapisaæ gry.}
-{134}{}{B³¹d w trakcie odczytu!}
-{135}{}{Nie uda³o siê wczytaæ gry.}
+{131}{}{Plik juÅ¼ istnieje, czy chcesz go zastÄ…piÄ‡?}
+{132}{}{BÅ‚Ä…d w trakcie zapisu!}
+{133}{}{Nie udaÅ‚o siÄ™ zapisaÄ‡ gry.}
+{134}{}{BÅ‚Ä…d w trakcie odczytu!}
+{135}{}{Nie udaÅ‚o siÄ™ wczytaÄ‡ gry.}
 {136}{}{Plik pochodzi z niezaktualizowanej wersji gry.}
 {137}{}{Mapa}
 {140}{}{Gra zapisana.}
 {141}{}{Gra wczytana.}
-{200}{}{Opcja niedostêpna}
+{200}{}{Opcja niedostÄ™pna}
 {201}{}{w wersji demo.}

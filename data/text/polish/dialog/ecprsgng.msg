@@ -1,12 +1,12 @@
 {100}{}{Ach! Jeszcze jeden rekrut.}
-{101}{}{Zaci¹gnij siê, albo giñ!}
-{102}{}{Zostañ prawdziwym mê¿czyzn¹.}
+{101}{}{ZaciÄ…gnij siÄ™, albo giÅ„!}
+{102}{}{ZostaÅ„ prawdziwym mÄ™Å¼czyznÄ….}
 {103}{}{Dumni najemnicy!}
-{104}{}{Do³¹cz do nas!}
+{104}{}{DoÅ‚Ä…cz do nas!}
 {105}{}{Kategoria A1.}
 {106}{}{Lepiej poszukam gdzie indziej.}
-{107}{}{Lepiej zaci¹gnij siê do marynarki.}
+{107}{}{Lepiej zaciÄ…gnij siÄ™ do marynarki.}
 {108}{}{Cholera!}
-{109}{}{Jej! Zrobi³o siê póŸno, muszê ju¿ iœæ!}
+{109}{}{Jej! ZrobiÅ‚o siÄ™ pÃ³Åºno, muszÄ™ juÅ¼ iÅ›Ä‡!}
 {110}{}{Rekrut.}
-{111}{}{Sier¿ant.}
+{111}{}{SierÅ¼ant.}

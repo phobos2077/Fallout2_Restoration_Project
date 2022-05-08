@@ -1,7 +1,7 @@
-{100}{}{Você vê um terminal de computador.}
-{101}{}{Você vê o terminal do computador Emperor.}
-{102}{}{Você vê um computador com uma tela de toque embutida para sua interface. Na lateral está gravado "Terminal de computador do Imperador v8.8".}
-{103}{}{Saudações. Por favor, digite a senha para confirmar sua identidade.}
+{100}{}{VocÃª vÃª um terminal de computador.}
+{101}{}{VocÃª vÃª o terminal do computador Emperor.}
+{102}{}{VocÃª vÃª um computador com uma tela de toque embutida para sua interface. Na lateral estÃ¡ gravado "Terminal de computador do Imperador v8.8".}
+{103}{}{SaudaÃ§Ãµes. Por favor, digite a senha para confirmar sua identidade.}
 {104}{}{::babando::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
@@ -9,332 +9,332 @@
 {108}{}{::hackear o computador::}
 {109}{}{Sair.}
 {110}{}{Identidade confirmada.}
-{111}{}{Qual função você deseja acessar?}
-{112}{}{Diagnósticos.}
+{111}{}{Qual funÃ§Ã£o vocÃª deseja acessar?}
+{112}{}{DiagnÃ³sticos.}
 {113}{}{Banco de dados.}
-{114}{}{Previsão.}
+{114}{}{PrevisÃ£o.}
 {115}{}{Nada.}
 {116}{}{Por favor, converse com o administrador do sistema. Adeus.}
 {117}{}{::hackear o computador::}
 {118}{}{::sair::}
 {119}{}{Alerta de intruso ativado. Desligando. Tenha um bom dia.}
 {120}{}{[FEITO]}
-{121}{}{Funções de diagnóstico?}
+{121}{}{FunÃ§Ãµes de diagnÃ³stico?}
 {122}{}{Varredura da rede.}
 {123}{}{Formatar a unidade.}
-{124}{}{Verifique a integridade do disco rígido.}
+{124}{}{Verifique a integridade do disco rÃ­gido.}
 {125}{}{Voltar.}
-{126}{}{Qual banco de dados você gostaria de verificar?}
+{126}{}{Qual banco de dados vocÃª gostaria de verificar?}
 {127}{}{Biologia.}
 {128}{}{Quimica.}
-{129}{}{Física.}
-{130}{}{História.}
+{129}{}{FÃ­sica.}
+{130}{}{HistÃ³ria.}
 {131}{}{Voltar.}
-{132}{}{As crianças de Shi-town estão em perigo. 50% de chance de um assassino estar entre eles.}
-{133}{}{O perigo chegou à cidade de Shi. 75% de probabilidade de danos aos residentes.}
-{134}{}{O lançamento espacial do Hubologist tem 95% de probabilidade de falhar. Fatores: Sem combustível, selante impróprio, liderança deficiente, falta de iniciativa.}
+{132}{}{As crianÃ§as de Shi-town estÃ£o em perigo. 50% de chance de um assassino estar entre eles.}
+{133}{}{O perigo chegou Ã  cidade de Shi. 75% de probabilidade de danos aos residentes.}
+{134}{}{O lanÃ§amento espacial do Hubologist tem 95% de probabilidade de falhar. Fatores: Sem combustÃ­vel, selante imprÃ³prio, lideranÃ§a deficiente, falta de iniciativa.}
 {135}{}{15% de chance de o "Escolhido" designado ter sucesso na tarefa.}
-{136}{}{Os dados indicam que a "Enclave" é mais poderosa do que se acreditava anteriormente; não se aproxime.}
+{136}{}{Os dados indicam que a "Enclave" Ã© mais poderosa do que se acreditava anteriormente; nÃ£o se aproxime.}
 {137}{}{Chances dedo submarino reaparecer neste jogo: 100%}
-{138}{}{0% de chance de eliminar a infestação de criaturas no petroleiro sem ajuda externa. Processando conveniência para fornecer assistência.}
-{139}{}{Entrada: Petroleiro Poseidon impróprio para viagens. Requer mais informações.}
-{140}{}{Não processado. Requer mais dados.}
+{138}{}{0% de chance de eliminar a infestaÃ§Ã£o de criaturas no petroleiro sem ajuda externa. Processando conveniÃªncia para fornecer assistÃªncia.}
+{139}{}{Entrada: Petroleiro Poseidon imprÃ³prio para viagens. Requer mais informaÃ§Ãµes.}
+{140}{}{NÃ£o processado. Requer mais dados.}
 {141}{}{[MAIS]}
 {142}{}{Voltar.}
-{143}{}{Estação de Biologia: Ativa}
-{144}{}{Estação de Biologia: Inativa}
-{145}{}{Estação Química: Ativa}
-{146}{}{Estação Química: Inativa}
-{147}{}{Estação de Física: Ativa}
-{148}{}{Estação de Física: Inativa}
-{149}{}{Desativar Estação de Biologia.}
-{150}{}{Desativar Estação Química.}
-{151}{}{Desativar Estação de Fisica.}
-{152}{}{Acesso a Estação de Biologia.}
-{153}{}{Acesso a Estação Química.}
-{154}{}{Acesso a Estação de Física.}
-{155}{}{Ativar Estação de Biologia.}
-{156}{}{Ativar Estação Química.}
-{157}{}{Ativar Estação de Física.}
+{143}{}{EstaÃ§Ã£o de Biologia: Ativa}
+{144}{}{EstaÃ§Ã£o de Biologia: Inativa}
+{145}{}{EstaÃ§Ã£o QuÃ­mica: Ativa}
+{146}{}{EstaÃ§Ã£o QuÃ­mica: Inativa}
+{147}{}{EstaÃ§Ã£o de FÃ­sica: Ativa}
+{148}{}{EstaÃ§Ã£o de FÃ­sica: Inativa}
+{149}{}{Desativar EstaÃ§Ã£o de Biologia.}
+{150}{}{Desativar EstaÃ§Ã£o QuÃ­mica.}
+{151}{}{Desativar EstaÃ§Ã£o de Fisica.}
+{152}{}{Acesso a EstaÃ§Ã£o de Biologia.}
+{153}{}{Acesso a EstaÃ§Ã£o QuÃ­mica.}
+{154}{}{Acesso a EstaÃ§Ã£o de FÃ­sica.}
+{155}{}{Ativar EstaÃ§Ã£o de Biologia.}
+{156}{}{Ativar EstaÃ§Ã£o QuÃ­mica.}
+{157}{}{Ativar EstaÃ§Ã£o de FÃ­sica.}
 {158}{}{Voltar.}
-{159}{}{Formatar a unidade: Todos os dados serão perdidos? Deseja continuar?}
+{159}{}{Formatar a unidade: Todos os dados serÃ£o perdidos? Deseja continuar?}
 {160}{}{Sim.}
-{161}{}{Não.}
-{162}{}{A integridade funcional do sistema é de 92%. O núcleo blindado do Computador Imperador é 100%. A integridade dos dados é 100%. O nó de previsão está sofrendo pequenos atrasos de energia - tempo projetado para reparo, 6 dias. Previsão 15% operacional.}
+{161}{}{NÃ£o.}
+{162}{}{A integridade funcional do sistema Ã© de 92%. O nÃºcleo blindado do Computador Imperador Ã© 100%. A integridade dos dados Ã© 100%. O nÃ³ de previsÃ£o estÃ¡ sofrendo pequenos atrasos de energia - tempo projetado para reparo, 6 dias. PrevisÃ£o 15% operacional.}
 {163}{}{Voltar.}
-{164}{}{Tem certeza de que deseja formatar esta unidade? Será um processo irreversível.}
+{164}{}{Tem certeza de que deseja formatar esta unidade? SerÃ¡ um processo irreversÃ­vel.}
 {165}{}{Sim.}
-{166}{}{Não.}
-{167}{}{Formatando... formatando... formatação concluída. A reinicialização exigirá uma instalação completa. Desligando. Desligando... desligando... completo...}
+{166}{}{NÃ£o.}
+{167}{}{Formatando... formatando... formataÃ§Ã£o concluÃ­da. A reinicializaÃ§Ã£o exigirÃ¡ uma instalaÃ§Ã£o completa. Desligando. Desligando... desligando... completo...}
 {168}{}{[FEITO]}
-{169}{}{Dados a encontrar: - Programa de botânica - Programa genético - Programa Xeno.}
-{170}{}{Programa Botânico.}
-{171}{}{Programa Genético.}
+{169}{}{Dados a encontrar: - Programa de botÃ¢nica - Programa genÃ©tico - Programa Xeno.}
+{170}{}{Programa BotÃ¢nico.}
+{171}{}{Programa GenÃ©tico.}
 {172}{}{Xeno program.}
 {173}{}{Voltar.}
-{174}{}{(Depois de cerca de vinte minutos, você descobre o seguinte: os resultados iniciais da interrupção da radiação botânica se mostram pouco promissores. O Dr. Sheng desenvolveu plantas resistentes à radiação - mas com efeitos colaterais desagradáveis. A vida vegetal resultante é considerada muito perigosa. Sheng insiste em buscar a linha e misturá-la com o programa genético.)}
-{175}{}{Programa Genético.}
+{174}{}{(Depois de cerca de vinte minutos, vocÃª descobre o seguinte: os resultados iniciais da interrupÃ§Ã£o da radiaÃ§Ã£o botÃ¢nica se mostram pouco promissores. O Dr. Sheng desenvolveu plantas resistentes Ã  radiaÃ§Ã£o - mas com efeitos colaterais desagradÃ¡veis. A vida vegetal resultante Ã© considerada muito perigosa. Sheng insiste em buscar a linha e misturÃ¡-la com o programa genÃ©tico.)}
+{175}{}{Programa GenÃ©tico.}
 {176}{}{Xeno program.}
 {177}{}{Voltar.}
-{178}{}{(Após cerca de vinte minutos, você reúne estas informações: Usando os fundamentos do vírus FEV, o Dr. Long Wang está convencido do sucesso na criação de soldados mutantes. Ele cria um soro que fornece resultados interessantes com experimentos com roedores. Ele se injeta e se dissolve em uma poça de gosma. Dr. Sheng desativa a linha de investigação. Com a morte do Dr. Long, o Dr. Sheng está no comando. Sheng exige foco na vida das plantas que consomem radiação.)}
-{179}{}{Programa Botânico.}
+{178}{}{(ApÃ³s cerca de vinte minutos, vocÃª reÃºne estas informaÃ§Ãµes: Usando os fundamentos do vÃ­rus FEV, o Dr. Long Wang estÃ¡ convencido do sucesso na criaÃ§Ã£o de soldados mutantes. Ele cria um soro que fornece resultados interessantes com experimentos com roedores. Ele se injeta e se dissolve em uma poÃ§a de gosma. Dr. Sheng desativa a linha de investigaÃ§Ã£o. Com a morte do Dr. Long, o Dr. Sheng estÃ¡ no comando. Sheng exige foco na vida das plantas que consomem radiaÃ§Ã£o.)}
+{179}{}{Programa BotÃ¢nico.}
 {180}{}{Xeno program.}
 {181}{}{Voltar.}
-{182}{}{"O tema sobre o qual esperávamos estabelecer uma série de experimentos significativos desapareceu, supostamente destruído ou roubado pelos Hubologistas. Pesquisas posteriores não tiveram resultados. Até que mais amostras sejam obtidas, este banco de dados permanecerá inoperante. "- Dr. Sheng.}
-{183}{}{Programa Botânico.}
-{184}{}{Programa Genético.}
+{182}{}{"O tema sobre o qual esperÃ¡vamos estabelecer uma sÃ©rie de experimentos significativos desapareceu, supostamente destruÃ­do ou roubado pelos Hubologistas. Pesquisas posteriores nÃ£o tiveram resultados. AtÃ© que mais amostras sejam obtidas, este banco de dados permanecerÃ¡ inoperante. "- Dr. Sheng.}
+{183}{}{Programa BotÃ¢nico.}
+{184}{}{Programa GenÃ©tico.}
 {185}{}{Voltar.}
-{186}{}{Banco de dados de química: Combustível e derivados - Polímeros}
-{187}{}{Combustível e derivados.}
-{188}{}{Polímeros.}
+{186}{}{Banco de dados de quÃ­mica: CombustÃ­vel e derivados - PolÃ­meros}
+{187}{}{CombustÃ­vel e derivados.}
+{188}{}{PolÃ­meros.}
 {189}{}{Voltar.}
-{190}{}{(Depois de analisar as fórmulas químicas complexas e as notas de laboratório, você chega à conclusão de que os Shi criaram um tipo de combustível a partir de extratos de plantas e vida marinha. Aparentemente, eles se conectaram a dutos existentes anteriormente para que possam transportar combustível para uma ampla variedade de destinos.)}
-{191}{}{(Você encontra uma vasta gama de fórmulas químicas complexas e notas de laboratório. Não tem certeza do que tudo isso significa.)}
-{192}{}{Combustível direto para o tanque Poseidon.}
-{193}{}{Dirigir combustível aos hubologistas.}
+{190}{}{(Depois de analisar as fÃ³rmulas quÃ­micas complexas e as notas de laboratÃ³rio, vocÃª chega Ã  conclusÃ£o de que os Shi criaram um tipo de combustÃ­vel a partir de extratos de plantas e vida marinha. Aparentemente, eles se conectaram a dutos existentes anteriormente para que possam transportar combustÃ­vel para uma ampla variedade de destinos.)}
+{191}{}{(VocÃª encontra uma vasta gama de fÃ³rmulas quÃ­micas complexas e notas de laboratÃ³rio. NÃ£o tem certeza do que tudo isso significa.)}
+{192}{}{CombustÃ­vel direto para o tanque Poseidon.}
+{193}{}{Dirigir combustÃ­vel aos hubologistas.}
 {194}{}{Voltar.}
-{195}{}{(Depois de passar pela simbologia e discussão técnica, você descobre que os Shi estão trabalhando em um novo tipo de armadura de combate polimérica que é resistente a chamas e penetração. Ainda faltam anos para ser concluído. Você também vê menção a novas capacidades de armamento e construção. Aparentemente, os Shi têm alguns planos para o futuro.)}
+{195}{}{(Depois de passar pela simbologia e discussÃ£o tÃ©cnica, vocÃª descobre que os Shi estÃ£o trabalhando em um novo tipo de armadura de combate polimÃ©rica que Ã© resistente a chamas e penetraÃ§Ã£o. Ainda faltam anos para ser concluÃ­do. VocÃª tambÃ©m vÃª menÃ§Ã£o a novas capacidades de armamento e construÃ§Ã£o. Aparentemente, os Shi tÃªm alguns planos para o futuro.)}
 {196}{}{Voltar.}
-{197}{}{Combustível direcionado de acordo. Tanques de armazenamento = Vazio. Programa de encerramento.}
+{197}{}{CombustÃ­vel direcionado de acordo. Tanques de armazenamento = Vazio. Programa de encerramento.}
 {198}{}{[FEITO]}
-{199}{}{Combustível direcionado de acordo. Tanques de armazenamento = Vazio. Programa de encerramento.}
+{199}{}{CombustÃ­vel direcionado de acordo. Tanques de armazenamento = Vazio. Programa de encerramento.}
 {200}{}{[FEITO]}
-{201}{}{Banco de dados de Física: Exploração - Teoria}
-{202}{}{Exploração.}
+{201}{}{Banco de dados de FÃ­sica: ExploraÃ§Ã£o - Teoria}
+{202}{}{ExploraÃ§Ã£o.}
 {203}{}{Teoria.}
 {204}{}{Voltar.}
-{205}{}{“Com a recente aquisição dos planos do vertibird, a possibilidade de criar uma máquina voadora prática deu um salto quântico. Esperamos ter um protótipo funcionando até o final do ano e a capacidade de produzir esses veículos em massa em dois anos. " -Dr. Wong}
+{205}{}{â€œCom a recente aquisiÃ§Ã£o dos planos do vertibird, a possibilidade de criar uma mÃ¡quina voadora prÃ¡tica deu um salto quÃ¢ntico. Esperamos ter um protÃ³tipo funcionando atÃ© o final do ano e a capacidade de produzir esses veÃ­culos em massa em dois anos. " -Dr. Wong}
 {206}{}{::copiar planos:: Voltar.}
 {207}{}{Voltar.}
-{208}{}{"Ainda estamos preparando um modelo funcional de um veículo aéreo. Nenhum dos projetos que criamos mostrou ser seguro ou aerodinâmico. Talvez se tivéssemos acesso aos planos dos antigos..." -Dr. Wong}
+{208}{}{"Ainda estamos preparando um modelo funcional de um veÃ­culo aÃ©reo. Nenhum dos projetos que criamos mostrou ser seguro ou aerodinÃ¢mico. Talvez se tivÃ©ssemos acesso aos planos dos antigos..." -Dr. Wong}
 {209}{}{Voltar.}
-{210}{}{(Depois de contornar a introdução e a matemática, você descobre que os Shi estão aprendendo a desenvolver a energia nuclear novamente, reconstruindo as teorias de viagens espaciais antigas - e eles zombam dos Hubologistas ao fazer - e aproveitando a energia do sol, do vento e do mar. Pelo menos, é assim que as notas se parecem.)}
+{210}{}{(Depois de contornar a introduÃ§Ã£o e a matemÃ¡tica, vocÃª descobre que os Shi estÃ£o aprendendo a desenvolver a energia nuclear novamente, reconstruindo as teorias de viagens espaciais antigas - e eles zombam dos Hubologistas ao fazer - e aproveitando a energia do sol, do vento e do mar. Pelo menos, Ã© assim que as notas se parecem.)}
 {211}{}{Voltar.}
-{212}{}{Estação ativada.}
+{212}{}{EstaÃ§Ã£o ativada.}
 {213}{}{Voltar.}
-{214}{}{O terminal do computador não parece ter uma interface para isso.}
-{215}{}{O terminal do computador não parece estar operante.}
-{216}{}{O sistema foi comprometido. As ordens são atacar!}
+{214}{}{O terminal do computador nÃ£o parece ter uma interface para isso.}
+{215}{}{O terminal do computador nÃ£o parece estar operante.}
+{216}{}{O sistema foi comprometido. As ordens sÃ£o atacar!}
 {217}{}{Ataque o intruso!}
-{218}{}{É hora de pagar por seus atos, lao wai!}
+{218}{}{Ã‰ hora de pagar por seus atos, lao wai!}
 {219}{}{Tem um traidor em nosso meio!}
-{220}{}{Geolocalização.}
+{220}{}{GeolocalizaÃ§Ã£o.}
 {221}{}{O que deseja localizar?}
-{222}{}{Os aldeões do meu lar.}
-{223}{}{97% de chance agregada - Aldeões localizados nas coordenadas atuais do complexo da Enclave.}
-{230}{}{[A tela pisca por um segundo antes de mudar para uma exibição monocromática com de símbolos chineses.
- Depois de alguns momentos, a tela limpa e exibe uma lista de conteúdos. A maioria dos arquivos são antigos e corrompidos,
- mas há vários que ainda parecem intactos.]}
-{231}{}{Exército de Libertação Popular                                       Terminal de acesso Imperador v. 4.01
-                                    Por favor, escolha uma opção:}
+{222}{}{Os aldeÃµes do meu lar.}
+{223}{}{97% de chance agregada - AldeÃµes localizados nas coordenadas atuais do complexo da Enclave.}
+{230}{}{[A tela pisca por um segundo antes de mudar para uma exibiÃ§Ã£o monocromÃ¡tica com de sÃ­mbolos chineses.
+ Depois de alguns momentos, a tela limpa e exibe uma lista de conteÃºdos. A maioria dos arquivos sÃ£o antigos e corrompidos,
+ mas hÃ¡ vÃ¡rios que ainda parecem intactos.]}
+{231}{}{ExÃ©rcito de LibertaÃ§Ã£o Popular                                       Terminal de acesso Imperador v. 4.01
+                                    Por favor, escolha uma opÃ§Ã£o:}
 {232}{}{Estado do submarino}
-{233}{}{Rede de Inteligência Chinesa}
+{233}{}{Rede de InteligÃªncia Chinesa}
 {234}{}{Comlinks}
 {235}{}{Registros do pessoal}
 {236}{}{::voltar::}
-{240}{}{Nome: Shi-Huang-Ti                                                     Classe: Tipo 088 Balística com energia nuclear
- Missil Submarino   Armamento: Oito mísseis balísticos nucleares JL-3
-                  Lançado: 8 de Agosto de 2068                                         Comissionado: 18 de abril de 2069
-                                       Capitão: Almirante Classe AAAA Ye Li
-                                Tripulação: 15 oficiais, 28 suboficiais, 27 alistados, 16 técnicos civis}
+{240}{}{Nome: Shi-Huang-Ti                                                     Classe: Tipo 088 BalÃ­stica com energia nuclear
+ Missil Submarino   Armamento: Oito mÃ­sseis balÃ­sticos nucleares JL-3
+                  LanÃ§ado: 8 de Agosto de 2068                                         Comissionado: 18 de abril de 2069
+                                       CapitÃ£o: Almirante Classe AAAA Ye Li
+                                TripulaÃ§Ã£o: 15 oficiais, 28 suboficiais, 27 alistados, 16 tÃ©cnicos civis}
 {241}{}{Leia.}
-{250}{}{Serviço:                                                               2069 - 2071: Território Chinês
- patrulha das águas              2071 - 2077: Patrulha de combate nos pátios de operações do Alasca e Pacífico
-                                            Outubro de 2077: Missão de combate no pátio de operações da Califórnia.
- Esboço da missão R.}
+{250}{}{ServiÃ§o:                                                               2069 - 2071: TerritÃ³rio ChinÃªs
+ patrulha das Ã¡guas              2071 - 2077: Patrulha de combate nos pÃ¡tios de operaÃ§Ãµes do Alasca e PacÃ­fico
+                                            Outubro de 2077: MissÃ£o de combate no pÃ¡tio de operaÃ§Ãµes da CalifÃ³rnia.
+ EsboÃ§o da missÃ£o R.}
 {251}{}{Leia.}
 {260}{}{Estado Atual:
-                                                     Submarino danificado além do reparo. Mainframe removido do navio e 
- realocado. Navio reformado como estrutura defensiva estacionária a duas milhas NNE do porto de São Francisco.}
+                                                     Submarino danificado alÃ©m do reparo. Mainframe removido do navio e 
+ realocado. Navio reformado como estrutura defensiva estacionÃ¡ria a duas milhas NNE do porto de SÃ£o Francisco.}
 {261}{}{O que era aquilo sobre patrulhas de combate?}
-{262}{}{Leia mais sobre o esboço da missão R.}
-{263}{}{A estrutura defensiva estacionária parecia interessante.}
+{262}{}{Leia mais sobre o esboÃ§o da missÃ£o R.}
+{263}{}{A estrutura defensiva estacionÃ¡ria parecia interessante.}
 {264}{}{::voltar::}
 {270}{}{Seguindo o pedido feito pelo comandante da linha de frente do Alasca, General Jingwei, o Shi-Huang-Ti foi transferido para o
- pátio de operações do Alasca/Pacífico para interceptar comboios americanos em águas abertas. Sob o comando do Contra-Almirante
- Ye Li, ela afundou 9 cargueiros e 4 navios de guerra, danificando mais 18 embarcações e colocando uma pressão significativa nas linhas de
+ pÃ¡tio de operaÃ§Ãµes do Alasca/PacÃ­fico para interceptar comboios americanos em Ã¡guas abertas. Sob o comando do Contra-Almirante
+ Ye Li, ela afundou 9 cargueiros e 4 navios de guerra, danificando mais 18 embarcaÃ§Ãµes e colocando uma pressÃ£o significativa nas linhas de
  suprimentos inimigas.}
 {271}{}{Leia.}
-{275}{}{O almirante Ye Li também foi creditado pela Marinha do Exército de Libertação do Povo como responsável pelo naufrágio do USS
- Atol de Ebon por um submarino americano, USS Interferência. }
+{275}{}{O almirante Ye Li tambÃ©m foi creditado pela Marinha do ExÃ©rcito de LibertaÃ§Ã£o do Povo como responsÃ¡vel pelo naufrÃ¡gio do USS
+ Atol de Ebon por um submarino americano, USS InterferÃªncia. }
 {276}{}{::voltar::}
-{280}{}{2220, maio: O navio Poseidon Marine Valdez chega ao porto, tripulado por uma tripulação equipada com um tipo desconhecido
- de armadura de infantaria. A nave está desativada e infestada de mutantes.
-                                                                  2220, Junho: Após consultas com o Imperador, Chiang Lee
- dita que o Shi-Huang-Ti seja reativado e transformado em uma instalação defensiva contra novas ameaças navais.
-                                                           2220, Julho: o submarino é reativado. Foi necessário
- energia de emergência para ligá-lo.                                  2231, Maio: O gerador de emergência desativa. Ken Lee encomenda
+{280}{}{2220, maio: O navio Poseidon Marine Valdez chega ao porto, tripulado por uma tripulaÃ§Ã£o equipada com um tipo desconhecido
+ de armadura de infantaria. A nave estÃ¡ desativada e infestada de mutantes.
+                                                                  2220, Junho: ApÃ³s consultas com o Imperador, Chiang Lee
+ dita que o Shi-Huang-Ti seja reativado e transformado em uma instalaÃ§Ã£o defensiva contra novas ameaÃ§as navais.
+                                                           2220, Julho: o submarino Ã© reativado. Foi necessÃ¡rio
+ energia de emergÃªncia para ligÃ¡-lo.                                  2231, Maio: O gerador de emergÃªncia desativa. Ken Lee encomenda
  um gerador ElectroBox para ser conectado ao sistema de energia e continuar alimentando o submarino.
-                                     2238, Agosto: uma lancha Neptune Waveskimmer é restaurada e transferida para a
- tripulação de manutenção do submarino.}
-{281}{}{Hmm, vamos ver se consigo encontrar algo mais sobre a equipe de manutenção...}
+                                     2238, Agosto: uma lancha Neptune Waveskimmer Ã© restaurada e transferida para a
+ tripulaÃ§Ã£o de manutenÃ§Ã£o do submarino.}
+{281}{}{Hmm, vamos ver se consigo encontrar algo mais sobre a equipe de manutenÃ§Ã£o...}
 {282}{}{::voltar::}
-{290}{}{[Bingo! Depois de alguns minutos fuçando nos comandos, você consegue pegar um pequeno arquivo de texto sobre o
- gerador do submarino. Parece que viagens regulares são necessárias para reabastecer e manter o gerador. O arquivo também
- lista a equipe de manutenção atual.]}
-{291}{}{Tripulação de manutenção do submarino (2241 em diante): Tsing Tao, Hun Kwai, Shin Fai, Lo Chang, Wu Fei}
-{292}{}{::adicionar-me à lista da equipe de manutenção::}
+{290}{}{[Bingo! Depois de alguns minutos fuÃ§ando nos comandos, vocÃª consegue pegar um pequeno arquivo de texto sobre o
+ gerador do submarino. Parece que viagens regulares sÃ£o necessÃ¡rias para reabastecer e manter o gerador. O arquivo tambÃ©m
+ lista a equipe de manutenÃ§Ã£o atual.]}
+{291}{}{TripulaÃ§Ã£o de manutenÃ§Ã£o do submarino (2241 em diante): Tsing Tao, Hun Kwai, Shin Fai, Lo Chang, Wu Fei}
+{292}{}{::adicionar-me Ã  lista da equipe de manutenÃ§Ã£o::}
 {293}{}{::voltar::}
-{300}{}{[Com alguns toques no teclado, você se torna parte da equipe de manutenção do submarino. Uma lista de senhas para
- a proteção do barco a motor agora está acessível.]}
+{300}{}{[Com alguns toques no teclado, vocÃª se torna parte da equipe de manutenÃ§Ã£o do submarino. Uma lista de senhas para
+ a proteÃ§Ã£o do barco a motor agora estÃ¡ acessÃ­vel.]}
 {301}{}{::baixar a lista de senhas no PIP-Boy::}
-{310}{}{[Você conecta o PIP-Boy em uma das portas de acesso. Depois de um momento, você tem uma lista atualizada de senhas
- para o próximo ano. Fale sobre a segurança.]}
+{310}{}{[VocÃª conecta o PIP-Boy em uma das portas de acesso. Depois de um momento, vocÃª tem uma lista atualizada de senhas
+ para o prÃ³ximo ano. Fale sobre a seguranÃ§a.]}
 {311}{}{::voltar::}
-{320}{}{Você é um técnico pleno do submarino Shi agora.}
-{325}{}{Erro. É necessário código de comando gráfico. Por favor, insira o gráfico correto.}
-{330}{}{[Graças ao código do comando gráfico que recuperou do sub, você pode ter acesso restrito aos arquivos nas
+{320}{}{VocÃª Ã© um tÃ©cnico pleno do submarino Shi agora.}
+{325}{}{Erro. Ã‰ necessÃ¡rio cÃ³digo de comando grÃ¡fico. Por favor, insira o grÃ¡fico correto.}
+{330}{}{[GraÃ§as ao cÃ³digo do comando grÃ¡fico que recuperou do sub, vocÃª pode ter acesso restrito aos arquivos nas
  unidades do imperador]}
-{331}{}{Código de comando reconhecido. Restrições de segurança levantadas. Rede de inteligência chinesa inicializada..
+{331}{}{CÃ³digo de comando reconhecido. RestriÃ§Ãµes de seguranÃ§a levantadas. Rede de inteligÃªncia chinesa inicializada..
 ...
 ...
-Aviso! Subindo para CIN, o servidor central de Pequim não está disponível. Recuperando dados arquivados.
- [Parece que a maioria dos arquivos está corrompida. No entanto, o mainframe consegue recuperar vários arquivos intactos]}
-{332}{}{Relatório de inteligência 2069-11-5}
-{333}{}{Relatório de inteligência 2072-4-18}
-{334}{}{Relatório de inteligência 2073-12-4}
-{335}{}{Relatório de inteligência 2074-9-17}
-{336}{}{Relatório de inteligência 2075-10-17}
-{337}{}{Relatório de inteligência 2076-8-12}
-{338}{}{Relatório de inteligência 2077-10-12}
-{339}{}{Relatório de inteligência 2077-10-23}
+Aviso! Subindo para CIN, o servidor central de Pequim nÃ£o estÃ¡ disponÃ­vel. Recuperando dados arquivados.
+ [Parece que a maioria dos arquivos estÃ¡ corrompida. No entanto, o mainframe consegue recuperar vÃ¡rios arquivos intactos]}
+{332}{}{RelatÃ³rio de inteligÃªncia 2069-11-5}
+{333}{}{RelatÃ³rio de inteligÃªncia 2072-4-18}
+{334}{}{RelatÃ³rio de inteligÃªncia 2073-12-4}
+{335}{}{RelatÃ³rio de inteligÃªncia 2074-9-17}
+{336}{}{RelatÃ³rio de inteligÃªncia 2075-10-17}
+{337}{}{RelatÃ³rio de inteligÃªncia 2076-8-12}
+{338}{}{RelatÃ³rio de inteligÃªncia 2077-10-12}
+{339}{}{RelatÃ³rio de inteligÃªncia 2077-10-23}
 {340}{}{}
 {341}{}{::mais::}
 {342}{}{::voltar::}
-{345}{}{De: Divisão de Contra-inteligência
-                                  Os motins no Tibete e nas províncias vizinhas continuam, ameaçando a construção
- do complexo de satcom do Dragão Oriental. O presidente Xin ordena intervenção militar contra a população. Seguindo
- vítimas insurgentes significativas, a província é restaurada ao controle chinês e os insurgentes restantes são reassentados.}
+{345}{}{De: DivisÃ£o de Contra-inteligÃªncia
+                                  Os motins no Tibete e nas provÃ­ncias vizinhas continuam, ameaÃ§ando a construÃ§Ã£o
+ do complexo de satcom do DragÃ£o Oriental. O presidente Xin ordena intervenÃ§Ã£o militar contra a populaÃ§Ã£o. Seguindo
+ vÃ­timas insurgentes significativas, a provÃ­ncia Ã© restaurada ao controle chinÃªs e os insurgentes restantes sÃ£o reassentados.}
 {346}{}{::voltar::}
-{350}{}{De: Da Divisão de Bioquímica de Guerra
-                          Surto de epidemia na União Soviética ameaça protetorados do norte da RPC. BioChem
- WD aconselha quarentena e isolamento de territórios em perigo. Possível local de reassentamento para insurgentes, terroristas
- e indesejáveis e área de colheita para novas variedades de armas biológicas. Plano submetido à Parte para aprovação.}
+{350}{}{De: Da DivisÃ£o de BioquÃ­mica de Guerra
+                          Surto de epidemia na UniÃ£o SoviÃ©tica ameaÃ§a protetorados do norte da RPC. BioChem
+ WD aconselha quarentena e isolamento de territÃ³rios em perigo. PossÃ­vel local de reassentamento para insurgentes, terroristas
+ e indesejÃ¡veis e Ã¡rea de colheita para novas variedades de armas biolÃ³gicas. Plano submetido Ã  Parte para aprovaÃ§Ã£o.}
 {351}{}{::voltar::}
 {360}{}{De: Comandante da Frente do Alasca, General Jingwei
-                Cepa #23-110 implantada contra as tropas americanas, desmoralizando e enfraquecendo suas operações de
- força. Solicitando tropas adicionais e armadura de mestre de guerra para o ataque final contra as forças americanas entrincheiradas nas
+                Cepa #23-110 implantada contra as tropas americanas, desmoralizando e enfraquecendo suas operaÃ§Ãµes de
+ forÃ§a. Solicitando tropas adicionais e armadura de mestre de guerra para o ataque final contra as forÃ§as americanas entrincheiradas nas
  fronteiras do Alasca.}
 {361}{}{::voltar::}
 {370}{}{De: Comando Central
-                                          Unidades americanas enviadas para o continente depois de escapar de nosso bloqueio do Japão.
- As forças do Alasca devem continuar as operações. As forças militares em territórios anexados devem aumentar a defesa da frente interna.
- O comando autoriza o uso de armas biológicas e químicas em solo nacional - os demônios estrangeiros devem ser exterminados!}
+                                          Unidades americanas enviadas para o continente depois de escapar de nosso bloqueio do JapÃ£o.
+ As forÃ§as do Alasca devem continuar as operaÃ§Ãµes. As forÃ§as militares em territÃ³rios anexados devem aumentar a defesa da frente interna.
+ O comando autoriza o uso de armas biolÃ³gicas e quÃ­micas em solo nacional - os demÃ´nios estrangeiros devem ser exterminados!}
 {371}{}{::voltar::}
-{380}{}{De: Dragão Vermelho
-                                                     Operações de insurgência e ataques terroristas altamente eficazes em
- desmoralizar a população americana. O apoio às operações militares no exterior diminui à medida que motins e protestos são incitados
+{380}{}{De: DragÃ£o Vermelho
+                                                     OperaÃ§Ãµes de insurgÃªncia e ataques terroristas altamente eficazes em
+ desmoralizar a populaÃ§Ã£o americana. O apoio Ã s operaÃ§Ãµes militares no exterior diminui Ã  medida que motins e protestos sÃ£o incitados
  em todo o solo americano. Recomendamos ataques contra alvos militares e de pesquisa designados nos Estados Unidos,
  prioridade: Raven Rock, West Tek, Mariposa, Boulder, Institute.}
 {381}{}{::voltar::}
 {390}{}{De: Comando Central
-                                              A Superioridade militar americana agora está clara - unidades de power armor T-51b implantadas
- ao continente. O PLA não tem contador adequado e perde terreno a cada dia. O Presidente Cheng exige que Pequim permaneça em
- mãos chinesas - a fortificação está em andamento. O comando ordena a intensificação das operações de guerrilha atrás das linhas inimigas.
- Operativos em toda a Comunidade Americana devem se preparar para a encenação de insurgências. Remessas de armas e equipamentos despachadas.
- Alvo prioritário: Washington, DC, Columbia Commonwealth}
+                                              A Superioridade militar americana agora estÃ¡ clara - unidades de power armor T-51b implantadas
+ ao continente. O PLA nÃ£o tem contador adequado e perde terreno a cada dia. O Presidente Cheng exige que Pequim permaneÃ§a em
+ mÃ£os chinesas - a fortificaÃ§Ã£o estÃ¡ em andamento. O comando ordena a intensificaÃ§Ã£o das operaÃ§Ãµes de guerrilha atrÃ¡s das linhas inimigas.
+ Operativos em toda a Comunidade Americana devem se preparar para a encenaÃ§Ã£o de insurgÃªncias. Remessas de armas e equipamentos despachadas.
+ Alvo prioritÃ¡rio: Washington, DC, Columbia Commonwealth}
 {391}{}{::voltar::}
 {400}{}{De: Presidente do Partido, Cheng
-                                         Com o colapso da Frente do Alasca e a presença cada vez mais forte dos EUA
- no território chinês, a derrota é iminente. De acordo com a resolução 636860 do Partido Comunista Chinês, estou ordenando a todas
- forças militares leais para iniciar operações nucleares contra os americanos, esboço da missão R. Os alvos prioritários são
+                                         Com o colapso da Frente do Alasca e a presenÃ§a cada vez mais forte dos EUA
+ no territÃ³rio chinÃªs, a derrota Ã© iminente. De acordo com a resoluÃ§Ã£o 636860 do Partido Comunista ChinÃªs, estou ordenando a todas
+ forÃ§as militares leais para iniciar operaÃ§Ãµes nucleares contra os americanos, esboÃ§o da missÃ£o R. Os alvos prioritÃ¡rios sÃ£o
  contidos nas diretivas operacionais. Que nossas almas retornem a esta Terra.}
 {401}{}{::voltar::}
-{410}{}{De: Comando Central                                            Todas as forças em posição. Transmitindo códigos finais
- de confirmação. A Operação Youmíng está pronta.}
+{410}{}{De: Comando Central                                            Todas as forÃ§as em posiÃ§Ã£o. Transmitindo cÃ³digos finais
+ de confirmaÃ§Ã£o. A OperaÃ§Ã£o YoumÃ­ng estÃ¡ pronta.}
 {411}{}{::voltar::}
-{420}{}{Verificando canais de comunicação...                                    PLA CentCom...  offline
+{420}{}{Verificando canais de comunicaÃ§Ã£o...                                    PLA CentCom...  offline
                                                 CIN Beijing...  offline
                                                    SSC Naval Yard... offline
                                               SCA Eastern Dragon.. offline
-                                        Aviso: Nenhuma conexão com servidores externos pôde ser feita.}
+                                        Aviso: Nenhuma conexÃ£o com servidores externos pÃ´de ser feita.}
 {421}{}{Que decepcionante...}
 {430}{}{Verificando unidades locais...}
 {431}{}{[CONTINUAR]}
-{440}{}{Um arquivo acessível encontrado. [Parece que a maioria dos arquivos está corrompida. No entanto, o mainframe consegue
+{440}{}{Um arquivo acessÃ­vel encontrado. [Parece que a maioria dos arquivos estÃ¡ corrompida. No entanto, o mainframe consegue
  recuperar um arquivo intacto.]}
-{441}{}{Registro pessoal: Li Ye, Almirante, Capitão}
-{450}{}{12/10/2077: Estamos perdendo esta guerra. Acabei de receber a confirmação de que o Partido finalmente decidiu ir
- adiante com o plano R. Loucura! Como a guerra nuclear nos dará a vitória? Ninguém ganha se liberarmos esse tipo de poder. Mas
- eu sou um soldado e vou seguir minhas ordens até o fim.}
+{441}{}{Registro pessoal: Li Ye, Almirante, CapitÃ£o}
+{450}{}{12/10/2077: Estamos perdendo esta guerra. Acabei de receber a confirmaÃ§Ã£o de que o Partido finalmente decidiu ir
+ adiante com o plano R. Loucura! Como a guerra nuclear nos darÃ¡ a vitÃ³ria? NinguÃ©m ganha se liberarmos esse tipo de poder. Mas
+ eu sou um soldado e vou seguir minhas ordens atÃ© o fim.}
 {451}{}{Leia.}
 {452}{}{::voltar::}
-{460}{}{19/10/2077: A tripulação está ficando agitada. Wong, animado, contou aos oficiais sobre o plano R e eles ficaram em êxtase.
- Não posso culpá-los, mas discordo: Wong perdeu seus filhos em Anchorage enquanto o irmão de Da Chiang foi capturado
+{460}{}{19/10/2077: A tripulaÃ§Ã£o estÃ¡ ficando agitada. Wong, animado, contou aos oficiais sobre o plano R e eles ficaram em Ãªxtase.
+ NÃ£o posso culpÃ¡-los, mas discordo: Wong perdeu seus filhos em Anchorage enquanto o irmÃ£o de Da Chiang foi capturado
  na costa de Maryland.}
 {461}{}{Leia.}
 {462}{}{::voltar::}
-{470}{}{2077-10-21: Terminamos os preparativos finais para o lançamento. Tudo o que resta é inserir os códigos de confirmação.
+{470}{}{2077-10-21: Terminamos os preparativos finais para o lanÃ§amento. Tudo o que resta Ã© inserir os cÃ³digos de confirmaÃ§Ã£o.
  Foi uma honra servir com esses homens.}
 {471}{}{Leia.}
 {472}{}{::voltar::}
-{480}{}{2077-10-23: Recebemos os códigos de confirmação e estaremos na posição em quinze minutos. Este é provavelmente é minha
- última entrada neste registro, então deixe-me dizer que não tolero esse tipo de atrocidade. A guerra é travada entre soldados, não
- com bombas e civis. Se alguém sobreviver, espero que nos perdoe.}
+{480}{}{2077-10-23: Recebemos os cÃ³digos de confirmaÃ§Ã£o e estaremos na posiÃ§Ã£o em quinze minutos. Este Ã© provavelmente Ã© minha
+ Ãºltima entrada neste registro, entÃ£o deixe-me dizer que nÃ£o tolero esse tipo de atrocidade. A guerra Ã© travada entre soldados, nÃ£o
+ com bombas e civis. Se alguÃ©m sobreviver, espero que nos perdoe.}
 {481}{}{Leia.}
 {482}{}{::voltar::}
-{490}{}{29/10/2077: Malditos sejam esses idiotas! Achei que fôssemos o único grupo encarregado de envolver o setor de Los Angeles, mas eu
- estava errado. Eles lançaram nosso ICBM mais poderoso nisso. Não consigo entender por que não foi enviado a Washington, mas isso é discutível.
- No momento, estamos à deriva no oceano. O imperador está morto, a navegação foi interrompida e parece que esta vai ser a nossa
+{490}{}{29/10/2077: Malditos sejam esses idiotas! Achei que fÃ´ssemos o Ãºnico grupo encarregado de envolver o setor de Los Angeles, mas eu
+ estava errado. Eles lanÃ§aram nosso ICBM mais poderoso nisso. NÃ£o consigo entender por que nÃ£o foi enviado a Washington, mas isso Ã© discutÃ­vel.
+ No momento, estamos Ã  deriva no oceano. O imperador estÃ¡ morto, a navegaÃ§Ã£o foi interrompida e parece que esta vai ser a nossa
  cova.}
 {491}{}{Leia.}
 {492}{}{::voltar::}
-{500}{}{04-11-2077: Estamos à deriva há vários dias. Jing conseguiu restaurar um pouco da energia do nosso sistema de
- bordo, acredito que devemos ter oxigênio suficiente para várias semanas. Estou mais preocupado com comida e água - nossos suprimentos
- estão baixos e não há o suficiente para todos. A tripulação está ficando agitada.}
+{500}{}{04-11-2077: Estamos Ã  deriva hÃ¡ vÃ¡rios dias. Jing conseguiu restaurar um pouco da energia do nosso sistema de
+ bordo, acredito que devemos ter oxigÃªnio suficiente para vÃ¡rias semanas. Estou mais preocupado com comida e Ã¡gua - nossos suprimentos
+ estÃ£o baixos e nÃ£o hÃ¡ o suficiente para todos. A tripulaÃ§Ã£o estÃ¡ ficando agitada.}
 {501}{}{Leia.}
 {502}{}{::voltar::}
-{510}{}{08-11-2077: O imperador está de volta à linha, mas mal. Ainda não temos navegação e a tripulação está prestes a
- causar um motim - Impedi que dois marinheiros batessem no Jing. A situação é terrível. A menos que subamos à superfície nos próximos dias,
+{510}{}{08-11-2077: O imperador estÃ¡ de volta Ã  linha, mas mal. Ainda nÃ£o temos navegaÃ§Ã£o e a tripulaÃ§Ã£o estÃ¡ prestes a
+ causar um motim - Impedi que dois marinheiros batessem no Jing. A situaÃ§Ã£o Ã© terrÃ­vel. A menos que subamos Ã  superfÃ­cie nos prÃ³ximos dias,
  temo que iremos nos matar.}
 {511}{}{Leia.}
 {512}{}{::voltar::}
-{520}{}{2077-11-12: Finalmente! Encalhamos na baía de São Francisco. Os marinheiros estavam alegres até que abrimos as 
- escotilhas. A cidade está um desastre, devastada por tempestades de fogo e radiação. Enviei grupos em terra para encontrar um local de acampamento adequado.
- Até agora, ninguém relatou alguma localização.}
+{520}{}{2077-11-12: Finalmente! Encalhamos na baÃ­a de SÃ£o Francisco. Os marinheiros estavam alegres atÃ© que abrimos as 
+ escotilhas. A cidade estÃ¡ um desastre, devastada por tempestades de fogo e radiaÃ§Ã£o. Enviei grupos em terra para encontrar um local de acampamento adequado.
+ AtÃ© agora, ninguÃ©m relatou alguma localizaÃ§Ã£o.}
 {521}{}{Leia.}
 {522}{}{::voltar::}
-{530}{}{16-11-2077: A equipe de Lao encontrou um bairro habitável. Os moradores o abandonaram, depois do alarme antiaéreo
- ser acionado, mas sofreu poucos danos. Sabe o que é irônico? É a Chinatown de São Francisco, ainda cercada
- por postos de controle americanos e quartéis fortificados. Se eles soubessem...}
+{530}{}{16-11-2077: A equipe de Lao encontrou um bairro habitÃ¡vel. Os moradores o abandonaram, depois do alarme antiaÃ©reo
+ ser acionado, mas sofreu poucos danos. Sabe o que Ã© irÃ´nico? Ã‰ a Chinatown de SÃ£o Francisco, ainda cercada
+ por postos de controle americanos e quartÃ©is fortificados. Se eles soubessem...}
 {531}{}{Leia.}
 {532}{}{::voltar::}
-{540}{}{24-11-2077: Entramos em contato com o Red Dragon. O comando do Black Ghost na América do Norte tem caminhado para o oeste
- desde o dia 23, depois de perder o contato com o CentCom. Eles não estão nada felizes por estarem presos em solo inimigo, mas
+{540}{}{24-11-2077: Entramos em contato com o Red Dragon. O comando do Black Ghost na AmÃ©rica do Norte tem caminhado para o oeste
+ desde o dia 23, depois de perder o contato com o CentCom. Eles nÃ£o estÃ£o nada felizes por estarem presos em solo inimigo, mas
  devemos fazer isso.}
 {541}{}{Leia.}
 {542}{}{::voltar::}
-{550}{}{06-12-2077: O acampamento afastado de Shi-Huang-Ti é montado e está funcionando. Fantasmas estão executando operações 
- de catação nas áreas circundantes e reunindo todos os suprimentos possíveis. Eu dei ordens estritas para não se envolverem com os americanos
- sobreviventes sem provocação - não podemos antagonizar aliados em potencial.}
+{550}{}{06-12-2077: O acampamento afastado de Shi-Huang-Ti Ã© montado e estÃ¡ funcionando. Fantasmas estÃ£o executando operaÃ§Ãµes 
+ de cataÃ§Ã£o nas Ã¡reas circundantes e reunindo todos os suprimentos possÃ­veis. Eu dei ordens estritas para nÃ£o se envolverem com os americanos
+ sobreviventes sem provocaÃ§Ã£o - nÃ£o podemos antagonizar aliados em potencial.}
 {551}{}{Leia.}
 {552}{}{::voltar::}
-{560}{}{14-12-2077: Uma raridade - um culto com o nome de Igreja da Hubologia de alguma forma sobreviveu à devastação em um 
- bunker reforçado perto do que restou da ponte Golden Gate. Eles são fanáticos inofensivos, mas úteis. Seus recursos, 
- mão de obra e conhecimento da área em volta nos ajudarão a estabelecer nossa nova casa.}
+{560}{}{14-12-2077: Uma raridade - um culto com o nome de Igreja da Hubologia de alguma forma sobreviveu Ã  devastaÃ§Ã£o em um 
+ bunker reforÃ§ado perto do que restou da ponte Golden Gate. Eles sÃ£o fanÃ¡ticos inofensivos, mas Ãºteis. Seus recursos, 
+ mÃ£o de obra e conhecimento da Ã¡rea em volta nos ajudarÃ£o a estabelecer nossa nova casa.}
 {561}{}{Leia.}
 {562}{}{::voltar::}
-{570}{}{2077-12-27: As necessidades básicas estão atendidas. No momento, estamos fazendo planos para retirar a parte eletrônica
- e outros equipamentos úteis do submarino - não adianta mantê-lo, uma vez que o sistema de propulsão está longe do reparo e podemos
- usar tudo o que pudermos no local. Jing traçou planos para uma estrutura reforçada - uma espécie de 'Palácio de Aço'.}
+{570}{}{2077-12-27: As necessidades bÃ¡sicas estÃ£o atendidas. No momento, estamos fazendo planos para retirar a parte eletrÃ´nica
+ e outros equipamentos Ãºteis do submarino - nÃ£o adianta mantÃª-lo, uma vez que o sistema de propulsÃ£o estÃ¡ longe do reparo e podemos
+ usar tudo o que pudermos no local. Jing traÃ§ou planos para uma estrutura reforÃ§ada - uma espÃ©cie de 'PalÃ¡cio de AÃ§o'.}
 {571}{}{Leia.}
 {572}{}{::voltar::}
-{580}{}{31-12-2077: Esta será minha última entrada neste registro. Não sou mais almirante da Marinha do Exército de 
- Libertação do Povo. Tenho uma responsabilidade para com meus homens e vou liderá-los no futuro. Em 2078, estamos em plena secessão
- da China. Presidente Cheng, coma seu coração. Este é Ye Li, líder do povo Shi-Huang-Ti, encerrando a sessão.}
+{580}{}{31-12-2077: Esta serÃ¡ minha Ãºltima entrada neste registro. NÃ£o sou mais almirante da Marinha do ExÃ©rcito de 
+ LibertaÃ§Ã£o do Povo. Tenho uma responsabilidade para com meus homens e vou liderÃ¡-los no futuro. Em 2078, estamos em plena secessÃ£o
+ da China. Presidente Cheng, coma seu coraÃ§Ã£o. Este Ã© Ye Li, lÃ­der do povo Shi-Huang-Ti, encerrando a sessÃ£o.}
 {581}{}{::voltar::}
-{590}{}{Esboço da missão R:                                                    Serviços de emergência de guerra nuclear, plano de contingência
-  para o Exército de Libertação Popular em caso de derrota iminente por uma potência estrangeira, aceito pelo Partido Comunista Chinês 
+{590}{}{EsboÃ§o da missÃ£o R:                                                    ServiÃ§os de emergÃªncia de guerra nuclear, plano de contingÃªncia
+  para o ExÃ©rcito de LibertaÃ§Ã£o Popular em caso de derrota iminente por uma potÃªncia estrangeira, aceito pelo Partido Comunista ChinÃªs 
  em 11 de novembro de 2073.}
 {591}{}{Leia.}
-{600}{}{O plano inclui uma série de ataques nucleares coordenados contra alvos estratégicos em toda a América, usando aeronaves
- estratégicas, mísseis nucleares em submarinos, sistemas de lançamento de mísseis, armas nucleares de infantaria de baixo rendimento e outros dispositivos
- nucleares. O objetivo é prejudicar a capacidade retaliatória e militar americana.}
+{600}{}{O plano inclui uma sÃ©rie de ataques nucleares coordenados contra alvos estratÃ©gicos em toda a AmÃ©rica, usando aeronaves
+ estratÃ©gicas, mÃ­sseis nucleares em submarinos, sistemas de lanÃ§amento de mÃ­sseis, armas nucleares de infantaria de baixo rendimento e outros dispositivos
+ nucleares. O objetivo Ã© prejudicar a capacidade retaliatÃ³ria e militar americana.}
 {601}{}{Leia.}
 {610}{}{O Shi-Huang-Ti tem a tarefa de destruir oito alvos em solo californiano, incluindo o West Tek Research 
  Facility, a sede corporativa em Los Angeles e os principais centros populacionais.}
 {611}{}{Leia.}
-{620}{}{Em caso de motim, traição ou deserção, o Capitão está autorizado a ordenar ao Imperador que tome o controle da
- embarcação e cumpra a missão.}
+{620}{}{Em caso de motim, traiÃ§Ã£o ou deserÃ§Ã£o, o CapitÃ£o estÃ¡ autorizado a ordenar ao Imperador que tome o controle da
+ embarcaÃ§Ã£o e cumpra a missÃ£o.}
 {621}{}{::voltar::}
-{622}{}{::Seção encerrada::}
+{622}{}{::SeÃ§Ã£o encerrada::}

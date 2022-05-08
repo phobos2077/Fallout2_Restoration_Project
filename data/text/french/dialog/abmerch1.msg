@@ -1,52 +1,52 @@
 {100}{}{Tu vois un marchand.}
-{102}{}{Tu vois un marchand qui essaie de réparer la pompe à eau.}
-{103}{}{J'arrive pas à faire marcher ce truc !}
-{104}{}{Cela semble être très difficile à réparer.}
+{102}{}{Tu vois un marchand qui essaie de rÃ©parer la pompe Ã  eau.}
+{103}{}{J'arrive pas Ã  faire marcher ce truc !}
+{104}{}{Cela semble Ãªtre trÃ¨s difficile Ã  rÃ©parer.}
 {105}{}{Quelle merde ce truc !}
-{106}{}{Des vrais petits fils de putes bornés n'est-ce pas ?}
+{106}{}{Des vrais petits fils de putes bornÃ©s n'est-ce pas ?}
 {107}{}{Tu peux me filer un coup de main ?}
-{108}{}{Tu auras peut-être plus de chance avec ça.}
-{109}{}{Hé, merci d'avoir réparé la pompe à eau !}
-{110}{}{Tu devrais informer le chef que la pompe à eau est désormais réparée.}
-{200}{}{Merci de nous avoir aidés avec ce truc.}
-{300}{}{Ah, quel bordel de mer -- Humm, je suis un peu occupé là. Tu as besoin de quelque chose ou tu me fais juste perdre mon temps ?}
-{301}{}{En fait oui, c'est le chef qui m'envoie. Il a dit que la pompe à eau avait quelques problèmes.}
-{302}{}{Euh, *des problèmes* est un doux euphémisme. Tout ce machin est complètement foutu. Il n'y a aucune chance pour que ça remarche.}
-{303}{}{Bon, ça te dérange si je jette un coup d'oeil ? J'ai promis au chef que je verrai ce que je pourrai faire.}
-{304}{}{Bien sûr, je t'en prie. Ce n'est pas comme si tu pouvais la casser davantage.}
-{305}{}{Je ne veux déranger personne, mais... Quel est le problème ici ?}
-{306}{}{La pompe à eau principale de l'Abbaye est foutue. Ce satané truc vivait ses derniers instants et maintenant il est définitivement hors service.}
-{307}{}{Je suis un peu manuel, ça te dérange si je jette un coup d'oeil ?}
-{308}{}{Hé bien, je ne suis pas très doué avec les machines, mais je peux éventuellement voir si quelque chose peut-être fait.}
-{309}{}{Bien sûr, personne ne t'en empêche.}
-{310}{}{Heu, désolé. Au revoir.}
+{108}{}{Tu auras peut-Ãªtre plus de chance avec Ã§a.}
+{109}{}{HÃ©, merci d'avoir rÃ©parÃ© la pompe Ã  eau !}
+{110}{}{Tu devrais informer le chef que la pompe Ã  eau est dÃ©sormais rÃ©parÃ©e.}
+{200}{}{Merci de nous avoir aidÃ©s avec ce truc.}
+{300}{}{Ah, quel bordel de mer -- Humm, je suis un peu occupÃ© lÃ . Tu as besoin de quelque chose ou tu me fais juste perdre mon temps ?}
+{301}{}{En fait oui, c'est le chef qui m'envoie. Il a dit que la pompe Ã  eau avait quelques problÃ¨mes.}
+{302}{}{Euh, *des problÃ¨mes* est un doux euphÃ©misme. Tout ce machin est complÃ¨tement foutu. Il n'y a aucune chance pour que Ã§a remarche.}
+{303}{}{Bon, Ã§a te dÃ©range si je jette un coup d'oeil ? J'ai promis au chef que je verrai ce que je pourrai faire.}
+{304}{}{Bien sÃ»r, je t'en prie. Ce n'est pas comme si tu pouvais la casser davantage.}
+{305}{}{Je ne veux dÃ©ranger personne, mais... Quel est le problÃ¨me ici ?}
+{306}{}{La pompe Ã  eau principale de l'Abbaye est foutue. Ce satanÃ© truc vivait ses derniers instants et maintenant il est dÃ©finitivement hors service.}
+{307}{}{Je suis un peu manuel, Ã§a te dÃ©range si je jette un coup d'oeil ?}
+{308}{}{HÃ© bien, je ne suis pas trÃ¨s douÃ© avec les machines, mais je peux Ã©ventuellement voir si quelque chose peut-Ãªtre fait.}
+{309}{}{Bien sÃ»r, personne ne t'en empÃªche.}
+{310}{}{Heu, dÃ©solÃ©. Au revoir.}
 {311}{}{Je vais voir ce que je peux faire alors.}
-{312}{}{Je pensais pouvoir t'aider, mais si tu continues à jouer au trou du cul, tu vas devoir te démerder tout seul.}
-{313}{}{J'ai dit à Abbot que je pourrais t'aider, mais si tu continues à jouer au trou du cul, tu vas devoir te démerder tout seul.}
-{320}{}{[Il te regarde un moment, puis soupire lentement.] Pardon l'ami, ce machin va me rendre fou, j'y ai passé la journée. Je ne voulais pas te vexer.}
-{321}{}{Hmm bien, voyons voir, quel est le problème déjà ?}
+{312}{}{Je pensais pouvoir t'aider, mais si tu continues Ã  jouer au trou du cul, tu vas devoir te dÃ©merder tout seul.}
+{313}{}{J'ai dit Ã  Abbot que je pourrais t'aider, mais si tu continues Ã  jouer au trou du cul, tu vas devoir te dÃ©merder tout seul.}
+{320}{}{[Il te regarde un moment, puis soupire lentement.] Pardon l'ami, ce machin va me rendre fou, j'y ai passÃ© la journÃ©e. Je ne voulais pas te vexer.}
+{321}{}{Hmm bien, voyons voir, quel est le problÃ¨me dÃ©jÃ  ?}
 {322}{}{Tant pis. Au revoir.}
 {330}{}{Reviens me voir demain matin.}
 {400}{}{Oh, c'est encore toi. Des nouvelles ?}
 {401}{}{Non, pas encore. Je reviendrai te voir si c'est le cas.}
-{402}{}{En fait oui. J'ai regardé dedans et il semblerait que le moteur soit totalement foutu. Les raccordements sont morts donc on va être obligé de mettre la main sur un nouveau moteur ainsi que sur quelques câbles pour tout reconnecter puisque les vieux sont cramés.}
-{500}{}{Hmm... Les raccordements du moteur principal sont foutus, hein ? Bon, j'ai quelques câbles ici qui feront l'affaire, mais pas ce moteur en particulier. Bien que je sois sûr que la Cité de l'Abri possède la pièce en question. Va là-bas et parle à Harry dans la cour principale. Dis-lui que Dave t'envoie. Ce satané moteur n'est pas donné, mais il devrait te faire un bon prix.}
-{501}{}{Je vais aller là-bas. Je reviens bientôt.}
-{502}{}{Holà, euh, attends un peu. Je veux bien résoudre ton problème, mais j'ai jamais dit que j'allais me taper un aller-retour dans le désert pour t'acheter ton fichu moteur. Si tu veux mon aide va falloir cracher la monnaie.}
-{503}{}{Que dirais-tu de dire à Harry que TU vas te taper le sale boulot, hein ? Je suis pas ton putain de coursier. Ciao.}
-{510}{}{Ok, je ne m'attendais pas à ce que tu le fasses gratuitement. Cette pièce te coûtera $500 et je te donne $100 de plus pour la peine. Voilà $600.}
-{511}{}{C'est beaucoup mieux. Je reviendrai avec la pièce.}
-{600}{}{Des nouvelles sur cette pièce ? Cette machine ne va pas se réparer toute seule.}
+{402}{}{En fait oui. J'ai regardÃ© dedans et il semblerait que le moteur soit totalement foutu. Les raccordements sont morts donc on va Ãªtre obligÃ© de mettre la main sur un nouveau moteur ainsi que sur quelques cÃ¢bles pour tout reconnecter puisque les vieux sont cramÃ©s.}
+{500}{}{Hmm... Les raccordements du moteur principal sont foutus, hein ? Bon, j'ai quelques cÃ¢bles ici qui feront l'affaire, mais pas ce moteur en particulier. Bien que je sois sÃ»r que la CitÃ© de l'Abri possÃ¨de la piÃ¨ce en question. Va lÃ -bas et parle Ã  Harry dans la cour principale. Dis-lui que Dave t'envoie. Ce satanÃ© moteur n'est pas donnÃ©, mais il devrait te faire un bon prix.}
+{501}{}{Je vais aller lÃ -bas. Je reviens bientÃ´t.}
+{502}{}{HolÃ , euh, attends un peu. Je veux bien rÃ©soudre ton problÃ¨me, mais j'ai jamais dit que j'allais me taper un aller-retour dans le dÃ©sert pour t'acheter ton fichu moteur. Si tu veux mon aide va falloir cracher la monnaie.}
+{503}{}{Que dirais-tu de dire Ã  Harry que TU vas te taper le sale boulot, hein ? Je suis pas ton putain de coursier. Ciao.}
+{510}{}{Ok, je ne m'attendais pas Ã  ce que tu le fasses gratuitement. Cette piÃ¨ce te coÃ»tera $500 et je te donne $100 de plus pour la peine. VoilÃ  $600.}
+{511}{}{C'est beaucoup mieux. Je reviendrai avec la piÃ¨ce.}
+{600}{}{Des nouvelles sur cette piÃ¨ce ? Cette machine ne va pas se rÃ©parer toute seule.}
 {601}{}{Non pas encore. Je reviendrai que je l'aurai.}
-{602}{}{Ouaip, je l'ai juste là...}
+{602}{}{Ouaip, je l'ai juste lÃ ...}
 {700}{}{Parfait. Tu veux que j'installe ce foutu truc ou tu veux t'en occuper ?}
 {701}{}{Je crois que je peux m'en charger. Ecarte-toi.}
 {702}{}{En fait, je crois que j'en ai assez fait. A toi l'honneur.}
-{800}{}{Très bien, passe-la-moi.}
-{801}{}{Le voilà.}
+{800}{}{TrÃ¨s bien, passe-la-moi.}
+{801}{}{Le voilÃ .}
 {900}{}{Ca devrait le faire.}
-{901}{}{La pompe à eau a été réparée.}
+{901}{}{La pompe Ã  eau a Ã©tÃ© rÃ©parÃ©e.}
 {910}{}{[Il essuie la sueur de son front.] Ouais, besoin de quelque chose ?}
-{911}{}{Le chef a dit que tu avais besoin d'un peu d'aide. Quel est le problème ?}
+{911}{}{Le chef a dit que tu avais besoin d'un peu d'aide. Quel est le problÃ¨me ?}
 {912}{}{Je reviendrai.}
-{913}{}{J'ai vérifié la pompe à eau et le moteur est foutu. Les connexions sont nases, donc il va falloir trouver un autre moteur et de nouveaux câbles pour remplacer ceux qui ont grillé.}
+{913}{}{J'ai vÃ©rifiÃ© la pompe Ã  eau et le moteur est foutu. Les connexions sont nases, donc il va falloir trouver un autre moteur et de nouveaux cÃ¢bles pour remplacer ceux qui ont grillÃ©.}

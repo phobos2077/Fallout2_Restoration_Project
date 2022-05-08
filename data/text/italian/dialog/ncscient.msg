@@ -4,9 +4,9 @@
 {152}{}{Vedi una donna dall'aspetto stanco. Sta controllando una cartellina e si sta guardando intorno come se si fosse dimenticata qualcosa.}
 {153}{}{Sta riempiendo una siringa ipodermica e sta brontolando tra se' e se'.}
 {154}{}{Salve, Myron, signore.}
-{155}{}{Myron... signore, avete un secondo…?}
+{155}{}{Myron... signore, avete un secondoâ€¦?}
 {156}{}{Ci sono novita' su quando arriveranno i nuovi schiavi, Myron, signore?}
-{157}{}{Myron... signore, questi nuovi risultati sono molto promettenti…}
+{157}{}{Myron... signore, questi nuovi risultati sono molto promettentiâ€¦}
 {158}{}{Myron? Mi concedete un secondo, signore?}
 {159}{}{Dove diavolo e' Myron?}
 {160}{}{Fate venire qui Myron. Deve vedere questi dati.}
@@ -16,8 +16,8 @@
 {164}{}{Assicuratevi che gli schiavi assumano una quantita' maggiore di Jet Beta.}
 {165}{}{I risultati dei test condotti sul Jet Beta sono molto promettenti, ma...}
 {166}{}{Lo stato di "eccitazione" dura dai 15 minuti all'ora... calcolando una dose/ora... hmmmmnnn.}
-{167}{}{Il soggetto numero 12 continua ad avere emorragie nei polmoni…}
-{168}{}{Questa e' la quinta volta che il soggetto n.12 ha un attacco... aumentate la dose e vediamo cosa succede…}
+{167}{}{Il soggetto numero 12 continua ad avere emorragie nei polmoniâ€¦}
+{168}{}{Questa e' la quinta volta che il soggetto n.12 ha un attacco... aumentate la dose e vediamo cosa succedeâ€¦}
 {169}{}{Bene, che TIPO di allucinazioni aveva?}
 {170}{}{Controllate la frequenza cardiaca di questo qui. Se e' ancora entro limiti tollerabili, aumentate il dosaggio.}
 {171}{}{Perche' la schiava nel gruppo di controllo si e' uccisa? Non stavamo nemmeno conducendo dei test, su di lei!}
@@ -37,14 +37,14 @@
 {212}{}{Se hai dei suggerimenti, per favore, scrivili su un pezzo di carta e poi mettili in quel cestino della spazzatura laggiu'.}
 {213}{}{Si', si', cosa?}
 {214}{}{Non riusciremo ad ottenere dei risultati se continui ad interromperci.}
-{215}{}{Sembra proprio che lascino entrare cani e porci, oggigiorno…}
+{215}{}{Sembra proprio che lascino entrare cani e porci, oggigiornoâ€¦}
 {216}{}{Cosa vuoi?}
 {217}{}{Ti prego di scusarmi, ho del lavoro da fare, *io*.}
 {218}{}{Se hai delle domande, parla con le guardie, non con me.}
 {219}{}{Si', sono certo che qualunque cosa tu voglia sia di *grande* importanza, ma devo occuparmi dei miei affari.}
 {220}{}{Sei autorizzato a rimanere qui dentro?}
 {221}{}{Chi ti ha fatto entrare?}
-{222}{}{Quando Myron sapra' che degli stranieri sono entrati nel laboratorio…}
-{223}{}{Ce li hai quei risultati che ti avevo chiesto…oh, scusa. Credevo tu fossi un tecnico del laboratorio.}
+{222}{}{Quando Myron sapra' che degli stranieri sono entrati nel laboratorioâ€¦}
+{223}{}{Ce li hai quei risultati che ti avevo chiestoâ€¦oh, scusa. Credevo tu fossi un tecnico del laboratorio.}
 {224}{}{Sono troppo impegnato per parlare, scusami.}
-{225}{}{Abbiamo urgente bisogno di un nuovo gruppo di schiavi…questi qua sono ormai spompati.}
+{225}{}{Abbiamo urgente bisogno di un nuovo gruppo di schiaviâ€¦questi qua sono ormai spompati.}

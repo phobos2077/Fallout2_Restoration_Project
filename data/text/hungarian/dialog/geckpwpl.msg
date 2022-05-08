@@ -1,3 +1,3 @@
-{100}{}{A gekkói nukleáris er?m?.}
-{200}{}{Megsemmisítetted a reaktort.}
-{300}{}{A robot megjavította az er?m?vet.}
+{100}{}{A gekkÃ³i nukleÃ¡ris er?m?.}
+{200}{}{MegsemmisÃ­tetted a reaktort.}
+{300}{}{A robot megjavÃ­totta az er?m?vet.}

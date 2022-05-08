@@ -1,60 +1,60 @@
-{100}{}{Ez a hétköznapi kinézet? fiatalember tekintélyt parancsoló ruhát visel.}
-{101}{}{? az épület recepciósa.}
+{100}{}{Ez a hÃ©tkÃ¶znapi kinÃ©zet? fiatalember tekintÃ©lyt parancsolÃ³ ruhÃ¡t visel.}
+{101}{}{? az Ã©pÃ¼let recepciÃ³sa.}
 {102}{}{There's nothing particularly exceptional about the guy. He looks like the epitome of a budding bureaucrat.}
-{103}{}{Üdvözöljük a Kongresszusi Épületben. Segíthetek valamiben?}
-{104}{}{Látom, már megint itt van. Ez alkalommal miben segíthetek?}
+{103}{}{ÃœdvÃ¶zÃ¶ljÃ¼k a Kongresszusi Ã‰pÃ¼letben. SegÃ­thetek valamiben?}
+{104}{}{LÃ¡tom, mÃ¡r megint itt van. Ez alkalommal miben segÃ­thetek?}
 {105}{}{Now, how can I help you?}
 {106}{}{Uhhh...}
-{107}{}{Én látni Tandi?}
-{108}{}{Én látni Tandi?}
-{109}{}{Tandi Elnökn?höz jöttem.}
-{110}{}{Segítene megtalálni a 13-as Menedéket?}
-{111}{}{Nem, hacsak nincs magánál egy ÉLET.}
-{112}{}{Van néhány fontos hírem a f?nökének.}
-{113}{}{Tandi Elnökn?höz jöttem.}
-{114}{}{Tandi Elnökn?höz jöttem.}
-{115}{}{Munkát keresek.}
-{116}{}{Mi ez a hely tulajdonképpen?}
+{107}{}{Ã‰n lÃ¡tni Tandi?}
+{108}{}{Ã‰n lÃ¡tni Tandi?}
+{109}{}{Tandi ElnÃ¶kn?hÃ¶z jÃ¶ttem.}
+{110}{}{SegÃ­tene megtalÃ¡lni a 13-as MenedÃ©ket?}
+{111}{}{Nem, hacsak nincs magÃ¡nÃ¡l egy Ã‰LET.}
+{112}{}{Van nÃ©hÃ¡ny fontos hÃ­rem a f?nÃ¶kÃ©nek.}
+{113}{}{Tandi ElnÃ¶kn?hÃ¶z jÃ¶ttem.}
+{114}{}{Tandi ElnÃ¶kn?hÃ¶z jÃ¶ttem.}
+{115}{}{MunkÃ¡t keresek.}
+{116}{}{Mi ez a hely tulajdonkÃ©ppen?}
 {117}{}{Nem tud.}
-{118}{}{Én menni elfele.}
-{119}{}{Sajnálom, nincs nyilvános WC az épületben. Miért nem megy a dolgára?}
-{120}{}{Milyen ügyb?l kifolyólag?}
-{121}{}{Hmmm... Miért akarja látni az Elnökn?t?}
+{118}{}{Ã‰n menni elfele.}
+{119}{}{SajnÃ¡lom, nincs nyilvÃ¡nos WC az Ã©pÃ¼letben. MiÃ©rt nem megy a dolgÃ¡ra?}
+{120}{}{Milyen Ã¼gyb?l kifolyÃ³lag?}
+{121}{}{Hmmm... MiÃ©rt akarja lÃ¡tni az ElnÃ¶kn?t?}
 {122}{}{Ember mondani Tandi adni munka.}
-{123}{}{Kis város sivatagban akarja lenni barát Tandinak.}
-{124}{}{Azt hallottam, az elnökn? meghirdetett valami elvégzend? munkát.}
-{125}{}{A 15-ös Menedék lakói szeretnének alkut kötni.}
+{123}{}{Kis vÃ¡ros sivatagban akarja lenni barÃ¡t Tandinak.}
+{124}{}{Azt hallottam, az elnÃ¶kn? meghirdetett valami elvÃ©gzend? munkÃ¡t.}
+{125}{}{A 15-Ã¶s MenedÃ©k lakÃ³i szeretnÃ©nek alkut kÃ¶tni.}
 {126}{}{}
-{127}{}{Úgymint?}
-{128}{}{Valaki elárulja ?t.}
-{129}{}{Semmi köze hozzá!}
-{130}{}{Na, szépen vagyunk! Ez nem egy munkaer?-toborzó iroda. Miért nem próbálja meg a belvárosban?}
-{131}{}{Ez itt a Kongresszusi Épület, az ÚKK törvényhozó testülete.}
-{132}{}{(Folytatás)}
-{133}{}{13-as? Nem a 15-ös véletlenül?}
+{127}{}{Ãšgymint?}
+{128}{}{Valaki elÃ¡rulja ?t.}
+{129}{}{Semmi kÃ¶ze hozzÃ¡!}
+{130}{}{Na, szÃ©pen vagyunk! Ez nem egy munkaer?-toborzÃ³ iroda. MiÃ©rt nem prÃ³bÃ¡lja meg a belvÃ¡rosban?}
+{131}{}{Ez itt a Kongresszusi Ã‰pÃ¼let, az ÃšKK tÃ¶rvÃ©nyhozÃ³ testÃ¼lete.}
+{132}{}{(FolytatÃ¡s)}
+{133}{}{13-as? Nem a 15-Ã¶s vÃ©letlenÃ¼l?}
 {134}{}{Azt mondtam, 13-as.}
 {135}{}{15?}
 {136}{}{Nem.}
-{137}{}{(Folytatás)}
-{138}{}{Óh, szóval, arról van szó! Beszéljen Mr. Güntherrel odabenn!}
-{139}{}{15-ös Menedék? Alkut akarnak kötni? Érdekes. Beszéljen Güntherrel odabenn!}
-{140}{}{Elmondhatja neki maga is. Csak menjen, és beszéljen Güntherrel!}
-{141}{}{Ez nem hangzik túl jól. Most pedig, bocsásson meg, de dolgom van.}
+{137}{}{(FolytatÃ¡s)}
+{138}{}{Ã“h, szÃ³val, arrÃ³l van szÃ³! BeszÃ©ljen Mr. GÃ¼ntherrel odabenn!}
+{139}{}{15-Ã¶s MenedÃ©k? Alkut akarnak kÃ¶tni? Ã‰rdekes. BeszÃ©ljen GÃ¼ntherrel odabenn!}
+{140}{}{Elmondhatja neki maga is. Csak menjen, Ã©s beszÃ©ljen GÃ¼ntherrel!}
+{141}{}{Ez nem hangzik tÃºl jÃ³l. Most pedig, bocsÃ¡sson meg, de dolgom van.}
 {142}{}{El kell mondanom neki valamit.}
-{143}{}{Rendben. Mondja meg neki, hogy egy kém van a hivatalában.}
-{144}{}{Csak mondja meg neki, hogy beszélni akarok vele. Megértette?}
-{145}{}{Így nem tudok segíteni magának.}
-{146}{}{(Folytatás)}
-{147}{}{Óh, semmiség. Az én hibám. Azt mondta, 13-as, igaz? Nos, nem tudok róla semmit.}
-{148}{}{(Folytatás)}
-{149}{}{Én megoldja probléma. Megöl rossz fiú. Akar pénz.}
-{150}{}{Mondja meg neki, hogy megoldottam a földfoglalókkal kapcsolatos gondját.}
-{151}{}{Darion meghalt? Óh, bocsásson meg! Menjen be egyenesen.}
-{152}{}{Megoldotta? Nos... Biztos vagyok benne, hogy ez csodálatos hír. Megtudott még valamit?}
+{143}{}{Rendben. Mondja meg neki, hogy egy kÃ©m van a hivatalÃ¡ban.}
+{144}{}{Csak mondja meg neki, hogy beszÃ©lni akarok vele. MegÃ©rtette?}
+{145}{}{Ãgy nem tudok segÃ­teni magÃ¡nak.}
+{146}{}{(FolytatÃ¡s)}
+{147}{}{Ã“h, semmisÃ©g. Az Ã©n hibÃ¡m. Azt mondta, 13-as, igaz? Nos, nem tudok rÃ³la semmit.}
+{148}{}{(FolytatÃ¡s)}
+{149}{}{Ã‰n megoldja problÃ©ma. MegÃ¶l rossz fiÃº. Akar pÃ©nz.}
+{150}{}{Mondja meg neki, hogy megoldottam a fÃ¶ldfoglalÃ³kkal kapcsolatos gondjÃ¡t.}
+{151}{}{Darion meghalt? Ã“h, bocsÃ¡sson meg! Menjen be egyenesen.}
+{152}{}{Megoldotta? Nos... Biztos vagyok benne, hogy ez csodÃ¡latos hÃ­r. Megtudott mÃ©g valamit?}
 {153}{}{Nem.}
-{154}{}{Igen, lenne még valami... egy kémr?l volna szó.}
-{155}{}{Micsoda meg... úgy értem, örülök, hogy vége van. Menjen be egyenesen!}
-{500}{}{Elnézését kérem, de nem mehet be engedély nélkül!}
-{501}{}{Meg kell, hogy kérjem, hogy ne piszkálja azt!}
-{502}{}{Ez az utolsó figyelmeztetés! Távozzon, különben lesz nemulass!}
-{503}{}{?rség, kérem távolítsák el ezt a "vendéget"!}
+{154}{}{Igen, lenne mÃ©g valami... egy kÃ©mr?l volna szÃ³.}
+{155}{}{Micsoda meg... Ãºgy Ã©rtem, Ã¶rÃ¼lÃ¶k, hogy vÃ©ge van. Menjen be egyenesen!}
+{500}{}{ElnÃ©zÃ©sÃ©t kÃ©rem, de nem mehet be engedÃ©ly nÃ©lkÃ¼l!}
+{501}{}{Meg kell, hogy kÃ©rjem, hogy ne piszkÃ¡lja azt!}
+{502}{}{Ez az utolsÃ³ figyelmeztetÃ©s! TÃ¡vozzon, kÃ¼lÃ¶nben lesz nemulass!}
+{503}{}{?rsÃ©g, kÃ©rem tÃ¡volÃ­tsÃ¡k el ezt a "vendÃ©get"!}

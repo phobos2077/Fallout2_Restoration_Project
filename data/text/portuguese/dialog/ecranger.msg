@@ -1,30 +1,30 @@
-{100}{}{Você vê um grupo de bem-armados viajantes.}
-{101}{}{Eles ainda são estranhos bem armados.}
-{102}{}{Eles têm armas limpas e bem polidas e estão usando algum tipo de emblema em seus baús.}
-{103}{}{Estamos à procura de patrulhas escravistas. Já viu alguma estranho?}
-{104}{}{Saudações estranhas. Certifique-se de que você não seja um escravista - por sua própria causa.}
-{105}{}{É um prazer conhecê-lo, estranho. Não nos importune e não haverá nenhum problema.}
-{106}{}{Nós somos o NCR Rangers - nós fazemos o mundo um lugar melhor. Só pensei que você gostaria de saber.}
-{107}{}{Nós somos Rangers. matar escravistas é o nosso negócio.}
-{108}{}{Caramba, amante de escravos. Você vai morrer!}
-{109}{}{Merda - eu avisei a você!}
-{110}{}{Seu tipo não é necessário aqui - assim morra.}
-{111}{}{Sempre as armas. Ninguém se rende mais?}
-{112}{}{Bem, é isso - aberta a temporada!}
-{113}{}{Uh - vou buscar reforços. Não se mexa!}
-{114}{}{"Nós podemos levá-los", disse ele. Certo…}
+{100}{}{VocÃª vÃª um grupo de bem-armados viajantes.}
+{101}{}{Eles ainda sÃ£o estranhos bem armados.}
+{102}{}{Eles tÃªm armas limpas e bem polidas e estÃ£o usando algum tipo de emblema em seus baÃºs.}
+{103}{}{Estamos Ã  procura de patrulhas escravistas. JÃ¡ viu alguma estranho?}
+{104}{}{SaudaÃ§Ãµes estranhas. Certifique-se de que vocÃª nÃ£o seja um escravista - por sua prÃ³pria causa.}
+{105}{}{Ã‰ um prazer conhecÃª-lo, estranho. NÃ£o nos importune e nÃ£o haverÃ¡ nenhum problema.}
+{106}{}{NÃ³s somos o NCR Rangers - nÃ³s fazemos o mundo um lugar melhor. SÃ³ pensei que vocÃª gostaria de saber.}
+{107}{}{NÃ³s somos Rangers. matar escravistas Ã© o nosso negÃ³cio.}
+{108}{}{Caramba, amante de escravos. VocÃª vai morrer!}
+{109}{}{Merda - eu avisei a vocÃª!}
+{110}{}{Seu tipo nÃ£o Ã© necessÃ¡rio aqui - assim morra.}
+{111}{}{Sempre as armas. NinguÃ©m se rende mais?}
+{112}{}{Bem, Ã© isso - aberta a temporada!}
+{113}{}{Uh - vou buscar reforÃ§os. NÃ£o se mexa!}
+{114}{}{"NÃ³s podemos levÃ¡-los", disse ele. Certoâ€¦}
 {115}{}{Ow-ow-ow-ow-ow!}
 {116}{}{Uma porcaria! Eu estou fora daqui!}
-{117}{}{Eu não vou morrer por isso!}
-{118}{}{Vejo que você tem uma tatuagem lá - a marca dos escravistas. Você não seria um escravista agora, você seria?}
+{117}{}{Eu nÃ£o vou morrer por isso!}
+{118}{}{Vejo que vocÃª tem uma tatuagem lÃ¡ - a marca dos escravistas. VocÃª nÃ£o seria um escravista agora, vocÃª seria?}
 {119}{}{Sim.}
-{120}{}{Não.}
-{121}{}{Muito ruim para você. Nós somos NCR Rangers. Já ouviu falar de nós? Nós matamos escravistas.}
-{122}{}{Você é um saco de merda mentiroso. Pegue-o!}
-{123}{}{Saudações, estranho. Nós somos NCR Rangers. Quem é você?}
-{124}{}{Não é da sua conta.}
-{125}{}{Diga, eu ouvi esse nome. Você é um Ranger, não é?}
+{120}{}{NÃ£o.}
+{121}{}{Muito ruim para vocÃª. NÃ³s somos NCR Rangers. JÃ¡ ouviu falar de nÃ³s? NÃ³s matamos escravistas.}
+{122}{}{VocÃª Ã© um saco de merda mentiroso. Pegue-o!}
+{123}{}{SaudaÃ§Ãµes, estranho. NÃ³s somos NCR Rangers. Quem Ã© vocÃª?}
+{124}{}{NÃ£o Ã© da sua conta.}
+{125}{}{Diga, eu ouvi esse nome. VocÃª Ã© um Ranger, nÃ£o Ã©?}
 {126}{}{Sim.}
-{127}{}{Não é da sua conta.}
-{128}{}{Tudo bem, seja anti-social. Pelo menos você não é um escravista. Adeus.}
-{129}{}{Prazer em conhecê-lo, amigo Ranger. Mantenha seus olhos claros para problemas. Até a próxima.}
+{127}{}{NÃ£o Ã© da sua conta.}
+{128}{}{Tudo bem, seja anti-social. Pelo menos vocÃª nÃ£o Ã© um escravista. Adeus.}
+{129}{}{Prazer em conhecÃª-lo, amigo Ranger. Mantenha seus olhos claros para problemas. AtÃ© a prÃ³xima.}

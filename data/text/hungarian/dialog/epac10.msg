@@ -106,7 +106,7 @@
  He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb,
  he begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've
  seen you around, doll, and I doubt I'd forget a face like yours. Name's Dex, but I'm sure you know that. Mind if I ask yours?}
-{421}{}{Én }
+{421}{}{Ã‰n }
 {422}{}{. But you should know I've got a strict rule of not dating any strange men I unthaw. Since you've been on ice for the past century and a half, I'll assume your hand spasmed and accidentally slapped my ass. But if it happens again, I'll rip your cock off. Got it?}
 {423}{}{A nevem }
 {424}{}{. It's nice to meet you, Dex. I can't imagine what it must be like to wake up after being frozen for over a hundred and fifty years.}
@@ -268,7 +268,7 @@
  He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he
  begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've seen
  you around, doll, and I doubt I'd forget a face like yours. Name's, Dex, but I'm sure you know that. Mind if I ask yours?}
-{821}{}{Én }
+{821}{}{Ã‰n }
 {822}{}{. But you should know I've got a strict rule of not dating any strange men I unthaw. Since you've been on ice for the past century and a half, I'll assume your hand spasmed and accidentally slapped my ass. But if it happens again, I'll rip your cock off. Got it?}
 {823}{}{A nevem }
 {824}{}{. It's nice to meet you, Dex. I can't imagine what it must be like to wake up after being frozen for over a hundred
@@ -344,8 +344,8 @@ and fifty years.}
 {1105}{}{Come on. I was frozen for over a hundred and fifty years. I'm eager to move.}
 {1106}{}{I'm getting impatient over here.}
 {1110}{}{You ready to take me with you?}
-{1111}{}{Gyerünk!}
-{1112}{}{Nem, még nem.}
+{1111}{}{GyerÃ¼nk!}
+{1112}{}{Nem, mÃ©g nem.}
 {1200}{}{So, what can you tell me about the Vaults?}
 {1201}{}{So, now do you remember anything you can tell me about the Vaults?}
 {1202}{}{Is there anything useful you can tell me about the time before the Great Silence?}
@@ -419,7 +419,7 @@ and fifty years.}
 {1704}{}{I've been known to beat some ass with good 'ol fisticuffs. When I was a teen, I tried my hand at Karate for
  awhile, but they kept feeding me all this shit about being more disciplined, so I told 'em to fuck off. Anything else you need to know?}
 {1705}{}{That should cover it. Thanks.}
-{1800}{}{Készenállok.}
+{1800}{}{KÃ©szenÃ¡llok.}
 {1801}{}{I've been better, but I can handle it.}
 {1802}{}{I'm not feeling very good.}
 {1803}{}{I think I hear the King calling. I can see the light...}
@@ -461,7 +461,7 @@ and fifty years.}
 {3014}{}{So then one of my new fans, Alice, helps me escape. The two of us go on a three week cross country murder rampage
  before we finally go down in a shootout. Then, for some reason, The Man decides to stitch me back together and run all
  these tests on me. And that's how I wound up at the EPA where you found me.}
-{3015}{}{Kösz a történetet.}
+{3015}{}{KÃ¶sz a tÃ¶rtÃ©netet.}
 {3020}{}{Let's see.... My Mom was a drug fiend and a whore, and my Dad was an ornery drunken bastard. Fortunately, my
  grandpa was alright for an old guy. Introduced me to The King's music. Unfortunately, he was claimed by the New Plague
  when I was seven. Then when I was ten, I watched from the closet as my Dad beat my Mom to death for forgetting to feed
@@ -505,7 +505,7 @@ and fifty years.}
 {3041}{}{So there I was, certain I was going to die, but then these G-Men stepped in and took me away. They got me back
  to a hundred percent, then started doing these tests on me, trying to figure out what makes me the way I am... Anyway,
  you can figure the rest, and my throats dry from talking. Damn, I was hoping to avoid that.}
-{3042}{}{Kösz a történetet.}
+{3042}{}{KÃ¶sz a tÃ¶rtÃ©netet.}
 {3100}{}{Any tips you might be able to give me?}
 {3101}{}{Tips? What kind of tips?}
 {3102}{}{Well, I'm sure you've got some skill.}
@@ -515,7 +515,7 @@ and fifty years.}
  [He looks you over, then nods.] Alright, what the hell. I'll give you some pointers that'll have the fellas eating out of
  your hands. Now, the first thing you gotta do is...}
 {3105}{}{There you go. Now don't be telling other people these trade secrets.}
-{3106}{}{Köszi.}
+{3106}{}{KÃ¶szi.}
 {4000}{}{Man do I love the post-nuclear future.}
 {4001}{}{Come on. Let's have some violence.}
 {4002}{}{Let's find some more young ladies to, uh, admire.}
@@ -589,5 +589,5 @@ and fifty years.}
 {4260}{}{Why the hell are we even wasting our time here? Seriously?}
 {4270}{}{I don't think I want to willingly spend any more of my time in this facility.}
 {5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
-{5001}{}{[vége]}
-{5002}{}{Az úristenit!}
+{5001}{}{[vÃ©ge]}
+{5002}{}{Az Ãºristenit!}

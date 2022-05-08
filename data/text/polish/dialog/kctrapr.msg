@@ -1,73 +1,73 @@
-{100}{}{Widzisz niechlujnie wygl¹daj¹c¹ osobê.}
+{100}{}{Widzisz niechlujnie wyglÄ…dajÄ…cÄ… osobÄ™.}
 {101}{}{Widzisz obywatela Klamath.}
-{102}{}{Widzisz osiedleñca.}
-{103}{}{Widzisz tropiciela œladów.}
+{102}{}{Widzisz osiedleÅ„ca.}
+{103}{}{Widzisz tropiciela Å›ladÃ³w.}
 {104}{}{Widzisz trapera.}
 {105}{}{Widzisz trapera.}
-{110}{}{He, he - wydaje ci siê, ¿e nale¿ysz ju¿ do nas, co?}
-{111}{}{Nie ma tu ju¿ nic, co mo¿na by ukraœæ.}
-{112}{}{Osiedle Traperów z dnia na dzieñ nawiedzaj¹ wiêksze szczury. Niektóre zaczê³y nawet ³aziæ na dwóch ³apach.}
+{110}{}{He, he - wydaje ci siÄ™, Å¼e naleÅ¼ysz juÅ¼ do nas, co?}
+{111}{}{Nie ma tu juÅ¼ nic, co moÅ¼na by ukraÅ›Ä‡.}
+{112}{}{Osiedle TraperÃ³w z dnia na dzieÅ„ nawiedzajÄ… wiÄ™ksze szczury. NiektÃ³re zaczÄ™Å‚y nawet Å‚aziÄ‡ na dwÃ³ch Å‚apach.}
 {113}{}{Nie ma tu dla ciebie miejsca.}
-{114}{}{Nie zosta³ tu ¿aden bezdomny.}
-{115}{}{Na co siê gapisz?}
-{116}{}{Cholerne dzikusy, zawsze s¹ z nimi k³opoty.}
-{117}{}{IdŸ na po³udnie.}
-{118}{}{Coœ tu œmierdzi gorzej ni¿ ³ajno gekona.}
-{119}{}{Wszêdzie s¹ szczury!}
+{114}{}{Nie zostaÅ‚ tu Å¼aden bezdomny.}
+{115}{}{Na co siÄ™ gapisz?}
+{116}{}{Cholerne dzikusy, zawsze sÄ… z nimi kÅ‚opoty.}
+{117}{}{IdÅº na poÅ‚udnie.}
+{118}{}{CoÅ› tu Å›mierdzi gorzej niÅ¼ Å‚ajno gekona.}
+{119}{}{WszÄ™dzie sÄ… szczury!}
 {120}{}{Na Wielkiego Szczura, co dalej?}
-{121}{}{Zacznê siê modliæ do Wielkiego Szczura jeœli nie jesteœ kompletnym ¿ó³todziobem.}
-{122}{}{Uwa¿aj, albo skoñczysz jak Phil.}
-{123}{}{Jesteœ zupe³nie jak ci przeklêci Duntonowie.}
-{124}{}{Nie chcemy ciê w tej czêœci miasta.}
-{125}{}{Coœ ci siê nie podoba?}
+{121}{}{ZacznÄ™ siÄ™ modliÄ‡ do Wielkiego Szczura jeÅ›li nie jesteÅ› kompletnym Å¼Ã³Å‚todziobem.}
+{122}{}{UwaÅ¼aj, albo skoÅ„czysz jak Phil.}
+{123}{}{JesteÅ› zupeÅ‚nie jak ci przeklÄ™ci Duntonowie.}
+{124}{}{Nie chcemy ciÄ™ w tej czÄ™Å›ci miasta.}
+{125}{}{CoÅ› ci siÄ™ nie podoba?}
 {126}{}{(Mamrocze) ...jest tylko jeden dobry rodzaj dzikusa...(mamrocze)}
-{130}{}{W tej czêœci miasta mog¹ przebywaæ wy³¹cznie profesjonalni myœliwi.}
-{131}{}{Hmm... Wygl¹dasz na kogoœ, kto nie odró¿ni³by pyska gekona od jego ty³ka.}
-{132}{}{Dziwiê siê, ¿e uda³o ci siê zajœæ tak daleko.}
-{133}{}{Uwa¿aj na te cholerne szczury.}
-{134}{}{Z³ociste gekony potrafi¹ dochodziæ do dziesiêciu metrów.}
-{135}{}{Te z³ociste gekony maj¹ szpony ociekaj¹ce trucizn¹.}
-{136}{}{Ktoœ wie gdzie jest Phil? Wygl¹da na to, ¿e szczury po¿ar³y wczoraj w nocy nastêpnego trapera.}
-{137}{}{Wiesz mo¿e gdzie jest Phil?}
-{138}{}{Te szczury robi¹ siê co raz bardziej zuchwa³e.}
-{139}{}{Podobno pod miastem biegn¹ stare tunele górnicze.}
-{140}{}{Szkoda, ¿e nie mo¿na siê jakoœ dobraæ do tej Corvegi.}
-{141}{}{Uwa¿aj na ³owców niewolników. Oni czêsto poluj¹ na samotnych dzikusów.}
-{142}{}{Szkoda, ¿e nie mam doœæ pieniêdzy, ¿eby siê wyk¹paæ.}
-{143}{}{Mam ochotê znowu odwiedziæ moj¹ Jenny.}
-{144}{}{Jeszcze parê skórek i bêdê móg³ sobie pozwoliæ na k¹piel.}
-{145}{}{Mmm, nie ma to jak miêso od Duntonów.}
-{146}{}{Niech siê tylko te robaludy pojawi¹ tutaj - szczury je ze¿r¹ w piêæ minut. He, he.}
-{147}{}{Mówiê wam, pod Klamath ci¹gn¹ siê stare tunele. Dlaczego mi nie wierzycie?}
-{148}{}{Do tych budynków lepiej nie wchodziæ.}
-{150}{}{Wygl¹dasz mi na kogoœ, kto nieŸle radzi sobie w dziczy.}
-{151}{}{Polowanie na gekony jest bardzo niebezpieczne, ale i bardzo op³acalne.}
-{152}{}{Nie cierpiê tych cholernych szczurów. S¹ zbyt sprytne, ¿eby siê daæ z³apaæ w pu³apki!}
-{153}{}{Uwa¿aj na z³ociste gekony. S¹ dwa razy wredniejsze od normalnych.}
-{154}{}{Jesteœ z Arroyo, nie? Poznajê po wygl¹dzie.}
-{155}{}{Czasem widaje mi siê, ¿e w tamtych budynkach krêci siê ogromny, bia³y szczur.}
-{156}{}{Da siê tu ¿yæ, tylko trzeba uwa¿aæ na szczury.}
-{157}{}{(G³oœno prze¿uwa) Szczury wcale nie s¹ takie z³e w smaku. Chcesz gryza?}
-{158}{}{Wiesz co, gekony wcale nie smakuj¹ tak Ÿle, jeœli siê je odpowiednio upichci. Oczywiœcie to nie znaczy, ¿e smakuj¹ jakoœ szczególnie dobrze.}
-{159}{}{Niektóre zwierzaki chêtniej rzuc¹ siê na sztukê miêcha ni¿ na ciebie.}
-{160}{}{Pamiêtaj, jeœli sprzedasz na raz zbyt wiele skórek gekonów, ich cena spadnie.}
-{161}{}{Muszê sobie wreszcie sprawiæ spluwê o wiêkszym zasiêgu.}
-{162}{}{Przysiêgam, widzia³em robaludy obok pastwiska bramin na wschodzie!}
-{170}{}{Cholerne szczury. Dobrze, ¿e wreszcie znik³y.}
-{171}{}{Polowanie na gekony to ciê¿ki kawa³ek chleba, ale mo¿na nieŸle zarobiæ.}
-{172}{}{Uwa¿aj na z³ociste gekony. S¹ dwa razy bardziej wredne od normalnych.}
-{173}{}{Jesteœ z Arroyo, prawda? Poznajê po wygl¹dzie.}
-{174}{}{Kiedyœ mieliœmy tu prawdziw¹ plagê szczurów. Na szczêœcie posz³y w diab³y.}
-{175}{}{Te szczury wiej¹ st¹d jak z ton¹cego okrêtu.}
-{176}{}{(G³oœno prze¿uwa) Szczury wcale nie s¹ takie z³e w smaku. Chcesz gryza?}
-{177}{}{Wiesz co, gekony wcale nie smakuj¹ tak Ÿle, jeœli siê je odpowiednio upichci. Oczywiœcie to nie znaczy, ¿e smakuj¹ jakoœ szczególnie dobrze.}
-{178}{}{Niektóre zwierzaki chêtniej rzuc¹ siê na sztukê miêcha ni¿ na ciebie.}
-{179}{}{Ten dziwny g³os dobiegaj¹cy czasem z tamtych budynków ostatnio jakoœ ucich³. Ciekawe co siê sta³o?}
-{180}{}{Nie œmiej siê, ale wydaje Szczurzy Bóg chyba nie ¿yje.}
-{181}{}{Podobno Szczurzy Bóg nie ¿yje. Nie, ¿ebym wierzy³ w takie brednie.}
-{200}{}{Widzisz nieokrzesanego trapera w skórzanych butach.}
-{201}{}{Widzisz kogoœ spalonego s³oñcem pustyni.}
-{202}{}{Widzisz kogoœ w gêsto ³atanym ubraniu.}
-{203}{}{Widzisz starego trapera w butach ze skóry gekona.}
-{204}{}{Widzisz ludzi spêdzaj¹cych du¿o czasu w dziczy. Ubrani s¹ w koszule ze skóry gekona.}
-{205}{}{Widzisz jednego z mieszkañców Osiedla Traperów.}
+{130}{}{W tej czÄ™Å›ci miasta mogÄ… przebywaÄ‡ wyÅ‚Ä…cznie profesjonalni myÅ›liwi.}
+{131}{}{Hmm... WyglÄ…dasz na kogoÅ›, kto nie odrÃ³Å¼niÅ‚by pyska gekona od jego tyÅ‚ka.}
+{132}{}{DziwiÄ™ siÄ™, Å¼e udaÅ‚o ci siÄ™ zajÅ›Ä‡ tak daleko.}
+{133}{}{UwaÅ¼aj na te cholerne szczury.}
+{134}{}{ZÅ‚ociste gekony potrafiÄ… dochodziÄ‡ do dziesiÄ™ciu metrÃ³w.}
+{135}{}{Te zÅ‚ociste gekony majÄ… szpony ociekajÄ…ce truciznÄ….}
+{136}{}{KtoÅ› wie gdzie jest Phil? WyglÄ…da na to, Å¼e szczury poÅ¼arÅ‚y wczoraj w nocy nastÄ™pnego trapera.}
+{137}{}{Wiesz moÅ¼e gdzie jest Phil?}
+{138}{}{Te szczury robiÄ… siÄ™ co raz bardziej zuchwaÅ‚e.}
+{139}{}{Podobno pod miastem biegnÄ… stare tunele gÃ³rnicze.}
+{140}{}{Szkoda, Å¼e nie moÅ¼na siÄ™ jakoÅ› dobraÄ‡ do tej Corvegi.}
+{141}{}{UwaÅ¼aj na Å‚owcÃ³w niewolnikÃ³w. Oni czÄ™sto polujÄ… na samotnych dzikusÃ³w.}
+{142}{}{Szkoda, Å¼e nie mam doÅ›Ä‡ pieniÄ™dzy, Å¼eby siÄ™ wykÄ…paÄ‡.}
+{143}{}{Mam ochotÄ™ znowu odwiedziÄ‡ mojÄ… Jenny.}
+{144}{}{Jeszcze parÄ™ skÃ³rek i bÄ™dÄ™ mÃ³gÅ‚ sobie pozwoliÄ‡ na kÄ…piel.}
+{145}{}{Mmm, nie ma to jak miÄ™so od DuntonÃ³w.}
+{146}{}{Niech siÄ™ tylko te robaludy pojawiÄ… tutaj - szczury je zeÅ¼rÄ… w piÄ™Ä‡ minut. He, he.}
+{147}{}{MÃ³wiÄ™ wam, pod Klamath ciÄ…gnÄ… siÄ™ stare tunele. Dlaczego mi nie wierzycie?}
+{148}{}{Do tych budynkÃ³w lepiej nie wchodziÄ‡.}
+{150}{}{WyglÄ…dasz mi na kogoÅ›, kto nieÅºle radzi sobie w dziczy.}
+{151}{}{Polowanie na gekony jest bardzo niebezpieczne, ale i bardzo opÅ‚acalne.}
+{152}{}{Nie cierpiÄ™ tych cholernych szczurÃ³w. SÄ… zbyt sprytne, Å¼eby siÄ™ daÄ‡ zÅ‚apaÄ‡ w puÅ‚apki!}
+{153}{}{UwaÅ¼aj na zÅ‚ociste gekony. SÄ… dwa razy wredniejsze od normalnych.}
+{154}{}{JesteÅ› z Arroyo, nie? PoznajÄ™ po wyglÄ…dzie.}
+{155}{}{Czasem widaje mi siÄ™, Å¼e w tamtych budynkach krÄ™ci siÄ™ ogromny, biaÅ‚y szczur.}
+{156}{}{Da siÄ™ tu Å¼yÄ‡, tylko trzeba uwaÅ¼aÄ‡ na szczury.}
+{157}{}{(GÅ‚oÅ›no przeÅ¼uwa) Szczury wcale nie sÄ… takie zÅ‚e w smaku. Chcesz gryza?}
+{158}{}{Wiesz co, gekony wcale nie smakujÄ… tak Åºle, jeÅ›li siÄ™ je odpowiednio upichci. OczywiÅ›cie to nie znaczy, Å¼e smakujÄ… jakoÅ› szczegÃ³lnie dobrze.}
+{159}{}{NiektÃ³re zwierzaki chÄ™tniej rzucÄ… siÄ™ na sztukÄ™ miÄ™cha niÅ¼ na ciebie.}
+{160}{}{PamiÄ™taj, jeÅ›li sprzedasz na raz zbyt wiele skÃ³rek gekonÃ³w, ich cena spadnie.}
+{161}{}{MuszÄ™ sobie wreszcie sprawiÄ‡ spluwÄ™ o wiÄ™kszym zasiÄ™gu.}
+{162}{}{PrzysiÄ™gam, widziaÅ‚em robaludy obok pastwiska bramin na wschodzie!}
+{170}{}{Cholerne szczury. Dobrze, Å¼e wreszcie znikÅ‚y.}
+{171}{}{Polowanie na gekony to ciÄ™Å¼ki kawaÅ‚ek chleba, ale moÅ¼na nieÅºle zarobiÄ‡.}
+{172}{}{UwaÅ¼aj na zÅ‚ociste gekony. SÄ… dwa razy bardziej wredne od normalnych.}
+{173}{}{JesteÅ› z Arroyo, prawda? PoznajÄ™ po wyglÄ…dzie.}
+{174}{}{KiedyÅ› mieliÅ›my tu prawdziwÄ… plagÄ™ szczurÃ³w. Na szczÄ™Å›cie poszÅ‚y w diabÅ‚y.}
+{175}{}{Te szczury wiejÄ… stÄ…d jak z tonÄ…cego okrÄ™tu.}
+{176}{}{(GÅ‚oÅ›no przeÅ¼uwa) Szczury wcale nie sÄ… takie zÅ‚e w smaku. Chcesz gryza?}
+{177}{}{Wiesz co, gekony wcale nie smakujÄ… tak Åºle, jeÅ›li siÄ™ je odpowiednio upichci. OczywiÅ›cie to nie znaczy, Å¼e smakujÄ… jakoÅ› szczegÃ³lnie dobrze.}
+{178}{}{NiektÃ³re zwierzaki chÄ™tniej rzucÄ… siÄ™ na sztukÄ™ miÄ™cha niÅ¼ na ciebie.}
+{179}{}{Ten dziwny gÅ‚os dobiegajÄ…cy czasem z tamtych budynkÃ³w ostatnio jakoÅ› ucichÅ‚. Ciekawe co siÄ™ staÅ‚o?}
+{180}{}{Nie Å›miej siÄ™, ale wydaje Szczurzy BÃ³g chyba nie Å¼yje.}
+{181}{}{Podobno Szczurzy BÃ³g nie Å¼yje. Nie, Å¼ebym wierzyÅ‚ w takie brednie.}
+{200}{}{Widzisz nieokrzesanego trapera w skÃ³rzanych butach.}
+{201}{}{Widzisz kogoÅ› spalonego sÅ‚oÅ„cem pustyni.}
+{202}{}{Widzisz kogoÅ› w gÄ™sto Å‚atanym ubraniu.}
+{203}{}{Widzisz starego trapera w butach ze skÃ³ry gekona.}
+{204}{}{Widzisz ludzi spÄ™dzajÄ…cych duÅ¼o czasu w dziczy. Ubrani sÄ… w koszule ze skÃ³ry gekona.}
+{205}{}{Widzisz jednego z mieszkaÅ„cÃ³w Osiedla TraperÃ³w.}

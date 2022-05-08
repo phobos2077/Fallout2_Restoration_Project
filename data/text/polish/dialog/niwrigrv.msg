@@ -1,6 +1,6 @@
-{100}{}{Na tablicy nagrobnej widzisz: "Tutaj leøy nasz ukochany syn, Richard Wright. Nigdy o tobie nie zapomnimy."}
-{200}{}{Widzisz w trumnie cia≥o nastolatka.}
-{201}{}{Sprawdzasz grÛb Richarda Wrighta. Od cia≥a bije okropny odÛr.}
-{202}{}{Ten odÛr bijπcy od cia≥a to trucizna radskorpiona... ten dzieciak nie umar≥ od przedawkowania Jetu. Zosta≥ otruty.}
-{203}{}{Coú w tym zapachu od cia≥a dzieciaka jest znajomego, ale nie moøesz tego uchwyciÊ...}
-{300}{}{Odkrywasz, øe Richard Wright zosta≥ otruty.}
+{100}{}{Na tablicy nagrobnej widzisz: "Tutaj le≈ºy nasz ukochany syn, Richard Wright. Nigdy o tobie nie zapomnimy."}
+{200}{}{Widzisz w trumnie cia≈Ço nastolatka.}
+{201}{}{Sprawdzasz gr√≥b Richarda Wrighta. Od cia≈Ça bije okropny od√≥r.}
+{202}{}{Ten od√≥r bijƒÖcy od cia≈Ça to trucizna radskorpiona... ten dzieciak nie umar≈Ç od przedawkowania Jetu. Zosta≈Ç otruty.}
+{203}{}{Co≈õ w tym zapachu od cia≈Ça dzieciaka jest znajomego, ale nie mo≈ºesz tego uchwyciƒá...}
+{300}{}{Odkrywasz, ≈ºe Richard Wright zosta≈Ç otruty.}

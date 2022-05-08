@@ -1,9 +1,9 @@
-{100}{}{Este é o nosso território.}
-{101}{}{Você não é procurado aqui.}
-{102}{}{Eu acho que você precisa pagar um pedágio.}
-{103}{}{Nós geralmente não recuperamos a vida.}
-{104}{}{São algumas coisas legais que você tem lá.}
-{105}{}{Você vai pagar por isso.}
-{106}{}{A próxima vez.}
-{107}{}{A corrida é uma cadela!}
-{108}{}{Você consegue manter suas coisas ... desta vez.}
+{100}{}{Este Ã© o nosso territÃ³rio.}
+{101}{}{VocÃª nÃ£o Ã© procurado aqui.}
+{102}{}{Eu acho que vocÃª precisa pagar um pedÃ¡gio.}
+{103}{}{NÃ³s geralmente nÃ£o recuperamos a vida.}
+{104}{}{SÃ£o algumas coisas legais que vocÃª tem lÃ¡.}
+{105}{}{VocÃª vai pagar por isso.}
+{106}{}{A prÃ³xima vez.}
+{107}{}{A corrida Ã© uma cadela!}
+{108}{}{VocÃª consegue manter suas coisas ... desta vez.}

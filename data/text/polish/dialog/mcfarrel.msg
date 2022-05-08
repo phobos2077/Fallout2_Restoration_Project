@@ -1,68 +1,68 @@
-{100}{}{Widzisz starszego mê¿czyznê. Suszona œliwka wygl¹da przy nim œwie¿utko.}
+{100}{}{Widzisz starszego mÄ™Å¼czyznÄ™. Suszona Å›liwka wyglÄ…da przy nim Å›wieÅ¼utko.}
 {101}{}{Widzisz Farrela.}
-{102}{}{Zawsze, gdy Farrel siê porusza, s³ychaæ jak gdyby trzask ³amanych ga³êzi.}
-{150}{}{Hej, odejdŸ stamt¹d!}
-{151}{}{Przestañ!}
-{152}{}{Z³odziej!}
-{153}{}{Nie ukrad³em tego zegarka, wiêc do jasnej cholery przestañ tu przychodziæ i mêczyæ biednego, starego Farrela!}
-{154}{}{Cornelius mówi, ¿e ukrad³eœ jego z³oty zegarek.}
-{155}{}{Sk¹d wzi¹³eœ forsê na nowe narzêdzia?}
-{156}{}{Co mo¿esz mi powiedzieæ o Modoc?}
-{157}{}{Czym siê zajmujesz?}
-{158}{}{Zegarek? O czym ty mówisz?}
+{102}{}{Zawsze, gdy Farrel siÄ™ porusza, sÅ‚ychaÄ‡ jak gdyby trzask Å‚amanych gaÅ‚Ä™zi.}
+{150}{}{Hej, odejdÅº stamtÄ…d!}
+{151}{}{PrzestaÅ„!}
+{152}{}{ZÅ‚odziej!}
+{153}{}{Nie ukradÅ‚em tego zegarka, wiÄ™c do jasnej cholery przestaÅ„ tu przychodziÄ‡ i mÄ™czyÄ‡ biednego, starego Farrela!}
+{154}{}{Cornelius mÃ³wi, Å¼e ukradÅ‚eÅ› jego zÅ‚oty zegarek.}
+{155}{}{SkÄ…d wziÄ…Å‚eÅ› forsÄ™ na nowe narzÄ™dzia?}
+{156}{}{Co moÅ¼esz mi powiedzieÄ‡ o Modoc?}
+{157}{}{Czym siÄ™ zajmujesz?}
+{158}{}{Zegarek? O czym ty mÃ³wisz?}
 {159}{}{Co znowu!?}
 {162}{}{Co takiego chowasz w sejfie?}
-{165}{}{Czy mo¿esz mnie zaprowadziæ do twojego ogrodu?}
-{166}{}{Ca³e robactwo z twojego ogrodu zosta³o wytêpione.}
-{167}{}{Wspomnia³eœ wczeœniej o jakimœ zegarku...}
-{168}{}{Czy to jest ten zegarek, którego szuka³eœ?}
+{165}{}{Czy moÅ¼esz mnie zaprowadziÄ‡ do twojego ogrodu?}
+{166}{}{CaÅ‚e robactwo z twojego ogrodu zostaÅ‚o wytÄ™pione.}
+{167}{}{WspomniaÅ‚eÅ› wczeÅ›niej o jakimÅ› zegarku...}
+{168}{}{Czy to jest ten zegarek, ktÃ³rego szukaÅ‚eÅ›?}
 {169}{}{Pluszaki martwa!}
-{170}{}{Og - ród?}
-{171}{}{Znowu! Jak wielu ludzi Cornelius mo¿e jeszcze na mnie nas³aæ? Wszystko przez ten zegarek... Nie zrobi³em tego! Zreszt¹ podejrzewam nawet, ¿e zosta³em ofiar¹ tego samego z³odzieja. Mianowicie mniej wiêcej w tym samym czasie zniknê³y tak¿e moje narzêdzia. Jestem pewien, ¿e mi nie wierzysz. Mo¿esz wiêc rozejrzeæ siê trochê, bo inaczej chyba nigdy nie odejdziesz. Proszê!}
-{172}{}{Dobrze, pomyszkujê tu trochê.}
-{173}{}{Miria ci to powiedzia³a? Bêdê musia³ daæ jej kilka klapsów za ci¹g³e rozpowiadanie tych bredni! Spójrz, mo¿e jestem biedny, ale mam swoj¹ dumê. Pomog³em niedawno jednemu z handlarzy naprawiæ wóz. W zamian da³ mi nowe narzêdzia... to wszystko!}
-{174}{}{Przyznaj siê - jesteœ winny!}
-{175}{}{Jaki masz dowód na to, ¿e to co powiedzia³eœ, jest prawd¹?}
-{176}{}{Czy myœlisz, ¿e w to uwierzê?}
-{177}{}{Sam mój honor jest wystarczaj¹cym dowodem na to, ¿e moje s³owa s¹ prawdziwe. Nie mogê zaproponowaæ ci nic innego.}
-{178}{}{Je¿eli ty tego zegarka nie zabra³eœ, to kto móg³ to zrobiæ?}
-{179}{}{Podejrzewam, ¿e zrobi³ to zwyk³y z³odziej. Przebywaj¹c w mieœcie ukrad³ zegarek i powêdrowa³ dalej. Chocia¿ naprawdê nie wiem, dlaczego chcia³by moje stare narzêdzia...}
-{180}{}{Czy myœlisz, ¿e w to uwierzê?}
-{181}{}{Nie, ale skoro wiem, ¿e ja tego nie zrobi³em, to jedyne wyjaœnienie, jakie przychodzi mi do g³owy.}
-{182}{}{Mogê zadaæ jeszcze kilka pytañ?}
-{183}{}{HA! Jeœli myœlisz, ¿e jestem taki winny, czemu mnie po prostu nie zastrzelisz? Ty ma³y œmieciu, podejdŸ i spróbuj mnie dostaæ!}
-{184}{}{Jak to mo¿liwe? Ukry³em go na tyle dobrze, ¿eby nikt nie móg³ go znaleŸæ! Musisz byæ profesjonalnym z³odziejem. Hmm... pewnie nie masz alibi na czas znikniêcia zegarka? Myœlê, ¿e ju¿ czas na ciebie. Dla twojego dobra - lepiej, ¿eby z sejfu nic nie zniknê³o, bo inaczej zawo³am szeryfa Jo. A teraz zmiataj st¹d!}
-{185}{}{Modoc jest ma³¹ wspólnot¹ farmerów i ranczerów. Zaopatrujemy w ¿ywnoœæ otaczaj¹ce nas miasta i miasteczka - za nasze ziarno dostajemy ró¿ne inne rzeczy. Jest to ca³kiem solidny uk³ad. Jednak to wszystko mo¿e siê zmieniæ przez tê suszê. Ledwie potrafimy wy¿ywiæ nasze rodziny, a co dopiero mówiæ o handlu.}
-{187}{}{Có¿, przede wszystkim pracujê w ogrodzie, staraj¹c siê zmusiæ te cholerne roœliny do roœniêcia bez wody. Niestety nie mogê tego teraz robiæ, bo mój ogródek zajê³y jakieœ du¿e stworzenia. A na dok³adkê nikt nie chce mi pomóc, bo wszyscy myœl¹, ¿e ukrad³em ten zegarek Corneliusa.}
-{188}{}{Có¿, przede wszystkim pracujê w ogrodzie, staraj¹c siê zmusiæ te cholerne roœliny do roœniêcia bez wody. Niestety nie mogê tego teraz robiæ, bo mój ogródek zajê³y jakieœ du¿e stworzenia. Sam nie mogê ich stamt¹d przegoniæ, a bez po¿ywienia z uprawy nied³ugo umrê z g³odu.}
-{189}{}{Mogê pomóc, ale... potrzebna bêdzie zap³ata.}
-{190}{}{Z przyjemnoœci¹ ci pomogê.}
-{191}{}{Pomogê ci, je¿eli przyznasz siê, ¿e to ty zwin¹³eœ ten zegarek.}
-{193}{}{Rozejrzyj siê! Jestem przecie¿ starym, a do tego biednym cz³owiekiem. Ledwo co starcza dla mnie jedzenia, a ty jeszcze ¿¹dasz nagrody.}
-{194}{}{Niech ci bêdzie. Pomogê ci.}
-{195}{}{Przykro mi, ale w takim wypadku nic nie mogê zrobiæ.}
-{196}{}{To cudownie. Nie wiem, jak ci dziêkowaæ. Mój ogród le¿y kawa³ek na wschód. ChodŸ ze mn¹, zaprowadzê ciê tam.}
-{197}{}{Dziêkujê ci! Jesteœ najodwa¿niejszym cz³owiekiem na Ziemi. Niewielu ludzi zaryzykowa³oby swoje ¿ycie dla nieznajomego. Dziêkujê! Dziêkujê! Dziêkujê... [Doznajesz tego mi³ego, ciep³ego uczucia, które przenika ciê do samych czubków palców]}
-{198}{}{Czy mogê ci zadaæ kilka pytañ?}
-{199}{}{Wolê ju¿ zdechn¹æ z g³odu, ni¿ szargaæ moje dobre imiê! IdŸ do diab³a!}
-{200}{}{Wszyscy oskar¿aj¹ mnie o to, ¿e ukrad³em kieszonkowy z³oty zegarek mojego najlepszego przyjaciela - Corneliusa. PrzyjaŸnimy siê ze sob¹, od kiedy tylko pamiêtam. Przecie¿ nigdy nie wzi¹³bym jego zegarka. Szuka³em ju¿ wszêdzie, z nadziej¹, ¿e odnajdê zegarek i znowu bêdziemy mogli byæ przyjació³mi. Ale szczêœcie jak na razie mi nie dopisa³o.}
-{201}{}{Przez pewien czas bêdê w okolicy. Je¿eli natknê siê na ten zegarek, powiadomiê ciê o tym.}
-{202}{}{Uuu, a to szkoda. Mogê ci zadaæ kilka pytañ?}
-{203}{}{Mówisz serio? Nikt nie chce mi pomóc, bo wszyscy myœl¹, ¿e ukrad³em ten zegarek. To by³oby mi³e, gdyby tak dla odmiany ktoœ by³ po mojej stronie. Wszystkich ju¿ o to pyta³em, ale nie zaszkodzi ich przepytaæ jeszcze raz. Mo¿e przeka¿¹ oni tobie coœ, czego mi nie chcieli zdradziæ! Chyba nie zaszkodzi te¿, je¿eli pokrêcisz siê w okolicach Pensjonatu Rose. Cornelius zostawia tam wiele rzeczy i notorycznie zapomina gdzie je wczeœniej po³o¿y³.}
-{205}{}{Poka¿ mi go! Tak, to ten! Mówisz, ¿e szczur ¿yj¹cy w kanale œciekowym ukrad³ ten zegarek, a twój bohaterski czyn przyczyni³ siê do jego znalezienia? Eech, niech ciê uœciskam! Idê teraz oddaæ zegarek Corneliusowi! I znowu mo¿emy byæ dobrymi przyjació³mi. Dziêkujê.}
-{206}{}{Co powiesz, mój mi³y neandertalski przyjacielu, na oddanie staremu Farrelowi drobnej przys³ugi? Mam ma³y "zwierzêcy problem" w moim ogrodzie. Spraw, aby te szkodniki posz³y w cholerê, a otrzymasz nagrodê.}
+{170}{}{Og - rÃ³d?}
+{171}{}{Znowu! Jak wielu ludzi Cornelius moÅ¼e jeszcze na mnie nasÅ‚aÄ‡? Wszystko przez ten zegarek... Nie zrobiÅ‚em tego! ZresztÄ… podejrzewam nawet, Å¼e zostaÅ‚em ofiarÄ… tego samego zÅ‚odzieja. Mianowicie mniej wiÄ™cej w tym samym czasie zniknÄ™Å‚y takÅ¼e moje narzÄ™dzia. Jestem pewien, Å¼e mi nie wierzysz. MoÅ¼esz wiÄ™c rozejrzeÄ‡ siÄ™ trochÄ™, bo inaczej chyba nigdy nie odejdziesz. ProszÄ™!}
+{172}{}{Dobrze, pomyszkujÄ™ tu trochÄ™.}
+{173}{}{Miria ci to powiedziaÅ‚a? BÄ™dÄ™ musiaÅ‚ daÄ‡ jej kilka klapsÃ³w za ciÄ…gÅ‚e rozpowiadanie tych bredni! SpÃ³jrz, moÅ¼e jestem biedny, ale mam swojÄ… dumÄ™. PomogÅ‚em niedawno jednemu z handlarzy naprawiÄ‡ wÃ³z. W zamian daÅ‚ mi nowe narzÄ™dzia... to wszystko!}
+{174}{}{Przyznaj siÄ™ - jesteÅ› winny!}
+{175}{}{Jaki masz dowÃ³d na to, Å¼e to co powiedziaÅ‚eÅ›, jest prawdÄ…?}
+{176}{}{Czy myÅ›lisz, Å¼e w to uwierzÄ™?}
+{177}{}{Sam mÃ³j honor jest wystarczajÄ…cym dowodem na to, Å¼e moje sÅ‚owa sÄ… prawdziwe. Nie mogÄ™ zaproponowaÄ‡ ci nic innego.}
+{178}{}{JeÅ¼eli ty tego zegarka nie zabraÅ‚eÅ›, to kto mÃ³gÅ‚ to zrobiÄ‡?}
+{179}{}{Podejrzewam, Å¼e zrobiÅ‚ to zwykÅ‚y zÅ‚odziej. PrzebywajÄ…c w mieÅ›cie ukradÅ‚ zegarek i powÄ™drowaÅ‚ dalej. ChociaÅ¼ naprawdÄ™ nie wiem, dlaczego chciaÅ‚by moje stare narzÄ™dzia...}
+{180}{}{Czy myÅ›lisz, Å¼e w to uwierzÄ™?}
+{181}{}{Nie, ale skoro wiem, Å¼e ja tego nie zrobiÅ‚em, to jedyne wyjaÅ›nienie, jakie przychodzi mi do gÅ‚owy.}
+{182}{}{MogÄ™ zadaÄ‡ jeszcze kilka pytaÅ„?}
+{183}{}{HA! JeÅ›li myÅ›lisz, Å¼e jestem taki winny, czemu mnie po prostu nie zastrzelisz? Ty maÅ‚y Å›mieciu, podejdÅº i sprÃ³buj mnie dostaÄ‡!}
+{184}{}{Jak to moÅ¼liwe? UkryÅ‚em go na tyle dobrze, Å¼eby nikt nie mÃ³gÅ‚ go znaleÅºÄ‡! Musisz byÄ‡ profesjonalnym zÅ‚odziejem. Hmm... pewnie nie masz alibi na czas znikniÄ™cia zegarka? MyÅ›lÄ™, Å¼e juÅ¼ czas na ciebie. Dla twojego dobra - lepiej, Å¼eby z sejfu nic nie zniknÄ™Å‚o, bo inaczej zawoÅ‚am szeryfa Jo. A teraz zmiataj stÄ…d!}
+{185}{}{Modoc jest maÅ‚Ä… wspÃ³lnotÄ… farmerÃ³w i ranczerÃ³w. Zaopatrujemy w Å¼ywnoÅ›Ä‡ otaczajÄ…ce nas miasta i miasteczka - za nasze ziarno dostajemy rÃ³Å¼ne inne rzeczy. Jest to caÅ‚kiem solidny ukÅ‚ad. Jednak to wszystko moÅ¼e siÄ™ zmieniÄ‡ przez tÄ™ suszÄ™. Ledwie potrafimy wyÅ¼ywiÄ‡ nasze rodziny, a co dopiero mÃ³wiÄ‡ o handlu.}
+{187}{}{CÃ³Å¼, przede wszystkim pracujÄ™ w ogrodzie, starajÄ…c siÄ™ zmusiÄ‡ te cholerne roÅ›liny do roÅ›niÄ™cia bez wody. Niestety nie mogÄ™ tego teraz robiÄ‡, bo mÃ³j ogrÃ³dek zajÄ™Å‚y jakieÅ› duÅ¼e stworzenia. A na dokÅ‚adkÄ™ nikt nie chce mi pomÃ³c, bo wszyscy myÅ›lÄ…, Å¼e ukradÅ‚em ten zegarek Corneliusa.}
+{188}{}{CÃ³Å¼, przede wszystkim pracujÄ™ w ogrodzie, starajÄ…c siÄ™ zmusiÄ‡ te cholerne roÅ›liny do roÅ›niÄ™cia bez wody. Niestety nie mogÄ™ tego teraz robiÄ‡, bo mÃ³j ogrÃ³dek zajÄ™Å‚y jakieÅ› duÅ¼e stworzenia. Sam nie mogÄ™ ich stamtÄ…d przegoniÄ‡, a bez poÅ¼ywienia z uprawy niedÅ‚ugo umrÄ™ z gÅ‚odu.}
+{189}{}{MogÄ™ pomÃ³c, ale... potrzebna bÄ™dzie zapÅ‚ata.}
+{190}{}{Z przyjemnoÅ›ciÄ… ci pomogÄ™.}
+{191}{}{PomogÄ™ ci, jeÅ¼eli przyznasz siÄ™, Å¼e to ty zwinÄ…Å‚eÅ› ten zegarek.}
+{193}{}{Rozejrzyj siÄ™! Jestem przecieÅ¼ starym, a do tego biednym czÅ‚owiekiem. Ledwo co starcza dla mnie jedzenia, a ty jeszcze Å¼Ä…dasz nagrody.}
+{194}{}{Niech ci bÄ™dzie. PomogÄ™ ci.}
+{195}{}{Przykro mi, ale w takim wypadku nic nie mogÄ™ zrobiÄ‡.}
+{196}{}{To cudownie. Nie wiem, jak ci dziÄ™kowaÄ‡. MÃ³j ogrÃ³d leÅ¼y kawaÅ‚ek na wschÃ³d. ChodÅº ze mnÄ…, zaprowadzÄ™ ciÄ™ tam.}
+{197}{}{DziÄ™kujÄ™ ci! JesteÅ› najodwaÅ¼niejszym czÅ‚owiekiem na Ziemi. Niewielu ludzi zaryzykowaÅ‚oby swoje Å¼ycie dla nieznajomego. DziÄ™kujÄ™! DziÄ™kujÄ™! DziÄ™kujÄ™... [Doznajesz tego miÅ‚ego, ciepÅ‚ego uczucia, ktÃ³re przenika ciÄ™ do samych czubkÃ³w palcÃ³w]}
+{198}{}{Czy mogÄ™ ci zadaÄ‡ kilka pytaÅ„?}
+{199}{}{WolÄ™ juÅ¼ zdechnÄ…Ä‡ z gÅ‚odu, niÅ¼ szargaÄ‡ moje dobre imiÄ™! IdÅº do diabÅ‚a!}
+{200}{}{Wszyscy oskarÅ¼ajÄ… mnie o to, Å¼e ukradÅ‚em kieszonkowy zÅ‚oty zegarek mojego najlepszego przyjaciela - Corneliusa. PrzyjaÅºnimy siÄ™ ze sobÄ…, od kiedy tylko pamiÄ™tam. PrzecieÅ¼ nigdy nie wziÄ…Å‚bym jego zegarka. SzukaÅ‚em juÅ¼ wszÄ™dzie, z nadziejÄ…, Å¼e odnajdÄ™ zegarek i znowu bÄ™dziemy mogli byÄ‡ przyjaciÃ³Å‚mi. Ale szczÄ™Å›cie jak na razie mi nie dopisaÅ‚o.}
+{201}{}{Przez pewien czas bÄ™dÄ™ w okolicy. JeÅ¼eli natknÄ™ siÄ™ na ten zegarek, powiadomiÄ™ ciÄ™ o tym.}
+{202}{}{Uuu, a to szkoda. MogÄ™ ci zadaÄ‡ kilka pytaÅ„?}
+{203}{}{MÃ³wisz serio? Nikt nie chce mi pomÃ³c, bo wszyscy myÅ›lÄ…, Å¼e ukradÅ‚em ten zegarek. To byÅ‚oby miÅ‚e, gdyby tak dla odmiany ktoÅ› byÅ‚ po mojej stronie. Wszystkich juÅ¼ o to pytaÅ‚em, ale nie zaszkodzi ich przepytaÄ‡ jeszcze raz. MoÅ¼e przekaÅ¼Ä… oni tobie coÅ›, czego mi nie chcieli zdradziÄ‡! Chyba nie zaszkodzi teÅ¼, jeÅ¼eli pokrÄ™cisz siÄ™ w okolicach Pensjonatu Rose. Cornelius zostawia tam wiele rzeczy i notorycznie zapomina gdzie je wczeÅ›niej poÅ‚oÅ¼yÅ‚.}
+{205}{}{PokaÅ¼ mi go! Tak, to ten! MÃ³wisz, Å¼e szczur Å¼yjÄ…cy w kanale Å›ciekowym ukradÅ‚ ten zegarek, a twÃ³j bohaterski czyn przyczyniÅ‚ siÄ™ do jego znalezienia? Eech, niech ciÄ™ uÅ›ciskam! IdÄ™ teraz oddaÄ‡ zegarek Corneliusowi! I znowu moÅ¼emy byÄ‡ dobrymi przyjaciÃ³Å‚mi. DziÄ™kujÄ™.}
+{206}{}{Co powiesz, mÃ³j miÅ‚y neandertalski przyjacielu, na oddanie staremu Farrelowi drobnej przysÅ‚ugi? Mam maÅ‚y "zwierzÄ™cy problem" w moim ogrodzie. Spraw, aby te szkodniki poszÅ‚y w cholerÄ™, a otrzymasz nagrodÄ™.}
 {207}{}{Ni, ni, ni...}
-{208}{}{Okiej. Zrobiæ.}
+{208}{}{Okiej. ZrobiÄ‡.}
 {209}{}{Pa pa!}
-{210}{}{Wiêc spadaj st¹d, ty g³upi jaskiniowcu!}
-{211}{}{Mój kochany przyjacielu [Chwyta ciê za rêkê i prowadzi do swojego ogrodu] Nie chcia³bym, ¿ebyœ mi siê gdzieœ tutaj zgubi³... PrzyjdŸ do mnie, kiedy tylko usuniesz wszystkie szkodniki.}
-{212}{}{Moja droga, kochana damulko. Jesteœ taka dobra dla starego cz³owieka. [Chwyta ciê za rêkê i prowadzi do swojego ogrodu] Nie chcia³bym, ¿ebyœ mi siê gdzieœ tutaj zgubi³a... PrzyjdŸ do mnie, kiedy tylko usuniesz wszystkie szkodniki.}
-{213}{}{Fantastycznie! Tu jest twoja nagroda. [Szuka czegoœ w swoich kalesonach i wyjmuje... nadgryzione ciasteczko] Teraz b¹dŸ dobrym jaskiniowcem, weŸ swoje ciasteczko i idŸ siê pobawiæ.}
-{300}{}{Zabijê tego szmaciarza.}
-{301}{}{Nienawidzê go...}
+{210}{}{WiÄ™c spadaj stÄ…d, ty gÅ‚upi jaskiniowcu!}
+{211}{}{MÃ³j kochany przyjacielu [Chwyta ciÄ™ za rÄ™kÄ™ i prowadzi do swojego ogrodu] Nie chciaÅ‚bym, Å¼ebyÅ› mi siÄ™ gdzieÅ› tutaj zgubiÅ‚... PrzyjdÅº do mnie, kiedy tylko usuniesz wszystkie szkodniki.}
+{212}{}{Moja droga, kochana damulko. JesteÅ› taka dobra dla starego czÅ‚owieka. [Chwyta ciÄ™ za rÄ™kÄ™ i prowadzi do swojego ogrodu] Nie chciaÅ‚bym, Å¼ebyÅ› mi siÄ™ gdzieÅ› tutaj zgubiÅ‚a... PrzyjdÅº do mnie, kiedy tylko usuniesz wszystkie szkodniki.}
+{213}{}{Fantastycznie! Tu jest twoja nagroda. [Szuka czegoÅ› w swoich kalesonach i wyjmuje... nadgryzione ciasteczko] Teraz bÄ…dÅº dobrym jaskiniowcem, weÅº swoje ciasteczko i idÅº siÄ™ pobawiÄ‡.}
+{300}{}{ZabijÄ™ tego szmaciarza.}
+{301}{}{NienawidzÄ™ go...}
 {302}{}{Grrr...}
 {501}{}{Ten zegarek to nie moja sprawka!}
-{502}{}{Jestem niewinny, mówi³em ci!}
-{503}{}{Przecie¿ ty nie trafi³byœ nawet w dupê s³onia!}
-{550}{}{Nie zwraca uwagi na to, co mówisz.}
-{600}{}{Spór pomiêdzy Farrelem, a Corneliusem zosta³ pokojowo za¿egnany.}
+{502}{}{Jestem niewinny, mÃ³wiÅ‚em ci!}
+{503}{}{PrzecieÅ¼ ty nie trafiÅ‚byÅ› nawet w dupÄ™ sÅ‚onia!}
+{550}{}{Nie zwraca uwagi na to, co mÃ³wisz.}
+{600}{}{SpÃ³r pomiÄ™dzy Farrelem, a Corneliusem zostaÅ‚ pokojowo zaÅ¼egnany.}

@@ -1,1 +1,1 @@
-{100}{}{Wygl¹da na to, ¿e wejœcie do tej jaskini niedawno siê zawali³o. Byæ mo¿e dobrze pod³o¿ony ³adunek wybuchowy usun¹³by gruzy.}
+{100}{}{WyglÄ…da na to, Å¼e wejÅ›cie do tej jaskini niedawno siÄ™ zawaliÅ‚o. ByÄ‡ moÅ¼e dobrze podÅ‚oÅ¼ony Å‚adunek wybuchowy usunÄ…Å‚by gruzy.}

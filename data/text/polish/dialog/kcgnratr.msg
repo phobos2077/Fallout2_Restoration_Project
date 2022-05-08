@@ -1,8 +1,8 @@
-{100}{}{To wygl¹da jak generator.}
-{101}{}{Ten generator zapewne zasila windê.}
-{200}{}{Ten generator trzeba najpierw naprawiæ.}
-{201}{}{Ten generator ju¿ dzia³a.}
-{202}{}{Wy³¹czasz generator.}
-{300}{}{Ta umiejêtnoœæ nie przyda siê przy generatorze.}
+{100}{}{To wyglÄ…da jak generator.}
+{101}{}{Ten generator zapewne zasila windÄ™.}
+{200}{}{Ten generator trzeba najpierw naprawiÄ‡.}
+{201}{}{Ten generator juÅ¼ dziaÅ‚a.}
+{202}{}{WyÅ‚Ä…czasz generator.}
+{300}{}{Ta umiejÄ™tnoÅ›Ä‡ nie przyda siÄ™ przy generatorze.}
 {400}{}{Naprawiasz generator i uruchamiasz go.}
-{401}{}{Nie udaje ci siê naprawiæ generatora.}
+{401}{}{Nie udaje ci siÄ™ naprawiÄ‡ generatora.}

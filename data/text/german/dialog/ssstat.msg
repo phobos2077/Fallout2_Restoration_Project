@@ -1,3 +1,3 @@
-{100}{}{Es gibt eine Tafel in der Basis. Darauf steht "Für den Fremden und Vault 13: Was nicht existiert, muss man sich
- manchmal erträumen, um sich durch seine Träume zu größeren Höhen inspirieren zu lassen. So geschah es mit dem Fremden und
- seinem Glauben an die Legende über die Vault 13".}
+{100}{}{Es gibt eine Tafel in der Basis. Darauf steht "FÃ¼r den Fremden und Vault 13: Was nicht existiert, muss man sich
+ manchmal ertrÃ¤umen, um sich durch seine TrÃ¤ume zu grÃ¶ÃŸeren HÃ¶hen inspirieren zu lassen. So geschah es mit dem Fremden und
+ seinem Glauben an die Legende Ã¼ber die Vault 13".}

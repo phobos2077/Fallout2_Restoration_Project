@@ -1,34 +1,34 @@
 {100}{}{Lucas.}
-{101}{}{Lucas a harcosok vezet?je a törzsben.}
+{101}{}{Lucas a harcosok vezet?je a tÃ¶rzsben.}
 {102}{}{So there you are, Chosen One. Hmmmph! How goes your quest?}
-{103}{}{Nagyon jól.}
-{104}{}{Nem túl jól.}
+{103}{}{Nagyon jÃ³l.}
+{104}{}{Nem tÃºl jÃ³l.}
 {105}{}{Mi?!}
 {106}{}{Folytatnom kell.}
-{107}{}{Talán segíthetnék neked.}
-{108}{}{Igen? Mégis hogyan?}
-{109}{}{Nem. Nincs szükségem a segítségedre.}
-{110}{}{Jó válasz, néma ember. Most maradj csendben, amíg gyakorlok!}
-{111}{}{Oké.}
-{112}{}{Jó harcos vagyok. Néhány dologra megtaníthatnálak.}
-{113}{}{Mire tudsz megtanítani?}
-{114}{}{Nem muszáj így sietned, Kiválasztott.}
-{115}{}{Viszlát!}
-{116}{}{Hmmm -- tölts velem egy napot, és megtanítom neked, hogyan verekedhetsz keményebben.}
+{107}{}{TalÃ¡n segÃ­thetnÃ©k neked.}
+{108}{}{Igen? MÃ©gis hogyan?}
+{109}{}{Nem. Nincs szÃ¼ksÃ©gem a segÃ­tsÃ©gedre.}
+{110}{}{JÃ³ vÃ¡lasz, nÃ©ma ember. Most maradj csendben, amÃ­g gyakorlok!}
+{111}{}{OkÃ©.}
+{112}{}{JÃ³ harcos vagyok. NÃ©hÃ¡ny dologra megtanÃ­thatnÃ¡lak.}
+{113}{}{Mire tudsz megtanÃ­tani?}
+{114}{}{Nem muszÃ¡j Ã­gy sietned, KivÃ¡lasztott.}
+{115}{}{ViszlÃ¡t!}
+{116}{}{Hmmm -- tÃ¶lts velem egy napot, Ã©s megtanÃ­tom neked, hogyan verekedhetsz kemÃ©nyebben.}
 {117}{}{Rendben. Benne vagyok.}
 {118}{}{Sajnos most nincs id?m erre.}
-{119}{}{Már mindent tudsz, amire meg tudnálak tanítani, Kiválasztott. Sok szerencsét a küldetéshez.}
+{119}{}{MÃ¡r mindent tudsz, amire meg tudnÃ¡lak tanÃ­tani, KivÃ¡lasztott. Sok szerencsÃ©t a kÃ¼ldetÃ©shez.}
 {120}{}{Rendben.}
-{121}{}{Ha! Kiválasztott, nem vagy elég méltóságteljes ahhoz, hogy megtanítsalak bármire.}
+{121}{}{Ha! KivÃ¡lasztott, nem vagy elÃ©g mÃ©ltÃ³sÃ¡gteljes ahhoz, hogy megtanÃ­tsalak bÃ¡rmire.}
 {122}{}{Rendben.}
-{123}{}{Nem vagy elég gyors a harcban, így nem tudod megtanulni ezeket a módszereket, Kiválasztott.}
+{123}{}{Nem vagy elÃ©g gyors a harcban, Ã­gy nem tudod megtanulni ezeket a mÃ³dszereket, KivÃ¡lasztott.}
 {124}{}{Rendben.}
-{125}{}{Miel?tt bármire is megtudnálak tanítani, többet kell tudnod, öcsi.}
+{125}{}{Miel?tt bÃ¡rmire is megtudnÃ¡lak tanÃ­tani, tÃ¶bbet kell tudnod, Ã¶csi.}
 {126}{}{Rendben.}
-{127}{}{Meg tudlak tanítani egy sokkal er?sebb rúgásra. Mindössze egy napig tart.}
-{128}{}{Oké.}
-{129}{}{Arra, hogyan verekedj jobban. Mindössze egy napig tart.}
-{130}{}{Oké.}
-{131}{}{Jól tanultál, Kiválasztott. Viszlát!}
-{132}{}{Kösz a segítséget.}
-{133}{}{Mindent megtanítottam, amit tudtam, Kiválasztott. Sok szerencsét!}
+{127}{}{Meg tudlak tanÃ­tani egy sokkal er?sebb rÃºgÃ¡sra. MindÃ¶ssze egy napig tart.}
+{128}{}{OkÃ©.}
+{129}{}{Arra, hogyan verekedj jobban. MindÃ¶ssze egy napig tart.}
+{130}{}{OkÃ©.}
+{131}{}{JÃ³l tanultÃ¡l, KivÃ¡lasztott. ViszlÃ¡t!}
+{132}{}{KÃ¶sz a segÃ­tsÃ©get.}
+{133}{}{Mindent megtanÃ­tottam, amit tudtam, KivÃ¡lasztott. Sok szerencsÃ©t!}

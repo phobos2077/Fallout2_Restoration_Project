@@ -1,118 +1,118 @@
-{100}{}{Ves a un arrogante gángster Shi.}
+{100}{}{Ves a un arrogante gÃ¡ngster Shi.}
 {101}{}{Ves a Lo Pan, un hombre dominante y cruel.}
-{102}{}{Ves a un gángster Shi, vestido con un traje de seda. Sus manos están encallecidas y endurecidas. Parece peligroso y ponzoñoso.}
-{103}{}{¿Qué quieres?}
-{104}{}{¡Daggle aggle aggle!}
-{105}{}{¿Quién tú?}
-{106}{}{¿Con quién estabas luchando?}
-{107}{}{¿Quién eres?}
-{108}{}{Quiero aprender a luchar como tú. Enséñame.}
+{102}{}{Ves a un gÃ¡ngster Shi, vestido con un traje de seda. Sus manos estÃ¡n encallecidas y endurecidas. Parece peligroso y ponzoÃ±oso.}
+{103}{}{Â¿QuÃ© quieres?}
+{104}{}{Â¡Daggle aggle aggle!}
+{105}{}{Â¿QuiÃ©n tÃº?}
+{106}{}{Â¿Con quiÃ©n estabas luchando?}
+{107}{}{Â¿QuiÃ©n eres?}
+{108}{}{Quiero aprender a luchar como tÃº. EnsÃ©Ã±ame.}
 {109}{}{Quiero desafiarte.}
-{110}{}{Olvídalo.}
-{111}{}{Lárgate de aquí, idiota. No tengo nada que decirte.}
-{112}{}{¡GRR!}
-{113}{}{Soy Lo Pan. Soy el mejor luchador de la ciudad, sin contar el Dragón. Y algún día, él será hombre muerto. Cuando eso ocurra, enseñaré a otros mi estilo.}
-{114}{}{¡Enséñame!}
+{110}{}{OlvÃ­dalo.}
+{111}{}{LÃ¡rgate de aquÃ­, idiota. No tengo nada que decirte.}
+{112}{}{Â¡GRR!}
+{113}{}{Soy Lo Pan. Soy el mejor luchador de la ciudad, sin contar el DragÃ³n. Y algÃºn dÃ­a, Ã©l serÃ¡ hombre muerto. Cuando eso ocurra, enseÃ±arÃ© a otros mi estilo.}
+{114}{}{Â¡EnsÃ©Ã±ame!}
 {115}{}{G-gracias.}
-{116}{}{¿Quieres aprender? ¿Tienes lo que hay que tener? Veamos.}
+{116}{}{Â¿Quieres aprender? Â¿Tienes lo que hay que tener? Veamos.}
 {117}{}{[HECHO]}
-{118}{}{¿Enseñarte? No lo creo. Pareces demasiado mojigata. Lárgate de aquí.}
-{119}{}{¿Pero qu... ?}
+{118}{}{Â¿EnseÃ±arte? No lo creo. Pareces demasiado mojigata. LÃ¡rgate de aquÃ­.}
+{119}{}{Â¿Pero qu... ?}
 {120}{}{Oh, mira, la idiota. No quiero hablar contigo. Vete.}
 {121}{}{Duhhh...}
-{122}{}{¿Él? El Dragón. Es un hombre débil que fomenta la debilidad.}
-{123}{}{Las personas son ovejas. Deberías servirte a ti mismo.}
-{124}{}{¿Qué, eres malvado?}
-{125}{}{Ya veo. Tengo más preguntas.}
-{126}{}{¿Malvado? No lo creo. Sólo inteligente. Quizá si estás tan preocupada por hacer lo correcto para la gente, deberías ver al Dragón. Le gustan los simplones débiles como tú.}
+{122}{}{Â¿Ã‰l? El DragÃ³n. Es un hombre dÃ©bil que fomenta la debilidad.}
+{123}{}{Las personas son ovejas. DeberÃ­as servirte a ti mismo.}
+{124}{}{Â¿QuÃ©, eres malvado?}
+{125}{}{Ya veo. Tengo mÃ¡s preguntas.}
+{126}{}{Â¿Malvado? No lo creo. SÃ³lo inteligente. QuizÃ¡ si estÃ¡s tan preocupada por hacer lo correcto para la gente, deberÃ­as ver al DragÃ³n. Le gustan los simplones dÃ©biles como tÃº.}
 {127}{}{[HECHO]}
-{128}{}{Sí, debería. Y lo hago. Desafortunadamente, el Dragón se interpone en mi camino. Estamos demasiado igualados en nuestra lucha uno contra otro. Necesito a una persona entrenada que me ayude.}
+{128}{}{SÃ­, deberÃ­a. Y lo hago. Desafortunadamente, el DragÃ³n se interpone en mi camino. Estamos demasiado igualados en nuestra lucha uno contra otro. Necesito a una persona entrenada que me ayude.}
 {129}{}{Yo soy esa persona.}
-{130}{}{Ya veo. Bueno, tengo más preguntas.}
+{130}{}{Ya veo. Bueno, tengo mÃ¡s preguntas.}
 {131}{}{Ya veo. Bueno, hasta luego.}
-{132}{}{¿Tú? ¿Puedes pelear contra un hombre mano a mano, sin confiar en un armadura y armas?}
-{133}{}{Puedo, pero ¿por qué debería?}
-{134}{}{Me parece justo. ¿Cómo funciona esta prueba?}
+{132}{}{Â¿TÃº? Â¿Puedes pelear contra un hombre mano a mano, sin confiar en un armadura y armas?}
+{133}{}{Puedo, pero Â¿por quÃ© deberÃ­a?}
+{134}{}{Me parece justo. Â¿CÃ³mo funciona esta prueba?}
 {135}{}{Oh. Bien, en tal caso, he de irme.}
-{136}{}{Porque de lo contrario los campesinos me maldecirán y me será mucho más difícil dominarlos cuando haya vencido al Dragón.}
+{136}{}{Porque de lo contrario los campesinos me maldecirÃ¡n y me serÃ¡ mucho mÃ¡s difÃ­cil dominarlos cuando haya vencido al DragÃ³n.}
 {137}{}{Entiendo. Empecemos la prueba.}
-{138}{}{Comprendo. Tengo más preguntas.}
+{138}{}{Comprendo. Tengo mÃ¡s preguntas.}
 {139}{}{Vaaaale. Nos vemos.}
-{140}{}{¿Quieres luchar contra mí hasta la muerte, o sólo quieres comprobar quién es mejor?}
+{140}{}{Â¿Quieres luchar contra mÃ­ hasta la muerte, o sÃ³lo quieres comprobar quiÃ©n es mejor?}
 {141}{}{Hasta el final. Puedo contigo.}
 {142}{}{Una prueba de habilidad. No quiero matarte.}
-{143}{}{Ni una cosa ni la otra. Olvídalo.}
-{144}{}{Genial. Espero que tengas preparada una tumba. ¿Te ha enviado el Dragón?}
-{145}{}{Sí. Hago esto por los Shi.}
+{143}{}{Ni una cosa ni la otra. OlvÃ­dalo.}
+{144}{}{Genial. Espero que tengas preparada una tumba. Â¿Te ha enviado el DragÃ³n?}
+{145}{}{SÃ­. Hago esto por los Shi.}
 {146}{}{No. Hago esto porque creo que eres escoria.}
-{147}{}{Una tipa dura, ¿eh? Primero lucharás con mis hombres, y entonces veremos si mereces pelear conmigo.}
+{147}{}{Una tipa dura, Â¿eh? Primero lucharÃ¡s con mis hombres, y entonces veremos si mereces pelear conmigo.}
 {148}{}{[COMENZAR]}
-{149}{}{Soy Lo Pan. También soy el enemigo acérrimo del Dragón. El por qué insiste en tener un enemigo acérrimo se me escapa. Lucho tan bien como él, y creo que es débil de corazón y permite a otros vivir bajo su sombra. Somos enemigos porque tenemos el mismo estilo de lucha, y aquel que venza será quien prosiga la tradición.}
-{150}{}{A mí no se me da mal el combate mano a mano. ¿Quieres darme una oportunidad?}
-{151}{}{Eso es interesante. Debe de ser gratificante. Tengo más preguntas.}
-{152}{}{Gracias. Adiós.}
-{153}{}{Puede que sea un cabrón, pero nunca se podrá decir que no defiendo a mi gente. Voy a hacerte daño antes de matarte.}
+{149}{}{Soy Lo Pan. TambiÃ©n soy el enemigo acÃ©rrimo del DragÃ³n. El por quÃ© insiste en tener un enemigo acÃ©rrimo se me escapa. Lucho tan bien como Ã©l, y creo que es dÃ©bil de corazÃ³n y permite a otros vivir bajo su sombra. Somos enemigos porque tenemos el mismo estilo de lucha, y aquel que venza serÃ¡ quien prosiga la tradiciÃ³n.}
+{150}{}{A mÃ­ no se me da mal el combate mano a mano. Â¿Quieres darme una oportunidad?}
+{151}{}{Eso es interesante. Debe de ser gratificante. Tengo mÃ¡s preguntas.}
+{152}{}{Gracias. AdiÃ³s.}
+{153}{}{Puede que sea un cabrÃ³n, pero nunca se podrÃ¡ decir que no defiendo a mi gente. Voy a hacerte daÃ±o antes de matarte.}
 {154}{}{[HECHO]}
-{155}{}{Entonces eres una tonta y un perra que recibe órdenes de otros. Reiré cuando mueras.}
+{155}{}{Entonces eres una tonta y un perra que recibe Ã³rdenes de otros. ReirÃ© cuando mueras.}
 {156}{}{[Atacas ya, con armadura y armas]}
-{157}{}{[Entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano]}
-{158}{}{Bien. Al menos eres tu propia dueña. ¿Eres lo bastante fuerte como para luchar sin armadura ni armas?}
+{157}{}{[Entras en el cuadrilÃ¡tero, dejas a un lado armadura y armas, y luchas mano a mano]}
+{158}{}{Bien. Al menos eres tu propia dueÃ±a. Â¿Eres lo bastante fuerte como para luchar sin armadura ni armas?}
 {159}{}{[Atacas ya, con armadura y armas]}
-{160}{}{[Entras en el cuadrilátero, dejas a un lado armadura y armas, y luchas mano a mano]}
-{161}{}{¡Beee, oveja, beee! Vuelve con tus amos. No tengo nada que decirte.}
+{160}{}{[Entras en el cuadrilÃ¡tero, dejas a un lado armadura y armas, y luchas mano a mano]}
+{161}{}{Â¡Beee, oveja, beee! Vuelve con tus amos. No tengo nada que decirte.}
 {162}{}{[HECHO]}
-{163}{}{¿No te dije que hablaras con el Dragón sobre tus escrúpulos morales? Él te acogerá. Yo no. Ahora, vete.}
+{163}{}{Â¿No te dije que hablaras con el DragÃ³n sobre tus escrÃºpulos morales? Ã‰l te acogerÃ¡. Yo no. Ahora, vete.}
 {164}{}{[HECHO]}
-{165}{}{Eres, debo admitirlo, incluso mejora luchadora que yo. ¿Quieres probar con el Dragón?}
-{166}{}{Sí. Iré ahora mismo.}
+{165}{}{Eres, debo admitirlo, incluso mejora luchadora que yo. Â¿Quieres probar con el DragÃ³n?}
+{166}{}{SÃ­. IrÃ© ahora mismo.}
 {167}{}{En realidad no es mi lucha.}
 {168}{}{Desde luego, pero tengo unas preguntas.}
-{169}{}{No, no lo es. Pero el Dragón aún me derrota. Si tienes agallas, lo vencerás. Pero nunca he esperado orgullo de un lao wai.}
+{169}{}{No, no lo es. Pero el DragÃ³n aÃºn me derrota. Si tienes agallas, lo vencerÃ¡s. Pero nunca he esperado orgullo de un lao wai.}
 {170}{}{Correcto. Tengo unas preguntas.}
-{171}{}{Sí, lo que sea. Adiós.}
-{172}{}{Acabo de matar a un lao wai que intentaba robar nuestros secretos. El Dragón y yo lo hicimos. Trabajamos bien juntos, he de admitirlo.}
+{171}{}{SÃ­, lo que sea. AdiÃ³s.}
+{172}{}{Acabo de matar a un lao wai que intentaba robar nuestros secretos. El DragÃ³n y yo lo hicimos. Trabajamos bien juntos, he de admitirlo.}
 {173}{}{Genial. Tengo unas preguntas.}
-{174}{}{Genial. Adiós.}
-{175}{}{El Dragón está muerto. No puedo creerlo. Al menos ahora no tendremos todas esas molestas tradiciones persiguiéndonos a cada paso. Gracias.}
+{174}{}{Genial. AdiÃ³s.}
+{175}{}{El DragÃ³n estÃ¡ muerto. No puedo creerlo. Al menos ahora no tendremos todas esas molestas tradiciones persiguiÃ©ndonos a cada paso. Gracias.}
 {176}{}{Genial. Tengo unas preguntas.}
-{177}{}{Genial. Adiós.}
-{178}{}{Bien. Iré ahora mismo.}
-{200}{}{Lo Pan detecta tu avance y te escurres de él.}
-{201}{}{Verás, no me gusta que nadie toque mis cosas, así que ve a robarle a otro. Ahora vete.}
-{202}{}{Te advertí que te fueras, para no matarte. Oh, bueno.}
-{203}{}{Parece que necesitas más de mi entrenamiento.}
-{204}{}{El entrenamiento ha finalizado por hoy. Vuelve mañana.}
+{177}{}{Genial. AdiÃ³s.}
+{178}{}{Bien. IrÃ© ahora mismo.}
+{200}{}{Lo Pan detecta tu avance y te escurres de Ã©l.}
+{201}{}{VerÃ¡s, no me gusta que nadie toque mis cosas, asÃ­ que ve a robarle a otro. Ahora vete.}
+{202}{}{Te advertÃ­ que te fueras, para no matarte. Oh, bueno.}
+{203}{}{Parece que necesitas mÃ¡s de mi entrenamiento.}
+{204}{}{El entrenamiento ha finalizado por hoy. Vuelve maÃ±ana.}
 {205}{}{Soy el maestro Khung, tu prueba final.}
-{206}{}{Soy Imbot. Prepárate.}
-{207}{}{Soy Wejungh. Prepárate.}
-{208}{}{Soy Loopal. No llegarás más lejos.}
+{206}{}{Soy Imbot. PrepÃ¡rate.}
+{207}{}{Soy Wejungh. PrepÃ¡rate.}
+{208}{}{Soy Loopal. No llegarÃ¡s mÃ¡s lejos.}
 {209}{}{Soy Smitty. Es hora de que seas vencida.}
-{210}{}{Soy el maestro Krall. Estás acabada.}
-{211}{}{¡LUCHA!}
-{212}{}{Necesitas entrenar más.}
-{213}{}{¡Prepárate!}
-{214}{}{Has vencido a Lo Pan en combate mortal. Por alguna razón el sol parece un poco más brillante hoy.}
-{215}{}{Ya has derrotado a mis hombres. Has pasado mi prueba. Estás listo para luchar con el Dragón.}
-{216}{}{Ya eres lo bastante buena. Ve a aprender a disparar o algo así.}
+{210}{}{Soy el maestro Krall. EstÃ¡s acabada.}
+{211}{}{Â¡LUCHA!}
+{212}{}{Necesitas entrenar mÃ¡s.}
+{213}{}{Â¡PrepÃ¡rate!}
+{214}{}{Has vencido a Lo Pan en combate mortal. Por alguna razÃ³n el sol parece un poco mÃ¡s brillante hoy.}
+{215}{}{Ya has derrotado a mis hombres. Has pasado mi prueba. EstÃ¡s listo para luchar con el DragÃ³n.}
+{216}{}{Ya eres lo bastante buena. Ve a aprender a disparar o algo asÃ­.}
 {217}{}{Empecemos. Sigue mis indicaciones.}
-{218}{}{El entrenamiento se realiza durante el día.}
+{218}{}{El entrenamiento se realiza durante el dÃ­a.}
 {219}{}{Has aprendido bien.}
-{220}{}{Ya has derrotado a mis hombres. Nadie más desea desafiarte.}
-{221}{}{Me has ayudado y ni siquiera lo sabías. Con el Dragón muerto, ya no tengo que seguir esas obsoletas tradiciones morales.}
-{222}{}{Fue un placer. Adiós.}
-{223}{}{No hay de qué. Adiós.}
-{224}{}{No hay de qué. ¿Puedo hacerte una pregunta?}
-{225}{}{No hay qué. ¿Hago pregunta?}
-{226}{}{¡GANAS!}
-{227}{}{¡PIERDES!}
-{228}{}{¡Siguiente oponente!}
+{220}{}{Ya has derrotado a mis hombres. Nadie mÃ¡s desea desafiarte.}
+{221}{}{Me has ayudado y ni siquiera lo sabÃ­as. Con el DragÃ³n muerto, ya no tengo que seguir esas obsoletas tradiciones morales.}
+{222}{}{Fue un placer. AdiÃ³s.}
+{223}{}{No hay de quÃ©. AdiÃ³s.}
+{224}{}{No hay de quÃ©. Â¿Puedo hacerte una pregunta?}
+{225}{}{No hay quÃ©. Â¿Hago pregunta?}
+{226}{}{Â¡GANAS!}
+{227}{}{Â¡PIERDES!}
+{228}{}{Â¡Siguiente oponente!}
 {229}{}{Oye, mira lo que he encontrado.}
-{230}{}{En primer lugar, tendrás que demostrar que puedes hacerlo. Te enfrentaré a cinco de mis luchadores: uno cada vez. Si los derrotas, entonces encararás la prueba final.}
-{231}{}{¿Qué es eso?}
-{232}{}{Suena a demasiados problemas. Adiós.}
-{233}{}{Tendrás que derrotar mi aprendiz elegido . Sin embargo, ninguna de estas peleas serán a muerte... para proteger a mis hombres, por supuesto [se burla].}
-{234}{}{¡Vamos allá!}
-{235}{}{Puedes encargarte del Dragón tú mismo.}
-{236}{}{[Lo Pan te estudia y a continuación lanza un rápido puñetazo que te golpea en la nariz antes de que puedas reaccionar siquiera]. No eres lo bastante bueno.}
-{237}{}{Vale, pero ¿puedo preguntarte algo más?}
-{238}{}{Bien. Adiós.}
+{230}{}{En primer lugar, tendrÃ¡s que demostrar que puedes hacerlo. Te enfrentarÃ© a cinco de mis luchadores: uno cada vez. Si los derrotas, entonces encararÃ¡s la prueba final.}
+{231}{}{Â¿QuÃ© es eso?}
+{232}{}{Suena a demasiados problemas. AdiÃ³s.}
+{233}{}{TendrÃ¡s que derrotar mi aprendiz elegido . Sin embargo, ninguna de estas peleas serÃ¡n a muerte... para proteger a mis hombres, por supuesto [se burla].}
+{234}{}{Â¡Vamos allÃ¡!}
+{235}{}{Puedes encargarte del DragÃ³n tÃº mismo.}
+{236}{}{[Lo Pan te estudia y a continuaciÃ³n lanza un rÃ¡pido puÃ±etazo que te golpea en la nariz antes de que puedas reaccionar siquiera]. No eres lo bastante bueno.}
+{237}{}{Vale, pero Â¿puedo preguntarte algo mÃ¡s?}
+{238}{}{Bien. AdiÃ³s.}

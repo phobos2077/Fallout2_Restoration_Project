@@ -24,17 +24,17 @@
 {123}{}{I don't give directions and I don't pass out change. Bug off.}
 {124}{}{What is this - social hour?}
 {125}{}{I'm Merk. Whattya want?}
-{126}{}{Você novamente?}
+{126}{}{VocÃª novamente?}
 {127}{}{Well, keep it polite, punk, or this could get ugly.}
 {128}{}{Oort.}
 {129}{}{Estou procurando trabalho.}
 {130}{}{Informed sources say you're the man to see about doing business, if you know what I mean.}
 {131}{}{They say you're the man who ripped off my car.}
-{132}{}{Estou procurando por alguma informação.}
+{132}{}{Estou procurando por alguma informaÃ§Ã£o.}
 {133}{}{Some say you might know a thing or two about, oh say, stuff missing from cars.}
 {134}{}{You again? So's the job done?}
 {135}{}{Glub.}
-{136}{}{Não.}
+{136}{}{NÃ£o.}
 {137}{}{Eu tenho algumas perguntas.}
 {138}{}{Hmm... Strong. Dumb... If you want a job, talk to Mira. Understand? Mi-ra. Over there.}
 {139}{}{Like making noises? Will somebody get this brahmin turd out of here?}
@@ -75,7 +75,7 @@
 {174}{}{Knowledge costs you. Am I clear?}
 {175}{}{"The price of wisdom is above rubies."}
 {176}{}{Here's $50.}
-{177}{}{Esqueça.}
+{177}{}{EsqueÃ§a.}
 {178}{}{Oh, you're that person.}
 {179}{}{Continuar}
 {180}{}{Well, as far as I'm concerned, here you're just a pile of dung.}
@@ -87,19 +87,19 @@
 {186}{}{Now, I suggest you leave.}
 {187}{}{By all means, call in the officers. Of course, I assume you have evidence to back up your wild accusation.}
 {188}{}{Sim, com certeza.}
-{189}{}{Não importa.}
+{189}{}{NÃ£o importa.}
 {190}{}{Such as there's a damn Hubologist in town who has irritated me. Once this itch is scratched, come back and talk to me.}
 {191}{}{Consider it done. I got just the backscratcher for him but... what's a Hubologist and where do I find him?}
 {192}{}{How dare you speak against the true belief!}
 {193}{}{Sorry, I don't get involved in religious wars.}
 {194}{}{Well, I am a learned man. What's your question?}
-{195}{}{Pergunte a distância.}
+{195}{}{Pergunte a distÃ¢ncia.}
 {196}{}{I'm looking for Vault 13.}
-{197}{}{Já ouviu falar de um GECK?}
+{197}{}{JÃ¡ ouviu falar de um GECK?}
 {198}{}{What do you know about some outfit called the Rangers?}
 {199}{}{What can you tell me about some guy named Westin?}
 {200}{}{I'm looking for info on Vice-President Carlson.}
-{201}{}{É isso.}
+{201}{}{Ã‰ isso.}
 {202}{}{Your payment gets you one question. Another costs you another $50.}
 {203}{}{Okay, here.}
 {204}{}{I've got all the facts I need.}
@@ -120,7 +120,7 @@
 {219}{}{Oh, well, I guess I'll never get to meet the man. I've heard a lot about him, too.}
 {220}{}{That's all I needed to know.}
 {221}{}{That all?}
-{222}{}{Não, eu tenho mais algumas perguntas.}
+{222}{}{NÃ£o, eu tenho mais algumas perguntas.}
 {223}{}{Yeah, that's it for now.}
 {224}{}{Hey, a man's got to try. Vault 13's practically a religion around here. They've even built a statue to some chump who supposedly came from there. That's all I know.}
 {225}{}{I sold you a map for it. Try using it.}
@@ -135,7 +135,7 @@
 {234}{}{Your feeble attempts to intimidate me are almost amusing, but now I suggest you leave before I tire of this game.}
 {235}{}{Ah, I've heard the news. You still interested in a job?}
 {236}{}{Yeah, I'm tired of freebies. I could use the work.}
-{237}{}{Não.}
+{237}{}{NÃ£o.}
 {238}{}{What the hell you doing in my place?}
 {239}{}{I was out of line before. I won't do it again. I just want a little of your time.}
 {240}{}{I'll do what I want, you weasel.}
@@ -145,7 +145,7 @@
 {244}{}{That disappoints me. I normally remove things that disappoint me. However, in your case I can be generous. Just leave and don't come back and I'll forget all about it.}
 {245}{}{So, is that little business with Dr. Henry done?}
 {246}{}{Yeah, I got the papers you want.}
-{247}{}{Não.}
+{247}{}{NÃ£o.}
 {248}{}{Days like this make me so happy. Well, let's conclude our business.}
 {249}{}{It has come to my attention that the ingenious doctor expired during your visit. That was against my orders. To recoup future losses I think it will be necessary to receive a refund.}
 {250}{}{Look, I'll just give you 500 bucks and we'll forget the whole deal.}
@@ -172,4 +172,4 @@
 {271}{}{You have "taken care of" the Hubologist for Merk.}
 {272}{}{You retrieved Dr. Henry's papers.}
 {300}{}{Where the hell do you think you are going?! Try that again and I'll kick your ass.}
-{301}{}{Eu avisei a você!}
+{301}{}{Eu avisei a vocÃª!}

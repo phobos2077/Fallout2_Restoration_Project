@@ -1,6 +1,6 @@
-{100}{}{Widzisz G³az.}
+{100}{}{Widzisz GÅ‚az.}
 {101}{}{Widzisz zamaskowany szyb wentylacyjny.}
-{102}{}{Nie wiedzisz niczego niezwyk³ego.}
+{102}{}{Nie wiedzisz niczego niezwykÅ‚ego.}
 {110}{}{To niczego nie robi.}
-{120}{}{Nie mo¿esz wróciæ do szybu wentylacyjnego.}
+{120}{}{Nie moÅ¼esz wrÃ³ciÄ‡ do szybu wentylacyjnego.}
 {200}{}{Widzisz szyb wentylacyjny.}

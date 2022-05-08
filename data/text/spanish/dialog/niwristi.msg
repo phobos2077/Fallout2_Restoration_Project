@@ -1,6 +1,6 @@
-{100}{}{Ves una gran tina de cerveza. Est· emitiendo un sonido leve.}
-{110}{}{Ves una gran tina de cerveza. Flotando en su interior est· la cola del escorpiÛn rad.}
-{120}{}{Ves una gran tina de cerveza. Est· rota y el daÒo parece irreparable.}
+{100}{}{Ves una gran tina de cerveza. Est√° emitiendo un sonido leve.}
+{110}{}{Ves una gran tina de cerveza. Flotando en su interior est√° la cola del escorpi√≥n rad.}
+{120}{}{Ves una gran tina de cerveza. Est√° rota y el da√±o parece irreparable.}
 {130}{}{La tina se detiene. Parece irreparable.}
 {140}{}{La sueltas en la tina, y la ves hundirse hacia el fondo, con el veneno fluyendo del recipiente.}
 {150}{}{Parece irreparable.}

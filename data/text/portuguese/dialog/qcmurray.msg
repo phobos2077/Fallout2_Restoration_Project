@@ -1,11 +1,11 @@
-{100}{}{Você vê um homem calvo em um bata de laboratório.}
+{100}{}{VocÃª vÃª um homem calvo em um bata de laboratÃ³rio.}
 {101}{}{You see Tom Murray, the head of the Atomic Energy Commission.}
 {102}{}{You see a very nervous old man in a pristine lab coat.}
 {103}{}{My machine! My beautiful machine gone. (Sob, sob.)}
 {104}{}{We're doomed.}
 {105}{}{Without the computer online the reactor will meltdown!}
 {106}{}{I can't even swim.}
-{107}{}{Talvez eu possa consertá-lo...}
+{107}{}{Talvez eu possa consertÃ¡-lo...}
 {108}{}{What's the alarm ringing about?}
 {109}{}{What's going on here?}
 {110}{}{Don't panic, anyone. DON'T PANIC!!!!!!!!!!!!}
@@ -31,7 +31,7 @@
 {130}{}{Intruders! Alert!}
 {131}{}{Run for your lives! The primitives are loose!}
 {132}{}{Guards! Heeeeeeelllllp!}
-{133}{}{Alerta de intrusão! Alerta de intrusão!}
+{133}{}{Alerta de intrusÃ£o! Alerta de intrusÃ£o!}
 {134}{}{Shut it down? Are you crazed? You're not going to shut down *my* reactor.}
 {135}{}{Yes, I am. You better tell me how, or I'll shut you down, permanently.}
 {136}{}{Did I say shut down? I'm sorry, I just wanted to know how your reactor works.}

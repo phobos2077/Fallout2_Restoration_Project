@@ -1,10 +1,10 @@
-{100}{}{Este generador parece muy daÒado.}
+{100}{}{Este generador parece muy da√±ado.}
 {101}{}{Crees que puedes ser capaz de repararlo.}
 {102}{}{Es un generador que apenas funciona.}
-{103}{}{Est· funcionando, pero a duras penas.}
-{104}{}{Pues sÌ, est· roto. Darle patadas no parece arreglarlo.}
+{103}{}{Est√° funcionando, pero a duras penas.}
+{104}{}{Pues s√≠, est√° roto. Darle patadas no parece arreglarlo.}
 {105}{}{Casi lo tienes.}
-{106}{}{SÛlo un poquito m·s.}
+{106}{}{S√≥lo un poquito m√°s.}
 {107}{}{Parece imposible de arreglar.}
 {108}{}{Las luces centellean escasamente mientras el generador vuelve a funcionar con un estruendo.}
-{200}{}{Has reparado con Èxito el generador.}
+{200}{}{Has reparado con √©xito el generador.}

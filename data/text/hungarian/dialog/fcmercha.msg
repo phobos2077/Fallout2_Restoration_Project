@@ -1,47 +1,47 @@
-{100}{}{Egy keresked?t látsz.}
-{101}{}{Egy keresked?t látsz.}
-{102}{}{Egy agilis Shi keresked?t látsz. Akárcsak a többiek, kissé el van telve magától.}
-{103}{}{Gyere, vegyél polipot! Nagyon ízletes.}
-{104}{}{Szereted a halat? Nekünk van sokféle!}
-{105}{}{Hé! Hé! Vedd meg ezt! Vedd meg ezt!}
-{106}{}{Ne vásároljál t?le! Az egy tetves tolvaj!}
-{107}{}{Gyere, és vessél egy pillantást az árumra! Nagyon fog tetszeni!}
-{108}{}{Nézzed csak meg! Nézzed csak meg! Nézzed csak meg!}
-{109}{}{Hé, lao wai! Üzletelünk? Van itten minden!}
+{100}{}{Egy keresked?t lÃ¡tsz.}
+{101}{}{Egy keresked?t lÃ¡tsz.}
+{102}{}{Egy agilis Shi keresked?t lÃ¡tsz. AkÃ¡rcsak a tÃ¶bbiek, kissÃ© el van telve magÃ¡tÃ³l.}
+{103}{}{Gyere, vegyÃ©l polipot! Nagyon Ã­zletes.}
+{104}{}{Szereted a halat? NekÃ¼nk van sokfÃ©le!}
+{105}{}{HÃ©! HÃ©! Vedd meg ezt! Vedd meg ezt!}
+{106}{}{Ne vÃ¡sÃ¡roljÃ¡l t?le! Az egy tetves tolvaj!}
+{107}{}{Gyere, Ã©s vessÃ©l egy pillantÃ¡st az Ã¡rumra! Nagyon fog tetszeni!}
+{108}{}{NÃ©zzed csak meg! NÃ©zzed csak meg! NÃ©zzed csak meg!}
+{109}{}{HÃ©, lao wai! ÃœzletelÃ¼nk? Van itten minden!}
 {110}{}{Erre! Erre! Erre!}
-{111}{}{Ha szerinted jó, csak nézzedd meg közelebbr?l!}
-{112}{}{Van itten hal, alga, rizs, meg.... ööö...}
+{111}{}{Ha szerinted jÃ³, csak nÃ©zzedd meg kÃ¶zelebbr?l!}
+{112}{}{Van itten hal, alga, rizs, meg.... Ã¶Ã¶Ã¶...}
 {113}{}{Nem sokminden terem itten meg, de ami igen, aztat mind kaphatod!}
-{114}{}{Menjél haza! Menjél haza, lao wai!}
+{114}{}{MenjÃ©l haza! MenjÃ©l haza, lao wai!}
 {115}{}{Nem akarunk boltolni veled!}
-{116}{}{Távozzál! Távozzál!}
-{117}{}{A pénzed itt nem jó! Menet elfele!}
+{116}{}{TÃ¡vozzÃ¡l! TÃ¡vozzÃ¡l!}
+{117}{}{A pÃ©nzed itt nem jÃ³! Menet elfele!}
 {118}{}{Menet elfele!}
-{119}{}{Nem szeretsz bunyózni? Mai Da Chiang-nak vannak jó kis fegyverei!}
+{119}{}{Nem szeretsz bunyÃ³zni? Mai Da Chiang-nak vannak jÃ³ kis fegyverei!}
 {120}{}{Te szerelmes vagy nem harcos, mi?}
-{121}{}{Mi van, szöcske?!}
-{122}{}{Gyere, vegyél polipot! Nagyon ízletes.}
-{123}{}{Szereted a halat? Nekünk van sokféle!}
-{124}{}{Hé! Hé! Vedd meg ezt! Vedd meg ezt!}
-{125}{}{Ne vásároljál t?le! Az egy tetves tolvaj!}
-{126}{}{Gyere, és vessél egy pillantást az árumra! Nagyon fog tetszeni!}
-{127}{}{Nézzed csak meg! Nézzed csak meg! Nézzed csak meg!}
-{128}{}{Hé, lao wai! Üzletelünk? Van itten minden!}
+{121}{}{Mi van, szÃ¶cske?!}
+{122}{}{Gyere, vegyÃ©l polipot! Nagyon Ã­zletes.}
+{123}{}{Szereted a halat? NekÃ¼nk van sokfÃ©le!}
+{124}{}{HÃ©! HÃ©! Vedd meg ezt! Vedd meg ezt!}
+{125}{}{Ne vÃ¡sÃ¡roljÃ¡l t?le! Az egy tetves tolvaj!}
+{126}{}{Gyere, Ã©s vessÃ©l egy pillantÃ¡st az Ã¡rumra! Nagyon fog tetszeni!}
+{127}{}{NÃ©zzed csak meg! NÃ©zzed csak meg! NÃ©zzed csak meg!}
+{128}{}{HÃ©, lao wai! ÃœzletelÃ¼nk? Van itten minden!}
 {129}{}{Erre! Erre! Erre!}
-{130}{}{Ha szerinted jó, csak nézzedd meg közelebbr?l!}
-{131}{}{Van itten hal, alga, rizs, meg.... ööö...}
+{130}{}{Ha szerinted jÃ³, csak nÃ©zzedd meg kÃ¶zelebbr?l!}
+{131}{}{Van itten hal, alga, rizs, meg.... Ã¶Ã¶Ã¶...}
 {132}{}{Nem sokminden terem itten meg, de ami igen, aztat mind kaphatod!}
-{133}{}{Meghalt a tanácsadónk!}
-{134}{}{Ember... az új vezet? új adót is kivet majdan?}
-{135}{}{Szegény Ken Lee.}
-{136}{}{A Shi-város sosenem lesz ugyanaz a vén Ken Lee nélkül.}
-{137}{}{Szereted a halat? Nekünk van sokféle!}
-{138}{}{Hé! Hé! Vedd meg ezt! Vedd meg ezt!}
-{139}{}{Ne vásároljál t?le! Az egy tetves tolvaj!}
-{140}{}{Gyere, és vessél egy pillantást az árumra! Nagyon fog tetszeni!}
-{141}{}{Nézzed csak meg! Nézzed csak meg! Nézzed csak meg!}
-{142}{}{Hé, lao wai! Üzletelünk? Van itten minden!}
+{133}{}{Meghalt a tanÃ¡csadÃ³nk!}
+{134}{}{Ember... az Ãºj vezet? Ãºj adÃ³t is kivet majdan?}
+{135}{}{SzegÃ©ny Ken Lee.}
+{136}{}{A Shi-vÃ¡ros sosenem lesz ugyanaz a vÃ©n Ken Lee nÃ©lkÃ¼l.}
+{137}{}{Szereted a halat? NekÃ¼nk van sokfÃ©le!}
+{138}{}{HÃ©! HÃ©! Vedd meg ezt! Vedd meg ezt!}
+{139}{}{Ne vÃ¡sÃ¡roljÃ¡l t?le! Az egy tetves tolvaj!}
+{140}{}{Gyere, Ã©s vessÃ©l egy pillantÃ¡st az Ã¡rumra! Nagyon fog tetszeni!}
+{141}{}{NÃ©zzed csak meg! NÃ©zzed csak meg! NÃ©zzed csak meg!}
+{142}{}{HÃ©, lao wai! ÃœzletelÃ¼nk? Van itten minden!}
 {143}{}{Erre! Erre! Erre!}
-{144}{}{Ha szerinted jó, csak nézzedd meg közelebbr?l!}
-{145}{}{Van itten hal, alga, rizs, meg.... ööö...}
+{144}{}{Ha szerinted jÃ³, csak nÃ©zzedd meg kÃ¶zelebbr?l!}
+{145}{}{Van itten hal, alga, rizs, meg.... Ã¶Ã¶Ã¶...}
 {146}{}{Nem sokminden terem itten meg, de ami igen, aztat mind kaphatod!}

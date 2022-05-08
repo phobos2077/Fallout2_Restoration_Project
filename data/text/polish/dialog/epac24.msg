@@ -1,9 +1,9 @@
-{100}{}{Widzisz potwornie zniekszta³conego "cz³owieka".}
-{101}{}{Widzisz, jak siê okazuje nieszczêsnego cz³owieka z groteskowymi cechami zwierzêcymi. Wygl¹da na g³odnego.}
+{100}{}{Widzisz potwornie znieksztaÅ‚conego "czÅ‚owieka".}
+{101}{}{Widzisz, jak siÄ™ okazuje nieszczÄ™snego czÅ‚owieka z groteskowymi cechami zwierzÄ™cymi. WyglÄ…da na gÅ‚odnego.}
 {200}{}{Urg!}
-{201}{}{G³oodnyy!}
+{201}{}{GÅ‚oodnyy!}
 {202}{}{*warczy*}
 {203}{}{Grrr!}
-{204}{}{Chce jeœæ!}
-{205}{}{Zabiæ! Nakarmiæ!}
-{206}{}{*œlini siê*}
+{204}{}{Chce jeÅ›Ä‡!}
+{205}{}{ZabiÄ‡! NakarmiÄ‡!}
+{206}{}{*Å›lini siÄ™*}

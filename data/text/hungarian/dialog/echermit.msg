@@ -1,28 +1,28 @@
 {100}{}{Remete.}
 {101}{}{Remete.}
-{102}{}{Úgy néz ki, mint aki már évek óta nem fürdött.}
-{103}{}{Meg tod mondolni mér' én lenni remete? [Úgy t?nik, évek óta nem beszélt senkivel.]}
-{104}{}{Miért?}
-{105}{}{Csak erre jártam.}
+{102}{}{Ãšgy nÃ©z ki, mint aki mÃ¡r Ã©vek Ã³ta nem fÃ¼rdÃ¶tt.}
+{103}{}{Meg tod mondolni mÃ©r' Ã©n lenni remete? [Ãšgy t?nik, Ã©vek Ã³ta nem beszÃ©lt senkivel.]}
+{104}{}{MiÃ©rt?}
+{105}{}{Csak erre jÃ¡rtam.}
 {106}{}{Ah...}
-{107}{}{Én akarja te hagyni engemet békibe!}
-{108}{}{Ha már itt vagyok, akár csereberélhetünk is. Biztos vagyok benne, hogy van nálam olyasmi, amire szükséged van.}
+{107}{}{Ã‰n akarja te hagyni engemet bÃ©kibe!}
+{108}{}{Ha mÃ¡r itt vagyok, akÃ¡r csereberÃ©lhetÃ¼nk is. Biztos vagyok benne, hogy van nÃ¡lam olyasmi, amire szÃ¼ksÃ©ged van.}
 {109}{}{Akkor magadra hagylak.}
-{110}{}{Cserél. Aztán menni te el!}
-{111}{}{Oké, itt van a cuccom...}
+{110}{}{CserÃ©l. AztÃ¡n menni te el!}
+{111}{}{OkÃ©, itt van a cuccom...}
 {112}{}{Legjobb, ha megyek.}
-{113}{}{Mostan akkó' menny!}
+{113}{}{Mostan akkÃ³' menny!}
 {114}{}{Elmegyek akkor...}
-{115}{}{Hmm... tetszel nekem. Semmi mellédumálás. Maradj, csereberéljünk!}
+{115}{}{Hmm... tetszel nekem. Semmi mellÃ©dumÃ¡lÃ¡s. Maradj, csereberÃ©ljÃ¼nk!}
 {116}{}{K'}
-{117}{}{Én menni elfele.}
-{118}{}{Beszélsz te jól. Most menny! Én lenni fáradt.}
-{119}{}{[vége]}
-{120}{}{Beszédt?l megfájdul fej. Menny!}
-{121}{}{A beszédet befejeztem veled.}
-{122}{}{Nem beszél. Megy.}
+{117}{}{Ã‰n menni elfele.}
+{118}{}{BeszÃ©lsz te jÃ³l. Most menny! Ã‰n lenni fÃ¡radt.}
+{119}{}{[vÃ©ge]}
+{120}{}{BeszÃ©dt?l megfÃ¡jdul fej. Menny!}
+{121}{}{A beszÃ©det befejeztem veled.}
+{122}{}{Nem beszÃ©l. Megy.}
 {123}{}{Menjen innen!}
 {124}{}{Hagyj magamra!}
-{125}{}{Hogyan te merel engemet támadni meg?}
-{126}{}{Hagy békén engemet!}
-{127}{}{Én megy.}
+{125}{}{Hogyan te merel engemet tÃ¡madni meg?}
+{126}{}{Hagy bÃ©kÃ©n engemet!}
+{127}{}{Ã‰n megy.}

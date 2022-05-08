@@ -15,7 +15,7 @@
 {140}{}{E' il concessore dell'illuminazione. E' lui che promette Rinnovamento per tutti i suoi seguaci.}
 {141}{}{Beh, un Rinnovamento non mi farebbe male. Dove si trova, LUI?}
 {142}{}{A me pare la solita combriccola di pazzi. Me ne vado.}
-{150}{}{Beh, sta proprio… Ehi, a proposito! Chi sei tu?}
+{150}{}{Beh, sta proprioâ€¦ Ehi, a proposito! Chi sei tu?}
 {151}{}{Sono un semplice viandante.}
 {152}{}{Sono il Prescelto.}
 {153}{}{Sono qui per il mio rinnovamento annuale.}

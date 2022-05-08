@@ -1,87 +1,87 @@
-{100}{}{Widzisz niskiego mê¿czyznê nios¹cego pokaŸnych rozmiarów ksiêgê.}
+{100}{}{Widzisz niskiego mÄ™Å¼czyznÄ™ niosÄ…cego pokaÅºnych rozmiarÃ³w ksiÄ™gÄ™.}
 {101}{}{Widzisz Jonesa, lekarza.}
-{102}{}{Widzisz niewysokiego mê¿czyznê z ksi¹¿k¹ pod tytu³em: "A wiêc chcesz zostaæ lekarzem".}
-{103}{}{Witam, nazywam siê Jones, ale mo¿esz mi mówiæ "doktorku". Mogê ci w czymœ pomóc?}
-{104}{}{Mam kuku. Pomo¿e?}
-{105}{}{Moja chora. Pomo¿e?}
-{106}{}{Moja nie ma kawa³ek, pomo¿e?}
+{102}{}{Widzisz niewysokiego mÄ™Å¼czyznÄ™ z ksiÄ…Å¼kÄ… pod tytuÅ‚em: "A wiÄ™c chcesz zostaÄ‡ lekarzem".}
+{103}{}{Witam, nazywam siÄ™ Jones, ale moÅ¼esz mi mÃ³wiÄ‡ "doktorku". MogÄ™ ci w czymÅ› pomÃ³c?}
+{104}{}{Mam kuku. PomoÅ¼e?}
+{105}{}{Moja chora. PomoÅ¼e?}
+{106}{}{Moja nie ma kawaÅ‚ek, pomoÅ¼e?}
 {107}{}{Ma pytanie. Tak?}
-{108}{}{Przepraszaæ, moja iœæ.}
-{109}{}{Mo¿esz coœ poradziæ na moje obra¿enia?}
-{110}{}{Nie czujê siê najlepiej. Mo¿esz mi pomóc?}
-{111}{}{Okaleczono mnie. Mo¿esz mi pomóc?}
-{112}{}{Chcê ci zadaæ kilka pytañ.}
-{113}{}{Nie, chcê siê tylko przywitaæ.}
-{114}{}{Ale¿ oczywiœcie. Zaraz, damy ci zastrzyk z tego - lekko zak³uje - teraz banda¿ i po sprawie.}
-{115}{}{Moja dziêki. Pa.}
-{116}{}{Dziêki, doktorku. Czujê siê ju¿ du¿o lepiej.}
-{117}{}{Nie ma sprawy. Wypij to - tylko do dna. Wiem, ¿e jest ohydne. A teraz po³ó¿ siê na tamtym ³ó¿ku. Rano ciê obudzê.}
+{108}{}{PrzepraszaÄ‡, moja iÅ›Ä‡.}
+{109}{}{MoÅ¼esz coÅ› poradziÄ‡ na moje obraÅ¼enia?}
+{110}{}{Nie czujÄ™ siÄ™ najlepiej. MoÅ¼esz mi pomÃ³c?}
+{111}{}{Okaleczono mnie. MoÅ¼esz mi pomÃ³c?}
+{112}{}{ChcÄ™ ci zadaÄ‡ kilka pytaÅ„.}
+{113}{}{Nie, chcÄ™ siÄ™ tylko przywitaÄ‡.}
+{114}{}{AleÅ¼ oczywiÅ›cie. Zaraz, damy ci zastrzyk z tego - lekko zakÅ‚uje - teraz bandaÅ¼ i po sprawie.}
+{115}{}{Moja dziÄ™ki. Pa.}
+{116}{}{DziÄ™ki, doktorku. CzujÄ™ siÄ™ juÅ¼ duÅ¼o lepiej.}
+{117}{}{Nie ma sprawy. Wypij to - tylko do dna. Wiem, Å¼e jest ohydne. A teraz poÅ‚Ã³Å¼ siÄ™ na tamtym Å‚Ã³Å¼ku. Rano ciÄ™ obudzÄ™.}
 {118}{}{Moja cacy. Pa.}
-{119}{}{Dziêki, doktorku. To za³atwi³o sprawê.}
-{120}{}{Przykro mi, ale nie mam odpowiednich warunków do przeprowadzenia operacji. Sugerowa³bym udanie siê do jakiegoœ wiêkszego miasta i znalezienie chirurga. Spróbuj na pó³noc st¹d, w Kryptopolis.}
-{121}{}{Dobra. ¯egnaj.}
-{122}{}{W porz¹dku. Dziêki.}
-{123}{}{Co chcesz wiedzieæ?}
+{119}{}{DziÄ™ki, doktorku. To zaÅ‚atwiÅ‚o sprawÄ™.}
+{120}{}{Przykro mi, ale nie mam odpowiednich warunkÃ³w do przeprowadzenia operacji. SugerowaÅ‚bym udanie siÄ™ do jakiegoÅ› wiÄ™kszego miasta i znalezienie chirurga. SprÃ³buj na pÃ³Å‚noc stÄ…d, w Kryptopolis.}
+{121}{}{Dobra. Å»egnaj.}
+{122}{}{W porzÄ…dku. DziÄ™ki.}
+{123}{}{Co chcesz wiedzieÄ‡?}
 {124}{}{Ty pracuje z Darion?}
-{125}{}{Ty wyjœæ, kiedy chcieæ?}
+{125}{}{Ty wyjÅ›Ä‡, kiedy chcieÄ‡?}
 {126}{}{Co ty wie o Darion?}
 {127}{}{Jak ci tu?}
 {128}{}{Darion ma piesek?}
-{129}{}{Moja iœæ ju¿}
+{129}{}{Moja iÅ›Ä‡ juÅ¼}
 {130}{}{Pracujesz dla Dariona?}
-{131}{}{Mo¿esz st¹d odejœæ, kiedy zechcesz?}
-{132}{}{Co mo¿esz powiedzieæ o Darionie?}
-{133}{}{Jak siê tu znalaz³eœ?}
-{134}{}{Nie mówi³eœ czasem, ¿e Darion ma psa?}
-{135}{}{Dziêki za informacje. Muszê ju¿ iœæ.}
-{136}{}{Có¿... Tak i nie. W ka¿dym b¹dŸ razie nie z w³asnej woli. Jestem tu raczej wiêŸniem. Darion potrzebuje oddanego lekarza, aby siê nim opiekowa³. Chanowie trzymaj¹ mnie tylko dlatego. Oczywiœcie wola³bym pomagaæ tym biedakom na górze. Nie maj¹ ani odrobiny wiedzy medycznej i móg³bym im bardzo pomóc.}
-{137}{}{Dobra. Pytaæ wiêcej.}
-{138}{}{Dziêki. Na razie.}
+{131}{}{MoÅ¼esz stÄ…d odejÅ›Ä‡, kiedy zechcesz?}
+{132}{}{Co moÅ¼esz powiedzieÄ‡ o Darionie?}
+{133}{}{Jak siÄ™ tu znalazÅ‚eÅ›?}
+{134}{}{Nie mÃ³wiÅ‚eÅ› czasem, Å¼e Darion ma psa?}
+{135}{}{DziÄ™ki za informacje. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{136}{}{CÃ³Å¼... Tak i nie. W kaÅ¼dym bÄ…dÅº razie nie z wÅ‚asnej woli. Jestem tu raczej wiÄ™Åºniem. Darion potrzebuje oddanego lekarza, aby siÄ™ nim opiekowaÅ‚. Chanowie trzymajÄ… mnie tylko dlatego. OczywiÅ›cie wolaÅ‚bym pomagaÄ‡ tym biedakom na gÃ³rze. Nie majÄ… ani odrobiny wiedzy medycznej i mÃ³gÅ‚bym im bardzo pomÃ³c.}
+{137}{}{Dobra. PytaÄ‡ wiÄ™cej.}
+{138}{}{DziÄ™ki. Na razie.}
 {139}{}{To bardzo szlachetne.}
-{140}{}{Rozumiem. Lepiej ju¿ sobie pójdê.}
-{141}{}{To bezdomni! Daj im umrzeæ i pogódŸ siê z tym.}
-{142}{}{Nie. Jestem tutaj w³aœciwie uwiêziony. Nie mogê nawet wyjœæ, aby uzupe³niæ zapasy medyczne. Darion posy³a po wszystko, czego mi potrzeba.}
-{143}{}{Moja rozumie. Ju¿ iœæ.}
-{144}{}{Pytaæ wiêcej.}
-{145}{}{Myœlê, ¿e nie jesteœ wystarczaj¹co godny zaufania, aby pozwoliæ ci iœæ wolno.}
-{146}{}{No dobra. Muszê ju¿ iœæ.}
+{140}{}{Rozumiem. Lepiej juÅ¼ sobie pÃ³jdÄ™.}
+{141}{}{To bezdomni! Daj im umrzeÄ‡ i pogÃ³dÅº siÄ™ z tym.}
+{142}{}{Nie. Jestem tutaj wÅ‚aÅ›ciwie uwiÄ™ziony. Nie mogÄ™ nawet wyjÅ›Ä‡, aby uzupeÅ‚niÄ‡ zapasy medyczne. Darion posyÅ‚a po wszystko, czego mi potrzeba.}
+{143}{}{Moja rozumie. JuÅ¼ iÅ›Ä‡.}
+{144}{}{PytaÄ‡ wiÄ™cej.}
+{145}{}{MyÅ›lÄ™, Å¼e nie jesteÅ› wystarczajÄ…co godny zaufania, aby pozwoliÄ‡ ci iÅ›Ä‡ wolno.}
+{146}{}{No dobra. MuszÄ™ juÅ¼ iÅ›Ä‡.}
 {147}{}{Bardzo mi przykro.}
-{148}{}{Darion to œwir. To proste i oczywiste. Mêczy go wiêcej lêków, ni¿ jego pies ma pche³. Z tego, co wiem, by³ cz³onkiem innego gangu zwanego Chanami. Dla okupu porwali dziewczynê o imieniu Tandi. Jej ojcu siê to nie spodoba³o i wynaj¹³ jakiegoœ najemnika, aby sprowadzi³ j¹ z powrotem. Darion by³ jedynym, który wyszed³ z tego z ¿yciem.}
-{149}{}{Uch... co ty powiedzia³.}
-{150}{}{Musi ju¿ iœæ.}
-{151}{}{Och-ach. Có¿, muszê ju¿ iœæ.}
-{152}{}{Jej. Jestem pod wra¿eniem twojej wiedzy.}
-{153}{}{Ten goœæ ju¿ mi siê podoba.}
-{154}{}{Zosta³em porwany. Podró¿owa³em z Kryptopolis do Nowego Reno na zas³u¿one wakacje. Którejœ nocy po³o¿y³em siê spaæ, a nastêpnego ranka obudzi³em siê zwi¹zany i zakneblowany. Mniej wiêcej tydzieñ póŸniej znalaz³em siê tutaj. Tkwiê tutaj od tamtego czasu.}
+{148}{}{Darion to Å›wir. To proste i oczywiste. MÄ™czy go wiÄ™cej lÄ™kÃ³w, niÅ¼ jego pies ma pcheÅ‚. Z tego, co wiem, byÅ‚ czÅ‚onkiem innego gangu zwanego Chanami. Dla okupu porwali dziewczynÄ™ o imieniu Tandi. Jej ojcu siÄ™ to nie spodobaÅ‚o i wynajÄ…Å‚ jakiegoÅ› najemnika, aby sprowadziÅ‚ jÄ… z powrotem. Darion byÅ‚ jedynym, ktÃ³ry wyszedÅ‚ z tego z Å¼yciem.}
+{149}{}{Uch... co ty powiedziaÅ‚.}
+{150}{}{Musi juÅ¼ iÅ›Ä‡.}
+{151}{}{Och-ach. CÃ³Å¼, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{152}{}{Jej. Jestem pod wraÅ¼eniem twojej wiedzy.}
+{153}{}{Ten goÅ›Ä‡ juÅ¼ mi siÄ™ podoba.}
+{154}{}{ZostaÅ‚em porwany. PodrÃ³Å¼owaÅ‚em z Kryptopolis do Nowego Reno na zasÅ‚uÅ¼one wakacje. KtÃ³rejÅ› nocy poÅ‚oÅ¼yÅ‚em siÄ™ spaÄ‡, a nastÄ™pnego ranka obudziÅ‚em siÄ™ zwiÄ…zany i zakneblowany. Mniej wiÄ™cej tydzieÅ„ pÃ³Åºniej znalazÅ‚em siÄ™ tutaj. TkwiÄ™ tutaj od tamtego czasu.}
 {155}{}{Ugh.}
-{156}{}{Dziêki. Moja ju¿ iœæ.}
-{157}{}{S³abi s¹ czêsto ofiarami silnych.}
+{156}{}{DziÄ™ki. Moja juÅ¼ iÅ›Ä‡.}
+{157}{}{SÅ‚abi sÄ… czÄ™sto ofiarami silnych.}
 {158}{}{Bardzo mi przykro.}
-{159}{}{Bardzo ciekawe, ale muszê spadaæ.}
-{160}{}{Tak, ma psa. Osobiœcie uwa¿am, ¿e jest to najwredniejsza i najpodlejsza istota na œwiecie. Zdaje siê jednak kochaæ Dariona, wiêc chyba nie mo¿e byæ a¿ taki z³y.}
-{161}{}{Moja pytaæ wiêcej.}
+{159}{}{Bardzo ciekawe, ale muszÄ™ spadaÄ‡.}
+{160}{}{Tak, ma psa. OsobiÅ›cie uwaÅ¼am, Å¼e jest to najwredniejsza i najpodlejsza istota na Å›wiecie. Zdaje siÄ™ jednak kochaÄ‡ Dariona, wiÄ™c chyba nie moÅ¼e byÄ‡ aÅ¼ taki zÅ‚y.}
+{161}{}{Moja pytaÄ‡ wiÄ™cej.}
 {162}{}{Uh, pa.}
-{163}{}{Rozumiem. Dziêki za ostrze¿enie.}
-{164}{}{Och. Có¿, muszê ju¿ iœæ.}
-{165}{}{Nie pomogê komuœ takiemu jak ty. OdejdŸ.}
-{166}{}{Dobra, trzymaj siê. Wróæ jak bêdziesz czegoœ potrzebowaæ.}
+{163}{}{Rozumiem. DziÄ™ki za ostrzeÅ¼enie.}
+{164}{}{Och. CÃ³Å¼, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{165}{}{Nie pomogÄ™ komuÅ› takiemu jak ty. OdejdÅº.}
+{166}{}{Dobra, trzymaj siÄ™. WrÃ³Ä‡ jak bÄ™dziesz czegoÅ› potrzebowaÄ‡.}
 {167}{}{Zrobione.}
-{168}{}{Teraz sta³ siê paranoikiem. Wierzy, ¿e Tandi chce go dorwaæ. Opêta³a go ¿¹dza zemsty i chce j¹ widzieæ martw¹. Przepe³nia go wina, bo ukry³ siê i prze¿y³, zamiast zgin¹æ razem z reszt¹ gangu... i mo¿na by tak jeszcze d³ugo wyliczaæ.}
-{200}{}{Darion nie ¿yje.}
+{168}{}{Teraz staÅ‚ siÄ™ paranoikiem. Wierzy, Å¼e Tandi chce go dorwaÄ‡. OpÄ™taÅ‚a go Å¼Ä…dza zemsty i chce jÄ… widzieÄ‡ martwÄ…. PrzepeÅ‚nia go wina, bo ukryÅ‚ siÄ™ i przeÅ¼yÅ‚, zamiast zginÄ…Ä‡ razem z resztÄ… gangu... i moÅ¼na by tak jeszcze dÅ‚ugo wyliczaÄ‡.}
+{200}{}{Darion nie Å¼yje.}
 {201}{}{Dar-i-on martwy.}
-{202}{}{Naprawdê!? To naprawdê wyœmienicie.}
-{203}{}{Co zamierzasz teraz zrobiæ?}
-{204}{}{Co ty teraz robiæ?}
-{205}{}{Có¿, nie ma chyba sensu wracaæ do mojego starego ¿ycia. A to miasto nad nami nie ma lekarza, wiêc pewnie pójdê im pomóc. Dziêkujê za uwolnienie mnie.}
+{202}{}{NaprawdÄ™!? To naprawdÄ™ wyÅ›mienicie.}
+{203}{}{Co zamierzasz teraz zrobiÄ‡?}
+{204}{}{Co ty teraz robiÄ‡?}
+{205}{}{CÃ³Å¼, nie ma chyba sensu wracaÄ‡ do mojego starego Å¼ycia. A to miasto nad nami nie ma lekarza, wiÄ™c pewnie pÃ³jdÄ™ im pomÃ³c. DziÄ™kujÄ™ za uwolnienie mnie.}
 {206}{}{Jasne. Do zobaczenia.}
 {207}{}{Na razie!}
-{210}{}{Muszê jeszcze zabraæ parê rzeczy. Spotkamy siê na zewn¹trz.}
-{220}{}{Witaj, dobrze Ciê znowu widzieæ! Wszyscy tutaj doceniaj¹ to co dla nich zrobi³eœ. Od siebie dodam, ¿e niezmiernie siê cieszê z wyjœcia stamt¹d. Praca dla Dariona by³a koszmarem.}
-{221}{}{Cieszê siê, ¿e uda³o mi siê pomóc. Opowiedz mi proszê coœ o sobie.}
+{210}{}{MuszÄ™ jeszcze zabraÄ‡ parÄ™ rzeczy. Spotkamy siÄ™ na zewnÄ…trz.}
+{220}{}{Witaj, dobrze CiÄ™ znowu widzieÄ‡! Wszyscy tutaj doceniajÄ… to co dla nich zrobiÅ‚eÅ›. Od siebie dodam, Å¼e niezmiernie siÄ™ cieszÄ™ z wyjÅ›cia stamtÄ…d. Praca dla Dariona byÅ‚a koszmarem.}
+{221}{}{CieszÄ™ siÄ™, Å¼e udaÅ‚o mi siÄ™ pomÃ³c. Opowiedz mi proszÄ™ coÅ› o sobie.}
 {222}{}{Jasne, do zobaczenia.}
-{230}{}{Có¿, chêtnie, pochodzê z Republiki Nowej Kaliforni, ale odkry³em w sobie talent do medycyny. Wiêc kiedy nauczy³em siê wszystkiego czego mog³em od personelu medycznego RNK, zdecydowa³em siê udaæ do Kryptopolis. Mia³em na tyle szczêœci, ¿e spotka³em Dr Troya, kiedy opatrywa³ rannego obywatela na zewn¹trz Krypty, wiêc aby skróciæ nieco tê historiê powiem tylko, ¿e zgodzi³ siê aby kontynuowaæ moja naukê w Kryptopolis. W³aœnie j¹ zakoñczy³em i ruszy³em dalej kiedy z³apa³ mnie Darion.}
-{231}{}{To pech. Có¿, mam nadzieje, ¿e teraz wszystko siê u³o¿y.}
-{240}{}{Te¿ mam tak¹ nadziejê. Myœlê, ¿e moje umiejêtnoœci medyczne bardzo siê tutaj przydadz¹.}
+{230}{}{CÃ³Å¼, chÄ™tnie, pochodzÄ™ z Republiki Nowej Kaliforni, ale odkryÅ‚em w sobie talent do medycyny. WiÄ™c kiedy nauczyÅ‚em siÄ™ wszystkiego czego mogÅ‚em od personelu medycznego RNK, zdecydowaÅ‚em siÄ™ udaÄ‡ do Kryptopolis. MiaÅ‚em na tyle szczÄ™Å›ci, Å¼e spotkaÅ‚em Dr Troya, kiedy opatrywaÅ‚ rannego obywatela na zewnÄ…trz Krypty, wiÄ™c aby skrÃ³ciÄ‡ nieco tÄ™ historiÄ™ powiem tylko, Å¼e zgodziÅ‚ siÄ™ aby kontynuowaÄ‡ moja naukÄ™ w Kryptopolis. WÅ‚aÅ›nie jÄ… zakoÅ„czyÅ‚em i ruszyÅ‚em dalej kiedy zÅ‚apaÅ‚ mnie Darion.}
+{231}{}{To pech. CÃ³Å¼, mam nadzieje, Å¼e teraz wszystko siÄ™ uÅ‚oÅ¼y.}
+{240}{}{TeÅ¼ mam takÄ… nadziejÄ™. MyÅ›lÄ™, Å¼e moje umiejÄ™tnoÅ›ci medyczne bardzo siÄ™ tutaj przydadzÄ….}
 {241}{}{Bywaj.}
-{250}{}{Jeszcze raz dziêkujê za wszystko.}
-{251}{}{Mi³o jest znowu pomagaæ cywilizowanym ludziom.}
+{250}{}{Jeszcze raz dziÄ™kujÄ™ za wszystko.}
+{251}{}{MiÅ‚o jest znowu pomagaÄ‡ cywilizowanym ludziom.}

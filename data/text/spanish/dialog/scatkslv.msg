@@ -4,5 +4,5 @@
 {200}{}{Excelente trabajo. Listo para seguir adelante?}
 {201}{}{Dame un momento para descansar.}
 {202}{}{Yo estoy listo. Vamos a ir.}
-{250}{}{Todavía puedo oler algunos Ranger basura por aquí.}
-{300}{}{Esa fue la última casa de seguridad. Informe a Vortis en NCR.}
+{250}{}{TodavÃ­a puedo oler algunos Ranger basura por aquÃ­.}
+{300}{}{Esa fue la Ãºltima casa de seguridad. Informe a Vortis en NCR.}

@@ -1,1 +1,1 @@
-{101}{}{La explosión hace que el dañado apoya a romper y una avalancha de rocas que viene desde arriba.}
+{101}{}{La explosiÃ³n hace que el daÃ±ado apoya a romper y una avalancha de rocas que viene desde arriba.}

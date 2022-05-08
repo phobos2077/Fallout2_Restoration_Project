@@ -1,115 +1,115 @@
-{100}{}{Você vê o Sargento Gato Jules.}
-{101}{}{Você vê um homem negro bem parecido com caninos bastante pronunciados. Ele se move com uma arrogância constante e tem uma presunçosa
-  expressão no rosto.}
-{200}{}{[À medida que você se aproxima da câmara criogênica, você vê um homem preto esbelto e nu, esparramado no chão.
-  Seu corpo musculoso ainda está tremendo da água gelada e fria. Ele olha para você enquanto você se aproxima.]}
-{201}{}{Quem é você?}
-{210}{}{[De pé e se sacudindo como um animal molhado, o homem olha para você e sorri, revelando alguns dentes da frente estranhamente afiados.]
-  Quem sou *eu*? Quem é *Você*? Você parece um vagabundo fortemente armado!}
-{211}{}{[De pé e se sacudindo como um animal molhado, o homem olha para você sorrindo amplamente, revelando alguns dentes da frente estranhamente afiados.]
-  Quem sou *eu*. Por que, sou sargento Jules, o soldado mais bem parecido desta base, lindo!}
+{100}{}{VocÃª vÃª o Sargento Gato Jules.}
+{101}{}{VocÃª vÃª um homem negro bem parecido com caninos bastante pronunciados. Ele se move com uma arrogÃ¢ncia constante e tem uma presunÃ§osa
+Â  expressÃ£o no rosto.}
+{200}{}{[Ã€ medida que vocÃª se aproxima da cÃ¢mara criogÃªnica, vocÃª vÃª um homem preto esbelto e nu, esparramado no chÃ£o.
+Â  Seu corpo musculoso ainda estÃ¡ tremendo da Ã¡gua gelada e fria. Ele olha para vocÃª enquanto vocÃª se aproxima.]}
+{201}{}{Quem Ã© vocÃª?}
+{210}{}{[De pÃ© e se sacudindo como um animal molhado, o homem olha para vocÃª e sorri, revelando alguns dentes da frente estranhamente afiados.]
+Â  Quem sou *eu*? Quem Ã© *VocÃª*? VocÃª parece um vagabundo fortemente armado!}
+{211}{}{[De pÃ© e se sacudindo como um animal molhado, o homem olha para vocÃª sorrindo amplamente, revelando alguns dentes da frente estranhamente afiados.]
+Â  Quem sou *eu*. Por que, sou sargento Jules, o soldado mais bem parecido desta base, lindo!}
 {212}{}{Eu sou }
-{213}{}{. Mas, qual é o seu nome?}
-{214}{}{Não se arrisque comigo. O que há com esse lugar de qualquer maneira?}
-{215}{}{Entendo. Bem, Sgt. Jules, o que está acontecendo aqui de qualquer maneira?}
-{216}{}{Como você está vivo? O Médico disse que ele foi o único sobrevivente.}
-{220}{}{O nome é Sgt. Jules, mas você pode me chamar de gato. Eu sou o soldado mais rápido e de melhor aparência nesta base.}
-{221}{}{Certo, o que você disser. Então, o que há com esse lugar?}
-{230}{}{Você quer dizer médico C? Por que ele esqueceria de mim? Inferno, ele ajudou a moldar este trabalho de * ART * [Ele gesticula em seu corpo].}
-{231}{}{Certo, o que você disser. Então, o que há com esse lugar?}
-{232}{}{Eu acho que estamos falando de duas pessoas diferentes ... Então, o que está acontecendo aqui de qualquer maneira?}
-{240}{}{Esta é uma instalação do governo, tanto quanto eu sei. Eles fazem todos os tipos de pesquisa secreta. Mas ... [Ele olha ao redor
-  a sala.] é muito silencioso. Onde está todo mundo?}
-{241}{}{Bem, isso provavelmente vai te surpreender, mas você ficou congelado há mais de um século. O mundo
-  não é o mesmo. Eles deixaram cair as bombas e a Terra ficou em silêncio. A sociedade ainda tenta se reconstruir
-  das cinzas.}
-{250}{}{[Sgt. Jules olha para você com uma sobrancelha levantada.] Você não está brincando, não é? Bem, eles realmente seguiram
-  com isso, então. Droga. Adivinha, sou afortunado de ter sido retirado dos militares e trazido aqui.}
-{251}{}{Você estava no exército?}
-{260}{}{Sim. Eu era o especialista em armas de energia. Muito ágil nos meus pés também. Eu só estava no exército por cerca de um ano
-  antes de ser reatribuído aqui. É uma vergonha que nunca volte a ver nenhum dos meus amigos. Gostaria de ter trocado algumas despedidas.}
+{213}{}{. Mas, qual Ã© o seu nome?}
+{214}{}{NÃ£o se arrisque comigo. O que hÃ¡ com esse lugar de qualquer maneira?}
+{215}{}{Entendo. Bem, Sgt. Jules, o que estÃ¡ acontecendo aqui de qualquer maneira?}
+{216}{}{Como vocÃª estÃ¡ vivo? O MÃ©dico disse que ele foi o Ãºnico sobrevivente.}
+{220}{}{O nome Ã© Sgt. Jules, mas vocÃª pode me chamar de gato. Eu sou o soldado mais rÃ¡pido e de melhor aparÃªncia nesta base.}
+{221}{}{Certo, o que vocÃª disser. EntÃ£o, o que hÃ¡ com esse lugar?}
+{230}{}{VocÃª quer dizer mÃ©dico C? Por que ele esqueceria de mim? Inferno, ele ajudou a moldar este trabalho de * ART * [Ele gesticula em seu corpo].}
+{231}{}{Certo, o que vocÃª disser. EntÃ£o, o que hÃ¡ com esse lugar?}
+{232}{}{Eu acho que estamos falando de duas pessoas diferentes ... EntÃ£o, o que estÃ¡ acontecendo aqui de qualquer maneira?}
+{240}{}{Esta Ã© uma instalaÃ§Ã£o do governo, tanto quanto eu sei. Eles fazem todos os tipos de pesquisa secreta. Mas ... [Ele olha ao redor
+Â  a sala.] Ã© muito silencioso. Onde estÃ¡ todo mundo?}
+{241}{}{Bem, isso provavelmente vai te surpreender, mas vocÃª ficou congelado hÃ¡ mais de um sÃ©culo. O mundo
+Â  nÃ£o Ã© o mesmo. Eles deixaram cair as bombas e a Terra ficou em silÃªncio. A sociedade ainda tenta se reconstruir
+Â  das cinzas.}
+{250}{}{[Sgt. Jules olha para vocÃª com uma sobrancelha levantada.] VocÃª nÃ£o estÃ¡ brincando, nÃ£o Ã©? Bem, eles realmente seguiram
+Â  com isso, entÃ£o. Droga. Adivinha, sou afortunado de ter sido retirado dos militares e trazido aqui.}
+{251}{}{VocÃª estava no exÃ©rcito?}
+{260}{}{Sim. Eu era o especialista em armas de energia. Muito Ã¡gil nos meus pÃ©s tambÃ©m. Eu sÃ³ estava no exÃ©rcito por cerca de um ano
+Â  antes de ser reatribuÃ­do aqui. Ã‰ uma vergonha que nunca volte a ver nenhum dos meus amigos. Gostaria de ter trocado algumas despedidas.}
 {261}{}{Sinto muito.}
-{262}{}{Desculpe-me pelas perdas, mas é preciso seguir em frente. Revolver em sua própria miséria não o levará a lugar algum.}
-{270}{}{Sim, não somos todos. O que eu vou fazer agora?}
-{271}{}{Acho que você está certo. O que é que eu vou fazer agora?}
+{262}{}{Desculpe-me pelas perdas, mas Ã© preciso seguir em frente. Revolver em sua prÃ³pria misÃ©ria nÃ£o o levarÃ¡ a lugar algum.}
+{270}{}{Sim, nÃ£o somos todos. O que eu vou fazer agora?}
+{271}{}{Acho que vocÃª estÃ¡ certo. O que Ã© que eu vou fazer agora?}
 {272}{}{Bem, eu poderia usar um companheiro. Quer se juntar a mim?}
-{273}{}{Bem, eu realmente devo estar indo. Boa sorte para você lá fora.}
-{280}{}{Ei, por que não! Vou mostrar-lhe que este gato ainda tem o que é necessário.}
-{281}{}{Parece bom. Vamos lá.}
-{282}{}{O que você diz.}
-{290}{}{Não se preocupe com este gato. Eu encontrarei meu lugar neste mundo. Agora, afaste-se e deixe o gato fazer o que é.}
+{273}{}{Bem, eu realmente devo estar indo. Boa sorte para vocÃª lÃ¡ fora.}
+{280}{}{Ei, por que nÃ£o! Vou mostrar-lhe que este gato ainda tem o que Ã© necessÃ¡rio.}
+{281}{}{Parece bom. Vamos lÃ¡.}
+{282}{}{O que vocÃª diz.}
+{290}{}{NÃ£o se preocupe com este gato. Eu encontrarei meu lugar neste mundo. Agora, afaste-se e deixe o gato fazer o que Ã©.}
 {291}{}{[FIM]}
-{300}{}{Então, como você acabou naquela câmara cryo? E o que aconteceu com os dentes?}
-{301}{}{Eu costumava ser o guarda de um dos laboratórios de genética. Estavam mexendo com DNA humano e felino.
-  Tentando fazer algo com o melhor dos dois mundos, suponho. E é aí que o seu realmente entra.
-  [O gato mostra seu sorriso dentado.] Eles queriam um voluntário para um de seus projetos. Era para escoteiros e coisas do gênero, supostamente
-  torná-lo mais ágil e flexível. Eu gostei do som desse * leers *. De qualquer forma, eles me deram esse tiro, me colocaram abaixo e
-  A próxima coisa que eu sabia, eu tinha esses dentes, e eu sentia ... mais nítida? Tipo de predatório.}
+{300}{}{EntÃ£o, como vocÃª acabou naquela cÃ¢mara cryo? E o que aconteceu com os dentes?}
+{301}{}{Eu costumava ser o guarda de um dos laboratÃ³rios de genÃ©tica. Estavam mexendo com DNA humano e felino.
+Â  Tentando fazer algo com o melhor dos dois mundos, suponho. E Ã© aÃ­ que o seu realmente entra.
+Â  [O gato mostra seu sorriso dentado.] Eles queriam um voluntÃ¡rio para um de seus projetos. Era para escoteiros e coisas do gÃªnero, supostamente
+Â  tornÃ¡-lo mais Ã¡gil e flexÃ­vel. Eu gostei do som desse * leers *. De qualquer forma, eles me deram esse tiro, me colocaram abaixo e
+Â  A prÃ³xima coisa que eu sabia, eu tinha esses dentes, e eu sentia ... mais nÃ­tida? Tipo de predatÃ³rio.}
 {302}{}{Continue.}
-{303}{}{Bem, aparentemente, o experimento não estava indo como planejado e tudo o que eles colocaram dentro de mim não estava sentado
-  bem com o meu sistema. Eu não sei o que eles queriam dizer com isso, já que eu me senti melhor do que nunca. Eles decidiram me jogar
-  no congelador de cryo até descobrir o que fazer comigo.}
-{304}{}{E então eu te descongelei. Parece que você me deve um.}
-{305}{}{Sim, você me salvou. Em troca, talvez eu possa salvar o seu senso de estilo, macaco.}
-{306}{}{Macaco? Deve ser o DNA do gato falando. Isso é tudo que eu preciso saber por enquanto.}
-{310}{}{Desde que você estava no exército, você acha que você pode me ensinar qualquer coisa?}
-{311}{}{Talvez eu possa ensinar uma ou duas coisas sobre armas de energia e outras grandes armas. Agora você precisa lembrar ...}
+{303}{}{Bem, aparentemente, o experimento nÃ£o estava indo como planejado e tudo o que eles colocaram dentro de mim nÃ£o estava sentado
+Â  bem com o meu sistema. Eu nÃ£o sei o que eles queriam dizer com isso, jÃ¡ que eu me senti melhor do que nunca. Eles decidiram me jogar
+Â  no congelador de cryo atÃ© descobrir o que fazer comigo.}
+{304}{}{E entÃ£o eu te descongelei. Parece que vocÃª me deve um.}
+{305}{}{Sim, vocÃª me salvou. Em troca, talvez eu possa salvar o seu senso de estilo, macaco.}
+{306}{}{Macaco? Deve ser o DNA do gato falando. Isso Ã© tudo que eu preciso saber por enquanto.}
+{310}{}{Desde que vocÃª estava no exÃ©rcito, vocÃª acha que vocÃª pode me ensinar qualquer coisa?}
+{311}{}{Talvez eu possa ensinar uma ou duas coisas sobre armas de energia e outras grandes armas. Agora vocÃª precisa lembrar ...}
 {312}{}{[Continuar.]}
-{313}{}{Ai está. Isso deve ajudá-lo a derreter esses mutantes que se interpõem no seu caminho.}
+{313}{}{Ai estÃ¡. Isso deve ajudÃ¡-lo a derreter esses mutantes que se interpÃµem no seu caminho.}
 {314}{}{Obrigado.}
-{390}{}{Você está pronto para me levar com você?}
-{391}{}{Vamos lá.}
-{392}{}{Não, ainda não.}
+{390}{}{VocÃª estÃ¡ pronto para me levar com vocÃª?}
+{391}{}{Vamos lÃ¡.}
+{392}{}{NÃ£o, ainda nÃ£o.}
 {400}{}{Precisa de algo?}
-{401}{}{Como pode o Gato estar a serviço?}
+{401}{}{Como pode o Gato estar a serviÃ§o?}
 {402}{}{Sim?}
-{410}{}{O que você precisa saber?}
+{410}{}{O que vocÃª precisa saber?}
 {411}{}{Bem, fui treinado para usar as coisas militares habituais. Rifles, pistolas, SMGs e similares. Eu prefiro as armas laser
-  e o gosto melhor. Esses têm estilo! Mas se você me der um punho de bronze ou um desses punhos de poder,
-  Eu irei atacar qualquer bixo de patas planas antes que eles saibam o que os atingiu!}
-{421}{}{O que há de errado com isso?}
+Â  e o gosto melhor. Esses tÃªm estilo! Mas se vocÃª me der um punho de bronze ou um desses punhos de poder,
+Â  Eu irei atacar qualquer bixo de patas planas antes que eles saibam o que os atingiu!}
+{421}{}{O que hÃ¡ de errado com isso?}
 {422}{}{Bem. Eu tenho suas costas.}
 {423}{}{Bem por mim.}
 {424}{}{Eu trabalho melhor solo de qualquer maneira.}
-{430}{}{Eu não tenho muita paciência, então corra de volta.}
-{431}{}{Não sou fã de esperar. Não demore muito.}
+{430}{}{Eu nÃ£o tenho muita paciÃªncia, entÃ£o corra de volta.}
+{431}{}{NÃ£o sou fÃ£ de esperar. NÃ£o demore muito.}
 {440}{}{Temos de sair?}
-{441}{}{Chegou a hora de você voltar.}
-{450}{}{É bom estar em movimento novamente. Minhas pernas precisam se manter em movimento.}
-{451}{}{Já faz tempo que fizemos algo juntos novamente.}
+{441}{}{Chegou a hora de vocÃª voltar.}
+{450}{}{Ã‰ bom estar em movimento novamente. Minhas pernas precisam se manter em movimento.}
+{451}{}{JÃ¡ faz tempo que fizemos algo juntos novamente.}
 {460}{}{Claro, isso parece uma porcaria. Alguma coisa em azul?}
-{470}{}{Ok, mas isso é * minha * coisa brilhante. E se você tentar tirar isso de mim, talvez eu tenha que atirar em você.}
+{470}{}{Ok, mas isso Ã© * minha * coisa brilhante. E se vocÃª tentar tirar isso de mim, talvez eu tenha que atirar em vocÃª.}
 {480}{}{Eu estou me sentindo top de linha.}
-{481}{}{Apenas alguns arranhões, nada para se preocupar.}
-{482}{}{Eu vi pior no exército.}
-{483}{}{Ligue para um médico. Estou indo depressa.}
+{481}{}{Apenas alguns arranhÃµes, nada para se preocupar.}
+{482}{}{Eu vi pior no exÃ©rcito.}
+{483}{}{Ligue para um mÃ©dico. Estou indo depressa.}
 {484}{}{Estou sangrando de tudo agora ...}
-{490}{}{Jesus, seu feio. Você deve se verificar. Estou fora daqui.}
-{491}{}{Baby, você ficou realmente feio. Estou fora daqui.}
-{500}{}{Não me interpretem mal, é bom ficar juntos, mas você está levando isso um pouco longe demais. Volte quando você
-  tiver menos pessoas.}
-{501}{}{Não me interpretem mal, é bom ficar juntos, mas você está levando isso um pouco longe demais. Volte quando você
-  tiver menos pessoas. Agora, enquanto você está fazendo espaço, eu vou encontrar algumas roupas para vestir. [Olhando ao redor, pontos de Cat Jules
-  um armário, abre e olha para dentro.] Estes realmente não são meu estilo, mas acho que eles vão fazer. [Ele rapidamente coloca a roupa.]
-  Tudo bem, avise-me quando estiver pronto.}
+{490}{}{Jesus, seu feio. VocÃª deve se verificar. Estou fora daqui.}
+{491}{}{Baby, vocÃª ficou realmente feio. Estou fora daqui.}
+{500}{}{NÃ£o me interpretem mal, Ã© bom ficar juntos, mas vocÃª estÃ¡ levando isso um pouco longe demais. Volte quando vocÃª
+Â  tiver menos pessoas.}
+{501}{}{NÃ£o me interpretem mal, Ã© bom ficar juntos, mas vocÃª estÃ¡ levando isso um pouco longe demais. Volte quando vocÃª
+Â  tiver menos pessoas. Agora, enquanto vocÃª estÃ¡ fazendo espaÃ§o, eu vou encontrar algumas roupas para vestir. [Olhando ao redor, pontos de Cat Jules
+Â  um armÃ¡rio, abre e olha para dentro.] Estes realmente nÃ£o sÃ£o meu estilo, mas acho que eles vÃ£o fazer. [Ele rapidamente coloca a roupa.]
+Â  Tudo bem, avise-me quando estiver pronto.}
 {510}{}{Eu comi peixe ruim ou algo assim? Eu me sinto envenenado.}
-{520}{}{Eu sinto que estou derretendo aqui. Deve ser envenenamento por radiação.}
-{530}{}{Como você espera que eu realize o meu melhor com esse membro quebrado?}
+{520}{}{Eu sinto que estou derretendo aqui. Deve ser envenenamento por radiaÃ§Ã£o.}
+{530}{}{Como vocÃª espera que eu realize o meu melhor com esse membro quebrado?}
 {540}{}{Quem viu as luzes? Eu acho que tem algo errado com os meus olhos.}
 {600}{}{Alguns dizem que eu sou um cara bem superficial, mas um cara superficial com um belo traseiro.}
-{601}{}{No exército, sempre foi: "Gato faz isso. Gato faz aquilo". O que eu sou um cachorro?}
-{602}{}{[cantando] Porque você me faz amarrar a língua, língua amarrada ... [cantando]}
+{601}{}{No exÃ©rcito, sempre foi: "Gato faz isso. Gato faz aquilo". O que eu sou um cachorro?}
+{602}{}{[cantando] Porque vocÃª me faz amarrar a lÃ­ngua, lÃ­ngua amarrada ... [cantando]}
 {700}{}{SENHORAS! Senhoras, uma de cada VEZ, por favor!}
-{710}{}{Eu tenho um nariz para problemas, e está indo como uma sirene de ataque nuclear!}
-{720}{}{Mineração de OURO? Isso é onde eles desenterram as coisas brilhantes?}
-{730}{}{Eu pensei que nós estávamos saindo para o bem?}
-{800}{}{Eu tive o suficiente de lunáticos inteligentes! Podemos deixar este pequeno idiota gorduroso?}
-{810}{}{Qual é o osso, Neanderthal?}
-{820}{}{Menos eu não acabei como VOCÊ, Lenny!}
-{830}{}{Pelo menos não acabei como VOCÊ, Marcus!}
-{2900}{}{Eu preciso colocar roupas primeiro. [Olhando ao redor, Cat pega um armário, abre e olha para dentro.]
-  Estes realmente não são o meu estilo, mas acho que eles vão servir. [Ele rapidamente coloca a roupa.] Tudo bem, eu estou bem para ir.}
+{710}{}{Eu tenho um nariz para problemas, e estÃ¡ indo como uma sirene de ataque nuclear!}
+{720}{}{MineraÃ§Ã£o de OURO? Isso Ã© onde eles desenterram as coisas brilhantes?}
+{730}{}{Eu pensei que nÃ³s estÃ¡vamos saindo para o bem?}
+{800}{}{Eu tive o suficiente de lunÃ¡ticos inteligentes! Podemos deixar este pequeno idiota gorduroso?}
+{810}{}{Qual Ã© o osso, Neanderthal?}
+{820}{}{Menos eu nÃ£o acabei como VOCÃŠ, Lenny!}
+{830}{}{Pelo menos nÃ£o acabei como VOCÃŠ, Marcus!}
+{2900}{}{Eu preciso colocar roupas primeiro. [Olhando ao redor, Cat pega um armÃ¡rio, abre e olha para dentro.]
+Â  Estes realmente nÃ£o sÃ£o o meu estilo, mas acho que eles vÃ£o servir. [Ele rapidamente coloca a roupa.] Tudo bem, eu estou bem para ir.}
 {2901}{}{[FIM]}
-{5000}{}{[O homem ergue-se e se seca como um animal molhado. Enquanto ele olha para você, seus olhos de repente ficam muito abertos e ele começa a ofegar pelo ar.]}
+{5000}{}{[O homem ergue-se e se seca como um animal molhado. Enquanto ele olha para vocÃª, seus olhos de repente ficam muito abertos e ele comeÃ§a a ofegar pelo ar.]}
 {5001}{}{[FIM]}
 {5002}{}{Puta merda!}

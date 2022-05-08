@@ -1,19 +1,19 @@
-{100}{}{Egy izmos fickó, hordónyi mellkassal.}
-{101}{}{Ez Hal, a brahmin-terel?k kapitánya.}
-{102}{}{Valamit rágcsál, és csak remélheted, hogy nem fogja felédköpni, mert b?zlik, mint a rosseb.}
-{103}{}{A terelés miatt vagy itt?}
+{100}{}{Egy izmos fickÃ³, hordÃ³nyi mellkassal.}
+{101}{}{Ez Hal, a brahmin-terel?k kapitÃ¡nya.}
+{102}{}{Valamit rÃ¡gcsÃ¡l, Ã©s csak remÃ©lheted, hogy nem fogja felÃ©dkÃ¶pni, mert b?zlik, mint a rosseb.}
+{103}{}{A terelÃ©s miatt vagy itt?}
 {104}{}{}
 {105}{}{Igen.}
 {106}{}{Nem.}
 {107}{}{Tartsd nyitva a szemed!}
 {108}{}{Stay together men!}
 {109}{}{Keep it up boys.}
-{110}{}{Remek. Guruljunk ki. Irány Redding, fiúk!}
-{111}{}{Hát akkor, hagyj békén! Ötszáz útnak indítandó brahmin vár rám.}
-{112}{}{Már megint te vagy? Menj innen!}
-{113}{}{Hát, ez jó nagy szar volt! Attól tartok, egyikünk sem fog pénzt látni ezért a menetért. Légy boldog, hogy egyáltalán élsz.}
-{114}{}{Hát, a farmerek egyike sem lesz túl boldog... ez csak egy 1000 dolláros menet volt. Ráadásul csakis a szerencsének köszönhetjük.}
+{110}{}{Remek. Guruljunk ki. IrÃ¡ny Redding, fiÃºk!}
+{111}{}{HÃ¡t akkor, hagyj bÃ©kÃ©n! Ã–tszÃ¡z Ãºtnak indÃ­tandÃ³ brahmin vÃ¡r rÃ¡m.}
+{112}{}{MÃ¡r megint te vagy? Menj innen!}
+{113}{}{HÃ¡t, ez jÃ³ nagy szar volt! AttÃ³l tartok, egyikÃ¼nk sem fog pÃ©nzt lÃ¡tni ezÃ©rt a menetÃ©rt. LÃ©gy boldog, hogy egyÃ¡ltalÃ¡n Ã©lsz.}
+{114}{}{HÃ¡t, a farmerek egyike sem lesz tÃºl boldog... ez csak egy 1000 dollÃ¡ros menet volt. RÃ¡adÃ¡sul csakis a szerencsÃ©nek kÃ¶szÃ¶nhetjÃ¼k.}
 {115}{}{Well, we had little string of bad luck but did all right. Here's the $2000 you signed on for.}
-{116}{}{Szent szar, ezt baromi jól csináltuk! 1000 dollár bónusz illet téged. A 2000 dollár mellé jól fog jönni. Ma kifordítjuk Reddinget a négy sarkából!}
-{117}{}{Mostantól magadra vagy utalva. Jó volt együtt utazni.}
+{116}{}{Szent szar, ezt baromi jÃ³l csinÃ¡ltuk! 1000 dollÃ¡r bÃ³nusz illet tÃ©ged. A 2000 dollÃ¡r mellÃ© jÃ³l fog jÃ¶nni. Ma kifordÃ­tjuk Reddinget a nÃ©gy sarkÃ¡bÃ³l!}
+{117}{}{MostantÃ³l magadra vagy utalva. JÃ³ volt egyÃ¼tt utazni.}
 {118}{}{You're the worst excuse for a guard I've ever seen. Get the hell out of here.}

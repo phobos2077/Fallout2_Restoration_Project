@@ -1,19 +1,19 @@
-{100}{}{Widzisz mê¿czyznê w pancerzu bojowym.}
-{101}{}{Widzisz kobietê w pancerzu bojowym.}
-{102}{}{Ten mê¿czyzna nosi odznakê Stra¿nika RNK.}
-{103}{}{Ta kobieta nosi odznakê Stra¿nika RNK.}
-{200}{}{Witaj Stra¿niku. Chcesz tu spêdziæ noc?}
-{201}{}{Uda³o ci siê dzisiaj zabiæ jakichœ ³owców niewolników?}
-{202}{}{Uwolniliœmy dzisiaj tuzin niewolników.}
-{203}{}{Ochrona pustkowi to ciê¿ka praca, ale ktoœ to musi robiæ.}
-{204}{}{Dobrze ciê mieæ po naszej stronie. Zostañ tu jak d³ugo zechcesz.}
-{205}{}{S³yszeliœmy co siê sta³o z Metzgerem. Œwietna robota!}
-{300}{}{£owcy niewolników atakuj¹!}
-{301}{}{Cholera, zostaliœmy zaatakowani!}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™ w pancerzu bojowym.}
+{101}{}{Widzisz kobietÄ™ w pancerzu bojowym.}
+{102}{}{Ten mÄ™Å¼czyzna nosi odznakÄ™ StraÅ¼nika RNK.}
+{103}{}{Ta kobieta nosi odznakÄ™ StraÅ¼nika RNK.}
+{200}{}{Witaj StraÅ¼niku. Chcesz tu spÄ™dziÄ‡ noc?}
+{201}{}{UdaÅ‚o ci siÄ™ dzisiaj zabiÄ‡ jakichÅ› Å‚owcÃ³w niewolnikÃ³w?}
+{202}{}{UwolniliÅ›my dzisiaj tuzin niewolnikÃ³w.}
+{203}{}{Ochrona pustkowi to ciÄ™Å¼ka praca, ale ktoÅ› to musi robiÄ‡.}
+{204}{}{Dobrze ciÄ™ mieÄ‡ po naszej stronie. ZostaÅ„ tu jak dÅ‚ugo zechcesz.}
+{205}{}{SÅ‚yszeliÅ›my co siÄ™ staÅ‚o z Metzgerem. Åšwietna robota!}
+{300}{}{Åowcy niewolnikÃ³w atakujÄ…!}
+{301}{}{Cholera, zostaliÅ›my zaatakowani!}
 {400}{}{Pozdrawiamy.}
-{401}{}{To prywatna posiad³oœæ, nie w³ócz siê tu.}
-{402}{}{Lubisz ³owców niewolników? Mam nadziejê, ¿e nie... dla twojego dobra.}
-{500}{}{Co do...!? £owcy niewolników? Jak nas znaleŸli? Musimy siê broniæ. Do ataku!}
-{501}{}{Czekaj! Jestem po waszej stronie. Uda³o mi siê ich tu zwabiæ, bêdziecie mogli na nich poæwiczyæ strzelanie. (Zwracasz siê w stronê £owców Niewolników.) Przykro mi ch³opaki, macie pecha. (Zaatakuj ³owców niewolników.)}
-{502}{}{No, to dopiero bêdzie zabawa! (Zaatakuj Stra¿ników RNK.)}
-{600}{}{Uda³o ci siê oczyœciæ to miejsce ze Stra¿ników RNK.}
+{401}{}{To prywatna posiadÅ‚oÅ›Ä‡, nie wÅ‚Ã³cz siÄ™ tu.}
+{402}{}{Lubisz Å‚owcÃ³w niewolnikÃ³w? Mam nadziejÄ™, Å¼e nie... dla twojego dobra.}
+{500}{}{Co do...!? Åowcy niewolnikÃ³w? Jak nas znaleÅºli? Musimy siÄ™ broniÄ‡. Do ataku!}
+{501}{}{Czekaj! Jestem po waszej stronie. UdaÅ‚o mi siÄ™ ich tu zwabiÄ‡, bÄ™dziecie mogli na nich poÄ‡wiczyÄ‡ strzelanie. (Zwracasz siÄ™ w stronÄ™ ÅowcÃ³w NiewolnikÃ³w.) Przykro mi chÅ‚opaki, macie pecha. (Zaatakuj Å‚owcÃ³w niewolnikÃ³w.)}
+{502}{}{No, to dopiero bÄ™dzie zabawa! (Zaatakuj StraÅ¼nikÃ³w RNK.)}
+{600}{}{UdaÅ‚o ci siÄ™ oczyÅ›ciÄ‡ to miejsce ze StraÅ¼nikÃ³w RNK.}

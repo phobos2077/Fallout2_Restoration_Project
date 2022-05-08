@@ -1,54 +1,54 @@
-{100}{}{Tu vois le propriétaire du magasin.}
+{100}{}{Tu vois le propriÃ©taire du magasin.}
 {101}{}{Tu vois Dodu.}
-{150}{}{Voici le propriétaire du magasin.}
-{151}{}{Voici Dodu, le propriétaire du magasin.}
+{150}{}{Voici le propriÃ©taire du magasin.}
+{151}{}{Voici Dodu, le propriÃ©taire du magasin.}
 {152}{}{[PARLER]}
 {153}{}{J'aimerais mieux que t'ailles faire tes affaires ailleurs.}
 {154}{}{T'es un homme d'affaires. Alors, parlons affaires.}
 {155}{}{Je peux te demander quelque chose.}
 {156}{}{Salut.}
 {157}{}{Je suis tellement content de te revoir. Je peux faire quelque chose pour toi aujourd'hui ?}
-{158}{}{Faisons un échange.}
+{158}{}{Faisons un Ã©change.}
 {159}{}{Je peux te poser une question.}
 {160}{}{Rien pour le moment. Salut.}
-{161}{}{Bonjour Monsieur, et bienvenu chez Dodu. Je suis le propriétaire. Je peux vous aider ?}
+{161}{}{Bonjour Monsieur, et bienvenu chez Dodu. Je suis le propriÃ©taire. Je peux vous aider ?}
 {162}{}{Oui, faisons du business.}
 {163}{}{J'aimerais quelques renseignements.}
 {164}{}{Salut.}
-{165}{}{Bonjour Madame. Mes amis m'appellent Dodu. Je vous souhaite la bienvenue dans mon magasin. Que désirez-vous ?}
-{166}{}{J'ai des choses à acheter.}
+{165}{}{Bonjour Madame. Mes amis m'appellent Dodu. Je vous souhaite la bienvenue dans mon magasin. Que dÃ©sirez-vous ?}
+{166}{}{J'ai des choses Ã  acheter.}
 {167}{}{J'aimerais quelques renseignements.}
 {168}{}{Salut.}
-{169}{}{Je préférerais que tu partes.}
+{169}{}{Je prÃ©fÃ©rerais que tu partes.}
 {170}{}{Salut.}
 {171}{}{Que veux-tu savoir ?}
 {172}{}{Qui est responsable de la ville ?}
 {173}{}{Pourquoi tout le monde vend-il des stimulants ?}
-{174}{}{Sais-tu où se trouve l'Abri ?}
+{174}{}{Sais-tu oÃ¹ se trouve l'Abri ?}
 {175}{}{Je voudrais faire du troc finalement.}
 {176}{}{Tant pis. Au revoir.}
-{177}{}{Ah, on risque d'avoir quelques problèmes de communication ! Fais *oui* avec la tête si tu veux bien échanger des marchandises.}
-{178}{}{[Faire oui de la tête]}
+{177}{}{Ah, on risque d'avoir quelques problÃ¨mes de communication ! Fais *oui* avec la tÃªte si tu veux bien Ã©changer des marchandises.}
+{178}{}{[Faire oui de la tÃªte]}
 {179}{}{Salut.}
-{180}{}{Personne. La Fosse est un lieu anarchique où se livre une espèce de combat darwinien. Seuls les plus forts, les plus rapides ou les plus intelligents survivent ici. J'ai la certitude que tu trouveras ta place.}
+{180}{}{Personne. La Fosse est un lieu anarchique oÃ¹ se livre une espÃ¨ce de combat darwinien. Seuls les plus forts, les plus rapides ou les plus intelligents survivent ici. J'ai la certitude que tu trouveras ta place.}
 {181}{}{Hum, merci.}
-{182}{}{Alors... Les stimulants sont au centre du système économique de cette ville. D'autres villes ont des céréales ou de l'or. Redding est un autre exemple de ville qui carbure à la drogue. Les gars de la mine sont trop shootés pour faire leur boulot correctement. Je n'y suis jamais allé moi-même, mais c'est à quelques jours d'ici au Sud-Est si tu veux aller voir.}
+{182}{}{Alors... Les stimulants sont au centre du systÃ¨me Ã©conomique de cette ville. D'autres villes ont des cÃ©rÃ©ales ou de l'or. Redding est un autre exemple de ville qui carbure Ã  la drogue. Les gars de la mine sont trop shootÃ©s pour faire leur boulot correctement. Je n'y suis jamais allÃ© moi-mÃªme, mais c'est Ã  quelques jours d'ici au Sud-Est si tu veux aller voir.}
 {183}{}{Merci.}
-{184}{}{J'ai entendu parler de la Cité de l'Abri. Malheureusement, je ne sais pas comment on s'y rend. La plupart de nos villes n'offrent rien d'acceptable en échange des services médicaux qu'ils fournissent, alors beaucoup ne sont jamais allés là-bas.}
+{184}{}{J'ai entendu parler de la CitÃ© de l'Abri. Malheureusement, je ne sais pas comment on s'y rend. La plupart de nos villes n'offrent rien d'acceptable en Ã©change des services mÃ©dicaux qu'ils fournissent, alors beaucoup ne sont jamais allÃ©s lÃ -bas.}
 {185}{}{D'accord. Merci.}
-{186}{}{Ce n'est pas le genre de renseignement que je DONNE comme ça à n'importe qui !}
-{187}{}{Une centaine de dollars, ça te ferait changer d'avis ?}
+{186}{}{Ce n'est pas le genre de renseignement que je DONNE comme Ã§a Ã  n'importe qui !}
+{187}{}{Une centaine de dollars, Ã§a te ferait changer d'avis ?}
 {188}{}{Je te donne $50 et tu me le dis.}
-{189}{}{A toi de voir, tu me donnes ces renseignements ou je fais un trou dans ta jolie tête.}
+{189}{}{A toi de voir, tu me donnes ces renseignements ou je fais un trou dans ta jolie tÃªte.}
 {190}{}{Laisse tomber.}
 {191}{}{Eh bien, je peux te poser une autre question ?}
-{192}{}{Bien sûr. Cet argent POURRAIT me faire changer d'avis. Mais tu l'as pas !}
-{193}{}{J'ai dû le laisser tomber quelque part. Je vais le chercher.}
-{194}{}{Je ne crois pas que ça sera assez.}
-{500}{}{Bien sûr, Pierrot. Je suis à toi dans une seconde.}
+{192}{}{Bien sÃ»r. Cet argent POURRAIT me faire changer d'avis. Mais tu l'as pas !}
+{193}{}{J'ai dÃ» le laisser tomber quelque part. Je vais le chercher.}
+{194}{}{Je ne crois pas que Ã§a sera assez.}
+{500}{}{Bien sÃ»r, Pierrot. Je suis Ã  toi dans une seconde.}
 {501}{}{Attends, Pierrot.}
 {502}{}{Je viens, je viens.}
-{510}{}{Et voilà, Pierrot.}
-{511}{}{Tu sais, Pierrot, tu devrais arrêter les stimulants.}
-{512}{}{Tiens Pierrot, prends ça et fiche-moi le camp d'ici.}
-{520}{}{Ce fût un plaisir.}
+{510}{}{Et voilÃ , Pierrot.}
+{511}{}{Tu sais, Pierrot, tu devrais arrÃªter les stimulants.}
+{512}{}{Tiens Pierrot, prends Ã§a et fiche-moi le camp d'ici.}
+{520}{}{Ce fÃ»t un plaisir.}

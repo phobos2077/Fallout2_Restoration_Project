@@ -1,15 +1,15 @@
-{100}{}{Sólo otro guardia. Alguien debe de criarlos, porque parecen todos iguales.}
-{101}{}{Nada más que otro guardia. Seguramente no le gustas.}
+{100}{}{SÃ³lo otro guardia. Alguien debe de criarlos, porque parecen todos iguales.}
+{101}{}{Nada mÃ¡s que otro guardia. Seguramente no le gustas.}
 {102}{}{Le observas detenidamente y te convences de que es un guardia.}
-{103}{}{No estás autorizado a estar aquí.}
-{104}{}{¿Puedo ver tu pase?}
+{103}{}{No estÃ¡s autorizado a estar aquÃ­.}
+{104}{}{Â¿Puedo ver tu pase?}
 {105}{}{Esto es propiedad gubernamental. Circula, forastera.}
-{106}{}{¿Eres por quien ha preguntado Merk? Está bien, dejadle pasar, muchachos.}
+{106}{}{Â¿Eres por quien ha preguntado Merk? EstÃ¡ bien, dejadle pasar, muchachos.}
 {107}{}{Esto lo verifica. Apartaos, chicos.}
-{108}{}{De acuerdo, estás limpia. Abrid la puerta, chicos.}
-{109}{}{¿Eres por quien ha preguntado Merk? Está bien, dejadle pasar, muchachos.}
+{108}{}{De acuerdo, estÃ¡s limpia. Abrid la puerta, chicos.}
+{109}{}{Â¿Eres por quien ha preguntado Merk? EstÃ¡ bien, dejadle pasar, muchachos.}
 {110}{}{Estoy de servicio. No tengo tiempo para socializar.}
 {111}{}{Oye, bonito calzado.}
-{112}{}{Deberías ocuparte de tus asuntos.}
-{113}{}{Ahí está usted, señor. Que tengan un buen día.}
+{112}{}{DeberÃ­as ocuparte de tus asuntos.}
+{113}{}{AhÃ­ estÃ¡ usted, seÃ±or. Que tengan un buen dÃ­a.}
 {114}{}{Ha habido un incidente. Se mueven a lo largo.}

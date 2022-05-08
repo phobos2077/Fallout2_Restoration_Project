@@ -1,9 +1,9 @@
-{100}{}{Tu vois un petit garçon.}
+{100}{}{Tu vois un petit garÃ§on.}
 {101}{}{Une petite fille.}
 {200}{}{Quand est-ce qu'on arrive ?}
 {201}{}{J'ai sommeil.}
 {202}{}{Tu me porteras ?}
-{203}{}{Je n'ai pas le droit de parler aux étrangers.}
+{203}{}{Je n'ai pas le droit de parler aux Ã©trangers.}
 {204}{}{Maman et papa vont venir.}
 {205}{}{Tu as vu mon caillou brillant ?}
 {206}{}{Tu joues avec moi ?}

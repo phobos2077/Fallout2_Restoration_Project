@@ -1,3 +1,3 @@
-{100}{}{Tu ne trouves rien d'intéressant dans la poubelle. Peut-être que si tu savais quoi chercher...}
-{101}{}{Il n'y a rien d'intéressant ici.}
-{102}{}{Tu trouves une feuille de papier froissée avec un  mot de passe noté dessus.}
+{100}{}{Tu ne trouves rien d'intÃ©ressant dans la poubelle. Peut-Ãªtre que si tu savais quoi chercher...}
+{101}{}{Il n'y a rien d'intÃ©ressant ici.}
+{102}{}{Tu trouves une feuille de papier froissÃ©e avec un  mot de passe notÃ© dessus.}

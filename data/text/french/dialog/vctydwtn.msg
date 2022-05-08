@@ -1,1 +1,1 @@
-{100}{}{Tu entres dans le centre-ville de la Cité de l'Abri.}
+{100}{}{Tu entres dans le centre-ville de la CitÃ© de l'Abri.}

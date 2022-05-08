@@ -1,97 +1,97 @@
 {100}{}{Er?}
-{101}{}{Érzékelés}
-{102}{}{Kitartás}
+{101}{}{Ã‰rzÃ©kelÃ©s}
+{102}{}{KitartÃ¡s}
 {103}{}{Karizma}
 {104}{}{Intelligencia}
-{105}{}{Ügyesség}
+{105}{}{ÃœgyessÃ©g}
 {106}{}{Szerencse}
-{107}{}{Maximum Életpont}
-{108}{}{Maximum Akciópont}
-{109}{}{Védelmi érték}
-{110}{}{Pusztakezes sebzés}
-{111}{}{Közelharci sebzés}
-{112}{}{Teherbírás}
-{113}{}{Reakció}
-{114}{}{Regenerálódás}
-{115}{}{Kritikus esélye}
-{116}{}{Jobb kritikus sebzés}
-{117}{}{Sebzésküszöb}
-{118}{}{Sebzésküszöb: Lézer}
-{119}{}{Sebzésküszöb: T?z}
-{120}{}{Sebzésküszöb: Plazma}
-{121}{}{Sebzésküszöb: Elektromos}
-{122}{}{Sebzésküszöb: EMP}
-{123}{}{Sebzésküszöb: Robbanó}
-{124}{}{Sebzésellenállás}
-{125}{}{Sebzésellenállás: Lézer}
-{126}{}{Sebzésellenállás: T?z}
-{127}{}{Sebzésellenállás: Plazma}
-{128}{}{Sebzésellenállás: Elektromos}
-{129}{}{Sebzésellenállás: EMP}
-{130}{}{Sebzésellenállás: Robbanó}
-{131}{}{Sugárzás-ellenállás}
-{132}{}{Méregellenállás}
+{107}{}{Maximum Ã‰letpont}
+{108}{}{Maximum AkciÃ³pont}
+{109}{}{VÃ©delmi Ã©rtÃ©k}
+{110}{}{Pusztakezes sebzÃ©s}
+{111}{}{KÃ¶zelharci sebzÃ©s}
+{112}{}{TeherbÃ­rÃ¡s}
+{113}{}{ReakciÃ³}
+{114}{}{RegenerÃ¡lÃ³dÃ¡s}
+{115}{}{Kritikus esÃ©lye}
+{116}{}{Jobb kritikus sebzÃ©s}
+{117}{}{SebzÃ©skÃ¼szÃ¶b}
+{118}{}{SebzÃ©skÃ¼szÃ¶b: LÃ©zer}
+{119}{}{SebzÃ©skÃ¼szÃ¶b: T?z}
+{120}{}{SebzÃ©skÃ¼szÃ¶b: Plazma}
+{121}{}{SebzÃ©skÃ¼szÃ¶b: Elektromos}
+{122}{}{SebzÃ©skÃ¼szÃ¶b: EMP}
+{123}{}{SebzÃ©skÃ¼szÃ¶b: RobbanÃ³}
+{124}{}{SebzÃ©sellenÃ¡llÃ¡s}
+{125}{}{SebzÃ©sellenÃ¡llÃ¡s: LÃ©zer}
+{126}{}{SebzÃ©sellenÃ¡llÃ¡s: T?z}
+{127}{}{SebzÃ©sellenÃ¡llÃ¡s: Plazma}
+{128}{}{SebzÃ©sellenÃ¡llÃ¡s: Elektromos}
+{129}{}{SebzÃ©sellenÃ¡llÃ¡s: EMP}
+{130}{}{SebzÃ©sellenÃ¡llÃ¡s: RobbanÃ³}
+{131}{}{SugÃ¡rzÃ¡s-ellenÃ¡llÃ¡s}
+{132}{}{MÃ©regellenÃ¡llÃ¡s}
 {133}{}{Kor}
 {134}{}{Nem}
-{135}{}{Pillanatnyi Életpontok}
-{136}{}{Pillanatnyi Méreg szint}
-{137}{}{Pillanatnyi Sugárzás szint}
-{200}{}{Nyers fizikai er?. A magas Er? érték jól jön a testi erejükben bízó karaktereknek. Kihat az Életpontokra, a Közelharci sebzésre, és a Teherbírás értékekre.}
-{201}{}{Látás, hallás, ízlelés, és szokatlan dolgok észrevétele. Fontos képesség a mesterlövészek számára. Befolyásolja a Reakciót és a távolsági harc távmódosítóit.}
-{202}{}{Kitartás és állóképesség. Módosítja az Életpontokat, a Méreg- és Sugárzásellenállást, a Regenerálódást, és a szintenként kapott Életpontok számát.}
-{203}{}{Megjelenés és vonzer? kombinációja. Magas Karizma érték szükségeltetik azoknak, akik szavakkal akarnak befolyásolni másokat. Hatással van az NJK-k reagálására és az árakra.}
-{204}{}{Tudás, bölcsesség, és a gyors gondolkodás. Magas Intelligenciára mindenkinek szüksége van. Módosítja a szintenként kapott Képzettség pontok számát, a párbeszédeket és sok egyéb képzettséget.}
+{135}{}{Pillanatnyi Ã‰letpontok}
+{136}{}{Pillanatnyi MÃ©reg szint}
+{137}{}{Pillanatnyi SugÃ¡rzÃ¡s szint}
+{200}{}{Nyers fizikai er?. A magas Er? Ã©rtÃ©k jÃ³l jÃ¶n a testi erejÃ¼kben bÃ­zÃ³ karaktereknek. Kihat az Ã‰letpontokra, a KÃ¶zelharci sebzÃ©sre, Ã©s a TeherbÃ­rÃ¡s Ã©rtÃ©kekre.}
+{201}{}{LÃ¡tÃ¡s, hallÃ¡s, Ã­zlelÃ©s, Ã©s szokatlan dolgok Ã©szrevÃ©tele. Fontos kÃ©pessÃ©g a mesterlÃ¶vÃ©szek szÃ¡mÃ¡ra. BefolyÃ¡solja a ReakciÃ³t Ã©s a tÃ¡volsÃ¡gi harc tÃ¡vmÃ³dosÃ­tÃ³it.}
+{202}{}{KitartÃ¡s Ã©s Ã¡llÃ³kÃ©pessÃ©g. MÃ³dosÃ­tja az Ã‰letpontokat, a MÃ©reg- Ã©s SugÃ¡rzÃ¡sellenÃ¡llÃ¡st, a RegenerÃ¡lÃ³dÃ¡st, Ã©s a szintenkÃ©nt kapott Ã‰letpontok szÃ¡mÃ¡t.}
+{203}{}{MegjelenÃ©s Ã©s vonzer? kombinÃ¡ciÃ³ja. Magas Karizma Ã©rtÃ©k szÃ¼ksÃ©geltetik azoknak, akik szavakkal akarnak befolyÃ¡solni mÃ¡sokat. HatÃ¡ssal van az NJK-k reagÃ¡lÃ¡sÃ¡ra Ã©s az Ã¡rakra.}
+{204}{}{TudÃ¡s, bÃ¶lcsessÃ©g, Ã©s a gyors gondolkodÃ¡s. Magas IntelligenciÃ¡ra mindenkinek szÃ¼ksÃ©ge van. MÃ³dosÃ­tja a szintenkÃ©nt kapott KÃ©pzettsÃ©g pontok szÃ¡mÃ¡t, a pÃ¡rbeszÃ©deket Ã©s sok egyÃ©b kÃ©pzettsÃ©get.}
 {205}{}{Coordination and the ability to move well. A high Agility is important for any active character. Modifies: Action Points, Armor Class, and many skills.}
-{206}{}{Sors. Karma. A nagyon magas, vagy nagyon alacsony Szerencse valamiképp befolyásolja a karaktert. Események vagy szituációk változhatnak meg annak a fényében, hogy karaktered milyen szerencsés (vagy szerencsétlen).}
-{207}{}{Megmutatja, hogy mennyi sebzést bír ki a karaktered, miel?tt meghalna. Ha 0 vagy kevesebb az ÉP-d, akkor halott vagy.}
-{208}{}{Az akciók száma, amit a karaktered egy harci kör során meg tud tenni.}
-{209}{}{Annak az esélyét befolyásolja, hogy a karaktert eltalálják-e vagy sem.}
-{210}{}{Az a bónusz sebzés, amit a karaktered pusztakezes harcban okoz.}
-{211}{}{Az a bónusz sebzés, amit a karaktered pusztakezes harcban okoz.}
-{212}{}{A maximum teher, amit a karaktered elbír (fontban mérve).}
-{213}{}{Megadja, hogy harcban mikor következik a karaktered.}
-{214}{}{Minden nap végén annyit gyógyul a karaktered, amennyi a Regenerálódás értéke. Pihenéskor hat óránként gyógyulsz.}
-{215}{}{Harc közben a kritikus sebzés esélye ezzel az értékkel növekszik.}
-{216}{}{Jobb kritikus sebzés}
-{217}{}{Sebzésküszöb}
-{218}{}{Sebzésküszöb: Lézer}
-{219}{}{Sebzésküszöb: T?z}
-{220}{}{Sebzésküszöb: Plazma}
-{221}{}{Sebzésküszöb: Elektromos}
-{222}{}{Sebzésküszöb: EMP}
-{223}{}{Sebzésküszöb: Robbanó}
-{224}{}{Minden elszenvedett sebz?dés ezzel az értékkel csökken. A Sebzésellenállást páncél viselésével növelheted.}
-{225}{}{Sebzésellenállás: Lézer}
-{226}{}{Sebzésellenállás: T?z}
-{227}{}{Sebzésellenállás: Plazma}
-{228}{}{Sebzésellenállás: Elektromos}
-{229}{}{Sebzésellenállás: EMP}
-{230}{}{Sebzésellenállás: Robbanó}
+{206}{}{Sors. Karma. A nagyon magas, vagy nagyon alacsony Szerencse valamikÃ©pp befolyÃ¡solja a karaktert. EsemÃ©nyek vagy szituÃ¡ciÃ³k vÃ¡ltozhatnak meg annak a fÃ©nyÃ©ben, hogy karaktered milyen szerencsÃ©s (vagy szerencsÃ©tlen).}
+{207}{}{Megmutatja, hogy mennyi sebzÃ©st bÃ­r ki a karaktered, miel?tt meghalna. Ha 0 vagy kevesebb az Ã‰P-d, akkor halott vagy.}
+{208}{}{Az akciÃ³k szÃ¡ma, amit a karaktered egy harci kÃ¶r sorÃ¡n meg tud tenni.}
+{209}{}{Annak az esÃ©lyÃ©t befolyÃ¡solja, hogy a karaktert eltalÃ¡ljÃ¡k-e vagy sem.}
+{210}{}{Az a bÃ³nusz sebzÃ©s, amit a karaktered pusztakezes harcban okoz.}
+{211}{}{Az a bÃ³nusz sebzÃ©s, amit a karaktered pusztakezes harcban okoz.}
+{212}{}{A maximum teher, amit a karaktered elbÃ­r (fontban mÃ©rve).}
+{213}{}{Megadja, hogy harcban mikor kÃ¶vetkezik a karaktered.}
+{214}{}{Minden nap vÃ©gÃ©n annyit gyÃ³gyul a karaktered, amennyi a RegenerÃ¡lÃ³dÃ¡s Ã©rtÃ©ke. PihenÃ©skor hat Ã³rÃ¡nkÃ©nt gyÃ³gyulsz.}
+{215}{}{Harc kÃ¶zben a kritikus sebzÃ©s esÃ©lye ezzel az Ã©rtÃ©kkel nÃ¶vekszik.}
+{216}{}{Jobb kritikus sebzÃ©s}
+{217}{}{SebzÃ©skÃ¼szÃ¶b}
+{218}{}{SebzÃ©skÃ¼szÃ¶b: LÃ©zer}
+{219}{}{SebzÃ©skÃ¼szÃ¶b: T?z}
+{220}{}{SebzÃ©skÃ¼szÃ¶b: Plazma}
+{221}{}{SebzÃ©skÃ¼szÃ¶b: Elektromos}
+{222}{}{SebzÃ©skÃ¼szÃ¶b: EMP}
+{223}{}{SebzÃ©skÃ¼szÃ¶b: RobbanÃ³}
+{224}{}{Minden elszenvedett sebz?dÃ©s ezzel az Ã©rtÃ©kkel csÃ¶kken. A SebzÃ©sellenÃ¡llÃ¡st pÃ¡ncÃ©l viselÃ©sÃ©vel nÃ¶velheted.}
+{225}{}{SebzÃ©sellenÃ¡llÃ¡s: LÃ©zer}
+{226}{}{SebzÃ©sellenÃ¡llÃ¡s: T?z}
+{227}{}{SebzÃ©sellenÃ¡llÃ¡s: Plazma}
+{228}{}{SebzÃ©sellenÃ¡llÃ¡s: Elektromos}
+{229}{}{SebzÃ©sellenÃ¡llÃ¡s: EMP}
+{230}{}{SebzÃ©sellenÃ¡llÃ¡s: RobbanÃ³}
 {231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation drugs.}
-{232}{}{Csökkenti a mérgek sebzését.}
+{232}{}{CsÃ¶kkenti a mÃ©rgek sebzÃ©sÃ©t.}
 {233}{}{Kor}
 {234}{}{Nem}
-{235}{}{Pillanatnyi Életpontok}
-{236}{}{Pillanatnyi Méreg szint}
-{237}{}{Pillanatnyi Sugárzás szint}
-{301}{}{Pocsék}
+{235}{}{Pillanatnyi Ã‰letpontok}
+{236}{}{Pillanatnyi MÃ©reg szint}
+{237}{}{Pillanatnyi SugÃ¡rzÃ¡s szint}
+{301}{}{PocsÃ©k}
 {302}{}{Rossz}
 {303}{}{Gyenge}
 {304}{}{Elmegy}
-{305}{}{Átlag}
-{306}{}{Jó}
+{305}{}{Ãtlag}
+{306}{}{JÃ³}
 {307}{}{Nyer?}
-{308}{}{Kiváló}
+{308}{}{KivÃ¡lÃ³}
 {309}{}{Tuti}
 {310}{}{H?sies}
-{400}{}{Fel nem használt Képzettség pontok}
+{400}{}{Fel nem hasznÃ¡lt KÃ©pzettsÃ©g pontok}
 {401}{}{Szint}
 {402}{}{Tapasztalat}
-{403}{}{Hírnév}
+{403}{}{HÃ­rnÃ©v}
 {404}{}{Karma}
 {500}{}{Points earned by going up a level. Can be used to increase a skill by 1%, or a tag skill by 2%, per point spent.}
-{501}{}{A karakter általános tudása, szakértelme. A tapasztalat és a képességek mércéje.}
+{501}{}{A karakter Ã¡ltalÃ¡nos tudÃ¡sa, szakÃ©rtelme. A tapasztalat Ã©s a kÃ©pessÃ©gek mÃ©rcÃ©je.}
 {502}{}{A reward for completing specific tasks, or defeating enemies in combat. More experience points are required to attain higher levels.}
-{503}{}{Ez jelzi, hogy a világ mit tud a cselekedeteidr?l. Befolyásolja az NJK-k veled szemben tanúsított reakcióit.}
-{504}{}{Tetteid következményeir?l itt olvashatsz b?vebben.}
-{600}{}{Szintet léptél.}
+{503}{}{Ez jelzi, hogy a vilÃ¡g mit tud a cselekedeteidr?l. BefolyÃ¡solja az NJK-k veled szemben tanÃºsÃ­tott reakciÃ³it.}
+{504}{}{Tetteid kÃ¶vetkezmÃ©nyeir?l itt olvashatsz b?vebben.}
+{600}{}{Szintet lÃ©ptÃ©l.}

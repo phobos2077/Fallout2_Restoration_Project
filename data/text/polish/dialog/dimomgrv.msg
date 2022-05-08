@@ -1,1 +1,1 @@
-{101}{}{Napis na nagrobku g≥osi: "Tamara Winslow".}
+{101}{}{Napis na nagrobku g≈Çosi: "Tamara Winslow".}

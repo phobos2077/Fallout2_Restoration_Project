@@ -1,78 +1,78 @@
-{100}{}{Ves a un niño pequeño.}
-{101}{}{Ves a una niña pequeña.}
-{120}{}{Ves a un niño pequeño. Parece bastante alegre.}
-{121}{}{Ves a una niña pequeña. Parece bastante alegre.}
-{150}{}{¡No me comas!}
-{151}{}{¡Eeeee! ¡El hombre del saco!}
+{100}{}{Ves a un niÃ±o pequeÃ±o.}
+{101}{}{Ves a una niÃ±a pequeÃ±a.}
+{120}{}{Ves a un niÃ±o pequeÃ±o. Parece bastante alegre.}
+{121}{}{Ves a una niÃ±a pequeÃ±a. Parece bastante alegre.}
+{150}{}{Â¡No me comas!}
+{151}{}{Â¡Eeeee! Â¡El hombre del saco!}
 {152}{}{Papi dice que eres malo.}
-{153}{}{¡Aieeee! ¡Corred!}
-{154}{}{Me estás dando miedo.}
+{153}{}{Â¡Aieeee! Â¡Corred!}
+{154}{}{Me estÃ¡s dando miedo.}
 {155}{}{Deja de mirarme.}
 {156}{}{Se supone que no debo de hablar con tribales.}
 {157}{}{Eres igual que los Dunton.}
-{158}{}{Mi mamá dice que me comerás si me porto mal.}
-{159}{}{¡No te tengo miedo!}
-{160}{}{¡Socorrroooo!}
-{161}{}{¡Va detrás de mí!}
-{162}{}{¡Por favor, no me hagas daño!}
-{163}{}{¡Aléjate de mí!}
-{164}{}{¡Eeeeeeeee!}
-{165}{}{¡Te odio!}
-{166}{}{¡Mami, mami, mami!}
-{167}{}{¡Déjame!}
-{168}{}{¡Tú apestas!}
+{158}{}{Mi mamÃ¡ dice que me comerÃ¡s si me porto mal.}
+{159}{}{Â¡No te tengo miedo!}
+{160}{}{Â¡Socorrroooo!}
+{161}{}{Â¡Va detrÃ¡s de mÃ­!}
+{162}{}{Â¡Por favor, no me hagas daÃ±o!}
+{163}{}{Â¡AlÃ©jate de mÃ­!}
+{164}{}{Â¡Eeeeeeeee!}
+{165}{}{Â¡Te odio!}
+{166}{}{Â¡Mami, mami, mami!}
+{167}{}{Â¡DÃ©jame!}
+{168}{}{Â¡TÃº apestas!}
 {170}{}{Hola a todos.}
-{171}{}{¿Quieres jugar a las casitas?}
-{172}{}{¿De verdad tienes un hueso en la nariz?}
-{173}{}{¿Por qué tienes esa pinta tan rara?}
-{174}{}{Mi mamá dice que eres un salvaje.}
-{175}{}{¿Los de tu tribu os coméis a la gente?}
-{176}{}{¿Quién te ha vestido tan raro?}
-{177}{}{Seguro que eres más majo de lo que pareces.}
-{178}{}{Vamos a jugar al pilla pilla. Tú la llevas.}
+{171}{}{Â¿Quieres jugar a las casitas?}
+{172}{}{Â¿De verdad tienes un hueso en la nariz?}
+{173}{}{Â¿Por quÃ© tienes esa pinta tan rara?}
+{174}{}{Mi mamÃ¡ dice que eres un salvaje.}
+{175}{}{Â¿Los de tu tribu os comÃ©is a la gente?}
+{176}{}{Â¿QuiÃ©n te ha vestido tan raro?}
+{177}{}{Seguro que eres mÃ¡s majo de lo que pareces.}
+{178}{}{Vamos a jugar al pilla pilla. TÃº la llevas.}
 {179}{}{No hueles tan mal.}
-{180}{}{¿Has visto a mi amigo invisible?}
-{181}{}{Quiero viajar por todo el mundo cuando sea mayor como tú.}
+{180}{}{Â¿Has visto a mi amigo invisible?}
+{181}{}{Quiero viajar por todo el mundo cuando sea mayor como tÃº.}
 {182}{}{Tu eres un tribal bueno, no como los otros.}
-{183}{}{Apuesto a que tú te bañas.}
-{184}{}{Eres más listo que Torr.}
-{185}{}{¿Ese cuchillo que tienes está afilado?}
-{186}{}{Quiero ser como tú cuando crezca.}
+{183}{}{Apuesto a que tÃº te baÃ±as.}
+{184}{}{Eres mÃ¡s listo que Torr.}
+{185}{}{Â¿Ese cuchillo que tienes estÃ¡ afilado?}
+{186}{}{Quiero ser como tÃº cuando crezca.}
 {187}{}{A mi perro le encanta la cecina.}
 {188}{}{Tengo una piedrecita brillante.}
-{189}{}{¿Has visto a mi amigo invisible?}
-{190}{}{¿Puedo unirme a tu tribu?}
+{189}{}{Â¿Has visto a mi amigo invisible?}
+{190}{}{Â¿Puedo unirme a tu tribu?}
 {191}{}{Eres majo.}
 {192}{}{Tienes una pinta muy rara.}
-{193}{}{¿Qué es lo que llevas puesto?}
-{194}{}{¡Quiero montar en brahmin!}
-{195}{}{¿Eres de muy lejos?}
-{196}{}{¡Siii! ¡Ja Ja Ja!}
-{197}{}{¡No te vayas!}
-{198}{}{¿Tienes algo de comida?}
-{199}{}{¿Te estoy molestando?}
-{200}{}{¿A dónde vas?}
-{201}{}{¿Puedo ir contigo?}
-{202}{}{¿Cuántos años tienes?}
-{203}{}{¿Cómo te llamas?}
-{204}{}{¿Te gustan los niños?}
-{205}{}{¿Qué es eso?}
-{206}{}{¿Quieres jugar?}
-{207}{}{¿Qué tas haciendo?}
-{208}{}{¿Has visto algún bicho?}
-{209}{}{¿Dónde conseguiste eso?}
-{210}{}{¿Puedo quedarme con eso?}
-{211}{}{¿Qué haces?}
-{212}{}{Corro muy rápido. ¿Quieres verlo?}
-{213}{}{¡Mirame! ¡Mírame!}
-{214}{}{Mamá dice que hablo sin parar.}
-{215}{}{¿Dónde está tu casa?}
-{216}{}{¡Eeeeh! ¡Eeeeeh!}
-{217}{}{¿Te vas a quedar aquí?}
-{218}{}{¿Tienes hijos?}
-{219}{}{¿Por qué has venido aquí?}
+{193}{}{Â¿QuÃ© es lo que llevas puesto?}
+{194}{}{Â¡Quiero montar en brahmin!}
+{195}{}{Â¿Eres de muy lejos?}
+{196}{}{Â¡Siii! Â¡Ja Ja Ja!}
+{197}{}{Â¡No te vayas!}
+{198}{}{Â¿Tienes algo de comida?}
+{199}{}{Â¿Te estoy molestando?}
+{200}{}{Â¿A dÃ³nde vas?}
+{201}{}{Â¿Puedo ir contigo?}
+{202}{}{Â¿CuÃ¡ntos aÃ±os tienes?}
+{203}{}{Â¿CÃ³mo te llamas?}
+{204}{}{Â¿Te gustan los niÃ±os?}
+{205}{}{Â¿QuÃ© es eso?}
+{206}{}{Â¿Quieres jugar?}
+{207}{}{Â¿QuÃ© tas haciendo?}
+{208}{}{Â¿Has visto algÃºn bicho?}
+{209}{}{Â¿DÃ³nde conseguiste eso?}
+{210}{}{Â¿Puedo quedarme con eso?}
+{211}{}{Â¿QuÃ© haces?}
+{212}{}{Corro muy rÃ¡pido. Â¿Quieres verlo?}
+{213}{}{Â¡Mirame! Â¡MÃ­rame!}
+{214}{}{MamÃ¡ dice que hablo sin parar.}
+{215}{}{Â¿DÃ³nde estÃ¡ tu casa?}
+{216}{}{Â¡Eeeeh! Â¡Eeeeeh!}
+{217}{}{Â¿Te vas a quedar aquÃ­?}
+{218}{}{Â¿Tienes hijos?}
+{219}{}{Â¿Por quÃ© has venido aquÃ­?}
 {220}{}{Me gustas.}
-{221}{}{¿Te gusto?}
-{222}{}{¿Estás casado?}
-{223}{}{Uno, dos, tres - ¡siii!}
-{300}{}{¡Extraño!}
+{221}{}{Â¿Te gusto?}
+{222}{}{Â¿EstÃ¡s casado?}
+{223}{}{Uno, dos, tres - Â¡siii!}
+{300}{}{Â¡ExtraÃ±o!}

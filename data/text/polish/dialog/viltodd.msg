@@ -1,18 +1,18 @@
-{100}{}{Widzisz wyj¹tkowo hiperaktywnego ch³opca.}
-{101}{}{Widzisz Ma³ego Todda.}
+{100}{}{Widzisz wyjÄ…tkowo hiperaktywnego chÅ‚opca.}
+{101}{}{Widzisz MaÅ‚ego Todda.}
 {200}{}{BUUM!!! Uwielbiam eksplozje!}
-{201}{}{Pif-paf! Strzelam do mutantów!}
-{202}{}{Chcia³bym zobaczyæ wiêcej eksplozji!}
-{203}{}{Wszystko powinno wybuchn¹æ!}
-{300}{}{Móg³by Pan coœ wysadziæ, proszê?}
-{301}{}{Kiedy dorosnê, bêdê rz¹dzi³ œwiatem!}
-{302}{}{Nie podoba mi siê tutaj, chcê siê przeprowadziæ na wschodnie wybrze¿e!}
-{303}{}{Moje ubrania s¹ magiczne!}
-{304}{}{Doroœli za du¿o mówi¹!}
+{201}{}{Pif-paf! Strzelam do mutantÃ³w!}
+{202}{}{ChciaÅ‚bym zobaczyÄ‡ wiÄ™cej eksplozji!}
+{203}{}{Wszystko powinno wybuchnÄ…Ä‡!}
+{300}{}{MÃ³gÅ‚by Pan coÅ› wysadziÄ‡, proszÄ™?}
+{301}{}{Kiedy dorosnÄ™, bÄ™dÄ™ rzÄ…dziÅ‚ Å›wiatem!}
+{302}{}{Nie podoba mi siÄ™ tutaj, chcÄ™ siÄ™ przeprowadziÄ‡ na wschodnie wybrzeÅ¼e!}
+{303}{}{Moje ubrania sÄ… magiczne!}
+{304}{}{DoroÅ›li za duÅ¼o mÃ³wiÄ…!}
 {305}{}{Bractwo Stali to rycerze pustkowi!}
-{306}{}{Wszystkie mutanty s¹ z³e!}
-{307}{}{Za³o¿ê siê, ¿e mój pluszowy miœ móg³by ciê zabiæ!}
-{308}{}{Mój tata znowu zagin¹³!}
+{306}{}{Wszystkie mutanty sÄ… zÅ‚e!}
+{307}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e mÃ³j pluszowy miÅ› mÃ³gÅ‚by ciÄ™ zabiÄ‡!}
+{308}{}{MÃ³j tata znowu zaginÄ…Å‚!}
 {309}{}{Czasami pije z toalet!}
 {310}{}{Co znaczy kont-i-newy-t?}
-{311}{}{Czy mog³aby Pani coœ wysadziæ, proszê?}
+{311}{}{Czy mogÅ‚aby Pani coÅ› wysadziÄ‡, proszÄ™?}

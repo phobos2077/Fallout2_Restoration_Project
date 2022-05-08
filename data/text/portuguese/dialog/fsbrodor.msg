@@ -1,1 +1,1 @@
-{100}{}{Você vê uma porta sem maçaneta ou fechadura visível.}
+{100}{}{VocÃª vÃª uma porta sem maÃ§aneta ou fechadura visÃ­vel.}

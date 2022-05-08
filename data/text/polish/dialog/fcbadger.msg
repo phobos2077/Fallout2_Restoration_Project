@@ -1,124 +1,124 @@
-{100}{}{Widzisz punka z twarz¹ wykrzywion¹ pó³uœmieszkiem.}
+{100}{}{Widzisz punka z twarzÄ… wykrzywionÄ… pÃ³Å‚uÅ›mieszkiem.}
 {101}{}{Widzisz Borsuka.}
-{102}{}{Widzisz niezbyt szeroko uœmiechaj¹cego siê punka.}
-{103}{}{::G³oœno beka:: Czego tu?}
+{102}{}{Widzisz niezbyt szeroko uÅ›miechajÄ…cego siÄ™ punka.}
+{103}{}{::GÅ‚oÅ›no beka:: Czego tu?}
 {104}{}{::bek::}
 {105}{}{Ty kto?}
-{106}{}{Kim jesteœ?}
-{107}{}{Co mo¿esz mi powiedzieæ o tym tankowcu?}
-{108}{}{Czym siê tutaj zajmujesz?}
-{109}{}{Chcê, ¿ebyœ w³ama³ siê dla mnie do komputera.}
+{106}{}{Kim jesteÅ›?}
+{107}{}{Co moÅ¼esz mi powiedzieÄ‡ o tym tankowcu?}
+{108}{}{Czym siÄ™ tutaj zajmujesz?}
+{109}{}{ChcÄ™, Å¼ebyÅ› wÅ‚amaÅ‚ siÄ™ dla mnie do komputera.}
 {110}{}{Jak tam idzie hackowanie?}
-{111}{}{Nic takiego. £adne bekniêcie.}
-{112}{}{::Wydobywa z siebie kolejne gard³owe bekniêcie::}
-{113}{}{::Beka g³oœno::}
+{111}{}{Nic takiego. Åadne bekniÄ™cie.}
+{112}{}{::Wydobywa z siebie kolejne gardÅ‚owe bekniÄ™cie::}
+{113}{}{::Beka gÅ‚oÅ›no::}
 {114}{}{Obrzydliwe.}
-{115}{}{::Prawie ¿e wypluwa okropne bekniêcie, które swoj¹ g³oœnoœci¹ i przenikliwoœci¹ mog³oby obudziæ nawet umar³ego w piekle.::}
+{115}{}{::Prawie Å¼e wypluwa okropne bekniÄ™cie, ktÃ³re swojÄ… gÅ‚oÅ›noÅ›ciÄ… i przenikliwoÅ›ciÄ… mogÅ‚oby obudziÄ‡ nawet umarÅ‚ego w piekle.::}
 {116}{}{::Brawa::}
-{117}{}{Jestem Borsuk. Kiedyœ mia³em tu zespó³. ::wzdycha:: Nazywaliœmy siê Tl¹ce Popio³y. Teraz robiê tu za informatyka.}
-{118}{}{Ach! Dziêki!}
+{117}{}{Jestem Borsuk. KiedyÅ› miaÅ‚em tu zespÃ³Å‚. ::wzdycha:: NazywaliÅ›my siÄ™ TlÄ…ce PopioÅ‚y. Teraz robiÄ™ tu za informatyka.}
+{118}{}{Ach! DziÄ™ki!}
 {119}{}{A co robisz z tymi komputerami?}
-{120}{}{Za³o¿ê siê, ¿e twój zespó³ by³ do dupy.}
-{121}{}{Dobry by³ ten wasz zespó³?}
-{122}{}{Dziêki. Na razie.}
+{120}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e twÃ³j zespÃ³Å‚ byÅ‚ do dupy.}
+{121}{}{Dobry byÅ‚ ten wasz zespÃ³Å‚?}
+{122}{}{DziÄ™ki. Na razie.}
 {123}{}{Ee... dobra.}
 {124}{}{Na razie!}
-{125}{}{O tym nale¿y rozmawiaæ z Markiem lub z Kapitanem.}
-{126}{}{Gdzie mogê znaleŸæ Marka?}
-{127}{}{Gdzie mogê znaleŸæ Kapitana?}
+{125}{}{O tym naleÅ¼y rozmawiaÄ‡ z Markiem lub z Kapitanem.}
+{126}{}{Gdzie mogÄ™ znaleÅºÄ‡ Marka?}
+{127}{}{Gdzie mogÄ™ znaleÅºÄ‡ Kapitana?}
 {128}{}{Jestem tutejszym geniuszem komputerowym.}
 {129}{}{A co robisz z tymi komputerami?}
-{130}{}{Dziêki. Na razie.}
-{131}{}{Nie wkurzaj mnie ::pierdzi:: Pracujê nad tym, nie?}
-{132}{}{Dobra, dobra. Tylko daj mi znaæ, jak skoñczysz.}
-{133}{}{Có¿. Powiedzmy, ¿e jestem specjalist¹ od wydobywania informacji.}
-{134}{}{Czy mo¿esz coœ dla mnie wydobyæ?}
+{130}{}{DziÄ™ki. Na razie.}
+{131}{}{Nie wkurzaj mnie ::pierdzi:: PracujÄ™ nad tym, nie?}
+{132}{}{Dobra, dobra. Tylko daj mi znaÄ‡, jak skoÅ„czysz.}
+{133}{}{CÃ³Å¼. Powiedzmy, Å¼e jestem specjalistÄ… od wydobywania informacji.}
+{134}{}{Czy moÅ¼esz coÅ› dla mnie wydobyÄ‡?}
 {135}{}{Co to znaczy?}
-{136}{}{Ta, no wiêc, pierdol siê.}
+{136}{}{Ta, no wiÄ™c, pierdol siÄ™.}
 {137}{}{Hej!}
-{138}{}{Sam siê pierdol.}
-{139}{}{Nawet bardzo! Dawaliœmy nieŸle czadu! Ale masz wokalista by³ trochê... ee... ciot¹, Aaron zawsze siê poci³, a ca³a reszta to wina Todda. Ale byliœmy nieŸli.}
-{140}{}{Szkoda, ¿e nie jesteœcie ju¿ razem. Fajnie by³oby was kiedyœ us³yszeæ.}
-{141}{}{Ee. Jasne. Mam kilka innych pytañ.}
-{142}{}{Za³o¿ê, siê, ¿e dawaliœcie nieŸle... dupy.}
-{143}{}{Marka zazwyczaj mo¿na znaleŸæ w barze.}
-{144}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{145}{}{Dziêki. To wszystko.}
+{138}{}{Sam siÄ™ pierdol.}
+{139}{}{Nawet bardzo! DawaliÅ›my nieÅºle czadu! Ale masz wokalista byÅ‚ trochÄ™... ee... ciotÄ…, Aaron zawsze siÄ™ pociÅ‚, a caÅ‚a reszta to wina Todda. Ale byliÅ›my nieÅºli.}
+{140}{}{Szkoda, Å¼e nie jesteÅ›cie juÅ¼ razem. Fajnie byÅ‚oby was kiedyÅ› usÅ‚yszeÄ‡.}
+{141}{}{Ee. Jasne. Mam kilka innych pytaÅ„.}
+{142}{}{ZaÅ‚oÅ¼Ä™, siÄ™, Å¼e dawaliÅ›cie nieÅºle... dupy.}
+{143}{}{Marka zazwyczaj moÅ¼na znaleÅºÄ‡ w barze.}
+{144}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{145}{}{DziÄ™ki. To wszystko.}
 {146}{}{Kapitan jest zazwyczaj na mostku. Schodami przez bar.}
-{147}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{148}{}{Dziêki. To wszystko.}
-{149}{}{Dobra, ale bêdzie ciê to kosztowaæ.}
+{147}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{148}{}{DziÄ™ki. To wszystko.}
+{149}{}{Dobra, ale bÄ™dzie ciÄ™ to kosztowaÄ‡.}
 {150}{}{Ile?}
-{151}{}{Dobra, jak chcesz. Muszê lecieæ.}
-{152}{}{To znaczy, ¿e mogê znaleŸæ dane, których potrzebujesz.}
-{153}{}{Zrobisz coœ dla mnie?}
+{151}{}{Dobra, jak chcesz. MuszÄ™ lecieÄ‡.}
+{152}{}{To znaczy, Å¼e mogÄ™ znaleÅºÄ‡ dane, ktÃ³rych potrzebujesz.}
+{153}{}{Zrobisz coÅ› dla mnie?}
 {154}{}{Rozumiem. Fajnie. Mam jeszcze inne pytania.}
-{155}{}{Rozumiem. Dziêki.}
-{156}{}{Tak, warto by by³o. Tak czy siak, muszê wracaæ do roboty.}
-{157}{}{Czekaj, mam jeszcze kilka pytañ.}
-{158}{}{Dziêki. Trzymaj siê.}
-{159}{}{Chyba lubiê ciê na tyle, ¿eby to dla ciebie zrobiæ. Kogo mam odwiedziæ?}
-{160}{}{Centrologów.}
+{155}{}{Rozumiem. DziÄ™ki.}
+{156}{}{Tak, warto by byÅ‚o. Tak czy siak, muszÄ™ wracaÄ‡ do roboty.}
+{157}{}{Czekaj, mam jeszcze kilka pytaÅ„.}
+{158}{}{DziÄ™ki. Trzymaj siÄ™.}
+{159}{}{Chyba lubiÄ™ ciÄ™ na tyle, Å¼eby to dla ciebie zrobiÄ‡. Kogo mam odwiedziÄ‡?}
+{160}{}{CentrologÃ³w.}
 {161}{}{Shi.}
-{162}{}{Nikogo. Tylko tak siê pytam.}
-{163}{}{Chyba mogê to dla ciebie zrobiæ za friko, skoro chcia³o ci siê szukaæ mojej dziewczyny. Jednak zajmie mi to chwilê. Kogo mam nawiedziæ?}
-{164}{}{Centrologów.}
+{162}{}{Nikogo. Tylko tak siÄ™ pytam.}
+{163}{}{Chyba mogÄ™ to dla ciebie zrobiÄ‡ za friko, skoro chciaÅ‚o ci siÄ™ szukaÄ‡ mojej dziewczyny. Jednak zajmie mi to chwilÄ™. Kogo mam nawiedziÄ‡?}
+{164}{}{CentrologÃ³w.}
 {165}{}{Shi.}
-{166}{}{Nikogo. Tylko tak siê pytam.}
-{167}{}{Najpierw musisz oddaæ mi pewn¹ przys³ugê. Moja dziewczyna zgubi³a siê gdzieœ na tankowcu. ZnajdŸ j¹, a ja zrobiê to dla ciebie.}
-{168}{}{Za³atwione. Na razie.}
+{166}{}{Nikogo. Tylko tak siÄ™ pytam.}
+{167}{}{Najpierw musisz oddaÄ‡ mi pewnÄ… przysÅ‚ugÄ™. Moja dziewczyna zgubiÅ‚a siÄ™ gdzieÅ› na tankowcu. ZnajdÅº jÄ…, a ja zrobiÄ™ to dla ciebie.}
+{168}{}{ZaÅ‚atwione. Na razie.}
 {169}{}{Zapomnij. Nara.}
-{170}{}{Jakbym krad³ dziecku cukierki. Nigdy mnie nie znajd¹. Czego od nich chcesz?}
-{171}{}{Œwietnie. Mam wiêcej pytañ.}
-{172}{}{Œwietnie. Czekaj tu na mnie.}
-{173}{}{Mogê siê do nich dobraæ. NieŸle broni¹ swoich danych, a ich maszyny doskonale zabezpieczaj¹ programy. Na pewno mam siê tam dostaæ?}
-{174}{}{Có¿, ¿yczê szczêœcia. Mam trochê pytañ.}
-{175}{}{Powodzenia. Wrócê tu póŸniej.}
-{176}{}{Hej, znajdŸ moj¹ panienkê, to pogadamy.}
-{177}{}{Dobra ju¿, dobra.}
-{178}{}{Nie ¿yje? Nie ¯YJE? Jak zginêla? Nie, czekaj... nic nie mów. Daj mi kilka godzin, muszê siê pozbieraæ.}
-{179}{}{Oczywiœcie.}
-{180}{}{Otrz¹œnij siê Mistrzuniu. Mamy kupê roboty.}
-{181}{}{W porz¹dku. Ju¿ mi lepiej.}
-{182}{}{To dobrze. Muszê ciê o coœ spytaæ.}
-{183}{}{No i dobrze. Nie chcê z tob¹ gadaæ.}
-{184}{}{Wielkie, naprawdê wielkie dziêki. Nie ma s³ów wyra¿aj¹cych moj¹ wdziêcznoœæ za uratowanie jej ¿ycia. Czego sobie ¿yczysz?}
-{185}{}{Mam kilka pytañ.}
-{186}{}{Twoja wdziêcznoœæ mi wystarcza. Do zobaczenia.}
-{187}{}{Dobra, dosta³em siê do komputerów Shi. Nie wiem, czy mnie wykryli. Chyba obecnie najlepsz¹ rzecz¹ by³oby gdzieœ siê schowaæ. Jeszcze coœ?}
+{170}{}{Jakbym kradÅ‚ dziecku cukierki. Nigdy mnie nie znajdÄ…. Czego od nich chcesz?}
+{171}{}{Åšwietnie. Mam wiÄ™cej pytaÅ„.}
+{172}{}{Åšwietnie. Czekaj tu na mnie.}
+{173}{}{MogÄ™ siÄ™ do nich dobraÄ‡. NieÅºle broniÄ… swoich danych, a ich maszyny doskonale zabezpieczajÄ… programy. Na pewno mam siÄ™ tam dostaÄ‡?}
+{174}{}{CÃ³Å¼, Å¼yczÄ™ szczÄ™Å›cia. Mam trochÄ™ pytaÅ„.}
+{175}{}{Powodzenia. WrÃ³cÄ™ tu pÃ³Åºniej.}
+{176}{}{Hej, znajdÅº mojÄ… panienkÄ™, to pogadamy.}
+{177}{}{Dobra juÅ¼, dobra.}
+{178}{}{Nie Å¼yje? Nie Å»YJE? Jak zginÄ™la? Nie, czekaj... nic nie mÃ³w. Daj mi kilka godzin, muszÄ™ siÄ™ pozbieraÄ‡.}
+{179}{}{OczywiÅ›cie.}
+{180}{}{OtrzÄ…Å›nij siÄ™ Mistrzuniu. Mamy kupÄ™ roboty.}
+{181}{}{W porzÄ…dku. JuÅ¼ mi lepiej.}
+{182}{}{To dobrze. MuszÄ™ ciÄ™ o coÅ› spytaÄ‡.}
+{183}{}{No i dobrze. Nie chcÄ™ z tobÄ… gadaÄ‡.}
+{184}{}{Wielkie, naprawdÄ™ wielkie dziÄ™ki. Nie ma sÅ‚Ã³w wyraÅ¼ajÄ…cych mojÄ… wdziÄ™cznoÅ›Ä‡ za uratowanie jej Å¼ycia. Czego sobie Å¼yczysz?}
+{185}{}{Mam kilka pytaÅ„.}
+{186}{}{Twoja wdziÄ™cznoÅ›Ä‡ mi wystarcza. Do zobaczenia.}
+{187}{}{Dobra, dostaÅ‚em siÄ™ do komputerÃ³w Shi. Nie wiem, czy mnie wykryli. Chyba obecnie najlepszÄ… rzeczÄ… byÅ‚oby gdzieÅ› siÄ™ schowaÄ‡. Jeszcze coÅ›?}
 {188}{}{Tak.}
 {189}{}{Nie. Na razie.}
-{190}{}{Jestem u Centrologów. ¯aden problem. Coœ jeszcze?}
+{190}{}{Jestem u CentrologÃ³w. Å»aden problem. CoÅ› jeszcze?}
 {191}{}{Tak.}
 {192}{}{Nie. Na razie.}
-{193}{}{To du¿y b³¹d. W³aœnie przy u¿yciu komputerów Shi i Centrologów nastawi³em ich przeciwko tobie. W San Francisco masz przechlapane. }
-{194}{}{No to chyba muszê ciê teraz zabiæ.}
-{195}{}{Potrzebujê kilku godzin na dojœcie do siebie.}
-{196}{}{Chcesz, ¿ebym w³ama³ siê do sformatowanego komputera? Dane zniknê³y. Nie uda siê.}
-{197}{}{Muszê opuœciæ to miejsce.}
-{198}{}{Dobrze ciê znowu widzieæ.}
+{193}{}{To duÅ¼y bÅ‚Ä…d. WÅ‚aÅ›nie przy uÅ¼yciu komputerÃ³w Shi i CentrologÃ³w nastawiÅ‚em ich przeciwko tobie. W San Francisco masz przechlapane. }
+{194}{}{No to chyba muszÄ™ ciÄ™ teraz zabiÄ‡.}
+{195}{}{PotrzebujÄ™ kilku godzin na dojÅ›cie do siebie.}
+{196}{}{Chcesz, Å¼ebym wÅ‚amaÅ‚ siÄ™ do sformatowanego komputera? Dane zniknÄ™Å‚y. Nie uda siÄ™.}
+{197}{}{MuszÄ™ opuÅ›ciÄ‡ to miejsce.}
+{198}{}{Dobrze ciÄ™ znowu widzieÄ‡.}
 {199}{}{Szukam paliwa.}
-{200}{}{S³ysza³em, ¿e Centrologowie maj¹ paliwo. Móg³bym dla ciebie zajrzeæ do ich komputera.}
-{201}{}{Shi krêc¹ tu ca³ym paliwem. Móg³bym zerkn¹æ dla ciebie do ich g³ównego komputera.}
-{202}{}{Móg³byœ?}
+{200}{}{SÅ‚yszaÅ‚em, Å¼e Centrologowie majÄ… paliwo. MÃ³gÅ‚bym dla ciebie zajrzeÄ‡ do ich komputera.}
+{201}{}{Shi krÄ™cÄ… tu caÅ‚ym paliwem. MÃ³gÅ‚bym zerknÄ…Ä‡ dla ciebie do ich gÅ‚Ã³wnego komputera.}
+{202}{}{MÃ³gÅ‚byÅ›?}
 {203}{}{Czego do cholery chcesz?}
-{204}{}{Punk Badger, jak s¹dzê?}
-{205}{}{Po raz ostatni poni¿y³eœ naszego Imperatora!}
-{206}{}{Chyba pójdê na miasto po trochê s³odyczy od Lao Chou.}
-{207}{}{To by by³o na tyle, jeœli chodzi o uczciwy proces. Hmm...}
-{208}{}{Ej, wyluzuj. Chcia³em tylko trochê s³odyczy.}
-{209}{}{Czy mo¿esz przenieœæ paliwo z ich statku kosmicznego do tankowca?}
-{210}{}{Czy mo¿esz zdobyæ dla mnie kopie planów ich lataczy?}
-{211}{}{Czy mo¿esz przelaæ paliwo i zdobyæ plany?}
-{212}{}{Tak, potrzebujê tego, co oni maj¹.}
-{213}{}{Nie, znajdê inny sposób.}
-{214}{}{Ta, ale gówno mo¿e wpaœæ w wentylator.}
-{215}{}{Czy mo¿esz przenieœæ paliwo z ich rezerw do tankowca?}
-{216}{}{Niewa¿ne, zrobiê to inaczej.}
-{217}{}{Niewa¿ne.}
-{218}{}{Dobra. PrzyjdŸ tu za dzieñ lub dwa, a ja dam ci znaæ.}
-{219}{}{Zdoby³eœ czego potrzebowa³em?}
+{204}{}{Punk Badger, jak sÄ…dzÄ™?}
+{205}{}{Po raz ostatni poniÅ¼yÅ‚eÅ› naszego Imperatora!}
+{206}{}{Chyba pÃ³jdÄ™ na miasto po trochÄ™ sÅ‚odyczy od Lao Chou.}
+{207}{}{To by byÅ‚o na tyle, jeÅ›li chodzi o uczciwy proces. Hmm...}
+{208}{}{Ej, wyluzuj. ChciaÅ‚em tylko trochÄ™ sÅ‚odyczy.}
+{209}{}{Czy moÅ¼esz przenieÅ›Ä‡ paliwo z ich statku kosmicznego do tankowca?}
+{210}{}{Czy moÅ¼esz zdobyÄ‡ dla mnie kopie planÃ³w ich lataczy?}
+{211}{}{Czy moÅ¼esz przelaÄ‡ paliwo i zdobyÄ‡ plany?}
+{212}{}{Tak, potrzebujÄ™ tego, co oni majÄ….}
+{213}{}{Nie, znajdÄ™ inny sposÃ³b.}
+{214}{}{Ta, ale gÃ³wno moÅ¼e wpaÅ›Ä‡ w wentylator.}
+{215}{}{Czy moÅ¼esz przenieÅ›Ä‡ paliwo z ich rezerw do tankowca?}
+{216}{}{NiewaÅ¼ne, zrobiÄ™ to inaczej.}
+{217}{}{NiewaÅ¼ne.}
+{218}{}{Dobra. PrzyjdÅº tu za dzieÅ„ lub dwa, a ja dam ci znaÄ‡.}
+{219}{}{ZdobyÅ‚eÅ› czego potrzebowaÅ‚em?}
 {220}{}{Tia, mam paliwo.}
 {221}{}{Tia, mam plany lataczy.}
 {222}{}{Tak, mam paliwo i plany.}
-{223}{}{Wielkie dziêki. Na razie.}
+{223}{}{Wielkie dziÄ™ki. Na razie.}

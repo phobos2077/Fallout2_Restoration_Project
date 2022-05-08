@@ -1,1 +1,1 @@
-{100}{}{Você entra numa caverna escura. Há fezes de rato em qualquer lugar.}
+{100}{}{VocÃª entra numa caverna escura. HÃ¡ fezes de rato em qualquer lugar.}

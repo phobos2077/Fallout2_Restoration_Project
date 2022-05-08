@@ -1,131 +1,131 @@
 {100}{}{Ves a una corpulenta mujer de mediana edad sucia por polvo de roca.}
 {101}{}{Ves a Marge LeBarge, propietaria de la mina Kokoweef.}
-{102}{}{Ves a una mujer de aspecto fuerte y sólido con aire de autoridad.}
+{102}{}{Ves a una mujer de aspecto fuerte y sÃ³lido con aire de autoridad.}
 {103}{}{Lo siento, no tengo tiempo para temas de caridad ahora mismo.}
 {104}{}{Vuelve cuando esa herida en tu cabeza haya sanado.}
 {105}{}{Me sorprende que puedas caminar y hablar al mismo tiempo.}
-{106}{}{Parece que tu cinturón no ha pasado por todas las presillas.}
-{107}{}{No sois más que unos payasos escapados de un circo, ¿verdad?}
+{106}{}{Parece que tu cinturÃ³n no ha pasado por todas las presillas.}
+{107}{}{No sois mÃ¡s que unos payasos escapados de un circo, Â¿verdad?}
 {108}{}{Ahora mismo no eres mi persona favorita.}
-{109}{}{Oye, gracias por conseguirme ese chip de excavación. Ahora las cosas van realmente bien en la
+{109}{}{Oye, gracias por conseguirme ese chip de excavaciÃ³n. Ahora las cosas van realmente bien en la
  mina Kokoweef.}
-{110}{}{Te daré 1.000 dólares por ese chip de excavación.}
-{111}{}{¿Ha habido suerte con ese chip de excavación?}
-{112}{}{Sí, bueno, lo lamento. Pero no puedes satisfacer a todo el mundo a la vez.}
-{113}{}{Siempre satisface conseguir un trabajo tan bien pagado. Deja que te pregunte algo más.}
-{114}{}{¿Cómo sabías que tengo un chip de excavación?}
-{115}{}{¿Cuánto vale para ti?}
-{116}{}{Si lo tuviese, estarías entre los primeros en saberlo.}
-{117}{}{Creo que me voy a marchar ahora. Adiós.}
+{110}{}{Te darÃ© 1.000 dÃ³lares por ese chip de excavaciÃ³n.}
+{111}{}{Â¿Ha habido suerte con ese chip de excavaciÃ³n?}
+{112}{}{SÃ­, bueno, lo lamento. Pero no puedes satisfacer a todo el mundo a la vez.}
+{113}{}{Siempre satisface conseguir un trabajo tan bien pagado. Deja que te pregunte algo mÃ¡s.}
+{114}{}{Â¿CÃ³mo sabÃ­as que tengo un chip de excavaciÃ³n?}
+{115}{}{Â¿CuÃ¡nto vale para ti?}
+{116}{}{Si lo tuviese, estarÃ­as entre los primeros en saberlo.}
+{117}{}{Creo que me voy a marchar ahora. AdiÃ³s.}
 {118}{}{Oye, gracias por interrumpir esa pelea. A veces mis mineros se saltan un poco las normas, pero son
- buena gente cuando no están de Jet hasta arriba.}
-{119}{}{Gracias por poner entre rejas a esos buscalíos de la Morningstar. Es donde merecen estar. ¿Cómo
+ buena gente cuando no estÃ¡n de Jet hasta arriba.}
+{119}{}{Gracias por poner entre rejas a esos buscalÃ­os de la Morningstar. Es donde merecen estar. Â¿CÃ³mo
  puedo ayudarte?}
 {120}{}{No me puedo creer que pusieras a mis chicos entre rejas. Estoy segura de que esos malditos matones de la Morningstar
- comenzaron la pelea. ¿Y ahora qué quieres?}
-{121}{}{Me gustaría que no hubieras encarcelado así a mis mineros. Simplemente enjaulando a esos hooligans de la Morningstar
- habría sido suficiente para mantener la paz en la ciudad. ¿Qué quieres?}
-{122}{}{Desde luego sabes cómo apagar un incendio con gasolina, ¿eh? No hacía falta que muriera nadie por una pelea de bar.
- ¿Qué demonios quieres de mí, de todas formas?}
-{123}{}{¿Quién eres?}
-{124}{}{Quería preguntarte sobre algo.}
-{125}{}{Sólo pasaba por aquí. Y creo que será mejor que siga andando. Adiós.}
+ comenzaron la pelea. Â¿Y ahora quÃ© quieres?}
+{121}{}{Me gustarÃ­a que no hubieras encarcelado asÃ­ a mis mineros. Simplemente enjaulando a esos hooligans de la Morningstar
+ habrÃ­a sido suficiente para mantener la paz en la ciudad. Â¿QuÃ© quieres?}
+{122}{}{Desde luego sabes cÃ³mo apagar un incendio con gasolina, Â¿eh? No hacÃ­a falta que muriera nadie por una pelea de bar.
+ Â¿QuÃ© demonios quieres de mÃ­, de todas formas?}
+{123}{}{Â¿QuiÃ©n eres?}
+{124}{}{QuerÃ­a preguntarte sobre algo.}
+{125}{}{SÃ³lo pasaba por aquÃ­. Y creo que serÃ¡ mejor que siga andando. AdiÃ³s.}
 {126}{}{Hola. Soy Marge. Marge LeBarge, y dirijo esta mina.}
-{127}{}{¿Qué puede hacer Marge por ti?}
-{128}{}{¿Qué extraéis aquí?}
-{129}{}{¿Alguna vez has oído hablar de algo llamado Kit de Creación del Jardín del Edén?}
-{130}{}{¿Eres nativa de Redding?}
-{131}{}{¿Sabes algo acerca de algún trabajo o cualquier otra cosa que pase por aquí?}
-{132}{}{Sólo echaba un pequeño vistazo. Adiós.}
-{133}{}{Oro, por supuesto. Lo extraemos justo aquí, en la Kokoweef, y después lo enviamos a Ciudad Refugio, Nuevo Reno,
- y la República de Nueva California.}
-{134}{}{¿Lo vendéis en todas partes?}
-{135}{}{¿Por qué llamáis a vuestra mina Kokoweef?}
-{136}{}{Déjame hacerte otra pregunta.}
-{137}{}{Ya veo. Gracias. Eso es todo lo que necesitaba saber por ahora. Adiós.}
-{138}{}{Claro que sí. A todo el mundo le gusta el oro. Deberías hablar con el organizador de caravanas, James Hoffy, si estás realmente
+{127}{}{Â¿QuÃ© puede hacer Marge por ti?}
+{128}{}{Â¿QuÃ© extraÃ©is aquÃ­?}
+{129}{}{Â¿Alguna vez has oÃ­do hablar de algo llamado Kit de CreaciÃ³n del JardÃ­n del EdÃ©n?}
+{130}{}{Â¿Eres nativa de Redding?}
+{131}{}{Â¿Sabes algo acerca de algÃºn trabajo o cualquier otra cosa que pase por aquÃ­?}
+{132}{}{SÃ³lo echaba un pequeÃ±o vistazo. AdiÃ³s.}
+{133}{}{Oro, por supuesto. Lo extraemos justo aquÃ­, en la Kokoweef, y despuÃ©s lo enviamos a Ciudad Refugio, Nuevo Reno,
+ y la RepÃºblica de Nueva California.}
+{134}{}{Â¿Lo vendÃ©is en todas partes?}
+{135}{}{Â¿Por quÃ© llamÃ¡is a vuestra mina Kokoweef?}
+{136}{}{DÃ©jame hacerte otra pregunta.}
+{137}{}{Ya veo. Gracias. Eso es todo lo que necesitaba saber por ahora. AdiÃ³s.}
+{138}{}{Claro que sÃ­. A todo el mundo le gusta el oro. DeberÃ­as hablar con el organizador de caravanas, James Hoffy, si estÃ¡s realmente
  interesado en ello.}
-{139}{}{Déjame hacerte otra pregunta.}
-{140}{}{Gracias, lo haré. Adiós.}
-{141}{}{Un Kit de Creación del Jardín del Edén, ¿eh? Suena bastante impresionante. Si tuviera algo así seguro que no
- me encontrarías excavando entre el polvo para llegar a fin de mes, ¿no te parece?}
-{142}{}{Supongo que no. Déjame preguntarte algo más.}
-{143}{}{Sólo quería preguntar. Adiós.}
-{144}{}{Diablos, no. Nací en el norte. Justo a la orilla de un lago. El lago LeBarge, se llamaba.}
-{145}{}{Nunca había oído hablar de él. Déjame preguntarte otra cosa.}
-{146}{}{Suena bien. Quizá vaya a la búsqueda de ese lugar. Adiós por ahora.}
-{147}{}{Nada más que rumores.}
+{139}{}{DÃ©jame hacerte otra pregunta.}
+{140}{}{Gracias, lo harÃ©. AdiÃ³s.}
+{141}{}{Un Kit de CreaciÃ³n del JardÃ­n del EdÃ©n, Â¿eh? Suena bastante impresionante. Si tuviera algo asÃ­ seguro que no
+ me encontrarÃ­as excavando entre el polvo para llegar a fin de mes, Â¿no te parece?}
+{142}{}{Supongo que no. DÃ©jame preguntarte algo mÃ¡s.}
+{143}{}{SÃ³lo querÃ­a preguntar. AdiÃ³s.}
+{144}{}{Diablos, no. NacÃ­ en el norte. Justo a la orilla de un lago. El lago LeBarge, se llamaba.}
+{145}{}{Nunca habÃ­a oÃ­do hablar de Ã©l. DÃ©jame preguntarte otra cosa.}
+{146}{}{Suena bien. QuizÃ¡ vaya a la bÃºsqueda de ese lugar. AdiÃ³s por ahora.}
+{147}{}{Nada mÃ¡s que rumores.}
 {148}{}{Bueno, siempre hay rumores... aunque yo tengo algo que hay que hacer.}
-{149}{}{Volveré sobre eso. Pero deja que te pregunte sobre otra cosa.}
-{150}{}{Háblame sobre los rumores.}
-{151}{}{¿Qué es eso?}
-{152}{}{Apuesto a que sí. Lo siento, pero estoy ocupado ahora mismo. Adiós.}
-{153}{}{Tenemos una maravillosa enorme y vieja máquina excavadora en la mina. El problema es que el chip de control para ella ya no funciona. Necesito uno nuevo si quiero expandir mis operaciones.}
-{154}{}{Eso es interesante pero, ¿cómo encajo yo en ello?}
-{155}{}{La Gran Mina Wanamingo, al oeste de la ciudad, debería tener una de las mismas máquinas excavadoras.
- Lleva abandonada poco tiempo, así que supongo que aún podría haber un chip funcional en su
+{149}{}{VolverÃ© sobre eso. Pero deja que te pregunte sobre otra cosa.}
+{150}{}{HÃ¡blame sobre los rumores.}
+{151}{}{Â¿QuÃ© es eso?}
+{152}{}{Apuesto a que sÃ­. Lo siento, pero estoy ocupado ahora mismo. AdiÃ³s.}
+{153}{}{Tenemos una maravillosa enorme y vieja mÃ¡quina excavadora en la mina. El problema es que el chip de control para ella ya no funciona. Necesito uno nuevo si quiero expandir mis operaciones.}
+{154}{}{Eso es interesante pero, Â¿cÃ³mo encajo yo en ello?}
+{155}{}{La Gran Mina Wanamingo, al oeste de la ciudad, deberÃ­a tener una de las mismas mÃ¡quinas excavadoras.
+ Lleva abandonada poco tiempo, asÃ­ que supongo que aÃºn podrÃ­a haber un chip funcional en su
  maquinaria.}
-{156}{}{Parece bastante fácil. ¿Por qué no lo habéis hecho ya?}
-{157}{}{Porque no es tan sencillo. Verás, la Gran Mina Wanamingo está embrujada. La gente va allí y
- no regresa. Esa es la razón principal por la que está cerrada. Solía ser un lugar realmente productivo.
+{156}{}{Parece bastante fÃ¡cil. Â¿Por quÃ© no lo habÃ©is hecho ya?}
+{157}{}{Porque no es tan sencillo. VerÃ¡s, la Gran Mina Wanamingo estÃ¡ embrujada. La gente va allÃ­ y
+ no regresa. Esa es la razÃ³n principal por la que estÃ¡ cerrada. SolÃ­a ser un lugar realmente productivo.
  Pero ya no.}
-{158}{}{Así que quieres que consiga el chip de la máquina de excavación de esa mina. ¿Cuánto vale para ti?}
-{159}{}{Te daré 1.000 dólares por ese chip. McGrew, de la Morningstar probablemente te ofrecería lo mismo,
- pero se lo entrega todo a esos malditos matones de Nuevo Reno. No puedo soportar a esos violentos bastardos. Así que deja que yo te dé
- el dinero, ¿vale?}
+{158}{}{AsÃ­ que quieres que consiga el chip de la mÃ¡quina de excavaciÃ³n de esa mina. Â¿CuÃ¡nto vale para ti?}
+{159}{}{Te darÃ© 1.000 dÃ³lares por ese chip. McGrew, de la Morningstar probablemente te ofrecerÃ­a lo mismo,
+ pero se lo entrega todo a esos malditos matones de Nuevo Reno. No puedo soportar a esos violentos bastardos. AsÃ­ que deja que yo te dÃ©
+ el dinero, Â¿vale?}
 {160}{}{Veremos. Pero una cosa... es una buena cantidad de dinero. Esa mina debe ser bastante peligrosa.}
-{161}{}{Bueno, no es un juego de niños, querido. Pero pareces alguien que puede cuidarse de
- sí mismo. De todas formas, me traes el chip y consigues el dinero. ¿Te interesa?}
-{162}{}{Sí. Me interesa. Me apunto.}
-{163}{}{Bien, pensaré en ello. Adiós por ahora.}
-{164}{}{Genial. Cuanto antes estés aquí de vuelta con el chip de excavación, mejor.}
-{165}{}{Veré lo que puedo hacer. Antes, déjame hacerte algunas otras preguntas.}
-{166}{}{De acuerdo, ya nos veremos. Adiós.}
+{161}{}{Bueno, no es un juego de niÃ±os, querido. Pero pareces alguien que puede cuidarse de
+ sÃ­ mismo. De todas formas, me traes el chip y consigues el dinero. Â¿Te interesa?}
+{162}{}{SÃ­. Me interesa. Me apunto.}
+{163}{}{Bien, pensarÃ© en ello. AdiÃ³s por ahora.}
+{164}{}{Genial. Cuanto antes estÃ©s aquÃ­ de vuelta con el chip de excavaciÃ³n, mejor.}
+{165}{}{VerÃ© lo que puedo hacer. Antes, dÃ©jame hacerte algunas otras preguntas.}
+{166}{}{De acuerdo, ya nos veremos. AdiÃ³s.}
 {167}{}{Bueno, siempre hay los rumores habituales de que van a apoderarse de Redding, o sobre wanamingos
- saliendo del cementerio por la noche. Diablos, incluso alguien dijo haber visto alguna clase de máquina
+ saliendo del cementerio por la noche. Diablos, incluso alguien dijo haber visto alguna clase de mÃ¡quina
  voladora sobrevolando la zona hace unos meses.}
-{168}{}{¿Sobre qué más tenías curiosidad?}
-{169}{}{¿Qué has oído sobre eso de apoderarse?}
-{170}{}{¿Qué es un wanamingo?}
-{171}{}{¿Una máquina voladora?}
+{168}{}{Â¿Sobre quÃ© mÃ¡s tenÃ­as curiosidad?}
+{169}{}{Â¿QuÃ© has oÃ­do sobre eso de apoderarse?}
+{170}{}{Â¿QuÃ© es un wanamingo?}
+{171}{}{Â¿Una mÃ¡quina voladora?}
 {172}{}{Supongo que la gente habla sobre las mismas cosas en todas partes. Hablemos de otro tema.}
-{173}{}{Me encantaría escucharlo, pero tengo que irme. Adiós.}
+{173}{}{Me encantarÃ­a escucharlo, pero tengo que irme. AdiÃ³s.}
 {174}{}{Bueno, la gente siempre dice que Ciudad Refugio quiere controlarnos para quedarse con nuestro oro. O que una de las familias de
- Nuevo Reno quiere que todo el mundo esté enganchado a su droga para apoderarse de nosotros. O incluso que la RNC quiere anexionarnos.
- Te diré que la RNC es nuestra mejor apuesta, pero todos son iguales en lo que respecta a nuestro oro. Redding sigue siendo
+ Nuevo Reno quiere que todo el mundo estÃ© enganchado a su droga para apoderarse de nosotros. O incluso que la RNC quiere anexionarnos.
+ Te dirÃ© que la RNC es nuestra mejor apuesta, pero todos son iguales en lo que respecta a nuestro oro. Redding sigue siendo
  independiente, hasta ahora.}
-{175}{}{¿Y sobre los demás rumores?}
-{176}{}{Supongo que eso es todo lo que necesito saber por ahora. Adiós.}
-{177}{}{Un wanamingo sólo es la bestia con más malas pulgas con la que te puedas topar. Alta como dos hombres, más fuerte que un brahmin
- macho, y con tentáculos llenos de ventosas en vez de brazos. Ni siquiera se le puede hacer daño con armas de fuego. Supuestamente, los indios
- los convocaron en venganza contra el hombre blanco por lo que pasó en la guerra. Aunque no pongo mucha fe en esa afirmación.}
-{178}{}{¿Y sobre los demás rumores?}
-{179}{}{Supongo que eso es todo lo que necesito saber por ahora. Adiós.}
-{180}{}{Oh, sí. Bueno, un par de mis mineros estaban volando un poco (colocados, si sabes a
- qué me refiero) hace un tiempo. Juraron y perjuraron haber visto pasar una nave voladora, dirigiéndose hacia el suroeste.}
-{181}{}{¿Y sobre los demás rumores?}
-{182}{}{Supongo que eso es todo lo que necesito saber por ahora. Adiós.}
-{183}{}{Bueno, Dan y sus chicos de la Morningstar favorecen a esos mafiosos de Nuevo Reno. Supongo que Redding será un gran barrio de adictos de Jet dentro de poco.}
-{184}{}{En realidad no es asunto mío. Hablemos de otra cosa.}
-{185}{}{Oh, bueno. Adiós.}
-{186}{}{En una ciudad de este tamaño, todo el mundo sabe más de lo que quisiera de todos los demás. Así que, ¿qué te parece?}
-{187}{}{¿Cuánto me vas a dar por él?}
-{188}{}{1.000 dólares. Aquí y ahora. ¿Los quieres o no?}
-{189}{}{Vale, me los quedaré. Aquí está el chip.}
+{175}{}{Â¿Y sobre los demÃ¡s rumores?}
+{176}{}{Supongo que eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{177}{}{Un wanamingo sÃ³lo es la bestia con mÃ¡s malas pulgas con la que te puedas topar. Alta como dos hombres, mÃ¡s fuerte que un brahmin
+ macho, y con tentÃ¡culos llenos de ventosas en vez de brazos. Ni siquiera se le puede hacer daÃ±o con armas de fuego. Supuestamente, los indios
+ los convocaron en venganza contra el hombre blanco por lo que pasÃ³ en la guerra. Aunque no pongo mucha fe en esa afirmaciÃ³n.}
+{178}{}{Â¿Y sobre los demÃ¡s rumores?}
+{179}{}{Supongo que eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{180}{}{Oh, sÃ­. Bueno, un par de mis mineros estaban volando un poco (colocados, si sabes a
+ quÃ© me refiero) hace un tiempo. Juraron y perjuraron haber visto pasar una nave voladora, dirigiÃ©ndose hacia el suroeste.}
+{181}{}{Â¿Y sobre los demÃ¡s rumores?}
+{182}{}{Supongo que eso es todo lo que necesito saber por ahora. AdiÃ³s.}
+{183}{}{Bueno, Dan y sus chicos de la Morningstar favorecen a esos mafiosos de Nuevo Reno. Supongo que Redding serÃ¡ un gran barrio de adictos de Jet dentro de poco.}
+{184}{}{En realidad no es asunto mÃ­o. Hablemos de otra cosa.}
+{185}{}{Oh, bueno. AdiÃ³s.}
+{186}{}{En una ciudad de este tamaÃ±o, todo el mundo sabe mÃ¡s de lo que quisiera de todos los demÃ¡s. AsÃ­ que, Â¿quÃ© te parece?}
+{187}{}{Â¿CuÃ¡nto me vas a dar por Ã©l?}
+{188}{}{1.000 dÃ³lares. AquÃ­ y ahora. Â¿Los quieres o no?}
+{189}{}{Vale, me los quedarÃ©. AquÃ­ estÃ¡ el chip.}
 {190}{}{Creo que no quiero venderlo ahora mismo.}
-{191}{}{¿Crees que vas a conseguir una oferta mejor? Piénsalo de nuevo, amigo. No creo que eso vaya a suceder. Pero
+{191}{}{Â¿Crees que vas a conseguir una oferta mejor? PiÃ©nsalo de nuevo, amigo. No creo que eso vaya a suceder. Pero
  supongo que es tu tiempo.}
-{192}{}{Está bien, te lo venderé a ti. Aquí está el chip.}
-{193}{}{Creo que todavía quiero echar un vistazo por ahí antes de nada. Adiós.}
-{194}{}{Has hecho la elección correcta. Gracias. Voy a poner eso en su lugar para que podamos poner a trabajar
- esa máquina excavadora.}
-{195}{}{Genial. Oye, pero déjame hacerte alguna otra pregunta primero.}
-{196}{}{Gracias por el dinero. Adiós.}
-{197}{}{¿Sí? Vaya, gracias. Me estoy poniendo tierna y todo. ¿Qué es lo que quieres?}
+{192}{}{EstÃ¡ bien, te lo venderÃ© a ti. AquÃ­ estÃ¡ el chip.}
+{193}{}{Creo que todavÃ­a quiero echar un vistazo por ahÃ­ antes de nada. AdiÃ³s.}
+{194}{}{Has hecho la elecciÃ³n correcta. Gracias. Voy a poner eso en su lugar para que podamos poner a trabajar
+ esa mÃ¡quina excavadora.}
+{195}{}{Genial. Oye, pero dÃ©jame hacerte alguna otra pregunta primero.}
+{196}{}{Gracias por el dinero. AdiÃ³s.}
+{197}{}{Â¿SÃ­? Vaya, gracias. Me estoy poniendo tierna y todo. Â¿QuÃ© es lo que quieres?}
 {198}{}{Quiero preguntarte algo.}
-{199}{}{Nada. Sólo estaba echando un vistazo. Adiós.}
-{200}{}{¿Por qué no? En realidad, no sé de dónde surgió el nombre. Creo que siempre se ha llamado así.
- Incluso antes de que yo llegara aquí. Tiene una especie de soniquete romántico, ¿no? Ko-ko-weef. Sí, me sigue
- gustando cómo suena.}
-{201}{}{Eh, sí. Vale. Eh, ¿qué decías que extraéis aquí?}
-{202}{}{Oh. oh. Bueno, me iré ahora. Adiós.}
+{199}{}{Nada. SÃ³lo estaba echando un vistazo. AdiÃ³s.}
+{200}{}{Â¿Por quÃ© no? En realidad, no sÃ© de dÃ³nde surgiÃ³ el nombre. Creo que siempre se ha llamado asÃ­.
+ Incluso antes de que yo llegara aquÃ­. Tiene una especie de soniquete romÃ¡ntico, Â¿no? Ko-ko-weef. SÃ­, me sigue
+ gustando cÃ³mo suena.}
+{201}{}{Eh, sÃ­. Vale. Eh, Â¿quÃ© decÃ­as que extraÃ©is aquÃ­?}
+{202}{}{Oh. oh. Bueno, me irÃ© ahora. AdiÃ³s.}

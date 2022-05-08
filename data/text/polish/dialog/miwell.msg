@@ -1,3 +1,3 @@
-{100}{}{Stara, zabita deskami studnia. Zdaje siê, ¿e deski s¹ poluzowane.}
-{101}{}{Stara studnia. Jej œciany s¹ bardzo œliskie, potrzeba by liny, by zejœæ na dó³ w bezpieczny sposób.}
-{102}{}{Stara studnia z lin¹ zwisaj¹c¹ do samego dna.}
+{100}{}{Stara, zabita deskami studnia. Zdaje siÄ™, Å¼e deski sÄ… poluzowane.}
+{101}{}{Stara studnia. Jej Å›ciany sÄ… bardzo Å›liskie, potrzeba by liny, by zejÅ›Ä‡ na dÃ³Å‚ w bezpieczny sposÃ³b.}
+{102}{}{Stara studnia z linÄ… zwisajÄ…cÄ… do samego dna.}

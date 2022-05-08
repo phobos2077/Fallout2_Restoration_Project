@@ -1,129 +1,129 @@
 {100}{}{Widzisz Chrisa Wrighta.}
-{150}{}{Widzisz wysokiego, m³odego cz³owieka. Jego strój stanowi gustowne po³¹czenie skóry i ³añcuchów.}
+{150}{}{Widzisz wysokiego, mÅ‚odego czÅ‚owieka. Jego strÃ³j stanowi gustowne poÅ‚Ä…czenie skÃ³ry i Å‚aÅ„cuchÃ³w.}
 {151}{}{Widzisz Chrisa Wrighta.}
-{152}{}{Widzisz Chrisa Wrighta. Wygl¹da na œmiertelnie znudzonego.}
+{152}{}{Widzisz Chrisa Wrighta. WyglÄ…da na Å›miertelnie znudzonego.}
 {200}{}{Hej! }
-{201}{}{Niez³a jazda, }
+{201}{}{NiezÅ‚a jazda, }
 {202}{}{Dobra robota, }
 {203}{}{::Wiwatuje::}
 {204}{}{::Klaszcze::}
-{205}{}{::Gwi¿d¿e::}
-{215}{}{Jak sobie radzisz w toalecie z ca³ym tym ¿elastwem na sobie?}
+{205}{}{::GwiÅ¼dÅ¼e::}
+{215}{}{Jak sobie radzisz w toalecie z caÅ‚ym tym Å¼elastwem na sobie?}
 {220}{}{Sie ma, }
-{221}{}{Straszny upa³, co nie, }
+{221}{}{Straszny upaÅ‚, co nie, }
 {222}{}{Sie ma, }
-{230}{}{Wci¹¿ nie mogê uwierzyæ, ¿e Tato nie ¿yje. Tak wielu rzeczy nie zd¹¿y³em mu powiedzieæ...}
+{230}{}{WciÄ…Å¼ nie mogÄ™ uwierzyÄ‡, Å¼e Tato nie Å¼yje. Tak wielu rzeczy nie zdÄ…Å¼yÅ‚em mu powiedzieÄ‡...}
 {235}{}{Spieprzaj.}
-{236}{}{Spieprzaj st¹d. Mówiê serio.}
-{237}{}{Nie mamy o czym gadaæ.}
+{236}{}{Spieprzaj stÄ…d. MÃ³wiÄ™ serio.}
+{237}{}{Nie mamy o czym gadaÄ‡.}
 {245}{}{Taak?}
-{246}{}{Hej! Co s³ychaæ, }
-{247}{}{Hej, dziêki za odkrycie kto zabi³ Richarda, }
-{248}{}{. Jestem twoim d³u¿nikiem, a Wrightowie zawsze sp³acaj¹ d³ugi. Mogê coœ dla ciebie zrobiæ?}
-{249}{}{Matria. Myœ to matria!}
-{250}{}{Ha³abuba.}
-{251}{}{OdejdŸ}
-{252}{}{Kim jesteœ?}
-{253}{}{Prawdê mówi¹c, tak. Szukam pracy. Mo¿e Wrightowie potrzebuj¹ kogoœ do pomocy?}
-{254}{}{S³uchaj, rozmawialiœmy ostatnio z twoj¹ mam¹.}
+{246}{}{Hej! Co sÅ‚ychaÄ‡, }
+{247}{}{Hej, dziÄ™ki za odkrycie kto zabiÅ‚ Richarda, }
+{248}{}{. Jestem twoim dÅ‚uÅ¼nikiem, a Wrightowie zawsze spÅ‚acajÄ… dÅ‚ugi. MogÄ™ coÅ› dla ciebie zrobiÄ‡?}
+{249}{}{Matria. MyÅ› to matria!}
+{250}{}{HaÅ‚abuba.}
+{251}{}{OdejdÅº}
+{252}{}{Kim jesteÅ›?}
+{253}{}{PrawdÄ™ mÃ³wiÄ…c, tak. Szukam pracy. MoÅ¼e Wrightowie potrzebujÄ… kogoÅ› do pomocy?}
+{254}{}{SÅ‚uchaj, rozmawialiÅ›my ostatnio z twojÄ… mamÄ….}
 {255}{}{Opowiesz mi o Richardzie?}
-{256}{}{Nic, dziêkujê. Mi³o siê rozmawia³o.}
-{265}{}{Spieprzaj st¹d, przyg³upie. Nie bêdê z tob¹ rozmawia³ w jêzyku migowym.}
-{266}{}{OdejdŸ}
-{275}{}{Jestem Chris. Chris Wright. Z rodziny Wrightów. Podoba ci siê ta odpowiedŸ?}
-{276}{}{Prawdê mówi¹c, tak. Szukam pracy. Mo¿e Wrightowie potrzebuj¹ kogoœ do pomocy?}
-{277}{}{Rodzina Wrightów? Kto to?}
-{278}{}{Chris Wright, tak? Znam twoj¹ mamê.}
-{279}{}{Mo¿esz mi powiedzieæ, co siê sta³o z twoim bratem, Richardem?}
+{256}{}{Nic, dziÄ™kujÄ™. MiÅ‚o siÄ™ rozmawiaÅ‚o.}
+{265}{}{Spieprzaj stÄ…d, przygÅ‚upie. Nie bÄ™dÄ™ z tobÄ… rozmawiaÅ‚ w jÄ™zyku migowym.}
+{266}{}{OdejdÅº}
+{275}{}{Jestem Chris. Chris Wright. Z rodziny WrightÃ³w. Podoba ci siÄ™ ta odpowiedÅº?}
+{276}{}{PrawdÄ™ mÃ³wiÄ…c, tak. Szukam pracy. MoÅ¼e Wrightowie potrzebujÄ… kogoÅ› do pomocy?}
+{277}{}{Rodzina WrightÃ³w? Kto to?}
+{278}{}{Chris Wright, tak? Znam twojÄ… mamÄ™.}
+{279}{}{MoÅ¼esz mi powiedzieÄ‡, co siÄ™ staÅ‚o z twoim bratem, Richardem?}
 {280}{}{Wcale. Do widzenia.}
-{290}{}{Nie wiesz kim jest rodzina Wrightów? Pierwszy raz w mieœcie, czy zbyt d³ugo na pustyni? Wrightowie to najwiêksza rodzina przestêpcza w Reno. Nied³ugo bêdziemy rz¹dziæ tym miastem.}
-{291}{}{Serio? Wygl¹da na to, ¿e macie wszystkie asy w rêkawie. Mo¿e przyda wam siê ktoœ taki jak ja?}
-{292}{}{Prawdê mówi¹c, odnoszê wra¿enie, ¿e to jedna z najs³abszych rodzin... No wiesz, zajmujecie siê wy³¹cznie alkoholem, nie macie kasyna, nie handlujecie prochami. No i nie jesteœcie zbyt liczni, w porównaniu z innymi rodzinami.}
-{293}{}{Skoro o rodzinie mowa, znam twoj¹ mamê.}
-{294}{}{Mo¿esz mi powiedzieæ, co siê sta³o z twoim bratem, Richardem?}
-{295}{}{Naprawdê? To bardzo ciekawe... s³uchaj, muszê ju¿ iœæ.}
-{305}{}{Na przyk³ad?}
-{306}{}{Mo¿esz mi opowiedzieæ o rodzinie Wrightów?}
-{307}{}{Mo¿e Wrightom przyda siê ktoœ taki jak ja?}
-{308}{}{Rozmawialiœmy ostatnio z twoj¹ mam¹. Bardzo mi³a pani.}
-{309}{}{Mo¿esz mi powiedzieæ, co siê sta³o z twoim bratem, Richardem?}
-{310}{}{Nie, nie mam wiêcej pytañ. Lepiej ju¿ pójdê.}
-{315}{}{(M³ody mê¿czyzna odwraca siê w twoj¹ stronê, ogl¹da ciê uwa¿nie. Jego oczy zatrzymuj¹ siê na tatua¿u na twoim czole) No proszê. (Parska, spluwa ci pod nogi) Masz brudne buty, £owco. Wygl¹dasz jak niechluj. Mo¿e pora coœ z tym zrobiæ?}
-{316}{}{(M³ody mê¿czyzna odwraca siê w twoj¹ stronê, ogl¹da ciê uwa¿nie) No proszê. (Parska, spluwa ci pod nogi) Masz brudne buty. Wygl¹dasz jak niechluj, przydupasie [FA]. Mo¿e pora coœ z tym zrobiæ?}
-{317}{}{Kopnij go butem, który oplu³.}
-{318}{}{OdejdŸ}
-{319}{}{Daj mu spokój i odejdŸ. Wyrównasz rachunki nastêpnym razem.}
-{325}{}{Có¿... ja... to znaczy, rodzina Wrightów... moja rodzina... mo¿e mieæ dla ciebie jak¹œ robotê. Nic nie obiecujê, ale zajrzyj do posiad³oœci, na po³udnie st¹d, znajdŸ mojego brata, Keitha, i powiedz mu, ¿e ja ciê przysy³am. Jestem Chris. Chris Wright.}
-{326}{}{Rodzina Wrightów? Kto to taki?}
-{327}{}{Wright, tak? Znam twoj¹ mamê.}
-{328}{}{Mo¿esz mi powiedzieæ, co siê sta³o z twoim bratem, Richardem?}
-{329}{}{Dziêki. Porozmawiam z nim.}
-{335}{}{Raczej nie, nie potrzebujemy wiêcej ludzi. W Nowym Reno nie ³atwo teraz o pracê u którejœ z rodzin.}
+{290}{}{Nie wiesz kim jest rodzina WrightÃ³w? Pierwszy raz w mieÅ›cie, czy zbyt dÅ‚ugo na pustyni? Wrightowie to najwiÄ™ksza rodzina przestÄ™pcza w Reno. NiedÅ‚ugo bÄ™dziemy rzÄ…dziÄ‡ tym miastem.}
+{291}{}{Serio? WyglÄ…da na to, Å¼e macie wszystkie asy w rÄ™kawie. MoÅ¼e przyda wam siÄ™ ktoÅ› taki jak ja?}
+{292}{}{PrawdÄ™ mÃ³wiÄ…c, odnoszÄ™ wraÅ¼enie, Å¼e to jedna z najsÅ‚abszych rodzin... No wiesz, zajmujecie siÄ™ wyÅ‚Ä…cznie alkoholem, nie macie kasyna, nie handlujecie prochami. No i nie jesteÅ›cie zbyt liczni, w porÃ³wnaniu z innymi rodzinami.}
+{293}{}{Skoro o rodzinie mowa, znam twojÄ… mamÄ™.}
+{294}{}{MoÅ¼esz mi powiedzieÄ‡, co siÄ™ staÅ‚o z twoim bratem, Richardem?}
+{295}{}{NaprawdÄ™? To bardzo ciekawe... sÅ‚uchaj, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{305}{}{Na przykÅ‚ad?}
+{306}{}{MoÅ¼esz mi opowiedzieÄ‡ o rodzinie WrightÃ³w?}
+{307}{}{MoÅ¼e Wrightom przyda siÄ™ ktoÅ› taki jak ja?}
+{308}{}{RozmawialiÅ›my ostatnio z twojÄ… mamÄ…. Bardzo miÅ‚a pani.}
+{309}{}{MoÅ¼esz mi powiedzieÄ‡, co siÄ™ staÅ‚o z twoim bratem, Richardem?}
+{310}{}{Nie, nie mam wiÄ™cej pytaÅ„. Lepiej juÅ¼ pÃ³jdÄ™.}
+{315}{}{(MÅ‚ody mÄ™Å¼czyzna odwraca siÄ™ w twojÄ… stronÄ™, oglÄ…da ciÄ™ uwaÅ¼nie. Jego oczy zatrzymujÄ… siÄ™ na tatuaÅ¼u na twoim czole) No proszÄ™. (Parska, spluwa ci pod nogi) Masz brudne buty, Åowco. WyglÄ…dasz jak niechluj. MoÅ¼e pora coÅ› z tym zrobiÄ‡?}
+{316}{}{(MÅ‚ody mÄ™Å¼czyzna odwraca siÄ™ w twojÄ… stronÄ™, oglÄ…da ciÄ™ uwaÅ¼nie) No proszÄ™. (Parska, spluwa ci pod nogi) Masz brudne buty. WyglÄ…dasz jak niechluj, przydupasie [FA]. MoÅ¼e pora coÅ› z tym zrobiÄ‡?}
+{317}{}{Kopnij go butem, ktÃ³ry opluÅ‚.}
+{318}{}{OdejdÅº}
+{319}{}{Daj mu spokÃ³j i odejdÅº. WyrÃ³wnasz rachunki nastÄ™pnym razem.}
+{325}{}{CÃ³Å¼... ja... to znaczy, rodzina WrightÃ³w... moja rodzina... moÅ¼e mieÄ‡ dla ciebie jakÄ…Å› robotÄ™. Nic nie obiecujÄ™, ale zajrzyj do posiadÅ‚oÅ›ci, na poÅ‚udnie stÄ…d, znajdÅº mojego brata, Keitha, i powiedz mu, Å¼e ja ciÄ™ przysyÅ‚am. Jestem Chris. Chris Wright.}
+{326}{}{Rodzina WrightÃ³w? Kto to taki?}
+{327}{}{Wright, tak? Znam twojÄ… mamÄ™.}
+{328}{}{MoÅ¼esz mi powiedzieÄ‡, co siÄ™ staÅ‚o z twoim bratem, Richardem?}
+{329}{}{DziÄ™ki. Porozmawiam z nim.}
+{335}{}{Raczej nie, nie potrzebujemy wiÄ™cej ludzi. W Nowym Reno nie Å‚atwo teraz o pracÄ™ u ktÃ³rejÅ› z rodzin.}
 {336}{}{No to trudno.}
-{345}{}{Œwieeetnie. D³ugo glêdzi³a?}
-{346}{}{Trochê. Nie lubisz swojej matki?}
-{347}{}{Ani trochê. A zwykle glêdzi?}
-{348}{}{Raczej nie. S³uchaj, muszê ju¿ iœæ.}
-{355}{}{Co to ma byæ - DOWCIP? Jeœli tak, to za cholerê nie by³ œmieszny. Chcesz zacz¹æ z rodzin¹ Wrightów, m¹dralo?}
-{356}{}{Zacz¹æ? Nie, ja chcê z ni¹ SKOÑCZYÆ.}
-{357}{}{Przepraszam, to nie mia³o tak zabrzmieæ. Mam jeszcze kilka pytañ...}
-{358}{}{Ale¿ sk¹d! Lepiej bêdzie, jak sobie st¹d pójdê.}
-{365}{}{Ona po prostu nie zwraca uwagi na to, co siê dzieje wokó³ niej. Kocham j¹, itd., ale czasem potrafi byæ œlepa jak nietoperz.}
-{366}{}{Có¿, ca³kiem niedawno wpad³a do piwnicy, w której trzymamy aparaturê destylacyjn¹ i rozwali³a wszystko w drobny mak. Ca³y zacier diabli wziêli! Kocham j¹, itd., ale czasem potrafi byæ œlepa jak nietoperz.}
-{367}{}{He he. Wygl¹da te¿ podobnie.}
-{368}{}{Œlepa? Co masz na myœli?}
-{369}{}{Och. Mam kilka innych pytañ...}
-{370}{}{Pewnie masz racjê. Niestety, muszê ju¿ iœæ.}
-{380}{}{Prawi wszystkim kazania o trzeŸwoœci, ¿yciu bez grzechu i takich tam, a nie ma nawet pojêcia czym zajmuje siê Tato. Albo nie wie, albo nie chce wiedzieæ.}
-{381}{}{A czym zajmuje siê twój Tato?}
-{382}{}{Hmmmm. Niech bêdzie, mam jeszcze kilka innych pytañ...}
-{383}{}{To ciekawe. Có¿, muszê ju¿ iœæ.}
-{390}{}{Pêdzi bimber, handluje broni¹, zabija ludzi, którzy próbuj¹ go or¿n¹æ... to co ka¿da g³owa rodziny. Mama bardzo by siê wkurzy³a, gdyby wreszcie przejrza³a na oczy. A zw³aszcza, jakby znalaz³a tê aparaturê destylacyjn¹.}
-{391}{}{Jak bardzo by siê wkurzy³a?}
-{392}{}{Hmmmm. Niech bêdzie, mam jeszcze kilka innych pytañ...}
-{393}{}{To ciekawe. Có¿, muszê ju¿ iœæ.}
-{400}{}{Na tyle, ¿eby rozwaliæ to wszystko w drobny mak... co najmniej. Potem zabra³aby siê za nas - kazaniom nie by³o by koñca. He he he.}
-{401}{}{Ciekawe. Mam jeszcze kilka pytañ...}
-{402}{}{Hmmmmm. Dziêki.}
-{410}{}{Richard? No wiesz, znaleŸli go martwego w rynsztoku, jak jednego z tych pieprzonych jetowców. Wszystko wskazuje na to, ¿e ktoœ szprycowa³ go prochami, dopóki biedak nie przesta³ oddychaæ.}
-{411}{}{'Ktoœ' szprycowa³ go prochami? Sk¹d pewnoœæ, ¿e to on sam nie przedawkowa³ przypadkiem?}
-{412}{}{Jak myœlisz, kto to móg³ zrobiæ?}
-{413}{}{Przykro to s³yszeæ. Mam jeszcze kilka pytañ...}
-{414}{}{To fatalnie. Muszê ju¿ iœæ.}
-{420}{}{Bo ten dzieciak nie bra³... Chocia¿ tego Mama go nauczy³a. A jeœli zamierzasz twierdziæ inaczej, to mo¿emy sobie wszystko wyjaœniæ tu i teraz.}
-{421}{}{To nie mia³o tak zabrzmieæ. Nie wracajmy ju¿ do tego.}
-{422}{}{Nie mo¿esz ca³kowicie odrzucaæ mo¿liwoœci, ¿e by³ narkomanem. Jet uzale¿nia bardzo szybko i skutecznie.}
-{423}{}{S³uchaj, DZIECIAKU, jeœli ¿ycie ci nie zbrzyd³o, przestañ siê stawiaæ za ka¿dym razem, jak ktoœ powie ci odrobinê przykrej prawdy.}
-{424}{}{Jak myœlisz, kto to móg³ zrobiæ?}
-{425}{}{Nie szukam k³opotów. Lepiej ju¿ sobie pójdê.}
-{435}{}{Dobra, ale uwa¿aj co pleciesz. Za takie gadanie ka¿dy Wright zastrzeli ciê na miejscu, wiêc lepiej trzymaj jêzyk za zêbami, jasne?}
-{436}{}{Nie mo¿esz ca³kowicie odrzucaæ mo¿liwoœci, ¿e by³ narkomanem. Jet uzale¿nia bardzo szybko i skutecznie.}
-{437}{}{S³uchaj, DZIECIAKU, jeœli ci ¿ycie nie zbrzyd³o, przestañ siê stawiaæ za ka¿dym razem, jak ktoœ powie ci odrobinê przykrej prawdy.}
-{438}{}{Wybacz. Mam jeszcze kilka pytañ...}
-{439}{}{Jak s³oñce. Lepiej ju¿ sobie pójdê.}
-{445}{}{Spieprzaj st¹d. Nie mamy o czym gadaæ.}
+{345}{}{Åšwieeetnie. DÅ‚ugo glÄ™dziÅ‚a?}
+{346}{}{TrochÄ™. Nie lubisz swojej matki?}
+{347}{}{Ani trochÄ™. A zwykle glÄ™dzi?}
+{348}{}{Raczej nie. SÅ‚uchaj, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{355}{}{Co to ma byÄ‡ - DOWCIP? JeÅ›li tak, to za cholerÄ™ nie byÅ‚ Å›mieszny. Chcesz zaczÄ…Ä‡ z rodzinÄ… WrightÃ³w, mÄ…dralo?}
+{356}{}{ZaczÄ…Ä‡? Nie, ja chcÄ™ z niÄ… SKOÅƒCZYÄ†.}
+{357}{}{Przepraszam, to nie miaÅ‚o tak zabrzmieÄ‡. Mam jeszcze kilka pytaÅ„...}
+{358}{}{AleÅ¼ skÄ…d! Lepiej bÄ™dzie, jak sobie stÄ…d pÃ³jdÄ™.}
+{365}{}{Ona po prostu nie zwraca uwagi na to, co siÄ™ dzieje wokÃ³Å‚ niej. Kocham jÄ…, itd., ale czasem potrafi byÄ‡ Å›lepa jak nietoperz.}
+{366}{}{CÃ³Å¼, caÅ‚kiem niedawno wpadÅ‚a do piwnicy, w ktÃ³rej trzymamy aparaturÄ™ destylacyjnÄ… i rozwaliÅ‚a wszystko w drobny mak. CaÅ‚y zacier diabli wziÄ™li! Kocham jÄ…, itd., ale czasem potrafi byÄ‡ Å›lepa jak nietoperz.}
+{367}{}{He he. WyglÄ…da teÅ¼ podobnie.}
+{368}{}{Åšlepa? Co masz na myÅ›li?}
+{369}{}{Och. Mam kilka innych pytaÅ„...}
+{370}{}{Pewnie masz racjÄ™. Niestety, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{380}{}{Prawi wszystkim kazania o trzeÅºwoÅ›ci, Å¼yciu bez grzechu i takich tam, a nie ma nawet pojÄ™cia czym zajmuje siÄ™ Tato. Albo nie wie, albo nie chce wiedzieÄ‡.}
+{381}{}{A czym zajmuje siÄ™ twÃ³j Tato?}
+{382}{}{Hmmmm. Niech bÄ™dzie, mam jeszcze kilka innych pytaÅ„...}
+{383}{}{To ciekawe. CÃ³Å¼, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{390}{}{PÄ™dzi bimber, handluje broniÄ…, zabija ludzi, ktÃ³rzy prÃ³bujÄ… go orÅ¼nÄ…Ä‡... to co kaÅ¼da gÅ‚owa rodziny. Mama bardzo by siÄ™ wkurzyÅ‚a, gdyby wreszcie przejrzaÅ‚a na oczy. A zwÅ‚aszcza, jakby znalazÅ‚a tÄ™ aparaturÄ™ destylacyjnÄ….}
+{391}{}{Jak bardzo by siÄ™ wkurzyÅ‚a?}
+{392}{}{Hmmmm. Niech bÄ™dzie, mam jeszcze kilka innych pytaÅ„...}
+{393}{}{To ciekawe. CÃ³Å¼, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{400}{}{Na tyle, Å¼eby rozwaliÄ‡ to wszystko w drobny mak... co najmniej. Potem zabraÅ‚aby siÄ™ za nas - kazaniom nie byÅ‚o by koÅ„ca. He he he.}
+{401}{}{Ciekawe. Mam jeszcze kilka pytaÅ„...}
+{402}{}{Hmmmmm. DziÄ™ki.}
+{410}{}{Richard? No wiesz, znaleÅºli go martwego w rynsztoku, jak jednego z tych pieprzonych jetowcÃ³w. Wszystko wskazuje na to, Å¼e ktoÅ› szprycowaÅ‚ go prochami, dopÃ³ki biedak nie przestaÅ‚ oddychaÄ‡.}
+{411}{}{'KtoÅ›' szprycowaÅ‚ go prochami? SkÄ…d pewnoÅ›Ä‡, Å¼e to on sam nie przedawkowaÅ‚ przypadkiem?}
+{412}{}{Jak myÅ›lisz, kto to mÃ³gÅ‚ zrobiÄ‡?}
+{413}{}{Przykro to sÅ‚yszeÄ‡. Mam jeszcze kilka pytaÅ„...}
+{414}{}{To fatalnie. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{420}{}{Bo ten dzieciak nie braÅ‚... ChociaÅ¼ tego Mama go nauczyÅ‚a. A jeÅ›li zamierzasz twierdziÄ‡ inaczej, to moÅ¼emy sobie wszystko wyjaÅ›niÄ‡ tu i teraz.}
+{421}{}{To nie miaÅ‚o tak zabrzmieÄ‡. Nie wracajmy juÅ¼ do tego.}
+{422}{}{Nie moÅ¼esz caÅ‚kowicie odrzucaÄ‡ moÅ¼liwoÅ›ci, Å¼e byÅ‚ narkomanem. Jet uzaleÅ¼nia bardzo szybko i skutecznie.}
+{423}{}{SÅ‚uchaj, DZIECIAKU, jeÅ›li Å¼ycie ci nie zbrzydÅ‚o, przestaÅ„ siÄ™ stawiaÄ‡ za kaÅ¼dym razem, jak ktoÅ› powie ci odrobinÄ™ przykrej prawdy.}
+{424}{}{Jak myÅ›lisz, kto to mÃ³gÅ‚ zrobiÄ‡?}
+{425}{}{Nie szukam kÅ‚opotÃ³w. Lepiej juÅ¼ sobie pÃ³jdÄ™.}
+{435}{}{Dobra, ale uwaÅ¼aj co pleciesz. Za takie gadanie kaÅ¼dy Wright zastrzeli ciÄ™ na miejscu, wiÄ™c lepiej trzymaj jÄ™zyk za zÄ™bami, jasne?}
+{436}{}{Nie moÅ¼esz caÅ‚kowicie odrzucaÄ‡ moÅ¼liwoÅ›ci, Å¼e byÅ‚ narkomanem. Jet uzaleÅ¼nia bardzo szybko i skutecznie.}
+{437}{}{SÅ‚uchaj, DZIECIAKU, jeÅ›li ci Å¼ycie nie zbrzydÅ‚o, przestaÅ„ siÄ™ stawiaÄ‡ za kaÅ¼dym razem, jak ktoÅ› powie ci odrobinÄ™ przykrej prawdy.}
+{438}{}{Wybacz. Mam jeszcze kilka pytaÅ„...}
+{439}{}{Jak sÅ‚oÅ„ce. Lepiej juÅ¼ sobie pÃ³jdÄ™.}
+{445}{}{Spieprzaj stÄ…d. Nie mamy o czym gadaÄ‡.}
 {446}{}{Czekaj, mam jeszcze jedno pytanie...}
-{447}{}{Spokojnie, ju¿ sobie idê.}
-{455}{}{(Chris gapi siê na ciebie przez chwilê, potem atakuje!)}
-{456}{}{A wiêc TEGO chcesz, tak? DOBRA, ¯ARTY SKOÑCZONE...}
-{465}{}{Stawiam na rodzinê Mordino - albo jeden z ich dealerów, albo ktoœ z samej rodziny. Te sukinsyny wytwarzaj¹ ca³e tony Jetu.}
-{466}{}{Rozumiem. Mam jeszcze kilka pytañ...}
-{467}{}{A twoim zdaniem, który z tych dealerów podsun¹³ Jet Richardowi?}
-{468}{}{Rozumiem. Lepiej ju¿ sobie pójdê.}
-{475}{}{To móg³ byæ ka¿dy z nich: Szramiasty Jimmy J, ten pochlastany sukinsyn z Alei Dziewic, albo Renesco Rakieciarz, gnida handluj¹ca Jetem w zachodniej czêœci miasta.}
-{476}{}{Ktoœ jeszcze?}
-{477}{}{Rozumiem. Mam jeszcze kilka pytañ...}
-{485}{}{Hej, stary, dziêkujê.}
-{486}{}{Hej, psze pani, dziêkujê.}
-{487}{}{Jeœli dowiesz siê kto za³atwi³ mojego brata, ca³a rodzina Wrightów bêdzie ci wdziêczna. A to nie jest ma³o, kapujesz?}
-{488}{}{Rozumiem. Pogadamy póŸniej, Chris. }
-{495}{}{Jules przy wejœciu do miasta te¿ sprzedaje Jet, ale g³ównie turystom... No i Ma³y Jesus Mordino móg³ spróbowaæ takiego numeru. Przesiaduje zwykle w Desperado.}
-{496}{}{Rozumiem. Mam jeszcze kilka pytañ...}
-{497}{}{Szramiasty Jimmy J, Renesco Rakieciarz, Jules i Ma³y Jesus... Pogadam z nimi. Dziêki za informacje, Chris. }
-{1200}{}{! Enklawa nie mia³a szans!}
-{1201}{}{! Rz¹dzisz!}
+{447}{}{Spokojnie, juÅ¼ sobie idÄ™.}
+{455}{}{(Chris gapi siÄ™ na ciebie przez chwilÄ™, potem atakuje!)}
+{456}{}{A wiÄ™c TEGO chcesz, tak? DOBRA, Å»ARTY SKOÅƒCZONE...}
+{465}{}{Stawiam na rodzinÄ™ Mordino - albo jeden z ich dealerÃ³w, albo ktoÅ› z samej rodziny. Te sukinsyny wytwarzajÄ… caÅ‚e tony Jetu.}
+{466}{}{Rozumiem. Mam jeszcze kilka pytaÅ„...}
+{467}{}{A twoim zdaniem, ktÃ³ry z tych dealerÃ³w podsunÄ…Å‚ Jet Richardowi?}
+{468}{}{Rozumiem. Lepiej juÅ¼ sobie pÃ³jdÄ™.}
+{475}{}{To mÃ³gÅ‚ byÄ‡ kaÅ¼dy z nich: Szramiasty Jimmy J, ten pochlastany sukinsyn z Alei Dziewic, albo Renesco Rakieciarz, gnida handlujÄ…ca Jetem w zachodniej czÄ™Å›ci miasta.}
+{476}{}{KtoÅ› jeszcze?}
+{477}{}{Rozumiem. Mam jeszcze kilka pytaÅ„...}
+{485}{}{Hej, stary, dziÄ™kujÄ™.}
+{486}{}{Hej, psze pani, dziÄ™kujÄ™.}
+{487}{}{JeÅ›li dowiesz siÄ™ kto zaÅ‚atwiÅ‚ mojego brata, caÅ‚a rodzina WrightÃ³w bÄ™dzie ci wdziÄ™czna. A to nie jest maÅ‚o, kapujesz?}
+{488}{}{Rozumiem. Pogadamy pÃ³Åºniej, Chris. }
+{495}{}{Jules przy wejÅ›ciu do miasta teÅ¼ sprzedaje Jet, ale gÅ‚Ã³wnie turystom... No i MaÅ‚y Jesus Mordino mÃ³gÅ‚ sprÃ³bowaÄ‡ takiego numeru. Przesiaduje zwykle w Desperado.}
+{496}{}{Rozumiem. Mam jeszcze kilka pytaÅ„...}
+{497}{}{Szramiasty Jimmy J, Renesco Rakieciarz, Jules i MaÅ‚y Jesus... Pogadam z nimi. DziÄ™ki za informacje, Chris. }
+{1200}{}{! Enklawa nie miaÅ‚a szans!}
+{1201}{}{! RzÄ…dzisz!}
 {1202}{}{!}
-{1220}{}{. Co siê z tob¹ dzia³o?}
+{1220}{}{. Co siÄ™ z tobÄ… dziaÅ‚o?}
 {1221}{}{?}
 {1222}{}{. Jak leci?}
-{1246}{}{? Wszystko w porz¹dku? Potrzebujesz czegoœ?}
+{1246}{}{? Wszystko w porzÄ…dku? Potrzebujesz czegoÅ›?}

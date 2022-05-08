@@ -1,24 +1,24 @@
-{100}{}{Widzisz korpulentnego, wygl¹daj¹cego na ksiêgowego mê¿czyznê.}
-{101}{}{Widzisz ksiêgowego Nordinga.}
-{102}{}{Widzisz nerwowego, korpulentnego cz³owieczka.}
-{103}{}{Nie mo¿emy ci zap³aciæ za opuszczenie karawany.}
-{104}{}{Ee, z karawany zniknê³y pewne rzeczy. Prawo RNK nie pozwala mi na p³acenie z³odziejowi. Przykro mi.}
-{105}{}{Z³odzieja? Wypraszam sobie, cholerny niewdziêczniku! Wychodzê! Do widzenia!}
-{106}{}{Któregoœ dnia, nied³ugo, po¿a³ujesz tego. ¯egnam.}
-{107}{}{Nie mogê wynagrodziæ ciê za tak katastrofaln¹ karawanê. Nic ode mnie nie otrzymasz.}
-{108}{}{Ty draniu! Zap³acisz mi za to oszustwo. ¯egnam.}
-{109}{}{Có¿, czasami ma siê wiêksze szczêœcie od innych. Tym razem by³o odwrotnie. ¯egnaj.}
-{110}{}{To by³a niedochodowa karawana. Nie mogê wydaæ ci jako twój udzia³ wiêcej ni¿ 50$.}
-{111}{}{Có¿, coœ to chyba i tak lepiej ni¿ nic. Na razie.}
-{112}{}{Ty draniu! Nikt nie móg³by zrobiæ lepszej roboty. Po¿a³ujesz tego oszustwa. ¯egnam.}
-{113}{}{Nie by³o tak Ÿle. Oto twoje 100$. Nie wiem, kiedy znajdziemy kogoœ do prowadzenia karawany, ale je¿eli nam siê to uda, to mo¿esz dla nas znowu pracowaæ.}
-{114}{}{Nie chcê ju¿ chyba nigdy wiêcej spêdziæ tyle czasu gapi¹c siê w dupê braminy. Do widzenia.}
-{115}{}{Nie by³o tak Ÿle. Dziêki. Na razie.}
-{116}{}{To by³ dobry kurs, mimo ¿e straciliœmy Stanwella. Ka¿de ¿ycie musi mieæ swoje wzloty i upadki. Oto 100$, plus 50$ z dzia³ki Stanwella.}
-{117}{}{Mi³o znaleŸæ kogoœ, kto docenia widoczn¹ jakoœæ. Mo¿e jeszcze siê zobaczymy. Na razie.}
-{118}{}{Zawsze mi³o jest zarobiæ dodatkowe pieni¹dze. Dziêki, i na razie.}
-{119}{}{W RNK trzymano by ciê w mi³ym odosobnieniu i nie zmuszano do podejmowania ciê¿kich decyzji w naszym œwiecie. Przynajmniej pozwoliliœmy ci bezpiecznie podró¿owaæ. ¯egnam.}
+{100}{}{Widzisz korpulentnego, wyglÄ…dajÄ…cego na ksiÄ™gowego mÄ™Å¼czyznÄ™.}
+{101}{}{Widzisz ksiÄ™gowego Nordinga.}
+{102}{}{Widzisz nerwowego, korpulentnego czÅ‚owieczka.}
+{103}{}{Nie moÅ¼emy ci zapÅ‚aciÄ‡ za opuszczenie karawany.}
+{104}{}{Ee, z karawany zniknÄ™Å‚y pewne rzeczy. Prawo RNK nie pozwala mi na pÅ‚acenie zÅ‚odziejowi. Przykro mi.}
+{105}{}{ZÅ‚odzieja? Wypraszam sobie, cholerny niewdziÄ™czniku! WychodzÄ™! Do widzenia!}
+{106}{}{KtÃ³regoÅ› dnia, niedÅ‚ugo, poÅ¼aÅ‚ujesz tego. Å»egnam.}
+{107}{}{Nie mogÄ™ wynagrodziÄ‡ ciÄ™ za tak katastrofalnÄ… karawanÄ™. Nic ode mnie nie otrzymasz.}
+{108}{}{Ty draniu! ZapÅ‚acisz mi za to oszustwo. Å»egnam.}
+{109}{}{CÃ³Å¼, czasami ma siÄ™ wiÄ™ksze szczÄ™Å›cie od innych. Tym razem byÅ‚o odwrotnie. Å»egnaj.}
+{110}{}{To byÅ‚a niedochodowa karawana. Nie mogÄ™ wydaÄ‡ ci jako twÃ³j udziaÅ‚ wiÄ™cej niÅ¼ 50$.}
+{111}{}{CÃ³Å¼, coÅ› to chyba i tak lepiej niÅ¼ nic. Na razie.}
+{112}{}{Ty draniu! Nikt nie mÃ³gÅ‚by zrobiÄ‡ lepszej roboty. PoÅ¼aÅ‚ujesz tego oszustwa. Å»egnam.}
+{113}{}{Nie byÅ‚o tak Åºle. Oto twoje 100$. Nie wiem, kiedy znajdziemy kogoÅ› do prowadzenia karawany, ale jeÅ¼eli nam siÄ™ to uda, to moÅ¼esz dla nas znowu pracowaÄ‡.}
+{114}{}{Nie chcÄ™ juÅ¼ chyba nigdy wiÄ™cej spÄ™dziÄ‡ tyle czasu gapiÄ…c siÄ™ w dupÄ™ braminy. Do widzenia.}
+{115}{}{Nie byÅ‚o tak Åºle. DziÄ™ki. Na razie.}
+{116}{}{To byÅ‚ dobry kurs, mimo Å¼e straciliÅ›my Stanwella. KaÅ¼de Å¼ycie musi mieÄ‡ swoje wzloty i upadki. Oto 100$, plus 50$ z dziaÅ‚ki Stanwella.}
+{117}{}{MiÅ‚o znaleÅºÄ‡ kogoÅ›, kto docenia widocznÄ… jakoÅ›Ä‡. MoÅ¼e jeszcze siÄ™ zobaczymy. Na razie.}
+{118}{}{Zawsze miÅ‚o jest zarobiÄ‡ dodatkowe pieniÄ…dze. DziÄ™ki, i na razie.}
+{119}{}{W RNK trzymano by ciÄ™ w miÅ‚ym odosobnieniu i nie zmuszano do podejmowania ciÄ™Å¼kich decyzji w naszym Å›wiecie. Przynajmniej pozwoliliÅ›my ci bezpiecznie podrÃ³Å¼owaÄ‡. Å»egnam.}
 {120}{}{Yyy?}
-{121}{}{Jaka szkoda, ¿e Stanwell pozwoli³ siê zabiæ. Nazywam siê Nording. Zajmê siê naszymi d³ugami.}
-{122}{}{Ee, dziêki.}
-{123}{}{Cholernie szkoda, ¿e Stanwell pozwoli³ siê zabiæ.}
+{121}{}{Jaka szkoda, Å¼e Stanwell pozwoliÅ‚ siÄ™ zabiÄ‡. Nazywam siÄ™ Nording. ZajmÄ™ siÄ™ naszymi dÅ‚ugami.}
+{122}{}{Ee, dziÄ™ki.}
+{123}{}{Cholernie szkoda, Å¼e Stanwell pozwoliÅ‚ siÄ™ zabiÄ‡.}

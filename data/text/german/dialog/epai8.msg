@@ -1,5 +1,5 @@
 {100}{}{Es scheint ein Problem mit diesem Aufzug zu geben.}
 {101}{}{Dieser Aufzug funktioniert offensichtlich nicht. Du musst einen anderen Weg finden.}
-{102}{}{Du siehst eine beschädigte Aufzugstür.}
-{103}{}{Nach einer näheren Inspektion fällt dir auf, dass die Aufzugkabine fehlt und die Türen verklemmt sind.}
+{102}{}{Du siehst eine beschÃ¤digte AufzugstÃ¼r.}
+{103}{}{Nach einer nÃ¤heren Inspektion fÃ¤llt dir auf, dass die Aufzugkabine fehlt und die TÃ¼ren verklemmt sind.}
 {104}{}{Du hast keine Chance das zu reparieren.}

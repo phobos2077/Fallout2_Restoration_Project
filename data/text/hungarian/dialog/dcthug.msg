@@ -1,15 +1,15 @@
 {100}{}{Egy bandatag.}
-{150}{}{Elég kegyetlennek néz ki.}
+{150}{}{ElÃ©g kegyetlennek nÃ©z ki.}
 {151}{}{Takarodj el?lem!}
 {152}{}{Keresed a bajt?}
-{153}{}{Na, csak sétálj szépen tovább!}
-{154}{}{Nem érdekel.}
+{153}{}{Na, csak sÃ©tÃ¡lj szÃ©pen tovÃ¡bb!}
+{154}{}{Nem Ã©rdekel.}
 {155}{}{T?nj el!}
-{200}{}{Hé, faszikám!}
-{201}{}{Bajba akarsz kerülni?}
+{200}{}{HÃ©, faszikÃ¡m!}
+{201}{}{Bajba akarsz kerÃ¼lni?}
 {202}{}{Gyere ide, cicus!}
-{203}{}{Ne akard, hogy odamenjek és seggbe rúgjalak!}
-{204}{}{Hozzám beszélsz?}
-{205}{}{Szeretnél egy kicsit?}
-{206}{}{Hé, bébi, gyere ide!}
-{207}{}{Hé, tetszik, amit látsz?}
+{203}{}{Ne akard, hogy odamenjek Ã©s seggbe rÃºgjalak!}
+{204}{}{HozzÃ¡m beszÃ©lsz?}
+{205}{}{SzeretnÃ©l egy kicsit?}
+{206}{}{HÃ©, bÃ©bi, gyere ide!}
+{207}{}{HÃ©, tetszik, amit lÃ¡tsz?}

@@ -1,13 +1,13 @@
 {100}{}{Die werden 'nen guten Preis auf dem Markt bringen.}
-{101}{}{Versuch, die Ware nicht zu beschädigen.}
+{101}{}{Versuch, die Ware nicht zu beschÃ¤digen.}
 {102}{}{Du wirst 'nen temperamentvollen Sklaven abgeben.}
 {103}{}{Das ist nicht gut.}
-{104}{}{Zurück!}
-{105}{}{Vielleicht sollt ich statt dessen Möbel verkaufen.}
-{106}{}{Sklavenhändler sollten sich nicht gegenseitig angreifen.}
+{104}{}{ZurÃ¼ck!}
+{105}{}{Vielleicht sollt ich statt dessen MÃ¶bel verkaufen.}
+{106}{}{SklavenhÃ¤ndler sollten sich nicht gegenseitig angreifen.}
 {107}{}{Die Gilde wird das erfahren!}
 {108}{}{Was machst du?}
-{109}{}{Und - Glück gehabt?}
+{109}{}{Und - GlÃ¼ck gehabt?}
 {110}{}{Gute Sklaven gefunden?}
 {111}{}{Wir schauen uns nach neuer Ware um.}
 {112}{}{Das ist unser Gebiet.}

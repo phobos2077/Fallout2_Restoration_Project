@@ -1,198 +1,198 @@
-{100}{}{Widzisz Fillis, Praktykantkê Medyczn¹.}
-{101}{}{Widzisz m³od¹, szczup³¹ kobietê, od której rozchodzi siê delikatny zapach œrodków odka¿aj¹cych.}
+{100}{}{Widzisz Fillis, PraktykantkÄ™ MedycznÄ….}
+{101}{}{Widzisz mÅ‚odÄ…, szczupÅ‚Ä… kobietÄ™, od ktÃ³rej rozchodzi siÄ™ delikatny zapach Å›rodkÃ³w odkaÅ¼ajÄ…cych.}
 {102}{}{Widzisz PM Fillis.}
-{103}{}{Widzisz m³od¹, szczup³¹ kobietê, od której rozchodzi siê delikatny zapach œrodków odka¿aj¹cych.}
-{104}{}{¯eby tak ryzykowaæ ¿yciem dla dobra nas WSZYSTKICH. Jesteœ najodwa¿niejsz¹ osob¹, jak¹ kiedykolwiek pozna³am.}
-{105}{}{Intruz! Uaaaaa! Stra¿e!}
-{106}{}{To jest mutant! Uaaaaa! Stra¿e!}
-{107}{}{To jest ghul! Uaaaaa! Stra¿e!}
-{108}{}{Trzeba by wydrukowaæ te wykresy od Gregory'ego...}
-{109}{}{Spójrzmy, co my tu mamy... trzech S³u¿¹cych do zaszczepienia na czternast¹...}
-{110}{}{Jeszcze jedno "biip" i zwariujê...}
-{111}{}{Dajê s³owo, ¿e te bazy danych ze sob¹ gadaj¹...}
-{112}{}{Spójrzmy... trzy strzykawki, trzy odka¿acze, trzy pastylki Rad-X...}
-{113}{}{Lepiej wezmê siê za przygotowywanie doktora Troya do jutrzejszego seminarium...}
-{114}{}{Kurczê, ZNOWU ka¿¹ mi pracowaæ do póŸna. Oczywiœcie przy robieniu spisów.}
-{115}{}{Mo¿e lepiej wróæ rano.}
-{116}{}{Jeœli to coœ nag³ego, to wpiszê ciê na listê na jutro rano.}
-{117}{}{Chcê do domu. Ca³e to robienie spisów mnie wykañcza.}
-{118}{}{Bêdzie najlepiej, jeœli przyjdziesz rano. Muszê jeszcze dokoñczyæ te spisy.}
-{119}{}{Biedny dr Troy. On NIC nie zrobi³!}
-{120}{}{Czemu wygnaliœcie doktora Troya?}
-{121}{}{Mam nadziejê, ¿e dr Troy poradzi sobie na Pustkowiach...}
-{122}{}{Hmmpf. Nie mogê teraz z tob¹ gadaæ. Jeœli czegoœ potrzebujesz, idŸ do doktora Troya.}
-{123}{}{Och! Witaj. Nie widzia³am ciê tu wczeœniej... jesteœ nowym Obywatelem?}
+{103}{}{Widzisz mÅ‚odÄ…, szczupÅ‚Ä… kobietÄ™, od ktÃ³rej rozchodzi siÄ™ delikatny zapach Å›rodkÃ³w odkaÅ¼ajÄ…cych.}
+{104}{}{Å»eby tak ryzykowaÄ‡ Å¼yciem dla dobra nas WSZYSTKICH. JesteÅ› najodwaÅ¼niejszÄ… osobÄ…, jakÄ… kiedykolwiek poznaÅ‚am.}
+{105}{}{Intruz! Uaaaaa! StraÅ¼e!}
+{106}{}{To jest mutant! Uaaaaa! StraÅ¼e!}
+{107}{}{To jest ghul! Uaaaaa! StraÅ¼e!}
+{108}{}{Trzeba by wydrukowaÄ‡ te wykresy od Gregory'ego...}
+{109}{}{SpÃ³jrzmy, co my tu mamy... trzech SÅ‚uÅ¼Ä…cych do zaszczepienia na czternastÄ…...}
+{110}{}{Jeszcze jedno "biip" i zwariujÄ™...}
+{111}{}{DajÄ™ sÅ‚owo, Å¼e te bazy danych ze sobÄ… gadajÄ…...}
+{112}{}{SpÃ³jrzmy... trzy strzykawki, trzy odkaÅ¼acze, trzy pastylki Rad-X...}
+{113}{}{Lepiej wezmÄ™ siÄ™ za przygotowywanie doktora Troya do jutrzejszego seminarium...}
+{114}{}{KurczÄ™, ZNOWU kaÅ¼Ä… mi pracowaÄ‡ do pÃ³Åºna. OczywiÅ›cie przy robieniu spisÃ³w.}
+{115}{}{MoÅ¼e lepiej wrÃ³Ä‡ rano.}
+{116}{}{JeÅ›li to coÅ› nagÅ‚ego, to wpiszÄ™ ciÄ™ na listÄ™ na jutro rano.}
+{117}{}{ChcÄ™ do domu. CaÅ‚e to robienie spisÃ³w mnie wykaÅ„cza.}
+{118}{}{BÄ™dzie najlepiej, jeÅ›li przyjdziesz rano. MuszÄ™ jeszcze dokoÅ„czyÄ‡ te spisy.}
+{119}{}{Biedny dr Troy. On NIC nie zrobiÅ‚!}
+{120}{}{Czemu wygnaliÅ›cie doktora Troya?}
+{121}{}{Mam nadziejÄ™, Å¼e dr Troy poradzi sobie na Pustkowiach...}
+{122}{}{Hmmpf. Nie mogÄ™ teraz z tobÄ… gadaÄ‡. JeÅ›li czegoÅ› potrzebujesz, idÅº do doktora Troya.}
+{123}{}{Och! Witaj. Nie widziaÅ‚am ciÄ™ tu wczeÅ›niej... jesteÅ› nowym Obywatelem?}
 {124}{}{Och! Witaj ponownie.}
 {125}{}{Oby-Watem?}
 {126}{}{Pon-ownie?}
-{127}{}{Ja boli... *snfff*... auæ BOLI}
-{128}{}{W³aœciwie, to jestem nowym Kapitanem Stra¿y.}
-{129}{}{Tia, moje obywatelstwo jest ca³kiem œwie¿e.}
-{130}{}{Eee, tak, moje obywatelstwo jest ca³kiem œwie¿e.}
-{131}{}{Wybacz, moja pomy³ka. Szukam kogoœ innego. Do widzenia.}
-{132}{}{Ojej, to musi boleæ, prawda? Przepraszam, powinnam bardziej uwa¿aæ. PójdŸ lepiej do doktora Troya, on siê tob¹ zajmie.}
+{127}{}{Ja boli... *snfff*... auÄ‡ BOLI}
+{128}{}{WÅ‚aÅ›ciwie, to jestem nowym Kapitanem StraÅ¼y.}
+{129}{}{Tia, moje obywatelstwo jest caÅ‚kiem Å›wieÅ¼e.}
+{130}{}{Eee, tak, moje obywatelstwo jest caÅ‚kiem Å›wieÅ¼e.}
+{131}{}{Wybacz, moja pomyÅ‚ka. Szukam kogoÅ› innego. Do widzenia.}
+{132}{}{Ojej, to musi boleÄ‡, prawda? Przepraszam, powinnam bardziej uwaÅ¼aÄ‡. PÃ³jdÅº lepiej do doktora Troya, on siÄ™ tobÄ… zajmie.}
 {133}{}{Uch... obra? Tak-tak.}
-{134}{}{Czy mogê najpierw zadaæ ci kilka pytañ?}
-{135}{}{Dziêki. Ju¿ do niego idê.}
-{136}{}{Och! Jesteœ pewnie jednym ze S³u¿¹cych przypisanych tu na dzisiaj. Musisz... hmm, TY - IŒÆ - MARTIN.}
-{137}{}{Uch... hmmm. Pos³uchaj mnie, tym razem uwa¿nie: TY - IŒÆ - MARTIN.}
+{134}{}{Czy mogÄ™ najpierw zadaÄ‡ ci kilka pytaÅ„?}
+{135}{}{DziÄ™ki. JuÅ¼ do niego idÄ™.}
+{136}{}{Och! JesteÅ› pewnie jednym ze SÅ‚uÅ¼Ä…cych przypisanych tu na dzisiaj. Musisz... hmm, TY - IÅšÄ† - MARTIN.}
+{137}{}{Uch... hmmm. PosÅ‚uchaj mnie, tym razem uwaÅ¼nie: TY - IÅšÄ† - MARTIN.}
 {138}{}{TYCI MARTIN.}
-{139}{}{Ja boli... *snfff*... auæ BOLI}
-{140}{}{OdejdŸ bez s³owa.}
-{141}{}{TAK, MARTIN. IŒÆ - DOLNY - POZIOM.}
-{142}{}{TAK, MAR-TIN. IŒÆ - DOLNY - POZIOM.}
-{143}{}{Ja boli... *snfff*... auæ BOLI}
-{144}{}{OdejdŸ bez s³owa.}
-{145}{}{IŒÆ - DOLNY - POZIOM. POZIOM - TRZY. JU¯.}
-{146}{}{JA IŒÆ DOLNY POZIOM TRZY JU¯}
-{147}{}{Ja boli... *snfff*... auæ BOLI}
-{148}{}{OdejdŸ bez s³owa.}
-{149}{}{Mo¿e nasi S³u¿¹cy cierpi¹ na Zespó³ Nabytego Braku Inteligencji...}
-{150}{}{Och! Có¿, witamy w Kryptopolis, Kapitanie.}
-{151}{}{Có¿, drogi Obywatelu, witamy w Kryptopolis.}
-{152}{}{Rzadko zagl¹da tu ktoœ nowy. Jestem Fillis. A ty jak masz na imiê?}
+{139}{}{Ja boli... *snfff*... auÄ‡ BOLI}
+{140}{}{OdejdÅº bez sÅ‚owa.}
+{141}{}{TAK, MARTIN. IÅšÄ† - DOLNY - POZIOM.}
+{142}{}{TAK, MAR-TIN. IÅšÄ† - DOLNY - POZIOM.}
+{143}{}{Ja boli... *snfff*... auÄ‡ BOLI}
+{144}{}{OdejdÅº bez sÅ‚owa.}
+{145}{}{IÅšÄ† - DOLNY - POZIOM. POZIOM - TRZY. JUÅ».}
+{146}{}{JA IÅšÄ† DOLNY POZIOM TRZY JUÅ»}
+{147}{}{Ja boli... *snfff*... auÄ‡ BOLI}
+{148}{}{OdejdÅº bez sÅ‚owa.}
+{149}{}{MoÅ¼e nasi SÅ‚uÅ¼Ä…cy cierpiÄ… na ZespÃ³Å‚ Nabytego Braku Inteligencji...}
+{150}{}{Och! CÃ³Å¼, witamy w Kryptopolis, Kapitanie.}
+{151}{}{CÃ³Å¼, drogi Obywatelu, witamy w Kryptopolis.}
+{152}{}{Rzadko zaglÄ…da tu ktoÅ› nowy. Jestem Fillis. A ty jak masz na imiÄ™?}
 {153}{}{Jestem }
 {154}{}{Jestem }
-{155}{}{Przedstawiam siê, gdy mam tak¹ chêæ, "Sy-filis"... czy jak ciê tam u diab³a zw¹.}
+{155}{}{Przedstawiam siÄ™, gdy mam takÄ… chÄ™Ä‡, "Sy-filis"... czy jak ciÄ™ tam u diabÅ‚a zwÄ….}
 {156}{}{Przepraszam, ale nie mam teraz czasu na pogaduszki.}
-{157}{}{Co takiego, na wszystkie...! NIGDY nie zdarzy³o mi siê spotkaæ kogoœ równie Ÿle wychowanego. Proszê wyjœæ, natychmiast.}
-{158}{}{Lepiej uwa¿aj na ton, albo bêdziesz mieæ k³opoty.}
-{159}{}{Wszystko jedno. I tak koñczê z tob¹ gadaæ.}
-{160}{}{Stra¿e! Doktorze Troy! Na pomoc!}
-{161}{}{Ach wiêc tak siê bêdziemy bawiæ, hê? Jak chcesz...}
-{162}{}{Jestem Praktykantk¹ Medyczn¹. Pracujê dla Doktora Troya.}
-{163}{}{Co myœlisz o doktorze Troyu?}
-{164}{}{Czy mogê zadaæ ci kilka pytañ?}
-{165}{}{Œwietnie. Przyda³aby mi siê pomoc medyczna.}
+{157}{}{Co takiego, na wszystkie...! NIGDY nie zdarzyÅ‚o mi siÄ™ spotkaÄ‡ kogoÅ› rÃ³wnie Åºle wychowanego. ProszÄ™ wyjÅ›Ä‡, natychmiast.}
+{158}{}{Lepiej uwaÅ¼aj na ton, albo bÄ™dziesz mieÄ‡ kÅ‚opoty.}
+{159}{}{Wszystko jedno. I tak koÅ„czÄ™ z tobÄ… gadaÄ‡.}
+{160}{}{StraÅ¼e! Doktorze Troy! Na pomoc!}
+{161}{}{Ach wiÄ™c tak siÄ™ bÄ™dziemy bawiÄ‡, hÄ™? Jak chcesz...}
+{162}{}{Jestem PraktykantkÄ… MedycznÄ…. PracujÄ™ dla Doktora Troya.}
+{163}{}{Co myÅ›lisz o doktorze Troyu?}
+{164}{}{Czy mogÄ™ zadaÄ‡ ci kilka pytaÅ„?}
+{165}{}{Åšwietnie. PrzydaÅ‚aby mi siÄ™ pomoc medyczna.}
 {166}{}{Przepraszam, ale nie mam teraz czasu na pogaduszki.}
-{167}{}{Witam ponownie. W czym mogê pomóc?}
-{168}{}{Oczywiœcie. Co chcesz wiedzieæ?}
-{169}{}{Co myœlisz o doktorze Troyu?}
-{170}{}{Czy mo¿esz mi powiedzieæ, gdzie jest G³ówny Komputer?}
-{171}{}{Potrzebujê uzdrowienia.}
-{172}{}{Czym siê tutaj zajmujesz?}
+{167}{}{Witam ponownie. W czym mogÄ™ pomÃ³c?}
+{168}{}{OczywiÅ›cie. Co chcesz wiedzieÄ‡?}
+{169}{}{Co myÅ›lisz o doktorze Troyu?}
+{170}{}{Czy moÅ¼esz mi powiedzieÄ‡, gdzie jest GÅ‚Ã³wny Komputer?}
+{171}{}{PotrzebujÄ™ uzdrowienia.}
+{172}{}{Czym siÄ™ tutaj zajmujesz?}
 {173}{}{Opowiedz mi o Kryptopolis?}
-{174}{}{W³aœciwie to niewa¿ne, ale i tak dziêki.}
-{175}{}{Och, dr Troy potrafi byæ czasem bardzo surowy, ale w gruncie rzeczy jest dobrym cz³owiekiem. To wielkie szczêœcie dla Kryptopolis, ¿e jest z nami.}
-{176}{}{Bo wiesz, chcia³, ¿eby przeszmuglowaæ mu tutaj trochê narkotyków.}
-{177}{}{Mogê zadaæ inne pytanie?}
-{178}{}{Dziêki za pomoc. Do zobaczenia.}
+{174}{}{WÅ‚aÅ›ciwie to niewaÅ¼ne, ale i tak dziÄ™ki.}
+{175}{}{Och, dr Troy potrafi byÄ‡ czasem bardzo surowy, ale w gruncie rzeczy jest dobrym czÅ‚owiekiem. To wielkie szczÄ™Å›cie dla Kryptopolis, Å¼e jest z nami.}
+{176}{}{Bo wiesz, chciaÅ‚, Å¼eby przeszmuglowaÄ‡ mu tutaj trochÄ™ narkotykÃ³w.}
+{177}{}{MogÄ™ zadaÄ‡ inne pytanie?}
+{178}{}{DziÄ™ki za pomoc. Do zobaczenia.}
 {179}{}{}
 {180}{}{}
-{181}{}{Serio? To w ogóle niepodobne do doktora Troya. Co prawda... RZECZYWIŒCIE pracowa³ ostatnio bardzo ciê¿ko... niee, to niemo¿liwe. Musia³o coœ ci siê pomyliæ.}
-{182}{}{Nie s¹dzê. Wyrazi³ siê bardzo jasno.}
-{183}{}{Hmmmm. Mogê zadaæ inne pytanie?}
-{184}{}{W takim razie niewa¿ne.}
-{185}{}{Na twoim miejscu by³abym BARDZO ostro¿na w wyg³aszaniu s¹dów na temat doktora Troya, który jest szanowanym cz³onkiem naszej spo³ecznoœci.}
-{186}{}{Jak chcesz. Mogê zadaæ ci inne pytanie?}
-{187}{}{Dziêki za ostrze¿enie. Lepiej pójdê pogadaæ z kimœ innym.}
-{188}{}{Jest na 3-cim poziomie, jeœli dobrze pamiêtam. Dawno ju¿ tam nie zagl¹da³am.}
+{181}{}{Serio? To w ogÃ³le niepodobne do doktora Troya. Co prawda... RZECZYWIÅšCIE pracowaÅ‚ ostatnio bardzo ciÄ™Å¼ko... niee, to niemoÅ¼liwe. MusiaÅ‚o coÅ› ci siÄ™ pomyliÄ‡.}
+{182}{}{Nie sÄ…dzÄ™. WyraziÅ‚ siÄ™ bardzo jasno.}
+{183}{}{Hmmmm. MogÄ™ zadaÄ‡ inne pytanie?}
+{184}{}{W takim razie niewaÅ¼ne.}
+{185}{}{Na twoim miejscu byÅ‚abym BARDZO ostroÅ¼na w wygÅ‚aszaniu sÄ…dÃ³w na temat doktora Troya, ktÃ³ry jest szanowanym czÅ‚onkiem naszej spoÅ‚ecznoÅ›ci.}
+{186}{}{Jak chcesz. MogÄ™ zadaÄ‡ ci inne pytanie?}
+{187}{}{DziÄ™ki za ostrzeÅ¼enie. Lepiej pÃ³jdÄ™ pogadaÄ‡ z kimÅ› innym.}
+{188}{}{Jest na 3-cim poziomie, jeÅ›li dobrze pamiÄ™tam. Dawno juÅ¼ tam nie zaglÄ…daÅ‚am.}
 {189}{}{Dlaczego?}
-{190}{}{Mogê zadaæ inne pytanie?}
-{191}{}{Dziêki za wskazówki. Powodzenia.}
-{192}{}{Och, nie wiem. W sumie nie ma zbyt wielu powodów, ¿eby tam schodziæ. Dolne poziomy Krypty u¿ywane s¹ teraz g³ównie jako magazyny. Jedynym ich mieszkañcem jest Martin, ale... no wiêc, tak miêdzy nami, to kiepski z niego partner do konwersacji.}
+{190}{}{MogÄ™ zadaÄ‡ inne pytanie?}
+{191}{}{DziÄ™ki za wskazÃ³wki. Powodzenia.}
+{192}{}{Och, nie wiem. W sumie nie ma zbyt wielu powodÃ³w, Å¼eby tam schodziÄ‡. Dolne poziomy Krypty uÅ¼ywane sÄ… teraz gÅ‚Ã³wnie jako magazyny. Jedynym ich mieszkaÅ„cem jest Martin, ale... no wiÄ™c, tak miÄ™dzy nami, to kiepski z niego partner do konwersacji.}
 {193}{}{Uuch... dlaczego uczyniono go partnerem do rozmowy, skoro nie jest w tym dobry?}
-{194}{}{Mogê zadaæ inne pytanie?}
-{195}{}{Rozumiem. Dziêki za informacje.}
-{196}{}{Có¿... mo¿e LEPIEJ sprawdziæ to osobiœcie? Ty i on macie ze sob¹ wiêcej wspólnego, ni¿ mi siê na pocz¹tku wydawa³o.}
-{197}{}{Czy mogê najpierw jeszcze o coœ ciê spytaæ?}
-{198}{}{W porz¹dku. Pójdê z nim pogadaæ.}
-{199}{}{Kryptopolis? No có¿, w³aœciwie to nie ma tu wiele do powiedzenia. To znaczy, ca³e ¿ycie by³am Obywatelem... ale tu, w Kryptopolis, nie ma zbyt wiele do roboty. Zupe³nie.}
-{200}{}{To chyba niedobrze, ¿e taka piêkna, m³oda kobieta jak ty nie mo¿e znaleŸæ sobie ¯ADNEGO zajêcia w Kryptopolis.}
-{201}{}{Zupe³nie nic? No co ty.}
-{202}{}{Czy mogê zadaæ ci jeszcze jedno pytanie...}
-{203}{}{Och, no có¿. Tak tylko pytam.}
-{204}{}{S³uchaj, jesteœ Obywatelem od niedawna i w ogóle, i nie chcê psuæ ci przyjemnoœci z tego tytu³u, ale to Miasto jest STRASZNIE zapyzia³e.}
-{205}{}{Zapyzia³e? Jak to?}
-{206}{}{Szkoda. Mam kilka innych pytañ...}
+{194}{}{MogÄ™ zadaÄ‡ inne pytanie?}
+{195}{}{Rozumiem. DziÄ™ki za informacje.}
+{196}{}{CÃ³Å¼... moÅ¼e LEPIEJ sprawdziÄ‡ to osobiÅ›cie? Ty i on macie ze sobÄ… wiÄ™cej wspÃ³lnego, niÅ¼ mi siÄ™ na poczÄ…tku wydawaÅ‚o.}
+{197}{}{Czy mogÄ™ najpierw jeszcze o coÅ› ciÄ™ spytaÄ‡?}
+{198}{}{W porzÄ…dku. PÃ³jdÄ™ z nim pogadaÄ‡.}
+{199}{}{Kryptopolis? No cÃ³Å¼, wÅ‚aÅ›ciwie to nie ma tu wiele do powiedzenia. To znaczy, caÅ‚e Å¼ycie byÅ‚am Obywatelem... ale tu, w Kryptopolis, nie ma zbyt wiele do roboty. ZupeÅ‚nie.}
+{200}{}{To chyba niedobrze, Å¼e taka piÄ™kna, mÅ‚oda kobieta jak ty nie moÅ¼e znaleÅºÄ‡ sobie Å»ADNEGO zajÄ™cia w Kryptopolis.}
+{201}{}{ZupeÅ‚nie nic? No co ty.}
+{202}{}{Czy mogÄ™ zadaÄ‡ ci jeszcze jedno pytanie...}
+{203}{}{Och, no cÃ³Å¼. Tak tylko pytam.}
+{204}{}{SÅ‚uchaj, jesteÅ› Obywatelem od niedawna i w ogÃ³le, i nie chcÄ™ psuÄ‡ ci przyjemnoÅ›ci z tego tytuÅ‚u, ale to Miasto jest STRASZNIE zapyziaÅ‚e.}
+{205}{}{ZapyziaÅ‚e? Jak to?}
+{206}{}{Szkoda. Mam kilka innych pytaÅ„...}
 {207}{}{Och, szkoda.}
-{208}{}{Czy zwróci³o twoj¹ uwagê, jak wszyscy s¹ tu do siebie podobni? I STARZY? Wiêkszoœæ planowych i pozaplanowych czynnoœci s³u¿y zaspokojeniu potrzeb oœmiodziesiêtników. Sama mam nieca³e dwadzieœcia piêæ lat, a czujê siê, jakbym mia³a piêædziesi¹t.}
-{209}{}{Och... oœmio-dziesiêtników? Masz na myœli stra¿ników?}
-{210}{}{Skoro ju¿ mowa o staroœci, odnoszê wra¿enie, ¿e w mieœcie nie ma ¿adnych dzieci.}
-{211}{}{DAJE siê zauwa¿yæ, ¿e Obywatele s¹ do siebie podobni.}
-{212}{}{Och, no có¿. Tak tylko pytam.}
-{213}{}{Nie... "oœmiodziesiêtnik" to rzeczownik, który odnosi siê do osób, które ukoñczy³y osiemdziesi¹t lat. }
-{214}{}{Aha. Mogê zadaæ jakieœ inne pytanie?}
-{215}{}{Aha. Mo¿e jeszcze póŸniej pogadamy.}
-{216}{}{Có¿... no tak. W³aœciwie to rzeczywiœcie ich tu nie ma. Nie wiem, czy ci ju¿ o tym mówi³am, ale Kryptopolis to rodzina planowana. Nastêpny cykl rozrodczy odbêdzie siê dopiero za kilka lat.}
+{208}{}{Czy zwrÃ³ciÅ‚o twojÄ… uwagÄ™, jak wszyscy sÄ… tu do siebie podobni? I STARZY? WiÄ™kszoÅ›Ä‡ planowych i pozaplanowych czynnoÅ›ci sÅ‚uÅ¼y zaspokojeniu potrzeb oÅ›miodziesiÄ™tnikÃ³w. Sama mam niecaÅ‚e dwadzieÅ›cia piÄ™Ä‡ lat, a czujÄ™ siÄ™, jakbym miaÅ‚a piÄ™Ä‡dziesiÄ…t.}
+{209}{}{Och... oÅ›mio-dziesiÄ™tnikÃ³w? Masz na myÅ›li straÅ¼nikÃ³w?}
+{210}{}{Skoro juÅ¼ mowa o staroÅ›ci, odnoszÄ™ wraÅ¼enie, Å¼e w mieÅ›cie nie ma Å¼adnych dzieci.}
+{211}{}{DAJE siÄ™ zauwaÅ¼yÄ‡, Å¼e Obywatele sÄ… do siebie podobni.}
+{212}{}{Och, no cÃ³Å¼. Tak tylko pytam.}
+{213}{}{Nie... "oÅ›miodziesiÄ™tnik" to rzeczownik, ktÃ³ry odnosi siÄ™ do osÃ³b, ktÃ³re ukoÅ„czyÅ‚y osiemdziesiÄ…t lat. }
+{214}{}{Aha. MogÄ™ zadaÄ‡ jakieÅ› inne pytanie?}
+{215}{}{Aha. MoÅ¼e jeszcze pÃ³Åºniej pogadamy.}
+{216}{}{CÃ³Å¼... no tak. WÅ‚aÅ›ciwie to rzeczywiÅ›cie ich tu nie ma. Nie wiem, czy ci juÅ¼ o tym mÃ³wiÅ‚am, ale Kryptopolis to rodzina planowana. NastÄ™pny cykl rozrodczy odbÄ™dzie siÄ™ dopiero za kilka lat.}
 {217}{}{Eee... cykl rozrodczy?}
-{218}{}{Mogê zadaæ inne pytanie?}
-{219}{}{Rozumiem. Dziêki za informacje.}
-{220}{}{Tak. Ci¹¿e s¹ dozwolone tylko w pewnych okreœlonych okresach ustalonych przez Radê.}
-{221}{}{A co, jeœli ktoœ zajdzie w ci¹¿ê poza tym cyklem?}
-{222}{}{Och. Mam kilka innych pytañ...}
-{223}{}{Rozumiem. Dziêki za informacje.}
-{224}{}{A jak mia³oby do tego dojœæ?}
-{225}{}{No wiesz, dosz³y mnie s³uchy, ¿e podobno uprawianie SEKSU mo¿e spowodowaæ zajœcie w ci¹¿ê.}
-{226}{}{Zapomnij o tym pytaniu. S³uchaj, mam kilka innych pytañ...}
-{227}{}{Niewa¿ne. Lepiej ju¿ pójdê.}
-{228}{}{Co, masz na myœli stosunek p³ciowy? Stosunki p³ciowe s¹ dozwolone równie¿ poza cyklami rozrodczymi.}
-{229}{}{I nie powoduje to zachodzenia w ci¹¿ê?}
-{230}{}{Och. Mam kilka innych pytañ...}
-{231}{}{Och, no có¿. Tak tylko pytam.}
-{232}{}{Oj, nie, nie nie... my nie zachodzimy w ci¹¿ê na skutek stosunków p³ciowych.}
-{233}{}{A¿ siê bojê pytaæ, ale i tak zapytam.}
-{234}{}{Nie chcê wiedzieæ nic wiêcej. Mimo to mam kilka innych pytañ...}
-{235}{}{Chyba mam ju¿ doœæ.}
-{236}{}{Obywatele p³ci mêskiej "sk³adaj¹ dary" do Auto-doktora tu, w Krypcie, a komputer dobiera najkorzystniejsze po³¹czenia genów. Potem odpowiedni Obywatel p³ci ¿eñskiej zostaje zap³odniony przez Auto-doktora.}
-{237}{}{Czy móg³bym z³o¿yæ dar?}
-{238}{}{Czy mimo tego ludzie nie zachodz¹ w ci¹¿ê poprzez stosunek p³ciowy? No wiesz, co z przypadkowymi ci¹¿ami?}
-{239}{}{Wiesz, naprawdê mam ochotê zadaæ ci teraz zupe³nie inne pytanie.}
-{240}{}{¯e co proszê? Muszê sprawdziæ, czy nie da siê jakoœ cofn¹æ mojego obywatelstwa.}
-{241}{}{Chyba muszê siê gdzieœ po³o¿yæ i porz¹dnie to odchorowaæ. ¯egnam.}
-{242}{}{Oczywiœcie. Twój dar bêdzie bardzo mile widziany. Kryptopolis przyda³oby siê trochê nowego materia³u genetycznego.}
-{243}{}{Dobrze wiêc...}
-{244}{}{S³uchaj, masz mo¿e jakieœ czasopismo, czy coœ w tym guœcie?}
-{245}{}{Twój dar robi wra¿enie... wygl¹da, ¿e musisz byæ nieŸle obdarzony. Jak siê czujesz?}
-{246}{}{Œwietnie! Dziêkujê uprzejmie.}
-{247}{}{Hmmm. Mo¿e twój dar nie by³ a¿ tak wartoœciowy, jak mi siê wydawa³o, ale i tak dziêkujê.}
-{248}{}{Mogê najzupe³niej szczerze powiedzieæ, ¿e nigdy wczeœniej nie brakowa³o mi prymitywnego uroku Arroyo a¿ tak, jak w tej chwili.}
-{249}{}{Nigdy dot¹d nie czu³em a¿ tak przemo¿nej potrzeby, by siê do kogoœ przytuliæ.}
-{250}{}{Nie, to ja dziêkujê TOBIE.}
-{251}{}{Wiesz, w³aœciwie... widzisz, w³aœnie siê nad tym ostatnio zastanawia³am, ¿e Obywatele nie zachodz¹ w przypadkowe ci¹¿e. Jedyne udane ci¹¿e to te, które zapocz¹tkowano za pomoc¹ Auto-doktora.}
-{252}{}{Wiesz, promieniowanie mo¿e powodowaæ bezp³odnoœæ, albo co gorsza, uszkodzenie chromosomów. Chyba warto to sprawdziæ.}
-{253}{}{Mo¿e dzieje siê tak po prostu dlatego, ¿e nie uprawiacie tu zbyt wiele porz¹dnego seksu.}
-{254}{}{Och, no có¿. Tak tylko pytam.}
-{255}{}{Wiesz co, te¿ o tym myœla³am. Mo¿e powinnam wspomnieæ o tym doktorowi Troyowi. Ostatnio jest bardzo zajêty, ale przecie¿ ZBLI¯A siê kolejny cykl rozrodczy, wiêc...}
-{256}{}{Mogê zadaæ inne pytanie?}
-{257}{}{To chyba dobry pomys³. Powodzenia.}
-{258}{}{Chodzi o to, ¿e oni wszyscy s¹ jak... klony. Wszyscy ubieraj¹ siê tak samo, robi¹ to samo, a najbardziej przera¿aj¹ce w tym wszystkim jest to, ¿e im jest z tym dobrze. Ja... có¿, czasami bojê siê, ¿e siê w koñcu do nich upodobniê. To pewnie nie brzmi zbyt m¹drze, co?}
-{259}{}{Ani trochê. Nacisk na podporz¹dkowywanie siê grupie musi byæ tutaj bardzo silny, szczególnie gdy weŸmiemy po uwagê, jak zamkniêt¹ spo³ecznoœci¹ jest Kryptopolis.}
-{260}{}{Och, no có¿. Tak tylko pytam.}
-{261}{}{Taa, czasem mnie to naprawdê przyt³acza. Ale w koñcu wychodzi na to, ¿e obrzydzam ci Kryptopolis. Nie zrozum mnie Ÿle, to jest naprawdê wspania³e miejsce.}
-{262}{}{Jeœli mo¿na coœ zasugerowaæ, mo¿e powinnaœ pozwiedzaæ trochê okolice Kryptopolis. Mo¿e nawet pogadaæ z paroma kupcami na Podmurzu. To mo¿e trochê rozszerzyæ twoje horyzonty.}
-{263}{}{Ma swoje zalety, to pewne. Mogê mieæ jeszcze jedno pytanie?}
-{264}{}{Mi³o mi, ¿e siê tu dobrze czujesz. Na razie.}
-{265}{}{Wiesz, kusi³o mnie, ¿eby wyjrzeæ trochê za bramê, ale inni Obywatele ostrzegali mnie przed tym...}
-{266}{}{To tylko kolejny powód, by w³aœnie to zrobiæ. Przecie¿ nie chcesz robiæ tego, co INNI Obywatele, no nie? Oni wszyscy grzêzn¹ we w³asnych koleinach.}
-{267}{}{Wiesz, tam jest w koñcu trochê niebezpiecznie. Hej, mo¿na mieæ inne pytanie?}
-{268}{}{Maj¹ racjê. To rzeczywiœcie nie jest dobry pomys³. Lepiej ju¿ pójdê.}
-{269}{}{Wiesz co, w sumie masz racjê. Mo¿e przy jakiejœ okazji przejdê siê parê kroków za bramê. Chcia³abym dowiedzieæ siê czegoœ wiêcej o œwiecie na zewn¹trz.}
-{270}{}{Œwietnie. Mogê mieæ jeszcze kilka pytañ?}
-{271}{}{To ci dobrze zrobi. Uwa¿aj na siebie.}
-{272}{}{¯e co proszê?}
-{273}{}{To nie moja wina, ¿e jesteœ atrakcyjn¹, m³od¹ kobiet¹, która raz na jakiœ czas mog³aby siê gdzieœ wybraæ. Co powiesz na wspóln¹ kolacjê?}
-{274}{}{Niewa¿ne. Mogê zadaæ ci jeszcze jakieœ pytanie?}
-{275}{}{Och, no có¿. Tak tylko pytam.}
-{276}{}{Och. Ja... widzisz, bardzo chêtnie, ale nie mogê.}
-{277}{}{Och. Wiesz, ja... bardzo chêtnie.}
-{278}{}{Oj, daj spokój. Jestem tu od niedawna, jeszcze wpadnê w jakieœ k³opoty, krêc¹c siê samotnie po okolicy.}
-{279}{}{W porz¹dku. Mogê zadaæ ci inne pytanie?}
-{280}{}{Och, no có¿. Tak tylko pytam.}
-{281}{}{Œwietnie! Ruszajmy.}
-{282}{}{Dziêki za wyœmienity wieczór.}
-{283}{}{Uch... nie ma sprawy. Mo¿e spotkamy siê kiedy indziej. Ja... zadzwoniê do ciebie. Pa.}
+{218}{}{MogÄ™ zadaÄ‡ inne pytanie?}
+{219}{}{Rozumiem. DziÄ™ki za informacje.}
+{220}{}{Tak. CiÄ…Å¼e sÄ… dozwolone tylko w pewnych okreÅ›lonych okresach ustalonych przez RadÄ™.}
+{221}{}{A co, jeÅ›li ktoÅ› zajdzie w ciÄ…Å¼Ä™ poza tym cyklem?}
+{222}{}{Och. Mam kilka innych pytaÅ„...}
+{223}{}{Rozumiem. DziÄ™ki za informacje.}
+{224}{}{A jak miaÅ‚oby do tego dojÅ›Ä‡?}
+{225}{}{No wiesz, doszÅ‚y mnie sÅ‚uchy, Å¼e podobno uprawianie SEKSU moÅ¼e spowodowaÄ‡ zajÅ›cie w ciÄ…Å¼Ä™.}
+{226}{}{Zapomnij o tym pytaniu. SÅ‚uchaj, mam kilka innych pytaÅ„...}
+{227}{}{NiewaÅ¼ne. Lepiej juÅ¼ pÃ³jdÄ™.}
+{228}{}{Co, masz na myÅ›li stosunek pÅ‚ciowy? Stosunki pÅ‚ciowe sÄ… dozwolone rÃ³wnieÅ¼ poza cyklami rozrodczymi.}
+{229}{}{I nie powoduje to zachodzenia w ciÄ…Å¼Ä™?}
+{230}{}{Och. Mam kilka innych pytaÅ„...}
+{231}{}{Och, no cÃ³Å¼. Tak tylko pytam.}
+{232}{}{Oj, nie, nie nie... my nie zachodzimy w ciÄ…Å¼Ä™ na skutek stosunkÃ³w pÅ‚ciowych.}
+{233}{}{AÅ¼ siÄ™ bojÄ™ pytaÄ‡, ale i tak zapytam.}
+{234}{}{Nie chcÄ™ wiedzieÄ‡ nic wiÄ™cej. Mimo to mam kilka innych pytaÅ„...}
+{235}{}{Chyba mam juÅ¼ doÅ›Ä‡.}
+{236}{}{Obywatele pÅ‚ci mÄ™skiej "skÅ‚adajÄ… dary" do Auto-doktora tu, w Krypcie, a komputer dobiera najkorzystniejsze poÅ‚Ä…czenia genÃ³w. Potem odpowiedni Obywatel pÅ‚ci Å¼eÅ„skiej zostaje zapÅ‚odniony przez Auto-doktora.}
+{237}{}{Czy mÃ³gÅ‚bym zÅ‚oÅ¼yÄ‡ dar?}
+{238}{}{Czy mimo tego ludzie nie zachodzÄ… w ciÄ…Å¼Ä™ poprzez stosunek pÅ‚ciowy? No wiesz, co z przypadkowymi ciÄ…Å¼ami?}
+{239}{}{Wiesz, naprawdÄ™ mam ochotÄ™ zadaÄ‡ ci teraz zupeÅ‚nie inne pytanie.}
+{240}{}{Å»e co proszÄ™? MuszÄ™ sprawdziÄ‡, czy nie da siÄ™ jakoÅ› cofnÄ…Ä‡ mojego obywatelstwa.}
+{241}{}{Chyba muszÄ™ siÄ™ gdzieÅ› poÅ‚oÅ¼yÄ‡ i porzÄ…dnie to odchorowaÄ‡. Å»egnam.}
+{242}{}{OczywiÅ›cie. TwÃ³j dar bÄ™dzie bardzo mile widziany. Kryptopolis przydaÅ‚oby siÄ™ trochÄ™ nowego materiaÅ‚u genetycznego.}
+{243}{}{Dobrze wiÄ™c...}
+{244}{}{SÅ‚uchaj, masz moÅ¼e jakieÅ› czasopismo, czy coÅ› w tym guÅ›cie?}
+{245}{}{TwÃ³j dar robi wraÅ¼enie... wyglÄ…da, Å¼e musisz byÄ‡ nieÅºle obdarzony. Jak siÄ™ czujesz?}
+{246}{}{Åšwietnie! DziÄ™kujÄ™ uprzejmie.}
+{247}{}{Hmmm. MoÅ¼e twÃ³j dar nie byÅ‚ aÅ¼ tak wartoÅ›ciowy, jak mi siÄ™ wydawaÅ‚o, ale i tak dziÄ™kujÄ™.}
+{248}{}{MogÄ™ najzupeÅ‚niej szczerze powiedzieÄ‡, Å¼e nigdy wczeÅ›niej nie brakowaÅ‚o mi prymitywnego uroku Arroyo aÅ¼ tak, jak w tej chwili.}
+{249}{}{Nigdy dotÄ…d nie czuÅ‚em aÅ¼ tak przemoÅ¼nej potrzeby, by siÄ™ do kogoÅ› przytuliÄ‡.}
+{250}{}{Nie, to ja dziÄ™kujÄ™ TOBIE.}
+{251}{}{Wiesz, wÅ‚aÅ›ciwie... widzisz, wÅ‚aÅ›nie siÄ™ nad tym ostatnio zastanawiaÅ‚am, Å¼e Obywatele nie zachodzÄ… w przypadkowe ciÄ…Å¼e. Jedyne udane ciÄ…Å¼e to te, ktÃ³re zapoczÄ…tkowano za pomocÄ… Auto-doktora.}
+{252}{}{Wiesz, promieniowanie moÅ¼e powodowaÄ‡ bezpÅ‚odnoÅ›Ä‡, albo co gorsza, uszkodzenie chromosomÃ³w. Chyba warto to sprawdziÄ‡.}
+{253}{}{MoÅ¼e dzieje siÄ™ tak po prostu dlatego, Å¼e nie uprawiacie tu zbyt wiele porzÄ…dnego seksu.}
+{254}{}{Och, no cÃ³Å¼. Tak tylko pytam.}
+{255}{}{Wiesz co, teÅ¼ o tym myÅ›laÅ‚am. MoÅ¼e powinnam wspomnieÄ‡ o tym doktorowi Troyowi. Ostatnio jest bardzo zajÄ™ty, ale przecieÅ¼ ZBLIÅ»A siÄ™ kolejny cykl rozrodczy, wiÄ™c...}
+{256}{}{MogÄ™ zadaÄ‡ inne pytanie?}
+{257}{}{To chyba dobry pomysÅ‚. Powodzenia.}
+{258}{}{Chodzi o to, Å¼e oni wszyscy sÄ… jak... klony. Wszyscy ubierajÄ… siÄ™ tak samo, robiÄ… to samo, a najbardziej przeraÅ¼ajÄ…ce w tym wszystkim jest to, Å¼e im jest z tym dobrze. Ja... cÃ³Å¼, czasami bojÄ™ siÄ™, Å¼e siÄ™ w koÅ„cu do nich upodobniÄ™. To pewnie nie brzmi zbyt mÄ…drze, co?}
+{259}{}{Ani trochÄ™. Nacisk na podporzÄ…dkowywanie siÄ™ grupie musi byÄ‡ tutaj bardzo silny, szczegÃ³lnie gdy weÅºmiemy po uwagÄ™, jak zamkniÄ™tÄ… spoÅ‚ecznoÅ›ciÄ… jest Kryptopolis.}
+{260}{}{Och, no cÃ³Å¼. Tak tylko pytam.}
+{261}{}{Taa, czasem mnie to naprawdÄ™ przytÅ‚acza. Ale w koÅ„cu wychodzi na to, Å¼e obrzydzam ci Kryptopolis. Nie zrozum mnie Åºle, to jest naprawdÄ™ wspaniaÅ‚e miejsce.}
+{262}{}{JeÅ›li moÅ¼na coÅ› zasugerowaÄ‡, moÅ¼e powinnaÅ› pozwiedzaÄ‡ trochÄ™ okolice Kryptopolis. MoÅ¼e nawet pogadaÄ‡ z paroma kupcami na Podmurzu. To moÅ¼e trochÄ™ rozszerzyÄ‡ twoje horyzonty.}
+{263}{}{Ma swoje zalety, to pewne. MogÄ™ mieÄ‡ jeszcze jedno pytanie?}
+{264}{}{MiÅ‚o mi, Å¼e siÄ™ tu dobrze czujesz. Na razie.}
+{265}{}{Wiesz, kusiÅ‚o mnie, Å¼eby wyjrzeÄ‡ trochÄ™ za bramÄ™, ale inni Obywatele ostrzegali mnie przed tym...}
+{266}{}{To tylko kolejny powÃ³d, by wÅ‚aÅ›nie to zrobiÄ‡. PrzecieÅ¼ nie chcesz robiÄ‡ tego, co INNI Obywatele, no nie? Oni wszyscy grzÄ™znÄ… we wÅ‚asnych koleinach.}
+{267}{}{Wiesz, tam jest w koÅ„cu trochÄ™ niebezpiecznie. Hej, moÅ¼na mieÄ‡ inne pytanie?}
+{268}{}{MajÄ… racjÄ™. To rzeczywiÅ›cie nie jest dobry pomysÅ‚. Lepiej juÅ¼ pÃ³jdÄ™.}
+{269}{}{Wiesz co, w sumie masz racjÄ™. MoÅ¼e przy jakiejÅ› okazji przejdÄ™ siÄ™ parÄ™ krokÃ³w za bramÄ™. ChciaÅ‚abym dowiedzieÄ‡ siÄ™ czegoÅ› wiÄ™cej o Å›wiecie na zewnÄ…trz.}
+{270}{}{Åšwietnie. MogÄ™ mieÄ‡ jeszcze kilka pytaÅ„?}
+{271}{}{To ci dobrze zrobi. UwaÅ¼aj na siebie.}
+{272}{}{Å»e co proszÄ™?}
+{273}{}{To nie moja wina, Å¼e jesteÅ› atrakcyjnÄ…, mÅ‚odÄ… kobietÄ…, ktÃ³ra raz na jakiÅ› czas mogÅ‚aby siÄ™ gdzieÅ› wybraÄ‡. Co powiesz na wspÃ³lnÄ… kolacjÄ™?}
+{274}{}{NiewaÅ¼ne. MogÄ™ zadaÄ‡ ci jeszcze jakieÅ› pytanie?}
+{275}{}{Och, no cÃ³Å¼. Tak tylko pytam.}
+{276}{}{Och. Ja... widzisz, bardzo chÄ™tnie, ale nie mogÄ™.}
+{277}{}{Och. Wiesz, ja... bardzo chÄ™tnie.}
+{278}{}{Oj, daj spokÃ³j. Jestem tu od niedawna, jeszcze wpadnÄ™ w jakieÅ› kÅ‚opoty, krÄ™cÄ…c siÄ™ samotnie po okolicy.}
+{279}{}{W porzÄ…dku. MogÄ™ zadaÄ‡ ci inne pytanie?}
+{280}{}{Och, no cÃ³Å¼. Tak tylko pytam.}
+{281}{}{Åšwietnie! Ruszajmy.}
+{282}{}{DziÄ™ki za wyÅ›mienity wieczÃ³r.}
+{283}{}{Uch... nie ma sprawy. MoÅ¼e spotkamy siÄ™ kiedy indziej. Ja... zadzwoniÄ™ do ciebie. Pa.}
 {284}{}{Przykro mi, ale nie.}
-{285}{}{W porz¹dku. Czy zamiast tego mogê zadaæ ci kilka innych pytañ?}
-{286}{}{Och, no có¿. Tak tylko pytam.}
-{287}{}{No tak, dobrze wiedzieæ, ¿e uprzedzenia wci¹¿ ¿yj¹ i maj¹ siê dobrze w Kryptopolis. Na razie.}
+{285}{}{W porzÄ…dku. Czy zamiast tego mogÄ™ zadaÄ‡ ci kilka innych pytaÅ„?}
+{286}{}{Och, no cÃ³Å¼. Tak tylko pytam.}
+{287}{}{No tak, dobrze wiedzieÄ‡, Å¼e uprzedzenia wciÄ…Å¼ Å¼yjÄ… i majÄ… siÄ™ dobrze w Kryptopolis. Na razie.}
 {288}{}{. Co tutaj robisz?}
-{289}{}{. Mo¿na pozwoliæ sobie na kilka pytañ?}
-{290}{}{W³aœciwie to przysz³o mi na myœl, ¿e nie ma tu ¿adnych dzieci, bo jesteœmy w wersji Fallouta 2 przeznaczonej na rynek europejski. Do widzenia.}
-{291}{}{Kryptopolis otrzyma³o od ciebie dar, który znacznie wzbogaci³ pulê genetyczn¹ miejscowej spo³ecznoœci.}
-{292}{}{Kryptopolis otrzyma³o od ciebie dar, który rozszerzy³ pulê genetyczn¹ miejscowej spo³ecznoœci.}
-{293}{}{Kryptopolis otrzyma³o od ciebie dar, który... chyba jest coœ wart.}
-{294}{}{Uda³o ci siê przekonaæ Fillis, ¿eby porozmawia³a z doktorem Troyem o groŸbie bezp³odnoœci mieszkañców Kryptopolis.}
-{295}{}{Uda³o ci siê przekonaæ Fillis, ¿eby zobaczy³a œwiat na zewn¹trz.}
-{296}{}{Szybko siê orientujesz, ¿e Fillis jest raczej nudna i skupiona na sobie. Postanawiasz nigdy wiêcej nie umawiaæ siê z kimœ takim jak ona.}
-{297}{}{Skoro ju¿ mowa o oœmio-dzielnik-, eee, oœmiodziesi¹tkach, eee, starych ludziach, to zwróci³o moj¹ uwagê, ¿e w Kryptopolis nie ma ¿adnych dzieci.}
+{289}{}{. MoÅ¼na pozwoliÄ‡ sobie na kilka pytaÅ„?}
+{290}{}{WÅ‚aÅ›ciwie to przyszÅ‚o mi na myÅ›l, Å¼e nie ma tu Å¼adnych dzieci, bo jesteÅ›my w wersji Fallouta 2 przeznaczonej na rynek europejski. Do widzenia.}
+{291}{}{Kryptopolis otrzymaÅ‚o od ciebie dar, ktÃ³ry znacznie wzbogaciÅ‚ pulÄ™ genetycznÄ… miejscowej spoÅ‚ecznoÅ›ci.}
+{292}{}{Kryptopolis otrzymaÅ‚o od ciebie dar, ktÃ³ry rozszerzyÅ‚ pulÄ™ genetycznÄ… miejscowej spoÅ‚ecznoÅ›ci.}
+{293}{}{Kryptopolis otrzymaÅ‚o od ciebie dar, ktÃ³ry... chyba jest coÅ› wart.}
+{294}{}{UdaÅ‚o ci siÄ™ przekonaÄ‡ Fillis, Å¼eby porozmawiaÅ‚a z doktorem Troyem o groÅºbie bezpÅ‚odnoÅ›ci mieszkaÅ„cÃ³w Kryptopolis.}
+{295}{}{UdaÅ‚o ci siÄ™ przekonaÄ‡ Fillis, Å¼eby zobaczyÅ‚a Å›wiat na zewnÄ…trz.}
+{296}{}{Szybko siÄ™ orientujesz, Å¼e Fillis jest raczej nudna i skupiona na sobie. Postanawiasz nigdy wiÄ™cej nie umawiaÄ‡ siÄ™ z kimÅ› takim jak ona.}
+{297}{}{Skoro juÅ¼ mowa o oÅ›mio-dzielnik-, eee, oÅ›miodziesiÄ…tkach, eee, starych ludziach, to zwrÃ³ciÅ‚o mojÄ… uwagÄ™, Å¼e w Kryptopolis nie ma Å¼adnych dzieci.}

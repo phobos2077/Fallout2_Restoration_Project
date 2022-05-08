@@ -4,10 +4,10 @@
 {3}{}{Screenshot gespeichert.}
 {4}{}{Spiel erfolgreich geladen.}
 {5}{}{Spiel erfolgreich gespeichert.}
-{6}{}{Demo-Zeitlimit überschritten.}
-{7}{}{PIPBoy steht im Kampf nicht zur Verfügung!}
+{6}{}{Demo-Zeitlimit Ã¼berschritten.}
+{7}{}{PIPBoy steht im Kampf nicht zur VerfÃ¼gung!}
 {8}{}{Fehler beim Speichern des Screenshots.}
-{9}{}{EINFÜHRUNG}
+{9}{}{EINFÃœHRUNG}
 {10}{}{NEUES SPIEL}
 {11}{}{LADEN}
 {12}{}{OPTIONEN}
@@ -16,59 +16,59 @@
 {15}{}{Aktionspunkte}
 {16}{}{Trefferpk.}
 {17}{}{ Der Bewegungssensor ist nicht installiert.}
-{18}{}{Der Bewegungssensor hat keine Ladung mehr übrig.}
+{18}{}{Der Bewegungssensor hat keine Ladung mehr Ã¼brig.}
 {20}{}{Copyright(c) 1998 Interplay Productions. Alle Rechte vorbehalten.}
-{30}{}{Möchtest du weiterspielen?}
-{50}{}{Ausführung von Fallout benötigt die CD!}
+{30}{}{MÃ¶chtest du weiterspielen?}
+{50}{}{AusfÃ¼hrung von Fallout benÃ¶tigt die CD!}
 {100}{}{Fehler beim Speichern der Konfigurationsdatei!}
 {101}{}{Spieleinstellungen nicht gespeichert.}
-{1000}{}{Dir ist sehr übel.}
-{1001}{}{Dir ist sehr übel, und nachdem du dich etwas übergeben hast, bist du etwas erschöpft.}
-{1002}{}{Du bist sehr erschöpft, der Brechreiz lässt nicht nach, und deine Erholungszeit ist gestört.}
-{1003}{}{Du hast heftige innere Blutungen. Dir ist schlecht, und dein Haar fällt aus.}
-{1004}{}{Du hast heftige und andauernde innere Blutungen. Im Erbrochenen ist Blut. Die Haut fällt dir von den Knochen.}
-{1005}{}{Du blutest aus den Eingeweiden und leidest an schwerem Durchfall. Du fühlst dich aufgebläht und hast stärkste Schmerzen.}
+{1000}{}{Dir ist sehr Ã¼bel.}
+{1001}{}{Dir ist sehr Ã¼bel, und nachdem du dich etwas Ã¼bergeben hast, bist du etwas erschÃ¶pft.}
+{1002}{}{Du bist sehr erschÃ¶pft, der Brechreiz lÃ¤sst nicht nach, und deine Erholungszeit ist gestÃ¶rt.}
+{1003}{}{Du hast heftige innere Blutungen. Dir ist schlecht, und dein Haar fÃ¤llt aus.}
+{1004}{}{Du hast heftige und andauernde innere Blutungen. Im Erbrochenen ist Blut. Die Haut fÃ¤llt dir von den Knochen.}
+{1005}{}{Du blutest aus den Eingeweiden und leidest an schwerem Durchfall. Du fÃ¼hlst dich aufgeblÃ¤ht und hast stÃ¤rkste Schmerzen.}
 {1006}{}{Du bist an Strahlenkrankheit gestorben.}
-{1007}{}{Du hast eine große Dosis an Strahlung abbekommen.}
-{1008}{}{Der Geigerzähler tickt.}
-{1009}{}{Der Geigerzähler tickt wie wild.}
+{1007}{}{Du hast eine groÃŸe Dosis an Strahlung abbekommen.}
+{1008}{}{Der GeigerzÃ¤hler tickt.}
+{1009}{}{Der GeigerzÃ¤hler tickt wie wild.}
 {2000}{}{Da kannst du nicht hin.}
 {2001}{}{Das Schloss klemmt.}
 {3000}{}{Du wurdest vergiftet!}
-{3001}{}{Das Gift fügt dir Schaden zu.}
+{3001}{}{Das Gift fÃ¼gt dir Schaden zu.}
 {3002}{}{Es geht dir etwas besser.}
 {3003}{}{Dir geht es besser.}
-{4000}{}{Aufgrund deiner unsachgemäßen Handhabung geht der Sprengstoff verfrüht hoch.}
+{4000}{}{Aufgrund deiner unsachgemÃ¤ÃŸen Handhabung geht der Sprengstoff verfrÃ¼ht hoch.}
 {5000}{}{benutzt}
-{5001}{}{hat keine Munition mehr für}
-{5002}{}{lädt}
-{6000}{}{Über was befragen?}
+{5001}{}{hat keine Munition mehr fÃ¼r}
+{5002}{}{lÃ¤dt}
+{6000}{}{Ãœber was befragen?}
 {7000}{}{Du hast den PIPBoy nicht dabei!}
-{8000}{}{Du bist überladen.}
-{8001}{}{%s ist überladen.}
-{8500}{}{Du bekommst %d Erfahrungspunkte für die erfolgreiche Anwendung der Fähigkeit Naturbursche.}
-{9000}{}{%s hat bei einigen Fähigkeiten dazugelernt.}
-{9010}{}{Boah! Auf einmal fühle ich einen echten Erfahrungsschub.}
+{8000}{}{Du bist Ã¼berladen.}
+{8001}{}{%s ist Ã¼berladen.}
+{8500}{}{Du bekommst %d Erfahrungspunkte fÃ¼r die erfolgreiche Anwendung der FÃ¤higkeit Naturbursche.}
+{9000}{}{%s hat bei einigen FÃ¤higkeiten dazugelernt.}
+{9010}{}{Boah! Auf einmal fÃ¼hle ich einen echten Erfahrungsschub.}
 {9011}{}{Ein Level weiter, Baby! Ein Level weiter!}
-{9012}{}{Ich fühle Turbulenzen in der Macht. Als ob all meine Fähigkeiten prozentuell gestiegen wären.}
-{9013}{}{Ich komme mir zäher vor. Stärker. Schlauer.}
-{9020}{}{Wow! Ich fühle mich, als hätte ich einen willkürlichen Erfahrungswert überwunden und mehr Macht erhalten!}
-{9021}{}{Aaarrrggghhh! Muskeln... schwellen... Status... immer besser.... Level höher...}
-{9022}{}{Los, her mit einer Bescheinigung und einem dämlichen Hut mit Troddel! Ich bin nämlich soeben mit der Uni fertig!}
-{9023}{}{Heh, ich fühl mich, als hätte ich mehr Macht! Krieg ich jetzt eine Gehaltserhöhung?}
-{9030}{}{Plötzlich fällt mir das alles wieder ein...}
-{9031}{}{Heh. Sieht aus, als könne man einem alten Hund doch ein paar neue Tricks beibringen.}
-{9032}{}{Sieht aus, als hätte sich die ganze Herumreiserei bezahlt gemacht.}
+{9012}{}{Ich fÃ¼hle Turbulenzen in der Macht. Als ob all meine FÃ¤higkeiten prozentuell gestiegen wÃ¤ren.}
+{9013}{}{Ich komme mir zÃ¤her vor. StÃ¤rker. Schlauer.}
+{9020}{}{Wow! Ich fÃ¼hle mich, als hÃ¤tte ich einen willkÃ¼rlichen Erfahrungswert Ã¼berwunden und mehr Macht erhalten!}
+{9021}{}{Aaarrrggghhh! Muskeln... schwellen... Status... immer besser.... Level hÃ¶her...}
+{9022}{}{Los, her mit einer Bescheinigung und einem dÃ¤mlichen Hut mit Troddel! Ich bin nÃ¤mlich soeben mit der Uni fertig!}
+{9023}{}{Heh, ich fÃ¼hl mich, als hÃ¤tte ich mehr Macht! Krieg ich jetzt eine GehaltserhÃ¶hung?}
+{9030}{}{PlÃ¶tzlich fÃ¤llt mir das alles wieder ein...}
+{9031}{}{Heh. Sieht aus, als kÃ¶nne man einem alten Hund doch ein paar neue Tricks beibringen.}
+{9032}{}{Sieht aus, als hÃ¤tte sich die ganze Herumreiserei bezahlt gemacht.}
 {9033}{}{Ich hab ein paar neue Tricks gelernt.}
-{9040}{}{Großvater lehrt, wir lernen.}
+{9040}{}{GroÃŸvater lehrt, wir lernen.}
 {9041}{}{Wir lernen hier mehr von den Geistern, Mann.}
 {9042}{}{Wir jetzt lernen.}
-{9043}{}{Großer Geist jetzt in Sulik.}
-{9044}{}{Wir gleich sein eins mit Großvater Knochen, Mann.}
-{9045}{}{Eins mit dem Großvater jetzt.}
+{9043}{}{GroÃŸer Geist jetzt in Sulik.}
+{9044}{}{Wir gleich sein eins mit GroÃŸvater Knochen, Mann.}
+{9045}{}{Eins mit dem GroÃŸvater jetzt.}
 {9050}{}{Au Mann... da hab ich jetzt echt was draus gelernt.}
 {9051}{}{Diese Schuld wird mich noch umbringen.}
-{9052}{}{Kaum zu glauben, dass ich so lange überlebt habe.}
+{9052}{}{Kaum zu glauben, dass ich so lange Ã¼berlebt habe.}
 {9060}{}{Wuff!}
 {9061}{}{Wuff!}
 {9062}{}{Wuff!}
@@ -79,7 +79,7 @@
 {9080}{}{Ich glaube wirklich, ich hab was gelernt!}
 {9081}{}{Sicherheit des Wissens ist ein Geschenk.}
 {9082}{}{Ich scheine doch ganz nett zu reifen.}
-{9083}{}{Ich übertreffe sogar Gruthar in Fragen des Wissens.}
+{9083}{}{Ich Ã¼bertreffe sogar Gruthar in Fragen des Wissens.}
 {9084}{}{Ich habe jetzt einen besseren Stand im Rudel.}
 {9085}{}{Ich hab jetzt die meiste Macht im Rudel.}
 {9090}{}{Ich hab ein paar neue Sachen gelernt!}
@@ -93,11 +93,11 @@
 {9122}{}{RETRO-ANPASSUNG DES SYSTEMS ABGESCHLOSSEN.}
 {9123}{}{ZIELSYSTEME NEU KALIBRIERT. 20%IGE STEIGERUNG DER GENAUIGKEIT.}
 {9124}{}{OPTIMALE LEISTUNG ERREICHT.}
-{9130}{}{Boss! Ich glaube, dass ich das allmählich alles kapiere.}
-{9131}{}{Ich werde wirklich besser! Hab ich doch gleich gesagt, Boss, dass ich dich nicht enttäuschen würde.}
+{9130}{}{Boss! Ich glaube, dass ich das allmÃ¤hlich alles kapiere.}
+{9131}{}{Ich werde wirklich besser! Hab ich doch gleich gesagt, Boss, dass ich dich nicht enttÃ¤uschen wÃ¼rde.}
 {9132}{}{Heh... Moment mal... jetzt kapier ich's auch. Ich leite meine Ziele nicht genug an, glaub ich.}
 {9133}{}{Na also, Boss! Auch ein alter Hund kann noch was Neues lernen!}
-{9134}{}{Weißt du was, Boss? Ich glaube, ich lerne hier wirklich ein oder zwei Sachen.}
+{9134}{}{WeiÃŸt du was, Boss? Ich glaube, ich lerne hier wirklich ein oder zwei Sachen.}
 {9135}{}{Ich werd ja richtig gut darin. Hier, Boss. Alles Gute wird mit der Zeit noch besser.}
 {9140}{}{Ich hab ein paar neue Sachen gelernt!}
 {9141}{}{Ich hab ein paar neue Sachen gelernt!}
@@ -121,21 +121,21 @@
 {9230}{}{}
 {9240}{}{Programmaktualisierung wird eingeleitet, Meister... Aktualisierung abgeschlossen.}
 {9241}{}{Softwareaktualisierung wird installiert, Meister... Version 2.0 ist installiert.}
-{9242}{}{Hardwareänderungen werden ausgeführt, Meister... Systeme nominal.}
-{9243}{}{Hardwareänderungen werden ausgeführt, Meister... Systeme optimal!}
+{9242}{}{HardwareÃ¤nderungen werden ausgefÃ¼hrt, Meister... Systeme nominal.}
+{9243}{}{HardwareÃ¤nderungen werden ausgefÃ¼hrt, Meister... Systeme optimal!}
 {9250}{}{}
-{9260}{}{Es gibt mehr als einen Weg, um eine Katze zu häuten.}
-{9261}{}{Umso tiefer ich falle, desto höher steig ich wieder auf.}
+{9260}{}{Es gibt mehr als einen Weg, um eine Katze zu hÃ¤uten.}
+{9261}{}{Umso tiefer ich falle, desto hÃ¶her steig ich wieder auf.}
 {9262}{}{Leben. Lernen. Entwickeln.}
-{9263}{}{Ich höre und vergesse; Ich sehe und erinnere mich; Ich mache es und verstehe.}
+{9263}{}{Ich hÃ¶re und vergesse; Ich sehe und erinnere mich; Ich mache es und verstehe.}
 {9264}{}{Ich *bin* eine Waffe.}
-{9270}{}{Weißt du, ich denke, ich fange an, mich von dieser 'eingefroren sein' Geschichte zu erholen.}
-{9271}{}{Ahh... ja. Ich spüre, wie der alte Zauber wieder zu mir zurückkommt.}
-{9272}{}{Ich will dich nicht überrumpeln, aber ich wurde gerade noch besser.}
-{9273}{}{Kopf hoch, ich wurde gerade vollkommen. Also, lass uns ein paar Huren suchen, damit wir feiern können.}
-{9274}{}{Anscheinend habe ich die Vollkommenheit übertroffen. Ich nehme an, wenn irgendjemand dazu fähig war, dann ich.}
-{9280}{}{"Cat" ist zurück!}
+{9270}{}{WeiÃŸt du, ich denke, ich fange an, mich von dieser 'eingefroren sein' Geschichte zu erholen.}
+{9271}{}{Ahh... ja. Ich spÃ¼re, wie der alte Zauber wieder zu mir zurÃ¼ckkommt.}
+{9272}{}{Ich will dich nicht Ã¼berrumpeln, aber ich wurde gerade noch besser.}
+{9273}{}{Kopf hoch, ich wurde gerade vollkommen. Also, lass uns ein paar Huren suchen, damit wir feiern kÃ¶nnen.}
+{9274}{}{Anscheinend habe ich die Vollkommenheit Ã¼bertroffen. Ich nehme an, wenn irgendjemand dazu fÃ¤hig war, dann ich.}
+{9280}{}{"Cat" ist zurÃ¼ck!}
 {9281}{}{Spielen mir meine Augen Streiche oder sieht mein Arsch besser denn je aus?}
 {9282}{}{Meine Katzensinne kribbeln!}
-{9283}{}{Hätte ich nur ein paar Fische, um diese Erfahrung zu vertiefen.}
+{9283}{}{HÃ¤tte ich nur ein paar Fische, um diese Erfahrung zu vertiefen.}
 {9284}{}{Diese "Katze" ist unaufhaltsam!}

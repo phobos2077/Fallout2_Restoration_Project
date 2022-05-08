@@ -1,58 +1,58 @@
-{100}{}{Egy Kapitány-sapkát visel? egyén.}
+{100}{}{Egy KapitÃ¡ny-sapkÃ¡t visel? egyÃ©n.}
 {101}{}{You see Captain A. Ron Meyers.}
-{102}{}{Ez a szakadt ruhát visel? punk Kapitány-sapkát visel.}
-{103}{}{Mi a fenét akarsz? Addig nem beszélek senkivel, amíg nem a barátom, vagy nem bizonyul jó embernek. Tégy valami jót valamelyik emberemmel, és akkor gyere vissza!}
+{102}{}{Ez a szakadt ruhÃ¡t visel? punk KapitÃ¡ny-sapkÃ¡t visel.}
+{103}{}{Mi a fenÃ©t akarsz? Addig nem beszÃ©lek senkivel, amÃ­g nem a barÃ¡tom, vagy nem bizonyul jÃ³ embernek. TÃ©gy valami jÃ³t valamelyik emberemmel, Ã©s akkor gyere vissza!}
 {104}{}{[DONE]}
-{105}{}{Hallottam, mit tettél az emberemmel. Köszönöm neked. Miben segíthetek?}
+{105}{}{Hallottam, mit tettÃ©l az emberemmel. KÃ¶szÃ¶nÃ¶m neked. Miben segÃ­thetek?}
 {106}{}{Te ki lenni?}
-{107}{}{Úgy hallottam, te vagy az, aki mindent tud err?l a hajóról.}
-{108}{}{Miért hívnak téged a Kapitánynak?}
-{109}{}{Hogy lehetne ezt a tekn?t mozgásra bírni?}
+{107}{}{Ãšgy hallottam, te vagy az, aki mindent tud err?l a hajÃ³rÃ³l.}
+{108}{}{MiÃ©rt hÃ­vnak tÃ©ged a KapitÃ¡nynak?}
+{109}{}{Hogy lehetne ezt a tekn?t mozgÃ¡sra bÃ­rni?}
 {110}{}{Semmi.}
-{111}{}{Én vagyok a Kapitány, én m?ködtetem ezt a hajót. Ha további kérdéseid vannak, keress meg egy Shi-t vagy a Borzot, vagy akárkit! Nincs id?m rád!}
+{111}{}{Ã‰n vagyok a KapitÃ¡ny, Ã©n m?kÃ¶dtetem ezt a hajÃ³t. Ha tovÃ¡bbi kÃ©rdÃ©seid vannak, keress meg egy Shi-t vagy a Borzot, vagy akÃ¡rkit! Nincs id?m rÃ¡d!}
 {112}{}{[DONE]}
 {113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and its got an IFF transponder that protects it from Poseidon guns. Course, that ain't gonna help you any against that old Chinese sub, so you best hope that thing's as dead as she looks.}
 {114}{}{Honnan tud minderr?l?}
-{115}{}{Mi az az EBFR jeladó?}
-{116}{}{Hogy lehet mozgásra bírni?}
-{117}{}{Kösz. Viszlát!}
-{118}{}{Régen az Enklávét szolgáltam. Hamar rájöttem, hogy nem az Egyesült Államokért harcolok, hanem az öreg, gazdag gyökerekért, akik nem akartak megválni a hatalmuktól. Dezertáltam és most sokkal becsületesebb emberek között élek.}
-{119}{}{Becsületesebb emberek közt? Ezekre a srácokra gondolsz?}
-{120}{}{Pontosan mi az Enklávé?}
-{121}{}{Hogy lehetne ezt a tekn?t mozgásra bírni?}
-{122}{}{Viszlát!}
+{115}{}{Mi az az EBFR jeladÃ³?}
+{116}{}{Hogy lehet mozgÃ¡sra bÃ­rni?}
+{117}{}{KÃ¶sz. ViszlÃ¡t!}
+{118}{}{RÃ©gen az EnklÃ¡vÃ©t szolgÃ¡ltam. Hamar rÃ¡jÃ¶ttem, hogy nem az EgyesÃ¼lt ÃllamokÃ©rt harcolok, hanem az Ã¶reg, gazdag gyÃ¶kerekÃ©rt, akik nem akartak megvÃ¡lni a hatalmuktÃ³l. DezertÃ¡ltam Ã©s most sokkal becsÃ¼letesebb emberek kÃ¶zÃ¶tt Ã©lek.}
+{119}{}{BecsÃ¼letesebb emberek kÃ¶zt? Ezekre a srÃ¡cokra gondolsz?}
+{120}{}{Pontosan mi az EnklÃ¡vÃ©?}
+{121}{}{Hogy lehetne ezt a tekn?t mozgÃ¡sra bÃ­rni?}
+{122}{}{ViszlÃ¡t!}
 {123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
 {124}{}{Az, de honnan tudsz te minderr?l?}
-{125}{}{Mi az az EBFR jeladó meg az FBK?}
-{126}{}{Miféle fúrótoronyról van szó?}
-{127}{}{Igen. Viszlát!}
+{125}{}{Mi az az EBFR jeladÃ³ meg az FBK?}
+{126}{}{MifÃ©le fÃºrÃ³toronyrÃ³l van szÃ³?}
+{127}{}{Igen. ViszlÃ¡t!}
 {128}{}{IFF: Identify Friend or Foe. It means that this ship is identified as a friend, so other Poseidon things - like, say, an oil rig - won't fire at you when you come into range. Oh, and a FOB is some sort of Enclave technology that lets you enter a door electronically. You'd probably find one of them at one of their bases or some such place.}
 {129}{}{Honnan tud minderr?l?}
-{130}{}{Miféle fúrótoronyról van szó?}
-{131}{}{Kösz. Viszlát!}
-{132}{}{Igen. Ezekkel az emberekkel pontosan tudod, mire számíthatsz. Nem játszanak ki téged. Az Enklávé olyan volt, mint egy csapat hiéna. Semmi perc alatt ellened fordulnak.}
-{133}{}{Pontosan mi az Enklávé?}
-{134}{}{Hogy jöttél össze velük?}
-{135}{}{Az Enklávé a régi id?k maradványa. Ha ezt a tekn?t odakormányozod az olajfúró-toronyhoz, magad is rájössz.}
-{136}{}{Hogyan tudnám elvezetni?}
-{137}{}{Miféle olajfúró-toronyról van szó?}
-{138}{}{Elég egyszer?en. Egy szép napon otthagytam a navarrói bázist és ide vettem az irányt. Arra gondoltam, ez az utolsó hely, amit átkutatnának utánam. Nem vagyok én annyira fontos az Enklávé számára, hogy nekiálljanak kerestetni. Kis porszem vagyok csupán.}
-{139}{}{Pontosan mi az Enklávé?}
-{140}{}{Kösz. Viszlát!}
+{130}{}{MifÃ©le fÃºrÃ³toronyrÃ³l van szÃ³?}
+{131}{}{KÃ¶sz. ViszlÃ¡t!}
+{132}{}{Igen. Ezekkel az emberekkel pontosan tudod, mire szÃ¡mÃ­thatsz. Nem jÃ¡tszanak ki tÃ©ged. Az EnklÃ¡vÃ© olyan volt, mint egy csapat hiÃ©na. Semmi perc alatt ellened fordulnak.}
+{133}{}{Pontosan mi az EnklÃ¡vÃ©?}
+{134}{}{Hogy jÃ¶ttÃ©l Ã¶ssze velÃ¼k?}
+{135}{}{Az EnklÃ¡vÃ© a rÃ©gi id?k maradvÃ¡nya. Ha ezt a tekn?t odakormÃ¡nyozod az olajfÃºrÃ³-toronyhoz, magad is rÃ¡jÃ¶ssz.}
+{136}{}{Hogyan tudnÃ¡m elvezetni?}
+{137}{}{MifÃ©le olajfÃºrÃ³-toronyrÃ³l van szÃ³?}
+{138}{}{ElÃ©g egyszer?en. Egy szÃ©p napon otthagytam a navarrÃ³i bÃ¡zist Ã©s ide vettem az irÃ¡nyt. Arra gondoltam, ez az utolsÃ³ hely, amit Ã¡tkutatnÃ¡nak utÃ¡nam. Nem vagyok Ã©n annyira fontos az EnklÃ¡vÃ© szÃ¡mÃ¡ra, hogy nekiÃ¡lljanak kerestetni. Kis porszem vagyok csupÃ¡n.}
+{139}{}{Pontosan mi az EnklÃ¡vÃ©?}
+{140}{}{KÃ¶sz. ViszlÃ¡t!}
 {141}{}{There's a big Poseidon oil rig left out on the water. That's the final base of the Enclave}
 {142}{}{Honnan tud minderr?l?}
-{143}{}{Van még valami tudnivaló err?l a fúrótoronyról?}
-{144}{}{Kösz. Viszlát!}
-{145}{}{Gyorsan terjed a szóbeszéd.}
-{146}{}{Értem. Mi egyéb tudható err?l a fúrótoronyról?}
-{147}{}{Értem. Viszlát!}
-{148}{}{Nem tudok mit mondani. Én navarrói technikus voltam, mezei fúrótorony-kezel?. Rádión kommunikáltunk velük és ennyiben kimerült a kapcsolatunk.}
-{149}{}{Értem. Elmondanád, hogy tudnám ezt a hajót elvezetni?}
-{150}{}{Kösz. Viszlát!}
-{151}{}{Nagy hibát követtél el, hogy kekeckedtél a Kapitánnyal és a barátaival...}
+{143}{}{Van mÃ©g valami tudnivalÃ³ err?l a fÃºrÃ³toronyrÃ³l?}
+{144}{}{KÃ¶sz. ViszlÃ¡t!}
+{145}{}{Gyorsan terjed a szÃ³beszÃ©d.}
+{146}{}{Ã‰rtem. Mi egyÃ©b tudhatÃ³ err?l a fÃºrÃ³toronyrÃ³l?}
+{147}{}{Ã‰rtem. ViszlÃ¡t!}
+{148}{}{Nem tudok mit mondani. Ã‰n navarrÃ³i technikus voltam, mezei fÃºrÃ³torony-kezel?. RÃ¡diÃ³n kommunikÃ¡ltunk velÃ¼k Ã©s ennyiben kimerÃ¼lt a kapcsolatunk.}
+{149}{}{Ã‰rtem. ElmondanÃ¡d, hogy tudnÃ¡m ezt a hajÃ³t elvezetni?}
+{150}{}{KÃ¶sz. ViszlÃ¡t!}
+{151}{}{Nagy hibÃ¡t kÃ¶vettÃ©l el, hogy kekeckedtÃ©l a KapitÃ¡nnyal Ã©s a barÃ¡taival...}
 {152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
 {153}{}{Oh, yeah. You gotta get the navigation computer working as well. I bet you'd find parts for it in one of those old vaults.}
-{154}{}{Jó, hogy újra látlak. Mire van szükséged?}
+{154}{}{JÃ³, hogy Ãºjra lÃ¡tlak. Mire van szÃ¼ksÃ©ged?}
 {155}{}{, and unless I miss my bet, that's where your friends are, too.}
 {156}{}{ vagyok.}
 {200}{}{What old sub?}

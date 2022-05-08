@@ -1,11 +1,11 @@
-{100}{}{Você vê um Auto-Doc.}
-{101}{}{Você vê um Auto-Doc aparentemente antigo. Apesar de sua idade, você conseguiu convencê-lo voltar a funcionar.}
-{102}{}{Você vê um Auto-Doc.}
-{103}{}{Você vê um Auto-Doc aparentemente antigo. Apesar de sua idade, você conseguiu convencê-lo voltar a funcionar.}
-{104}{}{Você vê um Auto-Doc aparentemente antigo. Está fazendo barulho de quebrado, e uma grande quantidade de vapor está saindo dele.}
-{105}{}{Você vê um Auto-Doc.}
-{106}{}{Você vê um Auto-Doc aparentemente antigo. Está fazendo barulho de quebrado, e uma grande quantidade de vapor está saindo dele.}
-{107}{}{Esse Auto-Doc antigo parece estar precisando urgente de reparos. Parece que se passaram várias décadas desde a última manutenção.}
-{108}{}{O problema não é tão ruim quanto parece. Alguns cabos interiores precisam ser trocados e a placa de diagnóstico precisa ser limpa. Sem problemas.}
-{109}{}{Você examina o Auto-Doc, mas não consegue descobrir qual é o problema.}
-{110}{}{Você já consertou o Auto-Doc. Está funcionando perfeitamente. Você acha.}
+{100}{}{VocÃª vÃª um Auto-Doc.}
+{101}{}{VocÃª vÃª um Auto-Doc aparentemente antigo. Apesar de sua idade, vocÃª conseguiu convencÃª-lo voltar a funcionar.}
+{102}{}{VocÃª vÃª um Auto-Doc.}
+{103}{}{VocÃª vÃª um Auto-Doc aparentemente antigo. Apesar de sua idade, vocÃª conseguiu convencÃª-lo voltar a funcionar.}
+{104}{}{VocÃª vÃª um Auto-Doc aparentemente antigo. EstÃ¡ fazendo barulho de quebrado, e uma grande quantidade de vapor estÃ¡ saindo dele.}
+{105}{}{VocÃª vÃª um Auto-Doc.}
+{106}{}{VocÃª vÃª um Auto-Doc aparentemente antigo. EstÃ¡ fazendo barulho de quebrado, e uma grande quantidade de vapor estÃ¡ saindo dele.}
+{107}{}{Esse Auto-Doc antigo parece estar precisando urgente de reparos. Parece que se passaram vÃ¡rias dÃ©cadas desde a Ãºltima manutenÃ§Ã£o.}
+{108}{}{O problema nÃ£o Ã© tÃ£o ruim quanto parece. Alguns cabos interiores precisam ser trocados e a placa de diagnÃ³stico precisa ser limpa. Sem problemas.}
+{109}{}{VocÃª examina o Auto-Doc, mas nÃ£o consegue descobrir qual Ã© o problema.}
+{110}{}{VocÃª jÃ¡ consertou o Auto-Doc. EstÃ¡ funcionando perfeitamente. VocÃª acha.}

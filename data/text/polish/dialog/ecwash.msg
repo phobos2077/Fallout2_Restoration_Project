@@ -1,85 +1,85 @@
-{100}{}{Widzisz Buffy, cz³onkiniê Unwashed Villagers.}
-{101}{}{Widzisz Doombot, cz³onkiniê Unwashed Villagers.}
-{102}{}{Widzisz Panoply, cz³onkiniê the Unwashed Villagers.}
-{103}{}{Widzisz Lerka, cz³onka Unwashed Villagers.}
-{104}{}{Widzisz Ymira, cz³onka Unwashed Villagers.}
-{105}{}{Widzisz Iguana Eatera, cz³onka Unwashed Villagers.}
-{106}{}{Widzisz Night Owl, cz³onka Unwashed Villagers.}
-{107}{}{Widzisz Shadow Dancera, cz³onka Unwashed Villagers.}
-{108}{}{Widzisz Amish Commando, cz³onka Unwashed Villagers.}
-{109}{}{Widzisz Alexand the Killer Bee, cz³onka Unwashed Villagers.}
-{110}{}{Widzisz Hatchetmana, cz³onka Unwashed Villagers.}
-{111}{}{Widzisz BlueCrossa, cz³onka Unwashed Villagers.}
-{113}{}{Widzisz Buffy, piêkn¹, inteligentn¹ i zdoln¹ cheerliderkê. Pierwsz¹ kobietê w Unwashed Villagers.}
-{114}{}{Widzisz Doombot, Boginiê DŸwiêków i siostrê Buffy. Przypomina trochê Marie Osmond.}
-{115}{}{Widzisz Panoply, drobniutk¹ dziewczynê, w której oczach czai siê odrobina szaleñstwa.}
-{116}{}{Widzisz Lerka, dowódcê oddzia³u SWAT Unwashed Villagers - Artystê i Przyjaciela Drzew.}
-{117}{}{Widzisz Ymira, zbuntowanego Poetê i Wspó³za³o¿yciela Poetry Bastards - wioskowego nauczyciela.}
+{100}{}{Widzisz Buffy, czÅ‚onkiniÄ™ Unwashed Villagers.}
+{101}{}{Widzisz Doombot, czÅ‚onkiniÄ™ Unwashed Villagers.}
+{102}{}{Widzisz Panoply, czÅ‚onkiniÄ™ the Unwashed Villagers.}
+{103}{}{Widzisz Lerka, czÅ‚onka Unwashed Villagers.}
+{104}{}{Widzisz Ymira, czÅ‚onka Unwashed Villagers.}
+{105}{}{Widzisz Iguana Eatera, czÅ‚onka Unwashed Villagers.}
+{106}{}{Widzisz Night Owl, czÅ‚onka Unwashed Villagers.}
+{107}{}{Widzisz Shadow Dancera, czÅ‚onka Unwashed Villagers.}
+{108}{}{Widzisz Amish Commando, czÅ‚onka Unwashed Villagers.}
+{109}{}{Widzisz Alexand the Killer Bee, czÅ‚onka Unwashed Villagers.}
+{110}{}{Widzisz Hatchetmana, czÅ‚onka Unwashed Villagers.}
+{111}{}{Widzisz BlueCrossa, czÅ‚onka Unwashed Villagers.}
+{113}{}{Widzisz Buffy, piÄ™knÄ…, inteligentnÄ… i zdolnÄ… cheerliderkÄ™. PierwszÄ… kobietÄ™ w Unwashed Villagers.}
+{114}{}{Widzisz Doombot, BoginiÄ™ DÅºwiÄ™kÃ³w i siostrÄ™ Buffy. Przypomina trochÄ™ Marie Osmond.}
+{115}{}{Widzisz Panoply, drobniutkÄ… dziewczynÄ™, w ktÃ³rej oczach czai siÄ™ odrobina szaleÅ„stwa.}
+{116}{}{Widzisz Lerka, dowÃ³dcÄ™ oddziaÅ‚u SWAT Unwashed Villagers - ArtystÄ™ i Przyjaciela Drzew.}
+{117}{}{Widzisz Ymira, zbuntowanego PoetÄ™ i WspÃ³Å‚zaÅ‚oÅ¼yciela Poetry Bastards - wioskowego nauczyciela.}
 {118}{}{Widzisz Iguana Eatera, Wielkiego Lorda Smeet Lite.}
-{119}{}{Widzisz Night Owl, Tego, Który Czuwa Nad Œni¹cymi - wspó³za³o¿yciela Poetry Bastards.}
+{119}{}{Widzisz Night Owl, Tego, KtÃ³ry Czuwa Nad ÅšniÄ…cymi - wspÃ³Å‚zaÅ‚oÅ¼yciela Poetry Bastards.}
 {120}{}{Widzisz Shadow Dancera, konesera poezji gotyckiej - Co ciekawe, przypomina Kevina Bacona.}
-{121}{}{Widzisz Amish Commando, Wyznawcê Brutalnej Si³y, Wspó³dowodz¹cego oddzia³em SWAT Unwashed Villagers.}
-{122}{}{Widzisz Alexand the Killer Bee - inteligentn¹ odmianê pszczo³y-zabójcy - Wielkiego Kronikarza Unwashed Villagers.}
-{123}{}{Widzisz Hatchetmana, Dzia³onowego Unwashed Villagers - Wzniecaj¹cego Po¿ary - stra¿nika wiedzy Shadowrun.}
-{124}{}{Widzisz BlueCrossa, Podkap³ana Unwashed Villagers - dyrektora produkcji.}
-{200}{}{Unwashed Villagers znów ratuj¹ œwiat!}
-{201}{}{Œmieræ to dla niego zbyt ³agodna kara.}
+{121}{}{Widzisz Amish Commando, WyznawcÄ™ Brutalnej SiÅ‚y, WspÃ³Å‚dowodzÄ…cego oddziaÅ‚em SWAT Unwashed Villagers.}
+{122}{}{Widzisz Alexand the Killer Bee - inteligentnÄ… odmianÄ™ pszczoÅ‚y-zabÃ³jcy - Wielkiego Kronikarza Unwashed Villagers.}
+{123}{}{Widzisz Hatchetmana, DziaÅ‚onowego Unwashed Villagers - WzniecajÄ…cego PoÅ¼ary - straÅ¼nika wiedzy Shadowrun.}
+{124}{}{Widzisz BlueCrossa, PodkapÅ‚ana Unwashed Villagers - dyrektora produkcji.}
+{200}{}{Unwashed Villagers znÃ³w ratujÄ… Å›wiat!}
+{201}{}{ÅšmierÄ‡ to dla niego zbyt Å‚agodna kara.}
 {202}{}{I nie wstawaj!}
 {203}{}{Wioska jest znowu bezpieczna!}
-{204}{}{Bronimy niewinnych i dbamy o spokój.}
-{205}{}{Wyruszamy na kolejny patrol na Pustkowia. Œmieræ Spamerom!}
-{206}{}{Do³¹cz kiedyœ do nas!}
-{207}{}{Rozstania zawsze s¹ trudne....}
-{208}{}{A Szatan przyby³, i zobaczy³ jak okropne jest Dobro...}
-{209}{}{Zemsta jest s³odka, no nie?}
-{210}{}{Nareszcie siê na coœ przyda - potrzebujemy nawozu!}
-{211}{}{Tak to jest, jak siê u¿ywa myd³a...}
-{212}{}{Spadamy st¹d!}
+{204}{}{Bronimy niewinnych i dbamy o spokÃ³j.}
+{205}{}{Wyruszamy na kolejny patrol na Pustkowia. ÅšmierÄ‡ Spamerom!}
+{206}{}{DoÅ‚Ä…cz kiedyÅ› do nas!}
+{207}{}{Rozstania zawsze sÄ… trudne....}
+{208}{}{A Szatan przybyÅ‚, i zobaczyÅ‚ jak okropne jest Dobro...}
+{209}{}{Zemsta jest sÅ‚odka, no nie?}
+{210}{}{Nareszcie siÄ™ na coÅ› przyda - potrzebujemy nawozu!}
+{211}{}{Tak to jest, jak siÄ™ uÅ¼ywa mydÅ‚a...}
+{212}{}{Spadamy stÄ…d!}
 {213}{}{'Nie ma tu nic ciekawego.'}
-{214}{}{Mogê go na wrazie czego szturchn¹æ kijem?}
-{215}{}{IdŸ œmia³o. Nie czekaj na nas!}
-{216}{}{To brudna robota. Taka jak lubiê!}
+{214}{}{MogÄ™ go na wrazie czego szturchnÄ…Ä‡ kijem?}
+{215}{}{IdÅº Å›miaÅ‚o. Nie czekaj na nas!}
+{216}{}{To brudna robota. Taka jak lubiÄ™!}
 {217}{}{Wracamy na patrol!}
-{218}{}{Unwashed Villagers. Stra¿nicy spokoju na Pustkowiu.}
-{219}{}{Sam siê o to prosi³.}
+{218}{}{Unwashed Villagers. StraÅ¼nicy spokoju na Pustkowiu.}
+{219}{}{Sam siÄ™ o to prosiÅ‚.}
 {220}{}{Berek!}
-{300}{}{Myd³o? A po cholerê nam myd³o?!}
-{301}{}{Dalej wieœniacy! Œmieræ Spamerowi!}
-{302}{}{Œmieræ Spamerom!}
-{303}{}{Masz, na co zas³u¿y³eœ!}
-{304}{}{Grim Reaper - ju¿ po tobie.}
-{305}{}{Sma¿ siê w piekle!}
-{306}{}{Po¿egnaj siê ze œwiatem.}
-{307}{}{Czas na rewan¿!}
+{300}{}{MydÅ‚o? A po cholerÄ™ nam mydÅ‚o?!}
+{301}{}{Dalej wieÅ›niacy! ÅšmierÄ‡ Spamerowi!}
+{302}{}{ÅšmierÄ‡ Spamerom!}
+{303}{}{Masz, na co zasÅ‚uÅ¼yÅ‚eÅ›!}
+{304}{}{Grim Reaper - juÅ¼ po tobie.}
+{305}{}{SmaÅ¼ siÄ™ w piekle!}
+{306}{}{PoÅ¼egnaj siÄ™ ze Å›wiatem.}
+{307}{}{Czas na rewanÅ¼!}
 {308}{}{Teraz ci wpier...}
-{309}{}{Unwashed Villager broni¹ ludzi przed takimi jak ty!}
+{309}{}{Unwashed Villager broniÄ… ludzi przed takimi jak ty!}
 {310}{}{Zostaw tych ludzi w spokoju!}
-{311}{}{Potêga BRUDU!}
-{312}{}{Mo¿e i jesteœmy niedomyci, ale sprz¹tamy œwiat z takich jak ty!}
+{311}{}{PotÄ™ga BRUDU!}
+{312}{}{MoÅ¼e i jesteÅ›my niedomyci, ale sprzÄ…tamy Å›wiat z takich jak ty!}
 {313}{}{Tym razem nam nie uciekniesz!}
-{314}{}{Chroñcie Dziecko Przeznaczenia przed kretyñstwem Spamera!}
-{315}{}{Dziecko Przeznaczenia! Do³¹cz do nas!}
-{316}{}{NIEDOMYTA ŒMIERÆ!}
-{317}{}{Nigdy nie bêdziesz 'Niedomyty', dziecinny g³upcze!}
+{314}{}{ChroÅ„cie Dziecko Przeznaczenia przed kretyÅ„stwem Spamera!}
+{315}{}{Dziecko Przeznaczenia! DoÅ‚Ä…cz do nas!}
+{316}{}{NIEDOMYTA ÅšMIERÄ†!}
+{317}{}{Nigdy nie bÄ™dziesz 'Niedomyty', dziecinny gÅ‚upcze!}
 {318}{}{Nie masz szans!}
 {319}{}{To jeszcze nie koniec!}
-{320}{}{D³ugo czeka³em na ten dzieñ.}
-{400}{}{To za te twoje pogró¿ki!}
-{401}{}{Chyba nie uderzy³byœ dziewczyny, co?}
+{320}{}{DÅ‚ugo czekaÅ‚em na ten dzieÅ„.}
+{400}{}{To za te twoje pogrÃ³Å¼ki!}
+{401}{}{Chyba nie uderzyÅ‚byÅ› dziewczyny, co?}
 {402}{}{'Zemsta smakuje najlepiej podana na zimno.'}
-{403}{}{Jestem Buffy... a ty jesteœ martwy.}
-{405}{}{Nikt nie bêdzie grozi³ Doombot!}
-{406}{}{Ju¿ nie ¿yjesz, Grim!}
-{410}{}{Ach, s³odki smak zwyciêstwa. Prawie tak znakomity jak smak iguany na patyku...}
-{415}{}{Wioska to radosne miejsce, ale ty mnie BARDZO rozz³oœci³eœ.}
-{420}{}{Po raz ostatni przynios³eœ wstyd naszemu krajowi!}
-{430}{}{Uœpiê ciê na dobre!}
-{435}{}{Wszyscy pójdziemy do piek³a, a ja nas tam poprowadzê.}
-{436}{}{ChodŸ, moje dziecko. Uœmierzê twój ból.}
-{437}{}{Ju¿ nie ¿yjesz. Tylko jeszcze o tym nie wiesz.}
+{403}{}{Jestem Buffy... a ty jesteÅ› martwy.}
+{405}{}{Nikt nie bÄ™dzie groziÅ‚ Doombot!}
+{406}{}{JuÅ¼ nie Å¼yjesz, Grim!}
+{410}{}{Ach, sÅ‚odki smak zwyciÄ™stwa. Prawie tak znakomity jak smak iguany na patyku...}
+{415}{}{Wioska to radosne miejsce, ale ty mnie BARDZO rozzÅ‚oÅ›ciÅ‚eÅ›.}
+{420}{}{Po raz ostatni przyniosÅ‚eÅ› wstyd naszemu krajowi!}
+{430}{}{UÅ›piÄ™ ciÄ™ na dobre!}
+{435}{}{Wszyscy pÃ³jdziemy do piekÅ‚a, a ja nas tam poprowadzÄ™.}
+{436}{}{ChodÅº, moje dziecko. UÅ›mierzÄ™ twÃ³j bÃ³l.}
+{437}{}{JuÅ¼ nie Å¼yjesz. Tylko jeszcze o tym nie wiesz.}
 {440}{}{A masz!}
-{441}{}{Chcesz jeszcze trochê?}
+{441}{}{Chcesz jeszcze trochÄ™?}
 {442}{}{Tylko nie w twarz, tylko nie w twarz!}
-{445}{}{Piek³o Dantego to piknik w porównaniu z tym, co ciê czeka...}
-{450}{}{Spluwy! Spluwy! Gdzie s¹ moje spluwy!}
-{451}{}{Ach, tak. Jestem stukniêty. I co teraz?}
+{445}{}{PiekÅ‚o Dantego to piknik w porÃ³wnaniu z tym, co ciÄ™ czeka...}
+{450}{}{Spluwy! Spluwy! Gdzie sÄ… moje spluwy!}
+{451}{}{Ach, tak. Jestem stukniÄ™ty. I co teraz?}

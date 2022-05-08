@@ -1,10 +1,10 @@
 {100}{}{Tu vois un homme qui porte des habits de cuir et des armes.}
-{101}{}{Voici Félix, le contremaître du ranch.}
-{102}{}{Il a l'air d'être plus sympa et plus costaud que les autres clients qui traînent par ici.}
+{101}{}{Voici FÃ©lix, le contremaÃ®tre du ranch.}
+{102}{}{Il a l'air d'Ãªtre plus sympa et plus costaud que les autres clients qui traÃ®nent par ici.}
 {103}{}{Que puis-je faire pour toi ?}
 {104}{}{Encore toi ?}
 {105}{}{Ben...}
-{106}{}{Le shérif m'a dit de passer. Il a dit que M.Westin aurait peut-être du travail pour moi.}
+{106}{}{Le shÃ©rif m'a dit de passer. Il a dit que M.Westin aurait peut-Ãªtre du travail pour moi.}
 {107}{}{Je veux voir le patron.}
 {108}{}{Je cherche du travail.}
 {109}{}{Je cherche l'Abri 13.}
@@ -14,19 +14,19 @@
 {113}{}{Nooon.}
 {114}{}{Bien. Entre.}
 {115}{}{Il est tard. Reviens demain matin.}
-{116}{}{Bon, alors, sors de là.}
-{117}{}{Dumont, hein ? Bon, ça me suffit. M.Westin est à l'intérieur.}
-{118}{}{M.Westin ne reçoit pas n'importe qui. C'est à quel sujet ?}
+{116}{}{Bon, alors, sors de lÃ .}
+{117}{}{Dumont, hein ? Bon, Ã§a me suffit. M.Westin est Ã  l'intÃ©rieur.}
+{118}{}{M.Westin ne reÃ§oit pas n'importe qui. C'est Ã  quel sujet ?}
 {119}{}{Je cherche l'Abri 13.}
 {120}{}{Et si je disais que c'est Bishop de New Reno qui m'envoie pour le tuer ?}
 {121}{}{Heu, non.}
-{122}{}{Ha ! Encore quelqu'un de complètement fêlé. Va voir Petit Salé. Vous vous entendrez bien.}
+{122}{}{Ha ! Encore quelqu'un de complÃ¨tement fÃªlÃ©. Va voir Petit SalÃ©. Vous vous entendrez bien.}
 {123}{}{Qui ?}
 {124}{}{Je suis parti.}
-{125}{}{Bob Petit Salé, dans l'étable. M.Westin le laisse là-bas. Maintenant, arrête de me faire perdre mon temps.}
+{125}{}{Bob Petit SalÃ©, dans l'Ã©table. M.Westin le laisse lÃ -bas. Maintenant, arrÃªte de me faire perdre mon temps.}
 {126}{}{Oh merci.}
 {127}{}{Alors, je crois qu'on doit te tuer.}
-{128}{}{La réunion est terminée ?}
+{128}{}{La rÃ©union est terminÃ©e ?}
 {129}{}{Westin. Boulot. Moi.}
 {130}{}{Moi aller.}
 {131}{}{Bien, il veut te donner un boulot, j'en ai un pour toi. Quelqu'un, ou quelque chose, tuer meuh-meuhs. Toi venir moi. Toi garder meuh-meuhs. Patron content. Ok ?}
@@ -35,15 +35,15 @@
 {134}{}{Tu es de retour, hein ? Le boulot est fait ?}
 {135}{}{Oui.}
 {136}{}{Non.}
-{137}{}{Ouais, il a laissé des ordres. Il t'attend.}
-{138}{}{Hé, TOI ! Casse-toi de là !}
+{137}{}{Ouais, il a laissÃ© des ordres. Il t'attend.}
+{138}{}{HÃ©, TOI ! Casse-toi de lÃ  !}
 {139}{}{Ok.}
 {140}{}{Va te faire foutre !}
-{141}{}{Ouais. Il veut te voir. C'est à propos d'un problème de Brahmines.}
+{141}{}{Ouais. Il veut te voir. C'est Ã  propos d'un problÃ¨me de Brahmines.}
 {142}{}{Oui. Je me casse.}
-{143}{}{Ouais. Y'a quelqu'un ou quelque chose qui s'attaque aux Brahmines sur les pâturages à l'Ouest. Je vais t'y emmener et tu t'en occuperas. Allons-y.}
+{143}{}{Ouais. Y'a quelqu'un ou quelque chose qui s'attaque aux Brahmines sur les pÃ¢turages Ã  l'Ouest. Je vais t'y emmener et tu t'en occuperas. Allons-y.}
 {144}{}{Pas question !}
 {145}{}{M. Westin t'attend.}
-{146}{}{Eh bien, on avait un problème avec de la vermine, mais maintenant on est plus emmerdés. Tu peux voir Westin si tu veux.}
-{147}{}{Je viens de la Cité de l'Abri pour affaires.}
-{500}{}{Si tu touches encore une fois cette porte, ça va être ta fête ! C'est clair ?}
+{146}{}{Eh bien, on avait un problÃ¨me avec de la vermine, mais maintenant on est plus emmerdÃ©s. Tu peux voir Westin si tu veux.}
+{147}{}{Je viens de la CitÃ© de l'Abri pour affaires.}
+{500}{}{Si tu touches encore une fois cette porte, Ã§a va Ãªtre ta fÃªte ! C'est clair ?}

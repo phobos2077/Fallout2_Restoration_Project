@@ -1,8 +1,8 @@
 {100}{}{Du siehst einen Boxer.}
-{101}{}{Du siehst Mike "den Beißer."}
-{150}{}{Seine Arme sehen wie Baumstämme aus.}
-{151}{}{Beide Arme sehen aus, als könnte er damit locker einen Heiztank stemmen.}
-{152}{}{Wenn er sich bewegt, sieht es aus, als würde er nur aus Muskeln bestehen.}
+{101}{}{Du siehst Mike "den BeiÃŸer."}
+{150}{}{Seine Arme sehen wie BaumstÃ¤mme aus.}
+{151}{}{Beide Arme sehen aus, als kÃ¶nnte er damit locker einen Heiztank stemmen.}
+{152}{}{Wenn er sich bewegt, sieht es aus, als wÃ¼rde er nur aus Muskeln bestehen.}
 {153}{}{Er sieht hungrig dein Ohr an.}
 {154}{}{Sein Gesicht sieht wie Hackfleisch aus.}
 {158}{}{Hargghhh}
@@ -23,11 +23,11 @@
 {173}{}{Snrggg}
 {174}{}{Ich nix leiden Robbin' Givens.}
 {175}{}{Grrrrrgrrrrgrrr...grrr...grrr...grr! Grr! Grrr?}
-{176}{}{Was heißt denn "Prozentsatz"?}
-{200}{}{::Mike duckt sich, als du näherkommst::}
-{201}{}{::Mike wimmert, als du näherkommst::}
-{202}{}{::Mike hält ergeben die Hände hoch, als du näherkommst::}
-{203}{}{Du süß.}
-{204}{}{ich mögen deine Ohren.}
-{205}{}{Genug geredet. Zeit fürs Bett.}
+{176}{}{Was heiÃŸt denn "Prozentsatz"?}
+{200}{}{::Mike duckt sich, als du nÃ¤herkommst::}
+{201}{}{::Mike wimmert, als du nÃ¤herkommst::}
+{202}{}{::Mike hÃ¤lt ergeben die HÃ¤nde hoch, als du nÃ¤herkommst::}
+{203}{}{Du sÃ¼ÃŸ.}
+{204}{}{ich mÃ¶gen deine Ohren.}
+{205}{}{Genug geredet. Zeit fÃ¼rs Bett.}
 {206}{}{Robin? Bist du das?}

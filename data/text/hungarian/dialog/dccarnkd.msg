@@ -1,11 +1,11 @@
 {100}{}{You see a child shouting corny slogans.}
-{101}{}{Ezt a szurtos gyereket láthatóan valamilyen turistalátványosság reklámozására bérelték fel.}
-{500}{}{Nézze meg a Rejtélyes Múmiát!}
-{501}{}{Nézze meg az ?si Csodát!}
-{502}{}{Hammi-siíta-tatlan Múmia, csak most, csak önöknek!}
-{503}{}{Nézze meg az Egyiptomi Herceget!}
-{504}{}{Nézze meg a Nílus Királyn?jét!}
-{505}{}{Lépjen be a Hammi-siíta-tatlan kísértetházba!}
-{506}{}{Feltárulnak a túlvilág titkai!}
-{507}{}{Jöjjenek csak, mindenki jöjjön!}
-{508}{}{Életre szóló m?vel?dési lehet?ség!}
+{101}{}{Ezt a szurtos gyereket lÃ¡thatÃ³an valamilyen turistalÃ¡tvÃ¡nyossÃ¡g reklÃ¡mozÃ¡sÃ¡ra bÃ©reltÃ©k fel.}
+{500}{}{NÃ©zze meg a RejtÃ©lyes MÃºmiÃ¡t!}
+{501}{}{NÃ©zze meg az ?si CsodÃ¡t!}
+{502}{}{Hammi-siÃ­ta-tatlan MÃºmia, csak most, csak Ã¶nÃ¶knek!}
+{503}{}{NÃ©zze meg az Egyiptomi Herceget!}
+{504}{}{NÃ©zze meg a NÃ­lus KirÃ¡lyn?jÃ©t!}
+{505}{}{LÃ©pjen be a Hammi-siÃ­ta-tatlan kÃ­sÃ©rtethÃ¡zba!}
+{506}{}{FeltÃ¡rulnak a tÃºlvilÃ¡g titkai!}
+{507}{}{JÃ¶jjenek csak, mindenki jÃ¶jjÃ¶n!}
+{508}{}{Ã‰letre szÃ³lÃ³ m?vel?dÃ©si lehet?sÃ©g!}

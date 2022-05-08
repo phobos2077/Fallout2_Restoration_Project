@@ -1,53 +1,53 @@
-{100}{}{Widzisz jednego z mieszkañców Klamath.}
-{101}{}{Widzisz jednego z mieszkañców Klamath.}
-{150}{}{Dlaczego nie wrócisz do swego plemienia?}
-{151}{}{Dam ci kilka piêknych paciorków, jeœli zostawisz mnie w spokoju.}
-{152}{}{Mi³y dzikus, dobry dzikus, nie krzywdŸ mnie!}
-{153}{}{Dobrze by³oby mieæ mur wokó³ miasta.}
-{154}{}{Nie mam nic, co mo¿na by ukraœæ. IdŸ sobie.}
-{155}{}{Dlaczego tak siê na mnie patrzysz?}
-{156}{}{Œwietnie, nastêpny dzikus.}
-{157}{}{Dlaczego nie wrócisz do "Z³otego Gekona"?}
-{158}{}{Trzymaj siê ode mnie z dala.}
-{159}{}{Nie potrzebujemy tutaj problemów.}
+{100}{}{Widzisz jednego z mieszkaÅ„cÃ³w Klamath.}
+{101}{}{Widzisz jednego z mieszkaÅ„cÃ³w Klamath.}
+{150}{}{Dlaczego nie wrÃ³cisz do swego plemienia?}
+{151}{}{Dam ci kilka piÄ™knych paciorkÃ³w, jeÅ›li zostawisz mnie w spokoju.}
+{152}{}{MiÅ‚y dzikus, dobry dzikus, nie krzywdÅº mnie!}
+{153}{}{Dobrze byÅ‚oby mieÄ‡ mur wokÃ³Å‚ miasta.}
+{154}{}{Nie mam nic, co moÅ¼na by ukraÅ›Ä‡. IdÅº sobie.}
+{155}{}{Dlaczego tak siÄ™ na mnie patrzysz?}
+{156}{}{Åšwietnie, nastÄ™pny dzikus.}
+{157}{}{Dlaczego nie wrÃ³cisz do "ZÅ‚otego Gekona"?}
+{158}{}{Trzymaj siÄ™ ode mnie z dala.}
+{159}{}{Nie potrzebujemy tutaj problemÃ³w.}
 {160}{}{Zapewne przychodzisz z Nory.}
-{161}{}{Ostatni¹ rzecz¹, jakiej potrzebujemy to wiêcej takich jak ty.}
-{170}{}{Witaj, kimkolwiek jesteœ.}
-{171}{}{Mam nadziejê, ¿e ³owy bêd¹ dobre w tym sezonie.}
-{172}{}{Ostatnio ginie du¿o bramin.}
-{173}{}{[Chrup, chrup] Suszone miêso od Duntonów jest pyszne.}
-{174}{}{Jesteœ tu by wymieniæ skóry na wodê ognist¹?}
-{175}{}{To nie wszyscy wasi ludzie wk³adaj¹ sobie koœci do nosa?}
-{176}{}{Uwa¿aj na szczury w Osadzie Traperów.}
-{177}{}{Zaraz, gdzie s¹ te moje magiczne fasolki?}
-{178}{}{Gekony smakuj¹ jak kurczak z puszki - jeœli je dobrze ugotujesz.}
-{179}{}{Mam zamiar zrelaksowaæ siê w £aŸni.}
-{180}{}{Uwa¿aj na Duntonów.}
-{181}{}{Dom Bucknerów zawsze dobrze p³aci za mój towar.}
-{182}{}{£adny dziœ dzieñ.}
-{183}{}{Wygl¹dasz jak Sulik.}
-{184}{}{Zastanawiam siê, gdzie podzia³ siê ten idiota Torr?}
+{161}{}{OstatniÄ… rzeczÄ…, jakiej potrzebujemy to wiÄ™cej takich jak ty.}
+{170}{}{Witaj, kimkolwiek jesteÅ›.}
+{171}{}{Mam nadziejÄ™, Å¼e Å‚owy bÄ™dÄ… dobre w tym sezonie.}
+{172}{}{Ostatnio ginie duÅ¼o bramin.}
+{173}{}{[Chrup, chrup] Suszone miÄ™so od DuntonÃ³w jest pyszne.}
+{174}{}{JesteÅ› tu by wymieniÄ‡ skÃ³ry na wodÄ™ ognistÄ…?}
+{175}{}{To nie wszyscy wasi ludzie wkÅ‚adajÄ… sobie koÅ›ci do nosa?}
+{176}{}{UwaÅ¼aj na szczury w Osadzie TraperÃ³w.}
+{177}{}{Zaraz, gdzie sÄ… te moje magiczne fasolki?}
+{178}{}{Gekony smakujÄ… jak kurczak z puszki - jeÅ›li je dobrze ugotujesz.}
+{179}{}{Mam zamiar zrelaksowaÄ‡ siÄ™ w ÅaÅºni.}
+{180}{}{UwaÅ¼aj na DuntonÃ³w.}
+{181}{}{Dom BucknerÃ³w zawsze dobrze pÅ‚aci za mÃ³j towar.}
+{182}{}{Åadny dziÅ› dzieÅ„.}
+{183}{}{WyglÄ…dasz jak Sulik.}
+{184}{}{Zastanawiam siÄ™, gdzie podziaÅ‚ siÄ™ ten idiota Torr?}
 {185}{}{Wielka tajemnica jest - hej, co to za rzecz w mojej kieszeni?!?}
-{186}{}{Biedni nie maj¹ odpoczynku.}
-{187}{}{Bol¹ mnie stawy. Pewnie pogoda siê zmienia.}
-{188}{}{Wiatr trochê przewiewa...}
-{190}{}{Mi³o ciê widzieæ.}
-{191}{}{Jest was wiêcej?}
-{192}{}{Mam nadziejê, ¿e podoba ci siê w Klamath.}
-{193}{}{Przyda³oby nam siê kilku wiêcej ludzi twojego kalibru.}
-{194}{}{Co s³ychaæ, przyjacielu?}
-{195}{}{¯yczê szczêœcia.}
-{196}{}{Jeœli musisz coœ kupiæ, idŸ do Domu Bucknerów.}
-{197}{}{W³aœciwie to nie jesteœ jak Sulik.}
-{198}{}{Jesteœ najbardziej cywilizowanym cz³onkiem plemienia jakiego uda³o mi siê spotkaæ.}
-{199}{}{Uwa¿aj na gekony, które zmieni³y kolor.}
-{200}{}{Witaj, wêdrowcze.}
-{201}{}{Cieszê siê, ¿e jesteœ tu z nami w Klamath.}
+{186}{}{Biedni nie majÄ… odpoczynku.}
+{187}{}{BolÄ… mnie stawy. Pewnie pogoda siÄ™ zmienia.}
+{188}{}{Wiatr trochÄ™ przewiewa...}
+{190}{}{MiÅ‚o ciÄ™ widzieÄ‡.}
+{191}{}{Jest was wiÄ™cej?}
+{192}{}{Mam nadziejÄ™, Å¼e podoba ci siÄ™ w Klamath.}
+{193}{}{PrzydaÅ‚oby nam siÄ™ kilku wiÄ™cej ludzi twojego kalibru.}
+{194}{}{Co sÅ‚ychaÄ‡, przyjacielu?}
+{195}{}{Å»yczÄ™ szczÄ™Å›cia.}
+{196}{}{JeÅ›li musisz coÅ› kupiÄ‡, idÅº do Domu BucknerÃ³w.}
+{197}{}{WÅ‚aÅ›ciwie to nie jesteÅ› jak Sulik.}
+{198}{}{JesteÅ› najbardziej cywilizowanym czÅ‚onkiem plemienia jakiego udaÅ‚o mi siÄ™ spotkaÄ‡.}
+{199}{}{UwaÅ¼aj na gekony, ktÃ³re zmieniÅ‚y kolor.}
+{200}{}{Witaj, wÄ™drowcze.}
+{201}{}{CieszÄ™ siÄ™, Å¼e jesteÅ› tu z nami w Klamath.}
 {202}{}{Witaj, przybyszu.}
-{203}{}{Uwa¿aj na Duntonów. S¹ niebezpieczni.}
-{204}{}{W Osadzie Traperów jest cholernie du¿o szczurów.}
+{203}{}{UwaÅ¼aj na DuntonÃ³w. SÄ… niebezpieczni.}
+{204}{}{W Osadzie TraperÃ³w jest cholernie duÅ¼o szczurÃ³w.}
 {1000}{}{Starsza}
-{1001}{}{Za³o¿yciel}
+{1001}{}{ZaÅ‚oÅ¼yciel}
 {1002}{}{Przybysz z Krypty}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
@@ -58,15 +58,15 @@
 {1009}{}{Proszek Leczniczy}
 {1010}{}{Most}
 {1011}{}{Mynoc}
-{1100}{}{Starsza jest nasz¹ matk¹ i przywódczyni¹.}
-{1101}{}{To nasz wielki przodek, który da³ nam wiedzê.}
-{1102}{}{Pierwszy, który walczy³ i zwyciê¿y³ chaos.}
-{1103}{}{To jest nasza piêkna wioska.}
-{1104}{}{To placowka handlowa kilka dni na wschod st¹d.}
+{1100}{}{Starsza jest naszÄ… matkÄ… i przywÃ³dczyniÄ….}
+{1101}{}{To nasz wielki przodek, ktÃ³ry daÅ‚ nam wiedzÄ™.}
+{1102}{}{Pierwszy, ktÃ³ry walczyÅ‚ i zwyciÄ™Å¼yÅ‚ chaos.}
+{1103}{}{To jest nasza piÄ™kna wioska.}
+{1104}{}{To placowka handlowa kilka dni na wschod stÄ…d.}
 {1105}{}{Krypta jest rajem.}
-{1106}{}{Ty jesteœ Dzieckiem Przeznaczenia.}
-{1107}{}{Leczy nas za pomoc¹ zió³ i magii. Znajduje siê w polnocnej czêœci wioski.}
-{1108}{}{Leczy nas za pomoc¹ zió³ i magii. Znajduje siê w polnocnej czêœci wioski.}
-{1109}{}{To magiczny proszek, który ciê wyleczy, lecz uspi twe zmysly.}
-{1110}{}{Wielki Most stanowi wyjœcie z naszej wioski od po³udnia.}
-{1111}{}{Mynoc strze¿e mostu prowadz¹cego do naszej wioski.}
+{1106}{}{Ty jesteÅ› Dzieckiem Przeznaczenia.}
+{1107}{}{Leczy nas za pomocÄ… ziÃ³Å‚ i magii. Znajduje siÄ™ w polnocnej czÄ™Å›ci wioski.}
+{1108}{}{Leczy nas za pomocÄ… ziÃ³Å‚ i magii. Znajduje siÄ™ w polnocnej czÄ™Å›ci wioski.}
+{1109}{}{To magiczny proszek, ktÃ³ry ciÄ™ wyleczy, lecz uspi twe zmysly.}
+{1110}{}{Wielki Most stanowi wyjÅ›cie z naszej wioski od poÅ‚udnia.}
+{1111}{}{Mynoc strzeÅ¼e mostu prowadzÄ…cego do naszej wioski.}

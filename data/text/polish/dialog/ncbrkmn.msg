@@ -1,32 +1,32 @@
-{100}{}{Widzisz poszczekuj¹cego, zaroœniêtego mê¿czyznê.}
-{101}{}{Jego ubrania s¹ podarte i brudne. Ma podrapane nogi i rêce.}
-{150}{}{Ha³! Hauuu. Hauuuuu.}
-{151}{}{Yyy, wszystko w porz¹dku?}
-{152}{}{Yyy, pewnie. Czeœæ.}
-{153}{}{Hej, myœlê, ¿e mam coœ co mog³oby ci pomóc.}
-{154}{}{Hmm... Wygl¹da, ¿e cierpisz z powodu zaburzeñ neurologicznych, to mo¿e byæ epilepsja. Przykro mi, ale nie mogê nic na to poradziæ. Czeœæ.}
-{160}{}{Ha³. Ha³ Ha³. Hauuu.}
+{100}{}{Widzisz poszczekujÄ…cego, zaroÅ›niÄ™tego mÄ™Å¼czyznÄ™.}
+{101}{}{Jego ubrania sÄ… podarte i brudne. Ma podrapane nogi i rÄ™ce.}
+{150}{}{HaÅ‚! Hauuu. Hauuuuu.}
+{151}{}{Yyy, wszystko w porzÄ…dku?}
+{152}{}{Yyy, pewnie. CzeÅ›Ä‡.}
+{153}{}{Hej, myÅ›lÄ™, Å¼e mam coÅ› co mogÅ‚oby ci pomÃ³c.}
+{154}{}{Hmm... WyglÄ…da, Å¼e cierpisz z powodu zaburzeÅ„ neurologicznych, to moÅ¼e byÄ‡ epilepsja. Przykro mi, ale nie mogÄ™ nic na to poradziÄ‡. CzeÅ›Ä‡.}
+{160}{}{HaÅ‚. HaÅ‚ HaÅ‚. Hauuu.}
 {250}{}{Grrr!}
 {251}{}{Wrrrrrr!}
 {252}{}{Wrrrrrrrr!}
 {253}{}{Wrrrrrrrrrr!}
 {254}{}{[Odchodzi.]}
-{255}{}{Wrrrrrrrrr! Wrrr! Ha³!}
-{256}{}{(Mê¿czyzna skamle i ucieka.)}
+{255}{}{Wrrrrrrrrr! Wrrr! HaÅ‚!}
+{256}{}{(MÄ™Å¼czyzna skamle i ucieka.)}
 {257}{}{Hehe. Dobry piesek...}
-{258}{}{Hehe. Mój super piesek...}
+{258}{}{Hehe. MÃ³j super piesek...}
 {300}{}{Hau?}
-{301}{}{Dobra. Po prostu s³uchaj uwa¿nie serii liter jakie zamierzam powiedzieæ...}
-{302}{}{(Powoli recytujesz seriê liter jakiej nauczy³ ciê komputer w AOŒ pamiêtaj¹c o odpowiedniej intonacji okreœlonych liter. Kiedy koñczysz odczytywaæ ci¹g liter, spogl¹dasz z powrotem na mê¿czyznê. Patrzy na ciebie, a potem trzêsie ca³ym cia³em jak pies po deszczu otrzepuj¹cy siê z wody.}
+{301}{}{Dobra. Po prostu sÅ‚uchaj uwaÅ¼nie serii liter jakie zamierzam powiedzieÄ‡...}
+{302}{}{(Powoli recytujesz seriÄ™ liter jakiej nauczyÅ‚ ciÄ™ komputer w AOÅš pamiÄ™tajÄ…c o odpowiedniej intonacji okreÅ›lonych liter. Kiedy koÅ„czysz odczytywaÄ‡ ciÄ…g liter, spoglÄ…dasz z powrotem na mÄ™Å¼czyznÄ™. Patrzy na ciebie, a potem trzÄ™sie caÅ‚ym ciaÅ‚em jak pies po deszczu otrzepujÄ…cy siÄ™ z wody.}
 {303}{}{[KONTYNUUJ]}
-{304}{}{Ha- Haha. Hej, mogê normalnie mówiæ! Super. Jak ci siê to uda³o zrobiæ?}
-{305}{}{Wystarczy odpowiednio intonuj¹c przeczytaæ pewne litery w okreœlonej kolejnoœci. Mo¿na w ten sposób wyleczyæ autyzm lub epilepsjê.}
-{306}{}{Jak dla mnie brzmi jak stek bzdur, ale hej, mówiê, wiêc musi coœ w tym byæ. W ka¿dym razie, naprawdê jestem ci bardzo wdziêczny. Proszê, weŸ te stimpaki. Znalaz³em je kiedy szuka³em jedzenia za tymi wszystkimi budynkami.}
-{307}{}{Dziêkujê, do zobaczenia.}
+{304}{}{Ha- Haha. Hej, mogÄ™ normalnie mÃ³wiÄ‡! Super. Jak ci siÄ™ to udaÅ‚o zrobiÄ‡?}
+{305}{}{Wystarczy odpowiednio intonujÄ…c przeczytaÄ‡ pewne litery w okreÅ›lonej kolejnoÅ›ci. MoÅ¼na w ten sposÃ³b wyleczyÄ‡ autyzm lub epilepsjÄ™.}
+{306}{}{Jak dla mnie brzmi jak stek bzdur, ale hej, mÃ³wiÄ™, wiÄ™c musi coÅ› w tym byÄ‡. W kaÅ¼dym razie, naprawdÄ™ jestem ci bardzo wdziÄ™czny. ProszÄ™, weÅº te stimpaki. ZnalazÅ‚em je kiedy szukaÅ‚em jedzenia za tymi wszystkimi budynkami.}
+{307}{}{DziÄ™kujÄ™, do zobaczenia.}
 {350}{}{Hau!}
-{351}{}{Ha³! Ha³!}
-{352}{}{*drapie siê*}
-{400}{}{Ha³! Hehe, tylko ¿artowa³em. Jeszcze raz dziêkujê za wyleczenie mnie.}
-{500}{}{Uda³o ci siê wylwczyæ Szczekaj¹cego Cz³owieka.}
+{351}{}{HaÅ‚! HaÅ‚!}
+{352}{}{*drapie siÄ™*}
+{400}{}{HaÅ‚! Hehe, tylko Å¼artowaÅ‚em. Jeszcze raz dziÄ™kujÄ™ za wyleczenie mnie.}
+{500}{}{UdaÅ‚o ci siÄ™ wylwczyÄ‡ SzczekajÄ…cego CzÅ‚owieka.}
 {600}{}{*skamle*}
-{601}{}{Patrzy na ciebie wielkimi, przera¿onymi oczyma.}
+{601}{}{Patrzy na ciebie wielkimi, przeraÅ¼onymi oczyma.}

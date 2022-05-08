@@ -1,34 +1,34 @@
-{100}{}{Egy kiskölyök.}
+{100}{}{Egy kiskÃ¶lyÃ¶k.}
 {101}{}{Egy gyerek.}
-{102}{}{Ez a gyerek pont úgy néz ki, mint a többi.}
-{103}{}{Hitványnak t?nsz...}
-{104}{}{Ne bánts, jó?}
+{102}{}{Ez a gyerek pont Ãºgy nÃ©z ki, mint a tÃ¶bbi.}
+{103}{}{HitvÃ¡nynak t?nsz...}
+{104}{}{Ne bÃ¡nts, jÃ³?}
 {105}{}{Mi baj a szemeddel?}
 {106}{}{Ez egy lao wai?}
 {107}{}{Mi vagy te?}
-{108}{}{Szeret téged itt valaki?}
-{109}{}{Ugye nem akarod a papát meg a mamát bántani?}
-{110}{}{Most megyek játszani.}
-{111}{}{Haha! Négyszem?!}
-{112}{}{Gyökér-riadó! Gyökér-riadó!}
-{113}{}{::a kölyök szeme elkerekedik, amint meglátja az elhaladó Marcust::}
-{114}{}{H?, milyen nagy darab úriember!}
-{115}{}{Az a férfi miért visel szoknyát?}
-{116}{}{Az a férfi kislány akar lenni?}
-{117}{}{Jujj! Törzsbéli!}
-{118}{}{Hé, miszter! Dákó van az orrában!}
+{108}{}{Szeret tÃ©ged itt valaki?}
+{109}{}{Ugye nem akarod a papÃ¡t meg a mamÃ¡t bÃ¡ntani?}
+{110}{}{Most megyek jÃ¡tszani.}
+{111}{}{Haha! NÃ©gyszem?!}
+{112}{}{GyÃ¶kÃ©r-riadÃ³! GyÃ¶kÃ©r-riadÃ³!}
+{113}{}{::a kÃ¶lyÃ¶k szeme elkerekedik, amint meglÃ¡tja az elhaladÃ³ Marcust::}
+{114}{}{H?, milyen nagy darab Ãºriember!}
+{115}{}{Az a fÃ©rfi miÃ©rt visel szoknyÃ¡t?}
+{116}{}{Az a fÃ©rfi kislÃ¡ny akar lenni?}
+{117}{}{Jujj! TÃ¶rzsbÃ©li!}
+{118}{}{HÃ©, miszter! DÃ¡kÃ³ van az orrÃ¡ban!}
 {119}{}{Jujj! Zombi!}
 {120}{}{Mami, ez az ember fert?z?}
-{121}{}{Kutyuli! Jó kutya vagy!}
-{122}{}{Jujj! Egy szörny!}
-{123}{}{Némmá ezt a béna koloncot!}
-{124}{}{Ez a mamád?}
-{125}{}{Segítség! Egy robot jön utánam!}
-{126}{}{Segítség! Egy robot jön utánam!}
-{127}{}{Nincs meleg odabenn? Hahó? Hallasz engem?}
+{121}{}{Kutyuli! JÃ³ kutya vagy!}
+{122}{}{Jujj! Egy szÃ¶rny!}
+{123}{}{NÃ©mmÃ¡ ezt a bÃ©na koloncot!}
+{124}{}{Ez a mamÃ¡d?}
+{125}{}{SegÃ­tsÃ©g! Egy robot jÃ¶n utÃ¡nam!}
+{126}{}{SegÃ­tsÃ©g! Egy robot jÃ¶n utÃ¡nam!}
+{127}{}{Nincs meleg odabenn? HahÃ³? Hallasz engem?}
 {128}{}{Mi vagy te? Ember vagy?}
-{129}{}{Te szörnyen nagy vagy!}
-{130}{}{Áááááááá!}
-{131}{}{Ne bánts!}
+{129}{}{Te szÃ¶rnyen nagy vagy!}
+{130}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡!}
+{131}{}{Ne bÃ¡nts!}
 {132}{}{::zokog::}
-{133}{}{Mami, segíts!}
+{133}{}{Mami, segÃ­ts!}

@@ -1,5 +1,5 @@
 {100}{}{FEITO}
-{101}{}{OPÇÕES}
+{101}{}{OPÃ‡Ã•ES}
 {102}{}{CANCEL}
 {103}{}{PRINT}
 {104}{}{IDADE}
@@ -11,94 +11,94 @@
 {110}{}{KARMA}
 {111}{}{MORTES}
 {112}{}{PONTOS}
-{113}{}{Nível:}
+{113}{}{NÃ­vel:}
 {114}{}{Exp:}
-{115}{}{Próx. Nível:}
+{115}{}{PrÃ³x. NÃ­vel:}
 {116}{}{PONTOS}
-{117}{}{PERÍCIAS}
-{118}{}{Você deve usar todos os pontos}
+{117}{}{PERÃCIAS}
+{118}{}{VocÃª deve usar todos os pontos}
 {119}{}{antes de iniciar o jogo!}
 {120}{}{Pontos de personagem}
-{121}{}{Quantidade de pontos que podem ser adicionados a uma das estatísticas básicas.}
-{122}{}{Próximo Nível}
-{123}{}{Quantidade de pontos de experiência necessária para subir de nível.}
-{124}{}{CARACTERÍSTICAS}
+{121}{}{Quantidade de pontos que podem ser adicionados a uma das estatÃ­sticas bÃ¡sicas.}
+{122}{}{PrÃ³ximo NÃ­vel}
+{123}{}{Quantidade de pontos de experiÃªncia necessÃ¡ria para subir de nÃ­vel.}
+{124}{}{CARACTERÃSTICAS}
 {125}{}{Karma}
 {126}{}{Mortes}
-{127}{}{Adicionar perícias adicionais. A cada três nível de experiência, você pode escolher uma perícia adicional.}
-{128}{}{Estes são os efeitos das escolhas que você faz durante o jogo.}
-{129}{}{Um contador que controla o tipo e número de criaturas que você já matou, ou morreu na sua presença.}
-{130}{}{Pontos de perícias}
-{131}{}{Use os pontos de perícias para aumentar o nível de uma perícia. É preciso mais pontos para aumentar essas habilidades. Dominar uma habilidade pode necessitar de muito tempo e esforço.}
-{132}{}{No nível máximo.}
-{133}{}{Impossível aumentar.}
-{134}{}{No nível mínimo.}
-{135}{}{Impossível diminuir}
-{136}{}{Não tem pontos disponíveis.}
+{127}{}{Adicionar perÃ­cias adicionais. A cada trÃªs nÃ­vel de experiÃªncia, vocÃª pode escolher uma perÃ­cia adicional.}
+{128}{}{Estes sÃ£o os efeitos das escolhas que vocÃª faz durante o jogo.}
+{129}{}{Um contador que controla o tipo e nÃºmero de criaturas que vocÃª jÃ¡ matou, ou morreu na sua presenÃ§a.}
+{130}{}{Pontos de perÃ­cias}
+{131}{}{Use os pontos de perÃ­cias para aumentar o nÃ­vel de uma perÃ­cia. Ã‰ preciso mais pontos para aumentar essas habilidades. Dominar uma habilidade pode necessitar de muito tempo e esforÃ§o.}
+{132}{}{No nÃ­vel mÃ¡ximo.}
+{133}{}{ImpossÃ­vel aumentar.}
+{134}{}{No nÃ­vel mÃ­nimo.}
+{135}{}{ImpossÃ­vel diminuir}
+{136}{}{NÃ£o tem pontos disponÃ­veis.}
 {137}{}{Base:}
 {138}{}{PONTOS}
-{139}{}{CARACTERÍSTICAS}
-{140}{}{Você já tem o máximo de}
-{141}{}{três habilidades destacadas!}
-{142}{}{Você deve selecionar todas as habilidades marcadas}
+{139}{}{CARACTERÃSTICAS}
+{140}{}{VocÃª jÃ¡ tem o mÃ¡ximo de}
+{141}{}{trÃªs habilidades destacadas!}
+{142}{}{VocÃª deve selecionar todas as habilidades marcadas}
 {143}{}{antes de iniciar o jogo!}
-{144}{}{Pontos de perícias}
-{145}{}{Pontos de perícias são habilidades especiais para seu personagem. Para cada ponto você ganha 20%. Você deve escolher três habilidades em destaque.}
-{146}{}{CARACTERÍSTICAS}
-{147}{}{As Características descrevem seu personagem mais detalhadamente. Todas elas terão efeitos positivos e negativos.acterísticas terão efeitos positivos e negativos. Você pode escolher até duas características durante a criação do personagem.}
-{148}{}{Você já tem o máximo de}
-{149}{}{duas características!}
-{150}{}{Perícias}
-{151}{}{As perícias são conhecimentos aprendidos. Aumentam por experiência. Quanto maior o nível, melhor você está naquela habilidade.}
-{152}{}{ESCOLHA UMA CARACTERÍSTICA}
-{153}{}{ESCOLHA UMA  NOVA CARACTERÍSTICA}
-{154}{}{ELIMINE UMA CARACTERÍSTICA}
-{155}{}{ESCOLHA UMA PERÍCIA}
-{156}{}{CARACTERÍSTICAS}
-{157}{}{Todas as estatísticas deve estar entre 1 e 10}
+{144}{}{Pontos de perÃ­cias}
+{145}{}{Pontos de perÃ­cias sÃ£o habilidades especiais para seu personagem. Para cada ponto vocÃª ganha 20%. VocÃª deve escolher trÃªs habilidades em destaque.}
+{146}{}{CARACTERÃSTICAS}
+{147}{}{As CaracterÃ­sticas descrevem seu personagem mais detalhadamente. Todas elas terÃ£o efeitos positivos e negativos.acterÃ­sticas terÃ£o efeitos positivos e negativos. VocÃª pode escolher atÃ© duas caracterÃ­sticas durante a criaÃ§Ã£o do personagem.}
+{148}{}{VocÃª jÃ¡ tem o mÃ¡ximo de}
+{149}{}{duas caracterÃ­sticas!}
+{150}{}{PerÃ­cias}
+{151}{}{As perÃ­cias sÃ£o conhecimentos aprendidos. Aumentam por experiÃªncia. Quanto maior o nÃ­vel, melhor vocÃª estÃ¡ naquela habilidade.}
+{152}{}{ESCOLHA UMA CARACTERÃSTICA}
+{153}{}{ESCOLHA UMA  NOVA CARACTERÃSTICA}
+{154}{}{ELIMINE UMA CARACTERÃSTICA}
+{155}{}{ESCOLHA UMA PERÃCIA}
+{156}{}{CARACTERÃSTICAS}
+{157}{}{Todas as estatÃ­sticas deve estar entre 1 e 10}
 {158}{}{antes de iniciar o jogo!}
-{160}{}{Aviso: Você não escolheu um nome}
+{160}{}{Aviso: VocÃª nÃ£o escolheu um nome}
 {161}{}{quer utilizar este personagem?}
-{175}{}{Próx. Nív:}
+{175}{}{PrÃ³x. NÃ­v:}
 {200}{}{M.Ruim}
 {201}{}{Ruim}
 {202}{}{Pobre}
 {203}{}{Justo}
-{204}{}{Médio}
+{204}{}{MÃ©dio}
 {205}{}{Bom}
 {206}{}{M.Bom}
-{207}{}{Ótimo}
+{207}{}{Ã“timo}
 {208}{}{Excele.}
-{209}{}{Herói}
+{209}{}{HerÃ³i}
 {300}{editor}{P. de vida}
-{301}{}{P. de ação}
+{301}{}{P. de aÃ§Ã£o}
 {302}{editor}{Armadura}
 {303}{}{Dano desarmado}
-{304}{}{Bônus de Dano}
+{304}{}{BÃ´nus de Dano}
 {305}{}{Res. Danos}
 {306}{}{Res. Venenos}
-{307}{}{Res. Radiação}
-{308}{editor}{Sequência}
-{309}{editor}{Recuperação}
-{310}{editor}{Chan. Críticas}
-{311}{editor}{Peso Máximo}
+{307}{}{Res. RadiaÃ§Ã£o}
+{308}{editor}{SequÃªncia}
+{309}{editor}{RecuperaÃ§Ã£o}
+{310}{editor}{Chan. CrÃ­ticas}
+{311}{editor}{Peso MÃ¡ximo}
 {312}{}{Envenenado}
 {313}{}{Contaminado}
 {314}{}{Olhos Feridos}
-{315}{}{Braço Direito Ruim}
-{316}{}{Braço Esquerdo Ruim}
+{315}{}{BraÃ§o Direito Ruim}
+{316}{}{BraÃ§o Esquerdo Ruim}
 {317}{}{Perna Direita Ruim}
 {318}{}{Perna Esquerda Ruim}
-{400}{}{Seu personagem foi envenenado. O veneno te causará dano durante um tempo, até que se cure.}
-{401}{}{Seu personagem foi contaminado com Radiação. Quanto mais radiação, mais mortal será oo efeito.}
-{402}{}{Seu personagem foi seriamente atingido em um ou ambos os olhos. Isso afeta sua percepção.}
-{403}{}{Seu braço direito foi gravemente ferido e não pode ser usado. Se um braço quebrar, você não pode usar armas de duas mãos. Se ambos os braços quebrarem, você não poderá usar armas.}
-{404}{}{Seu braço esquerdo foi gravemente ferido e não pode ser usado. Se um braço quebrar, você não pode usar armas de duas mãos. Se ambos os braços quebrarem, você não poderá usar armas.}
+{400}{}{Seu personagem foi envenenado. O veneno te causarÃ¡ dano durante um tempo, atÃ© que se cure.}
+{401}{}{Seu personagem foi contaminado com RadiaÃ§Ã£o. Quanto mais radiaÃ§Ã£o, mais mortal serÃ¡ oo efeito.}
+{402}{}{Seu personagem foi seriamente atingido em um ou ambos os olhos. Isso afeta sua percepÃ§Ã£o.}
+{403}{}{Seu braÃ§o direito foi gravemente ferido e nÃ£o pode ser usado. Se um braÃ§o quebrar, vocÃª nÃ£o pode usar armas de duas mÃ£os. Se ambos os braÃ§os quebrarem, vocÃª nÃ£o poderÃ¡ usar armas.}
+{404}{}{Seu braÃ§o esquerdo foi gravemente ferido e nÃ£o pode ser usado. Se um braÃ§o quebrar, vocÃª nÃ£o pode usar armas de duas mÃ£os. Se ambos os braÃ§os quebrarem, vocÃª nÃ£o poderÃ¡ usar armas.}
 {405}{}{Seu personagem tem a perna direita mutilada.}
 {406}{}{Seu personagem tem a perna esquerda mutilada.}
 {500}{}{Janeiro}
 {501}{}{Fevereiro}
-{502}{}{Março}
+{502}{}{MarÃ§o}
 {503}{}{Abril}
 {504}{}{Maio}
 {505}{}{Junho}
@@ -117,12 +117,12 @@
 {606}{}{apagar o personagem atual?}
 {607}{}{ salvo com sucesso.}
 {608}{}{ foi carregado com sucesso.}
-{609}{}{já existe.}
-{610}{}{Você deseja substituir?}
+{609}{}{jÃ¡ existe.}
+{610}{}{VocÃª deseja substituir?}
 {611}{}{Erro ao salvar}
 {612}{}{Erro ao carregar}
-{613}{}{Arquivo de caracteres inválidos.}
-{614}{}{Arquivo de caracteres inválidos.}
+{613}{}{Arquivo de caracteres invÃ¡lidos.}
+{614}{}{Arquivo de caracteres invÃ¡lidos.}
 {615}{}{Erro ao ler a lista de arquivos!}
 {616}{}{PRINT}
 {617}{}{JOGADOR}
@@ -156,31 +156,31 @@
 {646}{}{Female}
 {647}{}{ Level:}
 {648}{}{                Exp:}
-{649}{}{Próx. Nível:}
+{649}{}{PrÃ³x. NÃ­vel:}
 {650}{}{ ::: Traits :::}
-{651}{}{ ::: CARACTERÍSTICAS :::}
+{651}{}{ ::: CARACTERÃSTICAS :::}
 {652}{}{ ::: Karma :::}
 {653}{}{ ::: Skills :::                ::: Kills :::}
 {654}{}{ ::: Inventory :::}
 {655}{}{                                      Total Weight:}
-{656}{}{ ::: Vícios :::}
+{656}{}{ ::: VÃ­cios :::}
 {657}{}{ ::: Reputation :::}
-{1000}{}{Reputação (Geral) }
-{1001}{}{Possuído}
-{1002}{}{Campeão}
-{1003}{}{Assassino de crianças}
-{1004}{}{Víciado em Nuka Cola}
-{1005}{}{Víciado em Buffout}
-{1006}{}{Víciado em Mentats}
-{1007}{}{Víciado em Psycho}
-{1008}{}{Víciado em RadAway}
-{1009}{}{Víciado em Alcohol}
-{1010}{}{Víciado em Jet}
-{1011}{}{Víciado em Tragic}
+{1000}{}{ReputaÃ§Ã£o (Geral) }
+{1001}{}{PossuÃ­do}
+{1002}{}{CampeÃ£o}
+{1003}{}{Assassino de crianÃ§as}
+{1004}{}{VÃ­ciado em Nuka Cola}
+{1005}{}{VÃ­ciado em Buffout}
+{1006}{}{VÃ­ciado em Mentats}
+{1007}{}{VÃ­ciado em Psycho}
+{1008}{}{VÃ­ciado em RadAway}
+{1009}{}{VÃ­ciado em Alcohol}
+{1010}{}{VÃ­ciado em Jet}
+{1011}{}{VÃ­ciado em Tragic}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
-{1013}{}{Sexomaníaco}
-{1014}{}{Campeão de Box}
-{1015}{}{Gigolô}
+{1013}{}{SexomanÃ­aco}
+{1014}{}{CampeÃ£o de Box}
+{1015}{}{GigolÃ´}
 {1016}{}{Profanador de Tumbas}
 {1017}{}{Homem feito: Salvatore}
 {1018}{}{Casado}
@@ -192,60 +192,60 @@
 {1024}{}{Homem feito: Wright}
 {1025}{}{Divorciado}
 {1026}{}{Fumante}
-{1100}{}{Esta estatística representa sua reputação geral. Quanto maior o número, melhor conhecido e respeitado você é. Se é negativo, você será odiado por alguns por suas más ações.}
-{1101}{}{Você matou um grande número de pessoas. Isso geralmente não é uma boa coisa. As pessoas do lado errado vão gostar de você um pouco mais, no entanto.}
-{1102}{}{Suas ações têm revelado que você seja um defensor do povo. Sua guerra contra o mal e perversidade é muito conhecida. Pessoas honradas irão respeitá-lo melhor.}
-{1103}{}{Você matou as crianças, os jovens do deserto. Isto é considerado como uma coisa muito ruim. Você é mal, pessoa má.}
-{1104}{}{Você desfruta completamente do sabor de Nuka-Cola, o refrigerante do mundo pós-nuclear.}
-{1105}{}{Você está viciado em Buffout. Você deve tomar este medicamento continuamente ou sofrerá os efeitos da abstinência.}
-{1106}{}{Você está sofrendo por conta do vicio em Mentat. Deve tomar o medicamento específico ou sofrer abstinência.}
-{1107}{}{Você é viciado em drogas. Se você não tomar Psycho regularmente, sofrerá. Se você fizer isso, outros sofrerão.}
-{1108}{}{Você está viciado em Radaway. Você deve tomar isso regularmente ou vai sofrer os efeitos da abstinência.}
-{1109}{}{Você tem um problema com Álcool. Na verdade, você tem muitos problemas com seus hábitos de consumo.}
-{1110}{}{Você está viciado em drogas. Agora deve tomar Jet regularmente.}
-{1111}{}{Infelizmente, você está viciado no jogo Tragic: The Catering. Você está constantemente à procura de novas cartas.}
+{1100}{}{Esta estatÃ­stica representa sua reputaÃ§Ã£o geral. Quanto maior o nÃºmero, melhor conhecido e respeitado vocÃª Ã©. Se Ã© negativo, vocÃª serÃ¡ odiado por alguns por suas mÃ¡s aÃ§Ãµes.}
+{1101}{}{VocÃª matou um grande nÃºmero de pessoas. Isso geralmente nÃ£o Ã© uma boa coisa. As pessoas do lado errado vÃ£o gostar de vocÃª um pouco mais, no entanto.}
+{1102}{}{Suas aÃ§Ãµes tÃªm revelado que vocÃª seja um defensor do povo. Sua guerra contra o mal e perversidade Ã© muito conhecida. Pessoas honradas irÃ£o respeitÃ¡-lo melhor.}
+{1103}{}{VocÃª matou as crianÃ§as, os jovens do deserto. Isto Ã© considerado como uma coisa muito ruim. VocÃª Ã© mal, pessoa mÃ¡.}
+{1104}{}{VocÃª desfruta completamente do sabor de Nuka-Cola, o refrigerante do mundo pÃ³s-nuclear.}
+{1105}{}{VocÃª estÃ¡ viciado em Buffout. VocÃª deve tomar este medicamento continuamente ou sofrerÃ¡ os efeitos da abstinÃªncia.}
+{1106}{}{VocÃª estÃ¡ sofrendo por conta do vicio em Mentat. Deve tomar o medicamento especÃ­fico ou sofrer abstinÃªncia.}
+{1107}{}{VocÃª Ã© viciado em drogas. Se vocÃª nÃ£o tomar Psycho regularmente, sofrerÃ¡. Se vocÃª fizer isso, outros sofrerÃ£o.}
+{1108}{}{VocÃª estÃ¡ viciado em Radaway. VocÃª deve tomar isso regularmente ou vai sofrer os efeitos da abstinÃªncia.}
+{1109}{}{VocÃª tem um problema com Ãlcool. Na verdade, vocÃª tem muitos problemas com seus hÃ¡bitos de consumo.}
+{1110}{}{VocÃª estÃ¡ viciado em drogas. Agora deve tomar Jet regularmente.}
+{1111}{}{Infelizmente, vocÃª estÃ¡ viciado no jogo Tragic: The Catering. VocÃª estÃ¡ constantemente Ã  procura de novas cartas.}
 {1112}{}{TEMPORARY - What is this?}
-{1113}{}{Você sabe fazer sexo. Você sabe preliminares. Você sabe como agradar um membro do sexo oposto e deixá-los com fome para mais.}
-{1114}{}{Você é o campeão dos pesos pesados do norte da Califórnia. Você ganhou fama, respeito e o amor de milhares... e um bônus para sua resistência e habilidade desarmado.}
-{1115}{}{Vamos ser honestos: Você dorme com qualquer coisa que anda sobre duas pernas. Às vezes você não é nem um pouco exigente.}
-{1116}{}{"Eles estão mortos, eles não se importam", se tornou o seu lema. Desenterrar os restos dos outros é mais do que um passatempo para você.}
-{1117}{}{Você é um mafioso da família Salvatore. Está bem conhecido e respeitado.}
-{1118}{}{Você se casou. Ei, o problema é seu não nosso.}
-{1119}{}{Você é um grande, brilhante, estrela de porno. Suas façanhas sexuais são bem conhecidas em toda a New Reno.}
-{1120}{}{Você foi marcado como um membro Slaver's Guild. A tatuagem em sua testa faz sua profissão evidente para todos que encontrar.}
-{1121}{}{Você realmente precisa sair mais. Suas façanhas sexuais têm sido ... bem, bidimensionais.}
-{1122}{}{Você é um mafioso da família Bishop. Está bem conhecido e respeitado.}
-{1123}{}{Você é um mafioso da família Mordino. Está bem conhecido e respeitado.}
-{1124}{}{Você é um mafioso da família Wright. Está bem conhecido e respeitado.}
-{1125}{}{Sua esposa não esta mais com você. Espero que você esteja feliz.}
-{1126}{}{Você é um fumante. Dizem que vai matar você, mas você ainda não está morto. E de qualquer maneira, é uma boa maneira de curtir em um mundo pós-apocalíptico.}
+{1113}{}{VocÃª sabe fazer sexo. VocÃª sabe preliminares. VocÃª sabe como agradar um membro do sexo oposto e deixÃ¡-los com fome para mais.}
+{1114}{}{VocÃª Ã© o campeÃ£o dos pesos pesados do norte da CalifÃ³rnia. VocÃª ganhou fama, respeito e o amor de milhares... e um bÃ´nus para sua resistÃªncia e habilidade desarmado.}
+{1115}{}{Vamos ser honestos: VocÃª dorme com qualquer coisa que anda sobre duas pernas. Ã€s vezes vocÃª nÃ£o Ã© nem um pouco exigente.}
+{1116}{}{"Eles estÃ£o mortos, eles nÃ£o se importam", se tornou o seu lema. Desenterrar os restos dos outros Ã© mais do que um passatempo para vocÃª.}
+{1117}{}{VocÃª Ã© um mafioso da famÃ­lia Salvatore. EstÃ¡ bem conhecido e respeitado.}
+{1118}{}{VocÃª se casou. Ei, o problema Ã© seu nÃ£o nosso.}
+{1119}{}{VocÃª Ã© um grande, brilhante, estrela de porno. Suas faÃ§anhas sexuais sÃ£o bem conhecidas em toda a New Reno.}
+{1120}{}{VocÃª foi marcado como um membro Slaver's Guild. A tatuagem em sua testa faz sua profissÃ£o evidente para todos que encontrar.}
+{1121}{}{VocÃª realmente precisa sair mais. Suas faÃ§anhas sexuais tÃªm sido ... bem, bidimensionais.}
+{1122}{}{VocÃª Ã© um mafioso da famÃ­lia Bishop. EstÃ¡ bem conhecido e respeitado.}
+{1123}{}{VocÃª Ã© um mafioso da famÃ­lia Mordino. EstÃ¡ bem conhecido e respeitado.}
+{1124}{}{VocÃª Ã© um mafioso da famÃ­lia Wright. EstÃ¡ bem conhecido e respeitado.}
+{1125}{}{Sua esposa nÃ£o esta mais com vocÃª. Espero que vocÃª esteja feliz.}
+{1126}{}{VocÃª Ã© um fumante. Dizem que vai matar vocÃª, mas vocÃª ainda nÃ£o estÃ¡ morto. E de qualquer maneira, Ã© uma boa maneira de curtir em um mundo pÃ³s-apocalÃ­ptico.}
 {2000}{}{Idolatrado}
 {2001}{}{Querido}
 {2002}{}{Aceito}
 {2003}{}{Neutro}
-{2004}{}{Antipático}
+{2004}{}{AntipÃ¡tico}
 {2005}{}{Odiado}
 {2006}{}{Difamado}
-{2100}{}{Todo mundo nesta área gosta de você. Você é o queridinho da cidade; é apontado como um exemplo brilhante de tudo o que uma pessoa pode ser.}
-{2101}{}{As pessoas acenam e cumprimentam, onde quer que você vá nesta área. Todo mundo já ouviu falar de você, e eles gostam do que já ouvi.}
-{2102}{}{Embora você não seja recebido de braços abertos, a maioria das pessoas nesta área, pelo menos acenam em reconhecimento quando você se encontra. Você não se da bem como a maioria.}
-{2103}{}{Embora normalmente desconfiado com estranhos, as pessoas desta área não formaram sua opinião sobre você ainda.}
-{2104}{}{Você é apenas mais um forasteiro nesta área. Provavelmente até não é bom.}
-{2105}{}{Você comprovou que sua desconfiança inicial estava certa. As pessoas nesta área olham para você e sussurram uns com os outros quando você chegar perto. Eles sabem que você não é bom.}
-{2106}{}{Olhando e resmungando, alguns atravessam a rua para evitar andar perto de você, enquanto outros, cospem e se afastam quando você chegar perto. Você é a pior coisa que tem se arrastado para esta área.}
+{2100}{}{Todo mundo nesta Ã¡rea gosta de vocÃª. VocÃª Ã© o queridinho da cidade; Ã© apontado como um exemplo brilhante de tudo o que uma pessoa pode ser.}
+{2101}{}{As pessoas acenam e cumprimentam, onde quer que vocÃª vÃ¡ nesta Ã¡rea. Todo mundo jÃ¡ ouviu falar de vocÃª, e eles gostam do que jÃ¡ ouvi.}
+{2102}{}{Embora vocÃª nÃ£o seja recebido de braÃ§os abertos, a maioria das pessoas nesta Ã¡rea, pelo menos acenam em reconhecimento quando vocÃª se encontra. VocÃª nÃ£o se da bem como a maioria.}
+{2103}{}{Embora normalmente desconfiado com estranhos, as pessoas desta Ã¡rea nÃ£o formaram sua opiniÃ£o sobre vocÃª ainda.}
+{2104}{}{VocÃª Ã© apenas mais um forasteiro nesta Ã¡rea. Provavelmente atÃ© nÃ£o Ã© bom.}
+{2105}{}{VocÃª comprovou que sua desconfianÃ§a inicial estava certa. As pessoas nesta Ã¡rea olham para vocÃª e sussurram uns com os outros quando vocÃª chegar perto. Eles sabem que vocÃª nÃ£o Ã© bom.}
+{2106}{}{Olhando e resmungando, alguns atravessam a rua para evitar andar perto de vocÃª, enquanto outros, cospem e se afastam quando vocÃª chegar perto. VocÃª Ã© a pior coisa que tem se arrastado para esta Ã¡rea.}
 {3000}{}{Salvador dos Condenados}
-{3001}{}{Guardião dos Oprimidos}
-{3002}{}{Escudo da Esperança}
+{3001}{}{GuardiÃ£o dos Oprimidos}
+{3002}{}{Escudo da EsperanÃ§a}
 {3003}{}{Defensor}
 {3004}{}{Viajante}
 {3005}{}{Traidor}
 {3006}{}{Espada do Desespero}
 {3007}{}{Praga dos Oprimidos}
 {3008}{}{Semente do Mal}
-{4000}{}{Reputação}
-{4001}{}{Vícios}
-{4100}{}{Representa a sua reputação de um determinado local.}
-{4101}{}{Coisas que você se vicia.}
+{4000}{}{ReputaÃ§Ã£o}
+{4001}{}{VÃ­cios}
+{4100}{}{Representa a sua reputaÃ§Ã£o de um determinado local.}
+{4101}{}{Coisas que vocÃª se vicia.}
 {5000}{}{Sorry, you can only print your}
 {5001}{}{character in the full version.}
 {5002}{}{Sorry, you can only save your}

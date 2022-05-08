@@ -1,93 +1,93 @@
-{100}{}{Egy magas, vékony férfit látsz. Téged vizslat.}
-{101}{}{Josh Laurance-t látod, az Utolsó Lehelet Italbolt tulajdonosát.}
-{102}{}{Miközben téged vizslat, a férfi mintha méretet venne rólad.}
+{100}{}{Egy magas, vÃ©kony fÃ©rfit lÃ¡tsz. TÃ©ged vizslat.}
+{101}{}{Josh Laurance-t lÃ¡tod, az UtolsÃ³ Lehelet Italbolt tulajdonosÃ¡t.}
+{102}{}{MikÃ¶zben tÃ©ged vizslat, a fÃ©rfi mintha mÃ©retet venne rÃ³lad.}
 {103}{}{Menj innen!}
-{104}{}{Mi az fenét csinálsz itt, idióta?}
-{105}{}{Ez nem neked való hely!}
-{106}{}{Mennyé innen, rühös idjóta!}
-{107}{}{T?nj innen, miel?tt összedzsuvázod a padlót!}
-{108}{}{Üdv, barátom. A nevem Josh Laurence. Enyém ez a hely.}
-{109}{}{Mit tehetek magáért?}
-{110}{}{Egészen pontosan mi is ez a hely?}
-{111}{}{Egy italt szeretnék.}
-{112}{}{Szeretnék fizetni mindenkinek egy kört.}
-{113}{}{Szeretnék a barátaimnak fizetni egy kört.}
-{114}{}{Mi történik mostanában a városban?}
-{115}{}{Most semmit. Csak erre jártam. Viszlát!}
-{116}{}{Nem szolgálom ki azt az izét.}
-{117}{}{Vidd innen a *barátodat*!}
-{118}{}{Ez nem valami istenverte csodabogár-show! Vidd ki innen azt az izét!}
-{119}{}{Az az izé nem jöhet be ide!}
-{120}{}{Azt a fajta izét ott nem szolgáljuk itt ki. Kifelé!}
-{121}{}{Ez az Utolsó Lehelet Italbolt és Temetkezési Szalon. Intézményünk teljes szolgáltatást nyújt. A mottónk: "Palacktól a sírig".}
-{122}{}{Ez így elég bizarr kombinációnak t?nik, Josh.}
-{123}{}{Lucretia Borgia büszke lenne rád, Josh.}
-{124}{}{Mit kell tennem ahhoz, hogy vehessek egy koporsót?}
-{125}{}{Hogy kell megszervezni a gyászszertartást?}
-{126}{}{Feltétlenül távol fogom tartani magam a fürd?kád gin-edt?l.}
-{127}{}{Természetesen. 5 dollárt kérek.}
-{128}{}{Tessék, itt a pénz.}
-{129}{}{Azt hiszem, most nem is annyira akarok sört. Inkább hadd kérdezzek valamit.}
-{130}{}{Ez igen nagylelk? t?led. Ha mindenkit meghívsz egy jó kis italra, 50 dollárt tegyél az asztalra... Hé, egy költ? veszett el bennem, és nem is tudtam róla.}
-{131}{}{Jaj. A szójátékok kiakasztanak! Ez csak egy baráti figyelmeztetés, Josh. Tessék, a pénzed.}
-{132}{}{Hmm, ez a szójáték azt hiszem, elvette a kedvemet az egészt?l. Inkább hadd kérdezzek valamit.}
-{133}{}{Te aztán olyan ember vagy, akir?l az ember mindig álmodozik. }
-{134}{}{Ez megéri. Tessék.}
-{135}{}{Meggondoltam magam! Jobb, ha mindenki józan marad. Inkább hadd kérdezzek valamit!}
-{136}{}{Hála neked, javul az üzletmenet. Csak így tovább! Mindenesetre adj valami tennivalót!}
-{137}{}{Nos, egyáltalán nem szoktam figyelni, mi megy a városban. Az én üzletem rendszerint igen csendes. Mondhatnám olyan, mint a sír. Bár, az utóbbi id?kben ez nem jelent túl sokat.}
-{138}{}{Hogy? Mit értesz ez alatt?}
-{139}{}{Amit hallottál. Temetkezésb?l nem tudtam megélni - mondhatnám azt is, hogy halott üzlet volt. A sírból se lehetett visszahozni. Úgyhogy mellette nekifogtam felújítani ezt a helyet, és italt kezdtem árulni.}
-{140}{}{Aha. Ezek után majdhogynem félek bármit is kérdezni t?led. Bár azt hiszem, így is fogok még.}
-{141}{}{Az emberek nem rókázzák el magukat a hullák látványától?}
-{142}{}{Nem hiszem, hogy kibírnék még egy szójátékot. Megyek. Viszlát!}
-{143}{}{Hát, lehet, hogy úgy lenne, ha valódiak lennének. De nem azok. Legalábbis nem mind. Egyébként a bányászok határozottan szeretik, mert szerencsésnek érzik magukat, hogy élnek.}
-{144}{}{Bizony hátborzongató! Te aztán elég elborult alak vagy ám!}
-{145}{}{Értem. Nos, hadd kérdezzek valami mást.}
-{146}{}{Elképzelhet?, hogy néhány ember úgy reagál rá. De én nem tartozom közéjük. Nekem egyszer?en felfordul a gyomrom t?le. Viszlát! }
-{147}{}{Te hívsz *engem* hátborzongatónak? Én meg azt hallottam, hogy a törzsbéliek megeszik a saját istenverte halottaikat.}
-{148}{}{Egyébként mi más módon élvezhetnénk az esszenciájukat?}
-{149}{}{Hé, vegyél vissza! El?ször meg szoktuk f?zni ?ket. Jobb, ha tudod, mi nem vagyunk vademberek.}
-{150}{}{Ez nevetséges. Hol hallottad ezt?}
-{151}{}{Egészen pontosan nem tudom. De halálbiztos. Mi másért kötnél bele a tényekbe? He? Erre válaszolj!}
-{152}{}{Nem kötök bele a... Na, jó, felejtsd el! Hadd kérdezzek valami mást!}
-{153}{}{Köszike. Tehetek még valamit érted?}
-{154}{}{Tulajdonképpen lenne még valami.}
-{155}{}{Nem, ennyi volt mára. Kösz, Josh.}
-{156}{}{Mit értesz ez alatt?}
-{157}{}{Csak arra gondoltam, hogy ez, hm, meglehet?sen *szokatlan* kombináció.}
-{158}{}{Semmi, semmi. Egyáltalán. Hadd kérdezzek valami mást, Josh.}
-{159}{}{Úgy értettem, hogy valami kevésbé merev helyen fogok inni. Öö, úgy értem, sokkal kötetlenebb helyen. Na, viszlát!}
-{160}{}{Rengeteg id?t eltöltök azzal, hogy a mellettünk lev? temet?ben folyton újratemetem az embereket. Valaki - vagy valami - állandóan kiássa ?ket. Nem tudom, miért. Ugyanis nincs náluk semmi értékes dolog.}
-{161}{}{Kiássák a sírokat?}
-{162}{}{Honnan tudod, hogy nincs náluk semmi értékes?}
-{163}{}{Valószín?leg csak patkányok. Hadd kérdezzek valami mást!}
-{164}{}{Hát, nem tudhatom biztosan... Öö... csak találgatok. Igen, csak találgatok. Mit szólnál, ha meghívnálak egy sörre?}
-{165}{}{Nem tudom, mire célzol, de ez nem tetszik nekem.}
-{166}{}{Kösz a sört. Mit értesz az alatt, hogy "valami" kiássa ?ket?}
-{167}{}{Mondd el, mire gondolsz, amikor azt mondod, "valami" kiássa ?ket!}
-{168}{}{Soha nem látok semmit, de körülbelül hetente egyik vagy másik sírt teljesen összeturkálják és félig-meddig kiássák. Elképzelésem sincs, mi tehet ilyet.}
+{104}{}{Mi az fenÃ©t csinÃ¡lsz itt, idiÃ³ta?}
+{105}{}{Ez nem neked valÃ³ hely!}
+{106}{}{MennyÃ© innen, rÃ¼hÃ¶s idjÃ³ta!}
+{107}{}{T?nj innen, miel?tt Ã¶sszedzsuvÃ¡zod a padlÃ³t!}
+{108}{}{Ãœdv, barÃ¡tom. A nevem Josh Laurence. EnyÃ©m ez a hely.}
+{109}{}{Mit tehetek magÃ¡Ã©rt?}
+{110}{}{EgÃ©szen pontosan mi is ez a hely?}
+{111}{}{Egy italt szeretnÃ©k.}
+{112}{}{SzeretnÃ©k fizetni mindenkinek egy kÃ¶rt.}
+{113}{}{SzeretnÃ©k a barÃ¡taimnak fizetni egy kÃ¶rt.}
+{114}{}{Mi tÃ¶rtÃ©nik mostanÃ¡ban a vÃ¡rosban?}
+{115}{}{Most semmit. Csak erre jÃ¡rtam. ViszlÃ¡t!}
+{116}{}{Nem szolgÃ¡lom ki azt az izÃ©t.}
+{117}{}{Vidd innen a *barÃ¡todat*!}
+{118}{}{Ez nem valami istenverte csodabogÃ¡r-show! Vidd ki innen azt az izÃ©t!}
+{119}{}{Az az izÃ© nem jÃ¶het be ide!}
+{120}{}{Azt a fajta izÃ©t ott nem szolgÃ¡ljuk itt ki. KifelÃ©!}
+{121}{}{Ez az UtolsÃ³ Lehelet Italbolt Ã©s TemetkezÃ©si Szalon. IntÃ©zmÃ©nyÃ¼nk teljes szolgÃ¡ltatÃ¡st nyÃºjt. A mottÃ³nk: "PalacktÃ³l a sÃ­rig".}
+{122}{}{Ez Ã­gy elÃ©g bizarr kombinÃ¡ciÃ³nak t?nik, Josh.}
+{123}{}{Lucretia Borgia bÃ¼szke lenne rÃ¡d, Josh.}
+{124}{}{Mit kell tennem ahhoz, hogy vehessek egy koporsÃ³t?}
+{125}{}{Hogy kell megszervezni a gyÃ¡szszertartÃ¡st?}
+{126}{}{FeltÃ©tlenÃ¼l tÃ¡vol fogom tartani magam a fÃ¼rd?kÃ¡d gin-edt?l.}
+{127}{}{TermÃ©szetesen. 5 dollÃ¡rt kÃ©rek.}
+{128}{}{TessÃ©k, itt a pÃ©nz.}
+{129}{}{Azt hiszem, most nem is annyira akarok sÃ¶rt. InkÃ¡bb hadd kÃ©rdezzek valamit.}
+{130}{}{Ez igen nagylelk? t?led. Ha mindenkit meghÃ­vsz egy jÃ³ kis italra, 50 dollÃ¡rt tegyÃ©l az asztalra... HÃ©, egy kÃ¶lt? veszett el bennem, Ã©s nem is tudtam rÃ³la.}
+{131}{}{Jaj. A szÃ³jÃ¡tÃ©kok kiakasztanak! Ez csak egy barÃ¡ti figyelmeztetÃ©s, Josh. TessÃ©k, a pÃ©nzed.}
+{132}{}{Hmm, ez a szÃ³jÃ¡tÃ©k azt hiszem, elvette a kedvemet az egÃ©szt?l. InkÃ¡bb hadd kÃ©rdezzek valamit.}
+{133}{}{Te aztÃ¡n olyan ember vagy, akir?l az ember mindig Ã¡lmodozik. }
+{134}{}{Ez megÃ©ri. TessÃ©k.}
+{135}{}{Meggondoltam magam! Jobb, ha mindenki jÃ³zan marad. InkÃ¡bb hadd kÃ©rdezzek valamit!}
+{136}{}{HÃ¡la neked, javul az Ã¼zletmenet. Csak Ã­gy tovÃ¡bb! Mindenesetre adj valami tennivalÃ³t!}
+{137}{}{Nos, egyÃ¡ltalÃ¡n nem szoktam figyelni, mi megy a vÃ¡rosban. Az Ã©n Ã¼zletem rendszerint igen csendes. MondhatnÃ¡m olyan, mint a sÃ­r. BÃ¡r, az utÃ³bbi id?kben ez nem jelent tÃºl sokat.}
+{138}{}{Hogy? Mit Ã©rtesz ez alatt?}
+{139}{}{Amit hallottÃ¡l. TemetkezÃ©sb?l nem tudtam megÃ©lni - mondhatnÃ¡m azt is, hogy halott Ã¼zlet volt. A sÃ­rbÃ³l se lehetett visszahozni. Ãšgyhogy mellette nekifogtam felÃºjÃ­tani ezt a helyet, Ã©s italt kezdtem Ã¡rulni.}
+{140}{}{Aha. Ezek utÃ¡n majdhogynem fÃ©lek bÃ¡rmit is kÃ©rdezni t?led. BÃ¡r azt hiszem, Ã­gy is fogok mÃ©g.}
+{141}{}{Az emberek nem rÃ³kÃ¡zzÃ¡k el magukat a hullÃ¡k lÃ¡tvÃ¡nyÃ¡tÃ³l?}
+{142}{}{Nem hiszem, hogy kibÃ­rnÃ©k mÃ©g egy szÃ³jÃ¡tÃ©kot. Megyek. ViszlÃ¡t!}
+{143}{}{HÃ¡t, lehet, hogy Ãºgy lenne, ha valÃ³diak lennÃ©nek. De nem azok. LegalÃ¡bbis nem mind. EgyÃ©bkÃ©nt a bÃ¡nyÃ¡szok hatÃ¡rozottan szeretik, mert szerencsÃ©snek Ã©rzik magukat, hogy Ã©lnek.}
+{144}{}{Bizony hÃ¡tborzongatÃ³! Te aztÃ¡n elÃ©g elborult alak vagy Ã¡m!}
+{145}{}{Ã‰rtem. Nos, hadd kÃ©rdezzek valami mÃ¡st.}
+{146}{}{ElkÃ©pzelhet?, hogy nÃ©hÃ¡ny ember Ãºgy reagÃ¡l rÃ¡. De Ã©n nem tartozom kÃ¶zÃ©jÃ¼k. Nekem egyszer?en felfordul a gyomrom t?le. ViszlÃ¡t! }
+{147}{}{Te hÃ­vsz *engem* hÃ¡tborzongatÃ³nak? Ã‰n meg azt hallottam, hogy a tÃ¶rzsbÃ©liek megeszik a sajÃ¡t istenverte halottaikat.}
+{148}{}{EgyÃ©bkÃ©nt mi mÃ¡s mÃ³don Ã©lvezhetnÃ©nk az esszenciÃ¡jukat?}
+{149}{}{HÃ©, vegyÃ©l vissza! El?szÃ¶r meg szoktuk f?zni ?ket. Jobb, ha tudod, mi nem vagyunk vademberek.}
+{150}{}{Ez nevetsÃ©ges. Hol hallottad ezt?}
+{151}{}{EgÃ©szen pontosan nem tudom. De halÃ¡lbiztos. Mi mÃ¡sÃ©rt kÃ¶tnÃ©l bele a tÃ©nyekbe? He? Erre vÃ¡laszolj!}
+{152}{}{Nem kÃ¶tÃ¶k bele a... Na, jÃ³, felejtsd el! Hadd kÃ©rdezzek valami mÃ¡st!}
+{153}{}{KÃ¶szike. Tehetek mÃ©g valamit Ã©rted?}
+{154}{}{TulajdonkÃ©ppen lenne mÃ©g valami.}
+{155}{}{Nem, ennyi volt mÃ¡ra. KÃ¶sz, Josh.}
+{156}{}{Mit Ã©rtesz ez alatt?}
+{157}{}{Csak arra gondoltam, hogy ez, hm, meglehet?sen *szokatlan* kombinÃ¡ciÃ³.}
+{158}{}{Semmi, semmi. EgyÃ¡ltalÃ¡n. Hadd kÃ©rdezzek valami mÃ¡st, Josh.}
+{159}{}{Ãšgy Ã©rtettem, hogy valami kevÃ©sbÃ© merev helyen fogok inni. Ã–Ã¶, Ãºgy Ã©rtem, sokkal kÃ¶tetlenebb helyen. Na, viszlÃ¡t!}
+{160}{}{Rengeteg id?t eltÃ¶ltÃ¶k azzal, hogy a mellettÃ¼nk lev? temet?ben folyton Ãºjratemetem az embereket. Valaki - vagy valami - Ã¡llandÃ³an kiÃ¡ssa ?ket. Nem tudom, miÃ©rt. Ugyanis nincs nÃ¡luk semmi Ã©rtÃ©kes dolog.}
+{161}{}{KiÃ¡ssÃ¡k a sÃ­rokat?}
+{162}{}{Honnan tudod, hogy nincs nÃ¡luk semmi Ã©rtÃ©kes?}
+{163}{}{ValÃ³szÃ­n?leg csak patkÃ¡nyok. Hadd kÃ©rdezzek valami mÃ¡st!}
+{164}{}{HÃ¡t, nem tudhatom biztosan... Ã–Ã¶... csak talÃ¡lgatok. Igen, csak talÃ¡lgatok. Mit szÃ³lnÃ¡l, ha meghÃ­vnÃ¡lak egy sÃ¶rre?}
+{165}{}{Nem tudom, mire cÃ©lzol, de ez nem tetszik nekem.}
+{166}{}{KÃ¶sz a sÃ¶rt. Mit Ã©rtesz az alatt, hogy "valami" kiÃ¡ssa ?ket?}
+{167}{}{Mondd el, mire gondolsz, amikor azt mondod, "valami" kiÃ¡ssa ?ket!}
+{168}{}{Soha nem lÃ¡tok semmit, de kÃ¶rÃ¼lbelÃ¼l hetente egyik vagy mÃ¡sik sÃ­rt teljesen Ã¶sszeturkÃ¡ljÃ¡k Ã©s fÃ©lig-meddig kiÃ¡ssÃ¡k. ElkÃ©pzelÃ©sem sincs, mi tehet ilyet.}
 {169}{}{Ez furcsa.}
-{170}{}{Nem furcsa, hanem idegesít?. A bányászok azt mondogatják, hogy inkább itt bent szeretnének feküdni, minthogy kint elássák ?ket csak azért, hogy aztán kihúzzák ?ket a földb?l, mint egy túlérett répát. A francba is, nem bánom, mert szívesen megtartom a pofásabb darabokat, de mindenkivel nem tudok így bánni. Nem tudom, mitév? legyek.}
+{170}{}{Nem furcsa, hanem idegesÃ­t?. A bÃ¡nyÃ¡szok azt mondogatjÃ¡k, hogy inkÃ¡bb itt bent szeretnÃ©nek fekÃ¼dni, minthogy kint elÃ¡ssÃ¡k ?ket csak azÃ©rt, hogy aztÃ¡n kihÃºzzÃ¡k ?ket a fÃ¶ldb?l, mint egy tÃºlÃ©rett rÃ©pÃ¡t. A francba is, nem bÃ¡nom, mert szÃ­vesen megtartom a pofÃ¡sabb darabokat, de mindenkivel nem tudok Ã­gy bÃ¡nni. Nem tudom, mitÃ©v? legyek.}
 {171}{}{What a pleasant image that is. I'm sure that I'll wake up in cold sweat thinking about that
  one. Let me ask you something else.}
-{172}{}{Ez rejtély, igazad van. Hát azt hiszem, még találkozunk, Josh. Viszlát!}
-{173}{}{Hát, amennyiben megf?zitek... Várj egy percet, a fenébe is! Ez ett?l még kannibalizmus! Te komplett beteg vagy, még egy törzsbélihez képest is!}
-{174}{}{Nyugi, Josh! Csak vicceltem. Hehe. A fenébe is, csak bizonyos részeket f?zünk meg bel?lük.}
-{175}{}{Bizonyos részeket? Mégis melyik részeket?}
+{172}{}{Ez rejtÃ©ly, igazad van. HÃ¡t azt hiszem, mÃ©g talÃ¡lkozunk, Josh. ViszlÃ¡t!}
+{173}{}{HÃ¡t, amennyiben megf?zitek... VÃ¡rj egy percet, a fenÃ©be is! Ez ett?l mÃ©g kannibalizmus! Te komplett beteg vagy, mÃ©g egy tÃ¶rzsbÃ©lihez kÃ©pest is!}
+{174}{}{Nyugi, Josh! Csak vicceltem. Hehe. A fenÃ©be is, csak bizonyos rÃ©szeket f?zÃ¼nk meg bel?lÃ¼k.}
+{175}{}{Bizonyos rÃ©szeket? MÃ©gis melyik rÃ©szeket?}
 {176}{}{Who cares? (you shrug) Parts are parts.}
-{177}{}{Csak húztalak téged, Josh. Inkább hadd kérdezzek valami mást.}
+{177}{}{Csak hÃºztalak tÃ©ged, Josh. InkÃ¡bb hadd kÃ©rdezzek valami mÃ¡st.}
 {178}{}{Aha, azt hiszem, van ebben logika.}
-{179}{}{Persze, hogy van. Na, hadd kérdezzek valami mást!}
-{180}{}{A témánál maradva, kezdek éhes lenni. Még találkozunk, Josh. Viszlát!}
-{181}{}{Istenverte Marslakók! És én összetévesztettelek egy francos törzsbélivel. Hogy én milyen hülye vagyok! Az én olvasatomban a kannibálok kannibálok maradnak.}
-{182}{}{Hé, el?ször meg szoktuk f?zni ?ket. Tudod, nem vagyunk mi vademberek.}
-{183}{}{Hová akarsz húzni engem, kannibál? Bele a kondérba? Keress magadnak más csemegét!}
-{184}{}{Nyugi, te amúgy is elég rágósnak és inasnak t?nsz. Hehe. Csak viccelek... többnyire. Hadd kérdezzek valami mást, Josh!}
-{185}{}{Akkor megyek és körbenézek. Ha nem találok jobbat, visszajövök. Viszlát!... egyel?re.}
-{186}{}{El?bb farmot kell vásárolni. Tervezel venni valamilyen ingatlant a közeljöv?ben?}
-{187}{}{Öö, nem, semmilyen farm nem jöhet számításba. Hadd kérdezzek valami mást!}
-{188}{}{Talán segíthetnék egy-két embernek farmot venni errefelé. Még találkozunk, Josh.}
-{189}{}{Szerintem azzal kezdenéd, hogy kinyírnál valakit. De nem javaslom. Marion Sheriff nem rajong az ilyenfajta viselkedésért.}
-{190}{}{Megpróbálok rendesen viselkedni. Hadd kérdezzek valami mást, Josh!}
-{191}{}{Értem... legalább tudom, kivel kell beszélnem, ha bármilyen szerencsétlen *baleset* történik. Viszlát, Josh.}
+{179}{}{Persze, hogy van. Na, hadd kÃ©rdezzek valami mÃ¡st!}
+{180}{}{A tÃ©mÃ¡nÃ¡l maradva, kezdek Ã©hes lenni. MÃ©g talÃ¡lkozunk, Josh. ViszlÃ¡t!}
+{181}{}{Istenverte MarslakÃ³k! Ã‰s Ã©n Ã¶sszetÃ©vesztettelek egy francos tÃ¶rzsbÃ©livel. Hogy Ã©n milyen hÃ¼lye vagyok! Az Ã©n olvasatomban a kannibÃ¡lok kannibÃ¡lok maradnak.}
+{182}{}{HÃ©, el?szÃ¶r meg szoktuk f?zni ?ket. Tudod, nem vagyunk mi vademberek.}
+{183}{}{HovÃ¡ akarsz hÃºzni engem, kannibÃ¡l? Bele a kondÃ©rba? Keress magadnak mÃ¡s csemegÃ©t!}
+{184}{}{Nyugi, te amÃºgy is elÃ©g rÃ¡gÃ³snak Ã©s inasnak t?nsz. Hehe. Csak viccelek... tÃ¶bbnyire. Hadd kÃ©rdezzek valami mÃ¡st, Josh!}
+{185}{}{Akkor megyek Ã©s kÃ¶rbenÃ©zek. Ha nem talÃ¡lok jobbat, visszajÃ¶vÃ¶k. ViszlÃ¡t!... egyel?re.}
+{186}{}{El?bb farmot kell vÃ¡sÃ¡rolni. Tervezel venni valamilyen ingatlant a kÃ¶zeljÃ¶v?ben?}
+{187}{}{Ã–Ã¶, nem, semmilyen farm nem jÃ¶het szÃ¡mÃ­tÃ¡sba. Hadd kÃ©rdezzek valami mÃ¡st!}
+{188}{}{TalÃ¡n segÃ­thetnÃ©k egy-kÃ©t embernek farmot venni errefelÃ©. MÃ©g talÃ¡lkozunk, Josh.}
+{189}{}{Szerintem azzal kezdenÃ©d, hogy kinyÃ­rnÃ¡l valakit. De nem javaslom. Marion Sheriff nem rajong az ilyenfajta viselkedÃ©sÃ©rt.}
+{190}{}{MegprÃ³bÃ¡lok rendesen viselkedni. Hadd kÃ©rdezzek valami mÃ¡st, Josh!}
+{191}{}{Ã‰rtem... legalÃ¡bb tudom, kivel kell beszÃ©lnem, ha bÃ¡rmilyen szerencsÃ©tlen *baleset* tÃ¶rtÃ©nik. ViszlÃ¡t, Josh.}

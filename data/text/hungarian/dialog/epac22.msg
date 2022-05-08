@@ -2,7 +2,7 @@
 {101}{}{You see a hologram.}
 {200}{}{Zzzzzt... Hello... zzZzzt..Are..zzzZzzZtt... stand... me?}
 {201}{}{Excuse me?}
-{202}{}{Szuper. Viszlát!}
+{202}{}{Szuper. ViszlÃ¡t!}
 {203}{}{My... zZzzzt..sensor... ZzzzzzZzt...*garble*..fixed?}
 {204}{}{Sorry, but I can't understand you. There's too much static. I'll see if I can maybe fix it somehow.}
 {205}{}{I don't have time for this. Bye.}
@@ -23,7 +23,7 @@
 {322}{}{Oh, I see. That makes more sense. Well, there is another way in. There is a service elevator which stops on level two.
  It should be accessible from under the Doctor's workshop. He can be found outside, to the east of the main entrance to the EPA.
  You will need an access code to get inside, however. Since I am grateful for you repairing me, I shall tell you code. The code is "FLOWERPOT".}
-{323}{}{Köszi. Kérdeznék még.}
+{323}{}{KÃ¶szi. KÃ©rdeznÃ©k mÃ©g.}
 {324}{}{Oh, I'm sorry but the Blue Level contains top secret research. Access to that level is restricted to... oh, to hell with it. You were kind enough to repair me, so I suppose I could give you the password. It's "FLOWERPOT".}
 {330}{}{I will do my best. What item would you like me to identify?}
 {331}{}{What is the purpose of this dog food?}
@@ -57,8 +57,8 @@
  you think?}
 {391}{}{Definitely. Let me ask you something else.}
 {400}{}{Hello again. Something else I can help you with?}
-{401}{}{Volna néhány kérdésem.}
-{402}{}{Felejtsük el! Viszlát.}
+{401}{}{Volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{402}{}{FelejtsÃ¼k el! ViszlÃ¡t.}
 {500}{}{You open up the side panel to the hologram emitter and look inside. You see a mess of cables and circuit boards.}
 {501}{}{Well, let's get started.}
 {502}{}{After some time you isolate the problem and correct it. You close up the panel and wipe the sweat from your brow.}

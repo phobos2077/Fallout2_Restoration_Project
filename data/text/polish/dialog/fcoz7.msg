@@ -1,132 +1,132 @@
-{100}{}{Widzisz zakapturzonego Centrologa. W jakiœ sposób wyró¿nia siê z t³umu.}
-{101}{}{Widzisz UKC-7, drugiego we w³adzy.}
+{100}{}{Widzisz zakapturzonego Centrologa. W jakiÅ› sposÃ³b wyrÃ³Å¼nia siÄ™ z tÅ‚umu.}
+{101}{}{Widzisz UKC-7, drugiego we wÅ‚adzy.}
 {102}{}{Widzisz zakapturzonego Centrologa.}
-{103}{}{Stra¿! Niewierny! Usuñcie go!}
+{103}{}{StraÅ¼! Niewierny! UsuÅ„cie go!}
 {104}{}{Ty. Czego tu chcesz.}
 {105}{}{Aaagh! Nu! Nee!}
-{106}{}{Mam list dla UKC-9 od Oœwieconej z RNK.}
-{107}{}{Jestem tu, aby porozmawiaæ z Crockettem o pewnym pancerzu.}
-{108}{}{Chcê siê tu rozejrzeæ.}
-{109}{}{Byæ mo¿e interesowa³oby mnie wst¹pienie w wasze szeregi.}
-{110}{}{Kim jesteœ?}
-{111}{}{Przybywam, aby zabiæ was wszystkich.}
-{112}{}{Ach, moje biedne dziecko. Czy chcesz doznaæ oœwiecenia?}
+{106}{}{Mam list dla UKC-9 od OÅ›wieconej z RNK.}
+{107}{}{Jestem tu, aby porozmawiaÄ‡ z Crockettem o pewnym pancerzu.}
+{108}{}{ChcÄ™ siÄ™ tu rozejrzeÄ‡.}
+{109}{}{ByÄ‡ moÅ¼e interesowaÅ‚oby mnie wstÄ…pienie w wasze szeregi.}
+{110}{}{Kim jesteÅ›?}
+{111}{}{Przybywam, aby zabiÄ‡ was wszystkich.}
+{112}{}{Ach, moje biedne dziecko. Czy chcesz doznaÄ‡ oÅ›wiecenia?}
 {113}{}{'ak!}
 {114}{}{Nie!}
-{115}{}{Biedne dziecko. Ju¿ oœwiecone, jednak niezdolne do wyra¿ania siê. Proszê, wejdŸ.}
+{115}{}{Biedne dziecko. JuÅ¼ oÅ›wiecone, jednak niezdolne do wyraÅ¼ania siÄ™. ProszÄ™, wejdÅº.}
 {116}{}{'kuje!}
-{117}{}{WejdŸ i poszukaj Juana i Vikki. Mog¹ ci pomóc. Powodzenia, moje dziecko.}
+{117}{}{WejdÅº i poszukaj Juana i Vikki. MogÄ… ci pomÃ³c. Powodzenia, moje dziecko.}
 {118}{}{'kuje!}
-{119}{}{::jego g³os twardnieje:: Wiêc nie widzê powodu, aby pozwolono ci tu zostaæ. ¯egnam.}
+{119}{}{::jego gÅ‚os twardnieje:: WiÄ™c nie widzÄ™ powodu, aby pozwolono ci tu zostaÄ‡. Å»egnam.}
 {120}{}{'ej!}
-{121}{}{Dobrze. Œpiesz siê jednak - to bardzo zajêty cz³owiek.}
-{122}{}{W porz¹dku.}
+{121}{}{Dobrze. Åšpiesz siÄ™ jednak - to bardzo zajÄ™ty czÅ‚owiek.}
+{122}{}{W porzÄ…dku.}
 {123}{}{To nie jest miejsce przeznaczone dla wycieczek. Do widzenia.}
 {124}{}{[dalej]}
-{125}{}{Doskonale! WchodŸ, wchodŸ. Porozmawiaj z Juanem Kruzem i Vikki Goldman - wiesz, oni s¹ gwiazdami, ale porozmawiaj¹ z TOB¥.}
-{126}{}{Kim oni s¹?}
+{125}{}{Doskonale! WchodÅº, wchodÅº. Porozmawiaj z Juanem Kruzem i Vikki Goldman - wiesz, oni sÄ… gwiazdami, ale porozmawiajÄ… z TOBÄ„.}
+{126}{}{Kim oni sÄ…?}
 {127}{}{Ooch! Gwiazdy!}
-{128}{}{Jestem UKC-7, drugi w linii dowodzenia w tym obiekcie. Zanim spytasz: UKC to skrót od Uszeregowanego Kandydata Centrum, co oznacza, ¿e oczyœci³e³em ju¿ siedem poziomów neurodyn mojego ducha. Oznacza to, ¿e jestem bardziej oœwiecony i bli¿ej centrum Wielkiego Ko³a ni¿ ty. A to oznacza, ¿e powiesz mi teraz, czego tutaj chcesz. Teraz.}
-{129}{}{Mam list dla UKC-9 od Oœwieconej z RNK.}
-{130}{}{Jestem tu, aby porozmawiaæ z Crockettem o pewnym pancerzu.}
-{131}{}{Chcê siê tu rozejrzeæ.}
-{132}{}{Byæ mo¿e interesowa³oby mnie wst¹pienie w wasze szeregi.}
-{133}{}{Przybywam, aby zabiæ was wszystkich.}
-{134}{}{Sa gwiazdami z Nowego Reno. Us³yszeli w naszych pieœniach prawdê i przybyli uszeregowaæ swoje neurodyny.}
-{135}{}{Gdzie mogê ich znaleŸæ?}
-{136}{}{Có¿, niewa¿ne. Muszê ju¿ iœæ.}
-{137}{}{Mo¿esz ich znaleŸæ w pokoju modlitw, pokazuj¹cych naszym nowym rekrutom i miêchu jak op³acalne jest bycie Centrologiem.}
-{138}{}{To puœæ mnie do nich!}
-{139}{}{Oceniê to samodzielnie. Zaczynajmy spektakl.}
-{140}{}{Daruj sobie. Spadam st¹d.}
-{141}{}{A wiêc znacie siê ju¿ z Juanem i Vikki. Czy interesuje ciê przy³¹czenie siê do naszych przyjació³ w poszukiwaniu oœwiecenia w Wielkim Kole?}
+{128}{}{Jestem UKC-7, drugi w linii dowodzenia w tym obiekcie. Zanim spytasz: UKC to skrÃ³t od Uszeregowanego Kandydata Centrum, co oznacza, Å¼e oczyÅ›ciÅ‚eÅ‚em juÅ¼ siedem poziomÃ³w neurodyn mojego ducha. Oznacza to, Å¼e jestem bardziej oÅ›wiecony i bliÅ¼ej centrum Wielkiego KoÅ‚a niÅ¼ ty. A to oznacza, Å¼e powiesz mi teraz, czego tutaj chcesz. Teraz.}
+{129}{}{Mam list dla UKC-9 od OÅ›wieconej z RNK.}
+{130}{}{Jestem tu, aby porozmawiaÄ‡ z Crockettem o pewnym pancerzu.}
+{131}{}{ChcÄ™ siÄ™ tu rozejrzeÄ‡.}
+{132}{}{ByÄ‡ moÅ¼e interesowaÅ‚oby mnie wstÄ…pienie w wasze szeregi.}
+{133}{}{Przybywam, aby zabiÄ‡ was wszystkich.}
+{134}{}{Sa gwiazdami z Nowego Reno. UsÅ‚yszeli w naszych pieÅ›niach prawdÄ™ i przybyli uszeregowaÄ‡ swoje neurodyny.}
+{135}{}{Gdzie mogÄ™ ich znaleÅºÄ‡?}
+{136}{}{CÃ³Å¼, niewaÅ¼ne. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{137}{}{MoÅ¼esz ich znaleÅºÄ‡ w pokoju modlitw, pokazujÄ…cych naszym nowym rekrutom i miÄ™chu jak opÅ‚acalne jest bycie Centrologiem.}
+{138}{}{To puÅ›Ä‡ mnie do nich!}
+{139}{}{OceniÄ™ to samodzielnie. Zaczynajmy spektakl.}
+{140}{}{Daruj sobie. Spadam stÄ…d.}
+{141}{}{A wiÄ™c znacie siÄ™ juÅ¼ z Juanem i Vikki. Czy interesuje ciÄ™ przyÅ‚Ä…czenie siÄ™ do naszych przyjaciÃ³Å‚ w poszukiwaniu oÅ›wiecenia w Wielkim Kole?}
 {142}{}{O tak. Tak, tak, tak!}
 {143}{}{Jasne.}
-{144}{}{Nie teraz. Czy mogê wróciæ do ciebie póŸniej?}
+{144}{}{Nie teraz. Czy mogÄ™ wrÃ³ciÄ‡ do ciebie pÃ³Åºniej?}
 {145}{}{To chyba nie jest w moim stylu. Przykro mi.}
-{146}{}{Do cholery, nigdy! Wasz ob³¹kañczy kult zas³uguje na wypalenie do cna.}
-{147}{}{::uœmiecha siê:: Nie po¿a³ujesz tego. Mo¿esz poruszaæ siê po obiekcie. Ach... jesteœ osob¹, która wie jak u¿ywaæ broni. Czy chcesz u¿yæ jej w s³u¿bie Wielkiego Ko³a?}
+{146}{}{Do cholery, nigdy! Wasz obÅ‚Ä…kaÅ„czy kult zasÅ‚uguje na wypalenie do cna.}
+{147}{}{::uÅ›miecha siÄ™:: Nie poÅ¼aÅ‚ujesz tego. MoÅ¼esz poruszaÄ‡ siÄ™ po obiekcie. Ach... jesteÅ› osobÄ…, ktÃ³ra wie jak uÅ¼ywaÄ‡ broni. Czy chcesz uÅ¼yÄ‡ jej w sÅ‚uÅ¼bie Wielkiego KoÅ‚a?}
 {148}{}{Tak.}
-{149}{}{Mo¿e póŸniej.}
-{150}{}{Nie czekaj zbyt d³ugo przed udzieleniem odpowiedzi. Twoje neurodyny bêd¹ coraz bardziej i bardziej wype³niane zatruciem, zanim bêdziemy mogli rozpocz¹æ proces szeregowania.}
-{151}{}{Zmieniam zdanie. Do³¹czê do was.}
-{152}{}{Za³atwione. Porozmawiamy póŸniej.}
-{153}{}{Mo¿esz opuœciæ ten kompleks bez obaw, wêdrowcze, jednak nie odradzam powrót. Je¿eli nie dzia³asz z nami, dzia³asz przeciwko nam - nie chcia³bym, aby sta³a ci siê jakaœ krzywda.}
-{154}{}{Dziêki za zainteresowanie. Na razie.}
-{155}{}{Nie s¹dzê, aby to mi sta³a siê krzywda. ¯egnaj.}
-{156}{}{Spaliæ nas? SPALIÆ NAS? STRA¯E! ZABIÆ TO MIÊCHO!}
+{149}{}{MoÅ¼e pÃ³Åºniej.}
+{150}{}{Nie czekaj zbyt dÅ‚ugo przed udzieleniem odpowiedzi. Twoje neurodyny bÄ™dÄ… coraz bardziej i bardziej wypeÅ‚niane zatruciem, zanim bÄ™dziemy mogli rozpoczÄ…Ä‡ proces szeregowania.}
+{151}{}{Zmieniam zdanie. DoÅ‚Ä…czÄ™ do was.}
+{152}{}{ZaÅ‚atwione. Porozmawiamy pÃ³Åºniej.}
+{153}{}{MoÅ¼esz opuÅ›ciÄ‡ ten kompleks bez obaw, wÄ™drowcze, jednak nie odradzam powrÃ³t. JeÅ¼eli nie dziaÅ‚asz z nami, dziaÅ‚asz przeciwko nam - nie chciaÅ‚bym, aby staÅ‚a ci siÄ™ jakaÅ› krzywda.}
+{154}{}{DziÄ™ki za zainteresowanie. Na razie.}
+{155}{}{Nie sÄ…dzÄ™, aby to mi staÅ‚a siÄ™ krzywda. Å»egnaj.}
+{156}{}{SpaliÄ‡ nas? SPALIÄ† NAS? STRAÅ»E! ZABIÄ† TO MIÄ˜CHO!}
 {157}{}{[dalej]}
-{158}{}{A wiêc by³o du¿o czasu na przemyœlenie twojej decyzji. Czy do³¹czysz do nas?}
+{158}{}{A wiÄ™c byÅ‚o duÅ¼o czasu na przemyÅ›lenie twojej decyzji. Czy doÅ‚Ä…czysz do nas?}
 {159}{}{Tak.}
 {160}{}{Nie.}
-{161}{}{Wci¹¿ potrzebujê wiêcej czasu.}
-{162}{}{Nie masz wiêcej czasu. Podejmuj decyzjê, miêcho.}
+{161}{}{WciÄ…Å¼ potrzebujÄ™ wiÄ™cej czasu.}
+{162}{}{Nie masz wiÄ™cej czasu. Podejmuj decyzjÄ™, miÄ™cho.}
 {163}{}{Dobrze, jestem z wami.}
-{164}{}{Zapomnij o tym. Nie lubiê polityki silnej rêki.}
-{165}{}{Gnêbiciele Shi podwa¿aj¹ potêgê Centrologów i wprowadzaj¹ chaos miêdzy naszych braci, stosuj¹c metody wp³ywania na neurodyny. S¹dzimy, ¿e je¿eli ich Cesarz zginie, zrozumiej¹ b³êdy swojego postêpowania. Czy wyeliminujesz Cesarza?}
-{166}{}{Pewnie, zrobiê to.}
-{167}{}{Nie, Shi nigdy nie zrobili mi nic z³ego.}
-{168}{}{Byæ mo¿e przemyœlisz to jeszcze. Powiadom mnie, gdy to zrobisz. A teraz, czy jest coœ, czym mogê ci s³u¿yæ, rekrucie?}
-{169}{}{Tak, mam kilka pytañ.}
-{170}{}{Nie, nie teraz, dziêkujê.}
-{171}{}{Czy chcesz nam pomóc w naszym wysi³ku przeciwko gnêbicielom Shi? Gwiezdny Ojciec pob³ogos³awi ci, je¿eli weŸmiesz udzia³ w naszej krucjacie.}
-{172}{}{Wci¹¿ nie mam pewnoœci, czy chcê to zrobiæ.}
-{173}{}{Zrobiê to.}
-{174}{}{Byæ mo¿e zdo³am ul¿yæ twojej strapionej duszy. Czego potrzebujesz?}
-{175}{}{Gdzie mogê zdobyæ paliwo do tankowca Posejdon?}
-{176}{}{Gdzie mogê znaleŸæ znaczenie tych wszystkich wyrazów, których u¿ywacie?}
+{164}{}{Zapomnij o tym. Nie lubiÄ™ polityki silnej rÄ™ki.}
+{165}{}{GnÄ™biciele Shi podwaÅ¼ajÄ… potÄ™gÄ™ CentrologÃ³w i wprowadzajÄ… chaos miÄ™dzy naszych braci, stosujÄ…c metody wpÅ‚ywania na neurodyny. SÄ…dzimy, Å¼e jeÅ¼eli ich Cesarz zginie, zrozumiejÄ… bÅ‚Ä™dy swojego postÄ™powania. Czy wyeliminujesz Cesarza?}
+{166}{}{Pewnie, zrobiÄ™ to.}
+{167}{}{Nie, Shi nigdy nie zrobili mi nic zÅ‚ego.}
+{168}{}{ByÄ‡ moÅ¼e przemyÅ›lisz to jeszcze. Powiadom mnie, gdy to zrobisz. A teraz, czy jest coÅ›, czym mogÄ™ ci sÅ‚uÅ¼yÄ‡, rekrucie?}
+{169}{}{Tak, mam kilka pytaÅ„.}
+{170}{}{Nie, nie teraz, dziÄ™kujÄ™.}
+{171}{}{Czy chcesz nam pomÃ³c w naszym wysiÅ‚ku przeciwko gnÄ™bicielom Shi? Gwiezdny Ojciec pobÅ‚ogosÅ‚awi ci, jeÅ¼eli weÅºmiesz udziaÅ‚ w naszej krucjacie.}
+{172}{}{WciÄ…Å¼ nie mam pewnoÅ›ci, czy chcÄ™ to zrobiÄ‡.}
+{173}{}{ZrobiÄ™ to.}
+{174}{}{ByÄ‡ moÅ¼e zdoÅ‚am ulÅ¼yÄ‡ twojej strapionej duszy. Czego potrzebujesz?}
+{175}{}{Gdzie mogÄ™ zdobyÄ‡ paliwo do tankowca Posejdon?}
+{176}{}{Gdzie mogÄ™ znaleÅºÄ‡ znaczenie tych wszystkich wyrazÃ³w, ktÃ³rych uÅ¼ywacie?}
 {177}{}{Kiedy odlatuje statek?}
 {178}{}{Gdzie jest Crockett?}
-{179}{}{Nic, dziêki. Do zobaczenia.}
+{179}{}{Nic, dziÄ™ki. Do zobaczenia.}
 {180}{}{Powiadom nas, gdy wykonasz misje.}
-{181}{}{Zrobi siê. Mam inne pytania.}
-{182}{}{W porz¹dku. Do widzenia.}
-{183}{}{Czy gnêbicielska cesarska plama zosta³a usuniêta z materii egzystencji?}
+{181}{}{Zrobi siÄ™. Mam inne pytania.}
+{182}{}{W porzÄ…dku. Do widzenia.}
+{183}{}{Czy gnÄ™bicielska cesarska plama zostaÅ‚a usuniÄ™ta z materii egzystencji?}
 {184}{}{Jeszcze nie.}
 {185}{}{Tak, UKC-7. Jest martwy.}
-{186}{}{Prawdziwy przywódca w³óczêgów z tankowca jest nieuszeregowanym miêchem o imieniu Badger. Wraz z jego œmierci¹ zrozumiej¹ nasz¹ pozycje. Usuniesz go?}
-{187}{}{Zrobiê to.}
-{188}{}{Nic z³ego mi nie zrobi³. Wolê nie.}
-{189}{}{A wiec... Czy chcesz nam pomóc usun¹æ tego "Badgera"?}
-{190}{}{Zrobiê to.}
+{186}{}{Prawdziwy przywÃ³dca wÅ‚Ã³czÄ™gÃ³w z tankowca jest nieuszeregowanym miÄ™chem o imieniu Badger. Wraz z jego Å›mierciÄ… zrozumiejÄ… naszÄ… pozycje. Usuniesz go?}
+{187}{}{ZrobiÄ™ to.}
+{188}{}{Nic zÅ‚ego mi nie zrobiÅ‚. WolÄ™ nie.}
+{189}{}{A wiec... Czy chcesz nam pomÃ³c usunÄ…Ä‡ tego "Badgera"?}
+{190}{}{ZrobiÄ™ to.}
 {191}{}{Raczej nie.}
-{192}{}{Czy "Badger" jest ju¿ wyeliminowany?}
+{192}{}{Czy "Badger" jest juÅ¼ wyeliminowany?}
 {193}{}{Jeszcze nie.}
-{194}{}{Tak. Po prostu znikn¹³.}
-{195}{}{Jego ludzie zaczn¹ popieraæ centrum! Wszystko bêdzie dobrze! Twoja s³u¿ba przynios³a nam wielkie korzyœci!}
-{196}{}{Dziêki! Mam jeszcze kilka pytañ.}
-{197}{}{Robiê to wszystko dla Ko³a. ¯egnaj.}
-{198}{}{Hmm, tak na serio to zamierzam wykoñczyæ tak¿e was. }
-{199}{}{Teraz, gdy statek jest nape³niony paliwem, oczekujemy tylko s³owa od Wielkiego i Potê¿nego UKC-9 na osi¹gniecie odlotu.}
-{200}{}{... Oczywiœcie. Mam pytania.}
-{201}{}{Dziêki. Na razie.}
-{202}{}{Poza naszym cennym paliwem, którego potrzebujemy do wystrzelenia nas prosto pod skrzyd³a naszych gwiezdnych braci na planecie Centrum, nie potrafiê pod¹æ innego miejsca. Mo¿e Shi?}
+{194}{}{Tak. Po prostu zniknÄ…Å‚.}
+{195}{}{Jego ludzie zacznÄ… popieraÄ‡ centrum! Wszystko bÄ™dzie dobrze! Twoja sÅ‚uÅ¼ba przyniosÅ‚a nam wielkie korzyÅ›ci!}
+{196}{}{DziÄ™ki! Mam jeszcze kilka pytaÅ„.}
+{197}{}{RobiÄ™ to wszystko dla KoÅ‚a. Å»egnaj.}
+{198}{}{Hmm, tak na serio to zamierzam wykoÅ„czyÄ‡ takÅ¼e was. }
+{199}{}{Teraz, gdy statek jest napeÅ‚niony paliwem, oczekujemy tylko sÅ‚owa od Wielkiego i PotÄ™Å¼nego UKC-9 na osiÄ…gniecie odlotu.}
+{200}{}{... OczywiÅ›cie. Mam pytania.}
+{201}{}{DziÄ™ki. Na razie.}
+{202}{}{Poza naszym cennym paliwem, ktÃ³rego potrzebujemy do wystrzelenia nas prosto pod skrzydÅ‚a naszych gwiezdnych braci na planecie Centrum, nie potrafiÄ™ podÄ…Ä‡ innego miejsca. MoÅ¼e Shi?}
 {203}{}{Uch. Mam inne pytania.}
-{204}{}{Tak, byæ mo¿e.}
-{205}{}{S³ysza³em, ¿e Shi posiadaj¹ ogromny zbiornik paliwa. Mo¿e ma³a kradzie¿ rozwi¹za³aby twój problem.}
-{206}{}{Dobry pomyœl. Mam wiêcej pytañ.}
-{207}{}{Mo¿e. Dziêki.}
-{208}{}{Po prostu wykorzystaj holodysk otrzymany od Juana i Vikki i sprawdŸ znajduj¹cym siê tam s³owniczku pojêæ.}
-{209}{}{Dziêki. Wiêcej pytañ?}
-{210}{}{Dziêkujê.}
-{211}{}{Gdy UKC-9 otrzyma swoj¹ wizjê od Centrum, opuœcimy te ziemie i przy³¹czymy siê do niego w gwiezdnej chwale!}
-{212}{}{Ta, chwalmy Ko³o, czy jakoœ tak. Mam wiêcej pytañ.}
-{213}{}{Dziêki za dok³adne informacje.}
-{214}{}{Zazwyczaj jest w swoim laboratorium, pracuj¹c nad sposobami ulepszania naszych cia³ i umys³ów.}
-{215}{}{Dziêki. Chcê spytaæ o coœ innego.}
-{216}{}{Dziêkujê.}
-{217}{}{Zanim naprawdê zostaniesz naszym cz³onkiem, musimy przeprowadziæ pocz¹tkowy reform-skan - uszeregowanie. Czy mo¿emy zacz¹æ skan?}
-{218}{}{Nie! ¯adnego skanowania!}
-{219}{}{Jasne. Zróbmy to.}
-{220}{}{Bez skanu nie mo¿esz do nas do³¹czyæ. Czy na pewno chcesz odmówiæ?}
-{221}{}{Na pewno. Nie chcê, ¿eby wasze maszyny robi³y ze mnie ma³pê.}
-{222}{}{Och, w porz¹dku. Skanujcie.}
-{223}{}{Uszeregowaliœmy niektóre z twoich najbrudniejszych neurodyn. Obecnie masz rangê UKC-1. Czy ju¿ mo¿esz przy³¹czyæ siê do naszej szlachetnej sprawy?}
+{204}{}{Tak, byÄ‡ moÅ¼e.}
+{205}{}{SÅ‚yszaÅ‚em, Å¼e Shi posiadajÄ… ogromny zbiornik paliwa. MoÅ¼e maÅ‚a kradzieÅ¼ rozwiÄ…zaÅ‚aby twÃ³j problem.}
+{206}{}{Dobry pomyÅ›l. Mam wiÄ™cej pytaÅ„.}
+{207}{}{MoÅ¼e. DziÄ™ki.}
+{208}{}{Po prostu wykorzystaj holodysk otrzymany od Juana i Vikki i sprawdÅº znajdujÄ…cym siÄ™ tam sÅ‚owniczku pojÄ™Ä‡.}
+{209}{}{DziÄ™ki. WiÄ™cej pytaÅ„?}
+{210}{}{DziÄ™kujÄ™.}
+{211}{}{Gdy UKC-9 otrzyma swojÄ… wizjÄ™ od Centrum, opuÅ›cimy te ziemie i przyÅ‚Ä…czymy siÄ™ do niego w gwiezdnej chwale!}
+{212}{}{Ta, chwalmy KoÅ‚o, czy jakoÅ› tak. Mam wiÄ™cej pytaÅ„.}
+{213}{}{DziÄ™ki za dokÅ‚adne informacje.}
+{214}{}{Zazwyczaj jest w swoim laboratorium, pracujÄ…c nad sposobami ulepszania naszych ciaÅ‚ i umysÅ‚Ã³w.}
+{215}{}{DziÄ™ki. ChcÄ™ spytaÄ‡ o coÅ› innego.}
+{216}{}{DziÄ™kujÄ™.}
+{217}{}{Zanim naprawdÄ™ zostaniesz naszym czÅ‚onkiem, musimy przeprowadziÄ‡ poczÄ…tkowy reform-skan - uszeregowanie. Czy moÅ¼emy zaczÄ…Ä‡ skan?}
+{218}{}{Nie! Å»adnego skanowania!}
+{219}{}{Jasne. ZrÃ³bmy to.}
+{220}{}{Bez skanu nie moÅ¼esz do nas doÅ‚Ä…czyÄ‡. Czy na pewno chcesz odmÃ³wiÄ‡?}
+{221}{}{Na pewno. Nie chcÄ™, Å¼eby wasze maszyny robiÅ‚y ze mnie maÅ‚pÄ™.}
+{222}{}{Och, w porzÄ…dku. Skanujcie.}
+{223}{}{UszeregowaliÅ›my niektÃ³re z twoich najbrudniejszych neurodyn. Obecnie masz rangÄ™ UKC-1. Czy juÅ¼ moÅ¼esz przyÅ‚Ä…czyÄ‡ siÄ™ do naszej szlachetnej sprawy?}
 {224}{}{O tak.}
-{225}{}{Nie. Jeszcze nie chcê.}
-{226}{}{Lekcja 1: Tutaj mamy wiecznoœæ. Tutaj jest miejsce, gdzie jest planeta Quetzel [Wskazuje na coœ.] A tu jesteœmy my. [Wskazuje na jakiœ punkt.] Teraz wszystko, co musimy zrobiæ, to przejœæ bardzo d³ug¹ drogê, aby tam dotrzeæ.}
-{227}{}{O rany, bêdziemy potrzebowali du¿o butów.}
-{228}{}{Czy mogê to jeszcze przemyœleæ?}
+{225}{}{Nie. Jeszcze nie chcÄ™.}
+{226}{}{Lekcja 1: Tutaj mamy wiecznoÅ›Ä‡. Tutaj jest miejsce, gdzie jest planeta Quetzel [Wskazuje na coÅ›.] A tu jesteÅ›my my. [Wskazuje na jakiÅ› punkt.] Teraz wszystko, co musimy zrobiÄ‡, to przejÅ›Ä‡ bardzo dÅ‚ugÄ… drogÄ™, aby tam dotrzeÄ‡.}
+{227}{}{O rany, bÄ™dziemy potrzebowali duÅ¼o butÃ³w.}
+{228}{}{Czy mogÄ™ to jeszcze przemyÅ›leÄ‡?}
 {229}{}{Znowu ty? Co?}
-{230}{}{Czy jest jeszcze coœ do zrobienia?}
-{231}{}{Nie chcemy ciê tu. Proszê, wyjdŸ.}
+{230}{}{Czy jest jeszcze coÅ› do zrobienia?}
+{231}{}{Nie chcemy ciÄ™ tu. ProszÄ™, wyjdÅº.}

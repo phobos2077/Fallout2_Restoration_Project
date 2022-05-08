@@ -1,1 +1,1 @@
-{100}{}{Você usa toda a lata de spray de planta.}
+{100}{}{VocÃª usa toda a lata de spray de planta.}

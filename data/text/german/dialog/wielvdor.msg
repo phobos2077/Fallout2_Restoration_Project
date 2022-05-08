@@ -1,5 +1,5 @@
-{100}{}{Du kriegst diese Türen nicht auf. Sie können anscheinend nur von anderer Stelle aus
- geöffnet werden.}
-{101}{}{Diese Tür ist anscheinend nicht mit einem herkömmlichen Schließmechanismus ausgestattet.}
-{102}{}{Du siehst Aufzugtüren.}
-{103}{}{Diese Aufzugtüren können anscheinend nur von einer anderen Stelle aus geöffnet werden.}
+{100}{}{Du kriegst diese TÃ¼ren nicht auf. Sie kÃ¶nnen anscheinend nur von anderer Stelle aus
+ geÃ¶ffnet werden.}
+{101}{}{Diese TÃ¼r ist anscheinend nicht mit einem herkÃ¶mmlichen SchlieÃŸmechanismus ausgestattet.}
+{102}{}{Du siehst AufzugtÃ¼ren.}
+{103}{}{Diese AufzugtÃ¼ren kÃ¶nnen anscheinend nur von einer anderen Stelle aus geÃ¶ffnet werden.}

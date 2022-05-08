@@ -1,1 +1,1 @@
-{100}{}{Megérkeztél Broken Hills kis városába.}
+{100}{}{MegÃ©rkeztÃ©l Broken Hills kis vÃ¡rosÃ¡ba.}

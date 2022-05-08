@@ -1,2 +1,2 @@
-{100}{}{Este È o gerador de energia para Broken Hills.}
-{101}{}{O gerador parece ser alimentado por pedaÁos de ur‚nio e est· funcionando a uma boa taxa de forma eficaz.}
+{100}{}{Este √© o gerador de energia para Broken Hills.}
+{101}{}{O gerador parece ser alimentado por peda√ßos de ur√¢nio e est√° funcionando a uma boa taxa de forma eficaz.}

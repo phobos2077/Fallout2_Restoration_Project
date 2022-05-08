@@ -1,63 +1,63 @@
-{100}{}{Widzisz atrakcyjn¹, m³od¹ kobietê.}
-{101}{}{Widzisz k¹pielow¹.}
-{102}{}{Widzisz jedn¹ z dziewcz¹t Wielkonosej Sally.}
-{103}{}{Widzisz znudzon¹ kobietê.}
-{104}{}{Widzisz kobietê. Taksuje ciê wzrokiem.}
-{105}{}{Widzisz kobietê. Rozbiera ciê wzrokiem.}
-{106}{}{Widzisz m³od¹ kobietê.}
-{110}{}{Widzisz atrakcyjn¹ m³od¹ kobietê. Jej twarz pokryta jest jakimœ jasnym pudrem.}
-{111}{}{Widzisz kobietê w œrednim wieku z du¿ym biustem.}
-{112}{}{Widzisz atrakcyjn¹ kobietê nosz¹c¹ czêœciowo...}
-{113}{}{Widzisz kobietê taksuj¹c¹ ciê wzrokiem... z grymasem na twarzy.}
-{120}{}{To by³o... krótkie.}
-{121}{}{Za ma³o praktyki, co s³onko?}
-{122}{}{Nie bój siê, nastêpnym razem pójdzie ci lepiej.}
-{123}{}{To nie jest wyœcig, skarbie. Nie trzeba skoñczyæ jak najszybciej.}
-{124}{}{Pewnie znajomi mówi¹ na ciebie 'Chwilka'?}
-{125}{}{Gdyby wszyscy moi klienci tak szybko koñczyli, mog³abym wczeœniej wracaæ do domu.}
-{126}{}{Nastêpnym razem zaczekaj, a¿ zacznê ci pomagaæ.}
-{127}{}{Wiesz co, nastêpnym razem zaczekaj chocia¿, a¿ siê rozbiorê.}
-{130}{}{To by³o naprawdê mi³e. Prawdziwy z ciebie mê¿czyzna.}
-{131}{}{To by³o wspania³e... Niestamowite. Nastêpny!}
-{132}{}{Och tak, skarbie. Jeszcze nigdy nie by³o mi tak dobrze. (ziewa)}
-{133}{}{To by³o niesamowite. Wróæ do mnie kiedyœ, dobrze?}
-{134}{}{Jakaœ dzikuska bêdzie z ciebie mia³a du¿o po¿ytku...}
-{135}{}{Nie, kochanie. Rozmiar wcale nie jest taki wa¿ny. By³o naprawdê mi³o.}
-{136}{}{Jeszcze nigdy nie by³am z tak dobrym kochankiem.}
-{137}{}{A có¿ to za krasnala tam chowasz?}
-{140}{}{Rozmiar nie jest taki wa¿ny! Najs³odsza tajemnica natury.}
-{141}{}{Nastêpnym razem jak przyjdziesz wezmê nadgodziny!}
-{142}{}{P³acisz i wymagasz.}
-{143}{}{Wezmê sobie wolne do koñca dnia.}
-{144}{}{Jej! Czy ziemia naprawdê siê zatrzês³a?}
-{145}{}{Teraz wiem co czu³a caryca Katarzyna.}
-{150}{}{Có¿, business is business.}
-{151}{}{By³o... inaczej.}
-{152}{}{By³o naprawdê super. Nastêpny!}
-{153}{}{Nie, nie mo¿esz u¿ywaæ moich perfum.}
-{154}{}{Có¿, przynajmniej masz mniejszy zarost ni¿ reszta moich klientów.}
-{155}{}{Na pewno jesteœ kobiet¹?}
-{160}{}{To by³o ca³kiem mi³e.}
-{161}{}{To by³o coœ innego... bardzo ciekawe.}
-{162}{}{Kiedyœ chêtnie znowu spróbujê.}
-{163}{}{Musimy siê kiedyœ spotkaæ po pracy.}
-{164}{}{To by³o milutkie.}
-{165}{}{Jej! Od tej pory moje ¿ycie bêdzie wygl¹da³o zupe³nie inaczej.}
-{166}{}{Nie wiedzia³am, ¿e mo¿e byæ tak wspaniale.}
-{170}{}{Porozmawiaj z Wielkonos¹ Sally.}
-{171}{}{Ale z ciebie s³onko!}
-{172}{}{Uwielbiam ciê!}
-{173}{}{Zajrzyj jeszcze kiedyœ.}
-{174}{}{Umiesz bzykaæ, nieprawda¿?}
-{175}{}{Kiedyœ by³am bardzo nieœmia³a...}
-{176}{}{(Gwi¿d¿e)}
-{177}{}{ChodŸ tu, tygrysie.}
+{100}{}{Widzisz atrakcyjnÄ…, mÅ‚odÄ… kobietÄ™.}
+{101}{}{Widzisz kÄ…pielowÄ….}
+{102}{}{Widzisz jednÄ… z dziewczÄ…t Wielkonosej Sally.}
+{103}{}{Widzisz znudzonÄ… kobietÄ™.}
+{104}{}{Widzisz kobietÄ™. Taksuje ciÄ™ wzrokiem.}
+{105}{}{Widzisz kobietÄ™. Rozbiera ciÄ™ wzrokiem.}
+{106}{}{Widzisz mÅ‚odÄ… kobietÄ™.}
+{110}{}{Widzisz atrakcyjnÄ… mÅ‚odÄ… kobietÄ™. Jej twarz pokryta jest jakimÅ› jasnym pudrem.}
+{111}{}{Widzisz kobietÄ™ w Å›rednim wieku z duÅ¼ym biustem.}
+{112}{}{Widzisz atrakcyjnÄ… kobietÄ™ noszÄ…cÄ… czÄ™Å›ciowo...}
+{113}{}{Widzisz kobietÄ™ taksujÄ…cÄ… ciÄ™ wzrokiem... z grymasem na twarzy.}
+{120}{}{To byÅ‚o... krÃ³tkie.}
+{121}{}{Za maÅ‚o praktyki, co sÅ‚onko?}
+{122}{}{Nie bÃ³j siÄ™, nastÄ™pnym razem pÃ³jdzie ci lepiej.}
+{123}{}{To nie jest wyÅ›cig, skarbie. Nie trzeba skoÅ„czyÄ‡ jak najszybciej.}
+{124}{}{Pewnie znajomi mÃ³wiÄ… na ciebie 'Chwilka'?}
+{125}{}{Gdyby wszyscy moi klienci tak szybko koÅ„czyli, mogÅ‚abym wczeÅ›niej wracaÄ‡ do domu.}
+{126}{}{NastÄ™pnym razem zaczekaj, aÅ¼ zacznÄ™ ci pomagaÄ‡.}
+{127}{}{Wiesz co, nastÄ™pnym razem zaczekaj chociaÅ¼, aÅ¼ siÄ™ rozbiorÄ™.}
+{130}{}{To byÅ‚o naprawdÄ™ miÅ‚e. Prawdziwy z ciebie mÄ™Å¼czyzna.}
+{131}{}{To byÅ‚o wspaniaÅ‚e... Niestamowite. NastÄ™pny!}
+{132}{}{Och tak, skarbie. Jeszcze nigdy nie byÅ‚o mi tak dobrze. (ziewa)}
+{133}{}{To byÅ‚o niesamowite. WrÃ³Ä‡ do mnie kiedyÅ›, dobrze?}
+{134}{}{JakaÅ› dzikuska bÄ™dzie z ciebie miaÅ‚a duÅ¼o poÅ¼ytku...}
+{135}{}{Nie, kochanie. Rozmiar wcale nie jest taki waÅ¼ny. ByÅ‚o naprawdÄ™ miÅ‚o.}
+{136}{}{Jeszcze nigdy nie byÅ‚am z tak dobrym kochankiem.}
+{137}{}{A cÃ³Å¼ to za krasnala tam chowasz?}
+{140}{}{Rozmiar nie jest taki waÅ¼ny! NajsÅ‚odsza tajemnica natury.}
+{141}{}{NastÄ™pnym razem jak przyjdziesz wezmÄ™ nadgodziny!}
+{142}{}{PÅ‚acisz i wymagasz.}
+{143}{}{WezmÄ™ sobie wolne do koÅ„ca dnia.}
+{144}{}{Jej! Czy ziemia naprawdÄ™ siÄ™ zatrzÄ™sÅ‚a?}
+{145}{}{Teraz wiem co czuÅ‚a caryca Katarzyna.}
+{150}{}{CÃ³Å¼, business is business.}
+{151}{}{ByÅ‚o... inaczej.}
+{152}{}{ByÅ‚o naprawdÄ™ super. NastÄ™pny!}
+{153}{}{Nie, nie moÅ¼esz uÅ¼ywaÄ‡ moich perfum.}
+{154}{}{CÃ³Å¼, przynajmniej masz mniejszy zarost niÅ¼ reszta moich klientÃ³w.}
+{155}{}{Na pewno jesteÅ› kobietÄ…?}
+{160}{}{To byÅ‚o caÅ‚kiem miÅ‚e.}
+{161}{}{To byÅ‚o coÅ› innego... bardzo ciekawe.}
+{162}{}{KiedyÅ› chÄ™tnie znowu sprÃ³bujÄ™.}
+{163}{}{Musimy siÄ™ kiedyÅ› spotkaÄ‡ po pracy.}
+{164}{}{To byÅ‚o milutkie.}
+{165}{}{Jej! Od tej pory moje Å¼ycie bÄ™dzie wyglÄ…daÅ‚o zupeÅ‚nie inaczej.}
+{166}{}{Nie wiedziaÅ‚am, Å¼e moÅ¼e byÄ‡ tak wspaniale.}
+{170}{}{Porozmawiaj z WielkonosÄ… Sally.}
+{171}{}{Ale z ciebie sÅ‚onko!}
+{172}{}{Uwielbiam ciÄ™!}
+{173}{}{Zajrzyj jeszcze kiedyÅ›.}
+{174}{}{Umiesz bzykaÄ‡, nieprawdaÅ¼?}
+{175}{}{KiedyÅ› byÅ‚am bardzo nieÅ›miaÅ‚a...}
+{176}{}{(GwiÅ¼dÅ¼e)}
+{177}{}{ChodÅº tu, tygrysie.}
 {178}{}{Hej, dzieeeecinko.}
-{179}{}{Jeœli szukasz rozrywki, porozmawiaj z Sally.}
+{179}{}{JeÅ›li szukasz rozrywki, porozmawiaj z Sally.}
 {180}{}{Pucu-pucu...}
-{181}{}{Przyda ci siê k¹piel.}
-{182}{}{Och, dzikus... Uwielbiam egzotykê.}
-{183}{}{Normalnie nie obs³ugujê dzikusów.}
-{184}{}{Podobam ci siê, skarbie?}
+{181}{}{Przyda ci siÄ™ kÄ…piel.}
+{182}{}{Och, dzikus... Uwielbiam egzotykÄ™.}
+{183}{}{Normalnie nie obsÅ‚ugujÄ™ dzikusÃ³w.}
+{184}{}{Podobam ci siÄ™, skarbie?}
 {185}{}{Chcesz mnie?}
-{186}{}{Nie ma nic za darmo, s³onko.}
+{186}{}{Nie ma nic za darmo, sÅ‚onko.}

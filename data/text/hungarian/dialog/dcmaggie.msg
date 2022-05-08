@@ -1,91 +1,91 @@
-{100}{}{A bár tulajdonosát látod.}
+{100}{}{A bÃ¡r tulajdonosÃ¡t lÃ¡tod.}
 {101}{}{? Becky.}
-{150}{}{Úgy t?nik, ? a tulaj.}
+{150}{}{Ãšgy t?nik, ? a tulaj.}
 {151}{}{Becky, ennek a helynek a tulajdonosa.}
-{152}{}{[Beszélgetés]}
-{153}{}{Helló, idegen, és üdvözöllek a báromban. Én Becky vagyok.}
-{154}{}{Helló, a nevem }
-{155}{}{. Mit lehet errefelé csinálni?}
+{152}{}{[BeszÃ©lgetÃ©s]}
+{153}{}{HellÃ³, idegen, Ã©s Ã¼dvÃ¶zÃ¶llek a bÃ¡romban. Ã‰n Becky vagyok.}
+{154}{}{HellÃ³, a nevem }
+{155}{}{. Mit lehet errefelÃ© csinÃ¡lni?}
 {156}{}{Hi, I'm }
-{157}{}{. Kérdezhetek pár dolgot?}
+{157}{}{. KÃ©rdezhetek pÃ¡r dolgot?}
 {158}{}{Mami?}
 {159}{}{Mag gah.}
-{160}{}{Lehet lelépni! Nincs szükségem itt a te fajtádra.}
+{160}{}{Lehet lelÃ©pni! Nincs szÃ¼ksÃ©gem itt a te fajtÃ¡dra.}
 {161}{}{Mmmm...}
 {162}{}{Baszd meg!}
-{163}{}{Inkább megyek.}
-{164}{}{Bocs, nem akartalak megbántani. Kérdezhetek valamit?}
-{165}{}{A whiskey 5 dollár, a játékasztalok meg ott vannak. Sok sikert!}
-{166}{}{Kérdezhetek valamit?}
+{163}{}{InkÃ¡bb megyek.}
+{164}{}{Bocs, nem akartalak megbÃ¡ntani. KÃ©rdezhetek valamit?}
+{165}{}{A whiskey 5 dollÃ¡r, a jÃ¡tÃ©kasztalok meg ott vannak. Sok sikert!}
+{166}{}{KÃ©rdezhetek valamit?}
 {167}{}{Italt akarok!}
-{168}{}{Hmm, jó olcsó a pia. Jöhet egy...}
-{169}{}{Kösz. Viszlát!}
-{170}{}{13-as Menedék? Nem, soha nem hallottam róla.}
-{171}{}{Hmm, kérdezhetek valami mást?}
-{172}{}{Francba, meg kell találnom. Viszlát!}
-{173}{}{Mit szeretnél tudni?}
-{174}{}{Hol lehetne itt kajálni valamit?}
-{175}{}{Tudod hol van a 13-as Menedék?}
-{176}{}{Mért ilyen olcsó nálad a pia?}
-{177}{}{Semmit. Viszlát!}
-{178}{}{A város másik oldalán van a Mama étterme.}
+{168}{}{Hmm, jÃ³ olcsÃ³ a pia. JÃ¶het egy...}
+{169}{}{KÃ¶sz. ViszlÃ¡t!}
+{170}{}{13-as MenedÃ©k? Nem, soha nem hallottam rÃ³la.}
+{171}{}{Hmm, kÃ©rdezhetek valami mÃ¡st?}
+{172}{}{Francba, meg kell talÃ¡lnom. ViszlÃ¡t!}
+{173}{}{Mit szeretnÃ©l tudni?}
+{174}{}{Hol lehetne itt kajÃ¡lni valamit?}
+{175}{}{Tudod hol van a 13-as MenedÃ©k?}
+{176}{}{MÃ©rt ilyen olcsÃ³ nÃ¡lad a pia?}
+{177}{}{Semmit. ViszlÃ¡t!}
+{178}{}{A vÃ¡ros mÃ¡sik oldalÃ¡n van a Mama Ã©tterme.}
 {179}{}{Mami! Mami!}
-{180}{}{Jöhet még egy kérdés?}
-{181}{}{Kösz. Viszlát!}
-{182}{}{Kotródj!}
+{180}{}{JÃ¶het mÃ©g egy kÃ©rdÃ©s?}
+{181}{}{KÃ¶sz. ViszlÃ¡t!}
+{182}{}{KotrÃ³dj!}
 {183}{}{Gwah.}
-{184}{}{Adok én neked valamit, amit?l behalsz.}
-{185}{}{El?bb egy gyors kérdést?}
-{186}{}{Viszlát!}
-{187}{}{Egy adag whiskey 5 dollár. El?re kérem a pénzt!}
-{188}{}{Nahát...}
-{189}{}{Itt a pénz.}
+{184}{}{Adok Ã©n neked valamit, amit?l behalsz.}
+{185}{}{El?bb egy gyors kÃ©rdÃ©st?}
+{186}{}{ViszlÃ¡t!}
+{187}{}{Egy adag whiskey 5 dollÃ¡r. El?re kÃ©rem a pÃ©nzt!}
+{188}{}{NahÃ¡t...}
+{189}{}{Itt a pÃ©nz.}
 {190}{}{Meggondoltam magam.}
-{191}{}{Kicsit leégtem. Nem kaphatnék hitelt?}
-{192}{}{Kérdezhetek valamit?}
+{191}{}{Kicsit leÃ©gtem. Nem kaphatnÃ©k hitelt?}
+{192}{}{KÃ©rdezhetek valamit?}
 {193}{}{Mennem kell.}
-{194}{}{Itt az ital. Még valamit?}
-{195}{}{Kérdést?}
-{196}{}{Mi lenne, ha te és én...}
+{194}{}{Itt az ital. MÃ©g valamit?}
+{195}{}{KÃ©rdÃ©st?}
+{196}{}{Mi lenne, ha te Ã©s Ã©n...}
 {197}{}{Nem.}
-{198}{}{Hé, nincs elég pénzed erre az italra. Még szegényebb vagy, mint ezek a szerencsétlenek.}
-{199}{}{Bocsánat.}
-{200}{}{Hmm, még visszajövök.}
-{201}{}{Hmm. Idehívok valakit, hogy figyeljen a bárra. Te és én bemegyünk a hátsó szobába, ahol a kedvenc játékomat játszuk: "Els? csapás". Ha jó vagy, akkor jön a "Mélypont".}
-{202}{}{Oké!}
-{203}{}{Öö... izé... mennem kell.}
-{205}{}{Rendben voltál.}
-{206}{}{Legközelebb majd játszunk egy "Izzásig" nev? játékot, de most...}
-{207}{}{Megtennél nekem valamit?}
-{208}{}{Mennem kell, de kés?bb még visszajövök.}
-{209}{}{Mit tehetek érted, aranypofa?}
-{210}{}{Szükségem lenne még egy kis szeretetre...}
-{211}{}{Lenne néhány kérdésem.}
-{212}{}{Hogyhogy ilyen olcsó nálad a pia?}
-{213}{}{Kérek egy italt.}
-{214}{}{Mennem kell. Minden jót!}
-{215}{}{Most nem. Talán kés?bb. Igen, majd kés?bb.}
-{216}{}{Kérdezhetek valamit?}
-{217}{}{Akkor kés?bb.}
-{218}{}{Van egy lepárlóm az alagsorban. Én magam csináltam. Így nem kell a háromszorosáért vennem azoktól a New Reno-i gengszterekt?l.}
-{219}{}{Okos lány! Ezt szeretem!}
-{220}{}{Hmm, mennem kell. Kés?bb találkozunk.}
-{221}{}{Mért? Mért tetted tönkre a lepárlóm? Te szemét!}
-{222}{}{Semmi személyes ok. Pénzért csináltam.}
-{223}{}{Sajnálom.}
-{224}{}{Viszlát!}
-{225}{}{Csinálni fogok egy másikat.}
+{198}{}{HÃ©, nincs elÃ©g pÃ©nzed erre az italra. MÃ©g szegÃ©nyebb vagy, mint ezek a szerencsÃ©tlenek.}
+{199}{}{BocsÃ¡nat.}
+{200}{}{Hmm, mÃ©g visszajÃ¶vÃ¶k.}
+{201}{}{Hmm. IdehÃ­vok valakit, hogy figyeljen a bÃ¡rra. Te Ã©s Ã©n bemegyÃ¼nk a hÃ¡tsÃ³ szobÃ¡ba, ahol a kedvenc jÃ¡tÃ©komat jÃ¡tszuk: "Els? csapÃ¡s". Ha jÃ³ vagy, akkor jÃ¶n a "MÃ©lypont".}
+{202}{}{OkÃ©!}
+{203}{}{Ã–Ã¶... izÃ©... mennem kell.}
+{205}{}{Rendben voltÃ¡l.}
+{206}{}{LegkÃ¶zelebb majd jÃ¡tszunk egy "IzzÃ¡sig" nev? jÃ¡tÃ©kot, de most...}
+{207}{}{MegtennÃ©l nekem valamit?}
+{208}{}{Mennem kell, de kÃ©s?bb mÃ©g visszajÃ¶vÃ¶k.}
+{209}{}{Mit tehetek Ã©rted, aranypofa?}
+{210}{}{SzÃ¼ksÃ©gem lenne mÃ©g egy kis szeretetre...}
+{211}{}{Lenne nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{212}{}{Hogyhogy ilyen olcsÃ³ nÃ¡lad a pia?}
+{213}{}{KÃ©rek egy italt.}
+{214}{}{Mennem kell. Minden jÃ³t!}
+{215}{}{Most nem. TalÃ¡n kÃ©s?bb. Igen, majd kÃ©s?bb.}
+{216}{}{KÃ©rdezhetek valamit?}
+{217}{}{Akkor kÃ©s?bb.}
+{218}{}{Van egy lepÃ¡rlÃ³m az alagsorban. Ã‰n magam csinÃ¡ltam. Ãgy nem kell a hÃ¡romszorosÃ¡Ã©rt vennem azoktÃ³l a New Reno-i gengszterekt?l.}
+{219}{}{Okos lÃ¡ny! Ezt szeretem!}
+{220}{}{Hmm, mennem kell. KÃ©s?bb talÃ¡lkozunk.}
+{221}{}{MÃ©rt? MÃ©rt tetted tÃ¶nkre a lepÃ¡rlÃ³m? Te szemÃ©t!}
+{222}{}{Semmi szemÃ©lyes ok. PÃ©nzÃ©rt csinÃ¡ltam.}
+{223}{}{SajnÃ¡lom.}
+{224}{}{ViszlÃ¡t!}
+{225}{}{CsinÃ¡lni fogok egy mÃ¡sikat.}
 {226}{}{Tudom.}
-{227}{}{Hát, rendben.}
-{228}{}{Viszlát!}
-{232}{}{Mért? Mért tetted tönkre a lepárlóm? Te kurva!}
-{233}{}{Hol vagy, bébi?}
-{234}{}{Jössz?}
-{235}{}{Várok.}
-{236}{}{Itt bennt vagyok, udvarlóm.}
+{227}{}{HÃ¡t, rendben.}
+{228}{}{ViszlÃ¡t!}
+{232}{}{MÃ©rt? MÃ©rt tetted tÃ¶nkre a lepÃ¡rlÃ³m? Te kurva!}
+{233}{}{Hol vagy, bÃ©bi?}
+{234}{}{JÃ¶ssz?}
+{235}{}{VÃ¡rok.}
+{236}{}{Itt bennt vagyok, udvarlÃ³m.}
 {237}{}{Nem hagyhatok itt csapot-papot..}
-{238}{}{Kövess, édesem!}
-{240}{}{Hogy... Csináltad... ezt... Ööh...}
-{241}{}{Nem gond, a méret egyáltalán nem számít.}
-{242}{}{Ez, öö, jó volt -- meg kell, hogy mondjam.}
-{243}{}{Kösz, aranyom, jót szórakoztam.}
+{238}{}{KÃ¶vess, Ã©desem!}
+{240}{}{Hogy... CsinÃ¡ltad... ezt... Ã–Ã¶h...}
+{241}{}{Nem gond, a mÃ©ret egyÃ¡ltalÃ¡n nem szÃ¡mÃ­t.}
+{242}{}{Ez, Ã¶Ã¶, jÃ³ volt -- meg kell, hogy mondjam.}
+{243}{}{KÃ¶sz, aranyom, jÃ³t szÃ³rakoztam.}

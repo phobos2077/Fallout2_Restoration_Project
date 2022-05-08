@@ -1,1 +1,1 @@
-{100}{}{Você tem uma sensação engraçada sobre esse lugar. O cheiro encantador do esterco de vaca e da carne apodrecida emana a poucos metros daqui.}
+{100}{}{VocÃª tem uma sensaÃ§Ã£o engraÃ§ada sobre esse lugar. O cheiro encantador do esterco de vaca e da carne apodrecida emana a poucos metros daqui.}

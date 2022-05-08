@@ -1,43 +1,43 @@
-{100}{}{Widzisz stra¿nika w luŸnym ubraniu, wygl¹da na znu¿onego czuwaniem.}
-{101}{}{Widzisz stra¿nika portowego. Niezwykle dobrze uzbrojonego stra¿nika.}
-{102}{}{Widzisz stra¿nika motorówki.}
-{150}{}{Hej! Odsuñ siê od niej!}
-{151}{}{Nawet o tym nie myœl. To ostatnie ostrze¿enie.}
-{152}{}{Ostrzega³em, lao wai, giñ!}
+{100}{}{Widzisz straÅ¼nika w luÅºnym ubraniu, wyglÄ…da na znuÅ¼onego czuwaniem.}
+{101}{}{Widzisz straÅ¼nika portowego. Niezwykle dobrze uzbrojonego straÅ¼nika.}
+{102}{}{Widzisz straÅ¼nika motorÃ³wki.}
+{150}{}{Hej! OdsuÅ„ siÄ™ od niej!}
+{151}{}{Nawet o tym nie myÅ›l. To ostatnie ostrzeÅ¼enie.}
+{152}{}{OstrzegaÅ‚em, lao wai, giÅ„!}
 {200}{}{Czego chcesz, lao wai?}
 {201}{}{To znowu ty. Czego chcesz, lao wai?}
 {202}{}{Czego pilnujesz?}
-{203}{}{Potrzebujê tej motorówki.}
+{203}{}{PotrzebujÄ™ tej motorÃ³wki.}
 {204}{}{Nic takiego. Na razie.}
-{210}{}{Wszystkiego. Nie próbuj niczego zabawnego.}
-{211}{}{Mo¿esz wyra¿aæ siê jaœniej?}
-{220}{}{Nie. A teraz cofnij siê, przyb³êdo.}
-{221}{}{Dobra. Czeœæ.}
-{222}{}{Nikt nie bêdzie mi mówi³ co mam robiæ. Jesteœ cholernym trupem!}
-{230}{}{A ja potrzebuje ciê sp³awiæ. Nie masz pozwolenia na u¿ycie motorówki, cholera, jesteœ lao wai, a nie Shi.}
-{231}{}{S³uchaj, jestem w naprawdê trudnej sytuacji. Jeœli nie pozwolisz mi wzi¹æ motorówki, ca³e moje plemiê zginie.
- W tej chwili, s¹ w szponach tych drani z Enclavy i licz¹ na to, ¿e ich uwolniê. Ale ¿eby to zrobiæ,
- potrzebujê tej motorówki. Jeœli nie pozwolisz mi jej wzi¹æ, to dojdzie do walki i ktoœ z nas zginie. Proszê, nie doprowadŸ do tego.}
-{232}{}{W³aœciwie, to Shi przyznali mi honorowe cz³onkostwo. Zatrudnili mnie i do³¹czyli do zespo³u obs³ugi okrêtu podwodnego, ze wzglêdu na moje doœwiadczenie w... okrêtologii. To moje has³o...}
-{233}{}{Chyba nie wiesz kogo obra¿asz. Czas umieraæ, dupku.}
-{234}{}{Dobra, idê... jeju, co za ludzie...}
-{240}{}{[Patrzy na ciebie przez d³u¿sz¹ chwilê, potem wzdycha.] Pos³uchaj, nikt nie wejdzie na t¹ ³ódŸ bez podania w³aœciwego has³a. No wiesz, takiego jakiego jakie w³aœnie od ciebie us³ysza³em. [Mamrocze.] Oberwie mi siê za to od Kena Lee...}
-{241}{}{Dziêkujê, przyjacielu. I nie martw siê, nikomu o tym nie powiem.}
-{250}{}{Mam tak¹ nadziejê, te¿ dla twojego dobra... Daj znaæ kiedy bêdzie ci potrzebna ³ódka. Ale nie przyprowadzaj tu nikogo wiêcej, bo to przyci¹gnie za du¿o uwagi. Musisz siê tam udaæ w pojedynkê.}
-{251}{}{Teraz jej potrzebujê.}
+{210}{}{Wszystkiego. Nie prÃ³buj niczego zabawnego.}
+{211}{}{MoÅ¼esz wyraÅ¼aÄ‡ siÄ™ jaÅ›niej?}
+{220}{}{Nie. A teraz cofnij siÄ™, przybÅ‚Ä™do.}
+{221}{}{Dobra. CzeÅ›Ä‡.}
+{222}{}{Nikt nie bÄ™dzie mi mÃ³wiÅ‚ co mam robiÄ‡. JesteÅ› cholernym trupem!}
+{230}{}{A ja potrzebuje ciÄ™ spÅ‚awiÄ‡. Nie masz pozwolenia na uÅ¼ycie motorÃ³wki, cholera, jesteÅ› lao wai, a nie Shi.}
+{231}{}{SÅ‚uchaj, jestem w naprawdÄ™ trudnej sytuacji. JeÅ›li nie pozwolisz mi wziÄ…Ä‡ motorÃ³wki, caÅ‚e moje plemiÄ™ zginie.
+ W tej chwili, sÄ… w szponach tych drani z Enclavy i liczÄ… na to, Å¼e ich uwolniÄ™. Ale Å¼eby to zrobiÄ‡,
+ potrzebujÄ™ tej motorÃ³wki. JeÅ›li nie pozwolisz mi jej wziÄ…Ä‡, to dojdzie do walki i ktoÅ› z nas zginie. ProszÄ™, nie doprowadÅº do tego.}
+{232}{}{WÅ‚aÅ›ciwie, to Shi przyznali mi honorowe czÅ‚onkostwo. Zatrudnili mnie i doÅ‚Ä…czyli do zespoÅ‚u obsÅ‚ugi okrÄ™tu podwodnego, ze wzglÄ™du na moje doÅ›wiadczenie w... okrÄ™tologii. To moje hasÅ‚o...}
+{233}{}{Chyba nie wiesz kogo obraÅ¼asz. Czas umieraÄ‡, dupku.}
+{234}{}{Dobra, idÄ™... jeju, co za ludzie...}
+{240}{}{[Patrzy na ciebie przez dÅ‚uÅ¼szÄ… chwilÄ™, potem wzdycha.] PosÅ‚uchaj, nikt nie wejdzie na tÄ… Å‚Ã³dÅº bez podania wÅ‚aÅ›ciwego hasÅ‚a. No wiesz, takiego jakiego jakie wÅ‚aÅ›nie od ciebie usÅ‚yszaÅ‚em. [Mamrocze.] Oberwie mi siÄ™ za to od Kena Lee...}
+{241}{}{DziÄ™kujÄ™, przyjacielu. I nie martw siÄ™, nikomu o tym nie powiem.}
+{250}{}{Mam takÄ… nadziejÄ™, teÅ¼ dla twojego dobra... Daj znaÄ‡ kiedy bÄ™dzie ci potrzebna Å‚Ã³dka. Ale nie przyprowadzaj tu nikogo wiÄ™cej, bo to przyciÄ…gnie za duÅ¼o uwagi. Musisz siÄ™ tam udaÄ‡ w pojedynkÄ™.}
+{251}{}{Teraz jej potrzebujÄ™.}
 {252}{}{Nie teraz.}
-{260}{}{[Stra¿nik s³ucha has³a i przytakuje.] Chyba naprawdê jesteœ technikiem. Hmm, Shi musz¹ byæ naprawdê zdesperowani skoro przyjmuj¹ obcych... W ka¿dym razie, jesteœ za wczeœnie. Nie powiedzieli ci, ¿e ekipa techników nie opuszcza portu przed pó³noc¹? Jak chcesz mo¿esz poczekaæ na resztê techników tutaj.}
-{261}{}{Chêtnie i tak nie mam nic lepszego do roboty...}
-{262}{}{Wrócê póŸniej.}
-{270}{}{U¿yj polera i zejdŸ po linie cumowniczej do ³ódki. Ale nie grzeb siê tam, nie chcê ¿adnych k³opotów.}
+{260}{}{[StraÅ¼nik sÅ‚ucha hasÅ‚a i przytakuje.] Chyba naprawdÄ™ jesteÅ› technikiem. Hmm, Shi muszÄ… byÄ‡ naprawdÄ™ zdesperowani skoro przyjmujÄ… obcych... W kaÅ¼dym razie, jesteÅ› za wczeÅ›nie. Nie powiedzieli ci, Å¼e ekipa technikÃ³w nie opuszcza portu przed pÃ³Å‚nocÄ…? Jak chcesz moÅ¼esz poczekaÄ‡ na resztÄ™ technikÃ³w tutaj.}
+{261}{}{ChÄ™tnie i tak nie mam nic lepszego do roboty...}
+{262}{}{WrÃ³cÄ™ pÃ³Åºniej.}
+{270}{}{UÅ¼yj polera i zejdÅº po linie cumowniczej do Å‚Ã³dki. Ale nie grzeb siÄ™ tam, nie chcÄ™ Å¼adnych kÅ‚opotÃ³w.}
 {271}{}{Rozumiem. Na razie.}
 {272}{}{Rozumiem. Do zobaczenia.}
-{280}{}{Chcesz wreszcie do³¹czyæ techników?}
-{281}{}{Tak, czas ruszaæ.}
+{280}{}{Chcesz wreszcie doÅ‚Ä…czyÄ‡ technikÃ³w?}
+{281}{}{Tak, czas ruszaÄ‡.}
 {282}{}{Nie, jeszcze nie.}
-{290}{}{Nie widzisz, ¿e jestem zajêty?}
-{300}{}{Ja jechaæ metalowa rybia-ryba?}
-{310}{}{[Patrz¹c na ciebie jak na najg³upsze stworzenie jakie móg³by sobie wyobraziæ, powoli, krêci g³ow¹.] Ty nie jedziesz metalow¹ rybi¹-ryb¹. Ty idziesz. Ty idziesz, albo ja strzelam. Rozumiesz?}
+{290}{}{Nie widzisz, Å¼e jestem zajÄ™ty?}
+{300}{}{Ja jechaÄ‡ metalowa rybia-ryba?}
+{310}{}{[PatrzÄ…c na ciebie jak na najgÅ‚upsze stworzenie jakie mÃ³gÅ‚by sobie wyobraziÄ‡, powoli, krÄ™ci gÅ‚owÄ….] Ty nie jedziesz metalowÄ… rybiÄ…-rybÄ…. Ty idziesz. Ty idziesz, albo ja strzelam. Rozumiesz?}
 {311}{}{Wporzo, pa pa!}
-{312}{}{Ty wredny pan. Ja rozgnieœæ wredny pan!}
-{500}{}{Udaje ci siê uzyskaæ dostêp do ³odzi bez rozlewu krwi.}
+{312}{}{Ty wredny pan. Ja rozgnieÅ›Ä‡ wredny pan!}
+{500}{}{Udaje ci siÄ™ uzyskaÄ‡ dostÄ™p do Å‚odzi bez rozlewu krwi.}

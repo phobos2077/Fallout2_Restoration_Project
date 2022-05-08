@@ -1,1 +1,1 @@
-{100}{}{Na mapie zaznaczono jakiú obÛz NajeüdücÛw na wschodzie. Kopiujesz jego po≥oøenie do Pip-Boya.}
+{100}{}{Na mapie zaznaczono jaki≈õ ob√≥z Naje≈∫d≈∫c√≥w na wschodzie. Kopiujesz jego po≈Ço≈ºenie do Pip-Boya.}

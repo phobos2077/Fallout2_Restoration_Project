@@ -1,4 +1,4 @@
-{100}{}{Você vê uma porta.}
+{100}{}{VocÃª vÃª uma porta.}
 {101}{}{It looks very sturdy.}
 {102}{}{The door doesn't seem to budge.}
 {103}{}{(You notice a small hole in the door where sound seems to be coming from.) Hello?}

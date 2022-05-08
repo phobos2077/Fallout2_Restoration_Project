@@ -1,1 +1,1 @@
-{101}{}{O nome acima do túmulo se lê: "Mr. Christopher Winslow."}
+{101}{}{O nome acima do tÃºmulo se lÃª: "Mr. Christopher Winslow."}

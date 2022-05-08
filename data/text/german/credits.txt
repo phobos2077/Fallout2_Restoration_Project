@@ -11,7 +11,7 @@ Thomas French
 Chris Holland
 Dan Spitzley
 
-@Zusätzliche Programmierung
+@ZusÃ¤tzliche Programmierung
 Tim Cain
 John Price
 
@@ -24,17 +24,17 @@ Darren Monahan
 
 #KUNST
 
-@Haupt-Künstler
+@Haupt-KÃ¼nstler
 Gary Platner
 Tramell Ray Isaac
 
-@Künstler
+@KÃ¼nstler
 Robert Collier
 Jeff McAteer
 Brian Menze
 Scott Rodenhizer
 
-@Zusätzliche Künstler
+@ZusÃ¤tzliche KÃ¼nstler
 Aaron Brown
 Peter Kroko
 Michael Sean McCarthy
@@ -44,7 +44,7 @@ Justin Sweet
 Vance Kovacs
 Tim Donley
 
-@Interne Künstler
+@Interne KÃ¼nstler
 Charles M. Gregory
 Daniel Jacobs
 John Jacobs
@@ -82,7 +82,7 @@ John Deiley
 Scott Everts
 Jason G. Suinn
 
-@Zusätzliches Design
+@ZusÃ¤tzliches Design
 Robert Hertenstein 2
 Nick Kesting
 Fred Hatch
@@ -126,21 +126,21 @@ Jeremy Barnes
 @Internationaler Produkt Manager
 Tom Decker
 
-@Zusätzliche Übersetzungen/QS
+@ZusÃ¤tzliche Ãœbersetzungen/QS
 Michael "Balou" Esser ( Deutsch )
 Marina Bermon ( Franzoesisch )
 
 
-@Übersetzungen und Audio
+@Ãœbersetzungen und Audio
 SDL International, England
 Sound Produzenten: Vikki Hollings, Ben Jones 
 Sound Ingenieur: Linda Clinker
 Direktor: Stephane Cornicard
 
 
-#QUALITÄTSSICHERUNG
+#QUALITÃ„TSSICHERUNG
 
-@Qualitätssicherungsleiter
+@QualitÃ¤tssicherungsleiter
 Chad Allison
 
 @QS-Management
@@ -185,7 +185,7 @@ Bill Delk
 Tom Quast
 Steve Cabiness
 
-@Kompatibilitätstechniker
+@KompatibilitÃ¤tstechniker
 Derek Gibbs
 John Parker
 Ed Robles
@@ -206,10 +206,10 @@ Charles Deenen
 
 @Mixed in Dolby [TM] Surround in den Interplay Audio Studios
 
-@Verantwortlich für Audio 
+@Verantwortlich fÃ¼r Audio 
 Gloria Soto
 
-@Zusätzliches Sound Design
+@ZusÃ¤tzliches Sound Design
 Larry Peacock
 Weddington
 EFX
@@ -218,7 +218,7 @@ Charles Deenen
 
 @Musik
 Mark Morgan
-@für
+@fÃ¼r
 Four Bars Intertainment
 @und
 Rick Jackson
@@ -248,10 +248,10 @@ E. Redman
 @Ausbildungsoffizier
 
 A. Andris
-@Tor Wächter
+@Tor WÃ¤chter
 
 B. Kahn
-@Die Ältere
+@Die Ã„ltere
 
 C. Contes
 @Tandi
@@ -266,11 +266,11 @@ S. Grothgar
 @Frank Horrigan
 
 T. Wesel
-@Der Präsident
+@Der PrÃ¤sident
 
 #VIDEO
 
-@Video Service ausgeführt durch
+@Video Service ausgefÃ¼hrt durch
 Dave Cravens
 Stephen Miller
 Bill Stoudt
@@ -286,7 +286,7 @@ Paul Sackman
 Mike Markin
 Greg Peterson
 
-@Zusätzlicher Marketing Manager
+@ZusÃ¤tzlicher Marketing Manager
 Greg Bauman
 
 @PR Manager
@@ -318,7 +318,7 @@ Paul Naftalis
 @des Copyright Inhabers erfolgen.
 
 
-@Dankeschön an:
+@DankeschÃ¶n an:
 @(Dave H.) The Unwashed Villagers, the Dyer Family,
 @Jamba Juice, The Tick, Southpark;  (Chris A.) my "pal,"
 @Thuy Dang, Eileen Suh and Ma and Pa Avellone;  (t.ray)
@@ -329,10 +329,10 @@ Paul Naftalis
 @you were an inspiration all my life.  I miss you
 @always."
 
-@Ein SuperDuper Dankeschön an:
+@Ein SuperDuper DankeschÃ¶n an:
 @Die Mitglieder der Fallout und Fallout 2 Nachrichten Bretter (BBS).
-@Vielen Dank für eure Kommentare, Anregungen und vieles mehr!
-@Dem Interplay Video Raum, für seine unerschöpfliche Arbeit
+@Vielen Dank fÃ¼r eure Kommentare, Anregungen und vieles mehr!
+@Dem Interplay Video Raum, fÃ¼r seine unerschÃ¶pfliche Arbeit
 @an vordester Front!
 
 @Fallout 2 ist ein Produkt von Interplay Productions,
@@ -341,7 +341,7 @@ Paul Naftalis
 
 
 @Folgende Personen haben direkt oder indirekt an der 
-@Restoration Project Übersetzung (RPÜ) gearbeitet:
+@Restoration Project Ãœbersetzung (RPÃœ) gearbeitet:
 @(die Namen sind in alphabetischer Reihenfolge)
 
 @Balthasar
@@ -382,7 +382,7 @@ Paul Naftalis
 
 
 
-@Die Restoration Project Übersetzung basiert auf den 
+@Die Restoration Project Ãœbersetzung basiert auf den 
 @Vault13.de Sprachpatch. Folgende Personen arbeiteten 
 @an diesem Patch:
 
@@ -408,7 +408,7 @@ Paul Naftalis
 
 
 
-@Okay, wenn du wirklich mußt...
+@Okay, wenn du wirklich muÃŸt...
 
 
 
@@ -481,4 +481,4 @@ Paul Naftalis
 
 
 
-@Ha ha! Viel Spaß noch...
+@Ha ha! Viel SpaÃŸ noch...

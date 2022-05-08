@@ -1,7 +1,7 @@
-{100}{}{O terminal está off-line.}
-{101}{}{Inserindo código 3... P... C... F... 1...6.}
+{100}{}{O terminal estÃ¡ off-line.}
+{101}{}{Inserindo cÃ³digo 3... P... C... F... 1...6.}
 {102}{}{*Beep*}
-{103}{}{Dispenser médico de emergência ativado.}
+{103}{}{Dispenser mÃ©dico de emergÃªncia ativado.}
 {104}{}{*Ker-klunk*}
 {105}{}{Por favor, remova os stimpaks da bandeja inferior.}
 {106}{}{Eu tenho 2 stims e um superstim.}

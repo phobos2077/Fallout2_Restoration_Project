@@ -1,1 +1,1 @@
-{100}{}{Odkrywasz ogrodzony murem oœrodek, wygl¹da na od dawna opuszczony. Miêso¿erna roœlinnoœæ zarasta jego zniszczon¹ ziemiê.}
+{100}{}{Odkrywasz ogrodzony murem oÅ›rodek, wyglÄ…da na od dawna opuszczony. MiÄ™soÅ¼erna roÅ›linnoÅ›Ä‡ zarasta jego zniszczonÄ… ziemiÄ™.}

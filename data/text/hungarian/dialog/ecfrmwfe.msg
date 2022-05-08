@@ -1,11 +1,11 @@
-{100}{}{Ez a házam.}
-{101}{}{Rohadt banditák!}
-{102}{}{Hagyj békén minket!}
-{103}{}{Gy?lölöm a banditákat!}
-{104}{}{Semmink sincs, amit ellophatnál.}
-{105}{}{Ne ölj meg!}
+{100}{}{Ez a hÃ¡zam.}
+{101}{}{Rohadt banditÃ¡k!}
+{102}{}{Hagyj bÃ©kÃ©n minket!}
+{103}{}{Gy?lÃ¶lÃ¶m a banditÃ¡kat!}
+{104}{}{Semmink sincs, amit ellophatnÃ¡l.}
+{105}{}{Ne Ã¶lj meg!}
 {106}{}{Elegem van!}
-{107}{}{Vegyél el bármit, amit akarsz!}
-{108}{}{Kérlek, ne ölj meg!}
-{109}{}{Amúgy is utáltam már a gazdálkodást.}
-{110}{}{Kérlek, ne gyújtsd fel a házat!}
+{107}{}{VegyÃ©l el bÃ¡rmit, amit akarsz!}
+{108}{}{KÃ©rlek, ne Ã¶lj meg!}
+{109}{}{AmÃºgy is utÃ¡ltam mÃ¡r a gazdÃ¡lkodÃ¡st.}
+{110}{}{KÃ©rlek, ne gyÃºjtsd fel a hÃ¡zat!}

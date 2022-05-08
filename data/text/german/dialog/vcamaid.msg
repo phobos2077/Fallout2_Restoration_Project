@@ -1,8 +1,8 @@
-{100}{}{Du siehst einen Bürger.}
-{101}{}{Du siehst den Hilfsarbeiter des Büros für Annehmlichkeiten.}
+{100}{}{Du siehst einen BÃ¼rger.}
+{101}{}{Du siehst den Hilfsarbeiter des BÃ¼ros fÃ¼r Annehmlichkeiten.}
 {102}{}{Sprich mit Randal, wenn du Hilfe brauchst.}
-{103}{}{Hier geben wir Waren für die Bürger aus.}
-{104}{}{Rühr das Zeug nicht an, wenn du keine Erlaubnis hast.}
+{103}{}{Hier geben wir Waren fÃ¼r die BÃ¼rger aus.}
+{104}{}{RÃ¼hr das Zeug nicht an, wenn du keine Erlaubnis hast.}
 {105}{}{Arbeit ist Arbeit.}
 {106}{}{Randal kann dir mit allem helfen, was du brauchst.}
 {107}{}{Die Maschinen dieser Vault stellen eine Menge von diesem Zeug her.}

@@ -1,46 +1,46 @@
 {100}{}{Ves a un guardia.}
-{150}{}{El guardia está vigilando la vieja iglesia.}
+{150}{}{El guardia estÃ¡ vigilando la vieja iglesia.}
 {151}{}{[HABLAR]}
-{152}{}{¡Cómo te atreves a aparecer otra vez por aquí!}
+{152}{}{Â¡CÃ³mo te atreves a aparecer otra vez por aquÃ­!}
 {153}{}{[HECHO]}
-{154}{}{¡Eh! Nadie entra por la noche en el almacén de la familia Wright!}
-{155}{}{Pero... el mismo señor Wright me mandó por un encargo. ¿No lo sabes? es una lástima.}
-{156}{}{Volveré mañana.}
-{157}{}{Necesito entrar ahí.}
-{158}{}{[Mirándote con nerviosismo] Lo siento... no te conozco. ¿Tienes autorización?}
-{159}{}{¡Por favor! ¿Eres capaz de leer?}
+{154}{}{Â¡Eh! Nadie entra por la noche en el almacÃ©n de la familia Wright!}
+{155}{}{Pero... el mismo seÃ±or Wright me mandÃ³ por un encargo. Â¿No lo sabes? es una lÃ¡stima.}
+{156}{}{VolverÃ© maÃ±ana.}
+{157}{}{Necesito entrar ahÃ­.}
+{158}{}{[MirÃ¡ndote con nerviosismo] Lo siento... no te conozco. Â¿Tienes autorizaciÃ³n?}
+{159}{}{Â¡Por favor! Â¿Eres capaz de leer?}
 {160}{}{No, no me dio ninguna.}
-{161}{}{Me la deje en mi puesto de guardia. Iré a buscarla.}
-{162}{}{No puedes entrar sin autorización.}
-{163}{}{¡Aquí está mi autorización! ¡Atacad!}
-{164}{}{Volveré.}
+{161}{}{Me la deje en mi puesto de guardia. IrÃ© a buscarla.}
+{162}{}{No puedes entrar sin autorizaciÃ³n.}
+{163}{}{Â¡AquÃ­ estÃ¡ mi autorizaciÃ³n! Â¡Atacad!}
+{164}{}{VolverÃ©.}
 {165}{}{[Avergonzado] No... em... bueno, entra...}
 {166}{}{Gracias.}
-{167}{}{Ésto me gusta más.}
-{168}{}{¿Qué es lo que queréis?}
+{167}{}{Ã‰sto me gusta mÃ¡s.}
+{168}{}{Â¿QuÃ© es lo que querÃ©is?}
 {169}{}{Tenemos que entrar dentro.}
-{170}{}{Yo mandado aquí por jefe.}
-{171}{}{Si hubieran mandado un grupo aquí, me hubiera enterado. ¡Largo!}
-{172}{}{¡Largo de aquí!}
+{170}{}{Yo mandado aquÃ­ por jefe.}
+{171}{}{Si hubieran mandado un grupo aquÃ­, me hubiera enterado. Â¡Largo!}
+{172}{}{Â¡Largo de aquÃ­!}
 {173}{}{Vale, vale; nos vamos.}
-{174}{}{¿Que te trae aquí?}
+{174}{}{Â¿Que te trae aquÃ­?}
 {175}{}{Necesito entrar dentro.}
-{176}{}{El Jefe me ha mandado por un asunto oficial. ¡Hazte a un lado!}
+{176}{}{El Jefe me ha mandado por un asunto oficial. Â¡Hazte a un lado!}
 {177}{}{Necesito arrancarte la cabeza.}
 {178}{}{Lo siento, me he equivocado de lugar.}
 {179}{}{Hola de nuevo. Puedes entrar dentro.}
 {180}{}{Gracias.}
-{181}{}{Eh, ¡apártate de la puta puerta!}
+{181}{}{Eh, Â¡apÃ¡rtate de la puta puerta!}
 {182}{}{No toques la puerta de nuevo a menos que quieras problemas.}
 {183}{}{Si te veo tocar esa puerta de nuevo, te meto una bala en la cabeza.}
-{184}{}{Eh, ¿qué crees que estás haciendo?}
+{184}{}{Eh, Â¿quÃ© crees que estÃ¡s haciendo?}
 {185}{}{Ya es suficiente.}
-{186}{}{Lo siento; puedo dejarte entrar, pero tus amigos tendrán que esperar afuera.}
-{187}{}{Sólo se le permite entrar a uno de vosotros a la vez.}
+{186}{}{Lo siento; puedo dejarte entrar, pero tus amigos tendrÃ¡n que esperar afuera.}
+{187}{}{SÃ³lo se le permite entrar a uno de vosotros a la vez.}
 {200}{}{Buenas tardes.}
 {201}{}{Buenas noches.}
-{202}{}{Buenos días.}
-{203}{}{Tan sólo acaba con lo que estés haciendo, gracias.}
-{250}{}{Sabes qué, amigo: ¡ya te he aguantado bastante mierda!}
-{251}{}{Sabes qué, puta: ¡ya te he aguantado bastante mierda!}
+{202}{}{Buenos dÃ­as.}
+{203}{}{Tan sÃ³lo acaba con lo que estÃ©s haciendo, gracias.}
+{250}{}{Sabes quÃ©, amigo: Â¡ya te he aguantado bastante mierda!}
+{251}{}{Sabes quÃ©, puta: Â¡ya te he aguantado bastante mierda!}
 {252}{}{[FIN]}

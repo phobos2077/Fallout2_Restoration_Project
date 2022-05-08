@@ -1,10 +1,10 @@
-{100}{}{Wygl¹da na jeszcze jednego faceta, który myœli wiêcej piêœciami ni¿ g³ow¹.}
+{100}{}{WyglÄ…da na jeszcze jednego faceta, ktÃ³ry myÅ›li wiÄ™cej piÄ™Å›ciami niÅ¼ gÅ‚owÄ….}
 {101}{}{Hmmm. Jeden z ochroniarzy Merka.}
-{102}{}{Wielki. Twardy. G³upi. Ochroniarz.}
-{103}{}{Odsun¹æ siê. Zachowaæ odleg³oœæ od Pana Merka.}
+{102}{}{Wielki. Twardy. GÅ‚upi. Ochroniarz.}
+{103}{}{OdsunÄ…Ä‡ siÄ™. ZachowaÄ‡ odlegÅ‚oÅ›Ä‡ od Pana Merka.}
 {104}{}{Uch...}
-{105}{}{Nie powinienem z nikim rozmawiaæ podczas s³u¿by.}
-{106}{}{Jak bêdziesz fikaæ, to ja tu siê tym zajmê. Kapewu?}
-{107}{}{Dlaczego nie wyniesiesz siê st¹d, co?}
-{108}{}{Nie drêcz mnie.}
-{109}{}{Pan Merk nie lubi, gdy mu siê przeszkadza.}
+{105}{}{Nie powinienem z nikim rozmawiaÄ‡ podczas sÅ‚uÅ¼by.}
+{106}{}{Jak bÄ™dziesz fikaÄ‡, to ja tu siÄ™ tym zajmÄ™. Kapewu?}
+{107}{}{Dlaczego nie wyniesiesz siÄ™ stÄ…d, co?}
+{108}{}{Nie drÄ™cz mnie.}
+{109}{}{Pan Merk nie lubi, gdy mu siÄ™ przeszkadza.}

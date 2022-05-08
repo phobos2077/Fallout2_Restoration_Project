@@ -1,6 +1,6 @@
-{100}{}{Unerlaubte Zugriffsanforderungen. Tür verschlossen.}
-{101}{}{Zugang gewährt. Tür aufgeschlossen.}
-{102}{}{Die Tür ist längst aufgeschlossen.}
-{103}{}{Du siehst eine Tür zum Sicherheitstrakt.}
-{104}{}{Du siehst eine für den Sicherheitstrakt verstärkte Tür.}
+{100}{}{Unerlaubte Zugriffsanforderungen. TÃ¼r verschlossen.}
+{101}{}{Zugang gewÃ¤hrt. TÃ¼r aufgeschlossen.}
+{102}{}{Die TÃ¼r ist lÃ¤ngst aufgeschlossen.}
+{103}{}{Du siehst eine TÃ¼r zum Sicherheitstrakt.}
+{104}{}{Du siehst eine fÃ¼r den Sicherheitstrakt verstÃ¤rkte TÃ¼r.}
 {200}{}{Hier gibt es kein Schloss zum knacken.}

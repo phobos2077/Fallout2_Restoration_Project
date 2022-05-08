@@ -1,8 +1,8 @@
-{100}{}{Willkommen in New Reno, der größten Kleinstadt der Welt. Feuer in öffentlichen Papierkörben und Neonschilder tauchen die Stadt in einen höllischen Glanz.}
-{101}{}{Vor dir befindet sich eine düstere Ebene voller Gräber. Blutige Pfähle mit menschlichen Überresten ragen aus dem Boden.}
-{102}{}{Es sieht aus wie eine alte elektrische Ladestation aus der Vorkriegszeit. Ein Autofriedhof umgibt die Gebäude.}
-{103}{}{Du hast die Ställe erreicht. Ein neuer Kettenzaun umgibt die beiden Farmeingänge.}
-{150}{}{[Zurück]}
+{100}{}{Willkommen in New Reno, der grÃ¶ÃŸten Kleinstadt der Welt. Feuer in Ã¶ffentlichen PapierkÃ¶rben und Neonschilder tauchen die Stadt in einen hÃ¶llischen Glanz.}
+{101}{}{Vor dir befindet sich eine dÃ¼stere Ebene voller GrÃ¤ber. Blutige PfÃ¤hle mit menschlichen Ãœberresten ragen aus dem Boden.}
+{102}{}{Es sieht aus wie eine alte elektrische Ladestation aus der Vorkriegszeit. Ein Autofriedhof umgibt die GebÃ¤ude.}
+{103}{}{Du hast die StÃ¤lle erreicht. Ein neuer Kettenzaun umgibt die beiden FarmeingÃ¤nge.}
+{150}{}{[ZurÃ¼ck]}
 {151}{}{[Mehr]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
@@ -35,8 +35,8 @@
 {320}{}{Zweimal}
 {321}{}{Romeo}
 {322}{}{Vinnie}
-{323}{}{Krähe}
-{324}{}{Dämpfer}
+{323}{}{KrÃ¤he}
+{324}{}{DÃ¤mpfer}
 {325}{}{Hammer}
 {326}{}{Schlagring}
 {327}{}{Beuger}
@@ -75,9 +75,9 @@
 {360}{}{Valentino}
 {361}{}{Sargmacher}
 {362}{}{Little Joe}
-{363}{}{Schneekönigin}
+{363}{}{SchneekÃ¶nigin}
 {364}{}{Switch}
-{365}{}{Kröten}
+{365}{}{KrÃ¶ten}
 {366}{}{Chips}
 {367}{}{Lucky}
 {368}{}{Heiliger}
@@ -90,29 +90,29 @@
 {375}{}{Tommy die Knarre}
 {376}{}{Crazy Jane}
 {377}{}{Witwe}
-{378}{}{Müllmann}
+{378}{}{MÃ¼llmann}
 {379}{}{Neun-Zoll-Nick}
 {380}{}{Regenmacher}
 {381}{}{King}
 {382}{}{Killer}
 {383}{}{Santana}
 {384}{}{Joey}
-{385}{}{Cäsar}
+{385}{}{CÃ¤sar}
 {386}{}{Micky}
 {387}{}{Drifter}
 {388}{}{Killer}
-{389}{}{Schlächter}
+{389}{}{SchlÃ¤chter}
 {390}{}{Red}
 {391}{}{Ruby}
 {392}{}{X}
 {393}{}{}
 {400}{}{}
 {401}{}{Jabby}
-{402}{}{Windmühlen-Jenny}
+{402}{}{WindmÃ¼hlen-Jenny}
 {403}{}{Kolben}
 {404}{}{Hurrikan}
 {405}{}{Big Bad Mutie}
-{406}{}{Auserwähltes Wesen}
+{406}{}{AuserwÃ¤hltes Wesen}
 {407}{}{Rasender Bulle}
 {408}{}{LaMotta}
 {409}{}{Hammer}
@@ -124,13 +124,13 @@
 {415}{}{Machoman}
 {416}{}{Eiserne Jungfrau}
 {417}{}{Ripper}
-{418}{}{Walküre}
+{418}{}{WalkÃ¼re}
 {419}{}{Hook}
 {420}{}{Klapperschlange}
 {421}{}{Bad Grrrl}
 {422}{}{Eisenkiefer}
 {423}{}{Felswand}
-{424}{}{Kettensäge}
+{424}{}{KettensÃ¤ge}
 {425}{}{Helen Wheels}
 {426}{}{Tommy Gunn}
 {427}{}{Schwarze Witwe}
@@ -172,7 +172,7 @@
 {463}{}{Streuner}
 {464}{}{Bad Mojo}
 {465}{}{Panzer}
-{466}{}{Schläger}
+{466}{}{SchlÃ¤ger}
 {467}{}{Mynx}
 {468}{}{Skorpion}
 {469}{}{Punchy}
@@ -217,7 +217,7 @@
 {527}{}{Johnson Long}
 {528}{}{Felix Strull}
 {529}{}{Buck Fitch}
-{530}{}{Arnold Schwellkörper}
+{530}{}{Arnold SchwellkÃ¶rper}
 {531}{}{Doug Holes}
 {532}{}{Freddy Barkwood}
 {533}{}{}
@@ -256,7 +256,7 @@
 {566}{}{Maria Schluckts}
 {567}{}{Lady J}
 {568}{}{Glenda Glenn}
-{569}{}{Königin Elisabeth}
+{569}{}{KÃ¶nigin Elisabeth}
 {570}{}{Jenna Jammison}
 {571}{}{Bunny LaJoya}
 {572}{}{Madame Butterfly}
@@ -310,18 +310,18 @@
 {750}{}{Joqq}
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
-{753}{}{Der Beißer}
-{1000}{}{Jules führt dich in das Straßengewirr der verfallenen Häuser um New Reno. Du glaubst nicht, dass du diesen Ort allein gefunden hättest. Kurz nach eurer Ankunft verschwindet Jules.}
-{1100}{}{Der Weg führt in das Straßengewirr der verfallenen Häuser um New Reno.}
-{1200}{}{Du findest eine kleine Geldschatulle aus Metall. Du hättest sie nicht gefunden, wenn du nicht danach gesucht hättest.}
-{1300}{}{Cody führt dich in das Straßengewirr der verfallenen Häuser um New Reno und verschwindet dann auf demselben Weg. Du glaubst nicht, dass du diesen Ort allein gefunden hättest.}
+{753}{}{Der BeiÃŸer}
+{1000}{}{Jules fÃ¼hrt dich in das StraÃŸengewirr der verfallenen HÃ¤user um New Reno. Du glaubst nicht, dass du diesen Ort allein gefunden hÃ¤ttest. Kurz nach eurer Ankunft verschwindet Jules.}
+{1100}{}{Der Weg fÃ¼hrt in das StraÃŸengewirr der verfallenen HÃ¤user um New Reno.}
+{1200}{}{Du findest eine kleine Geldschatulle aus Metall. Du hÃ¤ttest sie nicht gefunden, wenn du nicht danach gesucht hÃ¤ttest.}
+{1300}{}{Cody fÃ¼hrt dich in das StraÃŸengewirr der verfallenen HÃ¤user um New Reno und verschwindet dann auf demselben Weg. Du glaubst nicht, dass du diesen Ort allein gefunden hÃ¤ttest.}
 {1400}{}{Du hast deinen ersten Gegner besiegt.}
 {1401}{}{Du hast deinen zweiten Gegner besiegt.}
 {1402}{}{Du hast deinen dritten Gegner besiegt.}
-{1403}{}{Du hast den Beißer besiegt!}
+{1403}{}{Du hast den BeiÃŸer besiegt!}
 {1404}{}{Du bist jetzt der Schwergewichts-Champion von New Reno.}
 {1405}{}{Du hast deinen letzten Herausforderer geschlagen!}
 {1500}{}{Du hast Mrs. Wright dazu gebracht, die Brennerei zu vernichten.}
 {1550}{}{Du hast die geheime Transaktion beobachtet.}
-{1600}{}{Im Eifer des Gefechts reißt der Beißer dir ein Ohr ab.}
-{1700}{}{Wutentbrannt reißt du dem Beißer ein Ohr ab.}
+{1600}{}{Im Eifer des Gefechts reiÃŸt der BeiÃŸer dir ein Ohr ab.}
+{1700}{}{Wutentbrannt reiÃŸt du dem BeiÃŸer ein Ohr ab.}

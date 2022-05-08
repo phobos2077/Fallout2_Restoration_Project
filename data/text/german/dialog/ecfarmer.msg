@@ -1,15 +1,15 @@
-{100}{}{Du siehst einen schlanken, sonnengebräunten Mann.}
+{100}{}{Du siehst einen schlanken, sonnengebrÃ¤unten Mann.}
 {101}{}{Du siehst eine Farmerin.}
-{102}{}{Du bemerkst, dass er die typische Bräune eines Farmers hat.}
-{103}{}{Du bist genau im richtigen Augenblick angekommen. Wenn du nicht genau dann gekommen wärst...Naja, sind wir mal dankbar, dass du zum richtigen Zeitpunkt gekommen bist. Wir haben nicht viel, aber ich möchte, dass du dies als Belohnung für deine Hilfe annimmst. [Er gibt dir etwas.]}
+{102}{}{Du bemerkst, dass er die typische BrÃ¤une eines Farmers hat.}
+{103}{}{Du bist genau im richtigen Augenblick angekommen. Wenn du nicht genau dann gekommen wÃ¤rst...Naja, sind wir mal dankbar, dass du zum richtigen Zeitpunkt gekommen bist. Wir haben nicht viel, aber ich mÃ¶chte, dass du dies als Belohnung fÃ¼r deine Hilfe annimmst. [Er gibt dir etwas.]}
 {104}{}{Danke.}
 {105}{}{Ups!}
-{106}{}{Nochmals danke für deine Hilfe.}
+{106}{}{Nochmals danke fÃ¼r deine Hilfe.}
 {107}{}{}
 {108}{}{}
-{109}{}{Behalt deine Hände dort, wo ich sie sehn kann. Wir wurden in letzter Zeit öfter von
- Banditen heimgesucht und du könntest auch einer sein. Was willste?}
-{110}{}{Wollt nur Vorräte eintauschen.}
+{109}{}{Behalt deine HÃ¤nde dort, wo ich sie sehn kann. Wir wurden in letzter Zeit Ã¶fter von
+ Banditen heimgesucht und du kÃ¶nntest auch einer sein. Was willste?}
+{110}{}{Wollt nur VorrÃ¤te eintauschen.}
 {111}{}{Bin auf der Durchreise. Bin schon weg.}
 {112}{}{Agh.}
 {113}{}{Das ist ja wohl nichts Schlimmes. Hier ist, was ich anzubieten hab.}
@@ -18,9 +18,9 @@
 {116}{}{[Tauschen]}
 {117}{}{Ich sagte, raus hier!}
 {118}{}{}
-{119}{}{[Er beruhigt sich ein bisschen.] Du bist zu dumm, du kannst kein Bandit sein. Brauchste Vorräte?}
+{119}{}{[Er beruhigt sich ein bisschen.] Du bist zu dumm, du kannst kein Bandit sein. Brauchste VorrÃ¤te?}
 {120}{}{Aha.}
-{121}{}{Äh äh.}
+{121}{}{Ã„h Ã¤h.}
 {122}{}{Na, dann haben wir nichts zu bereden. Mach dich auf die Socken.}
 {123}{}{[Ende]}
 {124}{}{Runter von meiner Farm!}
@@ -36,6 +36,6 @@
 {134}{}{Die Landwirtschaft hat mir eh nie gefallen.}
 {135}{}{Ich komme wieder.}
 {136}{}{Nimm meine Frau. Bitte...}
-{200}{}{Du siehst eine schlanke, sonnengebräunte Frau.}
+{200}{}{Du siehst eine schlanke, sonnengebrÃ¤unte Frau.}
 {201}{}{Du siehst eine Farmerin.}
-{202}{}{Du bemerkst, dass sie die typische Bräune einer Farmerin hat.}
+{202}{}{Du bemerkst, dass sie die typische BrÃ¤une einer Farmerin hat.}

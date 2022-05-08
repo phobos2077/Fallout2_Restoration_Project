@@ -1,240 +1,240 @@
-{101}{}{Megfigyelés}
-{102}{}{Gyorsabb pusztakezes támadás}
-{103}{}{Nagyobb közelharci sebzés}
-{104}{}{Extra mozgás}
-{105}{}{Nagyobb távolsági sebzés}
-{106}{}{Gyorsabb lövés}
-{107}{}{Jobb reakció}
-{108}{}{Gyorsabb gyógyulás}
-{109}{}{Több kritikus találat}
-{110}{}{Éjjellátó}
-{111}{}{Jelenlét}
-{112}{}{Sugárzás ellenállás}
-{113}{}{Szívósság}
-{114}{}{Er?s hát}
-{115}{}{Céllöv?}
-{116}{}{Csendes futás}
-{117}{}{Túlél?}
-{118}{}{Ügyes keresked?}
+{101}{}{MegfigyelÃ©s}
+{102}{}{Gyorsabb pusztakezes tÃ¡madÃ¡s}
+{103}{}{Nagyobb kÃ¶zelharci sebzÃ©s}
+{104}{}{Extra mozgÃ¡s}
+{105}{}{Nagyobb tÃ¡volsÃ¡gi sebzÃ©s}
+{106}{}{Gyorsabb lÃ¶vÃ©s}
+{107}{}{Jobb reakciÃ³}
+{108}{}{Gyorsabb gyÃ³gyulÃ¡s}
+{109}{}{TÃ¶bb kritikus talÃ¡lat}
+{110}{}{Ã‰jjellÃ¡tÃ³}
+{111}{}{JelenlÃ©t}
+{112}{}{SugÃ¡rzÃ¡s ellenÃ¡llÃ¡s}
+{113}{}{SzÃ­vÃ³ssÃ¡g}
+{114}{}{Er?s hÃ¡t}
+{115}{}{CÃ©llÃ¶v?}
+{116}{}{Csendes futÃ¡s}
+{117}{}{TÃºlÃ©l?}
+{118}{}{Ãœgyes keresked?}
 {119}{}{M?velt}
-{120}{}{Gyógyító}
+{120}{}{GyÃ³gyÃ­tÃ³}
 {121}{}{Kincskeres?}
-{122}{}{Jobb kritikus sebzés}
-{123}{}{Empátia}
-{124}{}{Pusztító}
-{125}{}{Mesterlövész}
-{126}{}{Csendes halál}
-{127}{}{Akció Kapitány}
-{128}{}{Mentális védekezés}
-{129}{}{Életadó}
-{130}{}{Cselezés}
-{131}{}{Kígyóev?}
+{122}{}{Jobb kritikus sebzÃ©s}
+{123}{}{EmpÃ¡tia}
+{124}{}{PusztÃ­tÃ³}
+{125}{}{MesterlÃ¶vÃ©sz}
+{126}{}{Csendes halÃ¡l}
+{127}{}{AkciÃ³ KapitÃ¡ny}
+{128}{}{MentÃ¡lis vÃ©dekezÃ©s}
+{129}{}{Ã‰letadÃ³}
+{130}{}{CselezÃ©s}
+{131}{}{KÃ­gyÃ³ev?}
 {132}{}{Ezermester}
 {133}{}{Medikus}
 {134}{}{Mester-tolvaj}
-{135}{}{Szónok}
-{136}{}{Nagy Dobás!}
+{135}{}{SzÃ³nok}
+{136}{}{Nagy DobÃ¡s!}
 {137}{}{ERROR -- UNIMPED}
 {138}{}{Zsebtolvaj}
 {139}{}{Szellem}
-{140}{}{Személyi kultusz}
+{140}{}{SzemÃ©lyi kultusz}
 {141}{}{L?szerlel?}
 {142}{}{Felfedez?}
 {143}{}{Hippi}
 {144}{}{Nyomkeres?}
-{145}{}{Állatbarát}
-{146}{}{Felderít?}
+{145}{}{ÃllatbarÃ¡t}
+{146}{}{FelderÃ­t?}
 {147}{}{Titokzatos idegen}
-{148}{}{Cserkész}
+{148}{}{CserkÃ©sz}
 {149}{}{Gyors zsebek}
-{150}{}{Jó társalgó}
-{151}{}{Gyorsan tanuló}
-{152}{}{Új speciális képzettség!}
-{153}{}{Mutáció!}
+{150}{}{JÃ³ tÃ¡rsalgÃ³}
+{151}{}{Gyorsan tanulÃ³}
+{152}{}{Ãšj speciÃ¡lis kÃ©pzettsÃ©g!}
+{153}{}{MutÃ¡ciÃ³!}
 {154}{}{Nuka-Cola Addiction}
 {155}{}{Buffout Addiction}
 {156}{}{Mentats Addiction}
 {157}{}{Psycho Addiction}
 {158}{}{Radaway Addiction}
-{159}{}{Nagy távolságú fegyver}
+{159}{}{Nagy tÃ¡volsÃ¡gÃº fegyver}
 {160}{}{Pontos fegyver}
-{161}{}{Páncéltör? fegyver}
-{162}{}{Fegyver-visszarúgás}
-{163}{}{Er?páncél}
-{164}{}{Harci páncél}
-{165}{}{Távcsöves fegyver}
-{166}{}{Gyorsabb újratöltés}
-{167}{}{Éjjellátó fegyver}
-{168}{}{Tüzes fegyver}
-{169}{}{Fejlesztett páncél I}
-{170}{}{Fejlesztett páncél II}
+{161}{}{PÃ¡ncÃ©ltÃ¶r? fegyver}
+{162}{}{Fegyver-visszarÃºgÃ¡s}
+{163}{}{Er?pÃ¡ncÃ©l}
+{164}{}{Harci pÃ¡ncÃ©l}
+{165}{}{TÃ¡vcsÃ¶ves fegyver}
+{166}{}{Gyorsabb ÃºjratÃ¶ltÃ©s}
+{167}{}{Ã‰jjellÃ¡tÃ³ fegyver}
+{168}{}{TÃ¼zes fegyver}
+{169}{}{Fejlesztett pÃ¡ncÃ©l I}
+{170}{}{Fejlesztett pÃ¡ncÃ©l II}
 {171}{}{Jet Addiction}
 {172}{}{Tragic Addiction}
-{173}{}{Páncél karizma}
-{174}{}{Gekkónyúzó}
-{175}{}{Dermális páncél}
-{176}{}{Dermális páncél II.}
-{177}{}{Dermális F?nix páncél}
-{178}{}{Dermális F?nix páncél II.}
-{179}{}{Menedékvárosi véd?oltás}
-{180}{}{Adrenalin löket}
-{181}{}{Óvatos természet}
-{182}{}{Könyvmoly}
-{183}{}{Robbantási szakért?}
-{184}{}{Szerencsejátékos}
-{185}{}{Képességnövelés: Er?}
-{186}{}{Képességnövelés: Érzékelés}
-{187}{}{Képességnövelés: Kitartás}
-{188}{}{Képességnövelés: Karizma}
-{189}{}{Képességnövelés: Intelligencia}
-{190}{}{Képességnövelés: Ügyesség}
-{191}{}{Képességnövelés: Szerencse}
-{192}{}{Ártatlan}
-{193}{}{Itt és most!}
-{194}{}{Pusztakezes védekezés}
-{195}{}{Káma Szútra mester}
-{196}{}{Karmasugárzó}
-{197}{}{Könny?lépt?}
-{198}{}{Anatómus}
-{199}{}{Vonzó személyiség}
+{173}{}{PÃ¡ncÃ©l karizma}
+{174}{}{GekkÃ³nyÃºzÃ³}
+{175}{}{DermÃ¡lis pÃ¡ncÃ©l}
+{176}{}{DermÃ¡lis pÃ¡ncÃ©l II.}
+{177}{}{DermÃ¡lis F?nix pÃ¡ncÃ©l}
+{178}{}{DermÃ¡lis F?nix pÃ¡ncÃ©l II.}
+{179}{}{MenedÃ©kvÃ¡rosi vÃ©d?oltÃ¡s}
+{180}{}{Adrenalin lÃ¶ket}
+{181}{}{Ã“vatos termÃ©szet}
+{182}{}{KÃ¶nyvmoly}
+{183}{}{RobbantÃ¡si szakÃ©rt?}
+{184}{}{SzerencsejÃ¡tÃ©kos}
+{185}{}{KÃ©pessÃ©gnÃ¶velÃ©s: Er?}
+{186}{}{KÃ©pessÃ©gnÃ¶velÃ©s: Ã‰rzÃ©kelÃ©s}
+{187}{}{KÃ©pessÃ©gnÃ¶velÃ©s: KitartÃ¡s}
+{188}{}{KÃ©pessÃ©gnÃ¶velÃ©s: Karizma}
+{189}{}{KÃ©pessÃ©gnÃ¶velÃ©s: Intelligencia}
+{190}{}{KÃ©pessÃ©gnÃ¶velÃ©s: ÃœgyessÃ©g}
+{191}{}{KÃ©pessÃ©gnÃ¶velÃ©s: Szerencse}
+{192}{}{Ãrtatlan}
+{193}{}{Itt Ã©s most!}
+{194}{}{Pusztakezes vÃ©dekezÃ©s}
+{195}{}{KÃ¡ma SzÃºtra mester}
+{196}{}{KarmasugÃ¡rzÃ³}
+{197}{}{KÃ¶nny?lÃ©pt?}
+{198}{}{AnatÃ³mus}
+{199}{}{VonzÃ³ szemÃ©lyisÃ©g}
 {200}{}{Meggy?z?}
-{201}{}{Pakolóm?vész}
-{202}{}{Pirománia}
-{203}{}{Gyors talpraállás}
-{204}{}{Üzletember}
+{201}{}{PakolÃ³m?vÃ©sz}
+{202}{}{PiromÃ¡nia}
+{203}{}{Gyors talpraÃ¡llÃ¡s}
+{204}{}{Ãœzletember}
 {205}{}{Betonfej?}
 {206}{}{Tolvaj}
-{207}{}{Fegyverkezelés}
-{208}{}{Menedékvárosi képzés}
-{209}{}{Alkohol által megnövelt életer?}
-{210}{}{Alkohol által megnövelt életer? II}
-{211}{}{Alkohol által lecsökkent életer?}
-{212}{}{Alkohol által lecsökkent életer? II}
-{213}{}{Autodoki által megnövelt életer?}
-{214}{}{Autodoki által megnövelt életer? II}
-{215}{}{Autodoki által lecsökkent életer?}
-{216}{}{Autodoki által lecsökkent életer? II}
-{217}{}{Szakavatott ürülékkutató}
+{207}{}{FegyverkezelÃ©s}
+{208}{}{MenedÃ©kvÃ¡rosi kÃ©pzÃ©s}
+{209}{}{Alkohol Ã¡ltal megnÃ¶velt Ã©leter?}
+{210}{}{Alkohol Ã¡ltal megnÃ¶velt Ã©leter? II}
+{211}{}{Alkohol Ã¡ltal lecsÃ¶kkent Ã©leter?}
+{212}{}{Alkohol Ã¡ltal lecsÃ¶kkent Ã©leter? II}
+{213}{}{Autodoki Ã¡ltal megnÃ¶velt Ã©leter?}
+{214}{}{Autodoki Ã¡ltal megnÃ¶velt Ã©leter? II}
+{215}{}{Autodoki Ã¡ltal lecsÃ¶kkent Ã©leter?}
+{216}{}{Autodoki Ã¡ltal lecsÃ¶kkent Ã©leter? II}
+{217}{}{Szakavatott Ã¼rÃ¼lÃ©kkutatÃ³}
 {218}{}{Extra Fegyver}
 {219}{}{Balszerencse}
 {220}{}{Alcohol Addiction}
 {221}{}{Smoker}
-{1101}{}{A Megfigyeléssel minden lényr?l részletes információt kapsz, ha megvizsgálod ?ket. Láthatod, hogy pontosan hány életpontja van, és milyen fegyvert tart a kezében.}
+{1101}{}{A MegfigyelÃ©ssel minden lÃ©nyr?l rÃ©szletes informÃ¡ciÃ³t kapsz, ha megvizsgÃ¡lod ?ket. LÃ¡thatod, hogy pontosan hÃ¡ny Ã©letpontja van, Ã©s milyen fegyvert tart a kezÃ©ben.}
 {1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
-{1103}{}{Az ökölharcban szerzett jártasságod el?nyt jelent, mikor sebzel. E képesség minden szintjével +2 ponttal n? az Ökölharc és a Közelharci sebzésed.}
-{1104}{}{Az Extra Mozgás minden szintjéért +2 Akciópontot kapsz, amit csak mozgásra használhatsz fel, azaz két hexagonnal többet léphetsz körönként.}
-{1105}{}{A sok l?fegyverrel és egyéb távolsági fegyverrel való gyakorlás meghozta gyümölcsét. E képesség minden szintje +2 pont sebzést jelent távolsági fegyverekkel.}
-{1106}{}{Ez a képesség lehet?vé teszi, hogy gyorsabban húzd meg a ravaszt és mégis halálosan pontos maradj. Minden távolsági támadásod 1 Akcióponttal kevesebbe kerül.}
-{1107}{}{Gyorsabban reagálsz, mint az ellenfeleid, mivel ennek a képességnek minden szintje +2 pontot ad a Reakciódhoz.}
-{1108}{}{E képesség minden szintje 2-vel növeli a Regeneráció képességed, ezáltal gyorsabban gyógyulsz.}
-{1109}{}{Ezzel a képességgel több esélyed van kritikus találat bevitelére harcban. A képesség minden szintjével 5%-kal nagyobb az esélye, hogy kritikusat sebzel.}
-{1110}{}{Az éjjellátás képességével jobban látsz a sötétben. Más szóval 20%-kal csökken a sötétség szintje.}
-{1111}{}{Már az is figyelemfelkelt?, ha egyszer?en belépsz egy terembe. Az emberek veled kapcsolatos alapreakciója 10%-kal javul.}
-{1112}{}{Ellenállóbb vagy a sugárzással szemben. Ezen képesség minden szintje +15% Sugárzás ellenállást jelent neked.}
-{1113}{}{Szívós vagy, ezért kevesebbet sebz?dsz. +10% védelmet kapsz az általános sebzés ellenállásodra.}
-{1114}{}{Beceneved Öszvér. E képesség minden szintje után +50 font teherbírás a jutalmad.}
-{1115}{}{Tehetséges vagy távoli célpontok eltalálásában. Ez a képesség szintenként +2 pontot ad az Érzékelésedre a távolság-módosítók kiszámolásánál. Minden eddiginél könnyebb nagy távról ölni!}
-{1116}{}{Ezzel a képességgel gyorsan és csendesen tudsz mozogni. Képes vagy egyszerre futni és lopakodni. E képesség nélkül automatikusan abbahagyod a lopakodást, ha elkezdesz futni.}
-{1117}{}{A túlélés mestere vagy. Ez a képesség lehet?vé teszi, hogy a legnehezebb körülmények közt is életben maradj. +25%-ot kapsz a Túlélés képzettségedhez.}
-{1118}{}{Elsajátítottad a kereskedelem alapszemléletét: minél olcsóbban vásárolni. Ezzel a képességgel 25% árengedményt kapsz minden vásárláskor.}
-{1119}{}{E képesség minden szintje +2 képzettségi pontot jelent szintlépéskor. A képesség akkor a leghatásosabb, ha minél korábban felveszed.}
-{1120}{}{Ezzel a képességgel könnyebbé válik a gyógyítás. Minden szintjével 4-10 további életpontot gyógyítasz, mikor az Els?segély vagy az Orvos képzettségedet használod.}
-{1121}{}{Hajlamos vagy pénzt találni. A sivatagban több pénzt találsz a véletlenszer? események során.}
-{1122}{}{Kritikus sebzéseid sokkal pusztítóbbak. 20% bónuszt kapsz a kritikus sebzés táblázatán, ami biztosítja hogy többet sebezz. A kritikus találat esélyét nem befolyásolja.}
-{1123}{}{Tanulmányoztad az embereket, ezáltal jobban ismered a különböz? eseményekre mutatott érzelmi reakciójukat. Ezzel a képességgel látni fogod mások reakcióját, miközben beszélsz velük.}
-{1124}{}{A Pusztító köztünk jár! Pusztakezes harcban minden találatod kritikus találattá válik, elhozva ezzel a pusztítás és káosz korszakát.}
-{1125}{}{Elsajátítottad a l?fegyverek tökéletes kezelését. Ezzel a képességgel, ha dobsz egy sikeres Szerencse próbát, minden távolsági fegyverrel végrehajtott találatod kritikusat sebez.}
-{1126}{}{Ha lopózás közben egy lényt puszta kézzel és hátulról támadsz meg, sebzésed kétszer nagyobb lesz. A Csendes halál már csak ilyen képesség.}
-{1127}{}{Az Akció Kapitány minden szintje egy bónusz Akciópontot jelent a harcban, melyet bármire használhatsz.}
-{1128}{}{A Mentális védekezéssel kisz?rheted a külvilágból érkez? mentális zavarokat. Ezt vagy egy átutazó gurutól tanultad, vagy egy hosszú éjszaka során a kocsmában.}
-{1129}{}{Ezen képesség minden szintjével néggyel több életpontot kapsz szintlépéskor. Ez a Kitartás tulajdonságodtól függ? szintenként kapott életpontokhoz adódik hozzá.}
-{1130}{}{Ha birtoklod ezt a képességet, sokkal kisebb az esélye, hogy harc közben eltalálnak. 5-öt kapsz a Védelmi értékedhez, a viselt páncél VÉ-jén felül.}
-{1131}{}{Nyami! Íze, akár a csirkéé. A képesség minden szintjével 25%-ot kapsz a Méregellenállásodhoz.}
-{1132}{}{Ez a képesség egyszeri 10%-os bónuszt ad a Javítás és a Tudományok képzettségeidhez. Egy kis esti tanulás nem árthat senkinek, f?leg neked nem.}
-{1133}{}{A Medikus képesség egyszeri 10%-os bónuszt ad az Els?segély és az Orvos képzettségekhez. A gyógyító képzettségek hasznosak.}
-{1134}{}{A Mester-tolvaj járatos a lopásban és zárnyitásban. 15%-ot kapsz a Lopás és a Zárnyitás képzettségekhez. Ellopod a gazdagoktól, és odaadod... magadnak.}
-{1135}{}{Szónoknak lenni azt jelenti, hogy egyszeri 20%-os bónuszt kapsz a Beszéd képzettséghez.}
-{1136}{}{A Nagy dobás! képességgel kett?vel megn? az Er?d (maximum 10-ig), így messzebbre tudsz dobni, de csak a fegyver maximum távolságáig.}
+{1103}{}{Az Ã¶kÃ¶lharcban szerzett jÃ¡rtassÃ¡god el?nyt jelent, mikor sebzel. E kÃ©pessÃ©g minden szintjÃ©vel +2 ponttal n? az Ã–kÃ¶lharc Ã©s a KÃ¶zelharci sebzÃ©sed.}
+{1104}{}{Az Extra MozgÃ¡s minden szintjÃ©Ã©rt +2 AkciÃ³pontot kapsz, amit csak mozgÃ¡sra hasznÃ¡lhatsz fel, azaz kÃ©t hexagonnal tÃ¶bbet lÃ©phetsz kÃ¶rÃ¶nkÃ©nt.}
+{1105}{}{A sok l?fegyverrel Ã©s egyÃ©b tÃ¡volsÃ¡gi fegyverrel valÃ³ gyakorlÃ¡s meghozta gyÃ¼mÃ¶lcsÃ©t. E kÃ©pessÃ©g minden szintje +2 pont sebzÃ©st jelent tÃ¡volsÃ¡gi fegyverekkel.}
+{1106}{}{Ez a kÃ©pessÃ©g lehet?vÃ© teszi, hogy gyorsabban hÃºzd meg a ravaszt Ã©s mÃ©gis halÃ¡losan pontos maradj. Minden tÃ¡volsÃ¡gi tÃ¡madÃ¡sod 1 AkciÃ³ponttal kevesebbe kerÃ¼l.}
+{1107}{}{Gyorsabban reagÃ¡lsz, mint az ellenfeleid, mivel ennek a kÃ©pessÃ©gnek minden szintje +2 pontot ad a ReakciÃ³dhoz.}
+{1108}{}{E kÃ©pessÃ©g minden szintje 2-vel nÃ¶veli a RegenerÃ¡ciÃ³ kÃ©pessÃ©ged, ezÃ¡ltal gyorsabban gyÃ³gyulsz.}
+{1109}{}{Ezzel a kÃ©pessÃ©ggel tÃ¶bb esÃ©lyed van kritikus talÃ¡lat bevitelÃ©re harcban. A kÃ©pessÃ©g minden szintjÃ©vel 5%-kal nagyobb az esÃ©lye, hogy kritikusat sebzel.}
+{1110}{}{Az Ã©jjellÃ¡tÃ¡s kÃ©pessÃ©gÃ©vel jobban lÃ¡tsz a sÃ¶tÃ©tben. MÃ¡s szÃ³val 20%-kal csÃ¶kken a sÃ¶tÃ©tsÃ©g szintje.}
+{1111}{}{MÃ¡r az is figyelemfelkelt?, ha egyszer?en belÃ©psz egy terembe. Az emberek veled kapcsolatos alapreakciÃ³ja 10%-kal javul.}
+{1112}{}{EllenÃ¡llÃ³bb vagy a sugÃ¡rzÃ¡ssal szemben. Ezen kÃ©pessÃ©g minden szintje +15% SugÃ¡rzÃ¡s ellenÃ¡llÃ¡st jelent neked.}
+{1113}{}{SzÃ­vÃ³s vagy, ezÃ©rt kevesebbet sebz?dsz. +10% vÃ©delmet kapsz az Ã¡ltalÃ¡nos sebzÃ©s ellenÃ¡llÃ¡sodra.}
+{1114}{}{Beceneved Ã–szvÃ©r. E kÃ©pessÃ©g minden szintje utÃ¡n +50 font teherbÃ­rÃ¡s a jutalmad.}
+{1115}{}{TehetsÃ©ges vagy tÃ¡voli cÃ©lpontok eltalÃ¡lÃ¡sÃ¡ban. Ez a kÃ©pessÃ©g szintenkÃ©nt +2 pontot ad az Ã‰rzÃ©kelÃ©sedre a tÃ¡volsÃ¡g-mÃ³dosÃ­tÃ³k kiszÃ¡molÃ¡sÃ¡nÃ¡l. Minden eddiginÃ©l kÃ¶nnyebb nagy tÃ¡vrÃ³l Ã¶lni!}
+{1116}{}{Ezzel a kÃ©pessÃ©ggel gyorsan Ã©s csendesen tudsz mozogni. KÃ©pes vagy egyszerre futni Ã©s lopakodni. E kÃ©pessÃ©g nÃ©lkÃ¼l automatikusan abbahagyod a lopakodÃ¡st, ha elkezdesz futni.}
+{1117}{}{A tÃºlÃ©lÃ©s mestere vagy. Ez a kÃ©pessÃ©g lehet?vÃ© teszi, hogy a legnehezebb kÃ¶rÃ¼lmÃ©nyek kÃ¶zt is Ã©letben maradj. +25%-ot kapsz a TÃºlÃ©lÃ©s kÃ©pzettsÃ©gedhez.}
+{1118}{}{ElsajÃ¡tÃ­tottad a kereskedelem alapszemlÃ©letÃ©t: minÃ©l olcsÃ³bban vÃ¡sÃ¡rolni. Ezzel a kÃ©pessÃ©ggel 25% Ã¡rengedmÃ©nyt kapsz minden vÃ¡sÃ¡rlÃ¡skor.}
+{1119}{}{E kÃ©pessÃ©g minden szintje +2 kÃ©pzettsÃ©gi pontot jelent szintlÃ©pÃ©skor. A kÃ©pessÃ©g akkor a leghatÃ¡sosabb, ha minÃ©l korÃ¡bban felveszed.}
+{1120}{}{Ezzel a kÃ©pessÃ©ggel kÃ¶nnyebbÃ© vÃ¡lik a gyÃ³gyÃ­tÃ¡s. Minden szintjÃ©vel 4-10 tovÃ¡bbi Ã©letpontot gyÃ³gyÃ­tasz, mikor az Els?segÃ©ly vagy az Orvos kÃ©pzettsÃ©gedet hasznÃ¡lod.}
+{1121}{}{Hajlamos vagy pÃ©nzt talÃ¡lni. A sivatagban tÃ¶bb pÃ©nzt talÃ¡lsz a vÃ©letlenszer? esemÃ©nyek sorÃ¡n.}
+{1122}{}{Kritikus sebzÃ©seid sokkal pusztÃ­tÃ³bbak. 20% bÃ³nuszt kapsz a kritikus sebzÃ©s tÃ¡blÃ¡zatÃ¡n, ami biztosÃ­tja hogy tÃ¶bbet sebezz. A kritikus talÃ¡lat esÃ©lyÃ©t nem befolyÃ¡solja.}
+{1123}{}{TanulmÃ¡nyoztad az embereket, ezÃ¡ltal jobban ismered a kÃ¼lÃ¶nbÃ¶z? esemÃ©nyekre mutatott Ã©rzelmi reakciÃ³jukat. Ezzel a kÃ©pessÃ©ggel lÃ¡tni fogod mÃ¡sok reakciÃ³jÃ¡t, mikÃ¶zben beszÃ©lsz velÃ¼k.}
+{1124}{}{A PusztÃ­tÃ³ kÃ¶ztÃ¼nk jÃ¡r! Pusztakezes harcban minden talÃ¡latod kritikus talÃ¡lattÃ¡ vÃ¡lik, elhozva ezzel a pusztÃ­tÃ¡s Ã©s kÃ¡osz korszakÃ¡t.}
+{1125}{}{ElsajÃ¡tÃ­tottad a l?fegyverek tÃ¶kÃ©letes kezelÃ©sÃ©t. Ezzel a kÃ©pessÃ©ggel, ha dobsz egy sikeres Szerencse prÃ³bÃ¡t, minden tÃ¡volsÃ¡gi fegyverrel vÃ©grehajtott talÃ¡latod kritikusat sebez.}
+{1126}{}{Ha lopÃ³zÃ¡s kÃ¶zben egy lÃ©nyt puszta kÃ©zzel Ã©s hÃ¡tulrÃ³l tÃ¡madsz meg, sebzÃ©sed kÃ©tszer nagyobb lesz. A Csendes halÃ¡l mÃ¡r csak ilyen kÃ©pessÃ©g.}
+{1127}{}{Az AkciÃ³ KapitÃ¡ny minden szintje egy bÃ³nusz AkciÃ³pontot jelent a harcban, melyet bÃ¡rmire hasznÃ¡lhatsz.}
+{1128}{}{A MentÃ¡lis vÃ©dekezÃ©ssel kisz?rheted a kÃ¼lvilÃ¡gbÃ³l Ã©rkez? mentÃ¡lis zavarokat. Ezt vagy egy Ã¡tutazÃ³ gurutÃ³l tanultad, vagy egy hosszÃº Ã©jszaka sorÃ¡n a kocsmÃ¡ban.}
+{1129}{}{Ezen kÃ©pessÃ©g minden szintjÃ©vel nÃ©ggyel tÃ¶bb Ã©letpontot kapsz szintlÃ©pÃ©skor. Ez a KitartÃ¡s tulajdonsÃ¡godtÃ³l fÃ¼gg? szintenkÃ©nt kapott Ã©letpontokhoz adÃ³dik hozzÃ¡.}
+{1130}{}{Ha birtoklod ezt a kÃ©pessÃ©get, sokkal kisebb az esÃ©lye, hogy harc kÃ¶zben eltalÃ¡lnak. 5-Ã¶t kapsz a VÃ©delmi Ã©rtÃ©kedhez, a viselt pÃ¡ncÃ©l VÃ‰-jÃ©n felÃ¼l.}
+{1131}{}{Nyami! Ãze, akÃ¡r a csirkÃ©Ã©. A kÃ©pessÃ©g minden szintjÃ©vel 25%-ot kapsz a MÃ©regellenÃ¡llÃ¡sodhoz.}
+{1132}{}{Ez a kÃ©pessÃ©g egyszeri 10%-os bÃ³nuszt ad a JavÃ­tÃ¡s Ã©s a TudomÃ¡nyok kÃ©pzettsÃ©geidhez. Egy kis esti tanulÃ¡s nem Ã¡rthat senkinek, f?leg neked nem.}
+{1133}{}{A Medikus kÃ©pessÃ©g egyszeri 10%-os bÃ³nuszt ad az Els?segÃ©ly Ã©s az Orvos kÃ©pzettsÃ©gekhez. A gyÃ³gyÃ­tÃ³ kÃ©pzettsÃ©gek hasznosak.}
+{1134}{}{A Mester-tolvaj jÃ¡ratos a lopÃ¡sban Ã©s zÃ¡rnyitÃ¡sban. 15%-ot kapsz a LopÃ¡s Ã©s a ZÃ¡rnyitÃ¡s kÃ©pzettsÃ©gekhez. Ellopod a gazdagoktÃ³l, Ã©s odaadod... magadnak.}
+{1135}{}{SzÃ³noknak lenni azt jelenti, hogy egyszeri 20%-os bÃ³nuszt kapsz a BeszÃ©d kÃ©pzettsÃ©ghez.}
+{1136}{}{A Nagy dobÃ¡s! kÃ©pessÃ©ggel kett?vel megn? az Er?d (maximum 10-ig), Ã­gy messzebbre tudsz dobni, de csak a fegyver maximum tÃ¡volsÃ¡gÃ¡ig.}
 {1137}{}{ERROR.UNIMPED!}
-{1138}{}{Sokkal ügyesebb vagy a közönséges zsebtolvajoknál. Ezzel a képességgel többé nem számít a tárgy mérete, és hogy szemben vagy háttal áll a kizsebelend? személy.}
-{1139}{}{Ha lemegy a nap, vagy gyengén megvilágított területen jársz, úgy mozogsz, mint egy szellem. Sötét helyeken 20%-kal jobb a Lopózás képzettséged.}
-{1140}{}{A hírneved mindig "pozitív". E képességgel a negatív hírnév nincs rossz hatással a jó természet? emberekre. De a fordítottja is igaz: a gonosz emberek Mr. Jófiút is bandatagként kezelik.}
-{1141}{}{Több l?szert találsz a posztholokauszt átlagos túlél?inél. Ez a képesség megduplázza a véletlenszer? események során talált l?szer mennyiségét.}
-{1142}{}{A felfedez? célja, hogy új és érdekes helyeket fedezzen fel. Ezzel a képességgel nagyobb esélyed van különleges helyek és emberek megtalálására.}
+{1138}{}{Sokkal Ã¼gyesebb vagy a kÃ¶zÃ¶nsÃ©ges zsebtolvajoknÃ¡l. Ezzel a kÃ©pessÃ©ggel tÃ¶bbÃ© nem szÃ¡mÃ­t a tÃ¡rgy mÃ©rete, Ã©s hogy szemben vagy hÃ¡ttal Ã¡ll a kizsebelend? szemÃ©ly.}
+{1139}{}{Ha lemegy a nap, vagy gyengÃ©n megvilÃ¡gÃ­tott terÃ¼leten jÃ¡rsz, Ãºgy mozogsz, mint egy szellem. SÃ¶tÃ©t helyeken 20%-kal jobb a LopÃ³zÃ¡s kÃ©pzettsÃ©ged.}
+{1140}{}{A hÃ­rneved mindig "pozitÃ­v". E kÃ©pessÃ©ggel a negatÃ­v hÃ­rnÃ©v nincs rossz hatÃ¡ssal a jÃ³ termÃ©szet? emberekre. De a fordÃ­tottja is igaz: a gonosz emberek Mr. JÃ³fiÃºt is bandatagkÃ©nt kezelik.}
+{1141}{}{TÃ¶bb l?szert talÃ¡lsz a posztholokauszt Ã¡tlagos tÃºlÃ©l?inÃ©l. Ez a kÃ©pessÃ©g megduplÃ¡zza a vÃ©letlenszer? esemÃ©nyek sorÃ¡n talÃ¡lt l?szer mennyisÃ©gÃ©t.}
+{1142}{}{A felfedez? cÃ©lja, hogy Ãºj Ã©s Ã©rdekes helyeket fedezzen fel. Ezzel a kÃ©pessÃ©ggel nagyobb esÃ©lyed van kÃ¼lÃ¶nleges helyek Ã©s emberek megtalÃ¡lÃ¡sÃ¡ra.}
 {1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
-{1144}{}{A nyomkeres? mindig megtalálja a rövidebb utat. A képesség minden szintje 25%-kal csökkenti a világtérképen való utazás idejét.}
-{1145}{}{Az állatok soha nem támadják meg a barátjukat, amíg az nem fenyegeti, vagy meg nem támadja ?ket.}
-{1146}{}{Távolabbra látsz, mint valaha. A világtérképen minden irányban egy kockával messzebb látsz, és megn? az esélye annak is, hogy különleges helyeket találj.}
-{1147}{}{Felkeltetted a Titokzatos idegen figyelmét, aki id?r?l-id?re megjelenik, hogy segítsen neked. Ha harc közben meghal, ne várdd, hogy valaki más jöjjön helyette!}
-{1148}{}{15%-ot kapsz a Túlélés képzettségedhez. Így nagyobb eséllyel tudod elkerülni a véletlenszer? eseményeket, ha úgy akarod, és nagyobb esélyed van, hogy megtaláld azokat a bizonyos különleges helyeket.}
-{1149}{}{Megtanultad, hogyan rendezd el a dolgaidat hatékonyan. Harc közben 4 helyett már csak 2 AP-ba kerül a felszerelésed közti keresgélés.}
-{1150}{}{Megtanultad, hogyan növelheted a vála-szok/kérdések szá-mát beszélgetés köz-ben, anélkül hogy ér-tenéd mir?l van szó. A képesség minden szintje egyel növe-li az Intelligenciád (max. 10-ig) a beszél-getések idejére.}
-{1151}{}{Ezzel a képességgel igazán gyorsan tanulhatsz, ugyanis minden szintjéért 5%-kal több tapasztalati pontot kapsz szintlépéskor. Épp ezért célszer? korán felvenni.}
-{1152}{}{A képzettségeid annyira magasra fejl?dtek, hogy választhatsz még egy Speciális képzettséget. A Speciális képzettségek kétszer gyorsabban növekednek.}
-{1153}{}{A pusztákat járva megváltoztatott a háttérsugárzás! Egyik Jellemvonásod valami mássá mutálódott...}
-{1154}{}{Egy újabb Nuka-Kólára vágysz!}
+{1144}{}{A nyomkeres? mindig megtalÃ¡lja a rÃ¶videbb utat. A kÃ©pessÃ©g minden szintje 25%-kal csÃ¶kkenti a vilÃ¡gtÃ©rkÃ©pen valÃ³ utazÃ¡s idejÃ©t.}
+{1145}{}{Az Ã¡llatok soha nem tÃ¡madjÃ¡k meg a barÃ¡tjukat, amÃ­g az nem fenyegeti, vagy meg nem tÃ¡madja ?ket.}
+{1146}{}{TÃ¡volabbra lÃ¡tsz, mint valaha. A vilÃ¡gtÃ©rkÃ©pen minden irÃ¡nyban egy kockÃ¡val messzebb lÃ¡tsz, Ã©s megn? az esÃ©lye annak is, hogy kÃ¼lÃ¶nleges helyeket talÃ¡lj.}
+{1147}{}{Felkeltetted a Titokzatos idegen figyelmÃ©t, aki id?r?l-id?re megjelenik, hogy segÃ­tsen neked. Ha harc kÃ¶zben meghal, ne vÃ¡rdd, hogy valaki mÃ¡s jÃ¶jjÃ¶n helyette!}
+{1148}{}{15%-ot kapsz a TÃºlÃ©lÃ©s kÃ©pzettsÃ©gedhez. Ãgy nagyobb esÃ©llyel tudod elkerÃ¼lni a vÃ©letlenszer? esemÃ©nyeket, ha Ãºgy akarod, Ã©s nagyobb esÃ©lyed van, hogy megtalÃ¡ld azokat a bizonyos kÃ¼lÃ¶nleges helyeket.}
+{1149}{}{Megtanultad, hogyan rendezd el a dolgaidat hatÃ©konyan. Harc kÃ¶zben 4 helyett mÃ¡r csak 2 AP-ba kerÃ¼l a felszerelÃ©sed kÃ¶zti keresgÃ©lÃ©s.}
+{1150}{}{Megtanultad, hogyan nÃ¶velheted a vÃ¡la-szok/kÃ©rdÃ©sek szÃ¡-mÃ¡t beszÃ©lgetÃ©s kÃ¶z-ben, anÃ©lkÃ¼l hogy Ã©r-tenÃ©d mir?l van szÃ³. A kÃ©pessÃ©g minden szintje egyel nÃ¶ve-li az IntelligenciÃ¡d (max. 10-ig) a beszÃ©l-getÃ©sek idejÃ©re.}
+{1151}{}{Ezzel a kÃ©pessÃ©ggel igazÃ¡n gyorsan tanulhatsz, ugyanis minden szintjÃ©Ã©rt 5%-kal tÃ¶bb tapasztalati pontot kapsz szintlÃ©pÃ©skor. Ã‰pp ezÃ©rt cÃ©lszer? korÃ¡n felvenni.}
+{1152}{}{A kÃ©pzettsÃ©geid annyira magasra fejl?dtek, hogy vÃ¡laszthatsz mÃ©g egy SpeciÃ¡lis kÃ©pzettsÃ©get. A SpeciÃ¡lis kÃ©pzettsÃ©gek kÃ©tszer gyorsabban nÃ¶vekednek.}
+{1153}{}{A pusztÃ¡kat jÃ¡rva megvÃ¡ltoztatott a hÃ¡ttÃ©rsugÃ¡rzÃ¡s! Egyik JellemvonÃ¡sod valami mÃ¡ssÃ¡ mutÃ¡lÃ³dott...}
+{1154}{}{Egy Ãºjabb Nuka-KÃ³lÃ¡ra vÃ¡gysz!}
 {1155}{}{Remegsz.}
-{1156}{}{Bizonytalannak érzed magad.}
-{1157}{}{Szédülsz.}
-{1158}{}{Émelyegsz.}
-{1159}{}{Nagy távolságú fegyver}
+{1156}{}{Bizonytalannak Ã©rzed magad.}
+{1157}{}{SzÃ©dÃ¼lsz.}
+{1158}{}{Ã‰melyegsz.}
+{1159}{}{Nagy tÃ¡volsÃ¡gÃº fegyver}
 {1160}{}{Pontos fegyver}
-{1161}{}{Páncéltör? fegyver}
-{1162}{}{Fegyver-visszarúgás}
-{1163}{}{Er?páncél}
-{1164}{}{Harci páncél}
-{1165}{}{Távcsöves fegyver}
-{1166}{}{Gyorsabb újratöltés}
-{1167}{}{Éjjellátó fegyver}
-{1168}{}{Tüzes fegyver}
-{1169}{}{Fejlesztett páncél I}
-{1170}{}{Fejlesztett páncél II}
-{1171}{}{Minden olyan lassan mozog... kellene még egy kis Jet, AZONNAL!}
-{1172}{}{Éget? vágyat érzel egy újabb Tragic kártyacsomag felnyitására.}
-{1173}{}{Páncél karizma}
-{1174}{}{Megtanultad, hogyan nyúzd meg a gekkót a b?réért.}
-{1175}{}{Bels? védelemre tettél szert a fizikai támadások ellen.}
-{1176}{}{Nagy mérték? bels? védelmed van a fizikai támadások ellen.}
-{1177}{}{Bels? védelemre tettél szert a h?alapú támadások ellen.}
-{1178}{}{Nagy mérték? bels? védelmed van a h?alapú támadások ellen.}
-{1179}{}{10%-ot kaptál a méreg és a sugárzás ellenállásodhoz.}
-{1180}{}{Ezzel a képességgel 1-et kapsz az Er?dhöz, ha az Életpontjaid a maximális felére csökkennek.}
-{1181}{}{Mivel figyelmesebb vagy a külvilágban, az ellenségeid nem tudnak olyan könnyen a hátad mögé lopakodni. 3 pontot kapsz az Érzékelésedhez, amikor a véletlenszer? események során helymeghatározásra kerül sor}
-{1182}{}{Olvasás közben odafigyelsz a részletekre. Amikor elolvasol egy könyvet, 50%-kal több képzettségi pontot kapsz.}
-{1183}{}{Mesterien kezeled a robbanóanyagokat. Mindig akkor robbanak föl, amikor kell, és persze többet is sebeznek.}
-{1184}{}{A kocka mestere vagy. 20%-ot kapsz a Szerencsejáték képzettségedhez.}
-{1185}{}{Ezzel a képességgel 1-el n? az Er?d.}
-{1186}{}{Ezzel a képességgel 1-el n? az Érzékelésed.}
-{1187}{}{Ezzel a képességgel 1-el n? a Kitartásod.}
-{1188}{}{Ezzel a képességgel 1-el n? a Karizmád.}
-{1189}{}{Ezzel a képességgel 1-el n? a Intelligenciád.}
-{1190}{}{Ezzel a képességgel 1-el n? az Ügyességed.}
-{1191}{}{Ezzel a képességgel 1-el n? a Szerencséd.}
-{1192}{}{Ártatlan viselkedésed miatt könnyebben tudsz lopni az emberekt?l. 20%-ot kapsz a Lopás képzettségedhez.}
-{1193}{}{Ezzel a képességgel most rögtön lépsz egy szintet.}
-{1194}{}{Ha egyik kezedben sem tartasz semmit, minden fel nem használt akciópont 1 helyett 2-vel növeli a Védelmi értékedet, amihez az Ökölharc képzettséged 1/12-e is hozzáadódik.}
-{1195}{}{Ha szexr?l van szó, akkor te írtad a könyvet.}
-{1196}{}{Karmád kétszer fényesebben ragyog. Legyen akár jó, akár rossz, értéke az emberi reakciók és egyéb módosítók szempontjából duplán számít.}
-{1197}{}{Mozgékony vagy, szerencsés és mindig óvatos. Ez a képesség megfelezi a csapdába lépés esélyét.}
-{1198}{}{Behatóbban ismered az él?lényeket, így a gyengéik és az er?sségeik is nyilvánvalóak számodra. E képesség egyszeri 10%-os bónuszt ad az Orvos képzettséged- hez, továbbá él?lények ellen 5-tel többet sebzel.}
-{1199}{}{Egyel több társat vehetsz fel, de ne feledd, hogy ötnél több mindig tömegnyomort jelent!}
-{1200}{}{Nagy tapasztalatú tárgyaló vagy. Nem csak jobban üzletelsz, de bárhova be-, és bármib?l ki is tudod magad dumálni. +10%-ot kapsz az Üzletelés és a Beszéd képzettségekhez.}
-{1201}{}{Jobban el tudod rendezni a dolgaidat. Így képes vagy elcipelni azt a kis pluszt, amit mindig is akartál.}
-{1202}{}{Többet sebzel t?zalapú fegyverekkel, és az ellenségeid mindig a legbrutálisabb, legtüzesebb módon halnak meg.}
-{1203}{}{Ha padlóra küldenek, gyorsabban állsz talpra.}
-{1204}{}{Ügyes eladó vagy. Ezzel a képességgel 20%-ot kapsz az Üzletelés képzettségedhez.}
-{1205}{}{Harcban sokkal nehezebb téged a földre teríteni.}
-{1206}{}{Vérbeli tolvaj vagy. Ezzel a képességgel egyszeri 10%-os bónuszt kapsz a Lopózás, a Lopás, a Zárnyitás és a Csapdák képzettségeidhez. Az ügyes tolvaj tovább él.}
-{1207}{}{Sokkal nagyobb fegyvereket is elbírsz, mint amiket más esetben elbírnál. Mikor a fegyverek er?követelménye kerül számításba, 3-at kapsz az Er?dhöz.}
-{1208}{}{Te is részesültél a Menedékváros által nyújtott orvosi képzésben.}
+{1161}{}{PÃ¡ncÃ©ltÃ¶r? fegyver}
+{1162}{}{Fegyver-visszarÃºgÃ¡s}
+{1163}{}{Er?pÃ¡ncÃ©l}
+{1164}{}{Harci pÃ¡ncÃ©l}
+{1165}{}{TÃ¡vcsÃ¶ves fegyver}
+{1166}{}{Gyorsabb ÃºjratÃ¶ltÃ©s}
+{1167}{}{Ã‰jjellÃ¡tÃ³ fegyver}
+{1168}{}{TÃ¼zes fegyver}
+{1169}{}{Fejlesztett pÃ¡ncÃ©l I}
+{1170}{}{Fejlesztett pÃ¡ncÃ©l II}
+{1171}{}{Minden olyan lassan mozog... kellene mÃ©g egy kis Jet, AZONNAL!}
+{1172}{}{Ã‰get? vÃ¡gyat Ã©rzel egy Ãºjabb Tragic kÃ¡rtyacsomag felnyitÃ¡sÃ¡ra.}
+{1173}{}{PÃ¡ncÃ©l karizma}
+{1174}{}{Megtanultad, hogyan nyÃºzd meg a gekkÃ³t a b?rÃ©Ã©rt.}
+{1175}{}{Bels? vÃ©delemre tettÃ©l szert a fizikai tÃ¡madÃ¡sok ellen.}
+{1176}{}{Nagy mÃ©rtÃ©k? bels? vÃ©delmed van a fizikai tÃ¡madÃ¡sok ellen.}
+{1177}{}{Bels? vÃ©delemre tettÃ©l szert a h?alapÃº tÃ¡madÃ¡sok ellen.}
+{1178}{}{Nagy mÃ©rtÃ©k? bels? vÃ©delmed van a h?alapÃº tÃ¡madÃ¡sok ellen.}
+{1179}{}{10%-ot kaptÃ¡l a mÃ©reg Ã©s a sugÃ¡rzÃ¡s ellenÃ¡llÃ¡sodhoz.}
+{1180}{}{Ezzel a kÃ©pessÃ©ggel 1-et kapsz az Er?dhÃ¶z, ha az Ã‰letpontjaid a maximÃ¡lis felÃ©re csÃ¶kkennek.}
+{1181}{}{Mivel figyelmesebb vagy a kÃ¼lvilÃ¡gban, az ellensÃ©geid nem tudnak olyan kÃ¶nnyen a hÃ¡tad mÃ¶gÃ© lopakodni. 3 pontot kapsz az Ã‰rzÃ©kelÃ©sedhez, amikor a vÃ©letlenszer? esemÃ©nyek sorÃ¡n helymeghatÃ¡rozÃ¡sra kerÃ¼l sor}
+{1182}{}{OlvasÃ¡s kÃ¶zben odafigyelsz a rÃ©szletekre. Amikor elolvasol egy kÃ¶nyvet, 50%-kal tÃ¶bb kÃ©pzettsÃ©gi pontot kapsz.}
+{1183}{}{Mesterien kezeled a robbanÃ³anyagokat. Mindig akkor robbanak fÃ¶l, amikor kell, Ã©s persze tÃ¶bbet is sebeznek.}
+{1184}{}{A kocka mestere vagy. 20%-ot kapsz a SzerencsejÃ¡tÃ©k kÃ©pzettsÃ©gedhez.}
+{1185}{}{Ezzel a kÃ©pessÃ©ggel 1-el n? az Er?d.}
+{1186}{}{Ezzel a kÃ©pessÃ©ggel 1-el n? az Ã‰rzÃ©kelÃ©sed.}
+{1187}{}{Ezzel a kÃ©pessÃ©ggel 1-el n? a KitartÃ¡sod.}
+{1188}{}{Ezzel a kÃ©pessÃ©ggel 1-el n? a KarizmÃ¡d.}
+{1189}{}{Ezzel a kÃ©pessÃ©ggel 1-el n? a IntelligenciÃ¡d.}
+{1190}{}{Ezzel a kÃ©pessÃ©ggel 1-el n? az ÃœgyessÃ©ged.}
+{1191}{}{Ezzel a kÃ©pessÃ©ggel 1-el n? a SzerencsÃ©d.}
+{1192}{}{Ãrtatlan viselkedÃ©sed miatt kÃ¶nnyebben tudsz lopni az emberekt?l. 20%-ot kapsz a LopÃ¡s kÃ©pzettsÃ©gedhez.}
+{1193}{}{Ezzel a kÃ©pessÃ©ggel most rÃ¶gtÃ¶n lÃ©psz egy szintet.}
+{1194}{}{Ha egyik kezedben sem tartasz semmit, minden fel nem hasznÃ¡lt akciÃ³pont 1 helyett 2-vel nÃ¶veli a VÃ©delmi Ã©rtÃ©kedet, amihez az Ã–kÃ¶lharc kÃ©pzettsÃ©ged 1/12-e is hozzÃ¡adÃ³dik.}
+{1195}{}{Ha szexr?l van szÃ³, akkor te Ã­rtad a kÃ¶nyvet.}
+{1196}{}{KarmÃ¡d kÃ©tszer fÃ©nyesebben ragyog. Legyen akÃ¡r jÃ³, akÃ¡r rossz, Ã©rtÃ©ke az emberi reakciÃ³k Ã©s egyÃ©b mÃ³dosÃ­tÃ³k szempontjÃ¡bÃ³l duplÃ¡n szÃ¡mÃ­t.}
+{1197}{}{MozgÃ©kony vagy, szerencsÃ©s Ã©s mindig Ã³vatos. Ez a kÃ©pessÃ©g megfelezi a csapdÃ¡ba lÃ©pÃ©s esÃ©lyÃ©t.}
+{1198}{}{BehatÃ³bban ismered az Ã©l?lÃ©nyeket, Ã­gy a gyengÃ©ik Ã©s az er?ssÃ©geik is nyilvÃ¡nvalÃ³ak szÃ¡modra. E kÃ©pessÃ©g egyszeri 10%-os bÃ³nuszt ad az Orvos kÃ©pzettsÃ©ged- hez, tovÃ¡bbÃ¡ Ã©l?lÃ©nyek ellen 5-tel tÃ¶bbet sebzel.}
+{1199}{}{Egyel tÃ¶bb tÃ¡rsat vehetsz fel, de ne feledd, hogy Ã¶tnÃ©l tÃ¶bb mindig tÃ¶megnyomort jelent!}
+{1200}{}{Nagy tapasztalatÃº tÃ¡rgyalÃ³ vagy. Nem csak jobban Ã¼zletelsz, de bÃ¡rhova be-, Ã©s bÃ¡rmib?l ki is tudod magad dumÃ¡lni. +10%-ot kapsz az ÃœzletelÃ©s Ã©s a BeszÃ©d kÃ©pzettsÃ©gekhez.}
+{1201}{}{Jobban el tudod rendezni a dolgaidat. Ãgy kÃ©pes vagy elcipelni azt a kis pluszt, amit mindig is akartÃ¡l.}
+{1202}{}{TÃ¶bbet sebzel t?zalapÃº fegyverekkel, Ã©s az ellensÃ©geid mindig a legbrutÃ¡lisabb, legtÃ¼zesebb mÃ³don halnak meg.}
+{1203}{}{Ha padlÃ³ra kÃ¼ldenek, gyorsabban Ã¡llsz talpra.}
+{1204}{}{Ãœgyes eladÃ³ vagy. Ezzel a kÃ©pessÃ©ggel 20%-ot kapsz az ÃœzletelÃ©s kÃ©pzettsÃ©gedhez.}
+{1205}{}{Harcban sokkal nehezebb tÃ©ged a fÃ¶ldre terÃ­teni.}
+{1206}{}{VÃ©rbeli tolvaj vagy. Ezzel a kÃ©pessÃ©ggel egyszeri 10%-os bÃ³nuszt kapsz a LopÃ³zÃ¡s, a LopÃ¡s, a ZÃ¡rnyitÃ¡s Ã©s a CsapdÃ¡k kÃ©pzettsÃ©geidhez. Az Ã¼gyes tolvaj tovÃ¡bb Ã©l.}
+{1207}{}{Sokkal nagyobb fegyvereket is elbÃ­rsz, mint amiket mÃ¡s esetben elbÃ­rnÃ¡l. Mikor a fegyverek er?kÃ¶vetelmÃ©nye kerÃ¼l szÃ¡mÃ­tÃ¡sba, 3-at kapsz az Er?dhÃ¶z.}
+{1208}{}{Te is rÃ©szesÃ¼ltÃ©l a MenedÃ©kvÃ¡ros Ã¡ltal nyÃºjtott orvosi kÃ©pzÃ©sben.}
 {1209}{}{Your hit points have been enhanced a little by repeated drunkeness.}
 {1210}{}{Your hit points have been enhanced a little more by repeated drunkeness.}
 {1211}{}{Your hit points have been lowered slightly by repeated drunkeness.}
 {1212}{}{Your hit points have been lowered slightly by repeated drunkeness.}
-{1213}{}{Az autodoki rendszeres használata kevéssel növelte az életpontjaidat.}
-{1214}{}{Az autodoki rendszeres használata kicsivel tovább növelte az életpontjaidat.}
-{1215}{}{Az autodoki rendszeres használata kicsivel tovább csökkentette az életpontjaidat.}
-{1216}{}{Az autodoki rendszeres használata kicsivel tovább csökkentette az életpontjaidat.}
-{1217}{}{Ez a képesség talán még a nyelvezeteden is meglátszik majd!}
+{1213}{}{Az autodoki rendszeres hasznÃ¡lata kevÃ©ssel nÃ¶velte az Ã©letpontjaidat.}
+{1214}{}{Az autodoki rendszeres hasznÃ¡lata kicsivel tovÃ¡bb nÃ¶velte az Ã©letpontjaidat.}
+{1215}{}{Az autodoki rendszeres hasznÃ¡lata kicsivel tovÃ¡bb csÃ¶kkentette az Ã©letpontjaidat.}
+{1216}{}{Az autodoki rendszeres hasznÃ¡lata kicsivel tovÃ¡bb csÃ¶kkentette az Ã©letpontjaidat.}
+{1217}{}{Ez a kÃ©pessÃ©g talÃ¡n mÃ©g a nyelvezeteden is meglÃ¡tszik majd!}
 {1218}{}{Extra Fegyver}
-{1219}{}{A jó hír az, hogy körülötted mindenki többször vét kritikus hibát csatában, a rossz hír az, hogy te is!}
+{1219}{}{A jÃ³ hÃ­r az, hogy kÃ¶rÃ¼lÃ¶tted mindenki tÃ¶bbszÃ¶r vÃ©t kritikus hibÃ¡t csatÃ¡ban, a rossz hÃ­r az, hogy te is!}

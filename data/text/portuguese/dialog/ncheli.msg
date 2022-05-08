@@ -1,14 +1,14 @@
-{100}{}{Você vê várias caixas repletas de produtos químicos.}
-{150}{}{Você vê várias caixas repletas de produtos químicos. Você não consegue identificá-los, mas eles foram
+{100}{}{VocÃª vÃª vÃ¡rias caixas repletas de produtos quÃ­micos.}
+{150}{}{VocÃª vÃª vÃ¡rias caixas repletas de produtos quÃ­micos. VocÃª nÃ£o consegue identificÃ¡-los, mas eles foram
  empacotados com *muito* cuidado.}
-{175}{}{Você vê um Vertibird.}
-{199}{}{Você vê um Vertibird... uma forma avançada do helicóptero. Infelizmente, você não faz idéia de
- como operá-lo. }
-{200}{}{(Esses caras me dão arrepios...)}
-{250}{}{Olhem! Tem alguém nos espionando!}
-{300}{}{Não chegue perto daqueles caras de armadura. Eles podem te partir no meio.}
-{350}{}{Merda! O que você está fazendo, imbecil?!}
+{175}{}{VocÃª vÃª um Vertibird.}
+{199}{}{VocÃª vÃª um Vertibird... uma forma avanÃ§ada do helicÃ³ptero. Infelizmente, vocÃª nÃ£o faz idÃ©ia de
+ como operÃ¡-lo. }
+{200}{}{(Esses caras me dÃ£o arrepios...)}
+{250}{}{Olhem! Tem alguÃ©m nos espionando!}
+{300}{}{NÃ£o chegue perto daqueles caras de armadura. Eles podem te partir no meio.}
+{350}{}{Merda! O que vocÃª estÃ¡ fazendo, imbecil?!}
 {400}{}{[Parece que tem uma porta. Abrir e embarcar?]}
-{450}{}{[A porta se fecha atrás de você e o Vertibird levanta vôo! Você não consegue abrir a porta!]}
-{500}{}{Essas caixas estão repletas de pesadas latas de metal. Julgando pelo cuidado do empacotamento,
- você suspeita que elas contenham algum tipo de produto químico perigoso. }
+{450}{}{[A porta se fecha atrÃ¡s de vocÃª e o Vertibird levanta vÃ´o! VocÃª nÃ£o consegue abrir a porta!]}
+{500}{}{Essas caixas estÃ£o repletas de pesadas latas de metal. Julgando pelo cuidado do empacotamento,
+ vocÃª suspeita que elas contenham algum tipo de produto quÃ­mico perigoso. }

@@ -7,7 +7,7 @@
 {211}{}{East Side}
 {212}{}{Residencial do Den}
 {220}{}{Downtown}
-{221}{}{Cidade dos caÁadores}
+{221}{}{Cidade dos ca√ßadores}
 {222}{}{Rat Caves}
 {223}{}{Trapping Grounds}
 {224}{}{Grazing Area}
@@ -36,10 +36,10 @@
 {275}{}{Boxing Arena}
 {276}{}{Vertibird Area}
 {280}{}{Battlefield}
-{281}{}{DepÛsito NÌvel 1: Pessoal}
-{282}{}{DepÛsito NÌvel 1: Baia de armazenamento}
-{283}{}{DepÛsito NÌvel 1: Laboratorio de Robotica}
-{284}{}{DepÛsito NÌvel 4: Laboratorio de Pesquisas Biologicas}
+{281}{}{Dep√≥sito N√≠vel 1: Pessoal}
+{282}{}{Dep√≥sito N√≠vel 1: Baia de armazenamento}
+{283}{}{Dep√≥sito N√≠vel 1: Laboratorio de Robotica}
+{284}{}{Dep√≥sito N√≠vel 4: Laboratorio de Pesquisas Biologicas}
 {290}{}{Dependencias}
 {291}{}{Squatters}
 {292}{}{Squatters}
@@ -62,7 +62,7 @@
 {331}{}{Grande Mina Wanamingo}
 {332}{}{Mina Wanamingo}
 {333}{}{Mining Camp}
-{334}{}{T˙neis centrais}
+{334}{}{T√∫neis centrais}
 {335}{}{Tuneis da Mina}
 {340}{}{Chinatown}
 {341}{}{Dock}
@@ -74,7 +74,7 @@
 {350}{}{Gas Station}
 {351}{}{Portao Principal}
 {360}{}{Dock}
-{361}{}{Centro de DetenÁ„o}
+{361}{}{Centro de Deten√ß√£o}
 {362}{}{End Boss}
 {363}{}{Barracks}
 {364}{}{Presidential Area}
@@ -94,10 +94,10 @@
 {401}{}{Main Cavern}
 {402}{}{Underground Lake}
 {410}{}{Car outta power}
-{420}{}{Ponte destruÌda}
+{420}{}{Ponte destru√≠da}
 {430}{}{Toxic Caves}
 {440}{}{Den Slave Run}
-{450}{}{PoÁo}
+{450}{}{Po√ßo}
 {451}{}{Cliff}
 {452}{}{Entry Cave}
 {460}{}{Desert}
@@ -141,14 +141,14 @@
 {500}{}{Golgotha}
 {510}{}{Smashed Whale Guts}
 {520}{}{Tin Woodsman}
-{521}{}{CabeÁa Grande}
+{521}{}{Cabe√ßa Grande}
 {530}{}{Crash Site}
 {540}{}{Desert}
 {550}{}{Ponte}
 {560}{}{Cafe of Broken Dreams}
 {570}{}{Desert}
 {580}{}{Caverna}
-{590}{}{Guardi„o para Sempre}
+{590}{}{Guardi√£o para Sempre}
 {600}{}{Toxic Waste Dump}
 {610}{}{Desert}
 {620}{}{Herd of Brahmin}
@@ -176,7 +176,7 @@
 {1003}{}{Coast}
 {1004}{}{Unknown}
 {1500}{}{You gained 10,000 experience points!}
-{1501}{}{RuÌnas}
+{1501}{}{Ru√≠nas}
 {1502}{}{The car is out of power.}
 {1503}{}{This is a car. It doesn't look like it's running.}
 {2998}{}{You encounter:}
@@ -1239,7 +1239,7 @@
 {5260}{}{Some bounty hunters.}
 {5261}{}{Some bounty hunters.}
 {5262}{}{A band of ruffians led by a Morton Brother.}
-{5263}{}{Um exÈrcito de flutuadores e centauros.}
+{5263}{}{Um ex√©rcito de flutuadores e centauros.}
 {5264}{}{Alguns geckos de fogo.}
 {5265}{}{Um grande bando de aliens.}
 {5266}{}{Alguns deathclaws.}
@@ -1255,9 +1255,9 @@
 {5276}{}{A tin woodsman.}
 {5277}{}{The Unwashed Villagers hunting a spammer.}
 {5278}{}{Cafe of Broken Dreams.}
-{5279}{}{Uma reuni„o de indivÌduos com aparÍncia importante.}
+{5279}{}{Uma reuni√£o de indiv√≠duos com apar√™ncia importante.}
 {5300}{}{Alguns aliens e deathclaws.}
-{5301}{}{Um exÈrcito de flutuadores e centauros.}
+{5301}{}{Um ex√©rcito de flutuadores e centauros.}
 {5302}{}{Alguns geckos de fogo.}
 {5303}{}{Um grande bando de aliens.}
 {5304}{}{Some bounty hunters.}
@@ -1276,9 +1276,9 @@
 {5317}{}{Um enxame de flutuadores.}
 {5318}{}{A man guarding a bridge.}
 {5319}{}{King Arthur's Knights fighting a rat.}
-{5320}{}{Uma reuni„o de indivÌduos com aparÍncia importante.}
+{5320}{}{Uma reuni√£o de indiv√≠duos com apar√™ncia importante.}
 {5350}{}{Alguns aliens e deathclaws.}
-{5351}{}{Um exÈrcito de flutuadores e centauros.}
+{5351}{}{Um ex√©rcito de flutuadores e centauros.}
 {5352}{}{Alguns geckos de fogo.}
 {5353}{}{Um grande bando de aliens.}
 {5354}{}{Some bounty hunters.}
@@ -1295,7 +1295,7 @@
 {5365}{}{Alguns aliens.}
 {5366}{}{Um grupo de centauros.}
 {5367}{}{Um enxame de flutuadores.}
-{5368}{}{Uma reuni„o de indivÌduos com aparÍncia importante.}
+{5368}{}{Uma reuni√£o de indiv√≠duos com apar√™ncia importante.}
 {5400}{}{Toxic waste dump.}
 {5401}{}{A lone surviving dog.}
 {5402}{}{A herd of brahmin.}
@@ -1319,7 +1319,7 @@
 {5420}{}{A tin woodsman.}
 {5421}{}{The Unwashed Villagers hunting a spammer.}
 {5422}{}{Cafe of Broken Dreams.}
-{5423}{}{Uma reuni„o de indivÌduos com aparÍncia importante.}
+{5423}{}{Uma reuni√£o de indiv√≠duos com apar√™ncia importante.}
 {5450}{}{Um grupo de geckos de fogo.}
 {5451}{}{Um grupo de geckos de fogo.}
 {5452}{}{A large pack of golden geckos.}
@@ -1334,7 +1334,7 @@
 {5461}{}{A band of ruffians led by a Morton Brother.}
 {5462}{}{A man guarding a bridge.}
 {5463}{}{King Arthur's Knights fighting a rat.}
-{5464}{}{Uma reuni„o de indivÌduos com aparÍncia importante.}
+{5464}{}{Uma reuni√£o de indiv√≠duos com apar√™ncia importante.}
 {5500}{}{Um grupo de geckos de fogo.}
 {5501}{}{Um grupo de geckos de fogo.}
 {5502}{}{A large pack of golden geckos.}
@@ -1347,7 +1347,7 @@
 {5509}{}{Some bounty hunters.}
 {5510}{}{Some bounty hunters.}
 {5511}{}{A band of ruffians led by a Morton Brother.}
-{5512}{}{Uma reuni„o de indivÌduos com aparÍncia importante.}
+{5512}{}{Uma reuni√£o de indiv√≠duos com apar√™ncia importante.}
 {5550}{}{Toxic waste dump.}
 {5551}{}{A lone surviving dog.}
 {5552}{}{A herd of brahmin.}
@@ -1505,7 +1505,7 @@
 {5866}{}{Uma patrulha da Unity.}
 {5867}{}{A man guarding a bridge.}
 {5868}{}{King Arthur's Knights fighting a rat.}
-{5900}{}{Um bando de mercen·rios.}
+{5900}{}{Um bando de mercen√°rios.}
 {5901}{}{Uma gangue de assaltantes.}
 {5902}{}{Uma manada de deathclaws.}
 {5903}{}{Uma manada de geckos de fogo.}
@@ -1522,9 +1522,9 @@
 {5914}{}{Hubologistas lutando contra mercenarios.}
 {5915}{}{Hubologistas se defendendo contra assaltantes.}
 {5916}{}{Hubologistas.}
-{5917}{}{Um bando de mercen·rios furiosos.}
-{5918}{}{Uma reuni„o de indivÌduos com aparÍncia importante.}
-{5950}{}{Um bando de mercen·rios.}
+{5917}{}{Um bando de mercen√°rios furiosos.}
+{5918}{}{Uma reuni√£o de indiv√≠duos com apar√™ncia importante.}
+{5950}{}{Um bando de mercen√°rios.}
 {5951}{}{Uma gangue de assaltantes.}
 {5952}{}{Uma manada de deathclaws.}
 {5953}{}{Uma manada de geckos de fogo.}
@@ -1543,9 +1543,9 @@
 {5966}{}{Hubologistas.}
 {5967}{}{A man guarding a bridge.}
 {5968}{}{King Arthur's Knights fighting a rat.}
-{5969}{}{Um bando de mercen·rios furiosos.}
-{5970}{}{Uma reuni„o de indivÌduos com aparÍncia importante.}
-{6000}{}{Um bando de mercen·rios.}
+{5969}{}{Um bando de mercen√°rios furiosos.}
+{5970}{}{Uma reuni√£o de indiv√≠duos com apar√™ncia importante.}
+{6000}{}{Um bando de mercen√°rios.}
 {6001}{}{Uma gangue de assaltantes.}
 {6002}{}{Uma manada de deathclaws.}
 {6003}{}{Uma manada de geckos de fogo.}
@@ -1562,12 +1562,12 @@
 {6014}{}{Hubologistas lutando contra mercenarios.}
 {6015}{}{Hubologistas se defendendo contra assaltantes.}
 {6016}{}{Hubologistas.}
-{6017}{}{Um bando de mercen·rios furiosos.}
-{6018}{}{Uma reuni„o de indivÌduos com aparÍncia importante.}
+{6017}{}{Um bando de mercen√°rios furiosos.}
+{6018}{}{Uma reuni√£o de indiv√≠duos com apar√™ncia importante.}
 {6050}{}{Toxic waste dump.}
 {6051}{}{A lone surviving dog.}
 {6052}{}{A herd of brahmin.}
-{6053}{}{Um bando de mercen·rios.}
+{6053}{}{Um bando de mercen√°rios.}
 {6054}{}{Some bounty hunters.}
 {6055}{}{Some bounty hunters.}
 {6056}{}{Some bounty hunters.}
@@ -1592,12 +1592,12 @@
 {6075}{}{A tin woodsman.}
 {6076}{}{The Unwashed Villagers hunting a spammer.}
 {6077}{}{Cafe of Broken Dreams.}
-{6078}{}{Um bando de mercen·rios furiosos.}
-{6079}{}{Uma reuni„o de indivÌduos com aparÍncia importante.}
+{6078}{}{Um bando de mercen√°rios furiosos.}
+{6079}{}{Uma reuni√£o de indiv√≠duos com apar√™ncia importante.}
 {6100}{}{Toxic waste dump.}
 {6101}{}{A lone surviving dog.}
 {6102}{}{A herd of brahmin.}
-{6103}{}{Um bando de mercen·rios.}
+{6103}{}{Um bando de mercen√°rios.}
 {6104}{}{Some bounty hunters.}
 {6105}{}{Some bounty hunters.}
 {6106}{}{Some bounty hunters.}
@@ -1624,8 +1624,8 @@
 {6127}{}{A tin woodsman.}
 {6128}{}{The Unwashed Villagers hunting a spammer.}
 {6129}{}{Cafe of Broken Dreams.}
-{6130}{}{Um bando de mercen·rios furiosos.}
-{6150}{}{Um bando de mercen·rios.}
+{6130}{}{Um bando de mercen√°rios furiosos.}
+{6150}{}{Um bando de mercen√°rios.}
 {6151}{}{Um grupo de deathclaws.}
 {6152}{}{Um grupo de geckos de fogo.}
 {6153}{}{Um monte de aliens.}
@@ -1644,7 +1644,7 @@
 {6166}{}{Uma caravana se defendendo contra aliens.}
 {6167}{}{A caravan.}
 {6168}{}{A caravan.}
-{6169}{}{Um bando de mercen·rios furiosos.}
+{6169}{}{Um bando de mercen√°rios furiosos.}
 {6200}{}{Toxic waste dump.}
 {6201}{}{A lone surviving dog.}
 {6202}{}{A herd of brahmin.}
@@ -1658,7 +1658,7 @@
 {6210}{}{Some bounty hunters.}
 {6211}{}{Some bounty hunters.}
 {6212}{}{A band of ruffians led by a Morton Brother.}
-{6213}{}{Remanescentes do exÈrcito do Mestre.}
+{6213}{}{Remanescentes do ex√©rcito do Mestre.}
 {6214}{}{Um grupo de deathclaws.}
 {6215}{}{A swarm of mantis.}
 {6216}{}{The remains of a whale.}
@@ -1670,7 +1670,7 @@
 {6222}{}{The Unwashed Villagers hunting a spammer.}
 {6223}{}{Cafe of Broken Dreams.}
 {6250}{}{Uma patrulha da Enclave.}
-{6251}{}{Remanescentes do exÈrcito do Mestre.}
+{6251}{}{Remanescentes do ex√©rcito do Mestre.}
 {6252}{}{Um grupo de deathclaws.}
 {6253}{}{A swarm of mantis.}
 {6254}{}{Some bounty hunters.}
@@ -1871,7 +1871,7 @@
 {6677}{}{Cafe of Broken Dreams.}
 {6678}{}{Um bando de saqueadores com raiva.}
 {6700}{}{Remanescentes do exercito do Mestre lutando contra ratos toupeira mutantes.}
-{6701}{}{Remanescentes do exÈrcito do Mestre.}
+{6701}{}{Remanescentes do ex√©rcito do Mestre.}
 {6702}{}{A swarm of mantis.}
 {6703}{}{A pack of mutated molerats.}
 {6704}{}{Some bounty hunters.}
@@ -1899,7 +1899,7 @@
 {6760}{}{Some bounty hunters.}
 {6761}{}{Some bounty hunters.}
 {6762}{}{A band of ruffians led by a Morton Brother.}
-{6763}{}{Remanescentes do exÈrcito do Mestre.}
+{6763}{}{Remanescentes do ex√©rcito do Mestre.}
 {6764}{}{A swarm of mantis.}
 {6765}{}{A pack of mutated molerats.}
 {6766}{}{A pack of radscorpions.}

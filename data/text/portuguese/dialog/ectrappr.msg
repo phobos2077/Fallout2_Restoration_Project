@@ -1,48 +1,48 @@
-{100}{}{Você vê um homem sujo e sem barbear. }
-{101}{}{Caçador.}
-{102}{}{Melhor não chegar muito perto. Algumas das criaturas em sua roupa podem estar procurando uma casa limpa.}
-{103}{}{Howdy. Não encontrei pessoas muitas vezes aqui no país do caçador. O que quer?}
-{104}{}{Você tem alguma pele de gecko para venda?}
-{105}{}{Só de passagem.}
+{100}{}{VocÃª vÃª um homem sujo e sem barbear. }
+{101}{}{CaÃ§ador.}
+{102}{}{Melhor nÃ£o chegar muito perto. Algumas das criaturas em sua roupa podem estar procurando uma casa limpa.}
+{103}{}{Howdy. NÃ£o encontrei pessoas muitas vezes aqui no paÃ­s do caÃ§ador. O que quer?}
+{104}{}{VocÃª tem alguma pele de gecko para venda?}
+{105}{}{SÃ³ de passagem.}
 {106}{}{Ug.}
-{107}{}{Bem, eu acho que posso vender minhas peles. Isso me salvará o problema de ir até a
-  Cidade.}
-{108}{}{O que você tem?}
-{109}{}{Não importa.}
+{107}{}{Bem, eu acho que posso vender minhas peles. Isso me salvarÃ¡ o problema de ir atÃ© a
+Â  Cidade.}
+{108}{}{O que vocÃª tem?}
+{109}{}{NÃ£o importa.}
 {110}{}{Ug.}
-{111}{}{Aqui está o que eu recebi: }
+{111}{}{Aqui estÃ¡ o que eu recebi: }
 {112}{}{ Pele comum de gecko.}
 {113}{}{ pele dourada de gecko.}
-{114}{}{Eu vou levar tudo que você tem.}
-{115}{}{Talvez da próxima vez. Tchau.}
-{116}{}{É bom fazer negócios com você. Até a próxima.}
+{114}{}{Eu vou levar tudo que vocÃª tem.}
+{115}{}{Talvez da prÃ³xima vez. Tchau.}
+{116}{}{Ã‰ bom fazer negÃ³cios com vocÃª. AtÃ© a prÃ³xima.}
 {117}{}{Adeus.}
-{118}{}{Parece que você está com menos dinheiro. E você me dá cinco minutos com sua mulher. Eu vou fazer isso
-  Vale o seu tempo.}
-{119}{}{Parece que você está com menos dinheiro. Como me dar 5 minutos com o seu homem. Você sabe o que eu quero dizer. Posso dar-lhe peles no comércio.}
-{120}{}{Parece que você está com menos dinheiro. Diga-lhe o que, eu tenho estado nessas florestas por muito tempo, se você
-  pegou minha deriva. Eu farei valer a pena.}
+{118}{}{Parece que vocÃª estÃ¡ com menos dinheiro. E vocÃª me dÃ¡ cinco minutos com sua mulher. Eu vou fazer isso
+Â  Vale o seu tempo.}
+{119}{}{Parece que vocÃª estÃ¡ com menos dinheiro. Como me dar 5 minutos com o seu homem. VocÃª sabe o que eu quero dizer. Posso dar-lhe peles no comÃ©rcio.}
+{120}{}{Parece que vocÃª estÃ¡ com menos dinheiro. Diga-lhe o que, eu tenho estado nessas florestas por muito tempo, se vocÃª
+Â  pegou minha deriva. Eu farei valer a pena.}
 {121}{}{Com certeza.}
 {122}{}{Sem chance. Tchau.}
-{123}{}{[Miria vai te perdoar ... eventualmente. Mas, do lado positivo, o caçador deu-lhe algumas
-  peles.]}
-{124}{}{[Davin parece não estar pior pelo desgaste após a experiência.]}
-{125}{}{[Você se sente sujo em mais de um sentido da palavra - mas você tem algumas peles de gecko.]}
+{123}{}{[Miria vai te perdoar ... eventualmente. Mas, do lado positivo, o caÃ§ador deu-lhe algumas
+Â  peles.]}
+{124}{}{[Davin parece nÃ£o estar pior pelo desgaste apÃ³s a experiÃªncia.]}
+{125}{}{[VocÃª se sente sujo em mais de um sentido da palavra - mas vocÃª tem algumas peles de gecko.]}
 {126}{}{Adeus.}
-{127}{}{[Ele mantém a mão direita e diz] Como. Meu poderoso caçador. Caçar grandes geckos. Eu não significa
-  atravesse sua terra. Deixe pacificamente. [Ele lhe entrega uma pele de gecko como presente.]}
+{127}{}{[Ele mantÃ©m a mÃ£o direita e diz] Como. Meu poderoso caÃ§ador. CaÃ§ar grandes geckos. Eu nÃ£o significa
+Â  atravesse sua terra. Deixe pacificamente. [Ele lhe entrega uma pele de gecko como presente.]}
 {128}{}{[FIM]}
-{129}{}{Eu não tenho mais negócios com você.}
+{129}{}{Eu nÃ£o tenho mais negÃ³cios com vocÃª.}
 {130}{}{Sapsucker de ventre amarelo!}
-{131}{}{Este é o meu território de caça. Deixe-o!}
+{131}{}{Este Ã© o meu territÃ³rio de caÃ§a. Deixe-o!}
 {132}{}{Eu vou te esfolar vivo!}
-{133}{}{Eu vou usar sua cabeça como um troféu.}
+{133}{}{Eu vou usar sua cabeÃ§a como um trofÃ©u.}
 {134}{}{Uma pelagem regular de gecko: $}
 {135}{}{Uma pele dourada de gecko: $}
-{136}{}{OK, diretor. Você ganha.}
-{137}{}{Sorte por você, tenho que ir verificar minhas armadilhas.}
-{138}{}{Eu acho que ouço mamãe me chamar.}
-{140}{}{Parece que não tenho peles de gecko regulares, mas eu tenho}
-{141}{}{Parece que não tenho peles de gecko douradas, mas eu tenho}
+{136}{}{OK, diretor. VocÃª ganha.}
+{137}{}{Sorte por vocÃª, tenho que ir verificar minhas armadilhas.}
+{138}{}{Eu acho que ouÃ§o mamÃ£e me chamar.}
+{140}{}{Parece que nÃ£o tenho peles de gecko regulares, mas eu tenho}
+{141}{}{Parece que nÃ£o tenho peles de gecko douradas, mas eu tenho}
 {142}{}{Desculpe, parece que estou sem estoque.}
-{200}{}{Você vê uma mulher suja e abatida.}
+{200}{}{VocÃª vÃª uma mulher suja e abatida.}

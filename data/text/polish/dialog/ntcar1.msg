@@ -1,4 +1,4 @@
-{100}{}{Hej! Gdzie jest mój samochód?!}
-{101}{}{Gdzie siê podzia³ mój samochód...?}
-{110}{}{Buu. Ja tu nie widzieæ samochód!}
-{111}{}{Buu. Ja straciæ samochód...}
+{100}{}{Hej! Gdzie jest mÃ³j samochÃ³d?!}
+{101}{}{Gdzie siÄ™ podziaÅ‚ mÃ³j samochÃ³d...?}
+{110}{}{Buu. Ja tu nie widzieÄ‡ samochÃ³d!}
+{111}{}{Buu. Ja straciÄ‡ samochÃ³d...}

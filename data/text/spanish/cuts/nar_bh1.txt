@@ -1,5 +1,5 @@
-1:La destrucción de los mutantes asegura la muerte de la ciudad.
+1:La destrucciÃ³n de los mutantes asegura la muerte de la ciudad.
 2:Sin su fortaleza y capacidad para resistir las toxinas del interior de la mina, el valioso mineral se vuelve inalcanzable.
-3:Quienes ocasionaron esta destrucción se regocijan al principio... hasta que comprenden la necedad que han llevado a cabo.
+3:Quienes ocasionaron esta destrucciÃ³n se regocijan al principio... hasta que comprenden la necedad que han llevado a cabo.
 4:Se esfuerzan por mantener la comunidad floreciente, pero en vano.
 5:Los vientos y el Yermo borran Broken Hills del mapa.

@@ -1,103 +1,103 @@
 {100}{}{Widzisz naukowca.}
 {101}{}{Widzisz dr Schrebera.}
-{102}{}{Widzisz ³ysiej¹cego mê¿czyznê w kitlu labolatoryjnym.}
-{103}{}{¯o³nierzu, mam nadziejê, ¿e odrywasz mnie od mojej pracy z jakiegoœ wa¿nego powodu.}
-{104}{}{Ja chcieæ pytaæ.}
-{105}{}{Nie, ja jeszcze tu wróci.}
-{106}{}{Doskonale. Muszê jakoœ ¿yæ z tymi wszystkimi ¿o³dakami, wiêc równie dobrze mogê spróbowaæ dogadaæ siê z tob¹.}
-{107}{}{Co chcesz wiedzieæ?}
+{102}{}{Widzisz Å‚ysiejÄ…cego mÄ™Å¼czyznÄ™ w kitlu labolatoryjnym.}
+{103}{}{Å»oÅ‚nierzu, mam nadziejÄ™, Å¼e odrywasz mnie od mojej pracy z jakiegoÅ› waÅ¼nego powodu.}
+{104}{}{Ja chcieÄ‡ pytaÄ‡.}
+{105}{}{Nie, ja jeszcze tu wrÃ³ci.}
+{106}{}{Doskonale. MuszÄ™ jakoÅ› Å¼yÄ‡ z tymi wszystkimi Å¼oÅ‚dakami, wiÄ™c rÃ³wnie dobrze mogÄ™ sprÃ³bowaÄ‡ dogadaÄ‡ siÄ™ z tobÄ….}
+{107}{}{Co chcesz wiedzieÄ‡?}
 {108}{}{Twoja kto?}
-{109}{}{Co ty robiæ?}
+{109}{}{Co ty robiÄ‡?}
 {110}{}{To miejsce co?}
-{111}{}{Czemu ¿aden glos od tu?}
-{112}{}{Czemu œmierciszpon drugi pokój?}
+{111}{}{Czemu Å¼aden glos od tu?}
+{112}{}{Czemu Å›mierciszpon drugi pokÃ³j?}
 {113}{}{Czemu piesek przy drzwi nie rusza? Nie nic?}
-{114}{}{Ja musi iœæ ju¿.}
-{115}{}{Kim jesteœ?}
-{116}{}{Czym siê tutaj zajmujesz?}
+{114}{}{Ja musi iÅ›Ä‡ juÅ¼.}
+{115}{}{Kim jesteÅ›?}
+{116}{}{Czym siÄ™ tutaj zajmujesz?}
 {117}{}{Co to za miejsce?}
-{118}{}{Dlaczego ten pokój jest dŸwiêkoszczelny?}
-{119}{}{Po co w s¹siednim pokoju siedzi szpon œmierci?}
-{120}{}{O co chodzi z t¹ figurk¹ psa, która stoi przy drzwiach?}
-{121}{}{Muszê ju¿ iœæ.}
-{122}{}{Nazywam siê Schreber, doktor Schreber. Jestem miêdzy innymi miejscowym lekarzem. ¯o³nierzu, nie fatyguj siê z przedstawianiem siê. W tych waszych pancerzach i tak wszyscy wygl¹dacie jednakowo.}
-{123}{}{W porz¹dku.}
-{124}{}{Kapujê.}
-{125}{}{Pracujê tu jako lekarz, ale to tylko dodatkowe zajêcie. Tak naprawdê jestem genetykiem.}
+{118}{}{Dlaczego ten pokÃ³j jest dÅºwiÄ™koszczelny?}
+{119}{}{Po co w sÄ…siednim pokoju siedzi szpon Å›mierci?}
+{120}{}{O co chodzi z tÄ… figurkÄ… psa, ktÃ³ra stoi przy drzwiach?}
+{121}{}{MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{122}{}{Nazywam siÄ™ Schreber, doktor Schreber. Jestem miÄ™dzy innymi miejscowym lekarzem. Å»oÅ‚nierzu, nie fatyguj siÄ™ z przedstawianiem siÄ™. W tych waszych pancerzach i tak wszyscy wyglÄ…dacie jednakowo.}
+{123}{}{W porzÄ…dku.}
+{124}{}{KapujÄ™.}
+{125}{}{PracujÄ™ tu jako lekarz, ale to tylko dodatkowe zajÄ™cie. Tak naprawdÄ™ jestem genetykiem.}
 {126}{}{Co to?}
 {127}{}{Kim jest genetyk?}
-{128}{}{Szczerze w¹tpie, ¿o³nierzu, aby twoje mo¿liwoœci intelektualne pozwala³y ci zrozumieæ istotê mojej pracy. Poprzestañmy na stwierdzeniu, ¿e mogê "dostosowywaæ" ludzi i zwierzêta do swoich potrzeb.}
+{128}{}{Szczerze wÄ…tpie, Å¼oÅ‚nierzu, aby twoje moÅ¼liwoÅ›ci intelektualne pozwalaÅ‚y ci zrozumieÄ‡ istotÄ™ mojej pracy. PoprzestaÅ„my na stwierdzeniu, Å¼e mogÄ™ "dostosowywaÄ‡" ludzi i zwierzÄ™ta do swoich potrzeb.}
 {129}{}{Jasne... pewno.}
-{130}{}{Jasne... muszê zapytaæ ciê jeszcze o kilka rzeczy.}
-{131}{}{Mieœci³o siê tu stanowisko medyczne bazy. Jednak¿e doszed³em do wniosku, ¿e moje eksperymenty s¹ bardziej wymagaj¹ce, ni¿ zaspokajanie minimalnych potrzeb tutejszych ¿o³nierzy, wiêc przerobi³em ten pokój na laboratorium.}
+{130}{}{Jasne... muszÄ™ zapytaÄ‡ ciÄ™ jeszcze o kilka rzeczy.}
+{131}{}{MieÅ›ciÅ‚o siÄ™ tu stanowisko medyczne bazy. JednakÅ¼e doszedÅ‚em do wniosku, Å¼e moje eksperymenty sÄ… bardziej wymagajÄ…ce, niÅ¼ zaspokajanie minimalnych potrzeb tutejszych Å¼oÅ‚nierzy, wiÄ™c przerobiÅ‚em ten pokÃ³j na laboratorium.}
 {132}{}{Jak... fajnie.}
-{133}{}{To mi³e. Chcia³bym jeszcze o czymœ porozmawiaæ.}
-{134}{}{¯aden g³os od tu? Och, chodzi ci o dŸwiêkoszczelnoœæ! Otó¿ w trakcie badañ wykonujê... eksperymenty na osobnikach doœwiadczalnych. Czasem bywaj¹ nieco krzykliwe. Przeszkadza³o to dowódcy bazy, wiêc kaza³ za³o¿yæ instalacjê dŸwiêkoch³onn¹.}
-{135}{}{W trakcie badañ wykonujê... eksperymenty na osobnikach doœwiadczalnych. Oni czasem bywaj¹ nieco krzykliwi. Przeszkadza³o to dowódcy bazy, wiêc kaza³ za³o¿yæ instalacjê dŸwiêkoch³onn¹.}
+{133}{}{To miÅ‚e. ChciaÅ‚bym jeszcze o czymÅ› porozmawiaÄ‡.}
+{134}{}{Å»aden gÅ‚os od tu? Och, chodzi ci o dÅºwiÄ™koszczelnoÅ›Ä‡! OtÃ³Å¼ w trakcie badaÅ„ wykonujÄ™... eksperymenty na osobnikach doÅ›wiadczalnych. Czasem bywajÄ… nieco krzykliwe. PrzeszkadzaÅ‚o to dowÃ³dcy bazy, wiÄ™c kazaÅ‚ zaÅ‚oÅ¼yÄ‡ instalacjÄ™ dÅºwiÄ™kochÅ‚onnÄ….}
+{135}{}{W trakcie badaÅ„ wykonujÄ™... eksperymenty na osobnikach doÅ›wiadczalnych. Oni czasem bywajÄ… nieco krzykliwi. PrzeszkadzaÅ‚o to dowÃ³dcy bazy, wiÄ™c kazaÅ‚ zaÅ‚oÅ¼yÄ‡ instalacjÄ™ dÅºwiÄ™kochÅ‚onnÄ….}
 {136}{}{Ach...}
 {137}{}{Rozumiem.}
-{138}{}{Du¿y, brzydki i br¹zowy? To eksperyment, który w³aœnie niedawno ukoñczy³em. Jego unieczynnienie jest ju¿ zaplanowane.}
+{138}{}{DuÅ¼y, brzydki i brÄ…zowy? To eksperyment, ktÃ³ry wÅ‚aÅ›nie niedawno ukoÅ„czyÅ‚em. Jego unieczynnienie jest juÅ¼ zaplanowane.}
 {139}{}{Co jest unieczynnienie?}
-{140}{}{Czemu chcecie go zabiæ?}
-{141}{}{O ludzie... czy nie brak ci pi¹tej klepki? Unieczynniæ. Zabiæ, zat³uc, uœpiæ, uœmierciæ. £apiesz?}
-{142}{}{Ja ³apie. Czemu chce zabiæ szponek?}
-{143}{}{Enklawa poszukiwa³a tanich, daj¹cych siê ³atwo zast¹piæ ¿o³nierzy. Interesowa³y nas szpony œmierci, poniewa¿ maj¹ w³asn¹ zbrojê i broñ, a do tego s¹ wredne jak cholera. Trzeba by³o tylko uczyniæ je sprytniejszymi, aby rozumia³y rozkazy, ale nie zbyt sprytnymi, aby nie mog³y wykszta³ciæ w³asnej woli. Nad¹¿asz za tym, co mówiê?}
+{140}{}{Czemu chcecie go zabiÄ‡?}
+{141}{}{O ludzie... czy nie brak ci piÄ…tej klepki? UnieczynniÄ‡. ZabiÄ‡, zatÅ‚uc, uÅ›piÄ‡, uÅ›mierciÄ‡. Åapiesz?}
+{142}{}{Ja Å‚apie. Czemu chce zabiÄ‡ szponek?}
+{143}{}{Enklawa poszukiwaÅ‚a tanich, dajÄ…cych siÄ™ Å‚atwo zastÄ…piÄ‡ Å¼oÅ‚nierzy. InteresowaÅ‚y nas szpony Å›mierci, poniewaÅ¼ majÄ… wÅ‚asnÄ… zbrojÄ™ i broÅ„, a do tego sÄ… wredne jak cholera. Trzeba byÅ‚o tylko uczyniÄ‡ je sprytniejszymi, aby rozumiaÅ‚y rozkazy, ale nie zbyt sprytnymi, aby nie mogÅ‚y wyksztaÅ‚ciÄ‡ wÅ‚asnej woli. NadÄ…Å¼asz za tym, co mÃ³wiÄ™?}
 {144}{}{Uch... pewno.}
-{145}{}{Tak, nad¹¿am.}
-{146}{}{No i uda³o siê nam! Zdo³aliœmy zwiêkszyæ ich inteligencjê. Jednak¿e zacz¹³em podejrzewaæ, ¿e posunêliœmy siê za daleko. ¯e mo¿e one by³y du¿o sprytniejsze, ni¿ to po sobie pokazywa³y. Wiêc kiedy mnie tu przeniesiono, zabra³em ze sob¹ jednego osobnika, aby móc przetestowaæ swoj¹ teoriê.}
+{145}{}{Tak, nadÄ…Å¼am.}
+{146}{}{No i udaÅ‚o siÄ™ nam! ZdoÅ‚aliÅ›my zwiÄ™kszyÄ‡ ich inteligencjÄ™. JednakÅ¼e zaczÄ…Å‚em podejrzewaÄ‡, Å¼e posunÄ™liÅ›my siÄ™ za daleko. Å»e moÅ¼e one byÅ‚y duÅ¼o sprytniejsze, niÅ¼ to po sobie pokazywaÅ‚y. WiÄ™c kiedy mnie tu przeniesiono, zabraÅ‚em ze sobÄ… jednego osobnika, aby mÃ³c przetestowaÄ‡ swojÄ… teoriÄ™.}
 {147}{}{No i?}
-{148}{}{I mia³em racjê! Szpony œmierci najwyraŸniej udawa³y, ¿e s¹ g³upie, graj¹c w ten sposób na zw³okê i próbuj¹c siê przez ten czas nauczyæ od nas wszystkiego, czego tylko mog³y. One umiej¹ nawet naœladowaæ ludzk¹ mowê! Uda³o mi siê nawet porozmawiaæ z tym goœciem z s¹siedniego pokoju.}
-{149}{}{W ka¿dym razie fakt, ¿e by³y zdolne do powziêcia takiego planu i ¿e uda³o im siê nas oszukaæ, dowodzi jakie s¹ groŸne.}
-{150}{}{Wiêc co wy teraz planuje?}
-{151}{}{Co w takim razie zamierzacie zrobiæ?}
-{152}{}{Zamierzam napisaæ raport zawieraj¹cy moje odkrycia i przes³aæ go do Enklawy. Oczywiœcie bêdê zmuszony zaleciæ eksterminacjê ca³ego gatunku. Szpony œmierci s¹ zbyt powa¿nym zagro¿eniem.}
-{153}{}{Ja ³apie. Musi pyta wiêcej.}
-{154}{}{Uch. Ty pewny pokój dŸwiêkostrzelny?}
-{155}{}{Ja chce zabiæ szponik dla ty!}
-{156}{}{Hej, mogê zabiæ dla ciebie tego szpona œmierci?}
-{157}{}{Ciekawe. Mogê zapytaæ ciê o parê innych rzeczy?}
-{158}{}{Powiedz mi doktorku - jesteœ pewny, ¿e ten pokój jest dŸwiêkoszczelny?}
-{159}{}{Oczywiœcie, ¿e jestem pewny. W przeciwnym razie dowódca kaza³by to poprawiæ. A dlaczego pytasz?}
-{160}{}{Bez powód.}
-{161}{}{Ja nie chcê ktoœ s³yszy jak ty krzyczy jak ja ciê zabiæ!}
-{162}{}{Czysta ciekawoœæ.}
-{163}{}{Nie chcê, ¿eby ktoœ s³ysza³ twoje krzyki w czasie, gdy bêdê na tobie eksperymentowaæ.}
-{164}{}{Znowu tu jesteœ? W czym mogê ci pomóc tym razem?}
-{165}{}{Ty pewny pokój æwiekostrzelny?}
-{166}{}{Ja ma wiêcej pytania.}
-{167}{}{Nic. Moja mówi czeœæ.}
-{168}{}{Czy jesteœ pewny, ¿e ten pokój jest dŸwiêkoszczelny?}
-{169}{}{Chcê ciê jeszcze o coœ zapytaæ.}
-{170}{}{W niczym, chcê tylko jeszcze raz siê przywitaæ.}
-{171}{}{Oczywiœcie, ¿e jestem pewny. W przeciwnym razie dowódca kaza³by to poprawiæ. A dlaczego pytasz?}
-{172}{}{Bez powód.}
-{173}{}{Ja nie chcê ktoœ s³yszy jak ty krzyczy jak ja ciê zabiæ!}
-{174}{}{Czysta ciekawoœæ.}
-{175}{}{Nie chcê, ¿eby ktoœ s³ysza³ twoje krzyki w czasie, gdy bêdê na tobie eksperymentowaæ.}
-{176}{}{Czuj siê jak u siebie w domu. S¹siedni pokój.}
-{177}{}{Dziêki!}
-{178}{}{To jest mój pies, K-9. Postanowi³em zobaczyæ, czy uda mi siê cybernetycznie zwiêkszyæ jego inteligencjê. Uda³o mi siê, ale pies zapad³ na okropn¹ odmianê zasad moralnych, zdecydowa³, ¿e nie lubi mnie, ani mojej pracy i mnie ugryz³.}
-{179}{}{Za kare wy³¹czy³em mu nogi, ale poza tym zostawi³em w³¹czone wszystkie inne funkcje. Teraz musi siedzieæ tam i patrzeæ na ka¿dy mój niesmaczny postêpek.}
+{148}{}{I miaÅ‚em racjÄ™! Szpony Å›mierci najwyraÅºniej udawaÅ‚y, Å¼e sÄ… gÅ‚upie, grajÄ…c w ten sposÃ³b na zwÅ‚okÄ™ i prÃ³bujÄ…c siÄ™ przez ten czas nauczyÄ‡ od nas wszystkiego, czego tylko mogÅ‚y. One umiejÄ… nawet naÅ›ladowaÄ‡ ludzkÄ… mowÄ™! UdaÅ‚o mi siÄ™ nawet porozmawiaÄ‡ z tym goÅ›ciem z sÄ…siedniego pokoju.}
+{149}{}{W kaÅ¼dym razie fakt, Å¼e byÅ‚y zdolne do powziÄ™cia takiego planu i Å¼e udaÅ‚o im siÄ™ nas oszukaÄ‡, dowodzi jakie sÄ… groÅºne.}
+{150}{}{WiÄ™c co wy teraz planuje?}
+{151}{}{Co w takim razie zamierzacie zrobiÄ‡?}
+{152}{}{Zamierzam napisaÄ‡ raport zawierajÄ…cy moje odkrycia i przesÅ‚aÄ‡ go do Enklawy. OczywiÅ›cie bÄ™dÄ™ zmuszony zaleciÄ‡ eksterminacjÄ™ caÅ‚ego gatunku. Szpony Å›mierci sÄ… zbyt powaÅ¼nym zagroÅ¼eniem.}
+{153}{}{Ja Å‚apie. Musi pyta wiÄ™cej.}
+{154}{}{Uch. Ty pewny pokÃ³j dÅºwiÄ™kostrzelny?}
+{155}{}{Ja chce zabiÄ‡ szponik dla ty!}
+{156}{}{Hej, mogÄ™ zabiÄ‡ dla ciebie tego szpona Å›mierci?}
+{157}{}{Ciekawe. MogÄ™ zapytaÄ‡ ciÄ™ o parÄ™ innych rzeczy?}
+{158}{}{Powiedz mi doktorku - jesteÅ› pewny, Å¼e ten pokÃ³j jest dÅºwiÄ™koszczelny?}
+{159}{}{OczywiÅ›cie, Å¼e jestem pewny. W przeciwnym razie dowÃ³dca kazaÅ‚by to poprawiÄ‡. A dlaczego pytasz?}
+{160}{}{Bez powÃ³d.}
+{161}{}{Ja nie chcÄ™ ktoÅ› sÅ‚yszy jak ty krzyczy jak ja ciÄ™ zabiÄ‡!}
+{162}{}{Czysta ciekawoÅ›Ä‡.}
+{163}{}{Nie chcÄ™, Å¼eby ktoÅ› sÅ‚yszaÅ‚ twoje krzyki w czasie, gdy bÄ™dÄ™ na tobie eksperymentowaÄ‡.}
+{164}{}{Znowu tu jesteÅ›? W czym mogÄ™ ci pomÃ³c tym razem?}
+{165}{}{Ty pewny pokÃ³j Ä‡wiekostrzelny?}
+{166}{}{Ja ma wiÄ™cej pytania.}
+{167}{}{Nic. Moja mÃ³wi czeÅ›Ä‡.}
+{168}{}{Czy jesteÅ› pewny, Å¼e ten pokÃ³j jest dÅºwiÄ™koszczelny?}
+{169}{}{ChcÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{170}{}{W niczym, chcÄ™ tylko jeszcze raz siÄ™ przywitaÄ‡.}
+{171}{}{OczywiÅ›cie, Å¼e jestem pewny. W przeciwnym razie dowÃ³dca kazaÅ‚by to poprawiÄ‡. A dlaczego pytasz?}
+{172}{}{Bez powÃ³d.}
+{173}{}{Ja nie chcÄ™ ktoÅ› sÅ‚yszy jak ty krzyczy jak ja ciÄ™ zabiÄ‡!}
+{174}{}{Czysta ciekawoÅ›Ä‡.}
+{175}{}{Nie chcÄ™, Å¼eby ktoÅ› sÅ‚yszaÅ‚ twoje krzyki w czasie, gdy bÄ™dÄ™ na tobie eksperymentowaÄ‡.}
+{176}{}{Czuj siÄ™ jak u siebie w domu. SÄ…siedni pokÃ³j.}
+{177}{}{DziÄ™ki!}
+{178}{}{To jest mÃ³j pies, K-9. PostanowiÅ‚em zobaczyÄ‡, czy uda mi siÄ™ cybernetycznie zwiÄ™kszyÄ‡ jego inteligencjÄ™. UdaÅ‚o mi siÄ™, ale pies zapadÅ‚ na okropnÄ… odmianÄ™ zasad moralnych, zdecydowaÅ‚, Å¼e nie lubi mnie, ani mojej pracy i mnie ugryzÅ‚.}
+{179}{}{Za kare wyÅ‚Ä…czyÅ‚em mu nogi, ale poza tym zostawiÅ‚em wÅ‚Ä…czone wszystkie inne funkcje. Teraz musi siedzieÄ‡ tam i patrzeÄ‡ na kaÅ¼dy mÃ³j niesmaczny postÄ™pek.}
 {180}{}{Ach...}
-{181}{}{On da naprawiæ?}
+{181}{}{On da naprawiÄ‡?}
 {182}{}{Rozumiem.}
-{183}{}{Czy mo¿na go jakoœ naprawiæ?}
-{184}{}{O tak. Wyj¹³em mu motywator i da³em Raulowi z obs³ugi naziemnej. Zawsze mo¿na go wstawiæ z powrotem... mo¿e nawet któregoœ dnia to zrobiê, ¿eby zobaczyæ, czy spokornia³.}
-{185}{}{W porz¹dku.}
+{183}{}{Czy moÅ¼na go jakoÅ› naprawiÄ‡?}
+{184}{}{O tak. WyjÄ…Å‚em mu motywator i daÅ‚em Raulowi z obsÅ‚ugi naziemnej. Zawsze moÅ¼na go wstawiÄ‡ z powrotem... moÅ¼e nawet ktÃ³regoÅ› dnia to zrobiÄ™, Å¼eby zobaczyÄ‡, czy spokorniaÅ‚.}
+{185}{}{W porzÄ…dku.}
 {186}{}{Dobrze.}
-{187}{}{Jesteœ cywilem?}
-{188}{}{To jest laboratorium medyczne. Zbrojownia mieœci siê po lewej stronie wzd³u¿ korytarza.}
+{187}{}{JesteÅ› cywilem?}
+{188}{}{To jest laboratorium medyczne. Zbrojownia mieÅ›ci siÄ™ po lewej stronie wzdÅ‚uÅ¼ korytarza.}
 {189}{}{Czemu nie masz munduru?}
-{190}{}{Kurwa! Zostaliœmy zaatakowani! Alarm!}
-{191}{}{Stra¿! Intruzi!}
-{192}{}{Stra¿! Intruzi w laboratorium medycznym!}
+{190}{}{Kurwa! ZostaliÅ›my zaatakowani! Alarm!}
+{191}{}{StraÅ¼! Intruzi!}
+{192}{}{StraÅ¼! Intruzi w laboratorium medycznym!}
 {193}{}{Co jest? Zaatakowano nas?}
-{194}{}{Po co ten alarm? Co siê dzieje?}
-{195}{}{Co siê do jasnej cholery dzieje?}
+{194}{}{Po co ten alarm? Co siÄ™ dzieje?}
+{195}{}{Co siÄ™ do jasnej cholery dzieje?}
 {196}{}{Nie jestem wrogiem, nie strzelaj do mnie.}
-{197}{}{Nie zg³asza³em siê tu dla walki, wiêc zostaw mnie w spokoju.}
-{198}{}{Cholera! Jestem lekarzem, a nie ¿o³nierzem!}
+{197}{}{Nie zgÅ‚aszaÅ‚em siÄ™ tu dla walki, wiÄ™c zostaw mnie w spokoju.}
+{198}{}{Cholera! Jestem lekarzem, a nie Å¼oÅ‚nierzem!}
 {200}{}{[KONTYNUUJ]}
-{201}{}{Chcê ci zadaæ kilka pytañ.}
-{202}{}{Nie w tej chwili. Przepraszam za k³opot.}
-{800}{}{Doktor Schreber zosta³ zabity.}
+{201}{}{ChcÄ™ ci zadaÄ‡ kilka pytaÅ„.}
+{202}{}{Nie w tej chwili. Przepraszam za kÅ‚opot.}
+{800}{}{Doktor Schreber zostaÅ‚ zabity.}

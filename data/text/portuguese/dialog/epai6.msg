@@ -1,2 +1,2 @@
-{100}{}{Você vê um gerador de holograma.}
-{102}{}{Gerador de Holograma. NÃO ADULTERE ESTE!}
+{100}{}{VocÃª vÃª um gerador de holograma.}
+{102}{}{Gerador de Holograma. NÃƒO ADULTERE ESTE!}

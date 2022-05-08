@@ -1,62 +1,62 @@
 {100}{}{Um menino pequeno}
 {101}{}{Jonny}
-{102}{}{Cabelo loiro, olhos azuis, o todo típico garoto que olha o americano.}
+{102}{}{Cabelo loiro, olhos azuis, o todo tÃ­pico garoto que olha o americano.}
 {150}{}{Waaaaa!}
 {151}{}{Eu quero o meu cachorro de volta!}
 {152}{}{Lamento...}
 {153}{}{Estranho!}
-{154}{}{Se Laddie foi para Jonny Laddie! Eu perdi você, garota. Obrigado por trazer o meu cachorro de volta para mim.}
-{155}{}{Olá, eu não vi você por aqui antes.}
-{156}{}{Seu nome é Jonny?}
+{154}{}{Se Laddie foi para Jonny Laddie! Eu perdi vocÃª, garota. Obrigado por trazer o meu cachorro de volta para mim.}
+{155}{}{OlÃ¡, eu nÃ£o vi vocÃª por aqui antes.}
+{156}{}{Seu nome Ã© Jonny?}
 {157}{}{Qual o seu nome, carinha?}
 {158}{}{Diga-me seu nome que monstrinho.}
 {159}{}{Gostaria alguns doces garotinho.}
-{160}{}{Olá novamente.}
-{161}{}{Seu nome é Jonny?}
+{160}{}{OlÃ¡ novamente.}
+{161}{}{Seu nome Ã© Jonny?}
 {162}{}{Qual o seu nome, carinha?}
 {163}{}{Diga-me seu nome que monstrinho.}
 {164}{}{Gostaria alguns doces garotinho.}
-{165}{}{Olá novamente.}
-{166}{}{Sua mãe e seu pai me enviou para te encontrar.}
+{165}{}{OlÃ¡ novamente.}
+{166}{}{Sua mÃ£e e seu pai me enviou para te encontrar.}
 {167}{}{Gostaria alguns doces garotinho.}
-{168}{}{Você já falou com Vegeir sobre mim indo para casa?}
+{168}{}{VocÃª jÃ¡ falou com Vegeir sobre mim indo para casa?}
 {169}{}{Sim. Ele diz que quer seus pais venham aqui para baixo e te pegar.}
-{170}{}{Não, ainda não.}
-{171}{}{Meu pai disse Laddie vai com você ela ira olhar você para mim. Onde ela está? Eu sinto falta dela.}
-{172}{}{Sinto muito Jonny. Laddie morreu enquanto estávamos procurando por você.}
-{173}{}{Rose disse que iria cuidar de seu cão.}
-{174}{}{Meu nome é Jonny. Qual é o seu?}
-{175}{}{Meu nome é }
+{170}{}{NÃ£o, ainda nÃ£o.}
+{171}{}{Meu pai disse Laddie vai com vocÃª ela ira olhar vocÃª para mim. Onde ela estÃ¡? Eu sinto falta dela.}
+{172}{}{Sinto muito Jonny. Laddie morreu enquanto estÃ¡vamos procurando por vocÃª.}
+{173}{}{Rose disse que iria cuidar de seu cÃ£o.}
+{174}{}{Meu nome Ã© Jonny. Qual Ã© o seu?}
+{175}{}{Meu nome Ã© }
 {176}{}{.}
-{177}{}{Meu nome não é importante.}
-{178}{}{Meu nome é Jonny e eu não gosto de você.}
-{179}{}{[Ele aponta para você e começa a gritar.] Estranho! Estranho! Estranho!}
-{180}{}{Muito prazer em conhecê- .}
-{181}{}{Sua mãe e seu pai me enviou para te encontrar.}
-{182}{}{Vejo você por aí garoto.}
-{183}{}{Isso é inchaço! Eu queria ir para casa, mas Vegeir diz seu povo não pode viajar tão longe acima do solo e
-não poderia ter me ... Não é que eu duvido de você, mas o qual é o nome do meu pai?}
+{177}{}{Meu nome nÃ£o Ã© importante.}
+{178}{}{Meu nome Ã© Jonny e eu nÃ£o gosto de vocÃª.}
+{179}{}{[Ele aponta para vocÃª e comeÃ§a a gritar.] Estranho! Estranho! Estranho!}
+{180}{}{Muito prazer em conhecÃª- .}
+{181}{}{Sua mÃ£e e seu pai me enviou para te encontrar.}
+{182}{}{Vejo vocÃª por aÃ­ garoto.}
+{183}{}{Isso Ã© inchaÃ§o! Eu queria ir para casa, mas Vegeir diz seu povo nÃ£o pode viajar tÃ£o longe acima do solo e
+nÃ£o poderia ter me ... NÃ£o Ã© que eu duvido de vocÃª, mas o qual Ã© o nome do meu pai?}
 {184}{}{Farrel}
 {185}{}{Cornelius}
 {186}{}{Balthas}
 {187}{}{Davin}
 {188}{}{Joshua}
-{189}{}{Você não confia em mim Jonny?}
-{190}{}{Hmm ... .não. Obrigado, por trazer o meu cachorro de volta para mim, mas eu tenho que ir agora. Tchau.}
-{191}{}{Foi com certeza um prazer conhecê-lo, mas eu tenho que ir agora. Tchau.}
-{192}{}{Está certo! Yipee! Eu estou indo para casa. Peça Vegeir se está tudo certo para que você me levar para casa. Ele tem sido
-  tão bom para mim, eu não quero sair até que ele diga que está tudo bem. Por favor, depressa, estou com saudades de casa.}
-{193}{}{Ok senhor, eu acredito em você. Peça Vegeir está tudo certo para que você possa me levar para casa. Ele tem sido tão bom
-  mim, eu não quero sair até que ele diz que está tudo bem.}
-{194}{}{Senhorita Ok, eu acredito em você. Peça Vegeir está tudo certo para que você possa me levar para casa. Ele tem sido tão bom para mim,
-Eu não quero sair até que ele diga que está tudo bem.}
-{195}{}{Não. Eu estou indo para ir jogar com os meus amigos agora. Tchau.}
-{196}{}{Eu não tenho que falar com estranhos. Tchau.}
-{197}{}{Sim, é! Como você sabia? Laddie deve ter lhe contado. Ela é um cão tão esperto.}
-{198}{}{Sua mãe e seu pai me enviou para te encontrar.}
-{199}{}{Você vem comigo garoto. Há uma recompensa para trazer você de volta.}
-{200}{}{Sim, eu acho que é melhor. Embora eu confio em você, eu tenho certeza que Vegeir só quer ter certeza que eu chegar em casa
-  com segurança. Obrigado pela ajuda.}
+{189}{}{VocÃª nÃ£o confia em mim Jonny?}
+{190}{}{Hmm ... .nÃ£o. Obrigado, por trazer o meu cachorro de volta para mim, mas eu tenho que ir agora. Tchau.}
+{191}{}{Foi com certeza um prazer conhecÃª-lo, mas eu tenho que ir agora. Tchau.}
+{192}{}{EstÃ¡ certo! Yipee! Eu estou indo para casa. PeÃ§a Vegeir se estÃ¡ tudo certo para que vocÃª me levar para casa. Ele tem sido
+Â  tÃ£o bom para mim, eu nÃ£o quero sair atÃ© que ele diga que estÃ¡ tudo bem. Por favor, depressa, estou com saudades de casa.}
+{193}{}{Ok senhor, eu acredito em vocÃª. PeÃ§a Vegeir estÃ¡ tudo certo para que vocÃª possa me levar para casa. Ele tem sido tÃ£o bom
+Â  mim, eu nÃ£o quero sair atÃ© que ele diz que estÃ¡ tudo bem.}
+{194}{}{Senhorita Ok, eu acredito em vocÃª. PeÃ§a Vegeir estÃ¡ tudo certo para que vocÃª possa me levar para casa. Ele tem sido tÃ£o bom para mim,
+Eu nÃ£o quero sair atÃ© que ele diga que estÃ¡ tudo bem.}
+{195}{}{NÃ£o. Eu estou indo para ir jogar com os meus amigos agora. Tchau.}
+{196}{}{Eu nÃ£o tenho que falar com estranhos. Tchau.}
+{197}{}{Sim, Ã©! Como vocÃª sabia? Laddie deve ter lhe contado. Ela Ã© um cÃ£o tÃ£o esperto.}
+{198}{}{Sua mÃ£e e seu pai me enviou para te encontrar.}
+{199}{}{VocÃª vem comigo garoto. HÃ¡ uma recompensa para trazer vocÃª de volta.}
+{200}{}{Sim, eu acho que Ã© melhor. Embora eu confio em vocÃª, eu tenho certeza que Vegeir sÃ³ quer ter certeza que eu chegar em casa
+Â  com seguranÃ§a. Obrigado pela ajuda.}
 {201}{}{Por favor, depressa. Eu quero ir para casa.}
-{202}{}{Não! Eu não acredito em você! Devolva o meu cão! [Waaaaa!]}
-{203}{}{Oh não! Você não sabe que Rose utiliza cão em seus pratos! Laddie é provavelmente um hambúrguer agora.}
+{202}{}{NÃ£o! Eu nÃ£o acredito em vocÃª! Devolva o meu cÃ£o! [Waaaaa!]}
+{203}{}{Oh nÃ£o! VocÃª nÃ£o sabe que Rose utiliza cÃ£o em seus pratos! Laddie Ã© provavelmente um hambÃºrguer agora.}

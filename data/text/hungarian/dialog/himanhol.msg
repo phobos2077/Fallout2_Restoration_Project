@@ -1,1 +1,1 @@
-{100}{}{Sikeresen bejutottál Liz rejtett fegyvertárába.}
+{100}{}{Sikeresen bejutottÃ¡l Liz rejtett fegyvertÃ¡rÃ¡ba.}

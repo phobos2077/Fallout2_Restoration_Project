@@ -1,18 +1,18 @@
-{100}{}{Ez egy szurtos kölök, aki a brahminokra felügyel.}
-{101}{}{Marhapásztor.}
-{150}{}{A munkáján kívül nemigen figyel másra.}
-{200}{}{Bocsi, az istálló tele van. Máshova kell mennie.}
-{201}{}{Most nem érek rá.}
-{250}{}{Szag? Gondolom hozzászoktál.}
-{251}{}{Nem is olyan vészes.}
-{252}{}{Szerintem idén nem kell trágyáznom. Köszi.}
-{300}{}{Ennek friss széna kell.}
-{301}{}{Vizet kell még hoznom.}
-{302}{}{H?! Lapát kell ide.}
+{100}{}{Ez egy szurtos kÃ¶lÃ¶k, aki a brahminokra felÃ¼gyel.}
+{101}{}{MarhapÃ¡sztor.}
+{150}{}{A munkÃ¡jÃ¡n kÃ­vÃ¼l nemigen figyel mÃ¡sra.}
+{200}{}{Bocsi, az istÃ¡llÃ³ tele van. MÃ¡shova kell mennie.}
+{201}{}{Most nem Ã©rek rÃ¡.}
+{250}{}{Szag? Gondolom hozzÃ¡szoktÃ¡l.}
+{251}{}{Nem is olyan vÃ©szes.}
+{252}{}{Szerintem idÃ©n nem kell trÃ¡gyÃ¡znom. KÃ¶szi.}
+{300}{}{Ennek friss szÃ©na kell.}
+{301}{}{Vizet kell mÃ©g hoznom.}
+{302}{}{H?! LapÃ¡t kell ide.}
 {303}{}{Ez itt rendben van.}
-{304}{}{Jobb lenne ezt szemmel tartani. Elég betegnek látszik.}
+{304}{}{Jobb lenne ezt szemmel tartani. ElÃ©g betegnek lÃ¡tszik.}
 {350}{}{Zzz... Alszom... Zzz...}
-{351}{}{*ÁSÍT* Korán kell kelnem.}
-{352}{}{Hé, én még növésben vagyok. Aludnom kell.}
-{353}{}{Miért nem megy és beszél mással?}
-{354}{}{Azta, álmos vagyok, mint a fene. Bárcsak hagynának aludni.}
+{351}{}{*ÃSÃT* KorÃ¡n kell kelnem.}
+{352}{}{HÃ©, Ã©n mÃ©g nÃ¶vÃ©sben vagyok. Aludnom kell.}
+{353}{}{MiÃ©rt nem megy Ã©s beszÃ©l mÃ¡ssal?}
+{354}{}{Azta, Ã¡lmos vagyok, mint a fene. BÃ¡rcsak hagynÃ¡nak aludni.}

@@ -1,19 +1,19 @@
-{100}{}{To muskularny facet, z rozwiniêt¹ klat¹.}
-{101}{}{To Hal, szef spêdu bramin.}
-{102}{}{¯uje kawa³ek czegoœ co, masz nadziejê, nie wypluje w twoj¹ stronê, bo œmierdzi to jak diabli.}
-{103}{}{Jesteœ tu na spêd?}
+{100}{}{To muskularny facet, z rozwiniÄ™tÄ… klatÄ….}
+{101}{}{To Hal, szef spÄ™du bramin.}
+{102}{}{Å»uje kawaÅ‚ek czegoÅ› co, masz nadziejÄ™, nie wypluje w twojÄ… stronÄ™, bo Å›mierdzi to jak diabli.}
+{103}{}{JesteÅ› tu na spÄ™d?}
 {104}{}{}
 {105}{}{Tak.}
 {106}{}{Nie.}
 {107}{}{Miej oczy szeroko otwarte.}
-{108}{}{Trzymaæ siê razem ludzie!}
-{109}{}{Nie oci¹gaæ siê ch³opaki.}
-{110}{}{Super. Bierz je. ProwadŸ je do ch³opaków z Redding!}
-{111}{}{Wiêc zostaw mnie w spokoju. Mam 500 bramiñskich g³ów do wyprowadzenia na szlak.}
-{112}{}{Znowu ty? OdejdŸ.}
-{113}{}{Có¿, to dopiero by³a rzeŸnia! Bojê siê, ¿e w tym spêdzie nie ma kasy dla ¿adnego z nas. Ciesz siê, ¿e ¿yjesz.}
-{114}{}{Có¿, ranczerzy nie s¹ zbyt zadowoleni - za ten spêd tylko 1000$. Cholerne szczêœcie.}
-{115}{}{Có¿, mieliœmy troszkê pecha, ale uda³o nam siê. Oto 2000$, na które siê umówiliœmy.}
-{116}{}{Cholera, doskonale ci posz³o! Oto 1000$ premii dla ciebie. To i 2000$ razem daje twoj¹ zap³atê. Niech Redding lepiej dzisiaj w nocy uwa¿a!}
-{117}{}{Dalej pod¹¿asz ju¿ beze mnie. Dobrze siê z tob¹ podró¿owa³o.}
-{118}{}{Nigdy nie widzia³em gorszego konwojenta. Spadaj st¹d!}
+{108}{}{TrzymaÄ‡ siÄ™ razem ludzie!}
+{109}{}{Nie ociÄ…gaÄ‡ siÄ™ chÅ‚opaki.}
+{110}{}{Super. Bierz je. ProwadÅº je do chÅ‚opakÃ³w z Redding!}
+{111}{}{WiÄ™c zostaw mnie w spokoju. Mam 500 bramiÅ„skich gÅ‚Ã³w do wyprowadzenia na szlak.}
+{112}{}{Znowu ty? OdejdÅº.}
+{113}{}{CÃ³Å¼, to dopiero byÅ‚a rzeÅºnia! BojÄ™ siÄ™, Å¼e w tym spÄ™dzie nie ma kasy dla Å¼adnego z nas. Ciesz siÄ™, Å¼e Å¼yjesz.}
+{114}{}{CÃ³Å¼, ranczerzy nie sÄ… zbyt zadowoleni - za ten spÄ™d tylko 1000$. Cholerne szczÄ™Å›cie.}
+{115}{}{CÃ³Å¼, mieliÅ›my troszkÄ™ pecha, ale udaÅ‚o nam siÄ™. Oto 2000$, na ktÃ³re siÄ™ umÃ³wiliÅ›my.}
+{116}{}{Cholera, doskonale ci poszÅ‚o! Oto 1000$ premii dla ciebie. To i 2000$ razem daje twojÄ… zapÅ‚atÄ™. Niech Redding lepiej dzisiaj w nocy uwaÅ¼a!}
+{117}{}{Dalej podÄ…Å¼asz juÅ¼ beze mnie. Dobrze siÄ™ z tobÄ… podrÃ³Å¼owaÅ‚o.}
+{118}{}{Nigdy nie widziaÅ‚em gorszego konwojenta. Spadaj stÄ…d!}

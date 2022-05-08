@@ -1,22 +1,22 @@
-{100}{}{Oto Chet, szef Biura Rozmieszczeñ Niedozwolonych.}
-{101}{}{Chytrze uœmiechaj¹cy siê mê¿czyzna nosz¹cy kombinezon Krypty 13.}
-{102}{}{Oto Chet, szef Biura Rozmieszczeñ Niedozwolonych.}
-{103}{}{Chytrze uœmiechaj¹cy siê mê¿czyzna nosz¹cy kombinezon Krypty 13.}
-{104}{}{Uszanowanie, jestem szefem Biura Rozmieszczeñ Niedozwolonych... ale mo¿esz mi mówiæ Chet. Potrzebujesz czegoœ?}
-{105}{}{Mo¿e coœ jeszcze?}
-{106}{}{Dawaj ostatni¹ parafkê, Chet. Wszystko zrobione.}
-{107}{}{Chcê obj¹æ funkcjê Kapitana Stra¿y. Od zaraz.}
-{108}{}{Pragnê zostaæ obywatelem, jeœli nie masz nic przeciwko temu.}
-{109}{}{Dobra, dawaj te fa³szywe papiery obywatela.}
-{110}{}{Mog¹ byæ papiery wygnañca.}
-{111}{}{Zmieñ moje zapisy o reputacji.}
-{112}{}{(Nie dzia³a) Potrzebujê jakiejœ postaci w dru¿ynie.}
+{100}{}{Oto Chet, szef Biura RozmieszczeÅ„ Niedozwolonych.}
+{101}{}{Chytrze uÅ›miechajÄ…cy siÄ™ mÄ™Å¼czyzna noszÄ…cy kombinezon Krypty 13.}
+{102}{}{Oto Chet, szef Biura RozmieszczeÅ„ Niedozwolonych.}
+{103}{}{Chytrze uÅ›miechajÄ…cy siÄ™ mÄ™Å¼czyzna noszÄ…cy kombinezon Krypty 13.}
+{104}{}{Uszanowanie, jestem szefem Biura RozmieszczeÅ„ Niedozwolonych... ale moÅ¼esz mi mÃ³wiÄ‡ Chet. Potrzebujesz czegoÅ›?}
+{105}{}{MoÅ¼e coÅ› jeszcze?}
+{106}{}{Dawaj ostatniÄ… parafkÄ™, Chet. Wszystko zrobione.}
+{107}{}{ChcÄ™ objÄ…Ä‡ funkcjÄ™ Kapitana StraÅ¼y. Od zaraz.}
+{108}{}{PragnÄ™ zostaÄ‡ obywatelem, jeÅ›li nie masz nic przeciwko temu.}
+{109}{}{Dobra, dawaj te faÅ‚szywe papiery obywatela.}
+{110}{}{MogÄ… byÄ‡ papiery wygnaÅ„ca.}
+{111}{}{ZmieÅ„ moje zapisy o reputacji.}
+{112}{}{(Nie dziaÅ‚a) PotrzebujÄ™ jakiejÅ› postaci w druÅ¼ynie.}
 {113}{}{Nie, niczego.}
 {114}{}{Do czego?}
-{115}{}{Daj mi papiery ³owcy niewolników.}
-{116}{}{Wpisuj, ¿e zabijam dzieci.}
-{117}{}{Nic takiego... po prostu obni¿ moj¹ karmê o 100.}
-{118}{}{Niewa¿ne. Mam pytanie...}
+{115}{}{Daj mi papiery Å‚owcy niewolnikÃ³w.}
+{116}{}{Wpisuj, Å¼e zabijam dzieci.}
+{117}{}{Nic takiego... po prostu obniÅ¼ mojÄ… karmÄ™ o 100.}
+{118}{}{NiewaÅ¼ne. Mam pytanie...}
 {119}{}{Nie, niczego.}
 {120}{}{Kim?}
 {121}{}{Marcusa.}
@@ -24,4 +24,4 @@
 {123}{}{Vica.}
 {124}{}{Myrona.}
 {125}{}{Nikogo. Mam inne plany.}
-{126}{}{Niewa¿ne. Czeœæ.}
+{126}{}{NiewaÅ¼ne. CzeÅ›Ä‡.}

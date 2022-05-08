@@ -6,8 +6,8 @@
 {105}{}{An intruder! Guards! Guards!}
 {106}{}{Wh-?! A mutant! GUARDS! GUARDS!}
 {107}{}{Wh-? A ghoul! GUARDS! GUARDS!}
-{108}{}{Bom dia, Capitão.}
-{109}{}{Vault City prevails, Capitão.}
+{108}{}{Bom dia, CapitÃ£o.}
+{109}{}{Vault City prevails, CapitÃ£o.}
 {110}{}{Bom dia, Citizen.}
 {111}{}{Vault City prevails, Citizen.}
 {112}{}{Lists, lists, lists... how I love lists!}
@@ -22,7 +22,7 @@
 {121}{}{I'm sorry... can I help you?}
 {122}{}{Hep yew.}
 {123}{}{Desliga}
-{124}{}{Quem é você?}
+{124}{}{Quem Ã© vocÃª?}
 {125}{}{Just looking around, thanks.}
 {126}{}{Yet ANOTHER Servant that has strayed from his rounds?! I'll put Barkus on report if he keeps letting them wander about... now, you... Shoo! Shoo!}
 {127}{}{SHOOT yew? Ok-ay.}
@@ -30,7 +30,7 @@
 {129}{}{*Tchh* Those Servants seem to get stupider every day.}
 {130}{}{I am Proconsul Gregory. Is this the office you were looking for, or...?}
 {131}{}{"Proconsul?" What the hell is a "Proconsul?"}
-{132}{}{O que você faz aqui?}
+{132}{}{O que vocÃª faz aqui?}
 {133}{}{Just looking around, thanks.}
 {134}{}{I am the ASSISTANT to the First Citizen. I schedule her appointments, administer the Citizenship test to potential applicants, and update all the lists on the Vault City server. No small task, I assure you.}
 {135}{}{The Citizenship test?}
@@ -123,5 +123,5 @@
 {222}{}{Obrigado, adeus.}
 {223}{}{Their shantytown is built around the remains of an old atomic power plant... a plant they SOMEHOW started up again and that is now leaking radiation! Those creatures need to be driven out and that plant shut down!}
 {224}{}{Hmmm. Can I ask you some other questions?}
-{225}{}{Obrigado pela informação. Adeus.}
+{225}{}{Obrigado pela informaÃ§Ã£o. Adeus.}
 {226}{}{You have passed the Citizenship test and become a Citizen of Vault City.}

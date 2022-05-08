@@ -1,72 +1,72 @@
-{100}{}{Widzisz przystojnego, m³odego mê¿czyznê.}
+{100}{}{Widzisz przystojnego, mÅ‚odego mÄ™Å¼czyznÄ™.}
 {101}{}{Widzisz Davina.}
-{102}{}{Widzisz m³odego, dwudziestokilkuletniego mê¿czyznê. Jest bardzo podobny do Grishama.}
-{150}{}{Trzeba by³o tylko powiedzieæ i by³bym twój.}
-{151}{}{Hmpf! Miria nie jest a¿ tak dobra w ³ó¿ku.}
-{152}{}{Nie s¹dzi³em, ¿e zrobisz coœ tak pod³ego.}
-{153}{}{Nastêpnym razem spróbujemy w trójkê.}
+{102}{}{Widzisz mÅ‚odego, dwudziestokilkuletniego mÄ™Å¼czyznÄ™. Jest bardzo podobny do Grishama.}
+{150}{}{Trzeba byÅ‚o tylko powiedzieÄ‡ i byÅ‚bym twÃ³j.}
+{151}{}{Hmpf! Miria nie jest aÅ¼ tak dobra w Å‚Ã³Å¼ku.}
+{152}{}{Nie sÄ…dziÅ‚em, Å¼e zrobisz coÅ› tak podÅ‚ego.}
+{153}{}{NastÄ™pnym razem sprÃ³bujemy w trÃ³jkÄ™.}
 {154}{}{Ooo... jest milutki.}
-{155}{}{Spytaj j¹.}
-{156}{}{To by³o œwietne, kto nastêpny?}
-{157}{}{Czeœæ! Mam na imiê Davin. Pomagam ojcu prowadziæ rzeŸniê w Modoc.}
-{158}{}{Szukam z³otego zegarka Corneliusa. Nie widzia³eœ go?}
-{159}{}{Co robisz w rzeŸni?}
-{160}{}{Kr¹¿¹ plotki o tobie i braminie.}
+{155}{}{Spytaj jÄ….}
+{156}{}{To byÅ‚o Å›wietne, kto nastÄ™pny?}
+{157}{}{CzeÅ›Ä‡! Mam na imiÄ™ Davin. Pomagam ojcu prowadziÄ‡ rzeÅºniÄ™ w Modoc.}
+{158}{}{Szukam zÅ‚otego zegarka Corneliusa. Nie widziaÅ‚eÅ› go?}
+{159}{}{Co robisz w rzeÅºni?}
+{160}{}{KrÄ…Å¼Ä… plotki o tobie i braminie.}
 {161}{}{Powiedz mi o twoim tacie.}
 {162}{}{Witaj ponownie.}
-{163}{}{Wiedzia³em, ¿e do mnie wrócisz.}
+{163}{}{WiedziaÅ‚em, Å¼e do mnie wrÃ³cisz.}
 {168}{}{Dlaczego nie zajmiemy wygodniejszych pozycji?}
-{171}{}{Zostañ tu.}
-{172}{}{Pewnie, nie jestem zajêty. Pytaj.}
-{178}{}{Nie, nigdzie go nie widzia³em.}
-{179}{}{Czy mogê ci zadaæ kilka pytañ?}
-{180}{}{No có¿, ja ee... znaczy, ja... nadzoruje, zajmuje siê ró¿nymi rzeczami. W koñcu jestem synem w³aœciciela. Odziedziczê to miejsce, kiedy tata kopnie w kalendarz.}
-{182}{}{To k³amstwo. Chodzê w nocy do obory tylko po to, ¿eby ee... upewniæ siê, ¿e wszystko jest dobrze pozamykane. Wiesz, te wszystkie dzikie zwierzêta dooko³a i w ogóle.}
-{184}{}{Tata prowadzi rzeŸniê. Jak na ojca jest w porz¹dku. Jedna rada, jeœli robisz z nim jakieœ interesy. Zawsze jest coœ wiêcej w jego transakcjach, ni¿ to wynika z tego, co mówi na g³os.}
-{186}{}{Wróæ, gdy tylko zechcesz znowu... porozmawiaæ.}
-{187}{}{Kurcze, nigdy nie myœla³em, ¿e bêdzie mnie uwodziæ taka piêkna kobieta. Co? Nie jesteœ kobiet¹! Nie martw siê, jesteœ taki œliczny, ¿e nie mam obiekcji, je¿eli i ty ich nie masz.}
-{188}{}{Ja chyba œniê. Nie wierzê, ¿e tak piêkna kobieta próbuje mnie uwieœæ. Bo próbujesz mnie uwieœæ, prawda?}
-{189}{}{Spogl¹daæ w twe oczy to jak ujrzeæ najczystsze niebo. Nie niszczmy s³owami czaru tej cennej chwili. Niech nasze czyny mówi¹ same za siebie.}
-{190}{}{Przestañ gadaæ, tylko wszystko zepsujesz. Siadaj wygodnie i baw siê dobrze.}
-{191}{}{To chyba jakieœ nieporozumienie. Chcê zadaæ ci tylko kilka pytañ.}
-{192}{}{Dziêki za propozycjê, ale nie. Uuuch... Muszê ju¿ lecieæ.}
-{193}{}{O Bo¿e! Bierz mnie! Bierz mnie natychmiast! [Zdziera z siebie ubranie, potem z ciebie... a potem... u¿yj swej
- wyobraŸni]}
-{194}{}{[Chichocze] Ja bêdê "ciuchci¹"! Ty mo¿esz ni¹ byæ nastêpnym razem.}
-{195}{}{[Dwie godziny póŸniej: ziemia zadr¿a³a, a to ³ó¿ko nigdy ju¿ nie bêdzie takie, jak dawniej]}
-{196}{}{[Godzinê (i najlepszy orgazm, jaki zdarzy³o ci siê mieæ) póŸniej]}
-{197}{}{[Pó³ godziny póŸniej, le¿ycie wyczerpani]}
-{198}{}{[Piêtnaœcie minut i kilka chrz¹kniêæ póŸniej]}
-{199}{}{[Zanim uda³o ci siê zdj¹æ koszulê by³o ju¿ po wszystkim]}
-{200}{}{Muszê iœæ. Czeœæ.}
+{171}{}{ZostaÅ„ tu.}
+{172}{}{Pewnie, nie jestem zajÄ™ty. Pytaj.}
+{178}{}{Nie, nigdzie go nie widziaÅ‚em.}
+{179}{}{Czy mogÄ™ ci zadaÄ‡ kilka pytaÅ„?}
+{180}{}{No cÃ³Å¼, ja ee... znaczy, ja... nadzoruje, zajmuje siÄ™ rÃ³Å¼nymi rzeczami. W koÅ„cu jestem synem wÅ‚aÅ›ciciela. OdziedziczÄ™ to miejsce, kiedy tata kopnie w kalendarz.}
+{182}{}{To kÅ‚amstwo. ChodzÄ™ w nocy do obory tylko po to, Å¼eby ee... upewniÄ‡ siÄ™, Å¼e wszystko jest dobrze pozamykane. Wiesz, te wszystkie dzikie zwierzÄ™ta dookoÅ‚a i w ogÃ³le.}
+{184}{}{Tata prowadzi rzeÅºniÄ™. Jak na ojca jest w porzÄ…dku. Jedna rada, jeÅ›li robisz z nim jakieÅ› interesy. Zawsze jest coÅ› wiÄ™cej w jego transakcjach, niÅ¼ to wynika z tego, co mÃ³wi na gÅ‚os.}
+{186}{}{WrÃ³Ä‡, gdy tylko zechcesz znowu... porozmawiaÄ‡.}
+{187}{}{Kurcze, nigdy nie myÅ›laÅ‚em, Å¼e bÄ™dzie mnie uwodziÄ‡ taka piÄ™kna kobieta. Co? Nie jesteÅ› kobietÄ…! Nie martw siÄ™, jesteÅ› taki Å›liczny, Å¼e nie mam obiekcji, jeÅ¼eli i ty ich nie masz.}
+{188}{}{Ja chyba Å›niÄ™. Nie wierzÄ™, Å¼e tak piÄ™kna kobieta prÃ³buje mnie uwieÅ›Ä‡. Bo prÃ³bujesz mnie uwieÅ›Ä‡, prawda?}
+{189}{}{SpoglÄ…daÄ‡ w twe oczy to jak ujrzeÄ‡ najczystsze niebo. Nie niszczmy sÅ‚owami czaru tej cennej chwili. Niech nasze czyny mÃ³wiÄ… same za siebie.}
+{190}{}{PrzestaÅ„ gadaÄ‡, tylko wszystko zepsujesz. Siadaj wygodnie i baw siÄ™ dobrze.}
+{191}{}{To chyba jakieÅ› nieporozumienie. ChcÄ™ zadaÄ‡ ci tylko kilka pytaÅ„.}
+{192}{}{DziÄ™ki za propozycjÄ™, ale nie. Uuuch... MuszÄ™ juÅ¼ lecieÄ‡.}
+{193}{}{O BoÅ¼e! Bierz mnie! Bierz mnie natychmiast! [Zdziera z siebie ubranie, potem z ciebie... a potem... uÅ¼yj swej
+ wyobraÅºni]}
+{194}{}{[Chichocze] Ja bÄ™dÄ™ "ciuchciÄ…"! Ty moÅ¼esz niÄ… byÄ‡ nastÄ™pnym razem.}
+{195}{}{[Dwie godziny pÃ³Åºniej: ziemia zadrÅ¼aÅ‚a, a to Å‚Ã³Å¼ko nigdy juÅ¼ nie bÄ™dzie takie, jak dawniej]}
+{196}{}{[GodzinÄ™ (i najlepszy orgazm, jaki zdarzyÅ‚o ci siÄ™ mieÄ‡) pÃ³Åºniej]}
+{197}{}{[PÃ³Å‚ godziny pÃ³Åºniej, leÅ¼ycie wyczerpani]}
+{198}{}{[PiÄ™tnaÅ›cie minut i kilka chrzÄ…kniÄ™Ä‡ pÃ³Åºniej]}
+{199}{}{[Zanim udaÅ‚o ci siÄ™ zdjÄ…Ä‡ koszulÄ™ byÅ‚o juÅ¼ po wszystkim]}
+{200}{}{MuszÄ™ iÅ›Ä‡. CzeÅ›Ä‡.}
 {400}{}{Tato!}
 {401}{}{Ehm!}
-{402}{}{Tak, chcê!}
+{402}{}{Tak, chcÄ™!}
 {405}{}{Wujku Biff!}
 {410}{}{Uch...}
-{411}{}{Uuch... Proszê dalej...}
-{412}{}{Za cholerê...}
-{413}{}{Um... Chcê.}
-{450}{}{Aaa, o tym musisz raczej pogadaæ z kimœ innym.}
-{500}{}{O kurcze, teraz to ja tu chyba powinienem rz¹dziæ.}
+{411}{}{Uuch... ProszÄ™ dalej...}
+{412}{}{Za cholerÄ™...}
+{413}{}{Um... ChcÄ™.}
+{450}{}{Aaa, o tym musisz raczej pogadaÄ‡ z kimÅ› innym.}
+{500}{}{O kurcze, teraz to ja tu chyba powinienem rzÄ…dziÄ‡.}
 {1000}{}{Tak, cukiereczku.}
-{1001}{}{Co mogê dla ciebie zrobiæ, kochasiu?}
-{1005}{}{Nie rozumiesz. Nie chcê, ¿ebyœ tak siê zawsze na mnie uczepia³, gdy chodzimy.}
-{1006}{}{To, ¿e potrzebujê, ¿ebyœ szed³ daleko z ty³u..}
-{1007}{}{Ale... Ale... Co robiê Ÿle?}
-{1008}{}{Potrzebujesz czegoœ ode mnie, kochanie?}
-{1009}{}{Dziêki. I tak zaczyna³o robiæ siê nudno. Co teraz, kochanie?}
-{1010}{}{W rzeŸni zwyk³em zdejmowaæ skóry bramin, wiêc dobrze sobie radzê z no¿em. Kiedyœ tata kaza³ mi pobiæ braminê na œmieræ za pomoc¹ ³omu. Chyba móg³bym u¿ywaæ te¿ pa³ki. Ach, no tak, tata zabra³ mnie kiedyœ, ¿eby postrzelaæ z pistoletu, ale siê przestraszy³em i o ma³o go nie zastrzeli³em.}
-{1020}{}{Davin, potrzebujê trochê wiêcej przestrzeni.}
-{1100}{}{Jestem ju¿ uleczona i gotowa do drogi.}
-{1200}{}{Zosta³y tylko jakieœ drobne zadrapania.}
-{1300}{}{No có¿, jestem prawie zdrowy, ale przyda³oby mi siê trochê wiêcej leczenia, kiedy bêdzie na to szansa.}
-{1400}{}{Zrobi³am co mog³am, ale wci¹¿ ledwie zipiê.}
-{1500}{}{Nie, kochanie. Chcê iœæ z tob¹.}
-{1600}{}{Oczywiœcie, ju¿ odk³adam.}
-{1700}{}{W porz¹dku, jestem ca³y czas tu¿ za tob¹.}
-{1800}{}{Ale wtedy nie bêdê ciê móg³ chroniæ. Nie, lepiej zostanê blisko.}
-{1900}{}{A wiêc to tak? Nie ma mowy. Nie spuszczê ciê z wzroku, ty moja seks maszynko.}
-{2000}{}{A³uuu. Boli jakby by³a z³amana. Poca³uj tu ¿eby nie bola³o.?}
-{2001}{}{Uch, czujê siê jakbym mia³ gor¹czkê. Chyba jestem napromieniowany.}
-{2002}{}{Uch, jest mi niedobrze. Chyba siê czymœ stru³em.}
+{1001}{}{Co mogÄ™ dla ciebie zrobiÄ‡, kochasiu?}
+{1005}{}{Nie rozumiesz. Nie chcÄ™, Å¼ebyÅ› tak siÄ™ zawsze na mnie uczepiaÅ‚, gdy chodzimy.}
+{1006}{}{To, Å¼e potrzebujÄ™, Å¼ebyÅ› szedÅ‚ daleko z tyÅ‚u..}
+{1007}{}{Ale... Ale... Co robiÄ™ Åºle?}
+{1008}{}{Potrzebujesz czegoÅ› ode mnie, kochanie?}
+{1009}{}{DziÄ™ki. I tak zaczynaÅ‚o robiÄ‡ siÄ™ nudno. Co teraz, kochanie?}
+{1010}{}{W rzeÅºni zwykÅ‚em zdejmowaÄ‡ skÃ³ry bramin, wiÄ™c dobrze sobie radzÄ™ z noÅ¼em. KiedyÅ› tata kazaÅ‚ mi pobiÄ‡ braminÄ™ na Å›mierÄ‡ za pomocÄ… Å‚omu. Chyba mÃ³gÅ‚bym uÅ¼ywaÄ‡ teÅ¼ paÅ‚ki. Ach, no tak, tata zabraÅ‚ mnie kiedyÅ›, Å¼eby postrzelaÄ‡ z pistoletu, ale siÄ™ przestraszyÅ‚em i o maÅ‚o go nie zastrzeliÅ‚em.}
+{1020}{}{Davin, potrzebujÄ™ trochÄ™ wiÄ™cej przestrzeni.}
+{1100}{}{Jestem juÅ¼ uleczona i gotowa do drogi.}
+{1200}{}{ZostaÅ‚y tylko jakieÅ› drobne zadrapania.}
+{1300}{}{No cÃ³Å¼, jestem prawie zdrowy, ale przydaÅ‚oby mi siÄ™ trochÄ™ wiÄ™cej leczenia, kiedy bÄ™dzie na to szansa.}
+{1400}{}{ZrobiÅ‚am co mogÅ‚am, ale wciÄ…Å¼ ledwie zipiÄ™.}
+{1500}{}{Nie, kochanie. ChcÄ™ iÅ›Ä‡ z tobÄ….}
+{1600}{}{OczywiÅ›cie, juÅ¼ odkÅ‚adam.}
+{1700}{}{W porzÄ…dku, jestem caÅ‚y czas tuÅ¼ za tobÄ….}
+{1800}{}{Ale wtedy nie bÄ™dÄ™ ciÄ™ mÃ³gÅ‚ chroniÄ‡. Nie, lepiej zostanÄ™ blisko.}
+{1900}{}{A wiÄ™c to tak? Nie ma mowy. Nie spuszczÄ™ ciÄ™ z wzroku, ty moja seks maszynko.}
+{2000}{}{AÅ‚uuu. Boli jakby byÅ‚a zÅ‚amana. PocaÅ‚uj tu Å¼eby nie bolaÅ‚o.?}
+{2001}{}{Uch, czujÄ™ siÄ™ jakbym miaÅ‚ gorÄ…czkÄ™. Chyba jestem napromieniowany.}
+{2002}{}{Uch, jest mi niedobrze. Chyba siÄ™ czymÅ› struÅ‚em.}

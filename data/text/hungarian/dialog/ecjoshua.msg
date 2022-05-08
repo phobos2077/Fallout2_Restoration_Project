@@ -1,10 +1,10 @@
 {100}{}{You see a man strumming a lute.}
 {101}{}{This is Joshua.}
 {102}{}{He is a traveling minstrel.}
-{103}{}{Robin a bátor elszaladt...}
-{104}{}{Bátran elfutott, el ?...}
-{105}{}{A vész láttán, ahogy tudott, farkát behúzva elfutott.}
-{106}{}{Jó messzire, s ina szakadt... mind?n nyúlként bátran szaladt.}
-{107}{}{El?re csak lassan jutott, mert közben többször elcsúszott...}
-{108}{}{A bátor, a bátor, a h?s sir Robin...}
-{109}{}{Óh, a bátor sir Robin...}
+{103}{}{Robin a bÃ¡tor elszaladt...}
+{104}{}{BÃ¡tran elfutott, el ?...}
+{105}{}{A vÃ©sz lÃ¡ttÃ¡n, ahogy tudott, farkÃ¡t behÃºzva elfutott.}
+{106}{}{JÃ³ messzire, s ina szakadt... mind?n nyÃºlkÃ©nt bÃ¡tran szaladt.}
+{107}{}{El?re csak lassan jutott, mert kÃ¶zben tÃ¶bbszÃ¶r elcsÃºszott...}
+{108}{}{A bÃ¡tor, a bÃ¡tor, a h?s sir Robin...}
+{109}{}{Ã“h, a bÃ¡tor sir Robin...}

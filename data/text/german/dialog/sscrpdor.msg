@@ -1,19 +1,19 @@
-{100}{}{Du siehst eine Tür.}
+{100}{}{Du siehst eine TÃ¼r.}
 {101}{}{Sie sieht ziemlich stabil aus.}
-{102}{}{Die Tür scheint sich nicht bewegen zu lassen.}
-{103}{}{(Du bemerkst ein kleines Loch in der Tür, aus dem Geräusche dringen) Hallo?}
-{104}{}{Ähm, hallo?}
-{105}{}{Seit wann können Türen sprechen?}
-{106}{}{Äh, Tagchen.}
+{102}{}{Die TÃ¼r scheint sich nicht bewegen zu lassen.}
+{103}{}{(Du bemerkst ein kleines Loch in der TÃ¼r, aus dem GerÃ¤usche dringen) Hallo?}
+{104}{}{Ã„hm, hallo?}
+{105}{}{Seit wann kÃ¶nnen TÃ¼ren sprechen?}
+{106}{}{Ã„h, Tagchen.}
 {107}{}{GANG PROBLEM LIMB.}
-{108}{}{(Klick, die Tür geht auf.)}
-{109}{}{Tut mir leid, wir können so was nicht gebrauchen.}
-{110}{}{Die Tür ist von der anderen Seite verriegelt. Es gibt scheinbar nichts, das man als
- Dietrich verwenden könnte.}
-{111}{}{Die Tür ist fest verschlossen. Es gibt keine Stelle, an der man eine Sprengladung
- anbringen könnte.}
-{112}{}{Die Tür knarrt und bricht unter der Belastung.}
-{113}{}{Die Tür ist bereits geöffnet.}
-{114}{}{Du kannst der Tür nichts anhaben.}
+{108}{}{(Klick, die TÃ¼r geht auf.)}
+{109}{}{Tut mir leid, wir kÃ¶nnen so was nicht gebrauchen.}
+{110}{}{Die TÃ¼r ist von der anderen Seite verriegelt. Es gibt scheinbar nichts, das man als
+ Dietrich verwenden kÃ¶nnte.}
+{111}{}{Die TÃ¼r ist fest verschlossen. Es gibt keine Stelle, an der man eine Sprengladung
+ anbringen kÃ¶nnte.}
+{112}{}{Die TÃ¼r knarrt und bricht unter der Belastung.}
+{113}{}{Die TÃ¼r ist bereits geÃ¶ffnet.}
+{114}{}{Du kannst der TÃ¼r nichts anhaben.}
 {120}{}{Harro, Ra Ra?}
-{121}{}{Hehe, Tür sprechie sprechie. Hi!}
+{121}{}{Hehe, TÃ¼r sprechie sprechie. Hi!}

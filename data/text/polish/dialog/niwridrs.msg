@@ -1,4 +1,4 @@
-{200}{}{Wiedz¹c, ¿e jest to pokój Richarda, ostro¿nie przeszukujesz jego szafkê.}
-{201}{}{Hej. Tu jest pusty pojemnik po Jecie pod szafk¹.}
+{200}{}{WiedzÄ…c, Å¼e jest to pokÃ³j Richarda, ostroÅ¼nie przeszukujesz jego szafkÄ™.}
+{201}{}{Hej. Tu jest pusty pojemnik po Jecie pod szafkÄ….}
 {202}{}{Nic innego tu nie ma.}
-{250}{}{Znajdujesz... œlad. Pod szafk¹. W posiad³oœci Wrighta.}
+{250}{}{Znajdujesz... Å›lad. Pod szafkÄ…. W posiadÅ‚oÅ›ci Wrighta.}

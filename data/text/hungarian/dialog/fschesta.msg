@@ -1,39 +1,39 @@
-{100}{}{Egy számítógép-terminált látsz.}
-{101}{}{Vegyészeti munkaállomás.}
-{102}{}{Számítógépes munkaállomás.}
-{103}{}{Üdvözöljük! Kérem, adja meg a jelszavát, hogy ellen?rizhessük a személyazonosságát!}
-{104}{}{? Én nem érteni nagy szavak.}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz.}
+{101}{}{VegyÃ©szeti munkaÃ¡llomÃ¡s.}
+{102}{}{SzÃ¡mÃ­tÃ³gÃ©pes munkaÃ¡llomÃ¡s.}
+{103}{}{ÃœdvÃ¶zÃ¶ljÃ¼k! KÃ©rem, adja meg a jelszavÃ¡t, hogy ellen?rizhessÃ¼k a szemÃ©lyazonossÃ¡gÃ¡t!}
+{104}{}{? Ã‰n nem Ã©rteni nagy szavak.}
 {105}{}{TIUASPO-Lo-Shi-S12908}
 {106}{}{Hack into computer.}
-{107}{}{Kilépés.}
-{108}{}{Vegyészeti adatbázis: -Üzemanyag és származékok- -Polimerek-}
-{109}{}{Üzemanyag és származékok.}
+{107}{}{KilÃ©pÃ©s.}
+{108}{}{VegyÃ©szeti adatbÃ¡zis: -Ãœzemanyag Ã©s szÃ¡rmazÃ©kok- -Polimerek-}
+{109}{}{Ãœzemanyag Ã©s szÃ¡rmazÃ©kok.}
 {110}{}{Polimerek.}
-{111}{}{Munkaállomás deaktiválása.}
-{112}{}{Kilépés.}
-{113}{}{Kérem, beszéljen a rendszergazdával! Viszlát!}
+{111}{}{MunkaÃ¡llomÃ¡s deaktivÃ¡lÃ¡sa.}
+{112}{}{KilÃ©pÃ©s.}
+{113}{}{KÃ©rem, beszÃ©ljen a rendszergazdÃ¡val! ViszlÃ¡t!}
 {114}{}{Hack into computer.}
-{115}{}{Távozol.}
-{116}{}{Behatolót érzékeltem. Lekapcsolás. Legyen jó napja!}
+{115}{}{TÃ¡vozol.}
+{116}{}{BehatolÃ³t Ã©rzÃ©keltem. LekapcsolÃ¡s. Legyen jÃ³ napja!}
 {117}{}{[DONE]}
 {118}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sea life. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
-{119}{}{(Átvizsgálsz egy hatalmas vegyi képleteket és laborfeljegyzéseket felvonultató adathalmazt. Nem sok lövésed van róla, hogy ez a sok adat mit is jelent.)}
-{120}{}{Üzemanyag átirányítása a Poseidon tankerbe.}
-{121}{}{Üzemanyag átirányítása a Hubologistáknak.}
+{119}{}{(ÃtvizsgÃ¡lsz egy hatalmas vegyi kÃ©pleteket Ã©s laborfeljegyzÃ©seket felvonultatÃ³ adathalmazt. Nem sok lÃ¶vÃ©sed van rÃ³la, hogy ez a sok adat mit is jelent.)}
+{120}{}{Ãœzemanyag Ã¡tirÃ¡nyÃ­tÃ¡sa a Poseidon tankerbe.}
+{121}{}{Ãœzemanyag Ã¡tirÃ¡nyÃ­tÃ¡sa a HubologistÃ¡knak.}
 {122}{}{Vissza.}
-{123}{}{(Miután temérdek ábrán és technikai értekezésen átgázoltál, felfedezed, hogy a Shik egy új típusó polimer alapú harci páncél kifejlesztésén dolgoznak, mely mind a t?znek, mind a lövedékeknek ellenáll. A befejezést?l még mindig évekre tart. Mindemellett említéseket olvasol egy bizonyos új fegyverzetr?l, és gyártási lehet?ségekr?l. A Shik szemlátomást el vannak látva tervekkel a jöv?t illet?en.)}
+{123}{}{(MiutÃ¡n temÃ©rdek Ã¡brÃ¡n Ã©s technikai Ã©rtekezÃ©sen Ã¡tgÃ¡zoltÃ¡l, felfedezed, hogy a Shik egy Ãºj tÃ­pusÃ³ polimer alapÃº harci pÃ¡ncÃ©l kifejlesztÃ©sÃ©n dolgoznak, mely mind a t?znek, mind a lÃ¶vedÃ©keknek ellenÃ¡ll. A befejezÃ©st?l mÃ©g mindig Ã©vekre tart. Mindemellett emlÃ­tÃ©seket olvasol egy bizonyos Ãºj fegyverzetr?l, Ã©s gyÃ¡rtÃ¡si lehet?sÃ©gekr?l. A Shik szemlÃ¡tomÃ¡st el vannak lÃ¡tva tervekkel a jÃ¶v?t illet?en.)}
 {124}{}{Vissza.}
-{125}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
+{125}{}{Az Ã¼zemanyag Ã¡tirÃ¡nyÃ­tva a kÃ©rt helyre. TÃ¡rolÃ³ = Ãœres. Program bezÃ¡rÃ¡sa.}
 {126}{}{[DONE]}
-{127}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
+{127}{}{Az Ã¼zemanyag Ã¡tirÃ¡nyÃ­tva a kÃ©rt helyre. TÃ¡rolÃ³ = Ãœres. Program bezÃ¡rÃ¡sa.}
 {128}{}{[DONE]}
-{129}{}{Állomás deaktiválva.}
-{130}{}{Állomás aktiválása.}
-{131}{}{Távozol.}
-{132}{}{[Véletlenszer? próbálkozásodat siker koronázta... benn vagy a gépben!]}
-{133}{}{[TOVÁBB]}
-{134}{}{A számítógép semmilyen inputra nem reagál.}
-{135}{}{Nem találsz rajta semmilyen helyet, ahol ezt alkalmazhatnád.}
+{129}{}{ÃllomÃ¡s deaktivÃ¡lva.}
+{130}{}{ÃllomÃ¡s aktivÃ¡lÃ¡sa.}
+{131}{}{TÃ¡vozol.}
+{132}{}{[VÃ©letlenszer? prÃ³bÃ¡lkozÃ¡sodat siker koronÃ¡zta... benn vagy a gÃ©pben!]}
+{133}{}{[TOVÃBB]}
+{134}{}{A szÃ¡mÃ­tÃ³gÃ©p semmilyen inputra nem reagÃ¡l.}
+{135}{}{Nem talÃ¡lsz rajta semmilyen helyet, ahol ezt alkalmazhatnÃ¡d.}
 {136}{}{Guess the password.}
-{137}{}{Üzemanyag cs?vezetékbe juttatása.}
-{138}{}{Válasszon célpontot!}
+{137}{}{Ãœzemanyag cs?vezetÃ©kbe juttatÃ¡sa.}
+{138}{}{VÃ¡lasszon cÃ©lpontot!}

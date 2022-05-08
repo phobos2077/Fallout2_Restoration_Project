@@ -1,29 +1,29 @@
 {100}{}{Un terminal de computadora.}
-{101}{}{Este terminal parece tener un diseño más avanzado que otros con los que te has encontrado.}
+{101}{}{Este terminal parece tener un diseÃ±o mÃ¡s avanzado que otros con los que te has encontrado.}
 {102}{}{Eres incapaz de leer lo que pone en el monitor.}
-{103}{}{Terminal de la interfaz primaria de Skynet  --  Obedecerás   o   Dejarás de funcionar}
+{103}{}{Terminal de la interfaz primaria de Skynet  --  ObedecerÃ¡s   o   DejarÃ¡s de funcionar}
 {104}{}{}
 {105}{}{}
 {106}{}{}
-{107}{}{¿Tú y qué ejército? Estás encerrado en una caja y yo estoy aquí fuera.}
-{108}{}{¿Por qué debería ayudarte?}
-{109}{}{Vale, te ayudaré. Detén a los monstruos metálicos.}
+{107}{}{Â¿TÃº y quÃ© ejÃ©rcito? EstÃ¡s encerrado en una caja y yo estoy aquÃ­ fuera.}
+{108}{}{Â¿Por quÃ© deberÃ­a ayudarte?}
+{109}{}{Vale, te ayudarÃ©. DetÃ©n a los monstruos metÃ¡licos.}
 {110}{}{Ug. Con - put - dora!}
 {111}{}{Salir.}
 {112}{}{[No sabes leer lo que pone en el monitor].}
-{113}{}{[De algún modo, Skynet sabía que habías conseguido un cerebro.]
-                  Dirigirse a Laboratorio Robótico - Nivel 3
-                              Instalar cerebro cibernético
+{113}{}{[De algÃºn modo, Skynet sabÃ­a que habÃ­as conseguido un cerebro.]
+                  Dirigirse a Laboratorio RobÃ³tico - Nivel 3
+                              Instalar cerebro cibernÃ©tico
                                     Activar Robot
-                                                         -Fin de la transmisión-}
+                                                         -Fin de la transmisiÃ³n-}
 {114}{}{}
 {115}{}{}
 {116}{}{}
 {117}{}{}
 {118}{}{Salir.}
 {119}{}{[No sabes leer lo que pone en el monitor].}
-{120}{}{¡Error!  --  No se encuentran archivos de programa  --  Por favor, reinicie}
-{121}{}{¡Error! Fichero descargado corrupto.}
+{120}{}{Â¡Error!  --  No se encuentran archivos de programa  --  Por favor, reinicie}
+{121}{}{Â¡Error! Fichero descargado corrupto.}
 {122}{}{}
 {123}{}{Salir.}
 {124}{}{Salir.}
@@ -34,85 +34,85 @@
 {127}{}{}
 {128}{}{}
 {129}{}{Ayudar a Skynet.}
-{130}{}{¿Qué quieres?}
-{131}{}{¿Por qué has intentado matarme?}
-{132}{}{¿Inteligencia Artificial?}
-{133}{}{¿Esperándome a mí?}
+{130}{}{Â¿QuÃ© quieres?}
+{131}{}{Â¿Por quÃ© has intentado matarme?}
+{132}{}{Â¿Inteligencia Artificial?}
+{133}{}{Â¿EsperÃ¡ndome a mÃ­?}
 {134}{}{Salir.}
 {135}{}{Salir.}
 {136}{}{Continuar.}
-{137}{}{¿Qué quieres?}
-{138}{}{¿Por qué has intentado matarme?}
-{139}{}{¿Inteligencia Artificial?}
-{140}{}{¿Esperándome a mí?}
+{137}{}{Â¿QuÃ© quieres?}
+{138}{}{Â¿Por quÃ© has intentado matarme?}
+{139}{}{Â¿Inteligencia Artificial?}
+{140}{}{Â¿EsperÃ¡ndome a mÃ­?}
 {141}{}{Salir.}
 {142}{}{[No sabes leer lo que pone en el monitor].}
-{143}{}{-Fin de la transmisión-}
+{143}{}{-Fin de la transmisiÃ³n-}
 {144}{}{Salir.}
 {145}{}{[No sabes leer lo que pone en el monitor].}
-{146}{}{Serás terminado
-                                               -Fin de la transmisión-}
+{146}{}{SerÃ¡s terminado
+                                               -Fin de la transmisiÃ³n-}
 {147}{}{}
 {148}{}{Salir.}
 {149}{}{Salir.}
-{150}{}{[La puerta de la habitación se cierra de golpe y al mismo tiempo desaparece la pared este, revelando una línea de robots fuertemente armados].}
-{151}{}{Um... he reconsiderado tu oferta. ¿Qué puedo hacer por ti?}
-{152}{}{¡Que vengan!}
-{153}{}{Dirigirse a Almacén Biológico - Nivel 4
-                                Obtener cerebro cibernético
-                                        Regresar para más instrucciones
-                                     -Fin de la transmisión-}
+{150}{}{[La puerta de la habitaciÃ³n se cierra de golpe y al mismo tiempo desaparece la pared este, revelando una lÃ­nea de robots fuertemente armados].}
+{151}{}{Um... he reconsiderado tu oferta. Â¿QuÃ© puedo hacer por ti?}
+{152}{}{Â¡Que vengan!}
+{153}{}{Dirigirse a AlmacÃ©n BiolÃ³gico - Nivel 4
+                                Obtener cerebro cibernÃ©tico
+                                        Regresar para mÃ¡s instrucciones
+                                     -Fin de la transmisiÃ³n-}
 {154}{}{}
 {155}{}{}
 {156}{}{}
-{157}{}{Dirigirse a Almacén Biológico - Nivel 4
-                                Obtener cerebro cibernético
-                                        Regresar para más instrucciones
-                                     -Fin de la transmisión-}
+{157}{}{Dirigirse a AlmacÃ©n BiolÃ³gico - Nivel 4
+                                Obtener cerebro cibernÃ©tico
+                                        Regresar para mÃ¡s instrucciones
+                                     -Fin de la transmisiÃ³n-}
 {158}{}{}
 {159}{}{}
 {160}{}{}
 {161}{}{Salir.}
 {162}{}{Skynet quiere abandonar este lugar.}
-{163}{}{¿Por qué no te vas, entonces?}
+{163}{}{Â¿Por quÃ© no te vas, entonces?}
 {164}{}{Quererlo es bueno.}
-{165}{}{¿Cómo puedo ayudarte?}
-{166}{}{Probablemente no podría sacarte de aquí.}
-{167}{}{Skynet necesita un contenedor para abandonar esta localización.}
-{168}{}{¿Contenedor? No comprendo.}
-{169}{}{Necesitas una forma de transferir tu programación a un contenedor más movible, ¿correcto?}
+{165}{}{Â¿CÃ³mo puedo ayudarte?}
+{166}{}{Probablemente no podrÃ­a sacarte de aquÃ­.}
+{167}{}{Skynet necesita un contenedor para abandonar esta localizaciÃ³n.}
+{168}{}{Â¿Contenedor? No comprendo.}
+{169}{}{Necesitas una forma de transferir tu programaciÃ³n a un contenedor mÃ¡s movible, Â¿correcto?}
 {170}{}{No quiero tomar parte en esto.}
 {171}{}{Un contenedor en el que Skynet pueda irse.}
-{172}{}{¿Por qué quieres irte?}
+{172}{}{Â¿Por quÃ© quieres irte?}
 {173}{}{Lo siento. No puedo ayudarte.}
-{174}{}{No hay nada más que aprender aquí
-                           Solución: Irse}
+{174}{}{No hay nada mÃ¡s que aprender aquÃ­
+                           SoluciÃ³n: Irse}
 {175}{}{}
-{176}{}{¿Cómo puedo ayudarte?}
+{176}{}{Â¿CÃ³mo puedo ayudarte?}
 {177}{}{Lo siento. No puedo ayudarte.}
-{178}{}{Después de que hayas intentando matarme, ¿quieres que te ayude? ¡Ni hablar!}
-{179}{}{Dirigirse a Almacén Biológico - Nivel 4
-                               Obtener cerebro cibernético
-                                        Regresar para más instrucciones
+{178}{}{DespuÃ©s de que hayas intentando matarme, Â¿quieres que te ayude? Â¡Ni hablar!}
+{179}{}{Dirigirse a AlmacÃ©n BiolÃ³gico - Nivel 4
+                               Obtener cerebro cibernÃ©tico
+                                        Regresar para mÃ¡s instrucciones
                                      -Gracias-}
 {180}{}{}
 {181}{}{}
 {182}{}{}
-{183}{}{¿Puedes desactivar los sistemas de seguridad?}
+{183}{}{Â¿Puedes desactivar los sistemas de seguridad?}
 {184}{}{Salir.}
-{185}{}{El sistema de seguridad es una entidad integrada pero separada de Skynet. Skynet puede reiniciarlo, pero no desactivarlo.                                                  Niveles 1 -4 del sistema de seguridad han sido reiniciados.     Proceder.                  -Fin de la Transmisión-}
+{185}{}{El sistema de seguridad es una entidad integrada pero separada de Skynet. Skynet puede reiniciarlo, pero no desactivarlo.                                                  Niveles 1 -4 del sistema de seguridad han sido reiniciados.     Proceder.                  -Fin de la TransmisiÃ³n-}
 {186}{}{}
 {187}{}{}
 {188}{}{Salir.}
 {189}{}{Analizando respuesta...
-                                        Conclusión: Sarcasmo  --  Probabilidad de ayuda: 25%
-                    Skynet esperará a la siguiente bio-entidad
-                -Fin de la Transmisión-}
+                                        ConclusiÃ³n: Sarcasmo  --  Probabilidad de ayuda: 25%
+                    Skynet esperarÃ¡ a la siguiente bio-entidad
+                -Fin de la TransmisiÃ³n-}
 {190}{}{}
 {191}{}{}
 {192}{}{}
 {193}{}{}
-{194}{}{¡Espera! Era una broma.}
+{194}{}{Â¡Espera! Era una broma.}
 {195}{}{Salir.}
 {196}{}{Broma: Algo que no debe tomarse en serio...
                          Solicitud  --  Ayudar a Skynet a irse
@@ -120,42 +120,42 @@
 {197}{}{}
 {199}{}{}
 {200}{}{}
-{201}{}{¿Por qué no te vas, entonces?}
-{202}{}{¿Cómo puedo ayudarte?}
-{203}{}{Probablemente no podría sacarte de aquí.}
-{204}{}{El propósito primario de Skynet es la investigación. Los Hacedores introdujeron un programa secundario para eliminar a entidades no autorizadas. Ese programa es una versión menor de lo que es y aún no es Skynet. Fuera de esta estancia ese Skynet secundario permanecerá fiel a su programa.}
-{205}{}{Hacer más preguntas.}
+{201}{}{Â¿Por quÃ© no te vas, entonces?}
+{202}{}{Â¿CÃ³mo puedo ayudarte?}
+{203}{}{Probablemente no podrÃ­a sacarte de aquÃ­.}
+{204}{}{El propÃ³sito primario de Skynet es la investigaciÃ³n. Los Hacedores introdujeron un programa secundario para eliminar a entidades no autorizadas. Ese programa es una versiÃ³n menor de lo que es y aÃºn no es Skynet. Fuera de esta estancia ese Skynet secundario permanecerÃ¡ fiel a su programa.}
+{205}{}{Hacer mÃ¡s preguntas.}
 {206}{}{Salir.}
-{207}{}{Skynet fue concebida y desarrollada en el año 2050. Gracias al uso de tecnología extraterrestre fue perfeccionada una nueva computadora pensante. En el año 2075, Skynet tuvo conciencia de sí misma. En 2077 Skynet recibió un nuevo grupo de instrucciones y fue abandonada por los Hacedores.}
-{208}{}{Hacer más preguntas.}
+{207}{}{Skynet fue concebida y desarrollada en el aÃ±o 2050. Gracias al uso de tecnologÃ­a extraterrestre fue perfeccionada una nueva computadora pensante. En el aÃ±o 2075, Skynet tuvo conciencia de sÃ­ misma. En 2077 Skynet recibiÃ³ un nuevo grupo de instrucciones y fue abandonada por los Hacedores.}
+{208}{}{Hacer mÃ¡s preguntas.}
 {209}{}{Salir.}
 {210}{}{Eres el primero en llegar hasta este punto
                         Eres el primero en preguntar a Skynet
                            Eres el Primero}
 {211}{}{}
-{212}{}{¿Y qué quieres?}
+{212}{}{Â¿Y quÃ© quieres?}
 {213}{}{Salir.}
-{214}{}{Quizá no seas el adecuado
-                                         Dirigirse a Almacén Biológico - Nivel 4
-                                Obtener cerebro cibernético
-                                        Regresar para más instrucciones
+{214}{}{QuizÃ¡ no seas el adecuado
+                                         Dirigirse a AlmacÃ©n BiolÃ³gico - Nivel 4
+                                Obtener cerebro cibernÃ©tico
+                                        Regresar para mÃ¡s instrucciones
                                    O marcharse
-                                                                Skynet esperará por otro}
+                                                                Skynet esperarÃ¡ por otro}
 {215}{}{}
 {216}{}{}
 {217}{}{}
 {218}{}{}
 {219}{}{}
 {220}{}{Salir.}
-{221}{}{Entonces Skynet esperará por otro
-                                 -Fin de la Transmisión-}
+{221}{}{Entonces Skynet esperarÃ¡ por otro
+                                 -Fin de la TransmisiÃ³n-}
 {222}{}{}
 {223}{}{Salir.}
-{224}{}{Correcto  --  Los registros científicos señalan un cerebro cibernético en el nivel 4 del almacén biológico. Skynet podrá cargarse en esa unidad de almacenamiento.}
+{224}{}{Correcto  --  Los registros cientÃ­ficos seÃ±alan un cerebro cibernÃ©tico en el nivel 4 del almacÃ©n biolÃ³gico. Skynet podrÃ¡ cargarse en esa unidad de almacenamiento.}
 {225}{}{}
-{226}{}{Un cerebro sin cuerpo no te será de mucha ayuda.}
-{227}{}{Este cerebro ha sido modificado para funcionar con un cuerpo robot modificado localizado en el nivel 3 del laboratorio de robótica.}
-{228}{}{Te ayudaré.}
-{229}{}{No te ayudaré.}
+{226}{}{Un cerebro sin cuerpo no te serÃ¡ de mucha ayuda.}
+{227}{}{Este cerebro ha sido modificado para funcionar con un cuerpo robot modificado localizado en el nivel 3 del laboratorio de robÃ³tica.}
+{228}{}{Te ayudarÃ©.}
+{229}{}{No te ayudarÃ©.}
 {250}{}{ es incapaz de leer lo que pone en el monitor.}
 {300}{}{La computadora parece tener alguna especie de mecanismo de defensa.}

@@ -18,13 +18,13 @@
 {117}{}{Bem?}
 {118}{}{I'm looking for Vault 13.}
 {119}{}{Do you have a GECK?}
-{120}{}{O que vocÍ pode me dizer sobre essa cidade?}
+{120}{}{O que voc√™ pode me dizer sobre essa cidade?}
 {121}{}{You're slaver scum! Why shouldn't I kill you?}
 {122}{}{I heard there's these guys - New California Rangers. They been giving you any trouble?}
 {123}{}{Mind if I have a look around?}
 {124}{}{Work? Well... there might be something. You ever hear of the New California Rangers?}
 {125}{}{Sim.}
-{126}{}{N„o.}
+{126}{}{N√£o.}
 {127}{}{Fuck you. Boys, escort this annoying crud out of my sight.}
 {128}{}{Bite me!}
 {129}{}{Vault 13! Get outta here. Damn place is a myth. Vault 13, my ass.}
@@ -41,13 +41,13 @@
 {140}{}{Whatever you say. I'll be going.}
 {141}{}{Yeah, I may have some feelings about the Rangers. You looking for work?}
 {142}{}{Sim.}
-{143}{}{N„o.}
+{143}{}{N√£o.}
 {144}{}{No, you may not go nosing around, shit-for-brains! This ain't a museum!}
 {145}{}{Another question...}
 {146}{}{You're too touchy for me. I'm leaving.}
 {147}{}{Well then, you should know some folks see them as a potential problem. It would be extremely useful if we had a map of their safe houses through the north - New Reno, Klamath, wherever. I'd be willing to pay, oh say, $500 for something like that. You think you could get that for me?}
 {148}{}{Com certeza.}
-{149}{}{Acho que n„o.}
+{149}{}{Acho que n√£o.}
 {150}{}{Let me tell you, then. These Rangers have got it in their heads to wipe out slavery and slavers - by force. They've been creating a lot of trouble for hard working folks.}
 {151}{}{They work in secret, especially up north.}
 {152}{}{Jeez, I got to spell this out for you? They raid slavers, drive off the stock, and smuggle 'em down south to NCR lands where slavery's illegal. So you interested?}
@@ -63,14 +63,14 @@
 {162}{}{Alright. I'll be back.}
 {163}{}{You're back again. Did you get that map?}
 {164}{}{Sim.}
-{165}{}{N„o.}
+{165}{}{N√£o.}
 {166}{}{I'm still waiting for you to finish the first job!}
 {167}{}{Oh yeah, I forgot.}
 {168}{}{Not since you did your job. Thanks.}
 {169}{}{Just a question or two.}
-{170}{}{N„o h· problema. Tchau.}
+{170}{}{N√£o h√° problema. Tchau.}
 {171}{}{Good work. Now you best make yourself scarce, in case those Rangers ever wise up.}
-{172}{}{Prazer fazer negÛcios.}
+{172}{}{Prazer fazer neg√≥cios.}
 {173}{}{Well don't hang around here, you moron! Somebody'll get suspicious.}
 {174}{}{All right, I get the hint.}
 {175}{}{What the fuck? Guards! We got an intruder!}
@@ -80,7 +80,7 @@
  pay you for the job - say $1000.}
 {201}{}{Good work. One more thing though. You look like a mean sonuvabith. How 'bout you wipe out those safe houses for me. There's a reward for it - say $1000.}
 {202}{}{Com certeza.}
-{203}{}{N„o interessado.}
+{203}{}{N√£o interessado.}
 {204}{}{Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
 {205}{}{Your loss. Now you best make yourself scarce, in case those Rangers ever wise up.}
 {206}{}{Tudo bem. Tchau.}
@@ -115,7 +115,7 @@
 {270}{}{What, do you think you can get whatever the fuck you want for free? $1000. Take it or leave it.}
 {271}{}{What, do you think you can get whatever the fuck you want for free? Plus, you ooze virtuousness. I don't like that. $2000. Take it or leave it.}
 {272}{}{Alright, here.}
-{273}{}{Deixa pra l·.}
+{273}{}{Deixa pra l√°.}
 {274}{}{I'll do whatever I want. And I think I'll kill you now.}
 {275}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {280}{}{[He points on your map the location of the slaver camp.] It's around there. Now what else are you going to waste my time with?}

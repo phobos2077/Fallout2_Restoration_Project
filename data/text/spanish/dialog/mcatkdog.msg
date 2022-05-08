@@ -1,14 +1,14 @@
-{100}{}{Ves a un perro guardián.}
+{100}{}{Ves a un perro guardiÃ¡n.}
 {101}{}{Ves a un perro salvaje.}
-{120}{}{Ves a un perro guardián.}
+{120}{}{Ves a un perro guardiÃ¡n.}
 {121}{}{Ves a un perro salvaje.}
 {200}{}{:: REZONGAR ::}
-{201}{}{:: GRUÑIR ::}
+{201}{}{:: GRUÃ‘IR ::}
 {202}{}{:: BRAMAR ::}
-{205}{}{¡Guau!}
-{206}{}{¡Guau! ¡Guau!}
+{205}{}{Â¡Guau!}
+{206}{}{Â¡Guau! Â¡Guau!}
 {210}{}{El perro parece haber sido entrenado para proteger lo que haya dentro del cobertizo.}
 {211}{}{A perrito no le gusto.}
-{212}{}{¡Perrito bueeeno!}
-{250}{}{Este perro podría destrozarte si quisiera hacerlo.}
+{212}{}{Â¡Perrito bueeeno!}
+{250}{}{Este perro podrÃ­a destrozarte si quisiera hacerlo.}
 {300}{}{Mataste a todos los perros atacando a los brahmines.}

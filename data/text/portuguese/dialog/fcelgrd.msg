@@ -1,36 +1,36 @@
-{100}{}{Você vê uma guarda bem armada.}
-{101}{}{Você vê uma guarda Hubologista.}
-{102}{}{Você vê uma pessoa bem armada com um olhar cruel para os olhos.}
+{100}{}{VocÃª vÃª uma guarda bem armada.}
+{101}{}{VocÃª vÃª uma guarda Hubologista.}
+{102}{}{VocÃª vÃª uma pessoa bem armada com um olhar cruel para os olhos.}
 {103}{}{Intruso!}
 {104}{}{Pegue o intruso!}
 {105}{}{Por aqui! Por aqui!}
-{106}{}{Hora de morrer, infiel! A Grande Roda rola sobre você!}
-{107}{}{Nós somos os Guardiões. Você está para morrer agora.}
+{106}{}{Hora de morrer, infiel! A Grande Roda rola sobre vocÃª!}
+{107}{}{NÃ³s somos os GuardiÃµes. VocÃª estÃ¡ para morrer agora.}
 {108}{}{Estrela Pai, guia o meu objetivo.}
-{109}{}{Você tem contaminado os nossos princípios!}
-{110}{}{Se os advogados não funcionam, nossas armas irão.}
-{111}{}{Nós somos o braço longo da lei do Hub.}
+{109}{}{VocÃª tem contaminado os nossos princÃ­pios!}
+{110}{}{Se os advogados nÃ£o funcionam, nossas armas irÃ£o.}
+{111}{}{NÃ³s somos o braÃ§o longo da lei do Hub.}
 {112}{}{Transgressor!}
 {113}{}{Cuidado com o degrau.}
 {114}{}{Pisar leve, estranho.}
-{115}{}{Não toque em nada você não deveria.}
-{116}{}{Se você sair da linha, faremos carne crua de você.}
+{115}{}{NÃ£o toque em nada vocÃª nÃ£o deveria.}
+{116}{}{Se vocÃª sair da linha, faremos carne crua de vocÃª.}
 {117}{}{Seja muito, muito cuidadoso.}
-{118}{}{Nós somos a lei do Hub. Não quebre isso.}
+{118}{}{NÃ³s somos a lei do Hub. NÃ£o quebre isso.}
 {119}{}{Eu sou AHS-4.}
-{120}{}{Eu vou "alinhar" você se você se comportar mal.}
-{121}{}{Tenho a sanção da Grande Roda.}
-{122}{}{Saudações, colega de trabalho.}
-{123}{}{Saudações,}
-{124}{}{Fico feliz por tê-lo conosco.}
-{125}{}{Continue com seu negócio.}
-{126}{}{Não incomode aqueles que tentam se concentrar.}
-{127}{}{Sua presença é bem-vinda ... lá.}
+{120}{}{Eu vou "alinhar" vocÃª se vocÃª se comportar mal.}
+{121}{}{Tenho a sanÃ§Ã£o da Grande Roda.}
+{122}{}{SaudaÃ§Ãµes, colega de trabalho.}
+{123}{}{SaudaÃ§Ãµes,}
+{124}{}{Fico feliz por tÃª-lo conosco.}
+{125}{}{Continue com seu negÃ³cio.}
+{126}{}{NÃ£o incomode aqueles que tentam se concentrar.}
+{127}{}{Sua presenÃ§a Ã© bem-vinda ... lÃ¡.}
 {128}{}{O Hub nos colocou para vigiar o seu rebanho.}
-{129}{}{O Pai das Estrelas cuida de você. É por isso que ele te deu.}
+{129}{}{O Pai das Estrelas cuida de vocÃª. Ã‰ por isso que ele te deu.}
 {130}{}{Somos leais ao AHS-9.}
 {131}{}{Obedecer.}
 {132}{}{Dormir.}
 {133}{}{Consumir.}
-{134}{}{Nós temos seus melhores interesses no coração.}
+{134}{}{NÃ³s temos seus melhores interesses no coraÃ§Ã£o.}
 {135}{}{.}

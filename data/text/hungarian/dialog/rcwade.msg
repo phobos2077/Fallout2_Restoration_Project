@@ -1,59 +1,59 @@
-{100}{}{Egy kezeslábasba öltözött férfit látsz.}
-{101}{}{? Ben Wade, a Redding-Menedékváros karaván vezet?je.}
-{102}{}{Egy Menedékruhába öltözött férfihez van szerencséd.}
-{103}{}{Hát nem vagy szívbajos, hogy megint ide kuncsorogsz munkáért. Soha többé nem kapsz t?lem melót!}
+{100}{}{Egy kezeslÃ¡basba Ã¶ltÃ¶zÃ¶tt fÃ©rfit lÃ¡tsz.}
+{101}{}{? Ben Wade, a Redding-MenedÃ©kvÃ¡ros karavÃ¡n vezet?je.}
+{102}{}{Egy MenedÃ©kruhÃ¡ba Ã¶ltÃ¶zÃ¶tt fÃ©rfihez van szerencsÃ©d.}
+{103}{}{HÃ¡t nem vagy szÃ­vbajos, hogy megint ide kuncsorogsz munkÃ¡Ã©rt. Soha tÃ¶bbÃ© nem kapsz t?lem melÃ³t!}
 {104}{}{T?nj a szemem el?l!}
-{105}{}{Gyerünk, mozgás! Ébreszt?!}
-{106}{}{OK, gyerünk!}
-{107}{}{Helló! A nevem Ben. Ben Wade. Én vagyok a Redding és Menedékváros között járó karaván vezet?je. Többnyire ki tudnánk használni egy plusz ?r segítségét. Mellesleg épp most készültünk indulni.}
-{108}{}{Helló! A nevem Ben. Ben Wade. Én vagyok a Redding és Menedékváros közötti karaván vezet?je. Többnyire tudunk használni még egy ?rt. Minden hónap elsején hagyjuk el a várost. Ha fel akarsz iratkozni, legyél itt akkor.}
+{105}{}{GyerÃ¼nk, mozgÃ¡s! Ã‰breszt?!}
+{106}{}{OK, gyerÃ¼nk!}
+{107}{}{HellÃ³! A nevem Ben. Ben Wade. Ã‰n vagyok a Redding Ã©s MenedÃ©kvÃ¡ros kÃ¶zÃ¶tt jÃ¡rÃ³ karavÃ¡n vezet?je. TÃ¶bbnyire ki tudnÃ¡nk hasznÃ¡lni egy plusz ?r segÃ­tsÃ©gÃ©t. Mellesleg Ã©pp most kÃ©szÃ¼ltÃ¼nk indulni.}
+{108}{}{HellÃ³! A nevem Ben. Ben Wade. Ã‰n vagyok a Redding Ã©s MenedÃ©kvÃ¡ros kÃ¶zÃ¶tti karavÃ¡n vezet?je. TÃ¶bbnyire tudunk hasznÃ¡lni mÃ©g egy ?rt. Minden hÃ³nap elsejÃ©n hagyjuk el a vÃ¡rost. Ha fel akarsz iratkozni, legyÃ©l itt akkor.}
 {109}{}{Akkor MOST mit akarsz?}
-{110}{}{Mú-mú-kat?}
-{111}{}{Egy ?rre van szükséged, nemde?}
-{112}{}{Mit szállít ez a karaván?}
-{113}{}{Miért vártok elsejéig?}
-{114}{}{Nem hiszem, hogy ez nekem való lenne. Viszlát!}
-{115}{}{Úgy t?nik, egyre nehezebbek lesznek az utak.}
-{116}{}{Hah! Jobbat is kitalálhattak volna, minthogy az én karavánomat támadják meg!}
-{117}{}{Jó, hogy velünk jöttél erre az útra.}
-{118}{}{Micsoda kellemetlenség. A dologok már nem olyanok, mint régen voltak.}
-{119}{}{A puszták sem olyan biztonságosak már, mint a régi id?kben.}
-{120}{}{Te nem ?r vagy - hanem egy szélhámos. Hordd el magad, te gyáva!}
-{121}{}{Leléptél a karaván mell?l! Akkor most innen is lépj le, szépen!}
-{122}{}{Színtiszta tolvaj vagy, semmi más! Valószín?leg már megkaptad a részed - most pedig t?nj el!}
-{123}{}{Tolvaj? Kikérem magamnak, te hálátlan dög! Most pedig távozom. Viszlát!}
-{124}{}{Hamarosan megbánod, hogy ujjat húztál velem! Viszlát!}
-{125}{}{Ha jól végezted volna a munkádat, és megvédted volna a karavánt, most lenne elég pénzem, hogy kifizesselek. Így viszont... ki mint vet, úgy arat. Nem kapsz semmit!!!}
-{126}{}{Te szemétláda! Megfizetsz azért, hogy bepaliztál! Viszlát!}
-{127}{}{Néha az ember szerencsésebb másoknál. Ez most nem az a nap. Viszlát!}
-{128}{}{Ez nagyon ráfizetéses karaván-út volt. 500 dollárnál nem tudok többet adni és még ett?l is le leszek égve! Sajnálom.}
-{129}{}{Hát, azt hiszem, ez is több, mint a semmi. Viszlát!}
-{130}{}{Te tetves szemétláda! Senki sem csinálta volna jobban! Megbánod még, hogy átvertél! Viszlát!}
-{131}{}{Ez a karaván-út sikeres volt. Tessék, a megbeszélt 1000 dolcsi. Öröm volt veled dolgozni. Remélem, látlak még valamikor!}
-{132}{}{Nem hiszem, hogy valaha is szándékomban állna újra ennyi id?t tölteni egy brahmin hátsó felének nézegetésével. Viszlát!}
-{133}{}{Végülis nem volt ez annyira rossz. Viszlát kés?bb.}
-{134}{}{Hahó! Ez remek út volt! 1000 dollár jár, a megbeszéltek szerint, és még 200 dolcsi, bónuszként. Valami szerencse amulett-féle lehetsz. Ha erre jársz, legközelebb is csatlakozz hozzánk!}
-{135}{}{Mindig öröm számomra, ha olyan emberrel találkozom, aki tudja értékelni a min?ségi munkát. Talán látjuk még egymást. Viszlát!}
-{136}{}{Mindig jól jön egy kis zsebpénz. Kösz, és viszlát!}
-{137}{}{Ezt elég nehéz megmondani. Tényleg. Azt hiszem, attól függ, mennyi id?be telik, amíg megfelel? mennyiség? ércet sikerül összepakolni. Nem vagyok bányász, de szerintem nem tarthat pár hétnél tovább.}
-{138}{}{Nos, azért, mert nem tudom pontosan, hogy mennyi ideig tart az orvosi szállítmányt összeállítani. Valószín?leg nem tarthat tovább pár hétnél. Utána indulhatunk. Gyere vissza akkor!}
-{139}{}{Általában mit szállítasz?}
-{140}{}{Feltennék még kérdéseket.}
-{141}{}{Kösz, ezt fogom tenni. Viszlát!}
-{142}{}{Szoktunk karaván ?röket felfogadni, de ez a karaván most nem fog elindulni egy darabig. Nyugodtan ugorj be kés?bb!}
-{143}{}{Elsején mikor?}
-{144}{}{Mit szállít ez a karaván?}
-{145}{}{Oké, kösz. Viszlát!}
-{146}{}{Sajnálom, haver, már így is elég hátráltató tényez? van ebben a karavánban.}
+{110}{}{MÃº-mÃº-kat?}
+{111}{}{Egy ?rre van szÃ¼ksÃ©ged, nemde?}
+{112}{}{Mit szÃ¡llÃ­t ez a karavÃ¡n?}
+{113}{}{MiÃ©rt vÃ¡rtok elsejÃ©ig?}
+{114}{}{Nem hiszem, hogy ez nekem valÃ³ lenne. ViszlÃ¡t!}
+{115}{}{Ãšgy t?nik, egyre nehezebbek lesznek az utak.}
+{116}{}{Hah! Jobbat is kitalÃ¡lhattak volna, minthogy az Ã©n karavÃ¡nomat tÃ¡madjÃ¡k meg!}
+{117}{}{JÃ³, hogy velÃ¼nk jÃ¶ttÃ©l erre az Ãºtra.}
+{118}{}{Micsoda kellemetlensÃ©g. A dologok mÃ¡r nem olyanok, mint rÃ©gen voltak.}
+{119}{}{A pusztÃ¡k sem olyan biztonsÃ¡gosak mÃ¡r, mint a rÃ©gi id?kben.}
+{120}{}{Te nem ?r vagy - hanem egy szÃ©lhÃ¡mos. Hordd el magad, te gyÃ¡va!}
+{121}{}{LelÃ©ptÃ©l a karavÃ¡n mell?l! Akkor most innen is lÃ©pj le, szÃ©pen!}
+{122}{}{SzÃ­ntiszta tolvaj vagy, semmi mÃ¡s! ValÃ³szÃ­n?leg mÃ¡r megkaptad a rÃ©szed - most pedig t?nj el!}
+{123}{}{Tolvaj? KikÃ©rem magamnak, te hÃ¡lÃ¡tlan dÃ¶g! Most pedig tÃ¡vozom. ViszlÃ¡t!}
+{124}{}{Hamarosan megbÃ¡nod, hogy ujjat hÃºztÃ¡l velem! ViszlÃ¡t!}
+{125}{}{Ha jÃ³l vÃ©gezted volna a munkÃ¡dat, Ã©s megvÃ©dted volna a karavÃ¡nt, most lenne elÃ©g pÃ©nzem, hogy kifizesselek. Ãgy viszont... ki mint vet, Ãºgy arat. Nem kapsz semmit!!!}
+{126}{}{Te szemÃ©tlÃ¡da! Megfizetsz azÃ©rt, hogy bepaliztÃ¡l! ViszlÃ¡t!}
+{127}{}{NÃ©ha az ember szerencsÃ©sebb mÃ¡soknÃ¡l. Ez most nem az a nap. ViszlÃ¡t!}
+{128}{}{Ez nagyon rÃ¡fizetÃ©ses karavÃ¡n-Ãºt volt. 500 dollÃ¡rnÃ¡l nem tudok tÃ¶bbet adni Ã©s mÃ©g ett?l is le leszek Ã©gve! SajnÃ¡lom.}
+{129}{}{HÃ¡t, azt hiszem, ez is tÃ¶bb, mint a semmi. ViszlÃ¡t!}
+{130}{}{Te tetves szemÃ©tlÃ¡da! Senki sem csinÃ¡lta volna jobban! MegbÃ¡nod mÃ©g, hogy Ã¡tvertÃ©l! ViszlÃ¡t!}
+{131}{}{Ez a karavÃ¡n-Ãºt sikeres volt. TessÃ©k, a megbeszÃ©lt 1000 dolcsi. Ã–rÃ¶m volt veled dolgozni. RemÃ©lem, lÃ¡tlak mÃ©g valamikor!}
+{132}{}{Nem hiszem, hogy valaha is szÃ¡ndÃ©komban Ã¡llna Ãºjra ennyi id?t tÃ¶lteni egy brahmin hÃ¡tsÃ³ felÃ©nek nÃ©zegetÃ©sÃ©vel. ViszlÃ¡t!}
+{133}{}{VÃ©gÃ¼lis nem volt ez annyira rossz. ViszlÃ¡t kÃ©s?bb.}
+{134}{}{HahÃ³! Ez remek Ãºt volt! 1000 dollÃ¡r jÃ¡r, a megbeszÃ©ltek szerint, Ã©s mÃ©g 200 dolcsi, bÃ³nuszkÃ©nt. Valami szerencse amulett-fÃ©le lehetsz. Ha erre jÃ¡rsz, legkÃ¶zelebb is csatlakozz hozzÃ¡nk!}
+{135}{}{Mindig Ã¶rÃ¶m szÃ¡momra, ha olyan emberrel talÃ¡lkozom, aki tudja Ã©rtÃ©kelni a min?sÃ©gi munkÃ¡t. TalÃ¡n lÃ¡tjuk mÃ©g egymÃ¡st. ViszlÃ¡t!}
+{136}{}{Mindig jÃ³l jÃ¶n egy kis zsebpÃ©nz. KÃ¶sz, Ã©s viszlÃ¡t!}
+{137}{}{Ezt elÃ©g nehÃ©z megmondani. TÃ©nyleg. Azt hiszem, attÃ³l fÃ¼gg, mennyi id?be telik, amÃ­g megfelel? mennyisÃ©g? Ã©rcet sikerÃ¼l Ã¶sszepakolni. Nem vagyok bÃ¡nyÃ¡sz, de szerintem nem tarthat pÃ¡r hÃ©tnÃ©l tovÃ¡bb.}
+{138}{}{Nos, azÃ©rt, mert nem tudom pontosan, hogy mennyi ideig tart az orvosi szÃ¡llÃ­tmÃ¡nyt Ã¶sszeÃ¡llÃ­tani. ValÃ³szÃ­n?leg nem tarthat tovÃ¡bb pÃ¡r hÃ©tnÃ©l. UtÃ¡na indulhatunk. Gyere vissza akkor!}
+{139}{}{ÃltalÃ¡ban mit szÃ¡llÃ­tasz?}
+{140}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{141}{}{KÃ¶sz, ezt fogom tenni. ViszlÃ¡t!}
+{142}{}{Szoktunk karavÃ¡n ?rÃ¶ket felfogadni, de ez a karavÃ¡n most nem fog elindulni egy darabig. Nyugodtan ugorj be kÃ©s?bb!}
+{143}{}{ElsejÃ©n mikor?}
+{144}{}{Mit szÃ¡llÃ­t ez a karavÃ¡n?}
+{145}{}{OkÃ©, kÃ¶sz. ViszlÃ¡t!}
+{146}{}{SajnÃ¡lom, haver, mÃ¡r Ã­gy is elÃ©g hÃ¡trÃ¡ltatÃ³ tÃ©nyez? van ebben a karavÃ¡nban.}
 {147}{}{Rendben.}
-{148}{}{Általában orvosi felszereléseket veszünk fel Menedékvárosban, és aranyércre cseréljük Reddingben.}
-{149}{}{Ez érdekes. Azt mondtad, ?röket keresel?}
-{150}{}{Feltennék még kérdéseket.}
-{151}{}{Ó, értem. Viszlát!}
-{152}{}{Pont id?ben jöttél, mert indulni készültünk. 1000 dollárt fizetek a melóért, de csak azért, mert szükségem van még egy ?rre. Készen állsz az indulásra?}
-{153}{}{Pont id?ben jöttél, mert indulni készültünk. 1000 dollárt fizetek a melóért. Készen állsz az indulásra?}
-{154}{}{Jól hangzik. Készen állok, gyerünk!}
-{155}{}{Nem hiszem, hogy pont karaván-?r szeretnék lenni. Minden jót, viszlát!}
-{156}{}{Biztonságban utazhattál, és napi háromszor meleg kaját kaptál. Most pedig t?nj innen, te elmebeteg!}
-{157}{}{Óóóóó? Szia szia.}
-{158}{}{Arrrrr! Én öl!}
+{148}{}{ÃltalÃ¡ban orvosi felszerelÃ©seket veszÃ¼nk fel MenedÃ©kvÃ¡rosban, Ã©s aranyÃ©rcre cserÃ©ljÃ¼k Reddingben.}
+{149}{}{Ez Ã©rdekes. Azt mondtad, ?rÃ¶ket keresel?}
+{150}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{151}{}{Ã“, Ã©rtem. ViszlÃ¡t!}
+{152}{}{Pont id?ben jÃ¶ttÃ©l, mert indulni kÃ©szÃ¼ltÃ¼nk. 1000 dollÃ¡rt fizetek a melÃ³Ã©rt, de csak azÃ©rt, mert szÃ¼ksÃ©gem van mÃ©g egy ?rre. KÃ©szen Ã¡llsz az indulÃ¡sra?}
+{153}{}{Pont id?ben jÃ¶ttÃ©l, mert indulni kÃ©szÃ¼ltÃ¼nk. 1000 dollÃ¡rt fizetek a melÃ³Ã©rt. KÃ©szen Ã¡llsz az indulÃ¡sra?}
+{154}{}{JÃ³l hangzik. KÃ©szen Ã¡llok, gyerÃ¼nk!}
+{155}{}{Nem hiszem, hogy pont karavÃ¡n-?r szeretnÃ©k lenni. Minden jÃ³t, viszlÃ¡t!}
+{156}{}{BiztonsÃ¡gban utazhattÃ¡l, Ã©s napi hÃ¡romszor meleg kajÃ¡t kaptÃ¡l. Most pedig t?nj innen, te elmebeteg!}
+{157}{}{Ã“Ã³Ã³Ã³Ã³? Szia szia.}
+{158}{}{Arrrrr! Ã‰n Ã¶l!}

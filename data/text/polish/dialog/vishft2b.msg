@@ -1,13 +1,13 @@
-{100}{}{Wentylator dostarczajπcy oczyszczone, wzbogacone powietrze do ca≥ej Krypty. S≥yszysz cichy stukot dochodzπcy ze úrodka.}
+{100}{}{Wentylator dostarczajƒÖcy oczyszczone, wzbogacone powietrze do ca≈Çej Krypty. S≈Çyszysz cichy stukot dochodzƒÖcy ze ≈õrodka.}
 {101}{}{Widzisz wentylator. }
-{102}{}{Wentylator dostarczajπcy oczyszczone, wzbogacone powietrze do ca≥ej Krypty. S≥yszysz cichy stukot dochodzπcy ze úrodka.}
-{103}{}{Wentylator dostarczajπcy powietrze do ca≥ej Krypty.}
+{102}{}{Wentylator dostarczajƒÖcy oczyszczone, wzbogacone powietrze do ca≈Çej Krypty. S≈Çyszysz cichy stukot dochodzƒÖcy ze ≈õrodka.}
+{103}{}{Wentylator dostarczajƒÖcy powietrze do ca≈Çej Krypty.}
 {104}{}{Widzisz wentylator. }
-{105}{}{Wentylator dostarczajπcy powietrze do ca≥ej Krypty.}
+{105}{}{Wentylator dostarczajƒÖcy powietrze do ca≈Çej Krypty.}
 {106}{}{::Stuk::}
-{107}{}{Nie wydaje ci siÍ, by by≥o z nim coú nie tak.}
-{108}{}{Otwierasz wentylator szukajπc ürÛd≥a odg≥osu. Zauwaøasz coú schowanego w úrodku i wyciπgasz to.}
-{109}{}{Wyglπda na to, øe ktoú to ukry≥ w tym wentylatorze.}
-{110}{}{Otwierasz wentylator szukajπc ürÛd≥a odg≥osu. Zauwaøasz coú schowanego w úrodku i wyciπgasz to.}
-{111}{}{Wyglπda na to, øe ktoú to ukry≥ w tym wentylatorze.}
-{112}{}{Ja znaleüÊ to w dziura wentylacyjna.}
+{107}{}{Nie wydaje ci siƒô, by by≈Ço z nim co≈õ nie tak.}
+{108}{}{Otwierasz wentylator szukajƒÖc ≈∫r√≥d≈Ça odg≈Çosu. Zauwa≈ºasz co≈õ schowanego w ≈õrodku i wyciƒÖgasz to.}
+{109}{}{WyglƒÖda na to, ≈ºe kto≈õ to ukry≈Ç w tym wentylatorze.}
+{110}{}{Otwierasz wentylator szukajƒÖc ≈∫r√≥d≈Ça odg≈Çosu. Zauwa≈ºasz co≈õ schowanego w ≈õrodku i wyciƒÖgasz to.}
+{111}{}{WyglƒÖda na to, ≈ºe kto≈õ to ukry≈Ç w tym wentylatorze.}
+{112}{}{Ja znale≈∫ƒá to w dziura wentylacyjna.}

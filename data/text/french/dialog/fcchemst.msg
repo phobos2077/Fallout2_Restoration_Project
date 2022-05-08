@@ -1,75 +1,75 @@
-{100}{}{Tu vois un Shi à l'air menaçant.}
+{100}{}{Tu vois un Shi Ã  l'air menaÃ§ant.}
 {101}{}{Tu vois le Dr. Jing Tie Gahng.}
-{102}{}{Tu vois un Shi vêtu d'une blouse blanche.}
+{102}{}{Tu vois un Shi vÃªtu d'une blouse blanche.}
 {103}{}{Qui es-tu ? Et que veux-tu ?}
 {104}{}{Hein ?}
 {105}{}{Qui es-tu, TOI ?}
 {106}{}{Je suis}
 {107}{}{Ca te regarde pas.}
 {108}{}{Laisse tomber. Je m'en vais maintenant.}
-{109}{}{Tu n'as rien à faire ici si tu es un imbécile. Fiche le camp avant que j'appelle les gardes.}
-{110}{}{Tu ne comprends pas, hein ? Tu comprendras peut-être mieux les gardes. Gardes ! Un intrus !}
-{111}{}{[Terminé]}
+{109}{}{Tu n'as rien Ã  faire ici si tu es un imbÃ©cile. Fiche le camp avant que j'appelle les gardes.}
+{110}{}{Tu ne comprends pas, hein ? Tu comprendras peut-Ãªtre mieux les gardes. Gardes ! Un intrus !}
+{111}{}{[TerminÃ©]}
 {112}{}{Je suis Jing Tie Gahng. Je dirige le laboratoire de chimie du Palais d'Acier... Et tu perturbes un travail important. Va-t'en. TOUT DE SUITE... avant que j'appelle les gardes !}
 {113}{}{Vas-y, appelle-les, vieillard !}
 {114}{}{Bien, bien. Je pars.}
-{115}{}{Hé bien,}
-{116}{}{Oui. Je suis ici pour obtenir du carburant pour le pétrolier Poséidon.}
+{115}{}{HÃ© bien,}
+{116}{}{Oui. Je suis ici pour obtenir du carburant pour le pÃ©trolier PosÃ©idon.}
 {117}{}{J'aimerais savoir ce que tu fais ici.}
 {118}{}{Je suis ici pour obtenir du carburant pour les Hubologistes.}
 {119}{}{Non. Je m'en vais maintenant.}
-{120}{}{Ha, mais tu vois, ceci est mon travail. C'est mon labo. Maintenant, parle-moi de ce qui t'amène ici.}
-{121}{}{Je suis là pour trouver du carburant pour le pétrolier Poséidon.}
+{120}{}{Ha, mais tu vois, ceci est mon travail. C'est mon labo. Maintenant, parle-moi de ce qui t'amÃ¨ne ici.}
+{121}{}{Je suis lÃ  pour trouver du carburant pour le pÃ©trolier PosÃ©idon.}
 {122}{}{J'aimerais savoir ce que tu fais ici.}
 {123}{}{Je suis ici pour obtenir du carburant pour les Hubologistes.}
 {124}{}{Non. Je m'en vais maintenant.}
-{125}{}{Tu veux du carburant pour le pétrolier ? Je veux une SuperArmure renforcée. Je sais qu'un Hubologiste dénommé Crockett dispose des moyens permettant d'améliorer une SuperArmure standard. Donne-moi une telle armure et je transférerai le carburant pour toi.}
+{125}{}{Tu veux du carburant pour le pÃ©trolier ? Je veux une SuperArmure renforcÃ©e. Je sais qu'un Hubologiste dÃ©nommÃ© Crockett dispose des moyens permettant d'amÃ©liorer une SuperArmure standard. Donne-moi une telle armure et je transfÃ©rerai le carburant pour toi.}
 {126}{}{Je le ferai.}
 {127}{}{Je ne peux rien te promettre.}
-{128}{}{J'en ai une juste là.}
-{129}{}{Je crée des composants et des mécanismes pour l'Empereur et son conseiller, Ken Lee. Actuellement, je travaille sur des dérivés de carburant et des polymères capables de résister à une attaque massive. Bien sûr, cela n'a aucun intérêt pour toi car ça demeure en grande partie théorique.}
-{130}{}{En fait, ça m'intéresse. J'aimerais avoir du carburant pour le pétrolier Poséidon.}
-{131}{}{Je parie que ça pourrait intéresser les Hubologistes. Ils ont besoin de carburant.}
+{128}{}{J'en ai une juste lÃ .}
+{129}{}{Je crÃ©e des composants et des mÃ©canismes pour l'Empereur et son conseiller, Ken Lee. Actuellement, je travaille sur des dÃ©rivÃ©s de carburant et des polymÃ¨res capables de rÃ©sister Ã  une attaque massive. Bien sÃ»r, cela n'a aucun intÃ©rÃªt pour toi car Ã§a demeure en grande partie thÃ©orique.}
+{130}{}{En fait, Ã§a m'intÃ©resse. J'aimerais avoir du carburant pour le pÃ©trolier PosÃ©idon.}
+{131}{}{Je parie que Ã§a pourrait intÃ©resser les Hubologistes. Ils ont besoin de carburant.}
 {132}{}{Pas maintenant, non. Mais je vais revenir.}
-{133}{}{Ils veulent du carburant, c'est ça ? Bien,  aussi énervants qu'ils soient, ils ont leur utilité. J'ai entendu dire qu'ils avaient développé un processus rendant une SuperArmure encore plus indestructible. S'ils amélioraient ainsi une armure pour moi, je transférerai du carburant via le pipeline. Je suppose que c'est pour leur joujou, la navette spatiale. Tu devras t'adresser à un dénommé Crockett.}
+{133}{}{Ils veulent du carburant, c'est Ã§a ? Bien,  aussi Ã©nervants qu'ils soient, ils ont leur utilitÃ©. J'ai entendu dire qu'ils avaient dÃ©veloppÃ© un processus rendant une SuperArmure encore plus indestructible. S'ils amÃ©lioraient ainsi une armure pour moi, je transfÃ©rerai du carburant via le pipeline. Je suppose que c'est pour leur joujou, la navette spatiale. Tu devras t'adresser Ã  un dÃ©nommÃ© Crockett.}
 {134}{}{Je le ferai.}
 {135}{}{Je ne peux rien te promettre.}
-{136}{}{J'en ai une juste là.}
-{137}{}{Même si je voulais t'aider, je ne pourrais pas le faire. Nos réserves de carburant sont épuisées. Tu ferais peut-être mieux de demander de l'aide aux Hubologistes. Au revoir.}
+{136}{}{J'en ai une juste lÃ .}
+{137}{}{MÃªme si je voulais t'aider, je ne pourrais pas le faire. Nos rÃ©serves de carburant sont Ã©puisÃ©es. Tu ferais peut-Ãªtre mieux de demander de l'aide aux Hubologistes. Au revoir.}
 {138}{}{Oh. Eh bien, c'est tout alors.}
-{139}{}{C'est quasiment impossible. Nos réserves de carburant ont disparu. Même si je voulais aider les Hubologistes, et je ne le veux pas, je ne pourrais pas le faire. Bonne journée.}
+{139}{}{C'est quasiment impossible. Nos rÃ©serves de carburant ont disparu. MÃªme si je voulais aider les Hubologistes, et je ne le veux pas, je ne pourrais pas le faire. Bonne journÃ©e.}
 {140}{}{Ok. Au revoir.}
 {141}{}{Bien. Laisse-moi alors me remettre au travail.}
-{142}{}{[Terminé]}
-{143}{}{Tu ne peux pas le faire ? Bon, alors, je ne peux pas te vendre de carburant. Maintenant, va-t'en. Je suis très occupé.}
-{144}{}{[Terminé]}
-{145}{}{Tu as une SuperArmure renforcée ? Excellent ! Comment veux-tu que je te paie ?}
-{146}{}{Transfère le carburant aux Hubologistes en échange.}
-{147}{}{Transfère le carburant vers le pétrolier Poséidon.}
+{142}{}{[TerminÃ©]}
+{143}{}{Tu ne peux pas le faire ? Bon, alors, je ne peux pas te vendre de carburant. Maintenant, va-t'en. Je suis trÃ¨s occupÃ©.}
+{144}{}{[TerminÃ©]}
+{145}{}{Tu as une SuperArmure renforcÃ©e ? Excellent ! Comment veux-tu que je te paie ?}
+{146}{}{TransfÃ¨re le carburant aux Hubologistes en Ã©change.}
+{147}{}{TransfÃ¨re le carburant vers le pÃ©trolier PosÃ©idon.}
 {148}{}{Que penses-tu d'un peu d'argent ? Je dirai $}
-{149}{}{J'ai décidé de ne pas m'en séparer.}
-{150}{}{Considère que c'est fait. Je vais faire les réglages rapidement.  Maintenant, si tu veux bien m'excuser, je dois me remettre au travail.}
+{149}{}{J'ai dÃ©cidÃ© de ne pas m'en sÃ©parer.}
+{150}{}{ConsidÃ¨re que c'est fait. Je vais faire les rÃ©glages rapidement.  Maintenant, si tu veux bien m'excuser, je dois me remettre au travail.}
 {151}{}{Merci. Au revoir.}
-{152}{}{Tant que ça ? Ah ! Mais pour une SuperArmure aussi puissante à étudier... Très bien. Voici ton argent.}
+{152}{}{Tant que Ã§a ? Ah ! Mais pour une SuperArmure aussi puissante Ã  Ã©tudier... TrÃ¨s bien. Voici ton argent.}
 {153}{}{Merci. A la prochaine.}
-{154}{}{Tu veux la garder ? Très bien. Si tu changes d'avis, fais-le-moi savoir.}
+{154}{}{Tu veux la garder ? TrÃ¨s bien. Si tu changes d'avis, fais-le-moi savoir.}
 {155}{}{Je n'y manquerai pas. Au revoir.}
-{156}{}{Peut-être. Salut.}
+{156}{}{Peut-Ãªtre. Salut.}
 {157}{}{Gardes ! Gardes ! L'intrus est de retour ! Tuez-le !}
-{158}{}{As-tu parlé à cet Hubologiste qui s'appelle Crockett ? As-tu obtenu l'armure ?}
+{158}{}{As-tu parlÃ© Ã  cet Hubologiste qui s'appelle Crockett ? As-tu obtenu l'armure ?}
 {159}{}{Non, pas encore.}
-{160}{}{Alors pourquoi reviens-tu ici me déranger ?}
+{160}{}{Alors pourquoi reviens-tu ici me dÃ©ranger ?}
 {161}{}{Car j'ai quelques questions.}
-{162}{}{Je n'en ai aucune idée. Au revoir.}
+{162}{}{Je n'en ai aucune idÃ©e. Au revoir.}
 {163}{}{Ne joue pas avec ma patience.}
 {164}{}{Que veux-tu ?}
 {165}{}{Qu'est-ce tu fais ici ?}
-{166}{}{Je suis ici pour trouver du carburant pour le pétrolier Poséidon.}
+{166}{}{Je suis ici pour trouver du carburant pour le pÃ©trolier PosÃ©idon.}
 {167}{}{Je suis ici pour obtenir du carburant pour les Hubologistes.}
-{168}{}{Rien. Désolé.}
-{169}{}{Nous sommes tous à court de carburant maintenant. Je ne peux plus t'aider. J'ai trop à faire avec cette armure. Au revoir.}
+{168}{}{Rien. DÃ©solÃ©.}
+{169}{}{Nous sommes tous Ã  court de carburant maintenant. Je ne peux plus t'aider. J'ai trop Ã  faire avec cette armure. Au revoir.}
 {170}{}{Salut.}
 {171}{}{. Je jetais juste un oeil aux alentours.}
 {172}{}{, tu travailles ici en ce moment ?}
-{173}{}{ ça serait bien.}
-{174}{}{J'ai tout ce dont j'ai besoin. Parle à Wong si nécessaire.}
+{173}{}{ Ã§a serait bien.}
+{174}{}{J'ai tout ce dont j'ai besoin. Parle Ã  Wong si nÃ©cessaire.}

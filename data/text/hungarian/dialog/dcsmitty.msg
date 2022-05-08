@@ -1,92 +1,92 @@
-{100}{}{Egy tet?t?l talpig olajos vén bolondot látsz.}
-{150}{}{Smitty, a szerel?, aki másodállásban roncstelep-tulajdonos.}
-{151}{}{Egy tet?t?l talpig olajos vén bolondot látsz, elég mocskos munkaruhában.}
-{200}{}{Gazember! T?nnyé' innét, miel?tt megtanítalak keszty?be dudá'ni!}
-{201}{}{T?nés a telepemr?'!}
-{202}{}{T?nés a f?demr?'!}
-{203}{}{Istenverte gazember, t?nnyé' innen.}
+{100}{}{Egy tet?t?l talpig olajos vÃ©n bolondot lÃ¡tsz.}
+{150}{}{Smitty, a szerel?, aki mÃ¡sodÃ¡llÃ¡sban roncstelep-tulajdonos.}
+{151}{}{Egy tet?t?l talpig olajos vÃ©n bolondot lÃ¡tsz, elÃ©g mocskos munkaruhÃ¡ban.}
+{200}{}{Gazember! T?nnyÃ©' innÃ©t, miel?tt megtanÃ­talak keszty?be dudÃ¡'ni!}
+{201}{}{T?nÃ©s a telepemr?'!}
+{202}{}{T?nÃ©s a f?demr?'!}
+{203}{}{Istenverte gazember, t?nnyÃ©' innen.}
 {204}{}{T?nj innen a pokolba!}
-{220}{}{Hé, t?nnyé' a földemr?l!}
-{221}{}{Hé, te seggfej, t?nnyé' innét!}
-{222}{}{Hülye, menj innen, hülye!}
-{223}{}{Nincs nekem id?m a magadfajtára!}
-{224}{}{Sajnálom, nem beszélek idiótákkal.}
-{240}{}{Helló, fiatal barátom. Mit tehet az öreg Smitty érted?}
-{241}{}{Helló, picinyem. Mit tehet az öreg Smitty érted?}
-{242}{}{Mit tehetek érted?}
-{243}{}{Hé, nagyon ízlett a Mama kajája. Mit tehet az öreg Smitty érted?}
-{244}{}{Kiváncsi vagyok, mit csinál itt.}
-{245}{}{Öregfiú, van itt egy cucc, amit Gekkóban találtam... .}
-{246}{}{Smitty, kiváncsi lennék arra az eladó autójára.}
-{247}{}{Hoztam magának kaját a Mamától...}
-{248}{}{Öregfiú, itt van ez a cucc, amit Klamathban találtam... .}
-{249}{}{Csak körbenézek egy kicsit. Még találkozunk, Smitty.}
-{260}{}{Hadd vessen rá egy pillantást az öreg Smitty!}
+{220}{}{HÃ©, t?nnyÃ©' a fÃ¶ldemr?l!}
+{221}{}{HÃ©, te seggfej, t?nnyÃ©' innÃ©t!}
+{222}{}{HÃ¼lye, menj innen, hÃ¼lye!}
+{223}{}{Nincs nekem id?m a magadfajtÃ¡ra!}
+{224}{}{SajnÃ¡lom, nem beszÃ©lek idiÃ³tÃ¡kkal.}
+{240}{}{HellÃ³, fiatal barÃ¡tom. Mit tehet az Ã¶reg Smitty Ã©rted?}
+{241}{}{HellÃ³, picinyem. Mit tehet az Ã¶reg Smitty Ã©rted?}
+{242}{}{Mit tehetek Ã©rted?}
+{243}{}{HÃ©, nagyon Ã­zlett a Mama kajÃ¡ja. Mit tehet az Ã¶reg Smitty Ã©rted?}
+{244}{}{KivÃ¡ncsi vagyok, mit csinÃ¡l itt.}
+{245}{}{Ã–regfiÃº, van itt egy cucc, amit GekkÃ³ban talÃ¡ltam... .}
+{246}{}{Smitty, kivÃ¡ncsi lennÃ©k arra az eladÃ³ autÃ³jÃ¡ra.}
+{247}{}{Hoztam magÃ¡nak kajÃ¡t a MamÃ¡tÃ³l...}
+{248}{}{Ã–regfiÃº, itt van ez a cucc, amit Klamathban talÃ¡ltam... .}
+{249}{}{Csak kÃ¶rbenÃ©zek egy kicsit. MÃ©g talÃ¡lkozunk, Smitty.}
+{260}{}{Hadd vessen rÃ¡ egy pillantÃ¡st az Ã¶reg Smitty!}
 {261}{}{Persze, itt van.}
-{262}{}{Meggondoltam magam, hadd kérdezzek valami mást!}
-{263}{}{Talán legközelebb. Viszlát, Smitty!}
-{280}{}{Hadd vessen rá egy pillantást az öreg Smitty!}
+{262}{}{Meggondoltam magam, hadd kÃ©rdezzek valami mÃ¡st!}
+{263}{}{TalÃ¡n legkÃ¶zelebb. ViszlÃ¡t, Smitty!}
+{280}{}{Hadd vessen rÃ¡ egy pillantÃ¡st az Ã¶reg Smitty!}
 {281}{}{Persze, itt van.}
-{282}{}{Meggondoltam magam, hadd kérdezzek valami mást!}
-{283}{}{Talán legközelebb. Viszlát, Smitty!}
-{300}{}{Hát, ez úgy néz ki, mint egy régi üzemanyag-cella vezérl?. Hmm, fogadok, hogy az öreg Highwayman úgy fog ett?l dorombolni, mint egy kiscica.}
-{301}{}{Nahát...}
-{310}{}{Hmm, ez úgy néz ki, mint egy üzemanyag-cella szabályozó. Ha lenne egy m?köd?képes autóm, biztosan csökkentené a fogyasztását.}
-{311}{}{Nahát...}
-{320}{}{Ez elképeszt?en kedves volt t?led. Köszönöm mucho, compadre. Tessék, egy kis semmiség cserébe. Jól jöhet ez manapság. (Ad egy Stimpakkot.)}
-{321}{}{Köszönöm, Smitty. Probléma egy szál se. Viszlát!}
-{322}{}{Nos, öööö... Köszönöm, de már voltam a Mamánál, és kajáltam is, úgyhogy erre már nincs szükségem.}
-{323}{}{Hoppá, nem én vagyok a szokásos kihordó fiú. Éppen megbetegedett. Azért kaphatok néhány tapasztalati pontot?}
+{282}{}{Meggondoltam magam, hadd kÃ©rdezzek valami mÃ¡st!}
+{283}{}{TalÃ¡n legkÃ¶zelebb. ViszlÃ¡t, Smitty!}
+{300}{}{HÃ¡t, ez Ãºgy nÃ©z ki, mint egy rÃ©gi Ã¼zemanyag-cella vezÃ©rl?. Hmm, fogadok, hogy az Ã¶reg Highwayman Ãºgy fog ett?l dorombolni, mint egy kiscica.}
+{301}{}{NahÃ¡t...}
+{310}{}{Hmm, ez Ãºgy nÃ©z ki, mint egy Ã¼zemanyag-cella szabÃ¡lyozÃ³. Ha lenne egy m?kÃ¶d?kÃ©pes autÃ³m, biztosan csÃ¶kkentenÃ© a fogyasztÃ¡sÃ¡t.}
+{311}{}{NahÃ¡t...}
+{320}{}{Ez elkÃ©peszt?en kedves volt t?led. KÃ¶szÃ¶nÃ¶m mucho, compadre. TessÃ©k, egy kis semmisÃ©g cserÃ©be. JÃ³l jÃ¶het ez manapsÃ¡g. (Ad egy Stimpakkot.)}
+{321}{}{KÃ¶szÃ¶nÃ¶m, Smitty. ProblÃ©ma egy szÃ¡l se. ViszlÃ¡t!}
+{322}{}{Nos, Ã¶Ã¶Ã¶Ã¶... KÃ¶szÃ¶nÃ¶m, de mÃ¡r voltam a MamÃ¡nÃ¡l, Ã©s kajÃ¡ltam is, Ãºgyhogy erre mÃ¡r nincs szÃ¼ksÃ©gem.}
+{323}{}{HoppÃ¡, nem Ã©n vagyok a szokÃ¡sos kihordÃ³ fiÃº. Ã‰ppen megbetegedett. AzÃ©rt kaphatok nÃ©hÃ¡ny tapasztalati pontot?}
 {324}{}{OK, sorry about the mix-up. I hope Mom doesn't fire me! I really need this job.}
-{325}{}{Tudod, hogy nálunk már nem megy ez az ingyen-kaja-éjfél-után dolog, ugye?}
-{326}{}{Na, akkor megeszem én.}
-{327}{}{A Mama nem lesz túl boldog ett?l.}
-{330}{}{Amint láthatod, ez az autóm, egy Chrysalis Motors Highwayman. Gyönyör?. Régen azt mondták "Semmi sem állíthat meg egy Highwaymant."  Strapabíró jószág, így tervezték ?ket.}
-{331}{}{Aha, és mit csináljak vele?}
-{340}{}{Azt hittem, csak egy aksi kell bele, de kiderült, hogy egy üzemanyag-cella vezérl?re van szükség. Ezek a vackok állandóan elromlanak bennük.}
+{325}{}{Tudod, hogy nÃ¡lunk mÃ¡r nem megy ez az ingyen-kaja-Ã©jfÃ©l-utÃ¡n dolog, ugye?}
+{326}{}{Na, akkor megeszem Ã©n.}
+{327}{}{A Mama nem lesz tÃºl boldog ett?l.}
+{330}{}{Amint lÃ¡thatod, ez az autÃ³m, egy Chrysalis Motors Highwayman. GyÃ¶nyÃ¶r?. RÃ©gen azt mondtÃ¡k "Semmi sem Ã¡llÃ­that meg egy Highwaymant."  StrapabÃ­rÃ³ jÃ³szÃ¡g, Ã­gy terveztÃ©k ?ket.}
+{331}{}{Aha, Ã©s mit csinÃ¡ljak vele?}
+{340}{}{Azt hittem, csak egy aksi kell bele, de kiderÃ¼lt, hogy egy Ã¼zemanyag-cella vezÃ©rl?re van szÃ¼ksÃ©g. Ezek a vackok Ã¡llandÃ³an elromlanak bennÃ¼k.}
 {341}{}{Well, I've got one of those.}
-{350}{}{Rendben? Van egy ajánlatom. 2000 dollárért tiéd az autó. Ráadásul még az üzemanyag-cella vezérl?t is beszerelem neked. Olyan lesz, mint új korában. S?t, akár fel is töltöm néhány mikro-fúziós cellával.}
-{351}{}{Jól hangzik. Tessék, a pénz, és az alkatrész.}
-{352}{}{Azt hiszem, most még nem akarom. Hadd kérdezzek valami mást, Smitty!}
-{353}{}{Hadd gondolkozzak rajta! Még találkozunk, Smitty.}
-{370}{}{Bánj vele finoman, amíg bemelegszik!}
-{371}{}{Oké, úgy lesz. Köszi, Smitty!}
+{350}{}{Rendben? Van egy ajÃ¡nlatom. 2000 dollÃ¡rÃ©rt tiÃ©d az autÃ³. RÃ¡adÃ¡sul mÃ©g az Ã¼zemanyag-cella vezÃ©rl?t is beszerelem neked. Olyan lesz, mint Ãºj korÃ¡ban. S?t, akÃ¡r fel is tÃ¶ltÃ¶m nÃ©hÃ¡ny mikro-fÃºziÃ³s cellÃ¡val.}
+{351}{}{JÃ³l hangzik. TessÃ©k, a pÃ©nz, Ã©s az alkatrÃ©sz.}
+{352}{}{Azt hiszem, most mÃ©g nem akarom. Hadd kÃ©rdezzek valami mÃ¡st, Smitty!}
+{353}{}{Hadd gondolkozzak rajta! MÃ©g talÃ¡lkozunk, Smitty.}
+{370}{}{BÃ¡nj vele finoman, amÃ­g bemelegszik!}
+{371}{}{OkÃ©, Ãºgy lesz. KÃ¶szi, Smitty!}
 {380}{}{Az a helyzet, hogy sokat is meg nem is.}
-{381}{}{Nahát...}
-{390}{}{Csak azt mondtam, hogy a szabályozó jó dolog, de kell hozzá egy üzemanyag-cella vezérl? is.}
-{391}{}{Miért?}
-{400}{}{Mert ha van egy vezérl?d, és 2000 dollárod hozzá, akkor meg tudom javítani ezt a Highwaymant, és mehetsz vagánykodni vele.}
-{401}{}{Tényleg? Hol találok vajon üzemanyag-cella vezérl?t?}
-{410}{}{Ez eléggé hülye kérdés volt. Ha tudnám, szerinted nem én vagánykodnék már rég az autóval?}
-{411}{}{H?ha. Utána kell néznem ennek.}
-{420}{}{Jó ötlet. Ha találsz egyet, gyere vissza! Ja, és ne felejtsd el a két rongyot sem!}
-{421}{}{Ez úgy hangzik, mint egy nagyszabású terv, Smitty. Hadd kérdezzek valami mást!}
-{422}{}{Megyek is, és keresek egyet. Viszlát!}
-{430}{}{Helló, hogy megy a járgány?}
-{431}{}{Nagyon frankón, Smitty. Csak találtam ezt az alkatrészt, és nem tudom, mit kezdjek vele.}
-{432}{}{Remek, Smitty, remek. Hoztam magának egy kis kaját. A Mama üdvözli.}
-{433}{}{Nagyon jó, Smitty, nagyon jó. Köszi. Még találkozunk. Viszlát!}
-{450}{}{Ez egy üzemanyag-cella szabályozó. Kisebb fogyasztást eredményez, többet mehetsz ugyanazzal az energia cellával. Be tudom szerelni, ha van mondjuk 750 dollárod e nemes célra.}
-{451}{}{Áll az alku, Smitty. Itt az alkatrész és a pénz.}
-{452}{}{Gondolkodnom kell rajta, Smitty. Viszlát!}
-{460}{}{Leginkább csak erre a szemétkupacra vigyázok. Egy dolog van csupán, ami megéri az itt gubbasztást.}
+{381}{}{NahÃ¡t...}
+{390}{}{Csak azt mondtam, hogy a szabÃ¡lyozÃ³ jÃ³ dolog, de kell hozzÃ¡ egy Ã¼zemanyag-cella vezÃ©rl? is.}
+{391}{}{MiÃ©rt?}
+{400}{}{Mert ha van egy vezÃ©rl?d, Ã©s 2000 dollÃ¡rod hozzÃ¡, akkor meg tudom javÃ­tani ezt a Highwaymant, Ã©s mehetsz vagÃ¡nykodni vele.}
+{401}{}{TÃ©nyleg? Hol talÃ¡lok vajon Ã¼zemanyag-cella vezÃ©rl?t?}
+{410}{}{Ez elÃ©ggÃ© hÃ¼lye kÃ©rdÃ©s volt. Ha tudnÃ¡m, szerinted nem Ã©n vagÃ¡nykodnÃ©k mÃ¡r rÃ©g az autÃ³val?}
+{411}{}{H?ha. UtÃ¡na kell nÃ©znem ennek.}
+{420}{}{JÃ³ Ã¶tlet. Ha talÃ¡lsz egyet, gyere vissza! Ja, Ã©s ne felejtsd el a kÃ©t rongyot sem!}
+{421}{}{Ez Ãºgy hangzik, mint egy nagyszabÃ¡sÃº terv, Smitty. Hadd kÃ©rdezzek valami mÃ¡st!}
+{422}{}{Megyek is, Ã©s keresek egyet. ViszlÃ¡t!}
+{430}{}{HellÃ³, hogy megy a jÃ¡rgÃ¡ny?}
+{431}{}{Nagyon frankÃ³n, Smitty. Csak talÃ¡ltam ezt az alkatrÃ©szt, Ã©s nem tudom, mit kezdjek vele.}
+{432}{}{Remek, Smitty, remek. Hoztam magÃ¡nak egy kis kajÃ¡t. A Mama Ã¼dvÃ¶zli.}
+{433}{}{Nagyon jÃ³, Smitty, nagyon jÃ³. KÃ¶szi. MÃ©g talÃ¡lkozunk. ViszlÃ¡t!}
+{450}{}{Ez egy Ã¼zemanyag-cella szabÃ¡lyozÃ³. Kisebb fogyasztÃ¡st eredmÃ©nyez, tÃ¶bbet mehetsz ugyanazzal az energia cellÃ¡val. Be tudom szerelni, ha van mondjuk 750 dollÃ¡rod e nemes cÃ©lra.}
+{451}{}{Ãll az alku, Smitty. Itt az alkatrÃ©sz Ã©s a pÃ©nz.}
+{452}{}{Gondolkodnom kell rajta, Smitty. ViszlÃ¡t!}
+{460}{}{LeginkÃ¡bb csak erre a szemÃ©tkupacra vigyÃ¡zok. Egy dolog van csupÃ¡n, ami megÃ©ri az itt gubbasztÃ¡st.}
 {461}{}{Mi van?}
-{462}{}{Kitaláltam magamtól. Hadd kérdezzek valami mást!}
-{470}{}{Ez nem más, mint egy Chrysalis Motors Highwayman. Régen azt mondták rá, "Semmi sem állíthat meg egy Highwaymant."  Strapabíró jószág, mondhatom.}
-{471}{}{Ejha, m?ködik?}
-{480}{}{Ha m?ködne, gondolod, hogy még ebben a porfészekben lennék?}
-{481}{}{Öö, igen.}
+{462}{}{KitalÃ¡ltam magamtÃ³l. Hadd kÃ©rdezzek valami mÃ¡st!}
+{470}{}{Ez nem mÃ¡s, mint egy Chrysalis Motors Highwayman. RÃ©gen azt mondtÃ¡k rÃ¡, "Semmi sem Ã¡llÃ­that meg egy Highwaymant."  StrapabÃ­rÃ³ jÃ³szÃ¡g, mondhatom.}
+{471}{}{Ejha, m?kÃ¶dik?}
+{480}{}{Ha m?kÃ¶dne, gondolod, hogy mÃ©g ebben a porfÃ©szekben lennÃ©k?}
+{481}{}{Ã–Ã¶, igen.}
 {482}{}{Azt hiszem, nem.}
-{490}{}{Hát, valószín?leg igazad van. Egész megállapodtam itt Rejtekben...}
-{491}{}{Értem.}
-{500}{}{Nos, tán mégis. Egészen kényelmesen érzem itt magam.}
-{501}{}{Értem.}
-{510}{}{Nem fájna a szívem eladni. Ha valaki venne egy aksit - ezen kívül, öö, azt hiszem, egy üzemanyag-cella vezérl?re lenne még szükség. Ha lenne egy, eladnám az autót 2000 dollárért. Még a vezérl?t is beszerelném neki.}
-{511}{}{Ez jól hangzik. Amint találok egy üzemanyag-cella vezérl?t, visszajövök. Addig is hadd kérdezzek valami mást!}
-{512}{}{Amint találok egyet, visszajövök. Viszlát, Smitty!}
-{520}{}{Tessék. Jobb, mint új korában. Bánj vele óvatosan!}
-{521}{}{Úgy lesz. Köszi, Smitty. Viszlát!}
-{600}{}{T?NJ AZ AUTÓMTÓL!}
-{650}{}{Nehogy elkapjalak még egyszer, ahogy az autóm körül ólálkodsz!}
+{490}{}{HÃ¡t, valÃ³szÃ­n?leg igazad van. EgÃ©sz megÃ¡llapodtam itt Rejtekben...}
+{491}{}{Ã‰rtem.}
+{500}{}{Nos, tÃ¡n mÃ©gis. EgÃ©szen kÃ©nyelmesen Ã©rzem itt magam.}
+{501}{}{Ã‰rtem.}
+{510}{}{Nem fÃ¡jna a szÃ­vem eladni. Ha valaki venne egy aksit - ezen kÃ­vÃ¼l, Ã¶Ã¶, azt hiszem, egy Ã¼zemanyag-cella vezÃ©rl?re lenne mÃ©g szÃ¼ksÃ©g. Ha lenne egy, eladnÃ¡m az autÃ³t 2000 dollÃ¡rÃ©rt. MÃ©g a vezÃ©rl?t is beszerelnÃ©m neki.}
+{511}{}{Ez jÃ³l hangzik. Amint talÃ¡lok egy Ã¼zemanyag-cella vezÃ©rl?t, visszajÃ¶vÃ¶k. Addig is hadd kÃ©rdezzek valami mÃ¡st!}
+{512}{}{Amint talÃ¡lok egyet, visszajÃ¶vÃ¶k. ViszlÃ¡t, Smitty!}
+{520}{}{TessÃ©k. Jobb, mint Ãºj korÃ¡ban. BÃ¡nj vele Ã³vatosan!}
+{521}{}{Ãšgy lesz. KÃ¶szi, Smitty. ViszlÃ¡t!}
+{600}{}{T?NJ AZ AUTÃ“MTÃ“L!}
+{650}{}{Nehogy elkapjalak mÃ©g egyszer, ahogy az autÃ³m kÃ¶rÃ¼l Ã³lÃ¡lkodsz!}
 {651}{}{Nem fog!}
 {652}{}{Uggg-K}

@@ -1,29 +1,29 @@
-{100}{}{Na, egy újabb kocsmatöltelék...}
-{101}{}{Az ilyen részegekb?l tizenkett? egy tucat.}
-{102}{}{Nem a legszebb emberek közé tartozik, de ennyi pia után ki lenne az?}
-{103}{}{Én csak piálok itt szép nyugisan. Hagyj békén!}
-{104}{}{Nem beszélgetek idegenekkel. Az ilyesmi árt az egészségnek ebben a kocsmában.}
-{105}{}{Hallottam rólad. Ne jöttél véletlenül rossz helyre, basszus?}
-{106}{}{Balhét akarsz? Eridj Merkhez!}
-{107}{}{Hé, csinoska, nem akarsz egy kicsit nyugisabb helyre menni, és mókázni egyet?}
-{108}{}{Ne szólj hozzám! Nem akarok egy újabb verést.}
-{109}{}{Átkozott olcsó whiskey! Itt adják a környék legszarabb piáját.}
-{110}{}{Basszameg! Nem akartalak leönteni a piámmal! Hadd töröljelek le! Bocs, bocs.}
-{111}{}{Hagyj békén!}
-{112}{}{Hallottam rólad. Kérlek, ne üss meg!}
-{113}{}{Új vagy a városban? Azt rebesgetik, Merk néhány tökös hombre felbérlését fontolgatja...}
-{114}{}{Mi vagy te, valami kemény gyerek? Takarodj a szemem el?l.}
-{115}{}{Hát nem kellett volna, hogy ezt tegyék. Egyszer majd lesz egy puskám és megmutatom nekik.}
-{116}{}{Mit szólnál hozzá, ha a szex-rabszolgám lennél, szivi?}
-{117}{}{Ivás meg dumálás... a rosseb egye meg, semmi érdekes nem történik a városban!}
+{100}{}{Na, egy Ãºjabb kocsmatÃ¶ltelÃ©k...}
+{101}{}{Az ilyen rÃ©szegekb?l tizenkett? egy tucat.}
+{102}{}{Nem a legszebb emberek kÃ¶zÃ© tartozik, de ennyi pia utÃ¡n ki lenne az?}
+{103}{}{Ã‰n csak piÃ¡lok itt szÃ©p nyugisan. Hagyj bÃ©kÃ©n!}
+{104}{}{Nem beszÃ©lgetek idegenekkel. Az ilyesmi Ã¡rt az egÃ©szsÃ©gnek ebben a kocsmÃ¡ban.}
+{105}{}{Hallottam rÃ³lad. Ne jÃ¶ttÃ©l vÃ©letlenÃ¼l rossz helyre, basszus?}
+{106}{}{BalhÃ©t akarsz? Eridj Merkhez!}
+{107}{}{HÃ©, csinoska, nem akarsz egy kicsit nyugisabb helyre menni, Ã©s mÃ³kÃ¡zni egyet?}
+{108}{}{Ne szÃ³lj hozzÃ¡m! Nem akarok egy Ãºjabb verÃ©st.}
+{109}{}{Ãtkozott olcsÃ³ whiskey! Itt adjÃ¡k a kÃ¶rnyÃ©k legszarabb piÃ¡jÃ¡t.}
+{110}{}{Basszameg! Nem akartalak leÃ¶nteni a piÃ¡mmal! Hadd tÃ¶rÃ¶ljelek le! Bocs, bocs.}
+{111}{}{Hagyj bÃ©kÃ©n!}
+{112}{}{Hallottam rÃ³lad. KÃ©rlek, ne Ã¼ss meg!}
+{113}{}{Ãšj vagy a vÃ¡rosban? Azt rebesgetik, Merk nÃ©hÃ¡ny tÃ¶kÃ¶s hombre felbÃ©rlÃ©sÃ©t fontolgatja...}
+{114}{}{Mi vagy te, valami kemÃ©ny gyerek? Takarodj a szemem el?l.}
+{115}{}{HÃ¡t nem kellett volna, hogy ezt tegyÃ©k. Egyszer majd lesz egy puskÃ¡m Ã©s megmutatom nekik.}
+{116}{}{Mit szÃ³lnÃ¡l hozzÃ¡, ha a szex-rabszolgÃ¡m lennÃ©l, szivi?}
+{117}{}{IvÃ¡s meg dumÃ¡lÃ¡s... a rosseb egye meg, semmi Ã©rdekes nem tÃ¶rtÃ©nik a vÃ¡rosban!}
 {118}{}{Menj el, zavarsz!}
-{119}{}{Hallottad a legújabb sztorit?...}
-{120}{}{Hát, mondom neki "Nézd", mondom...}
-{121}{}{Próbáld ki a sült vakondpatkányt! Ez a legjobb errefelé.}
-{122}{}{Üdv! Mi a csillagjegyed?}
+{119}{}{Hallottad a legÃºjabb sztorit?...}
+{120}{}{HÃ¡t, mondom neki "NÃ©zd", mondom...}
+{121}{}{PrÃ³bÃ¡ld ki a sÃ¼lt vakondpatkÃ¡nyt! Ez a legjobb errefelÃ©.}
+{122}{}{Ãœdv! Mi a csillagjegyed?}
 {123}{}{If you're looking for work, stranger, go down to the Stockman's.}
-{124}{}{Picsába! Láttad ezt?}
+{124}{}{PicsÃ¡ba! LÃ¡ttad ezt?}
 {125}{}{Jaj, ember, kezdek rosszul lenni!}
-{126}{}{Nem kell több...}
-{127}{}{Hé, keverj nekem egyet abból!}
+{126}{}{Nem kell tÃ¶bb...}
+{127}{}{HÃ©, keverj nekem egyet abbÃ³l!}
 {128}{}{Volt egyszer egy Rad-a-Waster-em, mint az ott...}

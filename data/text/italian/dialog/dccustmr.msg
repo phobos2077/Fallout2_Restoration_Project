@@ -32,7 +32,7 @@
 {316}{}{Quella Dyer... sa davvero il fatto suo.}
 {317}{}{Non c'e' niente come una bella bevuta e dei buoni amici.}
 {318}{}{L'unico difetto dei drink di Becky e' che si tende a berne troppi!}
-{319}{}{Becky… voglio dire, Rebecca e' davvero una dolcezza.}
+{319}{}{Beckyâ€¦ voglio dire, Rebecca e' davvero una dolcezza.}
 {320}{}{Se qualcuno dovesse sfiorarla anche solo con un dito, gliela farei pagare cara.}
 {321}{}{Questa e' roba buona.}
 {340}{}{Dovremmo ucciderti per quello che hai fatto.}
@@ -71,7 +71,7 @@
 {433}{}{Tubby ti aveva imbrogliato, eh?}
 {434}{}{In giro si dice che hai fatto fuori Tubby a causa di un cattivo affare o qualcosa del genere.}
 {435}{}{Non mi sorprende. Ultimamente un sacco di persone ce l'avevano con Tubby.}
-{440}{}{Non c'e' niente che mi interessi, oggi…}
+{440}{}{Non c'e' niente che mi interessi, oggiâ€¦}
 {441}{}{Oh, ciao. Stavo solo parlando con il mio vecchio amico Flick.}
 {442}{}{Che cosa ci fai qui?}
 {443}{}{Anche tu sei un amico di Flick?}
@@ -97,6 +97,6 @@
 {500}{}{Come hai potuto fare del male alla povera e vecchia Mama?}
 {501}{}{Conosco, voglio dire, conoscevo Mama da una vita.}
 {502}{}{Che cosa ti aveva fatto?}
-{503}{}{Assassino! Povera Mama…}
+{503}{}{Assassino! Povera Mamaâ€¦}
 {504}{}{Perche' l'hai fatto?}
 {505}{}{Sei un mostro senza cuore!}

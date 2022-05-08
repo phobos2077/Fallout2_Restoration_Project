@@ -1,131 +1,131 @@
-{100}{}{Widzisz osobê, której skóra uleg³a silnemu poparzeniu.}
-{101}{}{Widzisz jednego z ghuli zamieszkuj¹cych Gecko.}
-{102}{}{Widzisz kogoœ, czyja skóra zosta³a poparzona promieniowaniem. Tyle promieniowania powinno go zabiæ, ale jednak wci¹¿ ¿yje.}
-{110}{}{Osoba, któr¹ widzisz, delikatnie œwieci. Jej skóra wygl¹da na okropnie poparzon¹.}
-{111}{}{Widzisz jarz¹cego siê mieszkañca Gecko.}
-{112}{}{Widzisz kogoœ, kto by³ nara¿ony na dzia³anie promieniowania tak silnego, ¿e a¿ zacz¹³ œwieciæ. Tyle promieniowania powinno go zabiæ, ale osoba ta wci¹¿ ¿yje.}
-{120}{}{Dziêki za uratowanie nas przed Kryptopolis.}
+{100}{}{Widzisz osobÄ™, ktÃ³rej skÃ³ra ulegÅ‚a silnemu poparzeniu.}
+{101}{}{Widzisz jednego z ghuli zamieszkujÄ…cych Gecko.}
+{102}{}{Widzisz kogoÅ›, czyja skÃ³ra zostaÅ‚a poparzona promieniowaniem. Tyle promieniowania powinno go zabiÄ‡, ale jednak wciÄ…Å¼ Å¼yje.}
+{110}{}{Osoba, ktÃ³rÄ… widzisz, delikatnie Å›wieci. Jej skÃ³ra wyglÄ…da na okropnie poparzonÄ….}
+{111}{}{Widzisz jarzÄ…cego siÄ™ mieszkaÅ„ca Gecko.}
+{112}{}{Widzisz kogoÅ›, kto byÅ‚ naraÅ¼ony na dziaÅ‚anie promieniowania tak silnego, Å¼e aÅ¼ zaczÄ…Å‚ Å›wieciÄ‡. Tyle promieniowania powinno go zabiÄ‡, ale osoba ta wciÄ…Å¼ Å¼yje.}
+{120}{}{DziÄ™ki za uratowanie nas przed Kryptopolis.}
 {121}{}{Gdyby nie ty, ci bigoci z Kryptopolis by nas pozabijali.}
-{122}{}{Có¿ za bohaterstwo!}
-{123}{}{Jeœli chcesz, mo¿esz przyjœæ do mnie na zupkê z gekona.}
-{124}{}{Dziêki za naprawienie naszego reaktora.}
-{125}{}{Teraz jest mi zimniej, ale i tak dziêki za zajêcie siê tym wyciekiem z naszego reaktora.}
-{126}{}{Dziêki za zajêcie siê dla nas tymi bigotami z Kryptopolis.}
-{127}{}{Gdyby nie twoja pomoc, Kryptopolis zniszczy³oby nas.}
-{128}{}{Có¿ za bohaterstwo!}
-{129}{}{Jeszcze raz dziêki.}
-{130}{}{Dziêkujemy za pomoc.}
-{131}{}{Jesteœ super. Dziêki.}
-{132}{}{NieŸle jak na g³adkoskórka.}
-{140}{}{Witaj g³adkoskórku.}
+{122}{}{CÃ³Å¼ za bohaterstwo!}
+{123}{}{JeÅ›li chcesz, moÅ¼esz przyjÅ›Ä‡ do mnie na zupkÄ™ z gekona.}
+{124}{}{DziÄ™ki za naprawienie naszego reaktora.}
+{125}{}{Teraz jest mi zimniej, ale i tak dziÄ™ki za zajÄ™cie siÄ™ tym wyciekiem z naszego reaktora.}
+{126}{}{DziÄ™ki za zajÄ™cie siÄ™ dla nas tymi bigotami z Kryptopolis.}
+{127}{}{Gdyby nie twoja pomoc, Kryptopolis zniszczyÅ‚oby nas.}
+{128}{}{CÃ³Å¼ za bohaterstwo!}
+{129}{}{Jeszcze raz dziÄ™ki.}
+{130}{}{DziÄ™kujemy za pomoc.}
+{131}{}{JesteÅ› super. DziÄ™ki.}
+{132}{}{NieÅºle jak na gÅ‚adkoskÃ³rka.}
+{140}{}{Witaj gÅ‚adkoskÃ³rku.}
 {141}{}{Witaj w Gecko.}
 {142}{}{Witaj.}
-{143}{}{Nie jesteœ jak inne g³adkoskórki.}
-{144}{}{Co tam s³ychaæ na pustkowiu?}
+{143}{}{Nie jesteÅ› jak inne gÅ‚adkoskÃ³rki.}
+{144}{}{Co tam sÅ‚ychaÄ‡ na pustkowiu?}
 {145}{}{Sie masz.}
-{146}{}{Czo³em.}
-{147}{}{Dziêki naszemu reaktorowi wszyscy jarzymy siê nasz¹ dum¹.}
-{148}{}{Uda³o nam siê tutaj zapanowaæ nad poteg¹ atomu.}
-{149}{}{Któregoœ dnia inni te¿ bêd¹ mogli korzystaæ z naszego pr¹du.}
-{150}{}{Cieszê siê, ¿e nie wszystkie g³adkoskórki s¹ takie jak ci z Kryptopolis.}
-{151}{}{Gdyby ludzie z Kryptopolis byli tacy jak ty, nie mielibyœmy z nimi problemów.}
-{160}{}{Hmmm, kolejny oszukañczy g³adkoskórek.}
-{161}{}{Witaj, g³adoskórek...}
-{162}{}{Czeœæ wszystkim.}
+{146}{}{CzoÅ‚em.}
+{147}{}{DziÄ™ki naszemu reaktorowi wszyscy jarzymy siÄ™ naszÄ… dumÄ….}
+{148}{}{UdaÅ‚o nam siÄ™ tutaj zapanowaÄ‡ nad potegÄ… atomu.}
+{149}{}{KtÃ³regoÅ› dnia inni teÅ¼ bÄ™dÄ… mogli korzystaÄ‡ z naszego prÄ…du.}
+{150}{}{CieszÄ™ siÄ™, Å¼e nie wszystkie gÅ‚adkoskÃ³rki sÄ… takie jak ci z Kryptopolis.}
+{151}{}{Gdyby ludzie z Kryptopolis byli tacy jak ty, nie mielibyÅ›my z nimi problemÃ³w.}
+{160}{}{Hmmm, kolejny oszukaÅ„czy gÅ‚adkoskÃ³rek.}
+{161}{}{Witaj, gÅ‚adoskÃ³rek...}
+{162}{}{CzeÅ›Ä‡ wszystkim.}
 {163}{}{Co jest?}
-{164}{}{Tylko siê zachowuj, póki jesteœ w mieœcie.}
-{165}{}{Z daleka jesteœ?}
-{166}{}{Wygl¹dasz na kogoœ z Kryptopolis.}
-{167}{}{Jesteœmy tolerancyjni, ale nie g³upi...}
-{168}{}{Trzymaj siê z dala od Kryptopolis. Ci goœcie to dupki.}
-{169}{}{Witaj. Ostatnio jest dosyæ sucho.}
+{164}{}{Tylko siÄ™ zachowuj, pÃ³ki jesteÅ› w mieÅ›cie.}
+{165}{}{Z daleka jesteÅ›?}
+{166}{}{WyglÄ…dasz na kogoÅ› z Kryptopolis.}
+{167}{}{JesteÅ›my tolerancyjni, ale nie gÅ‚upi...}
+{168}{}{Trzymaj siÄ™ z dala od Kryptopolis. Ci goÅ›cie to dupki.}
+{169}{}{Witaj. Ostatnio jest dosyÄ‡ sucho.}
 {180}{}{Ostatnio wcale nie pada.}
 {181}{}{Cholerne chwasty.}
-{182}{}{Nasz reaktor powoduje, ¿e chwasty s¹ coraz wiêksze.}
-{183}{}{Podobno niektóre chwasty s¹ niebezpieczne.}
-{184}{}{Podobno plemienni potrafi¹ wzywaæ deszcz.}
-{185}{}{W tym roku bêd¹ niez³e ¿niwa.}
-{186}{}{Kukurydza roœnie nam tak wysoka jak szpon œmierci.}
-{187}{}{Warzywa s¹ dobre.}
-{188}{}{Prawie mamy ju¿ ¿niwa.}
-{189}{}{Przyda³oby siê trochê deszczu.}
-{200}{}{Muszê pilnowaæ braminów.}
-{201}{}{Te braminy s¹ takie urocze. Przykro bêdzie je zabijaæ.}
-{202}{}{Nudzi mi siê.}
+{182}{}{Nasz reaktor powoduje, Å¼e chwasty sÄ… coraz wiÄ™ksze.}
+{183}{}{Podobno niektÃ³re chwasty sÄ… niebezpieczne.}
+{184}{}{Podobno plemienni potrafiÄ… wzywaÄ‡ deszcz.}
+{185}{}{W tym roku bÄ™dÄ… niezÅ‚e Å¼niwa.}
+{186}{}{Kukurydza roÅ›nie nam tak wysoka jak szpon Å›mierci.}
+{187}{}{Warzywa sÄ… dobre.}
+{188}{}{Prawie mamy juÅ¼ Å¼niwa.}
+{189}{}{PrzydaÅ‚oby siÄ™ trochÄ™ deszczu.}
+{200}{}{MuszÄ™ pilnowaÄ‡ braminÃ³w.}
+{201}{}{Te braminy sÄ… takie urocze. Przykro bÄ™dzie je zabijaÄ‡.}
+{202}{}{Nudzi mi siÄ™.}
 {203}{}{Muuu, muuu, muuu?}
-{204}{}{Jestem tu zbyt d³ugo.}
+{204}{}{Jestem tu zbyt dÅ‚ugo.}
 {205}{}{To ty tak pachniesz czy braminy?}
-{206}{}{Patrz¹ na mnie jakby wiedzia³y co je czeka.}
-{207}{}{Ktoœ wczoraj jednego przewróci³.}
-{208}{}{Niektóre s¹ ³adniejsze ni¿ inne.}
-{209}{}{Ciekawe czemu nikt na nich nie jeŸdzi.}
-{220}{}{Witaj, g³adkoskórku.}
-{221}{}{Kup nam drinka, g³adkoskórku.}
-{222}{}{Ale¿ mi siê chce piæ.}
+{206}{}{PatrzÄ… na mnie jakby wiedziaÅ‚y co je czeka.}
+{207}{}{KtoÅ› wczoraj jednego przewrÃ³ciÅ‚.}
+{208}{}{NiektÃ³re sÄ… Å‚adniejsze niÅ¼ inne.}
+{209}{}{Ciekawe czemu nikt na nich nie jeÅºdzi.}
+{220}{}{Witaj, gÅ‚adkoskÃ³rku.}
+{221}{}{Kup nam drinka, gÅ‚adkoskÃ³rku.}
+{222}{}{AleÅ¼ mi siÄ™ chce piÄ‡.}
 {223}{}{Za wysoko stoisz by pic z nami, co?}
 {224}{}{Gdzie moi kumple, Johnny Stroller i Jim Bean?}
-{225}{}{Poproszê wstrzasniêty, nie mieszany.}
-{226}{}{Poproœ Wooza, ¿eby opowiedzia³ ci historyjkê.}
-{227}{}{Zaœpiewajmy coœ.}
-{228}{}{...No i co z tymi g³owami? Nie rozumiem Wooza.}
-{229}{}{Co to jest jab³ko?}
-{240}{}{Jak na g³adkoskórka nieŸle wygl¹dasz.}
-{241}{}{Kup nam jeszcze rundkê.}
-{242}{}{./~ Jak¿esz jestem trzeŸwy, jak¿esz trzeŸwy.... ./~}
-{243}{}{Jak dla mnie jesteœ w porz¹dku.}
-{244}{}{Hej, uwa¿aj na szczura.}
+{225}{}{PoproszÄ™ wstrzasniÄ™ty, nie mieszany.}
+{226}{}{PoproÅ› Wooza, Å¼eby opowiedziaÅ‚ ci historyjkÄ™.}
+{227}{}{ZaÅ›piewajmy coÅ›.}
+{228}{}{...No i co z tymi gÅ‚owami? Nie rozumiem Wooza.}
+{229}{}{Co to jest jabÅ‚ko?}
+{240}{}{Jak na gÅ‚adkoskÃ³rka nieÅºle wyglÄ…dasz.}
+{241}{}{Kup nam jeszcze rundkÄ™.}
+{242}{}{./~ JakÅ¼esz jestem trzeÅºwy, jakÅ¼esz trzeÅºwy.... ./~}
+{243}{}{Jak dla mnie jesteÅ› w porzÄ…dku.}
+{244}{}{Hej, uwaÅ¼aj na szczura.}
 {245}{}{Ciekawe czemu Skeeter nigdy z nami nie pije?}
-{246}{}{Próbujemy tu wyhodowaæ nowy typ bramina - z tylko jedn¹ g³ow¹.}
-{247}{}{Ktoœ w mieœcie powinien zaj¹æ siê krawiectwem.}
+{246}{}{PrÃ³bujemy tu wyhodowaÄ‡ nowy typ bramina - z tylko jednÄ… gÅ‚owÄ….}
+{247}{}{KtoÅ› w mieÅ›cie powinien zajÄ…Ä‡ siÄ™ krawiectwem.}
 {248}{}{Aach, piwo jest dobre.}
-{249}{}{To piwo jest œwietne. To przez wodê i du¿o innych rzeczy.}
-{260}{}{Jesteœ super g³adkoskórkiem.}
-{261}{}{Wiêcej œwiec¹cego soczku! Wiêcej!}
-{262}{}{To jeszcze po jednym, nie, g³adoskórek?}
+{249}{}{To piwo jest Å›wietne. To przez wodÄ™ i duÅ¼o innych rzeczy.}
+{260}{}{JesteÅ› super gÅ‚adkoskÃ³rkiem.}
+{261}{}{WiÄ™cej Å›wiecÄ…cego soczku! WiÄ™cej!}
+{262}{}{To jeszcze po jednym, nie, gÅ‚adoskÃ³rek?}
 {263}{}{Biedne mutanty z Broken Hills.}
-{264}{}{Podobno gekony s¹ takie jak my. Zmienione przez promieniowanie.}
-{265}{}{Trzymamy siê tutaj ¿ycia, jak ma³y gekon œciany.}
+{264}{}{Podobno gekony sÄ… takie jak my. Zmienione przez promieniowanie.}
+{265}{}{Trzymamy siÄ™ tutaj Å¼ycia, jak maÅ‚y gekon Å›ciany.}
 {266}{}{Podobno Skeeter buduje gigantycznego robota.}
 {267}{}{Podobno Chester to szpieg Kryptopolis.}
-{268}{}{Chcê byæ znów g³adki.}
-{269}{}{Podobno w nocy nad miastem coœ lata.}
-{280}{}{Kocham ciê.}
-{281}{}{Jesteœ najlepszy.}
-{282}{}{£adowaæ atomówkami w Kryptopolis, dopóki nie zacznie œwieciæ!}
-{283}{}{./~99 strzykawek RadAwaya na œcianie, 99 strzykawek... ./~}
-{284}{}{./~Ca³y dzieñ harujê przy reaktorze, calutki dzionek.... ./~}
-{285}{}{Gdyby nie ty, to nie moglibyœmy ufaæ g³adkoskórym.}
-{286}{}{Chyba niektorzy g³adcy s¹ jednak w porz¹dku.}
-{287}{}{Chester powinien napiæ siê z nami.}
-{288}{}{Gdy odnowi siê moja skóra, chcê wygl¹daæ tak jak ty.}
-{289}{}{Cieszê siê, ¿e nasz reaktor dzia³a.}
-{290}{}{Chyba siê upi³em. Mam wra¿enie, ¿e Wooz zaczyna gadaæ z sensem.}
-{291}{}{Chyba raz widzia³em jablko... a mo¿e to by³ banan?}
-{300}{}{Reaktor dzia³a tak dobrze, ¿e a¿ s³ychaæ jego buczenie.}
-{301}{}{Dziêki, ¿e uda³o ci siê za³atwiæ dla nas sprawy z Kryptopolis.}
-{302}{}{Teraz mamy wbród energii.}
-{303}{}{Nied³ugo bêdziemy mogli sprzedawaæ energiê Kryptopolis.}
-{304}{}{Kurczê, bêdziemy teraz potrzebowaæ du¿o miedzi z Redding.}
-{305}{}{Reaktor dzia³a teraz œwietnie. Dziêki.}
-{306}{}{Jesteœ najlepszy.}
-{307}{}{Dziêki za naprawienie naszego reaktora atomowego.}
-{308}{}{Reaktor a¿ mruczy z zachwytu. Dziêki.}
-{309}{}{Jesteœ super g³adkoskórkiem.}
-{320}{}{Odnów siê, odnów.}
-{321}{}{Jesteœ z nami.}
-{322}{}{Witaj. Odnowa jest w zasiêgu rêki.}
-{323}{}{Wkrótce bêdziemy jednoœci¹.}
-{324}{}{On wie wszystko. Módl siê do jego g³adkiego futerka.}
-{325}{}{Cholerni sekciarze. Wynocha st¹d.}
-{326}{}{Odnów to (robi wulgarny gest), dupku.}
-{327}{}{Mam tutaj twoj¹ odnowê, kole¿ko.}
-{328}{}{Nie mozna siê nawet obróciæ by nie wpaœæ na kolejnego cholernego sekciarza.}
-{329}{}{Nigdy nie bêdê czciæ przeroœniêtego szczura.}
+{268}{}{ChcÄ™ byÄ‡ znÃ³w gÅ‚adki.}
+{269}{}{Podobno w nocy nad miastem coÅ› lata.}
+{280}{}{Kocham ciÄ™.}
+{281}{}{JesteÅ› najlepszy.}
+{282}{}{ÅadowaÄ‡ atomÃ³wkami w Kryptopolis, dopÃ³ki nie zacznie Å›wieciÄ‡!}
+{283}{}{./~99 strzykawek RadAwaya na Å›cianie, 99 strzykawek... ./~}
+{284}{}{./~CaÅ‚y dzieÅ„ harujÄ™ przy reaktorze, calutki dzionek.... ./~}
+{285}{}{Gdyby nie ty, to nie moglibyÅ›my ufaÄ‡ gÅ‚adkoskÃ³rym.}
+{286}{}{Chyba niektorzy gÅ‚adcy sÄ… jednak w porzÄ…dku.}
+{287}{}{Chester powinien napiÄ‡ siÄ™ z nami.}
+{288}{}{Gdy odnowi siÄ™ moja skÃ³ra, chcÄ™ wyglÄ…daÄ‡ tak jak ty.}
+{289}{}{CieszÄ™ siÄ™, Å¼e nasz reaktor dziaÅ‚a.}
+{290}{}{Chyba siÄ™ upiÅ‚em. Mam wraÅ¼enie, Å¼e Wooz zaczyna gadaÄ‡ z sensem.}
+{291}{}{Chyba raz widziaÅ‚em jablko... a moÅ¼e to byÅ‚ banan?}
+{300}{}{Reaktor dziaÅ‚a tak dobrze, Å¼e aÅ¼ sÅ‚ychaÄ‡ jego buczenie.}
+{301}{}{DziÄ™ki, Å¼e udaÅ‚o ci siÄ™ zaÅ‚atwiÄ‡ dla nas sprawy z Kryptopolis.}
+{302}{}{Teraz mamy wbrÃ³d energii.}
+{303}{}{NiedÅ‚ugo bÄ™dziemy mogli sprzedawaÄ‡ energiÄ™ Kryptopolis.}
+{304}{}{KurczÄ™, bÄ™dziemy teraz potrzebowaÄ‡ duÅ¼o miedzi z Redding.}
+{305}{}{Reaktor dziaÅ‚a teraz Å›wietnie. DziÄ™ki.}
+{306}{}{JesteÅ› najlepszy.}
+{307}{}{DziÄ™ki za naprawienie naszego reaktora atomowego.}
+{308}{}{Reaktor aÅ¼ mruczy z zachwytu. DziÄ™ki.}
+{309}{}{JesteÅ› super gÅ‚adkoskÃ³rkiem.}
+{320}{}{OdnÃ³w siÄ™, odnÃ³w.}
+{321}{}{JesteÅ› z nami.}
+{322}{}{Witaj. Odnowa jest w zasiÄ™gu rÄ™ki.}
+{323}{}{WkrÃ³tce bÄ™dziemy jednoÅ›ciÄ….}
+{324}{}{On wie wszystko. MÃ³dl siÄ™ do jego gÅ‚adkiego futerka.}
+{325}{}{Cholerni sekciarze. Wynocha stÄ…d.}
+{326}{}{OdnÃ³w to (robi wulgarny gest), dupku.}
+{327}{}{Mam tutaj twojÄ… odnowÄ™, koleÅ¼ko.}
+{328}{}{Nie mozna siÄ™ nawet obrÃ³ciÄ‡ by nie wpaÅ›Ä‡ na kolejnego cholernego sekciarza.}
+{329}{}{Nigdy nie bÄ™dÄ™ czciÄ‡ przeroÅ›niÄ™tego szczura.}
 {340}{}{Pogadaj z Lennym na temat tych ran.}
-{341}{}{Wygl¹dasz jak mumia. Pogadaj z Lennym.}
-{342}{}{Nie trzeba siê by³o mocowaæ ze szponem œmierci. Pogadaj z Lennym.}
-{343}{}{Lenny jest w biurze Harolda. Powinien obejrzeæ te twoje rany.}
-{344}{}{Co ciê tak podarlo?}
-{345}{}{Au, lepiej idŸ do Lenny'ego.}
+{341}{}{WyglÄ…dasz jak mumia. Pogadaj z Lennym.}
+{342}{}{Nie trzeba siÄ™ byÅ‚o mocowaÄ‡ ze szponem Å›mierci. Pogadaj z Lennym.}
+{343}{}{Lenny jest w biurze Harolda. Powinien obejrzeÄ‡ te twoje rany.}
+{344}{}{Co ciÄ™ tak podarlo?}
+{345}{}{Au, lepiej idÅº do Lenny'ego.}
 {346}{}{Lenny jest w osadzie, niech obejrzy twoje rany.}
-{347}{}{Ciekawe jak wygl¹da ten co z tob¹ zacz¹³.}
+{347}{}{Ciekawe jak wyglÄ…da ten co z tobÄ… zaczÄ…Å‚.}

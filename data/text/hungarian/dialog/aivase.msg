@@ -1,2 +1,2 @@
-{100}{}{Egy vázát látsz.}
-{101}{}{Egy napon szárított agyagvázát látsz.}
+{100}{}{Egy vÃ¡zÃ¡t lÃ¡tsz.}
+{101}{}{Egy napon szÃ¡rÃ­tott agyagvÃ¡zÃ¡t lÃ¡tsz.}

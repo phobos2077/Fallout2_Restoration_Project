@@ -1,47 +1,47 @@
 {100}{}{Du siehst einen Fischer.}
 {101}{}{Du siehst eine Fischerin.}
-{102}{}{Er trägt einen angespitzten Stock, der zum Fischen benutzt wird.}
+{102}{}{Er trÃ¤gt einen angespitzten Stock, der zum Fischen benutzt wird.}
 {103}{}{Sie scheint eifrig am kochen zu sein.}
-{104}{}{Grüße.}
+{104}{}{GrÃ¼ÃŸe.}
 {200}{}{Du bist hier nicht Willkommen.}
-{201}{}{Die Geister mögen dich nicht.}
-{202}{}{Geh weg, Außenweltler.}
+{201}{}{Die Geister mÃ¶gen dich nicht.}
+{202}{}{Geh weg, AuÃŸenweltler.}
 {203}{}{Was willst du?}
 {204}{}{Willkommen, Freund.}
 {205}{}{Du bist uns immer willkommen.}
 {206}{}{Die Geister akzeptieren dich als einen von uns.}
 {207}{}{Danke, das du uns geholfen hast.}
-{208}{}{Ich dachte, alle Außenweltler wären böse. Es ist nicht so...}
-{209}{}{Mach das bloß nicht.}
-{300}{}{Entschuldige, aber könntest du mir einen Gefallen tun? Ich bin etwas beschäftigt und ich weiß nicht, ob ich diesen Kochtopf hier unbeaufsichtigt stehen lassen kann.}
+{208}{}{Ich dachte, alle AuÃŸenweltler wÃ¤ren bÃ¶se. Es ist nicht so...}
+{209}{}{Mach das bloÃŸ nicht.}
+{300}{}{Entschuldige, aber kÃ¶nntest du mir einen Gefallen tun? Ich bin etwas beschÃ¤ftigt und ich weiÃŸ nicht, ob ich diesen Kochtopf hier unbeaufsichtigt stehen lassen kann.}
 {301}{}{Sicher, was brauchst du?}
-{302}{}{Ich bin ebenfalls beschäftigt. Vielleicht später.}
-{303}{}{Hey, das Leben ist voller Probleme und ich bin nicht hier, um sie alle zu lösen. Tschüss.}
-{304}{}{Nun, ich habe fast kein Holz mehr für das Feuer. Ich wäre wirklich dankbar, wenn du für mich etwas sammeln könntest.
- Ich würde es selbst tun, aber ich kann den Kochtopf nicht unbeaufsichtigt stehen lassen. Ich bin sicher, dass viel Feuerholz in
- der Nähe des Waldes zu finden ist. Ich denke, drei Bündel wären mehr als genug.}
-{305}{}{Es wäre mir ein Vergnügen.}
-{306}{}{Eigentlich habe ich bereits über drei Bündel bei mir. Hier, bitteschön.}
-{307}{}{Du wirst mir helfen? Großartig! Lass mich wissen, wenn du alles bei dir hast.}
-{308}{}{Ah, ausgezeichnet. Das wird das Feuer weiter lodern lassen. Danke für deine Hilfe. Leider habe ich nicht
- viel, dass ich dir geben könnte.}
+{302}{}{Ich bin ebenfalls beschÃ¤ftigt. Vielleicht spÃ¤ter.}
+{303}{}{Hey, das Leben ist voller Probleme und ich bin nicht hier, um sie alle zu lÃ¶sen. TschÃ¼ss.}
+{304}{}{Nun, ich habe fast kein Holz mehr fÃ¼r das Feuer. Ich wÃ¤re wirklich dankbar, wenn du fÃ¼r mich etwas sammeln kÃ¶nntest.
+ Ich wÃ¼rde es selbst tun, aber ich kann den Kochtopf nicht unbeaufsichtigt stehen lassen. Ich bin sicher, dass viel Feuerholz in
+ der NÃ¤he des Waldes zu finden ist. Ich denke, drei BÃ¼ndel wÃ¤ren mehr als genug.}
+{305}{}{Es wÃ¤re mir ein VergnÃ¼gen.}
+{306}{}{Eigentlich habe ich bereits Ã¼ber drei BÃ¼ndel bei mir. Hier, bitteschÃ¶n.}
+{307}{}{Du wirst mir helfen? GroÃŸartig! Lass mich wissen, wenn du alles bei dir hast.}
+{308}{}{Ah, ausgezeichnet. Das wird das Feuer weiter lodern lassen. Danke fÃ¼r deine Hilfe. Leider habe ich nicht
+ viel, dass ich dir geben kÃ¶nnte.}
 {309}{}{Dein Dank ist Lohn genug. Machs gut.}
-{310}{}{Keine Belohnung für mich? Hör mal Frau, ich hätte in den Wäldern sterben können. Sie sind mit allen möglichen tödlichen Kreaturen bevölkert. Ich riskierte meinen Hals für dieses verdammte Holz. Abgesehen davon, glaube ich, dass ich mir an einem dieser Scheite einen Splitter zugezogen habe. Ich *hasse* Splitter.}
-{311}{}{Hier, nimm dieses Geld. Ich habe keine wirkliche Verwendung dafür. Danke nochmal für deine Hilfe.}
-{312}{}{Schon besser. Tschüss.}
+{310}{}{Keine Belohnung fÃ¼r mich? HÃ¶r mal Frau, ich hÃ¤tte in den WÃ¤ldern sterben kÃ¶nnen. Sie sind mit allen mÃ¶glichen tÃ¶dlichen Kreaturen bevÃ¶lkert. Ich riskierte meinen Hals fÃ¼r dieses verdammte Holz. Abgesehen davon, glaube ich, dass ich mir an einem dieser Scheite einen Splitter zugezogen habe. Ich *hasse* Splitter.}
+{311}{}{Hier, nimm dieses Geld. Ich habe keine wirkliche Verwendung dafÃ¼r. Danke nochmal fÃ¼r deine Hilfe.}
+{312}{}{Schon besser. TschÃ¼ss.}
 {313}{}{[Fertig]}
 {314}{}{Dann frag jemand anderes um Hilfe.}
 {315}{}{Hast du das Feuerholz?}
 {316}{}{Ja, hier ist es.}
-{317}{}{Nein, noch nicht. Ich komme zurück, wenn ich die drei Bündel habe.}
+{317}{}{Nein, noch nicht. Ich komme zurÃ¼ck, wenn ich die drei BÃ¼ndel habe.}
 {318}{}{Bist du bereit mir zu helfen?}
 {319}{}{Sicher, was brauchst du?}
 {320}{}{Nein, ich brauche noch etwas Zeit.}
-{321}{}{Nein, löse deine Probleme selber.}
-{330}{}{Keine Verwendung dafür? Warum gibst du es mir nicht gleich im Vorhinein? (murmel) Dumme Schlampe.}
+{321}{}{Nein, lÃ¶se deine Probleme selber.}
+{330}{}{Keine Verwendung dafÃ¼r? Warum gibst du es mir nicht gleich im Vorhinein? (murmel) Dumme Schlampe.}
 {400}{}{Wat brauchen?}
 {401}{}{Ooh! Mach du mir Lieblingsessn!}
 {410}{}{I such.}
 {411}{}{I hab Holz. Hih-hih . . . Holz.}
-{420}{}{Das gut. Tschü!}
-{500}{}{Widerlicher Sklavenhändler!}
+{420}{}{Das gut. TschÃ¼!}
+{500}{}{Widerlicher SklavenhÃ¤ndler!}

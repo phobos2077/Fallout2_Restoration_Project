@@ -1,88 +1,88 @@
-{100}{}{Egy vékonydongájú punk.}
-{101}{}{? Doofus, parkoló?r.}
+{100}{}{Egy vÃ©konydongÃ¡jÃº punk.}
+{101}{}{? Doofus, parkolÃ³?r.}
 {102}{}{This guy's a ragged little weed, full twitches and tics, no doubt an addict of something.}
 {103}{}{That's a fine transport, man, truly fine! Oh man, I am the one for you - watch your car, keep it safe from the bedbugs. Five bucks, no problem. Five bucks and Doofus is on the job! Never sleep - 24 hour, always there, man.}
-{104}{}{Én vagyok a parkoló?r. Vigyázok a kocsikra... 5 dollárért. Egy ujjal sem nyúl hozzá senki, mert Doofus rajta van a témán.}
+{104}{}{Ã‰n vagyok a parkolÃ³?r. VigyÃ¡zok a kocsikra... 5 dollÃ¡rÃ©rt. Egy ujjal sem nyÃºl hozzÃ¡ senki, mert Doofus rajta van a tÃ©mÃ¡n.}
 {105}{}{Rendben, hogyne, ember!}
-{106}{}{Szóval? Akarod, hogy vigyázzak rá?}
+{106}{}{SzÃ³val? Akarod, hogy vigyÃ¡zzak rÃ¡?}
 {107}{}{Good. Do.}
-{108}{}{Nem. Hagyol béke neki!}
-{109}{}{Te csak ne emberezzél itt!}
-{110}{}{Miféle hely ez?}
-{111}{}{Megegyeztünk. 5 dolcsi... és figyeled a kocsit!}
-{112}{}{T?nés, ocsmányság!}
-{113}{}{Némmá, ember, ez az óriás beszél hozzám! Mingyá' eldobom az agyvel?m...}
-{114}{}{Görg?}
-{115}{}{Te csak ne emberezzél itt!}
-{116}{}{Miféle hely ez?}
-{117}{}{Úgy van. Egy hatalmas, mindenható óriás vagyok! Engedelmeskedni fogsz nekem!}
-{118}{}{Mihaszna csöves! Kopj le!}
-{119}{}{Mit akarsz Doofustól, ember?}
-{120}{}{Nocsak, találkoztunk mi régebben? Mit tehetek érted?}
+{108}{}{Nem. Hagyol bÃ©ke neki!}
+{109}{}{Te csak ne emberezzÃ©l itt!}
+{110}{}{MifÃ©le hely ez?}
+{111}{}{MegegyeztÃ¼nk. 5 dolcsi... Ã©s figyeled a kocsit!}
+{112}{}{T?nÃ©s, ocsmÃ¡nysÃ¡g!}
+{113}{}{NÃ©mmÃ¡, ember, ez az Ã³riÃ¡s beszÃ©l hozzÃ¡m! MingyÃ¡' eldobom az agyvel?m...}
+{114}{}{GÃ¶rg?}
+{115}{}{Te csak ne emberezzÃ©l itt!}
+{116}{}{MifÃ©le hely ez?}
+{117}{}{Ãšgy van. Egy hatalmas, mindenhatÃ³ Ã³riÃ¡s vagyok! Engedelmeskedni fogsz nekem!}
+{118}{}{Mihaszna csÃ¶ves! Kopj le!}
+{119}{}{Mit akarsz DoofustÃ³l, ember?}
+{120}{}{Nocsak, talÃ¡lkoztunk mi rÃ©gebben? Mit tehetek Ã©rted?}
 {121}{}{Rendben, hogyne, ember!}
 {122}{}{Squa?}
-{123}{}{Te csak ne emberezzél itt!}
-{124}{}{Mi a munkád?}
-{125}{}{Mi ez a hely tulajdonképpen?}
-{126}{}{Semmi-semmi. Azt hittem, más valaki vagy. Üdv!}
+{123}{}{Te csak ne emberezzÃ©l itt!}
+{124}{}{Mi a munkÃ¡d?}
+{125}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{126}{}{Semmi-semmi. Azt hittem, mÃ¡s valaki vagy. Ãœdv!}
 {127}{}{Whoa, man, I warned you. Bad place. Bad folks around here. Heard stuff from your transport got jacked.}
 {128}{}{Brak?}
 {129}{}{Honnan tudtad?}
-{130}{}{Nagyszer?! Köszi. Remek.}
-{131}{}{Doofus majd megmutatja, ember! Még egy légy sem fog rászarni az au-tó-mo-bil-od-ra!}
-{132}{}{Mi ez a hely tulajdonképpen?}
-{133}{}{Jó. Pofa be!}
-{134}{}{Ha nincs nálad a szajré, t?nj innen a faszba! Fontos dolgokat kell még nyélbe ütnöm.}
-{135}{}{Hé, ember, Doofus figyelmeztetett!}
+{130}{}{Nagyszer?! KÃ¶szi. Remek.}
+{131}{}{Doofus majd megmutatja, ember! MÃ©g egy lÃ©gy sem fog rÃ¡szarni az au-tÃ³-mo-bil-od-ra!}
+{132}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{133}{}{JÃ³. Pofa be!}
+{134}{}{Ha nincs nÃ¡lad a szajrÃ©, t?nj innen a faszba! Fontos dolgokat kell mÃ©g nyÃ©lbe Ã¼tnÃ¶m.}
+{135}{}{HÃ©, ember, Doofus figyelmeztetett!}
 {136}{}{Fuck you. I am not answering your questions.}
-{137}{}{Mi ez a hely tulajdonképpen?}
-{138}{}{Viszlát!}
-{139}{}{Viszlát!}
-{140}{}{Azta, gondolatolvasás! Fogom a mentális jeleket! Oké, hadd próbálkozzam... öhhh.... Öhhh...}
+{137}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{138}{}{ViszlÃ¡t!}
+{139}{}{ViszlÃ¡t!}
+{140}{}{Azta, gondolatolvasÃ¡s! Fogom a mentÃ¡lis jeleket! OkÃ©, hadd prÃ³bÃ¡lkozzam... Ã¶hhh.... Ã–hhh...}
 {141}{}{Igen?}
 {142}{}{Nem?}
-{143}{}{Agybajos vagy! T?nök a francba...}
-{144}{}{Ez itt az ÚKK. A hatalmas, mindenható, igazságos, az abszolút módon és mindig korrekt Új Kalifornia Köztársaság. ?k azok, akik a magunkfajtákat kivezetik a pusztaságból és új, tökéletes jöv?t nyújtanak. Fogod a témát?}
+{143}{}{Agybajos vagy! T?nÃ¶k a francba...}
+{144}{}{Ez itt az ÃšKK. A hatalmas, mindenhatÃ³, igazsÃ¡gos, az abszolÃºt mÃ³don Ã©s mindig korrekt Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡g. ?k azok, akik a magunkfajtÃ¡kat kivezetik a pusztasÃ¡gbÃ³l Ã©s Ãºj, tÃ¶kÃ©letes jÃ¶v?t nyÃºjtanak. Fogod a tÃ©mÃ¡t?}
 {145}{}{Let's get this business finished.}
-{146}{}{Persze, köszi. Minden jót!}
-{147}{}{Görg, ladal spaf!}
+{146}{}{Persze, kÃ¶szi. Minden jÃ³t!}
+{147}{}{GÃ¶rg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
 {150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
-{151}{}{Ember, ez rengeteg! Te óriás, Doofus vagyok és parkoló?r, nekem kell figyelni az emberek által itthagyott kocsikra, tudod, hogy van ez... néha kell egy kis plusz pénz meg ez-az...}
-{152}{}{Igen, hogyne. Néhanapján egy kicsit megszorulok és hát ugye kell ez meg az, érted, ugye? Amikor például kezdem rosszul érezni magam, kell szerezni egy kis lét vagy valamit, ezért megyek Merkhez.}
-{153}{}{Ember, Merk az Igazi Ember. ? aztán tudja, mi a pálya. Néha megengedi, hogy a Rawhide-ban aludjak zárás után. Persze utána szokott kérni kisebb szívességeket.}
-{154}{}{Mingyá rátérek... néddmá a színeket, ember! Merk néha azt akarja, hogy szedjek ki cuccokat az ?rzend? kocsikból. Én persze túljárok az eszén!}
+{151}{}{Ember, ez rengeteg! Te Ã³riÃ¡s, Doofus vagyok Ã©s parkolÃ³?r, nekem kell figyelni az emberek Ã¡ltal itthagyott kocsikra, tudod, hogy van ez... nÃ©ha kell egy kis plusz pÃ©nz meg ez-az...}
+{152}{}{Igen, hogyne. NÃ©hanapjÃ¡n egy kicsit megszorulok Ã©s hÃ¡t ugye kell ez meg az, Ã©rted, ugye? Amikor pÃ©ldÃ¡ul kezdem rosszul Ã©rezni magam, kell szerezni egy kis lÃ©t vagy valamit, ezÃ©rt megyek Merkhez.}
+{153}{}{Ember, Merk az Igazi Ember. ? aztÃ¡n tudja, mi a pÃ¡lya. NÃ©ha megengedi, hogy a Rawhide-ban aludjak zÃ¡rÃ¡s utÃ¡n. Persze utÃ¡na szokott kÃ©rni kisebb szÃ­vessÃ©geket.}
+{154}{}{MingyÃ¡ rÃ¡tÃ©rek... nÃ©ddmÃ¡ a szÃ­neket, ember! Merk nÃ©ha azt akarja, hogy szedjek ki cuccokat az ?rzend? kocsikbÃ³l. Ã‰n persze tÃºljÃ¡rok az eszÃ©n!}
 {155}{}{See I only take from the cars I ain't paid to watch. He thinks I'm jacking my customers, but I don't do that. Man, I got to quit talking. I'm like seeing things... oh, man, the glow. It's all about glowing.}
-{156}{}{Add ide az összes nálad lév? cuccot!}
+{156}{}{Add ide az Ã¶sszes nÃ¡lad lÃ©v? cuccot!}
 {157}{}{Mondd el, mit tudsz!}
-{158}{}{Elég ebb?l, nem t?röm tovább!}
-{159}{}{Jaj, fogd már be a pofád, te nagyon hülye!}
-{160}{}{Viszlát!}
-{161}{}{Hát, tudod, hallok néha ezt-azt. Sokmindent. Mindenre nem emlékezhetek tisztán.}
-{162}{}{Ez az 50 dollár azt ajánlja, hogy emlékezz...}
-{163}{}{Törd a kibaszott fejed, különben én töröm miszlikbe!}
-{164}{}{Cseszd meg! Nem fogom itt az id?met fecsérelni egy csövessel.}
-{165}{}{Úgy van, ember. Menj Merkhez! Nála mindig lehet munkát kapni.}
-{166}{}{Megyek, üdv-üdv-üdv!}
-{167}{}{Jaj, ember, kapjá' má' agyadhoz! Merk nem fog örülni, ha meghallja ezt.}
+{158}{}{ElÃ©g ebb?l, nem t?rÃ¶m tovÃ¡bb!}
+{159}{}{Jaj, fogd mÃ¡r be a pofÃ¡d, te nagyon hÃ¼lye!}
+{160}{}{ViszlÃ¡t!}
+{161}{}{HÃ¡t, tudod, hallok nÃ©ha ezt-azt. Sokmindent. Mindenre nem emlÃ©kezhetek tisztÃ¡n.}
+{162}{}{Ez az 50 dollÃ¡r azt ajÃ¡nlja, hogy emlÃ©kezz...}
+{163}{}{TÃ¶rd a kibaszott fejed, kÃ¼lÃ¶nben Ã©n tÃ¶rÃ¶m miszlikbe!}
+{164}{}{Cseszd meg! Nem fogom itt az id?met fecsÃ©relni egy csÃ¶vessel.}
+{165}{}{Ãšgy van, ember. Menj Merkhez! NÃ¡la mindig lehet munkÃ¡t kapni.}
+{166}{}{Megyek, Ã¼dv-Ã¼dv-Ã¼dv!}
+{167}{}{Jaj, ember, kapjÃ¡' mÃ¡' agyadhoz! Merk nem fog Ã¶rÃ¼lni, ha meghallja ezt.}
 {168}{}{Goodbye, dope-head.}
 {169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
-{170}{}{Hazudol, én ölni.}
-{171}{}{Nehogy hazudni merészelj! Visszajövök, ha megteszed!}
-{172}{}{Hogyne-hogyne. Halálra ijesztettél.}
-{173}{}{Ez az 50 dollár azt ajánlja, hogy emlékezz...}
+{170}{}{Hazudol, Ã©n Ã¶lni.}
+{171}{}{Nehogy hazudni merÃ©szelj! VisszajÃ¶vÃ¶k, ha megteszed!}
+{172}{}{Hogyne-hogyne. HalÃ¡lra ijesztettÃ©l.}
+{173}{}{Ez az 50 dollÃ¡r azt ajÃ¡nlja, hogy emlÃ©kezz...}
 {174}{}{Bite me, little man.}
-{175}{}{Menj a francba! Én leléptem...}
-{176}{}{Figyelni kell az autódat? Nem probléma. Majd én figyelem...}
-{177}{}{Bizony, kocsikat nézek, bizony, KOCSIKAT... KOCSIKAT... bizony, kocsikat...!}
-{178}{}{LA LA LA LA KOCSIKAT, adj egy Kocsit én meg majd nézem egy Kicsit.}
-{179}{}{NÉZEM nézem nézem nézem NÉZEM nézem NÉzem NÉÉÉÉZEM nézem}
+{175}{}{Menj a francba! Ã‰n lelÃ©ptem...}
+{176}{}{Figyelni kell az autÃ³dat? Nem problÃ©ma. Majd Ã©n figyelem...}
+{177}{}{Bizony, kocsikat nÃ©zek, bizony, KOCSIKAT... KOCSIKAT... bizony, kocsikat...!}
+{178}{}{LA LA LA LA KOCSIKAT, adj egy Kocsit Ã©n meg majd nÃ©zem egy Kicsit.}
+{179}{}{NÃ‰ZEM nÃ©zem nÃ©zem nÃ©zem NÃ‰ZEM nÃ©zem NÃ‰zem NÃ‰Ã‰Ã‰Ã‰ZEM nÃ©zem}
 {180}{}{Wrote a song about it, wanna hear it? Here it goes...}
 {181}{}{Kicsi KOCCSI KOCSI Kocsi KOCSI KKKKOCCSI KOCSI MACSI}
-{182}{}{Macsi?! Igen, macskákat is figyelgetek. Van valakinek egy MACSKÁJA??!!}
-{183}{}{SZERETEM A MACSIKAT, MINT AHOGY A KOCSIKAT NÉÉÉZEM!}
-{184}{}{Úgy nézem a kocsikat, mint a héja a kis gombszemével.}
-{185}{}{Sosenem menek innét elfele, nézegetem ?ketet, emberek j?nek idefele, beszé'nek, én meg nézek...}
-{186}{}{Igen, jól vagyok. IGEN, JÓL VAGYOK, igen.}
-{187}{}{Persze, haver, vigyél csak mindent...}
+{182}{}{Macsi?! Igen, macskÃ¡kat is figyelgetek. Van valakinek egy MACSKÃJA??!!}
+{183}{}{SZERETEM A MACSIKAT, MINT AHOGY A KOCSIKAT NÃ‰Ã‰Ã‰ZEM!}
+{184}{}{Ãšgy nÃ©zem a kocsikat, mint a hÃ©ja a kis gombszemÃ©vel.}
+{185}{}{Sosenem menek innÃ©t elfele, nÃ©zegetem ?ketet, emberek j?nek idefele, beszÃ©'nek, Ã©n meg nÃ©zek...}
+{186}{}{Igen, jÃ³l vagyok. IGEN, JÃ“L VAGYOK, igen.}
+{187}{}{Persze, haver, vigyÃ©l csak mindent...}

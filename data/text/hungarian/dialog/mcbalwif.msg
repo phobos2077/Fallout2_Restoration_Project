@@ -1,10 +1,10 @@
-{100}{}{[sírdogál]}
+{100}{}{[sÃ­rdogÃ¡l]}
 {101}{}{Jonny...}
 {102}{}{[szipog]}
-{103}{}{Hiányzik a fiam.}
-{110}{}{Kérlek, kerítsd el? Jonnyt!}
-{120}{}{Kérlek, hozd vissza Jonnyt!}
-{121}{}{Köszönöm, hogy Jonny újra velem lehet!}
+{103}{}{HiÃ¡nyzik a fiam.}
+{110}{}{KÃ©rlek, kerÃ­tsd el? Jonnyt!}
+{120}{}{KÃ©rlek, hozd vissza Jonnyt!}
+{121}{}{KÃ¶szÃ¶nÃ¶m, hogy Jonny Ãºjra velem lehet!}
 {150}{}{You see Balthas' wife.}
 {151}{}{You see Balthas' wife. She looks pretty upset.}
 {152}{}{You see Balthas' wife. She appears to be in a pleasant mood now.}

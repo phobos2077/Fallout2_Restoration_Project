@@ -1,114 +1,114 @@
 {100}{}{You see a medium-sized man wearing dusty clothing.}
-{101}{}{Bill, a karavánmester.}
-{102}{}{Egy középmagas, poros ruhát visel? embert látsz. Szag alapján úgy t?nik, hogy nemrég brahminok közelében járt.}
-{103}{}{Üdv minálunk. Mit tehetek érted?}
+{101}{}{Bill, a karavÃ¡nmester.}
+{102}{}{Egy kÃ¶zÃ©pmagas, poros ruhÃ¡t visel? embert lÃ¡tsz. Szag alapjÃ¡n Ãºgy t?nik, hogy nemrÃ©g brahminok kÃ¶zelÃ©ben jÃ¡rt.}
+{103}{}{Ãœdv minÃ¡lunk. Mit tehetek Ã©rted?}
 {104}{}{Nimma ardle ah!}
 {105}{}{Te adni munka?}
-{106}{}{Munkát keresek.}
-{107}{}{Vásárolni szeretnék.}
-{108}{}{Mit tudsz nekem mondani Chadról?}
-{109}{}{Sajnálom a dolgot Chaddal. Csak ? tehetett róla.}
-{110}{}{Azt hiszem, a karavánvezet?d, Chad, nagy szarban van.}
+{106}{}{MunkÃ¡t keresek.}
+{107}{}{VÃ¡sÃ¡rolni szeretnÃ©k.}
+{108}{}{Mit tudsz nekem mondani ChadrÃ³l?}
+{109}{}{SajnÃ¡lom a dolgot Chaddal. Csak ? tehetett rÃ³la.}
+{110}{}{Azt hiszem, a karavÃ¡nvezet?d, Chad, nagy szarban van.}
 {111}{}{Ki vagy te?}
-{112}{}{Bocs, öcsi, de egy szavadat sem értem. Tessék egy nyalóka.}
-{113}{}{Óóóh!}
-{114}{}{Igen. Hátul van egy nagy rakás brahminszar. Lapátold egy napig, és kapsz egy százast. Áll az alku?}
-{115}{}{Munkát akarsz? Van két választásod: egy napig lapátolod a brahminszart egy százasért, vagy elkísérheted az egyik karavánt 200-ért. Megy karaván Gekkóba, az Új Kalifornia Köztársaságba és Menedékvárosba.}
-{116}{}{Oké!}
+{112}{}{Bocs, Ã¶csi, de egy szavadat sem Ã©rtem. TessÃ©k egy nyalÃ³ka.}
+{113}{}{Ã“Ã³Ã³h!}
+{114}{}{Igen. HÃ¡tul van egy nagy rakÃ¡s brahminszar. LapÃ¡told egy napig, Ã©s kapsz egy szÃ¡zast. Ãll az alku?}
+{115}{}{MunkÃ¡t akarsz? Van kÃ©t vÃ¡lasztÃ¡sod: egy napig lapÃ¡tolod a brahminszart egy szÃ¡zasÃ©rt, vagy elkÃ­sÃ©rheted az egyik karavÃ¡nt 200-Ã©rt. Megy karavÃ¡n GekkÃ³ba, az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡gba Ã©s MenedÃ©kvÃ¡rosba.}
+{116}{}{OkÃ©!}
 {117}{}{Neeh.}
-{118}{}{Lapátolom a szart egy darabig.}
-{119}{}{Elmegyek a Gekkóba induló karavánnal.}
-{120}{}{Elkísérem az ÚKK-ba induló karavánt.}
-{121}{}{Mit szólsz Menedékvároshoz?}
-{122}{}{Meggondoltam magam. Mást szeretnék kérdezni inkább.}
-{123}{}{Üdv!}
-{124}{}{Igen? Mit szeretnél venni?}
-{125}{}{Chadról szeretnél tudni? Mit?}
-{126}{}{Nem fölözi le a hasznot?}
-{127}{}{Bízol benne?}
-{128}{}{Mesélnél nekem róla?}
-{129}{}{Én? Billnek hívnak. Én vagyok, ahogy az emberek itt mondják, Bill, akinek fizetsz. Igazából néha én fizetek nekik. Én vagyok a város karavánmestere. Én szervezem meg a karavánutakat és én felelek az ellátásért. Én adok munkát az embereknek, és én vagyok az "Összefogás" ?rjáratok szervez?je is.}
-{130}{}{Munkát? Milyen munkát?}
-{131}{}{Kösz. Viszlát!}
-{132}{}{Rendben. Készül?dj!}
-{133}{}{Nem érdekel? Rendben. Gyere vissza kés?bb, ha úgy érzed, tehetek érted valamit!}
-{134}{}{Oké!}
-{135}{}{Igazából mást szerettem volna kérdezni.}
-{136}{}{Viszlát!}
-{137}{}{Nagyszer?! Legyen akkor Gekkó! Gyere vissza elsején, akkor indul a karaván! Akarsz még valamit?}
+{118}{}{LapÃ¡tolom a szart egy darabig.}
+{119}{}{Elmegyek a GekkÃ³ba indulÃ³ karavÃ¡nnal.}
+{120}{}{ElkÃ­sÃ©rem az ÃšKK-ba indulÃ³ karavÃ¡nt.}
+{121}{}{Mit szÃ³lsz MenedÃ©kvÃ¡roshoz?}
+{122}{}{Meggondoltam magam. MÃ¡st szeretnÃ©k kÃ©rdezni inkÃ¡bb.}
+{123}{}{Ãœdv!}
+{124}{}{Igen? Mit szeretnÃ©l venni?}
+{125}{}{ChadrÃ³l szeretnÃ©l tudni? Mit?}
+{126}{}{Nem fÃ¶lÃ¶zi le a hasznot?}
+{127}{}{BÃ­zol benne?}
+{128}{}{MesÃ©lnÃ©l nekem rÃ³la?}
+{129}{}{Ã‰n? Billnek hÃ­vnak. Ã‰n vagyok, ahogy az emberek itt mondjÃ¡k, Bill, akinek fizetsz. IgazÃ¡bÃ³l nÃ©ha Ã©n fizetek nekik. Ã‰n vagyok a vÃ¡ros karavÃ¡nmestere. Ã‰n szervezem meg a karavÃ¡nutakat Ã©s Ã©n felelek az ellÃ¡tÃ¡sÃ©rt. Ã‰n adok munkÃ¡t az embereknek, Ã©s Ã©n vagyok az "Ã–sszefogÃ¡s" ?rjÃ¡ratok szervez?je is.}
+{130}{}{MunkÃ¡t? Milyen munkÃ¡t?}
+{131}{}{KÃ¶sz. ViszlÃ¡t!}
+{132}{}{Rendben. KÃ©szÃ¼l?dj!}
+{133}{}{Nem Ã©rdekel? Rendben. Gyere vissza kÃ©s?bb, ha Ãºgy Ã©rzed, tehetek Ã©rted valamit!}
+{134}{}{OkÃ©!}
+{135}{}{IgazÃ¡bÃ³l mÃ¡st szerettem volna kÃ©rdezni.}
+{136}{}{ViszlÃ¡t!}
+{137}{}{Nagyszer?! Legyen akkor GekkÃ³! Gyere vissza elsejÃ©n, akkor indul a karavÃ¡n! Akarsz mÃ©g valamit?}
 {138}{}{Igen.}
 {139}{}{Nem.}
-{140}{}{Nagyszer?! Legyen a Köztársaság! Gyere vissza 11-én, akkor indul a karaván! Akarsz még valamit?}
-{141}{}{Nagyszer?! Legyen Menedékváros! Gyere vissza 21-én, akkor indul a karaván! Akarsz még valamit?}
+{140}{}{Nagyszer?! Legyen a KÃ¶ztÃ¡rsasÃ¡g! Gyere vissza 11-Ã©n, akkor indul a karavÃ¡n! Akarsz mÃ©g valamit?}
+{141}{}{Nagyszer?! Legyen MenedÃ©kvÃ¡ros! Gyere vissza 21-Ã©n, akkor indul a karavÃ¡n! Akarsz mÃ©g valamit?}
 {142}{}{Mit akarsz?}
-{143}{}{Munkát keresek.}
-{144}{}{Vásárolni szeretnék.}
-{145}{}{Mit tudsz nekem mondani Chadról?}
-{146}{}{Sajnálom a dolgot Chaddal. Csak ? tehetett róla.}
-{147}{}{Azt hiszem, a karavánvezet?d nagy szarban van.}
+{143}{}{MunkÃ¡t keresek.}
+{144}{}{VÃ¡sÃ¡rolni szeretnÃ©k.}
+{145}{}{Mit tudsz nekem mondani ChadrÃ³l?}
+{146}{}{SajnÃ¡lom a dolgot Chaddal. Csak ? tehetett rÃ³la.}
+{147}{}{Azt hiszem, a karavÃ¡nvezet?d nagy szarban van.}
 {148}{}{Ki vagy te?}
-{149}{}{Öröm veled üzletet kötni. Tehetek érted még valamit?}
-{150}{}{Sajnálom. Ez nem okés nekem. Tehetek érted még valamit?}
-{151}{}{Nem. Viszlát!}
-{152}{}{Kész? Nagyszer?! Itt a 100 dolcsid, és ha kell még munka, csak szólj bátran!}
-{153}{}{Hát, haver, gyere vissza pár óra múlva és boldogan eladok neked bármit! Most a brahminokkal kell foglalkoznom. Van még valami?}
-{154}{}{Lefölözi-e a hasznot? Amennyire én tudom, nem. Egy rakomány uránért 5000 dollárt kérünk, és valóban 5000-et is kapunk. Nekem úgy t?nik, itt nincs sumákolás. Chadnak szép otthona van, és mindig sok pénzzel járkál, de szerintem még akkor hozta magával, amikor Broken Hillsbe jött.}
-{155}{}{Lenne még egy pár kérdésem.}
-{156}{}{Másról szeretnék kérdezni.}
-{157}{}{Értem. Ez minden. Kösz.}
-{158}{}{Hogy bízok-e benne? Persze, egy bizonyos határig. Rábízom a karavánok vezetését. Lehet, hogy sötét alak, de amíg nem ad rá okot, hogy ne bízzak benne, minden marad így.}
-{159}{}{Lenne még kérdésem.}
-{160}{}{Másról szeretnék kérdezni.}
-{161}{}{Aha. Kösz szépen.}
-{162}{}{Lássuk csak. A sivatagból érkezett a városba. Nem volt túl sok mindene, csak az esze. Úgy festett, hogy valaki el?l menekül, de nem mondta el, ki az. Soha nem beszélt a múltjáról, de... nagyszer? karavánvezet?. Ez minden.}
-{163}{}{Lenne még kérdésem.}
-{164}{}{Másról szeretnék kérdezni.}
-{165}{}{Köszi.}
-{166}{}{Most nem érek rá. Keress meg újra, ha visszamentem az irodába!}
-{167}{}{? tehetett róla? Te rohadt szemét, a pénz nem éri meg, hogy öljenek érte. T?nj innen a pokolba!}
-{168}{}{Viszlát!}
-{169}{}{Bármit is csinált, magának csinálta. Kár... nagyszer? karavánmester volt. Szeretnél valamit?}
-{170}{}{Kifelé az irodámból! Nem akarlak itt látni!}
-{171}{}{Készen állsz az indulásra Menedékvárosba?}
-{172}{}{Indulásra készen állsz az ÚKK-ba?}
-{173}{}{Felkészültél az indulásra Gekkóba?}
-{174}{}{A karavánt töröltem. Nem küldünk több karavánt olyan szaros helyre, ahol meg akarják ölni az embereinket. Szeretnél még valamit?}
-{175}{}{Ki akarsz szállni a karavánból?}
-{176}{}{Hát, több id?t szeretnék itt tölteni.}
-{177}{}{Karavánt szeretnék váltani.}
-{178}{}{Több id?t? Fasza. Kapsz több id?t. Csak akkor gyere vissza, ha teljesíteni tudod a vállalásaidat!}
-{179}{}{Váltani? Melyik karavánt szeretnéd? Gekkóba 1-én indul egy, az ÚKK-ba 11-én, Menedékvárosba pedig 21-én.}
-{180}{}{ÚKK.}
-{181}{}{Gekkó.}
-{182}{}{Menedékváros.}
-{183}{}{Igen? Frankó. Akkor eridj innen! Csak akkor gyere vissza, ha van elég vér a pucádban, hogy végigcsináld az utat!}
+{149}{}{Ã–rÃ¶m veled Ã¼zletet kÃ¶tni. Tehetek Ã©rted mÃ©g valamit?}
+{150}{}{SajnÃ¡lom. Ez nem okÃ©s nekem. Tehetek Ã©rted mÃ©g valamit?}
+{151}{}{Nem. ViszlÃ¡t!}
+{152}{}{KÃ©sz? Nagyszer?! Itt a 100 dolcsid, Ã©s ha kell mÃ©g munka, csak szÃ³lj bÃ¡tran!}
+{153}{}{HÃ¡t, haver, gyere vissza pÃ¡r Ã³ra mÃºlva Ã©s boldogan eladok neked bÃ¡rmit! Most a brahminokkal kell foglalkoznom. Van mÃ©g valami?}
+{154}{}{LefÃ¶lÃ¶zi-e a hasznot? Amennyire Ã©n tudom, nem. Egy rakomÃ¡ny urÃ¡nÃ©rt 5000 dollÃ¡rt kÃ©rÃ¼nk, Ã©s valÃ³ban 5000-et is kapunk. Nekem Ãºgy t?nik, itt nincs sumÃ¡kolÃ¡s. Chadnak szÃ©p otthona van, Ã©s mindig sok pÃ©nzzel jÃ¡rkÃ¡l, de szerintem mÃ©g akkor hozta magÃ¡val, amikor Broken Hillsbe jÃ¶tt.}
+{155}{}{Lenne mÃ©g egy pÃ¡r kÃ©rdÃ©sem.}
+{156}{}{MÃ¡srÃ³l szeretnÃ©k kÃ©rdezni.}
+{157}{}{Ã‰rtem. Ez minden. KÃ¶sz.}
+{158}{}{Hogy bÃ­zok-e benne? Persze, egy bizonyos hatÃ¡rig. RÃ¡bÃ­zom a karavÃ¡nok vezetÃ©sÃ©t. Lehet, hogy sÃ¶tÃ©t alak, de amÃ­g nem ad rÃ¡ okot, hogy ne bÃ­zzak benne, minden marad Ã­gy.}
+{159}{}{Lenne mÃ©g kÃ©rdÃ©sem.}
+{160}{}{MÃ¡srÃ³l szeretnÃ©k kÃ©rdezni.}
+{161}{}{Aha. KÃ¶sz szÃ©pen.}
+{162}{}{LÃ¡ssuk csak. A sivatagbÃ³l Ã©rkezett a vÃ¡rosba. Nem volt tÃºl sok mindene, csak az esze. Ãšgy festett, hogy valaki el?l menekÃ¼l, de nem mondta el, ki az. Soha nem beszÃ©lt a mÃºltjÃ¡rÃ³l, de... nagyszer? karavÃ¡nvezet?. Ez minden.}
+{163}{}{Lenne mÃ©g kÃ©rdÃ©sem.}
+{164}{}{MÃ¡srÃ³l szeretnÃ©k kÃ©rdezni.}
+{165}{}{KÃ¶szi.}
+{166}{}{Most nem Ã©rek rÃ¡. Keress meg Ãºjra, ha visszamentem az irodÃ¡ba!}
+{167}{}{? tehetett rÃ³la? Te rohadt szemÃ©t, a pÃ©nz nem Ã©ri meg, hogy Ã¶ljenek Ã©rte. T?nj innen a pokolba!}
+{168}{}{ViszlÃ¡t!}
+{169}{}{BÃ¡rmit is csinÃ¡lt, magÃ¡nak csinÃ¡lta. KÃ¡r... nagyszer? karavÃ¡nmester volt. SzeretnÃ©l valamit?}
+{170}{}{KifelÃ© az irodÃ¡mbÃ³l! Nem akarlak itt lÃ¡tni!}
+{171}{}{KÃ©szen Ã¡llsz az indulÃ¡sra MenedÃ©kvÃ¡rosba?}
+{172}{}{IndulÃ¡sra kÃ©szen Ã¡llsz az ÃšKK-ba?}
+{173}{}{FelkÃ©szÃ¼ltÃ©l az indulÃ¡sra GekkÃ³ba?}
+{174}{}{A karavÃ¡nt tÃ¶rÃ¶ltem. Nem kÃ¼ldÃ¼nk tÃ¶bb karavÃ¡nt olyan szaros helyre, ahol meg akarjÃ¡k Ã¶lni az embereinket. SzeretnÃ©l mÃ©g valamit?}
+{175}{}{Ki akarsz szÃ¡llni a karavÃ¡nbÃ³l?}
+{176}{}{HÃ¡t, tÃ¶bb id?t szeretnÃ©k itt tÃ¶lteni.}
+{177}{}{KaravÃ¡nt szeretnÃ©k vÃ¡ltani.}
+{178}{}{TÃ¶bb id?t? Fasza. Kapsz tÃ¶bb id?t. Csak akkor gyere vissza, ha teljesÃ­teni tudod a vÃ¡llalÃ¡saidat!}
+{179}{}{VÃ¡ltani? Melyik karavÃ¡nt szeretnÃ©d? GekkÃ³ba 1-Ã©n indul egy, az ÃšKK-ba 11-Ã©n, MenedÃ©kvÃ¡rosba pedig 21-Ã©n.}
+{180}{}{ÃšKK.}
+{181}{}{GekkÃ³.}
+{182}{}{MenedÃ©kvÃ¡ros.}
+{183}{}{Igen? FrankÃ³. Akkor eridj innen! Csak akkor gyere vissza, ha van elÃ©g vÃ©r a pucÃ¡dban, hogy vÃ©gigcsinÃ¡ld az utat!}
 {184}{}{Nagyszer?! Akkor indulj!}
-{185}{}{Még kérdeznék néhány dolgot.}
+{185}{}{MÃ©g kÃ©rdeznÃ©k nÃ©hÃ¡ny dolgot.}
 {186}{}{Rendben.}
-{187}{}{Nem tudok segíteni, haver. Mivel a mutánsok mind meghaltak, nincs, aki kibányássza az ércet. Broken Hillsb?l pár éven belül kísértetváros lesz. Nincs itt más. Viszlát!}
-{188}{}{Nem tudok többet segíteni, haver. Ellapátoltad az összes szart.}
-{189}{}{Munkát akarsz? Mivel ellapátoltad az összes brahminszart, már csak a karavánjaim vannak számodra. Elkísérheted az egyiket 200 dollárért. Karavánokat küldünk Gekkóba, az Új Kalifornia Köztársaságba, és Menedékvárosba. Hetente egy indul.}
-{190}{}{Aaaah fenne! Én szerett bramminkaki! Pá-pá!}
-{191}{}{Munkát akarsz? Mivel ellapátoltad az összes brahminszart, már csak a karavánjaim vannak számodra. Elkísérheted az egyiket 200 dollárért. Megy karaván Gekkóba és Menedékvárosba. Hetente egy indul.}
-{192}{}{Munkát akarsz? Van két választásod: egy napig lapátolod a brahminszart egy százasért, vagy elkísérheted az egyik karavánt 200-ért. Megy karaván Gekkóba és Menedékvárosba. Hetente egy indul.}
-{193}{}{Szakavatott ürülékkutató lettél!}
-{194}{}{5%-kal megn?tt a Beszéd képzettséged.}
-{195}{}{Elkísérek egy karavánt.}
-{196}{}{Már elvállaltad, hogy a következ?vel Gekkóba mész elsején.}
-{197}{}{Már elvállaltad, hogy a következ?vel az ÚKK-ba mész 11-én.}
-{198}{}{Már elvállaltad, hogy a következ?vel Menedékvárosba mész 21-én.}
-{200}{}{Karavánt szeretnék váltani.}
-{201}{}{Nem probléma.}
-{202}{}{Te mocsok! Otthagytad azt a rohadt karavánt! Kotródj innen!}
-{203}{}{Hagyjuk! Most lemondok a karavánosdiról.}
-{204}{}{Nagyszer?! Legyen akkor Gekkó! A karaván ma indul. Készen állsz?}
-{205}{}{Nagyszer?! Legyen akkor az ÚKK! A karaván ma indul. Készen állsz?}
-{206}{}{Nagyszer?! Legyen akkor Menedékváros! A karaván ma indul. Készen állsz?}
-{207}{}{Aha, készen. Gyerünk!}
-{208}{}{Nem. Szólok, ha felkészültem. Kösz!}
-{209}{}{Nem. Majd szólok, ha felkészültem. Lenne még pár kérdésem.}
-{210}{}{Köszi.}
-{211}{}{[tovább]}
-{212}{}{Sajnálom, de Chad nélkül, aki mindig segített elrendezni a dolgokat, nem tudok úgy munkát adni, ahogy régen. Hiányozni fog az a szélhámos. Megdögleni a sivatagban, mint valami sebzett brahmin...}
-{213}{}{Sajnálom. Viszlát!}
+{187}{}{Nem tudok segÃ­teni, haver. Mivel a mutÃ¡nsok mind meghaltak, nincs, aki kibÃ¡nyÃ¡ssza az Ã©rcet. Broken Hillsb?l pÃ¡r Ã©ven belÃ¼l kÃ­sÃ©rtetvÃ¡ros lesz. Nincs itt mÃ¡s. ViszlÃ¡t!}
+{188}{}{Nem tudok tÃ¶bbet segÃ­teni, haver. EllapÃ¡toltad az Ã¶sszes szart.}
+{189}{}{MunkÃ¡t akarsz? Mivel ellapÃ¡toltad az Ã¶sszes brahminszart, mÃ¡r csak a karavÃ¡njaim vannak szÃ¡modra. ElkÃ­sÃ©rheted az egyiket 200 dollÃ¡rÃ©rt. KaravÃ¡nokat kÃ¼ldÃ¼nk GekkÃ³ba, az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡gba, Ã©s MenedÃ©kvÃ¡rosba. Hetente egy indul.}
+{190}{}{Aaaah fenne! Ã‰n szerett bramminkaki! PÃ¡-pÃ¡!}
+{191}{}{MunkÃ¡t akarsz? Mivel ellapÃ¡toltad az Ã¶sszes brahminszart, mÃ¡r csak a karavÃ¡njaim vannak szÃ¡modra. ElkÃ­sÃ©rheted az egyiket 200 dollÃ¡rÃ©rt. Megy karavÃ¡n GekkÃ³ba Ã©s MenedÃ©kvÃ¡rosba. Hetente egy indul.}
+{192}{}{MunkÃ¡t akarsz? Van kÃ©t vÃ¡lasztÃ¡sod: egy napig lapÃ¡tolod a brahminszart egy szÃ¡zasÃ©rt, vagy elkÃ­sÃ©rheted az egyik karavÃ¡nt 200-Ã©rt. Megy karavÃ¡n GekkÃ³ba Ã©s MenedÃ©kvÃ¡rosba. Hetente egy indul.}
+{193}{}{Szakavatott Ã¼rÃ¼lÃ©kkutatÃ³ lettÃ©l!}
+{194}{}{5%-kal megn?tt a BeszÃ©d kÃ©pzettsÃ©ged.}
+{195}{}{ElkÃ­sÃ©rek egy karavÃ¡nt.}
+{196}{}{MÃ¡r elvÃ¡llaltad, hogy a kÃ¶vetkez?vel GekkÃ³ba mÃ©sz elsejÃ©n.}
+{197}{}{MÃ¡r elvÃ¡llaltad, hogy a kÃ¶vetkez?vel az ÃšKK-ba mÃ©sz 11-Ã©n.}
+{198}{}{MÃ¡r elvÃ¡llaltad, hogy a kÃ¶vetkez?vel MenedÃ©kvÃ¡rosba mÃ©sz 21-Ã©n.}
+{200}{}{KaravÃ¡nt szeretnÃ©k vÃ¡ltani.}
+{201}{}{Nem problÃ©ma.}
+{202}{}{Te mocsok! Otthagytad azt a rohadt karavÃ¡nt! KotrÃ³dj innen!}
+{203}{}{Hagyjuk! Most lemondok a karavÃ¡nosdirÃ³l.}
+{204}{}{Nagyszer?! Legyen akkor GekkÃ³! A karavÃ¡n ma indul. KÃ©szen Ã¡llsz?}
+{205}{}{Nagyszer?! Legyen akkor az ÃšKK! A karavÃ¡n ma indul. KÃ©szen Ã¡llsz?}
+{206}{}{Nagyszer?! Legyen akkor MenedÃ©kvÃ¡ros! A karavÃ¡n ma indul. KÃ©szen Ã¡llsz?}
+{207}{}{Aha, kÃ©szen. GyerÃ¼nk!}
+{208}{}{Nem. SzÃ³lok, ha felkÃ©szÃ¼ltem. KÃ¶sz!}
+{209}{}{Nem. Majd szÃ³lok, ha felkÃ©szÃ¼ltem. Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{210}{}{KÃ¶szi.}
+{211}{}{[tovÃ¡bb]}
+{212}{}{SajnÃ¡lom, de Chad nÃ©lkÃ¼l, aki mindig segÃ­tett elrendezni a dolgokat, nem tudok Ãºgy munkÃ¡t adni, ahogy rÃ©gen. HiÃ¡nyozni fog az a szÃ©lhÃ¡mos. MegdÃ¶gleni a sivatagban, mint valami sebzett brahmin...}
+{213}{}{SajnÃ¡lom. ViszlÃ¡t!}
 {214}{}{I'm sorry, but without Chad around to help manage personnel, I can't be givin' out work the way I used to.}

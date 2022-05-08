@@ -1,7 +1,7 @@
-{100}{}{Ves un simple jarrón.}
-{101}{}{Ves un pequeño cofre.}
-{102}{}{Ves un jarrón de barro cocido al sol.}
-{103}{}{Ves un cofre para las hierbas del chamán.}
-{104}{}{Robas hábilmente las cosas del chamán.}
-{105}{}{Hábilmente bloqueas el cofre.}
+{100}{}{Ves un simple jarrÃ³n.}
+{101}{}{Ves un pequeÃ±o cofre.}
+{102}{}{Ves un jarrÃ³n de barro cocido al sol.}
+{103}{}{Ves un cofre para las hierbas del chamÃ¡n.}
+{104}{}{Robas hÃ¡bilmente las cosas del chamÃ¡n.}
+{105}{}{HÃ¡bilmente bloqueas el cofre.}
 {106}{}{Habilmente desbloqueas el cofre.}

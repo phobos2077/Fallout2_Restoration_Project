@@ -3,7 +3,7 @@
 {102}{}{This well is missing its rope and bucket.}
 {103}{}{The well is already fixed. Remember?}
 {104}{}{It has rope, but it's missing its bucket.}
-{200}{}{Você vê um poço.}
+{200}{}{VocÃª vÃª um poÃ§o.}
 {201}{}{It's just a well.}
 {202}{}{Upon closer inspection you see that the well is not working. Perhaps you can fix it.}
 {203}{}{The well is working fine again.}

@@ -1,98 +1,98 @@
 {125}{}{? Cody.}
-{175}{}{Ez itt egy szakadt lelencgyerek. Lepusztult pólójára a következ?t firkantották: "Cody".}
-{176}{}{? Cody. Üres arccal bámul rád.}
-{177}{}{? Cody. A nézését?l még a hegyek is arrébb mozdulnának.}
-{178}{}{Ez a srác Cody. Neve a szakadt pólóján olvasható.}
-{200}{}{(Ahogy közeledsz, a srác üres arckifejezéssel bámul rád... a mocsok alatt alig látszik az arca. Szakadt pólójára valaki azt firkantotta, hogy "Cody.")}
-{201}{}{(Ahogy közeledsz, Cody üres arckifejezéssel bámul rád.)}
+{175}{}{Ez itt egy szakadt lelencgyerek. Lepusztult pÃ³lÃ³jÃ¡ra a kÃ¶vetkez?t firkantottÃ¡k: "Cody".}
+{176}{}{? Cody. Ãœres arccal bÃ¡mul rÃ¡d.}
+{177}{}{? Cody. A nÃ©zÃ©sÃ©t?l mÃ©g a hegyek is arrÃ©bb mozdulnÃ¡nak.}
+{178}{}{Ez a srÃ¡c Cody. Neve a szakadt pÃ³lÃ³jÃ¡n olvashatÃ³.}
+{200}{}{(Ahogy kÃ¶zeledsz, a srÃ¡c Ã¼res arckifejezÃ©ssel bÃ¡mul rÃ¡d... a mocsok alatt alig lÃ¡tszik az arca. Szakadt pÃ³lÃ³jÃ¡ra valaki azt firkantotta, hogy "Cody.")}
+{201}{}{(Ahogy kÃ¶zeledsz, Cody Ã¼res arckifejezÃ©ssel bÃ¡mul rÃ¡d.)}
 {202}{}{Ugyi gugyi}
-{203}{}{Visszabámulsz rá}
-{204}{}{ elvesztette autót. }
+{203}{}{VisszabÃ¡mulsz rÃ¡}
+{204}{}{ elvesztette autÃ³t. }
 {205}{}{Cody, viszed-e el }
-{206}{}{Elpályázol}
-{207}{}{Hé, Cody. Jól vagy? Nem akarsz esetleg enni valamit?}
-{208}{}{Hé, Cody? Nem vagy szomjas? Akarsz valamit inni?}
-{209}{}{Hol vannak a szüleid?}
-{210}{}{Hé, Cody. Nem láttad az autómat?}
-{211}{}{Cody, el tudnál vinni az autómhoz?}
-{212}{}{Cody, el tudnál vinni oda, ahol az autóm van?}
-{213}{}{Cody, el tudnál vinni oda, ahol az autóm volt?}
+{206}{}{ElpÃ¡lyÃ¡zol}
+{207}{}{HÃ©, Cody. JÃ³l vagy? Nem akarsz esetleg enni valamit?}
+{208}{}{HÃ©, Cody? Nem vagy szomjas? Akarsz valamit inni?}
+{209}{}{Hol vannak a szÃ¼leid?}
+{210}{}{HÃ©, Cody. Nem lÃ¡ttad az autÃ³mat?}
+{211}{}{Cody, el tudnÃ¡l vinni az autÃ³mhoz?}
+{212}{}{Cody, el tudnÃ¡l vinni oda, ahol az autÃ³m van?}
+{213}{}{Cody, el tudnÃ¡l vinni oda, ahol az autÃ³m volt?}
 {214}{}{Meg tudod mondani, ki lopta el?}
-{215}{}{Viszlát!}
-{220}{}{(Cody az ujjával jelzi, hogy oké, aztán elszalad.)}
-{221}{}{(Cody szeme elkerekedik, aztán elszalad a srác.)}
-{223}{}{ÉN MEGÖL ÉN MEGÖL ÉN MEGÖL ÉN MEGÖL ÉN MEGÖL...}
-{224}{}{Akkor talán legközelebb.}
+{215}{}{ViszlÃ¡t!}
+{220}{}{(Cody az ujjÃ¡val jelzi, hogy okÃ©, aztÃ¡n elszalad.)}
+{221}{}{(Cody szeme elkerekedik, aztÃ¡n elszalad a srÃ¡c.)}
+{223}{}{Ã‰N MEGÃ–L Ã‰N MEGÃ–L Ã‰N MEGÃ–L Ã‰N MEGÃ–L Ã‰N MEGÃ–L...}
+{224}{}{Akkor talÃ¡n legkÃ¶zelebb.}
 {225}{}{Kis szaros...}
-{230}{}{(Cody egyre csak bámul.)}
-{231}{}{Ööö... jól vagy, Cody?}
-{239}{}{Hát, majd kés?bb találkozunk, Cody. Vigyázz magadra!}
-{251}{}{Hé, Cody. Nem akarsz egy kis Nuka Kólát?}
-{252}{}{Nem akarsz egy kis sörtöt, kölyök? Nem lehet elég korán kezdeni, mondta az anyám... már amikor épp józan volt.}
-{253}{}{Van egy kis Jetem, Cody. Nem akarsz egyet repülni }
-{254}{}{Van egy kis Jetem, Cody. Nem akarsz egyet repülni }
+{230}{}{(Cody egyre csak bÃ¡mul.)}
+{231}{}{Ã–Ã¶Ã¶... jÃ³l vagy, Cody?}
+{239}{}{HÃ¡t, majd kÃ©s?bb talÃ¡lkozunk, Cody. VigyÃ¡zz magadra!}
+{251}{}{HÃ©, Cody. Nem akarsz egy kis Nuka KÃ³lÃ¡t?}
+{252}{}{Nem akarsz egy kis sÃ¶rtÃ¶t, kÃ¶lyÃ¶k? Nem lehet elÃ©g korÃ¡n kezdeni, mondta az anyÃ¡m... mÃ¡r amikor Ã©pp jÃ³zan volt.}
+{253}{}{Van egy kis Jetem, Cody. Nem akarsz egyet repÃ¼lni }
+{254}{}{Van egy kis Jetem, Cody. Nem akarsz egyet repÃ¼lni }
 {255}{}{Hey, Cody... want some powerful methamphetamines? You could catch and eat your own game. Other children, even.}
-{256}{}{Ööö... hát akkor vigyázz magadra, Cody!}
-{257}{}{Bocsi, haver, asszem, nincs nálam semmi, amire meghívhatnálak.}
-{261}{}{Nem akarsz egy kis gyümölcsöt, Cody?}
-{262}{}{Mit szólnál egy iguanához, Cody? Mmmmmm nagyon jó ám!}
-{263}{}{Hé, Cody. Nem akarsz egy kis ízlete... akarom mondani, ehet?... Dunton féle szárított húst? Mmmmmm... ööö... nagyon jó ám.}
-{270}{}{(Cody megragadja az ajándékot, és elszalad.)}
-{271}{}{::A fogad közt mormolsz valamit a "mai fiatalokról"::}
-{272}{}{Sebaj kölyök... nem kell megköszönni...}
-{273}{}{Francos kis pondró!}
-{274}{}{Ezt a tiszteletlen kis disznót el kéne adni rabszolgának... hmmm, várj csak egy pillanatra...}
-{280}{}{(Cody bólint egyet!)}
-{281}{}{(Meglepetésedre Cody bólint egyet!)}
+{256}{}{Ã–Ã¶Ã¶... hÃ¡t akkor vigyÃ¡zz magadra, Cody!}
+{257}{}{Bocsi, haver, asszem, nincs nÃ¡lam semmi, amire meghÃ­vhatnÃ¡lak.}
+{261}{}{Nem akarsz egy kis gyÃ¼mÃ¶lcsÃ¶t, Cody?}
+{262}{}{Mit szÃ³lnÃ¡l egy iguanÃ¡hoz, Cody? Mmmmmm nagyon jÃ³ Ã¡m!}
+{263}{}{HÃ©, Cody. Nem akarsz egy kis Ã­zlete... akarom mondani, ehet?... Dunton fÃ©le szÃ¡rÃ­tott hÃºst? Mmmmmm... Ã¶Ã¶Ã¶... nagyon jÃ³ Ã¡m.}
+{270}{}{(Cody megragadja az ajÃ¡ndÃ©kot, Ã©s elszalad.)}
+{271}{}{::A fogad kÃ¶zt mormolsz valamit a "mai fiatalokrÃ³l"::}
+{272}{}{Sebaj kÃ¶lyÃ¶k... nem kell megkÃ¶szÃ¶nni...}
+{273}{}{Francos kis pondrÃ³!}
+{274}{}{Ezt a tiszteletlen kis disznÃ³t el kÃ©ne adni rabszolgÃ¡nak... hmmm, vÃ¡rj csak egy pillanatra...}
+{280}{}{(Cody bÃ³lint egyet!)}
+{281}{}{(MeglepetÃ©sedre Cody bÃ³lint egyet!)}
 {282}{}{? }
-{283}{}{Jó neked tudol hol lenni autóm }
+{283}{}{JÃ³ neked tudol hol lenni autÃ³m }
 {284}{}{Csakugyan? Meg tudod mutatni, hol van?}
-{286}{}{Hát csak úgy kíváncsiskodtam. Majd még jövök...}
-{290}{}{(Cody félve pillantgat az utca másik oldalán álló Jules-re, aki viszont éppen titeket bámul.)}
-{291}{}{(Cody félve pillantgat az utca másik oldalán álló fekete férfire, aki viszont éppen titeket méreget.)}
-{292}{}{Aha, értem... úgy t?nik, Jules és az öklöm most szépen elbeszélgetnek kicsit...}
-{293}{}{Nahát... Cody, tudod, mi fog most történni? A rossz ember, aki ellopta a }
-{294}{}{Mit nem mondasz... Hát majd kés?bb megtárgyaljuk vele, de most igazán elvihetnél a kocsimhoz.}
-{300}{}{(Cody vállat von.)}
+{286}{}{HÃ¡t csak Ãºgy kÃ­vÃ¡ncsiskodtam. Majd mÃ©g jÃ¶vÃ¶k...}
+{290}{}{(Cody fÃ©lve pillantgat az utca mÃ¡sik oldalÃ¡n Ã¡llÃ³ Jules-re, aki viszont Ã©ppen titeket bÃ¡mul.)}
+{291}{}{(Cody fÃ©lve pillantgat az utca mÃ¡sik oldalÃ¡n Ã¡llÃ³ fekete fÃ©rfire, aki viszont Ã©ppen titeket mÃ©reget.)}
+{292}{}{Aha, Ã©rtem... Ãºgy t?nik, Jules Ã©s az Ã¶klÃ¶m most szÃ©pen elbeszÃ©lgetnek kicsit...}
+{293}{}{NahÃ¡t... Cody, tudod, mi fog most tÃ¶rtÃ©nni? A rossz ember, aki ellopta a }
+{294}{}{Mit nem mondasz... HÃ¡t majd kÃ©s?bb megtÃ¡rgyaljuk vele, de most igazÃ¡n elvihetnÃ©l a kocsimhoz.}
+{300}{}{(Cody vÃ¡llat von.)}
 {301}{}{El tudsz vinni oda, ahol a kocsim van?}
-{302}{}{Hát csak kíváncsiskodtam. Szia.}
-{310}{}{(Cody újra bólint, aztán rohanni kezd.)}
-{311}{}{(Utána futsz.)}
-{312}{}{Jóvan jól, menek utánnad... óóóh, nédda homok! Mi barna mán! Ööö... Cody hova megyen?}
-{313}{}{Cody, állj meg! Most nem akarok oda menni... El?ször még egy csomó más dolgot el kell intéznem. Semmi perc alatt visszajövök.}
-{320}{}{(Miközben közeledsz, a gyerek egyfolytában bámul. Szakadt ruhát visel, és a mocsok alatt alig látod az arcát. Amint közel érsz, a szeme megakad a homlokodon, aztán elkerekedik, és a srác úgy kezd futni, mintha puskából l?tték volna ki.)}
-{321}{}{(Messzir?l nézve a srác elég szakadtnak t?nik. Amint a páncélodban közelebb érsz, elkereked? szemmel rögtön futásnak ered.)}
+{302}{}{HÃ¡t csak kÃ­vÃ¡ncsiskodtam. Szia.}
+{310}{}{(Cody Ãºjra bÃ³lint, aztÃ¡n rohanni kezd.)}
+{311}{}{(UtÃ¡na futsz.)}
+{312}{}{JÃ³van jÃ³l, menek utÃ¡nnad... Ã³Ã³Ã³h, nÃ©dda homok! Mi barna mÃ¡n! Ã–Ã¶Ã¶... Cody hova megyen?}
+{313}{}{Cody, Ã¡llj meg! Most nem akarok oda menni... El?szÃ¶r mÃ©g egy csomÃ³ mÃ¡s dolgot el kell intÃ©znem. Semmi perc alatt visszajÃ¶vÃ¶k.}
+{320}{}{(MikÃ¶zben kÃ¶zeledsz, a gyerek egyfolytÃ¡ban bÃ¡mul. Szakadt ruhÃ¡t visel, Ã©s a mocsok alatt alig lÃ¡tod az arcÃ¡t. Amint kÃ¶zel Ã©rsz, a szeme megakad a homlokodon, aztÃ¡n elkerekedik, Ã©s a srÃ¡c Ãºgy kezd futni, mintha puskÃ¡bÃ³l l?ttÃ©k volna ki.)}
+{321}{}{(Messzir?l nÃ©zve a srÃ¡c elÃ©g szakadtnak t?nik. Amint a pÃ¡ncÃ©lodban kÃ¶zelebb Ã©rsz, elkereked? szemmel rÃ¶gtÃ¶n futÃ¡snak ered.)}
 {322}{}{Szia Szia}
-{324}{}{A kis pondrót el kéne adni rabszolgának... hmmmm, na várj csak egy pillanatra...}
-{330}{}{(Messzir?l nézve a srác elég szakadtnak t?nik. Amint közelebb érsz, elkereked? szemmel rögtön futásnak ered.)}
-{340}{}{(Messzir?l nézve a srác elég szakadtnak t?nik. Amint megpillantja Marcust, elkereked? szemmel rögtön futásnak ered.)}
-{350}{}{(Messzir?l nézve a srác elég szakadtnak t?nik. Amint megpillantja Lennyt, elkereked? szemmel rögtön futásnak ered.)}
-{360}{}{(Amint közelítesz, Cody abbahagyja a bámészkodást. Melléérvén rádkacsint és megereszt egy halovány mosolyt.)}
-{361}{}{(Ahogy közeledsz, a srác üres arckifejezéssel bámul rád... a mocsok alatt alig látszik az arca. Szakadt pólójára valaki azt firkantotta, hogy "Cody." Amint melléérsz, abbahagyja a bámészkodást, és elmosolyogja magát.}
-{362}{}{Hahó Kódi}
-{363}{}{Szijjjja, Kódi}
+{324}{}{A kis pondrÃ³t el kÃ©ne adni rabszolgÃ¡nak... hmmmm, na vÃ¡rj csak egy pillanatra...}
+{330}{}{(Messzir?l nÃ©zve a srÃ¡c elÃ©g szakadtnak t?nik. Amint kÃ¶zelebb Ã©rsz, elkereked? szemmel rÃ¶gtÃ¶n futÃ¡snak ered.)}
+{340}{}{(Messzir?l nÃ©zve a srÃ¡c elÃ©g szakadtnak t?nik. Amint megpillantja Marcust, elkereked? szemmel rÃ¶gtÃ¶n futÃ¡snak ered.)}
+{350}{}{(Messzir?l nÃ©zve a srÃ¡c elÃ©g szakadtnak t?nik. Amint megpillantja Lennyt, elkereked? szemmel rÃ¶gtÃ¶n futÃ¡snak ered.)}
+{360}{}{(Amint kÃ¶zelÃ­tesz, Cody abbahagyja a bÃ¡mÃ©szkodÃ¡st. MellÃ©Ã©rvÃ©n rÃ¡dkacsint Ã©s megereszt egy halovÃ¡ny mosolyt.)}
+{361}{}{(Ahogy kÃ¶zeledsz, a srÃ¡c Ã¼res arckifejezÃ©ssel bÃ¡mul rÃ¡d... a mocsok alatt alig lÃ¡tszik az arca. Szakadt pÃ³lÃ³jÃ¡ra valaki azt firkantotta, hogy "Cody." Amint mellÃ©Ã©rsz, abbahagyja a bÃ¡mÃ©szkodÃ¡st, Ã©s elmosolyogja magÃ¡t.}
+{362}{}{HahÃ³ KÃ³di}
+{363}{}{Szijjjja, KÃ³di}
 {364}{}{Hogy vagy, Cody?}
-{365}{}{Hé, Cody! Túl vagyok a világ megmentésén. Hát nem semmi balhé volt. Gondoltad volna, hogy az elnök mekkora egy farok? Apám! Amúgy... mi a helyzet veled?}
-{366}{}{Gondoltam megnézlek, és üdvözöllek, Cody. Vigyázz ám New Renóra, rendben?}
-{370}{}{(Cody egyfolytában mosolyog rád.)}
+{365}{}{HÃ©, Cody! TÃºl vagyok a vilÃ¡g megmentÃ©sÃ©n. HÃ¡t nem semmi balhÃ© volt. Gondoltad volna, hogy az elnÃ¶k mekkora egy farok? ApÃ¡m! AmÃºgy... mi a helyzet veled?}
+{366}{}{Gondoltam megnÃ©zlek, Ã©s Ã¼dvÃ¶zÃ¶llek, Cody. VigyÃ¡zz Ã¡m New RenÃ³ra, rendben?}
+{370}{}{(Cody egyfolytÃ¡ban mosolyog rÃ¡d.)}
 {371}{}{(Cody egyre csak mosolyog.)}
 {372}{}{(Cody mosolyog.)}
-{375}{}{Szia, Cody... hogy ityeg a fityeg? Jól mennek a dolgok?}
-{377}{}{Hát gondoltam megnézlek, és üdvözöllek, Cody. Vigyázz ám New Renóra, rendben?}
-{380}{}{(Cody kacsint, és mormog valamit.)}
-{381}{}{He? Mit mondtál?}
-{382}{}{Mi van Cody? Mit mondtál?}
-{390}{}{(Cody kacsint, aztán újra csak mormog valamit. Alig kivehet?, leginkább egy "köszönöm"-re hasonlított.)}
-{391}{}{(Cody kacsint, aztán újra csak mormog valamit. Alig kivehet?, leginkább egy "baszódj meg"-re hasonlított.)}
+{375}{}{Szia, Cody... hogy ityeg a fityeg? JÃ³l mennek a dolgok?}
+{377}{}{HÃ¡t gondoltam megnÃ©zlek, Ã©s Ã¼dvÃ¶zÃ¶llek, Cody. VigyÃ¡zz Ã¡m New RenÃ³ra, rendben?}
+{380}{}{(Cody kacsint, Ã©s mormog valamit.)}
+{381}{}{He? Mit mondtÃ¡l?}
+{382}{}{Mi van Cody? Mit mondtÃ¡l?}
+{390}{}{(Cody kacsint, aztÃ¡n Ãºjra csak mormog valamit. Alig kivehet?, leginkÃ¡bb egy "kÃ¶szÃ¶nÃ¶m"-re hasonlÃ­tott.)}
+{391}{}{(Cody kacsint, aztÃ¡n Ãºjra csak mormog valamit. Alig kivehet?, leginkÃ¡bb egy "baszÃ³dj meg"-re hasonlÃ­tott.)}
 {392}{}{Thank YOU, Codee. Witout Npee Cees like you, me in VERY borrin world.}
-{393}{}{ÉN MEGÖL ÉN MEGÖL}
-{394}{}{Semmi gond, Cody. A világ megmentése úgy látszik, a véremben van. Vigyázz magadra, hallod-e!}
-{395}{}{Te kis szaros! Megöllek! Megöllek...!}
-{1204}{}{ szomorú. Nem láttad }
-{1205}{}{ barátodat autójához? Kéééérlek.}
+{393}{}{Ã‰N MEGÃ–L Ã‰N MEGÃ–L}
+{394}{}{Semmi gond, Cody. A vilÃ¡g megmentÃ©se Ãºgy lÃ¡tszik, a vÃ©remben van. VigyÃ¡zz magadra, hallod-e!}
+{395}{}{Te kis szaros! MegÃ¶llek! MegÃ¶llek...!}
+{1204}{}{ szomorÃº. Nem lÃ¡ttad }
+{1205}{}{ barÃ¡todat autÃ³jÃ¡hoz? KÃ©Ã©Ã©Ã©rlek.}
 {1254}{}{?}
-{1282}{}{ az autómat! Hol?! Hol?! Vigyél oda! Vigyél oda! Kérlek! Légyszi!}
-{1283}{}{ ...figyusz! Fényes tárgy! (otthagyod)}
-{1293}{}{ autóját és }
-{2204}{}{ autóját?}
-{2293}{}{ ökle most magánbeszélgetést fognak folytatni ott az utca másik oldalán.}
+{1282}{}{ az autÃ³mat! Hol?! Hol?! VigyÃ©l oda! VigyÃ©l oda! KÃ©rlek! LÃ©gyszi!}
+{1283}{}{ ...figyusz! FÃ©nyes tÃ¡rgy! (otthagyod)}
+{1293}{}{ autÃ³jÃ¡t Ã©s }
+{2204}{}{ autÃ³jÃ¡t?}
+{2293}{}{ Ã¶kle most magÃ¡nbeszÃ©lgetÃ©st fognak folytatni ott az utca mÃ¡sik oldalÃ¡n.}

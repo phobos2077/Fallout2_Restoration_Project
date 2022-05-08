@@ -2,43 +2,43 @@
 {101}{}{Der Bildschirmschoner ist aktiv.}
 {103}{}{Skynet-Sicherheitssysteme
                                  Eindringling Ebene 2
-                                      Gegenmaßnahmen Ebene 2 werden aktiviert
-          Gegenmaßnahmen - Übertragung unterbrochen
+                                      GegenmaÃŸnahmen Ebene 2 werden aktiviert
+          GegenmaÃŸnahmen - Ãœbertragung unterbrochen
       Automatische Reparatursysteme werden aktiviert.}
 {104}{}{Skynet-Sicherheitssysteme
                                  Eindringling Ebene 2
-                                      Gegenmaßnahmen Ebene 2 werden aktiviert
+                                      GegenmaÃŸnahmen Ebene 2 werden aktiviert
             Versuche Energie an Feldgeneratoren umzuleiten...}
 {105}{}{Skynet-Sicherheitssysteme
                                  Eindringling Ebene 2
-                                      Gegenmaßnahmen Ebene 2 werden aktiviert.}
-{106}{}{Alarmstufe für Ebene 2 aufheben - Fehlalarm}
-{107}{}{[Du bemerkst einen Knopf mit der Aufschrift "Hilfe" auf der Tastatur.] Knopf drücken.}
+                                      GegenmaÃŸnahmen Ebene 2 werden aktiviert.}
+{106}{}{Alarmstufe fÃ¼r Ebene 2 aufheben - Fehlalarm}
+{107}{}{[Du bemerkst einen Knopf mit der Aufschrift "Hilfe" auf der Tastatur.] Knopf drÃ¼cken.}
 {108}{}{In Sicherheitssysteme einhacken.}
 {109}{}{Versuche den Alarm abzuschalten.}
 {110}{}{Beenden}
-{111}{}{Ark! [Du schlägst völlig entnervt auf die Tastatur.]}
+{111}{}{Ark! [Du schlÃ¤gst vÃ¶llig entnervt auf die Tastatur.]}
 {113}{}{Skynet-Sicherheitssysteme}
 {114}{}{Netzhautscanner aktiviert
-                                          Scanvorgang läuft...
+                                          Scanvorgang lÃ¤uft...
                                                   Datenbank wird durchsucht}
-{115}{}{Alarmsystem für Ebene 2 aktivieren}
-{116}{}{Selbstdiagnoseprogramm ausführen.}
+{115}{}{Alarmsystem fÃ¼r Ebene 2 aktivieren}
+{116}{}{Selbstdiagnoseprogramm ausfÃ¼hren.}
 {117}{}{Beenden}
-{118}{}{Ark! [Du schlägst völlig entnervt auf die Tastatur.]}
+{118}{}{Ark! [Du schlÃ¤gst vÃ¶llig entnervt auf die Tastatur.]}
 {120}{}{Skynet-Sicherheitssysteme                                 Zugriff auf dieses Terminal ist gesperrt.}
 {122}{}{Beenden}
 {124}{}{FEHLER!                                                             
  Keine Programmdateien vorhanden.                               Bitte neu starten.}
 {126}{}{Beenden}
 {127}{}{Befehl wird ausgewertet - bitte warten...                         
- Benutzerbefehl wird übergangen                                   Zugriff verweigert}
+ Benutzerbefehl wird Ã¼bergangen                                   Zugriff verweigert}
 {128}{}{[Mehr]}
-{129}{}{Zum Deaktivieren des Alarms - 1 drücken                          Zum Einleiten einer Diagnoseprüfung - 2 drücken
-               Zum Beenden - 3 drücken}
-{130}{}{1 drücken}
-{131}{}{2 drücken}
-{132}{}{3 drücken}
+{129}{}{Zum Deaktivieren des Alarms - 1 drÃ¼cken                          Zum Einleiten einer DiagnoseprÃ¼fung - 2 drÃ¼cken
+               Zum Beenden - 3 drÃ¼cken}
+{130}{}{1 drÃ¼cken}
+{131}{}{2 drÃ¼cken}
+{132}{}{3 drÃ¼cken}
 {133}{}{Beenden}
 {134}{}{Warnung! Dieses Programm funktioniert nur dann optimal, wenn alle anderen Programme
  beendet werden. Sollen die anderen Programme jetzt beendet werden?}
@@ -50,21 +50,21 @@
                                 Diagnose abgebrochen                                  
 								            Diagnoseprogramm beendet                              
 							          Sicherheitsprogramm wird neu initialisiert               
-								        Alarm wird zurückgesetzt                                 
+								        Alarm wird zurÃ¼ckgesetzt                                 
 								        Skynet-Sicherheitssystem - Status "Bereit"}
 {139}{}{Beenden}
 {140}{}{Zugriff verweigert...                                                    Zugriff verweigert...                          
                         Zugriff genehmigt                                                     Alarm auf Ebene 2 wird aufgehoben.}
 {141}{}{Beenden}
-{142}{}{Unbefugter Zugriff                                         Sicherheitssperre für dieses Terminal wird eingerichtet.}
+{142}{}{Unbefugter Zugriff                                         Sicherheitssperre fÃ¼r dieses Terminal wird eingerichtet.}
 {143}{}{Beenden}
 {144}{}{Befehl wird ausgewertet - bitte warten...                          Alarm wird aufgeh...
-                                                   Übergangen durch Skynet-Code 667
+                                                   Ãœbergangen durch Skynet-Code 667
                                Zugriff auf dieses Terminal wurde gesperrt.}
 {145}{}{Beenden}
 {146}{}{Diagnoseprogramm wird beendet.}
 {147}{}{[Mehr]}
-{300}{}{ - ID bestätigt: }
+{300}{}{ - ID bestÃ¤tigt: }
 {301}{}{
    Letzter Zugriff: }
 {303}{}{Korporal Dixon }

@@ -1,31 +1,31 @@
-1:Háború.
-2:A háború nem változik.
-3:A világ vége pont úgy következett be ahogy megjósoltuk.
-4:Túl sok ember, túl kevés hely és nyersanyag.
-5:A részletek jelentéktelenek és értelmetlenek, az okok, mint mindig, tisztán emberiek.
-6:2077-ben a Földr?l csaknem teljesen elt?nt az emberi élet.
-7:Hatalmas tisztítót?z, egy emberi kezek csiholta atomszikra, mely gyorsan irányíthatatlanná vált.
-8:Nukleáris t?z hullott az égb?l.
-9:A lángba borult kontinenseket forró óceánok nyelték el.
-10:Az emberiség majdnem teljesen kihalt, a lelkek részévé váltak a háttérsugárzásnak, mely beborította a Földet.
-11:Évekig tartó néma sötétség ereszkedett a bolygóra.
-12:Kevesen élték csak túl a pusztítást.
-13:Néhányan elég szerencsések voltak és védelmet találtak az óriási földalatti óvóhelyekben.
-14:Mikor a nagy sötétség véget ért, e menedékek kapui kinyíltak és a bennük él?k el?jöttek, hogy újrakezdjék életüket.
-15:Az északi törzsek egyike is egy ilyen óvóhelyr?l származtatja magát.
-16:Úgy tartják, hogy a falujuk alapítója - egy bizonyos "Menedéklakó" - egyszer megmentette a világot egy hatalmas gonosztól.
-17:A legenda szerint ez a gonosz délen ébredezett.
-18:Mindent megrontott, amihez hozzáért, embereket változtatott szörnyetegekké.
-19:Csak a Menedéklakó bátorságának volt köszönhet? a pusztulása.
-20:De mindeközben elvesztette barátait, többet szenvedett, mint bárki, feláldozva önmagát a világ megmentéséért.
-21:Mikor végre visszatért otthonába - melynek megóvásáért oly sokat küzdött - az otthoniak kitaszították.
-22:Szám?zték.
-23:Szembesítve mindazzal amit?l féltek, valami mássá vált a szemükben...és nem volt többé a h?sük.
-24:Sajátjai által elhagyatva nekivágott a pusztaságnak.
-25:Messze északra vándorolt, míg el nem érte a nagy kanyonokat.
-26:Ott alapított egy kis falut, Arroyot, ahol hátralév? éveit leélte.
-27:Még egy generációval az alapítása után is, Arroyo békében élt a külvilágtól menedéket nyújtó kanyonok között.
+1:HÃ¡borÃº.
+2:A hÃ¡borÃº nem vÃ¡ltozik.
+3:A vilÃ¡g vÃ©ge pont Ãºgy kÃ¶vetkezett be ahogy megjÃ³soltuk.
+4:TÃºl sok ember, tÃºl kevÃ©s hely Ã©s nyersanyag.
+5:A rÃ©szletek jelentÃ©ktelenek Ã©s Ã©rtelmetlenek, az okok, mint mindig, tisztÃ¡n emberiek.
+6:2077-ben a FÃ¶ldr?l csaknem teljesen elt?nt az emberi Ã©let.
+7:Hatalmas tisztÃ­tÃ³t?z, egy emberi kezek csiholta atomszikra, mely gyorsan irÃ¡nyÃ­thatatlannÃ¡ vÃ¡lt.
+8:NukleÃ¡ris t?z hullott az Ã©gb?l.
+9:A lÃ¡ngba borult kontinenseket forrÃ³ Ã³ceÃ¡nok nyeltÃ©k el.
+10:Az emberisÃ©g majdnem teljesen kihalt, a lelkek rÃ©szÃ©vÃ© vÃ¡ltak a hÃ¡ttÃ©rsugÃ¡rzÃ¡snak, mely beborÃ­totta a FÃ¶ldet.
+11:Ã‰vekig tartÃ³ nÃ©ma sÃ¶tÃ©tsÃ©g ereszkedett a bolygÃ³ra.
+12:Kevesen Ã©ltÃ©k csak tÃºl a pusztÃ­tÃ¡st.
+13:NÃ©hÃ¡nyan elÃ©g szerencsÃ©sek voltak Ã©s vÃ©delmet talÃ¡ltak az Ã³riÃ¡si fÃ¶ldalatti Ã³vÃ³helyekben.
+14:Mikor a nagy sÃ¶tÃ©tsÃ©g vÃ©get Ã©rt, e menedÃ©kek kapui kinyÃ­ltak Ã©s a bennÃ¼k Ã©l?k el?jÃ¶ttek, hogy ÃºjrakezdjÃ©k Ã©letÃ¼ket.
+15:Az Ã©szaki tÃ¶rzsek egyike is egy ilyen Ã³vÃ³helyr?l szÃ¡rmaztatja magÃ¡t.
+16:Ãšgy tartjÃ¡k, hogy a falujuk alapÃ­tÃ³ja - egy bizonyos "MenedÃ©klakÃ³" - egyszer megmentette a vilÃ¡got egy hatalmas gonosztÃ³l.
+17:A legenda szerint ez a gonosz dÃ©len Ã©bredezett.
+18:Mindent megrontott, amihez hozzÃ¡Ã©rt, embereket vÃ¡ltoztatott szÃ¶rnyetegekkÃ©.
+19:Csak a MenedÃ©klakÃ³ bÃ¡torsÃ¡gÃ¡nak volt kÃ¶szÃ¶nhet? a pusztulÃ¡sa.
+20:De mindekÃ¶zben elvesztette barÃ¡tait, tÃ¶bbet szenvedett, mint bÃ¡rki, felÃ¡ldozva Ã¶nmagÃ¡t a vilÃ¡g megmentÃ©sÃ©Ã©rt.
+21:Mikor vÃ©gre visszatÃ©rt otthonÃ¡ba - melynek megÃ³vÃ¡sÃ¡Ã©rt oly sokat kÃ¼zdÃ¶tt - az otthoniak kitaszÃ­tottÃ¡k.
+22:SzÃ¡m?ztÃ©k.
+23:SzembesÃ­tve mindazzal amit?l fÃ©ltek, valami mÃ¡ssÃ¡ vÃ¡lt a szemÃ¼kben...Ã©s nem volt tÃ¶bbÃ© a h?sÃ¼k.
+24:SajÃ¡tjai Ã¡ltal elhagyatva nekivÃ¡gott a pusztasÃ¡gnak.
+25:Messze Ã©szakra vÃ¡ndorolt, mÃ­g el nem Ã©rte a nagy kanyonokat.
+26:Ott alapÃ­tott egy kis falut, Arroyot, ahol hÃ¡tralÃ©v? Ã©veit leÃ©lte.
+27:MÃ©g egy generÃ¡ciÃ³val az alapÃ­tÃ¡sa utÃ¡n is, Arroyo bÃ©kÃ©ben Ã©lt a kÃ¼lvilÃ¡gtÃ³l menedÃ©ket nyÃºjtÃ³ kanyonok kÃ¶zÃ¶tt.
 28:Egy otthon. A te otthonod.
-29:De a világban a háború okozta sérülések még nem gyógyultak be.
-30:A sebek mélyek és most már Arroyoban is érezni ?ket.
-31:Az élet Arroyóban hamarosan megváltozik… 
+29:De a vilÃ¡gban a hÃ¡borÃº okozta sÃ©rÃ¼lÃ©sek mÃ©g nem gyÃ³gyultak be.
+30:A sebek mÃ©lyek Ã©s most mÃ¡r Arroyoban is Ã©rezni ?ket.
+31:Az Ã©let ArroyÃ³ban hamarosan megvÃ¡ltozikâ€¦ 

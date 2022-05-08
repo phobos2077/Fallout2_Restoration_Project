@@ -1,14 +1,14 @@
-{100}{}{Ez a város elég durva helynek látszik. Jó, ha van nálad fegyver.}
-{200}{}{Segítettél Lara bandájának megnyerni a csatát.}
-{300}{}{Sikeresen rajtaütöttél Lara bandáján.}
-{400}{}{Megtaláltad Becky lepárlóját Frankie számára.}
-{500}{}{Összetörted Becky lepárlóját.}
-{600}{}{Meggy?zted Frankie-t, hogy vásároljon Becky-t?l.}
-{700}{}{Túl vagy az els? rabszolga-vadászatodon.}
+{100}{}{Ez a vÃ¡ros elÃ©g durva helynek lÃ¡tszik. JÃ³, ha van nÃ¡lad fegyver.}
+{200}{}{SegÃ­tettÃ©l Lara bandÃ¡jÃ¡nak megnyerni a csatÃ¡t.}
+{300}{}{Sikeresen rajtaÃ¼tÃ¶ttÃ©l Lara bandÃ¡jÃ¡n.}
+{400}{}{MegtalÃ¡ltad Becky lepÃ¡rlÃ³jÃ¡t Frankie szÃ¡mÃ¡ra.}
+{500}{}{Ã–sszetÃ¶rted Becky lepÃ¡rlÃ³jÃ¡t.}
+{600}{}{Meggy?zted Frankie-t, hogy vÃ¡sÃ¡roljon Becky-t?l.}
+{700}{}{TÃºl vagy az els? rabszolga-vadÃ¡szatodon.}
 {800}{}{You paid Fred's debt off to Rebecca.}
 {900}{}{You returned Rebecca's book.}
 {1000}{}{You returned Anna's locket.}
 {1100}{}{You managed to fast talk your way inside the church.}
 {1200}{}{You delivered Smitty's meal.}
-{1300}{}{Megtaláltad Tyler bandájának gyenge pontját.}
-{1400}{}{Engedélyt szereztél Lara bandájának a támadásra.}
+{1300}{}{MegtalÃ¡ltad Tyler bandÃ¡jÃ¡nak gyenge pontjÃ¡t.}
+{1400}{}{EngedÃ©lyt szereztÃ©l Lara bandÃ¡jÃ¡nak a tÃ¡madÃ¡sra.}

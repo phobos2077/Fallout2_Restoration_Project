@@ -1,4 +1,4 @@
-{100}{}{Du siehst ein gewöhnliches Bücherregal.}
-{101}{}{In dem Bücherregal sind verschiedene Bücher.}
-{102}{}{Das Bücherregal beinhaltet eine Menge Bücher aus Vorkriegstagen. So viele Informationen,
- was für ein Pech, dass du nicht die Zeit hast, dich zu setzen und sie alle zu lesen.}
+{100}{}{Du siehst ein gewÃ¶hnliches BÃ¼cherregal.}
+{101}{}{In dem BÃ¼cherregal sind verschiedene BÃ¼cher.}
+{102}{}{Das BÃ¼cherregal beinhaltet eine Menge BÃ¼cher aus Vorkriegstagen. So viele Informationen,
+ was fÃ¼r ein Pech, dass du nicht die Zeit hast, dich zu setzen und sie alle zu lesen.}

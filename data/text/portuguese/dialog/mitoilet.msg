@@ -1,1 +1,1 @@
-{100}{}{Você notou uma escada que vai até o buraco negro.}
+{100}{}{VocÃª notou uma escada que vai atÃ© o buraco negro.}

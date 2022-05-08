@@ -1,77 +1,77 @@
-{100}{}{A férfi remek cowboy öltözéket hord.}
+{100}{}{A fÃ©rfi remek cowboy Ã¶ltÃ¶zÃ©ket hord.}
 {101}{}{It's Councilor Westin.}
-{102}{}{Ezüst és türkizkék gy?r?k, ezüst csat, pisztoly az oldalán... ez a fickó alaposan hozzászokott, hogy van pénze, és mindent megengedhet magának.}
-{103}{}{Roger Westin vagyok. Maga nem jöhet csak úgy ide. Mit akar?}
-{104}{}{Már megint itt van? Mi a fenét akar?}
+{102}{}{EzÃ¼st Ã©s tÃ¼rkizkÃ©k gy?r?k, ezÃ¼st csat, pisztoly az oldalÃ¡n... ez a fickÃ³ alaposan hozzÃ¡szokott, hogy van pÃ©nze, Ã©s mindent megengedhet magÃ¡nak.}
+{103}{}{Roger Westin vagyok. Maga nem jÃ¶het csak Ãºgy ide. Mit akar?}
+{104}{}{MÃ¡r megint itt van? Mi a fenÃ©t akar?}
 {105}{}{Mit akarsz?}
-{106}{}{Döh...}
+{106}{}{DÃ¶h...}
 {107}{}{Me look Vault 13. You help?}
-{108}{}{A 13-as Menedéket keresem. Tud segíteni?}
-{109}{}{Befejeztem a piszkos munkáját...}
-{110}{}{Rossz dolgok jönnek. Én ijessze elfele. Mú-Múúk rendbe'.}
-{111}{}{A brahmin problémájáról van szó... úgy t?nik, egyszer?en csak oda kell állítania egy embert. Nem kell csinálnia semmit, csak ott lenni. Tudom, hogy furán hangzik, de m?ködik. Mintha valami fizetségr?l is lett volna szó...}
-{112}{}{Megbízatás ügyében jöttem.}
-{113}{}{Lynette Els? Polgár Asszony üdvözletét küldi. Küldött magának valamit.}
-{114}{}{Bishoptól jövök...}
+{108}{}{A 13-as MenedÃ©ket keresem. Tud segÃ­teni?}
+{109}{}{Befejeztem a piszkos munkÃ¡jÃ¡t...}
+{110}{}{Rossz dolgok jÃ¶nnek. Ã‰n ijessze elfele. MÃº-MÃºÃºk rendbe'.}
+{111}{}{A brahmin problÃ©mÃ¡jÃ¡rÃ³l van szÃ³... Ãºgy t?nik, egyszer?en csak oda kell Ã¡llÃ­tania egy embert. Nem kell csinÃ¡lnia semmit, csak ott lenni. Tudom, hogy furÃ¡n hangzik, de m?kÃ¶dik. Mintha valami fizetsÃ©gr?l is lett volna szÃ³...}
+{112}{}{MegbÃ­zatÃ¡s Ã¼gyÃ©ben jÃ¶ttem.}
+{113}{}{Lynette Els? PolgÃ¡r Asszony Ã¼dvÃ¶zletÃ©t kÃ¼ldi. KÃ¼ldÃ¶tt magÃ¡nak valamit.}
+{114}{}{BishoptÃ³l jÃ¶vÃ¶k...}
 {115}{}{Ajjaj!}
-{116}{}{Ez minden? Beszéljen a telepvezet?mmel, Felixszel!}
-{117}{}{Úgy látom, nem érti. Megbízatás ügyében jöttem.}
-{118}{}{Egyenesen a seriff ajánlotta, hogy jöjjek magához személyesen.}
-{119}{}{Remek. Legyen úgy.}
+{116}{}{Ez minden? BeszÃ©ljen a telepvezet?mmel, Felixszel!}
+{117}{}{Ãšgy lÃ¡tom, nem Ã©rti. MegbÃ­zatÃ¡s Ã¼gyÃ©ben jÃ¶ttem.}
+{118}{}{Egyenesen a seriff ajÃ¡nlotta, hogy jÃ¶jjek magÃ¡hoz szemÃ©lyesen.}
+{119}{}{Remek. Legyen Ãºgy.}
 {120}{}{I should have guessed. What did he promise you - money, drugs, or sex? It doesn't matter. You'll never see any of it.}
-{121}{}{Ezt most hogy kell értenem?}
+{121}{}{Ezt most hogy kell Ã©rtenem?}
 {122}{}{Pofa be!}
 {123}{}{Oh - simple are you? What a sad thing. It must be a hard cross to bear. Listen - you go, talk to Fee-lix. He give you job. Savvy?}
 {124}{}{Aha.}
 {125}{}{What do you think? You know too much. What if you come back to NCR and sell him out - or threaten to? You're as good as dead already. On the other hand, I've got a better offer.}
-{126}{}{Úgymint?}
+{126}{}{Ãšgymint?}
 {127}{}{Nem hiszek neked.}
-{128}{}{Nyírja ki Bishopot! Készpénzben fizetek. Bármennyit is ígért, én másfélszer többet adok. Mennyit is kap?}
-{129}{}{(infó kell Chris)}
-{130}{}{(Avellone-tól, ez az)}
+{128}{}{NyÃ­rja ki Bishopot! KÃ©szpÃ©nzben fizetek. BÃ¡rmennyit is Ã­gÃ©rt, Ã©n mÃ¡sfÃ©lszer tÃ¶bbet adok. Mennyit is kap?}
+{129}{}{(infÃ³ kell Chris)}
+{130}{}{(Avellone-tÃ³l, ez az)}
 {131}{}{Remek.}
-{132}{}{Megegyeztünk.}
-{133}{}{Szar ügy, vénember!}
-{134}{}{Várom, hogy mire jutott. Most, kérem távozzon arra, amerr?l jött!}
-{135}{}{Kiváló! Tudtam, hogy maga az én emberem. Megígértem, hogy fizetek, és én állom a szavam. Tessék a pénze.}
-{136}{}{Bármi egyéb, amit tehetek magáért?}
-{137}{}{Köszönöm. Esetleg segíthetne nekem. A 13-as Menedéket próbálom megtalálni.}
-{138}{}{Viszlát!}
-{139}{}{Dumont ajánlotta magát? Ez nekem éppen elég. Valami, vagy valaki dézsmálja a brahminjaimat éjszakánként. Szeretnék rájönni, mi áll a háttérben. Mit szólna, ha utánajárna nekem? Megfizetem a fáradozását.}
-{140}{}{Könny? munkának t?nik, elvállalom.}
-{141}{}{Nem f?lik hozzá a fogam...}
-{142}{}{Valami, vagy valaki dézsmálja a brahminjaimat éjszakánként. Szeretnék rájönni, mi áll a háttérben. Mit szólna, ha utánajárna nekem? Megfizetem a fáradozását.}
-{143}{}{Jó ötletnek t?nik, elvállalom.}
-{144}{}{Nem, köszönöm. Ülni a mez?n és csak arra várni, hogy valami nagy sáskalény odatolja a képét, marha unalmas dolog.}
-{145}{}{Kiváló! Felix elvezeti oda. Most, ha megbocsát...}
+{132}{}{MegegyeztÃ¼nk.}
+{133}{}{Szar Ã¼gy, vÃ©nember!}
+{134}{}{VÃ¡rom, hogy mire jutott. Most, kÃ©rem tÃ¡vozzon arra, amerr?l jÃ¶tt!}
+{135}{}{KivÃ¡lÃ³! Tudtam, hogy maga az Ã©n emberem. MegÃ­gÃ©rtem, hogy fizetek, Ã©s Ã©n Ã¡llom a szavam. TessÃ©k a pÃ©nze.}
+{136}{}{BÃ¡rmi egyÃ©b, amit tehetek magÃ¡Ã©rt?}
+{137}{}{KÃ¶szÃ¶nÃ¶m. Esetleg segÃ­thetne nekem. A 13-as MenedÃ©ket prÃ³bÃ¡lom megtalÃ¡lni.}
+{138}{}{ViszlÃ¡t!}
+{139}{}{Dumont ajÃ¡nlotta magÃ¡t? Ez nekem Ã©ppen elÃ©g. Valami, vagy valaki dÃ©zsmÃ¡lja a brahminjaimat Ã©jszakÃ¡nkÃ©nt. SzeretnÃ©k rÃ¡jÃ¶nni, mi Ã¡ll a hÃ¡ttÃ©rben. Mit szÃ³lna, ha utÃ¡najÃ¡rna nekem? Megfizetem a fÃ¡radozÃ¡sÃ¡t.}
+{140}{}{KÃ¶nny? munkÃ¡nak t?nik, elvÃ¡llalom.}
+{141}{}{Nem f?lik hozzÃ¡ a fogam...}
+{142}{}{Valami, vagy valaki dÃ©zsmÃ¡lja a brahminjaimat Ã©jszakÃ¡nkÃ©nt. SzeretnÃ©k rÃ¡jÃ¶nni, mi Ã¡ll a hÃ¡ttÃ©rben. Mit szÃ³lna, ha utÃ¡najÃ¡rna nekem? Megfizetem a fÃ¡radozÃ¡sÃ¡t.}
+{143}{}{JÃ³ Ã¶tletnek t?nik, elvÃ¡llalom.}
+{144}{}{Nem, kÃ¶szÃ¶nÃ¶m. Ãœlni a mez?n Ã©s csak arra vÃ¡rni, hogy valami nagy sÃ¡skalÃ©ny odatolja a kÃ©pÃ©t, marha unalmas dolog.}
+{145}{}{KivÃ¡lÃ³! Felix elvezeti oda. Most, ha megbocsÃ¡t...}
 {146}{}{Well, maybe I can. I've heard a lot of stories about Tandi and the Vault Dweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't vault 13 then maybe you'll find a clue there that will lead you to it.}
-{147}{}{Óóóóh. Jó.}
-{148}{}{Köszönöm!}
-{149}{}{Hát, lehet, hogy tudok segíteni. Mellesleg szeretnék kérni egy szívességet el?ször. Valami, vagy valaki dézsmálja a brahminjaimat éjszakánként. Szeretnék rájönni, mi áll a háttérben. Mit szólna, ha utánajárna nekem? Megfizetem a fáradozását és elmondom azt, amit tudok.}
-{150}{}{Jó ötletnek t?nik, elvállalom.}
-{151}{}{Nem, köszönöm. Ülni a mez?n és csak arra várni, hogy valami nagy sáskalény odatolja a képét, marha unalmas dolog.}
-{152}{}{Akkor a viszont látásra! Egy élmény volt magával beszélgetni, idegen...}
+{147}{}{Ã“Ã³Ã³Ã³h. JÃ³.}
+{148}{}{KÃ¶szÃ¶nÃ¶m!}
+{149}{}{HÃ¡t, lehet, hogy tudok segÃ­teni. Mellesleg szeretnÃ©k kÃ©rni egy szÃ­vessÃ©get el?szÃ¶r. Valami, vagy valaki dÃ©zsmÃ¡lja a brahminjaimat Ã©jszakÃ¡nkÃ©nt. SzeretnÃ©k rÃ¡jÃ¶nni, mi Ã¡ll a hÃ¡ttÃ©rben. Mit szÃ³lna, ha utÃ¡najÃ¡rna nekem? Megfizetem a fÃ¡radozÃ¡sÃ¡t Ã©s elmondom azt, amit tudok.}
+{150}{}{JÃ³ Ã¶tletnek t?nik, elvÃ¡llalom.}
+{151}{}{Nem, kÃ¶szÃ¶nÃ¶m. Ãœlni a mez?n Ã©s csak arra vÃ¡rni, hogy valami nagy sÃ¡skalÃ©ny odatolja a kÃ©pÃ©t, marha unalmas dolog.}
+{152}{}{Akkor a viszont lÃ¡tÃ¡sra! Egy Ã©lmÃ©ny volt magÃ¡val beszÃ©lgetni, idegen...}
 {153}{}{I'm not sure I believe you, but here's your pay. Hell, if you been lying, my boys will find you. I also said I'd give you some information, so here it is. I've heard a lot of stories about Tandi and the Vault Dweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't Vault 13 then maybe you'll find a clue there that will lead you to it.}
-{154}{}{Én köszönni meg!}
-{155}{}{Köszi.}
+{154}{}{Ã‰n kÃ¶szÃ¶nni meg!}
+{155}{}{KÃ¶szi.}
 {156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
 {157}{}{Igen.}
 {158}{}{Nem.}
-{159}{}{Biztos vagyok benne, hogy maga jó Polgár. Szeretném, ha ezt a hololemezt visszavinné az Els? Polgárnak. Nagyon fontos. Azok az információk vannak rajta, ami az ÚKK-New Reno terveihez kellenek.}
-{160}{}{Volna még néhány kérdésem.}
+{159}{}{Biztos vagyok benne, hogy maga jÃ³ PolgÃ¡r. SzeretnÃ©m, ha ezt a hololemezt visszavinnÃ© az Els? PolgÃ¡rnak. Nagyon fontos. Azok az informÃ¡ciÃ³k vannak rajta, ami az ÃšKK-New Reno terveihez kellenek.}
+{160}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
 {161}{}{Igen, uram.}
 {162}{}{Rendben vagyunk, ez minden.}
-{163}{}{Volna még néhány kérdésem.}
+{163}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
 {164}{}{Ahogy gondolja.}
-{165}{}{Megbízatás? Úgy érti...}
-{166}{}{Engem Bishop küldött. Volna egy rövidke üzenete a maga számára.}
-{167}{}{Ég magával, és álmodjon szépeket, vénember!}
-{168}{}{dollár. Ha rendesen megcsinálja a munkát, én minden további nélkül fizetek. Ha nemet mond, nem jut ki innen élve. Nos?}
+{165}{}{MegbÃ­zatÃ¡s? Ãšgy Ã©rti...}
+{166}{}{Engem Bishop kÃ¼ldÃ¶tt. Volna egy rÃ¶vidke Ã¼zenete a maga szÃ¡mÃ¡ra.}
+{167}{}{Ã‰g magÃ¡val, Ã©s Ã¡lmodjon szÃ©peket, vÃ©nember!}
+{168}{}{dollÃ¡r. Ha rendesen megcsinÃ¡lja a munkÃ¡t, Ã©n minden tovÃ¡bbi nÃ©lkÃ¼l fizetek. Ha nemet mond, nem jut ki innen Ã©lve. Nos?}
 {169}{}{Ohh yeah. Well, I was having some problem with varmints, but they stopped coming around. Sorry about that. Try Felix and see if he has anything for you to do.}
-{170}{}{Oké, köszönöm.}
-{171}{}{Ehhh... nagyon rossz a szívem... nem bírom...}
+{170}{}{OkÃ©, kÃ¶szÃ¶nÃ¶m.}
+{171}{}{Ehhh... nagyon rossz a szÃ­vem... nem bÃ­rom...}
 {172}{}{El kell... mooonddaaniiii Feeelixneeeek.}
-{173}{}{Nocsak-nocsak! Asszem, már csak múlt id?ben beszélhetünk a szívbántalmáról...}
-{174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! ÉGET!!!}
+{173}{}{Nocsak-nocsak! Asszem, mÃ¡r csak mÃºlt id?ben beszÃ©lhetÃ¼nk a szÃ­vbÃ¡ntalmÃ¡rÃ³l...}
+{174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! Ã‰GET!!!}
 {175}{}{You delivered the holodisk to Westin.}
 {176}{}{His heart go boom boom.}

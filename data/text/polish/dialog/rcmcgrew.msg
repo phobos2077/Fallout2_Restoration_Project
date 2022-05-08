@@ -1,201 +1,201 @@
-{100}{}{Widzisz niskiego mê¿czyznê z klat¹ jak beczka i d³ug¹, ciemn¹ brod¹. Jest pokryty py³em.}
-{101}{}{Widzisz Niebezpiecznego Dana McGrew, w³aœciciela kopalni Morningstar.}
-{102}{}{Widzisz mocno umiêœnionego mê¿czyznê z blizn¹ na twarzy. Wygl¹da na twardego i pewnego siebie.}
-{103}{}{Twój mózg umiera chyba z samotnoœci...}
-{104}{}{O cholera! A jednak mo¿na cofn¹æ ewolucjê!}
-{105}{}{Chyba nieco ci siê pomiesza³o w g³owie, nie?}
+{100}{}{Widzisz niskiego mÄ™Å¼czyznÄ™ z klatÄ… jak beczka i dÅ‚ugÄ…, ciemnÄ… brodÄ…. Jest pokryty pyÅ‚em.}
+{101}{}{Widzisz Niebezpiecznego Dana McGrew, wÅ‚aÅ›ciciela kopalni Morningstar.}
+{102}{}{Widzisz mocno umiÄ™Å›nionego mÄ™Å¼czyznÄ™ z bliznÄ… na twarzy. WyglÄ…da na twardego i pewnego siebie.}
+{103}{}{TwÃ³j mÃ³zg umiera chyba z samotnoÅ›ci...}
+{104}{}{O cholera! A jednak moÅ¼na cofnÄ…Ä‡ ewolucjÄ™!}
+{105}{}{Chyba nieco ci siÄ™ pomieszaÅ‚o w gÅ‚owie, nie?}
 {106}{}{Nie mam czasu dla ciebie. Za bardzo przypominasz warzywo.}
-{107}{}{Chyba brakuje ci pi¹tek klepki, co?}
-{108}{}{Witam. Nazywam siê Niebezpieczny Dan McGrew. Prowadzê kopalniê Morningstar. Co mogê dla ciebie zrobiæ?}
+{107}{}{Chyba brakuje ci piÄ…tek klepki, co?}
+{108}{}{Witam. Nazywam siÄ™ Niebezpieczny Dan McGrew. ProwadzÄ™ kopalniÄ™ Morningstar. Co mogÄ™ dla ciebie zrobiÄ‡?}
 {109}{}{Czego chcesz ode mnie?}
 {110}{}{Co tu wydobywacie?}
-{111}{}{Czy s³ysza³eœ kiedyœ o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
-{112}{}{Czemu nazywaj¹ ciê *Niebezpieczny* Dan McGrew?}
-{113}{}{Co s³ychaæ w mieœcie?}
-{114}{}{Tak tylko przechodzê. Do widzenia.}
-{115}{}{Wydobywamy z³oto. Ka¿dy je chce. Wysy³amy je do Kryptopolis, Nowego Reno, a nawet i do RNK. Mo¿na powiedzieæ, ¿e Redding ma coœ dla ka¿dego. Dziêki temu wci¹¿ jesteœmy niepodlegli.}
-{116}{}{Mi³o byæ tak bardzo lubianym. Pozwól, ¿e spytam ciê o coœ innego.}
-{117}{}{Skoro tak, to czemu nikt nie próbuje go przej¹æ?}
-{118}{}{Dziêki za informacje. Do widzenia.}
-{119}{}{Zapewne spróbuj¹. Ka¿dy chcia³by mieæ Redding w zanadrzu. Zapewne wkrótce komuœ siê to uda. Jedyne, co mo¿emy zrobiæ, to wybraæ sobie, kto to bêdzie, jeœli chcemy prze¿yæ.}
+{111}{}{Czy sÅ‚yszaÅ‚eÅ› kiedyÅ› o czymÅ›, co nazywa siÄ™ Generator Ekosystemu Cudownej Krainy?}
+{112}{}{Czemu nazywajÄ… ciÄ™ *Niebezpieczny* Dan McGrew?}
+{113}{}{Co sÅ‚ychaÄ‡ w mieÅ›cie?}
+{114}{}{Tak tylko przechodzÄ™. Do widzenia.}
+{115}{}{Wydobywamy zÅ‚oto. KaÅ¼dy je chce. WysyÅ‚amy je do Kryptopolis, Nowego Reno, a nawet i do RNK. MoÅ¼na powiedzieÄ‡, Å¼e Redding ma coÅ› dla kaÅ¼dego. DziÄ™ki temu wciÄ…Å¼ jesteÅ›my niepodlegli.}
+{116}{}{MiÅ‚o byÄ‡ tak bardzo lubianym. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{117}{}{Skoro tak, to czemu nikt nie prÃ³buje go przejÄ…Ä‡?}
+{118}{}{DziÄ™ki za informacje. Do widzenia.}
+{119}{}{Zapewne sprÃ³bujÄ…. KaÅ¼dy chciaÅ‚by mieÄ‡ Redding w zanadrzu. Zapewne wkrÃ³tce komuÅ› siÄ™ to uda. Jedyne, co moÅ¼emy zrobiÄ‡, to wybraÄ‡ sobie, kto to bÄ™dzie, jeÅ›li chcemy przeÅ¼yÄ‡.}
 {120}{}{Co to znaczy?}
 {121}{}{Brzmi sensownie. Powodzenia i do widzenia.}
-{122}{}{Chodzi mi o to, ¿e prêdzej czy póŸniej ktoœ przyciœnie nas kciukiem do sto³u. Musimy wiêc wybraæ jak najl¿ejszy kciuk.}
-{123}{}{Co oczywiœcie zrobi³eœ...}
-{124}{}{Tak wiêc mi³ej zabawy z kciukami. Do widzenia.}
-{125}{}{Jasne, ¿e zrobi³em. Jeœli nie sprzymierzymy siê z jedn¹ z rodzin w Nowym Reno, to po¿egnamy siê z Redding. Przynajmniej z takim Redding, w którym chcia³bym ¿yæ.}
+{122}{}{Chodzi mi o to, Å¼e prÄ™dzej czy pÃ³Åºniej ktoÅ› przyciÅ›nie nas kciukiem do stoÅ‚u. Musimy wiÄ™c wybraÄ‡ jak najlÅ¼ejszy kciuk.}
+{123}{}{Co oczywiÅ›cie zrobiÅ‚eÅ›...}
+{124}{}{Tak wiÄ™c miÅ‚ej zabawy z kciukami. Do widzenia.}
+{125}{}{Jasne, Å¼e zrobiÅ‚em. JeÅ›li nie sprzymierzymy siÄ™ z jednÄ… z rodzin w Nowym Reno, to poÅ¼egnamy siÄ™ z Redding. Przynajmniej z takim Redding, w ktÃ³rym chciaÅ‚bym Å¼yÄ‡.}
 {126}{}{Co to znaczy?}
 {127}{}{Aha. No to do widzenia.}
-{128}{}{Jeœli przejmie nas RNK, Redding przyciœniête zostanie naprawdê mocno. Ci to nie bawi¹ siê w swobody osobiste. Po prostu zamieni¹ Redding w kolejn¹ plamkê na mapie Republiki Nowej Kalifornii. Redding takie, jakim ja je pamiêtam zniknie na zawsze.}
+{128}{}{JeÅ›li przejmie nas RNK, Redding przyciÅ›niÄ™te zostanie naprawdÄ™ mocno. Ci to nie bawiÄ… siÄ™ w swobody osobiste. Po prostu zamieniÄ… Redding w kolejnÄ… plamkÄ™ na mapie Republiki Nowej Kalifornii. Redding takie, jakim ja je pamiÄ™tam zniknie na zawsze.}
 {129}{}{Hmm, a co z Kryptopolis?}
-{130}{}{Interesuj¹ce. Do widzenia.}
-{131}{}{Kryptopolis? [œmieje siê] Ci bigoci zamieniliby Redding w laboratorium z niewolnikami albo obóz pracy dla niewolników. Ka¿dy, kto nie jest jednym z ich drogocennych Obywateli nie jest dla nich wart wiaderka ciep³ej flegmy. Nie mam zamiaru spêdziæ reszty ¿ycia na k³anianiu siê i ¿ebraniu u tych bigotów.}
-{132}{}{Co w takim razie czyni Nowe Reno wyj¹tkowym?}
-{133}{}{Dziêki za te podpowiedzi. Do widzenia.}
-{134}{}{Nowe Reno jest wystarczaj¹co silne, by ochraniaæ nas przed pozosta³ymi. A poniewa¿ Nowe Reno jest podzielone pomiêdzy ró¿ne rodziny gangsterskie, to nie bêdzie w stanie przej¹æ nas kompletnie. Tak wiêc mamy szansê na autonomiê. Dopóki bêdziemy dostarczaæ z³oto, Nowe Reno nie zdecyduje siê na ingerencjê w nasz sposób rz¹dzenia.}
-{135}{}{To te¿ nie brzmi zbyt dobrze.}
+{130}{}{InteresujÄ…ce. Do widzenia.}
+{131}{}{Kryptopolis? [Å›mieje siÄ™] Ci bigoci zamieniliby Redding w laboratorium z niewolnikami albo obÃ³z pracy dla niewolnikÃ³w. KaÅ¼dy, kto nie jest jednym z ich drogocennych Obywateli nie jest dla nich wart wiaderka ciepÅ‚ej flegmy. Nie mam zamiaru spÄ™dziÄ‡ reszty Å¼ycia na kÅ‚anianiu siÄ™ i Å¼ebraniu u tych bigotÃ³w.}
+{132}{}{Co w takim razie czyni Nowe Reno wyjÄ…tkowym?}
+{133}{}{DziÄ™ki za te podpowiedzi. Do widzenia.}
+{134}{}{Nowe Reno jest wystarczajÄ…co silne, by ochraniaÄ‡ nas przed pozostaÅ‚ymi. A poniewaÅ¼ Nowe Reno jest podzielone pomiÄ™dzy rÃ³Å¼ne rodziny gangsterskie, to nie bÄ™dzie w stanie przejÄ…Ä‡ nas kompletnie. Tak wiÄ™c mamy szansÄ™ na autonomiÄ™. DopÃ³ki bÄ™dziemy dostarczaÄ‡ zÅ‚oto, Nowe Reno nie zdecyduje siÄ™ na ingerencjÄ™ w nasz sposÃ³b rzÄ…dzenia.}
+{135}{}{To teÅ¼ nie brzmi zbyt dobrze.}
 {136}{}{Do dupy. Spadam.}
-{137}{}{Ten œwiat nie jest doskona³y, stary. Trzeba siê staraæ, aby by³o jak najlepiej w tak kiepskiej sytuacji. Wygl¹da na to, ¿e *Ÿli* bêd¹ najlepsz¹ szans¹ dla Redding. Chocia¿ nie wszyscy tak to widz¹.}
-{138}{}{Jak myœlisz? Co siê stanie}
-{139}{}{Opinie innych s¹ jak dupy, Dan - ka¿dy je ma i wszystkie œmierdz¹. Do widzenia.}
-{140}{}{Nie wszyscy tak to widz¹, co? Nie do wiary. Do widzenia, Dan.}
-{141}{}{Nie jestem pewien, ale robi siê gor¹co. Którekolwiek z miast bêdzie mia³o tu najwiêksze poparcie, Redding i tak dostanie ciastem w twarz. Ja tylko staram siê, aby wygra³o Nowe Reno. Wed³ug mnie to jedyna szansa dla nas.}
-{142}{}{A jak mo¿na pomóc Reno, by was przejêli?}
-{143}{}{Ktoœ wygra a ktoœ przegra. Na razie, Dan.}
-{144}{}{Najlepiej? Spowodowaæ, aby moja kopalnia dobrze prosperowa³a i górnicy wiedzieli, kto im p³aci. Fakt, ¿e ca³y swój *soczek szczêœcia* dostaj¹ z Nowego Reno równie¿ dodaje popularnoœci temu miastu.}
-{145}{}{Soczek szczêœcia?}
-{146}{}{Ka¿dy potrzebuje promyczka s³oñca w swym ¿yciu od czasu do czasu. Do widzenia, Dan.}
-{147}{}{Gorza³a, prochy i inne chemiczne zabawki. Mówisz, czego chcesz, a Nowe Reno po prostu to za³atwia. Soczek to jedyna rzecz, dla której pracuje wiêkszoœæ moich górników. Gdyby nagle znikn¹³, rozpeta³oby siê piek³o.}
+{137}{}{Ten Å›wiat nie jest doskonaÅ‚y, stary. Trzeba siÄ™ staraÄ‡, aby byÅ‚o jak najlepiej w tak kiepskiej sytuacji. WyglÄ…da na to, Å¼e *Åºli* bÄ™dÄ… najlepszÄ… szansÄ… dla Redding. ChociaÅ¼ nie wszyscy tak to widzÄ….}
+{138}{}{Jak myÅ›lisz? Co siÄ™ stanie}
+{139}{}{Opinie innych sÄ… jak dupy, Dan - kaÅ¼dy je ma i wszystkie Å›mierdzÄ…. Do widzenia.}
+{140}{}{Nie wszyscy tak to widzÄ…, co? Nie do wiary. Do widzenia, Dan.}
+{141}{}{Nie jestem pewien, ale robi siÄ™ gorÄ…co. KtÃ³rekolwiek z miast bÄ™dzie miaÅ‚o tu najwiÄ™ksze poparcie, Redding i tak dostanie ciastem w twarz. Ja tylko staram siÄ™, aby wygraÅ‚o Nowe Reno. WedÅ‚ug mnie to jedyna szansa dla nas.}
+{142}{}{A jak moÅ¼na pomÃ³c Reno, by was przejÄ™li?}
+{143}{}{KtoÅ› wygra a ktoÅ› przegra. Na razie, Dan.}
+{144}{}{Najlepiej? SpowodowaÄ‡, aby moja kopalnia dobrze prosperowaÅ‚a i gÃ³rnicy wiedzieli, kto im pÅ‚aci. Fakt, Å¼e caÅ‚y swÃ³j *soczek szczÄ™Å›cia* dostajÄ… z Nowego Reno rÃ³wnieÅ¼ dodaje popularnoÅ›ci temu miastu.}
+{145}{}{Soczek szczÄ™Å›cia?}
+{146}{}{KaÅ¼dy potrzebuje promyczka sÅ‚oÅ„ca w swym Å¼yciu od czasu do czasu. Do widzenia, Dan.}
+{147}{}{GorzaÅ‚a, prochy i inne chemiczne zabawki. MÃ³wisz, czego chcesz, a Nowe Reno po prostu to zaÅ‚atwia. Soczek to jedyna rzecz, dla ktÃ³rej pracuje wiÄ™kszoÅ›Ä‡ moich gÃ³rnikÃ³w. Gdyby nagle zniknÄ…Å‚, rozpetaÅ‚oby siÄ™ piekÅ‚o.}
 {148}{}{A jak tam ostatnio z dostawami Jetu?}
-{149}{}{Jasne. Pozwól, ¿e spytam ciê o coœ innego.}
-{150}{}{Dziêki za informacjê. Do zobaczenia, Dan.}
-{151}{}{Obecnie dostajemy tak ma³o, i¿ ledwo wystarcza dla wszystkich. Mam szczer¹ nadziejê, ¿e nastêpne karawany dojad¹ tu w ca³oœci.}
-{152}{}{Interesuj¹ce. Pozwól, ¿e spytam ciê o coœ innego.}
-{153}{}{Lepiej ju¿ sobie powêdrujê, Dan. Do widzenia.}
-{154}{}{Ostatnio wszyscy wrêcz tarzaj¹ siê w Jecie. Wszyscy go bior¹ i wcia¿ jest go za ma³o. Chocia¿ dziêki temu robotnicy s¹ szczêœliwi, wiêc nie narzekam. Ustawili siê w kolejce do doktorka Johnsona. Jeœli bêdzie tego jeszcze wiêcej, to zacznê siê martwiæ.}
+{149}{}{Jasne. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{150}{}{DziÄ™ki za informacjÄ™. Do zobaczenia, Dan.}
+{151}{}{Obecnie dostajemy tak maÅ‚o, iÅ¼ ledwo wystarcza dla wszystkich. Mam szczerÄ… nadziejÄ™, Å¼e nastÄ™pne karawany dojadÄ… tu w caÅ‚oÅ›ci.}
+{152}{}{InteresujÄ…ce. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{153}{}{Lepiej juÅ¼ sobie powÄ™drujÄ™, Dan. Do widzenia.}
+{154}{}{Ostatnio wszyscy wrÄ™cz tarzajÄ… siÄ™ w Jecie. Wszyscy go biorÄ… i wciaÅ¼ jest go za maÅ‚o. ChociaÅ¼ dziÄ™ki temu robotnicy sÄ… szczÄ™Å›liwi, wiÄ™c nie narzekam. Ustawili siÄ™ w kolejce do doktorka Johnsona. JeÅ›li bÄ™dzie tego jeszcze wiÄ™cej, to zacznÄ™ siÄ™ martwiÄ‡.}
 {155}{}{Kim jest doktor Johnson?}
-{156}{}{Interesuj¹ce. Pozwól, ¿e spytam ciê o coœ innego.}
-{157}{}{Lepiej ju¿ sobie odmaszerujê, Dan. Do widzenia.}
-{158}{}{Cholera, w tym mieœcie jest po prostu za du¿o Jetu. Topimy siê w tym gównie. Nikt nie chce pracowaæ, wszyscy chc¹ lataæ. Nie wyrabiam norm, gdy po³owa moich cholernych górników lata na Jecie. Niech Bóg przeklnie tego doktorka - Johnsona.}
+{156}{}{InteresujÄ…ce. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{157}{}{Lepiej juÅ¼ sobie odmaszerujÄ™, Dan. Do widzenia.}
+{158}{}{Cholera, w tym mieÅ›cie jest po prostu za duÅ¼o Jetu. Topimy siÄ™ w tym gÃ³wnie. Nikt nie chce pracowaÄ‡, wszyscy chcÄ… lataÄ‡. Nie wyrabiam norm, gdy poÅ‚owa moich cholernych gÃ³rnikÃ³w lata na Jecie. Niech BÃ³g przeklnie tego doktorka - Johnsona.}
 {159}{}{Kim jest doktor Johnson?}
-{160}{}{Brzmi jak problem. Pozwól, ¿e spytam ciê o coœ innego, Dan.}
-{161}{}{Idê sobie popodró¿owaæ, Dan. Do widzenia.}
-{162}{}{Wiêkszoœæ górników, którzy byli najwiêkszymi *lotnikami* porz¹dnie siê rozbi³a. Ostatnia dzia³ka od doktorka Johnsona musia³a byæ jakoœ zepsuta, czy coœ.}
+{160}{}{Brzmi jak problem. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, Dan.}
+{161}{}{IdÄ™ sobie popodrÃ³Å¼owaÄ‡, Dan. Do widzenia.}
+{162}{}{WiÄ™kszoÅ›Ä‡ gÃ³rnikÃ³w, ktÃ³rzy byli najwiÄ™kszymi *lotnikami* porzÄ…dnie siÄ™ rozbiÅ‚a. Ostatnia dziaÅ‚ka od doktorka Johnsona musiaÅ‚a byÄ‡ jakoÅ› zepsuta, czy coÅ›.}
 {163}{}{Kim jest doktor Johnson?}
-{164}{}{Interesuj¹ce. Pozwól, ¿e spytam ciê o coœ innego.}
-{165}{}{Spadam st¹d, Dan. Do widzenia.}
-{166}{}{Nie wiem, co siê sta³o, ale wiêkszoœæ Jetowców zachorowa³o po tej ostatniej dzia³ce - i teraz nawet nie zbli¿aj¹ siê do Jetu. Doktorek Johnson podobno siê tym zainteresowa³.}
+{164}{}{InteresujÄ…ce. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{165}{}{Spadam stÄ…d, Dan. Do widzenia.}
+{166}{}{Nie wiem, co siÄ™ staÅ‚o, ale wiÄ™kszoÅ›Ä‡ JetowcÃ³w zachorowaÅ‚o po tej ostatniej dziaÅ‚ce - i teraz nawet nie zbliÅ¼ajÄ… siÄ™ do Jetu. Doktorek Johnson podobno siÄ™ tym zainteresowaÅ‚.}
 {167}{}{Kim jest doktor Johnson?}
-{168}{}{Interesuj¹ce. Pozwól, ¿e spytam ciê o coœ innego.}
-{169}{}{Idê podró¿owaæ, Dan. Do widzenia.}
-{170}{}{Bo jestem najwiêkszym, najtwardszym, pe³zaj¹cym w tunelach, ¿r¹cym wê¿e goœciem w okolicy. *Niebezpieczny* Dan McGrew - to ja!}
-{171}{}{Aha. Pozwól, ¿e spytam ciê o coœ innego, Niebezpieczny Danie.}
-{172}{}{Jak dla mnie to nie wygl¹dasz na takiego cholernego twardziela.}
-{173}{}{Niez³y z pana goœæ. Nie bêdê panu zabieraæ wiêcej czasu, panie Niebezpieczny. Do widzenia.}
-{174}{}{Tak siê tutaj zaczyna bójki. Poprzesz swoje s³owa czymœ wiêcej?}
-{175}{}{Jasne... Twoja jadaczka otworzy³a siê o jeden raz za du¿o. Szykuj gnata.}
-{176}{}{Pewnie, gdyby tylko zabicie ciê da³o wystarczaj¹c¹ satysfakcjê, aby wydaæ kasê na naboje.}
-{177}{}{Jasne, ale nie chce mi siê. Mam zbyt wiele zajêæ, by siê z tob¹ teraz babraæ.}
-{178}{}{No tak... Tak myœla³em... Tchórzysz!}
-{179}{}{Zaraz ci poka¿ê tchórza... gdy bêdê wycinaæ twoj¹ sledzionê. Wyzywam ciê!}
-{180}{}{Kiedyœ siê jeszcze spotkamy... Do widzenia.}
-{181}{}{Generator Ekosystemu Cudownej Krainy? W ¿yciu nie s³ysza³em. Swoj¹ cudown¹ krainê znajdujê zazwyczaj w s³odziutkich ramionkach Lou.}
-{182}{}{Czy Lou to nie mêskie imiê?}
-{183}{}{Aha. Pozwól, ¿e spytam ciê o coœ innego, Dan.}
-{184}{}{Tak wiêc poszukiwania trwaj¹ nadal... Do widzenia.}
-{185}{}{Owszem, no chyba, ¿e jest to skrót od Louisy, tak jak w przypadku mojej Lou. Lou prowadzi Saloon Malamute u nas w mieœcie. Ale w ogóle to o co ci chodzi³o?}
-{186}{}{Aaa... o nic, Dan. O Nic. Pozwól, ¿e spytam ciê o coœ innego.}
-{187}{}{O nic. Tak tylko kojarzê ró¿ne fakty. Do widzenia, cukiereczku.}
-{188}{}{Mój b³¹d. Lepiej ju¿ sobie pójdê. Do widzenia.}
-{189}{}{Jedno jest pewne: przyda³by mi siê nowy procesor kontrolny do maszyny odkrywkowej.}
+{168}{}{InteresujÄ…ce. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{169}{}{IdÄ™ podrÃ³Å¼owaÄ‡, Dan. Do widzenia.}
+{170}{}{Bo jestem najwiÄ™kszym, najtwardszym, peÅ‚zajÄ…cym w tunelach, Å¼rÄ…cym wÄ™Å¼e goÅ›ciem w okolicy. *Niebezpieczny* Dan McGrew - to ja!}
+{171}{}{Aha. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, Niebezpieczny Danie.}
+{172}{}{Jak dla mnie to nie wyglÄ…dasz na takiego cholernego twardziela.}
+{173}{}{NiezÅ‚y z pana goÅ›Ä‡. Nie bÄ™dÄ™ panu zabieraÄ‡ wiÄ™cej czasu, panie Niebezpieczny. Do widzenia.}
+{174}{}{Tak siÄ™ tutaj zaczyna bÃ³jki. Poprzesz swoje sÅ‚owa czymÅ› wiÄ™cej?}
+{175}{}{Jasne... Twoja jadaczka otworzyÅ‚a siÄ™ o jeden raz za duÅ¼o. Szykuj gnata.}
+{176}{}{Pewnie, gdyby tylko zabicie ciÄ™ daÅ‚o wystarczajÄ…cÄ… satysfakcjÄ™, aby wydaÄ‡ kasÄ™ na naboje.}
+{177}{}{Jasne, ale nie chce mi siÄ™. Mam zbyt wiele zajÄ™Ä‡, by siÄ™ z tobÄ… teraz babraÄ‡.}
+{178}{}{No tak... Tak myÅ›laÅ‚em... TchÃ³rzysz!}
+{179}{}{Zaraz ci pokaÅ¼Ä™ tchÃ³rza... gdy bÄ™dÄ™ wycinaÄ‡ twojÄ… sledzionÄ™. Wyzywam ciÄ™!}
+{180}{}{KiedyÅ› siÄ™ jeszcze spotkamy... Do widzenia.}
+{181}{}{Generator Ekosystemu Cudownej Krainy? W Å¼yciu nie sÅ‚yszaÅ‚em. SwojÄ… cudownÄ… krainÄ™ znajdujÄ™ zazwyczaj w sÅ‚odziutkich ramionkach Lou.}
+{182}{}{Czy Lou to nie mÄ™skie imiÄ™?}
+{183}{}{Aha. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, Dan.}
+{184}{}{Tak wiÄ™c poszukiwania trwajÄ… nadal... Do widzenia.}
+{185}{}{Owszem, no chyba, Å¼e jest to skrÃ³t od Louisy, tak jak w przypadku mojej Lou. Lou prowadzi Saloon Malamute u nas w mieÅ›cie. Ale w ogÃ³le to o co ci chodziÅ‚o?}
+{186}{}{Aaa... o nic, Dan. O Nic. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{187}{}{O nic. Tak tylko kojarzÄ™ rÃ³Å¼ne fakty. Do widzenia, cukiereczku.}
+{188}{}{MÃ³j bÅ‚Ä…d. Lepiej juÅ¼ sobie pÃ³jdÄ™. Do widzenia.}
+{189}{}{Jedno jest pewne: przydaÅ‚by mi siÄ™ nowy procesor kontrolny do maszyny odkrywkowej.}
 {190}{}{Procesor do maszyny odkrywkowej? Co to takiego?}
-{191}{}{Pozwól, ¿e spytam ciê o coœ innego, Dan.}
-{192}{}{Aha. Dam ci znaæ, jeœli znajdê coœ takiego. Do widzenia.}
-{193}{}{Zabawne, ¿e ze wszystkich ludzi w³aœnie ty siê o to pytasz. W mieœcie dzieje siê mnóstwo ró¿nych rzeczy. G³ównie dziêki tobie.}
-{194}{}{Jak ju¿ mówi³em. Niepotrzebnie mnie pytasz...}
+{191}{}{PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, Dan.}
+{192}{}{Aha. Dam ci znaÄ‡, jeÅ›li znajdÄ™ coÅ› takiego. Do widzenia.}
+{193}{}{Zabawne, Å¼e ze wszystkich ludzi wÅ‚aÅ›nie ty siÄ™ o to pytasz. W mieÅ›cie dzieje siÄ™ mnÃ³stwo rÃ³Å¼nych rzeczy. GÅ‚Ã³wnie dziÄ™ki tobie.}
+{194}{}{Jak juÅ¼ mÃ³wiÅ‚em. Niepotrzebnie mnie pytasz...}
 {195}{}{Chodzi ci o ten procesor do maszyny odkrywkowej?}
-{196}{}{Chodzi ci o tê sprawê z pochlastan¹ kurw¹?}
-{197}{}{Chodzi ci o tê zadymê w barze, któr¹ uda³o mi siê opanowaæ?}
-{198}{}{Aktywnoœæ to po prostu moja cecha. Pozwól, ¿e spytam ciê o coœ innego.}
-{199}{}{Nie wiem, o co ci chodzi, ale nie mam teraz czasu, by siê dowiedzieæ. Do widzenia.}
-{200}{}{Tak, chodzi mi o ten procesor, który opchn¹³eœ Marge LeBarge z kopalni Kokoweef. To by³a powa¿na pomy³ka... nie tylko jeœli chodzi o mnie, ale i o ca³e Redding.}
-{201}{}{Co chcesz przez to powiedzieæ?}
-{202}{}{Starczy tego, stary. Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{203}{}{Gówno ³azi po ludziach. Do zobaczenia... mo¿e...}
-{204}{}{Nie mogê uwierzyæ, ¿e zezwalasz na to, by ten skurwiel Hakeswill ³azi³ na wolnoœci. Moi górnicy mo¿e i siê z tego ciesz¹, ale ja nie bardzo.}
-{205}{}{To by³a trudna sytuacja i uwa¿am, ¿e to by³o najlepsze wyjœcie. Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{206}{}{Aaa... Jego wina nie by³a taka pewna. Pozwól, ¿e spytam ciê o coœ innego.}
+{196}{}{Chodzi ci o tÄ™ sprawÄ™ z pochlastanÄ… kurwÄ…?}
+{197}{}{Chodzi ci o tÄ™ zadymÄ™ w barze, ktÃ³rÄ… udaÅ‚o mi siÄ™ opanowaÄ‡?}
+{198}{}{AktywnoÅ›Ä‡ to po prostu moja cecha. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{199}{}{Nie wiem, o co ci chodzi, ale nie mam teraz czasu, by siÄ™ dowiedzieÄ‡. Do widzenia.}
+{200}{}{Tak, chodzi mi o ten procesor, ktÃ³ry opchnÄ…Å‚eÅ› Marge LeBarge z kopalni Kokoweef. To byÅ‚a powaÅ¼na pomyÅ‚ka... nie tylko jeÅ›li chodzi o mnie, ale i o caÅ‚e Redding.}
+{201}{}{Co chcesz przez to powiedzieÄ‡?}
+{202}{}{Starczy tego, stary. PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{203}{}{GÃ³wno Å‚azi po ludziach. Do zobaczenia... moÅ¼e...}
+{204}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e zezwalasz na to, by ten skurwiel Hakeswill Å‚aziÅ‚ na wolnoÅ›ci. Moi gÃ³rnicy moÅ¼e i siÄ™ z tego cieszÄ…, ale ja nie bardzo.}
+{205}{}{To byÅ‚a trudna sytuacja i uwaÅ¼am, Å¼e to byÅ‚o najlepsze wyjÅ›cie. PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{206}{}{Aaa... Jego wina nie byÅ‚a taka pewna. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
 {207}{}{Nie obchodzi mnie, co czujesz. Do widzenia.}
-{208}{}{Wsadzenie tego skurwysyna Hakeswilla do paki by³o dobr¹ rzecz¹. Straszy³ moich górników, ale oni i tak nie chcieli, by ktoœ go po prostu sprz¹tn¹³. Dobrze, ¿e teraz powiesz¹ go legalnie.}
-{209}{}{To by³a trudna sytuacja i uwa¿am, ¿e to by³o najlepsze wyjœcie. Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{210}{}{Sprawiedliwoœci musi staæ siê zadoœæ. Pozwól, ¿e spytam ciê o coœ innego.}
-{211}{}{Sprawy nie zawsze tocz¹ siê tak, jak by siê chcia³o. Do widzenia.}
-{212}{}{Przez to, ¿e uda³o ci siê zabiæ tego idiotê Hakeswilla, moi górnicy s¹ gotowi, by zacz¹æ rozróbe.}
-{213}{}{To by³a trudna sytuacja i uwa¿am, ¿e to by³o najlepsze wyjœcie. Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{214}{}{Ten sukinsyn a¿ siê o to prosi³. Pozwól, ¿e spytam ciê o coœ innego.}
-{215}{}{Cieszê siê, ¿e uda³o mi siê zrobiæ, co trzeba by³o zrobiæ ju¿ dawno temu robakowi. Do widzenia.}
-{216}{}{Wiesz, co siê sta³o z modu³em do maszyny odkrywkowej. Potrzebujê go i mogê siê za³o¿yæ, ¿e masz doœæ sprytu, by zorientowaæ siê, ¿e Marge LeBarge te¿ go potrzebuje. Najlepiej bêdzie, jeœli sprzedasz go mi.}
+{208}{}{Wsadzenie tego skurwysyna Hakeswilla do paki byÅ‚o dobrÄ… rzeczÄ…. StraszyÅ‚ moich gÃ³rnikÃ³w, ale oni i tak nie chcieli, by ktoÅ› go po prostu sprzÄ…tnÄ…Å‚. Dobrze, Å¼e teraz powieszÄ… go legalnie.}
+{209}{}{To byÅ‚a trudna sytuacja i uwaÅ¼am, Å¼e to byÅ‚o najlepsze wyjÅ›cie. PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{210}{}{SprawiedliwoÅ›ci musi staÄ‡ siÄ™ zadoÅ›Ä‡. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{211}{}{Sprawy nie zawsze toczÄ… siÄ™ tak, jak by siÄ™ chciaÅ‚o. Do widzenia.}
+{212}{}{Przez to, Å¼e udaÅ‚o ci siÄ™ zabiÄ‡ tego idiotÄ™ Hakeswilla, moi gÃ³rnicy sÄ… gotowi, by zaczÄ…Ä‡ rozrÃ³be.}
+{213}{}{To byÅ‚a trudna sytuacja i uwaÅ¼am, Å¼e to byÅ‚o najlepsze wyjÅ›cie. PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{214}{}{Ten sukinsyn aÅ¼ siÄ™ o to prosiÅ‚. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{215}{}{CieszÄ™ siÄ™, Å¼e udaÅ‚o mi siÄ™ zrobiÄ‡, co trzeba byÅ‚o zrobiÄ‡ juÅ¼ dawno temu robakowi. Do widzenia.}
+{216}{}{Wiesz, co siÄ™ staÅ‚o z moduÅ‚em do maszyny odkrywkowej. PotrzebujÄ™ go i mogÄ™ siÄ™ zaÅ‚oÅ¼yÄ‡, Å¼e masz doÅ›Ä‡ sprytu, by zorientowaÄ‡ siÄ™, Å¼e Marge LeBarge teÅ¼ go potrzebuje. Najlepiej bÄ™dzie, jeÅ›li sprzedasz go mi.}
 {217}{}{Ile jest on dla ciebie wart?}
-{218}{}{A czemu lepiej sprzedaæ go tobie ni¿ jej?}
-{219}{}{Pomyœlê nad tym. Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{220}{}{Muszê siê nad tym zastanowiæ. Do widzenia.}
-{221}{}{Chcia³em ci tylko podziêkowaæ za sprzedanie procesora w³aœciwej stronie.}
-{222}{}{Nie ma problemu. Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{223}{}{Masz go. Ten tysi¹c przekona³ mnie do ciebie. Pozwól, ¿e spytam ciê o coœ innego.}
+{218}{}{A czemu lepiej sprzedaÄ‡ go tobie niÅ¼ jej?}
+{219}{}{PomyÅ›lÄ™ nad tym. PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{220}{}{MuszÄ™ siÄ™ nad tym zastanowiÄ‡. Do widzenia.}
+{221}{}{ChciaÅ‚em ci tylko podziÄ™kowaÄ‡ za sprzedanie procesora wÅ‚aÅ›ciwej stronie.}
+{222}{}{Nie ma problemu. PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{223}{}{Masz go. Ten tysiÄ…c przekonaÅ‚ mnie do ciebie. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
 {224}{}{Nie ma sprawy. Do widzenia.}
-{225}{}{Dziêki za to, ¿e uda³o ci siê przerwaæ bójkê w barze bez zamykania kogokolwiek. Górnicy musz¹ siê wyzyæ od czasu do czasu i w gruncie rzeczy nic z³ego nie robi¹.}
-{226}{}{Te¿ mi siê tak zdawa³o. Pozwol, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{227}{}{Ktoœ musia³ ich rozdzieliæ. Pozwól, ¿e spytam ciê o coœ innego.}
+{225}{}{DziÄ™ki za to, Å¼e udaÅ‚o ci siÄ™ przerwaÄ‡ bÃ³jkÄ™ w barze bez zamykania kogokolwiek. GÃ³rnicy muszÄ… siÄ™ wyzyÄ‡ od czasu do czasu i w gruncie rzeczy nic zÅ‚ego nie robiÄ….}
+{226}{}{TeÅ¼ mi siÄ™ tak zdawaÅ‚o. Pozwol, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{227}{}{KtoÅ› musiaÅ‚ ich rozdzieliÄ‡. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
 {228}{}{Nie ma sprawy. Do widzenia.}
-{229}{}{Szkoda, ¿e moi górnicy wyl¹dowali za kratkami. Oni tylko chcieli siê wyluzowaæ.}
-{230}{}{Zaczêli bójkê, ktoœ musia³ ich powstrzymaæ. Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{231}{}{Wyluzuj¹ siê w pace. Bêd¹ do odbioru za parê dni. Pozwól, ¿e spytam ciê o coœ innego.}
-{232}{}{Ja te¿ siê chyba ju¿ wyluzujê. Do widzenia.}
-{233}{}{Dziêki za to, uda³o ci siê oddzieliæ tych zbirów z Kokoweef od moich kolegów. Tych Kokoweefiarzy powinno siê zamkn¹æ na dobre!}
-{234}{}{Czy ja wiem... W koñcu oni chcieli siê tylko wyluzowaæ. Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{235}{}{To by³aby ju¿ przesada. Po prostu niech och³on¹ przez kilka dni. Pozwól, ¿e spytam ciê o coœ innego.}
-{236}{}{Po prostu miej oko równie¿ i na swoich górników od teraz. Do widzenia.}
-{237}{}{Czy naprawdê nie da³o siê nie przymykaæ wszystkich cholernych górników z miasta? Kto teraz bêdzie pracowa³?!?}
-{238}{}{Trzeba by³o o tym pomyœleæ zanim wymknêli siê spod kontroli. Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{239}{}{Tym razem po prostu przesadzili. Mo¿e w pace przemyœl¹ trochê te sprawy. Pozwól, ¿e spytam ciê o coœ innego.}
-{240}{}{Dobre pytanie. Chyba muszê siê zainteresowaæ górnictwem. Do widzenia.}
-{241}{}{Ta odznaka musia³a uderzyæ ci do g³owy. Nie masz prawa zabijaæ kogoœ tylko dlatego, ¿e wywo³a³ zadymê w knajpie!}
-{242}{}{Sprawy wymknê³y siê spod kontroli. Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{243}{}{Gówno ³azi po ludziach. Pozwól, ¿e spytam ciê o coœ innego.}
-{244}{}{Powinni siê zastanowiæ, zanim zaczêli rozróbê z szeryfem. Do widzenia.}
-{245}{}{Jeœli sprzedasz procesor Marge, to jej poplecznicy bêd¹ wygl¹daæ lepiej. Poplecznikami Marge s¹ goœcie z RNK, a jeœli oni przejm¹ Redding, to bêdziemy mieli przechlapane. Lepiej, jeœli poprzesz mnie i moich kumpli z Nowego Reno.}
+{229}{}{Szkoda, Å¼e moi gÃ³rnicy wylÄ…dowali za kratkami. Oni tylko chcieli siÄ™ wyluzowaÄ‡.}
+{230}{}{ZaczÄ™li bÃ³jkÄ™, ktoÅ› musiaÅ‚ ich powstrzymaÄ‡. PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{231}{}{WyluzujÄ… siÄ™ w pace. BÄ™dÄ… do odbioru za parÄ™ dni. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{232}{}{Ja teÅ¼ siÄ™ chyba juÅ¼ wyluzujÄ™. Do widzenia.}
+{233}{}{DziÄ™ki za to, udaÅ‚o ci siÄ™ oddzieliÄ‡ tych zbirÃ³w z Kokoweef od moich kolegÃ³w. Tych Kokoweefiarzy powinno siÄ™ zamknÄ…Ä‡ na dobre!}
+{234}{}{Czy ja wiem... W koÅ„cu oni chcieli siÄ™ tylko wyluzowaÄ‡. PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{235}{}{To byÅ‚aby juÅ¼ przesada. Po prostu niech ochÅ‚onÄ… przez kilka dni. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{236}{}{Po prostu miej oko rÃ³wnieÅ¼ i na swoich gÃ³rnikÃ³w od teraz. Do widzenia.}
+{237}{}{Czy naprawdÄ™ nie daÅ‚o siÄ™ nie przymykaÄ‡ wszystkich cholernych gÃ³rnikÃ³w z miasta? Kto teraz bÄ™dzie pracowaÅ‚?!?}
+{238}{}{Trzeba byÅ‚o o tym pomyÅ›leÄ‡ zanim wymknÄ™li siÄ™ spod kontroli. PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{239}{}{Tym razem po prostu przesadzili. MoÅ¼e w pace przemyÅ›lÄ… trochÄ™ te sprawy. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{240}{}{Dobre pytanie. Chyba muszÄ™ siÄ™ zainteresowaÄ‡ gÃ³rnictwem. Do widzenia.}
+{241}{}{Ta odznaka musiaÅ‚a uderzyÄ‡ ci do gÅ‚owy. Nie masz prawa zabijaÄ‡ kogoÅ› tylko dlatego, Å¼e wywoÅ‚aÅ‚ zadymÄ™ w knajpie!}
+{242}{}{Sprawy wymknÄ™Å‚y siÄ™ spod kontroli. PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{243}{}{GÃ³wno Å‚azi po ludziach. PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego.}
+{244}{}{Powinni siÄ™ zastanowiÄ‡, zanim zaczÄ™li rozrÃ³bÄ™ z szeryfem. Do widzenia.}
+{245}{}{JeÅ›li sprzedasz procesor Marge, to jej poplecznicy bÄ™dÄ… wyglÄ…daÄ‡ lepiej. Poplecznikami Marge sÄ… goÅ›cie z RNK, a jeÅ›li oni przejmÄ… Redding, to bÄ™dziemy mieli przechlapane. Lepiej, jeÅ›li poprzesz mnie i moich kumpli z Nowego Reno.}
 {246}{}{Przechlapane? Jak to?}
-{247}{}{Nie mam czasu na politykê. Do widzenia.}
-{248}{}{Ka¿dy chce tego, co ma Redding. Niektórzy jednak¿e zastosuj¹ ³agodniejsze metody zdobycia tego czegoœ od nas. Pozwól, ¿e ci to wyjaœniê...}
+{247}{}{Nie mam czasu na politykÄ™. Do widzenia.}
+{248}{}{KaÅ¼dy chce tego, co ma Redding. NiektÃ³rzy jednakÅ¼e zastosujÄ… Å‚agodniejsze metody zdobycia tego czegoÅ› od nas. PozwÃ³l, Å¼e ci to wyjaÅ›niÄ™...}
 {249}{}{No, dalej.}
-{250}{}{Ju¿ siê wystarczaj¹co nagada³eœ. Do widzenia.}
-{251}{}{Zap³acê ci $1000 za modu³ do koparki.}
-{252}{}{Brzmi nieŸle. Gdzie mo¿na go znaleŸæ?}
-{253}{}{Brzmi nieŸle. Masz...}
+{250}{}{JuÅ¼ siÄ™ wystarczajÄ…co nagadaÅ‚eÅ›. Do widzenia.}
+{251}{}{ZapÅ‚acÄ™ ci $1000 za moduÅ‚ do koparki.}
+{252}{}{Brzmi nieÅºle. Gdzie moÅ¼na go znaleÅºÄ‡?}
+{253}{}{Brzmi nieÅºle. Masz...}
 {254}{}{Chyba go jeszcze potrzymam. Do widzenia.}
-{255}{}{Jeœli jakiœ znajdê, dam ci znaæ. Do widzenia.}
-{256}{}{Jest w wielkiej kopalni Wanamingo na zachód od miasta. W jej g³êbi jest wielka maszyna górnicza. Trudno jej nie zauwa¿yæ. Chip jest w³aœnie w tej maszynie. Po prostu wyrwij go i przynieœ mi.}
-{257}{}{Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{258}{}{Skoro potrzebujesz go tak bardzo, to czemu sam go sobie nie przynios³eœ?}
-{259}{}{Siê robi. Na razie...}
-{260}{}{Mam wielk¹, przedwojenn¹ maszynê odkrywkow¹, gotow¹ do dzia³ania, ale jest jeden problem. Nie ma mózgu.}
-{261}{}{Nie tylko ona boryka siê z takim problemem w tym mieœcie. Lepiej jednak zapytam jedynie, o co ci chodzi?}
-{262}{}{Nie bardzo podoba mi siê pomys³ szukania mózgu. Do widzenia.}
-{263}{}{Procesor kontrolny spali³ siê i nie ma mo¿liwoœci zamówienia nowego. Ale wiem, gdzie mo¿na taki znaleŸæ. Zap³acê za niego $1000.}
+{255}{}{JeÅ›li jakiÅ› znajdÄ™, dam ci znaÄ‡. Do widzenia.}
+{256}{}{Jest w wielkiej kopalni Wanamingo na zachÃ³d od miasta. W jej gÅ‚Ä™bi jest wielka maszyna gÃ³rnicza. Trudno jej nie zauwaÅ¼yÄ‡. Chip jest wÅ‚aÅ›nie w tej maszynie. Po prostu wyrwij go i przynieÅ› mi.}
+{257}{}{PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{258}{}{Skoro potrzebujesz go tak bardzo, to czemu sam go sobie nie przyniosÅ‚eÅ›?}
+{259}{}{SiÄ™ robi. Na razie...}
+{260}{}{Mam wielkÄ…, przedwojennÄ… maszynÄ™ odkrywkowÄ…, gotowÄ… do dziaÅ‚ania, ale jest jeden problem. Nie ma mÃ³zgu.}
+{261}{}{Nie tylko ona boryka siÄ™ z takim problemem w tym mieÅ›cie. Lepiej jednak zapytam jedynie, o co ci chodzi?}
+{262}{}{Nie bardzo podoba mi siÄ™ pomysÅ‚ szukania mÃ³zgu. Do widzenia.}
+{263}{}{Procesor kontrolny spaliÅ‚ siÄ™ i nie ma moÅ¼liwoÅ›ci zamÃ³wienia nowego. Ale wiem, gdzie moÅ¼na taki znaleÅºÄ‡. ZapÅ‚acÄ™ za niego $1000.}
 {264}{}{Gdzie on jest?}
-{265}{}{Skoro potrzebujesz go tak bardzo, to czemu sam go sobie nie przynios³eœ?}
-{266}{}{Mam w tej chwili po uszy rozmaitych zadañ. Przykro mi, stary. Do widzenia.}
-{267}{}{Mam mnóstwo powodów. Wiêkszoœæ jest g³odna i ogólnie niemi³a. Kopalnia Wanamingo jest po prostu pe³na g³odnych Wanamingos.}
+{265}{}{Skoro potrzebujesz go tak bardzo, to czemu sam go sobie nie przyniosÅ‚eÅ›?}
+{266}{}{Mam w tej chwili po uszy rozmaitych zadaÅ„. Przykro mi, stary. Do widzenia.}
+{267}{}{Mam mnÃ³stwo powodÃ³w. WiÄ™kszoÅ›Ä‡ jest gÅ‚odna i ogÃ³lnie niemiÅ‚a. Kopalnia Wanamingo jest po prostu peÅ‚na gÅ‚odnych Wanamingos.}
 {268}{}{Co to do cholery jest Wanna-minka?}
-{269}{}{Aha, to by tlumaczy³o ca³¹ sprawê. Pomyœlê nad tym. Do widzenia.}
-{270}{}{Nic takiego... To tylko najbardziej niemi³e, wredne i pod³e stworzonko, jakie w ¿yciu widzia³em. Ma zêby na 10 centymetrów. Znaczy na 50 centymetrów. Ale myœlê, ¿e dasz sobie z nimi radê.}
-{271}{}{Tia... Pomyœlê nad tym. Do widzenia.}
-{272}{}{Brzmi strasznie. To chyba nie dla mnie. Zaczynaj¹ mi siê trz¹œæ kolana.}
-{273}{}{Lepiej to zrób. $1000 nie chodzi piechot¹...}
-{274}{}{Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{275}{}{Pomyœlê... Zawsze przyda mi siê trochê gotówki.}
-{276}{}{Chyba siê pomyli³em, gdy pomyœla³em, ¿e staæ ciê na to. Spadaj st¹d, marnujesz mój czas.}
-{277}{}{Tak jest, proszê pana. Ju¿ sobie idê, proszê pana.}
-{278}{}{Ka¿dy siê czasami myli. Do widzenia.}
-{279}{}{Kurczê, gdybym by³ na twoim miejscu, kupi³bym tê kopalniê, oczyœci³ i sprzeda³ burmistrzowi Ascortiemu. Bo teraz to on jest jej w³aœcicielem.}
-{280}{}{Dbaj o siebie. Naprawdê potrzebujê tego procesora.}
-{281}{}{Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{282}{}{Dziêki za radê. Do widzenia.}
-{283}{}{"Bezbolesny" doktorek Johnson jest naszym miastowym szarlatanem. Pewnie trochê zna siê na doktorowaniu, ale chyba nie za wiele. Jest w zachodniej czêœci œródmieœcia. W ka¿dym razie to on zazwyczaj sprzedaje lekarstwa i prochy dla miasta.}
+{269}{}{Aha, to by tlumaczyÅ‚o caÅ‚Ä… sprawÄ™. PomyÅ›lÄ™ nad tym. Do widzenia.}
+{270}{}{Nic takiego... To tylko najbardziej niemiÅ‚e, wredne i podÅ‚e stworzonko, jakie w Å¼yciu widziaÅ‚em. Ma zÄ™by na 10 centymetrÃ³w. Znaczy na 50 centymetrÃ³w. Ale myÅ›lÄ™, Å¼e dasz sobie z nimi radÄ™.}
+{271}{}{Tia... PomyÅ›lÄ™ nad tym. Do widzenia.}
+{272}{}{Brzmi strasznie. To chyba nie dla mnie. ZaczynajÄ… mi siÄ™ trzÄ…Å›Ä‡ kolana.}
+{273}{}{Lepiej to zrÃ³b. $1000 nie chodzi piechotÄ…...}
+{274}{}{PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{275}{}{PomyÅ›lÄ™... Zawsze przyda mi siÄ™ trochÄ™ gotÃ³wki.}
+{276}{}{Chyba siÄ™ pomyliÅ‚em, gdy pomyÅ›laÅ‚em, Å¼e staÄ‡ ciÄ™ na to. Spadaj stÄ…d, marnujesz mÃ³j czas.}
+{277}{}{Tak jest, proszÄ™ pana. JuÅ¼ sobie idÄ™, proszÄ™ pana.}
+{278}{}{KaÅ¼dy siÄ™ czasami myli. Do widzenia.}
+{279}{}{KurczÄ™, gdybym byÅ‚ na twoim miejscu, kupiÅ‚bym tÄ™ kopalniÄ™, oczyÅ›ciÅ‚ i sprzedaÅ‚ burmistrzowi Ascortiemu. Bo teraz to on jest jej wÅ‚aÅ›cicielem.}
+{280}{}{Dbaj o siebie. NaprawdÄ™ potrzebujÄ™ tego procesora.}
+{281}{}{PozwÃ³l, Å¼e spytam ciÄ™, co jeszcze dzieje siÄ™ w mieÅ›cie.}
+{282}{}{DziÄ™ki za radÄ™. Do widzenia.}
+{283}{}{"Bezbolesny" doktorek Johnson jest naszym miastowym szarlatanem. Pewnie trochÄ™ zna siÄ™ na doktorowaniu, ale chyba nie za wiele. Jest w zachodniej czÄ™Å›ci Å›rÃ³dmieÅ›cia. W kaÅ¼dym razie to on zazwyczaj sprzedaje lekarstwa i prochy dla miasta.}
 {284}{}{Sprzedaje wszystko?}
 {285}{}{Do zobaczenia, Dan.}
-{286}{}{No, tak. Bo gdy dostajemy Jet, to w³aœnie on przelewa go z du¿ych pojemników do ampu³ek. Wszyscy mu ufaj¹, ¿e nic nie schrzani. Zgrywa siê, ¿e wszystko u niego jest sterylne i w ogóle. Po cholerê to wszystko?}
-{287}{}{No tak... Pozwól, ¿e spytam ciê o coœ innego, Dan.}
-{288}{}{Dziêki za informacje, Dan. Do widzenia.}
-{289}{}{Synku, ode mnie mo¿esz dostaæ tylko dwie rzeczy: gówno albo gówno, wybór nale¿y do ciebie. A teraz spadaj.}
-{290}{}{Paniusiu, ode mnie mo¿esz dostaæ tylko dwie rzeczy: gówno albo gówno, wybór nale¿y do ciebie. A teraz spadaj.}
-{291}{}{No co ty? Przepraszam... Po prostu powiedz mi coœ...}
-{292}{}{Chcesz kawa³ek mnie na pami¹tkê? No to chodŸ...}
-{293}{}{Idê sobie! Do widzenia!}
-{294}{}{Trzeba by³o o tym pomyœleæ zanim sytuacja wymknê³a siê spod kontroli. Pierdol siê i wypierdalaj z mojego biura!}
-{295}{}{Potrafisz ostro gadaæ...}
-{296}{}{Wychodzê. Tylko siê nie rozp³acz. Do widzenia.}
-{297}{}{Nikt tak nie mówi do Dana McGrew i prze¿ywa...}
+{286}{}{No, tak. Bo gdy dostajemy Jet, to wÅ‚aÅ›nie on przelewa go z duÅ¼ych pojemnikÃ³w do ampuÅ‚ek. Wszyscy mu ufajÄ…, Å¼e nic nie schrzani. Zgrywa siÄ™, Å¼e wszystko u niego jest sterylne i w ogÃ³le. Po cholerÄ™ to wszystko?}
+{287}{}{No tak... PozwÃ³l, Å¼e spytam ciÄ™ o coÅ› innego, Dan.}
+{288}{}{DziÄ™ki za informacje, Dan. Do widzenia.}
+{289}{}{Synku, ode mnie moÅ¼esz dostaÄ‡ tylko dwie rzeczy: gÃ³wno albo gÃ³wno, wybÃ³r naleÅ¼y do ciebie. A teraz spadaj.}
+{290}{}{Paniusiu, ode mnie moÅ¼esz dostaÄ‡ tylko dwie rzeczy: gÃ³wno albo gÃ³wno, wybÃ³r naleÅ¼y do ciebie. A teraz spadaj.}
+{291}{}{No co ty? Przepraszam... Po prostu powiedz mi coÅ›...}
+{292}{}{Chcesz kawaÅ‚ek mnie na pamiÄ…tkÄ™? No to chodÅº...}
+{293}{}{IdÄ™ sobie! Do widzenia!}
+{294}{}{Trzeba byÅ‚o o tym pomyÅ›leÄ‡ zanim sytuacja wymknÄ™Å‚a siÄ™ spod kontroli. Pierdol siÄ™ i wypierdalaj z mojego biura!}
+{295}{}{Potrafisz ostro gadaÄ‡...}
+{296}{}{WychodzÄ™. Tylko siÄ™ nie rozpÅ‚acz. Do widzenia.}
+{297}{}{Nikt tak nie mÃ³wi do Dana McGrew i przeÅ¼ywa...}
 {298}{}{No to popatrz.}
 {299}{}{Ta, jasne... "Niebezpieczny Daniu".}
-{300}{}{Przepraszam, Dan, tak mi siê wymsknê³o. Tylko sobie ¿a-¿a-¿artujê. Tak! ¯artujê. Do widzenia...}
+{300}{}{Przepraszam, Dan, tak mi siÄ™ wymsknÄ™Å‚o. Tylko sobie Å¼a-Å¼a-Å¼artujÄ™. Tak! Å»artujÄ™. Do widzenia...}

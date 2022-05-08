@@ -1,30 +1,30 @@
-{100}{}{Widzisz grupê podró¿nych. S¹ uzbrojeni po zêby.}
-{101}{}{To wci¹¿ dobrze uzbrojeni nieznajomi.}
-{102}{}{Maj¹ lœni¹c¹, zadban¹ broñ a na piersi nosz¹ jak¹œ odznakê.}
-{103}{}{Przeczesujemy teren w poszukiwaniu ³owców niewolników. Mo¿esz masz jakieœ informacje na ich temat?}
-{104}{}{Witaj przybyszu. Dla twojego dobra mam nadziejê, ¿e nie jesteœ ³owc¹ niewolników.}
-{105}{}{Witaj przybyszu. Zajmij siê swoimi sprawami a unikniesz k³opotów.}
-{106}{}{Dla twojej informacji: Jesteœmy Stra¿nikami NCR - dbamy o bezpieczeñstwo tego œwiata.}
-{107}{}{Jesteœmy Stra¿nikami. Zajmujemy siê likwidowaniem ³owców niewolników.}
-{108}{}{Pieprzony ciemiê¿yciel. Ju¿ nie ¿yjesz!}
-{109}{}{Kurwa - ostrzega³em!}
-{110}{}{Tacy jak ty nie s¹ potrzebni na tym œwiecie - zdychaj.}
-{111}{}{Zawsze siêgaj¹ po spluwê. ¯eby chocia¿ raz któryœ siê podda³.}
-{112}{}{No i proszê. Sezon na leszcza!}
-{113}{}{Eee - Sprowadzê posi³ki. Zaraz wracam!}
-{114}{}{"Damy radê", powiedziaœ. Niech go szlag...}
+{100}{}{Widzisz grupÄ™ podrÃ³Å¼nych. SÄ… uzbrojeni po zÄ™by.}
+{101}{}{To wciÄ…Å¼ dobrze uzbrojeni nieznajomi.}
+{102}{}{MajÄ… lÅ›niÄ…cÄ…, zadbanÄ… broÅ„ a na piersi noszÄ… jakÄ…Å› odznakÄ™.}
+{103}{}{Przeczesujemy teren w poszukiwaniu Å‚owcÃ³w niewolnikÃ³w. MoÅ¼esz masz jakieÅ› informacje na ich temat?}
+{104}{}{Witaj przybyszu. Dla twojego dobra mam nadziejÄ™, Å¼e nie jesteÅ› Å‚owcÄ… niewolnikÃ³w.}
+{105}{}{Witaj przybyszu. Zajmij siÄ™ swoimi sprawami a unikniesz kÅ‚opotÃ³w.}
+{106}{}{Dla twojej informacji: JesteÅ›my StraÅ¼nikami NCR - dbamy o bezpieczeÅ„stwo tego Å›wiata.}
+{107}{}{JesteÅ›my StraÅ¼nikami. Zajmujemy siÄ™ likwidowaniem Å‚owcÃ³w niewolnikÃ³w.}
+{108}{}{Pieprzony ciemiÄ™Å¼yciel. JuÅ¼ nie Å¼yjesz!}
+{109}{}{Kurwa - ostrzegaÅ‚em!}
+{110}{}{Tacy jak ty nie sÄ… potrzebni na tym Å›wiecie - zdychaj.}
+{111}{}{Zawsze siÄ™gajÄ… po spluwÄ™. Å»eby chociaÅ¼ raz ktÃ³ryÅ› siÄ™ poddaÅ‚.}
+{112}{}{No i proszÄ™. Sezon na leszcza!}
+{113}{}{Eee - SprowadzÄ™ posiÅ‚ki. Zaraz wracam!}
+{114}{}{"Damy radÄ™", powiedziaÅ›. Niech go szlag...}
 {115}{}{Au-au-au-au-auuu!}
-{116}{}{Cholera! Spadam st¹d!}
-{117}{}{Nie chcê tu umrzeæ!}
-{118}{}{Widzê, ¿e masz tam ciekawy tatua¿, przybyszu. Mo¿e nale¿ysz do ³owców niewolników, co?}
+{116}{}{Cholera! Spadam stÄ…d!}
+{117}{}{Nie chcÄ™ tu umrzeÄ‡!}
+{118}{}{WidzÄ™, Å¼e masz tam ciekawy tatuaÅ¼, przybyszu. MoÅ¼e naleÅ¼ysz do Å‚owcÃ³w niewolnikÃ³w, co?}
 {119}{}{Tak.}
 {120}{}{Nie.}
-{121}{}{To niedobrze - dla ciebie. Jesteœmy Stra¿nikami NCR. Mo¿e obi³o ci siê o uszy? Zabijamy ³owców niewolników.}
-{122}{}{£¿esz jak pies. Braæ go!}
-{123}{}{Witaj przybyszu. Jestem Ezekiel, nale¿ê do Stra¿ników NCR. Ktoœ ty?}
-{124}{}{Nie twój interes.}
-{125}{}{Hej, chyba gdzieœ ju¿ s³ysza³em to imiê. Nale¿ysz do Stra¿ników, prawda?}
+{121}{}{To niedobrze - dla ciebie. JesteÅ›my StraÅ¼nikami NCR. MoÅ¼e obiÅ‚o ci siÄ™ o uszy? Zabijamy Å‚owcÃ³w niewolnikÃ³w.}
+{122}{}{ÅÅ¼esz jak pies. BraÄ‡ go!}
+{123}{}{Witaj przybyszu. Jestem Ezekiel, naleÅ¼Ä™ do StraÅ¼nikÃ³w NCR. KtoÅ› ty?}
+{124}{}{Nie twÃ³j interes.}
+{125}{}{Hej, chyba gdzieÅ› juÅ¼ sÅ‚yszaÅ‚em to imiÄ™. NaleÅ¼ysz do StraÅ¼nikÃ³w, prawda?}
 {126}{}{Tak.}
-{127}{}{Nie twój interes.}
-{128}{}{Niech i tak bêdzie. Grunt, ¿e nie jesteœ ³owc¹ niewolników. ¯egnaj.}
-{129}{}{Mi³o ciê poznaæ. Miej oczy szeroko otwarte. Do zobaczenia!}
+{127}{}{Nie twÃ³j interes.}
+{128}{}{Niech i tak bÄ™dzie. Grunt, Å¼e nie jesteÅ› Å‚owcÄ… niewolnikÃ³w. Å»egnaj.}
+{129}{}{MiÅ‚o ciÄ™ poznaÄ‡. Miej oczy szeroko otwarte. Do zobaczenia!}

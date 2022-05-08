@@ -1,5 +1,5 @@
-{100}{}{Al entrar en el pequeño pueblo, su nariz es asaltado por el familiar olor de los roedores. Se ven varias las ratas topo arremolinadas. Extrañamente, no parecen interesados en atacar a usted o a los campesinos que habitan aquí.}
-{101}{}{El pueblo parece estar vacío. El aire huele a podrido topo rata de los cadáveres.}
-{102}{}{El pueblo ha cambiado mucho desde su última visita.}
-{103}{}{Incluso más ha cambiado desde que se han pasado aquí. Parece que la protección de las ratas topo ha sido reemplazado con una pared.}
-{104}{}{Hey! Donde había que todo el mundo vaya?}
+{100}{}{Al entrar en el pequeÃ±o pueblo, su nariz es asaltado por el familiar olor de los roedores. Se ven varias las ratas topo arremolinadas. ExtraÃ±amente, no parecen interesados en atacar a usted o a los campesinos que habitan aquÃ­.}
+{101}{}{El pueblo parece estar vacÃ­o. El aire huele a podrido topo rata de los cadÃ¡veres.}
+{102}{}{El pueblo ha cambiado mucho desde su Ãºltima visita.}
+{103}{}{Incluso mÃ¡s ha cambiado desde que se han pasado aquÃ­. Parece que la protecciÃ³n de las ratas topo ha sido reemplazado con una pared.}
+{104}{}{Hey! Donde habÃ­a que todo el mundo vaya?}

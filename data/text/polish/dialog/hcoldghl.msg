@@ -1,36 +1,36 @@
 {100}{}{Widzisz starego, pomarszczonego ghula.}
-{101}{}{Widzisz jednego ze starych ghuli zamieszkuj¹cych ten dom.}
-{102}{}{Jestem taki zmêczony.}
-{103}{}{Mam ju¿ doœæ, doœæ czekania, doœæ czekania na cie-eee-bie.}
-{104}{}{Idziemy ju¿ spaæ?}
-{105}{}{Co tak strasznie œmierdzi? Ach, to ja!}
-{106}{}{Jest ju¿ czwarta? Co z t¹ kolacj¹!}
-{107}{}{Jej, ju¿ od prawie godziny nie z³ama³em sobie biodra!}
+{101}{}{Widzisz jednego ze starych ghuli zamieszkujÄ…cych ten dom.}
+{102}{}{Jestem taki zmÄ™czony.}
+{103}{}{Mam juÅ¼ doÅ›Ä‡, doÅ›Ä‡ czekania, doÅ›Ä‡ czekania na cie-eee-bie.}
+{104}{}{Idziemy juÅ¼ spaÄ‡?}
+{105}{}{Co tak strasznie Å›mierdzi? Ach, to ja!}
+{106}{}{Jest juÅ¼ czwarta? Co z tÄ… kolacjÄ…!}
+{107}{}{Jej, juÅ¼ od prawie godziny nie zÅ‚amaÅ‚em sobie biodra!}
 {108}{}{Ktos fie, kcie jest moja scenka?}
 {109}{}{Gdzie jedzenie?}
-{110}{}{Œmierci, przybywaj! Czekam na ciebie!}
-{111}{}{Hej, Billy! Cieszê siê, ¿e znów tu jesteœ.}
-{112}{}{Nie³atwo jest byæ starym.}
-{113}{}{Uuuups! Moje wnêtrznoœci!}
-{114}{}{Ma ktoœ czyst¹ pieluchê?}
-{115}{}{Móg³bym siê dzieliæ moj¹ wiedz¹, ale chwilowo nie mam ochoty.}
+{110}{}{Åšmierci, przybywaj! Czekam na ciebie!}
+{111}{}{Hej, Billy! CieszÄ™ siÄ™, Å¼e znÃ³w tu jesteÅ›.}
+{112}{}{NieÅ‚atwo jest byÄ‡ starym.}
+{113}{}{Uuuups! Moje wnÄ™trznoÅ›ci!}
+{114}{}{Ma ktoÅ› czystÄ… pieluchÄ™?}
+{115}{}{MÃ³gÅ‚bym siÄ™ dzieliÄ‡ mojÄ… wiedzÄ…, ale chwilowo nie mam ochoty.}
 {116}{}{Ach, te dzisiejsze ghule... phi!}
-{117}{}{Brak szacunku... nikt ju¿ dzisiaj nie okazuje nale¿ytego szacunku.}
-{118}{}{Pamiêtam starego Seta...}
-{119}{}{Ciekawe, jak siê powodzi staremu Jedowi w Gecko.}
-{120}{}{Lubisz mutanty? Bo ja lubiê.}
-{121}{}{Lubiê ziemniaki! Lubiê gotowane! Lubiê sma¿one!}
-{122}{}{Jestem g³odny!}
-{123}{}{Przyda³yby siê tutaj jakieœ roœlinki.}
-{124}{}{Nie lubiê przebywaæ na zewn¹trz.}
-{125}{}{Ta stara kopalnia uranu d³ugo ju¿ nie poci¹gnie.}
-{126}{}{Nie jesteœ chyba z Kryptopolis, co?}
-{127}{}{Pamiêtam bitwê ze Œwiec¹cymi pod Nekropolis... to by³y czasy...}
-{128}{}{Opowiem ci o tym, jak otwieraliœmy Kryptê...}
-{129}{}{...o czym to ja mówi³em?}
+{117}{}{Brak szacunku... nikt juÅ¼ dzisiaj nie okazuje naleÅ¼ytego szacunku.}
+{118}{}{PamiÄ™tam starego Seta...}
+{119}{}{Ciekawe, jak siÄ™ powodzi staremu Jedowi w Gecko.}
+{120}{}{Lubisz mutanty? Bo ja lubiÄ™.}
+{121}{}{LubiÄ™ ziemniaki! LubiÄ™ gotowane! LubiÄ™ smaÅ¼one!}
+{122}{}{Jestem gÅ‚odny!}
+{123}{}{PrzydaÅ‚yby siÄ™ tutaj jakieÅ› roÅ›linki.}
+{124}{}{Nie lubiÄ™ przebywaÄ‡ na zewnÄ…trz.}
+{125}{}{Ta stara kopalnia uranu dÅ‚ugo juÅ¼ nie pociÄ…gnie.}
+{126}{}{Nie jesteÅ› chyba z Kryptopolis, co?}
+{127}{}{PamiÄ™tam bitwÄ™ ze ÅšwiecÄ…cymi pod Nekropolis... to byÅ‚y czasy...}
+{128}{}{Opowiem ci o tym, jak otwieraliÅ›my KryptÄ™...}
+{129}{}{...o czym to ja mÃ³wiÅ‚em?}
 {130}{}{::ziewa::}
-{131}{}{::stêka::}
+{131}{}{::stÄ™ka::}
 {132}{}{Nie mam ci nic do powiedzenia!}
-{133}{}{Muszê siê zdrzemn¹æ.}
-{134}{}{Zimno jak jasna cholera, i goni¹ mnie wilki.}
-{135}{}{Psy merdaj¹ ogonami nawet parê godzin po œmierci!}
+{133}{}{MuszÄ™ siÄ™ zdrzemnÄ…Ä‡.}
+{134}{}{Zimno jak jasna cholera, i goniÄ… mnie wilki.}
+{135}{}{Psy merdajÄ… ogonami nawet parÄ™ godzin po Å›mierci!}

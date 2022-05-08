@@ -1,1 +1,1 @@
-{100}{}{A darabokból egy jelszólista állt össze.}
+{100}{}{A darabokbÃ³l egy jelszÃ³lista Ã¡llt Ã¶ssze.}

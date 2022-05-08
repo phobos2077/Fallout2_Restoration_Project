@@ -1,126 +1,126 @@
-{100}{}{Widzisz brudnego ale wygl¹daj¹cego na silnego mê¿czyznê.}
+{100}{}{Widzisz brudnego ale wyglÄ…dajÄ…cego na silnego mÄ™Å¼czyznÄ™.}
 {101}{}{Widzisz Connara.}
 {102}{}{Hej, ty! Co tu robisz!}
 {103}{}{Ani kroku dalej, przybyszu. Co tu robisz?}
 {104}{}{Zabijam kretoszczury.}
-{105}{}{A co ciê to obchodzi?}
+{105}{}{A co ciÄ™ to obchodzi?}
 {106}{}{Czemu ty krzyczy!}
-{107}{}{Za³o¿ê siê, ¿e przys³a³y ciê te pajace z Kryptopolis. Lepiej bêdzie jeœli od razu sobie st¹d pójdziesz. I nie wa¿ siê nikogo skrzywdziæ.}
-{108}{}{Có¿, na to ju¿ chyba trochê za póŸno.}
+{107}{}{ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e przysÅ‚aÅ‚y ciÄ™ te pajace z Kryptopolis. Lepiej bÄ™dzie jeÅ›li od razu sobie stÄ…d pÃ³jdziesz. I nie waÅ¼ siÄ™ nikogo skrzywdziÄ‡.}
+{108}{}{CÃ³Å¼, na to juÅ¼ chyba trochÄ™ za pÃ³Åºno.}
 {109}{}{Dlaczego?}
-{110}{}{Przykro mi, mam robotê do wykonania.}
-{111}{}{Te stworzenia to jedyne co powstrzymuje Kryptopolis przed zrobieniem z nas s³u¿¹cych.}
-{112}{}{Có¿, miasto zap³aci³o mi za wytêpienie potworów i to w³aœnie zamierzam zrobiæ.}
+{110}{}{Przykro mi, mam robotÄ™ do wykonania.}
+{111}{}{Te stworzenia to jedyne co powstrzymuje Kryptopolis przed zrobieniem z nas sÅ‚uÅ¼Ä…cych.}
+{112}{}{CÃ³Å¼, miasto zapÅ‚aciÅ‚o mi za wytÄ™pienie potworÃ³w i to wÅ‚aÅ›nie zamierzam zrobiÄ‡.}
 {113}{}{Tego mi nie powiedzieli.}
-{114}{}{Zap³acili mi za wytêpienie potworów, wiêc zosta³y wytêpione.}
-{115}{}{Odbi³o ci?! Dlaczego to robisz!}
-{116}{}{Potrzebujê pieniêdzy.}
-{117}{}{Wiedz, ¿e jeœli to zrobisz, przyjd¹ po nas i bêdziemy zgubieni.}
+{114}{}{ZapÅ‚acili mi za wytÄ™pienie potworÃ³w, wiÄ™c zostaÅ‚y wytÄ™pione.}
+{115}{}{OdbiÅ‚o ci?! Dlaczego to robisz!}
+{116}{}{PotrzebujÄ™ pieniÄ™dzy.}
+{117}{}{Wiedz, Å¼e jeÅ›li to zrobisz, przyjdÄ… po nas i bÄ™dziemy zgubieni.}
 {118}{}{To nie moja sprawa.}
-{119}{}{Wiêc ud³aw siê nimi! Wkrótce po nas przyjd¹, jesteœmy zgubieni.}
-{120}{}{Nie powiedzieli mi, ¿e o to im chodzi.}
-{121}{}{Ta. Có¿, i tak nie robiê interesów z takimi œmieciami jak wy.}
-{122}{}{Nie mo¿emy ci na to pozwoliæ.}
-{123}{}{Rób co uwa¿asz za konieczne.}
-{124}{}{I wierzysz im tak na s³owo? Musisz siê jeszcze du¿o nauczyæ o tym œwiecie.}
-{125}{}{Mogê wam w jakiœ sposób pomóc?}
-{126}{}{Ch³opcy z Kryptopolis nie nale¿¹ do najodwa¿niejszych. Jak tylko zwêsz¹ jak¹œ rozróbê podkulaj¹ ogon i wiej¹ do domu. Gdybyœmy mieli jak¹œ broñ, moglibyœmy trzymaæ ich na dystans.}
-{127}{}{Mo¿e mogê wam pomóc, ale broñ nie jest tania. Jakiej broni potrzebujecie?}
-{128}{}{[Przygl¹da ci siê z niepewnym uœmiechem.] Naprawdê chcesz nam pomóc, prawda? Dobrze, jeœli siê tego podejmujesz, to trochê karabinów powinno wystarczyæ, dziêki temu moglibyœmy zacz¹æ œci¹gaæ ich na odleg³oœæ. A jeœli naprawdê chcesz nam pomóc, to przynieœ nam trochê karabinków automatycznych, cztery powinny wystarczyæ. A, i jeszcze przyda³aby siê strzelba, na wypadek brudnej walki na ma³ej odleg³oœci.}
-{129}{}{Zobaczê co siê da zrobiæ. Ale, jak ju¿ s³ysza³eœ, broñ nie jest tania, wiêc bêd¹ mi potrzebne pieni¹dze.}
-{130}{}{Nie chcemy ciê tutaj. OdejdŸ.}
-{131}{}{Mo¿e jednak zmieniê zdanie. Jak mogê wam pomóc?}
-{132}{}{Ta. Có¿, i tak wkrótce was tu nie bêdzie.}
-{133}{}{Jakby mnie to obchodzi³o.}
-{134}{}{Ju¿ jesteœ! Masz dla nas broñ?}
-{135}{}{Mo¿esz mi jeszcze raz powiedzieæ czego potrzebujecie?}
-{136}{}{Tak, proszê bardzo.}
-{137}{}{Potrzebujemy czterech karabinów szturmowych i strzelby. Im szybciej mo¿esz je nam dostarczyæ, tym lepiej.}
-{138}{}{W porz¹dku.}
-{139}{}{Œwietnie! Dziêki tym maleñstwom, w ci¹gu kilku miesiêcy powinniœmy byæ w stanie zrobiæ coœ z tym miejscem. Naprawdê dziêki ci, hej, jeœli bêdzie ci potrzebne miejsce ¿eby odpocz¹æ, zawsze bêdziemy ciê tu mi³o witaæ.}
-{140}{}{Ca³a przyjemnoœæ po mojej stronie.}
-{141}{}{Witaj! U nas wszystko w porz¹dku. Planujemy w przysz³ym miesi¹cu powiêkszyæ nasz¹ Wioskê.}
-{142}{}{Witaj ponownie! Jak widzisz u nas wszystko w najlepszym porz¹dku. Rozejrzyj siê trochê jeœli masz czas.}
-{143}{}{Wci¹¿ budujemy. W przysz³ym miesi¹cu powinniœmy powiêkszyæ mury.}
-{144}{}{Witaj! Mi³o ciê znowu widzieæ. Nasza wioska znowu siê rozros³a.}
-{145}{}{Nie musimy siê ju¿ niczego obawiaæ ze strony Kryptopolis, wygl¹da, ¿e bêdziemy mogli ¿yæ w spokoju. W imieniu nas wszystkich dziêkujê ci.}
+{119}{}{WiÄ™c udÅ‚aw siÄ™ nimi! WkrÃ³tce po nas przyjdÄ…, jesteÅ›my zgubieni.}
+{120}{}{Nie powiedzieli mi, Å¼e o to im chodzi.}
+{121}{}{Ta. CÃ³Å¼, i tak nie robiÄ™ interesÃ³w z takimi Å›mieciami jak wy.}
+{122}{}{Nie moÅ¼emy ci na to pozwoliÄ‡.}
+{123}{}{RÃ³b co uwaÅ¼asz za konieczne.}
+{124}{}{I wierzysz im tak na sÅ‚owo? Musisz siÄ™ jeszcze duÅ¼o nauczyÄ‡ o tym Å›wiecie.}
+{125}{}{MogÄ™ wam w jakiÅ› sposÃ³b pomÃ³c?}
+{126}{}{ChÅ‚opcy z Kryptopolis nie naleÅ¼Ä… do najodwaÅ¼niejszych. Jak tylko zwÄ™szÄ… jakÄ…Å› rozrÃ³bÄ™ podkulajÄ… ogon i wiejÄ… do domu. GdybyÅ›my mieli jakÄ…Å› broÅ„, moglibyÅ›my trzymaÄ‡ ich na dystans.}
+{127}{}{MoÅ¼e mogÄ™ wam pomÃ³c, ale broÅ„ nie jest tania. Jakiej broni potrzebujecie?}
+{128}{}{[PrzyglÄ…da ci siÄ™ z niepewnym uÅ›miechem.] NaprawdÄ™ chcesz nam pomÃ³c, prawda? Dobrze, jeÅ›li siÄ™ tego podejmujesz, to trochÄ™ karabinÃ³w powinno wystarczyÄ‡, dziÄ™ki temu moglibyÅ›my zaczÄ…Ä‡ Å›ciÄ…gaÄ‡ ich na odlegÅ‚oÅ›Ä‡. A jeÅ›li naprawdÄ™ chcesz nam pomÃ³c, to przynieÅ› nam trochÄ™ karabinkÃ³w automatycznych, cztery powinny wystarczyÄ‡. A, i jeszcze przydaÅ‚aby siÄ™ strzelba, na wypadek brudnej walki na maÅ‚ej odlegÅ‚oÅ›ci.}
+{129}{}{ZobaczÄ™ co siÄ™ da zrobiÄ‡. Ale, jak juÅ¼ sÅ‚yszaÅ‚eÅ›, broÅ„ nie jest tania, wiÄ™c bÄ™dÄ… mi potrzebne pieniÄ…dze.}
+{130}{}{Nie chcemy ciÄ™ tutaj. OdejdÅº.}
+{131}{}{MoÅ¼e jednak zmieniÄ™ zdanie. Jak mogÄ™ wam pomÃ³c?}
+{132}{}{Ta. CÃ³Å¼, i tak wkrÃ³tce was tu nie bÄ™dzie.}
+{133}{}{Jakby mnie to obchodziÅ‚o.}
+{134}{}{JuÅ¼ jesteÅ›! Masz dla nas broÅ„?}
+{135}{}{MoÅ¼esz mi jeszcze raz powiedzieÄ‡ czego potrzebujecie?}
+{136}{}{Tak, proszÄ™ bardzo.}
+{137}{}{Potrzebujemy czterech karabinÃ³w szturmowych i strzelby. Im szybciej moÅ¼esz je nam dostarczyÄ‡, tym lepiej.}
+{138}{}{W porzÄ…dku.}
+{139}{}{Åšwietnie! DziÄ™ki tym maleÅ„stwom, w ciÄ…gu kilku miesiÄ™cy powinniÅ›my byÄ‡ w stanie zrobiÄ‡ coÅ› z tym miejscem. NaprawdÄ™ dziÄ™ki ci, hej, jeÅ›li bÄ™dzie ci potrzebne miejsce Å¼eby odpoczÄ…Ä‡, zawsze bÄ™dziemy ciÄ™ tu miÅ‚o witaÄ‡.}
+{140}{}{CaÅ‚a przyjemnoÅ›Ä‡ po mojej stronie.}
+{141}{}{Witaj! U nas wszystko w porzÄ…dku. Planujemy w przyszÅ‚ym miesiÄ…cu powiÄ™kszyÄ‡ naszÄ… WioskÄ™.}
+{142}{}{Witaj ponownie! Jak widzisz u nas wszystko w najlepszym porzÄ…dku. Rozejrzyj siÄ™ trochÄ™ jeÅ›li masz czas.}
+{143}{}{WciÄ…Å¼ budujemy. W przyszÅ‚ym miesiÄ…cu powinniÅ›my powiÄ™kszyÄ‡ mury.}
+{144}{}{Witaj! MiÅ‚o ciÄ™ znowu widzieÄ‡. Nasza wioska znowu siÄ™ rozrosÅ‚a.}
+{145}{}{Nie musimy siÄ™ juÅ¼ niczego obawiaÄ‡ ze strony Kryptopolis, wyglÄ…da, Å¼e bÄ™dziemy mogli Å¼yÄ‡ w spokoju. W imieniu nas wszystkich dziÄ™kujÄ™ ci.}
 {146}{}{Tylko nie zabijaj tu niczego, prostaku.}
-{147}{}{Coœ ty do cholery ...?!?! Ty pieprzony zdrajco! Nienawidzê ciê!!!}
+{147}{}{CoÅ› ty do cholery ...?!?! Ty pieprzony zdrajco! NienawidzÄ™ ciÄ™!!!}
 {148}{}{Upssss...}
-{149}{}{Wypuœæ mnie st¹d!!!}
-{150}{}{Co ja ci kiedykolwiek zrobi³em?}
-{151}{}{Pomó¿ mi!}
-{152}{}{Oczywiœcie. Proszê, to wszystko co mo¿emy na to przeznaczyæ. [Podaje ci 5000$.] Mo¿e jestem cholernym g³upcem, ¿e powierzam je obcemu, ale jesteœ nasz¹ jedyn¹ nadziej¹ na zachowanie wolnoœci. Porozmawiaj ze Starym Joe na podmurzu Kryptopolis. Przewa¿nie znajdziesz go w barze lub w jego pobli¿u. On bêdzie wiedzia³ co zrobiæ.}
-{153}{}{Ju¿ idê.}
-{154}{}{Mogê ci zadaæ kilka pytañ?}
-{155}{}{Naturalnie, co chcesz wiedzieæ?}
-{156}{}{Sk¹d siê wziê³y te kretoszczury i czemu nie s¹ agresywne?}
-{157}{}{Ju¿ nic, czeœæ.}
-{158}{}{Có¿, to doœæ dziwna historia. Widzisz, pewnego dnia zjawi³a siê tu banda ghuli, be³kotali coœ o “odnowieniu” i rozdawali te dziwne amulety. [Pokazuje ci amulet Ankh.] Te wielkie gryzonie przysz³y z nimi, a ghule powiedzieli, ¿e od tej pory bêd¹ nas broni³y. Ghule odeszli prawdopodobnie z powrotem do Gecko, a gryzonie zosta³y tutaj, do dzisiaj. Jak ju¿ mówi³em, naprawdê dziwne. Trochê to k³opotliwe ci¹gle po nich sprz¹taæ, ale cholera, jeœli trzymaj¹ Kryptopolis z daleka od nas, to chyba mogê siê pogodziæ z odrobin¹ szczurzego gówna.}
-{159}{}{Bardzo interesuj¹ce. Czy mogê dostaæ jeden z tych amuletów?}
-{160}{}{Pewnie, dali ich nam od groma. Nie wiemy za bardzo, co z nimi wszystkimi zrobiæ. Proszê, weŸ jeden.}
-{161}{}{Dziêkujê! Do widzenia.}
-{162}{}{Nie, ale mam dla was dobre wieœci: Uda³o mi siê przekonaæ radê Kryptopolis ¿eby nie ruszali waszej wioski.}
-{163}{}{Co? Serio zamierzaj¹ nas tak po prostu zostawiæ w spokoju? Nie rozumiem... jak ty to? Przysiêgam, jeœli mnie wkrêcasz...}
-{164}{}{To prawda, wierz mi. Uda³o mi siê poci¹gn¹æ za kilka sznurków i zawrzeæ z nimi umowê, mniejsza o szczegó³y. Najwa¿niejsze, ¿e ty i twoi ludzie jesteœcie teraz bezpieczni.}
-{165}{}{Dziêkujê ci z g³êbi serca... yyy... Tak przy okazji, ci¹gle nie wiem jak siê nazywasz.}
-{166}{}{Mam na imiê }
-{167}{}{Dziêkujê ci, }
-{168}{}{, ale co z tymi pieniêdzmi które ci da³em na zakup broni?}
-{169}{}{Zawsze bêdziemy ciê tu mile witaæ! Do zobaczenia.}
-{170}{}{Tak, ale s¹dzê, ¿e nie bêdziecie ich potrzebowaæ. Przynajmniej nie przeciwko Kryptopolis. Widzisz, uda³o mi siê przekonaæ radê Kryptopolis ¿eby nie ruszali waszej wioski.}
-{171}{}{Zrobiê to. Ale mam parê pytañ zanim wyruszê.}
-{172}{}{Niewa¿ne. Czeœæ.}
-{173}{}{Jeszcze nie. Wrócê, kiedy je zdobêdê.}
-{174}{}{Dziêki! Do zobaczenia.}
-{200}{}{Tak siê sk³ada, ¿e mam ze sob¹ to czego wam trzeba.}
-{201}{}{Jak siê okazuje, noszê je ju¿ ze sob¹. Myœlê, ¿e mogê pozbyæ siê kilku. Ale jesteœ pewien, ¿e to najlepszy sposób ¿eby to rozwi¹zaæ?}
-{202}{}{Mam broñ której potrzebujesz, ale s¹dzê, ¿e mo¿e byæ lepszy sposób. W radzie Kryptopolis zasiada pewien rozs¹dny cz³owiek, Starszy Radny McClure. Na pewno uda mi siê go przekonaæ, ¿eby nak³oni³ radê do pokojowego rozwi¹zania.}
-{203}{}{S¹dzê, ¿e mo¿e byæ lepszy sposób. W radzie Kryptopolis zasiada pewien rozs¹dny cz³owiek, Starszy Radny McClure. Na pewno uda mi siê go przekonaæ, ¿eby nak³oni³ radê do pokojowego rozwi¹zania.}
-{205}{}{Ha! Naprawdê myœlisz, ¿e któregokolwiek z wielmo¿nych cz³onków rady obchodzi co siê z nami stanie? Nie b¹dŸ taki naiwny mój przyjacielu, tym draniom z Kryptopolis nie wolno ufaæ. A teraz proszê ciê, znajdŸ Joe na podmurzu Kryptopolis. Jeœli nie bêdzie go w barze, to pewnie jest gdzieœ w jego pobli¿u. Stary Joe bêdzie wiedzia³ co zrobiæ. Jemu mo¿esz zaufaæ. Proszê, œpiesz siê.}
-{206}{}{Dobra. Zg³oszê siê jak bêdê mieæ jakieœ nowiny.}
-{210}{}{Zaufaj mi, rozpatrzyliœmy alternatywê, ale te dranie z Kryptopolis odpowiadaj¹ tylko na przemoc. A teraz, dasz nam broñ? Zap³acê za nie 5000$. Wolnoœæ jest bezcenna.}
-{211}{}{Zrobisz to?! Œwietnie. Proszê, dam ci 5000$ za tê broñ. To wszystkie nasze pieni¹dze, ale nie ma za wysokiej ceny za wolnoœæ. Wyœwiadczasz nam ogromna przys³ugê, zawsze bêdziesz tu mi³ym goœciem.}
-{212}{}{W porz¹dku. Proszê, to wasza broñ.}
-{213}{}{Nie, myœlê, ¿e jednak nie. Do widzenia.}
-{214}{}{¯adna cena nie jest za wysoka, ta? Có¿, wiem jak dzia³a ekonomia. Wzrost popytu powoduje wzrost cen.}
+{149}{}{WypuÅ›Ä‡ mnie stÄ…d!!!}
+{150}{}{Co ja ci kiedykolwiek zrobiÅ‚em?}
+{151}{}{PomÃ³Å¼ mi!}
+{152}{}{OczywiÅ›cie. ProszÄ™, to wszystko co moÅ¼emy na to przeznaczyÄ‡. [Podaje ci 5000$.] MoÅ¼e jestem cholernym gÅ‚upcem, Å¼e powierzam je obcemu, ale jesteÅ› naszÄ… jedynÄ… nadziejÄ… na zachowanie wolnoÅ›ci. Porozmawiaj ze Starym Joe na podmurzu Kryptopolis. PrzewaÅ¼nie znajdziesz go w barze lub w jego pobliÅ¼u. On bÄ™dzie wiedziaÅ‚ co zrobiÄ‡.}
+{153}{}{JuÅ¼ idÄ™.}
+{154}{}{MogÄ™ ci zadaÄ‡ kilka pytaÅ„?}
+{155}{}{Naturalnie, co chcesz wiedzieÄ‡?}
+{156}{}{SkÄ…d siÄ™ wziÄ™Å‚y te kretoszczury i czemu nie sÄ… agresywne?}
+{157}{}{JuÅ¼ nic, czeÅ›Ä‡.}
+{158}{}{CÃ³Å¼, to doÅ›Ä‡ dziwna historia. Widzisz, pewnego dnia zjawiÅ‚a siÄ™ tu banda ghuli, beÅ‚kotali coÅ› o â€œodnowieniuâ€ i rozdawali te dziwne amulety. [Pokazuje ci amulet Ankh.] Te wielkie gryzonie przyszÅ‚y z nimi, a ghule powiedzieli, Å¼e od tej pory bÄ™dÄ… nas broniÅ‚y. Ghule odeszli prawdopodobnie z powrotem do Gecko, a gryzonie zostaÅ‚y tutaj, do dzisiaj. Jak juÅ¼ mÃ³wiÅ‚em, naprawdÄ™ dziwne. TrochÄ™ to kÅ‚opotliwe ciÄ…gle po nich sprzÄ…taÄ‡, ale cholera, jeÅ›li trzymajÄ… Kryptopolis z daleka od nas, to chyba mogÄ™ siÄ™ pogodziÄ‡ z odrobinÄ… szczurzego gÃ³wna.}
+{159}{}{Bardzo interesujÄ…ce. Czy mogÄ™ dostaÄ‡ jeden z tych amuletÃ³w?}
+{160}{}{Pewnie, dali ich nam od groma. Nie wiemy za bardzo, co z nimi wszystkimi zrobiÄ‡. ProszÄ™, weÅº jeden.}
+{161}{}{DziÄ™kujÄ™! Do widzenia.}
+{162}{}{Nie, ale mam dla was dobre wieÅ›ci: UdaÅ‚o mi siÄ™ przekonaÄ‡ radÄ™ Kryptopolis Å¼eby nie ruszali waszej wioski.}
+{163}{}{Co? Serio zamierzajÄ… nas tak po prostu zostawiÄ‡ w spokoju? Nie rozumiem... jak ty to? PrzysiÄ™gam, jeÅ›li mnie wkrÄ™casz...}
+{164}{}{To prawda, wierz mi. UdaÅ‚o mi siÄ™ pociÄ…gnÄ…Ä‡ za kilka sznurkÃ³w i zawrzeÄ‡ z nimi umowÄ™, mniejsza o szczegÃ³Å‚y. NajwaÅ¼niejsze, Å¼e ty i twoi ludzie jesteÅ›cie teraz bezpieczni.}
+{165}{}{DziÄ™kujÄ™ ci z gÅ‚Ä™bi serca... yyy... Tak przy okazji, ciÄ…gle nie wiem jak siÄ™ nazywasz.}
+{166}{}{Mam na imiÄ™ }
+{167}{}{DziÄ™kujÄ™ ci, }
+{168}{}{, ale co z tymi pieniÄ™dzmi ktÃ³re ci daÅ‚em na zakup broni?}
+{169}{}{Zawsze bÄ™dziemy ciÄ™ tu mile witaÄ‡! Do zobaczenia.}
+{170}{}{Tak, ale sÄ…dzÄ™, Å¼e nie bÄ™dziecie ich potrzebowaÄ‡. Przynajmniej nie przeciwko Kryptopolis. Widzisz, udaÅ‚o mi siÄ™ przekonaÄ‡ radÄ™ Kryptopolis Å¼eby nie ruszali waszej wioski.}
+{171}{}{ZrobiÄ™ to. Ale mam parÄ™ pytaÅ„ zanim wyruszÄ™.}
+{172}{}{NiewaÅ¼ne. CzeÅ›Ä‡.}
+{173}{}{Jeszcze nie. WrÃ³cÄ™, kiedy je zdobÄ™dÄ™.}
+{174}{}{DziÄ™ki! Do zobaczenia.}
+{200}{}{Tak siÄ™ skÅ‚ada, Å¼e mam ze sobÄ… to czego wam trzeba.}
+{201}{}{Jak siÄ™ okazuje, noszÄ™ je juÅ¼ ze sobÄ…. MyÅ›lÄ™, Å¼e mogÄ™ pozbyÄ‡ siÄ™ kilku. Ale jesteÅ› pewien, Å¼e to najlepszy sposÃ³b Å¼eby to rozwiÄ…zaÄ‡?}
+{202}{}{Mam broÅ„ ktÃ³rej potrzebujesz, ale sÄ…dzÄ™, Å¼e moÅ¼e byÄ‡ lepszy sposÃ³b. W radzie Kryptopolis zasiada pewien rozsÄ…dny czÅ‚owiek, Starszy Radny McClure. Na pewno uda mi siÄ™ go przekonaÄ‡, Å¼eby nakÅ‚oniÅ‚ radÄ™ do pokojowego rozwiÄ…zania.}
+{203}{}{SÄ…dzÄ™, Å¼e moÅ¼e byÄ‡ lepszy sposÃ³b. W radzie Kryptopolis zasiada pewien rozsÄ…dny czÅ‚owiek, Starszy Radny McClure. Na pewno uda mi siÄ™ go przekonaÄ‡, Å¼eby nakÅ‚oniÅ‚ radÄ™ do pokojowego rozwiÄ…zania.}
+{205}{}{Ha! NaprawdÄ™ myÅ›lisz, Å¼e ktÃ³regokolwiek z wielmoÅ¼nych czÅ‚onkÃ³w rady obchodzi co siÄ™ z nami stanie? Nie bÄ…dÅº taki naiwny mÃ³j przyjacielu, tym draniom z Kryptopolis nie wolno ufaÄ‡. A teraz proszÄ™ ciÄ™, znajdÅº Joe na podmurzu Kryptopolis. JeÅ›li nie bÄ™dzie go w barze, to pewnie jest gdzieÅ› w jego pobliÅ¼u. Stary Joe bÄ™dzie wiedziaÅ‚ co zrobiÄ‡. Jemu moÅ¼esz zaufaÄ‡. ProszÄ™, Å›piesz siÄ™.}
+{206}{}{Dobra. ZgÅ‚oszÄ™ siÄ™ jak bÄ™dÄ™ mieÄ‡ jakieÅ› nowiny.}
+{210}{}{Zaufaj mi, rozpatrzyliÅ›my alternatywÄ™, ale te dranie z Kryptopolis odpowiadajÄ… tylko na przemoc. A teraz, dasz nam broÅ„? ZapÅ‚acÄ™ za nie 5000$. WolnoÅ›Ä‡ jest bezcenna.}
+{211}{}{Zrobisz to?! Åšwietnie. ProszÄ™, dam ci 5000$ za tÄ™ broÅ„. To wszystkie nasze pieniÄ…dze, ale nie ma za wysokiej ceny za wolnoÅ›Ä‡. WyÅ›wiadczasz nam ogromna przysÅ‚ugÄ™, zawsze bÄ™dziesz tu miÅ‚ym goÅ›ciem.}
+{212}{}{W porzÄ…dku. ProszÄ™, to wasza broÅ„.}
+{213}{}{Nie, myÅ›lÄ™, Å¼e jednak nie. Do widzenia.}
+{214}{}{Å»adna cena nie jest za wysoka, ta? CÃ³Å¼, wiem jak dziaÅ‚a ekonomia. Wzrost popytu powoduje wzrost cen.}
 {215}{}{[dalej]}
 {216}{}{[Zaatakuj.]}
-{217}{}{S³uchaj, rozpoczynanie wojny z Kryptopolis, to ¿adna odpowiedŸ. Jasne, mo¿e jesteœcie w stanie obroniæ siê przez kilka miesiêcy, mo¿e nawet lat, ale to nie potrwa wiecznie. A w miêdzy czasie, wielu z was niepotrzebnie starci ¿ycie. Ale, je¿eli uda mi siê przekonaæ chocia¿ jednego z cz³onków rady Kryptopolis, to mo¿e da³oby siê rozwi¹zaæ to pokojowo.}
-{218}{}{Hmm... W porz¹dku, ufam, ¿e masz na uwadze nasze dobro. Jeœli naprawdê wierzysz, ¿e uda ci siê przekonaæ jednego z cz³onków ich rady, to jak najbardziej, spróbuj. Ale, wed³ug mnie lepiej porozmawiaæ ze Starym Joe i zobaczyæ co on ma do powiedzenia. Znajdziesz go w barze na podmurzu lub w jego okolicy. Powodzenia. Wszyscy na ciebie liczymy.}
-{220}{}{Powinienem by³ wiedzieæ, jesteœ jak inni pozbawieni serca oportuniœci. To ¿eby uciec od takich ludzi jak ty stworzyliœmy t¹ spo³ecznoœæ. Wiesz co? Zapomnij o tym. Nie potrzebujemy pomocy kogoœ takiego jak ty. A teraz, sugeruje ci odejœæ.}
-{221}{}{Powinienem by³ wiedzieæ, jesteœ jak inni pozbawieni serca oportuniœci. To ¿eby uciec od takich ludzi jak ty stworzyliœmy t¹ spo³ecznoœæ. [Wzdycha.] Dobra, dorzucimy tysi¹c ekstra, ale to zostawia nas z niczym. Teraz dasz nam broñ?}
-{222}{}{Pewnie, interesy z tob¹ to przyjemnoœæ. Czeœæ.}
-{223}{}{Wydaje mi siê, ¿e mogê zawrzeæ lepsz¹ umowê gdzieindziej. Do widzenia.}
-{225}{}{Œwietnie. Proszê, dam ci 5000$ za tê broñ. To wszystkie nasze pieni¹dze, ale nie ma za wysokiej ceny za wolnoœæ. Wyœwiadczasz nam ogromna przys³ugê, zawsze bêdziesz tu mi³ym goœciem.}
-{226}{}{W porz¹dku, uwa¿aj na siebie.}
-{300}{}{Jakieœ wieœci w naszej sprawie?}
-{301}{}{Jeszcze nie. Zg³oszê siê jak czegoœ siê dowiem.}
-{302}{}{Dobre wieœci: Uda³o mi siê przekonaæ radê Kryptopolis, ¿eby nie ruszali waszej wioski.}
-{310}{}{Jeœli chcesz siê rozstaæ z tymi karabinami, które nosisz, jesteœmy gotowi ci za nie zap³aciæ 5000$.}
-{311}{}{Umowa stoi. Broñ jest wasza.}
-{312}{}{Nie ma mowy. To niebezpieczny œwiat i potrzebuje wszelkiej broni jaka wpadnie mi w rêce. Do widzenia.}
-{400}{}{Dziêkujê przyjacielu. Z t¹ broni¹ mamy szansê!}
-{401}{}{Witaj ponownie. Dziêki tobie odparliœmy atak patrolu z Kryptopolis. Nie bêd¹ nas ju¿ wiêcej niepokoiæ.}
-{500}{}{Nie drêcz mnie.}
-{600}{}{Mo¿esz mi przypomnieæ imiê waszego kontaktu w Kryptopolis?}
-{601}{}{Stary Joe. Jak sugeruje imiê to naprawdê stary goœæ. Znajdziesz go w barze na podmurzu, albo gdzieœ w pobli¿u.}
-{602}{}{Dobra, dziêki.}
-{603}{}{Kim on w³aœciwie jest?}
-{604}{}{Stary Joe, to prawdziwa figura. Twierdzi, ¿e ma ponad sto lat, ale nie wiem czy mu wierzyæ. Twierdzi wiele rzeczy. Mówi nawet, ¿e kiedyœ pomóg³ ocaliæ œwiat. Ten goœæ ma pe³no takich historyjek... i z tego co siê orientuje wiêkszoœæ z nich to gówno prawda, ale przynajmniej s¹ ciekawe. Ma oko na sprawy w Kryptopolis dla nas i nieŸle sobie radzi bior¹c pod uwagê, to ¿e jest stary jak brud i prawie œlepy.}
-{605}{}{Interesuj¹ce. Muszê ju¿ iœæ.}
-{606}{}{Mówi, ¿e pomóg³ ocaliæ œwiat? Wiesz, jestem tak jakby na misji ratowania œwiata... no, przynajmniej misji ratowania *mojego* œwiata.}
-{610}{}{Jasne. Dobrze dla ciebie. Có¿, trzymaj siê tego. Tylko nie zapomnij nam pomóc.}
-{611}{}{Nie zapomnê. Do zobaczenia.}
-{612}{}{Pewnie w koñcu zapomnê. Dostaje tyle misji, ¿e ciê¿ko mi o wszystkich pamiêtaæ. Gdyby nie Pip-Boy, kto wie co by ze mn¹ by³o? Do zobaczenia.}
-{700}{}{A tak, oczywiœcie. Proszê. [Oddajesz mu 5000$.]}
-{701}{}{Przepraszam. Koszta operacyjne je poch³onê³y.}
-{702}{}{Cholera, mam za ma³o ¿eby wam oddaæ. Musia³o siê rozejœæ. Zwrócê wam tak szybko jak to tylko bêdzie mo¿liwe.}
-{710}{}{Dziêki. Proszê. [Wrêcza ci spowrotem 2500$.] Zatrzymaj je. Przynajmniej tak mo¿emy Ci siê odwdziêczyæ.}
-{720}{}{Rozumiem. Có¿, jeœli kupi³y nasz¹ wolnoœæ, warto by³o. Jeszcze raz dziêkujê za wszystko.}
-{730}{}{S³uchaj, co powiesz na zwrócenie nam po³owy? Masz 2500$?}
-{731}{}{Jasne, proszê. [Oddajesz mu 2500$.]}
+{217}{}{SÅ‚uchaj, rozpoczynanie wojny z Kryptopolis, to Å¼adna odpowiedÅº. Jasne, moÅ¼e jesteÅ›cie w stanie obroniÄ‡ siÄ™ przez kilka miesiÄ™cy, moÅ¼e nawet lat, ale to nie potrwa wiecznie. A w miÄ™dzy czasie, wielu z was niepotrzebnie starci Å¼ycie. Ale, jeÅ¼eli uda mi siÄ™ przekonaÄ‡ chociaÅ¼ jednego z czÅ‚onkÃ³w rady Kryptopolis, to moÅ¼e daÅ‚oby siÄ™ rozwiÄ…zaÄ‡ to pokojowo.}
+{218}{}{Hmm... W porzÄ…dku, ufam, Å¼e masz na uwadze nasze dobro. JeÅ›li naprawdÄ™ wierzysz, Å¼e uda ci siÄ™ przekonaÄ‡ jednego z czÅ‚onkÃ³w ich rady, to jak najbardziej, sprÃ³buj. Ale, wedÅ‚ug mnie lepiej porozmawiaÄ‡ ze Starym Joe i zobaczyÄ‡ co on ma do powiedzenia. Znajdziesz go w barze na podmurzu lub w jego okolicy. Powodzenia. Wszyscy na ciebie liczymy.}
+{220}{}{Powinienem byÅ‚ wiedzieÄ‡, jesteÅ› jak inni pozbawieni serca oportuniÅ›ci. To Å¼eby uciec od takich ludzi jak ty stworzyliÅ›my tÄ… spoÅ‚ecznoÅ›Ä‡. Wiesz co? Zapomnij o tym. Nie potrzebujemy pomocy kogoÅ› takiego jak ty. A teraz, sugeruje ci odejÅ›Ä‡.}
+{221}{}{Powinienem byÅ‚ wiedzieÄ‡, jesteÅ› jak inni pozbawieni serca oportuniÅ›ci. To Å¼eby uciec od takich ludzi jak ty stworzyliÅ›my tÄ… spoÅ‚ecznoÅ›Ä‡. [Wzdycha.] Dobra, dorzucimy tysiÄ…c ekstra, ale to zostawia nas z niczym. Teraz dasz nam broÅ„?}
+{222}{}{Pewnie, interesy z tobÄ… to przyjemnoÅ›Ä‡. CzeÅ›Ä‡.}
+{223}{}{Wydaje mi siÄ™, Å¼e mogÄ™ zawrzeÄ‡ lepszÄ… umowÄ™ gdzieindziej. Do widzenia.}
+{225}{}{Åšwietnie. ProszÄ™, dam ci 5000$ za tÄ™ broÅ„. To wszystkie nasze pieniÄ…dze, ale nie ma za wysokiej ceny za wolnoÅ›Ä‡. WyÅ›wiadczasz nam ogromna przysÅ‚ugÄ™, zawsze bÄ™dziesz tu miÅ‚ym goÅ›ciem.}
+{226}{}{W porzÄ…dku, uwaÅ¼aj na siebie.}
+{300}{}{JakieÅ› wieÅ›ci w naszej sprawie?}
+{301}{}{Jeszcze nie. ZgÅ‚oszÄ™ siÄ™ jak czegoÅ› siÄ™ dowiem.}
+{302}{}{Dobre wieÅ›ci: UdaÅ‚o mi siÄ™ przekonaÄ‡ radÄ™ Kryptopolis, Å¼eby nie ruszali waszej wioski.}
+{310}{}{JeÅ›li chcesz siÄ™ rozstaÄ‡ z tymi karabinami, ktÃ³re nosisz, jesteÅ›my gotowi ci za nie zapÅ‚aciÄ‡ 5000$.}
+{311}{}{Umowa stoi. BroÅ„ jest wasza.}
+{312}{}{Nie ma mowy. To niebezpieczny Å›wiat i potrzebuje wszelkiej broni jaka wpadnie mi w rÄ™ce. Do widzenia.}
+{400}{}{DziÄ™kujÄ™ przyjacielu. Z tÄ… broniÄ… mamy szansÄ™!}
+{401}{}{Witaj ponownie. DziÄ™ki tobie odparliÅ›my atak patrolu z Kryptopolis. Nie bÄ™dÄ… nas juÅ¼ wiÄ™cej niepokoiÄ‡.}
+{500}{}{Nie drÄ™cz mnie.}
+{600}{}{MoÅ¼esz mi przypomnieÄ‡ imiÄ™ waszego kontaktu w Kryptopolis?}
+{601}{}{Stary Joe. Jak sugeruje imiÄ™ to naprawdÄ™ stary goÅ›Ä‡. Znajdziesz go w barze na podmurzu, albo gdzieÅ› w pobliÅ¼u.}
+{602}{}{Dobra, dziÄ™ki.}
+{603}{}{Kim on wÅ‚aÅ›ciwie jest?}
+{604}{}{Stary Joe, to prawdziwa figura. Twierdzi, Å¼e ma ponad sto lat, ale nie wiem czy mu wierzyÄ‡. Twierdzi wiele rzeczy. MÃ³wi nawet, Å¼e kiedyÅ› pomÃ³gÅ‚ ocaliÄ‡ Å›wiat. Ten goÅ›Ä‡ ma peÅ‚no takich historyjek... i z tego co siÄ™ orientuje wiÄ™kszoÅ›Ä‡ z nich to gÃ³wno prawda, ale przynajmniej sÄ… ciekawe. Ma oko na sprawy w Kryptopolis dla nas i nieÅºle sobie radzi biorÄ…c pod uwagÄ™, to Å¼e jest stary jak brud i prawie Å›lepy.}
+{605}{}{InteresujÄ…ce. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{606}{}{MÃ³wi, Å¼e pomÃ³gÅ‚ ocaliÄ‡ Å›wiat? Wiesz, jestem tak jakby na misji ratowania Å›wiata... no, przynajmniej misji ratowania *mojego* Å›wiata.}
+{610}{}{Jasne. Dobrze dla ciebie. CÃ³Å¼, trzymaj siÄ™ tego. Tylko nie zapomnij nam pomÃ³c.}
+{611}{}{Nie zapomnÄ™. Do zobaczenia.}
+{612}{}{Pewnie w koÅ„cu zapomnÄ™. Dostaje tyle misji, Å¼e ciÄ™Å¼ko mi o wszystkich pamiÄ™taÄ‡. Gdyby nie Pip-Boy, kto wie co by ze mnÄ… byÅ‚o? Do zobaczenia.}
+{700}{}{A tak, oczywiÅ›cie. ProszÄ™. [Oddajesz mu 5000$.]}
+{701}{}{Przepraszam. Koszta operacyjne je pochÅ‚onÄ™Å‚y.}
+{702}{}{Cholera, mam za maÅ‚o Å¼eby wam oddaÄ‡. MusiaÅ‚o siÄ™ rozejÅ›Ä‡. ZwrÃ³cÄ™ wam tak szybko jak to tylko bÄ™dzie moÅ¼liwe.}
+{710}{}{DziÄ™ki. ProszÄ™. [WrÄ™cza ci spowrotem 2500$.] Zatrzymaj je. Przynajmniej tak moÅ¼emy Ci siÄ™ odwdziÄ™czyÄ‡.}
+{720}{}{Rozumiem. CÃ³Å¼, jeÅ›li kupiÅ‚y naszÄ… wolnoÅ›Ä‡, warto byÅ‚o. Jeszcze raz dziÄ™kujÄ™ za wszystko.}
+{730}{}{SÅ‚uchaj, co powiesz na zwrÃ³cenie nam poÅ‚owy? Masz 2500$?}
+{731}{}{Jasne, proszÄ™. [Oddajesz mu 2500$.]}
 {732}{}{Przepraszam, ale nie mam nawet tyle.}
-{740}{}{Dziêkujê ci, }
+{740}{}{DziÄ™kujÄ™ ci, }
 {741}{}{. Nie zapomnimy Ci tego.}
-{750}{}{Rozumiem... trudno, nie przejmuj siê. Pieni¹dze nie s¹ tak wa¿ne jak nasza wolnoœæ. Dziêkuje Ci.}
+{750}{}{Rozumiem... trudno, nie przejmuj siÄ™. PieniÄ…dze nie sÄ… tak waÅ¼ne jak nasza wolnoÅ›Ä‡. DziÄ™kuje Ci.}

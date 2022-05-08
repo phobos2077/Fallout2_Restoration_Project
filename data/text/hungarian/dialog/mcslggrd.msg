@@ -1,29 +1,29 @@
-{100}{}{Valami ?rnek látszik.}
+{100}{}{Valami ?rnek lÃ¡tszik.}
 {101}{}{You see a Protector.}
-{150}{}{A halovány b?r és a megnagyobbodott pupillák ellenére hétköznapi ember benyomását kelti.}
-{200}{}{Az úristenit!}
-{201}{}{Azt a mindenit, ez fájhatott...}
-{210}{}{Tudod, hogy a hátsó ajtót is használhatod.}
+{150}{}{A halovÃ¡ny b?r Ã©s a megnagyobbodott pupillÃ¡k ellenÃ©re hÃ©tkÃ¶znapi ember benyomÃ¡sÃ¡t kelti.}
+{200}{}{Az Ãºristenit!}
+{201}{}{Azt a mindenit, ez fÃ¡jhatott...}
+{210}{}{Tudod, hogy a hÃ¡tsÃ³ ajtÃ³t is hasznÃ¡lhatod.}
 {211}{}{Hahahahaha!}
-{212}{}{Inkább nem mondok semmit.}
-{213}{}{Ó istenem! Az agyamra mész! Meg ne tudjam, hogy még egyszer csinálod!}
-{214}{}{Micsoda egy idióta!}
+{212}{}{InkÃ¡bb nem mondok semmit.}
+{213}{}{Ã“ istenem! Az agyamra mÃ©sz! Meg ne tudjam, hogy mÃ©g egyszer csinÃ¡lod!}
+{214}{}{Micsoda egy idiÃ³ta!}
 {215}{}{Hahahaha!}
-{220}{}{Azt az utasítást kaptuk, hogy az összes felszínlakót egyenesen vigyük Vegeirhez. Nem esik bántódásod. Kérlek, kövess minket.}
-{221}{}{Menjetek a fenébe! Nem megyek sehova.}
-{222}{}{Válaszolhatnál néhány kérdésemre...}
+{220}{}{Azt az utasÃ­tÃ¡st kaptuk, hogy az Ã¶sszes felszÃ­nlakÃ³t egyenesen vigyÃ¼k Vegeirhez. Nem esik bÃ¡ntÃ³dÃ¡sod. KÃ©rlek, kÃ¶vess minket.}
+{221}{}{Menjetek a fenÃ©be! Nem megyek sehova.}
+{222}{}{VÃ¡laszolhatnÃ¡l nÃ©hÃ¡ny kÃ©rdÃ©semre...}
 {223}{}{Hmm?}
-{224}{}{Hadd cizelláljam kicsit az el?z? kijelentésemet. Nem esik bántódásod, hacsak NEM ÁLLSZ ELLENT. Ellenállsz tehát?}
-{225}{}{Igen, ki merem jelenteni, hogy teljes mértékben ellenállok.}
-{226}{}{Nem. Tudom, hogy az ellenállás felesleges. Veled megyek.}
-{230}{}{Vegeir minden kérdésedre válaszol. Kérlek, gyere velünk!}
-{231}{}{Oké, szó nélkül veletek megyek...}
-{232}{}{Nem, nem megyek sehová, amíg nem kapok választ egy-két kérdésemre!}
-{240}{}{Hmm... Kiváncsi lennék, hogy a kivétel er?síti-e a szabályt. Nem, nem, nem... Vegeir azt mondta, hogy az ÖSSZES felszínlakót vigyük, még a szellemi fogyatékosokat is. Na, akkor induljunk!}
-{241}{}{[Elindulsz az ?rökkel.]}
-{242}{}{[Mindet megölöd, és hagyod, hogy az istenük gondosan megválogassa, melyikükre tart igényt.]}
-{250}{}{Sajnálom, erre nem mehetsz.}
-{251}{}{Ez a bejárat a munkásoknak van fenntartva.}
+{224}{}{Hadd cizellÃ¡ljam kicsit az el?z? kijelentÃ©semet. Nem esik bÃ¡ntÃ³dÃ¡sod, hacsak NEM ÃLLSZ ELLENT. EllenÃ¡llsz tehÃ¡t?}
+{225}{}{Igen, ki merem jelenteni, hogy teljes mÃ©rtÃ©kben ellenÃ¡llok.}
+{226}{}{Nem. Tudom, hogy az ellenÃ¡llÃ¡s felesleges. Veled megyek.}
+{230}{}{Vegeir minden kÃ©rdÃ©sedre vÃ¡laszol. KÃ©rlek, gyere velÃ¼nk!}
+{231}{}{OkÃ©, szÃ³ nÃ©lkÃ¼l veletek megyek...}
+{232}{}{Nem, nem megyek sehovÃ¡, amÃ­g nem kapok vÃ¡laszt egy-kÃ©t kÃ©rdÃ©semre!}
+{240}{}{Hmm... KivÃ¡ncsi lennÃ©k, hogy a kivÃ©tel er?sÃ­ti-e a szabÃ¡lyt. Nem, nem, nem... Vegeir azt mondta, hogy az Ã–SSZES felszÃ­nlakÃ³t vigyÃ¼k, mÃ©g a szellemi fogyatÃ©kosokat is. Na, akkor induljunk!}
+{241}{}{[Elindulsz az ?rÃ¶kkel.]}
+{242}{}{[Mindet megÃ¶lÃ¶d, Ã©s hagyod, hogy az istenÃ¼k gondosan megvÃ¡logassa, melyikÃ¼kre tart igÃ©nyt.]}
+{250}{}{SajnÃ¡lom, erre nem mehetsz.}
+{251}{}{Ez a bejÃ¡rat a munkÃ¡soknak van fenntartva.}
 {252}{}{It takes too much effort to set up the ramps for just one person.}
-{253}{}{Ha távozni szeretnél, beszélj Vegeirrel!}
-{260}{}{Jó'vanna...}
+{253}{}{Ha tÃ¡vozni szeretnÃ©l, beszÃ©lj Vegeirrel!}
+{260}{}{JÃ³'vanna...}

@@ -1,40 +1,40 @@
-{100}{}{To kupa szmat, pod którymi byæ mo¿e znajduje siê cz³owiek.}
-{101}{}{Widzisz Ratcha, zapewne w³aœnie siê iskaj¹cego.}
-{102}{}{To mo¿e byæ cz³owiek. To mo¿e byæ mutant. Wszystko, co mo¿esz z pewnoœci¹ powiedzieæ, to to, ¿e naprawdê, ale to naprawdê okropnie œmierdzi.}
-{103}{}{Z³om sprzedajê, z³om sprzedajê! Przejrzyj to, zaoferuj coœ.}
+{100}{}{To kupa szmat, pod ktÃ³rymi byÄ‡ moÅ¼e znajduje siÄ™ czÅ‚owiek.}
+{101}{}{Widzisz Ratcha, zapewne wÅ‚aÅ›nie siÄ™ iskajÄ…cego.}
+{102}{}{To moÅ¼e byÄ‡ czÅ‚owiek. To moÅ¼e byÄ‡ mutant. Wszystko, co moÅ¼esz z pewnoÅ›ciÄ… powiedzieÄ‡, to to, Å¼e naprawdÄ™, ale to naprawdÄ™ okropnie Å›mierdzi.}
+{103}{}{ZÅ‚om sprzedajÄ™, zÅ‚om sprzedajÄ™! Przejrzyj to, zaoferuj coÅ›.}
 {104}{}{Jasne, jak chcesz.}
 {105}{}{Yy...yyy.}
-{106}{}{A wiec, co jest na sprzeda¿?}
-{107}{}{Wygl¹dasz na kogoœ, kto potrafi dobrze u¿yæ swoich r¹k. Masz rêce, prawda?}
-{108}{}{Mam 5$. S³ysza³eœ jakieœ ciekawe plotki?}
-{109}{}{¯egnaj.}
-{110}{}{Widzisz to tam? To jest moja ulubienica - nazywa siê Edna. Widzisz, nazywam wszystkie moje rzeczy - s¹ dla mnie jak dzieci. Nie znoszê ich sprzedawaæ, ale muszê jeœæ.}
-{111}{}{Zadzierasz ze wszystkimi moimi dzieæmi!}
-{112}{}{Ta, jasne. Masz pi¹taka. S³ysza³eœ jakieœ ciekawe plotki?}
-{113}{}{O-kej czy nie, jesteœ po prostu szczególny! Mo¿e bêdê kupowaæ gdzie indziej.}
-{114}{}{Pozwól, ¿e przejrzê twój towar jeszcze raz.}
-{115}{}{Chyba ja i Edna ju¿ sobie pójdziemy.}
-{116}{}{Có¿, dziêki Bogu, ¿e ten nieznajomy nie zabra³ ciebie dziecko... Moje rzeczy, rozumiesz, s¹ dla mnie jak dzieci.}
+{106}{}{A wiec, co jest na sprzedaÅ¼?}
+{107}{}{WyglÄ…dasz na kogoÅ›, kto potrafi dobrze uÅ¼yÄ‡ swoich rÄ…k. Masz rÄ™ce, prawda?}
+{108}{}{Mam 5$. SÅ‚yszaÅ‚eÅ› jakieÅ› ciekawe plotki?}
+{109}{}{Å»egnaj.}
+{110}{}{Widzisz to tam? To jest moja ulubienica - nazywa siÄ™ Edna. Widzisz, nazywam wszystkie moje rzeczy - sÄ… dla mnie jak dzieci. Nie znoszÄ™ ich sprzedawaÄ‡, ale muszÄ™ jeÅ›Ä‡.}
+{111}{}{Zadzierasz ze wszystkimi moimi dzieÄ‡mi!}
+{112}{}{Ta, jasne. Masz piÄ…taka. SÅ‚yszaÅ‚eÅ› jakieÅ› ciekawe plotki?}
+{113}{}{O-kej czy nie, jesteÅ› po prostu szczegÃ³lny! MoÅ¼e bÄ™dÄ™ kupowaÄ‡ gdzie indziej.}
+{114}{}{PozwÃ³l, Å¼e przejrzÄ™ twÃ³j towar jeszcze raz.}
+{115}{}{Chyba ja i Edna juÅ¼ sobie pÃ³jdziemy.}
+{116}{}{CÃ³Å¼, dziÄ™ki Bogu, Å¼e ten nieznajomy nie zabraÅ‚ ciebie dziecko... Moje rzeczy, rozumiesz, sÄ… dla mnie jak dzieci.}
 {117}{}{Yy - jasne.}
-{118}{}{Có¿, chyba ju¿ sobie pójdê.}
-{119}{}{Potrafiê naprawiæ ró¿ne rodzaje sprzêtu. Mam dopalacz, nazwa³em go Klaudia, pasuje do wiêkszoœci wozów - daje im o wiele wiêcej mocy. Tylko 1000$. Interesuje ciê to?}
-{120}{}{G³upi, ju¿ o tym rozmawialiœmy.}
+{118}{}{CÃ³Å¼, chyba juÅ¼ sobie pÃ³jdÄ™.}
+{119}{}{PotrafiÄ™ naprawiÄ‡ rÃ³Å¼ne rodzaje sprzÄ™tu. Mam dopalacz, nazwaÅ‚em go Klaudia, pasuje do wiÄ™kszoÅ›ci wozÃ³w - daje im o wiele wiÄ™cej mocy. Tylko 1000$. Interesuje ciÄ™ to?}
+{120}{}{GÅ‚upi, juÅ¼ o tym rozmawialiÅ›my.}
 {121}{}{Jasne, Klaudia jest w moim typie - czy jak to tam.}
-{122}{}{Mo¿e coœ innego.}
-{123}{}{S³ysza³em, ¿e tu, w mieœcie, jest doktorek, który mówi, ¿e ma magiczny lek. Ja go jednak nie biorê...}
-{124}{}{Poza tym jest Peklowany Bob. Stary piernik mówi, ¿e odkry³ kopalnie z³ota...}
-{125}{}{Panna Dorotka i Toto by³a tu w ostatnim tygodniu, szuka³a jakichœ czêœci do naprawienia reaktora. Nie mog³em jej jednak pomóc...}
-{126}{}{W mieœcie mówi siê, ¿e to, co przytrafi³o siê Westinowi, wcale nie by³o wypadkiem. Niektórzy myœl¹, ¿e jest zbyt du¿o podejrzanych obcych dooko³a...}
-{127}{}{Dziêki za kasê, ale nie wiem ju¿ nic wiêcej.}
-{128}{}{Oto nastêpny pi¹tak.}
-{129}{}{Mogê zobaczyæ twój towar?}
-{130}{}{Có¿, dziêki za informacje.}
-{131}{}{Có¿, daj mi szeœæ godzin. Do tego czasu powinienem ju¿ to zrobiæ.}
-{132}{}{Zanim to zrobisz, zabiorê ci jeszcze trochê twojego czasu.}
-{133}{}{W porz¹dku. Zobaczymy siê póŸniej.}
-{134}{}{S³uchaj, jak bêdziesz mieæ kasê, to wróæ. Zapewne wci¹¿ bêdê j¹ mia³.}
-{135}{}{W porz¹dku.}
-{136}{}{¯egnaj.}
-{137}{}{Gotowe! Klaudia jest ju¿ zainstalowana.}
-{138}{}{Daj mi jeszcze trochê czasu. Wci¹¿ pracujê nad t¹ oporn¹ dziewczynk¹.}
-{139}{}{Hej! Nie s¹dzê, ¿ebym mia³ dla ciebie jakiœ wolny mózg.}
+{122}{}{MoÅ¼e coÅ› innego.}
+{123}{}{SÅ‚yszaÅ‚em, Å¼e tu, w mieÅ›cie, jest doktorek, ktÃ³ry mÃ³wi, Å¼e ma magiczny lek. Ja go jednak nie biorÄ™...}
+{124}{}{Poza tym jest Peklowany Bob. Stary piernik mÃ³wi, Å¼e odkryÅ‚ kopalnie zÅ‚ota...}
+{125}{}{Panna Dorotka i Toto byÅ‚a tu w ostatnim tygodniu, szukaÅ‚a jakichÅ› czÄ™Å›ci do naprawienia reaktora. Nie mogÅ‚em jej jednak pomÃ³c...}
+{126}{}{W mieÅ›cie mÃ³wi siÄ™, Å¼e to, co przytrafiÅ‚o siÄ™ Westinowi, wcale nie byÅ‚o wypadkiem. NiektÃ³rzy myÅ›lÄ…, Å¼e jest zbyt duÅ¼o podejrzanych obcych dookoÅ‚a...}
+{127}{}{DziÄ™ki za kasÄ™, ale nie wiem juÅ¼ nic wiÄ™cej.}
+{128}{}{Oto nastÄ™pny piÄ…tak.}
+{129}{}{MogÄ™ zobaczyÄ‡ twÃ³j towar?}
+{130}{}{CÃ³Å¼, dziÄ™ki za informacje.}
+{131}{}{CÃ³Å¼, daj mi szeÅ›Ä‡ godzin. Do tego czasu powinienem juÅ¼ to zrobiÄ‡.}
+{132}{}{Zanim to zrobisz, zabiorÄ™ ci jeszcze trochÄ™ twojego czasu.}
+{133}{}{W porzÄ…dku. Zobaczymy siÄ™ pÃ³Åºniej.}
+{134}{}{SÅ‚uchaj, jak bÄ™dziesz mieÄ‡ kasÄ™, to wrÃ³Ä‡. Zapewne wciÄ…Å¼ bÄ™dÄ™ jÄ… miaÅ‚.}
+{135}{}{W porzÄ…dku.}
+{136}{}{Å»egnaj.}
+{137}{}{Gotowe! Klaudia jest juÅ¼ zainstalowana.}
+{138}{}{Daj mi jeszcze trochÄ™ czasu. WciÄ…Å¼ pracujÄ™ nad tÄ… opornÄ… dziewczynkÄ….}
+{139}{}{Hej! Nie sÄ…dzÄ™, Å¼ebym miaÅ‚ dla ciebie jakiÅ› wolny mÃ³zg.}

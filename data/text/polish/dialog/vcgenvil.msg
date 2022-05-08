@@ -1,19 +1,19 @@
-{100}{}{Widzisz wieœniaka.}
-{101}{}{Widzisz wieœniaka.}
-{102}{}{Czeœæ.}
-{103}{}{Dzieñ dobry.}
+{100}{}{Widzisz wieÅ›niaka.}
+{101}{}{Widzisz wieÅ›niaka.}
+{102}{}{CzeÅ›Ä‡.}
+{103}{}{DzieÅ„ dobry.}
 {104}{}{Witaj w naszej wiosce.}
-{105}{}{Potwory nas broni¹.}
+{105}{}{Potwory nas broniÄ….}
 {106}{}{Witaj.}
-{107}{}{Wkrótce bêd¹ nam potrzebne te karabiny.}
-{108}{}{Proszê poœpiesz siê i przynieœ nam broñ.}
-{109}{}{Dlaczego zabiliœcie potwory? Teraz Kryptopolis przyjdzie po nas!}
-{110}{}{Wynoœ siê i nie wracaj!!}
-{111}{}{IdŸ do diab³a!}
-{112}{}{Teraz jesteœmy bezpieczni.}
-{113}{}{Masz nasz¹ wdziêcznoœæ.}
-{114}{}{Zawsze bêdziemy ciê pamiêtaæ.}
-{115}{}{IdŸ porozmawiaæ z Connarem.}
-{116}{}{Ha! Powinniœcie widzieæ jak uciekali!}
-{117}{}{Miejski Patrol wia³ z podkulonymi ogonami. Ha, daliœmy im popaliæ!}
-{118}{}{Kto by pomyœla³, ¿e ci Kryptopolis to takie tchórze!}
+{107}{}{WkrÃ³tce bÄ™dÄ… nam potrzebne te karabiny.}
+{108}{}{ProszÄ™ poÅ›piesz siÄ™ i przynieÅ› nam broÅ„.}
+{109}{}{Dlaczego zabiliÅ›cie potwory? Teraz Kryptopolis przyjdzie po nas!}
+{110}{}{WynoÅ› siÄ™ i nie wracaj!!}
+{111}{}{IdÅº do diabÅ‚a!}
+{112}{}{Teraz jesteÅ›my bezpieczni.}
+{113}{}{Masz naszÄ… wdziÄ™cznoÅ›Ä‡.}
+{114}{}{Zawsze bÄ™dziemy ciÄ™ pamiÄ™taÄ‡.}
+{115}{}{IdÅº porozmawiaÄ‡ z Connarem.}
+{116}{}{Ha! PowinniÅ›cie widzieÄ‡ jak uciekali!}
+{117}{}{Miejski Patrol wiaÅ‚ z podkulonymi ogonami. Ha, daliÅ›my im popaliÄ‡!}
+{118}{}{Kto by pomyÅ›laÅ‚, Å¼e ci Kryptopolis to takie tchÃ³rze!}

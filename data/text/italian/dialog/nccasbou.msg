@@ -3,9 +3,9 @@
 {151}{}{Vedi un buttafuori del casino'. Sembra enorme. E arrabbiato.}
 {152}{}{Vedi un buttafuori del casino'. Ti guarda con sospetto.}
 {153}{}{Vedi un buttafuori del casino'. Pensavi che solo i mutanti potessero essere cosi' grossi.}
-{200}{}{Uh… devi toglierti quell'armatura... beh... come non detto.}
-{201}{}{Uh, signore…o signora… dovrebbe togliersi quell'armatura...uh, come non detto.}
-{202}{}{Signore…signora…non puo' indossare quell'armatura mentre si trova nel casino'...uh, a meno che lei non lo desideri. Lasciamo stare.}
+{200}{}{Uhâ€¦ devi toglierti quell'armatura... beh... come non detto.}
+{201}{}{Uh, signoreâ€¦o signoraâ€¦ dovrebbe togliersi quell'armatura...uh, come non detto.}
+{202}{}{Signoreâ€¦signoraâ€¦non puo' indossare quell'armatura mentre si trova nel casino'...uh, a meno che lei non lo desideri. Lasciamo stare.}
 {205}{}{Uh, perche' si muove cosi' silenziosamente, signore?}
 {206}{}{Uh, e' in missione segreta, signore?}
 {210}{}{Uh, perche' si muove cosi' silenziosamente, signora?}
@@ -28,7 +28,7 @@
 {260}{}{Dolcezza, con un corpo come quello, non riusciresti a passare inosservata nemmeno in un ospizio per ciechi.}
 {265}{}{Selvaggio, farai meglio a mettere via quell'arma IMMEDIATAMENTE.}
 {270}{}{Selvaggio, farai meglio a smetterla di muoverti furtivamente... SUBITO.}
-{275}{}{Ehi, ehi…Myron! Era da un po' che non ti si vedeva fuori dal laboratorio.}
+{275}{}{Ehi, ehiâ€¦Myron! Era da un po' che non ti si vedeva fuori dal laboratorio.}
 {276}{}{Sei qui per provare un po' della nuova merce, Myron?}
 {277}{}{Ehi! Entra, Myron.}
 {280}{}{Niente mutanti. Lui aspetta fuori.}

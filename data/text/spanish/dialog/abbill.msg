@@ -1,54 +1,54 @@
 {100}{}{Ves a Bill el mercader.}
 {101}{}{Ves a un mercader de aspecto viejo.}
-{200}{}{Hola, viajero. Nombre es Bill. ¿Qué puedo hacer por ti?}
-{201}{}{Bienvenido de nuevo. ¿Quieres algo más?}
+{200}{}{Hola, viajero. Nombre es Bill. Â¿QuÃ© puedo hacer por ti?}
+{201}{}{Bienvenido de nuevo. Â¿Quieres algo mÃ¡s?}
 {202}{}{Vamos a comerciar.}
-{203}{}{He oído que eres el hombre con quien hablar de las caravanas.}
-{204}{}{No importa. Adiós.}
-{210}{}{Digamos, que he notado que se han acumulado muchos equipos y objetos viejos aquí en la Abadía. ¿Supongo que no hasencontrado nada ... especial, durante tu tiempo aquí?}
-{211}{}{Heh, entonces lo notaste, ¿eh? Sí, la gente de Abbey tiene un poco de fascinación con cualquier cosa antes de la guerra,
-  especialmente si está relacionado con la tecnología. Han formado una especie de religión extravagante a su alrededor. No lo entiendo del todo,
-  yo mismo, pero son buenas personas y pagan un buen dinero por cualquier cosa antes de la guerra que logré tener en mis manos. Pero de todos modos,
-  en cuanto a algo especial ... hmm, [Él mira a Marcus.] Es gracioso que preguntes, podría tener algo que
-  interesaría a tu amigo aquí.}
-{212}{}{Heh, entonces lo notaste, ¿eh? Sí, la gente de Abbey tiene un poco de fascinación con cualquier cosa antes de la guerra,
-  especialmente si está relacionado con la tecnología. Han formado una especie de religión extravagante a su alrededor. No lo entiendo del todo,
-  yo mismo, pero son buenas personas y pagan un buen dinero por cualquier cosa antes de la guerra que logré tener en mis manos. Pero de todos modos,
-  en cuanto a algo especial ... hmm, [Echó un vistazo a tu fiesta.] Lo siento, no creo que tenga nada especial que encuentres
-  útil en este momento.}
-{213}{}{Oh, bien. Déjame ver lo que tienes a la venta.}
-{214}{}{Eso está bien. Deja que te pregunte algo más.}
-{215}{}{¿Como cuales?}
-{216}{}{Verá, hace poco apareció una caravana que afirmaba haber venido del sur profundo. Dijeron que habrían
-  sido atacado por algunos de los viles mutantes (recurriendo a Marcus) sin ofender, gran tipo. De todos modos, hicieron mucho alardear
-  acerca de cómo habían desperdiciado todos los muties. Reclamó que había habido casi una docena de ellos, y llamé tonterías. Pero resulta
-  tenían alguna prueba.}
-{217}{}{¿En serio? ¿Qué fue eso?}
-{218}{}{Un conjunto descomunal de armadura mutante que habían logrado salvar de uno de los cadáveres. Por supuesto, por lo que sé,
-  se lo robó a los huesos de un mutie muerto hace mucho tiempo que encontraron en las ruinas, pero ¿quién sabe? De todos modos, no fueron
-  ansioso por seguir arrastrando lo pesado, así que me lo ofrecieron por poco dinero. No sabía lo que haría
-  con eso, pero pensé que un trato un trato.}
-{219}{}{Bueno, estoy seguro de que Marcus podría beneficiarse de esto. ¿Cuanto por esto?}
-{220}{}{Eso es interesante. Bueno, Marcus aquí es lo suficientemente duro. No creo que necesitemos ese artículo. Déjame preguntarte
-  algo más.}
-{221}{}{Bueno, este chico malo podría fundirse fácilmente para hacer tres o cuatro conjuntos de armadura de metal. Digamos $ 3000.}
+{203}{}{He oÃ­do que eres el hombre con quien hablar de las caravanas.}
+{204}{}{No importa. AdiÃ³s.}
+{210}{}{Digamos, que he notado que se han acumulado muchos equipos y objetos viejos aquÃ­ en la AbadÃ­a. Â¿Supongo que no hasencontrado nada ... especial, durante tu tiempo aquÃ­?}
+{211}{}{Heh, entonces lo notaste, Â¿eh? SÃ­, la gente de Abbey tiene un poco de fascinaciÃ³n con cualquier cosa antes de la guerra,
+Â  especialmente si estÃ¡ relacionado con la tecnologÃ­a. Han formado una especie de religiÃ³n extravagante a su alrededor. No lo entiendo del todo,
+Â  yo mismo, pero son buenas personas y pagan un buen dinero por cualquier cosa antes de la guerra que logrÃ© tener en mis manos. Pero de todos modos,
+Â  en cuanto a algo especial ... hmm, [Ã‰l mira a Marcus.] Es gracioso que preguntes, podrÃ­a tener algo que
+Â  interesarÃ­a a tu amigo aquÃ­.}
+{212}{}{Heh, entonces lo notaste, Â¿eh? SÃ­, la gente de Abbey tiene un poco de fascinaciÃ³n con cualquier cosa antes de la guerra,
+Â  especialmente si estÃ¡ relacionado con la tecnologÃ­a. Han formado una especie de religiÃ³n extravagante a su alrededor. No lo entiendo del todo,
+Â  yo mismo, pero son buenas personas y pagan un buen dinero por cualquier cosa antes de la guerra que logrÃ© tener en mis manos. Pero de todos modos,
+Â  en cuanto a algo especial ... hmm, [EchÃ³ un vistazo a tu fiesta.] Lo siento, no creo que tenga nada especial que encuentres
+Â  Ãºtil en este momento.}
+{213}{}{Oh, bien. DÃ©jame ver lo que tienes a la venta.}
+{214}{}{Eso estÃ¡ bien. Deja que te pregunte algo mÃ¡s.}
+{215}{}{Â¿Como cuales?}
+{216}{}{VerÃ¡, hace poco apareciÃ³ una caravana que afirmaba haber venido del sur profundo. Dijeron que habrÃ­an
+Â  sido atacado por algunos de los viles mutantes (recurriendo a Marcus) sin ofender, gran tipo. De todos modos, hicieron mucho alardear
+Â  acerca de cÃ³mo habÃ­an desperdiciado todos los muties. ReclamÃ³ que habÃ­a habido casi una docena de ellos, y llamÃ© tonterÃ­as. Pero resulta
+Â  tenÃ­an alguna prueba.}
+{217}{}{Â¿En serio? Â¿QuÃ© fue eso?}
+{218}{}{Un conjunto descomunal de armadura mutante que habÃ­an logrado salvar de uno de los cadÃ¡veres. Por supuesto, por lo que sÃ©,
+Â  se lo robÃ³ a los huesos de un mutie muerto hace mucho tiempo que encontraron en las ruinas, pero Â¿quiÃ©n sabe? De todos modos, no fueron
+Â  ansioso por seguir arrastrando lo pesado, asÃ­ que me lo ofrecieron por poco dinero. No sabÃ­a lo que harÃ­a
+Â  con eso, pero pensÃ© que un trato un trato.}
+{219}{}{Bueno, estoy seguro de que Marcus podrÃ­a beneficiarse de esto. Â¿Cuanto por esto?}
+{220}{}{Eso es interesante. Bueno, Marcus aquÃ­ es lo suficientemente duro. No creo que necesitemos ese artÃ­culo. DÃ©jame preguntarte
+Â  algo mÃ¡s.}
+{221}{}{Bueno, este chico malo podrÃ­a fundirse fÃ¡cilmente para hacer tres o cuatro conjuntos de armadura de metal. Digamos $ 3000.}
 {222}{}{Tengo suficiente para eso.}
-{223}{}{Creo que voy a pasar por ahora. Déjeme preguntarle otra cosa.}
-{224}{}{Bien entonces. Esto nos va a llevar a dos de nosotros para mover esto, así que déjame ayudarte a que se adapte a tu amigo aquí.}
+{223}{}{Creo que voy a pasar por ahora. DÃ©jeme preguntarle otra cosa.}
+{224}{}{Bien entonces. Esto nos va a llevar a dos de nosotros para mover esto, asÃ­ que dÃ©jame ayudarte a que se adapte a tu amigo aquÃ­.}
 {225}{}{[HECHO]}
 {226}{}{Oye, esto encaja muy bien!}
-{300}{}{Podría saber una cosa o dos. ¿Qué querías saber?}
-{301}{}{¿Con qué frecuencia se reabastece?}
-{302}{}{¿Las caravanas están contratando?}
-{303}{}{Pensándolo mejor, tengo que ir.}
-{304}{}{Recibo un nuevo envío de suministros dos veces al mes. Francamente, me gustaría que vinieran con más frecuencia, pero solo estamos en una
-  ruta comercial menor, así que supongo que es lo mejor que podemos obtener.}
-{305}{}{No estoy muy seguro. Por lo general, los que pasan por aquí están bastante bien equipados y no están realmente interesados en
- dando vueltas por mucho tiempo. Pero si buscas conectar con uno de ellos, me dirigiría a Redding o incluso a NCR.
+{300}{}{PodrÃ­a saber una cosa o dos. Â¿QuÃ© querÃ­as saber?}
+{301}{}{Â¿Con quÃ© frecuencia se reabastece?}
+{302}{}{Â¿Las caravanas estÃ¡n contratando?}
+{303}{}{PensÃ¡ndolo mejor, tengo que ir.}
+{304}{}{Recibo un nuevo envÃ­o de suministros dos veces al mes. Francamente, me gustarÃ­a que vinieran con mÃ¡s frecuencia, pero solo estamos en una
+Â  ruta comercial menor, asÃ­ que supongo que es lo mejor que podemos obtener.}
+{305}{}{No estoy muy seguro. Por lo general, los que pasan por aquÃ­ estÃ¡n bastante bien equipados y no estÃ¡n realmente interesados en
+ dando vueltas por mucho tiempo. Pero si buscas conectar con uno de ellos, me dirigirÃ­a a Redding o incluso a NCR.
  Tienen caravanas bastante activas y siempre se necesita ayuda.}
-{306}{}{Interesante. Tenía curiosidad por algo más.}
+{306}{}{Interesante. TenÃ­a curiosidad por algo mÃ¡s.}
 {307}{}{Gracias. Vamos a comerciar.}
-{308}{}{Bien, gracias por la información. Nos vemos.}
-{400}{}{¿Conseguiste todo lo que necesitabas?}
-{401}{}{La verdad, me gustaría echar otro vistazo a tu mercancía si no es molestia.}
-{402}{}{Sí, lo hice. Hasta luego.}
+{308}{}{Bien, gracias por la informaciÃ³n. Nos vemos.}
+{400}{}{Â¿Conseguiste todo lo que necesitabas?}
+{401}{}{La verdad, me gustarÃ­a echar otro vistazo a tu mercancÃ­a si no es molestia.}
+{402}{}{SÃ­, lo hice. Hasta luego.}

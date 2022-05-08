@@ -1,143 +1,143 @@
 {100}{}{You see a very active old man.}
 {101}{}{You see Grisham.}
 {102}{}{Nem tudod hova tenni, de ismer?snek t?nik.}
-{151}{}{Mondtam már, hogy húzzon innen!}
+{151}{}{Mondtam mÃ¡r, hogy hÃºzzon innen!}
 {152}{}{Muhahahaha!}
 {153}{}{Menjen innen!}
 {154}{}{Dolgom van!}
-{155}{}{Tudtam, hogy fura egy lányom van.}
-{156}{}{Különböz? emberek, különböz? ízlések...}
-{157}{}{Asszem, mindjárt rosszul leszek.}
+{155}{}{Tudtam, hogy fura egy lÃ¡nyom van.}
+{156}{}{KÃ¼lÃ¶nbÃ¶z? emberek, kÃ¼lÃ¶nbÃ¶z? Ã­zlÃ©sek...}
+{157}{}{Asszem, mindjÃ¡rt rosszul leszek.}
 {158}{}{Tudtam, hogy fura egy fiam van.}
-{159}{}{Bánjon jól a gyermekemmel.}
-{160}{}{Gondolom most már egy a család.}
-{161}{}{Bánjon jól a gyermekemmel.}
-{162}{}{Grisham-nek hívnak. Üdvözlet a mészárszéken. Felszed vagy lead?}
-{163}{}{Azt hiszem, inkább felszednék. Néhány utazáshoz szükséges holmira lenne szükségem.}
-{164}{}{Nincs rá egy hangyányi esély, hogy látott valahol egy aranyórát heverni?}
-{165}{}{Miben segíthetek?}
-{166}{}{Szeretnék vásárolni a híres szárított húsából.}
-{168}{}{Mondana valami közelebbit a mészárszékr?l?}
-{169}{}{Látom, az aszály még nem befolyásolta komolyan az üzletet.}
-{170}{}{Tudtam, hogy menni fog. Nézzük csak, akkor 1000 pénzzel tartozom a munkáért. Sajnos }
-{171}{}{ brahmin odaveszett a gondatlansága miatt. Darabonként 100 dolcsival számolva a jutalma }
-{172}{}{ dollár. Eszébe ne jusson, hogy szépítgeti a megölt brahminok számát. Az egyik segédem messzir?l figyelte az eseményeket.}
-{173}{}{Nekem nem mondta, hogy az elpusztult brahminok miatt kevesebb pénzt kapok!}
-{174}{}{Na, idefigyelj, te hátulróljöv?, aszott kis tet?. Figyelj a szavamra! Ez volt az utsó alkalom, hogy palira vettél.}
-{175}{}{Köszi, papa. Öröm volt együtt dolgozni.}
-{176}{}{Hogy merészeli idetolni a képét? A gyávasága miatt tíz brahmint vesztettem. Ha amúgy a kártérítésen törné a fejét, 1500 dolcsival elsimíthatjuk a dolgot.}
-{177}{}{Azok a brahminok nem értek többet ezernél.}
-{178}{}{Nincs annyi pénzem, de ha lenne sem adnám egy ilyen pitiáner alaknak.}
-{179}{}{A szobámban hagytam a pénzem. Hadd menjek el érte.}
-{180}{}{Ah! Persze, persze. Nézzük csak, útravalónak ajánlanám a világhír? szárított brahminhúsunkat. Nem romlik meg és remek íze van. Egy csomag 10 dollár. Érdekli?}
-{181}{}{Jól hangzik. Adjon egy adagot.}
-{182}{}{Nem kösz, talán kés?bb. Viszont feltennék néhány kérdést.}
-{183}{}{Öröm magával üzletelni. Van még valami, amiben segíthetek?}
-{185}{}{Várjon! Egészen belevaló utazónak látszik. Esetleg egy kis pénzkereseti lehet?ség nem érdekli?}
-{186}{}{Biztos, hogy nem érdekli a pénzkereseti lehet?ség? Meg vagyok gy?z?dve, hogy könnyedén meg tudná oldani a problémámat.}
-{187}{}{Attól függ. Mennyit kapok, mit kell csinálni, és f?leg... MENNYIT KAPOK?}
-{188}{}{Dörzsölt, nagyon dörzsölt. A fiatalabb énemre emlékeztet. Na, akkor térjünk a lényegre. Vadkutyák jöttek le a hegyr?l mostanában. Brahminokra mennek, mivel nekik ez könny? préda. Minden éjjel rájárnak a gulyára. Ezer dollárt adok, ha kiirtja ?ket.}
-{189}{}{Valamit elhallgat itt, vén tata. Lesz valami hátrányom?}
-{190}{}{Nemcsak dörzsölt, de jó emberismer? is. Gondoltam, hogy nem kapkodja el a dolgokat. Ami a hátrányt illeti, minden elpusztult brahmin után 100 dollár fájdalomdíjat számolok fel. A jól végzett munkáért jól is fizetek, de a bénázásért én is megkérem a pénzemet. Ha nekem dolgozik, ezt a kockázatot vállalnia kell.}
-{191}{}{Remek! Menjen ki éjszaka a terepre és ölje meg a brahminra vadászó vadkutyákat. Ha kész, újra találkozunk.}
-{192}{}{Azt a rézfánfütyül?jét! Cornelius még mindig keresi az óráját? Miért nem képes elfogadni az öreg, hogy elt?nt? Az a vacak óra sosem m?ködött egyébként, és brahmin legyen a nagyapám, ha egyáltalán aranyból készült. Hagyja a fenébe, sosem fogja megtalálni.}
-{193}{}{A helyzet az, hogy Farrel kért meg engem a felkutatására.}
-{194}{}{Feltehetek további kérdéseket?}
-{195}{}{Kösz, de azért én még nem adom fel.}
-{196}{}{Nem-e? Biztos benne? Megesküdtem volna, hogy elmondtam el?re... talán legközelebb nem vállal el munkákat a részletek ismerete nélkül. Most pedig, ha megbocsát, dolgom van.}
-{197}{}{Hehehe. Attól függ. Sokáig akar a városban maradni? Bwahahahaha!}
-{198}{}{Látom, maga aztán nem esett e fejére. Legyen akkor 1000 dollár és kvittek vagyunk. }
-{199}{}{[KEZET RÁZTOK GRISHAM-MEL]}
-{200}{}{Egy pillanat. Most, hogy így végiggondolom a dolgot, azok a brahminok elég satnyák voltak. Mit szólna 750-hez?}
+{159}{}{BÃ¡njon jÃ³l a gyermekemmel.}
+{160}{}{Gondolom most mÃ¡r egy a csalÃ¡d.}
+{161}{}{BÃ¡njon jÃ³l a gyermekemmel.}
+{162}{}{Grisham-nek hÃ­vnak. ÃœdvÃ¶zlet a mÃ©szÃ¡rszÃ©ken. Felszed vagy lead?}
+{163}{}{Azt hiszem, inkÃ¡bb felszednÃ©k. NÃ©hÃ¡ny utazÃ¡shoz szÃ¼ksÃ©ges holmira lenne szÃ¼ksÃ©gem.}
+{164}{}{Nincs rÃ¡ egy hangyÃ¡nyi esÃ©ly, hogy lÃ¡tott valahol egy aranyÃ³rÃ¡t heverni?}
+{165}{}{Miben segÃ­thetek?}
+{166}{}{SzeretnÃ©k vÃ¡sÃ¡rolni a hÃ­res szÃ¡rÃ­tott hÃºsÃ¡bÃ³l.}
+{168}{}{Mondana valami kÃ¶zelebbit a mÃ©szÃ¡rszÃ©kr?l?}
+{169}{}{LÃ¡tom, az aszÃ¡ly mÃ©g nem befolyÃ¡solta komolyan az Ã¼zletet.}
+{170}{}{Tudtam, hogy menni fog. NÃ©zzÃ¼k csak, akkor 1000 pÃ©nzzel tartozom a munkÃ¡Ã©rt. Sajnos }
+{171}{}{ brahmin odaveszett a gondatlansÃ¡ga miatt. DarabonkÃ©nt 100 dolcsival szÃ¡molva a jutalma }
+{172}{}{ dollÃ¡r. EszÃ©be ne jusson, hogy szÃ©pÃ­tgeti a megÃ¶lt brahminok szÃ¡mÃ¡t. Az egyik segÃ©dem messzir?l figyelte az esemÃ©nyeket.}
+{173}{}{Nekem nem mondta, hogy az elpusztult brahminok miatt kevesebb pÃ©nzt kapok!}
+{174}{}{Na, idefigyelj, te hÃ¡tulrÃ³ljÃ¶v?, aszott kis tet?. Figyelj a szavamra! Ez volt az utsÃ³ alkalom, hogy palira vettÃ©l.}
+{175}{}{KÃ¶szi, papa. Ã–rÃ¶m volt egyÃ¼tt dolgozni.}
+{176}{}{Hogy merÃ©szeli idetolni a kÃ©pÃ©t? A gyÃ¡vasÃ¡ga miatt tÃ­z brahmint vesztettem. Ha amÃºgy a kÃ¡rtÃ©rÃ­tÃ©sen tÃ¶rnÃ© a fejÃ©t, 1500 dolcsival elsimÃ­thatjuk a dolgot.}
+{177}{}{Azok a brahminok nem Ã©rtek tÃ¶bbet ezernÃ©l.}
+{178}{}{Nincs annyi pÃ©nzem, de ha lenne sem adnÃ¡m egy ilyen pitiÃ¡ner alaknak.}
+{179}{}{A szobÃ¡mban hagytam a pÃ©nzem. Hadd menjek el Ã©rte.}
+{180}{}{Ah! Persze, persze. NÃ©zzÃ¼k csak, ÃºtravalÃ³nak ajÃ¡nlanÃ¡m a vilÃ¡ghÃ­r? szÃ¡rÃ­tott brahminhÃºsunkat. Nem romlik meg Ã©s remek Ã­ze van. Egy csomag 10 dollÃ¡r. Ã‰rdekli?}
+{181}{}{JÃ³l hangzik. Adjon egy adagot.}
+{182}{}{Nem kÃ¶sz, talÃ¡n kÃ©s?bb. Viszont feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{183}{}{Ã–rÃ¶m magÃ¡val Ã¼zletelni. Van mÃ©g valami, amiben segÃ­thetek?}
+{185}{}{VÃ¡rjon! EgÃ©szen belevalÃ³ utazÃ³nak lÃ¡tszik. Esetleg egy kis pÃ©nzkereseti lehet?sÃ©g nem Ã©rdekli?}
+{186}{}{Biztos, hogy nem Ã©rdekli a pÃ©nzkereseti lehet?sÃ©g? Meg vagyok gy?z?dve, hogy kÃ¶nnyedÃ©n meg tudnÃ¡ oldani a problÃ©mÃ¡mat.}
+{187}{}{AttÃ³l fÃ¼gg. Mennyit kapok, mit kell csinÃ¡lni, Ã©s f?leg... MENNYIT KAPOK?}
+{188}{}{DÃ¶rzsÃ¶lt, nagyon dÃ¶rzsÃ¶lt. A fiatalabb Ã©nemre emlÃ©keztet. Na, akkor tÃ©rjÃ¼nk a lÃ©nyegre. VadkutyÃ¡k jÃ¶ttek le a hegyr?l mostanÃ¡ban. Brahminokra mennek, mivel nekik ez kÃ¶nny? prÃ©da. Minden Ã©jjel rÃ¡jÃ¡rnak a gulyÃ¡ra. Ezer dollÃ¡rt adok, ha kiirtja ?ket.}
+{189}{}{Valamit elhallgat itt, vÃ©n tata. Lesz valami hÃ¡trÃ¡nyom?}
+{190}{}{Nemcsak dÃ¶rzsÃ¶lt, de jÃ³ emberismer? is. Gondoltam, hogy nem kapkodja el a dolgokat. Ami a hÃ¡trÃ¡nyt illeti, minden elpusztult brahmin utÃ¡n 100 dollÃ¡r fÃ¡jdalomdÃ­jat szÃ¡molok fel. A jÃ³l vÃ©gzett munkÃ¡Ã©rt jÃ³l is fizetek, de a bÃ©nÃ¡zÃ¡sÃ©rt Ã©n is megkÃ©rem a pÃ©nzemet. Ha nekem dolgozik, ezt a kockÃ¡zatot vÃ¡llalnia kell.}
+{191}{}{Remek! Menjen ki Ã©jszaka a terepre Ã©s Ã¶lje meg a brahminra vadÃ¡szÃ³ vadkutyÃ¡kat. Ha kÃ©sz, Ãºjra talÃ¡lkozunk.}
+{192}{}{Azt a rÃ©zfÃ¡nfÃ¼tyÃ¼l?jÃ©t! Cornelius mÃ©g mindig keresi az Ã³rÃ¡jÃ¡t? MiÃ©rt nem kÃ©pes elfogadni az Ã¶reg, hogy elt?nt? Az a vacak Ã³ra sosem m?kÃ¶dÃ¶tt egyÃ©bkÃ©nt, Ã©s brahmin legyen a nagyapÃ¡m, ha egyÃ¡ltalÃ¡n aranybÃ³l kÃ©szÃ¼lt. Hagyja a fenÃ©be, sosem fogja megtalÃ¡lni.}
+{193}{}{A helyzet az, hogy Farrel kÃ©rt meg engem a felkutatÃ¡sÃ¡ra.}
+{194}{}{Feltehetek tovÃ¡bbi kÃ©rdÃ©seket?}
+{195}{}{KÃ¶sz, de azÃ©rt Ã©n mÃ©g nem adom fel.}
+{196}{}{Nem-e? Biztos benne? MegeskÃ¼dtem volna, hogy elmondtam el?re... talÃ¡n legkÃ¶zelebb nem vÃ¡llal el munkÃ¡kat a rÃ©szletek ismerete nÃ©lkÃ¼l. Most pedig, ha megbocsÃ¡t, dolgom van.}
+{197}{}{Hehehe. AttÃ³l fÃ¼gg. SokÃ¡ig akar a vÃ¡rosban maradni? Bwahahahaha!}
+{198}{}{LÃ¡tom, maga aztÃ¡n nem esett e fejÃ©re. Legyen akkor 1000 dollÃ¡r Ã©s kvittek vagyunk. }
+{199}{}{[KEZET RÃZTOK GRISHAM-MEL]}
+{200}{}{Egy pillanat. Most, hogy Ã­gy vÃ©giggondolom a dolgot, azok a brahminok elÃ©g satnyÃ¡k voltak. Mit szÃ³lna 750-hez?}
 {201}{}{Meggondoltam magam, nem fizetek.}
 {202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
-{203}{}{[Grisham arca céklavörössé válik és összeszorított foggal sziszegi:] Rendben, legyen 750. Ide a pénzzel!}
-{204}{}{Tudja, 750 még mindig elég soknak t?nik. Ha a kutyák nem lettek volna, azok a brahminok anélkül is beadták volna a kulcsot. Viszont nem vagyok annyira önz?, és adok 50 dollárt.}
-{206}{}{JÓ! ADJA IDE A PÉNZT ÉS MENJEN INNEN!}
-{207}{}{[FIZETÉS NÉLKÜL TÁVOZOL]}
-{208}{}{Vésse az eszébe a szavaimat, mert megjárja. Ha nem én intézem el, majd más megteszi.}
-{209}{}{[Grisham úgy néz rád, hogy önkéntelenül is hátralépsz egyet] Miért nem tartja meg a pénzét? Van egy olyan érzésem, hogy kés?bb még hasznát venné.}
-{210}{}{Nem sok mindent tudok mondani. Én vezetem a modoci mészárszéket. Ha le akar vágni valami állatot, idehozza hozzám, én levágom és a létez? legjobb szárított húst csinálom bel?le.}
-{211}{}{Mi a helyzet az állat b?rével, és más részeivel?}
-{213}{}{Tulajdonképpen egész felfuttatta az üzletemet. Eddig senki nem volt képes elegend? takarmányt termelni a brahminjainak, ezért mindenki arra kényszerült, hogy alaposan megritkítsa a gulyáját. De ez csak átmeneti állapot. A dolgoknak van egy nagyobb szabású vonzata is. A brahminállomány csökkenésével az üzlet egyre csak rosszabbodik.}
-{215}{}{Grisham körbejár, megbökdös néhányszor, aztán kinyitja a szád, és megnézi a fogsorodat.] Ah! Remek, egészséges példány. Megteszi. Khm... Rossz kutyák megölik a jó brahmint. Eridj, öld meg a rossz kutyákat Grisham barátodnak. Grisham jó pénzt fizet. Oké?}
-{216}{}{Nem, én szeret kutya. Csak rossz ember nem szeret kutya. Én itthagy rossz ember.}
+{203}{}{[Grisham arca cÃ©klavÃ¶rÃ¶ssÃ© vÃ¡lik Ã©s Ã¶sszeszorÃ­tott foggal sziszegi:] Rendben, legyen 750. Ide a pÃ©nzzel!}
+{204}{}{Tudja, 750 mÃ©g mindig elÃ©g soknak t?nik. Ha a kutyÃ¡k nem lettek volna, azok a brahminok anÃ©lkÃ¼l is beadtÃ¡k volna a kulcsot. Viszont nem vagyok annyira Ã¶nz?, Ã©s adok 50 dollÃ¡rt.}
+{206}{}{JÃ“! ADJA IDE A PÃ‰NZT Ã‰S MENJEN INNEN!}
+{207}{}{[FIZETÃ‰S NÃ‰LKÃœL TÃVOZOL]}
+{208}{}{VÃ©sse az eszÃ©be a szavaimat, mert megjÃ¡rja. Ha nem Ã©n intÃ©zem el, majd mÃ¡s megteszi.}
+{209}{}{[Grisham Ãºgy nÃ©z rÃ¡d, hogy Ã¶nkÃ©ntelenÃ¼l is hÃ¡tralÃ©psz egyet] MiÃ©rt nem tartja meg a pÃ©nzÃ©t? Van egy olyan Ã©rzÃ©sem, hogy kÃ©s?bb mÃ©g hasznÃ¡t vennÃ©.}
+{210}{}{Nem sok mindent tudok mondani. Ã‰n vezetem a modoci mÃ©szÃ¡rszÃ©ket. Ha le akar vÃ¡gni valami Ã¡llatot, idehozza hozzÃ¡m, Ã©n levÃ¡gom Ã©s a lÃ©tez? legjobb szÃ¡rÃ­tott hÃºst csinÃ¡lom bel?le.}
+{211}{}{Mi a helyzet az Ã¡llat b?rÃ©vel, Ã©s mÃ¡s rÃ©szeivel?}
+{213}{}{TulajdonkÃ©ppen egÃ©sz felfuttatta az Ã¼zletemet. Eddig senki nem volt kÃ©pes elegend? takarmÃ¡nyt termelni a brahminjainak, ezÃ©rt mindenki arra kÃ©nyszerÃ¼lt, hogy alaposan megritkÃ­tsa a gulyÃ¡jÃ¡t. De ez csak Ã¡tmeneti Ã¡llapot. A dolgoknak van egy nagyobb szabÃ¡sÃº vonzata is. A brahminÃ¡llomÃ¡ny csÃ¶kkenÃ©sÃ©vel az Ã¼zlet egyre csak rosszabbodik.}
+{215}{}{Grisham kÃ¶rbejÃ¡r, megbÃ¶kdÃ¶s nÃ©hÃ¡nyszor, aztÃ¡n kinyitja a szÃ¡d, Ã©s megnÃ©zi a fogsorodat.] Ah! Remek, egÃ©szsÃ©ges pÃ©ldÃ¡ny. Megteszi. Khm... Rossz kutyÃ¡k megÃ¶lik a jÃ³ brahmint. Eridj, Ã¶ld meg a rossz kutyÃ¡kat Grisham barÃ¡todnak. Grisham jÃ³ pÃ©nzt fizet. OkÃ©?}
+{216}{}{Nem, Ã©n szeret kutya. Csak rossz ember nem szeret kutya. Ã‰n itthagy rossz ember.}
 {217}{}{Megtesz. Menni oda!}
-{218}{}{Jó! Vésd észbe, a rossz dolog Vaúzik, a jó dolog Múúúzik. Próbáld ne megölni a jó dolgokat.}
-{219}{}{Kissé kifogyott a pénzb?l. Hitel nincs és ne higgye, hogy semmiért adok valamit.}
+{218}{}{JÃ³! VÃ©sd Ã©szbe, a rossz dolog VaÃºzik, a jÃ³ dolog MÃºÃºÃºzik. PrÃ³bÃ¡ld ne megÃ¶lni a jÃ³ dolgokat.}
+{219}{}{KissÃ© kifogyott a pÃ©nzb?l. Hitel nincs Ã©s ne higgye, hogy semmiÃ©rt adok valamit.}
 {221}{}{That's what I get for sending a Neanderthal. Just go!}
-{222}{}{Uh... sznarf ikk unga bunga. Most pedig fogd a pénzt kis Neandervölgyim, és irány az ajtó.}
+{222}{}{Uh... sznarf ikk unga bunga. Most pedig fogd a pÃ©nzt kis NeandervÃ¶lgyim, Ã©s irÃ¡ny az ajtÃ³.}
 {223}{}{You are quick, aren't you? Well, if you ask you can retrieve any part of the animal you want.
  Balthas will usually buy the hides, and Rose will buy whatever scraps you don't want. She uses it to
  make soup and feed her dogs.}
-{225}{}{Maga viccel! Mindenki tudja, hogy Farrel tette zsebre az órát. Ugyan miért kerestetné magával... hacsak tényleg nem Farrel lopta el! Az is lehet, hogy ez a trükk, amivel mindenkit meg akar gy?zni, hogy nem ? volt. Meg kéne ezt még hányni-vetni.}
-{228}{}{Fiú, ne is próbáld megmagyarázni. Nem akarom hallani. Hívatom a plébánost, törvényes keretet adunk a dolognak, és ha elmész, magaddal viszed a fiamat.}
-{229}{}{Nem mondanám, hogy nem izgatott fel a dolog, de most hogy láttam ezt meg azt, nem tudnék vele egy házban élni. Ti ketten szépen összeházasodtok, aztán távoztok az életemb?l.}
-{230}{}{Nem akarod elmagyarázni, mit csiná'sz a lányommal?}
-{231}{}{Nem akarod elmagyarázni, mit csiná'sz a fiammal?}
-{232}{}{Hadd világítsak rá értelmesen, tata. Vannak ugye a madarak meg a méhek, tudja...}
-{233}{}{Orvos vagyok, csak ellátásban részesítettem a hölgyet.}
-{234}{}{Orvos vagyok, csak ellátásban részesítettem az urat.}
-{235}{}{Ez nem úgy van, ahogy gondolja!}
+{225}{}{Maga viccel! Mindenki tudja, hogy Farrel tette zsebre az Ã³rÃ¡t. Ugyan miÃ©rt kerestetnÃ© magÃ¡val... hacsak tÃ©nyleg nem Farrel lopta el! Az is lehet, hogy ez a trÃ¼kk, amivel mindenkit meg akar gy?zni, hogy nem ? volt. Meg kÃ©ne ezt mÃ©g hÃ¡nyni-vetni.}
+{228}{}{FiÃº, ne is prÃ³bÃ¡ld megmagyarÃ¡zni. Nem akarom hallani. HÃ­vatom a plÃ©bÃ¡nost, tÃ¶rvÃ©nyes keretet adunk a dolognak, Ã©s ha elmÃ©sz, magaddal viszed a fiamat.}
+{229}{}{Nem mondanÃ¡m, hogy nem izgatott fel a dolog, de most hogy lÃ¡ttam ezt meg azt, nem tudnÃ©k vele egy hÃ¡zban Ã©lni. Ti ketten szÃ©pen Ã¶sszehÃ¡zasodtok, aztÃ¡n tÃ¡voztok az Ã©letemb?l.}
+{230}{}{Nem akarod elmagyarÃ¡zni, mit csinÃ¡'sz a lÃ¡nyommal?}
+{231}{}{Nem akarod elmagyarÃ¡zni, mit csinÃ¡'sz a fiammal?}
+{232}{}{Hadd vilÃ¡gÃ­tsak rÃ¡ Ã©rtelmesen, tata. Vannak ugye a madarak meg a mÃ©hek, tudja...}
+{233}{}{Orvos vagyok, csak ellÃ¡tÃ¡sban rÃ©szesÃ­tettem a hÃ¶lgyet.}
+{234}{}{Orvos vagyok, csak ellÃ¡tÃ¡sban rÃ©szesÃ­tettem az urat.}
+{235}{}{Ez nem Ãºgy van, ahogy gondolja!}
 {236}{}{That's just great. I'm going to have a smart-ass as son-in-law. Well, come on... son. Let's get
  this over with.}
-{237}{}{Ez nagyszer?! Egy okostojás lesz a menyem. Na, lányom... akkor essünk túl rajta.}
-{238}{}{Ami azt illeti, nekem úgy t?nt, mintha te meg a lányom az üzeked? brahminokat utánoztátok volna.}
-{239}{}{Ami azt illeti, nekem úgy t?nt, mintha te meg a fiam vízszintes tangót jártatok volna a leped?n.}
-{240}{}{Oké, talán nem áll messze az igazságtól. De ez csak szex, semmi szerelem vagy ilyesmi nincs benne.}
-{241}{}{Értem én. Hormonok meg ugye az évszak is kedvez a dolognak.}
-{242}{}{Örülök, hogy megért?.}
-{243}{}{Az vagyok, és remélem, elfogadható a részetekr?l, hogy most szépen összeházasodtok. Nem fognak az emberek itt pletykálkodni. Gyerünk, irány a plébános! Ne akarjátok, hogy a puskámra bízzam a dolgot.}
-{244}{}{Valóban? Aztán miért voltatok mindketten meztelenek?}
-{245}{}{Ööö... a baktériumok miatt... Igen-igen, A BAKTÉRIUMOK MIATT! Nagyon fontos, hogy miközben ezeket a vizsgálatokat végezzük, tiszták legyünk.}
-{246}{}{Nos, ha valóban orvos, akkor rendben van. Viszont jobb lenne, ha felöltözne, mert az ilyen félreértések miatt születnek a pletykák. Egyébként van egy kis panaszom. Egyfolytában fáj a végbelem és arra gondoltam, ha már itt van, talán vethetne rá egy pillantást.}
-{247}{}{Ööö... kés?bb megnézem. Van még egy várakozó betegem. Viszlát!}
-{248}{}{Hogyne. Miért nem megyünk akkor együtt a plébánoshoz? Ne próbálkozz semmivel, különben neked lesz orvosra szükséged.}
-{260}{}{Tudtam, hogy menni fog! Nézzük csak, 1000 dolcsival jövök a munkáért. Tessék.}
+{237}{}{Ez nagyszer?! Egy okostojÃ¡s lesz a menyem. Na, lÃ¡nyom... akkor essÃ¼nk tÃºl rajta.}
+{238}{}{Ami azt illeti, nekem Ãºgy t?nt, mintha te meg a lÃ¡nyom az Ã¼zeked? brahminokat utÃ¡noztÃ¡tok volna.}
+{239}{}{Ami azt illeti, nekem Ãºgy t?nt, mintha te meg a fiam vÃ­zszintes tangÃ³t jÃ¡rtatok volna a leped?n.}
+{240}{}{OkÃ©, talÃ¡n nem Ã¡ll messze az igazsÃ¡gtÃ³l. De ez csak szex, semmi szerelem vagy ilyesmi nincs benne.}
+{241}{}{Ã‰rtem Ã©n. Hormonok meg ugye az Ã©vszak is kedvez a dolognak.}
+{242}{}{Ã–rÃ¼lÃ¶k, hogy megÃ©rt?.}
+{243}{}{Az vagyok, Ã©s remÃ©lem, elfogadhatÃ³ a rÃ©szetekr?l, hogy most szÃ©pen Ã¶sszehÃ¡zasodtok. Nem fognak az emberek itt pletykÃ¡lkodni. GyerÃ¼nk, irÃ¡ny a plÃ©bÃ¡nos! Ne akarjÃ¡tok, hogy a puskÃ¡mra bÃ­zzam a dolgot.}
+{244}{}{ValÃ³ban? AztÃ¡n miÃ©rt voltatok mindketten meztelenek?}
+{245}{}{Ã–Ã¶Ã¶... a baktÃ©riumok miatt... Igen-igen, A BAKTÃ‰RIUMOK MIATT! Nagyon fontos, hogy mikÃ¶zben ezeket a vizsgÃ¡latokat vÃ©gezzÃ¼k, tisztÃ¡k legyÃ¼nk.}
+{246}{}{Nos, ha valÃ³ban orvos, akkor rendben van. Viszont jobb lenne, ha felÃ¶ltÃ¶zne, mert az ilyen fÃ©lreÃ©rtÃ©sek miatt szÃ¼letnek a pletykÃ¡k. EgyÃ©bkÃ©nt van egy kis panaszom. EgyfolytÃ¡ban fÃ¡j a vÃ©gbelem Ã©s arra gondoltam, ha mÃ¡r itt van, talÃ¡n vethetne rÃ¡ egy pillantÃ¡st.}
+{247}{}{Ã–Ã¶Ã¶... kÃ©s?bb megnÃ©zem. Van mÃ©g egy vÃ¡rakozÃ³ betegem. ViszlÃ¡t!}
+{248}{}{Hogyne. MiÃ©rt nem megyÃ¼nk akkor egyÃ¼tt a plÃ©bÃ¡noshoz? Ne prÃ³bÃ¡lkozz semmivel, kÃ¼lÃ¶nben neked lesz orvosra szÃ¼ksÃ©ged.}
+{260}{}{Tudtam, hogy menni fog! NÃ©zzÃ¼k csak, 1000 dolcsival jÃ¶vÃ¶k a munkÃ¡Ã©rt. TessÃ©k.}
 {300}{}{Mi a franc folyik itt?}
-{301}{}{H?ha... Uram, én csak...}
-{302}{}{El?ször is vedd le a mocskos kezedet a lányomról...}
-{350}{}{[Bessy-re pillantván] Inkább leadnék.}
-{360}{}{Szeretném, ha készítene nekem egy kis szárított húst.}
+{301}{}{H?ha... Uram, Ã©n csak...}
+{302}{}{El?szÃ¶r is vedd le a mocskos kezedet a lÃ¡nyomrÃ³l...}
+{350}{}{[Bessy-re pillantvÃ¡n] InkÃ¡bb leadnÃ©k.}
+{360}{}{SzeretnÃ©m, ha kÃ©szÃ­tene nekem egy kis szÃ¡rÃ­tott hÃºst.}
 {400}{}{Mi folyik itt?}
-{402}{}{Szent ég! Tudtam, hogy }
+{402}{}{Szent Ã©g! Tudtam, hogy }
 {403}{}{How dare you sully the honor of my }
-{404}{}{Elnézést, Jo, nem tudnánk esetleg az esküdöz?s részt?l eltekinteni?}
+{404}{}{ElnÃ©zÃ©st, Jo, nem tudnÃ¡nk esetleg az eskÃ¼dÃ¶z?s rÃ©szt?l eltekinteni?}
 {406}{}{Fiam...}
 {407}{}{Missy...}
-{410}{}{Ne akard, hogy özvegyet csináljak }
+{410}{}{Ne akard, hogy Ã¶zvegyet csinÃ¡ljak }
 {412}{}{Miria}
 {413}{}{Davin}
 {414}{}{Uh, Bo, can we just skip to the vow tying parts?}
-{420}{}{Nem mész te sehova, fiam!}
-{421}{}{Nem mész te sehova, Missy!}
-{452}{}{ amolyan másféle... ezt viszont csak egy módon lehet helyrehozni.}
-{453}{}{ nevét akarod beszennyezni ilyesmivel? Csak egy módon lehet ezt orvosolni!}
-{460}{}{ "testvérünkb?l"!}
-{461}{}{ "testvérünkb?l"!}
-{500}{}{Nagyon derék állat ez. Jó kis szárított húst lehetne bel?le készíteni. Na, tudja mit, egyszer?en megtartom a szárított húst fizetség gyanánt. Mit szól?}
-{501}{}{Dehogyis! Bess a kedvencem. Senki nem csinál bel?le semmiféle szárított húst!}
-{502}{}{Jól hangzik. Mikor jöhetek vissza a húsért?}
-{503}{}{Felejtse el, tatus. Már itt sem vagyok.}
-{510}{}{Ó... már megint itt egy... A világért sem venném el t?led a "barátodat". A sivatagi éjszaka valószín?leg szörnyen magányos lenne nélküle. Na, jó... erre most nincs id?m. Meg kell még csinálnom egy-két dolgot.}
-{515}{}{Remek! Jöjjön vissza egy héten belül. A mészárszék melletti füstöl?házban magához veheti a húst. Egy zsákban otthagyom majd. Jó magával üzletelni.}
-{600}{}{Mizújs }
+{420}{}{Nem mÃ©sz te sehova, fiam!}
+{421}{}{Nem mÃ©sz te sehova, Missy!}
+{452}{}{ amolyan mÃ¡sfÃ©le... ezt viszont csak egy mÃ³don lehet helyrehozni.}
+{453}{}{ nevÃ©t akarod beszennyezni ilyesmivel? Csak egy mÃ³don lehet ezt orvosolni!}
+{460}{}{ "testvÃ©rÃ¼nkb?l"!}
+{461}{}{ "testvÃ©rÃ¼nkb?l"!}
+{500}{}{Nagyon derÃ©k Ã¡llat ez. JÃ³ kis szÃ¡rÃ­tott hÃºst lehetne bel?le kÃ©szÃ­teni. Na, tudja mit, egyszer?en megtartom a szÃ¡rÃ­tott hÃºst fizetsÃ©g gyanÃ¡nt. Mit szÃ³l?}
+{501}{}{Dehogyis! Bess a kedvencem. Senki nem csinÃ¡l bel?le semmifÃ©le szÃ¡rÃ­tott hÃºst!}
+{502}{}{JÃ³l hangzik. Mikor jÃ¶hetek vissza a hÃºsÃ©rt?}
+{503}{}{Felejtse el, tatus. MÃ¡r itt sem vagyok.}
+{510}{}{Ã“... mÃ¡r megint itt egy... A vilÃ¡gÃ©rt sem vennÃ©m el t?led a "barÃ¡todat". A sivatagi Ã©jszaka valÃ³szÃ­n?leg szÃ¶rnyen magÃ¡nyos lenne nÃ©lkÃ¼le. Na, jÃ³... erre most nincs id?m. Meg kell mÃ©g csinÃ¡lnom egy-kÃ©t dolgot.}
+{515}{}{Remek! JÃ¶jjÃ¶n vissza egy hÃ©ten belÃ¼l. A mÃ©szÃ¡rszÃ©k melletti fÃ¼stÃ¶l?hÃ¡zban magÃ¡hoz veheti a hÃºst. Egy zsÃ¡kban otthagyom majd. JÃ³ magÃ¡val Ã¼zletelni.}
+{600}{}{MizÃºjs }
 {601}{}{Nos, ha esetleg nem }
-{602}{}{Hát... meghalt.}
-{603}{}{Hát... meghalt.}
-{604}{}{Miria élt, amikor otthagytam, de most már biztos, hogy meghalt.}
-{605}{}{Davin élt, amikor otthagytam, de most már biztos, hogy meghalt.}
+{602}{}{HÃ¡t... meghalt.}
+{603}{}{HÃ¡t... meghalt.}
+{604}{}{Miria Ã©lt, amikor otthagytam, de most mÃ¡r biztos, hogy meghalt.}
+{605}{}{Davin Ã©lt, amikor otthagytam, de most mÃ¡r biztos, hogy meghalt.}
 {606}{}{Davin, uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
 {607}{}{Miria, uhhh, couldn't make the trip but I'll send her your love when I see her again.}
-{700}{}{Arghh... [Grisham megdöbbent arcot vág, aztán a szívéhez kap és összeesik.]}
-{750}{}{Most vissza kell térnem a munkámhoz. Viszlát bármikor.}
-{800}{}{Megóvtad Grisham brahminjait.}
+{700}{}{Arghh... [Grisham megdÃ¶bbent arcot vÃ¡g, aztÃ¡n a szÃ­vÃ©hez kap Ã©s Ã¶sszeesik.]}
+{750}{}{Most vissza kell tÃ©rnem a munkÃ¡mhoz. ViszlÃ¡t bÃ¡rmikor.}
+{800}{}{MegÃ³vtad Grisham brahminjait.}
 {1101}{}{You see Uncle Biff.}
 {1155}{}{I knew my niece was odd.}
-{1156}{}{Különböz? emberek, különböz? ízlések...}
+{1156}{}{KÃ¼lÃ¶nbÃ¶z? emberek, kÃ¼lÃ¶nbÃ¶z? Ã­zlÃ©sek...}
 {1157}{}{I'm glad Grisham ain't alive to see this.}
 {1158}{}{I knew my nephew was odd.}
-{1159}{}{Gondolom most már egy a család.}
+{1159}{}{Gondolom most mÃ¡r egy a csalÃ¡d.}
 {1160}{}{You take good care of my niece.}
 {1161}{}{You take good care of my nephew.}
 {1228}{}{Boy, dont even try to explain this. I dont want to hear it. I'm gonna get the preacher, make
@@ -158,5 +158,5 @@
 {1403}{}{How dare you sully the honor of my brother's }
 {1412}{}{daughter.}
 {1413}{}{son.}
-{1600}{}{. ? az életem értelme és a szívem szakadna meg, ha valami történne vele. Hol van egyébként? Reméltem, hogy hamarosan láthatom.}
-{1601}{}{. Milyen amúgy a házasélet? Davint nem látom veled. Nagyon hiányzik. Ha legközelebb erre járnál, hozd magaddal. Az öregember szívét megmelengetné, ha látná néha egyetlen fiát.}
+{1600}{}{. ? az Ã©letem Ã©rtelme Ã©s a szÃ­vem szakadna meg, ha valami tÃ¶rtÃ©nne vele. Hol van egyÃ©bkÃ©nt? RemÃ©ltem, hogy hamarosan lÃ¡thatom.}
+{1601}{}{. Milyen amÃºgy a hÃ¡zasÃ©let? Davint nem lÃ¡tom veled. Nagyon hiÃ¡nyzik. Ha legkÃ¶zelebb erre jÃ¡rnÃ¡l, hozd magaddal. Az Ã¶regember szÃ­vÃ©t megmelengetnÃ©, ha lÃ¡tnÃ¡ nÃ©ha egyetlen fiÃ¡t.}

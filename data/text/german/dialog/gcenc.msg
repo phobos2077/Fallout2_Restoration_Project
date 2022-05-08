@@ -1,1 +1,1 @@
-{100}{}{Du bekommst keine Antwort von diesem Wächter.}
+{100}{}{Du bekommst keine Antwort von diesem WÃ¤chter.}

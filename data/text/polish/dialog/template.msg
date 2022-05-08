@@ -1,6 +1,6 @@
-{970}{}{To jest moje imiÍ.}
-{971}{}{MÛwisz teraz do mnie.}
-{972}{}{Nie zadawaj g≥upich pytaÒ. To przecieø ja.}
+{970}{}{To jest moje imiƒô.}
+{971}{}{M√≥wisz teraz do mnie.}
+{972}{}{Nie zadawaj g≈Çupich pyta≈Ñ. To przecie≈º ja.}
 {980}{}{Nic o tym nie wiem.}
 {981}{}{Przykro mi, ale nie wiem.}
-{982}{}{Nigdy o tym nie s≥ysza≥em.}
+{982}{}{Nigdy o tym nie s≈Çysza≈Çem.}

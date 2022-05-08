@@ -22,7 +22,7 @@
 {208}{}{Credi che quel coso sia qui per far la festa a qualcuno?}
 {209}{}{E' la furia dell'inferno in carne ed ossa. Ehm, sotto la corazza, naturalmente.}
 {210}{}{Non intralciate il cammino di quel coso.}
-{211}{}{Che aspetto minaccioso…}
+{211}{}{Che aspetto minacciosoâ€¦}
 {212}{}{*Gulp*}
 {213}{}{Credo che quel Sig. Robot mi stesse scansionando.}
 {214}{}{Credo che quel carro armato su due gambe mi abbia appena rivolto lo sguardo della morte. Io taglio la corda.}
@@ -35,7 +35,7 @@
 {221}{}{Ho sentito dire che ha eliminato tre assassini solo nella giornata di ieri.}
 {222}{}{Uh-oh. Fate strada.}
 {223}{}{E' la furia dell'inferno fatta persona.}
-{224}{}{Che aspetto minaccioso…}
+{224}{}{Che aspetto minacciosoâ€¦}
 {225}{}{*Gulp*}
 {226}{}{La Femme Nikita...}
 {227}{}{Il solo guardarla mi mette i brividi.}
@@ -94,9 +94,9 @@
 {280}{}{Tutto questo mi pare piu' assurdo di un lupo che ama una gallina.}
 {281}{}{Gira, fortuna, gira.}
 {282}{}{Il bambino ha bisogno di un paio di scarpe nuove...}
-{283}{}{Dannati turisti che giocano al ribasso…}
-{284}{}{Cavoli! Ero in attivo di *53* dollari, quando…}
-{285}{}{Per tutte le malesorti…}
+{283}{}{Dannati turisti che giocano al ribassoâ€¦}
+{284}{}{Cavoli! Ero in attivo di *53* dollari, quandoâ€¦}
+{285}{}{Per tutte le malesortiâ€¦}
 {286}{}{Per un pelo!}
 {287}{}{Sto mettendo su un bel gruzzolo.}
 {288}{}{Io? Sto facendo un mucchio di soldi. Guardami.}
@@ -104,11 +104,11 @@
 {290}{}{La Fortuna e' contro di me.}
 {291}{}{Madama Fortuna, non tradirmi proprio adesso.}
 {292}{}{Il Casino' ha avuto pieta' di me.}
-{293}{}{Ci sono un sacco di novellini e di giocatori ubriachi, oggi…}
-{294}{}{Continua a puntare cifre come quella, e presto chiamerai il Golgotha "casa"…}
+{293}{}{Ci sono un sacco di novellini e di giocatori ubriachi, oggiâ€¦}
+{294}{}{Continua a puntare cifre come quella, e presto chiamerai il Golgotha "casa"â€¦}
 {295}{}{Cameriera, ancora da bere!}
 {296}{}{Cameriere, ancora da bere!}
-{297}{}{Questi drink hanno un sapore…strano.}
+{297}{}{Questi drink hanno un saporeâ€¦strano.}
 {298}{}{Ho la febbre del gioco!}
 {299}{}{Ho gia' finito tutte le mie fiche?}
 {300}{}{La fortuna e' una puttana volubile, proprio come mia suocera.}
@@ -125,13 +125,13 @@
 {311}{}{Eddai 7! Esci!}
 {312}{}{Hai avuto una bella fortuna, baby.}
 {313}{}{Chi e' il grande vincitore di stanotte? Mikey!}
-{314}{}{Non tradirmi…dai…}
+{314}{}{Non tradirmiâ€¦daiâ€¦}
 {315}{}{Devo mettercela tutta.}
 {316}{}{Che gioco di MERDA.}
 {317}{}{Ho perso solo 60 dollari... nei primi 5 minuti.}
-{318}{}{23 rosso! 23 rosso! Dai…23 rosso…}
-{319}{}{50 dollari sul 15 nero…}
-{320}{}{Gira, gira la pallina in tondo…nessuno sa dove si fermera' in fondo…}
+{318}{}{23 rosso! 23 rosso! Daiâ€¦23 rossoâ€¦}
+{319}{}{50 dollari sul 15 neroâ€¦}
+{320}{}{Gira, gira la pallina in tondoâ€¦nessuno sa dove si fermera' in fondoâ€¦}
 {321}{}{Sei stato grande ad incenerire il culo a quei bastardi dell'Enclave! Cosi' si fa!}
 {322}{}{L'ho sempre saputo che il Presidente voleva farci fuori tutti.}
 {323}{}{Il Presidente era vivo? Quando si sono tenute le ultime elezioni?}
@@ -148,28 +148,28 @@
 {334}{}{Mi scusi, stavo respirando la sua aria? La smetto subito.}
 {335}{}{Non sapevo che facessero porte della tua grandezza.}
 {336}{}{::Bussa sull'armatura:: C'e' nessuno li' dentro?}
-{337}{}{"Pericolo, Will Robinson! Pericolo, Will Robinson!" Eh-eh. Uh…stavo solo scherzando.}
+{337}{}{"Pericolo, Will Robinson! Pericolo, Will Robinson!" Eh-eh. Uhâ€¦stavo solo scherzando.}
 {338}{}{Beeeeella, quest'armatura. Ha l'aria condizionata?}
 {339}{}{Non hai caldo li' dentro?}
 {340}{}{Posso strofinare questi dadi sulla tua armatura per un po' di fortuna?}
 {341}{}{Hai perso il cuore, uomo di latta?}
-{342}{}{Uh, salve, signore…o signora…o qualunque cosa tu sia.}
+{342}{}{Uh, salve, signoreâ€¦o signoraâ€¦o qualunque cosa tu sia.}
 {343}{}{Porta i miei saluti a chiunque ti abbia fornito quell'armatura.}
-{344}{}{Qualcosa non va, signore…signora…qualunque cosa tu sia?}
+{344}{}{Qualcosa non va, signoreâ€¦signoraâ€¦qualunque cosa tu sia?}
 {345}{}{Sei uno dei nuovi buttafuori? O sei per caso un nuovo coin-op semovente?}
 {346}{}{No, NON ho intenzione di oliarti le giunture.}
 {347}{}{La tua armatura si puo' trasformare in aereo e volare via, per caso? Sono solo curioso.}
 {348}{}{Certo, certo, "clank-whirrr-clank" anche a te.}
 {349}{}{Se credi che quella armatura mi faccia paura, hai ragione.}
 {350}{}{Devi essere una di quelle console per videogiochi del periodo pre-bellico.}
-{351}{}{Guarda, per favore…non voglio guai. Mi fermo solo un giorno, in citta'.}
-{352}{}{Senta, per favore…non voglio guai.}
+{351}{}{Guarda, per favoreâ€¦non voglio guai. Mi fermo solo un giorno, in citta'.}
+{352}{}{Senta, per favoreâ€¦non voglio guai.}
 {353}{}{Mi scusi, le stavo intralciando il passo? Lascero' la citta'.}
 {354}{}{Mi scusi, stavo respirando la sua aria? La smetto subito.}
 {355}{}{Porga i miei omaggi al boss.}
-{356}{}{Uh…*gulp*…qualcosa non va?}
-{357}{}{Guarda, per favore…non voglio guai. Mi fermo solo un giorno, in citta'.}
-{358}{}{Senta, per favore…non voglio guai.}
+{356}{}{Uhâ€¦*gulp*â€¦qualcosa non va?}
+{357}{}{Guarda, per favoreâ€¦non voglio guai. Mi fermo solo un giorno, in citta'.}
+{358}{}{Senta, per favoreâ€¦non voglio guai.}
 {359}{}{Sei disponibile?}
 {360}{}{Posso comprare i tuoi vestiti? Voglio dire, in questo momento?}
 {361}{}{Lo SAPEVO che oggi dovevo farmi la barba.}

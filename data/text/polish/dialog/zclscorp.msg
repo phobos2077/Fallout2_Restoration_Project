@@ -1,2 +1,2 @@
 {100}{}{Widzisz skorpiona.}
-{500}{}{Uda³o ci siê zabiæ wszystkie skorpiony, jakie zagra¿a³y braminom.}
+{500}{}{UdaÅ‚o ci siÄ™ zabiÄ‡ wszystkie skorpiony, jakie zagraÅ¼aÅ‚y braminom.}

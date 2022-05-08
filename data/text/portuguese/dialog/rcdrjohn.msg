@@ -64,7 +64,7 @@
 {151}{}{I don't have cash, but I have stuff to barter. Can I trade you something for your services?}
 {152}{}{Before I go, let me ask you something.}
 {153}{}{OK, I'll try to raise some cash. Goodbye.}
-{154}{}{O que você gostaria de saber?}
+{154}{}{O que vocÃª gostaria de saber?}
 {155}{}{O que agora?}
 {156}{}{I think I have a solution for the Jet problem that you have here.}
 {157}{}{I hear that Redding has been having a problem here with its exports lately.}

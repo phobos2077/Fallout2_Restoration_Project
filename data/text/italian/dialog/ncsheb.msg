@@ -5,7 +5,7 @@
 {202}{}{Qui al Cat's Paw vi facciamo uno sconto del 50%!}
 {203}{}{Fateci un'offerta per la nostra migliore selezione di passere! E' un'esplosione di passere!}
 {204}{}{Abbiamo passere bianche, passere nere, passere meridionali, passere settentrionali...}
-{205}{}{Abbiamo passere bollenti, passere fredde, abbiamo passere fresche, abbiamo passere…::snfff::…*profumate*…}
+{205}{}{Abbiamo passere bollenti, passere fredde, abbiamo passere fresche, abbiamo passereâ€¦::snfff::â€¦*profumate*â€¦}
 {206}{}{Abbiamo passere selvagge, passere mutanti, passere di radscorpione, passere robotiche.}
 {207}{}{Abbiamo persino passere di brahmin, passere di ghoul, passere di deathclaw.}
 {208}{}{Dai, volete delle belle passere? Entrate, forza, amanti delle belle passere!}

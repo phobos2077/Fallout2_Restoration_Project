@@ -1,21 +1,21 @@
-{100}{}{Ves a una extraña bestia.}
+{100}{}{Ves a una extraÃ±a bestia.}
 {101}{}{Ves a un supermutante que parece un poco trastornado.}
-{102}{}{¡Para!}
-{103}{}{¡No te acerques más! ¡Melchior el Magnifico te lo ordena!}
-{104}{}{¡Contempla al mago más grande del mundo!}
-{105}{}{¡Tiembla ante el poder de Melchior el Magnífico!}
-{106}{}{¡Mis mascotas se darán un festín con tus huesos!}
-{107}{}{¡Te avisé! ¡Atacad, mis mascotas!}
-{1000}{}{¡SHAHOOEY!}
-{1001}{}{Mis Garras se ocuparán de ti.}
-{1002}{}{¡Garras, atacad!}
-{1010}{}{¡ABADABRA!}
+{102}{}{Â¡Para!}
+{103}{}{Â¡No te acerques mÃ¡s! Â¡Melchior el Magnifico te lo ordena!}
+{104}{}{Â¡Contempla al mago mÃ¡s grande del mundo!}
+{105}{}{Â¡Tiembla ante el poder de Melchior el MagnÃ­fico!}
+{106}{}{Â¡Mis mascotas se darÃ¡n un festÃ­n con tus huesos!}
+{107}{}{Â¡Te avisÃ©! Â¡Atacad, mis mascotas!}
+{1000}{}{Â¡SHAHOOEY!}
+{1001}{}{Mis Garras se ocuparÃ¡n de ti.}
+{1002}{}{Â¡Garras, atacad!}
+{1010}{}{Â¡ABADABRA!}
 {1011}{}{Melchior crea mascotas de fuego para abrasar al humano.}
-{1012}{}{¡Quemad al HU-MA-NO!}
-{1020}{}{¡ZIMZOWY!}
-{1021}{}{¡Mi mascota te destrozará!}
+{1012}{}{Â¡Quemad al HU-MA-NO!}
+{1020}{}{Â¡ZIMZOWY!}
+{1021}{}{Â¡Mi mascota te destrozarÃ¡!}
 {1022}{}{Devoradlo, mis preciosas.}
-{1030}{}{¡KALIMAJIGGER!}
-{1031}{}{¡Mierda! Sólo me quedan ratas gordas.}
+{1030}{}{Â¡KALIMAJIGGER!}
+{1031}{}{Â¡Mierda! SÃ³lo me quedan ratas gordas.}
 {1032}{}{Me quedo mis mascotas.}
 {1050}{}{Oh ,oh. No me quedan peluches que mutar.}

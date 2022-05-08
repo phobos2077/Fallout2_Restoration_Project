@@ -1,6 +1,6 @@
-{200}{}{Wenn ich ein Seil daran befestige, könnte ich vielleicht da runter klettern.}
-{201}{}{Ein Seil wäre hier bestimmt nützlich.}
+{200}{}{Wenn ich ein Seil daran befestige, kÃ¶nnte ich vielleicht da runter klettern.}
+{201}{}{Ein Seil wÃ¤re hier bestimmt nÃ¼tzlich.}
 {300}{}{So, das sollte klappen.}
 {301}{}{Ich habe schon ein Seil daran befestigt.}
-{302}{}{Du bindest das Seil am Lüftungsgitter und lässt den Rest des Seiles fallen. Du hörst ein dumpfes Geräusch als es auf dem Boden aufschlägt.}
-{400}{}{Du betrittst einen der Belüftungssysteme der EPA. Du kannst verschiedene Insekten ringsherum wuseln hören.}
+{302}{}{Du bindest das Seil am LÃ¼ftungsgitter und lÃ¤sst den Rest des Seiles fallen. Du hÃ¶rst ein dumpfes GerÃ¤usch als es auf dem Boden aufschlÃ¤gt.}
+{400}{}{Du betrittst einen der BelÃ¼ftungssysteme der EPA. Du kannst verschiedene Insekten ringsherum wuseln hÃ¶ren.}

@@ -1,49 +1,49 @@
-{100}{}{Ves una a una niña pequeña que lleva un vestido amarillo.}
-{101}{}{Ves a Sandy, la niña.}
-{102}{}{Ves a una niña pequeña que lleva un vestido amarillo con flores.  Parece maullar como
+{100}{}{Ves una a una niÃ±a pequeÃ±a que lleva un vestido amarillo.}
+{101}{}{Ves a Sandy, la niÃ±a.}
+{102}{}{Ves a una niÃ±a pequeÃ±a que lleva un vestido amarillo con flores.  Parece maullar como
  un gato. Lleva puesta una etiqueta con su nombre donde pone "Sandy".}
-{103}{}{Miau... Miau... Soy un gato. Y tengo poderes especiales que solo tienen los gatos. ¿Qué eres tú?}
-{104}{}{¡Soy un perrito! ¡Guau! ¡Guau! ¡Guau! ¿Quien eres tú?}
-{105}{}{¿Urrrh? (parece un cachorro asustado)}
-{106}{}{Eres extraña. Me voy.}
+{103}{}{Miau... Miau... Soy un gato. Y tengo poderes especiales que solo tienen los gatos. Â¿QuÃ© eres tÃº?}
+{104}{}{Â¡Soy un perrito! Â¡Guau! Â¡Guau! Â¡Guau! Â¿Quien eres tÃº?}
+{105}{}{Â¿Urrrh? (parece un cachorro asustado)}
+{106}{}{Eres extraÃ±a. Me voy.}
 {107}{}{Soy el que te va a patear el culo si no paras de hacer de jodido gato y me dices tu
  nombre.}
-{108}{}{Soy una persona normal bastante impresionada por tu peculiar temperamento. ¿Me puedes decir tu
+{108}{}{Soy una persona normal bastante impresionada por tu peculiar temperamento. Â¿Me puedes decir tu
  nombre?}
 {109}{}{No importa.}
-{110}{}{(Risitas) ¡Pareces gracioso! Miau... Soy Sandy. Realmente no soy un gato. Tan solo jugaba a 
+{110}{}{(Risitas) Â¡Pareces gracioso! Miau... Soy Sandy. Realmente no soy un gato. Tan solo jugaba a 
  serlo.}
-{111}{}{(Gritos) ¡Mamá! ¡Mamá! ¡Mamá!}
+{111}{}{(Gritos) Â¡MamÃ¡! Â¡MamÃ¡! Â¡MamÃ¡!}
 {112}{}{Soy Sandy. En realidad no soy un gato, tan solo jugaba a serlo.}
-{113}{}{Yo también estaba jugando. ¿Te puedo hacer unas preguntas?}
+{113}{}{Yo tambiÃ©n estaba jugando. Â¿Te puedo hacer unas preguntas?}
 {114}{}{Ahora me voy.}
-{115}{}{Ya veo. ¿Te puedo hacer unas preguntas?}
-{116}{}{De acuerdo, soy todo oídos.}
-{117}{}{¿Qué quieres preguntarme?}
-{118}{}{¿Estás aquí a la fuerza?}
-{119}{}{¿Te gusta estar aquí?}
-{120}{}{¿Estás segura aquí?}
-{121}{}{Olvídalo. Me voy.}
-{122}{}{¿Estás aquí a la fuerza?}
-{123}{}{¿Te gusta este lugar?}
-{124}{}{¿Estás segura aquí?}
-{125}{}{Olvídalo . Adiós}
-{126}{}{Pues sí. Mi madre siempre me dice dónde puedo o no puedo ir. Me dice dónde puedo jugar y cuándo
- comer y cuándo ir a dormir y cuándo hacer pipí y cuándo ir a la escuela y todo. No pienso
- que sea justo que ella pueda hacer todo lo que quiera pero yo tenga que hacer lo que me dice todo el día.}
+{115}{}{Ya veo. Â¿Te puedo hacer unas preguntas?}
+{116}{}{De acuerdo, soy todo oÃ­dos.}
+{117}{}{Â¿QuÃ© quieres preguntarme?}
+{118}{}{Â¿EstÃ¡s aquÃ­ a la fuerza?}
+{119}{}{Â¿Te gusta estar aquÃ­?}
+{120}{}{Â¿EstÃ¡s segura aquÃ­?}
+{121}{}{OlvÃ­dalo. Me voy.}
+{122}{}{Â¿EstÃ¡s aquÃ­ a la fuerza?}
+{123}{}{Â¿Te gusta este lugar?}
+{124}{}{Â¿EstÃ¡s segura aquÃ­?}
+{125}{}{OlvÃ­dalo . AdiÃ³s}
+{126}{}{Pues sÃ­. Mi madre siempre me dice dÃ³nde puedo o no puedo ir. Me dice dÃ³nde puedo jugar y cuÃ¡ndo
+ comer y cuÃ¡ndo ir a dormir y cuÃ¡ndo hacer pipÃ­ y cuÃ¡ndo ir a la escuela y todo. No pienso
+ que sea justo que ella pueda hacer todo lo que quiera pero yo tenga que hacer lo que me dice todo el dÃ­a.}
 {127}{}{Vale.}
 {128}{}{Me tengo que ir ya.}
 {129}{}{Ya veo.}
-{130}{}{Creo que he oído suficiente por ahora. Adiós.}
-{131}{}{Supongo. Echo de menos otros niños con los que jugar, pero mamá dice que cambiará algún día. Ella
- piensa que otros niños vendrán a vivir aquí. Hasta que no lo hagan quiero jugar con Valdis. Es divertido y me hace el caballito. Mamá dice que debo dejar en paz a Valdis. Él está ocupado y no tiene tiempo para jugar conmigo
- aunque siempre juega conmigo cuando se lo pido. No le cuento a mamá nada de esto y ya está.}
+{130}{}{Creo que he oÃ­do suficiente por ahora. AdiÃ³s.}
+{131}{}{Supongo. Echo de menos otros niÃ±os con los que jugar, pero mamÃ¡ dice que cambiarÃ¡ algÃºn dÃ­a. Ella
+ piensa que otros niÃ±os vendrÃ¡n a vivir aquÃ­. Hasta que no lo hagan quiero jugar con Valdis. Es divertido y me hace el caballito. MamÃ¡ dice que debo dejar en paz a Valdis. Ã‰l estÃ¡ ocupado y no tiene tiempo para jugar conmigo
+ aunque siempre juega conmigo cuando se lo pido. No le cuento a mamÃ¡ nada de esto y ya estÃ¡.}
 {132}{}{Caballito... (Parece un cachorro confuso)}
 {133}{}{Yo ir.}
-{134}{}{Eso está bien.}
+{134}{}{Eso estÃ¡ bien.}
 {135}{}{Vale, ya veo.}
-{136}{}{Pues sí. Mamá nos cuida a Valdis y a mí, nadie nos hará daño. Estoy a salvo aquí.}
+{136}{}{Pues sÃ­. MamÃ¡ nos cuida a Valdis y a mÃ­, nadie nos harÃ¡ daÃ±o. Estoy a salvo aquÃ­.}
 {137}{}{De acuerdo. Ahora me voy.}
 {138}{}{Bien; luego me marcho.}
 {139}{}{Hola.}
-{140}{}{¡Lárgate! ¡No me gustas!}
+{140}{}{Â¡LÃ¡rgate! Â¡No me gustas!}

@@ -1,1 +1,1 @@
-{100}{}{Jesteœ na obrze¿ach ogrodzonej czêœci Republiki Nowej Kalifornii.}
+{100}{}{JesteÅ› na obrzeÅ¼ach ogrodzonej czÄ™Å›ci Republiki Nowej Kalifornii.}

@@ -1,65 +1,65 @@
 {100}{}{Tu vois un homme en blouse blanche et avec une calvitie.}
-{101}{}{Tu vois Tom Murray, le directeur de la Commission à l'Energie Atomique (CEA).}
-{102}{}{Tu vois un vieil homme très nerveux qui porte une blouse blanche immaculée.}
+{101}{}{Tu vois Tom Murray, le directeur de la Commission Ã  l'Energie Atomique (CEA).}
+{102}{}{Tu vois un vieil homme trÃ¨s nerveux qui porte une blouse blanche immaculÃ©e.}
 {103}{}{Ma machine ! Ma belle machine est partie... <Sniff, sniff>}
 {104}{}{Nous sommes perdus.}
-{105}{}{Sans ordinateur en ligne, le réacteur va entrer en fusion !}
-{106}{}{Je ne sais même pas nager !}
-{107}{}{Je peux peut-être le réparer...}
+{105}{}{Sans ordinateur en ligne, le rÃ©acteur va entrer en fusion !}
+{106}{}{Je ne sais mÃªme pas nager !}
+{107}{}{Je peux peut-Ãªtre le rÃ©parer...}
 {108}{}{Pourquoi cette alarme sonne-t-elle ?}
 {109}{}{Que se passe-t-il ici ?}
 {110}{}{Pas de panique. PAS DE PANIQUE !!!!!!!!!!!!}
 {111}{}{Ok, restez calmes.}
-{112}{}{Il s'agit peut-être d'un exercice.}
-{113}{}{Revenez au niveau de détention.}
-{114}{}{On voit vraiment la différence.}
-{115}{}{Ton front est plutôt proéminent.}
-{116}{}{Ta capacité crânienne n'a pas l'air d'aller très bien.}
+{112}{}{Il s'agit peut-Ãªtre d'un exercice.}
+{113}{}{Revenez au niveau de dÃ©tention.}
+{114}{}{On voit vraiment la diffÃ©rence.}
+{115}{}{Ton front est plutÃ´t proÃ©minent.}
+{116}{}{Ta capacitÃ© crÃ¢nienne n'a pas l'air d'aller trÃ¨s bien.}
 {117}{}{Si tu te tiens bien, je te donnerai un biscuit dans ta cellule.}
-{118}{}{Toi là-bas, il est interdit de porter ce genre de truc ici !}
+{118}{}{Toi lÃ -bas, il est interdit de porter ce genre de truc ici !}
 {119}{}{Je porte mon armure si j'en ai envie.}
 {120}{}{Oh, pardon. Je dois m'en aller.}
-{121}{}{Ah oui, hein ? Bien, je vais devoir te dénoncer alors.}
+{121}{}{Ah oui, hein ? Bien, je vais devoir te dÃ©noncer alors.}
 {122}{}{Vas-y. Tu me feras plaisir.}
-{123}{}{Oh, ne fais pas ça. Je m'en vais tout de suite. Au revoir.}
-{124}{}{Je suis Tom Murray, le directeur de la Commission à l'Energie Atomique. Je contrôle la centrale atomique. Qui es-tu et que fais-tu ici ?}
+{123}{}{Oh, ne fais pas Ã§a. Je m'en vais tout de suite. Au revoir.}
+{124}{}{Je suis Tom Murray, le directeur de la Commission Ã  l'Energie Atomique. Je contrÃ´le la centrale atomique. Qui es-tu et que fais-tu ici ?}
 {125}{}{Qu'y a-t-il encore ?}
-{126}{}{Je dois arrêter le réacteur atomique.}
-{127}{}{Je voulais juste savoir comment fonctionne le réacteur.}
+{126}{}{Je dois arrÃªter le rÃ©acteur atomique.}
+{127}{}{Je voulais juste savoir comment fonctionne le rÃ©acteur.}
 {128}{}{Je dois t'exterminer.}
 {129}{}{A l'aide ! Au secours !}
 {130}{}{Des intrus ! Alerte !!}
-{131}{}{Sauve qui peut ! Les primitifs ont été lâchés !}
+{131}{}{Sauve qui peut ! Les primitifs ont Ã©tÃ© lÃ¢chÃ©s !}
 {132}{}{Gardes ! A l'aaaaaaaide !}
 {133}{}{Alerte un intrus !! Alerte un intrus !!}
-{134}{}{L'arrêter ? T'as un grain toi ?! On n'arrête pas *mon* réacteur.}
-{135}{}{Mais si. Tu ferais mieux de me dire comment sinon je t'arrête aussi.}
-{136}{}{J'ai dit *Arrêter* ? Pardon, je voulais juste savoir comment fonctionne le réacteur.}
+{134}{}{L'arrÃªter ? T'as un grain toi ?! On n'arrÃªte pas *mon* rÃ©acteur.}
+{135}{}{Mais si. Tu ferais mieux de me dire comment sinon je t'arrÃªte aussi.}
+{136}{}{J'ai dit *ArrÃªter* ? Pardon, je voulais juste savoir comment fonctionne le rÃ©acteur.}
 {137}{}{Oh, c'est le tien ? Pardon, je ne savais pas. Bon, au revoir alors.}
-{138}{}{Bon, écoute, je vais le faire. Mais si tu essaies de l'arrêter trop vite il risque de surchauffer.}
-{139}{}{Je m'en fiche. Arrête ce réacteur ou bien je t'étripe !}
+{138}{}{Bon, Ã©coute, je vais le faire. Mais si tu essaies de l'arrÃªter trop vite il risque de surchauffer.}
+{139}{}{Je m'en fiche. ArrÃªte ce rÃ©acteur ou bien je t'Ã©tripe !}
 {140}{}{Ca a l'air dangereux. Bon, je laisse tomber. Au revoir.}
 {141}{}{Tu bluffes. Tu n'oserais pas.}
-{142}{}{Bien sûr que si. Et si tu ne m'aides pas, tu meurs !}
-{143}{}{Tu as eu une chance de coopérer mais tu as refusé. Oh, je ne peux pas te laisser déclencher l'alarme.}
-{144}{}{Hé, je blaguais. Comment fonctionne ton réacteur ?}
-{145}{}{Ouais, t'as sûrement raison. Tu ferais mieux de rester tranquille jusqu'à mon départ. Salut.}
-{146}{}{Ok, Ok. Je vais le faire. Du calme maintenant. Mais je te préviens. Ca va surchauffer dès que j'aurai abaissé les barres de confinement. Si on fait un arrêt d'urgence, il faudra arrêter immédiatement tout le réacteur ou on aura plus qu'à apprendre le Chinois.}
-{147}{}{Ouais, peu importe. Arrête ce foutu machin tout de suite !}
-{148}{}{Ca a l'air dangereux. Je ferais peut-être mieux de chercher une autre solution. Je ne veux blesser personne. Au revoir.}
+{142}{}{Bien sÃ»r que si. Et si tu ne m'aides pas, tu meurs !}
+{143}{}{Tu as eu une chance de coopÃ©rer mais tu as refusÃ©. Oh, je ne peux pas te laisser dÃ©clencher l'alarme.}
+{144}{}{HÃ©, je blaguais. Comment fonctionne ton rÃ©acteur ?}
+{145}{}{Ouais, t'as sÃ»rement raison. Tu ferais mieux de rester tranquille jusqu'Ã  mon dÃ©part. Salut.}
+{146}{}{Ok, Ok. Je vais le faire. Du calme maintenant. Mais je te prÃ©viens. Ca va surchauffer dÃ¨s que j'aurai abaissÃ© les barres de confinement. Si on fait un arrÃªt d'urgence, il faudra arrÃªter immÃ©diatement tout le rÃ©acteur ou on aura plus qu'Ã  apprendre le Chinois.}
+{147}{}{Ouais, peu importe. ArrÃªte ce foutu machin tout de suite !}
+{148}{}{Ca a l'air dangereux. Je ferais peut-Ãªtre mieux de chercher une autre solution. Je ne veux blesser personne. Au revoir.}
 {149}{}{Je ne vais pas risquer la vie de tout le monde. Pas question.}
 {150}{}{Quel dommage. Je crois que je vais devoir te tuer. Rien de personnel.}
-{151}{}{Pourquoi dangereux ? Et puis comment marche ton réacteur ?}
-{152}{}{Je crois que je vais devoir trouver un autre moyen de couper le courant. Tu ferais mieux de ne pas faire de bruit après mon départ. Adieu.}
-{153}{}{Pas de problème. Ok, euh, fais glisser ça vers le vert. [Il manipule diverses commandes pendant quelques minutes en marmonnant] Ok, c'est fait mais ça ne va pas rester stable bien longtemps.}
+{151}{}{Pourquoi dangereux ? Et puis comment marche ton rÃ©acteur ?}
+{152}{}{Je crois que je vais devoir trouver un autre moyen de couper le courant. Tu ferais mieux de ne pas faire de bruit aprÃ¨s mon dÃ©part. Adieu.}
+{153}{}{Pas de problÃ¨me. Ok, euh, fais glisser Ã§a vers le vert. [Il manipule diverses commandes pendant quelques minutes en marmonnant] Ok, c'est fait mais Ã§a ne va pas rester stable bien longtemps.}
 {154}{}{Tu as bien fait. Maintenant, il faut que je file. Tu ferais mieux de rester tranquille pendant un moment.}
-{155}{}{Bon travail. Je vais devoir quand même te tuer. Eh oui, pas de témoins...}
+{155}{}{Bon travail. Je vais devoir quand mÃªme te tuer. Eh oui, pas de tÃ©moins...}
 {156}{}{Il faut qu'je file. Salut.}
-{157}{}{Mon contrôle du réacteur est limité. L'ordinateur central situé au Nord du réacteur contrôle la plupart des fonctions de la centrale. Sans cela, nous n'aurions pas de courant.}
+{157}{}{Mon contrÃ´le du rÃ©acteur est limitÃ©. L'ordinateur central situÃ© au Nord du rÃ©acteur contrÃ´le la plupart des fonctions de la centrale. Sans cela, nous n'aurions pas de courant.}
 {158}{}{Pas de courant ?}
-{159}{}{Eh bien, pas grand-chose. La lumière, les équipements de vie et les défenses fonctionneraient pendant un temps mais les champs de de force et autres dispositifs à grosse consommation s'arrêteraient immédiatement.}
-{160}{}{Vous seriez drôlement handicapés, non ?}
-{161}{}{Eh bien, ça serait mauvais. Toutes les portes de sécurité étanches se ferment lorsque cela se produit. Impossible de les ouvrir une fois le courant coupé. C'est une mesure de sécurité.}
-{162}{}{Intéressant. Je voulais savoir autre chose.}
-{163}{}{C'est tout ce que je voulais savoir. Merci de ton aide. Tu ferais mieux de rester tranquille après mon départ.}
-{164}{}{Merci. Dommage que tu ne vives pas assez longtemps pour voir ça. Au revoir.}
+{159}{}{Eh bien, pas grand-chose. La lumiÃ¨re, les Ã©quipements de vie et les dÃ©fenses fonctionneraient pendant un temps mais les champs de de force et autres dispositifs Ã  grosse consommation s'arrÃªteraient immÃ©diatement.}
+{160}{}{Vous seriez drÃ´lement handicapÃ©s, non ?}
+{161}{}{Eh bien, Ã§a serait mauvais. Toutes les portes de sÃ©curitÃ© Ã©tanches se ferment lorsque cela se produit. Impossible de les ouvrir une fois le courant coupÃ©. C'est une mesure de sÃ©curitÃ©.}
+{162}{}{IntÃ©ressant. Je voulais savoir autre chose.}
+{163}{}{C'est tout ce que je voulais savoir. Merci de ton aide. Tu ferais mieux de rester tranquille aprÃ¨s mon dÃ©part.}
+{164}{}{Merci. Dommage que tu ne vives pas assez longtemps pour voir Ã§a. Au revoir.}

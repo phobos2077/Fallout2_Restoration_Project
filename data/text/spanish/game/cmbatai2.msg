@@ -1,667 +1,667 @@
-{1000}{}{¡Mi cara! ¡Mi cara!}
-{1001}{}{¡Ow! ¡Eso duele!}
-{1002}{}{¡Ouch! Necesito algo para mi cabeza.}
-{1010}{}{¡Ow, mi brazo!}
-{1011}{}{¡Ow!}
-{1012}{}{¡Me has roto el brazo!}
-{1020}{}{¡Ow, mi brazo!}
-{1021}{}{¡Wahhhh!}
-{1022}{}{¡Dios mío, mi brazo!}
-{1030}{}{¡Ow! ¡Eso ha dolido!}
+{1000}{}{Â¡Mi cara! Â¡Mi cara!}
+{1001}{}{Â¡Ow! Â¡Eso duele!}
+{1002}{}{Â¡Ouch! Necesito algo para mi cabeza.}
+{1010}{}{Â¡Ow, mi brazo!}
+{1011}{}{Â¡Ow!}
+{1012}{}{Â¡Me has roto el brazo!}
+{1020}{}{Â¡Ow, mi brazo!}
+{1021}{}{Â¡Wahhhh!}
+{1022}{}{Â¡Dios mÃ­o, mi brazo!}
+{1030}{}{Â¡Ow! Â¡Eso ha dolido!}
 {1031}{}{Creo que me voy a desmayar}
-{1032}{}{¡Ouch!}
-{1033}{}{¡Oooof!}
-{1034}{}{¡Eso ha dolido!}
-{1035}{}{¡Déjame en paz!}
-{1036}{}{¡Ohhh, duele!}
-{1060}{}{¡Oh, mi pierna!}
-{1061}{}{¡Mi rodilla!}
-{1062}{}{¡Ow!}
-{1070}{}{¡Oh, mi pierna!}
-{1071}{}{¡Mi rodilla!}
-{1072}{}{¡Aaaarrrrggghhh!}
-{1080}{}{¡¡Ay!! ¡Mis ojos!}
-{1081}{}{¡Mi cara! ¡Mis ojos! ¡Aaaaaarrgghh!}
-{1082}{}{¡Mis ojos!}
-{1090}{}{¡Oooooh, la ingle! Oooooh...}
-{1091}{}{Ayy...¡Quema!}
-{1092}{}{¡Urp!}
-{1093}{}{¡Ooorp! aoooww...}
+{1032}{}{Â¡Ouch!}
+{1033}{}{Â¡Oooof!}
+{1034}{}{Â¡Eso ha dolido!}
+{1035}{}{Â¡DÃ©jame en paz!}
+{1036}{}{Â¡Ohhh, duele!}
+{1060}{}{Â¡Oh, mi pierna!}
+{1061}{}{Â¡Mi rodilla!}
+{1062}{}{Â¡Ow!}
+{1070}{}{Â¡Oh, mi pierna!}
+{1071}{}{Â¡Mi rodilla!}
+{1072}{}{Â¡Aaaarrrrggghhh!}
+{1080}{}{Â¡Â¡Ay!! Â¡Mis ojos!}
+{1081}{}{Â¡Mi cara! Â¡Mis ojos! Â¡Aaaaaarrgghh!}
+{1082}{}{Â¡Mis ojos!}
+{1090}{}{Â¡Oooooh, la ingle! Oooooh...}
+{1091}{}{Ayy...Â¡Quema!}
+{1092}{}{Â¡Urp!}
+{1093}{}{Â¡Ooorp! aoooww...}
 {1094}{}{No... puedo... respirar}
 {1095}{}{Duele, duele...}
-{1100}{}{¡Maldición!}
-{1101}{}{¡Mi cráneo dolorido!}
-{1102}{}{¡Mi cara! ¡Mi cara!}
-{1110}{}{¡Aggghhh! ¡Mi brazo!}
-{1111}{}{¡Mi brazo!}
-{1112}{}{¡Oh tío, eso duele!}
-{1120}{}{¡Aggghhh! ¡Mi brazo!}
-{1121}{}{¡Mi brazo!}
+{1100}{}{Â¡MaldiciÃ³n!}
+{1101}{}{Â¡Mi crÃ¡neo dolorido!}
+{1102}{}{Â¡Mi cara! Â¡Mi cara!}
+{1110}{}{Â¡Aggghhh! Â¡Mi brazo!}
+{1111}{}{Â¡Mi brazo!}
+{1112}{}{Â¡Oh tÃ­o, eso duele!}
+{1120}{}{Â¡Aggghhh! Â¡Mi brazo!}
+{1121}{}{Â¡Mi brazo!}
 {1122}{}{}
 {1130}{}{}
-{1131}{}{¡Uf!}
-{1132}{}{¡Ouch!}
-{1133}{}{¡Uf! Me duelen las costillas}
-{1134}{}{¡Ugh! ¡Eso duele!}
-{1135}{}{¡Maldición! ¡Te desprecio!}
-{1136}{}{¡Argh!}
-{1138}{}{Oh, ¡mis costillas!}
-{1139}{}{¡Argh!}
-{1140}{}{¡Uf!}
-{1160}{}{¡Aggghhh! ¡Mi pierna!}
-{1161}{}{¡Mi pierna!}
-{1162}{}{Adiós a mi rodilla}
-{1170}{}{¡Aggghhh! ¡Mi pierna!}
-{1171}{}{¡Mi pierna!}
-{1172}{}{Adiós a mi rodilla}
-{1180}{}{¡Aggghhh! ¡Estoy ciego!}
-{1181}{}{¡Mis ojos! ¡Mis ojos!}
-{1182}{}{¡Mi ojo! ¡Me las vas a pagar!}
-{1190}{}{Oooooo, ¡mi ingle!}
-{1191}{}{¡Ooooooooooh!}
+{1131}{}{Â¡Uf!}
+{1132}{}{Â¡Ouch!}
+{1133}{}{Â¡Uf! Me duelen las costillas}
+{1134}{}{Â¡Ugh! Â¡Eso duele!}
+{1135}{}{Â¡MaldiciÃ³n! Â¡Te desprecio!}
+{1136}{}{Â¡Argh!}
+{1138}{}{Oh, Â¡mis costillas!}
+{1139}{}{Â¡Argh!}
+{1140}{}{Â¡Uf!}
+{1160}{}{Â¡Aggghhh! Â¡Mi pierna!}
+{1161}{}{Â¡Mi pierna!}
+{1162}{}{AdiÃ³s a mi rodilla}
+{1170}{}{Â¡Aggghhh! Â¡Mi pierna!}
+{1171}{}{Â¡Mi pierna!}
+{1172}{}{AdiÃ³s a mi rodilla}
+{1180}{}{Â¡Aggghhh! Â¡Estoy ciego!}
+{1181}{}{Â¡Mis ojos! Â¡Mis ojos!}
+{1182}{}{Â¡Mi ojo! Â¡Me las vas a pagar!}
+{1190}{}{Oooooo, Â¡mi ingle!}
+{1191}{}{Â¡Ooooooooooh!}
 {1192}{}{No... puedo... respirar}
-{1193}{}{¡Erg! ¡Justo en los pendientes reales!}
+{1193}{}{Â¡Erg! Â¡Justo en los pendientes reales!}
 {1194}{}{Duele, duele...}
-{1195}{}{¡Maldición, eso duele!}
-{1200}{}{¡Ow! Hijo de...}
-{1201}{}{¡Me has roto la nariz!}
-{1202}{}{¡Te arrancaré la cabeza!}
+{1195}{}{Â¡MaldiciÃ³n, eso duele!}
+{1200}{}{Â¡Ow! Hijo de...}
+{1201}{}{Â¡Me has roto la nariz!}
+{1202}{}{Â¡Te arrancarÃ© la cabeza!}
 {1210}{}{Ay, mi brazo.}
 {1211}{}{Has cometido el mayor error de tu vida.}
-{1212}{}{¡Mi brazo!}
+{1212}{}{Â¡Mi brazo!}
 {1220}{}{Ay, mi brazo.}
 {1221}{}{Has cometido el mayor error de tu vida.}
-{1222}{}{¡Mi brazo!}
-{1230}{}{¡Urp!}
-{1231}{}{¡Uf!}
-{1232}{}{¡Ouch!}
+{1222}{}{Â¡Mi brazo!}
+{1230}{}{Â¡Urp!}
+{1231}{}{Â¡Uf!}
+{1232}{}{Â¡Ouch!}
 {1233}{}{}
-{1234}{}{¡Ugh! ¡Eso duele!}
-{1235}{}{¡Ouch!}
-{1236}{}{¡Argh!}
-{1237}{}{¡Oh, creo que me has roto una costilla!}
-{1238}{}{¡¡¡Ow!!! ¡Mi bazo!}
-{1239}{}{¡Uf!}
+{1234}{}{Â¡Ugh! Â¡Eso duele!}
+{1235}{}{Â¡Ouch!}
+{1236}{}{Â¡Argh!}
+{1237}{}{Â¡Oh, creo que me has roto una costilla!}
+{1238}{}{Â¡Â¡Â¡Ow!!! Â¡Mi bazo!}
+{1239}{}{Â¡Uf!}
 {1260}{}{Ay, mi pierna.}
-{1261}{}{¡No necesito estar de pie para matarte!}
-{1262}{}{¡Mi rodilla!}
+{1261}{}{Â¡No necesito estar de pie para matarte!}
+{1262}{}{Â¡Mi rodilla!}
 {1270}{}{Ay, mi pierna.}
-{1271}{}{¡No necesito estar de pie para matarte!}
-{1272}{}{¡Mi rodilla!}
-{1280}{}{¡No veo!}
-{1281}{}{Esta pelea se está volviendo peor cada segundo que pasa.}
-{1282}{}{¡Ese ha sido un disparo traicionero!}
-{1290}{}{Oooooo, ¡mi ingle!}
-{1291}{}{Por la mañana sí que me va a doler.}
+{1271}{}{Â¡No necesito estar de pie para matarte!}
+{1272}{}{Â¡Mi rodilla!}
+{1280}{}{Â¡No veo!}
+{1281}{}{Esta pelea se estÃ¡ volviendo peor cada segundo que pasa.}
+{1282}{}{Â¡Ese ha sido un disparo traicionero!}
+{1290}{}{Oooooo, Â¡mi ingle!}
+{1291}{}{Por la maÃ±ana sÃ­ que me va a doler.}
 {1292}{}{}
-{1293}{}{¡Urp!}
+{1293}{}{Â¡Urp!}
 {1294}{}{}
 {1295}{}{}
-{1300}{}{¡Eso me dejará una bonita cicatriz!}
+{1300}{}{Â¡Eso me dejarÃ¡ una bonita cicatriz!}
 {1301}{}{Estoy empezando a cabrearme.}
 {1302}{}{Hazlo otra vez, cerdo.}
-{1310}{}{¡Me has herido!}
+{1310}{}{Â¡Me has herido!}
 {1311}{}{}
-{1312}{}{¡Me has roto el brazo, pero yo te romperé el cuello!}
+{1312}{}{Â¡Me has roto el brazo, pero yo te romperÃ© el cuello!}
 {1320}{}{}
-{1321}{}{Es sólo un rasguño...}
-{1322}{}{¡Me has roto el brazo, pero yo voy a romperte el cuello!}
-{1330}{}{Un poco de sangre no le hace daño a nadie.}
-{1331}{}{¡Uff! Voy a retorcerte el pescuezo por esto...}
-{1332}{}{¡Ow!}
-{1333}{}{¡Me gusta el dolor!}
-{1334}{}{¡Me encanta el sonido de las costillas rompiéndose!}
-{1335}{}{¡Eso no es nada!}
-{1336}{}{¡Arg!}
+{1321}{}{Es sÃ³lo un rasguÃ±o...}
+{1322}{}{Â¡Me has roto el brazo, pero yo voy a romperte el cuello!}
+{1330}{}{Un poco de sangre no le hace daÃ±o a nadie.}
+{1331}{}{Â¡Uff! Voy a retorcerte el pescuezo por esto...}
+{1332}{}{Â¡Ow!}
+{1333}{}{Â¡Me gusta el dolor!}
+{1334}{}{Â¡Me encanta el sonido de las costillas rompiÃ©ndose!}
+{1335}{}{Â¡Eso no es nada!}
+{1336}{}{Â¡Arg!}
 {1360}{}{Me encanta el sonido de los huesos crujiendo.}
 {1361}{}{}
-{1362}{}{¡Me has roto la pierna, pero yo te romperé el cuello!}
+{1362}{}{Â¡Me has roto la pierna, pero yo te romperÃ© el cuello!}
 {1370}{}{Me encanta el sonido de los huesos crujiendo.}
 {1371}{}{}
-{1372}{}{¡Me has roto el brazo, pero yo te romperé el cuello!}
+{1372}{}{Â¡Me has roto el brazo, pero yo te romperÃ© el cuello!}
 {1380}{}{Eh, estoy ciego.}
-{1381}{}{No puedo ver. Supongo que esto hará la pelea más justa.}
-{1382}{}{¡Mis ojos, joder!}
-{1390}{}{Ooh, ¡mi ingle!}
+{1381}{}{No puedo ver. Supongo que esto harÃ¡ la pelea mÃ¡s justa.}
+{1382}{}{Â¡Mis ojos, joder!}
+{1390}{}{Ooh, Â¡mi ingle!}
 {1391}{}{Eso ha sido un golpe bajo.}
 {1392}{}{}
 {1393}{}{}
-{1394}{}{¿Conque es así como quieres jugar?}
-{1395}{}{¡Ack!}
-{1400}{}{¡Atención, registrado mal funcionamiento de la CPU!}
-{1401}{}{¡Advertencia! ¡CPU dañada! ¡Procesamiento dañado!}
-{1402}{}{¡Advertencia! ¡CPU dañada! ¡Desviando sistemas críticos!}
-{1410}{}{Registrado daño en manipulador.}
-{1411}{}{Unidad atacada en manipulador izquierdo. Evaluación de daños.}
-{1412}{}{Daño registrado en manipulador. Intentando compensación.}
-{1420}{}{Registrado daño en manipulador.}
-{1421}{}{Unidad atacada en manipulador derecho. Evaluación de daños.}
-{1422}{}{Daño registrado en manipulador. Intentando compensación.}
-{1430}{}{Impacto en carcasa. Corrigiendo daños.}
+{1394}{}{Â¿Conque es asÃ­ como quieres jugar?}
+{1395}{}{Â¡Ack!}
+{1400}{}{Â¡AtenciÃ³n, registrado mal funcionamiento de la CPU!}
+{1401}{}{Â¡Advertencia! Â¡CPU daÃ±ada! Â¡Procesamiento daÃ±ado!}
+{1402}{}{Â¡Advertencia! Â¡CPU daÃ±ada! Â¡Desviando sistemas crÃ­ticos!}
+{1410}{}{Registrado daÃ±o en manipulador.}
+{1411}{}{Unidad atacada en manipulador izquierdo. EvaluaciÃ³n de daÃ±os.}
+{1412}{}{DaÃ±o registrado en manipulador. Intentando compensaciÃ³n.}
+{1420}{}{Registrado daÃ±o en manipulador.}
+{1421}{}{Unidad atacada en manipulador derecho. EvaluaciÃ³n de daÃ±os.}
+{1422}{}{DaÃ±o registrado en manipulador. Intentando compensaciÃ³n.}
+{1430}{}{Impacto en carcasa. Corrigiendo daÃ±os.}
 {1431}{}{Impacto en carcasa. Reparaciones internas inicializadas.}
 {1432}{}{Estructura principal bajo ataque.}
 {1433}{}{Armadura penetrada.}
 {1434}{}{Estructura principal bajo ataque. Corrigiendo.}
 {1435}{}{Unidad bajo ataque.}
 {1436}{}{Intentando maniobras de combate.}
-{1437}{}{¡Brzzt!}
-{1438}{}{Daños menores.}
-{1439}{}{¡Brzzt!}
-{1460}{}{Registrado daño en unidad motriz.}
-{1462}{}{Unidad atacada en unidad motriz derecha. Evaluando daños.}
-{1463}{}{Daño registrado en unidad motriz. Intentando compensación.}
-{1470}{}{Registrado daño en unidad motriz.}
-{1471}{}{Unidad atacada en unidad motriz izquierda. Evaluación de daños.}
-{1472}{}{Daño registrado en unidad motriz. Intentando compensación.}
-{1480}{}{¡Sensor alcanzado! ¡Sensor alcanzado!}
-{1481}{}{¡Sensores dañados! ¡Sensores dañados!}
-{1482}{}{Mal funcionamiento de los sistemas de sensores, intentando derivación.}
-{1490}{}{¡Registrado mal funcionamiento del regulador!}
-{1491}{}{¡Daños en el regulador! ¡Regulación dañada!}
-{1492}{}{¡Regulador dañado! ¡Desviando sistemas críticos!}
-{1500}{}{Mi cabeza está llena de espíritus malignos.}
-{1501}{}{Puedo escuchar a mis ancestros llamándome.}
-{1502}{}{Eso me dejará una bonita cicatriz.}
-{1503}{}{¡Ouuuuch!}
-{1504}{}{¡Mi cabeza está en llamas!}
-{1505}{}{¡Quema, quema!}
+{1437}{}{Â¡Brzzt!}
+{1438}{}{DaÃ±os menores.}
+{1439}{}{Â¡Brzzt!}
+{1460}{}{Registrado daÃ±o en unidad motriz.}
+{1462}{}{Unidad atacada en unidad motriz derecha. Evaluando daÃ±os.}
+{1463}{}{DaÃ±o registrado en unidad motriz. Intentando compensaciÃ³n.}
+{1470}{}{Registrado daÃ±o en unidad motriz.}
+{1471}{}{Unidad atacada en unidad motriz izquierda. EvaluaciÃ³n de daÃ±os.}
+{1472}{}{DaÃ±o registrado en unidad motriz. Intentando compensaciÃ³n.}
+{1480}{}{Â¡Sensor alcanzado! Â¡Sensor alcanzado!}
+{1481}{}{Â¡Sensores daÃ±ados! Â¡Sensores daÃ±ados!}
+{1482}{}{Mal funcionamiento de los sistemas de sensores, intentando derivaciÃ³n.}
+{1490}{}{Â¡Registrado mal funcionamiento del regulador!}
+{1491}{}{Â¡DaÃ±os en el regulador! Â¡RegulaciÃ³n daÃ±ada!}
+{1492}{}{Â¡Regulador daÃ±ado! Â¡Desviando sistemas crÃ­ticos!}
+{1500}{}{Mi cabeza estÃ¡ llena de espÃ­ritus malignos.}
+{1501}{}{Puedo escuchar a mis ancestros llamÃ¡ndome.}
+{1502}{}{Eso me dejarÃ¡ una bonita cicatriz.}
+{1503}{}{Â¡Ouuuuch!}
+{1504}{}{Â¡Mi cabeza estÃ¡ en llamas!}
+{1505}{}{Â¡Quema, quema!}
 {1506}{}{El dolor habla.}
 {1507}{}{Tu magia es poderosa.}
-{1508}{}{Así no podrás robarme el alma.}
+{1508}{}{AsÃ­ no podrÃ¡s robarme el alma.}
 {1509}{}{Tu magia no me puede matar.}
-{1510}{}{Usaré el brazo derecho para matarte.}
-{1511}{}{Sólo necesito una mano para matarte.}
-{1512}{}{¡Tú dolor será incluso mayor!}
+{1510}{}{UsarÃ© el brazo derecho para matarte.}
+{1511}{}{SÃ³lo necesito una mano para matarte.}
+{1512}{}{Â¡TÃº dolor serÃ¡ incluso mayor!}
 {1513}{}{De todas formas, no necesitaba tantos dedos.}
 {1514}{}{De todo modos ese brazo era demasiado largo.}
-{1515}{}{Te arrancaré los dos brazos por esto.}
-{1516}{}{Por haber hecho eso, te mataré lentamente.}
-{1517}{}{¡Youch!}
-{1518}{}{Cuánta sangre.}
-{1519}{}{Algo que contar a los jóvenes.}
-{1520}{}{Te mataré con la mano izquierda.}
-{1521}{}{¿Tan mala puntería tienes?}
-{1522}{}{Sólo necesito una mano para matarte.}
+{1515}{}{Te arrancarÃ© los dos brazos por esto.}
+{1516}{}{Por haber hecho eso, te matarÃ© lentamente.}
+{1517}{}{Â¡Youch!}
+{1518}{}{CuÃ¡nta sangre.}
+{1519}{}{Algo que contar a los jÃ³venes.}
+{1520}{}{Te matarÃ© con la mano izquierda.}
+{1521}{}{Â¿Tan mala punterÃ­a tienes?}
+{1522}{}{SÃ³lo necesito una mano para matarte.}
 {1523}{}{De todas formas, no necesitaba tantos dedos.}
-{1524}{}{Por haber hecho eso, te mataré lentamente.}
-{1525}{}{Te arrancaré los dos brazos por esto.}
-{1526}{}{¡Me has arrancado un brazo, yo te arrancaré la cabeza!}
-{1527}{}{¿Intentas mutilarme?}
-{1528}{}{Me comeré tus entrañas por haber hecho eso.}
+{1524}{}{Por haber hecho eso, te matarÃ© lentamente.}
+{1525}{}{Te arrancarÃ© los dos brazos por esto.}
+{1526}{}{Â¡Me has arrancado un brazo, yo te arrancarÃ© la cabeza!}
+{1527}{}{Â¿Intentas mutilarme?}
+{1528}{}{Me comerÃ© tus entraÃ±as por haber hecho eso.}
 {1529}{}{Voy a hacer que mueras muy lentamente.}
-{1530}{}{¡Awwwwwg!}
-{1531}{}{¡Las entrañas me queman!}
-{1532}{}{¡Mis entrañas se incendian!}
-{1533}{}{Los espíritus de vida huyen de mí.}
-{1534}{}{¡Me han abierto en canal!}
+{1530}{}{Â¡Awwwwwg!}
+{1531}{}{Â¡Las entraÃ±as me queman!}
+{1532}{}{Â¡Mis entraÃ±as se incendian!}
+{1533}{}{Los espÃ­ritus de vida huyen de mÃ­.}
+{1534}{}{Â¡Me han abierto en canal!}
 {1535}{}{Espero vivir lo suficiente para acabar contigo.}
 {1536}{}{Ancestros, ya llego.}
-{1537}{}{Nunca volveré a ver el poblado.}
-{1538}{}{Al menos moriré con honor.}
-{1539}{}{Mis hermanos me vengarán.}
+{1537}{}{Nunca volverÃ© a ver el poblado.}
+{1538}{}{Al menos morirÃ© con honor.}
+{1539}{}{Mis hermanos me vengarÃ¡n.}
 {1540}{}{No puedo respirar.}
 {1541}{}{Te has llevado mi alma.}
-{1542}{}{¿Serías capaz de mutilarme así?}
+{1542}{}{Â¿SerÃ­as capaz de mutilarme asÃ­?}
 {1543}{}{Me han destripado como a un brahmin.}
 {1544}{}{No me encuentro bien.}
 {1545}{}{No puedo sentir las piernas.}
-{1546}{}{De repente, tengo calor y sueño.}
-{1547}{}{¡Errrggggg!}
-{1548}{}{¡Gulp! Cof, cof.}
+{1546}{}{De repente, tengo calor y sueÃ±o.}
+{1547}{}{Â¡Errrggggg!}
+{1548}{}{Â¡Gulp! Cof, cof.}
 {1549}{}{Debo continuar, debo matar al enemigo...}
 {1550}{}{La oscuridad me llama.}
 {1551}{}{La hora de mi muerte se acerca.}
-{1552}{}{El chamán tenía razón, no volveré.}
+{1552}{}{El chamÃ¡n tenÃ­a razÃ³n, no volverÃ©.}
 {1553}{}{El forastero me ha exterminado.}
 {1554}{}{Estoy muerto.}
-{1555}{}{¡Mis tripas se han separado de mi estómago!}
-{1556}{}{No dejéis avergonzarme de mí mismo a la hora de morir.}
-{1557}{}{Maldigo estos frágiles intestinos.}
+{1555}{}{Â¡Mis tripas se han separado de mi estÃ³mago!}
+{1556}{}{No dejÃ©is avergonzarme de mÃ­ mismo a la hora de morir.}
+{1557}{}{Maldigo estos frÃ¡giles intestinos.}
 {1558}{}{Eh, mira esto, puedo ver mi almuerzo.}
-{1559}{}{¿Dónde está el aire?}
-{1560}{}{Tendré que arrastrarme para matarte.}
+{1559}{}{Â¿DÃ³nde estÃ¡ el aire?}
+{1560}{}{TendrÃ© que arrastrarme para matarte.}
 {1561}{}{Debo seguir en pie, debo...}
-{1562}{}{¡No me hagas correr para atraparte!}
-{1563}{}{¡Me has dejado lisiado, cobarde!}
-{1564}{}{¡Awwwwgg!}
-{1565}{}{¿El hueso? Tan blanco...}
-{1566}{}{¿Por qué no puedo caminar?}
+{1562}{}{Â¡No me hagas correr para atraparte!}
+{1563}{}{Â¡Me has dejado lisiado, cobarde!}
+{1564}{}{Â¡Awwwwgg!}
+{1565}{}{Â¿El hueso? Tan blanco...}
+{1566}{}{Â¿Por quÃ© no puedo caminar?}
 {1567}{}{Arrrrrrgh.}
 {1568}{}{Unnhhh.}
 {1569}{}{Siento como fuego en la pierna.}
-{1570}{}{Tendré que arrastrarme para matarte.}
+{1570}{}{TendrÃ© que arrastrarme para matarte.}
 {1571}{}{Debo seguir en pie, debo...}
-{1572}{}{¡No me hagas correr para atraparte!}
-{1573}{}{¡Me has dejado lisiado, cobarde!}
-{1574}{}{¡Awwwwgg!}
-{1575}{}{¿El hueso? Tan blanco...}
+{1572}{}{Â¡No me hagas correr para atraparte!}
+{1573}{}{Â¡Me has dejado lisiado, cobarde!}
+{1574}{}{Â¡Awwwwgg!}
+{1575}{}{Â¿El hueso? Tan blanco...}
 {1576}{}{No puedo andar. Oh, que dolor...}
-{1577}{}{Sólo por eso te quemaré los pies.}
-{1578}{}{¡Ooooo-ouuuuch!}
+{1577}{}{SÃ³lo por eso te quemarÃ© los pies.}
+{1578}{}{Â¡Ooooo-ouuuuch!}
 {1579}{}{Siento como fuego en la pierna.}
 {1580}{}{La oscuridad ha llegado.}
-{1581}{}{¿Dónde estás?}
-{1582}{}{Ayuda, ayúdame.}
-{1583}{}{Todavía puedo oírte.}
-{1584}{}{¿Quieres cegarme? ¡Cobarde!}
+{1581}{}{Â¿DÃ³nde estÃ¡s?}
+{1582}{}{Ayuda, ayÃºdame.}
+{1583}{}{TodavÃ­a puedo oÃ­rte.}
+{1584}{}{Â¿Quieres cegarme? Â¡Cobarde!}
 {1585}{}{Mi vista ha sido robada.}
-{1586}{}{¡Puedes arrebatarme los ojos pero no mi coraje!}
-{1587}{}{¡Ven aquí para que pueda matarte!}
-{1588}{}{La oscuridad, la oscuridad, ¡Aaaiiiieee!}
-{1589}{}{¡¿¡Dónde está mi ojo, dónde está!?!}
+{1586}{}{Â¡Puedes arrebatarme los ojos pero no mi coraje!}
+{1587}{}{Â¡Ven aquÃ­ para que pueda matarte!}
+{1588}{}{La oscuridad, la oscuridad, Â¡Aaaiiiieee!}
+{1589}{}{Â¡Â¿Â¡DÃ³nde estÃ¡ mi ojo, dÃ³nde estÃ¡!?!}
 {1590}{}{De todas formas ya tengo demasiados hijos.}
 {1591}{}{Luchas sin honor.}
-{1592}{}{Estoy casado, así que de todas formas no la usaba.}
-{1593}{}{Espíritus sagrados, el mundo ha explotado.}
+{1592}{}{Estoy casado, asÃ­ que de todas formas no la usaba.}
+{1593}{}{EspÃ­ritus sagrados, el mundo ha explotado.}
 {1594}{}{Glup... no puedo respirar...}
-{1595}{}{:En voz alta y chillona: ¡Ouch!}
+{1595}{}{:En voz alta y chillona: Â¡Ouch!}
 {1596}{}{Unnhhh. Necesito sentarme un momento.}
-{1597}{}{Bastardo... Te mataré lentamente por haber hecho eso.}
+{1597}{}{Bastardo... Te matarÃ© lentamente por haber hecho eso.}
 {1598}{}{No sabes nada del honor.}
-{1599}{}{Te descuartizaré como a un animal por esto.}
+{1599}{}{Te descuartizarÃ© como a un animal por esto.}
 {1600}{}{Oh, mi hermosa cara}
 {1601}{}{Me duelen los sesos.}
 {1602}{}{Ahora me parezco a Van Gogh.}
-{1603}{}{Maldición, adiós a mi nariz.}
-{1604}{}{Eh, ese era mi último diente.}
-{1605}{}{¡Me han arrancado el cuero cabelludo!}
-{1606}{}{Preferiría tener una botella delante mío...}
-{1607}{}{Déjame que comparta mis ideas.}
+{1603}{}{MaldiciÃ³n, adiÃ³s a mi nariz.}
+{1604}{}{Eh, ese era mi Ãºltimo diente.}
+{1605}{}{Â¡Me han arrancado el cuero cabelludo!}
+{1606}{}{PreferirÃ­a tener una botella delante mÃ­o...}
+{1607}{}{DÃ©jame que comparta mis ideas.}
 {1608}{}{Ese era mi ojo bueno, Arrr.}
 {1609}{}{Mi ojo bueno llora.}
-{1610}{}{¡Me has desarmado!}
+{1610}{}{Â¡Me has desarmado!}
 {1611}{}{Ooohh, el dolor, el dolor.}
-{1612}{}{Aún me quedan un par de dedos.}
-{1613}{}{Sólo necesito un dedo para ocuparme de ti, nenaza.}
-{1614}{}{Entonces creo que te daré una mano.}
-{1615}{}{Eso es peor que cuando se me rompieron las uñas.}
+{1612}{}{AÃºn me quedan un par de dedos.}
+{1613}{}{SÃ³lo necesito un dedo para ocuparme de ti, nenaza.}
+{1614}{}{Entonces creo que te darÃ© una mano.}
+{1615}{}{Eso es peor que cuando se me rompieron las uÃ±as.}
 {1616}{}{Eso va a arruinar mi swing.}
-{1617}{}{¡Te apuñalaré con mi muñón!}
-{1618}{}{Eh, ¿a dónde han ido mis dedos?}
-{1619}{}{Esto me vendrá genial para parecerme al Capitán Garfio.}
-{1620}{}{Debería haber usado la izquierda.}
-{1621}{}{¡Me has roto el brazo!}
-{1622}{}{¡Lamentarás eso!}
-{1623}{}{Aún me quedan un par de dedos.}
-{1624}{}{Adiós a Wimbledon.}
+{1617}{}{Â¡Te apuÃ±alarÃ© con mi muÃ±Ã³n!}
+{1618}{}{Eh, Â¿a dÃ³nde han ido mis dedos?}
+{1619}{}{Esto me vendrÃ¡ genial para parecerme al CapitÃ¡n Garfio.}
+{1620}{}{DeberÃ­a haber usado la izquierda.}
+{1621}{}{Â¡Me has roto el brazo!}
+{1622}{}{Â¡LamentarÃ¡s eso!}
+{1623}{}{AÃºn me quedan un par de dedos.}
+{1624}{}{AdiÃ³s a Wimbledon.}
 {1625}{}{Sieg h... oh, mejor no.}
-{1626}{}{¡Me has desarmado!}
-{1627}{}{Sólo necesito un dedo para ocuparme de ti, nenaza.}
-{1628}{}{Entonces te patearé hasta matarte.}
-{1629}{}{¡Adiós a mi guante de Michael Jackson!}
-{1630}{}{Ese es mi hígado, ¡devuélvemelo!}
-{1631}{}{Sólo un poco más a la derecha, ahhh, así mejor.}
-{1632}{}{¡Gerrk!}
-{1633}{}{¿Qué es ese olor mohoso? Oh, mis entrañas.}
-{1634}{}{Ahora que me has destripado, estoy taaan esbelto... ¡Gracias!}
-{1635}{}{[Canta] Te dí mi corazón...}
+{1626}{}{Â¡Me has desarmado!}
+{1627}{}{SÃ³lo necesito un dedo para ocuparme de ti, nenaza.}
+{1628}{}{Entonces te patearÃ© hasta matarte.}
+{1629}{}{Â¡AdiÃ³s a mi guante de Michael Jackson!}
+{1630}{}{Ese es mi hÃ­gado, Â¡devuÃ©lvemelo!}
+{1631}{}{SÃ³lo un poco mÃ¡s a la derecha, ahhh, asÃ­ mejor.}
+{1632}{}{Â¡Gerrk!}
+{1633}{}{Â¿QuÃ© es ese olor mohoso? Oh, mis entraÃ±as.}
+{1634}{}{Ahora que me has destripado, estoy taaan esbelto... Â¡Gracias!}
+{1635}{}{[Canta] Te dÃ­ mi corazÃ³n...}
 {1636}{}{Caricias para mis costillas.}
-{1637}{}{¿Qué es ese olor mohoso? Oh, son mis entrañas.}
-{1638}{}{Un poco más a la orilla, doctor.}
-{1639}{}{Arrggghh, ¡mi columna!}
+{1637}{}{Â¿QuÃ© es ese olor mohoso? Oh, son mis entraÃ±as.}
+{1638}{}{Un poco mÃ¡s a la orilla, doctor.}
+{1639}{}{Arrggghh, Â¡mi columna!}
 {1640}{}{Caricias en las costillas.}
-{1641}{}{Y quién necesita el apéndice.}
-{1642}{}{Ahí te has pasado un poco, doc.}
-{1643}{}{¡Arrggghh, mi columna!}
-{1660}{}{¡Oh, mi pierna!}
-{1661}{}{¡Pagarás por eso!}
-{1662}{}{¡Argh! ¡Me has roto la pierna! ¡Yo te romperé el cuello!}
-{1663}{}{Mierda, se acabó bailar el tango.}
-{1664}{}{Maldición, adiós a los dedos de los pies.}
-{1665}{}{Ahora también necesito otra pierna.}
-{1666}{}{¡Has arruinado mis zapatos de gamuza azul!}
-{1667}{}{¡Me has reventado los dedos!}
-{1668}{}{Y estaba recién afeitada.}
-{1669}{}{¡Me arrancaré las rótulas con los dientes!}
-{1670}{}{¡Mi pierna!}
-{1671}{}{¡Me has destrozado mis Gucci!}
-{1672}{}{¡Ouch! ¡Eh! ¡Eso ha ido debajo de la cintura!}
+{1641}{}{Y quiÃ©n necesita el apÃ©ndice.}
+{1642}{}{AhÃ­ te has pasado un poco, doc.}
+{1643}{}{Â¡Arrggghh, mi columna!}
+{1660}{}{Â¡Oh, mi pierna!}
+{1661}{}{Â¡PagarÃ¡s por eso!}
+{1662}{}{Â¡Argh! Â¡Me has roto la pierna! Â¡Yo te romperÃ© el cuello!}
+{1663}{}{Mierda, se acabÃ³ bailar el tango.}
+{1664}{}{MaldiciÃ³n, adiÃ³s a los dedos de los pies.}
+{1665}{}{Ahora tambiÃ©n necesito otra pierna.}
+{1666}{}{Â¡Has arruinado mis zapatos de gamuza azul!}
+{1667}{}{Â¡Me has reventado los dedos!}
+{1668}{}{Y estaba reciÃ©n afeitada.}
+{1669}{}{Â¡Me arrancarÃ© las rÃ³tulas con los dientes!}
+{1670}{}{Â¡Mi pierna!}
+{1671}{}{Â¡Me has destrozado mis Gucci!}
+{1672}{}{Â¡Ouch! Â¡Eh! Â¡Eso ha ido debajo de la cintura!}
 {1673}{}{Sabes hacerme enfadar como nadie.}
-{1674}{}{Castígame, mamá. He sido malo.}
-{1675}{}{Eso dejará una buena cicatriz.}
-{1676}{}{¿Toda esa sangre es mía?}
-{1677}{}{¡Sheriff Dillon, Sheriff Dillon!}
+{1674}{}{CastÃ­game, mamÃ¡. He sido malo.}
+{1675}{}{Eso dejarÃ¡ una buena cicatriz.}
+{1676}{}{Â¿Toda esa sangre es mÃ­a?}
+{1677}{}{Â¡Sheriff Dillon, Sheriff Dillon!}
 {1678}{}{Me va a salir una ampolla.}
-{1679}{}{¡Kai, yai, yippee, ai, ay!}
-{1680}{}{¡Tengo sangre en los ojos!}
-{1681}{}{¡Mi ojo! ¡Me las vas a pagar!}
-{1682}{}{¡Bastardo!}
-{1683}{}{¿Quién ha apagado las luces?}
-{1684}{}{Eh, ¡ese era mi ojo de cristal!}
-{1685}{}{Hace un ruido como cuando aplastas una uva madura, ¿verdad?}
-{1686}{}{Tengo un ojo puesto en ti, eh, ¿podrías devolvérmelo, por favor?}
-{1687}{}{¡Aún puedo saber dónde estás por el sonido!}
-{1688}{}{¡Ayyyy! ¡Ayyyy! ¡Mi ojo!}
-{1689}{}{Intentas cegarme porque me temes, ¿no?}
+{1679}{}{Â¡Kai, yai, yippee, ai, ay!}
+{1680}{}{Â¡Tengo sangre en los ojos!}
+{1681}{}{Â¡Mi ojo! Â¡Me las vas a pagar!}
+{1682}{}{Â¡Bastardo!}
+{1683}{}{Â¿QuiÃ©n ha apagado las luces?}
+{1684}{}{Eh, Â¡ese era mi ojo de cristal!}
+{1685}{}{Hace un ruido como cuando aplastas una uva madura, Â¿verdad?}
+{1686}{}{Tengo un ojo puesto en ti, eh, Â¿podrÃ­as devolvÃ©rmelo, por favor?}
+{1687}{}{Â¡AÃºn puedo saber dÃ³nde estÃ¡s por el sonido!}
+{1688}{}{Â¡Ayyyy! Â¡Ayyyy! Â¡Mi ojo!}
+{1689}{}{Intentas cegarme porque me temes, Â¿no?}
 {1690}{}{No eres nada caballeroso.}
-{1691}{}{¡Ooooouuuuch!}
-{1692}{}{¡Unnhhhhh!}
-{1693}{}{Tal vez debería no moverme durante un rato...}
-{1694}{}{¡Eso es mi carne de res!}
-{1695}{}{Ahí va mi vida social.}
-{1696}{}{Quizá si no me muevo en un rato...}
+{1691}{}{Â¡Ooooouuuuch!}
+{1692}{}{Â¡Unnhhhhh!}
+{1693}{}{Tal vez deberÃ­a no moverme durante un rato...}
+{1694}{}{Â¡Eso es mi carne de res!}
+{1695}{}{AhÃ­ va mi vida social.}
+{1696}{}{QuizÃ¡ si no me muevo en un rato...}
 {1697}{}{Gee, si hubieran muejeres ghouls estaria enfadado contigo.}
-{1698}{}{Adiós a mi vida social.}
+{1698}{}{AdiÃ³s a mi vida social.}
 {1699}{}{Creo que necesito sentarme un ratito.}
-{1700}{}{Mierda, si hubiera necrófagas estaría bastante cabreado contigo.}
-{1701}{}{¿Alguien quiere nuez molida?}
-{1702}{}{No podré volver a escribir mi nombre en la nieve.}
-{1703}{}{Vaya, mira! Para un cóctel Prairie Oyster.}
+{1700}{}{Mierda, si hubiera necrÃ³fagas estarÃ­a bastante cabreado contigo.}
+{1701}{}{Â¿Alguien quiere nuez molida?}
+{1702}{}{No podrÃ© volver a escribir mi nombre en la nieve.}
+{1703}{}{Vaya, mira! Para un cÃ³ctel Prairie Oyster.}
 {1704}{}{Mi... cabeza... me... desvanezco.}
-{1705}{}{¡Ugnnn!}
-{1706}{}{¡En la cara no! ¡En la cara no!}
-{1710}{}{¡Puedo vencerte con un solo brazo!}
-{1711}{}{¡Médico! ¡Me han jodido el brazo!}
-{1712}{}{¡Aj! Menos mal que soy ambidex... como sea.}
-{1720}{}{¡Me has roto el brazo! ¡Ahora la pelea será justa!}
-{1721}{}{¡Médico! ¡Me han jodido el brazo!}
-{1722}{}{Tendrás que quitarme algo más que el brazo para salvar tu pellejo!}
-{1730}{}{¡Ahhg! ¡En las tripas!}
-{1731}{}{¡Hnrgggg! No puedo... respirar...}
-{1732}{}{Me duelen las costillas. ¡Pronto te quitaré las tuyas! ¡Es lo justo!}
-{1733}{}{¡Me... las... pagarás... por... eso!}
+{1705}{}{Â¡Ugnnn!}
+{1706}{}{Â¡En la cara no! Â¡En la cara no!}
+{1710}{}{Â¡Puedo vencerte con un solo brazo!}
+{1711}{}{Â¡MÃ©dico! Â¡Me han jodido el brazo!}
+{1712}{}{Â¡Aj! Menos mal que soy ambidex... como sea.}
+{1720}{}{Â¡Me has roto el brazo! Â¡Ahora la pelea serÃ¡ justa!}
+{1721}{}{Â¡MÃ©dico! Â¡Me han jodido el brazo!}
+{1722}{}{TendrÃ¡s que quitarme algo mÃ¡s que el brazo para salvar tu pellejo!}
+{1730}{}{Â¡Ahhg! Â¡En las tripas!}
+{1731}{}{Â¡Hnrgggg! No puedo... respirar...}
+{1732}{}{Me duelen las costillas. Â¡Pronto te quitarÃ© las tuyas! Â¡Es lo justo!}
+{1733}{}{Â¡Me... las... pagarÃ¡s... por... eso!}
 {1734}{}{*Ooooof* Dios, odio eso...}
-{1735}{}{¡Nggg! ¡En el plexo solar!}
-{1760}{}{¡Maldita sea! ¡Mi pierna!}
+{1735}{}{Â¡Nggg! Â¡En el plexo solar!}
+{1760}{}{Â¡Maldita sea! Â¡Mi pierna!}
 {1761}{}{No necesito dos piernas para darte una patada en el culo.}
 {1762}{}{Voy a necesitar un estimulante para mi pierna...}
 {1763}{}{Urggg... pierna... jodida...}
-{1770}{}{¡Maldita sea! ¡Mi pierna!}
-{1771}{}{*Ergg* Va a quedarme cojera después de esto...}
+{1770}{}{Â¡Maldita sea! Â¡Mi pierna!}
+{1771}{}{*Ergg* Va a quedarme cojera despuÃ©s de esto...}
 {1772}{}{Voy a necesitar un estimulante para mi pierna...}
 {1773}{}{Urggg... pierna... jodida...}
-{1780}{}{¡Mierda! ¡Los ojos no!}
-{1781}{}{Tratando de quitarme mi percepción de la profundidad, ¿eh?}
+{1780}{}{Â¡Mierda! Â¡Los ojos no!}
+{1781}{}{Tratando de quitarme mi percepciÃ³n de la profundidad, Â¿eh?}
 {1782}{}{No... puedo... ver... sangre en... ojos...}
-{1783}{}{¡Aunque no te vea, puedo olerte!}
-{1790}{}{¿Que te crees que es esto? ¿Una película barata de acción?}
-{1791}{}{¡¡Mis pelotas!! ¡Ven aquí para que te haga lo mismo!}
-{1792}{}{Vaya, ahí van mis grandes pelotas.}
+{1783}{}{Â¡Aunque no te vea, puedo olerte!}
+{1790}{}{Â¿Que te crees que es esto? Â¿Una pelÃ­cula barata de acciÃ³n?}
+{1791}{}{Â¡Â¡Mis pelotas!! Â¡Ven aquÃ­ para que te haga lo mismo!}
+{1792}{}{Vaya, ahÃ­ van mis grandes pelotas.}
 {1793}{}{Perdona un momento mientras me vomito encima.}
-{1794}{}{Genial. Tendré que luchar con una coquilla.}
-{1795}{}{Déjame recostarme un segundo, que después te mataré.}
-{1796}{}{¡Mierda! Oh. Vaya, ya no tendré más hijos.}
+{1794}{}{Genial. TendrÃ© que luchar con una coquilla.}
+{1795}{}{DÃ©jame recostarme un segundo, que despuÃ©s te matarÃ©.}
+{1796}{}{Â¡Mierda! Oh. Vaya, ya no tendrÃ© mÃ¡s hijos.}
 {1800}{}{Eh. Algo me ha dado en la cara.}
-{1801}{}{¿Qué me ha dado en la cabeza?}
+{1801}{}{Â¿QuÃ© me ha dado en la cabeza?}
 {1802}{}{Ngggg.}
 {1803}{}{Menos mal que estoy hasta arriba de Jet, o eso me hubiera dolido.}
-{1804}{}{¡Ouuuu! ¡Que alguien me de un estimulante! ¡O algo de Jet!}
-{1810}{}{¡Hey! ¡Algo me ha dado en el brazo!}
-{1811}{}{Mira, mi brazo sólo sirve para pincharme. Deja de atacarlo.}
+{1804}{}{Â¡Ouuuu! Â¡Que alguien me de un estimulante! Â¡O algo de Jet!}
+{1810}{}{Â¡Hey! Â¡Algo me ha dado en el brazo!}
+{1811}{}{Mira, mi brazo sÃ³lo sirve para pincharme. Deja de atacarlo.}
 {1812}{}{Nggggg.}
-{1813}{}{¡Ouuuu! ¡Que alguien me de un estimulante! ¡O algo de Jet!}
-{1820}{}{¡Hey! ¡Algo me ha dado en el brazo!}
-{1821}{}{Mira, mi brazo sólo sirve para pincharme. Deja de atacarlo.}
+{1813}{}{Â¡Ouuuu! Â¡Que alguien me de un estimulante! Â¡O algo de Jet!}
+{1820}{}{Â¡Hey! Â¡Algo me ha dado en el brazo!}
+{1821}{}{Mira, mi brazo sÃ³lo sirve para pincharme. Deja de atacarlo.}
 {1822}{}{Nggggg.}
-{1823}{}{¡Ouuuu! ¡Que alguien me de un estimulante! ¡O algo de Jet!}
-{1830}{}{¡Mi bazo!}
-{1831}{}{¡Ou! Ouuuu, ¡mi maldito pecho! ¡Ou!}
-{1832}{}{¡Eh! ¡¿Con qué me has dado en el pecho, gilipollas?!}
-{1833}{}{¡Deja de darme en el pecho!}
+{1823}{}{Â¡Ouuuu! Â¡Que alguien me de un estimulante! Â¡O algo de Jet!}
+{1830}{}{Â¡Mi bazo!}
+{1831}{}{Â¡Ou! Ouuuu, Â¡mi maldito pecho! Â¡Ou!}
+{1832}{}{Â¡Eh! Â¡Â¿Con quÃ© me has dado en el pecho, gilipollas?!}
+{1833}{}{Â¡Deja de darme en el pecho!}
 {1834}{}{Guau. Mi pecho. Lo has herido. Mola.}
 {1835}{}{Nrgggg.}
 {1836}{}{*hfff*}
-{1837}{}{¡Ouuuu! ¡Que alguien me de un estimulante! ¡O algo de Jet!}
-{1860}{}{¡Eh! ¡Algo me ha dado en la pierna!}
-{1861}{}{¡Eh! ¡Que esa pierna la uso para andar!}
-{1862}{}{¡Ouuuu! ¡Que alguien me de un estimulante! ¡O algo de Jet!}
-{1870}{}{¡Eh! ¡Algo me ha dado en la pierna!}
-{1871}{}{¡Eh! ¡Que esa pierna la uso para andar!}
-{1872}{}{¡Ouuuu! ¡Que alguien me de un estimulante! ¡O algo de Jet!}
-{1880}{}{Eso no se parecía a un pinchazo en mi ojo...}
-{1881}{}{¡Eh! ¡Que ese ojo lo uso para ver!}
-{1882}{}{¡Mis ojos! ¡Mis ojos! ¡Me duelen los ojos!}
+{1837}{}{Â¡Ouuuu! Â¡Que alguien me de un estimulante! Â¡O algo de Jet!}
+{1860}{}{Â¡Eh! Â¡Algo me ha dado en la pierna!}
+{1861}{}{Â¡Eh! Â¡Que esa pierna la uso para andar!}
+{1862}{}{Â¡Ouuuu! Â¡Que alguien me de un estimulante! Â¡O algo de Jet!}
+{1870}{}{Â¡Eh! Â¡Algo me ha dado en la pierna!}
+{1871}{}{Â¡Eh! Â¡Que esa pierna la uso para andar!}
+{1872}{}{Â¡Ouuuu! Â¡Que alguien me de un estimulante! Â¡O algo de Jet!}
+{1880}{}{Eso no se parecÃ­a a un pinchazo en mi ojo...}
+{1881}{}{Â¡Eh! Â¡Que ese ojo lo uso para ver!}
+{1882}{}{Â¡Mis ojos! Â¡Mis ojos! Â¡Me duelen los ojos!}
 {1890}{}{Estoy tan hasta arriba de Jet, que apenas he sentido eso. Oh... no es cierto.}
 {1891}{}{*Hurhkkkk*}
-{1892}{}{Golpéame en mis partes, ¡¿quieres?!}
-{1893}{}{¡Nghhhhh!}
-{1894}{}{¡En la ingle no! ¡En la ingle no!}
-{1895}{}{¡Mis genitales! ¡Mis pobres genitales!}
-{1896}{}{Discúlpame mientras me revuelco por el suelo gritando de dolor.}
+{1892}{}{GolpÃ©ame en mis partes, Â¡Â¿quieres?!}
+{1893}{}{Â¡Nghhhhh!}
+{1894}{}{Â¡En la ingle no! Â¡En la ingle no!}
+{1895}{}{Â¡Mis genitales! Â¡Mis pobres genitales!}
+{1896}{}{DiscÃºlpame mientras me revuelco por el suelo gritando de dolor.}
 {1897}{}{Eso... me ha... dolido... MUCHO.}
 {1898}{}{Espero que mis partes hayan ido al cielo de los genitales.}
-{2000}{}{¡Piedad!}
-{2001}{}{¡Que alguien me ayude!}
-{2002}{}{¡Por favor, para!}
-{2003}{}{¡Ayuda!}
-{2004}{}{¡Aaaaahhhh!}
-{2005}{}{¡Piedad!}
-{2020}{}{Hmm, eh, ¡para!}
+{2000}{}{Â¡Piedad!}
+{2001}{}{Â¡Que alguien me ayude!}
+{2002}{}{Â¡Por favor, para!}
+{2003}{}{Â¡Ayuda!}
+{2004}{}{Â¡Aaaaahhhh!}
+{2005}{}{Â¡Piedad!}
+{2020}{}{Hmm, eh, Â¡para!}
 {2021}{}{No me gustan los de tu clase...}
-{2022}{}{Realmente esperaba que no tuviéramos que llegar a esto...}
-{2023}{}{Supongo que tendré que defenderme}
-{2024}{}{Supongo que tendré que defenderme}
-{2025}{}{Realmente esperaba que no tuviéramos que llegar a esto...}
-{2040}{}{¡Toma esto!}
-{2041}{}{¡No deberías haber empezado esto!}
-{2042}{}{¡Te lo has buscado!}
-{2043}{}{¿Qué te parece esto?}
+{2022}{}{Realmente esperaba que no tuviÃ©ramos que llegar a esto...}
+{2023}{}{Supongo que tendrÃ© que defenderme}
+{2024}{}{Supongo que tendrÃ© que defenderme}
+{2025}{}{Realmente esperaba que no tuviÃ©ramos que llegar a esto...}
+{2040}{}{Â¡Toma esto!}
+{2041}{}{Â¡No deberÃ­as haber empezado esto!}
+{2042}{}{Â¡Te lo has buscado!}
+{2043}{}{Â¿QuÃ© te parece esto?}
 {2044}{}{}
-{2045}{}{¡Bestia!}
-{2046}{}{¡No quiero hacer esto!}
+{2045}{}{Â¡Bestia!}
+{2046}{}{Â¡No quiero hacer esto!}
 {2047}{}{}
-{2048}{}{No quería luchar, pero...}
-{2049}{}{¡Rufián!}
+{2048}{}{No querÃ­a luchar, pero...}
+{2049}{}{Â¡RufiÃ¡n!}
 {2060}{}{}
-{2061}{}{¡Has fallado!}
-{2062}{}{¡Wow! ¡Eso pudo haber dolido!}
-{2063}{}{¡Fiuu! ¡Sigo vivo!}
-{2064}{}{¡Eh! ¡Eso pudo haber dolido!}
-{2065}{}{¡Fiuu! ¡Sigo vivo!}
-{2100}{}{¡Ataca a otro, por favor!}
-{2101}{}{¡Ten piedad!}
-{2102}{}{¡Que alguien me ayude!}
-{2103}{}{¡Por favor, para!}
+{2061}{}{Â¡Has fallado!}
+{2062}{}{Â¡Wow! Â¡Eso pudo haber dolido!}
+{2063}{}{Â¡Fiuu! Â¡Sigo vivo!}
+{2064}{}{Â¡Eh! Â¡Eso pudo haber dolido!}
+{2065}{}{Â¡Fiuu! Â¡Sigo vivo!}
+{2100}{}{Â¡Ataca a otro, por favor!}
+{2101}{}{Â¡Ten piedad!}
+{2102}{}{Â¡Que alguien me ayude!}
+{2103}{}{Â¡Por favor, para!}
 {2104}{}{}
-{2105}{}{¡No voy a morir por esto!}
+{2105}{}{Â¡No voy a morir por esto!}
 {2120}{}{Espera a que te atrape...}
 {2121}{}{}
-{2122}{}{¡Eh, tú!}
-{2123}{}{No eres bienvenido aquí.}
+{2122}{}{Â¡Eh, tÃº!}
+{2123}{}{No eres bienvenido aquÃ­.}
 {2124}{}{Nadie se va a quedar con este sitio...}
-{2125}{}{¿Quién te crees que eres?}
-{2140}{}{¡No deberías haber hecho eso!}
-{2141}{}{¡Cuidamos de nosotros mismos!}
-{2142}{}{¡Esto es lo que les hacemos a las alimañas!}
-{2143}{}{¡Monstruo mutante!}
-{2144}{}{¡Bastardo!}
-{2145}{}{¡Serás comida para los perros!}
-{2146}{}{¡Esto te enseñará!}
+{2125}{}{Â¿QuiÃ©n te crees que eres?}
+{2140}{}{Â¡No deberÃ­as haber hecho eso!}
+{2141}{}{Â¡Cuidamos de nosotros mismos!}
+{2142}{}{Â¡Esto es lo que les hacemos a las alimaÃ±as!}
+{2143}{}{Â¡Monstruo mutante!}
+{2144}{}{Â¡Bastardo!}
+{2145}{}{Â¡SerÃ¡s comida para los perros!}
+{2146}{}{Â¡Esto te enseÃ±arÃ¡!}
 {2147}{}{Bien. Te lo has buscado.}
-{2148}{}{¡Animal!}
-{2149}{}{¡Tendrás lo que te mereces!}
-{2160}{}{No soy tan malo, ¿verdad?}
-{2161}{}{He visto brahmines más listos que tú.}
-{2162}{}{¡Fiuu!}
+{2148}{}{Â¡Animal!}
+{2149}{}{Â¡TendrÃ¡s lo que te mereces!}
+{2160}{}{No soy tan malo, Â¿verdad?}
+{2161}{}{He visto brahmines mÃ¡s listos que tÃº.}
+{2162}{}{Â¡Fiuu!}
 {2163}{}{No soy tan flojo.}
-{2164}{}{¡Gracias a los dioses!}
-{2165}{}{¡Has fallado!}
-{2200}{}{¡Esto no vale la pena!}
+{2164}{}{Â¡Gracias a los dioses!}
+{2165}{}{Â¡Has fallado!}
+{2200}{}{Â¡Esto no vale la pena!}
 {2201}{}{Tengo mejores cosas que hacer.}
-{2202}{}{¡Que alguien me ayude!}
+{2202}{}{Â¡Que alguien me ayude!}
 {2203}{}{Me has vencido... esta vez.}
-{2204}{}{¡Ya tienes lo que querías!}
-{2205}{}{¡No voy a morir por esto!}
-{2220}{}{¡Demasiado tarde para huir!.}
-{2221}{}{¿Quién te dejo entrar aquí?}
-{2222}{}{¡Eh, tú!}
-{2223}{}{¡No queremos gente como tú por aquí!}
+{2204}{}{Â¡Ya tienes lo que querÃ­as!}
+{2205}{}{Â¡No voy a morir por esto!}
+{2220}{}{Â¡Demasiado tarde para huir!.}
+{2221}{}{Â¿QuiÃ©n te dejo entrar aquÃ­?}
+{2222}{}{Â¡Eh, tÃº!}
+{2223}{}{Â¡No queremos gente como tÃº por aquÃ­!}
 {2224}{}{Nadie se va a quedar con este sitio...}
-{2225}{}{¿Quién te crees que eres?}
-{2240}{}{¡Toma esto!}
-{2241}{}{¿Qué te parece esto?}
-{2242}{}{¡Esto es lo que les hacemos a las alimañas!}
-{2243}{}{¡Esto es para ti!}
-{2244}{}{¡Adiós!}
-{2245}{}{¡Vamos allá!}
-{2246}{}{¡Basura problemática!}
+{2225}{}{Â¿QuiÃ©n te crees que eres?}
+{2240}{}{Â¡Toma esto!}
+{2241}{}{Â¿QuÃ© te parece esto?}
+{2242}{}{Â¡Esto es lo que les hacemos a las alimaÃ±as!}
+{2243}{}{Â¡Esto es para ti!}
+{2244}{}{Â¡AdiÃ³s!}
+{2245}{}{Â¡Vamos allÃ¡!}
+{2246}{}{Â¡Basura problemÃ¡tica!}
 {2247}{}{Te voy a hacer trizas, bastardo.}
-{2248}{}{¡Animal!}
-{2249}{}{¡Lamentarás haber puesto los pies aquí!}
+{2248}{}{Â¡Animal!}
+{2249}{}{Â¡LamentarÃ¡s haber puesto los pies aquÃ­!}
 {2260}{}{No eres tan bueno como crees.}
-{2261}{}{Patético.}
-{2262}{}{Sólo eres un matón del montón.}
+{2261}{}{PatÃ©tico.}
+{2262}{}{SÃ³lo eres un matÃ³n del montÃ³n.}
 {2263}{}{No eres nada del otro mundo.}
-{2264}{}{No voy a ser víctima tuya.}
-{2265}{}{Ese fue tu último error.}
-{2300}{}{Voy a escapar de aquí.}
-{2301}{}{¡Volveré!}
-{2302}{}{¡Hasta luego, basura!}
-{2303}{}{¡Esto ha sido divertido, pero ahora me largo!}
-{2304}{}{¡Me las pagarás... luego!}
-{2305}{}{¡Pronto lo repetiremos!}
-{2320}{}{¡Te voy a machacar la cabeza!}
-{2321}{}{¡Carne fresca!}
-{2322}{}{¡Me has alegrado el día!}
-{2323}{}{¡Vas a ser mi zorra!}
-{2324}{}{¡Te voy a machacar la cabeza!}
-{2325}{}{¡Voy a ajustarte las cuentas!}
-{2340}{}{¡Voy a por ti!}
-{2341}{}{¡Hora de jugar!}
+{2264}{}{No voy a ser vÃ­ctima tuya.}
+{2265}{}{Ese fue tu Ãºltimo error.}
+{2300}{}{Voy a escapar de aquÃ­.}
+{2301}{}{Â¡VolverÃ©!}
+{2302}{}{Â¡Hasta luego, basura!}
+{2303}{}{Â¡Esto ha sido divertido, pero ahora me largo!}
+{2304}{}{Â¡Me las pagarÃ¡s... luego!}
+{2305}{}{Â¡Pronto lo repetiremos!}
+{2320}{}{Â¡Te voy a machacar la cabeza!}
+{2321}{}{Â¡Carne fresca!}
+{2322}{}{Â¡Me has alegrado el dÃ­a!}
+{2323}{}{Â¡Vas a ser mi zorra!}
+{2324}{}{Â¡Te voy a machacar la cabeza!}
+{2325}{}{Â¡Voy a ajustarte las cuentas!}
+{2340}{}{Â¡Voy a por ti!}
+{2341}{}{Â¡Hora de jugar!}
 {2342}{}{Por favor, no supliques. La muerte debe ser digna.}
 {2343}{}{Espero que no te mueras demasiado deprisa.}
-{2344}{}{¿Tus últimas palabras?}
-{2345}{}{¡Toma esto!}
-{2346}{}{¡Muere! ¡Muere! ¡Muere! ¡Muere!}
-{2347}{}{¡Muere!}
+{2344}{}{Â¿Tus Ãºltimas palabras?}
+{2345}{}{Â¡Toma esto!}
+{2346}{}{Â¡Muere! Â¡Muere! Â¡Muere! Â¡Muere!}
+{2347}{}{Â¡Muere!}
 {2348}{}{Vamos a abrirte un poquito...}
 {2349}{}{Vas a ser comida para perros, amigo.}
 {2360}{}{Ni siquiera me has rozado.}
 {2361}{}{Me matas de aburrimiento.}
-{2362}{}{Vamos, basura. ¡Pelea!}
-{2363}{}{¿Eso es lo mejor que puedes hacer?}
-{2364}{}{¡Apestas!}
-{2365}{}{Esto va a ser más sencillo de lo que pensaba.}
-{2400}{}{¡Me largo de aquí!}
-{2401}{}{Quizás esto no fuera una buena idea!.}
-{2402}{}{Ataca a otro, ¿vale?}
-{2403}{}{¡Ja!}
-{2404}{}{¡No voy a morir por esto!}
-{2405}{}{¡Esto es demasiado para mí!}
-{2420}{}{¡Eh, tú!}
-{2421}{}{¡Voy a enseñarte modales!}
-{2422}{}{¡No queremos gente como tú por aquí!}
-{2423}{}{¡Tienes que aprender algo de respeto!}
+{2362}{}{Vamos, basura. Â¡Pelea!}
+{2363}{}{Â¿Eso es lo mejor que puedes hacer?}
+{2364}{}{Â¡Apestas!}
+{2365}{}{Esto va a ser mÃ¡s sencillo de lo que pensaba.}
+{2400}{}{Â¡Me largo de aquÃ­!}
+{2401}{}{QuizÃ¡s esto no fuera una buena idea!.}
+{2402}{}{Ataca a otro, Â¿vale?}
+{2403}{}{Â¡Ja!}
+{2404}{}{Â¡No voy a morir por esto!}
+{2405}{}{Â¡Esto es demasiado para mÃ­!}
+{2420}{}{Â¡Eh, tÃº!}
+{2421}{}{Â¡Voy a enseÃ±arte modales!}
+{2422}{}{Â¡No queremos gente como tÃº por aquÃ­!}
+{2423}{}{Â¡Tienes que aprender algo de respeto!}
 {2424}{}{Hora de ganarme la paga...}
 {2425}{}{Espera a que te atrape...}
-{2426}{}{¿Por qué has tenido que venir?}
-{2427}{}{Siempre hay idiotas como tú que vienen a estropear las cosas.}
-{2440}{}{¡Toma esto!}
-{2441}{}{Te gusta, ¿eh?}
-{2442}{}{Deberías haberme dejado en paz.}
-{2443}{}{¿Qué te parece esto?}
-{2444}{}{¿Dónde está tu mamaíta ahora?}
-{2445}{}{¡Toma!}
+{2426}{}{Â¿Por quÃ© has tenido que venir?}
+{2427}{}{Siempre hay idiotas como tÃº que vienen a estropear las cosas.}
+{2440}{}{Â¡Toma esto!}
+{2441}{}{Te gusta, Â¿eh?}
+{2442}{}{DeberÃ­as haberme dejado en paz.}
+{2443}{}{Â¿QuÃ© te parece esto?}
+{2444}{}{Â¿DÃ³nde estÃ¡ tu mamaÃ­ta ahora?}
+{2445}{}{Â¡Toma!}
 {2446}{}{Veamos lo duro que eres...}
-{2447}{}{¡Vagabundo!}
-{2448}{}{¡Colgado!}
-{2449}{}{¡Voy a acabar contigo!}
-{2460}{}{¿Tú mamá no te enseñó a hacer eso?}
-{2461}{}{¡Das pena!}
+{2447}{}{Â¡Vagabundo!}
+{2448}{}{Â¡Colgado!}
+{2449}{}{Â¡Voy a acabar contigo!}
+{2460}{}{Â¿TÃº mamÃ¡ no te enseÃ±Ã³ a hacer eso?}
+{2461}{}{Â¡Das pena!}
 {2462}{}{No eres bastante bueno.}
-{2463}{}{Ese fue tu último error.}
+{2463}{}{Ese fue tu Ãºltimo error.}
 {2464}{}{Novato.}
-{2465}{}{¿Aprendiste a pelear en un bar?}
-{2500}{}{¡Hay que largarse de aquí!}
-{2501}{}{Volveré...}
-{2502}{}{¡Hoy no me matarás!}
-{2503}{}{¡Hasta luego, basura!}
-{2504}{}{¡No has visto lo último de mi!}
-{2505}{}{¡Pagarás por esto... más tarde!}
-{2520}{}{¡Eres historia!}
+{2465}{}{Â¿Aprendiste a pelear en un bar?}
+{2500}{}{Â¡Hay que largarse de aquÃ­!}
+{2501}{}{VolverÃ©...}
+{2502}{}{Â¡Hoy no me matarÃ¡s!}
+{2503}{}{Â¡Hasta luego, basura!}
+{2504}{}{Â¡No has visto lo Ãºltimo de mi!}
+{2505}{}{Â¡PagarÃ¡s por esto... mÃ¡s tarde!}
+{2520}{}{Â¡Eres historia!}
 {2521}{}{Carne fresca...}
-{2522}{}{¡Bailaré sobre tu tumba!}
-{2523}{}{¡Eh, todos! ¡Es la diana de practicas!}
-{2524}{}{¡Prepárate, puta!}
+{2522}{}{Â¡BailarÃ© sobre tu tumba!}
+{2523}{}{Â¡Eh, todos! Â¡Es la diana de practicas!}
+{2524}{}{Â¡PrepÃ¡rate, puta!}
 {2525}{}{Voy a disfrutar esto...}
-{2540}{}{¡¡¡Toma esto!!!}
+{2540}{}{Â¡Â¡Â¡Toma esto!!!}
 {2541}{}{No te molestes en pedir piedad...}
 {2542}{}{Esta es la mejor parte...}
-{2543}{}{¿Quieres más? ¡¿Eh?!}
-{2544}{}{Serás comida para los perros}
-{2545}{}{No deberías empezar lo que no puedas terminar.}
+{2543}{}{Â¿Quieres mÃ¡s? Â¡Â¿Eh?!}
+{2544}{}{SerÃ¡s comida para los perros}
+{2545}{}{No deberÃ­as empezar lo que no puedas terminar.}
 {2546}{}{Espero que no mueras muy pronto}
-{2547}{}{Sólo uno de nosotros saldrá vivo de ésta.}
-{2548}{}{¡Muere!}
-{2549}{}{Me como a basura como tú para desayunar.}
-{2550}{}{Serás comida para mi iguana}
-{2551}{}{Lo último que verás es mi sonriente cara.}
+{2547}{}{SÃ³lo uno de nosotros saldrÃ¡ vivo de Ã©sta.}
+{2548}{}{Â¡Muere!}
+{2549}{}{Me como a basura como tÃº para desayunar.}
+{2550}{}{SerÃ¡s comida para mi iguana}
+{2551}{}{Lo Ãºltimo que verÃ¡s es mi sonriente cara.}
 {2552}{}{Este es mi trabajo favorito.}
 {2560}{}{Eres un chiste.}
-{2561}{}{¿Eso es lo mejor que puedes hacer?}
-{2562}{}{Esto es demasiado fácil.}
-{2563}{}{Es patético...}
-{2564}{}{¡Muy lento!}
-{2565}{}{¡Perdedor!}
-{2600}{}{¡Huid de El Maligno!}
-{2601}{}{¡Los Espíritus me aconsejan que me salve yo mismo!}
-{2602}{}{Nuestro enemigo ha usado poderosa magia... ¡Huid! ¡Qué alguien busque al chamán!}
-{2603}{}{Los espíritus malignos son poderosos en él. ¡La muerte camina sobre la tierra!}
-{2604}{}{¡El Oscuro está aquí!}
-{2605}{}{El Oscuro busca castigarnos. ¡Huid! ¡Mi alma vuela y debo seguirla!}
-{2606}{}{¡¡Aiiieeeee!!}
-{2620}{}{¡Ancestros, guiad mi brazo!}
-{2621}{}{Tu fuerza será mía.}
-{2622}{}{Grande será mi gloria.}
-{2623}{}{Deshonraré a tu tribu.}
-{2624}{}{¡Ayah! ¡Nabataluk!}
-{2625}{}{¡Espíritus, uníos a mí!}
+{2561}{}{Â¿Eso es lo mejor que puedes hacer?}
+{2562}{}{Esto es demasiado fÃ¡cil.}
+{2563}{}{Es patÃ©tico...}
+{2564}{}{Â¡Muy lento!}
+{2565}{}{Â¡Perdedor!}
+{2600}{}{Â¡Huid de El Maligno!}
+{2601}{}{Â¡Los EspÃ­ritus me aconsejan que me salve yo mismo!}
+{2602}{}{Nuestro enemigo ha usado poderosa magia... Â¡Huid! Â¡QuÃ© alguien busque al chamÃ¡n!}
+{2603}{}{Los espÃ­ritus malignos son poderosos en Ã©l. Â¡La muerte camina sobre la tierra!}
+{2604}{}{Â¡El Oscuro estÃ¡ aquÃ­!}
+{2605}{}{El Oscuro busca castigarnos. Â¡Huid! Â¡Mi alma vuela y debo seguirla!}
+{2606}{}{Â¡Â¡Aiiieeeee!!}
+{2620}{}{Â¡Ancestros, guiad mi brazo!}
+{2621}{}{Tu fuerza serÃ¡ mÃ­a.}
+{2622}{}{Grande serÃ¡ mi gloria.}
+{2623}{}{DeshonrarÃ© a tu tribu.}
+{2624}{}{Â¡Ayah! Â¡Nabataluk!}
+{2625}{}{Â¡EspÃ­ritus, unÃ­os a mÃ­!}
 {2626}{}{Vamos, que nuestras hojas bailen.}
-{2627}{}{¡Empecemos!}
-{2628}{}{¡U-Suthoooo!}
-{2629}{}{¡Los espíritus están de mi lado!}
+{2627}{}{Â¡Empecemos!}
+{2628}{}{Â¡U-Suthoooo!}
+{2629}{}{Â¡Los espÃ­ritus estÃ¡n de mi lado!}
 {2640}{}{Tus ancestros te han abandonado.}
-{2641}{}{Tu derrota me traerá gran honor. ¡Mi magia no conoce la derrota!}
-{2642}{}{Ríndete ahora y no me comeré tu corazón.}
-{2643}{}{Luchas con bravura... me comeré tu bravura. Los chamanes cantarán mi victoria.}
-{2644}{}{¡Me bañaré en tu sangre!}
-{2645}{}{¡No te tengo miedo!}
-{2646}{}{Yo te daré paz, perdido.}
-{2647}{}{¡La gloria en la batalla compra la vida eterna! Te honro, extranjero.}
+{2641}{}{Tu derrota me traerÃ¡ gran honor. Â¡Mi magia no conoce la derrota!}
+{2642}{}{RÃ­ndete ahora y no me comerÃ© tu corazÃ³n.}
+{2643}{}{Luchas con bravura... me comerÃ© tu bravura. Los chamanes cantarÃ¡n mi victoria.}
+{2644}{}{Â¡Me baÃ±arÃ© en tu sangre!}
+{2645}{}{Â¡No te tengo miedo!}
+{2646}{}{Yo te darÃ© paz, perdido.}
+{2647}{}{Â¡La gloria en la batalla compra la vida eterna! Te honro, extranjero.}
 {2648}{}{Las nieblas te llaman.}
-{2649}{}{Nuestros ancestros están sedientos de tu alma.}
-{2650}{}{¡Mi hoja está sedienta!}
-{2651}{}{¡Bebamos de la copa de la batalla!}
-{2660}{}{ Tus ojos están nublados de odio.}
-{2661}{}{ Tus espíritus te han abandonado.}
-{2662}{}{ ¡Nuestra magia funciona!}
-{2663}{}{ ¡Mi magia me hace invencible!}
-{2664}{}{ ¡Tu fuerza vital se debilita!}
+{2649}{}{Nuestros ancestros estÃ¡n sedientos de tu alma.}
+{2650}{}{Â¡Mi hoja estÃ¡ sedienta!}
+{2651}{}{Â¡Bebamos de la copa de la batalla!}
+{2660}{}{ Tus ojos estÃ¡n nublados de odio.}
+{2661}{}{ Tus espÃ­ritus te han abandonado.}
+{2662}{}{ Â¡Nuestra magia funciona!}
+{2663}{}{ Â¡Mi magia me hace invencible!}
+{2664}{}{ Â¡Tu fuerza vital se debilita!}
 {2665}{}{ El miedo es el asesino de la mente}
-{2666}{}{ ¡Mi canción de batalla funciona!}
-{2667}{}{ ¡Nuestros hijos sabrán más de la batalla!}
+{2666}{}{ Â¡Mi canciÃ³n de batalla funciona!}
+{2667}{}{ Â¡Nuestros hijos sabrÃ¡n mÃ¡s de la batalla!}
 {2668}{}{ Has conocido la paz durante demasiado tiempo.}
-{2669}{}{ ¿Todos los de tu tribu sois tan débiles?}
-{2700}{}{¡Refuerzos!}
-{2701}{}{Me harán un consejo de guerra.}
-{2702}{}{¡Un médico!}
-{2703}{}{¡Retirada! ¡Retirada!}
-{2704}{}{¡Atrás todos! ¡Atrás!}
+{2669}{}{ Â¿Todos los de tu tribu sois tan dÃ©biles?}
+{2700}{}{Â¡Refuerzos!}
+{2701}{}{Me harÃ¡n un consejo de guerra.}
+{2702}{}{Â¡Un mÃ©dico!}
+{2703}{}{Â¡Retirada! Â¡Retirada!}
+{2704}{}{Â¡AtrÃ¡s todos! Â¡AtrÃ¡s!}
 {2705}{}{Puede que hayas ganado esta batalla...}
-{2720}{}{¡Vamos allá!}
-{2721}{}{¡Oh, sí!}
-{2722}{}{¡Voy a enseñarte modales!}
-{2723}{}{¡Eres historia!}
-{2724}{}{¡Al ataque!}
-{2725}{}{¡Enterremos a este perdedor!}
-{2726}{}{¡Apuntar y disparar!}
+{2720}{}{Â¡Vamos allÃ¡!}
+{2721}{}{Â¡Oh, sÃ­!}
+{2722}{}{Â¡Voy a enseÃ±arte modales!}
+{2723}{}{Â¡Eres historia!}
+{2724}{}{Â¡Al ataque!}
+{2725}{}{Â¡Enterremos a este perdedor!}
+{2726}{}{Â¡Apuntar y disparar!}
 {2727}{}{Dejaremos que Dios se ocupe de lo que quede de ti.}
-{2740}{}{¡Toma esto!}
-{2741}{}{¡Te tengo!}
-{2742}{}{¡Ahora es cuando mueres!}
-{2743}{}{¿Qué te parece esto?}
-{2744}{}{Para nosotros esto no es sólo un trabajo.}
-{2745}{}{No deberías empezar lo que no puedas terminar.}
-{2746}{}{¡Será mejor que reces a los dioses!}
-{2747}{}{¡No vas a ver un nuevo amanecer!}
-{2748}{}{¿Te sientes bien?}
-{2749}{}{¡Nos vemos en el infierno!}
+{2740}{}{Â¡Toma esto!}
+{2741}{}{Â¡Te tengo!}
+{2742}{}{Â¡Ahora es cuando mueres!}
+{2743}{}{Â¿QuÃ© te parece esto?}
+{2744}{}{Para nosotros esto no es sÃ³lo un trabajo.}
+{2745}{}{No deberÃ­as empezar lo que no puedas terminar.}
+{2746}{}{Â¡SerÃ¡ mejor que reces a los dioses!}
+{2747}{}{Â¡No vas a ver un nuevo amanecer!}
+{2748}{}{Â¿Te sientes bien?}
+{2749}{}{Â¡Nos vemos en el infierno!}
 {2760}{}{Intenta entrenar algo.}
-{2761}{}{¿Eso es lo mejor que puedes hacer?}
-{2762}{}{Vamos, perdedor. ¡Pelea!}
-{2763}{}{La próxima vez intenta apuntar.}
+{2761}{}{Â¿Eso es lo mejor que puedes hacer?}
+{2762}{}{Vamos, perdedor. Â¡Pelea!}
+{2763}{}{La prÃ³xima vez intenta apuntar.}
 {2764}{}{Civiles...}
-{2765}{}{La próxima vez déjaselo a los profesionales.}
+{2765}{}{La prÃ³xima vez dÃ©jaselo a los profesionales.}
 {2800}{}{}
 {2801}{}{}
 {2802}{}{}
@@ -692,1061 +692,1061 @@
 {2863}{}{}
 {2864}{}{}
 {2865}{}{}
-{2900}{}{¡Huida! ¡Huida!}
-{2901}{}{¡Retirada!}
-{2902}{}{¡Reagrupamiento!}
-{2903}{}{¡Atrás!}
-{2904}{}{¡Retirada!}
-{2905}{}{¡Aaaaghhh!}
-{2920}{}{¡Mata a este idiota!}
+{2900}{}{Â¡Huida! Â¡Huida!}
+{2901}{}{Â¡Retirada!}
+{2902}{}{Â¡Reagrupamiento!}
+{2903}{}{Â¡AtrÃ¡s!}
+{2904}{}{Â¡Retirada!}
+{2905}{}{Â¡Aaaaghhh!}
+{2920}{}{Â¡Mata a este idiota!}
 {2921}{}{Carne fresca...}
-{2922}{}{¡Saqueo!}
-{2923}{}{¡Este es mío!}
-{2924}{}{¡Ahhhhhhh!}
-{2925}{}{¡Al ataque!}
-{2940}{}{¡Disfruta los últimos segundos de tu vida!}
-{2941}{}{¡Sangre! ¡Sangre! ¡Sangre!}
-{2942}{}{¡Tu corazón es mío!}
-{2943}{}{¡¡RAAAAAAARRRR!!}
-{2944}{}{¡Tus armas serán mis trofeos!}
-{2945}{}{¡MUERTE!}
-{2946}{}{¡Seré yo quien te mate!}
-{2947}{}{¡Tus huesos yacerán en el Yermo!}
-{2948}{}{¡Sangre y oscuridad!}
-{2949}{}{¡YAAAAAAAAAAAAH!}
-{2950}{}{¡Destripad al maldito bastardo!}
-{2960}{}{¡Un esfuerzo inútil!}
-{2961}{}{¡Has fallado!}
-{2962}{}{¡Mi sangre es más fuerte que la tuya!}
-{2963}{}{¡¡Estoy vivo!!}
-{2964}{}{¡Tu cuerpo es tan débil que da pena!}
-{3000}{}{Opción de retirada iniciada.}
-{3001}{}{Plan táctico: Retirada.}
-{3002}{}{Efectividad de combate mínima. Se aconseja la retirada.}
-{3003}{}{Análisis táctico completado. Se recomienda retirada}
+{2922}{}{Â¡Saqueo!}
+{2923}{}{Â¡Este es mÃ­o!}
+{2924}{}{Â¡Ahhhhhhh!}
+{2925}{}{Â¡Al ataque!}
+{2940}{}{Â¡Disfruta los Ãºltimos segundos de tu vida!}
+{2941}{}{Â¡Sangre! Â¡Sangre! Â¡Sangre!}
+{2942}{}{Â¡Tu corazÃ³n es mÃ­o!}
+{2943}{}{Â¡Â¡RAAAAAAARRRR!!}
+{2944}{}{Â¡Tus armas serÃ¡n mis trofeos!}
+{2945}{}{Â¡MUERTE!}
+{2946}{}{Â¡SerÃ© yo quien te mate!}
+{2947}{}{Â¡Tus huesos yacerÃ¡n en el Yermo!}
+{2948}{}{Â¡Sangre y oscuridad!}
+{2949}{}{Â¡YAAAAAAAAAAAAH!}
+{2950}{}{Â¡Destripad al maldito bastardo!}
+{2960}{}{Â¡Un esfuerzo inÃºtil!}
+{2961}{}{Â¡Has fallado!}
+{2962}{}{Â¡Mi sangre es mÃ¡s fuerte que la tuya!}
+{2963}{}{Â¡Â¡Estoy vivo!!}
+{2964}{}{Â¡Tu cuerpo es tan dÃ©bil que da pena!}
+{3000}{}{OpciÃ³n de retirada iniciada.}
+{3001}{}{Plan tÃ¡ctico: Retirada.}
+{3002}{}{Efectividad de combate mÃ­nima. Se aconseja la retirada.}
+{3003}{}{AnÃ¡lisis tÃ¡ctico completado. Se recomienda retirada}
 {3004}{}{Descargando programa de huida.}
 {3005}{}{Iniciada secuencia de retirada.}
-{3020}{}{¡Objetivo localizado!}
-{3021}{}{¡Exterminar! ¡Exterminar!}
-{3022}{}{¡El humanoide no debe escapar!}
-{3023}{}{¡Exterminar al intruso!}
+{3020}{}{Â¡Objetivo localizado!}
+{3021}{}{Â¡Exterminar! Â¡Exterminar!}
+{3022}{}{Â¡El humanoide no debe escapar!}
+{3023}{}{Â¡Exterminar al intruso!}
 {3024}{}{Secuencia de combate iniciada.}
 {3025}{}{Cargando programa de combate.}
 {3040}{}{Secuencia de combate iniciada.}
 {3041}{}{Atacando a objetivo.}
 {3042}{}{Iniciando secuencia de ataque.}
-{3043}{}{¡El intruso debe ser destruido!}
-{3044}{}{Completada selección de opciones tácticas.}
+{3043}{}{Â¡El intruso debe ser destruido!}
+{3044}{}{Completada selecciÃ³n de opciones tÃ¡cticas.}
 {3045}{}{Comenzando ataque.}
-{3046}{}{¡El objetivo será destruido!}
+{3046}{}{Â¡El objetivo serÃ¡ destruido!}
 {3047}{}{Comenzada secuencia de exterminio de enemigo.}
-{3048}{}{¡El objetivo debe ser eliminado!}
-{3049}{}{Selección ofensiva completada.}
-{3060}{}{Análisis. Programa defensivo exitoso.}
-{3061}{}{Análisis. Habilidades ofensivas del objetivo insignificantes.}
+{3048}{}{Â¡El objetivo debe ser eliminado!}
+{3049}{}{SelecciÃ³n ofensiva completada.}
+{3060}{}{AnÃ¡lisis. Programa defensivo exitoso.}
+{3061}{}{AnÃ¡lisis. Habilidades ofensivas del objetivo insignificantes.}
 {3062}{}{Ataque de objetivo no efectivo. Calculando respuesta.}
-{3063}{}{Unidad no fue dañada en el ataque.}
+{3063}{}{Unidad no fue daÃ±ada en el ataque.}
 {3064}{}{Recalculando habilidades ofensivas del objetivo.}
-{3065}{}{Análisis. Objetivo errado en selección táctica. Unidad no dañada.}
-{3100}{}{¡Me largo de aquí!}
-{3101}{}{Volveré...}
-{3102}{}{¡Hoy no me matarás!}
-{3103}{}{¡Hasta luego, mediocre!}
-{3104}{}{¡No será lo último que oigas de mí!}
-{3105}{}{¡Pagarás por esto... más tarde!}
+{3065}{}{AnÃ¡lisis. Objetivo errado en selecciÃ³n tÃ¡ctica. Unidad no daÃ±ada.}
+{3100}{}{Â¡Me largo de aquÃ­!}
+{3101}{}{VolverÃ©...}
+{3102}{}{Â¡Hoy no me matarÃ¡s!}
+{3103}{}{Â¡Hasta luego, mediocre!}
+{3104}{}{Â¡No serÃ¡ lo Ãºltimo que oigas de mÃ­!}
+{3105}{}{Â¡PagarÃ¡s por esto... mÃ¡s tarde!}
 {3106}{}{No pienso morir dos veces.}
-{3107}{}{¡Pies para que os quiero!}
-{3108}{}{Sólo estoy ejecutando un ataque hacia atrás.}
-{3109}{}{Eh, hora de una retirada táctica.}
+{3107}{}{Â¡Pies para que os quiero!}
+{3108}{}{SÃ³lo estoy ejecutando un ataque hacia atrÃ¡s.}
+{3109}{}{Eh, hora de una retirada tÃ¡ctica.}
 {3110}{}{La salida, a la izquierda.}
-{3111}{}{Qué tarde se me ha hecho...}
+{3111}{}{QuÃ© tarde se me ha hecho...}
 {3112}{}{Tengo que irme. Nos vemos.}
-{3113}{}{¡Correeeeed!}
+{3113}{}{Â¡Correeeeed!}
 {3114}{}{Tengo que irme a remendar algunas partes.}
-{3115}{}{Mis viejos huesos no aguantan esto más.}
-{3116}{}{No son los años, sino el kilometraje.}
-{3117}{}{Qué mundo este, qué mundo este...}
-{3118}{}{Supongo que has aprendido la lección. ¡Me largo de aquí!}
-{3119}{}{Eh, deja de alejarte de mí.}
-{3120}{}{¡Eres historia!}
+{3115}{}{Mis viejos huesos no aguantan esto mÃ¡s.}
+{3116}{}{No son los aÃ±os, sino el kilometraje.}
+{3117}{}{QuÃ© mundo este, quÃ© mundo este...}
+{3118}{}{Supongo que has aprendido la lecciÃ³n. Â¡Me largo de aquÃ­!}
+{3119}{}{Eh, deja de alejarte de mÃ­.}
+{3120}{}{Â¡Eres historia!}
 {3121}{}{Carne fresca...}
-{3122}{}{Carne, carne, carne, ¡carne a la boloñesa!}
+{3122}{}{Carne, carne, carne, Â¡carne a la boloÃ±esa!}
 {3123}{}{Cerebros...}
-{3124}{}{Cavaré tu tumba...}
+{3124}{}{CavarÃ© tu tumba...}
 {3125}{}{Espero poder mantener tu cabeza intacta...}
-{3126}{}{Más cerebros...}
-{3127}{}{¡Mandad más policías!}
-{3128}{}{¡Mandad más paramédicos!}
-{3129}{}{Me vendría bien algún trozo fresco tuyo.}
-{3130}{}{Marchando un filete tártaro.}
-{3131}{}{¡Ven a por mí!}
-{3132}{}{¿Aún no llega la sopa?}
-{3133}{}{¿Dónde está la carne?}
+{3126}{}{MÃ¡s cerebros...}
+{3127}{}{Â¡Mandad mÃ¡s policÃ­as!}
+{3128}{}{Â¡Mandad mÃ¡s paramÃ©dicos!}
+{3129}{}{Me vendrÃ­a bien algÃºn trozo fresco tuyo.}
+{3130}{}{Marchando un filete tÃ¡rtaro.}
+{3131}{}{Â¡Ven a por mÃ­!}
+{3132}{}{Â¿AÃºn no llega la sopa?}
+{3133}{}{Â¿DÃ³nde estÃ¡ la carne?}
 {3134}{}{Mmm, me gustan los pieles suaves.}
-{3135}{}{Has cruzado mi línea.. más o menos.}
-{3136}{}{Sabia que había oído la llamada a comer.}
-{3137}{}{Adivina quién viene a cenar.}
+{3135}{}{Has cruzado mi lÃ­nea.. mÃ¡s o menos.}
+{3136}{}{Sabia que habÃ­a oÃ­do la llamada a comer.}
+{3137}{}{Adivina quiÃ©n viene a cenar.}
 {3138}{}{Un trozo es un trozo.}
-{3139}{}{Así que tú eres mi próximo donante de órganos, ¿eh?}
-{3140}{}{¡Acaba de salir tu número!}
+{3139}{}{AsÃ­ que tÃº eres mi prÃ³ximo donante de Ã³rganos, Â¿eh?}
+{3140}{}{Â¡Acaba de salir tu nÃºmero!}
 {3141}{}{No te molestes en pedir piedad...}
 {3142}{}{Voy a disfrutar esto}
-{3143}{}{¡Ohhh, eso va a doler!}
+{3143}{}{Â¡Ohhh, eso va a doler!}
 {3144}{}{Hora de cortar y trocear.}
-{3145}{}{¡Voy a comerme tu hígado!}
+{3145}{}{Â¡Voy a comerme tu hÃ­gado!}
 {3146}{}{Espero que no mueras muy pronto}
-{3147}{}{¡Hora de comer!}
-{3148}{}{¡Muere!}
-{3149}{}{Desayuno escoria como tú... también la almuerzo.}
-{3150}{}{¿Cómo alguien tan idiota puede ser tan malo?}
-{3151}{}{¡Déjame darte un bocado!}
-{3152}{}{¡Dale a papá un poco de azúcar, muñeca!}
-{3153}{}{¡Tengo algo para ti!}
-{3154}{}{¡Quédate quieto! Te dolerá menos.}
-{3155}{}{Deja de retorcerte, ¡el chef está en la cocina!}
+{3147}{}{Â¡Hora de comer!}
+{3148}{}{Â¡Muere!}
+{3149}{}{Desayuno escoria como tÃº... tambiÃ©n la almuerzo.}
+{3150}{}{Â¿CÃ³mo alguien tan idiota puede ser tan malo?}
+{3151}{}{Â¡DÃ©jame darte un bocado!}
+{3152}{}{Â¡Dale a papÃ¡ un poco de azÃºcar, muÃ±eca!}
+{3153}{}{Â¡Tengo algo para ti!}
+{3154}{}{Â¡QuÃ©date quieto! Te dolerÃ¡ menos.}
+{3155}{}{Deja de retorcerte, Â¡el chef estÃ¡ en la cocina!}
 {3156}{}{Adoro verlos sufrir.}
-{3157}{}{¡Delicioso y nutritivo!}
-{3158}{}{Seguro que sangras un montón. Debes estar tierno y jugoso.}
-{3159}{}{Supongo que eso es más miedo que excitación.}
-{3160}{}{¡No puedes herirme!}
-{3161}{}{¿Te creías que los necrófagos son lentos?}
-{3162}{}{¡Fallaste, mediocre!}
-{3163}{}{¡Fallaste, mediocre!}
-{3164}{}{¡No puedes matar a quien no puedes tocar!}
-{3165}{}{¡Muy lento!}
+{3157}{}{Â¡Delicioso y nutritivo!}
+{3158}{}{Seguro que sangras un montÃ³n. Debes estar tierno y jugoso.}
+{3159}{}{Supongo que eso es mÃ¡s miedo que excitaciÃ³n.}
+{3160}{}{Â¡No puedes herirme!}
+{3161}{}{Â¿Te creÃ­as que los necrÃ³fagos son lentos?}
+{3162}{}{Â¡Fallaste, mediocre!}
+{3163}{}{Â¡Fallaste, mediocre!}
+{3164}{}{Â¡No puedes matar a quien no puedes tocar!}
+{3165}{}{Â¡Muy lento!}
 {3166}{}{Vale, ahora prueba a hacer eso a velocidad normal.}
-{3167}{}{¿De verdad me estabas apuntando?}
-{3168}{}{¿Qué fue eso?}
+{3167}{}{Â¿De verdad me estabas apuntando?}
+{3168}{}{Â¿QuÃ© fue eso?}
 {3169}{}{Esto no es una farsa.}
-{3170}{}{El combate requiere una concentración total.}
-{3171}{}{Una pena que tu primera vez vaya a ser también la última.}
-{3172}{}{¿Me estás mirando?}
-{3173}{}{¿Quieres volver a intentarlo cuando sepas lo que estás haciendo?}
-{3174}{}{No, no, no, tienes que apuntarme a mí. ¿Comprendes?}
-{3175}{}{¿A dónde apuntabas? ¿O es que no apuntabas?}
-{3176}{}{¿Qué es lo que falla en ti, tarado?}
-{3177}{}{Nunca has hecho esto, ¿verdad?}
-{3178}{}{¡Ahora es mi turno!}
-{3179}{}{¿Ese era tu mejor golpe? Amigo, tienes un problema.}
-{3200}{}{Caray. Me largo de aquí.}
-{3201}{}{Volveré... después de meterme algo en el cuerpo.}
-{3202}{}{Sabía que debería haber tomado más esteroides...}
-{3203}{}{No podré drogarme si estoy muerto...}
-{3204}{}{¡Ayyyyyyy! ¡No me hagas daño! ¡No me hagas daño!}
-{3205}{}{Esta alucinación se ha vuelto demasiado real para mi gusto...}
-{3220}{}{¡Cómete esto!}
-{3221}{}{Mejor será que tengas algunos estimulantes... o algo de Jet.}
-{3222}{}{Quizá pueda vender tu cuerpo por algo de Jet...}
+{3170}{}{El combate requiere una concentraciÃ³n total.}
+{3171}{}{Una pena que tu primera vez vaya a ser tambiÃ©n la Ãºltima.}
+{3172}{}{Â¿Me estÃ¡s mirando?}
+{3173}{}{Â¿Quieres volver a intentarlo cuando sepas lo que estÃ¡s haciendo?}
+{3174}{}{No, no, no, tienes que apuntarme a mÃ­. Â¿Comprendes?}
+{3175}{}{Â¿A dÃ³nde apuntabas? Â¿O es que no apuntabas?}
+{3176}{}{Â¿QuÃ© es lo que falla en ti, tarado?}
+{3177}{}{Nunca has hecho esto, Â¿verdad?}
+{3178}{}{Â¡Ahora es mi turno!}
+{3179}{}{Â¿Ese era tu mejor golpe? Amigo, tienes un problema.}
+{3200}{}{Caray. Me largo de aquÃ­.}
+{3201}{}{VolverÃ©... despuÃ©s de meterme algo en el cuerpo.}
+{3202}{}{SabÃ­a que deberÃ­a haber tomado mÃ¡s esteroides...}
+{3203}{}{No podrÃ© drogarme si estoy muerto...}
+{3204}{}{Â¡Ayyyyyyy! Â¡No me hagas daÃ±o! Â¡No me hagas daÃ±o!}
+{3205}{}{Esta alucinaciÃ³n se ha vuelto demasiado real para mi gusto...}
+{3220}{}{Â¡CÃ³mete esto!}
+{3221}{}{Mejor serÃ¡ que tengas algunos estimulantes... o algo de Jet.}
+{3222}{}{QuizÃ¡ pueda vender tu cuerpo por algo de Jet...}
 {3223}{}{Voy... a... darte... una... buena... cuando... te.... atrape.}
-{3224}{}{Quizás matarte sea lo que necesito...}
-{3225}{}{¡Te mataré! ¡Te mataré! ¡Te mataré!}
-{3226}{}{Matarte me pondrá en órbita...}
-{3240}{}{¡Cómete esto!}
-{3241}{}{¡Te mataré! ¡Te mataré! ¡Te mataré!}
-{3242}{}{¡¿Quieres un poco de esto?!}
+{3224}{}{QuizÃ¡s matarte sea lo que necesito...}
+{3225}{}{Â¡Te matarÃ©! Â¡Te matarÃ©! Â¡Te matarÃ©!}
+{3226}{}{Matarte me pondrÃ¡ en Ã³rbita...}
+{3240}{}{Â¡CÃ³mete esto!}
+{3241}{}{Â¡Te matarÃ©! Â¡Te matarÃ©! Â¡Te matarÃ©!}
+{3242}{}{Â¡Â¿Quieres un poco de esto?!}
 {3243}{}{Nrrrg}
-{3244}{}{¡Hiyaaaaaa!}
-{3245}{}{Te mataré lentamente...}
-{3246}{}{Caerás como una ramera de dos pavos...}
+{3244}{}{Â¡Hiyaaaaaa!}
+{3245}{}{Te matarÃ© lentamente...}
+{3246}{}{CaerÃ¡s como una ramera de dos pavos...}
 {3260}{}{Cerca, pero no lo suficiente.}
-{3261}{}{Estoy tan colocado, ¡nunca me tocarás!}
-{3262}{}{¿A cuál de los dos yo estás apuntando?}
+{3261}{}{Estoy tan colocado, Â¡nunca me tocarÃ¡s!}
+{3262}{}{Â¿A cuÃ¡l de los dos yo estÃ¡s apuntando?}
 {3263}{}{Oye. Casi me da.}
-{3264}{}{Sabía que el Jet me haría más rápido...}
-{3265}{}{Eres un pésimo luchador para ser una alucinación inducida por la droga.}
-{12000}{}{De ninguna manera me quedaré en este basurero...}
-{12001}{}{¡Retirada!}
-{12002}{}{Hora de largarse de aquí...}
-{12003}{}{¡Dispersaos!}
-{12004}{}{¡Atrás!}
-{12005}{}{Ya atraparé a esos idiotas cuando salga Fallout 3...}
+{3264}{}{SabÃ­a que el Jet me harÃ­a mÃ¡s rÃ¡pido...}
+{3265}{}{Eres un pÃ©simo luchador para ser una alucinaciÃ³n inducida por la droga.}
+{12000}{}{De ninguna manera me quedarÃ© en este basurero...}
+{12001}{}{Â¡Retirada!}
+{12002}{}{Hora de largarse de aquÃ­...}
+{12003}{}{Â¡Dispersaos!}
+{12004}{}{Â¡AtrÃ¡s!}
+{12005}{}{Ya atraparÃ© a esos idiotas cuando salga Fallout 3...}
 {12006}{}{Bishop se puede quedar con su jodido dinero...}
-{12020}{}{¡Objetivo localizado!}
-{12021}{}{¡Que alguien me cubra!}
+{12020}{}{Â¡Objetivo localizado!}
+{12021}{}{Â¡Que alguien me cubra!}
 {12022}{}{Vamos vamos vamos vamos}
 {12023}{}{Vamos vamos vamos vamos}
 {12024}{}{Vamos vamos vamos vamos}
-{12025}{}{Despídete de tu culo...}
+{12025}{}{DespÃ­dete de tu culo...}
 {12026}{}{Hora de hacer morder el polvo a este hijoputa...}
-{12027}{}{¡Preparad las armas!}
-{12028}{}{¡A bailar el rock!}
-{12029}{}{Mira quién acaba de entrar en la zona de disparo permitido...}
+{12027}{}{Â¡Preparad las armas!}
+{12028}{}{Â¡A bailar el rock!}
+{12029}{}{Mira quiÃ©n acaba de entrar en la zona de disparo permitido...}
 {12030}{}{Mejor que tengas algunos estimulantes en tu inventario, tribal...}
-{12031}{}{¡Contacto!}
-{12032}{}{¡Perímetro roto!}
-{12033}{}{¡Tenemos intrusos, muchachos!}
-{12034}{}{¡A divertirse, muchachos, tenemos un intruso!}
-{12035}{}{Que vengas aquí es una fiesta...}
-{12036}{}{Según el libro, muchachos, según el libro.}
-{12037}{}{¡Chicos, con atención al detalle!}
-{12038}{}{¡Quiero fuego de supresión! ¡Y mantened la cabeza baja!}
-{12040}{}{¡Destruidlo!}
-{12041}{}{Se te acabó la suerte, tribal...}
+{12031}{}{Â¡Contacto!}
+{12032}{}{Â¡PerÃ­metro roto!}
+{12033}{}{Â¡Tenemos intrusos, muchachos!}
+{12034}{}{Â¡A divertirse, muchachos, tenemos un intruso!}
+{12035}{}{Que vengas aquÃ­ es una fiesta...}
+{12036}{}{SegÃºn el libro, muchachos, segÃºn el libro.}
+{12037}{}{Â¡Chicos, con atenciÃ³n al detalle!}
+{12038}{}{Â¡Quiero fuego de supresiÃ³n! Â¡Y mantened la cabeza baja!}
+{12040}{}{Â¡Destruidlo!}
+{12041}{}{Se te acabÃ³ la suerte, tribal...}
 {12042}{}{Voy a meterte mi bota tan profundamente en tu culo que vas a estar oliendo a cera para calzado durante una semana.}
 {12043}{}{::Quiero ser un ranger de la aero-transportada...::}
-{12044}{}{¡Esto va en serio!}
-{12045}{}{¡¿Quieres algo de esto?! ¡¿QUIERES ALGO DE ESTO?!}
-{12046}{}{¡¡Hiyaaaaaa!!!}
-{12047}{}{¡Toma esto!}
+{12044}{}{Â¡Esto va en serio!}
+{12045}{}{Â¡Â¿Quieres algo de esto?! Â¡Â¿QUIERES ALGO DE ESTO?!}
+{12046}{}{Â¡Â¡Hiyaaaaaa!!!}
+{12047}{}{Â¡Toma esto!}
 {12048}{}{Mejor que tengas algunos estimulantes en tu inventario, tribal...}
-{12049}{}{Despídete de tu culo...}
-{12060}{}{¡Peleas como un viejo idiota!}
-{12061}{}{¡Ja!¡Fallaste!}
-{12062}{}{Demasiado rápido para ti...}
-{12063}{}{Vas a estar muriéndote mucho tiempo...}
+{12049}{}{DespÃ­dete de tu culo...}
+{12060}{}{Â¡Peleas como un viejo idiota!}
+{12061}{}{Â¡Ja!Â¡Fallaste!}
+{12062}{}{Demasiado rÃ¡pido para ti...}
+{12063}{}{Vas a estar muriÃ©ndote mucho tiempo...}
 {12064}{}{Chapucero...}
-{12065}{}{Por lo que veo, débil y lento.}
-{12100}{}{¡Hay que largarse de aquí!}
-{12101}{}{Volveré...}
-{12102}{}{¡Hoy no me matarás!}
-{12103}{}{¡Hasta luego, mediocre!}
-{12104}{}{¡No será lo último que oigas de mí!}
-{12105}{}{¡Pagarás por esto... más tarde!}
-{12120}{}{¡Eres historia!}
+{12065}{}{Por lo que veo, dÃ©bil y lento.}
+{12100}{}{Â¡Hay que largarse de aquÃ­!}
+{12101}{}{VolverÃ©...}
+{12102}{}{Â¡Hoy no me matarÃ¡s!}
+{12103}{}{Â¡Hasta luego, mediocre!}
+{12104}{}{Â¡No serÃ¡ lo Ãºltimo que oigas de mÃ­!}
+{12105}{}{Â¡PagarÃ¡s por esto... mÃ¡s tarde!}
+{12120}{}{Â¡Eres historia!}
 {12121}{}{Carne fresca...}
 {12122}{}{Ah, la cena ha llegado.}
 {12123}{}{Cerebros...}
-{12124}{}{Cavaré tu tumba...}
+{12124}{}{CavarÃ© tu tumba...}
 {12125}{}{Espero poder mantener tu cabeza intacta...}
-{12140}{}{¡Acaba de salir tu número!}
+{12140}{}{Â¡Acaba de salir tu nÃºmero!}
 {12141}{}{No te molestes en pedir piedad...}
 {12142}{}{Voy a disfrutar esto}
-{12143}{}{¡Ohhh, eso va a doler!}
+{12143}{}{Â¡Ohhh, eso va a doler!}
 {12144}{}{}
-{12145}{}{¡Voy a comerme tu hígado!}
-{12146}{}{¡Espero que no mueras muy pronto!}
-{12147}{}{¡Hora de comer!}
-{12148}{}{¡Muere!}
-{12149}{}{Desayuno escoria como tú... también la almuerzo.}
-{12160}{}{¡No puedes herirme!}
+{12145}{}{Â¡Voy a comerme tu hÃ­gado!}
+{12146}{}{Â¡Espero que no mueras muy pronto!}
+{12147}{}{Â¡Hora de comer!}
+{12148}{}{Â¡Muere!}
+{12149}{}{Desayuno escoria como tÃº... tambiÃ©n la almuerzo.}
+{12160}{}{Â¡No puedes herirme!}
 {12161}{}{}
-{12162}{}{¡Fallaste, mediocre!}
-{12163}{}{¡Fallaste, mediocre!}
-{12164}{}{¡No puedes matar a quien no puedes tocar!}
-{12165}{}{¡Muy lento!}
-{12200}{}{Caray, esta mierda se está poniendo demasiado seria.}
+{12162}{}{Â¡Fallaste, mediocre!}
+{12163}{}{Â¡Fallaste, mediocre!}
+{12164}{}{Â¡No puedes matar a quien no puedes tocar!}
+{12165}{}{Â¡Muy lento!}
+{12200}{}{Caray, esta mierda se estÃ¡ poniendo demasiado seria.}
 {12201}{}{Hora de ir por los otros chicos...}
-{12202}{}{¡Te mataré la próxima vez!}
+{12202}{}{Â¡Te matarÃ© la prÃ³xima vez!}
 {12203}{}{Tienes suerte de que no tenga estimulantes...}
-{12204}{}{Hora de largarnos de aquí.}
-{12205}{}{Necesito encontrar algunos estimulantes, y rápido...}
+{12204}{}{Hora de largarnos de aquÃ­.}
+{12205}{}{Necesito encontrar algunos estimulantes, y rÃ¡pido...}
 {12220}{}{Te voy a tirar como a un dado.}
-{12221}{}{Y ahí estaba yo, creyendo que hoy no iba a matar a nadie...}
-{12222}{}{Parece que el Gólgota va a tener un nuevo ocupante...}
+{12221}{}{Y ahÃ­ estaba yo, creyendo que hoy no iba a matar a nadie...}
+{12222}{}{Parece que el GÃ³lgota va a tener un nuevo ocupante...}
 {12223}{}{Parece que resolveremos esto por las malas...}
-{12224}{}{Te arrancaré los dientes y me haré un dado con ellos.}
+{12224}{}{Te arrancarÃ© los dientes y me harÃ© un dado con ellos.}
 {12225}{}{Parece que alguien quiere apostar su vida...}
-{12226}{}{Te mataré a ti, luego a tu familia, y finalmente a tu perro.}
+{12226}{}{Te matarÃ© a ti, luego a tu familia, y finalmente a tu perro.}
 {12227}{}{Hora de sacar la basura...}
-{12228}{}{Me servirás como llavero de la suerte...}
-{12240}{}{Te patearé el culo tan fuerte que lo llevarás de sombrero.}
-{12241}{}{La Dama de la Fortuna no te acompaña hoy...}
-{12242}{}{Te golpearé hasta volverte feo.}
+{12228}{}{Me servirÃ¡s como llavero de la suerte...}
+{12240}{}{Te patearÃ© el culo tan fuerte que lo llevarÃ¡s de sombrero.}
+{12241}{}{La Dama de la Fortuna no te acompaÃ±a hoy...}
+{12242}{}{Te golpearÃ© hasta volverte feo.}
 {12243}{}{Hora de poner tu culo en tu tumba.}
-{12244}{}{Te arrancaré el corazón y me cagaré en él.}
-{12245}{}{Ojalá tuviera tiempo de poner tu cabeza en un frasco...}
-{12246}{}{Déjame mostrarte lo que hacemos con la basura por aquí...}
-{12247}{}{Te golpearé tan fuerte que pensarás que es un terremoto...}
+{12244}{}{Te arrancarÃ© el corazÃ³n y me cagarÃ© en Ã©l.}
+{12245}{}{OjalÃ¡ tuviera tiempo de poner tu cabeza en un frasco...}
+{12246}{}{DÃ©jame mostrarte lo que hacemos con la basura por aquÃ­...}
+{12247}{}{Te golpearÃ© tan fuerte que pensarÃ¡s que es un terremoto...}
 {12248}{}{Ya me he cansado de este tarado...}
 {12249}{}{Saluda a los angelitos de mi parte...}
 {12260}{}{Movimientos como ese pueden llevarte al hospital...}
 {12261}{}{Peleas como una vaca.}
-{12262}{}{Precioso. En un segundo te mostraré como se hace.}
-{12263}{}{Además de estúpido, ¿eres ciego?}
-{12264}{}{¿Estas drogado con Jet, o algo así?}
-{12265}{}{No podrías pegarle ni a la pared de un casino.}
-{12266}{}{Si quisieras golpear el aire, fallarías.}
+{12262}{}{Precioso. En un segundo te mostrarÃ© como se hace.}
+{12263}{}{AdemÃ¡s de estÃºpido, Â¿eres ciego?}
+{12264}{}{Â¿Estas drogado con Jet, o algo asÃ­?}
+{12265}{}{No podrÃ­as pegarle ni a la pared de un casino.}
+{12266}{}{Si quisieras golpear el aire, fallarÃ­as.}
 {12300}{}{Ngggg.}
 {12301}{}{Mi... cabeza... me... desvanezco.}
-{12302}{}{¡Ugnnn!}
-{12303}{}{¡En la cara no! ¡En la cara no!}
+{12302}{}{Â¡Ugnnn!}
+{12303}{}{Â¡En la cara no! Â¡En la cara no!}
 {12310}{}{Mi... brazo... mi... hermoso... brazo.}
-{12311}{}{¡Médico! ¡Me han jodido el brazo!}
+{12311}{}{Â¡MÃ©dico! Â¡Me han jodido el brazo!}
 {12312}{}{*hffff*}
-{12320}{}{¡Mi mano de darme amor! ¡¿Es que no tienes vergüenza?!}
-{12321}{}{¡Médico! ¡Me han jodido el brazo!}
-{12322}{}{Parece que ya no podré lustrar mi arma con esa mano...}
-{12330}{}{¡Mi bazo!}
+{12320}{}{Â¡Mi mano de darme amor! Â¡Â¿Es que no tienes vergÃ¼enza?!}
+{12321}{}{Â¡MÃ©dico! Â¡Me han jodido el brazo!}
+{12322}{}{Parece que ya no podrÃ© lustrar mi arma con esa mano...}
+{12330}{}{Â¡Mi bazo!}
 {12331}{}{Hnrgggg.}
 {12332}{}{*hff*}
-{12333}{}{¡Me... las... pagarás... por... eso!}
+{12333}{}{Â¡Me... las... pagarÃ¡s... por... eso!}
 {12334}{}{*Ooooof*}
-{12335}{}{¡Nggg! ¡En el plexo solar!}
-{12360}{}{¡Maldita sea! ¡Mi pierna!}
+{12335}{}{Â¡Nggg! Â¡En el plexo solar!}
+{12360}{}{Â¡Maldita sea! Â¡Mi pierna!}
 {12361}{}{*Ergg*}
 {12362}{}{Voy a necesitar un estimulante para mi pierna...}
 {12363}{}{Urggg... pierna... jodida...}
-{12370}{}{¡Maldita sea! ¡Mi pierna!}
+{12370}{}{Â¡Maldita sea! Â¡Mi pierna!}
 {12371}{}{*Ergg*}
 {12372}{}{Voy a necesitar un estimulante para mi pierna...}
 {12373}{}{Urggg... pierna... jodida...}
-{12380}{}{¡Mis ojos! ¡Mis hermosos ojos!}
-{12381}{}{Tratando de quitarme mi percepción de la profundidad, ¿eh?}
+{12380}{}{Â¡Mis ojos! Â¡Mis hermosos ojos!}
+{12381}{}{Tratando de quitarme mi percepciÃ³n de la profundidad, Â¿eh?}
 {12382}{}{No... puedo... ver... sangre en... ojos...}
-{12390}{}{¿Que te crees que es esto? ¿Una película barata de acción?}
-{12391}{}{Ya no podré decir que tengo un par de huevos.}
-{12392}{}{Vaya, ahí van mis grandes pelotas.}
+{12390}{}{Â¿Que te crees que es esto? Â¿Una pelÃ­cula barata de acciÃ³n?}
+{12391}{}{Ya no podrÃ© decir que tengo un par de huevos.}
+{12392}{}{Vaya, ahÃ­ van mis grandes pelotas.}
 {12393}{}{Perdona un momento mientras me vomito encima.}
-{12394}{}{Fantástico. Un jugador con fijación por las pelotas.}
-{12395}{}{Déjame recostarme un segundo, que después te mataré.}
-{12396}{}{¡Mis huevos!}
-{26000}{}{¡Huida! ¡Huida!}
-{26001}{}{¡Retirada!}
-{26002}{}{¡Reagrupamiento!}
-{26003}{}{¡Atrás!}
-{26004}{}{¡Retirada!}
-{26005}{}{¡Me largo de aquí!}
-{26020}{}{¡Mata a este idiota!}
+{12394}{}{FantÃ¡stico. Un jugador con fijaciÃ³n por las pelotas.}
+{12395}{}{DÃ©jame recostarme un segundo, que despuÃ©s te matarÃ©.}
+{12396}{}{Â¡Mis huevos!}
+{26000}{}{Â¡Huida! Â¡Huida!}
+{26001}{}{Â¡Retirada!}
+{26002}{}{Â¡Reagrupamiento!}
+{26003}{}{Â¡AtrÃ¡s!}
+{26004}{}{Â¡Retirada!}
+{26005}{}{Â¡Me largo de aquÃ­!}
+{26020}{}{Â¡Mata a este idiota!}
 {26021}{}{Eres hombre muerto...}
-{26022}{}{¡Voy a destriparte!}
-{26023}{}{¡Este es mío!}
-{26024}{}{¡Voy por ti!}
-{26025}{}{¡Tus orejas serán un buen trofeo!}
-{26040}{}{¡Disfruta los últimos segundos de tu vida!}
-{26041}{}{¡Sangre! ¡Sangre! ¡Sangre!}
-{26042}{}{¡Tu corazón es mío!}
-{26043}{}{¡Me encanta hacer esto!}
-{26044}{}{¡Tus armas serán mis trofeos!}
-{26045}{}{Muerte y desmembramiento. ¡Mis dos cosas favoritas!}
-{26046}{}{¡Seré yo quien te mate!}
-{26047}{}{¡Tus huesos yacerán en el Yermo!}
-{26048}{}{¡Sangre y oscuridad!}
-{26049}{}{¡Vaciaré tu cadáver!}
-{26050}{}{¡Destripad al maldito bastardo!}
-{26100}{}{¡Khans! ¡Cubridme!}
-{26101}{}{¡Retirada!}
-{26102}{}{¡Reagrupamiento!}
-{26103}{}{¡Atrás!}
-{26104}{}{¡Retirada!}
-{26105}{}{¡Retroceded y reagrupaos!}
-{26106}{}{¡Que empiece el desafío!}
-{26107}{}{¡Te usaré como diana!}
-{26108}{}{¡No tendré piedad!}
-{26109}{}{¡Este es mío!}
-{26110}{}{¡Khans, atacad!}
-{26111}{}{¡Hora de jugar!}
-{26112}{}{¡Que alguien mate a este desperdicio de ser humano!}
-{26113}{}{¡Los Khans matan!}
-{26114}{}{¡Los Khans son la élite del Yermo!}
-{26115}{}{¡Soy supremo!}
-{26116}{}{¡Los Khans gobernarán!}
-{26117}{}{¡Los Khans son invencibles!}
-{26118}{}{¡Retirarse nunca! ¡Rendirse jamás!}
-{26119}{}{¡Seré yo quien te mate!}
-{26120}{}{¡Me haré un collar con tus dientes!}
-{26121}{}{¡Sangre y oscuridad!}
-{26122}{}{¡Los Khans son los más fuertes!}
-{26123}{}{¡Buen intento, pero sigo aquí!}
-{26124}{}{¡No me puedes tocar!}
-{26125}{}{¡Soy indestructible!}
-{26126}{}{¡Mi sangre es más fuerte que la tuya!}
-{26127}{}{Quizá deberíamos dejarlo hasta que hayas practicado tu puntería!}
-{26128}{}{¡No eres digno de combatir conmigo!}
-{26129}{}{¿Por qué pierdo el tiempo peleando con idiotas como tú?}
-{32000}{}{¡Mi cara! ¡Mi cara!}
-{32001}{}{¡Mi nariz!}
+{26022}{}{Â¡Voy a destriparte!}
+{26023}{}{Â¡Este es mÃ­o!}
+{26024}{}{Â¡Voy por ti!}
+{26025}{}{Â¡Tus orejas serÃ¡n un buen trofeo!}
+{26040}{}{Â¡Disfruta los Ãºltimos segundos de tu vida!}
+{26041}{}{Â¡Sangre! Â¡Sangre! Â¡Sangre!}
+{26042}{}{Â¡Tu corazÃ³n es mÃ­o!}
+{26043}{}{Â¡Me encanta hacer esto!}
+{26044}{}{Â¡Tus armas serÃ¡n mis trofeos!}
+{26045}{}{Muerte y desmembramiento. Â¡Mis dos cosas favoritas!}
+{26046}{}{Â¡SerÃ© yo quien te mate!}
+{26047}{}{Â¡Tus huesos yacerÃ¡n en el Yermo!}
+{26048}{}{Â¡Sangre y oscuridad!}
+{26049}{}{Â¡VaciarÃ© tu cadÃ¡ver!}
+{26050}{}{Â¡Destripad al maldito bastardo!}
+{26100}{}{Â¡Khans! Â¡Cubridme!}
+{26101}{}{Â¡Retirada!}
+{26102}{}{Â¡Reagrupamiento!}
+{26103}{}{Â¡AtrÃ¡s!}
+{26104}{}{Â¡Retirada!}
+{26105}{}{Â¡Retroceded y reagrupaos!}
+{26106}{}{Â¡Que empiece el desafÃ­o!}
+{26107}{}{Â¡Te usarÃ© como diana!}
+{26108}{}{Â¡No tendrÃ© piedad!}
+{26109}{}{Â¡Este es mÃ­o!}
+{26110}{}{Â¡Khans, atacad!}
+{26111}{}{Â¡Hora de jugar!}
+{26112}{}{Â¡Que alguien mate a este desperdicio de ser humano!}
+{26113}{}{Â¡Los Khans matan!}
+{26114}{}{Â¡Los Khans son la Ã©lite del Yermo!}
+{26115}{}{Â¡Soy supremo!}
+{26116}{}{Â¡Los Khans gobernarÃ¡n!}
+{26117}{}{Â¡Los Khans son invencibles!}
+{26118}{}{Â¡Retirarse nunca! Â¡Rendirse jamÃ¡s!}
+{26119}{}{Â¡SerÃ© yo quien te mate!}
+{26120}{}{Â¡Me harÃ© un collar con tus dientes!}
+{26121}{}{Â¡Sangre y oscuridad!}
+{26122}{}{Â¡Los Khans son los mÃ¡s fuertes!}
+{26123}{}{Â¡Buen intento, pero sigo aquÃ­!}
+{26124}{}{Â¡No me puedes tocar!}
+{26125}{}{Â¡Soy indestructible!}
+{26126}{}{Â¡Mi sangre es mÃ¡s fuerte que la tuya!}
+{26127}{}{QuizÃ¡ deberÃ­amos dejarlo hasta que hayas practicado tu punterÃ­a!}
+{26128}{}{Â¡No eres digno de combatir conmigo!}
+{26129}{}{Â¿Por quÃ© pierdo el tiempo peleando con idiotas como tÃº?}
+{32000}{}{Â¡Mi cara! Â¡Mi cara!}
+{32001}{}{Â¡Mi nariz!}
 {32002}{}{oooh... mis orejas...}
-{32010}{}{¡Ow, mi brazo!}
-{32011}{}{¡Ow!}
-{32012}{}{¡Me has roto el brazo!}
-{32020}{}{¡Ow, mi brazo!}
-{32021}{}{¡Wahhhh!}
-{32022}{}{¡Dios mío, mi brazo!}
-{32030}{}{¡OUCH!}
+{32010}{}{Â¡Ow, mi brazo!}
+{32011}{}{Â¡Ow!}
+{32012}{}{Â¡Me has roto el brazo!}
+{32020}{}{Â¡Ow, mi brazo!}
+{32021}{}{Â¡Wahhhh!}
+{32022}{}{Â¡Dios mÃ­o, mi brazo!}
+{32030}{}{Â¡OUCH!}
 {32031}{}{Creo que voy a fallecer...}
-{32032}{}{¡Oye! ¡Mi hígado!}
-{32033}{}{¡Oooof!}
-{32034}{}{¡Eso ha dolido!}
-{32035}{}{¡Creo que me has alcanzado el apéndice!}
-{32036}{}{¡Ohhh, duele!}
-{32060}{}{¡Ow, mi pierna!}
-{32061}{}{¡Mi rodilla!}
-{32062}{}{¡Justo en la arteria!}
-{32070}{}{¡Ow, mi pierna!}
+{32032}{}{Â¡Oye! Â¡Mi hÃ­gado!}
+{32033}{}{Â¡Oooof!}
+{32034}{}{Â¡Eso ha dolido!}
+{32035}{}{Â¡Creo que me has alcanzado el apÃ©ndice!}
+{32036}{}{Â¡Ohhh, duele!}
+{32060}{}{Â¡Ow, mi pierna!}
+{32061}{}{Â¡Mi rodilla!}
+{32062}{}{Â¡Justo en la arteria!}
+{32070}{}{Â¡Ow, mi pierna!}
 {32071}{}{::hop... hop::}
-{32072}{}{¡Aaaarrrrggghhh!}
-{32080}{}{¡No puedo ver, bastardo!}
-{32081}{}{¡Mi cara! ¡Mis ojos! ¡Aaaaaarrgghh!}
-{32082}{}{¿Dónde estás? ¡Ayuda!}
-{32090}{}{¡Oooooh, la ingle! Oooooh...}
+{32072}{}{Â¡Aaaarrrrggghhh!}
+{32080}{}{Â¡No puedo ver, bastardo!}
+{32081}{}{Â¡Mi cara! Â¡Mis ojos! Â¡Aaaaaarrgghh!}
+{32082}{}{Â¿DÃ³nde estÃ¡s? Â¡Ayuda!}
+{32090}{}{Â¡Oooooh, la ingle! Oooooh...}
 {32091}{}{Yo... Yo... ay...}
 {32092}{}{::gimotea::}
 {32093}{}{::vomita::}
 {32094}{}{No... puedo... respirar}
 {32095}{}{Duele, duele...}
-{32100}{}{¡Tu kung-fu es mejor que el mío!}
-{32101}{}{Eres realmente bueno. Adiós.}
-{32102}{}{¡Ayyy! ¡Espíritus malvados!}
+{32100}{}{Â¡Tu kung-fu es mejor que el mÃ­o!}
+{32101}{}{Eres realmente bueno. AdiÃ³s.}
+{32102}{}{Â¡Ayyy! Â¡EspÃ­ritus malvados!}
 {32103}{}{Oh no...}
 {32104}{}{He fallado.}
 {32105}{}{He sido deshonrado.}
 {32120}{}{Me obligas a atacarte.}
 {32121}{}{Te aconsejo que corras.}
-{32122}{}{Sólo un cobarde usa armas.}
+{32122}{}{SÃ³lo un cobarde usa armas.}
 {32123}{}{Corre mientras puedas.}
-{32124}{}{Prepárate, alma descarriada.}
-{32125}{}{Corre y no te lastimaré.}
+{32124}{}{PrepÃ¡rate, alma descarriada.}
+{32125}{}{Corre y no te lastimarÃ©.}
 {32126}{}{Si insistes en pelear...}
-{32128}{}{¿Crees que puedes derrotarme?}
-{32140}{}{¡Haiiiiiiii-YA!}
-{32141}{}{¡Chop-socky!}
-{32142}{}{¡rooOOOooo!}
-{32143}{}{¡Hai!}
-{32144}{}{¡Huh!}
-{32145}{}{¡Hai oooOOo!}
-{32146}{}{¡Hai - ah!}
-{32147}{}{¡Muéstrame lo que sabes hacer!}
-{32148}{}{¡CARNE de Mongolia!}
-{32149}{}{¡Una patada en el ojo!}
-{32160}{}{Sólo un cobarde usa armas.}
-{32161}{}{¿Tienes miedo de enfrentarte a un luchador de verdad?}
-{32162}{}{Tu kung-fu no es bueno aquí.}
-{32163}{}{¡Ríndete!}
-{32164}{}{¿A eso le llamas pelear?}
+{32128}{}{Â¿Crees que puedes derrotarme?}
+{32140}{}{Â¡Haiiiiiiii-YA!}
+{32141}{}{Â¡Chop-socky!}
+{32142}{}{Â¡rooOOOooo!}
+{32143}{}{Â¡Hai!}
+{32144}{}{Â¡Huh!}
+{32145}{}{Â¡Hai oooOOo!}
+{32146}{}{Â¡Hai - ah!}
+{32147}{}{Â¡MuÃ©strame lo que sabes hacer!}
+{32148}{}{Â¡CARNE de Mongolia!}
+{32149}{}{Â¡Una patada en el ojo!}
+{32160}{}{SÃ³lo un cobarde usa armas.}
+{32161}{}{Â¿Tienes miedo de enfrentarte a un luchador de verdad?}
+{32162}{}{Tu kung-fu no es bueno aquÃ­.}
+{32163}{}{Â¡RÃ­ndete!}
+{32164}{}{Â¿A eso le llamas pelear?}
 {32165}{}{Te mueves como un yak embarazado.}
-{32200}{}{Estoy buscando a una muchacha de ojos verdes... ¡adiós!}
-{32201}{}{Sí señor, creo que tengo correo, voy a revisarlo.}
+{32200}{}{Estoy buscando a una muchacha de ojos verdes... Â¡adiÃ³s!}
+{32201}{}{SÃ­ seÃ±or, creo que tengo correo, voy a revisarlo.}
 {32202}{}{Creo que tengo una cita...}
-{32203}{}{¡Vale, tú ganas!}
-{32204}{}{¡Me rindo!}
-{32205}{}{¡Tu kung-fu es mejor que el mío!}
-{32220}{}{¡Rayos y truenos! ¡Matadlo por mí!}
-{32221}{}{¡Tus poderes son débiles!}
-{32222}{}{¡Tu kung-fu no puede lastimarme!}
-{32223}{}{¡Soy invencible!}
-{32224}{}{¡Corre, gusano!}
-{32225}{}{¡El trueno está ante ti!}
-{32226}{}{¡Flota como una mariposa!}
-{32228}{}{¡Pica como una abeja!}
-{32240}{}{¿Quién es Jack Burton?}
-{32241}{}{¡¿Es demasiado pedir que te mueras?!}
-{32242}{}{¿Pagaste tus deudas, Jack?}
+{32203}{}{Â¡Vale, tÃº ganas!}
+{32204}{}{Â¡Me rindo!}
+{32205}{}{Â¡Tu kung-fu es mejor que el mÃ­o!}
+{32220}{}{Â¡Rayos y truenos! Â¡Matadlo por mÃ­!}
+{32221}{}{Â¡Tus poderes son dÃ©biles!}
+{32222}{}{Â¡Tu kung-fu no puede lastimarme!}
+{32223}{}{Â¡Soy invencible!}
+{32224}{}{Â¡Corre, gusano!}
+{32225}{}{Â¡El trueno estÃ¡ ante ti!}
+{32226}{}{Â¡Flota como una mariposa!}
+{32228}{}{Â¡Pica como una abeja!}
+{32240}{}{Â¿QuiÃ©n es Jack Burton?}
+{32241}{}{Â¡Â¿Es demasiado pedir que te mueras?!}
+{32242}{}{Â¿Pagaste tus deudas, Jack?}
 {32243}{}{Hay un problema con tu cara.}
-{32244}{}{¡El cheque está en el CORREO!}
-{32245}{}{¡El infierno te espera!}
-{32246}{}{¡Saluda a tus ancestros de mi parte!}
-{32247}{}{¡Soy inmortal!}
-{32248}{}{¡Chop-suey!}
-{32249}{}{¡Hai-YA!}
-{32260}{}{¡Soy invencible!}
+{32244}{}{Â¡El cheque estÃ¡ en el CORREO!}
+{32245}{}{Â¡El infierno te espera!}
+{32246}{}{Â¡Saluda a tus ancestros de mi parte!}
+{32247}{}{Â¡Soy inmortal!}
+{32248}{}{Â¡Chop-suey!}
+{32249}{}{Â¡Hai-YA!}
+{32260}{}{Â¡Soy invencible!}
 {32261}{}{Dame tu mejor tiro.}
 {32262}{}{Puedo soportarlo.}
-{32263}{}{No sabes pelear, ¿verdad?}
-{32264}{}{¿A eso le llamas pelear?}
+{32263}{}{No sabes pelear, Â¿verdad?}
+{32264}{}{Â¿A eso le llamas pelear?}
 {32265}{}{::bostezo::}
-{32300}{}{¡Tengo esposa e hijos!}
-{32301}{}{Noo... ¡es mi cumpleaños!}
+{32300}{}{Â¡Tengo esposa e hijos!}
+{32301}{}{Noo... Â¡es mi cumpleaÃ±os!}
 {32302}{}{Ay... mi bazo...}
-{32303}{}{¡De vuelta al hospital!}
+{32303}{}{Â¡De vuelta al hospital!}
 {32304}{}{Debo... proteger... el bazo...}
-{32305}{}{Oh, mi dolorido hígado.}
+{32305}{}{Oh, mi dolorido hÃ­gado.}
 {32320}{}{No me hagas usar mi cuchillo trucado.}
-{32321}{}{Te derribaré de una forma que no te imaginas...}
-{32322}{}{¿Desayunas pedacitos de mierda?}
-{32323}{}{Te patearé tu sucio trasero.}
-{32324}{}{¡Te haré pedazos!}
-{32325}{}{Creo que no tengo más que decir.}
-{32340}{}{¡Boom!}
-{32341}{}{¡Te rebanaré el culo!}
-{32342}{}{¡Sí!}
-{32343}{}{¡Sí, cariño, sí!}
-{32344}{}{¿Quieres un poco de esto?}
-{32345}{}{¡No te muevas así!}
-{32346}{}{¡Impresionante, ca-ri-ño!}
-{32347}{}{Oh, ¿eres tan feo?}
-{32348}{}{Tu cara es así como fea, ¿verdad?}
-{32360}{}{¡No le has dado a mi bazo! ¡JA JA!}
-{32361}{}{¡APESTAS!}
-{32362}{}{¡Ja ja!¡Aquí mando yo!}
+{32321}{}{Te derribarÃ© de una forma que no te imaginas...}
+{32322}{}{Â¿Desayunas pedacitos de mierda?}
+{32323}{}{Te patearÃ© tu sucio trasero.}
+{32324}{}{Â¡Te harÃ© pedazos!}
+{32325}{}{Creo que no tengo mÃ¡s que decir.}
+{32340}{}{Â¡Boom!}
+{32341}{}{Â¡Te rebanarÃ© el culo!}
+{32342}{}{Â¡SÃ­!}
+{32343}{}{Â¡SÃ­, cariÃ±o, sÃ­!}
+{32344}{}{Â¿Quieres un poco de esto?}
+{32345}{}{Â¡No te muevas asÃ­!}
+{32346}{}{Â¡Impresionante, ca-ri-Ã±o!}
+{32347}{}{Oh, Â¿eres tan feo?}
+{32348}{}{Tu cara es asÃ­ como fea, Â¿verdad?}
+{32360}{}{Â¡No le has dado a mi bazo! Â¡JA JA!}
+{32361}{}{Â¡APESTAS!}
+{32362}{}{Â¡Ja ja!Â¡AquÃ­ mando yo!}
 {32363}{}{Dame un besito, amor.}
-{32364}{}{Hora de dormir, bebé.}
-{32365}{}{¡Te haré pedazos!}
-{32400}{}{¡La cara! ¡No me golpees la cara!}
-{32401}{}{¡Has arruinado mi peinado, bestia!}
-{32402}{}{¡Bastardo! ¡Te sodomizaré por eso!}
-{32403}{}{¡Necesito un arma más grande!}
-{32404}{}{¡¡¡Waaaaaaaaaaa!!!}
-{32405}{}{¡¡¡AAAHHHG!!! ¡¡Me has disparado en el trasero!!}
-{32420}{}{¡Desearás que tu papá se hubiera retirado a tiempo!}
-{32421}{}{Digamos... ¡que tienes la cara como el culo!}
+{32364}{}{Hora de dormir, bebÃ©.}
+{32365}{}{Â¡Te harÃ© pedazos!}
+{32400}{}{Â¡La cara! Â¡No me golpees la cara!}
+{32401}{}{Â¡Has arruinado mi peinado, bestia!}
+{32402}{}{Â¡Bastardo! Â¡Te sodomizarÃ© por eso!}
+{32403}{}{Â¡Necesito un arma mÃ¡s grande!}
+{32404}{}{Â¡Â¡Â¡Waaaaaaaaaaa!!!}
+{32405}{}{Â¡Â¡Â¡AAAHHHG!!! Â¡Â¡Me has disparado en el trasero!!}
+{32420}{}{Â¡DesearÃ¡s que tu papÃ¡ se hubiera retirado a tiempo!}
+{32421}{}{Digamos... Â¡que tienes la cara como el culo!}
 {32422}{}{A ver lo que tienes, papanatas.}
-{32423}{}{¡Inclínate y sujétate los tobillos, pimpollo!}
-{32424}{}{¡Por Shane!!}
-{32425}{}{Trataré de hacer esto lo más doloroso posible.}
-{32426}{}{¿Te importa si te rompo primero las rótulas?}
-{32428}{}{Venga, niñita. Muéstrame lo que tienes.}
+{32423}{}{Â¡InclÃ­nate y sujÃ©tate los tobillos, pimpollo!}
+{32424}{}{Â¡Por Shane!!}
+{32425}{}{TratarÃ© de hacer esto lo mÃ¡s doloroso posible.}
+{32426}{}{Â¿Te importa si te rompo primero las rÃ³tulas?}
+{32428}{}{Venga, niÃ±ita. MuÃ©strame lo que tienes.}
 {32440}{}{Espero que no necesites ese brazo...}
-{32441}{}{Maldición. Eso va a doler, ¿eh?}
-{32442}{}{¡Uf-da!}
-{32443}{}{Me encanta el olor a sangre por la mañana...}
-{32444}{}{Chico, eres de esos que sangran mucho, ¿no es así?}
+{32441}{}{MaldiciÃ³n. Eso va a doler, Â¿eh?}
+{32442}{}{Â¡Uf-da!}
+{32443}{}{Me encanta el olor a sangre por la maÃ±ana...}
+{32444}{}{Chico, eres de esos que sangran mucho, Â¿no es asÃ­?}
 {32445}{}{::::eructa:::::}
-{32446}{}{¡¡¡¡Amigo, me has roto la camisa!!!!}
-{32447}{}{¡¡¡Enema caliente a punto de llegar!!}
-{32448}{}{¡¡Trágate esto!!}
-{32460}{}{¡Disparas peor que mi madre!}
-{32461}{}{¡Maldición, apestas!}
-{32462}{}{¡Vuelve a Los Ángeles, nenaza!}
-{32463}{}{¿Quieres que me quede quieto para ti?}
+{32446}{}{Â¡Â¡Â¡Â¡Amigo, me has roto la camisa!!!!}
+{32447}{}{Â¡Â¡Â¡Enema caliente a punto de llegar!!}
+{32448}{}{Â¡Â¡TrÃ¡gate esto!!}
+{32460}{}{Â¡Disparas peor que mi madre!}
+{32461}{}{Â¡MaldiciÃ³n, apestas!}
+{32462}{}{Â¡Vuelve a Los Ãngeles, nenaza!}
+{32463}{}{Â¿Quieres que me quede quieto para ti?}
 {32464}{}{:::eructa:::}
 {32465}{}{Oh, esa ha sido buena...}
-{32500}{}{Santo cielo, !yo sólo quería lamerlo!}
-{32501}{}{La la la ... ¡ayuda!}
-{32502}{}{¡Ja ja AY!}
-{32503}{}{¡AT! ¡AT! ¡At at at at at!}
-{32504}{}{¡Ay, caramba!}
-{32505}{}{¡Ayudaaaa!}
-{32520}{}{¡Tú no querías nada de esto!}
-{32521}{}{¡Ven a por un poco!}
-{32522}{}{¿Quieres algo de esto? ¿Eh? ¿Eh?}
-{32523}{}{¡Ven! ¡Voy a violarte!}
+{32500}{}{Santo cielo, !yo sÃ³lo querÃ­a lamerlo!}
+{32501}{}{La la la ... Â¡ayuda!}
+{32502}{}{Â¡Ja ja AY!}
+{32503}{}{Â¡AT! Â¡AT! Â¡At at at at at!}
+{32504}{}{Â¡Ay, caramba!}
+{32505}{}{Â¡Ayudaaaa!}
+{32520}{}{Â¡TÃº no querÃ­as nada de esto!}
+{32521}{}{Â¡Ven a por un poco!}
+{32522}{}{Â¿Quieres algo de esto? Â¿Eh? Â¿Eh?}
+{32523}{}{Â¡Ven! Â¡Voy a violarte!}
 {32524}{}{Vas a estar MUY muerto.}
 {32525}{}{Vas a conocer todo un mundo nuevo de dolor.}
-{32526}{}{Tengo algo para ti... oh, sí.}
-{32540}{}{Vas a tener que tragar un montón de mierda.}
+{32526}{}{Tengo algo para ti... oh, sÃ­.}
+{32540}{}{Vas a tener que tragar un montÃ³n de mierda.}
 {32541}{}{::canta::}
 {32542}{}{Iii... will always love YOOUUUUU}
-{32543}{}{¿No podemos simplemente llevarnos bien?}
+{32543}{}{Â¿No podemos simplemente llevarnos bien?}
 {32544}{}{Vas a estar MUY muerto.}
-{32545}{}{Inclínate un segundo...}
+{32545}{}{InclÃ­nate un segundo...}
 {32546}{}{Tengo un regalo para ti.}
-{32547}{}{¿Quieres un pedazo de mí?}
-{32548}{}{¡Dispara... y anota!}
-{32549}{}{¿Que te parece algo de romance?}
-{32560}{}{¡Eso está bien!}
-{32561}{}{¡Eso está BIEN!}
-{32562}{}{¡Ja ja ja!}
-{32563}{}{¿Alguna vez has hecho algo bien?}
-{32564}{}{¡Ni te acercas!}
-{32565}{}{¡Ay! Ja ja... era broma.}
-{32600}{}{¡Aayy!}
-{32601}{}{¡Próximo rango, nos vemos!}
-{32602}{}{¡Atrás!}
-{32603}{}{¡Huida! ¡Huida!}
-{32604}{}{¡Hay que huir!}
-{32620}{}{Prepárate a ser deshonrado.}
-{32621}{}{Los pilares de la vergüenza divina...}
+{32547}{}{Â¿Quieres un pedazo de mÃ­?}
+{32548}{}{Â¡Dispara... y anota!}
+{32549}{}{Â¿Que te parece algo de romance?}
+{32560}{}{Â¡Eso estÃ¡ bien!}
+{32561}{}{Â¡Eso estÃ¡ BIEN!}
+{32562}{}{Â¡Ja ja ja!}
+{32563}{}{Â¿Alguna vez has hecho algo bien?}
+{32564}{}{Â¡Ni te acercas!}
+{32565}{}{Â¡Ay! Ja ja... era broma.}
+{32600}{}{Â¡Aayy!}
+{32601}{}{Â¡PrÃ³ximo rango, nos vemos!}
+{32602}{}{Â¡AtrÃ¡s!}
+{32603}{}{Â¡Huida! Â¡Huida!}
+{32604}{}{Â¡Hay que huir!}
+{32620}{}{PrepÃ¡rate a ser deshonrado.}
+{32621}{}{Los pilares de la vergÃ¼enza divina...}
 {32622}{}{... caen flechas envenenadas...}
-{32623}{}{Aquí viene el Expreso Nudillo.}
+{32623}{}{AquÃ­ viene el Expreso Nudillo.}
 {32624}{}{Te lo advertimos...}
-{32625}{}{¡Viene un antiguo gaijin!}
-{32626}{}{Adiós, cadáver}
-{32640}{}{¡Tengo algo para ti...}
+{32625}{}{Â¡Viene un antiguo gaijin!}
+{32626}{}{AdiÃ³s, cadÃ¡ver}
+{32640}{}{Â¡Tengo algo para ti...}
 {32641}{}{... algo para tu madre...}
 {32642}{}{...algo para tu padre...}
 {32643}{}{...algo para tu hermana....}
 {32644}{}{... y algo para tus ancestros!}
-{32645}{}{¡Vete!}
-{32646}{}{¡Muere!}
-{32647}{}{¡Adiós!}
-{32648}{}{¡Déjame deshonrarte!}
+{32645}{}{Â¡Vete!}
+{32646}{}{Â¡Muere!}
+{32647}{}{Â¡AdiÃ³s!}
+{32648}{}{Â¡DÃ©jame deshonrarte!}
 {32649}{}{Tu presencia me ofende.}
-{32660}{}{El secreto está en los reflejos.}
-{32661}{}{¡Gaijin loco!}
-{32662}{}{::suspira:: ¿Cuándo pelearemos con alguien BUENO?}
-{32663}{}{¿Alguna vez terminará esto?}
-{32664}{}{¿Cuándo has empezado a golpearme?}
-{32665}{}{Se está haciendo tarde...}
-{32700}{}{¡Mi cara! ¡Mi cara!}
-{32701}{}{¡Padre Estelar! ¡Ayúdame!}
-{32702}{}{¡Ouch! Necesito algo para mi cabeza.}
-{32710}{}{¡Ow, mi brazo!}
-{32711}{}{¡Ow!}
-{32712}{}{¡Me has roto el brazo!}
-{32720}{}{¡Ow, mi brazo!}
-{32721}{}{¡Wahhhh!}
-{32722}{}{¡Por Hub! ¡Mi brazo!}
-{32730}{}{¡Ow! ¡Eso ha dolido!}
+{32660}{}{El secreto estÃ¡ en los reflejos.}
+{32661}{}{Â¡Gaijin loco!}
+{32662}{}{::suspira:: Â¿CuÃ¡ndo pelearemos con alguien BUENO?}
+{32663}{}{Â¿Alguna vez terminarÃ¡ esto?}
+{32664}{}{Â¿CuÃ¡ndo has empezado a golpearme?}
+{32665}{}{Se estÃ¡ haciendo tarde...}
+{32700}{}{Â¡Mi cara! Â¡Mi cara!}
+{32701}{}{Â¡Padre Estelar! Â¡AyÃºdame!}
+{32702}{}{Â¡Ouch! Necesito algo para mi cabeza.}
+{32710}{}{Â¡Ow, mi brazo!}
+{32711}{}{Â¡Ow!}
+{32712}{}{Â¡Me has roto el brazo!}
+{32720}{}{Â¡Ow, mi brazo!}
+{32721}{}{Â¡Wahhhh!}
+{32722}{}{Â¡Por Hub! Â¡Mi brazo!}
+{32730}{}{Â¡Ow! Â¡Eso ha dolido!}
 {32731}{}{Creo que me voy a desmayar}
-{32732}{}{¡Ouch!}
-{32733}{}{¡Padre Estelar! ¡Ayúdame!}
-{32734}{}{¡Eso ha dolido!}
-{32735}{}{¡Déjame en paz!}
-{32736}{}{¡Ohhh, duele!}
-{32760}{}{¡Oh, mi pierna!}
-{32761}{}{¡Mi rodilla!}
-{32762}{}{¡Ow!}
-{32770}{}{¡Ay, mi tibia!}
-{32771}{}{¡Mi rodilla!}
-{32772}{}{¡Aaaarrrrggghhh!}
-{32780}{}{¡¡Ay!! ¡Mis ojos!}
-{32781}{}{¡Mi cara! ¡Mis ojos! ¡Aaaaaarrgghh!}
-{32782}{}{¡Mis ojos!}
-{32790}{}{¡Oooooh, la ingle! Oooooh...}
-{32791}{}{Ayy...¡Quema!}
-{32792}{}{¡Urp!}
+{32732}{}{Â¡Ouch!}
+{32733}{}{Â¡Padre Estelar! Â¡AyÃºdame!}
+{32734}{}{Â¡Eso ha dolido!}
+{32735}{}{Â¡DÃ©jame en paz!}
+{32736}{}{Â¡Ohhh, duele!}
+{32760}{}{Â¡Oh, mi pierna!}
+{32761}{}{Â¡Mi rodilla!}
+{32762}{}{Â¡Ow!}
+{32770}{}{Â¡Ay, mi tibia!}
+{32771}{}{Â¡Mi rodilla!}
+{32772}{}{Â¡Aaaarrrrggghhh!}
+{32780}{}{Â¡Â¡Ay!! Â¡Mis ojos!}
+{32781}{}{Â¡Mi cara! Â¡Mis ojos! Â¡Aaaaaarrgghh!}
+{32782}{}{Â¡Mis ojos!}
+{32790}{}{Â¡Oooooh, la ingle! Oooooh...}
+{32791}{}{Ayy...Â¡Quema!}
+{32792}{}{Â¡Urp!}
 {32793}{}{::chillido::}
 {32794}{}{No... puedo... respirar}
-{32795}{}{Menos mal... que ya... soy estéril...}
-{32800}{}{¡Padre Estelar! ¡Ayúdanos!}
-{32801}{}{¡Mis neurodinas!}
-{32802}{}{¡Quiero vivir para ver Quetzel!}
-{32803}{}{¡Eeek!}
-{32804}{}{¡Salvad a nuestras celebridades!}
-{32805}{}{¡OZ-9! ¡Ayúdanos!}
+{32795}{}{Menos mal... que ya... soy estÃ©ril...}
+{32800}{}{Â¡Padre Estelar! Â¡AyÃºdanos!}
+{32801}{}{Â¡Mis neurodinas!}
+{32802}{}{Â¡Quiero vivir para ver Quetzel!}
+{32803}{}{Â¡Eeek!}
+{32804}{}{Â¡Salvad a nuestras celebridades!}
+{32805}{}{Â¡OZ-9! Â¡AyÃºdanos!}
 {32820}{}{Voy a "ajustarte" de verdad...}
-{32821}{}{Me alegraré cuando dejemos atrás a los de tu clase...}
-{32822}{}{Por desgracia para ti no verás el futuro.}
-{32823}{}{Nunca desafíes al Padre Estelar.}
-{32824}{}{¡Hub te ejecutará!}
-{32825}{}{¡Somos la venganza del Padre Estelar!}
-{32826}{}{¡Muerte a los no iniciados!}
+{32821}{}{Me alegrarÃ© cuando dejemos atrÃ¡s a los de tu clase...}
+{32822}{}{Por desgracia para ti no verÃ¡s el futuro.}
+{32823}{}{Nunca desafÃ­es al Padre Estelar.}
+{32824}{}{Â¡Hub te ejecutarÃ¡!}
+{32825}{}{Â¡Somos la venganza del Padre Estelar!}
+{32826}{}{Â¡Muerte a los no iniciados!}
 {32828}{}{Piensa que esto es un escaneo zeta diferente.}
-{32840}{}{¡Tienes energía sucia!}
-{32841}{}{¡Por el Padre Estelar!}
-{32842}{}{¡Por Hub!}
-{32843}{}{¡Por Quetzel!}
-{32844}{}{¡Por OZ-9!}
-{32845}{}{¡Muere, impuro!}
-{32846}{}{¡No profanes nuestro templo!}
-{32847}{}{¡Esto es por OZ-9!}
-{32860}{}{Tu energía está mal alineada.}
-{32861}{}{Si fueras uno de nosotros, me habrías dado.}
-{32862}{}{Tienes energía impura.}
-{32863}{}{¡No puedes golpear a un auténtico creyente!}
-{32864}{}{¡Eso reseteará tus neurodinas!}
-{32865}{}{¡Impuro!}
-{32900}{}{¡Soy una estrella de cine!}
-{32901}{}{¡Abrid paso a una celebridad!}
-{32902}{}{¡Esto no está en el guión!}
-{32903}{}{¡Padre Estelar! ¡Ayuda!}
-{32904}{}{Pero... ¡soy famoso!}
-{33000}{}{¡Padre Estelar! ¡Ayúdame!}
-{33001}{}{¡No! ¡Yo no!}
-{33002}{}{¡Por favor, mata a algún otro!}
-{33003}{}{¡No me mates! ¡Soy OZ-9!}
-{33004}{}{¡Guardias! ¡Ayudadme!}
-{33005}{}{¡No puedes matarme! ¡Soy demasiado importante!}
-{33020}{}{Podrías haber sido uno de nosotros.}
-{33021}{}{Los estúpidos siempre se vuelven en contra de sus superiores.}
-{33022}{}{¡Tu energía impura destella!}
+{32840}{}{Â¡Tienes energÃ­a sucia!}
+{32841}{}{Â¡Por el Padre Estelar!}
+{32842}{}{Â¡Por Hub!}
+{32843}{}{Â¡Por Quetzel!}
+{32844}{}{Â¡Por OZ-9!}
+{32845}{}{Â¡Muere, impuro!}
+{32846}{}{Â¡No profanes nuestro templo!}
+{32847}{}{Â¡Esto es por OZ-9!}
+{32860}{}{Tu energÃ­a estÃ¡ mal alineada.}
+{32861}{}{Si fueras uno de nosotros, me habrÃ­as dado.}
+{32862}{}{Tienes energÃ­a impura.}
+{32863}{}{Â¡No puedes golpear a un autÃ©ntico creyente!}
+{32864}{}{Â¡Eso resetearÃ¡ tus neurodinas!}
+{32865}{}{Â¡Impuro!}
+{32900}{}{Â¡Soy una estrella de cine!}
+{32901}{}{Â¡Abrid paso a una celebridad!}
+{32902}{}{Â¡Esto no estÃ¡ en el guiÃ³n!}
+{32903}{}{Â¡Padre Estelar! Â¡Ayuda!}
+{32904}{}{Pero... Â¡soy famoso!}
+{33000}{}{Â¡Padre Estelar! Â¡AyÃºdame!}
+{33001}{}{Â¡No! Â¡Yo no!}
+{33002}{}{Â¡Por favor, mata a algÃºn otro!}
+{33003}{}{Â¡No me mates! Â¡Soy OZ-9!}
+{33004}{}{Â¡Guardias! Â¡Ayudadme!}
+{33005}{}{Â¡No puedes matarme! Â¡Soy demasiado importante!}
+{33020}{}{PodrÃ­as haber sido uno de nosotros.}
+{33021}{}{Los estÃºpidos siempre se vuelven en contra de sus superiores.}
+{33022}{}{Â¡Tu energÃ­a impura destella!}
 {33023}{}{Si tan solo hubieras hecho el juramento...}
-{33024}{}{El Padre Estelar te derribará.}
-{33025}{}{Nunca verás el planeta Quetzel.}
-{33026}{}{Traicionas la evolución humana.}
+{33024}{}{El Padre Estelar te derribarÃ¡.}
+{33025}{}{Nunca verÃ¡s el planeta Quetzel.}
+{33026}{}{Traicionas la evoluciÃ³n humana.}
 {33028}{}{Indigno e impuro.}
-{33040}{}{¡Mi toque te purificará!}
-{33041}{}{Te golpearé hasta que mueras!}
-{33042}{}{¡En el nombre de Hub!}
-{33043}{}{¡Por la gloria del Padre Estelar!}
-{33044}{}{¡Siente la ira de Hub!}
-{33045}{}{¡Esto te optimizará!}
-{33060}{}{¡El Padre Estelar me salva!}
-{33061}{}{¡Hub me protege!}
-{33062}{}{¡Tus neurodinas son impuras!}
-{33063}{}{Tu energía no es buena.}
-{33064}{}{¿No sabes cómo concentrarte?}
-{33100}{}{¡Padre Estelar! ¡Ayúdame!}
-{33101}{}{¡Preferiría estar en Quetzel!}
-{33102}{}{¡No a mí! ¡No me mates!}
-{33103}{}{¡Sólo soy un lacayo!}
-{33104}{}{¡Yo no tomo las decisiones!}
-{33105}{}{¡Yo no soy el que buscas!}
-{33120}{}{Preferiría no hacer esto...}
-{33121}{}{¿Estás seguro de que no prefieres rendirte?}
-{33122}{}{¿No podemos hablarlo?}
+{33040}{}{Â¡Mi toque te purificarÃ¡!}
+{33041}{}{Te golpearÃ© hasta que mueras!}
+{33042}{}{Â¡En el nombre de Hub!}
+{33043}{}{Â¡Por la gloria del Padre Estelar!}
+{33044}{}{Â¡Siente la ira de Hub!}
+{33045}{}{Â¡Esto te optimizarÃ¡!}
+{33060}{}{Â¡El Padre Estelar me salva!}
+{33061}{}{Â¡Hub me protege!}
+{33062}{}{Â¡Tus neurodinas son impuras!}
+{33063}{}{Tu energÃ­a no es buena.}
+{33064}{}{Â¿No sabes cÃ³mo concentrarte?}
+{33100}{}{Â¡Padre Estelar! Â¡AyÃºdame!}
+{33101}{}{Â¡PreferirÃ­a estar en Quetzel!}
+{33102}{}{Â¡No a mÃ­! Â¡No me mates!}
+{33103}{}{Â¡SÃ³lo soy un lacayo!}
+{33104}{}{Â¡Yo no tomo las decisiones!}
+{33105}{}{Â¡Yo no soy el que buscas!}
+{33120}{}{PreferirÃ­a no hacer esto...}
+{33121}{}{Â¿EstÃ¡s seguro de que no prefieres rendirte?}
+{33122}{}{Â¿No podemos hablarlo?}
 {33123}{}{Si OZ-9 dice que eres malo, entonces debes ser malo.}
-{33124}{}{¡Por... eem... la gloria de Hub!}
+{33124}{}{Â¡Por... eem... la gloria de Hub!}
 {33125}{}{Pelear es malo para tus neurodinas...}
 {33126}{}{No soy bueno en esto de amenazar.}
 {33128}{}{Mis disculpas, pero voy a lastimarte.}
-{33140}{}{¡Detrás tuyo!}
+{33140}{}{Â¡DetrÃ¡s tuyo!}
 {33141}{}{::entorna los ojos y ataca::}
-{33142}{}{Aquí viene otro ataque...}
-{33143}{}{Si te limitases a huir, no tendría que hacer esto.}
-{33144}{}{¡Vamos! ¡Sal de aquí!}
-{33145}{}{¡Shoo! ¡Shoo!}
-{33146}{}{¡Deja de pelear!}
-{33147}{}{¡Hoooooola!}
+{33142}{}{AquÃ­ viene otro ataque...}
+{33143}{}{Si te limitases a huir, no tendrÃ­a que hacer esto.}
+{33144}{}{Â¡Vamos! Â¡Sal de aquÃ­!}
+{33145}{}{Â¡Shoo! Â¡Shoo!}
+{33146}{}{Â¡Deja de pelear!}
+{33147}{}{Â¡Hoooooola!}
 {33148}{}{Hueles a florecitas.}
-{33149}{}{¡Podemos resolver esto!}
-{33160}{}{¿Por qué quieres hacerme daño?}
-{33161}{}{¿Qué te he hecho?}
-{33162}{}{¡Ya sabes que no tenemos que pelear!}
-{33163}{}{¡No quiero lastimarte!}
-{33164}{}{¡No quiero que me hagas daño!}
-{33165}{}{¿No podemos arreglar esto como adultos?}
-{33200}{}{¡Creo que me has roto la mandíbula!}
-{33201}{}{¡Mi mejilla!}
-{33202}{}{Eso dejará una fea cicatriz.}
-{33210}{}{¡Mi mano de escribir!}
-{33211}{}{¡Mi codo!}
-{33212}{}{¡Oye! ¡Cuidado con lo que haces!}
-{33220}{}{¡Ahhh! ¡Aiee! ¡Ahh!}
-{33221}{}{¡Wahhhh!}
-{33222}{}{¡Ay! ¡¡Mi meñique!!}
-{33230}{}{¡Creo que me has dado en el riñón!}
-{33231}{}{¡Mi plexo solar!}
+{33149}{}{Â¡Podemos resolver esto!}
+{33160}{}{Â¿Por quÃ© quieres hacerme daÃ±o?}
+{33161}{}{Â¿QuÃ© te he hecho?}
+{33162}{}{Â¡Ya sabes que no tenemos que pelear!}
+{33163}{}{Â¡No quiero lastimarte!}
+{33164}{}{Â¡No quiero que me hagas daÃ±o!}
+{33165}{}{Â¿No podemos arreglar esto como adultos?}
+{33200}{}{Â¡Creo que me has roto la mandÃ­bula!}
+{33201}{}{Â¡Mi mejilla!}
+{33202}{}{Eso dejarÃ¡ una fea cicatriz.}
+{33210}{}{Â¡Mi mano de escribir!}
+{33211}{}{Â¡Mi codo!}
+{33212}{}{Â¡Oye! Â¡Cuidado con lo que haces!}
+{33220}{}{Â¡Ahhh! Â¡Aiee! Â¡Ahh!}
+{33221}{}{Â¡Wahhhh!}
+{33222}{}{Â¡Ay! Â¡Â¡Mi meÃ±ique!!}
+{33230}{}{Â¡Creo que me has dado en el riÃ±Ã³n!}
+{33231}{}{Â¡Mi plexo solar!}
 {33232}{}{::jadea::}
-{33233}{}{¡Oooof!}
+{33233}{}{Â¡Oooof!}
 {33234}{}{No tienes que hacer esto...}
 {33235}{}{Vale, eso duele.}
 {33236}{}{Ohhh... ayyy}
-{33260}{}{¡Mi tibia!}
-{33261}{}{¡Mi rodilla!}
-{33262}{}{¡Ow!}
-{33270}{}{¡Oooh, mi fémur!}
-{33271}{}{¡Mi rodilla!}
+{33260}{}{Â¡Mi tibia!}
+{33261}{}{Â¡Mi rodilla!}
+{33262}{}{Â¡Ow!}
+{33270}{}{Â¡Oooh, mi fÃ©mur!}
+{33271}{}{Â¡Mi rodilla!}
 {33272}{}{Eso me va a provocar una cojera..}
-{33280}{}{¡Creo que me has desprendido la retina!}
-{33281}{}{¡Mi humor acuoso! ¡Mi humor vítreo!}
-{33282}{}{¡Estoy ciego! ¡Estoy ciego!}
-{33290}{}{Eso... eso me... dolió...}
-{33291}{}{Madre mía...}
+{33280}{}{Â¡Creo que me has desprendido la retina!}
+{33281}{}{Â¡Mi humor acuoso! Â¡Mi humor vÃ­treo!}
+{33282}{}{Â¡Estoy ciego! Â¡Estoy ciego!}
+{33290}{}{Eso... eso me... doliÃ³...}
+{33291}{}{Madre mÃ­a...}
 {33292}{}{::gimotea::}
-{33293}{}{¡Santa Madre de DIOS!}
+{33293}{}{Â¡Santa Madre de DIOS!}
 {33294}{}{Hmmm. Ay. Hmmm.}
 {33295}{}{Creo que voy a entrar en shock ahora mismo.}
-{36000}{}{¡Auch! ¡Eso le ha dado a Kaga en la cabeza!}
-{36001}{}{¡Ow! ¡Mi cabeza!}
-{36002}{}{¡Uuf! ¡La cabeza de Kaga está en llamas!}
-{36010}{}{¡Mi mano!}
-{36011}{}{¡Ay! Menos mal que Kaga usa la mano derecha.}
-{36012}{}{¡¡Ow!!}
-{36020}{}{Ow, ¡mi brazo!}
-{36021}{}{¡Me has roto el brazo!}
-{36022}{}{¡Lamentarás eso!}
-{36030}{}{(Gruñe)}
-{36031}{}{¡Es sólo una herida superficial!}
-{36032}{}{¡Grrr!}
-{36033}{}{¡Lamentarás eso!}
-{36034}{}{¡Deberías detenerte mientras estás ganando!}
-{36035}{}{Buen tiro. ¡Mi turno!}
-{36060}{}{¡Ow, mi pierna!}
-{36061}{}{¡Pagarás por eso!}
-{36062}{}{¡Ah! ¡La PIERNA de Kaga!}
-{36070}{}{¡Mi pierna!}
-{36071}{}{Uungh! Estás apuntando bajo, ¿no es así?}
-{36072}{}{No intentabas golpear mi pierna, ¡¿verdad?!}
-{36080}{}{¡Tengo sangre en los ojos!}
-{36081}{}{¡Mi ojo! ¡Me las vas a pagar!}
-{36082}{}{¡Bastardo!}
+{36000}{}{Â¡Auch! Â¡Eso le ha dado a Kaga en la cabeza!}
+{36001}{}{Â¡Ow! Â¡Mi cabeza!}
+{36002}{}{Â¡Uuf! Â¡La cabeza de Kaga estÃ¡ en llamas!}
+{36010}{}{Â¡Mi mano!}
+{36011}{}{Â¡Ay! Menos mal que Kaga usa la mano derecha.}
+{36012}{}{Â¡Â¡Ow!!}
+{36020}{}{Ow, Â¡mi brazo!}
+{36021}{}{Â¡Me has roto el brazo!}
+{36022}{}{Â¡LamentarÃ¡s eso!}
+{36030}{}{(GruÃ±e)}
+{36031}{}{Â¡Es sÃ³lo una herida superficial!}
+{36032}{}{Â¡Grrr!}
+{36033}{}{Â¡LamentarÃ¡s eso!}
+{36034}{}{Â¡DeberÃ­as detenerte mientras estÃ¡s ganando!}
+{36035}{}{Buen tiro. Â¡Mi turno!}
+{36060}{}{Â¡Ow, mi pierna!}
+{36061}{}{Â¡PagarÃ¡s por eso!}
+{36062}{}{Â¡Ah! Â¡La PIERNA de Kaga!}
+{36070}{}{Â¡Mi pierna!}
+{36071}{}{Uungh! EstÃ¡s apuntando bajo, Â¿no es asÃ­?}
+{36072}{}{No intentabas golpear mi pierna, Â¡Â¿verdad?!}
+{36080}{}{Â¡Tengo sangre en los ojos!}
+{36081}{}{Â¡Mi ojo! Â¡Me las vas a pagar!}
+{36082}{}{Â¡Bastardo!}
 {36090}{}{Oooooohh, tiempo muerto, Kaga tiene que recoger algo.}
-{36091}{}{¡Ooohh! Kaga tiene que aprender ese movimiento...}
-{36092}{}{Urg! ¡Petey! ¿Estás bien ahí abajo?}
-{36093}{}{Eso... wheeeeze... dolió!}
-{36094}{}{¡Urp!}
-{36095}{}{¡Gasp!}
-{36100}{}{¡Volverás a ver a Kaga!}
-{36101}{}{Volveré...}
-{36102}{}{¡Kaga nunca ha sido derrotado!}
-{36103}{}{¡Kaga se dedicará a cazarte!}
-{36104}{}{¡No será lo último que oigas de mí!}
-{36105}{}{¡Pagarás por esto... más tarde!}
-{36120}{}{¡Kaga debería haber sido El Elegido!}
-{36121}{}{¡Arroyo lamentará haberme expulsado!}
-{36122}{}{¡Kaga se vengará CONTIGO!}
-{36123}{}{¡Kaga te enviará a la otra vida!}
-{36124}{}{¡Otro Elegido para matar!}
-{36140}{}{!Tu mamá no está aquí para ayudarte!}
-{36141}{}{¡Voy a disfrutar esto!}
-{36142}{}{Oooo, ¡eso te va a doler!}
-{36143}{}{¡Voy a llevar tu cabeza a la Anciana!}
-{36144}{}{¡Voy a comerme tu hígado!}
+{36091}{}{Â¡Ooohh! Kaga tiene que aprender ese movimiento...}
+{36092}{}{Urg! Â¡Petey! Â¿EstÃ¡s bien ahÃ­ abajo?}
+{36093}{}{Eso... wheeeeze... doliÃ³!}
+{36094}{}{Â¡Urp!}
+{36095}{}{Â¡Gasp!}
+{36100}{}{Â¡VolverÃ¡s a ver a Kaga!}
+{36101}{}{VolverÃ©...}
+{36102}{}{Â¡Kaga nunca ha sido derrotado!}
+{36103}{}{Â¡Kaga se dedicarÃ¡ a cazarte!}
+{36104}{}{Â¡No serÃ¡ lo Ãºltimo que oigas de mÃ­!}
+{36105}{}{Â¡PagarÃ¡s por esto... mÃ¡s tarde!}
+{36120}{}{Â¡Kaga deberÃ­a haber sido El Elegido!}
+{36121}{}{Â¡Arroyo lamentarÃ¡ haberme expulsado!}
+{36122}{}{Â¡Kaga se vengarÃ¡ CONTIGO!}
+{36123}{}{Â¡Kaga te enviarÃ¡ a la otra vida!}
+{36124}{}{Â¡Otro Elegido para matar!}
+{36140}{}{!Tu mamÃ¡ no estÃ¡ aquÃ­ para ayudarte!}
+{36141}{}{Â¡Voy a disfrutar esto!}
+{36142}{}{Oooo, Â¡eso te va a doler!}
+{36143}{}{Â¡Voy a llevar tu cabeza a la Anciana!}
+{36144}{}{Â¡Voy a comerme tu hÃ­gado!}
 {36145}{}{Espero que no mueras tan pronto como los otros.}
-{36146}{}{¡Otro Elegido para matar!}
-{36147}{}{¡Muere!}
+{36146}{}{Â¡Otro Elegido para matar!}
+{36147}{}{Â¡Muere!}
 {36148}{}{Grita para Kaga.}
-{36160}{}{¡No puedes herirme!}
-{36161}{}{Los Espíritus protegen a Kaga.}
+{36160}{}{Â¡No puedes herirme!}
+{36161}{}{Los EspÃ­ritus protegen a Kaga.}
 {36162}{}{Espero que ese no sea tu mejor disparo.}
-{36163}{}{Ja ja ja. ¡Kaga no tuvo ni que agacharse!}
-{36164}{}{¡No puedes matar a quien no puedes tocar!}
-{36165}{}{¡Muy lento!}
-{36200}{}{¡Volverás a ver a Kaga!}
-{36201}{}{Volveré...}
-{36202}{}{¡No puedes matar al Gran Kaga!}
-{36203}{}{¡Tienes suerte! Kaga tiene cosas que hacer en otra parte.}
-{36204}{}{Tú y Kaga os volveréis a ver.}
-{36205}{}{¡Pagarás por esto... más tarde!}
-{36220}{}{¡Después de matarte, Kaga quemará todo Arroyo!}
-{36221}{}{¡Debo ser temido por todos!}
-{36222}{}{¡Kaga tendrá tu cabeza como trofeo!}
-{36223}{}{Ríndete y haré que tu muerte sea rápida.}
-{36240}{}{¡Siente la ira de Kaga!}
+{36163}{}{Ja ja ja. Â¡Kaga no tuvo ni que agacharse!}
+{36164}{}{Â¡No puedes matar a quien no puedes tocar!}
+{36165}{}{Â¡Muy lento!}
+{36200}{}{Â¡VolverÃ¡s a ver a Kaga!}
+{36201}{}{VolverÃ©...}
+{36202}{}{Â¡No puedes matar al Gran Kaga!}
+{36203}{}{Â¡Tienes suerte! Kaga tiene cosas que hacer en otra parte.}
+{36204}{}{TÃº y Kaga os volverÃ©is a ver.}
+{36205}{}{Â¡PagarÃ¡s por esto... mÃ¡s tarde!}
+{36220}{}{Â¡DespuÃ©s de matarte, Kaga quemarÃ¡ todo Arroyo!}
+{36221}{}{Â¡Debo ser temido por todos!}
+{36222}{}{Â¡Kaga tendrÃ¡ tu cabeza como trofeo!}
+{36223}{}{RÃ­ndete y harÃ© que tu muerte sea rÃ¡pida.}
+{36240}{}{Â¡Siente la ira de Kaga!}
 {36241}{}{No te molestes en pedir piedad...}
-{36242}{}{¡Voy a disfrutar esto!}
-{36243}{}{Oooo, Kaga sintió eso desde aquí,}
-{36244}{}{¡Voy a llevar tu cabeza a la Anciana!}
-{36245}{}{¡Kaga te arrancará tu corazón con una cuchara!}
-{36246}{}{¡Espero que no mueras tan pronto como los otros!}
-{36247}{}{¡Otro Elegido para matar!}
-{36248}{}{¡Muere!}
-{36249}{}{Grita para mí.}
-{36260}{}{¡No puedes herirme!}
-{36261}{}{Los Espíritus protegen a Kaga.}
+{36242}{}{Â¡Voy a disfrutar esto!}
+{36243}{}{Oooo, Kaga sintiÃ³ eso desde aquÃ­,}
+{36244}{}{Â¡Voy a llevar tu cabeza a la Anciana!}
+{36245}{}{Â¡Kaga te arrancarÃ¡ tu corazÃ³n con una cuchara!}
+{36246}{}{Â¡Espero que no mueras tan pronto como los otros!}
+{36247}{}{Â¡Otro Elegido para matar!}
+{36248}{}{Â¡Muere!}
+{36249}{}{Grita para mÃ­.}
+{36260}{}{Â¡No puedes herirme!}
+{36261}{}{Los EspÃ­ritus protegen a Kaga.}
 {36262}{}{Espero que ese no sea tu mejor disparo.}
-{36263}{}{Ja ja ja. ¡Kaga no tuvo ni que agacharse!}
-{36264}{}{¡No puedes matar a quien no puedes tocar!}
-{36265}{}{¡Muy lento!}
-{36300}{}{Esto se está convirtiendo en una mala costumbre.}
-{36301}{}{Kaga necesita más entrenamiento.}
-{36302}{}{Volveré. Lalalalala... para matarte... lalalala.}
-{36303}{}{¡Tienes suerte! Kaga tiene cosas que hacer en otra parte.}
-{36304}{}{Tú y Kaga os volveréis a ver.}
-{36305}{}{¡Pagarás por esto... más tarde!}
-{36320}{}{¡Kaga y El Elegido se vuelven a ver!}
-{36321}{}{¡Esto va a acabar ahora!}
-{36322}{}{¡Lamentarás haber oído el nombre de Kaga!}
-{36323}{}{Las habilidades de Kaga han mejorado desde la última vez que nos vimos.}
-{36340}{}{¡Siente la ira de Kaga!}
-{36341}{}{¡Voy a disfrutar esto!}
-{36342}{}{Oooo, Kaga sintió eso desde aquí.}
-{36343}{}{¡Voy a llevar tu cabeza a la Anciana!}
-{36344}{}{¡Kaga te arrancará tu corazón con una cuchara!}
-{36345}{}{¡Espero que no mueras tan pronto como los otros!}
-{36346}{}{¡Otro Elegido para matar!}
-{36347}{}{¡Muere!}
+{36263}{}{Ja ja ja. Â¡Kaga no tuvo ni que agacharse!}
+{36264}{}{Â¡No puedes matar a quien no puedes tocar!}
+{36265}{}{Â¡Muy lento!}
+{36300}{}{Esto se estÃ¡ convirtiendo en una mala costumbre.}
+{36301}{}{Kaga necesita mÃ¡s entrenamiento.}
+{36302}{}{VolverÃ©. Lalalalala... para matarte... lalalala.}
+{36303}{}{Â¡Tienes suerte! Kaga tiene cosas que hacer en otra parte.}
+{36304}{}{TÃº y Kaga os volverÃ©is a ver.}
+{36305}{}{Â¡PagarÃ¡s por esto... mÃ¡s tarde!}
+{36320}{}{Â¡Kaga y El Elegido se vuelven a ver!}
+{36321}{}{Â¡Esto va a acabar ahora!}
+{36322}{}{Â¡LamentarÃ¡s haber oÃ­do el nombre de Kaga!}
+{36323}{}{Las habilidades de Kaga han mejorado desde la Ãºltima vez que nos vimos.}
+{36340}{}{Â¡Siente la ira de Kaga!}
+{36341}{}{Â¡Voy a disfrutar esto!}
+{36342}{}{Oooo, Kaga sintiÃ³ eso desde aquÃ­.}
+{36343}{}{Â¡Voy a llevar tu cabeza a la Anciana!}
+{36344}{}{Â¡Kaga te arrancarÃ¡ tu corazÃ³n con una cuchara!}
+{36345}{}{Â¡Espero que no mueras tan pronto como los otros!}
+{36346}{}{Â¡Otro Elegido para matar!}
+{36347}{}{Â¡Muere!}
 {36348}{}{Grita para Kaga.}
-{36360}{}{¡No puedes herirme!}
-{36361}{}{Los Espíritus protegen a Kaga.}
+{36360}{}{Â¡No puedes herirme!}
+{36361}{}{Los EspÃ­ritus protegen a Kaga.}
 {36362}{}{Espero que ese no sea tu mejor disparo.}
-{36363}{}{Ja ja ja. ¡Kaga no tuvo ni que agacharse!}
-{36364}{}{¡No puedes matar a quien no puedes tocar!}
-{36365}{}{¡Muy lento!}
-{36400}{}{Esto se está convirtiendo en una mala costumbre.}
-{36401}{}{Kaga necesita más entrenamiento.}
-{36402}{}{¡Esta no es la última vez que verás a Kaga!}
-{36403}{}{¡Tienes suerte! Kaga tiene cosas que hacer en otra parte.}
-{36404}{}{¡Tú y Kaga os volveréis a ver!}
-{36405}{}{¡Pagarás por esto... más tarde!}
-{36420}{}{¡El Elegido nunca regresará a Arroyo!}
-{36421}{}{¡Kaga te aplastará!}
-{36422}{}{¡Kaga no le teme a nadie!}
-{36423}{}{Deja que Kaga te enseñe lo que ha aprendido.}
-{36440}{}{¡Siente la ira de Kaga!}
-{36441}{}{Quédate quieto, para que Kaga pueda apuntar bien.}
+{36363}{}{Ja ja ja. Â¡Kaga no tuvo ni que agacharse!}
+{36364}{}{Â¡No puedes matar a quien no puedes tocar!}
+{36365}{}{Â¡Muy lento!}
+{36400}{}{Esto se estÃ¡ convirtiendo en una mala costumbre.}
+{36401}{}{Kaga necesita mÃ¡s entrenamiento.}
+{36402}{}{Â¡Esta no es la Ãºltima vez que verÃ¡s a Kaga!}
+{36403}{}{Â¡Tienes suerte! Kaga tiene cosas que hacer en otra parte.}
+{36404}{}{Â¡TÃº y Kaga os volverÃ©is a ver!}
+{36405}{}{Â¡PagarÃ¡s por esto... mÃ¡s tarde!}
+{36420}{}{Â¡El Elegido nunca regresarÃ¡ a Arroyo!}
+{36421}{}{Â¡Kaga te aplastarÃ¡!}
+{36422}{}{Â¡Kaga no le teme a nadie!}
+{36423}{}{Deja que Kaga te enseÃ±e lo que ha aprendido.}
+{36440}{}{Â¡Siente la ira de Kaga!}
+{36441}{}{QuÃ©date quieto, para que Kaga pueda apuntar bien.}
 {36442}{}{Voy a disfrutar esto}
-{36443}{}{Oooo, Kaga sintió eso desde aquí.}
-{36444}{}{¡Voy a llevar tu cabeza a la Anciana!}
-{36445}{}{¡Kaga te arrancará tu corazón con una cuchara!}
-{36446}{}{¡Espero que no mueras tan pronto como los otros!}
-{36447}{}{¡Otro Elegido para matar!}
-{36448}{}{¡Muere!}
+{36443}{}{Oooo, Kaga sintiÃ³ eso desde aquÃ­.}
+{36444}{}{Â¡Voy a llevar tu cabeza a la Anciana!}
+{36445}{}{Â¡Kaga te arrancarÃ¡ tu corazÃ³n con una cuchara!}
+{36446}{}{Â¡Espero que no mueras tan pronto como los otros!}
+{36447}{}{Â¡Otro Elegido para matar!}
+{36448}{}{Â¡Muere!}
 {36449}{}{Grita para Kaga.}
-{36460}{}{¡No puedes herirme!}
-{36461}{}{Los Espíritus protegen a Kaga.}
+{36460}{}{Â¡No puedes herirme!}
+{36461}{}{Los EspÃ­ritus protegen a Kaga.}
 {36462}{}{Espero que ese no sea tu mejor disparo.}
-{36463}{}{Ja ja ja. ¡Kaga no tuvo ni que agacharse!}
-{36464}{}{¡No puedes matar a quien no puedes tocar!}
-{36465}{}{¡Muy lento!}
+{36463}{}{Ja ja ja. Â¡Kaga no tuvo ni que agacharse!}
+{36464}{}{Â¡No puedes matar a quien no puedes tocar!}
+{36465}{}{Â¡Muy lento!}
 {36500}{}{}
 {36501}{}{}
 {36502}{}{}
 {36503}{}{}
 {36504}{}{}
 {36505}{}{}
-{36520}{}{Kaga está listo para ti ahora.}
+{36520}{}{Kaga estÃ¡ listo para ti ahora.}
 {36521}{}{No eres rival para Kaga..}
-{36522}{}{Kaga te enviará a la otra vida.}
-{36523}{}{Kaga te echará de menos.}
-{36540}{}{¡Siente la ira de Kaga!}
-{36541}{}{¡Kaga será famoso por matarte!}
-{36542}{}{¡Voy a disfrutar esto!}
-{36543}{}{Oooo, Kaga sintió eso desde aquí.}
-{36544}{}{Llevaré tu cabeza a la Anciana.}
-{36545}{}{¡El Elegido morirá aquí!}
+{36522}{}{Kaga te enviarÃ¡ a la otra vida.}
+{36523}{}{Kaga te echarÃ¡ de menos.}
+{36540}{}{Â¡Siente la ira de Kaga!}
+{36541}{}{Â¡Kaga serÃ¡ famoso por matarte!}
+{36542}{}{Â¡Voy a disfrutar esto!}
+{36543}{}{Oooo, Kaga sintiÃ³ eso desde aquÃ­.}
+{36544}{}{LlevarÃ© tu cabeza a la Anciana.}
+{36545}{}{Â¡El Elegido morirÃ¡ aquÃ­!}
 {36546}{}{Kaga tiene que matarte ahora.}
-{36547}{}{¡Muere!}
+{36547}{}{Â¡Muere!}
 {36548}{}{Grita para Kaga.}
-{36560}{}{¡No puedes herirme!}
-{36561}{}{Los Espíritus protegen a Kaga.}
+{36560}{}{Â¡No puedes herirme!}
+{36561}{}{Los EspÃ­ritus protegen a Kaga.}
 {36562}{}{Espero que ese no sea tu mejor disparo.}
-{36563}{}{Ja ja ja. ¡Kaga no tuvo ni que agacharse!}
-{36564}{}{¡No puedes matar a quien no puedes tocar!}
-{36565}{}{¡Muy lento!}
-{36600}{}{¡Ahhhgh! ¡Mi cara!}
-{36601}{}{¡Mi cara! ¡Sufrirás!}
-{36602}{}{¡Ahhhgh! ¡Voy a despedazarte!}
-{36610}{}{¡Ahhhgh!}
-{36611}{}{¡Ow! ¡Casi lastimas al Elegido!}
-{36612}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
-{36620}{}{¡Ahhhgh!}
-{36621}{}{¡Ow! ¡Casi lastimas al Elegido!}
-{36622}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
-{36630}{}{¡Uf!}
-{36631}{}{¡Grrr!}
-{36632}{}{¡Te mataré por eso!}
-{36633}{}{¡No podrás hacerme daño cuando estés muerto!}
-{36634}{}{¡Me río de tu insignificante ataque!}
-{36635}{}{¡Oh!}
-{36636}{}{¡Te destriparé!}
-{36637}{}{¡Grrr! ¡Me has enfurecido!.}
-{36638}{}{¡Agh!}
-{36639}{}{¡Te devolveré todo este dolor!}
-{36640}{}{¡Uf!}
-{36641}{}{¡Ouch!}
+{36563}{}{Ja ja ja. Â¡Kaga no tuvo ni que agacharse!}
+{36564}{}{Â¡No puedes matar a quien no puedes tocar!}
+{36565}{}{Â¡Muy lento!}
+{36600}{}{Â¡Ahhhgh! Â¡Mi cara!}
+{36601}{}{Â¡Mi cara! Â¡SufrirÃ¡s!}
+{36602}{}{Â¡Ahhhgh! Â¡Voy a despedazarte!}
+{36610}{}{Â¡Ahhhgh!}
+{36611}{}{Â¡Ow! Â¡Casi lastimas al Elegido!}
+{36612}{}{Â¡Ahhhgh! Â¡Te romperÃ© el cuello por eso!}
+{36620}{}{Â¡Ahhhgh!}
+{36621}{}{Â¡Ow! Â¡Casi lastimas al Elegido!}
+{36622}{}{Â¡Ahhhgh! Â¡Te romperÃ© el cuello por eso!}
+{36630}{}{Â¡Uf!}
+{36631}{}{Â¡Grrr!}
+{36632}{}{Â¡Te matarÃ© por eso!}
+{36633}{}{Â¡No podrÃ¡s hacerme daÃ±o cuando estÃ©s muerto!}
+{36634}{}{Â¡Me rÃ­o de tu insignificante ataque!}
+{36635}{}{Â¡Oh!}
+{36636}{}{Â¡Te destriparÃ©!}
+{36637}{}{Â¡Grrr! Â¡Me has enfurecido!.}
+{36638}{}{Â¡Agh!}
+{36639}{}{Â¡Te devolverÃ© todo este dolor!}
+{36640}{}{Â¡Uf!}
+{36641}{}{Â¡Ouch!}
 {36642}{}{Hmm, tienes problemas.}
-{36643}{}{¡Grrr! Espera tu muerte.}
-{36644}{}{¡Podrás herirme, pero no puedes ganar!}
-{36645}{}{¡Ay! Herirme no fue una buena idea.}
-{36660}{}{¡Ahhhgh! ¡Mi pierna!}
-{36661}{}{¿Llamas a eso dolor? ¡Me das risa!}
-{36662}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
-{36670}{}{¡Ahhhgh! ¡Mi pierna!}
-{36671}{}{¿Llamas a eso dolor? ¡Me das risa!}
-{36672}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
-{36680}{}{¡Ahhhgh! ¡Miserable humano! ¡Estoy ciego!}
-{36681}{}{¡Ahhhgh! ¡Duele! ¡Qué has hecho!}
-{36682}{}{¡Ahhhgh! ¡Te torturaré durante días!}
-{36690}{}{¡Eso es debilidad humana!}
-{36691}{}{¿Llamas a eso dolor? ¡Me das risa!}
-{36692}{}{Eres estúpido, humano!}
-{36693}{}{¿Por qué me atacas ahí?}
-{36694}{}{Te haré daño durante horas}
-{36695}{}{¿Por qué me atacas ahí?}
-{36700}{}{¡Corred!}
-{36701}{}{¡No me matarás!}
-{36702}{}{¡Volveré!}
-{36703}{}{¡Mis amigos te atraparán por mí!}
-{36704}{}{¡Pagarás por esto... más tarde!}
-{36705}{}{¡Somos los Elegidos! ¡Pronto morirás!}
-{36720}{}{¡Tu muerte se acerca!}
-{36721}{}{¡Los que molestan a los Elegidos ya no molestan a nadie más!}
-{36722}{}{¡Las armas humanas no pueden herirme!}
-{36723}{}{¡Sufrirás, sufrirás mucho!}
-{36724}{}{¡Cuando peleo, mato!}
-{36725}{}{¿Quién es tan estúpido como para enojarnos?}
-{36726}{}{¡Veo enemigos que destruir!}
-{36727}{}{¡Sufrirás, sufrirás mucho!}
+{36643}{}{Â¡Grrr! Espera tu muerte.}
+{36644}{}{Â¡PodrÃ¡s herirme, pero no puedes ganar!}
+{36645}{}{Â¡Ay! Herirme no fue una buena idea.}
+{36660}{}{Â¡Ahhhgh! Â¡Mi pierna!}
+{36661}{}{Â¿Llamas a eso dolor? Â¡Me das risa!}
+{36662}{}{Â¡Ahhhgh! Â¡Te romperÃ© el cuello por eso!}
+{36670}{}{Â¡Ahhhgh! Â¡Mi pierna!}
+{36671}{}{Â¿Llamas a eso dolor? Â¡Me das risa!}
+{36672}{}{Â¡Ahhhgh! Â¡Te romperÃ© el cuello por eso!}
+{36680}{}{Â¡Ahhhgh! Â¡Miserable humano! Â¡Estoy ciego!}
+{36681}{}{Â¡Ahhhgh! Â¡Duele! Â¡QuÃ© has hecho!}
+{36682}{}{Â¡Ahhhgh! Â¡Te torturarÃ© durante dÃ­as!}
+{36690}{}{Â¡Eso es debilidad humana!}
+{36691}{}{Â¿Llamas a eso dolor? Â¡Me das risa!}
+{36692}{}{Eres estÃºpido, humano!}
+{36693}{}{Â¿Por quÃ© me atacas ahÃ­?}
+{36694}{}{Te harÃ© daÃ±o durante horas}
+{36695}{}{Â¿Por quÃ© me atacas ahÃ­?}
+{36700}{}{Â¡Corred!}
+{36701}{}{Â¡No me matarÃ¡s!}
+{36702}{}{Â¡VolverÃ©!}
+{36703}{}{Â¡Mis amigos te atraparÃ¡n por mÃ­!}
+{36704}{}{Â¡PagarÃ¡s por esto... mÃ¡s tarde!}
+{36705}{}{Â¡Somos los Elegidos! Â¡Pronto morirÃ¡s!}
+{36720}{}{Â¡Tu muerte se acerca!}
+{36721}{}{Â¡Los que molestan a los Elegidos ya no molestan a nadie mÃ¡s!}
+{36722}{}{Â¡Las armas humanas no pueden herirme!}
+{36723}{}{Â¡SufrirÃ¡s, sufrirÃ¡s mucho!}
+{36724}{}{Â¡Cuando peleo, mato!}
+{36725}{}{Â¿QuiÃ©n es tan estÃºpido como para enojarnos?}
+{36726}{}{Â¡Veo enemigos que destruir!}
+{36727}{}{Â¡SufrirÃ¡s, sufrirÃ¡s mucho!}
 {36740}{}{Ahora vas a morir}
-{36741}{}{¡Nadie te salvará ahora!}
-{36742}{}{¡Déjame ver tu dolor!}
-{36743}{}{¡Sufrirás una muerte ardiente!}
-{36744}{}{¡Muere, humano estúpido!}
-{36745}{}{Morirás gritando}
-{36746}{}{¡Sufre!}
-{36747}{}{¡Voy a aplastarte!}
-{36748}{}{¡No puedes combatir a los Elegidos!}
-{36749}{}{¡Sufre, humano!}
-{36760}{}{¿Por qué te resistes?}
-{36761}{}{¡Es lo mejor que los humanos pueden hacer!}
-{36762}{}{¡No tienes poder!}
-{36763}{}{¡Me haces reír mucho!}
-{36764}{}{¿Ha sido eso un ataque?}
-{36765}{}{¡Somos los Elegidos!}
+{36741}{}{Â¡Nadie te salvarÃ¡ ahora!}
+{36742}{}{Â¡DÃ©jame ver tu dolor!}
+{36743}{}{Â¡SufrirÃ¡s una muerte ardiente!}
+{36744}{}{Â¡Muere, humano estÃºpido!}
+{36745}{}{MorirÃ¡s gritando}
+{36746}{}{Â¡Sufre!}
+{36747}{}{Â¡Voy a aplastarte!}
+{36748}{}{Â¡No puedes combatir a los Elegidos!}
+{36749}{}{Â¡Sufre, humano!}
+{36760}{}{Â¿Por quÃ© te resistes?}
+{36761}{}{Â¡Es lo mejor que los humanos pueden hacer!}
+{36762}{}{Â¡No tienes poder!}
+{36763}{}{Â¡Me haces reÃ­r mucho!}
+{36764}{}{Â¿Ha sido eso un ataque?}
+{36765}{}{Â¡Somos los Elegidos!}
 {44800}{}{Tengo la cabeza dura, pero eso ha dolido.}
 {44801}{}{Eso me va a producir un infernal dolor de cabeza.}
-{44802}{}{Umph. ¡En la cabeza no!}
-{44803}{}{Yo también puedo hacer daño en la cabeza, ¿sabes!}
+{44802}{}{Umph. Â¡En la cabeza no!}
+{44803}{}{Yo tambiÃ©n puedo hacer daÃ±o en la cabeza, Â¿sabes!}
 {44804}{}{Arrrgh! Me desvanezco...}
-{44810}{}{Te mataré con mi otro brazo.}
-{44811}{}{No necesito los dos brazos para arruinarte el día!}
+{44810}{}{Te matarÃ© con mi otro brazo.}
+{44811}{}{No necesito los dos brazos para arruinarte el dÃ­a!}
 {44812}{}{De todas formas no utilizo ese brazo.}
-{44813}{}{¡Ouch!¡Tendré que usar un cabestrillo.}
-{44814}{}{¡Un brazo menos, pero me queda el otro!}
-{44820}{}{¡Oye, que ese es el brazo con el que lucho!}
-{44821}{}{¡Maldición, me duele el brazo!}
+{44813}{}{Â¡Ouch!Â¡TendrÃ© que usar un cabestrillo.}
+{44814}{}{Â¡Un brazo menos, pero me queda el otro!}
+{44820}{}{Â¡Oye, que ese es el brazo con el que lucho!}
+{44821}{}{Â¡MaldiciÃ³n, me duele el brazo!}
 {44822}{}{Puedo estropear tu preciosa cara con un solo brazo.}
-{44823}{}{Mi brazo derecho... ¡arrgh!}
-{44824}{}{Me has alcanzado en el brazo. ¡Yo te arrancaré el tuyo!}
+{44823}{}{Mi brazo derecho... Â¡arrgh!}
+{44824}{}{Me has alcanzado en el brazo. Â¡Yo te arrancarÃ© el tuyo!}
 {44830}{}{Umph... No puedo... respirar.}
 {44831}{}{Un par de costillas menos.}
-{44832}{}{¡Ouch! Odio los disparos en el estómago.}
-{44833}{}{¡Arrgghh! ¡Me duele el pecho!}
-{44834}{}{En el plexo solar... ¡eso duele!}
-{44835}{}{Estamos peleando o sólo intentas atraer mi atención?}
-{44836}{}{Avísame si se supone que eso ha dolido. Lloraré por ti.}
-{44837}{}{¿Fue tu mamá quien te enseñó a luchar?}
-{44838}{}{Oh, cuánto dolor (bosteza). Por favor, no me hagas más daño.}
-{44839}{}{¿A eso le llamas un ataque? Déjame mostrarte cómo se hace!}
+{44832}{}{Â¡Ouch! Odio los disparos en el estÃ³mago.}
+{44833}{}{Â¡Arrgghh! Â¡Me duele el pecho!}
+{44834}{}{En el plexo solar... Â¡eso duele!}
+{44835}{}{Estamos peleando o sÃ³lo intentas atraer mi atenciÃ³n?}
+{44836}{}{AvÃ­same si se supone que eso ha dolido. LlorarÃ© por ti.}
+{44837}{}{Â¿Fue tu mamÃ¡ quien te enseÃ±Ã³ a luchar?}
+{44838}{}{Oh, cuÃ¡nto dolor (bosteza). Por favor, no me hagas mÃ¡s daÃ±o.}
+{44839}{}{Â¿A eso le llamas un ataque? DÃ©jame mostrarte cÃ³mo se hace!}
 {44840}{}{Por eso, te voy a patear el culo.}
-{44841}{}{¡Eh! Eso ha dolido un poco.}
-{44842}{}{¿¡Dejé el Refugio para esto!?}
+{44841}{}{Â¡Eh! Eso ha dolido un poco.}
+{44842}{}{Â¿Â¡DejÃ© el Refugio para esto!?}
 {44843}{}{Voy a necesitar unas vacaciones.}
-{44844}{}{¡Yeeeouch! Eso duele!}
+{44844}{}{Â¡Yeeeouch! Eso duele!}
 {44845}{}{Eso no ha dolido en absoluto.}
-{44846}{}{¿Dónde hay un estimulante cuando se necesita?}
+{44846}{}{Â¿DÃ³nde hay un estimulante cuando se necesita?}
 {44847}{}{En cuanto pueda volver a moverme, te voy a dar lo tuyo}
-{44848}{}{¡Soy impermeable al dolor!}
-{44849}{}{¡Te desfiguraré la cara por eso!}
-{44860}{}{Genial. Voy a ser la única Garra mortal con cojera de la manada.}
-{44861}{}{¡Ouch! Mi pierna...}
-{44862}{}{Pagarás con tu pierna lo que le has hecho a la mía.}
+{44848}{}{Â¡Soy impermeable al dolor!}
+{44849}{}{Â¡Te desfigurarÃ© la cara por eso!}
+{44860}{}{Genial. Voy a ser la Ãºnica Garra mortal con cojera de la manada.}
+{44861}{}{Â¡Ouch! Mi pierna...}
+{44862}{}{PagarÃ¡s con tu pierna lo que le has hecho a la mÃ­a.}
 {44863}{}{Voy a echar de menos esa pierna...}
 {44864}{}{No necesito dos piernas para matarte.}
 {44870}{}{Genial. Una pierna rota.}
-{44871}{}{¡Maldición! La pierna...}
+{44871}{}{Â¡MaldiciÃ³n! La pierna...}
 {44872}{}{La pierna no... no puedo caminar bien sin ella.}
-{44873}{}{Tú me rompes la pierna, yo te la rompo a ti.}
-{44874}{}{¡Arrggh! ¡Me duele la rodilla!}
-{44880}{}{¡No puedo ver!}
-{44881}{}{¡En los ojos no!}
+{44873}{}{TÃº me rompes la pierna, yo te la rompo a ti.}
+{44874}{}{Â¡Arrggh! Â¡Me duele la rodilla!}
+{44880}{}{Â¡No puedo ver!}
+{44881}{}{Â¡En los ojos no!}
 {44882}{}{Sangre... en los ojos... no puedo ver.}
 {44883}{}{No puedo verte, pero puedo olerte.}
-{44884}{}{¡Después de esto voy a necesitar gafas!}
-{44890}{}{¡En la ingle es un golpe bajo!}
-{44891}{}{¡No... golpees... bajo... la cintura!}
-{44892}{}{Eso es pelear sucio. ¿Qué te parece si yo te golpeo en la entrepierna?}
-{44893}{}{¡ODIO los disparos a la ingle! Unngh...}
-{44894}{}{Un disparo en la entrepierna... ¡menos mal que no soy humano!}
-{44900}{}{¡Hora de irse!}
-{44901}{}{¡Me marcho!}
-{44902}{}{¡Retirada!}
-{44903}{}{¡Atrás!}
-{44904}{}{¡Me largo de aquí!}
-{44905}{}{¡Pies para que os quiero!}
-{44906}{}{¡Fuera de mi camino, me largo!}
-{44907}{}{No me retiro, esto es un alejamiento estratégico.}
+{44884}{}{Â¡DespuÃ©s de esto voy a necesitar gafas!}
+{44890}{}{Â¡En la ingle es un golpe bajo!}
+{44891}{}{Â¡No... golpees... bajo... la cintura!}
+{44892}{}{Eso es pelear sucio. Â¿QuÃ© te parece si yo te golpeo en la entrepierna?}
+{44893}{}{Â¡ODIO los disparos a la ingle! Unngh...}
+{44894}{}{Un disparo en la entrepierna... Â¡menos mal que no soy humano!}
+{44900}{}{Â¡Hora de irse!}
+{44901}{}{Â¡Me marcho!}
+{44902}{}{Â¡Retirada!}
+{44903}{}{Â¡AtrÃ¡s!}
+{44904}{}{Â¡Me largo de aquÃ­!}
+{44905}{}{Â¡Pies para que os quiero!}
+{44906}{}{Â¡Fuera de mi camino, me largo!}
+{44907}{}{No me retiro, esto es un alejamiento estratÃ©gico.}
 {44908}{}{Ya he tenido bastante!}
-{44909}{}{¡Tengo que salir de aquí!}
-{44920}{}{¡Acércate para que pueda herirte!}
-{44921}{}{¡Eres todo mío!}
-{44922}{}{Eres tú o yo... ¡y voto por ti!}
-{44923}{}{¡Esto es tu funeral!}
-{44924}{}{¡Ven a por lo tuyo!}
-{44925}{}{¡Prepárate a conocer tu condena!}
-{44926}{}{Será mejor que te despidas de culo ahora que aún puedes.}
-{44927}{}{¡Te voy a desangrar!}
-{44928}{}{¡Hora de jugar!}
-{44929}{}{¡Voy a por ti!}
-{44930}{}{¡Te veré en la línea del frente!}
-{44931}{}{¡Hora de salir y matar a alguien!}
-{44932}{}{¡Avance y aniquilación!}
-{44933}{}{¡Voy a hacerte caer como el feo humano que eres!}
-{44934}{}{¡Hora de jugar duro!}
+{44909}{}{Â¡Tengo que salir de aquÃ­!}
+{44920}{}{Â¡AcÃ©rcate para que pueda herirte!}
+{44921}{}{Â¡Eres todo mÃ­o!}
+{44922}{}{Eres tÃº o yo... Â¡y voto por ti!}
+{44923}{}{Â¡Esto es tu funeral!}
+{44924}{}{Â¡Ven a por lo tuyo!}
+{44925}{}{Â¡PrepÃ¡rate a conocer tu condena!}
+{44926}{}{SerÃ¡ mejor que te despidas de culo ahora que aÃºn puedes.}
+{44927}{}{Â¡Te voy a desangrar!}
+{44928}{}{Â¡Hora de jugar!}
+{44929}{}{Â¡Voy a por ti!}
+{44930}{}{Â¡Te verÃ© en la lÃ­nea del frente!}
+{44931}{}{Â¡Hora de salir y matar a alguien!}
+{44932}{}{Â¡Avance y aniquilaciÃ³n!}
+{44933}{}{Â¡Voy a hacerte caer como el feo humano que eres!}
+{44934}{}{Â¡Hora de jugar duro!}
 {44935}{}{Ahora esto es personal.}
-{44936}{}{¡Idiota a punto de morir!}
-{44937}{}{¡Allá voy!}
-{44938}{}{¡Blanco adquirido y fijado!}
-{44939}{}{¡Se acerca una tormenta!}
-{44940}{}{Voy a hacer daño... ¡mucho daño!}
-{44941}{}{¡Esto te va a doler a ti bastante más que a mí!}
-{44942}{}{¡Hazlo a los demás antes de que los demás te lo hagan a ti!}
-{44943}{}{¡Si alguna parte del cuerpo no te duele, lo va ha hacer ahora!}
-{44944}{}{Deportes de contacto. ¡Me encantan!}
-{44945}{}{Dime tu nombre para contactar con tu pariente más próximo.}
-{44946}{}{¡Yo soy la razón por la que se nos conoce como Garra MORTAL!}
-{44947}{}{¡Es mejor dar que recibir!}
-{44948}{}{¡Espero que estés disfrutando de esto tanto como yo!}
-{44949}{}{¿Ha dolido? Porque puedo hacer más daño para la próxima.}
-{44950}{}{¡Tenemos a un guiñapo por aquí!}
-{44951}{}{Te va a hacer falta más que un estimulante cuando acabe contigo.}
-{44952}{}{Espero que tengas un seguro médico. Te va a hacer falta.}
-{44953}{}{Rompe por aquí, rompe por allá, rompe, rompe, rompe...}
-{44954}{}{¡No me importa quién empezó, pero yo voy a terminarlo!}
-{44955}{}{Adoro el sonido de la carne desgarrándose, ¿y tú?}
-{44956}{}{Estoy calentando. Lo mejor está por llegar.}
-{44957}{}{Sólo me estoy afilando las garras.}
-{44958}{}{¡Oh, perdón! ¡Espero que eso no te hiciera falta!}
-{44959}{}{¡Si te dejas caer y te quedas ahí, te dejaré marchar!}
-{44960}{}{¿Podrías dejar de moverte para que pueda darte?}
-{44961}{}{Gafas. Debería buscarme unas gafas.}
-{44962}{}{No te rías. ¡Cuando te golpee, te va a doler, y mucho!}
-{44963}{}{¡Arrg! ¡Grng! ¡Ghrr! Thpt! (palabras de cuatro letras de Garra mortal)}
-{44964}{}{Supongo que no debería dedicarme profesionalmente a pelear.}
-{44965}{}{¡Cómo puedo fallarle a algo tan gordo como tú!}
-{44966}{}{Tan pronto esté a la distancia adecuada, tendrás problemas.}
-{44967}{}{Eres una mierdecilla bastante ágil, ¿verdad?}
+{44936}{}{Â¡Idiota a punto de morir!}
+{44937}{}{Â¡AllÃ¡ voy!}
+{44938}{}{Â¡Blanco adquirido y fijado!}
+{44939}{}{Â¡Se acerca una tormenta!}
+{44940}{}{Voy a hacer daÃ±o... Â¡mucho daÃ±o!}
+{44941}{}{Â¡Esto te va a doler a ti bastante mÃ¡s que a mÃ­!}
+{44942}{}{Â¡Hazlo a los demÃ¡s antes de que los demÃ¡s te lo hagan a ti!}
+{44943}{}{Â¡Si alguna parte del cuerpo no te duele, lo va ha hacer ahora!}
+{44944}{}{Deportes de contacto. Â¡Me encantan!}
+{44945}{}{Dime tu nombre para contactar con tu pariente mÃ¡s prÃ³ximo.}
+{44946}{}{Â¡Yo soy la razÃ³n por la que se nos conoce como Garra MORTAL!}
+{44947}{}{Â¡Es mejor dar que recibir!}
+{44948}{}{Â¡Espero que estÃ©s disfrutando de esto tanto como yo!}
+{44949}{}{Â¿Ha dolido? Porque puedo hacer mÃ¡s daÃ±o para la prÃ³xima.}
+{44950}{}{Â¡Tenemos a un guiÃ±apo por aquÃ­!}
+{44951}{}{Te va a hacer falta mÃ¡s que un estimulante cuando acabe contigo.}
+{44952}{}{Espero que tengas un seguro mÃ©dico. Te va a hacer falta.}
+{44953}{}{Rompe por aquÃ­, rompe por allÃ¡, rompe, rompe, rompe...}
+{44954}{}{Â¡No me importa quiÃ©n empezÃ³, pero yo voy a terminarlo!}
+{44955}{}{Adoro el sonido de la carne desgarrÃ¡ndose, Â¿y tÃº?}
+{44956}{}{Estoy calentando. Lo mejor estÃ¡ por llegar.}
+{44957}{}{SÃ³lo me estoy afilando las garras.}
+{44958}{}{Â¡Oh, perdÃ³n! Â¡Espero que eso no te hiciera falta!}
+{44959}{}{Â¡Si te dejas caer y te quedas ahÃ­, te dejarÃ© marchar!}
+{44960}{}{Â¿PodrÃ­as dejar de moverte para que pueda darte?}
+{44961}{}{Gafas. DeberÃ­a buscarme unas gafas.}
+{44962}{}{No te rÃ­as. Â¡Cuando te golpee, te va a doler, y mucho!}
+{44963}{}{Â¡Arrg! Â¡Grng! Â¡Ghrr! Thpt! (palabras de cuatro letras de Garra mortal)}
+{44964}{}{Supongo que no deberÃ­a dedicarme profesionalmente a pelear.}
+{44965}{}{Â¡CÃ³mo puedo fallarle a algo tan gordo como tÃº!}
+{44966}{}{Tan pronto estÃ© a la distancia adecuada, tendrÃ¡s problemas.}
+{44967}{}{Eres una mierdecilla bastante Ã¡gil, Â¿verdad?}
 {44968}{}{Me alegra que mi madre no me viese hacer eso.}
-{44969}{}{¿Por qué golpeo aquí cuando tú estas allí?}
-{44970}{}{Qué vergüenza. Por favor, no le digas a nadie que hice eso.}
-{44971}{}{¡Eso me cabrea mucho!}
-{44972}{}{Vale. ¡Fallé! ¡Le puede pasar a cualquiera!}
-{44973}{}{Te agarraré la próxima vez.}
-{44974}{}{¡Así se hace, Grace!}
-{44975}{}{¡Ese ha sido un grandioso ejemplo de cómo fallar a un blanco!}
+{44969}{}{Â¿Por quÃ© golpeo aquÃ­ cuando tÃº estas allÃ­?}
+{44970}{}{QuÃ© vergÃ¼enza. Por favor, no le digas a nadie que hice eso.}
+{44971}{}{Â¡Eso me cabrea mucho!}
+{44972}{}{Vale. Â¡FallÃ©! Â¡Le puede pasar a cualquiera!}
+{44973}{}{Te agarrarÃ© la prÃ³xima vez.}
+{44974}{}{Â¡AsÃ­ se hace, Grace!}
+{44975}{}{Â¡Ese ha sido un grandioso ejemplo de cÃ³mo fallar a un blanco!}
 {44976}{}{Estoy empezando a pensar que no soy muy bueno en esto.}
-{44977}{}{¡Arrggh! ¡No puedo creer que haya fallado!}
-{44978}{}{¡He golpeado al aire como nadie lo había hecho jamás!}
-{44979}{}{¡¿He fallado o qué?!}
+{44977}{}{Â¡Arrggh! Â¡No puedo creer que haya fallado!}
+{44978}{}{Â¡He golpeado al aire como nadie lo habÃ­a hecho jamÃ¡s!}
+{44979}{}{Â¡Â¿He fallado o quÃ©?!}

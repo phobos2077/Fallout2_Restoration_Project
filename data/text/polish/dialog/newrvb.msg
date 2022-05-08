@@ -1,42 +1,42 @@
-{100}{}{Jesteœ na pustynnej równince na granicy Nowego Reno.}
-{110}{}{Widzisz kilka skrzyñ wype³nionych chemikaliami.}
-{120}{}{Widzisz kilka skrzyñ wype³nionych chemikaliami. Nie mo¿esz zidentyfikowaæ chemikaliów, ale zosta³y zapakowane BARDZO ostro¿nie.}
+{100}{}{JesteÅ› na pustynnej rÃ³wnince na granicy Nowego Reno.}
+{110}{}{Widzisz kilka skrzyÅ„ wypeÅ‚nionych chemikaliami.}
+{120}{}{Widzisz kilka skrzyÅ„ wypeÅ‚nionych chemikaliami. Nie moÅ¼esz zidentyfikowaÄ‡ chemikaliÃ³w, ale zostaÅ‚y zapakowane BARDZO ostroÅ¼nie.}
 {130}{}{Widzisz latacz.}
-{140}{}{Widzisz Latacza... zaawansowan¹ formê œmig³owca. Niestety nie masz pojêcia, jak siê nim steruje.}
-{150}{}{Nie masz pojêcia, jak tym kierowaæ.}
-{200}{}{(Przez tych facetów przechodz¹ mnie ciarki...)}
-{201}{}{(Zamknij siê. W³aœnie id¹.)}
-{202}{}{*Szzztttt* Czy macie towar, który sobie ¿yczyliœmy? *Szzttt*}
-{203}{}{Tak, wszystkie chemikalia s¹ tutaj. Jak chcesz, mo¿esz je sprawdziæ.}
-{204}{}{*Sztttt* To nie bêdzie konieczne. *Szzttt*}
-{205}{}{*Sztttt* Wiesz, co siê stanie, je¿eli chemikalia nie spe³ni¹ specyfikacji, których sobie ¿yczyliœmy. *Szzttt*}
-{206}{}{Tak, oczywiœcie. Ee, a wy przynieœliœcie œwiat³ogrzmoty...?}
-{207}{}{*Sztttt* Broñ laserowa jest w naszym luku. *Szzttt**}
-{208}{}{*Sztttt* Aby upewniæ siê co do waszej wspó³pracy kody uzbrajaj¹ce wyœlemy, gdy chemikalia zostan¹ za³adowane. *Szzttt*}
-{209}{}{Ee... có¿... no dobrze. Za³adujcie, ch³opcy...}
+{140}{}{Widzisz Latacza... zaawansowanÄ… formÄ™ Å›migÅ‚owca. Niestety nie masz pojÄ™cia, jak siÄ™ nim steruje.}
+{150}{}{Nie masz pojÄ™cia, jak tym kierowaÄ‡.}
+{200}{}{(Przez tych facetÃ³w przechodzÄ… mnie ciarki...)}
+{201}{}{(Zamknij siÄ™. WÅ‚aÅ›nie idÄ….)}
+{202}{}{*Szzztttt* Czy macie towar, ktÃ³ry sobie Å¼yczyliÅ›my? *Szzttt*}
+{203}{}{Tak, wszystkie chemikalia sÄ… tutaj. Jak chcesz, moÅ¼esz je sprawdziÄ‡.}
+{204}{}{*Sztttt* To nie bÄ™dzie konieczne. *Szzttt*}
+{205}{}{*Sztttt* Wiesz, co siÄ™ stanie, jeÅ¼eli chemikalia nie speÅ‚niÄ… specyfikacji, ktÃ³rych sobie Å¼yczyliÅ›my. *Szzttt*}
+{206}{}{Tak, oczywiÅ›cie. Ee, a wy przynieÅ›liÅ›cie Å›wiatÅ‚ogrzmoty...?}
+{207}{}{*Sztttt* BroÅ„ laserowa jest w naszym luku. *Szzttt**}
+{208}{}{*Sztttt* Aby upewniÄ‡ siÄ™ co do waszej wspÃ³Å‚pracy kody uzbrajajÄ…ce wyÅ›lemy, gdy chemikalia zostanÄ… zaÅ‚adowane. *Szzttt*}
+{209}{}{Ee... cÃ³Å¼... no dobrze. ZaÅ‚adujcie, chÅ‚opcy...}
 {210}{}{*Sztttt* Nie. *Szzttt*}
-{211}{}{*Sztttt* My zajmiemy siê za³adunkiem. *Szzttt*}
-{212}{}{Ee, tak... tak. Oczywiœcie. Zróbcie miejsce, ch³opcy.}
-{213}{}{W porz¹dku, wszystko za³atwione. Reszta z was, stra¿ników, niech wraca do Reno. Tam siê z wami spotkamy.}
-{250}{}{Patrz! Ktoœ nas obserwuje!}
-{251}{}{Zabiæ ich!}
-{252}{}{Wygl¹da na to, ¿e mamy szpiega...!}
-{253}{}{*Sztttt* Misja przerwana. Sekwencja na wypadek niebezpieczeñstwa ³adunku rozpoczêta. *Szzttt*}
-{254}{}{*Sztttt* Wyeliminowaæ przeciwników i powróciæ do bazy. *Szzttt*}
-{300}{}{Nie zbli¿aj siê do tych opancerzonych goœci, bo ciê potn¹ na plasterki.}
-{301}{}{Wracaj na pozycjê.}
-{302}{}{Przestañ siê wierciæ... ci opancerzeni faceci nie przepadaj¹ za tym.}
-{350}{}{Do licha! Co ty robisz je³opo?!}
+{211}{}{*Sztttt* My zajmiemy siÄ™ zaÅ‚adunkiem. *Szzttt*}
+{212}{}{Ee, tak... tak. OczywiÅ›cie. ZrÃ³bcie miejsce, chÅ‚opcy.}
+{213}{}{W porzÄ…dku, wszystko zaÅ‚atwione. Reszta z was, straÅ¼nikÃ³w, niech wraca do Reno. Tam siÄ™ z wami spotkamy.}
+{250}{}{Patrz! KtoÅ› nas obserwuje!}
+{251}{}{ZabiÄ‡ ich!}
+{252}{}{WyglÄ…da na to, Å¼e mamy szpiega...!}
+{253}{}{*Sztttt* Misja przerwana. Sekwencja na wypadek niebezpieczeÅ„stwa Å‚adunku rozpoczÄ™ta. *Szzttt*}
+{254}{}{*Sztttt* WyeliminowaÄ‡ przeciwnikÃ³w i powrÃ³ciÄ‡ do bazy. *Szzttt*}
+{300}{}{Nie zbliÅ¼aj siÄ™ do tych opancerzonych goÅ›ci, bo ciÄ™ potnÄ… na plasterki.}
+{301}{}{Wracaj na pozycjÄ™.}
+{302}{}{PrzestaÅ„ siÄ™ wierciÄ‡... ci opancerzeni faceci nie przepadajÄ… za tym.}
+{350}{}{Do licha! Co ty robisz jeÅ‚opo?!}
 {351}{}{Wracaj na stanowisko! Co ty do cholery...?!}
-{352}{}{*Sztttt* Misja przerwana. Sekwencja na wypadek niebezpieczeñstwa ³adunku rozpoczêta. *Szzttt*}
-{353}{}{*Sztttt* Wyeliminowaæ przeciwników i powróciæ do bazy. *Szzttt*}
-{400}{}{[Tu s¹ chyba drzwi. Otworzyæ i wejœæ do œrodka?]}
+{352}{}{*Sztttt* Misja przerwana. Sekwencja na wypadek niebezpieczeÅ„stwa Å‚adunku rozpoczÄ™ta. *Szzttt*}
+{353}{}{*Sztttt* WyeliminowaÄ‡ przeciwnikÃ³w i powrÃ³ciÄ‡ do bazy. *Szzttt*}
+{400}{}{[Tu sÄ… chyba drzwi. OtworzyÄ‡ i wejÅ›Ä‡ do Å›rodka?]}
 {401}{}{Tak.}
-{402}{}{OdejdŸ}
-{403}{}{WejdŸ do Latacza.}
+{402}{}{OdejdÅº}
+{403}{}{WejdÅº do Latacza.}
 {404}{}{Zostaw go w spokoju.}
-{450}{}{[Kiedy ju¿ uda³o ci siê wejœæ do ³adowni, zamykaj¹ siê za tob¹ drzwi! Próbujesz je wywa¿yæ, ale ani drgn¹. Twoje rozmyœlania nad wyjœciem z sytuacji przerywa dŸwiêk, opancerzonych ¿o³nierzy wbiegaj¹cych do Latacza, który zaraz po tym startuje z tob¹ w ³adowni!]}
+{450}{}{[Kiedy juÅ¼ udaÅ‚o ci siÄ™ wejÅ›Ä‡ do Å‚adowni, zamykajÄ… siÄ™ za tobÄ… drzwi! PrÃ³bujesz je wywaÅ¼yÄ‡, ale ani drgnÄ…. Twoje rozmyÅ›lania nad wyjÅ›ciem z sytuacji przerywa dÅºwiÄ™k, opancerzonych Å¼oÅ‚nierzy wbiegajÄ…cych do Latacza, ktÃ³ry zaraz po tym startuje z tobÄ… w Å‚adowni!]}
 {451}{}{O-o.}
 {452}{}{O, cholera...}
-{500}{}{Ten skrzynie wype³nione s¹ ciê¿kimi metalowymi kanistrami. S¹dz¹c po trosce, z jak¹ je pakowano, podejrzewasz, ¿e zawieraj¹ jakieœ niebezpieczne chemikalia.}
-{550}{}{Teraz zapewne nie jest najlepszy czas na rozpoczêcie konwersacji.}
+{500}{}{Ten skrzynie wypeÅ‚nione sÄ… ciÄ™Å¼kimi metalowymi kanistrami. SÄ…dzÄ…c po trosce, z jakÄ… je pakowano, podejrzewasz, Å¼e zawierajÄ… jakieÅ› niebezpieczne chemikalia.}
+{550}{}{Teraz zapewne nie jest najlepszy czas na rozpoczÄ™cie konwersacji.}

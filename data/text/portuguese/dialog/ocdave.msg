@@ -12,7 +12,7 @@
 {110}{}{Whatever. I just remembered some place I've got to be.}
 {111}{}{Hey, shit happens -- and when it does, it happens to me.}
 {112}{}{Uh... me be leaving now.}
-{113}{}{Como o quê?}
+{113}{}{Como o quÃª?}
 {114}{}{Nice attitude. What caused it?}
 {115}{}{I can tell I want to be elsewhere.}
 {116}{}{I was born two months premature. When I was one, I was dropped on the porch. When I was two, I
@@ -49,7 +49,7 @@
 {141}{}{Wait a minute, I thought you were someone else.}
 {142}{}{At last, my time has come. Are you going to kill me now?}
 {143}{}{Sim.}
-{144}{}{Não.}
+{144}{}{NÃ£o.}
 {145}{}{When I was eight, my dog Spike got hit by a tractor. When I was nine, my mother lost her arm to a
  rabid brahmin. When I was ten, my sister was torn to bits by a pack of dogs. When I was eleven, my
  grandfather killed himself because I was ugly. When I was twelve, my grandmother killed herself because

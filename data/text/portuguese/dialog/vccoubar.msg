@@ -1,12 +1,12 @@
-{100}{}{Você vê um barman.}
+{100}{}{VocÃª vÃª um barman.}
 {101}{}{You see a tall man in an elegant suit. He is staring straight ahead and paying no attention to the patrons around him.}
-{102}{}{Você vê um barman.}
+{102}{}{VocÃª vÃª um barman.}
 {103}{}{This man looks stone-faced. If he notices you, he shows no sign.}
 {104}{}{Care for a drink, hero?}
 {105}{}{Welcome, hero. Please, take a seat in the bar.}
 {106}{}{Please! Take a seat, rest for a while!}
-{107}{}{Bom dia, Capitão.}
-{108}{}{Vault City prevails, Capitão.}
+{107}{}{Bom dia, CapitÃ£o.}
+{108}{}{Vault City prevails, CapitÃ£o.}
 {109}{}{Bom dia, Citizen.}
 {110}{}{Vault City prevails, Citizen.}
 {111}{}{Um mutante! Guardas! Guardas!}
@@ -17,7 +17,7 @@
 {116}{}{Welcome! We've all heard about your exploits against the Enclave. Can I get you something to drink?}
 {117}{}{Awnt-awnt}
 {118}{}{Desliga}
-{119}{}{O que você tem aí?}
+{119}{}{O que vocÃª tem aÃ­?}
 {120}{}{I was looking for some information.}
 {121}{}{Nada por hoje, valeu.}
 {122}{}{Heh-heh, "awnt-awnt" to you, too. Please be careful out in the wastes.}
@@ -28,7 +28,7 @@
 {127}{}{Yes? Can I help you?}
 {128}{}{Awnt-awnt}
 {129}{}{Desliga}
-{130}{}{O que você tem aí?}
+{130}{}{O que vocÃª tem aÃ­?}
 {131}{}{I was looking for some information.}
 {132}{}{Nada por hoje, valeu.}
 {133}{}{Yes, "awnt-awnt" to you, too. Hold on a moment while I summon the guards to "awnt-awnt" you to the front gate.}
@@ -107,7 +107,7 @@
 {206}{}{Then perhaps you should be at our information center instead of this establishment. It is located downtown. Now move along... I have other customers.}
 {207}{}{Hold on, I wanted a drink. What have you got on tap?}
 {208}{}{No, I think you'll tell me what I want to know first. And you'll leave that attitude out of your voice, too if you know what's good for you.}
-{209}{}{Tudo bem então. Bom Dia.}
+{209}{}{Tudo bem entÃ£o. Bom Dia.}
 {210}{}{Of course. What did you need to know, sir?}
 {211}{}{Of course. What did you need to know, ma'am?}
 {212}{}{Of course. What did you need to know, Captain?}

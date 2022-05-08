@@ -1,1 +1,1 @@
-{100}{}{Wygl¹da to ewidentnie na œmieræ wskutek odwodnienia.}
+{100}{}{WyglÄ…da to ewidentnie na Å›mierÄ‡ wskutek odwodnienia.}

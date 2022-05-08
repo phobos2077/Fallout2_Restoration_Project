@@ -1,222 +1,222 @@
-{100}{}{? aztán igazán aszott kinézet? egy ghoul.}
+{100}{}{? aztÃ¡n igazÃ¡n aszott kinÃ©zet? egy ghoul.}
 {101}{}{? Harold.}
-{102}{}{Egy nagyon öreg, de még mindig agilis kinézet? ghoul.}
-{103}{hld1a}{El k?' mondanom, hogy Harold papó kissé megpunnyadt mostanába'. Nem biztos, hogy sokra menünk mi itt ketten.}
+{102}{}{Egy nagyon Ã¶reg, de mÃ©g mindig agilis kinÃ©zet? ghoul.}
+{103}{hld1a}{El k?' mondanom, hogy Harold papÃ³ kissÃ© megpunnyadt mostanÃ¡ba'. Nem biztos, hogy sokra menÃ¼nk mi itt ketten.}
 {104}{hld1b}{Ahh, ain't you cute. I just don't have time to try understanding ya right now.}
-{105}{hld1c}{Hehe, jópofa ember vagy te!}
-{106}{hld2a}{Üdv, simab?r?. Harold lennék. Én próbálom ezt a várost gatyába rázni.}
-{107}{hld2a1}{Mi kéne ha vóna, kiscsikó?}
-{108}{hld2b}{Nagy franc vagy, te simab?r?! Lekötelezté' minket, hogy megreparáltad az er?m?vet. Amúgy Harold lennék. Én próbálom egyfolytába' gatyába rázni ezt a koszfészket.}
-{109}{hld2c}{Ez aztán vót valami, hogy megpiszkáltad az er?m?vünket. Jövünk neked egy jó naggyal. Most pedig meséjj, mit tehet ez a szottyadt hulladék érted?}
-{110}{hld2d}{Te aztán nem vagy semmi. Olyan, mint az eredeti. Mit tehet a vén Harold érted, Menedéklakó?}
-{111}{hld2e}{Nem tettél már így is elég bajt, simab?r?? Mi a fenét akarsz?}
-{112}{}{Miért hív simab?r?nek?}
-{113}{}{Én nem vagyok Menedéklakó!}
-{114}{}{Üdv, Harold. Mivel foglalkozik itt?}
-{115}{}{Van itt olyan hely, ahol vásárolni lehet?}
-{116}{}{Az ott egy fa, ami kiáll a fejéb?l?}
-{117}{}{Biztos tud róla, ha van itt valahol egy Édenkert Létrehozást El?segít? Táska.}
-{118}{}{Megmondaná, Harold, hol foglalkoznak itt gyógykezeléssel?}
-{119}{}{Tudom, hogy maga nem komplett, de mégis a Mestert említette. Az ?söm simán lenyomta.}
-{120}{}{Üdvözlet, Harold. Csak bekukkantottam. Már megyek is.}
-{121}{hld3}{Báhár-mihivel, amit?l jobbá lehet tenni ezt a helyet. Könnyebb, mintha engem kéne pátyolgatni.}
-{122}{}{Tényleg a tönk szélén van ez a hely?}
-{123}{}{Ez nem hangzik valami jól.}
-{124}{hld3a}{Igen, de egész jól vagyok egy hullához képest. Sosem bánt a kinézetem, ha ezt mondogatom.}
-{125}{}{Á, értem... azt állítja tehát, hogy ez a hely szép lassan tönkremegy...}
-{126}{}{Hullát mondott? Hát ahhoz képest valóban elég virgonc. Különösen, ha még a kérdésemre is választ ad.}
-{127}{hld4a}{Megvagyunk. Az atomreaktorunk, hogy úgy mondjam... eléggé... érzékeny. A m?ködést felügyel? személyzet megteszi, de hát... nem túl pengék a srácok... ha érted, mire gondolok.}
-{128}{hld4b}{Most, hogy összekalapáltad a reaktort, egész jól elvagyunk. Sosem gondoltam volna, hogy azok a Menedékvárosi gyógyegerek segítenének rajtunk.}
-{129}{hld4c}{Most már egész jól mennek itt a dolgok. Megbütykölöd itt az er?m?vet, aztán megszerzed az infót, ami kell. Nagy franc vagy te, jó'mondom?}
-{130}{}{Ezt most hogy kell értenem?}
-{131}{}{Nem akartam végignézni, hogy Menedékváros megsemmisíti a városukat.}
-{132}{}{Hát nem akartam karbatett kézzel ülni, amíg Menedékváros megsemmisíti a városukat. Emellett nekik is elég nagy érdekük f?z?dött hozzá.}
-{133}{}{Mivel a Menedékvárosiaknak ugyanúgy érdekében állt a reaktor megjavítása, nem volt túl nehéz kiszedni bel?lük az Optimalizációs adatokat.}
-{134}{}{Nem szeretem a félmunkát.}
-{135}{}{Igazán szívesen maradnék beszélgetni, de még egy rakás helyre kell mennem és egy rakás dolgot kell elintéznem. Legyen szerencséje!}
-{136}{hld5}{Hát m?szakilag ugye... az egy olyan izé...}
-{137}{}{Rendben, mire jó az a valami?}
-{138}{hld6}{Még kéne kicsit csiszolni ?ket! Úgy értem, az a gárda nem atomfizikusokból áll. Mondok egy példát. Valamelyik nap kézhez kaptam egy jelentést. Azt mondja a papír, hogy a f? h?t?szelepet le kéne kapcsolni. Remek ötlet, csak leolvadást okozna, és a Grand Canyon úgy nézne ki, mint egy rakás gané.}
-{139}{}{Ez elég gázosan hangzik.}
-{140}{hld7}{Gáz bizony a javából. Sikerült rendbehozni ezt-azt id?ben, de az a hely a végét járja. Sajnos szükségük van valakire, aki a körmükre néz.}
-{141}{}{Jó, hogy itt van és segít nekik.}
+{105}{hld1c}{Hehe, jÃ³pofa ember vagy te!}
+{106}{hld2a}{Ãœdv, simab?r?. Harold lennÃ©k. Ã‰n prÃ³bÃ¡lom ezt a vÃ¡rost gatyÃ¡ba rÃ¡zni.}
+{107}{hld2a1}{Mi kÃ©ne ha vÃ³na, kiscsikÃ³?}
+{108}{hld2b}{Nagy franc vagy, te simab?r?! LekÃ¶teleztÃ©' minket, hogy megreparÃ¡ltad az er?m?vet. AmÃºgy Harold lennÃ©k. Ã‰n prÃ³bÃ¡lom egyfolytÃ¡ba' gatyÃ¡ba rÃ¡zni ezt a koszfÃ©szket.}
+{109}{hld2c}{Ez aztÃ¡n vÃ³t valami, hogy megpiszkÃ¡ltad az er?m?vÃ¼nket. JÃ¶vÃ¼nk neked egy jÃ³ naggyal. Most pedig mesÃ©jj, mit tehet ez a szottyadt hulladÃ©k Ã©rted?}
+{110}{hld2d}{Te aztÃ¡n nem vagy semmi. Olyan, mint az eredeti. Mit tehet a vÃ©n Harold Ã©rted, MenedÃ©klakÃ³?}
+{111}{hld2e}{Nem tettÃ©l mÃ¡r Ã­gy is elÃ©g bajt, simab?r?? Mi a fenÃ©t akarsz?}
+{112}{}{MiÃ©rt hÃ­v simab?r?nek?}
+{113}{}{Ã‰n nem vagyok MenedÃ©klakÃ³!}
+{114}{}{Ãœdv, Harold. Mivel foglalkozik itt?}
+{115}{}{Van itt olyan hely, ahol vÃ¡sÃ¡rolni lehet?}
+{116}{}{Az ott egy fa, ami kiÃ¡ll a fejÃ©b?l?}
+{117}{}{Biztos tud rÃ³la, ha van itt valahol egy Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡ska.}
+{118}{}{MegmondanÃ¡, Harold, hol foglalkoznak itt gyÃ³gykezelÃ©ssel?}
+{119}{}{Tudom, hogy maga nem komplett, de mÃ©gis a Mestert emlÃ­tette. Az ?sÃ¶m simÃ¡n lenyomta.}
+{120}{}{ÃœdvÃ¶zlet, Harold. Csak bekukkantottam. MÃ¡r megyek is.}
+{121}{hld3}{BÃ¡hÃ¡r-mihivel, amit?l jobbÃ¡ lehet tenni ezt a helyet. KÃ¶nnyebb, mintha engem kÃ©ne pÃ¡tyolgatni.}
+{122}{}{TÃ©nyleg a tÃ¶nk szÃ©lÃ©n van ez a hely?}
+{123}{}{Ez nem hangzik valami jÃ³l.}
+{124}{hld3a}{Igen, de egÃ©sz jÃ³l vagyok egy hullÃ¡hoz kÃ©pest. Sosem bÃ¡nt a kinÃ©zetem, ha ezt mondogatom.}
+{125}{}{Ã, Ã©rtem... azt Ã¡llÃ­tja tehÃ¡t, hogy ez a hely szÃ©p lassan tÃ¶nkremegy...}
+{126}{}{HullÃ¡t mondott? HÃ¡t ahhoz kÃ©pest valÃ³ban elÃ©g virgonc. KÃ¼lÃ¶nÃ¶sen, ha mÃ©g a kÃ©rdÃ©semre is vÃ¡laszt ad.}
+{127}{hld4a}{Megvagyunk. Az atomreaktorunk, hogy Ãºgy mondjam... elÃ©ggÃ©... Ã©rzÃ©keny. A m?kÃ¶dÃ©st felÃ¼gyel? szemÃ©lyzet megteszi, de hÃ¡t... nem tÃºl pengÃ©k a srÃ¡cok... ha Ã©rted, mire gondolok.}
+{128}{hld4b}{Most, hogy Ã¶sszekalapÃ¡ltad a reaktort, egÃ©sz jÃ³l elvagyunk. Sosem gondoltam volna, hogy azok a MenedÃ©kvÃ¡rosi gyÃ³gyegerek segÃ­tenÃ©nek rajtunk.}
+{129}{hld4c}{Most mÃ¡r egÃ©sz jÃ³l mennek itt a dolgok. MegbÃ¼tykÃ¶lÃ¶d itt az er?m?vet, aztÃ¡n megszerzed az infÃ³t, ami kell. Nagy franc vagy te, jÃ³'mondom?}
+{130}{}{Ezt most hogy kell Ã©rtenem?}
+{131}{}{Nem akartam vÃ©gignÃ©zni, hogy MenedÃ©kvÃ¡ros megsemmisÃ­ti a vÃ¡rosukat.}
+{132}{}{HÃ¡t nem akartam karbatett kÃ©zzel Ã¼lni, amÃ­g MenedÃ©kvÃ¡ros megsemmisÃ­ti a vÃ¡rosukat. Emellett nekik is elÃ©g nagy Ã©rdekÃ¼k f?z?dÃ¶tt hozzÃ¡.}
+{133}{}{Mivel a MenedÃ©kvÃ¡rosiaknak ugyanÃºgy Ã©rdekÃ©ben Ã¡llt a reaktor megjavÃ­tÃ¡sa, nem volt tÃºl nehÃ©z kiszedni bel?lÃ¼k az OptimalizÃ¡ciÃ³s adatokat.}
+{134}{}{Nem szeretem a fÃ©lmunkÃ¡t.}
+{135}{}{IgazÃ¡n szÃ­vesen maradnÃ©k beszÃ©lgetni, de mÃ©g egy rakÃ¡s helyre kell mennem Ã©s egy rakÃ¡s dolgot kell elintÃ©znem. Legyen szerencsÃ©je!}
+{136}{hld5}{HÃ¡t m?szakilag ugye... az egy olyan izÃ©...}
+{137}{}{Rendben, mire jÃ³ az a valami?}
+{138}{hld6}{MÃ©g kÃ©ne kicsit csiszolni ?ket! Ãšgy Ã©rtem, az a gÃ¡rda nem atomfizikusokbÃ³l Ã¡ll. Mondok egy pÃ©ldÃ¡t. Valamelyik nap kÃ©zhez kaptam egy jelentÃ©st. Azt mondja a papÃ­r, hogy a f? h?t?szelepet le kÃ©ne kapcsolni. Remek Ã¶tlet, csak leolvadÃ¡st okozna, Ã©s a Grand Canyon Ãºgy nÃ©zne ki, mint egy rakÃ¡s ganÃ©.}
+{139}{}{Ez elÃ©g gÃ¡zosan hangzik.}
+{140}{hld7}{GÃ¡z bizony a javÃ¡bÃ³l. SikerÃ¼lt rendbehozni ezt-azt id?ben, de az a hely a vÃ©gÃ©t jÃ¡rja. Sajnos szÃ¼ksÃ©gÃ¼k van valakire, aki a kÃ¶rmÃ¼kre nÃ©z.}
+{141}{}{JÃ³, hogy itt van Ã©s segÃ­t nekik.}
 {142}{hld8}{Who'd a thought I'd be making things right? Although if we don't get a Hydroelectric Magnetosphere Regulator pretty damn quick, there is gonna be trouble.}
-{143}{}{Mi a szar az a hidra-magna-akármicsoda?}
-{144}{}{Hát elég problémásnak t?nik. Hadd kérdezzek még ezt-azt!}
-{145}{}{Bajba? Miféle bajba?}
-{146}{}{Azt hiszem, máris túl sok idejét pazaroltam. Viszlát!}
-{147}{hld9}{A francba, ha nem lettél volna, azok a menedékvárosi gyógyegerek már jól megszívattak volna minket.}
-{148}{}{Nem hagynám, hogy a Menedékvárosiak bántsák magukat.}
-{149}{}{Örülök, hogy segíthettem, Harold. Azért még feltennék egy-két kérdést.}
-{150}{hld11a}{Na'on kedves ez t?led, hékás. Nem sok simab?r? tette volna ezt meg egy rakás ghoul kedvéért. Eszembe juttatsz egy régi simab?r? cimborámat, akit még annó ismertem.}
-{151}{hld11b}{Eléggé olyan vagy, mint a Menedéklakó.}
-{152}{}{Ki az az imént említett simab?r??}
-{153}{}{Kösz. Megpróbálok megfelelni az ?sömr?l alkotott képnek. Amíg itt vagyok, hadd tegyek fel még néhány kérdést.}
-{154}{}{Örömmel segítek... viszont zaklatnám még néhány kérdéssel.}
-{155}{}{Hát az egészet egynapi munkával. Viszont most mennem kell. Tudja, még embereket kell megmentenem, szörnyeket kell felaprítanom, katasztrófákat kell elhárítanom, meg ehhez hasonlók. Viszlát!}
+{143}{}{Mi a szar az a hidra-magna-akÃ¡rmicsoda?}
+{144}{}{HÃ¡t elÃ©g problÃ©mÃ¡snak t?nik. Hadd kÃ©rdezzek mÃ©g ezt-azt!}
+{145}{}{Bajba? MifÃ©le bajba?}
+{146}{}{Azt hiszem, mÃ¡ris tÃºl sok idejÃ©t pazaroltam. ViszlÃ¡t!}
+{147}{hld9}{A francba, ha nem lettÃ©l volna, azok a menedÃ©kvÃ¡rosi gyÃ³gyegerek mÃ¡r jÃ³l megszÃ­vattak volna minket.}
+{148}{}{Nem hagynÃ¡m, hogy a MenedÃ©kvÃ¡rosiak bÃ¡ntsÃ¡k magukat.}
+{149}{}{Ã–rÃ¼lÃ¶k, hogy segÃ­thettem, Harold. AzÃ©rt mÃ©g feltennÃ©k egy-kÃ©t kÃ©rdÃ©st.}
+{150}{hld11a}{Na'on kedves ez t?led, hÃ©kÃ¡s. Nem sok simab?r? tette volna ezt meg egy rakÃ¡s ghoul kedvÃ©Ã©rt. Eszembe juttatsz egy rÃ©gi simab?r? cimborÃ¡mat, akit mÃ©g annÃ³ ismertem.}
+{151}{hld11b}{ElÃ©ggÃ© olyan vagy, mint a MenedÃ©klakÃ³.}
+{152}{}{Ki az az imÃ©nt emlÃ­tett simab?r??}
+{153}{}{KÃ¶sz. MegprÃ³bÃ¡lok megfelelni az ?sÃ¶mr?l alkotott kÃ©pnek. AmÃ­g itt vagyok, hadd tegyek fel mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{154}{}{Ã–rÃ¶mmel segÃ­tek... viszont zaklatnÃ¡m mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©ssel.}
+{155}{}{HÃ¡t az egÃ©szet egynapi munkÃ¡val. Viszont most mennem kell. Tudja, mÃ©g embereket kell megmentenem, szÃ¶rnyeket kell felaprÃ­tanom, katasztrÃ³fÃ¡kat kell elhÃ¡rÃ­tanom, meg ehhez hasonlÃ³k. ViszlÃ¡t!}
 {156}{hld14}{You cut with the dull edge of the knife, don't ya? You don't look like an orange peel left in the sun all day. Your skin's still soft and purty. }
-{157}{}{Most megfogott. Próbálom a következ? kérdést egy kicsit jobban összeszedni.}
-{158}{}{Ó, igen. Viszont kifogyhatatlan vagyok a kérdésekb?l...}
-{159}{}{Jobb lenne, ha nem poénkodna itt a puha b?römmel...}
-{160}{}{Hogyne, hogyne, most viszont mozdulnom kéne. Viszlát!}
-{161}{hld15}{Poénkodni? Arra gondolsz, hogy egy rozsdás, régi késsel elevenen megnyúzlak, aztán a még ki nem h?lt, nedves, iszamos... majd' el felejtettem: PUHA b?röcskédet ráterítem a rothadó testemre.}
-{162}{}{Hé! Ottmarad ahol van! Húzok a francba, amíg még megvan a b?röm!}
-{163}{}{Ez az! Pontosan erre gondoltam. Jó meglátás.}
-{164}{hld16}{Nem kell berosálnod... sehol nem találom a késemet.}
-{165}{}{Mi lenne, ha némiképp másra terelnénk a szót?}
-{166}{}{Jobban teszi, ha mocskos bök?jét távoltartja az irhámtól. Isten áldja!}
-{167}{hld17}{B?rt akarok!... Adjatok még több b?rt! (kuncog) Na, mi van? Útközben elhagytad a humorérzékedet?}
-{168}{}{Épp elég van. Információra van szükségem.}
-{169}{}{Megyek azt' megkeresem. Kés?bb még jövök.}
-{170}{hld18}{Akkorát fingottam, mint egy ház, de még mindig érzem a szagodat. Miért nem kegyeskedsz kilibbenni innen?}
-{171}{}{Rendben, de el?ször szeretnék bocsánatot kérni a korábbi viselkedésemért.}
-{172}{}{Kenje a hajára, büdösbogár! Aviszontlátásra.}
-{173}{hld19}{Ez a kezdet, de ennél jobbnak kell ám lenni.}
-{174}{}{Nem tudom, mi mást mondhatnék. Szerintem nem vagyok képes mit kezdeni az új dolgokkal. Sajnálom, hogy így van.}
-{175}{}{Rendben, akkor erre varrjon gombot: Ha volna nálam egy darab szárított hús, amely csak feleannyira lenne randa, mint maga, megtartanám, nehogy hascsikarása legyen a guberálónak, aki véletlenül megtalálja. Na, viszlát!}
-{176}{hld20a}{Rendben, de azért abbahagyhatnád a gyökérkedést.}
-{177}{hld20b}{Na, mondok valamit, kiscsikó. Látom, hozod a formád, de attól még ugyanolyan gyógyegér vagy. Talán ez az a lecke, amire régóta vágytál. Arra van a kijárat!}
-{178}{}{Sajnálom. Most, hogy pontot tettünk erre, el?szedném a kérdéseimet.}
-{179}{}{Rendben, viszlátásra.}
-{180}{hld21a}{Inkább így, mint ahogy te. Gyökerekkel nem tárgyalok. T?nés a francba!}
-{181}{hld21b}{Olyan vagy, mint a fika, ami nem akar lejönni az ujjadról, hiába rázod. Pedig én rázom egyfolytában... nézd csak, ott mész!!!}
-{182}{hld21c}{Na, nézd csak, mit hozott be a szél. Valami kutyagumi lesz. Miért nem lapátolod ki magad innen?}
-{183}{hld21d}{Akarod tudni, hogy lehet egy gyógyegeret kordában tartani?}
-{184}{hld21e}{Hé, reméltem, hogy el?dugod a képed. Te nyerted a legnagyobb marha díját. A várostól tíz mérföldre rendeznek egy bulit a tiszteletedre. Jobb lenne, ha sietnél!}
-{185}{hld26}{Mi ez az érdek dolog?}
-{186}{}{Hozzájutottam valami gazdálkodási adathoz, mely szerint Menedékváros jól jár, ha megjavítod az er?m?vünket.}
-{187}{}{Úgy értem, mindig el?nyösebb, ha kijövök az emberekkel.}
+{157}{}{Most megfogott. PrÃ³bÃ¡lom a kÃ¶vetkez? kÃ©rdÃ©st egy kicsit jobban Ã¶sszeszedni.}
+{158}{}{Ã“, igen. Viszont kifogyhatatlan vagyok a kÃ©rdÃ©sekb?l...}
+{159}{}{Jobb lenne, ha nem poÃ©nkodna itt a puha b?rÃ¶mmel...}
+{160}{}{Hogyne, hogyne, most viszont mozdulnom kÃ©ne. ViszlÃ¡t!}
+{161}{hld15}{PoÃ©nkodni? Arra gondolsz, hogy egy rozsdÃ¡s, rÃ©gi kÃ©ssel elevenen megnyÃºzlak, aztÃ¡n a mÃ©g ki nem h?lt, nedves, iszamos... majd' el felejtettem: PUHA b?rÃ¶cskÃ©det rÃ¡terÃ­tem a rothadÃ³ testemre.}
+{162}{}{HÃ©! Ottmarad ahol van! HÃºzok a francba, amÃ­g mÃ©g megvan a b?rÃ¶m!}
+{163}{}{Ez az! Pontosan erre gondoltam. JÃ³ meglÃ¡tÃ¡s.}
+{164}{hld16}{Nem kell berosÃ¡lnod... sehol nem talÃ¡lom a kÃ©semet.}
+{165}{}{Mi lenne, ha nÃ©mikÃ©pp mÃ¡sra terelnÃ©nk a szÃ³t?}
+{166}{}{Jobban teszi, ha mocskos bÃ¶k?jÃ©t tÃ¡voltartja az irhÃ¡mtÃ³l. Isten Ã¡ldja!}
+{167}{hld17}{B?rt akarok!... Adjatok mÃ©g tÃ¶bb b?rt! (kuncog) Na, mi van? ÃštkÃ¶zben elhagytad a humorÃ©rzÃ©kedet?}
+{168}{}{Ã‰pp elÃ©g van. InformÃ¡ciÃ³ra van szÃ¼ksÃ©gem.}
+{169}{}{Megyek azt' megkeresem. KÃ©s?bb mÃ©g jÃ¶vÃ¶k.}
+{170}{hld18}{AkkorÃ¡t fingottam, mint egy hÃ¡z, de mÃ©g mindig Ã©rzem a szagodat. MiÃ©rt nem kegyeskedsz kilibbenni innen?}
+{171}{}{Rendben, de el?szÃ¶r szeretnÃ©k bocsÃ¡natot kÃ©rni a korÃ¡bbi viselkedÃ©semÃ©rt.}
+{172}{}{Kenje a hajÃ¡ra, bÃ¼dÃ¶sbogÃ¡r! AviszontlÃ¡tÃ¡sra.}
+{173}{hld19}{Ez a kezdet, de ennÃ©l jobbnak kell Ã¡m lenni.}
+{174}{}{Nem tudom, mi mÃ¡st mondhatnÃ©k. Szerintem nem vagyok kÃ©pes mit kezdeni az Ãºj dolgokkal. SajnÃ¡lom, hogy Ã­gy van.}
+{175}{}{Rendben, akkor erre varrjon gombot: Ha volna nÃ¡lam egy darab szÃ¡rÃ­tott hÃºs, amely csak feleannyira lenne randa, mint maga, megtartanÃ¡m, nehogy hascsikarÃ¡sa legyen a guberÃ¡lÃ³nak, aki vÃ©letlenÃ¼l megtalÃ¡lja. Na, viszlÃ¡t!}
+{176}{hld20a}{Rendben, de azÃ©rt abbahagyhatnÃ¡d a gyÃ¶kÃ©rkedÃ©st.}
+{177}{hld20b}{Na, mondok valamit, kiscsikÃ³. LÃ¡tom, hozod a formÃ¡d, de attÃ³l mÃ©g ugyanolyan gyÃ³gyegÃ©r vagy. TalÃ¡n ez az a lecke, amire rÃ©gÃ³ta vÃ¡gytÃ¡l. Arra van a kijÃ¡rat!}
+{178}{}{SajnÃ¡lom. Most, hogy pontot tettÃ¼nk erre, el?szednÃ©m a kÃ©rdÃ©seimet.}
+{179}{}{Rendben, viszlÃ¡tÃ¡sra.}
+{180}{hld21a}{InkÃ¡bb Ã­gy, mint ahogy te. GyÃ¶kerekkel nem tÃ¡rgyalok. T?nÃ©s a francba!}
+{181}{hld21b}{Olyan vagy, mint a fika, ami nem akar lejÃ¶nni az ujjadrÃ³l, hiÃ¡ba rÃ¡zod. Pedig Ã©n rÃ¡zom egyfolytÃ¡ban... nÃ©zd csak, ott mÃ©sz!!!}
+{182}{hld21c}{Na, nÃ©zd csak, mit hozott be a szÃ©l. Valami kutyagumi lesz. MiÃ©rt nem lapÃ¡tolod ki magad innen?}
+{183}{hld21d}{Akarod tudni, hogy lehet egy gyÃ³gyegeret kordÃ¡ban tartani?}
+{184}{hld21e}{HÃ©, remÃ©ltem, hogy el?dugod a kÃ©ped. Te nyerted a legnagyobb marha dÃ­jÃ¡t. A vÃ¡rostÃ³l tÃ­z mÃ©rfÃ¶ldre rendeznek egy bulit a tiszteletedre. Jobb lenne, ha sietnÃ©l!}
+{185}{hld26}{Mi ez az Ã©rdek dolog?}
+{186}{}{HozzÃ¡jutottam valami gazdÃ¡lkodÃ¡si adathoz, mely szerint MenedÃ©kvÃ¡ros jÃ³l jÃ¡r, ha megjavÃ­tod az er?m?vÃ¼nket.}
+{187}{}{Ãšgy Ã©rtem, mindig el?nyÃ¶sebb, ha kijÃ¶vÃ¶k az emberekkel.}
 {188}{}{Semmi, semmi.}
-{189}{}{Az igen, kés?bb, mint gondoltam. Na, jobb, ha megyek. Isten áldja!}
-{190}{hld27}{Miféle gazdálkodási adatról van szó? Ugye nem adtad nekik oda azt az információt, amir?l Gordon folyton járatja az etet?jét?}
-{191}{}{De odaadtam. Miért?}
+{189}{}{Az igen, kÃ©s?bb, mint gondoltam. Na, jobb, ha megyek. Isten Ã¡ldja!}
+{190}{hld27}{MifÃ©le gazdÃ¡lkodÃ¡si adatrÃ³l van szÃ³? Ugye nem adtad nekik oda azt az informÃ¡ciÃ³t, amir?l Gordon folyton jÃ¡ratja az etet?jÃ©t?}
+{191}{}{De odaadtam. MiÃ©rt?}
 {192}{}{Dehogy adtam oda.}
-{193}{hld28}{Igen, igen, valami hozzád hasonló gyógyegér ugyanezt gagyogta a Mesterr?l.}
-{194}{}{Jó kis történetnek hangzik. Bárcsak tovább élvezhetném, de sajnos indulnom kell.}
-{195}{}{A mestert megölte az ?söm!}
+{193}{hld28}{Igen, igen, valami hozzÃ¡d hasonlÃ³ gyÃ³gyegÃ©r ugyanezt gagyogta a Mesterr?l.}
+{194}{}{JÃ³ kis tÃ¶rtÃ©netnek hangzik. BÃ¡rcsak tovÃ¡bb Ã©lvezhetnÃ©m, de sajnos indulnom kell.}
+{195}{}{A mestert megÃ¶lte az ?sÃ¶m!}
 {196}{hld29}{Nothing, huh? I'm not buyin' it. You just put us in a bind. Why don't you skedaddle while I thinka what to do.}
-{197}{}{Bocs, sajnálom.}
-{198}{}{Hát persze. Miért nem fog bele rögtön? Atyám! Így próbáljon az ember másokon segíteni...}
-{199}{hld30}{Mi a baj ezzel? Menedékváros most már tisztában van vele, mennyire kell nekünk a Broken Hills-i urán. Elvághatják az ellátóutakat, és akkor nekünk annyi.}
-{200}{}{Nem lehet az olyan rossz. Elég ésszer?en gondolkodó népségnek t?ntek.}
-{201}{}{Nem tudtam, hogy arra használják fel az információt. Sajnálom. Mennem kell.}
-{202}{hld31}{Hát remélem, hogy nem. Azok a menedékvárosi gyógyegerek rühellik a ghoulokat. Semmi perc alatt elvágnák a Broken Hillsi szállítmányok útját. Aztán jönne a nemulass. Nem adnék neki sokat, és Gekkóból hamar rabszolgatelep lenne.}
-{203}{}{Szerintem nem tennének ilyet. Eléggé meggondolt népségnek t?ntek.}
-{204}{}{Akkor jó, hogy semmi ilyesmit nem mondtam nekik. Hehe. Volna viszont néhány kérdésem, ha nem gond.}
-{205}{}{Hát néha szarul sülnek el dolgok. Bárkivel megeshet. Most megyek...}
-{206}{hld32}{Meggondolt? Úgy érted meggondolt??? Sokan állították a Mesterr?l, hogy meggondolt. Ilyen egy gyógyegeret! Na, t?nés innen, most azonnal!}
-{207}{}{Lehet, hogy náluk van az igazság. Az is lehet, hogy épp most jött el az id? a magukhoz hasonló torzszülöttek kiirtására. Végeztem.}
-{208}{}{Hát... hogyne... viszlát!..}
-{209}{hld33}{Menj és beszélj Woozzal a Hárfa ivóban! Nem lehet eltéveszteni, csak menj innen egyenesen el?re.}
-{210}{}{Köszi. Kérdeznék még.}
-{211}{}{Köszi, egyel?re nem akarok többet tudni. Viszlát!}
-{212}{hld34}{Irigyled mi? Herbert-nek hívják. Ha magányosnak érzem magam, vele beszélgetek. Hehe. Csak viccelek. Bob a becsületes neve.}
-{213}{}{Rendben... talán maga vagy Bob választ tud adni nekem.}
-{214}{}{Kösz, ez már így is több, mint amire számítottam. Jó napokat...}
-{215}{hld35}{Az Édenkert Létrehozást El?segít? Táskát említetted? Az ÉLET-et? Úgy rémlik, mintha a Menedékekben rendszeresítettek volna olyat. Manapság a fene se tudja, hol lehetne ilyesmit találni.}
-{216}{}{Köszi. Kérdeznék még.}
-{217}{}{Köszi, egyel?re nem akarok többet tudni. Viszlát!}
-{218}{hld36}{Beszélj Lennyvel, a segédemmel. ? majd összetákol.}
-{219}{}{Köszi. Kérdeznék még.}
-{220}{}{Köszi, egyel?re nem akarok többet tudni. Viszlát!}
-{221}{hld37}{Egy másik simab?r?. Nagyon tiszteltem ?t.}
+{197}{}{Bocs, sajnÃ¡lom.}
+{198}{}{HÃ¡t persze. MiÃ©rt nem fog bele rÃ¶gtÃ¶n? AtyÃ¡m! Ãgy prÃ³bÃ¡ljon az ember mÃ¡sokon segÃ­teni...}
+{199}{hld30}{Mi a baj ezzel? MenedÃ©kvÃ¡ros most mÃ¡r tisztÃ¡ban van vele, mennyire kell nekÃ¼nk a Broken Hills-i urÃ¡n. ElvÃ¡ghatjÃ¡k az ellÃ¡tÃ³utakat, Ã©s akkor nekÃ¼nk annyi.}
+{200}{}{Nem lehet az olyan rossz. ElÃ©g Ã©sszer?en gondolkodÃ³ nÃ©psÃ©gnek t?ntek.}
+{201}{}{Nem tudtam, hogy arra hasznÃ¡ljÃ¡k fel az informÃ¡ciÃ³t. SajnÃ¡lom. Mennem kell.}
+{202}{hld31}{HÃ¡t remÃ©lem, hogy nem. Azok a menedÃ©kvÃ¡rosi gyÃ³gyegerek rÃ¼hellik a ghoulokat. Semmi perc alatt elvÃ¡gnÃ¡k a Broken Hillsi szÃ¡llÃ­tmÃ¡nyok ÃºtjÃ¡t. AztÃ¡n jÃ¶nne a nemulass. Nem adnÃ©k neki sokat, Ã©s GekkÃ³bÃ³l hamar rabszolgatelep lenne.}
+{203}{}{Szerintem nem tennÃ©nek ilyet. ElÃ©ggÃ© meggondolt nÃ©psÃ©gnek t?ntek.}
+{204}{}{Akkor jÃ³, hogy semmi ilyesmit nem mondtam nekik. Hehe. Volna viszont nÃ©hÃ¡ny kÃ©rdÃ©sem, ha nem gond.}
+{205}{}{HÃ¡t nÃ©ha szarul sÃ¼lnek el dolgok. BÃ¡rkivel megeshet. Most megyek...}
+{206}{hld32}{Meggondolt? Ãšgy Ã©rted meggondolt??? Sokan Ã¡llÃ­tottÃ¡k a Mesterr?l, hogy meggondolt. Ilyen egy gyÃ³gyegeret! Na, t?nÃ©s innen, most azonnal!}
+{207}{}{Lehet, hogy nÃ¡luk van az igazsÃ¡g. Az is lehet, hogy Ã©pp most jÃ¶tt el az id? a magukhoz hasonlÃ³ torzszÃ¼lÃ¶ttek kiirtÃ¡sÃ¡ra. VÃ©geztem.}
+{208}{}{HÃ¡t... hogyne... viszlÃ¡t!..}
+{209}{hld33}{Menj Ã©s beszÃ©lj Woozzal a HÃ¡rfa ivÃ³ban! Nem lehet eltÃ©veszteni, csak menj innen egyenesen el?re.}
+{210}{}{KÃ¶szi. KÃ©rdeznÃ©k mÃ©g.}
+{211}{}{KÃ¶szi, egyel?re nem akarok tÃ¶bbet tudni. ViszlÃ¡t!}
+{212}{hld34}{Irigyled mi? Herbert-nek hÃ­vjÃ¡k. Ha magÃ¡nyosnak Ã©rzem magam, vele beszÃ©lgetek. Hehe. Csak viccelek. Bob a becsÃ¼letes neve.}
+{213}{}{Rendben... talÃ¡n maga vagy Bob vÃ¡laszt tud adni nekem.}
+{214}{}{KÃ¶sz, ez mÃ¡r Ã­gy is tÃ¶bb, mint amire szÃ¡mÃ­tottam. JÃ³ napokat...}
+{215}{hld35}{Az Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡t emlÃ­tetted? Az Ã‰LET-et? Ãšgy rÃ©mlik, mintha a MenedÃ©kekben rendszeresÃ­tettek volna olyat. ManapsÃ¡g a fene se tudja, hol lehetne ilyesmit talÃ¡lni.}
+{216}{}{KÃ¶szi. KÃ©rdeznÃ©k mÃ©g.}
+{217}{}{KÃ¶szi, egyel?re nem akarok tÃ¶bbet tudni. ViszlÃ¡t!}
+{218}{hld36}{BeszÃ©lj Lennyvel, a segÃ©demmel. ? majd Ã¶sszetÃ¡kol.}
+{219}{}{KÃ¶szi. KÃ©rdeznÃ©k mÃ©g.}
+{220}{}{KÃ¶szi, egyel?re nem akarok tÃ¶bbet tudni. ViszlÃ¡t!}
+{221}{hld37}{Egy mÃ¡sik simab?r?. Nagyon tiszteltem ?t.}
 {222}{}{Ki volt ??}
-{223}{hld38}{Ha nem lennék halott, talán vissza tudnék emlékezni... Ezt a poént sosem tudom megállni.}
-{224}{}{Talán nem.}
-{225}{hld38a}{Hát, ha ?szinte akarok lenni, nem emlékszem a nevére. Viszont egy nagyon mulatságos ruhát viselt, olyasmit, mint a tiéd.}
-{226}{}{Ugyanazt a Menedékruhát viselem, mint az ?söm. A szent küldetésem jelképe ez.}
-{227}{}{Ez az ócska gönc?}
+{223}{hld38}{Ha nem lennÃ©k halott, talÃ¡n vissza tudnÃ©k emlÃ©kezni... Ezt a poÃ©nt sosem tudom megÃ¡llni.}
+{224}{}{TalÃ¡n nem.}
+{225}{hld38a}{HÃ¡t, ha ?szinte akarok lenni, nem emlÃ©kszem a nevÃ©re. Viszont egy nagyon mulatsÃ¡gos ruhÃ¡t viselt, olyasmit, mint a tiÃ©d.}
+{226}{}{Ugyanazt a MenedÃ©kruhÃ¡t viselem, mint az ?sÃ¶m. A szent kÃ¼ldetÃ©sem jelkÃ©pe ez.}
+{227}{}{Ez az Ã³cska gÃ¶nc?}
 {228}{hld38b}{Semmi kamu?}
-{229}{}{Ugyanazt a Menedékruhát viselem, mint az ?söm. A szent küldetésem jelképe ez.}
+{229}{}{Ugyanazt a MenedÃ©kruhÃ¡t viselem, mint az ?sÃ¶m. A szent kÃ¼ldetÃ©sem jelkÃ©pe ez.}
 {230}{}{Nem hazudok, Harold.}
-{231}{hld39}{Csakugyan? Nahát, nahát, nahát. Ez megmagyaráz egy-két dolgot. Nem értettem, honnan vagy olyan ismer?s. Már csak nem lágyult meg teljesen az a tök fejem.}
-{232}{}{Tényleg ugyanúgy nézünk ki?}
-{233}{}{Mesélj a Menedéklakóról, milyen volt?}
-{234}{hld40}{Pont így nézett ki. Ha jól emlékszem egy 13-as szám volt ráírva.}
-{235}{}{Megnyugtatom, ez a ruha a Menedéklakó külön bejáratú ruhája volt.}
-{236}{hld41}{Van hasonlóság. Nagyon is, amennyire emlékszem. Tudod, az ?söd megmentette itt az egész bagázs életét.}
-{237}{}{A Menedéklakó megmentette az összes itteni ghoult?}
-{238}{}{Köszönöm. Jó tudni. Nézze, van még egy-két futásom, kés?bb még jövök.}
-{239}{hld42}{Ítélkezünk-ítélkezünk, kiscsikó? Egyszer majd a seggedre ver valaki. Mindannyiunkat megmentett. A francos bolygó összes létez? kétlábon teng?d? marháját.}
-{240}{}{Hát ezt nem tudtam.}
-{241}{}{Asszem, eleget hallgattam magát. Viszlát máskor.}
-{242}{hld43}{Nahiszen. Mi is történt utána? Köszönetképpen a nagytudású Menedékes gárda kirakta a Menedéklakót, mint a macskát... Mindig is kíváncsi voltam, mi történt azután.}
-{243}{}{Én tudom, mi történt.}
-{244}{}{Ez a sok hasonlóság kihozta bel?lem a kérdéseimet.}
-{245}{hld44}{Szíves-örömest hallgatom.}
-{246}{}{A Menedéklakó legendája azzal kezd?dött, hogy társai kivetették maguk közül, egyenesen a pusztaság közepébe... [Elmeséled Haroldnak az ?söd történetét...] Hát ezért keresem én a 13-as Menedéket.}
-{247}{hld45}{Kösz, hogy elmondtad. Az évek során felgyülemlett bennem a kiváncsiság. Nagy fába vágtad a fejszédet, hallod-e...}
+{231}{hld39}{Csakugyan? NahÃ¡t, nahÃ¡t, nahÃ¡t. Ez megmagyarÃ¡z egy-kÃ©t dolgot. Nem Ã©rtettem, honnan vagy olyan ismer?s. MÃ¡r csak nem lÃ¡gyult meg teljesen az a tÃ¶k fejem.}
+{232}{}{TÃ©nyleg ugyanÃºgy nÃ©zÃ¼nk ki?}
+{233}{}{MesÃ©lj a MenedÃ©klakÃ³rÃ³l, milyen volt?}
+{234}{hld40}{Pont Ã­gy nÃ©zett ki. Ha jÃ³l emlÃ©kszem egy 13-as szÃ¡m volt rÃ¡Ã­rva.}
+{235}{}{Megnyugtatom, ez a ruha a MenedÃ©klakÃ³ kÃ¼lÃ¶n bejÃ¡ratÃº ruhÃ¡ja volt.}
+{236}{hld41}{Van hasonlÃ³sÃ¡g. Nagyon is, amennyire emlÃ©kszem. Tudod, az ?sÃ¶d megmentette itt az egÃ©sz bagÃ¡zs Ã©letÃ©t.}
+{237}{}{A MenedÃ©klakÃ³ megmentette az Ã¶sszes itteni ghoult?}
+{238}{}{KÃ¶szÃ¶nÃ¶m. JÃ³ tudni. NÃ©zze, van mÃ©g egy-kÃ©t futÃ¡som, kÃ©s?bb mÃ©g jÃ¶vÃ¶k.}
+{239}{hld42}{ÃtÃ©lkezÃ¼nk-Ã­tÃ©lkezÃ¼nk, kiscsikÃ³? Egyszer majd a seggedre ver valaki. Mindannyiunkat megmentett. A francos bolygÃ³ Ã¶sszes lÃ©tez? kÃ©tlÃ¡bon teng?d? marhÃ¡jÃ¡t.}
+{240}{}{HÃ¡t ezt nem tudtam.}
+{241}{}{Asszem, eleget hallgattam magÃ¡t. ViszlÃ¡t mÃ¡skor.}
+{242}{hld43}{Nahiszen. Mi is tÃ¶rtÃ©nt utÃ¡na? KÃ¶szÃ¶netkÃ©ppen a nagytudÃ¡sÃº MenedÃ©kes gÃ¡rda kirakta a MenedÃ©klakÃ³t, mint a macskÃ¡t... Mindig is kÃ­vÃ¡ncsi voltam, mi tÃ¶rtÃ©nt azutÃ¡n.}
+{243}{}{Ã‰n tudom, mi tÃ¶rtÃ©nt.}
+{244}{}{Ez a sok hasonlÃ³sÃ¡g kihozta bel?lem a kÃ©rdÃ©seimet.}
+{245}{hld44}{SzÃ­ves-Ã¶rÃ¶mest hallgatom.}
+{246}{}{A MenedÃ©klakÃ³ legendÃ¡ja azzal kezd?dÃ¶tt, hogy tÃ¡rsai kivetettÃ©k maguk kÃ¶zÃ¼l, egyenesen a pusztasÃ¡g kÃ¶zepÃ©be... [ElmesÃ©led Haroldnak az ?sÃ¶d tÃ¶rtÃ©netÃ©t...] HÃ¡t ezÃ©rt keresem Ã©n a 13-as MenedÃ©ket.}
+{247}{hld45}{KÃ¶sz, hogy elmondtad. Az Ã©vek sorÃ¡n felgyÃ¼lemlett bennem a kivÃ¡ncsisÃ¡g. Nagy fÃ¡ba vÃ¡gtad a fejszÃ©det, hallod-e...}
 {248}{}{Merthogy?}
-{249}{}{Már elég idejét elpazaroltam. Mennem kéne, viszlát!}
-{250}{hld46a}{Hát... jobb napokra tartogattam ezt, de asszem, neked éget?bb szükséged van rá, mint amennyire nekem bármikor lenne. Fogd...}
-{251}{hld46b}{Akartam adni néhány orvosi készletet, de a fene esne belém, lehet, hogy már odaadtam. Az agyam kihagy mostanában.}
-{252}{}{Köszi. Azért hadd kérdezzek még ezt-azt!}
-{253}{}{Kösz mindent. Most jobb lenne távoznom. Viszlát máskor.}
-{254}{hld48a}{Egy m?köd?képes hidroelektromos magnetoszféra szabályozó nélkül a sugárzó h?t?víz egyenesen a talajvízbe szivárog. Ez azt jelenti, hogy bárki, aki azt a vizet felhasználja, éjjel zseblámpa nélkül mehet pisálni. Mellesleg több üzemanyag se ártana, mert az er?m? nem teljesít száz százalékon.}
-{255}{hld48b}{Szükségünk van egy hidroelektromos magnetoszféra szabályozóra. Minél hamarabb be kell építeni a rendszerbe, különben nagy bajoknak nézünk elébe.}
-{256}{}{Gázosan hangzik. Hol lehet ilyen hidromagnetoakármiaszart szerezni?}
-{257}{}{Mi történik, ha nem sikerül megszerezni azt a micsodát?}
-{258}{}{Kit?l szerzik az üzemanyagot?}
-{259}{}{Sajnálattal hallom ezt. Ellenben kérdeznék még.}
-{260}{}{Most magára hagyom a problémáival együtt. Kés?bb visszanézek.}
-{261}{hld49}{Hát rátenném mindenemet, hogy azoknak a menedékvárosi kapitális vadbarmoknak van egy ilyen berendezésük. Na, nem mintha megválnának t?le. A franc egye meg, mégha lenne is egy olyanunk, kétlem, hogy Festus üzembe tudná helyezni.}
-{262}{}{A Menedékvárosiak nem adnák oda az övékét? Még abban a tudatban sem, hogy a talajvíz nem szennyez?dik tovább?}
-{263}{}{Hát ezt nem lesz könny? egycsapásra megoldani. Na, ég áldja!}
-{264}{hld50}{Ha nem szerzünk egyet, mérget vehetsz rá, hogy azok a menedékvárosi gyógyegerek véglegesen leállítják az atomreaktorunkat.}
-{265}{}{És akkor mit fog tenni?}
-{266}{hld51}{Az üzemanyagot egy innen valamivel délebbre fekv? bányavárosból, Broken Hillsb?l szerezzük.}
-{267}{}{Érdekes. Hol lehetne olyan Hidromagnetoakármiszart szerválni?}
-{268}{}{Mi lesz, ha nem sikerül azt a hidrovalamit megszerezni?}
-{269}{}{Hmm, asszem, ezt magának kell majd végigjátszania. Viszlát!}
-{270}{hld52}{Akkor megszívtuk. Menedékváros nem szarakodik. Ha nem tudjuk megszerezni azt a szerkenty?t, egyszer?en idejönnek és mindannyiunkat taccsra tesznek. Egy fa biztos n? majd a síromon.}
+{249}{}{MÃ¡r elÃ©g idejÃ©t elpazaroltam. Mennem kÃ©ne, viszlÃ¡t!}
+{250}{hld46a}{HÃ¡t... jobb napokra tartogattam ezt, de asszem, neked Ã©get?bb szÃ¼ksÃ©ged van rÃ¡, mint amennyire nekem bÃ¡rmikor lenne. Fogd...}
+{251}{hld46b}{Akartam adni nÃ©hÃ¡ny orvosi kÃ©szletet, de a fene esne belÃ©m, lehet, hogy mÃ¡r odaadtam. Az agyam kihagy mostanÃ¡ban.}
+{252}{}{KÃ¶szi. AzÃ©rt hadd kÃ©rdezzek mÃ©g ezt-azt!}
+{253}{}{KÃ¶sz mindent. Most jobb lenne tÃ¡voznom. ViszlÃ¡t mÃ¡skor.}
+{254}{hld48a}{Egy m?kÃ¶d?kÃ©pes hidroelektromos magnetoszfÃ©ra szabÃ¡lyozÃ³ nÃ©lkÃ¼l a sugÃ¡rzÃ³ h?t?vÃ­z egyenesen a talajvÃ­zbe szivÃ¡rog. Ez azt jelenti, hogy bÃ¡rki, aki azt a vizet felhasznÃ¡lja, Ã©jjel zseblÃ¡mpa nÃ©lkÃ¼l mehet pisÃ¡lni. Mellesleg tÃ¶bb Ã¼zemanyag se Ã¡rtana, mert az er?m? nem teljesÃ­t szÃ¡z szÃ¡zalÃ©kon.}
+{255}{hld48b}{SzÃ¼ksÃ©gÃ¼nk van egy hidroelektromos magnetoszfÃ©ra szabÃ¡lyozÃ³ra. MinÃ©l hamarabb be kell Ã©pÃ­teni a rendszerbe, kÃ¼lÃ¶nben nagy bajoknak nÃ©zÃ¼nk elÃ©be.}
+{256}{}{GÃ¡zosan hangzik. Hol lehet ilyen hidromagnetoakÃ¡rmiaszart szerezni?}
+{257}{}{Mi tÃ¶rtÃ©nik, ha nem sikerÃ¼l megszerezni azt a micsodÃ¡t?}
+{258}{}{Kit?l szerzik az Ã¼zemanyagot?}
+{259}{}{SajnÃ¡lattal hallom ezt. Ellenben kÃ©rdeznÃ©k mÃ©g.}
+{260}{}{Most magÃ¡ra hagyom a problÃ©mÃ¡ival egyÃ¼tt. KÃ©s?bb visszanÃ©zek.}
+{261}{hld49}{HÃ¡t rÃ¡tennÃ©m mindenemet, hogy azoknak a menedÃ©kvÃ¡rosi kapitÃ¡lis vadbarmoknak van egy ilyen berendezÃ©sÃ¼k. Na, nem mintha megvÃ¡lnÃ¡nak t?le. A franc egye meg, mÃ©gha lenne is egy olyanunk, kÃ©tlem, hogy Festus Ã¼zembe tudnÃ¡ helyezni.}
+{262}{}{A MenedÃ©kvÃ¡rosiak nem adnÃ¡k oda az Ã¶vÃ©kÃ©t? MÃ©g abban a tudatban sem, hogy a talajvÃ­z nem szennyez?dik tovÃ¡bb?}
+{263}{}{HÃ¡t ezt nem lesz kÃ¶nny? egycsapÃ¡sra megoldani. Na, Ã©g Ã¡ldja!}
+{264}{hld50}{Ha nem szerzÃ¼nk egyet, mÃ©rget vehetsz rÃ¡, hogy azok a menedÃ©kvÃ¡rosi gyÃ³gyegerek vÃ©glegesen leÃ¡llÃ­tjÃ¡k az atomreaktorunkat.}
+{265}{}{Ã‰s akkor mit fog tenni?}
+{266}{hld51}{Az Ã¼zemanyagot egy innen valamivel dÃ©lebbre fekv? bÃ¡nyavÃ¡rosbÃ³l, Broken Hillsb?l szerezzÃ¼k.}
+{267}{}{Ã‰rdekes. Hol lehetne olyan HidromagnetoakÃ¡rmiszart szervÃ¡lni?}
+{268}{}{Mi lesz, ha nem sikerÃ¼l azt a hidrovalamit megszerezni?}
+{269}{}{Hmm, asszem, ezt magÃ¡nak kell majd vÃ©gigjÃ¡tszania. ViszlÃ¡t!}
+{270}{hld52}{Akkor megszÃ­vtuk. MenedÃ©kvÃ¡ros nem szarakodik. Ha nem tudjuk megszerezni azt a szerkenty?t, egyszer?en idejÃ¶nnek Ã©s mindannyiunkat taccsra tesznek. Egy fa biztos n? majd a sÃ­romon.}
 {271}{}{Mi is volt annak a vacaknak a neve?}
-{272}{}{Úgy látom, eléggé szükségük van arra a hidromicsodára. Most viszont kérdeznék még ezt-azt.}
-{273}{}{Szar ügynek hangzik. Körbe kell járnom, hogy felmérjem, mit tehetek. Viszlát!}
-{274}{hld53}{Ha rádöbbennének, hogy ez az ? érdeküket is ugyanúgy szolgálja, talán segítenének. Sajna nem sok esélyt látok erre.}
-{275}{}{Hmm, igaza lehet. Valaki talán meggy?zhetné ?ket, hogy segítsen magukon...}
-{276}{hld54}{Ha meglátnak egy ghoult, rögtön lepuffantják. Elég kellemetlen tárgyalópozíció.}
-{277}{}{Kíváncsi vagyok, lehetne-e találni valakit, aki elmondja nekik.}
-{278}{}{Hát persze. Most viszont inkább feltenném a szokásos kérdéseimet.}
-{279}{}{Hé, végül is bármi megtörténhet. Kés?bb találkozunk.}
-{280}{}{Észak felé}
-{281}{}{Észak-nyugat felé}
+{272}{}{Ãšgy lÃ¡tom, elÃ©ggÃ© szÃ¼ksÃ©gÃ¼k van arra a hidromicsodÃ¡ra. Most viszont kÃ©rdeznÃ©k mÃ©g ezt-azt.}
+{273}{}{Szar Ã¼gynek hangzik. KÃ¶rbe kell jÃ¡rnom, hogy felmÃ©rjem, mit tehetek. ViszlÃ¡t!}
+{274}{hld53}{Ha rÃ¡dÃ¶bbennÃ©nek, hogy ez az ? Ã©rdekÃ¼ket is ugyanÃºgy szolgÃ¡lja, talÃ¡n segÃ­tenÃ©nek. Sajna nem sok esÃ©lyt lÃ¡tok erre.}
+{275}{}{Hmm, igaza lehet. Valaki talÃ¡n meggy?zhetnÃ© ?ket, hogy segÃ­tsen magukon...}
+{276}{hld54}{Ha meglÃ¡tnak egy ghoult, rÃ¶gtÃ¶n lepuffantjÃ¡k. ElÃ©g kellemetlen tÃ¡rgyalÃ³pozÃ­ciÃ³.}
+{277}{}{KÃ­vÃ¡ncsi vagyok, lehetne-e talÃ¡lni valakit, aki elmondja nekik.}
+{278}{}{HÃ¡t persze. Most viszont inkÃ¡bb feltennÃ©m a szokÃ¡sos kÃ©rdÃ©seimet.}
+{279}{}{HÃ©, vÃ©gÃ¼l is bÃ¡rmi megtÃ¶rtÃ©nhet. KÃ©s?bb talÃ¡lkozunk.}
+{280}{}{Ã‰szak felÃ©}
+{281}{}{Ã‰szak-nyugat felÃ©}
 {282}{}{To the west}
-{283}{}{Dél-nyugat felé}
-{284}{}{Dél felé}
-{285}{}{Dél-nyugat felé}
-{286}{}{Kelet felé}
-{287}{}{Észak-kelet felé}
-{288}{}{Nem értem.}
+{283}{}{DÃ©l-nyugat felÃ©}
+{284}{}{DÃ©l felÃ©}
+{285}{}{DÃ©l-nyugat felÃ©}
+{286}{}{Kelet felÃ©}
+{287}{}{Ã‰szak-kelet felÃ©}
+{288}{}{Nem Ã©rtem.}
 {289}{}{Nem tudom.}
-{290}{}{Ez fáj.}
-{291}{}{Ez nagyon fáj.}
-{292}{}{Ez biztos fájt.}
-{293}{}{Arról semmit se tudok.}
+{290}{}{Ez fÃ¡j.}
+{291}{}{Ez nagyon fÃ¡j.}
+{292}{}{Ez biztos fÃ¡jt.}
+{293}{}{ArrÃ³l semmit se tudok.}
 {294}{}{Igen}
 {295}{}{Nem.}
-{296}{}{Miért beszél így velem?}
-{297}{}{Nem leszünk jóban!}
-{298}{}{Köszönöm.}
-{299}{}{Ez bizony jó.}
-{300}{}{Ez nem jó.}
-{301}{}{Jó érzésem van ezzel kapcsolatban.}
-{302}{}{Rossz érzésem van ezzel kapcsolatban.}
-{303}{}{Ezek az emberek megkergültek.}
+{296}{}{MiÃ©rt beszÃ©l Ã­gy velem?}
+{297}{}{Nem leszÃ¼nk jÃ³ban!}
+{298}{}{KÃ¶szÃ¶nÃ¶m.}
+{299}{}{Ez bizony jÃ³.}
+{300}{}{Ez nem jÃ³.}
+{301}{}{JÃ³ Ã©rzÃ©sem van ezzel kapcsolatban.}
+{302}{}{Rossz Ã©rzÃ©sem van ezzel kapcsolatban.}
+{303}{}{Ezek az emberek megkergÃ¼ltek.}
 {304}{}{Nem tanultam semmit.}
 {305}{}{Tanultam valamit}
-{306}{}{Itt mindenki megkergült?}
-{307}{}{Kell lennie valami más módnak.}
-{308}{}{Kövess!}
-{309}{}{Próbáld ki ezt!}
+{306}{}{Itt mindenki megkergÃ¼lt?}
+{307}{}{Kell lennie valami mÃ¡s mÃ³dnak.}
+{308}{}{KÃ¶vess!}
+{309}{}{PrÃ³bÃ¡ld ki ezt!}
 {310}{}{Gyere ide!}
-{311}{}{Félek.}
-{312}{}{Aggódom.}
-{313}{}{Találtam valamit.}
-{314}{}{Szerencsés vagyok.}
-{315}{}{Ezt össze kéne kalapálni.}
-{316}{}{Ezt be kéne kapcsolnod.}
-{317}{}{Ki kéne nyitnod a zárat.}
-{318}{}{Ezt ki kéne nyitnod.}
-{319}{}{Lehet, hogy kés?bb kéne visszajönnünk.}
-{320}{}{Nem kamuzok. Gondoskodom róla, hogy a reaktor helyrepofozódjon. Vagy így, vagy úgy. Hmm, kíváncsi vagyok, rá tudnám-e Festust venni, hogy megcsinálja nekem. Na, jó, majd még jövök.}
+{311}{}{FÃ©lek.}
+{312}{}{AggÃ³dom.}
+{313}{}{TalÃ¡ltam valamit.}
+{314}{}{SzerencsÃ©s vagyok.}
+{315}{}{Ezt Ã¶ssze kÃ©ne kalapÃ¡lni.}
+{316}{}{Ezt be kÃ©ne kapcsolnod.}
+{317}{}{Ki kÃ©ne nyitnod a zÃ¡rat.}
+{318}{}{Ezt ki kÃ©ne nyitnod.}
+{319}{}{Lehet, hogy kÃ©s?bb kÃ©ne visszajÃ¶nnÃ¼nk.}
+{320}{}{Nem kamuzok. Gondoskodom rÃ³la, hogy a reaktor helyrepofozÃ³djon. Vagy Ã­gy, vagy Ãºgy. Hmm, kÃ­vÃ¡ncsi vagyok, rÃ¡ tudnÃ¡m-e Festust venni, hogy megcsinÃ¡lja nekem. Na, jÃ³, majd mÃ©g jÃ¶vÃ¶k.}
 {321}{}{Hey Harold, I got that part you need to fix your reactor. I am going to go and try to get it installed in the reactor. I'll report back when I am done. Bye.}

@@ -3,10 +3,10 @@
 {102}{}{Ei! Cai fora daqui!}
 {103}{}{We warned you once...}
 {104}{}{Hey! It's the one who defeated the Enclave. Open the gate.}
-{105}{}{Bom dia, Capit„o.}
+{105}{}{Bom dia, Capit√£o.}
 {106}{}{Sir. It's good to see you, sir.}
 {107}{}{Sir, yes, sir!}
-{108}{}{Vault City prevails, Capit„o.}
+{108}{}{Vault City prevails, Capit√£o.}
 {109}{}{My apologies, Citizen, but ghouls are not permitted inside Vault City.}
 {110}{}{My apologies, Citizen, but mutants are not permitted inside Vault City.}
 {111}{}{That ghoul had better step away from the gate. Now.}
@@ -21,7 +21,7 @@
 {120}{}{You're cleared to enter. Head on in.}
 {121}{}{Good day, traveler.}
 {122}{}{Bem vindo de volta.}
-{123}{}{Sua batalha contra a Enclave impressionou atÈ mesmo a Primeira Cidad„.}
+{123}{}{Sua batalha contra a Enclave impressionou at√© mesmo a Primeira Cidad√£.}
 {124}{}{I heard you've traveled as far south as San Francisco. Is that true?}
 {125}{}{Is it true that the U.S. was still fighting the war?}
 {126}{}{You should catalog your travels in the Vault City computer.}
@@ -35,7 +35,7 @@
 {134}{}{Proper authorization?}
 {135}{}{Never mind, then.}
 {136}{}{Looks like we got another victim of the Outworlder inbreeding here... look, dim, get out of here before you get hurt, all right?}
-{137}{}{MIM N√O IR!}
+{137}{}{MIM N√ÉO IR!}
 {138}{}{Desliga}
 {139}{}{Yes, "proper authorization."}
 {140}{}{If you want to get into Vault City, you need to speak to Wallace, Head of Customs. He can issue you a Day Pass.}
@@ -44,7 +44,7 @@
 {143}{}{Ok, obrigado.}
 {144}{}{Wallace is in the Customs building right over there. }
 {145}{}{Now move along. I don't have time to talk to Outworlders.}
-{146}{}{O que È um Day Pass?}
+{146}{}{O que √© um Day Pass?}
 {147}{}{Thanks for your time. Goodbye.}
 {148}{}{A Day Pass'll get you into our city... if you've got business here. }
 {149}{}{Now move along. I don't have time to talk to Outworlders.}
@@ -55,7 +55,7 @@
 {154}{}{Keep away from the Gate.}
 {155}{}{Pare de vagabundar.}
 {156}{}{Do you have a Day Pass?}
-{157}{}{N„o.}
+{157}{}{N√£o.}
 {158}{}{No, but I am a Citizen.}
 {159}{}{How *dare* you question me?! I'm a Citizen! Here are my papers!}
 {160}{}{A Citizen, huh? Let me see your papers.}
@@ -79,7 +79,7 @@
 {178}{}{Uh, yes... Vault City prevails, Citizen.}
 {179}{}{Obrigado.}
 {180}{}{Day Pass, please.}
-{181}{}{Aqui est·.}
+{181}{}{Aqui est√°.}
 {182}{}{I don't need a Day Pass. I'm a Citizen.}
 {183}{}{I was just stopping by to see how you were doing.}
 {184}{}{I don't have time for small talk, all right? Now get out of here.}

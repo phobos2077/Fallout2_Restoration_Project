@@ -1,76 +1,76 @@
-{100}{}{Ves a un trampero sucio con la ropa rasgada y manchada de sangre. Parece estar apoyándose sobre una sola pierna.}
+{100}{}{Ves a un trampero sucio con la ropa rasgada y manchada de sangre. Parece estar apoyÃ¡ndose sobre una sola pierna.}
 {101}{}{Ves a Smiley, el trampero. Cojea un poco y parece disgustado.}
-{102}{}{Ves a Smiley, el trampero. Parece estar mejor después de que le rescataras de las cuevas.}
+{102}{}{Ves a Smiley, el trampero. Parece estar mejor despuÃ©s de que le rescataras de las cuevas.}
 {103}{}{Ves a un hombre de mediana edad que lleva la ropa de un trampero, pero rota y ensangrentada. No parece estar muy bien.}
 {104}{}{Ves a Smiley, el trampero. Parece que su salud ha mejorado mucho desde que le rescataste de la cueva.}
-{110}{}{Hola, forastero. La gente me llama Smiley. Me alegro mucho de verte. ¡Estaba seguro de que moriría aquí! Estoy demasiado herido como para escapar de esos malditos lagartos por mí mismo.}
+{110}{}{Hola, forastero. La gente me llama Smiley. Me alegro mucho de verte. Â¡Estaba seguro de que morirÃ­a aquÃ­! Estoy demasiado herido como para escapar de esos malditos lagartos por mÃ­ mismo.}
 {111}{}{Smiley, je, je, je. Siii.}
-{112}{}{¿Qué estás haciendo aquí?}
+{112}{}{Â¿QuÃ© estÃ¡s haciendo aquÃ­?}
 {113}{}{Encantado de conocerte, Smiley. Creo que me marcho.}
-{120}{}{Genial. Otro Torr. Yo (se señala a sí mismo) necesito que tú (te señala a ti) me ayudes a salir de aquí (hace un gesto de andar con los dedos de la mano).}
-{121}{}{¿Ir? ¿Ahora? ¡Sii! }
-{122}{}{ ir. ¡Lagartos malos! ¡Malos!}
-{130}{}{¡Sí! Eso es. Nosotros ir (andando con los dedos de nuevo) juntos (choca las manos). ¡Ahora!}
+{120}{}{Genial. Otro Torr. Yo (se seÃ±ala a sÃ­ mismo) necesito que tÃº (te seÃ±ala a ti) me ayudes a salir de aquÃ­ (hace un gesto de andar con los dedos de la mano).}
+{121}{}{Â¿Ir? Â¿Ahora? Â¡Sii! }
+{122}{}{ ir. Â¡Lagartos malos! Â¡Malos!}
+{130}{}{Â¡SÃ­! Eso es. Nosotros ir (andando con los dedos de nuevo) juntos (choca las manos). Â¡Ahora!}
 {131}{}{Smiley ir con }
 {132}{}{ ahora.}
 {133}{}{Smiley no ir con }
-{134}{}{. No gusta Smiley. Adiós.}
-{140}{}{¡Eh! ¡Espera! No puedes dejarme tirado aquí.}
-{141}{}{Oh, lo siento. ¿En que estaría pensando?}
+{134}{}{. No gusta Smiley. AdiÃ³s.}
+{140}{}{Â¡Eh! Â¡Espera! No puedes dejarme tirado aquÃ­.}
+{141}{}{Oh, lo siento. Â¿En que estarÃ­a pensando?}
 {142}{}{Oh, supongo que no.}
-{143}{}{Puedo y lo haré. Creo que voy a hacer exactamente eso. Adiós.}
-{150}{}{Siempre cazaba más geckos dorados al norte y al oeste de Klamath que en ningún otro sitio. Así que me figuré que todos los geckos dorados tenían que vivir en algún sitio por aquí.}
+{143}{}{Puedo y lo harÃ©. Creo que voy a hacer exactamente eso. AdiÃ³s.}
+{150}{}{Siempre cazaba mÃ¡s geckos dorados al norte y al oeste de Klamath que en ningÃºn otro sitio. AsÃ­ que me figurÃ© que todos los geckos dorados tenÃ­an que vivir en algÃºn sitio por aquÃ­.}
 {151}{}{Parece que estabas en lo cierto.}
-{160}{}{Me encantaría quedarme a charlar contigo, pero ¿por qué no salimos de aquí ya y hablamos luego? ¿Vale?}
-{161}{}{Eh, sí. Es buena idea.}
-{162}{}{Antes de eso, una pregunta. ¿Qué es lo que sabes de estas cuevas?}
-{170}{}{Parece que tenía demasiada razón. Cuando entré aquí estaba bien, pero uno de esos malditos geckos me sorprendió por la espalda y casi me arranca la pierna. He tenido suerte de poder llegar hasta aquí.}
-{171}{}{¿Por qué no han acabado contigo?}
-{180}{}{Supongo que no les debe gustar mucho andar por el pringue verde. No puedo culparles por ello. Te quema la piel. Pero eso no les ha impedido chupetear ese maldita cosa como si fuera una Buckner’s Best.}
+{160}{}{Me encantarÃ­a quedarme a charlar contigo, pero Â¿por quÃ© no salimos de aquÃ­ ya y hablamos luego? Â¿Vale?}
+{161}{}{Eh, sÃ­. Es buena idea.}
+{162}{}{Antes de eso, una pregunta. Â¿QuÃ© es lo que sabes de estas cuevas?}
+{170}{}{Parece que tenÃ­a demasiada razÃ³n. Cuando entrÃ© aquÃ­ estaba bien, pero uno de esos malditos geckos me sorprendiÃ³ por la espalda y casi me arranca la pierna. He tenido suerte de poder llegar hasta aquÃ­.}
+{171}{}{Â¿Por quÃ© no han acabado contigo?}
+{180}{}{Supongo que no les debe gustar mucho andar por el pringue verde. No puedo culparles por ello. Te quema la piel. Pero eso no les ha impedido chupetear ese maldita cosa como si fuera una Bucknerâ€™s Best.}
 {181}{}{Interesante.}
-{190}{}{Basta de tonterías. Salgamos de aquí. Supongo que si vamos juntos podremos ser capaces de salir de aquí de una pieza. Me vendría bien tu ayuda.}
-{191}{}{Bien. Puedes unirte a mí. Me aseguraré de que regresas sano a Klamath. Creo que Ardin se pondrá muy contenta de verte de nuevo.}
-{192}{}{Bien, de acuerdo. Pero no quiero que te estés quejando y pidiendo ayuda todo el rato.}
-{200}{}{Estas cuevas parecen una zona de almacenaje de antes de la guerra. Creo que debe haber más cosas debajo de nosotros, pero hay alguna clase de cerradura tec-no-ló-gica en la puerta. De todas formas, ya me he cansado de estas cuevas. Salgamos de aquí.}
+{190}{}{Basta de tonterÃ­as. Salgamos de aquÃ­. Supongo que si vamos juntos podremos ser capaces de salir de aquÃ­ de una pieza. Me vendrÃ­a bien tu ayuda.}
+{191}{}{Bien. Puedes unirte a mÃ­. Me asegurarÃ© de que regresas sano a Klamath. Creo que Ardin se pondrÃ¡ muy contenta de verte de nuevo.}
+{192}{}{Bien, de acuerdo. Pero no quiero que te estÃ©s quejando y pidiendo ayuda todo el rato.}
+{200}{}{Estas cuevas parecen una zona de almacenaje de antes de la guerra. Creo que debe haber mÃ¡s cosas debajo de nosotros, pero hay alguna clase de cerradura tec-no-lÃ³-gica en la puerta. De todas formas, ya me he cansado de estas cuevas. Salgamos de aquÃ­.}
 {201}{}{Vale.}
-{210}{}{Buah. ¿Por qué no vas a Casa Buckner más tarde y me aseguro de que consigas una buena recompensa por salvarme?}
-{211}{}{Gracias, Smiley. Me alegro de haberlo hecho. Adiós.}
-{212}{}{Vale, da igual. Adiós.}
-{213}{}{Antes mencionaste una recompensa. Espero que sea buena. Adiós.}
-{220}{}{Vaya, pero si es mi amigo idiota. Muchas gracias. Adiós.}
-{221}{}{Hola, amigo. Gracias de nuevo por sacarme de ese atolladero. ¿Puedo serte de ayuda con algo?}
-{222}{}{¿Algo más, amigo?}
+{210}{}{Buah. Â¿Por quÃ© no vas a Casa Buckner mÃ¡s tarde y me aseguro de que consigas una buena recompensa por salvarme?}
+{211}{}{Gracias, Smiley. Me alegro de haberlo hecho. AdiÃ³s.}
+{212}{}{Vale, da igual. AdiÃ³s.}
+{213}{}{Antes mencionaste una recompensa. Espero que sea buena. AdiÃ³s.}
+{220}{}{Vaya, pero si es mi amigo idiota. Muchas gracias. AdiÃ³s.}
+{221}{}{Hola, amigo. Gracias de nuevo por sacarme de ese atolladero. Â¿Puedo serte de ayuda con algo?}
+{222}{}{Â¿Algo mÃ¡s, amigo?}
 {223}{}{Mira, tengo varias preguntas sobre la caza de geckos.}
 {224}{}{Tengo montones de preguntas sobre esta zona.}
-{225}{}{¿Se ha alegrado la señora Buckner de volver a verte?}
-{226}{}{No, tan sólo pasaba a decir hola. Hablaremos más tarde, Smiley. Adiós.}
-{230}{}{Te debo una por salvarme el pellejo. Lo menos que puedo hacer a cambio es enseñarte algo.}
-{231}{}{¿Enseñar?}
-{232}{}{Gracias Smiley. Agradecería cualquier consejo que puedas darme.}
-{240}{}{Dado que esos geckos casi me arrancan el pellejo déjame enseñarte como hacerle lo mismo a ellos. Mira, así es como tienes que despellejarlos. (Smiley te hace una demostración)... y así, cuando mates uno puedes llevarte su piel y venderla. ¿Vale?}
-{241}{}{Urk. Piel, je, je, je. Vender. Je, je, je. Adiós.}
-{242}{}{Gracias, estoy seguro de que me será de mucha ayuda. Hablemos de otra cosa.}
-{243}{}{Gracias por enseñarme como hacerlo, Smiley. Creo que iré a practicar con algunos geckos. Adiós.}
+{225}{}{Â¿Se ha alegrado la seÃ±ora Buckner de volver a verte?}
+{226}{}{No, tan sÃ³lo pasaba a decir hola. Hablaremos mÃ¡s tarde, Smiley. AdiÃ³s.}
+{230}{}{Te debo una por salvarme el pellejo. Lo menos que puedo hacer a cambio es enseÃ±arte algo.}
+{231}{}{Â¿EnseÃ±ar?}
+{232}{}{Gracias Smiley. AgradecerÃ­a cualquier consejo que puedas darme.}
+{240}{}{Dado que esos geckos casi me arrancan el pellejo dÃ©jame enseÃ±arte como hacerle lo mismo a ellos. Mira, asÃ­ es como tienes que despellejarlos. (Smiley te hace una demostraciÃ³n)... y asÃ­, cuando mates uno puedes llevarte su piel y venderla. Â¿Vale?}
+{241}{}{Urk. Piel, je, je, je. Vender. Je, je, je. AdiÃ³s.}
+{242}{}{Gracias, estoy seguro de que me serÃ¡ de mucha ayuda. Hablemos de otra cosa.}
+{243}{}{Gracias por enseÃ±arme como hacerlo, Smiley. Creo que irÃ© a practicar con algunos geckos. AdiÃ³s.}
 {250}{}{Creo que ya sabes lo suficiente sobre geckos.}
-{251}{}{Je, je. Creía que quizás tú podrías enseñarme algo sobre geckos. No creo que pueda ayudarte con eso.}
-{252}{}{Yo ya sé más sobre geckos que cualquier vivo. Me crié con leche de gecko, ¿sabes? Pero enseñártelo todo nos llevará unas cuantas horas.}
-{253}{}{Quiero saber todo lo que puedas enseñarme sobre geckos.}
+{251}{}{Je, je. CreÃ­a que quizÃ¡s tÃº podrÃ­as enseÃ±arme algo sobre geckos. No creo que pueda ayudarte con eso.}
+{252}{}{Yo ya sÃ© mÃ¡s sobre geckos que cualquier vivo. Me criÃ© con leche de gecko, Â¿sabes? Pero enseÃ±Ã¡rtelo todo nos llevarÃ¡ unas cuantas horas.}
+{253}{}{Quiero saber todo lo que puedas enseÃ±arme sobre geckos.}
 {254}{}{Supongo que no necesito saber eso ahora mismo. Hablemos de otra cosa.}
-{255}{}{¿Leche de gecko? Pensaba que los geckos eran reptiles.}
-{260}{}{Necesitas saber más de lo que crees que necesitas saber.}
-{261}{}{Enséñame, oh, gran trampero.}
-{262}{}{Uh, sí. Adelante. Te escucho.}
-{263}{}{Bueno, bien. Cuéntame tus cuentos chinos. Te escucho.}
-{264}{}{No necesito saber de esto. Adiós.}
-{270}{}{Bueno, mira, la cosa va así: los geckos dorados y los geckos normales son básicamente el mismo tipo de bicho salvo que el dorado es mucho más terco... (El tiempo pasa mientras aprendes sobre el gecko).}
-{271}{}{Eso es genial. Creo que ahora sé mucho más sobre geckos. Gracias.}
+{255}{}{Â¿Leche de gecko? Pensaba que los geckos eran reptiles.}
+{260}{}{Necesitas saber mÃ¡s de lo que crees que necesitas saber.}
+{261}{}{EnsÃ©Ã±ame, oh, gran trampero.}
+{262}{}{Uh, sÃ­. Adelante. Te escucho.}
+{263}{}{Bueno, bien. CuÃ©ntame tus cuentos chinos. Te escucho.}
+{264}{}{No necesito saber de esto. AdiÃ³s.}
+{270}{}{Bueno, mira, la cosa va asÃ­: los geckos dorados y los geckos normales son bÃ¡sicamente el mismo tipo de bicho salvo que el dorado es mucho mÃ¡s terco... (El tiempo pasa mientras aprendes sobre el gecko).}
+{271}{}{Eso es genial. Creo que ahora sÃ© mucho mÃ¡s sobre geckos. Gracias.}
 {280}{}{Maida Buckner, la hija de la viuda Buckner, es con quien debes hablar sobre los cotilleos del pueblo.}
 {281}{}{Entonces deja que te pregunte otra cosa.}
-{282}{}{Oh, ya veo. Gracias. Adiós.}
-{290}{}{La viuda Buckner está tan condenadamente feliz de tenerme de vuelta que pronto será la señora Smiley. Incluso ha hablado de darte algo por haber encontrado mi culo peludo y habérselo devuelto.}
-{291}{}{Me alegro por ambos. Déjame hacerte otra pregunta.}
-{292}{}{Eso es genial. Tendré que hablar con ella. Adiós.}
-{300}{}{Eh, gracias por salvarme el culo. Será mejor que vuelva. Nos vemos allí.}
-{310}{}{No te preocupes por mí. Puedo hacer el camino de vuelta solo.}
+{282}{}{Oh, ya veo. Gracias. AdiÃ³s.}
+{290}{}{La viuda Buckner estÃ¡ tan condenadamente feliz de tenerme de vuelta que pronto serÃ¡ la seÃ±ora Smiley. Incluso ha hablado de darte algo por haber encontrado mi culo peludo y habÃ©rselo devuelto.}
+{291}{}{Me alegro por ambos. DÃ©jame hacerte otra pregunta.}
+{292}{}{Eso es genial. TendrÃ© que hablar con ella. AdiÃ³s.}
+{300}{}{Eh, gracias por salvarme el culo. SerÃ¡ mejor que vuelva. Nos vemos allÃ­.}
+{310}{}{No te preocupes por mÃ­. Puedo hacer el camino de vuelta solo.}
 {320}{}{Ganas }
 {330}{}{ puntos de experiencia por rescatar a Smiley.}

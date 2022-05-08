@@ -1,22 +1,22 @@
-{100}{}{Widzisz jaskrawo ubranego goœcia zachwalaj¹cego jaszczurze kebaby.}
+{100}{}{Widzisz jaskrawo ubranego goÅ›cia zachwalajÄ…cego jaszczurze kebaby.}
 {101}{}{To sprzedawca jaszczurek na patyku.}
-{102}{}{Jak na sprzedawcê jaszczurek na patyku, ten facet ma styl. Jest czysty, dobrze ubrany i prowadzi ca³kiem legalny ma³y interes.}
-{103}{}{Chce ci siê jeœæ, przybyszu? Mam najlepsze jaszczurki w okolicy. Spytaj kogokolwiek!}
-{104}{}{Czy mogê s³u¿yæ?}
-{105}{}{Daj miêso.}
-{106}{}{Wezmê jedn¹ porcjê.}
-{107}{}{Co mo¿esz mi powiedzieæ o tym mieœcie?}
-{108}{}{¯egnaj.}
+{102}{}{Jak na sprzedawcÄ™ jaszczurek na patyku, ten facet ma styl. Jest czysty, dobrze ubrany i prowadzi caÅ‚kiem legalny maÅ‚y interes.}
+{103}{}{Chce ci siÄ™ jeÅ›Ä‡, przybyszu? Mam najlepsze jaszczurki w okolicy. Spytaj kogokolwiek!}
+{104}{}{Czy mogÄ™ sÅ‚uÅ¼yÄ‡?}
+{105}{}{Daj miÄ™so.}
+{106}{}{WezmÄ™ jednÄ… porcjÄ™.}
+{107}{}{Co moÅ¼esz mi powiedzieÄ‡ o tym mieÅ›cie?}
+{108}{}{Å»egnaj.}
 {109}{}{Smacznego, przybyszu!}
-{110}{}{Musztarda i cebula s¹ tam.}
-{111}{}{Czeœæ, kolego.}
+{110}{}{Musztarda i cebula sÄ… tam.}
+{111}{}{CzeÅ›Ä‡, kolego.}
 {112}{}{Tak, na razie.}
-{113}{}{Nastêpny!}
-{114}{}{S³uchaj, mam jedn¹ zasadê. Nie mówiê niczego o nikim. To dobra zasada, bo je¿eli trzymam gêbê na k³ódkê, to trzymam siê te¿ z dala od k³opotów. Kapujesz?}
-{115}{}{Nic nie widzia³em, nic nie s³ysza³em, a ju¿ szczególnie nic nie mówi³em. A teraz przestañ mi tym zawracaæ gitarê.}
-{116}{}{Dobrze. S³uchaj, chce mi siê jeœæ.}
-{117}{}{Masz mo¿e GECK?}
-{118}{}{Jezu, przepraszam, ¿e ¿yje!}
-{119}{}{GECKa? Có¿, to stara historia, wiêc co tam. Masz na myœli stary Generator Ekosystemu Cudownej Krainy? Mieliœmy taki jeden - to znaczy nasi dziadkowie mieli. U¿yli go, gdy wyszli z Krypty 15. Mówi¹, ¿e tak zapocz¹tkowali to miejsce. Teraz jest ju¿ ca³kowicie zu¿yty.}
-{120}{}{Wci¹¿ chce mi siê jeœæ.}
-{121}{}{Có¿, dziêki.}
+{113}{}{NastÄ™pny!}
+{114}{}{SÅ‚uchaj, mam jednÄ… zasadÄ™. Nie mÃ³wiÄ™ niczego o nikim. To dobra zasada, bo jeÅ¼eli trzymam gÄ™bÄ™ na kÅ‚Ã³dkÄ™, to trzymam siÄ™ teÅ¼ z dala od kÅ‚opotÃ³w. Kapujesz?}
+{115}{}{Nic nie widziaÅ‚em, nic nie sÅ‚yszaÅ‚em, a juÅ¼ szczegÃ³lnie nic nie mÃ³wiÅ‚em. A teraz przestaÅ„ mi tym zawracaÄ‡ gitarÄ™.}
+{116}{}{Dobrze. SÅ‚uchaj, chce mi siÄ™ jeÅ›Ä‡.}
+{117}{}{Masz moÅ¼e GECK?}
+{118}{}{Jezu, przepraszam, Å¼e Å¼yje!}
+{119}{}{GECKa? CÃ³Å¼, to stara historia, wiÄ™c co tam. Masz na myÅ›li stary Generator Ekosystemu Cudownej Krainy? MieliÅ›my taki jeden - to znaczy nasi dziadkowie mieli. UÅ¼yli go, gdy wyszli z Krypty 15. MÃ³wiÄ…, Å¼e tak zapoczÄ…tkowali to miejsce. Teraz jest juÅ¼ caÅ‚kowicie zuÅ¼yty.}
+{120}{}{WciÄ…Å¼ chce mi siÄ™ jeÅ›Ä‡.}
+{121}{}{CÃ³Å¼, dziÄ™ki.}

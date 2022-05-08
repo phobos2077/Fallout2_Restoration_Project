@@ -1,20 +1,20 @@
-{100}{}{Du siehst einen fröhlichen jungen Mann.}
-{101}{}{Du siehst Steve, einen Begrüßungsunteroffizier von Vault City.}
+{100}{}{Du siehst einen frÃ¶hlichen jungen Mann.}
+{101}{}{Du siehst Steve, einen BegrÃ¼ÃŸungsunteroffizier von Vault City.}
 {102}{}{Er blickt ausdruckslos.}
-{103}{}{Hallo und herzlich willkommen in Vault City, dem schönsten Ort in New California!
+{103}{}{Hallo und herzlich willkommen in Vault City, dem schÃ¶nsten Ort in New California!
  Mein Name ist Steve... womit kann ich dir dienen?}
-{104}{}{Ist dieser ganze eingezäunte Bereich etwa die Stadt?}
-{105}{}{Was meinst du mit "schönster Ort"?}
+{104}{}{Ist dieser ganze eingezÃ¤unte Bereich etwa die Stadt?}
+{105}{}{Was meinst du mit "schÃ¶nster Ort"?}
 {106}{}{Ich suche die Vault. Kannst du mir sagen, wo sie ist?}
 {107}{}{Wiedersehn.}
-{108}{}{Ähhh... [Liest aus dem Handbuch ab.] Ähhh... diese Frage
+{108}{}{Ã„hhh... [Liest aus dem Handbuch ab.] Ã„hhh... diese Frage
  ist nicht vorgesehen. Hier steht keine passende Antwort drin.}
-{109}{}{Hast du überhaupt von irgendwas 'ne Ahnung?}
+{109}{}{Hast du Ã¼berhaupt von irgendwas 'ne Ahnung?}
 {110}{}{Trotzdem vielen Dank.}
-{111}{}{[Schaut in sein Handbuch.] Wenn der Außenweltler... das
+{111}{}{[Schaut in sein Handbuch.] Wenn der AuÃŸenweltler... das
  bist du... dich beleidigt... das bin ich... dann verweise ihn an den Haupt-
- Begrüßungsoffizier. Oh... ich verweise dich an Melinda, die Haupt-
- Begrüßungsoffizierin.}
+ BegrÃ¼ÃŸungsoffizier. Oh... ich verweise dich an Melinda, die Haupt-
+ BegrÃ¼ÃŸungsoffizierin.}
 {112}{}{Dann rede ich eben mit ihr.}
-{113}{}{Willkommen im Amt für Begrüßungsangelegenheiten. Ich heiße Steve.}
+{113}{}{Willkommen im Amt fÃ¼r BegrÃ¼ÃŸungsangelegenheiten. Ich heiÃŸe Steve.}
 {114}{}{Entschuldigung, aber ich habe zu tun. }

@@ -1,6 +1,6 @@
 {100}{}{You see the casino pit boss.}
 {150}{}{You see a well-dressed man. He is surveying the casino.}
-{200}{}{Uh…you'll need to remove that armor.}
+{200}{}{Uhâ€¦you'll need to remove that armor.}
 {210}{}{Uh, perche' si muove cosi' silenziosamente, signore?}
 {220}{}{Uh, perche' si muove cosi' silenziosamente, signora?}
 {230}{}{Good evening, [MM], sir.}
@@ -14,28 +14,28 @@
 {310}{}{Dolcezza, con un corpo come quello, non riusciresti a passare inosservata nemmeno in un ospizio per ciechi.}
 {320}{}{Tribal, you better secure that weapon right *now.*}
 {330}{}{Tribal, you better stop that sneaking around shit right *now.*}
-{340}{}{[To Myron] Hey, hey…Myron! Ain't seen you outside the lab in a long time.}
+{340}{}{[To Myron] Hey, heyâ€¦Myron! Ain't seen you outside the lab in a long time.}
 {350}{}{[Nods at Marcus.] No mutants. He waits outside.}
 {360}{}{Niente droidi.}
 {370}{}{Non dovrei chiacchierare mentre sono in servizio, ma sono contento che tu abbia distrutto l'Enclave.}
-{380}{}{Need some more chips at table three…}
-{390}{}{Need some more chips at table three…}
+{380}{}{Need some more chips at table threeâ€¦}
+{390}{}{Need some more chips at table threeâ€¦}
 {400}{}{Hey, [X]! Heard yer the one who kicked the Enclave back to the stone age! [Becomes formal.] I've been instructed to give you some chips, courtesy of the casino. Enjoy yourself, sir.}
 {420}{}{Hey, look who's here! Hey, [PS]. [Smiles.] Welcome to [CN]. Love your films.}
 {440}{}{Shoot. What d'you want to know?}
 {460}{}{Uh, you better run along now, sir.}
-{470}{}{Yeah, yer Mom said I was special, too. Now take a hike…maybe she's along Virgin street somewhere.}
+{470}{}{Yeah, yer Mom said I was special, too. Now take a hikeâ€¦maybe she's along Virgin street somewhere.}
 {480}{}{I'm the pit boss. [Looks slightly irritated.] Now what can I do for you?}
 {490}{}{This is [CN]. Need anything, just ask.}
-{500}{}{Best goddamn casino in town…but I am a little biased. [Laughs.] Anything else you want to know?}
+{500}{}{Best goddamn casino in townâ€¦but I am a little biased. [Laughs.] Anything else you want to know?}
 {510}{}{The [CA] family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
-{520}{}{That guy? Old Man McGee? Crazy sumabitch…he's been playing that machine there for the past few years, waiting for the big jackpot. His life fortune must be sitting in that thing, but it won't give him a single chip.}
-{530}{}{[Shakes his head.] Nope, it's just stubborn…just like him. [Shrugs.] It could probably use a little repair work, but we ain't got no slot mechanics that can fix that damn thing.}
+{520}{}{That guy? Old Man McGee? Crazy sumabitchâ€¦he's been playing that machine there for the past few years, waiting for the big jackpot. His life fortune must be sitting in that thing, but it won't give him a single chip.}
+{530}{}{[Shakes his head.] Nope, it's just stubbornâ€¦just like him. [Shrugs.] It could probably use a little repair work, but we ain't got no slot mechanics that can fix that damn thing.}
 {540}{}{Yeah, that son of a bitch came in here about a week ago, ripped off one table of about a thousand chips, then bailed. Don't know where he is now, but he used to have a room at the Desperado.}
 {550}{}{Nikki? [Scans the floor.] Yeah, she's over there, at the middle table. Is there some sort of problem?}
-{560}{}{Her name *was* Nikki. She used to work here but she got aced…not too long ago.}
+{560}{}{Her name *was* Nikki. She used to work here but she got acedâ€¦not too long ago.}
 {570}{}{Her name was Nikki. She used to work here but she took off not too long ago. Just packed her shit and bailed.}
-{580}{}{Sure, be good for business. Dressing room's in the back…}
+{580}{}{Sure, be good for business. Dressing room's in the backâ€¦}
 {590}{}{[Shakes his head.] No, we're still recovering from your last gig. You might want to check some of the other casinos.}
 {600}{}{You count up the evening's tally. [C] = chips. Not a bad haul.}
-{610}{}{Yeah, he stinks worse than brahmin shit. Still, you…? [Looks you up and down skeptically.] Aw, why the hell not. A little improv ain't gonna hurt, but it's a rough crowd…better hope you're good.}
+{610}{}{Yeah, he stinks worse than brahmin shit. Still, youâ€¦? [Looks you up and down skeptically.] Aw, why the hell not. A little improv ain't gonna hurt, but it's a rough crowdâ€¦better hope you're good.}

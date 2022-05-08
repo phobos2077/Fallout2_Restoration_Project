@@ -1,97 +1,97 @@
-{100}{}{Você vê uma planta carnívora.}
-{101}{}{Você vê Seymour, a planta carnívora.}
-{102}{}{Uma planta carnívora que de alguma forma irradia uma aura de inteligência.}
-{103}{}{Oi! O clima está agradável, não acha?}
-{104}{}{Você fala?}
+{100}{}{VocÃª vÃª uma planta carnÃ­vora.}
+{101}{}{VocÃª vÃª Seymour, a planta carnÃ­vora.}
+{102}{}{Uma planta carnÃ­vora que de alguma forma irradia uma aura de inteligÃªncia.}
+{103}{}{Oi! O clima estÃ¡ agradÃ¡vel, nÃ£o acha?}
+{104}{}{VocÃª fala?}
 {105}{}{Rrr?}
-{106}{}{Com licença, mas é esta planta que está falando?}
-{107}{}{Você está ligado de alguma forma ao cientista?}
+{106}{}{Com licenÃ§a, mas Ã© esta planta que estÃ¡ falando?}
+{107}{}{VocÃª estÃ¡ ligado de alguma forma ao cientista?}
 {108}{}{Adeus.}
-{109}{}{Sim, eu falo. E até melhor que algumas pessoas. Eu sorriria para você agora, mas não tenho uma boca. [risos] 
- Diga, você poderia me fazer um grande favor?}
+{109}{}{Sim, eu falo. E atÃ© melhor que algumas pessoas. Eu sorriria para vocÃª agora, mas nÃ£o tenho uma boca. [risos] 
+ Diga, vocÃª poderia me fazer um grande favor?}
 {110}{}{Sim.}
 {111}{}{Nuh.}
-{112}{}{Procuro por um lugar melhor. Aqui é legal e tal, mas sinceramente, essas plantas não são de conversar. 
- Eu estava pensando ali, perto do edifício com todos os ghouls... Será que você me replanta??}
+{112}{}{Procuro por um lugar melhor. Aqui Ã© legal e tal, mas sinceramente, essas plantas nÃ£o sÃ£o de conversar. 
+ Eu estava pensando ali, perto do edifÃ­cio com todos os ghouls... SerÃ¡ que vocÃª me replanta??}
 {113}{}{Simmm!}
-{114}{}{Não!}
+{114}{}{NÃ£o!}
 {115}{}{Com certeza.}
-{116}{}{eu acho que não.}
-{117}{}{Ótimo! Tudo que você tem que fazer é achar uma pá, desenterrar-me, e me plantar lá. Quando terminar, te contarei um segredo.}
+{116}{}{eu acho que nÃ£o.}
+{117}{}{Ã“timo! Tudo que vocÃª tem que fazer Ã© achar uma pÃ¡, desenterrar-me, e me plantar lÃ¡. Quando terminar, te contarei um segredo.}
 {118}{}{Certo!}
-{119}{}{Hã-hã.}
-{120}{}{Certo. Bem... vou te esperar aqui. Como se eu tivesse outra escolha. Até logo!}
+{119}{}{HÃ£-hÃ£.}
+{120}{}{Certo. Bem... vou te esperar aqui. Como se eu tivesse outra escolha. AtÃ© logo!}
 {121}{}{Tchau!}
-{122}{}{Se você mudar de idéia sabe onde me achar. Estarei plantado aqui. Ha ha ha! É só uma piada de planta. 
-Oh, não vou mais tomar seu tempo. Até logo!}
+{122}{}{Se vocÃª mudar de idÃ©ia sabe onde me achar. Estarei plantado aqui. Ha ha ha! Ã‰ sÃ³ uma piada de planta. 
+Oh, nÃ£o vou mais tomar seu tempo. AtÃ© logo!}
 {123}{}{Adeus.}
-{124}{}{Bem dito, bem dito! Que maravilha ver um homo sapiens usar seu ao máxima a capacidade de seu cérebro. 
-Colega, Meu caro amigo, você estaria disposto a me fazer um favor?}
+{124}{}{Bem dito, bem dito! Que maravilha ver um homo sapiens usar seu ao mÃ¡xima a capacidade de seu cÃ©rebro. 
+Colega, Meu caro amigo, vocÃª estaria disposto a me fazer um favor?}
 {125}{}{Sim.}
-{126}{}{Não!}
-{127}{}{Porque, sim! É, sim! Muito astuto, amigo, muito astuto. Eu posso ver que você não germinou ontem! 
- Meu companheiro de haste fina, você seria tão amável de me fazer um favor?}
+{126}{}{NÃ£o!}
+{127}{}{Porque, sim! Ã‰, sim! Muito astuto, amigo, muito astuto. Eu posso ver que vocÃª nÃ£o germinou ontem! 
+ Meu companheiro de haste fina, vocÃª seria tÃ£o amÃ¡vel de me fazer um favor?}
 {128}{}{Com certeza.}
-{129}{}{Acho que não.}
-{130}{}{Maravilha! Estou muitíssimo satisfeito. Encontre logo uma pá e volte. Quando terminar, 
- talvez eu possa lhe contar um segredo. Colega, espero que você continue a florir.}
-{131}{}{Hum, certo. Até logo.}
+{129}{}{Acho que nÃ£o.}
+{130}{}{Maravilha! Estou muitÃ­ssimo satisfeito. Encontre logo uma pÃ¡ e volte. Quando terminar, 
+ talvez eu possa lhe contar um segredo. Colega, espero que vocÃª continue a florir.}
+{131}{}{Hum, certo. AtÃ© logo.}
 {132}{}{Eu mudei de ideia.}
-{133}{}{Ah sim, o Professor. Ele me cultivou desde que eu era uma semente... Mas desde cedo percebi que se mostrasse toda minha inteligência,
- ele me cortaria em pedaços para me examinar. Então eu fingi ser burro e fui plantado aqui. O que é bom, mas gostaria de expandir meus horizontes.
- Você sabe, talvez se for replantado em outro lugar...}
+{133}{}{Ah sim, o Professor. Ele me cultivou desde que eu era uma semente... Mas desde cedo percebi que se mostrasse toda minha inteligÃªncia,
+ ele me cortaria em pedaÃ§os para me examinar. EntÃ£o eu fingi ser burro e fui plantado aqui. O que Ã© bom, mas gostaria de expandir meus horizontes.
+ VocÃª sabe, talvez se for replantado em outro lugar...}
 {134}{}{"Expandir o horizonte." Realmente.}
-{135}{}{Certo. O que você quer?}
+{135}{}{Certo. O que vocÃª quer?}
 {136}{}{Aham. Preciso ir. Tchau.}
-{137}{}{Então ele ainda tem o escorpião? Aquele bicho é um jogador de xadrez malicioso... cascudo e disposto a morder,
- se é que você me entende... Mas sei como derrotá-lo. Se você me fizer um favor, te direi como.}
-{138}{}{Sério? Como?}
-{139}{}{Isso é fascinante. Uma planta que joga xadrez. Que doidoo. Adeus.}
-{140}{}{Colega, se você vai me replantar lá perto da casa dos ghouls, eu vou ficar muito feliz  e posso 
+{137}{}{EntÃ£o ele ainda tem o escorpiÃ£o? Aquele bicho Ã© um jogador de xadrez malicioso... cascudo e disposto a morder,
+ se Ã© que vocÃª me entende... Mas sei como derrotÃ¡-lo. Se vocÃª me fizer um favor, te direi como.}
+{138}{}{SÃ©rio? Como?}
+{139}{}{Isso Ã© fascinante. Uma planta que joga xadrez. Que doidoo. Adeus.}
+{140}{}{Colega, se vocÃª vai me replantar lÃ¡ perto da casa dos ghouls, eu vou ficar muito feliz  e posso 
  compartilhar meu profundo conhecimento de xadrez.}
 {141}{}{Estamos de acordo.}
-{142}{}{Não, obrigado. Cuidarei do escorpião por minha conta.}
-{143}{}{Ah, colega, você retornou. Este é um lugar muito agradável. A sombra é perfeita, e a companhia é simplesmente deslumbrante. 
-E o Typhon, que brincalhão! Ele realmente faz minha seiva intelectual fluir!}
+{142}{}{NÃ£o, obrigado. Cuidarei do escorpiÃ£o por minha conta.}
+{143}{}{Ah, colega, vocÃª retornou. Este Ã© um lugar muito agradÃ¡vel. A sombra Ã© perfeita, e a companhia Ã© simplesmente deslumbrante. 
+E o Typhon, que brincalhÃ£o! Ele realmente faz minha seiva intelectual fluir!}
 {144}{}{Xadrez?}
-{145}{}{O que você havia mencionado sobre xadrez?}
+{145}{}{O que vocÃª havia mencionado sobre xadrez?}
 {146}{}{Adeus.}
-{147}{}{Bem, mencionei como derrotar o escorpião do Professor no xadrez. Colega, mais simples impossível.
- A manobra Flying Liver Attack é como um mosquiteiro para aquele inseto - ele cai direto na trama e não consegue sair. Garanto seu sucesso.}
+{147}{}{Bem, mencionei como derrotar o escorpiÃ£o do Professor no xadrez. Colega, mais simples impossÃ­vel.
+ A manobra Flying Liver Attack Ã© como um mosquiteiro para aquele inseto - ele cai direto na trama e nÃ£o consegue sair. Garanto seu sucesso.}
 {148}{}{Brigado! Tchau!}
-{149}{}{Agradeço pela informação! Tchau!}
-{150}{}{Colega! O sol tem brilhado para você? Seu dia está florido? Está pronto para mudança? Eu certamente estou!}
+{149}{}{AgradeÃ§o pela informaÃ§Ã£o! Tchau!}
+{150}{}{Colega! O sol tem brilhado para vocÃª? Seu dia estÃ¡ florido? EstÃ¡ pronto para mudanÃ§a? Eu certamente estou!}
 {151}{}{Simmm!}
-{152}{}{Hum hum! Sem mudança!}
-{153}{}{Vamos lá.}
-{154}{}{Mudei de idéia. Não quero te ajudar.}
-{155}{}{Estou tão empolgado que poderia soltar uma nuvem de pólen sobre mim! Vamos nessa!}
+{152}{}{Hum hum! Sem mudanÃ§a!}
+{153}{}{Vamos lÃ¡.}
+{154}{}{Mudei de idÃ©ia. NÃ£o quero te ajudar.}
+{155}{}{Estou tÃ£o empolgado que poderia soltar uma nuvem de pÃ³len sobre mim! Vamos nessa!}
 {156}{}{-pronto-}
-{157}{}{Uma pena, realmente uma pena. Espero que alguma hora você mude de idéia. Talvez o pólen da sua
- indecisão soprará novamente em meu caminho. Passar bem.}
+{157}{}{Uma pena, realmente uma pena. Espero que alguma hora vocÃª mude de idÃ©ia. Talvez o pÃ³len da sua
+ indecisÃ£o soprarÃ¡ novamente em meu caminho. Passar bem.}
 {158}{}{Uh.}
 {159}{}{Certamente. Passar bem.}
-{160}{}{Óooo... o solo aqui é tão... diferente. É de alguma forma mais limpo. Provavelmente por não compartilhá-lo com
- outras plantas. Ahhh. Ah, sim! Se você encontrar o Professor e seu escorpião, lembre-se dessa manobra de xadrez:
- É chamada Flying Liver Attack, e o escorpião não pode resistir contra ela.}
+{160}{}{Ã“ooo... o solo aqui Ã© tÃ£o... diferente. Ã‰ de alguma forma mais limpo. Provavelmente por nÃ£o compartilhÃ¡-lo com
+ outras plantas. Ahhh. Ah, sim! Se vocÃª encontrar o Professor e seu escorpiÃ£o, lembre-se dessa manobra de xadrez:
+ Ã‰ chamada Flying Liver Attack, e o escorpiÃ£o nÃ£o pode resistir contra ela.}
 {161}{}{Brigado!}
-{162}{}{obrigado. Certamente vou usá-la. Tchau!}
+{162}{}{obrigado. Certamente vou usÃ¡-la. Tchau!}
 {163}{}{Gostaria de informar que felizmente sei que o ghoul Typhon conhece o paradeiro de um tesouro secreto.
- Talvez essa informação seja útil algum dia.}
+ Talvez essa informaÃ§Ã£o seja Ãºtil algum dia.}
 {164}{}{Brigado! Tchauu!}
 {165}{}{Teve tempo de reconsiderar? Gostaria de me ajudar?}
 {166}{}{Simmm!}
-{167}{}{Não!}
+{167}{}{NÃ£o!}
 {168}{}{Com certeza.}
-{169}{}{eu acho que não.}
-{170}{}{Aliás, parece que você não tem uma pá. Enquanto você não achar uma, não posso ir. Aguardarei seu retorno com as pétalas .}
+{169}{}{eu acho que nÃ£o.}
+{170}{}{AliÃ¡s, parece que vocÃª nÃ£o tem uma pÃ¡. Enquanto vocÃª nÃ£o achar uma, nÃ£o posso ir. Aguardarei seu retorno com as pÃ©talas .}
 {171}{}{Adeus.}
 {172}{}{Psiu! Ei! Ei, colega! Venha aqui!}
-{173}{}{Vem cá! Prometo que não vou te machucar.}
-{174}{}{Venha aqui. Está com medo de uma planta?}
+{173}{}{Vem cÃ¡! Prometo que nÃ£o vou te machucar.}
+{174}{}{Venha aqui. EstÃ¡ com medo de uma planta?}
 {175}{}{Olha aqui! Venha aqui falar comigo!}
 {176}{}{Sim, sou uma planta falante. Venha aqui e converse comigo.}
-{177}{}{Opa, colega. Não é só começar a cavar. Primeiro temos que planejar a mudança. Vamos conversar sobre o assunto.}
-{178}{}{Você replantou Seymour próximo a casa do velho ghoul.}
+{177}{}{Opa, colega. NÃ£o Ã© sÃ³ comeÃ§ar a cavar. Primeiro temos que planejar a mudanÃ§a. Vamos conversar sobre o assunto.}
+{178}{}{VocÃª replantou Seymour prÃ³ximo a casa do velho ghoul.}
 {179}{}{Vou cavar! Plantar agora!}
-{180}{}{Por coincidência eu tenho uma pá aqui comigo. Vamos nessa.}
+{180}{}{Por coincidÃªncia eu tenho uma pÃ¡ aqui comigo. Vamos nessa.}

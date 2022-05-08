@@ -1,111 +1,111 @@
-{100}{}{Öreged? n?.}
+{100}{}{Ã–reged? n?.}
 {101}{}{Rebecca.}
-{102}{}{Egy öreged? n?t látsz. Habár észrevehet?en nehéz id?ket élt, nem veszített semmit a természetes szépségéb?l.}
-{103}{}{Üdv, Rebecca vagyok. Tudnánk négyszemközt beszélgetni?}
+{102}{}{Egy Ã¶reged? n?t lÃ¡tsz. HabÃ¡r Ã©szrevehet?en nehÃ©z id?ket Ã©lt, nem veszÃ­tett semmit a termÃ©szetes szÃ©psÃ©gÃ©b?l.}
+{103}{}{Ãœdv, Rebecca vagyok. TudnÃ¡nk nÃ©gyszemkÃ¶zt beszÃ©lgetni?}
 {104}{}{Mir?l?}
-{105}{}{Miért kell négyszemközt beszélnünk?}
-{106}{}{Oké.}
-{107}{}{Nem. Én megy.}
-{108}{}{Sajnálom, nem érdekel.}
-{109}{}{Mir?l akarsz velem beszélgetni?}
+{105}{}{MiÃ©rt kell nÃ©gyszemkÃ¶zt beszÃ©lnÃ¼nk?}
+{106}{}{OkÃ©.}
+{107}{}{Nem. Ã‰n megy.}
+{108}{}{SajnÃ¡lom, nem Ã©rdekel.}
+{109}{}{Mir?l akarsz velem beszÃ©lgetni?}
 {110}{}{Persze, hova tudunk elvonulni?}
-{111}{}{Miért kell négyszemközt?}
-{112}{}{(suttogva) A lányom elt?nt, és segítségre van szükségem, hogy megtaláljam. Nem beszélhetek itt err?l. Nem vonulhatnánk félre?}
-{113}{}{Oké.}
-{114}{}{Miért kell négyszemközt beszélnünk?}
-{115}{}{Nem, én menni.}
-{116}{}{Rendben, gyerünk.}
-{117}{}{Miért kell négyszemközt?}
-{118}{}{Kösz, nem, nem akarok belekeveredni.}
-{119}{}{(suttogva) Lehet, hogy azt hiszed, meg?rültem, de olyan érzésem van, hogy folyton figyelnek. Ez elég zavaró, és már majdnem az ?rület határán vagyok t?le.}
-{120}{}{Ok, mi megy magán.}
+{111}{}{MiÃ©rt kell nÃ©gyszemkÃ¶zt?}
+{112}{}{(suttogva) A lÃ¡nyom elt?nt, Ã©s segÃ­tsÃ©gre van szÃ¼ksÃ©gem, hogy megtalÃ¡ljam. Nem beszÃ©lhetek itt err?l. Nem vonulhatnÃ¡nk fÃ©lre?}
+{113}{}{OkÃ©.}
+{114}{}{MiÃ©rt kell nÃ©gyszemkÃ¶zt beszÃ©lnÃ¼nk?}
+{115}{}{Nem, Ã©n menni.}
+{116}{}{Rendben, gyerÃ¼nk.}
+{117}{}{MiÃ©rt kell nÃ©gyszemkÃ¶zt?}
+{118}{}{KÃ¶sz, nem, nem akarok belekeveredni.}
+{119}{}{(suttogva) Lehet, hogy azt hiszed, meg?rÃ¼ltem, de olyan Ã©rzÃ©sem van, hogy folyton figyelnek. Ez elÃ©g zavarÃ³, Ã©s mÃ¡r majdnem az ?rÃ¼let hatÃ¡rÃ¡n vagyok t?le.}
+{120}{}{Ok, mi megy magÃ¡n.}
 {121}{}{Nincs id? beteg fejre.}
-{122}{}{Rendben, hol tudunk beszélgetni?}
-{123}{}{Sajnálom, nem tetszik ez nekem.}
-{124}{}{Köszönöm, menjünk a sátramba.}
-{125}{}{Oké.}
-{126}{}{Itt beszélhetünk.}
-{127}{}{Oké, mi a probléma?}
-{128}{}{Én kérdez el?ször.}
-{129}{}{Oké, mi volt ennyire fontos?}
-{130}{}{El?ször nekem vannak kérdéseim.}
-{131}{}{Van egy lányom, Chrissy a neve. Kicsit fiús lány, szeret mászkálni, felfedezni, és általában beleütni az orrát mindenfélébe. Ennek ellenére Chrissy jó gyerek, nem okoz z?rt, mindig id?ben itthon van, és nagyon felel?ségteljes fiatal lány. Múlt héten Chrissy nem jött haza. Kérdez?sködtem utána, de senki sem látta, senki sem hallott róla. Megpróbáltam magam megkeresni, de Zeke... ? olyan polgármester féle itt... megállított. Azt mondta, nem biztonságos egyedül keresnem, és majd az emberei megkeresik. De ?k sem találták meg, és azt mondták, lehet, hogy a rabszolga-keresked?knél van.}
-{132}{}{Nem, én nem keveredni bele.}
-{133}{}{Én gondol miel?tt dönt.}
-{134}{}{Ok, én t?nök h?snek mostanában.}
-{135}{}{Sajnálom, nem érdekel.}
-{136}{}{Ezen még gondolkodnom kell.}
-{137}{}{Rendben, Rebecca. Megpróbálok segíteni neked.}
-{138}{}{Ha segítek, miért jó az nekem?}
+{122}{}{Rendben, hol tudunk beszÃ©lgetni?}
+{123}{}{SajnÃ¡lom, nem tetszik ez nekem.}
+{124}{}{KÃ¶szÃ¶nÃ¶m, menjÃ¼nk a sÃ¡tramba.}
+{125}{}{OkÃ©.}
+{126}{}{Itt beszÃ©lhetÃ¼nk.}
+{127}{}{OkÃ©, mi a problÃ©ma?}
+{128}{}{Ã‰n kÃ©rdez el?szÃ¶r.}
+{129}{}{OkÃ©, mi volt ennyire fontos?}
+{130}{}{El?szÃ¶r nekem vannak kÃ©rdÃ©seim.}
+{131}{}{Van egy lÃ¡nyom, Chrissy a neve. Kicsit fiÃºs lÃ¡ny, szeret mÃ¡szkÃ¡lni, felfedezni, Ã©s Ã¡ltalÃ¡ban beleÃ¼tni az orrÃ¡t mindenfÃ©lÃ©be. Ennek ellenÃ©re Chrissy jÃ³ gyerek, nem okoz z?rt, mindig id?ben itthon van, Ã©s nagyon felel?sÃ©gteljes fiatal lÃ¡ny. MÃºlt hÃ©ten Chrissy nem jÃ¶tt haza. KÃ©rdez?skÃ¶dtem utÃ¡na, de senki sem lÃ¡tta, senki sem hallott rÃ³la. MegprÃ³bÃ¡ltam magam megkeresni, de Zeke... ? olyan polgÃ¡rmester fÃ©le itt... megÃ¡llÃ­tott. Azt mondta, nem biztonsÃ¡gos egyedÃ¼l keresnem, Ã©s majd az emberei megkeresik. De ?k sem talÃ¡ltÃ¡k meg, Ã©s azt mondtÃ¡k, lehet, hogy a rabszolga-keresked?knÃ©l van.}
+{132}{}{Nem, Ã©n nem keveredni bele.}
+{133}{}{Ã‰n gondol miel?tt dÃ¶nt.}
+{134}{}{Ok, Ã©n t?nÃ¶k h?snek mostanÃ¡ban.}
+{135}{}{SajnÃ¡lom, nem Ã©rdekel.}
+{136}{}{Ezen mÃ©g gondolkodnom kell.}
+{137}{}{Rendben, Rebecca. MegprÃ³bÃ¡lok segÃ­teni neked.}
+{138}{}{Ha segÃ­tek, miÃ©rt jÃ³ az nekem?}
 {139}{}{Mit akarsz tudni?}
-{140}{}{Mi itt történik?}
-{141}{}{Ki f?nök?}
-{142}{}{Én keres Menedék 13. Te tudni merre?}
-{143}{}{Mond Menedékr?l.}
-{144}{}{Monda Darionról.}
-{145}{}{Kösz. Beszélni te gondod?}
+{140}{}{Mi itt tÃ¶rtÃ©nik?}
+{141}{}{Ki f?nÃ¶k?}
+{142}{}{Ã‰n keres MenedÃ©k 13. Te tudni merre?}
+{143}{}{Mond MenedÃ©kr?l.}
+{144}{}{Monda DarionrÃ³l.}
+{145}{}{KÃ¶sz. BeszÃ©lni te gondod?}
 {146}{}{Mi ez a hely?}
-{147}{}{Ki a f?nök itt?}
-{148}{}{A 13-as Menedéket keresem. Tudsz róla valamit?}
-{149}{}{Mesélj a Menedékr?l!}
-{150}{}{Mesélj Darionról.}
-{151}{}{Kösz, Rebecca. Beszéljünk a te gondodról.}
-{152}{}{Birtoknak hívjuk ezt a helyet, mert több város hajléktalanjai alapították. Nem sok, de ez minden, amink van. Nyugatra innen van egy város, az ÚKK. Egy ideje ismernek már minket, és még sohasem segítettek vagy akadályoztak minket semmiben. Most hirtelen azt állítják, hogy ez a terület az ? ?si otthonuk, és vissza akarják kapni.}
-{153}{}{Oké.}
+{147}{}{Ki a f?nÃ¶k itt?}
+{148}{}{A 13-as MenedÃ©ket keresem. Tudsz rÃ³la valamit?}
+{149}{}{MesÃ©lj a MenedÃ©kr?l!}
+{150}{}{MesÃ©lj DarionrÃ³l.}
+{151}{}{KÃ¶sz, Rebecca. BeszÃ©ljÃ¼nk a te gondodrÃ³l.}
+{152}{}{Birtoknak hÃ­vjuk ezt a helyet, mert tÃ¶bb vÃ¡ros hajlÃ©ktalanjai alapÃ­tottÃ¡k. Nem sok, de ez minden, amink van. Nyugatra innen van egy vÃ¡ros, az ÃšKK. Egy ideje ismernek mÃ¡r minket, Ã©s mÃ©g sohasem segÃ­tettek vagy akadÃ¡lyoztak minket semmiben. Most hirtelen azt Ã¡llÃ­tjÃ¡k, hogy ez a terÃ¼let az ? ?si otthonuk, Ã©s vissza akarjÃ¡k kapni.}
+{153}{}{OkÃ©.}
 {154}{}{Mit akarnak itt?}
-{155}{}{Értem.}
+{155}{}{Ã‰rtem.}
 {156}{}{Mi van itt, ami annyira kell nekik?}
-{157}{}{Hát... egy menedék van itt, azt hiszem, a 15-ös. Ki akarják fosztani, hátha rábukkannak valamiféle régi technológiára, ami még ott maradt.}
-{158}{}{Ah. Én ért.}
-{159}{}{Tudtam, hogy kell még itt lennie valaminek a kár-a-kaja-beléjük lakosokon kívül.}
-{160}{}{Értem.}
-{161}{}{Ez sokmindent megmagyaráz. Nagyon sokat segítettél. De lenne még néhány kérdésem.}
-{162}{}{Zeke a vezet?nk. ? irányít itt mindent. Abban az épületben találod ?t. ::észak-keletre mutat::}
-{163}{}{Kösz. Kérdezni még.}
-{164}{}{Köszönöm. Lenne még néhány kérdésem.}
-{165}{}{Sajnálom, de nincs ötletem. A helyedben megkérdezném az ÚKK-ban. Mostanában nagyon érdeklik ?ket a Menedékek.}
-{166}{}{Oké. Megcsinálni.}
-{167}{}{Rendben, így lesz.}
-{168}{}{Nos... err?l nem kellene beszélnünk, de mivel szükségem van a segítségedre... Darion megjavítja a Menedéket. ? a mi jótev?nk. Ha teljesen m?köd?képes lesz, mindannyian odaköltözünk, és biztonságban leszünk a rablóktól, rabszolga-keresked?kt?l, ilyesmikt?l. Eddig a kaja- és vízel?állító gépeket sikerült megcsinálnia, de ez minden.}
-{169}{}{Én ért. Én akar tudni még.}
-{170}{}{Többet kell tudnom err?l.}
-{171}{}{Tényleg nincs mit mondanom. Darion megának való, és sohasem hagyja el a Menedéket. Ha bármi mondanivalója van, azt Zekén keresztül adja tudtunkra. Csak egyszer találkoztam vele, de rendes fickónak t?nt.}
-{172}{}{Oké.}
-{173}{}{A rendes fickók érnek célba utoljára. Kiváncsi vagyok, mire készülhet...}
-{174}{}{Értem.}
-{175}{}{Rendben van. Nagyon sokat segítettél.}
-{176}{}{Az örökkétartó hálámon kívül mást nem tudok adni.}
-{177}{}{Ez több, mint elég. Segítek neked.}
-{178}{}{Ennél többre van szükség, hogy megvedd a segítségemet.}
-{179}{}{A francba is, segítek neked.}
-{180}{}{Nagyon köszönöm. Sohasem leszek képes visszafizetni ezt neked. Itt fogok várni, amíg... Hé, valakik odakint hallgatóznak! Láttam az árnyékukat a sátor falán! Arra futottak! ::észak-keletre mutat:: Mindent hallhattak!}
-{181}{}{Én megállít, ?k nem jutja messzire!}
-{182}{}{Te nem aggóggya, én megtalájja lány!}
+{157}{}{HÃ¡t... egy menedÃ©k van itt, azt hiszem, a 15-Ã¶s. Ki akarjÃ¡k fosztani, hÃ¡tha rÃ¡bukkannak valamifÃ©le rÃ©gi technolÃ³giÃ¡ra, ami mÃ©g ott maradt.}
+{158}{}{Ah. Ã‰n Ã©rt.}
+{159}{}{Tudtam, hogy kell mÃ©g itt lennie valaminek a kÃ¡r-a-kaja-belÃ©jÃ¼k lakosokon kÃ­vÃ¼l.}
+{160}{}{Ã‰rtem.}
+{161}{}{Ez sokmindent megmagyarÃ¡z. Nagyon sokat segÃ­tettÃ©l. De lenne mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{162}{}{Zeke a vezet?nk. ? irÃ¡nyÃ­t itt mindent. Abban az Ã©pÃ¼letben talÃ¡lod ?t. ::Ã©szak-keletre mutat::}
+{163}{}{KÃ¶sz. KÃ©rdezni mÃ©g.}
+{164}{}{KÃ¶szÃ¶nÃ¶m. Lenne mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{165}{}{SajnÃ¡lom, de nincs Ã¶tletem. A helyedben megkÃ©rdeznÃ©m az ÃšKK-ban. MostanÃ¡ban nagyon Ã©rdeklik ?ket a MenedÃ©kek.}
+{166}{}{OkÃ©. MegcsinÃ¡lni.}
+{167}{}{Rendben, Ã­gy lesz.}
+{168}{}{Nos... err?l nem kellene beszÃ©lnÃ¼nk, de mivel szÃ¼ksÃ©gem van a segÃ­tsÃ©gedre... Darion megjavÃ­tja a MenedÃ©ket. ? a mi jÃ³tev?nk. Ha teljesen m?kÃ¶d?kÃ©pes lesz, mindannyian odakÃ¶ltÃ¶zÃ¼nk, Ã©s biztonsÃ¡gban leszÃ¼nk a rablÃ³ktÃ³l, rabszolga-keresked?kt?l, ilyesmikt?l. Eddig a kaja- Ã©s vÃ­zel?Ã¡llÃ­tÃ³ gÃ©peket sikerÃ¼lt megcsinÃ¡lnia, de ez minden.}
+{169}{}{Ã‰n Ã©rt. Ã‰n akar tudni mÃ©g.}
+{170}{}{TÃ¶bbet kell tudnom err?l.}
+{171}{}{TÃ©nyleg nincs mit mondanom. Darion megÃ¡nak valÃ³, Ã©s sohasem hagyja el a MenedÃ©ket. Ha bÃ¡rmi mondanivalÃ³ja van, azt ZekÃ©n keresztÃ¼l adja tudtunkra. Csak egyszer talÃ¡lkoztam vele, de rendes fickÃ³nak t?nt.}
+{172}{}{OkÃ©.}
+{173}{}{A rendes fickÃ³k Ã©rnek cÃ©lba utoljÃ¡ra. KivÃ¡ncsi vagyok, mire kÃ©szÃ¼lhet...}
+{174}{}{Ã‰rtem.}
+{175}{}{Rendben van. Nagyon sokat segÃ­tettÃ©l.}
+{176}{}{Az Ã¶rÃ¶kkÃ©tartÃ³ hÃ¡lÃ¡mon kÃ­vÃ¼l mÃ¡st nem tudok adni.}
+{177}{}{Ez tÃ¶bb, mint elÃ©g. SegÃ­tek neked.}
+{178}{}{EnnÃ©l tÃ¶bbre van szÃ¼ksÃ©g, hogy megvedd a segÃ­tsÃ©gemet.}
+{179}{}{A francba is, segÃ­tek neked.}
+{180}{}{Nagyon kÃ¶szÃ¶nÃ¶m. Sohasem leszek kÃ©pes visszafizetni ezt neked. Itt fogok vÃ¡rni, amÃ­g... HÃ©, valakik odakint hallgatÃ³znak! LÃ¡ttam az Ã¡rnyÃ©kukat a sÃ¡tor falÃ¡n! Arra futottak! ::Ã©szak-keletre mutat:: Mindent hallhattak!}
+{181}{}{Ã‰n megÃ¡llÃ­t, ?k nem jutja messzire!}
+{182}{}{Te nem aggÃ³ggya, Ã©n megtalÃ¡jja lÃ¡ny!}
 {183}{}{Upsz.}
-{184}{}{Megpróbálom megállítani ?ket.}
-{185}{}{Nem tudnak visszatartani, hogy megtaláljam a lányodat.}
-{186}{}{Hm. Szar ügy.}
-{187}{}{Kérlek, menj el.}
-{188}{}{Jól átgondoltad ezt a dolgot?}
-{189}{}{Én kérdez.}
-{190}{}{Nem, én még gondol.}
-{191}{}{Nem, még alaposan meg kell fontolnom a dolgokat.}
-{192}{}{Feltennék néhány kérdést.}
-{193}{}{Meggondoltad magad? Segítesz nekem?}
-{194}{}{Sajnálom, nem.}
-{195}{}{Én segít.}
-{196}{}{Igen, segítek neked.}
+{184}{}{MegprÃ³bÃ¡lom megÃ¡llÃ­tani ?ket.}
+{185}{}{Nem tudnak visszatartani, hogy megtalÃ¡ljam a lÃ¡nyodat.}
+{186}{}{Hm. Szar Ã¼gy.}
+{187}{}{KÃ©rlek, menj el.}
+{188}{}{JÃ³l Ã¡tgondoltad ezt a dolgot?}
+{189}{}{Ã‰n kÃ©rdez.}
+{190}{}{Nem, Ã©n mÃ©g gondol.}
+{191}{}{Nem, mÃ©g alaposan meg kell fontolnom a dolgokat.}
+{192}{}{FeltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{193}{}{Meggondoltad magad? SegÃ­tesz nekem?}
+{194}{}{SajnÃ¡lom, nem.}
+{195}{}{Ã‰n segÃ­t.}
+{196}{}{Igen, segÃ­tek neked.}
 {197}{}{You must be the person who saved my daughter. I can never repay you for your kindness. Thank you.
  Please wait here, I need to talk to Chrissy and then I'd like to talk to you.}
-{198}{}{Megmentetted a lányomat. Soha nem leszek képes visszafizetni a kedvességedet. Kérlek, várj meg itt, beszélnem kell Chrissy-vel, utána veled is szeretnék szót váltani.}
-{199}{}{Oké.}
-{200}{}{A lányom mindent elmondott. Nagyon nehéz elhinni, hogy Darion ilyen szörnyeteg, azok után, amit értünk tett. És arra is nagyon nehéz gondolni, hogy mi segítettünk neki elrejteni a rablóbandája ügyködésének nyomait. Biztosíthatlak, hogy többé nem fogjuk védeni ?ket. Már beszéltem Zekével, és látni akar. Beszélned kellene vele, most azonnal.}
-{201}{}{Nagyon nehéz elhinni, hogy Darion ilyen szörnyeteg, azok után, amit értünk tett. És arra is nagyon nehéz gondolni, hogy mi segítettünk neki elrejteni a rablóbandája ügyködésének nyomait. Biztosíthatlak, hogy többé nem fogjuk védeni ?ket. Már beszéltem Zekével, és látni akar. Beszélned kellene vele, most azonnal.}
-{202}{}{Köszönöm!}
-{203}{}{Remélem, hamarosan megtalálod Chrissy-t.}
-{204}{}{Én keres.}
-{205}{}{Folytatom a keresését.}
-{206}{}{Köszönet mindenért, amit értem tettél.}
-{207}{}{Nem tudom megmondani, miért, de nem hiszem, hogy a rabszolga-keresked?k vitték volna el. Van egy olyan kellemetlen érzésem, hogy valami folyik itt a háttérben. És még ott van az az érzés is, hogy valaki követ engem. Azóta, amióta beszéltem Zekével Chrissy-r?l. Szükségem van valakire, aki segít megtalálni a lányomat. Segítesz nekem? Kérlek...}
-{208}{}{Folyamatosan embereket küldenek ide, hogy próbáljanak lebeszélni minket az otthonunkról, de egyszer?en nem értik meg, hogy nekünk nincs hová mennünk. Ha elhagyjuk ezt a helyet, magunkra utalva biztosan elpuszulunk. Nem vagyunk képesek túlélni a vadont.}
-{209}{}{Tudod, kicsit vicces, hogy valahogy megjavítottak egy ilyen bonyolult komplexumot, de a lámpákkal nem boldogultak. Az egész francos hely fáklyákkal van megvilágítva. Akárhogy is, Darion nem akarja, hogy bárki is tudjon arról, ami a Menedékben folyik. Attól tart, ha kitudódik, valaki elveszi t?lünk. Azt mondta, hajtsunk el mindenkit, aki erre jár - kiváltképp az ÚKK embereit.}
+{198}{}{Megmentetted a lÃ¡nyomat. Soha nem leszek kÃ©pes visszafizetni a kedvessÃ©gedet. KÃ©rlek, vÃ¡rj meg itt, beszÃ©lnem kell Chrissy-vel, utÃ¡na veled is szeretnÃ©k szÃ³t vÃ¡ltani.}
+{199}{}{OkÃ©.}
+{200}{}{A lÃ¡nyom mindent elmondott. Nagyon nehÃ©z elhinni, hogy Darion ilyen szÃ¶rnyeteg, azok utÃ¡n, amit Ã©rtÃ¼nk tett. Ã‰s arra is nagyon nehÃ©z gondolni, hogy mi segÃ­tettÃ¼nk neki elrejteni a rablÃ³bandÃ¡ja Ã¼gykÃ¶dÃ©sÃ©nek nyomait. BiztosÃ­thatlak, hogy tÃ¶bbÃ© nem fogjuk vÃ©deni ?ket. MÃ¡r beszÃ©ltem ZekÃ©vel, Ã©s lÃ¡tni akar. BeszÃ©lned kellene vele, most azonnal.}
+{201}{}{Nagyon nehÃ©z elhinni, hogy Darion ilyen szÃ¶rnyeteg, azok utÃ¡n, amit Ã©rtÃ¼nk tett. Ã‰s arra is nagyon nehÃ©z gondolni, hogy mi segÃ­tettÃ¼nk neki elrejteni a rablÃ³bandÃ¡ja Ã¼gykÃ¶dÃ©sÃ©nek nyomait. BiztosÃ­thatlak, hogy tÃ¶bbÃ© nem fogjuk vÃ©deni ?ket. MÃ¡r beszÃ©ltem ZekÃ©vel, Ã©s lÃ¡tni akar. BeszÃ©lned kellene vele, most azonnal.}
+{202}{}{KÃ¶szÃ¶nÃ¶m!}
+{203}{}{RemÃ©lem, hamarosan megtalÃ¡lod Chrissy-t.}
+{204}{}{Ã‰n keres.}
+{205}{}{Folytatom a keresÃ©sÃ©t.}
+{206}{}{KÃ¶szÃ¶net mindenÃ©rt, amit Ã©rtem tettÃ©l.}
+{207}{}{Nem tudom megmondani, miÃ©rt, de nem hiszem, hogy a rabszolga-keresked?k vittÃ©k volna el. Van egy olyan kellemetlen Ã©rzÃ©sem, hogy valami folyik itt a hÃ¡ttÃ©rben. Ã‰s mÃ©g ott van az az Ã©rzÃ©s is, hogy valaki kÃ¶vet engem. AzÃ³ta, amiÃ³ta beszÃ©ltem ZekÃ©vel Chrissy-r?l. SzÃ¼ksÃ©gem van valakire, aki segÃ­t megtalÃ¡lni a lÃ¡nyomat. SegÃ­tesz nekem? KÃ©rlek...}
+{208}{}{Folyamatosan embereket kÃ¼ldenek ide, hogy prÃ³bÃ¡ljanak lebeszÃ©lni minket az otthonunkrÃ³l, de egyszer?en nem Ã©rtik meg, hogy nekÃ¼nk nincs hovÃ¡ mennÃ¼nk. Ha elhagyjuk ezt a helyet, magunkra utalva biztosan elpuszulunk. Nem vagyunk kÃ©pesek tÃºlÃ©lni a vadont.}
+{209}{}{Tudod, kicsit vicces, hogy valahogy megjavÃ­tottak egy ilyen bonyolult komplexumot, de a lÃ¡mpÃ¡kkal nem boldogultak. Az egÃ©sz francos hely fÃ¡klyÃ¡kkal van megvilÃ¡gÃ­tva. AkÃ¡rhogy is, Darion nem akarja, hogy bÃ¡rki is tudjon arrÃ³l, ami a MenedÃ©kben folyik. AttÃ³l tart, ha kitudÃ³dik, valaki elveszi t?lÃ¼nk. Azt mondta, hajtsunk el mindenkit, aki erre jÃ¡r - kivÃ¡ltkÃ©pp az ÃšKK embereit.}

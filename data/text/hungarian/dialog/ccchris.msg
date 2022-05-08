@@ -1,137 +1,137 @@
-{100}{}{Egy öregembert látsz.}
-{101}{}{Christ látod, a benzinkutast.}
-{102}{}{Egy ápolatlan embert látsz bíborszín palástban.}
-{103}{}{Üdv, idegen! Úh, micsoda verda! Még azok a csodaszép kerekek! Jó rég nem láttam ilyet. Mit tehet magáért az öreg Chris?}
-{104}{}{Üdv, idegen! Jó rég nem láttam ilyen járgányt. Mit tehet az öreg Chris magáért?}
+{100}{}{Egy Ã¶regembert lÃ¡tsz.}
+{101}{}{Christ lÃ¡tod, a benzinkutast.}
+{102}{}{Egy Ã¡polatlan embert lÃ¡tsz bÃ­borszÃ­n palÃ¡stban.}
+{103}{}{Ãœdv, idegen! Ãšh, micsoda verda! MÃ©g azok a csodaszÃ©p kerekek! JÃ³ rÃ©g nem lÃ¡ttam ilyet. Mit tehet magÃ¡Ã©rt az Ã¶reg Chris?}
+{104}{}{Ãœdv, idegen! JÃ³ rÃ©g nem lÃ¡ttam ilyen jÃ¡rgÃ¡nyt. Mit tehet az Ã¶reg Chris magÃ¡Ã©rt?}
 {105}{}{Mi lenni ez hely?}
-{106}{}{Én keresni Navarro. Itt lenni?}
-{107}{}{Látni fémmadárok repülni itt?}
-{108}{}{Hallani Enklávé? ?k itt lenni?}
-{109}{}{Én csak nézni körül.}
-{110}{}{Mi ez a hely tulajdonképpen?}
-{111}{}{Navarrót keresem. Ez az?}
-{112}{}{Látott gépmadarakat szállni errefelé?}
-{113}{}{Hallott már az Enklávéról? Itt találom meg ?ket?}
-{114}{}{Csak körülnézek.}
-{115}{}{Ez itt az én helyem, a jó öreg Chrisé. Ez egy szervizm?hely - nem hallott ilyenekr?l magazinokban vagy ilyesmikben? Mindegy... ez itt az én különbejáratú szervizem...}
-{116}{}{Én keresni Navarro. Itt lenni?}
-{117}{}{Látni fémmadárok repülni itt?}
-{118}{}{Hallani Enklávé? ?k itt lenni?}
-{119}{}{Öhm, mi kell nekünk mostan menni.}
-{120}{}{Navarrót keresem. Ez az?}
-{121}{}{Látott gépmadarakat szállni errefelé?}
-{122}{}{Hallott már az Enklávéról? Itt találom meg ?ket?}
+{106}{}{Ã‰n keresni Navarro. Itt lenni?}
+{107}{}{LÃ¡tni fÃ©mmadÃ¡rok repÃ¼lni itt?}
+{108}{}{Hallani EnklÃ¡vÃ©? ?k itt lenni?}
+{109}{}{Ã‰n csak nÃ©zni kÃ¶rÃ¼l.}
+{110}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{111}{}{NavarrÃ³t keresem. Ez az?}
+{112}{}{LÃ¡tott gÃ©pmadarakat szÃ¡llni errefelÃ©?}
+{113}{}{Hallott mÃ¡r az EnklÃ¡vÃ©rÃ³l? Itt talÃ¡lom meg ?ket?}
+{114}{}{Csak kÃ¶rÃ¼lnÃ©zek.}
+{115}{}{Ez itt az Ã©n helyem, a jÃ³ Ã¶reg ChrisÃ©. Ez egy szervizm?hely - nem hallott ilyenekr?l magazinokban vagy ilyesmikben? Mindegy... ez itt az Ã©n kÃ¼lÃ¶nbejÃ¡ratÃº szervizem...}
+{116}{}{Ã‰n keresni Navarro. Itt lenni?}
+{117}{}{LÃ¡tni fÃ©mmadÃ¡rok repÃ¼lni itt?}
+{118}{}{Hallani EnklÃ¡vÃ©? ?k itt lenni?}
+{119}{}{Ã–hm, mi kell nekÃ¼nk mostan menni.}
+{120}{}{NavarrÃ³t keresem. Ez az?}
+{121}{}{LÃ¡tott gÃ©pmadarakat szÃ¡llni errefelÃ©?}
+{122}{}{Hallott mÃ¡r az EnklÃ¡vÃ©rÃ³l? Itt talÃ¡lom meg ?ket?}
 {123}{}{Bocs, de mennem kell.}
-{124}{}{Navarro? Nem hallottam fel?le jó ideje. Valami öreg katonai bázis San Franciscótól délre.}
+{124}{}{Navarro? Nem hallottam fel?le jÃ³ ideje. Valami Ã¶reg katonai bÃ¡zis San FranciscÃ³tÃ³l dÃ©lre.}
 {125}{}{Mi lenni ott. Ott nem lenni Navarro.}
-{126}{}{Oké. Köszönni mi meg. Mi keresni arra.}
-{127}{}{Hazugság! Tudom, hogy Navarro itt van. Mondja meg az igazat, különben nagyon megbánja!}
-{128}{}{Már jártam arra, és Navarro nincs ott.}
-{129}{}{Oké, majd ott keresem. Kösz.}
-{130}{}{Hazugság! Tudom, hogy Navarro itt van. Mondja meg az igazat, különben nagyon megbánja!}
-{131}{}{Nem, ööö, pedig ott kell lennie. Ezt biztos forrásból hallottam. Navarro katonai bázis, San Franciscótól délre.}
-{132}{}{Hazudni nekem! Nekünk lenni nem sok türelem. Mostan mondani el igaz, vagy fogja bánni!}
-{133}{}{Ne hazudozzon, mert kezd fogyni a türelmem! Mondja meg az igazat, különben nagyon megbánja!}
-{134}{}{Bassza meg! (egy rádiót vesz el? a ruhája zsebéb?l) Tudni akarja, milyen az, megbánni valamit? Van itt néhány srác, akik el tudják magyarázni a szó valódi jelentését! (babrálni kezd a rádióval)}
-{135}{}{Megölni halottra!}
-{136}{}{Mit csinálni most?}
-{137}{}{Én menni mostan.}
-{138}{}{Ez rossz húzás volt, jóember!}
-{139}{}{Mégis mi a fenét csinálsz?}
-{140}{}{Hé, már itt se vagyok!}
-{141}{}{(beleüvölt a rádióba) Riadó! Behatoló a benzinkútnál! Riadó!}
+{126}{}{OkÃ©. KÃ¶szÃ¶nni mi meg. Mi keresni arra.}
+{127}{}{HazugsÃ¡g! Tudom, hogy Navarro itt van. Mondja meg az igazat, kÃ¼lÃ¶nben nagyon megbÃ¡nja!}
+{128}{}{MÃ¡r jÃ¡rtam arra, Ã©s Navarro nincs ott.}
+{129}{}{OkÃ©, majd ott keresem. KÃ¶sz.}
+{130}{}{HazugsÃ¡g! Tudom, hogy Navarro itt van. Mondja meg az igazat, kÃ¼lÃ¶nben nagyon megbÃ¡nja!}
+{131}{}{Nem, Ã¶Ã¶Ã¶, pedig ott kell lennie. Ezt biztos forrÃ¡sbÃ³l hallottam. Navarro katonai bÃ¡zis, San FranciscÃ³tÃ³l dÃ©lre.}
+{132}{}{Hazudni nekem! NekÃ¼nk lenni nem sok tÃ¼relem. Mostan mondani el igaz, vagy fogja bÃ¡nni!}
+{133}{}{Ne hazudozzon, mert kezd fogyni a tÃ¼relmem! Mondja meg az igazat, kÃ¼lÃ¶nben nagyon megbÃ¡nja!}
+{134}{}{Bassza meg! (egy rÃ¡diÃ³t vesz el? a ruhÃ¡ja zsebÃ©b?l) Tudni akarja, milyen az, megbÃ¡nni valamit? Van itt nÃ©hÃ¡ny srÃ¡c, akik el tudjÃ¡k magyarÃ¡zni a szÃ³ valÃ³di jelentÃ©sÃ©t! (babrÃ¡lni kezd a rÃ¡diÃ³val)}
+{135}{}{MegÃ¶lni halottra!}
+{136}{}{Mit csinÃ¡lni most?}
+{137}{}{Ã‰n menni mostan.}
+{138}{}{Ez rossz hÃºzÃ¡s volt, jÃ³ember!}
+{139}{}{MÃ©gis mi a fenÃ©t csinÃ¡lsz?}
+{140}{}{HÃ©, mÃ¡r itt se vagyok!}
+{141}{}{(beleÃ¼vÃ¶lt a rÃ¡diÃ³ba) RiadÃ³! BehatolÃ³ a benzinkÃºtnÃ¡l! RiadÃ³!}
 {142}{}{[DONE]}
-{143}{}{Nos, jó volt magával beszélgetni. Adok azonban egy tanácsot - nincs itt semmi más, csak pusztaság meg sugárzás. A civilizáció délre van. A maga helyében én arra próbálkoznék.}
-{144}{}{Köszi.}
-{145}{}{Fémmadarakat? Áh, biztos gépmadarakról beszél. De miért is kérdi?}
-{146}{}{Gépmadarakat? Érdekes kérdést tett fel. Miért is? }
-{147}{}{Sámán mondani ide vinni gépmadarak törzsem. Mi itten próbálni.}
-{148}{}{Érdekelni. Én próbálja megtalálni ?ket.}
-{149}{}{Tud róluk? Mit tud még?}
-{150}{}{A falumbeli sámán azt mondta, ide hozták a törzsemet. Azért vagyok itt, hogy megtaláljam ?ket.}
-{151}{}{Van néhány ember, akit érdekelnek ezek a gépmadarak. Meg akarom nézni ?ket. }
-{152}{}{Szóval tud a gépmadarakról. Mondja el, mit tud!}
-{153}{}{Sámán? Ha az a sámán azt mondja, repül? izék vitték el a bennszülötteket, akkor túl sok füvet szívott, érthet? vagyok?}
-{154}{}{Hakuin lenni nagy sámán. Ha ? mondani, akkor látni is ?ket!}
-{155}{}{Hakuin nagy sámán volt. Ha ? így mondta, akkor úgy is volt!}
-{156}{}{Hát, ez engem nem érdekel különösebben, de ha esetleg látnék egyet, kinek szóljak?}
-{157}{}{Mondani nekem. Itt lenni a környéken.}
+{143}{}{Nos, jÃ³ volt magÃ¡val beszÃ©lgetni. Adok azonban egy tanÃ¡csot - nincs itt semmi mÃ¡s, csak pusztasÃ¡g meg sugÃ¡rzÃ¡s. A civilizÃ¡ciÃ³ dÃ©lre van. A maga helyÃ©ben Ã©n arra prÃ³bÃ¡lkoznÃ©k.}
+{144}{}{KÃ¶szi.}
+{145}{}{FÃ©mmadarakat? Ãh, biztos gÃ©pmadarakrÃ³l beszÃ©l. De miÃ©rt is kÃ©rdi?}
+{146}{}{GÃ©pmadarakat? Ã‰rdekes kÃ©rdÃ©st tett fel. MiÃ©rt is? }
+{147}{}{SÃ¡mÃ¡n mondani ide vinni gÃ©pmadarak tÃ¶rzsem. Mi itten prÃ³bÃ¡lni.}
+{148}{}{Ã‰rdekelni. Ã‰n prÃ³bÃ¡lja megtalÃ¡lni ?ket.}
+{149}{}{Tud rÃ³luk? Mit tud mÃ©g?}
+{150}{}{A falumbeli sÃ¡mÃ¡n azt mondta, ide hoztÃ¡k a tÃ¶rzsemet. AzÃ©rt vagyok itt, hogy megtalÃ¡ljam ?ket.}
+{151}{}{Van nÃ©hÃ¡ny ember, akit Ã©rdekelnek ezek a gÃ©pmadarak. Meg akarom nÃ©zni ?ket. }
+{152}{}{SzÃ³val tud a gÃ©pmadarakrÃ³l. Mondja el, mit tud!}
+{153}{}{SÃ¡mÃ¡n? Ha az a sÃ¡mÃ¡n azt mondja, repÃ¼l? izÃ©k vittÃ©k el a bennszÃ¼lÃ¶tteket, akkor tÃºl sok fÃ¼vet szÃ­vott, Ã©rthet? vagyok?}
+{154}{}{Hakuin lenni nagy sÃ¡mÃ¡n. Ha ? mondani, akkor lÃ¡tni is ?ket!}
+{155}{}{Hakuin nagy sÃ¡mÃ¡n volt. Ha ? Ã­gy mondta, akkor Ãºgy is volt!}
+{156}{}{HÃ¡t, ez engem nem Ã©rdekel kÃ¼lÃ¶nÃ¶sebben, de ha esetleg lÃ¡tnÃ©k egyet, kinek szÃ³ljak?}
+{157}{}{Mondani nekem. Itt lenni a kÃ¶rnyÃ©ken.}
 {158}{}{Mondani Shiknek.}
-{159}{}{Mondani Acél Testvériségnek. }
-{160}{}{Mondani Hubologistáknak.}
-{161}{}{Válszthatni. Mondhatni Shiknek, Testvériségnek vagy Hubologistáknak. Érdekeli mindenkit.}
-{162}{}{Szóljon nekem! A környéken leszek.}
+{159}{}{Mondani AcÃ©l TestvÃ©risÃ©gnek. }
+{160}{}{Mondani HubologistÃ¡knak.}
+{161}{}{VÃ¡lszthatni. Mondhatni Shiknek, TestvÃ©risÃ©gnek vagy HubologistÃ¡knak. Ã‰rdekeli mindenkit.}
+{162}{}{SzÃ³ljon nekem! A kÃ¶rnyÃ©ken leszek.}
 {163}{}{Elmondhatja a Shiknek.}
-{164}{}{Elmondhatja az Acél Testvériségnek.}
-{165}{}{Elmondhatja a Hubologistáknak.}
-{166}{}{Választhat kedve szerint. Érdekli a Shiket, a Testvériséget, és a Hubologistákat is. Egyszóval mindenkit.}
-{167}{}{A Shiket is érdekli? Hát, ha maga mondja. Majd üzenek nekik Ferdeszem városba. De addig is, dolgom van.}
-{168}{}{Várni! Nekünk lenni er?s barátink! Azt mondani, Navarro lenni itten. Mondani nekünk, vagy dolgok menni át z?rösbe!}
-{169}{}{Várjon egy kicsit, jóember! Befolyásos barátaim vannak, és ?k mondták, hogy Navarro itt van. Vagy megmondja, hol jutok be, vagy eldurvulnak a dolgok!}
-{170}{}{A Testvériség... Hm, talán majd szólok nekik. De addig is, dolgom van.}
-{171}{}{Várni! Nekünk lenni er?s barátink! Azt mondani, Navarro lenni itten. Mondani nekünk, vagy dolgok menni át z?rösbe!}
-{172}{}{Várjon egy kicsit, jóember! Befolyásos barátaim vannak, és ?k mondták, hogy Navarro itt van. Vagy megmondja, hol jutok be, vagy eldurvulnak a dolgok!}
-{173}{}{A Hubosok? Na, majd szólok nekik. De addig is, dolgom van.}
-{174}{}{Várni! Nekünk lenni er?s barátink! Azt mondani, Navarro lenni itten. Mondani nekünk, vagy dolgok menni át z?rösbe!}
-{175}{}{Várjon egy kicsit, jóember! Befolyásos barátaim vannak, és ?k mondták, hogy Navarro itt van. Vagy megmondja, hol jutok be, vagy eldurvulnak a dolgok!}
-{176}{}{A szentségit, ez aztán a lista... Na, majd szólok valamelyiknek, ha el?kerül egy. Viszont most dolgom van.}
-{177}{}{Várni! Nekünk lenni er?s barátink! Azt mondani, Navarro lenni itten. Megmondani nekünk, vagy dolgok menni át z?rösbe!}
-{178}{}{Várjon egy kicsit, jóbember! Befolyásos barátaim vannak, és ?k mondták, hogy Navarro itt van. Vagy megmondja, hol jutok be, vagy eldurvulnak a dolgok!}
-{179}{}{Hé, várjon már... Nekem csak azt mondták, hogy küldjem el a hívatlan látogatókat. Nem akarok abból a balhéból, amir?l maga beszél.}
-{180}{}{Akkor mondani utat bázisra... most!}
-{181}{}{Akkor javaslom, mondja meg, hogyan jutok be a bázisra!}
-{182}{}{A szobámban talál egy csapóajtót, szerintem azon keresztül bejuthat. De én még sosem próbáltam.}
-{183}{}{Oké. Menni.}
-{184}{}{Jól van. Akkor megyek is.}
-{185}{}{Tudom hogy átrepülnek itt id?r?l-id?re. Általában San Fran irányába repülnek. Ha utánuk érdekl?dik, én arra keresném ?ket.}
-{186}{}{Oké, megpróbálni ott.}
-{187}{}{Lenni barátok, kik akarják, hogy találjunk gépmadárt nekik. Azt mondták, ?k jönni innét.}
-{188}{}{Oké, majd arra megyek.}
-{189}{}{Nézze, van néhány barátom, akik látni akarják a terveiket. Azt mondták, innen jönnek.}
-{190}{}{Enklávé? Az valami csoport, vagy mi? Nem t?nnek ismer?snek. Mit akarsz t?lük?}
-{191}{}{Én akarni csatlakozni.}
-{192}{}{Csatlakozni szeretnék hozzájuk.}
-{193}{}{Maga? De hát maga is csak egy barbár, vagy mi a franc. Azt hiszi tán, felvesznek egy ilyen söpredéket?!}
-{194}{}{Maga? De hát maga is csak egy barbár, vagy mi a franc. Azt hiszi tán, felvesznek egy ilyen söpredéket?!}
-{195}{}{Én gondolni komoly. Én akarni csatlakozza Enklávé.}
-{196}{}{Én gondolni komoly. Én Csatlakozni Enklávé!}
+{164}{}{Elmondhatja az AcÃ©l TestvÃ©risÃ©gnek.}
+{165}{}{Elmondhatja a HubologistÃ¡knak.}
+{166}{}{VÃ¡laszthat kedve szerint. Ã‰rdekli a Shiket, a TestvÃ©risÃ©get, Ã©s a HubologistÃ¡kat is. EgyszÃ³val mindenkit.}
+{167}{}{A Shiket is Ã©rdekli? HÃ¡t, ha maga mondja. Majd Ã¼zenek nekik Ferdeszem vÃ¡rosba. De addig is, dolgom van.}
+{168}{}{VÃ¡rni! NekÃ¼nk lenni er?s barÃ¡tink! Azt mondani, Navarro lenni itten. Mondani nekÃ¼nk, vagy dolgok menni Ã¡t z?rÃ¶sbe!}
+{169}{}{VÃ¡rjon egy kicsit, jÃ³ember! BefolyÃ¡sos barÃ¡taim vannak, Ã©s ?k mondtÃ¡k, hogy Navarro itt van. Vagy megmondja, hol jutok be, vagy eldurvulnak a dolgok!}
+{170}{}{A TestvÃ©risÃ©g... Hm, talÃ¡n majd szÃ³lok nekik. De addig is, dolgom van.}
+{171}{}{VÃ¡rni! NekÃ¼nk lenni er?s barÃ¡tink! Azt mondani, Navarro lenni itten. Mondani nekÃ¼nk, vagy dolgok menni Ã¡t z?rÃ¶sbe!}
+{172}{}{VÃ¡rjon egy kicsit, jÃ³ember! BefolyÃ¡sos barÃ¡taim vannak, Ã©s ?k mondtÃ¡k, hogy Navarro itt van. Vagy megmondja, hol jutok be, vagy eldurvulnak a dolgok!}
+{173}{}{A Hubosok? Na, majd szÃ³lok nekik. De addig is, dolgom van.}
+{174}{}{VÃ¡rni! NekÃ¼nk lenni er?s barÃ¡tink! Azt mondani, Navarro lenni itten. Mondani nekÃ¼nk, vagy dolgok menni Ã¡t z?rÃ¶sbe!}
+{175}{}{VÃ¡rjon egy kicsit, jÃ³ember! BefolyÃ¡sos barÃ¡taim vannak, Ã©s ?k mondtÃ¡k, hogy Navarro itt van. Vagy megmondja, hol jutok be, vagy eldurvulnak a dolgok!}
+{176}{}{A szentsÃ©git, ez aztÃ¡n a lista... Na, majd szÃ³lok valamelyiknek, ha el?kerÃ¼l egy. Viszont most dolgom van.}
+{177}{}{VÃ¡rni! NekÃ¼nk lenni er?s barÃ¡tink! Azt mondani, Navarro lenni itten. Megmondani nekÃ¼nk, vagy dolgok menni Ã¡t z?rÃ¶sbe!}
+{178}{}{VÃ¡rjon egy kicsit, jÃ³bember! BefolyÃ¡sos barÃ¡taim vannak, Ã©s ?k mondtÃ¡k, hogy Navarro itt van. Vagy megmondja, hol jutok be, vagy eldurvulnak a dolgok!}
+{179}{}{HÃ©, vÃ¡rjon mÃ¡r... Nekem csak azt mondtÃ¡k, hogy kÃ¼ldjem el a hÃ­vatlan lÃ¡togatÃ³kat. Nem akarok abbÃ³l a balhÃ©bÃ³l, amir?l maga beszÃ©l.}
+{180}{}{Akkor mondani utat bÃ¡zisra... most!}
+{181}{}{Akkor javaslom, mondja meg, hogyan jutok be a bÃ¡zisra!}
+{182}{}{A szobÃ¡mban talÃ¡l egy csapÃ³ajtÃ³t, szerintem azon keresztÃ¼l bejuthat. De Ã©n mÃ©g sosem prÃ³bÃ¡ltam.}
+{183}{}{OkÃ©. Menni.}
+{184}{}{JÃ³l van. Akkor megyek is.}
+{185}{}{Tudom hogy Ã¡trepÃ¼lnek itt id?r?l-id?re. ÃltalÃ¡ban San Fran irÃ¡nyÃ¡ba repÃ¼lnek. Ha utÃ¡nuk Ã©rdekl?dik, Ã©n arra keresnÃ©m ?ket.}
+{186}{}{OkÃ©, megprÃ³bÃ¡lni ott.}
+{187}{}{Lenni barÃ¡tok, kik akarjÃ¡k, hogy talÃ¡ljunk gÃ©pmadÃ¡rt nekik. Azt mondtÃ¡k, ?k jÃ¶nni innÃ©t.}
+{188}{}{OkÃ©, majd arra megyek.}
+{189}{}{NÃ©zze, van nÃ©hÃ¡ny barÃ¡tom, akik lÃ¡tni akarjÃ¡k a terveiket. Azt mondtÃ¡k, innen jÃ¶nnek.}
+{190}{}{EnklÃ¡vÃ©? Az valami csoport, vagy mi? Nem t?nnek ismer?snek. Mit akarsz t?lÃ¼k?}
+{191}{}{Ã‰n akarni csatlakozni.}
+{192}{}{Csatlakozni szeretnÃ©k hozzÃ¡juk.}
+{193}{}{Maga? De hÃ¡t maga is csak egy barbÃ¡r, vagy mi a franc. Azt hiszi tÃ¡n, felvesznek egy ilyen sÃ¶predÃ©ket?!}
+{194}{}{Maga? De hÃ¡t maga is csak egy barbÃ¡r, vagy mi a franc. Azt hiszi tÃ¡n, felvesznek egy ilyen sÃ¶predÃ©ket?!}
+{195}{}{Ã‰n gondolni komoly. Ã‰n akarni csatlakozza EnklÃ¡vÃ©.}
+{196}{}{Ã‰n gondolni komoly. Ã‰n Csatlakozni EnklÃ¡vÃ©!}
 {197}{}{Komolyan gondolom. ?ket keresem.}
 {198}{}{Komolyan gondolom. ?ket keresem.}
 {199}{}{Wait a minute, dummy. Are you trying to say you're one of the Enclave
  replacements?}
-{200}{}{Várjon egy percet!  Azt próbálja itt mondani, hogy maga az Enklávé bázis váltása?}
-{201}{}{Öhm... ja.}
-{202}{}{Így van!}
-{203}{}{Picsába! Bocs ezért a színjátékért, de ezért vagyok itt, hogy a kíváncsiskodókat "békésebb" módszerekkel küldjem el, mint amivel a katonák tennék. Na, csak menjen a f?kapuhoz, és közölje a jelszót. Ez jelen pillanatban a "tökfilkó". Ja, és maradjon a kövezett úton!}
-{204}{}{Köszönöm!}
-{205}{}{Várjon egy percet, nagyokos! Azt próbálja itt mondani, hogy maga az Enklávé bázis váltása? Akkor miért nincs egyedül?}
-{206}{}{Várjon egy percet! Azt próbálja itt mondani, hogy maga az Enklávé bázis váltása? Akkor miért nincs egyedül?}
-{207}{}{Öhm... kíséret...}
-{208}{}{Kíséretet béreltem fel!}
-{209}{}{Hát, nem akarok durva lenni vagy valami, de ez magánterület. Ha feltétlenül el kell kolbászolnia valahova, akkor ne ide, ha lehet!}
+{200}{}{VÃ¡rjon egy percet!  Azt prÃ³bÃ¡lja itt mondani, hogy maga az EnklÃ¡vÃ© bÃ¡zis vÃ¡ltÃ¡sa?}
+{201}{}{Ã–hm... ja.}
+{202}{}{Ãgy van!}
+{203}{}{PicsÃ¡ba! Bocs ezÃ©rt a szÃ­njÃ¡tÃ©kÃ©rt, de ezÃ©rt vagyok itt, hogy a kÃ­vÃ¡ncsiskodÃ³kat "bÃ©kÃ©sebb" mÃ³dszerekkel kÃ¼ldjem el, mint amivel a katonÃ¡k tennÃ©k. Na, csak menjen a f?kapuhoz, Ã©s kÃ¶zÃ¶lje a jelszÃ³t. Ez jelen pillanatban a "tÃ¶kfilkÃ³". Ja, Ã©s maradjon a kÃ¶vezett Ãºton!}
+{204}{}{KÃ¶szÃ¶nÃ¶m!}
+{205}{}{VÃ¡rjon egy percet, nagyokos! Azt prÃ³bÃ¡lja itt mondani, hogy maga az EnklÃ¡vÃ© bÃ¡zis vÃ¡ltÃ¡sa? Akkor miÃ©rt nincs egyedÃ¼l?}
+{206}{}{VÃ¡rjon egy percet! Azt prÃ³bÃ¡lja itt mondani, hogy maga az EnklÃ¡vÃ© bÃ¡zis vÃ¡ltÃ¡sa? Akkor miÃ©rt nincs egyedÃ¼l?}
+{207}{}{Ã–hm... kÃ­sÃ©ret...}
+{208}{}{KÃ­sÃ©retet bÃ©reltem fel!}
+{209}{}{HÃ¡t, nem akarok durva lenni vagy valami, de ez magÃ¡nterÃ¼let. Ha feltÃ©tlenÃ¼l el kell kolbÃ¡szolnia valahova, akkor ne ide, ha lehet!}
 {210}{}{[DONE]}
-{211}{}{Áh, visszajött! Mit tehetek magáért?}
-{212}{}{Mondani Navarro van délre! Hazudni! Visszajönni igazságért!}
-{213}{}{Azt mondta, Navarro innen dél felé van. De ezúttal az igazságot akarom hallani, tata!}
-{214}{}{Ismer?snek t?nik maga nekem. A vén Chris már látta magát valahol... Áh, biztos nem.}
-{215}{}{Behatoló a benzinkútnál! Küldjetek segítséget!}
-{216}{}{Riadó!}
-{217}{}{Behatoló! Behatoló!}
-{218}{}{Pusztuljon, maga szemét!}
-{219}{}{Az Enklávé majd kitüntet, hogy megöltem!}
-{220}{}{Pusztulj, kívülálló!}
+{211}{}{Ãh, visszajÃ¶tt! Mit tehetek magÃ¡Ã©rt?}
+{212}{}{Mondani Navarro van dÃ©lre! Hazudni! VisszajÃ¶nni igazsÃ¡gÃ©rt!}
+{213}{}{Azt mondta, Navarro innen dÃ©l felÃ© van. De ezÃºttal az igazsÃ¡got akarom hallani, tata!}
+{214}{}{Ismer?snek t?nik maga nekem. A vÃ©n Chris mÃ¡r lÃ¡tta magÃ¡t valahol... Ãh, biztos nem.}
+{215}{}{BehatolÃ³ a benzinkÃºtnÃ¡l! KÃ¼ldjetek segÃ­tsÃ©get!}
+{216}{}{RiadÃ³!}
+{217}{}{BehatolÃ³! BehatolÃ³!}
+{218}{}{Pusztuljon, maga szemÃ©t!}
+{219}{}{Az EnklÃ¡vÃ© majd kitÃ¼ntet, hogy megÃ¶ltem!}
+{220}{}{Pusztulj, kÃ­vÃ¼lÃ¡llÃ³!}
 {221}{}{Mi a...?!}
-{222}{}{Használni rádió, nagyon megbánni!}
-{223}{}{Ha hozzányúl ahhoz a rádióhoz, nagyon megbánja!}
-{224}{}{Bassza meg! Tudni akarja, milyen az, megbánni valamit? Van itt néhány srác, akik el tudják magyarázni a szó valódi jelentését! (babrálni kezd a rádióval)}
-{225}{}{Megölni halottra!}
-{226}{}{Mit csinálni most?}
-{227}{}{Én menni mostan.}
-{228}{}{Ez rossz húzás volt, jóember!}
-{229}{}{Mégis mi a fenét csinálsz?}
-{230}{}{Hé, már itt se vagyok!}
+{222}{}{HasznÃ¡lni rÃ¡diÃ³, nagyon megbÃ¡nni!}
+{223}{}{Ha hozzÃ¡nyÃºl ahhoz a rÃ¡diÃ³hoz, nagyon megbÃ¡nja!}
+{224}{}{Bassza meg! Tudni akarja, milyen az, megbÃ¡nni valamit? Van itt nÃ©hÃ¡ny srÃ¡c, akik el tudjÃ¡k magyarÃ¡zni a szÃ³ valÃ³di jelentÃ©sÃ©t! (babrÃ¡lni kezd a rÃ¡diÃ³val)}
+{225}{}{MegÃ¶lni halottra!}
+{226}{}{Mit csinÃ¡lni most?}
+{227}{}{Ã‰n menni mostan.}
+{228}{}{Ez rossz hÃºzÃ¡s volt, jÃ³ember!}
+{229}{}{MÃ©gis mi a fenÃ©t csinÃ¡lsz?}
+{230}{}{HÃ©, mÃ¡r itt se vagyok!}
 {231}{}{Ja, persze.}
-{232}{}{Bekapcsolja a rádióját. Fel fogja lármázni az egész bázist, hacsak nem tudod gyorsan elintézni!}
+{232}{}{Bekapcsolja a rÃ¡diÃ³jÃ¡t. Fel fogja lÃ¡rmÃ¡zni az egÃ©sz bÃ¡zist, hacsak nem tudod gyorsan elintÃ©zni!}
 {233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}
-{800}{}{Meggy?zted Christ, hogy adja meg a jelszót.}
-{810}{}{Megölted Christ, miel?tt riaszthatta volna a bázist.}
+{800}{}{Meggy?zted Christ, hogy adja meg a jelszÃ³t.}
+{810}{}{MegÃ¶lted Christ, miel?tt riaszthatta volna a bÃ¡zist.}

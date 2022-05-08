@@ -1,63 +1,63 @@
-{100}{}{Widzisz niskiego mê¿czyznê nios¹cego pokaŸnych rozmiarów ksiêgê.}
+{100}{}{Widzisz niskiego mÄ™Å¼czyznÄ™ niosÄ…cego pokaÅºnych rozmiarÃ³w ksiÄ™gÄ™.}
 {101}{}{Widzisz Josepha, zielarza.}
-{102}{}{Wiszisz niskiego mê¿czyznê z ksi¹¿k¹ zatytu³owan¹ "Zio³a i ich zastosowanie w medycynie."}
-{103}{}{Witaj, nazywam siê Joseph, jestem zielarzem. W czym mogê ci pomóc?}
-{104}{}{Mam kuku. Pomo¿e?}
-{105}{}{Moja chora. Pomo¿e?}
-{106}{}{Moja nie ma kawa³ek, pomo¿e?}
+{102}{}{Wiszisz niskiego mÄ™Å¼czyznÄ™ z ksiÄ…Å¼kÄ… zatytuÅ‚owanÄ… "ZioÅ‚a i ich zastosowanie w medycynie."}
+{103}{}{Witaj, nazywam siÄ™ Joseph, jestem zielarzem. W czym mogÄ™ ci pomÃ³c?}
+{104}{}{Mam kuku. PomoÅ¼e?}
+{105}{}{Moja chora. PomoÅ¼e?}
+{106}{}{Moja nie ma kawaÅ‚ek, pomoÅ¼e?}
 {107}{}{Ma pytanie. Tak?}
-{108}{}{Przepraszaæ, moja iœæ.}
-{109}{}{Mo¿esz coœ poradziæ na moje obra¿enia?}
-{110}{}{Nie czujê siê najlepiej. Mo¿esz mi pomóc?}
-{111}{}{Okaleczono mnie. Mo¿esz mi pomóc?}
-{112}{}{Chcê ci zadaæ kilka pytañ.}
-{113}{}{Nie, chcê siê tylko przywitaæ.}
-{114}{}{Ale¿ oczywiœcie. Hmmm. Za¿yj to. Na³o¿ê maœæ na ranê. Teraz po³ó¿ siê i odpoczywaj przez kilka godzin.}
-{115}{}{Moja dziêki. Pa.}
-{116}{}{Dziêki, doktorku. Czujê siê ju¿ du¿o lepiej.}
-{117}{}{Ale¿ oczywiœcie. Hmmm. To trochê zajmie, wiêc musisz tu u mnie przenocowaæ. Za¿yj to, wypij do dna. Wiem, ¿e smakuje ohydnie, ale po tym poczujesz siê lepiej. Teraz po³ó¿ siê. Obudzê ciê rano.}
+{108}{}{PrzepraszaÄ‡, moja iÅ›Ä‡.}
+{109}{}{MoÅ¼esz coÅ› poradziÄ‡ na moje obraÅ¼enia?}
+{110}{}{Nie czujÄ™ siÄ™ najlepiej. MoÅ¼esz mi pomÃ³c?}
+{111}{}{Okaleczono mnie. MoÅ¼esz mi pomÃ³c?}
+{112}{}{ChcÄ™ ci zadaÄ‡ kilka pytaÅ„.}
+{113}{}{Nie, chcÄ™ siÄ™ tylko przywitaÄ‡.}
+{114}{}{AleÅ¼ oczywiÅ›cie. Hmmm. ZaÅ¼yj to. NaÅ‚oÅ¼Ä™ maÅ›Ä‡ na ranÄ™. Teraz poÅ‚Ã³Å¼ siÄ™ i odpoczywaj przez kilka godzin.}
+{115}{}{Moja dziÄ™ki. Pa.}
+{116}{}{DziÄ™ki, doktorku. CzujÄ™ siÄ™ juÅ¼ duÅ¼o lepiej.}
+{117}{}{AleÅ¼ oczywiÅ›cie. Hmmm. To trochÄ™ zajmie, wiÄ™c musisz tu u mnie przenocowaÄ‡. ZaÅ¼yj to, wypij do dna. Wiem, Å¼e smakuje ohydnie, ale po tym poczujesz siÄ™ lepiej. Teraz poÅ‚Ã³Å¼ siÄ™. ObudzÄ™ ciÄ™ rano.}
 {118}{}{Moja cacy. Pa.}
-{119}{}{Dziêki. Czujê siê ju¿ lepiej.}
-{120}{}{Przykro mi, nie jestem doktorem medycyny. Nie potrafiê przeprowadziæ operacji tego typu. Lepiej bêdzie, jeœli szybko udasz siê do któregoœ z wiêkszych miast i poprosisz o pomoc chirurga. Spróbuj w Republice Nowej Kalifornii. To na wschód st¹d.}
+{119}{}{DziÄ™ki. CzujÄ™ siÄ™ juÅ¼ lepiej.}
+{120}{}{Przykro mi, nie jestem doktorem medycyny. Nie potrafiÄ™ przeprowadziÄ‡ operacji tego typu. Lepiej bÄ™dzie, jeÅ›li szybko udasz siÄ™ do ktÃ³regoÅ› z wiÄ™kszych miast i poprosisz o pomoc chirurga. SprÃ³buj w Republice Nowej Kalifornii. To na wschÃ³d stÄ…d.}
 {121}{}{Dobra. Na razie.}
-{122}{}{W porz¹dku. Dziêki.}
-{123}{}{Co chcesz wiedzieæ?}
-{124}{}{Ty uwiêzieniec?}
-{125}{}{Ty wyjœæ, kiedy chcieæ?}
+{122}{}{W porzÄ…dku. DziÄ™ki.}
+{123}{}{Co chcesz wiedzieÄ‡?}
+{124}{}{Ty uwiÄ™zieniec?}
+{125}{}{Ty wyjÅ›Ä‡, kiedy chcieÄ‡?}
 {126}{}{Co ty wie o Szpom?}
 {127}{}{Jak ci tu?}
-{128}{}{Moja iœæ ju¿}
-{129}{}{Jesteœ wiêŸniem?}
-{130}{}{Mo¿esz st¹d odejœæ, kiedy zechcesz?}
-{131}{}{Mo¿esz mi opowiedzieæ o szponach œmierci?}
-{132}{}{Jak siê tu znalaz³eœ?}
-{133}{}{Dziêki za informacje. Muszê ju¿ iœæ.}
-{134}{}{Nie, nie jestem wiêŸniem. Przebywam tu, bo jestem potrzebny. Pogodzi³em siê z faktem, ¿e wiêkszoœæ moich pacjentów to szpony œmierci.}
-{135}{}{Dobra. Pytaæ wiêcej.}
-{136}{}{Dziêki. Na razie.}
+{128}{}{Moja iÅ›Ä‡ juÅ¼}
+{129}{}{JesteÅ› wiÄ™Åºniem?}
+{130}{}{MoÅ¼esz stÄ…d odejÅ›Ä‡, kiedy zechcesz?}
+{131}{}{MoÅ¼esz mi opowiedzieÄ‡ o szponach Å›mierci?}
+{132}{}{Jak siÄ™ tu znalazÅ‚eÅ›?}
+{133}{}{DziÄ™ki za informacje. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{134}{}{Nie, nie jestem wiÄ™Åºniem. Przebywam tu, bo jestem potrzebny. PogodziÅ‚em siÄ™ z faktem, Å¼e wiÄ™kszoÅ›Ä‡ moich pacjentÃ³w to szpony Å›mierci.}
+{135}{}{Dobra. PytaÄ‡ wiÄ™cej.}
+{136}{}{DziÄ™ki. Na razie.}
 {137}{}{To bardzo szlachetne.}
 {138}{}{Rozumiem.}
-{139}{}{Trudno mi siê z tob¹ zgodziæ, ale to twój wybór.}
-{140}{}{Tak, mogê st¹d wychodziæ - i czêsto tak robiê. Nikt nie próbowa³ mnie powstrzymaæ. Od czasu do czasu muszê uzupe³niaæ zapasy zió³. Zastanawia³em siê, czy szpony œmierci œledz¹ mnie potajemnie i spróbuj¹ zatrzymaæ, gdybym zechcia³ opuœciæ je na dobre. Dlatego pewnego dnia przeprowadzi³em ma³y eksperyment.}
-{141}{}{Moja rozumie. Ju¿ iœæ.}
-{142}{}{Pytaæ wiêcej.}
-{143}{}{Du¿o zaryzykowa³eœ. Masz szczêœcie, ¿e nie zap³aci³eœ ¿yciem.}
+{139}{}{Trudno mi siÄ™ z tobÄ… zgodziÄ‡, ale to twÃ³j wybÃ³r.}
+{140}{}{Tak, mogÄ™ stÄ…d wychodziÄ‡ - i czÄ™sto tak robiÄ™. Nikt nie prÃ³bowaÅ‚ mnie powstrzymaÄ‡. Od czasu do czasu muszÄ™ uzupeÅ‚niaÄ‡ zapasy ziÃ³Å‚. ZastanawiaÅ‚em siÄ™, czy szpony Å›mierci Å›ledzÄ… mnie potajemnie i sprÃ³bujÄ… zatrzymaÄ‡, gdybym zechciaÅ‚ opuÅ›ciÄ‡ je na dobre. Dlatego pewnego dnia przeprowadziÅ‚em maÅ‚y eksperyment.}
+{141}{}{Moja rozumie. JuÅ¼ iÅ›Ä‡.}
+{142}{}{PytaÄ‡ wiÄ™cej.}
+{143}{}{DuÅ¼o zaryzykowaÅ‚eÅ›. Masz szczÄ™Å›cie, Å¼e nie zapÅ‚aciÅ‚eÅ› Å¼yciem.}
 {144}{}{Dobrze.}
-{145}{}{Dobry pomys³. Cieszê siê, ¿e wypali³.}
-{146}{}{Có¿, pomyœlmy... Szpony œmierci s¹ najwyraŸniej zmutowanymi Kameleonami Jacksona, z gatunku rogatych. Do dziœ widaæ wiele podobieñstw, ale nawet wiêcej ró¿nic. Stopieñ mutacji jest niezwykle wysoki. Ten gatunek jest bardzo inteligentny - zdolnoœci intelektualne odpowiadaj¹ mniej wiêcej oœmioletniemu dziecku. Niektóre osobniki osi¹gnê³y nawet poziom w³aœciwy dla doros³ych ludzi. Ich zdolnoœæ uczenia jest bardzo wysoka. Potrafi¹ myœleæ abstrakcyjnie.}
-{147}{}{Uch... co ty powiedzia³.}
-{148}{}{Musi ju¿ iœæ.}
+{145}{}{Dobry pomysÅ‚. CieszÄ™ siÄ™, Å¼e wypaliÅ‚.}
+{146}{}{CÃ³Å¼, pomyÅ›lmy... Szpony Å›mierci sÄ… najwyraÅºniej zmutowanymi Kameleonami Jacksona, z gatunku rogatych. Do dziÅ› widaÄ‡ wiele podobieÅ„stw, ale nawet wiÄ™cej rÃ³Å¼nic. StopieÅ„ mutacji jest niezwykle wysoki. Ten gatunek jest bardzo inteligentny - zdolnoÅ›ci intelektualne odpowiadajÄ… mniej wiÄ™cej oÅ›mioletniemu dziecku. NiektÃ³re osobniki osiÄ…gnÄ™Å‚y nawet poziom wÅ‚aÅ›ciwy dla dorosÅ‚ych ludzi. Ich zdolnoÅ›Ä‡ uczenia jest bardzo wysoka. PotrafiÄ… myÅ›leÄ‡ abstrakcyjnie.}
+{147}{}{Uch... co ty powiedziaÅ‚.}
+{148}{}{Musi juÅ¼ iÅ›Ä‡.}
 {149}{}{Yhy.}
-{150}{}{Jestem pod wra¿eniem twojej wiedzy o tych istotach.}
-{151}{}{To jakieœ straszne bzdury.}
-{152}{}{Pewnej nocy zbiera³em zio³a, kiedy nagle ktoœ zawo³a³ do mnie z ciemnoœci. 'Obserwowa³em ciê,' powiedzia³, 'i wiem, ¿e potrafisz leczyæ. Czy jesteœ oddany swojej sztuce na tyle, ¿eby uleczyæ kogoœ ci obcego? Kogoœ, kto dla wielu jest najgorszym z wrogów?'}
+{150}{}{Jestem pod wraÅ¼eniem twojej wiedzy o tych istotach.}
+{151}{}{To jakieÅ› straszne bzdury.}
+{152}{}{Pewnej nocy zbieraÅ‚em zioÅ‚a, kiedy nagle ktoÅ› zawoÅ‚aÅ‚ do mnie z ciemnoÅ›ci. 'ObserwowaÅ‚em ciÄ™,' powiedziaÅ‚, 'i wiem, Å¼e potrafisz leczyÄ‡. Czy jesteÅ› oddany swojej sztuce na tyle, Å¼eby uleczyÄ‡ kogoÅ› ci obcego? KogoÅ›, kto dla wielu jest najgorszym z wrogÃ³w?'}
 {153}{}{Ugh.}
-{154}{}{Dziêki. Moja ju¿ iœæ.}
-{155}{}{Tracisz tutaj tylko czas. Móg³byœ pomagaæ potrzebuj¹cym ludziom.}
-{156}{}{Jesteœ naprawdê wielkim cz³owiekiem. Cieszê siê, ¿e dane mi by³o ciê poznaæ.}
+{154}{}{DziÄ™ki. Moja juÅ¼ iÅ›Ä‡.}
+{155}{}{Tracisz tutaj tylko czas. MÃ³gÅ‚byÅ› pomagaÄ‡ potrzebujÄ…cym ludziom.}
+{156}{}{JesteÅ› naprawdÄ™ wielkim czÅ‚owiekiem. CieszÄ™ siÄ™, Å¼e dane mi byÅ‚o ciÄ™ poznaÄ‡.}
 {157}{}{Ciekawe.}
-{158}{}{Nie pomogê komuœ takiemu jak ty. OdejdŸ.}
-{159}{}{Wyruszy³em do innego miasta i mieszka³em tam przez tydzieñ. Kiedy wróci³em przywitano mnie serdecznie. Gruthar, przywódca stada, przyszed³ do mnie i osobiœcie podziêkowa³ mi, ¿e do nich wróci³em. Jak widzisz - jestem tu z w³asnej, nieprzymuszonej woli.}
-{160}{}{Chocia¿ nie maj¹ strun g³osowych, szpony œmierci potrafi¹ naœladowaæ ludzk¹ mowê w taki sam sposób, jak robi to papuga. Nie wiem jeszcze na jakiej zasadzie siê to odbywa. Pod wzglêdem spo³ecznym stanowi¹ nadal stado o bardzo silnie wykszta³conym kodzie zachowañ. Przewodzi im silny samiec alfa. Szpony œmierci s¹ niezwykle oddane stadu, traktuj¹c je jako jedn¹, du¿¹ rodzinê.}
-{161}{}{Maj¹ jasno okreœlone pojêcie dobra i z³a. Ca³e stado œciœle przestrzega swoistego kodeksu etyczno-moralnego. Póki co, nie zauwa¿y³em, ¿eby stosowa³y przemoc wewn¹trz stada. Nigdy nie pope³niono tu 'ciê¿kiej zbrodni,' wiêc nie wiem, jak by post¹pi³y w takiej sytuacji. Hmmm. To ju¿ chyba wszystko, czego uda³o mi siê dowiedzieæ. Mam nadziejê, ¿e ci pomog³em.}
-{162}{}{Powiedzia³em, ¿e bêdê leczy³ ka¿d¹ rann¹ istotê, niezale¿nie od tego kim lub czym jest. Myœla³em, ¿e rozmawiam z jakimœ bandyt¹, który zosta³ postrzelony i potrzebowa³ teraz pomocy lekarza. Mo¿esz sobie wyobraziæ moje przera¿enie, kiedy z mroku wy³oni³y siê sylwetki kilku szponów œmierci nios¹cych rannego kompana. Ktoœ zrobi³ z niego sito. Powiedzia³em im, ¿e nie mogê mu pomóc w tych warunkach, wiêc zawi¹zali mi oczy i przyprowadzili tutaj. I tak siê tu znalaz³em.}
+{158}{}{Nie pomogÄ™ komuÅ› takiemu jak ty. OdejdÅº.}
+{159}{}{WyruszyÅ‚em do innego miasta i mieszkaÅ‚em tam przez tydzieÅ„. Kiedy wrÃ³ciÅ‚em przywitano mnie serdecznie. Gruthar, przywÃ³dca stada, przyszedÅ‚ do mnie i osobiÅ›cie podziÄ™kowaÅ‚ mi, Å¼e do nich wrÃ³ciÅ‚em. Jak widzisz - jestem tu z wÅ‚asnej, nieprzymuszonej woli.}
+{160}{}{ChociaÅ¼ nie majÄ… strun gÅ‚osowych, szpony Å›mierci potrafiÄ… naÅ›ladowaÄ‡ ludzkÄ… mowÄ™ w taki sam sposÃ³b, jak robi to papuga. Nie wiem jeszcze na jakiej zasadzie siÄ™ to odbywa. Pod wzglÄ™dem spoÅ‚ecznym stanowiÄ… nadal stado o bardzo silnie wyksztaÅ‚conym kodzie zachowaÅ„. Przewodzi im silny samiec alfa. Szpony Å›mierci sÄ… niezwykle oddane stadu, traktujÄ…c je jako jednÄ…, duÅ¼Ä… rodzinÄ™.}
+{161}{}{MajÄ… jasno okreÅ›lone pojÄ™cie dobra i zÅ‚a. CaÅ‚e stado Å›ciÅ›le przestrzega swoistego kodeksu etyczno-moralnego. PÃ³ki co, nie zauwaÅ¼yÅ‚em, Å¼eby stosowaÅ‚y przemoc wewnÄ…trz stada. Nigdy nie popeÅ‚niono tu 'ciÄ™Å¼kiej zbrodni,' wiÄ™c nie wiem, jak by postÄ…piÅ‚y w takiej sytuacji. Hmmm. To juÅ¼ chyba wszystko, czego udaÅ‚o mi siÄ™ dowiedzieÄ‡. Mam nadziejÄ™, Å¼e ci pomogÅ‚em.}
+{162}{}{PowiedziaÅ‚em, Å¼e bÄ™dÄ™ leczyÅ‚ kaÅ¼dÄ… rannÄ… istotÄ™, niezaleÅ¼nie od tego kim lub czym jest. MyÅ›laÅ‚em, Å¼e rozmawiam z jakimÅ› bandytÄ…, ktÃ³ry zostaÅ‚ postrzelony i potrzebowaÅ‚ teraz pomocy lekarza. MoÅ¼esz sobie wyobraziÄ‡ moje przeraÅ¼enie, kiedy z mroku wyÅ‚oniÅ‚y siÄ™ sylwetki kilku szponÃ³w Å›mierci niosÄ…cych rannego kompana. KtoÅ› zrobiÅ‚ z niego sito. PowiedziaÅ‚em im, Å¼e nie mogÄ™ mu pomÃ³c w tych warunkach, wiÄ™c zawiÄ…zali mi oczy i przyprowadzili tutaj. I tak siÄ™ tu znalazÅ‚em.}

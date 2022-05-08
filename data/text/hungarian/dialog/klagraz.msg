@@ -1,3 +1,3 @@
-{100}{}{A brahminok legel?jére értél.}
+{100}{}{A brahminok legel?jÃ©re Ã©rtÃ©l.}
 {200}{}{Sikeresen megmentetted a brahminokat.}
-{202}{}{Nem sikerült segítened Torrnak megmenteni az összes brahmint.}
+{202}{}{Nem sikerÃ¼lt segÃ­tened Torrnak megmenteni az Ã¶sszes brahmint.}

@@ -1,5 +1,5 @@
-{100}{}{Por favor, não me faça mal!}
-{101}{}{Você é meu novo mestre?}
+{100}{}{Por favor, nÃ£o me faÃ§a mal!}
+{101}{}{VocÃª Ã© meu novo mestre?}
 {102}{}{Por favor, me libertar.}
 {103}{}{Eu realmente quero ser livre.}
 {104}{}{Fugir!!}

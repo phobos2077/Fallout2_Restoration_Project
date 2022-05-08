@@ -1,93 +1,93 @@
-{100}{}{Widzisz potê¿nego stra¿nika patrz¹cego na ciebie.}
+{100}{}{Widzisz potÄ™Å¼nego straÅ¼nika patrzÄ…cego na ciebie.}
 {101}{}{Widzisz jednego z ochroniarzy Ascortiego.}
-{102}{}{Widzisz kompetentnego, czujnego stra¿nika obserwuj¹cego t³um.}
-{103}{}{£apy przy sobie.}
-{104}{}{Chciwoœæ bêdzie ciê kosztowaæ.}
-{105}{}{Trzeba by³o uwa¿aæ.}
-{106}{}{Myœla³eœ, ¿e ci siê uda?}
-{107}{}{Teraz nic ju¿ nie wydasz.}
-{108}{}{Ta kradzie¿ bêdzie ciê s³ono kosztowaæ.}
-{109}{}{W³aœnie siê nudzi³em. Dziêki, przybyszu.}
-{110}{}{Zabawa siê zaczyna.}
+{102}{}{Widzisz kompetentnego, czujnego straÅ¼nika obserwujÄ…cego tÅ‚um.}
+{103}{}{Åapy przy sobie.}
+{104}{}{ChciwoÅ›Ä‡ bÄ™dzie ciÄ™ kosztowaÄ‡.}
+{105}{}{Trzeba byÅ‚o uwaÅ¼aÄ‡.}
+{106}{}{MyÅ›laÅ‚eÅ›, Å¼e ci siÄ™ uda?}
+{107}{}{Teraz nic juÅ¼ nie wydasz.}
+{108}{}{Ta kradzieÅ¼ bÄ™dzie ciÄ™ sÅ‚ono kosztowaÄ‡.}
+{109}{}{WÅ‚aÅ›nie siÄ™ nudziÅ‚em. DziÄ™ki, przybyszu.}
+{110}{}{Zabawa siÄ™ zaczyna.}
 {111}{}{Co za skurwiel. }
-{112}{}{A myœla³em, ¿e nawet ktoœ taki jak ty choæ trochê myœli.}
-{113}{}{A w³aœnie zaczyna³em siê nudziæ.}
-{114}{}{Œwietnie! Zaczyna siê zabawa!}
-{115}{}{Zatañczmy.}
+{112}{}{A myÅ›laÅ‚em, Å¼e nawet ktoÅ› taki jak ty choÄ‡ trochÄ™ myÅ›li.}
+{113}{}{A wÅ‚aÅ›nie zaczynaÅ‚em siÄ™ nudziÄ‡.}
+{114}{}{Åšwietnie! Zaczyna siÄ™ zabawa!}
+{115}{}{ZataÅ„czmy.}
 {116}{}{Gotowy?}
 {117}{}{No, dawaj.}
-{118}{}{Zobaczê, co masz w œrodku.}
-{119}{}{Ca³e szczêœcie, ¿e to nie ja bêdê sprz¹taæ twoje flaki.}
-{120}{}{Ju¿ od tygodnia nie mia³em porz¹dnej walki.}
+{118}{}{ZobaczÄ™, co masz w Å›rodku.}
+{119}{}{CaÅ‚e szczÄ™Å›cie, Å¼e to nie ja bÄ™dÄ™ sprzÄ…taÄ‡ twoje flaki.}
+{120}{}{JuÅ¼ od tygodnia nie miaÅ‚em porzÄ…dnej walki.}
 {121}{}{O tak, o taaaaaaaaaak!}
-{122}{}{Œwietnie, ¿e wpad³eœ.}
-{123}{}{Odpierdol siê od goœci.}
-{124}{}{Zobaczysz, co znaczy pe³na obs³uga.}
-{125}{}{Nie myœla³eœ chyba, ¿e atakowanie goœci ujdzie ci na sucho.}
-{126}{}{To nie ten rodzaj miejsca, o jakim myœlisz.}
+{122}{}{Åšwietnie, Å¼e wpadÅ‚eÅ›.}
+{123}{}{Odpierdol siÄ™ od goÅ›ci.}
+{124}{}{Zobaczysz, co znaczy peÅ‚na obsÅ‚uga.}
+{125}{}{Nie myÅ›laÅ‚eÅ› chyba, Å¼e atakowanie goÅ›ci ujdzie ci na sucho.}
+{126}{}{To nie ten rodzaj miejsca, o jakim myÅ›lisz.}
 {127}{}{Nie przeszkadzaj w interesach szefa.}
-{128}{}{W³aœnie zagra³eœ w koœci swoim ¿yciem i przegra³eœ.}
-{129}{}{Wygl¹da na to, ¿e przegra³eœ.}
-{130}{}{Rozerwê ciê na strzêpy za rozpoczynanie tu bójki.}
+{128}{}{WÅ‚aÅ›nie zagraÅ‚eÅ› w koÅ›ci swoim Å¼yciem i przegraÅ‚eÅ›.}
+{129}{}{WyglÄ…da na to, Å¼e przegraÅ‚eÅ›.}
+{130}{}{RozerwÄ™ ciÄ™ na strzÄ™py za rozpoczynanie tu bÃ³jki.}
 {131}{}{Ty dupku.}
-{132}{}{Po czymœ takim nie mo¿esz ujœæ z ¿yciem.}
-{133}{}{Czas usun¹æ ciê z tego puli genów.}
-{134}{}{Powinieneœ by³ pomyœleæ.}
-{135}{}{Przykro mi, ¿e do tego dosz³o.}
+{132}{}{Po czymÅ› takim nie moÅ¼esz ujÅ›Ä‡ z Å¼yciem.}
+{133}{}{Czas usunÄ…Ä‡ ciÄ™ z tego puli genÃ³w.}
+{134}{}{PowinieneÅ› byÅ‚ pomyÅ›leÄ‡.}
+{135}{}{Przykro mi, Å¼e do tego doszÅ‚o.}
 {136}{}{Ty palancie.}
-{137}{}{Musimy utrzymywaæ tu spokój.}
-{138}{}{To ciê zaboli bardziej ni¿ nas.}
-{139}{}{Teraz zap³acisz.}
-{140}{}{Kaza³em ci to od³o¿yæ. Szkoda, ¿e nie s³ucha³eœ.}
-{141}{}{Bêdziemy musieli post¹piæ z tob¹ twardo.}
-{142}{}{To naprawdê zaboli... ciebie.}
-{143}{}{Lepiej to od³ó¿.}
-{144}{}{Nie chcemy tu k³opotów, przyjacielu. Od³o¿ to.}
-{145}{}{Lepiej od³ó¿ tego gnata.}
-{146}{}{Lepiej wsadŸ to do kabury.}
-{147}{}{Od³ó¿ tê broñ.}
-{148}{}{Lepiej od³ó¿ tê broñ.}
-{149}{}{Trzymaj ³apy z daleka od broni, kiedy tu jesteœ.}
-{150}{}{Od³ó¿ tê broñ, stary.}
-{151}{}{Przykro mi, muszê ciê prosiæ o od³o¿enie tej broni.}
-{152}{}{Od³ó¿ tê broñ. Nie chcemy tu rozróby.}
-{153}{}{Po prostu utrzymujemy porz¹dek.}
-{154}{}{Zachowuj siê grzecznie.}
-{155}{}{Lepiej uwa¿aj.}
+{137}{}{Musimy utrzymywaÄ‡ tu spokÃ³j.}
+{138}{}{To ciÄ™ zaboli bardziej niÅ¼ nas.}
+{139}{}{Teraz zapÅ‚acisz.}
+{140}{}{KazaÅ‚em ci to odÅ‚oÅ¼yÄ‡. Szkoda, Å¼e nie sÅ‚uchaÅ‚eÅ›.}
+{141}{}{BÄ™dziemy musieli postÄ…piÄ‡ z tobÄ… twardo.}
+{142}{}{To naprawdÄ™ zaboli... ciebie.}
+{143}{}{Lepiej to odÅ‚Ã³Å¼.}
+{144}{}{Nie chcemy tu kÅ‚opotÃ³w, przyjacielu. OdÅ‚oÅ¼ to.}
+{145}{}{Lepiej odÅ‚Ã³Å¼ tego gnata.}
+{146}{}{Lepiej wsadÅº to do kabury.}
+{147}{}{OdÅ‚Ã³Å¼ tÄ™ broÅ„.}
+{148}{}{Lepiej odÅ‚Ã³Å¼ tÄ™ broÅ„.}
+{149}{}{Trzymaj Å‚apy z daleka od broni, kiedy tu jesteÅ›.}
+{150}{}{OdÅ‚Ã³Å¼ tÄ™ broÅ„, stary.}
+{151}{}{Przykro mi, muszÄ™ ciÄ™ prosiÄ‡ o odÅ‚oÅ¼enie tej broni.}
+{152}{}{OdÅ‚Ã³Å¼ tÄ™ broÅ„. Nie chcemy tu rozrÃ³by.}
+{153}{}{Po prostu utrzymujemy porzÄ…dek.}
+{154}{}{Zachowuj siÄ™ grzecznie.}
+{155}{}{Lepiej uwaÅ¼aj.}
 {156}{}{Ni tamuj ruchu.}
 {157}{}{Nie ma tu nic do zobaczenia.}
-{158}{}{Mi³ego dnia.}
+{158}{}{MiÅ‚ego dnia.}
 {159}{}{Witamy u Ascortiego.}
-{160}{}{Zachowuj siê przyjaŸnie.}
-{161}{}{Mi³ego dnia.}
-{162}{}{Tu, u Ascortiego, ka¿dy jest asem.}
-{163}{}{Wiêc ja im mówiê, bierzcie ³apy z mojego...}
-{164}{}{Nie s¹dzi³em, ¿e ktoœ mo¿e byæ tak g³upi.}
+{160}{}{Zachowuj siÄ™ przyjaÅºnie.}
+{161}{}{MiÅ‚ego dnia.}
+{162}{}{Tu, u Ascortiego, kaÅ¼dy jest asem.}
+{163}{}{WiÄ™c ja im mÃ³wiÄ™, bierzcie Å‚apy z mojego...}
+{164}{}{Nie sÄ…dziÅ‚em, Å¼e ktoÅ› moÅ¼e byÄ‡ tak gÅ‚upi.}
 {165}{}{Tak, to dopiero frajer.}
-{166}{}{Stary, nie czujê siê dobrze.}
-{167}{}{To specjalny goœæ Ascortiego.}
-{168}{}{Psst, wyprostuj siê, szef patrzy.}
-{169}{}{Widzisz, to by³o tak, by³o ich co najmniej dwudziestu...}
-{170}{}{Niedobrze mi po tym cieœcie z gekona.}
-{171}{}{Balowa³o siê w nocy, co?}
-{172}{}{Zawiœniesz za to.}
-{173}{}{Z³ama³eœ prawo.}
-{174}{}{Nie mo¿esz przyjœæ do naszego miasta i robiæ czegoœ takiego.}
-{175}{}{Nie mo¿esz robiæ tu czegoœ takiego.}
+{166}{}{Stary, nie czujÄ™ siÄ™ dobrze.}
+{167}{}{To specjalny goÅ›Ä‡ Ascortiego.}
+{168}{}{Psst, wyprostuj siÄ™, szef patrzy.}
+{169}{}{Widzisz, to byÅ‚o tak, byÅ‚o ich co najmniej dwudziestu...}
+{170}{}{Niedobrze mi po tym cieÅ›cie z gekona.}
+{171}{}{BalowaÅ‚o siÄ™ w nocy, co?}
+{172}{}{ZawiÅ›niesz za to.}
+{173}{}{ZÅ‚amaÅ‚eÅ› prawo.}
+{174}{}{Nie moÅ¼esz przyjÅ›Ä‡ do naszego miasta i robiÄ‡ czegoÅ› takiego.}
+{175}{}{Nie moÅ¼esz robiÄ‡ tu czegoÅ› takiego.}
 {176}{}{Nie chcemy tu takich jak ty.}
-{177}{}{Zgnieciemy ciê na miazgê.}
-{178}{}{Coœ œmierdzi w tym mieœcie i myœlê, ¿e to ty.}
-{179}{}{Czujê gówno... O, jesteœ.}
+{177}{}{Zgnieciemy ciÄ™ na miazgÄ™.}
+{178}{}{CoÅ› Å›mierdzi w tym mieÅ›cie i myÅ›lÄ™, Å¼e to ty.}
+{179}{}{CzujÄ™ gÃ³wno... O, jesteÅ›.}
 {180}{}{Spierdalaj z naszego miasta, zjebie.}
-{181}{}{Nie z³owi³em ostatnio ¿adnej g³owy.}
-{182}{}{Za to bêdziesz krwawi³.}
-{183}{}{Czy ty *naprawdê* myœla³eœ, ¿e nie zauwa¿ymy?}
-{184}{}{Nie mogê uwierzyæ, ¿e robisz coœ takiego na naszych oczach.}
-{185}{}{Uch, przepraszam bardzo, OD£Ó¯ TO GÓWNO!}
-{186}{}{Odpierdol siê od drzwi, idioto.}
+{181}{}{Nie zÅ‚owiÅ‚em ostatnio Å¼adnej gÅ‚owy.}
+{182}{}{Za to bÄ™dziesz krwawiÅ‚.}
+{183}{}{Czy ty *naprawdÄ™* myÅ›laÅ‚eÅ›, Å¼e nie zauwaÅ¼ymy?}
+{184}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e robisz coÅ› takiego na naszych oczach.}
+{185}{}{Uch, przepraszam bardzo, ODÅÃ“Å» TO GÃ“WNO!}
+{186}{}{Odpierdol siÄ™ od drzwi, idioto.}
 {187}{}{Co tu robisz?}
-{188}{}{Codziennie mniejsza jakoœæ przestêpstw. }
-{189}{}{OdejdŸ od tych drzwi.}
+{188}{}{Codziennie mniejsza jakoÅ›Ä‡ przestÄ™pstw. }
+{189}{}{OdejdÅº od tych drzwi.}
 {190}{}{Nie dotykaj tych drzwi.}
-{191}{}{OdejdŸ od tych drzwi.}
+{191}{}{OdejdÅº od tych drzwi.}
 {192}{}{Nie dotykaj tych drzwi.}

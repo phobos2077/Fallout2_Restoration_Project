@@ -1,72 +1,72 @@
 {100}{}{Ves a un hombre con una armadura. Te mira especulativamente. }
 {101}{}{Ves a Stanwell, el organizador de caravanas para la ruta Redding - RNC.}
 {102}{}{Ves a un hombre alto y musculoso con armadura. Su equipaje parece viejo pero bien cuidado.}
-{103}{}{La RNC no da la bienvenida a los desertores. Fuera de aquí.}
-{104}{}{Sabes lo que opino de los de tu calaña. Sal ya de mi vista.}
+{103}{}{La RNC no da la bienvenida a los desertores. Fuera de aquÃ­.}
+{104}{}{Sabes lo que opino de los de tu calaÃ±a. Sal ya de mi vista.}
 {105}{}{Yiii-jaa! Afuera.}
 {106}{}{Bueno, vamos a ir.}
-{107}{}{Soy Stanwell. Yo me encargo de la caravana entre Redding y la República de Nueva California. Brahmin por
- oro. Nos vendría bien un guardia extra, y estamos listos para irnos ahora mismo. }
-{108}{}{La gente me llama Stanwell. Yo me encargo de la caravana entre Redding y la República de Nueva California.
- Brahmin por oro. Siempre puedo aprovechar una o dos manos extras. Partimos de la ciudad el día 11 de cada mes.
- Si quieres apuntarte, asegúrate de estar aquí entonces.}
-{109}{}{¿Algo más?}
-{110}{}{¿Muu-muus?}
-{111}{}{Necesitas un guardia, ¿eh?}
-{112}{}{¿Qué transporta esta caravana?}
-{113}{}{¿Por qué esperáis hasta el 11?}
-{114}{}{No creo que esto sea para mí. Adiós.}
+{107}{}{Soy Stanwell. Yo me encargo de la caravana entre Redding y la RepÃºblica de Nueva California. Brahmin por
+ oro. Nos vendrÃ­a bien un guardia extra, y estamos listos para irnos ahora mismo. }
+{108}{}{La gente me llama Stanwell. Yo me encargo de la caravana entre Redding y la RepÃºblica de Nueva California.
+ Brahmin por oro. Siempre puedo aprovechar una o dos manos extras. Partimos de la ciudad el dÃ­a 11 de cada mes.
+ Si quieres apuntarte, asegÃºrate de estar aquÃ­ entonces.}
+{109}{}{Â¿Algo mÃ¡s?}
+{110}{}{Â¿Muu-muus?}
+{111}{}{Necesitas un guardia, Â¿eh?}
+{112}{}{Â¿QuÃ© transporta esta caravana?}
+{113}{}{Â¿Por quÃ© esperÃ¡is hasta el 11?}
+{114}{}{No creo que esto sea para mÃ­. AdiÃ³s.}
 {115}{}{Mierda. Odio cuando pasa eso.}
-{116}{}{Mismo trabajo. Día diferente.}
-{117}{}{Nunca hay nada fácil.}
-{118}{}{¿Donde hay un Ranger cuando lo necesitas?}
-{119}{}{Cada maldito viaje en estos días.}
-{120}{}{Eres la peor parodia de guardia que haya visto nunca. No mantendrías tu palabra aunque tu vida
+{116}{}{Mismo trabajo. DÃ­a diferente.}
+{117}{}{Nunca hay nada fÃ¡cil.}
+{118}{}{Â¿Donde hay un Ranger cuando lo necesitas?}
+{119}{}{Cada maldito viaje en estos dÃ­as.}
+{120}{}{Eres la peor parodia de guardia que haya visto nunca. No mantendrÃ­as tu palabra aunque tu vida
  dependiera de ello.}
-{121}{}{Largo de aquí. Ya deberías de saberlo.}
-{122}{}{¿Crees que recompensaría a un ladrón? Tienes suerte de que no te linchara durante el viaje.
- Por supuesto no voy a pagarte nada. Ahora fuera de aquí.}
-{123}{}{¿Un ladrón? ¿Eso te parezco? Maldito ingrato. Me voy. Adiós.}
-{124}{}{Un día de estos te arrepentirás de haberte cruzado conmigo. Adiós.}
-{125}{}{Nos han dejado tan hechos polvo ahí afuera que no tengo suficiente dinero para pagarte. Por supuesto, si tú hubieses hecho
- tu trabajo mejor, las cosas serían diferentes.}
-{126}{}{¡Bastardo asqueroso! Pagarás caro el haberme timado. Adiós.}
-{127}{}{Bien, algunas veces se tiene más suerte que otras. Esta ha sido una de esas malas veces. Adiós.}
-{128}{}{Por poco no perdimos todo lo que llevabamos...pero perdimos más de lo que puedo permitirme. Si hubieses hecho tu
- trabajo bien, te llevarías más que estos 500 dólares.}
-{129}{}{Bien, creo que poco es mejor que nada. Adiós.}
-{130}{}{¡Bastardo asqueroso! Nadie podría haber hecho un trabajo mejor. Pagarás caro el haberme timado. Adiós.}
-{131}{}{Eso no estuvo mal del todo. Aquí están tus 2.000 dólares. Vuelve si necesitas trabajo otra vez.}
-{132}{}{No creo querer volver a pasar tanto tiempo mirando el culo de un brahmin. Adiós.}
-{133}{}{No estuvo mal del todo. Hasta otra. Adiós.}
-{134}{}{Ese fue un buen viaje. Podría no haber sido de ese modo si tú no hubieses estado allí. Aquí están tus 2.000 dólares,
- más 500 extra por ese gran trabajo. Gracias de nuevo. }
-{135}{}{Es agradable encontrar a alguien que aprecia la calidad cuando la ve. Nos veremos en otra ocasión, quizás. Adiós.}
-{136}{}{Siempre contento de ganar un dinerillo extra. Gracias, y adiós.}
-{137}{}{No puedo marcharme hasta que tengamos un cargamento entero de oro. Todo estará listo para irnos el 11. Por la mañana
- es mejor. Acércate entonces si quieres el trabajo.}
+{121}{}{Largo de aquÃ­. Ya deberÃ­as de saberlo.}
+{122}{}{Â¿Crees que recompensarÃ­a a un ladrÃ³n? Tienes suerte de que no te linchara durante el viaje.
+ Por supuesto no voy a pagarte nada. Ahora fuera de aquÃ­.}
+{123}{}{Â¿Un ladrÃ³n? Â¿Eso te parezco? Maldito ingrato. Me voy. AdiÃ³s.}
+{124}{}{Un dÃ­a de estos te arrepentirÃ¡s de haberte cruzado conmigo. AdiÃ³s.}
+{125}{}{Nos han dejado tan hechos polvo ahÃ­ afuera que no tengo suficiente dinero para pagarte. Por supuesto, si tÃº hubieses hecho
+ tu trabajo mejor, las cosas serÃ­an diferentes.}
+{126}{}{Â¡Bastardo asqueroso! PagarÃ¡s caro el haberme timado. AdiÃ³s.}
+{127}{}{Bien, algunas veces se tiene mÃ¡s suerte que otras. Esta ha sido una de esas malas veces. AdiÃ³s.}
+{128}{}{Por poco no perdimos todo lo que llevabamos...pero perdimos mÃ¡s de lo que puedo permitirme. Si hubieses hecho tu
+ trabajo bien, te llevarÃ­as mÃ¡s que estos 500 dÃ³lares.}
+{129}{}{Bien, creo que poco es mejor que nada. AdiÃ³s.}
+{130}{}{Â¡Bastardo asqueroso! Nadie podrÃ­a haber hecho un trabajo mejor. PagarÃ¡s caro el haberme timado. AdiÃ³s.}
+{131}{}{Eso no estuvo mal del todo. AquÃ­ estÃ¡n tus 2.000 dÃ³lares. Vuelve si necesitas trabajo otra vez.}
+{132}{}{No creo querer volver a pasar tanto tiempo mirando el culo de un brahmin. AdiÃ³s.}
+{133}{}{No estuvo mal del todo. Hasta otra. AdiÃ³s.}
+{134}{}{Ese fue un buen viaje. PodrÃ­a no haber sido de ese modo si tÃº no hubieses estado allÃ­. AquÃ­ estÃ¡n tus 2.000 dÃ³lares,
+ mÃ¡s 500 extra por ese gran trabajo. Gracias de nuevo. }
+{135}{}{Es agradable encontrar a alguien que aprecia la calidad cuando la ve. Nos veremos en otra ocasiÃ³n, quizÃ¡s. AdiÃ³s.}
+{136}{}{Siempre contento de ganar un dinerillo extra. Gracias, y adiÃ³s.}
+{137}{}{No puedo marcharme hasta que tengamos un cargamento entero de oro. Todo estarÃ¡ listo para irnos el 11. Por la maÃ±ana
+ es mejor. AcÃ©rcate entonces si quieres el trabajo.}
 {138}{}{Necesitamos conseguir los brahmines de los asentamientos de los alrededores antes de poder irnos. Estaremos listos
  para marcharnos el 11. Ven entonces si quieres un trabajo.}
-{139}{}{¿Qué dices que transportas normalmente?}
-{140}{}{Déjame hacerte otra pregunta.}
-{141}{}{Gracias, lo haré. Adiós}
+{139}{}{Â¿QuÃ© dices que transportas normalmente?}
+{140}{}{DÃ©jame hacerte otra pregunta.}
+{141}{}{Gracias, lo harÃ©. AdiÃ³s}
 {142}{}{Normalmente buscamos guardias para las caravanas pero, como he dicho, no estaremos listos para irnos hasta el 11
- de este mes. Si todavía quieres trabajar con nosotros, vuelve entonces.}
-{143}{}{¿El día 11?}
-{144}{}{¿Qué transporta esta caravana?}
-{145}{}{Bien, gracias. Adiós.}
+ de este mes. Si todavÃ­a quieres trabajar con nosotros, vuelve entonces.}
+{143}{}{Â¿El dÃ­a 11?}
+{144}{}{Â¿QuÃ© transporta esta caravana?}
+{145}{}{Bien, gracias. AdiÃ³s.}
 {146}{}{Lo siento, amigo, ya hemos tenido suficientes malas experiencias trabajando en esta caravana.}
 {147}{}{Oh, vale.}
 {148}{}{Intercambiamos los mejores brahmines de la RNC por oro en Redding. Directo y simple: justo como
  a mi me gustan las cosas. }
-{149}{}{Comprendido. ¿Dices que necesitas guardias?}
-{150}{}{Déjame hacerte otra pregunta.}
-{151}{}{Oh, vale. Adiós.}
-{152}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga son 2.000 dólares, pero sólo
- te pago por el trabajo porque necesitamos un guardia más. ¿Listo para unirte a nosotros?}
-{153}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga son 2.000 dólares. ¿Listo para unirte a nosotros?}
-{154}{}{Suena fantástico. Estoy listo. Vámonos.}
-{155}{}{Puedo encontrar mejores formas de entretenerme que comer polvo de brahmin durante todo el día. Adiós.}
-{156}{}{Bien, aquí tienes comidas gratis y un viaje seguro. Ahora, fuera de aquí imbécil.}
-{157}{}{¿Bécil? Adiós.}
-{158}{}{¡Grrrr! ¡Quiero sangre!}
+{149}{}{Comprendido. Â¿Dices que necesitas guardias?}
+{150}{}{DÃ©jame hacerte otra pregunta.}
+{151}{}{Oh, vale. AdiÃ³s.}
+{152}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga son 2.000 dÃ³lares, pero sÃ³lo
+ te pago por el trabajo porque necesitamos un guardia mÃ¡s. Â¿Listo para unirte a nosotros?}
+{153}{}{Vienes en un buen momento. Estamos listos para irnos ahora mismo. La paga son 2.000 dÃ³lares. Â¿Listo para unirte a nosotros?}
+{154}{}{Suena fantÃ¡stico. Estoy listo. VÃ¡monos.}
+{155}{}{Puedo encontrar mejores formas de entretenerme que comer polvo de brahmin durante todo el dÃ­a. AdiÃ³s.}
+{156}{}{Bien, aquÃ­ tienes comidas gratis y un viaje seguro. Ahora, fuera de aquÃ­ imbÃ©cil.}
+{157}{}{Â¿BÃ©cil? AdiÃ³s.}
+{158}{}{Â¡Grrrr! Â¡Quiero sangre!}

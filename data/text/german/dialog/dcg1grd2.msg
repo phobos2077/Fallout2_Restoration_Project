@@ -1,4 +1,4 @@
-{100}{}{Du siehst einen Schl‰ger.}
+{100}{}{Du siehst einen Schl√§ger.}
 {101}{}{Er ist Tylers Freund.}
 {110}{}{Bist du hier um Party zu machen?}
 {111}{}{*hick* Alk geht auf mich!}

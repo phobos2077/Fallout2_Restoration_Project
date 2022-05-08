@@ -1,180 +1,180 @@
-{100}{}{Ez a ghoul egy ósdi, olajos öltözéket visel.}
-{101}{}{? Skeeter, a Ghoul m?szerész.}
-{102}{}{Egy szurtos, de intelligens kinézet? ghoulhoz van szerencséd. Olajos overallt visel, a zsebéb?l pedig egy mikrométer kandikál el?.}
-{110}{}{Jobb, ha nem nyúlsz semmihez... még megsérülsz nekem.}
-{111}{}{Azt hittem, a törzsbéliek egyszer?en csak naivak.}
-{112}{}{Hát csak figyelj, ahogy dolgozom. Talán ragad rád valami... bár kétlem.}
-{113}{}{Valami egyéb?}
-{114}{}{Csak tetteted a zazaságot, vagy tényleg ennyire hülye vagy?}
-{120}{}{Fura, hogy ezt kérded. Bizonyára tudod, hogy az autók cserélhet? üzemanyagcellákkal mennek, szóval aksit használnak üzemanyagként. Általában az üzemanyagcella-vezérl? szokott tönkremenni. Az amat?r szerel? persze azt hiszi, hogy maga az aksi, de az elhamarkodott feltételezés nem nagy segg-ítség, ugyi?}
-{121}{}{Nem értem, mire gondolsz.}
-{122}{}{Ez azt jelenti, hogy van egy üzemanyagcella-vezérl? nálad?}
-{130}{}{Ha feltételezgetünk, segghülyék maradunk. Te is, én is. Érted már? Ez ugyibár még mindig jó mondás... Hehe! Évek óta nem használtam.}
-{131}{}{Ah, kösz a leckéért. Van neked olyan üzemanyagcella-vezérl?d?}
-{140}{}{Persze, hogy van. Ehun e! Csak kéne egy kocsi, hogy belerakjam. Van autód?}
-{141}{}{Tudom, hol találok egyet. Mennyibe kerül nekem az az üzemanyagcella-vezérl??}
-{142}{}{Talán tudok szerválni. Aztán lehet, hogy túlságosan ragaszkodok hozzá. Mennyibe kerülne az az üzemanyagcella-vezérl??}
-{143}{}{Bárcsak lenne. Ha találnék egyet, tudni fogom, hova jöjjek egy új üzemanyagcella-vezérl?ért. Viszlát!}
-{144}{}{Az a helyzet, hogy volna még néhány kérdésem.}
-{150}{}{Hát a pénz az jó dolog, de valami más kéne nekem. Olyasmi, amit magam nem tudok megszerezni.}
-{151}{}{Mégpedig?}
-{160}{}{Nagyszer?! Hoztál nekem egy plazma szabályzót. Köszönöm. Ezért cserébe ingyen megcsinálok neked ezt-azt. Mihez fogjak hozzá? Elmondom, mi mennyibe került volna, de ez itt már ki van fizetve.}
-{161}{}{Nézzük, mit bütykölhetnél meg.}
-{162}{}{Szerintem most kés?bbre marad egy-két dolog. Viszlát!}
+{100}{}{Ez a ghoul egy Ã³sdi, olajos Ã¶ltÃ¶zÃ©ket visel.}
+{101}{}{? Skeeter, a Ghoul m?szerÃ©sz.}
+{102}{}{Egy szurtos, de intelligens kinÃ©zet? ghoulhoz van szerencsÃ©d. Olajos overallt visel, a zsebÃ©b?l pedig egy mikromÃ©ter kandikÃ¡l el?.}
+{110}{}{Jobb, ha nem nyÃºlsz semmihez... mÃ©g megsÃ©rÃ¼lsz nekem.}
+{111}{}{Azt hittem, a tÃ¶rzsbÃ©liek egyszer?en csak naivak.}
+{112}{}{HÃ¡t csak figyelj, ahogy dolgozom. TalÃ¡n ragad rÃ¡d valami... bÃ¡r kÃ©tlem.}
+{113}{}{Valami egyÃ©b?}
+{114}{}{Csak tetteted a zazasÃ¡got, vagy tÃ©nyleg ennyire hÃ¼lye vagy?}
+{120}{}{Fura, hogy ezt kÃ©rded. BizonyÃ¡ra tudod, hogy az autÃ³k cserÃ©lhet? Ã¼zemanyagcellÃ¡kkal mennek, szÃ³val aksit hasznÃ¡lnak Ã¼zemanyagkÃ©nt. ÃltalÃ¡ban az Ã¼zemanyagcella-vezÃ©rl? szokott tÃ¶nkremenni. Az amat?r szerel? persze azt hiszi, hogy maga az aksi, de az elhamarkodott feltÃ©telezÃ©s nem nagy segg-Ã­tsÃ©g, ugyi?}
+{121}{}{Nem Ã©rtem, mire gondolsz.}
+{122}{}{Ez azt jelenti, hogy van egy Ã¼zemanyagcella-vezÃ©rl? nÃ¡lad?}
+{130}{}{Ha feltÃ©telezgetÃ¼nk, segghÃ¼lyÃ©k maradunk. Te is, Ã©n is. Ã‰rted mÃ¡r? Ez ugyibÃ¡r mÃ©g mindig jÃ³ mondÃ¡s... Hehe! Ã‰vek Ã³ta nem hasznÃ¡ltam.}
+{131}{}{Ah, kÃ¶sz a leckÃ©Ã©rt. Van neked olyan Ã¼zemanyagcella-vezÃ©rl?d?}
+{140}{}{Persze, hogy van. Ehun e! Csak kÃ©ne egy kocsi, hogy belerakjam. Van autÃ³d?}
+{141}{}{Tudom, hol talÃ¡lok egyet. Mennyibe kerÃ¼l nekem az az Ã¼zemanyagcella-vezÃ©rl??}
+{142}{}{TalÃ¡n tudok szervÃ¡lni. AztÃ¡n lehet, hogy tÃºlsÃ¡gosan ragaszkodok hozzÃ¡. Mennyibe kerÃ¼lne az az Ã¼zemanyagcella-vezÃ©rl??}
+{143}{}{BÃ¡rcsak lenne. Ha talÃ¡lnÃ©k egyet, tudni fogom, hova jÃ¶jjek egy Ãºj Ã¼zemanyagcella-vezÃ©rl?Ã©rt. ViszlÃ¡t!}
+{144}{}{Az a helyzet, hogy volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{150}{}{HÃ¡t a pÃ©nz az jÃ³ dolog, de valami mÃ¡s kÃ©ne nekem. Olyasmi, amit magam nem tudok megszerezni.}
+{151}{}{MÃ©gpedig?}
+{160}{}{Nagyszer?! HoztÃ¡l nekem egy plazma szabÃ¡lyzÃ³t. KÃ¶szÃ¶nÃ¶m. EzÃ©rt cserÃ©be ingyen megcsinÃ¡lok neked ezt-azt. Mihez fogjak hozzÃ¡? Elmondom, mi mennyibe kerÃ¼lt volna, de ez itt mÃ¡r ki van fizetve.}
+{161}{}{NÃ©zzÃ¼k, mit bÃ¼tykÃ¶lhetnÃ©l meg.}
+{162}{}{Szerintem most kÃ©s?bbre marad egy-kÃ©t dolog. ViszlÃ¡t!}
 {170}{}{Thanks for fixin' up our atomic reactor. It shore needed some work. I woulda show'd 'em how, but
  they don't trust me in there anymore. They got that idjit loudmouth Festus doin' all the work now. }
-{171}{}{Nos, örültem, hogy segíthettem. Most azonban szükségem van valami másra.}
-{172}{}{Hát biztosan sokkal jobb lett volna, ha engednek téged hozzányúlni és megcsinálni. A lényeg viszont, hogy rendben van. Viszlát, még találkozunk.}
-{180}{}{Megszerezted a háromfázisú plazmaátalakítót számomra?}
-{181}{}{Még nem, de dolgozom rajta. Hadd kérdezzek helyette valami mást.}
-{182}{}{Még nem, de nem felejtettem el. Viszlát!}
-{190}{}{Üdv, a nevem Skeeter. Ezermesterféle lennék errefelé.}
-{191}{}{Üdv! Keres?' valamit?}
+{171}{}{Nos, Ã¶rÃ¼ltem, hogy segÃ­thettem. Most azonban szÃ¼ksÃ©gem van valami mÃ¡sra.}
+{172}{}{HÃ¡t biztosan sokkal jobb lett volna, ha engednek tÃ©ged hozzÃ¡nyÃºlni Ã©s megcsinÃ¡lni. A lÃ©nyeg viszont, hogy rendben van. ViszlÃ¡t, mÃ©g talÃ¡lkozunk.}
+{180}{}{Megszerezted a hÃ¡romfÃ¡zisÃº plazmaÃ¡talakÃ­tÃ³t szÃ¡momra?}
+{181}{}{MÃ©g nem, de dolgozom rajta. Hadd kÃ©rdezzek helyette valami mÃ¡st.}
+{182}{}{MÃ©g nem, de nem felejtettem el. ViszlÃ¡t!}
+{190}{}{Ãœdv, a nevem Skeeter. EzermesterfÃ©le lennÃ©k errefelÃ©.}
+{191}{}{Ãœdv! Keres?' valamit?}
 {192}{}{K?ne valami?}
-{200}{}{Hallottál valamit az Édenkert Létrehozást El?segít? Táskáról?}
-{201}{}{Nincs véletlenül egy akkumulátorod, amit belerakhatnék egy kocsiba?}
-{202}{}{Van nálam ez-az, amire vethetnél egy pillantást.}
-{203}{}{Mi a munkád?}
-{204}{}{Igazából csak körülnéztem. Már megyek is.}
-{210}{}{Mit bütyköljek meg?}
-{211}{}{Akarsz még valamit átnézetni? Mi legyen az?}
-{212}{}{Itt van ez a teleszkóp balhé...}
+{200}{}{HallottÃ¡l valamit az Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡rÃ³l?}
+{201}{}{Nincs vÃ©letlenÃ¼l egy akkumulÃ¡torod, amit belerakhatnÃ©k egy kocsiba?}
+{202}{}{Van nÃ¡lam ez-az, amire vethetnÃ©l egy pillantÃ¡st.}
+{203}{}{Mi a munkÃ¡d?}
+{204}{}{IgazÃ¡bÃ³l csak kÃ¶rÃ¼lnÃ©ztem. MÃ¡r megyek is.}
+{210}{}{Mit bÃ¼tykÃ¶ljek meg?}
+{211}{}{Akarsz mÃ©g valamit Ã¡tnÃ©zetni? Mi legyen az?}
+{212}{}{Itt van ez a teleszkÃ³p balhÃ©...}
 {213}{}{I've got an 'X'}
 {214}{}{I've got an 'X'}
 {215}{}{I've got an 'X'}
 {216}{}{I've got an 'X'}
-{217}{}{Kés?bb is jó lesz?}
-{218}{}{Most nincs másra szükségem. Viszlát!}
-{220}{}{Hmm, ezt a teleszkópot hozzá tudom szerelni a nálad lév? puskához.}
-{221}{}{Nos, ezt a teleszkópot hozzá tudom szerelni a nálad lév? puskák egyikéhez. Melyik legyen?}
-{222}{}{Mennyibe kerülne a teleszkóp hozzászerelése a vadászpuskámhoz?}
-{223}{}{Mennyibe kerülne a teleszkóp hozzászerelése a gépkarabélyomhoz?}
-{224}{}{Mennyibe kerülne a teleszkóp hozzászerelése a mesterlövész puskámhoz?}
-{225}{}{Hadd kérdezzek egy másik tárgyról.}
-{226}{}{Azt hiszem, ez minden, amit tudni akartam. Viszlát!}
-{230}{}{Hmm, gondoltam. Nos, az a nagy helyzet, hogy ez a [Selected partname] most kifog rajtunk. Keríts el? valami mást, hátha azzal többre jutok.}
-{231}{}{Akkor mit szólnál egy másik tárgyhoz?}
-{232}{}{Milyen alkatrészt kéne szereznem?}
-{233}{}{Asszem, visszajövök majd, ha van nálam valami más. Ég veled.}
-{240}{}{Íme. Ez most ellesz így egy jódarabig. Valami egyéb?}
-{241}{}{Hogyne, vetnél egy pillantást egy másik cuccomra?}
-{242}{}{Ez minden, amire jelen pillanatban szükségem van. Köszönet érte. Minden jót!}
-{250}{}{Hmm, nincs elég pénzed, hogy kifizesd ennek az árát. Valami másra esetleg ne nézzek rá?}
-{251}{}{Mennyibe kerülne összekombinálni valami mást?}
-{252}{}{Nem hinném, de azért kösz. Viszlát!}
-{260}{}{Id?m nagy részébe' különféle kütyükkel bíbel?dök. Szétkapom, aztán összerakom ?ket. Többnyire jobb lesz, mint az eredeti. Megspórolok egy-két el?re nem látható bajt. Tudod mire gondolok?}
-{261}{}{Szerintem igen. Hadd kérdezzek valami mást!}
-{262}{}{Asszem, én megyek is, aztán hasznossá teszem magam. Viszlát!}
-{270}{}{Az ÉLET-et keresed, mi? G?zöm sincs, hol lehetne olyan vackot találni. Azt tudom, hogy Menedékváros valszeg használt régen olyat.}
-{271}{}{Menedékvárosnak tényleg volt olyanja?}
-{272}{}{Hmm. Akkor most mást kérdeznék.}
-{273}{}{Értem, akkor jobb, ha folytatom a kutatást. Viszlát!}
-{280}{}{Volt bizony. Ezért létezik, hogy olyan mocskosul jól megy nekik. ?k maguktól nem konyítanának semmihez, de miután kijöttek a Menedékb?l, az ÉLET megmutatta, hogyan termesszenek gabonát és hogy virágoztassák fel a városukat. }
-{281}{}{Hol lehetne egy még használatlan ÉLET-hez jutni?}
-{290}{}{Hát ez fogas kérdés. Amennyire emlékszem, minden Menedékben tárolnak egy ÉLET-et. Valahol kéne találnod egy másik Menedéket.}
-{291}{}{Kösz a tanácsért. Most pedig újra jönnék a kérdéseimmel.}
-{292}{}{Hát akkor jobb, ha nem adom fel a keresést. Viszlát!}
-{300}{}{Hát nem akarlak az orrodná' vezetni, de halvány dunsztom sincs róla. Ha mindegyik rész megvan, tudni fogom, hogy kell összerakni. Gondolom, tudsz követni.}
-{301}{}{Úgy érted, kikövetkezteted, hogy m?ködik?}
-{302}{}{Akkor ránézhetnél itt valami másra...}
-{303}{}{Hát ebben bizony van ráció. Viszont nem késlekedem, és megyek az alkatrész után. Viszlát!}
-{310}{}{Hát igen. Hogyismondjamcsak... m?szaki érzék van mögötte. Igen-igen. Remélem, tudod, mire gondolok.}
-{311}{}{Nem egészen értem, de most inkább megyek, aztán beszerzek egy alkatrészt. Viszlát!}
-{312}{}{Akkor ránézhetnél itt valami másra...}
-{313}{}{Hát ebben bizony van ráció. Viszont nem késlekedem, és megyek az alkatrész után. Viszlát!}
-{320}{}{Mostanába' jó szerszámot talá'ni nehezebb, mint alkatrészhez jutni. Én magam is elfogadnék egy vadiúj szuper szerszámkészletet. Olyat, ami ragyog-csacsog.}
+{217}{}{KÃ©s?bb is jÃ³ lesz?}
+{218}{}{Most nincs mÃ¡sra szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{220}{}{Hmm, ezt a teleszkÃ³pot hozzÃ¡ tudom szerelni a nÃ¡lad lÃ©v? puskÃ¡hoz.}
+{221}{}{Nos, ezt a teleszkÃ³pot hozzÃ¡ tudom szerelni a nÃ¡lad lÃ©v? puskÃ¡k egyikÃ©hez. Melyik legyen?}
+{222}{}{Mennyibe kerÃ¼lne a teleszkÃ³p hozzÃ¡szerelÃ©se a vadÃ¡szpuskÃ¡mhoz?}
+{223}{}{Mennyibe kerÃ¼lne a teleszkÃ³p hozzÃ¡szerelÃ©se a gÃ©pkarabÃ©lyomhoz?}
+{224}{}{Mennyibe kerÃ¼lne a teleszkÃ³p hozzÃ¡szerelÃ©se a mesterlÃ¶vÃ©sz puskÃ¡mhoz?}
+{225}{}{Hadd kÃ©rdezzek egy mÃ¡sik tÃ¡rgyrÃ³l.}
+{226}{}{Azt hiszem, ez minden, amit tudni akartam. ViszlÃ¡t!}
+{230}{}{Hmm, gondoltam. Nos, az a nagy helyzet, hogy ez a [Selected partname] most kifog rajtunk. KerÃ­ts el? valami mÃ¡st, hÃ¡tha azzal tÃ¶bbre jutok.}
+{231}{}{Akkor mit szÃ³lnÃ¡l egy mÃ¡sik tÃ¡rgyhoz?}
+{232}{}{Milyen alkatrÃ©szt kÃ©ne szereznem?}
+{233}{}{Asszem, visszajÃ¶vÃ¶k majd, ha van nÃ¡lam valami mÃ¡s. Ã‰g veled.}
+{240}{}{Ãme. Ez most ellesz Ã­gy egy jÃ³darabig. Valami egyÃ©b?}
+{241}{}{Hogyne, vetnÃ©l egy pillantÃ¡st egy mÃ¡sik cuccomra?}
+{242}{}{Ez minden, amire jelen pillanatban szÃ¼ksÃ©gem van. KÃ¶szÃ¶net Ã©rte. Minden jÃ³t!}
+{250}{}{Hmm, nincs elÃ©g pÃ©nzed, hogy kifizesd ennek az Ã¡rÃ¡t. Valami mÃ¡sra esetleg ne nÃ©zzek rÃ¡?}
+{251}{}{Mennyibe kerÃ¼lne Ã¶sszekombinÃ¡lni valami mÃ¡st?}
+{252}{}{Nem hinnÃ©m, de azÃ©rt kÃ¶sz. ViszlÃ¡t!}
+{260}{}{Id?m nagy rÃ©szÃ©be' kÃ¼lÃ¶nfÃ©le kÃ¼tyÃ¼kkel bÃ­bel?dÃ¶k. SzÃ©tkapom, aztÃ¡n Ã¶sszerakom ?ket. TÃ¶bbnyire jobb lesz, mint az eredeti. MegspÃ³rolok egy-kÃ©t el?re nem lÃ¡thatÃ³ bajt. Tudod mire gondolok?}
+{261}{}{Szerintem igen. Hadd kÃ©rdezzek valami mÃ¡st!}
+{262}{}{Asszem, Ã©n megyek is, aztÃ¡n hasznossÃ¡ teszem magam. ViszlÃ¡t!}
+{270}{}{Az Ã‰LET-et keresed, mi? G?zÃ¶m sincs, hol lehetne olyan vackot talÃ¡lni. Azt tudom, hogy MenedÃ©kvÃ¡ros valszeg hasznÃ¡lt rÃ©gen olyat.}
+{271}{}{MenedÃ©kvÃ¡rosnak tÃ©nyleg volt olyanja?}
+{272}{}{Hmm. Akkor most mÃ¡st kÃ©rdeznÃ©k.}
+{273}{}{Ã‰rtem, akkor jobb, ha folytatom a kutatÃ¡st. ViszlÃ¡t!}
+{280}{}{Volt bizony. EzÃ©rt lÃ©tezik, hogy olyan mocskosul jÃ³l megy nekik. ?k maguktÃ³l nem konyÃ­tanÃ¡nak semmihez, de miutÃ¡n kijÃ¶ttek a MenedÃ©kb?l, az Ã‰LET megmutatta, hogyan termesszenek gabonÃ¡t Ã©s hogy virÃ¡goztassÃ¡k fel a vÃ¡rosukat. }
+{281}{}{Hol lehetne egy mÃ©g hasznÃ¡latlan Ã‰LET-hez jutni?}
+{290}{}{HÃ¡t ez fogas kÃ©rdÃ©s. Amennyire emlÃ©kszem, minden MenedÃ©kben tÃ¡rolnak egy Ã‰LET-et. Valahol kÃ©ne talÃ¡lnod egy mÃ¡sik MenedÃ©ket.}
+{291}{}{KÃ¶sz a tanÃ¡csÃ©rt. Most pedig Ãºjra jÃ¶nnÃ©k a kÃ©rdÃ©seimmel.}
+{292}{}{HÃ¡t akkor jobb, ha nem adom fel a keresÃ©st. ViszlÃ¡t!}
+{300}{}{HÃ¡t nem akarlak az orrodnÃ¡' vezetni, de halvÃ¡ny dunsztom sincs rÃ³la. Ha mindegyik rÃ©sz megvan, tudni fogom, hogy kell Ã¶sszerakni. Gondolom, tudsz kÃ¶vetni.}
+{301}{}{Ãšgy Ã©rted, kikÃ¶vetkezteted, hogy m?kÃ¶dik?}
+{302}{}{Akkor rÃ¡nÃ©zhetnÃ©l itt valami mÃ¡sra...}
+{303}{}{HÃ¡t ebben bizony van rÃ¡ciÃ³. Viszont nem kÃ©slekedem, Ã©s megyek az alkatrÃ©sz utÃ¡n. ViszlÃ¡t!}
+{310}{}{HÃ¡t igen. Hogyismondjamcsak... m?szaki Ã©rzÃ©k van mÃ¶gÃ¶tte. Igen-igen. RemÃ©lem, tudod, mire gondolok.}
+{311}{}{Nem egÃ©szen Ã©rtem, de most inkÃ¡bb megyek, aztÃ¡n beszerzek egy alkatrÃ©szt. ViszlÃ¡t!}
+{312}{}{Akkor rÃ¡nÃ©zhetnÃ©l itt valami mÃ¡sra...}
+{313}{}{HÃ¡t ebben bizony van rÃ¡ciÃ³. Viszont nem kÃ©slekedem, Ã©s megyek az alkatrÃ©sz utÃ¡n. ViszlÃ¡t!}
+{320}{}{MostanÃ¡ba' jÃ³ szerszÃ¡mot talÃ¡'ni nehezebb, mint alkatrÃ©szhez jutni. Ã‰n magam is elfogadnÃ©k egy vadiÃºj szuper szerszÃ¡mkÃ©szletet. Olyat, ami ragyog-csacsog.}
 {321}{}{Honnan szerezzek neked olyat?}
-{330}{}{Szerintem a legjobb hely erre Menedékváros. Nekik aztán van mindenféle szerszámuk, csak hát a büdös életbe oda nem adnák egy ghoulnak.}
-{331}{}{Ezek szerint hozzak egy ilyen szuper szerszámkészletet és cserébe nekem adod az autóalkatrészt...}
-{340}{}{Pontyosan. Ez jó biznisz lenne. Az üzemanyagcella vezérl?ért egy Szuper Szerszámkészlet.}
-{341}{}{Megegyeztünk. Viszont nem úszod meg a kérdéseimet.}
-{342}{}{Mi lenne, ha a könnyebbik végét fognám meg a dolognak, és itt helyben kinyírnálak az alkatrészért?}
-{343}{}{Azt hiszem, járok egyet, és gondolkodom rajta. Viszlát!}
-{360}{}{Hát végül is megtehetnéd. Viszont meglep? dolgok is történhetnek ám. Például kiderülhet, hogy szerény személyem szívósabb, mint gondolnád. Lehet, hogy a saját torkodat nyiszálnád el. Naon jó vagyok ám tárgyak összetákolásában. Jó dolog tudni, ha az ember képes ilyesmire, nemdebár?}
-{361}{}{Lehet, hogy igazad van. Akkor életben hagylak. A kérdéseimre viszont válaszolnod kell.}
-{362}{}{Gondolom, sokféle válasz van az agyadban. Remélem, a másvilágról is vannak elképzeléseid, mivel most épp oda foglak küldeni... nyomban.}
-{363}{}{Ezt még át kell gondolnom. Egyel?re viszlát!}
-{370}{}{Látom, sikerült szerezned egy überfasza szerszámkészletet. Király, nem igaz? Cserébe akkor odaadom az üzemanyag-cella vezérl?t.}
+{330}{}{Szerintem a legjobb hely erre MenedÃ©kvÃ¡ros. Nekik aztÃ¡n van mindenfÃ©le szerszÃ¡muk, csak hÃ¡t a bÃ¼dÃ¶s Ã©letbe oda nem adnÃ¡k egy ghoulnak.}
+{331}{}{Ezek szerint hozzak egy ilyen szuper szerszÃ¡mkÃ©szletet Ã©s cserÃ©be nekem adod az autÃ³alkatrÃ©szt...}
+{340}{}{Pontyosan. Ez jÃ³ biznisz lenne. Az Ã¼zemanyagcella vezÃ©rl?Ã©rt egy Szuper SzerszÃ¡mkÃ©szlet.}
+{341}{}{MegegyeztÃ¼nk. Viszont nem Ãºszod meg a kÃ©rdÃ©seimet.}
+{342}{}{Mi lenne, ha a kÃ¶nnyebbik vÃ©gÃ©t fognÃ¡m meg a dolognak, Ã©s itt helyben kinyÃ­rnÃ¡lak az alkatrÃ©szÃ©rt?}
+{343}{}{Azt hiszem, jÃ¡rok egyet, Ã©s gondolkodom rajta. ViszlÃ¡t!}
+{360}{}{HÃ¡t vÃ©gÃ¼l is megtehetnÃ©d. Viszont meglep? dolgok is tÃ¶rtÃ©nhetnek Ã¡m. PÃ©ldÃ¡ul kiderÃ¼lhet, hogy szerÃ©ny szemÃ©lyem szÃ­vÃ³sabb, mint gondolnÃ¡d. Lehet, hogy a sajÃ¡t torkodat nyiszÃ¡lnÃ¡d el. Naon jÃ³ vagyok Ã¡m tÃ¡rgyak Ã¶sszetÃ¡kolÃ¡sÃ¡ban. JÃ³ dolog tudni, ha az ember kÃ©pes ilyesmire, nemdebÃ¡r?}
+{361}{}{Lehet, hogy igazad van. Akkor Ã©letben hagylak. A kÃ©rdÃ©seimre viszont vÃ¡laszolnod kell.}
+{362}{}{Gondolom, sokfÃ©le vÃ¡lasz van az agyadban. RemÃ©lem, a mÃ¡svilÃ¡grÃ³l is vannak elkÃ©pzelÃ©seid, mivel most Ã©pp oda foglak kÃ¼ldeni... nyomban.}
+{363}{}{Ezt mÃ©g Ã¡t kell gondolnom. Egyel?re viszlÃ¡t!}
+{370}{}{LÃ¡tom, sikerÃ¼lt szerezned egy Ã¼berfasza szerszÃ¡mkÃ©szletet. KirÃ¡ly, nem igaz? CserÃ©be akkor odaadom az Ã¼zemanyag-cella vezÃ©rl?t.}
 {371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
-{372}{}{Áll az alku.}
+{372}{}{Ãll az alku.}
 {373}{}{Not right now. I'm holding on to this for a while. Goodbye.}
-{380}{}{Hát ez asztán üzlet volt a javából. Csak belenyomod azt a szart a verdába, és már megy is.}
-{381}{}{Hát ez asztán üzlet volt a javából. Csak belenyomod azt a szart a verdába, és már megy is. Ha gondolod, néhány dolgodat megbütykölhetek, persze ingyen...}
-{382}{}{Tényleg? Ingyen? Mit kell tennem érte?}
-{383}{}{Feltennék még kérdéseket.}
-{384}{}{Na, megyek, aztán gyorsan ki is próbálom. Viszlát!}
-{390}{}{Az a helyzet, hogy nagyon kéne nekem egy háromfázisú plazmaátalakító. Egyetlen helyr?l lehetne szerezni olyat, és az a raktárunk.}
-{391}{}{Miért nem mész, aztán kérsz egyet?}
-{400}{}{Kicsit ferde szemmel néznek rám ottan. Nem nagy ügy miatt egyébként, bárkivel megtörténhet. Így vagy úgy, többet nem mehetek a reaktor épületébe. Kell valaki, aki hoz nekem egy olyan vackot.}
-{401}{}{Hogy szerezzek neked egy plazmaátalakítót?}
-{410}{}{Szerválnod kell egy igényl?lapot. Ha megvan, add oda Jeremynek a raktárban. Bármit lehet így szerezni. Igényl?lapot Haroldtól vagy Festustól kérhetsz.}
-{411}{}{Hol találom Haroldot és Festust? Különben is csak úgy adnak nekem majd egy igényl?lapot?}
-{420}{}{Harold a városban lakik, Festus a reaktor irányító szobában, de van rá esély, hogy csak furmányosan tudsz majd hozzájutni ahhoz az igényl?laphoz, ha érted, mire gondolok...}
+{380}{}{HÃ¡t ez asztÃ¡n Ã¼zlet volt a javÃ¡bÃ³l. Csak belenyomod azt a szart a verdÃ¡ba, Ã©s mÃ¡r megy is.}
+{381}{}{HÃ¡t ez asztÃ¡n Ã¼zlet volt a javÃ¡bÃ³l. Csak belenyomod azt a szart a verdÃ¡ba, Ã©s mÃ¡r megy is. Ha gondolod, nÃ©hÃ¡ny dolgodat megbÃ¼tykÃ¶lhetek, persze ingyen...}
+{382}{}{TÃ©nyleg? Ingyen? Mit kell tennem Ã©rte?}
+{383}{}{FeltennÃ©k mÃ©g kÃ©rdÃ©seket.}
+{384}{}{Na, megyek, aztÃ¡n gyorsan ki is prÃ³bÃ¡lom. ViszlÃ¡t!}
+{390}{}{Az a helyzet, hogy nagyon kÃ©ne nekem egy hÃ¡romfÃ¡zisÃº plazmaÃ¡talakÃ­tÃ³. Egyetlen helyr?l lehetne szerezni olyat, Ã©s az a raktÃ¡runk.}
+{391}{}{MiÃ©rt nem mÃ©sz, aztÃ¡n kÃ©rsz egyet?}
+{400}{}{Kicsit ferde szemmel nÃ©znek rÃ¡m ottan. Nem nagy Ã¼gy miatt egyÃ©bkÃ©nt, bÃ¡rkivel megtÃ¶rtÃ©nhet. Ãgy vagy Ãºgy, tÃ¶bbet nem mehetek a reaktor Ã©pÃ¼letÃ©be. Kell valaki, aki hoz nekem egy olyan vackot.}
+{401}{}{Hogy szerezzek neked egy plazmaÃ¡talakÃ­tÃ³t?}
+{410}{}{SzervÃ¡lnod kell egy igÃ©nyl?lapot. Ha megvan, add oda Jeremynek a raktÃ¡rban. BÃ¡rmit lehet Ã­gy szerezni. IgÃ©nyl?lapot HaroldtÃ³l vagy FestustÃ³l kÃ©rhetsz.}
+{411}{}{Hol talÃ¡lom Haroldot Ã©s Festust? KÃ¼lÃ¶nben is csak Ãºgy adnak nekem majd egy igÃ©nyl?lapot?}
+{420}{}{Harold a vÃ¡rosban lakik, Festus a reaktor irÃ¡nyÃ­tÃ³ szobÃ¡ban, de van rÃ¡ esÃ©ly, hogy csak furmÃ¡nyosan tudsz majd hozzÃ¡jutni ahhoz az igÃ©nyl?laphoz, ha Ã©rted, mire gondolok...}
 {421}{}{El kell lopnom?}
-{430}{}{Hát igen. Megkérheted ?ket, hogy adjanak, de nem nagy esélyt látok erre.}
-{431}{}{Na, akkor majd meglátjuk, mire megyünk.}
-{432}{}{Ebben én nem akarok részt venni. Viszlát!}
-{440}{}{Azért jöttél, hogy ledolgoztasd az ígéretem?}
-{441}{}{Azért. Nézzük, mit tudsz kitalálni nekem.}
-{442}{}{Még nem. Csak beugrottam, hogy lássam, itt vagy-e. Megyek is...}
-{450}{}{Bocs. Semmid nincs, amivel használhatnám ezt. Bármi egyéb?}
-{451}{}{Nézz még rá a tárgyaimra.}
-{452}{}{Ennyi volna. Viszlát!}
-{460}{}{Nézzük csak. Ez bizony [Cost of combining item a with item b] dollárba fog kerülni. Benne vagy?}
-{461}{}{Hogyne. Kösz.}
-{462}{}{Most kihagynám. Nézzünk valami mást.}
-{463}{}{Asszem, most jobb, ha kihagyjuk ezt a bütykölést. Viszlát!}
-{470}{}{Amit én összerakok, az össze van rakva. Többé szét nem szeded, hogy máshova felhasználd. Jobb, ha els?re jól döntesz.}
-{471}{}{Rendben, értem. Akkor nézz rá a tárgyaimra!}
-{472}{}{Asszem, most jobb, ha kihagyjuk ezt a bütykölést. Viszlát!}
-{500}{}{Azon törtem a fejem, hol a nyavalyában lehet a szerszámkészletem. Te azt mondtad, szerzel nekem egyet. Anélkül mozdulni sem tudok, sajnálom. Menedékvárosban egy csomót találsz.}
-{501}{}{Visszajövök, ha sikerült szereznem egyet. Viszlát!}
-{502}{}{Most nem veszem igénybe a segítségedet... Kés?bb találkozunk..}
-{600}{}{Mit bütyköljek meg?}
-{601}{}{Van itt egy pisztoly nálam és arra gondoltam...}
-{602}{}{Eléggé úgy néz ki, mintha ide lehetne barkácsolni valami kiegészít?t erre a hosszú puskára.}
-{603}{}{Néha szeretem, ha az én igényeim szerint vannak kialakítva a dolgok. Tudsz csinálni valamit ezzel a brutál közelharc fegyverrel?}
-{604}{}{Ööö, talán máskor. Inkább kérdeznék még...}
-{605}{}{Most nincs másra szükségem. Viszlát!}
-{610}{}{[Egy pillantást vet a magnumodra.] Arra a magnumra rá tudnék szerelni egy gyors-utántölt?t. Az ára }
-{611}{}{Hmm, az a Desert Eagle egész jól mutatna egy kib?vített tárral. Az ára }
-{612}{}{Rakd rá a magnumomra a gyors-utántölt?t.}
-{613}{}{Jöhet a tárb?vít? a Desert Eagle-re.}
-{614}{}{Igazából valami másra gondoltam...}
-{615}{}{Hmm, volna néhány kérdésem inkább.}
-{616}{}{Talán kés?bb visszanézek.}
-{617}{}{Ez túl sokba kerül. Visszajövök, ha megszedtem magam.}
-{620}{}{[Skeeter megtanulmányozza a hosszú fegyveredet és lassan bólogat.] }
-{621}{}{Rárakhatok a vadászpuskádra egy id?járásálló távcsövet. Az ára }
-{622}{}{Egy gépkarabély semmit nem ér kib?vített tár nélkül. Ha akarod megcsinálom. Az ára }
-{623}{}{Az az FN FAL jó kis fegyver. Van hozzá egy jó kis éjjellátóm. Az ára }
-{624}{}{Legyen... szerelj rá egy teleszkópot a Colt vadászpuskára.}
-{625}{}{Rendben, tegyél egy tárb?vít?t az AK-112 gépkarabélyra.}
-{626}{}{Jöhet az éjjellátó az FN FAL-ra.}
-{627}{}{Ez túl sokba kerül. Visszajövök, ha megszedtem magam.}
-{630}{}{Fel akarod turbózni azt a kis fegyvert? Mit szólnál egy "túltölt?höz" ? Az ára }
+{430}{}{HÃ¡t igen. MegkÃ©rheted ?ket, hogy adjanak, de nem nagy esÃ©lyt lÃ¡tok erre.}
+{431}{}{Na, akkor majd meglÃ¡tjuk, mire megyÃ¼nk.}
+{432}{}{Ebben Ã©n nem akarok rÃ©szt venni. ViszlÃ¡t!}
+{440}{}{AzÃ©rt jÃ¶ttÃ©l, hogy ledolgoztasd az Ã­gÃ©retem?}
+{441}{}{AzÃ©rt. NÃ©zzÃ¼k, mit tudsz kitalÃ¡lni nekem.}
+{442}{}{MÃ©g nem. Csak beugrottam, hogy lÃ¡ssam, itt vagy-e. Megyek is...}
+{450}{}{Bocs. Semmid nincs, amivel hasznÃ¡lhatnÃ¡m ezt. BÃ¡rmi egyÃ©b?}
+{451}{}{NÃ©zz mÃ©g rÃ¡ a tÃ¡rgyaimra.}
+{452}{}{Ennyi volna. ViszlÃ¡t!}
+{460}{}{NÃ©zzÃ¼k csak. Ez bizony [Cost of combining item a with item b] dollÃ¡rba fog kerÃ¼lni. Benne vagy?}
+{461}{}{Hogyne. KÃ¶sz.}
+{462}{}{Most kihagynÃ¡m. NÃ©zzÃ¼nk valami mÃ¡st.}
+{463}{}{Asszem, most jobb, ha kihagyjuk ezt a bÃ¼tykÃ¶lÃ©st. ViszlÃ¡t!}
+{470}{}{Amit Ã©n Ã¶sszerakok, az Ã¶ssze van rakva. TÃ¶bbÃ© szÃ©t nem szeded, hogy mÃ¡shova felhasznÃ¡ld. Jobb, ha els?re jÃ³l dÃ¶ntesz.}
+{471}{}{Rendben, Ã©rtem. Akkor nÃ©zz rÃ¡ a tÃ¡rgyaimra!}
+{472}{}{Asszem, most jobb, ha kihagyjuk ezt a bÃ¼tykÃ¶lÃ©st. ViszlÃ¡t!}
+{500}{}{Azon tÃ¶rtem a fejem, hol a nyavalyÃ¡ban lehet a szerszÃ¡mkÃ©szletem. Te azt mondtad, szerzel nekem egyet. AnÃ©lkÃ¼l mozdulni sem tudok, sajnÃ¡lom. MenedÃ©kvÃ¡rosban egy csomÃ³t talÃ¡lsz.}
+{501}{}{VisszajÃ¶vÃ¶k, ha sikerÃ¼lt szereznem egyet. ViszlÃ¡t!}
+{502}{}{Most nem veszem igÃ©nybe a segÃ­tsÃ©gedet... KÃ©s?bb talÃ¡lkozunk..}
+{600}{}{Mit bÃ¼tykÃ¶ljek meg?}
+{601}{}{Van itt egy pisztoly nÃ¡lam Ã©s arra gondoltam...}
+{602}{}{ElÃ©ggÃ© Ãºgy nÃ©z ki, mintha ide lehetne barkÃ¡csolni valami kiegÃ©szÃ­t?t erre a hosszÃº puskÃ¡ra.}
+{603}{}{NÃ©ha szeretem, ha az Ã©n igÃ©nyeim szerint vannak kialakÃ­tva a dolgok. Tudsz csinÃ¡lni valamit ezzel a brutÃ¡l kÃ¶zelharc fegyverrel?}
+{604}{}{Ã–Ã¶Ã¶, talÃ¡n mÃ¡skor. InkÃ¡bb kÃ©rdeznÃ©k mÃ©g...}
+{605}{}{Most nincs mÃ¡sra szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{610}{}{[Egy pillantÃ¡st vet a magnumodra.] Arra a magnumra rÃ¡ tudnÃ©k szerelni egy gyors-utÃ¡ntÃ¶lt?t. Az Ã¡ra }
+{611}{}{Hmm, az a Desert Eagle egÃ©sz jÃ³l mutatna egy kib?vÃ­tett tÃ¡rral. Az Ã¡ra }
+{612}{}{Rakd rÃ¡ a magnumomra a gyors-utÃ¡ntÃ¶lt?t.}
+{613}{}{JÃ¶het a tÃ¡rb?vÃ­t? a Desert Eagle-re.}
+{614}{}{IgazÃ¡bÃ³l valami mÃ¡sra gondoltam...}
+{615}{}{Hmm, volna nÃ©hÃ¡ny kÃ©rdÃ©sem inkÃ¡bb.}
+{616}{}{TalÃ¡n kÃ©s?bb visszanÃ©zek.}
+{617}{}{Ez tÃºl sokba kerÃ¼l. VisszajÃ¶vÃ¶k, ha megszedtem magam.}
+{620}{}{[Skeeter megtanulmÃ¡nyozza a hosszÃº fegyveredet Ã©s lassan bÃ³logat.] }
+{621}{}{RÃ¡rakhatok a vadÃ¡szpuskÃ¡dra egy id?jÃ¡rÃ¡sÃ¡llÃ³ tÃ¡vcsÃ¶vet. Az Ã¡ra }
+{622}{}{Egy gÃ©pkarabÃ©ly semmit nem Ã©r kib?vÃ­tett tÃ¡r nÃ©lkÃ¼l. Ha akarod megcsinÃ¡lom. Az Ã¡ra }
+{623}{}{Az az FN FAL jÃ³ kis fegyver. Van hozzÃ¡ egy jÃ³ kis Ã©jjellÃ¡tÃ³m. Az Ã¡ra }
+{624}{}{Legyen... szerelj rÃ¡ egy teleszkÃ³pot a Colt vadÃ¡szpuskÃ¡ra.}
+{625}{}{Rendben, tegyÃ©l egy tÃ¡rb?vÃ­t?t az AK-112 gÃ©pkarabÃ©lyra.}
+{626}{}{JÃ¶het az Ã©jjellÃ¡tÃ³ az FN FAL-ra.}
+{627}{}{Ez tÃºl sokba kerÃ¼l. VisszajÃ¶vÃ¶k, ha megszedtem magam.}
+{630}{}{Fel akarod turbÃ³zni azt a kis fegyvert? Mit szÃ³lnÃ¡l egy "tÃºltÃ¶lt?hÃ¶z" ? Az Ã¡ra }
 {631}{}{Hogyne.}
 {640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
  eye.] Well, this is a mite challengin', but I think I can fix this up real nice
  for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
  workbench and locks it in a really big vise.]}
-{641}{}{Oké.}
+{641}{}{OkÃ©.}
 {650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
  don't know exactly what he's doing but that weird chuckle and all the pounding are
  making you nervous.]}
-{651}{}{Várakozol...}
-{660}{}{[Az id? egyre csak múlik, közben pedig egy pillanatig sem sz?nik a kopácsolás meg a kuncogás.]}
-{661}{}{[Szórakozottan fütyörészel, és árnyjátékot játszol Skeeter m?helyének falán...]}
-{670}{}{Na, készen is vagyunk. [Ahogy Skeeter leveszi a fegyvert a munkapadról, hirtelen felriadsz és észreveszed, hogy egy rakás fényes, fémalkatrész hever szanaszét. Átveszed a fegyvert.] Ennek most úgy kell m?ködnie, mint a kisangyal. Próbáld ki!}
-{671}{}{Köszönöm. Esetleg más fegyveremre is ránéznél?}
-{672}{}{Köszönet érte, Skeeter. Hadd kérdezzek valamit azért...}
-{673}{}{Köszönet érte, Skeeter. Megyek és kipróbálom.}
-{680}{}{[Észreveszi a magnum revolveredet.] Ingyen rá tudnék rakni egy gyors-utántölt?t a magnumodra.}
-{681}{}{Hmm, az a Desert Eagle egész jól mutatna egy kib?vített tárral. Ingyen megszámítom.}
-{682}{}{Arra a vadászpuskára ingyen rászerelhetek egy id?járásálló teleszkópot.}
-{683}{}{Egy gépkarabély semmit nem ér kib?vített tár nélkül. Ingyen megcsinálom, ha akarod.}
-{684}{}{Az az FN FAL jó fegyver. Van hozzá egy éjjellátóm. Ingyen a tied lehet.}
-{685}{}{Fel akarod turbózni azt a közelharci fegyvert? Ingyen rárakok egy "túltölt?t", ha beleegyezel.}
-{700}{}{Leszállítottad az alkatrészt Skeeter számára.}
-{710}{}{Meghoztad a Skeeter által h?n vágyott szerszámkészletet.}
+{651}{}{VÃ¡rakozol...}
+{660}{}{[Az id? egyre csak mÃºlik, kÃ¶zben pedig egy pillanatig sem sz?nik a kopÃ¡csolÃ¡s meg a kuncogÃ¡s.]}
+{661}{}{[SzÃ³rakozottan fÃ¼tyÃ¶rÃ©szel, Ã©s Ã¡rnyjÃ¡tÃ©kot jÃ¡tszol Skeeter m?helyÃ©nek falÃ¡n...]}
+{670}{}{Na, kÃ©szen is vagyunk. [Ahogy Skeeter leveszi a fegyvert a munkapadrÃ³l, hirtelen felriadsz Ã©s Ã©szreveszed, hogy egy rakÃ¡s fÃ©nyes, fÃ©malkatrÃ©sz hever szanaszÃ©t. Ãtveszed a fegyvert.] Ennek most Ãºgy kell m?kÃ¶dnie, mint a kisangyal. PrÃ³bÃ¡ld ki!}
+{671}{}{KÃ¶szÃ¶nÃ¶m. Esetleg mÃ¡s fegyveremre is rÃ¡nÃ©znÃ©l?}
+{672}{}{KÃ¶szÃ¶net Ã©rte, Skeeter. Hadd kÃ©rdezzek valamit azÃ©rt...}
+{673}{}{KÃ¶szÃ¶net Ã©rte, Skeeter. Megyek Ã©s kiprÃ³bÃ¡lom.}
+{680}{}{[Ã‰szreveszi a magnum revolveredet.] Ingyen rÃ¡ tudnÃ©k rakni egy gyors-utÃ¡ntÃ¶lt?t a magnumodra.}
+{681}{}{Hmm, az a Desert Eagle egÃ©sz jÃ³l mutatna egy kib?vÃ­tett tÃ¡rral. Ingyen megszÃ¡mÃ­tom.}
+{682}{}{Arra a vadÃ¡szpuskÃ¡ra ingyen rÃ¡szerelhetek egy id?jÃ¡rÃ¡sÃ¡llÃ³ teleszkÃ³pot.}
+{683}{}{Egy gÃ©pkarabÃ©ly semmit nem Ã©r kib?vÃ­tett tÃ¡r nÃ©lkÃ¼l. Ingyen megcsinÃ¡lom, ha akarod.}
+{684}{}{Az az FN FAL jÃ³ fegyver. Van hozzÃ¡ egy Ã©jjellÃ¡tÃ³m. Ingyen a tied lehet.}
+{685}{}{Fel akarod turbÃ³zni azt a kÃ¶zelharci fegyvert? Ingyen rÃ¡rakok egy "tÃºltÃ¶lt?t", ha beleegyezel.}
+{700}{}{LeszÃ¡llÃ­tottad az alkatrÃ©szt Skeeter szÃ¡mÃ¡ra.}
+{710}{}{Meghoztad a Skeeter Ã¡ltal h?n vÃ¡gyott szerszÃ¡mkÃ©szletet.}
 {5500}{}{ vagyok.}

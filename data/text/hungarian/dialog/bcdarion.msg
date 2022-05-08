@@ -1,5 +1,5 @@
-{100}{}{Egy id?sebb férfit látsz.}
-{101}{}{? Darion, az Új Khan banda vezére.}
-{102}{}{Egy id?s férfit látsz. Ritkuló, ?szes haja van, de a korához képest igen jól tartja magát.}
-{103}{}{Á, végre, hogy itt vagy. A lecsúszottak védelmez?je, a rosszak megregulázója, az emberiség reményének zászlója. Micsoda egy seggfej! Miel?tt bármiféle unalmas szónoklatba belekezdenél, csak annyit szeretnék mondani, hogy kibaszottul nem érdekel! Fogjuk rövidre a dolgot! Rosszkutya, öld meg!}
-{104}{}{Megbeszéltük.}
+{100}{}{Egy id?sebb fÃ©rfit lÃ¡tsz.}
+{101}{}{? Darion, az Ãšj Khan banda vezÃ©re.}
+{102}{}{Egy id?s fÃ©rfit lÃ¡tsz. RitkulÃ³, ?szes haja van, de a korÃ¡hoz kÃ©pest igen jÃ³l tartja magÃ¡t.}
+{103}{}{Ã, vÃ©gre, hogy itt vagy. A lecsÃºszottak vÃ©delmez?je, a rosszak megregulÃ¡zÃ³ja, az emberisÃ©g remÃ©nyÃ©nek zÃ¡szlÃ³ja. Micsoda egy seggfej! Miel?tt bÃ¡rmifÃ©le unalmas szÃ³noklatba belekezdenÃ©l, csak annyit szeretnÃ©k mondani, hogy kibaszottul nem Ã©rdekel! Fogjuk rÃ¶vidre a dolgot! Rosszkutya, Ã¶ld meg!}
+{104}{}{MegbeszÃ©ltÃ¼k.}

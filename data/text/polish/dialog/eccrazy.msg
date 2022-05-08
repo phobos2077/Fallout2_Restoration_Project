@@ -1,5 +1,5 @@
-{100}{}{Widzisz 渨ira.}
-{101}{}{Mmmm.... m髗zzggg.}
-{102}{}{Dajcie wi阠ej podr罂nik體!}
+{100}{}{Widzisz 艣wira.}
+{101}{}{Mmmm.... m贸zzzggg.}
+{102}{}{Dajcie wi臋cej podr贸偶nik贸w!}
 {103}{}{Aaarrrgh...}
-{104}{}{Niech ten b髄 odejdzie.}
+{104}{}{Niech ten b贸l odejdzie.}

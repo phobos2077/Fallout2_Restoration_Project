@@ -1,2 +1,2 @@
-{100}{}{Okazuje siÍ, øe na pÛ≥noc od RNK jest kilka Baz StraønikÛw RNK. Zaznaczasz ich po≥oøenie w PipBoyu.}
-{101}{}{Po≥oøenie Baz StraønikÛw RNK jest juø w PipBoyu.}
+{100}{}{Okazuje siƒô, ≈ºe na p√≥≈Çnoc od RNK jest kilka Baz Stra≈ºnik√≥w RNK. Zaznaczasz ich po≈Ço≈ºenie w PipBoyu.}
+{101}{}{Po≈Ço≈ºenie Baz Stra≈ºnik√≥w RNK jest ju≈º w PipBoyu.}

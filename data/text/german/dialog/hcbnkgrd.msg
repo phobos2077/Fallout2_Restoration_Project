@@ -1,60 +1,60 @@
-{100}{}{Du siehst einen großen stämmigen Mutanten, der aussieht, als habe er eine Mission.}
-{101}{}{Du siehst einen der Wächter der Bank, einen großen und hartgesottenen Mutanten.}
-{102}{}{Du siehst einen schwer bewaffneten, wachsamen Wächter. Einen Mutant mit einer bösartig
+{100}{}{Du siehst einen groÃŸen stÃ¤mmigen Mutanten, der aussieht, als habe er eine Mission.}
+{101}{}{Du siehst einen der WÃ¤chter der Bank, einen groÃŸen und hartgesottenen Mutanten.}
+{102}{}{Du siehst einen schwer bewaffneten, wachsamen WÃ¤chter. Einen Mutant mit einer bÃ¶sartig
  aussehenden Waffe.}
-{103}{}{Kann ich etwas für dich tun?}
+{103}{}{Kann ich etwas fÃ¼r dich tun?}
 {104}{}{Agga agga!}
-{105}{}{Ich in Gebäude! Uuooh!}
+{105}{}{Ich in GebÃ¤ude! Uuooh!}
 {106}{}{Schau mich nur 'n bisschen um.}
-{107}{}{Ähm...eigentlich nicht, danke.}
+{107}{}{Ã„hm...eigentlich nicht, danke.}
 {108}{}{Ja. Ich bin hier, um mit deinen Gefangenen zu sprechen.}
-{109}{}{Hast du schon mal daran gedacht, dass ihr die Gefangenen vielleicht unrechtmäßig
+{109}{}{Hast du schon mal daran gedacht, dass ihr die Gefangenen vielleicht unrechtmÃ¤ÃŸig
  festhaltet?}
 {110}{}{Oh toll, noch so einer. Geh bitte weg.}
 {111}{}{Aaaaahn!}
 {112}{}{O-K!}
 {113}{}{Ja ja, such woanders. Wir haben Kriminelle hier. Hau ab.}
 {114}{}{Oh. Alles klar.}
-{115}{}{Wir können allen helfen, die aus einem bestimmten Grund hierher kommen. Wenn wir dir
- nicht helfen können, musst du gehen. Also geh besser, bevor wir dir helfen.}
+{115}{}{Wir kÃ¶nnen allen helfen, die aus einem bestimmten Grund hierher kommen. Wenn wir dir
+ nicht helfen kÃ¶nnen, musst du gehen. Also geh besser, bevor wir dir helfen.}
 {116}{}{Wollt ihr mich zwingen?}
 {117}{}{Kapiert.}
 {118}{}{Du willst also mit ihnen reden, was? Dann red doch mit uns. Was hast du zu sagen?}
-{119}{}{Habt ihr schon mal bedacht, dass ihr sie unrechtmäßig festhaltet?}
+{119}{}{Habt ihr schon mal bedacht, dass ihr sie unrechtmÃ¤ÃŸig festhaltet?}
 {120}{}{Probier das mal, Mutie!}
 {121}{}{Nichts. Ich gehe jetzt.}
-{122}{}{Ähh...was meinst du damit?}
-{123}{}{Ich meine, dass sie keine Verbrechen begangen haben außer dem, was sie gesagt haben. Sie
- haben nur schlecht über Mutanten gesprochen. Ich sage nicht, dass sie keine Verbrechen begehen
- werden...aber möchtest du für ein Verbrechen festgehalten werden, das du VIELLEICHT noch
+{122}{}{Ã„hh...was meinst du damit?}
+{123}{}{Ich meine, dass sie keine Verbrechen begangen haben auÃŸer dem, was sie gesagt haben. Sie
+ haben nur schlecht Ã¼ber Mutanten gesprochen. Ich sage nicht, dass sie keine Verbrechen begehen
+ werden...aber mÃ¶chtest du fÃ¼r ein Verbrechen festgehalten werden, das du VIELLEICHT noch
  begehst?}
 {124}{}{Macht bestimmt die Gesetze. Und ich habe die Macht. Genau hier.}
-{125}{}{Nein, möchte ich nicht, aber sie sind eindeutig gefährlich.}
+{125}{}{Nein, mÃ¶chte ich nicht, aber sie sind eindeutig gefÃ¤hrlich.}
 {126}{}{Sie sind so lange unschuldig, bis sie ein Verbrechen begehen. So lange sie nicht ihre
- Pläne abgeschlossen und mit der Ausführung begonnen haben, sind sie nicht schuldig. Stimmt's?}
-{127}{}{Gefährlich? Ich bin gefährlich. Du bist gefährlich. Wir sind auch nicht im Gefängnis.}
+ PlÃ¤ne abgeschlossen und mit der AusfÃ¼hrung begonnen haben, sind sie nicht schuldig. Stimmt's?}
+{127}{}{GefÃ¤hrlich? Ich bin gefÃ¤hrlich. Du bist gefÃ¤hrlich. Wir sind auch nicht im GefÃ¤ngnis.}
 {128}{}{Na und?}
-{129}{}{Aber...na gut. Sie sind frei. Du bist dafür verantwortlich. Ich hoffe nur, dass du recht
- hast. Hier ist der Schlüssel.}
-{130}{}{Mehr wollte ich ja gar nicht. Super, danke. Tschüss denn.}
-{131}{}{Ja gut, wären wir aber vielleicht besser. Im Moment sind sie drin. Und da bleiben sie
+{129}{}{Aber...na gut. Sie sind frei. Du bist dafÃ¼r verantwortlich. Ich hoffe nur, dass du recht
+ hast. Hier ist der SchlÃ¼ssel.}
+{130}{}{Mehr wollte ich ja gar nicht. Super, danke. TschÃ¼ss denn.}
+{131}{}{Ja gut, wÃ¤ren wir aber vielleicht besser. Im Moment sind sie drin. Und da bleiben sie
  auch, bis mir jemand einen besseren Grund gibt, sie freizulassen. Jetzt hau ab.}
 {132}{}{Nein.}
 {133}{}{Also gut.}
-{134}{}{Sie bleiben vorläufig im Gefängnis. Wir müssen die Gesellschaft schützen. Hau jetzt ab.}
+{134}{}{Sie bleiben vorlÃ¤ufig im GefÃ¤ngnis. Wir mÃ¼ssen die Gesellschaft schÃ¼tzen. Hau jetzt ab.}
 {135}{}{Nein.}
 {136}{}{Also gut.}
-{137}{}{He du! Was machst du denn da? Hau bloß hier ab!}
+{137}{}{He du! Was machst du denn da? Hau bloÃŸ hier ab!}
 {138}{}{Du wirst deine Waffen jetzt hinlegen, Alter.}
 {139}{}{Du schon wieder? Brauchst du etwas?}
 {140}{}{Schau mich nur 'n bisschen um.}
-{141}{}{Ähm...eigentlich nicht, danke.}
+{141}{}{Ã„hm...eigentlich nicht, danke.}
 {142}{}{Ja. Ich bin hier, um mit deinen Gefangenen zu sprechen.}
-{143}{}{Hast du schon mal daran gedacht, dass ihr die Gefangenen vielleicht unrechtmäßig
+{143}{}{Hast du schon mal daran gedacht, dass ihr die Gefangenen vielleicht unrechtmÃ¤ÃŸig
  festhaltet?}
-{144}{}{Du solltest hier nicht rumhängen. Geh jetzt.}
+{144}{}{Du solltest hier nicht rumhÃ¤ngen. Geh jetzt.}
 {145}{}{Wenn ich jemals herausfinden sollte, wer diese verdammten Knackies freigelassen hat, wird
  er es schwer bereuen.}
 {150}{}{But... but... all right. They're out. You're accountable. I just hope you're right. Here is the... Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
 {151}{}{Also gut.}
-{152}{}{Ich habe dir diesen Schlüssel tatsächlich weggenommen. Was wirst du dagegen unternehmen?}
+{152}{}{Ich habe dir diesen SchlÃ¼ssel tatsÃ¤chlich weggenommen. Was wirst du dagegen unternehmen?}

@@ -1,1 +1,1 @@
-{100}{}{Du hast den Sicherheitsschlüssel für den Tanker erhalten.}
+{100}{}{Du hast den SicherheitsschlÃ¼ssel fÃ¼r den Tanker erhalten.}

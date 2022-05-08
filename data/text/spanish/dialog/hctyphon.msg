@@ -1,171 +1,171 @@
-{100}{}{Ves a un viejo necrófago.}
+{100}{}{Ves a un viejo necrÃ³fago.}
 {101}{}{Ves a Typhon, hijo de Set.}
-{102}{}{Ves a un viejo necrófago con un brillo de inteligencia en sus ojos.}
-{103}{}{¡Muy buenas, chavalote, y bienvenido al Hogar del Viejo Necrófago!}
-{104}{}{¿H-hogar viejo?}
-{105}{}{¿Hogar del Viejo Necrófago?}
-{106}{}{¿Quién eres?}
-{107}{}{Oye, ¿has oído hablar de un GECK?}
-{108}{}{Adiós.}
-{109}{}{Otro bebé del Yermo, ¿eh? Oye, chico, ¿quieres saber un secreto?}
-{110}{}{¡S-sí!}
+{102}{}{Ves a un viejo necrÃ³fago con un brillo de inteligencia en sus ojos.}
+{103}{}{Â¡Muy buenas, chavalote, y bienvenido al Hogar del Viejo NecrÃ³fago!}
+{104}{}{Â¿H-hogar viejo?}
+{105}{}{Â¿Hogar del Viejo NecrÃ³fago?}
+{106}{}{Â¿QuiÃ©n eres?}
+{107}{}{Oye, Â¿has oÃ­do hablar de un GECK?}
+{108}{}{AdiÃ³s.}
+{109}{}{Otro bebÃ© del Yermo, Â¿eh? Oye, chico, Â¿quieres saber un secreto?}
+{110}{}{Â¡S-sÃ­!}
 {111}{}{Noh oh.}
-{112}{}{En mis días de correrías, gané unas cuantas carreras, hice un poco de dinero. Hace mucho tiempo, escondí todas mis ganancias no muy lejos de
- aquí. Si alguien me hace uno o dos favores, podría decirle dónde está ese "tesoro".}
-{113}{}{¡Dime a yo!}
+{112}{}{En mis dÃ­as de correrÃ­as, ganÃ© unas cuantas carreras, hice un poco de dinero. Hace mucho tiempo, escondÃ­ todas mis ganancias no muy lejos de
+ aquÃ­. Si alguien me hace uno o dos favores, podrÃ­a decirle dÃ³nde estÃ¡ ese "tesoro".}
+{113}{}{Â¡Dime a yo!}
 {114}{}{No hay cuidado.}
-{115}{}{¿Qué clase de tesoro?}
-{116}{}{¿Qué clase de favor?}
-{117}{}{Tenía otras preguntas.}
-{118}{}{¡Adiós!}
-{119}{}{Je. De acuerdo entonces. No tengo nada para ti. Piérdete, cretino.}
-{120}{}{Adiós.}
+{115}{}{Â¿QuÃ© clase de tesoro?}
+{116}{}{Â¿QuÃ© clase de favor?}
+{117}{}{TenÃ­a otras preguntas.}
+{118}{}{Â¡AdiÃ³s!}
+{119}{}{Je. De acuerdo entonces. No tengo nada para ti. PiÃ©rdete, cretino.}
+{120}{}{AdiÃ³s.}
 {121}{}{Chico, primero me tienes que hacer un favor.}
-{122}{}{¡Vale!}
-{123}{}{¡Oh no!}
-{124}{}{¿Qué es eso?}
-{125}{}{Olvídalo.}
-{126}{}{Soy un tipo anciano, y no salgo demasiado. No tengo muchas oportunidades para la acción, ¿sabes a qué me refiero? Así que lo que quiero es una revista de la Garra de la Gata. Búscame una.}
-{127}{}{¡Tengo! [Le das la revista a Typhon]}
-{128}{}{¡Vale!}
-{129}{}{¡No!}
-{130}{}{Aquí tienes. [Le das la revista a Typhon]}
-{131}{}{De acuerdo. Volveré.}
-{132}{}{Olvídalo.}
-{133}{}{Gracias por la revista, chico. Vuelve en una hora, más o menos.}
-{134}{}{¡De acuerdo!}
-{135}{}{¡Aún no he terminado, chico! ¡Cristo! ¿No puede tener un viejo necrófago un poco de intimidad?}
+{122}{}{Â¡Vale!}
+{123}{}{Â¡Oh no!}
+{124}{}{Â¿QuÃ© es eso?}
+{125}{}{OlvÃ­dalo.}
+{126}{}{Soy un tipo anciano, y no salgo demasiado. No tengo muchas oportunidades para la acciÃ³n, Â¿sabes a quÃ© me refiero? AsÃ­ que lo que quiero es una revista de la Garra de la Gata. BÃºscame una.}
+{127}{}{Â¡Tengo! [Le das la revista a Typhon]}
+{128}{}{Â¡Vale!}
+{129}{}{Â¡No!}
+{130}{}{AquÃ­ tienes. [Le das la revista a Typhon]}
+{131}{}{De acuerdo. VolverÃ©.}
+{132}{}{OlvÃ­dalo.}
+{133}{}{Gracias por la revista, chico. Vuelve en una hora, mÃ¡s o menos.}
+{134}{}{Â¡De acuerdo!}
+{135}{}{Â¡AÃºn no he terminado, chico! Â¡Cristo! Â¿No puede tener un viejo necrÃ³fago un poco de intimidad?}
 {136}{}{[HECHO]}
-{137}{}{¿Qué clase de tesoro? Dinero, chico, montones y montones de dinero. Lo bastante como para satisfacer a cualquier persona sana.}
-{138}{}{¿Cuál es el truco?}
+{137}{}{Â¿QuÃ© clase de tesoro? Dinero, chico, montones y montones de dinero. Lo bastante como para satisfacer a cualquier persona sana.}
+{138}{}{Â¿CuÃ¡l es el truco?}
 {139}{}{No necesito dinero.}
-{140}{}{Has vuelto, ¿eh? ¿Quieres saber algo sobre ese tesoro, chico?}
-{141}{}{¡S-sí!}
+{140}{}{Has vuelto, Â¿eh? Â¿Quieres saber algo sobre ese tesoro, chico?}
+{141}{}{Â¡S-sÃ­!}
 {142}{}{Nuh-uh.}
-{143}{}{¿Qué clase de tesoro es?}
-{144}{}{Sí, cuéntame.}
-{145}{}{Primero tenía otras preguntas para ti.}
+{143}{}{Â¿QuÃ© clase de tesoro es?}
+{144}{}{SÃ­, cuÃ©ntame.}
+{145}{}{Primero tenÃ­a otras preguntas para ti.}
 {146}{}{No.}
-{147}{}{¿Como qué?}
-{148}{}{¿Este es el Hogar del Viejo Necrófago?}
-{149}{}{¿Alguna vez has oído hablar de un GECK?}
-{150}{}{¿Quién eres?}
-{151}{}{¿Puedes contarme algo más?}
-{152}{}{Es una especie de chiste. No hay ningún necrófago que no sea un viejo necrófago. Verás, todos somos estériles, pero tenemos una esperanza de vida increíblemente larga. Somos la primera y la última generación de necrófagos. Este es un lugar para aquellos de nosotros que sólo queremos descansar un poco.}
-{153}{}{Ya veo. Tenía otras preguntas.}
-{154}{}{Lo tengo. Adiós.}
-{155}{}{Soy Typhon. ¿Has oído hablar de Set? Solía dirigir la vieja ciudad de Necrópolis. Soy su hijo. Nací antes de que la radiación nos afectara, así que crecí mutado. Nunca hubo ninguna otra opción para mí.}
-{156}{}{Háblame sobre Set.}
-{157}{}{¿Set? ¡He oído que era un auténtico bastardo!}
-{158}{}{Ya veo. Tenía otras preguntas.}
-{159}{}{Lo tengo. Adiós.}
-{160}{}{Sí. Teníamos algunos, pero los humanos de pura cepa los robaron para construir sus propios pequeños Jardines del Edén. Ciudad Refugio podría ser tu mejor apuesta para encontrar uno. Allí o en RNC, al sur.}
-{161}{}{Maldición. Está bien, tenía más preguntas.}
-{162}{}{Maldición. Adiós.}
-{163}{}{"Auténtico bastardo" sería una buena manera de describirlo. Convertirse en necrófago por culpa de la radiación no hizo mucho por mejorar su sentido del humor ni el de su autoridad, puedes creerme. Por supuesto, eso jodió bastante la sesera de todos. Creo que crecer como necrófago lo hizo algo más fácil para mí.}
-{164}{}{Ya veo. Tenía otras preguntas.}
-{165}{}{Gracias. Adiós.}
-{166}{}{¿Bien? ¿Aún no tienes mi revista de la Garra de la Gata?}
-{167}{}{S-sí. [Le das la revista a Typhon]}
+{147}{}{Â¿Como quÃ©?}
+{148}{}{Â¿Este es el Hogar del Viejo NecrÃ³fago?}
+{149}{}{Â¿Alguna vez has oÃ­do hablar de un GECK?}
+{150}{}{Â¿QuiÃ©n eres?}
+{151}{}{Â¿Puedes contarme algo mÃ¡s?}
+{152}{}{Es una especie de chiste. No hay ningÃºn necrÃ³fago que no sea un viejo necrÃ³fago. VerÃ¡s, todos somos estÃ©riles, pero tenemos una esperanza de vida increÃ­blemente larga. Somos la primera y la Ãºltima generaciÃ³n de necrÃ³fagos. Este es un lugar para aquellos de nosotros que sÃ³lo queremos descansar un poco.}
+{153}{}{Ya veo. TenÃ­a otras preguntas.}
+{154}{}{Lo tengo. AdiÃ³s.}
+{155}{}{Soy Typhon. Â¿Has oÃ­do hablar de Set? SolÃ­a dirigir la vieja ciudad de NecrÃ³polis. Soy su hijo. NacÃ­ antes de que la radiaciÃ³n nos afectara, asÃ­ que crecÃ­ mutado. Nunca hubo ninguna otra opciÃ³n para mÃ­.}
+{156}{}{HÃ¡blame sobre Set.}
+{157}{}{Â¿Set? Â¡He oÃ­do que era un autÃ©ntico bastardo!}
+{158}{}{Ya veo. TenÃ­a otras preguntas.}
+{159}{}{Lo tengo. AdiÃ³s.}
+{160}{}{SÃ­. TenÃ­amos algunos, pero los humanos de pura cepa los robaron para construir sus propios pequeÃ±os Jardines del EdÃ©n. Ciudad Refugio podrÃ­a ser tu mejor apuesta para encontrar uno. AllÃ­ o en RNC, al sur.}
+{161}{}{MaldiciÃ³n. EstÃ¡ bien, tenÃ­a mÃ¡s preguntas.}
+{162}{}{MaldiciÃ³n. AdiÃ³s.}
+{163}{}{"AutÃ©ntico bastardo" serÃ­a una buena manera de describirlo. Convertirse en necrÃ³fago por culpa de la radiaciÃ³n no hizo mucho por mejorar su sentido del humor ni el de su autoridad, puedes creerme. Por supuesto, eso jodiÃ³ bastante la sesera de todos. Creo que crecer como necrÃ³fago lo hizo algo mÃ¡s fÃ¡cil para mÃ­.}
+{164}{}{Ya veo. TenÃ­a otras preguntas.}
+{165}{}{Gracias. AdiÃ³s.}
+{166}{}{Â¿Bien? Â¿AÃºn no tienes mi revista de la Garra de la Gata?}
+{167}{}{S-sÃ­. [Le das la revista a Typhon]}
 {168}{}{Nuh-uh.}
-{169}{}{Pues sí. Aquí la tienes. [Le das la revista a Typhon]}
-{170}{}{Aún no. Tenía otras preguntas.}
+{169}{}{Pues sÃ­. AquÃ­ la tienes. [Le das la revista a Typhon]}
+{170}{}{AÃºn no. TenÃ­a otras preguntas.}
 {171}{}{No.}
-{172}{}{¡Bueno, pues date prisa! Soy un viejo necrófago y, cómo quieres que te lo diga, necesito relajarme! ¡Ahora vete, vete, vete!}
+{172}{}{Â¡Bueno, pues date prisa! Soy un viejo necrÃ³fago y, cÃ³mo quieres que te lo diga, necesito relajarme! Â¡Ahora vete, vete, vete!}
 {173}{}{[HECHO]}
-{174}{}{Muchacho, esa revista ha revitalizado la sangre de mis venas, y supongo que por la clase de tesoro que estamos hablando, puedes conseguirme un par más de cosillas. Tráeme una muñeca hinchable. Seguramente encuentres alguna en Nuevo Reno.}
-{175}{}{¡V-vale! ¡Adiós!}
-{176}{}{¡Nah-ah!}
-{177}{}{¡Toma! [Le das la muñeca hinchable a Typhon]}
-{178}{}{De acuerdo. Tenía algunas preguntas más.}
-{179}{}{De acuerdo. Adiós.}
-{180}{}{Olvídalo.}
-{181}{}{La tengo justo aquí. [Le das la muñeca hinchable a Typhon]}
-{182}{}{Esto, chico, es dar justo en el clavo. Dame unas horas, y volveremos a hablar. A ello, pues. [Mira la muñeca lujuriosamente]}
+{174}{}{Muchacho, esa revista ha revitalizado la sangre de mis venas, y supongo que por la clase de tesoro que estamos hablando, puedes conseguirme un par mÃ¡s de cosillas. TrÃ¡eme una muÃ±eca hinchable. Seguramente encuentres alguna en Nuevo Reno.}
+{175}{}{Â¡V-vale! Â¡AdiÃ³s!}
+{176}{}{Â¡Nah-ah!}
+{177}{}{Â¡Toma! [Le das la muÃ±eca hinchable a Typhon]}
+{178}{}{De acuerdo. TenÃ­a algunas preguntas mÃ¡s.}
+{179}{}{De acuerdo. AdiÃ³s.}
+{180}{}{OlvÃ­dalo.}
+{181}{}{La tengo justo aquÃ­. [Le das la muÃ±eca hinchable a Typhon]}
+{182}{}{Esto, chico, es dar justo en el clavo. Dame unas horas, y volveremos a hablar. A ello, pues. [Mira la muÃ±eca lujuriosamente]}
 {183}{}{[HECHO]}
-{184}{}{¿No puede tener uno un poco de intimidad! ¡Fuera! Largo! ¡Desaparece!}
+{184}{}{Â¿No puede tener uno un poco de intimidad! Â¡Fuera! Largo! Â¡Desaparece!}
 {185}{}{[HECHO]}
-{186}{}{Ahora mismo estoy rendido. Ve a buscarme algo de aguardiente y hablaremos del tesoro. Phil, el camarero, debería poder conseguírtelo.}
-{187}{}{¡B-bueno! ¡Adiós!}
-{188}{}{¡No!}
-{189}{}{¡Toma! [le das el aguardiente a Typhon]}
-{190}{}{Lo tengo. Aquí tienes. [Le das el aguardiente a Typhon]}
-{191}{}{¿Eso es lo que va a ser?}
-{192}{}{De acuerdo. Adiós.}
-{193}{}{Olvídalo.}
-{194}{}{Probablemente... oh, una cosa más. Te diré qué es cuando me hayas conseguido mi maldito aguardiente, ¿de acuerdo?}
-{195}{}{Está bien. Lo haré.}
-{196}{}{Olvídalo.}
+{186}{}{Ahora mismo estoy rendido. Ve a buscarme algo de aguardiente y hablaremos del tesoro. Phil, el camarero, deberÃ­a poder conseguÃ­rtelo.}
+{187}{}{Â¡B-bueno! Â¡AdiÃ³s!}
+{188}{}{Â¡No!}
+{189}{}{Â¡Toma! [le das el aguardiente a Typhon]}
+{190}{}{Lo tengo. AquÃ­ tienes. [Le das el aguardiente a Typhon]}
+{191}{}{Â¿Eso es lo que va a ser?}
+{192}{}{De acuerdo. AdiÃ³s.}
+{193}{}{OlvÃ­dalo.}
+{194}{}{Probablemente... oh, una cosa mÃ¡s. Te dirÃ© quÃ© es cuando me hayas conseguido mi maldito aguardiente, Â¿de acuerdo?}
+{195}{}{EstÃ¡ bien. Lo harÃ©.}
+{196}{}{OlvÃ­dalo.}
 {197}{}{Has dado en la diana, chico. Iba a pedirte una planta, pero oye, te voy a dar un respiro.}
-{198}{}{¡G-gracias!}
-{199}{}{Gracias. Tenía otras preguntas.}
+{198}{}{Â¡G-gracias!}
+{199}{}{Gracias. TenÃ­a otras preguntas.}
 {200}{}{Eso es un poco vago, pero gracias. Nos vemos.}
-{201}{}{¿Ya has encontrado el tesoro, chico?}
+{201}{}{Â¿Ya has encontrado el tesoro, chico?}
 {202}{}{Noh oh.}
-{203}{}{Aún no.}
-{204}{}{Pues no. Tengo más preguntas.}
-{205}{}{Pues no. Adiós.}
-{206}{}{Bien, sigue buscando. Al final lo conseguirás.}
+{203}{}{AÃºn no.}
+{204}{}{Pues no. Tengo mÃ¡s preguntas.}
+{205}{}{Pues no. AdiÃ³s.}
+{206}{}{Bien, sigue buscando. Al final lo conseguirÃ¡s.}
 {207}{}{Vale.}
-{208}{}{Supongo. Adiós.}
-{209}{}{¿Qué tal el tesoro, chico?}
-{210}{}{¡Malo! ¡Chapas!}
-{211}{}{¡Eran todo chapas de botella! ¡No vale nada!}
-{212}{}{Ja, ja. Muy divertido. Tenía otras preguntas.}
-{213}{}{Olvídalo.}
-{214}{}{¡Caca! Adiós.}
-{215}{}{¿Qué? ¿Ya no se usan chapas como moneda? ¿Estás diciendo que recoger, ocultar y preocuparme de que alguien me robase la
- pasta ha sido para nada? ¡Me cago en la PUTA! Lamento haberte hecho dar vueltas así, chico. Si lo hubiera sabido...}
-{216}{}{Da igual. ¡Adiós!}
-{217}{}{Sí, bueno, ha sido tu último error, viejo necrófago. Hora de morir.}
-{218}{}{Supongo que le podría pasar a cualquiera. Tengo más preguntas.}
-{219}{}{Sí, sí. De acuerdo. Adiós.}
-{220}{}{Supongo que fue un error no intencionado. Adiós.}
-{221}{}{V-ale. ¿Dónde din-nero?}
-{222}{}{Caray, Typhon. Qué atento eres. Así que, ¿dónde está el dinero?}
-{223}{}{Está bien. Recuerdo haber escondido el dinero en algún lugar del centro de la ciudad. Pero fue hace muchos años, y los edificios se han construido y reconstruido una y otra vez, así que no sé exactamente dónde está. Si te ayuda de algo, recuerdo haber pensado en que debería ponerlo en algún lugar que no fuera probable que fuera derribado o enterrado. Un lugar indispensable, ¿entiendes? Buena suerte.}
-{224}{}{Finalmente has conseguido que Typhon suelte prenda sobre la localización del botín escondido.}
-{300}{}{Pero la dialéctica de Hegel no cuenta para...}
-{301}{}{¡Hegel, Hegel, Hegel! ¡Siempre estás con lo de Hegel!}
-{302}{}{Entonces la mujer dice, "¡Eso no es un conejo, vicario!"}
+{208}{}{Supongo. AdiÃ³s.}
+{209}{}{Â¿QuÃ© tal el tesoro, chico?}
+{210}{}{Â¡Malo! Â¡Chapas!}
+{211}{}{Â¡Eran todo chapas de botella! Â¡No vale nada!}
+{212}{}{Ja, ja. Muy divertido. TenÃ­a otras preguntas.}
+{213}{}{OlvÃ­dalo.}
+{214}{}{Â¡Caca! AdiÃ³s.}
+{215}{}{Â¿QuÃ©? Â¿Ya no se usan chapas como moneda? Â¿EstÃ¡s diciendo que recoger, ocultar y preocuparme de que alguien me robase la
+ pasta ha sido para nada? Â¡Me cago en la PUTA! Lamento haberte hecho dar vueltas asÃ­, chico. Si lo hubiera sabido...}
+{216}{}{Da igual. Â¡AdiÃ³s!}
+{217}{}{SÃ­, bueno, ha sido tu Ãºltimo error, viejo necrÃ³fago. Hora de morir.}
+{218}{}{Supongo que le podrÃ­a pasar a cualquiera. Tengo mÃ¡s preguntas.}
+{219}{}{SÃ­, sÃ­. De acuerdo. AdiÃ³s.}
+{220}{}{Supongo que fue un error no intencionado. AdiÃ³s.}
+{221}{}{V-ale. Â¿DÃ³nde din-nero?}
+{222}{}{Caray, Typhon. QuÃ© atento eres. AsÃ­ que, Â¿dÃ³nde estÃ¡ el dinero?}
+{223}{}{EstÃ¡ bien. Recuerdo haber escondido el dinero en algÃºn lugar del centro de la ciudad. Pero fue hace muchos aÃ±os, y los edificios se han construido y reconstruido una y otra vez, asÃ­ que no sÃ© exactamente dÃ³nde estÃ¡. Si te ayuda de algo, recuerdo haber pensado en que deberÃ­a ponerlo en algÃºn lugar que no fuera probable que fuera derribado o enterrado. Un lugar indispensable, Â¿entiendes? Buena suerte.}
+{224}{}{Finalmente has conseguido que Typhon suelte prenda sobre la localizaciÃ³n del botÃ­n escondido.}
+{300}{}{Pero la dialÃ©ctica de Hegel no cuenta para...}
+{301}{}{Â¡Hegel, Hegel, Hegel! Â¡Siempre estÃ¡s con lo de Hegel!}
+{302}{}{Entonces la mujer dice, "Â¡Eso no es un conejo, vicario!"}
 {303}{}{Ja ja ja ja!}
-{304}{}{Y el primer protón dice, "¡Sí, soy positivo!"}
-{305}{}{[refunfuñando] Menuda mierda, me estoy marchitando.}
-{306}{}{No es fácil ser verde.}
-{307}{}{Háblame sobre ello.}
-{308}{}{¡Pero es completamente obvio que esto es un callejón sin salida filosófico!}
-{309}{}{Eso es sólo porque no has examinado todas sus ramificaciones. Ahora bien, si tú...}
-{310}{}{¿Quieres algo de fruta?}
-{311}{}{Aliméntame, Seymour.}
+{304}{}{Y el primer protÃ³n dice, "Â¡SÃ­, soy positivo!"}
+{305}{}{[refunfuÃ±ando] Menuda mierda, me estoy marchitando.}
+{306}{}{No es fÃ¡cil ser verde.}
+{307}{}{HÃ¡blame sobre ello.}
+{308}{}{Â¡Pero es completamente obvio que esto es un callejÃ³n sin salida filosÃ³fico!}
+{309}{}{Eso es sÃ³lo porque no has examinado todas sus ramificaciones. Ahora bien, si tÃº...}
+{310}{}{Â¿Quieres algo de fruta?}
+{311}{}{AlimÃ©ntame, Seymour.}
 {312}{}{Cerebros... cereeeeeebros... lo siento, es la vieja costumbre.}
-{313}{}{Qué bien. No tengo uno, ¿recuerdas?}
-{314}{}{Bueno, desde luego el abono funciona bien, pero no hay nada como un cadáver en descomposición como fertilizante.}
-{315}{}{¡Así que es por eso que querías que te trasladaran aquí! Presas fáciles.}
-{316}{}{Déjame decirte que no hay nada como una buena carrera a toda velocidad.}
-{317}{}{Realmente sientes el viento a través de los mechones de tu pelo ¿no?}
-{318}{}{¡Hace años que no polinizo a nadie!}
-{319}{}{¡Imagina estar atrapado en ESTE cuerpo! ¡Nada de sexo! ¡En absoluto!}
-{320}{}{Tal vez si le dieras una oportunidad a la fotosíntesis...}
-{321}{}{¡Yo no soy responsable de mis raíces evolutivas, bastardo verdoso!}
-{322}{}{¡Buuuf! Desde luego espero que puedas procesar metano!}
-{323}{}{¡Mis hojas! ¡Mis pobres hojas! ¡Aaaaagh!}
-{324}{}{Me gusta este lugar. Estoy pensando en echar raíces aquí.}
-{325}{}{Está bien, basta de chistes de plantas a todas horas, colega.}
-{326}{}{Me pregunto qué tal lo llevarán mis primos de Arroyo. Espero que estén floreciendo.}
-{327}{}{¡Por supuesto que sí! Salvo que alguna rata bastarda se los haya cargado a todos.}
+{313}{}{QuÃ© bien. No tengo uno, Â¿recuerdas?}
+{314}{}{Bueno, desde luego el abono funciona bien, pero no hay nada como un cadÃ¡ver en descomposiciÃ³n como fertilizante.}
+{315}{}{Â¡AsÃ­ que es por eso que querÃ­as que te trasladaran aquÃ­! Presas fÃ¡ciles.}
+{316}{}{DÃ©jame decirte que no hay nada como una buena carrera a toda velocidad.}
+{317}{}{Realmente sientes el viento a travÃ©s de los mechones de tu pelo Â¿no?}
+{318}{}{Â¡Hace aÃ±os que no polinizo a nadie!}
+{319}{}{Â¡Imagina estar atrapado en ESTE cuerpo! Â¡Nada de sexo! Â¡En absoluto!}
+{320}{}{Tal vez si le dieras una oportunidad a la fotosÃ­ntesis...}
+{321}{}{Â¡Yo no soy responsable de mis raÃ­ces evolutivas, bastardo verdoso!}
+{322}{}{Â¡Buuuf! Desde luego espero que puedas procesar metano!}
+{323}{}{Â¡Mis hojas! Â¡Mis pobres hojas! Â¡Aaaaagh!}
+{324}{}{Me gusta este lugar. Estoy pensando en echar raÃ­ces aquÃ­.}
+{325}{}{EstÃ¡ bien, basta de chistes de plantas a todas horas, colega.}
+{326}{}{Me pregunto quÃ© tal lo llevarÃ¡n mis primos de Arroyo. Espero que estÃ©n floreciendo.}
+{327}{}{Â¡Por supuesto que sÃ­! Salvo que alguna rata bastarda se los haya cargado a todos.}
 {328}{}{Bien, creo que voy a abrir una puerta o algo...}
 {329}{}{Creo que tengo envidia de pulgar oponible.}
 {330}{}{No es que pueda aventurarme...}
-{331}{}{¡Aaaaaaaaaaaaaagh! ¡No más chistes de plantas!}
-{332}{}{¡Mira los granos en ese tallo de trigo! ¡Woo woo!}
-{333}{}{¡Tranquilito, chico! No creo que tus vacuolas lo puedan soportar.}
-{334}{}{¿Quieres que te lea una historia?}
-{335}{}{¿Qué tal 'El árbol generoso'? ¿'Jack y las Judías Mágicas'? ¿'El Guardián entre el centeno'?}
-{336}{}{¿Un GECK? Sí, había un tipo que...}
-{337}{}{¡Shhh! ¡Shh! ¡Alguien está escuchando!}
-{338}{}{Es el gran ciclo de la vida, verás... la vida se alimenta de la vida que se alimenta de la vida...}
-{339}{}{Oh, oh. Pero AÚN puedes comer abono. Cristo... filosofía de plantas...}
-{340}{}{¿Puedo jugar con tu servoarmadura algún día?}
-{341}{}{¿Te refieres a ese viejo uniforme que guardo en el armario? Ji ji...}
-{342}{}{Sí, he probado la polinización cruzada.}
+{331}{}{Â¡Aaaaaaaaaaaaaagh! Â¡No mÃ¡s chistes de plantas!}
+{332}{}{Â¡Mira los granos en ese tallo de trigo! Â¡Woo woo!}
+{333}{}{Â¡Tranquilito, chico! No creo que tus vacuolas lo puedan soportar.}
+{334}{}{Â¿Quieres que te lea una historia?}
+{335}{}{Â¿QuÃ© tal 'El Ã¡rbol generoso'? Â¿'Jack y las JudÃ­as MÃ¡gicas'? Â¿'El GuardiÃ¡n entre el centeno'?}
+{336}{}{Â¿Un GECK? SÃ­, habÃ­a un tipo que...}
+{337}{}{Â¡Shhh! Â¡Shh! Â¡Alguien estÃ¡ escuchando!}
+{338}{}{Es el gran ciclo de la vida, verÃ¡s... la vida se alimenta de la vida que se alimenta de la vida...}
+{339}{}{Oh, oh. Pero AÃšN puedes comer abono. Cristo... filosofÃ­a de plantas...}
+{340}{}{Â¿Puedo jugar con tu servoarmadura algÃºn dÃ­a?}
+{341}{}{Â¿Te refieres a ese viejo uniforme que guardo en el armario? Ji ji...}
+{342}{}{SÃ­, he probado la polinizaciÃ³n cruzada.}
 {343}{}{No es que haya nada MALO en ello.}

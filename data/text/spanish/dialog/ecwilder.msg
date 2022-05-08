@@ -1,4 +1,4 @@
-{100}{}{¡Yehhhhaaaaaa!}
-{101}{}{¡Shrieeek!}
-{102}{}{¡Yeha-Yeha-Yeeeeha!}
-{103}{}{¡Eeeeeeee!}
+{100}{}{Â¡Yehhhhaaaaaa!}
+{101}{}{Â¡Shrieeek!}
+{102}{}{Â¡Yeha-Yeha-Yeeeeha!}
+{103}{}{Â¡Eeeeeeee!}

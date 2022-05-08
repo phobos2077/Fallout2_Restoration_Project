@@ -1,212 +1,212 @@
 {100}{}{? egy "tutajos".}
-{150}{}{Ez a n? nem a világ szépe, de azért elmegy. Úgy t?nik, jól megnéz magának.}
-{151}{}{? egy "Tutajos". Azt a benyomást kelti, mintha a veled való szexelés esélyét latolgatná.}
-{160}{}{Ez a n? nem a világ szépe, de azért elmegy. Úgy néz rád, mint a riválisára.}
-{161}{}{A n? egy "Tutajos". Úgy néz rád, mint a riválisára.}
-{200}{}{Atyavilág... ez ?.}
-{201}{}{Te vagy a legnagyobb tenyészcs?dör a világon!}
-{202}{}{::Majd elájul, hogy lát...::}
-{203}{}{Azt mondják, a Testvérek várnak téged. Filmet akarnak forgatni a kalandjaidból.}
+{150}{}{Ez a n? nem a vilÃ¡g szÃ©pe, de azÃ©rt elmegy. Ãšgy t?nik, jÃ³l megnÃ©z magÃ¡nak.}
+{151}{}{? egy "Tutajos". Azt a benyomÃ¡st kelti, mintha a veled valÃ³ szexelÃ©s esÃ©lyÃ©t latolgatnÃ¡.}
+{160}{}{Ez a n? nem a vilÃ¡g szÃ©pe, de azÃ©rt elmegy. Ãšgy nÃ©z rÃ¡d, mint a rivÃ¡lisÃ¡ra.}
+{161}{}{A n? egy "Tutajos". Ãšgy nÃ©z rÃ¡d, mint a rivÃ¡lisÃ¡ra.}
+{200}{}{AtyavilÃ¡g... ez ?.}
+{201}{}{Te vagy a legnagyobb tenyÃ©szcs?dÃ¶r a vilÃ¡gon!}
+{202}{}{::Majd elÃ¡jul, hogy lÃ¡t...::}
+{203}{}{Azt mondjÃ¡k, a TestvÃ©rek vÃ¡rnak tÃ©ged. Filmet akarnak forgatni a kalandjaidbÃ³l.}
 {204}{}{Igen, }
 {205}{}{::Tapsol::}
-{206}{}{::Éljenez::}
-{207}{}{Atyaég... ez ?.}
-{208}{}{Nagy vagy, bébi!}
-{209}{}{::Hüvelykujjával mutatja, hogy minden rendben::}
-{225}{}{Én ugyan rá nem bukom arra az izére.}
-{226}{}{Hogy a fészkes fenébe mész fürdeni, ha rajtad van ez a vacak?}
-{227}{}{Ez valami új vibrátor?}
-{228}{}{Ez valamiféle új test-óvszer?}
-{235}{}{Nincs szükséged valamire}
+{206}{}{::Ã‰ljenez::}
+{207}{}{AtyaÃ©g... ez ?.}
+{208}{}{Nagy vagy, bÃ©bi!}
+{209}{}{::HÃ¼velykujjÃ¡val mutatja, hogy minden rendben::}
+{225}{}{Ã‰n ugyan rÃ¡ nem bukom arra az izÃ©re.}
+{226}{}{Hogy a fÃ©szkes fenÃ©be mÃ©sz fÃ¼rdeni, ha rajtad van ez a vacak?}
+{227}{}{Ez valami Ãºj vibrÃ¡tor?}
+{228}{}{Ez valamifÃ©le Ãºj test-Ã³vszer?}
+{235}{}{Nincs szÃ¼ksÃ©ged valamire}
 {236}{}{Erre-erre}
-{237}{}{Nézzétek! Ez ?!}
-{238}{}{Nahát, }
-{239}{}{Tudjátok kit szeretnék, ha a partnerem lenne? A nagy }
-{240}{}{Ez a srác aztán rajta van a témázgatáson.}
-{241}{}{Erre a srácra bármikor rábukom.}
-{242}{}{Azta, milyen mérges kis gyíkod van!}
-{245}{}{Nincs szükséged valamire}
-{246}{}{Ha ma még egy színészt le kell ápolnom, kikészülök.}
-{247}{}{Tutajosnak lenni nem könny? dolog.}
-{248}{}{Úgy hallottam, a családok közt újra feszültség támadt.}
-{249}{}{Múlt héten jól alárúgtam a kis Jules barátunknak.}
-{250}{}{De jó lenne, ha a Testvérek engednének filmezni.}
-{251}{}{Nem tudom, mit esznek benne a Korzikai Testvérek...}
-{255}{}{Atyavilág... ez ?.}
-{256}{}{Nézzétek ezeket az izmokat! Mindjárt elalélok!}
-{257}{}{Úgy néz ki, mint egy harckocsi. Nézzétek azt a ágyúcsövet!}
-{258}{}{Nézzétek azt az ágyúcsövet azon a harckocsin...}
-{259}{}{Mindene az enyém...}
-{260}{}{::Sóhajt::}
-{261}{}{Ez a srác aztán rajta van a témázgatáson.}
-{262}{}{Azta, milyen mérges kis gyíkod van!}
-{270}{}{Atyaég... ez ?.}
-{271}{}{Üdvözöljük a stúdióban, hölgyem.}
-{272}{}{(Megborzong) ...ez a n? aztán nem ijed meg az árnyékától.}
-{273}{}{Ez a n? aztán nagyon csinos...}
-{274}{}{Üdvözöljük, hölgyem. Csak kérdezzen, hátha tudok segíteni.}
-{280}{}{Atyavilág... ez ?.}
-{281}{}{Üdvözöljük a stúdióban, uram.}
-{282}{}{(Megborzong) ...ez a fickó aztán nem ijed meg a saját árnyékától.}
-{283}{}{Ez a legtökösebb ember, akivel valaha találkoztam.}
-{284}{}{Ez a srác aztán rajta van a témázgatáson.}
-{285}{}{H?, milyen mérges kis gyíkot rejtegetsz te ott!}
-{290}{}{Atyaég... ez ?.}
-{291}{}{Üdvözöljük a stúdióban, hölgyem.}
-{292}{}{(Megborzong) ...ez a n? aztán nem ijed meg az árnyékától.}
-{293}{}{Ez a n? aztán nagyon csinos...}
-{294}{}{Üdvözöljük, hölgyem. Csak kérdezzen, hátha tudok segíteni.}
+{237}{}{NÃ©zzÃ©tek! Ez ?!}
+{238}{}{NahÃ¡t, }
+{239}{}{TudjÃ¡tok kit szeretnÃ©k, ha a partnerem lenne? A nagy }
+{240}{}{Ez a srÃ¡c aztÃ¡n rajta van a tÃ©mÃ¡zgatÃ¡son.}
+{241}{}{Erre a srÃ¡cra bÃ¡rmikor rÃ¡bukom.}
+{242}{}{Azta, milyen mÃ©rges kis gyÃ­kod van!}
+{245}{}{Nincs szÃ¼ksÃ©ged valamire}
+{246}{}{Ha ma mÃ©g egy szÃ­nÃ©szt le kell Ã¡polnom, kikÃ©szÃ¼lÃ¶k.}
+{247}{}{Tutajosnak lenni nem kÃ¶nny? dolog.}
+{248}{}{Ãšgy hallottam, a csalÃ¡dok kÃ¶zt Ãºjra feszÃ¼ltsÃ©g tÃ¡madt.}
+{249}{}{MÃºlt hÃ©ten jÃ³l alÃ¡rÃºgtam a kis Jules barÃ¡tunknak.}
+{250}{}{De jÃ³ lenne, ha a TestvÃ©rek engednÃ©nek filmezni.}
+{251}{}{Nem tudom, mit esznek benne a Korzikai TestvÃ©rek...}
+{255}{}{AtyavilÃ¡g... ez ?.}
+{256}{}{NÃ©zzÃ©tek ezeket az izmokat! MindjÃ¡rt elalÃ©lok!}
+{257}{}{Ãšgy nÃ©z ki, mint egy harckocsi. NÃ©zzÃ©tek azt a Ã¡gyÃºcsÃ¶vet!}
+{258}{}{NÃ©zzÃ©tek azt az Ã¡gyÃºcsÃ¶vet azon a harckocsin...}
+{259}{}{Mindene az enyÃ©m...}
+{260}{}{::SÃ³hajt::}
+{261}{}{Ez a srÃ¡c aztÃ¡n rajta van a tÃ©mÃ¡zgatÃ¡son.}
+{262}{}{Azta, milyen mÃ©rges kis gyÃ­kod van!}
+{270}{}{AtyaÃ©g... ez ?.}
+{271}{}{ÃœdvÃ¶zÃ¶ljÃ¼k a stÃºdiÃ³ban, hÃ¶lgyem.}
+{272}{}{(Megborzong) ...ez a n? aztÃ¡n nem ijed meg az Ã¡rnyÃ©kÃ¡tÃ³l.}
+{273}{}{Ez a n? aztÃ¡n nagyon csinos...}
+{274}{}{ÃœdvÃ¶zÃ¶ljÃ¼k, hÃ¶lgyem. Csak kÃ©rdezzen, hÃ¡tha tudok segÃ­teni.}
+{280}{}{AtyavilÃ¡g... ez ?.}
+{281}{}{ÃœdvÃ¶zÃ¶ljÃ¼k a stÃºdiÃ³ban, uram.}
+{282}{}{(Megborzong) ...ez a fickÃ³ aztÃ¡n nem ijed meg a sajÃ¡t Ã¡rnyÃ©kÃ¡tÃ³l.}
+{283}{}{Ez a legtÃ¶kÃ¶sebb ember, akivel valaha talÃ¡lkoztam.}
+{284}{}{Ez a srÃ¡c aztÃ¡n rajta van a tÃ©mÃ¡zgatÃ¡son.}
+{285}{}{H?, milyen mÃ©rges kis gyÃ­kot rejtegetsz te ott!}
+{290}{}{AtyaÃ©g... ez ?.}
+{291}{}{ÃœdvÃ¶zÃ¶ljÃ¼k a stÃºdiÃ³ban, hÃ¶lgyem.}
+{292}{}{(Megborzong) ...ez a n? aztÃ¡n nem ijed meg az Ã¡rnyÃ©kÃ¡tÃ³l.}
+{293}{}{Ez a n? aztÃ¡n nagyon csinos...}
+{294}{}{ÃœdvÃ¶zÃ¶ljÃ¼k, hÃ¶lgyem. Csak kÃ©rdezzen, hÃ¡tha tudok segÃ­teni.}
 {300}{}{A francba! Ez Myron! Fussunk!}
-{301}{}{Beszarok! Megjött Myron. Nyugalom... megérzi a félelmet.}
-{302}{}{Jobb lenne, ha távoltartanád t?lem Myront.}
-{303}{}{Myron, jobb lenne, ha ROHADTUL távol tartanád magad t?lem!}
-{304}{}{Ha Mryon itt fog dolgozni, én veszem a kalapom.}
-{305}{}{Myron, megdöntötted már az 5 másodperces rekordodat?}
-{306}{}{Myron, miel?tt a Testvérek meglátnának téged, én lelépnék a helyedben.}
-{315}{}{Ezek a b?rcuccosok nem tudják, hogy a szerda az ? napjuk?}
-{316}{}{Nagyszer?! Már megint egy szado-mazo jelenet.}
-{317}{}{Óhhhh. A fekete b?r egész új dolog...}
-{318}{}{B?rös és kötöz?s jelenetet jöv? hétig nem forgatunk.}
-{319}{}{Nagyszer?! Még egy b?rimádó!}
-{320}{}{Figyusz, b?rharisnya, a szerepl?válogatás szerdán van. Rendben?}
-{325}{}{Ha ma még egy színészt le kell ápolnom, kikészülök.}
-{326}{}{Tutajosnak lenni nem könny? dolog.}
-{327}{}{Úgy hallottam, a családok közt újra feszültség támadt.}
-{328}{}{Múlt héten jól alárúgtam a kis Jules barátunknak.}
-{329}{}{A farokorrú haverod nagyon csini. Legalábbis a szadomazo fogalmak szerint.}
-{330}{}{Ki ez az farokorrú fickó?}
-{331}{}{Nézd már a farokorrú kannibált! Még viszi valamire!}
-{332}{}{Ez igen! Láttam már jónéhány balesetet forgatás közben, de hogy valakinek ekkora farok kerüljön az orrába...}
-{333}{}{De jó lenne, ha a Testvérek engednének filmezni.}
-{334}{}{::Rádbámul::}
-{335}{}{Nagyszer?! Még egy tutajos. Ahogy kinéz, gondolom, feleáron dolgozik.}
+{301}{}{Beszarok! MegjÃ¶tt Myron. Nyugalom... megÃ©rzi a fÃ©lelmet.}
+{302}{}{Jobb lenne, ha tÃ¡voltartanÃ¡d t?lem Myront.}
+{303}{}{Myron, jobb lenne, ha ROHADTUL tÃ¡vol tartanÃ¡d magad t?lem!}
+{304}{}{Ha Mryon itt fog dolgozni, Ã©n veszem a kalapom.}
+{305}{}{Myron, megdÃ¶ntÃ¶tted mÃ¡r az 5 mÃ¡sodperces rekordodat?}
+{306}{}{Myron, miel?tt a TestvÃ©rek meglÃ¡tnÃ¡nak tÃ©ged, Ã©n lelÃ©pnÃ©k a helyedben.}
+{315}{}{Ezek a b?rcuccosok nem tudjÃ¡k, hogy a szerda az ? napjuk?}
+{316}{}{Nagyszer?! MÃ¡r megint egy szado-mazo jelenet.}
+{317}{}{Ã“hhhh. A fekete b?r egÃ©sz Ãºj dolog...}
+{318}{}{B?rÃ¶s Ã©s kÃ¶tÃ¶z?s jelenetet jÃ¶v? hÃ©tig nem forgatunk.}
+{319}{}{Nagyszer?! MÃ©g egy b?rimÃ¡dÃ³!}
+{320}{}{Figyusz, b?rharisnya, a szerepl?vÃ¡logatÃ¡s szerdÃ¡n van. Rendben?}
+{325}{}{Ha ma mÃ©g egy szÃ­nÃ©szt le kell Ã¡polnom, kikÃ©szÃ¼lÃ¶k.}
+{326}{}{Tutajosnak lenni nem kÃ¶nny? dolog.}
+{327}{}{Ãšgy hallottam, a csalÃ¡dok kÃ¶zt Ãºjra feszÃ¼ltsÃ©g tÃ¡madt.}
+{328}{}{MÃºlt hÃ©ten jÃ³l alÃ¡rÃºgtam a kis Jules barÃ¡tunknak.}
+{329}{}{A farokorrÃº haverod nagyon csini. LegalÃ¡bbis a szadomazo fogalmak szerint.}
+{330}{}{Ki ez az farokorrÃº fickÃ³?}
+{331}{}{NÃ©zd mÃ¡r a farokorrÃº kannibÃ¡lt! MÃ©g viszi valamire!}
+{332}{}{Ez igen! LÃ¡ttam mÃ¡r jÃ³nÃ©hÃ¡ny balesetet forgatÃ¡s kÃ¶zben, de hogy valakinek ekkora farok kerÃ¼ljÃ¶n az orrÃ¡ba...}
+{333}{}{De jÃ³ lenne, ha a TestvÃ©rek engednÃ©nek filmezni.}
+{334}{}{::RÃ¡dbÃ¡mul::}
+{335}{}{Nagyszer?! MÃ©g egy tutajos. Ahogy kinÃ©z, gondolom, feleÃ¡ron dolgozik.}
 {336}{}{Ez ki?}
 {337}{}{Ki vagy te?}
-{345}{}{Ha ma még egy színészt le kell ápolnom, kikészülök.}
-{346}{}{Tutajosnak lenni nem könny? dolog.}
-{347}{}{Úgy hallottam, a családok közt újra feszültség támadt.}
-{348}{}{Múlt héten jól alárúgtam a kis Jules barátunknak.}
-{349}{}{De jó lenne, ha a Testvérek engednének filmezni.}
-{350}{}{Nagyszer?! Még egy tutajos. Ahogy kinéz, gondolom, feleáron dolgozik.}
-{351}{}{::Rádbámul::}
+{345}{}{Ha ma mÃ©g egy szÃ­nÃ©szt le kell Ã¡polnom, kikÃ©szÃ¼lÃ¶k.}
+{346}{}{Tutajosnak lenni nem kÃ¶nny? dolog.}
+{347}{}{Ãšgy hallottam, a csalÃ¡dok kÃ¶zt Ãºjra feszÃ¼ltsÃ©g tÃ¡madt.}
+{348}{}{MÃºlt hÃ©ten jÃ³l alÃ¡rÃºgtam a kis Jules barÃ¡tunknak.}
+{349}{}{De jÃ³ lenne, ha a TestvÃ©rek engednÃ©nek filmezni.}
+{350}{}{Nagyszer?! MÃ©g egy tutajos. Ahogy kinÃ©z, gondolom, feleÃ¡ron dolgozik.}
+{351}{}{::RÃ¡dbÃ¡mul::}
 {352}{}{Ez ki?}
 {353}{}{Ki vagy te?}
-{360}{}{Enklávé? Elnök? Meséld már el elölr?l!}
-{361}{}{Engem Tom French szkriptelt. Puha, gyengéd keze van a srácnak.}
-{362}{}{Azok ott még mindig HÁBORÚSKODTAK? Tényleg? Hát jó, hogy kinyírtad azt a gyökér társaságot!}
-{363}{}{Te aztán nem vagy semmi! Na, csak azért mondom, mert egy volt lándzsarázó törzsbéli - már elnézést a kifejezésért - megmentette a világot. Hihetetlen, elképeszt?!}
-{364}{}{Egy másik karakterrel újra végig kéne játszanod a játékot!}
-{365}{}{Mondj el mindent az Enklávéval vívott harcodról... hozok egy hideg sört.}
-{366}{}{Azt mondják, a Testvérek várnak téged. Filmet akarnak forgatni a kalandjaidból.}
-{370}{}{Jaj, valamit beleejtettem a gatyádba. Hadd vegyem ki!}
-{371}{}{Ööö... gondolom nincs kedved kimenni italért? Mit szólnál egy kis semmitmondó szexhez?}
+{360}{}{EnklÃ¡vÃ©? ElnÃ¶k? MesÃ©ld mÃ¡r el elÃ¶lr?l!}
+{361}{}{Engem Tom French szkriptelt. Puha, gyengÃ©d keze van a srÃ¡cnak.}
+{362}{}{Azok ott mÃ©g mindig HÃBORÃšSKODTAK? TÃ©nyleg? HÃ¡t jÃ³, hogy kinyÃ­rtad azt a gyÃ¶kÃ©r tÃ¡rsasÃ¡got!}
+{363}{}{Te aztÃ¡n nem vagy semmi! Na, csak azÃ©rt mondom, mert egy volt lÃ¡ndzsarÃ¡zÃ³ tÃ¶rzsbÃ©li - mÃ¡r elnÃ©zÃ©st a kifejezÃ©sÃ©rt - megmentette a vilÃ¡got. Hihetetlen, elkÃ©peszt?!}
+{364}{}{Egy mÃ¡sik karakterrel Ãºjra vÃ©gig kÃ©ne jÃ¡tszanod a jÃ¡tÃ©kot!}
+{365}{}{Mondj el mindent az EnklÃ¡vÃ©val vÃ­vott harcodrÃ³l... hozok egy hideg sÃ¶rt.}
+{366}{}{Azt mondjÃ¡k, a TestvÃ©rek vÃ¡rnak tÃ©ged. Filmet akarnak forgatni a kalandjaidbÃ³l.}
+{370}{}{Jaj, valamit beleejtettem a gatyÃ¡dba. Hadd vegyem ki!}
+{371}{}{Ã–Ã¶Ã¶... gondolom nincs kedved kimenni italÃ©rt? Mit szÃ³lnÃ¡l egy kis semmitmondÃ³ szexhez?}
 {372}{}{Hogy tudsz ilyen fitt maradni?}
-{373}{}{Kérhetek egy autogramot a mellemre?}
-{374}{}{Körbevezettek már, }
-{375}{}{Az ágyúcsövedhez elkel majd egy kis segítség.}
-{376}{}{Azt mondják, veled... elég nehéz dolgozni.}
-{377}{}{Úgy hallottam, akkor megy neked igazán, ha megjön a kedved. Nekem bejön.}
-{378}{}{Igazán örülök, hogy ismerlek téged. Hiszen - az eszem megáll - a neved mégiscsak }
-{379}{}{Hát tudom, hogy most épp nincs filmezés, de azért nincs szükséged egy tutajosra?}
-{380}{}{Nincs szüksége valakire, aki gondját viselné a micsodájának?}
-{381}{}{Nem kell egy törülköz?, }
-{382}{}{Jó voltál a Nagy Sz?zgolyókban.}
-{383}{}{Remek voltál a Szexivánéji álomban!}
-{384}{}{Tetszettél a Farkalókkal táncolók folytatásában.}
-{385}{}{Tetszettél a "23 Centis Menedékben". Ihletet adott.}
-{386}{}{Nem láttam itt a Testvéreket... próbáld meg az irodát!}
-{387}{}{Van rá esély, hogy beszélj a Korzikai Testvérekkel a színészi lehet?ségeimr?l?}
-{388}{}{A tutajosoknak az a feladata, hogy a színészek merevek maradjanak.}
-{389}{}{Szerepelhetnék a következ? filmedben?}
-{390}{}{Egész életemben azért nem akarok tutajos maradni. Naná hogy nem.}
-{391}{}{Csak azért csinálom, hogy a tandíjat fizetni tudjam.}
-{392}{}{A barátom nem tudja, hogy itt dolgozom.}
-{393}{}{Obi? Talán máskor visszatérhetünk rá.}
-{394}{}{A barátom nem tudja, hogy itt dolgozom.}
-{395}{}{Néhány színész igazán zuhanyozhatna. Úgy értem, rendszeresen.}
-{396}{}{A kamera elé akarok állni végre.}
-{397}{}{A barátn?m nem tudja, hogy itt dolgozom.}
-{398}{}{Kérhetek autogramot t?led?}
-{399}{}{Ööö... ugye nem szívesen mennél ki italért? Úgy értem, ha esetleg n?kre fájna a fogad...}
-{400}{}{::Rád sem hederít::}
-{420}{}{Nem akarsz ringbe szállni velem, bajnokom?}
-{421}{}{Szép a micsodád.}
+{373}{}{KÃ©rhetek egy autogramot a mellemre?}
+{374}{}{KÃ¶rbevezettek mÃ¡r, }
+{375}{}{Az Ã¡gyÃºcsÃ¶vedhez elkel majd egy kis segÃ­tsÃ©g.}
+{376}{}{Azt mondjÃ¡k, veled... elÃ©g nehÃ©z dolgozni.}
+{377}{}{Ãšgy hallottam, akkor megy neked igazÃ¡n, ha megjÃ¶n a kedved. Nekem bejÃ¶n.}
+{378}{}{IgazÃ¡n Ã¶rÃ¼lÃ¶k, hogy ismerlek tÃ©ged. Hiszen - az eszem megÃ¡ll - a neved mÃ©giscsak }
+{379}{}{HÃ¡t tudom, hogy most Ã©pp nincs filmezÃ©s, de azÃ©rt nincs szÃ¼ksÃ©ged egy tutajosra?}
+{380}{}{Nincs szÃ¼ksÃ©ge valakire, aki gondjÃ¡t viselnÃ© a micsodÃ¡jÃ¡nak?}
+{381}{}{Nem kell egy tÃ¶rÃ¼lkÃ¶z?, }
+{382}{}{JÃ³ voltÃ¡l a Nagy Sz?zgolyÃ³kban.}
+{383}{}{Remek voltÃ¡l a SzexivÃ¡nÃ©ji Ã¡lomban!}
+{384}{}{TetszettÃ©l a FarkalÃ³kkal tÃ¡ncolÃ³k folytatÃ¡sÃ¡ban.}
+{385}{}{TetszettÃ©l a "23 Centis MenedÃ©kben". Ihletet adott.}
+{386}{}{Nem lÃ¡ttam itt a TestvÃ©reket... prÃ³bÃ¡ld meg az irodÃ¡t!}
+{387}{}{Van rÃ¡ esÃ©ly, hogy beszÃ©lj a Korzikai TestvÃ©rekkel a szÃ­nÃ©szi lehet?sÃ©geimr?l?}
+{388}{}{A tutajosoknak az a feladata, hogy a szÃ­nÃ©szek merevek maradjanak.}
+{389}{}{SzerepelhetnÃ©k a kÃ¶vetkez? filmedben?}
+{390}{}{EgÃ©sz Ã©letemben azÃ©rt nem akarok tutajos maradni. NanÃ¡ hogy nem.}
+{391}{}{Csak azÃ©rt csinÃ¡lom, hogy a tandÃ­jat fizetni tudjam.}
+{392}{}{A barÃ¡tom nem tudja, hogy itt dolgozom.}
+{393}{}{Obi? TalÃ¡n mÃ¡skor visszatÃ©rhetÃ¼nk rÃ¡.}
+{394}{}{A barÃ¡tom nem tudja, hogy itt dolgozom.}
+{395}{}{NÃ©hÃ¡ny szÃ­nÃ©sz igazÃ¡n zuhanyozhatna. Ãšgy Ã©rtem, rendszeresen.}
+{396}{}{A kamera elÃ© akarok Ã¡llni vÃ©gre.}
+{397}{}{A barÃ¡tn?m nem tudja, hogy itt dolgozom.}
+{398}{}{KÃ©rhetek autogramot t?led?}
+{399}{}{Ã–Ã¶Ã¶... ugye nem szÃ­vesen mennÃ©l ki italÃ©rt? Ãšgy Ã©rtem, ha esetleg n?kre fÃ¡jna a fogad...}
+{400}{}{::RÃ¡d sem hederÃ­t::}
+{420}{}{Nem akarsz ringbe szÃ¡llni velem, bajnokom?}
+{421}{}{SzÃ©p a micsodÃ¡d.}
 {422}{}{Nem kell valaki, aki babusgatja, bajnokom?}
-{423}{}{Abbahagyod a bokszot a pornó kedvéért? Végül is ugyanaz, csak máshol megy a küzdelem.}
-{424}{}{Beszállsz az iparba? Üdv a fedélzeten.}
-{425}{}{Beszállsz az iparba? Legalább nem ott kell indulnod, ahol én tartok.}
-{426}{}{Hogy én? Tutajos vagyok. Faszállító. Néha.}
-{427}{}{A tutajosoknak az a feladata, hogy a színészek merevek maradjanak.}
-{428}{}{A Testvérek szerint felbecsülhetetlen szolgálatot teszek. Talán ezért kell olyan sokszor lefeküdnöm velük.}
-{429}{}{Be kéne szállnia a pornóba. A teste megvan hozzá.}
+{423}{}{Abbahagyod a bokszot a pornÃ³ kedvÃ©Ã©rt? VÃ©gÃ¼l is ugyanaz, csak mÃ¡shol megy a kÃ¼zdelem.}
+{424}{}{BeszÃ¡llsz az iparba? Ãœdv a fedÃ©lzeten.}
+{425}{}{BeszÃ¡llsz az iparba? LegalÃ¡bb nem ott kell indulnod, ahol Ã©n tartok.}
+{426}{}{Hogy Ã©n? Tutajos vagyok. FaszÃ¡llÃ­tÃ³. NÃ©ha.}
+{427}{}{A tutajosoknak az a feladata, hogy a szÃ­nÃ©szek merevek maradjanak.}
+{428}{}{A TestvÃ©rek szerint felbecsÃ¼lhetetlen szolgÃ¡latot teszek. TalÃ¡n ezÃ©rt kell olyan sokszor lefekÃ¼dnÃ¶m velÃ¼k.}
+{429}{}{Be kÃ©ne szÃ¡llnia a pornÃ³ba. A teste megvan hozzÃ¡.}
 {430}{}{Akarsz bokszolni?}
-{431}{}{Obi? Talán máskor visszatérhetünk rá.}
-{432}{}{Vigyázz a Húsdarálóval! Az a fickó meg van zakkanva. Egyszer már le akarta harapni a fülemet.}
-{433}{}{Üdvözöljük, hölgyem. Segíthetnék... *bármiben?*}
-{434}{}{Ööö... Ha kés?bb egy kis társaságra vágyna, hölgyem...}
-{435}{}{A szokásosat, hölgyem?}
-{450}{}{Üdvözöljük, uram. Segíthetnék... *bármiben?*}
-{451}{}{Ha kés?bb egy kis társaságra vágyna...}
-{452}{}{A szokásost, uram?}
-{453}{}{Nincs szüksége valakire, aki gondját viselné a micsodájának?}
-{454}{}{Mondjon már egy-két jó szót értem a f?nöknél...}
-{455}{}{Ön is be akar szállni az iparba?}
-{456}{}{Be kéne szállnia a pornóba. A teste megvan hozzá.}
-{457}{}{Obi? Talán máskor visszatérhetünk rá.}
-{458}{}{Üdvözöljük, hölgyem. Segíthetnék... *bármiben?*}
-{459}{}{Ööö... Ha kés?bb egy kis társaságra vágyna, hölgyem...}
-{460}{}{A szokásosat, hölgyem?}
-{465}{}{Bocsi, veled nem. A rúzsommal jobbat tudnék szexelni.}
-{466}{}{Veled? Ekkora hiányom azért nincs.}
-{467}{}{A farokorrú barátod ezzel próbál valamit elrejteni mások el?l?}
-{468}{}{A farokorrú barátod fogad kuncsaftokat?}
-{469}{}{A farokorrú barátod elég jókép?. Legalábbis szado-mazo szemszögb?l.}
-{470}{}{Ki ez a jókép? farokorrú barátod?}
-{471}{}{Mondd meg annak a farokorrú el?embernek, hogy még sokra viszi ebben az iparágban!}
-{472}{}{Ez igen! Láttam már jónéhány balesetet forgatás közben, de hogy valakinek ekkora farok kerüljön az orrába...}
-{473}{}{Nem láttam itt a Testvéreket... próbáld meg az irodát!}
-{474}{}{A tutajosoknak az a feladata, hogy a színészek merevek maradjanak.}
-{475}{}{A kamera elé akarok állni végre.}
-{476}{}{Egész életemben azért nem akarok tutajos maradni. Naná hogy nem.}
-{477}{}{A barátom nem tudja, hogy itt dolgozom.}
-{478}{}{Körbevezettek már?}
-{479}{}{Ha munkát akarsz, beszélj a Testvérekkel!}
-{480}{}{Csak azért csinálom, hogy a tandíjat fizetni tudjam.}
-{481}{}{Avellone-t ingyen is lecummantanám.}
-{482}{}{Nem mintha nem akarnék veled beszélgetni, de... tulképpen, tényleg nem akarok.}
-{483}{}{Valaki megdönthetne végre.}
-{484}{}{Obi? Talán máskor visszatérhetünk rá.}
-{485}{}{Ugye nem viszolyogsz a disznó filmekt?l?}
-{486}{}{Te vagy az új tutajos?}
-{487}{}{Van nálad törülköz?? Az egyik színész egy kis... balesetet szenvedett.}
-{488}{}{Ha nem harapod meg a színészt, nem lesz semmi gond.}
-{489}{}{Néhány színész igazán zuhanyozhatna. Úgy értem, rendszeresen.}
-{490}{}{Ööö... új vagy itt?}
-{491}{}{Trutyi? Hát szokj hozzá?}
-{500}{}{Bocsi, veled nem. A rúzsommal jobbat tudnék szexelni.}
-{501}{}{Veled? Ekkora hiányom azért nincs.}
-{502}{}{Nem láttam itt a Testvéreket... próbáld meg az irodát!}
-{503}{}{A tutajosoknak az a feladata, hogy a színészek merevek maradjanak.}
-{504}{}{A kamera elé akarok állni végre.}
-{505}{}{Egész életemben azért nem akarok tutajos maradni. Naná hogy nem.}
-{506}{}{A barátom nem tudja, hogy itt dolgozom.}
-{507}{}{Körbevezettek már?}
-{508}{}{Ha munkát akarsz, beszélj a Testvérekkel!}
-{509}{}{Csak azért csinálom, hogy a tandíjat fizetni tudjam.}
-{510}{}{Avellone-t ingyen is lecummantanám.}
-{511}{}{Nem mintha nem akarnék veled beszélgetni, de... tulképpen, tényleg nem akarok.}
-{512}{}{Valaki megdönthetne végre.}
-{513}{}{Obi? Talán máskor visszatérhetünk rá.}
-{514}{}{Ugye nem viszolyogsz a disznó filmekt?l?}
-{515}{}{Te vagy az új tutajos?}
-{516}{}{Van nálad törülköz?? Az egyik színész egy kis... balesetet szenvedett.}
-{517}{}{Ha nem harapod meg a színészt, nem lesz semmi gond.}
-{518}{}{Néhány színész igazán zuhanyozhatna. Úgy értem, rendszeresen.}
-{519}{}{Ööö... új vagy itt?}
-{520}{}{Trutyi? Hát szokj hozzá?}
-{1200}{}{. ? az, aki picsán rúgta az Enklávésokat!}
-{1204}{}{. Szép munka volt valagba rúgni az Enklávés fiúkat!}
-{1207}{}{. ? az, aki picsán rúgta az Enklávésokat!}
+{431}{}{Obi? TalÃ¡n mÃ¡skor visszatÃ©rhetÃ¼nk rÃ¡.}
+{432}{}{VigyÃ¡zz a HÃºsdarÃ¡lÃ³val! Az a fickÃ³ meg van zakkanva. Egyszer mÃ¡r le akarta harapni a fÃ¼lemet.}
+{433}{}{ÃœdvÃ¶zÃ¶ljÃ¼k, hÃ¶lgyem. SegÃ­thetnÃ©k... *bÃ¡rmiben?*}
+{434}{}{Ã–Ã¶Ã¶... Ha kÃ©s?bb egy kis tÃ¡rsasÃ¡gra vÃ¡gyna, hÃ¶lgyem...}
+{435}{}{A szokÃ¡sosat, hÃ¶lgyem?}
+{450}{}{ÃœdvÃ¶zÃ¶ljÃ¼k, uram. SegÃ­thetnÃ©k... *bÃ¡rmiben?*}
+{451}{}{Ha kÃ©s?bb egy kis tÃ¡rsasÃ¡gra vÃ¡gyna...}
+{452}{}{A szokÃ¡sost, uram?}
+{453}{}{Nincs szÃ¼ksÃ©ge valakire, aki gondjÃ¡t viselnÃ© a micsodÃ¡jÃ¡nak?}
+{454}{}{Mondjon mÃ¡r egy-kÃ©t jÃ³ szÃ³t Ã©rtem a f?nÃ¶knÃ©l...}
+{455}{}{Ã–n is be akar szÃ¡llni az iparba?}
+{456}{}{Be kÃ©ne szÃ¡llnia a pornÃ³ba. A teste megvan hozzÃ¡.}
+{457}{}{Obi? TalÃ¡n mÃ¡skor visszatÃ©rhetÃ¼nk rÃ¡.}
+{458}{}{ÃœdvÃ¶zÃ¶ljÃ¼k, hÃ¶lgyem. SegÃ­thetnÃ©k... *bÃ¡rmiben?*}
+{459}{}{Ã–Ã¶Ã¶... Ha kÃ©s?bb egy kis tÃ¡rsasÃ¡gra vÃ¡gyna, hÃ¶lgyem...}
+{460}{}{A szokÃ¡sosat, hÃ¶lgyem?}
+{465}{}{Bocsi, veled nem. A rÃºzsommal jobbat tudnÃ©k szexelni.}
+{466}{}{Veled? Ekkora hiÃ¡nyom azÃ©rt nincs.}
+{467}{}{A farokorrÃº barÃ¡tod ezzel prÃ³bÃ¡l valamit elrejteni mÃ¡sok el?l?}
+{468}{}{A farokorrÃº barÃ¡tod fogad kuncsaftokat?}
+{469}{}{A farokorrÃº barÃ¡tod elÃ©g jÃ³kÃ©p?. LegalÃ¡bbis szado-mazo szemszÃ¶gb?l.}
+{470}{}{Ki ez a jÃ³kÃ©p? farokorrÃº barÃ¡tod?}
+{471}{}{Mondd meg annak a farokorrÃº el?embernek, hogy mÃ©g sokra viszi ebben az iparÃ¡gban!}
+{472}{}{Ez igen! LÃ¡ttam mÃ¡r jÃ³nÃ©hÃ¡ny balesetet forgatÃ¡s kÃ¶zben, de hogy valakinek ekkora farok kerÃ¼ljÃ¶n az orrÃ¡ba...}
+{473}{}{Nem lÃ¡ttam itt a TestvÃ©reket... prÃ³bÃ¡ld meg az irodÃ¡t!}
+{474}{}{A tutajosoknak az a feladata, hogy a szÃ­nÃ©szek merevek maradjanak.}
+{475}{}{A kamera elÃ© akarok Ã¡llni vÃ©gre.}
+{476}{}{EgÃ©sz Ã©letemben azÃ©rt nem akarok tutajos maradni. NanÃ¡ hogy nem.}
+{477}{}{A barÃ¡tom nem tudja, hogy itt dolgozom.}
+{478}{}{KÃ¶rbevezettek mÃ¡r?}
+{479}{}{Ha munkÃ¡t akarsz, beszÃ©lj a TestvÃ©rekkel!}
+{480}{}{Csak azÃ©rt csinÃ¡lom, hogy a tandÃ­jat fizetni tudjam.}
+{481}{}{Avellone-t ingyen is lecummantanÃ¡m.}
+{482}{}{Nem mintha nem akarnÃ©k veled beszÃ©lgetni, de... tulkÃ©ppen, tÃ©nyleg nem akarok.}
+{483}{}{Valaki megdÃ¶nthetne vÃ©gre.}
+{484}{}{Obi? TalÃ¡n mÃ¡skor visszatÃ©rhetÃ¼nk rÃ¡.}
+{485}{}{Ugye nem viszolyogsz a disznÃ³ filmekt?l?}
+{486}{}{Te vagy az Ãºj tutajos?}
+{487}{}{Van nÃ¡lad tÃ¶rÃ¼lkÃ¶z?? Az egyik szÃ­nÃ©sz egy kis... balesetet szenvedett.}
+{488}{}{Ha nem harapod meg a szÃ­nÃ©szt, nem lesz semmi gond.}
+{489}{}{NÃ©hÃ¡ny szÃ­nÃ©sz igazÃ¡n zuhanyozhatna. Ãšgy Ã©rtem, rendszeresen.}
+{490}{}{Ã–Ã¶Ã¶... Ãºj vagy itt?}
+{491}{}{Trutyi? HÃ¡t szokj hozzÃ¡?}
+{500}{}{Bocsi, veled nem. A rÃºzsommal jobbat tudnÃ©k szexelni.}
+{501}{}{Veled? Ekkora hiÃ¡nyom azÃ©rt nincs.}
+{502}{}{Nem lÃ¡ttam itt a TestvÃ©reket... prÃ³bÃ¡ld meg az irodÃ¡t!}
+{503}{}{A tutajosoknak az a feladata, hogy a szÃ­nÃ©szek merevek maradjanak.}
+{504}{}{A kamera elÃ© akarok Ã¡llni vÃ©gre.}
+{505}{}{EgÃ©sz Ã©letemben azÃ©rt nem akarok tutajos maradni. NanÃ¡ hogy nem.}
+{506}{}{A barÃ¡tom nem tudja, hogy itt dolgozom.}
+{507}{}{KÃ¶rbevezettek mÃ¡r?}
+{508}{}{Ha munkÃ¡t akarsz, beszÃ©lj a TestvÃ©rekkel!}
+{509}{}{Csak azÃ©rt csinÃ¡lom, hogy a tandÃ­jat fizetni tudjam.}
+{510}{}{Avellone-t ingyen is lecummantanÃ¡m.}
+{511}{}{Nem mintha nem akarnÃ©k veled beszÃ©lgetni, de... tulkÃ©ppen, tÃ©nyleg nem akarok.}
+{512}{}{Valaki megdÃ¶nthetne vÃ©gre.}
+{513}{}{Obi? TalÃ¡n mÃ¡skor visszatÃ©rhetÃ¼nk rÃ¡.}
+{514}{}{Ugye nem viszolyogsz a disznÃ³ filmekt?l?}
+{515}{}{Te vagy az Ãºj tutajos?}
+{516}{}{Van nÃ¡lad tÃ¶rÃ¼lkÃ¶z?? Az egyik szÃ­nÃ©sz egy kis... balesetet szenvedett.}
+{517}{}{Ha nem harapod meg a szÃ­nÃ©szt, nem lesz semmi gond.}
+{518}{}{NÃ©hÃ¡ny szÃ­nÃ©sz igazÃ¡n zuhanyozhatna. Ãšgy Ã©rtem, rendszeresen.}
+{519}{}{Ã–Ã¶Ã¶... Ãºj vagy itt?}
+{520}{}{Trutyi? HÃ¡t szokj hozzÃ¡?}
+{1200}{}{. ? az, aki picsÃ¡n rÃºgta az EnklÃ¡vÃ©sokat!}
+{1204}{}{. SzÃ©p munka volt valagba rÃºgni az EnklÃ¡vÃ©s fiÃºkat!}
+{1207}{}{. ? az, aki picsÃ¡n rÃºgta az EnklÃ¡vÃ©sokat!}
 {1235}{}{?}
 {1236}{}{!}
 {1238}{}{!}

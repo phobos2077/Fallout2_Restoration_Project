@@ -1,53 +1,53 @@
-{100}{}{Ez itt nem más, mint egy aktív számítógép-terminál.}
-{101}{}{Közelebbr?l megvizsgálva egy fényl? feliratra leszel figyelmes: "I*tel Inside".}
-{102}{}{Képtelen vagy elolvasni, mi van a képerny?n.}
+{100}{}{Ez itt nem mÃ¡s, mint egy aktÃ­v szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l.}
+{101}{}{KÃ¶zelebbr?l megvizsgÃ¡lva egy fÃ©nyl? feliratra leszel figyelmes: "I*tel Inside".}
+{102}{}{KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?n.}
 {103}{}{F? Energia - Kikapcsolva                      
-                        Tartalék Energia - Bekapcsolva
-                                    Biztonsági Rendszer Újraindítása    
-                             Figyelem! Alacsony energiaszint - Az Er?terek  50%-osan m?ködnek
-                                                          Betöltés Befejezve...
-                                                Skynet Biztonsági Ellen?rzés 1
-                                   Kérem, adja meg a jelszót:}
-{104}{}{1-es Skynet Biztonsági Ellen?rz? Pont
-                                       Kérem, adja meg a jelszót:}
+                        TartalÃ©k Energia - Bekapcsolva
+                                    BiztonsÃ¡gi Rendszer ÃšjraindÃ­tÃ¡sa    
+                             Figyelem! Alacsony energiaszint - Az Er?terek  50%-osan m?kÃ¶dnek
+                                                          BetÃ¶ltÃ©s Befejezve...
+                                                Skynet BiztonsÃ¡gi Ellen?rzÃ©s 1
+                                   KÃ©rem, adja meg a jelszÃ³t:}
+{104}{}{1-es Skynet BiztonsÃ¡gi Ellen?rz? Pont
+                                       KÃ©rem, adja meg a jelszÃ³t:}
 {105}{}{Csajkovszkij}
-{106}{}{Szezám tárulj!}
+{106}{}{SzezÃ¡m tÃ¡rulj!}
 {107}{}{Sierra}
 {108}{}{Armageddon}
-{109}{}{Feltöröd a védelmi rendszert}
-{110}{}{G?zöd nincs. Kilépés.}
+{109}{}{FeltÃ¶rÃ¶d a vÃ©delmi rendszert}
+{110}{}{G?zÃ¶d nincs. KilÃ©pÃ©s.}
 {113}{}{Er?terek az 1. Szinten: Kikapcsolva}
-{115}{}{Kilépés}
-{117}{}{Ehhez a terminálhoz le van tiltva a hozzáférés.}
-{119}{}{Kilépés}
-{121}{}{29-es Hibakód
-                                                            Nem sikerült csatlakozni a szerverhez
-                                     Kérem, indítsa újra a gépet!}
-{123}{}{Kilépés}
-{124}{}{Belépés: Engedélyezve
+{115}{}{KilÃ©pÃ©s}
+{117}{}{Ehhez a terminÃ¡lhoz le van tiltva a hozzÃ¡fÃ©rÃ©s.}
+{119}{}{KilÃ©pÃ©s}
+{121}{}{29-es HibakÃ³d
+                                                            Nem sikerÃ¼lt csatlakozni a szerverhez
+                                     KÃ©rem, indÃ­tsa Ãºjra a gÃ©pet!}
+{123}{}{KilÃ©pÃ©s}
+{124}{}{BelÃ©pÃ©s: EngedÃ©lyezve
                                                  Er?terek az 1. szinten: Kikapcsolva}
-{125}{}{Kilépés}
-{126}{}{Érvénytelen Jelszó
-                                                     Belepés: Elutasítva
-                                                   Kérem, adja meg a jelszót:}
+{125}{}{KilÃ©pÃ©s}
+{126}{}{Ã‰rvÃ©nytelen JelszÃ³
+                                                     BelepÃ©s: ElutasÃ­tva
+                                                   KÃ©rem, adja meg a jelszÃ³t:}
 {127}{}{Csajkovszkij}
-{128}{}{Szezám tárulj!}
+{128}{}{SzezÃ¡m tÃ¡rulj!}
 {129}{}{Sierra}
 {130}{}{Armageddon}
-{131}{}{Feltöröd a Biztonsági Rendszert}
-{132}{}{G?zöd nincs. Kilépés.}
-{133}{}{[A <Ctrl><Alt><C> összeomlást okozott a programnak. Abban reménykedsz, hogy a maradék biztonsági berendezéseken is hasonlóan egyszer? lesz átrágnod magad.]}
-{134}{}{Kilépés.}
-{135}{}{Biztonsági Rés az 1. Szinten
-                                          Biztonsági Protokoll Aktiválása
-                                    A Felhasználók terminál-hozzáférése visszavonva  
-     Átvitel Vége}
-{136}{}{Kilépés}
+{131}{}{FeltÃ¶rÃ¶d a BiztonsÃ¡gi Rendszert}
+{132}{}{G?zÃ¶d nincs. KilÃ©pÃ©s.}
+{133}{}{[A <Ctrl><Alt><C> Ã¶sszeomlÃ¡st okozott a programnak. Abban remÃ©nykedsz, hogy a maradÃ©k biztonsÃ¡gi berendezÃ©seken is hasonlÃ³an egyszer? lesz Ã¡trÃ¡gnod magad.]}
+{134}{}{KilÃ©pÃ©s.}
+{135}{}{BiztonsÃ¡gi RÃ©s az 1. Szinten
+                                          BiztonsÃ¡gi Protokoll AktivÃ¡lÃ¡sa
+                                    A FelhasznÃ¡lÃ³k terminÃ¡l-hozzÃ¡fÃ©rÃ©se visszavonva  
+     Ãtvitel VÃ©ge}
+{136}{}{KilÃ©pÃ©s}
 {137}{}{It's no use. The program is just too complicated for you to understand.}
-{138}{}{A hozzá-nemértésed bekapcsolta a riasztó rendszert.}
-{139}{}{Kilépés}
-{200}{}{ képtelen elolvasni, mi van a képerny?n.}
-{300}{}{Úgy látszik, a számítógép védelmi berendezéssel van ellátva.}
-{301}{}{Áramütés ért, ezért -}
-{302}{}{, a társad, áramütést szenvedett, ezért -}
-{303}{}{ ÉP a büntetés!}
+{138}{}{A hozzÃ¡-nemÃ©rtÃ©sed bekapcsolta a riasztÃ³ rendszert.}
+{139}{}{KilÃ©pÃ©s}
+{200}{}{ kÃ©ptelen elolvasni, mi van a kÃ©perny?n.}
+{300}{}{Ãšgy lÃ¡tszik, a szÃ¡mÃ­tÃ³gÃ©p vÃ©delmi berendezÃ©ssel van ellÃ¡tva.}
+{301}{}{ÃramÃ¼tÃ©s Ã©rt, ezÃ©rt -}
+{302}{}{, a tÃ¡rsad, Ã¡ramÃ¼tÃ©st szenvedett, ezÃ©rt -}
+{303}{}{ Ã‰P a bÃ¼ntetÃ©s!}

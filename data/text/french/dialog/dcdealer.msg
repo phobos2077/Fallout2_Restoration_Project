@@ -1,9 +1,9 @@
 {100}{}{Tu vois un dealer de drogue.}
 {101}{}{Tu vois un dealer de drogue.}
 {102}{}{Si t'en veux, j'ai ce qu'il te faut.}
-{103}{}{Bien sûr, montre-moi.}
-{104}{}{Peut-être plus tard.}
-{105}{}{Tu as trouvé ce qu'il te fallait ?}
+{103}{}{Bien sÃ»r, montre-moi.}
+{104}{}{Peut-Ãªtre plus tard.}
+{105}{}{Tu as trouvÃ© ce qu'il te fallait ?}
 {106}{}{Merci. Au revoir.}
 {200}{}{Tu vois un voyou.}
 {201}{}{Tu vois un voyou.}

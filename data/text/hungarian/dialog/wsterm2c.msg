@@ -1,24 +1,24 @@
-{100}{}{Számítógép-terminál.}
-{101}{}{Ez egy meglehet?sen elavult számítógép. A Processzor sebessége csak 500GHz.}
-{102}{}{Képtelen vagy elolvasni, mi van a képerny?re írva.}
-{103}{}{Automatikus Javító Állomás
-                                           Skynet Javítási Intézkedéseinek Feldolgozása...
-                Javító Egységek Mozgósítása - Folyamatban}
+{100}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l.}
+{101}{}{Ez egy meglehet?sen elavult szÃ¡mÃ­tÃ³gÃ©p. A Processzor sebessÃ©ge csak 500GHz.}
+{102}{}{KÃ©ptelen vagy elolvasni, mi van a kÃ©perny?re Ã­rva.}
+{103}{}{Automatikus JavÃ­tÃ³ ÃllomÃ¡s
+                                           Skynet JavÃ­tÃ¡si IntÃ©zkedÃ©seinek FeldolgozÃ¡sa...
+                JavÃ­tÃ³ EgysÃ©gek MozgÃ³sÃ­tÃ¡sa - Folyamatban}
 {104}{}{}
 {105}{}{}
-{106}{}{Megpróbálod hatástalanítani az Automata Javító Állomást.}
-{107}{}{Kihúzod a számítógép kábeljét a helyér?l.}
-{108}{}{Ráütsz a KI feliratú, hatalmas gombra.}
-{109}{}{Kilépés}
-{110}{}{[Nem tudsz rájönni, miképp lehetne bezárni a programot.]}
-{111}{}{Kilépés}
-{112}{}{[A "KI" szó begépelése jó húzás volt. Az automata javítórendszer ki van kapcsolva.]}
-{113}{}{Kilépés}
-{114}{}{[Puszta véletlenségb?l észreveszed, hogy egy kábel indul ki a számítógépb?l és a falban lév? csatlakozóban ér véget. Ahogy kihúzod a dugót a helyér?l, a számítógép képerny?je elsötétedik.]}
-{115}{}{Kilépés}
-{116}{}{[Vakmer?en megnyomod a "KI" felirattal megjelölt gombot. Ahogyan azt el?re sejtetted, a terminál elsötétedik.]}
-{117}{}{Kilépés}
-{118}{}{[Ahogy elkezded bepötyögni a szót, a billenty?k váratlanul kiesnek a helyükr?l egyenesen a földre... Na, ennyit err?l a terminálról...]}
-{119}{}{Kilépés}
-{120}{}{Már kikapcsoltad az automata javító rendszert.}
-{121}{}{Nem tudok hozzáférni a terminálhoz. Valaki összetörte a billenty?zetet.}
+{106}{}{MegprÃ³bÃ¡lod hatÃ¡stalanÃ­tani az Automata JavÃ­tÃ³ ÃllomÃ¡st.}
+{107}{}{KihÃºzod a szÃ¡mÃ­tÃ³gÃ©p kÃ¡beljÃ©t a helyÃ©r?l.}
+{108}{}{RÃ¡Ã¼tsz a KI feliratÃº, hatalmas gombra.}
+{109}{}{KilÃ©pÃ©s}
+{110}{}{[Nem tudsz rÃ¡jÃ¶nni, mikÃ©pp lehetne bezÃ¡rni a programot.]}
+{111}{}{KilÃ©pÃ©s}
+{112}{}{[A "KI" szÃ³ begÃ©pelÃ©se jÃ³ hÃºzÃ¡s volt. Az automata javÃ­tÃ³rendszer ki van kapcsolva.]}
+{113}{}{KilÃ©pÃ©s}
+{114}{}{[Puszta vÃ©letlensÃ©gb?l Ã©szreveszed, hogy egy kÃ¡bel indul ki a szÃ¡mÃ­tÃ³gÃ©pb?l Ã©s a falban lÃ©v? csatlakozÃ³ban Ã©r vÃ©get. Ahogy kihÃºzod a dugÃ³t a helyÃ©r?l, a szÃ¡mÃ­tÃ³gÃ©p kÃ©perny?je elsÃ¶tÃ©tedik.]}
+{115}{}{KilÃ©pÃ©s}
+{116}{}{[Vakmer?en megnyomod a "KI" felirattal megjelÃ¶lt gombot. Ahogyan azt el?re sejtetted, a terminÃ¡l elsÃ¶tÃ©tedik.]}
+{117}{}{KilÃ©pÃ©s}
+{118}{}{[Ahogy elkezded bepÃ¶tyÃ¶gni a szÃ³t, a billenty?k vÃ¡ratlanul kiesnek a helyÃ¼kr?l egyenesen a fÃ¶ldre... Na, ennyit err?l a terminÃ¡lrÃ³l...]}
+{119}{}{KilÃ©pÃ©s}
+{120}{}{MÃ¡r kikapcsoltad az automata javÃ­tÃ³ rendszert.}
+{121}{}{Nem tudok hozzÃ¡fÃ©rni a terminÃ¡lhoz. Valaki Ã¶sszetÃ¶rte a billenty?zetet.}

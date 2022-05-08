@@ -1,25 +1,25 @@
-{100}{}{Egy ?rt látsz.}
-{101}{}{Egy ?rt látsz, akit Marcnak hívnak.}
-{102}{}{Marcot látod. Tyler egyik ?rét.}
-{150}{}{Hé, Tyler!}
+{100}{}{Egy ?rt lÃ¡tsz.}
+{101}{}{Egy ?rt lÃ¡tsz, akit Marcnak hÃ­vnak.}
+{102}{}{Marcot lÃ¡tod. Tyler egyik ?rÃ©t.}
+{150}{}{HÃ©, Tyler!}
 {200}{}{What the...?}
-{225}{}{Kösz a tippet. Jót mulattunk.}
-{226}{}{Tudtam, hogy elbánunk azokkal a nyápicokkal.}
-{227}{}{Kár, hogy mindet kinyírtuk. Most mit csináljunk?}
-{228}{}{Királyok vagyunk, nem igaz?}
-{229}{}{Túl jók vagyunk.}
-{230}{}{Kibaszottul szétrúgtunk pár segget! Igen!!}
-{250}{}{Tylerrel kell beszélnie, nem velem, hölgyem.}
+{225}{}{KÃ¶sz a tippet. JÃ³t mulattunk.}
+{226}{}{Tudtam, hogy elbÃ¡nunk azokkal a nyÃ¡picokkal.}
+{227}{}{KÃ¡r, hogy mindet kinyÃ­rtuk. Most mit csinÃ¡ljunk?}
+{228}{}{KirÃ¡lyok vagyunk, nem igaz?}
+{229}{}{TÃºl jÃ³k vagyunk.}
+{230}{}{Kibaszottul szÃ©trÃºgtunk pÃ¡r segget! Igen!!}
+{250}{}{Tylerrel kell beszÃ©lnie, nem velem, hÃ¶lgyem.}
 {251}{}{What's up. You need something; you gotta talk to Tyler here.}
-{252}{}{Mit nézel?}
-{253}{}{Tylerrel kell beszélnie, nem velem, uram.}
-{255}{}{Ma este szétrúgunk pár segget!}
-{256}{}{Emlékezetes lesz a mai este!}
-{257}{}{Erre az éjszakára biztosan emlékezni fogok.}
+{252}{}{Mit nÃ©zel?}
+{253}{}{Tylerrel kell beszÃ©lnie, nem velem, uram.}
+{255}{}{Ma este szÃ©trÃºgunk pÃ¡r segget!}
+{256}{}{EmlÃ©kezetes lesz a mai este!}
+{257}{}{Erre az Ã©jszakÃ¡ra biztosan emlÃ©kezni fogok.}
 {258}{}{Nehogy azt mond, hogy betojtak!}
-{259}{}{Nagyon remélem, hogy az a kibaszott gárda idedugja a képét.}
-{260}{}{Tudtam, hogy azok a beszariak nem jönnek el.}
-{261}{}{Már azért szét kéne rúgnunk a seggüket, mert azt hiszik, hogy szembe szállhatnak velünk.}
-{262}{}{Széttéptük volna ?ket, ha idemerészkedtek volna.}
-{263}{}{Egyedül is elbántam volna velük.}
-{264}{}{Én meg Tyler szétrúgtuk volna a seggüket.}
+{259}{}{Nagyon remÃ©lem, hogy az a kibaszott gÃ¡rda idedugja a kÃ©pÃ©t.}
+{260}{}{Tudtam, hogy azok a beszariak nem jÃ¶nnek el.}
+{261}{}{MÃ¡r azÃ©rt szÃ©t kÃ©ne rÃºgnunk a seggÃ¼ket, mert azt hiszik, hogy szembe szÃ¡llhatnak velÃ¼nk.}
+{262}{}{SzÃ©ttÃ©ptÃ¼k volna ?ket, ha idemerÃ©szkedtek volna.}
+{263}{}{EgyedÃ¼l is elbÃ¡ntam volna velÃ¼k.}
+{264}{}{Ã‰n meg Tyler szÃ©trÃºgtuk volna a seggÃ¼ket.}

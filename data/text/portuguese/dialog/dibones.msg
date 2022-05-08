@@ -1,1 +1,1 @@
-{100}{}{Você vê alguns ossos.}
+{100}{}{VocÃª vÃª alguns ossos.}

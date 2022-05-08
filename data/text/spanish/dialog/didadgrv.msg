@@ -1,1 +1,1 @@
-{101}{}{En la l·pida pone: "SeÒor Christopher Winslow".}
+{101}{}{En la l√°pida pone: "Se√±or Christopher Winslow".}

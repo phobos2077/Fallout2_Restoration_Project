@@ -1,82 +1,82 @@
 {100}{}{Terminal komputerowy.}
-{101}{}{Oszczêdzacz ekranu jest w³¹czony.}
-{103}{}{System Bezpieczeñstwa Skynet.                                    
+{101}{}{OszczÄ™dzacz ekranu jest wÅ‚Ä…czony.}
+{103}{}{System BezpieczeÅ„stwa Skynet.                                    
  Intruz na Poziomie 2.                                                
- Uruchamianie Œrodków Zapobiegawczych na Poziomie 2         
- Œrodki Zapobiegawcze - Transmisja Przerwana                 
+ Uruchamianie ÅšrodkÃ³w Zapobiegawczych na Poziomie 2         
+ Åšrodki Zapobiegawcze - Transmisja Przerwana                 
  Uruchamianie Zautomatyzowanego Systemu Naprawczego}
-{104}{}{System Bezpieczeñstwa Skynet                                     
+{104}{}{System BezpieczeÅ„stwa Skynet                                     
  Intruz na Poziomie 2                                                 
- Uruchamianie Œrodków Zapobiegawczych na Poziomie 2         
- Próba przekierowania zasilania do generatorów pola}
-{105}{}{System Bezpieczeñstwa Skynet                                     
+ Uruchamianie ÅšrodkÃ³w Zapobiegawczych na Poziomie 2         
+ PrÃ³ba przekierowania zasilania do generatorÃ³w pola}
+{105}{}{System BezpieczeÅ„stwa Skynet                                     
  Intruz na Poziomie 2                                                 
- Uruchamianie Œrodków Zapobiegawczych na Poziomie 2}
-{106}{}{Alarm na Poziomie 2 odwo³any - Fa³szywy alarm.}
-{107}{}{[Dostrzegasz na klawiaturze klawisz z napisem "Pomoc".] Wciœnij klawisz.}
-{108}{}{W³am siê do systemu bezpieczeñstwa.}
-{109}{}{Spróbuj wy³¹czyæ alarm.}
-{110}{}{WyjdŸ.}
-{111}{}{Ajj! [Uderzasz ze z³oœci¹ piêœci¹ w klawiaturê.]}
-{113}{}{System Bezpieczeñstwa Skynet}
-{114}{}{Skaner Siatkówki Uruchomiony                                     
+ Uruchamianie ÅšrodkÃ³w Zapobiegawczych na Poziomie 2}
+{106}{}{Alarm na Poziomie 2 odwoÅ‚any - FaÅ‚szywy alarm.}
+{107}{}{[Dostrzegasz na klawiaturze klawisz z napisem "Pomoc".] WciÅ›nij klawisz.}
+{108}{}{WÅ‚am siÄ™ do systemu bezpieczeÅ„stwa.}
+{109}{}{SprÃ³buj wyÅ‚Ä…czyÄ‡ alarm.}
+{110}{}{WyjdÅº.}
+{111}{}{Ajj! [Uderzasz ze zÅ‚oÅ›ciÄ… piÄ™Å›ciÄ… w klawiaturÄ™.]}
+{113}{}{System BezpieczeÅ„stwa Skynet}
+{114}{}{Skaner SiatkÃ³wki Uruchomiony                                     
  Skanowanie...                                                          
  Przeszukiwanie Bazy Danych}
-{115}{}{W³¹cz System Alarmowy na Poziomie 2}
-{116}{}{W³¹cz program auto-diagnostyczny.}
-{117}{}{WyjdŸ.}
-{118}{}{Ajj! [Uderzasz ze z³oœci¹ piêœci¹ w klawiaturê.]}
-{120}{}{System Bezpieczeñstwa Skynet                                     
- Odmowa Dostêpu do Tego Terminala}
-{122}{}{WyjdŸ.}
-{124}{}{B³¹d!                                                                     
- Brak plików programu                                                
- Proszê restartowaæ system}
-{126}{}{WyjdŸ.}
-{127}{}{Analizowanie Polecenia Proszê Czekaæ...                            
- Polecenie U¿ytkownika Uniewa¿nione                              
- Dostêp Zabroniony}
+{115}{}{WÅ‚Ä…cz System Alarmowy na Poziomie 2}
+{116}{}{WÅ‚Ä…cz program auto-diagnostyczny.}
+{117}{}{WyjdÅº.}
+{118}{}{Ajj! [Uderzasz ze zÅ‚oÅ›ciÄ… piÄ™Å›ciÄ… w klawiaturÄ™.]}
+{120}{}{System BezpieczeÅ„stwa Skynet                                     
+ Odmowa DostÄ™pu do Tego Terminala}
+{122}{}{WyjdÅº.}
+{124}{}{BÅ‚Ä…d!                                                                     
+ Brak plikÃ³w programu                                                
+ ProszÄ™ restartowaÄ‡ system}
+{126}{}{WyjdÅº.}
+{127}{}{Analizowanie Polecenia ProszÄ™ CzekaÄ‡...                            
+ Polecenie UÅ¼ytkownika UniewaÅ¼nione                              
+ DostÄ™p Zabroniony}
 {128}{}{[KONTYNUUJ]}
-{129}{}{Aby Wy³¹czyæ Alarm Wciœnij - 1                                      
- Aby Uruchomiæ Program Diagnostyczny Wciœnij - 2             
- Aby Wyjœæ Wciœnij - 3}
-{130}{}{Wciœnij 1}
-{131}{}{Wciœnij 2}
-{132}{}{Wciœnij 3}
-{133}{}{WyjdŸ.}
-{134}{}{Uwaga! Ten program dzia³a najlepiej, gdy wszystkie programy zostan¹ wy³¹czone. Czy chcesz zrobiæ to teraz?}
+{129}{}{Aby WyÅ‚Ä…czyÄ‡ Alarm WciÅ›nij - 1                                      
+ Aby UruchomiÄ‡ Program Diagnostyczny WciÅ›nij - 2             
+ Aby WyjÅ›Ä‡ WciÅ›nij - 3}
+{130}{}{WciÅ›nij 1}
+{131}{}{WciÅ›nij 2}
+{132}{}{WciÅ›nij 3}
+{133}{}{WyjdÅº.}
+{134}{}{Uwaga! Ten program dziaÅ‚a najlepiej, gdy wszystkie programy zostanÄ… wyÅ‚Ä…czone. Czy chcesz zrobiÄ‡ to teraz?}
 {135}{}{Tak.}
 {136}{}{Nie.}
-{137}{}{WyjdŸ.}
-{138}{}{Wy³¹czam Program Ochronny Skynet                                
- Analizujê Strukturê Danych                                       
+{137}{}{WyjdÅº.}
+{138}{}{WyÅ‚Ä…czam Program Ochronny Skynet                                
+ AnalizujÄ™ StrukturÄ™ Danych                                       
  Diagnostyka Przerwana                                             
- Program Diagnostyczny Zakoñczony                              
+ Program Diagnostyczny ZakoÅ„czony                              
  Ponowne Uruchamianie Programu Ochronny                       
- Resetujê Alarm                                                      
- System Bezpieczeñstwa Skynet - Stan Gotowoœci}
-{139}{}{WyjdŸ.}
-{140}{}{Dostêp Zabroniony...                                                   
- Dostêp Zabroniony...                                                 
- Dostêp Przyznany                                                   
- Wy³¹czanie Systemu Alarmowego na Poziomie 2}
-{141}{}{WyjdŸ.}
-{142}{}{Nieupowa¿niony Dostêp                                               
- Uruchamianie Blokady Bezpieczeñstwa tego Termianala}
-{143}{}{WyjdŸ.}
-{144}{}{Analizowanie Polecenia Proszê Czekaæ...                            
- Zakoñcz wsz...                                                        
- Uniewa¿nione Przez Skynet Kod 667                             
- Dostêp do tego Terminala zosta³ Zakoñczony.}
-{145}{}{WyjdŸ.}
+ ResetujÄ™ Alarm                                                      
+ System BezpieczeÅ„stwa Skynet - Stan GotowoÅ›ci}
+{139}{}{WyjdÅº.}
+{140}{}{DostÄ™p Zabroniony...                                                   
+ DostÄ™p Zabroniony...                                                 
+ DostÄ™p Przyznany                                                   
+ WyÅ‚Ä…czanie Systemu Alarmowego na Poziomie 2}
+{141}{}{WyjdÅº.}
+{142}{}{NieupowaÅ¼niony DostÄ™p                                               
+ Uruchamianie Blokady BezpieczeÅ„stwa tego Termianala}
+{143}{}{WyjdÅº.}
+{144}{}{Analizowanie Polecenia ProszÄ™ CzekaÄ‡...                            
+ ZakoÅ„cz wsz...                                                        
+ UniewaÅ¼nione Przez Skynet Kod 667                             
+ DostÄ™p do tego Terminala zostaÅ‚ ZakoÅ„czony.}
+{145}{}{WyjdÅº.}
 {146}{}{Zamykanie Programu Diagnostycznego.}
 {147}{}{[KONTYNUUJ]}
 {300}{}{                                       
- To¿samoœæ Potwierdzona: }
+ ToÅ¼samoÅ›Ä‡ Potwierdzona: }
 {301}{}{                       
- Ostatnie Wejœcie: }
+ Ostatnie WejÅ›cie: }
 {303}{}{Kapral Dixon    }
-{304}{}{Genera³ Clifton}
+{304}{}{GeneraÅ‚ Clifton}
 {305}{}{5 sierpnia 2077}
 {306}{}{ dni temu.}
 {307}{}{                                       

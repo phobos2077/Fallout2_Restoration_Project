@@ -1,1 +1,1 @@
-{100}{}{Egy sötét barlangba jutottál. Mindenhol patkánykaki van.}
+{100}{}{Egy sÃ¶tÃ©t barlangba jutottÃ¡l. Mindenhol patkÃ¡nykaki van.}

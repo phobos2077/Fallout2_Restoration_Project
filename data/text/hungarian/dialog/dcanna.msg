@@ -1,44 +1,44 @@
 {100}{}{Egy szellem!}
-{101}{}{Annát, a szellemet látod.}
-{150}{}{Ez egy szellem. Nem mindennapi látvány.}
+{101}{}{AnnÃ¡t, a szellemet lÃ¡tod.}
+{150}{}{Ez egy szellem. Nem mindennapi lÃ¡tvÃ¡ny.}
 {151}{}{Nagyon szenved.}
-{152}{}{[Beszélgetés]}
-{153}{}{Ó, nagyon fáj! Annyira éget!}
+{152}{}{[BeszÃ©lgetÃ©s]}
+{153}{}{Ã“, nagyon fÃ¡j! Annyira Ã©get!}
 {154}{}{Mi a baj?}
 {155}{}{Ki vagy te?}
-{156}{}{Pusztulj, ocsmány szellem!}
-{157}{}{Kopogtatok minden ajtón, de senki nem jön, senki nem hall.}
-{158}{}{Én hallom önt. Mi a baj?}
-{159}{}{Szerintem le kéne kapcsolnia a Stealth Boy-t, asszonyom.}
-{160}{}{Hol van? Nem találom! Mi lesz most?! Ó...}
-{161}{}{Mit keres? Talán tudok segíteni.}
-{162}{}{Jó lenne, ha abbahagyná a nyöszörgést, meg a panaszkodást, és értelmesen kezdene beszélni!}
-{163}{}{A medálom! Elt?nt. Tolvaj! Tolvaj!}
-{164}{}{Én csak most érkeztem! Nem én voltam.}
-{165}{}{Segítsek megtalálni?}
-{166}{}{Ó, kegyetlen sors.}
+{156}{}{Pusztulj, ocsmÃ¡ny szellem!}
+{157}{}{Kopogtatok minden ajtÃ³n, de senki nem jÃ¶n, senki nem hall.}
+{158}{}{Ã‰n hallom Ã¶nt. Mi a baj?}
+{159}{}{Szerintem le kÃ©ne kapcsolnia a Stealth Boy-t, asszonyom.}
+{160}{}{Hol van? Nem talÃ¡lom! Mi lesz most?! Ã“...}
+{161}{}{Mit keres? TalÃ¡n tudok segÃ­teni.}
+{162}{}{JÃ³ lenne, ha abbahagynÃ¡ a nyÃ¶szÃ¶rgÃ©st, meg a panaszkodÃ¡st, Ã©s Ã©rtelmesen kezdene beszÃ©lni!}
+{163}{}{A medÃ¡lom! Elt?nt. Tolvaj! Tolvaj!}
+{164}{}{Ã‰n csak most Ã©rkeztem! Nem Ã©n voltam.}
+{165}{}{SegÃ­tsek megtalÃ¡lni?}
+{166}{}{Ã“, kegyetlen sors.}
 {167}{}{Nem hall engem, ugye?}
-{168}{}{Kés?bb, szellem-hölgy.}
-{169}{}{Minden jót! Megpróbálok segíteni.}
-{170}{}{A medálom! Adja ide! Óóóó!!!!}
-{171}{}{Dehogyis! Menjen a pokolba! Tisztességes úton jutottam hozzá.}
-{172}{}{Oké. Tessék...}
-{173}{}{Itt van. Nyugodjon békében!}
-{174}{}{OKÉ.}
+{168}{}{KÃ©s?bb, szellem-hÃ¶lgy.}
+{169}{}{Minden jÃ³t! MegprÃ³bÃ¡lok segÃ­teni.}
+{170}{}{A medÃ¡lom! Adja ide! Ã“Ã³Ã³Ã³!!!!}
+{171}{}{Dehogyis! Menjen a pokolba! TisztessÃ©ges Ãºton jutottam hozzÃ¡.}
+{172}{}{OkÃ©. TessÃ©k...}
+{173}{}{Itt van. Nyugodjon bÃ©kÃ©ben!}
+{174}{}{OKÃ‰.}
 {175}{}{Nem.}
-{176}{}{A medálom, a medálom! Apa, jövök már! Jövök!}
-{177}{}{Viszlát!}
-{178}{}{Várjon! Ne menjen még!}
-{179}{}{Irány a fény...}
+{176}{}{A medÃ¡lom, a medÃ¡lom! Apa, jÃ¶vÃ¶k mÃ¡r! JÃ¶vÃ¶k!}
+{177}{}{ViszlÃ¡t!}
+{178}{}{VÃ¡rjon! Ne menjen mÃ©g!}
+{179}{}{IrÃ¡ny a fÃ©ny...}
 {200}{}{Hol lehet?}
-{201}{}{Óh...}
+{201}{}{Ã“h...}
 {202}{}{Anya? Apa? Hol vagytok?}
-{203}{}{Nem találom!}
-{500}{}{Anyu... Apu... Jövök...}
-{501}{}{Olyan fényes...}
-{502}{}{Nagyi, már látlak...}
-{503}{}{Óh, a kedves Mr. Cain az. Örülök, hogy újra látom...}
-{550}{}{Ez a ház megtisztult.}
+{203}{}{Nem talÃ¡lom!}
+{500}{}{Anyu... Apu... JÃ¶vÃ¶k...}
+{501}{}{Olyan fÃ©nyes...}
+{502}{}{Nagyi, mÃ¡r lÃ¡tlak...}
+{503}{}{Ã“h, a kedves Mr. Cain az. Ã–rÃ¼lÃ¶k, hogy Ãºjra lÃ¡tom...}
+{550}{}{Ez a hÃ¡z megtisztult.}
 {551}{}{Oog, pretti bones.}
-{560}{}{SZELLEMIRTÓ!}
+{560}{}{SZELLEMIRTÃ“!}
 {561}{}{Ah...}

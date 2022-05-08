@@ -1,9 +1,9 @@
-{100}{}{Widzisz du¿y metalowy sejf.}
-{101}{}{To jest bardzo wytrzyma³y sejf. Jest zamkniêty.}
-{102}{}{To jest bardzo wytrzyma³y sejf. Jest otwarty.}
-{170}{}{Zrêcznie otwierasz sejf.}
-{171}{}{Twój brak wprawy spowodowa³, ¿e zamek jest teraz zaciêty.}
-{172}{}{Nie uda³o ci siê otworzyæ sejfu.}
-{189}{}{Zrêcznie zamykasz sejf.}
-{190}{}{Nie udaje ci siê zamkn¹æ sejfu.}
-{200}{}{Sejf jest bezpiecznie zamkniêty.}
+{100}{}{Widzisz duÅ¼y metalowy sejf.}
+{101}{}{To jest bardzo wytrzymaÅ‚y sejf. Jest zamkniÄ™ty.}
+{102}{}{To jest bardzo wytrzymaÅ‚y sejf. Jest otwarty.}
+{170}{}{ZrÄ™cznie otwierasz sejf.}
+{171}{}{TwÃ³j brak wprawy spowodowaÅ‚, Å¼e zamek jest teraz zaciÄ™ty.}
+{172}{}{Nie udaÅ‚o ci siÄ™ otworzyÄ‡ sejfu.}
+{189}{}{ZrÄ™cznie zamykasz sejf.}
+{190}{}{Nie udaje ci siÄ™ zamknÄ…Ä‡ sejfu.}
+{200}{}{Sejf jest bezpiecznie zamkniÄ™ty.}

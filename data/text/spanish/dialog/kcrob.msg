@@ -1,3 +1,3 @@
 {100}{}{Ves a un robot.}
-{101}{}{Este robot ha sufrido una gran cantidad de daÒos. Su superficie est· cubierta de abolladuras, araÒazos, barro, y cables rotos.}
+{101}{}{Este robot ha sufrido una gran cantidad de da√±os. Su superficie est√° cubierta de abolladuras, ara√±azos, barro, y cables rotos.}
 {102}{}{}

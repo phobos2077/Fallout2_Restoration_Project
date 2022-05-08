@@ -1,1 +1,1 @@
-{100}{}{L'entrée de cette grotte semble s'être écroulée il y a peu de temps. Une charge explosive bien placée doit pourvoir dégager les débris.}
+{100}{}{L'entrÃ©e de cette grotte semble s'Ãªtre Ã©croulÃ©e il y a peu de temps. Une charge explosive bien placÃ©e doit pourvoir dÃ©gager les dÃ©bris.}

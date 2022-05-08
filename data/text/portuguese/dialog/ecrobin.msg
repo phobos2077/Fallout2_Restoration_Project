@@ -1,10 +1,10 @@
-{100}{}{Você vê um homem em armadura de energia.}
-{101}{}{Este é Sir Robin.}
-{102}{}{Ele parece que ele está pronto para ser executado.}
-{103}{}{Sir Robin, em seu serviço.}
-{104}{}{Você não vai tentar me machucar, você vai?}
-{105}{}{Não há necessidade de violência, não é?}
-{106}{}{Por favor, vá embora.}
-{200}{}{Aqui agora! Suas mãos estão geladas!}
-{201}{}{Isso não pertence a você.}
-{202}{}{Ei, essas são as minhas coisas!}
+{100}{}{VocÃª vÃª um homem em armadura de energia.}
+{101}{}{Este Ã© Sir Robin.}
+{102}{}{Ele parece que ele estÃ¡ pronto para ser executado.}
+{103}{}{Sir Robin, em seu serviÃ§o.}
+{104}{}{VocÃª nÃ£o vai tentar me machucar, vocÃª vai?}
+{105}{}{NÃ£o hÃ¡ necessidade de violÃªncia, nÃ£o Ã©?}
+{106}{}{Por favor, vÃ¡ embora.}
+{200}{}{Aqui agora! Suas mÃ£os estÃ£o geladas!}
+{201}{}{Isso nÃ£o pertence a vocÃª.}
+{202}{}{Ei, essas sÃ£o as minhas coisas!}

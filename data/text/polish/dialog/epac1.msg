@@ -1,16 +1,16 @@
-{100}{}{Widzisz robota Pana Z³ot¹ R¹czkê.}
-{101}{}{Widzisz robota, Pana Z³ot¹ R¹czkê cierpi¹cego z powodu depresji.}
-{102}{}{Ten robot wydaje siê mieæ depresjê z jakiegoœ powodu.}
-{200}{}{Ach, jak wielki jest mój smutek!}
+{100}{}{Widzisz robota Pana ZÅ‚otÄ… RÄ…czkÄ™.}
+{101}{}{Widzisz robota, Pana ZÅ‚otÄ… RÄ…czkÄ™ cierpiÄ…cego z powodu depresji.}
+{102}{}{Ten robot wydaje siÄ™ mieÄ‡ depresjÄ™ z jakiegoÅ› powodu.}
+{200}{}{Ach, jak wielki jest mÃ³j smutek!}
 {201}{}{Ale chandra...}
-{202}{}{Chcê umrzeæ...}
-{203}{}{Proszê, niech mnie ktoœ dobije...}
+{202}{}{ChcÄ™ umrzeÄ‡...}
+{203}{}{ProszÄ™, niech mnie ktoÅ› dobije...}
 {204}{}{Wszyscy odeszli...}
-{205}{}{Dlaczego mia³bym to robiæ?}
+{205}{}{Dlaczego miaÅ‚bym to robiÄ‡?}
 {206}{}{Nuda...}
 {207}{}{...CHLIP...}
-{208}{}{¯ycie... Nawet mi nie mów o ¿yciu.}
-{209}{}{Myœlê, ¿e powinienem ci powiedzieæ o mojej depresji.}
-{210}{}{Wybacz, ¿e oddycham, czego w sumie i tak nie robiê, wiêc nie wiem po co w ogóle to mówiê, o Bo¿e, ale mam depresjê.}
-{500}{}{Ta, po prostu zrzuæ mnie ze zbocza.}
-{501}{}{***bzzt Przestañ!*** bzzt}
+{208}{}{Å»ycie... Nawet mi nie mÃ³w o Å¼yciu.}
+{209}{}{MyÅ›lÄ™, Å¼e powinienem ci powiedzieÄ‡ o mojej depresji.}
+{210}{}{Wybacz, Å¼e oddycham, czego w sumie i tak nie robiÄ™, wiÄ™c nie wiem po co w ogÃ³le to mÃ³wiÄ™, o BoÅ¼e, ale mam depresjÄ™.}
+{500}{}{Ta, po prostu zrzuÄ‡ mnie ze zbocza.}
+{501}{}{***bzzt PrzestaÅ„!*** bzzt}

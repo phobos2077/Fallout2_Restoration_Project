@@ -1,10 +1,10 @@
-{100}{}{Egy szakadt pénztárost látsz.}
-{101}{}{Messzir?l látszik rajta, hogy gyakorlatilag bármit megvenne azért, hogy az emberek itt játsszannak.}
+{100}{}{Egy szakadt pÃ©nztÃ¡rost lÃ¡tsz.}
+{101}{}{Messzir?l lÃ¡tszik rajta, hogy gyakorlatilag bÃ¡rmit megvenne azÃ©rt, hogy az emberek itt jÃ¡tsszannak.}
 {102}{}{Mit aka'sz?}
-{103}{}{Elvesztegetnék néhány dolgot.}
+{103}{}{ElvesztegetnÃ©k nÃ©hÃ¡ny dolgot.}
 {104}{}{Semmi.}
 {105}{}{ akar csecsebecse.}
 {106}{}{ megy, viszla.}
-{107}{}{Másvalamit?}
-{108}{}{Van még néhány eladó cuccom.}
-{109}{}{ akar még csecsebecse.}
+{107}{}{MÃ¡svalamit?}
+{108}{}{Van mÃ©g nÃ©hÃ¡ny eladÃ³ cuccom.}
+{109}{}{ akar mÃ©g csecsebecse.}

@@ -1,169 +1,169 @@
 {100}{}{Widzisz starego ghula.}
 {101}{}{Widzisz Typhona, syna Seta.}
-{102}{}{Widzisz starego ghula, w którego oczach widaæ inteligencjê.}
-{103}{}{Jak siê masz, m³odziku, witaj w Domu Starego Ghula!}
+{102}{}{Widzisz starego ghula, w ktÃ³rego oczach widaÄ‡ inteligencjÄ™.}
+{103}{}{Jak siÄ™ masz, mÅ‚odziku, witaj w Domu Starego Ghula!}
 {104}{}{Regogula?}
 {105}{}{Domu Starego Ghula?}
-{106}{}{Kim jesteœ?}
-{107}{}{Hej, czy s³ysza³eœ kiedyœ o GECKu?}
+{106}{}{Kim jesteÅ›?}
+{107}{}{Hej, czy sÅ‚yszaÅ‚eÅ› kiedyÅ› o GECKu?}
 {108}{}{Bywaj.}
-{109}{}{Nastêpne dziecko pustyni, co? Hej, dzieciaku, chcesz poznaæ pewien sekret?}
+{109}{}{NastÄ™pne dziecko pustyni, co? Hej, dzieciaku, chcesz poznaÄ‡ pewien sekret?}
 {110}{}{Taa!}
 {111}{}{Y, y.}
-{112}{}{Za m³odu stawia³em na wyœcigach i wygra³em trochê forsy. Dawno temu zakopa³em wszystkie moje pieni¹dze niedaleko st¹d. Jeœli ktoœ wyœwiadczy³by mi przys³ugê lub dwie, móg³bym mu powiedzieæ, gdzie jest "skarb".}
-{113}{}{Mów!}
+{112}{}{Za mÅ‚odu stawiaÅ‚em na wyÅ›cigach i wygraÅ‚em trochÄ™ forsy. Dawno temu zakopaÅ‚em wszystkie moje pieniÄ…dze niedaleko stÄ…d. JeÅ›li ktoÅ› wyÅ›wiadczyÅ‚by mi przysÅ‚ugÄ™ lub dwie, mÃ³gÅ‚bym mu powiedzieÄ‡, gdzie jest "skarb".}
+{113}{}{MÃ³w!}
 {114}{}{Nie obchodzi.}
 {115}{}{Jaki skarb?}
-{116}{}{Jak¹ przys³ugê?}
-{117}{}{Mam parê innych pytañ.}
+{116}{}{JakÄ… przysÅ‚ugÄ™?}
+{117}{}{Mam parÄ™ innych pytaÅ„.}
 {118}{}{Na razie!}
 {119}{}{Heh. Dobra, jak sobie chcesz. W takim razie nic dla ciebie nie mam.}
 {120}{}{Bywaj.}
-{121}{}{Musisz wyœwiadczyæ mi najpierw przys³ugê, dzieciaku.}
+{121}{}{Musisz wyÅ›wiadczyÄ‡ mi najpierw przysÅ‚ugÄ™, dzieciaku.}
 {122}{}{Okej!}
 {123}{}{Nuh uh!}
 {124}{}{Co to jest?}
 {125}{}{Zapomnij o tym.}
-{126}{}{Jestem ju¿ stary i du¿o st¹d nie wychodzê. Nie mam zbyt du¿ych szans na akcjê, wiesz co mam na myœli? Chcê wiêc Magazyn Kocia £apka. Przynieœ mi jeden.}
-{127}{}{Masz! [daj Magazyn Kocia £apka Typhonowi]}
+{126}{}{Jestem juÅ¼ stary i duÅ¼o stÄ…d nie wychodzÄ™. Nie mam zbyt duÅ¼ych szans na akcjÄ™, wiesz co mam na myÅ›li? ChcÄ™ wiÄ™c Magazyn Kocia Åapka. PrzynieÅ› mi jeden.}
+{127}{}{Masz! [daj Magazyn Kocia Åapka Typhonowi]}
 {128}{}{Okej!}
 {129}{}{Ne!}
-{130}{}{Proszê bardzo. [daj Magazyn Kocia £apka Typhonowi]}
-{131}{}{Dobra. Nied³ugo wrócê.}
+{130}{}{ProszÄ™ bardzo. [daj Magazyn Kocia Åapka Typhonowi]}
+{131}{}{Dobra. NiedÅ‚ugo wrÃ³cÄ™.}
 {132}{}{Zapomnij o tym.}
-{133}{}{Dziêki za œwierszczyka, dzieciaku. Pogadam z tob¹ za godzinê lub dwie.}
+{133}{}{DziÄ™ki za Å›wierszczyka, dzieciaku. Pogadam z tobÄ… za godzinÄ™ lub dwie.}
 {134}{}{Okej!}
-{135}{}{Jeszcze tego nie zrobi³em! Kurwa! Czy stary ghul nie mo¿e mieæ odrobiny prywatnoœci?}
+{135}{}{Jeszcze tego nie zrobiÅ‚em! Kurwa! Czy stary ghul nie moÅ¼e mieÄ‡ odrobiny prywatnoÅ›ci?}
 {136}{}{[dalej]}
-{137}{}{Jaki to skarb? Forsa, dzieciaku, kupa forsy. Wystarczaj¹co du¿o, by zaspokoiæ ka¿d¹ normaln¹ osobê.}
-{138}{}{Jakiœ haczyk?}
-{139}{}{Nie potrzebujê pieniêdzy.}
-{140}{}{Wróci³eœ, co? Chcesz ten skarb, co, dzieciaku?}
+{137}{}{Jaki to skarb? Forsa, dzieciaku, kupa forsy. WystarczajÄ…co duÅ¼o, by zaspokoiÄ‡ kaÅ¼dÄ… normalnÄ… osobÄ™.}
+{138}{}{JakiÅ› haczyk?}
+{139}{}{Nie potrzebujÄ™ pieniÄ™dzy.}
+{140}{}{WrÃ³ciÅ‚eÅ›, co? Chcesz ten skarb, co, dzieciaku?}
 {141}{}{'ak!}
 {142}{}{Nie-e.}
 {143}{}{Co to za skarb?}
 {144}{}{Tak, powiedz mi o nim.}
-{145}{}{Mam parê pytañ.}
+{145}{}{Mam parÄ™ pytaÅ„.}
 {146}{}{Nie.}
-{147}{}{Na przyk³ad?}
+{147}{}{Na przykÅ‚ad?}
 {148}{}{To Dom Starego Ghula?}
-{149}{}{S³ysza³eœ kiedyœ o GECKu?}
-{150}{}{Kim jesteœ?}
-{151}{}{Mo¿esz powiedzieæ mi coœ jeszcze?}
-{152}{}{To taki dowcip. Przebywaj¹ tu tylko starzy ghule. Widzisz, jesteœmy wszyscy sterylni, ale ¿yjemy bardzo d³ugo. Jesteœmy pierwszym i ostatnim pokoleniem ghuli. To jest miejsce dla tych z nas, którzy chc¹ trochê odpocz¹æ.}
-{153}{}{Rozumiem. Mam parê pytañ.}
+{149}{}{SÅ‚yszaÅ‚eÅ› kiedyÅ› o GECKu?}
+{150}{}{Kim jesteÅ›?}
+{151}{}{MoÅ¼esz powiedzieÄ‡ mi coÅ› jeszcze?}
+{152}{}{To taki dowcip. PrzebywajÄ… tu tylko starzy ghule. Widzisz, jesteÅ›my wszyscy sterylni, ale Å¼yjemy bardzo dÅ‚ugo. JesteÅ›my pierwszym i ostatnim pokoleniem ghuli. To jest miejsce dla tych z nas, ktÃ³rzy chcÄ… trochÄ™ odpoczÄ…Ä‡.}
+{153}{}{Rozumiem. Mam parÄ™ pytaÅ„.}
 {154}{}{Rozumiem. Na razie.}
-{155}{}{Jestem Typhon. S³ysza³eœ kiedykolwiek o Secie? Rz¹dzi³ kiedyœ w Necropolis. Jestem jego synem. Urodzi³em siê, kiedy nadesz³o promieniowanie, wiêc dorasta³em zmutowany. Nigdy nie mia³em innego ¿ycia.}
+{155}{}{Jestem Typhon. SÅ‚yszaÅ‚eÅ› kiedykolwiek o Secie? RzÄ…dziÅ‚ kiedyÅ› w Necropolis. Jestem jego synem. UrodziÅ‚em siÄ™, kiedy nadeszÅ‚o promieniowanie, wiÄ™c dorastaÅ‚em zmutowany. Nigdy nie miaÅ‚em innego Å¼ycia.}
 {156}{}{Opowiedz mi o Secie.}
-{157}{}{Set? S³ysza³em, ¿e to by³ totalny skurwiel!}
-{158}{}{Rozumiem. Mam parê pytañ.}
+{157}{}{Set? SÅ‚yszaÅ‚em, Å¼e to byÅ‚ totalny skurwiel!}
+{158}{}{Rozumiem. Mam parÄ™ pytaÅ„.}
 {159}{}{Rozumiem. Na razie.}
-{160}{}{Tak. Mieliœmy kiedyœ takie, ale ci niezmutowani ludzie zabrali je nam, ¿eby stworzyæ w³asne Cudowne Krainy. Na twoim miejscu poszuka³bym w Kryptopolis. Albo mo¿e w RNK na po³udniu.}
-{161}{}{Cholera. Mam parê pytañ.}
+{160}{}{Tak. MieliÅ›my kiedyÅ› takie, ale ci niezmutowani ludzie zabrali je nam, Å¼eby stworzyÄ‡ wÅ‚asne Cudowne Krainy. Na twoim miejscu poszukaÅ‚bym w Kryptopolis. Albo moÅ¼e w RNK na poÅ‚udniu.}
+{161}{}{Cholera. Mam parÄ™ pytaÅ„.}
 {162}{}{Cholera. Na razie.}
-{163}{}{"Totalny Skurwiel" to chyba dobre s³owa na opisanie go. Zmiana w ghula nie zmniejszy³a wcale jego poczucia humoru, ani manii wielkoœci. Oczywiœcie mutacja pomiesza³a ka¿demu trochê w g³owie. Myœlê, ¿e dorastanie jako ghul trochê mi to u³atwi³o.}
-{164}{}{Rozumiem. Mam parê pytañ.}
-{165}{}{Dziêki. Na razie.}
-{166}{}{I co? Masz mój magazyn Kocia £apka?}
-{167}{}{Tak. [daj Typhonowi Koci¹ £apkê]}
+{163}{}{"Totalny Skurwiel" to chyba dobre sÅ‚owa na opisanie go. Zmiana w ghula nie zmniejszyÅ‚a wcale jego poczucia humoru, ani manii wielkoÅ›ci. OczywiÅ›cie mutacja pomieszaÅ‚a kaÅ¼demu trochÄ™ w gÅ‚owie. MyÅ›lÄ™, Å¼e dorastanie jako ghul trochÄ™ mi to uÅ‚atwiÅ‚o.}
+{164}{}{Rozumiem. Mam parÄ™ pytaÅ„.}
+{165}{}{DziÄ™ki. Na razie.}
+{166}{}{I co? Masz mÃ³j magazyn Kocia Åapka?}
+{167}{}{Tak. [daj Typhonowi KociÄ… ÅapkÄ™]}
 {168}{}{Nie-e.}
-{169}{}{Tak. Proszê bardzo. [daj Koci¹ £apkê Typhonowi]}
-{170}{}{Jeszcze nie. Mam parê pytañ.}
-{171}{}{¯aden.}
-{172}{}{Wiêc siê poœpiesz! Jestem bardzo starym ghulem, mówiê ci, muszê siê trochê rozerwaæ! A teraz idŸ, idŸ, idŸ!}
+{169}{}{Tak. ProszÄ™ bardzo. [daj KociÄ… ÅapkÄ™ Typhonowi]}
+{170}{}{Jeszcze nie. Mam parÄ™ pytaÅ„.}
+{171}{}{Å»aden.}
+{172}{}{WiÄ™c siÄ™ poÅ›piesz! Jestem bardzo starym ghulem, mÃ³wiÄ™ ci, muszÄ™ siÄ™ trochÄ™ rozerwaÄ‡! A teraz idÅº, idÅº, idÅº!}
 {173}{}{[dalej]}
-{174}{}{Dzieciaku, ten magazyn rozrusza³ trochê starego i myœlê, ¿e za ten skarb móg³byœ przynieœæ mi jeszcze parê rzeczy. Przynieœ mi gumow¹ lalkê. Powinieneœ chyba znaleŸæ jak¹œ w Nowym Reno.}
+{174}{}{Dzieciaku, ten magazyn rozruszaÅ‚ trochÄ™ starego i myÅ›lÄ™, Å¼e za ten skarb mÃ³gÅ‚byÅ› przynieÅ›Ä‡ mi jeszcze parÄ™ rzeczy. PrzynieÅ› mi gumowÄ… lalkÄ™. PowinieneÅ› chyba znaleÅºÄ‡ jakÄ…Å› w Nowym Reno.}
 {175}{}{Dobrze. Do widzenia!}
 {176}{}{Nie-e!}
-{177}{}{Proszê bardzo! [daj gumow¹ lalkê Typhonowi]}
-{178}{}{W porz¹dku. Mam jeszcze parê pytañ.}
-{179}{}{Dobra. ¯egnam.}
+{177}{}{ProszÄ™ bardzo! [daj gumowÄ… lalkÄ™ Typhonowi]}
+{178}{}{W porzÄ…dku. Mam jeszcze parÄ™ pytaÅ„.}
+{179}{}{Dobra. Å»egnam.}
 {180}{}{Zapomnij o tym.}
-{181}{}{Mam j¹ tu. [daj gumow¹ lalkê Typhonowi]}
-{182}{}{To powinno wystarczyæ. Daj mi parê godzin, a wtedy pogadamy. A teraz spadaj. [spogl¹da po¿¹dliwie na lalkê]}
+{181}{}{Mam jÄ… tu. [daj gumowÄ… lalkÄ™ Typhonowi]}
+{182}{}{To powinno wystarczyÄ‡. Daj mi parÄ™ godzin, a wtedy pogadamy. A teraz spadaj. [spoglÄ…da poÅ¼Ä…dliwie na lalkÄ™]}
 {183}{}{[dalej]}
-{184}{}{Czy nie mo¿na tu mieæ odrobiny prywatnoœci! Spierdalaj!}
+{184}{}{Czy nie moÅ¼na tu mieÄ‡ odrobiny prywatnoÅ›ci! Spierdalaj!}
 {185}{}{[dalej]}
-{186}{}{Jestem wyczerpany. Przynieœ mi butelkê samogonu i pogadamy o skarbie. Barman Phil powinien go mieæ.}
+{186}{}{Jestem wyczerpany. PrzynieÅ› mi butelkÄ™ samogonu i pogadamy o skarbie. Barman Phil powinien go mieÄ‡.}
 {187}{}{Taa! Nara!}
 {188}{}{Nie!}
 {189}{}{Masz! [Daj samogon Typhonowi.]}
-{190}{}{Proszê bardzo. [Daj samogon Typhonowi.]}
+{190}{}{ProszÄ™ bardzo. [Daj samogon Typhonowi.]}
 {191}{}{Czy to wszystko?}
-{192}{}{Dobra. ¯egnam.}
+{192}{}{Dobra. Å»egnam.}
 {193}{}{Zapomnij o tym.}
-{194}{}{Bêdê chyba chcia³... och, jeszcze jednej rzeczy. Powiem ci, jak przyniesiesz ten cholerny samogon.}
-{195}{}{Dobra, zrobiê to.}
+{194}{}{BÄ™dÄ™ chyba chciaÅ‚... och, jeszcze jednej rzeczy. Powiem ci, jak przyniesiesz ten cholerny samogon.}
+{195}{}{Dobra, zrobiÄ™ to.}
 {196}{}{Zapomnij o tym.}
-{197}{}{Tego mi by³o trzeba. Chcia³em ciê poprosiæ o roœlinkê, ale dam ci spokój.}
+{197}{}{Tego mi byÅ‚o trzeba. ChciaÅ‚em ciÄ™ poprosiÄ‡ o roÅ›linkÄ™, ale dam ci spokÃ³j.}
 {198}{}{Dzikujem!}
-{199}{}{Dziêki. Mam parê pytañ.}
-{200}{}{Dziêki, na razie.}
+{199}{}{DziÄ™ki. Mam parÄ™ pytaÅ„.}
+{200}{}{DziÄ™ki, na razie.}
 {201}{}{Jak tam szukanie skarbu?}
 {202}{}{Y, y.}
 {203}{}{Jeszcze nie.}
-{204}{}{Nic jeszcze nie mam. Chcê ciê o coœ spytaæ.}
-{205}{}{Nie. Czeœæ.}
-{206}{}{Wiêc go szukaj.}
-{207}{}{W porz¹dku.}
-{208}{}{W porz¹dku. Do widzenia.}
+{204}{}{Nic jeszcze nie mam. ChcÄ™ ciÄ™ o coÅ› spytaÄ‡.}
+{205}{}{Nie. CzeÅ›Ä‡.}
+{206}{}{WiÄ™c go szukaj.}
+{207}{}{W porzÄ…dku.}
+{208}{}{W porzÄ…dku. Do widzenia.}
 {209}{}{Jak tam skarb?}
-{210}{}{le! Kapsle!}
-{211}{}{Same kapsle od butelek! S¹ nic niewarte!}
-{212}{}{Ha ha. Bardzo œmieszne. Mam parê pytañ.}
+{210}{}{Å¹le! Kapsle!}
+{211}{}{Same kapsle od butelek! SÄ… nic niewarte!}
+{212}{}{Ha ha. Bardzo Å›mieszne. Mam parÄ™ pytaÅ„.}
 {213}{}{Zapomnij o tym.}
-{214}{}{Gówno! Na razie.}
-{215}{}{Co, nie u¿ywa siê ju¿ kapsli jako pieniêdzy? Wiêc ca³e to zbieranie, ukrywanie i obawa, ¿e ktoœ mi je ukradnie by³o na marne? Kurwa! Przepraszam, ¿e musia³eœ tak siê nabiegaæ, gdybym tylko wiedzia³...}
-{216}{}{W porz¹siu!}
-{217}{}{To by³a twoja ostatnia pomy³ka, stary ghulu. Teraz umrzesz.}
-{218}{}{Mog³o siê zdarzyæ ka¿demu. Mam parê pytañ.}
+{214}{}{GÃ³wno! Na razie.}
+{215}{}{Co, nie uÅ¼ywa siÄ™ juÅ¼ kapsli jako pieniÄ™dzy? WiÄ™c caÅ‚e to zbieranie, ukrywanie i obawa, Å¼e ktoÅ› mi je ukradnie byÅ‚o na marne? Kurwa! Przepraszam, Å¼e musiaÅ‚eÅ› tak siÄ™ nabiegaÄ‡, gdybym tylko wiedziaÅ‚...}
+{216}{}{W porzÄ…siu!}
+{217}{}{To byÅ‚a twoja ostatnia pomyÅ‚ka, stary ghulu. Teraz umrzesz.}
+{218}{}{MogÅ‚o siÄ™ zdarzyÄ‡ kaÅ¼demu. Mam parÄ™ pytaÅ„.}
 {219}{}{Dobra, dobra. Na razie.}
-{220}{}{Có¿, mog³o siê zdarzyæ ka¿demu.}
+{220}{}{CÃ³Å¼, mogÅ‚o siÄ™ zdarzyÄ‡ kaÅ¼demu.}
 {221}{}{Dopsze. Dzie kasa?}
-{222}{}{Dobrze. Gdzie s¹ pieni¹dze?}
-{223}{}{Dobrze. Pamiêtam, ¿e schowa³em pieni¹dze gdzieœ w Centrum. Ale to by³o tyle lat temu, stawiali nowe budynki, przebudowywali stare i tak w kó³ko, teraz nie jestem pewien, gdzie to jest. Jeœli to pomo¿e, pamiêtam, ¿e pomyœla³em wtedy; schowaæ je w miejscu którego nie zburz¹ ani nie rozkopi¹. No wiesz w jakimœ wa¿nym dla miasta miejscu. Powodzenia.}
-{224}{}{Uda³o ci siê przekonaæ Typhona, do powiedzenia ci o miejscu ukrycia skarbu.}
-{300}{}{Ale dialektyka Hegla nie odnosi siê do...}
+{222}{}{Dobrze. Gdzie sÄ… pieniÄ…dze?}
+{223}{}{Dobrze. PamiÄ™tam, Å¼e schowaÅ‚em pieniÄ…dze gdzieÅ› w Centrum. Ale to byÅ‚o tyle lat temu, stawiali nowe budynki, przebudowywali stare i tak w kÃ³Å‚ko, teraz nie jestem pewien, gdzie to jest. JeÅ›li to pomoÅ¼e, pamiÄ™tam, Å¼e pomyÅ›laÅ‚em wtedy; schowaÄ‡ je w miejscu ktÃ³rego nie zburzÄ… ani nie rozkopiÄ…. No wiesz w jakimÅ› waÅ¼nym dla miasta miejscu. Powodzenia.}
+{224}{}{UdaÅ‚o ci siÄ™ przekonaÄ‡ Typhona, do powiedzenia ci o miejscu ukrycia skarbu.}
+{300}{}{Ale dialektyka Hegla nie odnosi siÄ™ do...}
 {301}{}{Hegel, Hegel, Hegel! Zawsze ten Hegel!}
-{302}{}{A wtedy kobieta mówi, "To nie królik, proboszczu!"}
+{302}{}{A wtedy kobieta mÃ³wi, "To nie krÃ³lik, proboszczu!"}
 {303}{}{Ha ha ha ha!}
-{304}{}{A wtedy pierwszy proton mówi, "Tak, jestem dodatni!"}
-{305}{}{[jêk] Jest TAK Ÿle. Jestem wyczerpany.}
-{306}{}{Nie jest ³atwo byæ zielonym.}
-{307}{}{Powiedz mi coœ o tym.}
-{308}{}{Ale to przecie¿ oczywiste, ¿e to filozoficzna œlepa uliczka!}
-{309}{}{To tylko dlatego, ¿e nie przeanalizowa³eœ wszystkich rozga³êzieñ. Jeœli teraz...}
-{310}{}{Chcesz jakiegoœ owoca?}
+{304}{}{A wtedy pierwszy proton mÃ³wi, "Tak, jestem dodatni!"}
+{305}{}{[jÄ™k] Jest TAK Åºle. Jestem wyczerpany.}
+{306}{}{Nie jest Å‚atwo byÄ‡ zielonym.}
+{307}{}{Powiedz mi coÅ› o tym.}
+{308}{}{Ale to przecieÅ¼ oczywiste, Å¼e to filozoficzna Å›lepa uliczka!}
+{309}{}{To tylko dlatego, Å¼e nie przeanalizowaÅ‚eÅ› wszystkich rozgaÅ‚Ä™zieÅ„. JeÅ›li teraz...}
+{310}{}{Chcesz jakiegoÅ› owoca?}
 {311}{}{Nakarm mnie, Seymour.}
-{312}{}{Mózgi... móóóózgi... Przepraszam, to z przyzwyczajenia.}
-{313}{}{W porz¹dku. Nie mam przecie¿ mózgu, zapomnia³eœ?}
-{314}{}{Có¿, gnojówka jest w porz¹dku, ale nie ma jak nawóz z gnij¹cego cia³a.}
-{315}{}{Wiêc dlatego siê tu przenios³eœ! £atwy dostêp do ¿arcia.}
-{316}{}{Powiem ci coœ, nie ma jak szybki bieg.}
-{317}{}{Naprawdê czujesz wiatr przez kosmyki w³osów?}
-{318}{}{Nie by³em zapylany od lat!}
-{319}{}{WyobraŸ sobie uwiêzienie w TYM ciele! ¯adnej akcji! Ani trochê!}
-{320}{}{Mo¿e gdybyœ da³ szansê fotosyntezie...}
-{321}{}{Nie jestem odpowiedzialny za ewolucjê moich korzeni, ty draniu!}
-{322}{}{Coo? Mam nadziejê, ¿e umiesz przetwarzaæ metan!}
-{323}{}{Moje liœcie! Moje biedne liœcie! Aaaaagh!}
-{324}{}{Lubiê to miejsce, chyba zapuszczê tu korzenie.}
-{325}{}{Dobra, koniec z tymi dowcipami o roœlinach, kolego.}
-{326}{}{Ciekawe, jak idzie moim kuzynom z Arroyo. Mo¿e teraz kwitn¹?}
-{327}{}{Jasne, ¿e tak! Chyba, ¿e jakiœ skurwiel je zabi³.}
-{328}{}{Có¿, chyba pójdê otworzyæ drzwi albo coœ w tym stylu...}
-{329}{}{Mam inny pomys³.}
-{330}{}{Przyda³yby siê jakieœ koñczyny...}
-{331}{}{Aaaaaaaaaaaaaagh! Koniec z dowcipami o roœlinach!}
+{312}{}{MÃ³zgi... mÃ³Ã³Ã³Ã³zgi... Przepraszam, to z przyzwyczajenia.}
+{313}{}{W porzÄ…dku. Nie mam przecieÅ¼ mÃ³zgu, zapomniaÅ‚eÅ›?}
+{314}{}{CÃ³Å¼, gnojÃ³wka jest w porzÄ…dku, ale nie ma jak nawÃ³z z gnijÄ…cego ciaÅ‚a.}
+{315}{}{WiÄ™c dlatego siÄ™ tu przeniosÅ‚eÅ›! Åatwy dostÄ™p do Å¼arcia.}
+{316}{}{Powiem ci coÅ›, nie ma jak szybki bieg.}
+{317}{}{NaprawdÄ™ czujesz wiatr przez kosmyki wÅ‚osÃ³w?}
+{318}{}{Nie byÅ‚em zapylany od lat!}
+{319}{}{WyobraÅº sobie uwiÄ™zienie w TYM ciele! Å»adnej akcji! Ani trochÄ™!}
+{320}{}{MoÅ¼e gdybyÅ› daÅ‚ szansÄ™ fotosyntezie...}
+{321}{}{Nie jestem odpowiedzialny za ewolucjÄ™ moich korzeni, ty draniu!}
+{322}{}{Coo? Mam nadziejÄ™, Å¼e umiesz przetwarzaÄ‡ metan!}
+{323}{}{Moje liÅ›cie! Moje biedne liÅ›cie! Aaaaagh!}
+{324}{}{LubiÄ™ to miejsce, chyba zapuszczÄ™ tu korzenie.}
+{325}{}{Dobra, koniec z tymi dowcipami o roÅ›linach, kolego.}
+{326}{}{Ciekawe, jak idzie moim kuzynom z Arroyo. MoÅ¼e teraz kwitnÄ…?}
+{327}{}{Jasne, Å¼e tak! Chyba, Å¼e jakiÅ› skurwiel je zabiÅ‚.}
+{328}{}{CÃ³Å¼, chyba pÃ³jdÄ™ otworzyÄ‡ drzwi albo coÅ› w tym stylu...}
+{329}{}{Mam inny pomysÅ‚.}
+{330}{}{PrzydaÅ‚yby siÄ™ jakieÅ› koÅ„czyny...}
+{331}{}{Aaaaaaaaaaaaaagh! Koniec z dowcipami o roÅ›linach!}
 {332}{}{Zobacz nasiona na tej pszenicy!}
-{333}{}{Spokojnie, ch³opcze! Nie s¹dzê, aby twoje wakuole to wytrzyma³y.}
-{334}{}{Mam poczytaæ ci bajkê?}
-{335}{}{Mo¿e Królewna Œnie¿ka? Jaœ i Fasola? Ma³a Syrenka?}
-{336}{}{GECK? Tak, by³ taki facet...}
-{337}{}{Ciszej! Ktoœ s³yszy!}
-{338}{}{To wielkie ko³o ¿ycia... ¿ycie ¿ywi siê ¿yciem, które ¿ywi siê ¿yciem...}
-{339}{}{Uh huh. Ale TY dalej jesz nawóz. Boshe... filozofia roœlin...}
-{340}{}{Mogê siê kiedyœ pobawiæ twoim pancerzem wspomaganym?}
-{341}{}{Chodzi ci o to ubranko, które trzymam w szafce?}
-{342}{}{Tak, trochê siê zajmowa³em fizyk¹ kwantow¹.}
-{343}{}{Nie ¿eby by³o w tym coœ z³ego.}
+{333}{}{Spokojnie, chÅ‚opcze! Nie sÄ…dzÄ™, aby twoje wakuole to wytrzymaÅ‚y.}
+{334}{}{Mam poczytaÄ‡ ci bajkÄ™?}
+{335}{}{MoÅ¼e KrÃ³lewna ÅšnieÅ¼ka? JaÅ› i Fasola? MaÅ‚a Syrenka?}
+{336}{}{GECK? Tak, byÅ‚ taki facet...}
+{337}{}{Ciszej! KtoÅ› sÅ‚yszy!}
+{338}{}{To wielkie koÅ‚o Å¼ycia... Å¼ycie Å¼ywi siÄ™ Å¼yciem, ktÃ³re Å¼ywi siÄ™ Å¼yciem...}
+{339}{}{Uh huh. Ale TY dalej jesz nawÃ³z. Boshe... filozofia roÅ›lin...}
+{340}{}{MogÄ™ siÄ™ kiedyÅ› pobawiÄ‡ twoim pancerzem wspomaganym?}
+{341}{}{Chodzi ci o to ubranko, ktÃ³re trzymam w szafce?}
+{342}{}{Tak, trochÄ™ siÄ™ zajmowaÅ‚em fizykÄ… kwantowÄ….}
+{343}{}{Nie Å¼eby byÅ‚o w tym coÅ› zÅ‚ego.}

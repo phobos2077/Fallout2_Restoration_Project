@@ -1,8 +1,8 @@
-{100}{}{Widzisz ³owcê niewolników.}
-{101}{}{Ten ³owca niewolników wygl¹da na wrednego kolesia.}
-{102}{}{Ta ³owczyni wygl¹da na wredne babsko.}
-{200}{}{Œwietna robota. Ruszamy?}
-{201}{}{Muszê chwile odpocz¹æ.}
-{202}{}{Mogê. Ruszajmy.}
-{250}{}{Ci¹gle wyczuwam tu jakichœ Stra¿ników RNK.}
-{300}{}{To by³a ich ostatnia kryjówka. Zg³oœ siê do Vortisa w Republice Nowej Kalifornii.}
+{100}{}{Widzisz Å‚owcÄ™ niewolnikÃ³w.}
+{101}{}{Ten Å‚owca niewolnikÃ³w wyglÄ…da na wrednego kolesia.}
+{102}{}{Ta Å‚owczyni wyglÄ…da na wredne babsko.}
+{200}{}{Åšwietna robota. Ruszamy?}
+{201}{}{MuszÄ™ chwile odpoczÄ…Ä‡.}
+{202}{}{MogÄ™. Ruszajmy.}
+{250}{}{CiÄ…gle wyczuwam tu jakichÅ› StraÅ¼nikÃ³w RNK.}
+{300}{}{To byÅ‚a ich ostatnia kryjÃ³wka. ZgÅ‚oÅ› siÄ™ do Vortisa w Republice Nowej Kalifornii.}

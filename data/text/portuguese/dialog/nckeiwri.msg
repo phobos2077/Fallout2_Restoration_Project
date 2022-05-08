@@ -1,25 +1,25 @@
 {100}{}{You see Keith Wright.}
 {150}{}{You see a thin, pale-faced young man with long stringy blonde hair. He's looking at you warily.}
 {151}{}{You see Keith Wright. He's looking at you warily.}
-{200}{}{Quem È vocÍ?}
+{200}{}{Quem √© voc√™?}
 {201}{}{Whatdya want?}
 {220}{}{Ei, }
 {230}{}{Make another move toward that door, an' you'll be sorry.}
-{240}{}{Ainda n„o consigo acreditar que papai est· morto. Tinha tantas coisas que eu queria ter dito...}
+{240}{}{Ainda n√£o consigo acreditar que papai est√° morto. Tinha tantas coisas que eu queria ter dito...}
 {250}{}{Slaver, you done come to the wrong side of town. If you don't start explain' yourself, yer gonna be
  in a whole mess of trouble.}
 {251}{}{I don't know you, my Dad don't know you, and if you don't start explainin', it ain't gonna matter.}
 {252}{}{How's it goin', }
 {253}{}{Thanks for finding out who killed Richard, }
 {254}{}{Whatdya want now?}
-{255}{}{Mattah. O homem È Mattah!}
+{255}{}{Mattah. O homem √© Mattah!}
 {256}{}{Jabawokee Ding Dong}
 {257}{}{Cai fora}
-{258}{}{Estou ‡ procura de trabalho. A FamÌlia Wright est· contratando?}
+{258}{}{Estou √† procura de trabalho. A Fam√≠lia Wright est√° contratando?}
 {259}{}{I'm looking for a job. Chris sent me by. Is Family Wright hiring?}
 {262}{}{Hey, Keith. I ran into your Mom.}
 {263}{}{Can you tell me about your brother Richard?}
-{264}{}{Deixa pra l·. Desculpe incomod·-lo.}
+{264}{}{Deixa pra l√°. Desculpe incomod√°-lo.}
 {280}{}{Get outta here, dimbulb. Next time you talk to me, I'll plug you fulla holes.}
 {281}{}{Holes holes holes in my soles}
 {282}{}{Shamma Lamma DING DONG}
@@ -31,7 +31,7 @@
 {310}{}{I'm Keith Wright of the Family Wright. Now, you gonna tell me what yer doing here?}
 {312}{}{Chris told me to stop by. I'm looking for work. Can you help me?}
 {313}{}{Keith Wright, huh? I ran into your mother.}
-{315}{}{O que È este lugar?}
+{315}{}{O que √© este lugar?}
 {325}{}{This is the Family Wright HOUSE. Now, you gonna tell me what yer doing here?}
 {335}{}{Chris sent you, huh?}
 {336}{}{That's right. He said you might have some work for me.}
@@ -41,7 +41,7 @@
 {356}{}{Naw... we don't traffic with slaver trash like the other families. }
 {357}{}{You better git.}
 {358}{}{I'm not leaving until I see Mr. Wright.}
-{359}{}{Est· certo ent„o.}
+{359}{}{Est√° certo ent√£o.}
 {365}{}{Naw, I reckon you WILL be leaving, 'cause you look like the kinda person who likes living. Now get.}
 {366}{}{I'm NOT leaving.}
 {367}{}{Tudo certo.}

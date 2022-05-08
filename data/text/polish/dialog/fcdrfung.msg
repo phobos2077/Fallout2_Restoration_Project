@@ -1,126 +1,126 @@
-{100}{}{Widzisz starego, pomarszczonego cz³owieka ubranego w bia³y fartuch.}
+{100}{}{Widzisz starego, pomarszczonego czÅ‚owieka ubranego w biaÅ‚y fartuch.}
 {101}{}{To dr Fung.}
-{102}{}{Widzisz starego, pomarszczonego cz³owieka ubranego w bia³y fartuch.}
-{103}{}{Czy mogê w czymœ pomóc?}
-{104}{}{A³³! Oj! A³aaaa!}
-{105}{}{Tak - mam powa¿ne rany, a wygl¹da na to, ¿e jesteœ lekarzem.}
-{106}{}{Tak. Mój przyjaciel potrzebuje lekarza.}
-{107}{}{Czy masz stymulanty? Pragnê kilka kupiæ.}
-{108}{}{Kim jesteœ?}
-{109}{}{Mam przyjaciela, któremu brakuje œledziony. Czy móg³byœ mu pomóc?}
-{110}{}{Co mo¿esz mi powiedzieæ o tym miejscu?}
+{102}{}{Widzisz starego, pomarszczonego czÅ‚owieka ubranego w biaÅ‚y fartuch.}
+{103}{}{Czy mogÄ™ w czymÅ› pomÃ³c?}
+{104}{}{AÅ‚Å‚! Oj! AÅ‚aaaa!}
+{105}{}{Tak - mam powaÅ¼ne rany, a wyglÄ…da na to, Å¼e jesteÅ› lekarzem.}
+{106}{}{Tak. MÃ³j przyjaciel potrzebuje lekarza.}
+{107}{}{Czy masz stymulanty? PragnÄ™ kilka kupiÄ‡.}
+{108}{}{Kim jesteÅ›?}
+{109}{}{Mam przyjaciela, ktÃ³remu brakuje Å›ledziony. Czy mÃ³gÅ‚byÅ› mu pomÃ³c?}
+{110}{}{Co moÅ¼esz mi powiedzieÄ‡ o tym miejscu?}
 {111}{}{Bywaj.}
-{112}{}{Spójrzmy na to. Hmm. Tak. Oczywiœcie musisz za to zap³aciæ.}
+{112}{}{SpÃ³jrzmy na to. Hmm. Tak. OczywiÅ›cie musisz za to zapÅ‚aciÄ‡.}
 {113}{}{Ile?}
 {114}{}{Zapomnij o tym.}
-{115}{}{Potrafiê leczyæ... ale, rozumiesz, za odpowiedni¹ cenê.}
+{115}{}{PotrafiÄ™ leczyÄ‡... ale, rozumiesz, za odpowiedniÄ… cenÄ™.}
 {116}{}{Ile?}
 {117}{}{Zapomnij o tym.}
-{118}{}{Kim jestem? Jestem dr Fung. Nauczam i leczê.}
+{118}{}{Kim jestem? Jestem dr Fung. Nauczam i leczÄ™.}
 {119}{}{Dr Fung? Czy znasz doktora Hollidaya?}
-{120}{}{Mi³o mi poznaæ. Potrzebujê leczenia.}
-{121}{}{Mój przyjaciel wymaga leczenia.}
-{122}{}{Rozumiem. Dziêkujê i do zobaczenia.}
-{123}{}{Holliday? Tak! Nauczy³em go wszystkiego co umie! Gdzie on teraz jest?}
+{120}{}{MiÅ‚o mi poznaÄ‡. PotrzebujÄ™ leczenia.}
+{121}{}{MÃ³j przyjaciel wymaga leczenia.}
+{122}{}{Rozumiem. DziÄ™kujÄ™ i do zobaczenia.}
+{123}{}{Holliday? Tak! NauczyÅ‚em go wszystkiego co umie! Gdzie on teraz jest?}
 {124}{}{Mieszka w Broken Hills.}
-{125}{}{Uda³ siê do domu, prawda? Mam nadziejê, ¿e znalaz³ tam spokój.}
-{126}{}{Chyba tak. Mam kilka pytañ.}
-{127}{}{Zapewne. Muszê ju¿ iœæ. Do widzenia.}
-{128}{}{To bêdzie ciê kosztowaæ $100.}
-{129}{}{Zap³acê.}
+{125}{}{UdaÅ‚ siÄ™ do domu, prawda? Mam nadziejÄ™, Å¼e znalazÅ‚ tam spokÃ³j.}
+{126}{}{Chyba tak. Mam kilka pytaÅ„.}
+{127}{}{Zapewne. MuszÄ™ juÅ¼ iÅ›Ä‡. Do widzenia.}
+{128}{}{To bÄ™dzie ciÄ™ kosztowaÄ‡ $100.}
+{129}{}{ZapÅ‚acÄ™.}
 {130}{}{Zapomnij o tym.}
-{131}{}{Wygl¹da powa¿nie. $200.}
-{132}{}{Zap³acê.}
+{131}{}{WyglÄ…da powaÅ¼nie. $200.}
+{132}{}{ZapÅ‚acÄ™.}
 {133}{}{Zapomnij o tym.}
-{134}{}{Imponuj¹ce rany. $300 pokryje koszt mojej us³ugi.}
-{135}{}{Zap³acê.}
+{134}{}{ImponujÄ…ce rany. $300 pokryje koszt mojej usÅ‚ugi.}
+{135}{}{ZapÅ‚acÄ™.}
 {136}{}{Zapomnij o tym.}
-{137}{}{Przy takich obra¿eniach obawiam siê, ¿e bêdê musia³ za¿¹daæ $400.}
-{138}{}{Zap³acê.}
+{137}{}{Przy takich obraÅ¼eniach obawiam siÄ™, Å¼e bÄ™dÄ™ musiaÅ‚ zaÅ¼Ä…daÄ‡ $400.}
+{138}{}{ZapÅ‚acÄ™.}
 {139}{}{Zapomnij o tym.}
-{140}{}{Proszê usi¹œæ. Bêdzie to potrzebne, gdy zobaczysz rachunek. Leczenie uszkodzonych koñczyn kosztuje $600.}
-{141}{}{Zap³acê.}
+{140}{}{ProszÄ™ usiÄ…Å›Ä‡. BÄ™dzie to potrzebne, gdy zobaczysz rachunek. Leczenie uszkodzonych koÅ„czyn kosztuje $600.}
+{141}{}{ZapÅ‚acÄ™.}
 {142}{}{Zapomnij o tym.}
-{158}{}{Co? Nie masz pieniedzy? Jak mam prze¿yæ, je¿eli wymagasz ode mnie darmowego leczenia?}
-{159}{}{Czy masz mo¿e stymulanty?}
-{160}{}{Nie, dziêkujê.}
-{161}{}{Mi³o by³o robiæ z tob¹ interesy.}
-{162}{}{Dziêkujê.}
-{163}{}{Twoja oferta jest niestety nie do przyjêcia.}
+{158}{}{Co? Nie masz pieniedzy? Jak mam przeÅ¼yÄ‡, jeÅ¼eli wymagasz ode mnie darmowego leczenia?}
+{159}{}{Czy masz moÅ¼e stymulanty?}
+{160}{}{Nie, dziÄ™kujÄ™.}
+{161}{}{MiÅ‚o byÅ‚o robiÄ‡ z tobÄ… interesy.}
+{162}{}{DziÄ™kujÄ™.}
+{163}{}{Twoja oferta jest niestety nie do przyjÄ™cia.}
 {164}{}{A ta?}
-{165}{}{To wszystko co mam do zaoferowania. ¯egnam.}
-{166}{}{le z tob¹? Tsk, tsk. Staro¿ytne lekarstwo postawi ciê na nogi.}
-{167}{}{W-w porz¹dku!}
+{165}{}{To wszystko co mam do zaoferowania. Å»egnam.}
+{166}{}{Å¹le z tobÄ…? Tsk, tsk. StaroÅ¼ytne lekarstwo postawi ciÄ™ na nogi.}
+{167}{}{W-w porzÄ…dku!}
 {168}{}{}
-{169}{}{Gotowe. IdŸ, ale zachowuj siê ostro¿nie!}
-{170}{}{Dziêkuju!}
-{171}{}{Potrzebujesz czegoœ jeszcze?}
-{172}{}{Potrzebujê uzdrowienia.}
-{173}{}{Mam przyjaciela, który wymaga leczenia.}
-{174}{}{Kim jesteœ?}
+{169}{}{Gotowe. IdÅº, ale zachowuj siÄ™ ostroÅ¼nie!}
+{170}{}{DziÄ™kuju!}
+{171}{}{Potrzebujesz czegoÅ› jeszcze?}
+{172}{}{PotrzebujÄ™ uzdrowienia.}
+{173}{}{Mam przyjaciela, ktÃ³ry wymaga leczenia.}
+{174}{}{Kim jesteÅ›?}
 {175}{}{Opowiedz mi o tym miejscu.}
-{176}{}{Mam przyjaciela, któremu brakuje œledziony. Czy móg³byœ mu pomóc?}
-{177}{}{Nie. W ka¿dym razie dziêkujê.}
-{178}{}{Pytasz odpowiedni¹ osobê. Czy chcesz us³yszeæ d³ug¹, czy krótk¹ historiê?}
-{179}{}{D³ug¹.}
-{180}{}{Krótk¹.}
-{181}{}{Ani tej, ani tej. Pomimo to mam tak¿e inne pytania.}
-{182}{}{Gdy rakiety wybucha³y ponad œwiatem, nasi ludzie wyl¹dowali tutaj w ³odzi podwodnej Shih-huang-ti. Dziêki pomocy kultu my, Shi, odbudowaliœmy San Francisco. To krótka wersja.}
-{183}{}{A d³uga?}
-{184}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{185}{}{Dziêkujê.}
-{186}{}{D³uga wersja brzmi nastêpuj¹co: Jesteœmy tu, gdy¿ nasi ludzie s¹ potomkami za³ogi atomowego okrêtu podwodnego o nazwie Shih-huang-ti. Gdy rakiety wielkim potokiem spada³y na Ziemiê, systemy na okrêcie zawiod³y i przez wiele dni dryfowaliœmy w ciemnoœciach.}
+{176}{}{Mam przyjaciela, ktÃ³remu brakuje Å›ledziony. Czy mÃ³gÅ‚byÅ› mu pomÃ³c?}
+{177}{}{Nie. W kaÅ¼dym razie dziÄ™kujÄ™.}
+{178}{}{Pytasz odpowiedniÄ… osobÄ™. Czy chcesz usÅ‚yszeÄ‡ dÅ‚ugÄ…, czy krÃ³tkÄ… historiÄ™?}
+{179}{}{DÅ‚ugÄ….}
+{180}{}{KrÃ³tkÄ….}
+{181}{}{Ani tej, ani tej. Pomimo to mam takÅ¼e inne pytania.}
+{182}{}{Gdy rakiety wybuchaÅ‚y ponad Å›wiatem, nasi ludzie wylÄ…dowali tutaj w Å‚odzi podwodnej Shih-huang-ti. DziÄ™ki pomocy kultu my, Shi, odbudowaliÅ›my San Francisco. To krÃ³tka wersja.}
+{183}{}{A dÅ‚uga?}
+{184}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{185}{}{DziÄ™kujÄ™.}
+{186}{}{DÅ‚uga wersja brzmi nastÄ™pujÄ…co: JesteÅ›my tu, gdyÅ¼ nasi ludzie sÄ… potomkami zaÅ‚ogi atomowego okrÄ™tu podwodnego o nazwie Shih-huang-ti. Gdy rakiety wielkim potokiem spadaÅ‚y na ZiemiÄ™, systemy na okrÄ™cie zawiodÅ‚y i przez wiele dni dryfowaliÅ›my w ciemnoÅ›ciach.}
 {187}{}{[dalej]}
-{188}{}{W koñcu dodryfowaliœmy do brzegu. ZnaleŸliœmy siê w pobli¿u ruin San Francisco. Wiêkszoœæ miasta zosta³a zdewastowana w czasie wojny. Musieliœmy odbudowaæ spo³eczeñstwo opieraj¹c siê na kilku ocala³ych, którzy powracali do miasta.}
+{188}{}{W koÅ„cu dodryfowaliÅ›my do brzegu. ZnaleÅºliÅ›my siÄ™ w pobliÅ¼u ruin San Francisco. WiÄ™kszoÅ›Ä‡ miasta zostaÅ‚a zdewastowana w czasie wojny. MusieliÅ›my odbudowaÄ‡ spoÅ‚eczeÅ„stwo opierajÄ…c siÄ™ na kilku ocalaÅ‚ych, ktÃ³rzy powracali do miasta.}
 {189}{}{[dalej]}
-{190}{}{Odbudowaliœmy miasto u¿ywaj¹c tego, co znaleŸliœmy, a mamy naukowców i technologiê, której œwiat mo¿e pozazdroœciæ. Budujemy cywilizacjê, ale nie tak, jak to potworne stworzenie - Mistrz.}
+{190}{}{OdbudowaliÅ›my miasto uÅ¼ywajÄ…c tego, co znaleÅºliÅ›my, a mamy naukowcÃ³w i technologiÄ™, ktÃ³rej Å›wiat moÅ¼e pozazdroÅ›ciÄ‡. Budujemy cywilizacjÄ™, ale nie tak, jak to potworne stworzenie - Mistrz.}
 {191}{}{Rozumiem. Mam inne pytania.}
-{192}{}{Dziêki. Na razie.}
-{193}{}{Oczywiœcie, ¿e tak. A poniewa¿ znasz doktora Hollidaya... Zrobiê to ze wzglêdu na nasz¹ przyjaŸñ. Powiedz swojemu przyjacielowi bez œledziony, ¿eby tu przyszed³, a ja go zoperujê.}
-{194}{}{Dziêki! Mam jeszcze kilka pytañ.}
-{195}{}{Dziêki!}
-{196}{}{Tak. Mogê to zrobiæ. Bêdzie ciê to kosztowa³o 1000 dolarów. Zgadzasz siê?}
+{192}{}{DziÄ™ki. Na razie.}
+{193}{}{OczywiÅ›cie, Å¼e tak. A poniewaÅ¼ znasz doktora Hollidaya... ZrobiÄ™ to ze wzglÄ™du na naszÄ… przyjaÅºÅ„. Powiedz swojemu przyjacielowi bez Å›ledziony, Å¼eby tu przyszedÅ‚, a ja go zoperujÄ™.}
+{194}{}{DziÄ™ki! Mam jeszcze kilka pytaÅ„.}
+{195}{}{DziÄ™ki!}
+{196}{}{Tak. MogÄ™ to zrobiÄ‡. BÄ™dzie ciÄ™ to kosztowaÅ‚o 1000 dolarÃ³w. Zgadzasz siÄ™?}
 {197}{}{Tak.}
 {198}{}{Nie.}
-{199}{}{Powiedz swojemu przyjacielowi, ¿eby tu przyszed³, a ja go zoperujê.}
-{200}{}{Dziêki. Potrzebujê wiêcej informacji.}
-{201}{}{Dziêkujê.}
-{202}{}{Nie mogê dla niego nic zrobiæ - dopóki nie zdobêdziesz $1000. ¯yczê udanego dnia.}
+{199}{}{Powiedz swojemu przyjacielowi, Å¼eby tu przyszedÅ‚, a ja go zoperujÄ™.}
+{200}{}{DziÄ™ki. PotrzebujÄ™ wiÄ™cej informacji.}
+{201}{}{DziÄ™kujÄ™.}
+{202}{}{Nie mogÄ™ dla niego nic zrobiÄ‡ - dopÃ³ki nie zdobÄ™dziesz $1000. Å»yczÄ™ udanego dnia.}
 {203}{}{Do widzenia.}
-{204}{}{Nie leczê wrogów mojego ludu. Przykro mi.}
-{205}{}{O, Dostojnoœæ, polecam poszukaæ lekarzy twojego kultu.}
-{206}{}{Co mo¿esz mi powiedzieæ o implantach ochronnych?}
-{207}{}{Pomaga³em pisaæ artyku³ o implantach ochronnych. Wszystko, czego tu potrzeba, to moja wiedza i twoje materia³y. Jakiego typu implantu sobie ¿yczysz?}
-{208}{}{A jakie s¹?}
-{209}{}{Implanty skórne.}
-{210}{}{Ulepszenie implantów skórnych.}
+{204}{}{Nie leczÄ™ wrogÃ³w mojego ludu. Przykro mi.}
+{205}{}{O, DostojnoÅ›Ä‡, polecam poszukaÄ‡ lekarzy twojego kultu.}
+{206}{}{Co moÅ¼esz mi powiedzieÄ‡ o implantach ochronnych?}
+{207}{}{PomagaÅ‚em pisaÄ‡ artykuÅ‚ o implantach ochronnych. Wszystko, czego tu potrzeba, to moja wiedza i twoje materiaÅ‚y. Jakiego typu implantu sobie Å¼yczysz?}
+{208}{}{A jakie sÄ…?}
+{209}{}{Implanty skÃ³rne.}
+{210}{}{Ulepszenie implantÃ³w skÃ³rnych.}
 {211}{}{Implanty Feniks.}
-{212}{}{Ulepszenie implantów Feniks.}
-{213}{}{Ee... niewa¿ne. Mam inne pytania.}
-{214}{}{¯adne z nich. Do widzenia.}
-{215}{}{Mamy implanty skórne, które ochroni¹ ciê przed obra¿eniami od uderzeñ. Je¿eli ci siê spodoba, to mo¿emy je ulepszyæ. Mamy tak¿e implanty Feniks, które chroni¹ przed atakami opartymi na cieple. Je tak¿e mo¿na ulepszaæ. Oczywiœcie aby ulepszyæ implanty, musisz najpierw mieæ wszczepione podstawowe zestawy. Aha, zanim spytasz to owszem, MO¯ESZ mieæ wszystkie cztery operacje.}
-{216}{}{Wspaniale. Poproszê implanty skórne.}
-{217}{}{Chcê implanty skórne.}
-{218}{}{Zrób ulepszenie implantów skórnych.}
+{212}{}{Ulepszenie implantÃ³w Feniks.}
+{213}{}{Ee... niewaÅ¼ne. Mam inne pytania.}
+{214}{}{Å»adne z nich. Do widzenia.}
+{215}{}{Mamy implanty skÃ³rne, ktÃ³re ochroniÄ… ciÄ™ przed obraÅ¼eniami od uderzeÅ„. JeÅ¼eli ci siÄ™ spodoba, to moÅ¼emy je ulepszyÄ‡. Mamy takÅ¼e implanty Feniks, ktÃ³re chroniÄ… przed atakami opartymi na cieple. Je takÅ¼e moÅ¼na ulepszaÄ‡. OczywiÅ›cie aby ulepszyÄ‡ implanty, musisz najpierw mieÄ‡ wszczepione podstawowe zestawy. Aha, zanim spytasz to owszem, MOÅ»ESZ mieÄ‡ wszystkie cztery operacje.}
+{216}{}{Wspaniale. PoproszÄ™ implanty skÃ³rne.}
+{217}{}{ChcÄ™ implanty skÃ³rne.}
+{218}{}{ZrÃ³b ulepszenie implantÃ³w skÃ³rnych.}
 {219}{}{Wszczep implanty Feniks.}
-{220}{}{Czas na ulepszenie implantów Feniks.}
-{221}{}{Ee... niewa¿ne. Mam inne pytania.}
-{222}{}{¯adne z nich. Do widzenia.}
-{223}{}{Doskonale. Potrzebujê pancerza bojowego i, ach, $5500. Bêdzie te¿ trzeba le¿eæ dwa dni i nie zdrapywaæ strupów.}
-{224}{}{Zróbmy to.}
+{220}{}{Czas na ulepszenie implantÃ³w Feniks.}
+{221}{}{Ee... niewaÅ¼ne. Mam inne pytania.}
+{222}{}{Å»adne z nich. Do widzenia.}
+{223}{}{Doskonale. PotrzebujÄ™ pancerza bojowego i, ach, $5500. BÄ™dzie teÅ¼ trzeba leÅ¼eÄ‡ dwa dni i nie zdrapywaÄ‡ strupÃ³w.}
+{224}{}{ZrÃ³bmy to.}
 {225}{}{Zapomnij. Do zobaczenia.}
-{226}{}{Ulepszenie skórne, co? To bêdzie kosztowa³o kilka dni z twojego ¿yciorysu, $33000, pancerz bojowy i nowy zestaw blizn, którego ju¿ nigdy siê nie pozbêdziesz.}
-{227}{}{To co? Mogê sobie pozwoliæ na to wszystko.}
-{228}{}{Hmm. Chyba nie chcê zap³aciæ a¿ tyle. Do widzenia.}
-{229}{}{Je¿eli nie przeszkadza ci rozstanie siê z $8500, kilkoma dniami ¿ycia i pancerzem bojowym, to mo¿emy rozpocz¹æ operacjê ju¿ teraz.}
-{230}{}{Gotój sto³ doktorku. Mo¿emy zaczynaæ.}
-{231}{}{To trochê za du¿o. Wrócê do ciebie póŸniej.}
-{232}{}{To powa¿na operacja. Stracisz na niej swoj¹ "urodê", pancerz bojowy i $49000. Czy chcesz tyle zainwestowaæ?}
+{226}{}{Ulepszenie skÃ³rne, co? To bÄ™dzie kosztowaÅ‚o kilka dni z twojego Å¼yciorysu, $33000, pancerz bojowy i nowy zestaw blizn, ktÃ³rego juÅ¼ nigdy siÄ™ nie pozbÄ™dziesz.}
+{227}{}{To co? MogÄ™ sobie pozwoliÄ‡ na to wszystko.}
+{228}{}{Hmm. Chyba nie chcÄ™ zapÅ‚aciÄ‡ aÅ¼ tyle. Do widzenia.}
+{229}{}{JeÅ¼eli nie przeszkadza ci rozstanie siÄ™ z $8500, kilkoma dniami Å¼ycia i pancerzem bojowym, to moÅ¼emy rozpoczÄ…Ä‡ operacjÄ™ juÅ¼ teraz.}
+{230}{}{GotÃ³j stoÅ‚ doktorku. MoÅ¼emy zaczynaÄ‡.}
+{231}{}{To trochÄ™ za duÅ¼o. WrÃ³cÄ™ do ciebie pÃ³Åºniej.}
+{232}{}{To powaÅ¼na operacja. Stracisz na niej swojÄ… "urodÄ™", pancerz bojowy i $49000. Czy chcesz tyle zainwestowaÄ‡?}
 {233}{}{Cholera, jasne! Robimy.}
-{234}{}{Kurcze, to... drogo. Wrócê póŸniej.}
-{235}{}{::krêci g³ow¹:: Nie baw siê ze mn¹. Brakuje ci niezbêdnych sk³adników. Nastêpnym razem s³uchaj mnie uwa¿niej. A teraz idŸ i wróæ, gdy bêdê ci móg³ pomóc.}
-{236}{}{W porz¹dku.}
-{237}{}{Proszê! Jesteœ... ulepszon¹ wersj¹ cz³owieka. Pamiêtaj... Nie zdrapuj strupów, je¿eli nie chcesz dodaæ okropnych blizn do ju¿ i tak niezbyt przyjemnego wygl¹du.}
-{238}{}{Dziêki doktorku. Do zobaczenia.}
-{239}{}{Mam pieni¹dze na operacjê œledziony.}
-{240}{}{Interesuj¹ ciê implanty?}
+{234}{}{Kurcze, to... drogo. WrÃ³cÄ™ pÃ³Åºniej.}
+{235}{}{::krÄ™ci gÅ‚owÄ…:: Nie baw siÄ™ ze mnÄ…. Brakuje ci niezbÄ™dnych skÅ‚adnikÃ³w. NastÄ™pnym razem sÅ‚uchaj mnie uwaÅ¼niej. A teraz idÅº i wrÃ³Ä‡, gdy bÄ™dÄ™ ci mÃ³gÅ‚ pomÃ³c.}
+{236}{}{W porzÄ…dku.}
+{237}{}{ProszÄ™! JesteÅ›... ulepszonÄ… wersjÄ… czÅ‚owieka. PamiÄ™taj... Nie zdrapuj strupÃ³w, jeÅ¼eli nie chcesz dodaÄ‡ okropnych blizn do juÅ¼ i tak niezbyt przyjemnego wyglÄ…du.}
+{238}{}{DziÄ™ki doktorku. Do zobaczenia.}
+{239}{}{Mam pieniÄ…dze na operacjÄ™ Å›ledziony.}
+{240}{}{InteresujÄ… ciÄ™ implanty?}

@@ -1,4 +1,4 @@
-1:New Reno lakosait lemészárolták, és a város romba d?lt.
-2:Nincsenek fények, az utcákat csak vad kutyafalkák és kesely?k lakják.
-3:A sivatagi törzsek messzire elkerülik az óriási temet?t, szerintük gonosz szellemek kísértenek a város romjai között.
-4:Néhányan azt mondják, New Reno pusztulása valamiféle magasabb hatalom ítélete volt.
+1:New Reno lakosait lemÃ©szÃ¡roltÃ¡k, Ã©s a vÃ¡ros romba d?lt.
+2:Nincsenek fÃ©nyek, az utcÃ¡kat csak vad kutyafalkÃ¡k Ã©s kesely?k lakjÃ¡k.
+3:A sivatagi tÃ¶rzsek messzire elkerÃ¼lik az Ã³riÃ¡si temet?t, szerintÃ¼k gonosz szellemek kÃ­sÃ©rtenek a vÃ¡ros romjai kÃ¶zÃ¶tt.
+4:NÃ©hÃ¡nyan azt mondjÃ¡k, New Reno pusztulÃ¡sa valamifÃ©le magasabb hatalom Ã­tÃ©lete volt.

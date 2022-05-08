@@ -1,7 +1,7 @@
 {100}{}{Du siehst jemanden in einem komischen Pyjama.}
 {101}{}{Du siehst einen Bewohner von Shi-Town.}
 {102}{}{Diese Person sieht anders aus, als alle, die du je gesehen hast. Sie scheint dich nicht
- groß zu beachten.}
+ groÃŸ zu beachten.}
 {103}{}{Du bist doch kein Spion, oder?}
 {104}{}{Wer bist du?}
 {105}{}{Fisch und Seetang. Das ist alles, was wir hier kriegen.}
@@ -12,7 +12,7 @@
 {110}{}{Nieder mit Lo Pan!}
 {111}{}{Der Drache ist ein Held.}
 {112}{}{Nimm dich in Acht vor Lo Pan. Mit ihm ist nicht gut Kirschen essen.}
-{113}{}{Dass dieser Pöbel immer so laut sein muss!}
+{113}{}{Dass dieser PÃ¶bel immer so laut sein muss!}
 {114}{}{Arbeiten, arbeiten, arbeiten. Reis, Reis, Reis. ::Seufz::}
 {115}{}{Gibt es denn nichts anderes im Leben?}
 {116}{}{Wir sind schlauer, als du glaubst.}
@@ -20,12 +20,12 @@
 {118}{}{Ich glaube nicht, dass ich Dich mag.}
 {119}{}{Du machst mir Angst.}
 {120}{}{Bitte tu mir nichts.}
-{121}{}{Lo Pan würdest du bestimmt gefallen.}
-{122}{}{Mach hier bitte keinen Ärger.}
-{123}{}{Ich häng am Leben. Ich werde nichts tun, was es mich kosten könnte.}
-{124}{}{Das Ödland wird immer beängstigender.}
+{121}{}{Lo Pan wÃ¼rdest du bestimmt gefallen.}
+{122}{}{Mach hier bitte keinen Ã„rger.}
+{123}{}{Ich hÃ¤ng am Leben. Ich werde nichts tun, was es mich kosten kÃ¶nnte.}
+{124}{}{Das Ã–dland wird immer beÃ¤ngstigender.}
 {125}{}{Sir....Ja, Sir...Auf Wiedersehen, Sir.}
-{126}{}{Ha ha! Dieser Scheißkerl Lo Pan ist tot!}
+{126}{}{Ha ha! Dieser ScheiÃŸkerl Lo Pan ist tot!}
 {127}{}{Du hast uns geholfen!}
 {128}{}{Lo Pan ist tot!}
 {129}{}{Jetzt zu den Hubologen!}
@@ -41,29 +41,29 @@
 {139}{}{Das Leben hat keinen Sinn.}
 {140}{}{Wir werden weiterleben...irgendwie.}
 {141}{}{Wer wird jetzt unser Held sein?}
-{142}{}{Mit dem Drachen entschwinden auch unsere Träume.}
+{142}{}{Mit dem Drachen entschwinden auch unsere TrÃ¤ume.}
 {143}{}{Es hat keinen Sinn.}
 {144}{}{Wir wollen unsere Kinder lehren, wie der Drache zu sein.}
-{145}{}{Wir müssen uns eben neue Träume erschaffen.}
+{145}{}{Wir mÃ¼ssen uns eben neue TrÃ¤ume erschaffen.}
 {146}{}{Das Sprachrohr des Kaisers! Tot!}
 {147}{}{Was soll jetzt werden?}
 {148}{}{Ich hoffe nur, wir werden jetzt nicht von den Wilden niedergemacht!}
 {149}{}{Die Guten sterben nun mal jung.}
-{150}{}{Hoffentlich überstehen wir den Winter ohne Ken Lee.}
-{151}{}{Ich hab gehört, das Ken Lee der einzige war, der den Kaiser bei der Stange hielt.}
-{152}{}{Man sagt, der Kaiser sei nur eine Fassade für Ken Lee gewesen. }
+{150}{}{Hoffentlich Ã¼berstehen wir den Winter ohne Ken Lee.}
+{151}{}{Ich hab gehÃ¶rt, das Ken Lee der einzige war, der den Kaiser bei der Stange hielt.}
+{152}{}{Man sagt, der Kaiser sei nur eine Fassade fÃ¼r Ken Lee gewesen. }
 {153}{}{Arbeiten, arbeiten, arbeiten. Reis, Reis, Reis. ::Seufz::}
 {154}{}{Gibt es denn nichts anderes im Leben?}
 {155}{}{Wir sind schlauer, als du glaubst.}
 {156}{}{Schaut! Ein Outsider!}
-{164}{}{Du hast AHS-9 getötet? Gute Arbeit!}
-{165}{}{Bei diesen Hubologen schüttelt's mich.}
-{166}{}{Verehrter Besucher, du hast uns einen großen Dienst erwiesen.}
+{164}{}{Du hast AHS-9 getÃ¶tet? Gute Arbeit!}
+{165}{}{Bei diesen Hubologen schÃ¼ttelt's mich.}
+{166}{}{Verehrter Besucher, du hast uns einen groÃŸen Dienst erwiesen.}
 {167}{}{Tod den Hubologen!}
 {168}{}{Vielleicht wird das diese Hubologen von hier vertreiben.}
-{169}{}{Diese dämlichen Hubologen sind noch nicht mal in der Lage, ihren eigenen Anführer zu
- schützen.}
-{170}{}{Ich hoffe nur, die Hubologen fallen nicht über uns her, um sich zu rächen.}
+{169}{}{Diese dÃ¤mlichen Hubologen sind noch nicht mal in der Lage, ihren eigenen AnfÃ¼hrer zu
+ schÃ¼tzen.}
+{170}{}{Ich hoffe nur, die Hubologen fallen nicht Ã¼ber uns her, um sich zu rÃ¤chen.}
 {171}{}{Ich glaube, du bist doch kein Spion.}
 {172}{}{Schweinepriester! Stirb!}
 {173}{}{Du hast deine Familie entehrt!}
@@ -73,5 +73,5 @@
 {177}{}{Verlass diese Stadt!}
 {178}{}{Geh nach Hause zu deinem Volk!}
 {179}{}{Verdunkle mein Leben nicht durch deinen Anblick!}
-{180}{}{Was sollen wir bloß machen, damit du verschwindest?!}
+{180}{}{Was sollen wir bloÃŸ machen, damit du verschwindest?!}
 {181}{}{Hilfe! Hilfe!}

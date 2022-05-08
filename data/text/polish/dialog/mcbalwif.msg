@@ -1,10 +1,10 @@
 {100}{}{Chlip-}
 {101}{}{Jonny...}
 {102}{}{Sniff...}
-{103}{}{Têskniê za moim synem.}
-{110}{}{B³agam ciê, znajdŸ Jonny'ego.}
-{120}{}{Proszê, wróæ z Jonnym.}
-{121}{}{Dziêkujê ci za zwrócenie mi Jonny'ego.}
-{150}{}{Widzisz ¿onê Balthasa.}
-{151}{}{Widzisz ¿onê Balthasa. Wygl¹da na bardzo zmartwion¹.}
-{152}{}{Widzisz ¿onê Balthasa. Wygl¹da na to, ¿e teraz jej humor znacznie siê poprawi³.}
+{103}{}{TÄ™skniÄ™ za moim synem.}
+{110}{}{BÅ‚agam ciÄ™, znajdÅº Jonny'ego.}
+{120}{}{ProszÄ™, wrÃ³Ä‡ z Jonnym.}
+{121}{}{DziÄ™kujÄ™ ci za zwrÃ³cenie mi Jonny'ego.}
+{150}{}{Widzisz Å¼onÄ™ Balthasa.}
+{151}{}{Widzisz Å¼onÄ™ Balthasa. WyglÄ…da na bardzo zmartwionÄ….}
+{152}{}{Widzisz Å¼onÄ™ Balthasa. WyglÄ…da na to, Å¼e teraz jej humor znacznie siÄ™ poprawiÅ‚.}

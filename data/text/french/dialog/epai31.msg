@@ -1,2 +1,2 @@
-{100}{}{Tu nettoies la matière poisseuse du ventilateur et les lames commencent à tourner. L'air autour devient plus respirable.}
-{101}{}{Tu nettoies la matière poisseuse du ventilateur et les lames commencent à tourner. Tu es maintenant en lieu sûr - au moins au bout de la pièce.}
+{100}{}{Tu nettoies la matiÃ¨re poisseuse du ventilateur et les lames commencent Ã  tourner. L'air autour devient plus respirable.}
+{101}{}{Tu nettoies la matiÃ¨re poisseuse du ventilateur et les lames commencent Ã  tourner. Tu es maintenant en lieu sÃ»r - au moins au bout de la piÃ¨ce.}

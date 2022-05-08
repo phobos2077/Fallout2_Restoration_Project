@@ -1,24 +1,24 @@
 {100}{}{Widzisz Rybaka.}
-{101}{}{Przybywasz w sam¹ porê, aby byæ œwiadkiem b³ogos³awieñstwa Bogini Morza.}
+{101}{}{Przybywasz w samÄ… porÄ™, aby byÄ‡ Å›wiadkiem bÅ‚ogosÅ‚awieÅ„stwa Bogini Morza.}
 {102}{}{[KONTYNUUJ]}
 {103}{}{}
-{104}{}{Tu¿ przed wielkim sztormem rzucamy w³óczniami w morze, ¿eby okazaæ nasze mêstwo wobec ¿ywio³u. Jeœli oka¿emy siê godni, Bogini nagrodzi nas owocami.}
-{105}{}{Kiedy zaczyna siê pora wielkich sztormów, wrzucamy na wody odp³ywu kwiaty Broca. Dziêki magicznym zaklêciom Bogini, kwiaty Broca zostaj¹ zamienione w rzadki korzeñ Xandrowy. }
-{106}{}{Co roku sk³adamy korzenie Xandrowe w ho³dzie Bogini. Jeœli Bogini jest z nas zadowolona, zamienia je w kwiaty Broca. }
-{107}{}{Po obfitych zbiorach wznosimy do Bogini Morza modlitwê dziêkczynn¹, z proœb¹, aby mia³a nas w swojej opiece, a ona co roku nagradza nasze oddanie przysy³aj¹c nam w³ócznie jako znak, ¿e nad nami czuwa.}
-{108}{}{Mogê zobaczyæ, co zes³a³a wam Bogini Morza?}
+{104}{}{TuÅ¼ przed wielkim sztormem rzucamy wÅ‚Ã³czniami w morze, Å¼eby okazaÄ‡ nasze mÄ™stwo wobec Å¼ywioÅ‚u. JeÅ›li okaÅ¼emy siÄ™ godni, Bogini nagrodzi nas owocami.}
+{105}{}{Kiedy zaczyna siÄ™ pora wielkich sztormÃ³w, wrzucamy na wody odpÅ‚ywu kwiaty Broca. DziÄ™ki magicznym zaklÄ™ciom Bogini, kwiaty Broca zostajÄ… zamienione w rzadki korzeÅ„ Xandrowy. }
+{106}{}{Co roku skÅ‚adamy korzenie Xandrowe w hoÅ‚dzie Bogini. JeÅ›li Bogini jest z nas zadowolona, zamienia je w kwiaty Broca. }
+{107}{}{Po obfitych zbiorach wznosimy do Bogini Morza modlitwÄ™ dziÄ™kczynnÄ…, z proÅ›bÄ…, aby miaÅ‚a nas w swojej opiece, a ona co roku nagradza nasze oddanie przysyÅ‚ajÄ…c nam wÅ‚Ã³cznie jako znak, Å¼e nad nami czuwa.}
+{108}{}{MogÄ™ zobaczyÄ‡, co zesÅ‚aÅ‚a wam Bogini Morza?}
 {109}{}{Ug}
-{110}{}{Oto przedmioty, które otrzymaliœmy od Bogini w tym roku. Chêtnie podzielimy siê nimi z tob¹ za odpowiedni¹ cenê.}
-{111}{}{Z³om [10$]}
+{110}{}{Oto przedmioty, ktÃ³re otrzymaliÅ›my od Bogini w tym roku. ChÄ™tnie podzielimy siÄ™ nimi z tobÄ… za odpowiedniÄ… cenÄ™.}
+{111}{}{ZÅ‚om [10$]}
 {112}{}{Pistolet laserowy [10000$]}
 {113}{}{Zaostrzone kije [40$]}
 {114}{}{Owoc [5$]}
-{115}{}{Korzeñ Xandrowy [20$]}
+{115}{}{KorzeÅ„ Xandrowy [20$]}
 {116}{}{Kwiat Broca [10$]}
 {117}{}{Bywaj.}
-{118}{}{[Wyci¹ga rêkê w kierunku morza] IdŸ przed siebie. Bogini ¿yczy sobie spotkaæ siê z tob¹ osobiœcie.}
+{118}{}{[WyciÄ…ga rÄ™kÄ™ w kierunku morza] IdÅº przed siebie. Bogini Å¼yczy sobie spotkaÄ‡ siÄ™ z tobÄ… osobiÅ›cie.}
 {119}{}{[Koniec]}
-{120}{}{Niech b³ogos³awiona Bogini Morza czuwa nad twoimi œcie¿kami.}
+{120}{}{Niech bÅ‚ogosÅ‚awiona Bogini Morza czuwa nad twoimi Å›cieÅ¼kami.}
 {121}{}{[Koniec]}
-{122}{}{(Widz¹c, ¿e nie masz doœæ pieniêdzy, marszczy brwi) Mo¿e innym razem.}
+{122}{}{(WidzÄ…c, Å¼e nie masz doÅ›Ä‡ pieniÄ™dzy, marszczy brwi) MoÅ¼e innym razem.}
 {123}{}{[Koniec]}

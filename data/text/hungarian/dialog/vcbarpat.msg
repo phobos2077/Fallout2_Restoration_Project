@@ -1,53 +1,53 @@
-{100}{}{Egy rongyos utazót látsz.}
-{101}{}{Vendég.}
-{102}{}{Egy rongyos utazót látsz.}
-{103}{}{Hé, emberek, ide nézzetek! ? az, aki szétrúgot pár Enklávés segget.}
-{104}{}{Gratulálok, bajnok!}
-{105}{}{Hé, bajnok! Meghívhatlak egy italra?}
-{106}{}{Itt van a Kapitány. Kuss legyen mindenkinek!}
-{107}{}{Nem ez a fickó nyalja az Els? Polgár seggét?}
-{108}{}{Tiszteletem, "Kapitány"!}
-{109}{}{Viiiiiigyázzzzz! A törvény betette a lábát.}
-{110}{}{Leereszkedtél közénk, "Polgártárs"?}
-{111}{}{Nem kellene itt lenned, polgár.}
-{112}{}{Rohadt Polgárok. Mindenbe beleütik a duda orrukat.}
-{113}{}{Mi a franc... az egy mutáns?!}
-{114}{}{Pucoljunk, srácok! Mutáns van a házban.}
-{115}{}{Nagy balhé lesz, ha az ?rök meglátják azt az... izét.}
-{116}{}{Már a mocskos mutánsok is ide járnak vedelni?}
-{117}{}{A mutáns barátod a Nevel? Központban végzi, meglátod.}
+{100}{}{Egy rongyos utazÃ³t lÃ¡tsz.}
+{101}{}{VendÃ©g.}
+{102}{}{Egy rongyos utazÃ³t lÃ¡tsz.}
+{103}{}{HÃ©, emberek, ide nÃ©zzetek! ? az, aki szÃ©trÃºgot pÃ¡r EnklÃ¡vÃ©s segget.}
+{104}{}{GratulÃ¡lok, bajnok!}
+{105}{}{HÃ©, bajnok! MeghÃ­vhatlak egy italra?}
+{106}{}{Itt van a KapitÃ¡ny. Kuss legyen mindenkinek!}
+{107}{}{Nem ez a fickÃ³ nyalja az Els? PolgÃ¡r seggÃ©t?}
+{108}{}{Tiszteletem, "KapitÃ¡ny"!}
+{109}{}{ViiiiiigyÃ¡zzzzz! A tÃ¶rvÃ©ny betette a lÃ¡bÃ¡t.}
+{110}{}{LeereszkedtÃ©l kÃ¶zÃ©nk, "PolgÃ¡rtÃ¡rs"?}
+{111}{}{Nem kellene itt lenned, polgÃ¡r.}
+{112}{}{Rohadt PolgÃ¡rok. Mindenbe beleÃ¼tik a duda orrukat.}
+{113}{}{Mi a franc... az egy mutÃ¡ns?!}
+{114}{}{Pucoljunk, srÃ¡cok! MutÃ¡ns van a hÃ¡zban.}
+{115}{}{Nagy balhÃ© lesz, ha az ?rÃ¶k meglÃ¡tjÃ¡k azt az... izÃ©t.}
+{116}{}{MÃ¡r a mocskos mutÃ¡nsok is ide jÃ¡rnak vedelni?}
+{117}{}{A mutÃ¡ns barÃ¡tod a Nevel? KÃ¶zpontban vÃ©gzi, meglÃ¡tod.}
 {118}{}{Ugye az ott nem egy ghoul?!}
-{119}{}{Mi ez a b?z?! Penderítsük ki azt a ghoult!}
-{120}{}{Aljanép. Mocskos ghoul.}
-{121}{}{Ha csak egy darabját is idepottyantja, én kicsinálom!}
-{122}{}{Az a ghoul remek céltábla lesz. Az ?rök imádni fogják.}
-{123}{}{Lehetetlen Napi Belép?t szerezni.}
-{124}{}{A brahmin-hús egyre csak drágul.}
-{125}{}{Gyenge lesz a termés, nagy volt a szárazság.}
-{126}{}{Kapitány?! Mit keres maga itt?}
-{127}{}{Nem csináltam semmit, Kapitány. Csak agyaskodom. Az ugye nem b?n?}
-{128}{}{Nem tudok semmit, Kapitány. Hagyjon békén!}
-{129}{}{Muszáj magának itt lennie, Kapitány?}
-{130}{}{Lynette mostanában senkinek sem ad polgársági papírokat.}
-{131}{}{Már kifizettem a védelmi pénzt az ?röknek, úgyhogy hagyjon engem!}
-{132}{}{Mit keres itt, "Polgártárs"?}
-{133}{}{Jobb lenne, ha békén hagyna minket.}
-{134}{}{Egy Polgár?! Itt?!}
-{135}{}{Sétáljon egyet, "Polgártárs"!}
-{136}{}{Lynette mostanában senkinek sem ad polgársági papírokat.}
-{137}{}{Az a Smith jópofa egy fickó.}
-{138}{}{Nem hiszem, hogy valaha is kapok Napi Belép?t.}
-{139}{}{Ne igyál vizet a kútból! Kiakasztja a sugárzásmér?t.}
-{140}{}{A Polgárok neveletlenek. Köszönni se tudnak.}
-{141}{}{Menedékváros nem szeret, de legalább megvéd minket.}
-{142}{}{Vigyázz azzal az Auto-dokival! Ne tedd próbára a szerencséd.}
-{143}{}{Ed, a brahmin-keresked? emelte a hús árát. Egyre nehezebb itt az élet.}
-{144}{}{Az a Skeev gyerek egy kis pénzért hagyta, hogy belógjak a városba.}
-{145}{}{Múlt héten még úton voltam. ÚKK-ból jöttem.}
-{146}{}{Pár haver New Renóba ment... rég nem láttam ?ket.}
-{147}{}{Hallottam, hogy New Renóban n? a feszültség. A klánok gy?lölik egymást.}
-{148}{}{Úgy tudom, Gekkó hamarosan megtámadja a várost.}
-{149}{}{Ne légy mogorva a Polgárokkal, mert egyb?l a Nevel? Központban találod magad.}
-{150}{}{Lynette nagyon barátságtalan.}
-{151}{}{Menedékváros nem épp a legszabadabb hely, de azért nem rossz.}
-{152}{}{Menedékváros jobb, mint Rejtek, még ha kicsit unalmasabb is.}
+{119}{}{Mi ez a b?z?! PenderÃ­tsÃ¼k ki azt a ghoult!}
+{120}{}{AljanÃ©p. Mocskos ghoul.}
+{121}{}{Ha csak egy darabjÃ¡t is idepottyantja, Ã©n kicsinÃ¡lom!}
+{122}{}{Az a ghoul remek cÃ©ltÃ¡bla lesz. Az ?rÃ¶k imÃ¡dni fogjÃ¡k.}
+{123}{}{Lehetetlen Napi BelÃ©p?t szerezni.}
+{124}{}{A brahmin-hÃºs egyre csak drÃ¡gul.}
+{125}{}{Gyenge lesz a termÃ©s, nagy volt a szÃ¡razsÃ¡g.}
+{126}{}{KapitÃ¡ny?! Mit keres maga itt?}
+{127}{}{Nem csinÃ¡ltam semmit, KapitÃ¡ny. Csak agyaskodom. Az ugye nem b?n?}
+{128}{}{Nem tudok semmit, KapitÃ¡ny. Hagyjon bÃ©kÃ©n!}
+{129}{}{MuszÃ¡j magÃ¡nak itt lennie, KapitÃ¡ny?}
+{130}{}{Lynette mostanÃ¡ban senkinek sem ad polgÃ¡rsÃ¡gi papÃ­rokat.}
+{131}{}{MÃ¡r kifizettem a vÃ©delmi pÃ©nzt az ?rÃ¶knek, Ãºgyhogy hagyjon engem!}
+{132}{}{Mit keres itt, "PolgÃ¡rtÃ¡rs"?}
+{133}{}{Jobb lenne, ha bÃ©kÃ©n hagyna minket.}
+{134}{}{Egy PolgÃ¡r?! Itt?!}
+{135}{}{SÃ©tÃ¡ljon egyet, "PolgÃ¡rtÃ¡rs"!}
+{136}{}{Lynette mostanÃ¡ban senkinek sem ad polgÃ¡rsÃ¡gi papÃ­rokat.}
+{137}{}{Az a Smith jÃ³pofa egy fickÃ³.}
+{138}{}{Nem hiszem, hogy valaha is kapok Napi BelÃ©p?t.}
+{139}{}{Ne igyÃ¡l vizet a kÃºtbÃ³l! Kiakasztja a sugÃ¡rzÃ¡smÃ©r?t.}
+{140}{}{A PolgÃ¡rok neveletlenek. KÃ¶szÃ¶nni se tudnak.}
+{141}{}{MenedÃ©kvÃ¡ros nem szeret, de legalÃ¡bb megvÃ©d minket.}
+{142}{}{VigyÃ¡zz azzal az Auto-dokival! Ne tedd prÃ³bÃ¡ra a szerencsÃ©d.}
+{143}{}{Ed, a brahmin-keresked? emelte a hÃºs Ã¡rÃ¡t. Egyre nehezebb itt az Ã©let.}
+{144}{}{Az a Skeev gyerek egy kis pÃ©nzÃ©rt hagyta, hogy belÃ³gjak a vÃ¡rosba.}
+{145}{}{MÃºlt hÃ©ten mÃ©g Ãºton voltam. ÃšKK-bÃ³l jÃ¶ttem.}
+{146}{}{PÃ¡r haver New RenÃ³ba ment... rÃ©g nem lÃ¡ttam ?ket.}
+{147}{}{Hallottam, hogy New RenÃ³ban n? a feszÃ¼ltsÃ©g. A klÃ¡nok gy?lÃ¶lik egymÃ¡st.}
+{148}{}{Ãšgy tudom, GekkÃ³ hamarosan megtÃ¡madja a vÃ¡rost.}
+{149}{}{Ne lÃ©gy mogorva a PolgÃ¡rokkal, mert egyb?l a Nevel? KÃ¶zpontban talÃ¡lod magad.}
+{150}{}{Lynette nagyon barÃ¡tsÃ¡gtalan.}
+{151}{}{MenedÃ©kvÃ¡ros nem Ã©pp a legszabadabb hely, de azÃ©rt nem rossz.}
+{152}{}{MenedÃ©kvÃ¡ros jobb, mint Rejtek, mÃ©g ha kicsit unalmasabb is.}

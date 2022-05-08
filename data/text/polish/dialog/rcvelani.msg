@@ -1,25 +1,25 @@
-{100}{}{Widzisz us³u¿nie wygl¹daj¹cego jakiegoœ rodzaju sprzedawcê.}
+{100}{}{Widzisz usÅ‚uÅ¼nie wyglÄ…dajÄ…cego jakiegoÅ› rodzaju sprzedawcÄ™.}
 {101}{}{Widzisz Velaniego, kupca Mordino.}
-{102}{}{Widzisz uprzejmie wygl¹daj¹cego, wypielêgnowanego mê¿czyznê.}
-{103}{}{Twoja osoba jest po prostu ¿a³osna. Gdybym mia³ odrobinê wiêcej si³y, to nie uda³oby ci siê ju¿ nigdy wiêcej opuœciæ ¿adnej karawany. A teraz zejdŸ mi z oczu.}
-{104}{}{To du¿y b³¹d okradaæ rodzinê Mordino. Zap³acisz za to - w swoim czasie. Na razie wynoœ siê st¹d.}
-{105}{}{Z³odziejem? Zapamiêtam to sobie, ty pod³y niewdziêczniku. Odchodzê, ¿egnam.}
-{106}{}{Któregoœ dnia, nied³ugo, po¿a³ujesz tego. ¯egnam.}
-{107}{}{Ta karawana to hañba. Cieszê siê, ¿e Savinelli nie prze¿y³. Nie mogê uwierzyæ w to, ¿e myœlisz, ¿e dostaniesz za tê pora¿kê pieni¹dze. Won!}
-{108}{}{Ty draniu! Zap³acisz mi za to oszustwo. ¯egnam.}
-{109}{}{Có¿, czasami ma siê wiêksze szczêœcie od innych. Tym razem by³o odwrotnie. ¯egnaj.}
-{110}{}{Zap³acê ci za tê ¿a³oœnie wykonan¹ robotê. Masz tu 50$. A teraz zmiataj.}
-{111}{}{Có¿, coœ to chyba i tak lepiej ni¿ nic. Na razie.}
-{112}{}{Ty draniu! Nikt nie móg³by zrobiæ lepszej roboty. Po¿a³ujesz tego oszustwa. ¯egnam.}
-{113}{}{Có¿, wiêkszoœæ karawany dotar³a, mimo ¿e nie uda³o siê to Savinelliemu. Tu masz swoje 100$. Nie wiem tylko, kiedy uda nam siê znaleŸæ kogoœ nowego do prowadzenia karawan.}
-{114}{}{Nie chcê ju¿ chyba nigdy wiêcej spêdziæ tyle czasu gapi¹c siê w dupê braminy. Do widzenia.}
-{115}{}{Nie by³o tak Ÿle. Dziêki. Na razie.}
-{116}{}{Dobry kurs. Mo¿esz wzi¹æ dzia³kê Savinelliego, bo on ju¿ jej raczej nie potrzebuje. To dla ciebie 150$. Nie wiem, kiedy znajdziemy kogoœ na jego miejsce, ale je¿eli ju¿, to masz robotê, jeœli bêdziesz jej potrzebowaæ.}
-{117}{}{Mi³o znaleŸæ kogoœ, kto docenia widoczn¹ jakoœæ. Mo¿e jeszcze siê zobaczymy. Na razie.}
-{118}{}{Zawsze mi³o jest zarobiæ dodatkowe pieni¹dze. Dziêki, i na razie.}
-{119}{}{Savinelliemu naprawdê pomiesza³y siê chyba wszystkie klepki, bo inaczej nie bra³by przecie¿ takiego kogoœ, jak ty, ze sob¹. Wynoœ siê.}
+{102}{}{Widzisz uprzejmie wyglÄ…dajÄ…cego, wypielÄ™gnowanego mÄ™Å¼czyznÄ™.}
+{103}{}{Twoja osoba jest po prostu Å¼aÅ‚osna. Gdybym miaÅ‚ odrobinÄ™ wiÄ™cej siÅ‚y, to nie udaÅ‚oby ci siÄ™ juÅ¼ nigdy wiÄ™cej opuÅ›ciÄ‡ Å¼adnej karawany. A teraz zejdÅº mi z oczu.}
+{104}{}{To duÅ¼y bÅ‚Ä…d okradaÄ‡ rodzinÄ™ Mordino. ZapÅ‚acisz za to - w swoim czasie. Na razie wynoÅ› siÄ™ stÄ…d.}
+{105}{}{ZÅ‚odziejem? ZapamiÄ™tam to sobie, ty podÅ‚y niewdziÄ™czniku. OdchodzÄ™, Å¼egnam.}
+{106}{}{KtÃ³regoÅ› dnia, niedÅ‚ugo, poÅ¼aÅ‚ujesz tego. Å»egnam.}
+{107}{}{Ta karawana to haÅ„ba. CieszÄ™ siÄ™, Å¼e Savinelli nie przeÅ¼yÅ‚. Nie mogÄ™ uwierzyÄ‡ w to, Å¼e myÅ›lisz, Å¼e dostaniesz za tÄ™ poraÅ¼kÄ™ pieniÄ…dze. Won!}
+{108}{}{Ty draniu! ZapÅ‚acisz mi za to oszustwo. Å»egnam.}
+{109}{}{CÃ³Å¼, czasami ma siÄ™ wiÄ™ksze szczÄ™Å›cie od innych. Tym razem byÅ‚o odwrotnie. Å»egnaj.}
+{110}{}{ZapÅ‚acÄ™ ci za tÄ™ Å¼aÅ‚oÅ›nie wykonanÄ… robotÄ™. Masz tu 50$. A teraz zmiataj.}
+{111}{}{CÃ³Å¼, coÅ› to chyba i tak lepiej niÅ¼ nic. Na razie.}
+{112}{}{Ty draniu! Nikt nie mÃ³gÅ‚by zrobiÄ‡ lepszej roboty. PoÅ¼aÅ‚ujesz tego oszustwa. Å»egnam.}
+{113}{}{CÃ³Å¼, wiÄ™kszoÅ›Ä‡ karawany dotarÅ‚a, mimo Å¼e nie udaÅ‚o siÄ™ to Savinelliemu. Tu masz swoje 100$. Nie wiem tylko, kiedy uda nam siÄ™ znaleÅºÄ‡ kogoÅ› nowego do prowadzenia karawan.}
+{114}{}{Nie chcÄ™ juÅ¼ chyba nigdy wiÄ™cej spÄ™dziÄ‡ tyle czasu gapiÄ…c siÄ™ w dupÄ™ braminy. Do widzenia.}
+{115}{}{Nie byÅ‚o tak Åºle. DziÄ™ki. Na razie.}
+{116}{}{Dobry kurs. MoÅ¼esz wziÄ…Ä‡ dziaÅ‚kÄ™ Savinelliego, bo on juÅ¼ jej raczej nie potrzebuje. To dla ciebie 150$. Nie wiem, kiedy znajdziemy kogoÅ› na jego miejsce, ale jeÅ¼eli juÅ¼, to masz robotÄ™, jeÅ›li bÄ™dziesz jej potrzebowaÄ‡.}
+{117}{}{MiÅ‚o znaleÅºÄ‡ kogoÅ›, kto docenia widocznÄ… jakoÅ›Ä‡. MoÅ¼e jeszcze siÄ™ zobaczymy. Na razie.}
+{118}{}{Zawsze miÅ‚o jest zarobiÄ‡ dodatkowe pieniÄ…dze. DziÄ™ki, i na razie.}
+{119}{}{Savinelliemu naprawdÄ™ pomieszaÅ‚y siÄ™ chyba wszystkie klepki, bo inaczej nie braÅ‚by przecieÅ¼ takiego kogoÅ›, jak ty, ze sobÄ…. WynoÅ› siÄ™.}
 {120}{}{Yyy?}
-{121}{}{Savinelli zgin¹³. Cholera, nie mogê w to uwierzyæ. Jestem Velani. Uregulujê nasze zobowi¹zania.}
-{122}{}{Ee, dziêki.}
-{123}{}{Cholera, nie mogê w to uwierzyæ, ¿e Savinelli zgin¹³.}
-{200}{}{Dlaczego nie ustalimy tego tutaj, w tej chwili? Szykuj siê na œmieræ, dupku.}
+{121}{}{Savinelli zginÄ…Å‚. Cholera, nie mogÄ™ w to uwierzyÄ‡. Jestem Velani. UregulujÄ™ nasze zobowiÄ…zania.}
+{122}{}{Ee, dziÄ™ki.}
+{123}{}{Cholera, nie mogÄ™ w to uwierzyÄ‡, Å¼e Savinelli zginÄ…Å‚.}
+{200}{}{Dlaczego nie ustalimy tego tutaj, w tej chwili? Szykuj siÄ™ na Å›mierÄ‡, dupku.}

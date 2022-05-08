@@ -1,2 +1,2 @@
-{100}{}{Od pewnego czasu studnia nie nadaje siê do u¿ytku. Trzeba j¹ naprawiæ.}
-{101}{}{Ze studni¹ jest ju¿ wszystko w porz¹dku.}
+{100}{}{Od pewnego czasu studnia nie nadaje siÄ™ do uÅ¼ytku. Trzeba jÄ… naprawiÄ‡.}
+{101}{}{Ze studniÄ… jest juÅ¼ wszystko w porzÄ…dku.}

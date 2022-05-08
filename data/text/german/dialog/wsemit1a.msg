@@ -1,15 +1,15 @@
-{100}{}{Du siehst keine Möglichkeit, vom dem Kraftfelderzeuger Gebrauch zu machen.}
-{101}{}{Du siehst keine Möglichkeit, vom dem Kraftfeld Gebrauch zu machen.}
-{102}{}{Du erhältst einen Schock durch das abgeschwächte Kraftfeld.}
-{103}{}{ erhält einen Schock durch das abgeschwächte Kraftfeld.}
-{107}{}{Du erhältst einen Schock durch das Kraftfeld.}
-{108}{}{ erhält einen Schock durch das Kraftfeld.}
+{100}{}{Du siehst keine MÃ¶glichkeit, vom dem Kraftfelderzeuger Gebrauch zu machen.}
+{101}{}{Du siehst keine MÃ¶glichkeit, vom dem Kraftfeld Gebrauch zu machen.}
+{102}{}{Du erhÃ¤ltst einen Schock durch das abgeschwÃ¤chte Kraftfeld.}
+{103}{}{ erhÃ¤lt einen Schock durch das abgeschwÃ¤chte Kraftfeld.}
+{107}{}{Du erhÃ¤ltst einen Schock durch das Kraftfeld.}
+{108}{}{ erhÃ¤lt einen Schock durch das Kraftfeld.}
 {109}{}{Es gelingt dir nicht, das Kraftfeld zu reduzieren.}
 {110}{}{ gelingt es nicht, das Kraftfeld zu reduzieren.}
-{111}{}{Du hörst eine Lautsprecherdurchsage: Warnung! Eindringlinge! Sicherheitssysteme werden
+{111}{}{Du hÃ¶rst eine Lautsprecherdurchsage: Warnung! Eindringlinge! Sicherheitssysteme werden
  aktiviert.}
 {112}{}{Du deaktivierst das Kraftfeld.}
 {113}{}{ schaltet das Kraftfeld ab.}
 {114}{}{Du aktivierst das Kraftfeld.}
 {115}{}{ schaltet das Kraftfeld ein.}
-{116}{}{Du zerstörst den Kraftfelderzeuger.}
+{116}{}{Du zerstÃ¶rst den Kraftfelderzeuger.}

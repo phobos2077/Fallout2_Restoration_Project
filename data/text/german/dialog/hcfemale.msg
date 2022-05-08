@@ -4,35 +4,35 @@
  selbstbewusst aus.}
 {147}{}{Ist es denn nirgendwo mehr sicher?}
 {148}{}{Seit wann gibt es eigentlich so viel Gewalt?}
-{149}{}{Ich überlege, ob ich hier wegziehen soll ... ich fühl mich hier einfach nicht mehr
+{149}{}{Ich Ã¼berlege, ob ich hier wegziehen soll ... ich fÃ¼hl mich hier einfach nicht mehr
  sicher.}
-{150}{}{Ich hab gehört, dass Franc und Manson richtige Mutanten-Hasser sein sollen.}
+{150}{}{Ich hab gehÃ¶rt, dass Franc und Manson richtige Mutanten-Hasser sein sollen.}
 {151}{}{Gut, dass die jetzt wieder frei sind... wo sie jetzt wohl sind?}
-{152}{}{Franc und Manson sind Gift für diese Stadt. Bis sie nicht wieder hinter Gittern sind,
- wird es hier nie wieder wie früher sein. }
-{153}{}{Wer würde denn die Wachen umbringen? Das ist doch unmenschlich.}
+{152}{}{Franc und Manson sind Gift fÃ¼r diese Stadt. Bis sie nicht wieder hinter Gittern sind,
+ wird es hier nie wieder wie frÃ¼her sein. }
+{153}{}{Wer wÃ¼rde denn die Wachen umbringen? Das ist doch unmenschlich.}
 {154}{}{Wenn man bedenkt, dass es hier in der Stadt immer so friedlich war...}
-{155}{}{Wie hast du die Wachen denn dazu überredet, diese zwei Bastarde freizulassen?}
-{156}{}{Vielen Dank, dass du Franc und Manson befreit hast. Die haben eigentlich nicht groß was
+{155}{}{Wie hast du die Wachen denn dazu Ã¼berredet, diese zwei Bastarde freizulassen?}
+{156}{}{Vielen Dank, dass du Franc und Manson befreit hast. Die haben eigentlich nicht groÃŸ was
  angerichtet.}
-{157}{}{Wo sind Franc und Manson denn jetzt? Die sollten eigentlich wieder im Gefängnis sein.}
+{157}{}{Wo sind Franc und Manson denn jetzt? Die sollten eigentlich wieder im GefÃ¤ngnis sein.}
 {158}{}{Einige meiner besten Freunde sind Mutanten und Ghuls...}
-{159}{}{Wenn wir doch nur ein paar mehr Glühbirnen hätten.}
+{159}{}{Wenn wir doch nur ein paar mehr GlÃ¼hbirnen hÃ¤tten.}
 {160}{}{Was riecht da so?}
 {161}{}{Ich hab Angst, dass die NCR sich uns einfach einverleibt.}
 {162}{}{Meinst du, dass man in New Reno gut leben kann?}
 {163}{}{Ich hab ja gar nichts gegen Mutanten, aber sie sehen so komisch aus.}
-{164}{}{Ich würde dir ja gern sagen, was du für "tolle Arbeit" geleistet hast, aber dann würdest
+{164}{}{Ich wÃ¼rde dir ja gern sagen, was du fÃ¼r "tolle Arbeit" geleistet hast, aber dann wÃ¼rdest
  du mich wahrscheinlich anzeigen, oder?}
 {165}{}{Jacob und Aileen waren auch Mutanten-Hasser? Die schienen so nett zu sein.}
 {166}{}{Ach, komm... Aileen?}
 {167}{}{Ich finde es unglaublich, dass sich die Beziehungen zwischen Menschen und Mutanten so
  verschlechtert haben.}
-{168}{}{Marcus muss jetzt ganz schön sauer auf die Menschen sein.}
-{169}{}{Wir Menschen sollten in nächster Zeit einfach mal Ruhe bewahren, finde ich.}
-{170}{}{Ich hab gehört, dass die Mutanten jetzt planen, alle Menschen umzubringen!}
+{168}{}{Marcus muss jetzt ganz schÃ¶n sauer auf die Menschen sein.}
+{169}{}{Wir Menschen sollten in nÃ¤chster Zeit einfach mal Ruhe bewahren, finde ich.}
+{170}{}{Ich hab gehÃ¶rt, dass die Mutanten jetzt planen, alle Menschen umzubringen!}
 {171}{}{Was halten die Ghuls denn von der ganzen Sache?}
-{172}{}{Die Mine... zerstört... jetzt ist unsere Stadt nichts mehr wert. }
+{172}{}{Die Mine... zerstÃ¶rt... jetzt ist unsere Stadt nichts mehr wert. }
 {173}{}{Wir sind ruiniert.}
 {174}{}{Das ist das Ende von Broken Hills.}
 {175}{}{Ich hau ab in die NCR.}
@@ -42,43 +42,43 @@
 {179}{}{Ich bring mich am besten einfach um. Ohne die Mine kann ich meinen Lebensunterhalt nicht
  mehr verdienen.}
 {180}{}{Tja, Mann... das Leben ist hart.}
-{181}{}{Nicht übel... ich hab noch nie jemanden gesehen, der Francis besiegen konnte.}
-{182}{}{Du bist ja ganz schön stark!}
+{181}{}{Nicht Ã¼bel... ich hab noch nie jemanden gesehen, der Francis besiegen konnte.}
+{182}{}{Du bist ja ganz schÃ¶n stark!}
 {183}{}{Du bist wohl ein ganz harter Typ, was?}
 {184}{}{Manchmal komme ich mir vor wie 'ne Magische 8. Ich feuere wahllos ein paar Worte ab und
  geh dann weg.}
-{185}{}{Hast du schon mal mit einer Deathclaw gekämpft?}
+{185}{}{Hast du schon mal mit einer Deathclaw gekÃ¤mpft?}
 {186}{}{Bist du genauso schlau, wie du stark bist?}
-{187}{}{Francis sieht in letzter Zeit so glücklich aus.}
+{187}{}{Francis sieht in letzter Zeit so glÃ¼cklich aus.}
 {188}{}{Francis hat so ein Leuchten im Gesicht. War er mit jemandem im Bett?}
-{189}{}{He, hallo Schwächling!}
+{189}{}{He, hallo SchwÃ¤chling!}
 {190}{}{Gehst du immer noch aufrecht?}
 {191}{}{Hat Francis dich fertiggemacht?}
 {192}{}{Deine Hose ist blutig am Hintern.}
-{193}{}{Wie konntest du nur so blöd sein, mit deinen Chancen gegen Francis anzutreten?}
-{194}{}{Hoffentlich hattest du genausoviel Spaß dabei wie Francis.}
+{193}{}{Wie konntest du nur so blÃ¶d sein, mit deinen Chancen gegen Francis anzutreten?}
+{194}{}{Hoffentlich hattest du genausoviel SpaÃŸ dabei wie Francis.}
 {195}{}{Die armen Leute.}
 {196}{}{Wer ist denn da vom Himmel gefallen?}
 {197}{}{(see other floats from 1)}
 {198}{}{Gut, dass wir dich hier in der Stadt haben.}
-{199}{}{Bleibst du noch länger hier?}
-{200}{}{Hoffentlich gefällt es dir hier!}
+{199}{}{Bleibst du noch lÃ¤nger hier?}
+{200}{}{Hoffentlich gefÃ¤llt es dir hier!}
 {201}{}{Du machst das ziemlich gut. Hast du schon mal daran gedacht, Sheriff zu werden?}
 {202}{}{Die Stadt sieht in letzter Zeit so viel netter aus.}
-{203}{}{Vielleicht entwickelt sich jetzt endlich alles nach unseren Wünschen.}
+{203}{}{Vielleicht entwickelt sich jetzt endlich alles nach unseren WÃ¼nschen.}
 {204}{}{Geh mir aus den Augen, du Abschaum.}
 {205}{}{Mit Leuten wie dir will ich nichts zu tun haben.}
 {206}{}{Wer hat dich denn reingelassen?}
-{207}{}{Warum sie dich nicht aus der Stadt jagen, weiß ich wirklich nicht.}
+{207}{}{Warum sie dich nicht aus der Stadt jagen, weiÃŸ ich wirklich nicht.}
 {208}{}{Lass mich bitte in Ruhe.}
 {209}{}{Nerv mich nicht.}
 {210}{}{Ich kann dir nicht helfen. Hau ab.}
-{211}{}{Du sollst in der Wüste verrecken.}
+{211}{}{Du sollst in der WÃ¼ste verrecken.}
 {212}{}{Hau ab.}
 {213}{}{Hilfe!}
 {214}{}{Er ist hier!}
 {215}{}{Aaaaaaaaaaaaah!}
-{216}{}{Verräter!}
+{216}{}{VerrÃ¤ter!}
 {217}{}{Abschaum!}
 {218}{}{Lass mich in Ruhe!}
 {219}{}{Nein! Nein! Nein!}
@@ -86,13 +86,13 @@
 {221}{}{Tu mir nicht weh!}
 {250}{}{Die armen Leute.}
 {251}{}{Wer ist denn da vom Himmel gefallen?}
-{252}{}{Sieh mal einer an, was der Wüstenwind hierhin weht.}
+{252}{}{Sieh mal einer an, was der WÃ¼stenwind hierhin weht.}
 {253}{}{Einige meiner besten Freunde sind Mutanten und Ghuls...}
-{254}{}{Wenn wir doch nur ein paar mehr Glühbirnen hätten.}
+{254}{}{Wenn wir doch nur ein paar mehr GlÃ¼hbirnen hÃ¤tten.}
 {255}{}{Was riecht da so?}
 {256}{}{Ich hab Angst, dass die NCR sich uns einfach einverleibt.}
 {257}{}{Meinst du, dass man in New Reno gut leben kann?}
 {258}{}{Ich hab ja gar nichts gegen Mutanten, aber sie sehen so komisch aus.}
 {259}{}{Das Leben ist schon hart genug, da sollte Phils Rachenputzer das nicht auch noch sein.}
-{260}{}{Dieser Hurensohn ist echt unverschämt.}
+{260}{}{Dieser Hurensohn ist echt unverschÃ¤mt.}
 {261}{}{Tja, was hast du denn erwartet.}

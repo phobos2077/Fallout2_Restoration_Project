@@ -1,2 +1,2 @@
-1:Você morreu.
-2:A sua aldeia está perdida, condenada a morrer de fome.
+1:VocÃª morreu.
+2:A sua aldeia estÃ¡ perdida, condenada a morrer de fome.

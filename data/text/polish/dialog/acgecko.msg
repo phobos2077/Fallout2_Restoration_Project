@@ -1,2 +1,2 @@
-{100}{}{Gekon gapi siê na ciebie.}
-{101}{}{Gekon znalaz³ sobie obiekt zainteresowania. Jest nim }
+{100}{}{Gekon gapi siÄ™ na ciebie.}
+{101}{}{Gekon znalazÅ‚ sobie obiekt zainteresowania. Jest nim }

@@ -1,11 +1,11 @@
-{100}{}{Você vê um console antigo.}
-{101}{}{Parece que este é o antigo console de controle de alvo de torpedo. Quase todos os monitores estão quebrados ou faltando, com 
- apenas um operando. Um monte de dados aleatórios aparecem na tela piscando de vez em quando.}
-{200}{}{O sistema operacional parece que corrompeu, pois não responde aos seus comandos como deveria. Você poderia 
- descobrir o sistema de uma forma mais científica.}
-{210}{}{Com alguns comandos avançados, o sistema é subvertido e começa a se responder. Algumas tecladas depois, os 
- sistemas de orientação de torpedo são desativados e preparados para explodir alguns momentos depois de deixar os tubos. Ciência!}
-{211}{}{Você mexe com o sistema por alguns minutos, mas ele está fora do seu alcance. Parece que 
- você precisa encontrar outra maneira de desativar os torpedos.}
+{100}{}{VocÃª vÃª um console antigo.}
+{101}{}{Parece que este Ã© o antigo console de controle de alvo de torpedo. Quase todos os monitores estÃ£o quebrados ou faltando, com 
+ apenas um operando. Um monte de dados aleatÃ³rios aparecem na tela piscando de vez em quando.}
+{200}{}{O sistema operacional parece que corrompeu, pois nÃ£o responde aos seus comandos como deveria. VocÃª poderia 
+ descobrir o sistema de uma forma mais cientÃ­fica.}
+{210}{}{Com alguns comandos avanÃ§ados, o sistema Ã© subvertido e comeÃ§a a se responder. Algumas tecladas depois, os 
+ sistemas de orientaÃ§Ã£o de torpedo sÃ£o desativados e preparados para explodir alguns momentos depois de deixar os tubos. CiÃªncia!}
+{211}{}{VocÃª mexe com o sistema por alguns minutos, mas ele estÃ¡ fora do seu alcance. Parece que 
+ vocÃª precisa encontrar outra maneira de desativar os torpedos.}
 {212}{}{*beep*}
 {213}{}{*beeboop*}

@@ -1,22 +1,22 @@
 {100}{}{? Bill.}
-{150}{}{Egy aszott férfit látsz magad el?tt bozontos fehér szemöldökkel. Nagy valószín?séggel nagyon odalenne egy italért.}
-{200}{}{::Köhög::}
-{201}{}{::A csapos felé pillantgat::}
-{202}{}{::Int, hogy kell neki egy másik ital::}
-{203}{}{::Bámul ki a fejéb?l::}
-{210}{}{Kopj le, idióta!}
-{220}{}{(Ahogy közeledsz, a férfi fel sem emeli a tekintetét. Ehelyett a bár mögötti falat bámulja.)}
-{221}{}{Ööö... hallott valami jó kis pletykát?}
-{222}{}{Mi a véleménye a szemüvegr?l, amit viselek?}
-{223}{}{Megölt már valaha valakit?}
-{224}{}{(Békén hagyod.)}
-{230}{}{Miféle elcseszett kérdés ez már?}
-{231}{}{Ahááá. Csigavér! Csak kiváncsiskodtam.}
-{232}{}{Oké, vegye úgy, mintha ki se mondtam volna.}
-{240}{}{H?tse le magát!}
-{241}{}{Hát hogyne, de el?bb kiütöm bel?led a szart is!}
-{250}{}{(A férfi hirtelen rádbámul.) Úgy nézel ki, mint egy idióta.}
-{251}{}{Ahááá. Csigavér. Csak a véleménye érdekelt.}
-{252}{}{Ööö... kösz az ?szinteségért...}
-{260}{}{(Int, hogy fogd be a pofád és hagyd inni.)}
-{261}{}{(Békén hagyod.)}
+{150}{}{Egy aszott fÃ©rfit lÃ¡tsz magad el?tt bozontos fehÃ©r szemÃ¶ldÃ¶kkel. Nagy valÃ³szÃ­n?sÃ©ggel nagyon odalenne egy italÃ©rt.}
+{200}{}{::KÃ¶hÃ¶g::}
+{201}{}{::A csapos felÃ© pillantgat::}
+{202}{}{::Int, hogy kell neki egy mÃ¡sik ital::}
+{203}{}{::BÃ¡mul ki a fejÃ©b?l::}
+{210}{}{Kopj le, idiÃ³ta!}
+{220}{}{(Ahogy kÃ¶zeledsz, a fÃ©rfi fel sem emeli a tekintetÃ©t. Ehelyett a bÃ¡r mÃ¶gÃ¶tti falat bÃ¡mulja.)}
+{221}{}{Ã–Ã¶Ã¶... hallott valami jÃ³ kis pletykÃ¡t?}
+{222}{}{Mi a vÃ©lemÃ©nye a szemÃ¼vegr?l, amit viselek?}
+{223}{}{MegÃ¶lt mÃ¡r valaha valakit?}
+{224}{}{(BÃ©kÃ©n hagyod.)}
+{230}{}{MifÃ©le elcseszett kÃ©rdÃ©s ez mÃ¡r?}
+{231}{}{AhÃ¡Ã¡Ã¡. CsigavÃ©r! Csak kivÃ¡ncsiskodtam.}
+{232}{}{OkÃ©, vegye Ãºgy, mintha ki se mondtam volna.}
+{240}{}{H?tse le magÃ¡t!}
+{241}{}{HÃ¡t hogyne, de el?bb kiÃ¼tÃ¶m bel?led a szart is!}
+{250}{}{(A fÃ©rfi hirtelen rÃ¡dbÃ¡mul.) Ãšgy nÃ©zel ki, mint egy idiÃ³ta.}
+{251}{}{AhÃ¡Ã¡Ã¡. CsigavÃ©r. Csak a vÃ©lemÃ©nye Ã©rdekelt.}
+{252}{}{Ã–Ã¶Ã¶... kÃ¶sz az ?szintesÃ©gÃ©rt...}
+{260}{}{(Int, hogy fogd be a pofÃ¡d Ã©s hagyd inni.)}
+{261}{}{(BÃ©kÃ©n hagyod.)}

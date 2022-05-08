@@ -1,1 +1,1 @@
-{101}{}{Der Name über dem Grab lautet: "Mr. Christopher Winslow."}
+{101}{}{Der Name Ã¼ber dem Grab lautet: "Mr. Christopher Winslow."}

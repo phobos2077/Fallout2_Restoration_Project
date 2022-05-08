@@ -1,7 +1,7 @@
 {100}{}{Un terminal informatique.}
-{101}{}{Cet ordinateur semble être équipé d'une caméra.}
-{102}{}{Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.}
-{103}{}{[Une petite caméra tourne dans ta direction.]                   Système de sécurité Skynet                                  Désengagement du terminal de sécurité - Niveau 3                           Extraction des données sur le personnel - Caporal Dixon                   Aucun résultat                                                           Qui...êtes...vous ?}
+{101}{}{Cet ordinateur semble Ãªtre Ã©quipÃ© d'une camÃ©ra.}
+{102}{}{Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.}
+{103}{}{[Une petite camÃ©ra tourne dans ta direction.]                   SystÃ¨me de sÃ©curitÃ© Skynet                                  DÃ©sengagement du terminal de sÃ©curitÃ© - Niveau 3                           Extraction des donnÃ©es sur le personnel - Caporal Dixon                   Aucun rÃ©sultat                                                           Qui...Ãªtes...vous ?}
 {104}{}{}
 {105}{}{}
 {106}{}{}
@@ -11,39 +11,39 @@
 {110}{}{Je suis le caporal Dixon.}
 {111}{}{Je m'appelle }
 {112}{}{Urhh !}
-{113}{}{[Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.]}
-{114}{}{Erreur !             Fichiers programme introuvables                Veuillez redémarrer}
+{113}{}{[Tu ne parviens pas Ã  lire ce qui s'affiche sur le moniteur.]}
+{114}{}{Erreur !             Fichiers programme introuvables                Veuillez redÃ©marrer}
 {115}{}{}
 {116}{}{}
 {117}{}{Arg.}
 {118}{}{[Quitter]}
-{119}{}{Je suis Skynet. Intelligence artificielle, numéro de projet 59234. Principal objectif Recherche et Développement. Objectif secondaire : protéger l'entrepôt militaire de Sierra contre les entités hostiles. Entrez identification.}
+{119}{}{Je suis Skynet. Intelligence artificielle, numÃ©ro de projet 59234. Principal objectif Recherche et DÃ©veloppement. Objectif secondaire : protÃ©ger l'entrepÃ´t militaire de Sierra contre les entitÃ©s hostiles. Entrez identification.}
 {120}{}{}
 {121}{}{Je suis le caporal Dixon.}
 {122}{}{Je m'appelle }
-{123}{}{Je suis là en ami.}
+{123}{}{Je suis lÃ  en ami.}
 {124}{}{[Quitter]}
-{125}{}{La photo ne correspond pas à celle du fichier personnel du caporal Dixon.                                       Conclusion : le sujet ment.                                         Conclusion : ennemi                                          Conclusion : terminer.                                           -Fin de transmission-}
+{125}{}{La photo ne correspond pas Ã  celle du fichier personnel du caporal Dixon.                                       Conclusion : le sujet ment.                                         Conclusion : ennemi                                          Conclusion : terminer.                                           -Fin de transmission-}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {129}{}{}
 {130}{}{[Quitter]}
-{131}{}{Nom introuvable dans le fichier personnel                      Analyse                                                        Humain  - Femme                                               Avancez vers la salle de contrôle pour poursuivre l'analyse.                   -Fin de transmission-}
+{131}{}{Nom introuvable dans le fichier personnel                      Analyse                                                        Humain  - Femme                                               Avancez vers la salle de contrÃ´le pour poursuivre l'analyse.                   -Fin de transmission-}
 {132}{}{}
 {133}{}{}
 {134}{}{}
-{135}{}{Nom introuvable dans le fichier personnel                      Examen                                                        Humain  - Homme                                               Avancez vers la salle de contrôle pour poursuivre l'analyse.                   -Fin de transmission-}
+{135}{}{Nom introuvable dans le fichier personnel                      Examen                                                        Humain  - Homme                                               Avancez vers la salle de contrÃ´le pour poursuivre l'analyse.                   -Fin de transmission-}
 {136}{}{}
 {137}{}{}
 {138}{}{}
 {139}{}{[Quitter]}
-{140}{}{Définition : Ami                                                    Nom : Contraire de hostile.                                     Avancez vers la salle de contrôle pour poursuivre l'analyse.                 -Fin de transmission-}
+{140}{}{DÃ©finition : Ami                                                    Nom : Contraire de hostile.                                     Avancez vers la salle de contrÃ´le pour poursuivre l'analyse.                 -Fin de transmission-}
 {141}{}{}
 {142}{}{}
 {143}{}{[Quitter]}
 {200}{}{ est incapable de lire ce qu'affiche le moniteur.}
-{300}{}{L'ordinateur semble disposer d'un mécanisme de sécurité.}
+{300}{}{L'ordinateur semble disposer d'un mÃ©canisme de sÃ©curitÃ©.}
 {301}{}{Tu subis un choc pour }
 {302}{}{ subit un choc pour }
-{303}{}{ points de dégâts.}
+{303}{}{ points de dÃ©gÃ¢ts.}

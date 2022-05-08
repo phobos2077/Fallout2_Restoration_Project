@@ -1,4 +1,4 @@
-{100}{}{Po�eracz dach�wek}
+{100}{}{Pożeracz dachówek}
 {200}{}{}
 {300}{}{}
 {400}{}{}
@@ -233,22 +233,22 @@
 {23300}{}{}
 {23400}{}{}
 {23500}{}{}
-{23600}{}{kraw�nik}
-{23700}{}{kraw�nik}
-{23800}{}{kraw�nik}
-{23900}{}{kraw�nik}
-{24000}{}{pod�oga}
-{24100}{}{pod�oga}
-{24200}{}{pod�oga}
-{24300}{}{pod�oga}
-{24400}{}{pod�oga}
-{24500}{}{pod�oga}
-{24600}{}{pod�oga}
-{24700}{}{pod�oga}
-{24800}{}{pod�oga}
-{24900}{}{pod�oga}
-{25000}{}{pod�oga}
-{25100}{}{pod�oga}
+{23600}{}{krawężnik}
+{23700}{}{krawężnik}
+{23800}{}{krawężnik}
+{23900}{}{krawężnik}
+{24000}{}{podłoga}
+{24100}{}{podłoga}
+{24200}{}{podłoga}
+{24300}{}{podłoga}
+{24400}{}{podłoga}
+{24500}{}{podłoga}
+{24600}{}{podłoga}
+{24700}{}{podłoga}
+{24800}{}{podłoga}
+{24900}{}{podłoga}
+{25000}{}{podłoga}
+{25100}{}{podłoga}
 {25200}{}{dach}
 {25300}{}{dach}
 {25400}{}{dach}
@@ -367,9 +367,9 @@
 {36700}{}{dach}
 {36800}{}{dach}
 {36900}{}{dach}
-{37000}{}{pod�oga}
-{37100}{}{pod�oga}
-{37200}{}{pod�oga}
+{37000}{}{podłoga}
+{37100}{}{podłoga}
+{37200}{}{podłoga}
 {37300}{}{dach}
 {37400}{}{dach}
 {37500}{}{dach}
@@ -395,25 +395,25 @@
 {39500}{}{dach}
 {39600}{}{dach}
 {39700}{}{dach}
-{39800}{}{pod�oga}
-{39900}{}{pod�oga}
-{40000}{}{pod�oga}
-{40100}{}{pod�oga}
-{40200}{}{pod�oga}
-{40300}{}{pod�oga}
-{40400}{}{pod�oga}
-{40500}{}{pod�oga}
-{40600}{}{pod�oga}
-{40700}{}{pod�oga}
-{40800}{}{pod�oga}
-{40900}{}{pod�oga}
-{41000}{}{pod�oga}
-{41100}{}{pod�oga}
-{41200}{}{pod�oga}
-{41300}{}{pod�oga}
+{39800}{}{podłoga}
+{39900}{}{podłoga}
+{40000}{}{podłoga}
+{40100}{}{podłoga}
+{40200}{}{podłoga}
+{40300}{}{podłoga}
+{40400}{}{podłoga}
+{40500}{}{podłoga}
+{40600}{}{podłoga}
+{40700}{}{podłoga}
+{40800}{}{podłoga}
+{40900}{}{podłoga}
+{41000}{}{podłoga}
+{41100}{}{podłoga}
+{41200}{}{podłoga}
+{41300}{}{podłoga}
 {41400}{}{krata}
-{41500}{}{pod�oga}
-{41600}{}{pod�oga}
+{41500}{}{podłoga}
+{41600}{}{podłoga}
 {41700}{}{dach}
 {41800}{}{dach}
 {41900}{}{dach}
@@ -472,21 +472,21 @@
 {47200}{}{}
 {47300}{}{}
 {47400}{}{}
-{47500}{}{drewniana pod�oga}
-{47600}{}{drewniana pod�oga}
-{47700}{}{drewniana pod�oga}
-{47800}{}{drewniana pod�oga}
-{47900}{}{drewniana pod�oga}
-{48000}{}{drewniana pod�oga}
-{48100}{}{drewniana pod�oga}
-{48200}{}{drewniana pod�oga}
-{48300}{}{drewniana pod�oga}
-{48400}{}{drewniana pod�oga}
-{48500}{}{drewniana pod�oga}
-{48600}{}{drewniana pod�oga}
-{48700}{}{drewniana pod�oga}
-{48800}{}{drewniana pod�oga}
-{48900}{}{drewniana pod�oga}
+{47500}{}{drewniana podłoga}
+{47600}{}{drewniana podłoga}
+{47700}{}{drewniana podłoga}
+{47800}{}{drewniana podłoga}
+{47900}{}{drewniana podłoga}
+{48000}{}{drewniana podłoga}
+{48100}{}{drewniana podłoga}
+{48200}{}{drewniana podłoga}
+{48300}{}{drewniana podłoga}
+{48400}{}{drewniana podłoga}
+{48500}{}{drewniana podłoga}
+{48600}{}{drewniana podłoga}
+{48700}{}{drewniana podłoga}
+{48800}{}{drewniana podłoga}
+{48900}{}{drewniana podłoga}
 {49000}{}{ziemia}
 {49100}{}{ziemia}
 {49200}{}{ziemia}
@@ -658,7 +658,7 @@
 {65800}{}{dach}
 {65900}{}{dach}
 {66000}{}{dach}
-{66100}{}{pod�oga}
+{66100}{}{podłoga}
 {66200}{}{dach}
 {66300}{}{dach}
 {66400}{}{dach}
@@ -682,7 +682,7 @@
 {68200}{}{dach}
 {68300}{}{dach}
 {68400}{}{dach}
-{68500}{}{�ciana}
+{68500}{}{ściana}
 {68600}{}{dach}
 {68700}{}{dach}
 {68800}{}{dach}
@@ -713,11 +713,11 @@
 {71300}{}{dach}
 {71400}{}{dach}
 {71500}{}{dach}
-{71600}{}{ogr�d}
-{71700}{}{ogr�d}
-{71800}{}{ogr�d}
-{71900}{}{ogr�d}
-{72000}{}{ogr�d}
+{71600}{}{ogród}
+{71700}{}{ogród}
+{71800}{}{ogród}
+{71900}{}{ogród}
+{72000}{}{ogród}
 {72100}{}{dach}
 {72200}{}{dach}
 {72300}{}{dach}
@@ -811,7 +811,7 @@
 {105400}{}{szlam}
 {150400}{}{}
 {162300}{}{Scotty}
-{310300}{}{p�ytka pod�ogowa}
+{310300}{}{płytka podłogowa}
 {369100}{}{dach}
 {369200}{}{dach}
 {369300}{}{dach}

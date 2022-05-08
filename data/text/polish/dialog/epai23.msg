@@ -1,7 +1,7 @@
 {100}{}{Widzisz terminal.}
-{101}{}{Widzisz jednostkê kontroluj¹c¹ pola si³owe.}
-{200}{}{Terminal sterowania polami si³owymi. WprowadŸ polecenie:}
-{201}{}{Wy³¹cz pola si³owe.}
-{202}{}{Wyjœcie.}
-{203}{}{Nadaremnie bawisz siê interfejsem. Czujesz, ¿e brak ci umiejêtnoœci.}
-{204}{}{[Po kilku minutach grzebania, na ekranie pojawia siê odliczanie 5 sekund z komunikatem:] Uwolnienie obiektów za...}
+{101}{}{Widzisz jednostkÄ™ kontrolujÄ…cÄ… pola siÅ‚owe.}
+{200}{}{Terminal sterowania polami siÅ‚owymi. WprowadÅº polecenie:}
+{201}{}{WyÅ‚Ä…cz pola siÅ‚owe.}
+{202}{}{WyjÅ›cie.}
+{203}{}{Nadaremnie bawisz siÄ™ interfejsem. Czujesz, Å¼e brak ci umiejÄ™tnoÅ›ci.}
+{204}{}{[Po kilku minutach grzebania, na ekranie pojawia siÄ™ odliczanie 5 sekund z komunikatem:] Uwolnienie obiektÃ³w za...}

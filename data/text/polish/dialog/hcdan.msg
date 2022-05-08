@@ -1,58 +1,58 @@
-{100}{}{Widzisz zatroskanego mê¿czyznê.}
+{100}{}{Widzisz zatroskanego mÄ™Å¼czyznÄ™.}
 {101}{}{Widzisz Dana, jest bardzo zatroskany.}
-{102}{}{Widzisz dobrze ubranego mê¿czyznê. Jego twarz wskazuje na to, ¿e jest na skraju histerii.}
-{103}{}{Kim jesteœ? Co robisz w moim domu?}
+{102}{}{Widzisz dobrze ubranego mÄ™Å¼czyznÄ™. Jego twarz wskazuje na to, Å¼e jest na skraju histerii.}
+{103}{}{Kim jesteÅ›? Co robisz w moim domu?}
 {104}{}{Ack? Oop?}
 {105}{}{Jestem }
-{106}{}{Nikim wa¿nym.}
-{107}{}{Jestem tu, aby ciê okraœæ.}
-{108}{}{Nic. Nikim. ¯egnam.}
-{109}{}{Proszê, nie w moim domu. Na zewn¹trz jest ulica, na której mo¿esz robiæ sobie wszystko, co tacy "szczególni" ludzie robi¹.}
+{106}{}{Nikim waÅ¼nym.}
+{107}{}{Jestem tu, aby ciÄ™ okraÅ›Ä‡.}
+{108}{}{Nic. Nikim. Å»egnam.}
+{109}{}{ProszÄ™, nie w moim domu. Na zewnÄ…trz jest ulica, na ktÃ³rej moÅ¼esz robiÄ‡ sobie wszystko, co tacy "szczegÃ³lni" ludzie robiÄ….}
 {110}{}{Thppt!}
-{111}{}{Wspaniale, wspaniale. Mi³o mi ciê poznaæ. [Zastanawia siê chwilê] Hej, s³uchaj... jesteœ typem poszukiwacza, prawda?}
+{111}{}{Wspaniale, wspaniale. MiÅ‚o mi ciÄ™ poznaÄ‡. [Zastanawia siÄ™ chwilÄ™] Hej, sÅ‚uchaj... jesteÅ› typem poszukiwacza, prawda?}
 {112}{}{Tak.}
 {113}{}{Nie rozpoznajesz Dziecka Przeznaczenia?}
 {114}{}{Nie.}
-{115}{}{A dlaczego tak ciê to interesuje?}
-{116}{}{Pytam, bo, widzisz, zaginê³a moja ¿ona. Nie mam pojêcia, gdzie jest. Nie ma jej ju¿ bardzo d³ugo. Pyta³em wszystkich w mieœcie, ale nikt jej nie widzia³. Mo¿esz j¹ dla mnie poszukaæ?}
-{117}{}{Co bêdê z tego mieæ?}
-{118}{}{Rozejrzê siê. Jak ona wygl¹da?}
-{119}{}{Nie ma mowy. Mam du¿o spraw na g³owie.}
-{120}{}{Dam ci 500$. To wszystkie moje oszczêdnoœci.}
-{121}{}{To wystarczy. Zrobiê to.}
+{115}{}{A dlaczego tak ciÄ™ to interesuje?}
+{116}{}{Pytam, bo, widzisz, zaginÄ™Å‚a moja Å¼ona. Nie mam pojÄ™cia, gdzie jest. Nie ma jej juÅ¼ bardzo dÅ‚ugo. PytaÅ‚em wszystkich w mieÅ›cie, ale nikt jej nie widziaÅ‚. MoÅ¼esz jÄ… dla mnie poszukaÄ‡?}
+{117}{}{Co bÄ™dÄ™ z tego mieÄ‡?}
+{118}{}{RozejrzÄ™ siÄ™. Jak ona wyglÄ…da?}
+{119}{}{Nie ma mowy. Mam duÅ¼o spraw na gÅ‚owie.}
+{120}{}{Dam ci 500$. To wszystkie moje oszczÄ™dnoÅ›ci.}
+{121}{}{To wystarczy. ZrobiÄ™ to.}
 {122}{}{Nie. Nic z tego.}
-{123}{}{Proszê. B³agam. Moja ¿ona... ona jest dla mnie wszystkim. Proszê.}
+{123}{}{ProszÄ™. BÅ‚agam. Moja Å¼ona... ona jest dla mnie wszystkim. ProszÄ™.}
 {124}{}{Nie!}
-{125}{}{Dobra, dobra, zrobiê to, tylko przestañ ju¿ siê przede mn¹ p³aszczyæ.}
-{126}{}{Masz tu pieni¹dze. A teraz proszê, proszê, PROSZÊ... znajdŸ moj¹ ¿onê i powiedz mi, gdzie jest. Niewa¿ne czy mnie zostawi³a, czy zamieszka³a u kogoœ innego... ja po prostu muszê wiedzieæ.}
-{127}{}{Masz to jak w banku, koleœ. Jak ona wygl¹da?}
-{128}{}{Oczywiœcie. Zrobiê, co w mojej mocy.}
-{129}{}{[Traci nad sob¹ kontrolê i przez chwilê g³êboko szlocha] W porz¹dku. IdŸ. I wiedz, ¿e mam z³amane serce.}
+{125}{}{Dobra, dobra, zrobiÄ™ to, tylko przestaÅ„ juÅ¼ siÄ™ przede mnÄ… pÅ‚aszczyÄ‡.}
+{126}{}{Masz tu pieniÄ…dze. A teraz proszÄ™, proszÄ™, PROSZÄ˜... znajdÅº mojÄ… Å¼onÄ™ i powiedz mi, gdzie jest. NiewaÅ¼ne czy mnie zostawiÅ‚a, czy zamieszkaÅ‚a u kogoÅ› innego... ja po prostu muszÄ™ wiedzieÄ‡.}
+{127}{}{Masz to jak w banku, koleÅ›. Jak ona wyglÄ…da?}
+{128}{}{OczywiÅ›cie. ZrobiÄ™, co w mojej mocy.}
+{129}{}{[Traci nad sobÄ… kontrolÄ™ i przez chwilÄ™ gÅ‚Ä™boko szlocha] W porzÄ…dku. IdÅº. I wiedz, Å¼e mam zÅ‚amane serce.}
 {130}{}{No to na razie, frajerze.}
-{131}{}{Jest wysok¹, seksown¹ blondynk¹ o najwspanialszym g³osie, jaki kiedykolwiek s³ysza³em... Ostatnio widziano j¹ spaceruj¹c¹ w tej okolicy. Nigdy nie lubi³a mutantów i ghuli, wiêc raczej nie bêdzie w okolicy ich domów. Nikt nie wie, gdzie posz³a. To tak, jakby po prostu zniknê³a.}
+{131}{}{Jest wysokÄ…, seksownÄ… blondynkÄ… o najwspanialszym gÅ‚osie, jaki kiedykolwiek sÅ‚yszaÅ‚em... Ostatnio widziano jÄ… spacerujÄ…cÄ… w tej okolicy. Nigdy nie lubiÅ‚a mutantÃ³w i ghuli, wiÄ™c raczej nie bÄ™dzie w okolicy ich domÃ³w. Nikt nie wie, gdzie poszÅ‚a. To tak, jakby po prostu zniknÄ™Å‚a.}
 {132}{}{To mi wystarczy.}
-{133}{}{No i? Uda³o ci siê j¹ odnaleŸæ? Moje serce boli mocniej z ka¿d¹ chwil¹.}
-{134}{}{Przykro mi - ci¹gle szukam.}
+{133}{}{No i? UdaÅ‚o ci siÄ™ jÄ… odnaleÅºÄ‡? Moje serce boli mocniej z kaÅ¼dÄ… chwilÄ….}
+{134}{}{Przykro mi - ciÄ…gle szukam.}
 {135}{}{Tak, wiem gdzie jest.}
-{136}{}{Nie, jeszcze nie. Ci¹gle szukam.}
-{137}{}{Och, moje biedne serce. Proszê, daj mi znaæ, gdy j¹ znajdziesz.}
-{138}{}{Jasne, oczywiœcie.}
-{139}{}{W³aœciwie, ju¿ mi siê znudzi³o szukanie twojej laski.}
-{140}{}{Wiesz gdzie jest? [Dostrzegasz nadziejê w jego wzroku] Gdzie?}
-{141}{}{Czy to by³a taka laska bez nóg?}
-{142}{}{W tunelach pod miastem jest grupka martwych osób. Twoja ¿ona jest wœród nich. Przykro mi.}
-{143}{}{Co? Nie! Mia³a fantastyczne nogi!}
-{144}{}{O. Jasne. No có¿, teraz ju¿ ich nie ma. Zosta³a potraktowana naprawdê okropnie - urwano jej nogi. Wykrwawi³a siê na œmieræ, ale wczeœniej musia³a naprawdê strasznie cierpieæ.}
-{145}{}{Jasne. Có¿, myœlê, ¿e wiem, gdzie jest. Le¿y poœród cia³ w tunelach pod miastem. Ona nie ¿yje. Strasznie mi przykro.}
-{146}{}{Dziêki za informacjê. Teraz, jeœli pozwolisz, muszê siê iœæ wyp³akaæ.}
-{147}{}{Taa, idŸ sobie p³akaæ, ty lalusiu.}
+{136}{}{Nie, jeszcze nie. CiÄ…gle szukam.}
+{137}{}{Och, moje biedne serce. ProszÄ™, daj mi znaÄ‡, gdy jÄ… znajdziesz.}
+{138}{}{Jasne, oczywiÅ›cie.}
+{139}{}{WÅ‚aÅ›ciwie, juÅ¼ mi siÄ™ znudziÅ‚o szukanie twojej laski.}
+{140}{}{Wiesz gdzie jest? [Dostrzegasz nadziejÄ™ w jego wzroku] Gdzie?}
+{141}{}{Czy to byÅ‚a taka laska bez nÃ³g?}
+{142}{}{W tunelach pod miastem jest grupka martwych osÃ³b. Twoja Å¼ona jest wÅ›rÃ³d nich. Przykro mi.}
+{143}{}{Co? Nie! MiaÅ‚a fantastyczne nogi!}
+{144}{}{O. Jasne. No cÃ³Å¼, teraz juÅ¼ ich nie ma. ZostaÅ‚a potraktowana naprawdÄ™ okropnie - urwano jej nogi. WykrwawiÅ‚a siÄ™ na Å›mierÄ‡, ale wczeÅ›niej musiaÅ‚a naprawdÄ™ strasznie cierpieÄ‡.}
+{145}{}{Jasne. CÃ³Å¼, myÅ›lÄ™, Å¼e wiem, gdzie jest. LeÅ¼y poÅ›rÃ³d ciaÅ‚ w tunelach pod miastem. Ona nie Å¼yje. Strasznie mi przykro.}
+{146}{}{DziÄ™ki za informacjÄ™. Teraz, jeÅ›li pozwolisz, muszÄ™ siÄ™ iÅ›Ä‡ wypÅ‚akaÄ‡.}
+{147}{}{Taa, idÅº sobie pÅ‚akaÄ‡, ty lalusiu.}
 {148}{}{Przykro mi, stary.}
-{149}{}{Nienawidzê ciê! Wszyscy ciê nienawidz¹! Najlepiej umrzyj! [p³acz]}
-{150}{}{Przy jej ciele by³ list. Wynika z niego, ¿e by³a w grupie planuj¹cej wymordowanie mutantów w Broken Hills.}
-{151}{}{O mój Bo¿e! Ja... Ja nie wierzê, ¿e... To po prostu nie... [G³êboko wzdycha] To, co mówisz, mo¿e byæ niestety prawd¹. Ju¿ wczeœniej nienawidzi³a ka¿dego mutanta i ghula, jakiego spotka³a. Nie wiem dlaczego.}
-{152}{}{To wszystko prawda - ale pomyœl. Morderstwa mog¹ nie skoñczyæ siê na twojej ¿onie. Jeœli zabili j¹ - mog¹ te¿ chcieæ zabiæ ciebie.}
-{153}{}{Chyba nie chcesz powiedzieæ, ¿e moje ¿ycie jest w niebezpieczeñstwie? O Bo¿e. Mo¿esz mieæ racjê. Ostatniej nocy s³ysza³em jakieœ szepty i szuranie dooko³a domu.}
-{154}{}{Opuszczenie miasta mo¿e byæ w tej sytuacji jedynym rozwi¹zaniem. Uwa¿aj na siebie. Powodzenia.}
-{155}{}{Dziêki za pomoc. Zostanê tu tylko tyle, ile potrzeba na spakowanie siê.}
-{156}{}{Dan dowiedzia³ siê od ciebie o morderstwie ¿ony.}
+{149}{}{NienawidzÄ™ ciÄ™! Wszyscy ciÄ™ nienawidzÄ…! Najlepiej umrzyj! [pÅ‚acz]}
+{150}{}{Przy jej ciele byÅ‚ list. Wynika z niego, Å¼e byÅ‚a w grupie planujÄ…cej wymordowanie mutantÃ³w w Broken Hills.}
+{151}{}{O mÃ³j BoÅ¼e! Ja... Ja nie wierzÄ™, Å¼e... To po prostu nie... [GÅ‚Ä™boko wzdycha] To, co mÃ³wisz, moÅ¼e byÄ‡ niestety prawdÄ…. JuÅ¼ wczeÅ›niej nienawidziÅ‚a kaÅ¼dego mutanta i ghula, jakiego spotkaÅ‚a. Nie wiem dlaczego.}
+{152}{}{To wszystko prawda - ale pomyÅ›l. Morderstwa mogÄ… nie skoÅ„czyÄ‡ siÄ™ na twojej Å¼onie. JeÅ›li zabili jÄ… - mogÄ… teÅ¼ chcieÄ‡ zabiÄ‡ ciebie.}
+{153}{}{Chyba nie chcesz powiedzieÄ‡, Å¼e moje Å¼ycie jest w niebezpieczeÅ„stwie? O BoÅ¼e. MoÅ¼esz mieÄ‡ racjÄ™. Ostatniej nocy sÅ‚yszaÅ‚em jakieÅ› szepty i szuranie dookoÅ‚a domu.}
+{154}{}{Opuszczenie miasta moÅ¼e byÄ‡ w tej sytuacji jedynym rozwiÄ…zaniem. UwaÅ¼aj na siebie. Powodzenia.}
+{155}{}{DziÄ™ki za pomoc. ZostanÄ™ tu tylko tyle, ile potrzeba na spakowanie siÄ™.}
+{156}{}{Dan dowiedziaÅ‚ siÄ™ od ciebie o morderstwie Å¼ony.}
 {157}{}{.}

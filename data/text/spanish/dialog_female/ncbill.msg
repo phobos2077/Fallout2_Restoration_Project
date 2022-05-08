@@ -4,19 +4,19 @@
 {201}{}{::Mira al camarero::}
 {202}{}{::Pide otra bebida con un gesto::}
 {203}{}{::Mira con hostilidad::}
-{210}{}{Piérdete, estúpida.}
-{220}{}{(El hombre ni te mira cuando te acercas. Contempla fijamente la pared detrás del bar).}
-{221}{}{Uh, oye, ¿has oído algún rumor interesante?}
-{222}{}{Oye, ¿qué te parecen estas nuevas gafas que llevo?}
-{223}{}{Oye, ¿alguna vez has matado a alguien?}
+{210}{}{PiÃ©rdete, estÃºpida.}
+{220}{}{(El hombre ni te mira cuando te acercas. Contempla fijamente la pared detrÃ¡s del bar).}
+{221}{}{Uh, oye, Â¿has oÃ­do algÃºn rumor interesante?}
+{222}{}{Oye, Â¿quÃ© te parecen estas nuevas gafas que llevo?}
+{223}{}{Oye, Â¿alguna vez has matado a alguien?}
 {224}{}{(Le dejas solo).}
-{230}{}{¿Qué clase de pregunta idiota es esa?}
-{231}{}{Eh. Cálmate. Sólo era curiosidad.}
-{232}{}{Está bien, olvídalo entonces.}
-{240}{}{Cuídate.}
-{241}{}{No antes de que cargarme a una basura viviente como tú.}
+{230}{}{Â¿QuÃ© clase de pregunta idiota es esa?}
+{231}{}{Eh. CÃ¡lmate. SÃ³lo era curiosidad.}
+{232}{}{EstÃ¡ bien, olvÃ­dalo entonces.}
+{240}{}{CuÃ­date.}
+{241}{}{No antes de que cargarme a una basura viviente como tÃº.}
 {250}{}{(El hombre vuelve tu mirada hacia ti) Pareces una idiota.}
-{251}{}{Eh. Cálmate. Sólo preguntaba tu opinión.}
-{252}{}{Eh… gracias por la honestidad, entonces.}
+{251}{}{Eh. CÃ¡lmate. SÃ³lo preguntaba tu opiniÃ³n.}
+{252}{}{Ehâ€¦ gracias por la honestidad, entonces.}
 {260}{}{(Te hace gestos para que te calles y lo dejes beber).}
 {261}{}{(Le dejas solo).}

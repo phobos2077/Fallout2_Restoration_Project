@@ -1,150 +1,150 @@
 {100}{}{Ves a un miembro del Gremio de Esclavistas.}
-{150}{}{Ves a Metzger, líder del Gremio de Esclavistas.}
+{150}{}{Ves a Metzger, lÃ­der del Gremio de Esclavistas.}
 {151}{}{[HABLAR]}
-{152}{}{¡Guardias! ¡Atacad!}
+{152}{}{Â¡Guardias! Â¡Atacad!}
 {153}{}{[hecho]}
-{154}{}{¡Vuelve por la mañana, maldición! Hago negocios durante el día.}
+{154}{}{Â¡Vuelve por la maÃ±ana, maldiciÃ³n! Hago negocios durante el dÃ­a.}
 {155}{}{[hecho]}
-{156}{}{¿Y ahora qué? Estás empezando a cabrearme de verdad.}
-{157}{}{Me gustaría que te disculparas.}
+{156}{}{Â¿Y ahora quÃ©? EstÃ¡s empezando a cabrearme de verdad.}
+{157}{}{Me gustarÃ­a que te disculparas.}
 {158}{}{Lo siento, antes estaba drogado. No quise decir nada.}
-{159}{}{Tú, ¿cuál es tu problema?}
-{160}{}{Quería hacerte una pregunta.}
-{161}{}{Aparentemente lo tengo. Adiós.}
+{159}{}{TÃº, Â¿cuÃ¡l es tu problema?}
+{160}{}{QuerÃ­a hacerte una pregunta.}
+{161}{}{Aparentemente lo tengo. AdiÃ³s.}
 {162}{}{Wah.}
-{163}{}{Bien, es demasiado tarde para eso. Sal de aquí.}
+{163}{}{Bien, es demasiado tarde para eso. Sal de aquÃ­.}
 {164}{}{Por favor, por favor, por favor; lo siento.}
 {165}{}{Oh, bueno, lo intente.}
-{166}{}{Entonces, ¡que te jodan!}
+{166}{}{Entonces, Â¡que te jodan!}
 {167}{}{De acuerdo, de acuerdo. Disculpas aceptadas.}
-{168}{}{Buff. ¿Puedo hacerte algunas preguntas?}
+{168}{}{Buff. Â¿Puedo hacerte algunas preguntas?}
 {169}{}{Me alegro de que lo hayamos resuelto. Nos vemos luego.}
 {170}{}{Hola. Me alegro de verte.}
 {171}{}{Hola, Metzger. Tenemos que hablar.}
-{172}{}{Yo también. Adiós.}
+{172}{}{Yo tambiÃ©n. AdiÃ³s.}
 {173}{}{Blurp.}
-{174}{}{Yo soy Metzger, Jefe del Gremio de Esclavistas. ¿Qué quieres?}
-{175}{}{Sí, tengo algunas preguntas.}
-{176}{}{No gracias, me iré ahora.}
-{177}{}{¿¿Swavuh???}
+{174}{}{Yo soy Metzger, Jefe del Gremio de Esclavistas. Â¿QuÃ© quieres?}
+{175}{}{SÃ­, tengo algunas preguntas.}
+{176}{}{No gracias, me irÃ© ahora.}
+{177}{}{Â¿Â¿Swavuh???}
 {178}{}{Por favor, vete. Ya.}
-{179}{}{¿O qué?}
-{180}{}{De acuerdo. ¡Pero volveré!}
-{181}{}{Vale. Adiós.}
-{182}{}{¿Qué es lo que quieres saber?}
+{179}{}{Â¿O quÃ©?}
+{180}{}{De acuerdo. Â¡Pero volverÃ©!}
+{181}{}{Vale. AdiÃ³s.}
+{182}{}{Â¿QuÃ© es lo que quieres saber?}
 {183}{}{Sobre Vic el Mercader...}
-{184}{}{¿Puedo unirme al Gremio de Esclavistas?}
-{185}{}{Me gustaría vender a mi marido.}
-{186}{}{Me gustaría vender a mi esposa. ¿Cuánto me darán?}
-{187}{}{Me gustaría vender a uno de mis amigos.}
-{188}{}{Háblame del gremio.}
-{189}{}{¿Qué ciudades te compran esclavos?}
-{190}{}{Me gustaría comprar un esclavo.}
-{191}{}{Estoy buscando el Refugio 13. ¿Has oído hablar de él?}
-{192}{}{¿Metzger? Que nombre más raro.}
+{184}{}{Â¿Puedo unirme al Gremio de Esclavistas?}
+{185}{}{Me gustarÃ­a vender a mi marido.}
+{186}{}{Me gustarÃ­a vender a mi esposa. Â¿CuÃ¡nto me darÃ¡n?}
+{187}{}{Me gustarÃ­a vender a uno de mis amigos.}
+{188}{}{HÃ¡blame del gremio.}
+{189}{}{Â¿QuÃ© ciudades te compran esclavos?}
+{190}{}{Me gustarÃ­a comprar un esclavo.}
+{191}{}{Estoy buscando el Refugio 13. Â¿Has oÃ­do hablar de Ã©l?}
+{192}{}{Â¿Metzger? Que nombre mÃ¡s raro.}
 {193}{}{Nada. Tengo que irme.}
-{195}{}{Es de un idioma antiguo, de antes de la guerra o algo así.}
-{196}{}{Metzger significa carnicero. Me pega, ¿no crees?}
-{197}{}{Era el nombre de mi bisabuelo. Vino de algún lugar al este. Más allá de un mar de agua.}
-{198}{}{Leí un libro acerca de un tal Metzger. Era un presidente, o algo así.}
-{199}{}{Mira quién habla, tribal.}
-{200}{}{Es Alemén, alemán, alamén, o algo así. Un idioma antiguo, de hace largo tiempo.}
+{195}{}{Es de un idioma antiguo, de antes de la guerra o algo asÃ­.}
+{196}{}{Metzger significa carnicero. Me pega, Â¿no crees?}
+{197}{}{Era el nombre de mi bisabuelo. Vino de algÃºn lugar al este. MÃ¡s allÃ¡ de un mar de agua.}
+{198}{}{LeÃ­ un libro acerca de un tal Metzger. Era un presidente, o algo asÃ­.}
+{199}{}{Mira quiÃ©n habla, tribal.}
+{200}{}{Es AlemÃ©n, alemÃ¡n, alamÃ©n, o algo asÃ­. Un idioma antiguo, de hace largo tiempo.}
 {201}{}{Et tu, Brutus?}
-{202}{}{Ya veo. Aunque tengo más preguntas.}
-{203}{}{Esa es la cosa más estúpida que he oído nunca.}
+{202}{}{Ya veo. Aunque tengo mÃ¡s preguntas.}
+{203}{}{Esa es la cosa mÃ¡s estÃºpida que he oÃ­do nunca.}
 {204}{}{Fascinante. Me largo.}
-{205}{}{Nuestra misión es procurar de forma constante una fuerza de trabajo de gran calidad que sirva para manejar las siempre crecientes necesidades de las grandes ciudades. ¿Quieres unirte?}
+{205}{}{Nuestra misiÃ³n es procurar de forma constante una fuerza de trabajo de gran calidad que sirva para manejar las siempre crecientes necesidades de las grandes ciudades. Â¿Quieres unirte?}
 {206}{}{Claro. Suena bien.}
 {207}{}{Ni hablar.}
-{208}{}{Te responderé a eso más tarde. ¿Qué ciudades te compran esclavos?}
-{209}{}{Lo siento, eso es información privada del gremio.}
-{210}{}{De acuerdo. ¡Me apunto!}
-{211}{}{¡No! ¡Estáis enfermos!}
-{212}{}{Me lo pensaré. Tengo más preguntas.}
-{213}{}{Hmm, volveré más tarde.}
-{214}{}{Tendremos que grabarte una pequeña marca en la frente para mostrar a todo el mundo tu pertenencia al Gremio de Esclavistas. ¿Estás listo?}
-{215}{}{¡Suena genial! ¡Hazlo!}
-{216}{}{He cambiado de idea. ¿Puedo hacerte otra pregunta?}
+{208}{}{Te responderÃ© a eso mÃ¡s tarde. Â¿QuÃ© ciudades te compran esclavos?}
+{209}{}{Lo siento, eso es informaciÃ³n privada del gremio.}
+{210}{}{De acuerdo. Â¡Me apunto!}
+{211}{}{Â¡No! Â¡EstÃ¡is enfermos!}
+{212}{}{Me lo pensarÃ©. Tengo mÃ¡s preguntas.}
+{213}{}{Hmm, volverÃ© mÃ¡s tarde.}
+{214}{}{Tendremos que grabarte una pequeÃ±a marca en la frente para mostrar a todo el mundo tu pertenencia al Gremio de Esclavistas. Â¿EstÃ¡s listo?}
+{215}{}{Â¡Suena genial! Â¡Hazlo!}
+{216}{}{He cambiado de idea. Â¿Puedo hacerte otra pregunta?}
 {217}{}{Ahora no tengo tiempo. Debo irme.}
-{218}{}{¡Bienvenida al gremio!}
-{219}{}{¡Genial, tengo preguntas!}
-{220}{}{Vale, gracias. Volveré.}
-{221}{}{¿Refugio 13? No. Espera... Creo que Vic es de Ciudad Refugio. Quizás sea eso.}
-{222}{}{Sí. ¿dónde está?}
+{218}{}{Â¡Bienvenida al gremio!}
+{219}{}{Â¡Genial, tengo preguntas!}
+{220}{}{Vale, gracias. VolverÃ©.}
+{221}{}{Â¿Refugio 13? No. Espera... Creo que Vic es de Ciudad Refugio. QuizÃ¡s sea eso.}
+{222}{}{SÃ­. Â¿dÃ³nde estÃ¡?}
 {223}{}{No. Aunque tengo que hacerte otra pregunta.}
 {224}{}{No, no importa.}
-{225}{}{Vendemos la mayoría de nuestros esclavos a Ciudad Refugio y a Nuevo Reno. Nuevo Reno está el sureste de aquí y la mayoría de La Guarida comercia con ellos.}
-{226}{}{¿Dónde está Ciudad Refugio?}
-{227}{}{Tengo más preguntas.}
+{225}{}{Vendemos la mayorÃ­a de nuestros esclavos a Ciudad Refugio y a Nuevo Reno. Nuevo Reno estÃ¡ el sureste de aquÃ­ y la mayorÃ­a de La Guarida comercia con ellos.}
+{226}{}{Â¿DÃ³nde estÃ¡ Ciudad Refugio?}
+{227}{}{Tengo mÃ¡s preguntas.}
 {228}{}{Gracias, debo irme.}
-{229}{}{Ciudad Refugio está al este de aquí, y un poco al sur. Vic es de allí.}
-{230}{}{Tengo más preguntas.}
+{229}{}{Ciudad Refugio estÃ¡ al este de aquÃ­, y un poco al sur. Vic es de allÃ­.}
+{230}{}{Tengo mÃ¡s preguntas.}
 {231}{}{Gracias, debo irme.}
-{232}{}{Hmm, parece un esclavo saludable. Te pagaré }
-{233}{}{ dólares.}
-{234}{}{¡Vale! Trato hecho.}
+{232}{}{Hmm, parece un esclavo saludable. Te pagarÃ© }
+{233}{}{ dÃ³lares.}
+{234}{}{Â¡Vale! Trato hecho.}
 {235}{}{Uh, no importa.}
-{236}{}{¡De ninguna manera! ¡Quiero el doble!}
-{237}{}{Eres dura a la hora de negociar. ¡Aquí está tu dinero!}
-{238}{}{Gracias. Tengo más preguntas.}
-{239}{}{Gracias. Adiós.}
-{240}{}{¿Algo más?}
+{236}{}{Â¡De ninguna manera! Â¡Quiero el doble!}
+{237}{}{Eres dura a la hora de negociar. Â¡AquÃ­ estÃ¡ tu dinero!}
+{238}{}{Gracias. Tengo mÃ¡s preguntas.}
+{239}{}{Gracias. AdiÃ³s.}
+{240}{}{Â¿Algo mÃ¡s?}
 {241}{}{Si, tengo una pregunta.}
-{242}{}{Pues no. Adiós.}
-{243}{}{¿A que "amigo" vas a vender?}
+{242}{}{Pues no. AdiÃ³s.}
+{243}{}{Â¿A que "amigo" vas a vender?}
 {244}{}{Um, no importa.}
-{245}{}{Interesante. Te daré }
-{246}{}{ dólares.}
-{247}{}{¡Vendido!}
+{245}{}{Interesante. Te darÃ© }
+{246}{}{ dÃ³lares.}
+{247}{}{Â¡Vendido!}
 {248}{}{No, gracias.}
-{249}{}{¡Quiero más dinero!}
-{250}{}{De acuerdo, te lo daré }
-{251}{}{, ¡pero no más!}
-{252}{}{¡Vendido!}
+{249}{}{Â¡Quiero mÃ¡s dinero!}
+{250}{}{De acuerdo, te lo darÃ© }
+{251}{}{, Â¡pero no mÃ¡s!}
+{252}{}{Â¡Vendido!}
 {253}{}{No es suficiente.}
 {254}{}{Eso es muy poco. Me marcho.}
-{255}{}{¿Qué es lo que quieres de Vic? Ahora es de mi propiedad. No debería haber intentado joderme.}
-{256}{}{Me gustaría comprarlo.}
-{257}{}{¿Por qué le retienes aquí?}
+{255}{}{Â¿QuÃ© es lo que quieres de Vic? Ahora es de mi propiedad. No deberÃ­a haber intentado joderme.}
+{256}{}{Me gustarÃ­a comprarlo.}
+{257}{}{Â¿Por quÃ© le retienes aquÃ­?}
 {258}{}{Nada. Da igual.}
-{259}{}{Pero él no está en venta.}
-{260}{}{¿Por qué no?}
+{259}{}{Pero Ã©l no estÃ¡ en venta.}
+{260}{}{Â¿Por quÃ© no?}
 {261}{}{Oh, vale.}
-{262}{}{Te costará 2.000 dólares.}
-{263}{}{Aquí está el dinero.}
-{264}{}{Eso es un montón. Quizás más tarde.}
-{265}{}{Cuesta 1.000 dólares.}
-{266}{}{Aquí está el dinero.}
-{267}{}{Todavía no tengo tanto. Adiós.}
-{268}{}{Nuestra radio se ha roto y él debe repararla.}
+{262}{}{Te costarÃ¡ 2.000 dÃ³lares.}
+{263}{}{AquÃ­ estÃ¡ el dinero.}
+{264}{}{Eso es un montÃ³n. QuizÃ¡s mÃ¡s tarde.}
+{265}{}{Cuesta 1.000 dÃ³lares.}
+{266}{}{AquÃ­ estÃ¡ el dinero.}
+{267}{}{TodavÃ­a no tengo tanto. AdiÃ³s.}
+{268}{}{Nuestra radio se ha roto y Ã©l debe repararla.}
 {269}{}{Ya veo.}
-{270}{}{¡No tienes el dinero!}
-{271}{}{Vaya, mala suerte. ¿Puedo hacerte una pregunta?}
-{272}{}{Lo siento, volveré.}
-{307}{}{¡Cómo te atreves a volver después de abandonar a tus camaradas durante una cacería! ¡Guardias! ¡Atacad!}
+{270}{}{Â¡No tienes el dinero!}
+{271}{}{Vaya, mala suerte. Â¿Puedo hacerte una pregunta?}
+{272}{}{Lo siento, volverÃ©.}
+{307}{}{Â¡CÃ³mo te atreves a volver despuÃ©s de abandonar a tus camaradas durante una cacerÃ­a! Â¡Guardias! Â¡Atacad!}
 {308}{}{[hecho]}
-{309}{}{¡Excelente! El viaje y la vuelta podrían llevarte unos pocos días. ¿Estás lista para partir?}
-{310}{}{No. Volveré.}
+{309}{}{Â¡Excelente! El viaje y la vuelta podrÃ­an llevarte unos pocos dÃ­as. Â¿EstÃ¡s lista para partir?}
+{310}{}{No. VolverÃ©.}
 {311}{}{Si, estoy listo. Vamos.}
-{312}{}{Ah, has vuelto de la cacería de esclavos. A ver que tal lo has hecho...}
-{313}{}{[más]}
-{314}{}{[más]}
-{315}{}{¡Has matado a esclavos en potencia! ¡Un hombre muerto no da beneficios! Sólo debes matar a los que sean una amenaza, los demás no lo son.}
-{316}{}{[más]}
-{317}{}{¡Has vuelto sin ningún esclavo! ¿Qué demonios pasa contigo? Estamos intentando ganar dinero, no perderlo.}
-{318}{}{[más]}
-{319}{}{En general, lo hiciste bien en esta cacería. Sigue así y seguiremos haciendo negocios juntos.}
-{320}{}{Gracias. Lo haré.}
-{321}{}{No sé si me gusta mucho esto.}
-{322}{}{Tienes que mejorar tus técnicas de esclavización.}
-{323}{}{Lo intentaré.}
-{324}{}{Te pido perdón por mi pobre rendimiento.}
+{312}{}{Ah, has vuelto de la cacerÃ­a de esclavos. A ver que tal lo has hecho...}
+{313}{}{[mÃ¡s]}
+{314}{}{[mÃ¡s]}
+{315}{}{Â¡Has matado a esclavos en potencia! Â¡Un hombre muerto no da beneficios! SÃ³lo debes matar a los que sean una amenaza, los demÃ¡s no lo son.}
+{316}{}{[mÃ¡s]}
+{317}{}{Â¡Has vuelto sin ningÃºn esclavo! Â¿QuÃ© demonios pasa contigo? Estamos intentando ganar dinero, no perderlo.}
+{318}{}{[mÃ¡s]}
+{319}{}{En general, lo hiciste bien en esta cacerÃ­a. Sigue asÃ­ y seguiremos haciendo negocios juntos.}
+{320}{}{Gracias. Lo harÃ©.}
+{321}{}{No sÃ© si me gusta mucho esto.}
+{322}{}{Tienes que mejorar tus tÃ©cnicas de esclavizaciÃ³n.}
+{323}{}{Lo intentarÃ©.}
+{324}{}{Te pido perdÃ³n por mi pobre rendimiento.}
 {325}{}{Creo que soy suficientemente bueno.}
-{326}{}{¡Maldición! Lo hiciste fatal en esta cacería. ¿Estás intentando arruinarme? Ten más cuidado la próxima vez. ¡No tienes que matarlos a todos! Mata sólo a los hostiles y deja vivos al resto.}
+{326}{}{Â¡MaldiciÃ³n! Lo hiciste fatal en esta cacerÃ­a. Â¿EstÃ¡s intentando arruinarme? Ten mÃ¡s cuidado la prÃ³xima vez. Â¡No tienes que matarlos a todos! Mata sÃ³lo a los hostiles y deja vivos al resto.}
 {327}{}{Lo siento, Metzger.}
-{328}{}{Eh, ¡ser esclavista es un trabajo duro!}
-{329}{}{Me gustaría ver si eres capaz de hacerlo mejor.}
-{330}{}{Quiero apuntarme a una cacería de esclavos.}
-{331}{}{¡Maldición! Odio perder a miembros del gremio en una cacería. ¡Tratad de vigilar la espada de los demás!}
-{332}{}{En general, lo hiciste bien en esta cacería. Aquí tienes }
-{333}{}{ dólares como incentivo por tu buen trabajo.}
+{328}{}{Eh, Â¡ser esclavista es un trabajo duro!}
+{329}{}{Me gustarÃ­a ver si eres capaz de hacerlo mejor.}
+{330}{}{Quiero apuntarme a una cacerÃ­a de esclavos.}
+{331}{}{Â¡MaldiciÃ³n! Odio perder a miembros del gremio en una cacerÃ­a. Â¡Tratad de vigilar la espada de los demÃ¡s!}
+{332}{}{En general, lo hiciste bien en esta cacerÃ­a. AquÃ­ tienes }
+{333}{}{ dÃ³lares como incentivo por tu buen trabajo.}

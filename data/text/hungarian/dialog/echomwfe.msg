@@ -1,17 +1,17 @@
 {100}{}{You see a lean, tan looking woman.}
 {101}{}{Telepes.}
 {102}{}{A farmerekre jellemz? napcserzett b?re van.}
-{200}{}{Ez a házam.}
-{201}{}{Rohadt banditák!}
-{202}{}{Hagyj békén minket!}
-{203}{}{Gy?lölöm a banditákat!}
-{204}{}{Semmink sincs, amit ellophatnál.}
-{205}{}{Ne ölj meg!}
+{200}{}{Ez a hÃ¡zam.}
+{201}{}{Rohadt banditÃ¡k!}
+{202}{}{Hagyj bÃ©kÃ©n minket!}
+{203}{}{Gy?lÃ¶lÃ¶m a banditÃ¡kat!}
+{204}{}{Semmink sincs, amit ellophatnÃ¡l.}
+{205}{}{Ne Ã¶lj meg!}
 {206}{}{Elegem van!}
-{207}{}{Vegyél el bármit, amit akarsz!}
-{208}{}{Kérlek, ne ölj meg!}
-{209}{}{Amúgy is utáltam már a gazdálkodást.}
-{210}{}{Kérlek, ne gyújtsd fel a házat!}
+{207}{}{VegyÃ©l el bÃ¡rmit, amit akarsz!}
+{208}{}{KÃ©rlek, ne Ã¶lj meg!}
+{209}{}{AmÃºgy is utÃ¡ltam mÃ¡r a gazdÃ¡lkodÃ¡st.}
+{210}{}{KÃ©rlek, ne gyÃºjtsd fel a hÃ¡zat!}
 {220}{}{Ne zaklass!}
-{230}{}{Kösz, hogy segítettél.}
+{230}{}{KÃ¶sz, hogy segÃ­tettÃ©l.}
 {231}{}{I wish there were more people like you in this world.}

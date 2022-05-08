@@ -1,2 +1,2 @@
-{100}{}{Tu appuies sur le déclencheur mais rien ne se passe.}
-{101}{}{Tu appuies sur le déclencheur ce qui fait détonner les explosifs.}
+{100}{}{Tu appuies sur le dÃ©clencheur mais rien ne se passe.}
+{101}{}{Tu appuies sur le dÃ©clencheur ce qui fait dÃ©tonner les explosifs.}

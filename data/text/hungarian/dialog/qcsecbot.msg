@@ -1,4 +1,4 @@
-{100}{}{Biztonsági robot.}
-{101}{}{Egy er?sen felfegyverzett biztonsági robotot látsz}
+{100}{}{BiztonsÃ¡gi robot.}
+{101}{}{Egy er?sen felfegyverzett biztonsÃ¡gi robotot lÃ¡tsz}
 {102}{}{Egyetlen ilyen ki tudna irtani egy teljes osztagot.}
-{103}{}{Nem válaszol.}
+{103}{}{Nem vÃ¡laszol.}

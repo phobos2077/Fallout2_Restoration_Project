@@ -1,72 +1,72 @@
-{100}{}{Egy öregembert látsz.}
+{100}{}{Egy Ã¶regembert lÃ¡tsz.}
 {101}{}{You see Cornelius.}
-{102}{}{A kissé zavaros arckifejezése ellenére semmi különöset nem veszel észre rajta.}
-{150}{}{Üdvözlet Rose Panziójában. A nevem Rose, illetve Cornelius, és én vezetem ezt a helyet. Segíthetek?}
-{151}{}{Ha magáé a hely, miért nevezik Rose Panziójának?}
-{152}{}{Egy aranyórát keresek.}
-{153}{}{Mi a munkád?}
+{102}{}{A kissÃ© zavaros arckifejezÃ©se ellenÃ©re semmi kÃ¼lÃ¶nÃ¶set nem veszel Ã©szre rajta.}
+{150}{}{ÃœdvÃ¶zlet Rose PanziÃ³jÃ¡ban. A nevem Rose, illetve Cornelius, Ã©s Ã©n vezetem ezt a helyet. SegÃ­thetek?}
+{151}{}{Ha magÃ¡Ã© a hely, miÃ©rt nevezik Rose PanziÃ³jÃ¡nak?}
+{152}{}{Egy aranyÃ³rÃ¡t keresek.}
+{153}{}{Mi a munkÃ¡d?}
 {154}{}{Who's Rose?}
-{155}{}{Kivennék egy szobát.}
-{156}{}{Kérdést? Kérdeztem volna valamit? Üdv, a nevem Cornelius.}
-{162}{}{Szerintem magának segítségre lenne szüksége.}
-{163}{}{Farrel egy faliszéfben tartja az óráját. Vonjuk kérd?re.}
-{164}{}{Farrel házában megtaláltam az óráját. Igaza volt, Farrel a tolvaj.}
-{165}{}{Nem vitás, egy bazi nagy patkány lelépett az órájával. Visszaszereztem a patkányfészekb?l.}
-{166}{}{Üdv, Thar! Találkoztunk már?}
-{176}{}{Jó isten! Valaki megölte az én legjobb barátomat, Farrelt! Az egész város a gyilkost keresi. Ha elkapjuk, meglincseljük!}
-{177}{}{Én öltem meg. És most mit kezd ezzel, vén bolond?}
+{155}{}{KivennÃ©k egy szobÃ¡t.}
+{156}{}{KÃ©rdÃ©st? KÃ©rdeztem volna valamit? Ãœdv, a nevem Cornelius.}
+{162}{}{Szerintem magÃ¡nak segÃ­tsÃ©gre lenne szÃ¼ksÃ©ge.}
+{163}{}{Farrel egy faliszÃ©fben tartja az Ã³rÃ¡jÃ¡t. Vonjuk kÃ©rd?re.}
+{164}{}{Farrel hÃ¡zÃ¡ban megtalÃ¡ltam az Ã³rÃ¡jÃ¡t. Igaza volt, Farrel a tolvaj.}
+{165}{}{Nem vitÃ¡s, egy bazi nagy patkÃ¡ny lelÃ©pett az Ã³rÃ¡jÃ¡val. Visszaszereztem a patkÃ¡nyfÃ©szekb?l.}
+{166}{}{Ãœdv, Thar! TalÃ¡lkoztunk mÃ¡r?}
+{176}{}{JÃ³ isten! Valaki megÃ¶lte az Ã©n legjobb barÃ¡tomat, Farrelt! Az egÃ©sz vÃ¡ros a gyilkost keresi. Ha elkapjuk, meglincseljÃ¼k!}
+{177}{}{Ã‰n Ã¶ltem meg. Ã‰s most mit kezd ezzel, vÃ©n bolond?}
 {178}{}{Azta... Hogy elment az id?! Mennem kell.}
-{179}{}{Rose a feleségem és róla neveztem el a helyet. Tudta, hogy házas ember vagyok?}
-{180}{}{Feltehetek még néhány kérdést?}
-{181}{}{MOCSKOS FARREL! LEHET, HOGY EL AKARJA ADNI MAGÁNAK AZ ÓRÁT, AMIT T?LEM LOPOTT EL! Most viszont dolgom van. Meg kell nyírnom a brahminokat.}
-{182}{}{Én vezetem a panziót. Igen, ha én nem lennék, ez az egész kóceráj ebek harmincadjára jutna. Látta már az árnyékszéket? A legtisztább budi, amibe valaha betette a lábát. Az én m?vem...}
-{183}{}{Mi köze a tiszta vécének a panzió vezetéséhez?}
-{184}{}{Rose a feleségem. Övé a konyha. Sehol a világon nem talál jobb ételt, mint itt. Rose annyira szép, egyszer még elveszem feleségül.}
-{185}{}{Mintha azt mondta volna, hogy Rose a felesége...}
-{186}{}{Nekem van szobám. Ott alszom. Van hol aludnia?}
-{187}{}{Szerintem nem érti. Szeretnék szobát bérelni éjszakára.}
-{188}{}{Nem is olyan régen... az én harminc éve ismert barátom... vagy negyven? Nem számít... a lényeg az, hogy ellopta az értékes aranyórámat. Az az óra apáról fiúra szállt már vagy öt, nem hat... ööö... négy generáció óta. Igen, határozottan emlékszem, hogy az íróasztalomra raktam. Aztán, amikor megnéztem a konyhaasztalt, már sehol nem volt.}
-{189}{}{Oké, visszaszerzem az óráját.}
-{190}{}{Megpróbálta az íróasztaljában keresni?}
-{191}{}{Segít nekem? Nagyszer?! Osszon ki egy-két pofont Farrelnek és hozza vissza az órámat! Valószín?leg jól eldugta. Forgassa fel a házát érte!}
-{192}{}{Mir?l beszélsz?}
-{193}{}{Nézze, én nem akarok részt venni ebben.}
-{194}{}{Ölje meg Farrelt, kell az órám, érti?? Mingyár jövök.}
-{195}{}{Megölni Farrelt? Ki akarja megölni Farrelt? ? a legjobb barátom! Személyesen tekerem ki a nyakát annak, aki megpróbálja megölni Farrelt!}
-{196}{}{A feladatot elvállalom, de fizetséget várok a végén.}
-{197}{}{Hát ezt nem bírom tovább. Inkább megyek máshova.}
-{198}{}{Hát hogyne, fizetni fogok. Amint kitakarította az istállót, jöjjön, ahogy megbeszéltük.}
-{199}{}{Volt egy órám. Aranyóra. Fene se tudja, hova raktam.}
-{200}{}{Igen, igen, igen. Benéztem a zoknis fiókba is, de ott sincs.}
-{201}{}{Amíg a városban vagyok, megpróbálok utánanézni az órájának.}
-{202}{}{Nincs az az eset, hogy egy ilyen vén bolondnak segítsek. Megyek is.}
-{203}{}{Tudtam, hogy nem bízhatok benne! A füleinél fogva húzom fel egy fára, ha nem adja vissza az órámat.}
-{204}{}{Nincs ott semmi. Én és Jo seriff már benéztünk oda.}
-{206}{}{Csakugyan? Tudtam! Úgy elhúzom a nótáját, hogy attól koldul. Jobban tenné, ha itt maradna, még megsérül.}
-{207}{}{Az órám! Mit csinál vele? Adja vissza! [kirántja a kezedb?l az órát]. Most pedig menjen! Nem szeretjük a tolvajokat errefelé.}
-{208}{}{Ez elismerés volt.}
-{209}{}{Próbálta már Rose omlettjét? Naggggyon finom.}
-{210}{}{Láttam Jonnyt játszani a kútnál az Öcsi kutyájával. Nagyon aranyos gyerek.}
-{211}{}{Ne menjen a Kísértetfarmra, hacsak meg nem unta az életét!}
-{212}{}{Miria aranyos lány. Kicsi korunkban doktorosdit játszottunk.}
-{213}{}{Davin jó gyerek. Érdekelne, miért nem ütött az apjára...}
-{214}{}{Egyik nap ülök a vécén erre egy nagy kutya mászik el? a csatornából. Aszittem ott helyben meghalok.}
-{215}{}{Grisham jóravaló ember. Nyesedéket árul és azzal etetjük az óriáscsirkéket.}
-{216}{}{Hátrébb a csirkeóltól! Majdnem odalett a karom, amikor megpróbáltam kaját adni annak a valaminek.}
-{217}{}{Rose kutyái elég morcosak, de csak dobjon nekik egy kis szárított húst, és ügyet sem fognak vetni magára.}
-{218}{}{Farrel a legjobb barátom az egész világon.}
-{219}{}{Öcsi nem buta kutya. Folyton beszélgetünk.}
-{220}{}{Úgy hallottam, Grisham le akarja cserélni a nejét. Kíváncsi lennék, Rose mit szólna, ha én is másik feleség után néznék.}
-{222}{}{Pog? Nem tudom, mi lett azzal a játékkal. Amúgy dolgom van. Kés?bb talán játszhatunk.}
-{223}{}{MEGTALÁLTAM A GYILKOST! A FÉRFI BEVALLOTTA, HOGY ? ÖLTE MEG Farrelt! KAPJUK EL!}
-{224}{}{MEGTALÁLTAM A GYILKOST! A N? BEVALLOTTA, HOGY ? ÖLTE MEG Farrelt! KAPJUK EL!}
-{225}{}{Megöl Farrel.}
-{300}{}{[Hmmm... Bizonyos szavakra láthatólag ugrik.] Rose... Rongyok... Remegj...}
-{301}{}{Úga.}
+{179}{}{Rose a felesÃ©gem Ã©s rÃ³la neveztem el a helyet. Tudta, hogy hÃ¡zas ember vagyok?}
+{180}{}{Feltehetek mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{181}{}{MOCSKOS FARREL! LEHET, HOGY EL AKARJA ADNI MAGÃNAK AZ Ã“RÃT, AMIT T?LEM LOPOTT EL! Most viszont dolgom van. Meg kell nyÃ­rnom a brahminokat.}
+{182}{}{Ã‰n vezetem a panziÃ³t. Igen, ha Ã©n nem lennÃ©k, ez az egÃ©sz kÃ³cerÃ¡j ebek harmincadjÃ¡ra jutna. LÃ¡tta mÃ¡r az Ã¡rnyÃ©kszÃ©ket? A legtisztÃ¡bb budi, amibe valaha betette a lÃ¡bÃ¡t. Az Ã©n m?vem...}
+{183}{}{Mi kÃ¶ze a tiszta vÃ©cÃ©nek a panziÃ³ vezetÃ©sÃ©hez?}
+{184}{}{Rose a felesÃ©gem. Ã–vÃ© a konyha. Sehol a vilÃ¡gon nem talÃ¡l jobb Ã©telt, mint itt. Rose annyira szÃ©p, egyszer mÃ©g elveszem felesÃ©gÃ¼l.}
+{185}{}{Mintha azt mondta volna, hogy Rose a felesÃ©ge...}
+{186}{}{Nekem van szobÃ¡m. Ott alszom. Van hol aludnia?}
+{187}{}{Szerintem nem Ã©rti. SzeretnÃ©k szobÃ¡t bÃ©relni Ã©jszakÃ¡ra.}
+{188}{}{Nem is olyan rÃ©gen... az Ã©n harminc Ã©ve ismert barÃ¡tom... vagy negyven? Nem szÃ¡mÃ­t... a lÃ©nyeg az, hogy ellopta az Ã©rtÃ©kes aranyÃ³rÃ¡mat. Az az Ã³ra apÃ¡rÃ³l fiÃºra szÃ¡llt mÃ¡r vagy Ã¶t, nem hat... Ã¶Ã¶Ã¶... nÃ©gy generÃ¡ciÃ³ Ã³ta. Igen, hatÃ¡rozottan emlÃ©kszem, hogy az Ã­rÃ³asztalomra raktam. AztÃ¡n, amikor megnÃ©ztem a konyhaasztalt, mÃ¡r sehol nem volt.}
+{189}{}{OkÃ©, visszaszerzem az Ã³rÃ¡jÃ¡t.}
+{190}{}{MegprÃ³bÃ¡lta az Ã­rÃ³asztaljÃ¡ban keresni?}
+{191}{}{SegÃ­t nekem? Nagyszer?! Osszon ki egy-kÃ©t pofont Farrelnek Ã©s hozza vissza az Ã³rÃ¡mat! ValÃ³szÃ­n?leg jÃ³l eldugta. Forgassa fel a hÃ¡zÃ¡t Ã©rte!}
+{192}{}{Mir?l beszÃ©lsz?}
+{193}{}{NÃ©zze, Ã©n nem akarok rÃ©szt venni ebben.}
+{194}{}{Ã–lje meg Farrelt, kell az Ã³rÃ¡m, Ã©rti?? MingyÃ¡r jÃ¶vÃ¶k.}
+{195}{}{MegÃ¶lni Farrelt? Ki akarja megÃ¶lni Farrelt? ? a legjobb barÃ¡tom! SzemÃ©lyesen tekerem ki a nyakÃ¡t annak, aki megprÃ³bÃ¡lja megÃ¶lni Farrelt!}
+{196}{}{A feladatot elvÃ¡llalom, de fizetsÃ©get vÃ¡rok a vÃ©gÃ©n.}
+{197}{}{HÃ¡t ezt nem bÃ­rom tovÃ¡bb. InkÃ¡bb megyek mÃ¡shova.}
+{198}{}{HÃ¡t hogyne, fizetni fogok. Amint kitakarÃ­totta az istÃ¡llÃ³t, jÃ¶jjÃ¶n, ahogy megbeszÃ©ltÃ¼k.}
+{199}{}{Volt egy Ã³rÃ¡m. AranyÃ³ra. Fene se tudja, hova raktam.}
+{200}{}{Igen, igen, igen. BenÃ©ztem a zoknis fiÃ³kba is, de ott sincs.}
+{201}{}{AmÃ­g a vÃ¡rosban vagyok, megprÃ³bÃ¡lok utÃ¡nanÃ©zni az Ã³rÃ¡jÃ¡nak.}
+{202}{}{Nincs az az eset, hogy egy ilyen vÃ©n bolondnak segÃ­tsek. Megyek is.}
+{203}{}{Tudtam, hogy nem bÃ­zhatok benne! A fÃ¼leinÃ©l fogva hÃºzom fel egy fÃ¡ra, ha nem adja vissza az Ã³rÃ¡mat.}
+{204}{}{Nincs ott semmi. Ã‰n Ã©s Jo seriff mÃ¡r benÃ©ztÃ¼nk oda.}
+{206}{}{Csakugyan? Tudtam! Ãšgy elhÃºzom a nÃ³tÃ¡jÃ¡t, hogy attÃ³l koldul. Jobban tennÃ©, ha itt maradna, mÃ©g megsÃ©rÃ¼l.}
+{207}{}{Az Ã³rÃ¡m! Mit csinÃ¡l vele? Adja vissza! [kirÃ¡ntja a kezedb?l az Ã³rÃ¡t]. Most pedig menjen! Nem szeretjÃ¼k a tolvajokat errefelÃ©.}
+{208}{}{Ez elismerÃ©s volt.}
+{209}{}{PrÃ³bÃ¡lta mÃ¡r Rose omlettjÃ©t? Naggggyon finom.}
+{210}{}{LÃ¡ttam Jonnyt jÃ¡tszani a kÃºtnÃ¡l az Ã–csi kutyÃ¡jÃ¡val. Nagyon aranyos gyerek.}
+{211}{}{Ne menjen a KÃ­sÃ©rtetfarmra, hacsak meg nem unta az Ã©letÃ©t!}
+{212}{}{Miria aranyos lÃ¡ny. Kicsi korunkban doktorosdit jÃ¡tszottunk.}
+{213}{}{Davin jÃ³ gyerek. Ã‰rdekelne, miÃ©rt nem Ã¼tÃ¶tt az apjÃ¡ra...}
+{214}{}{Egyik nap Ã¼lÃ¶k a vÃ©cÃ©n erre egy nagy kutya mÃ¡szik el? a csatornÃ¡bÃ³l. Aszittem ott helyben meghalok.}
+{215}{}{Grisham jÃ³ravalÃ³ ember. NyesedÃ©ket Ã¡rul Ã©s azzal etetjÃ¼k az Ã³riÃ¡scsirkÃ©ket.}
+{216}{}{HÃ¡trÃ©bb a csirkeÃ³ltÃ³l! Majdnem odalett a karom, amikor megprÃ³bÃ¡ltam kajÃ¡t adni annak a valaminek.}
+{217}{}{Rose kutyÃ¡i elÃ©g morcosak, de csak dobjon nekik egy kis szÃ¡rÃ­tott hÃºst, Ã©s Ã¼gyet sem fognak vetni magÃ¡ra.}
+{218}{}{Farrel a legjobb barÃ¡tom az egÃ©sz vilÃ¡gon.}
+{219}{}{Ã–csi nem buta kutya. Folyton beszÃ©lgetÃ¼nk.}
+{220}{}{Ãšgy hallottam, Grisham le akarja cserÃ©lni a nejÃ©t. KÃ­vÃ¡ncsi lennÃ©k, Rose mit szÃ³lna, ha Ã©n is mÃ¡sik felesÃ©g utÃ¡n nÃ©znÃ©k.}
+{222}{}{Pog? Nem tudom, mi lett azzal a jÃ¡tÃ©kkal. AmÃºgy dolgom van. KÃ©s?bb talÃ¡n jÃ¡tszhatunk.}
+{223}{}{MEGTALÃLTAM A GYILKOST! A FÃ‰RFI BEVALLOTTA, HOGY ? Ã–LTE MEG Farrelt! KAPJUK EL!}
+{224}{}{MEGTALÃLTAM A GYILKOST! A N? BEVALLOTTA, HOGY ? Ã–LTE MEG Farrelt! KAPJUK EL!}
+{225}{}{MegÃ¶l Farrel.}
+{300}{}{[Hmmm... Bizonyos szavakra lÃ¡thatÃ³lag ugrik.] Rose... Rongyok... Remegj...}
+{301}{}{Ãšga.}
 {501}{}{Mindig tudtam, hogy maga a tolvaj!}
-{502}{}{Hogy tehette ezt a legjobb barátjával?!}
-{503}{}{Most megöllek!}
-{504}{}{A fejedet kiteszem a szobám falára!}
-{550}{}{Pillanatnyilag kissé elfoglaltnak t?nik.}
-{600}{}{Visszajuttattad Cornelius óráját.}
-{650}{}{Sikerült a Cornelius és Farrel közt dúló vitát elsimítanod.}
+{502}{}{Hogy tehette ezt a legjobb barÃ¡tjÃ¡val?!}
+{503}{}{Most megÃ¶llek!}
+{504}{}{A fejedet kiteszem a szobÃ¡m falÃ¡ra!}
+{550}{}{Pillanatnyilag kissÃ© elfoglaltnak t?nik.}
+{600}{}{Visszajuttattad Cornelius Ã³rÃ¡jÃ¡t.}
+{650}{}{SikerÃ¼lt a Cornelius Ã©s Farrel kÃ¶zt dÃºlÃ³ vitÃ¡t elsimÃ­tanod.}

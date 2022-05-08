@@ -1,2 +1,2 @@
-{100}{}{A kút régóta nem m?ködik, meg kellene javítani.}
-{101}{}{A kút most már jól m?ködik.}
+{100}{}{A kÃºt rÃ©gÃ³ta nem m?kÃ¶dik, meg kellene javÃ­tani.}
+{101}{}{A kÃºt most mÃ¡r jÃ³l m?kÃ¶dik.}

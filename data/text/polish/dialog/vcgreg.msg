@@ -1,127 +1,127 @@
 {100}{}{Widzisz Prokonsula Gregory'ego.}
-{101}{}{Widzisz powa¿nego urzêdnika o w¹skiej twarzy i krzaczastych brwiach.}
+{101}{}{Widzisz powaÅ¼nego urzÄ™dnika o wÄ…skiej twarzy i krzaczastych brwiach.}
 {102}{}{Widzisz Prokonsula Gregory'ego.}
-{103}{}{Widzisz powa¿nego urzêdnika o w¹skiej twarzy i krzaczastych brwiach.}
-{104}{}{Za okazane mêstwo postanowiliœmy nadaæ ci wszystkie przywileje Obywatela Kryptopolis. A, tak... Pierwszy Obywatel chce siê koniecznie z tob¹ spotkaæ.}
-{105}{}{Intruz! Stra¿e! Stra¿e!}
-{106}{}{Co takie...?! Mutant! STRA¯! STRA¯!}
-{107}{}{Co takie...?! Ghul! STRA¯! STRA¯!}
-{108}{}{Dzieñ dobry, Kapitanie.}
+{103}{}{Widzisz powaÅ¼nego urzÄ™dnika o wÄ…skiej twarzy i krzaczastych brwiach.}
+{104}{}{Za okazane mÄ™stwo postanowiliÅ›my nadaÄ‡ ci wszystkie przywileje Obywatela Kryptopolis. A, tak... Pierwszy Obywatel chce siÄ™ koniecznie z tobÄ… spotkaÄ‡.}
+{105}{}{Intruz! StraÅ¼e! StraÅ¼e!}
+{106}{}{Co takie...?! Mutant! STRAÅ»! STRAÅ»!}
+{107}{}{Co takie...?! Ghul! STRAÅ»! STRAÅ»!}
+{108}{}{DzieÅ„ dobry, Kapitanie.}
 {109}{}{Kryptopolis na wieki, Kapitanie.}
-{110}{}{Dzieñ dobry, Obywatelu.}
+{110}{}{DzieÅ„ dobry, Obywatelu.}
 {111}{}{Kryptopolis ponad wszystkim, Obywatelu.}
 {112}{}{Raporty, raporty, raporty... jak ja uwielbiam raporty!}
-{113}{}{WprowadŸcie raport 5632 do serwera raportów...}
-{114}{}{Sporz¹dŸcie raport z raportów od 43A do 121B... potem wprowadŸcie go do archiwum raportów...}
-{115}{}{To wspania³y dzieñ na przegl¹danie raportów.}
-{116}{}{Muszê jeszcze przejrzeæ te raporty zanim pójdê spaæ...}
-{117}{}{Wróæ rano. Do tej pory powinienem uporaæ siê z tymi raportami.}
+{113}{}{WprowadÅºcie raport 5632 do serwera raportÃ³w...}
+{114}{}{SporzÄ…dÅºcie raport z raportÃ³w od 43A do 121B... potem wprowadÅºcie go do archiwum raportÃ³w...}
+{115}{}{To wspaniaÅ‚y dzieÅ„ na przeglÄ…danie raportÃ³w.}
+{116}{}{MuszÄ™ jeszcze przejrzeÄ‡ te raporty zanim pÃ³jdÄ™ spaÄ‡...}
+{117}{}{WrÃ³Ä‡ rano. Do tej pory powinienem uporaÄ‡ siÄ™ z tymi raportami.}
 {118}{}{Brudny mutant...}
-{119}{}{Nie wiem, kto ci nada³ obywatelstwo. Dla mnie jesteœ zwyk³ym mutantem. Gdyby tylko ktoœ mnie pos³ucha³...}
-{120}{}{Nie wiem, kto uczyni³ ciê kapitanem. Dla mnie jesteœ zwyk³ym mutantem. Gdyby tylko ktoœ mnie pos³ucha³...}
-{121}{}{Przepraszam... czym mogê s³u¿yæ?}
-{122}{}{Suszyæ?}
-{123}{}{OdejdŸ bez s³owa.}
-{124}{}{Kim jesteœ?}
-{125}{}{Tylko siê rozgl¹dam, dziêki.}
-{126}{}{Jeszcze jeden s³uga, który opuœci³ miejsce pracy?! Jeœli Barkus czegoœ z tym nie zrobi, bêdzie mia³ mnóstwo k³opotów... A teraz... sio! sio!}
-{127}{}{Zrobiæ kuku?}
-{128}{}{OdejdŸ bez s³owa.}
-{129}{}{*Ech* Ci s³u¿¹cy z dnia na dzieñ robi¹ siê co raz g³upsi.}
-{130}{}{Jestem Prokonsul Gregory. Mogê wiedzieæ czego tu szukasz...?}
+{119}{}{Nie wiem, kto ci nadaÅ‚ obywatelstwo. Dla mnie jesteÅ› zwykÅ‚ym mutantem. Gdyby tylko ktoÅ› mnie posÅ‚uchaÅ‚...}
+{120}{}{Nie wiem, kto uczyniÅ‚ ciÄ™ kapitanem. Dla mnie jesteÅ› zwykÅ‚ym mutantem. Gdyby tylko ktoÅ› mnie posÅ‚uchaÅ‚...}
+{121}{}{Przepraszam... czym mogÄ™ sÅ‚uÅ¼yÄ‡?}
+{122}{}{SuszyÄ‡?}
+{123}{}{OdejdÅº bez sÅ‚owa.}
+{124}{}{Kim jesteÅ›?}
+{125}{}{Tylko siÄ™ rozglÄ…dam, dziÄ™ki.}
+{126}{}{Jeszcze jeden sÅ‚uga, ktÃ³ry opuÅ›ciÅ‚ miejsce pracy?! JeÅ›li Barkus czegoÅ› z tym nie zrobi, bÄ™dzie miaÅ‚ mnÃ³stwo kÅ‚opotÃ³w... A teraz... sio! sio!}
+{127}{}{ZrobiÄ‡ kuku?}
+{128}{}{OdejdÅº bez sÅ‚owa.}
+{129}{}{*Ech* Ci sÅ‚uÅ¼Ä…cy z dnia na dzieÅ„ robiÄ… siÄ™ co raz gÅ‚upsi.}
+{130}{}{Jestem Prokonsul Gregory. MogÄ™ wiedzieÄ‡ czego tu szukasz...?}
 {131}{}{"Prokonsul"? A co to takiego?}
-{132}{}{Czym siê tutaj zajmujesz?}
-{133}{}{Tylko siê rozgl¹dam, dziêki.}
-{134}{}{Jestem ASYSTENTEM Pierwszego Obywatela. Umawiam j¹ na spotkania, poddaje testowi na obywatelstwo wszystkich kandydatów i uaktualniam dane na serwerze Kryptopolis. Wierz mi, mam mnóstwo pracy.}
+{132}{}{Czym siÄ™ tutaj zajmujesz?}
+{133}{}{Tylko siÄ™ rozglÄ…dam, dziÄ™ki.}
+{134}{}{Jestem ASYSTENTEM Pierwszego Obywatela. Umawiam jÄ… na spotkania, poddaje testowi na obywatelstwo wszystkich kandydatÃ³w i uaktualniam dane na serwerze Kryptopolis. Wierz mi, mam mnÃ³stwo pracy.}
 {135}{}{Test na obywatelstwo?}
-{136}{}{Skoro mowa o teœcie na obywatelstwo, chcê znów do niego przyst¹piæ.}
-{137}{}{Czy mogê zadaæ ci kilka pytañ?}
-{138}{}{Rozumiem. Có¿, muszê ju¿ iœæ.}
-{139}{}{Tak, to W£AŒCIWA droga... ¿eby zostaæ Obywatelem musisz zdaæ test na obywatelstwo.}
-{140}{}{Tak, do moich obowi¹zków nale¿y poddawanie testowi na obywatelstwo wszystkich kandydatów.}
+{136}{}{Skoro mowa o teÅ›cie na obywatelstwo, chcÄ™ znÃ³w do niego przystÄ…piÄ‡.}
+{137}{}{Czy mogÄ™ zadaÄ‡ ci kilka pytaÅ„?}
+{138}{}{Rozumiem. CÃ³Å¼, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{139}{}{Tak, to WÅAÅšCIWA droga... Å¼eby zostaÄ‡ Obywatelem musisz zdaÄ‡ test na obywatelstwo.}
+{140}{}{Tak, do moich obowiÄ…zkÃ³w naleÅ¼y poddawanie testowi na obywatelstwo wszystkich kandydatÃ³w.}
 {141}{}{Co to za test?}
-{142}{}{Chcê ponownie przyst¹piæ do testu.}
-{143}{}{Co zyskam zostaj¹c Obywatelem?}
-{144}{}{Mogê zadaæ inne pytanie?}
-{145}{}{Rozumiem. Mo¿e porozmawiamy innym razem.}
-{146}{}{Co zyskasz? Ale¿ rozejrzyj siê doko³a... Kryptopolis to najbezpieczniejsze i najbogatsze miasto na ca³ych Pustkowiach. Obywatele maj¹ zapewnion¹ darmow¹ opiekê medyczn¹, nie brakuje im wody ani ¿ywnoœci, nie ma tu zbrodni ani powa¿nych chorób.}
+{142}{}{ChcÄ™ ponownie przystÄ…piÄ‡ do testu.}
+{143}{}{Co zyskam zostajÄ…c Obywatelem?}
+{144}{}{MogÄ™ zadaÄ‡ inne pytanie?}
+{145}{}{Rozumiem. MoÅ¼e porozmawiamy innym razem.}
+{146}{}{Co zyskasz? AleÅ¼ rozejrzyj siÄ™ dokoÅ‚a... Kryptopolis to najbezpieczniejsze i najbogatsze miasto na caÅ‚ych Pustkowiach. Obywatele majÄ… zapewnionÄ… darmowÄ… opiekÄ™ medycznÄ…, nie brakuje im wody ani Å¼ywnoÅ›ci, nie ma tu zbrodni ani powaÅ¼nych chorÃ³b.}
 {147}{}{Na czym polega ten test?}
-{148}{}{Brzmi interesuj¹co. Chêtnie ponownie przyst¹piê do testu.}
-{149}{}{Mogê zadaæ inne pytanie?}
-{150}{}{Rozumiem. Mo¿e porozmawiamy innym razem.}
-{151}{}{To kompletny egzamin sk³adaj¹cy siê z kilku czêœci... zaawansowana matematyka, wyobraŸnia przestrzenna, logiczne rozumowanie, zdolnoœci jêzykowe... no i oczywiœcie test wydolnoœciowy.}
-{152}{}{Zaawansowana mam-tam-co?! Hmmm... a nie mo¿ecie daæ mi obywatelstwa w zamian za dostarczenie wam jakiegoœ przedmiotu, albo zg³adzenie straszliwej poczwary?}
-{153}{}{To chyba doœæ... skomplikowane. Ale chêtnie spróbujê.}
-{154}{}{To nie bêdzie ³atwe, ale chcê chocia¿ spróbowaæ.}
-{155}{}{Jednym s³owem - podstawówka. Chêtnie przyst¹piê do tego testu.}
-{156}{}{Chcesz powiedzieæ, ¿e nie testujecie zdolnoœci abstrakcyjnego myœlenia, ani znajomoœci fizyki kwantowej? Hmmm. Widzê, ¿e waszemu egzaminowi nie zaszkodzi drobna redakcja... chêtnie siê tym zajmê, kiedy ju¿ zostanê Obywatelem.}
-{157}{}{Rozumiem. Mogê ciê o coœ zapytaæ?}
-{158}{}{Interesuj¹ce. Dziêki za poœwiêcenie mi czasu.}
-{159}{}{Có¿, jeœli wykonasz otrzymane od Pierwszego Obywatela zadanie, równie¿ otrzymasz obywatelstwo... oczywiœcie niezas³u¿enie. No ale kim ja jestem, ¿eby kwestionowaæ polecenia Pierwszego Obywatela.}
-{160}{}{Nie. Jeœli chcesz zostaæ Obywatelem, musisz zdaæ test.}
-{161}{}{Nie podoba ci siê, ¿e zaoferowa³a mi za to obywatelstwo, prawda?}
-{162}{}{W takim razie przyst¹piê do testu.}
-{163}{}{W takim razie spróbujê jeszcze raz zdaæ ten test.}
-{164}{}{Hmmm. Mogê ciê jeszcze o coœ zapytaæ?}
-{165}{}{Dziêki za pomoc. Do zobaczenia.}
-{166}{}{Chcesz przyst¹piæ do testu? Wspaniale, wspaniale! Nic mnie tak nie cieszy jak nowi kandydaci... ale muszê ciê uprzedziæ, test trwa kilka godzin. Chcesz do niego przyst¹piæ od razu?}
-{167}{}{Có¿, ka¿dy mo¿e spróbowaæ swych si³. Jednak w twoim przypadku to mo¿e byæ zwyk³a strata czasu... mojego i twojego. Ludzie tacy jak ty po prostu nie nadaj¹ siê na Obywateli.}
+{148}{}{Brzmi interesujÄ…co. ChÄ™tnie ponownie przystÄ…piÄ™ do testu.}
+{149}{}{MogÄ™ zadaÄ‡ inne pytanie?}
+{150}{}{Rozumiem. MoÅ¼e porozmawiamy innym razem.}
+{151}{}{To kompletny egzamin skÅ‚adajÄ…cy siÄ™ z kilku czÄ™Å›ci... zaawansowana matematyka, wyobraÅºnia przestrzenna, logiczne rozumowanie, zdolnoÅ›ci jÄ™zykowe... no i oczywiÅ›cie test wydolnoÅ›ciowy.}
+{152}{}{Zaawansowana mam-tam-co?! Hmmm... a nie moÅ¼ecie daÄ‡ mi obywatelstwa w zamian za dostarczenie wam jakiegoÅ› przedmiotu, albo zgÅ‚adzenie straszliwej poczwary?}
+{153}{}{To chyba doÅ›Ä‡... skomplikowane. Ale chÄ™tnie sprÃ³bujÄ™.}
+{154}{}{To nie bÄ™dzie Å‚atwe, ale chcÄ™ chociaÅ¼ sprÃ³bowaÄ‡.}
+{155}{}{Jednym sÅ‚owem - podstawÃ³wka. ChÄ™tnie przystÄ…piÄ™ do tego testu.}
+{156}{}{Chcesz powiedzieÄ‡, Å¼e nie testujecie zdolnoÅ›ci abstrakcyjnego myÅ›lenia, ani znajomoÅ›ci fizyki kwantowej? Hmmm. WidzÄ™, Å¼e waszemu egzaminowi nie zaszkodzi drobna redakcja... chÄ™tnie siÄ™ tym zajmÄ™, kiedy juÅ¼ zostanÄ™ Obywatelem.}
+{157}{}{Rozumiem. MogÄ™ ciÄ™ o coÅ› zapytaÄ‡?}
+{158}{}{InteresujÄ…ce. DziÄ™ki za poÅ›wiÄ™cenie mi czasu.}
+{159}{}{CÃ³Å¼, jeÅ›li wykonasz otrzymane od Pierwszego Obywatela zadanie, rÃ³wnieÅ¼ otrzymasz obywatelstwo... oczywiÅ›cie niezasÅ‚uÅ¼enie. No ale kim ja jestem, Å¼eby kwestionowaÄ‡ polecenia Pierwszego Obywatela.}
+{160}{}{Nie. JeÅ›li chcesz zostaÄ‡ Obywatelem, musisz zdaÄ‡ test.}
+{161}{}{Nie podoba ci siÄ™, Å¼e zaoferowaÅ‚a mi za to obywatelstwo, prawda?}
+{162}{}{W takim razie przystÄ…piÄ™ do testu.}
+{163}{}{W takim razie sprÃ³bujÄ™ jeszcze raz zdaÄ‡ ten test.}
+{164}{}{Hmmm. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{165}{}{DziÄ™ki za pomoc. Do zobaczenia.}
+{166}{}{Chcesz przystÄ…piÄ‡ do testu? Wspaniale, wspaniale! Nic mnie tak nie cieszy jak nowi kandydaci... ale muszÄ™ ciÄ™ uprzedziÄ‡, test trwa kilka godzin. Chcesz do niego przystÄ…piÄ‡ od razu?}
+{167}{}{CÃ³Å¼, kaÅ¼dy moÅ¼e sprÃ³bowaÄ‡ swych siÅ‚. Jednak w twoim przypadku to moÅ¼e byÄ‡ zwykÅ‚a strata czasu... mojego i twojego. Ludzie tacy jak ty po prostu nie nadajÄ… siÄ™ na Obywateli.}
 {168}{}{Jasne.}
-{169}{}{Nie teraz. Mogê ciê o coœ zapytaæ?}
-{170}{}{Mo¿e innym razem.}
-{171}{}{Mimo to chcê przyst¹piæ do testu.}
+{169}{}{Nie teraz. MogÄ™ ciÄ™ o coÅ› zapytaÄ‡?}
+{170}{}{MoÅ¼e innym razem.}
+{171}{}{Mimo to chcÄ™ przystÄ…piÄ‡ do testu.}
 {172}{}{Po prostu daj mi ten cholerny test.}
-{173}{}{No to zapomnijmy o ca³ej sprawie. Mogê ciê jeszcze o coœ zapytaæ?}
-{174}{}{Jak chcesz. Spadam st¹d.}
+{173}{}{No to zapomnijmy o caÅ‚ej sprawie. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{174}{}{Jak chcesz. Spadam stÄ…d.}
 {175}{}{Dobrze.}
-{176}{}{Hmmm. No có¿, masz do tego prawo, ale to bez sensu...}
-{177}{}{Oto formularze numer 5028, 6112, i konsola egzaminacyjna. Tylko pamiêtaj, ¿eby WYRANIE zakreœlaæ odpowiedzi. A teraz zajmij proszê miejsce i bierz siê do pracy...}
+{176}{}{Hmmm. No cÃ³Å¼, masz do tego prawo, ale to bez sensu...}
+{177}{}{Oto formularze numer 5028, 6112, i konsola egzaminacyjna. Tylko pamiÄ™taj, Å¼eby WYRAÅ¹NIE zakreÅ›laÄ‡ odpowiedzi. A teraz zajmij proszÄ™ miejsce i bierz siÄ™ do pracy...}
 {178}{}{Dobrze.}
-{179}{}{Ju¿ gotowe? Na pewno nie chcesz jeszcze raz przejrzeæ odpowiedzi?}
-{180}{}{No dobra, czas min¹³. Zobaczmy jak ci posz³o.}
-{181}{}{Ju¿ zrobione. Proszê.}
-{182}{}{Czekaj! Jeszcze tylko minutka... a zreszt¹, niewa¿ne. Proszê.}
-{183}{}{Hmmm... nie, nie... to niepoprawna odpowiedŸ... ta te¿... w tym zadaniu dzielisz przed zero... hmmm... tutaj mylisz siê o rz¹d wielkoœci... widzê, ¿e twoje s³ownictwo te¿ nie jest zbyt bogate.}
-{184}{}{Zobaczmy... Niestety, wynik równania drugiego stopnia jest nieprawid³owy... nie uda³o ci siê zidentyfikowaæ powi¹zañ w zadaniu siódmym i ósmym... a piramidê na tym diagramie mo¿na przeci¹æ oœmiokrotnie a nie trzykrotnie.}
-{185}{}{Có¿, odpowiedzi, których UDA£O ci siê udzieliæ s¹ poprawne, ale nie uda³o ci siê zmieœciæ w limicie czasowym... no i te ra¿¹ce b³êdy gramatyczne...}
+{179}{}{JuÅ¼ gotowe? Na pewno nie chcesz jeszcze raz przejrzeÄ‡ odpowiedzi?}
+{180}{}{No dobra, czas minÄ…Å‚. Zobaczmy jak ci poszÅ‚o.}
+{181}{}{JuÅ¼ zrobione. ProszÄ™.}
+{182}{}{Czekaj! Jeszcze tylko minutka... a zresztÄ…, niewaÅ¼ne. ProszÄ™.}
+{183}{}{Hmmm... nie, nie... to niepoprawna odpowiedÅº... ta teÅ¼... w tym zadaniu dzielisz przed zero... hmmm... tutaj mylisz siÄ™ o rzÄ…d wielkoÅ›ci... widzÄ™, Å¼e twoje sÅ‚ownictwo teÅ¼ nie jest zbyt bogate.}
+{184}{}{Zobaczmy... Niestety, wynik rÃ³wnania drugiego stopnia jest nieprawidÅ‚owy... nie udaÅ‚o ci siÄ™ zidentyfikowaÄ‡ powiÄ…zaÅ„ w zadaniu siÃ³dmym i Ã³smym... a piramidÄ™ na tym diagramie moÅ¼na przeciÄ…Ä‡ oÅ›miokrotnie a nie trzykrotnie.}
+{185}{}{CÃ³Å¼, odpowiedzi, ktÃ³rych UDAÅO ci siÄ™ udzieliÄ‡ sÄ… poprawne, ale nie udaÅ‚o ci siÄ™ zmieÅ›ciÄ‡ w limicie czasowym... no i te raÅ¼Ä…ce bÅ‚Ä™dy gramatyczne...}
 {186}{}{No i...?}
-{187}{}{Có¿, z przykroœci¹ muszê ciê poinformowaæ, ¿e tym razem nie uda³o ci siê zaliczyæ testu na obywatelstwo.}
-{188}{}{Prawdê mówi¹c, chyba nie dysponujesz inteligencj¹ wystarczaj¹c¹ do ogarniêcia wy¿szej matematyki. }
-{189}{}{Jeœli wolno mi siê tak wyraziæ - twoj¹ wyobraŸniê przestrzenn¹ mo¿na najlepiej opisaæ jako granicz¹c¹ z niebytem.}
-{190}{}{Jeœli wolno mi siê tak wyraziæ - testy nie s¹ chyba twoj¹ najmocniejsz¹ stron¹. Mo¿e nastêpnym razem pójdzie ci lepiej.}
-{191}{}{Mo¿e rzeczywiœcie spróbujê innym razem.}
-{192}{}{Có¿, zobaczmy... najpierw sprawdzimy czy... och, znakomicie, to zadanie nie sprawi³o ci chyba trudnoœci, a co z... oczywiœcie! OdpowiedŸ poprawna, sprytnie, sprytnie! Ale czy uda³o ci siê... Tak! W³aœnie o to chodzi³o... Rewelacja!}
-{193}{}{A czego siê spodziewa³eœ.}
-{194}{}{Ale... uda³o ci siê! Gratulujê.}
-{195}{}{Œwietnie. A wiêc jestem ju¿ Obywatelem?}
-{196}{}{Có¿, zosta³ nam jeszcze test wydolnoœciowy. Na szczêœcie mam tu ca³e niezbêdne wyposa¿enie. Zechcesz zdj¹æ buty?}
-{197}{}{W porz¹dku.}
-{198}{}{Ty... ty masz szósty palec u stopy! Jesteœ mutantem! Jak œmiesz nawet PRÓBOWAÆ zostaæ jednym z nas... ty... wybryku natury! Wynoœ siê! Precz! I nigdy nie wracaj!}
-{199}{}{Wiesz co? Przez ciebie zaczynam mieæ wielk¹ ochotê wyci¹æ w pieñ wszystkich mieszkañców Kryptopolis. Zgadnij od kogo zacznê.}
-{200}{}{Nie krzycz! Ju¿ sobie idê.}
-{201}{}{Ciœnienie krwi w normie, ¿adnych groŸnych chorób... gratulujê, Obywatelu. Witamy w Kryptopolis.}
-{202}{}{Dziêki. Mi³o byæ jednym z was.}
-{203}{}{To znowu ty? Czym mogê s³u¿yæ?}
-{204}{}{Czemu nie... co chcesz wiedzieæ?}
-{205}{}{Mówi³eœ, ¿e czym siê tu zajmujesz?}
-{206}{}{Mogê przyst¹piæ do testu na obywatelstwo?}
-{207}{}{Mogê znów przyst¹piæ do testu na obywatelstwo?}
-{208}{}{Mo¿esz mi opowiedzieæ o Gecko?}
-{209}{}{Niewa¿ne. Mo¿e porozmawiamy innym razem.}
-{210}{}{Có¿, jeœli wykonasz otrzymane od Pierwszego Obywatela zadanie, równie¿ otrzymasz obywatelstwo... oczywiœcie niezas³u¿enie. No ale kim ja jestem, ¿eby kwestionowaæ polecenia Pierwszego Obywatela.}
-{211}{}{Czy istnieje inny sposób na zostanie Obywatelem?}
-{212}{}{Nie podoba ci siê, ¿e zaoferowa³a mi za to obywatelstwo, prawda?}
-{213}{}{Mogê zadaæ inne pytanie?}
+{187}{}{CÃ³Å¼, z przykroÅ›ciÄ… muszÄ™ ciÄ™ poinformowaÄ‡, Å¼e tym razem nie udaÅ‚o ci siÄ™ zaliczyÄ‡ testu na obywatelstwo.}
+{188}{}{PrawdÄ™ mÃ³wiÄ…c, chyba nie dysponujesz inteligencjÄ… wystarczajÄ…cÄ… do ogarniÄ™cia wyÅ¼szej matematyki. }
+{189}{}{JeÅ›li wolno mi siÄ™ tak wyraziÄ‡ - twojÄ… wyobraÅºniÄ™ przestrzennÄ… moÅ¼na najlepiej opisaÄ‡ jako graniczÄ…cÄ… z niebytem.}
+{190}{}{JeÅ›li wolno mi siÄ™ tak wyraziÄ‡ - testy nie sÄ… chyba twojÄ… najmocniejszÄ… stronÄ…. MoÅ¼e nastÄ™pnym razem pÃ³jdzie ci lepiej.}
+{191}{}{MoÅ¼e rzeczywiÅ›cie sprÃ³bujÄ™ innym razem.}
+{192}{}{CÃ³Å¼, zobaczmy... najpierw sprawdzimy czy... och, znakomicie, to zadanie nie sprawiÅ‚o ci chyba trudnoÅ›ci, a co z... oczywiÅ›cie! OdpowiedÅº poprawna, sprytnie, sprytnie! Ale czy udaÅ‚o ci siÄ™... Tak! WÅ‚aÅ›nie o to chodziÅ‚o... Rewelacja!}
+{193}{}{A czego siÄ™ spodziewaÅ‚eÅ›.}
+{194}{}{Ale... udaÅ‚o ci siÄ™! GratulujÄ™.}
+{195}{}{Åšwietnie. A wiÄ™c jestem juÅ¼ Obywatelem?}
+{196}{}{CÃ³Å¼, zostaÅ‚ nam jeszcze test wydolnoÅ›ciowy. Na szczÄ™Å›cie mam tu caÅ‚e niezbÄ™dne wyposaÅ¼enie. Zechcesz zdjÄ…Ä‡ buty?}
+{197}{}{W porzÄ…dku.}
+{198}{}{Ty... ty masz szÃ³sty palec u stopy! JesteÅ› mutantem! Jak Å›miesz nawet PRÃ“BOWAÄ† zostaÄ‡ jednym z nas... ty... wybryku natury! WynoÅ› siÄ™! Precz! I nigdy nie wracaj!}
+{199}{}{Wiesz co? Przez ciebie zaczynam mieÄ‡ wielkÄ… ochotÄ™ wyciÄ…Ä‡ w pieÅ„ wszystkich mieszkaÅ„cÃ³w Kryptopolis. Zgadnij od kogo zacznÄ™.}
+{200}{}{Nie krzycz! JuÅ¼ sobie idÄ™.}
+{201}{}{CiÅ›nienie krwi w normie, Å¼adnych groÅºnych chorÃ³b... gratulujÄ™, Obywatelu. Witamy w Kryptopolis.}
+{202}{}{DziÄ™ki. MiÅ‚o byÄ‡ jednym z was.}
+{203}{}{To znowu ty? Czym mogÄ™ sÅ‚uÅ¼yÄ‡?}
+{204}{}{Czemu nie... co chcesz wiedzieÄ‡?}
+{205}{}{MÃ³wiÅ‚eÅ›, Å¼e czym siÄ™ tu zajmujesz?}
+{206}{}{MogÄ™ przystÄ…piÄ‡ do testu na obywatelstwo?}
+{207}{}{MogÄ™ znÃ³w przystÄ…piÄ‡ do testu na obywatelstwo?}
+{208}{}{MoÅ¼esz mi opowiedzieÄ‡ o Gecko?}
+{209}{}{NiewaÅ¼ne. MoÅ¼e porozmawiamy innym razem.}
+{210}{}{CÃ³Å¼, jeÅ›li wykonasz otrzymane od Pierwszego Obywatela zadanie, rÃ³wnieÅ¼ otrzymasz obywatelstwo... oczywiÅ›cie niezasÅ‚uÅ¼enie. No ale kim ja jestem, Å¼eby kwestionowaÄ‡ polecenia Pierwszego Obywatela.}
+{211}{}{Czy istnieje inny sposÃ³b na zostanie Obywatelem?}
+{212}{}{Nie podoba ci siÄ™, Å¼e zaoferowaÅ‚a mi za to obywatelstwo, prawda?}
+{213}{}{MogÄ™ zadaÄ‡ inne pytanie?}
 {214}{}{Hmm. Do widzenia.}
-{215}{}{Nie mogê kwestionowaæ postanowieñ Pierwszego Obywatela.}
-{216}{}{Czy istnieje inny sposób na zostanie Obywatelem?}
-{217}{}{Mogê zadaæ inne pytanie?}
-{218}{}{W takim razie niewa¿ne.}
-{219}{}{Gecko? To takie brudne osiedle na pó³noc st¹d, zamieszkane przez te stwory, te... "ghule." Wiesz, ¿e to one zatruwaj¹ nasze wody gruntowe?! To akt otwartego terroryzmu wymierzony w Kryptopolis!}
-{220}{}{W jaki sposób zatruwaj¹ wodê?}
-{221}{}{Hmmm. Mogê ciê jeszcze o coœ zapytaæ?}
-{222}{}{Dziêkujê, do widzenia.}
-{223}{}{To ich "miasto" zbudowane jest dooko³a starej elektrowni atomowej... Jakimœ cudem uda³o siê im ponownie j¹ uruchomiæ, tyle tylko, ¿e reaktor zacz¹³ przeciekaæ! Te stwory nale¿y przepêdziæ a sam¹ elektrowniê - zamkn¹æ!}
-{224}{}{Hmmm. Mogê ciê jeszcze o coœ zapytaæ?}
-{225}{}{Dziêki za informacje. Do widzenia.}
-{226}{}{Uda³o ci siê zdaæ test na obywatelstwo i zostaæ Obywatelem Kryptopolis.}
+{215}{}{Nie mogÄ™ kwestionowaÄ‡ postanowieÅ„ Pierwszego Obywatela.}
+{216}{}{Czy istnieje inny sposÃ³b na zostanie Obywatelem?}
+{217}{}{MogÄ™ zadaÄ‡ inne pytanie?}
+{218}{}{W takim razie niewaÅ¼ne.}
+{219}{}{Gecko? To takie brudne osiedle na pÃ³Å‚noc stÄ…d, zamieszkane przez te stwory, te... "ghule." Wiesz, Å¼e to one zatruwajÄ… nasze wody gruntowe?! To akt otwartego terroryzmu wymierzony w Kryptopolis!}
+{220}{}{W jaki sposÃ³b zatruwajÄ… wodÄ™?}
+{221}{}{Hmmm. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{222}{}{DziÄ™kujÄ™, do widzenia.}
+{223}{}{To ich "miasto" zbudowane jest dookoÅ‚a starej elektrowni atomowej... JakimÅ› cudem udaÅ‚o siÄ™ im ponownie jÄ… uruchomiÄ‡, tyle tylko, Å¼e reaktor zaczÄ…Å‚ przeciekaÄ‡! Te stwory naleÅ¼y przepÄ™dziÄ‡ a samÄ… elektrowniÄ™ - zamknÄ…Ä‡!}
+{224}{}{Hmmm. MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{225}{}{DziÄ™ki za informacje. Do widzenia.}
+{226}{}{UdaÅ‚o ci siÄ™ zdaÄ‡ test na obywatelstwo i zostaÄ‡ Obywatelem Kryptopolis.}

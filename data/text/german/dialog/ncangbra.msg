@@ -1,6 +1,6 @@
-{100}{}{Du siehst ein übellauniges Brahmin.}
-{150}{}{Du siehst ein riesiges übellauniges Brahmin. Sein Bauch sieht aufgebläht aus und seine Augen sind blutunterlaufen.}
-{151}{}{Du siehst einen riesigen, schlechtgelaunten Brahmin. Sein Bauch sieht aufgebläht aus und seine Augen sind blutunterlaufen. Es sieht sehr krank aus. Vielleicht kannst du ihm irgendwie helfen.}
+{100}{}{Du siehst ein Ã¼bellauniges Brahmin.}
+{150}{}{Du siehst ein riesiges Ã¼bellauniges Brahmin. Sein Bauch sieht aufgeblÃ¤ht aus und seine Augen sind blutunterlaufen.}
+{151}{}{Du siehst einen riesigen, schlechtgelaunten Brahmin. Sein Bauch sieht aufgeblÃ¤ht aus und seine Augen sind blutunterlaufen. Es sieht sehr krank aus. Vielleicht kannst du ihm irgendwie helfen.}
 {198}{}{::Rnnnrrrrr?::}
 {199}{}{::Hrrnnnnr?::}
 {200}{}{Muh}

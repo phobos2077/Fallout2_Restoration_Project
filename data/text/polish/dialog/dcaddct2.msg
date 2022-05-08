@@ -1,41 +1,41 @@
-{100}{}{Widzisz osiedleñca.}
-{101}{}{Widzisz mê¿czyznê pokrytego brudem i nieczystoœciami.}
-{102}{}{Widzisz kobietê pokryt¹ brudem i nieczystoœciami.}
+{100}{}{Widzisz osiedleÅ„ca.}
+{101}{}{Widzisz mÄ™Å¼czyznÄ™ pokrytego brudem i nieczystoÅ›ciami.}
+{102}{}{Widzisz kobietÄ™ pokrytÄ… brudem i nieczystoÅ›ciami.}
 {103}{}{Czego chcesz?}
-{104}{}{Chcê ¿ebyœcie ty i twoi przyjaciele opuœcili ten budynek. Zwróci³o moj¹ uwagê, ¿e Mamuœka chce zmieniæ to miejsce w sierociniec dla wszystkich bezdomnych sierot z ulicy. A nie mo¿e tego zrobiæ dopóki tu koczujecie.}
-{105}{}{[Z trudem st³umi³ œmiech i rozejrza³ siê za wsparciem pozosta³ych squatterów.] Mamuœka zna uk³ad. Nigdzie siê st¹d nie ruszymy póki nam nie zap³aci. Wiêc o ile nie przynosisz miliona monet dla nas, to spieprzaj.}
-{106}{}{S³uchaj, Mamuœka nie ma takich pieniêdzy, a nawet gdyby mia³a i tak by wam nie zap³aci³a, wiêc zapomnij o tym dobra. Czemu nie oka¿ecie odrobiny przyzwoitoœci i pójdziecie koczowaæ gdzie indziej? Te bezdomne dzieci potrzebuj¹ tego miejsca znacznie bardziej ni¿ wy.}
-{107}{}{Kim jesteœ, ¿e decydujesz co komu siê nale¿y? Nam siê *tu* podoba. Nie zmusisz nas do odejœcia.}
-{108}{}{S³uchaj, macie dwa wyjœcia: Mo¿ecie wyjœæ na swoich dwóch nogach, albo *JA* was usunê, wynosz¹c pojedynczo wasze zw³oki.}
-{109}{}{[Wymienia spojrzenia z pozosta³ymi squatterami, a potem odwraca siê do ciebie i krêci g³ow¹.] Nie uda ci siê nas zastraszyæ. Nikt nas st¹d nie wykopie. Bêdzie z tob¹ walczyæ o nasze terytorium.}
-{110}{}{[Wymienia spojrzenia z pozosta³ymi squatterami, a potem odwraca siê do ciebie i przytakuje.] Dobra, rozumiemy. To nie tak, ¿e nie lubimy dzieci czy coœ, cholera, wiêkszoœæ z nas wie jak to jest byæ bezdomnym dzieckiem. My po prostu chcielibyœmy coœ zarobiæ, rozumiesz? Jedyna praca tutaj to rozprowadzanie narkotyków, albo bólu, nam to nie odpowiada. [Wzdycha.] Odejdziemy, ale powiedz dok¹d? To miejsce to nasz dom.}
-{111}{}{Sk¹d mam wiedzieæ? To nie mój problem.}
-{112}{}{Mo¿e tego po¿a³ujê, ale je¿eli mówicie serio o znalezieniu pracy, to Mamuœce na pewno przyda siê pomoc w przygotowaniu tego miejsca. To naprawdê mi³a kobieta, wiêc mo¿e je¿eli przeprosicie, to da wam szanse udowodniæ, ¿e jesteœcie czymœ wiêcej ni¿ tylko band¹ leniwych oportunistów. Porozmawiam z ni¹ o tym. Ale je¿eli spróbujecie j¹ wykiwaæ, dorwê was i zap³acicie za to.}
-{113}{}{Nie cz³owieku, to nie przejdzie. Zmieni³em zdanie. Nie odejdziemy. Zostaniemy tu i bêdziemy walczyæ.}
-{114}{}{[Wymienia spojrzenia z pozosta³ymi squatterami i rozmyœla nad twoimi s³owami.] Wiesz co? To nie brzmi tak Ÿle. A w³aœciwie, to mo¿e byæ œwietny pomys³, o ile naprawdê s¹dzisz, ¿e Mamuœka siê zgodzi. Kiedy ty pójdziesz z ni¹ porozmawiaæ, my zaczniemy tu sprz¹taæ. Ach, i dziêki, jesteœ spoko.}
-{115}{}{Niewa¿ne.}
-{116}{}{Ona nie zamierza wam zap³aciæ. Ale jestem tu z now¹ propozycj¹: Ty i twoi przyjaciele wyprowadzicie siê natychmiast, a w zamian was nie pozabijam.}
-{117}{}{Dobrze, có¿, spróbujê. Czeœæ.}
-{120}{}{Œwietny pomys³. Zaczniemy przygotowania.}
-{200}{}{Hê?}
+{104}{}{ChcÄ™ Å¼ebyÅ›cie ty i twoi przyjaciele opuÅ›cili ten budynek. ZwrÃ³ciÅ‚o mojÄ… uwagÄ™, Å¼e MamuÅ›ka chce zmieniÄ‡ to miejsce w sierociniec dla wszystkich bezdomnych sierot z ulicy. A nie moÅ¼e tego zrobiÄ‡ dopÃ³ki tu koczujecie.}
+{105}{}{[Z trudem stÅ‚umiÅ‚ Å›miech i rozejrzaÅ‚ siÄ™ za wsparciem pozostaÅ‚ych squatterÃ³w.] MamuÅ›ka zna ukÅ‚ad. Nigdzie siÄ™ stÄ…d nie ruszymy pÃ³ki nam nie zapÅ‚aci. WiÄ™c o ile nie przynosisz miliona monet dla nas, to spieprzaj.}
+{106}{}{SÅ‚uchaj, MamuÅ›ka nie ma takich pieniÄ™dzy, a nawet gdyby miaÅ‚a i tak by wam nie zapÅ‚aciÅ‚a, wiÄ™c zapomnij o tym dobra. Czemu nie okaÅ¼ecie odrobiny przyzwoitoÅ›ci i pÃ³jdziecie koczowaÄ‡ gdzie indziej? Te bezdomne dzieci potrzebujÄ… tego miejsca znacznie bardziej niÅ¼ wy.}
+{107}{}{Kim jesteÅ›, Å¼e decydujesz co komu siÄ™ naleÅ¼y? Nam siÄ™ *tu* podoba. Nie zmusisz nas do odejÅ›cia.}
+{108}{}{SÅ‚uchaj, macie dwa wyjÅ›cia: MoÅ¼ecie wyjÅ›Ä‡ na swoich dwÃ³ch nogach, albo *JA* was usunÄ™, wynoszÄ…c pojedynczo wasze zwÅ‚oki.}
+{109}{}{[Wymienia spojrzenia z pozostaÅ‚ymi squatterami, a potem odwraca siÄ™ do ciebie i krÄ™ci gÅ‚owÄ….] Nie uda ci siÄ™ nas zastraszyÄ‡. Nikt nas stÄ…d nie wykopie. BÄ™dzie z tobÄ… walczyÄ‡ o nasze terytorium.}
+{110}{}{[Wymienia spojrzenia z pozostaÅ‚ymi squatterami, a potem odwraca siÄ™ do ciebie i przytakuje.] Dobra, rozumiemy. To nie tak, Å¼e nie lubimy dzieci czy coÅ›, cholera, wiÄ™kszoÅ›Ä‡ z nas wie jak to jest byÄ‡ bezdomnym dzieckiem. My po prostu chcielibyÅ›my coÅ› zarobiÄ‡, rozumiesz? Jedyna praca tutaj to rozprowadzanie narkotykÃ³w, albo bÃ³lu, nam to nie odpowiada. [Wzdycha.] Odejdziemy, ale powiedz dokÄ…d? To miejsce to nasz dom.}
+{111}{}{SkÄ…d mam wiedzieÄ‡? To nie mÃ³j problem.}
+{112}{}{MoÅ¼e tego poÅ¼aÅ‚ujÄ™, ale jeÅ¼eli mÃ³wicie serio o znalezieniu pracy, to MamuÅ›ce na pewno przyda siÄ™ pomoc w przygotowaniu tego miejsca. To naprawdÄ™ miÅ‚a kobieta, wiÄ™c moÅ¼e jeÅ¼eli przeprosicie, to da wam szanse udowodniÄ‡, Å¼e jesteÅ›cie czymÅ› wiÄ™cej niÅ¼ tylko bandÄ… leniwych oportunistÃ³w. Porozmawiam z niÄ… o tym. Ale jeÅ¼eli sprÃ³bujecie jÄ… wykiwaÄ‡, dorwÄ™ was i zapÅ‚acicie za to.}
+{113}{}{Nie czÅ‚owieku, to nie przejdzie. ZmieniÅ‚em zdanie. Nie odejdziemy. Zostaniemy tu i bÄ™dziemy walczyÄ‡.}
+{114}{}{[Wymienia spojrzenia z pozostaÅ‚ymi squatterami i rozmyÅ›la nad twoimi sÅ‚owami.] Wiesz co? To nie brzmi tak Åºle. A wÅ‚aÅ›ciwie, to moÅ¼e byÄ‡ Å›wietny pomysÅ‚, o ile naprawdÄ™ sÄ…dzisz, Å¼e MamuÅ›ka siÄ™ zgodzi. Kiedy ty pÃ³jdziesz z niÄ… porozmawiaÄ‡, my zaczniemy tu sprzÄ…taÄ‡. Ach, i dziÄ™ki, jesteÅ› spoko.}
+{115}{}{NiewaÅ¼ne.}
+{116}{}{Ona nie zamierza wam zapÅ‚aciÄ‡. Ale jestem tu z nowÄ… propozycjÄ…: Ty i twoi przyjaciele wyprowadzicie siÄ™ natychmiast, a w zamian was nie pozabijam.}
+{117}{}{Dobrze, cÃ³Å¼, sprÃ³bujÄ™. CzeÅ›Ä‡.}
+{120}{}{Åšwietny pomysÅ‚. Zaczniemy przygotowania.}
+{200}{}{HÄ™?}
 {201}{}{To nasze miejsce.}
-{202}{}{Te¿ tu sypiasz?}
-{203}{}{Masz coœ do ¿arcia?}
-{300}{}{Widzisz mê¿czyznê w ubraniu roboczym.}
-{301}{}{Widzisz kobietê w ubraniu roboczym.}
-{310}{}{Hej, dziêki za to, ¿e pozwoli³eœ nam tu zostaæ. Bêdziemy siê staraæ.}
-{311}{}{Mam nadziejê. Przypilnujcie dzieciaków, ¿eby nie pakowa³y siê w ¿adne k³opoty. Dobra?}
+{202}{}{TeÅ¼ tu sypiasz?}
+{203}{}{Masz coÅ› do Å¼arcia?}
+{300}{}{Widzisz mÄ™Å¼czyznÄ™ w ubraniu roboczym.}
+{301}{}{Widzisz kobietÄ™ w ubraniu roboczym.}
+{310}{}{Hej, dziÄ™ki za to, Å¼e pozwoliÅ‚eÅ› nam tu zostaÄ‡. BÄ™dziemy siÄ™ staraÄ‡.}
+{311}{}{Mam nadziejÄ™. Przypilnujcie dzieciakÃ³w, Å¼eby nie pakowaÅ‚y siÄ™ w Å¼adne kÅ‚opoty. Dobra?}
 {312}{}{Damy z siebie wszystko.}
 {313}{}{Bywaj.}
-{350}{}{Wszêdzie, byle nie tu. Nora to du¿e miasto, na pewno znajdziecie inn¹ miejscówkê. Dajcie spokój, naprawdê chcecie ¿eby dzieci ¿y³y na ulicy?}
-{351}{}{Nie, masz racjê, to faktycznie nie jest dobre dla dzieci. W porz¹dku, tylko siê spakujemy i wynosimy siê st¹d. Zreszt¹ i tak przecieka tu dach.}
-{352}{}{Dziêki, to wiele dla nich znaczy. Trzymajcie siê.}
-{353}{}{Nie, to nie nasz problem. Jak Mamuœka uwa¿a, ¿e zabranie dzieciaków z ulicy jest takie wa¿ne, to niech przestanie byæ taka sk¹pa i podzieliæ siê swoim bogactwem. Tak, zmieni³em zdanie, zostajemy dopóki nam nie zap³aci. To koniec naszej rozmowy, wiêc lepiej wyjdŸ jeœli wiesz co dla ciebie dobre.}
-{360}{}{Dobra. Nie ma potrzeby, ¿eby to wyrwa³o siê spod kontroli. Zostawiê was w spokoju.}
-{361}{}{Czas oczyœciæ to miejsce. [Atakujesz.]}
-{400}{}{Jeszcze raz dziêki!}
-{401}{}{Bêdziemy ciê¿ko pracowaæ.}
-{402}{}{Dziêki, jesteœ spoko.}
-{403}{}{Nie zawiedziemy ciê!}
-{500}{}{Tylko spakujemy rzeczy i wkrótce nas tu nie bêdzie.}
-{600}{}{Uda³o ci siê oczyœciæ budynek ze squatterów.}
+{350}{}{WszÄ™dzie, byle nie tu. Nora to duÅ¼e miasto, na pewno znajdziecie innÄ… miejscÃ³wkÄ™. Dajcie spokÃ³j, naprawdÄ™ chcecie Å¼eby dzieci Å¼yÅ‚y na ulicy?}
+{351}{}{Nie, masz racjÄ™, to faktycznie nie jest dobre dla dzieci. W porzÄ…dku, tylko siÄ™ spakujemy i wynosimy siÄ™ stÄ…d. ZresztÄ… i tak przecieka tu dach.}
+{352}{}{DziÄ™ki, to wiele dla nich znaczy. Trzymajcie siÄ™.}
+{353}{}{Nie, to nie nasz problem. Jak MamuÅ›ka uwaÅ¼a, Å¼e zabranie dzieciakÃ³w z ulicy jest takie waÅ¼ne, to niech przestanie byÄ‡ taka skÄ…pa i podzieliÄ‡ siÄ™ swoim bogactwem. Tak, zmieniÅ‚em zdanie, zostajemy dopÃ³ki nam nie zapÅ‚aci. To koniec naszej rozmowy, wiÄ™c lepiej wyjdÅº jeÅ›li wiesz co dla ciebie dobre.}
+{360}{}{Dobra. Nie ma potrzeby, Å¼eby to wyrwaÅ‚o siÄ™ spod kontroli. ZostawiÄ™ was w spokoju.}
+{361}{}{Czas oczyÅ›ciÄ‡ to miejsce. [Atakujesz.]}
+{400}{}{Jeszcze raz dziÄ™ki!}
+{401}{}{BÄ™dziemy ciÄ™Å¼ko pracowaÄ‡.}
+{402}{}{DziÄ™ki, jesteÅ› spoko.}
+{403}{}{Nie zawiedziemy ciÄ™!}
+{500}{}{Tylko spakujemy rzeczy i wkrÃ³tce nas tu nie bÄ™dzie.}
+{600}{}{UdaÅ‚o ci siÄ™ oczyÅ›ciÄ‡ budynek ze squatterÃ³w.}

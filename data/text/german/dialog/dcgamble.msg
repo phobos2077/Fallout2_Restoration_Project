@@ -5,49 +5,49 @@
 {104}{}{Diese Person scheint weder zu gewinnen noch zu verlieren.}
 {105}{}{Diese Person hat schon seit einiger Zeit nicht mehr gewonnen.}
 {106}{}{Sie sieht aus, als finge sie gleich an zu heulen und sie scheint fast kein Geld mehr zu haben.}
-{107}{}{Er sieht sehr w¸tend aus und scheint im groﬂen Stil zu verlieren. }
+{107}{}{Er sieht sehr w√ºtend aus und scheint im gro√üen Stil zu verlieren. }
 {200}{}{Tu mir nicht weh!}
-{201}{}{Nicht schieﬂen!}
+{201}{}{Nicht schie√üen!}
 {202}{}{Ich hab kein Geld!}
 {203}{}{Warum musstest du die arme Becky umbringen?}
 {204}{}{Hat sie dir jemals etwas getan?}
 {205}{}{Ich hab' nichts gemacht!}
 {206}{}{Geh bitte, ich werde nichts sagen.}
-{300}{}{Ja! Die W¸rfel lieben mich!}
+{300}{}{Ja! Die W√ºrfel lieben mich!}
 {301}{}{Oh, das war knapp.}
-{302}{}{Stˆr mich nicht, du machst mir sonst meine Gl¸cksstr‰hne kaputt.}
-{303}{}{Mir ist so heiﬂ!}
+{302}{}{St√∂r mich nicht, du machst mir sonst meine Gl√ºcksstr√§hne kaputt.}
+{303}{}{Mir ist so hei√ü!}
 {304}{}{Geld, Geld, Geld!}
 {305}{}{Ich liebe dieses Spiel!}
 {306}{}{Siehst du das! Ja!}
 {307}{}{Roulette muss man spielen!}
-{308}{}{Bei mir l‰uft's ganz gut und bei dir?}
-{309}{}{Es l‰uft besser als sonst.}
-{310}{}{Groﬂartiger Laden hier, nicht wahr?}
+{308}{}{Bei mir l√§uft's ganz gut und bei dir?}
+{309}{}{Es l√§uft besser als sonst.}
+{310}{}{Gro√üartiger Laden hier, nicht wahr?}
 {311}{}{Beckys Spieltische sind besser als New Reno.}
-{312}{}{Magst du das Spiel? Macht doch riesig Spaﬂ.}
-{313}{}{Ich hab schon l‰nger keinen anst‰ndigen Wurf mehr gehabt.}
+{312}{}{Magst du das Spiel? Macht doch riesig Spa√ü.}
+{313}{}{Ich hab schon l√§nger keinen anst√§ndigen Wurf mehr gehabt.}
 {314}{}{Ich brauch einen guten Wurf.}
 {315}{}{Wenigstens verliere ich nicht.}
 {316}{}{Ich gehe nirgendwo hin.}
 {317}{}{Ich will nur noch meinen Einsatz rausholen.}
 {318}{}{Du musst auf die Zahlen setzen.}
 {319}{}{Nur mit Rot oder Schwarz hast du keine Aussichten.}
-{320}{}{Die W¸rfel machen, was sie wollen.}
+{320}{}{Die W√ºrfel machen, was sie wollen.}
 {321}{}{Ich bin unten und es sieht gar nicht gut aus.}
 {322}{}{Ich hoffe, du machst es besser als ich.}
 {323}{}{Hab schon bessere Tage gesehen.}
-{324}{}{Ich weiﬂ, wie man spielt, wirklich.}
+{324}{}{Ich wei√ü, wie man spielt, wirklich.}
 {325}{}{Heute will die Kugel nicht so, wie ich es will.}
 {326}{}{Und noch ein Zahltag, der den Bach runter geht.}
 {327}{}{Ich bin fast pleite!}
-{328}{}{Verdammt. Das ist echt Scheiﬂe.}
+{328}{}{Verdammt. Das ist echt Schei√üe.}
 {329}{}{Warum passiert das immer mir?}
 {330}{}{Ich kann nicht gewinnen.}
 {331}{}{Ich hasse dieses Spiel.}
-{400}{}{Verdammt, Becky's war der einzige Ort f¸r Gl¸cksspiele hier!}
-{401}{}{Bleib bloﬂ weg.}
-{402}{}{Nicht schieﬂen!}
+{400}{}{Verdammt, Becky's war der einzige Ort f√ºr Gl√ºcksspiele hier!}
+{401}{}{Bleib blo√ü weg.}
+{402}{}{Nicht schie√üen!}
 {403}{}{Lass uns bitte allein.}
 {500}{}{Nicht da, nicht da, weiter.}
 {501}{}{Weiter, weiter.}
@@ -66,7 +66,7 @@
 {514}{}{Nicht schlecht.}
 {515}{}{Wie ist das denn passiert?}
 {516}{}{Hoppla.}
-{517}{}{Keine Eins‰tze mehr, Stop!}
+{517}{}{Keine Eins√§tze mehr, Stop!}
 {518}{}{Das Spiel macht seinem Namen Ehre.}
 {519}{}{Ich brauche nur einen dicken Gewinn.}
 {520}{}{Zahlen!}
@@ -74,16 +74,16 @@
 {522}{}{Sieht nicht gut aus.}
 {523}{}{Roulette ist Mist!}
 {524}{}{Becky, deine Spieltische machen mich fertig!}
-{525}{}{Sind das pr‰parierte W¸rfel, oder was?}
+{525}{}{Sind das pr√§parierte W√ºrfel, oder was?}
 {526}{}{Nicht noch mal!}
 {527}{}{Warum ich?}
 {528}{}{Verdammt! So nahe dran!}
-{529}{}{Himmel, Arsch und Zwirn, ICH HƒNG MICH AUF!}
+{529}{}{Himmel, Arsch und Zwirn, ICH H√ÑNG MICH AUF!}
 {530}{}{Ich hasse dieses Spiel!}
 {531}{}{Verdammt! Das war meine Zahl im letzten Dreh!}
 {532}{}{Schon wieder schwarz!?!?}
 {600}{}{Verschwinde!}
 {601}{}{Warum hast du das getan?}
 {602}{}{Verschwinde!}
-{603}{}{Hˆr auf, ich bin empfindlich.}
-{604}{}{Das w¸rd ich dir doch nicht antun.}
+{603}{}{H√∂r auf, ich bin empfindlich.}
+{604}{}{Das w√ºrd ich dir doch nicht antun.}

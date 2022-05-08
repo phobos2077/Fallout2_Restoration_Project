@@ -1,22 +1,22 @@
 {100}{}{Ves a un esclavista.}
 {150}{}{Parece ser uno de los guardaespaldas personales de Metzger.}
-{200}{}{Ahí estás.}
-{201}{}{Ahora, morirás.}
-{300}{}{¿Quieres ver al jefe? Pasa dentro.}
-{301}{}{Es con Metzger con quién tienes que hablar, no conmigo.}
+{200}{}{AhÃ­ estÃ¡s.}
+{201}{}{Ahora, morirÃ¡s.}
+{300}{}{Â¿Quieres ver al jefe? Pasa dentro.}
+{301}{}{Es con Metzger con quiÃ©n tienes que hablar, no conmigo.}
 {302}{}{Vamos, entra.}
-{303}{}{Pórtate bien.}
-{304}{}{Metzger está justo detrás de esta puerta.}
+{303}{}{PÃ³rtate bien.}
+{304}{}{Metzger estÃ¡ justo detrÃ¡s de esta puerta.}
 {305}{}{No cabrees a Metzger.}
-{306}{}{No estamos vendiendo, si es por lo que estás aquí.}
-{307}{}{Todavía no me acostumbro a ver mujeres esclavistas.}
+{306}{}{No estamos vendiendo, si es por lo que estÃ¡s aquÃ­.}
+{307}{}{TodavÃ­a no me acostumbro a ver mujeres esclavistas.}
 {308}{}{Es bueno tenerte con nosotros.}
-{309}{}{Hola. ¿Cómo te va?}
-{310}{}{¿Aún no le has dado de palos a ningún esclavo?}
+{309}{}{Hola. Â¿CÃ³mo te va?}
+{310}{}{Â¿AÃºn no le has dado de palos a ningÃºn esclavo?}
 {311}{}{Hola otra vez.}
-{312}{}{¿Te marchas a otra cacería de esclavos?}
-{313}{}{Las cosas están muy calmadas por aquí.}
-{314}{}{¿Cuando voy a ver algo de acción?}
+{312}{}{Â¿Te marchas a otra cacerÃ­a de esclavos?}
+{313}{}{Las cosas estÃ¡n muy calmadas por aquÃ­.}
+{314}{}{Â¿Cuando voy a ver algo de acciÃ³n?}
 {315}{}{Hecho de menos ir a capturar esclavos. Hacer guardia da asco.}
-{316}{}{Las cacerías de esclavos son un desmadre.}
+{316}{}{Las cacerÃ­as de esclavos son un desmadre.}
 {317}{}{Eh, amigo, me alegro de tenerte con nosotros.}

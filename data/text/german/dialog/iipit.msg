@@ -1,4 +1,4 @@
-{100}{}{Du bist durch ein Loch in die Höhlen unterhalb gefallen.}
-{101}{}{Du siehst ein Loch im Höhlenboden.}
-{102}{}{ sieht ein Loch im Höhlenboden.}
-{103}{}{Du siehst ein Loch im Höhlenboden.}
+{100}{}{Du bist durch ein Loch in die HÃ¶hlen unterhalb gefallen.}
+{101}{}{Du siehst ein Loch im HÃ¶hlenboden.}
+{102}{}{ sieht ein Loch im HÃ¶hlenboden.}
+{103}{}{Du siehst ein Loch im HÃ¶hlenboden.}

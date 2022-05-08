@@ -11,6 +11,6 @@
 {110}{}{Wow. That didn't even scratch it.}
 {111}{}{BOOM no hurt door.}
 {112}{}{The door's stuck, not locked.}
-{113}{}{Porta emperrada, n„o bloqueada.}
+{113}{}{Porta emperrada, n√£o bloqueada.}
 {114}{}{The door won't close. It's jammed.}
 {115}{}{Door no move.}

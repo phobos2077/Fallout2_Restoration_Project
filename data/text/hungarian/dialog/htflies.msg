@@ -1,2 +1,2 @@
-{100}{}{Több légy van a házban, mint amennyit valaha is láttál egyszerre egy helyen. Valami vonzhatja ?ket.}
-{101}{}{Kevesebb légy van a házban, mint korábban.}
+{100}{}{TÃ¶bb lÃ©gy van a hÃ¡zban, mint amennyit valaha is lÃ¡ttÃ¡l egyszerre egy helyen. Valami vonzhatja ?ket.}
+{101}{}{Kevesebb lÃ©gy van a hÃ¡zban, mint korÃ¡bban.}

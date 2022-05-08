@@ -1,1 +1,1 @@
-{100}{}{Du hast eine kleine Höhle betreten. Du hörst Geräusche, die von weiter hinten kommen.}
+{100}{}{Du hast eine kleine HÃ¶hle betreten. Du hÃ¶rst GerÃ¤usche, die von weiter hinten kommen.}

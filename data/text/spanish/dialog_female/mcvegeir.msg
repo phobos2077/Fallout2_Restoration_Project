@@ -1,68 +1,68 @@
-{100}{}{Ves al líder de los Escorias.}
+{100}{}{Ves al lÃ­der de los Escorias.}
 {101}{}{Ves a Vegeir.}
 {102}{}{Un hombre alto y majestuoso. Sus movimientos te recuerdan a los de un gato acechando a su presa.}
-{150}{}{Puedes salir a través de la trampilla que se encuentra en la parte trasera de este edificio.}
+{150}{}{Puedes salir a travÃ©s de la trampilla que se encuentra en la parte trasera de este edificio.}
 {151}{}{Por favor, lleva el mensaje a Modoc.}
-{152}{}{Modoc está al sur de aquí.}
+{152}{}{Modoc estÃ¡ al sur de aquÃ­.}
 {153}{}{Sur.}
 {154}{}{No, el otro sur.}
-{155}{}{Un visitante... qué conveniente. He estado pensando en una forma de contactar con la gente de la superficie, pero ahora ya no tengo que preocuparme por ello... gracias a tu oportuna llegada. Bienvenida al hogar de los Escorias.}
-{156}{}{Me alegra que hayas regresado. Veo que has entregado el mensaje en Modoc. ¿Cómo lo han recibido?}
-{157}{}{Necesitan tiempo para pensárselo.}
+{155}{}{Un visitante... quÃ© conveniente. He estado pensando en una forma de contactar con la gente de la superficie, pero ahora ya no tengo que preocuparme por ello... gracias a tu oportuna llegada. Bienvenida al hogar de los Escorias.}
+{156}{}{Me alegra que hayas regresado. Veo que has entregado el mensaje en Modoc. Â¿CÃ³mo lo han recibido?}
+{157}{}{Necesitan tiempo para pensÃ¡rselo.}
 {158}{}{Tienen algunas reservas.}
 {159}{}{Quiero llevar a Jonny con sus padres.}
-{160}{}{¿Has reconsiderado el prestarnos ayuda?}
+{160}{}{Â¿Has reconsiderado el prestarnos ayuda?}
 {161}{}{Necesito hacerte unas preguntas antes.}
 {162}{}{La respuesta sigue siendo no.}
 {163}{}{He decidido ayudaros.}
-{165}{}{Gracias por ayudarnos. Siempre serás bienvenida aquí. Por tus servicios, te ofrezco esto como recompensa. [Vegeir te da un rifle de asalto].}
-{166}{}{Gracias por ayudarnos. Siempre serás bienvenida aquí.}
-{167}{}{¿Podría llevar a Jonny a casa con sus padres?}
-{168}{}{Por favor, permíteme que me disculpe por las desgraciadas circunstancias por las que nos hemos conocido. Normalmente, los Protectores hubieran intentado asustarte. Lo normal es que el ruido de las cadenas y algunos aullidos graves sean suficientes para asustar a cualquiera. Pero recientemente, se les ha ordenado que traigan a cualquiera persona de la superficie a mi presencia.}
-{169}{}{Está bien. Me marcharé ya.}
-{170}{}{¿Qué es lo que quieres de mí?}
-{171}{}{¿Fantasmas?}
-{172}{}{Te irás CUANDO y SI yo lo decido. No antes.}
-{173}{}{Una simple petición. Tenemos que contactar con el pueblo que hay al suroeste; creo que se llama Modoc. ¿Nos harías ese favor?}
-{174}{}{¿Y qué saco yo de todo esto?}
-{175}{}{Tengo preguntas que hacerte antes de decidir si quiero aceptar la misión.}
-{176}{}{Es justo. No espero que nadie acepte tareas de extraños ciegamente sin primero saber un poco sobre ellos. Haz tus preguntas, y las responderé lo mejor que pueda.}
-{177}{}{¿Por qué no envías a uno de los tuyos para entregar el mensaje?}
-{178}{}{Háblame de tu gente.}
-{179}{}{¿Cuáles son vuestras defensas?}
-{180}{}{Ya he oído suficiente. Estoy listo para tomar una decisión.}
+{165}{}{Gracias por ayudarnos. Siempre serÃ¡s bienvenida aquÃ­. Por tus servicios, te ofrezco esto como recompensa. [Vegeir te da un rifle de asalto].}
+{166}{}{Gracias por ayudarnos. Siempre serÃ¡s bienvenida aquÃ­.}
+{167}{}{Â¿PodrÃ­a llevar a Jonny a casa con sus padres?}
+{168}{}{Por favor, permÃ­teme que me disculpe por las desgraciadas circunstancias por las que nos hemos conocido. Normalmente, los Protectores hubieran intentado asustarte. Lo normal es que el ruido de las cadenas y algunos aullidos graves sean suficientes para asustar a cualquiera. Pero recientemente, se les ha ordenado que traigan a cualquiera persona de la superficie a mi presencia.}
+{169}{}{EstÃ¡ bien. Me marcharÃ© ya.}
+{170}{}{Â¿QuÃ© es lo que quieres de mÃ­?}
+{171}{}{Â¿Fantasmas?}
+{172}{}{Te irÃ¡s CUANDO y SI yo lo decido. No antes.}
+{173}{}{Una simple peticiÃ³n. Tenemos que contactar con el pueblo que hay al suroeste; creo que se llama Modoc. Â¿Nos harÃ­as ese favor?}
+{174}{}{Â¿Y quÃ© saco yo de todo esto?}
+{175}{}{Tengo preguntas que hacerte antes de decidir si quiero aceptar la misiÃ³n.}
+{176}{}{Es justo. No espero que nadie acepte tareas de extraÃ±os ciegamente sin primero saber un poco sobre ellos. Haz tus preguntas, y las responderÃ© lo mejor que pueda.}
+{177}{}{Â¿Por quÃ© no envÃ­as a uno de los tuyos para entregar el mensaje?}
+{178}{}{HÃ¡blame de tu gente.}
+{179}{}{Â¿CuÃ¡les son vuestras defensas?}
+{180}{}{Ya he oÃ­do suficiente. Estoy listo para tomar una decisiÃ³n.}
 {181}{}{Haz tus preguntas.}
-{190}{}{¿Por qué habéis vuelto a la superficie?}
-{191}{}{¿A qué viene lo del engaño de los fantasmas?}
-{192}{}{¿Cuál es el propósito de tu mensaje?}
-{194}{}{Desde el Aislamiento, nosotros, como personas, hemos cambiado. Pocos pueden soportar estar en la superficie porque no están acostumbrados a no tener un mar de negrura sobre sus cabezas. La sensación de caerse hacia arriba es tan grande que se quedan congelados, tratando de agarrarse al suelo. Pero esa no es la principal razón. Ninguno de nosotros soporta la luz brillante de lo que llamáis sol; vivir bajo tierra durante tanto tiempo ha hecho que nuestros ojos sean demasiado sensibles a la luz. No podemos viajar demasiado lejos de la seguridad de nuestros hogares bajo tierra.}
-{195}{}{¿Puedo hacerte más preguntas?}
-{197}{}{Una vez, hace mucho tiempo, fuimos como la gente de la superficie. Nosotros también nos ocultamos bajo tierra, cuando el mundo de arriba se incendió. Nuestros ancestros, que eran parte de una milicia secreta, se encerraron aquí abajo con sus familias, buscando protección. Durante generaciones, hemos permanecido aquí abajo, ocultos a salvo dentro del vientre de la Madre Tierra.}
-{200}{}{Nuestra población fue creciendo poco a poco desde el Aislamiento. Pronto estuvo claro que no sobreviviríamos aquí abajo sin más suministros. Así que rompimos el Aislamiento, y una vez más volvimos a la superficie.}
-{203}{}{Hace años, alguien intentó quedarse con nuestra granja, cosechando nuestros cultivos y robando los animales a los que no tenía derecho. No somos gente violenta por naturaleza, pero teníamos que hacer algo. Nuestra supervivencia en aquel momento dependía de esos cultivos. Así que se nos ocurrió la idea de los fantasmas. Embadurnándonos con hongos resplandecientes, fuimos capaces de asustar a esta persona y a cualquier otro vecino molesto. Desafortunadamente, ha sido demasiado efectivo. Últimamente hemos intentado contactar con la gente de la superficie, pero nadie más ha venido a la granja por miedo a los fantasmas. Por suerte, te dejaste caer por aquí.}
-{206}{}{¡Basta! No más preguntas. ¡Toma tu decisión ahora!}
+{190}{}{Â¿Por quÃ© habÃ©is vuelto a la superficie?}
+{191}{}{Â¿A quÃ© viene lo del engaÃ±o de los fantasmas?}
+{192}{}{Â¿CuÃ¡l es el propÃ³sito de tu mensaje?}
+{194}{}{Desde el Aislamiento, nosotros, como personas, hemos cambiado. Pocos pueden soportar estar en la superficie porque no estÃ¡n acostumbrados a no tener un mar de negrura sobre sus cabezas. La sensaciÃ³n de caerse hacia arriba es tan grande que se quedan congelados, tratando de agarrarse al suelo. Pero esa no es la principal razÃ³n. Ninguno de nosotros soporta la luz brillante de lo que llamÃ¡is sol; vivir bajo tierra durante tanto tiempo ha hecho que nuestros ojos sean demasiado sensibles a la luz. No podemos viajar demasiado lejos de la seguridad de nuestros hogares bajo tierra.}
+{195}{}{Â¿Puedo hacerte mÃ¡s preguntas?}
+{197}{}{Una vez, hace mucho tiempo, fuimos como la gente de la superficie. Nosotros tambiÃ©n nos ocultamos bajo tierra, cuando el mundo de arriba se incendiÃ³. Nuestros ancestros, que eran parte de una milicia secreta, se encerraron aquÃ­ abajo con sus familias, buscando protecciÃ³n. Durante generaciones, hemos permanecido aquÃ­ abajo, ocultos a salvo dentro del vientre de la Madre Tierra.}
+{200}{}{Nuestra poblaciÃ³n fue creciendo poco a poco desde el Aislamiento. Pronto estuvo claro que no sobrevivirÃ­amos aquÃ­ abajo sin mÃ¡s suministros. AsÃ­ que rompimos el Aislamiento, y una vez mÃ¡s volvimos a la superficie.}
+{203}{}{Hace aÃ±os, alguien intentÃ³ quedarse con nuestra granja, cosechando nuestros cultivos y robando los animales a los que no tenÃ­a derecho. No somos gente violenta por naturaleza, pero tenÃ­amos que hacer algo. Nuestra supervivencia en aquel momento dependÃ­a de esos cultivos. AsÃ­ que se nos ocurriÃ³ la idea de los fantasmas. EmbadurnÃ¡ndonos con hongos resplandecientes, fuimos capaces de asustar a esta persona y a cualquier otro vecino molesto. Desafortunadamente, ha sido demasiado efectivo. Ãšltimamente hemos intentado contactar con la gente de la superficie, pero nadie mÃ¡s ha venido a la granja por miedo a los fantasmas. Por suerte, te dejaste caer por aquÃ­.}
+{206}{}{Â¡Basta! No mÃ¡s preguntas. Â¡Toma tu decisiÃ³n ahora!}
 {207}{}{Lo siento; no puedo ayudarte.}
-{208}{}{Sí, llevaré con gusto el mensaje a Modoc.}
-{209}{}{Siento oír eso. Por favor, considérate un invitado de los Escorias. Cuando finalmente establezcamos contacto con la gente de la superficie, podrás marcharte. Hasta entonces, no intentes abandonar las cuevas. Las consecuencias podrían ser muy desagradables.}
-{210}{}{Una vez completado el nuevo sistema de irrigación, nuestra producción de comida excede nuestras necesidades. Nos gustaría comerciar con los de la superficie e intercambiar los excedentes por medicinas que necesitamos.}
-{213}{}{Por favor, ilumínanos con tu sabiduría.}
-{216}{}{Sabía que lo entenderías. Aquí hay un mensaje relativo a nuestra petición. Por favor, llévalo a Modoc y dáselo a la persona al cargo. Vuelve cuando hayas completado tu tarea. Le diré a los Protectores que esperen tu regreso. Te agradecemos que nos hagas este servicio.}
-{217}{}{Qué típico de los de la superficie. Nunca son capaces de hacer nada por nadie a menos que haya alguna clase de ganancia involucrada. Obviamente, no podemos confiar en una persona como tú. Encontraremos a otro que lleve el mensaje. Aunque no somos gente violenta, no intentes salir de las cuevas o lo lamentarás.}
-{218}{}{Hmm… Entiendo. Una decisión así no puede tomarse a la ligera. Por favor, mantenme informado de sus progresos.}
-{219}{}{Entonces no me molestes más.}
-{220}{}{¿Sobre qué?}
-{221}{}{No confían en vosotros. Creen que matásteis a los transeúntes y empalásteis sus cuerpos en la entrada de la granja.}
-{222}{}{Quieren saber qué le ocurrió al granjero que vivía aquí.}
-{223}{}{Somos gente pacífica y no hemos matado a nadie. Esos cuerpos son simplemente un atrezzo que creamos para asustar a aquellos que intentaran robarnos. Si examinas los cuerpos más de cerca, verás que no son más que muñecos y tripas de brahmin.}
-{224}{}{¿Entonces qué pasó con el pobre Karl? Ya sabes, el granjero que vivía en tu granja.}
-{225}{}{¿Ese era su nombre, Karl? Le asustamos para que se fuera, nada más. Suponía que habría vuelto a casa cuando descubrió que la granja estaba encantada. Los Protectores informaron de que se dirigía hacia el oeste. Quizá debas seguir buscando en esa dirección.}
-{226}{}{Te mantendré informado de mis progresos.}
-{227}{}{Le asustamos para que se fuera, nada más. Suponía que habría vuelto a casa cuando descubrió que la granja estaba encantada. Los Protectores informaron de que se dirigía hacia el oeste. Quizá debas seguir buscando en esa dirección.}
-{231}{}{Veo que has encontrado a Jonny. Le descubrimos vagando por la oscuridad de uno de nuestros túneles más profundos. Decía que se había caído por un pozo cerca de su casa, y entonces quedó atrapado en un túnel por un derrumbe. Le hemos tratado como si fuera uno de los nuestros y es querido por todos... así que comprenderás que no lo entregue a un extraño que aún debe probar que es digno de confianza. Llevaré a Jonny de vuelta a Modoc cuando esté seguro de que puede llegar a casa sano y salvo.}
-{232}{}{Has probado que eres digno de confianza, sin duda alguna. A pesar del hecho de que vamos a echar de menos al pequeño Jonny, he dispuesto una escolta para ti y Jonny para que volváis a Modoc ahora mismo.}
-{233}{}{¡Oh, chico! No me extraña que no te asustaran nuestros truquillos. Eres demasiado estúpido para asustarte. Odio depender de un discapacitado intelectual como tú, pero necesito tus servicios. Lleva este mensaje a Modoc. Dáselo al líder de Modoc y procura no perderte.}
+{208}{}{SÃ­, llevarÃ© con gusto el mensaje a Modoc.}
+{209}{}{Siento oÃ­r eso. Por favor, considÃ©rate un invitado de los Escorias. Cuando finalmente establezcamos contacto con la gente de la superficie, podrÃ¡s marcharte. Hasta entonces, no intentes abandonar las cuevas. Las consecuencias podrÃ­an ser muy desagradables.}
+{210}{}{Una vez completado el nuevo sistema de irrigaciÃ³n, nuestra producciÃ³n de comida excede nuestras necesidades. Nos gustarÃ­a comerciar con los de la superficie e intercambiar los excedentes por medicinas que necesitamos.}
+{213}{}{Por favor, ilumÃ­nanos con tu sabidurÃ­a.}
+{216}{}{SabÃ­a que lo entenderÃ­as. AquÃ­ hay un mensaje relativo a nuestra peticiÃ³n. Por favor, llÃ©valo a Modoc y dÃ¡selo a la persona al cargo. Vuelve cuando hayas completado tu tarea. Le dirÃ© a los Protectores que esperen tu regreso. Te agradecemos que nos hagas este servicio.}
+{217}{}{QuÃ© tÃ­pico de los de la superficie. Nunca son capaces de hacer nada por nadie a menos que haya alguna clase de ganancia involucrada. Obviamente, no podemos confiar en una persona como tÃº. Encontraremos a otro que lleve el mensaje. Aunque no somos gente violenta, no intentes salir de las cuevas o lo lamentarÃ¡s.}
+{218}{}{Hmmâ€¦ Entiendo. Una decisiÃ³n asÃ­ no puede tomarse a la ligera. Por favor, mantenme informado de sus progresos.}
+{219}{}{Entonces no me molestes mÃ¡s.}
+{220}{}{Â¿Sobre quÃ©?}
+{221}{}{No confÃ­an en vosotros. Creen que matÃ¡steis a los transeÃºntes y empalÃ¡steis sus cuerpos en la entrada de la granja.}
+{222}{}{Quieren saber quÃ© le ocurriÃ³ al granjero que vivÃ­a aquÃ­.}
+{223}{}{Somos gente pacÃ­fica y no hemos matado a nadie. Esos cuerpos son simplemente un atrezzo que creamos para asustar a aquellos que intentaran robarnos. Si examinas los cuerpos mÃ¡s de cerca, verÃ¡s que no son mÃ¡s que muÃ±ecos y tripas de brahmin.}
+{224}{}{Â¿Entonces quÃ© pasÃ³ con el pobre Karl? Ya sabes, el granjero que vivÃ­a en tu granja.}
+{225}{}{Â¿Ese era su nombre, Karl? Le asustamos para que se fuera, nada mÃ¡s. SuponÃ­a que habrÃ­a vuelto a casa cuando descubriÃ³ que la granja estaba encantada. Los Protectores informaron de que se dirigÃ­a hacia el oeste. QuizÃ¡ debas seguir buscando en esa direcciÃ³n.}
+{226}{}{Te mantendrÃ© informado de mis progresos.}
+{227}{}{Le asustamos para que se fuera, nada mÃ¡s. SuponÃ­a que habrÃ­a vuelto a casa cuando descubriÃ³ que la granja estaba encantada. Los Protectores informaron de que se dirigÃ­a hacia el oeste. QuizÃ¡ debas seguir buscando en esa direcciÃ³n.}
+{231}{}{Veo que has encontrado a Jonny. Le descubrimos vagando por la oscuridad de uno de nuestros tÃºneles mÃ¡s profundos. DecÃ­a que se habÃ­a caÃ­do por un pozo cerca de su casa, y entonces quedÃ³ atrapado en un tÃºnel por un derrumbe. Le hemos tratado como si fuera uno de los nuestros y es querido por todos... asÃ­ que comprenderÃ¡s que no lo entregue a un extraÃ±o que aÃºn debe probar que es digno de confianza. LlevarÃ© a Jonny de vuelta a Modoc cuando estÃ© seguro de que puede llegar a casa sano y salvo.}
+{232}{}{Has probado que eres digno de confianza, sin duda alguna. A pesar del hecho de que vamos a echar de menos al pequeÃ±o Jonny, he dispuesto una escolta para ti y Jonny para que volvÃ¡is a Modoc ahora mismo.}
+{233}{}{Â¡Oh, chico! No me extraÃ±a que no te asustaran nuestros truquillos. Eres demasiado estÃºpido para asustarte. Odio depender de un discapacitado intelectual como tÃº, pero necesito tus servicios. Lleva este mensaje a Modoc. DÃ¡selo al lÃ­der de Modoc y procura no perderte.}
 {300}{}{Ya me voy.}
-{301}{}{¿Qué es lo que quieres de mí?}
-{302}{}{Adiós.}
-{303}{}{¿Fantasmas?}
+{301}{}{Â¿QuÃ© es lo que quieres de mÃ­?}
+{302}{}{AdiÃ³s.}
+{303}{}{Â¿Fantasmas?}
 {400}{}{El mensaje ha sido bien recibido. El pueblo de Modoc quiere comerciar con tu gente.}

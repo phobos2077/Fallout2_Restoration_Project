@@ -1,20 +1,20 @@
-{1}{}{Tu as gagné %d %s.}
+{1}{}{Tu as gagnÃ© %d %s.}
 {2}{}{Tu as perdu %d %s.}
 {3}{}{Tu te sens mieux.}
-{4}{}{Tu es victime d'une crise cardiaque fatale due à une overdose de stimulants.}
-{5}{}{%s n'a plus d'énergie.}
+{4}{}{Tu es victime d'une crise cardiaque fatale due Ã  une overdose de stimulants.}
+{5}{}{%s n'a plus d'Ã©nergie.}
 {6}{}{%s : Activation.}
-{7}{}{%s : Désactivation.}
+{7}{}{%s : DÃ©sactivation.}
 {8}{}{Tu passes le compteur Geiger sur ton corps. Le compteur de rem (100 rem = 1 sievert) indique : %d}
-{9}{}{Cet objet n'est accessible qu'à partir de la barre de l'interface.}
+{9}{}{Cet objet n'est accessible qu'Ã  partir de la barre de l'interface.}
 {10}{}{Il ne se passe rien.}
 {50}{}{Ca n'a pas fait grand chose.}
-{500}{}{Il n'y a pas assez de lumière pour recharger cet élément.}
+{500}{}{Il n'y a pas assez de lumiÃ¨re pour recharger cet Ã©lÃ©ment.}
 {600}{}{%s succombe aux effets des stimulants.}
 {800}{Weapon Damage}{Faible}
 {801}{}{Moyenne}
 {802}{}{Forte}
-{803}{}{Extrême}
+{803}{}{ExtrÃªme}
 {820}{}{Courte}
 {821}{}{Moyenne}
 {822}{}{Longue}

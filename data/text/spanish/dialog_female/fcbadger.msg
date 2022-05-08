@@ -1,124 +1,124 @@
 {100}{}{Ves a un vagabundo con una media sonrisa.}
 {101}{}{Ves a Badger.}
 {102}{}{Ves a un vagabundo con una media sonrisa burlona en su rostro.}
-{103}{}{::Eructa con fuerza:: ¿Qué quieres?}
+{103}{}{::Eructa con fuerza:: Â¿QuÃ© quieres?}
 {104}{}{::eructas::}
-{105}{}{¿Quién?}
-{106}{}{¿Quién eres?}
-{107}{}{¿Qué puedes decirme de este petrolero?}
-{108}{}{¿Qué haces aquí?}
-{109}{}{Me gustaría que piratearas una computadora para mí.}
-{110}{}{¿Cómo va lo del pirateo?}
+{105}{}{Â¿QuiÃ©n?}
+{106}{}{Â¿QuiÃ©n eres?}
+{107}{}{Â¿QuÃ© puedes decirme de este petrolero?}
+{108}{}{Â¿QuÃ© haces aquÃ­?}
+{109}{}{Me gustarÃ­a que piratearas una computadora para mÃ­.}
+{110}{}{Â¿CÃ³mo va lo del pirateo?}
 {111}{}{Nada. Buen eructo.}
 {112}{}{::Prepara otro eructo::}
 {113}{}{::Eructas con fuerza::}
 {114}{}{Asqueroso.}
-{115}{}{::Lanza un horripilante eructo que desafía los mismos cielos con su volumen y alcance::}
+{115}{}{::Lanza un horripilante eructo que desafÃ­a los mismos cielos con su volumen y alcance::}
 {116}{}{::Aplaudes::}
-{117}{}{Soy Badger. Tenía una banda. ::suspira:: Nos llamábamos Miradas Ardientes. Ahora soy el técnico de computadoras residente de San Fran.}
-{118}{}{¡Oh! ¡Petroleros!}
-{119}{}{¿Qué clase de cosas de computadoras haces?}
-{120}{}{Apostaría a que tu banda apestaba.}
-{121}{}{¿Qué fue de la banda?}
-{122}{}{Gracias. Adiós.}
+{117}{}{Soy Badger. TenÃ­a una banda. ::suspira:: Nos llamÃ¡bamos Miradas Ardientes. Ahora soy el tÃ©cnico de computadoras residente de San Fran.}
+{118}{}{Â¡Oh! Â¡Petroleros!}
+{119}{}{Â¿QuÃ© clase de cosas de computadoras haces?}
+{120}{}{ApostarÃ­a a que tu banda apestaba.}
+{121}{}{Â¿QuÃ© fue de la banda?}
+{122}{}{Gracias. AdiÃ³s.}
 {123}{}{Ehh... de acuerdo.}
-{124}{}{¡Adiós!}
-{125}{}{Deberías hablar con Marc o el capitán sobre eso.}
-{126}{}{¿Dónde puedo encontrar a Marc?}
-{127}{}{¿Dónde puedo encontrar al capitán?}
+{124}{}{Â¡AdiÃ³s!}
+{125}{}{DeberÃ­as hablar con Marc o el capitÃ¡n sobre eso.}
+{126}{}{Â¿DÃ³nde puedo encontrar a Marc?}
+{127}{}{Â¿DÃ³nde puedo encontrar al capitÃ¡n?}
 {128}{}{Soy el genio de las computadoras local.}
-{129}{}{¿Qué clase de cosas de computadoras haces?}
-{130}{}{Gracias. Adiós.}
-{131}{}{No me molestes. ::se pedorrea:: Estoy trabajando en ello, ¿de acuerdo?}
-{132}{}{Está bien, está bien. Tan sólo avísame cuando termines.}
-{133}{}{Bien, digamos simplemente que soy un especialista en recuperar información.}
-{134}{}{¿Puedes recuperar algo para mí?}
-{135}{}{¿Y eso qué significa?}
-{136}{}{Sí, bueno, que te jodan.}
-{137}{}{¡Oye!}
-{138}{}{Que te jodan a ti también.}
-{139}{}{¡Que te voy a decir! ¡Rompíamos la pana! Nuestro cantante era... umm... un poco locaza, y Aaron siempre estaba sudando, y de todo lo demás tenía la culpa Todd. Pero éramos buenos.}
-{140}{}{Lástima que no estéis juntos de nuevo. Me hubiera gustado haberos escuchado.}
-{141}{}{Umm. Desde luego. Tengo más preguntas.}
-{142}{}{Seguro que apestábais.}
+{129}{}{Â¿QuÃ© clase de cosas de computadoras haces?}
+{130}{}{Gracias. AdiÃ³s.}
+{131}{}{No me molestes. ::se pedorrea:: Estoy trabajando en ello, Â¿de acuerdo?}
+{132}{}{EstÃ¡ bien, estÃ¡ bien. Tan sÃ³lo avÃ­same cuando termines.}
+{133}{}{Bien, digamos simplemente que soy un especialista en recuperar informaciÃ³n.}
+{134}{}{Â¿Puedes recuperar algo para mÃ­?}
+{135}{}{Â¿Y eso quÃ© significa?}
+{136}{}{SÃ­, bueno, que te jodan.}
+{137}{}{Â¡Oye!}
+{138}{}{Que te jodan a ti tambiÃ©n.}
+{139}{}{Â¡Que te voy a decir! Â¡RompÃ­amos la pana! Nuestro cantante era... umm... un poco locaza, y Aaron siempre estaba sudando, y de todo lo demÃ¡s tenÃ­a la culpa Todd. Pero Ã©ramos buenos.}
+{140}{}{LÃ¡stima que no estÃ©is juntos de nuevo. Me hubiera gustado haberos escuchado.}
+{141}{}{Umm. Desde luego. Tengo mÃ¡s preguntas.}
+{142}{}{Seguro que apestÃ¡bais.}
 {143}{}{Normalmente puedes encontrar a Marc en el bar.}
-{144}{}{Gracias. Tengo más preguntas.}
+{144}{}{Gracias. Tengo mÃ¡s preguntas.}
 {145}{}{Gracias. Eso es todo.}
-{146}{}{Normalmente el capitán está en el puente. Simplemente sube las escaleras desde el bar.}
-{147}{}{Gracias. Tengo más preguntas.}
+{146}{}{Normalmente el capitÃ¡n estÃ¡ en el puente. Simplemente sube las escaleras desde el bar.}
+{147}{}{Gracias. Tengo mÃ¡s preguntas.}
 {148}{}{Gracias. Eso es todo.}
-{149}{}{Sí, pero te va a costar.}
-{150}{}{¿Cuál es tu precio?}
-{151}{}{Sí, lo que sea. Tengo que irme.}
+{149}{}{SÃ­, pero te va a costar.}
+{150}{}{Â¿CuÃ¡l es tu precio?}
+{151}{}{SÃ­, lo que sea. Tengo que irme.}
 {152}{}{Significa que puedo encontrar cualquier dato que necesites.}
-{153}{}{¿Puedes hacer algo por mí?}
-{154}{}{Ya veo. Qué guay. Tengo más preguntas.}
+{153}{}{Â¿Puedes hacer algo por mÃ­?}
+{154}{}{Ya veo. QuÃ© guay. Tengo mÃ¡s preguntas.}
 {155}{}{Ya veo. Gracias.}
-{156}{}{Sí, lo habrías hecho. De todos modos, tengo que volver a esto.}
-{157}{}{Espera. Tengo más preguntas.}
+{156}{}{SÃ­, lo habrÃ­as hecho. De todos modos, tengo que volver a esto.}
+{157}{}{Espera. Tengo mÃ¡s preguntas.}
 {158}{}{Gracias. Nos vemos.}
-{159}{}{Creo que ahora me gustas lo suficiente como para que pueda hacerlo por ti. ¿A quién quieres que visite?}
+{159}{}{Creo que ahora me gustas lo suficiente como para que pueda hacerlo por ti. Â¿A quiÃ©n quieres que visite?}
 {160}{}{A los Hubologistas.}
 {161}{}{A los Shi.}
-{162}{}{A ninguno. Sólo quería asegurarme.}
-{163}{}{Supongo que puedo hacerlo gratis, ya que comprobaste lo de mi novia. Pero me llevará un tiempo. ¿A quién prefieres que lo haga?}
+{162}{}{A ninguno. SÃ³lo querÃ­a asegurarme.}
+{163}{}{Supongo que puedo hacerlo gratis, ya que comprobaste lo de mi novia. Pero me llevarÃ¡ un tiempo. Â¿A quiÃ©n prefieres que lo haga?}
 {164}{}{A los Hubologistas.}
 {165}{}{A los Shi.}
-{166}{}{A ninguno. Sólo quería asegurarme.}
-{167}{}{Primero me tienes que hacer un favor. Mi novia se perdió en el petrolero. Encuéntrala por mí y lo haré.}
+{166}{}{A ninguno. SÃ³lo querÃ­a asegurarme.}
+{167}{}{Primero me tienes que hacer un favor. Mi novia se perdiÃ³ en el petrolero. EncuÃ©ntrala por mÃ­ y lo harÃ©.}
 {168}{}{Me parece bien. Nos vemos.}
-{169}{}{Olvídalo. Nos vemos.}
-{170}{}{Como robarle el caramelo a un niño. Nunca me encontrarán. ¿Qué es lo que quieres de ellos?}
-{171}{}{Genial. Tengo más preguntas.}
-{172}{}{Genial. Volveré.}
-{173}{}{Puedo llegar a ellos. Son muy protectores de su información, y tienen unas graves de hielo a la protección de sus máquinas. Estás seguro de que quieres que me vaya tras ellos?}
-{174}{}{En fin, buena suerte. Tengo más preguntas.}
-{175}{}{Buena suerte. Volveré más tarde.}
+{169}{}{OlvÃ­dalo. Nos vemos.}
+{170}{}{Como robarle el caramelo a un niÃ±o. Nunca me encontrarÃ¡n. Â¿QuÃ© es lo que quieres de ellos?}
+{171}{}{Genial. Tengo mÃ¡s preguntas.}
+{172}{}{Genial. VolverÃ©.}
+{173}{}{Puedo llegar a ellos. Son muy protectores de su informaciÃ³n, y tienen unas graves de hielo a la protecciÃ³n de sus mÃ¡quinas. EstÃ¡s seguro de que quieres que me vaya tras ellos?}
+{174}{}{En fin, buena suerte. Tengo mÃ¡s preguntas.}
+{175}{}{Buena suerte. VolverÃ© mÃ¡s tarde.}
 {176}{}{Oye, encuentra a mi novia y entonces hablaremos.}
 {177}{}{De acuerdo, de acuerdo.}
-{178}{}{Ella está muerta? Ella está MUERTA? ¿Cómo va a morir? No, espera... no me digas. Dame un par de horas para llegar a mí juntos.}
+{178}{}{Ella estÃ¡ muerta? Ella estÃ¡ MUERTA? Â¿CÃ³mo va a morir? No, espera... no me digas. Dame un par de horas para llegar a mÃ­ juntos.}
 {179}{}{Claro, claro.}
-{180}{}{Ponte las pilas, juerguista. Tenemos puñeteras cosas que hacer.}
+{180}{}{Ponte las pilas, juerguista. Tenemos puÃ±eteras cosas que hacer.}
 {181}{}{De acuerdo. Ya estoy mejor.}
 {182}{}{Bien. Necesito preguntarte algo.}
-{183}{}{Bien hecho. No quería hablar contigo.}
-{184}{}{Gracias, gracias, gracias. No puedo agradecerte lo suficiente el que la salvaras. ¿Qué quieres?}
+{183}{}{Bien hecho. No querÃ­a hablar contigo.}
+{184}{}{Gracias, gracias, gracias. No puedo agradecerte lo suficiente el que la salvaras. Â¿QuÃ© quieres?}
 {185}{}{Tengo algunas preguntas.}
-{186}{}{Tu gratitud es suficiente para mí. Hasta luego.}
-{187}{}{Muy bien, entré en las computadoras Shi. No sé si lo que hice fue detectado. Supongo que ahora lo mejor es ocultarse. ¿Quieres algo más?}
-{188}{}{Sí.}
+{186}{}{Tu gratitud es suficiente para mÃ­. Hasta luego.}
+{187}{}{Muy bien, entrÃ© en las computadoras Shi. No sÃ© si lo que hice fue detectado. Supongo que ahora lo mejor es ocultarse. Â¿Quieres algo mÃ¡s?}
+{188}{}{SÃ­.}
 {189}{}{No. Nos vemos.}
-{190}{}{Conseguí lo de los Hubologistas. Sin problemas. ¿Necesitas algo más?}
-{191}{}{Sí.}
+{190}{}{ConseguÃ­ lo de los Hubologistas. Sin problemas. Â¿Necesitas algo mÃ¡s?}
+{191}{}{SÃ­.}
 {192}{}{No. Nos vemos.}
-{193}{}{Acabas de cometer un gran error, amiga. Acabo de poner en tu contra a los Shi a través de sus computadoras. Estás acabada en San Francisco. }
-{194}{}{Entonces supongo que lo mejor será que te mate.}
+{193}{}{Acabas de cometer un gran error, amiga. Acabo de poner en tu contra a los Shi a travÃ©s de sus computadoras. EstÃ¡s acabada en San Francisco. }
+{194}{}{Entonces supongo que lo mejor serÃ¡ que te mate.}
 {195}{}{Dame un par de horas para reponerme.}
-{196}{}{¿Quieres que piratee una computadora formateada? La información está perdida. No hay nada que hacer.}
+{196}{}{Â¿Quieres que piratee una computadora formateada? La informaciÃ³n estÃ¡ perdida. No hay nada que hacer.}
 {197}{}{Voy a tener que abandonar este lugar.}
 {198}{}{Me alegro de verte.}
 {199}{}{Estoy buscando algo de combustible.}
-{200}{}{He oído que los Hubologistas tienen algo de combustible, y pude echar un vistazo en su computadora para ti.}
-{201}{}{El Shi tiene todo el combustible por aquí. Yo podría tomar un vistazo a su mainframe para usted.}
-{202}{}{¿Podrías?}
-{203}{}{¿Qué carajo quieres?}
-{204}{}{¿Badger, supongo?}
-{205}{}{¡Has deshonrado a nuestro Emperador por última vez!}
+{200}{}{He oÃ­do que los Hubologistas tienen algo de combustible, y pude echar un vistazo en su computadora para ti.}
+{201}{}{El Shi tiene todo el combustible por aquÃ­. Yo podrÃ­a tomar un vistazo a su mainframe para usted.}
+{202}{}{Â¿PodrÃ­as?}
+{203}{}{Â¿QuÃ© carajo quieres?}
+{204}{}{Â¿Badger, supongo?}
+{205}{}{Â¡Has deshonrado a nuestro Emperador por Ãºltima vez!}
 {206}{}{Creo que voy a ir a comprarle algunos caramelos a Lao Chou en la ciudad.}
 {207}{}{Demasiado para un juicio justo. Hmmm...}
-{208}{}{Colega, relájate. Yo sólo quería algunos caramelos.}
-{209}{}{¿Puedes transferir el combustible de su nave espacial al petrolero?}
-{210}{}{¿Puedes conseguirme una copia de sus planos del vertibird?}
-{211}{}{¿Puedes transferir el combustible y conseguirme los planos?}
-{212}{}{Sí, necesito lo que tienen.}
-{213}{}{Da igual, encontraré otra forma.}
-{214}{}{Está bien, pero la mierda podría esparcirse.}
-{215}{}{¿Puedes transferir el combustible de sus reservas al petrolero?}
-{216}{}{No importa, lo haré de otra forma.}
+{208}{}{Colega, relÃ¡jate. Yo sÃ³lo querÃ­a algunos caramelos.}
+{209}{}{Â¿Puedes transferir el combustible de su nave espacial al petrolero?}
+{210}{}{Â¿Puedes conseguirme una copia de sus planos del vertibird?}
+{211}{}{Â¿Puedes transferir el combustible y conseguirme los planos?}
+{212}{}{SÃ­, necesito lo que tienen.}
+{213}{}{Da igual, encontrarÃ© otra forma.}
+{214}{}{EstÃ¡ bien, pero la mierda podrÃ­a esparcirse.}
+{215}{}{Â¿Puedes transferir el combustible de sus reservas al petrolero?}
+{216}{}{No importa, lo harÃ© de otra forma.}
 {217}{}{No importa.}
-{218}{}{Bien. Comprobar de nuevo conmigo en un día o así y voy a dejar que usted sabe.}
-{219}{}{¿Conseguiste lo que necesitaba?}
-{220}{}{Sí, tengo el combustible.}
-{221}{}{Sí, tengo los planos del verti.}
-{222}{}{Sí, tengo el combustible y los planos.}
+{218}{}{Bien. Comprobar de nuevo conmigo en un dÃ­a o asÃ­ y voy a dejar que usted sabe.}
+{219}{}{Â¿Conseguiste lo que necesitaba?}
+{220}{}{SÃ­, tengo el combustible.}
+{221}{}{SÃ­, tengo los planos del verti.}
+{222}{}{SÃ­, tengo el combustible y los planos.}
 {223}{}{Muchas gracias. Nos vemos.}

@@ -1,13 +1,13 @@
-{100}{}{Héroe}
+{100}{}{HÃ©roe}
 {101}{}{}
-{200}{}{Heroína}
+{200}{}{HeroÃ­na}
 {201}{}{}
 {300}{}{Aldeano}
 {400}{}{Aldeano}
-{500}{}{Escorpión rad}
-{501}{}{Un pequeño escorpión mutante.}
-{600}{}{Escorpión rad}
-{601}{}{Un escorpión mutante.}
+{500}{}{EscorpiÃ³n rad}
+{501}{}{Un pequeÃ±o escorpiÃ³n mutante.}
+{600}{}{EscorpiÃ³n rad}
+{601}{}{Un escorpiÃ³n mutante.}
 {700}{}{Garra mortal}
 {701}{}{Una Garra mortal inmadura.}
 {800}{}{Garra mortal}
@@ -17,14 +17,14 @@
 {1000}{}{Brahmin}
 {1001}{}{Una vaca mutante de dos cabezas.}
 {1100}{}{Rata}
-{1101}{}{Una típica rata grande.}
+{1101}{}{Una tÃ­pica rata grande.}
 {1200}{}{Mantis}
 {1201}{}{Una Mantis mutante.}
 {1300}{}{Anciano}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{Planta de esporas}
-{1601}{}{Una planta carnívora}
+{1601}{}{Una planta carnÃ­vora}
 {1700}{}{Esclavo atractivo}
 {1800}{}{Esclava atractiva}
 {1900}{}{Esclava sana}
@@ -35,33 +35,33 @@
 {2400}{}{Esclava de combate}
 {2500}{}{Esclava inteligente}
 {2600}{}{Esclava inteligente}
-{2700}{}{Esclava genérica}
-{2800}{}{Esclava genérica}
+{2700}{}{Esclava genÃ©rica}
+{2800}{}{Esclava genÃ©rica}
 {2900}{}{Ana}
-{3000}{}{Matón dura}
-{3100}{}{Matón dura}
-{3200}{}{Matón meleé}
-{3300}{}{Matón meleé}
-{3400}{}{Matón ágil}
-{3500}{}{Matón ágil}
-{3600}{}{Matón armada}
-{3700}{}{Matón armada}
-{3800}{}{Matón muy armada}
-{3900}{}{Matón muy armada}
+{3000}{}{MatÃ³n dura}
+{3100}{}{MatÃ³n dura}
+{3200}{}{MatÃ³n meleÃ©}
+{3300}{}{MatÃ³n meleÃ©}
+{3400}{}{MatÃ³n Ã¡gil}
+{3500}{}{MatÃ³n Ã¡gil}
+{3600}{}{MatÃ³n armada}
+{3700}{}{MatÃ³n armada}
+{3800}{}{MatÃ³n muy armada}
+{3900}{}{MatÃ³n muy armada}
 {4000}{}{Guardia dura}
 {4100}{}{Guardia dura}
-{4200}{}{Guardia meleé}
-{4300}{}{Guardia meleé}
-{4400}{}{Guardia ágil}
-{4500}{}{Guardia ágil}
+{4200}{}{Guardia meleÃ©}
+{4300}{}{Guardia meleÃ©}
+{4400}{}{Guardia Ã¡gil}
+{4500}{}{Guardia Ã¡gil}
 {4600}{}{Guardia armada}
 {4700}{}{Guardia armada}
 {4800}{}{Guardia muy armada}
 {4900}{}{Guardia muy armada}
-{5000}{}{Huérfano}
-{5100}{}{Huérfana}
-{5200}{}{Niño}
-{5300}{}{Niña}
+{5000}{}{HuÃ©rfano}
+{5100}{}{HuÃ©rfana}
+{5200}{}{NiÃ±o}
+{5300}{}{NiÃ±a}
 {5400}{}{Perdedor}
 {5500}{}{Perdedor}
 {5600}{}{Mala mercader}
@@ -71,14 +71,14 @@
 {6000}{}{Gran mercader}
 {6100}{}{Gran mercader}
 {6200}{}{Vic}
-{6300}{}{Campesina débil}
-{6400}{}{Campesina débil}
+{6300}{}{Campesina dÃ©bil}
+{6400}{}{Campesina dÃ©bil}
 {6500}{}{Campesina}
 {6600}{}{Campesina}
 {6700}{}{Campesina fuerte}
 {6800}{}{Campesina fuerte}
-{6900}{}{Guardia meleé mal armada}
-{7000}{}{Guardia meleé mal armada}
+{6900}{}{Guardia meleÃ© mal armada}
+{7000}{}{Guardia meleÃ© mal armada}
 {7100}{}{Guardia mal armada}
 {7200}{}{Guardia mal armada}
 {7300}{}{Robot de reparaciones}
@@ -88,8 +88,8 @@
 {7700}{}{Robot centinela}
 {7800}{}{Robot centinela Mark II}
 {7900}{}{Robocerebro}
-{8000}{}{Gecko pequeño}
-{8100}{}{Gecko pequeño duro}
+{8000}{}{Gecko pequeÃ±o}
+{8100}{}{Gecko pequeÃ±o duro}
 {8200}{}{Perro salvaje}
 {8201}{}{Un perro salvaje de raza cruzada}
 {8300}{}{Gecko dorado}
@@ -111,7 +111,7 @@
 {9900}{}{Torr}
 {10000}{}{Lumpy}
 {10100}{}{Resplandeciente del reactor}
-{10200}{}{Necrófago del reactor}
+{10200}{}{NecrÃ³fago del reactor}
 {10300}{}{Guardia del reactor}
 {10400}{}{Zomak}
 {10500}{}{Skeeter}
@@ -123,7 +123,7 @@
 {11100}{}{Rato Topo grande}
 {11200}{}{Rata Cerdo}
 {11300}{}{Rata Cerdo dura}
-{11400}{}{Brahmin débil}
+{11400}{}{Brahmin dÃ©bil}
 {11401}{}{Una vaca mutante de dos cabezas.}
 {11500}{}{A.Pwr.Armor (don't use)}
 {11600}{}{Rata mutada}
@@ -152,7 +152,7 @@
 {13600}{}{Ciberperro}
 {13700}{}{Guardia de la RNC}
 {13800}{}{Guardia de la RNC}
-{13900}{}{Guardia Meleé de la RNC}
+{13900}{}{Guardia MeleÃ© de la RNC}
 {14000}{}{Guardia Esclavista}
 {14100}{}{Supervisor Esclavista}
 {14200}{}{Gran Maestra Mercader}
@@ -172,7 +172,7 @@
 {15600}{}{Rata Topo de lucha}
 {15700}{}{Rata Topo de lucha}
 {15800}{}{Rata Topo de lucha}
-{15900}{}{Necrófago genérico}
+{15900}{}{NecrÃ³fago genÃ©rico}
 {16000}{}{Myron}
 {16100}{}{Marcus}
 {16200}{}{Doc Jones}
@@ -180,19 +180,19 @@
 {16400}{}{Miria}
 {16500}{}{Laddie}
 {16600}{}{Rondo}
-{16700}{}{Peón}
-{16800}{}{Peón}
-{16900}{}{Peón}
+{16700}{}{PeÃ³n}
+{16800}{}{PeÃ³n}
+{16900}{}{PeÃ³n}
 {17000}{}{Portera}
 {17100}{}{Portera}
-{17200}{}{Señor Mañoso débil}
-{17300}{}{Resplandeciente genérico}
+{17200}{}{SeÃ±or MaÃ±oso dÃ©bil}
+{17300}{}{Resplandeciente genÃ©rico}
 {17400}{}{Dar}
 {17500}{}{Dalia}
 {17600}{}{Gordon}
 {17700}{}{test (don't use)}
-{17800}{}{Necrófago del reactor}
-{17900}{}{Necrófago genérico}
+{17800}{}{NecrÃ³fago del reactor}
+{17900}{}{NecrÃ³fago genÃ©rico}
 {18000}{}{Matt}
 {18100}{}{Cazarrecompensas jefe (1-6)}
 {18200}{}{Cazarrecompensas (1-6)}
@@ -218,14 +218,14 @@
 {20100}{}{Petey}
 {20200}{}{Cazador primitivo}
 {20300}{}{Cazador primitivo}
-{20400}{}{Caníbal}
-{20500}{}{Caníbal}
+{20400}{}{CanÃ­bal}
+{20500}{}{CanÃ­bal}
 {20600}{}{Santo}
 {20700}{}{Santa}
-{20800}{}{Nómada - Baj}
-{20900}{}{Nómada - Med}
-{21000}{}{Nómada - Baj}
-{21100}{}{Nómada - Med}
+{20800}{}{NÃ³mada - Baj}
+{20900}{}{NÃ³mada - Med}
+{21000}{}{NÃ³mada - Baj}
+{21100}{}{NÃ³mada - Med}
 {21200}{}{Bandido}
 {21300}{}{Bandido}
 {21400}{}{Granjero}
@@ -241,9 +241,9 @@
 {22400}{}{Negrera fuerte}
 {22500}{}{Negrera fuerte}
 {22600}{}{Loco}
-{22700}{}{Carroñero}
+{22700}{}{CarroÃ±ero}
 {22800}{}{Loco del Ardor}
-{22900}{}{Carroñero del Ardor}
+{22900}{}{CarroÃ±ero del Ardor}
 {23000}{}{Pescador}
 {23100}{}{Pescadora}
 {23200}{}{Salvaje}
@@ -260,20 +260,20 @@
 {24300}{}{Alien duro}
 {24400}{}{Garra mortal duro}
 {24500}{}{Garra mortal dura}
-{24600}{}{Nómada}
-{24700}{}{Nómada sucio}
+{24600}{}{NÃ³mada}
+{24700}{}{NÃ³mada sucio}
 {24800}{}{Centauro}
 {24900}{}{Centauro malvado}
 {25000}{}{Patrullera del Enclave}
 {25100}{}{Patrullera del Enclave}
-{25200}{}{Gángster de la prensa}
-{25300}{}{Gángster de la prensa}
+{25200}{}{GÃ¡ngster de la prensa}
+{25300}{}{GÃ¡ngster de la prensa}
 {25400}{}{Mercenario}
 {25500}{}{Mercenario}
 {25600}{}{Nocturno}
 {25700}{}{Nocturno duro}
-{25800}{}{Necrófago duro}
-{25900}{}{Gángster}
+{25800}{}{NecrÃ³fago duro}
+{25900}{}{GÃ¡ngster}
 {26000}{}{Yakuza}
 {26100}{}{Ranger de la RNC}
 {26200}{}{Ranger de la RNC}
@@ -283,39 +283,39 @@
 {26600}{}{Rata Vorpal}
 {26700}{}{Hombre del Refugio 13}
 {26800}{}{Mujer del Refugio 13}
-{26900}{}{Guardián del puente}
-{27000}{}{Extraño Misterioso}
-{27100}{}{Extraño Misterioso}
+{26900}{}{GuardiÃ¡n del puente}
+{27000}{}{ExtraÃ±o Misterioso}
+{27100}{}{ExtraÃ±o Misterioso}
 {27200}{}{Hakeswill}
-{27300}{}{Gran Jesús Mordino}
+{27300}{}{Gran JesÃºs Mordino}
 {27400}{}{Dumar}
 {27500}{}{Garra mortal madre}
-{27600}{}{El Dragón}
+{27600}{}{El DragÃ³n}
 {27700}{}{Lo Pan}
 {27800}{}{Hubologista}
 {27900}{}{Hubologista}
-{28000}{}{Extraño Misterioso}
-{28100}{}{Extraño Misterioso}
-{28200}{}{Extraño Misterioso}
-{28300}{}{Extraño Misterioso}
-{28400}{}{Extraño Misterioso}
-{28500}{}{Extraño Misterioso}
-{28600}{}{Extraño Misterioso}
-{28700}{}{Extraño Misterioso}
+{28000}{}{ExtraÃ±o Misterioso}
+{28100}{}{ExtraÃ±o Misterioso}
+{28200}{}{ExtraÃ±o Misterioso}
+{28300}{}{ExtraÃ±o Misterioso}
+{28400}{}{ExtraÃ±o Misterioso}
+{28500}{}{ExtraÃ±o Misterioso}
+{28600}{}{ExtraÃ±o Misterioso}
+{28700}{}{ExtraÃ±o Misterioso}
 {28800}{}{Guardaespaldas del Presidente}
 {28900}{}{Huevo Garra mortal}
 {29000}{}{Metzger}
 {29100}{}{Persona}
-{29200}{}{Persona que lleva una especie de armadura extraña.}
+{29200}{}{Persona que lleva una especie de armadura extraÃ±a.}
 {29300}{}{Presidente}
 {29400}{}{Vicepresidente}
-{29500}{}{Técnico}
+{29500}{}{TÃ©cnico}
 {29600}{}{Badger}
 {29700}{}{Doctor Fung}
 {29800}{}{Chico}
 {29900}{}{Chico}
 {30000}{}{Comerciante de armas}
-{30100}{}{Técnico Shi de laboratorio}
+{30100}{}{TÃ©cnico Shi de laboratorio}
 {30200}{}{Guardia de Shi}
 {30300}{}{Campesina Shi}
 {30400}{}{Campesina Shi}
@@ -356,23 +356,23 @@
 {33900}{}{Cassidy - Nivel 2}
 {34000}{}{Cassidy - Nivel 3}
 {34100}{}{Cassidy - Nivel 4}
-{34200}{}{Albóndiga}
-{34300}{}{Albóndiga - Nivel 1}
-{34400}{}{Albóndiga - Nivel 2}
-{34500}{}{Albóndiga - Nivel 3}
-{34600}{}{Albóndiga - Nivel 4}
-{34700}{}{Albóndiga - Nivel 5}
-{34800}{}{Albóndiga - Nivel 6}
+{34200}{}{AlbÃ³ndiga}
+{34300}{}{AlbÃ³ndiga - Nivel 1}
+{34400}{}{AlbÃ³ndiga - Nivel 2}
+{34500}{}{AlbÃ³ndiga - Nivel 3}
+{34600}{}{AlbÃ³ndiga - Nivel 4}
+{34700}{}{AlbÃ³ndiga - Nivel 5}
+{34800}{}{AlbÃ³ndiga - Nivel 6}
 {34900}{}{Robocerebro - Nivel 1}
 {35000}{}{Robocerebro - Nivel 2}
 {35100}{}{Robocerebro - Nivel 3}
 {35200}{}{Robocerebro - Nivel 4}
 {35300}{}{Robocerebro - Nivel 5}
 {35400}{}{Reina Alien}
-{35500}{}{Escorpión rad negro}
-{35600}{}{Escorpión rad negro}
+{35500}{}{EscorpiÃ³n rad negro}
+{35600}{}{EscorpiÃ³n rad negro}
 {35700}{}{Spud}
-{35800}{}{Capitán de mercenarios}
+{35800}{}{CapitÃ¡n de mercenarios}
 {35900}{}{Mercenario}
 {36000}{}{Mercenario}
 {36100}{}{Sombra-que-Camina}
@@ -380,7 +380,7 @@
 {36300}{}{Vagabundo}
 {36400}{}{Marc}
 {36500}{}{Dave H.}
-{36600}{}{Capitán A. Ron Meyers}
+{36600}{}{CapitÃ¡n A. Ron Meyers}
 {36700}{}{Chip}
 {36800}{}{AHS-9}
 {36900}{}{Guardia Hubologista}
@@ -393,7 +393,7 @@
 {37600}{}{Vic - Nivel 4}
 {37700}{}{Vic - Nivel 5}
 {37800}{}{Vic - Nivel 6}
-{37900}{}{Robocerebro - Chimpancé}
+{37900}{}{Robocerebro - ChimpancÃ©}
 {38000}{}{Robocerebro - Anormal}
 {38100}{}{Robocerebro - Humano}
 {38200}{}{Hormiga gigante}
@@ -413,21 +413,21 @@
 {39600}{}{Maestro Khung}
 {39700}{}{John Bishop}
 {39800}{}{Angela Bishop}
-{39900}{}{Señora Bishop}
+{39900}{}{SeÃ±ora Bishop}
 {40000}{}{Guardia de Bishop 1}
 {40100}{}{Guardia de Bishop 2}
-{40200}{}{Matón de Bishop 1}
-{40300}{}{Matón de Bishop 2}
+{40200}{}{MatÃ³n de Bishop 1}
+{40300}{}{MatÃ³n de Bishop 2}
 {40400}{}{Brahmin furioso}
-{40500}{}{Pequeño Jesús}
-{40600}{}{Gran Jesús}
+{40500}{}{PequeÃ±o JesÃºs}
+{40600}{}{Gran JesÃºs}
 {40700}{}{Hombre de Mordino 1}
 {40800}{}{Hombre de Mordino 2}
 {40900}{}{Hombre de Mordino 3}
 {41000}{}{Guardia de Myron 1}
 {41100}{}{Guardia de Myron 2}
-{41200}{}{Señor Wright}
-{41300}{}{Señora Wright}
+{41200}{}{SeÃ±or Wright}
+{41300}{}{SeÃ±ora Wright}
 {41400}{}{Chris Wright}
 {41500}{}{Keith Wright}
 {41600}{}{Hijo de Wright 1}
@@ -436,11 +436,11 @@
 {41900}{}{Hija de Wright 2}
 {42000}{}{Don Salvatore}
 {42100}{}{Mason}
-{42200}{}{Matón de Salvatore 1}
-{42300}{}{Matón de Salvatore 2}
-{42400}{}{Camarero genérico 1}
-{42500}{}{Camarero genérico 2}
-{42600}{}{Camarero genérico 3}
+{42200}{}{MatÃ³n de Salvatore 1}
+{42300}{}{MatÃ³n de Salvatore 2}
+{42400}{}{Camarero genÃ©rico 1}
+{42500}{}{Camarero genÃ©rico 2}
+{42600}{}{Camarero genÃ©rico 3}
 {42700}{}{Boxeador 1}
 {42800}{}{Boxeador 2}
 {42900}{}{Boxeador 3}
@@ -461,16 +461,16 @@
 {44400}{}{Camello 4}
 {44500}{}{McGee}
 {44600}{}{Miss Kitty}
-{44700}{}{Prostituta genérica 1}
-{44800}{}{Prostituta genérica 2}
+{44700}{}{Prostituta genÃ©rica 1}
+{44800}{}{Prostituta genÃ©rica 2}
 {44900}{}{Jeta Jimmy J}
 {45000}{}{Renesco}
-{45100}{}{Científico}
+{45100}{}{CientÃ­fico}
 {45200}{}{Eldridge}
 {45300}{}{Algernon}
 {45400}{}{Jules}
-{45500}{}{Burócrata 1}
-{45600}{}{Burócrata 2}
+{45500}{}{BurÃ³crata 1}
+{45600}{}{BurÃ³crata 2}
 {45700}{}{Comerciante 1}
 {45800}{}{Comerciante 2}
 {45900}{}{Guardia 1}
@@ -485,25 +485,25 @@
 {46800}{}{"Doc" Andrew}
 {46900}{}{Camarero}
 {47000}{}{Torreta armada}
-{47001}{}{Una torreta automatizada equipada con un cañón doble de plasma.}
+{47001}{}{Una torreta automatizada equipada con un caÃ±Ã³n doble de plasma.}
 {47100}{}{K-9 (base)}
 {47200}{}{K-9 (Nivel 1)}
 {47300}{}{K-9 (Nivel 2)}
 {47400}{}{K-9 (Nivel 3)}
 {47500}{}{K-9 (Nivel 4)}
-{47600}{}{Ciberperro genérico}
+{47600}{}{Ciberperro genÃ©rico}
 {47700}{}{Huevo de Wanamingo}
 {47800}{}{Guardia de Lo Pan}
 {47900}{}{Marjorie}
-{48000}{}{Cañón automático}
+{48000}{}{CaÃ±Ã³n automÃ¡tico}
 {48100}{}{Gecko especial}
 {48200}{}{La Muerte}
 {48300}{}{Frank Horrigan}
 {48301}{}{Guardaespaldas del Presidente.}
 {48400}{}{Nessa}
 {48401}{}{El fantasma de los muertos Nessa.}
-{48500}{}{Chamán}
-{48501}{}{Tribal chamán.}
+{48500}{}{ChamÃ¡n}
+{48501}{}{Tribal chamÃ¡n.}
 {48600}{}{Guerrero }
 {48601}{}{La tribu de guerrero.}
 {48700}{}{Guardia}
@@ -522,20 +522,20 @@
 {49700}{}{Holograma 10031}
 {49701}{}{Holograma para el director de la Planta de Mantenimiento.}
 {49800}{}{Holograma 40011}
-{49801}{}{Holograma para el Director de Relaciones Públicas.}
-{49900}{}{El Señor Práctico Robot}
-{49901}{}{Una depresión grave de la versión de el Señor la Mano del Robot.}
-{50000}{}{El Médico}
-{50001}{}{El principal - y único - Médico de la izquierda en la EPA.}
+{49801}{}{Holograma para el Director de Relaciones PÃºblicas.}
+{49900}{}{El SeÃ±or PrÃ¡ctico Robot}
+{49901}{}{Una depresiÃ³n grave de la versiÃ³n de el SeÃ±or la Mano del Robot.}
+{50000}{}{El MÃ©dico}
+{50001}{}{El principal - y Ãºnico - MÃ©dico de la izquierda en la EPA.}
 {50100}{}{La EPA de Esporas de la Planta}
 {50101}{}{Una muy mutado de esporas de la planta.}
 {50200}{}{Kitsune}
 {50300}{}{Dex}
 {50400}{}{Cat Jules}
 {50500}{}{Del Doctor Guerrero}
-{50501}{}{Un guerrero para el médico.}
+{50501}{}{Un guerrero para el mÃ©dico.}
 {50600}{}{La mosca de la fruta}
-{50601}{}{Una mutación de la mosca de la fruta.}
+{50601}{}{Una mutaciÃ³n de la mosca de la fruta.}
 {50700}{}{Un holograma}
 {50701}{}{Un holograma.}
 {50800}{}{Kitsune - nivel 1}
@@ -566,15 +566,15 @@
 {53300}{}{Lucas Skynet}
 {53400}{}{De Lunes A Morticia}
 {53500}{}{Kanhef}
-{53600}{}{Ojo de halcón}
+{53600}{}{Ojo de halcÃ³n}
 {53700}{}{Dravean}
-{53800}{}{El Señor Wolna}
+{53800}{}{El SeÃ±or Wolna}
 {53900}{}{encinodude}
 {54000}{}{Minigun Jim}
 {54100}{}{Bofast}
 {54200}{}{Krom}
 {54300}{}{La Madre De Esporas De La Planta}
-{54400}{}{Madre Alienígena}
+{54400}{}{Madre AlienÃ­gena}
 {54500}{}{La EPA de Esporas de la Planta}
 {54501}{}{Una muy mutado de esporas de la planta.}
 {54600}{}{Perro salvaje}

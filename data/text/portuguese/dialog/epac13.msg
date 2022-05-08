@@ -1,8 +1,8 @@
-{100}{}{Você vê um Guerreiro.}
-{101}{}{Você vê um guerreiro de aparência feroz. Espuma está escorrendo do queixo.}
-{102}{}{Um dos guarda-costas pessoais do médico.}
-{103}{}{Vamos matá-lo!}
+{100}{}{VocÃª vÃª um Guerreiro.}
+{101}{}{VocÃª vÃª um guerreiro de aparÃªncia feroz. Espuma estÃ¡ escorrendo do queixo.}
+{102}{}{Um dos guarda-costas pessoais do mÃ©dico.}
+{103}{}{Vamos matÃ¡-lo!}
 {104}{}{Deixe o doutor sozinho!}
-{105}{}{Eu odeio o Médico!}
-{106}{}{Proteger o Médico!!!}
-{107}{}{Eu não falo com você.}
+{105}{}{Eu odeio o MÃ©dico!}
+{106}{}{Proteger o MÃ©dico!!!}
+{107}{}{Eu nÃ£o falo com vocÃª.}

@@ -1,67 +1,67 @@
-{100}{}{Ves a una mujer joven con armadura metálica.}
+{100}{}{Ves a una mujer joven con armadura metÃ¡lica.}
 {101}{}{Ves a Dalia.}
-{102}{}{Ves a una mujer joven y bonita con armadura metálica. Vigila lo que le rodea con mucha
- atención.}
-{103}{}{¿Cómo te va,}
-{104}{}{Tú Dalia. Recuerdo tú ayudas.}
+{102}{}{Ves a una mujer joven y bonita con armadura metÃ¡lica. Vigila lo que le rodea con mucha
+ atenciÃ³n.}
+{103}{}{Â¿CÃ³mo te va,}
+{104}{}{TÃº Dalia. Recuerdo tÃº ayudas.}
 {105}{}{Las cosas bien. Marcho ahora.}
-{106}{}{¡Dalia! Gracias a ti, las cosas fueron genial.}
-{107}{}{Las cosas están bien, pero tengo que irme.}
-{108}{}{Vaya, me alegra oír eso. Fue un placer hacer lo que pude por ti. Así que, ¿en qué puedo
+{106}{}{Â¡Dalia! Gracias a ti, las cosas fueron genial.}
+{107}{}{Las cosas estÃ¡n bien, pero tengo que irme.}
+{108}{}{Vaya, me alegra oÃ­r eso. Fue un placer hacer lo que pude por ti. AsÃ­ que, Â¿en quÃ© puedo
  ayudarte?}
 {109}{}{Tengo preguntas.}
 {110}{}{Nada. Digo hola.}
 {111}{}{Tengo algunas preguntas para ti.}
-{112}{}{Nada. Pero me agrada verte de nuevo. Adiós.}
-{113}{}{¿Qué quieres saber?}
-{114}{}{Tú prisionera.}
-{115}{}{¿Marchas cuando quieres tú?}
-{116}{}{¿Sabes cosas de Garras?}
-{117}{}{¿Cómo vienes aquí?}
-{118}{}{¿Por qué preocupa estar seguro tú?}
+{112}{}{Nada. Pero me agrada verte de nuevo. AdiÃ³s.}
+{113}{}{Â¿QuÃ© quieres saber?}
+{114}{}{TÃº prisionera.}
+{115}{}{Â¿Marchas cuando quieres tÃº?}
+{116}{}{Â¿Sabes cosas de Garras?}
+{117}{}{Â¿CÃ³mo vienes aquÃ­?}
+{118}{}{Â¿Por quÃ© preocupa estar seguro tÃº?}
 {119}{}{Gracias. Marcho.}
-{120}{}{¿Eres prisionero aquí?}
-{121}{}{¿Puedes marcharte en el momento que quieras?}
-{122}{}{¿Qué puedes contarme de las Garras mortales?}
-{123}{}{¿Cómo llegaste hasta aquí?}
-{124}{}{¿Por qué te preocupa necesitar un lugar seguro?}
-{125}{}{Gracias. Hablaré contigo más tarde.}
-{126}{}{No, no lo soy. Estoy aquí por voluntad propia y me gusta. Creo que este será un lugar seguro para
+{120}{}{Â¿Eres prisionero aquÃ­?}
+{121}{}{Â¿Puedes marcharte en el momento que quieras?}
+{122}{}{Â¿QuÃ© puedes contarme de las Garras mortales?}
+{123}{}{Â¿CÃ³mo llegaste hasta aquÃ­?}
+{124}{}{Â¿Por quÃ© te preocupa necesitar un lugar seguro?}
+{125}{}{Gracias. HablarÃ© contigo mÃ¡s tarde.}
+{126}{}{No, no lo soy. Estoy aquÃ­ por voluntad propia y me gusta. Creo que este serÃ¡ un lugar seguro para
  que me quede por un tiempo.}
 {127}{}{Vale.}
-{128}{}{Adiós.}
+{128}{}{AdiÃ³s.}
 {129}{}{De acuerdo.}
-{130}{}{Ya veo. Bueno, seguiré entonces.}
-{131}{}{Sí, me han dicho que soy libre de irme o quedarme. Me quedaré por ahora.}
+{130}{}{Ya veo. Bueno, seguirÃ© entonces.}
+{131}{}{SÃ­, me han dicho que soy libre de irme o quedarme. Me quedarÃ© por ahora.}
 {132}{}{Veo.}
 {133}{}{De acuerdo entonces.}
-{134}{}{No sé sobre ellos más de lo que tú, supongo. Todavía estoy tratando de acostumbrarme
- a que me hablen en lugar de arrancarme la cabeza para usarla como pelota de golf. Da miedo, ¿sabes?}
-{135}{}{Sí, me molestó.}
-{136}{}{Bah, me acostumbré.}
-{137}{}{Sí, en muchos sentidos.}
+{134}{}{No sÃ© sobre ellos mÃ¡s de lo que tÃº, supongo. TodavÃ­a estoy tratando de acostumbrarme
+ a que me hablen en lugar de arrancarme la cabeza para usarla como pelota de golf. Da miedo, Â¿sabes?}
+{135}{}{SÃ­, me molestÃ³.}
+{136}{}{Bah, me acostumbrÃ©.}
+{137}{}{SÃ­, en muchos sentidos.}
 {138}{}{No, he llegado a aceptarlo.}
-{139}{}{Tras abandonar Ocupación no sabía qué hacer. Pensé en no hacer más que dejarme caer por
- otra ciudad y conseguir otro trabajo como pistolera... así que estaba vagando por el desierto intentando decidir exactamente dónde
- ir. Bueno, un día estaba buscando un buen lugar donde acampar. Se estaba haciendo tarde, y no
- quería estar a la intemperie durante la noche. A lo lejos, me pareció ver un fuego de campamento... así que
- decidí comprobar quién estaba allí.}
+{139}{}{Tras abandonar OcupaciÃ³n no sabÃ­a quÃ© hacer. PensÃ© en no hacer mÃ¡s que dejarme caer por
+ otra ciudad y conseguir otro trabajo como pistolera... asÃ­ que estaba vagando por el desierto intentando decidir exactamente dÃ³nde
+ ir. Bueno, un dÃ­a estaba buscando un buen lugar donde acampar. Se estaba haciendo tarde, y no
+ querÃ­a estar a la intemperie durante la noche. A lo lejos, me pareciÃ³ ver un fuego de campamento... asÃ­ que
+ decidÃ­ comprobar quiÃ©n estaba allÃ­.}
 {140}{}{Vaya.}
 {141}{}{Interesante.}
-{142}{}{Cuando me dejaste en Ocupación, rompí mi contrato con mi patrono. Estaba segura de que me
- perseguirían y matarían debido a ello. Verte aquí me convence de que no tengo que preocuparme por
- eso. Sólo puedo suponer que mi antiguo patrono ya no está en condiciones de preocuparse por mí
+{142}{}{Cuando me dejaste en OcupaciÃ³n, rompÃ­ mi contrato con mi patrono. Estaba segura de que me
+ perseguirÃ­an y matarÃ­an debido a ello. Verte aquÃ­ me convence de que no tengo que preocuparme por
+ eso. SÃ³lo puedo suponer que mi antiguo patrono ya no estÃ¡ en condiciones de preocuparse por mÃ­
  o por mi paradero.}
-{143}{}{Ahora tú segura. Dalia no debe preocupar.}
-{144}{}{Ahora estás segura, Dalia. No tendrás que preocuparte de ningún castigo.}
+{143}{}{Ahora tÃº segura. Dalia no debe preocupar.}
+{144}{}{Ahora estÃ¡s segura, Dalia. No tendrÃ¡s que preocuparte de ningÃºn castigo.}
 {145}{}{Gracias,}
 {146}{}{De nada.}
-{147}{}{Adiós.}
-{148}{}{No hay de qué.}
+{147}{}{AdiÃ³s.}
+{148}{}{No hay de quÃ©.}
 {149}{}{Nos vemos.}
 {150}{}{Hola.}
-{151}{}{Hola otra vez. ¿Cómo va todo?}
-{152}{}{No tengo ningún problema contigo. }
-{153}{}{? Espero que todo te fuera bien en Ocupación.}
-{154}{}{Así pues, me acerqué furtivamente a este campamento y allí estaban esas dos Garras mortales sentadas junto al fuego charlando. Idiota de mí, se me escapó un pequeño grito de sorpresa, me levanté y empecé a correr... justo a los brazos de otra Garra mortal que estaba justo detrás de mí. De todas formas, para acortar la historia, me llevó un tiempo comprender que no estaba a punto de ser puesta en un asador para prepararme a la barbacoa. En vez de eso, me trajeron aquí y tuve una 'entrevista' con Gruthar. Ahora puedo vivir aquí si quiero.}
+{151}{}{Hola otra vez. Â¿CÃ³mo va todo?}
+{152}{}{No tengo ningÃºn problema contigo. }
+{153}{}{? Espero que todo te fuera bien en OcupaciÃ³n.}
+{154}{}{AsÃ­ pues, me acerquÃ© furtivamente a este campamento y allÃ­ estaban esas dos Garras mortales sentadas junto al fuego charlando. Idiota de mÃ­, se me escapÃ³ un pequeÃ±o grito de sorpresa, me levantÃ© y empecÃ© a correr... justo a los brazos de otra Garra mortal que estaba justo detrÃ¡s de mÃ­. De todas formas, para acortar la historia, me llevÃ³ un tiempo comprender que no estaba a punto de ser puesta en un asador para prepararme a la barbacoa. En vez de eso, me trajeron aquÃ­ y tuve una 'entrevista' con Gruthar. Ahora puedo vivir aquÃ­ si quiero.}
 {155}{}{. Eso me quita un peso de encima.}

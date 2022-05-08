@@ -1,60 +1,60 @@
-{100}{}{? a Karavánmester.}
-{101}{}{A Teremt?nek hála, itt vagy, amikor szükség van rád. Úgy t?nik, egyre rizikósabb eljutni az egyik helyr?l a másikra anélkül, hogy meg ne támadnának.}
-{102}{}{Miben segíthetek?}
+{100}{}{? a KaravÃ¡nmester.}
+{101}{}{A Teremt?nek hÃ¡la, itt vagy, amikor szÃ¼ksÃ©g van rÃ¡d. Ãšgy t?nik, egyre rizikÃ³sabb eljutni az egyik helyr?l a mÃ¡sikra anÃ©lkÃ¼l, hogy meg ne tÃ¡madnÃ¡nak.}
+{102}{}{Miben segÃ­thetek?}
 {103}{}{Merre tartotok?}
-{104}{}{Mi a szállítmányotok?}
-{105}{}{Viszlát!}
+{104}{}{Mi a szÃ¡llÃ­tmÃ¡nyotok?}
+{105}{}{ViszlÃ¡t!}
 {106}{}{Ah...}
-{107}{}{A rakományt }
-{108}{}{ megbízásából pakoltam fel, a célpontunk pedig nem más, mint }
+{107}{}{A rakomÃ¡nyt }
+{108}{}{ megbÃ­zÃ¡sÃ¡bÃ³l pakoltam fel, a cÃ©lpontunk pedig nem mÃ¡s, mint }
 {109}{}{ vagyok.}
-{110}{}{Mi a szállítmányotok?}
-{111}{}{Viszlát!}
-{112}{}{A szállítmány }
-{113}{}{Esetleg csereberélhetnénk?}
+{110}{}{Mi a szÃ¡llÃ­tmÃ¡nyotok?}
+{111}{}{ViszlÃ¡t!}
+{112}{}{A szÃ¡llÃ­tmÃ¡ny }
+{113}{}{Esetleg csereberÃ©lhetnÃ©nk?}
 {114}{}{Merre tartotok?}
-{115}{}{Viszlát!}
-{116}{}{Hát, nem is tudom, miért ne tehetnénk, hiszen segítettél rajtunk a balhéban. Szóval, miért ne... íme a választék.}
+{115}{}{ViszlÃ¡t!}
+{116}{}{HÃ¡t, nem is tudom, miÃ©rt ne tehetnÃ©nk, hiszen segÃ­tettÃ©l rajtunk a balhÃ©ban. SzÃ³val, miÃ©rt ne... Ã­me a vÃ¡lasztÃ©k.}
 {117}{}{[Cserebere]}
 {118}{}{Meggondoltam magam.}
-{119}{}{Tudom, hogy láttalak már valahol! Szent ég! Te vagy azokon a körözvényeken! Nézd, nem akarunk bajt. Menj az utadra, és mi is megyünk az utunkra! Senkinek nem fogom elmondani, hogy találkoztunk. Indulj!}
-{120}{}{Hé! Te vagy az a személy, aki minden körözési plakáton rajta van. Egyet se aggódj, nem fogunk beköpni. Amennyire emlékszem, engem is köröznek egy-két helyen. Azt hiszem, mintha kereskedni akartunk volna...}
+{119}{}{Tudom, hogy lÃ¡ttalak mÃ¡r valahol! Szent Ã©g! Te vagy azokon a kÃ¶rÃ¶zvÃ©nyeken! NÃ©zd, nem akarunk bajt. Menj az utadra, Ã©s mi is megyÃ¼nk az utunkra! Senkinek nem fogom elmondani, hogy talÃ¡lkoztunk. Indulj!}
+{120}{}{HÃ©! Te vagy az a szemÃ©ly, aki minden kÃ¶rÃ¶zÃ©si plakÃ¡ton rajta van. Egyet se aggÃ³dj, nem fogunk bekÃ¶pni. Amennyire emlÃ©kszem, engem is kÃ¶rÃ¶znek egy-kÃ©t helyen. Azt hiszem, mintha kereskedni akartunk volna...}
 {121}{}{[Cserebere]}
-{122}{}{Rendben van. Most mennünk kell. Ne aggódj, nem fogunk beárulni a törvény szolgáinak!}
-{123}{}{Na, várjunk egy percet! Hallottam már rólad. Te vagy az a jótét lélek, aki városról-városra jár, és segít az embereknek. Nem szeretjük a fajtádat, szóval lehet lekopni!}
-{124}{}{Jó dolgokat hallottam egy személyr?l, aki a leírások alapján szakasztott olyan, mint te. Szerintem csak jó sülhet ki abból, ha üzletelnék veled. Itt van az árum...}
+{122}{}{Rendben van. Most mennÃ¼nk kell. Ne aggÃ³dj, nem fogunk beÃ¡rulni a tÃ¶rvÃ©ny szolgÃ¡inak!}
+{123}{}{Na, vÃ¡rjunk egy percet! Hallottam mÃ¡r rÃ³lad. Te vagy az a jÃ³tÃ©t lÃ©lek, aki vÃ¡rosrÃ³l-vÃ¡rosra jÃ¡r, Ã©s segÃ­t az embereknek. Nem szeretjÃ¼k a fajtÃ¡dat, szÃ³val lehet lekopni!}
+{124}{}{JÃ³ dolgokat hallottam egy szemÃ©lyr?l, aki a leÃ­rÃ¡sok alapjÃ¡n szakasztott olyan, mint te. Szerintem csak jÃ³ sÃ¼lhet ki abbÃ³l, ha Ã¼zletelnÃ©k veled. Itt van az Ã¡rum...}
 {125}{}{[Cserebere]}
-{126}{}{Viszlát!}
-{127}{}{Már hallottam rólad. Te vagy az a kemény figura, akinek a balhéiról ódákat zengedeznek. Régóta akarok már találkozni veled, hogy megrázhassam a kezed. Ha arra a számos vérfagyasztó pletykára gondolok, ami rólad szól, könny szökik a szemembe. Nagy megtiszteltetés lenne, ha üzletelnél velem.}
+{126}{}{ViszlÃ¡t!}
+{127}{}{MÃ¡r hallottam rÃ³lad. Te vagy az a kemÃ©ny figura, akinek a balhÃ©irÃ³l Ã³dÃ¡kat zengedeznek. RÃ©gÃ³ta akarok mÃ¡r talÃ¡lkozni veled, hogy megrÃ¡zhassam a kezed. Ha arra a szÃ¡mos vÃ©rfagyasztÃ³ pletykÃ¡ra gondolok, ami rÃ³lad szÃ³l, kÃ¶nny szÃ¶kik a szemembe. Nagy megtiszteltetÃ©s lenne, ha Ã¼zletelnÃ©l velem.}
 {128}{}{[Cserebere]}
-{129}{}{Csá...}
-{130}{}{Azt rebesgetik, hogy egy hozzád hasonló alak sok bajt kevert mostanában. A magadfajtákkal nem szoktunk üzletelni. Bocs...}
-{131}{}{Nem tudom, miért köröznek téged, és nem is igazán érdekel. A magadfajtákkal nem szoktunk üzletelni.}
-{132}{}{Miért nem boldogítasz másokat? }
-{133}{}{Meggy?z?désem, hogy a hozzád hasonlóan hírhedt figuráknak máshol kell utánpótlást szereznie...}
-{134}{}{Mondd csak, mi járatban vagy?}
+{129}{}{CsÃ¡...}
+{130}{}{Azt rebesgetik, hogy egy hozzÃ¡d hasonlÃ³ alak sok bajt kevert mostanÃ¡ban. A magadfajtÃ¡kkal nem szoktunk Ã¼zletelni. Bocs...}
+{131}{}{Nem tudom, miÃ©rt kÃ¶rÃ¶znek tÃ©ged, Ã©s nem is igazÃ¡n Ã©rdekel. A magadfajtÃ¡kkal nem szoktunk Ã¼zletelni.}
+{132}{}{MiÃ©rt nem boldogÃ­tasz mÃ¡sokat? }
+{133}{}{Meggy?z?dÃ©sem, hogy a hozzÃ¡d hasonlÃ³an hÃ­rhedt figurÃ¡knak mÃ¡shol kell utÃ¡npÃ³tlÃ¡st szereznie...}
+{134}{}{Mondd csak, mi jÃ¡ratban vagy?}
 {135}{}{Merre tartotok?}
-{136}{}{Mi a szállítmányotok?}
-{137}{}{Viszlát!}
+{136}{}{Mi a szÃ¡llÃ­tmÃ¡nyotok?}
+{137}{}{ViszlÃ¡t!}
 {138}{}{Ah...}
-{139}{}{Ez... remek. Szép napot... }
-{150}{}{gyógyszerekb?l áll.}
-{151}{}{tartalma aranyérc.}
-{152}{}{tartalma uráncérc.}
-{153}{}{nem más, mint egy halom mez?gazdasági termék.}
+{139}{}{Ez... remek. SzÃ©p napot... }
+{150}{}{gyÃ³gyszerekb?l Ã¡ll.}
+{151}{}{tartalma aranyÃ©rc.}
+{152}{}{tartalma urÃ¡ncÃ©rc.}
+{153}{}{nem mÃ¡s, mint egy halom mez?gazdasÃ¡gi termÃ©k.}
 {154}{}{drugs.}
-{155}{}{néhány rabszolga.}
+{155}{}{nÃ©hÃ¡ny rabszolga.}
 {156}{}{csupa hasznos kis holmi.}
 {198}{}{New Reno}
 {199}{}{Rejtek}
 {200}{}{Arroyo}
 {201}{}{Redding}
-{202}{}{Menedékváros}
-{203}{}{az ÚKK}
+{202}{}{MenedÃ©kvÃ¡ros}
+{203}{}{az ÃšKK}
 {204}{}{Broken Hills}
-{205}{}{Gekkó}
+{205}{}{GekkÃ³}
 {206}{}{San Francisco}
 {207}{}{Modoc}
 {208}{}{Klamath}
-{209}{}{a 15-ös Menedék}
-{300}{}{Kösz, hogy üzletelhettünk.}
+{209}{}{a 15-Ã¶s MenedÃ©k}
+{300}{}{KÃ¶sz, hogy Ã¼zletelhettÃ¼nk.}

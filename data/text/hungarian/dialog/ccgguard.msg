@@ -1,55 +1,55 @@
-{100}{}{Egy ?rt látsz.}
-{101}{}{Egy kapu?rt látsz.}
-{102}{}{Egy ?r áll itt, rajta valami különös er?páncél. Van egy jel a mellkasán, amit nem tudsz hova tenni.}
-{103}{gate1}{Állj! Ez szövetségi terület! Hivatalos engedély nélkül tilos a belépés!}
-{104}{}{Öhm... szöv... etes... ségi?}
-{105}{}{Nekünk lenni engedély... hová is tenni?}
-{106}{}{Én új. Mondani várnak.}
-{107}{}{Óh-oh. Sajnálni. Mi menni inkább.}
-{108}{}{Van engedélyem... hová is tettem?}
-{109}{}{Újonc vagyok. Az mondták, számítotok rám.}
-{110}{}{Bocsánat. Akkor megyek.}
-{111}{gate2}{Kicsit lassú a felfogásod, nem igaz? Na, húzz innen és vissza ne gyere! Úgy nem esik bajod. Megértetted?}
+{100}{}{Egy ?rt lÃ¡tsz.}
+{101}{}{Egy kapu?rt lÃ¡tsz.}
+{102}{}{Egy ?r Ã¡ll itt, rajta valami kÃ¼lÃ¶nÃ¶s er?pÃ¡ncÃ©l. Van egy jel a mellkasÃ¡n, amit nem tudsz hova tenni.}
+{103}{gate1}{Ãllj! Ez szÃ¶vetsÃ©gi terÃ¼let! Hivatalos engedÃ©ly nÃ©lkÃ¼l tilos a belÃ©pÃ©s!}
+{104}{}{Ã–hm... szÃ¶v... etes... sÃ©gi?}
+{105}{}{NekÃ¼nk lenni engedÃ©ly... hovÃ¡ is tenni?}
+{106}{}{Ã‰n Ãºj. Mondani vÃ¡rnak.}
+{107}{}{Ã“h-oh. SajnÃ¡lni. Mi menni inkÃ¡bb.}
+{108}{}{Van engedÃ©lyem... hovÃ¡ is tettem?}
+{109}{}{Ãšjonc vagyok. Az mondtÃ¡k, szÃ¡mÃ­totok rÃ¡m.}
+{110}{}{BocsÃ¡nat. Akkor megyek.}
+{111}{gate2}{Kicsit lassÃº a felfogÃ¡sod, nem igaz? Na, hÃºzz innen Ã©s vissza ne gyere! Ãšgy nem esik bajod. MegÃ©rtetted?}
 {112}{}{Szeretni bemenni.}
-{113}{}{Oké. Megyek.}
-{114}{gate3}{Senki sem mehet be... Anyám! (lassan) Kell neked lenni ENGEDÉLY, hogy bemehess. Szóval, te menni el. Ha nem menni el, bajod esni. Megérteni, seggfej?}
-{115}{}{Mi vón, ha mi adni neked kis ólmot, se... se... seffej?}
-{116}{}{Oké. Megyek.}
-{117}{gate14}{(az ujját a ravaszra teszi) Csak ne menteget?zz itt nekem. Vagy megmutatod az engedélyed, vagy megmondod a jelszót, vagy fogom ezt itt ni, és cseppfolyósítlak vele. Megértetted?}
-{118}{}{Nem találni engedély, jelszóra nem emlékezni!}
-{119}{}{Baszd meg! Most megölni tégedet ezért!}
-{120}{}{Bocs, elvesztettem az engedélyemet, a jelszóról meg nem tudok semmit.}
-{121}{}{Baszódj meg te is, meg a fajtád is!}
+{113}{}{OkÃ©. Megyek.}
+{114}{gate3}{Senki sem mehet be... AnyÃ¡m! (lassan) Kell neked lenni ENGEDÃ‰LY, hogy bemehess. SzÃ³val, te menni el. Ha nem menni el, bajod esni. MegÃ©rteni, seggfej?}
+{115}{}{Mi vÃ³n, ha mi adni neked kis Ã³lmot, se... se... seffej?}
+{116}{}{OkÃ©. Megyek.}
+{117}{gate14}{(az ujjÃ¡t a ravaszra teszi) Csak ne menteget?zz itt nekem. Vagy megmutatod az engedÃ©lyed, vagy megmondod a jelszÃ³t, vagy fogom ezt itt ni, Ã©s cseppfolyÃ³sÃ­tlak vele. MegÃ©rtetted?}
+{118}{}{Nem talÃ¡lni engedÃ©ly, jelszÃ³ra nem emlÃ©kezni!}
+{119}{}{Baszd meg! Most megÃ¶lni tÃ©gedet ezÃ©rt!}
+{120}{}{Bocs, elvesztettem az engedÃ©lyemet, a jelszÃ³rÃ³l meg nem tudok semmit.}
+{121}{}{BaszÃ³dj meg te is, meg a fajtÃ¡d is!}
 {122}{gate5}{I suggest you leave this installation immediately and do not return here without proper authorization. Do I make myself clear?}
 {123}{}{Igen.}
-{124}{gate6a}{Értem. Hallhatnám a jelszót?}
-{125}{gate6b}{Értem. (az ujját ravaszra teszi) Minden újoncnak egyedül kell szolgálatra jelentkeznie. Addig is azt javaslom, hagyd el a létesítményt, és ne kísérletezz azzal, hogy vissza-visszajösz! Megértetted?}
-{126}{}{Tökfilkó.}
+{124}{gate6a}{Ã‰rtem. HallhatnÃ¡m a jelszÃ³t?}
+{125}{gate6b}{Ã‰rtem. (az ujjÃ¡t ravaszra teszi) Minden Ãºjoncnak egyedÃ¼l kell szolgÃ¡latra jelentkeznie. Addig is azt javaslom, hagyd el a lÃ©tesÃ­tmÃ©nyt, Ã©s ne kÃ­sÃ©rletezz azzal, hogy vissza-visszajÃ¶sz! MegÃ©rtetted?}
+{126}{}{TÃ¶kfilkÃ³.}
 {127}{}{Igen.}
-{128}{gate7a}{Egy pillanat. (kis szünet) Oké, bemehetsz. Jelentkezz a kiképz?dnél! Menj át a kapun, el a kutyaólak mellett, és az els? ajtó jobbra.}
-{129}{gate7b}{(motyog) Ezek a kibaszott újoncok egyre hülyébbek.}
-{130}{}{Oké.}
-{131}{gate8a}{Állj! - Ah, látom visszajöttél, és ezúttal egyedül. Jól van, újonc, mi a jelszó?}
-{132}{gate8b}{Állj! - Már megint te vagy?! Még mindig veled van a csapatod! (a kezét a ravaszra teszi) Minden újoncnak egyedül kell jelentkeznie a szolgálatra. Addig is azt javaslom, hagyd el a létesítményt, és ne gyere vissza a kíséreteddel. Megértetted?}
-{133}{}{Tökfilkó.}
+{128}{gate7a}{Egy pillanat. (kis szÃ¼net) OkÃ©, bemehetsz. Jelentkezz a kikÃ©pz?dnÃ©l! Menj Ã¡t a kapun, el a kutyaÃ³lak mellett, Ã©s az els? ajtÃ³ jobbra.}
+{129}{gate7b}{(motyog) Ezek a kibaszott Ãºjoncok egyre hÃ¼lyÃ©bbek.}
+{130}{}{OkÃ©.}
+{131}{gate8a}{Ãllj! - Ah, lÃ¡tom visszajÃ¶ttÃ©l, Ã©s ezÃºttal egyedÃ¼l. JÃ³l van, Ãºjonc, mi a jelszÃ³?}
+{132}{gate8b}{Ãllj! - MÃ¡r megint te vagy?! MÃ©g mindig veled van a csapatod! (a kezÃ©t a ravaszra teszi) Minden Ãºjoncnak egyedÃ¼l kell jelentkeznie a szolgÃ¡latra. Addig is azt javaslom, hagyd el a lÃ©tesÃ­tmÃ©nyt, Ã©s ne gyere vissza a kÃ­sÃ©reteddel. MegÃ©rtetted?}
+{133}{}{TÃ¶kfilkÃ³.}
 {134}{}{Igen.}
-{135}{gate9}{Állj! - Ah, már megint te vagy? Remélem, ezúttal van engedély vagy jelszó. Szóval?}
-{136}{}{Öhm... mi nem. Mi jönni vissza.}
-{137}{}{Baszd meg! Inkább besétálni hullád mellett!}
-{138}{}{Nézd, elvesztettem az engedélyem...}
-{139}{}{A picsába veled, egyél pár megawattot, seggfej!}
-{140}{gate10}{Ez az utolsó figyelmeztetés! Azt javaslom, azonnal hagyd el a területet, és ne gyere vissza hivatalos engedély nélkül. Világos voltam?}
-{141}{}{Oké, menni megint...}
-{142}{}{Az ?sök szavaival élve... Baszd meg!}
+{135}{gate9}{Ãllj! - Ah, mÃ¡r megint te vagy? RemÃ©lem, ezÃºttal van engedÃ©ly vagy jelszÃ³. SzÃ³val?}
+{136}{}{Ã–hm... mi nem. Mi jÃ¶nni vissza.}
+{137}{}{Baszd meg! InkÃ¡bb besÃ©tÃ¡lni hullÃ¡d mellett!}
+{138}{}{NÃ©zd, elvesztettem az engedÃ©lyem...}
+{139}{}{A picsÃ¡ba veled, egyÃ©l pÃ¡r megawattot, seggfej!}
+{140}{gate10}{Ez az utolsÃ³ figyelmeztetÃ©s! Azt javaslom, azonnal hagyd el a terÃ¼letet, Ã©s ne gyere vissza hivatalos engedÃ©ly nÃ©lkÃ¼l. VilÃ¡gos voltam?}
+{141}{}{OkÃ©, menni megint...}
+{142}{}{Az ?sÃ¶k szavaival Ã©lve... Baszd meg!}
 {143}{}{Rendben, indulok.}
-{144}{}{Az ?sök szavaival élve... Baszd meg!}
-{145}{gate11a}{Állj! - Már megint te vagy? Én figyelmeztettelek! Riadó! Adjatok neki!}
+{144}{}{Az ?sÃ¶k szavaival Ã©lve... Baszd meg!}
+{145}{gate11a}{Ãllj! - MÃ¡r megint te vagy? Ã‰n figyelmeztettelek! RiadÃ³! Adjatok neki!}
 {146}{}{A fene!}
-{147}{}{Behatoló a f?kapunál!}
-{148}{}{A f?bejáratot megtámadták!}
-{149}{}{A f?kapuhoz! Behatoló a f?kapunál!}
+{147}{}{BehatolÃ³ a f?kapunÃ¡l!}
+{148}{}{A f?bejÃ¡ratot megtÃ¡madtÃ¡k!}
+{149}{}{A f?kapuhoz! BehatolÃ³ a f?kapunÃ¡l!}
 {200}{}{...seggfej...}
-{201}{}{...igen, jobb ha húzol innen...}
-{202}{}{...ekkora tirpák köcsögöt...}
+{201}{}{...igen, jobb ha hÃºzol innen...}
+{202}{}{...ekkora tirpÃ¡k kÃ¶csÃ¶gÃ¶t...}
 {203}{}{...Igen, uram! Bassza meg, uram!...}
 {300}{}{Move along soldier.}

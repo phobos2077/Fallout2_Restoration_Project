@@ -1,53 +1,53 @@
-{100}{}{Widzisz osobê w kombinezonie krypty.}
+{100}{}{Widzisz osobÄ™ w kombinezonie krypty.}
 {101}{}{Widzisz obywatela Enklawy.}
-{102}{}{Widzisz bladego, ale zdrowo wygl¹daj¹cego obywatela.}
-{103}{}{Równie dobrze mogê chwilê odpocz¹æ.}
-{104}{}{Ciekawe, jaki dziœ wieczorem bêdzie film z P.O.?}
-{105}{}{Czym ty jesteœ?}
+{102}{}{Widzisz bladego, ale zdrowo wyglÄ…dajÄ…cego obywatela.}
+{103}{}{RÃ³wnie dobrze mogÄ™ chwilÄ™ odpoczÄ…Ä‡.}
+{104}{}{Ciekawe, jaki dziÅ› wieczorem bÄ™dzie film z P.O.?}
+{105}{}{Czym ty jesteÅ›?}
 {106}{}{Pogoda zawsze jest tu taka sama.}
-{107}{}{Projekt posuwa siê w dobrym kierunku.}
+{107}{}{Projekt posuwa siÄ™ w dobrym kierunku.}
 {108}{}{Wielka szkoda Wiceprezydenta Birda.}
-{109}{}{Moja nastêpna zmiana jest dopiero za kilka godzin.}
-{110}{}{Bo¿e b³ogos³aw Amerykê.}
+{109}{}{Moja nastÄ™pna zmiana jest dopiero za kilka godzin.}
+{110}{}{BoÅ¼e bÅ‚ogosÅ‚aw AmerykÄ™.}
 {111}{}{Projekt jest naszym wybawieniem.}
-{112}{}{Cieszê siê, ¿e nie jestem na kontynencie.}
-{113}{}{To tylko kolejne æwiczenia.}
-{114}{}{Co to za ha³as?}
+{112}{}{CieszÄ™ siÄ™, Å¼e nie jestem na kontynencie.}
+{113}{}{To tylko kolejne Ä‡wiczenia.}
+{114}{}{Co to za haÅ‚as?}
 {115}{}{To alarm reaktora.}
 {116}{}{Ych, ach.}
-{117}{}{Lepiej znowu znajdê trochê Rad-X.}
-{118}{}{Ta rzecz zawsze siê psujê.}
-{119}{}{Moja skóra jest ca³a poparzona.}
-{120}{}{Czy nie robi siê tu coraz gorêcej?}
+{117}{}{Lepiej znowu znajdÄ™ trochÄ™ Rad-X.}
+{118}{}{Ta rzecz zawsze siÄ™ psujÄ™.}
+{119}{}{Moja skÃ³ra jest caÅ‚a poparzona.}
+{120}{}{Czy nie robi siÄ™ tu coraz gorÄ™cej?}
 {121}{}{To niedobrze.}
 {122}{}{Cholera, cholera, jasna cholera!}
 {123}{}{Gdzie moja maska p-gaz?}
-{124}{}{Coœ tu dziwnie pachnie.}
-{125}{}{Nie czujê siê zbyt dobrze.}
+{124}{}{CoÅ› tu dziwnie pachnie.}
+{125}{}{Nie czujÄ™ siÄ™ zbyt dobrze.}
 {126}{}{Powietrze pali mi w gardle.}
-{127}{}{Cz³owieku, ale mam zgagê.}
-{128}{}{Moje p³uca siê pal¹!}
-{129}{}{Chyba potrzebujê ³yku œwie¿ego powietrza.}
-{130}{}{Czy nie robi siê tu coraz ciemniej?}
-{131}{}{Ta sennoœæ, muszê odpocz¹æ.}
-{132}{}{Chyba usi¹dê tu na chwilê.}
-{133}{}{Kolejne æwiczenia?}
-{134}{}{To chyba by³y strza³y.}
-{135}{}{Hej, kim jesteœ?}
-{136}{}{Staæ! Kto idzie?}
-{137}{}{Te ci¹g³e æwiczenia zaczynaj¹ ju¿ mnie mêczyæ.}
-{138}{}{Ta, jakby mo¿na by³o rozpoznaæ obcego.}
-{139}{}{Nie przejmuj siê tym.}
-{140}{}{¯o³nierze zajm¹ siê nami.}
-{141}{}{Gdzie s¹ ¿o³nierze, gdy ich potrzebujesz?}
-{142}{}{Nie panikowaæ, tylko nie panikowaæ.}
-{143}{}{Nigdy tego nie skoñczê.}
-{144}{}{Chcia³oby siê byæ gdzie indziej.}
-{145}{}{Ten operator terminal by³ milutki.}
+{127}{}{CzÅ‚owieku, ale mam zgagÄ™.}
+{128}{}{Moje pÅ‚uca siÄ™ palÄ…!}
+{129}{}{Chyba potrzebujÄ™ Å‚yku Å›wieÅ¼ego powietrza.}
+{130}{}{Czy nie robi siÄ™ tu coraz ciemniej?}
+{131}{}{Ta sennoÅ›Ä‡, muszÄ™ odpoczÄ…Ä‡.}
+{132}{}{Chyba usiÄ…dÄ™ tu na chwilÄ™.}
+{133}{}{Kolejne Ä‡wiczenia?}
+{134}{}{To chyba byÅ‚y strzaÅ‚y.}
+{135}{}{Hej, kim jesteÅ›?}
+{136}{}{StaÄ‡! Kto idzie?}
+{137}{}{Te ciÄ…gÅ‚e Ä‡wiczenia zaczynajÄ… juÅ¼ mnie mÄ™czyÄ‡.}
+{138}{}{Ta, jakby moÅ¼na byÅ‚o rozpoznaÄ‡ obcego.}
+{139}{}{Nie przejmuj siÄ™ tym.}
+{140}{}{Å»oÅ‚nierze zajmÄ… siÄ™ nami.}
+{141}{}{Gdzie sÄ… Å¼oÅ‚nierze, gdy ich potrzebujesz?}
+{142}{}{Nie panikowaÄ‡, tylko nie panikowaÄ‡.}
+{143}{}{Nigdy tego nie skoÅ„czÄ™.}
+{144}{}{ChciaÅ‚oby siÄ™ byÄ‡ gdzie indziej.}
+{145}{}{Ten operator terminal byÅ‚ milutki.}
 {146}{}{To nie ma sensu.}
-{147}{}{Za ma³o mi za to p³ac¹.}
-{148}{}{Robiê za wszystkich robotê.}
-{149}{}{Dlaczego ludzie nie robi¹ tego, co powinni?}
-{150}{}{Po prostu uderz terminal, je¿eli nie dzia³a - zawsze to je naprawia.}
-{151}{}{Ta gra w œciankê jest œwietna. Mam nadziejê, ¿e nikt mnie na tym nie przy³apie.}
-{152}{}{Potrzebujê trochê kofeiny.}
+{147}{}{Za maÅ‚o mi za to pÅ‚acÄ….}
+{148}{}{RobiÄ™ za wszystkich robotÄ™.}
+{149}{}{Dlaczego ludzie nie robiÄ… tego, co powinni?}
+{150}{}{Po prostu uderz terminal, jeÅ¼eli nie dziaÅ‚a - zawsze to je naprawia.}
+{151}{}{Ta gra w Å›ciankÄ™ jest Å›wietna. Mam nadziejÄ™, Å¼e nikt mnie na tym nie przyÅ‚apie.}
+{152}{}{PotrzebujÄ™ trochÄ™ kofeiny.}

@@ -1,4 +1,4 @@
-{100}{}{Barril met·lico con fuego}
+{100}{}{Barril met√°lico con fuego}
 {101}{}{El barril contiene papel y otra basura ardiendo.}
 {200}{}{Puerta de madera}
 {201}{}{Una puerta, hecha de madera.}
@@ -6,14 +6,14 @@
 {301}{}{Una mesa, hecha de madera.}
 {400}{}{Mesa de madera}
 {401}{}{Una mesa, hecha de madera.}
-{500}{}{Barril met·lico}
+{500}{}{Barril met√°lico}
 {501}{}{Un viejo barril, hecho de acero.}
-{600}{}{Barril met·lico}
+{600}{}{Barril met√°lico}
 {601}{}{Un viejo barril, hecho de acero.}
-{700}{}{MontÛn de llantas}
-{701}{}{Un montÛn de viejas llantas de caucho. Est·n vulcanizadas y endurecidas, probablemente por el calor.}
+{700}{}{Mont√≥n de llantas}
+{701}{}{Un mont√≥n de viejas llantas de caucho. Est√°n vulcanizadas y endurecidas, probablemente por el calor.}
 {800}{}{Puerta de seguridad}
-{801}{}{Esta puerta parece muy segura. Proporciona protecciÛn contra elementos del mundo exterior y criaturas peligrosas.}
+{801}{}{Esta puerta parece muy segura. Proporciona protecci√≥n contra elementos del mundo exterior y criaturas peligrosas.}
 {900}{}{Computadora}
 {901}{}{Una terminal de computadora, conectada a la computadora central.}
 {1000}{}{Columna}
@@ -27,7 +27,7 @@
 {1400}{}{Monitor}
 {1401}{}{Un monitor de pantalla verde mostrando diversos bits de datos.}
 {1500}{}{Holo-generador}
-{1501}{}{Un reproductor de cintas THT de entretenimiento a gran escala. No se ha rodado ninguna pelÌcula nueva en 80 aÒos.}
+{1501}{}{Un reproductor de cintas THT de entretenimiento a gran escala. No se ha rodado ninguna pel√≠cula nueva en 80 a√±os.}
 {1600}{}{Pantallas}
 {1601}{}{Una serie de tres monitores, mostrando diversos bits de datos.}
 {1700}{}{Pantallas}
@@ -36,42 +36,42 @@
 {1801}{}{Tras inspeccionarla, sigue siendo una puerta.}
 {1900}{}{Puerta}
 {1901}{}{Tras inspeccionarla, sigue siendo una puerta.}
-{2000}{}{VentilaciÛn}
-{2001}{}{Un conducto de ventilaciÛn. Abastece, procesa y limpia el aire de todo el complejo.}
-{2100}{}{VentilaciÛn}
-{2101}{}{Un conducto de ventilaciÛn. Abastece, procesa y limpia el aire de todo el complejo.}
+{2000}{}{Ventilaci√≥n}
+{2001}{}{Un conducto de ventilaci√≥n. Abastece, procesa y limpia el aire de todo el complejo.}
+{2100}{}{Ventilaci√≥n}
+{2101}{}{Un conducto de ventilaci√≥n. Abastece, procesa y limpia el aire de todo el complejo.}
 {2200}{}{Puerta del Refugio 13}
-{2201}{}{Una puerta pesada, construida para sobrevivir a todo tipo de daÒo y traumas.}
+{2201}{}{Una puerta pesada, construida para sobrevivir a todo tipo de da√±o y traumas.}
 {2300}{}{Puerta del Refugio 13}
-{2301}{}{Una puerta pesada, construida para sobrevivir a todo tipo de daÒo y traumas.}
+{2301}{}{Una puerta pesada, construida para sobrevivir a todo tipo de da√±o y traumas.}
 {2400}{}{Pedestal}
-{2401}{}{Un ascensor hidr·ulico, diseÒado para ofrecer apoyo, energÌa y lÌneas de comunicaciÛn a la plataforma.}
+{2401}{}{Un ascensor hidr√°ulico, dise√±ado para ofrecer apoyo, energ√≠a y l√≠neas de comunicaci√≥n a la plataforma.}
 {2500}{}{Monitor}
 {2501}{}{Cuando has visto un monitor, los has visto a todos.}
 {2600}{}{Monitor}
 {2601}{}{Un monitor de computadora, mostrando diversos bits de datos.}
 {2700}{}{Enrejado}
 {2701}{}{Un suelo enrejado.}
-{2800}{}{TuberÌas}
-{2801}{}{Algunas tuberÌas. DespuÈs de un examen m·s detenido, siguen siendo tuberÌas.}
-{2900}{}{VentilaciÛn}
-{2901}{}{Un sistema de ventilaciÛn est·ndar Vault-Tec.}
+{2800}{}{Tuber√≠as}
+{2801}{}{Algunas tuber√≠as. Despu√©s de un examen m√°s detenido, siguen siendo tuber√≠as.}
+{2900}{}{Ventilaci√≥n}
+{2901}{}{Un sistema de ventilaci√≥n est√°ndar Vault-Tec.}
 {3000}{}{Columna}
-{3001}{}{Un sistema de columnas de soporte est·ndar Vault-Tec.}
+{3001}{}{Un sistema de columnas de soporte est√°ndar Vault-Tec.}
 {3100}{}{Columna}
-{3101}{}{Un sistema de columnas de soporte est·ndar Vault-Tec.}
-{3200}{}{VentilaciÛn}
-{3201}{}{Un sistema de ventilaciÛn est·ndar Vault-Tec.}
-{3300}{}{VentilaciÛn}
-{3301}{}{Un sistema de ventilaciÛn est·ndar Vault-Tec.}
+{3101}{}{Un sistema de columnas de soporte est√°ndar Vault-Tec.}
+{3200}{}{Ventilaci√≥n}
+{3201}{}{Un sistema de ventilaci√≥n est√°ndar Vault-Tec.}
+{3300}{}{Ventilaci√≥n}
+{3301}{}{Un sistema de ventilaci√≥n est√°ndar Vault-Tec.}
 {3400}{}{Cama}
-{3401}{}{Una cama, parece muy cÛmoda si la comparas con los lugares donde has dormido ˙ltimamente.}
+{3401}{}{Una cama, parece muy c√≥moda si la comparas con los lugares donde has dormido √∫ltimamente.}
 {3500}{}{Cama}
-{3501}{}{Una cama com˙n. Parece cÛmoda.}
+{3501}{}{Una cama com√∫n. Parece c√≥moda.}
 {3600}{}{Cama}
-{3601}{}{Una cama com˙n. Parece cÛmoda.}
+{3601}{}{Una cama com√∫n. Parece c√≥moda.}
 {3700}{}{Cama}
-{3701}{}{Una cama com˙n. Parece cÛmoda.}
+{3701}{}{Una cama com√∫n. Parece c√≥moda.}
 {3800}{}{Ascensor}
 {3801}{}{Esto es un elevador de mantenimiento.}
 {3900}{}{Silla}
@@ -111,35 +111,35 @@
 {5600}{}{Videopantalla}
 {5601}{}{Esta unidad de videopantalla tiene diversos monitores de computadora y otras pantallas. Parece estar ejecutando muchas, muchas tareas.}
 {5700}{}{Silla}
-{5701}{}{Es una silla. Parece muy cÛmoda.}
+{5701}{}{Es una silla. Parece muy c√≥moda.}
 {5800}{}{Silla}
-{5801}{}{Es una silla. Parece muy cÛmoda.}
+{5801}{}{Es una silla. Parece muy c√≥moda.}
 {5900}{}{Silla}
-{5901}{}{Es una silla. Parece muy cÛmoda.}
+{5901}{}{Es una silla. Parece muy c√≥moda.}
 {6000}{}{Silla}
-{6001}{}{Es una silla. Parece muy cÛmoda.}
+{6001}{}{Es una silla. Parece muy c√≥moda.}
 {6100}{}{Mesa}
-{6101}{}{Es una mesa. Antes de que las mesas existieran, la gente tenÌa que poner sus cosas en el suelo.}
+{6101}{}{Es una mesa. Antes de que las mesas existieran, la gente ten√≠a que poner sus cosas en el suelo.}
 {6200}{}{Mesa}
 {6201}{}{Definitivamente es una mesa.}
 {6300}{}{Planta rodadora}
-{6301}{}{Es una planta rodadora. Por supuesto, nunca has visto una planta rodadora en vivo antes. DeberÌas echarle un buen vistazo.}
+{6301}{}{Es una planta rodadora. Por supuesto, nunca has visto una planta rodadora en vivo antes. Deber√≠as echarle un buen vistazo.}
 {6400}{}{Cactus}
 {6401}{}{No ves nada especial en este cactus.}
 {6500}{}{Cactus}
 {6501}{}{No ves nada importante en este cactus.}
-{6600}{}{¡rbol}
-{6601}{}{Un ·rbol muerto. Nada crece bien aquÌ.}
-{6700}{}{Un Hex·gono Secreto de Bloqueo.}
-{6701}{}{Si est·s viendo esto, maldice al diseÒador tÈcnico.}
+{6600}{}{√Årbol}
+{6601}{}{Un √°rbol muerto. Nada crece bien aqu√≠.}
+{6700}{}{Un Hex√°gono Secreto de Bloqueo.}
+{6701}{}{Si est√°s viendo esto, maldice al dise√±ador t√©cnico.}
 {6800}{}{Escaleras}
 {6801}{}{Una serie de escaleras.}
 {6900}{}{Estalagmita}
-{6901}{}{Una extensiÛn natural del suelo rocoso.}
+{6901}{}{Una extensi√≥n natural del suelo rocoso.}
 {7000}{}{Estalagmita}
-{7001}{}{Una extensiÛn natural del suelo rocoso.}
+{7001}{}{Una extensi√≥n natural del suelo rocoso.}
 {7100}{}{Mancha de sangre}
-{7101}{}{No hay nada fuera de lo com˙n en esta mancha de sangre. Excepto, por supuesto, que alguien o algo muriÛ aquÌ.}
+{7101}{}{No hay nada fuera de lo com√∫n en esta mancha de sangre. Excepto, por supuesto, que alguien o algo muri√≥ aqu√≠.}
 {7200}{}{Pilar de roca}
 {7201}{}{Este grueso pilar de roca se extiende del suelo al techo.}
 {7300}{}{Pilar de roca}
@@ -153,21 +153,21 @@
 {7700}{}{Puerta}
 {7701}{}{Entrada de madera.}
 {7800}{}{Rocas}
-{7801}{}{Una gran montÛn de rocas. Parecen autÛctonas de esta regiÛn.}
+{7801}{}{Una gran mont√≥n de rocas. Parecen aut√≥ctonas de esta regi√≥n.}
 {7900}{}{Rocas}
-{7901}{}{Un pequeÒo montÛn de rocas.}
+{7901}{}{Un peque√±o mont√≥n de rocas.}
 {8000}{}{Rocas}
-{8001}{}{Un pequeÒo montÛn de rocas.}
+{8001}{}{Un peque√±o mont√≥n de rocas.}
 {8100}{}{Rocas}
-{8101}{}{Un gran montÛn de rocas.}
+{8101}{}{Un gran mont√≥n de rocas.}
 {8200}{}{Huesos}
-{8201}{}{Un gran montÛn de huesos descolorados de animal. Al menos, crees que son huesos de animal...}
+{8201}{}{Un gran mont√≥n de huesos descolorados de animal. Al menos, crees que son huesos de animal...}
 {8300}{}{Huesos}
-{8301}{}{Un gran montÛn de huesos descolorados de animal. Al menos, crees que son huesos de animal...}
+{8301}{}{Un gran mont√≥n de huesos descolorados de animal. Al menos, crees que son huesos de animal...}
 {8400}{}{Huesos}
 {8401}{}{Una gran pila de huesos descolorados de animal. No puedes determinar la especie del animal muerto.}
 {8500}{}{Huesos}
-{8501}{}{Crees que pueden ser huesos de un Canguro Cornudo, pero no puedes estar seguro. Est·n muy deteriorados como para una inspecciÛn definitiva.}
+{8501}{}{Crees que pueden ser huesos de un Canguro Cornudo, pero no puedes estar seguro. Est√°n muy deteriorados como para una inspecci√≥n definitiva.}
 {8600}{}{Huesos}
 {8601}{}{Ves los huesos de una gran vaca de dos cabezas.}
 {8700}{}{Puerta}
@@ -177,82 +177,82 @@
 {8900}{}{Puerta}
 {8901}{}{Entrada de madera.}
 {9000}{}{Rocas}
-{9001}{}{Un gran montÛn de rocas. Parece peligroso sentarse ahÌ.}
+{9001}{}{Un gran mont√≥n de rocas. Parece peligroso sentarse ah√≠.}
 {9100}{}{Rocas}
-{9101}{}{Un gran montÛn de rocas. Si miras m·s de cerca, puedes ver las caras de pequeÒos ancianos en los laterales de las piedras.}
+{9101}{}{Un gran mont√≥n de rocas. Si miras m√°s de cerca, puedes ver las caras de peque√±os ancianos en los laterales de las piedras.}
 {9200}{}{Rocas}
-{9201}{}{°Rocas, rocas, rocas! °Mires donde mires, rocas!}
+{9201}{}{¬°Rocas, rocas, rocas! ¬°Mires donde mires, rocas!}
 {9300}{}{Rocas}
-{9301}{}{Un pequeÒo montÛn de rocas.}
+{9301}{}{Un peque√±o mont√≥n de rocas.}
 {9400}{}{Barra}
-{9401}{}{Este bar cuenta con una colecciÛn de cervezas listas para servir.}
+{9401}{}{Este bar cuenta con una colecci√≥n de cervezas listas para servir.}
 {9500}{}{Silla}
-{9501}{}{Un viejo sillÛn podrido fabricado a partir de un antiguo asiento de coche.}
+{9501}{}{Un viejo sill√≥n podrido fabricado a partir de un antiguo asiento de coche.}
 {9600}{}{Silla}
-{9601}{}{Un apestoso y viejo sillÛn que solÌa ser un asiento de coche. Los muelles ya no lo hacen mullido.}
+{9601}{}{Un apestoso y viejo sill√≥n que sol√≠a ser un asiento de coche. Los muelles ya no lo hacen mullido.}
 {9700}{}{Silla}
-{9701}{}{Un podrido y apestoso sillÛn viejo posado sobre ladrillos para sostenerlo. Parece muy incÛmodo.}
+{9701}{}{Un podrido y apestoso sill√≥n viejo posado sobre ladrillos para sostenerlo. Parece muy inc√≥modo.}
 {9800}{}{Silla}
-{9801}{}{Un podrido y apestoso sillÛn viejo posado sobre ladrillos para sostenerlo. Parece muy incÛmodo.}
-{9900}{}{Sof·}
-{9901}{}{Un artefacto para sentarse muy incÛmodo que solÌa ser un sof·.}
-{10000}{}{Sof·}
-{10001}{}{Un artefacto para sentarse muy incÛmodo que solÌa ser un sof·.}
-{10100}{}{Neum·tico}
+{9801}{}{Un podrido y apestoso sill√≥n viejo posado sobre ladrillos para sostenerlo. Parece muy inc√≥modo.}
+{9900}{}{Sof√°}
+{9901}{}{Un artefacto para sentarse muy inc√≥modo que sol√≠a ser un sof√°.}
+{10000}{}{Sof√°}
+{10001}{}{Un artefacto para sentarse muy inc√≥modo que sol√≠a ser un sof√°.}
+{10100}{}{Neum√°tico}
 {10101}{}{Unas viejas llantas de caucho apoyadas en medio de unas hierbas.}
 {10200}{}{Arbusto}
-{10201}{}{Alg˙n tipo de hierba del desierto.}
+{10201}{}{Alg√∫n tipo de hierba del desierto.}
 {10300}{}{Arbusto}
-{10301}{}{Alg˙n tipo de hierba del desierto.}
+{10301}{}{Alg√∫n tipo de hierba del desierto.}
 {10400}{}{Arbusto}
-{10401}{}{Alg˙n tipo de hierba del desierto.}
+{10401}{}{Alg√∫n tipo de hierba del desierto.}
 {10500}{}{Arbusto}
-{10501}{}{Alg˙n tipo de hierba del desierto.}
+{10501}{}{Alg√∫n tipo de hierba del desierto.}
 {10600}{}{Basura}
-{10601}{}{Una oxidada puerta de coche recostada sobre un barril de metal. Una gran cantidad de Ûxido se est· produciendo.}
+{10601}{}{Una oxidada puerta de coche recostada sobre un barril de metal. Una gran cantidad de √≥xido se est√° produciendo.}
 {10700}{}{Basura}
 {10701}{}{Un inodoro roto, medio sepultado en la arena. La vida es orinar, luego morir.}
 {10800}{}{Hierbas}
-{10801}{}{Alg˙n tipo de maleza del desierto. Si estuvo creciendo en el pasado reciente, ya no lo hace.}
+{10801}{}{Alg√∫n tipo de maleza del desierto. Si estuvo creciendo en el pasado reciente, ya no lo hace.}
 {10900}{}{Basura}
-{10901}{}{Un neum·tico de coche, sepultado en la arena. Hay algunos trozos de madera amontonados alrededor.}
+{10901}{}{Un neum√°tico de coche, sepultado en la arena. Hay algunos trozos de madera amontonados alrededor.}
 {11000}{}{Rocas}
-{11001}{}{En una inspecciÛn m·s cercana, te parece que en realidad pueden ser trozos de madera petrificada.}
+{11001}{}{En una inspecci√≥n m√°s cercana, te parece que en realidad pueden ser trozos de madera petrificada.}
 {11100}{}{Basura}
-{11101}{}{Un pequeÒo montÛn de basura, con hierba muerta adherida a Èl.}
+{11101}{}{Un peque√±o mont√≥n de basura, con hierba muerta adherida a √©l.}
 {11200}{}{Basura}
-{11201}{}{Un pequeÒo montÛn de basura.}
+{11201}{}{Un peque√±o mont√≥n de basura.}
 {11300}{}{Basura}
-{11301}{}{Un pequeÒo montÛn de basura.}
+{11301}{}{Un peque√±o mont√≥n de basura.}
 {11400}{}{Basura}
-{11401}{}{Un pequeÒo montÛn de basura.}
+{11401}{}{Un peque√±o mont√≥n de basura.}
 {11500}{}{Hierbas}
-{11501}{}{Un pequeÒo montÛn de basura, con hierba seca adherida a Èl.}
+{11501}{}{Un peque√±o mont√≥n de basura, con hierba seca adherida a √©l.}
 {11600}{}{Basura}
 {11601}{}{Una pieza retorcida de metal oxidado.}
 {11700}{}{Basura}
 {11701}{}{Algunos trozos rotos de madera.}
 {11800}{}{Basura}
-{11801}{}{Un pequeÒo montÛn de chatarra variada.}
+{11801}{}{Un peque√±o mont√≥n de chatarra variada.}
 {11900}{}{Basura}
-{11901}{}{Un pequeÒo montÛn de basura.}
+{11901}{}{Un peque√±o mont√≥n de basura.}
 {12000}{}{Basura}
-{12001}{}{Un pequeÒo montÛn de basura.}
+{12001}{}{Un peque√±o mont√≥n de basura.}
 {12100}{}{Basura}
-{12101}{}{Un pequeÒo montÛn de basura.}
+{12101}{}{Un peque√±o mont√≥n de basura.}
 {12200}{}{Basura}
-{12201}{}{Un pequeÒo montÛn de basura.}
+{12201}{}{Un peque√±o mont√≥n de basura.}
 {12300}{}{Basura}
-{12301}{}{Un pequeÒo montÛn de basura.}
+{12301}{}{Un peque√±o mont√≥n de basura.}
 {12400}{}{Basura}
-{12401}{}{Un pequeÒo montÛn de basura.}
+{12401}{}{Un peque√±o mont√≥n de basura.}
 {12500}{}{Hierbas}
-{12501}{}{Maleza com˙n del desierto.}
+{12501}{}{Maleza com√∫n del desierto.}
 {12600}{}{Hierbas}
-{12601}{}{Maleza com˙n del desierto.}
+{12601}{}{Maleza com√∫n del desierto.}
 {12700}{}{Hierbas}
-{12701}{}{Maleza com˙n del desierto.}
-{12800}{}{Un rect·ngulo codificado}
+{12701}{}{Maleza com√∫n del desierto.}
+{12800}{}{Un rect√°ngulo codificado}
 {12900}{}{Muro}
 {13000}{}{Muro}
 {13100}{}{Muro}
@@ -260,28 +260,28 @@
 {13300}{}{Muro}
 {13400}{}{Muro}
 {13500}{}{Alcantarilla}
-{13501}{}{Alguna clase de fÈtido y repugnante olor procede de esta alcantarilla. Pasado un rato, ya no huele tan mal.}
+{13501}{}{Alguna clase de f√©tido y repugnante olor procede de esta alcantarilla. Pasado un rato, ya no huele tan mal.}
 {13600}{}{Alcantarilla}
-{13601}{}{Apenas puedes distinguir alg˙n movimiento tras la rejilla que cubre esta alcantarilla. Puedes ver ojos rojos mir·ndote. Ojos de rata.}
+{13601}{}{Apenas puedes distinguir alg√∫n movimiento tras la rejilla que cubre esta alcantarilla. Puedes ver ojos rojos mir√°ndote. Ojos de rata.}
 {13700}{}{Alcantarilla}
 {13701}{}{Se escucha el gorgoteo del agua en esta alcantarilla. Por eso apesta tanto.}
 {13800}{}{Alcantarilla}
-{13801}{}{Se escucha el gorgoteo del agua m·s all· de esta alcantarilla. Por eso apesta tanto.}
+{13801}{}{Se escucha el gorgoteo del agua m√°s all√° de esta alcantarilla. Por eso apesta tanto.}
 {13900}{}{Escalera}
-{13901}{}{Es una vieja escalera destartalada. Parece que apenas soportar· tu peso.}
+{13901}{}{Es una vieja escalera destartalada. Parece que apenas soportar√° tu peso.}
 {14000}{}{Entrada de alcantarilla}
 {14001}{}{Parece un acceso al sistema de alcantarillas.}
 {14100}{}{Fuente de luz}
 {14200}{}{Puerta}
-{14201}{}{Parece una puerta de Refugio normal que ha sido averiada, quiz·s quemada. De todos modos a˙n funciona.}
+{14201}{}{Parece una puerta de Refugio normal que ha sido averiada, quiz√°s quemada. De todos modos a√∫n funciona.}
 {14300}{}{Puerta}
-{14301}{}{Parece una puerta de Refugio normal que ha sido averiada, quiz·s quemada. De todos modos a˙n funciona.}
+{14301}{}{Parece una puerta de Refugio normal que ha sido averiada, quiz√°s quemada. De todos modos a√∫n funciona.}
 {14400}{}{Tapa}
 {14401}{}{Una pesada tapa de alcantarilla. Parece como si estuviera en buen estado, y ha sido movida recientemente.}
 {14500}{}{Agujero}
-{14501}{}{Se ha abierto un gran agujero a travÈs de esta puerta con una explosiÛn.}
+{14501}{}{Se ha abierto un gran agujero a trav√©s de esta puerta con una explosi√≥n.}
 {14600}{}{Agujero}
-{14601}{}{Se ha abierto un gran agujero a travÈs de esta puerta con una explosiÛn.}
+{14601}{}{Se ha abierto un gran agujero a trav√©s de esta puerta con una explosi√≥n.}
 {14700}{}{Cristal blindado}
 {14701}{}{Cristal completamente irrompible. Ni siquiera lo intentes.}
 {14800}{}{Cristal blindado}
@@ -291,19 +291,19 @@
 {15000}{}{Cristal blindado}
 {15001}{}{Cristal completamente irrompible. Ni siquiera lo intentes.}
 {15100}{}{Puerta}
-{15101}{}{Esta puerta es una pieza de construcciÛn de alta tecnologÌa. Se abre por dilataciÛn a medida que rotan las tres piezas que la forman.}
+{15101}{}{Esta puerta es una pieza de construcci√≥n de alta tecnolog√≠a. Se abre por dilataci√≥n a medida que rotan las tres piezas que la forman.}
 {15200}{}{Puerta}
-{15201}{}{Esta puerta es una pieza de construcciÛn de alta tecnologÌa. Se abre por dilataciÛn a medida que rotan las tres piezas que la forman.}
+{15201}{}{Esta puerta es una pieza de construcci√≥n de alta tecnolog√≠a. Se abre por dilataci√≥n a medida que rotan las tres piezas que la forman.}
 {15300}{}{Puerta}
-{15301}{}{Esta puerta est· adornada con el sÌmbolo de la Hermandad del Acero.}
+{15301}{}{Esta puerta est√° adornada con el s√≠mbolo de la Hermandad del Acero.}
 {15400}{}{Puerta}
-{15401}{}{Esta puerta est· adornada con el sÌmbolo de la Hermandad del Acero.}
+{15401}{}{Esta puerta est√° adornada con el s√≠mbolo de la Hermandad del Acero.}
 {15500}{}{Ascensor}
-{15501}{}{Este es el interior del elevador de la Hermandad. °Est· absolutamente limpio!}
+{15501}{}{Este es el interior del elevador de la Hermandad. ¬°Est√° absolutamente limpio!}
 {15600}{}{Ascensor}
-{15601}{}{Este es el interior del elevador de la Hermandad. °Est· absolutamente limpio!}
+{15601}{}{Este es el interior del elevador de la Hermandad. ¬°Est√° absolutamente limpio!}
 {15700}{}{Marca}
-{15701}{}{Este es el sÌmbolo de la Hermandad del Acero. Esta marca le dice al Yermo que es su territorio, y que hay que marcharse inmediatamente.}
+{15701}{}{Este es el s√≠mbolo de la Hermandad del Acero. Esta marca le dice al Yermo que es su territorio, y que hay que marcharse inmediatamente.}
 {15800}{}{Monitor}
 {15801}{}{Ves un monitor de computadora.}
 {15900}{}{Monitor}
@@ -313,65 +313,65 @@
 {16100}{}{Computadora}
 {16101}{}{Esto es un banco de datos de memoria computerizado.}
 {16200}{}{Computadora}
-{16201}{}{Una computadora de alta tecnologÌa. Usa un moderno dispositivo de almacenamiento de bobina magnÈtica en lugar del anticuado sistema de tarjetas perforadas.}
+{16201}{}{Una computadora de alta tecnolog√≠a. Usa un moderno dispositivo de almacenamiento de bobina magn√©tica en lugar del anticuado sistema de tarjetas perforadas.}
 {16300}{}{Computadora}
-{16301}{}{Una computadora de alta tecnologÌa. Usa un moderno dispositivo de almacenamiento de bobina magnÈtica en lugar del anticuado sistema de tarjetas perforadas.}
+{16301}{}{Una computadora de alta tecnolog√≠a. Usa un moderno dispositivo de almacenamiento de bobina magn√©tica en lugar del anticuado sistema de tarjetas perforadas.}
 {16400}{}{Monitor}
 {16401}{}{Ves un monitor de computadora.}
 {16500}{}{Monitor}
 {16501}{}{Ves un monitor de computadora.}
 {16600}{}{Cable}
-{16601}{}{Alg˙n tipo de cableado de computadora.}
+{16601}{}{Alg√∫n tipo de cableado de computadora.}
 {16700}{}{Cable}
-{16701}{}{Alg˙n tipo de cableado de computadora.}
+{16701}{}{Alg√∫n tipo de cableado de computadora.}
 {16800}{}{Cable}
-{16801}{}{Alg˙n tipo de cableado de computadora.}
+{16801}{}{Alg√∫n tipo de cableado de computadora.}
 {16900}{}{Columna}
 {16901}{}{Una columna de soporte.}
 {17000}{}{Columna}
 {17001}{}{Una columna de soporte.}
 {17100}{}{Computadora de acceso}
-{17101}{}{Esta computadora controla la puerta de acceso al Refugio. Necesitas introducir un cÛdigo de acceso especÌfico para que la computadora funcione.}
+{17101}{}{Esta computadora controla la puerta de acceso al Refugio. Necesitas introducir un c√≥digo de acceso espec√≠fico para que la computadora funcione.}
 {17200}{}{Cartel de Casino}
 {17201}{}{Parece publicidad del Casino de Gizmo.}
 {17300}{}{Puerta exterior del Refugio 13}
-{17301}{}{Esta gran puerta es el vÌnculo entre el Refugio y el mundo exterior.}
+{17301}{}{Esta gran puerta es el v√≠nculo entre el Refugio y el mundo exterior.}
 {17400}{}{Puerta exterior del Refugio 13}
-{17401}{}{Esta gran puerta es el vÌnculo entre el Refugio y el mundo exterior.}
+{17401}{}{Esta gran puerta es el v√≠nculo entre el Refugio y el mundo exterior.}
 {17500}{}{Cartel de Casino}
-{17501}{}{Esta parte del cartel contiene un motor elÈctrico que hace girar lentamente la secciÛn del neÛn.}
+{17501}{}{Esta parte del cartel contiene un motor el√©ctrico que hace girar lentamente la secci√≥n del ne√≥n.}
 {17600}{}{Flecha abajo}
 {17700}{}{Flecha arriba}
 {17800}{}{Embalaje}
 {17900}{}{Embalaje}
 {18000}{}{Embalaje}
 {18100}{}{Parte superior de elevador}
-{18101}{}{Est·s viendo una parte de un elevador.}
+{18101}{}{Est√°s viendo una parte de un elevador.}
 {18200}{}{Consola de Computadora}
 {18201}{}{Esto es un terminal remoto, conectado por cable a una computadora principal.}
 {18300}{}{Consola de Computadora}
 {18301}{}{Esto es un terminal remoto, conectado por cable a una computadora principal.}
 {18400}{}{Emblema}
-{18401}{}{El sÌmbolo de la Hermandad. La rueda representa su conocimiento en ingenierÌa, la espada es su voluntad de defenderse a sÌ mismos, y las alas son la esperanza de fortalecimiento.}
+{18401}{}{El s√≠mbolo de la Hermandad. La rueda representa su conocimiento en ingenier√≠a, la espada es su voluntad de defenderse a s√≠ mismos, y las alas son la esperanza de fortalecimiento.}
 {18500}{}{Emblema}
-{18501}{}{El sÌmbolo de la Hermandad. La rueda representa su conocimiento en ingenierÌa, la espada es su voluntad de defenderse a sÌ mismos, y las alas son la esperanza de fortalecimiento.}
+{18501}{}{El s√≠mbolo de la Hermandad. La rueda representa su conocimiento en ingenier√≠a, la espada es su voluntad de defenderse a s√≠ mismos, y las alas son la esperanza de fortalecimiento.}
 {18600}{}{Cartel de nivel 'uno'}
-{18601}{}{Crees que debe significar que est·s en el nivel uno.}
+{18601}{}{Crees que debe significar que est√°s en el nivel uno.}
 {18700}{}{Cartel de nivel 'dos'}
-{18701}{}{Est·s en el nivel dos.}
+{18701}{}{Est√°s en el nivel dos.}
 {18800}{}{Cartel de nivel 'tres'}
-{18801}{}{Crees que debe significar que est·s en el nivel tres.}
+{18801}{}{Crees que debe significar que est√°s en el nivel tres.}
 {18900}{}{Cartel de nivel 'cuatro'}
 {18901}{}{Debes estar en el nivel cuatro.}
 {19000}{}{Litera}
-{19001}{}{Una litera de estilo militar. Parece muy incÛmoda. TambiÈn parece que una moneda rebotarÌa en sus s·banas.}
+{19001}{}{Una litera de estilo militar. Parece muy inc√≥moda. Tambi√©n parece que una moneda rebotar√≠a en sus s√°banas.}
 {19100}{}{Litera}
-{19101}{}{Una litera de estilo militar. Parece muy incÛmoda. TambiÈn parece que una moneda rebotarÌa en sus s·banas.}
+{19101}{}{Una litera de estilo militar. Parece muy inc√≥moda. Tambi√©n parece que una moneda rebotar√≠a en sus s√°banas.}
 {19200}{}{Litera}
-{19201}{}{Una litera de estilo militar. Parece muy incÛmoda. TambiÈn parece que una moneda rebotarÌa en sus s·banas.}
+{19201}{}{Una litera de estilo militar. Parece muy inc√≥moda. Tambi√©n parece que una moneda rebotar√≠a en sus s√°banas.}
 {19300}{}{Embalaje}
-{19400}{}{M·quina de Nuka-Cola}
-{19401}{}{La publicidad en el costado de esta m·quina promociona su popular refresco.}
+{19400}{}{M√°quina de Nuka-Cola}
+{19401}{}{La publicidad en el costado de esta m√°quina promociona su popular refresco.}
 {19500}{}{Muro}
 {19600}{}{Trampilla}
 {19601}{}{Parece una trampilla en perfectas condiciones.}
@@ -380,9 +380,9 @@
 {19800}{}{Altar}
 {19801}{}{Esto es un altar.}
 {19900}{}{Plataforma del predicador}
-{19901}{}{Uno se coloca detr·s de esto para hablar. Parece un lugar pequeÒo como para dar un discurso preparado.}
+{19901}{}{Uno se coloca detr√°s de esto para hablar. Parece un lugar peque√±o como para dar un discurso preparado.}
 {20000}{}{Banco de iglesia}
-{20001}{}{Se ve exactamente como lo esperarÌas. No hay nada especial en este banco.}
+{20001}{}{Se ve exactamente como lo esperar√≠as. No hay nada especial en este banco.}
 {20100}{}{Letrero}
 {20101}{}{El letrero de este poste parece un poco oxidado.}
 {20200}{}{Letrero}
@@ -393,22 +393,22 @@
 {20401}{}{El letrero de este poste parece un poco oxidado.}
 {20500}{}{Letrero}
 {20501}{}{El letrero de este poste parece un poco oxidado.}
-{20600}{}{ColchÛn viejo}
-{20601}{}{Un viejo colchÛn maltratado. Te parece ver alg˙n tipo de insecto que lo infesta.}
-{20700}{}{ColchÛn viejo}
-{20701}{}{Incluso si durmieras solo en esta cosa, no estarÌas durmiendo solo.}
+{20600}{}{Colch√≥n viejo}
+{20601}{}{Un viejo colch√≥n maltratado. Te parece ver alg√∫n tipo de insecto que lo infesta.}
+{20700}{}{Colch√≥n viejo}
+{20701}{}{Incluso si durmieras solo en esta cosa, no estar√≠as durmiendo solo.}
 {20800}{}{Cama}
 {20801}{}{Una improvisada cama. El material fue recolectado de alguna otra fuente.}
 {20900}{}{Cama}
 {20901}{}{Una improvisada cama. El material fue recolectado de alguna otra fuente.}
 {21000}{}{Cama}
-{21001}{}{Esta cama ha visto mejores dÌas (y probablemente noches, tambiÈn).}
+{21001}{}{Esta cama ha visto mejores d√≠as (y probablemente noches, tambi√©n).}
 {21100}{}{Cama}
-{21101}{}{Inspeccion·ndola m·s de cerca, te das cuenta que las s·banas no han sido cambiadas desde hace mucho, mucho tiempo.}
+{21101}{}{Inspeccion√°ndola m√°s de cerca, te das cuenta que las s√°banas no han sido cambiadas desde hace mucho, mucho tiempo.}
 {21200}{}{Cama}
 {21201}{}{Hay un par de manchas de dudoso origen en este dispositivo para dormir tan gastado.}
 {21300}{}{Cama}
-{21301}{}{Esta cama ha tenido mucho uso y desgaste. Algo debiÛ de meterse entre los colchones y muriÛ, tambiÈn.}
+{21301}{}{Esta cama ha tenido mucho uso y desgaste. Algo debi√≥ de meterse entre los colchones y muri√≥, tambi√©n.}
 {21400}{}{}
 {21401}{}{}
 {21500}{}{}
@@ -419,60 +419,60 @@
 {21800}{}{No utilizados.}
 {21900}{}{No utilizados.}
 {22000}{}{Cajas}
-{22001}{}{Estas cajas de madera se est·n deteriorando por las condiciones ambientales.}
+{22001}{}{Estas cajas de madera se est√°n deteriorando por las condiciones ambientales.}
 {22100}{}{Cajas}
-{22101}{}{No ves ning˙n detalle especial en estas cajas de madera.}
+{22101}{}{No ves ning√∫n detalle especial en estas cajas de madera.}
 {22200}{}{Cajas}
 {22201}{}{Te sobra el tiempo para observar de cerca esta basura podrida.}
 {22300}{}{Cajas}
-{22301}{}{Estas cajas de madera se est·n deteriorando por las condiciones ambientales.}
+{22301}{}{Estas cajas de madera se est√°n deteriorando por las condiciones ambientales.}
 {22400}{}{Coche}
-{22401}{}{Este automÛvil tiene una pinta terrible. No crees que haya forma de repararlo.}
+{22401}{}{Este autom√≥vil tiene una pinta terrible. No crees que haya forma de repararlo.}
 {22500}{}{Coche}
 {22501}{}{Esta oxidada pieza de metal hecha polvo no puede repararse.}
 {22600}{}{Coche}
-{22601}{}{Concluyes que este vehÌculo no volver· a poder conducirse. Ni de broma.}
+{22601}{}{Concluyes que este veh√≠culo no volver√° a poder conducirse. Ni de broma.}
 {22700}{}{Coche}
 {22701}{}{No hay forma de que esta chatarra pueda volver a poder conducirse de nuevo.}
 {22800}{}{Coche}
-{22801}{}{Si el Mec·nico del AÒo apareciera a tu lado, ninguno de los dos podrÌa reparar esta chatarra oxidada.}
+{22801}{}{Si el Mec√°nico del A√±o apareciera a tu lado, ninguno de los dos podr√≠a reparar esta chatarra oxidada.}
 {22900}{}{Silla}
-{22901}{}{Una silla cÛmoda.}
+{22901}{}{Una silla c√≥moda.}
 {23000}{}{Silla}
 {23001}{}{Parece que esta silla ha vivido mejores momentos.}
 {23100}{}{Silla}
-{23101}{}{Esta silla est· mohosa y asquerosa. Como puedes adivinar, tambiÈn apesta.}
+{23101}{}{Esta silla est√° mohosa y asquerosa. Como puedes adivinar, tambi√©n apesta.}
 {23200}{}{Silla}
-{23201}{}{Esta silla se est· cayendo a pedazos. R·pidamente.}
+{23201}{}{Esta silla se est√° cayendo a pedazos. R√°pidamente.}
 {23300}{}{Silla}
-{23301}{}{Si alguien te pagara mucho dinero, y pudieras usar ropa interior de acero, podrÌas considerar el sentarte en este sillÛn.}
+{23301}{}{Si alguien te pagara mucho dinero, y pudieras usar ropa interior de acero, podr√≠as considerar el sentarte en este sill√≥n.}
 {23400}{}{Silla}
 {23401}{}{Parece una vieja silla de oficina que se conserva bien pese al paso del tiempo.}
 {23500}{}{Silla}
-{23501}{}{Es una silla de oficina. PodrÌa soportar el peso de una persona.}
+{23501}{}{Es una silla de oficina. Podr√≠a soportar el peso de una persona.}
 {23600}{}{Silla}
-{23601}{}{Esta silla de oficina parece que tuvo dÌas mejores. Ahora es b·sicamente basura.}
+{23601}{}{Esta silla de oficina parece que tuvo d√≠as mejores. Ahora es b√°sicamente basura.}
 {23700}{}{Silla}
-{23701}{}{Parece una silla que verÌas en la oficina de una funeraria: muerta.}
+{23701}{}{Parece una silla que ver√≠as en la oficina de una funeraria: muerta.}
 {23800}{}{}
 {23900}{}{}
 {24000}{}{}
 {24100}{}{No utilizados.}
 {24200}{}{No utilizados.}
 {24300}{}{Boca de incendios}
-{24301}{}{Esta es una boca de incendios. Sin rociadores de techo como los del Refugio, podrÌa hacerte falta una para apagar un fuego.}
+{24301}{}{Esta es una boca de incendios. Sin rociadores de techo como los del Refugio, podr√≠a hacerte falta una para apagar un fuego.}
 {24400}{}{Poste de luz}
-{24401}{}{Esta farola parece que sigue en condiciones de funcionar. Imagina, por aquÌ hay algo que funciona.}
+{24401}{}{Esta farola parece que sigue en condiciones de funcionar. Imagina, por aqu√≠ hay algo que funciona.}
 {24500}{}{Poste de luz}
-{24501}{}{Esta farola nunca volver· a funcionar.}
+{24501}{}{Esta farola nunca volver√° a funcionar.}
 {24600}{}{Poste de luz}
-{24601}{}{Esta es una farola funcional. Por la noche, proyecta una luz p·lida y suave que te recuerda absolutamente nada.}
+{24601}{}{Esta es una farola funcional. Por la noche, proyecta una luz p√°lida y suave que te recuerda absolutamente nada.}
 {24700}{}{Poste de luz}
-{24701}{}{Esta farola est· rota. No se puede reparar.}
+{24701}{}{Esta farola est√° rota. No se puede reparar.}
 {24800}{}{Poste de luz}
 {24801}{}{Esta farola funciona.}
 {24900}{}{Poste de luz}
-{24901}{}{La bombilla de este poste de luz est· destrozada, sin posibilidad de reparaciÛn.}
+{24901}{}{La bombilla de este poste de luz est√° destrozada, sin posibilidad de reparaci√≥n.}
 {25000}{}{Poste de luz}
 {25001}{}{Esta es una farola funcional.}
 {25100}{}{Puerta}
@@ -487,8 +487,8 @@
 {25501}{}{Definitivamente, chatarra sin valor, sin duda.}
 {25600}{}{Basura}
 {25601}{}{Definitivamente, chatarra sin valor, sin duda.}
-{25700}{}{BuzÛn de correos}
-{25701}{}{Este buzÛn de correos est· vacÌo. Tienes la impresiÛn de que lleva asÌ mucho tiempo.}
+{25700}{}{Buz√≥n de correos}
+{25701}{}{Este buz√≥n de correos est√° vac√≠o. Tienes la impresi√≥n de que lleva as√≠ mucho tiempo.}
 {25800}{}{Puerta}
 {25801}{}{Una puerta de madera bien elaborada, en buenas condiciones.}
 {25900}{}{Puerta}
@@ -498,78 +498,78 @@
 {26100}{}{Puerta}
 {26101}{}{Una puerta de madera bien elaborada, en buenas condiciones.}
 {26200}{}{Banco de iglesia}
-{26201}{}{Este banco de madera esta deterior·ndose lentamente.}
+{26201}{}{Este banco de madera esta deterior√°ndose lentamente.}
 {26300}{}{Banco de iglesia}
 {26301}{}{Este banco ha sido abandonado, y muestra signos de desuso.}
 {26400}{}{Banco de iglesia}
 {26401}{}{Un banco de madera que ha sucumbido a los efectos del tiempo y el maltrato.}
-{26500}{}{Expendedora de periÛdicos}
-{26501}{}{Esta expendedora de periÛdicos est· vacÌa.}
-{26600}{}{Expendedora de periÛdicos}
-{26601}{}{Esta expendedora de periÛdicos est· vacÌa.}
-{26700}{}{Expendedora de periÛdicos}
-{26701}{}{Esta expendedora de periÛdicos est· vacÌa.}
-{26800}{}{Expendedora de periÛdicos}
-{26801}{}{Esta expendedora de periÛdicos est· vacÌa.}
-{26900}{}{Expendedora de periÛdicos}
-{26901}{}{Esta expendedora de periÛdicos est· vacÌa.}
-{27000}{}{Expendedora de periÛdicos}
-{27001}{}{Esta expendedora de periÛdicos est· vacÌa. Parece que en su momento debiÛ contener revistas para adultos.}
+{26500}{}{Expendedora de peri√≥dicos}
+{26501}{}{Esta expendedora de peri√≥dicos est√° vac√≠a.}
+{26600}{}{Expendedora de peri√≥dicos}
+{26601}{}{Esta expendedora de peri√≥dicos est√° vac√≠a.}
+{26700}{}{Expendedora de peri√≥dicos}
+{26701}{}{Esta expendedora de peri√≥dicos est√° vac√≠a.}
+{26800}{}{Expendedora de peri√≥dicos}
+{26801}{}{Esta expendedora de peri√≥dicos est√° vac√≠a.}
+{26900}{}{Expendedora de peri√≥dicos}
+{26901}{}{Esta expendedora de peri√≥dicos est√° vac√≠a.}
+{27000}{}{Expendedora de peri√≥dicos}
+{27001}{}{Esta expendedora de peri√≥dicos est√° vac√≠a. Parece que en su momento debi√≥ contener revistas para adultos.}
 {27100}{}{Basura}
-{27101}{}{Un colchÛn en pÈsimas condiciones. Ni siquiera las ratas dormirÌan en Èl.}
+{27101}{}{Un colch√≥n en p√©simas condiciones. Ni siquiera las ratas dormir√≠an en √©l.}
 {27200}{}{Basura}
-{27201}{}{Una cama de matrimonio que ha tenido dÌas mejores que este.}
+{27201}{}{Una cama de matrimonio que ha tenido d√≠as mejores que este.}
 {27300}{}{Basura}
 {27301}{}{Una pila de madera podrida y desgastada. No vale su peso en, bueno, en nada.}
 {27400}{}{Basura}
-{27401}{}{Un montÛn de madera, con algunos in˙tiles clavos oxidados clavados profundamente.}
+{27401}{}{Un mont√≥n de madera, con algunos in√∫tiles clavos oxidados clavados profundamente.}
 {27500}{}{Cajas}
 {27501}{}{Una pila de cajas viejas. No puedes creer que hayan sobrevivido tanto tiempo.}
 {27600}{}{Cajas}
 {27601}{}{Una pila de cajas viejas.}
 {27700}{}{Basura}
-{27701}{}{Basura que crees que pudo haber sido el colchÛn de una cama antes de ser destruido por el medio ambiente.}
+{27701}{}{Basura que crees que pudo haber sido el colch√≥n de una cama antes de ser destruido por el medio ambiente.}
 {27800}{}{Rocas}
 {27900}{}{Rocas}
 {28000}{}{Rocas}
 {28100}{}{Escombro}
-{28101}{}{Un pequeÒo montÛn de escombros y rocas. °Cuidado con dÛnde pisas!}
+{28101}{}{Un peque√±o mont√≥n de escombros y rocas. ¬°Cuidado con d√≥nde pisas!}
 {28200}{}{Lavabo}
 {28201}{}{Un lavabo de porcelana que ha perdido la habilidad de funcionar.}
 {28300}{}{Lavabo}
-{28301}{}{Un lavabo de porcelana roto. Contiene un pequeÒo charco de agua marrÛn con una rata muerta flotando.}
+{28301}{}{Un lavabo de porcelana roto. Contiene un peque√±o charco de agua marr√≥n con una rata muerta flotando.}
 {28400}{}{Lavabo}
 {28401}{}{Este lavabo no funciona. Es evidente por la gran brecha que tiene por la mitad.}
 {28500}{}{Lavabo}
-{28501}{}{Un lavabo de porcelana roto. Contiene un pequeÒo charco de agua marrÛn con una rata muerta flotando.}
-{28600}{}{SeÒal de Stop}
-{28601}{}{Una seÒal roja con la palabra STOP escrita en grandes letras may˙sculas.}
-{28700}{}{SeÒal de Stop}
-{28701}{}{Una seÒal roja con la palabra STOP escrita en grandes letras may˙sculas. Los grandes agujeros de bala se aÒadieron despuÈs de su fabricaciÛn.}
-{28800}{}{Sem·foro}
-{28801}{}{Esto es un antiguo dispositivo de control de tr·fico.}
-{28900}{}{Sem·foro}
-{28901}{}{Esto es un antiguo dispositivo de control de tr·fico.}
-{29000}{}{Sem·foro}
-{29001}{}{Esto es un antiguo dispositivo de control de tr·fico.}
+{28501}{}{Un lavabo de porcelana roto. Contiene un peque√±o charco de agua marr√≥n con una rata muerta flotando.}
+{28600}{}{Se√±al de Stop}
+{28601}{}{Una se√±al roja con la palabra STOP escrita en grandes letras may√∫sculas.}
+{28700}{}{Se√±al de Stop}
+{28701}{}{Una se√±al roja con la palabra STOP escrita en grandes letras may√∫sculas. Los grandes agujeros de bala se a√±adieron despu√©s de su fabricaci√≥n.}
+{28800}{}{Sem√°foro}
+{28801}{}{Esto es un antiguo dispositivo de control de tr√°fico.}
+{28900}{}{Sem√°foro}
+{28901}{}{Esto es un antiguo dispositivo de control de tr√°fico.}
+{29000}{}{Sem√°foro}
+{29001}{}{Esto es un antiguo dispositivo de control de tr√°fico.}
 {29100}{}{Farola}
-{29101}{}{Esta farola ofrece iluminaciÛn al caer la noche, o en ·reas oscuras.}
+{29101}{}{Esta farola ofrece iluminaci√≥n al caer la noche, o en √°reas oscuras.}
 {29200}{}{Farola}
-{29201}{}{Esta farola ofrece iluminaciÛn al caer la noche, o en ·reas oscuras.}
+{29201}{}{Esta farola ofrece iluminaci√≥n al caer la noche, o en √°reas oscuras.}
 {29300}{}{Farola}
-{29301}{}{Esta farola ofrece iluminaciÛn al caer la noche, o en ·reas oscuras.}
+{29301}{}{Esta farola ofrece iluminaci√≥n al caer la noche, o en √°reas oscuras.}
 {29400}{}{Farola}
-{29401}{}{Esta farola ofrece iluminaciÛn al caer la noche, o en ·reas oscuras.}
+{29401}{}{Esta farola ofrece iluminaci√≥n al caer la noche, o en √°reas oscuras.}
 {29500}{}{Farola}
-{29501}{}{Esta farola ofrece iluminaciÛn al caer la noche, si no estuviera rota.}
+{29501}{}{Esta farola ofrece iluminaci√≥n al caer la noche, si no estuviera rota.}
 {29600}{}{Farola}
-{29601}{}{Esta farola ofrece iluminaciÛn al caer la noche, si no estuviera rota.}
+{29601}{}{Esta farola ofrece iluminaci√≥n al caer la noche, si no estuviera rota.}
 {29700}{}{Farola}
-{29701}{}{Esta farola ofrece iluminaciÛn al caer la noche, si no estuviera rota.}
+{29701}{}{Esta farola ofrece iluminaci√≥n al caer la noche, si no estuviera rota.}
 {29800}{}{Letrero}
-{29801}{}{Este seÒal deberÌa indicar en quÈ calle te encuentras, pero sus letras est·n desdibujadas.}
+{29801}{}{Este se√±al deber√≠a indicar en qu√© calle te encuentras, pero sus letras est√°n desdibujadas.}
 {29900}{}{Letrero}
-{29901}{}{Este seÒal deberÌa indicar en quÈ calle te encuentras, pero sus letras est·n desdibujadas.}
+{29901}{}{Este se√±al deber√≠a indicar en qu√© calle te encuentras, pero sus letras est√°n desdibujadas.}
 {30000}{}{Mesa}
 {30001}{}{Una mesa de madera, en condiciones regulares.}
 {30100}{}{Mesa}
@@ -577,90 +577,90 @@
 {30200}{}{Mesa}
 {30201}{}{Una mesa de madera, en malas condiciones.}
 {30300}{}{Mesa}
-{30301}{}{Una mesa de madera, con superficie pl·stica, que lleva rota mucho tiempo.}
+{30301}{}{Una mesa de madera, con superficie pl√°stica, que lleva rota mucho tiempo.}
 {30400}{}{Mesa}
-{30401}{}{Una mesa de madera, pintada de verde vÛmito, irreparable.}
+{30401}{}{Una mesa de madera, pintada de verde v√≥mito, irreparable.}
 {30500}{}{Mesa}
-{30501}{}{Parece una antigua mesa de cafÈ, rebajada en altura para los mutantes realmente bajitos.}
+{30501}{}{Parece una antigua mesa de caf√©, rebajada en altura para los mutantes realmente bajitos.}
 {30600}{}{Mesa}
-{30601}{}{Parece una antigua mesa de cafÈ, rebajada en altura para los mutantes realmente bajitos.}
+{30601}{}{Parece una antigua mesa de caf√©, rebajada en altura para los mutantes realmente bajitos.}
 {30700}{}{Excusado}
-{30701}{}{El afilado borde del asiento lo hace un lugar muy incÛmodo en el que sentarse.}
+{30701}{}{El afilado borde del asiento lo hace un lugar muy inc√≥modo en el que sentarse.}
 {30800}{}{Excusado}
-{30801}{}{Este inodoro est· roto.}
+{30801}{}{Este inodoro est√° roto.}
 {30900}{}{Excusado}
-{30901}{}{°Agh! °Quienquiera que haya usado esto por ˙ltima vez no lo limpiÛ!}
+{30901}{}{¬°Agh! ¬°Quienquiera que haya usado esto por √∫ltima vez no lo limpi√≥!}
 {31000}{}{Excusado}
-{31001}{}{Este inodoro est· roto y desde luego no lo usarÌas si fueras mujer.}
+{31001}{}{Este inodoro est√° roto y desde luego no lo usar√≠as si fueras mujer.}
 {31100}{}{Basura}
-{31101}{}{Unas tuberÌas medio hundidas en la mugre. Nada importante para ver. A seguir.}
+{31101}{}{Unas tuber√≠as medio hundidas en la mugre. Nada importante para ver. A seguir.}
 {31200}{}{Basura}
 {31201}{}{Algunos pedazos de vidrio roto y otras estropeadas piezas de basura.}
 {31300}{}{Basura}
 {31301}{}{Algunos pedazos de vidrio roto y otras estropeadas piezas de basura.}
 {31400}{}{Basura}
-{31401}{}{Una tuberÌa partida al medio. Parece que se oxidÛ hasta romperse por su propio peso.}
+{31401}{}{Una tuber√≠a partida al medio. Parece que se oxid√≥ hasta romperse por su propio peso.}
 {31500}{}{Contenedor de basura}
-{31501}{}{Un contenedor de basura. Apenas puedes leer el letrero: °MantÈn limpias las calles de tu ciudad!}
-{31600}{}{¡rbol}
-{31601}{}{Un ·rbol muerto.}
-{31700}{}{¡rbol}
+{31501}{}{Un contenedor de basura. Apenas puedes leer el letrero: ¬°Mant√©n limpias las calles de tu ciudad!}
+{31600}{}{√Årbol}
+{31601}{}{Un √°rbol muerto.}
+{31700}{}{√Årbol}
 {31701}{}{Un tronco. Nada emocionante. De hecho, puede ser la cosa menos emocionante en la que has posado tus ojos.}
-{31800}{}{¡rbol}
-{31801}{}{Un ·rbol muerto.}
-{31900}{}{¡rbol}
-{32000}{}{¡rbol}
-{32100}{}{¡rbol}
+{31800}{}{√Årbol}
+{31801}{}{Un √°rbol muerto.}
+{31900}{}{√Årbol}
+{32000}{}{√Årbol}
+{32100}{}{√Årbol}
 {32200}{}{No utilizados.}
-{32300}{}{CamiÛn}
-{32301}{}{Los restos estropeados de un camiÛn diesel. Este montÛn de metal no se volver· a mover.}
-{32400}{}{CamiÛn}
-{32401}{}{Este camiÛn diesel no tiene remedio. No es posible repararlo.}
-{32500}{}{BaÒera}
-{32501}{}{Esta baÒera est· rota y agrietada.}
-{32600}{}{BaÒera}
-{32601}{}{Al mirarla de cerca, aceptas que no te baÒar·s nunca en ella.}
+{32300}{}{Cami√≥n}
+{32301}{}{Los restos estropeados de un cami√≥n diesel. Este mont√≥n de metal no se volver√° a mover.}
+{32400}{}{Cami√≥n}
+{32401}{}{Este cami√≥n diesel no tiene remedio. No es posible repararlo.}
+{32500}{}{Ba√±era}
+{32501}{}{Esta ba√±era est√° rota y agrietada.}
+{32600}{}{Ba√±era}
+{32601}{}{Al mirarla de cerca, aceptas que no te ba√±ar√°s nunca en ella.}
 {32700}{}{Inodoro}
-{32701}{}{SÛlo es un urinario.}
+{32701}{}{S√≥lo es un urinario.}
 {32800}{}{Inodoro}
-{32801}{}{SÛlo es un urinario.}
+{32801}{}{S√≥lo es un urinario.}
 {32900}{}{Inodoro}
-{32901}{}{SÛlo es un urinario. Nada especial.}
+{32901}{}{S√≥lo es un urinario. Nada especial.}
 {33000}{}{Inodoro}
-{33001}{}{SÛlo es un urinario. Nada especial.}
+{33001}{}{S√≥lo es un urinario. Nada especial.}
 {33100}{}{Tanque de agua}
-{33101}{}{Un gran depÛsito contenedor de lÌquidos. En este caso, crees que lo diseÒaron para almacenar agua.}
+{33101}{}{Un gran dep√≥sito contenedor de l√≠quidos. En este caso, crees que lo dise√±aron para almacenar agua.}
 {33200}{}{Puerta}
 {33201}{}{Una puerta de madera. Nada interesante.}
 {33300}{}{Puerta}
 {33301}{}{Una puerta de madera. Ofrece entrada y salida a este edificio.}
 {33400}{}{Farol de pared}
-{33401}{}{Parece que este farol est· en buen estado.}
+{33401}{}{Parece que este farol est√° en buen estado.}
 {33500}{}{Farol de pared}
 {33501}{}{Un farol roto. No es una sorpresa que no funcione.}
 {33600}{}{Farol de pared}
-{33601}{}{Parece que este farol est· en buen estado.}
+{33601}{}{Parece que este farol est√° en buen estado.}
 {33700}{}{Farol de pared}
 {33701}{}{Un farol roto. No es una sorpresa que no funcione.}
 {33800}{}{Farol de pared}
-{33801}{}{Parece que este farol est· en buen estado.}
+{33801}{}{Parece que este farol est√° en buen estado.}
 {33900}{}{Farol de pared}
 {33901}{}{Un farol roto. No es una sorpresa que no funcione.}
 {34000}{}{Farol de pared}
-{34001}{}{Parece que este farol est· en buen estado.}
+{34001}{}{Parece que este farol est√° en buen estado.}
 {34100}{}{Farol de pared}
 {34101}{}{Un farol roto. No es una sorpresa que no funcione.}
-{34200}{}{SeÒal de Ceda el Paso}
-{34201}{}{Era una seÒal para controlar el flujo de tr·fico.}
-{34300}{}{SeÒal de Ceda el Paso}
-{34301}{}{La seÒal est· desdibujada, pero puedes descifrar la palabra PASO.}
+{34200}{}{Se√±al de Ceda el Paso}
+{34201}{}{Era una se√±al para controlar el flujo de tr√°fico.}
+{34300}{}{Se√±al de Ceda el Paso}
+{34301}{}{La se√±al est√° desdibujada, pero puedes descifrar la palabra PASO.}
 {34400}{}{Block Hex Auto Inviso}
-{34401}{}{Si est·s viendo esto, maldice al diseÒador tÈcnico.}
+{34401}{}{Si est√°s viendo esto, maldice al dise√±ador t√©cnico.}
 {34500}{}{Suelo}
 {34600}{}{Puerta}
 {34601}{}{Una puerta de madera ornamentada. Obviamente fue hecha por un artesano.}
 {34700}{}{Banco de iglesia}
-{34701}{}{Este asiento lo soportan grandes ladrillos de cemento. No es importante, pero eres t˙ quiÈn ha mirado.}
+{34701}{}{Este asiento lo soportan grandes ladrillos de cemento. No es importante, pero eres t√∫ qui√©n ha mirado.}
 {34800}{}{Escaleras}
 {34801}{}{Estas escaleras conducen hacia arriba.}
 {34900}{}{Escaleras}
@@ -692,7 +692,7 @@
 {36200}{}{Cortina}
 {36201}{}{Esta cortina parece que fue creada por medios primitivos, pero es muy funcional.}
 {36300}{}{Vasija}
-{36301}{}{Una vasija de madera artesanal. Parece que fue diseÒada para aplastar y separar granos.}
+{36301}{}{Una vasija de madera artesanal. Parece que fue dise√±ada para aplastar y separar granos.}
 {36400}{}{Vasija}
 {36401}{}{Una vasija de madera artesanal.}
 {36500}{}{Olla}
@@ -702,7 +702,7 @@
 {36700}{}{Plantas}
 {36701}{}{Parece un repollo mutado. Tiene pinta de que prospera en agua caliente.}
 {36800}{}{Carretilla}
-{36801}{}{Una tosca pero efectiva carretilla agrÌcola.}
+{36801}{}{Una tosca pero efectiva carretilla agr√≠cola.}
 {36900}{}{Plantas}
 {36901}{}{Trigo mutado. Parece que prospera bajo estas condiciones.}
 {37000}{}{Plantas}
@@ -712,27 +712,27 @@
 {37200}{}{Olla}
 {37201}{}{Una olla artesanal.}
 {37300}{}{Rastrillo}
-{37301}{}{Este rastrillo pertenece a sus dueÒos. No se te ocurre un uso para Èl.}
+{37301}{}{Este rastrillo pertenece a sus due√±os. No se te ocurre un uso para √©l.}
 {37400}{}{Rastrillo}
-{37401}{}{Este rastrillo pertenece a sus dueÒos. No se te ocurre un uso para Èl.}
+{37401}{}{Este rastrillo pertenece a sus due√±os. No se te ocurre un uso para √©l.}
 {37500}{}{Rastrillo}
-{37501}{}{Este rastrillo pertenece a sus dueÒos. No se te ocurre un uso para Èl.}
+{37501}{}{Este rastrillo pertenece a sus due√±os. No se te ocurre un uso para √©l.}
 {37600}{}{Alfombra}
-{37601}{}{Una alfombra sencilla. Su tejedor obviamente tenÌa mucho talento.}
+{37601}{}{Una alfombra sencilla. Su tejedor obviamente ten√≠a mucho talento.}
 {37700}{}{Alfombra}
-{37701}{}{Una alfombra sencilla. Su tejedor obviamente tenÌa mucho talento.}
+{37701}{}{Una alfombra sencilla. Su tejedor obviamente ten√≠a mucho talento.}
 {37800}{}{Alfombra}
-{37801}{}{Una alfombra sencilla. Su tejedor obviamente tenÌa mucho talento.}
+{37801}{}{Una alfombra sencilla. Su tejedor obviamente ten√≠a mucho talento.}
 {37900}{}{Pala}
-{37901}{}{Esta pala pertenece a sus dueÒos. No se te ocurre un uso para ella.}
+{37901}{}{Esta pala pertenece a sus due√±os. No se te ocurre un uso para ella.}
 {38000}{}{Pala}
-{38001}{}{Esta pala pertenece a sus dueÒos. No se te ocurre un uso para ella.}
+{38001}{}{Esta pala pertenece a sus due√±os. No se te ocurre un uso para ella.}
 {38100}{}{Pala}
-{38101}{}{Esta pala pertenece a sus dueÒos. No se te ocurre un uso para ella.}
-{38200}{}{JarrÛn}
-{38201}{}{Un bonito jarrÛn de arcilla.}
+{38101}{}{Esta pala pertenece a sus due√±os. No se te ocurre un uso para ella.}
+{38200}{}{Jarr√≥n}
+{38201}{}{Un bonito jarr√≥n de arcilla.}
 {38300}{}{Pozo}
-{38301}{}{Un tÌpico pozo encontrado en el Yermo.}
+{38301}{}{Un t√≠pico pozo encontrado en el Yermo.}
 {38400}{}{Palo}
 {38401}{}{Este palo ayuda a soportar la tienda.}
 {38500}{}{Palo}
@@ -746,9 +746,9 @@
 {38900}{}{Palo}
 {38901}{}{Este palo ayuda a soportar la tienda.}
 {39000}{}{Puerta del Refugio}
-{39001}{}{Esta puerta del Refugio ahora no es m·s que una gran pieza de metal achatarrado.}
+{39001}{}{Esta puerta del Refugio ahora no es m√°s que una gran pieza de metal achatarrado.}
 {39100}{}{Muro}
-{39101}{}{El mecanismo de apertura de la pesada puerta del Refugio est· daÒado y es irreparable.}
+{39101}{}{El mecanismo de apertura de la pesada puerta del Refugio est√° da√±ado y es irreparable.}
 {39200}{}{Puntal}
 {39201}{}{Este puntal ayuda a soportar la pared defensiva.}
 {39300}{}{Puntal}
@@ -757,16 +757,16 @@
 {39401}{}{Este puntal ayuda a soportar la pared defensiva.}
 {39500}{}{Puntal}
 {39501}{}{Este puntal ayuda a soportar la pared defensiva.}
-{39600}{}{Barril met·lico}
-{39601}{}{Un oxidado barril met·lico. Est· vacÌo.}
-{39700}{}{Barril met·lico}
-{39701}{}{Este barril est· probablemente vacÌo, porque suena a hueco.}
-{39800}{}{Barriles met·licos}
-{39801}{}{Estos barriles est·n probablemente vacÌos, porque suenan a hueco.}
-{39900}{}{Barriles met·licos}
-{39901}{}{Estos barriles est·n probablemente vacÌos, porque suenan a hueco.}
+{39600}{}{Barril met√°lico}
+{39601}{}{Un oxidado barril met√°lico. Est√° vac√≠o.}
+{39700}{}{Barril met√°lico}
+{39701}{}{Este barril est√° probablemente vac√≠o, porque suena a hueco.}
+{39800}{}{Barriles met√°licos}
+{39801}{}{Estos barriles est√°n probablemente vac√≠os, porque suenan a hueco.}
+{39900}{}{Barriles met√°licos}
+{39901}{}{Estos barriles est√°n probablemente vac√≠os, porque suenan a hueco.}
 {40000}{}{Respiradero}
-{40001}{}{Este conducto de ventilaciÛn parece formar parte de una estructura subterr·nea.}
+{40001}{}{Este conducto de ventilaci√≥n parece formar parte de una estructura subterr√°nea.}
 {40100}{}{Embalaje}
 {40101}{}{Una caja de madera. No parece estar muy mal.}
 {40200}{}{Embalaje}
@@ -780,86 +780,86 @@
 {40600}{}{Puerta}
 {40601}{}{Una puerta de madera, en un buen estado.}
 {40700}{}{Derrumbamiento}
-{40701}{}{Una gran cantidad de rocas, muchas m·s de las que podrÌas mover en tu vida.}
+{40701}{}{Una gran cantidad de rocas, muchas m√°s de las que podr√≠as mover en tu vida.}
 {40800}{}{Coche}
-{40801}{}{Este automÛvil sumergido no se puede reparar.}
+{40801}{}{Este autom√≥vil sumergido no se puede reparar.}
 {40900}{}{Coche}
-{40901}{}{Este automÛvil est· ligeramente empapado, y no se puede reparar.}
+{40901}{}{Este autom√≥vil est√° ligeramente empapado, y no se puede reparar.}
 {41000}{}{Coche}
-{41001}{}{Este automÛvil estaba bastante mal estacionado. Desafortunadamente, es irreparable.}
+{41001}{}{Este autom√≥vil estaba bastante mal estacionado. Desafortunadamente, es irreparable.}
 {41100}{}{Basura}
 {41101}{}{Esta basura ha sido arruinada por el agua contaminada del mar.}
 {41200}{}{Basura}
 {41201}{}{Esta basura esta a punto de ser arrastrada.}
 {41300}{}{Basura}
-{41301}{}{Una selecciÛn de primera calidad de basura sin valor.}
-{41400}{}{TuberÌas}
-{41401}{}{Estas tuberÌas se usaron para transferir gasolina desde el depÛsito subterr·neo al garaje. No han sido usadas en aÒos.}
-{41500}{}{TuberÌa}
-{41501}{}{Estas tuberÌas se usaron para transferir gasolina desde el depÛsito subterr·neo al garaje. No han sido usadas en aÒos.}
-{41600}{}{TuberÌas}
-{41601}{}{Estas tuberÌas se usaron para transferir gasolina desde el depÛsito subterr·neo al garaje. No han sido usadas en aÒos.}
+{41301}{}{Una selecci√≥n de primera calidad de basura sin valor.}
+{41400}{}{Tuber√≠as}
+{41401}{}{Estas tuber√≠as se usaron para transferir gasolina desde el dep√≥sito subterr√°neo al garaje. No han sido usadas en a√±os.}
+{41500}{}{Tuber√≠a}
+{41501}{}{Estas tuber√≠as se usaron para transferir gasolina desde el dep√≥sito subterr√°neo al garaje. No han sido usadas en a√±os.}
+{41600}{}{Tuber√≠as}
+{41601}{}{Estas tuber√≠as se usaron para transferir gasolina desde el dep√≥sito subterr√°neo al garaje. No han sido usadas en a√±os.}
 {41700}{}{Hueco del ascensor}
 {41701}{}{Parte de un sistema de ascensor.}
 {41800}{}{Eje De Aire}
-{41801}{}{Un conducto de aire que se extiende profundamente en la nave. Ha sido daÒado.}
+{41801}{}{Un conducto de aire que se extiende profundamente en la nave. Ha sido da√±ado.}
 {41900}{}{Ascensor}
 {41901}{}{Un ascensor. Usado para subir y bajar niveles.}
 {42000}{}{Hueco del ascensor}
-{42001}{}{Un hueco de ascensor que profundiza en la tierra. Ha sido daÒado.}
+{42001}{}{Un hueco de ascensor que profundiza en la tierra. Ha sido da√±ado.}
 {42100}{}{Puerta del ascensor}
 {42101}{}{Este puerta conduce al ascensor. Si quieres usar el ascensor, primero debes abrir esta puerta.}
-{42200}{}{TuberÌa}
-{42201}{}{Una tuberÌa de metal. Los dem·s detalles no son importantes.}
+{42200}{}{Tuber√≠a}
+{42201}{}{Una tuber√≠a de metal. Los dem√°s detalles no son importantes.}
 {42300}{}{Basura}
 {42400}{}{Caja}
 {42500}{}{Caja}
 {42600}{}{Caja}
 {42700}{}{Caja}
 {42800}{}{Rocas}
-{42801}{}{Un montÛn de rocas. No es muy interesante.}
+{42801}{}{Un mont√≥n de rocas. No es muy interesante.}
 {42900}{}{Rocas}
-{42901}{}{Un montÛn de rocas. No es muy interesante.}
+{42901}{}{Un mont√≥n de rocas. No es muy interesante.}
 {43000}{}{Rocas}
-{43001}{}{Un pequeÒo montÛn de rocas. No te interesa en lo m·s mÌnimo.}
+{43001}{}{Un peque√±o mont√≥n de rocas. No te interesa en lo m√°s m√≠nimo.}
 {43100}{}{Rocas}
-{43101}{}{Un pequeÒo montÛn de rocas.}
+{43101}{}{Un peque√±o mont√≥n de rocas.}
 {43200}{}{Rocas}
-{43201}{}{Un pequeÒo montÛn de rocas.}
+{43201}{}{Un peque√±o mont√≥n de rocas.}
 {43300}{}{Rocas}
-{43301}{}{Un pequeÒo montÛn de rocas.}
+{43301}{}{Un peque√±o mont√≥n de rocas.}
 {43400}{}{Rocas}
-{43401}{}{Un pequeÒo montÛn de rocas.}
+{43401}{}{Un peque√±o mont√≥n de rocas.}
 {43500}{}{Rocas}
-{43501}{}{Un pequeÒo montÛn de rocas.}
+{43501}{}{Un peque√±o mont√≥n de rocas.}
 {43600}{}{Puerta del Refugio}
 {43601}{}{Esta puerta es muy similar a la del Refugio 13. El mecanismo de la puerta ha sido desactivado.}
 {43700}{}{Puerta}
-{43701}{}{Una puerta de madera finamente construida, reforzada con adornadas tiras de metal de un diseÒo casi hipnÛtico.}
+{43701}{}{Una puerta de madera finamente construida, reforzada con adornadas tiras de metal de un dise√±o casi hipn√≥tico.}
 {43800}{}{Puerta}
-{43801}{}{Una puerta de madera finamente construida, reforzada con adornadas tiras de metal de un diseÒo casi hipnÛtico.}
+{43801}{}{Una puerta de madera finamente construida, reforzada con adornadas tiras de metal de un dise√±o casi hipn√≥tico.}
 {43900}{}{Cubas}
-{43901}{}{Un complejo de alg˙n tipo. No est·s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
+{43901}{}{Un complejo de alg√∫n tipo. No est√°s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
 {44000}{}{Cubas}
-{44001}{}{Un complejo de alg˙n tipo. No est·s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
+{44001}{}{Un complejo de alg√∫n tipo. No est√°s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
 {44100}{}{Cubas}
-{44101}{}{Un complejo de alg˙n tipo. No est·s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
+{44101}{}{Un complejo de alg√∫n tipo. No est√°s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
 {44200}{}{Cubas}
-{44201}{}{Un complejo de alg˙n tipo. No est·s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
+{44201}{}{Un complejo de alg√∫n tipo. No est√°s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
 {44300}{}{Cubas}
-{44301}{}{Un complejo de alg˙n tipo. No est·s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
+{44301}{}{Un complejo de alg√∫n tipo. No est√°s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
 {44400}{}{Cubas}
-{44401}{}{Un complejo de alg˙n tipo. No est·s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
+{44401}{}{Un complejo de alg√∫n tipo. No est√°s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
 {44500}{}{Cubas}
-{44501}{}{Un complejo de alg˙n tipo. No est·s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
+{44501}{}{Un complejo de alg√∫n tipo. No est√°s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
 {44600}{}{Cubas}
-{44601}{}{Un complejo de alg˙n tipo. No est·s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
+{44601}{}{Un complejo de alg√∫n tipo. No est√°s seguro, pero puedes ver grandes cubas de una sustancia verdosa que parece vagamente importante.}
 {44700}{}{Muro}
 {44800}{}{Puerta}
 {44801}{}{Una puerta de seguridad. Parece pesadamente blindada.}
 {44900}{}{Cabeza nuclear}
 {45000}{}{Pozo}
-{45001}{}{Un tÌpico pozo encontrado en el Yermo.}
+{45001}{}{Un t√≠pico pozo encontrado en el Yermo.}
 {45100}{}{Mesa de juego}
 {45101}{}{Esta es una mesa de juegos.}
 {45200}{}{Mesa de juego}
@@ -881,14 +881,14 @@
 {46000}{}{Mesa de juego}
 {46001}{}{Esta es una mesa de juegos.}
 {46100}{}{Roca}
-{46101}{}{Una pequeÒa roca, sin importancia alguna en el contexto de esta historia.}
+{46101}{}{Una peque√±a roca, sin importancia alguna en el contexto de esta historia.}
 {46200}{}{Roca}
 {46300}{}{Roca}
 {46400}{}{Roca}
 {46500}{}{Tragaperras}
-{46501}{}{Esto es una m·quina tragaperras.}
+{46501}{}{Esto es una m√°quina tragaperras.}
 {46600}{}{Tragaperras}
-{46601}{}{Esto es una m·quina tragaperras.}
+{46601}{}{Esto es una m√°quina tragaperras.}
 {46700}{}{Puerta}
 {46800}{}{Eje}
 {46900}{}{Eje}
@@ -914,9 +914,9 @@
 {48000}{}{Puerta}
 {48001}{}{Esta gran puerta de metal ha sido trabada desde dentro. Lees SOLO CARGAMENTO.}
 {48100}{}{Puerta}
-{48101}{}{Esta puerta se parece sospechosamente a la que encontrarÌas en un almacÈn.}
+{48101}{}{Esta puerta se parece sospechosamente a la que encontrar√≠as en un almac√©n.}
 {48200}{}{Puerta}
-{48201}{}{Esta puerta se parece sospechosamente a la que encontrarÌas en un almacÈn.}
+{48201}{}{Esta puerta se parece sospechosamente a la que encontrar√≠as en un almac√©n.}
 {48300}{}{Veleta}
 {48301}{}{Esta veleta ayuda a los habitantes del yermo a estudiar el clima.}
 {48400}{}{Altar}
@@ -925,41 +925,41 @@
 {48501}{}{Esto es un estrado normal para que la gente hable.}
 {48600}{}{Altar}
 {48700}{}{Monitor}
-{48701}{}{Un monitor grande, en blanco y negro. La recepciÛn es muy buena para estar bajo techo y sin antena.}
+{48701}{}{Un monitor grande, en blanco y negro. La recepci√≥n es muy buena para estar bajo techo y sin antena.}
 {48800}{}{Monitor}
-{48801}{}{Un monitor grande, en blanco y negro. Una figura vestida con toga est· recitando dogmas religiosos febrilmente.}
+{48801}{}{Un monitor grande, en blanco y negro. Una figura vestida con toga est√° recitando dogmas religiosos febrilmente.}
 {48900}{}{Campo de fuerza}
-{48901}{}{Esto es un poderoso campo de energÌa.}
+{48901}{}{Esto es un poderoso campo de energ√≠a.}
 {49000}{}{Campo de fuerza}
-{49001}{}{Esto es un poderoso campo de energÌa.}
+{49001}{}{Esto es un poderoso campo de energ√≠a.}
 {49100}{}{Campo de fuerza}
-{49101}{}{Esto es un poderoso campo de energÌa.}
+{49101}{}{Esto es un poderoso campo de energ√≠a.}
 {49200}{}{Campo de fuerza}
-{49201}{}{Esto es un poderoso campo de energÌa.}
+{49201}{}{Esto es un poderoso campo de energ√≠a.}
 {49300}{}{Mesa}
-{49301}{}{Una mesa de madera com˙n.}
+{49301}{}{Una mesa de madera com√∫n.}
 {49400}{}{Mesa}
-{49401}{}{Una mesa de madera com˙n.}
+{49401}{}{Una mesa de madera com√∫n.}
 {49500}{}{Mesa}
-{49501}{}{Una mesa de madera com˙n.}
+{49501}{}{Una mesa de madera com√∫n.}
 {49600}{}{Mesa}
-{49601}{}{Una mesa de madera com˙n.}
+{49601}{}{Una mesa de madera com√∫n.}
 {49700}{}{Mesa}
-{49701}{}{Una mesa de madera com˙n.}
+{49701}{}{Una mesa de madera com√∫n.}
 {49800}{}{Mesa}
-{49801}{}{Una mesa de madera com˙n.}
+{49801}{}{Una mesa de madera com√∫n.}
 {49900}{}{Rocas}
-{49901}{}{Un montÛn de rocas. No es muy interesante.}
+{49901}{}{Un mont√≥n de rocas. No es muy interesante.}
 {50000}{}{Rocas}
-{50001}{}{Un montÛn de rocas. No es muy interesante.}
+{50001}{}{Un mont√≥n de rocas. No es muy interesante.}
 {50100}{}{Rocas}
-{50101}{}{Un pequeÒo montÛn de rocas. No te interesa en lo m·s mÌnimo.}
+{50101}{}{Un peque√±o mont√≥n de rocas. No te interesa en lo m√°s m√≠nimo.}
 {50200}{}{Rocas}
-{50201}{}{Un pequeÒo montÛn de rocas.}
+{50201}{}{Un peque√±o mont√≥n de rocas.}
 {50300}{}{Rocas}
-{50301}{}{Un pequeÒo montÛn de rocas.}
+{50301}{}{Un peque√±o mont√≥n de rocas.}
 {50400}{}{Rocas}
-{50401}{}{Un pequeÒo montÛn de rocas.}
+{50401}{}{Un peque√±o mont√≥n de rocas.}
 {50500}{}{Altar}
 {50501}{}{Un simple altar hecho de madera pintada.}
 {50600}{}{Altar}
@@ -969,7 +969,7 @@
 {50800}{}{Altar}
 {50801}{}{Un simple altar hecho de madera pintada.}
 {50900}{}{Escombro}
-{50901}{}{Una colapsada secciÛn del techo ha formado este montÛn de escombros. Tu soga conduce a la superficie.}
+{50901}{}{Una colapsada secci√≥n del techo ha formado este mont√≥n de escombros. Tu soga conduce a la superficie.}
 {51000}{}{Rocas}
 {51001}{}{fgfgfg}
 {51100}{}{No utilizados.}
@@ -978,39 +978,39 @@
 {51400}{}{No utilizados.}
 {51500}{}{No utilizados.}
 {51600}{}{Mesa}
-{51601}{}{Esta mesa grande parece importante. øQuiz· hayan mantenido reuniones aquÌ?}
+{51601}{}{Esta mesa grande parece importante. ¬øQuiz√° hayan mantenido reuniones aqu√≠?}
 {51700}{}{Mesa}
-{51701}{}{Esta mesa grande parece importante. øQuiz· hayan mantenido reuniones aquÌ?}
+{51701}{}{Esta mesa grande parece importante. ¬øQuiz√° hayan mantenido reuniones aqu√≠?}
 {51800}{}{Mesa}
-{51801}{}{Esta mesa grande parece importante. øQuiz· hayan mantenido reuniones aquÌ?}
+{51801}{}{Esta mesa grande parece importante. ¬øQuiz√° hayan mantenido reuniones aqu√≠?}
 {51900}{}{Mesa}
-{51901}{}{Esta mesa grande parece importante. øQuiz· hayan mantenido reuniones aquÌ?}
+{51901}{}{Esta mesa grande parece importante. ¬øQuiz√° hayan mantenido reuniones aqu√≠?}
 {52000}{}{Mesa}
-{52001}{}{Esta mesa grande parece importante. øQuiz· hayan mantenido reuniones aquÌ?}
+{52001}{}{Esta mesa grande parece importante. ¬øQuiz√° hayan mantenido reuniones aqu√≠?}
 {52100}{}{Mesa}
-{52101}{}{Esta mesa grande parece importante. øQuiz· hayan mantenido reuniones aquÌ?}
+{52101}{}{Esta mesa grande parece importante. ¬øQuiz√° hayan mantenido reuniones aqu√≠?}
 {52200}{}{Altar}
-{52201}{}{Un altar diseÒado y utilizado por la Hermandad del Acero. Su sÌmbolo se muestra descaradamente.}
+{52201}{}{Un altar dise√±ado y utilizado por la Hermandad del Acero. Su s√≠mbolo se muestra descaradamente.}
 {52300}{}{Altar}
-{52301}{}{Un altar diseÒado y utilizado por la Hermandad del Acero. Su sÌmbolo se muestra descaradamente.}
+{52301}{}{Un altar dise√±ado y utilizado por la Hermandad del Acero. Su s√≠mbolo se muestra descaradamente.}
 {52400}{}{Altar}
-{52401}{}{Un altar diseÒado y utilizado por la Hermandad del Acero. Su sÌmbolo se muestra descaradamente.}
+{52401}{}{Un altar dise√±ado y utilizado por la Hermandad del Acero. Su s√≠mbolo se muestra descaradamente.}
 {52500}{}{Banco de iglesia}
-{52501}{}{Un banco diseÒado a la moda, y parece muy incÛmodo.}
+{52501}{}{Un banco dise√±ado a la moda, y parece muy inc√≥modo.}
 {52600}{}{Estrado}
 {52601}{}{Un estrado de madera. Hay una pantalla apuntadora montada en su interior, de cara al orador.}
 {52700}{}{Carro}
-{52701}{}{Un carro de mercancÌas convertido a partir de restos destrozados de un antiguo automÛvil.}
+{52701}{}{Un carro de mercanc√≠as convertido a partir de restos destrozados de un antiguo autom√≥vil.}
 {52800}{}{Carro}
-{52801}{}{Un carro de mercancÌas convertido a partir de restos destrozados de un antiguo automÛvil.}
+{52801}{}{Un carro de mercanc√≠as convertido a partir de restos destrozados de un antiguo autom√≥vil.}
 {52900}{}{Carro}
-{52901}{}{Un carro de mercancÌas convertido a partir de restos destrozados de un antiguo automÛvil.}
+{52901}{}{Un carro de mercanc√≠as convertido a partir de restos destrozados de un antiguo autom√≥vil.}
 {53000}{}{Carro}
-{53001}{}{Un carro de mercancÌas convertido a partir de restos destrozados de un antiguo automÛvil.}
+{53001}{}{Un carro de mercanc√≠as convertido a partir de restos destrozados de un antiguo autom√≥vil.}
 {53100}{}{Carro}
-{53101}{}{Un carro de mercancÌas convertido a partir de restos destrozados de un antiguo automÛvil.}
+{53101}{}{Un carro de mercanc√≠as convertido a partir de restos destrozados de un antiguo autom√≥vil.}
 {53200}{}{Carro}
-{53201}{}{Un carro de mercancÌas convertido a partir de restos destrozados de un antiguo automÛvil.}
+{53201}{}{Un carro de mercanc√≠as convertido a partir de restos destrozados de un antiguo autom√≥vil.}
 {53300}{}{Colchoneta}
 {53301}{}{Una colchoneta de entrenamiento.}
 {53400}{}{Colchoneta}
@@ -1020,18 +1020,18 @@
 {53600}{}{Colchoneta}
 {53601}{}{Una colchoneta de entrenamiento.}
 {53700}{}{Saco}
-{53701}{}{Saco de arena FortachÛn(TM).}
-{53800}{}{Escalera mÛvil}
-{53801}{}{Una m·quina de ejercicios.}
-{53900}{}{Escalera mÛvil}
+{53701}{}{Saco de arena Fortach√≥n(TM).}
+{53800}{}{Escalera m√≥vil}
+{53801}{}{Una m√°quina de ejercicios.}
+{53900}{}{Escalera m√≥vil}
 {54000}{}{Cinta rodante}
-{54001}{}{Una m·quina de ejercicios.}
+{54001}{}{Una m√°quina de ejercicios.}
 {54100}{}{Cinta rodante}
-{54101}{}{Una m·quina de ejercicios.}
+{54101}{}{Una m√°quina de ejercicios.}
 {54200}{}{Banco de pesas}
-{54201}{}{Una m·quina de ejercicios.}
+{54201}{}{Una m√°quina de ejercicios.}
 {54300}{}{Banco de pesas}
-{54301}{}{Una m·quina de ejercicios.}
+{54301}{}{Una m√°quina de ejercicios.}
 {54400}{}{Planchas de madera}
 {54401}{}{Estas robustas planchas de madera han sido atadas firmemente.}
 {54500}{}{Planchas de madera}
@@ -1047,47 +1047,47 @@
 {55000}{}{Mesa de ruleta}
 {55001}{}{Esta es una mesa de juegos.}
 {55100}{}{Barril}
-{55101}{}{Este barril de metal vacÌo tiene el sÌmbolo del trÈbol nuclear pintado con brillante pintura amarilla.}
+{55101}{}{Este barril de metal vac√≠o tiene el s√≠mbolo del tr√©bol nuclear pintado con brillante pintura amarilla.}
 {55200}{}{Barril}
-{55201}{}{Este barril contiene una sustancia verde brillante. El sÌmbolo del trÈbol nuclear te da una pista de la sustancia que puede ser.}
+{55201}{}{Este barril contiene una sustancia verde brillante. El s√≠mbolo del tr√©bol nuclear te da una pista de la sustancia que puede ser.}
 {55300}{}{Computadora}
 {55301}{}{Una computadora muy moderna.}
 {55400}{}{Computadora}
 {55401}{}{Una computadora muy moderna.}
-{55500}{}{Tanque de suspensiÛn}
-{55501}{}{Alg˙n tipo de aparato mÈdico o experimental, que parece como si pudiera contener un ser humano o un cuerpo de mayor tamaÒo.}
-{55600}{}{Tanque de suspensiÛn roto}
+{55500}{}{Tanque de suspensi√≥n}
+{55501}{}{Alg√∫n tipo de aparato m√©dico o experimental, que parece como si pudiera contener un ser humano o un cuerpo de mayor tama√±o.}
+{55600}{}{Tanque de suspensi√≥n roto}
 {55601}{}{Una pieza de equipo rota. Es irreparable.}
 {55700}{}{Supercomputadora}
-{55701}{}{Una supercomputadora. Probablemente la computadora m·s r·pida que hayas visto.}
+{55701}{}{Una supercomputadora. Probablemente la computadora m√°s r√°pida que hayas visto.}
 {55800}{}{Plataforma de apoyo}
-{55801}{}{Esta plataforma soporta la gran supercomputadora situada sobre los tanques de refrigeraciÛn.}
+{55801}{}{Esta plataforma soporta la gran supercomputadora situada sobre los tanques de refrigeraci√≥n.}
 {55900}{}{No usar}
 {56000}{}{No usar}
 {56100}{}{Cama}
-{56101}{}{Una litera de estilo militar. Parece muy incÛmoda. TambiÈn parece que una moneda rebotarÌa en sus s·banas.}
+{56101}{}{Una litera de estilo militar. Parece muy inc√≥moda. Tambi√©n parece que una moneda rebotar√≠a en sus s√°banas.}
 {56200}{}{Cama}
-{56201}{}{Una litera de estilo militar. Parece muy incÛmoda. TambiÈn parece que una moneda rebotarÌa en sus s·banas.}
+{56201}{}{Una litera de estilo militar. Parece muy inc√≥moda. Tambi√©n parece que una moneda rebotar√≠a en sus s√°banas.}
 {56300}{}{Cama}
-{56301}{}{Una litera de estilo militar. Parece muy incÛmoda. TambiÈn parece que una moneda rebotarÌa en sus s·banas.}
+{56301}{}{Una litera de estilo militar. Parece muy inc√≥moda. Tambi√©n parece que una moneda rebotar√≠a en sus s√°banas.}
 {56400}{}{Cable}
 {56401}{}{Parece una especie de cable serie.}
 {56500}{}{Cable}
 {56501}{}{Parece una especie de cable serie.}
 {56600}{}{Cartel}
-{56601}{}{En el cartel pone BAR. DeberÌa ser evidente por sÌ mismo.}
+{56601}{}{En el cartel pone BAR. Deber√≠a ser evidente por s√≠ mismo.}
 {56700}{}{Viga}
-{56701}{}{Esta fuerte viga est· situada sobre el agujero del cr·ter.}
+{56701}{}{Esta fuerte viga est√° situada sobre el agujero del cr√°ter.}
 {56800}{}{Viga}
-{56801}{}{Hay una cuerda atada con seguridad a la viga. Parece que ahora puedes descender al cr·ter.}
+{56801}{}{Hay una cuerda atada con seguridad a la viga. Parece que ahora puedes descender al cr√°ter.}
 {56900}{}{Estantes}
-{56901}{}{Ves algunos estantes de metal vacÌos.}
+{56901}{}{Ves algunos estantes de metal vac√≠os.}
 {57000}{}{Estantes}
-{57001}{}{Ves algunos estantes de metal vacÌos.}
+{57001}{}{Ves algunos estantes de metal vac√≠os.}
 {57100}{}{Estantes}
-{57101}{}{Ves algunos estantes de metal vacÌos.}
+{57101}{}{Ves algunos estantes de metal vac√≠os.}
 {57200}{}{Estantes}
-{57201}{}{Ves algunos estantes de metal vacÌos.}
+{57201}{}{Ves algunos estantes de metal vac√≠os.}
 {57300}{}{Arbusto}
 {57301}{}{Alguna clase de hierba del desierto. No es importante para esta historia.}
 {57400}{}{Arbusto}
@@ -1095,7 +1095,7 @@
 {57500}{}{Arbusto}
 {57501}{}{Alguna clase de hierba del desierto.}
 {57600}{}{Suelo}
-{57601}{}{Una buena vista del cementerio desde este nivel de la torre. Tienes una agradable sensaciÛn por la altura a la que est·s.}
+{57601}{}{Una buena vista del cementerio desde este nivel de la torre. Tienes una agradable sensaci√≥n por la altura a la que est√°s.}
 {57700}{}{Suelo}
 {57701}{}{Una buena vista del cementerio desde este nivel de la torre.}
 {57800}{}{Muro}
@@ -1113,43 +1113,43 @@
 {58400}{}{Escalera}
 {58401}{}{Esta escalera conduce hacia la oscuridad de abajo.}
 {58500}{}{Maquinaria}
-{58501}{}{Parece una vieja imprenta o alg˙n artilugio de fabricaciÛn.}
+{58501}{}{Parece una vieja imprenta o alg√∫n artilugio de fabricaci√≥n.}
 {58600}{}{Maquinaria}
-{58601}{}{Parece una vieja imprenta o alg˙n artilugio de fabricaciÛn.}
+{58601}{}{Parece una vieja imprenta o alg√∫n artilugio de fabricaci√≥n.}
 {58700}{}{Maquinaria}
-{58701}{}{Parece una vieja imprenta o alg˙n artilugio de fabricaciÛn.}
+{58701}{}{Parece una vieja imprenta o alg√∫n artilugio de fabricaci√≥n.}
 {58800}{}{Maquinaria}
-{58801}{}{Parece una vieja imprenta o alg˙n artilugio de fabricaciÛn.}
+{58801}{}{Parece una vieja imprenta o alg√∫n artilugio de fabricaci√≥n.}
 {58900}{}{Maquinaria}
-{58901}{}{Parece una vieja imprenta o alg˙n artilugio de fabricaciÛn.}
+{58901}{}{Parece una vieja imprenta o alg√∫n artilugio de fabricaci√≥n.}
 {59000}{}{Chatarra De Metal}
 {59001}{}{Chatarra De Metal}
 {59100}{}{Mesa}
-{59101}{}{Esta mesa de metal est· en buen estado. Tiene un sumidero en el centro.}
+{59101}{}{Esta mesa de metal est√° en buen estado. Tiene un sumidero en el centro.}
 {59200}{}{Mesa}
-{59201}{}{Esta mesa de metal est· en buen estado. Tiene un sumidero en el centro.}
+{59201}{}{Esta mesa de metal est√° en buen estado. Tiene un sumidero en el centro.}
 {59300}{}{Mesa}
-{59301}{}{La mesa de metal est· cubierta por alg˙n tipo de biomasa.}
+{59301}{}{La mesa de metal est√° cubierta por alg√∫n tipo de biomasa.}
 {59400}{}{Mesa}
-{59401}{}{La mesa de metal est· cubierta por alg˙n tipo de biomasa.}
+{59401}{}{La mesa de metal est√° cubierta por alg√∫n tipo de biomasa.}
 {59500}{}{Mesa}
-{59501}{}{La mesa de metal est· cubierta por alg˙n tipo de biomasa.}
-{59600}{}{TablÛn de anuncios}
-{59601}{}{Hay ofertas de empleo grapada en el tablÛn. Parece muy utilizado.}
+{59501}{}{La mesa de metal est√° cubierta por alg√∫n tipo de biomasa.}
+{59600}{}{Tabl√≥n de anuncios}
+{59601}{}{Hay ofertas de empleo grapada en el tabl√≥n. Parece muy utilizado.}
 {59700}{}{Choza}
-{59701}{}{Esta choza tendr· unos cien aÒos, pero sigue en excelentes condiciones.}
+{59701}{}{Esta choza tendr√° unos cien a√±os, pero sigue en excelentes condiciones.}
 {59800}{}{Cartel}
-{59801}{}{En el cartel pone: AlmacÈn General.}
+{59801}{}{En el cartel pone: Almac√©n General.}
 {59900}{}{Cartel}
-{59901}{}{En el cartel pone: AlmacÈn General.}
+{59901}{}{En el cartel pone: Almac√©n General.}
 {60000}{}{Cartel}
 {60001}{}{En el cartel pone: Mercado}
 {60100}{}{Charca de cieno}
-{60101}{}{Parece muy insalubre. DeberÌas ponerte un traje de baÒo blindado antes de tomar un baÒo.}
+{60101}{}{Parece muy insalubre. Deber√≠as ponerte un traje de ba√±o blindado antes de tomar un ba√±o.}
 {60200}{}{Charca de cieno}
-{60201}{}{Parece muy insalubre. DeberÌas ponerte un traje de baÒo blindado antes de tomar un baÒo.}
+{60201}{}{Parece muy insalubre. Deber√≠as ponerte un traje de ba√±o blindado antes de tomar un ba√±o.}
 {60300}{}{Charca de cieno}
-{60301}{}{Parece muy insalubre. DeberÌas ponerte un traje de baÒo blindado antes de tomar un baÒo.}
+{60301}{}{Parece muy insalubre. Deber√≠as ponerte un traje de ba√±o blindado antes de tomar un ba√±o.}
 {60400}{}{Mesa}
 {60401}{}{Una mesa de metal.}
 {60500}{}{Mesa}
@@ -1159,15 +1159,15 @@
 {60700}{}{Mesa}
 {60701}{}{Una mesa de metal.}
 {60800}{}{Mesa}
-{60801}{}{Esta mesa de metal no ha sido tratada bien. El Ûxido penetra muy profundamente.}
+{60801}{}{Esta mesa de metal no ha sido tratada bien. El √≥xido penetra muy profundamente.}
 {60900}{}{Mesa}
-{60901}{}{Una buena mesa de metal, excepto por el Ûxido.}
+{60901}{}{Una buena mesa de metal, excepto por el √≥xido.}
 {61000}{}{Mesa}
-{61001}{}{Una buena mesa de metal, excepto por el Ûxido.}
+{61001}{}{Una buena mesa de metal, excepto por el √≥xido.}
 {61100}{}{Mesa}
-{61101}{}{Una buena mesa de metal, excepto por el Ûxido.}
+{61101}{}{Una buena mesa de metal, excepto por el √≥xido.}
 {61200}{}{Hoguera}
-{61201}{}{La hoguera est· encendida.}
+{61201}{}{La hoguera est√° encendida.}
 {61300}{}{Espejo}
 {61301}{}{Te miras a ti mismo durante un tiempo.}
 {61400}{}{Espejo}
@@ -1175,27 +1175,27 @@
 {61500}{}{Lavabo}
 {61501}{}{Un lavabo que funciona. Y bonito y limpio.}
 {61600}{}{Excusado}
-{61601}{}{Este inodoro est· muy limpio. Y funciona.}
+{61601}{}{Este inodoro est√° muy limpio. Y funciona.}
 {61700}{}{Inodoro}
 {61701}{}{Este urinario funciona.}
 {61800}{}{Excusado}
-{61801}{}{Si tuvieras fijaciÛn por los inodoros, entonces Èste serÌa un bonito inodoro.}
+{61801}{}{Si tuvieras fijaci√≥n por los inodoros, entonces √©ste ser√≠a un bonito inodoro.}
 {61900}{}{Lavabo}
-{61901}{}{Este lavabo est· en perfectas condiciones.}
+{61901}{}{Este lavabo est√° en perfectas condiciones.}
 {62000}{}{Inodoro}
 {62001}{}{Este inodoro esta en perfectas condiciones.}
 {62100}{}{Ducha}
-{62101}{}{Una ducha de tipo militar. No es v·lida para personas pudorosas.}
+{62101}{}{Una ducha de tipo militar. No es v√°lida para personas pudorosas.}
 {62200}{}{Ducha}
-{62201}{}{Una ducha de tipo militar. No es v·lida para personas pudorosas.}
+{62201}{}{Una ducha de tipo militar. No es v√°lida para personas pudorosas.}
 {62300}{}{Ducha}
-{62301}{}{Una ducha de tipo militar. No es v·lida para personas pudorosas.}
+{62301}{}{Una ducha de tipo militar. No es v√°lida para personas pudorosas.}
 {62400}{}{Ducha}
-{62401}{}{Una ducha de tipo militar. No es v·lida para personas pudorosas.}
+{62401}{}{Una ducha de tipo militar. No es v√°lida para personas pudorosas.}
 {62500}{}{Ducha}
-{62501}{}{Una ducha de tipo militar. No es v·lida para personas pudorosas.}
+{62501}{}{Una ducha de tipo militar. No es v√°lida para personas pudorosas.}
 {62600}{}{Ducha}
-{62601}{}{Una ducha de tipo militar. No es v·lida para personas pudorosas.}
+{62601}{}{Una ducha de tipo militar. No es v√°lida para personas pudorosas.}
 {62700}{}{Cama}
 {62701}{}{Una cama de apariencia muy confortable.}
 {62800}{}{Cama}
@@ -1209,11 +1209,11 @@
 {63200}{}{Terminal}
 {63300}{}{Terminal}
 {63400}{}{Bandera}
-{63401}{}{Esta bandera es el sÌmbolo de Los NiÒos de la Catedral.}
+{63401}{}{Esta bandera es el s√≠mbolo de Los Ni√±os de la Catedral.}
 {63500}{}{Bandera}
-{63501}{}{Esta bandera es el sÌmbolo de Los NiÒos de la Catedral.}
+{63501}{}{Esta bandera es el s√≠mbolo de Los Ni√±os de la Catedral.}
 {63600}{}{Bandera}
-{63601}{}{Esta bandera es el sÌmbolo de Los NiÒos de la Catedral.}
+{63601}{}{Esta bandera es el s√≠mbolo de Los Ni√±os de la Catedral.}
 {63700}{}{Computadora}
 {63701}{}{Una computadora grande.}
 {63800}{}{Computadora}
@@ -1222,14 +1222,14 @@
 {63901}{}{Una computadora grande.}
 {64000}{}{Terminal}
 {64001}{}{El terminal de una computadora grande.}
-{64100}{}{Cad·ver}
-{64101}{}{Parece que esta persona muriÛ dolorosamente.}
-{64200}{}{Cad·ver}
-{64201}{}{Parece que esta persona muriÛ dolorosamente.}
-{64300}{}{Cad·ver}
-{64301}{}{Parece que esta persona muriÛ dolorosamente.}
-{64400}{}{Cad·ver}
-{64401}{}{Parece que esta persona muriÛ dolorosamente.}
+{64100}{}{Cad√°ver}
+{64101}{}{Parece que esta persona muri√≥ dolorosamente.}
+{64200}{}{Cad√°ver}
+{64201}{}{Parece que esta persona muri√≥ dolorosamente.}
+{64300}{}{Cad√°ver}
+{64301}{}{Parece que esta persona muri√≥ dolorosamente.}
+{64400}{}{Cad√°ver}
+{64401}{}{Parece que esta persona muri√≥ dolorosamente.}
 {64500}{}{Puerta}
 {64501}{}{Esta puerta enrejada sirve bien como puerta de celda.}
 {64600}{}{Terminal}
@@ -1239,20 +1239,20 @@
 {64900}{}{Carretilla elevadora}
 {64901}{}{La carretilla elevadora no funciona.}
 {65000}{}{Equipamiento}
-{65100}{}{Mesa mÈdica}
-{65101}{}{Esta mesa est· muy oxidada. El sumidero del centro de la mesa est· obstruido.}
-{65200}{}{Mesa mÈdica}
-{65201}{}{Esta mesa est· oxidada.}
+{65100}{}{Mesa m√©dica}
+{65101}{}{Esta mesa est√° muy oxidada. El sumidero del centro de la mesa est√° obstruido.}
+{65200}{}{Mesa m√©dica}
+{65201}{}{Esta mesa est√° oxidada.}
 {65300}{}{Puerta}
 {65301}{}{Esta puerta tiene una barra que sube y baja.}
-{65400}{}{TuberÌa}
-{65500}{}{TuberÌa}
-{65600}{}{Generador de energÌa}
-{65601}{}{Un generador elÈctrico Wattz ElectroBox. Pr·cticamente un est·ndar como generador de respaldo de antes de la guerra.}
+{65400}{}{Tuber√≠a}
+{65500}{}{Tuber√≠a}
+{65600}{}{Generador de energ√≠a}
+{65601}{}{Un generador el√©ctrico Wattz ElectroBox. Pr√°cticamente un est√°ndar como generador de respaldo de antes de la guerra.}
 {65700}{}{Tanque}
 {65701}{}{Un gran tanque de agua. Parece estar bien cuidado, lo cual es bueno.}
-{65800}{}{Cabina telefÛnica}
-{65801}{}{Una cabina telefÛnica del Reino Unido, de la dÈcada de 1960.}
+{65800}{}{Cabina telef√≥nica}
+{65801}{}{Una cabina telef√≥nica del Reino Unido, de la d√©cada de 1960.}
 {65900}{}{Mesa}
 {65901}{}{Una buena mesa. Hecha a mano, pero parece mejor que cualquier otra que hayas visto.}
 {66000}{}{Mesa}
@@ -1292,13 +1292,13 @@
 {67700}{}{Silla}
 {67701}{}{Una bonita silla.}
 {67800}{}{Cama}
-{67801}{}{Parece una cama muy cÛmoda.}
+{67801}{}{Parece una cama muy c√≥moda.}
 {67900}{}{Cama}
-{67901}{}{Parece una cama muy cÛmoda.}
+{67901}{}{Parece una cama muy c√≥moda.}
 {68000}{}{Cama}
-{68001}{}{Parece una cama muy cÛmoda.}
+{68001}{}{Parece una cama muy c√≥moda.}
 {68100}{}{Cama}
-{68101}{}{Parece una cama muy cÛmoda.}
+{68101}{}{Parece una cama muy c√≥moda.}
 {68200}{}{Estufa}
 {68201}{}{Una estufa que funciona con madera.}
 {68300}{}{Estufa}
@@ -1310,151 +1310,151 @@
 {68600}{}{Poste roto}
 {68700}{}{Entrada destruida}
 {68800}{}{Rocas}
-{68801}{}{Una gran formaciÛn de rocas. No se debiÛ a una circunstancia natural.}
+{68801}{}{Una gran formaci√≥n de rocas. No se debi√≥ a una circunstancia natural.}
 {68900}{}{Rocas}
-{68901}{}{Una gran formaciÛn de rocas. No se debiÛ a una circunstancia natural.}
+{68901}{}{Una gran formaci√≥n de rocas. No se debi√≥ a una circunstancia natural.}
 {69000}{}{Excusado}
 {69001}{}{Un inodoro, tosco pero efectivo. Hay algunas hojas en el sumidero para tratar el olor.}
-{69100}{}{MontaÒa}
-{69101}{}{La cara de esta montaÒa parece inaccesible.}
-{69200}{}{MontaÒa}
-{69201}{}{La cara de esta montaÒa parece inaccesible.}
-{69300}{}{MontaÒa}
-{69301}{}{La cara de esta montaÒa parece inaccesible.}
-{69400}{}{MontaÒa}
-{69401}{}{La cara de esta montaÒa parece inaccesible.}
-{69500}{}{MontaÒa}
-{69501}{}{La cara de esta montaÒa parece inaccesible.}
-{69600}{}{MontaÒa}
-{69601}{}{La cara de esta montaÒa parece inaccesible.}
+{69100}{}{Monta√±a}
+{69101}{}{La cara de esta monta√±a parece inaccesible.}
+{69200}{}{Monta√±a}
+{69201}{}{La cara de esta monta√±a parece inaccesible.}
+{69300}{}{Monta√±a}
+{69301}{}{La cara de esta monta√±a parece inaccesible.}
+{69400}{}{Monta√±a}
+{69401}{}{La cara de esta monta√±a parece inaccesible.}
+{69500}{}{Monta√±a}
+{69501}{}{La cara de esta monta√±a parece inaccesible.}
+{69600}{}{Monta√±a}
+{69601}{}{La cara de esta monta√±a parece inaccesible.}
 {69700}{}{Sustancia}
-{69701}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{69701}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {69800}{}{Sustancia}
-{69801}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{69801}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {69900}{}{Sustancia}
-{69901}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{69901}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {70000}{}{Sustancia}
-{70001}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{70001}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {70100}{}{Sustancia}
-{70101}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{70101}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {70200}{}{Sustancia}
-{70201}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{70201}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {70300}{}{Sustancia}
-{70301}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{70301}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {70400}{}{Sustancia}
-{70401}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{70401}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {70500}{}{Sustancia}
-{70501}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{70501}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {70600}{}{Sustancia}
-{70601}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{70601}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {70700}{}{Sustancia}
-{70701}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{70701}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {70800}{}{Sustancia}
-{70801}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{70801}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {70900}{}{Sustancia}
-{70901}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{70901}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {71000}{}{Sustancia}
-{71001}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{71001}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {71100}{}{Sustancia}
-{71101}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{71101}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {71200}{}{Sustancia}
-{71201}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{71201}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {71300}{}{Sustancia}
-{71301}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{71301}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {71400}{}{Sustancia}
-{71401}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{71401}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {71500}{}{Sustancia}
-{71501}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{71501}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {71600}{}{Sustancia}
-{71601}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{71601}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {71700}{}{Sustancia}
-{71701}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{71701}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {71800}{}{Sustancia}
-{71801}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{71801}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {71900}{}{Sustancia}
-{71901}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{71901}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {72000}{}{Sustancia}
-{72001}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{72001}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {72100}{}{Sustancia}
-{72101}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{72101}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {72200}{}{Sustancia}
-{72201}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{72201}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {72300}{}{Sustancia}
-{72301}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{72301}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {72400}{}{Sustancia}
-{72401}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{72401}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {72500}{}{Sustancia}
-{72501}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{72501}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {72600}{}{Sustancia}
-{72601}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{72601}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {72700}{}{Sustancia}
-{72701}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{72701}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {72800}{}{Sustancia}
-{72801}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{72801}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {72900}{}{Sustancia}
-{72901}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{72901}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {73000}{}{Sustancia}
-{73001}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{73001}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {73100}{}{Sustancia}
-{73101}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{73101}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {73200}{}{Sustancia}
-{73201}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{73201}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {73300}{}{Sustancia}
-{73301}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{73301}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {73400}{}{Sustancia}
-{73401}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{73401}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {73500}{}{Sustancia}
-{73501}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{73501}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {73600}{}{Sustancia}
-{73601}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{73601}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {73700}{}{Sustancia}
-{73701}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{73701}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {73800}{}{Sustancia}
-{73801}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{73801}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {73900}{}{Sustancia}
-{73901}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{73901}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {74000}{}{Sustancia}
-{74001}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{74001}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {74100}{}{Sustancia}
-{74101}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{74101}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {74200}{}{Sustancia}
-{74201}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{74201}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {74300}{}{Sustancia}
-{74301}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{74301}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {74400}{}{Sustancia}
-{74401}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{74401}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {74500}{}{Sustancia}
-{74501}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{74501}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {74600}{}{Sustancia}
-{74601}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{74601}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {74700}{}{Sustancia}
-{74701}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{74701}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {74800}{}{Sustancia}
-{74801}{}{Ves una extraÒa sustancia biolÛgica nociva.}
+{74801}{}{Ves una extra√±a sustancia biol√≥gica nociva.}
 {74900}{}{Computadora}
-{74901}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{74901}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {75000}{}{Computadora}
-{75001}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{75001}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {75100}{}{Computadora}
-{75101}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{75101}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {75200}{}{Computadora}
-{75201}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{75201}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {75300}{}{Computadora}
-{75301}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{75301}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {75400}{}{Computadora}
-{75401}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{75401}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {75500}{}{Computadora}
-{75501}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{75501}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {75600}{}{Computadora}
-{75601}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{75601}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {75700}{}{Computadora}
-{75701}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{75701}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {75800}{}{Computadora}
-{75801}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{75801}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {75900}{}{Computadora}
-{75901}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{75901}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {76000}{}{Computadora}
-{76001}{}{La cantidad de sustancia sobre esta computadora hace muy difÌcil su acceso.}
+{76001}{}{La cantidad de sustancia sobre esta computadora hace muy dif√≠cil su acceso.}
 {76100}{}{Monitores}
 {76101}{}{No puedes leer nada debido a la gran cantidad de sustancia salpicada en las pantallas.}
 {76200}{}{Monitores}
@@ -1467,29 +1467,29 @@
 {76600}{}{NO UTILIZADOS DE ARTE}
 {76700}{}{Suelo}
 {76800}{}{Bomba}
-{76801}{}{Esto es una bomba nuclear. Parece muy peligroso quedarse aquÌ sentado.}
+{76801}{}{Esto es una bomba nuclear. Parece muy peligroso quedarse aqu√≠ sentado.}
 {76900}{}{Base de apoyo}
 {76901}{}{Esta base acoge la bomba nuclear que tiene encima.}
 {77000}{}{Consola de Computadora}
-{77001}{}{Esta es la computadora de acceso a la bomba. La computadora parece muy segura. Hay una ranura para una llave de forma extraÒa.}
+{77001}{}{Esta es la computadora de acceso a la bomba. La computadora parece muy segura. Hay una ranura para una llave de forma extra√±a.}
 {77100}{}{Cables}
 {77101}{}{Estos cables conectan la bomba a la computadora.}
 {77200}{}{Silla}
-{77201}{}{No hay nada inusual en este sillÛn.}
+{77201}{}{No hay nada inusual en este sill√≥n.}
 {77300}{}{Silla}
-{77301}{}{No hay nada inusual en este sillÛn.}
+{77301}{}{No hay nada inusual en este sill√≥n.}
 {77400}{}{Silla}
-{77401}{}{No hay nada inusual en este sillÛn.}
+{77401}{}{No hay nada inusual en este sill√≥n.}
 {77500}{}{Silla}
-{77501}{}{No hay nada inusual en este sillÛn.}
+{77501}{}{No hay nada inusual en este sill√≥n.}
 {77600}{}{Silla}
-{77601}{}{No hay nada inusual en este sillÛn.}
+{77601}{}{No hay nada inusual en este sill√≥n.}
 {77700}{}{Silla}
-{77701}{}{No hay nada inusual en este sillÛn.}
+{77701}{}{No hay nada inusual en este sill√≥n.}
 {77800}{}{Silla}
-{77801}{}{No hay nada inusual en este sillÛn.}
+{77801}{}{No hay nada inusual en este sill√≥n.}
 {77900}{}{Silla}
-{77901}{}{No hay nada inusual en este sillÛn.}
+{77901}{}{No hay nada inusual en este sill√≥n.}
 {78000}{}{Pilar}
 {78001}{}{Un pilar de soporte.}
 {78100}{}{Pilar}
@@ -1499,37 +1499,37 @@
 {78300}{}{Pilar}
 {78301}{}{Un pilar de soporte.}
 {78400}{}{Cama}
-{78401}{}{Esta cama est· en pÈsimas condiciones.}
+{78401}{}{Esta cama est√° en p√©simas condiciones.}
 {78500}{}{Cama}
-{78501}{}{Esta cama est· en muy pobres condiciones.}
+{78501}{}{Esta cama est√° en muy pobres condiciones.}
 {78600}{}{Cama}
-{78601}{}{Esta cama est· en pobres condiciones.}
+{78601}{}{Esta cama est√° en pobres condiciones.}
 {78700}{}{Cama}
-{78701}{}{Esta cama est· en muy malas condiciones.}
+{78701}{}{Esta cama est√° en muy malas condiciones.}
 {78800}{}{Monitores}
-{78801}{}{Esos monitores est·n rotos y no pueden funcionar.}
+{78801}{}{Esos monitores est√°n rotos y no pueden funcionar.}
 {78900}{}{Monitores}
-{78901}{}{Esos monitores est·n rotos y no pueden funcionar.}
+{78901}{}{Esos monitores est√°n rotos y no pueden funcionar.}
 {79000}{}{Monitores}
-{79001}{}{Esos monitores est·n rotos y no pueden funcionar.}
+{79001}{}{Esos monitores est√°n rotos y no pueden funcionar.}
 {79100}{}{Monitores}
-{79101}{}{Esos monitores est·n rotos y no pueden funcionar.}
-{79200}{}{VentilaciÛn}
+{79101}{}{Esos monitores est√°n rotos y no pueden funcionar.}
+{79200}{}{Ventilaci√≥n}
 {79201}{}{Sale aire muy fresco de este respiradero.}
-{79300}{}{VentilaciÛn}
+{79300}{}{Ventilaci√≥n}
 {79301}{}{Apenas llega aire fresco de este respiradero.}
-{79400}{}{VentilaciÛn}
+{79400}{}{Ventilaci√≥n}
 {79401}{}{No llega aire fresco de este respiradero.}
-{79500}{}{VentilaciÛn}
-{79501}{}{SÛlo llega un poco de aire fresco de este respiradero.}
+{79500}{}{Ventilaci√≥n}
+{79501}{}{S√≥lo llega un poco de aire fresco de este respiradero.}
 {79600}{}{Mesa}
-{79601}{}{No hay nada inusual en esta mesa, excepto que est· rota casi del todo.}
+{79601}{}{No hay nada inusual en esta mesa, excepto que est√° rota casi del todo.}
 {79700}{}{Mesa}
-{79701}{}{Esta mesa fue muy daÒada.}
+{79701}{}{Esta mesa fue muy da√±ada.}
 {79800}{}{Mesa}
-{79801}{}{Esta mesa est· en muy malas condiciones.}
+{79801}{}{Esta mesa est√° en muy malas condiciones.}
 {79900}{}{Mesa}
-{79901}{}{No hay razÛn para inspeccionar esta mesa.}
+{79901}{}{No hay raz√≥n para inspeccionar esta mesa.}
 {80000}{}{Monitores}
 {80001}{}{Las pantallas de estos monitores han sido destruidas.}
 {80100}{}{Monitores}
@@ -1537,26 +1537,26 @@
 {80200}{}{Monitor}
 {80201}{}{La pantalla esta destruida.}
 {80300}{}{Monitor}
-{80301}{}{El monitor es in˙til con la pantalla destruida.}
+{80301}{}{El monitor es in√∫til con la pantalla destruida.}
 {80400}{}{Computadora}
-{80401}{}{Esta computadora est· estropeada.}
+{80401}{}{Esta computadora est√° estropeada.}
 {80500}{}{Computadora}
-{80501}{}{Esta computadora est· estropeada.}
+{80501}{}{Esta computadora est√° estropeada.}
 {80600}{}{Computadora}
-{80601}{}{Esta computadora est· estropeada.}
+{80601}{}{Esta computadora est√° estropeada.}
 {80700}{}{Silla}
-{80701}{}{Esta silla est· inservible.}
+{80701}{}{Esta silla est√° inservible.}
 {80800}{}{Silla}
-{80801}{}{Esta silla est· inservible.}
+{80801}{}{Esta silla est√° inservible.}
 {80900}{}{Silla}
-{80901}{}{Esta silla est· inservible.}
+{80901}{}{Esta silla est√° inservible.}
 {81000}{}{Silla}
-{81001}{}{Esta silla est· inservible.}
-{81100}{}{VentilaciÛn}
-{81101}{}{Este respiradero est· daÒado y es irreparable.}
-{81200}{}{VentilaciÛn}
-{81201}{}{Este respiradero est· muy daÒado, y no se puede reparar.}
-{81300}{}{VentilaciÛn}
+{81001}{}{Esta silla est√° inservible.}
+{81100}{}{Ventilaci√≥n}
+{81101}{}{Este respiradero est√° da√±ado y es irreparable.}
+{81200}{}{Ventilaci√≥n}
+{81201}{}{Este respiradero est√° muy da√±ado, y no se puede reparar.}
+{81300}{}{Ventilaci√≥n}
 {81301}{}{Este respiradero no funciona en absoluto.}
 {81400}{}{Computadora}
 {81401}{}{Esta computadora parece apenas funcional.}
@@ -1571,15 +1571,15 @@
 {81900}{}{Computadora}
 {81901}{}{La computadora no funciona.}
 {82000}{}{Monitor}
-{82001}{}{El monitor no est· funcionando.}
+{82001}{}{El monitor no est√° funcionando.}
 {82100}{}{Monitor}
-{82101}{}{El monitor no est· funcionando.}
+{82101}{}{El monitor no est√° funcionando.}
 {82200}{}{Puerta}
 {82201}{}{Parece un buen marco. Hace muy bien el trabajo de sostener una puerta.}
 {82300}{}{Monitores}
-{82301}{}{Los monitores est·n en buenas condiciones.}
+{82301}{}{Los monitores est√°n en buenas condiciones.}
 {82400}{}{Monitores}
-{82401}{}{Los monitores est·n en buenas condiciones.}
+{82401}{}{Los monitores est√°n en buenas condiciones.}
 {82500}{}{Muro}
 {82600}{}{Puerta blindada}
 {82601}{}{Una puerta blindada de Refugio muy robusta. Parece muy segura.}
@@ -1589,20 +1589,20 @@
 {82801}{}{Una luz de seguridad.}
 {82900}{}{Pilar}
 {82901}{}{Pilar.}
-{83000}{}{Recept·culo para robot}
-{83001}{}{Esto es una bahÌa de de recarga de robots. Cuando no est· en servicio, un robot se instalar· aquÌ para desconectarse y recargar.}
-{83100}{}{Recept·culo para robot}
-{83101}{}{Esto es una bahÌa de de recarga de robots. Cuando no est· en servicio, un robot se instalar· aquÌ para desconectarse y recargar.}
-{83200}{}{Recept·culo para robot}
-{83201}{}{Esto es una bahÌa de de recarga de robots. Cuando no est· en servicio, un robot se instalar· aquÌ para desconectarse y recargar.}
-{83300}{}{Recept·culo para robot}
-{83301}{}{Esto es una bahÌa de de recarga de robots. Cuando no est· en servicio, un robot se instalar· aquÌ para desconectarse y recargar.}
-{83400}{}{Recept·culo para robot}
-{83401}{}{Esto es una bahÌa de de recarga de robots. Cuando no est· en servicio, un robot se instalar· aquÌ para desconectarse y recargar.}
-{83500}{}{M·quina}
-{83501}{}{Esta m·quina tiene algo que ver con las bahÌas de servicio de robots. No parece particularmente interesante.}
-{83600}{}{M·quina}
-{83601}{}{Esta m·quina tiene algo que ver con las bahÌas de servicio de robots. No parece muy interesante.}
+{83000}{}{Recept√°culo para robot}
+{83001}{}{Esto es una bah√≠a de de recarga de robots. Cuando no est√° en servicio, un robot se instalar√° aqu√≠ para desconectarse y recargar.}
+{83100}{}{Recept√°culo para robot}
+{83101}{}{Esto es una bah√≠a de de recarga de robots. Cuando no est√° en servicio, un robot se instalar√° aqu√≠ para desconectarse y recargar.}
+{83200}{}{Recept√°culo para robot}
+{83201}{}{Esto es una bah√≠a de de recarga de robots. Cuando no est√° en servicio, un robot se instalar√° aqu√≠ para desconectarse y recargar.}
+{83300}{}{Recept√°culo para robot}
+{83301}{}{Esto es una bah√≠a de de recarga de robots. Cuando no est√° en servicio, un robot se instalar√° aqu√≠ para desconectarse y recargar.}
+{83400}{}{Recept√°culo para robot}
+{83401}{}{Esto es una bah√≠a de de recarga de robots. Cuando no est√° en servicio, un robot se instalar√° aqu√≠ para desconectarse y recargar.}
+{83500}{}{M√°quina}
+{83501}{}{Esta m√°quina tiene algo que ver con las bah√≠as de servicio de robots. No parece particularmente interesante.}
+{83600}{}{M√°quina}
+{83601}{}{Esta m√°quina tiene algo que ver con las bah√≠as de servicio de robots. No parece muy interesante.}
 {83700}{}{Franja}
 {83800}{}{Franja}
 {83900}{}{Franja}
@@ -1621,13 +1621,13 @@
 {85000}{}{Puerta}
 {85001}{}{Una puerta normal de madera.}
 {85100}{}{Cartel}
-{85101}{}{Este cartel seÒala la CompaÒÌa de PrÈstamo Amistoso.}
+{85101}{}{Este cartel se√±ala la Compa√±√≠a de Pr√©stamo Amistoso.}
 {85200}{}{Emblema}
 {85201}{}{Esto parece ser un emblema religioso.}
-{85300}{}{Mesa mÈdica}
-{85301}{}{Esto parece una mesa de inspecciÛn mÈdica.}
+{85300}{}{Mesa m√©dica}
+{85301}{}{Esto parece una mesa de inspecci√≥n m√©dica.}
 {85400}{}{Cartel}
-{85401}{}{Esto es un cartel de neÛn del HalcÛn MaltÈs.}
+{85401}{}{Esto es un cartel de ne√≥n del Halc√≥n Malt√©s.}
 {85500}{}{Grafitti}
 {85600}{}{Grafitti}
 {85700}{}{Grafitti}
@@ -1643,15 +1643,15 @@
 {86700}{}{Grafitti}
 {86800}{}{Grafitti}
 {86900}{}{Cartel}
-{86901}{}{Pone: ARMAS. Puede que vendan armas aquÌ.}
+{86901}{}{Pone: ARMAS. Puede que vendan armas aqu√≠.}
 {87000}{}{Cartel}
-{87001}{}{En el cartel pone: PolicÌa.}
+{87001}{}{En el cartel pone: Polic√≠a.}
 {87100}{}{Cartel}
 {87101}{}{Este es el cartel de los Comerciantes de Ultramar.}
 {87200}{}{Cartel}
 {87201}{}{En este cartel pone: Pistoleros.}
 {87300}{}{Cartel}
-{87301}{}{Este es el cartel de la compaÒÌa de comercio Caravana CarmesÌ.}
+{87301}{}{Este es el cartel de la compa√±√≠a de comercio Caravana Carmes√≠.}
 {87400}{}{Cartel}
 {87401}{}{En este cartel pone: Hospital. Esto puede venir bien.}
 {87500}{}{Cartel}
@@ -1659,34 +1659,34 @@
 {87600}{}{Cartel}
 {87601}{}{Este cartel apenas se puede leer: Coches Usados de Bob.}
 {87700}{}{Cartel}
-{87701}{}{Este es el cartel de los Mercaderes de Agua, una compaÒÌa de comercio del Eje.}
-{87800}{}{C·scara de huevo}
-{87801}{}{Trozos de una c·scara de huevo.}
-{87900}{}{C·scara de huevo}
-{87901}{}{Trozos de una c·scara de huevo.}
-{88000}{}{C·scara de huevo}
-{88001}{}{Trozos de una c·scara de huevo.}
-{88100}{}{C·scara de huevo}
-{88101}{}{Trozos de una c·scara de huevo.}
-{88200}{}{PequeÒas rocas}
-{88201}{}{Dispersos en pequeÒas rocas.}
-{88300}{}{PequeÒas rocas}
-{88301}{}{Dispersos en pequeÒas rocas.}
-{88400}{}{PequeÒas rocas}
-{88401}{}{Dispersos en pequeÒas rocas.}
-{88500}{}{C·scara de huevo}
-{88501}{}{Trozos de una c·scara de huevo.}
+{87701}{}{Este es el cartel de los Mercaderes de Agua, una compa√±√≠a de comercio del Eje.}
+{87800}{}{C√°scara de huevo}
+{87801}{}{Trozos de una c√°scara de huevo.}
+{87900}{}{C√°scara de huevo}
+{87901}{}{Trozos de una c√°scara de huevo.}
+{88000}{}{C√°scara de huevo}
+{88001}{}{Trozos de una c√°scara de huevo.}
+{88100}{}{C√°scara de huevo}
+{88101}{}{Trozos de una c√°scara de huevo.}
+{88200}{}{Peque√±as rocas}
+{88201}{}{Dispersos en peque√±as rocas.}
+{88300}{}{Peque√±as rocas}
+{88301}{}{Dispersos en peque√±as rocas.}
+{88400}{}{Peque√±as rocas}
+{88401}{}{Dispersos en peque√±as rocas.}
+{88500}{}{C√°scara de huevo}
+{88501}{}{Trozos de una c√°scara de huevo.}
 {88600}{}{Poste de luz}
 {88601}{}{Un poste de luz. Parece que funciona correctamente.}
 {88700}{}{Cartel}
 {88701}{}{En este cartel pone: Hotel.}
 {88800}{}{Hongos}
-{88801}{}{Esta plantaciÛn est· llena de excremento, y los hongos crecen felizmente aquÌ.}
+{88801}{}{Esta plantaci√≥n est√° llena de excremento, y los hongos crecen felizmente aqu√≠.}
 {88900}{}{Hongos}
-{88901}{}{Esta plantaciÛn est· llena de excremento, y los hongos crecen felizmente aquÌ.}
+{88901}{}{Esta plantaci√≥n est√° llena de excremento, y los hongos crecen felizmente aqu√≠.}
 {89000}{}{Esqueleto}
 {89100}{}{Cartel}
-{89101}{}{En este cartel pone: C·rcel.}
+{89101}{}{En este cartel pone: C√°rcel.}
 {89200}{}{Cartel}
 {89201}{}{Este es el cartel del bar Skum Pitt.}
 {89300}{}{Cartel}
@@ -1696,31 +1696,31 @@
 {89500}{}{Ducha}
 {89501}{}{Una ducha normal.}
 {89600}{}{Cartel}
-{89601}{}{Este es el cartel de la CompaÒÌa de PrÈstamo Amistoso.}
+{89601}{}{Este es el cartel de la Compa√±√≠a de Pr√©stamo Amistoso.}
 {89700}{}{Cartel}
-{89701}{}{Este es el cartel de la CompaÒÌa de PrÈstamo Amistoso.}
-{89800}{}{PÛster}
-{89801}{}{Esto es un pÛster de una pelÌcula de terror de los dÌas de antes de la guerra.}
-{89900}{}{PÛster}
-{89901}{}{Esto es un pÛster de una pelÌcula de terror de los dÌas de antes de la guerra.}
+{89701}{}{Este es el cartel de la Compa√±√≠a de Pr√©stamo Amistoso.}
+{89800}{}{P√≥ster}
+{89801}{}{Esto es un p√≥ster de una pel√≠cula de terror de los d√≠as de antes de la guerra.}
+{89900}{}{P√≥ster}
+{89901}{}{Esto es un p√≥ster de una pel√≠cula de terror de los d√≠as de antes de la guerra.}
 {90000}{}{Barra}
 {90001}{}{Hay una urna sobre la barra. La urna parece un poco golpeada, pero puede ser valiosa.}
 {90100}{}{Hueco del ascensor}
 {90101}{}{El hueco tiene una cuerda que cuelga desde arriba.}
 {90200}{}{Hueco del ascensor}
 {90201}{}{El hueco tiene una cuerda que cuelga desde arriba.}
-{90300}{}{Cama mÈdica}
+{90300}{}{Cama m√©dica}
 {90301}{}{Esta cama tiene incorporada una pantalla para monitorizar el progreso de los pacientes.}
 {90400}{}{Bomba de agua}
 {90401}{}{Esta es una pieza de maquinaria que bombea agua.}
-{90500}{}{Cama mÈdica}
+{90500}{}{Cama m√©dica}
 {90501}{}{Esta cama tiene incorporada una pantalla para monitorizar el progreso de los pacientes.}
 {90600}{}{Partes de la servoarmadura}
 {90601}{}{Estas son piezas de la servoarmadura.}
 {90700}{}{Luz}
-{90701}{}{Esta luz de seguridad est· parpadeando en un rojo brillante.}
+{90701}{}{Esta luz de seguridad est√° parpadeando en un rojo brillante.}
 {90800}{}{Luz}
-{90801}{}{Esta luz de seguridad est· parpadeando en un rojo brillante.}
+{90801}{}{Esta luz de seguridad est√° parpadeando en un rojo brillante.}
 {90900}{}{Cartel}
 {91000}{}{Cartel}
 {91100}{}{Cartel}
@@ -1735,14 +1735,14 @@
 {92000}{}{Cuerda}
 {92100}{}{Cuerda}
 {92200}{}{Cuerda}
-{92300}{}{CaÒon}
-{92400}{}{CaÒon}
-{92500}{}{CaÒon}
-{92600}{}{CaÒon}
-{92700}{}{CaÒon}
-{92800}{}{CaÒon}
-{92900}{}{CaÒon}
-{93000}{}{CaÒon}
+{92300}{}{Ca√±on}
+{92400}{}{Ca√±on}
+{92500}{}{Ca√±on}
+{92600}{}{Ca√±on}
+{92700}{}{Ca√±on}
+{92800}{}{Ca√±on}
+{92900}{}{Ca√±on}
+{93000}{}{Ca√±on}
 {93100}{}{Caverna}
 {93200}{}{Puerta impenetrable}
 {93201}{}{Esta puerta parece no tener un mecanismo de abertura.}
@@ -1751,24 +1751,24 @@
 {93400}{}{Puerta}
 {93401}{}{Una puerta con una compleja cerradura.}
 {93500}{}{Antorcha}
-{93501}{}{Una pequeÒa antorcha en la pared.}
+{93501}{}{Una peque√±a antorcha en la pared.}
 {93600}{}{Antorcha}
-{93601}{}{Una pequeÒa antorcha en la pared.}
+{93601}{}{Una peque√±a antorcha en la pared.}
 {93700}{}{Monumento de piedra}
 {93800}{}{Monumento de piedra}
 {93900}{}{Monumento de piedra}
-{94000}{}{Poste con cr·neo}
-{94001}{}{Un poste con un cr·neo adherido.}
-{94100}{}{Poste con cr·neo}
-{94101}{}{Un poste con un cr·neo adherido.}
-{94200}{}{Poste con cr·neo}
-{94201}{}{Un poste con un cr·neo adherido.}
+{94000}{}{Poste con cr√°neo}
+{94001}{}{Un poste con un cr√°neo adherido.}
+{94100}{}{Poste con cr√°neo}
+{94101}{}{Un poste con un cr√°neo adherido.}
+{94200}{}{Poste con cr√°neo}
+{94201}{}{Un poste con un cr√°neo adherido.}
 {94300}{}{Plantas}
 {94301}{}{}
 {94400}{}{Plantas}
-{94500}{}{¡rbol}
-{94600}{}{¡rbol}
-{94700}{}{¡rbol}
+{94500}{}{√Årbol}
+{94600}{}{√Årbol}
+{94700}{}{√Årbol}
 {94800}{}{Cama}
 {94900}{}{Cama}
 {95000}{}{Agujero}
@@ -1789,27 +1789,27 @@
 {96100}{}{Puerta}
 {96200}{}{Puerta}
 {96300}{}{Plantas}
-{96301}{}{Tallo de maÌz mutado.}
+{96301}{}{Tallo de ma√≠z mutado.}
 {96400}{}{Plantas}
-{96401}{}{Tallo de maÌz mutado.}
+{96401}{}{Tallo de ma√≠z mutado.}
 {96500}{}{Plantas}
-{96501}{}{Tallo de maÌz mutado. …ste est· enfermo.}
+{96501}{}{Tallo de ma√≠z mutado. √âste est√° enfermo.}
 {96600}{}{Plantas}
-{96601}{}{Tallo de maÌz mutado.}
+{96601}{}{Tallo de ma√≠z mutado.}
 {96700}{}{Plantas}
-{96701}{}{Tallo de maÌz mutado.}
+{96701}{}{Tallo de ma√≠z mutado.}
 {96800}{}{Plantas}
-{96801}{}{Tallo de maÌz mutado.}
+{96801}{}{Tallo de ma√≠z mutado.}
 {96900}{}{Soporte de madera}
 {97000}{}{Soporte de madera}
 {97100}{}{Soporte de madera}
 {97200}{}{Soporte de madera}
 {97300}{}{Soporte de madera}
 {97400}{}{Soporte de madera}
-{97500}{}{Soporte de madera daÒado.}
-{97501}{}{Parece que este soporte podrÌa colapsar forz·ndolo sÛlo un poco.}
+{97500}{}{Soporte de madera da√±ado.}
+{97501}{}{Parece que este soporte podr√≠a colapsar forz√°ndolo s√≥lo un poco.}
 {97600}{}{Suelo colapsado}
-{97601}{}{El suelo de piedra ha colapsado aquÌ hacia el nivel inferior.}
+{97601}{}{El suelo de piedra ha colapsado aqu√≠ hacia el nivel inferior.}
 {97700}{}{Escaleras}
 {97701}{}{Un agujero hecho por el hombre con una escalera que conduce hacia abajo.}
 {97800}{}{Puerta}
@@ -1825,8 +1825,8 @@
 {98800}{}{Sustancia radiactiva}
 {98900}{}{Puerta de seguridad}
 {99000}{}{Puerta del Refugio}
-{99100}{}{Gr˙a}
-{99200}{}{Gr˙a}
+{99100}{}{Gr√∫a}
+{99200}{}{Gr√∫a}
 {99300}{}{Pozo}
 {99400}{}{Pozo}
 {99500}{}{Edificio anexo}
@@ -1837,42 +1837,42 @@
 {99800}{}{Desactivas la placa de suelo.}
 {99801}{}{La trampa de placa de suelo ha sido desactivada.}
 {99900}{}{Placa de suelo accionada}
-{99901}{}{La trampa de placa de suelo ha sido accionada. °Ups!}
-{100000}{}{DestilerÌa}
-{100001}{}{Parece un alambique de alcohol de leÒa.}
-{100100}{}{Parte de escorpiÛn rad}
-{100101}{}{Ves un montÛn de partes de escorpiones rad. Han sido vaciadas y tienen correas adheridas.}
-{100200}{}{Maquinaria de la central energÈtica}
-{100201}{}{Esto es la m·quina del escudo Plutonio-Gamma del reactor.}
-{100300}{}{Maquinaria de la central energÈtica}
-{100301}{}{Esto es el Compilador de Onda J˙piter del reactor.}
-{100400}{}{Maquinaria de la central energÈtica}
+{99901}{}{La trampa de placa de suelo ha sido accionada. ¬°Ups!}
+{100000}{}{Destiler√≠a}
+{100001}{}{Parece un alambique de alcohol de le√±a.}
+{100100}{}{Parte de escorpi√≥n rad}
+{100101}{}{Ves un mont√≥n de partes de escorpiones rad. Han sido vaciadas y tienen correas adheridas.}
+{100200}{}{Maquinaria de la central energ√©tica}
+{100201}{}{Esto es la m√°quina del escudo Plutonio-Gamma del reactor.}
+{100300}{}{Maquinaria de la central energ√©tica}
+{100301}{}{Esto es el Compilador de Onda J√∫piter del reactor.}
+{100400}{}{Maquinaria de la central energ√©tica}
 {100401}{}{Esto es el controlador de varillas de uranio del reactor.}
-{100500}{}{Maquinaria de la central energÈtica}
+{100500}{}{Maquinaria de la central energ√©tica}
 {100501}{}{Esto es el impulsor de neptunio del reactor.}
-{100600}{}{Maquinaria de la central energÈtica}
+{100600}{}{Maquinaria de la central energ√©tica}
 {100601}{}{Este es el condensador clase Saturno del reactor.}
-{100700}{}{Maquinaria de la central energÈtica}
+{100700}{}{Maquinaria de la central energ√©tica}
 {100701}{}{Esta es la bomba de refrigerante del reactor.}
 {100800}{}{Costado de brahmin}
 {100900}{}{Coche}
-{101000}{}{VehÌculo de Chrysalis Motors}
-{101001}{}{Este Highwayman de Chrysalis Motors parece en buenas condiciones para los aÒos que tiene.}
+{101000}{}{Veh√≠culo de Chrysalis Motors}
+{101001}{}{Este Highwayman de Chrysalis Motors parece en buenas condiciones para los a√±os que tiene.}
 {101100}{}{Coche}
 {101200}{}{Cementerio}
-{101201}{}{AquÌ hay una tumba.}
-{101300}{}{L·pida}
-{101301}{}{L·pida}
-{101400}{}{L·pida}
-{101401}{}{L·pida}
-{101500}{}{L·pida}
-{101501}{}{L·pida}
-{101600}{}{L·pida}
-{101601}{}{L·pida}
+{101201}{}{Aqu√≠ hay una tumba.}
+{101300}{}{L√°pida}
+{101301}{}{L√°pida}
+{101400}{}{L√°pida}
+{101401}{}{L√°pida}
+{101500}{}{L√°pida}
+{101501}{}{L√°pida}
+{101600}{}{L√°pida}
+{101601}{}{L√°pida}
 {101700}{}{Arado}
-{101701}{}{Este arado est· diseÒado para que lo remolque un brahmin.}
+{101701}{}{Este arado est√° dise√±ado para que lo remolque un brahmin.}
 {101800}{}{Arado}
-{101801}{}{Este arado est· diseÒado para que lo remolque un brahmin.}
+{101801}{}{Este arado est√° dise√±ado para que lo remolque un brahmin.}
 {101900}{}{Agua}
 {102000}{}{Cartel}
 {102001}{}{El cartel de entrada a Nueva Reno.}
@@ -2001,17 +2001,17 @@
 {113800}{}{Empapelado}
 {113900}{}{Empapelado}
 {114000}{}{Empapelado}
-{114100}{}{C·mara cinematogr·fica}
-{114200}{}{Ata˙d}
-{114300}{}{Ata˙d}
-{114400}{}{Ata˙d}
-{114500}{}{Ata˙d}
+{114100}{}{C√°mara cinematogr√°fica}
+{114200}{}{Ata√∫d}
+{114300}{}{Ata√∫d}
+{114400}{}{Ata√∫d}
+{114500}{}{Ata√∫d}
 {114600}{}{Barras de acero}
 {114700}{}{Barras de acero}
 {114800}{}{Cubierta De Acero}
 {114900}{}{Cubierta De Acero}
-{115000}{}{Trampa l·ser}
-{115100}{}{Trampa l·ser}
+{115000}{}{Trampa l√°ser}
+{115100}{}{Trampa l√°ser}
 {115200}{}{Vagoneta minera}
 {115300}{}{Vagoneta minera con tubo de acero}
 {115400}{}{Vagoneta minera con dinamita}
@@ -2026,41 +2026,41 @@
 {116200}{}{Cartel de Sala de Control}
 {116300}{}{Cartel de Sala de Control}
 {116400}{}{Cartel de Sala de Control}
-{116500}{}{Cartel de zona en construcciÛn}
-{116600}{}{Cartel de zona en construcciÛn}
-{116700}{}{M·quina}
-{116701}{}{Una m·quina que no funciona.}
-{116800}{}{M·quina}
-{116801}{}{Una m·quina que no funciona.}
+{116500}{}{Cartel de zona en construcci√≥n}
+{116600}{}{Cartel de zona en construcci√≥n}
+{116700}{}{M√°quina}
+{116701}{}{Una m√°quina que no funciona.}
+{116800}{}{M√°quina}
+{116801}{}{Una m√°quina que no funciona.}
 {116900}{}{Puerta}
 {117000}{}{Puerta}
-{117100}{}{La OxidaciÛn De TuberÌas}
-{117101}{}{Un conjunto de oxidaciÛn de las tuberÌas viejas.}
+{117100}{}{La Oxidaci√≥n De Tuber√≠as}
+{117101}{}{Un conjunto de oxidaci√≥n de las tuber√≠as viejas.}
 {117200}{}{Tanque}
 {117300}{}{Tanques}
 {117400}{}{Tanques}
 {117500}{}{Tanques}
-{117600}{}{VentilaciÛn}
-{117700}{}{VentilaciÛn}
+{117600}{}{Ventilaci√≥n}
+{117700}{}{Ventilaci√≥n}
 {117800}{}{Cartel}
 {117900}{}{Caballete}
 {118000}{}{Caballete}
 {118100}{}{Caballete}
-{118200}{}{VentilaciÛn}
-{118300}{}{VentilaciÛn}
+{118200}{}{Ventilaci√≥n}
+{118300}{}{Ventilaci√≥n}
 {118400}{}{Cartel de taller de maquinaria}
 {118500}{}{Cartel de oficina de Gerencia}
 {118600}{}{Cartel de sala de suministros}
-{118700}{}{Cartel de Peligro por radiaciÛn}
+{118700}{}{Cartel de Peligro por radiaci√≥n}
 {118800}{}{Vapor}
-{118900}{}{M·quina}
-{118901}{}{Una pieza genÈrica de la central nuclear.}
+{118900}{}{M√°quina}
+{118901}{}{Una pieza gen√©rica de la central nuclear.}
 {119000}{}{Tanque}
 {119100}{}{Fuego}
 {119200}{}{Agua}
 {119300}{}{Cartel del barrio de los tramperos}
 {119400}{}{Cartel de El Gecko Dorado}
-{119500}{}{Cartel de la casa de baÒos}
+{119500}{}{Cartel de la casa de ba√±os}
 {119600}{}{Arte rupestre}
 {119700}{}{Arte rupestre}
 {119800}{}{Arte rupestre}
@@ -2082,41 +2082,41 @@
 {121400}{}{Pared de cueva}
 {121500}{}{Pared de cueva}
 {121600}{}{Estaca}
-{121601}{}{°Parece que esta estaca tiene a alguien empalado en lo alto!}
+{121601}{}{¬°Parece que esta estaca tiene a alguien empalado en lo alto!}
 {121700}{}{Estaca}
-{121701}{}{°Parece que esta estaca tiene a alguien empalado en lo alto!}
+{121701}{}{¬°Parece que esta estaca tiene a alguien empalado en lo alto!}
 {121800}{}{Estaca}
-{121801}{}{°Parece que esta estaca tiene a alguien empalado en lo alto!}
+{121801}{}{¬°Parece que esta estaca tiene a alguien empalado en lo alto!}
 {121900}{}{Estaca}
-{121901}{}{°Parece que esta estaca tiene a alguien empalado en lo alto!}
+{121901}{}{¬°Parece que esta estaca tiene a alguien empalado en lo alto!}
 {122000}{}{Estaca}
-{122001}{}{°Parece que esta estaca tiene a alguien empalado en lo alto!}
+{122001}{}{¬°Parece que esta estaca tiene a alguien empalado en lo alto!}
 {122100}{}{Estaca}
-{122101}{}{°Parece que esta estaca tiene a alguien empalado en lo alto!}
+{122101}{}{¬°Parece que esta estaca tiene a alguien empalado en lo alto!}
 {122200}{}{Estaca}
-{122201}{}{Esta estaca parece tener un cr·neo humano colocado en la punta.}
+{122201}{}{Esta estaca parece tener un cr√°neo humano colocado en la punta.}
 {122300}{}{Estaca}
-{122301}{}{Esta estaca parece tener un cr·neo humano colocado en la punta.}
+{122301}{}{Esta estaca parece tener un cr√°neo humano colocado en la punta.}
 {122400}{}{Estaca}
-{122401}{}{Esta estaca parece lista para una vÌctima.}
+{122401}{}{Esta estaca parece lista para una v√≠ctima.}
 {122500}{}{Estaca}
-{122501}{}{Esta estaca parece lista para una vÌctima.}
+{122501}{}{Esta estaca parece lista para una v√≠ctima.}
 {122600}{}{Estaca}
-{122601}{}{Esta estaca parece lista para una vÌctima.}
+{122601}{}{Esta estaca parece lista para una v√≠ctima.}
 {122700}{}{Estaca}
-{122701}{}{Esta estaca parece lista para una vÌctima.}
+{122701}{}{Esta estaca parece lista para una v√≠ctima.}
 {122800}{}{Cartel de Se Busca}
-{122801}{}{°El retrato de este cartel se parece mucho a ti!}
+{122801}{}{¬°El retrato de este cartel se parece mucho a ti!}
 {122900}{}{Suelo}
 {123000}{}{Robocerebro desactivado}
-{123001}{}{Un cuerpo cibernÈtico incompleto al que le faltan varias partes.}
+{123001}{}{Un cuerpo cibern√©tico incompleto al que le faltan varias partes.}
 {123100}{}{Howitzer}
-{123101}{}{Este extraÒo caÒÛn parece una reliquia de los dÌas previos a la guerra. Te preguntas cÛmo llegÛ aquÌ.}
+{123101}{}{Este extra√±o ca√±√≥n parece una reliquia de los d√≠as previos a la guerra. Te preguntas c√≥mo lleg√≥ aqu√≠.}
 {123200}{}{Cartel}
 {123300}{}{Cartel}
 {123400}{}{Cartel}
 {123500}{}{Cartel}
-{123600}{}{Interruptor elÈctrico}
+{123600}{}{Interruptor el√©ctrico}
 {123700}{}{Cruz}
 {123800}{}{Cruz}
 {123900}{}{Cruz}
@@ -2146,18 +2146,18 @@
 {125900}{}{Cartel de la RNC}
 {126000}{}{Cartel del edificio del Congreso}
 {126100}{}{Cartel del edificio del Congreso}
-{126200}{}{PÛster de la RNC}
-{126300}{}{PÛster de la RNC}
-{126400}{}{PÛster de la RNC}
-{126500}{}{PÛster de la RNC}
-{126600}{}{Cartel del SalÛn Rawhide}
+{126200}{}{P√≥ster de la RNC}
+{126300}{}{P√≥ster de la RNC}
+{126400}{}{P√≥ster de la RNC}
+{126500}{}{P√≥ster de la RNC}
+{126600}{}{Cartel del Sal√≥n Rawhide}
 {126700}{}{Cartel de Casino}
 {126800}{}{Cartel de Casino}
 {126900}{}{Cartel de Casino}
 {127000}{}{Cartel de Casino}
 {127100}{}{Cartel de Casino}
 {127200}{}{Cartel de Casino}
-{127300}{}{MontÛn de rocas}
+{127300}{}{Mont√≥n de rocas}
 {127301}{}{Parece que estas rocas esconden algo.}
 {127400}{}{Viga}
 {127500}{}{Viga}
@@ -2255,22 +2255,22 @@
 {136500}{}{Fuego}
 {136600}{}{Fuego}
 {136700}{}{Howitzer}
-{136701}{}{Este extraÒo caÒÛn parece una reliquia de los dÌas previos a la guerra. Te preguntas cÛmo llegÛ aquÌ.}
+{136701}{}{Este extra√±o ca√±√≥n parece una reliquia de los d√≠as previos a la guerra. Te preguntas c√≥mo lleg√≥ aqu√≠.}
 {136800}{}{Templo}
 {136900}{}{Templo}
-{137000}{}{MontaÒa}
+{137000}{}{Monta√±a}
 {137100}{}{Caverna}
 {137200}{}{Puerta}
 {137300}{}{Antorcha}
-{137301}{}{Una pequeÒa antorcha en la pared.}
+{137301}{}{Una peque√±a antorcha en la pared.}
 {137400}{}{Antorcha}
-{137401}{}{Una pequeÒa antorcha en la pared.}
+{137401}{}{Una peque√±a antorcha en la pared.}
 {137500}{}{Antorcha}
-{137501}{}{Una pequeÒa antorcha en la pared.}
+{137501}{}{Una peque√±a antorcha en la pared.}
 {137600}{}{Antorcha}
-{137601}{}{Una pequeÒa antorcha en la pared.}
+{137601}{}{Una peque√±a antorcha en la pared.}
 {137700}{}{Vertibird}
-{137701}{}{Un gran aviÛn militar.}
+{137701}{}{Un gran avi√≥n militar.}
 {137800}{}{Puerta destruida}
 {137801}{}{Los escombros bloquea completamente la entrada.}
 {137900}{}{Puerta destruida}
@@ -2312,23 +2312,23 @@
 {141400}{}{Cartel de Armas Nuevo Reno}
 {141500}{}{Cartel del Salvatore's bar}
 {141600}{}{Estatua}
-{141700}{}{Puerta del almacÈn}
-{141800}{}{Puerta del almacÈn}
+{141700}{}{Puerta del almac√©n}
+{141800}{}{Puerta del almac√©n}
 {141900}{}{Cartel de Doc Johnson}
 {142000}{}{Cartel de Sheriff}
-{142100}{}{Cartel del SalÛn Malamute}
+{142100}{}{Cartel del Sal√≥n Malamute}
 {142200}{}{Cartel de la mina Morningstar}
 {142300}{}{Cartel de la mina Kokoweef}
 {142400}{}{Cartel de la mina Kokoweef}
 {142500}{}{Cartel de la mina Kokoweef}
 {142600}{}{Letrero}
-{142601}{}{Este poste indicador de madera apunta hacia Nueva Reno y hacia "Infierno". Sospechas que las direcciones est·n invertidas.}
-{142700}{}{Cartel N˙mero 1}
-{142800}{}{Cartel N˙mero 2}
-{142900}{}{Cartel N˙mero 3}
-{143000}{}{Cartel N˙mero 4}
-{143100}{}{Cartel N˙mero 5}
-{143200}{}{Cartel N˙mero 6}
+{142601}{}{Este poste indicador de madera apunta hacia Nueva Reno y hacia "Infierno". Sospechas que las direcciones est√°n invertidas.}
+{142700}{}{Cartel N√∫mero 1}
+{142800}{}{Cartel N√∫mero 2}
+{142900}{}{Cartel N√∫mero 3}
+{143000}{}{Cartel N√∫mero 4}
+{143100}{}{Cartel N√∫mero 5}
+{143200}{}{Cartel N√∫mero 6}
 {143300}{}{Cuerda}
 {143301}{}{Puedes subir por la pared con esta cuerda.}
 {143400}{}{Puerta}
@@ -2365,8 +2365,8 @@
 {146500}{}{Sombra}
 {146600}{}{Puerta vallada}
 {146700}{}{Puerta vallada}
-{146800}{}{SillÛn de mando}
-{146801}{}{AquÌ es donde se sienta habitualmente el Supervisor.}
+{146800}{}{Sill√≥n de mando}
+{146801}{}{Aqu√≠ es donde se sienta habitualmente el Supervisor.}
 {146900}{}{Abismo}
 {147000}{}{Abismo}
 {147100}{}{Abismo}
@@ -2402,9 +2402,9 @@
 {150100}{}{Fan}
 {150200}{}{Extintor}
 {150300}{}{Extintor}
-{150400}{}{TuberÌa}
-{150500}{}{Distribuidor de energÌa}
-{150600}{}{Distribuidor de energÌa}
+{150400}{}{Tuber√≠a}
+{150500}{}{Distribuidor de energ√≠a}
+{150600}{}{Distribuidor de energ√≠a}
 {150700}{}{Muro}
 {150800}{}{Muro}
 {150900}{}{Muro}
@@ -2416,17 +2416,17 @@
 {151500}{}{Muro}
 {151600}{}{Revestimiento de madera}
 {151700}{}{Revestimiento de madera}
-{151800}{}{TuberÌa}
-{151900}{}{TuberÌa}
-{152000}{}{TuberÌa}
-{152100}{}{TuberÌa}
-{152200}{}{TuberÌa}
-{152300}{}{TuberÌa}
-{152400}{}{TuberÌa}
-{152500}{}{TuberÌa}
-{152600}{}{TuberÌa}
-{152700}{}{TuberÌa}
-{152800}{}{TuberÌa}
+{151800}{}{Tuber√≠a}
+{151900}{}{Tuber√≠a}
+{152000}{}{Tuber√≠a}
+{152100}{}{Tuber√≠a}
+{152200}{}{Tuber√≠a}
+{152300}{}{Tuber√≠a}
+{152400}{}{Tuber√≠a}
+{152500}{}{Tuber√≠a}
+{152600}{}{Tuber√≠a}
+{152700}{}{Tuber√≠a}
+{152800}{}{Tuber√≠a}
 {152900}{}{Respiradero}
 {153000}{}{Respiradero}
 {153100}{}{Puerta}
@@ -2448,8 +2448,8 @@
 {154700}{}{Casco del transbordador}
 {154800}{}{Campo de fuerza}
 {154900}{}{Campo de fuerza}
-{155000}{}{Unidad de extracciÛn de Ûrganos}
-{155001}{}{El ˙ltimo modelo en la serie de cirugÌa "Hazlo t˙ mismo" de Vault-Tec. Elimina Ûrganos autom·ticamente con sÛlo pulsar un botÛn.}
+{155000}{}{Unidad de extracci√≥n de √≥rganos}
+{155001}{}{El √∫ltimo modelo en la serie de cirug√≠a "Hazlo t√∫ mismo" de Vault-Tec. Elimina √≥rganos autom√°ticamente con s√≥lo pulsar un bot√≥n.}
 {155100}{}{Transbordador}
 {155200}{}{Transbordador}
 {155300}{}{Transbordador}
@@ -2478,18 +2478,18 @@
 {157600}{}{Puerta}
 {157700}{}{Respiradero}
 {157800}{}{Auto-Doctor}
-{157801}{}{Este Auto-Doc est· diseÒado para curar enfermedades y administrar drogas diversas.}
+{157801}{}{Este Auto-Doc est√° dise√±ado para curar enfermedades y administrar drogas diversas.}
 {157900}{}{Estatua}
-{157901}{}{Una pequeÒa estatua del famoso Morador del Refugio.}
-{158000}{}{MontÛn de rocas}
+{157901}{}{Una peque√±a estatua del famoso Morador del Refugio.}
+{158000}{}{Mont√≥n de rocas}
 {158100}{}{Campo de fuerza}
-{158101}{}{Un campo energÈtico bloquea tu camino.}
+{158101}{}{Un campo energ√©tico bloquea tu camino.}
 {158200}{}{Campo de fuerza}
-{158201}{}{Un campo energÈtico bloquea tu camino.}
+{158201}{}{Un campo energ√©tico bloquea tu camino.}
 {158300}{}{Campo de fuerza}
-{158301}{}{Un campo energÈtico bloquea tu camino.}
+{158301}{}{Un campo energ√©tico bloquea tu camino.}
 {158400}{}{Campo de fuerza}
-{158401}{}{Un campo energÈtico bloquea tu camino.}
+{158401}{}{Un campo energ√©tico bloquea tu camino.}
 {158500}{}{Petrolero}
 {158600}{}{Petrolero}
 {158700}{}{Petrolero}
@@ -2507,12 +2507,12 @@
 {159900}{}{Petrolero}
 {160000}{}{Muro}
 {160100}{}{Muro}
-{160200}{}{DepresiÛn en el suelo}
+{160200}{}{Depresi√≥n en el suelo}
 {160300}{}{Banco de piedra}
 {160400}{}{Banco de piedra}
 {160500}{}{Quemador de incienso}
-{160600}{}{ParabÛlica de satÈlite}
-{160700}{}{ParabÛlica de satÈlite}
+{160600}{}{Parab√≥lica de sat√©lite}
+{160700}{}{Parab√≥lica de sat√©lite}
 {160800}{}{Sombra}
 {160900}{}{Sombra del muelle}
 {161000}{}{Sombra del muelle}
@@ -2527,11 +2527,11 @@
 {161900}{}{Escaleras}
 {162000}{}{Ciberperro desactivado}
 {162001}{}{Ves a un ciberperro desactivado.}
-{162100}{}{Generador de energÌa destruido}
-{162101}{}{Ves un generador de energÌa destruido.}
-{162200}{}{VÌa}
-{162300}{}{VÌa}
-{162400}{}{VÌa}
+{162100}{}{Generador de energ√≠a destruido}
+{162101}{}{Ves un generador de energ√≠a destruido.}
+{162200}{}{V√≠a}
+{162300}{}{V√≠a}
+{162400}{}{V√≠a}
 {162500}{}{Vagoneta}
 {162600}{}{Vagoneta minera con tubo de acero}
 {162700}{}{Vagoneta minera con dinamita}
@@ -2556,39 +2556,39 @@
 {164600}{}{Escaleras arriba}
 {164700}{}{Escaleras arriba}
 {164800}{}{Escaleras arriba}
-{164900}{}{N˙cleo del reactor}
-{165000}{}{N˙cleo del reactor}
-{165100}{}{N˙cleo del reactor}
+{164900}{}{N√∫cleo del reactor}
+{165000}{}{N√∫cleo del reactor}
+{165100}{}{N√∫cleo del reactor}
 {165200}{}{Cartel de la oficina de Caravanas}
-{165300}{}{Ata˙d}
-{165400}{}{Ata˙d}
+{165300}{}{Ata√∫d}
+{165400}{}{Ata√∫d}
 {165500}{}{Elevador de la mina}
 {165600}{}{Elevador de la mina}
 {165700}{}{Asta de bandera}
 {165800}{}{Bandera de la RNC}
 {165900}{}{Cartel de gasolina Poseidon}
 {166000}{}{Escaleras abajo}
-{166100}{}{Cartel de ClÌnica}
+{166100}{}{Cartel de Cl√≠nica}
 {166200}{}{Cartel de Centro correccional}
 {166300}{}{Cartel de Aduana}
 {166400}{}{Cartel de Aduana}
 {166500}{}{Cartel de la oficina de Bienvenida}
 {166600}{}{Cartel de Feliz Harry}
 {166700}{}{El signo de agujero}
-{166800}{}{Cartel del Centro de InformaciÛn}
-{166900}{}{Cartel del Centro de InformaciÛn}
+{166800}{}{Cartel del Centro de Informaci√≥n}
+{166900}{}{Cartel del Centro de Informaci√≥n}
 {167000}{}{Logotipo de Ciudad Refugio}
 {167100}{}{Cartel del Ayuntamiento}
 {167200}{}{Cartel del Ayuntamiento}
 {167300}{}{Centro de mantenimiento}
-{167400}{}{Cartel de SalÛn de invitados}
+{167400}{}{Cartel de Sal√≥n de invitados}
 {167500}{}{Cartel del Tap House}
 {167600}{}{Cartel del rancho de Westin}
 {167700}{}{Cartel de Servicios}
 {167800}{}{Cartel del Edificio A}
 {167900}{}{Cartel del Edificio B}
-{168000}{}{Centro de asignaciÛn de Siervos}
-{168100}{}{Centro de asignaciÛn de Siervos}
+{168000}{}{Centro de asignaci√≥n de Siervos}
+{168100}{}{Centro de asignaci√≥n de Siervos}
 {168200}{}{Cartel de la Oficina de Servicios}
 {168300}{}{Cartel de la Oficina de Servicios}
 {168400}{}{Elevador de la mina}
@@ -2604,20 +2604,20 @@
 {169400}{}{Sombra}
 {169500}{}{Sombra}
 {169600}{}{Sombra}
-{169700}{}{M·quina extraÒa, se estrellÛ}
-{169800}{}{M·quina extraÒa, se estrellÛ}
-{169900}{}{M·quina extraÒa, se estrellÛ}
-{170000}{}{M·quina extraÒa, se estrellÛ}
-{170100}{}{M·quina extraÒa, se estrellÛ}
-{170200}{}{M·quina extraÒa, se estrellÛ}
+{169700}{}{M√°quina extra√±a, se estrell√≥}
+{169800}{}{M√°quina extra√±a, se estrell√≥}
+{169900}{}{M√°quina extra√±a, se estrell√≥}
+{170000}{}{M√°quina extra√±a, se estrell√≥}
+{170100}{}{M√°quina extra√±a, se estrell√≥}
+{170200}{}{M√°quina extra√±a, se estrell√≥}
 {170300}{}{Sombra}
 {170400}{}{Sombra}
 {170500}{}{Sombra}
 {170600}{}{Puente destruido}
-{170601}{}{Ves lo que quedÛ del puente del Arroyo. Ahora no hay forma de volver al poblado.}
+{170601}{}{Ves lo que qued√≥ del puente del Arroyo. Ahora no hay forma de volver al poblado.}
 {170700}{}{Puente destruido}
-{170701}{}{Ves lo que quedÛ del puente del Arroyo. Ahora no hay forma de volver al poblado.}
-{170800}{}{CaÒon}
+{170701}{}{Ves lo que qued√≥ del puente del Arroyo. Ahora no hay forma de volver al poblado.}
+{170800}{}{Ca√±on}
 {170900}{}{Puerta}
 {171000}{}{Puerta}
 {171100}{}{Muro}
@@ -2633,9 +2633,9 @@
 {172100}{}{Cristal blindado}
 {172200}{}{Cristal blindado}
 {172300}{}{Cristal blindado}
-{172400}{}{Torreta pesada l·ser}
+{172400}{}{Torreta pesada l√°ser}
 {172401}{}{La torreta gira en una forma amenazante.}
-{172500}{}{Torreta pesada l·ser}
+{172500}{}{Torreta pesada l√°ser}
 {172501}{}{La torreta gira en una forma amenazante.}
 {172600}{}{Rocas}
 {172700}{}{Rocas}
@@ -2650,8 +2650,8 @@
 {173600}{}{Rocas}
 {173700}{}{Cartel del Casino Becky}
 {173800}{}{Cartel del Becky's}
-{173900}{}{Cartel del SalÛn El ⁄ltimo Suspiro}
-{174000}{}{Cartel de La Comida de Mam·}
+{173900}{}{Cartel del Sal√≥n El √öltimo Suspiro}
+{174000}{}{Cartel de La Comida de Mam√°}
 {174100}{}{Cartel del Gremio de Esclavistas}
 {174200}{}{Puesto de equipo de supervivencia}
 {174300}{}{Cartel del Tubby's}
@@ -2660,7 +2660,7 @@
 {174600}{}{Fan}
 {174700}{}{Fan}
 {174800}{}{Puerta de la oficina del Presidente}
-{174900}{}{Cartel oftalmolÛgico}
+{174900}{}{Cartel oftalmol√≥gico}
 {175000}{}{Ruinas}
 {175100}{}{Guardian de la Eternidad}
 {175200}{}{Cartel de Averiado}
@@ -2702,43 +2702,43 @@
 {178800}{}{Soporte del puente}
 {178900}{}{Soporte del puente}
 {179000}{}{Valla}
-{179100}{}{L·mpara}
-{179200}{}{L·mpara}
+{179100}{}{L√°mpara}
+{179200}{}{L√°mpara}
 {179300}{}{Ballena muerta}
-{179301}{}{Parece que esta ballena ha caÌdo desde una gran altura.}
+{179301}{}{Parece que esta ballena ha ca√≠do desde una gran altura.}
 {179400}{}{Ballena muerta}
-{179401}{}{Parece que esta ballena ha caÌdo desde una gran altura.}
+{179401}{}{Parece que esta ballena ha ca√≠do desde una gran altura.}
 {179500}{}{Aleta de ballena}
 {179501}{}{La aleta de una ballena muerta.}
 {179600}{}{Ojo de ballena}
 {179601}{}{El ojo de una ballena muerta.}
 {179700}{}{Trozo de ballena}
-{179701}{}{°Un trozo de ballena!}
+{179701}{}{¬°Un trozo de ballena!}
 {179800}{}{Trozo de ballena}
-{179801}{}{°Un trozo de ballena!}
+{179801}{}{¬°Un trozo de ballena!}
 {179900}{}{Trozo de ballena}
-{179901}{}{°Un trozo de ballena!}
+{179901}{}{¬°Un trozo de ballena!}
 {180000}{}{Trozo de ballena}
-{180001}{}{°Un trozo de ballena!}
+{180001}{}{¬°Un trozo de ballena!}
 {180100}{}{Trozo de ballena}
-{180101}{}{°Un trozo de ballena!}
+{180101}{}{¬°Un trozo de ballena!}
 {180200}{}{Piernas de jefe}
 {180300}{}{Rocas}
 {180400}{}{Rocas}
 {180500}{}{Rocas}
 {180600}{}{Rocas}
-{180700}{}{Cartel de CurtidurÌa}
+{180700}{}{Cartel de Curtidur√≠a}
 {180800}{}{Cartel de Cama y Comida de Rose}
-{180900}{}{Cartel de CompaÒÌa Vortis}
-{181000}{}{Cartel de CompaÒÌa Vortis}
+{180900}{}{Cartel de Compa√±√≠a Vortis}
+{181000}{}{Cartel de Compa√±√≠a Vortis}
 {181100}{}{Cartel de la gran mina Wamamingo}
 {181200}{}{Cartel de El As de Ascorti}
 {181300}{}{Transbordador accidentado}
-{181301}{}{Un vehÌculo del espacio de alg˙n tipo. Parece que se estrellÛ recientemente.}
-{181400}{}{Ata˙d}
-{181500}{}{Cartel de la AsociaciÛn de Ganaderos.}
+{181301}{}{Un veh√≠culo del espacio de alg√∫n tipo. Parece que se estrell√≥ recientemente.}
+{181400}{}{Ata√∫d}
+{181500}{}{Cartel de la Asociaci√≥n de Ganaderos.}
 {181600}{}{Cartel del Matadero}
-{181700}{}{TablÛn}
+{181700}{}{Tabl√≥n}
 {181800}{}{Puerta de madera}
 {181900}{}{Puerta de madera}
 {182000}{}{Nevera de refrescos de cola}
@@ -2755,140 +2755,140 @@
 {183100}{}{Objetos}
 {183200}{}{Objetos}
 {183300}{}{Objetos}
-{183400}{}{SillÛn del Presidente}
+{183400}{}{Sill√≥n del Presidente}
 {183500}{}{Escaleras}
 {183600}{}{Mapa Mundial}
-{183700}{}{SituaciÛn del mapa}
-{183800}{}{Mesa de la c·mara de guerra}
+{183700}{}{Situaci√≥n del mapa}
+{183800}{}{Mesa de la c√°mara de guerra}
 {183900}{}{Mesa del edificio del Consejo}
 {184000}{}{Mesa del edificio del Consejo}
-{184100}{}{Mesa de la c·mara de guerra}
-{184200}{}{¡rbol}
-{184300}{}{¡rbol}
+{184100}{}{Mesa de la c√°mara de guerra}
+{184200}{}{√Årbol}
+{184300}{}{√Årbol}
 {184400}{}{Rampa}
 {184500}{}{Cartel de Estudios Golden Globes}
-{184600}{}{TimÛn de barco}
-{184700}{}{Control de aceleraciÛn del barco}
+{184600}{}{Tim√≥n de barco}
+{184700}{}{Control de aceleraci√≥n del barco}
 {184800}{}{Sala de mando}
 {184900}{}{Consola de Computadora}
 {185000}{}{Obturadores}
 {185100}{}{Vapor}
 {185200}{}{Una vieja motocicleta}
-{185201}{}{Un viejo de antes de la guerra de la motocicleta. No correr m·s.}
+{185201}{}{Un viejo de antes de la guerra de la motocicleta. No correr m√°s.}
 {185300}{}{Un tanque de agua}
-{185301}{}{Una torre met·lica que sostiene el agua potable.}
-{185400}{}{La mam· del Orfanato Signo}
+{185301}{}{Una torre met√°lica que sostiene el agua potable.}
+{185400}{}{La mam√° del Orfanato Signo}
 {185500}{}{Fan}
-{185600}{}{Un ·rbol de aspecto saludable}
-{185700}{}{Un ·rbol de aspecto saludable}
-{185800}{}{Un ·rbol de aspecto saludable}
-{185900}{}{Un ·rbol de aspecto saludable}
-{186000}{}{Un ·rbol de aspecto saludable}
+{185600}{}{Un √°rbol de aspecto saludable}
+{185700}{}{Un √°rbol de aspecto saludable}
+{185800}{}{Un √°rbol de aspecto saludable}
+{185900}{}{Un √°rbol de aspecto saludable}
+{186000}{}{Un √°rbol de aspecto saludable}
 {186100}{}{Un arbusto de aspecto saludable}
 {186200}{}{Plantas}
-{186201}{}{Una mutaciÛn cornstalk. Parece ser prÛspero en estas condiciones. Esta es de un color diferente a las otras que hemos visto.}
-{186300}{}{Tierra fÈrtil}
-{186400}{}{Tierra fÈrtil}
-{186500}{}{Tierra fÈrtil}
+{186201}{}{Una mutaci√≥n cornstalk. Parece ser pr√≥spero en estas condiciones. Esta es de un color diferente a las otras que hemos visto.}
+{186300}{}{Tierra f√©rtil}
+{186400}{}{Tierra f√©rtil}
+{186500}{}{Tierra f√©rtil}
 {186600}{}{UTILIZA EL ARTE}
 {186601}{}{}
 {186700}{}{UTILIZA EL ARTE}
-{186701}{}{Un trono para un lÌder o comandante.}
-{186800}{}{Aire de ventilaciÛn}
-{186801}{}{Una circular de la salida de aire a una instalaciÛn subterr·nea.}
+{186701}{}{Un trono para un l√≠der o comandante.}
+{186800}{}{Aire de ventilaci√≥n}
+{186801}{}{Una circular de la salida de aire a una instalaci√≥n subterr√°nea.}
 {186900}{}{Cuerda}
 {186901}{}{Una cuerda que conduce a una sobrecarga de la salida de aire.}
-{187000}{}{De Tratamiento De Aire De VentilaciÛn}
-{187001}{}{Una ventilaciÛn usada para el filtro de aire subterr·neo.}
-{187100}{}{VentilaciÛn}
-{187101}{}{Una de ventilaciÛn se utiliza para purificar el aire.}
-{187200}{}{Brahm·n signo}
-{187201}{}{Una seÒal de dar las instrucciones.}
-{187300}{}{Brahm·n signo}
-{187301}{}{Una seÒal de que una advertencia.}
-{187400}{}{La ElaboraciÛn De La M·quina}
-{187401}{}{Una m·quina con la cual usted puede hacer su propio drogas.}
-{187500}{}{Productos quÌmicos}
-{187501}{}{Olor fÈtido gelatinoso productos quÌmicos.}
-{187600}{}{Productos quÌmicos}
-{187601}{}{Olor fÈtido gelatinoso productos quÌmicos.}
-{187700}{}{Productos quÌmicos }
-{187701}{}{Olor fÈtido gelatinoso productos quÌmicos.}
-{187800}{}{Productos quÌmicos }
-{187801}{}{Olor fÈtido gelatinoso productos quÌmicos.}
+{187000}{}{De Tratamiento De Aire De Ventilaci√≥n}
+{187001}{}{Una ventilaci√≥n usada para el filtro de aire subterr√°neo.}
+{187100}{}{Ventilaci√≥n}
+{187101}{}{Una de ventilaci√≥n se utiliza para purificar el aire.}
+{187200}{}{Brahm√°n signo}
+{187201}{}{Una se√±al de dar las instrucciones.}
+{187300}{}{Brahm√°n signo}
+{187301}{}{Una se√±al de que una advertencia.}
+{187400}{}{La Elaboraci√≥n De La M√°quina}
+{187401}{}{Una m√°quina con la cual usted puede hacer su propio drogas.}
+{187500}{}{Productos qu√≠micos}
+{187501}{}{Olor f√©tido gelatinoso productos qu√≠micos.}
+{187600}{}{Productos qu√≠micos}
+{187601}{}{Olor f√©tido gelatinoso productos qu√≠micos.}
+{187700}{}{Productos qu√≠micos }
+{187701}{}{Olor f√©tido gelatinoso productos qu√≠micos.}
+{187800}{}{Productos qu√≠micos }
+{187801}{}{Olor f√©tido gelatinoso productos qu√≠micos.}
 {187900}{}{Cuerda}
 {187901}{}{Cuerda para significar un no-zona de paseo.}
 {188000}{}{Cuerda}
-{188001}{}{Cuerda de impedir el acceso a ciertas ·reas.}
-{188100}{}{GalerÌa De Imagen}
+{188001}{}{Cuerda de impedir el acceso a ciertas √°reas.}
+{188100}{}{Galer√≠a De Imagen}
 {188101}{}{Un cuadro que representa La Mona Lisa.}
-{188200}{}{GalerÌa De Imagen}
+{188200}{}{Galer√≠a De Imagen}
 {188201}{}{Un cuadro que representa la primera caminata lunar.}
-{188300}{}{La ElaboraciÛn De La M·quina}
-{188301}{}{Una m·quina con la cual usted puede hacer su propio drogas.}
-{188400}{}{Tierra fÈrtil}
+{188300}{}{La Elaboraci√≥n De La M√°quina}
+{188301}{}{Una m√°quina con la cual usted puede hacer su propio drogas.}
+{188400}{}{Tierra f√©rtil}
 {188401}{}{Terreno listo para la siembra.}
-{188500}{}{Tierra fÈrtil}
+{188500}{}{Tierra f√©rtil}
 {188501}{}{Terreno listo para la siembra.}
-{188600}{}{SeÒal de estacionamiento}
-{188601}{}{Un signo de la designaciÛn de zonas para aparcar.}
+{188600}{}{Se√±al de estacionamiento}
+{188601}{}{Un signo de la designaci√≥n de zonas para aparcar.}
 {188700}{}{Ascensor}
 {188701}{}{Un ascensor para viajar a otro piso.}
-{188800}{}{La hibernaciÛn del equipo}
-{188801}{}{Equipo de control de la hibernaciÛn cubas.}
+{188800}{}{La hibernaci√≥n del equipo}
+{188801}{}{Equipo de control de la hibernaci√≥n cubas.}
 {188900}{}{Un grupo de barriles}
-{188901}{}{Los barriles de almacenamiento de diversos productos quÌmicos.}
+{188901}{}{Los barriles de almacenamiento de diversos productos qu√≠micos.}
 {189000}{}{Una quema de barril}
 {189001}{}{Al parecer, el letrero dice su inflamables.}
 {189100}{}{Un barril}
-{189101}{}{Un barril lleno de alg˙n tipo de lÌquido.}
+{189101}{}{Un barril lleno de alg√∫n tipo de l√≠quido.}
 {189200}{}{Un barril}
-{189201}{}{Un barril contiene una gruesa nocivos lÌquido rojo.}
+{189201}{}{Un barril contiene una gruesa nocivos l√≠quido rojo.}
 {189300}{}{Un barril}
-{189301}{}{Un barril con una etiqueta de advertencia de riesgo biolÛgico.}
+{189301}{}{Un barril con una etiqueta de advertencia de riesgo biol√≥gico.}
 {189400}{}{Plantas}
-{189401}{}{Esta planta parece tener alg˙n tipo de baya que cuelga de Èl.}
-{189500}{}{Un ¡rbol}
+{189401}{}{Esta planta parece tener alg√∫n tipo de baya que cuelga de √©l.}
+{189500}{}{Un √Årbol}
 {189600}{}{Una tostadora}
 {189601}{}{Una plata tostadora sentado en un escritorio.}
 {189700}{}{Un proyector de holograma}
-{189701}{}{Su b·sico HD 2000 holograma proyector.}
+{189701}{}{Su b√°sico HD 2000 holograma proyector.}
 {189800}{}{Un proyector de holograma}
-{189801}{}{Su b·sico HD 2000 holograma proyector.}
+{189801}{}{Su b√°sico HD 2000 holograma proyector.}
 {189900}{}{Un proyector de holograma}
-{189901}{}{Su b·sico HD 2000 holograma proyector.}
+{189901}{}{Su b√°sico HD 2000 holograma proyector.}
 {190000}{}{Sombra}
 {190001}{}{}
 {190100}{}{Vertibird}
-{190200}{}{Un Congelador CriogÈnico}
+{190200}{}{Un Congelador Criog√©nico}
 {190201}{}{Un congelador que puede almacenar un ser humano vivo. Este es abierto.}
-{190300}{}{Un Congelador CriogÈnico}
+{190300}{}{Un Congelador Criog√©nico}
 {190301}{}{Un congelador que puede almacenar un ser humano vivo. Este es cerrado.}
 {190400}{}{Un escritorio}
 {190401}{}{Un grande, robusto aspecto del escritorio.}
-{190500}{}{La HibernaciÛn De La C·mara De}
-{190501}{}{Una c·mara de hibernaciÛn. Un cuerpo de una mujer blanca suspendida en el interior.}
-{190600}{}{La HibernaciÛn De La C·mara De}
-{190601}{}{Una c·mara de hibernaciÛn. Un cuerpo de una mujer blanca suspendida en el interior.}
-{190700}{}{La HibernaciÛn De La C·mara De}
-{190701}{}{Abierta la hibernaciÛn de la c·mara. Un cuerpo de una mujer blanca se encuentra desnudo en el interior.}
-{190800}{}{La HibernaciÛn De La C·mara De}
-{190801}{}{Abierta la hibernaciÛn de la c·mara. Un cuerpo de un hombre blanco que yace desnudo en el interior.}
-{190900}{}{La HibernaciÛn De La C·mara De}
-{190901}{}{Abierta la hibernaciÛn de la c·mara. Un cuerpo de un hombre negro se encuentra desnudo en el interior.}
-{191000}{}{La HibernaciÛn De La C·mara De}
-{191001}{}{Una c·mara de hibernaciÛn. Un cuerpo de una mujer blanca suspendida en el interior.}
-{191100}{}{La HibernaciÛn De La C·mara De}
-{191101}{}{Abierta la hibernaciÛn de la c·mara. Est· vacÌo.}
-{191200}{}{Un WattzMan 2000 silla elÈctrica}
+{190500}{}{La Hibernaci√≥n De La C√°mara De}
+{190501}{}{Una c√°mara de hibernaci√≥n. Un cuerpo de una mujer blanca suspendida en el interior.}
+{190600}{}{La Hibernaci√≥n De La C√°mara De}
+{190601}{}{Una c√°mara de hibernaci√≥n. Un cuerpo de una mujer blanca suspendida en el interior.}
+{190700}{}{La Hibernaci√≥n De La C√°mara De}
+{190701}{}{Abierta la hibernaci√≥n de la c√°mara. Un cuerpo de una mujer blanca se encuentra desnudo en el interior.}
+{190800}{}{La Hibernaci√≥n De La C√°mara De}
+{190801}{}{Abierta la hibernaci√≥n de la c√°mara. Un cuerpo de un hombre blanco que yace desnudo en el interior.}
+{190900}{}{La Hibernaci√≥n De La C√°mara De}
+{190901}{}{Abierta la hibernaci√≥n de la c√°mara. Un cuerpo de un hombre negro se encuentra desnudo en el interior.}
+{191000}{}{La Hibernaci√≥n De La C√°mara De}
+{191001}{}{Una c√°mara de hibernaci√≥n. Un cuerpo de una mujer blanca suspendida en el interior.}
+{191100}{}{La Hibernaci√≥n De La C√°mara De}
+{191101}{}{Abierta la hibernaci√≥n de la c√°mara. Est√° vac√≠o.}
+{191200}{}{Un WattzMan 2000 silla el√©ctrica}
 {191300}{}{Imperial Shuttle}
-{191301}{}{Un vehÌculo espacial de alg˙n tipo. Tiene una placa que dice: EMPRRULZ!}
+{191301}{}{Un veh√≠culo espacial de alg√∫n tipo. Tiene una placa que dice: EMPRRULZ!}
 {191400}{}{Imperial Shuttle}
-{191401}{}{Un vehÌculo espacial de alg˙n tipo. Tiene una placa que dice: EMPRRULZ!}
-{191500}{}{HalcÛn Milenario}
+{191401}{}{Un veh√≠culo espacial de alg√∫n tipo. Tiene una placa que dice: EMPRRULZ!}
+{191500}{}{Halc√≥n Milenario}
 {191501}{}{Se ve como un balde de pernos. De ver un par de peludos dados colgando del espejo retrovisor.}
 {191600}{}{La quema brasero}
-{191601}{}{Este brasero est· lleno de brasas.}
+{191601}{}{Este brasero est√° lleno de brasas.}
 {191700}{}{Hueso}
 {191701}{}{}
 {191800}{}{Hueso}
@@ -2908,114 +2908,114 @@
 {192700}{}{Huesos}
 {192701}{}{Son estos humanos!}
 {192800}{}{Huesos}
-{192900}{}{Barrera de hormigÛn}
-{193000}{}{Barrera de hormigÛn}
+{192900}{}{Barrera de hormig√≥n}
+{193000}{}{Barrera de hormig√≥n}
 {193100}{}{Puerta de seguridad}
 {193101}{}{Esta puerta se ve muy seguro.}
 {193200}{}{Puerta de seguridad}
-{193201}{}{Esta oxidada puerta todavÌa se ve muy seguro.}
+{193201}{}{Esta oxidada puerta todav√≠a se ve muy seguro.}
 {193300}{}{Hueco del ascensor}
 {193400}{}{Hueco del ascensor}
-{193401}{}{El eje est· roto.}
+{193401}{}{El eje est√° roto.}
 {193500}{}{Hueco del ascensor}
 {193501}{}{El hueco tiene una cuerda que cuelga desde arriba.}
 {193600}{}{Hueco del ascensor}
 {193601}{}{El eje tiene una fractura de un ascensor y la cuerda.}
 {193700}{}{Hueco del ascensor}
 {193701}{}{El eje es la falta de ascensor. Peligroso!}
-{193800}{}{La OxidaciÛn De TuberÌas}
-{193801}{}{Un conjunto de antiguos oxidaciÛn de las tuberÌas.}
-{193900}{}{Generador de energÌa}
-{193901}{}{Un generador elÈctrico Wattz ElectroBox. Pr·cticamente un est·ndar como generador de respaldo de antes de la guerra.}
-{194000}{}{Generador de energÌa}
-{194001}{}{Un Wattz ElectroBox de la caja de fusibles. Bastante est·ndar, como generadores de antes de la guerra.}
-{194100}{}{Maquinaria ElÈctrica}
-{194101}{}{Esta m·quina est· zumbando con la electricidad.}
-{194200}{}{PequeÒo Monitor}
-{194201}{}{Este pequeÒo monitor que parece tener a alguien hablando.}
+{193800}{}{La Oxidaci√≥n De Tuber√≠as}
+{193801}{}{Un conjunto de antiguos oxidaci√≥n de las tuber√≠as.}
+{193900}{}{Generador de energ√≠a}
+{193901}{}{Un generador el√©ctrico Wattz ElectroBox. Pr√°cticamente un est√°ndar como generador de respaldo de antes de la guerra.}
+{194000}{}{Generador de energ√≠a}
+{194001}{}{Un Wattz ElectroBox de la caja de fusibles. Bastante est√°ndar, como generadores de antes de la guerra.}
+{194100}{}{Maquinaria El√©ctrica}
+{194101}{}{Esta m√°quina est√° zumbando con la electricidad.}
+{194200}{}{Peque√±o Monitor}
+{194201}{}{Este peque√±o monitor que parece tener a alguien hablando.}
 {194300}{}{Monitor}
-{194301}{}{Un monitor de gran tamaÒo, en blanco y negro solamente. Este tiene una mujer habla sobre la moral.}
+{194301}{}{Un monitor de gran tama√±o, en blanco y negro solamente. Este tiene una mujer habla sobre la moral.}
 {194400}{}{Monitor}
-{194401}{}{Un monitor de gran tamaÒo, en blanco y negro solamente. Esto se advierte de las consecuencias.}
+{194401}{}{Un monitor de gran tama√±o, en blanco y negro solamente. Esto se advierte de las consecuencias.}
 {194500}{}{Monitor}
-{194501}{}{Un monitor de gran tamaÒo, en blanco y negro solamente. La extraÒa pelÌcula parece estar atrapado en un bucle.}
-{194600}{}{Monitor De Gran TamaÒo}
-{194601}{}{Un monitor de gran tamaÒo, en blanco y negro solamente. Este tiene una figura en la armadura.}
+{194501}{}{Un monitor de gran tama√±o, en blanco y negro solamente. La extra√±a pel√≠cula parece estar atrapado en un bucle.}
+{194600}{}{Monitor De Gran Tama√±o}
+{194601}{}{Un monitor de gran tama√±o, en blanco y negro solamente. Este tiene una figura en la armadura.}
 {194700}{}{Monitor}
-{194701}{}{Un monitor de gran tamaÒo, en blanco y negro solamente. Este tiene una vida digna, pero de aspecto sencillo hombre de senderismo en.}
+{194701}{}{Un monitor de gran tama√±o, en blanco y negro solamente. Este tiene una vida digna, pero de aspecto sencillo hombre de senderismo en.}
 {194800}{}{Monitor}
-{194801}{}{Un monitor de gran tamaÒo, en blanco y negro solamente. La imagen es de rotaciÛn de la cruz y el cÌrculo.}
+{194801}{}{Un monitor de gran tama√±o, en blanco y negro solamente. La imagen es de rotaci√≥n de la cruz y el c√≠rculo.}
 {194900}{}{repuesto}
 {195000}{}{repuesto}
 {195100}{}{Sombra}
 {195200}{}{Sombra}
-{195300}{}{Gran Pegajosa Bomba Mec·nica}
-{195301}{}{Usted ve un gran mec·nico de la bomba de cubiertos de extraÒos nocivos biolÛgica goo.}
+{195300}{}{Gran Pegajosa Bomba Mec√°nica}
+{195301}{}{Usted ve un gran mec√°nico de la bomba de cubiertos de extra√±os nocivos biol√≥gica goo.}
 {195400}{}{Piso De Rejilla}
-{195401}{}{Una oxidaciÛn piso de rejilla.}
-{195500}{}{Gran Bomba Mec·nica}
-{195501}{}{Una gran bomba mec·nica elev·ndose a travÈs de un suelo de rejilla.}
-{195600}{}{Gran Pegajosa Bomba Mec·nica}
-{195601}{}{Usted ve un gran mec·nico de la bomba de cubiertos de extraÒos nocivos biolÛgica goo.}
-{195700}{}{Destruido Pegajosa Bomba Mec·nica}
-{195701}{}{Usted ve un gran mec·nico de la bomba de cubiertos de extraÒos nocivos biolÛgica goo. Su bombeo dÌas son m·s.}
-{195800}{}{Destruido Pegajosa Bomba Mec·nica}
-{195801}{}{Usted ve un gran mec·nico de la bomba de cubiertos de extraÒos nocivos biolÛgica goo. Su bombeo dÌas son m·s.}
+{195401}{}{Una oxidaci√≥n piso de rejilla.}
+{195500}{}{Gran Bomba Mec√°nica}
+{195501}{}{Una gran bomba mec√°nica elev√°ndose a trav√©s de un suelo de rejilla.}
+{195600}{}{Gran Pegajosa Bomba Mec√°nica}
+{195601}{}{Usted ve un gran mec√°nico de la bomba de cubiertos de extra√±os nocivos biol√≥gica goo.}
+{195700}{}{Destruido Pegajosa Bomba Mec√°nica}
+{195701}{}{Usted ve un gran mec√°nico de la bomba de cubiertos de extra√±os nocivos biol√≥gica goo. Su bombeo d√≠as son m√°s.}
+{195800}{}{Destruido Pegajosa Bomba Mec√°nica}
+{195801}{}{Usted ve un gran mec√°nico de la bomba de cubiertos de extra√±os nocivos biol√≥gica goo. Su bombeo d√≠as son m√°s.}
 {195900}{}{El Piso De La Cavidad}
-{196000}{}{Gran Bomba Mec·nica}
-{196001}{}{Una gran bomba mec·nica elev·ndose a travÈs de un suelo de rejilla.}
-{196100}{}{Gran Bomba Mec·nica}
-{196101}{}{Una gran bomba mec·nica elev·ndose a travÈs de un suelo de rejilla.}
-{196200}{}{MontÛn de llantas}
-{196201}{}{Un montÛn de viejas llantas de caucho. Est·n vulcanizadas y endurecidas, probablemente por el calor.}
-{196300}{}{Los Neum·ticos De Goma}
-{196301}{}{Dos antiguos neum·ticos de goma. Tienen vulcanizado y endurecido, probablemente debido al calor.}
-{196400}{}{Neum·tico De Caucho}
+{196000}{}{Gran Bomba Mec√°nica}
+{196001}{}{Una gran bomba mec√°nica elev√°ndose a trav√©s de un suelo de rejilla.}
+{196100}{}{Gran Bomba Mec√°nica}
+{196101}{}{Una gran bomba mec√°nica elev√°ndose a trav√©s de un suelo de rejilla.}
+{196200}{}{Mont√≥n de llantas}
+{196201}{}{Un mont√≥n de viejas llantas de caucho. Est√°n vulcanizadas y endurecidas, probablemente por el calor.}
+{196300}{}{Los Neum√°ticos De Goma}
+{196301}{}{Dos antiguos neum√°ticos de goma. Tienen vulcanizado y endurecido, probablemente debido al calor.}
+{196400}{}{Neum√°tico De Caucho}
 {196401}{}{Un antiguo llantas de caucho. Se ha convertido en vulcanizada y endurecido, probablemente debido al calor.}
 {196500}{}{Turbina Grande}
 {196501}{}{Un gran girar la turbina.}
-{196600}{}{VentilaciÛn}
-{196601}{}{Un conducto de ventilaciÛn. Abastece, procesa y limpia el aire de todo el complejo.}
-{196700}{}{VentilaciÛn}
-{196701}{}{Un conducto de ventilaciÛn. Abastece, procesa y limpia el aire de todo el complejo.}
+{196600}{}{Ventilaci√≥n}
+{196601}{}{Un conducto de ventilaci√≥n. Abastece, procesa y limpia el aire de todo el complejo.}
+{196700}{}{Ventilaci√≥n}
+{196701}{}{Un conducto de ventilaci√≥n. Abastece, procesa y limpia el aire de todo el complejo.}
 {196800}{}{Respiradero}
 {196900}{}{Respiradero}
-{197000}{}{Rusty Aire De VentilaciÛn}
-{197001}{}{Este aire de ventilaciÛn es oxidado y bloqueado.}
-{197100}{}{Rusty Aire De VentilaciÛn}
-{197101}{}{Este aire de ventilaciÛn es oxidado y bloqueado.}
-{197200}{}{Rusty Aire De VentilaciÛn}
-{197201}{}{Esta oxidada de la salida de aire est· bloqueado.}
+{197000}{}{Rusty Aire De Ventilaci√≥n}
+{197001}{}{Este aire de ventilaci√≥n es oxidado y bloqueado.}
+{197100}{}{Rusty Aire De Ventilaci√≥n}
+{197101}{}{Este aire de ventilaci√≥n es oxidado y bloqueado.}
+{197200}{}{Rusty Aire De Ventilaci√≥n}
+{197201}{}{Esta oxidada de la salida de aire est√° bloqueado.}
 {197300}{}{Muro}
 {197400}{}{Muro}
 {197500}{}{Revestimiento de madera}
-{197600}{}{VentilaciÛn}
-{197700}{}{VentilaciÛn}
+{197600}{}{Ventilaci√≥n}
+{197700}{}{Ventilaci√≥n}
 {197800}{}{Pozo}
-{197801}{}{Un tÌpico pozo encontrado en el Yermo.}
+{197801}{}{Un t√≠pico pozo encontrado en el Yermo.}
 {197900}{}{Escaleras}
 {197901}{}{Un conjunto de amplias escaleras.}
-{198000}{}{Amplia La OxidaciÛn De Las Escaleras}
-{198001}{}{Estas escaleras est·n oxidadas lentamente.}
-{198100}{}{Amplia La OxidaciÛn De Las Escaleras}
-{198101}{}{Estas escaleras est·n oxidadas lentamente.}
-{198200}{}{PequeÒas Escaleras}
-{198201}{}{TÌpico pequeÒas escaleras.}
-{198300}{}{PequeÒa OxidaciÛn Escaleras}
-{198301}{}{Estas escaleras est·n oxid·ndose.}
+{198000}{}{Amplia La Oxidaci√≥n De Las Escaleras}
+{198001}{}{Estas escaleras est√°n oxidadas lentamente.}
+{198100}{}{Amplia La Oxidaci√≥n De Las Escaleras}
+{198101}{}{Estas escaleras est√°n oxidadas lentamente.}
+{198200}{}{Peque√±as Escaleras}
+{198201}{}{T√≠pico peque√±as escaleras.}
+{198300}{}{Peque√±a Oxidaci√≥n Escaleras}
+{198301}{}{Estas escaleras est√°n oxid√°ndose.}
 {198400}{}{Atascado Ventilador}
 {198401}{}{Este ventilador tiene una pieza de metal que se atasquen las cuchillas.}
-{198500}{}{De Tratamiento De Aire De VentilaciÛn}
-{198501}{}{Un sistema de ventilaciÛn est·ndar Vault-Tec.}
+{198500}{}{De Tratamiento De Aire De Ventilaci√≥n}
+{198501}{}{Un sistema de ventilaci√≥n est√°ndar Vault-Tec.}
 {198600}{}{Pared de acero}
 {198700}{}{Pared de acero}
 {198800}{}{Pared de acero}
 {198900}{}{Pared de acero}
 {199000}{}{Pared de acero}
-{199100}{}{La OxidaciÛn De TuberÌas}
-{199200}{}{TuberÌas}
-{199300}{}{Puerta del almacÈn}
-{199400}{}{Puerta del almacÈn}
+{199100}{}{La Oxidaci√≥n De Tuber√≠as}
+{199200}{}{Tuber√≠as}
+{199300}{}{Puerta del almac√©n}
+{199400}{}{Puerta del almac√©n}
 {199500}{}{Gigante Estatua De Cobre}
 {199501}{}{Esta estatua se alza desde fuera de la tierra. Tiene el ligero olor de los Simios de mear.}
 {199600}{}{Gigante Estatua De Cobre}
@@ -3029,16 +3029,16 @@
 {200000}{}{Sombra}
 {200001}{}{Sombra}
 {200100}{}{Sombra}
-{200200}{}{Tanque de suspensiÛn}
-{200201}{}{Alg˙n tipo de mÈdico o aparato experimental. Este tanque tiene un extraÒo lÌquido verde.}
+{200200}{}{Tanque de suspensi√≥n}
+{200201}{}{Alg√∫n tipo de m√©dico o aparato experimental. Este tanque tiene un extra√±o l√≠quido verde.}
 {200300}{}{Tanque de agua}
-{200301}{}{Un gran depÛsito contenedor de lÌquidos. En este caso, crees que lo diseÒaron para almacenar agua.}
+{200301}{}{Un gran dep√≥sito contenedor de l√≠quidos. En este caso, crees que lo dise√±aron para almacenar agua.}
 {200400}{}{Puerta}
 {200500}{}{EPA Mundo}
-{200501}{}{Una oxidaciÛn logotipo de la empresa.}
+{200501}{}{Una oxidaci√≥n logotipo de la empresa.}
 {200600}{}{Sombra}
-{200700}{}{Mesa de la c·mara de guerra}
-{200800}{}{Mesa de la c·mara de guerra}
+{200700}{}{Mesa de la c√°mara de guerra}
+{200800}{}{Mesa de la c√°mara de guerra}
 {200900}{}{Puerta de seguridad}
 {200901}{}{Esta puerta se ve muy seguro.}
 {201000}{}{EPA Signo}
@@ -3047,25 +3047,25 @@
 {201201}{}{Una placa de metal con las letras de la EPA.}
 {201300}{}{EPA Placa}
 {201301}{}{Una placa de metal con las letras de la EPA.}
-{201400}{}{La oxidaciÛn de la EPA de la Placa}
-{201401}{}{Esta placa de metal poco a poco est· oxid·ndose.}
+{201400}{}{La oxidaci√≥n de la EPA de la Placa}
+{201401}{}{Esta placa de metal poco a poco est√° oxid√°ndose.}
 {201500}{}{Placa De Metal}
-{201501}{}{Una placa de metal con el n˙mero uno.}
+{201501}{}{Una placa de metal con el n√∫mero uno.}
 {201600}{}{Placa De Metal}
-{201601}{}{Una placa de metal con el n˙mero dos.}
+{201601}{}{Una placa de metal con el n√∫mero dos.}
 {201700}{}{Placa De Metal}
-{201701}{}{Una placa de metal con el n˙mero tres.}
+{201701}{}{Una placa de metal con el n√∫mero tres.}
 {201800}{}{Placa De Metal}
-{201801}{}{Una placa de metal con el n˙mero uno.}
+{201801}{}{Una placa de metal con el n√∫mero uno.}
 {201900}{}{Placa De Metal}
-{201901}{}{Una placa de metal con el n˙mero cinco.}
+{201901}{}{Una placa de metal con el n√∫mero cinco.}
 {202000}{}{Placa De Metal}
-{202001}{}{Una placa de metal con el n˙mero dos.}
+{202001}{}{Una placa de metal con el n√∫mero dos.}
 {202100}{}{Museo De La Imagen}
 {202200}{}{Museo De La Imagen}
 {202300}{}{Museo De La Imagen}
 {202400}{}{EPA Mundo}
-{202401}{}{La EPA de la corporaciÛn de logotipo.}
+{202401}{}{La EPA de la corporaci√≥n de logotipo.}
 {202500}{}{Sombra}
 {202600}{}{Sombra}
 {202700}{}{Sombra}
@@ -3103,18 +3103,18 @@
 {205201}{}{Una olla artesanal.}
 {205300}{}{Respiradero}
 {205400}{}{Respiradero}
-{205500}{}{La BÛveda De La Puerta Exterior}
-{205501}{}{Esta gran puerta es el vÌnculo entre el Refugio y el mundo exterior.}
-{205600}{}{La OxidaciÛn De La BÛveda De La Puerta Exterior}
-{205601}{}{Esta ampliaciÛn de la oxidaciÛn de la puerta es el vÌnculo entre la bÛveda y el mundo exterior.}
-{205700}{}{La OxidaciÛn De La BÛveda De La Puerta Exterior}
-{205701}{}{Esta ampliaciÛn de la oxidaciÛn de la puerta es el vÌnculo entre la bÛveda y el mundo exterior.}
-{205800}{}{La OxidaciÛn De La BÛveda De La Puerta Exterior}
-{205801}{}{El mecanismo de apertura de la pesada puerta del Refugio est· daÒado y es irreparable.}
-{205900}{}{La OxidaciÛn De La BÛveda De La Puerta Exterior}
+{205500}{}{La B√≥veda De La Puerta Exterior}
+{205501}{}{Esta gran puerta es el v√≠nculo entre el Refugio y el mundo exterior.}
+{205600}{}{La Oxidaci√≥n De La B√≥veda De La Puerta Exterior}
+{205601}{}{Esta ampliaci√≥n de la oxidaci√≥n de la puerta es el v√≠nculo entre la b√≥veda y el mundo exterior.}
+{205700}{}{La Oxidaci√≥n De La B√≥veda De La Puerta Exterior}
+{205701}{}{Esta ampliaci√≥n de la oxidaci√≥n de la puerta es el v√≠nculo entre la b√≥veda y el mundo exterior.}
+{205800}{}{La Oxidaci√≥n De La B√≥veda De La Puerta Exterior}
+{205801}{}{El mecanismo de apertura de la pesada puerta del Refugio est√° da√±ado y es irreparable.}
+{205900}{}{La Oxidaci√≥n De La B√≥veda De La Puerta Exterior}
 {205901}{}{El mecanismo de la puerta ha sido deshabilitada.}
-{206000}{}{La BÛveda De La Puerta Exterior}
-{206001}{}{Esta gran puerta es el vÌnculo entre el Refugio y el mundo exterior.}
+{206000}{}{La B√≥veda De La Puerta Exterior}
+{206001}{}{Esta gran puerta es el v√≠nculo entre el Refugio y el mundo exterior.}
 {206100}{}{Olla}
 {206101}{}{Una olla artesanal.}
 {206200}{}{Olla}
@@ -3126,16 +3126,16 @@
 {206500}{}{Muro}
 {206600}{}{Campo de fuerza}
 {206700}{}{Placa De Metal}
-{206701}{}{Una placa de metal con el n˙mero dos.}
+{206701}{}{Una placa de metal con el n√∫mero dos.}
 {206800}{}{Rocas}
-{206801}{}{Un gran montÛn de rocas.}
+{206801}{}{Un gran mont√≥n de rocas.}
 {206900}{}{Rocas}
-{206901}{}{Un gran montÛn de rocas.}
-{207000}{}{La OxidaciÛn Ascensor}
-{207001}{}{Esta oxidaciÛn ascensor viaja entre los niveles.}
+{206901}{}{Un gran mont√≥n de rocas.}
+{207000}{}{La Oxidaci√≥n Ascensor}
+{207001}{}{Esta oxidaci√≥n ascensor viaja entre los niveles.}
 {207100}{}{Sucia Agua De Sentina}
 {207200}{}{Hierro Iva}
-{207201}{}{Una enorme plancha de iva con un extraÒo lÌquido verde.}
+{207201}{}{Una enorme plancha de iva con un extra√±o l√≠quido verde.}
 {207300}{}{Puerta de seguridad}
 {207301}{}{Esta puerta se ve muy seguro.}
 {207400}{}{Desgastada Alfombra}
@@ -3148,114 +3148,114 @@
 {207701}{}{Una imagen de la NCR banner.}
 {207800}{}{NCR Imagen}
 {207801}{}{Una imagen de la NCR banner.}
-{207900}{}{MontaÒa}
-{207901}{}{La cara de esta montaÒa parece inaccesible.}
-{208000}{}{MontaÒa}
-{208001}{}{La cara de esta montaÒa parece inaccesible.}
+{207900}{}{Monta√±a}
+{207901}{}{La cara de esta monta√±a parece inaccesible.}
+{208000}{}{Monta√±a}
+{208001}{}{La cara de esta monta√±a parece inaccesible.}
 {208100}{}{Imagen}
 {208200}{}{Imagen}
 {208300}{}{Imagen}
-{208400}{}{VentilaciÛn}
-{208500}{}{VentilaciÛn}
-{208600}{}{VentilaciÛn}
-{208700}{}{VentilaciÛn}
-{208800}{}{VentilaciÛn}
-{208900}{}{VentilaciÛn}
+{208400}{}{Ventilaci√≥n}
+{208500}{}{Ventilaci√≥n}
+{208600}{}{Ventilaci√≥n}
+{208700}{}{Ventilaci√≥n}
+{208800}{}{Ventilaci√≥n}
+{208900}{}{Ventilaci√≥n}
 {209000}{}{Revestimiento de madera}
 {209100}{}{Revestimiento de madera}
-{209200}{}{VentilaciÛn}
-{209300}{}{VentilaciÛn}
-{209400}{}{TuberÌas De Pared}
-{209500}{}{TuberÌas De Pared}
-{209600}{}{TuberÌas De Pared}
-{209700}{}{TuberÌas De Pared}
-{209800}{}{TuberÌas De Pared}
-{209900}{}{TuberÌas De Pared}
+{209200}{}{Ventilaci√≥n}
+{209300}{}{Ventilaci√≥n}
+{209400}{}{Tuber√≠as De Pared}
+{209500}{}{Tuber√≠as De Pared}
+{209600}{}{Tuber√≠as De Pared}
+{209700}{}{Tuber√≠as De Pared}
+{209800}{}{Tuber√≠as De Pared}
+{209900}{}{Tuber√≠as De Pared}
 {210000}{}{Puerta de seguridad}
 {210001}{}{Esta puerta de metal incrustado en la cara de la roca.}
-{210100}{}{La BÛveda De La Puerta Exterior}
-{210101}{}{Esta bÛveda de la puerta est· incrustado en la cara de la roca de la montaÒa. Parece haber sobrevivido a la explosiÛn de una bomba atÛmica.}
-{210200}{}{La BÛveda De La Puerta Exterior}
-{210201}{}{Esta puerta grande, es el vÌnculo entre la bÛveda y el mundo exterior. Ha sido arrasada por una tremenda explosiÛn.}
+{210100}{}{La B√≥veda De La Puerta Exterior}
+{210101}{}{Esta b√≥veda de la puerta est√° incrustado en la cara de la roca de la monta√±a. Parece haber sobrevivido a la explosi√≥n de una bomba at√≥mica.}
+{210200}{}{La B√≥veda De La Puerta Exterior}
+{210201}{}{Esta puerta grande, es el v√≠nculo entre la b√≥veda y el mundo exterior. Ha sido arrasada por una tremenda explosi√≥n.}
 {210300}{}{Caverna de entrada}
-{210301}{}{La cueva aparece para abrir en una red m·s grande de cuevas.}
+{210301}{}{La cueva aparece para abrir en una red m√°s grande de cuevas.}
 {210400}{}{Computadora de acceso}
-{210401}{}{Esta computadora controla la puerta de acceso al Refugio. Necesitas introducir un cÛdigo de acceso especÌfico para que la computadora funcione.}
-{210500}{}{La OxidaciÛn Del Barco}
+{210401}{}{Esta computadora controla la puerta de acceso al Refugio. Necesitas introducir un c√≥digo de acceso espec√≠fico para que la computadora funcione.}
+{210500}{}{La Oxidaci√≥n Del Barco}
 {210501}{}{Este barco se ve apenas en condiciones de navegar.}
-{210600}{}{La OxidaciÛn Del Barco}
+{210600}{}{La Oxidaci√≥n Del Barco}
 {210601}{}{Este barco se ve apenas en condiciones de navegar.}
 {210700}{}{Amarre Post}
-{210701}{}{Una cuerda que conduce desde el amarre posterior a la embarcaciÛn.}
+{210701}{}{Una cuerda que conduce desde el amarre posterior a la embarcaci√≥n.}
 {210800}{}{Amarre Post}
-{210801}{}{Una cuerda que conduce desde el amarre posterior a la embarcaciÛn.}
-{210900}{}{La OxidaciÛn De Submarinos De La Escotilla}
-{210901}{}{Con un poco de esfuerzo esta escotilla todavÌa puede ser abierto.}
-{211000}{}{La OxidaciÛn De Submarinos De La Torre}
-{211001}{}{Los estragos del tiempo y el agua salada se consume lentamente esta oxidaciÛn hulk.}
-{211100}{}{La OxidaciÛn De Submarinos De La Torre}
-{211101}{}{Los estragos del tiempo y el agua salada se consume lentamente esta oxidaciÛn hulk.}
-{211200}{}{La OxidaciÛn De La Escalera}
-{211201}{}{El agua salada es poco a poco de la disoluciÛn de la escalera de metal.}
-{211300}{}{La OxidaciÛn De Submarinos De La Torre}
-{211301}{}{Los estragos del tiempo y el agua salada se consume lentamente esta oxidaciÛn hulk.}
-{211400}{}{La OxidaciÛn Del Barco}
+{210801}{}{Una cuerda que conduce desde el amarre posterior a la embarcaci√≥n.}
+{210900}{}{La Oxidaci√≥n De Submarinos De La Escotilla}
+{210901}{}{Con un poco de esfuerzo esta escotilla todav√≠a puede ser abierto.}
+{211000}{}{La Oxidaci√≥n De Submarinos De La Torre}
+{211001}{}{Los estragos del tiempo y el agua salada se consume lentamente esta oxidaci√≥n hulk.}
+{211100}{}{La Oxidaci√≥n De Submarinos De La Torre}
+{211101}{}{Los estragos del tiempo y el agua salada se consume lentamente esta oxidaci√≥n hulk.}
+{211200}{}{La Oxidaci√≥n De La Escalera}
+{211201}{}{El agua salada es poco a poco de la disoluci√≥n de la escalera de metal.}
+{211300}{}{La Oxidaci√≥n De Submarinos De La Torre}
+{211301}{}{Los estragos del tiempo y el agua salada se consume lentamente esta oxidaci√≥n hulk.}
+{211400}{}{La Oxidaci√≥n Del Barco}
 {211401}{}{Este barco se ve apenas en condiciones de navegar.}
-{211500}{}{Turbio OcÈano}
-{211600}{}{La OxidaciÛn Del Casco}
-{211601}{}{El casco del submarino se encuentra sumergida bajo el tenebroso ocÈano.}
-{211700}{}{La OxidaciÛn Del Casco}
-{211701}{}{El casco del submarino se encuentra sumergida bajo el tenebroso ocÈano.}
-{211800}{}{La OxidaciÛn Del Casco}
-{211801}{}{El casco del submarino se encuentra sumergida bajo el tenebroso ocÈano.}
-{211900}{}{Turbio OcÈano}
-{212000}{}{La OxidaciÛn Del Casco}
-{212001}{}{El casco del submarino se encuentra sumergida bajo el tenebroso ocÈano.}
-{212100}{}{La OxidaciÛn Del Casco}
-{212101}{}{El casco del submarino se encuentra sumergida bajo el tenebroso ocÈano.}
-{212200}{}{Turbio OcÈano}
-{212300}{}{Turbio OcÈano}
-{212400}{}{Turbio OcÈano}
-{212500}{}{Turbio OcÈano}
-{212600}{}{Turbio OcÈano}
-{212700}{}{La OxidaciÛn Del Casco}
-{212701}{}{El casco del submarino se encuentra sumergida bajo el tenebroso ocÈano.}
-{212800}{}{La OxidaciÛn Del Casco}
-{212801}{}{El casco del submarino se encuentra sumergida bajo el tenebroso ocÈano.}
-{212900}{}{La OxidaciÛn Del Barco}
+{211500}{}{Turbio Oc√©ano}
+{211600}{}{La Oxidaci√≥n Del Casco}
+{211601}{}{El casco del submarino se encuentra sumergida bajo el tenebroso oc√©ano.}
+{211700}{}{La Oxidaci√≥n Del Casco}
+{211701}{}{El casco del submarino se encuentra sumergida bajo el tenebroso oc√©ano.}
+{211800}{}{La Oxidaci√≥n Del Casco}
+{211801}{}{El casco del submarino se encuentra sumergida bajo el tenebroso oc√©ano.}
+{211900}{}{Turbio Oc√©ano}
+{212000}{}{La Oxidaci√≥n Del Casco}
+{212001}{}{El casco del submarino se encuentra sumergida bajo el tenebroso oc√©ano.}
+{212100}{}{La Oxidaci√≥n Del Casco}
+{212101}{}{El casco del submarino se encuentra sumergida bajo el tenebroso oc√©ano.}
+{212200}{}{Turbio Oc√©ano}
+{212300}{}{Turbio Oc√©ano}
+{212400}{}{Turbio Oc√©ano}
+{212500}{}{Turbio Oc√©ano}
+{212600}{}{Turbio Oc√©ano}
+{212700}{}{La Oxidaci√≥n Del Casco}
+{212701}{}{El casco del submarino se encuentra sumergida bajo el tenebroso oc√©ano.}
+{212800}{}{La Oxidaci√≥n Del Casco}
+{212801}{}{El casco del submarino se encuentra sumergida bajo el tenebroso oc√©ano.}
+{212900}{}{La Oxidaci√≥n Del Barco}
 {212901}{}{Este barco se ve apenas en condiciones de navegar.}
-{213000}{}{Turbio OcÈano}
-{213100}{}{La OxidaciÛn Del Casco}
-{213101}{}{El casco del submarino se encuentra sumergida bajo el tenebroso ocÈano.}
-{213200}{}{La OxidaciÛn Del Casco}
-{213201}{}{El casco del submarino se encuentra sumergida bajo el tenebroso ocÈano.}
-{213300}{}{Turbio OcÈano}
-{213400}{}{Turbio OcÈano}
-{213500}{}{Turbio OcÈano}
-{213600}{}{La OxidaciÛn Del Casco}
-{213601}{}{El casco del submarino se encuentra sumergida bajo el tenebroso ocÈano.}
-{213700}{}{La OxidaciÛn Del Casco}
-{213701}{}{El casco del submarino se encuentra sumergida bajo el tenebroso ocÈano.}
-{213800}{}{Turbio OcÈano}
-{213900}{}{Turbio OcÈano}
-{214000}{}{Turbio OcÈano}
-{214100}{}{La OxidaciÛn Del Casco}
+{213000}{}{Turbio Oc√©ano}
+{213100}{}{La Oxidaci√≥n Del Casco}
+{213101}{}{El casco del submarino se encuentra sumergida bajo el tenebroso oc√©ano.}
+{213200}{}{La Oxidaci√≥n Del Casco}
+{213201}{}{El casco del submarino se encuentra sumergida bajo el tenebroso oc√©ano.}
+{213300}{}{Turbio Oc√©ano}
+{213400}{}{Turbio Oc√©ano}
+{213500}{}{Turbio Oc√©ano}
+{213600}{}{La Oxidaci√≥n Del Casco}
+{213601}{}{El casco del submarino se encuentra sumergida bajo el tenebroso oc√©ano.}
+{213700}{}{La Oxidaci√≥n Del Casco}
+{213701}{}{El casco del submarino se encuentra sumergida bajo el tenebroso oc√©ano.}
+{213800}{}{Turbio Oc√©ano}
+{213900}{}{Turbio Oc√©ano}
+{214000}{}{Turbio Oc√©ano}
+{214100}{}{La Oxidaci√≥n Del Casco}
 {214200}{}{Lanzador De Torpedos}
-{214201}{}{Estos tubos de metal est·n hechas de un n˙mero considerable de enclavamientos. Parece que todavÌa estamos en condiciones de trabajo.}
-{214300}{}{La OxidaciÛn Del Casco}
-{214301}{}{La OxidaciÛn Del Casco}
-{214400}{}{La OxidaciÛn Del Casco}
-{214500}{}{La OxidaciÛn Del Casco}
-{214600}{}{La OxidaciÛn Del Casco}
+{214201}{}{Estos tubos de metal est√°n hechas de un n√∫mero considerable de enclavamientos. Parece que todav√≠a estamos en condiciones de trabajo.}
+{214300}{}{La Oxidaci√≥n Del Casco}
+{214301}{}{La Oxidaci√≥n Del Casco}
+{214400}{}{La Oxidaci√≥n Del Casco}
+{214500}{}{La Oxidaci√≥n Del Casco}
+{214600}{}{La Oxidaci√≥n Del Casco}
 {214700}{}{Torpedos}
 {214701}{}{Torpedos}
 {214800}{}{Torpedos}
 {214801}{}{Torpedos}
 {214900}{}{Torpedos}
 {214901}{}{Torpedos}
-{215000}{}{La OxidaciÛn Del Casco}
-{215100}{}{La OxidaciÛn Del Casco}
-{215200}{}{La OxidaciÛn Del Casco}
+{215000}{}{La Oxidaci√≥n Del Casco}
+{215100}{}{La Oxidaci√≥n Del Casco}
+{215200}{}{La Oxidaci√≥n Del Casco}
 {215300}{}{Rusty Maquinaria}
 {215400}{}{Rusty Maquinaria}
 {215500}{}{Torpedos}
@@ -3263,28 +3263,28 @@
 {215600}{}{Torpedos}
 {215601}{}{Torpedos}
 {215700}{}{Rusty Maquinaria}
-{215800}{}{La OxidaciÛn Del Casco}
+{215800}{}{La Oxidaci√≥n Del Casco}
 {215900}{}{Rusty Maquinaria}
-{216000}{}{La OxidaciÛn Del Casco}
+{216000}{}{La Oxidaci√≥n Del Casco}
 {216100}{}{Rusty Maquinaria}
 {216200}{}{Rusty Maquinaria}
 {216300}{}{Rusty Maquinaria}
 {216400}{}{Rusty Maquinaria}
-{216500}{}{La OxidaciÛn Del Casco}
-{216600}{}{La OxidaciÛn Del Casco}
-{216700}{}{La OxidaciÛn Del Casco}
-{216800}{}{La OxidaciÛn Del Casco}
-{216900}{}{La OxidaciÛn Del Casco}
-{217000}{}{La OxidaciÛn Del Casco}
-{217100}{}{La OxidaciÛn Del Casco}
-{217200}{}{La OxidaciÛn Del Casco}
+{216500}{}{La Oxidaci√≥n Del Casco}
+{216600}{}{La Oxidaci√≥n Del Casco}
+{216700}{}{La Oxidaci√≥n Del Casco}
+{216800}{}{La Oxidaci√≥n Del Casco}
+{216900}{}{La Oxidaci√≥n Del Casco}
+{217000}{}{La Oxidaci√≥n Del Casco}
+{217100}{}{La Oxidaci√≥n Del Casco}
+{217200}{}{La Oxidaci√≥n Del Casco}
 {217300}{}{Submarino De La Escotilla}
 {217400}{}{Silla}
 {217500}{}{Silla}
-{217600}{}{PoseidÛn Aceite De Signo}
-{217601}{}{Este viejo letrero de neÛn todavÌa tiene algo de vida a la izquierda en Èl.}
-{217700}{}{Enorme BÛveda De Acero De Las Puertas}
-{217701}{}{Estas puertas de acero son pr·cticamente indestructibles.}
+{217600}{}{Poseid√≥n Aceite De Signo}
+{217601}{}{Este viejo letrero de ne√≥n todav√≠a tiene algo de vida a la izquierda en √©l.}
+{217700}{}{Enorme B√≥veda De Acero De Las Puertas}
+{217701}{}{Estas puertas de acero son pr√°cticamente indestructibles.}
 {218800}{}{Sub Torre}
 {218900}{}{Sub Torre}
 {219000}{}{Escaleras}
@@ -3294,9 +3294,9 @@
 {219200}{}{Escaleras}
 {219201}{}{Un conjunto de escaleras de madera.}
 {219300}{}{Escalera}
-{219400}{}{La OxidaciÛn De Submarinos De La Escotilla}
-{219500}{}{La OxidaciÛn De Submarinos De La Escotilla}
-{219501}{}{Con un poco de esfuerzo esta escotilla todavÌa puede ser abierto.}
+{219400}{}{La Oxidaci√≥n De Submarinos De La Escotilla}
+{219500}{}{La Oxidaci√≥n De Submarinos De La Escotilla}
+{219501}{}{Con un poco de esfuerzo esta escotilla todav√≠a puede ser abierto.}
 {219600}{}{Auto-Doctor}
 {219700}{}{}
 {219800}{}{Cartel de Se Busca}
@@ -3305,29 +3305,29 @@
 {220000}{}{Atascado Ventilador}
 {220100}{}{Riel De Acero Oxidado}
 {220200}{}{Cartel}
-{220201}{}{En el cartel pone: AlmacÈn General.}
+{220201}{}{En el cartel pone: Almac√©n General.}
 {220300}{}{Desgastada Alfombra}
-{220301}{}{Una alfombra sencilla. Su tejedor obviamente tenÌa mucho talento.}
+{220301}{}{Una alfombra sencilla. Su tejedor obviamente ten√≠a mucho talento.}
 {220400}{}{Brillante Huesos}
-{220401}{}{Un gran montÛn de brillantes de huesos de animales. Al menos, usted piensa que todos los huesos de los animales...}
+{220401}{}{Un gran mont√≥n de brillantes de huesos de animales. Al menos, usted piensa que todos los huesos de los animales...}
 {220500}{}{Brillante Huesos}
-{220501}{}{Un gran montÛn de brillantes de huesos de animales. Al menos, usted piensa que todos los huesos de los animales...}
+{220501}{}{Un gran mont√≥n de brillantes de huesos de animales. Al menos, usted piensa que todos los huesos de los animales...}
 {220600}{}{Brillante Huesos}
-{220601}{}{Un gran montÛn de brillantes huesos. Usted no puede determinar la especie de los muertos bichos.}
+{220601}{}{Un gran mont√≥n de brillantes huesos. Usted no puede determinar la especie de los muertos bichos.}
 {220700}{}{Brillante Huesos}
-{220701}{}{Crees que pueden ser huesos de un Canguro Cornudo, pero no puedes estar seguro. Est·n muy deteriorados como para una inspecciÛn definitiva.}
+{220701}{}{Crees que pueden ser huesos de un Canguro Cornudo, pero no puedes estar seguro. Est√°n muy deteriorados como para una inspecci√≥n definitiva.}
 {220800}{}{Brillante Huesos}
 {220801}{}{Puede ver los huesos de un gran brillante de dos cabezas de vaca.}
 {220900}{}{Derrumbamiento}
-{220901}{}{Una gran cantidad de brillantes rocas, mucho m·s de lo que jam·s podrÌa ser movido f·cilmente.}
+{220901}{}{Una gran cantidad de brillantes rocas, mucho m√°s de lo que jam√°s podr√≠a ser movido f√°cilmente.}
 {221000}{}{Brillante De La Cubierta De Metal}
-{221001}{}{Un pesado brillante hombre-cubrir el agujero. Parece que est· en buena forma, y que recientemente se ha movido.}
+{221001}{}{Un pesado brillante hombre-cubrir el agujero. Parece que est√° en buena forma, y que recientemente se ha movido.}
 {221100}{}{Brillante Agujero De La Alcantarilla}
 {221101}{}{Parece un orificio de acceso para el sistema de alcantarillado. Es de color verde!}
 {221200}{}{Brillante De La Estalagmita}
-{221201}{}{Una extensiÛn natural de la roca suelo. Este es de color verde!}
+{221201}{}{Una extensi√≥n natural de la roca suelo. Este es de color verde!}
 {221300}{}{Brillante De La Estalagmita}
-{221301}{}{Una extensiÛn natural de la roca suelo. Este es de color verde!}
+{221301}{}{Una extensi√≥n natural de la roca suelo. Este es de color verde!}
 {221400}{}{Brillante Columna De Roca}
 {221401}{}{Esta espesa columna de roca que se extiende desde el suelo hasta el techo. Es brillante!}
 {221500}{}{Brillante Columna De Roca}
@@ -3348,37 +3348,37 @@
 {222900}{}{Brillante La Pared De La Cueva}
 {223000}{}{Brillante La Pared De La Cueva}
 {223100}{}{Brillantes Rocas}
-{223101}{}{Un montÛn de brillantes rocas. No muy interesante.}
+{223101}{}{Un mont√≥n de brillantes rocas. No muy interesante.}
 {223200}{}{Brillantes Rocas}
-{223201}{}{Un montÛn de brillantes rocas. No muy interesante.}
+{223201}{}{Un mont√≥n de brillantes rocas. No muy interesante.}
 {223300}{}{Brillantes Rocas}
-{223301}{}{Un pequeÒo montÛn de brillantes rocas. No en el bit menos interesante para usted.}
+{223301}{}{Un peque√±o mont√≥n de brillantes rocas. No en el bit menos interesante para usted.}
 {223400}{}{Brillantes Rocas}
-{223401}{}{Un muy pequeÒo montÛn de brillantes rocas.}
+{223401}{}{Un muy peque√±o mont√≥n de brillantes rocas.}
 {223500}{}{Brillantes Rocas}
-{223501}{}{Un muy pequeÒo montÛn de brillantes rocas.}
+{223501}{}{Un muy peque√±o mont√≥n de brillantes rocas.}
 {223600}{}{Brillantes Rocas}
-{223601}{}{Un muy pequeÒo montÛn de brillantes rocas.}
+{223601}{}{Un muy peque√±o mont√≥n de brillantes rocas.}
 {223700}{}{Brillantes Rocas}
-{223701}{}{Un muy pequeÒo montÛn de brillantes rocas.}
+{223701}{}{Un muy peque√±o mont√≥n de brillantes rocas.}
 {223800}{}{Brillantes Rocas}
-{223801}{}{Un montÛn de brillantes rocas. No muy interesante.}
-{223900}{}{Brillante De La C·scara De Huevo}
-{223901}{}{Piezas de un rompe la c·scara del huevo. Brilla!}
-{224000}{}{Brillante De La C·scara De Huevo}
-{224001}{}{Piezas de un rompe la c·scara del huevo. Brilla!}
-{224100}{}{Brillante De La C·scara De Huevo}
-{224101}{}{Piezas de un rompe la c·scara del huevo. Brilla!}
-{224200}{}{Brillante De La C·scara De Huevo}
-{224201}{}{Piezas de un rompe la c·scara del huevo. Brilla!}
-{224300}{}{PequeÒos brillantes rocas}
-{224301}{}{Dispersos pequeÒos brillantes rocas.}
-{224400}{}{PequeÒos brillantes rocas}
-{224401}{}{Dispersos pequeÒos brillantes rocas.}
-{224500}{}{PequeÒos brillantes rocas}
-{224501}{}{Dispersos pequeÒos brillantes rocas.}
-{224600}{}{Brillante De La C·scara De Huevo}
-{224601}{}{Piezas de un rompe la c·scara del huevo. Brilla!}
+{223801}{}{Un mont√≥n de brillantes rocas. No muy interesante.}
+{223900}{}{Brillante De La C√°scara De Huevo}
+{223901}{}{Piezas de un rompe la c√°scara del huevo. Brilla!}
+{224000}{}{Brillante De La C√°scara De Huevo}
+{224001}{}{Piezas de un rompe la c√°scara del huevo. Brilla!}
+{224100}{}{Brillante De La C√°scara De Huevo}
+{224101}{}{Piezas de un rompe la c√°scara del huevo. Brilla!}
+{224200}{}{Brillante De La C√°scara De Huevo}
+{224201}{}{Piezas de un rompe la c√°scara del huevo. Brilla!}
+{224300}{}{Peque√±os brillantes rocas}
+{224301}{}{Dispersos peque√±os brillantes rocas.}
+{224400}{}{Peque√±os brillantes rocas}
+{224401}{}{Dispersos peque√±os brillantes rocas.}
+{224500}{}{Peque√±os brillantes rocas}
+{224501}{}{Dispersos peque√±os brillantes rocas.}
+{224600}{}{Brillante De La C√°scara De Huevo}
+{224601}{}{Piezas de un rompe la c√°scara del huevo. Brilla!}
 {224700}{}{Brillante Tablones De Madera}
 {224701}{}{Estas robustas planchas de madera han sido atadas firmemente.}
 {224800}{}{Brillante Tablones De Madera}
@@ -3392,21 +3392,21 @@
 {225200}{}{Brillantes Rocas}
 {225201}{}{Mantener una estrecha vigilancia sobre estos brillantes rocas, en caso de que se mueven a atacar.}
 {225300}{}{Brillantes Rocas}
-{225301}{}{Un gran montÛn de brillantes rocas. Se ven radiactivos.}
+{225301}{}{Un gran mont√≥n de brillantes rocas. Se ven radiactivos.}
 {225400}{}{Brillantes Rocas}
-{225401}{}{Un pequeÒo montÛn de brillantes rocas.}
+{225401}{}{Un peque√±o mont√≥n de brillantes rocas.}
 {225500}{}{Brillantes Rocas}
-{225501}{}{Un pequeÒo montÛn de brillantes rocas.}
+{225501}{}{Un peque√±o mont√≥n de brillantes rocas.}
 {225600}{}{Brillantes Rocas}
-{225601}{}{Un gran montÛn de brillantes rocas.}
+{225601}{}{Un gran mont√≥n de brillantes rocas.}
 {225700}{}{Brillantes Rocas}
-{225701}{}{Un gran montÛn de brillantes rocas. Se ven peligrosas allÌ sentado.}
+{225701}{}{Un gran mont√≥n de brillantes rocas. Se ven peligrosas all√≠ sentado.}
 {225800}{}{Brillantes Rocas}
-{225801}{}{Un gran montÛn de piedras. Si miras detenidamente, puedes ver en los perfiles de las piedras rostros de viejecillos.}
+{225801}{}{Un gran mont√≥n de piedras. Si miras detenidamente, puedes ver en los perfiles de las piedras rostros de viejecillos.}
 {225900}{}{Brillantes Rocas}
 {225901}{}{Rocas, piedras, rocas! En todas partes usted mira, brillantes rocas!}
 {226000}{}{Brillantes Rocas}
-{226001}{}{Un pequeÒo montÛn de brillantes rocas.}
+{226001}{}{Un peque√±o mont√≥n de brillantes rocas.}
 {226100}{}{Brillantes Rocas}
 {226200}{}{Brillantes Rocas}
 {226300}{}{Brillantes Rocas}
@@ -3421,52 +3421,52 @@
 {227200}{}{Pared Brillante}
 {227300}{}{Pared Brillante}
 {227400}{}{Brillante Drenaje}
-{227401}{}{Alguna clase de fÈtido y repugnante olor procede de esta alcantarilla. Pasado un rato, ya no huele tan mal.}
+{227401}{}{Alguna clase de f√©tido y repugnante olor procede de esta alcantarilla. Pasado un rato, ya no huele tan mal.}
 {227500}{}{Brillante Drenaje}
-{227501}{}{Apenas se puede hacer alg˙n movimiento detr·s de la reja que cubre este drenaje. Se pueden ver pequeÒos de color verde brillantes ojos mirando hacia usted. Rata ojos.}
+{227501}{}{Apenas se puede hacer alg√∫n movimiento detr√°s de la reja que cubre este drenaje. Se pueden ver peque√±os de color verde brillantes ojos mirando hacia usted. Rata ojos.}
 {227600}{}{Brillante Drenaje}
 {227601}{}{Se escucha el gorgoteo del agua en esta alcantarilla. Por eso apesta tanto.}
 {227700}{}{Brillante Drenaje}
-{227701}{}{Se escucha el gorgoteo del agua m·s all· de esta alcantarilla. Por eso apesta tanto.}
+{227701}{}{Se escucha el gorgoteo del agua m√°s all√° de esta alcantarilla. Por eso apesta tanto.}
 {227800}{}{Mugrienta Cama}
-{227801}{}{Inspeccion·ndola m·s de cerca, te das cuenta que las s·banas no han sido cambiadas desde hace mucho, mucho tiempo.}
+{227801}{}{Inspeccion√°ndola m√°s de cerca, te das cuenta que las s√°banas no han sido cambiadas desde hace mucho, mucho tiempo.}
 {227900}{}{Mugrienta Cama}
-{227901}{}{Inspeccion·ndola m·s de cerca, te das cuenta que las s·banas no han sido cambiadas desde hace mucho, mucho tiempo.}
+{227901}{}{Inspeccion√°ndola m√°s de cerca, te das cuenta que las s√°banas no han sido cambiadas desde hace mucho, mucho tiempo.}
 {228000}{}{Mugrienta Cama}
-{228001}{}{Inspeccion·ndola m·s de cerca, te das cuenta que las s·banas no han sido cambiadas desde hace mucho, mucho tiempo.}
+{228001}{}{Inspeccion√°ndola m√°s de cerca, te das cuenta que las s√°banas no han sido cambiadas desde hace mucho, mucho tiempo.}
 {228100}{}{Vidrio}
-{228101}{}{Este cristal es difÌcil ver a travÈs de.}
+{228101}{}{Este cristal es dif√≠cil ver a trav√©s de.}
 {228200}{}{Vidrio}
-{228201}{}{Este cristal es difÌcil ver a travÈs de.}
+{228201}{}{Este cristal es dif√≠cil ver a trav√©s de.}
 {228300}{}{Vidrio}
-{228301}{}{Este cristal es difÌcil ver a travÈs de.}
+{228301}{}{Este cristal es dif√≠cil ver a trav√©s de.}
 {228400}{}{Vidrio}
 {228401}{}{Esta copa es de apenas transparente.}
 {228500}{}{Vidrio}
 {228501}{}{Esta copa es de apenas transparente.}
 {228600}{}{Vidrio}
 {228601}{}{Esta copa es de apenas transparente.}
-{228700}{}{Puerta met·lica}
+{228700}{}{Puerta met√°lica}
 {228701}{}{Una robusta puerta de metal.}
-{228800}{}{Puerta met·lica}
+{228800}{}{Puerta met√°lica}
 {228801}{}{Una robusta puerta de metal.}
 {228900}{}{Garita de Guardia}
 {228901}{}{Una carrera hacia abajo los guardias de la choza.}
 {229000}{}{Garita de Guardia}
 {229001}{}{Una carrera hacia abajo los guardias de la choza.}
 {229100}{}{Verde Liquido Burbujeante}
-{229101}{}{Verde burbujeante lÌquido. Huele extraÒo.}
-{229200}{}{L·ser Pesado De La Torre}
-{229201}{}{La torreta l·ser se apoya en esta torre de hormigÛn.}
-{229300}{}{Torreta pesada l·ser}
+{229101}{}{Verde burbujeante l√≠quido. Huele extra√±o.}
+{229200}{}{L√°ser Pesado De La Torre}
+{229201}{}{La torreta l√°ser se apoya en esta torre de hormig√≥n.}
+{229300}{}{Torreta pesada l√°ser}
 {229301}{}{La torreta gira en una forma amenazante.}
-{229400}{}{L·ser Pesado De La Torre}
-{229401}{}{La torreta l·ser se apoya en esta torre de hormigÛn.}
-{229500}{}{Torreta pesada l·ser}
+{229400}{}{L√°ser Pesado De La Torre}
+{229401}{}{La torreta l√°ser se apoya en esta torre de hormig√≥n.}
+{229500}{}{Torreta pesada l√°ser}
 {229501}{}{La torreta gira en una forma amenazante.}
-{229800}{}{Cartel De La PelÌcula}
-{229801}{}{Un viejo tatered cartel de la pelÌcula. "Hobo Con una Escopeta".}
-{229900}{}{Una extraÒa criatura de aspecto}
-{229901}{}{Un cuerpo muerto con el crecimiento de la planta envuelto alrededor de Èl.}
-{230000}{}{Una extraÒa criatura de aspecto}
-{230001}{}{Un cuerpo muerto con el crecimiento de la planta envuelto alrededor de Èl.}
+{229800}{}{Cartel De La Pel√≠cula}
+{229801}{}{Un viejo tatered cartel de la pel√≠cula. "Hobo Con una Escopeta".}
+{229900}{}{Una extra√±a criatura de aspecto}
+{229901}{}{Un cuerpo muerto con el crecimiento de la planta envuelto alrededor de √©l.}
+{230000}{}{Una extra√±a criatura de aspecto}
+{230001}{}{Un cuerpo muerto con el crecimiento de la planta envuelto alrededor de √©l.}

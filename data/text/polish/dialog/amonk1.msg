@@ -1,11 +1,11 @@
 {100}{}{Widzisz mnicha.}
-{101}{}{Widzisz œwiêt¹ kobietê.}
-{102}{}{Widzisz zwyk³ego mnicha Opactwa.}
-{103}{}{Widzisz zwyk³¹ zakonnicê Opactwa.}
+{101}{}{Widzisz Å›wiÄ™tÄ… kobietÄ™.}
+{102}{}{Widzisz zwykÅ‚ego mnicha Opactwa.}
+{103}{}{Widzisz zwykÅ‚Ä… zakonnicÄ™ Opactwa.}
 {200}{}{Witaj.}
-{201}{}{Pokój, tobie.}
-{202}{}{Jesteœmy stra¿nikami wiedzy.}
-{203}{}{Czeœæ.}
-{204}{}{£adna pogoda.}
-{205}{}{Mam nadziejê, ¿e ci siê tu podoba.}
-{500}{}{Przestañ!}
+{201}{}{PokÃ³j, tobie.}
+{202}{}{JesteÅ›my straÅ¼nikami wiedzy.}
+{203}{}{CzeÅ›Ä‡.}
+{204}{}{Åadna pogoda.}
+{205}{}{Mam nadziejÄ™, Å¼e ci siÄ™ tu podoba.}
+{500}{}{PrzestaÅ„!}

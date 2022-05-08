@@ -1,82 +1,82 @@
 {100}{}{Un terminal de computadora.}
-{101}{}{En distintos puntos de la computadora hay pegadas imágenes de mujeres escasamente vestidas.}
+{101}{}{En distintos puntos de la computadora hay pegadas imÃ¡genes de mujeres escasamente vestidas.}
 {102}{}{Eres incapaz de leer lo que pone en el monitor.}
 {103}{}{Terminal de acceso a Municiones
                                       Campo de fuerza - Desactivado
-                                           Placas de conmoción - Desactivadas}
+                                           Placas de conmociÃ³n - Desactivadas}
 {104}{}{Terminal de acceso a Municiones
                                       Campo de fuerza - Desactivado
-                                           Placas de conmoción - Activas}
+                                           Placas de conmociÃ³n - Activas}
 {105}{}{Terminal de acceso a Municiones
                                       Campo de fuerza - Activo
-                                           Placas de conmoción - Desactivadas}
+                                           Placas de conmociÃ³n - Desactivadas}
 {106}{}{Terminal de acceso a Municiones
                                       Campo de fuerza - Activo
-                                           Placas de conmoción - Activas}
-{107}{}{Desactivar placas de conmoción.}
+                                           Placas de conmociÃ³n - Activas}
+{107}{}{Desactivar placas de conmociÃ³n.}
 {108}{}{Desactivar campos de fuerza.}
 {109}{}{Leer correo.}
 {110}{}{Salir.}
-{111}{}{[Por mucho que lo intentas, no le encuentras sentido a las líneas garabateadas].}
-{112}{}{Desactivar placas de conmoción  --  Por favor, introduzca contraseña:}
+{111}{}{[Por mucho que lo intentas, no le encuentras sentido a las lÃ­neas garabateadas].}
+{112}{}{Desactivar placas de conmociÃ³n  --  Por favor, introduzca contraseÃ±a:}
 {113}{}{Piratear los sistemas de seguridad}
-{114}{}{Adivinar contraseña.}
+{114}{}{Adivinar contraseÃ±a.}
 {115}{}{Volver al Menu Principal.}
 {116}{}{Salir.}
 {117}{}{[Este programa es demasiado complejo para ti].}
 {118}{}{Volver al Menu Principal.}
 {119}{}{Salir.}
-{120}{}{[Consigues saltarte la contraseña y desactivar las placas de conmoción].}
+{120}{}{[Consigues saltarte la contraseÃ±a y desactivar las placas de conmociÃ³n].}
 {121}{}{Volver al Menu Principal.}
 {122}{}{Salir.}
-{123}{}{Desactivar campos de fuerza  --  Por favor, introduzca contraseña:}
+{123}{}{Desactivar campos de fuerza  --  Por favor, introduzca contraseÃ±a:}
 {124}{}{Piratear los sistemas de seguridad}
-{125}{}{Adivinar contraseña.}
+{125}{}{Adivinar contraseÃ±a.}
 {126}{}{Volver al Menu Principal.}
 {127}{}{Salir.}
-{128}{}{[Los ficheros están encriptados, y sin un decodificador eres incapaz de leer algo].}
+{128}{}{[Los ficheros estÃ¡n encriptados, y sin un decodificador eres incapaz de leer algo].}
 {129}{}{Volver al Menu Principal.}
 {130}{}{Salir.}
-{131}{}{[Un juego de niños. Los campos de fuerza ya están desactivados].}
+{131}{}{[Un juego de niÃ±os. Los campos de fuerza ya estÃ¡n desactivados].}
 {132}{}{Volver al Menu Principal.}
 {133}{}{Salir.}
-{134}{}{[Alguien olvidó cerrar su bandeja de correo].
-                   - Confirmación de órdenes
-                                             - Aviso de evacuación
+{134}{}{[Alguien olvidÃ³ cerrar su bandeja de correo].
+                   - ConfirmaciÃ³n de Ã³rdenes
+                                             - Aviso de evacuaciÃ³n
                                                 - Saludos de colegas
                                                    - Comerciar}
 {135}{}{[Elegir un archivo para leer]}
-{136}{}{Leer 'Confirmación de órdenes'.}
-{137}{}{Leer 'Aviso de evacuación'.}
+{136}{}{Leer 'ConfirmaciÃ³n de Ã³rdenes'.}
+{137}{}{Leer 'Aviso de evacuaciÃ³n'.}
 {138}{}{Leer 'Saludos de colegas'.}
 {139}{}{Leer 'Comerciar'.}
 {140}{}{Volver al Menu Principal.}
 {141}{}{Salir.}
-{142}{}{Esta es la confirmación de su pedido de vídeo "Debbie se lo hace con el Ejército" y "Garganta Profunda volumen 1059". Su pedido debería llegar en 2-4 semanas. Gracias por su pedido.}
-{143}{}{Leer más correos.}
+{142}{}{Esta es la confirmaciÃ³n de su pedido de vÃ­deo "Debbie se lo hace con el EjÃ©rcito" y "Garganta Profunda volumen 1059". Su pedido deberÃ­a llegar en 2-4 semanas. Gracias por su pedido.}
+{143}{}{Leer mÃ¡s correos.}
 {144}{}{Salir.}
-{145}{}{La evacuación del Almacén Militar Sierra ha sido retrasada una semana. Todas las medidas de seguridad deben estar dispuestas para ese momento. Por orden del general Clifton.}
-{146}{}{Leer más correos.}
+{145}{}{La evacuaciÃ³n del AlmacÃ©n Militar Sierra ha sido retrasada una semana. Todas las medidas de seguridad deben estar dispuestas para ese momento. Por orden del general Clifton.}
+{146}{}{Leer mÃ¡s correos.}
 {147}{}{Salir.}
-{148}{}{[Escuchas un ligero ronroneo mientras empieza a salir humo del terminal de la computadora. Te quedas mirando cómo el teclado se funde en un charco pastoso. Hmm... debe haber sido uno de esos virus de los que has oído hablar].}
+{148}{}{[Escuchas un ligero ronroneo mientras empieza a salir humo del terminal de la computadora. Te quedas mirando cÃ³mo el teclado se funde en un charco pastoso. Hmm... debe haber sido uno de esos virus de los que has oÃ­do hablar].}
 {149}{}{Salir.}
-{150}{}{Soy Klinger, de la 3ª del 806. Necesitamos desesperadamente un componente número 102-53B. Tengo una caja de Chateau Lafayette de 2055 por si puedes enviar el pedido. Hazlo lo antes posible.}
-{151}{}{Leer más correos.}
+{150}{}{Soy Klinger, de la 3Âª del 806. Necesitamos desesperadamente un componente nÃºmero 102-53B. Tengo una caja de Chateau Lafayette de 2055 por si puedes enviar el pedido. Hazlo lo antes posible.}
+{151}{}{Leer mÃ¡s correos.}
 {152}{}{Salir.}
-{153}{}{[¡Menuda suerte! Has conseguido adivinar la contraseña correcta. "Napias"]   Desactivando Placas de conmoción.}
+{153}{}{[Â¡Menuda suerte! Has conseguido adivinar la contraseÃ±a correcta. "Napias"]   Desactivando Placas de conmociÃ³n.}
 {154}{}{Volver al Menu Principal.}
 {155}{}{Salir.}
-{156}{}{[Por mucho que lo intentas, no consigues adivinar la contraseña].}
+{156}{}{[Por mucho que lo intentas, no consigues adivinar la contraseÃ±a].}
 {157}{}{Volver al Menu Principal.}
 {158}{}{Salir.}
-{159}{}{[Esta persona debía estar obsesionada con los pechos. La contraseña era "pezones"]   Desactivando Campos de fuerza.}
+{159}{}{[Esta persona debÃ­a estar obsesionada con los pechos. La contraseÃ±a era "pezones"]   Desactivando Campos de fuerza.}
 {160}{}{Volver al Menu Principal.}
 {161}{}{Salir.}
-{162}{}{[Por mucho que lo intentas, no consigues adivinar la contraseña].}
+{162}{}{[Por mucho que lo intentas, no consigues adivinar la contraseÃ±a].}
 {163}{}{Volver al Menu Principal.}
 {164}{}{Salir.}
-{165}{}{[De algún modo, tu manipulación causa que el terminal te estalle en la cara].}
+{165}{}{[De algÃºn modo, tu manipulaciÃ³n causa que el terminal te estalle en la cara].}
 {166}{}{Salir.}
-{200}{}{[Este terminal ya no está operativo].}
+{200}{}{[Este terminal ya no estÃ¡ operativo].}
 {300}{}{Has desactivado las placas de choque.}
-{400}{}{Ordenador en modo diagnóstico. Por favor, espere hasta que la rutina de diagnóstico haya finalizado.}
+{400}{}{Ordenador en modo diagnÃ³stico. Por favor, espere hasta que la rutina de diagnÃ³stico haya finalizado.}

@@ -1,1 +1,1 @@
-{100}{}{¿A quién cabrearías para terminar ahí empalado?}
+{100}{}{Â¿A quiÃ©n cabrearÃ­as para terminar ahÃ­ empalado?}

@@ -1,142 +1,142 @@
 {100}{}{Widzisz jednego z ochroniarzy Bishopa.}
-{150}{}{Widzisz krzepkiego mê¿czyznê ubranego w skórzan¹ zbroje. Jego cia³o pokrywaj¹ liczne blizny i œlady po ranach postrza³owych.}
-{151}{}{Widzisz jednego z ochroniarzy Bishopa. Mê¿czyzna obserwuje teren i obraca w palcach swoj¹ broñ.}
+{150}{}{Widzisz krzepkiego mÄ™Å¼czyznÄ™ ubranego w skÃ³rzanÄ… zbroje. Jego ciaÅ‚o pokrywajÄ… liczne blizny i Å›lady po ranach postrzaÅ‚owych.}
+{151}{}{Widzisz jednego z ochroniarzy Bishopa. MÄ™Å¼czyzna obserwuje teren i obraca w palcach swojÄ… broÅ„.}
 {200}{}{Hej! }
-{201}{}{! Enklawa nie mia³a szans!}
-{205}{}{Jak mo¿esz korzystaæ z ³azienki z czymœ takim na grzbiecie?}
-{210}{}{Bishop ciê oczekuje, }
-{211}{}{? IdŸ na górê. Tylko nie machaj tak ta broni¹ na wszystkie strony.}
-{215}{}{Uch, s³uchaj... Bishop ciê oczekuje, no nie }
-{216}{}{? IdŸ na górê. Ale wy³¹cz ju¿ tryb skradania siê.}
-{221}{}{? IdŸ na górê.}
-{225}{}{Ty kupo gówna, w³azisz pod z³y adres.}
-{226}{}{Proszê, proszê, popatrzcie tylko na tego nadêtego sukinsyna... Zmiataj ch³optasiu, zanim ciê zestrzelimy.}
-{227}{}{Ten goœæ a¿ prosi siê o k³opoty...}
-{228}{}{Lepiej odejdŸ, }
-{229}{}{Hej, przecie¿ to }
-{230}{}{S³ysza³em, ¿e }
-{231}{}{Wydawa³o mi siê, ¿e daliœmy wystarczaj¹co du¿o czasu cz³onkom rodziny }
-{232}{}{Ty suko, w³azisz pod z³y adres.}
-{233}{}{Proszê, proszê, popatrzcie tylko na ta nadêta sukê...}
-{234}{}{Zmiataj st¹d dziewczynko, zanim ciê zestrzelimy.}
-{235}{}{Ta suka siê prosi o k³opoty...}
-{236}{}{S³ysza³em, ¿e }
-{245}{}{Jo, mistrzu. ¯adnych broni, dobra?}
-{246}{}{Jo, mistrzu! Od³ó¿ tê broñ.}
+{201}{}{! Enklawa nie miaÅ‚a szans!}
+{205}{}{Jak moÅ¼esz korzystaÄ‡ z Å‚azienki z czymÅ› takim na grzbiecie?}
+{210}{}{Bishop ciÄ™ oczekuje, }
+{211}{}{? IdÅº na gÃ³rÄ™. Tylko nie machaj tak ta broniÄ… na wszystkie strony.}
+{215}{}{Uch, sÅ‚uchaj... Bishop ciÄ™ oczekuje, no nie }
+{216}{}{? IdÅº na gÃ³rÄ™. Ale wyÅ‚Ä…cz juÅ¼ tryb skradania siÄ™.}
+{221}{}{? IdÅº na gÃ³rÄ™.}
+{225}{}{Ty kupo gÃ³wna, wÅ‚azisz pod zÅ‚y adres.}
+{226}{}{ProszÄ™, proszÄ™, popatrzcie tylko na tego nadÄ™tego sukinsyna... Zmiataj chÅ‚optasiu, zanim ciÄ™ zestrzelimy.}
+{227}{}{Ten goÅ›Ä‡ aÅ¼ prosi siÄ™ o kÅ‚opoty...}
+{228}{}{Lepiej odejdÅº, }
+{229}{}{Hej, przecieÅ¼ to }
+{230}{}{SÅ‚yszaÅ‚em, Å¼e }
+{231}{}{WydawaÅ‚o mi siÄ™, Å¼e daliÅ›my wystarczajÄ…co duÅ¼o czasu czÅ‚onkom rodziny }
+{232}{}{Ty suko, wÅ‚azisz pod zÅ‚y adres.}
+{233}{}{ProszÄ™, proszÄ™, popatrzcie tylko na ta nadÄ™ta sukÄ™...}
+{234}{}{Zmiataj stÄ…d dziewczynko, zanim ciÄ™ zestrzelimy.}
+{235}{}{Ta suka siÄ™ prosi o kÅ‚opoty...}
+{236}{}{SÅ‚yszaÅ‚em, Å¼e }
+{245}{}{Jo, mistrzu. Å»adnych broni, dobra?}
+{246}{}{Jo, mistrzu! OdÅ‚Ã³Å¼ tÄ™ broÅ„.}
 {247}{}{Hej, }
-{255}{}{Po co siê tak skradasz? }
-{256}{}{Próbujesz uciec przed fanami? }
-{257}{}{Uch, po co ta ca³a dyskrecja? }
+{255}{}{Po co siÄ™ tak skradasz? }
+{256}{}{PrÃ³bujesz uciec przed fanami? }
+{257}{}{Uch, po co ta caÅ‚a dyskrecja? }
 {265}{}{Jo, }
 {266}{}{Jo, }
-{275}{}{Jo, kochasiu. ¯adnych broni, dobra?}
+{275}{}{Jo, kochasiu. Å»adnych broni, dobra?}
 {276}{}{Hej, }
 {277}{}{Jo, }
-{278}{}{S³onko, nie mo¿esz wnosiæ tu broni. Hle-hle... I tak jesteœ wystarczaj¹co zabójcza.}
+{278}{}{SÅ‚onko, nie moÅ¼esz wnosiÄ‡ tu broni. Hle-hle... I tak jesteÅ› wystarczajÄ…co zabÃ³jcza.}
 {279}{}{Hej, }
-{285}{}{Kociaku, z takim cia³em nie masz szans ukryæ siê w t³umie.}
+{285}{}{Kociaku, z takim ciaÅ‚em nie masz szans ukryÄ‡ siÄ™ w tÅ‚umie.}
 {290}{}{Uwielbiam twoje filmy, }
-{291}{}{Uwielbiam ciê za "Majtkix".}
-{292}{}{Uwielbiam ciê za film "Ten wibrator 2".}
+{291}{}{Uwielbiam ciÄ™ za "Majtkix".}
+{292}{}{Uwielbiam ciÄ™ za film "Ten wibrator 2".}
 {293}{}{Jestem wielkim fanem twojej roli z "Archiwum XXX".}
-{294}{}{::gwi¿d¿e::}
-{300}{}{Chcesz poszukaæ swojego ¿ywego towaru na Golgocie? Od³ó¿ tê broñ.}
-{301}{}{Od³ó¿ tê broñ, albo zrobiê sobie z ciebie tarczê strzelnicz¹.}
-{302}{}{Lepiej NATYCHMIAST zabezpiecz tê broñ.}
-{305}{}{Chcesz poszukaæ swojego ¿ywego towaru na Golgocie? Przestañ siê skradaæ.}
-{306}{}{Przestañ siê skradaæ, albo zrobiê sobie z ciebie tarcze strzelnicza.}
-{307}{}{Mo¿e lepiej wróæ do szko³y ninja - a teraz przestañ siê skradaæ.}
-{308}{}{Lepiej przestañ œciemniaæ z tym cichym chodzeniem. OD ZARAZ.}
-{315}{}{Szukasz dla siebie grobu na Golgocie, dzikusie? Od³ó¿ to.}
-{316}{}{Od³ó¿ tê broñ, dzikusie, albo zrobiê sobie z ciebie tarczê strzelnicz¹.}
-{317}{}{Dzikusie, lepiej od³ó¿ tê broñ, ale JU¯.}
-{325}{}{Dzikusie, szukasz dla siebie grobu na Golgocie? Przestañ siê skradaæ.}
-{326}{}{Przestañ siê skradaæ, dzikusie, albo zrobiê sobie z ciebie tarczê strzelnicz¹.}
-{327}{}{Mo¿e lepiej wróæ do szko³y ninja, dzikusie - a teraz przestañ siê skradaæ.}
-{328}{}{Dzikusie, lepiej przestañ siê tak skradaæ, ale JU¯.}
-{335}{}{Zabieraj st¹d tego robota. Ale ju¿.}
-{336}{}{Zabierz st¹d tego robota zanim zrobimy sobie z niego kosz na œmieci i podpalimy.}
-{337}{}{Jeœli ten robot tu zostanie, to bêd¹ z niego czêœci zamienne.}
-{345}{}{*Wydawa³o* mi siê, ¿e poczu³em zapach mutanta. Lepiej zabierz st¹d tego ¿ó³tego dupka. Natychmiast.}
-{346}{}{Ty i twój zmutowany kumpel szukacie guza? Spadaj.}
-{347}{}{Ten mutant lepiej niech siê st¹d wynosi, albo powiesimy sobie jego g³owê na œcianie.}
-{355}{}{*Wydawa³o* mi siê, ¿e poczu³em zapach czegoœ gnij¹cego. Zabierz st¹d tego ghula.}
-{356}{}{Zabieraj st¹d tego œmierdz¹cego ghula. Ale ju¿!}
-{357}{}{Jeœli ten ghul zaraz st¹d nie zniknie, bêdzie jeszcze bardziej martwy.}
-{365}{}{Widzieliœcie mo¿e wczorajsz¹ walkê?}
-{366}{}{Po pracy lecê do baru.}
-{370}{}{Jeœli chcesz, mo¿esz pójœæ na gore. Bishop kopn¹³ w kalendarz, wiêc mo¿esz te¿ skorzystaæ z basenu.}
-{375}{}{Czego chcesz, ch³opie? Sprê¿aj siê.}
-{376}{}{Czego chcesz, kobieto? Sprê¿aj siê.}
+{294}{}{::gwiÅ¼dÅ¼e::}
+{300}{}{Chcesz poszukaÄ‡ swojego Å¼ywego towaru na Golgocie? OdÅ‚Ã³Å¼ tÄ™ broÅ„.}
+{301}{}{OdÅ‚Ã³Å¼ tÄ™ broÅ„, albo zrobiÄ™ sobie z ciebie tarczÄ™ strzelniczÄ….}
+{302}{}{Lepiej NATYCHMIAST zabezpiecz tÄ™ broÅ„.}
+{305}{}{Chcesz poszukaÄ‡ swojego Å¼ywego towaru na Golgocie? PrzestaÅ„ siÄ™ skradaÄ‡.}
+{306}{}{PrzestaÅ„ siÄ™ skradaÄ‡, albo zrobiÄ™ sobie z ciebie tarcze strzelnicza.}
+{307}{}{MoÅ¼e lepiej wrÃ³Ä‡ do szkoÅ‚y ninja - a teraz przestaÅ„ siÄ™ skradaÄ‡.}
+{308}{}{Lepiej przestaÅ„ Å›ciemniaÄ‡ z tym cichym chodzeniem. OD ZARAZ.}
+{315}{}{Szukasz dla siebie grobu na Golgocie, dzikusie? OdÅ‚Ã³Å¼ to.}
+{316}{}{OdÅ‚Ã³Å¼ tÄ™ broÅ„, dzikusie, albo zrobiÄ™ sobie z ciebie tarczÄ™ strzelniczÄ….}
+{317}{}{Dzikusie, lepiej odÅ‚Ã³Å¼ tÄ™ broÅ„, ale JUÅ».}
+{325}{}{Dzikusie, szukasz dla siebie grobu na Golgocie? PrzestaÅ„ siÄ™ skradaÄ‡.}
+{326}{}{PrzestaÅ„ siÄ™ skradaÄ‡, dzikusie, albo zrobiÄ™ sobie z ciebie tarczÄ™ strzelniczÄ….}
+{327}{}{MoÅ¼e lepiej wrÃ³Ä‡ do szkoÅ‚y ninja, dzikusie - a teraz przestaÅ„ siÄ™ skradaÄ‡.}
+{328}{}{Dzikusie, lepiej przestaÅ„ siÄ™ tak skradaÄ‡, ale JUÅ».}
+{335}{}{Zabieraj stÄ…d tego robota. Ale juÅ¼.}
+{336}{}{Zabierz stÄ…d tego robota zanim zrobimy sobie z niego kosz na Å›mieci i podpalimy.}
+{337}{}{JeÅ›li ten robot tu zostanie, to bÄ™dÄ… z niego czÄ™Å›ci zamienne.}
+{345}{}{*WydawaÅ‚o* mi siÄ™, Å¼e poczuÅ‚em zapach mutanta. Lepiej zabierz stÄ…d tego Å¼Ã³Å‚tego dupka. Natychmiast.}
+{346}{}{Ty i twÃ³j zmutowany kumpel szukacie guza? Spadaj.}
+{347}{}{Ten mutant lepiej niech siÄ™ stÄ…d wynosi, albo powiesimy sobie jego gÅ‚owÄ™ na Å›cianie.}
+{355}{}{*WydawaÅ‚o* mi siÄ™, Å¼e poczuÅ‚em zapach czegoÅ› gnijÄ…cego. Zabierz stÄ…d tego ghula.}
+{356}{}{Zabieraj stÄ…d tego Å›mierdzÄ…cego ghula. Ale juÅ¼!}
+{357}{}{JeÅ›li ten ghul zaraz stÄ…d nie zniknie, bÄ™dzie jeszcze bardziej martwy.}
+{365}{}{WidzieliÅ›cie moÅ¼e wczorajszÄ… walkÄ™?}
+{366}{}{Po pracy lecÄ™ do baru.}
+{370}{}{JeÅ›li chcesz, moÅ¼esz pÃ³jÅ›Ä‡ na gore. Bishop kopnÄ…Å‚ w kalendarz, wiÄ™c moÅ¼esz teÅ¼ skorzystaÄ‡ z basenu.}
+{375}{}{Czego chcesz, chÅ‚opie? SprÄ™Å¼aj siÄ™.}
+{376}{}{Czego chcesz, kobieto? SprÄ™Å¼aj siÄ™.}
 {377}{}{Znowu ty. Czego u licha chcesz tym razem?}
-{378}{}{Ja chcieæ pokój œwiatowy}
-{379}{}{Ja chcieæ iœæ na góra}
+{378}{}{Ja chcieÄ‡ pokÃ³j Å›wiatowy}
+{379}{}{Ja chcieÄ‡ iÅ›Ä‡ na gÃ³ra}
 {380}{}{Ktoo Tyyy}
-{381}{}{[OdejdŸ]}
-{382}{}{Co jest na górze?}
-{383}{}{Przybywam, by spotkaæ siê z panem Bishopem.}
-{384}{}{Przybywam, by spotkaæ siê z panem Bishopem. Mam dla niego teczkê od pana Moore'a.}
-{385}{}{Przepraszam, chyba pomyli³y mi siê kierunki. Ju¿ sobie idê.}
-{390}{}{Kolego, masz jakiœ interes na górze?}
-{391}{}{Kochanie, masz jakiœ interes na górze?}
-{405}{}{Rany, ale z ciebie g³upi sukinsyn, no nie? }
-{406}{}{Rany, ale z ciebie g³upia suka, no nie? }
-{407}{}{Wiesz co, spieprzaj st¹d zanim wytrzepiemy ci z g³owy te resztki mózgu, które tam jeszcze zosta³y.}
-{408}{}{JA CHCIEÆ POKÓJ ŒWIATOWY JA CHCIEÆ LASY DESZCZOWE}
-{409}{}{MÓWIE, ¯E CHCE IŒÆ NA GÓRA}
+{381}{}{[OdejdÅº]}
+{382}{}{Co jest na gÃ³rze?}
+{383}{}{Przybywam, by spotkaÄ‡ siÄ™ z panem Bishopem.}
+{384}{}{Przybywam, by spotkaÄ‡ siÄ™ z panem Bishopem. Mam dla niego teczkÄ™ od pana Moore'a.}
+{385}{}{Przepraszam, chyba pomyliÅ‚y mi siÄ™ kierunki. JuÅ¼ sobie idÄ™.}
+{390}{}{Kolego, masz jakiÅ› interes na gÃ³rze?}
+{391}{}{Kochanie, masz jakiÅ› interes na gÃ³rze?}
+{405}{}{Rany, ale z ciebie gÅ‚upi sukinsyn, no nie? }
+{406}{}{Rany, ale z ciebie gÅ‚upia suka, no nie? }
+{407}{}{Wiesz co, spieprzaj stÄ…d zanim wytrzepiemy ci z gÅ‚owy te resztki mÃ³zgu, ktÃ³re tam jeszcze zostaÅ‚y.}
+{408}{}{JA CHCIEÄ† POKÃ“J ÅšWIATOWY JA CHCIEÄ† LASY DESZCZOWE}
+{409}{}{MÃ“WIE, Å»E CHCE IÅšÄ† NA GÃ“RA}
 {410}{}{KTOO TYYY}
-{411}{}{OdejdŸ bez s³owa}
-{412}{}{Daj mi przejœæ.}
-{414}{}{Dobrze. Wychodzê.}
-{420}{}{Ty dupku, w³aœnie doprosi³eœ siê, ¿eby ci zrobiæ wielk¹ krzywdê.}
-{421}{}{Ty suko, w³aœnie doprosi³aœ siê, ¿eby ci zrobiæ wielk¹ krzywdê.}
-{422}{}{TO TYYY PROSIÆ KRZYWDÊ}
-{423}{}{ tylko chcieæ, ¿eby zostawiæ SAMEMU, ale wszêdzie WIELKA krzywda }
-{424}{}{ wiêc }
-{425}{}{ ZGNIEŒÆ MA£E LUDZIKI}
-{426}{}{Z wrzaskiem rzuæ siê w poszukiwaniu os³ony.}
-{427}{}{Ucichnij, skup siê i przygotuj siê na dokonanie drobnych zniszczeñ.}
-{428}{}{A sami chcecie TROCHÊ tego, co ch³opcy?! CHCECIE?! Wiêc chodŸcie tu i WECIE sobie, wy ¿a³osne SKURWYSY...}
-{435}{}{Jeœli nie wiesz, to nie musisz wiedzieæ. A teraz zmiataj.}
-{445}{}{To wielka szkoda, bo Bishop w³aœnie niedawno wybra³ siê w podró¿ autostrad¹ do nieba. A teraz spadaj.}
-{446}{}{Z twoim s³uchem coœ nie tak? Jebany John Bishop jest jebanym TRUPEM, no nie? A teraz wynoœ siê zanim do niego do³¹czysz.}
-{447}{}{S³uchaj, muszê wejœæ na górê, tylko na chwilkê.}
-{448}{}{Dobra, ju¿ sobie idê.}
-{455}{}{Nie, znam plan zajêæ pana Bishopa i ciebie w nim nie ma.}
-{456}{}{On czeka na mnie. Powiedz mu, ¿e tu jestem.}
-{458}{}{No dobrze. ¯egnam.}
-{465}{}{No dobra, koleœ. Jak siê nazywasz? Sprawdzê u szefa.}
-{466}{}{No dobra, ma³a. Jak siê nazywasz? Sprawdzê u szefa.}
+{411}{}{OdejdÅº bez sÅ‚owa}
+{412}{}{Daj mi przejÅ›Ä‡.}
+{414}{}{Dobrze. WychodzÄ™.}
+{420}{}{Ty dupku, wÅ‚aÅ›nie doprosiÅ‚eÅ› siÄ™, Å¼eby ci zrobiÄ‡ wielkÄ… krzywdÄ™.}
+{421}{}{Ty suko, wÅ‚aÅ›nie doprosiÅ‚aÅ› siÄ™, Å¼eby ci zrobiÄ‡ wielkÄ… krzywdÄ™.}
+{422}{}{TO TYYY PROSIÄ† KRZYWDÄ˜}
+{423}{}{ tylko chcieÄ‡, Å¼eby zostawiÄ‡ SAMEMU, ale wszÄ™dzie WIELKA krzywda }
+{424}{}{ wiÄ™c }
+{425}{}{ ZGNIEÅšÄ† MAÅE LUDZIKI}
+{426}{}{Z wrzaskiem rzuÄ‡ siÄ™ w poszukiwaniu osÅ‚ony.}
+{427}{}{Ucichnij, skup siÄ™ i przygotuj siÄ™ na dokonanie drobnych zniszczeÅ„.}
+{428}{}{A sami chcecie TROCHÄ˜ tego, co chÅ‚opcy?! CHCECIE?! WiÄ™c chodÅºcie tu i WEÅ¹CIE sobie, wy Å¼aÅ‚osne SKURWYSY...}
+{435}{}{JeÅ›li nie wiesz, to nie musisz wiedzieÄ‡. A teraz zmiataj.}
+{445}{}{To wielka szkoda, bo Bishop wÅ‚aÅ›nie niedawno wybraÅ‚ siÄ™ w podrÃ³Å¼ autostradÄ… do nieba. A teraz spadaj.}
+{446}{}{Z twoim sÅ‚uchem coÅ› nie tak? Jebany John Bishop jest jebanym TRUPEM, no nie? A teraz wynoÅ› siÄ™ zanim do niego doÅ‚Ä…czysz.}
+{447}{}{SÅ‚uchaj, muszÄ™ wejÅ›Ä‡ na gÃ³rÄ™, tylko na chwilkÄ™.}
+{448}{}{Dobra, juÅ¼ sobie idÄ™.}
+{455}{}{Nie, znam plan zajÄ™Ä‡ pana Bishopa i ciebie w nim nie ma.}
+{456}{}{On czeka na mnie. Powiedz mu, Å¼e tu jestem.}
+{458}{}{No dobrze. Å»egnam.}
+{465}{}{No dobra, koleÅ›. Jak siÄ™ nazywasz? SprawdzÄ™ u szefa.}
+{466}{}{No dobra, maÅ‚a. Jak siÄ™ nazywasz? SprawdzÄ™ u szefa.}
 {467}{}{Jestem }
 {468}{}{.}
-{469}{}{Nie musisz znaæ mojego imienia. Po prostu pozwól mi go zobaczyæ.}
-{471}{}{Niewa¿ne. Nie musisz siê fatygowaæ... ju¿ sobie idê.}
-{475}{}{(Stra¿nik odchodzi na chwilê, otwiera szafkê znajduj¹c¹ siê w jednej ze œcian i szepcze coœ. Przez parê chwil nas³uchuje, a potem odwraca siê do ciebie.) }
-{476}{}{On ciê nie zna. Odwal siê, koleœ. Marnujesz swój czas.}
-{477}{}{On ciê nie zna. Odwal siê, z³otko. Marnujesz swój czas.}
-{478}{}{Daj mi go zobaczyæ. Natychmiast.}
-{479}{}{Powiedz mu, ¿e mam dla niego teczkê... od pana Moore'a.}
-{480}{}{A wiêc niewa¿ne.}
-{490}{}{(Stra¿nik odchodzi na chwilê, otwiera szafkê znajduj¹c¹ siê w jednej ze œcian i szepcze coœ. Przez parê chwil nas³uchuje, a potem odwraca siê do ciebie i wzrusza ramionami.) Mówi, ¿e mo¿esz wejœæ.}
+{469}{}{Nie musisz znaÄ‡ mojego imienia. Po prostu pozwÃ³l mi go zobaczyÄ‡.}
+{471}{}{NiewaÅ¼ne. Nie musisz siÄ™ fatygowaÄ‡... juÅ¼ sobie idÄ™.}
+{475}{}{(StraÅ¼nik odchodzi na chwilÄ™, otwiera szafkÄ™ znajdujÄ…cÄ… siÄ™ w jednej ze Å›cian i szepcze coÅ›. Przez parÄ™ chwil nasÅ‚uchuje, a potem odwraca siÄ™ do ciebie.) }
+{476}{}{On ciÄ™ nie zna. Odwal siÄ™, koleÅ›. Marnujesz swÃ³j czas.}
+{477}{}{On ciÄ™ nie zna. Odwal siÄ™, zÅ‚otko. Marnujesz swÃ³j czas.}
+{478}{}{Daj mi go zobaczyÄ‡. Natychmiast.}
+{479}{}{Powiedz mu, Å¼e mam dla niego teczkÄ™... od pana Moore'a.}
+{480}{}{A wiÄ™c niewaÅ¼ne.}
+{490}{}{(StraÅ¼nik odchodzi na chwilÄ™, otwiera szafkÄ™ znajdujÄ…cÄ… siÄ™ w jednej ze Å›cian i szepcze coÅ›. Przez parÄ™ chwil nasÅ‚uchuje, a potem odwraca siÄ™ do ciebie i wzrusza ramionami.) MÃ³wi, Å¼e moÅ¼esz wejÅ›Ä‡.}
 {491}{}{Dobrze.}
 {495}{}{Jo, }
 {496}{}{! }
-{497}{}{Pan Bishop ciê oczekuje?}
-{498}{}{Tak. Mogê wejœæ na górê? Mamy kilka spraw do przedyskutowania.}
-{499}{}{Nie, nie w tej chwili. Trzymajcie siê ch³opaki.}
-{505}{}{Pewnie, w³aŸ na górê }
+{497}{}{Pan Bishop ciÄ™ oczekuje?}
+{498}{}{Tak. MogÄ™ wejÅ›Ä‡ na gÃ³rÄ™? Mamy kilka spraw do przedyskutowania.}
+{499}{}{Nie, nie w tej chwili. Trzymajcie siÄ™ chÅ‚opaki.}
+{505}{}{Pewnie, wÅ‚aÅº na gÃ³rÄ™ }
 {506}{}{. }
-{507}{}{Nastêpnym razem nawet siê nie fatyguj z pytaniem... po prostu w³aŸ.}
-{508}{}{Dziêkujê.}
+{507}{}{NastÄ™pnym razem nawet siÄ™ nie fatyguj z pytaniem... po prostu wÅ‚aÅº.}
+{508}{}{DziÄ™kujÄ™.}
 {1228}{}{. Natychmiast.}
-{1229}{}{. Czy twojej rodzinie nie bêdzie ciê brakowa³o?}
-{1230}{}{ to banda wymoczków. Co ty na to?}
-{1231}{}{, aby zrobili coœ wiêcej, ni¿ tylko ca³owanie ty³ka swojemu szefowi.}
-{1236}{}{ to banda wymoczków. Teraz wiem ju¿, ¿e to prawda.}
-{1247}{}{! Nie mo¿esz wnosiæ tu broni, no nie?}
+{1229}{}{. Czy twojej rodzinie nie bÄ™dzie ciÄ™ brakowaÅ‚o?}
+{1230}{}{ to banda wymoczkÃ³w. Co ty na to?}
+{1231}{}{, aby zrobili coÅ› wiÄ™cej, niÅ¼ tylko caÅ‚owanie tyÅ‚ka swojemu szefowi.}
+{1236}{}{ to banda wymoczkÃ³w. Teraz wiem juÅ¼, Å¼e to prawda.}
+{1247}{}{! Nie moÅ¼esz wnosiÄ‡ tu broni, no nie?}
 {1265}{}{. Dbasz o siebie?}
 {1266}{}{. Co jest?}
-{1276}{}{! Nie mo¿esz wnosiæ tu broni, no nie?}
-{1277}{}{! Od³ó¿ tê broñ.}
-{1279}{}{! Mo¿esz trzymaæ na wierzchu cycki, ale nie mo¿esz trzymaæ na wierzchu broni, dobra?}
+{1276}{}{! Nie moÅ¼esz wnosiÄ‡ tu broni, no nie?}
+{1277}{}{! OdÅ‚Ã³Å¼ tÄ™ broÅ„.}
+{1279}{}{! MoÅ¼esz trzymaÄ‡ na wierzchu cycki, ale nie moÅ¼esz trzymaÄ‡ na wierzchu broni, dobra?}
 {1290}{}{!}

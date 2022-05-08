@@ -1,119 +1,119 @@
-{100}{}{Você vê um conjunto de química.}
-{101}{}{Você vê o 'Meu Primeiro Jogo de Química'.}
-{102}{}{Você vê o 'Meu Primeiro Jogo de Química', um conjunto de química que permite criar misturas interessantes.}
-{103}{}{Por onde quer começar? Você tem quatro líquidos nos frascos: vermelho, azul, amarelo e transparente.}
+{100}{}{VocÃª vÃª um conjunto de quÃ­mica.}
+{101}{}{VocÃª vÃª o 'Meu Primeiro Jogo de QuÃ­mica'.}
+{102}{}{VocÃª vÃª o 'Meu Primeiro Jogo de QuÃ­mica', um conjunto de quÃ­mica que permite criar misturas interessantes.}
+{103}{}{Por onde quer comeÃ§ar? VocÃª tem quatro lÃ­quidos nos frascos: vermelho, azul, amarelo e transparente.}
 {104}{}{Pelo vermelho.}
 {105}{}{Pelo azul.}
 {106}{}{Pelo amarelo.}
 {107}{}{Pelo transparente.}
-{108}{}{Nada não.}
-{109}{}{Você escolheu o vermelho. Com o que você quer misturar?}
-{110}{}{Azul. Isso produz o liquido púrpura.}
+{108}{}{Nada nÃ£o.}
+{109}{}{VocÃª escolheu o vermelho. Com o que vocÃª quer misturar?}
+{110}{}{Azul. Isso produz o liquido pÃºrpura.}
 {111}{}{Amarelo. Isso produz o liquido laranja.}
 {112}{}{Transparente. Isso produz o liquido vermelho.}
 {113}{}{Beba.}
-{114}{}{Com o azul. Isso, como você sabe, vai produzir Jet, uma anfetamina viciante... se acertar a 
+{114}{}{Com o azul. Isso, como vocÃª sabe, vai produzir Jet, uma anfetamina viciante... se acertar a 
  dose certa.}
-{115}{}{Com o amarelo. Sua mente científica percebe que, se misturado com sucesso, produzirá ácido clorídrico.}
-{116}{}{Transparente. Seu olho treinado sabe que isso fará uma vitamina poderosa... mas apenas se você fazer
+{115}{}{Com o amarelo. Sua mente cientÃ­fica percebe que, se misturado com sucesso, produzirÃ¡ Ã¡cido clorÃ­drico.}
+{116}{}{Transparente. Seu olho treinado sabe que isso farÃ¡ uma vitamina poderosa... mas apenas se vocÃª fazer
  com as quantidades corretas.}
 {117}{}{Pare agora.}
-{118}{}{Você escolheu o azul. Com o que você quer misturar?}
-{119}{}{Vermelho. Isso produz o liquido púrpura.}
+{118}{}{VocÃª escolheu o azul. Com o que vocÃª quer misturar?}
+{119}{}{Vermelho. Isso produz o liquido pÃºrpura.}
 {120}{}{Amarelo. Isso produz o liquido verde.}
 {121}{}{Transparente. Isso produz o liquido azul.}
-{122}{}{Com o vermelho. Isso, como você sabe, vai produzir Jet, uma anfetamina viciante.. se acertar a 
+{122}{}{Com o vermelho. Isso, como vocÃª sabe, vai produzir Jet, uma anfetamina viciante.. se acertar a 
  dose certa.}
-{123}{}{Com o amarelo. Antes de misturar, você calcula a solução em sua cabeça. Sabe que vai fazer
+{123}{}{Com o amarelo. Antes de misturar, vocÃª calcula a soluÃ§Ã£o em sua cabeÃ§a. Sabe que vai fazer
  nitroglicerina, um explosivo.}
-{124}{}{Transparente. Isso fará um produto químico tóxico não sirva para nada, mas mascara os efeitos da
- radiação.}
+{124}{}{Transparente. Isso farÃ¡ um produto quÃ­mico tÃ³xico nÃ£o sirva para nada, mas mascara os efeitos da
+ radiaÃ§Ã£o.}
 {125}{}{Beba.}
 {126}{}{Pare agora.}
-{127}{}{Você escolheu o amarelo. Com o que você quer misturar?}
+{127}{}{VocÃª escolheu o amarelo. Com o que vocÃª quer misturar?}
 {128}{}{Azul. Isso produz o liquido verde.}
 {129}{}{Vermelho. Isso produz o liquido laranja.}
 {130}{}{Transparente. Isso produz o liquido amarelo.}
 {131}{}{Beba.}
-{132}{}{Com o azul. Antes de misturar, você calcula a solução em sua cabeça. Sabe que vai fazer
+{132}{}{Com o azul. Antes de misturar, vocÃª calcula a soluÃ§Ã£o em sua cabeÃ§a. Sabe que vai fazer
  nitroglicerina, um explosivo.}
-{133}{}{Com o vermelho. Sua mente científica percebe que, se misturado com sucesso, produzirá ácido clorídrico.}
-{134}{}{Transparente. Se continuar, você sabe que criará um veneno fraco. }
+{133}{}{Com o vermelho. Sua mente cientÃ­fica percebe que, se misturado com sucesso, produzirÃ¡ Ã¡cido clorÃ­drico.}
+{134}{}{Transparente. Se continuar, vocÃª sabe que criarÃ¡ um veneno fraco. }
 {135}{}{Pare agora.}
-{136}{}{Você escolheu o transparente. Com o que você quer misturar?}
+{136}{}{VocÃª escolheu o transparente. Com o que vocÃª quer misturar?}
 {137}{}{Azul. Isso produz o liquido azul.}
 {138}{}{Vermelho. Isso produz o liquido vermelho.}
 {139}{}{Amarelo. Isso produz o liquido amarelo.}
 {140}{}{Beba.}
-{141}{}{Amarelo. Se continuar, você sabe que criará um veneno fraco. }
-{142}{}{Azul. Isso fará um produto químico tóxico não sirva para nada, mas mascara os efeitos da
- radiação.}
-{143}{}{Vermelho. Seu olho treinado sabe que isso fará uma vitamina poderosa... mas apenas você usar
+{141}{}{Amarelo. Se continuar, vocÃª sabe que criarÃ¡ um veneno fraco. }
+{142}{}{Azul. Isso farÃ¡ um produto quÃ­mico tÃ³xico nÃ£o sirva para nada, mas mascara os efeitos da
+ radiaÃ§Ã£o.}
+{143}{}{Vermelho. Seu olho treinado sabe que isso farÃ¡ uma vitamina poderosa... mas apenas vocÃª usar
  as quantidades corretas.}
 {144}{}{Pare agora.}
-{145}{}{Você conseguiu criar um líquido púrpura interessante. O que você quer fazer com isto?}
+{145}{}{VocÃª conseguiu criar um lÃ­quido pÃºrpura interessante. O que vocÃª quer fazer com isto?}
 {146}{}{Beba.}
-{147}{}{Colocar em meu inventário.}
-{148}{}{Hmmm. Uma cor laranja interessante. O que você vai fazer com isso?}
+{147}{}{Colocar em meu inventÃ¡rio.}
+{148}{}{Hmmm. Uma cor laranja interessante. O que vocÃª vai fazer com isso?}
 {149}{}{Beba.}
-{150}{}{Colocar em meu inventário.}
+{150}{}{Colocar em meu inventÃ¡rio.}
 {151}{}{Uma cor vermelho forte. E agora?}
 {152}{}{Beba.}
-{153}{}{Colocar em meu inventário.}
+{153}{}{Colocar em meu inventÃ¡rio.}
 {154}{}{Um tom de verde meio apagado. E agora?}
 {155}{}{Beba.}
 {156}{}{Guarde.}
-{157}{}{Este é um tom de azul interessante. O que você vai fazer?}
+{157}{}{Este Ã© um tom de azul interessante. O que vocÃª vai fazer?}
 {158}{}{Beba.}
 {159}{}{Guardar pra depois.}
-{160}{}{Esse amarelo parece mijo e cheira até pior. O que você vai fazer?}
+{160}{}{Esse amarelo parece mijo e cheira atÃ© pior. O que vocÃª vai fazer?}
 {161}{}{Beba.}
-{162}{}{Guarde isso. Pode ser útil.}
-{163}{}{Ahh, doce sucesso. Você fabricou o Jet. Dá pra ser muito popular em New Reno com essa porra.
- O que você quer fazer com isso?}
+{162}{}{Guarde isso. Pode ser Ãºtil.}
+{163}{}{Ahh, doce sucesso. VocÃª fabricou o Jet. DÃ¡ pra ser muito popular em New Reno com essa porra.
+ O que vocÃª quer fazer com isso?}
 {164}{}{Beba.}
 {165}{}{Guarde para usar em algum idiota desavisado.}
-{166}{}{Eita! Você criou uma fumaça tóxica estranha! Você mal sente o cheiro dele e perde o controle. Está
+{166}{}{Eita! VocÃª criou uma fumaÃ§a tÃ³xica estranha! VocÃª mal sente o cheiro dele e perde o controle. EstÃ¡
  se sentindo um lixo.}
 {167}{}{[FEITO]}
-{168}{}{Este material parece potente. O que você quer fazer com isso?}
+{168}{}{Este material parece potente. O que vocÃª quer fazer com isso?}
 {169}{}{Beba.}
 {170}{}{Guardar pra depois.}
-{171}{}{Não! Você misturou muito! Transborda da jarra e encosta na sua mão! Ai!}
-{172}{}{Você criou uma fórmula explosiva com sucesso!}
+{171}{}{NÃ£o! VocÃª misturou muito! Transborda da jarra e encosta na sua mÃ£o! Ai!}
+{172}{}{VocÃª criou uma fÃ³rmula explosiva com sucesso!}
 {173}{}{Beba.}
-{174}{}{Colocar em meu inventário.}
+{174}{}{Colocar em meu inventÃ¡rio.}
 {175}{}{Uma sacudida aqui, uma sacudida ali e... uh-oh... BOOM!}
-{176}{}{Ah não! Seu idiota! Você acabou de engolir uma fórmula explosiva!}
-{177}{}{Você se sente engraçadinho. Não, você se sente muuuuito engraçadinho. Na
- verdade, você sente que seu coração está acelerando e o mundo está ficando mais lento e você não sabe o 
- que está acontecendo e ninguém pode ajudar porque você não sabe o que é isso, não olhe! AAAAAAH! VOCÊ ESTÁ LOUCO!!!}
-{178}{}{Você faz uma careta ao sentir o gosto e então percebe que está queimando você por dentro. Ai. OUCH.
- DEUS DO CÉU!! Está derretendo suas tripas! }
-{179}{}{Parece farinha, mas você consegue engolir. Estranhamente, você se sente um pouco melhor agora.}
-{180}{}{Ahh, que inferno. Apesar da aparência, você bebe essa bebida nojenta. Imediatamente começa
- a engasgar e cuspir. Você foi irradiado!}
+{176}{}{Ah nÃ£o! Seu idiota! VocÃª acabou de engolir uma fÃ³rmula explosiva!}
+{177}{}{VocÃª se sente engraÃ§adinho. NÃ£o, vocÃª se sente muuuuito engraÃ§adinho. Na
+ verdade, vocÃª sente que seu coraÃ§Ã£o estÃ¡ acelerando e o mundo estÃ¡ ficando mais lento e vocÃª nÃ£o sabe o 
+ que estÃ¡ acontecendo e ninguÃ©m pode ajudar porque vocÃª nÃ£o sabe o que Ã© isso, nÃ£o olhe! AAAAAAH! VOCÃŠ ESTÃ LOUCO!!!}
+{178}{}{VocÃª faz uma careta ao sentir o gosto e entÃ£o percebe que estÃ¡ queimando vocÃª por dentro. Ai. OUCH.
+ DEUS DO CÃ‰U!! EstÃ¡ derretendo suas tripas! }
+{179}{}{Parece farinha, mas vocÃª consegue engolir. Estranhamente, vocÃª se sente um pouco melhor agora.}
+{180}{}{Ahh, que inferno. Apesar da aparÃªncia, vocÃª bebe essa bebida nojenta. Imediatamente comeÃ§a
+ a engasgar e cuspir. VocÃª foi irradiado!}
 {181}{}{[FEITO]}
-{182}{}{Bem... ok. Lembrando-se das coisas que você bebeu quando era pirralho, você
- inclina o jarro para trás e o deixa fluir. Esse liquido cai como uma bomba quando atinge o estômago. 
- Você sente que acabou de ser picado por um radscorpion.}
-{183}{}{Ei, parece água, será que é tão bom quanto? Assim que a coisa chega na garganta,
-você 
- percebe que cometeu um erro. O bagulho QUEIMA. Você sente dor por muito, muito tempo.}
-{184}{}{Um pouco disso, um pouco daquilo... espere um pouco ... o frasco está tremendo... 
+{182}{}{Bem... ok. Lembrando-se das coisas que vocÃª bebeu quando era pirralho, vocÃª
+ inclina o jarro para trÃ¡s e o deixa fluir. Esse liquido cai como uma bomba quando atinge o estÃ´mago. 
+ VocÃª sente que acabou de ser picado por um radscorpion.}
+{183}{}{Ei, parece Ã¡gua, serÃ¡ que Ã© tÃ£o bom quanto? Assim que a coisa chega na garganta,
+vocÃª 
+ percebe que cometeu um erro. O bagulho QUEIMA. VocÃª sente dor por muito, muito tempo.}
+{184}{}{Um pouco disso, um pouco daquilo... espere um pouco ... o frasco estÃ¡ tremendo... 
  O que 
- tem de errado? ETA PORRA! A garrafa explode na tua fuça!}
-{185}{}{Você mistura as coisas tranquilamente, esperando ter criado a mistura certa de produtos químicos. 
- Agora você se senta e espera sua recompensa. E espera... mais um pouco... O líquido se transforma 
- em um marrom opaco e pegajoso. Desperdício.}
-{186}{}{Você conseguiu criar uma vitamina potente. E agora, o que dá pra fazer com isso?}
+ tem de errado? ETA PORRA! A garrafa explode na tua fuÃ§a!}
+{185}{}{VocÃª mistura as coisas tranquilamente, esperando ter criado a mistura certa de produtos quÃ­micos. 
+ Agora vocÃª se senta e espera sua recompensa. E espera... mais um pouco... O lÃ­quido se transforma 
+ em um marrom opaco e pegajoso. DesperdÃ­cio.}
+{186}{}{VocÃª conseguiu criar uma vitamina potente. E agora, o que dÃ¡ pra fazer com isso?}
 {187}{}{Beba.}
 {188}{}{Guardar pra depois.}
-{189}{}{Você criou uma toxina! Muito bem! E agora?}
+{189}{}{VocÃª criou uma toxina! Muito bem! E agora?}
 {190}{}{Beba.}
 {191}{}{Guardar pra depois.}
-{192}{}{Você criou com sucesso uma fórmula que simula os efeitos da radiação. O que
-você gostaria 
+{192}{}{VocÃª criou com sucesso uma fÃ³rmula que simula os efeitos da radiaÃ§Ã£o. O que
+vocÃª gostaria 
  de fazer com isso?}
 {193}{}{Beba.}
 {194}{}{Guardar pra depois.}

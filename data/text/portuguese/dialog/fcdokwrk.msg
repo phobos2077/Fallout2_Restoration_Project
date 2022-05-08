@@ -1,29 +1,29 @@
-{100}{}{Você vê um Shi camponês.}
-{101}{}{Você vê um trabalhador portuário.}
-{102}{}{Você vê um camponês Shi cujas roupas são manchadas com escamas de peixe, alcatrão e sal.}
+{100}{}{VocÃª vÃª um Shi camponÃªs.}
+{101}{}{VocÃª vÃª um trabalhador portuÃ¡rio.}
+{102}{}{VocÃª vÃª um camponÃªs Shi cujas roupas sÃ£o manchadas com escamas de peixe, alcatrÃ£o e sal.}
 {103}{}{Bom dia para estar no oceano.}
 {104}{}{Eu sempre fiz como as ondas.}
-{105}{}{Você gosta de suco de peixe?}
-{106}{}{Sol, ar fresco e frutos do mar. O que mais alguém poderia querer, mas um banho?}
+{105}{}{VocÃª gosta de suco de peixe?}
+{106}{}{Sol, ar fresco e frutos do mar. O que mais alguÃ©m poderia querer, mas um banho?}
 {107}{}{Estou a ficar farto de peixes.}
 {108}{}{Minhas costas doem.}
-{109}{}{Oh, não... Outro turista.}
-{112}{}{Procure os monstros do petroleiro. Oh, espere ... acho que você já fez.}
-{113}{}{Então você está passando pelo petroleiro tudo bem?}
-{114}{}{Esse petroleiro é um lugar difícil. Isso é o que dizem os punks.}
-{115}{}{Você está chegando em algum lugar lá?}
+{109}{}{Oh, nÃ£o... Outro turista.}
+{112}{}{Procure os monstros do petroleiro. Oh, espere ... acho que vocÃª jÃ¡ fez.}
+{113}{}{EntÃ£o vocÃª estÃ¡ passando pelo petroleiro tudo bem?}
+{114}{}{Esse petroleiro Ã© um lugar difÃ­cil. Isso Ã© o que dizem os punks.}
+{115}{}{VocÃª estÃ¡ chegando em algum lugar lÃ¡?}
 {116}{}{Bom dia para estar no oceano.}
 {117}{}{Eu sempre fiz como as ondas.}
-{118}{}{Você gosta de suco de peixe?}
-{119}{}{Sol, ar fresco e frutos do mar. O que mais alguém poderia querer, mas um banho?}
+{118}{}{VocÃª gosta de suco de peixe?}
+{119}{}{Sol, ar fresco e frutos do mar. O que mais alguÃ©m poderia querer, mas um banho?}
 {120}{}{Estou a ficar farto de peixes.}
 {121}{}{Minhas costas doem.}
-{122}{}{Oh, não... outro turista.}
+{122}{}{Oh, nÃ£o... outro turista.}
 {125}{}{}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {150}{}{Hora de morrer, turista.}
-{151}{}{Acha que você pode lidar com uma luta na doca?}
-{152}{}{Eu não acho que você vai ser muito difícil.}
-{153}{}{Vamos ver como você gosta do áspero e da queda de um trabalhador portuário Shi!}
+{151}{}{Acha que vocÃª pode lidar com uma luta na doca?}
+{152}{}{Eu nÃ£o acho que vocÃª vai ser muito difÃ­cil.}
+{153}{}{Vamos ver como vocÃª gosta do Ã¡spero e da queda de um trabalhador portuÃ¡rio Shi!}

@@ -1,9 +1,9 @@
-{100}{}{Pontosan ide parkoltam az autómmal!}
+{100}{}{Pontosan ide parkoltam az autÃ³mmal!}
 {101}{}{Me swear me parked right here!}
-{150}{}{Ahogy közeledsz a kocsid h?lt helyéhez, északi irányban eltaposott keréknyomokat találsz.}
-{151}{}{Északi irányban keréknyomokat látsz.}
-{152}{}{Ezek bizony keréknyomok!}
-{153}{}{(Követed a nyomokat!)}
-{154}{}{(Nem követed a nyomokat!)}
-{155}{}{(Követed a keréknyomokat!)}
-{156}{}{(Ügyet sem vetsz rá.)}
+{150}{}{Ahogy kÃ¶zeledsz a kocsid h?lt helyÃ©hez, Ã©szaki irÃ¡nyban eltaposott kerÃ©knyomokat talÃ¡lsz.}
+{151}{}{Ã‰szaki irÃ¡nyban kerÃ©knyomokat lÃ¡tsz.}
+{152}{}{Ezek bizony kerÃ©knyomok!}
+{153}{}{(KÃ¶veted a nyomokat!)}
+{154}{}{(Nem kÃ¶veted a nyomokat!)}
+{155}{}{(KÃ¶veted a kerÃ©knyomokat!)}
+{156}{}{(Ãœgyet sem vetsz rÃ¡.)}

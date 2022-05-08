@@ -1,1 +1,1 @@
-{101}{}{Die Explosion führt zur Beschädigung der Abstützung und eine Felslawine stürzt von oben herab.}
+{101}{}{Die Explosion fÃ¼hrt zur BeschÃ¤digung der AbstÃ¼tzung und eine Felslawine stÃ¼rzt von oben herab.}

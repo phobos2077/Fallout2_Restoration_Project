@@ -1,11 +1,11 @@
 {100}{}{Tu vois un Auto-Doc.}
-{101}{}{Tu vois un Auto-Doc à l'air antédiluvien. Malgré son âge, tu as réussi à le remettre en état, à force de soins.}
+{101}{}{Tu vois un Auto-Doc Ã  l'air antÃ©diluvien. MalgrÃ© son Ã¢ge, tu as rÃ©ussi Ã  le remettre en Ã©tat, Ã  force de soins.}
 {102}{}{Tu vois un Auto-Doc.}
-{103}{}{Tu vois un Auto-Doc à l'air antédiluvien. Malgré son âge, tu as réussi à le remettre en état, à force de soins.}
-{104}{}{Tu vois un Auto-Doc à l'air antédiluvien. Il émet des cliquètements et des ronflements malsains et il s'en dégage une chaleur étouffante.}
+{103}{}{Tu vois un Auto-Doc Ã  l'air antÃ©diluvien. MalgrÃ© son Ã¢ge, tu as rÃ©ussi Ã  le remettre en Ã©tat, Ã  force de soins.}
+{104}{}{Tu vois un Auto-Doc Ã  l'air antÃ©diluvien. Il Ã©met des cliquÃ¨tements et des ronflements malsains et il s'en dÃ©gage une chaleur Ã©touffante.}
 {105}{}{Tu vois un Auto-Doc.}
-{106}{}{Tu vois un Auto-Doc à l'air antédiluvien. Il émet des cliquètements et des ronflements malsains et il s'en dégage une chaleur étouffante.}
-{107}{}{Ce vieil Auto-Doc a l'air d'avoir cruellement besoin de réparations. Il y a sûrement plusieurs dizaines d'années qu'il n'a pas été entretenu.}
-{108}{}{Les dégâts n'étaient pas si graves que ça. Il fallait remplacer quelques câbles internes et nettoyer le tableau de diagnostic. Aucun problème.}
-{109}{}{Tu examines l'Auto-Doc, mais, apparemment, tu ne vois pas d'où vient le problème.}
-{110}{}{Tu as déjà réparé l'Auto-Doc. Il fonctionne normalement. Enfin, c'est ce que tu penses.}
+{106}{}{Tu vois un Auto-Doc Ã  l'air antÃ©diluvien. Il Ã©met des cliquÃ¨tements et des ronflements malsains et il s'en dÃ©gage une chaleur Ã©touffante.}
+{107}{}{Ce vieil Auto-Doc a l'air d'avoir cruellement besoin de rÃ©parations. Il y a sÃ»rement plusieurs dizaines d'annÃ©es qu'il n'a pas Ã©tÃ© entretenu.}
+{108}{}{Les dÃ©gÃ¢ts n'Ã©taient pas si graves que Ã§a. Il fallait remplacer quelques cÃ¢bles internes et nettoyer le tableau de diagnostic. Aucun problÃ¨me.}
+{109}{}{Tu examines l'Auto-Doc, mais, apparemment, tu ne vois pas d'oÃ¹ vient le problÃ¨me.}
+{110}{}{Tu as dÃ©jÃ  rÃ©parÃ© l'Auto-Doc. Il fonctionne normalement. Enfin, c'est ce que tu penses.}

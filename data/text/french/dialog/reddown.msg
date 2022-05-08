@@ -1,1 +1,1 @@
-{100}{}{Tu viens d'entrer dans la communauté minière de Redding.}
+{100}{}{Tu viens d'entrer dans la communautÃ© miniÃ¨re de Redding.}

@@ -1,217 +1,217 @@
-{100}{}{Widzisz S³odk¹ Nikki.}
-{125}{}{Widzisz jedn¹ z krupierek kasyna.}
-{150}{}{Widzisz S³odk¹ Nikki.}
-{151}{}{Widzisz S³odk¹ Nikki. Mruga do ciebie.}
-{152}{}{Widzisz S³odk¹ Nikki. Zaprasza ciê gestem do swojego sto³u.}
-{153}{}{Widzisz S³odk¹ Nikki. Mason mia³ racjê co do jej ty³ka.}
-{154}{}{Widzisz S³odk¹ Nikki. Jej sukienka wiêcej ods³ania ni¿ zakrywa.}
-{155}{}{Widzisz S³odk¹ Nikki. Mason mia³ racjê co do jej ty³ka.}
-{156}{}{Widzisz S³odk¹ Nikki. Jej sukienka wiêcej ods³ania ni¿ zakrywa.}
-{160}{}{Widzisz S³odk¹ Nikki. Zaprasza ciê gestem do swojego sto³u.}
-{161}{}{Widzisz S³odk¹ Nikki. Jej sukienka wiêcej ods³ania ni¿ zakrywa.}
-{162}{}{Widzisz S³odk¹ Nikki. Jej sukienka wiêcej ods³ania ni¿ zakrywa.}
-{170}{}{Widzisz jedn¹ z krupierek kasyna.}
-{171}{}{Widzisz jedn¹ z krupierek kasyna. Mruga do ciebie.}
-{172}{}{Widzisz jedn¹ z krupierek kasyna. Zaprasza ciê gestem do swojego sto³u.}
-{173}{}{Widzisz jedn¹ z krupierek kasyna. Ma niez³e... atrybuty.}
-{174}{}{Widzisz jedn¹ z krupierek kasyna. Jej sukienka wiêcej ods³ania ni¿ zakrywa.}
-{175}{}{Widzisz jedn¹ z krupierek kasyna. Cudownie pachnie.}
-{180}{}{Widzisz jedn¹ z krupierek kasyna. Zaprasza ciê gestem do swojego sto³u.}
-{181}{}{Widzisz jedn¹ z krupierek kasyna. Jej sukienka wiêcej ods³ania ni¿ zakrywa.}
-{182}{}{Widzisz jedn¹ z krupierek kasyna. Jej sukienka wiêcej ods³ania ni¿ zakrywa.}
-{183}{}{Widzisz jedn¹ z krupierek kasyna. Zaprasza ciê gestem do swojego sto³u.}
+{100}{}{Widzisz SÅ‚odkÄ… Nikki.}
+{125}{}{Widzisz jednÄ… z krupierek kasyna.}
+{150}{}{Widzisz SÅ‚odkÄ… Nikki.}
+{151}{}{Widzisz SÅ‚odkÄ… Nikki. Mruga do ciebie.}
+{152}{}{Widzisz SÅ‚odkÄ… Nikki. Zaprasza ciÄ™ gestem do swojego stoÅ‚u.}
+{153}{}{Widzisz SÅ‚odkÄ… Nikki. Mason miaÅ‚ racjÄ™ co do jej tyÅ‚ka.}
+{154}{}{Widzisz SÅ‚odkÄ… Nikki. Jej sukienka wiÄ™cej odsÅ‚ania niÅ¼ zakrywa.}
+{155}{}{Widzisz SÅ‚odkÄ… Nikki. Mason miaÅ‚ racjÄ™ co do jej tyÅ‚ka.}
+{156}{}{Widzisz SÅ‚odkÄ… Nikki. Jej sukienka wiÄ™cej odsÅ‚ania niÅ¼ zakrywa.}
+{160}{}{Widzisz SÅ‚odkÄ… Nikki. Zaprasza ciÄ™ gestem do swojego stoÅ‚u.}
+{161}{}{Widzisz SÅ‚odkÄ… Nikki. Jej sukienka wiÄ™cej odsÅ‚ania niÅ¼ zakrywa.}
+{162}{}{Widzisz SÅ‚odkÄ… Nikki. Jej sukienka wiÄ™cej odsÅ‚ania niÅ¼ zakrywa.}
+{170}{}{Widzisz jednÄ… z krupierek kasyna.}
+{171}{}{Widzisz jednÄ… z krupierek kasyna. Mruga do ciebie.}
+{172}{}{Widzisz jednÄ… z krupierek kasyna. Zaprasza ciÄ™ gestem do swojego stoÅ‚u.}
+{173}{}{Widzisz jednÄ… z krupierek kasyna. Ma niezÅ‚e... atrybuty.}
+{174}{}{Widzisz jednÄ… z krupierek kasyna. Jej sukienka wiÄ™cej odsÅ‚ania niÅ¼ zakrywa.}
+{175}{}{Widzisz jednÄ… z krupierek kasyna. Cudownie pachnie.}
+{180}{}{Widzisz jednÄ… z krupierek kasyna. Zaprasza ciÄ™ gestem do swojego stoÅ‚u.}
+{181}{}{Widzisz jednÄ… z krupierek kasyna. Jej sukienka wiÄ™cej odsÅ‚ania niÅ¼ zakrywa.}
+{182}{}{Widzisz jednÄ… z krupierek kasyna. Jej sukienka wiÄ™cej odsÅ‚ania niÅ¼ zakrywa.}
+{183}{}{Widzisz jednÄ… z krupierek kasyna. Zaprasza ciÄ™ gestem do swojego stoÅ‚u.}
 {200}{}{::Wiwatuje::}
 {201}{}{::Klaszcze::}
-{202}{}{::Gwi¿d¿e::}
+{202}{}{::GwiÅ¼dÅ¼e::}
 {203}{}{! Witaj w naszym kasynie!}
-{204}{}{A ju¿ siê ba³am, ¿e przez to ratowanie œwiata ca³kiem o nas zapomnisz.}
+{204}{}{A juÅ¼ siÄ™ baÅ‚am, Å¼e przez to ratowanie Å›wiata caÅ‚kiem o nas zapomnisz.}
 {210}{}{Witaj, }
-{211}{}{Jeœli szukasz towarzyszki zabaw...}
-{212}{}{Hej, ty... (mruga) ...chcesz spróbowaæ szczêœcia?}
-{213}{}{Wygl¹da tak... (dr¿y) ...niebezpiecznie.}
+{211}{}{JeÅ›li szukasz towarzyszki zabaw...}
+{212}{}{Hej, ty... (mruga) ...chcesz sprÃ³bowaÄ‡ szczÄ™Å›cia?}
+{213}{}{WyglÄ…da tak... (drÅ¼y) ...niebezpiecznie.}
 {214}{}{Witaj w naszym kasynie, }
-{215}{}{Szepnij o mnie ciep³e s³ówko szefowi, dobrze?}
-{216}{}{Witam pani¹. Proszê daæ znaæ, jeœli bêdê mog³a w czymœ pomóc.}
-{217}{}{Chce pani spróbowaæ szczêœcia?}
-{218}{}{Wygl¹da tak... (dr¿y) ...niebezpiecznie.}
-{220}{}{Hazard hazardem, ale tak ryzykowaæ w³asnym ¿yciem...}
-{221}{}{Chyba pomyli³y siê mu kasyna...}
-{222}{}{Jeœli nie wyjdzie st¹d zanim zobacz¹ go ch³opcy...}
-{223}{}{O cholera. Bêd¹ k³opoty...}
-{224}{}{Hazard hazardem, ale tak ryzykowaæ w³asnym ¿yciem...}
-{225}{}{Chyba pomyli³y siê jej kasyna...}
-{226}{}{Jeœli nie wyjdzie st¹d zanim zobacz¹ j¹ ch³opcy...}
-{230}{}{Hej, si³aczu. Chcesz przepuœciæ trochê ¿etonów?}
-{231}{}{Hej, mistrzu... (mruga) chcesz spróbowaæ szczêœcia?}
-{232}{}{Hej, mistrzu... (uœmiecha siê) chcesz spróbowaæ swoich si³?}
-{233}{}{Jeœli szukasz towarzyszki zabaw...}
-{234}{}{Mo¿e siê do mnie odezwie...}
+{215}{}{Szepnij o mnie ciepÅ‚e sÅ‚Ã³wko szefowi, dobrze?}
+{216}{}{Witam paniÄ…. ProszÄ™ daÄ‡ znaÄ‡, jeÅ›li bÄ™dÄ™ mogÅ‚a w czymÅ› pomÃ³c.}
+{217}{}{Chce pani sprÃ³bowaÄ‡ szczÄ™Å›cia?}
+{218}{}{WyglÄ…da tak... (drÅ¼y) ...niebezpiecznie.}
+{220}{}{Hazard hazardem, ale tak ryzykowaÄ‡ wÅ‚asnym Å¼yciem...}
+{221}{}{Chyba pomyliÅ‚y siÄ™ mu kasyna...}
+{222}{}{JeÅ›li nie wyjdzie stÄ…d zanim zobaczÄ… go chÅ‚opcy...}
+{223}{}{O cholera. BÄ™dÄ… kÅ‚opoty...}
+{224}{}{Hazard hazardem, ale tak ryzykowaÄ‡ wÅ‚asnym Å¼yciem...}
+{225}{}{Chyba pomyliÅ‚y siÄ™ jej kasyna...}
+{226}{}{JeÅ›li nie wyjdzie stÄ…d zanim zobaczÄ… jÄ… chÅ‚opcy...}
+{230}{}{Hej, siÅ‚aczu. Chcesz przepuÅ›ciÄ‡ trochÄ™ Å¼etonÃ³w?}
+{231}{}{Hej, mistrzu... (mruga) chcesz sprÃ³bowaÄ‡ szczÄ™Å›cia?}
+{232}{}{Hej, mistrzu... (uÅ›miecha siÄ™) chcesz sprÃ³bowaÄ‡ swoich siÅ‚?}
+{233}{}{JeÅ›li szukasz towarzyszki zabaw...}
+{234}{}{MoÅ¼e siÄ™ do mnie odezwie...}
 {235}{}{Hej, }
-{236}{}{Jeœli chcesz szybko siê wzbogaciæ, jesteœ we w³aœciwym miejscu.}
-{237}{}{To najlepsze kasyno w Nowym Reno, jeœli nie na ca³ym œwiecie.}
-{238}{}{Dzisiaj szczêœcie sprzyja wszystkim... mamy mnóstwo wygranych!}
+{236}{}{JeÅ›li chcesz szybko siÄ™ wzbogaciÄ‡, jesteÅ› we wÅ‚aÅ›ciwym miejscu.}
+{237}{}{To najlepsze kasyno w Nowym Reno, jeÅ›li nie na caÅ‚ym Å›wiecie.}
+{238}{}{Dzisiaj szczÄ™Å›cie sprzyja wszystkim... mamy mnÃ³stwo wygranych!}
 {239}{}{Zapraszam }
-{240}{}{Chcesz jeszcze coœ do picia?}
+{240}{}{Chcesz jeszcze coÅ› do picia?}
 {241}{}{Witaj w naszym kasynie, }
 {242}{}{Witaj, }
-{243}{}{Chcesz przepuœciæ trochê pieniêdzy, }
+{243}{}{Chcesz przepuÅ›ciÄ‡ trochÄ™ pieniÄ™dzy, }
 {244}{}{Witaj w naszym kasynie, }
-{250}{}{Witaj, gwiazdorze. Chcesz przepuœciæ trochê ¿etonów?}
+{250}{}{Witaj, gwiazdorze. Chcesz przepuÅ›ciÄ‡ trochÄ™ Å¼etonÃ³w?}
 {251}{}{Hej, }
 {252}{}{Hej, }
-{253}{}{Jeœli chcesz szybko siê wzbogaciæ }
-{254}{}{To najlepsze kasyno w Nowym Reno, jeœli nie na ca³ym œwiecie.}
-{255}{}{Dzisiaj szczêœcie sprzyja wszystkim... mamy mnóstwo wygranych!}
+{253}{}{JeÅ›li chcesz szybko siÄ™ wzbogaciÄ‡ }
+{254}{}{To najlepsze kasyno w Nowym Reno, jeÅ›li nie na caÅ‚ym Å›wiecie.}
+{255}{}{Dzisiaj szczÄ™Å›cie sprzyja wszystkim... mamy mnÃ³stwo wygranych!}
 {266}{}{Zapraszam }
-{267}{}{Chcesz jeszcze coœ do picia?}
+{267}{}{Chcesz jeszcze coÅ› do picia?}
 {268}{}{Witaj w naszym kasynie, }
-{269}{}{Witaj, gwiazdo filmowa. Chcesz przepuœciæ trochê pieniêdzy?}
-{270}{}{Witaj, skarbie. Chcesz przepuœciæ trochê ¿etonów?}
-{271}{}{Witaj, skarbie. (mruga) Chcesz spróbowaæ szczêœcia?}
-{272}{}{Hej, skarbie... (uœmiecha siê) chcesz spróbowaæ swoich si³?}
-{273}{}{Jeœli chcesz szybko siê wzbogaciæ, jesteœ we w³aœciwym miejscu.}
-{274}{}{To najlepsze kasyno w Nowym Reno, jeœli nie na ca³ym œwiecie.}
-{275}{}{Dzisiaj szczêœcie sprzyja wszystkim... mamy mnóstwo wygranych!}
-{276}{}{Zapraszam, zabaw siê trochê.}
+{269}{}{Witaj, gwiazdo filmowa. Chcesz przepuÅ›ciÄ‡ trochÄ™ pieniÄ™dzy?}
+{270}{}{Witaj, skarbie. Chcesz przepuÅ›ciÄ‡ trochÄ™ Å¼etonÃ³w?}
+{271}{}{Witaj, skarbie. (mruga) Chcesz sprÃ³bowaÄ‡ szczÄ™Å›cia?}
+{272}{}{Hej, skarbie... (uÅ›miecha siÄ™) chcesz sprÃ³bowaÄ‡ swoich siÅ‚?}
+{273}{}{JeÅ›li chcesz szybko siÄ™ wzbogaciÄ‡, jesteÅ› we wÅ‚aÅ›ciwym miejscu.}
+{274}{}{To najlepsze kasyno w Nowym Reno, jeÅ›li nie na caÅ‚ym Å›wiecie.}
+{275}{}{Dzisiaj szczÄ™Å›cie sprzyja wszystkim... mamy mnÃ³stwo wygranych!}
+{276}{}{Zapraszam, zabaw siÄ™ trochÄ™.}
 {277}{}{Chcesz jeszcze jednego drinka, skarbie?}
 {278}{}{Witaj w naszym kasynie, skarbie.}
-{279}{}{Jeœli chcesz spróbowaæ szczêœcia, to zapraszam do sto³u.}
-{280}{}{Witaj, skarbie. Chcesz przepuœciæ parê ¿etonów?}
-{281}{}{Chcesz spróbowaæ szczêœcia, skarbie?}
+{279}{}{JeÅ›li chcesz sprÃ³bowaÄ‡ szczÄ™Å›cia, to zapraszam do stoÅ‚u.}
+{280}{}{Witaj, skarbie. Chcesz przepuÅ›ciÄ‡ parÄ™ Å¼etonÃ³w?}
+{281}{}{Chcesz sprÃ³bowaÄ‡ szczÄ™Å›cia, skarbie?}
 {282}{}{Witaj w naszym kasynie, skarbie.}
-{290}{}{Có¿, jesteœ niespe³na rozumu, skoro tu przychodzisz, ale... Proszê obstawiaæ. Minimalna stawka 5 ¿etonów. Proszê obstawiaæ...}
-{291}{}{Uh... proszê obstawiaæ... minimalna stawka 5 ¿etonów. Proszê obstawiaæ...}
-{292}{}{Proszê obstawiaæ... minimalna stawka 5 ¿etonów. Proszê obstawiaæ...}
-{293}{}{Proszê obstawiaæ... minimalna stawka 5 ¿etonów. Proszê obstawiaæ...}
-{294}{}{Proszê obstawiaæ... minimalna stawka 5 ¿etonów. Proszê obstawiaæ...}
-{295}{}{Moja graæ w pa³kera, tak?}
-{296}{}{Ja graæ jak gówno w spodnie.}
-{297}{}{Jaka gra? Mo¿e postawiæ skórkê gekona? Moja ma gek... ooooch... œliczne œwiate³ko!}
-{298}{}{Postawiæ 5 ¿etonów?!}
-{299}{}{Postawiæ 15 ¿etonów?}
-{300}{}{Postawiæ 25 ¿etonów?}
-{301}{}{Postawiæ 50 ¿etonów?}
-{302}{}{Jesteœ Nikki?}
+{290}{}{CÃ³Å¼, jesteÅ› niespeÅ‚na rozumu, skoro tu przychodzisz, ale... ProszÄ™ obstawiaÄ‡. Minimalna stawka 5 Å¼etonÃ³w. ProszÄ™ obstawiaÄ‡...}
+{291}{}{Uh... proszÄ™ obstawiaÄ‡... minimalna stawka 5 Å¼etonÃ³w. ProszÄ™ obstawiaÄ‡...}
+{292}{}{ProszÄ™ obstawiaÄ‡... minimalna stawka 5 Å¼etonÃ³w. ProszÄ™ obstawiaÄ‡...}
+{293}{}{ProszÄ™ obstawiaÄ‡... minimalna stawka 5 Å¼etonÃ³w. ProszÄ™ obstawiaÄ‡...}
+{294}{}{ProszÄ™ obstawiaÄ‡... minimalna stawka 5 Å¼etonÃ³w. ProszÄ™ obstawiaÄ‡...}
+{295}{}{Moja graÄ‡ w paÅ‚kera, tak?}
+{296}{}{Ja graÄ‡ jak gÃ³wno w spodnie.}
+{297}{}{Jaka gra? MoÅ¼e postawiÄ‡ skÃ³rkÄ™ gekona? Moja ma gek... ooooch... Å›liczne Å›wiateÅ‚ko!}
+{298}{}{PostawiÄ‡ 5 Å¼etonÃ³w?!}
+{299}{}{PostawiÄ‡ 15 Å¼etonÃ³w?}
+{300}{}{PostawiÄ‡ 25 Å¼etonÃ³w?}
+{301}{}{PostawiÄ‡ 50 Å¼etonÃ³w?}
+{302}{}{JesteÅ› Nikki?}
 {303}{}{Jak leci, Nikki?}
-{304}{}{Hej, to dla mnie za wysokie progi. Idê st¹d.}
-{305}{}{Mo¿e innym razem, dziêki.}
-{310}{}{Eee... to œwietnie, proszê pana. Niech nas pan jeszcze odwiedzi.}
-{311}{}{Eee... to œwietnie, proszê pani. Niech nas pani jeszcze odwiedzi }
-{312}{}{Podobno na zapleczu rozdaj¹ sprawne mózgi. Mo¿e tobie te¿ siê coœ dostanie?}
+{304}{}{Hej, to dla mnie za wysokie progi. IdÄ™ stÄ…d.}
+{305}{}{MoÅ¼e innym razem, dziÄ™ki.}
+{310}{}{Eee... to Å›wietnie, proszÄ™ pana. Niech nas pan jeszcze odwiedzi.}
+{311}{}{Eee... to Å›wietnie, proszÄ™ pani. Niech nas pani jeszcze odwiedzi }
+{312}{}{Podobno na zapleczu rozdajÄ… sprawne mÃ³zgi. MoÅ¼e tobie teÅ¼ siÄ™ coÅ› dostanie?}
 {313}{}{Paaa-paaa.}
 {314}{}{Ojejej. }
 {315}{}{Hmmmpf... musk... co to?}
-{320}{}{Oczywiœcie. Niech nas pan jeszcze odwiedzi.}
-{321}{}{Oczywiœcie. Niech nas pani jeszcze odwiedzi.}
-{322}{}{5 ¿etonów? 'Za wysokie progi?' Kolego, jesteœ w z³ym mieœcie!}
-{323}{}{5 ¿etonów? 'Za wysokie progi?' Kolego, jesteœ w z³ym mieœcie!}
-{324}{}{5 ¿etonów? 'Za wysokie progi?' Dziewczyno, jesteœ w z³ym mieœcie!}
-{325}{}{5 ¿etonów? 'Za wysokie progi?' Dziewczyno, jesteœ w z³ym mieœcie!}
-{326}{}{Mo¿e kiedyœ, dziêkujê.}
-{327}{}{Mo¿e, ale przynajmniej JA nie muszê tu ¯YÆ.}
-{330}{}{Przykro mi. Mo¿e nastêpnym razem bêdzie pan mia³ wiêcej szczêœcia.}
-{331}{}{Przykro mi. Mo¿e nastêpnym razem bêdzie pani mia³a wiêcej szczêœcia.}
-{332}{}{Przykro mi. Mo¿e nastêpnym razem siê uda.}
-{333}{}{Masz [C] ¿etonów. Grasz dalej?}
+{320}{}{OczywiÅ›cie. Niech nas pan jeszcze odwiedzi.}
+{321}{}{OczywiÅ›cie. Niech nas pani jeszcze odwiedzi.}
+{322}{}{5 Å¼etonÃ³w? 'Za wysokie progi?' Kolego, jesteÅ› w zÅ‚ym mieÅ›cie!}
+{323}{}{5 Å¼etonÃ³w? 'Za wysokie progi?' Kolego, jesteÅ› w zÅ‚ym mieÅ›cie!}
+{324}{}{5 Å¼etonÃ³w? 'Za wysokie progi?' Dziewczyno, jesteÅ› w zÅ‚ym mieÅ›cie!}
+{325}{}{5 Å¼etonÃ³w? 'Za wysokie progi?' Dziewczyno, jesteÅ› w zÅ‚ym mieÅ›cie!}
+{326}{}{MoÅ¼e kiedyÅ›, dziÄ™kujÄ™.}
+{327}{}{MoÅ¼e, ale przynajmniej JA nie muszÄ™ tu Å»YÄ†.}
+{330}{}{Przykro mi. MoÅ¼e nastÄ™pnym razem bÄ™dzie pan miaÅ‚ wiÄ™cej szczÄ™Å›cia.}
+{331}{}{Przykro mi. MoÅ¼e nastÄ™pnym razem bÄ™dzie pani miaÅ‚a wiÄ™cej szczÄ™Å›cia.}
+{332}{}{Przykro mi. MoÅ¼e nastÄ™pnym razem siÄ™ uda.}
+{333}{}{Masz [C] Å¼etonÃ³w. Grasz dalej?}
 {334}{}{Na dzisiaj wystarczy.}
-{335}{}{Jak na jedn¹ noc wystarczy.}
-{340}{}{Brawo! Gratulujê panu!}
-{341}{}{Brawo! Gratulujê pani!}
+{335}{}{Jak na jednÄ… noc wystarczy.}
+{340}{}{Brawo! GratulujÄ™ panu!}
+{341}{}{Brawo! GratulujÄ™ pani!}
 {342}{}{Brawo!}
-{343}{}{Masz [C] ¿etonów. Grasz dalej?}
+{343}{}{Masz [C] Å¼etonÃ³w. Grasz dalej?}
 {344}{}{Na dzisiaj wystarczy.}
-{345}{}{Jak na jedn¹ noc wystarczy.}
-{350}{}{Brawo! Podwoi³ pan swoje pieni¹dze! Gratulujê!}
-{351}{}{Brawo! Podwoi³a pani swoje pieni¹dze! Gratulujê!}
-{352}{}{Brawo! Bank p³aci podwójnie! Gratulujê!}
-{353}{}{Masz [C] ¿etonów. Grasz dalej?}
+{345}{}{Jak na jednÄ… noc wystarczy.}
+{350}{}{Brawo! PodwoiÅ‚ pan swoje pieniÄ…dze! GratulujÄ™!}
+{351}{}{Brawo! PodwoiÅ‚a pani swoje pieniÄ…dze! GratulujÄ™!}
+{352}{}{Brawo! Bank pÅ‚aci podwÃ³jnie! GratulujÄ™!}
+{353}{}{Masz [C] Å¼etonÃ³w. Grasz dalej?}
 {354}{}{Na dzisiaj wystarczy.}
-{355}{}{Jak na jedn¹ noc wystarczy.}
-{360}{}{Brawo! Potroi³ pan swoje pieni¹dze! Dzisiaj jest pana szczêœliwy dzieñ! Gratulujê!}
-{361}{}{Brawo! Potroi³ pan swoje pieni¹dze! Dzisiaj jest pana szczêœliwy dzieñ! Gratulujê!}
-{362}{}{Brawo! Bank p³aci potrójnie!}
-{363}{}{Masz [C] ¿etonów. Grasz dalej?}
+{355}{}{Jak na jednÄ… noc wystarczy.}
+{360}{}{Brawo! PotroiÅ‚ pan swoje pieniÄ…dze! Dzisiaj jest pana szczÄ™Å›liwy dzieÅ„! GratulujÄ™!}
+{361}{}{Brawo! PotroiÅ‚ pan swoje pieniÄ…dze! Dzisiaj jest pana szczÄ™Å›liwy dzieÅ„! GratulujÄ™!}
+{362}{}{Brawo! Bank pÅ‚aci potrÃ³jnie!}
+{363}{}{Masz [C] Å¼etonÃ³w. Grasz dalej?}
 {364}{}{Na dzisiaj wystarczy.}
-{365}{}{Jak na jedn¹ noc wystarczy.}
-{370}{}{A co ciê to obchodzi? Masz zamiar marnowaæ mój czas, czy coœ obstawiæ?}
-{371}{}{Jestem kimkolwiek chcesz ¿ebym by³a, skarbie. To jak, obstawisz coœ?}
-{372}{}{Jestem kimkolwiek chcesz ¿ebym by³a, dziewczyno. To jak, obstawisz coœ?}
-{373}{}{Obstaw coœ.}
-{374}{}{Jasne. Stawiam wszystko co mam, ¿e wiesz gdzie mogê znaleŸæ Œlicznego Ch³opca Lloyda.}
-{375}{}{Jasne. Stawiam wszystko co mam, ¿e ty i Œliczny Ch³opiec Lloyd okradaliœcie wspólnie pana Salvatore. Jakoœ nie mogê uwierzyæ, ¿e tyle razy uda³o mu siê ciebie oszukaæ.}
-{376}{}{Znasz mo¿e kogoœ, kto nazywa siê Œliczny Ch³opiec Lloyd?}
-{377}{}{Porozmawiamy póŸniej, Nikki.}
-{380}{}{Tak, s³ysza³am, ¿e NIE ¯YJE. To chcesz us³yszeæ?! Co?! Chcesz coœ obstawiæ, czy bêdziesz dalej pieprzyæ?}
-{381}{}{Nie. Chcesz coœ obstawiæ?}
-{382}{}{Obstaw coœ.}
-{383}{}{Jasne. Stawiam wszystko co mam, ¿e wiesz gdzie mogê znaleŸæ Œlicznego Ch³opca Lloyda.}
-{384}{}{Jasne. Stawiam wszystko co mam, ¿e ty i Œliczny Ch³opiec Lloyd okradaliœcie wspólnie pana Salvatore. Jakoœ nie mogê uwierzyæ, ¿e tyle razy uda³o mu siê ciebie oszukaæ.}
-{385}{}{Porozmawiamy póŸniej, Nikki.}
-{390}{}{Obawiam siê, ¿e PRZEGRASZ ten zak³ad, skarbie, ale jeœli twoja g³upota dorównuje brzydocie, i tak pewnie postawisz. Nie widzia³am tego ³ajdaka odk¹d oszuka³ pana Salvatore.}
-{391}{}{Obawiam siê, ¿e przegrasz ten zak³ad, skarbie. Nie widzia³am tego ³ajdaka odk¹d naci¹gn¹³ pana Salvatore.}
-{392}{}{Obawiam siê, ¿e przegrasz ten zak³ad, dziewczyno. Nie widzia³am tego ³ajdaka odk¹d naci¹gn¹³ pana Salvatore.}
-{393}{}{Mo¿e nie us³ysza³aœ mnie wyraŸnie za pierwszym razem. Pozwolê sobie powtórzyæ: Gdzie do cholery jest Lloyd?!}
-{394}{}{Strasznie to dziwne, ¿e tyle razy uda³o mu siê ciebie oszukaæ. Czy¿byœ by³a œlepa... czy tylko przekupna?}
-{395}{}{Dobra. Porozmawiamy póŸniej, Nikki.}
-{400}{}{Skarbie, MÓWI£AM ci ju¿, ¿e nie wiem gdzie on jest. S³uchaj, ja tu PRACUJÊ, wiêc wracaj do swojej klatki i...}
-{401}{}{Dziewczyno, MÓWI£AM ci ju¿, ¿e nie wiem gdzie on jest. S³uchaj, ja tu PRACUJÊ, wiêc wracaj do swojej klatki i...}
-{402}{}{Nikki, Nikki... Zaczynam traciæ CIERPLIWOŒÆ. Jeœli nie powiesz mi zaraz gdzie jest Lloyd, mogê równie¿ straciæ dobre maniery.}
-{403}{}{Nikki, nie wiem co zasz³o miêdzy tob¹ a Lloydem, ale wiesz co? Gówno mnie to obchodzi! Powiem po prostu panu Salvatore o moich podejrzeniach.}
-{404}{}{Nikki, wiem, ¿e pomaga³aœ Lloydowi oszukiwaæ. Powiedz mi gdzie go mogê znaleŸæ, a dostaniesz po³owê jego ³upu: 500 ¿etonów.}
-{405}{}{Strasznie to dziwne, ¿e tyle razy uda³o mu siê ciebie oszukaæ. Czy¿byœ by³a œlepa... czy tylko przekupna?}
-{406}{}{Có¿, porozmawiamy póŸniej, Nikki.}
-{410}{}{Dotknij mnie tylko, a pan Salvatore obedrze ciê ¿ywcem ze skóry.}
-{411}{}{Salvatore ciê nie obroni. Takich jak ty ma na pêczki. Przestañ pieprzyæ i gadaj gdzie jest Lloyd, albo...}
-{412}{}{Salvatore ciê nie obroni. Stary nie ¿yje. Przestañ pieprzyæ i gadaj gdzie jest Lloyd, albo...}
-{413}{}{Nikki, wiem, ¿e pomaga³aœ Lloydowi oszukiwaæ. Powiedz mi gdzie go mogê znaleŸæ, a dostaniesz po³owê jego ³upu: 500 ¿etonów.}
-{414}{}{Strasznie to dziwne, ¿e tyle razy uda³o mu siê ciebie oszukaæ. Czy¿byœ by³a œlepa... czy tylko przekupna?}
-{415}{}{Có¿, porozmawiamy póŸniej, Nikki.}
-{420}{}{O czym ty mówisz?}
-{421}{}{Nikki, jeœli nie powiesz mi natychmiast tego, co chcê wiedzieæ, doniosê panu Salvatore, ¿e macza³aœ palce w ca³ej sprawie, czy to zrobi³aœ czy nie. Stary ka¿e Masonowi zrobiæ z ciebie dywanik pod ³ó¿ko, a zastêpstwo dla ciebie znajdzie w ci¹gu godziny.}
-{422}{}{Nikki, wiem, ¿e pomaga³aœ Lloydowi oszukiwaæ. Powiedz mi gdzie go mogê znaleŸæ, a dostaniesz po³owê jego ³upu: 500 ¿etonów.}
-{423}{}{Strasznie to dziwne, ¿e tyle razy uda³o mu siê ciebie oszukaæ. Czy¿byœ by³a œlepa... czy tylko przekupna?}
-{424}{}{Có¿, porozmawiamy póŸniej, Nikki.}
-{430}{}{S³uchaj, JAK JU¯ MÓWI£AM, nie wiem gdzie on jest. Ale *mo¿e* s³ysza³am, ¿e kiedyœ wynajmowa³ pokój w Desperado. Poszukaj tam. A teraz, jeœli ³aska, chcê wróciæ do pracy.}
-{431}{}{Nikki, wiem, ¿e pomaga³aœ Lloydowi oszukiwaæ. Powiedz mi gdzie go mogê znaleŸæ, a dostaniesz po³owê jego ³upu: 500 ¿etonów.}
-{432}{}{Strasznie to dziwne, ¿e tyle razy uda³o mu siê ciebie oszukaæ. Czy¿byœ by³a œlepa... czy tylko przekupna?}
-{433}{}{Có¿, porozmawiamy póŸniej, Nikki.}
-{440}{}{S³uchaj, pracujê tu od niedawna i nie potrafiê rozpoznaæ ka¿dego szulera i oszusta, który tu wejdzie. Potrafiê natomiast rozpoznaæ takich przyg³upów jak ty.}
-{441}{}{A wiêc to tak spiknê³aœ siê z Lloydem, co?}
-{442}{}{A wiêc pracujesz tu od niedawna? Jakie to wygodne. To wszystko co chcê wiedzieæ. Powiedz Lloydowi, ¿e ju¿ po nim.}
-{443}{}{Nikki, wiem, ¿e pomaga³aœ Lloydowi oszukiwaæ. Powiedz mi gdzie go mogê znaleŸæ, a dostaniesz po³owê jego ³upu: 500 ¿etonów.}
-{444}{}{Có¿, porozmawiamy póŸniej, Nikki.}
-{450}{}{Tak, wystarczy wzi¹æ doœæ Jetu i WSZYSTKO wydaje siê dziwne, nie?}
-{451}{}{To JEST dziwne. Powinnaœ kazaæ wyrzuciæ st¹d Lloyda jak tylko wszed³ do kasyna.}
-{452}{}{Nikki, wiem, ¿e pomaga³aœ Lloydowi oszukiwaæ. Powiedz mi gdzie go mogê znaleŸæ, a dostaniesz po³owê jego ³upu: 500 ¿etonów.}
-{453}{}{Có¿, porozmawiamy póŸniej, Nikki.}
-{460}{}{Wynoœ siê st¹d natychmiast. Nie mam ci nic wiêcej do powiedzenia.}
-{461}{}{Nie mam ci nic do powiedzenia. Wynoœ siê st¹d.}
-{462}{}{Nie chcesz rozmawiaæ teraz, Nikki? To porozmawiamy póŸniej. Mo¿esz na to liczyæ.}
-{470}{}{Masz giêtki jêzyk... jak w¹¿. MO¯E i wiem, gdzie jest Lloyd, MO¯E nie wiem. Masz te 500 ¿etonów?}
-{471}{}{Mo¿e. To zale¿y od tego, co ty masz dla mnie.}
-{480}{}{MO¯LIWE, ¿e Lloyd jeszcze nie da³ mi mojej doli i nie mam pewnoœci, ¿e j¹ jeszcze kiedyœ zobaczê. A wiêc MO¯LIWE, ¿e - za 500 ¿etonów MOG£ABYM powiedzieæ ci gdzie ten zasmarkany k³amca siê ukrywa.}
-{481}{}{Umowa stoi. Oto 500 ¿etonów. Powiedz mi gdzie on jest.}
-{482}{}{To niema³o pieniêdzy za ca³¹ litaniê "MO¯E" i "MOG£ABYM". Znajdê go bez twojej pomocy.}
-{483}{}{Nie mam wystarczaj¹co du¿o ¿etonów, ale wrócê. Lepiej ¿ebyœ ty by³, gdy ju¿ wrócê.}
-{490}{}{(Chowa pieni¹dze) Zajrzyj do kot³owni w piwnicy Desperado. Ten sukinsyn mia³ tam przeczekaæ, a¿ sprawa nieco przycichnie.}
-{491}{}{W porz¹dku. Trzymaj siê, Nikki.}
-{500}{}{IdŸ sobie st¹d! Jeœli ludzie zobacz¹, ¿e rozmawiamy, zaczn¹ siê plotki. Rozumiesz?}
-{501}{}{W porz¹dku. Trzymaj siê, Nikki.}
-{510}{}{Wiêc idŸ do diab³a! Ju¿ NIGDY siê do ciebie nie odezwê.}
-{511}{}{£amiesz mi serce. Trzymaj siê, Nikki.}
-{600}{}{Przekupujesz Nikki aby powiedzia³a ci gdzie mo¿e ukrywaæ siê Lloyd.}
-{1210}{}{. Mogê ci w czymœ pomóc?}
+{365}{}{Jak na jednÄ… noc wystarczy.}
+{370}{}{A co ciÄ™ to obchodzi? Masz zamiar marnowaÄ‡ mÃ³j czas, czy coÅ› obstawiÄ‡?}
+{371}{}{Jestem kimkolwiek chcesz Å¼ebym byÅ‚a, skarbie. To jak, obstawisz coÅ›?}
+{372}{}{Jestem kimkolwiek chcesz Å¼ebym byÅ‚a, dziewczyno. To jak, obstawisz coÅ›?}
+{373}{}{Obstaw coÅ›.}
+{374}{}{Jasne. Stawiam wszystko co mam, Å¼e wiesz gdzie mogÄ™ znaleÅºÄ‡ Åšlicznego ChÅ‚opca Lloyda.}
+{375}{}{Jasne. Stawiam wszystko co mam, Å¼e ty i Åšliczny ChÅ‚opiec Lloyd okradaliÅ›cie wspÃ³lnie pana Salvatore. JakoÅ› nie mogÄ™ uwierzyÄ‡, Å¼e tyle razy udaÅ‚o mu siÄ™ ciebie oszukaÄ‡.}
+{376}{}{Znasz moÅ¼e kogoÅ›, kto nazywa siÄ™ Åšliczny ChÅ‚opiec Lloyd?}
+{377}{}{Porozmawiamy pÃ³Åºniej, Nikki.}
+{380}{}{Tak, sÅ‚yszaÅ‚am, Å¼e NIE Å»YJE. To chcesz usÅ‚yszeÄ‡?! Co?! Chcesz coÅ› obstawiÄ‡, czy bÄ™dziesz dalej pieprzyÄ‡?}
+{381}{}{Nie. Chcesz coÅ› obstawiÄ‡?}
+{382}{}{Obstaw coÅ›.}
+{383}{}{Jasne. Stawiam wszystko co mam, Å¼e wiesz gdzie mogÄ™ znaleÅºÄ‡ Åšlicznego ChÅ‚opca Lloyda.}
+{384}{}{Jasne. Stawiam wszystko co mam, Å¼e ty i Åšliczny ChÅ‚opiec Lloyd okradaliÅ›cie wspÃ³lnie pana Salvatore. JakoÅ› nie mogÄ™ uwierzyÄ‡, Å¼e tyle razy udaÅ‚o mu siÄ™ ciebie oszukaÄ‡.}
+{385}{}{Porozmawiamy pÃ³Åºniej, Nikki.}
+{390}{}{Obawiam siÄ™, Å¼e PRZEGRASZ ten zakÅ‚ad, skarbie, ale jeÅ›li twoja gÅ‚upota dorÃ³wnuje brzydocie, i tak pewnie postawisz. Nie widziaÅ‚am tego Å‚ajdaka odkÄ…d oszukaÅ‚ pana Salvatore.}
+{391}{}{Obawiam siÄ™, Å¼e przegrasz ten zakÅ‚ad, skarbie. Nie widziaÅ‚am tego Å‚ajdaka odkÄ…d naciÄ…gnÄ…Å‚ pana Salvatore.}
+{392}{}{Obawiam siÄ™, Å¼e przegrasz ten zakÅ‚ad, dziewczyno. Nie widziaÅ‚am tego Å‚ajdaka odkÄ…d naciÄ…gnÄ…Å‚ pana Salvatore.}
+{393}{}{MoÅ¼e nie usÅ‚yszaÅ‚aÅ› mnie wyraÅºnie za pierwszym razem. PozwolÄ™ sobie powtÃ³rzyÄ‡: Gdzie do cholery jest Lloyd?!}
+{394}{}{Strasznie to dziwne, Å¼e tyle razy udaÅ‚o mu siÄ™ ciebie oszukaÄ‡. CzyÅ¼byÅ› byÅ‚a Å›lepa... czy tylko przekupna?}
+{395}{}{Dobra. Porozmawiamy pÃ³Åºniej, Nikki.}
+{400}{}{Skarbie, MÃ“WIÅAM ci juÅ¼, Å¼e nie wiem gdzie on jest. SÅ‚uchaj, ja tu PRACUJÄ˜, wiÄ™c wracaj do swojej klatki i...}
+{401}{}{Dziewczyno, MÃ“WIÅAM ci juÅ¼, Å¼e nie wiem gdzie on jest. SÅ‚uchaj, ja tu PRACUJÄ˜, wiÄ™c wracaj do swojej klatki i...}
+{402}{}{Nikki, Nikki... Zaczynam traciÄ‡ CIERPLIWOÅšÄ†. JeÅ›li nie powiesz mi zaraz gdzie jest Lloyd, mogÄ™ rÃ³wnieÅ¼ straciÄ‡ dobre maniery.}
+{403}{}{Nikki, nie wiem co zaszÅ‚o miÄ™dzy tobÄ… a Lloydem, ale wiesz co? GÃ³wno mnie to obchodzi! Powiem po prostu panu Salvatore o moich podejrzeniach.}
+{404}{}{Nikki, wiem, Å¼e pomagaÅ‚aÅ› Lloydowi oszukiwaÄ‡. Powiedz mi gdzie go mogÄ™ znaleÅºÄ‡, a dostaniesz poÅ‚owÄ™ jego Å‚upu: 500 Å¼etonÃ³w.}
+{405}{}{Strasznie to dziwne, Å¼e tyle razy udaÅ‚o mu siÄ™ ciebie oszukaÄ‡. CzyÅ¼byÅ› byÅ‚a Å›lepa... czy tylko przekupna?}
+{406}{}{CÃ³Å¼, porozmawiamy pÃ³Åºniej, Nikki.}
+{410}{}{Dotknij mnie tylko, a pan Salvatore obedrze ciÄ™ Å¼ywcem ze skÃ³ry.}
+{411}{}{Salvatore ciÄ™ nie obroni. Takich jak ty ma na pÄ™czki. PrzestaÅ„ pieprzyÄ‡ i gadaj gdzie jest Lloyd, albo...}
+{412}{}{Salvatore ciÄ™ nie obroni. Stary nie Å¼yje. PrzestaÅ„ pieprzyÄ‡ i gadaj gdzie jest Lloyd, albo...}
+{413}{}{Nikki, wiem, Å¼e pomagaÅ‚aÅ› Lloydowi oszukiwaÄ‡. Powiedz mi gdzie go mogÄ™ znaleÅºÄ‡, a dostaniesz poÅ‚owÄ™ jego Å‚upu: 500 Å¼etonÃ³w.}
+{414}{}{Strasznie to dziwne, Å¼e tyle razy udaÅ‚o mu siÄ™ ciebie oszukaÄ‡. CzyÅ¼byÅ› byÅ‚a Å›lepa... czy tylko przekupna?}
+{415}{}{CÃ³Å¼, porozmawiamy pÃ³Åºniej, Nikki.}
+{420}{}{O czym ty mÃ³wisz?}
+{421}{}{Nikki, jeÅ›li nie powiesz mi natychmiast tego, co chcÄ™ wiedzieÄ‡, doniosÄ™ panu Salvatore, Å¼e maczaÅ‚aÅ› palce w caÅ‚ej sprawie, czy to zrobiÅ‚aÅ› czy nie. Stary kaÅ¼e Masonowi zrobiÄ‡ z ciebie dywanik pod Å‚Ã³Å¼ko, a zastÄ™pstwo dla ciebie znajdzie w ciÄ…gu godziny.}
+{422}{}{Nikki, wiem, Å¼e pomagaÅ‚aÅ› Lloydowi oszukiwaÄ‡. Powiedz mi gdzie go mogÄ™ znaleÅºÄ‡, a dostaniesz poÅ‚owÄ™ jego Å‚upu: 500 Å¼etonÃ³w.}
+{423}{}{Strasznie to dziwne, Å¼e tyle razy udaÅ‚o mu siÄ™ ciebie oszukaÄ‡. CzyÅ¼byÅ› byÅ‚a Å›lepa... czy tylko przekupna?}
+{424}{}{CÃ³Å¼, porozmawiamy pÃ³Åºniej, Nikki.}
+{430}{}{SÅ‚uchaj, JAK JUÅ» MÃ“WIÅAM, nie wiem gdzie on jest. Ale *moÅ¼e* sÅ‚yszaÅ‚am, Å¼e kiedyÅ› wynajmowaÅ‚ pokÃ³j w Desperado. Poszukaj tam. A teraz, jeÅ›li Å‚aska, chcÄ™ wrÃ³ciÄ‡ do pracy.}
+{431}{}{Nikki, wiem, Å¼e pomagaÅ‚aÅ› Lloydowi oszukiwaÄ‡. Powiedz mi gdzie go mogÄ™ znaleÅºÄ‡, a dostaniesz poÅ‚owÄ™ jego Å‚upu: 500 Å¼etonÃ³w.}
+{432}{}{Strasznie to dziwne, Å¼e tyle razy udaÅ‚o mu siÄ™ ciebie oszukaÄ‡. CzyÅ¼byÅ› byÅ‚a Å›lepa... czy tylko przekupna?}
+{433}{}{CÃ³Å¼, porozmawiamy pÃ³Åºniej, Nikki.}
+{440}{}{SÅ‚uchaj, pracujÄ™ tu od niedawna i nie potrafiÄ™ rozpoznaÄ‡ kaÅ¼dego szulera i oszusta, ktÃ³ry tu wejdzie. PotrafiÄ™ natomiast rozpoznaÄ‡ takich przygÅ‚upÃ³w jak ty.}
+{441}{}{A wiÄ™c to tak spiknÄ™Å‚aÅ› siÄ™ z Lloydem, co?}
+{442}{}{A wiÄ™c pracujesz tu od niedawna? Jakie to wygodne. To wszystko co chcÄ™ wiedzieÄ‡. Powiedz Lloydowi, Å¼e juÅ¼ po nim.}
+{443}{}{Nikki, wiem, Å¼e pomagaÅ‚aÅ› Lloydowi oszukiwaÄ‡. Powiedz mi gdzie go mogÄ™ znaleÅºÄ‡, a dostaniesz poÅ‚owÄ™ jego Å‚upu: 500 Å¼etonÃ³w.}
+{444}{}{CÃ³Å¼, porozmawiamy pÃ³Åºniej, Nikki.}
+{450}{}{Tak, wystarczy wziÄ…Ä‡ doÅ›Ä‡ Jetu i WSZYSTKO wydaje siÄ™ dziwne, nie?}
+{451}{}{To JEST dziwne. PowinnaÅ› kazaÄ‡ wyrzuciÄ‡ stÄ…d Lloyda jak tylko wszedÅ‚ do kasyna.}
+{452}{}{Nikki, wiem, Å¼e pomagaÅ‚aÅ› Lloydowi oszukiwaÄ‡. Powiedz mi gdzie go mogÄ™ znaleÅºÄ‡, a dostaniesz poÅ‚owÄ™ jego Å‚upu: 500 Å¼etonÃ³w.}
+{453}{}{CÃ³Å¼, porozmawiamy pÃ³Åºniej, Nikki.}
+{460}{}{WynoÅ› siÄ™ stÄ…d natychmiast. Nie mam ci nic wiÄ™cej do powiedzenia.}
+{461}{}{Nie mam ci nic do powiedzenia. WynoÅ› siÄ™ stÄ…d.}
+{462}{}{Nie chcesz rozmawiaÄ‡ teraz, Nikki? To porozmawiamy pÃ³Åºniej. MoÅ¼esz na to liczyÄ‡.}
+{470}{}{Masz giÄ™tki jÄ™zyk... jak wÄ…Å¼. MOÅ»E i wiem, gdzie jest Lloyd, MOÅ»E nie wiem. Masz te 500 Å¼etonÃ³w?}
+{471}{}{MoÅ¼e. To zaleÅ¼y od tego, co ty masz dla mnie.}
+{480}{}{MOÅ»LIWE, Å¼e Lloyd jeszcze nie daÅ‚ mi mojej doli i nie mam pewnoÅ›ci, Å¼e jÄ… jeszcze kiedyÅ› zobaczÄ™. A wiÄ™c MOÅ»LIWE, Å¼e - za 500 Å¼etonÃ³w MOGÅABYM powiedzieÄ‡ ci gdzie ten zasmarkany kÅ‚amca siÄ™ ukrywa.}
+{481}{}{Umowa stoi. Oto 500 Å¼etonÃ³w. Powiedz mi gdzie on jest.}
+{482}{}{To niemaÅ‚o pieniÄ™dzy za caÅ‚Ä… litaniÄ™ "MOÅ»E" i "MOGÅABYM". ZnajdÄ™ go bez twojej pomocy.}
+{483}{}{Nie mam wystarczajÄ…co duÅ¼o Å¼etonÃ³w, ale wrÃ³cÄ™. Lepiej Å¼ebyÅ› ty byÅ‚, gdy juÅ¼ wrÃ³cÄ™.}
+{490}{}{(Chowa pieniÄ…dze) Zajrzyj do kotÅ‚owni w piwnicy Desperado. Ten sukinsyn miaÅ‚ tam przeczekaÄ‡, aÅ¼ sprawa nieco przycichnie.}
+{491}{}{W porzÄ…dku. Trzymaj siÄ™, Nikki.}
+{500}{}{IdÅº sobie stÄ…d! JeÅ›li ludzie zobaczÄ…, Å¼e rozmawiamy, zacznÄ… siÄ™ plotki. Rozumiesz?}
+{501}{}{W porzÄ…dku. Trzymaj siÄ™, Nikki.}
+{510}{}{WiÄ™c idÅº do diabÅ‚a! JuÅ¼ NIGDY siÄ™ do ciebie nie odezwÄ™.}
+{511}{}{Åamiesz mi serce. Trzymaj siÄ™, Nikki.}
+{600}{}{Przekupujesz Nikki aby powiedziaÅ‚a ci gdzie moÅ¼e ukrywaÄ‡ siÄ™ Lloyd.}
+{1210}{}{. MogÄ™ ci w czymÅ› pomÃ³c?}
 {1214}{}{.}
-{1235}{}{. Chcesz przepuœciæ trochê ¿etonów?}
-{1239}{}{, zabaw siê trochê.}
+{1235}{}{. Chcesz przepuÅ›ciÄ‡ trochÄ™ Å¼etonÃ³w?}
+{1239}{}{, zabaw siÄ™ trochÄ™.}
 {1241}{}{.}
-{1242}{}{. Daj znaæ, jeœli mogê ci w czymœ pomóc.}
+{1242}{}{. Daj znaÄ‡, jeÅ›li mogÄ™ ci w czymÅ› pomÃ³c.}
 {1243}{}{?}
 {1244}{}{.}
-{1251}{}{... (mruga) chcesz spróbowaæ szczêœcia?}
-{1252}{}{... (uœmiecha siê) chcesz spróbowaæ swoich si³?}
-{1253}{}{, jesteœ we w³aœciwym miejscu.}
-{1266}{}{, zabaw siê trochê.}
+{1251}{}{... (mruga) chcesz sprÃ³bowaÄ‡ szczÄ™Å›cia?}
+{1252}{}{... (uÅ›miecha siÄ™) chcesz sprÃ³bowaÄ‡ swoich siÅ‚?}
+{1253}{}{, jesteÅ› we wÅ‚aÅ›ciwym miejscu.}
+{1266}{}{, zabaw siÄ™ trochÄ™.}
 {1268}{}{.}
 {1314}{}{ dostanie nowy przedmiot. Ale co z nim zrobi?}
-{2699}{}{Tañczysz dzisiaj?}
+{2699}{}{TaÅ„czysz dzisiaj?}

@@ -1,35 +1,35 @@
 {100}{}{Ves a un camarero.}
-{150}{}{Ves a un gordinflón inclinado sobre la barra. Te hace un gesto con la cabeza.}
-{200}{}{¡Oye! }
-{201}{}{! Qué forma de patear el culo del Enclave! ¿Quieres una copa?}
-{206}{}{! ¡¿Qué pasa?!}
-{210}{}{Marchando un trago de aguardiente…}
-{211}{}{Serán tres fichas…}
-{212}{}{¿Otro, colega?}
-{213}{}{Aquí hay un torniquete si lo necesitas.}
-{214}{}{No inhales el Jet todo de una vez… toma un poco, una inspiración profunda, y dale
+{150}{}{Ves a un gordinflÃ³n inclinado sobre la barra. Te hace un gesto con la cabeza.}
+{200}{}{Â¡Oye! }
+{201}{}{! QuÃ© forma de patear el culo del Enclave! Â¿Quieres una copa?}
+{206}{}{! Â¡Â¿QuÃ© pasa?!}
+{210}{}{Marchando un trago de aguardienteâ€¦}
+{211}{}{SerÃ¡n tres fichasâ€¦}
+{212}{}{Â¿Otro, colega?}
+{213}{}{AquÃ­ hay un torniquete si lo necesitas.}
+{214}{}{No inhales el Jet todo de una vezâ€¦ toma un poco, una inspiraciÃ³n profunda, y dale
  tiempo para que haga efecto.}
 {215}{}{Quieres dos, media onza de bolsas, o de un recipiente?}
-{216}{}{El inhalador de Jet es aparte…}
-{217}{}{Déjame adivinar: ¿lo pongo en tu cuenta?}
+{216}{}{El inhalador de Jet es aparteâ€¦}
+{217}{}{DÃ©jame adivinar: Â¿lo pongo en tu cuenta?}
 {218}{}{Marchando un Nuclear con hielo.}
-{219}{}{No dejamos a los clientes tomar esteroides aquí, colega.}
-{225}{}{Mejor será que te largues de aquí antes de que te sirva más plomo del que puedas
- manejar, ¿entendido?}
-{226}{}{Sigue… hacia fuera. No queremos problemas.}
+{219}{}{No dejamos a los clientes tomar esteroides aquÃ­, colega.}
+{225}{}{Mejor serÃ¡ que te largues de aquÃ­ antes de que te sirva mÃ¡s plomo del que puedas
+ manejar, Â¿entendido?}
+{226}{}{Sigueâ€¦ hacia fuera. No queremos problemas.}
 {227}{}{Van a matarte si te quedas. Desaparece.}
-{228}{}{Se nos ha acabado todo. Ahora lárgate, imbécil.}
-{236}{}{! ¿Cuál es tu veneno?}
-{237}{}{¡Heeeey, campeona! ¿Cuál es tu veneno?}
-{238}{}{¿Cuál es tu veneno, colega?}
-{239}{}{¿Cuál es tu veneno, cariño?}
+{228}{}{Se nos ha acabado todo. Ahora lÃ¡rgate, imbÃ©cil.}
+{236}{}{! Â¿CuÃ¡l es tu veneno?}
+{237}{}{Â¡Heeeey, campeona! Â¿CuÃ¡l es tu veneno?}
+{238}{}{Â¿CuÃ¡l es tu veneno, colega?}
+{239}{}{Â¿CuÃ¡l es tu veneno, cariÃ±o?}
 {240}{}{V-eneno suena bien}
-{241}{}{¡¿Veneno?! ¡Yo no quiere veneno!}
-{242}{}{¿Qué hay para tomar?}
-{243}{}{¿Qué clase de drogas tienes?}
-{244}{}{¿Quién es el viejo con esa tragaperras hecha polvo?}
-{245}{}{¿Quién es el tipo de la barra con el cuchillo?}
+{241}{}{Â¡Â¿Veneno?! Â¡Yo no quiere veneno!}
+{242}{}{Â¿QuÃ© hay para tomar?}
+{243}{}{Â¿QuÃ© clase de drogas tienes?}
+{244}{}{Â¿QuiÃ©n es el viejo con esa tragaperras hecha polvo?}
+{245}{}{Â¿QuiÃ©n es el tipo de la barra con el cuchillo?}
 {246}{}{Hoy nada, gracias.}
-{250}{}{Oh, ¿te refieres al viejo McGee? Es prácticamente inofensivo. Gastó una pequeña fortuna en esa vieja máquina tragaperras y no la ha visto soltar nada desde hace años. Creo está rota. Cambiando de tema... ¿puedo ponerte algo, amiga?}
-{260}{}{Ese es el chico menor de Jesús, Pequeño Jesús. Él y ese cuchillo son casi amigos íntimos… le he visto hacer algunas cosas malas con él. Cambiando de tema... ¿puedo ponerte algo, amigo?}
+{250}{}{Oh, Â¿te refieres al viejo McGee? Es prÃ¡cticamente inofensivo. GastÃ³ una pequeÃ±a fortuna en esa vieja mÃ¡quina tragaperras y no la ha visto soltar nada desde hace aÃ±os. Creo estÃ¡ rota. Cambiando de tema... Â¿puedo ponerte algo, amiga?}
+{260}{}{Ese es el chico menor de JesÃºs, PequeÃ±o JesÃºs. Ã‰l y ese cuchillo son casi amigos Ã­ntimosâ€¦ le he visto hacer algunas cosas malas con Ã©l. Cambiando de tema... Â¿puedo ponerte algo, amigo?}
 {270}{}{Placer haciendo negocios con ustedes.}

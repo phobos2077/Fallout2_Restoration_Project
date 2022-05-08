@@ -1,9 +1,9 @@
-{100}{}{Du siehst einen Kopfgeldjäger.}
+{100}{}{Du siehst einen KopfgeldjÃ¤ger.}
 {101}{}{Du bist ein toter Mann.}
 {102}{}{Du bist also der Todgeweihte.}
-{103}{}{Du solltest dir bessere Manieren angewöhnen.}
-{104}{}{Du wirst in 'nem Sarg zurückkehren.}
+{103}{}{Du solltest dir bessere Manieren angewÃ¶hnen.}
+{104}{}{Du wirst in 'nem Sarg zurÃ¼ckkehren.}
 {105}{}{Stirb, du elender Abschaum!}
-{106}{}{Ach, zur Hölle, sie können die Beute behalten.}
+{106}{}{Ach, zur HÃ¶lle, sie kÃ¶nnen die Beute behalten.}
 {107}{}{Ich bin hier weg.}
 {108}{}{Der Job ist es nicht wert.}

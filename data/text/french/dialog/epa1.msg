@@ -1,1 +1,1 @@
-{100}{}{Tu découvres un complexe emmuré qui a l'air d'avoir été abandonné il y a bien longtemps. Ses sols délabrés sont à présent envahis par une végétation carnivore.}
+{100}{}{Tu dÃ©couvres un complexe emmurÃ© qui a l'air d'avoir Ã©tÃ© abandonnÃ© il y a bien longtemps. Ses sols dÃ©labrÃ©s sont Ã  prÃ©sent envahis par une vÃ©gÃ©tation carnivore.}

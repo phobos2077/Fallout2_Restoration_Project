@@ -1,7 +1,7 @@
 {100}{}{Widzisz Toksyczny Szlam.}
 {101}{}{Widzisz Toksyczny Szlam.}
-{110}{}{A³a! Pali jak kwasem!}
-{120}{}{W tych starych kaloszach nie muszê siê ju¿ obawiaæ truj¹cego szlamu.}
-{130}{}{Twoje obuwie w³aœnie siê rozpuœci³o.}
-{140}{}{Twoje piêty zaczynaj¹ swêdzieæ i paliæ.}
-{150}{}{Stopy poszczypa³y i poswêdzia³y, ale uda³o ci siê do tego przyzwyczaiæ.}
+{110}{}{AÅ‚a! Pali jak kwasem!}
+{120}{}{W tych starych kaloszach nie muszÄ™ siÄ™ juÅ¼ obawiaÄ‡ trujÄ…cego szlamu.}
+{130}{}{Twoje obuwie wÅ‚aÅ›nie siÄ™ rozpuÅ›ciÅ‚o.}
+{140}{}{Twoje piÄ™ty zaczynajÄ… swÄ™dzieÄ‡ i paliÄ‡.}
+{150}{}{Stopy poszczypaÅ‚y i poswÄ™dziaÅ‚y, ale udaÅ‚o ci siÄ™ do tego przyzwyczaiÄ‡.}

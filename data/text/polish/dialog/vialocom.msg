@@ -1,11 +1,11 @@
-{100}{}{Terminal komputera wyœwietla mnóstwo, mnóstwo informacji.}
+{100}{}{Terminal komputera wyÅ›wietla mnÃ³stwo, mnÃ³stwo informacji.}
 {101}{}{Widzisz terminal. }
-{102}{}{Terminal komputera wyœwietla mnóstwo, mnóstwo informacji.}
+{102}{}{Terminal komputera wyÅ›wietla mnÃ³stwo, mnÃ³stwo informacji.}
 {103}{}{Widzisz Komputer Lokacyjny Kryptopolis.}
 {104}{}{Widzisz terminal.}
 {105}{}{Widzisz Komputer Lokacyjny Kryptopolis.}
-{106}{}{To jest komputer, o którym wspominano w Pip-Boy'u.}
-{107}{}{Nic siê nie dzieje.}
-{108}{}{Ko¿ystaj¹c z informacji z Pip-Boy'a uda³o ci siê uzyskaæ dostêp do komputera.}
-{109}{}{£aaaaa³.}
-{110}{}{Dowiedzia³eœ siê MNÓSTWA informacji o Falloucie 2.}
+{106}{}{To jest komputer, o ktÃ³rym wspominano w Pip-Boy'u.}
+{107}{}{Nic siÄ™ nie dzieje.}
+{108}{}{KoÅ¼ystajÄ…c z informacji z Pip-Boy'a udaÅ‚o ci siÄ™ uzyskaÄ‡ dostÄ™p do komputera.}
+{109}{}{ÅaaaaaÅ‚.}
+{110}{}{DowiedziaÅ‚eÅ› siÄ™ MNÃ“STWA informacji o Falloucie 2.}

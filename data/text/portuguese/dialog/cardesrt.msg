@@ -1,1 +1,1 @@
-{100}{}{Seu carro ficou sem gás. Certifique-se de que esteja levando algum combustível de reposição.}
+{100}{}{Seu carro ficou sem gÃ¡s. Certifique-se de que esteja levando algum combustÃ­vel de reposiÃ§Ã£o.}

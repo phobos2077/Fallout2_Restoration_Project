@@ -1,11 +1,11 @@
-{100}{}{Armazenamento e manutenção de dados. Selecione a opção.}
-{101}{}{Executar Verificação De Diagnóstico.}
+{100}{}{Armazenamento e manutenÃ§Ã£o de dados. Selecione a opÃ§Ã£o.}
+{101}{}{Executar VerificaÃ§Ã£o De DiagnÃ³stico.}
 {102}{}{[FEITO]}
-{103}{}{Checando verificação ... Iniciando ... Compilando ... Obrigado por ser paciente durante este procedimento ... Completo. Armazenamento de dados com eficiência de 84%. A falha de fiação no mainframe deste computador está causando bobinas magnéticas para serem executadas com alta potência. O campo magnético resultante pode causar interferência com outros dispositivos se não for corrigido. Verificação final.}
+{103}{}{Checando verificaÃ§Ã£o ... Iniciando ... Compilando ... Obrigado por ser paciente durante este procedimento ... Completo. Armazenamento de dados com eficiÃªncia de 84%. A falha de fiaÃ§Ã£o no mainframe deste computador estÃ¡ causando bobinas magnÃ©ticas para serem executadas com alta potÃªncia. O campo magnÃ©tico resultante pode causar interferÃªncia com outros dispositivos se nÃ£o for corrigido. VerificaÃ§Ã£o final.}
 {104}{}{[FEITO]}
-{105}{}{Você vê um computador}
-{106}{}{Você vê o computador de armazenamento de dados da EPA.}
-{107}{}{Você vê um computador que garante que os dados estão corretamente armazenados de forma segura na EPA.}
+{105}{}{VocÃª vÃª um computador}
+{106}{}{VocÃª vÃª o computador de armazenamento de dados da EPA.}
+{107}{}{VocÃª vÃª um computador que garante que os dados estÃ£o corretamente armazenados de forma segura na EPA.}
 {108}{}{Consegui!}
-{109}{}{O problema da bobina magnética foi corrigido.}
-{1030}{}{Checando verificação ... Iniciando ... Compilando ... Obrigado por ser paciente durante este procedimento ... Completo. Armazenamento de dados com 100% de eficiência. Obrigado e tenha um bom dia. Verificação final.}
+{109}{}{O problema da bobina magnÃ©tica foi corrigido.}
+{1030}{}{Checando verificaÃ§Ã£o ... Iniciando ... Compilando ... Obrigado por ser paciente durante este procedimento ... Completo. Armazenamento de dados com 100% de eficiÃªncia. Obrigado e tenha um bom dia. VerificaÃ§Ã£o final.}

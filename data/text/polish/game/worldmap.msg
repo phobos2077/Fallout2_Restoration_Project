@@ -1,105 +1,105 @@
 {200}{}{Most}
 {201}{}{Wioska}
-{202}{}{Wejœcie do œwi¹tyni}
-{203}{}{G³usza}
-{204}{}{Wnêtrze Œwi¹tyni}
+{202}{}{WejÅ›cie do Å›wiÄ…tyni}
+{203}{}{GÅ‚usza}
+{204}{}{WnÄ™trze ÅšwiÄ…tyni}
 {210}{}{Zachodnia Dzielnica}
 {211}{}{Wschodnia Dzielnica}
 {212}{}{Dzielnica Mieszkalna}
-{220}{}{Œródmieœcie}
-{221}{}{Osada Traperów}
+{220}{}{ÅšrÃ³dmieÅ›cie}
+{221}{}{Osada TraperÃ³w}
 {222}{}{Szczurze nory}
-{223}{}{Obszary ³owieckie}
+{223}{}{Obszary Å‚owieckie}
 {224}{}{Pastwisko}
 {225}{}{kanion}
-{230}{}{Ulica g³ówna}
+{230}{}{Ulica gÅ‚Ã³wna}
 {231}{}{Noclegownia}
 {232}{}{Pastwiska bramin Grishama}
-{233}{}{Ogród Farrela}
+{233}{}{OgrÃ³d Farrela}
 {234}{}{Jaskinie}
 {235}{}{Studnia miejska}
 {240}{}{Podmurze}
-{241}{}{Miasto wewnêtrzne}
+{241}{}{Miasto wewnÄ™trzne}
 {242}{}{Rada}
 {243}{}{Krypta}
 {250}{}{Osada}
 {251}{}{Elektrownia}
-{252}{}{Z³omowisko}
-{253}{}{Tunele wejœciowe}
-{260}{}{Œródmieœcie}
+{252}{}{ZÅ‚omowisko}
+{253}{}{Tunele wejÅ›ciowe}
+{260}{}{ÅšrÃ³dmieÅ›cie}
 {261}{}{Dzielnica Mieszkalna}
 {270}{}{Aleja Dziewic}
 {271}{}{Druga Ulica}
-{272}{}{Pasa¿ handlowy}
+{272}{}{PasaÅ¼ handlowy}
 {273}{}{Wschodnia Dzielnica}
 {274}{}{Dziupla}
 {275}{}{Hala bokserska}
 {276}{}{Rejon Lataczy}
 {280}{}{Pole bitwy}
-{281}{}{Sk³ad, Poziom 1: Kwatery}
-{282}{}{Sk³ad, Poziom 2: Magazyny}
-{283}{}{Sk³ad, Poziom 3: Laboratorium robotyczne}
-{284}{}{Sk³ad, Poziom 4: Laboratorium biologiczne}
+{281}{}{SkÅ‚ad, Poziom 1: Kwatery}
+{282}{}{SkÅ‚ad, Poziom 2: Magazyny}
+{283}{}{SkÅ‚ad, Poziom 3: Laboratorium robotyczne}
+{284}{}{SkÅ‚ad, Poziom 4: Laboratorium biologiczne}
 {290}{}{Osiedle}
-{291}{}{Osiedleñcy}
-{292}{}{Osiedleñcy}
+{291}{}{OsiedleÅ„cy}
+{292}{}{OsiedleÅ„cy}
 {293}{}{Krypty 15}
-{294}{}{Wejœcie Wschodnie}
+{294}{}{WejÅ›cie Wschodnie}
 {300}{}{Jarmark}
 {301}{}{Rada 2}
-{302}{}{Œródmieœcie}
+{302}{}{ÅšrÃ³dmieÅ›cie}
 {303}{}{Rada miejska}
 {304}{}{Ranczo Westina}
 {305}{}{Pastwiska}
-{310}{}{wejœcie do jaskini}
+{310}{}{wejÅ›cie do jaskini}
 {311}{}{Krypta 13}
-{320}{}{Wejœcie}
+{320}{}{WejÅ›cie}
 {321}{}{Poziom 1}
 {322}{}{Poziom 2}
 {323}{}{Poziom 3}
 {324}{}{Poziom 4}
-{330}{}{Œródmieœcie}
+{330}{}{ÅšrÃ³dmieÅ›cie}
 {331}{}{Wielka Kopalnia Wanamingo}
 {332}{}{Kopalnia Wanamingo}
-{333}{}{Obóz Kopalni}
-{334}{}{G³ówne tunele}
+{333}{}{ObÃ³z Kopalni}
+{334}{}{GÅ‚Ã³wne tunele}
 {335}{}{Tunele kopalni}
 {340}{}{Chinatown}
 {341}{}{Dok}
 {342}{}{Tankowiec}
-{343}{}{Na zewn¹trz wahad³owca}
-{344}{}{Wnêtrze wahad³owca}
+{343}{}{Na zewnÄ…trz wahadÅ‚owca}
+{344}{}{WnÄ™trze wahadÅ‚owca}
 {345}{}{Centrolodzy}
-{346}{}{Œwi¹tynia Shi}
+{346}{}{ÅšwiÄ…tynia Shi}
 {350}{}{Stacja Paliw}
-{351}{}{G³ówna brama}
+{351}{}{GÅ‚Ã³wna brama}
 {360}{}{Dok}
 {361}{}{Areszt}
 {362}{}{Ostatni przeciwnik}
 {363}{}{Koszary}
 {364}{}{Kwatery prezydenta}
 {365}{}{Reaktor}
-{366}{}{Pokój pu³apek}
-{370}{}{Wejœcie}
+{366}{}{PokÃ³j puÅ‚apek}
+{370}{}{WejÅ›cie}
 {380}{}{Las}
-{381}{}{Plemiê}
-{390}{}{Wejœcie}
+{381}{}{PlemiÄ™}
+{390}{}{WejÅ›cie}
 {391}{}{Korytarze}
-{392}{}{Pomieszczenia U¿ytkowe}
+{392}{}{Pomieszczenia UÅ¼ytkowe}
 {393}{}{Poziom Pierwszy}
 {394}{}{Poziom Drugi}
 {395}{}{Poziom Trzeci}
 {396}{}{Magazyn}
-{400}{}{Miasto Duchów}
-{401}{}{G³ówna grota}
+{400}{}{Miasto DuchÃ³w}
+{401}{}{GÅ‚Ã³wna grota}
 {402}{}{Podziemne jezioro}
-{410}{}{Samochód bez energii}
+{410}{}{SamochÃ³d bez energii}
 {420}{}{zniszczony most}
 {430}{}{Radioaktywne jaskinie}
-{440}{}{Spêd niewolników}
+{440}{}{SpÄ™d niewolnikÃ³w}
 {450}{}{studnia}
 {451}{}{Klif}
-{452}{}{Jaskinia-wejœcie}
+{452}{}{Jaskinia-wejÅ›cie}
 {460}{}{Pustynia}
 {461}{}{Pustynia}
 {462}{}{Pustynia}
@@ -110,16 +110,16 @@
 {467}{}{Pustynia}
 {468}{}{Pustynia}
 {469}{}{Pustynia}
-{470}{}{góra}
+{470}{}{gÃ³ra}
 {471}{}{jaskinia}
-{472}{}{góra}
+{472}{}{gÃ³ra}
 {473}{}{jaskinia}
 {474}{}{jaskinia}
 {475}{}{jaskinia}
 {476}{}{jaskinia}
 {477}{}{jaskinia}
-{478}{}{góra}
-{479}{}{góra}
+{478}{}{gÃ³ra}
+{479}{}{gÃ³ra}
 {480}{}{Ruiny miasta}
 {481}{}{Ruiny miasta}
 {482}{}{Ruiny miasta}
@@ -139,21 +139,21 @@
 {498}{}{Brzeg oceanu}
 {499}{}{Brzeg oceanu}
 {500}{}{Golgota}
-{510}{}{Zmia¿d¿one szcz¹tki wieloryba}
+{510}{}{ZmiaÅ¼dÅ¼one szczÄ…tki wieloryba}
 {520}{}{Blaszany Drwal}
-{521}{}{Wielka G³owa}
+{521}{}{Wielka GÅ‚owa}
 {530}{}{Miejsce katastrofy}
 {540}{}{Pustynia}
 {550}{}{Most}
-{560}{}{Kawiarnia Niespe³nionych Marzeñ}
+{560}{}{Kawiarnia NiespeÅ‚nionych MarzeÅ„}
 {570}{}{Pustynia}
 {580}{}{jaskinia}
-{590}{}{Stra¿nik Wiecznoœci}
-{600}{}{Sk³adowisko odpadów toksycznych}
+{590}{}{StraÅ¼nik WiecznoÅ›ci}
+{600}{}{SkÅ‚adowisko odpadÃ³w toksycznych}
 {610}{}{Pustynia}
 {620}{}{Stado bramin}
 {630}{}{Pustynia}
-{631}{}{góra}
+{631}{}{gÃ³ra}
 {640}{}{Grota Krypty 13}
 {650}{}{jaskinia}
 {660}{}{Brzeg oceanu}
@@ -161,1753 +161,1753 @@
 {662}{}{Pustynia}
 {663}{}{Pustynia}
 {664}{}{Pustynia}
-{665}{}{góra}
-{666}{}{góra}
+{665}{}{gÃ³ra}
+{666}{}{gÃ³ra}
 {667}{}{Pustynia}
 {668}{}{Pustynia}
 {670}{}{Stajnie}
 {680}{}{Wioska}
-{690}{}{Prymitywne Plemiê}
-{700}{}{Prymitywne Plemiê}
-{710}{}{Prymitywne Plemiê}
+{690}{}{Prymitywne PlemiÄ™}
+{700}{}{Prymitywne PlemiÄ™}
+{710}{}{Prymitywne PlemiÄ™}
 {1000}{}{Pustynia}
-{1001}{}{Góry}
+{1001}{}{GÃ³ry}
 {1002}{}{Miasto}
-{1003}{}{Wybrze¿e}
+{1003}{}{WybrzeÅ¼e}
 {1004}{}{Nieznane}
 {1500}{}{Zdobywasz 10000 PD!}
 {1501}{}{ruiny}
-{1502}{}{Samochód dalej nie pojedzie.}
-{1503}{}{Widzisz samochód. Nie wygl¹da na to, ¿eby by³ na chodzie.}
+{1502}{}{SamochÃ³d dalej nie pojedzie.}
+{1503}{}{Widzisz samochÃ³d. Nie wyglÄ…da na to, Å¼eby byÅ‚ na chodzie.}
 {2998}{}{Natrafiasz na}
-{2999}{}{Czy chcesz napotkaæ:}
-{3000}{}{Grupê oprychów.}
-{3001}{}{Kilka radskorpionów.}
+{2999}{}{Czy chcesz napotkaÄ‡:}
+{3000}{}{GrupÄ™ oprychÃ³w.}
+{3001}{}{Kilka radskorpionÃ³w.}
 {3002}{}{Olbrzymie szczury.}
-{3003}{}{Grupê kupców.}
+{3003}{}{GrupÄ™ kupcÃ³w.}
 {3004}{}{<Specjalne>}
-{3050}{}{Grupê oprychów.}
+{3050}{}{GrupÄ™ oprychÃ³w.}
 {3051}{}{Kilka modliszek.}
-{3052}{}{Grupê gekonów.}
-{3053}{}{Grupê kretoszczurów.}
-{3054}{}{Grupê radskorpionów.}
-{3055}{}{Grupê olbrzymich szczurów.}
-{3056}{}{Grupê kupców.}
+{3052}{}{GrupÄ™ gekonÃ³w.}
+{3053}{}{GrupÄ™ kretoszczurÃ³w.}
+{3054}{}{GrupÄ™ radskorpionÃ³w.}
+{3055}{}{GrupÄ™ olbrzymich szczurÃ³w.}
+{3056}{}{GrupÄ™ kupcÃ³w.}
 {3057}{}{<Specjalne>}
-{3100}{}{Grupê oprychów.}
-{3101}{}{Grupê radskorpionów.}
-{3102}{}{Grupê olbrzymich szczurów.}
-{3103}{}{Grupê kupców.}
+{3100}{}{GrupÄ™ oprychÃ³w.}
+{3101}{}{GrupÄ™ radskorpionÃ³w.}
+{3102}{}{GrupÄ™ olbrzymich szczurÃ³w.}
+{3103}{}{GrupÄ™ kupcÃ³w.}
 {3104}{}{<Specjalne>}
-{3150}{}{Grupê oprychów.}
-{3200}{}{Grupê oprychów.}
-{3250}{}{Grupê oprychów.}
-{3300}{}{Grupê wojowników.}
-{3301}{}{Grupê kanibali.}
-{3302}{}{Grupê roœlin i kilka srebrnych gekonów.}
-{3303}{}{Grupê srebrnych gekonów.}
-{3304}{}{Kilku ³owców nagród.}
-{3305}{}{Kilku ³owców nagród.}
-{3306}{}{Kilku ³owców nagród.}
-{3307}{}{Kilku ³owców nagród.}
-{3308}{}{Kilku ³owców nagród.}
-{3309}{}{Kilku ³owców nagród.}
-{3310}{}{Kilku ³owców nagród.}
-{3311}{}{Kilku ³owców nagród.}
-{3312}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3313}{}{Grupê radskorpionów.}
-{3314}{}{Grupê roœlin.}
-{3315}{}{Grupê œwinioszczurów.}
-{3316}{}{Grupê szczurów.}
-{3317}{}{Grupê ³owców poluj¹cych na kanibali.}
-{3318}{}{Grupê mrówek.}
-{3319}{}{Grupê ³owców walcz¹cych z radskorpionami.}
-{3320}{}{Ma³¹ grupkê œwinioszczurów.}
-{3321}{}{Ma³¹ grupkê radskorpionów.}
-{3322}{}{Ma³¹ grupkê mrówek.}
-{3323}{}{Grupê ³owców.}
-{3324}{}{Grupê nomadów.}
-{3325}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{3326}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{3327}{}{Bandê wœciek³ych wyrzutków.}
-{3350}{}{Sk³adowisko odpadów toksycznych.}
-{3351}{}{Samotnego, wyg³odzonego psa.}
+{3150}{}{GrupÄ™ oprychÃ³w.}
+{3200}{}{GrupÄ™ oprychÃ³w.}
+{3250}{}{GrupÄ™ oprychÃ³w.}
+{3300}{}{GrupÄ™ wojownikÃ³w.}
+{3301}{}{GrupÄ™ kanibali.}
+{3302}{}{GrupÄ™ roÅ›lin i kilka srebrnych gekonÃ³w.}
+{3303}{}{GrupÄ™ srebrnych gekonÃ³w.}
+{3304}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3305}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3306}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3307}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3308}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3309}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3310}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3311}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3312}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3313}{}{GrupÄ™ radskorpionÃ³w.}
+{3314}{}{GrupÄ™ roÅ›lin.}
+{3315}{}{GrupÄ™ Å›winioszczurÃ³w.}
+{3316}{}{GrupÄ™ szczurÃ³w.}
+{3317}{}{GrupÄ™ Å‚owcÃ³w polujÄ…cych na kanibali.}
+{3318}{}{GrupÄ™ mrÃ³wek.}
+{3319}{}{GrupÄ™ Å‚owcÃ³w walczÄ…cych z radskorpionami.}
+{3320}{}{MaÅ‚Ä… grupkÄ™ Å›winioszczurÃ³w.}
+{3321}{}{MaÅ‚Ä… grupkÄ™ radskorpionÃ³w.}
+{3322}{}{MaÅ‚Ä… grupkÄ™ mrÃ³wek.}
+{3323}{}{GrupÄ™ Å‚owcÃ³w.}
+{3324}{}{GrupÄ™ nomadÃ³w.}
+{3325}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{3326}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{3327}{}{BandÄ™ wÅ›ciekÅ‚ych wyrzutkÃ³w.}
+{3350}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{3351}{}{Samotnego, wygÅ‚odzonego psa.}
 {3352}{}{Stado bramin.}
-{3353}{}{Grupê wojowników.}
-{3354}{}{Kilku ³owców nagród.}
-{3355}{}{Kilku ³owców nagród.}
-{3356}{}{Kilku ³owców nagród.}
-{3357}{}{Kilku ³owców nagród.}
-{3358}{}{Kilku ³owców nagród.}
-{3359}{}{Kilku ³owców nagród.}
-{3360}{}{Kilku ³owców nagród.}
-{3361}{}{Kilku ³owców nagród.}
-{3362}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3363}{}{Grupê kanibali.}
-{3364}{}{Grupê roœlin i kilka srebrnych gekonów.}
-{3365}{}{Grupê srebrnych gekonów.}
-{3366}{}{Grupê radskorpionów.}
-{3367}{}{Grupê roœlin.}
-{3368}{}{Grupê œwinioszczurów.}
-{3369}{}{Grupê szczurów.}
-{3370}{}{Grupê ³owców poluj¹cych na kanibali.}
-{3371}{}{Grupê mrówek.}
-{3372}{}{Grupê ³owców walcz¹cych z radskorpionami.}
-{3373}{}{Ma³¹ grupkê œwinioszczurów.}
-{3374}{}{Ma³¹ grupkê radskorpionów.}
-{3375}{}{Ma³¹ grupkê mrówek.}
-{3376}{}{Grupê ³owców.}
-{3377}{}{Grupê nomadów.}
+{3353}{}{GrupÄ™ wojownikÃ³w.}
+{3354}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3355}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3356}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3357}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3358}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3359}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3360}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3361}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3362}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3363}{}{GrupÄ™ kanibali.}
+{3364}{}{GrupÄ™ roÅ›lin i kilka srebrnych gekonÃ³w.}
+{3365}{}{GrupÄ™ srebrnych gekonÃ³w.}
+{3366}{}{GrupÄ™ radskorpionÃ³w.}
+{3367}{}{GrupÄ™ roÅ›lin.}
+{3368}{}{GrupÄ™ Å›winioszczurÃ³w.}
+{3369}{}{GrupÄ™ szczurÃ³w.}
+{3370}{}{GrupÄ™ Å‚owcÃ³w polujÄ…cych na kanibali.}
+{3371}{}{GrupÄ™ mrÃ³wek.}
+{3372}{}{GrupÄ™ Å‚owcÃ³w walczÄ…cych z radskorpionami.}
+{3373}{}{MaÅ‚Ä… grupkÄ™ Å›winioszczurÃ³w.}
+{3374}{}{MaÅ‚Ä… grupkÄ™ radskorpionÃ³w.}
+{3375}{}{MaÅ‚Ä… grupkÄ™ mrÃ³wek.}
+{3376}{}{GrupÄ™ Å‚owcÃ³w.}
+{3377}{}{GrupÄ™ nomadÃ³w.}
 {3378}{}{Resztki wieloryba.}
-{3379}{}{Wielk¹ kamienn¹ g³owê.}
-{3380}{}{Rozbity wahad³owiec.}
-{3381}{}{Portal stra¿niczy.}
-{3382}{}{Rycerzy Króla Artura.}
+{3379}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{3380}{}{Rozbity wahadÅ‚owiec.}
+{3381}{}{Portal straÅ¼niczy.}
+{3382}{}{Rycerzy KrÃ³la Artura.}
 {3383}{}{Blaszanego drwala.}
-{3384}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{3385}{}{Bandê wœciek³ych wyrzutków.}
-{3400}{}{Grupê wojowników.}
-{3401}{}{Grupê kanibali.}
-{3402}{}{Grupê roœlin i kilka srebrnych gekonów.}
-{3403}{}{Grupê srebrnych gekonów.}
-{3404}{}{Kilku ³owców nagród.}
-{3405}{}{Kilku ³owców nagród.}
-{3406}{}{Kilku ³owców nagród.}
-{3407}{}{Kilku ³owców nagród.}
-{3408}{}{Kilku ³owców nagród.}
-{3409}{}{Kilku ³owców nagród.}
-{3410}{}{Kilku ³owców nagród.}
-{3411}{}{Kilku ³owców nagród.}
-{3412}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3413}{}{Grupê radskorpionów.}
-{3414}{}{Grupê roœlin.}
-{3415}{}{Grupê œwinioszczurów.}
-{3416}{}{Grupê szczurów.}
-{3417}{}{Grupê ³owców poluj¹cych na kanibali.}
-{3418}{}{Grupê mrówek.}
-{3419}{}{Grupê ³owców walcz¹cych z radskorpionami.}
-{3420}{}{Ma³¹ grupkê œwinioszczurów.}
-{3421}{}{Ma³¹ grupkê radskorpionów.}
-{3422}{}{Ma³¹ grupkê mrówek.}
-{3423}{}{Grupê ³owców.}
-{3424}{}{Grupê nomadów.}
-{3425}{}{Bandê wœciek³ych wyrzutków.}
-{3450}{}{Sk³adowisko odpadów toksycznych.}
-{3451}{}{Samotnego, wyg³odzonego psa.}
+{3384}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{3385}{}{BandÄ™ wÅ›ciekÅ‚ych wyrzutkÃ³w.}
+{3400}{}{GrupÄ™ wojownikÃ³w.}
+{3401}{}{GrupÄ™ kanibali.}
+{3402}{}{GrupÄ™ roÅ›lin i kilka srebrnych gekonÃ³w.}
+{3403}{}{GrupÄ™ srebrnych gekonÃ³w.}
+{3404}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3405}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3406}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3407}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3408}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3409}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3410}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3411}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3412}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3413}{}{GrupÄ™ radskorpionÃ³w.}
+{3414}{}{GrupÄ™ roÅ›lin.}
+{3415}{}{GrupÄ™ Å›winioszczurÃ³w.}
+{3416}{}{GrupÄ™ szczurÃ³w.}
+{3417}{}{GrupÄ™ Å‚owcÃ³w polujÄ…cych na kanibali.}
+{3418}{}{GrupÄ™ mrÃ³wek.}
+{3419}{}{GrupÄ™ Å‚owcÃ³w walczÄ…cych z radskorpionami.}
+{3420}{}{MaÅ‚Ä… grupkÄ™ Å›winioszczurÃ³w.}
+{3421}{}{MaÅ‚Ä… grupkÄ™ radskorpionÃ³w.}
+{3422}{}{MaÅ‚Ä… grupkÄ™ mrÃ³wek.}
+{3423}{}{GrupÄ™ Å‚owcÃ³w.}
+{3424}{}{GrupÄ™ nomadÃ³w.}
+{3425}{}{BandÄ™ wÅ›ciekÅ‚ych wyrzutkÃ³w.}
+{3450}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{3451}{}{Samotnego, wygÅ‚odzonego psa.}
 {3452}{}{Stado bramin.}
-{3453}{}{Bandê wyrzutków.}
-{3454}{}{Kilku ³owców nagród.}
-{3455}{}{Kilku ³owców nagród.}
-{3456}{}{Kilku ³owców nagród.}
-{3457}{}{Kilku ³owców nagród.}
-{3458}{}{Kilku ³owców nagród.}
-{3459}{}{Kilku ³owców nagród.}
-{3460}{}{Kilku ³owców nagród.}
-{3461}{}{Kilku ³owców nagród.}
-{3462}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3463}{}{Grupê nawiedzonych ludzi.}
-{3464}{}{Kilka gekonów i drapie¿nych roœlin.}
-{3465}{}{Kilka gekonów.}
-{3466}{}{Kilka radskorpionów kryj¹cych siê wœród roœlin.}
-{3467}{}{Kilka roœlin.}
-{3468}{}{Rodzinkê radskorpionów.}
-{3469}{}{Grupê kretoszczurów.}
-{3470}{}{Grupê nawiedzonych ludzi ok³adaj¹cych laskami kilku wojowników.}
-{3471}{}{Grupê nomadów.}
+{3453}{}{BandÄ™ wyrzutkÃ³w.}
+{3454}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3455}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3456}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3457}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3458}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3459}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3460}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3461}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3462}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3463}{}{GrupÄ™ nawiedzonych ludzi.}
+{3464}{}{Kilka gekonÃ³w i drapieÅ¼nych roÅ›lin.}
+{3465}{}{Kilka gekonÃ³w.}
+{3466}{}{Kilka radskorpionÃ³w kryjÄ…cych siÄ™ wÅ›rÃ³d roÅ›lin.}
+{3467}{}{Kilka roÅ›lin.}
+{3468}{}{RodzinkÄ™ radskorpionÃ³w.}
+{3469}{}{GrupÄ™ kretoszczurÃ³w.}
+{3470}{}{GrupÄ™ nawiedzonych ludzi okÅ‚adajÄ…cych laskami kilku wojownikÃ³w.}
+{3471}{}{GrupÄ™ nomadÃ³w.}
 {3472}{}{Resztki wieloryba.}
-{3473}{}{Wielk¹ kamienn¹ g³owê.}
-{3474}{}{Rozbity wahad³owiec.}
-{3475}{}{Portal stra¿niczy.}
-{3476}{}{Rycerzy Króla Artura.}
+{3473}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{3474}{}{Rozbity wahadÅ‚owiec.}
+{3475}{}{Portal straÅ¼niczy.}
+{3476}{}{Rycerzy KrÃ³la Artura.}
 {3477}{}{Blaszanego drwala.}
-{3478}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{3479}{}{Bandê wœciek³ych wyrzutków.}
-{3500}{}{Bandê wyrzutków.}
-{3501}{}{Grupê nawiedzonych ludzi.}
-{3502}{}{Kilku ³owców nagród.}
-{3503}{}{Kilku ³owców nagród.}
-{3504}{}{Kilku ³owców nagród.}
-{3505}{}{Kilku ³owców nagród.}
-{3506}{}{Kilku ³owców nagród.}
-{3507}{}{Kilku ³owców nagród.}
-{3508}{}{Kilku ³owców nagród.}
-{3509}{}{Kilku ³owców nagród.}
-{3510}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3511}{}{Kilka srebnych gekonów kryj¹cych siê poœród roœlin.}
-{3512}{}{Kilka gekonów.}
-{3513}{}{Kilka radskorpionów kryj¹cych siê wœród roœlin.}
-{3514}{}{Kilka roœlin.}
-{3515}{}{Rodzinkê radskorpionów.}
-{3516}{}{Grupê kretoszczurów.}
-{3517}{}{Grupê nawiedzonych ludzi ok³adaj¹cych laskami kilku wojowników.}
-{3518}{}{Grupê nomadów.}
-{3519}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{3520}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{3521}{}{Bandê wœciek³ych wyrzutków.}
-{3550}{}{Sk³adowisko odpadów toksycznych}
-{3551}{}{Samotnego, wyg³odzonego psa.}
+{3478}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{3479}{}{BandÄ™ wÅ›ciekÅ‚ych wyrzutkÃ³w.}
+{3500}{}{BandÄ™ wyrzutkÃ³w.}
+{3501}{}{GrupÄ™ nawiedzonych ludzi.}
+{3502}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3503}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3504}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3505}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3506}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3507}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3508}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3509}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3510}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3511}{}{Kilka srebnych gekonÃ³w kryjÄ…cych siÄ™ poÅ›rÃ³d roÅ›lin.}
+{3512}{}{Kilka gekonÃ³w.}
+{3513}{}{Kilka radskorpionÃ³w kryjÄ…cych siÄ™ wÅ›rÃ³d roÅ›lin.}
+{3514}{}{Kilka roÅ›lin.}
+{3515}{}{RodzinkÄ™ radskorpionÃ³w.}
+{3516}{}{GrupÄ™ kretoszczurÃ³w.}
+{3517}{}{GrupÄ™ nawiedzonych ludzi okÅ‚adajÄ…cych laskami kilku wojownikÃ³w.}
+{3518}{}{GrupÄ™ nomadÃ³w.}
+{3519}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{3520}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{3521}{}{BandÄ™ wÅ›ciekÅ‚ych wyrzutkÃ³w.}
+{3550}{}{SkÅ‚adowisko odpadÃ³w toksycznych}
+{3551}{}{Samotnego, wygÅ‚odzonego psa.}
 {3552}{}{Stado bramin.}
-{3553}{}{Zgrajê z³ocistych gekonów i rodzinkê radskorpionów.}
-{3554}{}{Kilku bandytów.}
-{3555}{}{Grupê bezdomnych.}
-{3556}{}{Zgrajê z³ocistych gekonów.}
-{3557}{}{Kilku ³owców nagród.}
-{3558}{}{Kilku ³owców nagród.}
-{3559}{}{Kilku ³owców nagród.}
-{3560}{}{Kilku ³owców nagród.}
-{3561}{}{Kilku ³owców nagród.}
-{3562}{}{Kilku ³owców nagród.}
-{3563}{}{Kilku ³owców nagród.}
-{3564}{}{Kilku ³owców nagród.}
-{3565}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3566}{}{Rodzinkê radskorpionów.}
-{3567}{}{Kilka roœlin.}
-{3568}{}{Kilku bandytów atakowanych przez grupkê z³ocistych gekonów.}
-{3569}{}{Kilku farmerów broni¹cych siê przed grupk¹ gekonów.}
-{3570}{}{Kilku farmerów odpieraj¹cych atak grupki z³ocistych gekonów.}
-{3571}{}{Kilku traperów walcz¹cych ze z³ocistymi gekonami.}
-{3572}{}{Kilku traperów odpieraj¹cych atak grupki bandytów.}
-{3573}{}{Grupê traperów ujarzmiaj¹cych kilka gekonów.}
-{3574}{}{Kilku bandytów zasadzaj¹cych siê na grupê bezdomnych.}
-{3575}{}{Kilku bezdomnych wyrzynaj¹cych paru farmerów.}
-{3576}{}{Kilku bandytów atakuj¹cych paru farmerów.}
-{3577}{}{Kilku farmerów odganiaj¹cych parê radskorpionów.}
-{3578}{}{Paru traperów walcz¹cych z kilkoma radskorpionami.}
-{3579}{}{Paru traperów atakuj¹cych kilka œwinioszczurów.}
-{3580}{}{Kilku farmerów likwiduj¹cych plagê œwinioszczurów.}
-{3581}{}{Kilku farmerów.}
-{3582}{}{Grupê traperów.}
+{3553}{}{ZgrajÄ™ zÅ‚ocistych gekonÃ³w i rodzinkÄ™ radskorpionÃ³w.}
+{3554}{}{Kilku bandytÃ³w.}
+{3555}{}{GrupÄ™ bezdomnych.}
+{3556}{}{ZgrajÄ™ zÅ‚ocistych gekonÃ³w.}
+{3557}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3558}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3559}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3560}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3561}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3562}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3563}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3564}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3565}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3566}{}{RodzinkÄ™ radskorpionÃ³w.}
+{3567}{}{Kilka roÅ›lin.}
+{3568}{}{Kilku bandytÃ³w atakowanych przez grupkÄ™ zÅ‚ocistych gekonÃ³w.}
+{3569}{}{Kilku farmerÃ³w broniÄ…cych siÄ™ przed grupkÄ… gekonÃ³w.}
+{3570}{}{Kilku farmerÃ³w odpierajÄ…cych atak grupki zÅ‚ocistych gekonÃ³w.}
+{3571}{}{Kilku traperÃ³w walczÄ…cych ze zÅ‚ocistymi gekonami.}
+{3572}{}{Kilku traperÃ³w odpierajÄ…cych atak grupki bandytÃ³w.}
+{3573}{}{GrupÄ™ traperÃ³w ujarzmiajÄ…cych kilka gekonÃ³w.}
+{3574}{}{Kilku bandytÃ³w zasadzajÄ…cych siÄ™ na grupÄ™ bezdomnych.}
+{3575}{}{Kilku bezdomnych wyrzynajÄ…cych paru farmerÃ³w.}
+{3576}{}{Kilku bandytÃ³w atakujÄ…cych paru farmerÃ³w.}
+{3577}{}{Kilku farmerÃ³w odganiajÄ…cych parÄ™ radskorpionÃ³w.}
+{3578}{}{Paru traperÃ³w walczÄ…cych z kilkoma radskorpionami.}
+{3579}{}{Paru traperÃ³w atakujÄ…cych kilka Å›winioszczurÃ³w.}
+{3580}{}{Kilku farmerÃ³w likwidujÄ…cych plagÄ™ Å›winioszczurÃ³w.}
+{3581}{}{Kilku farmerÃ³w.}
+{3582}{}{GrupÄ™ traperÃ³w.}
 {3583}{}{Resztki wieloryba.}
-{3584}{}{Wielk¹ kamienn¹ g³owê.}
-{3585}{}{Rozbity wahad³owiec.}
-{3586}{}{Portal stra¿niczy.}
-{3587}{}{Rycerzy Króla Artura.}
+{3584}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{3585}{}{Rozbity wahadÅ‚owiec.}
+{3586}{}{Portal straÅ¼niczy.}
+{3587}{}{Rycerzy KrÃ³la Artura.}
 {3588}{}{Blaszanego drwala.}
-{3589}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{3600}{}{Zgrajê z³ocistych gekonów i rodzinkê radskorpionów.}
-{3601}{}{Kilku bandytów.}
-{3602}{}{Grupê bezdomnych.}
-{3603}{}{Zgrajê z³ocistych gekonów.}
-{3604}{}{Kilku ³owców nagród.}
-{3605}{}{Kilku ³owców nagród.}
-{3606}{}{Kilku ³owców nagród.}
-{3607}{}{Kilku ³owców nagród.}
-{3608}{}{Kilku ³owców nagród.}
-{3609}{}{Kilku ³owców nagród.}
-{3610}{}{Kilku ³owców nagród.}
-{3611}{}{Kilku ³owców nagród.}
-{3612}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3613}{}{Rodzinkê radskorpionów.}
-{3614}{}{Kilka roœlin.}
-{3615}{}{Kilku bandytów atakowanych przez grupkê z³ocistych gekonów.}
-{3616}{}{Kilku farmerów broni¹cych siê przed grupk¹ gekonów.}
-{3617}{}{Kilku farmerów odpieraj¹cych atak grupki z³ocistych gekonów.}
-{3618}{}{Kilku traperów walcz¹cych ze z³ocistymi gekonami.}
-{3619}{}{Kilku traperów odpieraj¹cych atak grupki bandytów.}
-{3620}{}{Grupê traperów ujarzmiaj¹cych kilka gekonów.}
-{3621}{}{Kilku bandytów zasadzaj¹cych siê na grupê bezdomnych.}
-{3622}{}{Kilku bezdomnych wyrzynaj¹cych paru farmerów.}
-{3623}{}{Kilku bandytów atakuj¹cych paru farmerów.}
-{3624}{}{Kilku farmerów odganiaj¹cych parê radskorpionów.}
-{3625}{}{Paru traperów walcz¹cych z kilkoma radskorpionami.}
-{3626}{}{Paru traperów atakuj¹cych kilka œwinioszczurów.}
-{3627}{}{Kilku farmerów likwiduj¹cych plagê œwinioszczurów.}
-{3628}{}{Kilku farmerów.}
-{3629}{}{Grupê traperów.}
-{3630}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{3631}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{3632}{}{Bandê wœciek³ych wyrzutków.}
-{3650}{}{Sk³adowisko odpadów toksycznych.}
-{3651}{}{Samotnego, wyg³odzonego psa.}
+{3589}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{3600}{}{ZgrajÄ™ zÅ‚ocistych gekonÃ³w i rodzinkÄ™ radskorpionÃ³w.}
+{3601}{}{Kilku bandytÃ³w.}
+{3602}{}{GrupÄ™ bezdomnych.}
+{3603}{}{ZgrajÄ™ zÅ‚ocistych gekonÃ³w.}
+{3604}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3605}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3606}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3607}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3608}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3609}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3610}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3611}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3612}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3613}{}{RodzinkÄ™ radskorpionÃ³w.}
+{3614}{}{Kilka roÅ›lin.}
+{3615}{}{Kilku bandytÃ³w atakowanych przez grupkÄ™ zÅ‚ocistych gekonÃ³w.}
+{3616}{}{Kilku farmerÃ³w broniÄ…cych siÄ™ przed grupkÄ… gekonÃ³w.}
+{3617}{}{Kilku farmerÃ³w odpierajÄ…cych atak grupki zÅ‚ocistych gekonÃ³w.}
+{3618}{}{Kilku traperÃ³w walczÄ…cych ze zÅ‚ocistymi gekonami.}
+{3619}{}{Kilku traperÃ³w odpierajÄ…cych atak grupki bandytÃ³w.}
+{3620}{}{GrupÄ™ traperÃ³w ujarzmiajÄ…cych kilka gekonÃ³w.}
+{3621}{}{Kilku bandytÃ³w zasadzajÄ…cych siÄ™ na grupÄ™ bezdomnych.}
+{3622}{}{Kilku bezdomnych wyrzynajÄ…cych paru farmerÃ³w.}
+{3623}{}{Kilku bandytÃ³w atakujÄ…cych paru farmerÃ³w.}
+{3624}{}{Kilku farmerÃ³w odganiajÄ…cych parÄ™ radskorpionÃ³w.}
+{3625}{}{Paru traperÃ³w walczÄ…cych z kilkoma radskorpionami.}
+{3626}{}{Paru traperÃ³w atakujÄ…cych kilka Å›winioszczurÃ³w.}
+{3627}{}{Kilku farmerÃ³w likwidujÄ…cych plagÄ™ Å›winioszczurÃ³w.}
+{3628}{}{Kilku farmerÃ³w.}
+{3629}{}{GrupÄ™ traperÃ³w.}
+{3630}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{3631}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{3632}{}{BandÄ™ wÅ›ciekÅ‚ych wyrzutkÃ³w.}
+{3650}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{3651}{}{Samotnego, wygÅ‚odzonego psa.}
 {3652}{}{Stado bramin.}
-{3653}{}{Kupca i kilku stra¿ników.}
-{3654}{}{Kilku ³owców nagród.}
-{3655}{}{Kilku ³owców nagród.}
-{3656}{}{Kilku ³owców nagród.}
-{3657}{}{Kilku ³owców nagród.}
-{3658}{}{Kilku ³owców nagród.}
-{3659}{}{Kilku ³owców nagród.}
-{3660}{}{Kilku ³owców nagród.}
-{3661}{}{Kilku ³owców nagród.}
-{3662}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3663}{}{Kilku traperów.}
-{3664}{}{Kilku bandytów atakuj¹cych grupê kupców.}
-{3665}{}{Kilku bandytów zasadzaj¹cych siê na paru traperów.}
-{3666}{}{Rodzinkê radskorpionów atakuj¹cych grupê kupców.}
-{3667}{}{Kilku traperów próbuj¹cych schwytaæ parê radskorpionów.}
-{3668}{}{Grupê radskorpionów.}
-{3669}{}{Rodzinkê kretoszczurów.}
-{3670}{}{Kilku bandytów.}
-{3671}{}{Bandê traperów usi³uj¹cych schwytaæ kilka z³ocistych gekonów.}
-{3672}{}{Kilka radskorpionów walcz¹cych ze paroma z³otymi gekonami.}
-{3673}{}{Kilka radskorpionów atakuj¹cych kilka kretoszczurów i œwinioszczurów.}
-{3674}{}{Kilku traperów i kupca, odpieraj¹cych atak bandytów.}
-{3675}{}{Kilka z³ocistych gekonów.}
-{3676}{}{Kilku traperów walcz¹cych z paroma kretoszczurami i œwinioszczurami.}
-{3677}{}{Grupê kupców odpieraj¹cych atak kilku kretoszczurów i œwinioszczurów.}
+{3653}{}{Kupca i kilku straÅ¼nikÃ³w.}
+{3654}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3655}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3656}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3657}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3658}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3659}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3660}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3661}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3662}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3663}{}{Kilku traperÃ³w.}
+{3664}{}{Kilku bandytÃ³w atakujÄ…cych grupÄ™ kupcÃ³w.}
+{3665}{}{Kilku bandytÃ³w zasadzajÄ…cych siÄ™ na paru traperÃ³w.}
+{3666}{}{RodzinkÄ™ radskorpionÃ³w atakujÄ…cych grupÄ™ kupcÃ³w.}
+{3667}{}{Kilku traperÃ³w prÃ³bujÄ…cych schwytaÄ‡ parÄ™ radskorpionÃ³w.}
+{3668}{}{GrupÄ™ radskorpionÃ³w.}
+{3669}{}{RodzinkÄ™ kretoszczurÃ³w.}
+{3670}{}{Kilku bandytÃ³w.}
+{3671}{}{BandÄ™ traperÃ³w usiÅ‚ujÄ…cych schwytaÄ‡ kilka zÅ‚ocistych gekonÃ³w.}
+{3672}{}{Kilka radskorpionÃ³w walczÄ…cych ze paroma zÅ‚otymi gekonami.}
+{3673}{}{Kilka radskorpionÃ³w atakujÄ…cych kilka kretoszczurÃ³w i Å›winioszczurÃ³w.}
+{3674}{}{Kilku traperÃ³w i kupca, odpierajÄ…cych atak bandytÃ³w.}
+{3675}{}{Kilka zÅ‚ocistych gekonÃ³w.}
+{3676}{}{Kilku traperÃ³w walczÄ…cych z paroma kretoszczurami i Å›winioszczurami.}
+{3677}{}{GrupÄ™ kupcÃ³w odpierajÄ…cych atak kilku kretoszczurÃ³w i Å›winioszczurÃ³w.}
 {3678}{}{Resztki wieloryba.}
-{3679}{}{Wielk¹ kamienn¹ g³owê.}
-{3680}{}{Rozbity wahad³owiec.}
-{3681}{}{Portal stra¿niczy.}
-{3682}{}{Rycerzy Króla Artura.}
+{3679}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{3680}{}{Rozbity wahadÅ‚owiec.}
+{3681}{}{Portal straÅ¼niczy.}
+{3682}{}{Rycerzy KrÃ³la Artura.}
 {3683}{}{Blaszanego drwala.}
-{3684}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{3685}{}{Bandê wœciek³ych wyrzutków.}
-{3700}{}{Sk³adowisko odpadów toksycznych.}
-{3701}{}{Samotnego, wyg³odzonego psa.}
+{3684}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{3685}{}{BandÄ™ wÅ›ciekÅ‚ych wyrzutkÃ³w.}
+{3700}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{3701}{}{Samotnego, wygÅ‚odzonego psa.}
 {3702}{}{Stado bramin.}
-{3703}{}{Bandê rozbójników.}
-{3704}{}{Kilku ³owców nagród.}
-{3705}{}{Kilku ³owców nagród.}
-{3706}{}{Kilku ³owców nagród.}
-{3707}{}{Kilku ³owców nagród.}
-{3708}{}{Kilku ³owców nagród.}
-{3709}{}{Kilku ³owców nagród.}
-{3710}{}{Kilku ³owców nagród.}
-{3711}{}{Kilku ³owców nagród.}
-{3712}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3713}{}{Bandê rabusiów.}
-{3714}{}{Grupê rabusiów i rozbójników.}
-{3715}{}{Kilka z³ocistych gekonów i radskorpionów.}
-{3716}{}{Rodzinkê z³ocistych gekonów.}
-{3717}{}{Rodzinkê kretoszczurów.}
-{3718}{}{Spor¹ grupê radskorpionów.}
-{3719}{}{Rozleg³¹ plagê roœlin.}
-{3720}{}{Bandê rabusiów spieraj¹cych siê z grup¹ rozbójników.}
-{3721}{}{Grupê kupców odpieraj¹cych atak rozbójników.}
-{3722}{}{Grupê kupców odpieraj¹cych atak rabusiów.}
-{3723}{}{Grupê kupców odpieraj¹cych atak radskorpionów.}
-{3724}{}{Grupê z³ocistych gekonów walcz¹cych z paroma radskorpionami.}
-{3725}{}{Kupca i kilku stra¿ników.}
+{3703}{}{BandÄ™ rozbÃ³jnikÃ³w.}
+{3704}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3705}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3706}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3707}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3708}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3709}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3710}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3711}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3712}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3713}{}{BandÄ™ rabusiÃ³w.}
+{3714}{}{GrupÄ™ rabusiÃ³w i rozbÃ³jnikÃ³w.}
+{3715}{}{Kilka zÅ‚ocistych gekonÃ³w i radskorpionÃ³w.}
+{3716}{}{RodzinkÄ™ zÅ‚ocistych gekonÃ³w.}
+{3717}{}{RodzinkÄ™ kretoszczurÃ³w.}
+{3718}{}{SporÄ… grupÄ™ radskorpionÃ³w.}
+{3719}{}{RozlegÅ‚Ä… plagÄ™ roÅ›lin.}
+{3720}{}{BandÄ™ rabusiÃ³w spierajÄ…cych siÄ™ z grupÄ… rozbÃ³jnikÃ³w.}
+{3721}{}{GrupÄ™ kupcÃ³w odpierajÄ…cych atak rozbÃ³jnikÃ³w.}
+{3722}{}{GrupÄ™ kupcÃ³w odpierajÄ…cych atak rabusiÃ³w.}
+{3723}{}{GrupÄ™ kupcÃ³w odpierajÄ…cych atak radskorpionÃ³w.}
+{3724}{}{GrupÄ™ zÅ‚ocistych gekonÃ³w walczÄ…cych z paroma radskorpionami.}
+{3725}{}{Kupca i kilku straÅ¼nikÃ³w.}
 {3726}{}{Resztki wieloryba.}
-{3727}{}{Wielk¹ kamienn¹ g³owê.}
-{3728}{}{Rozbity wahad³owiec.}
-{3729}{}{Portal stra¿niczy.}
-{3730}{}{Rycerzy Króla Artura.}
+{3727}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{3728}{}{Rozbity wahadÅ‚owiec.}
+{3729}{}{Portal straÅ¼niczy.}
+{3730}{}{Rycerzy KrÃ³la Artura.}
 {3731}{}{Blaszanego drwala.}
-{3732}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{3750}{}{Bandê rozbójników.}
-{3751}{}{Bandê rabusiów.}
-{3752}{}{Grupê rabusiów i rozbójników.}
-{3753}{}{Kilka z³ocistych gekonów i radskorpionów.}
-{3754}{}{Kilku ³owców nagród.}
-{3755}{}{Kilku ³owców nagród.}
-{3756}{}{Kilku ³owców nagród.}
-{3757}{}{Kilku ³owców nagród.}
-{3758}{}{Kilku ³owców nagród.}
-{3759}{}{Kilku ³owców nagród.}
-{3760}{}{Kilku ³owców nagród.}
-{3761}{}{Kilku ³owców nagród.}
-{3762}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3763}{}{Rodzinkê z³ocistych gekonów.}
-{3764}{}{Rodzinkê kretoszczurów.}
-{3765}{}{Spor¹ grupê radskorpionów.}
-{3766}{}{Rozleg³¹ plagê roœlin.}
-{3767}{}{Bandê rabusiów spieraj¹cych siê z grup¹ rozbójników.}
-{3768}{}{Grupê kupców odpieraj¹cych atak rozbójników.}
-{3769}{}{Grupê kupców odpieraj¹cych atak rabusiów.}
-{3770}{}{Grupê kupców odpieraj¹cych atak radskorpionów.}
-{3771}{}{Grupê z³ocistych gekonów walcz¹cych z paroma radskorpionami.}
-{3772}{}{Kupca i kilku stra¿ników.}
-{3773}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{3774}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{3800}{}{Sk³adowisko odpadów toksycznych.}
-{3801}{}{Samotnego, wyg³odzonego psa.}
+{3732}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{3750}{}{BandÄ™ rozbÃ³jnikÃ³w.}
+{3751}{}{BandÄ™ rabusiÃ³w.}
+{3752}{}{GrupÄ™ rabusiÃ³w i rozbÃ³jnikÃ³w.}
+{3753}{}{Kilka zÅ‚ocistych gekonÃ³w i radskorpionÃ³w.}
+{3754}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3755}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3756}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3757}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3758}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3759}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3760}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3761}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3762}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3763}{}{RodzinkÄ™ zÅ‚ocistych gekonÃ³w.}
+{3764}{}{RodzinkÄ™ kretoszczurÃ³w.}
+{3765}{}{SporÄ… grupÄ™ radskorpionÃ³w.}
+{3766}{}{RozlegÅ‚Ä… plagÄ™ roÅ›lin.}
+{3767}{}{BandÄ™ rabusiÃ³w spierajÄ…cych siÄ™ z grupÄ… rozbÃ³jnikÃ³w.}
+{3768}{}{GrupÄ™ kupcÃ³w odpierajÄ…cych atak rozbÃ³jnikÃ³w.}
+{3769}{}{GrupÄ™ kupcÃ³w odpierajÄ…cych atak rabusiÃ³w.}
+{3770}{}{GrupÄ™ kupcÃ³w odpierajÄ…cych atak radskorpionÃ³w.}
+{3771}{}{GrupÄ™ zÅ‚ocistych gekonÃ³w walczÄ…cych z paroma radskorpionami.}
+{3772}{}{Kupca i kilku straÅ¼nikÃ³w.}
+{3773}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{3774}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{3800}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{3801}{}{Samotnego, wygÅ‚odzonego psa.}
 {3802}{}{Stado bramin.}
-{3803}{}{Grupê ³owców niewolników i niewolników.}
-{3804}{}{Kilku ³owców nagród.}
-{3805}{}{Kilku ³owców nagród.}
-{3806}{}{Kilku ³owców nagród.}
-{3807}{}{Kilku ³owców nagród.}
-{3808}{}{Kilku ³owców nagród.}
-{3809}{}{Kilku ³owców nagród.}
-{3810}{}{Kilku ³owców nagród.}
-{3811}{}{Kilku ³owców nagród.}
-{3812}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3813}{}{Grupê rozbójników.}
-{3814}{}{Bandê rabusiów.}
-{3815}{}{Kilka z³ocistych gekonów kryj¹cych siê wœród sporej liczby roœlin.}
-{3816}{}{Zgrajê radskorpionów i parê kretoszczurów.}
-{3817}{}{Zgrajê radskorpionów.}
-{3818}{}{Grupê kretoszczurów.}
-{3819}{}{Bandê rabusiów zasadzaj¹cych siê na grupê rozbójników.}
-{3820}{}{Grupê ³owców niewolników próbuj¹cych zniewoliæ kilku ludzi.}
-{3821}{}{Grupê ³owców niewolników odpieraj¹cych atak kilku rabusiów.}
-{3822}{}{Grupê ³owców niewolników i samych niewolników odpieraj¹cych atak z³ocistych gekonów.}
-{3823}{}{Kilka radskorpionów napadaj¹cych na zgrajê furiatów.}
-{3824}{}{Zgrajê furiatów.}
+{3803}{}{GrupÄ™ Å‚owcÃ³w niewolnikÃ³w i niewolnikÃ³w.}
+{3804}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3805}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3806}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3807}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3808}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3809}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3810}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3811}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3812}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3813}{}{GrupÄ™ rozbÃ³jnikÃ³w.}
+{3814}{}{BandÄ™ rabusiÃ³w.}
+{3815}{}{Kilka zÅ‚ocistych gekonÃ³w kryjÄ…cych siÄ™ wÅ›rÃ³d sporej liczby roÅ›lin.}
+{3816}{}{ZgrajÄ™ radskorpionÃ³w i parÄ™ kretoszczurÃ³w.}
+{3817}{}{ZgrajÄ™ radskorpionÃ³w.}
+{3818}{}{GrupÄ™ kretoszczurÃ³w.}
+{3819}{}{BandÄ™ rabusiÃ³w zasadzajÄ…cych siÄ™ na grupÄ™ rozbÃ³jnikÃ³w.}
+{3820}{}{GrupÄ™ Å‚owcÃ³w niewolnikÃ³w prÃ³bujÄ…cych zniewoliÄ‡ kilku ludzi.}
+{3821}{}{GrupÄ™ Å‚owcÃ³w niewolnikÃ³w odpierajÄ…cych atak kilku rabusiÃ³w.}
+{3822}{}{GrupÄ™ Å‚owcÃ³w niewolnikÃ³w i samych niewolnikÃ³w odpierajÄ…cych atak zÅ‚ocistych gekonÃ³w.}
+{3823}{}{Kilka radskorpionÃ³w napadajÄ…cych na zgrajÄ™ furiatÃ³w.}
+{3824}{}{ZgrajÄ™ furiatÃ³w.}
 {3825}{}{Resztki wieloryba.}
-{3826}{}{Wielk¹ kamienn¹ g³owê.}
-{3827}{}{Rozbity wahad³owiec.}
-{3828}{}{Portal stra¿niczy.}
-{3829}{}{Rycerzy Króla Artura.}
+{3826}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{3827}{}{Rozbity wahadÅ‚owiec.}
+{3828}{}{Portal straÅ¼niczy.}
+{3829}{}{Rycerzy KrÃ³la Artura.}
 {3830}{}{Blaszanego drwala.}
-{3831}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{3850}{}{Grupê ³owców niewolników i niewolników.}
-{3851}{}{Grupê rozbójników.}
-{3852}{}{Bandê rabusiów.}
-{3853}{}{Kilka z³ocistych gekonów kryj¹cych siê wœród sporej liczby roœlin.}
-{3854}{}{Kilku ³owców nagród.}
-{3855}{}{Kilku ³owców nagród.}
-{3856}{}{Kilku ³owców nagród.}
-{3857}{}{Kilku ³owców nagród.}
-{3858}{}{Kilku ³owców nagród.}
-{3859}{}{Kilku ³owców nagród.}
-{3860}{}{Kilku ³owców nagród.}
-{3861}{}{Kilku ³owców nagród.}
-{3862}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3863}{}{Zgrajê radskorpionów i parê kretoszczurów.}
-{3864}{}{Zgrajê radskorpionów.}
-{3865}{}{Grupê kretoszczurów.}
-{3866}{}{Bandê rabusiów zasadzaj¹cych siê na grupê rozbójników.}
-{3867}{}{Grupê ³owców niewolników próbuj¹cych zniewoliæ kilku ludzi.}
-{3868}{}{Grupê ³owców niewolników odpieraj¹cych atak kilku rabusiów.}
-{3869}{}{Grupê ³owców niewolników i samych niewolników odpieraj¹cych atak z³ocistych gekonów.}
-{3870}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{3871}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{3900}{}{Kilku rozbójników i rabusiów.}
-{3901}{}{Kilku rozbójników.}
-{3902}{}{Spore stado z³ocistych gekonów.}
-{3903}{}{Kilka radskorpionów kryj¹cych siê poœród roœlin.}
-{3904}{}{Kilku ³owców nagród.}
-{3905}{}{Kilku ³owców nagród.}
-{3906}{}{Kilku ³owców nagród.}
-{3907}{}{Kilku ³owców nagród.}
-{3908}{}{Kilku ³owców nagród.}
-{3909}{}{Kilku ³owców nagród.}
-{3910}{}{Kilku ³owców nagród.}
-{3911}{}{Kilku ³owców nagród.}
-{3912}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{3913}{}{Kilku rabusiów walcz¹cych z paroma radskorpionami.}
-{3914}{}{Kilku rabusiów.}
-{3915}{}{Grupê kupców atakowanych przez rozbójników.}
-{3916}{}{Grupê kupców napadniêtych przez rabusiów.}
-{3917}{}{Kilku rozbójników atakowanych przez roœliny.}
-{3918}{}{Grupê kupców.}
-{3919}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{3920}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{3921}{}{Kilku wkurzonych bandytów.}
-{3950}{}{Kilku rozbójników.}
-{3951}{}{Kilku rabusiów.}
+{3831}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{3850}{}{GrupÄ™ Å‚owcÃ³w niewolnikÃ³w i niewolnikÃ³w.}
+{3851}{}{GrupÄ™ rozbÃ³jnikÃ³w.}
+{3852}{}{BandÄ™ rabusiÃ³w.}
+{3853}{}{Kilka zÅ‚ocistych gekonÃ³w kryjÄ…cych siÄ™ wÅ›rÃ³d sporej liczby roÅ›lin.}
+{3854}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3855}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3856}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3857}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3858}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3859}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3860}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3861}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3862}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3863}{}{ZgrajÄ™ radskorpionÃ³w i parÄ™ kretoszczurÃ³w.}
+{3864}{}{ZgrajÄ™ radskorpionÃ³w.}
+{3865}{}{GrupÄ™ kretoszczurÃ³w.}
+{3866}{}{BandÄ™ rabusiÃ³w zasadzajÄ…cych siÄ™ na grupÄ™ rozbÃ³jnikÃ³w.}
+{3867}{}{GrupÄ™ Å‚owcÃ³w niewolnikÃ³w prÃ³bujÄ…cych zniewoliÄ‡ kilku ludzi.}
+{3868}{}{GrupÄ™ Å‚owcÃ³w niewolnikÃ³w odpierajÄ…cych atak kilku rabusiÃ³w.}
+{3869}{}{GrupÄ™ Å‚owcÃ³w niewolnikÃ³w i samych niewolnikÃ³w odpierajÄ…cych atak zÅ‚ocistych gekonÃ³w.}
+{3870}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{3871}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{3900}{}{Kilku rozbÃ³jnikÃ³w i rabusiÃ³w.}
+{3901}{}{Kilku rozbÃ³jnikÃ³w.}
+{3902}{}{Spore stado zÅ‚ocistych gekonÃ³w.}
+{3903}{}{Kilka radskorpionÃ³w kryjÄ…cych siÄ™ poÅ›rÃ³d roÅ›lin.}
+{3904}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3905}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3906}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3907}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3908}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3909}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3910}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3911}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3912}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{3913}{}{Kilku rabusiÃ³w walczÄ…cych z paroma radskorpionami.}
+{3914}{}{Kilku rabusiÃ³w.}
+{3915}{}{GrupÄ™ kupcÃ³w atakowanych przez rozbÃ³jnikÃ³w.}
+{3916}{}{GrupÄ™ kupcÃ³w napadniÄ™tych przez rabusiÃ³w.}
+{3917}{}{Kilku rozbÃ³jnikÃ³w atakowanych przez roÅ›liny.}
+{3918}{}{GrupÄ™ kupcÃ³w.}
+{3919}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{3920}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{3921}{}{Kilku wkurzonych bandytÃ³w.}
+{3950}{}{Kilku rozbÃ³jnikÃ³w.}
+{3951}{}{Kilku rabusiÃ³w.}
 {3952}{}{Kilku bezdomnych.}
-{3953}{}{Kilka z³ocistych gekonów i modliszek.}
-{3954}{}{Kilku ³owców nagród.}
-{3955}{}{Kilku ³owców nagród.}
-{3956}{}{Kilku ³owców nagród.}
-{3957}{}{Kilku ³owców nagród.}
-{3958}{}{Kilku ³owców nagród.}
-{3959}{}{Kilku ³owców nagród.}
-{3960}{}{Kilku ³owców nagród.}
-{3961}{}{Kilku ³owców nagród.}
-{3962}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
+{3953}{}{Kilka zÅ‚ocistych gekonÃ³w i modliszek.}
+{3954}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3955}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3956}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3957}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3958}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3959}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3960}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3961}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{3962}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
 {3963}{}{Kilka dzikich bramin.}
-{3964}{}{Kilka radskorpionów.}
-{3965}{}{Kilku bimbrowników atakowanych przez rozbójników.}
-{3966}{}{Kilku rozbójników atakuj¹cych grupê bezdomnych.}
-{3967}{}{Kilku bimbrowników i farmerów.}
-{3968}{}{Parê modliszek atakuj¹cych farmerów.}
-{3969}{}{Kilku bimbrowników naparzaj¹cych siê z farmerami.}
-{3970}{}{Kilka bramin odpieraj¹cych atak modliszek.}
-{3971}{}{Modliszki atakuj¹ce kilka kretoszczurów.}
-{3972}{}{Kilku bimbrowników.}
-{3973}{}{Kilku farmerów.}
+{3964}{}{Kilka radskorpionÃ³w.}
+{3965}{}{Kilku bimbrownikÃ³w atakowanych przez rozbÃ³jnikÃ³w.}
+{3966}{}{Kilku rozbÃ³jnikÃ³w atakujÄ…cych grupÄ™ bezdomnych.}
+{3967}{}{Kilku bimbrownikÃ³w i farmerÃ³w.}
+{3968}{}{ParÄ™ modliszek atakujÄ…cych farmerÃ³w.}
+{3969}{}{Kilku bimbrownikÃ³w naparzajÄ…cych siÄ™ z farmerami.}
+{3970}{}{Kilka bramin odpierajÄ…cych atak modliszek.}
+{3971}{}{Modliszki atakujÄ…ce kilka kretoszczurÃ³w.}
+{3972}{}{Kilku bimbrownikÃ³w.}
+{3973}{}{Kilku farmerÃ³w.}
 {3974}{}{Stado bramin.}
-{3975}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{3976}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{3977}{}{Kilku wkurzonych bandytów.}
-{4000}{}{Kilku rozbójników tropi¹cych coœ za pomoc¹ dzikich psów.}
-{4001}{}{Kilku rabusiów prowadz¹cych poszukiwania z psem.}
-{4002}{}{Bandê rabusiów.}
-{4003}{}{Bandê rozbójników.}
-{4004}{}{Kilku ³owców nagród.}
-{4005}{}{Kilku ³owców nagród.}
-{4006}{}{Kilku ³owców nagród.}
-{4007}{}{Kilku ³owców nagród.}
-{4008}{}{Kilku ³owców nagród.}
-{4009}{}{Kilku ³owców nagród.}
-{4010}{}{Kilku ³owców nagród.}
-{4011}{}{Kilku ³owców nagród.}
-{4012}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4013}{}{Chmarê modliszek masowo atakuj¹cych kilka roœlin.}
-{4014}{}{Zgrajê dzikich psów wœród kilku roœlin.}
-{4015}{}{Chmarê modliszek.}
-{4016}{}{Zgrajê dzikich psów.}
-{4017}{}{Kilku rabusiów odpêdzaj¹cych zgrajê dzikich psów.}
-{4018}{}{Karawanê atakowan¹ przez dzikie psy.}
-{4019}{}{Karawanê napadniêt¹ przez rabusiów.}
-{4020}{}{Karawanê napadniêt¹ przez rozbójników.}
-{4021}{}{Karawanê.}
-{4022}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{4023}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{4050}{}{Sk³adowisko odpadów toksycznych.}
-{4051}{}{Samotnego, wyg³odzonego psa.}
+{3975}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{3976}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{3977}{}{Kilku wkurzonych bandytÃ³w.}
+{4000}{}{Kilku rozbÃ³jnikÃ³w tropiÄ…cych coÅ› za pomocÄ… dzikich psÃ³w.}
+{4001}{}{Kilku rabusiÃ³w prowadzÄ…cych poszukiwania z psem.}
+{4002}{}{BandÄ™ rabusiÃ³w.}
+{4003}{}{BandÄ™ rozbÃ³jnikÃ³w.}
+{4004}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4005}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4006}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4007}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4008}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4009}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4010}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4011}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4012}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4013}{}{ChmarÄ™ modliszek masowo atakujÄ…cych kilka roÅ›lin.}
+{4014}{}{ZgrajÄ™ dzikich psÃ³w wÅ›rÃ³d kilku roÅ›lin.}
+{4015}{}{ChmarÄ™ modliszek.}
+{4016}{}{ZgrajÄ™ dzikich psÃ³w.}
+{4017}{}{Kilku rabusiÃ³w odpÄ™dzajÄ…cych zgrajÄ™ dzikich psÃ³w.}
+{4018}{}{KarawanÄ™ atakowanÄ… przez dzikie psy.}
+{4019}{}{KarawanÄ™ napadniÄ™tÄ… przez rabusiÃ³w.}
+{4020}{}{KarawanÄ™ napadniÄ™tÄ… przez rozbÃ³jnikÃ³w.}
+{4021}{}{KarawanÄ™.}
+{4022}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{4023}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{4050}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{4051}{}{Samotnego, wygÅ‚odzonego psa.}
 {4052}{}{Stado bramin.}
-{4053}{}{Kilku rozbójników tropi¹cych coœ za pomoc¹ dzikich psów.}
-{4054}{}{Kilku ³owców nagród.}
-{4055}{}{Kilku ³owców nagród.}
-{4056}{}{Kilku ³owców nagród.}
-{4057}{}{Kilku ³owców nagród.}
-{4058}{}{Kilku ³owców nagród.}
-{4059}{}{Kilku ³owców nagród.}
-{4060}{}{Kilku ³owców nagród.}
-{4061}{}{Kilku ³owców nagród.}
-{4062}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4063}{}{Kilku rabusiów prowadz¹cych poszukiwania z psem.}
-{4064}{}{Bandê rabusiów.}
-{4065}{}{Bandê rozbójników.}
-{4066}{}{Chmarê modliszek masowo atakuj¹cych kilka roœlin.}
-{4067}{}{Zgrajê dzikich psów wœród kilku roœlin.}
-{4068}{}{Chmarê modliszek.}
-{4069}{}{Zgrajê dzikich psów.}
-{4070}{}{Kilku rabusiów odpêdzaj¹cych zgrajê dzikich psów.}
-{4071}{}{Karawanê atakowan¹ przez dzikie psy.}
-{4072}{}{Karawanê napadniêt¹ przez rabusiów.}
-{4073}{}{Karawanê napadniêt¹ przez rozbójników.}
-{4074}{}{Karawanê.}
+{4053}{}{Kilku rozbÃ³jnikÃ³w tropiÄ…cych coÅ› za pomocÄ… dzikich psÃ³w.}
+{4054}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4055}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4056}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4057}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4058}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4059}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4060}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4061}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4062}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4063}{}{Kilku rabusiÃ³w prowadzÄ…cych poszukiwania z psem.}
+{4064}{}{BandÄ™ rabusiÃ³w.}
+{4065}{}{BandÄ™ rozbÃ³jnikÃ³w.}
+{4066}{}{ChmarÄ™ modliszek masowo atakujÄ…cych kilka roÅ›lin.}
+{4067}{}{ZgrajÄ™ dzikich psÃ³w wÅ›rÃ³d kilku roÅ›lin.}
+{4068}{}{ChmarÄ™ modliszek.}
+{4069}{}{ZgrajÄ™ dzikich psÃ³w.}
+{4070}{}{Kilku rabusiÃ³w odpÄ™dzajÄ…cych zgrajÄ™ dzikich psÃ³w.}
+{4071}{}{KarawanÄ™ atakowanÄ… przez dzikie psy.}
+{4072}{}{KarawanÄ™ napadniÄ™tÄ… przez rabusiÃ³w.}
+{4073}{}{KarawanÄ™ napadniÄ™tÄ… przez rozbÃ³jnikÃ³w.}
+{4074}{}{KarawanÄ™.}
 {4075}{}{Resztki wieloryba.}
-{4076}{}{Wielk¹ kamienn¹ g³owê.}
-{4077}{}{Rozbity wahad³owiec.}
-{4078}{}{Portal stra¿niczy.}
-{4079}{}{Rycerzy Króla Artura.}
+{4076}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{4077}{}{Rozbity wahadÅ‚owiec.}
+{4078}{}{Portal straÅ¼niczy.}
+{4079}{}{Rycerzy KrÃ³la Artura.}
 {4080}{}{Blaszanego drwala.}
-{4081}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{4100}{}{Kilka z³ocistych gekonów.}
-{4101}{}{Chmarê modliszek.}
-{4102}{}{Kilka radskorpionów.}
+{4081}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{4100}{}{Kilka zÅ‚ocistych gekonÃ³w.}
+{4101}{}{ChmarÄ™ modliszek.}
+{4102}{}{Kilka radskorpionÃ³w.}
 {4103}{}{Kilka dzikich bramin.}
-{4104}{}{Kilku ³owców nagród.}
-{4105}{}{Kilku ³owców nagród.}
-{4106}{}{Kilku ³owców nagród.}
-{4107}{}{Kilku ³owców nagród.}
-{4108}{}{Kilku ³owców nagród.}
-{4109}{}{Kilku ³owców nagród.}
-{4110}{}{Kilku ³owców nagród.}
-{4111}{}{Kilku ³owców nagród.}
-{4112}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4113}{}{Kupca i stra¿ników walcz¹cych ze z³otymi gekonami.}
-{4114}{}{Chmarê modliszek masakruj¹cych bandê handlarzy.}
-{4115}{}{Chmarê modliszek walcz¹cych z dzikimi braminami.}
-{4116}{}{Kilka radskorpionów delektuj¹cych siê modliszkami.}
-{4117}{}{Kilka radskorpionów zarzynaj¹cych dzikie braminy.}
-{4118}{}{Handlarza i stra¿ników.}
-{4119}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{4120}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{4121}{}{Kilku wkurzonych bandytów.}
-{4150}{}{Sk³adowisko odpadów toksycznych.}
-{4151}{}{Samotnego, wyg³odzonego psa.}
+{4104}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4105}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4106}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4107}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4108}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4109}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4110}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4111}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4112}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4113}{}{Kupca i straÅ¼nikÃ³w walczÄ…cych ze zÅ‚otymi gekonami.}
+{4114}{}{ChmarÄ™ modliszek masakrujÄ…cych bandÄ™ handlarzy.}
+{4115}{}{ChmarÄ™ modliszek walczÄ…cych z dzikimi braminami.}
+{4116}{}{Kilka radskorpionÃ³w delektujÄ…cych siÄ™ modliszkami.}
+{4117}{}{Kilka radskorpionÃ³w zarzynajÄ…cych dzikie braminy.}
+{4118}{}{Handlarza i straÅ¼nikÃ³w.}
+{4119}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{4120}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{4121}{}{Kilku wkurzonych bandytÃ³w.}
+{4150}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{4151}{}{Samotnego, wygÅ‚odzonego psa.}
 {4152}{}{Stado bramin.}
-{4153}{}{Kilka z³ocistych gekonów.}
-{4154}{}{Kilku ³owców nagród.}
-{4155}{}{Kilku ³owców nagród.}
-{4156}{}{Kilku ³owców nagród.}
-{4157}{}{Kilku ³owców nagród.}
-{4158}{}{Kilku ³owców nagród.}
-{4159}{}{Kilku ³owców nagród.}
-{4160}{}{Kilku ³owców nagród.}
-{4161}{}{Kilku ³owców nagród.}
-{4162}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4163}{}{Chmarê modliszek.}
-{4164}{}{Kilka radskorpionów.}
+{4153}{}{Kilka zÅ‚ocistych gekonÃ³w.}
+{4154}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4155}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4156}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4157}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4158}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4159}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4160}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4161}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4162}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4163}{}{ChmarÄ™ modliszek.}
+{4164}{}{Kilka radskorpionÃ³w.}
 {4165}{}{Kilka dzikich bramin.}
-{4166}{}{Kupca i stra¿ników walcz¹cych ze z³otymi gekonami.}
-{4167}{}{Chmarê modliszek masakruj¹cych bandê handlarzy.}
-{4168}{}{Chmarê modliszek walcz¹cych z dzikimi braminami.}
-{4169}{}{Kilka radskorpionów delektuj¹cych siê modliszkami.}
-{4170}{}{Kilka radskorpionów zarzynaj¹cych dzikie braminy.}
-{4171}{}{Handlarza i stra¿ników.}
+{4166}{}{Kupca i straÅ¼nikÃ³w walczÄ…cych ze zÅ‚otymi gekonami.}
+{4167}{}{ChmarÄ™ modliszek masakrujÄ…cych bandÄ™ handlarzy.}
+{4168}{}{ChmarÄ™ modliszek walczÄ…cych z dzikimi braminami.}
+{4169}{}{Kilka radskorpionÃ³w delektujÄ…cych siÄ™ modliszkami.}
+{4170}{}{Kilka radskorpionÃ³w zarzynajÄ…cych dzikie braminy.}
+{4171}{}{Handlarza i straÅ¼nikÃ³w.}
 {4172}{}{Resztki wieloryba.}
-{4173}{}{Wielk¹ kamienn¹ g³owê.}
-{4174}{}{Rozbity wahad³owiec.}
-{4175}{}{Portal stra¿niczy.}
-{4176}{}{Rycerzy Króla Artura.}
+{4173}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{4174}{}{Rozbity wahadÅ‚owiec.}
+{4175}{}{Portal straÅ¼niczy.}
+{4176}{}{Rycerzy KrÃ³la Artura.}
 {4177}{}{Blaszanego drwala.}
-{4178}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{4179}{}{Kilku wkurzonych bandytów.}
-{4200}{}{Sk³adowisko odpadów toksycznych.}
-{4201}{}{Samotnego, wyg³odzonego psa.}
+{4178}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{4179}{}{Kilku wkurzonych bandytÃ³w.}
+{4200}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{4201}{}{Samotnego, wygÅ‚odzonego psa.}
 {4202}{}{Stado bramin.}
-{4203}{}{Kilka zmutowanych kretoszczurów.}
-{4204}{}{Kilku ³owców nagród.}
-{4205}{}{Kilku ³owców nagród.}
-{4206}{}{Kilku ³owców nagród.}
-{4207}{}{Kilku ³owców nagród.}
-{4208}{}{Kilku ³owców nagród.}
-{4209}{}{Kilku ³owców nagród.}
-{4210}{}{Kilku ³owców nagród.}
-{4211}{}{Kilku ³owców nagród.}
-{4212}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4213}{}{Kilka zmutowanych œwinioszczurów.}
-{4214}{}{Kilka roœlin.}
-{4215}{}{Pustelnika i kilka psów walcz¹cych ze zmutowanymi kretoszczurami.}
-{4216}{}{Pustelnika odpieraj¹cego atak paru dzikich psów.}
-{4217}{}{Pustelnika odpieraj¹cego atak paru zmutowanych œwinioszczurów.}
-{4218}{}{Pustelnika walcz¹cego razem z paroma psami ze zmutowanymi kretoszczurami.}
-{4219}{}{Kilka zmutowanych kretoszczurów walcz¹cych ze zmutowanymi œwinioszczurami.}
-{4220}{}{Kilka zmutowanych kretoszczurów walcz¹cych z paroma zarodnikowcami.}
-{4221}{}{Kilka zmutowanych œwinioszczurów walcz¹cych z dzikimi psami.}
+{4203}{}{Kilka zmutowanych kretoszczurÃ³w.}
+{4204}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4205}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4206}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4207}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4208}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4209}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4210}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4211}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4212}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4213}{}{Kilka zmutowanych Å›winioszczurÃ³w.}
+{4214}{}{Kilka roÅ›lin.}
+{4215}{}{Pustelnika i kilka psÃ³w walczÄ…cych ze zmutowanymi kretoszczurami.}
+{4216}{}{Pustelnika odpierajÄ…cego atak paru dzikich psÃ³w.}
+{4217}{}{Pustelnika odpierajÄ…cego atak paru zmutowanych Å›winioszczurÃ³w.}
+{4218}{}{Pustelnika walczÄ…cego razem z paroma psami ze zmutowanymi kretoszczurami.}
+{4219}{}{Kilka zmutowanych kretoszczurÃ³w walczÄ…cych ze zmutowanymi Å›winioszczurami.}
+{4220}{}{Kilka zmutowanych kretoszczurÃ³w walczÄ…cych z paroma zarodnikowcami.}
+{4221}{}{Kilka zmutowanych Å›winioszczurÃ³w walczÄ…cych z dzikimi psami.}
 {4222}{}{Pustelnika.}
 {4223}{}{Resztki wieloryba.}
-{4224}{}{Wielk¹ kamienn¹ g³owê.}
-{4225}{}{Rozbity wahad³owiec.}
-{4226}{}{Portal stra¿niczy.}
-{4227}{}{Rycerzy Króla Artura.}
+{4224}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{4225}{}{Rozbity wahadÅ‚owiec.}
+{4226}{}{Portal straÅ¼niczy.}
+{4227}{}{Rycerzy KrÃ³la Artura.}
 {4228}{}{Blaszanego drwala.}
-{4229}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{4250}{}{Kilka zmutowanych kretoszczurów.}
-{4251}{}{Kilka zmutowanych œwinioszczurów.}
-{4252}{}{Kilka roœlin.}
-{4253}{}{Pustelnika i kilka psów walcz¹cych ze zmutowanymi kretoszczurami.}
-{4254}{}{Kilku ³owców nagród.}
-{4255}{}{Kilku ³owców nagród.}
-{4256}{}{Kilku ³owców nagród.}
-{4257}{}{Kilku ³owców nagród.}
-{4258}{}{Kilku ³owców nagród.}
-{4259}{}{Kilku ³owców nagród.}
-{4260}{}{Kilku ³owców nagród.}
-{4261}{}{Kilku ³owców nagród.}
-{4262}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4263}{}{Pustelnika odpieraj¹cego atak paru dzikich psów.}
-{4264}{}{Pustelnika odpieraj¹cego atak paru zmutowanych œwinioszczurów.}
-{4265}{}{Pustelnika walcz¹cego razem z paroma psami ze zmutowanymi kretoszczurami.}
-{4266}{}{Kilka zmutowanych kretoszczurów walcz¹cych ze zmutowanymi œwinioszczurami.}
-{4267}{}{Kilka zmutowanych kretoszczurów walcz¹cych z paroma zarodnikowcami.}
-{4268}{}{Kilka zmutowanych œwinioszczurów walcz¹cych z dzikimi psami.}
+{4229}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{4250}{}{Kilka zmutowanych kretoszczurÃ³w.}
+{4251}{}{Kilka zmutowanych Å›winioszczurÃ³w.}
+{4252}{}{Kilka roÅ›lin.}
+{4253}{}{Pustelnika i kilka psÃ³w walczÄ…cych ze zmutowanymi kretoszczurami.}
+{4254}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4255}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4256}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4257}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4258}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4259}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4260}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4261}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4262}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4263}{}{Pustelnika odpierajÄ…cego atak paru dzikich psÃ³w.}
+{4264}{}{Pustelnika odpierajÄ…cego atak paru zmutowanych Å›winioszczurÃ³w.}
+{4265}{}{Pustelnika walczÄ…cego razem z paroma psami ze zmutowanymi kretoszczurami.}
+{4266}{}{Kilka zmutowanych kretoszczurÃ³w walczÄ…cych ze zmutowanymi Å›winioszczurami.}
+{4267}{}{Kilka zmutowanych kretoszczurÃ³w walczÄ…cych z paroma zarodnikowcami.}
+{4268}{}{Kilka zmutowanych Å›winioszczurÃ³w walczÄ…cych z dzikimi psami.}
 {4269}{}{Pustelnika.}
-{4270}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{4271}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{4300}{}{Bandê ³owców niewolników z psami.}
-{4301}{}{Bandê ³owców niewolników.}
-{4302}{}{Kilka z³ocistych gekonów.}
-{4303}{}{Zgrajê dzikich psów.}
-{4304}{}{Kilku ³owców nagród.}
-{4305}{}{Kilku ³owców nagród.}
-{4306}{}{Kilku ³owców nagród.}
-{4307}{}{Kilku ³owców nagród.}
-{4308}{}{Kilku ³owców nagród.}
-{4309}{}{Kilku ³owców nagród.}
-{4310}{}{Kilku ³owców nagród.}
-{4311}{}{Kilku ³owców nagród.}
-{4312}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4313}{}{Patrol z psami dokopuj¹cy ³owcom niewolników.}
-{4314}{}{Bandê ³owców niewolników odpieraj¹cych atak z³ocistych gekonów.}
-{4315}{}{Patrol walcz¹cy z ³owcami niewolników.}
-{4316}{}{Patrol walcz¹cy z kilkoma z³otymi gekonami.}
-{4317}{}{Patrol odpieraj¹cy atak dzikich psów.}
+{4270}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{4271}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{4300}{}{BandÄ™ Å‚owcÃ³w niewolnikÃ³w z psami.}
+{4301}{}{BandÄ™ Å‚owcÃ³w niewolnikÃ³w.}
+{4302}{}{Kilka zÅ‚ocistych gekonÃ³w.}
+{4303}{}{ZgrajÄ™ dzikich psÃ³w.}
+{4304}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4305}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4306}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4307}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4308}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4309}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4310}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4311}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4312}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4313}{}{Patrol z psami dokopujÄ…cy Å‚owcom niewolnikÃ³w.}
+{4314}{}{BandÄ™ Å‚owcÃ³w niewolnikÃ³w odpierajÄ…cych atak zÅ‚ocistych gekonÃ³w.}
+{4315}{}{Patrol walczÄ…cy z Å‚owcami niewolnikÃ³w.}
+{4316}{}{Patrol walczÄ…cy z kilkoma zÅ‚otymi gekonami.}
+{4317}{}{Patrol odpierajÄ…cy atak dzikich psÃ³w.}
 {4318}{}{Patrol.}
-{4319}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{4320}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{4350}{}{Sk³adowisko odpadów toksycznych.}
-{4351}{}{Samotnego, wyg³odzonego psa.}
+{4319}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{4320}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{4350}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{4351}{}{Samotnego, wygÅ‚odzonego psa.}
 {4352}{}{Stado bramin.}
-{4353}{}{Bandê ³owców niewolników z psami.}
-{4354}{}{Kilku ³owców nagród.}
-{4355}{}{Kilku ³owców nagród.}
-{4356}{}{Kilku ³owców nagród.}
-{4357}{}{Kilku ³owców nagród.}
-{4358}{}{Kilku ³owców nagród.}
-{4359}{}{Kilku ³owców nagród.}
-{4360}{}{Kilku ³owców nagród.}
-{4361}{}{Kilku ³owców nagród.}
-{4362}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4363}{}{Bandê ³owców niewolników.}
-{4364}{}{Kilka z³ocistych gekonów.}
-{4365}{}{Zgrajê dzikich psów.}
-{4366}{}{Patrol z psami dokopuj¹cy ³owcom niewolników.}
-{4367}{}{Bandê ³owców niewolników odpieraj¹cych atak z³ocistych gekonów.}
-{4368}{}{Patrol walcz¹cy z ³owcami niewolników.}
-{4369}{}{Patrol walcz¹cy z kilkoma z³otymi gekonami.}
-{4370}{}{Patrol odpieraj¹cy atak dzikich psów.}
+{4353}{}{BandÄ™ Å‚owcÃ³w niewolnikÃ³w z psami.}
+{4354}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4355}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4356}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4357}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4358}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4359}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4360}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4361}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4362}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4363}{}{BandÄ™ Å‚owcÃ³w niewolnikÃ³w.}
+{4364}{}{Kilka zÅ‚ocistych gekonÃ³w.}
+{4365}{}{ZgrajÄ™ dzikich psÃ³w.}
+{4366}{}{Patrol z psami dokopujÄ…cy Å‚owcom niewolnikÃ³w.}
+{4367}{}{BandÄ™ Å‚owcÃ³w niewolnikÃ³w odpierajÄ…cych atak zÅ‚ocistych gekonÃ³w.}
+{4368}{}{Patrol walczÄ…cy z Å‚owcami niewolnikÃ³w.}
+{4369}{}{Patrol walczÄ…cy z kilkoma zÅ‚otymi gekonami.}
+{4370}{}{Patrol odpierajÄ…cy atak dzikich psÃ³w.}
 {4371}{}{Patrol.}
 {4372}{}{Resztki wieloryba.}
-{4373}{}{Wielk¹ kamienn¹ g³owê.}
-{4374}{}{Rozbity wahad³owiec.}
-{4375}{}{Portal stra¿niczy.}
-{4376}{}{Rycerzy Króla Artura.}
+{4373}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{4374}{}{Rozbity wahadÅ‚owiec.}
+{4375}{}{Portal straÅ¼niczy.}
+{4376}{}{Rycerzy KrÃ³la Artura.}
 {4377}{}{Blaszanego drwala.}
-{4378}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{4400}{}{Gromadê padlino¿erców.}
-{4401}{}{Kilku padlino¿ernych ghouli.}
-{4402}{}{Paru wariatów.}
-{4403}{}{Paru ghouli - wariatów.}
-{4404}{}{Kilku ³owców nagród.}
-{4405}{}{Kilku ³owców nagród.}
-{4406}{}{Kilku ³owców nagród.}
-{4407}{}{Kilku ³owców nagród.}
-{4408}{}{Kilku ³owców nagród.}
-{4409}{}{Kilku ³owców nagród.}
-{4410}{}{Kilku ³owców nagród.}
-{4411}{}{Kilku ³owców nagród.}
-{4412}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4413}{}{Kilka gekonów.}
-{4414}{}{Zgrajê dzikich psów.}
-{4415}{}{Rodzinkê radskorpionów.}
-{4416}{}{Parê zmutowanych œwinioszczurów.}
-{4417}{}{Grupê zmutowanych szczurów.}
-{4418}{}{Kilku padlino¿erców walcz¹cych z paroma wariatami.}
-{4419}{}{Kilku padlino¿ernych ghouli odpieraj¹cych atak paru wariatów.}
-{4420}{}{Kilka gekonów walcz¹cych z paroma wariatami.}
-{4421}{}{Kilka zmutowanych szczurów przeprowadzaj¹cych zmasowany atak na grupê padlino¿ernych ghouli.}
-{4422}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{4423}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{4450}{}{Sk³adowisko odpadów toksycznych.}
-{4451}{}{Samotnego, wyg³odzonego psa.}
+{4378}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{4400}{}{GromadÄ™ padlinoÅ¼ercÃ³w.}
+{4401}{}{Kilku padlinoÅ¼ernych ghouli.}
+{4402}{}{Paru wariatÃ³w.}
+{4403}{}{Paru ghouli - wariatÃ³w.}
+{4404}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4405}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4406}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4407}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4408}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4409}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4410}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4411}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4412}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4413}{}{Kilka gekonÃ³w.}
+{4414}{}{ZgrajÄ™ dzikich psÃ³w.}
+{4415}{}{RodzinkÄ™ radskorpionÃ³w.}
+{4416}{}{ParÄ™ zmutowanych Å›winioszczurÃ³w.}
+{4417}{}{GrupÄ™ zmutowanych szczurÃ³w.}
+{4418}{}{Kilku padlinoÅ¼ercÃ³w walczÄ…cych z paroma wariatami.}
+{4419}{}{Kilku padlinoÅ¼ernych ghouli odpierajÄ…cych atak paru wariatÃ³w.}
+{4420}{}{Kilka gekonÃ³w walczÄ…cych z paroma wariatami.}
+{4421}{}{Kilka zmutowanych szczurÃ³w przeprowadzajÄ…cych zmasowany atak na grupÄ™ padlinoÅ¼ernych ghouli.}
+{4422}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{4423}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{4450}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{4451}{}{Samotnego, wygÅ‚odzonego psa.}
 {4452}{}{Stado bramin.}
-{4453}{}{Gromadê padlino¿erców.}
-{4454}{}{Kilku ³owców nagród.}
-{4455}{}{Kilku ³owców nagród.}
-{4456}{}{Kilku ³owców nagród.}
-{4457}{}{Kilku ³owców nagród.}
-{4458}{}{Kilku ³owców nagród.}
-{4459}{}{Kilku ³owców nagród.}
-{4460}{}{Kilku ³owców nagród.}
-{4461}{}{Kilku ³owców nagród.}
-{4462}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4463}{}{Kilku padlino¿ernych ghouli.}
-{4464}{}{Paru wariatów.}
-{4465}{}{Paru ghouli - wariatów.}
-{4466}{}{Kilka gekonów.}
-{4467}{}{Zgrajê dzikich psów.}
-{4468}{}{Rodzinkê radskorpionów.}
-{4469}{}{Parê zmutowanych œwinioszczurów.}
-{4470}{}{Grupê zmutowanych szczurów.}
-{4471}{}{Kilku padlino¿erców walcz¹cych z paroma wariatami.}
-{4472}{}{Kilku padlino¿ernych ghouli odpieraj¹cych atak paru wariatów.}
-{4473}{}{Kilka gekonów walcz¹cych z paroma wariatami.}
-{4474}{}{Kilka zmutowanych szczurów przeprowadzaj¹cych zmasowany atak na grupê padlino¿ernych ghouli.}
+{4453}{}{GromadÄ™ padlinoÅ¼ercÃ³w.}
+{4454}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4455}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4456}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4457}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4458}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4459}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4460}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4461}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4462}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4463}{}{Kilku padlinoÅ¼ernych ghouli.}
+{4464}{}{Paru wariatÃ³w.}
+{4465}{}{Paru ghouli - wariatÃ³w.}
+{4466}{}{Kilka gekonÃ³w.}
+{4467}{}{ZgrajÄ™ dzikich psÃ³w.}
+{4468}{}{RodzinkÄ™ radskorpionÃ³w.}
+{4469}{}{ParÄ™ zmutowanych Å›winioszczurÃ³w.}
+{4470}{}{GrupÄ™ zmutowanych szczurÃ³w.}
+{4471}{}{Kilku padlinoÅ¼ercÃ³w walczÄ…cych z paroma wariatami.}
+{4472}{}{Kilku padlinoÅ¼ernych ghouli odpierajÄ…cych atak paru wariatÃ³w.}
+{4473}{}{Kilka gekonÃ³w walczÄ…cych z paroma wariatami.}
+{4474}{}{Kilka zmutowanych szczurÃ³w przeprowadzajÄ…cych zmasowany atak na grupÄ™ padlinoÅ¼ernych ghouli.}
 {4475}{}{Resztki wieloryba.}
-{4476}{}{Wielk¹ kamienn¹ g³owê.}
-{4477}{}{Rozbity wahad³owiec.}
-{4478}{}{Portal stra¿niczy.}
-{4479}{}{Rycerzy Króla Artura.}
+{4476}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{4477}{}{Rozbity wahadÅ‚owiec.}
+{4478}{}{Portal straÅ¼niczy.}
+{4479}{}{Rycerzy KrÃ³la Artura.}
 {4480}{}{Blaszanego drwala.}
-{4481}{}{Unwashed Villagers goni¹cych za Spamerem.}
+{4481}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
 {4500}{}{Kilku kanibali.}
-{4501}{}{Paru dzikusów.}
-{4502}{}{Grupê wojowników.}
-{4503}{}{Kilku wyrzutków.}
-{4504}{}{Kilku ³owców nagród.}
-{4505}{}{Kilku ³owców nagród.}
-{4506}{}{Kilku ³owców nagród.}
-{4507}{}{Kilku ³owców nagród.}
-{4508}{}{Kilku ³owców nagród.}
-{4509}{}{Kilku ³owców nagród.}
-{4510}{}{Kilku ³owców nagród.}
-{4511}{}{Kilku ³owców nagród.}
-{4512}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4513}{}{Rodzinkê radskorpionów.}
-{4514}{}{Kilka kretoszczurów.}
-{4515}{}{Kilku rybaków odpieraj¹cych atak kanibali.}
-{4516}{}{Kilku kanibali walcz¹cych z paroma dzikusami.}
-{4517}{}{Kilka radskorpionów walcz¹cych z grupk¹ dzikusów.}
-{4518}{}{Kilku rybaków.}
-{4550}{}{Sk³adowisko odpadów toksycznych.}
-{4551}{}{Samotnego, wyg³odzonego psa.}
+{4501}{}{Paru dzikusÃ³w.}
+{4502}{}{GrupÄ™ wojownikÃ³w.}
+{4503}{}{Kilku wyrzutkÃ³w.}
+{4504}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4505}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4506}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4507}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4508}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4509}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4510}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4511}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4512}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4513}{}{RodzinkÄ™ radskorpionÃ³w.}
+{4514}{}{Kilka kretoszczurÃ³w.}
+{4515}{}{Kilku rybakÃ³w odpierajÄ…cych atak kanibali.}
+{4516}{}{Kilku kanibali walczÄ…cych z paroma dzikusami.}
+{4517}{}{Kilka radskorpionÃ³w walczÄ…cych z grupkÄ… dzikusÃ³w.}
+{4518}{}{Kilku rybakÃ³w.}
+{4550}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{4551}{}{Samotnego, wygÅ‚odzonego psa.}
 {4552}{}{Stado bramin.}
 {4553}{}{Kilku kanibali.}
-{4554}{}{Kilku ³owców nagród.}
-{4555}{}{Kilku ³owców nagród.}
-{4556}{}{Kilku ³owców nagród.}
-{4557}{}{Kilku ³owców nagród.}
-{4558}{}{Kilku ³owców nagród.}
-{4559}{}{Kilku ³owców nagród.}
-{4560}{}{Kilku ³owców nagród.}
-{4561}{}{Kilku ³owców nagród.}
-{4562}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4563}{}{Kilku wyrzutków.}
-{4564}{}{Paru dzikusów.}
-{4565}{}{Grupê wojowników.}
-{4566}{}{Kilka gekonów kryj¹cych siê wœród roœlin.}
-{4567}{}{Kilka gekonów i parê radskorpionów.}
-{4568}{}{Kilka gekonów.}
-{4569}{}{Kilka radskorpionów kryj¹cych siê wœród roœlin.}
-{4570}{}{Kilka radskorpionów.}
-{4571}{}{Kilka gekonów atakuj¹cych paru wyrzutków.}
-{4572}{}{Kilka gekonów walcz¹cych z dzikusami.}
-{4573}{}{Kilka radskorpionów walcz¹cych z kanibalami.}
-{4574}{}{Kilka radskorpionów atakuj¹cych pustelnika.}
+{4554}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4555}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4556}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4557}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4558}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4559}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4560}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4561}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4562}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4563}{}{Kilku wyrzutkÃ³w.}
+{4564}{}{Paru dzikusÃ³w.}
+{4565}{}{GrupÄ™ wojownikÃ³w.}
+{4566}{}{Kilka gekonÃ³w kryjÄ…cych siÄ™ wÅ›rÃ³d roÅ›lin.}
+{4567}{}{Kilka gekonÃ³w i parÄ™ radskorpionÃ³w.}
+{4568}{}{Kilka gekonÃ³w.}
+{4569}{}{Kilka radskorpionÃ³w kryjÄ…cych siÄ™ wÅ›rÃ³d roÅ›lin.}
+{4570}{}{Kilka radskorpionÃ³w.}
+{4571}{}{Kilka gekonÃ³w atakujÄ…cych paru wyrzutkÃ³w.}
+{4572}{}{Kilka gekonÃ³w walczÄ…cych z dzikusami.}
+{4573}{}{Kilka radskorpionÃ³w walczÄ…cych z kanibalami.}
+{4574}{}{Kilka radskorpionÃ³w atakujÄ…cych pustelnika.}
 {4575}{}{Pustelnika.}
 {4576}{}{Resztki wieloryba.}
-{4577}{}{Wielk¹ kamienn¹ g³owê.}
-{4578}{}{Rozbity wahad³owiec.}
-{4579}{}{Portal stra¿niczy.}
-{4580}{}{Rycerzy Króla Artura.}
+{4577}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{4578}{}{Rozbity wahadÅ‚owiec.}
+{4579}{}{Portal straÅ¼niczy.}
+{4580}{}{Rycerzy KrÃ³la Artura.}
 {4581}{}{Blaszanego drwala.}
-{4582}{}{Unwashed Villagers goni¹cych za Spamerem.}
+{4582}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
 {4600}{}{Kilku kanibali.}
-{4601}{}{Kilku wyrzutków.}
-{4602}{}{Paru dzikusów.}
-{4603}{}{Grupê wojowników.}
-{4604}{}{Kilku ³owców nagród.}
-{4605}{}{Kilku ³owców nagród.}
-{4606}{}{Kilku ³owców nagród.}
-{4607}{}{Kilku ³owców nagród.}
-{4608}{}{Kilku ³owców nagród.}
-{4609}{}{Kilku ³owców nagród.}
-{4610}{}{Kilku ³owców nagród.}
-{4611}{}{Kilku ³owców nagród.}
-{4612}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4613}{}{Kilka gekonów kryj¹cych siê wœród roœlin.}
-{4614}{}{Kilka gekonów i parê radskorpionów.}
-{4615}{}{Kilka gekonów.}
-{4616}{}{Kilka radskorpionów kryj¹cych siê wœród roœlin.}
-{4617}{}{Kilka radskorpionów.}
-{4618}{}{Kilka gekonów atakuj¹cych paru wyrzutków.}
-{4619}{}{Kilka gekonów walcz¹cych z dzikusami.}
-{4620}{}{Kilka radskorpionów walcz¹cych z kanibalami.}
-{4621}{}{Kilka radskorpionów atakuj¹cych pustelnika.}
+{4601}{}{Kilku wyrzutkÃ³w.}
+{4602}{}{Paru dzikusÃ³w.}
+{4603}{}{GrupÄ™ wojownikÃ³w.}
+{4604}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4605}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4606}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4607}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4608}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4609}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4610}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4611}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4612}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4613}{}{Kilka gekonÃ³w kryjÄ…cych siÄ™ wÅ›rÃ³d roÅ›lin.}
+{4614}{}{Kilka gekonÃ³w i parÄ™ radskorpionÃ³w.}
+{4615}{}{Kilka gekonÃ³w.}
+{4616}{}{Kilka radskorpionÃ³w kryjÄ…cych siÄ™ wÅ›rÃ³d roÅ›lin.}
+{4617}{}{Kilka radskorpionÃ³w.}
+{4618}{}{Kilka gekonÃ³w atakujÄ…cych paru wyrzutkÃ³w.}
+{4619}{}{Kilka gekonÃ³w walczÄ…cych z dzikusami.}
+{4620}{}{Kilka radskorpionÃ³w walczÄ…cych z kanibalami.}
+{4621}{}{Kilka radskorpionÃ³w atakujÄ…cych pustelnika.}
 {4622}{}{Pustelnika.}
-{4623}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{4624}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{4650}{}{Sk³adowisko odpadów toksycznych.}
-{4651}{}{Samotnego, wyg³odzonego psa.}
+{4623}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{4624}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{4650}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{4651}{}{Samotnego, wygÅ‚odzonego psa.}
 {4652}{}{Stado bramin.}
-{4653}{}{Karawanê z Nory.}
-{4654}{}{Kilku ³owców nagród.}
-{4655}{}{Kilku ³owców nagród.}
-{4656}{}{Kilku ³owców nagród.}
-{4657}{}{Kilku ³owców nagród.}
-{4658}{}{Kilku ³owców nagród.}
-{4659}{}{Kilku ³owców nagród.}
-{4660}{}{Kilku ³owców nagród.}
-{4661}{}{Kilku ³owców nagród.}
-{4662}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4663}{}{Kilku rozbójników i rabusiów.}
-{4664}{}{Kilku rozbójników.}
-{4665}{}{Kilku rabusiów.}
-{4666}{}{Karawanê z Redding odpieraj¹c¹ atak rozbójników.}
-{4667}{}{Karawanê z Nowego Reno odpieraj¹c¹ atak rabusiów.}
-{4668}{}{Karawanê z Nory odpieraj¹c¹ atak rozbójników.}
-{4669}{}{Kilku rabusiów zasadzaj¹cych siê na karawanê.}
-{4670}{}{Karawanê z Nory atakuj¹c¹ karawanê z Kryptopolis.}
-{4671}{}{Kilku rozbójników walcz¹cych z rabusiami.}
-{4672}{}{Karawanê z Kryptopolis.}
-{4673}{}{Karawanê z Nory.}
+{4653}{}{KarawanÄ™ z Nory.}
+{4654}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4655}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4656}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4657}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4658}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4659}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4660}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4661}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4662}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4663}{}{Kilku rozbÃ³jnikÃ³w i rabusiÃ³w.}
+{4664}{}{Kilku rozbÃ³jnikÃ³w.}
+{4665}{}{Kilku rabusiÃ³w.}
+{4666}{}{KarawanÄ™ z Redding odpierajÄ…cÄ… atak rozbÃ³jnikÃ³w.}
+{4667}{}{KarawanÄ™ z Nowego Reno odpierajÄ…cÄ… atak rabusiÃ³w.}
+{4668}{}{KarawanÄ™ z Nory odpierajÄ…cÄ… atak rozbÃ³jnikÃ³w.}
+{4669}{}{Kilku rabusiÃ³w zasadzajÄ…cych siÄ™ na karawanÄ™.}
+{4670}{}{KarawanÄ™ z Nory atakujÄ…cÄ… karawanÄ™ z Kryptopolis.}
+{4671}{}{Kilku rozbÃ³jnikÃ³w walczÄ…cych z rabusiami.}
+{4672}{}{KarawanÄ™ z Kryptopolis.}
+{4673}{}{KarawanÄ™ z Nory.}
 {4674}{}{Resztki wieloryba.}
-{4675}{}{Wielk¹ kamienn¹ g³owê.}
-{4676}{}{Rozbity wahad³owiec.}
-{4677}{}{Portal stra¿niczy.}
-{4678}{}{Rycerzy Króla Artura.}
+{4675}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{4676}{}{Rozbity wahadÅ‚owiec.}
+{4677}{}{Portal straÅ¼niczy.}
+{4678}{}{Rycerzy KrÃ³la Artura.}
 {4679}{}{Blaszanego drwala.}
-{4680}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{4700}{}{Karawanê z Nory.}
-{4701}{}{Kilku rozbójników i rabusiów.}
-{4702}{}{Kilku rozbójników.}
-{4703}{}{Kilku rabusiów.}
-{4704}{}{Kilku ³owców nagród.}
-{4705}{}{Kilku ³owców nagród.}
-{4706}{}{Kilku ³owców nagród.}
-{4707}{}{Kilku ³owców nagród.}
-{4708}{}{Kilku ³owców nagród.}
-{4709}{}{Kilku ³owców nagród.}
-{4710}{}{Kilku ³owców nagród.}
-{4711}{}{Kilku ³owców nagród.}
-{4712}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4713}{}{Karawanê z Redding odpieraj¹c¹ atak rozbójników.}
-{4714}{}{Karawanê z Nowego Reno odpieraj¹c¹ atak rabusiów.}
-{4715}{}{Karawanê z Nory odpieraj¹c¹ atak rozbójników.}
-{4716}{}{Kilku rabusiów zasadzaj¹cych siê na karawanê.}
-{4717}{}{Karawanê z Nory atakuj¹c¹ karawanê z Kryptopolis.}
-{4718}{}{Kilku rozbójników walcz¹cych z rabusiami.}
-{4719}{}{Karawanê z Kryptopolis.}
-{4720}{}{Karawanê z Nory.}
-{4721}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{4722}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{4750}{}{Sk³adowisko odpadów toksycznych.}
-{4751}{}{Samotnego, wyg³odzonego psa.}
+{4680}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{4700}{}{KarawanÄ™ z Nory.}
+{4701}{}{Kilku rozbÃ³jnikÃ³w i rabusiÃ³w.}
+{4702}{}{Kilku rozbÃ³jnikÃ³w.}
+{4703}{}{Kilku rabusiÃ³w.}
+{4704}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4705}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4706}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4707}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4708}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4709}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4710}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4711}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4712}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4713}{}{KarawanÄ™ z Redding odpierajÄ…cÄ… atak rozbÃ³jnikÃ³w.}
+{4714}{}{KarawanÄ™ z Nowego Reno odpierajÄ…cÄ… atak rabusiÃ³w.}
+{4715}{}{KarawanÄ™ z Nory odpierajÄ…cÄ… atak rozbÃ³jnikÃ³w.}
+{4716}{}{Kilku rabusiÃ³w zasadzajÄ…cych siÄ™ na karawanÄ™.}
+{4717}{}{KarawanÄ™ z Nory atakujÄ…cÄ… karawanÄ™ z Kryptopolis.}
+{4718}{}{Kilku rozbÃ³jnikÃ³w walczÄ…cych z rabusiami.}
+{4719}{}{KarawanÄ™ z Kryptopolis.}
+{4720}{}{KarawanÄ™ z Nory.}
+{4721}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{4722}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{4750}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{4751}{}{Samotnego, wygÅ‚odzonego psa.}
 {4752}{}{Stado bramin.}
-{4753}{}{Kilka gekonów i parê wilków.}
-{4754}{}{Kilku ³owców nagród.}
-{4755}{}{Kilku ³owców nagród.}
-{4756}{}{Kilku ³owców nagród.}
-{4757}{}{Kilku ³owców nagród.}
-{4758}{}{Kilku ³owców nagród.}
-{4759}{}{Kilku ³owców nagród.}
-{4760}{}{Kilku ³owców nagród.}
-{4761}{}{Kilku ³owców nagród.}
-{4762}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
+{4753}{}{Kilka gekonÃ³w i parÄ™ wilkÃ³w.}
+{4754}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4755}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4756}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4757}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4758}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4759}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4760}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4761}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4762}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
 {4763}{}{Kilka zagarniaczy.}
-{4764}{}{Kilka wilków.}
-{4765}{}{Kilka z³ocistych gekonów.}
-{4766}{}{Kilku poszukiwaczy walcz¹cych z paroma grabie¿cami.}
-{4767}{}{Kilku traperów walcz¹cych z gekonami.}
-{4768}{}{Kilku nielegalnych handlarzy walcz¹cych z paroma wilkami.}
-{4769}{}{Kilku tubylców walcz¹cych z paroma grabie¿cami.}
-{4770}{}{Kilku tubylców walcz¹cych z paroma wilkami.}
+{4764}{}{Kilka wilkÃ³w.}
+{4765}{}{Kilka zÅ‚ocistych gekonÃ³w.}
+{4766}{}{Kilku poszukiwaczy walczÄ…cych z paroma grabieÅ¼cami.}
+{4767}{}{Kilku traperÃ³w walczÄ…cych z gekonami.}
+{4768}{}{Kilku nielegalnych handlarzy walczÄ…cych z paroma wilkami.}
+{4769}{}{Kilku tubylcÃ³w walczÄ…cych z paroma grabieÅ¼cami.}
+{4770}{}{Kilku tubylcÃ³w walczÄ…cych z paroma wilkami.}
 {4771}{}{Kilku nielegalnych handlarzy.}
-{4772}{}{Kilku traperów.}
+{4772}{}{Kilku traperÃ³w.}
 {4773}{}{Kilku poszukiwaczy.}
 {4774}{}{Resztki wieloryba.}
-{4775}{}{Wielk¹ kamienn¹ g³owê.}
-{4776}{}{Rozbity wahad³owiec.}
-{4777}{}{Portal stra¿niczy.}
-{4778}{}{Rycerzy Króla Artura.}
+{4775}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{4776}{}{Rozbity wahadÅ‚owiec.}
+{4777}{}{Portal straÅ¼niczy.}
+{4778}{}{Rycerzy KrÃ³la Artura.}
 {4779}{}{Blaszanego drwala.}
-{4780}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{4800}{}{Kilka gekonów i parê wilków.}
+{4780}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{4800}{}{Kilka gekonÃ³w i parÄ™ wilkÃ³w.}
 {4801}{}{Kilka zagarniaczy.}
-{4802}{}{Kilka wilków.}
-{4803}{}{Kilka z³ocistych gekonów.}
-{4804}{}{Kilku ³owców nagród.}
-{4805}{}{Kilku ³owców nagród.}
-{4806}{}{Kilku ³owców nagród.}
-{4807}{}{Kilku ³owców nagród.}
-{4808}{}{Kilku ³owców nagród.}
-{4809}{}{Kilku ³owców nagród.}
-{4810}{}{Kilku ³owców nagród.}
-{4811}{}{Kilku ³owców nagród.}
-{4812}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4813}{}{Kilku poszukiwaczy walcz¹cych z paroma grabie¿cami.}
-{4814}{}{Kilku traperów walcz¹cych z gekonami.}
-{4815}{}{Kilku nielegalnych handlarzy walcz¹cych z paroma wilkami.}
-{4816}{}{Kilku tubylców walcz¹cych z paroma grabie¿cami.}
-{4817}{}{Kilku tubylców walcz¹cych z paroma wilkami.}
+{4802}{}{Kilka wilkÃ³w.}
+{4803}{}{Kilka zÅ‚ocistych gekonÃ³w.}
+{4804}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4805}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4806}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4807}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4808}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4809}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4810}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4811}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4812}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4813}{}{Kilku poszukiwaczy walczÄ…cych z paroma grabieÅ¼cami.}
+{4814}{}{Kilku traperÃ³w walczÄ…cych z gekonami.}
+{4815}{}{Kilku nielegalnych handlarzy walczÄ…cych z paroma wilkami.}
+{4816}{}{Kilku tubylcÃ³w walczÄ…cych z paroma grabieÅ¼cami.}
+{4817}{}{Kilku tubylcÃ³w walczÄ…cych z paroma wilkami.}
 {4818}{}{Kilku nielegalnych handlarzy.}
-{4819}{}{Kilku traperów.}
+{4819}{}{Kilku traperÃ³w.}
 {4820}{}{Kilku poszukiwaczy.}
-{4821}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{4822}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{4850}{}{Zgrajê wilków i kilka kretoszczurów.}
-{4851}{}{Kilka radskorpionów i parê wilków.}
-{4852}{}{Kilka zmutowanych kretoszczurów i parê radskorpionów.}
-{4853}{}{Zgrajê z³ocistych gekonów.}
-{4854}{}{Kilku ³owców nagród.}
-{4855}{}{Kilku ³owców nagród.}
-{4856}{}{Kilku ³owców nagród.}
-{4857}{}{Kilku ³owców nagród.}
-{4858}{}{Kilku ³owców nagród.}
-{4859}{}{Kilku ³owców nagród.}
-{4860}{}{Kilku ³owców nagród.}
-{4861}{}{Kilku ³owców nagród.}
-{4862}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4863}{}{Zgrajê wilków.}
-{4864}{}{Zgrajê zmutowanych kretoszczurów.}
-{4865}{}{Zgrajê radskorpionów.}
-{4866}{}{Zgrajê wilków i parê gekonów.}
-{4867}{}{Kilka zmutowanych kretoszczurów walcz¹cych z gekonami.}
-{4868}{}{Kilka kretoszczurów walcz¹cych z paroma radskorpionami.}
-{4869}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{4870}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{4900}{}{Bandê NajeŸdŸców.}
-{4901}{}{Kilka wilków.}
-{4902}{}{Karawanê odpieraj¹c¹ atak NajeŸdŸców.}
-{4903}{}{Karawanê odpieraj¹c¹ atak NajeŸdŸców.}
-{4904}{}{Kilku ³owców nagród.}
-{4905}{}{Kilku ³owców nagród.}
-{4906}{}{Kilku ³owców nagród.}
-{4907}{}{Kilku ³owców nagród.}
-{4908}{}{Kilku ³owców nagród.}
-{4909}{}{Kilku ³owców nagród.}
-{4910}{}{Kilku ³owców nagród.}
-{4911}{}{Kilku ³owców nagród.}
-{4912}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4913}{}{Karawanê odpieraj¹c¹ atak NajeŸdŸców.}
-{4914}{}{Karawanê odpieraj¹c¹ atak NajeŸdŸców.}
-{4915}{}{Karawanê.}
-{4916}{}{Karawanê.}
-{4917}{}{Karawanê.}
-{4918}{}{Karawanê.}
-{4919}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{4920}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{4921}{}{Bandê wkurzonych NajeŸdŸców.}
-{4950}{}{Sk³adowisko odpadów toksycznych.}
-{4951}{}{Samotnego, wyg³odzonego psa.}
+{4821}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{4822}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{4850}{}{ZgrajÄ™ wilkÃ³w i kilka kretoszczurÃ³w.}
+{4851}{}{Kilka radskorpionÃ³w i parÄ™ wilkÃ³w.}
+{4852}{}{Kilka zmutowanych kretoszczurÃ³w i parÄ™ radskorpionÃ³w.}
+{4853}{}{ZgrajÄ™ zÅ‚ocistych gekonÃ³w.}
+{4854}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4855}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4856}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4857}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4858}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4859}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4860}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4861}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4862}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4863}{}{ZgrajÄ™ wilkÃ³w.}
+{4864}{}{ZgrajÄ™ zmutowanych kretoszczurÃ³w.}
+{4865}{}{ZgrajÄ™ radskorpionÃ³w.}
+{4866}{}{ZgrajÄ™ wilkÃ³w i parÄ™ gekonÃ³w.}
+{4867}{}{Kilka zmutowanych kretoszczurÃ³w walczÄ…cych z gekonami.}
+{4868}{}{Kilka kretoszczurÃ³w walczÄ…cych z paroma radskorpionami.}
+{4869}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{4870}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{4900}{}{BandÄ™ NajeÅºdÅºcÃ³w.}
+{4901}{}{Kilka wilkÃ³w.}
+{4902}{}{KarawanÄ™ odpierajÄ…cÄ… atak NajeÅºdÅºcÃ³w.}
+{4903}{}{KarawanÄ™ odpierajÄ…cÄ… atak NajeÅºdÅºcÃ³w.}
+{4904}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4905}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4906}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4907}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4908}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4909}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4910}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4911}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4912}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4913}{}{KarawanÄ™ odpierajÄ…cÄ… atak NajeÅºdÅºcÃ³w.}
+{4914}{}{KarawanÄ™ odpierajÄ…cÄ… atak NajeÅºdÅºcÃ³w.}
+{4915}{}{KarawanÄ™.}
+{4916}{}{KarawanÄ™.}
+{4917}{}{KarawanÄ™.}
+{4918}{}{KarawanÄ™.}
+{4919}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{4920}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{4921}{}{BandÄ™ wkurzonych NajeÅºdÅºcÃ³w.}
+{4950}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{4951}{}{Samotnego, wygÅ‚odzonego psa.}
 {4952}{}{Stado bramin.}
-{4953}{}{Bandê NajeŸdŸców.}
-{4954}{}{Kilku ³owców nagród.}
-{4955}{}{Kilku ³owców nagród.}
-{4956}{}{Kilku ³owców nagród.}
-{4957}{}{Kilku ³owców nagród.}
-{4958}{}{Kilku ³owców nagród.}
-{4959}{}{Kilku ³owców nagród.}
-{4960}{}{Kilku ³owców nagród.}
-{4961}{}{Kilku ³owców nagród.}
-{4962}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{4963}{}{Kilka wilków.}
-{4964}{}{Karawanê odpieraj¹c¹ atak NajeŸdŸców.}
-{4965}{}{Karawanê odpieraj¹c¹ atak NajeŸdŸców.}
-{4966}{}{Karawanê odpieraj¹c¹ atak NajeŸdŸców.}
-{4967}{}{Karawanê odpieraj¹c¹ atak NajeŸdŸców.}
-{4968}{}{Karawanê.}
-{4969}{}{Karawanê.}
-{4970}{}{Karawanê.}
-{4971}{}{Karawanê.}
+{4953}{}{BandÄ™ NajeÅºdÅºcÃ³w.}
+{4954}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4955}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4956}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4957}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4958}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4959}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4960}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4961}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{4962}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{4963}{}{Kilka wilkÃ³w.}
+{4964}{}{KarawanÄ™ odpierajÄ…cÄ… atak NajeÅºdÅºcÃ³w.}
+{4965}{}{KarawanÄ™ odpierajÄ…cÄ… atak NajeÅºdÅºcÃ³w.}
+{4966}{}{KarawanÄ™ odpierajÄ…cÄ… atak NajeÅºdÅºcÃ³w.}
+{4967}{}{KarawanÄ™ odpierajÄ…cÄ… atak NajeÅºdÅºcÃ³w.}
+{4968}{}{KarawanÄ™.}
+{4969}{}{KarawanÄ™.}
+{4970}{}{KarawanÄ™.}
+{4971}{}{KarawanÄ™.}
 {4972}{}{Resztki wieloryba.}
-{4973}{}{Wielk¹ kamienn¹ g³owê.}
-{4974}{}{Rozbity wahad³owiec.}
-{4975}{}{Portal stra¿niczy.}
-{4976}{}{Rycerzy Króla Artura.}
+{4973}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{4974}{}{Rozbity wahadÅ‚owiec.}
+{4975}{}{Portal straÅ¼niczy.}
+{4976}{}{Rycerzy KrÃ³la Artura.}
 {4977}{}{Blaszanego drwala.}
-{4978}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{4979}{}{Bandê wkurzonych NajeŸdŸców.}
-{5000}{}{Bandê oprychów prowadz¹cych kilka wilków.}
-{5001}{}{Parê roœlin i kilka wilków.}
-{5002}{}{Bandê NajeŸdŸców.}
-{5003}{}{Zgrajê wilków.}
-{5004}{}{Kilku ³owców nagród.}
-{5005}{}{Kilku ³owców nagród.}
-{5006}{}{Kilku ³owców nagród.}
-{5007}{}{Kilku ³owców nagród.}
-{5008}{}{Kilku ³owców nagród.}
-{5009}{}{Kilku ³owców nagród.}
-{5010}{}{Kilku ³owców nagród.}
-{5011}{}{Kilku ³owców nagród.}
-{5012}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5013}{}{Zgrajê radskorpionów.}
-{5014}{}{Zgrajê wilków walcz¹cych z kilkoma oprychami.}
-{5015}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{5016}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{5017}{}{Bandê wkurzonych NajeŸdŸców.}
-{5050}{}{Sk³adowisko odpadów toksycznych.}
-{5051}{}{Samotnego, wyg³odzonego psa.}
+{4978}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{4979}{}{BandÄ™ wkurzonych NajeÅºdÅºcÃ³w.}
+{5000}{}{BandÄ™ oprychÃ³w prowadzÄ…cych kilka wilkÃ³w.}
+{5001}{}{ParÄ™ roÅ›lin i kilka wilkÃ³w.}
+{5002}{}{BandÄ™ NajeÅºdÅºcÃ³w.}
+{5003}{}{ZgrajÄ™ wilkÃ³w.}
+{5004}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5005}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5006}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5007}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5008}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5009}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5010}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5011}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5012}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5013}{}{ZgrajÄ™ radskorpionÃ³w.}
+{5014}{}{ZgrajÄ™ wilkÃ³w walczÄ…cych z kilkoma oprychami.}
+{5015}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{5016}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{5017}{}{BandÄ™ wkurzonych NajeÅºdÅºcÃ³w.}
+{5050}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{5051}{}{Samotnego, wygÅ‚odzonego psa.}
 {5052}{}{Stado bramin.}
-{5053}{}{Bandê oprychów prowadz¹cych kilka wilków.}
-{5054}{}{Kilku ³owców nagród.}
-{5055}{}{Kilku ³owców nagród.}
-{5056}{}{Kilku ³owców nagród.}
-{5057}{}{Kilku ³owców nagród.}
-{5058}{}{Kilku ³owców nagród.}
-{5059}{}{Kilku ³owców nagród.}
-{5060}{}{Kilku ³owców nagród.}
-{5061}{}{Kilku ³owców nagród.}
-{5062}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5063}{}{Parê roœlin i kilka wilków.}
-{5064}{}{Bandê NajeŸdŸców.}
-{5065}{}{Zgrajê wilków.}
-{5066}{}{Zgrajê radskorpionów.}
-{5067}{}{Zgrajê wilków walcz¹cych z kilkoma oprychami.}
+{5053}{}{BandÄ™ oprychÃ³w prowadzÄ…cych kilka wilkÃ³w.}
+{5054}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5055}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5056}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5057}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5058}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5059}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5060}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5061}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5062}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5063}{}{ParÄ™ roÅ›lin i kilka wilkÃ³w.}
+{5064}{}{BandÄ™ NajeÅºdÅºcÃ³w.}
+{5065}{}{ZgrajÄ™ wilkÃ³w.}
+{5066}{}{ZgrajÄ™ radskorpionÃ³w.}
+{5067}{}{ZgrajÄ™ wilkÃ³w walczÄ…cych z kilkoma oprychami.}
 {5068}{}{Resztki wieloryba.}
-{5069}{}{Wielk¹ kamienn¹ g³owê.}
-{5070}{}{Rozbity wahad³owiec.}
-{5071}{}{Portal stra¿niczy.}
-{5072}{}{Rycerzy Króla Artura.}
+{5069}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{5070}{}{Rozbity wahadÅ‚owiec.}
+{5071}{}{Portal straÅ¼niczy.}
+{5072}{}{Rycerzy KrÃ³la Artura.}
 {5073}{}{Blaszanego drwala.}
-{5074}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{5075}{}{Bandê wkurzonych NajeŸdŸców.}
-{5100}{}{Sk³adowisko odpadów toksycznych.}
-{5101}{}{Samotnego, wyg³odzonego psa.}
+{5074}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{5075}{}{BandÄ™ wkurzonych NajeÅºdÅºcÃ³w.}
+{5100}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{5101}{}{Samotnego, wygÅ‚odzonego psa.}
 {5102}{}{Stado bramin.}
 {5103}{}{Patrol Enklawy.}
-{5104}{}{Kilku ³owców nagród.}
-{5105}{}{Kilku ³owców nagród.}
-{5106}{}{Kilku ³owców nagród.}
-{5107}{}{Kilku ³owców nagród.}
-{5108}{}{Kilku ³owców nagród.}
-{5109}{}{Kilku ³owców nagród.}
-{5110}{}{Kilku ³owców nagród.}
-{5111}{}{Kilku ³owców nagród.}
-{5112}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
+{5104}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5105}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5106}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5107}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5108}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5109}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5110}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5111}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5112}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
 {5113}{}{Resztki wieloryba.}
-{5114}{}{Wielk¹ kamienn¹ g³owê.}
-{5115}{}{Rozbity wahad³owiec.}
-{5116}{}{Portal stra¿niczy.}
-{5117}{}{Rycerzy Króla Artura.}
+{5114}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{5115}{}{Rozbity wahadÅ‚owiec.}
+{5116}{}{Portal straÅ¼niczy.}
+{5117}{}{Rycerzy KrÃ³la Artura.}
 {5118}{}{Blaszanego drwala.}
-{5119}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{5120}{}{Kawiarniê Niespe³nionych Marzeñ.}
+{5119}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{5120}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}
 {5150}{}{Patrol Enklawy.}
-{5151}{}{Kilku ³owców nagród.}
-{5152}{}{Kilku ³owców nagród.}
-{5153}{}{Kilku ³owców nagród.}
-{5154}{}{Kilku ³owców nagród.}
-{5155}{}{Kilku ³owców nagród.}
-{5156}{}{Kilku ³owców nagród.}
-{5157}{}{Kilku ³owców nagród.}
-{5158}{}{Kilku ³owców nagród.}
-{5159}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5160}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{5161}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
+{5151}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5152}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5153}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5154}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5155}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5156}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5157}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5158}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5159}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5160}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{5161}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
 {5200}{}{Patrol Enklawy.}
-{5201}{}{Kilku ³owców nagród.}
-{5202}{}{Kilku ³owców nagród.}
-{5203}{}{Kilku ³owców nagród.}
-{5204}{}{Kilku ³owców nagród.}
-{5205}{}{Kilku ³owców nagród.}
-{5206}{}{Kilku ³owców nagród.}
-{5207}{}{Kilku ³owców nagród.}
-{5208}{}{Kilku ³owców nagród.}
-{5209}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5250}{}{Sk³adowisko odpadów toksycznych.}
-{5251}{}{Samotnego, wyg³odzonego psa.}
+{5201}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5202}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5203}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5204}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5205}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5206}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5207}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5208}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5209}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5250}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{5251}{}{Samotnego, wygÅ‚odzonego psa.}
 {5252}{}{Stado bramin.}
-{5253}{}{Kilku kosmitów i szponów œmierci.}
-{5254}{}{Kilku ³owców nagród.}
-{5255}{}{Kilku ³owców nagród.}
-{5256}{}{Kilku ³owców nagród.}
-{5257}{}{Kilku ³owców nagród.}
-{5258}{}{Kilku ³owców nagród.}
-{5259}{}{Kilku ³owców nagród.}
-{5260}{}{Kilku ³owców nagród.}
-{5261}{}{Kilku ³owców nagród.}
-{5262}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5263}{}{Armiê wisielców i centaurów.}
-{5264}{}{Kilka ognistych gekonów.}
-{5265}{}{Spor¹ grupê kosmitów.}
-{5266}{}{Grupkê szponów œmierci.}
-{5267}{}{Kilka ognistych gekonów.}
-{5268}{}{Kilku kosmitów.}
-{5269}{}{Stado centaurów.}
-{5270}{}{Chmarê wisielców.}
+{5253}{}{Kilku kosmitÃ³w i szponÃ³w Å›mierci.}
+{5254}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5255}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5256}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5257}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5258}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5259}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5260}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5261}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5262}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5263}{}{ArmiÄ™ wisielcÃ³w i centaurÃ³w.}
+{5264}{}{Kilka ognistych gekonÃ³w.}
+{5265}{}{SporÄ… grupÄ™ kosmitÃ³w.}
+{5266}{}{GrupkÄ™ szponÃ³w Å›mierci.}
+{5267}{}{Kilka ognistych gekonÃ³w.}
+{5268}{}{Kilku kosmitÃ³w.}
+{5269}{}{Stado centaurÃ³w.}
+{5270}{}{ChmarÄ™ wisielcÃ³w.}
 {5271}{}{Resztki wieloryba.}
-{5272}{}{Wielk¹ kamienn¹ g³owê.}
-{5273}{}{Rozbity wahad³owiec.}
-{5274}{}{Portal stra¿niczy.}
-{5275}{}{Rycerzy Króla Artura.}
+{5272}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{5273}{}{Rozbity wahadÅ‚owiec.}
+{5274}{}{Portal straÅ¼niczy.}
+{5275}{}{Rycerzy KrÃ³la Artura.}
 {5276}{}{Blaszanego drwala.}
-{5277}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{5278}{}{Kawiarniê Niespe³nionych Marzeñ.}
-{5279}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-{5300}{}{Kilku kosmitów i szponów œmierci.}
-{5301}{}{Armiê wisielców i centaurów.}
-{5302}{}{Kilka ognistych gekonów.}
-{5303}{}{Spor¹ grupê kosmitów.}
-{5304}{}{Kilku ³owców nagród.}
-{5305}{}{Kilku ³owców nagród.}
-{5306}{}{Kilku ³owców nagród.}
-{5307}{}{Kilku ³owców nagród.}
-{5308}{}{Kilku ³owców nagród.}
-{5309}{}{Kilku ³owców nagród.}
-{5310}{}{Kilku ³owców nagród.}
-{5311}{}{Kilku ³owców nagród.}
-{5312}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5313}{}{Grupkê szponów œmierci.}
-{5314}{}{Kilka ognistych gekonów.}
-{5315}{}{Kilku kosmitów.}
-{5316}{}{Stado centaurów.}
-{5317}{}{Chmarê wisielców.}
-{5318}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{5319}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{5320}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-{5350}{}{Kilku kosmitów i szponów œmierci.}
-{5351}{}{Armiê wisielców i centaurów.}
-{5352}{}{Kilka ognistych gekonów.}
-{5353}{}{Spor¹ grupê kosmitów.}
-{5354}{}{Kilku ³owców nagród.}
-{5355}{}{Kilku ³owców nagród.}
-{5356}{}{Kilku ³owców nagród.}
-{5357}{}{Kilku ³owców nagród.}
-{5358}{}{Kilku ³owców nagród.}
-{5359}{}{Kilku ³owców nagród.}
-{5360}{}{Kilku ³owców nagród.}
-{5361}{}{Kilku ³owców nagród.}
-{5362}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5363}{}{Grupkê szponów œmierci.}
-{5364}{}{Kilka ognistych gekonów.}
-{5365}{}{Kilku kosmitów.}
-{5366}{}{Stado centaurów.}
-{5367}{}{Chmarê wisielców.}
-{5368}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-{5400}{}{Sk³adowisko odpadów toksycznych.}
-{5401}{}{Samotnego, wyg³odzonego psa.}
+{5277}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{5278}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}
+{5279}{}{Zebranie grupy ludzi. WyglÄ…dajÄ… na waÅ¼nych.}
+{5300}{}{Kilku kosmitÃ³w i szponÃ³w Å›mierci.}
+{5301}{}{ArmiÄ™ wisielcÃ³w i centaurÃ³w.}
+{5302}{}{Kilka ognistych gekonÃ³w.}
+{5303}{}{SporÄ… grupÄ™ kosmitÃ³w.}
+{5304}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5305}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5306}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5307}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5308}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5309}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5310}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5311}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5312}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5313}{}{GrupkÄ™ szponÃ³w Å›mierci.}
+{5314}{}{Kilka ognistych gekonÃ³w.}
+{5315}{}{Kilku kosmitÃ³w.}
+{5316}{}{Stado centaurÃ³w.}
+{5317}{}{ChmarÄ™ wisielcÃ³w.}
+{5318}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{5319}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{5320}{}{Zebranie grupy ludzi. WyglÄ…dajÄ… na waÅ¼nych.}
+{5350}{}{Kilku kosmitÃ³w i szponÃ³w Å›mierci.}
+{5351}{}{ArmiÄ™ wisielcÃ³w i centaurÃ³w.}
+{5352}{}{Kilka ognistych gekonÃ³w.}
+{5353}{}{SporÄ… grupÄ™ kosmitÃ³w.}
+{5354}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5355}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5356}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5357}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5358}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5359}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5360}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5361}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5362}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5363}{}{GrupkÄ™ szponÃ³w Å›mierci.}
+{5364}{}{Kilka ognistych gekonÃ³w.}
+{5365}{}{Kilku kosmitÃ³w.}
+{5366}{}{Stado centaurÃ³w.}
+{5367}{}{ChmarÄ™ wisielcÃ³w.}
+{5368}{}{Zebranie grupy ludzi. WyglÄ…dajÄ… na waÅ¼nych.}
+{5400}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{5401}{}{Samotnego, wygÅ‚odzonego psa.}
 {5402}{}{Stado bramin.}
-{5403}{}{Stado ognistych gekonów.}
-{5404}{}{Kilku ³owców nagród.}
-{5405}{}{Kilku ³owców nagród.}
-{5406}{}{Kilku ³owców nagród.}
-{5407}{}{Kilku ³owców nagród.}
-{5408}{}{Kilku ³owców nagród.}
-{5409}{}{Kilku ³owców nagród.}
-{5410}{}{Kilku ³owców nagród.}
-{5411}{}{Kilku ³owców nagród.}
-{5412}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5413}{}{Stado ognistych gekonów.}
-{5414}{}{Spore stado z³ocistych gekonów.}
+{5403}{}{Stado ognistych gekonÃ³w.}
+{5404}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5405}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5406}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5407}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5408}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5409}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5410}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5411}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5412}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5413}{}{Stado ognistych gekonÃ³w.}
+{5414}{}{Spore stado zÅ‚ocistych gekonÃ³w.}
 {5415}{}{Resztki wieloryba.}
-{5416}{}{Wielk¹ kamienn¹ g³owê.}
-{5417}{}{Rozbity wahad³owiec.}
-{5418}{}{Portal stra¿niczy.}
-{5419}{}{Rycerzy Króla Artura.}
+{5416}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{5417}{}{Rozbity wahadÅ‚owiec.}
+{5418}{}{Portal straÅ¼niczy.}
+{5419}{}{Rycerzy KrÃ³la Artura.}
 {5420}{}{Blaszanego drwala.}
-{5421}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{5422}{}{Kawiarniê Niespe³nionych Marzeñ.}
-{5423}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-{5450}{}{Stado ognistych gekonów.}
-{5451}{}{Stado ognistych gekonów.}
-{5452}{}{Spore stado z³ocistych gekonów.}
-{5453}{}{Kilku ³owców nagród.}
-{5454}{}{Kilku ³owców nagród.}
-{5455}{}{Kilku ³owców nagród.}
-{5456}{}{Kilku ³owców nagród.}
-{5457}{}{Kilku ³owców nagród.}
-{5458}{}{Kilku ³owców nagród.}
-{5459}{}{Kilku ³owców nagród.}
-{5460}{}{Kilku ³owców nagród.}
-{5461}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5462}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{5463}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{5464}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-{5500}{}{Stado ognistych gekonów.}
-{5501}{}{Stado ognistych gekonów.}
-{5502}{}{Spore stado z³ocistych gekonów.}
-{5503}{}{Kilku ³owców nagród.}
-{5504}{}{Kilku ³owców nagród.}
-{5505}{}{Kilku ³owców nagród.}
-{5506}{}{Kilku ³owców nagród.}
-{5507}{}{Kilku ³owców nagród.}
-{5508}{}{Kilku ³owców nagród.}
-{5509}{}{Kilku ³owców nagród.}
-{5510}{}{Kilku ³owców nagród.}
-{5511}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5512}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-{5550}{}{Sk³adowisko odpadów toksycznych.}
-{5551}{}{Samotnego, wyg³odzonego psa.}
+{5421}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{5422}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}
+{5423}{}{Zebranie grupy ludzi. WyglÄ…dajÄ… na waÅ¼nych.}
+{5450}{}{Stado ognistych gekonÃ³w.}
+{5451}{}{Stado ognistych gekonÃ³w.}
+{5452}{}{Spore stado zÅ‚ocistych gekonÃ³w.}
+{5453}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5454}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5455}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5456}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5457}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5458}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5459}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5460}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5461}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5462}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{5463}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{5464}{}{Zebranie grupy ludzi. WyglÄ…dajÄ… na waÅ¼nych.}
+{5500}{}{Stado ognistych gekonÃ³w.}
+{5501}{}{Stado ognistych gekonÃ³w.}
+{5502}{}{Spore stado zÅ‚ocistych gekonÃ³w.}
+{5503}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5504}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5505}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5506}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5507}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5508}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5509}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5510}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5511}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5512}{}{Zebranie grupy ludzi. WyglÄ…dajÄ… na waÅ¼nych.}
+{5550}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{5551}{}{Samotnego, wygÅ‚odzonego psa.}
 {5552}{}{Stado bramin.}
-{5553}{}{Zgrajê szponów œmierci.}
-{5554}{}{Kilku ³owców nagród.}
-{5555}{}{Kilku ³owców nagród.}
-{5556}{}{Kilku ³owców nagród.}
-{5557}{}{Kilku ³owców nagród.}
-{5558}{}{Kilku ³owców nagród.}
-{5559}{}{Kilku ³owców nagród.}
-{5560}{}{Kilku ³owców nagród.}
-{5561}{}{Kilku ³owców nagród.}
-{5562}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5563}{}{Stado ognistych gekonów.}
-{5564}{}{Karawanê odpieraj¹c¹ atak szponów œmierci.}
-{5565}{}{Karawanê odpieraj¹c¹ atak szponów œmierci.}
-{5566}{}{Karawanê odpieraj¹c¹ atak ognistych gekonów.}
-{5567}{}{Karawanê odpieraj¹c¹ atak ognistych gekonów.}
-{5568}{}{Karawanê.}
-{5569}{}{Karawanê.}
-{5570}{}{Karawanê.}
-{5571}{}{Karawanê.}
+{5553}{}{ZgrajÄ™ szponÃ³w Å›mierci.}
+{5554}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5555}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5556}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5557}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5558}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5559}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5560}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5561}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5562}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5563}{}{Stado ognistych gekonÃ³w.}
+{5564}{}{KarawanÄ™ odpierajÄ…cÄ… atak szponÃ³w Å›mierci.}
+{5565}{}{KarawanÄ™ odpierajÄ…cÄ… atak szponÃ³w Å›mierci.}
+{5566}{}{KarawanÄ™ odpierajÄ…cÄ… atak ognistych gekonÃ³w.}
+{5567}{}{KarawanÄ™ odpierajÄ…cÄ… atak ognistych gekonÃ³w.}
+{5568}{}{KarawanÄ™.}
+{5569}{}{KarawanÄ™.}
+{5570}{}{KarawanÄ™.}
+{5571}{}{KarawanÄ™.}
 {5572}{}{Resztki wieloryba.}
-{5573}{}{Wielk¹ kamienn¹ g³owê.}
-{5574}{}{Rozbity wahad³owiec.}
-{5575}{}{Portal stra¿niczy.}
-{5576}{}{Rycerzy Króla Artura.}
+{5573}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{5574}{}{Rozbity wahadÅ‚owiec.}
+{5575}{}{Portal straÅ¼niczy.}
+{5576}{}{Rycerzy KrÃ³la Artura.}
 {5577}{}{Blaszanego drwala.}
-{5578}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{5600}{}{Zgrajê szponów œmierci.}
-{5601}{}{Stado ognistych gekonów.}
-{5602}{}{Karawanê odpieraj¹c¹ atak szponów œmierci.}
-{5603}{}{Karawanê odpieraj¹c¹ atak szponów œmierci.}
-{5604}{}{Kilku ³owców nagród.}
-{5605}{}{Kilku ³owców nagród.}
-{5606}{}{Kilku ³owców nagród.}
-{5607}{}{Kilku ³owców nagród.}
-{5608}{}{Kilku ³owców nagród.}
-{5609}{}{Kilku ³owców nagród.}
-{5610}{}{Kilku ³owców nagród.}
-{5611}{}{Kilku ³owców nagród.}
-{5612}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5613}{}{Karawanê odpieraj¹c¹ atak ognistych gekonów.}
-{5614}{}{Karawanê odpieraj¹c¹ atak ognistych gekonów.}
-{5615}{}{Karawanê.}
-{5616}{}{Karawanê.}
-{5617}{}{Karawanê.}
-{5618}{}{Karawanê.}
-{5619}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{5620}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{5650}{}{Sk³adowisko odpadów toksycznych.}
-{5651}{}{Samotnego, wyg³odzonego psa.}
+{5578}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{5600}{}{ZgrajÄ™ szponÃ³w Å›mierci.}
+{5601}{}{Stado ognistych gekonÃ³w.}
+{5602}{}{KarawanÄ™ odpierajÄ…cÄ… atak szponÃ³w Å›mierci.}
+{5603}{}{KarawanÄ™ odpierajÄ…cÄ… atak szponÃ³w Å›mierci.}
+{5604}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5605}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5606}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5607}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5608}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5609}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5610}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5611}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5612}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5613}{}{KarawanÄ™ odpierajÄ…cÄ… atak ognistych gekonÃ³w.}
+{5614}{}{KarawanÄ™ odpierajÄ…cÄ… atak ognistych gekonÃ³w.}
+{5615}{}{KarawanÄ™.}
+{5616}{}{KarawanÄ™.}
+{5617}{}{KarawanÄ™.}
+{5618}{}{KarawanÄ™.}
+{5619}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{5620}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{5650}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{5651}{}{Samotnego, wygÅ‚odzonego psa.}
 {5652}{}{Stado bramin.}
-{5653}{}{Kilku cz³onków yakuzy.}
-{5654}{}{Kilku ³owców nagród.}
-{5655}{}{Kilku ³owców nagród.}
-{5656}{}{Kilku ³owców nagród.}
-{5657}{}{Kilku ³owców nagród.}
-{5658}{}{Kilku ³owców nagród.}
-{5659}{}{Kilku ³owców nagród.}
-{5660}{}{Kilku ³owców nagród.}
-{5661}{}{Kilku ³owców nagród.}
-{5662}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
+{5653}{}{Kilku czÅ‚onkÃ³w yakuzy.}
+{5654}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5655}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5656}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5657}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5658}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5659}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5660}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5661}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5662}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
 {5663}{}{Gang.}
-{5664}{}{Zgrajê wilków.}
-{5665}{}{Kilku bandziorów walcz¹cych z cz³onkami yakuzy.}
-{5666}{}{Kilku bandziorów walcz¹cych z gangiem.}
-{5667}{}{Kilku bandziorów.}
-{5668}{}{Podró¿nik.}
+{5664}{}{ZgrajÄ™ wilkÃ³w.}
+{5665}{}{Kilku bandziorÃ³w walczÄ…cych z czÅ‚onkami yakuzy.}
+{5666}{}{Kilku bandziorÃ³w walczÄ…cych z gangiem.}
+{5667}{}{Kilku bandziorÃ³w.}
+{5668}{}{PodrÃ³Å¼nik.}
 {5669}{}{Resztki wieloryba.}
-{5670}{}{Wielk¹ kamienn¹ g³owê.}
-{5671}{}{Rozbity wahad³owiec.}
-{5672}{}{Portal stra¿niczy.}
-{5673}{}{Rycerzy Króla Artura.}
+{5670}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{5671}{}{Rozbity wahadÅ‚owiec.}
+{5672}{}{Portal straÅ¼niczy.}
+{5673}{}{Rycerzy KrÃ³la Artura.}
 {5674}{}{Blaszanego drwala.}
-{5675}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{5676}{}{Kawiarniê Niespe³nionych Marzeñ.}
-{5700}{}{Kilku cz³onków yakuzy.}
+{5675}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{5676}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}
+{5700}{}{Kilku czÅ‚onkÃ³w yakuzy.}
 {5701}{}{Gang.}
-{5702}{}{Zgrajê wilków.}
-{5703}{}{Kilku bandziorów walcz¹cych z cz³onkami yakuzy.}
-{5704}{}{Kilku ³owców nagród.}
-{5705}{}{Kilku ³owców nagród.}
-{5706}{}{Kilku ³owców nagród.}
-{5707}{}{Kilku ³owców nagród.}
-{5708}{}{Kilku ³owców nagród.}
-{5709}{}{Kilku ³owców nagród.}
-{5710}{}{Kilku ³owców nagród.}
-{5711}{}{Kilku ³owców nagród.}
-{5712}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5713}{}{Kilku bandziorów walcz¹cych z gangiem.}
-{5714}{}{Kilku bandziorów.}
-{5715}{}{Podró¿nik.}
-{5716}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{5717}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{5750}{}{Kilku cz³onków yakuzy.}
+{5702}{}{ZgrajÄ™ wilkÃ³w.}
+{5703}{}{Kilku bandziorÃ³w walczÄ…cych z czÅ‚onkami yakuzy.}
+{5704}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5705}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5706}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5707}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5708}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5709}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5710}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5711}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5712}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5713}{}{Kilku bandziorÃ³w walczÄ…cych z gangiem.}
+{5714}{}{Kilku bandziorÃ³w.}
+{5715}{}{PodrÃ³Å¼nik.}
+{5716}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{5717}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{5750}{}{Kilku czÅ‚onkÃ³w yakuzy.}
 {5751}{}{Gang.}
-{5752}{}{Zgrajê wilków.}
-{5753}{}{Kilku bandziorów walcz¹cych z cz³onkami yakuzy.}
-{5754}{}{Kilku ³owców nagród.}
-{5755}{}{Kilku ³owców nagród.}
-{5756}{}{Kilku ³owców nagród.}
-{5757}{}{Kilku ³owców nagród.}
-{5758}{}{Kilku ³owców nagród.}
-{5759}{}{Kilku ³owców nagród.}
-{5760}{}{Kilku ³owców nagród.}
-{5761}{}{Kilku ³owców nagród.}
-{5762}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5763}{}{Kilku bandziorów walcz¹cych z gangiem.}
-{5764}{}{Kilku bandziorów.}
-{5765}{}{Podró¿nik.}
-{5800}{}{Sk³adowisko odpadów toksycznych.}
-{5801}{}{Samotnego, wyg³odzonego psa.}
+{5752}{}{ZgrajÄ™ wilkÃ³w.}
+{5753}{}{Kilku bandziorÃ³w walczÄ…cych z czÅ‚onkami yakuzy.}
+{5754}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5755}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5756}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5757}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5758}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5759}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5760}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5761}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5762}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5763}{}{Kilku bandziorÃ³w walczÄ…cych z gangiem.}
+{5764}{}{Kilku bandziorÃ³w.}
+{5765}{}{PodrÃ³Å¼nik.}
+{5800}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{5801}{}{Samotnego, wygÅ‚odzonego psa.}
 {5802}{}{Stado bramin.}
-{5803}{}{Bandê z³odziei i kilka wilków.}
-{5804}{}{Kilku ³owców nagród.}
-{5805}{}{Kilku ³owców nagród.}
-{5806}{}{Kilku ³owców nagród.}
-{5807}{}{Kilku ³owców nagród.}
-{5808}{}{Kilku ³owców nagród.}
-{5809}{}{Kilku ³owców nagród.}
-{5810}{}{Kilku ³owców nagród.}
-{5811}{}{Kilku ³owców nagród.}
-{5812}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5813}{}{Bandê z³odziei.}
-{5814}{}{Zgrajê wilków.}
-{5815}{}{Zgrajê radskorpionów.}
-{5816}{}{K³êbowisko roœlin.}
-{5817}{}{Patrol Jednoœci walcz¹cy z kilkoma z³odziejami.}
-{5818}{}{Patrol Jednoœci walcz¹cy z kilkoma wilkami.}
-{5819}{}{Patrol Jednoœci.}
+{5803}{}{BandÄ™ zÅ‚odziei i kilka wilkÃ³w.}
+{5804}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5805}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5806}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5807}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5808}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5809}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5810}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5811}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5812}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5813}{}{BandÄ™ zÅ‚odziei.}
+{5814}{}{ZgrajÄ™ wilkÃ³w.}
+{5815}{}{ZgrajÄ™ radskorpionÃ³w.}
+{5816}{}{KÅ‚Ä™bowisko roÅ›lin.}
+{5817}{}{Patrol JednoÅ›ci walczÄ…cy z kilkoma zÅ‚odziejami.}
+{5818}{}{Patrol JednoÅ›ci walczÄ…cy z kilkoma wilkami.}
+{5819}{}{Patrol JednoÅ›ci.}
 {5820}{}{Resztki wieloryba.}
-{5821}{}{Wielk¹ kamienn¹ g³owê.}
-{5822}{}{Rozbity wahad³owiec.}
-{5823}{}{Portal stra¿niczy.}
-{5824}{}{Rycerzy Króla Artura.}
+{5821}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{5822}{}{Rozbity wahadÅ‚owiec.}
+{5823}{}{Portal straÅ¼niczy.}
+{5824}{}{Rycerzy KrÃ³la Artura.}
 {5825}{}{Blaszanego drwala.}
-{5826}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{5850}{}{Bandê z³odziei i kilka wilków.}
-{5851}{}{Bandê z³odziei.}
-{5852}{}{Zgrajê wilków.}
-{5853}{}{Zgrajê radskorpionów.}
-{5854}{}{Kilku ³owców nagród.}
-{5855}{}{Kilku ³owców nagród.}
-{5856}{}{Kilku ³owców nagród.}
-{5857}{}{Kilku ³owców nagród.}
-{5858}{}{Kilku ³owców nagród.}
-{5859}{}{Kilku ³owców nagród.}
-{5860}{}{Kilku ³owców nagród.}
-{5861}{}{Kilku ³owców nagród.}
-{5862}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5863}{}{K³êbowisko roœlin.}
-{5864}{}{Patrol Jednoœci walcz¹cy z kilkoma z³odziejami.}
-{5865}{}{Patrol Jednoœci walcz¹cy z kilkoma wilkami.}
-{5866}{}{Patrol Jednoœci.}
-{5867}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{5868}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{5900}{}{Bandê najemników.}
+{5826}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{5850}{}{BandÄ™ zÅ‚odziei i kilka wilkÃ³w.}
+{5851}{}{BandÄ™ zÅ‚odziei.}
+{5852}{}{ZgrajÄ™ wilkÃ³w.}
+{5853}{}{ZgrajÄ™ radskorpionÃ³w.}
+{5854}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5855}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5856}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5857}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5858}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5859}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5860}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5861}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5862}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5863}{}{KÅ‚Ä™bowisko roÅ›lin.}
+{5864}{}{Patrol JednoÅ›ci walczÄ…cy z kilkoma zÅ‚odziejami.}
+{5865}{}{Patrol JednoÅ›ci walczÄ…cy z kilkoma wilkami.}
+{5866}{}{Patrol JednoÅ›ci.}
+{5867}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{5868}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{5900}{}{BandÄ™ najemnikÃ³w.}
 {5901}{}{Gang prasowy.}
-{5902}{}{Stado szponów œmierci.}
-{5903}{}{Grupê ognistych gekonów.}
-{5904}{}{Kilku ³owców nagród.}
-{5905}{}{Kilku ³owców nagród.}
-{5906}{}{Kilku ³owców nagród.}
-{5907}{}{Kilku ³owców nagród.}
-{5908}{}{Kilku ³owców nagród.}
-{5909}{}{Kilku ³owców nagród.}
-{5910}{}{Kilku ³owców nagród.}
-{5911}{}{Kilku ³owców nagród.}
-{5912}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5913}{}{Gromadê kosmitów.}
-{5914}{}{Centrologów walcz¹cych z najemnikami.}
-{5915}{}{Centrologów odpieraj¹cych atak gangu prasowego.}
-{5916}{}{Centrologów.}
-{5917}{}{Bandê wkurzonych najemników.}
-{5918}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-{5950}{}{Bandê najemników.}
+{5902}{}{Stado szponÃ³w Å›mierci.}
+{5903}{}{GrupÄ™ ognistych gekonÃ³w.}
+{5904}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5905}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5906}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5907}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5908}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5909}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5910}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5911}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5912}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5913}{}{GromadÄ™ kosmitÃ³w.}
+{5914}{}{CentrologÃ³w walczÄ…cych z najemnikami.}
+{5915}{}{CentrologÃ³w odpierajÄ…cych atak gangu prasowego.}
+{5916}{}{CentrologÃ³w.}
+{5917}{}{BandÄ™ wkurzonych najemnikÃ³w.}
+{5918}{}{Zebranie grupy ludzi. WyglÄ…dajÄ… na waÅ¼nych.}
+{5950}{}{BandÄ™ najemnikÃ³w.}
 {5951}{}{Gang prasowy.}
-{5952}{}{Stado szponów œmierci.}
-{5953}{}{Grupê ognistych gekonów.}
-{5954}{}{Kilku ³owców nagród.}
-{5955}{}{Kilku ³owców nagród.}
-{5956}{}{Kilku ³owców nagród.}
-{5957}{}{Kilku ³owców nagród.}
-{5958}{}{Kilku ³owców nagród.}
-{5959}{}{Kilku ³owców nagród.}
-{5960}{}{Kilku ³owców nagród.}
-{5961}{}{Kilku ³owców nagród.}
-{5962}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5963}{}{Gromadê kosmitów.}
-{5964}{}{Centrologów walcz¹cych z najemnikami.}
-{5965}{}{Centrologów odpieraj¹cych atak gangu prasowego.}
-{5966}{}{Centrologów.}
-{5967}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{5968}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{5969}{}{Bandê wkurzonych najemników.}
-{5970}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-{6000}{}{Bandê najemników.}
+{5952}{}{Stado szponÃ³w Å›mierci.}
+{5953}{}{GrupÄ™ ognistych gekonÃ³w.}
+{5954}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5955}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5956}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5957}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5958}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5959}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5960}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5961}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{5962}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{5963}{}{GromadÄ™ kosmitÃ³w.}
+{5964}{}{CentrologÃ³w walczÄ…cych z najemnikami.}
+{5965}{}{CentrologÃ³w odpierajÄ…cych atak gangu prasowego.}
+{5966}{}{CentrologÃ³w.}
+{5967}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{5968}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{5969}{}{BandÄ™ wkurzonych najemnikÃ³w.}
+{5970}{}{Zebranie grupy ludzi. WyglÄ…dajÄ… na waÅ¼nych.}
+{6000}{}{BandÄ™ najemnikÃ³w.}
 {6001}{}{Gang prasowy.}
-{6002}{}{Stado szponów œmierci.}
-{6003}{}{Grupê ognistych gekonów.}
-{6004}{}{Kilku ³owców nagród.}
-{6005}{}{Kilku ³owców nagród.}
-{6006}{}{Kilku ³owców nagród.}
-{6007}{}{Kilku ³owców nagród.}
-{6008}{}{Kilku ³owców nagród.}
-{6009}{}{Kilku ³owców nagród.}
-{6010}{}{Kilku ³owców nagród.}
-{6011}{}{Kilku ³owców nagród.}
-{6012}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6013}{}{Gromadê kosmitów.}
-{6014}{}{Centrologów walcz¹cych z najemnikami.}
-{6015}{}{Centrologów odpieraj¹cych atak gangu prasowego.}
-{6016}{}{Centrologów.}
-{6017}{}{Bandê wkurzonych najemników.}
-{6018}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-{6050}{}{Sk³adowisko odpadów toksycznych.}
-{6051}{}{Samotnego, wyg³odzonego psa.}
+{6002}{}{Stado szponÃ³w Å›mierci.}
+{6003}{}{GrupÄ™ ognistych gekonÃ³w.}
+{6004}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6005}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6006}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6007}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6008}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6009}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6010}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6011}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6012}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6013}{}{GromadÄ™ kosmitÃ³w.}
+{6014}{}{CentrologÃ³w walczÄ…cych z najemnikami.}
+{6015}{}{CentrologÃ³w odpierajÄ…cych atak gangu prasowego.}
+{6016}{}{CentrologÃ³w.}
+{6017}{}{BandÄ™ wkurzonych najemnikÃ³w.}
+{6018}{}{Zebranie grupy ludzi. WyglÄ…dajÄ… na waÅ¼nych.}
+{6050}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{6051}{}{Samotnego, wygÅ‚odzonego psa.}
 {6052}{}{Stado bramin.}
-{6053}{}{Bandê najemników.}
-{6054}{}{Kilku ³owców nagród.}
-{6055}{}{Kilku ³owców nagród.}
-{6056}{}{Kilku ³owców nagród.}
-{6057}{}{Kilku ³owców nagród.}
-{6058}{}{Kilku ³owców nagród.}
-{6059}{}{Kilku ³owców nagród.}
-{6060}{}{Kilku ³owców nagród.}
-{6061}{}{Kilku ³owców nagród.}
-{6062}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
+{6053}{}{BandÄ™ najemnikÃ³w.}
+{6054}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6055}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6056}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6057}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6058}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6059}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6060}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6061}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6062}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
 {6063}{}{Gang prasowy.}
-{6064}{}{Stado szponów œmierci.}
-{6065}{}{Grupê ognistych gekonów.}
-{6066}{}{Gromadê kosmitów.}
-{6067}{}{Centrologów walcz¹cych z najemnikami.}
-{6068}{}{Centrologów odpieraj¹cych atak gangu prasowego.}
-{6069}{}{Centrologów.}
+{6064}{}{Stado szponÃ³w Å›mierci.}
+{6065}{}{GrupÄ™ ognistych gekonÃ³w.}
+{6066}{}{GromadÄ™ kosmitÃ³w.}
+{6067}{}{CentrologÃ³w walczÄ…cych z najemnikami.}
+{6068}{}{CentrologÃ³w odpierajÄ…cych atak gangu prasowego.}
+{6069}{}{CentrologÃ³w.}
 {6070}{}{Resztki wieloryba.}
-{6071}{}{Wielk¹ kamienn¹ g³owê.}
-{6072}{}{Rozbity wahad³owiec.}
-{6073}{}{Portal stra¿niczy.}
-{6074}{}{Rycerzy Króla Artura.}
+{6071}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{6072}{}{Rozbity wahadÅ‚owiec.}
+{6073}{}{Portal straÅ¼niczy.}
+{6074}{}{Rycerzy KrÃ³la Artura.}
 {6075}{}{Blaszanego drwala.}
-{6076}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{6077}{}{Kawiarniê Niespe³nionych Marzeñ.}
-{6078}{}{Bandê wkurzonych najemników.}
-{6079}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-{6100}{}{Sk³adowisko odpadów toksycznych.}
-{6101}{}{Samotnego, wyg³odzonego psa.}
+{6076}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{6077}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}
+{6078}{}{BandÄ™ wkurzonych najemnikÃ³w.}
+{6079}{}{Zebranie grupy ludzi. WyglÄ…dajÄ… na waÅ¼nych.}
+{6100}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{6101}{}{Samotnego, wygÅ‚odzonego psa.}
 {6102}{}{Stado bramin.}
-{6103}{}{Bandê najemników.}
-{6104}{}{Kilku ³owców nagród.}
-{6105}{}{Kilku ³owców nagród.}
-{6106}{}{Kilku ³owców nagród.}
-{6107}{}{Kilku ³owców nagród.}
-{6108}{}{Kilku ³owców nagród.}
-{6109}{}{Kilku ³owców nagród.}
-{6110}{}{Kilku ³owców nagród.}
-{6111}{}{Kilku ³owców nagród.}
-{6112}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6113}{}{Zgrajê szponów œmierci.}
-{6114}{}{Stado ognistych gekonów.}
-{6115}{}{Gromadê kosmitów.}
-{6116}{}{Karawanê odpieraj¹c¹ atak najemników.}
-{6117}{}{Karawanê odpieraj¹c¹ atak najemników.}
-{6118}{}{Karawanê odpieraj¹c¹ atak ognistych gekonów.}
-{6119}{}{Karawanê odpieraj¹c¹ atak kosmitów.}
-{6120}{}{Karawanê.}
-{6121}{}{Karawanê.}
+{6103}{}{BandÄ™ najemnikÃ³w.}
+{6104}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6105}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6106}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6107}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6108}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6109}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6110}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6111}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6112}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6113}{}{ZgrajÄ™ szponÃ³w Å›mierci.}
+{6114}{}{Stado ognistych gekonÃ³w.}
+{6115}{}{GromadÄ™ kosmitÃ³w.}
+{6116}{}{KarawanÄ™ odpierajÄ…cÄ… atak najemnikÃ³w.}
+{6117}{}{KarawanÄ™ odpierajÄ…cÄ… atak najemnikÃ³w.}
+{6118}{}{KarawanÄ™ odpierajÄ…cÄ… atak ognistych gekonÃ³w.}
+{6119}{}{KarawanÄ™ odpierajÄ…cÄ… atak kosmitÃ³w.}
+{6120}{}{KarawanÄ™.}
+{6121}{}{KarawanÄ™.}
 {6122}{}{Resztki wieloryba.}
-{6123}{}{Wielk¹ kamienn¹ g³owê.}
-{6124}{}{Rozbity wahad³owiec.}
-{6125}{}{Portal stra¿niczy.}
-{6126}{}{Rycerzy Króla Artura.}
+{6123}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{6124}{}{Rozbity wahadÅ‚owiec.}
+{6125}{}{Portal straÅ¼niczy.}
+{6126}{}{Rycerzy KrÃ³la Artura.}
 {6127}{}{Blaszanego drwala.}
-{6128}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{6129}{}{Kawiarniê Niespe³nionych Marzeñ.}
-{6130}{}{Bandê wkurzonych najemników.}
-{6150}{}{Bandê najemników.}
-{6151}{}{Zgrajê szponów œmierci.}
-{6152}{}{Stado ognistych gekonów.}
-{6153}{}{Gromadê kosmitów.}
-{6154}{}{Kilku ³owców nagród.}
-{6155}{}{Kilku ³owców nagród.}
-{6156}{}{Kilku ³owców nagród.}
-{6157}{}{Kilku ³owców nagród.}
-{6158}{}{Kilku ³owców nagród.}
-{6159}{}{Kilku ³owców nagród.}
-{6160}{}{Kilku ³owców nagród.}
-{6161}{}{Kilku ³owców nagród.}
-{6162}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6163}{}{Karawanê odpieraj¹c¹ atak najemników.}
-{6164}{}{Karawanê odpieraj¹c¹ atak najemników.}
-{6165}{}{Karawanê odpieraj¹c¹ atak ognistych gekonów.}
-{6166}{}{Karawanê odpieraj¹c¹ atak kosmitów.}
-{6167}{}{Karawanê.}
-{6168}{}{Karawanê.}
-{6169}{}{Bandê wkurzonych najemników.}
-{6200}{}{Sk³adowisko odpadów toksycznych.}
-{6201}{}{Samotnego, wyg³odzonego psa.}
+{6128}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{6129}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}
+{6130}{}{BandÄ™ wkurzonych najemnikÃ³w.}
+{6150}{}{BandÄ™ najemnikÃ³w.}
+{6151}{}{ZgrajÄ™ szponÃ³w Å›mierci.}
+{6152}{}{Stado ognistych gekonÃ³w.}
+{6153}{}{GromadÄ™ kosmitÃ³w.}
+{6154}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6155}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6156}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6157}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6158}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6159}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6160}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6161}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6162}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6163}{}{KarawanÄ™ odpierajÄ…cÄ… atak najemnikÃ³w.}
+{6164}{}{KarawanÄ™ odpierajÄ…cÄ… atak najemnikÃ³w.}
+{6165}{}{KarawanÄ™ odpierajÄ…cÄ… atak ognistych gekonÃ³w.}
+{6166}{}{KarawanÄ™ odpierajÄ…cÄ… atak kosmitÃ³w.}
+{6167}{}{KarawanÄ™.}
+{6168}{}{KarawanÄ™.}
+{6169}{}{BandÄ™ wkurzonych najemnikÃ³w.}
+{6200}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{6201}{}{Samotnego, wygÅ‚odzonego psa.}
 {6202}{}{Stado bramin.}
 {6203}{}{Patrol Enklawy.}
-{6204}{}{Kilku ³owców nagród.}
-{6205}{}{Kilku ³owców nagród.}
-{6206}{}{Kilku ³owców nagród.}
-{6207}{}{Kilku ³owców nagród.}
-{6208}{}{Kilku ³owców nagród.}
-{6209}{}{Kilku ³owców nagród.}
-{6210}{}{Kilku ³owców nagród.}
-{6211}{}{Kilku ³owców nagród.}
-{6212}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6213}{}{Niedobitków z armii Mistrza.}
-{6214}{}{Zgrajê szponów œmierci.}
-{6215}{}{Chmarê modliszek.}
+{6204}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6205}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6206}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6207}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6208}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6209}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6210}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6211}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6212}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6213}{}{NiedobitkÃ³w z armii Mistrza.}
+{6214}{}{ZgrajÄ™ szponÃ³w Å›mierci.}
+{6215}{}{ChmarÄ™ modliszek.}
 {6216}{}{Resztki wieloryba.}
-{6217}{}{Wielk¹ kamienn¹ g³owê.}
-{6218}{}{Rozbity wahad³owiec.}
-{6219}{}{Portal stra¿niczy.}
-{6220}{}{Rycerzy Króla Artura.}
+{6217}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{6218}{}{Rozbity wahadÅ‚owiec.}
+{6219}{}{Portal straÅ¼niczy.}
+{6220}{}{Rycerzy KrÃ³la Artura.}
 {6221}{}{Blaszanego drwala.}
-{6222}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{6223}{}{Kawiarniê Niespe³nionych Marzeñ.}
+{6222}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{6223}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}
 {6250}{}{Patrol Enklawy.}
-{6251}{}{Niedobitków z armii Mistrza.}
-{6252}{}{Zgrajê szponów œmierci.}
-{6253}{}{Chmarê modliszek.}
-{6254}{}{Kilku ³owców nagród.}
-{6255}{}{Kilku ³owców nagród.}
-{6256}{}{Kilku ³owców nagród.}
-{6257}{}{Kilku ³owców nagród.}
-{6258}{}{Kilku ³owców nagród.}
-{6259}{}{Kilku ³owców nagród.}
-{6260}{}{Kilku ³owców nagród.}
-{6261}{}{Kilku ³owców nagród.}
-{6262}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6263}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{6264}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{6300}{}{Sk³adowisko odpadów toksycznych.}
-{6301}{}{Samotnego, wyg³odzonego psa.}
+{6251}{}{NiedobitkÃ³w z armii Mistrza.}
+{6252}{}{ZgrajÄ™ szponÃ³w Å›mierci.}
+{6253}{}{ChmarÄ™ modliszek.}
+{6254}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6255}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6256}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6257}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6258}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6259}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6260}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6261}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6262}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6263}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{6264}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{6300}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{6301}{}{Samotnego, wygÅ‚odzonego psa.}
 {6302}{}{Stado bramin.}
-{6303}{}{Karawanê odpieraj¹c¹ atak niedobitków z armii Mistrza.}
-{6304}{}{Kilku ³owców nagród.}
-{6305}{}{Kilku ³owców nagród.}
-{6306}{}{Kilku ³owców nagród.}
-{6307}{}{Kilku ³owców nagród.}
-{6308}{}{Kilku ³owców nagród.}
-{6309}{}{Kilku ³owców nagród.}
-{6310}{}{Kilku ³owców nagród.}
-{6311}{}{Kilku ³owców nagród.}
-{6312}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6313}{}{Karawanê odpieraj¹c¹ atak niedobitków z armii Mistrza.}
-{6314}{}{Karawanê odpieraj¹c¹ atak szponów œmierci.}
-{6315}{}{Karawanê.}
-{6316}{}{Karawanê.}
-{6317}{}{Karawanê.}
+{6303}{}{KarawanÄ™ odpierajÄ…cÄ… atak niedobitkÃ³w z armii Mistrza.}
+{6304}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6305}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6306}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6307}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6308}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6309}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6310}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6311}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6312}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6313}{}{KarawanÄ™ odpierajÄ…cÄ… atak niedobitkÃ³w z armii Mistrza.}
+{6314}{}{KarawanÄ™ odpierajÄ…cÄ… atak szponÃ³w Å›mierci.}
+{6315}{}{KarawanÄ™.}
+{6316}{}{KarawanÄ™.}
+{6317}{}{KarawanÄ™.}
 {6318}{}{Resztki wieloryba.}
-{6319}{}{Wielk¹ kamienn¹ g³owê.}
-{6320}{}{Rozbity wahad³owiec.}
-{6321}{}{Portal stra¿niczy.}
-{6322}{}{Rycerzy Króla Artura.}
+{6319}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{6320}{}{Rozbity wahadÅ‚owiec.}
+{6321}{}{Portal straÅ¼niczy.}
+{6322}{}{Rycerzy KrÃ³la Artura.}
 {6323}{}{Blaszanego drwala.}
-{6324}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{6325}{}{Kawiarniê Niespe³nionych Marzeñ.}
-{6350}{}{Karawanê odpieraj¹c¹ atak niedobitków z armii Mistrza.}
-{6351}{}{Karawanê odpieraj¹c¹ atak niedobitków z armii Mistrza.}
-{6352}{}{Karawanê odpieraj¹c¹ atak szponów œmierci.}
-{6353}{}{Karawanê.}
-{6354}{}{Kilku ³owców nagród.}
-{6355}{}{Kilku ³owców nagród.}
-{6356}{}{Kilku ³owców nagród.}
-{6357}{}{Kilku ³owców nagród.}
-{6358}{}{Kilku ³owców nagród.}
-{6359}{}{Kilku ³owców nagród.}
-{6360}{}{Kilku ³owców nagród.}
-{6361}{}{Kilku ³owców nagród.}
-{6362}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6363}{}{Karawanê.}
-{6364}{}{Karawanê.}
-{6365}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{6366}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{6400}{}{Zgrajê wilków.}
-{6401}{}{Chmarê modliszek.}
-{6402}{}{Rodzinkê radskorpionów.}
-{6403}{}{Kilku ³owców nagród.}
-{6404}{}{Kilku ³owców nagród.}
-{6405}{}{Kilku ³owców nagród.}
-{6406}{}{Kilku ³owców nagród.}
-{6407}{}{Kilku ³owców nagród.}
-{6408}{}{Kilku ³owców nagród.}
-{6409}{}{Kilku ³owców nagród.}
-{6410}{}{Kilku ³owców nagród.}
-{6411}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6412}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{6413}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{6450}{}{Sk³adowisko odpadów toksycznych.}
-{6451}{}{Samotnego, wyg³odzonego psa.}
+{6324}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{6325}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}
+{6350}{}{KarawanÄ™ odpierajÄ…cÄ… atak niedobitkÃ³w z armii Mistrza.}
+{6351}{}{KarawanÄ™ odpierajÄ…cÄ… atak niedobitkÃ³w z armii Mistrza.}
+{6352}{}{KarawanÄ™ odpierajÄ…cÄ… atak szponÃ³w Å›mierci.}
+{6353}{}{KarawanÄ™.}
+{6354}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6355}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6356}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6357}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6358}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6359}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6360}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6361}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6362}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6363}{}{KarawanÄ™.}
+{6364}{}{KarawanÄ™.}
+{6365}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{6366}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{6400}{}{ZgrajÄ™ wilkÃ³w.}
+{6401}{}{ChmarÄ™ modliszek.}
+{6402}{}{RodzinkÄ™ radskorpionÃ³w.}
+{6403}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6404}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6405}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6406}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6407}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6408}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6409}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6410}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6411}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6412}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{6413}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{6450}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{6451}{}{Samotnego, wygÅ‚odzonego psa.}
 {6452}{}{Stado bramin.}
-{6453}{}{Zgrajê wilków.}
-{6454}{}{Kilku ³owców nagród.}
-{6455}{}{Kilku ³owców nagród.}
-{6456}{}{Kilku ³owców nagród.}
-{6457}{}{Kilku ³owców nagród.}
-{6458}{}{Kilku ³owców nagród.}
-{6459}{}{Kilku ³owców nagród.}
-{6460}{}{Kilku ³owców nagród.}
-{6461}{}{Kilku ³owców nagród.}
-{6462}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6463}{}{Chmarê modliszek.}
-{6464}{}{Rodzinkê radskorpionów.}
+{6453}{}{ZgrajÄ™ wilkÃ³w.}
+{6454}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6455}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6456}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6457}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6458}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6459}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6460}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6461}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6462}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6463}{}{ChmarÄ™ modliszek.}
+{6464}{}{RodzinkÄ™ radskorpionÃ³w.}
 {6465}{}{Resztki wieloryba.}
-{6466}{}{Wielk¹ kamienn¹ g³owê.}
-{6467}{}{Rozbity wahad³owiec.}
-{6468}{}{Portal stra¿niczy.}
-{6469}{}{Rycerzy Króla Artura.}
+{6466}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{6467}{}{Rozbity wahadÅ‚owiec.}
+{6468}{}{Portal straÅ¼niczy.}
+{6469}{}{Rycerzy KrÃ³la Artura.}
 {6470}{}{Blaszanego drwala.}
-{6471}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{6472}{}{Kawiarniê Niespe³nionych Marzeñ.}
-{6500}{}{Sk³adowisko odpadów toksycznych.}
-{6501}{}{Samotnego, wyg³odzonego psa.}
+{6471}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{6472}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}
+{6500}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{6501}{}{Samotnego, wygÅ‚odzonego psa.}
 {6502}{}{Stado bramin.}
-{6503}{}{Grupê maruderów.}
-{6504}{}{Kilku ³owców nagród.}
-{6505}{}{Kilku ³owców nagród.}
-{6506}{}{Kilku ³owców nagród.}
-{6507}{}{Kilku ³owców nagród.}
-{6508}{}{Kilku ³owców nagród.}
-{6509}{}{Kilku ³owców nagród.}
-{6510}{}{Kilku ³owców nagród.}
-{6511}{}{Kilku ³owców nagród.}
-{6512}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6513}{}{Zgrajê wilków.}
-{6514}{}{Zgrajê radskorpionów.}
-{6515}{}{Karawanê odpieraj¹c¹ atak maruderów.}
-{6516}{}{Karawanê odpieraj¹c¹ atak maruderów.}
-{6517}{}{Karawanê odpieraj¹c¹ atak wilków.}
-{6518}{}{Karawanê odpieraj¹c¹ atak radskorpionów.}
-{6519}{}{Karawanê.}
-{6520}{}{Karawanê.}
-{6521}{}{Karawanê.}
-{6522}{}{Karawanê.}
-{6523}{}{Podró¿nik.}
+{6503}{}{GrupÄ™ maruderÃ³w.}
+{6504}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6505}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6506}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6507}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6508}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6509}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6510}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6511}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6512}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6513}{}{ZgrajÄ™ wilkÃ³w.}
+{6514}{}{ZgrajÄ™ radskorpionÃ³w.}
+{6515}{}{KarawanÄ™ odpierajÄ…cÄ… atak maruderÃ³w.}
+{6516}{}{KarawanÄ™ odpierajÄ…cÄ… atak maruderÃ³w.}
+{6517}{}{KarawanÄ™ odpierajÄ…cÄ… atak wilkÃ³w.}
+{6518}{}{KarawanÄ™ odpierajÄ…cÄ… atak radskorpionÃ³w.}
+{6519}{}{KarawanÄ™.}
+{6520}{}{KarawanÄ™.}
+{6521}{}{KarawanÄ™.}
+{6522}{}{KarawanÄ™.}
+{6523}{}{PodrÃ³Å¼nik.}
 {6524}{}{Resztki wieloryba.}
-{6525}{}{Wielk¹ kamienn¹ g³owê.}
-{6526}{}{Rozbity wahad³owiec.}
-{6527}{}{Portal stra¿niczy.}
-{6528}{}{Rycerzy Króla Artura.}
+{6525}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{6526}{}{Rozbity wahadÅ‚owiec.}
+{6527}{}{Portal straÅ¼niczy.}
+{6528}{}{Rycerzy KrÃ³la Artura.}
 {6529}{}{Blaszanego drwala.}
-{6530}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{6531}{}{Kawiarniê Niespe³nionych Marzeñ.}
-{6532}{}{Bandê wœciek³ych maruderów.}
-{6550}{}{Grupê maruderów.}
-{6551}{}{Zgrajê wilków.}
-{6552}{}{Zgrajê radskorpionów.}
-{6553}{}{Karawanê odpieraj¹c¹ atak maruderów.}
-{6554}{}{Kilku ³owców nagród.}
-{6555}{}{Kilku ³owców nagród.}
-{6556}{}{Kilku ³owców nagród.}
-{6557}{}{Kilku ³owców nagród.}
-{6558}{}{Kilku ³owców nagród.}
-{6559}{}{Kilku ³owców nagród.}
-{6560}{}{Kilku ³owców nagród.}
-{6561}{}{Kilku ³owców nagród.}
-{6562}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6563}{}{Karawanê odpieraj¹c¹ atak maruderów.}
-{6564}{}{Karawanê odpieraj¹c¹ atak wilków.}
-{6565}{}{Karawanê odpieraj¹c¹ atak radskorpionów.}
-{6566}{}{Karawanê.}
-{6567}{}{Karawanê.}
-{6568}{}{Karawanê.}
-{6569}{}{Karawanê.}
-{6570}{}{Podró¿nik.}
-{6571}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{6572}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{6573}{}{Bandê wœciek³ych maruderów.}
-{6600}{}{Pododdzia³ armii Mistrza.}
-{6601}{}{Grupê maruderów.}
-{6602}{}{Kilku komandosów odpieraj¹cych atak armii Mistrza.}
-{6603}{}{Kilku komandosów walcz¹cych z paroma maruderami.}
-{6604}{}{Kilku ³owców nagród.}
-{6605}{}{Kilku ³owców nagród.}
-{6606}{}{Kilku ³owców nagród.}
-{6607}{}{Kilku ³owców nagród.}
-{6608}{}{Kilku ³owców nagród.}
-{6609}{}{Kilku ³owców nagród.}
-{6610}{}{Kilku ³owców nagród.}
-{6611}{}{Kilku ³owców nagród.}
-{6612}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6613}{}{Kilku farmerów odpieraj¹cych atak niedobitków z armii Mistrza.}
-{6614}{}{Kilku farmerów odpieraj¹cych atak maruderów.}
-{6615}{}{Pododdzia³ Komandosów RNK.}
-{6616}{}{Kilku farmerów.}
-{6617}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{6618}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{6619}{}{Bandê wœciek³ych maruderów.}
-{6650}{}{Sk³adowisko odpadów toksycznych.}
-{6651}{}{Samotnego, wyg³odzonego psa.}
+{6530}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{6531}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}
+{6532}{}{BandÄ™ wÅ›ciekÅ‚ych maruderÃ³w.}
+{6550}{}{GrupÄ™ maruderÃ³w.}
+{6551}{}{ZgrajÄ™ wilkÃ³w.}
+{6552}{}{ZgrajÄ™ radskorpionÃ³w.}
+{6553}{}{KarawanÄ™ odpierajÄ…cÄ… atak maruderÃ³w.}
+{6554}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6555}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6556}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6557}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6558}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6559}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6560}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6561}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6562}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6563}{}{KarawanÄ™ odpierajÄ…cÄ… atak maruderÃ³w.}
+{6564}{}{KarawanÄ™ odpierajÄ…cÄ… atak wilkÃ³w.}
+{6565}{}{KarawanÄ™ odpierajÄ…cÄ… atak radskorpionÃ³w.}
+{6566}{}{KarawanÄ™.}
+{6567}{}{KarawanÄ™.}
+{6568}{}{KarawanÄ™.}
+{6569}{}{KarawanÄ™.}
+{6570}{}{PodrÃ³Å¼nik.}
+{6571}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{6572}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{6573}{}{BandÄ™ wÅ›ciekÅ‚ych maruderÃ³w.}
+{6600}{}{PododdziaÅ‚ armii Mistrza.}
+{6601}{}{GrupÄ™ maruderÃ³w.}
+{6602}{}{Kilku komandosÃ³w odpierajÄ…cych atak armii Mistrza.}
+{6603}{}{Kilku komandosÃ³w walczÄ…cych z paroma maruderami.}
+{6604}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6605}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6606}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6607}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6608}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6609}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6610}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6611}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6612}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6613}{}{Kilku farmerÃ³w odpierajÄ…cych atak niedobitkÃ³w z armii Mistrza.}
+{6614}{}{Kilku farmerÃ³w odpierajÄ…cych atak maruderÃ³w.}
+{6615}{}{PododdziaÅ‚ KomandosÃ³w RNK.}
+{6616}{}{Kilku farmerÃ³w.}
+{6617}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{6618}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{6619}{}{BandÄ™ wÅ›ciekÅ‚ych maruderÃ³w.}
+{6650}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{6651}{}{Samotnego, wygÅ‚odzonego psa.}
 {6652}{}{Stado bramin.}
-{6653}{}{Pododdzia³ armii Mistrza.}
-{6654}{}{Kilku ³owców nagród.}
-{6655}{}{Kilku ³owców nagród.}
-{6656}{}{Kilku ³owców nagród.}
-{6657}{}{Kilku ³owców nagród.}
-{6658}{}{Kilku ³owców nagród.}
-{6659}{}{Kilku ³owców nagród.}
-{6660}{}{Kilku ³owców nagród.}
-{6661}{}{Kilku ³owców nagród.}
-{6662}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6663}{}{Grupê maruderów.}
-{6664}{}{Kilku komandosów odpieraj¹cych atak armii Mistrza.}
-{6665}{}{Kilku komandosów walcz¹cych z paroma maruderami.}
-{6666}{}{Kilku farmerów odpieraj¹cych atak niedobitków z armii Mistrza.}
-{6667}{}{Kilku farmerów odpieraj¹cych atak maruderów.}
-{6668}{}{Pododdzia³ Komandosów RNK.}
-{6669}{}{Kilku farmerów.}
+{6653}{}{PododdziaÅ‚ armii Mistrza.}
+{6654}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6655}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6656}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6657}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6658}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6659}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6660}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6661}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6662}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6663}{}{GrupÄ™ maruderÃ³w.}
+{6664}{}{Kilku komandosÃ³w odpierajÄ…cych atak armii Mistrza.}
+{6665}{}{Kilku komandosÃ³w walczÄ…cych z paroma maruderami.}
+{6666}{}{Kilku farmerÃ³w odpierajÄ…cych atak niedobitkÃ³w z armii Mistrza.}
+{6667}{}{Kilku farmerÃ³w odpierajÄ…cych atak maruderÃ³w.}
+{6668}{}{PododdziaÅ‚ KomandosÃ³w RNK.}
+{6669}{}{Kilku farmerÃ³w.}
 {6670}{}{Resztki wieloryba.}
-{6671}{}{Wielk¹ kamienn¹ g³owê.}
-{6672}{}{Rozbity wahad³owiec.}
-{6673}{}{Portal stra¿niczy.}
-{6674}{}{Rycerzy Króla Artura.}
+{6671}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{6672}{}{Rozbity wahadÅ‚owiec.}
+{6673}{}{Portal straÅ¼niczy.}
+{6674}{}{Rycerzy KrÃ³la Artura.}
 {6675}{}{Blaszanego drwala.}
-{6676}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{6677}{}{Kawiarniê Niespe³nionych Marzeñ.}
-{6678}{}{Bandê wœciek³ych maruderów.}
-{6700}{}{Niedobitków z armii Mistrza walcz¹cych ze zmutowanymi kretoszczurami.}
-{6701}{}{Niedobitków z armii Mistrza.}
-{6702}{}{Chmarê modliszek.}
-{6703}{}{Zgrajê zmutowanych kretoszczurów.}
-{6704}{}{Kilku ³owców nagród.}
-{6705}{}{Kilku ³owców nagród.}
-{6706}{}{Kilku ³owców nagród.}
-{6707}{}{Kilku ³owców nagród.}
-{6708}{}{Kilku ³owców nagród.}
-{6709}{}{Kilku ³owców nagród.}
-{6710}{}{Kilku ³owców nagród.}
-{6711}{}{Kilku ³owców nagród.}
-{6712}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6713}{}{Zgrajê radskorpionów.}
-{6714}{}{Mê¿czyznê pilnuj¹cego mostu.}
-{6715}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-{6750}{}{Sk³adowisko odpadów toksycznych.}
-{6751}{}{Samotnego, wyg³odzonego psa.}
+{6676}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{6677}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}
+{6678}{}{BandÄ™ wÅ›ciekÅ‚ych maruderÃ³w.}
+{6700}{}{NiedobitkÃ³w z armii Mistrza walczÄ…cych ze zmutowanymi kretoszczurami.}
+{6701}{}{NiedobitkÃ³w z armii Mistrza.}
+{6702}{}{ChmarÄ™ modliszek.}
+{6703}{}{ZgrajÄ™ zmutowanych kretoszczurÃ³w.}
+{6704}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6705}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6706}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6707}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6708}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6709}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6710}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6711}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6712}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6713}{}{ZgrajÄ™ radskorpionÃ³w.}
+{6714}{}{MÄ™Å¼czyznÄ™ pilnujÄ…cego mostu.}
+{6715}{}{Rycerzy KrÃ³la Artura walczÄ…cych ze szczurem.}
+{6750}{}{SkÅ‚adowisko odpadÃ³w toksycznych.}
+{6751}{}{Samotnego, wygÅ‚odzonego psa.}
 {6752}{}{Stado bramin.}
-{6753}{}{Niedobitków z armii Mistrza walcz¹cych ze zmutowanymi kretoszczurami.}
-{6754}{}{Kilku ³owców nagród.}
-{6755}{}{Kilku ³owców nagród.}
-{6756}{}{Kilku ³owców nagród.}
-{6757}{}{Kilku ³owców nagród.}
-{6758}{}{Kilku ³owców nagród.}
-{6759}{}{Kilku ³owców nagród.}
-{6760}{}{Kilku ³owców nagród.}
-{6761}{}{Kilku ³owców nagród.}
-{6762}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{6763}{}{Niedobitków z armii Mistrza.}
-{6764}{}{Chmarê modliszek.}
-{6765}{}{Zgrajê zmutowanych kretoszczurów.}
-{6766}{}{Zgrajê radskorpionów.}
+{6753}{}{NiedobitkÃ³w z armii Mistrza walczÄ…cych ze zmutowanymi kretoszczurami.}
+{6754}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6755}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6756}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6757}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6758}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6759}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6760}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6761}{}{Kilku Å‚owcÃ³w nagrÃ³d.}
+{6762}{}{BandÄ™ brutali prowadzonych przez jednego z Braci MortonÃ³w.}
+{6763}{}{NiedobitkÃ³w z armii Mistrza.}
+{6764}{}{ChmarÄ™ modliszek.}
+{6765}{}{ZgrajÄ™ zmutowanych kretoszczurÃ³w.}
+{6766}{}{ZgrajÄ™ radskorpionÃ³w.}
 {6767}{}{Resztki wieloryba.}
-{6768}{}{Wielk¹ kamienn¹ g³owê.}
-{6769}{}{Rozbity wahad³owiec.}
-{6770}{}{Portal stra¿niczy.}
-{6771}{}{Rycerzy Króla Artura.}
+{6768}{}{WielkÄ… kamiennÄ… gÅ‚owÄ™.}
+{6769}{}{Rozbity wahadÅ‚owiec.}
+{6770}{}{Portal straÅ¼niczy.}
+{6771}{}{Rycerzy KrÃ³la Artura.}
 {6772}{}{Blaszanego drwala.}
-{6773}{}{Unwashed Villagers goni¹cych za Spamerem.}
-{6774}{}{Kawiarniê Niespe³nionych Marzeñ.}
+{6773}{}{Unwashed Villagers goniÄ…cych za Spamerem.}
+{6774}{}{KawiarniÄ™ NiespeÅ‚nionych MarzeÅ„.}

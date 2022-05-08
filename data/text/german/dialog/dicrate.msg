@@ -1,1 +1,1 @@
-{100}{}{Du siehst Kisten mit verschiedenen Chemikalien, die für dich von keinerlei Nutzen sind.}
+{100}{}{Du siehst Kisten mit verschiedenen Chemikalien, die fÃ¼r dich von keinerlei Nutzen sind.}

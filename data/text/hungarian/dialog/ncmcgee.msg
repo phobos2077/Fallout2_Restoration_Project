@@ -1,130 +1,130 @@
-{100}{}{Egy id?sebb férfihez van szerencséd.}
-{101}{}{? nem más, mint a Vén McGee.}
-{150}{}{Ez egy id?sebb férfi. Dühösnek látszik és magában zsörtöl?dik.}
-{151}{}{? a Vén McGee. Dühösnek látszik és magában zsörtöl?dik.}
-{200}{}{Te mocsadék! Az összes szerencsémt?l megfosztottál!}
-{201}{}{Megöllek! Megöllek, te rabló!}
-{202}{}{Mit hetvenkedik? Gondolja, hogy nem állom a sarat? Tegyünk próbát!}
-{203}{}{Azt a mocskos kutya fajtádat!}
-{204}{}{Kiütöm bel?led a szart is, visszatömködöm, aztán újra kirugdosom!}
-{205}{}{Te nagyszájú, azt akarod, hogy a Vén McGee megmutassa a méregfogát?!}
-{206}{}{Jössz te még az én utcámba, kis fasszopó!}
-{207}{}{Kiütöm bel?led a meleg szarodat is!}
-{208}{}{Akarod, hogy megmutassam, mire vagyok képes? Mindjárt megtudod!}
-{209}{}{Levágom a fütykösödet, haver!}
-{210}{}{Kiheréllek, mint egy brahmint.}
-{225}{}{Te leszakadt kurva! Lenyúltad a szehencsém!}
-{226}{}{Jössz te még az én utcámba, kis szajha!}
-{227}{}{Akarsz egyet a pofádba, kislány?}
-{228}{}{Szétütöm az arcod, kislány!}
-{235}{}{Átkozott brahminszar ez!}
-{236}{}{Szemét egykarú rabló! Tejejjé' mán a vén McGeenek!}
-{237}{}{Ne fukarkodjál már a vén McGeevel, drágám...}
-{238}{}{A Ház már megint szívat!}
-{239}{}{Ugyan már kislány, légy jó a vén McGeehez végre...}
-{240}{}{Szeressé mán egy kicsit, édesem!}
-{241}{}{Az összes pénzem benned van, gyerünk már!}
-{242}{}{Na, még egy utolsó játékot...}
-{243}{}{Visszaszedem a rohadt pénzemet, mégha az egész év is rámegy...}
-{244}{}{A b?r h?ljön rád, te átkozott félkarú rabló!}
-{245}{}{Talán ma nagyobb szerencsém lesz...}
-{246}{}{Holnap biztos minden jóra fordul.}
-{247}{}{Ma nyerni fogok. Fortuna aszongya, hogy ez hóttuti.}
-{248}{}{::Csapkodja a gépet::}
-{255}{}{Ha még egyszer hozzányúlsz a gépemhez, a Golgotán fogsz megrohadni!}
-{256}{}{Ha jót akarsz magadnak, húzzál el a retkes francba a gépemt?l!}
-{260}{}{Francba! Megint felsültem!}
-{261}{}{A Ház már megint szívat!}
-{262}{}{Kéne szerezni egy kis pénzt...}
-{263}{}{Rohadt gép! Elszedi az összes pénzemet...}
+{100}{}{Egy id?sebb fÃ©rfihez van szerencsÃ©d.}
+{101}{}{? nem mÃ¡s, mint a VÃ©n McGee.}
+{150}{}{Ez egy id?sebb fÃ©rfi. DÃ¼hÃ¶snek lÃ¡tszik Ã©s magÃ¡ban zsÃ¶rtÃ¶l?dik.}
+{151}{}{? a VÃ©n McGee. DÃ¼hÃ¶snek lÃ¡tszik Ã©s magÃ¡ban zsÃ¶rtÃ¶l?dik.}
+{200}{}{Te mocsadÃ©k! Az Ã¶sszes szerencsÃ©mt?l megfosztottÃ¡l!}
+{201}{}{MegÃ¶llek! MegÃ¶llek, te rablÃ³!}
+{202}{}{Mit hetvenkedik? Gondolja, hogy nem Ã¡llom a sarat? TegyÃ¼nk prÃ³bÃ¡t!}
+{203}{}{Azt a mocskos kutya fajtÃ¡dat!}
+{204}{}{KiÃ¼tÃ¶m bel?led a szart is, visszatÃ¶mkÃ¶dÃ¶m, aztÃ¡n Ãºjra kirugdosom!}
+{205}{}{Te nagyszÃ¡jÃº, azt akarod, hogy a VÃ©n McGee megmutassa a mÃ©regfogÃ¡t?!}
+{206}{}{JÃ¶ssz te mÃ©g az Ã©n utcÃ¡mba, kis fasszopÃ³!}
+{207}{}{KiÃ¼tÃ¶m bel?led a meleg szarodat is!}
+{208}{}{Akarod, hogy megmutassam, mire vagyok kÃ©pes? MindjÃ¡rt megtudod!}
+{209}{}{LevÃ¡gom a fÃ¼tykÃ¶sÃ¶det, haver!}
+{210}{}{KiherÃ©llek, mint egy brahmint.}
+{225}{}{Te leszakadt kurva! LenyÃºltad a szehencsÃ©m!}
+{226}{}{JÃ¶ssz te mÃ©g az Ã©n utcÃ¡mba, kis szajha!}
+{227}{}{Akarsz egyet a pofÃ¡dba, kislÃ¡ny?}
+{228}{}{SzÃ©tÃ¼tÃ¶m az arcod, kislÃ¡ny!}
+{235}{}{Ãtkozott brahminszar ez!}
+{236}{}{SzemÃ©t egykarÃº rablÃ³! TejejjÃ©' mÃ¡n a vÃ©n McGeenek!}
+{237}{}{Ne fukarkodjÃ¡l mÃ¡r a vÃ©n McGeevel, drÃ¡gÃ¡m...}
+{238}{}{A HÃ¡z mÃ¡r megint szÃ­vat!}
+{239}{}{Ugyan mÃ¡r kislÃ¡ny, lÃ©gy jÃ³ a vÃ©n McGeehez vÃ©gre...}
+{240}{}{SzeressÃ© mÃ¡n egy kicsit, Ã©desem!}
+{241}{}{Az Ã¶sszes pÃ©nzem benned van, gyerÃ¼nk mÃ¡r!}
+{242}{}{Na, mÃ©g egy utolsÃ³ jÃ¡tÃ©kot...}
+{243}{}{Visszaszedem a rohadt pÃ©nzemet, mÃ©gha az egÃ©sz Ã©v is rÃ¡megy...}
+{244}{}{A b?r h?ljÃ¶n rÃ¡d, te Ã¡tkozott fÃ©lkarÃº rablÃ³!}
+{245}{}{TalÃ¡n ma nagyobb szerencsÃ©m lesz...}
+{246}{}{Holnap biztos minden jÃ³ra fordul.}
+{247}{}{Ma nyerni fogok. Fortuna aszongya, hogy ez hÃ³ttuti.}
+{248}{}{::Csapkodja a gÃ©pet::}
+{255}{}{Ha mÃ©g egyszer hozzÃ¡nyÃºlsz a gÃ©pemhez, a GolgotÃ¡n fogsz megrohadni!}
+{256}{}{Ha jÃ³t akarsz magadnak, hÃºzzÃ¡l el a retkes francba a gÃ©pemt?l!}
+{260}{}{Francba! Megint felsÃ¼ltem!}
+{261}{}{A HÃ¡z mÃ¡r megint szÃ­vat!}
+{262}{}{KÃ©ne szerezni egy kis pÃ©nzt...}
+{263}{}{Rohadt gÃ©p! Elszedi az Ã¶sszes pÃ©nzemet...}
 {270}{}{You done have my apology, stranger. Luck be with ya.}
-{271}{}{Bocsánat, elvesztettem a fejem. A sivatagi napsütést?l összevissza beszél az ember mindenféle marhaságot.}
-{272}{}{::Megemeli a képzeletbeli kalapját::}
+{271}{}{BocsÃ¡nat, elvesztettem a fejem. A sivatagi napsÃ¼tÃ©st?l Ã¶sszevissza beszÃ©l az ember mindenfÃ©le marhasÃ¡got.}
+{272}{}{::Megemeli a kÃ©pzeletbeli kalapjÃ¡t::}
 {275}{}{}
 {276}{}{}
-{277}{}{Te vagy az, aki megütötte a f?nyereményt az ÉN gépemen! Öt megveszekedett évig játszottam rajta, és egy büdös kanyit sem sikerült kinyernem bel?le!}
-{278}{}{Öööö?}
-{279}{}{Várjunk már egy...}
-{285}{}{Az életem összes keresményét belepumpáltam abba a félkarú ribancba, és még csak esélyt sem adott. Erre TE idejössz, és elviszed az egészet!}
-{286}{}{Jössz te még az én utcámba, kis faszszopó!}
-{287}{}{Jössz te még az én utcámba, kisstíl? ribanc!}
-{288}{}{Hö? Kis faszszopoló? Én NAGY faszszopoló}
-{289}{}{Hö? Hol itt ribanc? Nekem van stílus}
-{290}{}{Én nem lenni faszszopoló. Én }
-{291}{}{Én nem lenni ribanc. Én }
-{292}{}{Nyugodjon meg, Mr. McGee! Megbeszélhetnénk ezt?}
-{293}{}{Nyugodjon meg, uram! Megbeszélhetnénk ezt?}
-{294}{}{Nézze, én a pénzt annak rendje és módja szerint nyertem.}
-{295}{}{Várjon egy pillanatot! Mi lenne, ha magának adnám a nyereményemet?}
-{296}{}{Faszszopó? FASZSZOPÓ? Papa, menjen már el egy kórházba, ahol kim?tik a csizmáját az agyából!}
-{297}{}{Ribanc? RIBANC? Papa, menjen már el egy kórházba, ahol kim?tik a csizmáját az agyából!}
-{298}{}{Hát ez óriási! T?njünk innen!}
-{305}{}{Beszélni? BESZÉLNI? Mi a FENÉR?L beszélhetnénk, te istenverte tolvaj?}
-{307}{}{Nézze, én a pénzt annak rendje és módja szerint nyertem. Ha nem tetszik, az a maga problémája.}
-{309}{}{Tolvajnak nevezett? Papa, vigyázzon a nyelvére, miel?tt lenyomom a torkán!}
-{310}{}{Na, akkor felejtse el! Leléptem.}
-{315}{}{Fiam, mi SZART se fogunk beszélgetni. Tudod mit fogsz csináni? Ugrálhatsz a golyók el?l!}
-{316}{}{Kislányom, mi SZART se fogunk beszélgetni. Tudod mit fogsz csináni? Ugrálhatsz a golyók el?l!}
-{317}{}{(A puskájáért nyúl, de csak a nagy semmit markolássza.) Na, mi van? Hova lett a puskám...?}
-{318}{}{Hadd mutassam meg magának...}
+{277}{}{Te vagy az, aki megÃ¼tÃ¶tte a f?nyeremÃ©nyt az Ã‰N gÃ©pemen! Ã–t megveszekedett Ã©vig jÃ¡tszottam rajta, Ã©s egy bÃ¼dÃ¶s kanyit sem sikerÃ¼lt kinyernem bel?le!}
+{278}{}{Ã–Ã¶Ã¶Ã¶?}
+{279}{}{VÃ¡rjunk mÃ¡r egy...}
+{285}{}{Az Ã©letem Ã¶sszes keresmÃ©nyÃ©t belepumpÃ¡ltam abba a fÃ©lkarÃº ribancba, Ã©s mÃ©g csak esÃ©lyt sem adott. Erre TE idejÃ¶ssz, Ã©s elviszed az egÃ©szet!}
+{286}{}{JÃ¶ssz te mÃ©g az Ã©n utcÃ¡mba, kis faszszopÃ³!}
+{287}{}{JÃ¶ssz te mÃ©g az Ã©n utcÃ¡mba, kisstÃ­l? ribanc!}
+{288}{}{HÃ¶? Kis faszszopolÃ³? Ã‰n NAGY faszszopolÃ³}
+{289}{}{HÃ¶? Hol itt ribanc? Nekem van stÃ­lus}
+{290}{}{Ã‰n nem lenni faszszopolÃ³. Ã‰n }
+{291}{}{Ã‰n nem lenni ribanc. Ã‰n }
+{292}{}{Nyugodjon meg, Mr. McGee! MegbeszÃ©lhetnÃ©nk ezt?}
+{293}{}{Nyugodjon meg, uram! MegbeszÃ©lhetnÃ©nk ezt?}
+{294}{}{NÃ©zze, Ã©n a pÃ©nzt annak rendje Ã©s mÃ³dja szerint nyertem.}
+{295}{}{VÃ¡rjon egy pillanatot! Mi lenne, ha magÃ¡nak adnÃ¡m a nyeremÃ©nyemet?}
+{296}{}{FaszszopÃ³? FASZSZOPÃ“? Papa, menjen mÃ¡r el egy kÃ³rhÃ¡zba, ahol kim?tik a csizmÃ¡jÃ¡t az agyÃ¡bÃ³l!}
+{297}{}{Ribanc? RIBANC? Papa, menjen mÃ¡r el egy kÃ³rhÃ¡zba, ahol kim?tik a csizmÃ¡jÃ¡t az agyÃ¡bÃ³l!}
+{298}{}{HÃ¡t ez Ã³riÃ¡si! T?njÃ¼nk innen!}
+{305}{}{BeszÃ©lni? BESZÃ‰LNI? Mi a FENÃ‰R?L beszÃ©lhetnÃ©nk, te istenverte tolvaj?}
+{307}{}{NÃ©zze, Ã©n a pÃ©nzt annak rendje Ã©s mÃ³dja szerint nyertem. Ha nem tetszik, az a maga problÃ©mÃ¡ja.}
+{309}{}{Tolvajnak nevezett? Papa, vigyÃ¡zzon a nyelvÃ©re, miel?tt lenyomom a torkÃ¡n!}
+{310}{}{Na, akkor felejtse el! LelÃ©ptem.}
+{315}{}{Fiam, mi SZART se fogunk beszÃ©lgetni. Tudod mit fogsz csinÃ¡ni? UgrÃ¡lhatsz a golyÃ³k el?l!}
+{316}{}{KislÃ¡nyom, mi SZART se fogunk beszÃ©lgetni. Tudod mit fogsz csinÃ¡ni? UgrÃ¡lhatsz a golyÃ³k el?l!}
+{317}{}{(A puskÃ¡jÃ¡Ã©rt nyÃºl, de csak a nagy semmit markolÃ¡ssza.) Na, mi van? Hova lett a puskÃ¡m...?}
+{318}{}{Hadd mutassam meg magÃ¡nak...}
 {319}{}{Uh oh...}
 {320}{}{I tookie when yoo no lookie.}
-{321}{}{Öö...}
-{325}{}{Annak rendje és módja szerint ám a nagy büdös túróst! Fiam, neked annyi! Aláírtad a halálos ítéletedet!}
-{326}{}{Annak rendje és módja szerint ám a nagy büdös túróst! Kislányom, neked annyi! Aláírtad a halálos ítéletedet!}
+{321}{}{Ã–Ã¶...}
+{325}{}{Annak rendje Ã©s mÃ³dja szerint Ã¡m a nagy bÃ¼dÃ¶s tÃºrÃ³st! Fiam, neked annyi! AlÃ¡Ã­rtad a halÃ¡los Ã­tÃ©letedet!}
+{326}{}{Annak rendje Ã©s mÃ³dja szerint Ã¡m a nagy bÃ¼dÃ¶s tÃºrÃ³st! KislÃ¡nyom, neked annyi! AlÃ¡Ã­rtad a halÃ¡los Ã­tÃ©letedet!}
 {335}{}{What? (Blinks) You talkin' about givin' me my winnings back? All 500 chips?}
-{336}{}{Öö, mit szólna 250 dolcsihoz?}
+{336}{}{Ã–Ã¶, mit szÃ³lna 250 dolcsihoz?}
 {337}{}{Sure. All 500 chips. Here ya go.}
-{338}{}{Hát most nem tudom odaadni. Nincs nálam annyi pénz.}
+{338}{}{HÃ¡t most nem tudom odaadni. Nincs nÃ¡lam annyi pÃ©nz.}
 {339}{}{Felejtsd el! Mennem kell...}
 {345}{}{}
 {346}{}{}
-{347}{}{Hmmmmmm. Najszen... ez meg sem közelíti azt az összeget, amit belenyomtam abba a gépbe, ett?l persze nem hangzik annyira rossz üzletnek.}
-{348}{}{Jól van akkor, fiam. 250 dolcsi és elsimítottuk a dolgot.}
-{349}{}{Jól van akkor, kislány. 250 dolcsi és elsimítottuk a dolgot.}
+{347}{}{Hmmmmmm. Najszen... ez meg sem kÃ¶zelÃ­ti azt az Ã¶sszeget, amit belenyomtam abba a gÃ©pbe, ett?l persze nem hangzik annyira rossz Ã¼zletnek.}
+{348}{}{JÃ³l van akkor, fiam. 250 dolcsi Ã©s elsimÃ­tottuk a dolgot.}
+{349}{}{JÃ³l van akkor, kislÃ¡ny. 250 dolcsi Ã©s elsimÃ­tottuk a dolgot.}
 {350}{}{Akkor rendben vagyunk.}
-{355}{}{Nem nyert, fiam! Most azonnal visszaveszem a nyereményemet!}
-{356}{}{Nem nyert, kislányom! Most azonnal visszaveszem a nyereményemet!}
+{355}{}{Nem nyert, fiam! Most azonnal visszaveszem a nyeremÃ©nyemet!}
+{356}{}{Nem nyert, kislÃ¡nyom! Most azonnal visszaveszem a nyeremÃ©nyemet!}
 {365}{}{}
 {366}{}{}
-{367}{}{(Ahogy a pénz gazdát cserél, egyre csak pislog.) Hát... a fenébe... nem is tudom, mit tudnék mondani erre.}
-{368}{}{Hát ez nagylelk? tett volt a javából, fiam... öö, uram... én...}
-{369}{}{Hát ez nagylelk? tett volt a javából, lányom... öö, hölgyem... én...}
+{367}{}{(Ahogy a pÃ©nz gazdÃ¡t cserÃ©l, egyre csak pislog.) HÃ¡t... a fenÃ©be... nem is tudom, mit tudnÃ©k mondani erre.}
+{368}{}{HÃ¡t ez nagylelk? tett volt a javÃ¡bÃ³l, fiam... Ã¶Ã¶, uram... Ã©n...}
+{369}{}{HÃ¡t ez nagylelk? tett volt a javÃ¡bÃ³l, lÃ¡nyom... Ã¶Ã¶, hÃ¶lgyem... Ã©n...}
 {370}{}{Igen?}
-{375}{}{Nehogy hátat fordíts nekem, fiam!}
-{376}{}{Nehogy hátat fordíts nekem, kislányom!}
+{375}{}{Nehogy hÃ¡tat fordÃ­ts nekem, fiam!}
+{376}{}{Nehogy hÃ¡tat fordÃ­ts nekem, kislÃ¡nyom!}
 {385}{}{}
 {386}{}{}
-{387}{}{Öö, mit akarsz, fiam?}
-{388}{}{Öö, mit akarsz, kislány?}
-{389}{}{Öö, mi a fészkes fenét akarsz, fiam?}
-{390}{}{Öö, mi a fészkes fenét akarsz, kislány?}
+{387}{}{Ã–Ã¶, mit akarsz, fiam?}
+{388}{}{Ã–Ã¶, mit akarsz, kislÃ¡ny?}
+{389}{}{Ã–Ã¶, mi a fÃ©szkes fenÃ©t akarsz, fiam?}
+{390}{}{Ã–Ã¶, mi a fÃ©szkes fenÃ©t akarsz, kislÃ¡ny?}
 {391}{}{Ki vagyol}
-{392}{}{ akar jáccani gépen}
-{393}{}{Elpályázol}
+{392}{}{ akar jÃ¡ccani gÃ©pen}
+{393}{}{ElpÃ¡lyÃ¡zol}
 {394}{}{Ki vagy te?}
-{395}{}{Mit csinál itt?}
-{396}{}{Nem bánja, ha most én játszanék egy kört?}
-{397}{}{Semmit. Már itt sem vagyok.}
-{405}{}{(A gépben egy rakás jel kezd el pörögni, és egy *bzzzzt* hang hallatszik közben.) A fraaaancba! Ilyen egy makacs gépet! Most már bármelyik pillanatban visszanyerhetem a pénzem...}
-{407}{}{ most megyen! Viszlátja}
-{409}{}{Öö... mióta foglalkozik ezzel?}
-{410}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
+{395}{}{Mit csinÃ¡l itt?}
+{396}{}{Nem bÃ¡nja, ha most Ã©n jÃ¡tszanÃ©k egy kÃ¶rt?}
+{397}{}{Semmit. MÃ¡r itt sem vagyok.}
+{405}{}{(A gÃ©pben egy rakÃ¡s jel kezd el pÃ¶rÃ¶gni, Ã©s egy *bzzzzt* hang hallatszik kÃ¶zben.) A fraaaancba! Ilyen egy makacs gÃ©pet! Most mÃ¡r bÃ¡rmelyik pillanatban visszanyerhetem a pÃ©nzem...}
+{407}{}{ most megyen! ViszlÃ¡tja}
+{409}{}{Ã–Ã¶... miÃ³ta foglalkozik ezzel?}
+{410}{}{Vegye Ãºgy, hogy nem is szÃ³ltam! BocsÃ¡nat, hogy zavartam.}
 {415}{}{}
 {416}{}{}
-{417}{}{Most már csaknem öt éve... Ez a gép most már bármelyik pillanatban elromolhat és amikor ez megtörténik... pénzes? lesz! Hehe!}
-{418}{}{Öö, akkor jó szerencsét hozzá!}
-{419}{}{Nagyszer????! Kés?bb még beszélünk.}
+{417}{}{Most mÃ¡r csaknem Ã¶t Ã©ve... Ez a gÃ©p most mÃ¡r bÃ¡rmelyik pillanatban elromolhat Ã©s amikor ez megtÃ¶rtÃ©nik... pÃ©nzes? lesz! Hehe!}
+{418}{}{Ã–Ã¶, akkor jÃ³ szerencsÃ©t hozzÃ¡!}
+{419}{}{Nagyszer????! KÃ©s?bb mÃ©g beszÃ©lÃ¼nk.}
 {425}{}{}
 {426}{}{}
-{427}{}{(Lenéz? arcot vág.) Hagyjam, hogy hozzányúlj a gépemhez? El akarod cseszni a szerencsémet? A nagy francot! T?nés innen!}
-{428}{}{Jól van akkor...}
-{435}{}{Mocskos nyáladzó idióta! Most azonnal visszaveszem a pénzemet!}
-{445}{}{Nagyon úgy t?nik, hogy akkor a hulládról fogom elvenni a pénzt, kisfiam! Készülj, most sok ólmot fogsz enni!}
-{446}{}{Nagyon úgy t?nik, hogy akkor a hulládról fogom elvenni a pénzt, kislányom! Készülj, most sok ólmot fogsz enni!}
-{455}{}{Az életem összes keresményét belepumpáltam abba az félkarú ribancba, és még csak esélyt sem adott. Erre TE idejössz, és elviszed az egészet!}
-{465}{}{A sivatagi naptól id?nként nagy baromságokat hord össze az ember, de te kivívtad az elismerésemet. (Megemeli a nem létez? kalapját.)}
-{466}{}{Legyen szerencséje, uram!}
-{467}{}{Legyen szerencséje, hölgyem!}
-{468}{}{Jól van. Szívesen veszem a bocsánatkérést.}
+{427}{}{(LenÃ©z? arcot vÃ¡g.) Hagyjam, hogy hozzÃ¡nyÃºlj a gÃ©pemhez? El akarod cseszni a szerencsÃ©met? A nagy francot! T?nÃ©s innen!}
+{428}{}{JÃ³l van akkor...}
+{435}{}{Mocskos nyÃ¡ladzÃ³ idiÃ³ta! Most azonnal visszaveszem a pÃ©nzemet!}
+{445}{}{Nagyon Ãºgy t?nik, hogy akkor a hullÃ¡drÃ³l fogom elvenni a pÃ©nzt, kisfiam! KÃ©szÃ¼lj, most sok Ã³lmot fogsz enni!}
+{446}{}{Nagyon Ãºgy t?nik, hogy akkor a hullÃ¡drÃ³l fogom elvenni a pÃ©nzt, kislÃ¡nyom! KÃ©szÃ¼lj, most sok Ã³lmot fogsz enni!}
+{455}{}{Az Ã©letem Ã¶sszes keresmÃ©nyÃ©t belepumpÃ¡ltam abba az fÃ©lkarÃº ribancba, Ã©s mÃ©g csak esÃ©lyt sem adott. Erre TE idejÃ¶ssz, Ã©s elviszed az egÃ©szet!}
+{465}{}{A sivatagi naptÃ³l id?nkÃ©nt nagy baromsÃ¡gokat hord Ã¶ssze az ember, de te kivÃ­vtad az elismerÃ©semet. (Megemeli a nem lÃ©tez? kalapjÃ¡t.)}
+{466}{}{Legyen szerencsÃ©je, uram!}
+{467}{}{Legyen szerencsÃ©je, hÃ¶lgyem!}
+{468}{}{JÃ³l van. SzÃ­vesen veszem a bocsÃ¡natkÃ©rÃ©st.}
 {1290}{}{ vagyok.}

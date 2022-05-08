@@ -1,383 +1,383 @@
-{150}{}{Widzisz murzyna w znoszonym ubraniu. Kiedy wasz wzrok siê spotyka, uœmiecha siê, pokazuj¹c swój z³oty z¹b, który b³yszczy siê w œwietle lamp.}
+{150}{}{Widzisz murzyna w znoszonym ubraniu. Kiedy wasz wzrok siÄ™ spotyka, uÅ›miecha siÄ™, pokazujÄ…c swÃ³j zÅ‚oty zÄ…b, ktÃ³ry bÅ‚yszczy siÄ™ w Å›wietle lamp.}
 {151}{}{Widzisz Julesa.}
-{200}{}{Pozwól, ¿e w przerwie miêdzy dwoma polowaniami Jules poka¿e ci okolicê.}
-{201}{}{IdŸ zajrzyj do Mordinów. Tam siê sprzedaje wiêkszoœæ niewolników, którzy przybywaj¹ do Nowego Reno.}
-{202}{}{Jesteœ w Reno od niedawna? Poœwiêæ trochê czasu na rozmowê ze mn¹.}
-{203}{}{Hej, ty, z tatua¿em. ChodŸ pogadaæ ze mn¹ przez chwilkê.}
-{204}{}{Ty, z tatua¿em. Jeœli nie pogadasz z Julesem, to nie znasz PO£OWY rzeczy, które Nowe Reno ma do zaoferowania.}
-{205}{}{Jo! Masz woln¹ chwilkê miêdzy ³owami?}
-{206}{}{Szukasz czegoœ? Jules mo¿e ci pomóc.}
-{220}{}{Od niedawna w mieœcie? Warto ze mn¹ pogadaæ.}
-{221}{}{Hej, ty. ChodŸ tu pogadaæ przez chwilkê.}
-{222}{}{S³onko, jeœli nie pogadasz z Julesem, to nie znasz PO£OWY rzeczy, które Nowe Reno ma do zaoferowania.}
-{223}{}{Nowe Reno to niebezpieczne miejsce. Pozwól, ¿e ci opowiem, co jest zdrowe, a co nie.}
-{224}{}{Jo! Masz minutkê?}
-{225}{}{S³onko, ty i ja musimy zamieniæ parê s³ów. Pozwól, ¿e Jules poka¿e ci okolicê.}
-{226}{}{Szukasz czegoœ s³onko? Pozwól Julesowi to odnaleŸæ.}
-{240}{}{Alleluja! Zawsze WIEDZIA£EM, ¿e bêdzie z ciebie kawa³ bohatera! WIEDZIA£EM!}
-{241}{}{Nadci¹ga nasze zbawienie! Odsuñcie siê, odsuñcie siê!}
-{242}{}{ChodŸ i powiedz dzieñ dobry swojemu staremu przyjacielowi Julesowi.}
-{243}{}{Mo¿e podzielisz siê ze mn¹ swoj¹ s³aw¹, co?}
-{244}{}{Mo¿e podzielisz siê ze mn¹ swoim nowym bogactwem, co?}
-{245}{}{Jules zawsze ciê dobrze traktowa³... wiêc powiedz wszystkim, ¿e mnie znasz, dobrze?}
-{246}{}{S³ysza³em, ¿e Bracia Corsican ciê szukaj¹...}
-{260}{}{Kuuuurde. Myœlê, ¿e ty i ja powinniœmy zostaæ przyjació³mi.}
-{261}{}{Jak mo¿esz korzystaæ z ³azienki z czymœ takim na grzbiecie?}
-{262}{}{A TO co u licha jest? Chodz¹cy samochód?}
-{263}{}{Te tamte æpuny dostan¹ bzika jak ciê w tym zobacz¹.}
-{280}{}{Czy szepniesz swojemu szefowi dobre s³ówko o mnie, bracie?}
-{281}{}{Jo, bracie, wspinaj¹c siê na szczyt nie zapomnia³eœ o swoim przyjacielu Julesie, co?}
-{282}{}{Jo! Mrocznie i zabójczo! Wygl¹da mi na to, ¿e pobyt w Nowym Reno DOBRZE ci zrobi³!}
-{283}{}{Jeœli twój szef potrzebuje kogoœ do interesów z Jetem, to jestem do us³ug...}
-{284}{}{Czy szepniesz swojemu szefowi dobre s³ówko o mnie, siostro?}
-{285}{}{Jo, siostro, wspinaj¹c siê na szczyt nie zapomnia³aœ o swoim przyjacielu Julesie, co?}
-{300}{}{Jo, mistrzu! Wygl¹da mi na to, ¿e pobyt w Nowym Reno dobrze ci zrobi³!}
-{301}{}{Jo, mistrzu, wspinaj¹c siê na szczyt nie zapomnia³eœ o swoim kumplu Julesie, co?}
-{302}{}{Fortuna ci sprzyja bracie. Masz w sobie MAGIÊ.}
-{303}{}{Zawsze wiedzia³em, ¿e twoje imiê zawêdruje na neony. Wiedzia³em to jak tylko pierwszy raz ciê zobaczy³em.}
-{304}{}{Jo, siostro z pi¹chami! Wygl¹da mi na to, ¿e pobyt w Nowym Reno dobrze ci zrobi³!}
-{305}{}{Jo, siostro z pi¹chami, wspinaj¹c siê na szczyt nie zapomnia³aœ o swoim kumplu Julesie, co?}
-{306}{}{Fortuna ci sprzyja Panno Bokserko. Masz w sobie MAGIÊ.}
-{320}{}{Kurde, popatrzcie na TÊ œwietlist¹ gwiazdê... tyœ jezd tak jasny, ¿e ledwo mogê na ciebie patrzeæ, mój bracie!}
-{321}{}{Jo, mój bracie! Wygl¹da na to, ¿e pobyt w Nowym Reno DOBRZE ci zrobi³!}
-{322}{}{Co ty na to, ¿eby przedstawiæ mnie kilku z tych aktorek, nad którymi pracujesz, co bracie?}
-{323}{}{Jo, wspinaj¹c siê na szczyt nie zapomnia³eœ o swoim przyjacielu Julesie, co?}
-{324}{}{Fortuna ci sprzyja, cz³owieku. Masz w sobie MAGIÊ.}
-{325}{}{Zawsze wiedzia³em, ¿e twoje imiê zawêdruje na neony. Wiedzia³em to jak tylko pierwszy raz ciê zobaczy³em.}
-{340}{}{Popatrzcie na T¥ s³odk¹ siostrzyczkê.}
-{341}{}{Moje serce bije ¿ywiej, kiedy ciê widzê.}
+{200}{}{PozwÃ³l, Å¼e w przerwie miÄ™dzy dwoma polowaniami Jules pokaÅ¼e ci okolicÄ™.}
+{201}{}{IdÅº zajrzyj do MordinÃ³w. Tam siÄ™ sprzedaje wiÄ™kszoÅ›Ä‡ niewolnikÃ³w, ktÃ³rzy przybywajÄ… do Nowego Reno.}
+{202}{}{JesteÅ› w Reno od niedawna? PoÅ›wiÄ™Ä‡ trochÄ™ czasu na rozmowÄ™ ze mnÄ….}
+{203}{}{Hej, ty, z tatuaÅ¼em. ChodÅº pogadaÄ‡ ze mnÄ… przez chwilkÄ™.}
+{204}{}{Ty, z tatuaÅ¼em. JeÅ›li nie pogadasz z Julesem, to nie znasz POÅOWY rzeczy, ktÃ³re Nowe Reno ma do zaoferowania.}
+{205}{}{Jo! Masz wolnÄ… chwilkÄ™ miÄ™dzy Å‚owami?}
+{206}{}{Szukasz czegoÅ›? Jules moÅ¼e ci pomÃ³c.}
+{220}{}{Od niedawna w mieÅ›cie? Warto ze mnÄ… pogadaÄ‡.}
+{221}{}{Hej, ty. ChodÅº tu pogadaÄ‡ przez chwilkÄ™.}
+{222}{}{SÅ‚onko, jeÅ›li nie pogadasz z Julesem, to nie znasz POÅOWY rzeczy, ktÃ³re Nowe Reno ma do zaoferowania.}
+{223}{}{Nowe Reno to niebezpieczne miejsce. PozwÃ³l, Å¼e ci opowiem, co jest zdrowe, a co nie.}
+{224}{}{Jo! Masz minutkÄ™?}
+{225}{}{SÅ‚onko, ty i ja musimy zamieniÄ‡ parÄ™ sÅ‚Ã³w. PozwÃ³l, Å¼e Jules pokaÅ¼e ci okolicÄ™.}
+{226}{}{Szukasz czegoÅ› sÅ‚onko? PozwÃ³l Julesowi to odnaleÅºÄ‡.}
+{240}{}{Alleluja! Zawsze WIEDZIAÅEM, Å¼e bÄ™dzie z ciebie kawaÅ‚ bohatera! WIEDZIAÅEM!}
+{241}{}{NadciÄ…ga nasze zbawienie! OdsuÅ„cie siÄ™, odsuÅ„cie siÄ™!}
+{242}{}{ChodÅº i powiedz dzieÅ„ dobry swojemu staremu przyjacielowi Julesowi.}
+{243}{}{MoÅ¼e podzielisz siÄ™ ze mnÄ… swojÄ… sÅ‚awÄ…, co?}
+{244}{}{MoÅ¼e podzielisz siÄ™ ze mnÄ… swoim nowym bogactwem, co?}
+{245}{}{Jules zawsze ciÄ™ dobrze traktowaÅ‚... wiÄ™c powiedz wszystkim, Å¼e mnie znasz, dobrze?}
+{246}{}{SÅ‚yszaÅ‚em, Å¼e Bracia Corsican ciÄ™ szukajÄ…...}
+{260}{}{Kuuuurde. MyÅ›lÄ™, Å¼e ty i ja powinniÅ›my zostaÄ‡ przyjaciÃ³Å‚mi.}
+{261}{}{Jak moÅ¼esz korzystaÄ‡ z Å‚azienki z czymÅ› takim na grzbiecie?}
+{262}{}{A TO co u licha jest? ChodzÄ…cy samochÃ³d?}
+{263}{}{Te tamte Ä‡puny dostanÄ… bzika jak ciÄ™ w tym zobaczÄ….}
+{280}{}{Czy szepniesz swojemu szefowi dobre sÅ‚Ã³wko o mnie, bracie?}
+{281}{}{Jo, bracie, wspinajÄ…c siÄ™ na szczyt nie zapomniaÅ‚eÅ› o swoim przyjacielu Julesie, co?}
+{282}{}{Jo! Mrocznie i zabÃ³jczo! WyglÄ…da mi na to, Å¼e pobyt w Nowym Reno DOBRZE ci zrobiÅ‚!}
+{283}{}{JeÅ›li twÃ³j szef potrzebuje kogoÅ› do interesÃ³w z Jetem, to jestem do usÅ‚ug...}
+{284}{}{Czy szepniesz swojemu szefowi dobre sÅ‚Ã³wko o mnie, siostro?}
+{285}{}{Jo, siostro, wspinajÄ…c siÄ™ na szczyt nie zapomniaÅ‚aÅ› o swoim przyjacielu Julesie, co?}
+{300}{}{Jo, mistrzu! WyglÄ…da mi na to, Å¼e pobyt w Nowym Reno dobrze ci zrobiÅ‚!}
+{301}{}{Jo, mistrzu, wspinajÄ…c siÄ™ na szczyt nie zapomniaÅ‚eÅ› o swoim kumplu Julesie, co?}
+{302}{}{Fortuna ci sprzyja bracie. Masz w sobie MAGIÄ˜.}
+{303}{}{Zawsze wiedziaÅ‚em, Å¼e twoje imiÄ™ zawÄ™druje na neony. WiedziaÅ‚em to jak tylko pierwszy raz ciÄ™ zobaczyÅ‚em.}
+{304}{}{Jo, siostro z piÄ…chami! WyglÄ…da mi na to, Å¼e pobyt w Nowym Reno dobrze ci zrobiÅ‚!}
+{305}{}{Jo, siostro z piÄ…chami, wspinajÄ…c siÄ™ na szczyt nie zapomniaÅ‚aÅ› o swoim kumplu Julesie, co?}
+{306}{}{Fortuna ci sprzyja Panno Bokserko. Masz w sobie MAGIÄ˜.}
+{320}{}{Kurde, popatrzcie na TÄ˜ Å›wietlistÄ… gwiazdÄ™... tyÅ› jezd tak jasny, Å¼e ledwo mogÄ™ na ciebie patrzeÄ‡, mÃ³j bracie!}
+{321}{}{Jo, mÃ³j bracie! WyglÄ…da na to, Å¼e pobyt w Nowym Reno DOBRZE ci zrobiÅ‚!}
+{322}{}{Co ty na to, Å¼eby przedstawiÄ‡ mnie kilku z tych aktorek, nad ktÃ³rymi pracujesz, co bracie?}
+{323}{}{Jo, wspinajÄ…c siÄ™ na szczyt nie zapomniaÅ‚eÅ› o swoim przyjacielu Julesie, co?}
+{324}{}{Fortuna ci sprzyja, czÅ‚owieku. Masz w sobie MAGIÄ˜.}
+{325}{}{Zawsze wiedziaÅ‚em, Å¼e twoje imiÄ™ zawÄ™druje na neony. WiedziaÅ‚em to jak tylko pierwszy raz ciÄ™ zobaczyÅ‚em.}
+{340}{}{Popatrzcie na TÄ„ sÅ‚odkÄ… siostrzyczkÄ™.}
+{341}{}{Moje serce bije Å¼ywiej, kiedy ciÄ™ widzÄ™.}
 {342}{}{No, siostrzyczko, daj swojemu staremu kumplowi Julesowi buziaka.}
-{343}{}{Kurde, popatrzcie na T¥ œwietlist¹ gwiazdê... tyœ jezd tak jasna, ¿e ledwo mogê na ciebie patrzeæ, moja siostro!}
-{344}{}{Jo! Wygl¹da na to, ¿e pobyt w Nowym Reno DOBRZE ci zrobi³!}
-{345}{}{Co ty na to, s³odziutka, ¿ebym wyst¹pi³ z tob¹ w kilku scenach?}
-{346}{}{Jo, wspinaj¹c siê na szczyt nie zapomnia³eœ o swoim przyjacielu Julesie, co?}
-{347}{}{Fortuna ci sprzyja, s³odziutka. Masz w sobie MAGIÊ.}
-{348}{}{Zawsze wiedzia³em, ¿e twoje imiê zawêdruje na neony, siostro. Wiedzia³em to, jak tylko pierwszy raz ciê zobaczy³em.}
-{349}{}{Jesteœ dam¹ z wielk¹ klas¹, kiedy siê tak trzêsiesz i jêczysz na ekranie.}
-{350}{}{S³owa nie opisz¹, jaki jestem twardy, kiedy ciê widzê.}
+{343}{}{Kurde, popatrzcie na TÄ„ Å›wietlistÄ… gwiazdÄ™... tyÅ› jezd tak jasna, Å¼e ledwo mogÄ™ na ciebie patrzeÄ‡, moja siostro!}
+{344}{}{Jo! WyglÄ…da na to, Å¼e pobyt w Nowym Reno DOBRZE ci zrobiÅ‚!}
+{345}{}{Co ty na to, sÅ‚odziutka, Å¼ebym wystÄ…piÅ‚ z tobÄ… w kilku scenach?}
+{346}{}{Jo, wspinajÄ…c siÄ™ na szczyt nie zapomniaÅ‚eÅ› o swoim przyjacielu Julesie, co?}
+{347}{}{Fortuna ci sprzyja, sÅ‚odziutka. Masz w sobie MAGIÄ˜.}
+{348}{}{Zawsze wiedziaÅ‚em, Å¼e twoje imiÄ™ zawÄ™druje na neony, siostro. WiedziaÅ‚em to, jak tylko pierwszy raz ciÄ™ zobaczyÅ‚em.}
+{349}{}{JesteÅ› damÄ… z wielkÄ… klasÄ…, kiedy siÄ™ tak trzÄ™siesz i jÄ™czysz na ekranie.}
+{350}{}{SÅ‚owa nie opiszÄ…, jaki jestem twardy, kiedy ciÄ™ widzÄ™.}
 {365}{}{To MUTANT?}
 {366}{}{Ten mutant to jeden wielki mathah.}
-{367}{}{Mutanty w Nowym Reno? Widaæ nadci¹ga sroga burza...}
-{368}{}{Mutanty z pustkowi? Czy to nie by³o ju¿ raz osiemdziesi¹t lat temu?}
-{369}{}{Ten mutant nie przetrwa d³ugo w Reno...}
-{370}{}{Krew siê poleje, kiedy rodziny wypatrz¹ tego mutanta...}
-{380}{}{Czy to coœ za tob¹ to jakiœ automat do gry?}
+{367}{}{Mutanty w Nowym Reno? WidaÄ‡ nadciÄ…ga sroga burza...}
+{368}{}{Mutanty z pustkowi? Czy to nie byÅ‚o juÅ¼ raz osiemdziesiÄ…t lat temu?}
+{369}{}{Ten mutant nie przetrwa dÅ‚ugo w Reno...}
+{370}{}{Krew siÄ™ poleje, kiedy rodziny wypatrzÄ… tego mutanta...}
+{380}{}{Czy to coÅ› za tobÄ… to jakiÅ› automat do gry?}
 {381}{}{Czy to jest robo-automat do gry?}
-{382}{}{Czy twój robot potrafi robiæ sztuczki? Eee... magiczne sztuczki!}
-{383}{}{Sprzedajesz mo¿e tego robota? Mo¿esz zatrzymaæ sobie mózg.}
-{390}{}{Ghul... wydawa³o mi siê, ¿e czujê jakiœ zapach.}
-{391}{}{Ten ma³y ghul nie przetrwa d³ugo w Reno...}
-{392}{}{Krew siê poleje, kiedy rodziny wypatrz¹ tego ghula...}
+{382}{}{Czy twÃ³j robot potrafi robiÄ‡ sztuczki? Eee... magiczne sztuczki!}
+{383}{}{Sprzedajesz moÅ¼e tego robota? MoÅ¼esz zatrzymaÄ‡ sobie mÃ³zg.}
+{390}{}{Ghul... wydawaÅ‚o mi siÄ™, Å¼e czujÄ™ jakiÅ› zapach.}
+{391}{}{Ten maÅ‚y ghul nie przetrwa dÅ‚ugo w Reno...}
+{392}{}{Krew siÄ™ poleje, kiedy rodziny wypatrzÄ… tego ghula...}
 {400}{}{Dobry cyber-piesek... dobry cyber-kundel...}
-{401}{}{Dobry piesek... dobry kundel... mo¿e mam dla ciebie koœæ...}
-{402}{}{Ten pies to pierwszy, jaki spotka³em w ¿yciu dobry powód, by wprowadziæ nakaz u¿ywania smyczy.}
-{403}{}{Czy ten pies jest czêœciowo metalowy? A myœla³em, ¿e to ja jestem twardy.}
-{404}{}{Ciekawe, czy cyber-psy mog¹ siê rozmna¿aæ...}
-{410}{}{Reno potrafi zjeœæ cz³owieka na œniadanie. Albo na popitkê.}
-{411}{}{Cz³owiek mo¿e siê tu zgubiæ, a Jules jest tym, który pomo¿e ci siê odnaleŸæ.}
-{412}{}{To miasto potrafi obedrzeæ nieprzygotowan¹ osobê ze skóry... pogadaj ze mn¹, a wszystko siê wyjaœni.}
-{413}{}{Kobiety, pieni¹dze, kobiety, pieni¹dze... czego jeszcze ci trzeba?}
-{414}{}{Jet, kobiety, broñ... mam to wszystko. Wszystko, co musisz zrobiæ, to POPROSIÆ.}
-{415}{}{Reno... miasto, które nigdy nie zasypia.}
+{401}{}{Dobry piesek... dobry kundel... moÅ¼e mam dla ciebie koÅ›Ä‡...}
+{402}{}{Ten pies to pierwszy, jaki spotkaÅ‚em w Å¼yciu dobry powÃ³d, by wprowadziÄ‡ nakaz uÅ¼ywania smyczy.}
+{403}{}{Czy ten pies jest czÄ™Å›ciowo metalowy? A myÅ›laÅ‚em, Å¼e to ja jestem twardy.}
+{404}{}{Ciekawe, czy cyber-psy mogÄ… siÄ™ rozmnaÅ¼aÄ‡...}
+{410}{}{Reno potrafi zjeÅ›Ä‡ czÅ‚owieka na Å›niadanie. Albo na popitkÄ™.}
+{411}{}{CzÅ‚owiek moÅ¼e siÄ™ tu zgubiÄ‡, a Jules jest tym, ktÃ³ry pomoÅ¼e ci siÄ™ odnaleÅºÄ‡.}
+{412}{}{To miasto potrafi obedrzeÄ‡ nieprzygotowanÄ… osobÄ™ ze skÃ³ry... pogadaj ze mnÄ…, a wszystko siÄ™ wyjaÅ›ni.}
+{413}{}{Kobiety, pieniÄ…dze, kobiety, pieniÄ…dze... czego jeszcze ci trzeba?}
+{414}{}{Jet, kobiety, broÅ„... mam to wszystko. Wszystko, co musisz zrobiÄ‡, to POPROSIÄ†.}
+{415}{}{Reno... miasto, ktÃ³re nigdy nie zasypia.}
 {416}{}{Jet, kasa, Jet, kasa... czego jeszcze ci trzeba?}
-{417}{}{ChodŸ tu, chodŸcie tu wszyscy.}
+{417}{}{ChodÅº tu, chodÅºcie tu wszyscy.}
 {418}{}{Jules to twoje OCZY, twoje USZY w Nowym Reno.}
-{419}{}{Najwiêksze ma³e miasteczko na ca³ych Pustkowiach.}
-{420}{}{Od niedawna w mieœcie? Warto ze mn¹ pogadaæ.}
+{419}{}{NajwiÄ™ksze maÅ‚e miasteczko na caÅ‚ych Pustkowiach.}
+{420}{}{Od niedawna w mieÅ›cie? Warto ze mnÄ… pogadaÄ‡.}
 {421}{}{Jules jest tym, kogo ci POTRZEBA.}
-{422}{}{Ty po¿¹dasz, ja zaspokajam.}
-{423}{}{Reno czuwa przez CA£¥ noc, musisz siê na to przygotowaæ.}
-{424}{}{Reno potrafi zjeœæ kobietê na œniadanie. Ja te¿.}
-{425}{}{Kobieta mo¿e siê tu ³atwo zgubiæ. Pozwól Julesowi, ¿eby by³ tym, który ciê odnajdzie.}
-{426}{}{To miasto potrafi obedrzeæ nieprzygotowan¹ osobê ze skóry... pogadaj ze mn¹. Zdejmê z ciebie wszystko we w³aœciwy sposób.}
-{427}{}{Jo! ChodŸ tu ze mn¹ pogadaæ siostro!}
-{428}{}{Nowa w mieœcie, co siostro? Gadaj¹c ze mn¹, nie zmarnujesz czasu, panienko.}
-{429}{}{Potrzebujesz Jetu? Potrzebujesz broni? Siostro, mam to wszystko. Musisz tylko POPROSIÆ.}
-{450}{}{(Uœmiecha siê, pokazuj¹c b³yszcz¹cy, z³oty z¹b. Jego woda koloñska jest tak ostra, ¿e a¿ ciê zatyka.) }
-{451}{}{WITAM ciê, mój bracie w b³yszcz¹cym mieœcie Nowe Reno!}
-{452}{}{WITAM ciê, moja siostro w b³yszcz¹cym mieœcie Nowe Reno!}
-{453}{}{Hê? Co...?}
-{454}{}{A ty jesteœ...?}
-{460}{}{Jestem Jules i czu³bym siê WYJ¥TKOWO szczêœliwy, gdybym móg³ siê z tob¹ zaznajomiæ, pokazaæ ci okolicê i zapewniæ wszystko, czego tylko szukasz.}
-{461}{}{Jestem Jules i mogê powiedzieæ, ¿e NIGDY nie widzia³em, ¿eby piêkniejsza kobieta przechodzi³a têdy kiedykolwiek wczeœniej. To by³aby dla MNIE wielka przyjemnoœæ, gdybym móg³ oprowadziæ ciê po Reno i za³atwiæ ci WSZYSTKO, czego tylko szukasz.}
-{462}{}{Hej hej hej, witam z powrotem! Czegó¿ wiêc potrzebujesz od Julesa?}
-{463}{}{Ja szukaæ... um. Ja znowu zapomnieæ.}
-{464}{}{OdejdŸ}
-{465}{}{No dobrze. Jak mo¿esz mi pomóc?}
-{466}{}{Có¿, mam jeszcze kilka pytañ...}
-{467}{}{Wiesz co siê sta³o z synem pana Wrighta? Co Jules?}
-{468}{}{Julesie, widzia³eœ mój samochód? Jeszcze chwilê temu sta³ tu zaparkowany, a teraz go nie ma.}
-{469}{}{S³uchaj... "Jules", czy tak? Z pewnoœci¹ spodziewasz siê czegoœ po tej rozmowie, wiêc powiedz mi to prosto w twarz. Czego TY szukasz?}
-{470}{}{A wiêc ciekawi mnie... co TY masz z tego zgrywania siê na przewodnika, co Jules?}
-{471}{}{Nie dzisiaj Jules, dziêki.}
-{472}{}{Niewa¿ne, dziêki. Na razie Jules.}
-{480}{}{Ech... nie wysilaj ³epetyny, braciszku. Tylko nie zrób sobie krzywdy, dobrze?}
-{481}{}{Ech... nie wysilaj ³epetyny, siostrzyczko. Tylko nie zrób sobie krzywdy, dobrze?}
+{422}{}{Ty poÅ¼Ä…dasz, ja zaspokajam.}
+{423}{}{Reno czuwa przez CAÅÄ„ noc, musisz siÄ™ na to przygotowaÄ‡.}
+{424}{}{Reno potrafi zjeÅ›Ä‡ kobietÄ™ na Å›niadanie. Ja teÅ¼.}
+{425}{}{Kobieta moÅ¼e siÄ™ tu Å‚atwo zgubiÄ‡. PozwÃ³l Julesowi, Å¼eby byÅ‚ tym, ktÃ³ry ciÄ™ odnajdzie.}
+{426}{}{To miasto potrafi obedrzeÄ‡ nieprzygotowanÄ… osobÄ™ ze skÃ³ry... pogadaj ze mnÄ…. ZdejmÄ™ z ciebie wszystko we wÅ‚aÅ›ciwy sposÃ³b.}
+{427}{}{Jo! ChodÅº tu ze mnÄ… pogadaÄ‡ siostro!}
+{428}{}{Nowa w mieÅ›cie, co siostro? GadajÄ…c ze mnÄ…, nie zmarnujesz czasu, panienko.}
+{429}{}{Potrzebujesz Jetu? Potrzebujesz broni? Siostro, mam to wszystko. Musisz tylko POPROSIÄ†.}
+{450}{}{(UÅ›miecha siÄ™, pokazujÄ…c bÅ‚yszczÄ…cy, zÅ‚oty zÄ…b. Jego woda koloÅ„ska jest tak ostra, Å¼e aÅ¼ ciÄ™ zatyka.) }
+{451}{}{WITAM ciÄ™, mÃ³j bracie w bÅ‚yszczÄ…cym mieÅ›cie Nowe Reno!}
+{452}{}{WITAM ciÄ™, moja siostro w bÅ‚yszczÄ…cym mieÅ›cie Nowe Reno!}
+{453}{}{HÄ™? Co...?}
+{454}{}{A ty jesteÅ›...?}
+{460}{}{Jestem Jules i czuÅ‚bym siÄ™ WYJÄ„TKOWO szczÄ™Å›liwy, gdybym mÃ³gÅ‚ siÄ™ z tobÄ… zaznajomiÄ‡, pokazaÄ‡ ci okolicÄ™ i zapewniÄ‡ wszystko, czego tylko szukasz.}
+{461}{}{Jestem Jules i mogÄ™ powiedzieÄ‡, Å¼e NIGDY nie widziaÅ‚em, Å¼eby piÄ™kniejsza kobieta przechodziÅ‚a tÄ™dy kiedykolwiek wczeÅ›niej. To byÅ‚aby dla MNIE wielka przyjemnoÅ›Ä‡, gdybym mÃ³gÅ‚ oprowadziÄ‡ ciÄ™ po Reno i zaÅ‚atwiÄ‡ ci WSZYSTKO, czego tylko szukasz.}
+{462}{}{Hej hej hej, witam z powrotem! CzegÃ³Å¼ wiÄ™c potrzebujesz od Julesa?}
+{463}{}{Ja szukaÄ‡... um. Ja znowu zapomnieÄ‡.}
+{464}{}{OdejdÅº}
+{465}{}{No dobrze. Jak moÅ¼esz mi pomÃ³c?}
+{466}{}{CÃ³Å¼, mam jeszcze kilka pytaÅ„...}
+{467}{}{Wiesz co siÄ™ staÅ‚o z synem pana Wrighta? Co Jules?}
+{468}{}{Julesie, widziaÅ‚eÅ› mÃ³j samochÃ³d? Jeszcze chwilÄ™ temu staÅ‚ tu zaparkowany, a teraz go nie ma.}
+{469}{}{SÅ‚uchaj... "Jules", czy tak? Z pewnoÅ›ciÄ… spodziewasz siÄ™ czegoÅ› po tej rozmowie, wiÄ™c powiedz mi to prosto w twarz. Czego TY szukasz?}
+{470}{}{A wiÄ™c ciekawi mnie... co TY masz z tego zgrywania siÄ™ na przewodnika, co Jules?}
+{471}{}{Nie dzisiaj Jules, dziÄ™ki.}
+{472}{}{NiewaÅ¼ne, dziÄ™ki. Na razie Jules.}
+{480}{}{Ech... nie wysilaj Å‚epetyny, braciszku. Tylko nie zrÃ³b sobie krzywdy, dobrze?}
+{481}{}{Ech... nie wysilaj Å‚epetyny, siostrzyczko. Tylko nie zrÃ³b sobie krzywdy, dobrze?}
 {482}{}{Hej ti hej ti he ti ho}
-{490}{}{Bracie, mogê za³atwiæ ci WSZYSTKO, czego tylko potrzebujesz. Jeœli chcesz lataæ, wzbiæ siê wysoko, upaœæ nisko w ramiona s³odziutkiej kurewki, Jules wie gdzie musisz IŒÆ. Pytanie brzmi: znajdê wszystko z ³atwoœci¹, lecz co jest TWOJ¥ przyjemnoœci¹?}
-{491}{}{Siostro, jeœli tylko czegoœ potrzebujesz, Jules jest FACETEM, którego ci trzeba. Jeœli chcesz lataæ, wznieœæ siê wysoko i upaœæ nisko, Jules wie, dok¹d IŒÆ. Pytanie brzmi: znajdê wszystko z ³atwoœci¹, lecz co jest TWOJ¥ przyjemnoœci¹?}
-{492}{}{Jeœli tylko czegoœ potrzebujesz, Jules jest FACETEM, którego ci trzeba, s³odka siostrzyczko. Jeœli chcesz lataæ, wznieœæ siê wysoko i upaœæ nisko, Jules wie, dok¹d IŒÆ. Pytanie brzmi: znajdê wszystko z ³atwoœci¹, lecz co jest TWOJ¥ przyjemnoœci¹?}
-{493}{}{Pewnie, pewnie... znajdê wszystko z ³atwoœci¹, lecz co jest TWOJ¥ przyjemnoœci¹?}
-{494}{}{Mo¿esz opowiedzieæ mi trochê o Nowym Reno?}
-{495}{}{Gdzie mogê znaleŸæ trochê prochów?}
-{496}{}{Szukam jakiejœ broni o du¿ej sile ra¿enia.}
-{497}{}{Szukam miejsca, gdzie mo¿na by siê zaopatrzyæ.}
-{498}{}{Szukam ³ó¿ka.}
-{499}{}{Szukam miejsca, które nazywa siê Krypta 13.}
-{500}{}{Szukam swojego plemienia. Zosta³o porwane.}
-{501}{}{Czy wiesz jak naprawiæ tankowiec?}
+{490}{}{Bracie, mogÄ™ zaÅ‚atwiÄ‡ ci WSZYSTKO, czego tylko potrzebujesz. JeÅ›li chcesz lataÄ‡, wzbiÄ‡ siÄ™ wysoko, upaÅ›Ä‡ nisko w ramiona sÅ‚odziutkiej kurewki, Jules wie gdzie musisz IÅšÄ†. Pytanie brzmi: znajdÄ™ wszystko z Å‚atwoÅ›ciÄ…, lecz co jest TWOJÄ„ przyjemnoÅ›ciÄ…?}
+{491}{}{Siostro, jeÅ›li tylko czegoÅ› potrzebujesz, Jules jest FACETEM, ktÃ³rego ci trzeba. JeÅ›li chcesz lataÄ‡, wznieÅ›Ä‡ siÄ™ wysoko i upaÅ›Ä‡ nisko, Jules wie, dokÄ…d IÅšÄ†. Pytanie brzmi: znajdÄ™ wszystko z Å‚atwoÅ›ciÄ…, lecz co jest TWOJÄ„ przyjemnoÅ›ciÄ…?}
+{492}{}{JeÅ›li tylko czegoÅ› potrzebujesz, Jules jest FACETEM, ktÃ³rego ci trzeba, sÅ‚odka siostrzyczko. JeÅ›li chcesz lataÄ‡, wznieÅ›Ä‡ siÄ™ wysoko i upaÅ›Ä‡ nisko, Jules wie, dokÄ…d IÅšÄ†. Pytanie brzmi: znajdÄ™ wszystko z Å‚atwoÅ›ciÄ…, lecz co jest TWOJÄ„ przyjemnoÅ›ciÄ…?}
+{493}{}{Pewnie, pewnie... znajdÄ™ wszystko z Å‚atwoÅ›ciÄ…, lecz co jest TWOJÄ„ przyjemnoÅ›ciÄ…?}
+{494}{}{MoÅ¼esz opowiedzieÄ‡ mi trochÄ™ o Nowym Reno?}
+{495}{}{Gdzie mogÄ™ znaleÅºÄ‡ trochÄ™ prochÃ³w?}
+{496}{}{Szukam jakiejÅ› broni o duÅ¼ej sile raÅ¼enia.}
+{497}{}{Szukam miejsca, gdzie moÅ¼na by siÄ™ zaopatrzyÄ‡.}
+{498}{}{Szukam Å‚Ã³Å¼ka.}
+{499}{}{Szukam miejsca, ktÃ³re nazywa siÄ™ Krypta 13.}
+{500}{}{Szukam swojego plemienia. ZostaÅ‚o porwane.}
+{501}{}{Czy wiesz jak naprawiÄ‡ tankowiec?}
 {502}{}{Szukam Generatora Ekosystemu Cudownej Krainy.}
-{503}{}{Dziêki, ale dziœ nie skorzystam.}
-{515}{}{Czy Jules mo¿e OPOWIEDZIEÆ ci o Nowym Reno? Do licha, jasne! PIERWSZA rzecz, któr¹ warto wiedzieæ: Reno jest rz¹dzone przez cztery rodziny: Mordino, Salvatore, Bishopów i Wrightów. Ka¿da z nich wycina swój kawa³ek z reñskiego ciasta.}
-{516}{}{W Reno s¹ cztery rodziny: Mordino, Salvatore, Bishopowie i Wrightowie. Ka¿da z nich wycina swój kawa³ek z reñskiego ciasta.}
+{503}{}{DziÄ™ki, ale dziÅ› nie skorzystam.}
+{515}{}{Czy Jules moÅ¼e OPOWIEDZIEÄ† ci o Nowym Reno? Do licha, jasne! PIERWSZA rzecz, ktÃ³rÄ… warto wiedzieÄ‡: Reno jest rzÄ…dzone przez cztery rodziny: Mordino, Salvatore, BishopÃ³w i WrightÃ³w. KaÅ¼da z nich wycina swÃ³j kawaÅ‚ek z reÅ„skiego ciasta.}
+{516}{}{W Reno sÄ… cztery rodziny: Mordino, Salvatore, Bishopowie i Wrightowie. KaÅ¼da z nich wycina swÃ³j kawaÅ‚ek z reÅ„skiego ciasta.}
 {517}{}{Opowiedz mi o rodzinach.}
 {518}{}{A co z prawem?}
-{519}{}{W³aœciwie to mam kilka innych pytañ...}
-{520}{}{Ciekawe. Dziêki za rozmowê.}
+{519}{}{WÅ‚aÅ›ciwie to mam kilka innych pytaÅ„...}
+{520}{}{Ciekawe. DziÄ™ki za rozmowÄ™.}
 {525}{}{Nie ma prawa, nie ma po-licji, nie ma szeryfa, nie ma administracji. TYLKO rodziny.}
-{527}{}{Wiêc kto pilnuje porz¹dku w Reno?}
-{528}{}{Rozumiem. Mam kilka innych pytañ...}
-{535}{}{Rodziny trzymaj¹ wszystko w garœci. Nie LUBI¥ k³opotów w Reno, bo to szkodzi zyskom z turystów, a to oznacza mniej pieniêdzy dla nich. Nie rób k³opotów i dotrzymuj wszystkich zak³adów, a utrzymasz siê z dala od Golgoty.}
+{527}{}{WiÄ™c kto pilnuje porzÄ…dku w Reno?}
+{528}{}{Rozumiem. Mam kilka innych pytaÅ„...}
+{535}{}{Rodziny trzymajÄ… wszystko w garÅ›ci. Nie LUBIÄ„ kÅ‚opotÃ³w w Reno, bo to szkodzi zyskom z turystÃ³w, a to oznacza mniej pieniÄ™dzy dla nich. Nie rÃ³b kÅ‚opotÃ³w i dotrzymuj wszystkich zakÅ‚adÃ³w, a utrzymasz siÄ™ z dala od Golgoty.}
 {537}{}{Na Golgocie?}
-{545}{}{Tia, tego cmentarza za miastem. To tam l¹duj¹ d³u¿nicy i ludzie, którzy weszli w drogê rodzinom. Po prostu wieszaj¹ ich na s³upach i zostawiaj¹, by umarli powoli na s³oñcu. Nie chcia³bym tak umrzeæ. A œmierdzi tam jak diabli.}
-{547}{}{Ciekawe. Mam jeszcze kilka pytañ...}
-{548}{}{Brzmi wspaniale. Dziêki za informacjê.}
-{555}{}{Widzisz, KOLEJNA rzecz, jak¹ musisz wiedzieæ o Nowym Reno to to, ¿e nic tu nie jest za darmo. A skoro tak, to uwa¿nie przygl¹daj siê towarom.}
-{556}{}{Widzisz, tego rodzaju info nie jest tanie. Masz kasê? Jeœli tak, to s³ucham uwa¿nie.}
-{557}{}{Zap³aæ mu 25 dolców.}
-{558}{}{Zap³aæ mu 50 dolców.}
-{559}{}{Zap³aæ mu 75 dolców.}
-{560}{}{Zap³aæ mu 100 dolców.}
-{561}{}{W³aœciwie to mam kilka innych... nie zwi¹zanych z rodzinami pytañ.}
-{562}{}{Wygl¹da na to, ¿e nie staæ mnie teraz na te informacje. Wrócê jak bêdê mieæ trochê kasy.}
-{563}{}{Zapamiêtam to. Dziêki za radê Jules.}
-{575}{}{(Jules chowa pieni¹dze tak szybko, ¿e mo¿na by przysi¹c, ¿e po prostu znik³y.) No dobra... która spoœród wspania³ych rodzin interesuje ciê dzisiaj?}
-{576}{}{(Jules chowa pieni¹dze.) No dobra... o której z rodzin chcesz siê czegoœ dowiedzieæ?}
+{545}{}{Tia, tego cmentarza za miastem. To tam lÄ…dujÄ… dÅ‚uÅ¼nicy i ludzie, ktÃ³rzy weszli w drogÄ™ rodzinom. Po prostu wieszajÄ… ich na sÅ‚upach i zostawiajÄ…, by umarli powoli na sÅ‚oÅ„cu. Nie chciaÅ‚bym tak umrzeÄ‡. A Å›mierdzi tam jak diabli.}
+{547}{}{Ciekawe. Mam jeszcze kilka pytaÅ„...}
+{548}{}{Brzmi wspaniale. DziÄ™ki za informacjÄ™.}
+{555}{}{Widzisz, KOLEJNA rzecz, jakÄ… musisz wiedzieÄ‡ o Nowym Reno to to, Å¼e nic tu nie jest za darmo. A skoro tak, to uwaÅ¼nie przyglÄ…daj siÄ™ towarom.}
+{556}{}{Widzisz, tego rodzaju info nie jest tanie. Masz kasÄ™? JeÅ›li tak, to sÅ‚ucham uwaÅ¼nie.}
+{557}{}{ZapÅ‚aÄ‡ mu 25 dolcÃ³w.}
+{558}{}{ZapÅ‚aÄ‡ mu 50 dolcÃ³w.}
+{559}{}{ZapÅ‚aÄ‡ mu 75 dolcÃ³w.}
+{560}{}{ZapÅ‚aÄ‡ mu 100 dolcÃ³w.}
+{561}{}{WÅ‚aÅ›ciwie to mam kilka innych... nie zwiÄ…zanych z rodzinami pytaÅ„.}
+{562}{}{WyglÄ…da na to, Å¼e nie staÄ‡ mnie teraz na te informacje. WrÃ³cÄ™ jak bÄ™dÄ™ mieÄ‡ trochÄ™ kasy.}
+{563}{}{ZapamiÄ™tam to. DziÄ™ki za radÄ™ Jules.}
+{575}{}{(Jules chowa pieniÄ…dze tak szybko, Å¼e moÅ¼na by przysiÄ…c, Å¼e po prostu znikÅ‚y.) No dobra... ktÃ³ra spoÅ›rÃ³d wspaniaÅ‚ych rodzin interesuje ciÄ™ dzisiaj?}
+{576}{}{(Jules chowa pieniÄ…dze.) No dobra... o ktÃ³rej z rodzin chcesz siÄ™ czegoÅ› dowiedzieÄ‡?}
 {577}{}{Opowiedz mi o Rodzinie Mordino.}
 {578}{}{Opowiedz mi o Rodzinie Salvatore.}
-{579}{}{Opowiedz mi o Rodzinie Bishopów.}
-{580}{}{Opowiedz mi o Rodzinie Wrightów.}
-{581}{}{Mam parê pytañ odnoœnie Nowego Reno...}
-{582}{}{W³aœciwie to niewa¿ne. PóŸniej pogadamy.}
-{590}{}{(Unosi dwa palce) Mordino to bestia dwug³owa, a ka¿da z tych g³ów nazywa siê Jesus Mordino.}
-{591}{}{Mów dalej...}
-{592}{}{Zawsze nurtowa³a mnie kwestia zwi¹zków Jezusa z zorganizowan¹ przestêpczoœci¹.}
-{594}{}{Wróæmy do innych rodzin.}
-{596}{}{W³aœciwie to niewa¿ne. Dziêki za rozmowê.}
-{615}{}{Jest ojciec, Du¿y Jesus Mordino, i syn, Ma³y Jesus, a obaj s¹ najokrutniejszymi skurwysynami, jakich kiedykolwiek zdarzy ci siê spotkaæ. Kiedyœ byli niewolnikami, ale parê lat temu karta siê odwróci³a i wyrzeŸbili sobie swoje w³asne imperium.}
-{616}{}{Jak du¿e jest to ich "imperium"?}
-{625}{}{S¹ w³aœcicielami Desperado le¿¹cego trochê dalej wzd³u¿ tej ulicy. Nie mo¿na nie zauwa¿yæ. Poza tym maj¹ najwiêksze zapasy CA£EGO Jetu w Nowym Reno. Wiêc jeœli musisz sobie polataæ...}
-{626}{}{Skoro ju¿ o tym mowa, gdzie mo¿na tutaj kupiæ jakieœ prochy?}
-{627}{}{Jak to siê sta³o, ¿e Mordino maj¹ najwiêksze zapasy Jetu?}
+{579}{}{Opowiedz mi o Rodzinie BishopÃ³w.}
+{580}{}{Opowiedz mi o Rodzinie WrightÃ³w.}
+{581}{}{Mam parÄ™ pytaÅ„ odnoÅ›nie Nowego Reno...}
+{582}{}{WÅ‚aÅ›ciwie to niewaÅ¼ne. PÃ³Åºniej pogadamy.}
+{590}{}{(Unosi dwa palce) Mordino to bestia dwugÅ‚owa, a kaÅ¼da z tych gÅ‚Ã³w nazywa siÄ™ Jesus Mordino.}
+{591}{}{MÃ³w dalej...}
+{592}{}{Zawsze nurtowaÅ‚a mnie kwestia zwiÄ…zkÃ³w Jezusa z zorganizowanÄ… przestÄ™pczoÅ›ciÄ….}
+{594}{}{WrÃ³Ä‡my do innych rodzin.}
+{596}{}{WÅ‚aÅ›ciwie to niewaÅ¼ne. DziÄ™ki za rozmowÄ™.}
+{615}{}{Jest ojciec, DuÅ¼y Jesus Mordino, i syn, MaÅ‚y Jesus, a obaj sÄ… najokrutniejszymi skurwysynami, jakich kiedykolwiek zdarzy ci siÄ™ spotkaÄ‡. KiedyÅ› byli niewolnikami, ale parÄ™ lat temu karta siÄ™ odwrÃ³ciÅ‚a i wyrzeÅºbili sobie swoje wÅ‚asne imperium.}
+{616}{}{Jak duÅ¼e jest to ich "imperium"?}
+{625}{}{SÄ… wÅ‚aÅ›cicielami Desperado leÅ¼Ä…cego trochÄ™ dalej wzdÅ‚uÅ¼ tej ulicy. Nie moÅ¼na nie zauwaÅ¼yÄ‡. Poza tym majÄ… najwiÄ™ksze zapasy CAÅEGO Jetu w Nowym Reno. WiÄ™c jeÅ›li musisz sobie polataÄ‡...}
+{626}{}{Skoro juÅ¼ o tym mowa, gdzie moÅ¼na tutaj kupiÄ‡ jakieÅ› prochy?}
+{627}{}{Jak to siÄ™ staÅ‚o, Å¼e Mordino majÄ… najwiÄ™ksze zapasy Jetu?}
 {628}{}{Opowiedz mi o innych rodzinach.}
-{635}{}{S¹ na samym czubku tego wszystkiego. Nie ma innych powodów. Maj¹ fabrykê, twórcê i dystrybutorów. Maj¹ tyle Jetu, ¿e wygl¹daj¹ jak ca³e cholerne linie lotnicze.}
+{635}{}{SÄ… na samym czubku tego wszystkiego. Nie ma innych powodÃ³w. MajÄ… fabrykÄ™, twÃ³rcÄ™ i dystrybutorÃ³w. MajÄ… tyle Jetu, Å¼e wyglÄ…dajÄ… jak caÅ‚e cholerne linie lotnicze.}
 {636}{}{Co wiesz na ten temat?}
-{637}{}{Co za fabrykê?}
-{638}{}{Jakiego "twórcê"?}
-{639}{}{Jak rozleg³a jest ich sieæ dystrybucyjna?}
-{650}{}{Maj¹ w ca³ym Nowym Reno mnóstwo fabryk, które robi¹ to ich gówno dzieñ i noc. W³aœnie dlatego mo¿esz kupiæ ca³y ten Jet prawie wszêdzie: w barach, w kasynach, na ulicy... i oczywiœcie, u MNIE.}
-{651}{}{Mogê zobaczyæ, co masz na sk³adzie?}
-{652}{}{Wracaj¹c do Mordino i do Jetu...}
-{660}{}{Taak... (przysuwa siê) ...widzisz, Mordino maj¹ sobie tak¹ ma³¹ kopalniê z³ota o imieniu Myron. Trafili z nim w dziesi¹tkê... widzisz, on WYMYŒLI£ Jet.}
+{637}{}{Co za fabrykÄ™?}
+{638}{}{Jakiego "twÃ³rcÄ™"?}
+{639}{}{Jak rozlegÅ‚a jest ich sieÄ‡ dystrybucyjna?}
+{650}{}{MajÄ… w caÅ‚ym Nowym Reno mnÃ³stwo fabryk, ktÃ³re robiÄ… to ich gÃ³wno dzieÅ„ i noc. WÅ‚aÅ›nie dlatego moÅ¼esz kupiÄ‡ caÅ‚y ten Jet prawie wszÄ™dzie: w barach, w kasynach, na ulicy... i oczywiÅ›cie, u MNIE.}
+{651}{}{MogÄ™ zobaczyÄ‡, co masz na skÅ‚adzie?}
+{652}{}{WracajÄ…c do Mordino i do Jetu...}
+{660}{}{Taak... (przysuwa siÄ™) ...widzisz, Mordino majÄ… sobie takÄ… maÅ‚Ä… kopalniÄ™ zÅ‚ota o imieniu Myron. Trafili z nim w dziesiÄ…tkÄ™... widzisz, on WYMYÅšLIÅ Jet.}
 {662}{}{Wystarczy na razie tych rodzin i Mordino. Opowiedz mi o Myronie.}
-{670}{}{Wpychaj¹ to w Nowe Reno. To dla tych, co dopiero zaczynaj¹. S¹ te¿ na pó³nocy w Norze i jeszcze... uch... (zastanawia siê chwilê, potem wzrusza ramionami i mówi dalej) ...no wiêc, to siê ostatnio rozszerza te¿ na Redding, co wcale nie szkodzi sakiewce Mordino.}
+{670}{}{WpychajÄ… to w Nowe Reno. To dla tych, co dopiero zaczynajÄ…. SÄ… teÅ¼ na pÃ³Å‚nocy w Norze i jeszcze... uch... (zastanawia siÄ™ chwilÄ™, potem wzrusza ramionami i mÃ³wi dalej) ...no wiÄ™c, to siÄ™ ostatnio rozszerza teÅ¼ na Redding, co wcale nie szkodzi sakiewce Mordino.}
 {672}{}{Opowiedz mi o Redding.}
-{685}{}{Niewiele mo¿na o NIM powiedzieæ. Miasteczko górnicze na pó³nocny zachód st¹d. Plotka g³osi, ¿e Mordino chce tam uzyskaæ jakieœ wp³ywy, dobraæ siê do Z£OTA, które siê w Redding wydobywa. Wiêc on im wysy³a Jet, oni mu przysy³aj¹ z³oto i wszyscy s¹ szczêœliwi.}
-{695}{}{Spokojna banda. Przewodzi im Louis Salvatore, prawdziwy gangster, który posun¹³ siê ju¿ w latach. Ich terytorium to Zachodnia Dzielnica, a melina to bar zwany "U Salvatore'a" na 2-giej Ulicy. Nie wszczynaj tam ¿adnych awantur.}
+{685}{}{Niewiele moÅ¼na o NIM powiedzieÄ‡. Miasteczko gÃ³rnicze na pÃ³Å‚nocny zachÃ³d stÄ…d. Plotka gÅ‚osi, Å¼e Mordino chce tam uzyskaÄ‡ jakieÅ› wpÅ‚ywy, dobraÄ‡ siÄ™ do ZÅOTA, ktÃ³re siÄ™ w Redding wydobywa. WiÄ™c on im wysyÅ‚a Jet, oni mu przysyÅ‚ajÄ… zÅ‚oto i wszyscy sÄ… szczÄ™Å›liwi.}
+{695}{}{Spokojna banda. Przewodzi im Louis Salvatore, prawdziwy gangster, ktÃ³ry posunÄ…Å‚ siÄ™ juÅ¼ w latach. Ich terytorium to Zachodnia Dzielnica, a melina to bar zwany "U Salvatore'a" na 2-giej Ulicy. Nie wszczynaj tam Å¼adnych awantur.}
 {696}{}{Dlaczego?}
-{710}{}{Darmowa rada: jak widzisz Salvatore, to spuœæ g³owê i zamknij buziê na k³ódkê, albo rozetn¹ ciê na pó³. Maj¹ najlepsze uzbrojenie po tej stronie pustyni, wiêc nikt z odrobin¹ oleju w g³owie nie zadziera z nimi, rozumiesz?}
-{711}{}{Jakiego rodzaju "uzbrojenie" maj¹ Salvatore?}
-{712}{}{Wygl¹da na to, ¿e maj¹ jakieœ kurewsko mocne spluwy. Co je tak podpakowuje?}
-{715}{}{Ciekawe... dziêki za ostrze¿enie.}
-{725}{}{Pistolety, tylko ¿e one strzelaj¹ ŒWIAT£EM. Niby Reno jest miastem œwiate³, ale œwiat³a, którymi œwiec¹ TE pistolety, mog¹ przeci¹æ cz³owieka na dwie po³ówki... *zzziuu*... (Jules wykonuje ruch rêk¹, jakby coœ kroi³) Œlicznie odcina te dwie po³ówki, o tak.}
-{726}{}{Strzelaj¹ œwiat³em? Czy oni mówi¹ na te pistolety: "pistolety laserowe"?}
-{727}{}{A wiêc lepiej bêdê uwa¿aæ. Mo¿esz opowiedzieæ mi o innych rodzinach?}
-{735}{}{Wiesz, no, nie wiem... nie bardzo rozumiem, o czym mówisz. Ale uwierz mi na s³owo: nie idŸ do Salvatore, ¿eby siê o to zapytaæ. Oni maj¹ taki bezwarunkowy odruch, ¿e zabijaj¹ wszystkich ciekawskich.}
-{736}{}{Przez "pistolety laserowe" drogi Julesie, rozumiem pistolety emituj¹ce promienie koherentnego swiat³a. Promieñ o wystarczaj¹cej mocy - powiedzmy kilku megawatów - móg³by dokonaæ znacznych uszkodzeñ, gdyby skupiæ go na celu przez kilka sekund, uzyskuj¹c efekt, który opisa³eœ.}
+{710}{}{Darmowa rada: jak widzisz Salvatore, to spuÅ›Ä‡ gÅ‚owÄ™ i zamknij buziÄ™ na kÅ‚Ã³dkÄ™, albo rozetnÄ… ciÄ™ na pÃ³Å‚. MajÄ… najlepsze uzbrojenie po tej stronie pustyni, wiÄ™c nikt z odrobinÄ… oleju w gÅ‚owie nie zadziera z nimi, rozumiesz?}
+{711}{}{Jakiego rodzaju "uzbrojenie" majÄ… Salvatore?}
+{712}{}{WyglÄ…da na to, Å¼e majÄ… jakieÅ› kurewsko mocne spluwy. Co je tak podpakowuje?}
+{715}{}{Ciekawe... dziÄ™ki za ostrzeÅ¼enie.}
+{725}{}{Pistolety, tylko Å¼e one strzelajÄ… ÅšWIATÅEM. Niby Reno jest miastem Å›wiateÅ‚, ale Å›wiatÅ‚a, ktÃ³rymi Å›wiecÄ… TE pistolety, mogÄ… przeciÄ…Ä‡ czÅ‚owieka na dwie poÅ‚Ã³wki... *zzziuu*... (Jules wykonuje ruch rÄ™kÄ…, jakby coÅ› kroiÅ‚) Åšlicznie odcina te dwie poÅ‚Ã³wki, o tak.}
+{726}{}{StrzelajÄ… Å›wiatÅ‚em? Czy oni mÃ³wiÄ… na te pistolety: "pistolety laserowe"?}
+{727}{}{A wiÄ™c lepiej bÄ™dÄ™ uwaÅ¼aÄ‡. MoÅ¼esz opowiedzieÄ‡ mi o innych rodzinach?}
+{735}{}{Wiesz, no, nie wiem... nie bardzo rozumiem, o czym mÃ³wisz. Ale uwierz mi na sÅ‚owo: nie idÅº do Salvatore, Å¼eby siÄ™ o to zapytaÄ‡. Oni majÄ… taki bezwarunkowy odruch, Å¼e zabijajÄ… wszystkich ciekawskich.}
+{736}{}{Przez "pistolety laserowe" drogi Julesie, rozumiem pistolety emitujÄ…ce promienie koherentnego swiatÅ‚a. PromieÅ„ o wystarczajÄ…cej mocy - powiedzmy kilku megawatÃ³w - mÃ³gÅ‚by dokonaÄ‡ znacznych uszkodzeÅ„, gdyby skupiÄ‡ go na celu przez kilka sekund, uzyskujÄ…c efekt, ktÃ³ry opisaÅ‚eÅ›.}
 {737}{}{Czy oni zawsze mieli te pistolety?}
-{750}{}{Nie maj¹ ich od zawsze... inaczej rz¹dziliby Nowym Reno... CA£YM Nowym Reno. A tak siê tylko po cichutku wzmacniaj¹. Te pistolety pojawi³y siê... jakieœ kilka miesiêcy temu, mniej wiêcej w tym samym czasie, kiedy mieliœmy masakrê.}
-{751}{}{Masakrê?}
-{765}{}{O tak... dwóch ch³opaków Salvatore'a z tymi swoimi pistoletami zabi³o kilku ludzi Bishopa, a potem zastrzeli³o paru ch³opaków Mordino, którzy próbowali wleŸæ im w drogê w Zachodniej Dzielnicy. Od tego czasu wszystkie rodziny trzymaj¹ siê z dala od Salvatore.}
-{766}{}{To zdecydowanie wygl¹da na lasery. Wiesz mo¿e jak Salvatore zasilaj¹ swoje pistolety? U¿ywaj¹ baterii, uk³adów fuzyjnych, albo jakiegoœ zasilania kablowego?}
-{767}{}{Masz jakiœ pomys³, sk¹d mog¹ braæ te swoje pistolety?}
-{780}{}{Nie mam pojêcia, nie pyta³em i ty te¿ lepiej nie pytaj... to moja rada. Jeœli szukasz broni, to s¹ inne... bezpieczniejsze... miejsca, od których warto zacz¹æ.}
-{781}{}{Na przyk³ad?}
-{782}{}{Powiedz mi jeszcze coœ o rodzinach.}
-{795}{}{Uch... no, nie wiem nic o tym, no i... hmmm. Wiesz, gadasz jak jeden z tych bia³ych fartuchów w Stajniach. Na pewno nie masz z nimi nic wspólnego?}
+{750}{}{Nie majÄ… ich od zawsze... inaczej rzÄ…dziliby Nowym Reno... CAÅYM Nowym Reno. A tak siÄ™ tylko po cichutku wzmacniajÄ…. Te pistolety pojawiÅ‚y siÄ™... jakieÅ› kilka miesiÄ™cy temu, mniej wiÄ™cej w tym samym czasie, kiedy mieliÅ›my masakrÄ™.}
+{751}{}{MasakrÄ™?}
+{765}{}{O tak... dwÃ³ch chÅ‚opakÃ³w Salvatore'a z tymi swoimi pistoletami zabiÅ‚o kilku ludzi Bishopa, a potem zastrzeliÅ‚o paru chÅ‚opakÃ³w Mordino, ktÃ³rzy prÃ³bowali wleÅºÄ‡ im w drogÄ™ w Zachodniej Dzielnicy. Od tego czasu wszystkie rodziny trzymajÄ… siÄ™ z dala od Salvatore.}
+{766}{}{To zdecydowanie wyglÄ…da na lasery. Wiesz moÅ¼e jak Salvatore zasilajÄ… swoje pistolety? UÅ¼ywajÄ… baterii, ukÅ‚adÃ³w fuzyjnych, albo jakiegoÅ› zasilania kablowego?}
+{767}{}{Masz jakiÅ› pomysÅ‚, skÄ…d mogÄ… braÄ‡ te swoje pistolety?}
+{780}{}{Nie mam pojÄ™cia, nie pytaÅ‚em i ty teÅ¼ lepiej nie pytaj... to moja rada. JeÅ›li szukasz broni, to sÄ… inne... bezpieczniejsze... miejsca, od ktÃ³rych warto zaczÄ…Ä‡.}
+{781}{}{Na przykÅ‚ad?}
+{782}{}{Powiedz mi jeszcze coÅ› o rodzinach.}
+{795}{}{Uch... no, nie wiem nic o tym, no i... hmmm. Wiesz, gadasz jak jeden z tych biaÅ‚ych fartuchÃ³w w Stajniach. Na pewno nie masz z nimi nic wspÃ³lnego?}
 {796}{}{Stajnie?}
-{810}{}{(Przysuwa siê) Wiesz, nie chcê gadaæ za du¿o o mniej PRZYJEMNYCH czêœciach Nowego Reno, ale w tym budynku na pó³noc od miasta, w Stajniach, jest paru bia³ych fartuchów, którzy gadaj¹ zupe³nie tak jak ty. S¹ dobrze strze¿eni przez ludzi Mordino.}
-{811}{}{Co oni tam robi¹?}
-{825}{}{Z tego, co s³ysza³em, testuj¹ nowe rodzaje Jetu. No wiesz, mówiê ci to w ZAUFANIU: nie zagl¹daj tam po k¹tach... Mordino nie lubi¹ goœci. Poza tym... Jules mo¿e za³atwiæ ci tyle Jetu, ile tylko potrzebujesz.}
-{826}{}{Dlaczego Mordino wci¹¿ testuj¹ Jet? Przecie¿ i tak uzale¿nia wystarczaj¹co mocno.}
-{827}{}{Na kim Mordino testuj¹ narkotyki?}
-{828}{}{Wiesz mo¿e jak siê dostaæ do Stajni?}
-{840}{}{Na niewolnikach, w sporych iloœciach. Trzymaj¹ ich w zagrodach w stajni, jak braminy. }
-{841}{}{Mordino kupuj¹ du¿o od przechodz¹cych têdy ³owców niewolników. }
-{842}{}{Mordino kupuj¹ du¿o od przechodz¹cych przez Nowego Reno ³owców niewolników, takich jak ty. }
-{843}{}{Kupuj¹ ich straszne iloœci, równie¿ dlatego, ¿e niewolnicy ci¹gle choruj¹, uciekaj¹... albo umieraj¹. G³ównie umieraj¹.}
-{860}{}{Po prostu ¿eby go ulepszyæ, jak s¹dzê, usprawniæ proces, oczyœciæ narkotyk. Jet jest dobry, ale gdyby by³ jeszcze LEPSZY... ró¿nica jak miêdzy drapaniem chmur a wycieczk¹ na ksiê¿yc, jak mniemam.}
-{880}{}{Poczekaj momencik - na twoim miejscu nawet nie MYŒLA£BYM o tym. Mordino pilnuj¹ tego miejsca jak wœciek³e psy. Po prostu wybij to sobie z g³owy.}
-{881}{}{Musi byæ jakiœ sposób...}
-{886}{}{No dobrze, zostawmy to. Dziêki za informacje.}
-{895}{}{No... jeœli bez przerwy gadasz tak sprytnie jak przed chwil¹, to mo¿esz podszyæ siê pod jednego z bia³ych fartuchów. Szyliœcie, mo¿esz te¿ zatrudniæ siê u Mordino, ¿eby ciê tam sami wpuœcili...}
-{910}{}{Ha! John Bishop? Co tu gadaæ: Bishop jest cwany, twardy i szuka sposobu, ¿eby zgarn¹æ WSZYSTKO dla siebie.}
-{911}{}{Ach tak, bêdzie musia³ ze mn¹ o to powalczyæ. Gdzie jest terytorium tego pajaca?}
-{912}{}{Gdzie le¿y jego terytorium?}
-{925}{}{Siedzi w Klubie Rekin na 2-giej Ulicy. Otaczaj¹ go ochroniarze, wiêc nie sk³adaj mu wizyty, póki nie bêdziesz mieæ do niego jakiejœ WA¯NEJ sprawy. (Uœmiecha siê z³owieszczo) I trzymaj ³apy z dala od jego ¿ony. ORAZ jego córki.}
-{926}{}{Uch, ³apy?}
-{927}{}{To nie bêdzie trudne.}
-{935}{}{Dobrze wiesz bracie, o co mi chodzi. Po prostu trzymaj siê z dala od nich, chyba ¿e podoba ci siê pomys³ znalezienia siê na liœcie Bishopa.}
-{936}{}{No, mo¿e tak ci siê wydaje, ale to CO masz miêdzy swoimi dwiema nogami nie ma znaczenia... przynajmniej dla pani Bishop. "Aby dodaæ ¿yciu smaczek, raz dziewczynka, raz ch³opaczek", oto jej filozofia.}
-{937}{}{Uch, opowiedz mi coœ jeszcze o rodzinach.}
-{945}{}{Wrightowie? Ha. Wrightowie s¹ jedyn¹ rodzin¹, która JEST rodzin¹. Bo widzisz, inne rodziny u¿ywaj¹ do czarnej roboty najemników i innych oprychów, ale rodzina Wrightów JEST rodzin¹ Wrightów, rozumiesz? }
-{946}{}{Mam dla ciebie ostrze¿enie w kwestii Wrightów... widzisz, Wrightowie s¹ jedyn¹ rodzin¹, która JEST rodzin¹.}
-{947}{}{S¹ rodzin¹? Ilu ich jest?}
-{960}{}{Prawie dwudziestu albo i wiêcej pe³nokrwistych Wrightów. Wredni jak ¿mije, a jeden brzydszy od drugiego.}
-{961}{}{Prawie dwudziestu albo i wiêcej pe³nokrwistych Wrightów, a do tego nie s¹ zbyt mili dla ludzi twojego zawodu. Plotka g³osi, ¿e kiedyœ ³owca niewolników porwa³ ich siostrê i od tego czasu Wrightowie nie lubi¹ ³owców.}
-{962}{}{Co kontroluj¹ Wrightowie?}
-{975}{}{Nie maj¹ kasyna, robi¹ g³ównie w alkoholu, który sprzedaj¹ innym rodzinom. Wiêc jeœli szukasz bimbru... Wrightowie siedz¹ w du¿ej posiad³oœci we wschodniej czêœci miasta.}
-{985}{}{Bracie, nie musisz ju¿ dalej szukaæ, obs³u¿y ciê skromny Jules we w³asnej osobie. }
-{986}{}{Siostro, nie musisz ju¿ dalej szukaæ, obs³u¿y ciê skromny Jules we w³asnej osobie. }
-{987}{}{Moja droga siostro, nie musisz ju¿ dalej szukaæ, obs³u¿y ciê skromny Jules we w³asnej osobie. }
-{988}{}{Mam WSZYSTKO, a jeœli ja tego nie mam, to i tak tego nie chcesz. Zrobimy ma³y interesik?}
+{810}{}{(Przysuwa siÄ™) Wiesz, nie chcÄ™ gadaÄ‡ za duÅ¼o o mniej PRZYJEMNYCH czÄ™Å›ciach Nowego Reno, ale w tym budynku na pÃ³Å‚noc od miasta, w Stajniach, jest paru biaÅ‚ych fartuchÃ³w, ktÃ³rzy gadajÄ… zupeÅ‚nie tak jak ty. SÄ… dobrze strzeÅ¼eni przez ludzi Mordino.}
+{811}{}{Co oni tam robiÄ…?}
+{825}{}{Z tego, co sÅ‚yszaÅ‚em, testujÄ… nowe rodzaje Jetu. No wiesz, mÃ³wiÄ™ ci to w ZAUFANIU: nie zaglÄ…daj tam po kÄ…tach... Mordino nie lubiÄ… goÅ›ci. Poza tym... Jules moÅ¼e zaÅ‚atwiÄ‡ ci tyle Jetu, ile tylko potrzebujesz.}
+{826}{}{Dlaczego Mordino wciÄ…Å¼ testujÄ… Jet? PrzecieÅ¼ i tak uzaleÅ¼nia wystarczajÄ…co mocno.}
+{827}{}{Na kim Mordino testujÄ… narkotyki?}
+{828}{}{Wiesz moÅ¼e jak siÄ™ dostaÄ‡ do Stajni?}
+{840}{}{Na niewolnikach, w sporych iloÅ›ciach. TrzymajÄ… ich w zagrodach w stajni, jak braminy. }
+{841}{}{Mordino kupujÄ… duÅ¼o od przechodzÄ…cych tÄ™dy Å‚owcÃ³w niewolnikÃ³w. }
+{842}{}{Mordino kupujÄ… duÅ¼o od przechodzÄ…cych przez Nowego Reno Å‚owcÃ³w niewolnikÃ³w, takich jak ty. }
+{843}{}{KupujÄ… ich straszne iloÅ›ci, rÃ³wnieÅ¼ dlatego, Å¼e niewolnicy ciÄ…gle chorujÄ…, uciekajÄ…... albo umierajÄ…. GÅ‚Ã³wnie umierajÄ….}
+{860}{}{Po prostu Å¼eby go ulepszyÄ‡, jak sÄ…dzÄ™, usprawniÄ‡ proces, oczyÅ›ciÄ‡ narkotyk. Jet jest dobry, ale gdyby byÅ‚ jeszcze LEPSZY... rÃ³Å¼nica jak miÄ™dzy drapaniem chmur a wycieczkÄ… na ksiÄ™Å¼yc, jak mniemam.}
+{880}{}{Poczekaj momencik - na twoim miejscu nawet nie MYÅšLAÅBYM o tym. Mordino pilnujÄ… tego miejsca jak wÅ›ciekÅ‚e psy. Po prostu wybij to sobie z gÅ‚owy.}
+{881}{}{Musi byÄ‡ jakiÅ› sposÃ³b...}
+{886}{}{No dobrze, zostawmy to. DziÄ™ki za informacje.}
+{895}{}{No... jeÅ›li bez przerwy gadasz tak sprytnie jak przed chwilÄ…, to moÅ¼esz podszyÄ‡ siÄ™ pod jednego z biaÅ‚ych fartuchÃ³w. SzyliÅ›cie, moÅ¼esz teÅ¼ zatrudniÄ‡ siÄ™ u Mordino, Å¼eby ciÄ™ tam sami wpuÅ›cili...}
+{910}{}{Ha! John Bishop? Co tu gadaÄ‡: Bishop jest cwany, twardy i szuka sposobu, Å¼eby zgarnÄ…Ä‡ WSZYSTKO dla siebie.}
+{911}{}{Ach tak, bÄ™dzie musiaÅ‚ ze mnÄ… o to powalczyÄ‡. Gdzie jest terytorium tego pajaca?}
+{912}{}{Gdzie leÅ¼y jego terytorium?}
+{925}{}{Siedzi w Klubie Rekin na 2-giej Ulicy. OtaczajÄ… go ochroniarze, wiÄ™c nie skÅ‚adaj mu wizyty, pÃ³ki nie bÄ™dziesz mieÄ‡ do niego jakiejÅ› WAÅ»NEJ sprawy. (UÅ›miecha siÄ™ zÅ‚owieszczo) I trzymaj Å‚apy z dala od jego Å¼ony. ORAZ jego cÃ³rki.}
+{926}{}{Uch, Å‚apy?}
+{927}{}{To nie bÄ™dzie trudne.}
+{935}{}{Dobrze wiesz bracie, o co mi chodzi. Po prostu trzymaj siÄ™ z dala od nich, chyba Å¼e podoba ci siÄ™ pomysÅ‚ znalezienia siÄ™ na liÅ›cie Bishopa.}
+{936}{}{No, moÅ¼e tak ci siÄ™ wydaje, ale to CO masz miÄ™dzy swoimi dwiema nogami nie ma znaczenia... przynajmniej dla pani Bishop. "Aby dodaÄ‡ Å¼yciu smaczek, raz dziewczynka, raz chÅ‚opaczek", oto jej filozofia.}
+{937}{}{Uch, opowiedz mi coÅ› jeszcze o rodzinach.}
+{945}{}{Wrightowie? Ha. Wrightowie sÄ… jedynÄ… rodzinÄ…, ktÃ³ra JEST rodzinÄ…. Bo widzisz, inne rodziny uÅ¼ywajÄ… do czarnej roboty najemnikÃ³w i innych oprychÃ³w, ale rodzina WrightÃ³w JEST rodzinÄ… WrightÃ³w, rozumiesz? }
+{946}{}{Mam dla ciebie ostrzeÅ¼enie w kwestii WrightÃ³w... widzisz, Wrightowie sÄ… jedynÄ… rodzinÄ…, ktÃ³ra JEST rodzinÄ….}
+{947}{}{SÄ… rodzinÄ…? Ilu ich jest?}
+{960}{}{Prawie dwudziestu albo i wiÄ™cej peÅ‚nokrwistych WrightÃ³w. Wredni jak Å¼mije, a jeden brzydszy od drugiego.}
+{961}{}{Prawie dwudziestu albo i wiÄ™cej peÅ‚nokrwistych WrightÃ³w, a do tego nie sÄ… zbyt mili dla ludzi twojego zawodu. Plotka gÅ‚osi, Å¼e kiedyÅ› Å‚owca niewolnikÃ³w porwaÅ‚ ich siostrÄ™ i od tego czasu Wrightowie nie lubiÄ… Å‚owcÃ³w.}
+{962}{}{Co kontrolujÄ… Wrightowie?}
+{975}{}{Nie majÄ… kasyna, robiÄ… gÅ‚Ã³wnie w alkoholu, ktÃ³ry sprzedajÄ… innym rodzinom. WiÄ™c jeÅ›li szukasz bimbru... Wrightowie siedzÄ… w duÅ¼ej posiadÅ‚oÅ›ci we wschodniej czÄ™Å›ci miasta.}
+{985}{}{Bracie, nie musisz juÅ¼ dalej szukaÄ‡, obsÅ‚uÅ¼y ciÄ™ skromny Jules we wÅ‚asnej osobie. }
+{986}{}{Siostro, nie musisz juÅ¼ dalej szukaÄ‡, obsÅ‚uÅ¼y ciÄ™ skromny Jules we wÅ‚asnej osobie. }
+{987}{}{Moja droga siostro, nie musisz juÅ¼ dalej szukaÄ‡, obsÅ‚uÅ¼y ciÄ™ skromny Jules we wÅ‚asnej osobie. }
+{988}{}{Mam WSZYSTKO, a jeÅ›li ja tego nie mam, to i tak tego nie chcesz. Zrobimy maÅ‚y interesik?}
 {989}{}{Pewnie. Pohandlujmy.}
-{990}{}{Jakiego rodzaju prochy mo¿na znaleŸæ w Nowym Reno?}
-{991}{}{Nie teraz, mam kilka innych pytañ...}
-{992}{}{W³aœciwie to nie zamierzam teraz kupowaæ ¿adnych prochów. Muszê ju¿ iœæ.}
-{1005}{}{Ka¿dego RODZAJU prochy. Mam towar, który ciê rozpali, rozpali twoj¹ kobietê, postawi twój maszt, uczyni ciê szczêœliwym, silnym, sprytnym... no i oczywiœcie mam TEN specja³, prochy, które pomog¹ ci lataæ... Jet.}
-{1006}{}{Ka¿dego RODZAJU prochy. Mam towar, który ciê podjara, podnieci, przeleci, uspokoi, uszczêœliwi, uczyni ciê siln¹, sprytn¹... no i oczywiœcie mam TEN specja³, prochy, które pomog¹ ci lataæ... Jet.}
-{1008}{}{Sk¹d bierze siê Jet? Czy zawsze by³ w tej okolicy?}
-{1025}{}{No... uch... Jet bierze siê st¹d... znaczy siê z Reno. Pojawi³ siê niedawno, ale jest na niego ZAPOTRZEBOWANIE, rozumiesz co mam na myœli? (Mruga do ciebie) To powód numer jeden, dla którego mamy tylu turystów takich jak ty.}
-{1026}{}{No dobrze, chcê kupiæ trochê prochów. Ubijmy interes.}
-{1027}{}{Ale dlaczego Jet wzi¹³ siê w³aœnie st¹d?}
-{1035}{}{Aj, bo... widzisz, pewnego dnia Rodzina Mordino wygra³a szczêœliwy los na loterii, znajduj¹c tego ma³ego jajog³owego, co go nazywaj¹ Myron. Wychodzi na to, ¿e on robienie nowych prochów ma we krwi. On WYMYŒLI£ Jet.}
-{1036}{}{Myron, tak? Gdzie mogê go znaleŸæ?}
-{1045}{}{(Przysuwa siê) No wiesz, nie chcia³bym gadaæ za du¿o o tych mniej PRZYJEMNYCH czêœciach Nowego Reno, ale jest taki budynek na pó³noc od miasta, Stajnie. Pilnie strze¿ony przez rodzinê Mordino. Tam w³aœnie jest Myron.}
+{990}{}{Jakiego rodzaju prochy moÅ¼na znaleÅºÄ‡ w Nowym Reno?}
+{991}{}{Nie teraz, mam kilka innych pytaÅ„...}
+{992}{}{WÅ‚aÅ›ciwie to nie zamierzam teraz kupowaÄ‡ Å¼adnych prochÃ³w. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{1005}{}{KaÅ¼dego RODZAJU prochy. Mam towar, ktÃ³ry ciÄ™ rozpali, rozpali twojÄ… kobietÄ™, postawi twÃ³j maszt, uczyni ciÄ™ szczÄ™Å›liwym, silnym, sprytnym... no i oczywiÅ›cie mam TEN specjaÅ‚, prochy, ktÃ³re pomogÄ… ci lataÄ‡... Jet.}
+{1006}{}{KaÅ¼dego RODZAJU prochy. Mam towar, ktÃ³ry ciÄ™ podjara, podnieci, przeleci, uspokoi, uszczÄ™Å›liwi, uczyni ciÄ™ silnÄ…, sprytnÄ…... no i oczywiÅ›cie mam TEN specjaÅ‚, prochy, ktÃ³re pomogÄ… ci lataÄ‡... Jet.}
+{1008}{}{SkÄ…d bierze siÄ™ Jet? Czy zawsze byÅ‚ w tej okolicy?}
+{1025}{}{No... uch... Jet bierze siÄ™ stÄ…d... znaczy siÄ™ z Reno. PojawiÅ‚ siÄ™ niedawno, ale jest na niego ZAPOTRZEBOWANIE, rozumiesz co mam na myÅ›li? (Mruga do ciebie) To powÃ³d numer jeden, dla ktÃ³rego mamy tylu turystÃ³w takich jak ty.}
+{1026}{}{No dobrze, chcÄ™ kupiÄ‡ trochÄ™ prochÃ³w. Ubijmy interes.}
+{1027}{}{Ale dlaczego Jet wziÄ…Å‚ siÄ™ wÅ‚aÅ›nie stÄ…d?}
+{1035}{}{Aj, bo... widzisz, pewnego dnia Rodzina Mordino wygraÅ‚a szczÄ™Å›liwy los na loterii, znajdujÄ…c tego maÅ‚ego jajogÅ‚owego, co go nazywajÄ… Myron. Wychodzi na to, Å¼e on robienie nowych prochÃ³w ma we krwi. On WYMYÅšLIÅ Jet.}
+{1036}{}{Myron, tak? Gdzie mogÄ™ go znaleÅºÄ‡?}
+{1045}{}{(Przysuwa siÄ™) No wiesz, nie chciaÅ‚bym gadaÄ‡ za duÅ¼o o tych mniej PRZYJEMNYCH czÄ™Å›ciach Nowego Reno, ale jest taki budynek na pÃ³Å‚noc od miasta, Stajnie. Pilnie strzeÅ¼ony przez rodzinÄ™ Mordino. Tam wÅ‚aÅ›nie jest Myron.}
 {1046}{}{Stajnie poza miastem?}
-{1055}{}{W³aœnie, Mordino trzymaj¹ tam swojego z³otego ch³opca, daj¹ mu kasê, kurwy, wszystko czego chce, dopóki wymyœla nowe prochy. Jet to jego NAJLEPSZY wynalazek. Od dawna ju¿ nie widzia³em czegoœ tak uzale¿niaj¹cego. Wywróci³ Reno do góry nogami, o tak.}
-{1056}{}{Myœlisz, ¿e da³oby siê jakoœ spotkaæ tego Myrona?}
-{1065}{}{(Jules staje przed tob¹ i bada ciê wzrokiem. Jego oczy przebiegaj¹ w górê i w dó³ po twoim ciele.)}
-{1066}{}{Jules? Halo? Pyta³am, czy mog³abym jakoœ spotkaæ siê z Myronem.}
-{1075}{}{Heej, zaczekaj bracie, oto darmowa rada: nie zagl¹daj po k¹tach próbuj¹c spotkaæ Myrona, bo jak tylko Mordino zwêsz¹ TEN pomys³, wybebesz¹ ciê i zostawi¹ twojego trupa na Golgocie.}
-{1076}{}{Nie próbowa³bym. Jeœli potrzebujesz Jetu, to nie idŸ do Myrona, bo mo¿esz dostaæ go u mnie. Jak tylko Mordino zwêsz¹, ¿e spotykasz siê z Myronem, wybebesz¹ ciê i zostawi¹ twojego trupa na Golgocie.}
-{1077}{}{Wiesz, no... TY mog³abyœ siê do niego dostaæ. Problem w tym, ¿e jak tylko Mordino to zwêsz¹, wybebesz¹ ciê i zostawi¹ twojego trupa na Golgocie.}
-{1078}{}{Czy naprawdê nie ma sposobu, ¿eby go zobaczyæ?}
-{1079}{}{Dlaczego mówisz, ¿e mog³abym siê do niego dostaæ?}
-{1080}{}{Dlaczego przed chwil¹ gapi³eœ siê na mnie jak na rzeŸbê?}
+{1055}{}{WÅ‚aÅ›nie, Mordino trzymajÄ… tam swojego zÅ‚otego chÅ‚opca, dajÄ… mu kasÄ™, kurwy, wszystko czego chce, dopÃ³ki wymyÅ›la nowe prochy. Jet to jego NAJLEPSZY wynalazek. Od dawna juÅ¼ nie widziaÅ‚em czegoÅ› tak uzaleÅ¼niajÄ…cego. WywrÃ³ciÅ‚ Reno do gÃ³ry nogami, o tak.}
+{1056}{}{MyÅ›lisz, Å¼e daÅ‚oby siÄ™ jakoÅ› spotkaÄ‡ tego Myrona?}
+{1065}{}{(Jules staje przed tobÄ… i bada ciÄ™ wzrokiem. Jego oczy przebiegajÄ… w gÃ³rÄ™ i w dÃ³Å‚ po twoim ciele.)}
+{1066}{}{Jules? Halo? PytaÅ‚am, czy mogÅ‚abym jakoÅ› spotkaÄ‡ siÄ™ z Myronem.}
+{1075}{}{Heej, zaczekaj bracie, oto darmowa rada: nie zaglÄ…daj po kÄ…tach prÃ³bujÄ…c spotkaÄ‡ Myrona, bo jak tylko Mordino zwÄ™szÄ… TEN pomysÅ‚, wybebeszÄ… ciÄ™ i zostawiÄ… twojego trupa na Golgocie.}
+{1076}{}{Nie prÃ³bowaÅ‚bym. JeÅ›li potrzebujesz Jetu, to nie idÅº do Myrona, bo moÅ¼esz dostaÄ‡ go u mnie. Jak tylko Mordino zwÄ™szÄ…, Å¼e spotykasz siÄ™ z Myronem, wybebeszÄ… ciÄ™ i zostawiÄ… twojego trupa na Golgocie.}
+{1077}{}{Wiesz, no... TY mogÅ‚abyÅ› siÄ™ do niego dostaÄ‡. Problem w tym, Å¼e jak tylko Mordino to zwÄ™szÄ…, wybebeszÄ… ciÄ™ i zostawiÄ… twojego trupa na Golgocie.}
+{1078}{}{Czy naprawdÄ™ nie ma sposobu, Å¼eby go zobaczyÄ‡?}
+{1079}{}{Dlaczego mÃ³wisz, Å¼e mogÅ‚abym siÄ™ do niego dostaÄ‡?}
+{1080}{}{Dlaczego przed chwilÄ… gapiÅ‚eÅ› siÄ™ na mnie jak na rzeÅºbÄ™?}
 {1081}{}{Golgota? Co to takiego?}
-{1083}{}{Ciekawe. Dziêki za informacje.}
-{1101}{}{Czy naprawdê nie ma sposobu, ¿eby go zobaczyæ?}
-{1102}{}{Dlaczego mówisz, ¿e mog³abym siê do niego dostaæ?}
-{1103}{}{Dlaczego przed chwil¹ gapi³eœ siê na mnie jak na rzeŸbê?}
-{1115}{}{Zrobi³em TO, bo sprawdza³em, czy jesteœ w typie Myrona, ale nie jesteœ. Mo¿e jakbyœ siê umy³a, Myron da³by ci szansê... widzisz, on lubi takie o kobiecym wygl¹dzie.}
-{1116}{}{(£ypie okiem) To dlatego, moja s³odziutka, ¿e jesteœ £ADNA. A Myron lubi £ADNE kobiety.}
-{1117}{}{Ch³opak jest jak królik, który CI¥GLE szuka nowych marchewek.}
-{1118}{}{Mówi³eœ coœ o Golgocie?}
-{1119}{}{Uch, œwietnie. Dziêki za radê Jules. S³uchaj, mam kilka innych pytañ...}
-{1120}{}{Po takiej uwadze lepiej sobie pójdê.}
-{1121}{}{Có¿ za elokwencja. Twoje s³owa brzmi¹ jak poezja - u¿ycie wyrazu "marchewka" przywo³uje wyj¹tkowo sugestywne wyobra¿enia. DZIÊKUJÊ.}
-{1130}{}{Jakby by³a z ciebie jakaœ ³adna kobieta, to mo¿e, w przeciwnym razie bêdziesz potrzebowaæ zgody Mordino. Obie te rzeczy nie nale¿¹ do prawdopodobnych.}
-{1132}{}{Rozumiem. Powiedzmy, ¿e mam jeszcze kilka pytañ...}
-{1145}{}{Jeœli chcesz broni, to idŸ do mojego cz³owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, których w ¿yciu jeszcze nawet nie zdarzy³o ci siê ZOBACZYÆ. Powiedz mu, ¿e ciê przys³a³em.}
-{1146}{}{Kumam bracie, kumam. Jak chcesz najwy¿szej jakoœci, to idŸ do mojego cz³owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, których jeszcze w ¿yciu nawet nie WIDZIA£EŒ. Powiedz mu, ¿e ciê przys³a³em.}
-{1147}{}{Kumam siostro, kumam. Jak chcesz najwy¿szej jakoœci, to idŸ do mojego cz³owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, których jeszcze w ¿yciu nawet nie WIDZIA£AŒ. Powiedz mu, ¿e ciê przys³a³em.}
-{1148}{}{S³odziutka, ty JU¯ nieŸle dajesz do pieca z takim cia³em jak twoje. Jeœli mimo to chcesz czegoœ wiêcej, idŸ do mojego cz³owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, których jeszcze w ¿yciu nawet nie WIDZIA£AŒ. Powiedz mu, ¿e ciê przys³a³em.}
-{1150}{}{Dziêki za radê, lepiej ju¿ pójdê.}
-{1165}{}{Potrzebujesz zaopatrzenia? No dobra, MO¯ESZ iœæ do Renesco w Zachodniej Dzielnicy... ale jest ma³y haczyk: nie kupuj u niego ¿adnych prochów, bo nie s¹ BEZPIECZNE. Jego rzeczy s¹ w porz¹dku, ale jeœli chcesz prochów, to gadaj ze mn¹.}
-{1166}{}{Zapamiêtam to. S³uchaj, mam kilka innych pytañ...}
-{1167}{}{Mówisz, ¿e jego prochy nie s¹ bezpieczne, tak? No dobra, dziêki za radê. Lepiej ju¿ pójdê.}
-{1175}{}{Kumam bracie. Widzisz, wiêkszoœæ TURYSTÓW zmierza prosto do Alei Dziewic, gdzie robi im dobrze jakaœ dziwka za dwa dolce. Ty wygl¹dasz na cz³owieka z klas¹, wiêc skieruj siê do Kociego Pazura naprzeciwko. Powiedz, ¿e przys³a³ ciê Jules.}
-{1176}{}{Kumam siostro. Widzisz, wiêkszoœæ TURYSTEK zmierza prosto do Alei Dziewic, gdzie jakiœ ch³optaœ robi im dobrze. Ty wygl¹dasz na kobietê z klas¹, wiêc skieruj siê do Kociego Pazura naprzeciwko. Powiedz, ¿e przys³a³ ciê Jules.}
-{1177}{}{(Uœmiecha siê i wyci¹ga ramiona) Nie szukaj dalej, s³odziutka. Jules jest na twoje rozkazy!}
-{1178}{}{Uch, dziêki Jules, ale nie. Wiesz co, mam kilka innych pytañ...}
-{1180}{}{Dziêki za radê. Lepiej ju¿ pójdê.}
-{1181}{}{Tego, uch, dziêki, ale chyba lepiej sobie pójdê.}
-{1190}{}{Masz na myœli Kryptopolis, prawda? To na pó³nocny wschód st¹d. Nie mo¿esz go przegapiæ, wszystkie œlady karawan tam prowadz¹.}
-{1191}{}{Aha. Wiesz co, mam jeszcze kilka pytañ... }
-{1192}{}{Aha, dziêki za radê. Lepiej ju¿ pójdê.}
-{1200}{}{Genera-co? Jakiœ nowy narkotyk? A co to "Genera-coœ" robi? Dobrze siê po tym lata?}
-{1201}{}{Nie, to jest... no, niewa¿ne. Mam kilka innych pytañ...}
-{1202}{}{Niewa¿ne. Lepiej bêdzie, jak ju¿ sobie pójdê.}
-{1210}{}{Nic o tym nie wiem. Wspó³czujê ci twojej straty. Mo¿e to byli ³owcy niewolników?}
-{1211}{}{Mo¿e. Mam kilka innych pytañ...}
-{1220}{}{¯e co?}
-{1221}{}{Niewa¿ne. Mam kilka innych pytañ...}
-{1230}{}{Uch... dzieciak Wrightów? Jasne, s³ysza³em o tym. Cholerny wstyd. Dzieciaki w jego wieku nie powinny grzebaæ siê w prochach. Maj¹ jeszcze przed sob¹ zbyt wiele, ¿eby dawaæ im zanieczyszczone prochy.}
-{1231}{}{Skoro ju¿ mowa o zanieczyszczonych prochach, to Renesco powiedzia³, ¿e sprzedajesz Jet zakrapiany arszenikiem.}
-{1232}{}{Co masz na myœli mówi¹c o "zanieczyszczonych prochach"?}
-{1233}{}{Umiesz coœ powiedzieæ o tym pustym pojemniku po Jecie?}
-{1234}{}{Ciekawe, ¿e to ty to mówisz... myœlê, ¿e on nie przedawkowa³ Jetu. Myœlê, ¿e zosta³ otruty.}
-{1250}{}{(Wzrusza ramionami) Niektórych dealerów nie obchodzi, co sprzedaj¹, a ludzie od tego umieraj¹. Nie chcê nic mówiæ, ale poszed³bym do tego starego Rakieciarza Renesco i sprawdzi³, jak dobre jest to jego gówno.}
-{1251}{}{Renesco jest ju¿ sprawdzony... mówi, ¿e sprzedajesz Jet zakrapiany arszenikiem.}
-{1252}{}{Julesie, Reno to du¿e miasto. Czy ktoœ jeszcze móg³by byæ za to odpowiedzialny?}
-{1253}{}{Mam kilka innych pytañ...}
-{1254}{}{Dobra. Sprawdzê to.}
-{1270}{}{W mieœcie jest kupa dealerów... byæ mo¿e Ma³y Jesus Mordino, ale to nie ma sensu, bo po co mia³by sprzedawaæ coœ takiego Wrightowi. Jest jeszcze Szramiasty Jimmy J na 2-giej Ulicy, na pó³noc st¹d, ale to cienki Bolek. Z drugiej strony, zdecydowanie sprawdzi³bym Renesco.}
+{1083}{}{Ciekawe. DziÄ™ki za informacje.}
+{1101}{}{Czy naprawdÄ™ nie ma sposobu, Å¼eby go zobaczyÄ‡?}
+{1102}{}{Dlaczego mÃ³wisz, Å¼e mogÅ‚abym siÄ™ do niego dostaÄ‡?}
+{1103}{}{Dlaczego przed chwilÄ… gapiÅ‚eÅ› siÄ™ na mnie jak na rzeÅºbÄ™?}
+{1115}{}{ZrobiÅ‚em TO, bo sprawdzaÅ‚em, czy jesteÅ› w typie Myrona, ale nie jesteÅ›. MoÅ¼e jakbyÅ› siÄ™ umyÅ‚a, Myron daÅ‚by ci szansÄ™... widzisz, on lubi takie o kobiecym wyglÄ…dzie.}
+{1116}{}{(Åypie okiem) To dlatego, moja sÅ‚odziutka, Å¼e jesteÅ› ÅADNA. A Myron lubi ÅADNE kobiety.}
+{1117}{}{ChÅ‚opak jest jak krÃ³lik, ktÃ³ry CIÄ„GLE szuka nowych marchewek.}
+{1118}{}{MÃ³wiÅ‚eÅ› coÅ› o Golgocie?}
+{1119}{}{Uch, Å›wietnie. DziÄ™ki za radÄ™ Jules. SÅ‚uchaj, mam kilka innych pytaÅ„...}
+{1120}{}{Po takiej uwadze lepiej sobie pÃ³jdÄ™.}
+{1121}{}{CÃ³Å¼ za elokwencja. Twoje sÅ‚owa brzmiÄ… jak poezja - uÅ¼ycie wyrazu "marchewka" przywoÅ‚uje wyjÄ…tkowo sugestywne wyobraÅ¼enia. DZIÄ˜KUJÄ˜.}
+{1130}{}{Jakby byÅ‚a z ciebie jakaÅ› Å‚adna kobieta, to moÅ¼e, w przeciwnym razie bÄ™dziesz potrzebowaÄ‡ zgody Mordino. Obie te rzeczy nie naleÅ¼Ä… do prawdopodobnych.}
+{1132}{}{Rozumiem. Powiedzmy, Å¼e mam jeszcze kilka pytaÅ„...}
+{1145}{}{JeÅ›li chcesz broni, to idÅº do mojego czÅ‚owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, ktÃ³rych w Å¼yciu jeszcze nawet nie zdarzyÅ‚o ci siÄ™ ZOBACZYÄ†. Powiedz mu, Å¼e ciÄ™ przysÅ‚aÅ‚em.}
+{1146}{}{Kumam bracie, kumam. Jak chcesz najwyÅ¼szej jakoÅ›ci, to idÅº do mojego czÅ‚owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, ktÃ³rych jeszcze w Å¼yciu nawet nie WIDZIAÅEÅš. Powiedz mu, Å¼e ciÄ™ przysÅ‚aÅ‚em.}
+{1147}{}{Kumam siostro, kumam. Jak chcesz najwyÅ¼szej jakoÅ›ci, to idÅº do mojego czÅ‚owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, ktÃ³rych jeszcze w Å¼yciu nawet nie WIDZIAÅAÅš. Powiedz mu, Å¼e ciÄ™ przysÅ‚aÅ‚em.}
+{1148}{}{SÅ‚odziutka, ty JUÅ» nieÅºle dajesz do pieca z takim ciaÅ‚em jak twoje. JeÅ›li mimo to chcesz czegoÅ› wiÄ™cej, idÅº do mojego czÅ‚owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, ktÃ³rych jeszcze w Å¼yciu nawet nie WIDZIAÅAÅš. Powiedz mu, Å¼e ciÄ™ przysÅ‚aÅ‚em.}
+{1150}{}{DziÄ™ki za radÄ™, lepiej juÅ¼ pÃ³jdÄ™.}
+{1165}{}{Potrzebujesz zaopatrzenia? No dobra, MOÅ»ESZ iÅ›Ä‡ do Renesco w Zachodniej Dzielnicy... ale jest maÅ‚y haczyk: nie kupuj u niego Å¼adnych prochÃ³w, bo nie sÄ… BEZPIECZNE. Jego rzeczy sÄ… w porzÄ…dku, ale jeÅ›li chcesz prochÃ³w, to gadaj ze mnÄ….}
+{1166}{}{ZapamiÄ™tam to. SÅ‚uchaj, mam kilka innych pytaÅ„...}
+{1167}{}{MÃ³wisz, Å¼e jego prochy nie sÄ… bezpieczne, tak? No dobra, dziÄ™ki za radÄ™. Lepiej juÅ¼ pÃ³jdÄ™.}
+{1175}{}{Kumam bracie. Widzisz, wiÄ™kszoÅ›Ä‡ TURYSTÃ“W zmierza prosto do Alei Dziewic, gdzie robi im dobrze jakaÅ› dziwka za dwa dolce. Ty wyglÄ…dasz na czÅ‚owieka z klasÄ…, wiÄ™c skieruj siÄ™ do Kociego Pazura naprzeciwko. Powiedz, Å¼e przysÅ‚aÅ‚ ciÄ™ Jules.}
+{1176}{}{Kumam siostro. Widzisz, wiÄ™kszoÅ›Ä‡ TURYSTEK zmierza prosto do Alei Dziewic, gdzie jakiÅ› chÅ‚optaÅ› robi im dobrze. Ty wyglÄ…dasz na kobietÄ™ z klasÄ…, wiÄ™c skieruj siÄ™ do Kociego Pazura naprzeciwko. Powiedz, Å¼e przysÅ‚aÅ‚ ciÄ™ Jules.}
+{1177}{}{(UÅ›miecha siÄ™ i wyciÄ…ga ramiona) Nie szukaj dalej, sÅ‚odziutka. Jules jest na twoje rozkazy!}
+{1178}{}{Uch, dziÄ™ki Jules, ale nie. Wiesz co, mam kilka innych pytaÅ„...}
+{1180}{}{DziÄ™ki za radÄ™. Lepiej juÅ¼ pÃ³jdÄ™.}
+{1181}{}{Tego, uch, dziÄ™ki, ale chyba lepiej sobie pÃ³jdÄ™.}
+{1190}{}{Masz na myÅ›li Kryptopolis, prawda? To na pÃ³Å‚nocny wschÃ³d stÄ…d. Nie moÅ¼esz go przegapiÄ‡, wszystkie Å›lady karawan tam prowadzÄ….}
+{1191}{}{Aha. Wiesz co, mam jeszcze kilka pytaÅ„... }
+{1192}{}{Aha, dziÄ™ki za radÄ™. Lepiej juÅ¼ pÃ³jdÄ™.}
+{1200}{}{Genera-co? JakiÅ› nowy narkotyk? A co to "Genera-coÅ›" robi? Dobrze siÄ™ po tym lata?}
+{1201}{}{Nie, to jest... no, niewaÅ¼ne. Mam kilka innych pytaÅ„...}
+{1202}{}{NiewaÅ¼ne. Lepiej bÄ™dzie, jak juÅ¼ sobie pÃ³jdÄ™.}
+{1210}{}{Nic o tym nie wiem. WspÃ³Å‚czujÄ™ ci twojej straty. MoÅ¼e to byli Å‚owcy niewolnikÃ³w?}
+{1211}{}{MoÅ¼e. Mam kilka innych pytaÅ„...}
+{1220}{}{Å»e co?}
+{1221}{}{NiewaÅ¼ne. Mam kilka innych pytaÅ„...}
+{1230}{}{Uch... dzieciak WrightÃ³w? Jasne, sÅ‚yszaÅ‚em o tym. Cholerny wstyd. Dzieciaki w jego wieku nie powinny grzebaÄ‡ siÄ™ w prochach. MajÄ… jeszcze przed sobÄ… zbyt wiele, Å¼eby dawaÄ‡ im zanieczyszczone prochy.}
+{1231}{}{Skoro juÅ¼ mowa o zanieczyszczonych prochach, to Renesco powiedziaÅ‚, Å¼e sprzedajesz Jet zakrapiany arszenikiem.}
+{1232}{}{Co masz na myÅ›li mÃ³wiÄ…c o "zanieczyszczonych prochach"?}
+{1233}{}{Umiesz coÅ› powiedzieÄ‡ o tym pustym pojemniku po Jecie?}
+{1234}{}{Ciekawe, Å¼e to ty to mÃ³wisz... myÅ›lÄ™, Å¼e on nie przedawkowaÅ‚ Jetu. MyÅ›lÄ™, Å¼e zostaÅ‚ otruty.}
+{1250}{}{(Wzrusza ramionami) NiektÃ³rych dealerÃ³w nie obchodzi, co sprzedajÄ…, a ludzie od tego umierajÄ…. Nie chcÄ™ nic mÃ³wiÄ‡, ale poszedÅ‚bym do tego starego Rakieciarza Renesco i sprawdziÅ‚, jak dobre jest to jego gÃ³wno.}
+{1251}{}{Renesco jest juÅ¼ sprawdzony... mÃ³wi, Å¼e sprzedajesz Jet zakrapiany arszenikiem.}
+{1252}{}{Julesie, Reno to duÅ¼e miasto. Czy ktoÅ› jeszcze mÃ³gÅ‚by byÄ‡ za to odpowiedzialny?}
+{1253}{}{Mam kilka innych pytaÅ„...}
+{1254}{}{Dobra. SprawdzÄ™ to.}
+{1270}{}{W mieÅ›cie jest kupa dealerÃ³w... byÄ‡ moÅ¼e MaÅ‚y Jesus Mordino, ale to nie ma sensu, bo po co miaÅ‚by sprzedawaÄ‡ coÅ› takiego Wrightowi. Jest jeszcze Szramiasty Jimmy J na 2-giej Ulicy, na pÃ³Å‚noc stÄ…d, ale to cienki Bolek. Z drugiej strony, zdecydowanie sprawdziÅ‚bym Renesco.}
 {1272}{}{"Szramiasty Jimmy J"? Kto to?}
-{1273}{}{Ma³y Jesus Mordino? Gdzie mogê go znaleŸæ?}
-{1274}{}{Mo¿e tak zrobiê. S³uchaj, mam kilka innych pytañ...}
-{1275}{}{Ma³y Jesus... Szramiasty Jimmy... Renesco. Zapamiêtam. Dziêki.}
-{1290}{}{(Uœmiech Julesa gaœnie) Szukam ludzi takich jak ty, którzy przybywaj¹ do Reno. To najlepsze miejsce do robienia interesów. Ponadto pewne instytucje p³ac¹ mi za to, ¿e kierujê do nich nowoprzyby³ych. Czy TAKA odpowiedŸ ciê zadowala?}
-{1291}{}{Tak. A teraz potrzebujê odpowiedzi na kilka innych pytañ...}
-{1292}{}{Czysta ciekawoœæ. Dziêki za szczeroœæ.}
-{1305}{}{Twój SAMOCHÓD? Na pewno sta³ w³aœnie tutaj? Nie widzia³em go.}
-{1306}{}{Co, nagle OŒLEP£EŒ? A widzisz moj¹ piêœæ, pierdolony jebusie? WIDZISZ j¹? Teraz spróbuj powiedzieæ jeszcze raz, ¿e nie widzia³eœ mojego samochodu... tylko kurwa SPRÓBUJ!}
-{1307}{}{Julesie, jeœli nie powiesz mi, co siê sta³o z moim samochodem, to powiem Pañstwu Wright, ¿e to TY sprzeda³eœ ich synowi Jet, który go zabi³. Z pewnoœci¹ umrzesz w ci¹gu godziny. Mów.}
-{1308}{}{Jesteœ PEWIEN, ¿e go nie widzia³eœ, co Jules?}
-{1309}{}{Tak, NA PEWNO sta³ w³aœnie tutaj. Masz jakiœ pomys³, gdzie móg³by byæ?}
-{1310}{}{W porz¹dku. Mam parê innych pytañ...}
-{1311}{}{Lepiej pójdê go poszukaæ.}
-{1320}{}{Nie bracie, nie widzia³em go. }
-{1321}{}{Nie siostro, nie widzia³em go. }
-{1322}{}{Ale bêdê siê rozgl¹da³. (Wzrusza ramionami) Ale Reno to du¿e miasto...}
-{1323}{}{Julesie, mam takie niezrozumia³e PODEJRZENIE, ¿e wiesz, gdzie sobie poszed³ mój samochód. Jeœli mi zaraz nie powiesz, gdzie on jest, zrobiê sobie z ciebie tarczê strzelnicz¹. A teraz mów.}
-{1324}{}{Mimo wszystko dziêki. Mam kilka innych pytañ...}
+{1273}{}{MaÅ‚y Jesus Mordino? Gdzie mogÄ™ go znaleÅºÄ‡?}
+{1274}{}{MoÅ¼e tak zrobiÄ™. SÅ‚uchaj, mam kilka innych pytaÅ„...}
+{1275}{}{MaÅ‚y Jesus... Szramiasty Jimmy... Renesco. ZapamiÄ™tam. DziÄ™ki.}
+{1290}{}{(UÅ›miech Julesa gaÅ›nie) Szukam ludzi takich jak ty, ktÃ³rzy przybywajÄ… do Reno. To najlepsze miejsce do robienia interesÃ³w. Ponadto pewne instytucje pÅ‚acÄ… mi za to, Å¼e kierujÄ™ do nich nowoprzybyÅ‚ych. Czy TAKA odpowiedÅº ciÄ™ zadowala?}
+{1291}{}{Tak. A teraz potrzebujÄ™ odpowiedzi na kilka innych pytaÅ„...}
+{1292}{}{Czysta ciekawoÅ›Ä‡. DziÄ™ki za szczeroÅ›Ä‡.}
+{1305}{}{TwÃ³j SAMOCHÃ“D? Na pewno staÅ‚ wÅ‚aÅ›nie tutaj? Nie widziaÅ‚em go.}
+{1306}{}{Co, nagle OÅšLEPÅEÅš? A widzisz mojÄ… piÄ™Å›Ä‡, pierdolony jebusie? WIDZISZ jÄ…? Teraz sprÃ³buj powiedzieÄ‡ jeszcze raz, Å¼e nie widziaÅ‚eÅ› mojego samochodu... tylko kurwa SPRÃ“BUJ!}
+{1307}{}{Julesie, jeÅ›li nie powiesz mi, co siÄ™ staÅ‚o z moim samochodem, to powiem PaÅ„stwu Wright, Å¼e to TY sprzedaÅ‚eÅ› ich synowi Jet, ktÃ³ry go zabiÅ‚. Z pewnoÅ›ciÄ… umrzesz w ciÄ…gu godziny. MÃ³w.}
+{1308}{}{JesteÅ› PEWIEN, Å¼e go nie widziaÅ‚eÅ›, co Jules?}
+{1309}{}{Tak, NA PEWNO staÅ‚ wÅ‚aÅ›nie tutaj. Masz jakiÅ› pomysÅ‚, gdzie mÃ³gÅ‚by byÄ‡?}
+{1310}{}{W porzÄ…dku. Mam parÄ™ innych pytaÅ„...}
+{1311}{}{Lepiej pÃ³jdÄ™ go poszukaÄ‡.}
+{1320}{}{Nie bracie, nie widziaÅ‚em go. }
+{1321}{}{Nie siostro, nie widziaÅ‚em go. }
+{1322}{}{Ale bÄ™dÄ™ siÄ™ rozglÄ…daÅ‚. (Wzrusza ramionami) Ale Reno to duÅ¼e miasto...}
+{1323}{}{Julesie, mam takie niezrozumiaÅ‚e PODEJRZENIE, Å¼e wiesz, gdzie sobie poszedÅ‚ mÃ³j samochÃ³d. JeÅ›li mi zaraz nie powiesz, gdzie on jest, zrobiÄ™ sobie z ciebie tarczÄ™ strzelniczÄ…. A teraz mÃ³w.}
+{1324}{}{Mimo wszystko dziÄ™ki. Mam kilka innych pytaÅ„...}
 {1340}{}{Siostro, nie wiem NIC o twoim samochodzie. }
 {1341}{}{Bracie, nie wiem NIC o twoim samochodzie. }
-{1342}{}{NIE widzia³em, co siê z nim sta³o, i NIE wiem, gdzie jest. }
-{1343}{}{(Rzuca pe³ne nienawiœci spojrzenie Cody'emu stoj¹cemu po drugiej stronie ulicy.)}
-{1344}{}{Naprawdê? To mi wygl¹da na stek BZDUR.}
-{1345}{}{A wiêc to tak? WIEM, ¿e coœ z nim zrobi³eœ, wiêc lepiej powiedz mi, gdzie jest, zanim ja zrobiê coœ z TOB¥.}
-{1346}{}{A wiêc niewa¿ne. Bêdê szukaæ dalej.}
-{1360}{}{W porz¹dku bracie, w porz¹dku! }
-{1361}{}{W porz¹dku siostro, w porz¹dku! }
-{1362}{}{...widzia³em paru goœci jak zabierali samochód parê chwil temu. Ale wiesz, by³o ich zbyt wielu, ¿ebym móg³ ich zatrzymaæ, no i...}
-{1363}{}{Zamknij siê i zabierz mnie tam, dok¹d poszli. Teraz.}
-{1364}{}{Niewa¿ne. Poszukam ich bez twojej pomocy.}
+{1342}{}{NIE widziaÅ‚em, co siÄ™ z nim staÅ‚o, i NIE wiem, gdzie jest. }
+{1343}{}{(Rzuca peÅ‚ne nienawiÅ›ci spojrzenie Cody'emu stojÄ…cemu po drugiej stronie ulicy.)}
+{1344}{}{NaprawdÄ™? To mi wyglÄ…da na stek BZDUR.}
+{1345}{}{A wiÄ™c to tak? WIEM, Å¼e coÅ› z nim zrobiÅ‚eÅ›, wiÄ™c lepiej powiedz mi, gdzie jest, zanim ja zrobiÄ™ coÅ› z TOBÄ„.}
+{1346}{}{A wiÄ™c niewaÅ¼ne. BÄ™dÄ™ szukaÄ‡ dalej.}
+{1360}{}{W porzÄ…dku bracie, w porzÄ…dku! }
+{1361}{}{W porzÄ…dku siostro, w porzÄ…dku! }
+{1362}{}{...widziaÅ‚em paru goÅ›ci jak zabierali samochÃ³d parÄ™ chwil temu. Ale wiesz, byÅ‚o ich zbyt wielu, Å¼ebym mÃ³gÅ‚ ich zatrzymaÄ‡, no i...}
+{1363}{}{Zamknij siÄ™ i zabierz mnie tam, dokÄ…d poszli. Teraz.}
+{1364}{}{NiewaÅ¼ne. Poszukam ich bez twojej pomocy.}
 {1375}{}{Dobra, dobra...}
-{1376}{}{A tak swoj¹ droga... Julesie? Jeœli tylko Ÿle siê POPATRZYSZ na tego dzieciaka po drugiej stronie ulicy, to wrócê i zabijê ciê tyle razy, ¿e bêdziesz potrzebowa³ kilku testamentów. Zrozumiano? A teraz prowadŸ.}
-{1377}{}{Jeszcze jedno Jules: jeœli tylko us³yszê, ¿e zadziera³eœ z Codym, zabijê ciê. A teraz zabierz mnie tam, gdzie jest mój samochód.}
-{1378}{}{(IdŸ za nim.)}
-{1385}{}{H-hej. (Uœmiecha siê z za¿enowaniem. Zapach jego wody koloñskiej uderza w ciebie z si³¹ wodospadu.) Jules jestem. Potrzebujesz czegoœ? Cz-czegokolwiek?}
-{1386}{}{H-hej. Hej, witam znowu! (Uœmiecha siê z za¿enowaniem. Zapach jego wody koloñskiej uderza w ciebie z si³¹ wodospadu.) Potrzebujesz czegoœ od Julesa, co? Cz-czegokolwiek?}
-{1389}{}{Mam kilka pytañ...}
-{1390}{}{Fajna woda koloñska. Ca³e cia³o Cody'ego ni¹ œmierdzia³o. Jesteœ martwy.}
-{1391}{}{Julesie, Cody nie ¿yje. Za³o¿ê siê, ¿e to ty to zrobi³eœ. Jesteœ martwy.}
-{1405}{}{H-hej, CHCIA£BYM pomóc, ale nic nie wiem... s³uchaj, muszê ju¿ iœæ.}
-{1406}{}{Fajna woda koloñska. Ca³e cia³o Cody'ego ni¹ œmierdzia³o. Jesteœ cholera martwy.}
-{1407}{}{Julesie, Cody nie ¿yje. Za³o¿ê siê, ¿e to ty to zrobi³eœ. Jesteœ cholera martwy.}
+{1376}{}{A tak swojÄ… droga... Julesie? JeÅ›li tylko Åºle siÄ™ POPATRZYSZ na tego dzieciaka po drugiej stronie ulicy, to wrÃ³cÄ™ i zabijÄ™ ciÄ™ tyle razy, Å¼e bÄ™dziesz potrzebowaÅ‚ kilku testamentÃ³w. Zrozumiano? A teraz prowadÅº.}
+{1377}{}{Jeszcze jedno Jules: jeÅ›li tylko usÅ‚yszÄ™, Å¼e zadzieraÅ‚eÅ› z Codym, zabijÄ™ ciÄ™. A teraz zabierz mnie tam, gdzie jest mÃ³j samochÃ³d.}
+{1378}{}{(IdÅº za nim.)}
+{1385}{}{H-hej. (UÅ›miecha siÄ™ z zaÅ¼enowaniem. Zapach jego wody koloÅ„skiej uderza w ciebie z siÅ‚Ä… wodospadu.) Jules jestem. Potrzebujesz czegoÅ›? Cz-czegokolwiek?}
+{1386}{}{H-hej. Hej, witam znowu! (UÅ›miecha siÄ™ z zaÅ¼enowaniem. Zapach jego wody koloÅ„skiej uderza w ciebie z siÅ‚Ä… wodospadu.) Potrzebujesz czegoÅ› od Julesa, co? Cz-czegokolwiek?}
+{1389}{}{Mam kilka pytaÅ„...}
+{1390}{}{Fajna woda koloÅ„ska. CaÅ‚e ciaÅ‚o Cody'ego niÄ… Å›mierdziaÅ‚o. JesteÅ› martwy.}
+{1391}{}{Julesie, Cody nie Å¼yje. ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e to ty to zrobiÅ‚eÅ›. JesteÅ› martwy.}
+{1405}{}{H-hej, CHCIAÅBYM pomÃ³c, ale nic nie wiem... sÅ‚uchaj, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{1406}{}{Fajna woda koloÅ„ska. CaÅ‚e ciaÅ‚o Cody'ego niÄ… Å›mierdziaÅ‚o. JesteÅ› cholera martwy.}
+{1407}{}{Julesie, Cody nie Å¼yje. ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e to ty to zrobiÅ‚eÅ›. JesteÅ› cholera martwy.}
 {1408}{}{Na razie Jules.}
-{1415}{}{To taki g³upi sukinsyn, któremu siê wydaje, ¿e taki z niego wielki dealer. Nie mo¿na go nie zauwa¿yæ... jego twarz jest ca³a w bliznach. Ten g³upiec jednej nocy mia³ odlot po Jecie i próbowa³ siê ogoliæ no¿em bojowym. Smutny koniec tej historii jest taki, ¿e siê nie ZABI£.}
-{1416}{}{A Ma³y Jesus Mordino? Gdzie mogê go znaleŸæ?}
-{1417}{}{Ale siê tu wszyscy kochaj¹... s³uchaj, mam kilka innych pytañ...}
-{1425}{}{No wiesz, uwa¿a³bym z oskar¿aniem Ma³ego Jesusa tak po prostu, o cokolwiek. Ale jeœli NAPRAWDÊ chcesz z nim pogadaæ, to ciê nie zatrzymujê. Siedzi w klubie Desperado naprzeciwko.}
+{1415}{}{To taki gÅ‚upi sukinsyn, ktÃ³remu siÄ™ wydaje, Å¼e taki z niego wielki dealer. Nie moÅ¼na go nie zauwaÅ¼yÄ‡... jego twarz jest caÅ‚a w bliznach. Ten gÅ‚upiec jednej nocy miaÅ‚ odlot po Jecie i prÃ³bowaÅ‚ siÄ™ ogoliÄ‡ noÅ¼em bojowym. Smutny koniec tej historii jest taki, Å¼e siÄ™ nie ZABIÅ.}
+{1416}{}{A MaÅ‚y Jesus Mordino? Gdzie mogÄ™ go znaleÅºÄ‡?}
+{1417}{}{Ale siÄ™ tu wszyscy kochajÄ…... sÅ‚uchaj, mam kilka innych pytaÅ„...}
+{1425}{}{No wiesz, uwaÅ¼aÅ‚bym z oskarÅ¼aniem MaÅ‚ego Jesusa tak po prostu, o cokolwiek. Ale jeÅ›li NAPRAWDÄ˜ chcesz z nim pogadaÄ‡, to ciÄ™ nie zatrzymujÄ™. Siedzi w klubie Desperado naprzeciwko.}
 {1426}{}{A "Szramiasty Jimmy J"? Kto to?}
-{1427}{}{Wiesz co, mam kilka innych pytañ...}
-{1435}{}{To mnie nie zaskakuje... MNÓSTWO rzeczy tego rodzaju zdarza siê w tym mieœcie.}
-{1436}{}{Co chcesz przez to powiedzieæ?}
-{1437}{}{Co mo¿esz powiedzieæ mi na temat tego pustego pojemnika po Jecie?}
-{1439}{}{Rozumiem. No, dziêki za poœwiêcony czas.}
-{1450}{}{(Zerka na pojemnik) Jest jak setki innych. Ale nie jest mój... Mo¿e Szramiastego Jimmy'ego J, albo Renesco.}
+{1427}{}{Wiesz co, mam kilka innych pytaÅ„...}
+{1435}{}{To mnie nie zaskakuje... MNÃ“STWO rzeczy tego rodzaju zdarza siÄ™ w tym mieÅ›cie.}
+{1436}{}{Co chcesz przez to powiedzieÄ‡?}
+{1437}{}{Co moÅ¼esz powiedzieÄ‡ mi na temat tego pustego pojemnika po Jecie?}
+{1439}{}{Rozumiem. No, dziÄ™ki za poÅ›wiÄ™cony czas.}
+{1450}{}{(Zerka na pojemnik) Jest jak setki innych. Ale nie jest mÃ³j... MoÅ¼e Szramiastego Jimmy'ego J, albo Renesco.}
 {1451}{}{Szramiastego Jimmy'ego J?}
 {1452}{}{Renesco?}
-{1453}{}{Hmmm. Mam kilka innych pytañ...}
-{1470}{}{To taki g³upi sukinsyn, któremu siê wydaje, ¿e taki z niego wielki dealer. Nie mo¿na go nie zauwa¿yæ... jego twarz jest ca³a w bliznach. Ten g³upiec jednej nocy mia³ odlot po Jecie i próbowa³ siê ogoliæ no¿em bojowym. Smutny koniec tej historii jest taki, ¿e siê nie ZABI£.}
-{1471}{}{A Renesco? Gdzie mogê go znaleŸæ?}
-{1473}{}{£apiê. Dziêki.}
-{1485}{}{To taki stary fajfus, który prowadzi aptekê w Pasa¿u Handlowym... idŸ na pó³noc, miñ kilka przecznic, skrêæ w lewo w miejscu, gdzie stoj¹ kasyna Salvatore i Bishopa i idŸ przed siebie. Apteka jest na prawo.}
-{1486}{}{A "Szramiasty Jimmy J"? Gdzie mogê go znaleŸæ?}
-{1487}{}{Dobrze... wiesz co, mam kilka innych pytañ...}
-{1500}{}{Powiedz temu skurwielowi, ¿e jak bêdzie dalej powtarzaæ takie bzdury, to ZABIJÊ go, zanim zrobi to stary Wright. Wiesz, kto tak mówi? Tak mówi cz³owiek, który siê BOI, oto, kto tak mówi.}
-{1501}{}{Rozumiem... Powiedzmy, ¿e mam jeszcze kilka pytañ...}
-{1502}{}{Kumam. Pójdê to sprawdziæ.}
-{2000}{}{To jest SAMOCHÓD? Kuuuurde.}
+{1453}{}{Hmmm. Mam kilka innych pytaÅ„...}
+{1470}{}{To taki gÅ‚upi sukinsyn, ktÃ³remu siÄ™ wydaje, Å¼e taki z niego wielki dealer. Nie moÅ¼na go nie zauwaÅ¼yÄ‡... jego twarz jest caÅ‚a w bliznach. Ten gÅ‚upiec jednej nocy miaÅ‚ odlot po Jecie i prÃ³bowaÅ‚ siÄ™ ogoliÄ‡ noÅ¼em bojowym. Smutny koniec tej historii jest taki, Å¼e siÄ™ nie ZABIÅ.}
+{1471}{}{A Renesco? Gdzie mogÄ™ go znaleÅºÄ‡?}
+{1473}{}{ÅapiÄ™. DziÄ™ki.}
+{1485}{}{To taki stary fajfus, ktÃ³ry prowadzi aptekÄ™ w PasaÅ¼u Handlowym... idÅº na pÃ³Å‚noc, miÅ„ kilka przecznic, skrÄ™Ä‡ w lewo w miejscu, gdzie stojÄ… kasyna Salvatore i Bishopa i idÅº przed siebie. Apteka jest na prawo.}
+{1486}{}{A "Szramiasty Jimmy J"? Gdzie mogÄ™ go znaleÅºÄ‡?}
+{1487}{}{Dobrze... wiesz co, mam kilka innych pytaÅ„...}
+{1500}{}{Powiedz temu skurwielowi, Å¼e jak bÄ™dzie dalej powtarzaÄ‡ takie bzdury, to ZABIJÄ˜ go, zanim zrobi to stary Wright. Wiesz, kto tak mÃ³wi? Tak mÃ³wi czÅ‚owiek, ktÃ³ry siÄ™ BOI, oto, kto tak mÃ³wi.}
+{1501}{}{Rozumiem... Powiedzmy, Å¼e mam jeszcze kilka pytaÅ„...}
+{1502}{}{Kumam. PÃ³jdÄ™ to sprawdziÄ‡.}
+{2000}{}{To jest SAMOCHÃ“D? Kuuuurde.}

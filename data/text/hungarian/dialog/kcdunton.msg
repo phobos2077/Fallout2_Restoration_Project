@@ -1,212 +1,212 @@
 {100}{}{You see one of two very similar looking men -- they could be twins.
  Both are heavily muscled and have beetling brows.}
-{101}{}{Chuck és Buck Dunton. Annyira hasonlítanak egymásra, hogy nem vagy benne biztos, melyiket is látod épp.}
-{102}{}{Egy magas, nagyon izmos embert látsz, akinek bozontos szemöldöke alatt olyan az arca, mint egy bikáé.}
+{101}{}{Chuck Ã©s Buck Dunton. Annyira hasonlÃ­tanak egymÃ¡sra, hogy nem vagy benne biztos, melyiket is lÃ¡tod Ã©pp.}
+{102}{}{Egy magas, nagyon izmos embert lÃ¡tsz, akinek bozontos szemÃ¶ldÃ¶ke alatt olyan az arca, mint egy bikÃ¡Ã©.}
 {110}{}{You just better push off, or my brother and I are going to pound your little head into jam.}
-{111}{}{Hé, ne vedd komolyan! Csak vicceltem. Bocsánatot kérek. Ne üss meg! Végülis, csak kérdezni akartam t?letek valamit.}
-{112}{}{Öö, elnézést kérek, Mr. Dunton. Most elmegyek.}
-{113}{}{Információra van szükségem, és jobban jársz, ha elmondod, amit tudni akarok.}
-{114}{}{Te és a testvéred? Egyedül félsz t?lem? *cö-cö-cö*}
-{120}{}{Jobb, ha lelépsz, miel?tt kilapítunk, és szárított húst csinálunk bel?led!}
-{121}{}{Hé, elnézést kérek! Nem akartalak felidegesíteni, egyszer?en csak hülye vagyok. Kés?bb visszajövök, amikor már lenyugodtál.}
-{122}{}{Eh, oké, bocsánat. Ne üss meg!}
-{123}{}{De akkor legalább nem kell többé a seggfejeteket bámulnom.}
-{130}{}{Mire vagy kíváncsi?}
-{131}{}{Nem hiszem, hogy bármit is el kéne mondanom neked. Egyébként is, mi a fenét akarsz?}
-{132}{}{Szóval mit is akar t?lünk ez a kis hülye?}
-{133}{}{Hallott bármelyik?tök olyasmir?l, amit Édenkert Létrehozást El?segít? Táskának neveznek?}
+{111}{}{HÃ©, ne vedd komolyan! Csak vicceltem. BocsÃ¡natot kÃ©rek. Ne Ã¼ss meg! VÃ©gÃ¼lis, csak kÃ©rdezni akartam t?letek valamit.}
+{112}{}{Ã–Ã¶, elnÃ©zÃ©st kÃ©rek, Mr. Dunton. Most elmegyek.}
+{113}{}{InformÃ¡ciÃ³ra van szÃ¼ksÃ©gem, Ã©s jobban jÃ¡rsz, ha elmondod, amit tudni akarok.}
+{114}{}{Te Ã©s a testvÃ©red? EgyedÃ¼l fÃ©lsz t?lem? *cÃ¶-cÃ¶-cÃ¶*}
+{120}{}{Jobb, ha lelÃ©psz, miel?tt kilapÃ­tunk, Ã©s szÃ¡rÃ­tott hÃºst csinÃ¡lunk bel?led!}
+{121}{}{HÃ©, elnÃ©zÃ©st kÃ©rek! Nem akartalak felidegesÃ­teni, egyszer?en csak hÃ¼lye vagyok. KÃ©s?bb visszajÃ¶vÃ¶k, amikor mÃ¡r lenyugodtÃ¡l.}
+{122}{}{Eh, okÃ©, bocsÃ¡nat. Ne Ã¼ss meg!}
+{123}{}{De akkor legalÃ¡bb nem kell tÃ¶bbÃ© a seggfejeteket bÃ¡mulnom.}
+{130}{}{Mire vagy kÃ­vÃ¡ncsi?}
+{131}{}{Nem hiszem, hogy bÃ¡rmit is el kÃ©ne mondanom neked. EgyÃ©bkÃ©nt is, mi a fenÃ©t akarsz?}
+{132}{}{SzÃ³val mit is akar t?lÃ¼nk ez a kis hÃ¼lye?}
+{133}{}{Hallott bÃ¡rmelyik?tÃ¶k olyasmir?l, amit Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡skÃ¡nak neveznek?}
 {134}{}{I'd like to barter.}
 {135}{}{Van itt valami munka?}
-{136}{}{Eh, te tulajdonképpen melyik Dunton is vagy?}
-{137}{}{Hallottál valamit az itteni brahmin mutációkról?}
-{138}{}{Azt hiszem, nem is kell nekem semmi. Viszlát!}
-{140}{}{Már b?ven túll?ttél a célon! Ajánlom, hogy lépj le, miel?tt megtanítunk keszty?be dudálni!}
-{141}{}{Bocsánat, csak nagyon izgatott lettem a veletek való munka lehet?ségét?l. Most elmegyek... viszlát!}
-{142}{}{A célon? Milyen célon? Te hoztad fel els?nek...}
-{143}{}{Ti ketten csak simán túl beszariak vagytok, hogy megtegyétek, amit kell.}
-{150}{}{Hát, jó készleteink vannak a világhír? Dunton szárított húsból. Ízletes és finom. Neked is ízlene.}
+{136}{}{Eh, te tulajdonkÃ©ppen melyik Dunton is vagy?}
+{137}{}{HallottÃ¡l valamit az itteni brahmin mutÃ¡ciÃ³krÃ³l?}
+{138}{}{Azt hiszem, nem is kell nekem semmi. ViszlÃ¡t!}
+{140}{}{MÃ¡r b?ven tÃºll?ttÃ©l a cÃ©lon! AjÃ¡nlom, hogy lÃ©pj le, miel?tt megtanÃ­tunk keszty?be dudÃ¡lni!}
+{141}{}{BocsÃ¡nat, csak nagyon izgatott lettem a veletek valÃ³ munka lehet?sÃ©gÃ©t?l. Most elmegyek... viszlÃ¡t!}
+{142}{}{A cÃ©lon? Milyen cÃ©lon? Te hoztad fel els?nek...}
+{143}{}{Ti ketten csak simÃ¡n tÃºl beszariak vagytok, hogy megtegyÃ©tek, amit kell.}
+{150}{}{HÃ¡t, jÃ³ kÃ©szleteink vannak a vilÃ¡ghÃ­r? Dunton szÃ¡rÃ­tott hÃºsbÃ³l. Ãzletes Ã©s finom. Neked is Ã­zlene.}
 {151}{}{Ez nagyszer?!}
-{152}{}{Szárított hús? Ez nem hangzik annak, amit keresek. Beszélj valami másról!}
-{153}{}{Azt hiszem, mégsem akarok csereberélni... Viszlát!}
-{160}{}{Megvan az esélyed, haver.}
-{161}{}{Nem hiszem, hogy lenne itt munka a számodra.}
-{162}{}{Hát, egy dolog létezik csak, amiben elkelne egy segít? kéz. (Heh, heh, heh)}
+{152}{}{SzÃ¡rÃ­tott hÃºs? Ez nem hangzik annak, amit keresek. BeszÃ©lj valami mÃ¡srÃ³l!}
+{153}{}{Azt hiszem, mÃ©gsem akarok csereberÃ©lni... ViszlÃ¡t!}
+{160}{}{Megvan az esÃ©lyed, haver.}
+{161}{}{Nem hiszem, hogy lenne itt munka a szÃ¡modra.}
+{162}{}{HÃ¡t, egy dolog lÃ©tezik csak, amiben elkelne egy segÃ­t? kÃ©z. (Heh, heh, heh)}
 {163}{}{Mi az Chuck?}
 {164}{}{Mi az Buck?}
-{165}{}{Eh, és mi lenne az?}
-{166}{}{Ahha... hát, akkor beszélj valami másról!}
-{167}{}{Én tényleg segíteni akarok nektek, srácok, beszéljetek arról a munkáról!}
-{168}{}{Na, akkor én most megyek. Viszlát!}
-{169}{}{Oké. Viszlát!}
-{170}{}{Te gekkószar! Megint mi a fene dolgod akadt itt?}
-{171}{}{Csak bocsánatot szerettem volna kérni. Nem akartalak megsérteni titeket, ti jobban csináljátok nálam. Csak valamit kérni szeretnék t?letek.}
-{172}{}{Hát, igazad van... jobban is csinálhatnám. Nem vagyok olyan természetes tehetség, mint ti ketten. Valamit kérni szeretnék.}
-{173}{}{Gekkószar? Arról beszélünk, amit eszel, vagy arról, ami az agyad helyén van?}
-{180}{}{Újra itt vagy? Miben segíthetünk, üzlettárs?}
-{181}{}{Helló, haver! Szép munka volt, amit azzal az idióta Torr-ral csináltunk, nem?}
-{182}{}{Az tényleg aranyos volt. Tudassátok velem, ha hasonló munkátok van! És valami más is kell most nekem.}
-{183}{}{Itt vagyok a részemért, társak.}
-{184}{}{Amit tettünk, az a magam megcsúfolása volt. Így átverni egy idiótát... Miért nem egy olyannal szórakoztok, aki meg tudja védeni magát? Viszlát!}
-{185}{}{Azt hiszem, másra most nincs szükségem. Viszlát!}
-{190}{}{Oké, itt van a beígért ötven dollár, és egy kis apróság... némi Dunton féle szárított hús. Kösz még egyszer, partner.}
-{191}{}{Kösz. Van még valami, amit tudni szeretnék...}
-{192}{}{Biztosan találok helyet ennek a pénznek. Mmm, *beleharapsz*, finom a hús is. Köszönöm. Viszlát!}
+{165}{}{Eh, Ã©s mi lenne az?}
+{166}{}{Ahha... hÃ¡t, akkor beszÃ©lj valami mÃ¡srÃ³l!}
+{167}{}{Ã‰n tÃ©nyleg segÃ­teni akarok nektek, srÃ¡cok, beszÃ©ljetek arrÃ³l a munkÃ¡rÃ³l!}
+{168}{}{Na, akkor Ã©n most megyek. ViszlÃ¡t!}
+{169}{}{OkÃ©. ViszlÃ¡t!}
+{170}{}{Te gekkÃ³szar! Megint mi a fene dolgod akadt itt?}
+{171}{}{Csak bocsÃ¡natot szerettem volna kÃ©rni. Nem akartalak megsÃ©rteni titeket, ti jobban csinÃ¡ljÃ¡tok nÃ¡lam. Csak valamit kÃ©rni szeretnÃ©k t?letek.}
+{172}{}{HÃ¡t, igazad van... jobban is csinÃ¡lhatnÃ¡m. Nem vagyok olyan termÃ©szetes tehetsÃ©g, mint ti ketten. Valamit kÃ©rni szeretnÃ©k.}
+{173}{}{GekkÃ³szar? ArrÃ³l beszÃ©lÃ¼nk, amit eszel, vagy arrÃ³l, ami az agyad helyÃ©n van?}
+{180}{}{Ãšjra itt vagy? Miben segÃ­thetÃ¼nk, Ã¼zlettÃ¡rs?}
+{181}{}{HellÃ³, haver! SzÃ©p munka volt, amit azzal az idiÃ³ta Torr-ral csinÃ¡ltunk, nem?}
+{182}{}{Az tÃ©nyleg aranyos volt. TudassÃ¡tok velem, ha hasonlÃ³ munkÃ¡tok van! Ã‰s valami mÃ¡s is kell most nekem.}
+{183}{}{Itt vagyok a rÃ©szemÃ©rt, tÃ¡rsak.}
+{184}{}{Amit tettÃ¼nk, az a magam megcsÃºfolÃ¡sa volt. Ãgy Ã¡tverni egy idiÃ³tÃ¡t... MiÃ©rt nem egy olyannal szÃ³rakoztok, aki meg tudja vÃ©deni magÃ¡t? ViszlÃ¡t!}
+{185}{}{Azt hiszem, mÃ¡sra most nincs szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{190}{}{OkÃ©, itt van a beÃ­gÃ©rt Ã¶tven dollÃ¡r, Ã©s egy kis aprÃ³sÃ¡g... nÃ©mi Dunton fÃ©le szÃ¡rÃ­tott hÃºs. KÃ¶sz mÃ©g egyszer, partner.}
+{191}{}{KÃ¶sz. Van mÃ©g valami, amit tudni szeretnÃ©k...}
+{192}{}{Biztosan talÃ¡lok helyet ennek a pÃ©nznek. Mmm, *beleharapsz*, finom a hÃºs is. KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
 {198}{}{OK, here's the deal. We need some help in, uh, liberating some brahmin from that idiot Torr. You shouldn't have trouble with that. Just talk him out of them. What do you say?}
-{199}{}{Most már emlékszem, köszönöm.}
-{200}{}{Találkozzunk a keletre lév? brahmin-legel?nél, ma este hatkor!}
-{201}{}{Találkozzunk a keletre lév? brahmin-legel?nél, holnap este hatkor!}
-{202}{}{Oké, majd én elintézem Torrt.}
-{203}{}{Rendben. Megkeresem Torrt, és ellátom a baját.}
-{204}{}{Azt hiszem, mégsem akarom ezt megcsinálni.}
-{205}{}{Oké, ott leszek. Viszlát!}
-{206}{}{Van még valami, amit tudni szeretnék.}
-{207}{}{Viszlát!}
-{208}{}{Engem Chuck Duntonnak hívnak. Te ki vagy? Süket?}
-{209}{}{Engem Buck Duntonnak hívnak. Te ki vagy? Süket?}
-{210}{}{Rondának látszom? Chuck Dunton vagyok.}
-{211}{}{Rondának látszom? Chuck Dunton vagyok.}
-{212}{}{Lassú a felfogásod? Chuck Dunton vagyok.}
-{213}{}{Lassú a felfogásod? Buck Dunton vagyok.}
-{214}{}{Egyszer?en nem tudod felfogni... a fene ezekbe az egyszer? agyú törzsbéliekbe. Chuck vagyok, te lángész!}
-{215}{}{Egyszer?en nem tudod felfogni... a fene ezekbe az egyszer? agyú törzsbéliekbe. Buck vagyok, te lángész!}
-{216}{}{Nagyorrú Sally Dunton vagyok. Tetszik a ruhám? Chuck a nevem, te szimpla agyú ?sember!}
-{217}{}{Nagyorrú Sally Dunton vagyok. Tetszik a ruhám? Buck a nevem, te szimpla agyú ?sember!}
-{218}{}{Öö, rendben... bocsánat.}
-{219}{}{Ne aggódj, már megjegyeztem. Szeretnék kérni még valamit, öö... izé... Mr. Dunton.}
-{220}{}{Ja, akárki legyél is... figyelj, egyszer?en mondd el, amire kíváncsi vagyok!}
-{221}{}{Hát, mindketten ugyanolyan hülyék és rondák vagytok. Egyébként is, kit érdekel, melyik Duntonnal ordibálok? Viszlát, seggfejek!}
-{222}{}{Öö, igen. Beszélj a munkáról!}
-{230}{}{Jó tanács: a legjobb, ha senkinek nem mondasz semmit. Ha mégis, az minket nagyon mérgessé tenne. Nem szeretnél minket mérgesen látni...}
-{231}{}{Bocsánat, senkinek sem mondom el, megígérem, Mr. Dunton, uram. Viszlát!}
-{232}{}{Ne aggódj, nem mondom el senkinek. Most viszont mondj nekem valami mást!}
-{233}{}{Nem akarlak mérgesen látni? Sehogysem akarom látni a randa fejeteket. Viszlát!}
-{240}{}{Öröm önnel üzletet kötni. Heh heh heh. Másra is szükséged van?}
-{241}{}{Hmm... azt hiszem, valamit még el akarok cserélni.}
+{199}{}{Most mÃ¡r emlÃ©kszem, kÃ¶szÃ¶nÃ¶m.}
+{200}{}{TalÃ¡lkozzunk a keletre lÃ©v? brahmin-legel?nÃ©l, ma este hatkor!}
+{201}{}{TalÃ¡lkozzunk a keletre lÃ©v? brahmin-legel?nÃ©l, holnap este hatkor!}
+{202}{}{OkÃ©, majd Ã©n elintÃ©zem Torrt.}
+{203}{}{Rendben. Megkeresem Torrt, Ã©s ellÃ¡tom a bajÃ¡t.}
+{204}{}{Azt hiszem, mÃ©gsem akarom ezt megcsinÃ¡lni.}
+{205}{}{OkÃ©, ott leszek. ViszlÃ¡t!}
+{206}{}{Van mÃ©g valami, amit tudni szeretnÃ©k.}
+{207}{}{ViszlÃ¡t!}
+{208}{}{Engem Chuck Duntonnak hÃ­vnak. Te ki vagy? SÃ¼ket?}
+{209}{}{Engem Buck Duntonnak hÃ­vnak. Te ki vagy? SÃ¼ket?}
+{210}{}{RondÃ¡nak lÃ¡tszom? Chuck Dunton vagyok.}
+{211}{}{RondÃ¡nak lÃ¡tszom? Chuck Dunton vagyok.}
+{212}{}{LassÃº a felfogÃ¡sod? Chuck Dunton vagyok.}
+{213}{}{LassÃº a felfogÃ¡sod? Buck Dunton vagyok.}
+{214}{}{Egyszer?en nem tudod felfogni... a fene ezekbe az egyszer? agyÃº tÃ¶rzsbÃ©liekbe. Chuck vagyok, te lÃ¡ngÃ©sz!}
+{215}{}{Egyszer?en nem tudod felfogni... a fene ezekbe az egyszer? agyÃº tÃ¶rzsbÃ©liekbe. Buck vagyok, te lÃ¡ngÃ©sz!}
+{216}{}{NagyorrÃº Sally Dunton vagyok. Tetszik a ruhÃ¡m? Chuck a nevem, te szimpla agyÃº ?sember!}
+{217}{}{NagyorrÃº Sally Dunton vagyok. Tetszik a ruhÃ¡m? Buck a nevem, te szimpla agyÃº ?sember!}
+{218}{}{Ã–Ã¶, rendben... bocsÃ¡nat.}
+{219}{}{Ne aggÃ³dj, mÃ¡r megjegyeztem. SzeretnÃ©k kÃ©rni mÃ©g valamit, Ã¶Ã¶... izÃ©... Mr. Dunton.}
+{220}{}{Ja, akÃ¡rki legyÃ©l is... figyelj, egyszer?en mondd el, amire kÃ­vÃ¡ncsi vagyok!}
+{221}{}{HÃ¡t, mindketten ugyanolyan hÃ¼lyÃ©k Ã©s rondÃ¡k vagytok. EgyÃ©bkÃ©nt is, kit Ã©rdekel, melyik Duntonnal ordibÃ¡lok? ViszlÃ¡t, seggfejek!}
+{222}{}{Ã–Ã¶, igen. BeszÃ©lj a munkÃ¡rÃ³l!}
+{230}{}{JÃ³ tanÃ¡cs: a legjobb, ha senkinek nem mondasz semmit. Ha mÃ©gis, az minket nagyon mÃ©rgessÃ© tenne. Nem szeretnÃ©l minket mÃ©rgesen lÃ¡tni...}
+{231}{}{BocsÃ¡nat, senkinek sem mondom el, megÃ­gÃ©rem, Mr. Dunton, uram. ViszlÃ¡t!}
+{232}{}{Ne aggÃ³dj, nem mondom el senkinek. Most viszont mondj nekem valami mÃ¡st!}
+{233}{}{Nem akarlak mÃ©rgesen lÃ¡tni? Sehogysem akarom lÃ¡tni a randa fejeteket. ViszlÃ¡t!}
+{240}{}{Ã–rÃ¶m Ã¶nnel Ã¼zletet kÃ¶tni. Heh heh heh. MÃ¡sra is szÃ¼ksÃ©ged van?}
+{241}{}{Hmm... azt hiszem, valamit mÃ©g el akarok cserÃ©lni.}
 {242}{}{Igen.}
-{243}{}{Nem, azt hiszem, ennyi elég mostanra, Chuck.}
-{244}{}{Nem, azt hiszem, ennyi elég mostanra, Buck.}
-{250}{}{Üdv, partner! Számítunk rád ma éjszaka. Mit tehetek érted?}
-{251}{}{Öö, én meggondoltam magam. Nem hiszem, hogy segítek nektek ma éjszaka.}
-{252}{}{Ott leszek. Engedd meg, hogy kérdezzek most valamit!}
-{253}{}{Ott leszek. Viszlát!}
-{259}{}{Kutya legyek, ha ez nem a mi beteg karú barátunk.}
-{260}{}{Helló, hogy áll a karod? Tudsz jönni?}
-{261}{}{Helló, te kis légypiszok! Mit csinálsz a mi bárunkban? Miel?tt megengedjük, hogy maradj, bizonyítanod kell szkanderben (ha ha ha)}
-{262}{}{Nem látszol olyan rohadtul keménynek. Miért nem velem szkanderezel, Chuck Dunton, a jogért, hogy ki ihasson a bárban?}
-{263}{}{Nem látszol olyan rohadtul keménynek. Miért nem velem szkanderezel, Buck Dunton, a jogért, hogy ki ihasson a bárban?}
-{264}{}{Ki kell érdemelned a jogot a bárunkban való ivásra. Szkanderezned kell ellenem, Chuck Dunton!}
-{265}{}{Ki kell érdemelned a jogot a bárunkban való ivásra. Szkanderezned kell ellenem, Buck Dunton!}
-{266}{}{Szkanderezned kell ellenem, Chuck Dunton, hogy ihass ebben a bárban!}
-{267}{}{Szkanderezned kell ellenem,Buck Dunton, hogy ihass ebben a bárban!}
-{268}{}{Szkanderezzünk! Ha ez az egyetlen útja, hogy végre nyugodtan ihassak itt.}
-{269}{}{Nem hiszem, hogy most kiállnék ellened.}
-{270}{}{Most nem akarok szkanderezni. Csak információra vágyom.}
-{271}{}{Öö, azt hiszem, nem a megfelel? bárba jöttem. Viszlát!}
-{280}{}{Most te nyertél. Trükkösek vagyunk, mi, kishaver? Gyors vagy, mint egy gekkó, ha ég a farka... hát, az els? piát én állom.}
-{281}{}{Kösz. Talán kés?bb válaszolhatnál egy kérdésemre.}
-{282}{}{Csak szerencsém volt. Kösz.}
-{283}{}{Nem nagyon igénylem a söröd, kösz. Inkább kérdezni akarnék valamit.}
-{284}{}{Nem vagyok szomjas. Viszlát!}
-{290}{}{Szerencséd, hogy nem törtem el a kis kezed, mint egy száraz csontot. Hát, azt hiszem, nincs nekem kihívás ebben a városban.}
-{291}{}{Nem volt még épp elég balhéd egy estére?}
-{292}{}{Próbáljuk meg még egyszer! Most majd megmutatom!}
-{293}{}{Jaj! Oké, oké, elég volt! Te, kérdezni szeretnék valamit.}
-{294}{}{Ennyi volt mostanra. Viszlát!}
-{300}{}{Nem akarsz szkanderezni ellenünk? Azt hiszed, túl jó vagy a Dunton testvérekhez?}
-{301}{}{Attól félek, megsérülnék ha szkanderezem veled.}
-{302}{}{Talán kés?bb. Most némi információra van szükségem.}
-{303}{}{Nem lenne kihívás, nyernék. Viszlát}
-{304}{}{Túl nyeszlettnek látszol. Csak igazi férfiak ellen szkanderezem. Na, lépj le!}
-{310}{}{Mit a fenét keresel te? Akkor voltam legközelebb az édenkerthez, amikor Jennyvel hemperegtem a Mama fürd?házában. (Hehehe)}
-{311}{}{Öö, kösz. Hadd kérdezzek valami mást!}
-{312}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
-{320}{}{Hát, úgy hallottam, hogy pár khm... bogárember brahminokat lopott t?lünk keletre. De nem kell mindent elhinni, amit hallasz.}
-{321}{}{Ó, értem, kösz. Van valami más is, amit tudni szeretnék.}
-{322}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
-{330}{}{Helló! Azért vagy itt, hogy vegyél egy keveset a világhír? Dunton féle szárított húsból?}
-{331}{}{Nos? Azért vagy itt hogy húst vegyél, vagy mi?}
-{332}{}{Ez nagyszer?en hangzik, kérek.}
-{333}{}{Szárított hús? Érdekes. Beszélj róla b?vebben!}
-{334}{}{Jelenleg fel szeretnék tenni neked pár kérdést.}
-{335}{}{Azt hiszem, most nincs semmire szükségem. Viszlát!}
-{336}{}{Fura érzéseim vannak a hátul lev? brahminokkal kapcsolatban... mintha nem ugyanaz a billog lenne valamennyin...}
-{340}{}{He? Mi a francot beszélsz? Mind a miénk!}
-{341}{}{Arra gondolok, hogy egy részük nyilvánvalóan más fajta billogot visel, mint a többi.}
-{342}{}{Ó, értem. Hehe. Valószín?leg rosszul láttam. Most megyek. Viszlát!}
-{343}{}{Hát, nem sokat tudok a brahminokról. Biztos valami elszínez?dés vagy ilyesmi... szép állataitok vannak.}
-{350}{}{Tizenegy féle f?szerrel ízesítve. Elmondom én neked, ez olyan jó, hogy megnyalod mint a tíz ujjad utána. Az állatok is szeretik. Üldöznek, hogy kaphassanak valamennyit. Biztos a rothadó szaga miatt.}
-{351}{}{Nincsen ehhez fogható, teljesen egy-gyedi. És a legtöbb ember meg van vele elégedve.}
-{352}{}{Ezek EMBEREK! Hehehe, csak látni akartam a képed, amikor ezt mondom. Persze csak vicceltem, csak egy része ember... Hehe.}
-{353}{}{Ez nem olyan, mint amit az emberek nagy része megenne. Ez más. Nem jobb, más.}
-{354}{}{Mi nem bántjuk az állatokat, ez mind talált hús. Néha eltart egy darabig, míg megtaláljuk, de a szaga alapján meg lehet azért találni.}
-{355}{}{Egy hosszú nap után a brahmin istállóban találunk a bakancsunk alján épp elég dolgot, amivel ízesíthetjük.}
-{356}{}{Hát igen, ezt a kolbászt mi csináltuk saját kez?leg. Jó családias íze van, ha tudod mire gondolok...}
-{357}{}{Hat hónapos marhahúsból készült, és némi lótet? meg hasonló férgek hozzáadásával még finomabbá lett téve.}
-{358}{}{Hihetetlen! Úgy hangzik, mintha a saját szárított húsotokat ennétek. Ööö, úgy értem, ki ne akarna enni ebb?l? Nyam-nyam..}
-{359}{}{Tényleg? Ez érdekfeszít?. Mondd tovább!}
-{360}{}{Nagyjából ennyi érdekelt volna most. Agy?!}
-{361}{}{Ha az éhhalál szélén állnék, akkor is inkább a saját levágott karomat enném meg, mint ezt az átkozott szárított húst.}
-{370}{}{Azért vagy itt, mert meggondoltad magad? Segítesz megmenteni Torrtól azokat a szegény kicsi brahminokat?}
-{371}{}{Mit a fenét csinálsz te itt? Segítesz nekünk vagy nem? Lenne egy munkánk a számodra, ha érdekel.}
-{372}{}{Érdekel. Mondd el mi a munka!}
-{373}{}{Nem hiszem, hogy bármit is akarok veletek csinálni. Viszlát!}
+{243}{}{Nem, azt hiszem, ennyi elÃ©g mostanra, Chuck.}
+{244}{}{Nem, azt hiszem, ennyi elÃ©g mostanra, Buck.}
+{250}{}{Ãœdv, partner! SzÃ¡mÃ­tunk rÃ¡d ma Ã©jszaka. Mit tehetek Ã©rted?}
+{251}{}{Ã–Ã¶, Ã©n meggondoltam magam. Nem hiszem, hogy segÃ­tek nektek ma Ã©jszaka.}
+{252}{}{Ott leszek. Engedd meg, hogy kÃ©rdezzek most valamit!}
+{253}{}{Ott leszek. ViszlÃ¡t!}
+{259}{}{Kutya legyek, ha ez nem a mi beteg karÃº barÃ¡tunk.}
+{260}{}{HellÃ³, hogy Ã¡ll a karod? Tudsz jÃ¶nni?}
+{261}{}{HellÃ³, te kis lÃ©gypiszok! Mit csinÃ¡lsz a mi bÃ¡runkban? Miel?tt megengedjÃ¼k, hogy maradj, bizonyÃ­tanod kell szkanderben (ha ha ha)}
+{262}{}{Nem lÃ¡tszol olyan rohadtul kemÃ©nynek. MiÃ©rt nem velem szkanderezel, Chuck Dunton, a jogÃ©rt, hogy ki ihasson a bÃ¡rban?}
+{263}{}{Nem lÃ¡tszol olyan rohadtul kemÃ©nynek. MiÃ©rt nem velem szkanderezel, Buck Dunton, a jogÃ©rt, hogy ki ihasson a bÃ¡rban?}
+{264}{}{Ki kell Ã©rdemelned a jogot a bÃ¡runkban valÃ³ ivÃ¡sra. Szkanderezned kell ellenem, Chuck Dunton!}
+{265}{}{Ki kell Ã©rdemelned a jogot a bÃ¡runkban valÃ³ ivÃ¡sra. Szkanderezned kell ellenem, Buck Dunton!}
+{266}{}{Szkanderezned kell ellenem, Chuck Dunton, hogy ihass ebben a bÃ¡rban!}
+{267}{}{Szkanderezned kell ellenem,Buck Dunton, hogy ihass ebben a bÃ¡rban!}
+{268}{}{SzkanderezzÃ¼nk! Ha ez az egyetlen Ãºtja, hogy vÃ©gre nyugodtan ihassak itt.}
+{269}{}{Nem hiszem, hogy most kiÃ¡llnÃ©k ellened.}
+{270}{}{Most nem akarok szkanderezni. Csak informÃ¡ciÃ³ra vÃ¡gyom.}
+{271}{}{Ã–Ã¶, azt hiszem, nem a megfelel? bÃ¡rba jÃ¶ttem. ViszlÃ¡t!}
+{280}{}{Most te nyertÃ©l. TrÃ¼kkÃ¶sek vagyunk, mi, kishaver? Gyors vagy, mint egy gekkÃ³, ha Ã©g a farka... hÃ¡t, az els? piÃ¡t Ã©n Ã¡llom.}
+{281}{}{KÃ¶sz. TalÃ¡n kÃ©s?bb vÃ¡laszolhatnÃ¡l egy kÃ©rdÃ©semre.}
+{282}{}{Csak szerencsÃ©m volt. KÃ¶sz.}
+{283}{}{Nem nagyon igÃ©nylem a sÃ¶rÃ¶d, kÃ¶sz. InkÃ¡bb kÃ©rdezni akarnÃ©k valamit.}
+{284}{}{Nem vagyok szomjas. ViszlÃ¡t!}
+{290}{}{SzerencsÃ©d, hogy nem tÃ¶rtem el a kis kezed, mint egy szÃ¡raz csontot. HÃ¡t, azt hiszem, nincs nekem kihÃ­vÃ¡s ebben a vÃ¡rosban.}
+{291}{}{Nem volt mÃ©g Ã©pp elÃ©g balhÃ©d egy estÃ©re?}
+{292}{}{PrÃ³bÃ¡ljuk meg mÃ©g egyszer! Most majd megmutatom!}
+{293}{}{Jaj! OkÃ©, okÃ©, elÃ©g volt! Te, kÃ©rdezni szeretnÃ©k valamit.}
+{294}{}{Ennyi volt mostanra. ViszlÃ¡t!}
+{300}{}{Nem akarsz szkanderezni ellenÃ¼nk? Azt hiszed, tÃºl jÃ³ vagy a Dunton testvÃ©rekhez?}
+{301}{}{AttÃ³l fÃ©lek, megsÃ©rÃ¼lnÃ©k ha szkanderezem veled.}
+{302}{}{TalÃ¡n kÃ©s?bb. Most nÃ©mi informÃ¡ciÃ³ra van szÃ¼ksÃ©gem.}
+{303}{}{Nem lenne kihÃ­vÃ¡s, nyernÃ©k. ViszlÃ¡t}
+{304}{}{TÃºl nyeszlettnek lÃ¡tszol. Csak igazi fÃ©rfiak ellen szkanderezem. Na, lÃ©pj le!}
+{310}{}{Mit a fenÃ©t keresel te? Akkor voltam legkÃ¶zelebb az Ã©denkerthez, amikor Jennyvel hemperegtem a Mama fÃ¼rd?hÃ¡zÃ¡ban. (Hehehe)}
+{311}{}{Ã–Ã¶, kÃ¶sz. Hadd kÃ©rdezzek valami mÃ¡st!}
+{312}{}{NagyjÃ¡bÃ³l ennyi informÃ¡ciÃ³ra lett volna szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{320}{}{HÃ¡t, Ãºgy hallottam, hogy pÃ¡r khm... bogÃ¡rember brahminokat lopott t?lÃ¼nk keletre. De nem kell mindent elhinni, amit hallasz.}
+{321}{}{Ã“, Ã©rtem, kÃ¶sz. Van valami mÃ¡s is, amit tudni szeretnÃ©k.}
+{322}{}{NagyjÃ¡bÃ³l ennyi informÃ¡ciÃ³ra lett volna szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{330}{}{HellÃ³! AzÃ©rt vagy itt, hogy vegyÃ©l egy keveset a vilÃ¡ghÃ­r? Dunton fÃ©le szÃ¡rÃ­tott hÃºsbÃ³l?}
+{331}{}{Nos? AzÃ©rt vagy itt hogy hÃºst vegyÃ©l, vagy mi?}
+{332}{}{Ez nagyszer?en hangzik, kÃ©rek.}
+{333}{}{SzÃ¡rÃ­tott hÃºs? Ã‰rdekes. BeszÃ©lj rÃ³la b?vebben!}
+{334}{}{Jelenleg fel szeretnÃ©k tenni neked pÃ¡r kÃ©rdÃ©st.}
+{335}{}{Azt hiszem, most nincs semmire szÃ¼ksÃ©gem. ViszlÃ¡t!}
+{336}{}{Fura Ã©rzÃ©seim vannak a hÃ¡tul lev? brahminokkal kapcsolatban... mintha nem ugyanaz a billog lenne valamennyin...}
+{340}{}{He? Mi a francot beszÃ©lsz? Mind a miÃ©nk!}
+{341}{}{Arra gondolok, hogy egy rÃ©szÃ¼k nyilvÃ¡nvalÃ³an mÃ¡s fajta billogot visel, mint a tÃ¶bbi.}
+{342}{}{Ã“, Ã©rtem. Hehe. ValÃ³szÃ­n?leg rosszul lÃ¡ttam. Most megyek. ViszlÃ¡t!}
+{343}{}{HÃ¡t, nem sokat tudok a brahminokrÃ³l. Biztos valami elszÃ­nez?dÃ©s vagy ilyesmi... szÃ©p Ã¡llataitok vannak.}
+{350}{}{Tizenegy fÃ©le f?szerrel Ã­zesÃ­tve. Elmondom Ã©n neked, ez olyan jÃ³, hogy megnyalod mint a tÃ­z ujjad utÃ¡na. Az Ã¡llatok is szeretik. ÃœldÃ¶znek, hogy kaphassanak valamennyit. Biztos a rothadÃ³ szaga miatt.}
+{351}{}{Nincsen ehhez foghatÃ³, teljesen egy-gyedi. Ã‰s a legtÃ¶bb ember meg van vele elÃ©gedve.}
+{352}{}{Ezek EMBEREK! Hehehe, csak lÃ¡tni akartam a kÃ©ped, amikor ezt mondom. Persze csak vicceltem, csak egy rÃ©sze ember... Hehe.}
+{353}{}{Ez nem olyan, mint amit az emberek nagy rÃ©sze megenne. Ez mÃ¡s. Nem jobb, mÃ¡s.}
+{354}{}{Mi nem bÃ¡ntjuk az Ã¡llatokat, ez mind talÃ¡lt hÃºs. NÃ©ha eltart egy darabig, mÃ­g megtalÃ¡ljuk, de a szaga alapjÃ¡n meg lehet azÃ©rt talÃ¡lni.}
+{355}{}{Egy hosszÃº nap utÃ¡n a brahmin istÃ¡llÃ³ban talÃ¡lunk a bakancsunk aljÃ¡n Ã©pp elÃ©g dolgot, amivel Ã­zesÃ­thetjÃ¼k.}
+{356}{}{HÃ¡t igen, ezt a kolbÃ¡szt mi csinÃ¡ltuk sajÃ¡t kez?leg. JÃ³ csalÃ¡dias Ã­ze van, ha tudod mire gondolok...}
+{357}{}{Hat hÃ³napos marhahÃºsbÃ³l kÃ©szÃ¼lt, Ã©s nÃ©mi lÃ³tet? meg hasonlÃ³ fÃ©rgek hozzÃ¡adÃ¡sÃ¡val mÃ©g finomabbÃ¡ lett tÃ©ve.}
+{358}{}{Hihetetlen! Ãšgy hangzik, mintha a sajÃ¡t szÃ¡rÃ­tott hÃºsotokat ennÃ©tek. Ã–Ã¶Ã¶, Ãºgy Ã©rtem, ki ne akarna enni ebb?l? Nyam-nyam..}
+{359}{}{TÃ©nyleg? Ez Ã©rdekfeszÃ­t?. Mondd tovÃ¡bb!}
+{360}{}{NagyjÃ¡bÃ³l ennyi Ã©rdekelt volna most. Agy?!}
+{361}{}{Ha az Ã©hhalÃ¡l szÃ©lÃ©n Ã¡llnÃ©k, akkor is inkÃ¡bb a sajÃ¡t levÃ¡gott karomat ennÃ©m meg, mint ezt az Ã¡tkozott szÃ¡rÃ­tott hÃºst.}
+{370}{}{AzÃ©rt vagy itt, mert meggondoltad magad? SegÃ­tesz megmenteni TorrtÃ³l azokat a szegÃ©ny kicsi brahminokat?}
+{371}{}{Mit a fenÃ©t csinÃ¡lsz te itt? SegÃ­tesz nekÃ¼nk vagy nem? Lenne egy munkÃ¡nk a szÃ¡modra, ha Ã©rdekel.}
+{372}{}{Ã‰rdekel. Mondd el mi a munka!}
+{373}{}{Nem hiszem, hogy bÃ¡rmit is akarok veletek csinÃ¡lni. ViszlÃ¡t!}
 {374}{}{I found a pile of bug parts in that house over there. Do you know what they are?}
-{380}{}{Mi a fenét akarsz? Elfelejtetted, mit kell tenned?}
-{381}{}{Nem, emlékszem. Megyek is és elfoglalom magam.}
-{382}{}{Meg?rültél? Figyelnek minket. Azért is jöttem, hogy megmondjam, ne csináld! Fogadjunk, hogy most is épp figyelnek minket.}
-{383}{}{Elfelejtettem. Elmondanád még egyszer, mi is a terv?}
+{380}{}{Mi a fenÃ©t akarsz? Elfelejtetted, mit kell tenned?}
+{381}{}{Nem, emlÃ©kszem. Megyek is Ã©s elfoglalom magam.}
+{382}{}{Meg?rÃ¼ltÃ©l? Figyelnek minket. AzÃ©rt is jÃ¶ttem, hogy megmondjam, ne csinÃ¡ld! Fogadjunk, hogy most is Ã©pp figyelnek minket.}
+{383}{}{Elfelejtettem. ElmondanÃ¡d mÃ©g egyszer, mi is a terv?}
 {384}{}{I found a pile of bug parts in that house over there. Do you know what they are?}
-{390}{}{Bogár testrészek? Ömm... ööö... nem tudunk semmit semmiféle bogár-részekr?l. Mir?l beszélsz?}
+{390}{}{BogÃ¡r testrÃ©szek? Ã–mm... Ã¶Ã¶Ã¶... nem tudunk semmit semmifÃ©le bogÃ¡r-rÃ©szekr?l. Mir?l beszÃ©lsz?}
 {391}{}{Well, I found a pile of bug parts that had straps and buckles so that they looked as though they
  could be worn as a costume. I found them lying on the floor.}
-{392}{}{Felejtsd el, viszlát!}
-{400}{}{Hát ezek mennek. Meg kell keresnünk Torrt.}
-{401}{}{Jól hangzik, benne vagyok.}
-{402}{}{Kizárt dolog! Leléptem, Dunton, viszlát!}
-{403}{}{Meg?rültél? Figyelnek minket. Azért is jöttem, hogy megmondjam, ne csináld! Fogadjunk, hogy most is épp figyelnek minket.}
-{404}{}{Amikor meglátod Torrt, jobb lenne, ha}
-{405}{}{ félrehúzódnál. Beszélj vele, vagy üsd le, de ne öldd meg, mert mindenki utálni fog! Amikor megtetted, mi lépünk a brahminokkal. Holnap találkozunk a bolt mögött, ahol felveheted a részed.}
-{410}{}{Talán igazad van *gyorsan körülnéz*. Nem tetszik a gondolat, hogy valaki figyel minket.}
-{411}{}{Kedvesebbnek kéne lenned a fajtáddal. Most menj haza!}
-{420}{}{Nem néz minket senki. Nagyon vigyázunk az ilyesmivel. Csak beszari vagy, nem? Reszketve visszatáncolsz.}
-{421}{}{Bocs, csak azt hiszem, túl izgatott vagyok. Ilyen nyomás alatt nem vagyok olyan hidegvér?, mint ti ketten.}
-{422}{}{Bocs, csak bepánikoltam. Na, megyek a dolgomra.}
-{423}{}{Nincs az az isten! Na, megyek, viszlát!}
-{424}{}{Most menj és intézd el azt az idióta Torrt!}
-{430}{}{Te megbolondultál! Azok csak az általunk megölt radskorpiók maradványai. Bizony! Ez a kulcs. Mi.. öh, ömm... a saját receptünk egyik titkos összetev?jének használjuk a mérgüket.}
-{431}{}{Jah, persze. Kábé annyira hiszek nektek, mint ahogy a nap nyugaton kel fel.}
-{432}{}{Hát, ha te mondod, akkor biztos úgy van. Helló!}
+{392}{}{Felejtsd el, viszlÃ¡t!}
+{400}{}{HÃ¡t ezek mennek. Meg kell keresnÃ¼nk Torrt.}
+{401}{}{JÃ³l hangzik, benne vagyok.}
+{402}{}{KizÃ¡rt dolog! LelÃ©ptem, Dunton, viszlÃ¡t!}
+{403}{}{Meg?rÃ¼ltÃ©l? Figyelnek minket. AzÃ©rt is jÃ¶ttem, hogy megmondjam, ne csinÃ¡ld! Fogadjunk, hogy most is Ã©pp figyelnek minket.}
+{404}{}{Amikor meglÃ¡tod Torrt, jobb lenne, ha}
+{405}{}{ fÃ©lrehÃºzÃ³dnÃ¡l. BeszÃ©lj vele, vagy Ã¼sd le, de ne Ã¶ldd meg, mert mindenki utÃ¡lni fog! Amikor megtetted, mi lÃ©pÃ¼nk a brahminokkal. Holnap talÃ¡lkozunk a bolt mÃ¶gÃ¶tt, ahol felveheted a rÃ©szed.}
+{410}{}{TalÃ¡n igazad van *gyorsan kÃ¶rÃ¼lnÃ©z*. Nem tetszik a gondolat, hogy valaki figyel minket.}
+{411}{}{Kedvesebbnek kÃ©ne lenned a fajtÃ¡ddal. Most menj haza!}
+{420}{}{Nem nÃ©z minket senki. Nagyon vigyÃ¡zunk az ilyesmivel. Csak beszari vagy, nem? Reszketve visszatÃ¡ncolsz.}
+{421}{}{Bocs, csak azt hiszem, tÃºl izgatott vagyok. Ilyen nyomÃ¡s alatt nem vagyok olyan hidegvÃ©r?, mint ti ketten.}
+{422}{}{Bocs, csak bepÃ¡nikoltam. Na, megyek a dolgomra.}
+{423}{}{Nincs az az isten! Na, megyek, viszlÃ¡t!}
+{424}{}{Most menj Ã©s intÃ©zd el azt az idiÃ³ta Torrt!}
+{430}{}{Te megbolondultÃ¡l! Azok csak az Ã¡ltalunk megÃ¶lt radskorpiÃ³k maradvÃ¡nyai. Bizony! Ez a kulcs. Mi.. Ã¶h, Ã¶mm... a sajÃ¡t receptÃ¼nk egyik titkos Ã¶sszetev?jÃ©nek hasznÃ¡ljuk a mÃ©rgÃ¼ket.}
+{431}{}{Jah, persze. KÃ¡bÃ© annyira hiszek nektek, mint ahogy a nap nyugaton kel fel.}
+{432}{}{HÃ¡t, ha te mondod, akkor biztos Ãºgy van. HellÃ³!}
 {440}{}{You just better keep your mouth shut if you know what's good for you.}
-{441}{}{Hé, nyugodj meg! Csak azt akartam mondani, hogy jó ötlet. Csillapodj le!}
-{442}{}{Bocsánat. Azt fogom tenni. Viszlát!}
-{443}{}{Igen, hát akkor megyek. Viszlát!}
+{441}{}{HÃ©, nyugodj meg! Csak azt akartam mondani, hogy jÃ³ Ã¶tlet. Csillapodj le!}
+{442}{}{BocsÃ¡nat. Azt fogom tenni. ViszlÃ¡t!}
+{443}{}{Igen, hÃ¡t akkor megyek. ViszlÃ¡t!}
 {444}{}{I got a better idea. How about you shut YOUR mouth for a change. I'm tired of hearing you flap your
  rotten gums.}
-{449}{}{Üdv, törzsbéli!}
+{449}{}{Ãœdv, tÃ¶rzsbÃ©li!}
 {450}{}{A nevem Chuck Dunton.}
-{451}{}{Engem Buck Duntonnak hívnak.}
+{451}{}{Engem Buck Duntonnak hÃ­vnak.}
 {452}{}{Roooonda ember}
-{453}{}{ Kiválasztott!}
-{460}{}{Roooonda ember? Mi? Te legalább akkora idióta vagy, mint Torr. Ez jó, úgyis kerestünk egy új bolondot a faluba. Te épp kapóra jössz.}
+{453}{}{ KivÃ¡lasztott!}
+{460}{}{Roooonda ember? Mi? Te legalÃ¡bb akkora idiÃ³ta vagy, mint Torr. Ez jÃ³, Ãºgyis kerestÃ¼nk egy Ãºj bolondot a faluba. Te Ã©pp kapÃ³ra jÃ¶ssz.}
 {461}{}{kuporra?}
-{470}{}{Kiválasztott, mi? A kiválasztott jobb, ha vigyáz, miel?tt valaki szájba veri. Az anyád fejre ejtett csecsem?korodban, vagy így születtél? Takarodj a szemem el?l!}
+{470}{}{KivÃ¡lasztott, mi? A kivÃ¡lasztott jobb, ha vigyÃ¡z, miel?tt valaki szÃ¡jba veri. Az anyÃ¡d fejre ejtett csecsem?korodban, vagy Ã­gy szÃ¼lettÃ©l? Takarodj a szemem el?l!}
 {471}{}{Rrrendbe'!}
-{472}{}{ Kiválasztott!}
-{480}{}{Készen állsz? Hát akkor gyerünk! Nem érünk rá egész éjszaka.}
-{481}{}{Ó, igen, kész vagyok, menjünk!}
-{482}{}{Készen állok, tanítsuk meg azt a marhát keszty?be dudálni!}
-{483}{}{Nem hiszem, hogy ezt kéne tenni. Kés?bb találkozunk.}
-{490}{}{Hé, várj, amíg bemegyünk, akkor beszélünk.}
-{500}{}{Igyekszel, de végül a Dunton testvér gy?z.}
-{510}{}{Egy nehéz küzdelem után felülkerekedsz a Dunton fivéren.}
-{520}{}{Oké.}
+{472}{}{ KivÃ¡lasztott!}
+{480}{}{KÃ©szen Ã¡llsz? HÃ¡t akkor gyerÃ¼nk! Nem Ã©rÃ¼nk rÃ¡ egÃ©sz Ã©jszaka.}
+{481}{}{Ã“, igen, kÃ©sz vagyok, menjÃ¼nk!}
+{482}{}{KÃ©szen Ã¡llok, tanÃ­tsuk meg azt a marhÃ¡t keszty?be dudÃ¡lni!}
+{483}{}{Nem hiszem, hogy ezt kÃ©ne tenni. KÃ©s?bb talÃ¡lkozunk.}
+{490}{}{HÃ©, vÃ¡rj, amÃ­g bemegyÃ¼nk, akkor beszÃ©lÃ¼nk.}
+{500}{}{Igyekszel, de vÃ©gÃ¼l a Dunton testvÃ©r gy?z.}
+{510}{}{Egy nehÃ©z kÃ¼zdelem utÃ¡n felÃ¼lkerekedsz a Dunton fivÃ©ren.}
+{520}{}{OkÃ©.}
 {530}{}{Takarodj innen! Az embereknek itt dolguk van.}
-{531}{}{Ó, oké, már megyek is. Hogy egyesek milyen könnyen bepöccennek... Viszlát!}
-{532}{}{Torr északra innen terelgeti a brahminjait.}
-{533}{}{Amikor az az idióta Torr idejön, lásd el a baját!}
-{600}{}{Még Torrnak is több agya van, mint neked, tolvaj!}
-{601}{}{Mehetünk?}
-{700}{}{Sikeresen lenyúltad a brahminokat.}
+{531}{}{Ã“, okÃ©, mÃ¡r megyek is. Hogy egyesek milyen kÃ¶nnyen bepÃ¶ccennek... ViszlÃ¡t!}
+{532}{}{Torr Ã©szakra innen terelgeti a brahminjait.}
+{533}{}{Amikor az az idiÃ³ta Torr idejÃ¶n, lÃ¡sd el a bajÃ¡t!}
+{600}{}{MÃ©g Torrnak is tÃ¶bb agya van, mint neked, tolvaj!}
+{601}{}{MehetÃ¼nk?}
+{700}{}{Sikeresen lenyÃºltad a brahminokat.}
 {702}{}{No, I'll tell you what you have these for. You dress up as "Bug Men" and scare poor old Torr out of his Brahmin, don't you -- don't you?! It all makes sense now. You're just a couple of no good ruffians.}
 {703}{}{[The Dunton brothers' eyes get really wide and the two men begin to fidget uncomfortably.] Yy..yyy... yeah so... what's it to you, tribal? Everyone needs a little extra cash now and then. What's it to you anyway? What are you gonna do about it, huh?}
 {704}{}{I'll tell you what. If you stop stealing brahmin and bothering Torr, then I won't turn you in. All I need is your word, since if it happens again, there won't be any of you left to steal another brahmin. Got it?!}

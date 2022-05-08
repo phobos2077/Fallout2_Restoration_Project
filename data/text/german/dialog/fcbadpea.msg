@@ -1,7 +1,7 @@
 {100}{}{Du siehst jemanden in einem komischen Pyjama.}
 {101}{}{Du siehst einen Bewohner von Shi-Town.}
 {102}{}{Diese Person sieht anders aus, als alle, die du je gesehen hast. Sie scheint dich nicht
- groß zu beachten.}
+ groÃŸ zu beachten.}
 {103}{}{Du bist doch kein Spion, oder?}
 {104}{}{Wer bist du?}
 {105}{}{Fisch und Seetang. Das ist alles, was wir hier kriegen.}
@@ -12,27 +12,27 @@
 {110}{}{Nieder mit dem Drachen!}
 {111}{}{Lo Pan ist ein Held.}
 {112}{}{Nimm dich in Acht vor dem Drachen. Mit ihm ist nicht gut Kirschen essen.}
-{113}{}{Dass dieser Pöbel immer so laut sein muss!}
+{113}{}{Dass dieser PÃ¶bel immer so laut sein muss!}
 {114}{}{Arbeiten, arbeiten, arbeiten. Reis, Reis, Reis. ::Seufz::}
 {115}{}{Gibt es denn nichts anderes im Leben?}
 {116}{}{Wir sind schlauer, als du glaubst.}
 {117}{}{Schaut! Ein Lao Wai!}
 {118}{}{Willkommen in San Francisco.}
-{119}{}{Du siehst aus, als wärst du ganz vernünftig.}
+{119}{}{Du siehst aus, als wÃ¤rst du ganz vernÃ¼nftig.}
 {120}{}{Lo Pan kann deine Hilfe brauchen.}
 {121}{}{Tu den Leuten in Rot nichts, Lao Wai.}
 {122}{}{Lao Wai bedeutet "Fremder".}
 {123}{}{Du bist doch auf unserer Seite?}
-{124}{}{Wirst du den Drachen für uns töten?}
+{124}{}{Wirst du den Drachen fÃ¼r uns tÃ¶ten?}
 {125}{}{Deine Gegenwart ehrt uns.}
-{126}{}{Unser Führer! Geschlagen!}
-{127}{}{Wir müssen Lo Pan rächen!}
-{128}{}{Wer wird uns jetzt zu einem großen Volk machen, wo Lo Pan tot ist?}
+{126}{}{Unser FÃ¼hrer! Geschlagen!}
+{127}{}{Wir mÃ¼ssen Lo Pan rÃ¤chen!}
+{128}{}{Wer wird uns jetzt zu einem groÃŸen Volk machen, wo Lo Pan tot ist?}
 {129}{}{Was sollen wir denn jetzt tun?}
 {130}{}{Wir sind entehrt. Wir sollten tot sein, wie Lo Pan.}
 {131}{}{Das Leben ist ohne Sinn.}
-{132}{}{Wenn Lo Pans tod ist, bedeutet das den Verlust all unserer Träume.}
-{133}{}{Lo Pan war der letzte große Anführer.}
+{132}{}{Wenn Lo Pans tod ist, bedeutet das den Verlust all unserer TrÃ¤ume.}
+{133}{}{Lo Pan war der letzte groÃŸe AnfÃ¼hrer.}
 {134}{}{Der Drache ist tot! Lo Pan hat gesiegt!}
 {135}{}{Hohn den Verlierern!}
 {136}{}{Der Drache ist gefallen!}
@@ -45,24 +45,24 @@
 {143}{}{Schaut! Ein Lao Wai!}
 {144}{}{Des Kaisers Sprachrohr! Tot! Die Stadt wird zerfallen!}
 {145}{}{Was soll jetzt werden?}
-{146}{}{Ich hoffe nur, wir werden jetzt nicht von den Wilden überrannt.}
+{146}{}{Ich hoffe nur, wir werden jetzt nicht von den Wilden Ã¼berrannt.}
 {147}{}{Die Guten sterben nun mal jung.}
-{148}{}{Hoffentlich können wir ohne Ken Lee überhaupt weiterleben.}
-{149}{}{Ich hab gehört, das Ken Lee der einzige war, der den Kaiser bei der Stange hielt.}
-{150}{}{Man sagt, der Kaiser sei nur eine Fassade für Ken Lee gewesen. }
+{148}{}{Hoffentlich kÃ¶nnen wir ohne Ken Lee Ã¼berhaupt weiterleben.}
+{149}{}{Ich hab gehÃ¶rt, das Ken Lee der einzige war, der den Kaiser bei der Stange hielt.}
+{150}{}{Man sagt, der Kaiser sei nur eine Fassade fÃ¼r Ken Lee gewesen. }
 {151}{}{Vielleicht kann Lo Pan Ken Lees Platz einnehmen...}
 {152}{}{Arbeiten, arbeiten, arbeiten. Reis, Reis, Reis. ::Seufz::}
 {153}{}{Gibt es denn nichts anderes im Leben?}
 {154}{}{Wir sind schlauer, als du glaubst.}
 {155}{}{Schaut! Ein Lao Wai!}
-{163}{}{Du hast AHS-9 getötet? Hurra!}
-{164}{}{Bei diesen Hubologen schüttelt's mich.}
-{165}{}{Du hast uns einen großen Dienst erwiesen.}
+{163}{}{Du hast AHS-9 getÃ¶tet? Hurra!}
+{164}{}{Bei diesen Hubologen schÃ¼ttelt's mich.}
+{165}{}{Du hast uns einen groÃŸen Dienst erwiesen.}
 {166}{}{Tod den Hubologen!}
 {167}{}{Das wird diese Hubologen von hier vertreiben.}
-{168}{}{Diese dämlichen Hubologen sind noch nicht mal in der Lage, ihren eigenen Anführer zu
- schützen.}
-{169}{}{Hoffentlich fallen die  Hubologen nicht aus Rache über uns her.}
+{168}{}{Diese dÃ¤mlichen Hubologen sind noch nicht mal in der Lage, ihren eigenen AnfÃ¼hrer zu
+ schÃ¼tzen.}
+{169}{}{Hoffentlich fallen die  Hubologen nicht aus Rache Ã¼ber uns her.}
 {170}{}{Du bist wohl doch kein Spion.}
 {171}{}{Schweinepriester! Stirb!}
 {172}{}{Du hast deine Familie entehrt!}
@@ -72,5 +72,5 @@
 {176}{}{Verlass diese Stadt!}
 {177}{}{Geh nach Hause zu deinem Volk!}
 {178}{}{Verdunkle mein Leben nicht durch deinen Anblick!}
-{179}{}{Was sollen wir bloß machen, damit du verschwindest?!}
+{179}{}{Was sollen wir bloÃŸ machen, damit du verschwindest?!}
 {180}{}{Hilfe! Hilfe!}

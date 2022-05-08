@@ -1,16 +1,16 @@
-{100}{}{Bokszoló.}
-{101}{}{Ez itt Mike, a "Húsdaráló".}
-{150}{}{A karja olyan, mint egy farönk.}
-{151}{}{A karjai harckocsi lövegeknek is beillenének.}
-{152}{}{Amikor megmozdul, megbabonáz az izomkötegek látványa.}
-{153}{}{Éhesen nézi a füledet.}
-{154}{}{Az arca olyan, mint egy darab nyers hús.}
+{100}{}{BokszolÃ³.}
+{101}{}{Ez itt Mike, a "HÃºsdarÃ¡lÃ³".}
+{150}{}{A karja olyan, mint egy farÃ¶nk.}
+{151}{}{A karjai harckocsi lÃ¶vegeknek is beillenÃ©nek.}
+{152}{}{Amikor megmozdul, megbabonÃ¡z az izomkÃ¶tegek lÃ¡tvÃ¡nya.}
+{153}{}{Ã‰hesen nÃ©zi a fÃ¼ledet.}
+{154}{}{Az arca olyan, mint egy darab nyers hÃºs.}
 {158}{}{Hurgghhh}
-{159}{}{Görhnnn}
+{159}{}{GÃ¶rhnnn}
 {160}{}{Mike smash.}
 {161}{}{I really like vanilla ice cream.}
 {162}{}{Gnarrrr}
-{163}{}{Nrrrörhhh}
+{163}{}{NrrrÃ¶rhhh}
 {164}{}{Mike like ears.}
 {165}{}{Ears mmmmmmm.}
 {166}{}{Grrrrrr}
@@ -23,11 +23,11 @@
 {173}{}{Snrggg}
 {174}{}{Me hate Robbin' Givens.}
 {175}{}{Grrrrrgrrrrgrrr... grrr... grrr... grr! Grr! Grrr?}
-{176}{}{Mit jelent "részesedés" szó?}
-{200}{}{::Ahogy közeledsz, Mike meghúzza magát::}
-{201}{}{::Ahogy közeledsz, Mike nyöszörög::}
-{202}{}{::Ahogy közeledsz, Mike megadóan felemeli a kezét::}
+{176}{}{Mit jelent "rÃ©szesedÃ©s" szÃ³?}
+{200}{}{::Ahogy kÃ¶zeledsz, Mike meghÃºzza magÃ¡t::}
+{201}{}{::Ahogy kÃ¶zeledsz, Mike nyÃ¶szÃ¶rÃ¶g::}
+{202}{}{::Ahogy kÃ¶zeledsz, Mike megadÃ³an felemeli a kezÃ©t::}
 {203}{}{You cute.}
 {204}{}{Me like your ears.}
-{205}{}{Elég duma. Menni ágyba.}
+{205}{}{ElÃ©g duma. Menni Ã¡gyba.}
 {206}{}{Robin? Te vagyol?}

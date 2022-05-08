@@ -13,8 +13,8 @@
 {112}{}{I've got some important news for your boss.}
 {113}{}{I'm here to see President Tandi.}
 {114}{}{I'm here to see President Tandi.}
-{115}{}{Estou à procura de trabalho.}
-{116}{}{O que é este lugar?}
+{115}{}{Estou Ã  procura de trabalho.}
+{116}{}{O que Ã© este lugar?}
 {117}{}{You can't.}
 {118}{}{Me go away.}
 {119}{}{Sorry, no public bathrooms here. Why don't you move along?}
@@ -34,7 +34,7 @@
 {133}{}{13? Or did you mean 15?}
 {134}{}{I said 13.}
 {135}{}{15?}
-{136}{}{Não.}
+{136}{}{NÃ£o.}
 {137}{}{(Continue)}
 {138}{}{Oh, that. Talk to Mr. Gunther, in back.}
 {139}{}{Vault 15? They want to make a deal? Interesting. In the back - talk to Gunther.}
@@ -51,7 +51,7 @@
 {150}{}{Tell her I solved her squatter problem.}
 {151}{}{Darion's dead? Oh, excuse me. Go right on in.}
 {152}{}{You did? Well... I'm sure that's wonderful news. Did you learn anything else?}
-{153}{}{Não.}
+{153}{}{NÃ£o.}
 {154}{}{Yeah, there's something else -- something about a spy.}
 {155}{}{What a rel-I mean, I'm glad it's all over. Go right on in.}
 {500}{}{Excuse me, but you cannot enter there without permission.}

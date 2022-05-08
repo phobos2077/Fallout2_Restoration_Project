@@ -1,27 +1,27 @@
-{170}{}{Tu crochètes adroitement la serrure du placard.}
+{170}{}{Tu crochÃ¨tes adroitement la serrure du placard.}
 {171}{}{A cause de ton manque d'adresse, tu coinces la serrure de ce placard.}
-{172}{}{Tu ne réussis pas à crocheter la serrure de ce placard.}
-{173}{}{ crochète adroitement la serrure du placard.}
-{174}{}{ a manqué d'adresse et coince la serrure du placard.}
-{175}{}{ n'a pas réussi à crocheter la serrure du placard.}
+{172}{}{Tu ne rÃ©ussis pas Ã  crocheter la serrure de ce placard.}
+{173}{}{ crochÃ¨te adroitement la serrure du placard.}
+{174}{}{ a manquÃ© d'adresse et coince la serrure du placard.}
+{175}{}{ n'a pas rÃ©ussi Ã  crocheter la serrure du placard.}
 {176}{}{Tu fais sauter le verrou de la porte.}
-{177}{}{Tu te fais un tour de reins en essayant de faire sauter la serrure et tu subis un point de dégâts.}
+{177}{}{Tu te fais un tour de reins en essayant de faire sauter la serrure et tu subis un point de dÃ©gÃ¢ts.}
 {178}{}{Tu te fais un tour de reins en essayer de faire sauter la serrure et tu subis }
-{179}{}{ points de dégâts.}
+{179}{}{ points de dÃ©gÃ¢ts.}
 {180}{}{Tu es trop faible pour faire sauter le verrou.}
 {181}{}{ fait sauter le verrou de la porte.}
-{182}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend un point de dégât.}
+{182}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend un point de dÃ©gÃ¢t.}
 {183}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend }
-{184}{}{ points de dégâts.}
+{184}{}{ points de dÃ©gÃ¢ts.}
 {185}{}{ est trop faible pour faire sauter le verrou.}
-{186}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend un point de dégât.}
+{186}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend un point de dÃ©gÃ¢t.}
 {187}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend }
-{188}{}{ points de dégâts.}
+{188}{}{ points de dÃ©gÃ¢ts.}
 {189}{}{Tu verrouilles adroitement le placard.}
-{190}{}{Tu ne réussis pas à verrouiller le placard.}
+{190}{}{Tu ne rÃ©ussis pas Ã  verrouiller le placard.}
 {191}{}{ verrouille adroitement le placard.}
-{192}{}{ ne réussit pas à verrouiller le placard.}
-{203}{}{Le placard est verrouillé.}
-{800}{}{Tu as récupéré le passe.}
-{810}{}{Tu as récupéré les plans.}
-{820}{}{Tu as récupéré le motivateur du K-9.}
+{192}{}{ ne rÃ©ussit pas Ã  verrouiller le placard.}
+{203}{}{Le placard est verrouillÃ©.}
+{800}{}{Tu as rÃ©cupÃ©rÃ© le passe.}
+{810}{}{Tu as rÃ©cupÃ©rÃ© les plans.}
+{820}{}{Tu as rÃ©cupÃ©rÃ© le motivateur du K-9.}

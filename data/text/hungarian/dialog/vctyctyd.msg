@@ -1,1 +1,1 @@
-{100}{}{Menedékváros külsö övezetében vagy. A falakon belül rendezett sorokban állnak a fehér vályogházak.}
+{100}{}{MenedÃ©kvÃ¡ros kÃ¼lsÃ¶ Ã¶vezetÃ©ben vagy. A falakon belÃ¼l rendezett sorokban Ã¡llnak a fehÃ©r vÃ¡lyoghÃ¡zak.}

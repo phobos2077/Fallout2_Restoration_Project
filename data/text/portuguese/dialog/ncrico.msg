@@ -15,12 +15,12 @@
 {204}{}{Me like to hit.}
 {205}{}{::Sorriso desdentado::}
 {206}{}{:: Se arranha::}
-{207}{}{::Flexıes::}
+{207}{}{::Flex√µes::}
 {208}{}{Grunt.}
 {209}{}{Grunt - Grunt.}
-{210}{}{Eu n„o gosto de falar.}
+{210}{}{Eu n√£o gosto de falar.}
 {211}{}{Yoo smell guuud...}
 {212}{}{Yoo smell like mom.}
-{213}{}{Yoo fofo. Eu n„o bati em vocÍ.}
+{213}{}{Yoo fofo. Eu n√£o bati em voc√™.}
 {214}{}{Yoo make me blush...}
 {215}{}{Uhhh... Eu Rico...}

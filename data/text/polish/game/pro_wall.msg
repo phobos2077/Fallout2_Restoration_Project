@@ -1,64 +1,64 @@
-{100}{}{stalowa œciana}
-{200}{}{stalowa œciana}
-{300}{}{stalowa œciana}
-{400}{}{stalowa œciana}
-{500}{}{stalowa œciana}
-{600}{}{stalowa œciana}
-{700}{}{stalowa œciana}
-{800}{}{stalowa œciana}
-{900}{}{stalowa œciana}
-{1000}{}{stalowa œciana}
-{1100}{}{stalowa œciana}
-{1200}{}{stalowa œciana}
-{1300}{}{stalowa œciana}
-{1400}{}{stalowa œciana}
-{1500}{}{stalowa œciana}
-{1600}{}{stalowa œciana}
-{1700}{}{stalowa œciana}
-{1800}{}{stalowa œciana}
+{100}{}{stalowa Å›ciana}
+{200}{}{stalowa Å›ciana}
+{300}{}{stalowa Å›ciana}
+{400}{}{stalowa Å›ciana}
+{500}{}{stalowa Å›ciana}
+{600}{}{stalowa Å›ciana}
+{700}{}{stalowa Å›ciana}
+{800}{}{stalowa Å›ciana}
+{900}{}{stalowa Å›ciana}
+{1000}{}{stalowa Å›ciana}
+{1100}{}{stalowa Å›ciana}
+{1200}{}{stalowa Å›ciana}
+{1300}{}{stalowa Å›ciana}
+{1400}{}{stalowa Å›ciana}
+{1500}{}{stalowa Å›ciana}
+{1600}{}{stalowa Å›ciana}
+{1700}{}{stalowa Å›ciana}
+{1800}{}{stalowa Å›ciana}
 {1801}{}{}
-{1900}{}{stalowy naro¿nik}
-{2000}{}{stalowy naro¿nik}
-{2100}{}{stalowy naro¿nik}
-{2200}{}{stalowy naro¿nik}
-{2300}{}{stalowa œciana}
-{2400}{}{stalowa œciana}
-{2500}{}{stalowy naro¿nik}
-{2600}{}{stalowa œciana}
-{2700}{}{stalowa œciana}
-{2800}{}{stalowy naro¿nik}
-{2900}{}{stalowa œciana}
-{3000}{}{stalowa œciana}
+{1900}{}{stalowy naroÅ¼nik}
+{2000}{}{stalowy naroÅ¼nik}
+{2100}{}{stalowy naroÅ¼nik}
+{2200}{}{stalowy naroÅ¼nik}
+{2300}{}{stalowa Å›ciana}
+{2400}{}{stalowa Å›ciana}
+{2500}{}{stalowy naroÅ¼nik}
+{2600}{}{stalowa Å›ciana}
+{2700}{}{stalowa Å›ciana}
+{2800}{}{stalowy naroÅ¼nik}
+{2900}{}{stalowa Å›ciana}
+{3000}{}{stalowa Å›ciana}
 {3001}{}{}
-{3100}{}{stalowa œciana}
-{3200}{}{stalowa œciana}
-{3300}{}{stalowa œciana}
-{3400}{}{stalowa œciana}
-{3500}{}{stalowa œciana}
-{3600}{}{stalowa œciana}
-{3700}{}{stalowa œciana}
-{3800}{}{stalowa œciana}
-{3900}{}{przejœcie}
-{4000}{}{przejœcie}
-{4100}{}{przejœcie}
-{4200}{}{przejœcie}
-{4300}{}{przejœcie}
-{4400}{}{przejœcie}
-{4500}{}{przejœcie}
-{4600}{}{przejœcie}
-{4700}{}{przejœcie}
-{4800}{}{przejœcie}
-{4900}{}{przejœcie}
-{5000}{}{œciana}
-{5100}{}{œciana}
-{5200}{}{œciana}
-{5300}{}{œciana}
-{5400}{}{œciana}
+{3100}{}{stalowa Å›ciana}
+{3200}{}{stalowa Å›ciana}
+{3300}{}{stalowa Å›ciana}
+{3400}{}{stalowa Å›ciana}
+{3500}{}{stalowa Å›ciana}
+{3600}{}{stalowa Å›ciana}
+{3700}{}{stalowa Å›ciana}
+{3800}{}{stalowa Å›ciana}
+{3900}{}{przejÅ›cie}
+{4000}{}{przejÅ›cie}
+{4100}{}{przejÅ›cie}
+{4200}{}{przejÅ›cie}
+{4300}{}{przejÅ›cie}
+{4400}{}{przejÅ›cie}
+{4500}{}{przejÅ›cie}
+{4600}{}{przejÅ›cie}
+{4700}{}{przejÅ›cie}
+{4800}{}{przejÅ›cie}
+{4900}{}{przejÅ›cie}
+{5000}{}{Å›ciana}
+{5100}{}{Å›ciana}
+{5200}{}{Å›ciana}
+{5300}{}{Å›ciana}
+{5400}{}{Å›ciana}
 {5500}{}{stalowa rama okienna}
 {5600}{}{rury}
 {5700}{}{rury}
 {5800}{}{rury}
-{5900}{}{osprzêt}
+{5900}{}{osprzÄ™t}
 {5901}{}{}
 {6000}{}{rury}
 {6100}{}{rury}
@@ -75,10 +75,10 @@
 {7200}{}{rury}
 {7300}{}{rury}
 {7400}{}{rury}
-{7500}{}{osprzêt}
+{7500}{}{osprzÄ™t}
 {7501}{}{}
 {7600}{}{rury}
-{7700}{}{osprzêt}
+{7700}{}{osprzÄ™t}
 {7701}{}{}
 {7800}{}{rury}
 {7900}{}{rury}
@@ -94,55 +94,55 @@
 {8900}{}{drewniane ogrodzenie}
 {9000}{}{drewniane ogrodzenie}
 {9100}{}{drewniane ogrodzenie}
-{9200}{}{œciana}
-{9300}{}{œciana}
-{9400}{}{œciana}
-{9500}{}{œciana}
-{9600}{}{blaszana œciana}
-{9700}{}{blaszana œciana}
-{9800}{}{drewniana œciana}
-{9900}{}{drewniana œciana}
-{10000}{}{blaszana œciana}
-{10100}{}{blaszana œciana}
-{10200}{}{drewniana œciana}
-{10300}{}{drewniana œciana}
+{9200}{}{Å›ciana}
+{9300}{}{Å›ciana}
+{9400}{}{Å›ciana}
+{9500}{}{Å›ciana}
+{9600}{}{blaszana Å›ciana}
+{9700}{}{blaszana Å›ciana}
+{9800}{}{drewniana Å›ciana}
+{9900}{}{drewniana Å›ciana}
+{10000}{}{blaszana Å›ciana}
+{10100}{}{blaszana Å›ciana}
+{10200}{}{drewniana Å›ciana}
+{10300}{}{drewniana Å›ciana}
 {10400}{}{blaszana framuga}
 {10500}{}{blaszana framuga}
 {10600}{}{blaszana framuga}
 {10700}{}{blaszana framuga}
-{10800}{}{stalowa œciana}
-{10900}{}{stalowa œciana}
-{11000}{}{drewniana œciana}
-{11100}{}{drewniana œciana}
-{11200}{}{blaszana œciana}
-{11300}{}{drewniana œciana}
-{11400}{}{drewniana œciana}
-{11500}{}{drewniana œciana}
-{11600}{}{drewniana œciana}
-{11700}{}{drewniana œciana}
-{11800}{}{drewniana œciana}
-{11900}{}{drewniana œciana}
-{12000}{}{drewniana œciana}
-{12100}{}{drewniana œciana}
-{12200}{}{drewniana œciana}
+{10800}{}{stalowa Å›ciana}
+{10900}{}{stalowa Å›ciana}
+{11000}{}{drewniana Å›ciana}
+{11100}{}{drewniana Å›ciana}
+{11200}{}{blaszana Å›ciana}
+{11300}{}{drewniana Å›ciana}
+{11400}{}{drewniana Å›ciana}
+{11500}{}{drewniana Å›ciana}
+{11600}{}{drewniana Å›ciana}
+{11700}{}{drewniana Å›ciana}
+{11800}{}{drewniana Å›ciana}
+{11900}{}{drewniana Å›ciana}
+{12000}{}{drewniana Å›ciana}
+{12100}{}{drewniana Å›ciana}
+{12200}{}{drewniana Å›ciana}
 {12300}{}{okno}
-{12400}{}{drewniana œciana}
-{12500}{}{drewniana œciana}
-{12600}{}{drewniana œciana}
-{12700}{}{drewniana œciana}
-{12800}{}{drewniana œciana}
-{12900}{}{drewniana œciana}
-{13000}{}{drewniana œciana}
+{12400}{}{drewniana Å›ciana}
+{12500}{}{drewniana Å›ciana}
+{12600}{}{drewniana Å›ciana}
+{12700}{}{drewniana Å›ciana}
+{12800}{}{drewniana Å›ciana}
+{12900}{}{drewniana Å›ciana}
+{13000}{}{drewniana Å›ciana}
 {13100}{}{drewniana framuga}
 {13200}{}{drewniana framuga}
-{13300}{}{blaszana œciana}
-{13400}{}{blaszana œciana}
-{13500}{}{œciana}
-{13600}{}{blaszana œciana}
-{13700}{}{blaszana œciana}
-{13800}{}{blaszana œciana}
-{13900}{}{blaszana œciana}
-{14000}{}{blaszana œciana}
+{13300}{}{blaszana Å›ciana}
+{13400}{}{blaszana Å›ciana}
+{13500}{}{Å›ciana}
+{13600}{}{blaszana Å›ciana}
+{13700}{}{blaszana Å›ciana}
+{13800}{}{blaszana Å›ciana}
+{13900}{}{blaszana Å›ciana}
+{14000}{}{blaszana Å›ciana}
 {14100}{}{drewniane ogrodzenie}
 {14200}{}{drewniane ogrodzenie}
 {14300}{}{drewniane ogrodzenie}
@@ -155,14 +155,14 @@
 {15000}{}{drewniane ogrodzenie}
 {15100}{}{drewniane ogrodzenie}
 {15200}{}{drewniane ogrodzenie}
-{15300}{}{blaszana œciana}
-{15400}{}{blaszana œciana}
-{15500}{}{kamienna œciana}
+{15300}{}{blaszana Å›ciana}
+{15400}{}{blaszana Å›ciana}
+{15500}{}{kamienna Å›ciana}
 {15600}{}{kamienna framuga}
 {15700}{}{kamienna framuga}
-{15800}{}{kamienna œciana}
-{15900}{}{kamienna œciana}
-{16000}{}{kamienna œciana}
+{15800}{}{kamienna Å›ciana}
+{15900}{}{kamienna Å›ciana}
+{16000}{}{kamienna Å›ciana}
 {16100}{}{stalowa barierka}
 {16200}{}{stalowa barierka}
 {16300}{}{stalowa barierka}
@@ -176,299 +176,299 @@
 {17100}{}{stalowa barierka}
 {17200}{}{stalowa barierka}
 {17300}{}{stalowa barierka}
-{17400}{}{œciana jaskini}
-{17500}{}{œciana jaskini}
-{17600}{}{œciana jaskini}
-{17700}{}{œciana jaskini}
-{17800}{}{œciana jaskini}
-{17900}{}{œciana jaskini}
-{18000}{}{œciana jaskini}
-{18100}{}{œciana jaskini}
-{18200}{}{œciana jaskini}
-{18300}{}{œciana jaskini}
-{18400}{}{œciana jaskini}
-{18500}{}{œciana jaskini}
-{18600}{}{œciana jaskini}
-{18700}{}{œciana jaskini}
-{18800}{}{œciana jaskini}
-{18900}{}{œciana jaskini}
-{19000}{}{œciana jaskini}
-{19100}{}{œciana jaskini}
-{19200}{}{œciana jaskini}
-{19300}{}{œciana jaskini}
-{19400}{}{œciana jaskini}
-{19500}{}{œciana jaskini}
-{19600}{}{œciana jaskini}
-{19700}{}{œciana jaskini}
-{19800}{}{œciana jaskini}
-{19900}{}{œciana jaskini}
-{20000}{}{œciana jaskini}
-{20100}{}{œciana jaskini}
-{20200}{}{œciana jaskini}
-{20300}{}{œciana jaskini}
-{20400}{}{œciana jaskini}
-{20500}{}{œciana jaskini}
-{20600}{}{œciana jaskini}
-{20700}{}{œciana jaskini}
-{20800}{}{œciana jaskini}
-{20900}{}{œciana jaskini}
-{21000}{}{œciana jaskini}
-{21100}{}{œciana jaskini}
-{21200}{}{œciana jaskini}
-{21300}{}{œciana jaskini}
-{21400}{}{œciana jaskini}
-{21500}{}{œciana jaskini}
-{21600}{}{œciana jaskini}
-{21700}{}{œciana jaskini}
-{21800}{}{œciana jaskini}
-{21900}{}{œciana jaskini}
-{22000}{}{œciana jaskini}
-{22100}{}{œciana jaskini}
-{22200}{}{œciana jaskini}
-{22300}{}{œciana jaskini}
-{22400}{}{œciana jaskini}
-{22500}{}{œciana jaskini}
-{22600}{}{œciana jaskini}
-{22700}{}{œciana jaskini}
-{22800}{}{œciana jaskini}
-{22900}{}{œciana jaskini}
-{23000}{}{œciana jaskini}
-{23100}{}{œciana jaskini}
-{23200}{}{œciana jaskini}
-{23300}{}{œciana jaskini}
-{23400}{}{œciana jaskini}
-{23500}{}{œciana jaskini}
-{23600}{}{œciana jaskini}
-{23700}{}{œciana jaskini}
-{23800}{}{œciana jaskini}
-{23900}{}{œciana jaskini}
-{24000}{}{œciana jaskini}
-{24100}{}{œciana jaskini}
-{24200}{}{œciana jaskini}
-{24300}{}{œciana jaskini}
-{24400}{}{drewniana œciana}
-{24500}{}{drewniana œciana}
-{24600}{}{drewniana œciana}
-{24700}{}{drewniana œciana}
-{24800}{}{drewniana œciana}
-{24900}{}{drewniana œciana}
-{25000}{}{drewniana œciana}
+{17400}{}{Å›ciana jaskini}
+{17500}{}{Å›ciana jaskini}
+{17600}{}{Å›ciana jaskini}
+{17700}{}{Å›ciana jaskini}
+{17800}{}{Å›ciana jaskini}
+{17900}{}{Å›ciana jaskini}
+{18000}{}{Å›ciana jaskini}
+{18100}{}{Å›ciana jaskini}
+{18200}{}{Å›ciana jaskini}
+{18300}{}{Å›ciana jaskini}
+{18400}{}{Å›ciana jaskini}
+{18500}{}{Å›ciana jaskini}
+{18600}{}{Å›ciana jaskini}
+{18700}{}{Å›ciana jaskini}
+{18800}{}{Å›ciana jaskini}
+{18900}{}{Å›ciana jaskini}
+{19000}{}{Å›ciana jaskini}
+{19100}{}{Å›ciana jaskini}
+{19200}{}{Å›ciana jaskini}
+{19300}{}{Å›ciana jaskini}
+{19400}{}{Å›ciana jaskini}
+{19500}{}{Å›ciana jaskini}
+{19600}{}{Å›ciana jaskini}
+{19700}{}{Å›ciana jaskini}
+{19800}{}{Å›ciana jaskini}
+{19900}{}{Å›ciana jaskini}
+{20000}{}{Å›ciana jaskini}
+{20100}{}{Å›ciana jaskini}
+{20200}{}{Å›ciana jaskini}
+{20300}{}{Å›ciana jaskini}
+{20400}{}{Å›ciana jaskini}
+{20500}{}{Å›ciana jaskini}
+{20600}{}{Å›ciana jaskini}
+{20700}{}{Å›ciana jaskini}
+{20800}{}{Å›ciana jaskini}
+{20900}{}{Å›ciana jaskini}
+{21000}{}{Å›ciana jaskini}
+{21100}{}{Å›ciana jaskini}
+{21200}{}{Å›ciana jaskini}
+{21300}{}{Å›ciana jaskini}
+{21400}{}{Å›ciana jaskini}
+{21500}{}{Å›ciana jaskini}
+{21600}{}{Å›ciana jaskini}
+{21700}{}{Å›ciana jaskini}
+{21800}{}{Å›ciana jaskini}
+{21900}{}{Å›ciana jaskini}
+{22000}{}{Å›ciana jaskini}
+{22100}{}{Å›ciana jaskini}
+{22200}{}{Å›ciana jaskini}
+{22300}{}{Å›ciana jaskini}
+{22400}{}{Å›ciana jaskini}
+{22500}{}{Å›ciana jaskini}
+{22600}{}{Å›ciana jaskini}
+{22700}{}{Å›ciana jaskini}
+{22800}{}{Å›ciana jaskini}
+{22900}{}{Å›ciana jaskini}
+{23000}{}{Å›ciana jaskini}
+{23100}{}{Å›ciana jaskini}
+{23200}{}{Å›ciana jaskini}
+{23300}{}{Å›ciana jaskini}
+{23400}{}{Å›ciana jaskini}
+{23500}{}{Å›ciana jaskini}
+{23600}{}{Å›ciana jaskini}
+{23700}{}{Å›ciana jaskini}
+{23800}{}{Å›ciana jaskini}
+{23900}{}{Å›ciana jaskini}
+{24000}{}{Å›ciana jaskini}
+{24100}{}{Å›ciana jaskini}
+{24200}{}{Å›ciana jaskini}
+{24300}{}{Å›ciana jaskini}
+{24400}{}{drewniana Å›ciana}
+{24500}{}{drewniana Å›ciana}
+{24600}{}{drewniana Å›ciana}
+{24700}{}{drewniana Å›ciana}
+{24800}{}{drewniana Å›ciana}
+{24900}{}{drewniana Å›ciana}
+{25000}{}{drewniana Å›ciana}
 {25100}{}{}
-{25200}{}{œciana}
-{25300}{}{œciana}
-{25400}{}{œciana}
-{25500}{}{œciana}
-{25600}{}{œciana}
-{25700}{}{œciana}
-{25800}{}{œciana}
-{25900}{}{œciana}
-{26000}{}{œciana}
-{26100}{}{œciana}
-{26200}{}{œciana}
-{26300}{}{œciana}
-{26400}{}{œciana}
-{26500}{}{œciana}
-{26600}{}{œciana}
-{26700}{}{œciana}
-{26800}{}{œciana}
-{26900}{}{œciana}
-{27000}{}{œciana}
-{27100}{}{œciana}
-{27200}{}{œciana}
-{27300}{}{œciana}
-{27400}{}{œciana}
-{27500}{}{œciana}
-{27600}{}{œciana}
-{27700}{}{œciana}
-{27800}{}{œciana}
-{27900}{}{œciana}
+{25200}{}{Å›ciana}
+{25300}{}{Å›ciana}
+{25400}{}{Å›ciana}
+{25500}{}{Å›ciana}
+{25600}{}{Å›ciana}
+{25700}{}{Å›ciana}
+{25800}{}{Å›ciana}
+{25900}{}{Å›ciana}
+{26000}{}{Å›ciana}
+{26100}{}{Å›ciana}
+{26200}{}{Å›ciana}
+{26300}{}{Å›ciana}
+{26400}{}{Å›ciana}
+{26500}{}{Å›ciana}
+{26600}{}{Å›ciana}
+{26700}{}{Å›ciana}
+{26800}{}{Å›ciana}
+{26900}{}{Å›ciana}
+{27000}{}{Å›ciana}
+{27100}{}{Å›ciana}
+{27200}{}{Å›ciana}
+{27300}{}{Å›ciana}
+{27400}{}{Å›ciana}
+{27500}{}{Å›ciana}
+{27600}{}{Å›ciana}
+{27700}{}{Å›ciana}
+{27800}{}{Å›ciana}
+{27900}{}{Å›ciana}
 {28000}{}{}
-{28100}{}{œciana}
-{28200}{}{œciana}
-{28300}{}{œciana}
-{28400}{}{œciana}
-{28500}{}{œciana}
-{28600}{}{œciana}
-{28700}{}{œciana}
-{28800}{}{œciana}
-{28900}{}{œciana}
-{29000}{}{œciana}
-{29100}{}{œciana}
-{29200}{}{œciana}
-{29300}{}{œciana}
-{29400}{}{œciana}
-{29500}{}{œciana}
-{29600}{}{œciana}
-{29700}{}{œciana}
-{29800}{}{œciana}
-{29900}{}{œciana}
-{30000}{}{œciana}
-{30100}{}{œciana}
-{30200}{}{œciana}
-{30300}{}{œciana}
-{30400}{}{œciana}
-{30500}{}{œciana}
-{30600}{}{œciana}
-{30700}{}{œciana}
-{30800}{}{œciana}
-{30900}{}{œciana}
-{31000}{}{œciana}
-{31100}{}{œciana}
-{31200}{}{œciana}
-{31300}{}{œciana}
-{31400}{}{œciana}
-{31500}{}{œciana}
-{31600}{}{œciana}
-{31700}{}{œciana}
-{31800}{}{œciana}
-{31900}{}{œciana}
-{32000}{}{œciana}
-{32100}{}{œciana}
-{32200}{}{œciana}
-{32300}{}{œciana}
-{32400}{}{œciana}
-{32500}{}{œciana}
-{32600}{}{œciana}
-{32700}{}{œciana}
-{32800}{}{œciana}
-{32900}{}{œciana}
-{33000}{}{œciana}
-{33100}{}{œciana}
-{33200}{}{œciana}
-{33300}{}{œciana}
-{33400}{}{œciana}
-{33500}{}{œciana}
-{33600}{}{œciana}
-{33700}{}{œciana}
-{33800}{}{œciana}
-{33900}{}{œciana}
-{34000}{}{œciana}
-{34100}{}{œciana}
-{34200}{}{œciana}
-{34300}{}{œciana}
-{34400}{}{œciana}
-{34500}{}{œciana}
-{34600}{}{œciana}
-{34700}{}{œciana}
-{34800}{}{œciana}
-{34900}{}{œciana}
-{35000}{}{œciana}
-{35100}{}{œciana}
-{35200}{}{œciana}
-{35300}{}{œciana}
-{35400}{}{œciana}
-{35500}{}{œciana}
-{35600}{}{œciana}
-{35700}{}{œciana}
-{35800}{}{œciana}
-{35900}{}{œciana}
-{36000}{}{œciana}
-{36100}{}{œciana}
-{36200}{}{œciana}
-{36300}{}{œciana}
-{36400}{}{œciana}
-{36500}{}{œciana}
-{36600}{}{drewniana œciana}
-{36700}{}{drewniana œciana}
-{36800}{}{œciana}
-{36900}{}{œciana}
-{37000}{}{œciana}
-{37100}{}{œciana}
-{37200}{}{œciana}
-{37300}{}{œciana}
-{37400}{}{œciana}
-{37500}{}{œciana}
-{37600}{}{œciana}
-{37700}{}{œciana}
-{37800}{}{œciana}
-{37900}{}{œciana}
-{38000}{}{œciana}
-{38100}{}{œciana}
-{38200}{}{œciana}
-{38300}{}{œciana}
-{38400}{}{œciana}
-{38500}{}{œciana}
-{38600}{}{œciana}
-{38700}{}{œciana}
-{38800}{}{œciana}
-{38900}{}{œciana}
-{39000}{}{œciana}
-{39100}{}{œciana}
-{39200}{}{œciana}
-{39300}{}{œciana}
-{39400}{}{œciana}
-{39500}{}{œciana}
-{39600}{}{œciana}
-{39700}{}{œciana}
-{39800}{}{œciana}
-{39900}{}{œciana}
-{40000}{}{œciana}
-{40100}{}{œciana}
-{40200}{}{œciana}
-{40300}{}{œciana}
-{40400}{}{œciana}
-{40500}{}{œciana}
-{40600}{}{œciana}
-{40700}{}{œciana}
-{40800}{}{œciana}
-{40900}{}{œciana}
-{41000}{}{œciana}
-{41100}{}{œciana}
-{41200}{}{œciana}
-{41300}{}{œciana}
-{41400}{}{œciana}
-{41500}{}{œciana}
-{41600}{}{œciana}
-{41700}{}{œciana}
-{41800}{}{œciana}
-{41900}{}{drewniana œciana}
-{42000}{}{drewniana œciana}
-{42100}{}{drewniana œciana}
-{42200}{}{œciana}
-{42300}{}{œciana}
-{42400}{}{œciana}
-{42500}{}{œciana}
-{42600}{}{œciana}
-{42700}{}{œciana}
-{42800}{}{œciana}
-{42900}{}{œciana}
-{43000}{}{œciana}
-{43100}{}{œciana}
-{43200}{}{œciana}
-{43300}{}{œciana}
-{43400}{}{œciana}
-{43500}{}{œciana}
-{43600}{}{œciana}
-{43700}{}{œciana}
-{43800}{}{œciana}
-{43900}{}{œciana}
-{44000}{}{œciana}
-{44100}{}{œciana}
-{44200}{}{œciana}
-{44300}{}{œciana}
-{44400}{}{œciana}
-{44500}{}{œciana}
-{44600}{}{œciana}
-{44700}{}{œciana}
-{44800}{}{œciana}
-{44900}{}{œciana}
-{45000}{}{œciana}
-{45100}{}{œciana}
-{45200}{}{œciana}
-{45300}{}{œciana}
-{45400}{}{œciana}
-{45500}{}{œciana}
-{45600}{}{œciana}
-{45700}{}{œciana}
-{45800}{}{œciana}
-{45900}{}{œciana}
-{46000}{}{œciana}
-{46100}{}{œciana}
-{46200}{}{œciana}
-{46300}{}{œciana}
-{46400}{}{œciana}
-{46500}{}{œciana}
-{46600}{}{œciana}
+{28100}{}{Å›ciana}
+{28200}{}{Å›ciana}
+{28300}{}{Å›ciana}
+{28400}{}{Å›ciana}
+{28500}{}{Å›ciana}
+{28600}{}{Å›ciana}
+{28700}{}{Å›ciana}
+{28800}{}{Å›ciana}
+{28900}{}{Å›ciana}
+{29000}{}{Å›ciana}
+{29100}{}{Å›ciana}
+{29200}{}{Å›ciana}
+{29300}{}{Å›ciana}
+{29400}{}{Å›ciana}
+{29500}{}{Å›ciana}
+{29600}{}{Å›ciana}
+{29700}{}{Å›ciana}
+{29800}{}{Å›ciana}
+{29900}{}{Å›ciana}
+{30000}{}{Å›ciana}
+{30100}{}{Å›ciana}
+{30200}{}{Å›ciana}
+{30300}{}{Å›ciana}
+{30400}{}{Å›ciana}
+{30500}{}{Å›ciana}
+{30600}{}{Å›ciana}
+{30700}{}{Å›ciana}
+{30800}{}{Å›ciana}
+{30900}{}{Å›ciana}
+{31000}{}{Å›ciana}
+{31100}{}{Å›ciana}
+{31200}{}{Å›ciana}
+{31300}{}{Å›ciana}
+{31400}{}{Å›ciana}
+{31500}{}{Å›ciana}
+{31600}{}{Å›ciana}
+{31700}{}{Å›ciana}
+{31800}{}{Å›ciana}
+{31900}{}{Å›ciana}
+{32000}{}{Å›ciana}
+{32100}{}{Å›ciana}
+{32200}{}{Å›ciana}
+{32300}{}{Å›ciana}
+{32400}{}{Å›ciana}
+{32500}{}{Å›ciana}
+{32600}{}{Å›ciana}
+{32700}{}{Å›ciana}
+{32800}{}{Å›ciana}
+{32900}{}{Å›ciana}
+{33000}{}{Å›ciana}
+{33100}{}{Å›ciana}
+{33200}{}{Å›ciana}
+{33300}{}{Å›ciana}
+{33400}{}{Å›ciana}
+{33500}{}{Å›ciana}
+{33600}{}{Å›ciana}
+{33700}{}{Å›ciana}
+{33800}{}{Å›ciana}
+{33900}{}{Å›ciana}
+{34000}{}{Å›ciana}
+{34100}{}{Å›ciana}
+{34200}{}{Å›ciana}
+{34300}{}{Å›ciana}
+{34400}{}{Å›ciana}
+{34500}{}{Å›ciana}
+{34600}{}{Å›ciana}
+{34700}{}{Å›ciana}
+{34800}{}{Å›ciana}
+{34900}{}{Å›ciana}
+{35000}{}{Å›ciana}
+{35100}{}{Å›ciana}
+{35200}{}{Å›ciana}
+{35300}{}{Å›ciana}
+{35400}{}{Å›ciana}
+{35500}{}{Å›ciana}
+{35600}{}{Å›ciana}
+{35700}{}{Å›ciana}
+{35800}{}{Å›ciana}
+{35900}{}{Å›ciana}
+{36000}{}{Å›ciana}
+{36100}{}{Å›ciana}
+{36200}{}{Å›ciana}
+{36300}{}{Å›ciana}
+{36400}{}{Å›ciana}
+{36500}{}{Å›ciana}
+{36600}{}{drewniana Å›ciana}
+{36700}{}{drewniana Å›ciana}
+{36800}{}{Å›ciana}
+{36900}{}{Å›ciana}
+{37000}{}{Å›ciana}
+{37100}{}{Å›ciana}
+{37200}{}{Å›ciana}
+{37300}{}{Å›ciana}
+{37400}{}{Å›ciana}
+{37500}{}{Å›ciana}
+{37600}{}{Å›ciana}
+{37700}{}{Å›ciana}
+{37800}{}{Å›ciana}
+{37900}{}{Å›ciana}
+{38000}{}{Å›ciana}
+{38100}{}{Å›ciana}
+{38200}{}{Å›ciana}
+{38300}{}{Å›ciana}
+{38400}{}{Å›ciana}
+{38500}{}{Å›ciana}
+{38600}{}{Å›ciana}
+{38700}{}{Å›ciana}
+{38800}{}{Å›ciana}
+{38900}{}{Å›ciana}
+{39000}{}{Å›ciana}
+{39100}{}{Å›ciana}
+{39200}{}{Å›ciana}
+{39300}{}{Å›ciana}
+{39400}{}{Å›ciana}
+{39500}{}{Å›ciana}
+{39600}{}{Å›ciana}
+{39700}{}{Å›ciana}
+{39800}{}{Å›ciana}
+{39900}{}{Å›ciana}
+{40000}{}{Å›ciana}
+{40100}{}{Å›ciana}
+{40200}{}{Å›ciana}
+{40300}{}{Å›ciana}
+{40400}{}{Å›ciana}
+{40500}{}{Å›ciana}
+{40600}{}{Å›ciana}
+{40700}{}{Å›ciana}
+{40800}{}{Å›ciana}
+{40900}{}{Å›ciana}
+{41000}{}{Å›ciana}
+{41100}{}{Å›ciana}
+{41200}{}{Å›ciana}
+{41300}{}{Å›ciana}
+{41400}{}{Å›ciana}
+{41500}{}{Å›ciana}
+{41600}{}{Å›ciana}
+{41700}{}{Å›ciana}
+{41800}{}{Å›ciana}
+{41900}{}{drewniana Å›ciana}
+{42000}{}{drewniana Å›ciana}
+{42100}{}{drewniana Å›ciana}
+{42200}{}{Å›ciana}
+{42300}{}{Å›ciana}
+{42400}{}{Å›ciana}
+{42500}{}{Å›ciana}
+{42600}{}{Å›ciana}
+{42700}{}{Å›ciana}
+{42800}{}{Å›ciana}
+{42900}{}{Å›ciana}
+{43000}{}{Å›ciana}
+{43100}{}{Å›ciana}
+{43200}{}{Å›ciana}
+{43300}{}{Å›ciana}
+{43400}{}{Å›ciana}
+{43500}{}{Å›ciana}
+{43600}{}{Å›ciana}
+{43700}{}{Å›ciana}
+{43800}{}{Å›ciana}
+{43900}{}{Å›ciana}
+{44000}{}{Å›ciana}
+{44100}{}{Å›ciana}
+{44200}{}{Å›ciana}
+{44300}{}{Å›ciana}
+{44400}{}{Å›ciana}
+{44500}{}{Å›ciana}
+{44600}{}{Å›ciana}
+{44700}{}{Å›ciana}
+{44800}{}{Å›ciana}
+{44900}{}{Å›ciana}
+{45000}{}{Å›ciana}
+{45100}{}{Å›ciana}
+{45200}{}{Å›ciana}
+{45300}{}{Å›ciana}
+{45400}{}{Å›ciana}
+{45500}{}{Å›ciana}
+{45600}{}{Å›ciana}
+{45700}{}{Å›ciana}
+{45800}{}{Å›ciana}
+{45900}{}{Å›ciana}
+{46000}{}{Å›ciana}
+{46100}{}{Å›ciana}
+{46200}{}{Å›ciana}
+{46300}{}{Å›ciana}
+{46400}{}{Å›ciana}
+{46500}{}{Å›ciana}
+{46600}{}{Å›ciana}
 {46700}{}{bar}
 {46800}{}{bar}
 {46900}{}{bar}
@@ -498,148 +498,148 @@
 {49300}{}{framuga}
 {49400}{}{framuga}
 {49500}{}{framuga}
-{49600}{}{œciana}
-{49700}{}{œciana}
-{49800}{}{œciana}
-{49900}{}{œciana}
-{50000}{}{œciana}
-{50100}{}{œciana}
-{50200}{}{œciana}
-{50300}{}{œciana}
-{50400}{}{œciana}
-{50500}{}{œciana}
-{50600}{}{œciana}
-{50700}{}{œciana}
-{50800}{}{œciana}
-{50900}{}{œciana}
-{51000}{}{œciana}
-{51100}{}{œciana}
-{51200}{}{œciana}
-{51300}{}{œciana}
-{51400}{}{œciana}
-{51500}{}{œciana}
-{51600}{}{œciana}
-{51700}{}{œciana}
-{51800}{}{œciana}
-{51900}{}{œciana}
-{52000}{}{œciana}
-{52100}{}{œciana}
-{52200}{}{œciana}
-{52300}{}{œciana}
-{52400}{}{œciana}
-{52500}{}{œciana}
-{52600}{}{œciana}
-{52700}{}{œciana}
-{52800}{}{œciana}
-{52900}{}{œciana}
-{53000}{}{œciana}
-{53100}{}{œciana}
-{53200}{}{œciana}
-{53300}{}{œciana}
-{53400}{}{œciana}
-{53500}{}{œciana}
-{53600}{}{œciana}
-{53700}{}{œciana}
-{53800}{}{œciana}
-{53900}{}{œciana}
-{54000}{}{œciana}
-{54100}{}{œciana}
-{54200}{}{œciana}
-{54300}{}{œciana}
-{54400}{}{œciana}
-{54500}{}{œciana}
-{54600}{}{œciana}
-{54700}{}{œciana}
-{54800}{}{œciana}
-{54900}{}{œciana}
-{55000}{}{œciana}
-{55100}{}{œciana}
-{55200}{}{œciana}
-{55300}{}{œciana}
-{55400}{}{œciana}
-{55500}{}{œciana}
-{55600}{}{œciana}
-{55700}{}{œciana}
-{55800}{}{œciana}
-{55900}{}{œciana}
-{56000}{}{œciana}
-{56100}{}{œciana}
-{56200}{}{przejœcie}
-{56300}{}{przejœcie}
+{49600}{}{Å›ciana}
+{49700}{}{Å›ciana}
+{49800}{}{Å›ciana}
+{49900}{}{Å›ciana}
+{50000}{}{Å›ciana}
+{50100}{}{Å›ciana}
+{50200}{}{Å›ciana}
+{50300}{}{Å›ciana}
+{50400}{}{Å›ciana}
+{50500}{}{Å›ciana}
+{50600}{}{Å›ciana}
+{50700}{}{Å›ciana}
+{50800}{}{Å›ciana}
+{50900}{}{Å›ciana}
+{51000}{}{Å›ciana}
+{51100}{}{Å›ciana}
+{51200}{}{Å›ciana}
+{51300}{}{Å›ciana}
+{51400}{}{Å›ciana}
+{51500}{}{Å›ciana}
+{51600}{}{Å›ciana}
+{51700}{}{Å›ciana}
+{51800}{}{Å›ciana}
+{51900}{}{Å›ciana}
+{52000}{}{Å›ciana}
+{52100}{}{Å›ciana}
+{52200}{}{Å›ciana}
+{52300}{}{Å›ciana}
+{52400}{}{Å›ciana}
+{52500}{}{Å›ciana}
+{52600}{}{Å›ciana}
+{52700}{}{Å›ciana}
+{52800}{}{Å›ciana}
+{52900}{}{Å›ciana}
+{53000}{}{Å›ciana}
+{53100}{}{Å›ciana}
+{53200}{}{Å›ciana}
+{53300}{}{Å›ciana}
+{53400}{}{Å›ciana}
+{53500}{}{Å›ciana}
+{53600}{}{Å›ciana}
+{53700}{}{Å›ciana}
+{53800}{}{Å›ciana}
+{53900}{}{Å›ciana}
+{54000}{}{Å›ciana}
+{54100}{}{Å›ciana}
+{54200}{}{Å›ciana}
+{54300}{}{Å›ciana}
+{54400}{}{Å›ciana}
+{54500}{}{Å›ciana}
+{54600}{}{Å›ciana}
+{54700}{}{Å›ciana}
+{54800}{}{Å›ciana}
+{54900}{}{Å›ciana}
+{55000}{}{Å›ciana}
+{55100}{}{Å›ciana}
+{55200}{}{Å›ciana}
+{55300}{}{Å›ciana}
+{55400}{}{Å›ciana}
+{55500}{}{Å›ciana}
+{55600}{}{Å›ciana}
+{55700}{}{Å›ciana}
+{55800}{}{Å›ciana}
+{55900}{}{Å›ciana}
+{56000}{}{Å›ciana}
+{56100}{}{Å›ciana}
+{56200}{}{przejÅ›cie}
+{56300}{}{przejÅ›cie}
 {56400}{}{okno}
-{56500}{}{œciana}
-{56600}{}{œciana}
-{56700}{}{œciana}
-{56800}{}{œciana}
-{56900}{}{œciana}
-{57000}{}{œciana}
-{57100}{}{œciana}
-{57200}{}{œciana}
-{57300}{}{œciana}
-{57400}{}{œciana}
-{57500}{}{œciana}
-{57600}{}{œciana}
-{57700}{}{œciana}
-{57800}{}{œciana}
-{57900}{}{œciana}
-{58000}{}{przejœcie}
-{58100}{}{œciana}
-{58200}{}{przejœcie}
-{58300}{}{przejœcie}
+{56500}{}{Å›ciana}
+{56600}{}{Å›ciana}
+{56700}{}{Å›ciana}
+{56800}{}{Å›ciana}
+{56900}{}{Å›ciana}
+{57000}{}{Å›ciana}
+{57100}{}{Å›ciana}
+{57200}{}{Å›ciana}
+{57300}{}{Å›ciana}
+{57400}{}{Å›ciana}
+{57500}{}{Å›ciana}
+{57600}{}{Å›ciana}
+{57700}{}{Å›ciana}
+{57800}{}{Å›ciana}
+{57900}{}{Å›ciana}
+{58000}{}{przejÅ›cie}
+{58100}{}{Å›ciana}
+{58200}{}{przejÅ›cie}
+{58300}{}{przejÅ›cie}
 {58400}{}{okno}
-{58500}{}{œciana}
-{58600}{}{œciana}
-{58700}{}{œciana}
-{58800}{}{œciana}
-{58900}{}{œciana}
-{59000}{}{œciana}
-{59100}{}{œciana}
-{59200}{}{œciana}
-{59300}{}{œciana}
-{59400}{}{œciana}
-{59500}{}{œciana}
-{59600}{}{œciana}
-{59700}{}{œciana}
-{59800}{}{œciana}
-{59900}{}{œciana}
-{60000}{}{œciana}
-{60100}{}{œciana}
-{60200}{}{œciana}
-{60300}{}{œciana}
-{60400}{}{œciana}
-{60500}{}{œciana}
-{60600}{}{œciana}
-{60700}{}{œciana}
-{60800}{}{œciana}
-{60900}{}{œciana}
-{61000}{}{œciana}
-{61100}{}{œciana}
-{61200}{}{œciana}
-{61300}{}{œciana}
-{61400}{}{œciana}
-{61500}{}{œciana}
-{61600}{}{œciana}
-{61700}{}{œciana}
-{61800}{}{œciana}
-{61900}{}{œciana}
-{62000}{}{œciana}
-{62100}{}{œciana}
-{62200}{}{œciana s.t.}
-{62300}{}{œciana}
-{62400}{}{œciana}
-{62500}{}{œciana}
-{62600}{}{œciana}
-{62700}{}{œciana}
-{62800}{}{œciana}
-{62900}{}{œciana}
-{63000}{}{œciana}
-{63100}{}{œciana}
-{63200}{}{œciana}
-{63300}{}{œciana}
-{63400}{}{œciana}
-{63500}{}{œciana}
-{63600}{}{œciana}
-{63700}{}{œciana}
+{58500}{}{Å›ciana}
+{58600}{}{Å›ciana}
+{58700}{}{Å›ciana}
+{58800}{}{Å›ciana}
+{58900}{}{Å›ciana}
+{59000}{}{Å›ciana}
+{59100}{}{Å›ciana}
+{59200}{}{Å›ciana}
+{59300}{}{Å›ciana}
+{59400}{}{Å›ciana}
+{59500}{}{Å›ciana}
+{59600}{}{Å›ciana}
+{59700}{}{Å›ciana}
+{59800}{}{Å›ciana}
+{59900}{}{Å›ciana}
+{60000}{}{Å›ciana}
+{60100}{}{Å›ciana}
+{60200}{}{Å›ciana}
+{60300}{}{Å›ciana}
+{60400}{}{Å›ciana}
+{60500}{}{Å›ciana}
+{60600}{}{Å›ciana}
+{60700}{}{Å›ciana}
+{60800}{}{Å›ciana}
+{60900}{}{Å›ciana}
+{61000}{}{Å›ciana}
+{61100}{}{Å›ciana}
+{61200}{}{Å›ciana}
+{61300}{}{Å›ciana}
+{61400}{}{Å›ciana}
+{61500}{}{Å›ciana}
+{61600}{}{Å›ciana}
+{61700}{}{Å›ciana}
+{61800}{}{Å›ciana}
+{61900}{}{Å›ciana}
+{62000}{}{Å›ciana}
+{62100}{}{Å›ciana}
+{62200}{}{Å›ciana s.t.}
+{62300}{}{Å›ciana}
+{62400}{}{Å›ciana}
+{62500}{}{Å›ciana}
+{62600}{}{Å›ciana}
+{62700}{}{Å›ciana}
+{62800}{}{Å›ciana}
+{62900}{}{Å›ciana}
+{63000}{}{Å›ciana}
+{63100}{}{Å›ciana}
+{63200}{}{Å›ciana}
+{63300}{}{Å›ciana}
+{63400}{}{Å›ciana}
+{63500}{}{Å›ciana}
+{63600}{}{Å›ciana}
+{63700}{}{Å›ciana}
 {63800}{}{okno}
 {63900}{}{okno}
 {64000}{}{okno}
@@ -648,160 +648,160 @@
 {64300}{}{okno}
 {64400}{}{okno}
 {64500}{}{okno}
-{64600}{}{œciana}
-{64700}{}{œciana}
-{64800}{}{œciana}
-{64900}{}{œciana}
-{65000}{}{œciana}
-{65100}{}{œciana}
-{65200}{}{œciana}
-{65300}{}{œciana}
-{65400}{}{œciana}
-{65500}{}{œciana}
-{65600}{}{œciana}
-{65700}{}{œciana}
-{65800}{}{œciana}
-{65900}{}{œciana}
-{66000}{}{przejœcie}
-{66100}{}{przejœcie}
-{66200}{}{przejœcie}
-{66300}{}{przejœcie}
+{64600}{}{Å›ciana}
+{64700}{}{Å›ciana}
+{64800}{}{Å›ciana}
+{64900}{}{Å›ciana}
+{65000}{}{Å›ciana}
+{65100}{}{Å›ciana}
+{65200}{}{Å›ciana}
+{65300}{}{Å›ciana}
+{65400}{}{Å›ciana}
+{65500}{}{Å›ciana}
+{65600}{}{Å›ciana}
+{65700}{}{Å›ciana}
+{65800}{}{Å›ciana}
+{65900}{}{Å›ciana}
+{66000}{}{przejÅ›cie}
+{66100}{}{przejÅ›cie}
+{66200}{}{przejÅ›cie}
+{66300}{}{przejÅ›cie}
 {66400}{}{okno}
 {66500}{}{okno}
-{66600}{}{œciana}
-{66700}{}{œciana}
-{66800}{}{œciana}
-{66900}{}{œciana}
-{67000}{}{œciana}
-{67100}{}{œciana}
-{67200}{}{œciana}
-{67300}{}{œciana}
-{67400}{}{œciana}
-{67500}{}{œciana}
-{67600}{}{œciana}
-{67700}{}{œciana}
-{67800}{}{œciana}
-{67900}{}{œciana}
-{68000}{}{œciana}
-{68100}{}{œciana}
-{68200}{}{œciana}
-{68300}{}{œciana}
-{68400}{}{œciana}
-{68500}{}{œciana}
-{68600}{}{œciana}
-{68700}{}{œciana}
-{68800}{}{œciana}
-{68900}{}{œciana}
-{69000}{}{œciana}
-{69100}{}{œciana}
-{69200}{}{œciana}
-{69300}{}{œciana}
-{69400}{}{œciana}
-{69500}{}{œciana}
-{69600}{}{œciana}
-{69700}{}{œciana}
-{69800}{}{œciana}
-{69900}{}{œciana}
-{70000}{}{œciana}
-{70100}{}{przejœcie}
-{70200}{}{œciana}
-{70300}{}{przejœcie}
-{70400}{}{przejœcie}
-{70500}{}{przejœcie}
-{70600}{}{œciana}
-{70700}{}{przejœcie}
-{70800}{}{przejœcie}
-{70900}{}{przejœcie}
-{71000}{}{przejœcie}
-{71100}{}{œciana}
-{71200}{}{œciana}
-{71300}{}{œciana}
-{71400}{}{œciana}
-{71500}{}{œciana}
-{71600}{}{œciana}
-{71700}{}{œciana}
-{71800}{}{œciana}
-{71900}{}{œciana}
-{72000}{}{œciana}
-{72100}{}{œciana}
-{72200}{}{œciana}
-{72300}{}{œciana}
-{72400}{}{œciana}
-{72500}{}{œciana}
-{72600}{}{œciana}
-{72700}{}{œciana}
-{72800}{}{drewniana œciana}
-{72900}{}{œciana}
-{73000}{}{œciana}
-{73100}{}{œciana}
-{73200}{}{œciana}
-{73300}{}{œciana}
-{73400}{}{œciana}
-{73500}{}{œciana}
-{73600}{}{œciana}
-{73700}{}{œciana}
-{73800}{}{œciana}
-{73900}{}{œciana}
-{74000}{}{œciana}
-{74100}{}{œciana}
-{74200}{}{przejœcie}
-{74300}{}{przejœcie}
-{74400}{}{przejœcie}
-{74500}{}{przejœcie}
-{74600}{}{œciana}
-{74700}{}{przejœcie}
-{74800}{}{œciana}
-{74900}{}{œciana}
-{75000}{}{œciana}
-{75100}{}{œciana}
-{75200}{}{œciana}
-{75300}{}{œciana}
-{75400}{}{œciana}
-{75500}{}{œciana}
-{75600}{}{œciana}
-{75700}{}{œciana}
-{75800}{}{œciana}
-{75900}{}{œciana}
-{76000}{}{œciana}
-{76100}{}{œciana}
-{76200}{}{œciana}
-{76300}{}{œciana}
-{76400}{}{œciana}
-{76500}{}{œciana}
-{76600}{}{œciana}
-{76700}{}{œciana}
-{76800}{}{œciana}
-{76900}{}{œciana}
-{77000}{}{œciana}
-{77100}{}{œciana}
-{77200}{}{œciana}
-{77300}{}{œciana}
-{77400}{}{œciana}
-{77500}{}{œciana}
-{77600}{}{œciana}
-{77700}{}{œciana}
-{77800}{}{œciana}
-{77900}{}{œciana}
-{78000}{}{œciana}
-{78100}{}{œciana}
-{78200}{}{œciana}
-{78300}{}{œciana}
-{78400}{}{œciana}
-{78500}{}{œciana}
-{78600}{}{œciana}
-{78700}{}{œciana}
-{78800}{}{œciana}
-{78900}{}{œciana}
-{79000}{}{przejœcie}
-{79100}{}{przejœcie}
-{79200}{}{przejœcie}
-{79300}{}{przejœcie}
-{79400}{}{przejœcie}
-{79500}{}{przejœcie}
-{79600}{}{przejœcie}
-{79700}{}{przejœcie}
-{79800}{}{przejœcie}
-{79900}{}{przejœcie}
+{66600}{}{Å›ciana}
+{66700}{}{Å›ciana}
+{66800}{}{Å›ciana}
+{66900}{}{Å›ciana}
+{67000}{}{Å›ciana}
+{67100}{}{Å›ciana}
+{67200}{}{Å›ciana}
+{67300}{}{Å›ciana}
+{67400}{}{Å›ciana}
+{67500}{}{Å›ciana}
+{67600}{}{Å›ciana}
+{67700}{}{Å›ciana}
+{67800}{}{Å›ciana}
+{67900}{}{Å›ciana}
+{68000}{}{Å›ciana}
+{68100}{}{Å›ciana}
+{68200}{}{Å›ciana}
+{68300}{}{Å›ciana}
+{68400}{}{Å›ciana}
+{68500}{}{Å›ciana}
+{68600}{}{Å›ciana}
+{68700}{}{Å›ciana}
+{68800}{}{Å›ciana}
+{68900}{}{Å›ciana}
+{69000}{}{Å›ciana}
+{69100}{}{Å›ciana}
+{69200}{}{Å›ciana}
+{69300}{}{Å›ciana}
+{69400}{}{Å›ciana}
+{69500}{}{Å›ciana}
+{69600}{}{Å›ciana}
+{69700}{}{Å›ciana}
+{69800}{}{Å›ciana}
+{69900}{}{Å›ciana}
+{70000}{}{Å›ciana}
+{70100}{}{przejÅ›cie}
+{70200}{}{Å›ciana}
+{70300}{}{przejÅ›cie}
+{70400}{}{przejÅ›cie}
+{70500}{}{przejÅ›cie}
+{70600}{}{Å›ciana}
+{70700}{}{przejÅ›cie}
+{70800}{}{przejÅ›cie}
+{70900}{}{przejÅ›cie}
+{71000}{}{przejÅ›cie}
+{71100}{}{Å›ciana}
+{71200}{}{Å›ciana}
+{71300}{}{Å›ciana}
+{71400}{}{Å›ciana}
+{71500}{}{Å›ciana}
+{71600}{}{Å›ciana}
+{71700}{}{Å›ciana}
+{71800}{}{Å›ciana}
+{71900}{}{Å›ciana}
+{72000}{}{Å›ciana}
+{72100}{}{Å›ciana}
+{72200}{}{Å›ciana}
+{72300}{}{Å›ciana}
+{72400}{}{Å›ciana}
+{72500}{}{Å›ciana}
+{72600}{}{Å›ciana}
+{72700}{}{Å›ciana}
+{72800}{}{drewniana Å›ciana}
+{72900}{}{Å›ciana}
+{73000}{}{Å›ciana}
+{73100}{}{Å›ciana}
+{73200}{}{Å›ciana}
+{73300}{}{Å›ciana}
+{73400}{}{Å›ciana}
+{73500}{}{Å›ciana}
+{73600}{}{Å›ciana}
+{73700}{}{Å›ciana}
+{73800}{}{Å›ciana}
+{73900}{}{Å›ciana}
+{74000}{}{Å›ciana}
+{74100}{}{Å›ciana}
+{74200}{}{przejÅ›cie}
+{74300}{}{przejÅ›cie}
+{74400}{}{przejÅ›cie}
+{74500}{}{przejÅ›cie}
+{74600}{}{Å›ciana}
+{74700}{}{przejÅ›cie}
+{74800}{}{Å›ciana}
+{74900}{}{Å›ciana}
+{75000}{}{Å›ciana}
+{75100}{}{Å›ciana}
+{75200}{}{Å›ciana}
+{75300}{}{Å›ciana}
+{75400}{}{Å›ciana}
+{75500}{}{Å›ciana}
+{75600}{}{Å›ciana}
+{75700}{}{Å›ciana}
+{75800}{}{Å›ciana}
+{75900}{}{Å›ciana}
+{76000}{}{Å›ciana}
+{76100}{}{Å›ciana}
+{76200}{}{Å›ciana}
+{76300}{}{Å›ciana}
+{76400}{}{Å›ciana}
+{76500}{}{Å›ciana}
+{76600}{}{Å›ciana}
+{76700}{}{Å›ciana}
+{76800}{}{Å›ciana}
+{76900}{}{Å›ciana}
+{77000}{}{Å›ciana}
+{77100}{}{Å›ciana}
+{77200}{}{Å›ciana}
+{77300}{}{Å›ciana}
+{77400}{}{Å›ciana}
+{77500}{}{Å›ciana}
+{77600}{}{Å›ciana}
+{77700}{}{Å›ciana}
+{77800}{}{Å›ciana}
+{77900}{}{Å›ciana}
+{78000}{}{Å›ciana}
+{78100}{}{Å›ciana}
+{78200}{}{Å›ciana}
+{78300}{}{Å›ciana}
+{78400}{}{Å›ciana}
+{78500}{}{Å›ciana}
+{78600}{}{Å›ciana}
+{78700}{}{Å›ciana}
+{78800}{}{Å›ciana}
+{78900}{}{Å›ciana}
+{79000}{}{przejÅ›cie}
+{79100}{}{przejÅ›cie}
+{79200}{}{przejÅ›cie}
+{79300}{}{przejÅ›cie}
+{79400}{}{przejÅ›cie}
+{79500}{}{przejÅ›cie}
+{79600}{}{przejÅ›cie}
+{79700}{}{przejÅ›cie}
+{79800}{}{przejÅ›cie}
+{79900}{}{przejÅ›cie}
 {80000}{}{ogrodzenie}
 {80100}{}{ogrodzenie}
 {80200}{}{ogrodzenie}
@@ -826,141 +826,141 @@
 {82100}{}{ogrodzenie}
 {82200}{}{ogrodzenie}
 {82300}{}{ogrodzenie}
-{82400}{}{œciana}
-{82500}{}{œciana}
-{82600}{}{sklepione przejœcie}
-{82700}{}{sklepione przejœcie}
-{82800}{}{sklepione przejœcie}
-{82900}{}{sklepione przejœcie}
-{83000}{}{sklepione przejœcie}
-{83100}{}{sklepione przejœcie}
-{83200}{}{sklepione przejœcie}
-{83300}{}{sklepione przejœcie}
-{83400}{}{œciana}
-{83500}{}{œciana}
-{83600}{}{œciana}
-{83700}{}{œciana}
-{83800}{}{œciana}
+{82400}{}{Å›ciana}
+{82500}{}{Å›ciana}
+{82600}{}{sklepione przejÅ›cie}
+{82700}{}{sklepione przejÅ›cie}
+{82800}{}{sklepione przejÅ›cie}
+{82900}{}{sklepione przejÅ›cie}
+{83000}{}{sklepione przejÅ›cie}
+{83100}{}{sklepione przejÅ›cie}
+{83200}{}{sklepione przejÅ›cie}
+{83300}{}{sklepione przejÅ›cie}
+{83400}{}{Å›ciana}
+{83500}{}{Å›ciana}
+{83600}{}{Å›ciana}
+{83700}{}{Å›ciana}
+{83800}{}{Å›ciana}
 {83900}{}{okno}
 {84000}{}{okno}
 {84100}{}{okno}
 {84200}{}{okno}
-{84300}{}{œciana}
+{84300}{}{Å›ciana}
 {84400}{}{filar}
-{84500}{}{przejœcie}
-{84600}{}{przejœcie}
-{84700}{}{œciana}
-{84800}{}{œciana}
-{84900}{}{œciana}
-{85000}{}{œciana}
-{85100}{}{œciana}
-{85200}{}{przejœcie}
-{85300}{}{przejœcie}
-{85400}{}{przejœcie}
-{85500}{}{przejœcie}
-{85600}{}{œciana}
-{85700}{}{œciana}
-{85800}{}{œciana}
-{85900}{}{œciana}
-{86000}{}{przejœcie}
-{86100}{}{przejœcie}
-{86200}{}{œciana}
-{86300}{}{œciana}
-{86400}{}{œciana}
-{86500}{}{œciana}
-{86600}{}{œciana}
-{86700}{}{œciana}
-{86800}{}{œciana}
-{86900}{}{przejœcie}
-{87000}{}{przejœcie}
-{87100}{}{œciana}
-{87200}{}{œciana}
-{87300}{}{przejœcie}
-{87400}{}{przejœcie}
-{87500}{}{œciana}
-{87600}{}{œciana}
-{87700}{}{œciana}
-{87800}{}{œciana}
-{87900}{}{œciana}
-{88000}{}{œciana}
-{88100}{}{œciana}
-{88101}{}{œciana}
-{88200}{}{œciana}
-{88201}{}{œciana}
-{88300}{}{œciana}
-{88400}{}{œciana}
-{88500}{}{œciana}
-{88600}{}{œciana}
-{88700}{}{œciana}
-{88800}{}{œciana}
-{88900}{}{œciana}
-{89000}{}{œciana}
-{89100}{}{œciana}
-{89200}{}{œciana}
-{89300}{}{œciana}
-{89400}{}{œciana}
-{89500}{}{œciana}
-{89600}{}{œciana}
-{89700}{}{œciana}
-{89800}{}{œciana}
-{89900}{}{œciana}
-{90000}{}{œciana}
-{90100}{}{œciana}
-{90200}{}{œciana}
-{90300}{}{œciana}
-{90400}{}{œciana}
-{90500}{}{œciana}
-{90600}{}{œciana}
-{90700}{}{œciana}
-{90800}{}{œciana}
-{90900}{}{œciana}
-{91000}{}{œciana}
-{91100}{}{œciana}
-{91200}{}{œciana}
-{91300}{}{œciana}
-{91400}{}{œciana}
-{91500}{}{œciana}
-{91600}{}{œciana}
-{91700}{}{œciana}
-{91800}{}{œciana}
-{91900}{}{œciana}
-{92000}{}{œciana}
-{92100}{}{œciana}
-{92200}{}{œciana}
-{92300}{}{œciana}
-{92400}{}{œciana}
-{92500}{}{œciana}
-{92600}{}{œciana}
-{92700}{}{œciana}
-{92800}{}{œciana}
-{92900}{}{œciana}
-{93000}{}{œciana}
-{93100}{}{œciana}
-{93200}{}{œciana}
-{93300}{}{œciana}
-{93400}{}{œciana}
-{93500}{}{œciana}
-{93600}{}{œciana}
-{93700}{}{œciana}
-{93800}{}{œciana}
-{93900}{}{œciana}
-{94000}{}{œciana}
-{94100}{}{œciana}
-{94200}{}{œciana}
-{94300}{}{œciana}
-{94400}{}{œciana}
-{94500}{}{œciana}
-{94600}{}{œciana}
-{94700}{}{œciana}
-{94800}{}{œciana}
-{94900}{}{œciana}
-{95000}{}{œciana}
-{95100}{}{œciana}
-{95200}{}{œciana}
-{95300}{}{œciana}
-{95400}{}{œciana}
-{95500}{}{œciana}
-{95600}{}{œciana}
+{84500}{}{przejÅ›cie}
+{84600}{}{przejÅ›cie}
+{84700}{}{Å›ciana}
+{84800}{}{Å›ciana}
+{84900}{}{Å›ciana}
+{85000}{}{Å›ciana}
+{85100}{}{Å›ciana}
+{85200}{}{przejÅ›cie}
+{85300}{}{przejÅ›cie}
+{85400}{}{przejÅ›cie}
+{85500}{}{przejÅ›cie}
+{85600}{}{Å›ciana}
+{85700}{}{Å›ciana}
+{85800}{}{Å›ciana}
+{85900}{}{Å›ciana}
+{86000}{}{przejÅ›cie}
+{86100}{}{przejÅ›cie}
+{86200}{}{Å›ciana}
+{86300}{}{Å›ciana}
+{86400}{}{Å›ciana}
+{86500}{}{Å›ciana}
+{86600}{}{Å›ciana}
+{86700}{}{Å›ciana}
+{86800}{}{Å›ciana}
+{86900}{}{przejÅ›cie}
+{87000}{}{przejÅ›cie}
+{87100}{}{Å›ciana}
+{87200}{}{Å›ciana}
+{87300}{}{przejÅ›cie}
+{87400}{}{przejÅ›cie}
+{87500}{}{Å›ciana}
+{87600}{}{Å›ciana}
+{87700}{}{Å›ciana}
+{87800}{}{Å›ciana}
+{87900}{}{Å›ciana}
+{88000}{}{Å›ciana}
+{88100}{}{Å›ciana}
+{88101}{}{Å›ciana}
+{88200}{}{Å›ciana}
+{88201}{}{Å›ciana}
+{88300}{}{Å›ciana}
+{88400}{}{Å›ciana}
+{88500}{}{Å›ciana}
+{88600}{}{Å›ciana}
+{88700}{}{Å›ciana}
+{88800}{}{Å›ciana}
+{88900}{}{Å›ciana}
+{89000}{}{Å›ciana}
+{89100}{}{Å›ciana}
+{89200}{}{Å›ciana}
+{89300}{}{Å›ciana}
+{89400}{}{Å›ciana}
+{89500}{}{Å›ciana}
+{89600}{}{Å›ciana}
+{89700}{}{Å›ciana}
+{89800}{}{Å›ciana}
+{89900}{}{Å›ciana}
+{90000}{}{Å›ciana}
+{90100}{}{Å›ciana}
+{90200}{}{Å›ciana}
+{90300}{}{Å›ciana}
+{90400}{}{Å›ciana}
+{90500}{}{Å›ciana}
+{90600}{}{Å›ciana}
+{90700}{}{Å›ciana}
+{90800}{}{Å›ciana}
+{90900}{}{Å›ciana}
+{91000}{}{Å›ciana}
+{91100}{}{Å›ciana}
+{91200}{}{Å›ciana}
+{91300}{}{Å›ciana}
+{91400}{}{Å›ciana}
+{91500}{}{Å›ciana}
+{91600}{}{Å›ciana}
+{91700}{}{Å›ciana}
+{91800}{}{Å›ciana}
+{91900}{}{Å›ciana}
+{92000}{}{Å›ciana}
+{92100}{}{Å›ciana}
+{92200}{}{Å›ciana}
+{92300}{}{Å›ciana}
+{92400}{}{Å›ciana}
+{92500}{}{Å›ciana}
+{92600}{}{Å›ciana}
+{92700}{}{Å›ciana}
+{92800}{}{Å›ciana}
+{92900}{}{Å›ciana}
+{93000}{}{Å›ciana}
+{93100}{}{Å›ciana}
+{93200}{}{Å›ciana}
+{93300}{}{Å›ciana}
+{93400}{}{Å›ciana}
+{93500}{}{Å›ciana}
+{93600}{}{Å›ciana}
+{93700}{}{Å›ciana}
+{93800}{}{Å›ciana}
+{93900}{}{Å›ciana}
+{94000}{}{Å›ciana}
+{94100}{}{Å›ciana}
+{94200}{}{Å›ciana}
+{94300}{}{Å›ciana}
+{94400}{}{Å›ciana}
+{94500}{}{Å›ciana}
+{94600}{}{Å›ciana}
+{94700}{}{Å›ciana}
+{94800}{}{Å›ciana}
+{94900}{}{Å›ciana}
+{95000}{}{Å›ciana}
+{95100}{}{Å›ciana}
+{95200}{}{Å›ciana}
+{95300}{}{Å›ciana}
+{95400}{}{Å›ciana}
+{95500}{}{Å›ciana}
+{95600}{}{Å›ciana}
 {95700}{}{ogrodzenie}
 {95800}{}{ogrodzenie}
 {95900}{}{ogrodzenie}
@@ -981,237 +981,237 @@
 {97400}{}{ogrodzenie}
 {97500}{}{ogrodzenie}
 {97600}{}{ogrodzenie}
-{97700}{}{ciê¿arówka}
-{97800}{}{ciê¿arówka}
-{97900}{}{ciê¿arówka}
-{98000}{}{ciê¿arówka}
-{98100}{}{ciê¿arówka}
-{98200}{}{ciê¿arówka}
-{98300}{}{ciê¿arówka}
-{98400}{}{ciê¿arówka}
-{98500}{}{ciê¿arówka}
-{98600}{}{ciê¿arówka}
-{98700}{}{ciê¿arówka}
-{98800}{}{œciana jaskini}
-{98900}{}{œciana}
-{99000}{}{œciana}
-{99100}{}{œciana}
-{99200}{}{œciana}
-{99300}{}{œciana}
-{99400}{}{œciana}
-{99500}{}{œciana}
-{99600}{}{œciana}
-{99700}{}{œciana}
-{99800}{}{œciana}
-{99900}{}{œciana}
-{100000}{}{œciana}
-{100100}{}{œciana}
-{100200}{}{œciana}
-{100300}{}{œciana}
-{100400}{}{œciana}
-{100500}{}{œciana}
-{100600}{}{œciana}
-{100700}{}{œciana}
-{100800}{}{œciana}
-{100900}{}{œciana}
-{101000}{}{œciana}
-{101100}{}{œciana}
-{101200}{}{œciana}
-{101300}{}{œciana}
-{101400}{}{œciana}
-{101500}{}{œciana}
-{101600}{}{œciana}
-{101700}{}{œciana}
-{101800}{}{przejœcie}
-{101900}{}{œciana}
-{102000}{}{przejœcie}
-{102100}{}{przejœcie}
-{102200}{}{przejœcie}
-{102300}{}{œciana}
-{102400}{}{œciana}
-{102500}{}{œciana}
-{102600}{}{œciana}
-{102700}{}{œciana}
-{102800}{}{œciana}
-{102900}{}{œciana}
-{103000}{}{œciana}
-{103100}{}{œciana}
-{103200}{}{œciana}
-{103300}{}{przejœcie}
-{103400}{}{przejœcie}
-{103500}{}{przejœcie}
-{103600}{}{przejœcie}
-{103700}{}{przejœcie}
-{103800}{}{przejœcie}
-{103900}{}{œciana}
-{104000}{}{œciana}
-{104100}{}{œciana}
-{104200}{}{œciana}
-{104300}{}{œciana}
-{104400}{}{œciana}
-{104500}{}{œciana}
-{104600}{}{œciana}
-{104700}{}{œciana}
-{104800}{}{œciana}
-{104900}{}{œciana}
-{105000}{}{œciana}
-{105100}{}{œciana}
-{105200}{}{œciana}
-{105300}{}{œciana}
-{105400}{}{œciana}
-{105500}{}{œciana}
-{105600}{}{œciana}
-{105700}{}{œciana}
-{105800}{}{œciana}
-{105900}{}{œciana}
-{106000}{}{œciana}
-{106100}{}{œciana}
-{106200}{}{przejœcie}
-{106300}{}{przejœcie}
-{106400}{}{œciana}
-{106500}{}{œciana}
-{106600}{}{œciana}
-{106700}{}{œciana}
-{106800}{}{œciana}
-{106900}{}{œciana}
-{107000}{}{œciana}
-{107100}{}{œciana}
-{107200}{}{œciana}
-{107300}{}{œciana}
-{107400}{}{œciana}
-{107500}{}{œciana}
-{107600}{}{œciana}
-{107700}{}{œciana}
-{107800}{}{œciana}
-{107900}{}{œciana}
-{108000}{}{œciana}
-{108100}{}{œciana}
-{108200}{}{œciana}
-{108300}{}{œciana}
-{108400}{}{œciana}
-{108500}{}{œciana}
-{108600}{}{œciana}
-{108700}{}{œciana}
-{108800}{}{œciana}
-{108900}{}{œciana}
-{109000}{}{œciana}
-{109100}{}{œciana}
-{109200}{}{œciana}
-{109300}{}{œciana}
-{109400}{}{œciana}
-{109500}{}{œciana}
-{109600}{}{œciana}
-{109700}{}{œciana}
-{109800}{}{œciana}
-{109900}{}{œciana}
-{110000}{}{œciana}
-{110100}{}{œciana}
-{110200}{}{œciana}
-{110300}{}{œciana}
-{110400}{}{œciana}
-{110500}{}{œciana}
-{110600}{}{œciana}
-{110700}{}{œciana}
-{110800}{}{œciana}
-{110900}{}{œciana}
-{111000}{}{œciana}
-{111100}{}{œciana}
-{111200}{}{œciana}
-{111300}{}{œciana}
-{111400}{}{œciana}
-{111500}{}{œciana}
-{111600}{}{œciana}
-{111700}{}{œciana}
-{111800}{}{œciana}
-{111900}{}{œciana}
-{112000}{}{œciana}
-{112100}{}{œciana}
-{112200}{}{œciana}
-{112300}{}{œciana}
-{112400}{}{œciana}
-{112500}{}{œciana}
-{112600}{}{œciana}
-{112700}{}{przejœcie}
-{112800}{}{œciana}
-{112900}{}{œciana}
-{113000}{}{przejœcie}
-{113100}{}{œciana}
-{113200}{}{przejœcie}
-{113300}{}{przejœcie}
-{113400}{}{przejœcie}
-{113500}{}{emiter pola si³owego}
-{113600}{}{emiter pola si³owego}
-{113700}{}{emiter pola si³owego}
-{113800}{}{emiter pola si³owego}
-{113900}{}{œciana}
-{114000}{}{œciana}
-{114100}{}{œciana}
-{114200}{}{œciana}
-{114300}{}{œciana}
-{114400}{}{zbiornik na wodê}
+{97700}{}{ciÄ™Å¼arÃ³wka}
+{97800}{}{ciÄ™Å¼arÃ³wka}
+{97900}{}{ciÄ™Å¼arÃ³wka}
+{98000}{}{ciÄ™Å¼arÃ³wka}
+{98100}{}{ciÄ™Å¼arÃ³wka}
+{98200}{}{ciÄ™Å¼arÃ³wka}
+{98300}{}{ciÄ™Å¼arÃ³wka}
+{98400}{}{ciÄ™Å¼arÃ³wka}
+{98500}{}{ciÄ™Å¼arÃ³wka}
+{98600}{}{ciÄ™Å¼arÃ³wka}
+{98700}{}{ciÄ™Å¼arÃ³wka}
+{98800}{}{Å›ciana jaskini}
+{98900}{}{Å›ciana}
+{99000}{}{Å›ciana}
+{99100}{}{Å›ciana}
+{99200}{}{Å›ciana}
+{99300}{}{Å›ciana}
+{99400}{}{Å›ciana}
+{99500}{}{Å›ciana}
+{99600}{}{Å›ciana}
+{99700}{}{Å›ciana}
+{99800}{}{Å›ciana}
+{99900}{}{Å›ciana}
+{100000}{}{Å›ciana}
+{100100}{}{Å›ciana}
+{100200}{}{Å›ciana}
+{100300}{}{Å›ciana}
+{100400}{}{Å›ciana}
+{100500}{}{Å›ciana}
+{100600}{}{Å›ciana}
+{100700}{}{Å›ciana}
+{100800}{}{Å›ciana}
+{100900}{}{Å›ciana}
+{101000}{}{Å›ciana}
+{101100}{}{Å›ciana}
+{101200}{}{Å›ciana}
+{101300}{}{Å›ciana}
+{101400}{}{Å›ciana}
+{101500}{}{Å›ciana}
+{101600}{}{Å›ciana}
+{101700}{}{Å›ciana}
+{101800}{}{przejÅ›cie}
+{101900}{}{Å›ciana}
+{102000}{}{przejÅ›cie}
+{102100}{}{przejÅ›cie}
+{102200}{}{przejÅ›cie}
+{102300}{}{Å›ciana}
+{102400}{}{Å›ciana}
+{102500}{}{Å›ciana}
+{102600}{}{Å›ciana}
+{102700}{}{Å›ciana}
+{102800}{}{Å›ciana}
+{102900}{}{Å›ciana}
+{103000}{}{Å›ciana}
+{103100}{}{Å›ciana}
+{103200}{}{Å›ciana}
+{103300}{}{przejÅ›cie}
+{103400}{}{przejÅ›cie}
+{103500}{}{przejÅ›cie}
+{103600}{}{przejÅ›cie}
+{103700}{}{przejÅ›cie}
+{103800}{}{przejÅ›cie}
+{103900}{}{Å›ciana}
+{104000}{}{Å›ciana}
+{104100}{}{Å›ciana}
+{104200}{}{Å›ciana}
+{104300}{}{Å›ciana}
+{104400}{}{Å›ciana}
+{104500}{}{Å›ciana}
+{104600}{}{Å›ciana}
+{104700}{}{Å›ciana}
+{104800}{}{Å›ciana}
+{104900}{}{Å›ciana}
+{105000}{}{Å›ciana}
+{105100}{}{Å›ciana}
+{105200}{}{Å›ciana}
+{105300}{}{Å›ciana}
+{105400}{}{Å›ciana}
+{105500}{}{Å›ciana}
+{105600}{}{Å›ciana}
+{105700}{}{Å›ciana}
+{105800}{}{Å›ciana}
+{105900}{}{Å›ciana}
+{106000}{}{Å›ciana}
+{106100}{}{Å›ciana}
+{106200}{}{przejÅ›cie}
+{106300}{}{przejÅ›cie}
+{106400}{}{Å›ciana}
+{106500}{}{Å›ciana}
+{106600}{}{Å›ciana}
+{106700}{}{Å›ciana}
+{106800}{}{Å›ciana}
+{106900}{}{Å›ciana}
+{107000}{}{Å›ciana}
+{107100}{}{Å›ciana}
+{107200}{}{Å›ciana}
+{107300}{}{Å›ciana}
+{107400}{}{Å›ciana}
+{107500}{}{Å›ciana}
+{107600}{}{Å›ciana}
+{107700}{}{Å›ciana}
+{107800}{}{Å›ciana}
+{107900}{}{Å›ciana}
+{108000}{}{Å›ciana}
+{108100}{}{Å›ciana}
+{108200}{}{Å›ciana}
+{108300}{}{Å›ciana}
+{108400}{}{Å›ciana}
+{108500}{}{Å›ciana}
+{108600}{}{Å›ciana}
+{108700}{}{Å›ciana}
+{108800}{}{Å›ciana}
+{108900}{}{Å›ciana}
+{109000}{}{Å›ciana}
+{109100}{}{Å›ciana}
+{109200}{}{Å›ciana}
+{109300}{}{Å›ciana}
+{109400}{}{Å›ciana}
+{109500}{}{Å›ciana}
+{109600}{}{Å›ciana}
+{109700}{}{Å›ciana}
+{109800}{}{Å›ciana}
+{109900}{}{Å›ciana}
+{110000}{}{Å›ciana}
+{110100}{}{Å›ciana}
+{110200}{}{Å›ciana}
+{110300}{}{Å›ciana}
+{110400}{}{Å›ciana}
+{110500}{}{Å›ciana}
+{110600}{}{Å›ciana}
+{110700}{}{Å›ciana}
+{110800}{}{Å›ciana}
+{110900}{}{Å›ciana}
+{111000}{}{Å›ciana}
+{111100}{}{Å›ciana}
+{111200}{}{Å›ciana}
+{111300}{}{Å›ciana}
+{111400}{}{Å›ciana}
+{111500}{}{Å›ciana}
+{111600}{}{Å›ciana}
+{111700}{}{Å›ciana}
+{111800}{}{Å›ciana}
+{111900}{}{Å›ciana}
+{112000}{}{Å›ciana}
+{112100}{}{Å›ciana}
+{112200}{}{Å›ciana}
+{112300}{}{Å›ciana}
+{112400}{}{Å›ciana}
+{112500}{}{Å›ciana}
+{112600}{}{Å›ciana}
+{112700}{}{przejÅ›cie}
+{112800}{}{Å›ciana}
+{112900}{}{Å›ciana}
+{113000}{}{przejÅ›cie}
+{113100}{}{Å›ciana}
+{113200}{}{przejÅ›cie}
+{113300}{}{przejÅ›cie}
+{113400}{}{przejÅ›cie}
+{113500}{}{emiter pola siÅ‚owego}
+{113600}{}{emiter pola siÅ‚owego}
+{113700}{}{emiter pola siÅ‚owego}
+{113800}{}{emiter pola siÅ‚owego}
+{113900}{}{Å›ciana}
+{114000}{}{Å›ciana}
+{114100}{}{Å›ciana}
+{114200}{}{Å›ciana}
+{114300}{}{Å›ciana}
+{114400}{}{zbiornik na wodÄ™}
 {114401}{}{}
-{114500}{}{zbiornik na wodê}
+{114500}{}{zbiornik na wodÄ™}
 {114501}{}{}
-{114600}{}{zbiornik na wodê}
+{114600}{}{zbiornik na wodÄ™}
 {114601}{}{}
-{114700}{}{zbiornik na wodê}
+{114700}{}{zbiornik na wodÄ™}
 {114701}{}{}
-{114800}{}{zbiornik na wodê}
+{114800}{}{zbiornik na wodÄ™}
 {114801}{}{}
-{114900}{}{zbiornik na wodê}
+{114900}{}{zbiornik na wodÄ™}
 {114901}{}{}
-{115000}{}{zbiornik na wodê}
+{115000}{}{zbiornik na wodÄ™}
 {115001}{}{}
-{115100}{}{zbiornik na wodê}
-{115200}{}{zbiornik na wodê}
-{115300}{}{zbiornik na wodê}
-{115400}{}{œciana}
-{115500}{}{zniszczone wejœcie}
-{115600}{}{zniszczone wejœcie}
-{115700}{}{œciana}
-{115800}{}{œciana}
-{115900}{}{œciana}
-{116000}{}{œciana}
-{116100}{}{œciana}
-{116200}{}{œciana}
-{116300}{}{œciana}
-{116400}{}{œciana}
-{116500}{}{œciana}
-{116600}{}{œciana}
-{116700}{}{œciana}
-{116800}{}{œciana}
-{116900}{}{œciana}
-{117000}{}{œciana}
-{117100}{}{œciana}
-{117200}{}{œciana}
-{117300}{}{œciana}
-{117400}{}{przejœcie}
-{117500}{}{przejœcie}
-{117600}{}{przejœcie}
-{117700}{}{œciana}
-{117800}{}{œciana}
-{117900}{}{œciana}
-{118000}{}{œciana}
-{118100}{}{œciana}
-{118200}{}{œciana}
-{118300}{}{œciana}
-{118400}{}{œciana}
-{118500}{}{œciana}
-{118600}{}{œciana}
-{118700}{}{œciana}
-{118800}{}{œciana}
-{118900}{}{œciana}
-{119000}{}{œciana}
-{119100}{}{œciana}
-{119200}{}{œciana}
-{119300}{}{œciana}
-{119400}{}{œciana}
-{119500}{}{œciana}
-{119600}{}{œciana}
-{119700}{}{œciana}
-{119800}{}{œciana}
-{119900}{}{œciana}
-{120000}{}{œciana}
+{115100}{}{zbiornik na wodÄ™}
+{115200}{}{zbiornik na wodÄ™}
+{115300}{}{zbiornik na wodÄ™}
+{115400}{}{Å›ciana}
+{115500}{}{zniszczone wejÅ›cie}
+{115600}{}{zniszczone wejÅ›cie}
+{115700}{}{Å›ciana}
+{115800}{}{Å›ciana}
+{115900}{}{Å›ciana}
+{116000}{}{Å›ciana}
+{116100}{}{Å›ciana}
+{116200}{}{Å›ciana}
+{116300}{}{Å›ciana}
+{116400}{}{Å›ciana}
+{116500}{}{Å›ciana}
+{116600}{}{Å›ciana}
+{116700}{}{Å›ciana}
+{116800}{}{Å›ciana}
+{116900}{}{Å›ciana}
+{117000}{}{Å›ciana}
+{117100}{}{Å›ciana}
+{117200}{}{Å›ciana}
+{117300}{}{Å›ciana}
+{117400}{}{przejÅ›cie}
+{117500}{}{przejÅ›cie}
+{117600}{}{przejÅ›cie}
+{117700}{}{Å›ciana}
+{117800}{}{Å›ciana}
+{117900}{}{Å›ciana}
+{118000}{}{Å›ciana}
+{118100}{}{Å›ciana}
+{118200}{}{Å›ciana}
+{118300}{}{Å›ciana}
+{118400}{}{Å›ciana}
+{118500}{}{Å›ciana}
+{118600}{}{Å›ciana}
+{118700}{}{Å›ciana}
+{118800}{}{Å›ciana}
+{118900}{}{Å›ciana}
+{119000}{}{Å›ciana}
+{119100}{}{Å›ciana}
+{119200}{}{Å›ciana}
+{119300}{}{Å›ciana}
+{119400}{}{Å›ciana}
+{119500}{}{Å›ciana}
+{119600}{}{Å›ciana}
+{119700}{}{Å›ciana}
+{119800}{}{Å›ciana}
+{119900}{}{Å›ciana}
+{120000}{}{Å›ciana}
 {120100}{}{barierka}
 {120200}{}{barierka}
 {120300}{}{barierka}
@@ -1238,21 +1238,21 @@
 {122400}{}{barierka}
 {122500}{}{barierka}
 {122600}{}{barierka}
-{122700}{}{przejœcie}
-{122800}{}{przejœcie}
+{122700}{}{przejÅ›cie}
+{122800}{}{przejÅ›cie}
 {122900}{}{kolumna}
-{123000}{}{œciana}
-{123100}{}{œciana}
-{123200}{}{œciana}
-{123300}{}{œciana}
-{123400}{}{œciana}
-{123500}{}{œciana}
-{123600}{}{œciana}
-{123700}{}{œciana}
-{123800}{}{przejœcie}
-{123900}{}{przejœcie}
-{124000}{}{przejœcie}
-{124100}{}{przejœcie}
+{123000}{}{Å›ciana}
+{123100}{}{Å›ciana}
+{123200}{}{Å›ciana}
+{123300}{}{Å›ciana}
+{123400}{}{Å›ciana}
+{123500}{}{Å›ciana}
+{123600}{}{Å›ciana}
+{123700}{}{Å›ciana}
+{123800}{}{przejÅ›cie}
+{123900}{}{przejÅ›cie}
+{124000}{}{przejÅ›cie}
+{124100}{}{przejÅ›cie}
 {124200}{}{drewniana podpora}
 {124300}{}{drewniana podpora}
 {124400}{}{drewniana podpora}
@@ -1264,23 +1264,23 @@
 {125000}{}{drewniana podpora}
 {125100}{}{drewniana podpora}
 {125200}{}{drewniana podpora}
-{125300}{}{œciana}
-{125400}{}{œciana}
-{125500}{}{œciana}
-{125600}{}{œciana}
-{125700}{}{przejœcie}
-{125800}{}{przejœcie}
-{125900}{}{przejœcie}
-{126000}{}{przejœcie}
-{126100}{}{przejœcie}
-{126200}{}{przejœcie}
-{126300}{}{œciana}
-{126400}{}{œciana}
-{126500}{}{œciana}
-{126600}{}{œciana}
-{126700}{}{œciana}
-{126800}{}{œciana}
-{126900}{}{œciana}
+{125300}{}{Å›ciana}
+{125400}{}{Å›ciana}
+{125500}{}{Å›ciana}
+{125600}{}{Å›ciana}
+{125700}{}{przejÅ›cie}
+{125800}{}{przejÅ›cie}
+{125900}{}{przejÅ›cie}
+{126000}{}{przejÅ›cie}
+{126100}{}{przejÅ›cie}
+{126200}{}{przejÅ›cie}
+{126300}{}{Å›ciana}
+{126400}{}{Å›ciana}
+{126500}{}{Å›ciana}
+{126600}{}{Å›ciana}
+{126700}{}{Å›ciana}
+{126800}{}{Å›ciana}
+{126900}{}{Å›ciana}
 {127000}{}{drewniane ogrodzenie}
 {127100}{}{drewniane ogrodzenie}
 {127200}{}{drewniane ogrodzenie}
@@ -1307,650 +1307,650 @@
 {129300}{}{brama}
 {129400}{}{brama}
 {129500}{}{brama}
-{129600}{}{œciana}
-{129700}{}{œciana}
-{129800}{}{œciana}
-{129900}{}{œciana}
-{130000}{}{œciana}
-{130100}{}{œciana}
-{130200}{}{œciana}
-{130300}{}{œciana}
-{130400}{}{œciana}
-{130500}{}{œciana}
-{130600}{}{œciana}
-{130700}{}{œciana}
-{130800}{}{œciana}
-{130900}{}{œciana}
-{131000}{}{œciana}
-{131100}{}{œciana}
-{131200}{}{œciana}
-{131300}{}{œciana}
-{131400}{}{œciana}
-{131500}{}{œciana}
-{131600}{}{œciana}
-{131700}{}{œciana}
-{131800}{}{œciana}
-{131900}{}{œciana}
-{132000}{}{œciana}
-{132100}{}{œciana}
-{132200}{}{œciana}
-{132300}{}{œciana}
-{132400}{}{œciana}
-{132500}{}{œciana}
-{132600}{}{œciana}
-{132700}{}{œciana}
-{132800}{}{œciana}
-{132900}{}{œciana}
-{133000}{}{œciana}
-{133100}{}{œciana}
-{133200}{}{œciana}
-{133300}{}{œciana}
-{133400}{}{œciana}
-{133500}{}{œciana}
-{133600}{}{œciana}
-{133700}{}{œciana}
-{133800}{}{œciana}
-{133900}{}{œciana}
-{134000}{}{œciana}
-{134100}{}{œciana}
-{134200}{}{œciana}
-{134300}{}{œciana}
-{134400}{}{œciana}
-{134500}{}{œciana}
-{134600}{}{œciana}
-{134700}{}{œciana}
-{134800}{}{œciana}
-{134900}{}{œciana}
-{135000}{}{œciana}
-{135100}{}{œciana}
-{135200}{}{œciana}
-{135300}{}{œciana}
-{135400}{}{œciana}
-{135500}{}{œciana}
-{135600}{}{œciana}
-{135700}{}{œciana}
-{135800}{}{œciana}
-{135900}{}{œciana}
-{136000}{}{œciana}
-{136100}{}{œciana}
-{136200}{}{œciana}
-{136300}{}{œciana}
-{136400}{}{œciana}
-{136500}{}{œciana}
-{136600}{}{œciana}
-{136700}{}{œciana}
-{136800}{}{œciana}
-{136900}{}{œciana}
-{137000}{}{œciana}
-{137100}{}{œciana}
-{137200}{}{œciana}
-{137300}{}{œciana}
-{137400}{}{œciana}
-{137500}{}{œciana}
-{137600}{}{œciana}
-{137700}{}{œciana}
-{137800}{}{œciana}
-{137900}{}{œciana}
-{138000}{}{œciana}
-{138100}{}{œciana}
+{129600}{}{Å›ciana}
+{129700}{}{Å›ciana}
+{129800}{}{Å›ciana}
+{129900}{}{Å›ciana}
+{130000}{}{Å›ciana}
+{130100}{}{Å›ciana}
+{130200}{}{Å›ciana}
+{130300}{}{Å›ciana}
+{130400}{}{Å›ciana}
+{130500}{}{Å›ciana}
+{130600}{}{Å›ciana}
+{130700}{}{Å›ciana}
+{130800}{}{Å›ciana}
+{130900}{}{Å›ciana}
+{131000}{}{Å›ciana}
+{131100}{}{Å›ciana}
+{131200}{}{Å›ciana}
+{131300}{}{Å›ciana}
+{131400}{}{Å›ciana}
+{131500}{}{Å›ciana}
+{131600}{}{Å›ciana}
+{131700}{}{Å›ciana}
+{131800}{}{Å›ciana}
+{131900}{}{Å›ciana}
+{132000}{}{Å›ciana}
+{132100}{}{Å›ciana}
+{132200}{}{Å›ciana}
+{132300}{}{Å›ciana}
+{132400}{}{Å›ciana}
+{132500}{}{Å›ciana}
+{132600}{}{Å›ciana}
+{132700}{}{Å›ciana}
+{132800}{}{Å›ciana}
+{132900}{}{Å›ciana}
+{133000}{}{Å›ciana}
+{133100}{}{Å›ciana}
+{133200}{}{Å›ciana}
+{133300}{}{Å›ciana}
+{133400}{}{Å›ciana}
+{133500}{}{Å›ciana}
+{133600}{}{Å›ciana}
+{133700}{}{Å›ciana}
+{133800}{}{Å›ciana}
+{133900}{}{Å›ciana}
+{134000}{}{Å›ciana}
+{134100}{}{Å›ciana}
+{134200}{}{Å›ciana}
+{134300}{}{Å›ciana}
+{134400}{}{Å›ciana}
+{134500}{}{Å›ciana}
+{134600}{}{Å›ciana}
+{134700}{}{Å›ciana}
+{134800}{}{Å›ciana}
+{134900}{}{Å›ciana}
+{135000}{}{Å›ciana}
+{135100}{}{Å›ciana}
+{135200}{}{Å›ciana}
+{135300}{}{Å›ciana}
+{135400}{}{Å›ciana}
+{135500}{}{Å›ciana}
+{135600}{}{Å›ciana}
+{135700}{}{Å›ciana}
+{135800}{}{Å›ciana}
+{135900}{}{Å›ciana}
+{136000}{}{Å›ciana}
+{136100}{}{Å›ciana}
+{136200}{}{Å›ciana}
+{136300}{}{Å›ciana}
+{136400}{}{Å›ciana}
+{136500}{}{Å›ciana}
+{136600}{}{Å›ciana}
+{136700}{}{Å›ciana}
+{136800}{}{Å›ciana}
+{136900}{}{Å›ciana}
+{137000}{}{Å›ciana}
+{137100}{}{Å›ciana}
+{137200}{}{Å›ciana}
+{137300}{}{Å›ciana}
+{137400}{}{Å›ciana}
+{137500}{}{Å›ciana}
+{137600}{}{Å›ciana}
+{137700}{}{Å›ciana}
+{137800}{}{Å›ciana}
+{137900}{}{Å›ciana}
+{138000}{}{Å›ciana}
+{138100}{}{Å›ciana}
 {138200}{}{drewniane ogrodzenie}
 {138300}{}{drewniane ogrodzenie}
 {138400}{}{drewniane ogrodzenie}
 {138500}{}{drewniane ogrodzenie}
 {138600}{}{drewniane ogrodzenie}
 {138700}{}{drewniane ogrodzenie}
-{138800}{}{œciana}
-{138900}{}{œciana}
-{139000}{}{œciana}
-{139100}{}{œciana}
-{139200}{}{œciana}
-{139300}{}{œciana}
-{139400}{}{œciana}
-{139500}{}{œciana}
-{139600}{}{œciana}
-{139700}{}{œciana}
-{139800}{}{œciana}
-{139900}{}{œciana}
-{140000}{}{œciana}
-{140100}{}{œciana}
-{140200}{}{œciana}
-{140300}{}{œciana}
-{140400}{}{œciana}
-{140500}{}{œciana}
-{140600}{}{œciana}
-{140700}{}{œciana}
+{138800}{}{Å›ciana}
+{138900}{}{Å›ciana}
+{139000}{}{Å›ciana}
+{139100}{}{Å›ciana}
+{139200}{}{Å›ciana}
+{139300}{}{Å›ciana}
+{139400}{}{Å›ciana}
+{139500}{}{Å›ciana}
+{139600}{}{Å›ciana}
+{139700}{}{Å›ciana}
+{139800}{}{Å›ciana}
+{139900}{}{Å›ciana}
+{140000}{}{Å›ciana}
+{140100}{}{Å›ciana}
+{140200}{}{Å›ciana}
+{140300}{}{Å›ciana}
+{140400}{}{Å›ciana}
+{140500}{}{Å›ciana}
+{140600}{}{Å›ciana}
+{140700}{}{Å›ciana}
 {140800}{}{kolumna}
-{140900}{}{œciana}
-{141000}{}{œciana}
-{141100}{}{œciana}
-{141200}{}{œciana}
-{141300}{}{œciana}
-{141400}{}{œciana}
-{141500}{}{œciana}
-{141600}{}{œciana}
-{141700}{}{œciana}
-{141800}{}{œciana}
-{141900}{}{œciana}
-{142000}{}{œciana}
-{142100}{}{œciana}
-{142200}{}{œciana}
-{142300}{}{œciana}
-{142400}{}{sklepione przejœcie}
-{142500}{}{sklepione przejœcie}
-{142600}{}{sklepione przejœcie}
-{142700}{}{sklepione przejœcie}
-{142800}{}{œciana}
-{142900}{}{œciana}
-{143000}{}{œciana}
-{143100}{}{œciana}
-{143200}{}{œciana}
-{143300}{}{œciana}
-{143400}{}{œciana}
-{143500}{}{œciana}
-{143600}{}{œciana}
-{143700}{}{œciana}
-{143800}{}{œciana}
-{143900}{}{œciana}
-{144000}{}{œciana}
-{144100}{}{œciana}
-{144200}{}{œciana}
-{144300}{}{œciana}
-{144400}{}{œciana}
-{144500}{}{œciana}
-{144600}{}{œciana}
-{144700}{}{œciana}
-{144800}{}{œciana}
-{144900}{}{œciana}
-{145000}{}{œciana}
-{145100}{}{œciana}
-{145200}{}{œciana}
-{145300}{}{œciana}
-{145400}{}{œciana}
-{145500}{}{œciana}
-{145600}{}{œciana}
-{145700}{}{œciana}
-{145800}{}{œciana}
-{145900}{}{œciana}
-{146000}{}{œciana}
-{146100}{}{œciana}
-{146200}{}{œciana}
-{146300}{}{œciana}
-{146400}{}{œciana}
-{146500}{}{œciana}
-{146600}{}{œciana}
-{146700}{}{œciana}
-{146800}{}{œciana}
-{146900}{}{œciana}
-{147000}{}{œciana}
-{147100}{}{œciana}
-{147200}{}{œciana}
-{147300}{}{œciana}
-{147400}{}{œciana}
-{147500}{}{œciana}
-{147600}{}{œciana}
-{147700}{}{œciana}
-{147800}{}{œciana}
-{147900}{}{œciana}
-{148000}{}{œciana}
-{148100}{}{œciana}
-{148200}{}{œciana}
-{148300}{}{œciana}
-{148400}{}{œciana}
-{148500}{}{œciana}
-{148600}{}{œciana}
-{148700}{}{œciana}
-{148800}{}{œciana}
-{148900}{}{œciana}
-{149000}{}{œciana}
-{149100}{}{œciana}
-{149200}{}{œciana}
-{149300}{}{œciana}
-{149400}{}{œciana}
-{149500}{}{œciana}
-{149600}{}{œciana}
-{149700}{}{œciana}
-{149800}{}{œciana}
-{149900}{}{œciana}
-{150000}{}{œciana}
-{150100}{}{œciana}
-{150200}{}{œciana}
-{150300}{}{œciana}
-{150400}{}{œciana}
-{150500}{}{œciana}
-{150600}{}{œciana}
-{150700}{}{œciana}
-{150800}{}{œciana}
-{150900}{}{œciana}
-{151000}{}{œciana}
-{151100}{}{œciana}
-{151200}{}{œciana}
-{151300}{}{œciana}
-{151400}{}{œciana}
-{151500}{}{œciana}
-{151600}{}{œciana}
-{151700}{}{œciana}
+{140900}{}{Å›ciana}
+{141000}{}{Å›ciana}
+{141100}{}{Å›ciana}
+{141200}{}{Å›ciana}
+{141300}{}{Å›ciana}
+{141400}{}{Å›ciana}
+{141500}{}{Å›ciana}
+{141600}{}{Å›ciana}
+{141700}{}{Å›ciana}
+{141800}{}{Å›ciana}
+{141900}{}{Å›ciana}
+{142000}{}{Å›ciana}
+{142100}{}{Å›ciana}
+{142200}{}{Å›ciana}
+{142300}{}{Å›ciana}
+{142400}{}{sklepione przejÅ›cie}
+{142500}{}{sklepione przejÅ›cie}
+{142600}{}{sklepione przejÅ›cie}
+{142700}{}{sklepione przejÅ›cie}
+{142800}{}{Å›ciana}
+{142900}{}{Å›ciana}
+{143000}{}{Å›ciana}
+{143100}{}{Å›ciana}
+{143200}{}{Å›ciana}
+{143300}{}{Å›ciana}
+{143400}{}{Å›ciana}
+{143500}{}{Å›ciana}
+{143600}{}{Å›ciana}
+{143700}{}{Å›ciana}
+{143800}{}{Å›ciana}
+{143900}{}{Å›ciana}
+{144000}{}{Å›ciana}
+{144100}{}{Å›ciana}
+{144200}{}{Å›ciana}
+{144300}{}{Å›ciana}
+{144400}{}{Å›ciana}
+{144500}{}{Å›ciana}
+{144600}{}{Å›ciana}
+{144700}{}{Å›ciana}
+{144800}{}{Å›ciana}
+{144900}{}{Å›ciana}
+{145000}{}{Å›ciana}
+{145100}{}{Å›ciana}
+{145200}{}{Å›ciana}
+{145300}{}{Å›ciana}
+{145400}{}{Å›ciana}
+{145500}{}{Å›ciana}
+{145600}{}{Å›ciana}
+{145700}{}{Å›ciana}
+{145800}{}{Å›ciana}
+{145900}{}{Å›ciana}
+{146000}{}{Å›ciana}
+{146100}{}{Å›ciana}
+{146200}{}{Å›ciana}
+{146300}{}{Å›ciana}
+{146400}{}{Å›ciana}
+{146500}{}{Å›ciana}
+{146600}{}{Å›ciana}
+{146700}{}{Å›ciana}
+{146800}{}{Å›ciana}
+{146900}{}{Å›ciana}
+{147000}{}{Å›ciana}
+{147100}{}{Å›ciana}
+{147200}{}{Å›ciana}
+{147300}{}{Å›ciana}
+{147400}{}{Å›ciana}
+{147500}{}{Å›ciana}
+{147600}{}{Å›ciana}
+{147700}{}{Å›ciana}
+{147800}{}{Å›ciana}
+{147900}{}{Å›ciana}
+{148000}{}{Å›ciana}
+{148100}{}{Å›ciana}
+{148200}{}{Å›ciana}
+{148300}{}{Å›ciana}
+{148400}{}{Å›ciana}
+{148500}{}{Å›ciana}
+{148600}{}{Å›ciana}
+{148700}{}{Å›ciana}
+{148800}{}{Å›ciana}
+{148900}{}{Å›ciana}
+{149000}{}{Å›ciana}
+{149100}{}{Å›ciana}
+{149200}{}{Å›ciana}
+{149300}{}{Å›ciana}
+{149400}{}{Å›ciana}
+{149500}{}{Å›ciana}
+{149600}{}{Å›ciana}
+{149700}{}{Å›ciana}
+{149800}{}{Å›ciana}
+{149900}{}{Å›ciana}
+{150000}{}{Å›ciana}
+{150100}{}{Å›ciana}
+{150200}{}{Å›ciana}
+{150300}{}{Å›ciana}
+{150400}{}{Å›ciana}
+{150500}{}{Å›ciana}
+{150600}{}{Å›ciana}
+{150700}{}{Å›ciana}
+{150800}{}{Å›ciana}
+{150900}{}{Å›ciana}
+{151000}{}{Å›ciana}
+{151100}{}{Å›ciana}
+{151200}{}{Å›ciana}
+{151300}{}{Å›ciana}
+{151400}{}{Å›ciana}
+{151500}{}{Å›ciana}
+{151600}{}{Å›ciana}
+{151700}{}{Å›ciana}
 {151800}{}{kolumna}
-{151900}{}{œciana}
-{152000}{}{œciana}
-{152100}{}{œciana}
-{152200}{}{œciana}
-{152300}{}{œciana}
-{152400}{}{œciana}
-{152500}{}{Wejœcie do kopalni}
-{152600}{}{Wejœcie do kopalni}
-{152700}{}{przejœcie}
-{152800}{}{przejœcie}
-{152900}{}{przejœcie}
-{153000}{}{przejœcie}
-{153100}{}{œciana}
-{153200}{}{œciana}
-{153300}{}{œciana wahad³owca}
-{153400}{}{œciana wahad³owca}
-{153500}{}{œciana wahad³owca}
-{153600}{}{œciana wahad³owca}
-{153700}{}{œciana wahad³owca}
-{153800}{}{œciana}
-{153900}{}{œciana}
-{154000}{}{œciana}
-{154100}{}{œciana}
-{154200}{}{œciana}
-{154300}{}{œciana}
-{154400}{}{œciana}
-{154500}{}{œciana}
-{154600}{}{œciana}
-{154700}{}{œciana}
-{154800}{}{œciana}
-{154900}{}{œciana}
-{155000}{}{œciana}
-{155100}{}{œciana}
-{155200}{}{œciana promu}
-{155300}{}{emiter pola si³owego}
-{155400}{}{œciana}
-{155500}{}{œciana}
-{155600}{}{œciana}
-{155700}{}{emiter pola si³owego}
-{155800}{}{przejœcie}
-{155900}{}{przejœcie}
-{156000}{}{przejœcie}
-{156100}{}{przejœcie}
-{156200}{}{przejœcie}
-{156300}{}{przejœcie}
-{156400}{}{przejœcie}
-{156500}{}{przejœcie}
-{156600}{}{przejœcie}
-{156700}{}{przejœcie}
-{156800}{}{przejœcie}
-{156900}{}{przejœcie}
-{157000}{}{przejœcie}
-{157100}{}{przejœcie}
-{157200}{}{przejœcie}
-{157300}{}{przejœcie}
-{157400}{}{œciana}
-{157500}{}{emiter pola si³owego}
-{157600}{}{œciana}
-{157700}{}{œciana}
-{157800}{}{emiter pola si³owego}
-{157900}{}{emiter pola si³owego}
-{158000}{}{emiter pola si³owego}
-{158100}{}{œciana}
-{158200}{}{œciana}
-{158300}{}{emiter pola si³owego}
-{158400}{}{emiter pola si³owego}
-{158500}{}{œciana}
-{158600}{}{œciana}
-{158700}{}{przejœcie}
-{158800}{}{przejœcie}
-{158900}{}{przejœcie}
-{159000}{}{przejœcie}
-{159100}{}{przejœcie}
-{159200}{}{przejœcie}
-{159300}{}{œciana}
-{159400}{}{œciana}
-{159500}{}{œciana}
-{159600}{}{œciana}
-{159700}{}{œciana}
-{159800}{}{œciana}
-{159900}{}{œciana}
-{160000}{}{œciana}
-{160100}{}{œciana}
-{160200}{}{œciana}
-{160300}{}{œciana}
-{160400}{}{œciana}
-{160500}{}{œciana}
-{160600}{}{œciana}
-{160700}{}{œciana}
-{160800}{}{œciana}
-{160900}{}{œciana}
-{161000}{}{œciana}
-{161100}{}{œciana}
-{161200}{}{œciana}
-{161300}{}{œciana}
-{161400}{}{œciana}
-{161500}{}{œciana}
-{161600}{}{œciana}
-{161700}{}{œciana}
-{161800}{}{œciana}
-{161900}{}{œciana}
-{162000}{}{przejœcie}
-{162100}{}{przejœcie}
-{162200}{}{przejœcie}
-{162300}{}{przejœcie}
-{162400}{}{œciana}
-{162500}{}{œciana}
-{162600}{}{œciana}
-{162700}{}{œciana}
-{162800}{}{œciana}
-{162900}{}{œciana}
-{163000}{}{œciana}
-{163100}{}{przejœcie}
-{163200}{}{przejœcie}
-{163300}{}{œciana}
-{163400}{}{œciana}
-{163500}{}{œciana}
-{163600}{}{œciana}
-{163700}{}{œciana}
-{163800}{}{œciana}
-{163900}{}{œciana}
-{164000}{}{œciana}
-{164100}{}{œciana}
-{164200}{}{œciana}
-{164300}{}{œciana}
-{164400}{}{œciana}
-{164500}{}{œciana}
-{164600}{}{œciana}
-{164700}{}{œciana}
-{164800}{}{œciana}
-{164900}{}{emiter pola si³owego}
-{165000}{}{emiter pola si³owego}
-{165100}{}{emiter pola si³owego}
-{165200}{}{emiter pola si³owego}
-{165300}{}{emiter pola si³owego}
-{165400}{}{emiter pola si³owego}
-{165500}{}{emiter pola si³owego}
-{165600}{}{emiter pola si³owego}
-{165700}{}{emiter pola si³owego}
-{165800}{}{emiter pola si³owego}
-{165900}{}{emiter pola si³owego}
-{166000}{}{emiter pola si³owego}
-{166100}{}{emiter pola si³owego}
-{166200}{}{emiter pola si³owego}
-{166300}{}{emiter pola si³owego}
-{166400}{}{œciana wahad³owca}
-{166500}{}{œciana wahad³owca}
-{166600}{}{œciana wahad³owca}
-{166700}{}{œciana wahad³owca}
-{166800}{}{œciana wahad³owca}
-{166900}{}{œciana}
-{167000}{}{œciana}
-{167100}{}{œciana}
-{167200}{}{œciana}
+{151900}{}{Å›ciana}
+{152000}{}{Å›ciana}
+{152100}{}{Å›ciana}
+{152200}{}{Å›ciana}
+{152300}{}{Å›ciana}
+{152400}{}{Å›ciana}
+{152500}{}{WejÅ›cie do kopalni}
+{152600}{}{WejÅ›cie do kopalni}
+{152700}{}{przejÅ›cie}
+{152800}{}{przejÅ›cie}
+{152900}{}{przejÅ›cie}
+{153000}{}{przejÅ›cie}
+{153100}{}{Å›ciana}
+{153200}{}{Å›ciana}
+{153300}{}{Å›ciana wahadÅ‚owca}
+{153400}{}{Å›ciana wahadÅ‚owca}
+{153500}{}{Å›ciana wahadÅ‚owca}
+{153600}{}{Å›ciana wahadÅ‚owca}
+{153700}{}{Å›ciana wahadÅ‚owca}
+{153800}{}{Å›ciana}
+{153900}{}{Å›ciana}
+{154000}{}{Å›ciana}
+{154100}{}{Å›ciana}
+{154200}{}{Å›ciana}
+{154300}{}{Å›ciana}
+{154400}{}{Å›ciana}
+{154500}{}{Å›ciana}
+{154600}{}{Å›ciana}
+{154700}{}{Å›ciana}
+{154800}{}{Å›ciana}
+{154900}{}{Å›ciana}
+{155000}{}{Å›ciana}
+{155100}{}{Å›ciana}
+{155200}{}{Å›ciana promu}
+{155300}{}{emiter pola siÅ‚owego}
+{155400}{}{Å›ciana}
+{155500}{}{Å›ciana}
+{155600}{}{Å›ciana}
+{155700}{}{emiter pola siÅ‚owego}
+{155800}{}{przejÅ›cie}
+{155900}{}{przejÅ›cie}
+{156000}{}{przejÅ›cie}
+{156100}{}{przejÅ›cie}
+{156200}{}{przejÅ›cie}
+{156300}{}{przejÅ›cie}
+{156400}{}{przejÅ›cie}
+{156500}{}{przejÅ›cie}
+{156600}{}{przejÅ›cie}
+{156700}{}{przejÅ›cie}
+{156800}{}{przejÅ›cie}
+{156900}{}{przejÅ›cie}
+{157000}{}{przejÅ›cie}
+{157100}{}{przejÅ›cie}
+{157200}{}{przejÅ›cie}
+{157300}{}{przejÅ›cie}
+{157400}{}{Å›ciana}
+{157500}{}{emiter pola siÅ‚owego}
+{157600}{}{Å›ciana}
+{157700}{}{Å›ciana}
+{157800}{}{emiter pola siÅ‚owego}
+{157900}{}{emiter pola siÅ‚owego}
+{158000}{}{emiter pola siÅ‚owego}
+{158100}{}{Å›ciana}
+{158200}{}{Å›ciana}
+{158300}{}{emiter pola siÅ‚owego}
+{158400}{}{emiter pola siÅ‚owego}
+{158500}{}{Å›ciana}
+{158600}{}{Å›ciana}
+{158700}{}{przejÅ›cie}
+{158800}{}{przejÅ›cie}
+{158900}{}{przejÅ›cie}
+{159000}{}{przejÅ›cie}
+{159100}{}{przejÅ›cie}
+{159200}{}{przejÅ›cie}
+{159300}{}{Å›ciana}
+{159400}{}{Å›ciana}
+{159500}{}{Å›ciana}
+{159600}{}{Å›ciana}
+{159700}{}{Å›ciana}
+{159800}{}{Å›ciana}
+{159900}{}{Å›ciana}
+{160000}{}{Å›ciana}
+{160100}{}{Å›ciana}
+{160200}{}{Å›ciana}
+{160300}{}{Å›ciana}
+{160400}{}{Å›ciana}
+{160500}{}{Å›ciana}
+{160600}{}{Å›ciana}
+{160700}{}{Å›ciana}
+{160800}{}{Å›ciana}
+{160900}{}{Å›ciana}
+{161000}{}{Å›ciana}
+{161100}{}{Å›ciana}
+{161200}{}{Å›ciana}
+{161300}{}{Å›ciana}
+{161400}{}{Å›ciana}
+{161500}{}{Å›ciana}
+{161600}{}{Å›ciana}
+{161700}{}{Å›ciana}
+{161800}{}{Å›ciana}
+{161900}{}{Å›ciana}
+{162000}{}{przejÅ›cie}
+{162100}{}{przejÅ›cie}
+{162200}{}{przejÅ›cie}
+{162300}{}{przejÅ›cie}
+{162400}{}{Å›ciana}
+{162500}{}{Å›ciana}
+{162600}{}{Å›ciana}
+{162700}{}{Å›ciana}
+{162800}{}{Å›ciana}
+{162900}{}{Å›ciana}
+{163000}{}{Å›ciana}
+{163100}{}{przejÅ›cie}
+{163200}{}{przejÅ›cie}
+{163300}{}{Å›ciana}
+{163400}{}{Å›ciana}
+{163500}{}{Å›ciana}
+{163600}{}{Å›ciana}
+{163700}{}{Å›ciana}
+{163800}{}{Å›ciana}
+{163900}{}{Å›ciana}
+{164000}{}{Å›ciana}
+{164100}{}{Å›ciana}
+{164200}{}{Å›ciana}
+{164300}{}{Å›ciana}
+{164400}{}{Å›ciana}
+{164500}{}{Å›ciana}
+{164600}{}{Å›ciana}
+{164700}{}{Å›ciana}
+{164800}{}{Å›ciana}
+{164900}{}{emiter pola siÅ‚owego}
+{165000}{}{emiter pola siÅ‚owego}
+{165100}{}{emiter pola siÅ‚owego}
+{165200}{}{emiter pola siÅ‚owego}
+{165300}{}{emiter pola siÅ‚owego}
+{165400}{}{emiter pola siÅ‚owego}
+{165500}{}{emiter pola siÅ‚owego}
+{165600}{}{emiter pola siÅ‚owego}
+{165700}{}{emiter pola siÅ‚owego}
+{165800}{}{emiter pola siÅ‚owego}
+{165900}{}{emiter pola siÅ‚owego}
+{166000}{}{emiter pola siÅ‚owego}
+{166100}{}{emiter pola siÅ‚owego}
+{166200}{}{emiter pola siÅ‚owego}
+{166300}{}{emiter pola siÅ‚owego}
+{166400}{}{Å›ciana wahadÅ‚owca}
+{166500}{}{Å›ciana wahadÅ‚owca}
+{166600}{}{Å›ciana wahadÅ‚owca}
+{166700}{}{Å›ciana wahadÅ‚owca}
+{166800}{}{Å›ciana wahadÅ‚owca}
+{166900}{}{Å›ciana}
+{167000}{}{Å›ciana}
+{167100}{}{Å›ciana}
+{167200}{}{Å›ciana}
 {167300}{}{Filar zbrojeniowy.}
 {167400}{}{Filar zbrojeniowy.}
 {167500}{}{Filar zbrojeniowy.}
 {167600}{}{Filar zbrojeniowy.}
-{167700}{}{œciana}
-{167800}{}{œciana}
-{167900}{}{œciana}
-{168000}{}{œciana}
-{168100}{}{œciana}
-{168200}{}{œciana}
-{168300}{}{œciana}
-{168400}{}{œciana}
-{168500}{}{œciana}
-{168600}{}{œciana}
-{168700}{}{œciana}
-{168800}{}{œciana}
-{168900}{}{œciana}
-{169000}{}{œciana}
-{169100}{}{œciana}
-{169200}{}{œciana}
-{169300}{}{œciana}
-{169400}{}{œciana}
-{169500}{}{œciana}
-{169600}{}{œciana}
-{169700}{}{œciana}
-{170000}{}{stalowa œciana}
-{170100}{}{stalowa œciana}
-{170200}{}{œciana}
-{170300}{}{œciana}
-{170400}{}{œciana}
-{170500}{}{œciana}
-{170600}{}{œciana}
-{170700}{}{œciana}
-{170800}{}{œciana}
-{170900}{}{œciana}
-{171000}{}{przejœcie}
-{171100}{}{przejœcie}
-{171200}{}{œciana}
-{171300}{}{œciana}
-{171400}{}{przejœcie}
-{171500}{}{przejœcie}
-{171600}{}{œciana}
-{171700}{}{œciana}
-{171800}{}{przejœcie}
-{171900}{}{przejœcie}
-{172000}{}{œciana}
-{172100}{}{rdzewiej¹ca stalowa balustrada}
-{172200}{}{rdzewiej¹ca stalowa balustrada}
-{172300}{}{rdzewiej¹ca stalowa balustrada}
-{172400}{}{rdzewiej¹ca stalowa balustrada}
-{172500}{}{rdzewiej¹ca stalowa balustrada}
-{172600}{}{rdzewiej¹ca stalowa balustrada}
-{172700}{}{rdzewiej¹ca stalowa balustrada}
-{172800}{}{rdzewiej¹ca stalowa balustrada}
-{172900}{}{rdzewiej¹ca stalowa balustrada}
-{173000}{}{rdzewiej¹ca stalowa balustrada}
-{173100}{}{rdzewiej¹ca stalowa balustrada}
-{173200}{}{rdzewiej¹ca stalowa balustrada}
-{173300}{}{rdzewiej¹ca stalowa balustrada}
-{173400}{}{œciana}
-{173500}{}{œciana}
-{173600}{}{œciana}
-{173700}{}{œciana}
-{173800}{}{œciana}
-{173900}{}{œciana}
-{174000}{}{œciana}
-{174100}{}{œciana}
-{174200}{}{œciana}
-{174300}{}{œciana}
-{174400}{}{œciana}
-{174500}{}{œciana}
-{174600}{}{œciana}
-{174700}{}{œciana}
-{174800}{}{œciana}
-{174900}{}{œciana}
-{175000}{}{œciana}
-{175100}{}{œciana}
-{175200}{}{œciana}
-{175300}{}{œciana}
-{175400}{}{œciana}
-{175500}{}{œciana}
+{167700}{}{Å›ciana}
+{167800}{}{Å›ciana}
+{167900}{}{Å›ciana}
+{168000}{}{Å›ciana}
+{168100}{}{Å›ciana}
+{168200}{}{Å›ciana}
+{168300}{}{Å›ciana}
+{168400}{}{Å›ciana}
+{168500}{}{Å›ciana}
+{168600}{}{Å›ciana}
+{168700}{}{Å›ciana}
+{168800}{}{Å›ciana}
+{168900}{}{Å›ciana}
+{169000}{}{Å›ciana}
+{169100}{}{Å›ciana}
+{169200}{}{Å›ciana}
+{169300}{}{Å›ciana}
+{169400}{}{Å›ciana}
+{169500}{}{Å›ciana}
+{169600}{}{Å›ciana}
+{169700}{}{Å›ciana}
+{170000}{}{stalowa Å›ciana}
+{170100}{}{stalowa Å›ciana}
+{170200}{}{Å›ciana}
+{170300}{}{Å›ciana}
+{170400}{}{Å›ciana}
+{170500}{}{Å›ciana}
+{170600}{}{Å›ciana}
+{170700}{}{Å›ciana}
+{170800}{}{Å›ciana}
+{170900}{}{Å›ciana}
+{171000}{}{przejÅ›cie}
+{171100}{}{przejÅ›cie}
+{171200}{}{Å›ciana}
+{171300}{}{Å›ciana}
+{171400}{}{przejÅ›cie}
+{171500}{}{przejÅ›cie}
+{171600}{}{Å›ciana}
+{171700}{}{Å›ciana}
+{171800}{}{przejÅ›cie}
+{171900}{}{przejÅ›cie}
+{172000}{}{Å›ciana}
+{172100}{}{rdzewiejÄ…ca stalowa balustrada}
+{172200}{}{rdzewiejÄ…ca stalowa balustrada}
+{172300}{}{rdzewiejÄ…ca stalowa balustrada}
+{172400}{}{rdzewiejÄ…ca stalowa balustrada}
+{172500}{}{rdzewiejÄ…ca stalowa balustrada}
+{172600}{}{rdzewiejÄ…ca stalowa balustrada}
+{172700}{}{rdzewiejÄ…ca stalowa balustrada}
+{172800}{}{rdzewiejÄ…ca stalowa balustrada}
+{172900}{}{rdzewiejÄ…ca stalowa balustrada}
+{173000}{}{rdzewiejÄ…ca stalowa balustrada}
+{173100}{}{rdzewiejÄ…ca stalowa balustrada}
+{173200}{}{rdzewiejÄ…ca stalowa balustrada}
+{173300}{}{rdzewiejÄ…ca stalowa balustrada}
+{173400}{}{Å›ciana}
+{173500}{}{Å›ciana}
+{173600}{}{Å›ciana}
+{173700}{}{Å›ciana}
+{173800}{}{Å›ciana}
+{173900}{}{Å›ciana}
+{174000}{}{Å›ciana}
+{174100}{}{Å›ciana}
+{174200}{}{Å›ciana}
+{174300}{}{Å›ciana}
+{174400}{}{Å›ciana}
+{174500}{}{Å›ciana}
+{174600}{}{Å›ciana}
+{174700}{}{Å›ciana}
+{174800}{}{Å›ciana}
+{174900}{}{Å›ciana}
+{175000}{}{Å›ciana}
+{175100}{}{Å›ciana}
+{175200}{}{Å›ciana}
+{175300}{}{Å›ciana}
+{175400}{}{Å›ciana}
+{175500}{}{Å›ciana}
 {175600}{}{rury}
-{175700}{}{œciana}
-{175800}{}{œciana}
-{175900}{}{œciana}
-{176000}{}{œciana}
-{176100}{}{œciana}
-{176200}{}{œciana}
-{176300}{}{œciana}
-{176400}{}{œciana}
-{176500}{}{œciana}
-{176600}{}{œciana}
-{176700}{}{œciana}
-{176800}{}{œciana}
-{176900}{}{œciana}
-{177000}{}{œciana}
-{177100}{}{œciana}
-{177200}{}{œciana}
-{177300}{}{œciana}
-{177400}{}{œciana}
-{177500}{}{œciana}
-{177600}{}{œciana}
-{177700}{}{œciana}
-{177800}{}{œciana}
-{177900}{}{œciana}
-{178000}{}{œciana}
-{178100}{}{œciana}
-{178200}{}{œciana}
-{178300}{}{œciana}
-{178400}{}{œciana}
-{178500}{}{emiter pola si³owego}
-{178600}{}{emiter pola si³owego}
-{178700}{}{rdzewiej¹ca stalowa balustrada}
-{178800}{}{œciana}
-{178900}{}{œciana}
-{179000}{}{emiter pola si³owego}
-{179100}{}{œciana}
-{179200}{}{emiter pola si³owego}
-{179300}{}{œciana}
-{179400}{}{œciana}
-{179500}{}{œciana}
-{179600}{}{przejœcie}
-{179700}{}{przejœcie}
-{179800}{}{wewnêtrzna œciana okrêtu podwodnego}
-{179900}{}{wewnêtrzna œciana okrêtu podwodnego}
-{180000}{}{wewnêtrzna œciana okrêtu podwodnego}
-{180100}{}{wewnêtrzna œciana okrêtu podwodnego}
-{180200}{}{zewnêtrzna œciana okrêtu podwodnego}
-{180300}{}{zewnêtrzna œciana okrêtu podwodnego}
-{180400}{}{zewnêtrzna œciana okrêtu podwodnego}
-{180500}{}{zewnêtrzna œciana okrêtu podwodnego}
-{180600}{}{zewnêtrzna œciana okrêtu podwodnego}
-{180700}{}{zewnêtrzna œciana okrêtu podwodnego}
-{180800}{}{zewnêtrzna œciana okrêtu podwodnego}
-{180900}{}{zewnêtrzna œciana okrêtu podwodnego}
-{181000}{}{zewnêtrzna œciana okrêtu podwodnego}
-{181100}{}{zewnêtrzna œciana okrêtu podwodnego}
-{181200}{}{wewnêtrzna œciana okrêtu podwodnego}
-{181300}{}{wewnêtrzna œciana okrêtu podwodnego}
-{181400}{}{wewnêtrzna œciana okrêtu podwodnego}
-{181500}{}{zewnêtrzna œciana okrêtu podwodnego}
-{181600}{}{zewnêtrzna œciana okrêtu podwodnego}
-{181700}{}{zewnêtrzna œciana okrêtu podwodnego}
-{181800}{}{zewnêtrzna œciana okrêtu podwodnego}
-{181900}{}{zewnêtrzna œciana okrêtu podwodnego}
-{182000}{}{zewnêtrzna œciana okrêtu podwodnego}
-{182100}{}{zewnêtrzna œciana okrêtu podwodnego}
-{182200}{}{zewnêtrzna œciana okrêtu podwodnego}
-{182300}{}{zewnêtrzna œciana okrêtu podwodnego}
-{182400}{}{wewnêtrzna œciana okrêtu podwodnego}
-{182500}{}{wewnêtrzna œciana okrêtu podwodnego}
-{182600}{}{wewnêtrzna œciana okrêtu podwodnego}
-{182700}{}{przejœcie}
-{182800}{}{przejœcie}
-{182900}{}{wewnêtrzna œciana okrêtu podwodnego}
-{183000}{}{wewnêtrzna œciana okrêtu podwodnego}
-{183100}{}{wewnêtrzna œciana okrêtu podwodnego}
-{183200}{}{wewnêtrzna œciana okrêtu podwodnego}
-{183300}{}{œciana}
-{183400}{}{œciana}
-{183500}{}{œwiec¹ca œciana jaskini}
-{183600}{}{œwiec¹ca œciana jaskini}
-{183700}{}{œwiec¹ca œciana jaskini}
-{183800}{}{œwiec¹ca œciana jaskini}
-{183900}{}{œwiec¹ca œciana jaskini}
-{184000}{}{œwiec¹ca œciana jaskini}
-{184100}{}{œwiec¹ca œciana jaskini}
-{184200}{}{œwiec¹ca œciana jaskini}
-{184300}{}{œwiec¹ca œciana jaskini}
-{184400}{}{œwiec¹ca œciana jaskini}
-{184500}{}{œwiec¹ca œciana jaskini}
-{184600}{}{œwiec¹ca œciana jaskini}
-{184700}{}{œwiec¹ca œciana jaskini}
-{184800}{}{œwiec¹ca œciana jaskini}
-{184900}{}{œwiec¹ca œciana jaskini}
-{185000}{}{œwiec¹ca œciana jaskini}
-{185100}{}{œwiec¹ca œciana jaskini}
-{185200}{}{œwiec¹ca œciana jaskini}
-{185300}{}{œwiec¹ca œciana jaskini}
-{185400}{}{œwiec¹ca œciana jaskini}
-{185500}{}{œwiec¹ca œciana jaskini}
-{185600}{}{œwiec¹ca œciana jaskini}
-{185700}{}{œwiec¹ca œciana jaskini}
-{185800}{}{œwiec¹ca œciana jaskini}
-{185900}{}{œwiec¹ca œciana jaskini}
-{186000}{}{œwiec¹ca œciana jaskini}
-{186100}{}{œwiec¹ca œciana jaskini}
-{186200}{}{œwiec¹ca œciana jaskini}
-{186300}{}{œwiec¹ca œciana jaskini}
-{186400}{}{œwiec¹ca œciana jaskini}
-{186500}{}{œwiec¹ca œciana jaskini}
-{186600}{}{œwiec¹ca œciana jaskini}
-{186700}{}{œwiec¹ca œciana jaskini}
-{186800}{}{œwiec¹ca œciana jaskini}
-{186900}{}{œwiec¹ca œciana jaskini}
-{187000}{}{œwiec¹ca œciana jaskini}
-{187100}{}{œwiec¹ca œciana jaskini}
-{187200}{}{œwiec¹ca œciana jaskini}
-{187300}{}{œwiec¹ca œciana jaskini}
-{187400}{}{œwiec¹ca œciana jaskini}
-{187500}{}{œwiec¹ca œciana jaskini}
-{187600}{}{œwiec¹ca œciana jaskini}
-{187700}{}{œwiec¹ca œciana jaskini}
-{187800}{}{œwiec¹ca œciana jaskini}
-{187900}{}{œwiec¹ca œciana jaskini}
-{188000}{}{œwiec¹ca œciana jaskini}
-{188100}{}{œwiec¹ca œciana jaskini}
-{188200}{}{œwiec¹ca œciana jaskini}
-{188300}{}{œwiec¹ca œciana jaskini}
-{188400}{}{œwiec¹ca œciana jaskini}
-{188500}{}{œwiec¹ca œciana jaskini}
-{188600}{}{œwiec¹ca œciana jaskini}
-{188700}{}{przejœcie}
-{188800}{}{przejœcie}
-{188900}{}{œciana}
-{189000}{}{œciana}
-{189100}{}{œciana}
-{189200}{}{œciana}
-{189300}{}{œciana}
-{189400}{}{œciana}
-{189500}{}{œciana}
-{189600}{}{œciana}
+{175700}{}{Å›ciana}
+{175800}{}{Å›ciana}
+{175900}{}{Å›ciana}
+{176000}{}{Å›ciana}
+{176100}{}{Å›ciana}
+{176200}{}{Å›ciana}
+{176300}{}{Å›ciana}
+{176400}{}{Å›ciana}
+{176500}{}{Å›ciana}
+{176600}{}{Å›ciana}
+{176700}{}{Å›ciana}
+{176800}{}{Å›ciana}
+{176900}{}{Å›ciana}
+{177000}{}{Å›ciana}
+{177100}{}{Å›ciana}
+{177200}{}{Å›ciana}
+{177300}{}{Å›ciana}
+{177400}{}{Å›ciana}
+{177500}{}{Å›ciana}
+{177600}{}{Å›ciana}
+{177700}{}{Å›ciana}
+{177800}{}{Å›ciana}
+{177900}{}{Å›ciana}
+{178000}{}{Å›ciana}
+{178100}{}{Å›ciana}
+{178200}{}{Å›ciana}
+{178300}{}{Å›ciana}
+{178400}{}{Å›ciana}
+{178500}{}{emiter pola siÅ‚owego}
+{178600}{}{emiter pola siÅ‚owego}
+{178700}{}{rdzewiejÄ…ca stalowa balustrada}
+{178800}{}{Å›ciana}
+{178900}{}{Å›ciana}
+{179000}{}{emiter pola siÅ‚owego}
+{179100}{}{Å›ciana}
+{179200}{}{emiter pola siÅ‚owego}
+{179300}{}{Å›ciana}
+{179400}{}{Å›ciana}
+{179500}{}{Å›ciana}
+{179600}{}{przejÅ›cie}
+{179700}{}{przejÅ›cie}
+{179800}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{179900}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{180000}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{180100}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{180200}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{180300}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{180400}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{180500}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{180600}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{180700}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{180800}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{180900}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{181000}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{181100}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{181200}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{181300}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{181400}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{181500}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{181600}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{181700}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{181800}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{181900}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{182000}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{182100}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{182200}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{182300}{}{zewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{182400}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{182500}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{182600}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{182700}{}{przejÅ›cie}
+{182800}{}{przejÅ›cie}
+{182900}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{183000}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{183100}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{183200}{}{wewnÄ™trzna Å›ciana okrÄ™tu podwodnego}
+{183300}{}{Å›ciana}
+{183400}{}{Å›ciana}
+{183500}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{183600}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{183700}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{183800}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{183900}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{184000}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{184100}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{184200}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{184300}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{184400}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{184500}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{184600}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{184700}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{184800}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{184900}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{185000}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{185100}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{185200}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{185300}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{185400}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{185500}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{185600}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{185700}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{185800}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{185900}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{186000}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{186100}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{186200}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{186300}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{186400}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{186500}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{186600}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{186700}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{186800}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{186900}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{187000}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{187100}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{187200}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{187300}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{187400}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{187500}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{187600}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{187700}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{187800}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{187900}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{188000}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{188100}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{188200}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{188300}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{188400}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{188500}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{188600}{}{Å›wiecÄ…ca Å›ciana jaskini}
+{188700}{}{przejÅ›cie}
+{188800}{}{przejÅ›cie}
+{188900}{}{Å›ciana}
+{189000}{}{Å›ciana}
+{189100}{}{Å›ciana}
+{189200}{}{Å›ciana}
+{189300}{}{Å›ciana}
+{189400}{}{Å›ciana}
+{189500}{}{Å›ciana}
+{189600}{}{Å›ciana}
 {189700}{}{okno}
 {189800}{}{okno}
 {189900}{}{okno}
-{190000}{}{œciana}
-{190100}{}{œciana}
-{190200}{}{œciana}
-{190300}{}{œciana}
-{190400}{}{œciana}
-{190500}{}{œciana}
-{190600}{}{œciana}
-{190700}{}{œciana}
+{190000}{}{Å›ciana}
+{190100}{}{Å›ciana}
+{190200}{}{Å›ciana}
+{190300}{}{Å›ciana}
+{190400}{}{Å›ciana}
+{190500}{}{Å›ciana}
+{190600}{}{Å›ciana}
+{190700}{}{Å›ciana}
 {190800}{}{okno}
 {190900}{}{okno}
 {191000}{}{okno}
-{191100}{}{œciana}
-{191200}{}{œciana}
-{191300}{}{œciana}
-{191400}{}{œciana}
-{191500}{}{œciana}
-{191600}{}{œciana}
-{191700}{}{œciana}
-{191800}{}{œciana}
-{191900}{}{œciana}
+{191100}{}{Å›ciana}
+{191200}{}{Å›ciana}
+{191300}{}{Å›ciana}
+{191400}{}{Å›ciana}
+{191500}{}{Å›ciana}
+{191600}{}{Å›ciana}
+{191700}{}{Å›ciana}
+{191800}{}{Å›ciana}
+{191900}{}{Å›ciana}
 {192000}{}{okno}
 {192100}{}{okno}
 {192200}{}{okno}
 {192300}{}{okno}
 {192400}{}{okno}
 {192500}{}{okno}
-{192600}{}{œciana}
-{192700}{}{œciana}
-{192800}{}{œciana}
-{192900}{}{œciana}
+{192600}{}{Å›ciana}
+{192700}{}{Å›ciana}
+{192800}{}{Å›ciana}
+{192900}{}{Å›ciana}
 {193000}{}{okno}
 {193100}{}{okno}
 {193200}{}{okno}
-{193300}{}{œciana}
-{193400}{}{œciana}
-{193500}{}{œciana}
-{193600}{}{œciana}
+{193300}{}{Å›ciana}
+{193400}{}{Å›ciana}
+{193500}{}{Å›ciana}
+{193600}{}{Å›ciana}
 {193700}{}{okno}
 {193800}{}{okno}
 {193900}{}{okno}
-{194000}{}{przejœcie}
-{194100}{}{przejœcie}
-{194200}{}{przejœcie}
-{194300}{}{przejœcie}
-{194400}{}{przejœcie}
+{194000}{}{przejÅ›cie}
+{194100}{}{przejÅ›cie}
+{194200}{}{przejÅ›cie}
+{194300}{}{przejÅ›cie}
+{194400}{}{przejÅ›cie}

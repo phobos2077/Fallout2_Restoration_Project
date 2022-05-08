@@ -1,5 +1,5 @@
 {100}{}{Usted ve un inquieto guardaespaldas.}
-{101}{}{Uno de One-Eyed Roy guardaespaldas. Él se ve aburrido y con ganas de acción.}
-{200}{}{¿Qué están mirando, tribales?}
+{101}{}{Uno de One-Eyed Roy guardaespaldas. Ã‰l se ve aburrido y con ganas de acciÃ³n.}
+{200}{}{Â¿QuÃ© estÃ¡n mirando, tribales?}
 {201}{}{Vamos a esta mierda en el camino, tengo hambre.}
 {202}{}{Cuando llego a disparar a algo?}

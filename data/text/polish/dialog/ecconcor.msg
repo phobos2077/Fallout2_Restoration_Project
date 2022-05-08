@@ -1,4 +1,4 @@
-{100}{}{Widzisz mê¿czyznê.}
+{100}{}{Widzisz mÄ™Å¼czyznÄ™.}
 {101}{}{To jest Concorde.}
-{102}{}{Stuka dwiema po³ówkami orzecha kokosowego.}
+{102}{}{Stuka dwiema poÅ‚Ã³wkami orzecha kokosowego.}
 {103}{}{Klip! Klap!}

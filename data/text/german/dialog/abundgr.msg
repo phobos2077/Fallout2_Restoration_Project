@@ -1,1 +1,1 @@
-{100}{}{Du betrittst eine dunkle Höhle. Du hörst Kreaturen umherhuschen.}
+{100}{}{Du betrittst eine dunkle HÃ¶hle. Du hÃ¶rst Kreaturen umherhuschen.}

@@ -1,129 +1,129 @@
 {100}{}{A Lyuk tulajdonosa.}
 {101}{}{? Frankie, a Lyuk tulaja.}
 {150}{}{? ennek a helynek a tulajdonosa.}
-{151}{}{? Frankie. Övé ez a hely.}
-{152}{}{[Beszélgetés]}
-{153}{}{Frankie vagyok, ez pedig itt a Lyuk. A legjobb bár a környéken! Mindenki ide jár lazítani. Aztán ne keresd nekem a bajt, hallod-e?}
-{154}{}{Majd vigyázok...}
+{151}{}{? Frankie. Ã–vÃ© ez a hely.}
+{152}{}{[BeszÃ©lgetÃ©s]}
+{153}{}{Frankie vagyok, ez pedig itt a Lyuk. A legjobb bÃ¡r a kÃ¶rnyÃ©ken! Mindenki ide jÃ¡r lazÃ­tani. AztÃ¡n ne keresd nekem a bajt, hallod-e?}
+{154}{}{Majd vigyÃ¡zok...}
 {155}{}{Ja, persze-persze.}
-{156}{}{Már értem, mért hívjátok ezt a helyet "Lyuk"-nak.}
-{157}{}{Nahát...}
-{158}{}{Mit kérsz?}
+{156}{}{MÃ¡r Ã©rtem, mÃ©rt hÃ­vjÃ¡tok ezt a helyet "Lyuk"-nak.}
+{157}{}{NahÃ¡t...}
+{158}{}{Mit kÃ©rsz?}
 {159}{}{Whiskey-t.}
 {160}{}{N?t.}
-{161}{}{Férfit.}
-{162}{}{Infót.}
-{163}{}{Ma semmit. Viszlát!}
-{164}{}{Víí víí.}
-{165}{}{Hé! Jobb, ha befogod a lyukad!}
-{166}{}{Különben?}
-{167}{}{Csak végezd a munkád és adj egy italt!}
-{168}{}{Inkább elmegyek.}
+{161}{}{FÃ©rfit.}
+{162}{}{InfÃ³t.}
+{163}{}{Ma semmit. ViszlÃ¡t!}
+{164}{}{VÃ­Ã­ vÃ­Ã­.}
+{165}{}{HÃ©! Jobb, ha befogod a lyukad!}
+{166}{}{KÃ¼lÃ¶nben?}
+{167}{}{Csak vÃ©gezd a munkÃ¡d Ã©s adj egy italt!}
+{168}{}{InkÃ¡bb elmegyek.}
 {169}{}{A whiskey }
-{170}{}{ dollár lesz.}
-{171}{}{Tessék, itt a pénz.}
-{172}{}{Francokat! Az túl sok!}
-{173}{}{Miért kerül a te whiskey-d jóval többe, mint Becky-é?}
-{174}{}{Kösz nem.}
-{175}{}{Másvalamit?}
+{170}{}{ dollÃ¡r lesz.}
+{171}{}{TessÃ©k, itt a pÃ©nz.}
+{172}{}{Francokat! Az tÃºl sok!}
+{173}{}{MiÃ©rt kerÃ¼l a te whiskey-d jÃ³val tÃ¶bbe, mint Becky-Ã©?}
+{174}{}{KÃ¶sz nem.}
+{175}{}{MÃ¡svalamit?}
 {176}{}{Igen.}
-{177}{}{Nem, kösz.}
-{178}{}{Nincs elég pénzed!}
-{179}{}{Ó, bocs. Kicsit leégtem.}
+{177}{}{Nem, kÃ¶sz.}
+{178}{}{Nincs elÃ©g pÃ©nzed!}
+{179}{}{Ã“, bocs. Kicsit leÃ©gtem.}
 {180}{}{I'll come back.}
 {181}{}{Mit akarsz?}
 {182}{}{Whiskey-t.}
 {183}{}{Nothing. I'm leaving.}
 {184}{}{Pipilni kell!}
-{185}{}{És maradj is odakint!}
+{185}{}{Ã‰s maradj is odakint!}
 {186}{}{[EXIT]}
-{187}{}{Nem t?rök ilyen embereket a báromban! Takarodj kifelé!}
+{187}{}{Nem t?rÃ¶k ilyen embereket a bÃ¡romban! Takarodj kifelÃ©!}
 {188}{}{Rendben, indulok.}
-{189}{}{Áh.}
-{190}{}{Azok a New Reno-i családok rengeteget elkérnek a piájukért. Nem tudom, ? hogy csinálja!}
-{191}{}{Hát, ki kéne derítened...}
-{192}{}{Kideríthetném.}
-{193}{}{Tudom, hogy csinálja.}
-{194}{}{Inkább nála iszom whiskey-t.}
-{195}{}{Fizetek neked 100 dollárt, ha kideríted, hogy csinálja.}
-{196}{}{Oké, vállalom.}
-{197}{}{Nem érdekel.}
-{198}{}{Szóval, mi Becky titka? Hogy adhatja olyan olcsón a piáját?}
-{199}{}{Van egy szeszlepárlója.}
-{200}{}{Még nem tudom. Majd visszajövök.}
-{201}{}{Mi? Van egy szeszlepárlója? Picsába! Itt a 100 dollár és fizetek még 500-at, ha tönkreteszed. Használhatod a pajszeromat, ott van a hátsó szobában. Az majd jól betesz annak a hülye kis lepárlónak!}
-{202}{}{Már megtettem.}
-{203}{}{Oké, szétverem.}
-{204}{}{Francokat. Az már sok lenne. Megvan az információ, a többit intézd el te!}
-{205}{}{Nem, van egy jobb ötletem.}
-{206}{}{Na, szétverted már a lepárlót? Csak használd rajta a pajszerom! Azzal hamar végzel vele.}
+{189}{}{Ãh.}
+{190}{}{Azok a New Reno-i csalÃ¡dok rengeteget elkÃ©rnek a piÃ¡jukÃ©rt. Nem tudom, ? hogy csinÃ¡lja!}
+{191}{}{HÃ¡t, ki kÃ©ne derÃ­tened...}
+{192}{}{KiderÃ­thetnÃ©m.}
+{193}{}{Tudom, hogy csinÃ¡lja.}
+{194}{}{InkÃ¡bb nÃ¡la iszom whiskey-t.}
+{195}{}{Fizetek neked 100 dollÃ¡rt, ha kiderÃ­ted, hogy csinÃ¡lja.}
+{196}{}{OkÃ©, vÃ¡llalom.}
+{197}{}{Nem Ã©rdekel.}
+{198}{}{SzÃ³val, mi Becky titka? Hogy adhatja olyan olcsÃ³n a piÃ¡jÃ¡t?}
+{199}{}{Van egy szeszlepÃ¡rlÃ³ja.}
+{200}{}{MÃ©g nem tudom. Majd visszajÃ¶vÃ¶k.}
+{201}{}{Mi? Van egy szeszlepÃ¡rlÃ³ja? PicsÃ¡ba! Itt a 100 dollÃ¡r Ã©s fizetek mÃ©g 500-at, ha tÃ¶nkreteszed. HasznÃ¡lhatod a pajszeromat, ott van a hÃ¡tsÃ³ szobÃ¡ban. Az majd jÃ³l betesz annak a hÃ¼lye kis lepÃ¡rlÃ³nak!}
+{202}{}{MÃ¡r megtettem.}
+{203}{}{OkÃ©, szÃ©tverem.}
+{204}{}{Francokat. Az mÃ¡r sok lenne. Megvan az informÃ¡ciÃ³, a tÃ¶bbit intÃ©zd el te!}
+{205}{}{Nem, van egy jobb Ã¶tletem.}
+{206}{}{Na, szÃ©tverted mÃ¡r a lepÃ¡rlÃ³t? Csak hasznÃ¡ld rajta a pajszerom! Azzal hamar vÃ©gzel vele.}
 {207}{}{Igen.}
-{208}{}{Van egy jobb ötletem.}
-{209}{}{Nem, majd szólok, ha már végeztem vele.}
-{210}{}{Remek, itt az 500 dollárod. Köszi.}
-{211}{}{Öröm veled üzletelni.}
-{212}{}{Tudod, Frankie, majd épít egy másikat.}
-{213}{}{Kösz, viszlát!}
-{214}{}{Francba! De legalább addig sem lesz piája.}
-{215}{}{Miért rivalizáltok, Frankie? Inkább álljatok össze.}
-{216}{}{Gondolkozz! Mi egyéb helyr?l szerezhetnél piát?}
-{217}{}{Ezt most hogy kell értenem?}
-{218}{}{Vásárold t?le a piát! Olcsóbb, mint ami New Renóból jön, így többet is keresel.}
+{208}{}{Van egy jobb Ã¶tletem.}
+{209}{}{Nem, majd szÃ³lok, ha mÃ¡r vÃ©geztem vele.}
+{210}{}{Remek, itt az 500 dollÃ¡rod. KÃ¶szi.}
+{211}{}{Ã–rÃ¶m veled Ã¼zletelni.}
+{212}{}{Tudod, Frankie, majd Ã©pÃ­t egy mÃ¡sikat.}
+{213}{}{KÃ¶sz, viszlÃ¡t!}
+{214}{}{Francba! De legalÃ¡bb addig sem lesz piÃ¡ja.}
+{215}{}{MiÃ©rt rivalizÃ¡ltok, Frankie? InkÃ¡bb Ã¡lljatok Ã¶ssze.}
+{216}{}{Gondolkozz! Mi egyÃ©b helyr?l szerezhetnÃ©l piÃ¡t?}
+{217}{}{Ezt most hogy kell Ã©rtenem?}
+{218}{}{VÃ¡sÃ¡rold t?le a piÃ¡t! OlcsÃ³bb, mint ami New RenÃ³bÃ³l jÃ¶n, Ã­gy tÃ¶bbet is keresel.}
 {219}{}{I don't want to do this.}
-{220}{}{Értem.}
-{221}{}{Nézd, én csak azt akarom, hogy a lepárlója tönkre menjen. Megteszed?}
+{220}{}{Ã‰rtem.}
+{221}{}{NÃ©zd, Ã©n csak azt akarom, hogy a lepÃ¡rlÃ³ja tÃ¶nkre menjen. Megteszed?}
 {222}{}{Rendben, megteszem.}
-{223}{}{Nem. Minden jót!}
-{224}{}{Talán igazad van. Majd beszélek vele. Kösz.}
-{225}{}{Mire fel vannak a barátok?}
-{226}{}{Viszlát!}
-{227}{}{Információval nem szolgálhatok.}
-{228}{}{Igazán? És azt tudod, hogy miért olcsóbb Becky italja a tiednél?}
+{223}{}{Nem. Minden jÃ³t!}
+{224}{}{TalÃ¡n igazad van. Majd beszÃ©lek vele. KÃ¶sz.}
+{225}{}{Mire fel vannak a barÃ¡tok?}
+{226}{}{ViszlÃ¡t!}
+{227}{}{InformÃ¡ciÃ³val nem szolgÃ¡lhatok.}
+{228}{}{IgazÃ¡n? Ã‰s azt tudod, hogy miÃ©rt olcsÃ³bb Becky italja a tiednÃ©l?}
 {229}{}{Azt hittem, hogy a csaposok mindent tudnak...}
-{230}{}{Akkor rossz helyen járok. Viszlát!}
-{231}{}{Eredj, beszélj Sheilával! Hé, Sheila, vendéged van!}
-{232}{}{Várj, én nem ezt akarom!}
-{233}{}{Kösz. Viszlát!}
-{234}{}{Ja, gondoltam. Biztos nehezen szerzel pasikat. Máshol próbálkozz. Én nem vállalom.}
-{235}{}{Rendben. Akkor valami mást.}
+{230}{}{Akkor rossz helyen jÃ¡rok. ViszlÃ¡t!}
+{231}{}{Eredj, beszÃ©lj SheilÃ¡val! HÃ©, Sheila, vendÃ©ged van!}
+{232}{}{VÃ¡rj, Ã©n nem ezt akarom!}
+{233}{}{KÃ¶sz. ViszlÃ¡t!}
+{234}{}{Ja, gondoltam. Biztos nehezen szerzel pasikat. MÃ¡shol prÃ³bÃ¡lkozz. Ã‰n nem vÃ¡llalom.}
+{235}{}{Rendben. Akkor valami mÃ¡st.}
 {236}{}{Te kis...}
 {237}{}{Ez t?led nem kell!}
-{238}{}{Van ott egy szobám. Te és én használhatnánk...}
-{239}{}{OKÉ.}
+{238}{}{Van ott egy szobÃ¡m. Te Ã©s Ã©n hasznÃ¡lhatnÃ¡nk...}
+{239}{}{OKÃ‰.}
 {240}{}{Nem, nem erre gondoltam.}
 {242}{}{Te sem.}
-{243}{}{Megpróbáltam volna, ha tudnád mi kell a n?nek.}
-{244}{}{Eddig te voltál a legjobb. Komolyan mondom.}
-{245}{}{Utálok enni és futni, de...}
-{246}{}{Hát, akkor kés?bb találkozunk.}
-{247}{}{Viszlát!}
-{248}{}{Ja, persze. Csak takaríts fel magad után!}
-{249}{}{Kis figyelmet, emberek! Örvendezzetek Billy miatt! Végre meglesz neki...}
-{250}{}{Akarsz egy numerát?}
-{251}{}{Találkozunk az ötösben.}
-{252}{}{Sheila! Figyelj a bárra!}
-{253}{}{Hé, Billy, takarodj innen!}
+{243}{}{MegprÃ³bÃ¡ltam volna, ha tudnÃ¡d mi kell a n?nek.}
+{244}{}{Eddig te voltÃ¡l a legjobb. Komolyan mondom.}
+{245}{}{UtÃ¡lok enni Ã©s futni, de...}
+{246}{}{HÃ¡t, akkor kÃ©s?bb talÃ¡lkozunk.}
+{247}{}{ViszlÃ¡t!}
+{248}{}{Ja, persze. Csak takarÃ­ts fel magad utÃ¡n!}
+{249}{}{Kis figyelmet, emberek! Ã–rvendezzetek Billy miatt! VÃ©gre meglesz neki...}
+{250}{}{Akarsz egy numerÃ¡t?}
+{251}{}{TalÃ¡lkozunk az Ã¶tÃ¶sben.}
+{252}{}{Sheila! Figyelj a bÃ¡rra!}
+{253}{}{HÃ©, Billy, takarodj innen!}
 {254}{}{Nos, hol is tartottunk?}
 {255}{}{Hol vagy, te n??}
-{256}{}{Befáradnál ide?}
-{257}{}{Gyerünk, bébi!}
-{258}{}{Kövess!}
-{259}{}{Engem egy n? sem mozdít el innen. T?nés kifelé!}
+{256}{}{BefÃ¡radnÃ¡l ide?}
+{257}{}{GyerÃ¼nk, bÃ©bi!}
+{258}{}{KÃ¶vess!}
+{259}{}{Engem egy n? sem mozdÃ­t el innen. T?nÃ©s kifelÃ©!}
 {260}{}{Remek.}
-{261}{}{Elfelejtettem, viszont valamit még el kell intéznem. Bocsáss meg, bébi!}
-{262}{}{Meggondoltam magam, mégsem akarom látni a ronda fejedet.}
-{263}{}{Szerencséd van. Jó fiú vagyok. Csak ne szarozz velem még egyszer!}
-{264}{}{Nem fogok, bébi, ígérem.}
-{265}{}{Szappanos lábbal foglak picsán rúgni, asszony!}
-{266}{}{Senki nem beszélhet így velem! Dögölj meg!}
-{267}{}{Megvolt az esélyed. T?nés!}
-{268}{}{Nem jöhetsz be ide azzal a szeméttel!}
-{300}{}{Hé, arról rohadtul nem volt szó, hogy akkor is fizetek, ha megölöd a kurvát! Húzz innen a retkes picsába!}
-{350}{}{Azt a mindenit! Ez csodálatos volt.}
-{351}{}{Ty?ha! Egész jó voltál, bébi.}
-{352}{}{Kösz, jó volt. Most pedig t?nés!}
-{353}{}{Te jó, ööö... Felejtsd el és húzz innen!}
-{354}{}{Hát, ennél rosszabb még sosem volt.}
-{400}{}{Tudod, bébi, szexi vagy meg minden, de van még mit tanulnod.}
-{410}{}{Bébi, dolgoznom kell. Nem azért állok itt egész nap, hogy ne csináljak semmit. Na, jó, mi van, ha mégis? Szóval ezért vagyok itt.}
+{261}{}{Elfelejtettem, viszont valamit mÃ©g el kell intÃ©znem. BocsÃ¡ss meg, bÃ©bi!}
+{262}{}{Meggondoltam magam, mÃ©gsem akarom lÃ¡tni a ronda fejedet.}
+{263}{}{SzerencsÃ©d van. JÃ³ fiÃº vagyok. Csak ne szarozz velem mÃ©g egyszer!}
+{264}{}{Nem fogok, bÃ©bi, Ã­gÃ©rem.}
+{265}{}{Szappanos lÃ¡bbal foglak picsÃ¡n rÃºgni, asszony!}
+{266}{}{Senki nem beszÃ©lhet Ã­gy velem! DÃ¶gÃ¶lj meg!}
+{267}{}{Megvolt az esÃ©lyed. T?nÃ©s!}
+{268}{}{Nem jÃ¶hetsz be ide azzal a szemÃ©ttel!}
+{300}{}{HÃ©, arrÃ³l rohadtul nem volt szÃ³, hogy akkor is fizetek, ha megÃ¶lÃ¶d a kurvÃ¡t! HÃºzz innen a retkes picsÃ¡ba!}
+{350}{}{Azt a mindenit! Ez csodÃ¡latos volt.}
+{351}{}{Ty?ha! EgÃ©sz jÃ³ voltÃ¡l, bÃ©bi.}
+{352}{}{KÃ¶sz, jÃ³ volt. Most pedig t?nÃ©s!}
+{353}{}{Te jÃ³, Ã¶Ã¶Ã¶... Felejtsd el Ã©s hÃºzz innen!}
+{354}{}{HÃ¡t, ennÃ©l rosszabb mÃ©g sosem volt.}
+{400}{}{Tudod, bÃ©bi, szexi vagy meg minden, de van mÃ©g mit tanulnod.}
+{410}{}{BÃ©bi, dolgoznom kell. Nem azÃ©rt Ã¡llok itt egÃ©sz nap, hogy ne csinÃ¡ljak semmit. Na, jÃ³, mi van, ha mÃ©gis? SzÃ³val ezÃ©rt vagyok itt.}
 {420}{}{Look, I just wanted her still destroyed and you do it. Now beat it.}

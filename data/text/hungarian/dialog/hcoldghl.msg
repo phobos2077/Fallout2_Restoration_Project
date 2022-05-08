@@ -1,36 +1,36 @@
-{100}{}{Egy összeaszott ghoult látsz.}
-{101}{}{Egy öreg ghoult látsz azon néhány közül, akik otthonuknak nevezik ezt a házat.}
-{102}{}{Olyan fáradt vagyok...}
-{103}{}{Belefáradtam. Belefáradtam a várakozásba, belefáradtam, hogy várjak r-áá-d.}
-{104}{}{Mikor kell lefeküdnöm?}
-{105}{}{Mi ez a borzalmas b?z? Ja, csak én.}
-{106}{}{Nincs még 4 óra? Vacsorát akarok!}
-{107}{}{Ez igen, már majdnem egy órája nem ficamítottam ki a csíp?met!}
-{108}{}{Nem látta valaki a fogamat?}
-{109}{}{Hol a kajám?}
-{110}{}{Halál! Engem akarsz? Itt vagyok!}
-{111}{}{Helló, Billy! Úgy örülök, hogy visszajöttél meglátogatni.}
-{112}{}{A megöregedés nem puhányoknak való.}
-{113}{}{Hoppáré! A beleim!}
-{114}{}{Van valakinél egy pelenka?}
-{115}{}{Olyan sok bölcsességet szedtem össze, mégsem örülök neki.}
-{116}{}{Ghoulok manapság... ugyan!}
-{117}{}{Semmi tisztelet... Senkit nem tisztelnek ma már.}
-{118}{}{Emlékszem még a jó öreg Setre...}
-{119}{}{Hogy juthatott el az öreg Jed Gekkóba?}
-{120}{}{Szereted a mutikat? Én szeretem ?ket.}
-{121}{}{Imádom a krumplit! Szeretem törve! Szeretem sütve!}
-{122}{}{Éhes vagyok!}
-{123}{}{Bárcsak lenne pár növény idebenn.}
+{100}{}{Egy Ã¶sszeaszott ghoult lÃ¡tsz.}
+{101}{}{Egy Ã¶reg ghoult lÃ¡tsz azon nÃ©hÃ¡ny kÃ¶zÃ¼l, akik otthonuknak nevezik ezt a hÃ¡zat.}
+{102}{}{Olyan fÃ¡radt vagyok...}
+{103}{}{BelefÃ¡radtam. BelefÃ¡radtam a vÃ¡rakozÃ¡sba, belefÃ¡radtam, hogy vÃ¡rjak r-Ã¡Ã¡-d.}
+{104}{}{Mikor kell lefekÃ¼dnÃ¶m?}
+{105}{}{Mi ez a borzalmas b?z? Ja, csak Ã©n.}
+{106}{}{Nincs mÃ©g 4 Ã³ra? VacsorÃ¡t akarok!}
+{107}{}{Ez igen, mÃ¡r majdnem egy Ã³rÃ¡ja nem ficamÃ­tottam ki a csÃ­p?met!}
+{108}{}{Nem lÃ¡tta valaki a fogamat?}
+{109}{}{Hol a kajÃ¡m?}
+{110}{}{HalÃ¡l! Engem akarsz? Itt vagyok!}
+{111}{}{HellÃ³, Billy! Ãšgy Ã¶rÃ¼lÃ¶k, hogy visszajÃ¶ttÃ©l meglÃ¡togatni.}
+{112}{}{A megÃ¶regedÃ©s nem puhÃ¡nyoknak valÃ³.}
+{113}{}{HoppÃ¡rÃ©! A beleim!}
+{114}{}{Van valakinÃ©l egy pelenka?}
+{115}{}{Olyan sok bÃ¶lcsessÃ©get szedtem Ã¶ssze, mÃ©gsem Ã¶rÃ¼lÃ¶k neki.}
+{116}{}{Ghoulok manapsÃ¡g... ugyan!}
+{117}{}{Semmi tisztelet... Senkit nem tisztelnek ma mÃ¡r.}
+{118}{}{EmlÃ©kszem mÃ©g a jÃ³ Ã¶reg Setre...}
+{119}{}{Hogy juthatott el az Ã¶reg Jed GekkÃ³ba?}
+{120}{}{Szereted a mutikat? Ã‰n szeretem ?ket.}
+{121}{}{ImÃ¡dom a krumplit! Szeretem tÃ¶rve! Szeretem sÃ¼tve!}
+{122}{}{Ã‰hes vagyok!}
+{123}{}{BÃ¡rcsak lenne pÃ¡r nÃ¶vÃ©ny idebenn.}
 {124}{}{Nem szeretek kint lenni.}
-{125}{}{Ez az öreg uránbánya is hamarosan kimerül.}
-{126}{}{Te nem Menedékvárosból vagy, ugye?}
-{127}{}{Emlékszem még, amikor a "Fényl?k" ellen küzdöttünk Necropolis alatt... azok voltak a szép napok...}
-{128}{}{Hadd meséljek neked arról, amikor kinyitottuk a Menedéket...}
+{125}{}{Ez az Ã¶reg urÃ¡nbÃ¡nya is hamarosan kimerÃ¼l.}
+{126}{}{Te nem MenedÃ©kvÃ¡rosbÃ³l vagy, ugye?}
+{127}{}{EmlÃ©kszem mÃ©g, amikor a "FÃ©nyl?k" ellen kÃ¼zdÃ¶ttÃ¼nk Necropolis alatt... azok voltak a szÃ©p napok...}
+{128}{}{Hadd mesÃ©ljek neked arrÃ³l, amikor kinyitottuk a MenedÃ©ket...}
 {129}{}{...mit is kezdtem el mondani?}
-{130}{}{::ásít::}
+{130}{}{::Ã¡sÃ­t::}
 {131}{}{::pffffft::}
-{132}{}{Nincs semmi mondandóm senkinek!}
-{133}{}{Szundikálni szeretnék.}
-{134}{}{Hideg van és farkasok vannak a nyomomban.}
-{135}{}{A kutyák még órákig tudják csóválni a farkukat a haláluk után!}
+{132}{}{Nincs semmi mondandÃ³m senkinek!}
+{133}{}{SzundikÃ¡lni szeretnÃ©k.}
+{134}{}{Hideg van Ã©s farkasok vannak a nyomomban.}
+{135}{}{A kutyÃ¡k mÃ©g Ã³rÃ¡kig tudjÃ¡k csÃ³vÃ¡lni a farkukat a halÃ¡luk utÃ¡n!}

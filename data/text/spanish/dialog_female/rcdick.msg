@@ -1,153 +1,153 @@
-{100}{}{Ves un hombre con pinta desaliñada y una poblada barba.}
+{100}{}{Ves un hombre con pinta desaliÃ±ada y una poblada barba.}
 {101}{}{Ves a Athabaska Dick.}
 {102}{}{Este hombre tiene aspecto de ser un minero que conozca su camino hacia el agujero.}
 {103}{}{Eres demasiado bobo para trabajar en una mina.}
 {104}{}{Bienvenida a la gran ciudad.}
-{105}{}{Tu tragaluz gotea un poco, ¿no?}
+{105}{}{Tu tragaluz gotea un poco, Â¿no?}
 {106}{}{Eres tan inteligente como un cebo.}
-{107}{}{He usado palas con más cerebro que tú.}
-{108}{}{Lo mismo de siempre, para variar. Todos somos mineros que sólo trabajamos para conseguir nuestro próximo colocón de Jet.}
-{109}{}{Déjame hacerte otra pregunta.}
-{110}{}{¿Jet? ¿Qué es el Jet?}
-{111}{}{Ya veo. Adiós.}
+{107}{}{He usado palas con mÃ¡s cerebro que tÃº.}
+{108}{}{Lo mismo de siempre, para variar. Todos somos mineros que sÃ³lo trabajamos para conseguir nuestro prÃ³ximo colocÃ³n de Jet.}
+{109}{}{DÃ©jame hacerte otra pregunta.}
+{110}{}{Â¿Jet? Â¿QuÃ© es el Jet?}
+{111}{}{Ya veo. AdiÃ³s.}
 {112}{}{Bueno, la mayor parte de nosotros estamos trabajando como burros para conseguir suficiente Jet. 
- ¡Malditos precios, todo el rato subiendo! Odio como me siento cuando no estoy colocado con Jet.}
-{113}{}{Déjame hacerte otra pregunta.}
-{114}{}{¿Jet? ¿Qué es el Jet?}
-{115}{}{Ya veo. Adiós.}
-{116}{}{Apenas puedo trabajar lo suficiente como para conseguir el Jet que necesito para sentirme bien. Quizá podamos trabajar en alguna otra cosa en Nuevo Reno. He oído que Ascorti podría estar trabajando en ello.}
-{117}{}{Déjame hacerte otra pregunta.}
-{118}{}{¿Ascorti? ¿Quién es ese?}
-{119}{}{¿Jet? ¿Qué es el Jet?}
-{120}{}{Ya veo. Adiós.}
-{121}{}{No me siento demasiado bien últimamente, y parece que no soy el único. 
- Intenté tomar más Jet, pero eso no parece ayudarnos a ninguno. 
- Creo que está haciéndome sentir peor que nunca. Me siento hecho polvo, como la mayoría de los mineros.}
-{122}{}{Déjame hacerte otra pregunta.}
-{123}{}{¿Jet? ¿Qué es el Jet?}
-{124}{}{Ya veo. Adiós.}
-{125}{}{No sé lo que ha ocurrido, pero todo el mundo dejó el Jet después de ese último lote. 
- Sentí como si fuéramos volando con el Jet hacia el gran aeropuerto del cielo. Nadie tiene mucho interés en tomarlo de nuevo.
- Sólo la idea me hace enfermar.}
-{126}{}{Déjame hacerte otra pregunta.}
-{127}{}{¿Jet? ¿Qué es el Jet?}
-{128}{}{Ya veo. Adiós.}
-{129}{}{Hola. Mi nombre es Athabaska Dick. La mayoría de la gente me llama Dick.
- También hay alguno que me llama Athabaska, por supuesto. Aunque la mayoría me llama Dick.}
-{130}{}{Hola. ¿Qué puede hacer el viejo Athabaska Dick por ti?}
-{131}{}{Vamos. ¡Deprisa! ¡Deprisa! ¿Y bien? ¿A qué estas esperando? Si quieres hablar con Athabaska Dick necesitas hablar más rápido.}
-{132}{}{Qué? ¿Qué quieres? ¿No ves que estoy ocupado? (murmulla para sí mismo) Debo estar ocupado todo el rato... ocupado... ocupado...}
-{133}{}{(gruñendo) ¿Qué quieres del viejo Athabaska Dick? (a sí mismo) Me siento como si hubiera sido pateado en la cabeza por una mula.}
-{134}{}{Me siento tremendamente mal. ¿Con qué vas a molestar al viejo Dick? ¿Eh?}
-{135}{}{Hola, mi nombre es Athabaska Dick. Solía pasar todo mi tiempo tomando Jet. Pero ya no tomo más de esa mierda.}
-{136}{}{Nunca me había sentido tan arrastrado y harapiento en toda mi vida.}
-{137}{}{Dick, ¿qué haces aquí?}
-{138}{}{Oye, Dick… ¿cómo le está yendo al pueblo últimamente?}
-{139}{}{¿Has oído algún rumor interesante?}
-{140}{}{¿Qué quieres decir con "Al-tabasco"?}
-{141}{}{¿Qué es lo que te pasa?}
-{142}{}{¿Qué te sucedió?}
+ Â¡Malditos precios, todo el rato subiendo! Odio como me siento cuando no estoy colocado con Jet.}
+{113}{}{DÃ©jame hacerte otra pregunta.}
+{114}{}{Â¿Jet? Â¿QuÃ© es el Jet?}
+{115}{}{Ya veo. AdiÃ³s.}
+{116}{}{Apenas puedo trabajar lo suficiente como para conseguir el Jet que necesito para sentirme bien. QuizÃ¡ podamos trabajar en alguna otra cosa en Nuevo Reno. He oÃ­do que Ascorti podrÃ­a estar trabajando en ello.}
+{117}{}{DÃ©jame hacerte otra pregunta.}
+{118}{}{Â¿Ascorti? Â¿QuiÃ©n es ese?}
+{119}{}{Â¿Jet? Â¿QuÃ© es el Jet?}
+{120}{}{Ya veo. AdiÃ³s.}
+{121}{}{No me siento demasiado bien Ãºltimamente, y parece que no soy el Ãºnico. 
+ IntentÃ© tomar mÃ¡s Jet, pero eso no parece ayudarnos a ninguno. 
+ Creo que estÃ¡ haciÃ©ndome sentir peor que nunca. Me siento hecho polvo, como la mayorÃ­a de los mineros.}
+{122}{}{DÃ©jame hacerte otra pregunta.}
+{123}{}{Â¿Jet? Â¿QuÃ© es el Jet?}
+{124}{}{Ya veo. AdiÃ³s.}
+{125}{}{No sÃ© lo que ha ocurrido, pero todo el mundo dejÃ³ el Jet despuÃ©s de ese Ãºltimo lote. 
+ SentÃ­ como si fuÃ©ramos volando con el Jet hacia el gran aeropuerto del cielo. Nadie tiene mucho interÃ©s en tomarlo de nuevo.
+ SÃ³lo la idea me hace enfermar.}
+{126}{}{DÃ©jame hacerte otra pregunta.}
+{127}{}{Â¿Jet? Â¿QuÃ© es el Jet?}
+{128}{}{Ya veo. AdiÃ³s.}
+{129}{}{Hola. Mi nombre es Athabaska Dick. La mayorÃ­a de la gente me llama Dick.
+ TambiÃ©n hay alguno que me llama Athabaska, por supuesto. Aunque la mayorÃ­a me llama Dick.}
+{130}{}{Hola. Â¿QuÃ© puede hacer el viejo Athabaska Dick por ti?}
+{131}{}{Vamos. Â¡Deprisa! Â¡Deprisa! Â¿Y bien? Â¿A quÃ© estas esperando? Si quieres hablar con Athabaska Dick necesitas hablar mÃ¡s rÃ¡pido.}
+{132}{}{QuÃ©? Â¿QuÃ© quieres? Â¿No ves que estoy ocupado? (murmulla para sÃ­ mismo) Debo estar ocupado todo el rato... ocupado... ocupado...}
+{133}{}{(gruÃ±endo) Â¿QuÃ© quieres del viejo Athabaska Dick? (a sÃ­ mismo) Me siento como si hubiera sido pateado en la cabeza por una mula.}
+{134}{}{Me siento tremendamente mal. Â¿Con quÃ© vas a molestar al viejo Dick? Â¿Eh?}
+{135}{}{Hola, mi nombre es Athabaska Dick. SolÃ­a pasar todo mi tiempo tomando Jet. Pero ya no tomo mÃ¡s de esa mierda.}
+{136}{}{Nunca me habÃ­a sentido tan arrastrado y harapiento en toda mi vida.}
+{137}{}{Dick, Â¿quÃ© haces aquÃ­?}
+{138}{}{Oye, Dickâ€¦ Â¿cÃ³mo le estÃ¡ yendo al pueblo Ãºltimamente?}
+{139}{}{Â¿Has oÃ­do algÃºn rumor interesante?}
+{140}{}{Â¿QuÃ© quieres decir con "Al-tabasco"?}
+{141}{}{Â¿QuÃ© es lo que te pasa?}
+{142}{}{Â¿QuÃ© te sucediÃ³?}
 {143}{}{De vez en cuando trabajo una temporada en la Morningstar. Siempre pueden requerir de ayuda experimentada.}
 {144}{}{Entonces deja que te pregunte otra cosa.}
-{145}{}{Lo entiendo. Bien, eso es todo lo que necesitaba saber. Adiós.}
-{146}{}{Bueno, no mucho últimamente... excepto lo de esos cabrones de wanamingos.}
-{147}{}{¿"Juan-amigos"? ¿Qué narices es eso?}
+{145}{}{Lo entiendo. Bien, eso es todo lo que necesitaba saber. AdiÃ³s.}
+{146}{}{Bueno, no mucho Ãºltimamente... excepto lo de esos cabrones de wanamingos.}
+{147}{}{Â¿"Juan-amigos"? Â¿QuÃ© narices es eso?}
 {148}{}{Por supuesto. Deja que te pregunte otra cosa.}
-{149}{}{Bien, eso es todo lo que necesitaba saber. Adiós.}
-{150}{}{Atha-baska, Athabaska. Por el amor de Dios, no es tan difícil de decir, ¿no? Ese es mi apodo ahora.
- ¿De veras quieres saber cómo conseguí mi apodo?}
-{151}{}{Eh, en realidad no. Déjame preguntarte otra cosa.}
-{152}{}{Creo que eso es todo lo que necesito saber. Adiós.}
-{153}{}{¡Qué asco! Estoy más enfermo que un perro y he estado gimiendo durante días... desde esa última dosis de Jet. Algo debe haber ido mal con ese lote. Si sobrevivo a esto, nunca volveré a probarlo.}
+{149}{}{Bien, eso es todo lo que necesitaba saber. AdiÃ³s.}
+{150}{}{Atha-baska, Athabaska. Por el amor de Dios, no es tan difÃ­cil de decir, Â¿no? Ese es mi apodo ahora.
+ Â¿De veras quieres saber cÃ³mo conseguÃ­ mi apodo?}
+{151}{}{Eh, en realidad no. DÃ©jame preguntarte otra cosa.}
+{152}{}{Creo que eso es todo lo que necesito saber. AdiÃ³s.}
+{153}{}{Â¡QuÃ© asco! Estoy mÃ¡s enfermo que un perro y he estado gimiendo durante dÃ­as... desde esa Ãºltima dosis de Jet. Algo debe haber ido mal con ese lote. Si sobrevivo a esto, nunca volverÃ© a probarlo.}
 {154}{}{Suena mal. Entonces deja que te pregunte otra cosa.}
-{155}{}{Lo entiendo. Bien, eso es todo lo que necesitaba saber. Adiós.}
-{156}{}{Lo hice. Todavía no me siento muy bien por esto. Pero creo que me beneficiaré de ello.}
-{157}{}{¿Qué quieres decir? ¿Qué sucedió?}
-{158}{}{¿Me estás diciendo que nunca has oído hablar de los wanamingos?}
-{159}{}{Uh, bien, um. He oído algo sobre los wanamingos. Déjame preguntarte otra cosa.}
-{160}{}{No, nunca he oído hablar de algo así. Háblame sobre ello.}
-{161}{}{Nunca he oído hablar de los Wana-comosellamen, y ahora no tengo tiempo que perder con tus historias de hoguera. Adiós.}
-{162}{}{Dejé el vicio: eso es lo que pasó. No he vuelto a tomar Jet. Esa última dosis casi me mata. 
- Descubrí que no quería esto, después de todo. Desde entonces no quiero nada de Jet.}
+{155}{}{Lo entiendo. Bien, eso es todo lo que necesitaba saber. AdiÃ³s.}
+{156}{}{Lo hice. TodavÃ­a no me siento muy bien por esto. Pero creo que me beneficiarÃ© de ello.}
+{157}{}{Â¿QuÃ© quieres decir? Â¿QuÃ© sucediÃ³?}
+{158}{}{Â¿Me estÃ¡s diciendo que nunca has oÃ­do hablar de los wanamingos?}
+{159}{}{Uh, bien, um. He oÃ­do algo sobre los wanamingos. DÃ©jame preguntarte otra cosa.}
+{160}{}{No, nunca he oÃ­do hablar de algo asÃ­. HÃ¡blame sobre ello.}
+{161}{}{Nunca he oÃ­do hablar de los Wana-comosellamen, y ahora no tengo tiempo que perder con tus historias de hoguera. AdiÃ³s.}
+{162}{}{DejÃ© el vicio: eso es lo que pasÃ³. No he vuelto a tomar Jet. Esa Ãºltima dosis casi me mata. 
+ DescubrÃ­ que no querÃ­a esto, despuÃ©s de todo. Desde entonces no quiero nada de Jet.}
 {163}{}{Bueno, bien por ti, supongo. Deja que te pregunte algo.}
-{164}{}{Interesante. Bueno, te dejaré con tu recuperación. Adiós.}
-{165}{}{Bueno, algunos dicen que estuvieron aquí antes de que las bombas A, bombas H, y todas las demás explotaran. Otros dicen
+{164}{}{Interesante. Bueno, te dejarÃ© con tu recuperaciÃ³n. AdiÃ³s.}
+{165}{}{Bueno, algunos dicen que estuvieron aquÃ­ antes de que las bombas A, bombas H, y todas las demÃ¡s explotaran. Otros dicen
  que fueron ge-ne-ti-ca-men-te modificados como armas. Y hay algunos que dicen que son de otro planeta.}
-{166}{}{¿Qué SON? A quién le importa de donde vengan, sólo dime qué son.}
-{167}{}{Ya, claro. Ya he oído suficiente, viejo. Adiós.}
-{168}{}{Bueno, no sé realmente lo que son exactamente. Pero te puedo decir esto: cerraron la mina
- Wanamingo al oeste de la ciudad hace unos pocos años.}
-{169}{}{¿La mina Wanamingo?}
-{170}{}{Eso está bien. Será mejor que me vaya yendo, viejo. Gracias por la historia. Adiós.}
-{171}{}{Pues sí. Y la Gran Wanamingo también fue el lugar más próspero de por aquí. Pero ahora,
- nadie se acerca. Joder, podrías comprársela a Ascorti si la quisieras. Pero nadie lo hará.}
-{172}{}{Como estaba diciendo. La Gran Wanamingo solía ser la mina más próspera de los alrededores, pero ahora podrías comprarla
- por una canción.}
-{173}{}{¿Podría comprarla? ¿Vale algo?}
-{174}{}{¿Quién es Ascorti?}
-{175}{}{Suena demasiado peligroso para mí. Adiós.}
-{176}{}{Bueno, no es cierto que no valga nada. ¿No has oído nada de lo que te he dicho? Está llena de esos malditos wanamingos. Pero si alguien despejara la zona... bueno, otro brahmin cantaría.
- Joder, bastaría con que los matases a todos.}
-{177}{}{¿Qué quieres decir?}
-{178}{}{¿Otro brahmin cantaría? ¿Un paquidermo cantante? Voy a dejaros a ti y a tu delirio solos. Adiós.}
-{179}{}{Bueno, hay cierta cosa por ahí por la que los propietarios de las minas Morningstar y Kokoweef, aquí
- en la ciudad, estarían dispuestos a pagar una buena cantidad de pasta.}
-{180}{}{¿Qué tipo de cosa?}
-{181}{}{Dinero. Hmm. Bueno, me tengo que ir. Adiós.}
-{182}{}{Bueno, verás: las minas suelen ser excavadas por grandes máquinas. Joder, esas máquinas se construyeron para durar.
- Ambas minas tienen grandes excavadoras. Pero -y aquí esta la cuestión del dinero- los malditos chips que las controlan no se crearon muy resistentes. Ninguna de las minas tiene un chip que funcione. Je je je.}
-{183}{}{No estoy seguro de estar entendiendo qué es lo que insinúas.}
-{184}{}{Cuantas más piezas hay, más fácil es que se rompan. Gracias por la información. Adiós.}
-{185}{}{Bueno, lo que estoy diciendo es que sea dueño de la mina tendría que pagar por uno de estos excavadora-control-chips.
- Diablos, si que había un workin' de la máquina y la otra mina no, no iban a cerrar la mina hacia abajo o
- comprar 'em fuera en ningún momento.}
-{186}{}{Qué mala suerte que nadie sepa donde conseguir uno de esos chips.}
-{187}{}{Tendré que ver cuanto pagarían por un chip como ese. Gracias. Adiós.}
-{188}{}{¡Límpiate tus malditas orejas! Te dije dónde buscar el maldito chip. ¿No has estado escuchando
- una sola palabra de lo que he dicho? La mina Wanamingo tenía máquinas, y estuvieron trabajando hasta que la mina
- se cerró. Los chips se encuentran allí. Es cuestión de que vaya alguien allí y se los lleve.}
-{189}{}{Hmm, puede ser. Déjame preguntarte otra cosa.}
-{190}{}{Háblame sobre esas máquinas de matar, entonces.}
-{191}{}{Gracias. Tendré que mirar dentro. Adiós.}
-{192}{}{Bueno, verás -aquí está la honesta verdad ante Dios- conozco a alguien que vio uno muy parecido, fue…
-(pasa el tiempo)…Con enormes colmillos que usa para… (pasa más tiempo)…}
-{193}{}{Tuve un amigo una vez con el que estaba trabajando sobre una demanda y un día… (pasa el tiempo)… grande como un brahmin
- y olía peor… (pasa más tiempo)…}
-{194}{}{Ibas a quedarte dormido de todos modos, pero no pasa nada. Era de noche y muy tarde, mira, y tan…
-(pasa el tiempo)… rastros de algo, como un cruce entre un escorpión rad y un gecko… (pasa más tiempo)… Mira, te dije
- que te quedarías dormido.}
-{195}{}{¿Eh, qué? (tu cabeza está agotada; deberías echarte una siesta).}
-{196}{}{Mejor que encuentre algo que me ayude a estar despierta. Adiós.}
-{197}{}{…Así que, ahora lo sabes. Los esclavos que solían trabajar en la mina hicieron explotar todas las existencias de dinamita y
- escaparon, en lugar de dar la cara contra esos wanamingos. La mina se cerró inmediatamente después y nadie volvió.}
-{198}{}{¿Dónde dices que está la Gran Mina Wanamingo?}
-{199}{}{Parece lo más sensato. Bueno, adiós por ahora.}
-{200}{}{Justo al oeste del pueblo. Pero oí que algunos de los wanamingos han estado aproximándose al pueblo bien entrada la noche.
- Así que no tendrás que salir de allí para verlos. Je je je.}
-{201}{}{Creo que he oído todo lo necesario sobre los wanamingos. Déjame preguntarte algo más.}
-{202}{}{Estaré atento a cualquiera que quiera entrometerse. Adiós.}
-{203}{}{Ascorti es el alcalde. Está a cargo de El As de Ascorti, en el centro de la ciudad. Se dedica a comprar y vender muchas cosas. Está metido en todo tipo de chanchullos.}
-{204}{}{Ascorti es el alcalde de Redding. Pero no sé exactamente dónde está. Hace tiempo que no
- me he topado con él.}
-{205}{}{Déjame preguntarte algo más.}
-{206}{}{Oh, está bien. Bueno, continúa con el resto de tu historia.}
-{207}{}{Creo que ya te he escuchado un tiempo más que suficiente. Adiós.}
+{166}{}{Â¿QuÃ© SON? A quiÃ©n le importa de donde vengan, sÃ³lo dime quÃ© son.}
+{167}{}{Ya, claro. Ya he oÃ­do suficiente, viejo. AdiÃ³s.}
+{168}{}{Bueno, no sÃ© realmente lo que son exactamente. Pero te puedo decir esto: cerraron la mina
+ Wanamingo al oeste de la ciudad hace unos pocos aÃ±os.}
+{169}{}{Â¿La mina Wanamingo?}
+{170}{}{Eso estÃ¡ bien. SerÃ¡ mejor que me vaya yendo, viejo. Gracias por la historia. AdiÃ³s.}
+{171}{}{Pues sÃ­. Y la Gran Wanamingo tambiÃ©n fue el lugar mÃ¡s prÃ³spero de por aquÃ­. Pero ahora,
+ nadie se acerca. Joder, podrÃ­as comprÃ¡rsela a Ascorti si la quisieras. Pero nadie lo harÃ¡.}
+{172}{}{Como estaba diciendo. La Gran Wanamingo solÃ­a ser la mina mÃ¡s prÃ³spera de los alrededores, pero ahora podrÃ­as comprarla
+ por una canciÃ³n.}
+{173}{}{Â¿PodrÃ­a comprarla? Â¿Vale algo?}
+{174}{}{Â¿QuiÃ©n es Ascorti?}
+{175}{}{Suena demasiado peligroso para mÃ­. AdiÃ³s.}
+{176}{}{Bueno, no es cierto que no valga nada. Â¿No has oÃ­do nada de lo que te he dicho? EstÃ¡ llena de esos malditos wanamingos. Pero si alguien despejara la zona... bueno, otro brahmin cantarÃ­a.
+ Joder, bastarÃ­a con que los matases a todos.}
+{177}{}{Â¿QuÃ© quieres decir?}
+{178}{}{Â¿Otro brahmin cantarÃ­a? Â¿Un paquidermo cantante? Voy a dejaros a ti y a tu delirio solos. AdiÃ³s.}
+{179}{}{Bueno, hay cierta cosa por ahÃ­ por la que los propietarios de las minas Morningstar y Kokoweef, aquÃ­
+ en la ciudad, estarÃ­an dispuestos a pagar una buena cantidad de pasta.}
+{180}{}{Â¿QuÃ© tipo de cosa?}
+{181}{}{Dinero. Hmm. Bueno, me tengo que ir. AdiÃ³s.}
+{182}{}{Bueno, verÃ¡s: las minas suelen ser excavadas por grandes mÃ¡quinas. Joder, esas mÃ¡quinas se construyeron para durar.
+ Ambas minas tienen grandes excavadoras. Pero -y aquÃ­ esta la cuestiÃ³n del dinero- los malditos chips que las controlan no se crearon muy resistentes. Ninguna de las minas tiene un chip que funcione. Je je je.}
+{183}{}{No estoy seguro de estar entendiendo quÃ© es lo que insinÃºas.}
+{184}{}{Cuantas mÃ¡s piezas hay, mÃ¡s fÃ¡cil es que se rompan. Gracias por la informaciÃ³n. AdiÃ³s.}
+{185}{}{Bueno, lo que estoy diciendo es que sea dueÃ±o de la mina tendrÃ­a que pagar por uno de estos excavadora-control-chips.
+ Diablos, si que habÃ­a un workin' de la mÃ¡quina y la otra mina no, no iban a cerrar la mina hacia abajo o
+ comprar 'em fuera en ningÃºn momento.}
+{186}{}{QuÃ© mala suerte que nadie sepa donde conseguir uno de esos chips.}
+{187}{}{TendrÃ© que ver cuanto pagarÃ­an por un chip como ese. Gracias. AdiÃ³s.}
+{188}{}{Â¡LÃ­mpiate tus malditas orejas! Te dije dÃ³nde buscar el maldito chip. Â¿No has estado escuchando
+ una sola palabra de lo que he dicho? La mina Wanamingo tenÃ­a mÃ¡quinas, y estuvieron trabajando hasta que la mina
+ se cerrÃ³. Los chips se encuentran allÃ­. Es cuestiÃ³n de que vaya alguien allÃ­ y se los lleve.}
+{189}{}{Hmm, puede ser. DÃ©jame preguntarte otra cosa.}
+{190}{}{HÃ¡blame sobre esas mÃ¡quinas de matar, entonces.}
+{191}{}{Gracias. TendrÃ© que mirar dentro. AdiÃ³s.}
+{192}{}{Bueno, verÃ¡s -aquÃ­ estÃ¡ la honesta verdad ante Dios- conozco a alguien que vio uno muy parecido, fueâ€¦
+(pasa el tiempo)â€¦Con enormes colmillos que usa paraâ€¦ (pasa mÃ¡s tiempo)â€¦}
+{193}{}{Tuve un amigo una vez con el que estaba trabajando sobre una demanda y un dÃ­aâ€¦ (pasa el tiempo)â€¦ grande como un brahmin
+ y olÃ­a peorâ€¦ (pasa mÃ¡s tiempo)â€¦}
+{194}{}{Ibas a quedarte dormido de todos modos, pero no pasa nada. Era de noche y muy tarde, mira, y tanâ€¦
+(pasa el tiempo)â€¦ rastros de algo, como un cruce entre un escorpiÃ³n rad y un geckoâ€¦ (pasa mÃ¡s tiempo)â€¦ Mira, te dije
+ que te quedarÃ­as dormido.}
+{195}{}{Â¿Eh, quÃ©? (tu cabeza estÃ¡ agotada; deberÃ­as echarte una siesta).}
+{196}{}{Mejor que encuentre algo que me ayude a estar despierta. AdiÃ³s.}
+{197}{}{â€¦AsÃ­ que, ahora lo sabes. Los esclavos que solÃ­an trabajar en la mina hicieron explotar todas las existencias de dinamita y
+ escaparon, en lugar de dar la cara contra esos wanamingos. La mina se cerrÃ³ inmediatamente despuÃ©s y nadie volviÃ³.}
+{198}{}{Â¿DÃ³nde dices que estÃ¡ la Gran Mina Wanamingo?}
+{199}{}{Parece lo mÃ¡s sensato. Bueno, adiÃ³s por ahora.}
+{200}{}{Justo al oeste del pueblo. Pero oÃ­ que algunos de los wanamingos han estado aproximÃ¡ndose al pueblo bien entrada la noche.
+ AsÃ­ que no tendrÃ¡s que salir de allÃ­ para verlos. Je je je.}
+{201}{}{Creo que he oÃ­do todo lo necesario sobre los wanamingos. DÃ©jame preguntarte algo mÃ¡s.}
+{202}{}{EstarÃ© atento a cualquiera que quiera entrometerse. AdiÃ³s.}
+{203}{}{Ascorti es el alcalde. EstÃ¡ a cargo de El As de Ascorti, en el centro de la ciudad. Se dedica a comprar y vender muchas cosas. EstÃ¡ metido en todo tipo de chanchullos.}
+{204}{}{Ascorti es el alcalde de Redding. Pero no sÃ© exactamente dÃ³nde estÃ¡. Hace tiempo que no
+ me he topado con Ã©l.}
+{205}{}{DÃ©jame preguntarte algo mÃ¡s.}
+{206}{}{Oh, estÃ¡ bien. Bueno, continÃºa con el resto de tu historia.}
+{207}{}{Creo que ya te he escuchado un tiempo mÃ¡s que suficiente. AdiÃ³s.}
 {208}{}{El Jet es una cosita de Nuevo Reno. Apenas tomo lo suficiente para calmar mis nervios maltrechos.}
-{209}{}{Déjame hacerte otra pregunta.}
-{210}{}{Interesante. Gracias y adiós.}
-{211}{}{El Jet es el camino a seguir, hombre. Si no estoy colocado con Jet, no me siento nada bien. Deberías conseguir un poco para ti.}
-{212}{}{Déjame hacerte otra pregunta.}
-{213}{}{Interesante. Gracias y adiós.}
-{214}{}{No puedo hacerlo sin tomar algo de Jet. Todo el mundo está colocándose últimamente. Hay que conseguirlo aunque solo sea para tenerlo. 
- Joder, no me siento muy bien con él, pero sin él me siento hecho una mierda.}
-{215}{}{Déjame hacerte otra pregunta.}
-{216}{}{Interesante. Gracias y adiós.}
-{217}{}{El Jet es malo, hombre. Todo el mundo que lo esté tomando como un enfermo va a morir. Creo que mejor…
-(se retuerce y sufre un seco tirón)… lo siento. Dime, compañero, ¿podemos hablar sobre otra cosa?}
-{218}{}{Claro, lo siento. Deja que te pregunte algo más.}
-{219}{}{Interesante. Gracias y adiós.}
-{220}{}{No quiero oír nunca nada más sobre esa puta mierda de Jet. Esa sustancia nos matará. Esa puta asquerosidad
- es peor que un escorpión rad venenoso. No puedo creer que una vez me gustara esa sustancia. Esa última vez… pensé
+{209}{}{DÃ©jame hacerte otra pregunta.}
+{210}{}{Interesante. Gracias y adiÃ³s.}
+{211}{}{El Jet es el camino a seguir, hombre. Si no estoy colocado con Jet, no me siento nada bien. DeberÃ­as conseguir un poco para ti.}
+{212}{}{DÃ©jame hacerte otra pregunta.}
+{213}{}{Interesante. Gracias y adiÃ³s.}
+{214}{}{No puedo hacerlo sin tomar algo de Jet. Todo el mundo estÃ¡ colocÃ¡ndose Ãºltimamente. Hay que conseguirlo aunque solo sea para tenerlo. 
+ Joder, no me siento muy bien con Ã©l, pero sin Ã©l me siento hecho una mierda.}
+{215}{}{DÃ©jame hacerte otra pregunta.}
+{216}{}{Interesante. Gracias y adiÃ³s.}
+{217}{}{El Jet es malo, hombre. Todo el mundo que lo estÃ© tomando como un enfermo va a morir. Creo que mejorâ€¦
+(se retuerce y sufre un seco tirÃ³n)â€¦ lo siento. Dime, compaÃ±ero, Â¿podemos hablar sobre otra cosa?}
+{218}{}{Claro, lo siento. Deja que te pregunte algo mÃ¡s.}
+{219}{}{Interesante. Gracias y adiÃ³s.}
+{220}{}{No quiero oÃ­r nunca nada mÃ¡s sobre esa puta mierda de Jet. Esa sustancia nos matarÃ¡. Esa puta asquerosidad
+ es peor que un escorpiÃ³n rad venenoso. No puedo creer que una vez me gustara esa sustancia. Esa Ãºltima vezâ€¦ pensÃ©
  que era el final.}
-{221}{}{Déjame hacerte otra pregunta.}
-{222}{}{Interesante. Gracias y adiós.}
+{221}{}{DÃ©jame hacerte otra pregunta.}
+{222}{}{Interesante. Gracias y adiÃ³s.}

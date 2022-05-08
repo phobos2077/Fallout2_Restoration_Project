@@ -1,1 +1,1 @@
-{100}{}{Klamathba érkeztél.}
+{100}{}{Klamathba Ã©rkeztÃ©l.}

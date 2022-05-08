@@ -1,12 +1,12 @@
 {100}{}{Widzisz Nomada.}
-{101}{}{Witaj, chyba pierwszy raz ciê tu widzê.}
-{102}{}{Musisz porozmawiaæ z wodzem.}
-{103}{}{Wczoraj chyba by³o jeszcze bardziej gor¹co.}
-{104}{}{Jak wygl¹da ¿ycie w mieœcie?}
+{101}{}{Witaj, chyba pierwszy raz ciÄ™ tu widzÄ™.}
+{102}{}{Musisz porozmawiaÄ‡ z wodzem.}
+{103}{}{Wczoraj chyba byÅ‚o jeszcze bardziej gorÄ…co.}
+{104}{}{Jak wyglÄ…da Å¼ycie w mieÅ›cie?}
 {105}{}{Niewierny pies!}
 {106}{}{Dlaczego nas atakujesz?}
-{107}{}{Oddam ¿ycie za moje plemiê!}
-{108}{}{Jak œmiesz ur¹gaæ naszej goœcinnoœci!}
-{109}{}{OdejdŸ st¹d!}
+{107}{}{Oddam Å¼ycie za moje plemiÄ™!}
+{108}{}{Jak Å›miesz urÄ…gaÄ‡ naszej goÅ›cinnoÅ›ci!}
+{109}{}{OdejdÅº stÄ…d!}
 {110}{}{Zostaw nas.}
-{111}{}{Jesteœmy pokojowym plemieniem.}
+{111}{}{JesteÅ›my pokojowym plemieniem.}

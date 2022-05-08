@@ -1,25 +1,25 @@
-{100}{}{Widzisz czujnego stra¿nika Shi.}
-{101}{}{Ten niezadowolony cz³owiek zdaje siê pilnowaæ motorówki. Wygl¹da, ¿e podchodzi do swojego zadania bardzo powa¿nie.}
-{200}{}{[Spogl¹da na ciebie podejrzliwie.] Masz jakiœ problem?}
-{201}{}{Nie. Wszystko w porz¹dku. Czeœæ.}
+{100}{}{Widzisz czujnego straÅ¼nika Shi.}
+{101}{}{Ten niezadowolony czÅ‚owiek zdaje siÄ™ pilnowaÄ‡ motorÃ³wki. WyglÄ…da, Å¼e podchodzi do swojego zadania bardzo powaÅ¼nie.}
+{200}{}{[SpoglÄ…da na ciebie podejrzliwie.] Masz jakiÅ› problem?}
+{201}{}{Nie. Wszystko w porzÄ…dku. CzeÅ›Ä‡.}
 {202}{}{Co robisz?}
-{203}{}{Powiedz, masz tu ³adn¹ ³ódkê. Jest sprawna?}
-{204}{}{Ja jechaæ metalowa rybia-ryba?}
-{210}{}{Nie twój interes. Spadaj.}
-{211}{}{Kiepski dobór ostatnich s³ów, dupku.}
-{212}{}{Rozumiem aluzje. Nie musisz siê od razu denerwowaæ. Czeœæ.}
-{213}{}{Cokolwiek powiesz, koleœ.}
-{220}{}{[Patrzy na ciebie jak na najg³upsz¹ istotê jak¹ jest sobie w stanie wyobraziæ. Powoli, kreci g³ow¹.] Ty nie jedzie metalow¹ niby-ryb¹. Ty idzie. Ty idzie, albo bêdê strzela³. Zrozumiano?}
+{203}{}{Powiedz, masz tu Å‚adnÄ… Å‚Ã³dkÄ™. Jest sprawna?}
+{204}{}{Ja jechaÄ‡ metalowa rybia-ryba?}
+{210}{}{Nie twÃ³j interes. Spadaj.}
+{211}{}{Kiepski dobÃ³r ostatnich sÅ‚Ã³w, dupku.}
+{212}{}{Rozumiem aluzje. Nie musisz siÄ™ od razu denerwowaÄ‡. CzeÅ›Ä‡.}
+{213}{}{Cokolwiek powiesz, koleÅ›.}
+{220}{}{[Patrzy na ciebie jak na najgÅ‚upszÄ… istotÄ™ jakÄ… jest sobie w stanie wyobraziÄ‡. Powoli, kreci gÅ‚owÄ….] Ty nie jedzie metalowÄ… niby-rybÄ…. Ty idzie. Ty idzie, albo bÄ™dÄ™ strzelaÅ‚. Zrozumiano?}
 {221}{}{Wporzo, pa pa!}
-{222}{}{Ty wredny pan. Ja rozgnieœæ wredny pan!}
-{230}{}{[Stra¿nik siêga broñ patrz¹c na ciebie bez s³owa.]}
-{231}{}{Czy mogê po¿yczyæ tw¹ ³ódŸ na chwilê?}
-{232}{}{Tylko sprawdzam czy nadal jesteœ dupkiem. Tak, wygl¹da, ¿e ci¹gle jesteœ. Czeœæ.}
-{233}{}{Przepraszam, zasz³a pomy³ka. Czeœæ.}
-{234}{}{Mam nadziejê, ¿e wiesz jak siê tego u¿ywa, bo zamiar zabraæ ci tê pieprzona ³ódkê w ten czy w inny sposób.}
-{240}{}{[Patrzy na ciebie jak na najg³upsz¹ istotê jak¹ jest sobie w stanie wyobraziæ. Powoli, kreci g³ow¹.] Nie. A teraz odejdŸ. Zadaj mi jeszcze jedno pytanie, a zrobiê ci krzywdê.}
-{241}{}{Dobrze, ju¿ dobrze, idê sobie. Czeœæ.}
-{242}{}{Naprawdê?}
-{250}{}{OdejdŸ od tego!}
-{251}{}{Dotknij tego jeszcze raz, a ciê zabije.}
-{252}{}{Ostrzega³em ciê!}
+{222}{}{Ty wredny pan. Ja rozgnieÅ›Ä‡ wredny pan!}
+{230}{}{[StraÅ¼nik siÄ™ga broÅ„ patrzÄ…c na ciebie bez sÅ‚owa.]}
+{231}{}{Czy mogÄ™ poÅ¼yczyÄ‡ twÄ… Å‚Ã³dÅº na chwilÄ™?}
+{232}{}{Tylko sprawdzam czy nadal jesteÅ› dupkiem. Tak, wyglÄ…da, Å¼e ciÄ…gle jesteÅ›. CzeÅ›Ä‡.}
+{233}{}{Przepraszam, zaszÅ‚a pomyÅ‚ka. CzeÅ›Ä‡.}
+{234}{}{Mam nadziejÄ™, Å¼e wiesz jak siÄ™ tego uÅ¼ywa, bo zamiar zabraÄ‡ ci tÄ™ pieprzona Å‚Ã³dkÄ™ w ten czy w inny sposÃ³b.}
+{240}{}{[Patrzy na ciebie jak na najgÅ‚upszÄ… istotÄ™ jakÄ… jest sobie w stanie wyobraziÄ‡. Powoli, kreci gÅ‚owÄ….] Nie. A teraz odejdÅº. Zadaj mi jeszcze jedno pytanie, a zrobiÄ™ ci krzywdÄ™.}
+{241}{}{Dobrze, juÅ¼ dobrze, idÄ™ sobie. CzeÅ›Ä‡.}
+{242}{}{NaprawdÄ™?}
+{250}{}{OdejdÅº od tego!}
+{251}{}{Dotknij tego jeszcze raz, a ciÄ™ zabije.}
+{252}{}{OstrzegaÅ‚em ciÄ™!}

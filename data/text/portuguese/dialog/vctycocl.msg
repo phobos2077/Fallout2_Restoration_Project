@@ -1,1 +1,1 @@
-{100}{}{Você entrou na Zona do Conselho da Cidade Vault.}
+{100}{}{VocÃª entrou na Zona do Conselho da Cidade Vault.}

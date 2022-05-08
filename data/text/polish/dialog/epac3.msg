@@ -1,47 +1,47 @@
-{100}{}{Widzisz zwyk³y, srebrny toster stoj¹cy na stole.}
-{101}{}{Widzisz Dzielny Ma³y Toster.}
-{102}{}{DMT, twój weso³y, nawet jeœli nieco irytuj¹cy, towarzysz œniadania.}
-{200}{}{Dzieñ dobry, czeœæ i czo³em! Jestem Dzielny Ma³y Toster, Twój weso³y towarzysz œniadania. Ale mo¿esz mnie nazywaæ po prostu DMT. Mo¿e ktoœ chcia³by jakiegoœ tosta?}
-{201}{}{Nie, dziêki, ale za to chcia³bym trochê informacji.}
-{202}{}{Nie teraz, muszê lecieæ.}
-{210}{}{Nie ma problemu! Jestem zapaleñcem mechaniki kwantowej, biologii submolekularnej i telewizyjnych motywów muzycznych. Pytaj mnie o wszystko. Ale czy mogê ja najpierw zadaæ Ci pytanie?}
-{211}{}{Myœlê, ¿e tak. Co mogê dla ciebie zrobiæ?}
+{100}{}{Widzisz zwykÅ‚y, srebrny toster stojÄ…cy na stole.}
+{101}{}{Widzisz Dzielny MaÅ‚y Toster.}
+{102}{}{DMT, twÃ³j wesoÅ‚y, nawet jeÅ›li nieco irytujÄ…cy, towarzysz Å›niadania.}
+{200}{}{DzieÅ„ dobry, czeÅ›Ä‡ i czoÅ‚em! Jestem Dzielny MaÅ‚y Toster, TwÃ³j wesoÅ‚y towarzysz Å›niadania. Ale moÅ¼esz mnie nazywaÄ‡ po prostu DMT. MoÅ¼e ktoÅ› chciaÅ‚by jakiegoÅ› tosta?}
+{201}{}{Nie, dziÄ™ki, ale za to chciaÅ‚bym trochÄ™ informacji.}
+{202}{}{Nie teraz, muszÄ™ lecieÄ‡.}
+{210}{}{Nie ma problemu! Jestem zapaleÅ„cem mechaniki kwantowej, biologii submolekularnej i telewizyjnych motywÃ³w muzycznych. Pytaj mnie o wszystko. Ale czy mogÄ™ ja najpierw zadaÄ‡ Ci pytanie?}
+{211}{}{MyÅ›lÄ™, Å¼e tak. Co mogÄ™ dla ciebie zrobiÄ‡?}
 {220}{}{Na pewno nie chcesz tosta?}
-{221}{}{NIE! Nie chcê ¿adnego tosta. ¯adnych ciasteczek, ¿adnych herbatników. ¯adnych bu³ek, obwarzanków, bagietek ani sztangli. ¯adnych rogali, dro¿d¿ówek, naleœników, ¿adnych placków ziemniaczanych i z pewnoœci¹, ¿adnych pieprzonych podp³omyków!!!}
-{230}{}{Ach! Wiêc lubisz wafle!}
-{231}{}{Ech, mam ju¿ tego doœæ.}
-{232}{}{[Targasz w³osy ze wœciek³oœci.] Muszê ju¿ iœæ. Ja... muszê gdzieœ byæ. Gdziekolwiek byle nie tu.}
-{240}{}{Nie, poczekaj. Przepraszam. Nie jestem wy³¹cznie jednowymiarowym, obsesyjnym na punkcie tostów urz¹dzeniem. Co mogê dla Ciebie zrobiæ?}
-{241}{}{Potrzebujê tylko trochê informacji o tym miejscu. Co mo¿esz mi o nim powiedzieæ?}
-{250}{}{Mogê ci powiedzieæ jedn¹ rzecz: to okropne miejsce dla takiego eksperta robienia tostów jak ja. Czy wiesz, ¿e min¹³ ju¿ dobrze ponad wiek odk¹d mia³em przyjemnoœæ zrobiæ komuœ tost?
- Oprócz Ciebie nie by³o tutaj nikogo od czasów wojny, ale to nie wszystko: nawet gdybym dosta³ od Ciebie zamówienie na tost, to nie jestem pewien czy sprosta³bym zadaniu.
- Widzisz, tam w œrodku, czujê siê dzisiaj nie najlepiej. To raczej ¿enuj¹ce, naprawdê.}
-{251}{}{To, uch, doœæ, tragiczne. Wiêc, czemu tu jesteœ?}
-{252}{}{Rozumiem. Dziêki za poœwiêcenie mi czasu.}
-{260}{}{Chyba dosta³ przydzia³ masek gazowych przed wypadkiem. Niektórzy ludzie mówili nawet, ¿e to jego b³êdy spowodowa³y ca³e to zamieszanie.}
-{261}{}{Dlaczego tu jesteœ?}
-{262}{}{Dziêki za informacje.}
-{270}{}{Jak to, aby Twoje œniadania by³y jak najweselsze! Powiedz, czy po tym ca³ym gadaniu nie zrobi³o Ci siê trochê miejsca w ¿o³¹dku, tak w sam raz na tosta, co?}
-{271}{}{Wydawa³o mi siê, ¿e mamy to ju¿ za sob¹!! Nie chcê jeœæ i nigdy mi siê nie bêdzie chcia³o. Powiedz dlaczego NAPRAWDÊ tu jesteœ.}
-{280}{}{Ju¿ dobrze, nie musisz tak wrzeszczeæ. Z³oœæ nie jest dobrym sposobem na rozpoczêcie dnia. Zosta³em stworzony jako towarzysz œniadania, mogê byæ równie¿ u¿ywany w czasie obiadu i kolacji. Nie ma takiej pory, która nie jest por¹ na tosta. Jeœli chodzi Ci o to dlaczego siedzê tutaj z kablem wystaj¹cym z mojego boku, có¿, wygl¹da ¿e Pan Z³ota R¹czka nie zawsze jest taki z³oty, facet zacz¹³ siê psuæ w œrodku mojego corocznego przegl¹du. Oczywiœcie zaraz polecia³ do warsztatu naprawczego zostawiaj¹c mnie w zawieszeniu.}
-{281}{}{Rozumiem. No, dziêki za poœwiêcony czas.}
-{290}{}{Nie ma sprawy. Wpadnij znów. Mo¿e wtedy bêdzie ci siê chcia³o jeœæ... tosty.}
-{291}{}{W¹tpiê. Czeœæ.}
-{300}{}{Wiedzia³em, ¿e wrócisz. Wszyscy wracaj¹. Wiêc chcesz teraz tosta?}
-{301}{}{Wiedzia³em, ¿e wrócisz. Wszyscy wracaj¹. A teraz, kiedy jestem znów w pe³ni funkcjonalny, Mogê robiæ tosty lepsze ni¿ kiedykolwiek! Wiêc chcesz teraz tosta?}
-{302}{}{Nie tym razem. Muszê Ciê o coœ spytaæ.}
-{303}{}{Nie. Muszê lecieæ.}
-{310}{}{Jasne, co chcesz wiedzieæ? Mam nadziejê, ¿e coœ o tostach.}
+{221}{}{NIE! Nie chcÄ™ Å¼adnego tosta. Å»adnych ciasteczek, Å¼adnych herbatnikÃ³w. Å»adnych buÅ‚ek, obwarzankÃ³w, bagietek ani sztangli. Å»adnych rogali, droÅ¼dÅ¼Ã³wek, naleÅ›nikÃ³w, Å¼adnych plackÃ³w ziemniaczanych i z pewnoÅ›ciÄ…, Å¼adnych pieprzonych podpÅ‚omykÃ³w!!!}
+{230}{}{Ach! WiÄ™c lubisz wafle!}
+{231}{}{Ech, mam juÅ¼ tego doÅ›Ä‡.}
+{232}{}{[Targasz wÅ‚osy ze wÅ›ciekÅ‚oÅ›ci.] MuszÄ™ juÅ¼ iÅ›Ä‡. Ja... muszÄ™ gdzieÅ› byÄ‡. Gdziekolwiek byle nie tu.}
+{240}{}{Nie, poczekaj. Przepraszam. Nie jestem wyÅ‚Ä…cznie jednowymiarowym, obsesyjnym na punkcie tostÃ³w urzÄ…dzeniem. Co mogÄ™ dla Ciebie zrobiÄ‡?}
+{241}{}{PotrzebujÄ™ tylko trochÄ™ informacji o tym miejscu. Co moÅ¼esz mi o nim powiedzieÄ‡?}
+{250}{}{MogÄ™ ci powiedzieÄ‡ jednÄ… rzecz: to okropne miejsce dla takiego eksperta robienia tostÃ³w jak ja. Czy wiesz, Å¼e minÄ…Å‚ juÅ¼ dobrze ponad wiek odkÄ…d miaÅ‚em przyjemnoÅ›Ä‡ zrobiÄ‡ komuÅ› tost?
+ OprÃ³cz Ciebie nie byÅ‚o tutaj nikogo od czasÃ³w wojny, ale to nie wszystko: nawet gdybym dostaÅ‚ od Ciebie zamÃ³wienie na tost, to nie jestem pewien czy sprostaÅ‚bym zadaniu.
+ Widzisz, tam w Å›rodku, czujÄ™ siÄ™ dzisiaj nie najlepiej. To raczej Å¼enujÄ…ce, naprawdÄ™.}
+{251}{}{To, uch, doÅ›Ä‡, tragiczne. WiÄ™c, czemu tu jesteÅ›?}
+{252}{}{Rozumiem. DziÄ™ki za poÅ›wiÄ™cenie mi czasu.}
+{260}{}{Chyba dostaÅ‚ przydziaÅ‚ masek gazowych przed wypadkiem. NiektÃ³rzy ludzie mÃ³wili nawet, Å¼e to jego bÅ‚Ä™dy spowodowaÅ‚y caÅ‚e to zamieszanie.}
+{261}{}{Dlaczego tu jesteÅ›?}
+{262}{}{DziÄ™ki za informacje.}
+{270}{}{Jak to, aby Twoje Å›niadania byÅ‚y jak najweselsze! Powiedz, czy po tym caÅ‚ym gadaniu nie zrobiÅ‚o Ci siÄ™ trochÄ™ miejsca w Å¼oÅ‚Ä…dku, tak w sam raz na tosta, co?}
+{271}{}{WydawaÅ‚o mi siÄ™, Å¼e mamy to juÅ¼ za sobÄ…!! Nie chcÄ™ jeÅ›Ä‡ i nigdy mi siÄ™ nie bÄ™dzie chciaÅ‚o. Powiedz dlaczego NAPRAWDÄ˜ tu jesteÅ›.}
+{280}{}{JuÅ¼ dobrze, nie musisz tak wrzeszczeÄ‡. ZÅ‚oÅ›Ä‡ nie jest dobrym sposobem na rozpoczÄ™cie dnia. ZostaÅ‚em stworzony jako towarzysz Å›niadania, mogÄ™ byÄ‡ rÃ³wnieÅ¼ uÅ¼ywany w czasie obiadu i kolacji. Nie ma takiej pory, ktÃ³ra nie jest porÄ… na tosta. JeÅ›li chodzi Ci o to dlaczego siedzÄ™ tutaj z kablem wystajÄ…cym z mojego boku, cÃ³Å¼, wyglÄ…da Å¼e Pan ZÅ‚ota RÄ…czka nie zawsze jest taki zÅ‚oty, facet zaczÄ…Å‚ siÄ™ psuÄ‡ w Å›rodku mojego corocznego przeglÄ…du. OczywiÅ›cie zaraz poleciaÅ‚ do warsztatu naprawczego zostawiajÄ…c mnie w zawieszeniu.}
+{281}{}{Rozumiem. No, dziÄ™ki za poÅ›wiÄ™cony czas.}
+{290}{}{Nie ma sprawy. Wpadnij znÃ³w. MoÅ¼e wtedy bÄ™dzie ci siÄ™ chciaÅ‚o jeÅ›Ä‡... tosty.}
+{291}{}{WÄ…tpiÄ™. CzeÅ›Ä‡.}
+{300}{}{WiedziaÅ‚em, Å¼e wrÃ³cisz. Wszyscy wracajÄ…. WiÄ™c chcesz teraz tosta?}
+{301}{}{WiedziaÅ‚em, Å¼e wrÃ³cisz. Wszyscy wracajÄ…. A teraz, kiedy jestem znÃ³w w peÅ‚ni funkcjonalny, MogÄ™ robiÄ‡ tosty lepsze niÅ¼ kiedykolwiek! WiÄ™c chcesz teraz tosta?}
+{302}{}{Nie tym razem. MuszÄ™ CiÄ™ o coÅ› spytaÄ‡.}
+{303}{}{Nie. MuszÄ™ lecieÄ‡.}
+{310}{}{Jasne, co chcesz wiedzieÄ‡? Mam nadziejÄ™, Å¼e coÅ› o tostach.}
 {311}{}{Co to za miejsce?}
-{312}{}{Niewa¿ne. Czeœæ.}
-{350}{}{Hej, uda³o ci siê mnie naprawiæ! Wiedzia³em, ¿e Pan Z³ota R¹czka nie dokoñczy³ przegl¹du. Czuje siê lepiej ni¿ kiedykolwiek! Dziêki.}
+{312}{}{NiewaÅ¼ne. CzeÅ›Ä‡.}
+{350}{}{Hej, udaÅ‚o ci siÄ™ mnie naprawiÄ‡! WiedziaÅ‚em, Å¼e Pan ZÅ‚ota RÄ…czka nie dokoÅ„czyÅ‚ przeglÄ…du. Czuje siÄ™ lepiej niÅ¼ kiedykolwiek! DziÄ™ki.}
 {351}{}{Taka moja robota. Do zobaczenia.}
-{352}{}{Poczekaj chwilê. Skoro nie pozwalasz siê nagrodziæ tostem, to dam ci chocia¿ ma³¹ radê. Kojarzysz te maszyny na ¿etony w kasynach? Odkry³em sposób jak wyci¹gn¹æ z nich ca³¹ forsê. Wiesz, mam IQ 6000. Kiedy nie robiê tostów, lubiê ³amaæ sobie g³owê takimi rzeczami. Za twoj¹ pomoc, zdradzê Ci ten sposób. Po prostu u¿yj jednej z tych maszyn tak jak to siê normalnie robi, a potem...}
+{352}{}{Poczekaj chwilÄ™. Skoro nie pozwalasz siÄ™ nagrodziÄ‡ tostem, to dam ci chociaÅ¼ maÅ‚Ä… radÄ™. Kojarzysz te maszyny na Å¼etony w kasynach? OdkryÅ‚em sposÃ³b jak wyciÄ…gnÄ…Ä‡ z nich caÅ‚Ä… forsÄ™. Wiesz, mam IQ 6000. Kiedy nie robiÄ™ tostÃ³w, lubiÄ™ Å‚amaÄ‡ sobie gÅ‚owÄ™ takimi rzeczami. Za twojÄ… pomoc, zdradzÄ™ Ci ten sposÃ³b. Po prostu uÅ¼yj jednej z tych maszyn tak jak to siÄ™ normalnie robi, a potem...}
 {353}{}{[KONTYNUUJ]}
-{354}{}{...I to wszystko. Ob³owisz siê w minutê-osiem, przegryzaj¹c swój sukces tostem.}
-{355}{}{Dziêki. Doceniam to. Trzymaj siê.}
-{400}{}{Udaje Ci siê naprawiæ toster.}
-{401}{}{Nie udaje Ci siê naprawiæ tostera.}
-{402}{}{Ten toster ju¿ jest naprawiony.}
+{354}{}{...I to wszystko. ObÅ‚owisz siÄ™ w minutÄ™-osiem, przegryzajÄ…c swÃ³j sukces tostem.}
+{355}{}{DziÄ™ki. Doceniam to. Trzymaj siÄ™.}
+{400}{}{Udaje Ci siÄ™ naprawiÄ‡ toster.}
+{401}{}{Nie udaje Ci siÄ™ naprawiÄ‡ tostera.}
+{402}{}{Ten toster juÅ¼ jest naprawiony.}
 {403}{}{ z powodzeniem naprawia toster.}
-{404}{}{ nie daje rady naprawiæ tostera.}
+{404}{}{ nie daje rady naprawiÄ‡ tostera.}

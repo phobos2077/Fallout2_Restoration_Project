@@ -1,2 +1,2 @@
-{100}{}{Wchodzisz do zachodniej czêœci wioski. Tubylcy z wêdkami krêc¹ siê w okolicy.}
-{101}{}{Wchodzisz do ma³ej jaskini. Z jej g³êbi s³yszysz zamieszanie.}
+{100}{}{Wchodzisz do zachodniej czÄ™Å›ci wioski. Tubylcy z wÄ™dkami krÄ™cÄ… siÄ™ w okolicy.}
+{101}{}{Wchodzisz do maÅ‚ej jaskini. Z jej gÅ‚Ä™bi sÅ‚yszysz zamieszanie.}

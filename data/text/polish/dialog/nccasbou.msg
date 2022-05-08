@@ -1,81 +1,81 @@
 {100}{}{Widzisz bramkarza.}
-{150}{}{To jest bramkarz. Jest DU¯Y.}
-{151}{}{To jest bramkarz. Jest du¿y. I z³y.}
-{152}{}{Widzisz bramkarza, który przygl¹da ci siê podejrzliwie.}
-{153}{}{Widzisz bramkarza. Myœla³by kto, ¿e tylko mutanty mog¹ byæ takie du¿e.}
-{200}{}{Uch... musisz zdj¹æ tê zbrojê... albo, w sumie niewa¿ne.}
-{201}{}{Uch, proszê pana... pani... tu nie wolno wchodziæ w zbroi... uch, niewa¿ne.}
-{202}{}{Proszê pana... pani... nie wolno wchodziæ w czymœ takim do kasyna... chyba ¿e komuœ na tym bardzo zale¿y. Niewa¿ne.}
-{205}{}{Mogê wiedzieæ, czemu siê pan skrada?}
-{206}{}{Uch, czemu siê pan ukrywa?}
-{210}{}{Mogê wiedzieæ dlaczego siê pani skrada?}
-{211}{}{Uch, czemu siê pani ukrywa?}
-{215}{}{Dobry wieczór panu.}
-{216}{}{Brywieczór.}
-{220}{}{Dobry wieczór pani.}
-{221}{}{Brywieczór.}
-{225}{}{Dzieñ dobry panu.}
-{230}{}{Dzieñ dobry pani.}
-{235}{}{Chyba pomyli³y ci siê kasyna.}
-{236}{}{Lepiej idŸ st¹d. Ale ju¿.}
-{237}{}{To nie jest miejsce odpowiednie do grania w koœci ze œmierci¹. Lepiej odejdŸ.}
-{240}{}{Suko, w³azisz do z³ego kasyna.}
-{241}{}{Lepiej idŸ st¹d. Ale ju¿.}
-{242}{}{To nie jest miejsce odpowiednie do grania w koœci ze œmierci¹. Lepiej odejdŸ.}
-{245}{}{Przepraszam pana, musi pan od³o¿yæ broñ.}
-{250}{}{Przepraszam pani¹, musi pani od³o¿yæ broñ.}
-{255}{}{Kochanie, wybacz, ale nie mo¿na wnosiæ broni do kasyna. He-he... i tak jesteœ wystarczaj¹co zabójcza.}
-{260}{}{Kociaku, z takim cia³em nie masz szans ukryæ siê w t³umie.}
-{265}{}{Dzikusie, lepiej od³ó¿ tê broñ, ale JU¯.}
-{270}{}{Dzikusie, lepiej przestañ siê tak skradaæ, ale JU¯.}
-{275}{}{Hej, hej... Myron! Dawno ju¿ nie widzia³em ciê poza laboratorium.}
-{276}{}{Przychodzisz tu z próbkami nowego towaru, co Myron?}
-{277}{}{Hej Myron! W³aŸ do nas.}
-{280}{}{¯adnych mutantów. On poczeka na zewn¹trz.}
-{281}{}{Trzymaj swoje zwierz¹tka na dworze, mutancie-kochasiu.}
-{282}{}{To zmutowane dziwad³o nie mo¿e tu wejœæ.}
-{285}{}{¯adnych robotów.}
-{286}{}{Nie obs³ugujemy robotów.}
-{287}{}{¯adnych robotów. Roboty musz¹ poczekaæ na zewn¹trz.}
+{150}{}{To jest bramkarz. Jest DUÅ»Y.}
+{151}{}{To jest bramkarz. Jest duÅ¼y. I zÅ‚y.}
+{152}{}{Widzisz bramkarza, ktÃ³ry przyglÄ…da ci siÄ™ podejrzliwie.}
+{153}{}{Widzisz bramkarza. MyÅ›laÅ‚by kto, Å¼e tylko mutanty mogÄ… byÄ‡ takie duÅ¼e.}
+{200}{}{Uch... musisz zdjÄ…Ä‡ tÄ™ zbrojÄ™... albo, w sumie niewaÅ¼ne.}
+{201}{}{Uch, proszÄ™ pana... pani... tu nie wolno wchodziÄ‡ w zbroi... uch, niewaÅ¼ne.}
+{202}{}{ProszÄ™ pana... pani... nie wolno wchodziÄ‡ w czymÅ› takim do kasyna... chyba Å¼e komuÅ› na tym bardzo zaleÅ¼y. NiewaÅ¼ne.}
+{205}{}{MogÄ™ wiedzieÄ‡, czemu siÄ™ pan skrada?}
+{206}{}{Uch, czemu siÄ™ pan ukrywa?}
+{210}{}{MogÄ™ wiedzieÄ‡ dlaczego siÄ™ pani skrada?}
+{211}{}{Uch, czemu siÄ™ pani ukrywa?}
+{215}{}{Dobry wieczÃ³r panu.}
+{216}{}{BrywieczÃ³r.}
+{220}{}{Dobry wieczÃ³r pani.}
+{221}{}{BrywieczÃ³r.}
+{225}{}{DzieÅ„ dobry panu.}
+{230}{}{DzieÅ„ dobry pani.}
+{235}{}{Chyba pomyliÅ‚y ci siÄ™ kasyna.}
+{236}{}{Lepiej idÅº stÄ…d. Ale juÅ¼.}
+{237}{}{To nie jest miejsce odpowiednie do grania w koÅ›ci ze Å›mierciÄ…. Lepiej odejdÅº.}
+{240}{}{Suko, wÅ‚azisz do zÅ‚ego kasyna.}
+{241}{}{Lepiej idÅº stÄ…d. Ale juÅ¼.}
+{242}{}{To nie jest miejsce odpowiednie do grania w koÅ›ci ze Å›mierciÄ…. Lepiej odejdÅº.}
+{245}{}{Przepraszam pana, musi pan odÅ‚oÅ¼yÄ‡ broÅ„.}
+{250}{}{Przepraszam paniÄ…, musi pani odÅ‚oÅ¼yÄ‡ broÅ„.}
+{255}{}{Kochanie, wybacz, ale nie moÅ¼na wnosiÄ‡ broni do kasyna. He-he... i tak jesteÅ› wystarczajÄ…co zabÃ³jcza.}
+{260}{}{Kociaku, z takim ciaÅ‚em nie masz szans ukryÄ‡ siÄ™ w tÅ‚umie.}
+{265}{}{Dzikusie, lepiej odÅ‚Ã³Å¼ tÄ™ broÅ„, ale JUÅ».}
+{270}{}{Dzikusie, lepiej przestaÅ„ siÄ™ tak skradaÄ‡, ale JUÅ».}
+{275}{}{Hej, hej... Myron! Dawno juÅ¼ nie widziaÅ‚em ciÄ™ poza laboratorium.}
+{276}{}{Przychodzisz tu z prÃ³bkami nowego towaru, co Myron?}
+{277}{}{Hej Myron! WÅ‚aÅº do nas.}
+{280}{}{Å»adnych mutantÃ³w. On poczeka na zewnÄ…trz.}
+{281}{}{Trzymaj swoje zwierzÄ…tka na dworze, mutancie-kochasiu.}
+{282}{}{To zmutowane dziwadÅ‚o nie moÅ¼e tu wejÅ›Ä‡.}
+{285}{}{Å»adnych robotÃ³w.}
+{286}{}{Nie obsÅ‚ugujemy robotÃ³w.}
+{287}{}{Å»adnych robotÃ³w. Roboty muszÄ… poczekaÄ‡ na zewnÄ…trz.}
 {290}{}{Witamy pana w kasynie.}
-{291}{}{Proszê têdy.}
-{292}{}{Nie mieliœmy dziœ ¿adnych problemów.}
-{293}{}{Uch, czy coœ siê sta³o? Czy mo¿e tylko wpad³ pan z wizyt¹?}
-{294}{}{Tommy Trzy Jajca przesy³a pozdrowienia.}
-{295}{}{Szepnij o mnie ciep³e s³ówko szefowi, dobrze?}
-{296}{}{Witamy pani¹ w kasynie.}
-{297}{}{Proszê têdy.}
-{298}{}{Nie mieliœmy dziœ ¿adnych problemów.}
-{299}{}{Uch, czy coœ siê sta³o? Czy mo¿e tylko wpad³a pani z wizyt¹?}
+{291}{}{ProszÄ™ tÄ™dy.}
+{292}{}{Nie mieliÅ›my dziÅ› Å¼adnych problemÃ³w.}
+{293}{}{Uch, czy coÅ› siÄ™ staÅ‚o? Czy moÅ¼e tylko wpadÅ‚ pan z wizytÄ…?}
+{294}{}{Tommy Trzy Jajca przesyÅ‚a pozdrowienia.}
+{295}{}{Szepnij o mnie ciepÅ‚e sÅ‚Ã³wko szefowi, dobrze?}
+{296}{}{Witamy paniÄ… w kasynie.}
+{297}{}{ProszÄ™ tÄ™dy.}
+{298}{}{Nie mieliÅ›my dziÅ› Å¼adnych problemÃ³w.}
+{299}{}{Uch, czy coÅ› siÄ™ staÅ‚o? Czy moÅ¼e tylko wpadÅ‚a pani z wizytÄ…?}
 {310}{}{Witamy pana w kasynie.}
-{311}{}{Proszê têdy.}
-{312}{}{Kiedy jest pañski nastêpny mecz?}
-{315}{}{Witamy pani¹ w kasynie.}
-{316}{}{Proszê têdy.}
-{317}{}{Kiedy jest pani nastêpny mecz?}
-{320}{}{Kiedy wpadniesz zobaczyæ siê ze mn¹?}
-{321}{}{Hej, witamy w kasynie! Bêdziesz dziœ tañczyæ?}
-{322}{}{Kochanie, wygl¹dasz zabójczo.}
-{323}{}{Pani Fortuna zrobi siê zazdrosna, jeœli bêdziesz tu tak czêsto przychodziæ.}
-{324}{}{Podobno Tommy Twardziel chcia³by ciê widzieæ w swoim prywatnym filmie.}
-{330}{}{Nie gadaj do mnie. Kasyno jest w œrodku.}
-{331}{}{Kasyno jest W ŒRODKU. W ŒROD-KU. G³upie dzikusy.}
-{335}{}{IdŸ pogapiæ siê na kogoœ innego.}
-{336}{}{Kasyno jest W ŒRODKU. W ŒROD-KU. G³upie dzikusy.}
-{337}{}{Nie potrzebna mi teraz jakaœ wioskowa dupa. Spadaj.}
-{338}{}{Sp³ywaj kaszalocie. Jestem w pracy.}
-{339}{}{Na takiego kaszalota jak ty potrzeba kogoœ bardziej pijanego ni¿ ja.}
-{345}{}{W zasadzie nie wolno mi rozmawiaæ z goœæmi, ale ta zadyma w Enklawie to kawa³ dobrej roboty.}
-{346}{}{Jak na kogoœ z wiochy jesteœ wporzo. Odpocznij trochê od ratowania œwiata i dobrze siê zabaw.}
-{347}{}{Podobno Tommy Trzy Jajca ciê szuka. Uwa¿aj.}
-{350}{}{¯eby tak po prostu rozwaliæ Enklawe, trzeba mieæ niez³¹ ikrê.}
-{351}{}{Ta rozprawa z Enklaw¹ wymaga³a pewnie wiêcej ikry, ni¿ ma ca³e Nowe Reno razem wziête.}
-{352}{}{¯eby tak rozwaliæ Enklawê, musisz byæ prawie takim samym twardzielem jak Tommy Trzy Jajca.}
-{353}{}{W zasadzie nie wolno mi rozmawiaæ z goœæmi, ale ta zadyma w Enklawie to kawa³ dobrej roboty.}
-{354}{}{Jak na kogoœ z wiochy jesteœ wporzo. Odpocznij trochê od ratowania œwiata i dobrze siê zabaw.}
-{355}{}{Musisz mieæ niez³e jaja, ¿eby tak po prostu rozwaliæ Enklawê. To znaczy, nie dos³ownie JAJA, ale wiesz o czym mówiê.}
-{356}{}{Kochanie, ta rozprawa z Enklaw¹ wymaga³a pewnie wiêcej ikry, ni¿ ma ca³e Nowe Reno razem wziête.}
-{357}{}{Czy myœlisz, ¿e taki goœæ jak ja by³by dla ciebie odpowiedzni? To znaczy, ¿aden ze mnie zbawca œwiata, ale jestem ca³kiem silny i mam dobre serce.}
-{360}{}{Jeœli ten ghul tu wejdzie, zginie podwójnie.}
+{311}{}{ProszÄ™ tÄ™dy.}
+{312}{}{Kiedy jest paÅ„ski nastÄ™pny mecz?}
+{315}{}{Witamy paniÄ… w kasynie.}
+{316}{}{ProszÄ™ tÄ™dy.}
+{317}{}{Kiedy jest pani nastÄ™pny mecz?}
+{320}{}{Kiedy wpadniesz zobaczyÄ‡ siÄ™ ze mnÄ…?}
+{321}{}{Hej, witamy w kasynie! BÄ™dziesz dziÅ› taÅ„czyÄ‡?}
+{322}{}{Kochanie, wyglÄ…dasz zabÃ³jczo.}
+{323}{}{Pani Fortuna zrobi siÄ™ zazdrosna, jeÅ›li bÄ™dziesz tu tak czÄ™sto przychodziÄ‡.}
+{324}{}{Podobno Tommy Twardziel chciaÅ‚by ciÄ™ widzieÄ‡ w swoim prywatnym filmie.}
+{330}{}{Nie gadaj do mnie. Kasyno jest w Å›rodku.}
+{331}{}{Kasyno jest W ÅšRODKU. W ÅšROD-KU. GÅ‚upie dzikusy.}
+{335}{}{IdÅº pogapiÄ‡ siÄ™ na kogoÅ› innego.}
+{336}{}{Kasyno jest W ÅšRODKU. W ÅšROD-KU. GÅ‚upie dzikusy.}
+{337}{}{Nie potrzebna mi teraz jakaÅ› wioskowa dupa. Spadaj.}
+{338}{}{SpÅ‚ywaj kaszalocie. Jestem w pracy.}
+{339}{}{Na takiego kaszalota jak ty potrzeba kogoÅ› bardziej pijanego niÅ¼ ja.}
+{345}{}{W zasadzie nie wolno mi rozmawiaÄ‡ z goÅ›Ä‡mi, ale ta zadyma w Enklawie to kawaÅ‚ dobrej roboty.}
+{346}{}{Jak na kogoÅ› z wiochy jesteÅ› wporzo. Odpocznij trochÄ™ od ratowania Å›wiata i dobrze siÄ™ zabaw.}
+{347}{}{Podobno Tommy Trzy Jajca ciÄ™ szuka. UwaÅ¼aj.}
+{350}{}{Å»eby tak po prostu rozwaliÄ‡ Enklawe, trzeba mieÄ‡ niezÅ‚Ä… ikrÄ™.}
+{351}{}{Ta rozprawa z EnklawÄ… wymagaÅ‚a pewnie wiÄ™cej ikry, niÅ¼ ma caÅ‚e Nowe Reno razem wziÄ™te.}
+{352}{}{Å»eby tak rozwaliÄ‡ EnklawÄ™, musisz byÄ‡ prawie takim samym twardzielem jak Tommy Trzy Jajca.}
+{353}{}{W zasadzie nie wolno mi rozmawiaÄ‡ z goÅ›Ä‡mi, ale ta zadyma w Enklawie to kawaÅ‚ dobrej roboty.}
+{354}{}{Jak na kogoÅ› z wiochy jesteÅ› wporzo. Odpocznij trochÄ™ od ratowania Å›wiata i dobrze siÄ™ zabaw.}
+{355}{}{Musisz mieÄ‡ niezÅ‚e jaja, Å¼eby tak po prostu rozwaliÄ‡ EnklawÄ™. To znaczy, nie dosÅ‚ownie JAJA, ale wiesz o czym mÃ³wiÄ™.}
+{356}{}{Kochanie, ta rozprawa z EnklawÄ… wymagaÅ‚a pewnie wiÄ™cej ikry, niÅ¼ ma caÅ‚e Nowe Reno razem wziÄ™te.}
+{357}{}{Czy myÅ›lisz, Å¼e taki goÅ›Ä‡ jak ja byÅ‚by dla ciebie odpowiedzni? To znaczy, Å¼aden ze mnie zbawca Å›wiata, ale jestem caÅ‚kiem silny i mam dobre serce.}
+{360}{}{JeÅ›li ten ghul tu wejdzie, zginie podwÃ³jnie.}
 {361}{}{Ghul zostaje na dworze.}
 {362}{}{Nie wpuszczamy tu ghuli. Zabieraj go z powrotem do Gecko, tam gdzie jego miejsce.}

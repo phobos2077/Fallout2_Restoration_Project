@@ -7,7 +7,7 @@
 {106}{}{Why you Yell!}
 {107}{}{I bet those bastards at Vault City sent you. Well, you best be off, and leave everything else alive.}
 {108}{}{Well, it's a little late for that.}
-{109}{}{Por quê?}
+{109}{}{Por quÃª?}
 {110}{}{Sorry, I have a job to do.}
 {111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
 {112}{}{Look, they're paying me to get rid of these beasts, so that's what I'm gonna do.}
@@ -42,7 +42,7 @@
 {138}{}{Tudo bem.}
 {139}{}{Alright! With these babies, we should able to make something of this place over the next couple months. Thanks a
  lot, and hey, if you ever need a place to rest, you'll always be welcome here, friend.}
-{140}{}{Você é bem-vindo.}
+{140}{}{VocÃª Ã© bem-vindo.}
 {141}{}{Hello! Things are going well. We're going to work on expanding the Village in the next month.}
 {142}{}{Hello again! Things have been going well, as you can see. Look around if you have the time.}
 {143}{}{We're still building. We're hoping to expand the walls again in the next month.}
@@ -52,7 +52,7 @@
 {147}{}{What the hell have you done?!?! You fucking traitor! I hate you!!!}
 {148}{}{Oooooops...}
 {149}{}{Let me out of here!!!}
-{150}{}{O que foi que eu fiz para você?}
+{150}{}{O que foi que eu fiz para vocÃª?}
 {151}{}{Socorro!}
 {152}{}{Of course. Here, this is all we can afford. [He hands you $5,000.] I might be a damn fool for trusting it to a
  stranger, but you're the only hope we've got of staying free. Speak to Old Joe in Vault City's courtyard. He's usually
@@ -80,14 +80,14 @@
 {169}{}{You are always welcome here! Goodbye.}
 {170}{}{Yes, but I don't think you're gonna need them. At least not against Vault City. You see, I've convinced the Vault City council not to touch your village.}
 {171}{}{I'll do it. I have some questions before I go though.}
-{172}{}{Deixa pra lá. Tchau.}
+{172}{}{Deixa pra lÃ¡. Tchau.}
 {173}{}{Not yet. I'll return when I have them.}
 {174}{}{Thanks! See you around.}
 {200}{}{It just so happens that I've already got what you need right here.}
 {201}{}{As it turns out, I'm already carrying all those guns. I suppose I could spare a few, but are you sure this is the best way to go about this?}
 {202}{}{I've got the guns you need, but honestly, I think there could be a better way to do this. There's a reasonable man on the council in Vault City, Senior Council Member McClure. I'm sure I could get him to convince the council to come to a peaceful solution.}
 {203}{}{Honestly, I think there could be a better way to do this. There's a reasonable man on the council in Vault City, Senior Council Member McClure. I'm sure I could get him to convince the council to come to a peaceful solution.}
-{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naïve my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
+{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naÃ¯ve my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
 {206}{}{Ok. I'll report back when I have some news.}
 {210}{}{Trust me, we've considered the alternative, but the only thing these Vault City bastards will respond to is violence. Now, will you give us the weapons? I'll pay $5,000 for em. No price can be set on freedom.}
 {211}{}{You do?! Excellent. Here, I'll give you $5,000 for those weapons. It's all the money we have, but there's no price too high for freedom. You've done us a great service, and shall always be welcome here.}
@@ -112,7 +112,7 @@
 {312}{}{No deal. It's a dangerous world out there and I need all the guns I can get my hands on. Goodbye.}
 {400}{}{Thanks friend. With these weapons we stand a chance!}
 {401}{}{Welcome back. Thanks to you we were successful in pushing back the Vault City patrol. They won't be bothering us anymore.}
-{500}{}{Não me incomode.}
+{500}{}{NÃ£o me incomode.}
 {600}{}{What was the name of your contact in Vault City again?}
 {601}{}{Old Joe. As the name implies, he's a real old fella. You'll either find him in the courtyard bar or wandering nearby.}
 {602}{}{Alright, thanks.}

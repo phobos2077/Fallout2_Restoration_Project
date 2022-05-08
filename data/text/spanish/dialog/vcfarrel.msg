@@ -1,56 +1,56 @@
 {100}{}{Ves a un Ciudadano con un uniforme azul brillante. Es como el uniforme del Morador del Refugio, pero sin
- un número a la espalda.}
+ un nÃºmero a la espalda.}
 {101}{}{Ves al oficial Holden de Sub-servicios.}
 {102}{}{Ves a un Ciudadano con un uniforme azul brillante. Es como el uniforme del Morador del Refugio, pero sin
- un número a la espalda.}
+ un nÃºmero a la espalda.}
 {103}{}{::aplausos::}
-{104}{}{¡Es el héroe! ¡Mirad!}
-{105}{}{¡Dios mío! ¡Es el héroe, aquí, en Ciudad Refugio!}
-{106}{}{Que le vaya bien, capitán.}
-{107}{}{Ciudad Refugio prevalece, capitán.}
+{104}{}{Â¡Es el hÃ©roe! Â¡Mirad!}
+{105}{}{Â¡Dios mÃ­o! Â¡Es el hÃ©roe, aquÃ­, en Ciudad Refugio!}
+{106}{}{Que le vaya bien, capitÃ¡n.}
+{107}{}{Ciudad Refugio prevalece, capitÃ¡n.}
 {108}{}{Que te vaya bien, Ciudadano.}
 {109}{}{Ciudad Refugio prevalece, Ciudadano.}
-{110}{}{¡Un mutante! ¡Guardias! ¡Guardias!}
-{111}{}{¡Un necrófago! ¡Guardias! ¡Guardias!}
+{110}{}{Â¡Un mutante! Â¡Guardias! Â¡Guardias!}
+{111}{}{Â¡Un necrÃ³fago! Â¡Guardias! Â¡Guardias!}
 {112}{}{Veamos... tres estimulantes, una caja de Rad-X...}
 {113}{}{Sigue haciendo falta esa lista de inventario para el Oficial Randal.}
-{114}{}{Vemos: necesito comprobar el material, comprobar el inventario, comprobar la lista, y después introducir la lista
+{114}{}{Vemos: necesito comprobar el material, comprobar el inventario, comprobar la lista, y despuÃ©s introducir la lista
  en el sistema...}
-{115}{}{He de ver cómo obtengo algunos kits de primeros auxilios más...}
+{115}{}{He de ver cÃ³mo obtengo algunos kits de primeros auxilios mÃ¡s...}
 {119}{}{Lo siento, la Oficina de Sub-servicios se cierra durante la noche.}
-{120}{}{Por favor, vuelve por la mañana. Gracias.}
-{121}{}{Ahora mismo estoy haciendo inventario. Abriremos por la mañana.}
-{122}{}{¿Puedo ayudarle, capitán?}
-{123}{}{¿Puedo ayudarte, Ciudadano?}
-{124}{}{¿Sí, qué pasa?}
-{125}{}{¿Phuedo aiuarteeeee?}
+{120}{}{Por favor, vuelve por la maÃ±ana. Gracias.}
+{121}{}{Ahora mismo estoy haciendo inventario. Abriremos por la maÃ±ana.}
+{122}{}{Â¿Puedo ayudarle, capitÃ¡n?}
+{123}{}{Â¿Puedo ayudarte, Ciudadano?}
+{124}{}{Â¿SÃ­, quÃ© pasa?}
+{125}{}{Â¿Phuedo aiuarteeeee?}
 {126}{}{Dejas de balbucear}
-{127}{}{¿Qué lugar es éste?}
-{128}{}{¿Puedo ver lo que tienes a la venta?}
+{127}{}{Â¿QuÃ© lugar es Ã©ste?}
+{128}{}{Â¿Puedo ver lo que tienes a la venta?}
 {129}{}{Hoy nada, gracias.}
-{130}{}{Genial, otro forastero... ¡guardias! ¡Tenemos un forastero al que hay que escoltar a la entrada!
- ¡Guardias!}
+{130}{}{Genial, otro forastero... Â¡guardias! Â¡Tenemos un forastero al que hay que escoltar a la entrada!
+ Â¡Guardias!}
 {131}{}{YO NO GUSTO GUARDIAS. TU MUERES}
 {132}{}{*Suspiras* Marcho yo con GUADAS}
-{133}{}{La próxima vez, deberías probar en la tienda del Patio, en el exterior de la ciudad. Deberían tener
- todo lo que los... forasteros necesitáis.}
+{133}{}{La prÃ³xima vez, deberÃ­as probar en la tienda del Patio, en el exterior de la ciudad. DeberÃ­an tener
+ todo lo que los... forasteros necesitÃ¡is.}
 {134}{}{Eh, gracias.}
-{135}{}{Compraré donde me apetezca, ¿lo entiendes?}
+{135}{}{ComprarÃ© donde me apetezca, Â¿lo entiendes?}
 {136}{}{Gracias. Ciudad Refugio prevalece, Ciudadano.}
-{137}{}{Gracias. Ciudad Refugio prevalece, capitán.}
+{137}{}{Gracias. Ciudad Refugio prevalece, capitÃ¡n.}
 {138}{}{Ciudad Refugio prevalece, Ciudadano.}
 {139}{}{Que te vaya bien, Ciudadano.}
-{140}{}{¿Esto? Pues esto es la Oficina de Sub-servicios B, a cargo del almacenamiento farmacéutico y distribución
- en Ciudad Refugio. Soy el oficial de Sub-servicios Holden. ¿Cómo puedo ayudarte hoy, Ciudadano?}
-{141}{}{Esto es la Oficina de Sub-servicios B... nos encargamos de la distribución de suministros farmacéuticos en
- Ciudad Refugio. ¿Quizá estabas buscando algún otro lugar?}
-{142}{}{¿Puedo ver lo que tienes a la venta?}
-{143}{}{No, este es el lugar que estaba buscando. ¿Puedo ver lo que tienes a la venta?}
+{140}{}{Â¿Esto? Pues esto es la Oficina de Sub-servicios B, a cargo del almacenamiento farmacÃ©utico y distribuciÃ³n
+ en Ciudad Refugio. Soy el oficial de Sub-servicios Holden. Â¿CÃ³mo puedo ayudarte hoy, Ciudadano?}
+{141}{}{Esto es la Oficina de Sub-servicios B... nos encargamos de la distribuciÃ³n de suministros farmacÃ©uticos en
+ Ciudad Refugio. Â¿QuizÃ¡ estabas buscando algÃºn otro lugar?}
+{142}{}{Â¿Puedo ver lo que tienes a la venta?}
+{143}{}{No, este es el lugar que estaba buscando. Â¿Puedo ver lo que tienes a la venta?}
 {144}{}{Hoy nada, gracias.}
-{145}{}{Tal vez sea así. Adiós.}
-{150}{}{¿Esto? Pues esto es la Oficina de Sub-servicios B, a cargo del almacenamiento farmacéutico y distribución
- en Ciudad Refugio. Soy el oficial de Sub-servicios Holden. ¿Cómo puedo ayudarle hoy, capitán?}
-{151}{}{¡Oye! ¡Aléjate de aquí!}
-{152}{}{¡Ya está bien! ¡Sal de aquí!}
+{145}{}{Tal vez sea asÃ­. AdiÃ³s.}
+{150}{}{Â¿Esto? Pues esto es la Oficina de Sub-servicios B, a cargo del almacenamiento farmacÃ©utico y distribuciÃ³n
+ en Ciudad Refugio. Soy el oficial de Sub-servicios Holden. Â¿CÃ³mo puedo ayudarle hoy, capitÃ¡n?}
+{151}{}{Â¡Oye! Â¡AlÃ©jate de aquÃ­!}
+{152}{}{Â¡Ya estÃ¡ bien! Â¡Sal de aquÃ­!}
 {153}{}{Gracias.}
 {154}{}{[continuar]}

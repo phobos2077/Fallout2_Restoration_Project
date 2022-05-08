@@ -23,7 +23,7 @@
 {122}{}{We'll just forget I asked. I'll leave you alone now.}
 {123}{}{I can think of a couple of things, if you're really interested.}
 {124}{}{You're joking right? After what you did with Jack? I suppose you could find some steady work.}
-{125}{}{Como o quê?}
+{125}{}{Como o quÃª?}
 {126}{}{No, let's just change the subject.}
 {127}{}{Forget it, I've changed my mind. Goodbye.}
 {128}{}{No Vault 13. Vault 15, yes.}

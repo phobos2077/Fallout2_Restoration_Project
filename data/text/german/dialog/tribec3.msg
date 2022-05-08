@@ -2,15 +2,15 @@
 {101}{}{Du siehst ein Mitglied des Stammes.}
 {102}{}{Eines der wenigen verbliebenen Stammesmitglieder.}
 {200}{}{Du bist hier nicht Willkommen.}
-{201}{}{Die Geister mögen dich nicht.}
-{202}{}{Geh weg, Außenweltler.}
+{201}{}{Die Geister mÃ¶gen dich nicht.}
+{202}{}{Geh weg, AuÃŸenweltler.}
 {203}{}{Was willst du?}
 {204}{}{Willkommen, Krieger.}
 {205}{}{Du bist uns immer willkommen.}
 {206}{}{Die Geister akzeptieren dich als einen von uns.}
 {207}{}{Danke, das du uns geholfen hast.}
-{208}{}{Ich dachte, alle Außenweltler wären böse. Es ist nicht so...}
-{209}{}{Mach das bloß nicht.}
-{210}{}{Sklavenhändler sind bei uns nicht erwünscht!}
-{300}{}{Wir fühlen uns durch deine Anwesenheit geehrt, Held.}
-{301}{}{Dein Sieg über die Enclave wird in Legenden festgehalten. Deine Vorfahren sind stolz.}
+{208}{}{Ich dachte, alle AuÃŸenweltler wÃ¤ren bÃ¶se. Es ist nicht so...}
+{209}{}{Mach das bloÃŸ nicht.}
+{210}{}{SklavenhÃ¤ndler sind bei uns nicht erwÃ¼nscht!}
+{300}{}{Wir fÃ¼hlen uns durch deine Anwesenheit geehrt, Held.}
+{301}{}{Dein Sieg Ã¼ber die Enclave wird in Legenden festgehalten. Deine Vorfahren sind stolz.}

@@ -1,11 +1,11 @@
 {100}{}{Kis poronty.}
 {101}{}{? az ifjabb Melchior.}
-{150}{}{Mosolygós, nagyszem? kölyök.}
-{200}{}{Helló! Én az ifjabb Melchior vagyok.}
-{201}{}{Az apukám bányász. ?t is Melchiornak hívják, csakúgy, mint engem.}
-{202}{}{Az apukám jó bányász, de b?vész akar lenni.}
-{203}{}{Apukám m?vészneve Fenséges Melchior.}
-{204}{}{Apu legjobb trükkje az volt, amikor egy patkányt el?húzott a kalapból.}
-{205}{}{Apám elment néhány vasruhás fickóval.}
-{206}{}{Remélem, apu hamarosan hazajön. Hiányoznak a b?vésztrükkjei.}
-{207}{}{Én is nagy b?vész leszek, mint az apukám.}
+{150}{}{MosolygÃ³s, nagyszem? kÃ¶lyÃ¶k.}
+{200}{}{HellÃ³! Ã‰n az ifjabb Melchior vagyok.}
+{201}{}{Az apukÃ¡m bÃ¡nyÃ¡sz. ?t is Melchiornak hÃ­vjÃ¡k, csakÃºgy, mint engem.}
+{202}{}{Az apukÃ¡m jÃ³ bÃ¡nyÃ¡sz, de b?vÃ©sz akar lenni.}
+{203}{}{ApukÃ¡m m?vÃ©szneve FensÃ©ges Melchior.}
+{204}{}{Apu legjobb trÃ¼kkje az volt, amikor egy patkÃ¡nyt el?hÃºzott a kalapbÃ³l.}
+{205}{}{ApÃ¡m elment nÃ©hÃ¡ny vasruhÃ¡s fickÃ³val.}
+{206}{}{RemÃ©lem, apu hamarosan hazajÃ¶n. HiÃ¡nyoznak a b?vÃ©sztrÃ¼kkjei.}
+{207}{}{Ã‰n is nagy b?vÃ©sz leszek, mint az apukÃ¡m.}

@@ -1,44 +1,44 @@
-{100}{}{Você ver um fantasma!}
-{101}{}{Você vê Anna o espírito.}
-{150}{}{É um fantasma. Isso não é algo que você vê todos os dias.}
+{100}{}{VocÃª ver um fantasma!}
+{101}{}{VocÃª vÃª Anna o espÃ­rito.}
+{150}{}{Ã‰ um fantasma. Isso nÃ£o Ã© algo que vocÃª vÃª todos os dias.}
 {151}{}{Ela parece bastante atormentada.}
 {152}{}{[FALAR]}
 {153}{}{Oh, dor! Ele queima!}
-{154}{}{Qual é o problema?}
-{155}{}{Quem é você?}
-{156}{}{Vá-se embora, espírito imundo!}
-{157}{}{Paro e toco em todas as portas, mas ninguém vem, ninguém ouve.}
-{158}{}{Eu posso ouvir você. Qual é o problema?}
-{159}{}{Eu acho que você precisa desligar seu Stealth Boy, senhora.}
-{160}{}{Cadê? Eu não consigo achar! Eu estou perdida! Ah ...}
-{161}{}{O que você está procurando? Talvez eu possa ajudar.}
-{162}{}{Você realmente precisa parar de gemer e gemer e começar a fazer sentido.}
-{163}{}{Meu medalhão! Ele está desaparecido. Ladrão! Ladrão!}
-{164}{}{Whoa, acabei de chegar aqui. Eu não fiz isso.}
-{165}{}{Posso ajudar você a encontrá-lo?}
+{154}{}{Qual Ã© o problema?}
+{155}{}{Quem Ã© vocÃª?}
+{156}{}{VÃ¡-se embora, espÃ­rito imundo!}
+{157}{}{Paro e toco em todas as portas, mas ninguÃ©m vem, ninguÃ©m ouve.}
+{158}{}{Eu posso ouvir vocÃª. Qual Ã© o problema?}
+{159}{}{Eu acho que vocÃª precisa desligar seu Stealth Boy, senhora.}
+{160}{}{CadÃª? Eu nÃ£o consigo achar! Eu estou perdida! Ah ...}
+{161}{}{O que vocÃª estÃ¡ procurando? Talvez eu possa ajudar.}
+{162}{}{VocÃª realmente precisa parar de gemer e gemer e comeÃ§ar a fazer sentido.}
+{163}{}{Meu medalhÃ£o! Ele estÃ¡ desaparecido. LadrÃ£o! LadrÃ£o!}
+{164}{}{Whoa, acabei de chegar aqui. Eu nÃ£o fiz isso.}
+{165}{}{Posso ajudar vocÃª a encontrÃ¡-lo?}
 {166}{}{Ah, cruel destino.}
-{167}{}{Você não pode me ouvir, você pode?}
+{167}{}{VocÃª nÃ£o pode me ouvir, vocÃª pode?}
 {168}{}{Mais tarde, garota fantasma.}
 {169}{}{Tchau. Eu vou tentar ajudar.}
-{170}{}{Meu medalhão! Dê isso para mim!!! Oh!!!!!!}
-{171}{}{De jeito nenhum! Vá para o inferno. Eu encontrei esta justa.}
-{172}{}{ESTÁ BEM. Aqui está.}
-{173}{}{Aqui. Você pode descansar em paz.}
+{170}{}{Meu medalhÃ£o! DÃª isso para mim!!! Oh!!!!!!}
+{171}{}{De jeito nenhum! VÃ¡ para o inferno. Eu encontrei esta justa.}
+{172}{}{ESTÃ BEM. Aqui estÃ¡.}
+{173}{}{Aqui. VocÃª pode descansar em paz.}
 {174}{}{OK.}
-{175}{}{Não.}
-{176}{}{Meu medalhão, meu medalhão! Eu estou chegando, Pai! Eu vou!}
+{175}{}{NÃ£o.}
+{176}{}{Meu medalhÃ£o, meu medalhÃ£o! Eu estou chegando, Pai! Eu vou!}
 {177}{}{Adeus.}
-{178}{}{Aguarde! Não vá!}
+{178}{}{Aguarde! NÃ£o vÃ¡!}
 {179}{}{Ir para a luz.}
 {200}{}{Onde poderia ser?}
 {201}{}{Ohhh.}
-{202}{}{Mamãe? Papai? Onde está você?}
-{203}{}{Eu não posso encontrá-lo!}
-{500}{}{Mamãe... Papai... estou voltando...}
-{501}{}{É tão brilhante...}
-{502}{}{Grammy, eu posso ver você...}
-{503}{}{Oh, é o tipo Mr. Cain. É bom ver você novamente...}
-{550}{}{Esta casa está limpa.}
+{202}{}{MamÃ£e? Papai? Onde estÃ¡ vocÃª?}
+{203}{}{Eu nÃ£o posso encontrÃ¡-lo!}
+{500}{}{MamÃ£e... Papai... estou voltando...}
+{501}{}{Ã‰ tÃ£o brilhante...}
+{502}{}{Grammy, eu posso ver vocÃª...}
+{503}{}{Oh, Ã© o tipo Mr. Cain. Ã‰ bom ver vocÃª novamente...}
+{550}{}{Esta casa estÃ¡ limpa.}
 {551}{}{Oog, restos de osso.}
 {560}{}{GHOST BUSTER!}
 {561}{}{Ug.}

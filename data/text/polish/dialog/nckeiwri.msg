@@ -1,79 +1,79 @@
 {100}{}{Widzisz Keitha Wrighta.}
-{150}{}{Widzisz chudego, m³odego mê¿czyznê o bladej twarzy i d³ugich, zaniedbanych blond w³osach. Ostro¿nie ci siê przygl¹da.}
-{151}{}{Widzisz Keitha Wrighta. Ostro¿nie ci siê przygl¹da.}
-{200}{}{Kim jesteœ?}
+{150}{}{Widzisz chudego, mÅ‚odego mÄ™Å¼czyznÄ™ o bladej twarzy i dÅ‚ugich, zaniedbanych blond wÅ‚osach. OstroÅ¼nie ci siÄ™ przyglÄ…da.}
+{151}{}{Widzisz Keitha Wrighta. OstroÅ¼nie ci siÄ™ przyglÄ…da.}
+{200}{}{Kim jesteÅ›?}
 {201}{}{Czego?}
 {220}{}{Hej, }
-{230}{}{Zrób jeszcze jeden ruch w stronê tych drzwi, a po¿a³ujesz.}
-{240}{}{Wci¹¿ nie mogê uwierzyæ, ¿e Tato nie ¿yje. Tak wielu rzeczy nie zd¹¿y³em mu powiedzieæ...}
-{250}{}{To z³a dzielnica dla ³owców niewolników. Jak siê zaraz nie zaczniesz t³umaczyæ, bêdziesz mieæ od cholery k³opotów.}
-{251}{}{Ja ciê nie znam, mój tata ciê nie zna, a jeœli nie zaczniesz siê zaraz t³umaczyæ, to nie bêdziemy chcieli ciê poznaæ.}
+{230}{}{ZrÃ³b jeszcze jeden ruch w stronÄ™ tych drzwi, a poÅ¼aÅ‚ujesz.}
+{240}{}{WciÄ…Å¼ nie mogÄ™ uwierzyÄ‡, Å¼e Tato nie Å¼yje. Tak wielu rzeczy nie zdÄ…Å¼yÅ‚em mu powiedzieÄ‡...}
+{250}{}{To zÅ‚a dzielnica dla Å‚owcÃ³w niewolnikÃ³w. Jak siÄ™ zaraz nie zaczniesz tÅ‚umaczyÄ‡, bÄ™dziesz mieÄ‡ od cholery kÅ‚opotÃ³w.}
+{251}{}{Ja ciÄ™ nie znam, mÃ³j tata ciÄ™ nie zna, a jeÅ›li nie zaczniesz siÄ™ zaraz tÅ‚umaczyÄ‡, to nie bÄ™dziemy chcieli ciÄ™ poznaÄ‡.}
 {252}{}{Jak leci, }
-{253}{}{Dziêki za odkrycie zabójcy Richarda, }
+{253}{}{DziÄ™ki za odkrycie zabÃ³jcy Richarda, }
 {254}{}{Czego tera chcesz?}
-{255}{}{Matria. Myœ to matria!}
+{255}{}{Matria. MyÅ› to matria!}
 {256}{}{Jabadaba Bum Cyk Cyk.}
-{257}{}{OdejdŸ}
-{258}{}{Szukam pracy. Czy rodzina Wrightów kogoœ potrzebuje?}
-{259}{}{Szukam pracy. Chris mnie tu przys³a³. Czy rodzina Wrightów kogoœ potrzebuje?}
-{262}{}{Hej, Keith, masz fajn¹ mamuœkê.}
-{263}{}{Co mo¿esz powiedzieæ mi o swoim bracie Richardzie?}
-{264}{}{Niewa¿ne. Przepraszam za zawracanie g³owy.}
-{280}{}{Wynoœ siê st¹d ja³opo. Jeszcze raz siê do mnie odezwiesz, to bêdziesz mieæ kupê dziur.}
-{281}{}{Dziur dziur dziur kapie sobie ¿ur.}
+{257}{}{OdejdÅº}
+{258}{}{Szukam pracy. Czy rodzina WrightÃ³w kogoÅ› potrzebuje?}
+{259}{}{Szukam pracy. Chris mnie tu przysÅ‚aÅ‚. Czy rodzina WrightÃ³w kogoÅ› potrzebuje?}
+{262}{}{Hej, Keith, masz fajnÄ… mamuÅ›kÄ™.}
+{263}{}{Co moÅ¼esz powiedzieÄ‡ mi o swoim bracie Richardzie?}
+{264}{}{NiewaÅ¼ne. Przepraszam za zawracanie gÅ‚owy.}
+{280}{}{WynoÅ› siÄ™ stÄ…d jaÅ‚opo. Jeszcze raz siÄ™ do mnie odezwiesz, to bÄ™dziesz mieÄ‡ kupÄ™ dziur.}
+{281}{}{Dziur dziur dziur kapie sobie Å¼ur.}
 {282}{}{Szamma Lamma BUM CYK CYK}
-{290}{}{Wynoœ siê st¹d! Ostatni raz ostrzegam!}
+{290}{}{WynoÅ› siÄ™ stÄ…d! Ostatni raz ostrzegam!}
 {291}{}{Ni-raz, ten raz, bum raz i cyk cyk raz.}
 {292}{}{BUM CYK CYK! BUM CYK CYK!}
-{300}{}{Ostrzega³em ciê pó³g³ówku...}
-{301}{}{Hê?}
-{310}{}{Jestem Keith Wright z rodziny Wrightów. A teraz powiesz mi w koñcu, co tu robisz?}
-{312}{}{Chris powiedzia³, ¿eby tu wpaœæ. Szukam pracy. Mo¿esz mi pomóc?}
-{313}{}{Keith Wright, tak? Fajn¹ masz mamê.}
+{300}{}{OstrzegaÅ‚em ciÄ™ pÃ³Å‚gÅ‚Ã³wku...}
+{301}{}{HÄ™?}
+{310}{}{Jestem Keith Wright z rodziny WrightÃ³w. A teraz powiesz mi w koÅ„cu, co tu robisz?}
+{312}{}{Chris powiedziaÅ‚, Å¼eby tu wpaÅ›Ä‡. Szukam pracy. MoÅ¼esz mi pomÃ³c?}
+{313}{}{Keith Wright, tak? FajnÄ… masz mamÄ™.}
 {315}{}{Co to za miejsce?}
-{325}{}{To SIEDZIBA rodziny Wrightów. Powiesz mi w koñcu, co tutaj robisz?}
-{335}{}{Ach tak, Chris ciê przys³a³?}
-{336}{}{Dok³adnie. Powiedzia³, ¿e mo¿esz mieæ dla mnie jak¹œ pracê.}
-{345}{}{Nie wiem, czy to siê na coœ przyda, ale móg³bym zapytaæ tatê...}
-{346}{}{By³oby to bardzo mi³e z twojej strony.}
-{355}{}{Nia... nie zatrudniamy miêœniaków jak inne rodziny, przynajmniej na razie. }
-{356}{}{Nia... nie zadajemy siê z ³owcami niewolników jak inne rodziny. }
+{325}{}{To SIEDZIBA rodziny WrightÃ³w. Powiesz mi w koÅ„cu, co tutaj robisz?}
+{335}{}{Ach tak, Chris ciÄ™ przysÅ‚aÅ‚?}
+{336}{}{DokÅ‚adnie. PowiedziaÅ‚, Å¼e moÅ¼esz mieÄ‡ dla mnie jakÄ…Å› pracÄ™.}
+{345}{}{Nie wiem, czy to siÄ™ na coÅ› przyda, ale mÃ³gÅ‚bym zapytaÄ‡ tatÄ™...}
+{346}{}{ByÅ‚oby to bardzo miÅ‚e z twojej strony.}
+{355}{}{Nia... nie zatrudniamy miÄ™Å›niakÃ³w jak inne rodziny, przynajmniej na razie. }
+{356}{}{Nia... nie zadajemy siÄ™ z Å‚owcami niewolnikÃ³w jak inne rodziny. }
 {357}{}{Lepiej spadaj.}
-{358}{}{Nie pójdê st¹d, póki nie porozmawiam z panem Wrightem.}
+{358}{}{Nie pÃ³jdÄ™ stÄ…d, pÃ³ki nie porozmawiam z panem Wrightem.}
 {359}{}{No to trudno.}
-{365}{}{Nieee, myœlê, ¿e JEDNAK sobie pójdziesz, bo wygl¹dasz na kogoœ, kto lubi ¿yæ. Zmiataj.}
-{366}{}{NIGDZIE nie idê.}
+{365}{}{Nieee, myÅ›lÄ™, Å¼e JEDNAK sobie pÃ³jdziesz, bo wyglÄ…dasz na kogoÅ›, kto lubi Å¼yÄ‡. Zmiataj.}
+{366}{}{NIGDZIE nie idÄ™.}
 {367}{}{Dobrze.}
-{375}{}{OSTRZEGA£EM ciê...}
-{376}{}{Co, chcesz trochê TEEGO, co CH£OPACZKU?! Chcesz TROCHÊ?! No to chodŸ i WE...}
-{380}{}{Yyy... a co z ni¹? Znowu wpakowa³a siê w jakieœ k³opoty?}
-{381}{}{Nie. Czy to siê tak czêsto zdarza?}
-{383}{}{Nie, ja tylko tak, z ciekawoœci. PóŸniej Keith.}
-{390}{}{Czasami. Ona ci¹gle prawi kazania i pohukuje na wszystkich o tym, jakie z³e jest picie i hazard, i kurde prawie wszystko inne. Czasem robi du¿o szumu i wkurza tatê.}
-{391}{}{Czy twoja mama w ogóle wie, czym siê zajmuje twoja rodzina?}
-{392}{}{Na pewno. No, dziêki za rozmowê Keith.}
-{400}{}{Nieee, nie wie nawet po³owy. Myœli, ¿e tato jest czysty i w ogóle, ale nie idzie jej za³apywanie, co on tak naprawdê robi. Jakby znalaz³a tê gorzelniê pod stacj¹ kolejow¹, to by zrobi³a niez³¹ awanturê, o tak.}
-{401}{}{Rozumiem. Dziêki Keith.}
-{410}{}{(Krêci g³ow¹) Tym razem przesadzi³a z tym ca³ym rozwalaniem interesu taty. Robotnicy zbyt siê bali, ¿eby j¹ powstrzymaæ i tato siê na ni¹ wœciek³, a ona zaraz wœciek³a siê na niego. (Wzrusza ramionami) Minie trochê czasu, zanim tata siê z tego pozbiera.}
-{420}{}{Dobry dzieciak. Kurde, jeœli kiedykolwiek dowiemy siê, kto mu to zrobi³...}
-{421}{}{Masz jakieœ podejrzenia, kto móg³by to zrobiæ?}
-{422}{}{Có¿, mam nadziejê, ¿e znajdziecie zabójcê. Na razie Keith.}
-{430}{}{Kupa innych rodzin sprzedaje Jet, ka¿da z nich mog³a to zrobiæ. Ale Mordino ma z nich wszystkich najwiêcej dealerów, bo to on robi najwiêcej Jetu. Ja bym stawia³ na któregoœ z nich.}
-{431}{}{Których dealerów podejrzewasz?}
-{432}{}{Mo¿esz powiedzieæ mi coœ o Richardzie?}
-{440}{}{Paru: Szramiastego Jimmy'ego J z 2-giej Ulicy, tego starego skurwysyna Renesco z zachodniej dzielnicy... no i Jules te¿ siê tym zajmuje, sprzedaje przy wjeŸdzie do miasta, ale g³ównie g³upim turystom. Jest jeszcze Ma³y Jesus Mordino.}
-{441}{}{Ma³y Jesus Mordino?}
-{442}{}{Czy mo¿esz powiedzieæ mi coœ jeszcze o Richardzie?}
-{443}{}{Dziêki za informacje.}
-{450}{}{Spokojny, niewinny dzieciak. Trzyma³ siê z dala od k³opotów, a jak na Wrighta to ju¿ coœ. Pogrzebaliœmy go na Golgocie ju¿ jakiœ czas temu, ale mama wci¹¿ nie chce, ¿eby ktoœ robi³ ba³agan w jego pokoju. Wiesz, ciê¿ko jej siê z tym pogodziæ.}
-{451}{}{Który to jest jego pokój? Myœlisz, ¿e twoja matka mia³aby coœ przeciwko, gdyby tam zajrzeæ?}
-{452}{}{Podejrzewasz jakichœ dealerów o to, ¿e dali mu ten Jet?}
-{454}{}{Pogrzebaliœcie na Golgocie, tak? Hmmm. Dziêki za informacje.}
-{460}{}{Jego pokój? To ten pusty zaraz obok pokoju mamy, drugie drzwi od kuchni. A co do rozgl¹dania siê po k¹tach... no... wiesz co, nie siedŸ tam zbyt d³ugo... i nie narób ba³aganu, bo jak siê mama zorientuje, to zrobi awanturê.}
-{461}{}{Dziêki Keith. To nie potrwa d³ugo.}
-{470}{}{Poczekaj. (Odwraca siê i puka do drzwi) Tato? (Wsadza g³owê do œrodka, wymienia z kimœ parê s³ów, po czym wraca i pokazuje drzwi g³ow¹) Mo¿esz wejœæ, ale uwa¿aj. Tato ma dziœ wredny humor.}
-{471}{}{Dziêkujê.}
-{480}{}{To syn Du¿ego Jesusa. Niez³y drañ. Bez w¹tpienia móg³ z³apaæ Richarda i wpakowaæ w niego kupê Jetu. Jeœli go szukasz, zajrzyj do Desperado. Ma³y Jesus siedzi tam razem ze swoim starym.}
+{375}{}{OSTRZEGAÅEM ciÄ™...}
+{376}{}{Co, chcesz trochÄ™ TEEGO, co CHÅOPACZKU?! Chcesz TROCHÄ˜?! No to chodÅº i WEÅ¹...}
+{380}{}{Yyy... a co z niÄ…? Znowu wpakowaÅ‚a siÄ™ w jakieÅ› kÅ‚opoty?}
+{381}{}{Nie. Czy to siÄ™ tak czÄ™sto zdarza?}
+{383}{}{Nie, ja tylko tak, z ciekawoÅ›ci. PÃ³Åºniej Keith.}
+{390}{}{Czasami. Ona ciÄ…gle prawi kazania i pohukuje na wszystkich o tym, jakie zÅ‚e jest picie i hazard, i kurde prawie wszystko inne. Czasem robi duÅ¼o szumu i wkurza tatÄ™.}
+{391}{}{Czy twoja mama w ogÃ³le wie, czym siÄ™ zajmuje twoja rodzina?}
+{392}{}{Na pewno. No, dziÄ™ki za rozmowÄ™ Keith.}
+{400}{}{Nieee, nie wie nawet poÅ‚owy. MyÅ›li, Å¼e tato jest czysty i w ogÃ³le, ale nie idzie jej zaÅ‚apywanie, co on tak naprawdÄ™ robi. Jakby znalazÅ‚a tÄ™ gorzelniÄ™ pod stacjÄ… kolejowÄ…, to by zrobiÅ‚a niezÅ‚Ä… awanturÄ™, o tak.}
+{401}{}{Rozumiem. DziÄ™ki Keith.}
+{410}{}{(KrÄ™ci gÅ‚owÄ…) Tym razem przesadziÅ‚a z tym caÅ‚ym rozwalaniem interesu taty. Robotnicy zbyt siÄ™ bali, Å¼eby jÄ… powstrzymaÄ‡ i tato siÄ™ na niÄ… wÅ›ciekÅ‚, a ona zaraz wÅ›ciekÅ‚a siÄ™ na niego. (Wzrusza ramionami) Minie trochÄ™ czasu, zanim tata siÄ™ z tego pozbiera.}
+{420}{}{Dobry dzieciak. Kurde, jeÅ›li kiedykolwiek dowiemy siÄ™, kto mu to zrobiÅ‚...}
+{421}{}{Masz jakieÅ› podejrzenia, kto mÃ³gÅ‚by to zrobiÄ‡?}
+{422}{}{CÃ³Å¼, mam nadziejÄ™, Å¼e znajdziecie zabÃ³jcÄ™. Na razie Keith.}
+{430}{}{Kupa innych rodzin sprzedaje Jet, kaÅ¼da z nich mogÅ‚a to zrobiÄ‡. Ale Mordino ma z nich wszystkich najwiÄ™cej dealerÃ³w, bo to on robi najwiÄ™cej Jetu. Ja bym stawiaÅ‚ na ktÃ³regoÅ› z nich.}
+{431}{}{KtÃ³rych dealerÃ³w podejrzewasz?}
+{432}{}{MoÅ¼esz powiedzieÄ‡ mi coÅ› o Richardzie?}
+{440}{}{Paru: Szramiastego Jimmy'ego J z 2-giej Ulicy, tego starego skurwysyna Renesco z zachodniej dzielnicy... no i Jules teÅ¼ siÄ™ tym zajmuje, sprzedaje przy wjeÅºdzie do miasta, ale gÅ‚Ã³wnie gÅ‚upim turystom. Jest jeszcze MaÅ‚y Jesus Mordino.}
+{441}{}{MaÅ‚y Jesus Mordino?}
+{442}{}{Czy moÅ¼esz powiedzieÄ‡ mi coÅ› jeszcze o Richardzie?}
+{443}{}{DziÄ™ki za informacje.}
+{450}{}{Spokojny, niewinny dzieciak. TrzymaÅ‚ siÄ™ z dala od kÅ‚opotÃ³w, a jak na Wrighta to juÅ¼ coÅ›. PogrzebaliÅ›my go na Golgocie juÅ¼ jakiÅ› czas temu, ale mama wciÄ…Å¼ nie chce, Å¼eby ktoÅ› robiÅ‚ baÅ‚agan w jego pokoju. Wiesz, ciÄ™Å¼ko jej siÄ™ z tym pogodziÄ‡.}
+{451}{}{KtÃ³ry to jest jego pokÃ³j? MyÅ›lisz, Å¼e twoja matka miaÅ‚aby coÅ› przeciwko, gdyby tam zajrzeÄ‡?}
+{452}{}{Podejrzewasz jakichÅ› dealerÃ³w o to, Å¼e dali mu ten Jet?}
+{454}{}{PogrzebaliÅ›cie na Golgocie, tak? Hmmm. DziÄ™ki za informacje.}
+{460}{}{Jego pokÃ³j? To ten pusty zaraz obok pokoju mamy, drugie drzwi od kuchni. A co do rozglÄ…dania siÄ™ po kÄ…tach... no... wiesz co, nie siedÅº tam zbyt dÅ‚ugo... i nie narÃ³b baÅ‚aganu, bo jak siÄ™ mama zorientuje, to zrobi awanturÄ™.}
+{461}{}{DziÄ™ki Keith. To nie potrwa dÅ‚ugo.}
+{470}{}{Poczekaj. (Odwraca siÄ™ i puka do drzwi) Tato? (Wsadza gÅ‚owÄ™ do Å›rodka, wymienia z kimÅ› parÄ™ sÅ‚Ã³w, po czym wraca i pokazuje drzwi gÅ‚owÄ…) MoÅ¼esz wejÅ›Ä‡, ale uwaÅ¼aj. Tato ma dziÅ› wredny humor.}
+{471}{}{DziÄ™kujÄ™.}
+{480}{}{To syn DuÅ¼ego Jesusa. NiezÅ‚y draÅ„. Bez wÄ…tpienia mÃ³gÅ‚ zÅ‚apaÄ‡ Richarda i wpakowaÄ‡ w niego kupÄ™ Jetu. JeÅ›li go szukasz, zajrzyj do Desperado. MaÅ‚y Jesus siedzi tam razem ze swoim starym.}
 {1220}{}{. Co jest?}
-{1252}{}{ Wszyscy ciê dobrze traktuj¹? Mogê ci w czymœ pomóc?}
-{1253}{}{. Mamy u ciebie d³ug, a Wrightowie zawsze sp³acaj¹ swoje d³ugi. W czym mogê ci pomóc?}
+{1252}{}{ Wszyscy ciÄ™ dobrze traktujÄ…? MogÄ™ ci w czymÅ› pomÃ³c?}
+{1253}{}{. Mamy u ciebie dÅ‚ug, a Wrightowie zawsze spÅ‚acajÄ… swoje dÅ‚ugi. W czym mogÄ™ ci pomÃ³c?}

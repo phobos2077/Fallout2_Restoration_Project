@@ -1,56 +1,56 @@
 {100}{}{Widzisz starego mutanta.}
-{101}{}{Widzisz starego mutanta, mieszkañca Broken Hills.}
-{102}{}{Po dok³adniejszym przyjrzeniu siê widzisz starzej¹cego siê mutanta. Si³a w jego miêœniach jest wci¹¿ widoczna, tak jak defensywna duma, z któr¹ siê nosi.}
-{103}{}{S¹dzê... ¿e... gaz radonowy odm³adza górników.}
-{104}{}{Tracê moje wspomnienia... to wszystko do mnie wraca... chwileczkê...}
-{105}{}{Powiadaj¹, ¿e ludzie spiskuj¹, aby nas zabiæ.}
-{106}{}{Chcia³bym, abyœmy byli bardziej akceptowani przez ludzi. Na swój sposób tak¿e jesteœmy ludŸmi.}
-{107}{}{Jak tam w szerokim œwiecie? Obecnie niedu¿o do mnie dociera informacji.}
-{108}{}{Ktoœ powiedzia³, ¿e FEV, który nas stworzy³, czyni nas chorymi i s³abymi.}
-{109}{}{Tak jakby wszystko ode mnie odchodzi³o. Kiedyœ by³em silny i szybki... teraz wygl¹da na to, ¿e jestem tylko trochê lepszy od cz³owieka.}
-{110}{}{Có¿ znaczy ¿ycie, kiedy i tak siê to wszystko koñczy?}
-{132}{}{Kto wypuœci³ te psy? Zmia¿d¿ê ich!}
-{133}{}{Franc i Manson lepiej niech siê ukrywaj¹... je¿eli ich dorwê, to go³ymi rêkami zgniotê im czaszki.}
-{134}{}{Franc. Manson. Œmieci Ziemi.}
-{135}{}{Mali popaprañcy znowu mog¹ swobodnie zabijaæ, co?}
-{136}{}{Powinniœmy zorganizowaæ na tych dwóch ob³awê.}
-{137}{}{Nie bêdê móg³ spokojnie spaæ, dopóki te dwa szajbusy nie bêd¹ martwe.}
-{138}{}{Ca³e poczucie bezpieczeñstwa w³aœnie siê zawali³o.}
-{139}{}{Có¿... hmmmm... kim jesteœ?}
-{140}{}{Franc i Manson bêd¹ siê zachowywaæ? Obiecanki-cacanki, a g³upiemu kula w ³eb.}
-{141}{}{Wiesz, nie bêdziemy ci dziêkowaæ, je¿eli te dwa gnojki znowu zaczn¹ nam sprawiaæ k³opoty.}
-{142}{}{Dobra... Jestem sk³onny daæ tym ³obuzom szansê...}
-{143}{}{Jak dostaæ siê do domu?}
-{144}{}{Czy ja w³aœnie z tob¹ nie rozmawia³em?}
-{145}{}{Nie bêdê móg³ spokojnie spaæ, dopóki te dwa szajbusy nie bêd¹ martwe.}
-{146}{}{Ca³e poczucie bezpieczeñstwa w³aœnie siê zawali³o.}
-{147}{}{Có¿... hmmmm... kim jesteœ?}
-{148}{}{Wiedzia³em! Wiedzia³em, ¿e te kawa³ki gówna ca³y czas na nas nastawa³y!}
-{149}{}{Nigdy nie ufa³em temu draniowi Jacobowi.}
-{150}{}{A wiêc... ludzie próbuj¹ nas zabiæ. Mo¿e zamiast tego my ich zabijemy.}
-{151}{}{Czy nie wszyscy ludzie tak postêpuj¹, co?}
+{101}{}{Widzisz starego mutanta, mieszkaÅ„ca Broken Hills.}
+{102}{}{Po dokÅ‚adniejszym przyjrzeniu siÄ™ widzisz starzejÄ…cego siÄ™ mutanta. SiÅ‚a w jego miÄ™Å›niach jest wciÄ…Å¼ widoczna, tak jak defensywna duma, z ktÃ³rÄ… siÄ™ nosi.}
+{103}{}{SÄ…dzÄ™... Å¼e... gaz radonowy odmÅ‚adza gÃ³rnikÃ³w.}
+{104}{}{TracÄ™ moje wspomnienia... to wszystko do mnie wraca... chwileczkÄ™...}
+{105}{}{PowiadajÄ…, Å¼e ludzie spiskujÄ…, aby nas zabiÄ‡.}
+{106}{}{ChciaÅ‚bym, abyÅ›my byli bardziej akceptowani przez ludzi. Na swÃ³j sposÃ³b takÅ¼e jesteÅ›my ludÅºmi.}
+{107}{}{Jak tam w szerokim Å›wiecie? Obecnie nieduÅ¼o do mnie dociera informacji.}
+{108}{}{KtoÅ› powiedziaÅ‚, Å¼e FEV, ktÃ³ry nas stworzyÅ‚, czyni nas chorymi i sÅ‚abymi.}
+{109}{}{Tak jakby wszystko ode mnie odchodziÅ‚o. KiedyÅ› byÅ‚em silny i szybki... teraz wyglÄ…da na to, Å¼e jestem tylko trochÄ™ lepszy od czÅ‚owieka.}
+{110}{}{CÃ³Å¼ znaczy Å¼ycie, kiedy i tak siÄ™ to wszystko koÅ„czy?}
+{132}{}{Kto wypuÅ›ciÅ‚ te psy? ZmiaÅ¼dÅ¼Ä™ ich!}
+{133}{}{Franc i Manson lepiej niech siÄ™ ukrywajÄ…... jeÅ¼eli ich dorwÄ™, to goÅ‚ymi rÄ™kami zgniotÄ™ im czaszki.}
+{134}{}{Franc. Manson. Åšmieci Ziemi.}
+{135}{}{Mali popapraÅ„cy znowu mogÄ… swobodnie zabijaÄ‡, co?}
+{136}{}{PowinniÅ›my zorganizowaÄ‡ na tych dwÃ³ch obÅ‚awÄ™.}
+{137}{}{Nie bÄ™dÄ™ mÃ³gÅ‚ spokojnie spaÄ‡, dopÃ³ki te dwa szajbusy nie bÄ™dÄ… martwe.}
+{138}{}{CaÅ‚e poczucie bezpieczeÅ„stwa wÅ‚aÅ›nie siÄ™ zawaliÅ‚o.}
+{139}{}{CÃ³Å¼... hmmmm... kim jesteÅ›?}
+{140}{}{Franc i Manson bÄ™dÄ… siÄ™ zachowywaÄ‡? Obiecanki-cacanki, a gÅ‚upiemu kula w Å‚eb.}
+{141}{}{Wiesz, nie bÄ™dziemy ci dziÄ™kowaÄ‡, jeÅ¼eli te dwa gnojki znowu zacznÄ… nam sprawiaÄ‡ kÅ‚opoty.}
+{142}{}{Dobra... Jestem skÅ‚onny daÄ‡ tym Å‚obuzom szansÄ™...}
+{143}{}{Jak dostaÄ‡ siÄ™ do domu?}
+{144}{}{Czy ja wÅ‚aÅ›nie z tobÄ… nie rozmawiaÅ‚em?}
+{145}{}{Nie bÄ™dÄ™ mÃ³gÅ‚ spokojnie spaÄ‡, dopÃ³ki te dwa szajbusy nie bÄ™dÄ… martwe.}
+{146}{}{CaÅ‚e poczucie bezpieczeÅ„stwa wÅ‚aÅ›nie siÄ™ zawaliÅ‚o.}
+{147}{}{CÃ³Å¼... hmmmm... kim jesteÅ›?}
+{148}{}{WiedziaÅ‚em! WiedziaÅ‚em, Å¼e te kawaÅ‚ki gÃ³wna caÅ‚y czas na nas nastawaÅ‚y!}
+{149}{}{Nigdy nie ufaÅ‚em temu draniowi Jacobowi.}
+{150}{}{A wiÄ™c... ludzie prÃ³bujÄ… nas zabiÄ‡. MoÅ¼e zamiast tego my ich zabijemy.}
+{151}{}{Czy nie wszyscy ludzie tak postÄ™pujÄ…, co?}
 {152}{}{Co my tu mamy... kolejne zdradzieckie, ludzkie sztuczki?}
-{153}{}{Ka¿de dnia tracê coraz wiêcej... moje wspomnienia i moja wiara w ludzkoœæ umar³y dziœ.}
-{154}{}{To by³o dobre, o tak.}
-{162}{}{Francis jest pod wra¿eniem. Ja te¿.}
-{163}{}{Jak cz³owiek mo¿e pokonaæ mutanta w si³owaniu siê na bary? Bez oszukiwania?}
-{164}{}{A wiêc jak wykorzystasz swoj¹ nagrodê?}
-{165}{}{Si³a. Du¿a si³a.}
-{166}{}{Gdy ju¿ poznasz mutanta, ju¿ siê nie cofasz.}
-{167}{}{S³ysza³em o twojej uprzejmoœci i- ta... dla Francisa.}
-{168}{}{Dziwiê siê, ¿e wci¹¿ mo¿esz chodziæ.}
-{169}{}{Heh... Francis mo¿e i jest stary, a wci¹¿ ma to coœ!}
+{153}{}{KaÅ¼de dnia tracÄ™ coraz wiÄ™cej... moje wspomnienia i moja wiara w ludzkoÅ›Ä‡ umarÅ‚y dziÅ›.}
+{154}{}{To byÅ‚o dobre, o tak.}
+{162}{}{Francis jest pod wraÅ¼eniem. Ja teÅ¼.}
+{163}{}{Jak czÅ‚owiek moÅ¼e pokonaÄ‡ mutanta w siÅ‚owaniu siÄ™ na bary? Bez oszukiwania?}
+{164}{}{A wiÄ™c jak wykorzystasz swojÄ… nagrodÄ™?}
+{165}{}{SiÅ‚a. DuÅ¼a siÅ‚a.}
+{166}{}{Gdy juÅ¼ poznasz mutanta, juÅ¼ siÄ™ nie cofasz.}
+{167}{}{SÅ‚yszaÅ‚em o twojej uprzejmoÅ›ci i- ta... dla Francisa.}
+{168}{}{DziwiÄ™ siÄ™, Å¼e wciÄ…Å¼ moÅ¼esz chodziÄ‡.}
+{169}{}{Heh... Francis moÅ¼e i jest stary, a wciÄ…Å¼ ma to coÅ›!}
 {170}{}{Ci biedni ludzie.}
-{171}{}{Uwiêzieni pod ziemi¹...}
-{172}{}{Mówi³em wtedy, powtarza³em - "Jacob i Aileen bêd¹ sprawiaæ k³opoty. Tak samo Franc i Manson". Ale czy ktokolwiek s³ucha³? Ooo nieee.}
-{173}{}{Tunele, co? Zawsze wiedzia³em, ¿e ci dranie to szczury i robaki.}
-{174}{}{A wiêc ten smród to od tych cia³, co?}
+{171}{}{UwiÄ™zieni pod ziemiÄ…...}
+{172}{}{MÃ³wiÅ‚em wtedy, powtarzaÅ‚em - "Jacob i Aileen bÄ™dÄ… sprawiaÄ‡ kÅ‚opoty. Tak samo Franc i Manson". Ale czy ktokolwiek sÅ‚uchaÅ‚? Ooo nieee.}
+{173}{}{Tunele, co? Zawsze wiedziaÅ‚em, Å¼e ci dranie to szczury i robaki.}
+{174}{}{A wiÄ™c ten smrÃ³d to od tych ciaÅ‚, co?}
 {175}{}{Dlaczego nas krzywdzisz?}
-{176}{}{Ludzie nigdy mi nie ufaj¹.}
+{176}{}{Ludzie nigdy mi nie ufajÄ….}
 {177}{}{Zostaw mnie w spokoju.}
 {178}{}{Dlaczego jeszcze nie umierasz?}
-{179}{}{Dlaczego tak jest, ¿e ludzie zawsze niszcz¹ to, czego siê obawiaj¹?}
-{180}{}{Jesteœ œmieciem.}
-{181}{}{Twoje ¿ycie jest bezwartoœciowe.}
-{182}{}{Ty... Pamiêtam kogoœ takiego jak ty... }
-{183}{}{Jestem za stary nawet, aby ciê nienawidziæ.}
+{179}{}{Dlaczego tak jest, Å¼e ludzie zawsze niszczÄ… to, czego siÄ™ obawiajÄ…?}
+{180}{}{JesteÅ› Å›mieciem.}
+{181}{}{Twoje Å¼ycie jest bezwartoÅ›ciowe.}
+{182}{}{Ty... PamiÄ™tam kogoÅ› takiego jak ty... }
+{183}{}{Jestem za stary nawet, aby ciÄ™ nienawidziÄ‡.}

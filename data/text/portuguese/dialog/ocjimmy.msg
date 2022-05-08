@@ -5,7 +5,7 @@
 {104}{}{Me look around.}
 {105}{}{Eu}
 {106}{}{Uh... Me wander about. Me go now.}
-{107}{}{Apenas olhando por aí.}
+{107}{}{Apenas olhando por aÃ­.}
 {108}{}{Hi, Jim. I'm}
 {109}{}{None of your business, four eyes. Back off.}
 {110}{}{I'm just wandering about. I'll be leaving now.}
@@ -16,19 +16,19 @@
 {115}{}{Hey, sorry. I didn't mean to step on your toes. I'll leave you to your business.}
 {116}{}{Boa.}
 {117}{}{It's a pleasure to meet you,}
-{118}{}{O que você gostaria de saber?}
-{119}{}{O que você faz aqui?}
+{118}{}{O que vocÃª gostaria de saber?}
+{119}{}{O que vocÃª faz aqui?}
 {120}{}{What all this machine?}
 {121}{}{Vault have overseer. This overseer room?}
 {122}{}{You here in vault cause you want be?}
 {123}{}{What you think about D'claws?}
 {124}{}{Computer need part. You know where get?}
 {125}{}{Me know enough. Me go now.}
-{126}{}{O que você faz aqui?}
+{126}{}{O que vocÃª faz aqui?}
 {127}{}{What's all this machinery for?}
 {128}{}{Isn't this the vault overseer room?}
 {129}{}{Are you here in the vault because you want to be?}
-{130}{}{O que você acha dos deathclaws?}
+{130}{}{O que vocÃª acha dos deathclaws?}
 {131}{}{The computer needs a part. Do you know where I might be able to get it?}
 {132}{}{I think I'll be going now.}
 {133}{}{Well... we're having some computer problems and I'm looking into it. Unfortunately my forte is software, not hardware.}
@@ -47,10 +47,10 @@
 {146}{}{Okay, but me ask more questions first.}
 {147}{}{All right, but I need to ask you a couple of things first.}
 {148}{}{This is a mainframe computer system and related support devices. From here all functions of the vault are remotely controlled.}
-{149}{}{Uh... o que você disse.}
+{149}{}{Uh... o que vocÃª disse.}
 {150}{}{Ah, eu vejo.}
 {151}{}{Normally the vault overseer would be stationed here but Vault 13 has been fully automated.}
-{152}{}{Por quê?}
+{152}{}{Por quÃª?}
 {153}{}{Okay, me ask more.}
 {154}{}{Why? I mean, isn't that unusual?}
 {155}{}{I see. Let's change the subject.}

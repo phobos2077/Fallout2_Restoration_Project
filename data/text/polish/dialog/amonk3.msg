@@ -1,14 +1,14 @@
 {100}{}{Widzisz mnicha.}
-{101}{}{Widzisz zakonnicê.}
-{102}{}{Ten mnich wygl¹da jakby wiedzia³ co nieco o komputerach.}
-{103}{}{Ta zakonnica wygl¹da jakby wiedzia³a co nieco o komputerach.}
+{101}{}{Widzisz zakonnicÄ™.}
+{102}{}{Ten mnich wyglÄ…da jakby wiedziaÅ‚ co nieco o komputerach.}
+{103}{}{Ta zakonnica wyglÄ…da jakby wiedziaÅ‚a co nieco o komputerach.}
 {200}{}{Tylko niczego nie zepsuj.}
 {201}{}{Przepraszam, nie mam teraz czasu.}
 {202}{}{Witam.}
-{203}{}{Proszê, czuj siê jak u siebie.}
-{204}{}{Kopiujemy wiedzê dla przysz³ych pokoleñ.}
-{205}{}{Stare ksi¹¿ki s¹ bardzo delikatne.}
-{206}{}{Kopiowanie ksi¹¿ek to bardzo ciê¿ka praca.}
-{207}{}{Czeœæ.}
-{208}{}{Jest jeszcze du¿o do skopiowania z tych ksi¹¿ek.}
-{500}{}{Przestañ!}
+{203}{}{ProszÄ™, czuj siÄ™ jak u siebie.}
+{204}{}{Kopiujemy wiedzÄ™ dla przyszÅ‚ych pokoleÅ„.}
+{205}{}{Stare ksiÄ…Å¼ki sÄ… bardzo delikatne.}
+{206}{}{Kopiowanie ksiÄ…Å¼ek to bardzo ciÄ™Å¼ka praca.}
+{207}{}{CzeÅ›Ä‡.}
+{208}{}{Jest jeszcze duÅ¼o do skopiowania z tych ksiÄ…Å¼ek.}
+{500}{}{PrzestaÅ„!}

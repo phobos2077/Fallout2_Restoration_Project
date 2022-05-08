@@ -1,1 +1,1 @@
-{100}{}{Tu as trouvé une cavité secrète dans la mine.}
+{100}{}{Tu as trouvÃ© une cavitÃ© secrÃ¨te dans la mine.}

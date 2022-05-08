@@ -1,24 +1,24 @@
 {100}{}{Du siehst einen PoseidoNet- Computer.}
 {101}{}{Du siehst einen PoseidoNet- Computer.}
 {102}{}{Du siehst einen PoseidoNet- Computer.}
-{103}{}{::Piep:: Terminal-Störung. NavComp-Installation erforderlich. ::Piep::}
+{103}{}{::Piep:: Terminal-StÃ¶rung. NavComp-Installation erforderlich. ::Piep::}
 {104}{}{[Fertig]}
-{105}{}{Willkommen bei PoseidoNet. Dieses Terminal überträgt nur Daten zwischen dem Tanker PHS Valdez und dem Dockturm. Befehl?}
+{105}{}{Willkommen bei PoseidoNet. Dieses Terminal Ã¼bertrÃ¤gt nur Daten zwischen dem Tanker PHS Valdez und dem Dockturm. Befehl?}
 {106}{}{Start.}
-{107}{}{Status prüfen.}
+{107}{}{Status prÃ¼fen.}
 {108}{}{Abmelden.}
 {109}{}{-Treibstofftanks: Leer- -Laderaum: Leer- -Navigationscomputer: Nicht in Bereitschaft- -Leinen: Fest-}
-{110}{}{[ZURÜCK]}
+{110}{}{[ZURÃœCK]}
 {111}{}{Abmelden.}
 {112}{}{-Treibstofftanks: Voll- -Laderaum: Leer- -Navigationscomputer: Nicht in Bereitschaft- -Leinen: Fest-}
-{113}{}{[ZURÜCK]}
+{113}{}{[ZURÃœCK]}
 {114}{}{Abmelden.}
 {115}{}{FEHLER: Treibstofftanks leer.}
 {116}{}{FEHLER: Navigationscomputer nicht betriebsbereit.}
 {117}{}{-Treibstofftanks: Leer- -Laderaum: Leer- -Navigationscomputer: In Bereitschaft- - Leinen: Fest-}
 {118}{}{-Treibstofftanks: Voll- -Laderaum: Leer- -Navigationscomputer: In Bereitschaft- - Leinen: Fest-}
 {119}{}{Du siehst einen PoseidoNet-Navigationscomputer.}
-{129}{}{[Du gibst schnell die Sequenz zum Lösen der Leinen ein und das Schiff bewegt sich vom Landesteg weg.]}
+{129}{}{[Du gibst schnell die Sequenz zum LÃ¶sen der Leinen ein und das Schiff bewegt sich vom Landesteg weg.]}
 {130}{}{[Fertig]}
 {131}{}{Navigationscomputer online.}
-{200}{}{ACHTUNG: U-Boot noch aktiv. Ausführung würde zur Zerstörung des Schiffes führen.}
+{200}{}{ACHTUNG: U-Boot noch aktiv. AusfÃ¼hrung wÃ¼rde zur ZerstÃ¶rung des Schiffes fÃ¼hren.}

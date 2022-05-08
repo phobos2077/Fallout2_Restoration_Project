@@ -1,18 +1,18 @@
 {100}{}{Ves a alguien con uniforme militar.}
 {101}{}{Ves a alguien con uniforme militar.}
-{102}{}{Ves a alguien que viste uniforme militar, pero parece ser más un técnico que un soldado.}
-{103}{}{Eh. ¿Qué tal te va?}
+{102}{}{Ves a alguien que viste uniforme militar, pero parece ser mÃ¡s un tÃ©cnico que un soldado.}
+{103}{}{Eh. Â¿QuÃ© tal te va?}
 {104}{}{"Recibido, te tengo en la mira": lo siento, pero me pillas liado con algo ahora mismo.}
 {105}{}{Ahora no puedo hablar.}
 {106}{}{Eres libre de echar un vistazo, pero no toques nada.}
-{107}{}{¿Estás tonto, andando por aquí sin uniforme? ¡Ve a vestirte!}
+{107}{}{Â¿EstÃ¡s tonto, andando por aquÃ­ sin uniforme? Â¡Ve a vestirte!}
 {108}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}
-{109}{}{¿Por qué no llevas puesto el uniforme?}
-{110}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}
-{111}{}{¡Intrusos! ¡Avisad a los guardias!}
-{112}{}{¡Guardias! ¡Intrusos en el control de tráfico aéreo!}
-{113}{}{¿Qué pasa? ¿Nos atacan?}
-{114}{}{¿A qué viene la alerta? ¿Qué está ocurriendo?}
-{115}{}{¿Qué carajo está pasando?}
-{200}{}{¿Qué estás haciendo? No tienes ninguna razón para tocar eso.}
-{201}{}{Vuelve a tocar eso y morirás.}
+{109}{}{Â¿Por quÃ© no llevas puesto el uniforme?}
+{110}{}{Â¡Ay, carajo! Â¡Nos invaden! Â¡Alerta!}
+{111}{}{Â¡Intrusos! Â¡Avisad a los guardias!}
+{112}{}{Â¡Guardias! Â¡Intrusos en el control de trÃ¡fico aÃ©reo!}
+{113}{}{Â¿QuÃ© pasa? Â¿Nos atacan?}
+{114}{}{Â¿A quÃ© viene la alerta? Â¿QuÃ© estÃ¡ ocurriendo?}
+{115}{}{Â¿QuÃ© carajo estÃ¡ pasando?}
+{200}{}{Â¿QuÃ© estÃ¡s haciendo? No tienes ninguna razÃ³n para tocar eso.}
+{201}{}{Vuelve a tocar eso y morirÃ¡s.}

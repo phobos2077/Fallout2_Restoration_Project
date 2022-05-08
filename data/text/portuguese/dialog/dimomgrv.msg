@@ -1,1 +1,1 @@
-{101}{}{O nome na lápide lê-se: "Dona Tamara Winslow."}
+{101}{}{O nome na lÃ¡pide lÃª-se: "Dona Tamara Winslow."}

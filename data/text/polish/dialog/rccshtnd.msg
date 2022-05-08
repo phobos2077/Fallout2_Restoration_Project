@@ -1,10 +1,10 @@
-{100}{}{Widzisz kasjera, który wygl¹da na bardzo niemoralnego.}
-{101}{}{Wygl¹da na kogoœ, kto kupi³by cokolwiek byleby tylko ludzie przyszli tu graæ.}
+{100}{}{Widzisz kasjera, ktÃ³ry wyglÄ…da na bardzo niemoralnego.}
+{101}{}{WyglÄ…da na kogoÅ›, kto kupiÅ‚by cokolwiek byleby tylko ludzie przyszli tu graÄ‡.}
 {102}{}{Czego chcesz?}
-{103}{}{Chcê zastawiæ parê rzeczy.}
+{103}{}{ChcÄ™ zastawiÄ‡ parÄ™ rzeczy.}
 {104}{}{Nic nic.}
-{105}{}{Chce b³yskotki.}
+{105}{}{Chce bÅ‚yskotki.}
 {106}{}{Ide pa-pa.}
-{107}{}{Coœ jeszcze?}
-{108}{}{Mam jeszcze parê rzeczy na handel.}
-{109}{}{Chce wiêcej b³yskotek.}
+{107}{}{CoÅ› jeszcze?}
+{108}{}{Mam jeszcze parÄ™ rzeczy na handel.}
+{109}{}{Chce wiÄ™cej bÅ‚yskotek.}

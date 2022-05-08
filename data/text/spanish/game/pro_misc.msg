@@ -1,19 +1,19 @@
 {100}{}{Cohete}
 {200}{}{Bola de plasma}
-{300}{}{Explosi髇}
+{300}{}{Explosi贸n}
 {400}{}{Sangre}
 {500}{}{No-Trans hex}
 {501}{}{}
 {600}{}{cuchillo}
 {700}{}{lanza}
-{800}{}{Explosi髇 IEM}
-{900}{}{Disparo L醩er}
+{800}{}{Explosi贸n IEM}
+{900}{}{Disparo L谩ser}
 {1000}{}{Disparo de Plasma}
-{1100}{}{Explosi髇}
+{1100}{}{Explosi贸n}
 {1200}{}{Scroll Blocker}
-{1300}{}{Rayo el閏trico}
-{1400}{}{Explosi髇}
-{1500}{}{Explosi髇}
+{1300}{}{Rayo el茅ctrico}
+{1400}{}{Explosi贸n}
+{1500}{}{Explosi贸n}
 {1600}{}{Salida}
 {1700}{}{Salida}
 {1800}{}{Salida}
@@ -25,10 +25,10 @@
 {2400}{}{Bengala}
 {2500}{}{Granada}
 {2600}{}{Roca}
-{2700}{}{Explosi髇}
-{2800}{}{Explosi髇}
-{2900}{}{Explosi髇}
-{3000}{}{C骳tel Molotov}
+{2700}{}{Explosi贸n}
+{2800}{}{Explosi贸n}
+{2900}{}{Explosi贸n}
+{3000}{}{C贸ctel Molotov}
 {3100}{}{Salida}
 {3200}{}{Salida}
 {3300}{}{Salida}

@@ -1,15 +1,15 @@
-{100}{}{Você vê um escravista.}
-{150}{}{Ele parece estar prestando muita atenção à porta ao lado dele.}
-{200}{}{Hey! Mãos fora.}
-{201}{}{É isso aí!}
+{100}{}{VocÃª vÃª um escravista.}
+{150}{}{Ele parece estar prestando muita atenÃ§Ã£o Ã  porta ao lado dele.}
+{200}{}{Hey! MÃ£os fora.}
+{201}{}{Ã‰ isso aÃ­!}
 {210}{}{Problemas?}
 {211}{}{Praticando?}
 {212}{}{Hmmm.}
-{220}{}{Ai está você.}
+{220}{}{Ai estÃ¡ vocÃª.}
 {230}{}{Hey, como vai?}
-{231}{}{Hey, você se juntou, hein? Legal. Espero ir em algumas corridas juntos.}
-{232}{}{Então, o que é que você quer falar?}
-{233}{}{Então, quem está lá?}
+{231}{}{Hey, vocÃª se juntou, hein? Legal. Espero ir em algumas corridas juntos.}
+{232}{}{EntÃ£o, o que Ã© que vocÃª quer falar?}
+{233}{}{EntÃ£o, quem estÃ¡ lÃ¡?}
 {234}{}{Sobre Vic...}
 {235}{}{Bom, obrigado.}
 {236}{}{Tenho que ir.}
@@ -17,101 +17,101 @@
 {238}{}{Meko veek?}
 {239}{}{Ugruk.}
 {240}{}{Ruru!}
-{250}{}{Seu nome é Vic - um comerciante que quebrou algo do meu chefe, ou algo assim. Não tenho muita certeza.}
-{251}{}{Seu nome é Vic - um comerciante que quebrou algo do chefe, ou algo assim. Não tenho muita certeza.}
-{252}{}{Ah, ele? Sim, algum comerciante. Eu acho que ele quebrou algo, mas não tenho certeza. Por quê? Você o conhece?}
-{253}{}{Ah, ele? Sim, algum comerciante. Eu acho que ele quebrou algo, mas não tenho certeza. Por quê? Você o conhece?}
+{250}{}{Seu nome Ã© Vic - um comerciante que quebrou algo do meu chefe, ou algo assim. NÃ£o tenho muita certeza.}
+{251}{}{Seu nome Ã© Vic - um comerciante que quebrou algo do chefe, ou algo assim. NÃ£o tenho muita certeza.}
+{252}{}{Ah, ele? Sim, algum comerciante. Eu acho que ele quebrou algo, mas nÃ£o tenho certeza. Por quÃª? VocÃª o conhece?}
+{253}{}{Ah, ele? Sim, algum comerciante. Eu acho que ele quebrou algo, mas nÃ£o tenho certeza. Por quÃª? VocÃª o conhece?}
 {254}{}{Sim?}
-{255}{}{Por que você está protegendo ele?}
-{256}{}{Quem é o seu chefe?}
-{257}{}{Posso vê-lo?}
-{258}{}{Bem, eu sou bastante hábil na reparação de coisas. Talvez eu possa ajudar?}
-{259}{}{Bem, eu sou bastante hábil na ciência, talvez eu possa ajudar?}
-{260}{}{A porta está trancada. Você poderia abri-la?}
+{255}{}{Por que vocÃª estÃ¡ protegendo ele?}
+{256}{}{Quem Ã© o seu chefe?}
+{257}{}{Posso vÃª-lo?}
+{258}{}{Bem, eu sou bastante hÃ¡bil na reparaÃ§Ã£o de coisas. Talvez eu possa ajudar?}
+{259}{}{Bem, eu sou bastante hÃ¡bil na ciÃªncia, talvez eu possa ajudar?}
+{260}{}{A porta estÃ¡ trancada. VocÃª poderia abri-la?}
 {261}{}{Obrigado.}
-{275}{}{Obrigado pelo dinheiro. Estou apenas deixando você falar com ele. Não há coisas engraçadas. Ele não pode sair daquele quarto sem a aprovação de Metzger.}
-{276}{}{Agora, estou deixando você falar com ele, ok? Não há coisas engraçadas. Ele não pode sair daquele quarto sem a aprovação de Metzger.}
+{275}{}{Obrigado pelo dinheiro. Estou apenas deixando vocÃª falar com ele. NÃ£o hÃ¡ coisas engraÃ§adas. Ele nÃ£o pode sair daquele quarto sem a aprovaÃ§Ã£o de Metzger.}
+{276}{}{Agora, estou deixando vocÃª falar com ele, ok? NÃ£o hÃ¡ coisas engraÃ§adas. Ele nÃ£o pode sair daquele quarto sem a aprovaÃ§Ã£o de Metzger.}
 {277}{}{Tudo bem.}
-{285}{}{Para ter certeza de que ninguém o incomode enquanto ele trabalha em algo para o chefe, mas principalmente para ter certeza de que ele não foge.}
-{286}{}{Apenas para ter certeza de que ele não foge, acho. Ele de alguma forma corrigiu esse rádio.}
-{287}{}{Quem é o seu chefe?}
-{288}{}{Posso vê-lo?}
-{289}{}{Posso vê-lo?}
+{285}{}{Para ter certeza de que ninguÃ©m o incomode enquanto ele trabalha em algo para o chefe, mas principalmente para ter certeza de que ele nÃ£o foge.}
+{286}{}{Apenas para ter certeza de que ele nÃ£o foge, acho. Ele de alguma forma corrigiu esse rÃ¡dio.}
+{287}{}{Quem Ã© o seu chefe?}
+{288}{}{Posso vÃª-lo?}
+{289}{}{Posso vÃª-lo?}
 {290}{}{Ok, obrigado.}
-{295}{}{Ah com certeza. Eu não quis dizer que você poderia vê-lo, agora que você é um escravista e tudo mais.}
-{296}{}{Ah, com certeza. - Acho que sim. Ele não está ocupado e ele não vai a lugar nenhum, de modo a não prejudicar, eu acho.}
-{297}{}{Bem, você poderia abrir a porta?}
+{295}{}{Ah com certeza. Eu nÃ£o quis dizer que vocÃª poderia vÃª-lo, agora que vocÃª Ã© um escravista e tudo mais.}
+{296}{}{Ah, com certeza. - Acho que sim. Ele nÃ£o estÃ¡ ocupado e ele nÃ£o vai a lugar nenhum, de modo a nÃ£o prejudicar, eu acho.}
+{297}{}{Bem, vocÃª poderia abrir a porta?}
 {298}{}{Ok, obrigado.}
-{305}{}{Claro. Eu não sabia que queria conversar com ele agora, desculpe. Eu simplesmente pensei que você estava curioso ou algo assim.}
+{305}{}{Claro. Eu nÃ£o sabia que queria conversar com ele agora, desculpe. Eu simplesmente pensei que vocÃª estava curioso ou algo assim.}
 {306}{}{Obrigado.}
-{310}{}{Hã? Você tem o hábito de caminhar em lugares que você não conhece? Esta é a Slaver's Guild.}
-{311}{}{Oh, então isso faria o nome do seu chefe …}
-{312}{}{Oh, é onde eu estou? Eu pensei que estava no Kansas.}
+{310}{}{HÃ£? VocÃª tem o hÃ¡bito de caminhar em lugares que vocÃª nÃ£o conhece? Esta Ã© a Slaver's Guild.}
+{311}{}{Oh, entÃ£o isso faria o nome do seu chefe â€¦}
+{312}{}{Oh, Ã© onde eu estou? Eu pensei que estava no Kansas.}
 {313}{}{Ok, obrigado.}
-{320}{}{Onde? Não, nunca ouvi falar disso. Este é o Den. Não tenho certeza sobre esse lugar, mas eu não sai muito. Desculpa.}
+{320}{}{Onde? NÃ£o, nunca ouvi falar disso. Este Ã© o Den. NÃ£o tenho certeza sobre esse lugar, mas eu nÃ£o sai muito. Desculpa.}
 {321}{}{Imbecil.}
 {322}{}{Uh, tudo bem. Obrigado.}
-{330}{}{Caramba cara. Metzger é o mestre escravista. Ele corre as coisas por aqui.}
-{331}{}{Porra, senhora. Este é o último lugar, onde uma senhora como você gostaria de estar. Metzger é o mestre escravista.}
-{332}{}{Oh, onde está o seu escritório?}
+{330}{}{Caramba cara. Metzger Ã© o mestre escravista. Ele corre as coisas por aqui.}
+{331}{}{Porra, senhora. Este Ã© o Ãºltimo lugar, onde uma senhora como vocÃª gostaria de estar. Metzger Ã© o mestre escravista.}
+{332}{}{Oh, onde estÃ¡ o seu escritÃ³rio?}
 {333}{}{Tudo bem, tchau.}
-{340}{}{A direita através da porta de trás lá.}
+{340}{}{A direita atravÃ©s da porta de trÃ¡s lÃ¡.}
 {341}{}{Obrigado.}
-{350}{}{Desculpe, eu não entendo.}
+{350}{}{Desculpe, eu nÃ£o entendo.}
 {351}{}{Hmph.}
-{360}{}{Desculpe, Vic não recebe visitantes.}
-{361}{}{Sim, é Vic.}
+{360}{}{Desculpe, Vic nÃ£o recebe visitantes.}
+{361}{}{Sim, Ã© Vic.}
 {362}{}{Seve?}
 {363}{}{Surek?}
 {364}{}{Gaw.}
-{370}{}{Claro, você pode vê-lo.}
-{371}{}{Claro, você pode vê-lo. Deixe-me abrirá para você.}
+{370}{}{Claro, vocÃª pode vÃª-lo.}
+{371}{}{Claro, vocÃª pode vÃª-lo. Deixe-me abrirÃ¡ para vocÃª.}
 {372}{}{Tanque.}
-{380}{}{Sério? Tenho certeza de que o chefe apreciaria isso. Apenas enquanto ele permaneça imovel. Não queremos que ele fuja novamente.}
+{380}{}{SÃ©rio? Tenho certeza de que o chefe apreciaria isso. Apenas enquanto ele permaneÃ§a imovel. NÃ£o queremos que ele fuja novamente.}
 {381}{}{Obrigado.}
-{390}{}{Não, desculpe. Ele está ocupado trabalhando em algo para o chefe.}
-{391}{}{Desculpe, não podemos fazer isso. Ordens diretas do chefe.}
-{392}{}{Bem, você conseguiu meu dinheiro?}
-{393}{}{Eu só preciso fazer algumas perguntas.}
-{394}{}{Oh vamos lá. Apenas deixe-me falar com ele muito rápido.}
+{390}{}{NÃ£o, desculpe. Ele estÃ¡ ocupado trabalhando em algo para o chefe.}
+{391}{}{Desculpe, nÃ£o podemos fazer isso. Ordens diretas do chefe.}
+{392}{}{Bem, vocÃª conseguiu meu dinheiro?}
+{393}{}{Eu sÃ³ preciso fazer algumas perguntas.}
+{394}{}{Oh vamos lÃ¡. Apenas deixe-me falar com ele muito rÃ¡pido.}
 {395}{}{Sim. Aqui.}
-{396}{}{Não. Eu vou voltar.}
-{397}{}{Quem é o seu chefe?}
-{398}{}{Deixa pra lá. Tchau.}
-{410}{}{Pare de me incomodar. Vá falar com Metzger. Ele é o patrão.}
-{411}{}{Deixe-me em paz! Qual é o seu problema?}
+{396}{}{NÃ£o. Eu vou voltar.}
+{397}{}{Quem Ã© o seu chefe?}
+{398}{}{Deixa pra lÃ¡. Tchau.}
+{410}{}{Pare de me incomodar. VÃ¡ falar com Metzger. Ele Ã© o patrÃ£o.}
+{411}{}{Deixe-me em paz! Qual Ã© o seu problema?}
 {412}{}{Eu disse conversar com Metzger!}
-{413}{}{Certo, tudo bem! Você pode conversar com ele, mas é isso! Ele não está pisando um pé fora daquele quarto. Entendeu? Agora saia!}
+{413}{}{Certo, tudo bem! VocÃª pode conversar com ele, mas Ã© isso! Ele nÃ£o estÃ¡ pisando um pÃ© fora daquele quarto. Entendeu? Agora saia!}
 {414}{}{Tudo bem.}
 {415}{}{Obrigado!}
-{430}{}{Sim, fale com Metzger. Tenho certeza de que ele tem algum trabalho disponível. Eu acho que ele disse que precisava de outro homem.}
-{431}{}{Sim, fale com Metzger. Tenho certeza de que ele tem algum trabalho disponível. Ele disse que precisava de outro homem ... mas tenho certeza que você fará.}
+{430}{}{Sim, fale com Metzger. Tenho certeza de que ele tem algum trabalho disponÃ­vel. Eu acho que ele disse que precisava de outro homem.}
+{431}{}{Sim, fale com Metzger. Tenho certeza de que ele tem algum trabalho disponÃ­vel. Ele disse que precisava de outro homem ... mas tenho certeza que vocÃª farÃ¡.}
 {432}{}{Fale com Metzger.}
 {433}{}{Ruru?}
 {434}{}{Uh?}
 {435}{}{Oh.}
 {450}{}{Peguem-no, pessoal.}
 {451}{}{Peguem-na, caras.}
-{460}{}{Ele está ocupado.}
-{461}{}{Por favor, ele não vai sair do quarto. Eu prometo.}
-{462}{}{Não podemos resolver algo - financeiramente, talvez?}
+{460}{}{Ele estÃ¡ ocupado.}
+{461}{}{Por favor, ele nÃ£o vai sair do quarto. Eu prometo.}
+{462}{}{NÃ£o podemos resolver algo - financeiramente, talvez?}
 {463}{}{Tudo bem, tchau.}
-{470}{}{Bem, eu ... eu não sei. Eu acho que não faria mal apenas para você falar com ele. $ 300 e eu vou deixar você entrar.}
-{471}{}{Você está louco. Isso é demais!}
-{472}{}{Foda-se você, amigo!}
+{470}{}{Bem, eu ... eu nÃ£o sei. Eu acho que nÃ£o faria mal apenas para vocÃª falar com ele. $ 300 e eu vou deixar vocÃª entrar.}
+{471}{}{VocÃª estÃ¡ louco. Isso Ã© demais!}
+{472}{}{Foda-se vocÃª, amigo!}
 {473}{}{Com certeza.}
-{474}{}{Desculpe, não posso pagar isso.}
+{474}{}{Desculpe, nÃ£o posso pagar isso.}
 {480}{}{Tudo bem, veja se eu me importo.}
 {481}{}{Tudo bem.}
 {482}{}{Bem.}
-{490}{}{Não, desculpe.}
-{491}{}{Eu disse não. Agora suma. Você deve falar com o Metzger}
+{490}{}{NÃ£o, desculpe.}
+{491}{}{Eu disse nÃ£o. Agora suma. VocÃª deve falar com o Metzger}
 {492}{}{Tudo bem.}
-{500}{}{É muito ruim que você não se uniu a nós.}
-{501}{}{Você deve juntar-se a guilda.}
+{500}{}{Ã‰ muito ruim que vocÃª nÃ£o se uniu a nÃ³s.}
+{501}{}{VocÃª deve juntar-se a guilda.}
 {502}{}{Apenas fazendo essa coisa de guarda.}
-{503}{}{Espero Vic trabalhe para você.}
-{504}{}{Vic melhor estar trabalhando duro para você.}
+{503}{}{Espero Vic trabalhe para vocÃª.}
+{504}{}{Vic melhor estar trabalhando duro para vocÃª.}
 {505}{}{Talvez eu possa te pegar em uma corrida.}
 {506}{}{Como vai?}
-{507}{}{Olá, novamente.}
+{507}{}{OlÃ¡, novamente.}

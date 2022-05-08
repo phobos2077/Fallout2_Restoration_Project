@@ -2,15 +2,15 @@
 {101}{}{It's Dr. Henry.}
 {102}{}{This guy is so out of place it's painful. He's got that egghead, not living in the real world air about him, that's for sure.}
 {103}{}{Excuse me, I'm Dr. Henry and I'm very busy. What do you want?}
-{104}{}{Você de novo? O que você quer?}
+{104}{}{VocÃª de novo? O que vocÃª quer?}
 {105}{}{Hurgh.}
 {106}{}{Eu sou}
 {107}{}{Enough chit-chat. You've got some papers Mr. Merk wants. Hand 'em over and nobody gets hurt.}
 {108}{}{Ever heard of a place called the Enclave?}
-{109}{}{Não é da sua conta.}
+{109}{}{NÃ£o Ã© da sua conta.}
 {110}{}{Hmm, sub-par cranial development... Stunted intellectual development. No gross physical mutation, though. No, you just simply won't do, I'm afraid. Good day.}
 {111}{}{The Chosen One? Of course, that makes sense. Interesting... I'm afraid I can't help you. I was assigned to cyber-genetics research, not the Vault Behavioral Project.}
-{112}{}{Do que você está falando?}
+{112}{}{Do que vocÃª estÃ¡ falando?}
 {113}{}{Vault Behavioral project?}
 {114}{}{Cyber-genetics? I don't remember ever studying that one.}
 {115}{}{Right. You're mad as a hatter. Goodbye.}
@@ -31,9 +31,9 @@
 {130}{}{That's it, I'm out of here.}
 {131}{}{You? Oh, no - the serum's not refined enough to handle such a low mutagenic quotient. It must be used on a super-mutant. Inject the serum into a super-mutant and then come back and report the results. I understand Broken Hills is full of them.}
 {132}{}{What's it do?}
-{133}{}{O quê tem pra mim?}
+{133}{}{O quÃª tem pra mim?}
 {134}{}{Well, it should cause a regression in the genetic matrix that results in the destabilization and assimilation of aberrant DNA, leaving the host free of mutagenic potential. If I knew for sure, I wouldn't need you to test it.}
-{135}{}{O quê tem pra mim?}
+{135}{}{O quÃª tem pra mim?}
 {136}{}{You'll be participating in an important experiment, in fact, the most important, scientific-oh, you mean money. Well, I do have a Cyber-Hound Mk. II, Personal Security Model that I brought with me. I suppose I could have it activated and on-line by the time you got back. Would that do?}
 {137}{}{Cyber-hound? Sure, why not.}
 {138}{}{You are out of your mind. Just completely loony.}
@@ -43,7 +43,7 @@
 {142}{}{Well then, we've nothing to talk about. Good day.}
 {143}{}{So, how did it go? Is the test done?}
 {144}{}{Sim.}
-{145}{}{Não.}
+{145}{}{NÃ£o.}
 {146}{}{Well, if you don't mind, would you please get on with it? I'm not a young man anymore.}
 {147}{}{And... How did it work?}
 {148}{}{It killed him! You said it would cure mutants!}

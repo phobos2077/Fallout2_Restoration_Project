@@ -21,7 +21,7 @@
 {225}{}{George sayz we gonna haf a few achers of owr own an' I shud keep away from yuu or he won't lemme
  play wit the rabbitz so me go now}
 {226}{}{Jules told me to come here if I was looking for some... action.}
-{227}{}{Estou buscando por alguma... ação.}
+{227}{}{Estou buscando por alguma... aÃ§Ã£o.}
 {228}{}{Actually, I'd like to ask you some questions.}
 {229}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no
  idea what they are. I have one right here.}
@@ -34,9 +34,9 @@
  fantasy, we can provide it... and don't be shy, we've heard it all. So, what would you like?}
 {246}{}{Well, pardon me for coming on strong, but I'd like to get to know YOU better. What time do you get off?
  Uh, work, I mean.}
-{247}{}{Depende... qual é o menu?}
+{247}{}{Depende... qual Ã© o menu?}
 {248}{}{I'd like to hook up my friend here with a little something special.}
-{249}{}{Eu quero fazer uma surpresa para um dos meus amigos. É o... uh, aniversário dele.}
+{249}{}{Eu quero fazer uma surpresa para um dos meus amigos. Ã‰ o... uh, aniversÃ¡rio dele.}
 {250}{}{Eu queria fazer algumas perguntas...}
 {251}{}{Actually, I've changed my mind. Performance anxiety and all. Goodbye.}
 {255}{}{I'm flattered, but... no. I can't.}
@@ -44,7 +44,7 @@
 {257}{}{Look, if you don't like women, that's fine. Hell, I don't like most women I meet. We have something in
  common already.}
 {258}{}{Hey, don't worry... I won't wear the power armor, okay?}
-{259}{}{Certo então, mas eu gostaria de fazer mais alguma perguntas.}
+{259}{}{Certo entÃ£o, mas eu gostaria de fazer mais alguma perguntas.}
 {260}{}{Sorry, didn't mean to pressure you. Goodbye.}
 {265}{}{(Looks around, then leans in and whispers.) Look... come back after
  you've done what you've had to do to save your people, and then we'll talk, okay?}
@@ -52,18 +52,18 @@
 {267}{}{It's a date. See you then.}
 {275}{}{Well...(Ticks off the menu on her fingers.)...we have honey loving, the dipstick swirl, humjobs, and various
  other exotica. (Smiles.) Question is, what are YOU in the mood for?}
-{276}{}{Eu gostaria de alguma... atenção oral.}
+{276}{}{Eu gostaria de alguma... atenÃ§Ã£o oral.}
 {277}{}{Just some basic, raunchy, low-down, dirty sex oughta do me just fine.}
 {278}{}{I'd like a full upper and lower body workout.}
 {279}{}{Is it okay if I just, you know, talk with them?}
 {280}{}{I have a special... dramatic... request.}
-{290}{}{Tudo bem, então. }
+{290}{}{Tudo bem, entÃ£o. }
 {291}{}{(Winks.) That'll be no charge.}
 {292}{}{That'll be }
 {293}{}{Done. Here's the money.}
 {294}{}{Can't argue about that price. Let's do it.}
-{295}{}{Não importa. Eu queria fazer mais perguntas...}
-{296}{}{Eu não tenho todo dinheiro... talvez outra hora.}
+{295}{}{NÃ£o importa. Eu queria fazer mais perguntas...}
+{296}{}{Eu nÃ£o tenho todo dinheiro... talvez outra hora.}
 {320}{}{Why, of course you can. We call it the "Kesting special." }
 {322}{}{Only costs }
 {323}{}{Why do you call it that?}
@@ -105,7 +105,7 @@
 {401}{}{Vic. "Trader" Vic.}
 {402}{}{Can one of your girls read the dictionary to Robobrain? It stimulates his brain center.}
 {403}{}{Doc's looking to take a "temperature" or two.}
-{404}{}{Davin poderia ganhar muito mais... experiência.}
+{404}{}{Davin poderia ganhar muito mais... experiÃªncia.}
 {405}{}{Miria wants to take a walk on the wild side.}
 {406}{}{Actually, no one, thanks.}
 {407}{}{Dex here. Better keep an eye on him though, he can get a little out of control.}
@@ -137,11 +137,11 @@
 {470}{}{Wonderful! I'll give you $500 for the set.}
 {471}{}{$500? After collecting ALL of these? No way. Make it a thousand.}
 {472}{}{Sounds good. Here you go. But hey, careful with number five... the pages look like they are glued together.}
-{473}{}{Não, eu prefiro ficar com eles ... olha, eu tenho outras perguntas...}
+{473}{}{NÃ£o, eu prefiro ficar com eles ... olha, eu tenho outras perguntas...}
 {474}{}{No thanks, I've become attached to them. Maybe some other time.}
 {480}{}{Hmmmmm. Seven fifty, and you got a deal.}
 {481}{}{$750? All right, then. They're yours.}
-{482}{}{Então eu fico com eles. Olha, eu tenho algumas perguntas...}
+{482}{}{EntÃ£o eu fico com eles. Olha, eu tenho algumas perguntas...}
 {483}{}{Forget it. Maybe some other time.}
 {490}{}{Here you go. (Counts out the money, hands it to you.) Thanks again.}
 {491}{}{Entao, eu tinha outras perguntas...}
@@ -175,7 +175,7 @@
 {548}{}{So... how about that date we talked about way back when?}
 {549}{}{So... how about... you know, you and me... like... you know.}
 {550}{}{Baby, I got to feeling like a machine, and that's no way to feel. C'mere.}
-{551}{}{Ótimo! Olha, eu tinha algumas perguntas antes se me permitir...}
+{551}{}{Ã“timo! Olha, eu tinha algumas perguntas antes se me permitir...}
 {552}{}{Thanks. I appreciate it, Miss Kitty.}
 {553}{}{I expect nothing less. I'll collect later.}
 {565}{}{All right then, }
@@ -199,12 +199,12 @@
  are... sick of it.}
 {598}{}{Com certeza.}
 {599}{}{Hmmmph. Eu tenho outras perguntas...}
-{600}{}{Não, eu posso perguntar novamente mais tarde. Eu tenho ouras perguntas...}
+{600}{}{NÃ£o, eu posso perguntar novamente mais tarde. Eu tenho ouras perguntas...}
 {610}{}{(Nods.) Excellent. One of the Mordino lieutenants should be showing up soon. If you want to take a
  seat, I'll present you as one of the... applicants.}
-{611}{}{Certo então... Vou esperar por ele.}
-{612}{}{Na verdade, esqueça. Eu tenho outras perguntas...}
-{613}{}{Não importa... Eu mudei de ideia. Talvez outra hora.}
+{611}{}{Certo entÃ£o... Vou esperar por ele.}
+{612}{}{Na verdade, esqueÃ§a. Eu tenho outras perguntas...}
+{613}{}{NÃ£o importa... Eu mudei de ideia. Talvez outra hora.}
 {620}{}{(Looks you up and down, then nods.) I think we can accommodate you... }
 {621}{}{(Looks your companion up and down, then nods.) I think we can accommodate your friend... }
 {623}{}{(Winks.) There's no charge, so don't sweat the money.}
@@ -214,10 +214,10 @@
 {703}{}{Wow.}
 {704}{}{*Whew*}
 {705}{}{Heh... I sure hope I didn't get her pregnant.}
-{706}{}{Não é o mesmo quando seu sangue ainda está quente, você sabe?}
-{707}{}{Espero que você tenha tomado notas.}
+{706}{}{NÃ£o Ã© o mesmo quando seu sangue ainda estÃ¡ quente, vocÃª sabe?}
+{707}{}{Espero que vocÃª tenha tomado notas.}
 {708}{}{As meninas ficaram muito loucas desde o fim do mundo ... Eu escavo isso.}
-{709}{}{... e é por isso que as bebês costumavam me chamar de "Dex, o duque do sexo".}
+{709}{}{... e Ã© por isso que as bebÃªs costumavam me chamar de "Dex, o duque do sexo".}
 {710}{}{You talk for hours. The girls at the Cat's Paw have amazing insight into human nature.}
 {711}{}{The Mordino lieutenant arrives, and seems impressed with you. He leads you north out of
  town to someplace called the "Stables."}

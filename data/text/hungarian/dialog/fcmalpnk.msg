@@ -1,95 +1,95 @@
-{100}{}{A tanker egyik férfi csavargója.}
-{101}{}{Egy férfi punk.}
-{102}{}{Egy kis jóindulattal akár jókép?nek is nevezhet? férfit látsz. Cinikusan néz, a ruhája pedig meglehet?sen szakadt.}
-{103}{}{Uncsi az egész.}
-{104}{}{Herótom van a haltól.}
-{105}{}{Minél el?bb továbbköltözünk, annál jobb.}
-{106}{}{A legjobb dolog a vándorlásban, hogy a magad ura vagy.}
-{107}{}{Az a helyzet, hogy el?bb meghalnék, minthogy bárkinek alávessem magam.}
-{108}{}{Senki nem szól bele az életembe! A magam ura vagyok!}
-{109}{}{Senki nem mondja meg, mit csináljak.}
-{110}{}{Nem vagyok hétköznapi! Akárcsak a többiek!}
-{111}{}{A mindent tagadó cinizmus néha nagyon untat.}
-{112}{}{Legközelebb egy grufti törzset akarok találni magamnak.}
-{113}{}{Láttam odalent Selmy-t és Barrót széttépve.}
-{114}{}{Úgy hallottam, a Shi Uralkodó minden emberi képzeletet felülmúló intelligenciával rendelkezik.}
-{115}{}{Ezek a Shi emberek elég mulatságos népség.}
-{116}{}{Nyitott a gondolkodásom, mi?}
-{117}{}{Szívesen átadom a barátn?met, ha te is átadod a tiedet.}
-{118}{}{Nézd ezeket az új punkokat. Pózerek egyt?l-egyig.}
-{119}{}{BHK-9 átvert minket, és téged is át fog, ha hagyod magad.}
-{120}{}{Birka vagy. Semmi egyéb, csak egy gyilkoló birka.}
-{121}{}{Mondd meg a gyökér Hubologistáknak, hogy sosem adjuk be a derekunkat!}
-{122}{}{Még sosem voltam a Hub-ban.}
-{123}{}{Remélem, büszke vagy magadra!}
-{124}{}{Hát már soha nem jönnek rá, hogy a mi "vezet?nk" meggyilkolásával még nem fogjuk követni az övéket?}
+{100}{}{A tanker egyik fÃ©rfi csavargÃ³ja.}
+{101}{}{Egy fÃ©rfi punk.}
+{102}{}{Egy kis jÃ³indulattal akÃ¡r jÃ³kÃ©p?nek is nevezhet? fÃ©rfit lÃ¡tsz. Cinikusan nÃ©z, a ruhÃ¡ja pedig meglehet?sen szakadt.}
+{103}{}{Uncsi az egÃ©sz.}
+{104}{}{HerÃ³tom van a haltÃ³l.}
+{105}{}{MinÃ©l el?bb tovÃ¡bbkÃ¶ltÃ¶zÃ¼nk, annÃ¡l jobb.}
+{106}{}{A legjobb dolog a vÃ¡ndorlÃ¡sban, hogy a magad ura vagy.}
+{107}{}{Az a helyzet, hogy el?bb meghalnÃ©k, minthogy bÃ¡rkinek alÃ¡vessem magam.}
+{108}{}{Senki nem szÃ³l bele az Ã©letembe! A magam ura vagyok!}
+{109}{}{Senki nem mondja meg, mit csinÃ¡ljak.}
+{110}{}{Nem vagyok hÃ©tkÃ¶znapi! AkÃ¡rcsak a tÃ¶bbiek!}
+{111}{}{A mindent tagadÃ³ cinizmus nÃ©ha nagyon untat.}
+{112}{}{LegkÃ¶zelebb egy grufti tÃ¶rzset akarok talÃ¡lni magamnak.}
+{113}{}{LÃ¡ttam odalent Selmy-t Ã©s BarrÃ³t szÃ©ttÃ©pve.}
+{114}{}{Ãšgy hallottam, a Shi UralkodÃ³ minden emberi kÃ©pzeletet felÃ¼lmÃºlÃ³ intelligenciÃ¡val rendelkezik.}
+{115}{}{Ezek a Shi emberek elÃ©g mulatsÃ¡gos nÃ©psÃ©g.}
+{116}{}{Nyitott a gondolkodÃ¡som, mi?}
+{117}{}{SzÃ­vesen Ã¡tadom a barÃ¡tn?met, ha te is Ã¡tadod a tiedet.}
+{118}{}{NÃ©zd ezeket az Ãºj punkokat. PÃ³zerek egyt?l-egyig.}
+{119}{}{BHK-9 Ã¡tvert minket, Ã©s tÃ©ged is Ã¡t fog, ha hagyod magad.}
+{120}{}{Birka vagy. Semmi egyÃ©b, csak egy gyilkolÃ³ birka.}
+{121}{}{Mondd meg a gyÃ¶kÃ©r HubologistÃ¡knak, hogy sosem adjuk be a derekunkat!}
+{122}{}{MÃ©g sosem voltam a Hub-ban.}
+{123}{}{RemÃ©lem, bÃ¼szke vagy magadra!}
+{124}{}{HÃ¡t mÃ¡r soha nem jÃ¶nnek rÃ¡, hogy a mi "vezet?nk" meggyilkolÃ¡sÃ¡val mÃ©g nem fogjuk kÃ¶vetni az Ã¶vÃ©ket?}
 {125}{}{Seggfej vagy!}
 {126}{}{Bah! Bah!}
-{127}{}{Na, milyen volt egy mutánssal balhézni?}
-{128}{}{Bántott téged Francis, az a nagy, brutál muti?}
-{129}{}{Francis játszogatott veled?}
-{130}{}{Francis jó nagy darab figura.}
-{131}{}{A jó, öreg Francis, mi?}
+{127}{}{Na, milyen volt egy mutÃ¡nssal balhÃ©zni?}
+{128}{}{BÃ¡ntott tÃ©ged Francis, az a nagy, brutÃ¡l muti?}
+{129}{}{Francis jÃ¡tszogatott veled?}
+{130}{}{Francis jÃ³ nagy darab figura.}
+{131}{}{A jÃ³, Ã¶reg Francis, mi?}
 {132}{}{}
-{133}{}{Hé! Itt a sánta!}
-{134}{}{Hé, ha segítség kell, kérdezz csak nyugodtan!}
-{135}{}{Azta! Egy beszél? segg!}
-{136}{}{Van haszna, hogy ekkora gyökér vagy?}
-{137}{}{Feláldoztad a mi kis Chippie-nket, ugye?}
-{138}{}{Szegény Chip.}
-{139}{}{Nézzétek már, itt jön a kis "h?s"!}
-{140}{}{Hé, emberek! Ez az ember egy önz? seggfej!}
-{141}{}{Mostantól nemigen fog veled beszélni senki.}
-{142}{}{Chip-gy?löl?!}
-{143}{}{Tehetek érted valamit? Nem tenném az ablakba!}
-{144}{}{Ne beszélj hozzám!}
-{145}{}{Kedves, hogy megpróbáltad visszaszerezni Chip lépét.}
-{146}{}{Legalább megpróbáltad.}
-{147}{}{Szegény Chip.}
-{148}{}{Szegény Chippie jól megszívta.}
-{149}{}{Chip egyre gyengébb. Rossz hír ez.}
-{150}{}{Szép munka volt visszaszerezni a lépet!}
-{151}{}{Hahó... itt a h?s, aki "lépre" ment. Hehe.}
-{152}{}{Nem tudtam, hogy lépben játszanak.}
-{153}{}{Kösz, hogy megmentetted Chipet!}
-{154}{}{Hé, Chip kedvence!}
-{155}{}{Mindannyian örülünk Chip miatt.}
-{156}{}{Kösz, hogy megmentetted Chipet!}
-{157}{}{Mostantól a Borzzal is könnyebben ki lehet majd jönni.}
-{158}{}{Mindig is kedveltem Suze-t. Örülök, hogy még él.}
-{159}{}{Kiváncsi vagyok, Suze vigyáz-e majd a kölykeimre?}
-{160}{}{Megölöd a szörnyeket, megmented a barátn?t... van egyáltalán olyan h?stett, ami távol áll t?led?}
-{161}{}{Az én barátn?met is meg tudnád menteni? Haha!}
-{162}{}{A barátn?je megmentése miatt a Borz szerintem akár össze is bújna veled.}
+{133}{}{HÃ©! Itt a sÃ¡nta!}
+{134}{}{HÃ©, ha segÃ­tsÃ©g kell, kÃ©rdezz csak nyugodtan!}
+{135}{}{Azta! Egy beszÃ©l? segg!}
+{136}{}{Van haszna, hogy ekkora gyÃ¶kÃ©r vagy?}
+{137}{}{FelÃ¡ldoztad a mi kis Chippie-nket, ugye?}
+{138}{}{SzegÃ©ny Chip.}
+{139}{}{NÃ©zzÃ©tek mÃ¡r, itt jÃ¶n a kis "h?s"!}
+{140}{}{HÃ©, emberek! Ez az ember egy Ã¶nz? seggfej!}
+{141}{}{MostantÃ³l nemigen fog veled beszÃ©lni senki.}
+{142}{}{Chip-gy?lÃ¶l?!}
+{143}{}{Tehetek Ã©rted valamit? Nem tennÃ©m az ablakba!}
+{144}{}{Ne beszÃ©lj hozzÃ¡m!}
+{145}{}{Kedves, hogy megprÃ³bÃ¡ltad visszaszerezni Chip lÃ©pÃ©t.}
+{146}{}{LegalÃ¡bb megprÃ³bÃ¡ltad.}
+{147}{}{SzegÃ©ny Chip.}
+{148}{}{SzegÃ©ny Chippie jÃ³l megszÃ­vta.}
+{149}{}{Chip egyre gyengÃ©bb. Rossz hÃ­r ez.}
+{150}{}{SzÃ©p munka volt visszaszerezni a lÃ©pet!}
+{151}{}{HahÃ³... itt a h?s, aki "lÃ©pre" ment. Hehe.}
+{152}{}{Nem tudtam, hogy lÃ©pben jÃ¡tszanak.}
+{153}{}{KÃ¶sz, hogy megmentetted Chipet!}
+{154}{}{HÃ©, Chip kedvence!}
+{155}{}{Mindannyian Ã¶rÃ¼lÃ¼nk Chip miatt.}
+{156}{}{KÃ¶sz, hogy megmentetted Chipet!}
+{157}{}{MostantÃ³l a Borzzal is kÃ¶nnyebben ki lehet majd jÃ¶nni.}
+{158}{}{Mindig is kedveltem Suze-t. Ã–rÃ¼lÃ¶k, hogy mÃ©g Ã©l.}
+{159}{}{KivÃ¡ncsi vagyok, Suze vigyÃ¡z-e majd a kÃ¶lykeimre?}
+{160}{}{MegÃ¶lÃ¶d a szÃ¶rnyeket, megmented a barÃ¡tn?t... van egyÃ¡ltalÃ¡n olyan h?stett, ami tÃ¡vol Ã¡ll t?led?}
+{161}{}{Az Ã©n barÃ¡tn?met is meg tudnÃ¡d menteni? Haha!}
+{162}{}{A barÃ¡tn?je megmentÃ©se miatt a Borz szerintem akÃ¡r Ã¶ssze is bÃºjna veled.}
 {163}{}{Szerintem a Borzzal most madarat lehet fogatni.}
-{164}{}{Talán kérhetnél a Borztól egy-két szívességet.}
-{165}{}{Szegény Borz, szegény Suze.}
-{166}{}{Mondtam a lánynak, hogy ne menjen le oda...}
-{167}{}{...fenébe azokkal a raktéri szörnyekkel...}
-{168}{}{Nagyon sajnálom a Borzot.}
-{169}{}{Haláleset a hajón. Szegény Suze.}
-{170}{}{Ember... tartogat még valami jót az élet?}
-{171}{}{Veszélyes ám odalenn!}
-{172}{}{Fenébe... Miért ment le az a csaj oda?}
-{173}{}{Le kellett volna pecsételni a rakteret.}
-{174}{}{Hagyjuk itt a hajót!}
-{175}{}{Nyugat felé akarsz menni a hajóval?}
-{176}{}{Asszem, itt az id?, hogy elhagyjuk a hajót.}
-{177}{}{Rövidesen elköltözöm innen.}
-{178}{}{Már összepakoltam a sok szaromat.}
-{179}{}{Asszem, nyugat felé nem akarok menni.}
+{164}{}{TalÃ¡n kÃ©rhetnÃ©l a BorztÃ³l egy-kÃ©t szÃ­vessÃ©get.}
+{165}{}{SzegÃ©ny Borz, szegÃ©ny Suze.}
+{166}{}{Mondtam a lÃ¡nynak, hogy ne menjen le oda...}
+{167}{}{...fenÃ©be azokkal a raktÃ©ri szÃ¶rnyekkel...}
+{168}{}{Nagyon sajnÃ¡lom a Borzot.}
+{169}{}{HalÃ¡leset a hajÃ³n. SzegÃ©ny Suze.}
+{170}{}{Ember... tartogat mÃ©g valami jÃ³t az Ã©let?}
+{171}{}{VeszÃ©lyes Ã¡m odalenn!}
+{172}{}{FenÃ©be... MiÃ©rt ment le az a csaj oda?}
+{173}{}{Le kellett volna pecsÃ©telni a rakteret.}
+{174}{}{Hagyjuk itt a hajÃ³t!}
+{175}{}{Nyugat felÃ© akarsz menni a hajÃ³val?}
+{176}{}{Asszem, itt az id?, hogy elhagyjuk a hajÃ³t.}
+{177}{}{RÃ¶videsen elkÃ¶ltÃ¶zÃ¶m innen.}
+{178}{}{MÃ¡r Ã¶sszepakoltam a sok szaromat.}
+{179}{}{Asszem, nyugat felÃ© nem akarok menni.}
 {180}{}{}
 {181}{}{}
 {182}{}{}
-{183}{}{Ismersz valami jó helyet, ahol le lehetne telepedni?}
-{184}{}{Miel?tt elmennék, kitakarítok.}
-{185}{}{Na, szedjük a sátorfánkat!}
-{186}{}{Fenébe... a Borz nincs többé.}
-{187}{}{Ki ölne meg egy ilyen embert?}
-{188}{}{Szart se tudok a számítógépekr?l. Hát te?}
-{189}{}{Ember... A Borz ismert egy csomó jó helyet.}
-{190}{}{Most már sosem hallom meg, hogy játszott a zenekara!}
-{191}{}{Idióta gyilkosok... elteszik a Borzot láb alól... idióták.}
-{192}{}{Majd szétvet a düh.}
-{193}{}{Bosszút akarok állni a Borzért!}
-{194}{}{A Borz nélkül értelmetlennek t?nik az élet.}
+{183}{}{Ismersz valami jÃ³ helyet, ahol le lehetne telepedni?}
+{184}{}{Miel?tt elmennÃ©k, kitakarÃ­tok.}
+{185}{}{Na, szedjÃ¼k a sÃ¡torfÃ¡nkat!}
+{186}{}{FenÃ©be... a Borz nincs tÃ¶bbÃ©.}
+{187}{}{Ki Ã¶lne meg egy ilyen embert?}
+{188}{}{Szart se tudok a szÃ¡mÃ­tÃ³gÃ©pekr?l. HÃ¡t te?}
+{189}{}{Ember... A Borz ismert egy csomÃ³ jÃ³ helyet.}
+{190}{}{Most mÃ¡r sosem hallom meg, hogy jÃ¡tszott a zenekara!}
+{191}{}{IdiÃ³ta gyilkosok... elteszik a Borzot lÃ¡b alÃ³l... idiÃ³tÃ¡k.}
+{192}{}{Majd szÃ©tvet a dÃ¼h.}
+{193}{}{BosszÃºt akarok Ã¡llni a BorzÃ©rt!}
+{194}{}{A Borz nÃ©lkÃ¼l Ã©rtelmetlennek t?nik az Ã©let.}

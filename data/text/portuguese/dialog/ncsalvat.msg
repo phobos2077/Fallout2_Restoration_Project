@@ -12,18 +12,18 @@
 {216}{}{Owwww! Turn down sound! Hurt ears! HURT EARS!}
 {217}{}{ME CANT TALK OVER RINGING. TURN OFF, WE TALK}
 {218}{}{I'm gonna CRIPPLE you, old man! You'll never walk again!}
-{219}{}{Eu sabia que deveria conseguido uma permiss„o primeiro...}
+{219}{}{Eu sabia que deveria conseguido uma permiss√£o primeiro...}
 {220}{}{Merda!}
 {221}{}{Uh, please tell me that was room service.}
 {230}{}{(The elderly man looks up at you. His face is gaunt and covered with liver spots. He is holding
  a breathing mask, which is connected to an oxygen tank by his side.) What... do you want of me?}
-{231}{}{Eu quero... n„o sei o que eu quero}
+{231}{}{Eu quero... n√£o sei o que eu quero}
 {232}{}{Me want}
 {233}{}{Eu}
 {234}{}{Sair andando}
 {235}{}{I have information for you.}
 {236}{}{I have information for you, Mr. Salvatore.}
-{237}{}{Estou ‡ procura de trabalho.}
+{237}{}{Estou √† procura de trabalho.}
 {238}{}{Mr. Salvatore, you have a reputation for strength and fairness. I want to work for you.}
 {239}{}{I wanted to know where you get the lightbringers.}
 {240}{}{Word is you had Mr. Wright's son poisoned. Why?}
@@ -37,7 +37,7 @@
  nothing... that I need to know, }
 {271}{}{Um, I don't recall introducing myself. How do you know my name?}
 {272}{}{Uh, okay. Well then, I'm looking for a job.}
-{276}{}{Na verdade, acho que entrei no quarto errado. Perd„o.}
+{276}{}{Na verdade, acho que entrei no quarto errado. Perd√£o.}
 {290}{}{(Looks at you silently for a minute. He might be either amused at your question
  or irritated... it's hard to tell.) Again, }
 {291}{}{Uh... hmmm. Well, uh, I'm looking for a job.}
@@ -48,9 +48,9 @@
 {307}{}{Whoa. Did I say I was looking for work? I meant to say I was leaving.}
 {315}{}{(Takes a breath from the oxygen mask, then gives a slight smile.) Of... course. But
  I require a... token of your good faith. A sample of your... willingness to work for me.}
-{316}{}{O que vocÍ quer que eu faÁa?}
+{316}{}{O que voc√™ quer que eu fa√ßa?}
 {317}{}{What would you have me do, Mr. Salvatore?}
-{325}{}{(Shakes his head slightly.) Your naivetÈ has... no place here. Words are not
+{325}{}{(Shakes his head slightly.) Your naivet√© has... no place here. Words are not
  sufficient: You wish to work for Louis Salvatore? Then I must know how much I can rely on you.}
 {326}{}{Look, you can COUNT on me.}
 {327}{}{Let me prove it, Mr. Salvatore. Assign me a task.}
@@ -76,7 +76,7 @@
 {385}{}{(Salvatore looks up at you, takes a breath from the mask.) Have... you disposed of the thief?}
 {386}{}{Naw... Lloyd left town with the money.}
 {387}{}{Yep. The vultures are probably shitting pieces of him out right now.}
-{388}{}{Ainda n„o.}
+{388}{}{Ainda n√£o.}
 {389}{}{No, Mr. Salvatore. Lloyd left town with the money.}
 {390}{}{Yes. I made an example of him, Mr. Salvatore.}
 {391}{}{Not yet, Mr. Salvatore.}
@@ -95,7 +95,7 @@
 {422}{}{Uh, I have the money --}
 {423}{}{Well, you see, I don't --}
 {430}{}{I will take the money now.}
-{431}{}{Bom, n„o tenho isso comigo...}
+{431}{}{Bom, n√£o tenho isso comigo...}
 {432}{}{Give him 250 chips.}
 {433}{}{Give him 500 chips.}
 {434}{}{Give him 750 chips.}
@@ -130,7 +130,7 @@
 {525}{}{Very well. (He waits.)}
 {527}{}{Give him 900 chips.}
 {528}{}{Give him 800 chips.}
-{529}{}{Na verdade, eu n„o tenho o tributo PARA mim...}
+{529}{}{Na verdade, eu n√£o tenho o tributo PARA mim...}
 {540}{}{This amount... is not the amount that was stolen
  from me. Perhaps you don't know how much the required tribute is. Or perhaps you are
  holding out on me. Either way...}
@@ -170,7 +170,7 @@
 {621}{}{E se...}
 {630}{}{(Nods) That is a... good name. Now go speak to Mason. He will have...
 something for you.}
-{640}{}{SaudaÁıes,}
+{640}{}{Sauda√ß√µes,}
 {645}{}{I have no further need of your services, }
 {650}{}{...}
 {651}{}{...hurkkk...}
@@ -198,7 +198,7 @@ something for you.}
 {925}{}{You have successfully completed the secret transaction.}
 {5233}{}{! Who yu}
 {5270}{}{. Agora... o que quer de mim?}
-{5290}{}{: O que... vocÍ quer de mim?}
+{5290}{}{: O que... voc√™ quer de mim?}
 {5605}{}{. You have done... all I have asked. I would like you to join the Salvatore Family
  and become... one of my made men.}
 {5640}{}{.}

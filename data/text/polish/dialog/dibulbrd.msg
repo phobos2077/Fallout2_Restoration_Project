@@ -1,40 +1,40 @@
-{100}{}{Widzisz tablicê og³oszeniow¹.}
-{150}{}{Wisi na niej sporo og³oszeñ.}
-{200}{}{Biuletyn Nory: Sponsorowana przez Bar z Kasynem Rebeki, najtañsze drinki w Norze. }
+{100}{}{Widzisz tablicÄ™ ogÅ‚oszeniowÄ….}
+{150}{}{Wisi na niej sporo ogÅ‚oszeÅ„.}
+{200}{}{Biuletyn Nory: Sponsorowana przez Bar z Kasynem Rebeki, najtaÅ„sze drinki w Norze. }
 {201}{}{Biuletyn Nory: Sponsorowana przez Bar z Kasynem Rebeki...}
-{202}{}{[Ktoœ nabazgra³ coœ na marginesie tej kartki.]}
-{203}{}{[Czêœæ tej kartki zosta³a oderwana.]}
-{204}{}{Gildia ³owców niewolników}
+{202}{}{[KtoÅ› nabazgraÅ‚ coÅ› na marginesie tej kartki.]}
+{203}{}{[CzÄ™Å›Ä‡ tej kartki zostaÅ‚a oderwana.]}
+{204}{}{Gildia Å‚owcÃ³w niewolnikÃ³w}
 {205}{}{Bary i hazard}
 {206}{}{Restauracje}
 {207}{}{Sklepy}
-{225}{}{Gildia ³owców niewolników jest najlepszym (i jedynym) dostawc¹ niewolników na Pustkowiach.}
-{250}{}{Chêtni do pracy b¹dŸ handlarze niewolników proszeni o kontakt z szefem gildii - Metzgerem.}
-{275}{}{Gildia ³owców niewolników znajduje siê we wschodniej czêœci miasta, za lokalami Becky i Frankiego.}
-{300}{}{Ze wzglêdu na zwiêkszony popyt, gildia chwilowo nie sprzedaje niewolników odbiorcom indywidualnym.}
-{325}{}{[Na liœcie figuruj¹ dwie pozycje.]}
-{350}{}{Bar z kasynem Rebeki oferuje zarówno sto³y do gry jak i alkohol za przystêpn¹ cenê.}
-{375}{}{Lokal znajduje siê na wschód od tablicy og³oszeñ. To pierwszy budynek na lewo od wejœcia do miasta. Zajrzyj do nas, nie po¿a³ujesz!}
-{400}{}{Becky to œdzira i sika do swoich drinkuw! To k³amczucha i oszóstka! [Napis daje siê z trudem odczytaæ.]}
-{401}{}{[Ta wiadomoœæ zosta³a dok³adnie oderwana.]}
-{425}{}{S³owa, s³owa... u... s³owa... Bar... s³owa... w Norze.}
-{426}{}{Jakie to wszystko skomplikowane! Rozbola³a ciê g³owa.}
-{450}{}{Frankie prowadzi bar, gospodê i 'lokal uciech'.}
-{475}{}{Jedyn¹ restauracjê w Norze prowadzi Mamuœka. Znajdziesz j¹ we wschodniej czêœci miasta, na po³udnie od gildii ³owców niewolników.}
-{500}{}{[Chyba ktoœ próbowa³ j¹ podpaliæ. Nie mo¿esz odczytaæ ¿adnego og³oszenia.]}
-{525}{}{[Widzisz trzy og³oszenia.]}
-{550}{}{Tubby sprzedaje ró¿norakie towary, g³ównie prochy i amunicjê.}
-{575}{}{Sklep Tubby'ego znajduje siê na zachód od tej tablicy. To pierwszy dom po prawej od wejœcia do miasta.}
-{600}{}{Flick sprzedaje ró¿ne rzeczy. Znajdziesz go w budynku na po³udnie st¹d, za Kasynem Rebeki.}
-{625}{}{Smitty to lokalny mechanik. Czasem ma coœ do sprzedania.}
-{650}{}{Smitty urzêduje na z³omowisku w po³udniowo-zachodnim rogu miasta.}
+{225}{}{Gildia Å‚owcÃ³w niewolnikÃ³w jest najlepszym (i jedynym) dostawcÄ… niewolnikÃ³w na Pustkowiach.}
+{250}{}{ChÄ™tni do pracy bÄ…dÅº handlarze niewolnikÃ³w proszeni o kontakt z szefem gildii - Metzgerem.}
+{275}{}{Gildia Å‚owcÃ³w niewolnikÃ³w znajduje siÄ™ we wschodniej czÄ™Å›ci miasta, za lokalami Becky i Frankiego.}
+{300}{}{Ze wzglÄ™du na zwiÄ™kszony popyt, gildia chwilowo nie sprzedaje niewolnikÃ³w odbiorcom indywidualnym.}
+{325}{}{[Na liÅ›cie figurujÄ… dwie pozycje.]}
+{350}{}{Bar z kasynem Rebeki oferuje zarÃ³wno stoÅ‚y do gry jak i alkohol za przystÄ™pnÄ… cenÄ™.}
+{375}{}{Lokal znajduje siÄ™ na wschÃ³d od tablicy ogÅ‚oszeÅ„. To pierwszy budynek na lewo od wejÅ›cia do miasta. Zajrzyj do nas, nie poÅ¼aÅ‚ujesz!}
+{400}{}{Becky to Å›dzira i sika do swoich drinkuw! To kÅ‚amczucha i oszÃ³stka! [Napis daje siÄ™ z trudem odczytaÄ‡.]}
+{401}{}{[Ta wiadomoÅ›Ä‡ zostaÅ‚a dokÅ‚adnie oderwana.]}
+{425}{}{SÅ‚owa, sÅ‚owa... u... sÅ‚owa... Bar... sÅ‚owa... w Norze.}
+{426}{}{Jakie to wszystko skomplikowane! RozbolaÅ‚a ciÄ™ gÅ‚owa.}
+{450}{}{Frankie prowadzi bar, gospodÄ™ i 'lokal uciech'.}
+{475}{}{JedynÄ… restauracjÄ™ w Norze prowadzi MamuÅ›ka. Znajdziesz jÄ… we wschodniej czÄ™Å›ci miasta, na poÅ‚udnie od gildii Å‚owcÃ³w niewolnikÃ³w.}
+{500}{}{[Chyba ktoÅ› prÃ³bowaÅ‚ jÄ… podpaliÄ‡. Nie moÅ¼esz odczytaÄ‡ Å¼adnego ogÅ‚oszenia.]}
+{525}{}{[Widzisz trzy ogÅ‚oszenia.]}
+{550}{}{Tubby sprzedaje rÃ³Å¼norakie towary, gÅ‚Ã³wnie prochy i amunicjÄ™.}
+{575}{}{Sklep Tubby'ego znajduje siÄ™ na zachÃ³d od tej tablicy. To pierwszy dom po prawej od wejÅ›cia do miasta.}
+{600}{}{Flick sprzedaje rÃ³Å¼ne rzeczy. Znajdziesz go w budynku na poÅ‚udnie stÄ…d, za Kasynem Rebeki.}
+{625}{}{Smitty to lokalny mechanik. Czasem ma coÅ› do sprzedania.}
+{650}{}{Smitty urzÄ™duje na zÅ‚omowisku w poÅ‚udniowo-zachodnim rogu miasta.}
 {1000}{}{Kontynuuj.}
-{1010}{}{Wskazówki:}
-{1020}{}{WyjdŸ.}
+{1010}{}{WskazÃ³wki:}
+{1020}{}{WyjdÅº.}
 {1030}{}{Flick}
 {1040}{}{Frankie}
 {1050}{}{Kasyno Rebeki}
-{1060}{}{Powrót na stronê g³ówn¹}
+{1060}{}{PowrÃ³t na stronÄ™ gÅ‚Ã³wnÄ…}
 {1070}{}{Smitty}
-{1080}{}{Og³oszenie specjalne:}
+{1080}{}{OgÅ‚oszenie specjalne:}
 {1090}{}{Tubby}

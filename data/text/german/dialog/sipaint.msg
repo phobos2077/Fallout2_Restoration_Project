@@ -1,2 +1,2 @@
-{100}{}{Auf der Rückseite des Gemäldes findest du eine handgezeichnete Karte, auf der Vault 13
+{100}{}{Auf der RÃ¼ckseite des GemÃ¤ldes findest du eine handgezeichnete Karte, auf der Vault 13
  eingezeichnet ist.}

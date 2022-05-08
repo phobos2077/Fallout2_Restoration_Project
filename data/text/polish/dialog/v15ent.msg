@@ -1,1 +1,1 @@
-{100}{}{Grupa brudnych namiotów i chatek przytulonych do zalesionego zbocza góry. Ludzie których widzisz s¹ wychudli i przestraszeni.}
+{100}{}{Grupa brudnych namiotÃ³w i chatek przytulonych do zalesionego zbocza gÃ³ry. Ludzie ktÃ³rych widzisz sÄ… wychudli i przestraszeni.}

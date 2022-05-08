@@ -1,23 +1,23 @@
-{100}{}{Olá, bem-vindo à Agência de Proteção Ambiental, comumente referida como a EPA! Para sua conveniência,
-  este terminal irá fornecer-lhe descrições das várias áreas codificadas por cores que compõem a nossa maravilhosa
-  instalação de pesquisa. Selecione um nível para o qual você gostaria de obter mais informações.}
-{101}{}{LARANJA SUB-NÍVEL}
-{102}{}{VERMELHO SUB-NÍVEL}
-{103}{}{AMARELO SUB-NÍVEL}
-{104}{}{ÍNDIGO SUB-NÍVEL}
-{105}{}{VIOLETA SUB-NÍVEL}
+{100}{}{OlÃ¡, bem-vindo Ã  AgÃªncia de ProteÃ§Ã£o Ambiental, comumente referida como a EPA! Para sua conveniÃªncia,
+Â  este terminal irÃ¡ fornecer-lhe descriÃ§Ãµes das vÃ¡rias Ã¡reas codificadas por cores que compÃµem a nossa maravilhosa
+Â  instalaÃ§Ã£o de pesquisa. Selecione um nÃ­vel para o qual vocÃª gostaria de obter mais informaÃ§Ãµes.}
+{101}{}{LARANJA SUB-NÃVEL}
+{102}{}{VERMELHO SUB-NÃVEL}
+{103}{}{AMARELO SUB-NÃVEL}
+{104}{}{ÃNDIGO SUB-NÃVEL}
+{105}{}{VIOLETA SUB-NÃVEL}
 {106}{}{VERDE SUB-NIVEL}
-{107}{}{AZUL SUB-NÍVEL}
-{108}{}{Sub-nível Laranja contém as salas de conferência, onde todas as emocionante decisões são tomadas, uma cafeteria, onde a deliciosa comida é servida, e alguns produtos químicos perigosos.}
-{109}{}{Sub-nível Vermelho é o lar de nosso departamento de segurança (então se comporte!) E um pequeno museu informativo. Além disso, não se esqueça de comprar alguns lanches e parar pela câmara de execução pública! [Isenção de responsabilidade: a câmara de execução pode não ser apta para crianças menores de quatro anos.]}
-{110}{}{Sub-nível Amarelo abriga as salas de fornecimento de energia para os nossos incríveis novos hologramas, e também é onde você encontrará o aparelho favorito de drogas de todos, o Sr. Chemmie! [Aviso: Devido ao espaço de armazenamento limitado, transferimos alguns produtos químicos perigosos para essa área, então observe seu passo!]}
-{111}{}{Sub-nível Indigo é onde nossos brilhantes cientistas estão conduzindo algumas Pesquisas Top Secret! Parece emocionante, não é? Lembre-se, todos os visitantes não autorizados encontrados neste nível serão atirados à vista. Então, pais, não deixe seus filhos vagarem sem supervisão.}
-{112}{}{Sub-nível Violeta contém o núcleo de memória para o armazenamento de dados na EPA e outras coisas que não interessam muito aos visitantes. Desculpa! No entanto, ele se conecta diretamente ao Sub-nível Amarelo, que contém coisas mais interessantes, como o farmacêutico do futuro, o Sr. Chemmie!}
-{113}{}{Sub-nível Verde é um nível emocionante que contém um arboreto, pesquisa de armas biológicas, novas criaturas fascinantes e, o favorito de cada criança, nosso zoológico único.}
-{114}{}{Sub-Nível Azul não existe. Se alguém lhe dissesse o contrário, eles são mentirosos sujos e são provavelmente simpatizantes comunistas. Informe-os para o nosso departamento de segurança em Sub-Nível Vermelho para que eles possam ser tratados em conformidade. Obrigado por fazer a sua parte como um americano orgulhoso!}
+{107}{}{AZUL SUB-NÃVEL}
+{108}{}{Sub-nÃ­vel Laranja contÃ©m as salas de conferÃªncia, onde todas as emocionante decisÃµes sÃ£o tomadas, uma cafeteria, onde a deliciosa comida Ã© servida, e alguns produtos quÃ­micos perigosos.}
+{109}{}{Sub-nÃ­vel Vermelho Ã© o lar de nosso departamento de seguranÃ§a (entÃ£o se comporte!) E um pequeno museu informativo. AlÃ©m disso, nÃ£o se esqueÃ§a de comprar alguns lanches e parar pela cÃ¢mara de execuÃ§Ã£o pÃºblica! [IsenÃ§Ã£o de responsabilidade: a cÃ¢mara de execuÃ§Ã£o pode nÃ£o ser apta para crianÃ§as menores de quatro anos.]}
+{110}{}{Sub-nÃ­vel Amarelo abriga as salas de fornecimento de energia para os nossos incrÃ­veis novos hologramas, e tambÃ©m Ã© onde vocÃª encontrarÃ¡ o aparelho favorito de drogas de todos, o Sr. Chemmie! [Aviso: Devido ao espaÃ§o de armazenamento limitado, transferimos alguns produtos quÃ­micos perigosos para essa Ã¡rea, entÃ£o observe seu passo!]}
+{111}{}{Sub-nÃ­vel Indigo Ã© onde nossos brilhantes cientistas estÃ£o conduzindo algumas Pesquisas Top Secret! Parece emocionante, nÃ£o Ã©? Lembre-se, todos os visitantes nÃ£o autorizados encontrados neste nÃ­vel serÃ£o atirados Ã  vista. EntÃ£o, pais, nÃ£o deixe seus filhos vagarem sem supervisÃ£o.}
+{112}{}{Sub-nÃ­vel Violeta contÃ©m o nÃºcleo de memÃ³ria para o armazenamento de dados na EPA e outras coisas que nÃ£o interessam muito aos visitantes. Desculpa! No entanto, ele se conecta diretamente ao Sub-nÃ­vel Amarelo, que contÃ©m coisas mais interessantes, como o farmacÃªutico do futuro, o Sr. Chemmie!}
+{113}{}{Sub-nÃ­vel Verde Ã© um nÃ­vel emocionante que contÃ©m um arboreto, pesquisa de armas biolÃ³gicas, novas criaturas fascinantes e, o favorito de cada crianÃ§a, nosso zoolÃ³gico Ãºnico.}
+{114}{}{Sub-NÃ­vel Azul nÃ£o existe. Se alguÃ©m lhe dissesse o contrÃ¡rio, eles sÃ£o mentirosos sujos e sÃ£o provavelmente simpatizantes comunistas. Informe-os para o nosso departamento de seguranÃ§a em Sub-NÃ­vel Vermelho para que eles possam ser tratados em conformidade. Obrigado por fazer a sua parte como um americano orgulhoso!}
 {115}{}{Voltar para o menu principal.}
-{116}{}{Obrigado por usar o localizador de localização.}
+{116}{}{Obrigado por usar o localizador de localizaÃ§Ã£o.}
 {117}{}{[FEITO]}
-{118}{}{Você verá um computador.}
-{119}{}{Você vê o EPA Localizador de localização.}
-{120}{}{Você vê um computador com informações detalhadas sobre os níveis na EPA.}
+{118}{}{VocÃª verÃ¡ um computador.}
+{119}{}{VocÃª vÃª o EPA Localizador de localizaÃ§Ã£o.}
+{120}{}{VocÃª vÃª um computador com informaÃ§Ãµes detalhadas sobre os nÃ­veis na EPA.}

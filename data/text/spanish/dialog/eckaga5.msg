@@ -2,21 +2,21 @@
 {101}{}{Ves a Kaga con una servoarmadura MKII.}
 {102}{}{Un gran pedazo de metal con brazos y armas.}
 {103}{}{Kaga se ha cansado de esta caza. Vamos a acabar con esto.}
-{104}{}{Esta es la última vez que te enfrentas a Kaga.}
+{104}{}{Esta es la Ãºltima vez que te enfrentas a Kaga.}
 {105}{}{No eres rival para Kaga..}
-{106}{}{Kaga está ansioso por mandarte al otro mundo.}
+{106}{}{Kaga estÃ¡ ansioso por mandarte al otro mundo.}
 {107}{}{Has sido un enemigo digno.}
-{108}{}{Esta parte del Yermo no necesita otro bienhechor como tú.}
-{109}{}{Después de que te mate, Kaga será el hombre más temido de esta parte del Yermo.}
-{110}{}{Kaga está deseando llegar a Arroyo... para quemarlo.}
-{111}{}{Kaga se hará famoso por matarte.}
-{120}{}{¡Kagaaaaaaaa!}
-{150}{}{[Un alto y fornido guerrero está frente a ti, sus ojos brillan con odio mientras te mira.] Entonces, ellos echan a Kaga, ¿y te consideran el Elegido? ¡JA! ¿Crees que ser el nieto del Morador del Refugio te hace especial? ¿Crees que eres mejor que yo, Kaga el Grande?}
-{151}{}{Bueno, yo SOY el Elegido, ¿no?}
-{152}{}{Hey ahora, espera un segundo. Nunca dije que era mejor que tú.}
-{160}{}{¡Ese título no significará nada cuando Kaga te arranque la cabeza de tus hombros!}
-{161}{}{No hay palabras que puedan salvar tu piel. Con tu muerte, el honor de Kaga será restaurado. ¡Kaga ahora tomará su venganza!}
-{200}{}{¿Ooglie?}
-{201}{}{¿¡Qué!? ¿Te eligieron a *ti* para ser el Elegido? Oh mi, se han vuelto desesperados.}
+{108}{}{Esta parte del Yermo no necesita otro bienhechor como tÃº.}
+{109}{}{DespuÃ©s de que te mate, Kaga serÃ¡ el hombre mÃ¡s temido de esta parte del Yermo.}
+{110}{}{Kaga estÃ¡ deseando llegar a Arroyo... para quemarlo.}
+{111}{}{Kaga se harÃ¡ famoso por matarte.}
+{120}{}{Â¡Kagaaaaaaaa!}
+{150}{}{[Un alto y fornido guerrero estÃ¡ frente a ti, sus ojos brillan con odio mientras te mira.] Entonces, ellos echan a Kaga, Â¿y te consideran el Elegido? Â¡JA! Â¿Crees que ser el nieto del Morador del Refugio te hace especial? Â¿Crees que eres mejor que yo, Kaga el Grande?}
+{151}{}{Bueno, yo SOY el Elegido, Â¿no?}
+{152}{}{Hey ahora, espera un segundo. Nunca dije que era mejor que tÃº.}
+{160}{}{Â¡Ese tÃ­tulo no significarÃ¡ nada cuando Kaga te arranque la cabeza de tus hombros!}
+{161}{}{No hay palabras que puedan salvar tu piel. Con tu muerte, el honor de Kaga serÃ¡ restaurado. Â¡Kaga ahora tomarÃ¡ su venganza!}
+{200}{}{Â¿Ooglie?}
+{201}{}{Â¿Â¡QuÃ©!? Â¿Te eligieron a *ti* para ser el Elegido? Oh mi, se han vuelto desesperados.}
 {202}{}{No gusta. Parece mal.}
-{203}{}{Kaga ni siquiera se molestará en hablar contigo más. ¡Prepárate para morir a manos de Kaga!}
+{203}{}{Kaga ni siquiera se molestarÃ¡ en hablar contigo mÃ¡s. Â¡PrepÃ¡rate para morir a manos de Kaga!}

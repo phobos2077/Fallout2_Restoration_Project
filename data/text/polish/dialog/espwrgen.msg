@@ -1,10 +1,10 @@
-{100}{}{Ten generator jest powa¿nie uszkodzony.}
-{101}{}{S¹dzisz, ¿e mo¿esz go naprawiæ.}
-{102}{}{To ledwo dzia³aj¹cy generator.}
-{103}{}{Dzia³a, ale z ledwie.}
-{104}{}{Tia, zepsuty. Kopanie go nie wydaje siê byæ skuteczne.}
+{100}{}{Ten generator jest powaÅ¼nie uszkodzony.}
+{101}{}{SÄ…dzisz, Å¼e moÅ¼esz go naprawiÄ‡.}
+{102}{}{To ledwo dziaÅ‚ajÄ…cy generator.}
+{103}{}{DziaÅ‚a, ale z ledwie.}
+{104}{}{Tia, zepsuty. Kopanie go nie wydaje siÄ™ byÄ‡ skuteczne.}
 {105}{}{Prawie...}
-{106}{}{Jeszcze tylko trochê.}
-{107}{}{To wygl¹da na po prostu niemo¿liwe do naprawienia.}
-{108}{}{Gdy tylko generator wraca do ¿ycia, w³¹czaj¹ siê s³abe œwiat³a.}
-{200}{}{Uda³o ci siê naprawiæ generator zasilania.}
+{106}{}{Jeszcze tylko trochÄ™.}
+{107}{}{To wyglÄ…da na po prostu niemoÅ¼liwe do naprawienia.}
+{108}{}{Gdy tylko generator wraca do Å¼ycia, wÅ‚Ä…czajÄ… siÄ™ sÅ‚abe Å›wiatÅ‚a.}
+{200}{}{UdaÅ‚o ci siÄ™ naprawiÄ‡ generator zasilania.}

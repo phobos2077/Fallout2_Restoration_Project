@@ -1,23 +1,23 @@
 {100}{}{You see the casino pit boss.}
 {150}{}{You see a well-dressed man. He is surveying the casino.}
 {200}{}{Uh... you'll need to remove that armor.}
-{210}{}{Uh, por que você está se esgueirando, senhor?}
-{220}{}{Uh, por que você está se esgueirando, senhora?}
+{210}{}{Uh, por que vocÃª estÃ¡ se esgueirando, senhor?}
+{220}{}{Uh, por que vocÃª estÃ¡ se esgueirando, senhora?}
 {230}{}{Good evening, [MM], sir.}
 {240}{}{Good evening, [MM], ma'am.}
 {250}{}{Good day, [MM], sir.}
 {260}{}{Good day, [MM], ma'am.}
-{270}{}{Amigo, você está entrando no cassino errado.}
-{280}{}{Senhor, sinto muito, você terá que guardar essa arma.}
-{290}{}{Senhora, sinto muito, você terá que guardar essa arma.}
+{270}{}{Amigo, vocÃª estÃ¡ entrando no cassino errado.}
+{280}{}{Senhor, sinto muito, vocÃª terÃ¡ que guardar essa arma.}
+{290}{}{Senhora, sinto muito, vocÃª terÃ¡ que guardar essa arma.}
 {300}{}{Honey, I'm sorry, you can't carry weapons into the casino. [Smiles.] You're deadly enough as it is.}
-{310}{}{Querida, com um corpo desse, você não poderá se esgueirar para lugar nenhum.}
+{310}{}{Querida, com um corpo desse, vocÃª nÃ£o poderÃ¡ se esgueirar para lugar nenhum.}
 {320}{}{Tribal, you better secure that weapon right *now.*}
 {330}{}{Tribal, you better stop that sneaking around shit right *now.*}
 {340}{}{[To Myron] Hey, hey... Myron! Ain't seen you outside the lab in a long time.}
 {350}{}{[Nods at Marcus.] No mutants. He waits outside.}
 {360}{}{Nada de droides.}
-{370}{}{Não posso conversar enquanto estiver em serviço, mas me alegro que você deu um chute no cu da Enclave.}
+{370}{}{NÃ£o posso conversar enquanto estiver em serviÃ§o, mas me alegro que vocÃª deu um chute no cu da Enclave.}
 {380}{}{Need some more chips at table three...}
 {390}{}{Need some more chips at table three...}
 {400}{}{Hey, [X]! Heard yer the one who kicked the Enclave back to the stone age! [Becomes formal.] I've been instructed to give you some chips, courtesy of the casino. Enjoy yourself, sir.}

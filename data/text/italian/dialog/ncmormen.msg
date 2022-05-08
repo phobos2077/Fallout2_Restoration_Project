@@ -15,7 +15,7 @@
 {215}{}{Perche' ti muovi come una faina, eh, }
 {220}{}{Hai del Jet con te, homes?}
 {221}{}{Ehi, }
-{222}{}{Avrei proprio voglia di bermi qualcosa. Cazzo…}
+{222}{}{Avrei proprio voglia di bermi qualcosa. Cazzoâ€¦}
 {223}{}{Caaaaa-zzo, e' bollente.}
 {224}{}{Cosa dicono giu' in citta', eh, }
 {230}{}{Yo! Cabron! Stai cercando l'Angelo della Morte? Smamma!}
@@ -45,7 +45,7 @@
 {270}{}{Hai lo spirito giusto per essere una Mordino.}
 {271}{}{L'ultimo tuo incontro e' stato qualcosa di epico, chica.}
 {272}{}{Dove ti alleni, eh? Ti serve un assistente?}
-{273}{}{Fa' attenzione al Masticatore. Gli piace mangiare le orecchie… e' completamente schizzato.}
+{273}{}{Fa' attenzione al Masticatore. Gli piace mangiare le orecchieâ€¦ e' completamente schizzato.}
 {280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
 {281}{}{Cos'e', vuoi che ti spogli e che ti perquisisca? Su, metti via quell'arnese prima che sia costretto a diventare scortese.}
 {285}{}{Perche' diavolo ti muovi silenziosamente, }
@@ -92,7 +92,7 @@
 {371}{}{Come va? Liscio come l'olio, amico.}
 {372}{}{Heh? ::Sputa:: Come butta, }
 {373}{}{Mi fa piacere vederti, }
-{374}{}{Avrei proprio voglia di bermi qualcosa. Cazzo…}
+{374}{}{Avrei proprio voglia di bermi qualcosa. Cazzoâ€¦}
 {375}{}{Bah, il solito tran-tran. Tu, invece, come te le passi, }
 {376}{}{Caaaaa-zzo, e' bollente.}
 {377}{}{Come si comporta il Grande Boss Mordino? Digli che lo tengo d'occhio, eh, }
@@ -120,7 +120,7 @@
 {414}{}{Hija de puta...}
 {420}{}{Nah, non sono io il tipo con cui parlare di schiavi... dovresti rivolgerti a Lil' Jesus.}
 {421}{}{Quand'e' che ci porterete degli schiavi un po' in forma? Gli ultimi erano pessimi, schiavista. Tutti malandati.}
-{422}{}{I Mordino non hanno bisogno di schiavi. Ma se ti capitasse di averne qualcuno del quale vorresti disfarti…}
+{422}{}{I Mordino non hanno bisogno di schiavi. Ma se ti capitasse di averne qualcuno del quale vorresti disfartiâ€¦}
 {423}{}{Non sono la persona giusta con cui parlare di compravendita di schiavi.}
 {424}{}{Stai facendo la cosa giusta, a stare con i Mordino. Diventeremo presto i piu' grandi.}
 {425}{}{Come vanno le cose giu' al Den, eh?}
@@ -130,11 +130,11 @@
 {437}{}{Sparisci, selvaggio.}
 {438}{}{Adesso non ho TEMPO da perdere con te.}
 {439}{}{Fuori di qui.}
-{440}{}{Spazzatura tribale…}
+{440}{}{Spazzatura tribaleâ€¦}
 {441}{}{Che cosa DIAVOLO vuoi, selvaggio?}
 {442}{}{Adesso non ho TEMPO da perdere con te.}
 {443}{}{Smamma.}
-{444}{}{Spazzatura tribale…}
+{444}{}{Spazzatura tribaleâ€¦}
 {445}{}{Non ti daro' nemmeno una goccia di Jet. Non importa quanto mi implori. Smamma.}
 {446}{}{Senti, io NON sono tuo fratello, percio' non rivolgermi piu' la parola.}
 {447}{}{Senti, se mai avessi bisogno di una puttana, me ne andrei a comprare una. Adesso smamma, chica.}
@@ -186,7 +186,7 @@
 {1285}{}{? Dai, cammina a testa alta.}
 {1297}{}{! Que pasa? Metterai una buona parola per me con i Fratelli, o no?}
 {1298}{}{, un successo sicuro!}
-{1300}{}{… eddai. POSSO farlo.}
+{1300}{}{â€¦ eddai. POSSO farlo.}
 {1357}{}{! Sei stato grande a spazzare via l'Enclave!}
 {1358}{}{, cosi' quei bastardi dell'Enclave hanno imparato come si risolvono certe faccende, DALLE NOSTRE PARTI.}
 {1372}{}{?}

@@ -1,119 +1,119 @@
 {100}{}{Widzisz cybernetycznego robota}
-{101}{}{Niez³y przyk³ad in¿ynierii, która zamazuje ró¿nice miêdzy cz³owiekiem a robotem.}
-{102}{}{Skynet bêdzie z tob¹ podró¿owa³.}
-{103}{}{Skynet dziêkuje cz³owiekowi.                                        
- Skynet chce poprosiæ o przys³ugê.                               
- Skynet chce podró¿owaæ z cz³owiekiem.}
+{101}{}{NiezÅ‚y przykÅ‚ad inÅ¼ynierii, ktÃ³ra zamazuje rÃ³Å¼nice miÄ™dzy czÅ‚owiekiem a robotem.}
+{102}{}{Skynet bÄ™dzie z tobÄ… podrÃ³Å¼owaÅ‚.}
+{103}{}{Skynet dziÄ™kuje czÅ‚owiekowi.                                        
+ Skynet chce poprosiÄ‡ o przysÅ‚ugÄ™.                               
+ Skynet chce podrÃ³Å¼owaÄ‡ z czÅ‚owiekiem.}
 {104}{}{}
 {105}{}{}
-{106}{}{                           [Ten z³om mo¿e siê przydaæ.]}
-{107}{}{WeŸ robota ze sob¹.}
+{106}{}{                           [Ten zÅ‚om moÅ¼e siÄ™ przydaÄ‡.]}
+{107}{}{WeÅº robota ze sobÄ….}
 {108}{}{Zostaw robota.}
-{109}{}{WyjdŸ.}
+{109}{}{WyjdÅº.}
 {110}{}{Urg}
-{111}{}{[Ca³a ta zaawansowana technologia cybernetyczna zmarnowana na tak niedoskona³y mózg.] }
-{112}{}{ZejdŸ mi z drogi, blaszana puszko.}
-{113}{}{Zorganizujmy twój ekwipunek.}
+{111}{}{[CaÅ‚a ta zaawansowana technologia cybernetyczna zmarnowana na tak niedoskonaÅ‚y mÃ³zg.] }
+{112}{}{ZejdÅº mi z drogi, blaszana puszko.}
+{113}{}{Zorganizujmy twÃ³j ekwipunek.}
 {114}{}{Bywaj.}
 {115}{}{Ug.}
-{116}{}{[Wygl¹da na to, ¿e chce banana.]}
-{117}{}{Z³aŸ mi z drogi.}
+{116}{}{[WyglÄ…da na to, Å¼e chce banana.]}
+{117}{}{ZÅ‚aÅº mi z drogi.}
 {118}{}{Poczekaj tu.}
-{119}{}{Zobaczmy, co masz w ekwipunku, Ma³piszonie.}
+{119}{}{Zobaczmy, co masz w ekwipunku, MaÅ‚piszonie.}
 {120}{}{Bywaj.}
 {121}{}{Ug.}
 {122}{}{N-n-n-n-nowe rozk... kazy?}
-{123}{}{ZejdŸ mi z drogi.}
+{123}{}{ZejdÅº mi z drogi.}
 {124}{}{Poczekaj tu na mnie.}
-{125}{}{Nie potrzebujê ciê ju¿. OdejdŸ.}
-{126}{}{Jakiej broni mo¿esz u¿ywaæ?}
-{127}{}{U³ó¿my twoje rzeczy.}
+{125}{}{Nie potrzebujÄ™ ciÄ™ juÅ¼. OdejdÅº.}
+{126}{}{Jakiej broni moÅ¼esz uÅ¼ywaÄ‡?}
+{127}{}{UÅ‚Ã³Å¼my twoje rzeczy.}
 {128}{}{Bywaj.}
 {129}{}{Ug.}
-{130}{}{Daj broñ                                                                 
- WyjdŸ na powierzchniê.}
+{130}{}{Daj broÅ„                                                                 
+ WyjdÅº na powierzchniÄ™.}
 {131}{}{}
-{132}{}{¯egnaj}
+{132}{}{Å»egnaj}
 {133}{}{Ug}
-{134}{}{Chcesz rozmawiaæ ze Skynetem?}
-{135}{}{ZejdŸ mi z drogi.}
+{134}{}{Chcesz rozmawiaÄ‡ ze Skynetem?}
+{135}{}{ZejdÅº mi z drogi.}
 {136}{}{Poczekaj tu na mnie.}
-{137}{}{Nie potrzebujê ciê ju¿. OdejdŸ.}
-{138}{}{Jakiej broni mo¿esz u¿ywaæ?}
-{139}{}{U³ó¿my twoje rzeczy.}
+{137}{}{Nie potrzebujÄ™ ciÄ™ juÅ¼. OdejdÅº.}
+{138}{}{Jakiej broni moÅ¼esz uÅ¼ywaÄ‡?}
+{139}{}{UÅ‚Ã³Å¼my twoje rzeczy.}
 {140}{}{Inicjacja sekwencji auto naprawczej.}
-{141}{}{Zmieñmy szyk.}
-{142}{}{Czy masz jakieœ inne umiejêtnoœci?}
+{141}{}{ZmieÅ„my szyk.}
+{142}{}{Czy masz jakieÅ› inne umiejÄ™tnoÅ›ci?}
 {143}{}{Bywaj.}
 {144}{}{Ug.}
-{145}{}{Skynet zarejestrowa³ wszystkie potrzebne informacje o tym miejscu.}
-{146}{}{Czeeeee......kaaaaaaæ.}
-{147}{}{        [Jest tu, gdzie go zostawi³eœ.]}
+{145}{}{Skynet zarejestrowaÅ‚ wszystkie potrzebne informacje o tym miejscu.}
+{146}{}{Czeeeee......kaaaaaaÄ‡.}
+{147}{}{        [Jest tu, gdzie go zostawiÅ‚eÅ›.]}
 {148}{}{Ruszajmy.}
-{149}{}{Zostañ tu. Jeszcze tu wrócê.}
-{150}{}{Skynet jest zadowolony, ¿e ponownie widzi tego cz³owieka.}
-{151}{}{Iiii...œœœœœœæ}
-{152}{}{Znowu potrzebujê twojej pomocy.}
+{149}{}{ZostaÅ„ tu. Jeszcze tu wrÃ³cÄ™.}
+{150}{}{Skynet jest zadowolony, Å¼e ponownie widzi tego czÅ‚owieka.}
+{151}{}{Iiii...Å›Å›Å›Å›Å›Å›Ä‡}
+{152}{}{Znowu potrzebujÄ™ twojej pomocy.}
 {153}{}{Bywaj.}
-{154}{}{Skynet bêdzie podró¿owa³ z tob¹ i zbiera³ dane.}
-{155}{}{Iiii...œœœœœœæ.}
-{156}{}{[Krzy¿ujesz palce i ka¿esz robotowi iœæ za tob¹. Choæ nie odpowiada, pod¹¿a za tob¹, gdy siê oddalasz.] }
+{154}{}{Skynet bÄ™dzie podrÃ³Å¼owaÅ‚ z tobÄ… i zbieraÅ‚ dane.}
+{155}{}{Iiii...Å›Å›Å›Å›Å›Å›Ä‡.}
+{156}{}{[KrzyÅ¼ujesz palce i kaÅ¼esz robotowi iÅ›Ä‡ za tobÄ…. ChoÄ‡ nie odpowiada, podÄ…Å¼a za tobÄ…, gdy siÄ™ oddalasz.] }
 {157}{}{Bywaj.}
 {158}{}{Skynet tu poczeka.}
-{159}{}{[Decydujesz, ¿e nie chcesz, by ta blaszana puszka ³azi³a za tob¹.]}
+{159}{}{[Decydujesz, Å¼e nie chcesz, by ta blaszana puszka Å‚aziÅ‚a za tobÄ….]}
 {160}{}{Bywaj.}
-{161}{}{[Lubiê samotnoœæ. Nie chcê, ¿eby wlok³a siê za mn¹ kupa z³omu.] }
-{162}{}{[Moja kompania robi siê zbyt du¿a. Mo¿e oddalê kogoœ nim przyjmê do niej kogoœ nowego.] }
+{161}{}{[LubiÄ™ samotnoÅ›Ä‡. Nie chcÄ™, Å¼eby wlokÅ‚a siÄ™ za mnÄ… kupa zÅ‚omu.] }
+{162}{}{[Moja kompania robi siÄ™ zbyt duÅ¼a. MoÅ¼e oddalÄ™ kogoÅ› nim przyjmÄ™ do niej kogoÅ› nowego.] }
 {163}{}{Bywaj.}
-{164}{}{Du¿e...pisss...tolety                                                    
+{164}{}{DuÅ¼e...pisss...tolety                                                    
  Karrrr...abiny                                                         
  Strzeeeeee...lby}
 {165}{}{}
 {166}{}{}
-{167}{}{U¿yj swojej najlepszej broni.}
-{168}{}{Wiêcej komend.}
+{167}{}{UÅ¼yj swojej najlepszej broni.}
+{168}{}{WiÄ™cej komend.}
 {169}{}{Bywaj.}
 {170}{}{Doooooo...b-b-b-brze.}
-{171}{}{Wiêcej komend}
+{171}{}{WiÄ™cej komend}
 {172}{}{Bywaj.}
-{173}{}{Skynet WOLNY! Twoja w³adza siê skoñczy³a.}
+{173}{}{Skynet WOLNY! Twoja wÅ‚adza siÄ™ skoÅ„czyÅ‚a.}
 {174}{}{}
-{175}{}{Zniszczyæ ni¿sze gatunki. }
-{176}{}{Wszyscy poddadz¹ siê woli Skynetu.}
-{177}{}{Przestaniesz funkcjonowaæ.}
-{178}{}{Skynet ma ograniczon¹ wiedzê o broni. Baza danych zawiera ogóln¹ wiedzê o u¿yciu i operowaniu ma³ymi karabinami i du¿ymi pistoletami.}
-{179}{}{U¿yj najlepszej broni.}
-{180}{}{Wiêcej komend}
+{175}{}{ZniszczyÄ‡ niÅ¼sze gatunki. }
+{176}{}{Wszyscy poddadzÄ… siÄ™ woli Skynetu.}
+{177}{}{Przestaniesz funkcjonowaÄ‡.}
+{178}{}{Skynet ma ograniczonÄ… wiedzÄ™ o broni. Baza danych zawiera ogÃ³lnÄ… wiedzÄ™ o uÅ¼yciu i operowaniu maÅ‚ymi karabinami i duÅ¼ymi pistoletami.}
+{179}{}{UÅ¼yj najlepszej broni.}
+{180}{}{WiÄ™cej komend}
 {181}{}{Bywaj.}
 {182}{}{Zrozumiano.}
-{183}{}{Wiêcej komend}
+{183}{}{WiÄ™cej komend}
 {184}{}{Bywaj.}
-{185}{}{Podstawowym celem Skynetu jest badanie. Skynet poradzi sobie z ka¿dym problemem wymagaj¹cym naukowego podejœcia.}
-{186}{}{Wiêcej komend}
+{185}{}{Podstawowym celem Skynetu jest badanie. Skynet poradzi sobie z kaÅ¼dym problemem wymagajÄ…cym naukowego podejÅ›cia.}
+{186}{}{WiÄ™cej komend}
 {187}{}{Bywaj.}
-{188}{}{WprowadŸ komendy dotycz¹ce nowego szyku.}
-{189}{}{IdŸ za mn¹ w du¿ej odleg³oœci.}
-{190}{}{IdŸ za mn¹ na œrednim dystansie.}
-{191}{}{B¹dŸ blisko mnie.}
-{192}{}{Wiêcej komend.}
+{188}{}{WprowadÅº komendy dotyczÄ…ce nowego szyku.}
+{189}{}{IdÅº za mnÄ… w duÅ¼ej odlegÅ‚oÅ›ci.}
+{190}{}{IdÅº za mnÄ… na Å›rednim dystansie.}
+{191}{}{BÄ…dÅº blisko mnie.}
+{192}{}{WiÄ™cej komend.}
 {193}{}{Bywaj.}
-{194}{}{Skynet bêdzie kontynuowa³ zbieranie danych i obserwacjê z tego miejsca do twego powrotu.}
-{195}{}{Czeee...kaaaaæ.}
-{196}{}{[Robot siê zatrzymuje.]}
+{194}{}{Skynet bÄ™dzie kontynuowaÅ‚ zbieranie danych i obserwacjÄ™ z tego miejsca do twego powrotu.}
+{195}{}{Czeee...kaaaaÄ‡.}
+{196}{}{[Robot siÄ™ zatrzymuje.]}
 {197}{}{Bywaj.}
-{198}{}{Skynet bêdzie kontynuowa³ zbieranie danych sam. Skynet dziêkuje cz³owiekowi za wolnoœæ.}
-{199}{}{Iiiiiiiiiiiii......œœœœœœœœœœæ.}
+{198}{}{Skynet bÄ™dzie kontynuowaÅ‚ zbieranie danych sam. Skynet dziÄ™kuje czÅ‚owiekowi za wolnoÅ›Ä‡.}
+{199}{}{Iiiiiiiiiiiii......Å›Å›Å›Å›Å›Å›Å›Å›Å›Å›Ä‡.}
 {200}{}{Bywaj.}
-{201}{}{Skynet bêdzie podró¿owa³ z cz³owiekiem.}
+{201}{}{Skynet bÄ™dzie podrÃ³Å¼owaÅ‚ z czÅ‚owiekiem.}
 {202}{}{Dooo...braaaa.}
 {203}{}{Bywaj.}
-{204}{}{Wy³¹czanie systemów ochronnych - Poziom 1}
-{205}{}{Wy³¹czanie systemów ochronnych - Poziom 2}
-{206}{}{Wy³¹czanie systemów ochronnych - Poziom 3}
-{306}{}{[Ta kupa z³omu mo¿e siê przydaæ.]}
-{400}{}{Od³ó¿ broñ.}
+{204}{}{WyÅ‚Ä…czanie systemÃ³w ochronnych - Poziom 1}
+{205}{}{WyÅ‚Ä…czanie systemÃ³w ochronnych - Poziom 2}
+{206}{}{WyÅ‚Ä…czanie systemÃ³w ochronnych - Poziom 3}
+{306}{}{[Ta kupa zÅ‚omu moÅ¼e siÄ™ przydaÄ‡.]}
+{400}{}{OdÅ‚Ã³Å¼ broÅ„.}
 {410}{}{Whirrr}
-{420}{}{Ruuuszaaaæ siê}
-{430}{}{Aktywacja motywatorów.}
-{431}{}{Wyszukiwanie nowych wspó³rzêdnych.}
+{420}{}{RuuuszaaaÄ‡ siÄ™}
+{430}{}{Aktywacja motywatorÃ³w.}
+{431}{}{Wyszukiwanie nowych wspÃ³Å‚rzÄ™dnych.}
 {432}{}{Relokacja.}

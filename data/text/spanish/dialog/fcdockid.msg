@@ -3,15 +3,15 @@
 {102}{}{Ves a un chico.}
 {103}{}{No me gusta este lugar.}
 {104}{}{En la playa hay un pez muerto, grande y que huele mal.}
-{105}{}{¡Eww! ¿Qué es eso?}
-{106}{}{El aire huele raro aquí.}
-{107}{}{¿Quieres ir a nadar?}
+{105}{}{Â¡Eww! Â¿QuÃ© es eso?}
+{106}{}{El aire huele raro aquÃ­.}
+{107}{}{Â¿Quieres ir a nadar?}
 {108}{}{Voy a ir a jugar.}
-{109}{}{¿Dónde está mi mamá?}
-{110}{}{¡Vivimos en la playa!}
+{109}{}{Â¿DÃ³nde estÃ¡ mi mamÃ¡?}
+{110}{}{Â¡Vivimos en la playa!}
 {111}{}{Me abuuuuuro.}
-{112}{}{¡Eeeee!}
-{113}{}{¡Ayuda!}
-{114}{}{¡Oh, no! ¡El hombre del saco!}
-{115}{}{¡Mamaaaaaaaaaaaaaaaaaaaa!}
-{116}{}{¡Corred! ¡Es un monstruo!}
+{112}{}{Â¡Eeeee!}
+{113}{}{Â¡Ayuda!}
+{114}{}{Â¡Oh, no! Â¡El hombre del saco!}
+{115}{}{Â¡Mamaaaaaaaaaaaaaaaaaaaa!}
+{116}{}{Â¡Corred! Â¡Es un monstruo!}

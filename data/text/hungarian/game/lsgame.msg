@@ -1,27 +1,27 @@
-{100}{}{BETÖLTÉS}
-{101}{}{GYORSTÖLTÉS HELYE:}
-{102}{}{KIMENTÉS}
-{103}{}{GYORSMENTÉS HELYE:}
-{104}{}{KÉSZ}
-{105}{}{MÉGSE}
-{106}{}{Hiba a mentett állások listájának betöltésekor!}
-{107}{}{Mentett állások könyvtára:}
-{108}{}{Nem létezik vagy sérült.}
-{109}{}{KIMENTÉS}
-{110}{}{BETÖLTÉS}
-{111}{}{- ÜRES -}
-{112}{}{- SÉRÜLT FÁJL -}
-{113}{}{- RÉGI VERZIÓ -}
-{114}{}{Üres.}
+{100}{}{BETÃ–LTÃ‰S}
+{101}{}{GYORSTÃ–LTÃ‰S HELYE:}
+{102}{}{KIMENTÃ‰S}
+{103}{}{GYORSMENTÃ‰S HELYE:}
+{104}{}{KÃ‰SZ}
+{105}{}{MÃ‰GSE}
+{106}{}{Hiba a mentett Ã¡llÃ¡sok listÃ¡jÃ¡nak betÃ¶ltÃ©sekor!}
+{107}{}{Mentett Ã¡llÃ¡sok kÃ¶nyvtÃ¡ra:}
+{108}{}{Nem lÃ©tezik vagy sÃ©rÃ¼lt.}
+{109}{}{KIMENTÃ‰S}
+{110}{}{BETÃ–LTÃ‰S}
+{111}{}{- ÃœRES -}
+{112}{}{- SÃ‰RÃœLT FÃJL -}
+{113}{}{- RÃ‰GI VERZIÃ“ -}
+{114}{}{Ãœres.}
 {115}{}{Hiba!}
-{116}{}{Régi verzió.}
+{116}{}{RÃ©gi verziÃ³.}
 {117}{}{JAN}
 {118}{}{FEB}
-{119}{}{MÁR}
-{120}{}{ÁPR}
-{121}{}{MÁJ}
-{122}{}{JÚN}
-{123}{}{JÚL}
+{119}{}{MÃR}
+{120}{}{ÃPR}
+{121}{}{MÃJ}
+{122}{}{JÃšN}
+{123}{}{JÃšL}
 {124}{}{AUG}
 {125}{}{SZE}
 {126}{}{OKT}
@@ -29,14 +29,14 @@
 {128}{}{DEC}
 {129}{}{Szint}
 {130}{}{Info}
-{131}{}{Már létezik, felülírod?}
-{132}{}{Hiba mentés közben!}
-{133}{}{Sikertelen mentés.}
-{134}{}{Hiba a betöltésben!}
-{135}{}{Sikertelen betöltés.}
-{136}{}{A mentett fájl régebbi verziójú.}
-{137}{}{Térkép}
-{140}{}{Játék elmentve.}
-{141}{}{Játék betöltve.}
+{131}{}{MÃ¡r lÃ©tezik, felÃ¼lÃ­rod?}
+{132}{}{Hiba mentÃ©s kÃ¶zben!}
+{133}{}{Sikertelen mentÃ©s.}
+{134}{}{Hiba a betÃ¶ltÃ©sben!}
+{135}{}{Sikertelen betÃ¶ltÃ©s.}
+{136}{}{A mentett fÃ¡jl rÃ©gebbi verziÃ³jÃº.}
+{137}{}{TÃ©rkÃ©p}
+{140}{}{JÃ¡tÃ©k elmentve.}
+{141}{}{JÃ¡tÃ©k betÃ¶ltve.}
 {200}{}{Sorry you can't save or load}
 {201}{}{in the demo version.}

@@ -27,5 +27,5 @@
 {120}{}{Ook?}
 {121}{}{I'm sorry to lose Ben Wade. He was a good man and a hard one to replace. My name's Ferndown, and
  I'll take care of what we owe you.}
-{122}{}{Hã, valeu.}
+{122}{}{HÃ£, valeu.}
 {123}{}{Too bad for Ben Wade, he was a good man.}

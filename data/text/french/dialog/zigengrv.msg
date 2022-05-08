@@ -1,115 +1,115 @@
 {100}{}{Tu vois une tombe.}
 {101}{}{Tu vois une tombe ouverte.}
 {102}{}{C'est un tombeau.}
-{103}{}{Ce tombeau a été ouvert.}
-{150}{}{Le tombeau a été refermé.}
-{151}{}{Le tombeau a été ouvert.}
+{103}{}{Ce tombeau a Ã©tÃ© ouvert.}
+{150}{}{Le tombeau a Ã©tÃ© refermÃ©.}
+{151}{}{Le tombeau a Ã©tÃ© ouvert.}
 {200}{}{Tu vois une pierre tombale.}
-{201}{}{Tu vois une épitaphe.}
+{201}{}{Tu vois une Ã©pitaphe.}
 {250}{}{Il n'y a aucune inscription sur cette pierre tombale.}
-{251}{}{Le nom a été effacé de la pierre tombale.}
+{251}{}{Le nom a Ã©tÃ© effacÃ© de la pierre tombale.}
 {252}{}{Le nom inscrit sur la pierre tombale est Roger Rate.}
-{253}{}{Le nom et la date sur cette pierre tombale ont été effacés par les intempéries.}
-{260}{}{Il n'y a aucune inscription sur cette stèle.}
-{261}{}{Le nom inscrit sur la stèle a été effacé.}
-{262}{}{Le nom inscrit sur la stèle est Roger Rate.}
-{263}{}{Le nom et la date sur cette pierre tombale ont été effacés par les intempéries.}
+{253}{}{Le nom et la date sur cette pierre tombale ont Ã©tÃ© effacÃ©s par les intempÃ©ries.}
+{260}{}{Il n'y a aucune inscription sur cette stÃ¨le.}
+{261}{}{Le nom inscrit sur la stÃ¨le a Ã©tÃ© effacÃ©.}
+{262}{}{Le nom inscrit sur la stÃ¨le est Roger Rate.}
+{263}{}{Le nom et la date sur cette pierre tombale ont Ã©tÃ© effacÃ©s par les intempÃ©ries.}
 {275}{}{La pierre tombale indique : }
-{276}{}{La stèle indique : }
-{300}{}{« Ici repose Chris Avellone, roi de la piste de danse. »}
-{301}{}{« Chris Jones. »}
-{302}{}{« Christopher Michael Holland, dit « Chris Holland », dit « Chris » : Il existe deux raisons et demi de lire cette pierre tombale. Normalement ces raisons devraient être indiquées. »}
-{303}{}{« Colin McComb : Encore une vie inutile »}
-{304}{}{« David Hendee : Le plus bruyant parmi les morts. Puisse-t-il dormir en paix et en silence. »}
-{305}{}{« Eddie Hyland : Il disait à tout le monde d'aller se faire voir. »}
-{306}{}{« Eric Demilt : Le vrai combattant. »}
-{307}{}{« Feargus Urquhart : A juste fait une liste de trop. »}
-{308}{}{« Fred Hatch : Est mort pendant l'enregistrement audio des voix de Myron. »}
-{309}{}{« Gary Platner : Il n'avait qu'à faire plus de modèles d'habitants pour la cité de l'Abri. »}
-{310}{}{« Jason Anderson : Il n'est plus un dieu vivant. »}
-{311}{}{« Jason G. Suinn. »}
-{312}{}{« Jason Taylor. »}
-{313}{}{« Jeremy Barnes : Le singe chauve de l'Ile Noire. »}
-{314}{}{« Jesse Reynolds. »}
-{315}{}{« John Deiley. »}
-{316}{}{« John Price. »}
-{317}{}{« Leonard Boyarski : Exilé de la cité de l'Abri. »}
-{318}{}{« Rupert Dinkos, mort l'hiver 2000. »}
-{319}{}{« Matt Norton : Il aurait pu devenir quelqu'un. Il aurait pu être un gagnant au lieu d'un clochard. »}
-{320}{}{« Nick Kesting. » [Sur la pierre, il y a un petit seau rempli de fausses pièces jaunes.]}
-{321}{}{« Robert Collier : Silence. Mortel. Rob. »}
-{322}{}{« Robert Hertenstein 2 : Son médecin a essayé de le prévenir, mais il a insisté : « Je ne veux pas savoir. » »}
-{323}{}{« Scott Campbell : Pas comme la soupe. »}
-{324}{}{« Ici repose Scott Everts. Scott était tout feu, tout flamme. Feu Scott. »}
-{325}{}{« Scott Rodenhizer : Spécialiste des têtes en 3D. »}
-{326}{}{« Thomas French : Est mort en essayant de maîtriser la guillotine volante. »}
-{327}{}{« Tim Cain : Fondateur. Amant. Combattant. Programmeur. »}
-{328}{}{« Tramell Ray Isaac : Ici repose l'un des plus grands travailleurs dans ce domaine. Animateur extraordinaire. Je pense. Repose en paix T.Ray. »}
-{329}{}{« Zeb : Toujours plus vieux que tout. »}
-{330}{}{« Dennis Presnell : On l'entend presque d'ici : Vous appelez ça des funérailles ?!! Ca craint ! Vous n'êtes que des trous du Q ! C'est la dernière fois que je meurs ! Bla bla bla... En dessous sont gravés les mots : ce con a oublié de porter ses verres correcteurs un jour, alors on l'a corrigé nous-mêmes. Que Dieu puisse donner la paix à Dennis le Râleur. »}
-{331}{}{« Rupert Diukos, mort le 24/9/96 »}
-{332}{}{« Sal De Ban, mort le 24/9/96 »}
-{333}{}{« Greg Zeschule, automne 99 »}
-{334}{}{« Ray Muzyka, été 98 »}
-{335}{}{« Evan Chantland, 1974-? : C'était pas de la parano, ils en avaient bien après lui. »}
-{336}{}{« Ci-gît Fred : Froid et mort. On l'a trouvé dehors, mais sans sa tête. »}
-{337}{}{« Marina Bermon. »}
-{338}{}{« Stephen Bokkes, âge : 25 ans. Fauché dans la fleur de l'âge par la fronde et les flèches d'une fortune outrageante. » }
-{339}{}{« Ici repose Doug 'Skully' Finch (la date importe peu). Tué pour avoir fumé au marché français. Derniers mots : allez vous faire voir ! »}
-{340}{}{« Ci-gît Donnie Cornwell, bel et bien mort. Dans un grand cercueil car il avait une grosse tête. »}
-{341}{}{« Rob Giampa a vécu sa vie comme il a aimé ses femmes : rapides, bon marché et faciles. »}
-{342}{}{« T. D. Hamilton : ci-gît une vieille binette qui aurait dû mourir il y a belle lurette. Repose en enfer, SALOPE ! »}
-{343}{}{« Une autre victime des délais serrés. »}
-{344}{}{« Chien fou est mort. Vive le Chien. »}
-{345}{}{« Gérard Fayot : Trop compétitif »}
-{346}{}{« Fais-tu quelque chose d'utile de ta vie ? »}
-{347}{}{« Pourquoi ne pas te suicider et éviter ainsi à quelqu'un d'avoir à te tuer ? »}
-{348}{}{« Charles Cuevas : Il a dit un jour : "donne-moi tout ou donne-moi la mort.", il n'a pas dû avoir grand-chose. »}
-{349}{}{« William Lebus. »}
-{350}{}{« Reg Arnedo : On peut encore entendre sa voix dans les couloirs. »}
-{351}{}{« Shanna SanPaolo. »}
-{352}{}{« Gardien de Brahmine. »}
-{353}{}{« Josh Walters, 1971-2011 : Mort des complications de sa cinquième greffe du foie. »}
-{354}{}{« Doug Avery : La guerre a détruit sa vie de patachon. »}
-{355}{}{« Ci-gît Ezekial Aikle, âge : 102 ans. Ce sont toujours les meilleurs qui s'en vont les premiers. »}
-{356}{}{« Ci-gît Ann Garresson : A vécu comme une vieille fille mais est morte comme un vieux garçon. 8 déc. 1767. »}
-{357}{}{« Les enfants d'Israël voulaient du pain et le Seigneur leur a envoyé la manne, le vieux Wallace voulait une femme et le diable lui a envoyé Anne. »}
-{358}{}{« Ci-gît Johnny Levure. Pardon de ne pas me lever. »}
-{359}{}{« Ci-gît le corps de Jean Kein pour n'avoir pas su trouver le frein. »}
-{360}{}{« Ci-gît Butch, nous l'avons planté là. Il était rapide de la gâchette, mais pas fort du bras droit. »}
-{361}{}{« A la mémoire de mon mari, John Barnes, mort le 3 janvier 1803. Sa jeune et bienséante veuve, âgée de 23 ans, a toutes les qualités d'une femme parfaite et se languit d'être réconfortée. »}
-{362}{}{« Ci-gît Monsieur John Etrange, un honnête avocat et ça, c'est étrange. »}
-{363}{}{« J'étais quelqu'un. Qui, ça ne te regarde pas. »}
-{364}{}{« Ci-gît Lester Moins, quatre balles d'un calibre 44, ni plus ni moins. »}
-{365}{}{« Je vous avais dit que j'étais malade ! »}
-{366}{}{« Visiteur, si d'un peu d'argent tu as envie, creuse maintenant et tu trouveras un Penny. »}
-{367}{}{« Elle a toujours dit que ses pieds la tuaient et personne ne l'a jamais crue. »}
-{368}{}{« Le 22 janvier, Julien Crincrin, s'est désaccordé. »}
-{369}{}{« Ci-gît le corps de notre Anne tuée par une banane. Ce n'est pas le fruit qui a eu sa peau, mais c'est sur la peau qu'elle s'est brisée les os. »}
-{370}{}{« Parti Omar Plus, qu'il ne pouvait se payer. »}
-{371}{}{« A la mémoire du petit Chris Bois. Ci-gît un bois dans un autre. Ce dernier est très bon, ce qu'on ne pouvait pas dire de l'autre. »}
-{372}{}{« Ci-gît Jean Pois, enterré sans sa cosse. Le Pois s'est cassé, il est allé trouver Dieu. »}
-{373}{}{« Qui a été mortellement brûlé le 21 mars 1870 par l'explosion d'une lampe remplie de *fluide non explosif de R.E. Danforth*. »}
-{374}{}{« Né en 1903 - Mort en 1942. A regardé par la cage pour voir si l'ascenseur arrivait. Il est arrivé. »}
-{375}{}{« Ci-gît un athée habillé pour sortir mais n'ayant nulle part où aller. »}
-{376}{}{« Carine Prosais : Est allée à l'université de droit W&M, maintenant c'est Carine Procès. »}
-{377}{}{« Sarah Smart : Orateur, auteur, professeur. De Amicitia. »}
-{378}{}{« Tim Winkle : Je ne tolère aucune hypocrisie sauf la mienne. »}
-{379}{}{« Jean Pichet : Roi de l'univers de la Reine Archie. »}
-{380}{}{« Ici repose Casey Donahue tué le 6/8/98 par un mutant nommé *loup de mer grincheux*. »}
-{381}{}{« Christopher *Nightwing* Jones : Administrateur des fameux coups de boules saignants. »}
-{382}{}{« Jay Nielson, dit *pied de patate*. Musicien. Est mort à l'âge de 104 ans, en exécutant un solo de batterie. »}
-{383}{}{« Nitsa : La raison pour laquelle Charles n'a pas été chanceux. »}
-{384}{}{« Thuy Dang. Puisse Dieu avoir pitié de lui. »}
-{500}{}{Tu installes habilement un piège dans la tombe.}
-{501}{}{Tu ne réussis pas à installer de piège dans la tombe.}
-{510}{}{ installe habilement un piège dans la tombe.}
-{511}{}{ ne réussit pas à installer de piège dans la tombe.}
-{515}{}{Tu trouves un piège dans la tombe.}
-{516}{}{Tu ne trouves pas de piège dans la tombe.}
-{520}{}{ trouve un piège dans la tombe.}
-{521}{}{ ne trouve pas de piège dans la tombe.}
-{525}{}{Tu désamorces adroitement le piège.}
-{526}{}{Tu ne parviens pas à désarmer le piège.}
-{530}{}{ désactive adroitement le piège.}
-{531}{}{ ne réussit pas à désamorcer le piège.}
+{276}{}{La stÃ¨le indique : }
+{300}{}{Â« Ici repose Chris Avellone, roi de la piste de danse. Â»}
+{301}{}{Â« Chris Jones. Â»}
+{302}{}{Â« Christopher Michael Holland, dit Â« Chris Holland Â», dit Â« Chris Â» : Il existe deux raisons et demi de lire cette pierre tombale. Normalement ces raisons devraient Ãªtre indiquÃ©es. Â»}
+{303}{}{Â« Colin McComb : Encore une vie inutile Â»}
+{304}{}{Â« David Hendee : Le plus bruyant parmi les morts. Puisse-t-il dormir en paix et en silence. Â»}
+{305}{}{Â« Eddie Hyland : Il disait Ã  tout le monde d'aller se faire voir. Â»}
+{306}{}{Â« Eric Demilt : Le vrai combattant. Â»}
+{307}{}{Â« Feargus Urquhart : A juste fait une liste de trop. Â»}
+{308}{}{Â« Fred Hatch : Est mort pendant l'enregistrement audio des voix de Myron. Â»}
+{309}{}{Â« Gary Platner : Il n'avait qu'Ã  faire plus de modÃ¨les d'habitants pour la citÃ© de l'Abri. Â»}
+{310}{}{Â« Jason Anderson : Il n'est plus un dieu vivant. Â»}
+{311}{}{Â« Jason G. Suinn. Â»}
+{312}{}{Â« Jason Taylor. Â»}
+{313}{}{Â« Jeremy Barnes : Le singe chauve de l'Ile Noire. Â»}
+{314}{}{Â« Jesse Reynolds. Â»}
+{315}{}{Â« John Deiley. Â»}
+{316}{}{Â« John Price. Â»}
+{317}{}{Â« Leonard Boyarski : ExilÃ© de la citÃ© de l'Abri. Â»}
+{318}{}{Â« Rupert Dinkos, mort l'hiver 2000. Â»}
+{319}{}{Â« Matt Norton : Il aurait pu devenir quelqu'un. Il aurait pu Ãªtre un gagnant au lieu d'un clochard. Â»}
+{320}{}{Â« Nick Kesting. Â» [Sur la pierre, il y a un petit seau rempli de fausses piÃ¨ces jaunes.]}
+{321}{}{Â« Robert Collier : Silence. Mortel. Rob. Â»}
+{322}{}{Â« Robert Hertenstein 2 : Son mÃ©decin a essayÃ© de le prÃ©venir, mais il a insistÃ© : Â« Je ne veux pas savoir. Â» Â»}
+{323}{}{Â« Scott Campbell : Pas comme la soupe. Â»}
+{324}{}{Â« Ici repose Scott Everts. Scott Ã©tait tout feu, tout flamme. Feu Scott. Â»}
+{325}{}{Â« Scott Rodenhizer : SpÃ©cialiste des tÃªtes en 3D. Â»}
+{326}{}{Â« Thomas French : Est mort en essayant de maÃ®triser la guillotine volante. Â»}
+{327}{}{Â« Tim Cain : Fondateur. Amant. Combattant. Programmeur. Â»}
+{328}{}{Â« Tramell Ray Isaac : Ici repose l'un des plus grands travailleurs dans ce domaine. Animateur extraordinaire. Je pense. Repose en paix T.Ray. Â»}
+{329}{}{Â« Zeb : Toujours plus vieux que tout. Â»}
+{330}{}{Â« Dennis Presnell : On l'entend presque d'ici : Vous appelez Ã§a des funÃ©railles ?!! Ca craint ! Vous n'Ãªtes que des trous du Q ! C'est la derniÃ¨re fois que je meurs ! Bla bla bla... En dessous sont gravÃ©s les mots : ce con a oubliÃ© de porter ses verres correcteurs un jour, alors on l'a corrigÃ© nous-mÃªmes. Que Dieu puisse donner la paix Ã  Dennis le RÃ¢leur. Â»}
+{331}{}{Â« Rupert Diukos, mort le 24/9/96 Â»}
+{332}{}{Â« Sal De Ban, mort le 24/9/96 Â»}
+{333}{}{Â« Greg Zeschule, automne 99 Â»}
+{334}{}{Â« Ray Muzyka, Ã©tÃ© 98 Â»}
+{335}{}{Â« Evan Chantland, 1974-? : C'Ã©tait pas de la parano, ils en avaient bien aprÃ¨s lui. Â»}
+{336}{}{Â« Ci-gÃ®t Fred : Froid et mort. On l'a trouvÃ© dehors, mais sans sa tÃªte. Â»}
+{337}{}{Â« Marina Bermon. Â»}
+{338}{}{Â« Stephen Bokkes, Ã¢ge : 25 ans. FauchÃ© dans la fleur de l'Ã¢ge par la fronde et les flÃ¨ches d'une fortune outrageante. Â» }
+{339}{}{Â« Ici repose Doug 'Skully' Finch (la date importe peu). TuÃ© pour avoir fumÃ© au marchÃ© franÃ§ais. Derniers mots : allez vous faire voir ! Â»}
+{340}{}{Â« Ci-gÃ®t Donnie Cornwell, bel et bien mort. Dans un grand cercueil car il avait une grosse tÃªte. Â»}
+{341}{}{Â« Rob Giampa a vÃ©cu sa vie comme il a aimÃ© ses femmes : rapides, bon marchÃ© et faciles. Â»}
+{342}{}{Â« T. D. Hamilton : ci-gÃ®t une vieille binette qui aurait dÃ» mourir il y a belle lurette. Repose en enfer, SALOPE ! Â»}
+{343}{}{Â« Une autre victime des dÃ©lais serrÃ©s. Â»}
+{344}{}{Â« Chien fou est mort. Vive le Chien. Â»}
+{345}{}{Â« GÃ©rard Fayot : Trop compÃ©titif Â»}
+{346}{}{Â« Fais-tu quelque chose d'utile de ta vie ? Â»}
+{347}{}{Â« Pourquoi ne pas te suicider et Ã©viter ainsi Ã  quelqu'un d'avoir Ã  te tuer ? Â»}
+{348}{}{Â« Charles Cuevas : Il a dit un jour : "donne-moi tout ou donne-moi la mort.", il n'a pas dÃ» avoir grand-chose. Â»}
+{349}{}{Â« William Lebus. Â»}
+{350}{}{Â« Reg Arnedo : On peut encore entendre sa voix dans les couloirs. Â»}
+{351}{}{Â« Shanna SanPaolo. Â»}
+{352}{}{Â« Gardien de Brahmine. Â»}
+{353}{}{Â« Josh Walters, 1971-2011 : Mort des complications de sa cinquiÃ¨me greffe du foie. Â»}
+{354}{}{Â« Doug Avery : La guerre a dÃ©truit sa vie de patachon. Â»}
+{355}{}{Â« Ci-gÃ®t Ezekial Aikle, Ã¢ge : 102 ans. Ce sont toujours les meilleurs qui s'en vont les premiers. Â»}
+{356}{}{Â« Ci-gÃ®t Ann Garresson : A vÃ©cu comme une vieille fille mais est morte comme un vieux garÃ§on. 8 dÃ©c. 1767. Â»}
+{357}{}{Â« Les enfants d'IsraÃ«l voulaient du pain et le Seigneur leur a envoyÃ© la manne, le vieux Wallace voulait une femme et le diable lui a envoyÃ© Anne. Â»}
+{358}{}{Â« Ci-gÃ®t Johnny Levure. Pardon de ne pas me lever. Â»}
+{359}{}{Â« Ci-gÃ®t le corps de Jean Kein pour n'avoir pas su trouver le frein. Â»}
+{360}{}{Â« Ci-gÃ®t Butch, nous l'avons plantÃ© lÃ . Il Ã©tait rapide de la gÃ¢chette, mais pas fort du bras droit. Â»}
+{361}{}{Â« A la mÃ©moire de mon mari, John Barnes, mort le 3 janvier 1803. Sa jeune et biensÃ©ante veuve, Ã¢gÃ©e de 23 ans, a toutes les qualitÃ©s d'une femme parfaite et se languit d'Ãªtre rÃ©confortÃ©e. Â»}
+{362}{}{Â« Ci-gÃ®t Monsieur John Etrange, un honnÃªte avocat et Ã§a, c'est Ã©trange. Â»}
+{363}{}{Â« J'Ã©tais quelqu'un. Qui, Ã§a ne te regarde pas. Â»}
+{364}{}{Â« Ci-gÃ®t Lester Moins, quatre balles d'un calibre 44, ni plus ni moins. Â»}
+{365}{}{Â« Je vous avais dit que j'Ã©tais malade ! Â»}
+{366}{}{Â« Visiteur, si d'un peu d'argent tu as envie, creuse maintenant et tu trouveras un Penny. Â»}
+{367}{}{Â« Elle a toujours dit que ses pieds la tuaient et personne ne l'a jamais crue. Â»}
+{368}{}{Â« Le 22 janvier, Julien Crincrin, s'est dÃ©saccordÃ©. Â»}
+{369}{}{Â« Ci-gÃ®t le corps de notre Anne tuÃ©e par une banane. Ce n'est pas le fruit qui a eu sa peau, mais c'est sur la peau qu'elle s'est brisÃ©e les os. Â»}
+{370}{}{Â« Parti Omar Plus, qu'il ne pouvait se payer. Â»}
+{371}{}{Â« A la mÃ©moire du petit Chris Bois. Ci-gÃ®t un bois dans un autre. Ce dernier est trÃ¨s bon, ce qu'on ne pouvait pas dire de l'autre. Â»}
+{372}{}{Â« Ci-gÃ®t Jean Pois, enterrÃ© sans sa cosse. Le Pois s'est cassÃ©, il est allÃ© trouver Dieu. Â»}
+{373}{}{Â« Qui a Ã©tÃ© mortellement brÃ»lÃ© le 21 mars 1870 par l'explosion d'une lampe remplie de *fluide non explosif de R.E. Danforth*. Â»}
+{374}{}{Â« NÃ© en 1903 - Mort en 1942. A regardÃ© par la cage pour voir si l'ascenseur arrivait. Il est arrivÃ©. Â»}
+{375}{}{Â« Ci-gÃ®t un athÃ©e habillÃ© pour sortir mais n'ayant nulle part oÃ¹ aller. Â»}
+{376}{}{Â« Carine Prosais : Est allÃ©e Ã  l'universitÃ© de droit W&M, maintenant c'est Carine ProcÃ¨s. Â»}
+{377}{}{Â« Sarah Smart : Orateur, auteur, professeur. De Amicitia. Â»}
+{378}{}{Â« Tim Winkle : Je ne tolÃ¨re aucune hypocrisie sauf la mienne. Â»}
+{379}{}{Â« Jean Pichet : Roi de l'univers de la Reine Archie. Â»}
+{380}{}{Â« Ici repose Casey Donahue tuÃ© le 6/8/98 par un mutant nommÃ© *loup de mer grincheux*. Â»}
+{381}{}{Â« Christopher *Nightwing* Jones : Administrateur des fameux coups de boules saignants. Â»}
+{382}{}{Â« Jay Nielson, dit *pied de patate*. Musicien. Est mort Ã  l'Ã¢ge de 104 ans, en exÃ©cutant un solo de batterie. Â»}
+{383}{}{Â« Nitsa : La raison pour laquelle Charles n'a pas Ã©tÃ© chanceux. Â»}
+{384}{}{Â« Thuy Dang. Puisse Dieu avoir pitiÃ© de lui. Â»}
+{500}{}{Tu installes habilement un piÃ¨ge dans la tombe.}
+{501}{}{Tu ne rÃ©ussis pas Ã  installer de piÃ¨ge dans la tombe.}
+{510}{}{ installe habilement un piÃ¨ge dans la tombe.}
+{511}{}{ ne rÃ©ussit pas Ã  installer de piÃ¨ge dans la tombe.}
+{515}{}{Tu trouves un piÃ¨ge dans la tombe.}
+{516}{}{Tu ne trouves pas de piÃ¨ge dans la tombe.}
+{520}{}{ trouve un piÃ¨ge dans la tombe.}
+{521}{}{ ne trouve pas de piÃ¨ge dans la tombe.}
+{525}{}{Tu dÃ©samorces adroitement le piÃ¨ge.}
+{526}{}{Tu ne parviens pas Ã  dÃ©sarmer le piÃ¨ge.}
+{530}{}{ dÃ©sactive adroitement le piÃ¨ge.}
+{531}{}{ ne rÃ©ussit pas Ã  dÃ©samorcer le piÃ¨ge.}

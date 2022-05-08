@@ -1,96 +1,96 @@
-{100}{}{Widzisz dwuno¿nego osobnika p³ci mêskiej, nale¿¹cego do gatunku cz³owiek.}
-{101}{}{Widzisz mieszkañca miasta p³ci mêskiej.}
-{102}{}{Widzisz mieszkañca miasta p³ci mêskiej. Jest brudny, ale g³owê trzyma podniesion¹.}
-{131}{}{Wszyscy mutanci... martwi... nie mogê w to uwierzyæ.}
-{132}{}{Kto móg³by zrobiæ coœ takiego?}
-{133}{}{Sk¹d siê wziê³a ta trucizna?}
-{134}{}{Bez mutantów bêdziemy potrzebowaæ ochrony RNK.}
-{135}{}{Chcê zemœciæ siê na draniach, którzy to zrobili.}
-{136}{}{Kogo by tu zabiæ w odwecie?}
-{137}{}{Czy RNK ma armiê? Kto nas teraz ochroni?}
-{138}{}{Teraz ju¿ chyba nie musimy siê martwiæ groŸb¹ mutanckiej rewolucji...}
+{100}{}{Widzisz dwunoÅ¼nego osobnika pÅ‚ci mÄ™skiej, naleÅ¼Ä…cego do gatunku czÅ‚owiek.}
+{101}{}{Widzisz mieszkaÅ„ca miasta pÅ‚ci mÄ™skiej.}
+{102}{}{Widzisz mieszkaÅ„ca miasta pÅ‚ci mÄ™skiej. Jest brudny, ale gÅ‚owÄ™ trzyma podniesionÄ….}
+{131}{}{Wszyscy mutanci... martwi... nie mogÄ™ w to uwierzyÄ‡.}
+{132}{}{Kto mÃ³gÅ‚by zrobiÄ‡ coÅ› takiego?}
+{133}{}{SkÄ…d siÄ™ wziÄ™Å‚a ta trucizna?}
+{134}{}{Bez mutantÃ³w bÄ™dziemy potrzebowaÄ‡ ochrony RNK.}
+{135}{}{ChcÄ™ zemÅ›ciÄ‡ siÄ™ na draniach, ktÃ³rzy to zrobili.}
+{136}{}{Kogo by tu zabiÄ‡ w odwecie?}
+{137}{}{Czy RNK ma armiÄ™? Kto nas teraz ochroni?}
+{138}{}{Teraz juÅ¼ chyba nie musimy siÄ™ martwiÄ‡ groÅºbÄ… mutanckiej rewolucji...}
 {139}{}{Biedny Marcus... kto nas teraz poprowadzi?}
-{147}{}{Czy nigdzie ju¿ teraz nie jest bezpiecznie?}
-{148}{}{Od kiedy mordobicia sta³y siê tak powszechne?}
-{149}{}{Myœlê o przeprowadzce... nie jest tu ju¿ d³u¿ej bezpiecznie.}
-{150}{}{S³ysza³am, ¿e Franc i Manson naprawdê nienawidz¹ mutantów.}
-{151}{}{Cieszê siê, ¿e wydostali siê... Ciekawe, gdzie s¹ teraz.}
-{152}{}{Franc i Manson s¹ z³em. To miasto nigdy nie bêdzie takie same, dopóki ich nie z³api¹.}
-{153}{}{Kto móg³ zabiæ tych stra¿ników? To takie nieludzkie.}
-{154}{}{Nie mogê uwierzyæ, ¿e kiedyœ to miasto by³o takie spokojne.}
-{155}{}{Jak uda³o ci siê przekonaæ stra¿ników, aby wypuœcili tych dwóch drani?}
-{156}{}{Dziêki za uwolnienie Franca i Mansona. Oni nie sprawiali przecie¿ ¿adnych prawdziwych k³opotów.}
-{157}{}{Gdzie s¹ teraz Franc i Manson? Oni naprawdê powinni wróciæ do wiêzienia.}
-{158}{}{Niektórzy z moich najlepszych przyjació³ s¹ mutantami i ghulami...}
-{159}{}{Gdybyœmy tak mieli trochê wiêcej ¿arówek.}
+{147}{}{Czy nigdzie juÅ¼ teraz nie jest bezpiecznie?}
+{148}{}{Od kiedy mordobicia staÅ‚y siÄ™ tak powszechne?}
+{149}{}{MyÅ›lÄ™ o przeprowadzce... nie jest tu juÅ¼ dÅ‚uÅ¼ej bezpiecznie.}
+{150}{}{SÅ‚yszaÅ‚am, Å¼e Franc i Manson naprawdÄ™ nienawidzÄ… mutantÃ³w.}
+{151}{}{CieszÄ™ siÄ™, Å¼e wydostali siÄ™... Ciekawe, gdzie sÄ… teraz.}
+{152}{}{Franc i Manson sÄ… zÅ‚em. To miasto nigdy nie bÄ™dzie takie same, dopÃ³ki ich nie zÅ‚apiÄ….}
+{153}{}{Kto mÃ³gÅ‚ zabiÄ‡ tych straÅ¼nikÃ³w? To takie nieludzkie.}
+{154}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e kiedyÅ› to miasto byÅ‚o takie spokojne.}
+{155}{}{Jak udaÅ‚o ci siÄ™ przekonaÄ‡ straÅ¼nikÃ³w, aby wypuÅ›cili tych dwÃ³ch drani?}
+{156}{}{DziÄ™ki za uwolnienie Franca i Mansona. Oni nie sprawiali przecieÅ¼ Å¼adnych prawdziwych kÅ‚opotÃ³w.}
+{157}{}{Gdzie sÄ… teraz Franc i Manson? Oni naprawdÄ™ powinni wrÃ³ciÄ‡ do wiÄ™zienia.}
+{158}{}{NiektÃ³rzy z moich najlepszych przyjaciÃ³Å‚ sÄ… mutantami i ghulami...}
+{159}{}{GdybyÅ›my tak mieli trochÄ™ wiÄ™cej Å¼arÃ³wek.}
 {160}{}{Co to za zapach?}
-{161}{}{Bojê siê, ¿e RNK mo¿e spróbowaæ nas wch³on¹æ.}
-{162}{}{Czy s¹dzisz, ¿e Nowe Reno by³oby dobrym miejscem do zamieszkania?}
-{163}{}{Nie mam nic przeciwko mutantom, ale oni tak œmiesznie wygl¹daj¹.}
-{164}{}{Powiedzia³abym ci "dobra robota", ale pewnie bym siê tym wrobi³a.}
-{165}{}{Jacob i Aileen nienawidzili mutantów, co? A wydawali siê tacy mili.}
-{166}{}{Daj spokój... Aileen?}
-{167}{}{Nie mogê uwierzyæ, ¿e stosunki mutancko-ludzkie upad³y tak nisko.}
-{168}{}{Marcus musi byæ teraz wkurzony na ludzi.}
-{169}{}{Myœlê, ¿e teraz my wszyscy, ludzie, lepiej wyluzujmy i spokojnie odetchnijmy przez moment.}
-{170}{}{S³ysza³am, ¿e mutanty zbieraj¹ siê razem, aby zniszczyæ ludzi!}
-{171}{}{A co ghule myœl¹ o tym wszystkim?}
-{172}{}{Kopalnia... zniszczona... nasze domy s¹ teraz bezwartoœciowe.}
-{173}{}{Jesteœmy zrujnowani.}
+{161}{}{BojÄ™ siÄ™, Å¼e RNK moÅ¼e sprÃ³bowaÄ‡ nas wchÅ‚onÄ…Ä‡.}
+{162}{}{Czy sÄ…dzisz, Å¼e Nowe Reno byÅ‚oby dobrym miejscem do zamieszkania?}
+{163}{}{Nie mam nic przeciwko mutantom, ale oni tak Å›miesznie wyglÄ…dajÄ….}
+{164}{}{PowiedziaÅ‚abym ci "dobra robota", ale pewnie bym siÄ™ tym wrobiÅ‚a.}
+{165}{}{Jacob i Aileen nienawidzili mutantÃ³w, co? A wydawali siÄ™ tacy mili.}
+{166}{}{Daj spokÃ³j... Aileen?}
+{167}{}{Nie mogÄ™ uwierzyÄ‡, Å¼e stosunki mutancko-ludzkie upadÅ‚y tak nisko.}
+{168}{}{Marcus musi byÄ‡ teraz wkurzony na ludzi.}
+{169}{}{MyÅ›lÄ™, Å¼e teraz my wszyscy, ludzie, lepiej wyluzujmy i spokojnie odetchnijmy przez moment.}
+{170}{}{SÅ‚yszaÅ‚am, Å¼e mutanty zbierajÄ… siÄ™ razem, aby zniszczyÄ‡ ludzi!}
+{171}{}{A co ghule myÅ›lÄ… o tym wszystkim?}
+{172}{}{Kopalnia... zniszczona... nasze domy sÄ… teraz bezwartoÅ›ciowe.}
+{173}{}{JesteÅ›my zrujnowani.}
 {174}{}{To koniec Broken Hills.}
-{175}{}{Udam siê do RNK.}
-{176}{}{Kto móg³ zrobiæ takie coœ?}
-{177}{}{Mój Bo¿e... kopalnia...}
-{178}{}{Gdzie jest sprawiedliwoœæ na tym œwiecie?}
-{179}{}{Chyba po prostu siê zabijê. Bez kopalni nie mogê siê utrzymaæ.}
-{180}{}{O rany... ¿ycie jest ciê¿kie.}
-{181}{}{Wow... Nigdy nie widzia³am kogoœ na tyle silnego, aby pokonaæ Francisa.}
-{182}{}{Co za si³a!}
+{175}{}{Udam siÄ™ do RNK.}
+{176}{}{Kto mÃ³gÅ‚ zrobiÄ‡ takie coÅ›?}
+{177}{}{MÃ³j BoÅ¼e... kopalnia...}
+{178}{}{Gdzie jest sprawiedliwoÅ›Ä‡ na tym Å›wiecie?}
+{179}{}{Chyba po prostu siÄ™ zabijÄ™. Bez kopalni nie mogÄ™ siÄ™ utrzymaÄ‡.}
+{180}{}{O rany... Å¼ycie jest ciÄ™Å¼kie.}
+{181}{}{Wow... Nigdy nie widziaÅ‚am kogoÅ› na tyle silnego, aby pokonaÄ‡ Francisa.}
+{182}{}{Co za siÅ‚a!}
 {183}{}{Twarda z ciebie sztuka, co?}
-{184}{}{Czasami czujê siê jak magiczna bila nr 8. Wypluwam z siebie przypadkowe gadki i odchodzê.}
-{185}{}{Walczy³o siê kiedyœ ze szponem œmierci na bary?}
-{186}{}{Czy twoja inteligencja dorównuje twojej sile?}
-{187}{}{Francis z pewnoœci¹ ostatnio wygl¹da na zadowolonego.}
-{188}{}{Francis ma swój urok. Czy by³ wczoraj z ch³optasiem?}
-{189}{}{Czeœæ, cioto!}
-{190}{}{Wci¹¿ chodzisz prosto?}
-{191}{}{Bêdziesz mieæ po tym blizny?}
-{192}{}{Wiesz, chodzisz trochê jak kaczka.}
-{193}{}{Jak mo¿na nie mieæ na tyle rozumu, aby nie braæ siê za bary z Francisem przy takich warunkach?}
-{194}{}{Mam nadziejê, ¿e podoba³o ci siê to tak, jak Francisowi.}
-{198}{}{Dobrze, ¿e jesteœ w mieœcie.}
-{199}{}{Zatrzymasz siê tu na trochê?}
-{200}{}{Mam nadziejê, ¿e ci siê tu podoba!}
-{201}{}{Dobrze czynisz. Mo¿e zostaniesz szeryfem?}
-{202}{}{Ostatnio miasto zrobi³o siê du¿o milsze.}
-{203}{}{Chyba sprawy w koñcu zaczynaj¹ siê krêciæ w dobrym kierunku.}
-{204}{}{OdejdŸ ode mnie, draniu.}
-{205}{}{Nie przyznajê siê do takich, jak ty.}
-{206}{}{Kto ciê tu wpuœci³?}
-{207}{}{Nie wiem dlaczego nie wygonili ciê jeszcze z miasta.}
-{208}{}{Daj mi, proszê, spokój.}
-{209}{}{Nie drêcz mnie.}
-{210}{}{Nie mogê ci pomóc. OdejdŸ.}
-{211}{}{Zdechnij na pustyni, œcierwo.}
-{212}{}{IdŸ sobie.}
-{213}{}{Pomó¿ mi!}
+{184}{}{Czasami czujÄ™ siÄ™ jak magiczna bila nr 8. Wypluwam z siebie przypadkowe gadki i odchodzÄ™.}
+{185}{}{WalczyÅ‚o siÄ™ kiedyÅ› ze szponem Å›mierci na bary?}
+{186}{}{Czy twoja inteligencja dorÃ³wnuje twojej sile?}
+{187}{}{Francis z pewnoÅ›ciÄ… ostatnio wyglÄ…da na zadowolonego.}
+{188}{}{Francis ma swÃ³j urok. Czy byÅ‚ wczoraj z chÅ‚optasiem?}
+{189}{}{CzeÅ›Ä‡, cioto!}
+{190}{}{WciÄ…Å¼ chodzisz prosto?}
+{191}{}{BÄ™dziesz mieÄ‡ po tym blizny?}
+{192}{}{Wiesz, chodzisz trochÄ™ jak kaczka.}
+{193}{}{Jak moÅ¼na nie mieÄ‡ na tyle rozumu, aby nie braÄ‡ siÄ™ za bary z Francisem przy takich warunkach?}
+{194}{}{Mam nadziejÄ™, Å¼e podobaÅ‚o ci siÄ™ to tak, jak Francisowi.}
+{198}{}{Dobrze, Å¼e jesteÅ› w mieÅ›cie.}
+{199}{}{Zatrzymasz siÄ™ tu na trochÄ™?}
+{200}{}{Mam nadziejÄ™, Å¼e ci siÄ™ tu podoba!}
+{201}{}{Dobrze czynisz. MoÅ¼e zostaniesz szeryfem?}
+{202}{}{Ostatnio miasto zrobiÅ‚o siÄ™ duÅ¼o milsze.}
+{203}{}{Chyba sprawy w koÅ„cu zaczynajÄ… siÄ™ krÄ™ciÄ‡ w dobrym kierunku.}
+{204}{}{OdejdÅº ode mnie, draniu.}
+{205}{}{Nie przyznajÄ™ siÄ™ do takich, jak ty.}
+{206}{}{Kto ciÄ™ tu wpuÅ›ciÅ‚?}
+{207}{}{Nie wiem dlaczego nie wygonili ciÄ™ jeszcze z miasta.}
+{208}{}{Daj mi, proszÄ™, spokÃ³j.}
+{209}{}{Nie drÄ™cz mnie.}
+{210}{}{Nie mogÄ™ ci pomÃ³c. OdejdÅº.}
+{211}{}{Zdechnij na pustyni, Å›cierwo.}
+{212}{}{IdÅº sobie.}
+{213}{}{PomÃ³Å¼ mi!}
 {214}{}{On jest tu!}
 {215}{}{Aaaaaaaaaaah!}
 {216}{}{Zdrajca!}
-{217}{}{Drañ!}
+{217}{}{DraÅ„!}
 {218}{}{Zostaw mnie w spokoju!}
 {219}{}{Nie! Nie! Nie!}
 {220}{}{Nie dotykaj mnie!}
-{221}{}{Nie rób mi krzywdy!}
+{221}{}{Nie rÃ³b mi krzywdy!}
 {250}{}{Ci biedni ludzie.}
-{251}{}{Kto spad³ z drabiny jakubowej?}
-{252}{}{Có¿, popatrzcie co wyrzuci³a tu pustynia.}
-{253}{}{Niektórzy z moich najlepszych przyjació³ s¹ mutantami i ghulami...}
-{254}{}{Gdybyœmy tak mieli trochê wiêcej ¿arówek.}
+{251}{}{Kto spadÅ‚ z drabiny jakubowej?}
+{252}{}{CÃ³Å¼, popatrzcie co wyrzuciÅ‚a tu pustynia.}
+{253}{}{NiektÃ³rzy z moich najlepszych przyjaciÃ³Å‚ sÄ… mutantami i ghulami...}
+{254}{}{GdybyÅ›my tak mieli trochÄ™ wiÄ™cej Å¼arÃ³wek.}
 {255}{}{Co to za zapach?}
-{256}{}{Bojê siê, ¿e RNK mo¿e spróbowaæ nas wch³on¹æ.}
-{257}{}{Czy s¹dzisz, ¿e Nowe Reno by³oby dobrym miejscem do zamieszkania?}
-{258}{}{Nie mam nic przeciwko mutantom, ale oni tak œmiesznie wygl¹daj¹.}
-{259}{}{¯ycie jest ciê¿kie. Samogon Phila taki nie powinien byæ.}
-{260}{}{Nie mogê uwierzyæ temu sukinsynowi.}
-{261}{}{Oddech mojego kota œmierdzi jak kocie ¿arcie.}
+{256}{}{BojÄ™ siÄ™, Å¼e RNK moÅ¼e sprÃ³bowaÄ‡ nas wchÅ‚onÄ…Ä‡.}
+{257}{}{Czy sÄ…dzisz, Å¼e Nowe Reno byÅ‚oby dobrym miejscem do zamieszkania?}
+{258}{}{Nie mam nic przeciwko mutantom, ale oni tak Å›miesznie wyglÄ…dajÄ….}
+{259}{}{Å»ycie jest ciÄ™Å¼kie. Samogon Phila taki nie powinien byÄ‡.}
+{260}{}{Nie mogÄ™ uwierzyÄ‡ temu sukinsynowi.}
+{261}{}{Oddech mojego kota Å›mierdzi jak kocie Å¼arcie.}

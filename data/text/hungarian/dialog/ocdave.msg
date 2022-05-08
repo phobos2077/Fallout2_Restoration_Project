@@ -1,54 +1,54 @@
-{100}{}{Egy szomorú, id?sebb ember.}
-{101}{}{Dave, alias "Mr. Depresszió".}
+{100}{}{Egy szomorÃº, id?sebb ember.}
+{101}{}{Dave, alias "Mr. DepressziÃ³".}
 {102}{}{You see a grumpy, older man in his early sixties. He has a weathered face and looks as if he
  has had his fair share of abuse.}
-{103}{}{Bocs. Nem láttam, hogy itt áll.}
-{104}{}{Hogyhogy? Én nagy.}
-{105}{}{Te szomorú. Miért?}
-{106}{}{Én menni, üdv.}
-{107}{}{Semmi gond, bárkivel el?fordulhat. Hm, elég gondterheltnek t?nik. Megmondaná, miért?}
-{108}{}{Oké, mindegy. Miért ilyen szomorú?}
-{109}{}{Legközelebb talán üssem fejbe, hogy észrevegyen?!}
-{110}{}{Mindegy. Most jut eszembe, nekem valahol máshol kéne lennem.}
-{111}{}{Az élet szemét... f?leg velem.}
-{112}{}{Öö... én most menni el.}
-{113}{}{Úgymint?}
-{114}{}{Jó hozzáállás. Mire fel?}
-{115}{}{Valahol máshol akarok lenni.}
+{103}{}{Bocs. Nem lÃ¡ttam, hogy itt Ã¡ll.}
+{104}{}{Hogyhogy? Ã‰n nagy.}
+{105}{}{Te szomorÃº. MiÃ©rt?}
+{106}{}{Ã‰n menni, Ã¼dv.}
+{107}{}{Semmi gond, bÃ¡rkivel el?fordulhat. Hm, elÃ©g gondterheltnek t?nik. MegmondanÃ¡, miÃ©rt?}
+{108}{}{OkÃ©, mindegy. MiÃ©rt ilyen szomorÃº?}
+{109}{}{LegkÃ¶zelebb talÃ¡n Ã¼ssem fejbe, hogy Ã©szrevegyen?!}
+{110}{}{Mindegy. Most jut eszembe, nekem valahol mÃ¡shol kÃ©ne lennem.}
+{111}{}{Az Ã©let szemÃ©t... f?leg velem.}
+{112}{}{Ã–Ã¶... Ã©n most menni el.}
+{113}{}{Ãšgymint?}
+{114}{}{JÃ³ hozzÃ¡Ã¡llÃ¡s. Mire fel?}
+{115}{}{Valahol mÃ¡shol akarok lenni.}
 {116}{}{I was born two months premature. When I was one, I was dropped on the porch. When I was two, I
  had pneumonia. When I was three, I got the chicken pox. When I was four, I fell down the stairs and broke
  six ribs. When I was five, my uncle was decapitated by a watermelon. When I was six, my parents hit me
  in the head with a shovel. When I was seven, I lost my right index finger to my pet rat.}
-{117}{}{Öö, valaki hívni engem. Szia!}
-{118}{}{Sajnálni rossz dolgok.}
-{119}{}{Múlt rossz, nem semmi. Dolgok most jók?}
-{120}{}{Húúú! Örülük, hogy nem vagyok a maga helyében!}
-{121}{}{Oké, képben vagyok. Most éppen mi zavarja?}
-{122}{}{Igazán sajnálom, hogy ennyi fájdalom érte az életben. Remélem, most már jobb sora van?}
-{123}{}{Egy pillanat. Elfelejtettem, hogy most valami egészen más dolgom akadt.}
-{124}{}{Hát, ja, az élet szemét... f?leg velem.}
-{125}{}{Mi történik most?}
-{126}{}{Én már hallottam. Üdv!}
-{127}{}{Most épp mi történt, amin így kiakadt?}
-{128}{}{Igazán nincs szükségem erre a dumára. Azt hiszem, megyek.}
-{129}{}{Naszóval, épp a sivatagban utaztam, mikor a brahminjaim hirtelen holtan estek össze. Akkor vettem észre, hogy alig van nálam víz és már jó ideje nem ittam. A csontjaim csakhamar sajogni kezdtek, a fejem elkezdett fájni, hasmenésem lett, és olyan kiütést kaptam, hogy azóta sem múlt el. Ideje volt leülni, és meghalni.}
-{130}{}{Én... ööö.. maga... maga nincs feleség vagy gyerek?}
-{131}{}{Nem beszélje tovább! Én menni.}
-{132}{}{Nem szeretnék több hasonló dolgot hallani. Jobb lesz, ha elt?nök a közeléb?l. Viszlát!}
-{133}{}{Könyörgöm, nyugtasson meg, hogy nincs gyereke!}
+{117}{}{Ã–Ã¶, valaki hÃ­vni engem. Szia!}
+{118}{}{SajnÃ¡lni rossz dolgok.}
+{119}{}{MÃºlt rossz, nem semmi. Dolgok most jÃ³k?}
+{120}{}{HÃºÃºÃº! Ã–rÃ¼lÃ¼k, hogy nem vagyok a maga helyÃ©ben!}
+{121}{}{OkÃ©, kÃ©pben vagyok. Most Ã©ppen mi zavarja?}
+{122}{}{IgazÃ¡n sajnÃ¡lom, hogy ennyi fÃ¡jdalom Ã©rte az Ã©letben. RemÃ©lem, most mÃ¡r jobb sora van?}
+{123}{}{Egy pillanat. Elfelejtettem, hogy most valami egÃ©szen mÃ¡s dolgom akadt.}
+{124}{}{HÃ¡t, ja, az Ã©let szemÃ©t... f?leg velem.}
+{125}{}{Mi tÃ¶rtÃ©nik most?}
+{126}{}{Ã‰n mÃ¡r hallottam. Ãœdv!}
+{127}{}{Most Ã©pp mi tÃ¶rtÃ©nt, amin Ã­gy kiakadt?}
+{128}{}{IgazÃ¡n nincs szÃ¼ksÃ©gem erre a dumÃ¡ra. Azt hiszem, megyek.}
+{129}{}{NaszÃ³val, Ã©pp a sivatagban utaztam, mikor a brahminjaim hirtelen holtan estek Ã¶ssze. Akkor vettem Ã©szre, hogy alig van nÃ¡lam vÃ­z Ã©s mÃ¡r jÃ³ ideje nem ittam. A csontjaim csakhamar sajogni kezdtek, a fejem elkezdett fÃ¡jni, hasmenÃ©sem lett, Ã©s olyan kiÃ¼tÃ©st kaptam, hogy azÃ³ta sem mÃºlt el. Ideje volt leÃ¼lni, Ã©s meghalni.}
+{130}{}{Ã‰n... Ã¶Ã¶Ã¶.. maga... maga nincs felesÃ©g vagy gyerek?}
+{131}{}{Nem beszÃ©lje tovÃ¡bb! Ã‰n menni.}
+{132}{}{Nem szeretnÃ©k tÃ¶bb hasonlÃ³ dolgot hallani. Jobb lesz, ha elt?nÃ¶k a kÃ¶zelÃ©b?l. ViszlÃ¡t!}
+{133}{}{KÃ¶nyÃ¶rgÃ¶m, nyugtasson meg, hogy nincs gyereke!}
 {134}{}{Nope. When I turned twenty-two this strange fungus started to grow on my test...}
-{135}{}{Ááá! Elég! Én menni el!}
-{136}{}{ELÉG! Ne tovább! Nem akarom tudni!}
-{137}{}{Ó, üdv! Mit tehetek magáért?}
-{138}{}{Öö, mi történt magával?}
-{139}{}{Bocs, én megy.}
-{140}{}{Azon gondolkoztam, elmondaná-e még egyszer a történetét?}
-{141}{}{Egy pillanat, összekevertem valakivel.}
-{142}{}{Végre, eljött az én id?m. Most meg fog ölni?}
+{135}{}{ÃÃ¡Ã¡! ElÃ©g! Ã‰n menni el!}
+{136}{}{ELÃ‰G! Ne tovÃ¡bb! Nem akarom tudni!}
+{137}{}{Ã“, Ã¼dv! Mit tehetek magÃ¡Ã©rt?}
+{138}{}{Ã–Ã¶, mi tÃ¶rtÃ©nt magÃ¡val?}
+{139}{}{Bocs, Ã©n megy.}
+{140}{}{Azon gondolkoztam, elmondanÃ¡-e mÃ©g egyszer a tÃ¶rtÃ©netÃ©t?}
+{141}{}{Egy pillanat, Ã¶sszekevertem valakivel.}
+{142}{}{VÃ©gre, eljÃ¶tt az Ã©n id?m. Most meg fog Ã¶lni?}
 {143}{}{Igen.}
 {144}{}{Nem.}
-{145}{}{Nyolc éves koromban a kutyámat, Tüsit elütötte egy traktor. Kilenc éves koromban az anyám karját leharapta egy veszett brahmin. Tíz éves koromban a n?véremet széttépte egy falka kutya. Tizenegy éves koromban a nagyapám öngyilkos lett, mert ronda voltam. Tizenhárom éves koromban az apám részegségében kiszúrta a saját szemét egy villával.}
-{146}{}{Tizenhét éves koromban levágtam egy kapával a nagylábujjamat. Tizennyolc éves koromban az apám lábát levágta ugyanaz a traktor, amelyik a kutyámat ütötte el. Tizenkilenc éves koromban...}
-{147}{}{Tehát ott ültem a sivatagban, várva, hogy végleg megsz?njek létezni, mikor egy falka halálkarom t?nt fel. Na, gondoltam, eljött az id?. Egy rakás halálkarom-szarként fogom végezni a sivatagban. De nem... a sors folytatta kegyetlen játékát ellenem.}
-{148}{}{Amint látja, a halálkarmok nem öltek meg. Helyette vizet adtak, ide hoztak, megkaptam ezt a szobát, adtak ennem, megmosdattak, és most nem engednek távozni. Szerintem azért hízlalnak, hogy bevégezzem ismeretlen, szörny? sorsomat. Hiába mondom nekik, hogy soványabban finomabb lennék. Csak mosolyognak, már ha annak lehet nevezni, és megpaskolva a fejemet azt mondják: "Ne aggódj, ember, jobbra fordul a sorsod". Hah! Mindketten tudjuk, mit jelent ez.}
-{149}{}{Mindenesetre, hogy még rosszabb legyen, valamiféle gyógykezelés alá vettek. Eléggé felfújt, úgyhogy abbahagytam... Milyen igazam volt! Azt hiszem, valami "tudat-befolyásoló" pirula volt, mert valahogy szebbnek láttam t?le a világot! Hát, ennyit err?l. Csak arra várok, hogy a halálkarmok felszabdalt, megpörkölt testemb?l lakomázzanak.}
+{145}{}{Nyolc Ã©ves koromban a kutyÃ¡mat, TÃ¼sit elÃ¼tÃ¶tte egy traktor. Kilenc Ã©ves koromban az anyÃ¡m karjÃ¡t leharapta egy veszett brahmin. TÃ­z Ã©ves koromban a n?vÃ©remet szÃ©ttÃ©pte egy falka kutya. Tizenegy Ã©ves koromban a nagyapÃ¡m Ã¶ngyilkos lett, mert ronda voltam. TizenhÃ¡rom Ã©ves koromban az apÃ¡m rÃ©szegsÃ©gÃ©ben kiszÃºrta a sajÃ¡t szemÃ©t egy villÃ¡val.}
+{146}{}{TizenhÃ©t Ã©ves koromban levÃ¡gtam egy kapÃ¡val a nagylÃ¡bujjamat. Tizennyolc Ã©ves koromban az apÃ¡m lÃ¡bÃ¡t levÃ¡gta ugyanaz a traktor, amelyik a kutyÃ¡mat Ã¼tÃ¶tte el. Tizenkilenc Ã©ves koromban...}
+{147}{}{TehÃ¡t ott Ã¼ltem a sivatagban, vÃ¡rva, hogy vÃ©gleg megsz?njek lÃ©tezni, mikor egy falka halÃ¡lkarom t?nt fel. Na, gondoltam, eljÃ¶tt az id?. Egy rakÃ¡s halÃ¡lkarom-szarkÃ©nt fogom vÃ©gezni a sivatagban. De nem... a sors folytatta kegyetlen jÃ¡tÃ©kÃ¡t ellenem.}
+{148}{}{Amint lÃ¡tja, a halÃ¡lkarmok nem Ã¶ltek meg. Helyette vizet adtak, ide hoztak, megkaptam ezt a szobÃ¡t, adtak ennem, megmosdattak, Ã©s most nem engednek tÃ¡vozni. Szerintem azÃ©rt hÃ­zlalnak, hogy bevÃ©gezzem ismeretlen, szÃ¶rny? sorsomat. HiÃ¡ba mondom nekik, hogy sovÃ¡nyabban finomabb lennÃ©k. Csak mosolyognak, mÃ¡r ha annak lehet nevezni, Ã©s megpaskolva a fejemet azt mondjÃ¡k: "Ne aggÃ³dj, ember, jobbra fordul a sorsod". Hah! Mindketten tudjuk, mit jelent ez.}
+{149}{}{Mindenesetre, hogy mÃ©g rosszabb legyen, valamifÃ©le gyÃ³gykezelÃ©s alÃ¡ vettek. ElÃ©ggÃ© felfÃºjt, Ãºgyhogy abbahagytam... Milyen igazam volt! Azt hiszem, valami "tudat-befolyÃ¡solÃ³" pirula volt, mert valahogy szebbnek lÃ¡ttam t?le a vilÃ¡got! HÃ¡t, ennyit err?l. Csak arra vÃ¡rok, hogy a halÃ¡lkarmok felszabdalt, megpÃ¶rkÃ¶lt testemb?l lakomÃ¡zzanak.}

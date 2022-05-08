@@ -1,20 +1,20 @@
-{1}{}{Você ganhou %d %s.}
-{2}{}{Você perdeu %d %s.}
-{3}{}{Você se sente melhor.}
-{4}{}{Você sofre um ataque cardíaco fatal por overdose de drogas.}
-{5}{}{%s não tem cargas.}
+{1}{}{VocÃª ganhou %d %s.}
+{2}{}{VocÃª perdeu %d %s.}
+{3}{}{VocÃª se sente melhor.}
+{4}{}{VocÃª sofre um ataque cardÃ­aco fatal por overdose de drogas.}
+{5}{}{%s nÃ£o tem cargas.}
 {6}{}{%s esta ligado.}
 {7}{}{%s esta desligado.}
-{8}{}{Você passa o contador Geiger sobre o seu corpo. O contador marca: %d}
-{9}{}{Este item só pode ser usado a partir da barra de interface.}
+{8}{}{VocÃª passa o contador Geiger sobre o seu corpo. O contador marca: %d}
+{9}{}{Este item sÃ³ pode ser usado a partir da barra de interface.}
 {10}{}{Nada acontece.}
-{50}{}{Isso não faz nada.}
-{500}{}{Não há luz suficiente para recarregar este item.}
+{50}{}{Isso nÃ£o faz nada.}
+{500}{}{NÃ£o hÃ¡ luz suficiente para recarregar este item.}
 {600}{}{%s sucumbe aos efeitos nocivos das drogas.}
 {800}{Weapon Damage}{Luz}
-{801}{}{Médio}
+{801}{}{MÃ©dio}
 {802}{}{Pesado}
 {803}{}{Extremo}
 {820}{}{Curto}
-{821}{}{Médio}
+{821}{}{MÃ©dio}
 {822}{}{Longo}

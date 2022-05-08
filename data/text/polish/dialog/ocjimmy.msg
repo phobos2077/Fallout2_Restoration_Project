@@ -1,84 +1,84 @@
-{100}{}{Widzisz wysokiego, chudego mê¿czyznê w grubych okularach.}
+{100}{}{Widzisz wysokiego, chudego mÄ™Å¼czyznÄ™ w grubych okularach.}
 {101}{}{Widzisz Jimmy'ego.}
-{102}{}{Widzisz wysokiego, chudego mê¿czyznê w grubych okularach. Marszczy czo³o w zamyœleniu i mówi do siebie krêc¹c siê po sali.}
+{102}{}{Widzisz wysokiego, chudego mÄ™Å¼czyznÄ™ w grubych okularach. Marszczy czoÅ‚o w zamyÅ›leniu i mÃ³wi do siebie krÄ™cÄ…c siÄ™ po sali.}
 {103}{}{Och, witaj. Jestem Jim, inaczej Jimmy. Czego szukasz?}
-{104}{}{Ja rozgl¹daæ.}
+{104}{}{Ja rozglÄ…daÄ‡.}
 {105}{}{Ja}
-{106}{}{Uch... ja siê krêciæ. Ja ju¿ iœæ.}
-{107}{}{Tak siê tylko rozgl¹dam.}
-{108}{}{Czeœæ Jim, jestem}
-{109}{}{Nie twój interes, czterooki. Suñ siê.}
-{110}{}{Tylko tak krêcê siê po okolicy. Ju¿ sobie idê.}
-{111}{}{Rozgl¹daj siê do woli, ale proszê, niczego nie dotykaj. Mam tu trochê delikatnego sprzêtu.}
-{112}{}{Ja tylko patrzeæ. Ja nie dotykaæ.}
-{113}{}{Tylko siê rozejrzê. Nie bêdê przeszkadzaæ.}
-{114}{}{Irytujesz mnie. IdŸ sobie.}
-{115}{}{Hej, przepraszam, nie chcê deptaæ ci po odciskach. Zostawiê ciê w spokoju.}
+{106}{}{Uch... ja siÄ™ krÄ™ciÄ‡. Ja juÅ¼ iÅ›Ä‡.}
+{107}{}{Tak siÄ™ tylko rozglÄ…dam.}
+{108}{}{CzeÅ›Ä‡ Jim, jestem}
+{109}{}{Nie twÃ³j interes, czterooki. SuÅ„ siÄ™.}
+{110}{}{Tylko tak krÄ™cÄ™ siÄ™ po okolicy. JuÅ¼ sobie idÄ™.}
+{111}{}{RozglÄ…daj siÄ™ do woli, ale proszÄ™, niczego nie dotykaj. Mam tu trochÄ™ delikatnego sprzÄ™tu.}
+{112}{}{Ja tylko patrzeÄ‡. Ja nie dotykaÄ‡.}
+{113}{}{Tylko siÄ™ rozejrzÄ™. Nie bÄ™dÄ™ przeszkadzaÄ‡.}
+{114}{}{Irytujesz mnie. IdÅº sobie.}
+{115}{}{Hej, przepraszam, nie chcÄ™ deptaÄ‡ ci po odciskach. ZostawiÄ™ ciÄ™ w spokoju.}
 {116}{}{To dobrze.}
-{117}{}{Mi³o mi ciê widzieæ,}
-{118}{}{Co chcesz wiedzieæ?}
-{119}{}{Ty co robiæ?}
-{120}{}{Co ta du¿a maszyna?}
-{121}{}{Krypta mieæ nadzorca. To pokój nadzorca?}
-{122}{}{Mieæ powód tu byæ w Krypta?}
-{123}{}{Co ty myœli o Sz'œmierci?}
-{124}{}{Komputer musi czêœæ. Ty wie gdzie dostaæ czêœæ?}
-{125}{}{Ja wie doœæ. Ja ju¿ iœæ.}
-{126}{}{Czym siê tutaj zajmujesz?}
-{127}{}{Do czego s³u¿y ta ca³a maszyneria?}
+{117}{}{MiÅ‚o mi ciÄ™ widzieÄ‡,}
+{118}{}{Co chcesz wiedzieÄ‡?}
+{119}{}{Ty co robiÄ‡?}
+{120}{}{Co ta duÅ¼a maszyna?}
+{121}{}{Krypta mieÄ‡ nadzorca. To pokÃ³j nadzorca?}
+{122}{}{MieÄ‡ powÃ³d tu byÄ‡ w Krypta?}
+{123}{}{Co ty myÅ›li o Sz'Å›mierci?}
+{124}{}{Komputer musi czÄ™Å›Ä‡. Ty wie gdzie dostaÄ‡ czÄ™Å›Ä‡?}
+{125}{}{Ja wie doÅ›Ä‡. Ja juÅ¼ iÅ›Ä‡.}
+{126}{}{Czym siÄ™ tutaj zajmujesz?}
+{127}{}{Do czego sÅ‚uÅ¼y ta caÅ‚a maszyneria?}
 {128}{}{Czy to nie jest przypadkiem pomieszczenie nadzorcy Krypty?}
-{129}{}{Czy jesteœ tu, bo tego chcesz?}
-{130}{}{Co myœlisz o szponach œmierci?}
-{131}{}{Potrzebna jest czêœæ zapasowa do komputera. Wiesz mo¿e, gdzie mo¿na coœ takiego dostaæ?}
-{132}{}{Chyba ju¿ sobie pójdê.}
-{133}{}{No wiesz... mamy trochê k³opotów z naszym komputerem i staram siê jakoœ temu zaradziæ. Niestety moj¹ mocn¹ stron¹ jest oprogramowanie, a nie sprzêt.}
-{134}{}{Jaka k³opot?}
-{135}{}{Na czym polega k³opot?}
-{136}{}{Tak, Gruthar wspomina³ mi o tym i prosi³, ¿eby siê tym zaj¹æ. Mo¿na?}
-{137}{}{G³osowy system wymiany danych w jednostce centralnej zepsu³ siê i Gruthar nie mo¿e wydawaæ systemowi komend umo¿liwiaj¹cych zarz¹dzanie Krypt¹. Przetworniki wody i ¿ywnoœci ju¿ siê wy³¹czy³y. Systemy zasilania mog¹ w ka¿dej chwili zrobiæ to samo.}
-{138}{}{Czemu wy nie u¿yæ klawiszki?}
-{139}{}{Czemu nie pod³¹czycie po prostu wejœcia przez klawiaturê?}
-{140}{}{No w³aœnie, widzisz, tu siê zaczynaj¹ cuda. System odmawia przyjêcia wejœcia klawiaturowego. Nie mam pojêcia, co z tym fantem zrobiæ.}
-{141}{}{Ja mo¿e zobaczyæ?}
-{142}{}{Mogê siê trochê temu przyjrzeæ?}
-{143}{}{Tak, Gruthar wspomina³ mi o tym i prosi³, ¿eby siê tym zaj¹æ. Mo¿na?}
-{144}{}{No wiesz... bez obrazy, ale czy na pewno masz odpowiednie kwalifikacje? A zreszt¹, wszystko jedno. Chyba nie da siê ju¿ nic bardziej zepsuæ. Ruszaj do dzie³a.}
-{145}{}{Chyba nie da siê ju¿ nic bardziej zepsuæ. Ruszaj do dzie³a.}
-{146}{}{Dobra, ale ja jeszcze zapytaæ.}
-{147}{}{Dobrze, ale muszê najpierw ciê jeszcze o coœ zapytaæ.}
-{148}{}{To jest g³ówny system komputerowy i jego poboczne urz¹dzenia wspomagaj¹ce. Mo¿na st¹d zdalnie sterowaæ wszystkimi funkcjami Krypty.}
-{149}{}{Uch... co ty powiedzia³.}
+{129}{}{Czy jesteÅ› tu, bo tego chcesz?}
+{130}{}{Co myÅ›lisz o szponach Å›mierci?}
+{131}{}{Potrzebna jest czÄ™Å›Ä‡ zapasowa do komputera. Wiesz moÅ¼e, gdzie moÅ¼na coÅ› takiego dostaÄ‡?}
+{132}{}{Chyba juÅ¼ sobie pÃ³jdÄ™.}
+{133}{}{No wiesz... mamy trochÄ™ kÅ‚opotÃ³w z naszym komputerem i staram siÄ™ jakoÅ› temu zaradziÄ‡. Niestety mojÄ… mocnÄ… stronÄ… jest oprogramowanie, a nie sprzÄ™t.}
+{134}{}{Jaka kÅ‚opot?}
+{135}{}{Na czym polega kÅ‚opot?}
+{136}{}{Tak, Gruthar wspominaÅ‚ mi o tym i prosiÅ‚, Å¼eby siÄ™ tym zajÄ…Ä‡. MoÅ¼na?}
+{137}{}{GÅ‚osowy system wymiany danych w jednostce centralnej zepsuÅ‚ siÄ™ i Gruthar nie moÅ¼e wydawaÄ‡ systemowi komend umoÅ¼liwiajÄ…cych zarzÄ…dzanie KryptÄ…. Przetworniki wody i Å¼ywnoÅ›ci juÅ¼ siÄ™ wyÅ‚Ä…czyÅ‚y. Systemy zasilania mogÄ… w kaÅ¼dej chwili zrobiÄ‡ to samo.}
+{138}{}{Czemu wy nie uÅ¼yÄ‡ klawiszki?}
+{139}{}{Czemu nie podÅ‚Ä…czycie po prostu wejÅ›cia przez klawiaturÄ™?}
+{140}{}{No wÅ‚aÅ›nie, widzisz, tu siÄ™ zaczynajÄ… cuda. System odmawia przyjÄ™cia wejÅ›cia klawiaturowego. Nie mam pojÄ™cia, co z tym fantem zrobiÄ‡.}
+{141}{}{Ja moÅ¼e zobaczyÄ‡?}
+{142}{}{MogÄ™ siÄ™ trochÄ™ temu przyjrzeÄ‡?}
+{143}{}{Tak, Gruthar wspominaÅ‚ mi o tym i prosiÅ‚, Å¼eby siÄ™ tym zajÄ…Ä‡. MoÅ¼na?}
+{144}{}{No wiesz... bez obrazy, ale czy na pewno masz odpowiednie kwalifikacje? A zresztÄ…, wszystko jedno. Chyba nie da siÄ™ juÅ¼ nic bardziej zepsuÄ‡. Ruszaj do dzieÅ‚a.}
+{145}{}{Chyba nie da siÄ™ juÅ¼ nic bardziej zepsuÄ‡. Ruszaj do dzieÅ‚a.}
+{146}{}{Dobra, ale ja jeszcze zapytaÄ‡.}
+{147}{}{Dobrze, ale muszÄ™ najpierw ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
+{148}{}{To jest gÅ‚Ã³wny system komputerowy i jego poboczne urzÄ…dzenia wspomagajÄ…ce. MoÅ¼na stÄ…d zdalnie sterowaÄ‡ wszystkimi funkcjami Krypty.}
+{149}{}{Uch... co ty powiedziaÅ‚.}
 {150}{}{Aha, rozumiem.}
-{151}{}{Normalnie nadzorca urzêdowa³by w tym miejscu, ale Krypta 13 zosta³a ca³kowicie zautomatyzowana.}
+{151}{}{Normalnie nadzorca urzÄ™dowaÅ‚by w tym miejscu, ale Krypta 13 zostaÅ‚a caÅ‚kowicie zautomatyzowana.}
 {152}{}{Dlaczego?}
-{153}{}{Dobra, ja pytaæ wiêcej.}
+{153}{}{Dobra, ja pytaÄ‡ wiÄ™cej.}
 {154}{}{Po co? To znaczy, czy to nie dziwne?}
-{155}{}{Rozumiem. Zmieñmy temat.}
-{156}{}{Nie znam ca³ej historii, ale w pewnym momencie w Krypcie wybuch³ bunt. Nadzorca zosta³ albo zabity, albo obalony, nie jestem tego do koñca pewien. W ka¿dym razie przywódcy buntu nie chcieli pok³adaæ losu wszystkich ludzi w rêkach kolejnego nadzorcy, wiêc zainstalowali komputer. Zapisy podaj¹, ¿e zosta³ on zakupiony od... hmmm, jak oni siê nazywali... ach, ju¿ wiem, od "Bractwa Stali".}
+{155}{}{Rozumiem. ZmieÅ„my temat.}
+{156}{}{Nie znam caÅ‚ej historii, ale w pewnym momencie w Krypcie wybuchÅ‚ bunt. Nadzorca zostaÅ‚ albo zabity, albo obalony, nie jestem tego do koÅ„ca pewien. W kaÅ¼dym razie przywÃ³dcy buntu nie chcieli pokÅ‚adaÄ‡ losu wszystkich ludzi w rÄ™kach kolejnego nadzorcy, wiÄ™c zainstalowali komputer. Zapisy podajÄ…, Å¼e zostaÅ‚ on zakupiony od... hmmm, jak oni siÄ™ nazywali... ach, juÅ¼ wiem, od "Bractwa Stali".}
 {157}{}{Co ty powie o Bractwa?}
-{158}{}{Czy móg³byœ powiedzieæ mi coœ wiêcej o tym Bractwie?}
-{159}{}{Nie. Przykro mi, ale nie mam o nich ¿adnych informacji. To wszystko wydarzy³o siê wieki temu i nigdy nie znalaz³em ¿adnych odniesieñ do nich poza tym jednym. Jednak¿e, tak jak ja to rozumiem, Bractwo by³o ugrupowaniem wojskowym, a na zachód st¹d znajduj¹ siê ruiny czegoœ, co wygl¹da na bazê wojskow¹. Byæ mo¿e s¹ to pozosta³oœci po nich.}
-{160}{}{Dobra. Ja pytaæ coœ inne.}
-{161}{}{Rozumiem. Pozwól wiêc, ¿e zapytam o coœ innego.}
-{162}{}{O tak, spodoba³o mi siê tutaj, jak tylko siê tu znalaz³em i szczerze mówi¹c nie mam ochoty st¹d odchodziæ. Zawsze by³em samotnikiem i nie têskni³em zbytnio za innymi ludŸmi, oczywiœcie bez obrazy.}
-{163}{}{Ja nie obra¿a.}
+{158}{}{Czy mÃ³gÅ‚byÅ› powiedzieÄ‡ mi coÅ› wiÄ™cej o tym Bractwie?}
+{159}{}{Nie. Przykro mi, ale nie mam o nich Å¼adnych informacji. To wszystko wydarzyÅ‚o siÄ™ wieki temu i nigdy nie znalazÅ‚em Å¼adnych odniesieÅ„ do nich poza tym jednym. JednakÅ¼e, tak jak ja to rozumiem, Bractwo byÅ‚o ugrupowaniem wojskowym, a na zachÃ³d stÄ…d znajdujÄ… siÄ™ ruiny czegoÅ›, co wyglÄ…da na bazÄ™ wojskowÄ…. ByÄ‡ moÅ¼e sÄ… to pozostaÅ‚oÅ›ci po nich.}
+{160}{}{Dobra. Ja pytaÄ‡ coÅ› inne.}
+{161}{}{Rozumiem. PozwÃ³l wiÄ™c, Å¼e zapytam o coÅ› innego.}
+{162}{}{O tak, spodobaÅ‚o mi siÄ™ tutaj, jak tylko siÄ™ tu znalazÅ‚em i szczerze mÃ³wiÄ…c nie mam ochoty stÄ…d odchodziÄ‡. Zawsze byÅ‚em samotnikiem i nie tÄ™skniÅ‚em zbytnio za innymi ludÅºmi, oczywiÅ›cie bez obrazy.}
+{163}{}{Ja nie obraÅ¼a.}
 {164}{}{Nic nie szkodzi.}
-{165}{}{No có¿... w pewnym sensie podziwiam je za to, czym s¹ i czym próbuj¹ siê staæ. Z drugiej strony bojê siê ich jak diabli. Chyba nigdy nie przyzwyczajê siê do faktu, ¿e one s¹ tak samo inteligentne jak ja... no, przynajmniej niektóre z nich.}
-{166}{}{Ty myœli one groŸny dla ludzi?}
-{167}{}{Czy s¹dzisz, ¿e stanowi¹ zagro¿enie dla ludzkiego spo³eczeñstwa?}
-{168}{}{Och, jak najbardziej. Znacznie przewy¿szaj¹ nas fizycznie, a umys³owo nam dorównuj¹. To czyni z nich ca³kiem du¿e zagro¿enie. Ale to siê koniec koñców sprowadza do etyki i moralnoœci. Na szczêœcie wydaje mi siê, ¿e one s¹ dobrze rozwiniête pod tym wzglêdem.}
-{169}{}{Moja rozumieæ.}
-{170}{}{Tia, wiem co masz na myœli.}
-{171}{}{Hejka. Dobrze ciê znowu widzieæ. W czym mogê ci pomóc?}
-{172}{}{Musi zapytaæ.}
-{173}{}{Tylko czeœæ. Ja iœæ.}
-{174}{}{Muszê ciê o coœ zapytaæ.}
-{175}{}{Chcê siê tylko przywitaæ.}
-{176}{}{Hmm, pomyœlmy... podejrzewam, ¿e najlepiej by³oby zajrzeæ do Kryptopolis, gdy¿ jest to najnowoczeœniejsze miejsce, jakie przychodzi mi do g³owy. Ale mo¿e warto te¿ spróbowaæ w Nowym Reno. Jest bli¿ej i du¿o siê tam handluje z Kryptopolis.}
-{177}{}{Dziêkujê.}
-{178}{}{Dziêki za naprawienie komputera. Nasze ty³ki du¿o ci zawdziêczaj¹.}
-{179}{}{Mam ciekawsze rzeczy do zrobienia ni¿ strzelanie do takich jak ty, ale wszyscy potrzebujemy odpoczynku!}
+{165}{}{No cÃ³Å¼... w pewnym sensie podziwiam je za to, czym sÄ… i czym prÃ³bujÄ… siÄ™ staÄ‡. Z drugiej strony bojÄ™ siÄ™ ich jak diabli. Chyba nigdy nie przyzwyczajÄ™ siÄ™ do faktu, Å¼e one sÄ… tak samo inteligentne jak ja... no, przynajmniej niektÃ³re z nich.}
+{166}{}{Ty myÅ›li one groÅºny dla ludzi?}
+{167}{}{Czy sÄ…dzisz, Å¼e stanowiÄ… zagroÅ¼enie dla ludzkiego spoÅ‚eczeÅ„stwa?}
+{168}{}{Och, jak najbardziej. Znacznie przewyÅ¼szajÄ… nas fizycznie, a umysÅ‚owo nam dorÃ³wnujÄ…. To czyni z nich caÅ‚kiem duÅ¼e zagroÅ¼enie. Ale to siÄ™ koniec koÅ„cÃ³w sprowadza do etyki i moralnoÅ›ci. Na szczÄ™Å›cie wydaje mi siÄ™, Å¼e one sÄ… dobrze rozwiniÄ™te pod tym wzglÄ™dem.}
+{169}{}{Moja rozumieÄ‡.}
+{170}{}{Tia, wiem co masz na myÅ›li.}
+{171}{}{Hejka. Dobrze ciÄ™ znowu widzieÄ‡. W czym mogÄ™ ci pomÃ³c?}
+{172}{}{Musi zapytaÄ‡.}
+{173}{}{Tylko czeÅ›Ä‡. Ja iÅ›Ä‡.}
+{174}{}{MuszÄ™ ciÄ™ o coÅ› zapytaÄ‡.}
+{175}{}{ChcÄ™ siÄ™ tylko przywitaÄ‡.}
+{176}{}{Hmm, pomyÅ›lmy... podejrzewam, Å¼e najlepiej byÅ‚oby zajrzeÄ‡ do Kryptopolis, gdyÅ¼ jest to najnowoczeÅ›niejsze miejsce, jakie przychodzi mi do gÅ‚owy. Ale moÅ¼e warto teÅ¼ sprÃ³bowaÄ‡ w Nowym Reno. Jest bliÅ¼ej i duÅ¼o siÄ™ tam handluje z Kryptopolis.}
+{177}{}{DziÄ™kujÄ™.}
+{178}{}{DziÄ™ki za naprawienie komputera. Nasze tyÅ‚ki duÅ¼o ci zawdziÄ™czajÄ….}
+{179}{}{Mam ciekawsze rzeczy do zrobienia niÅ¼ strzelanie do takich jak ty, ale wszyscy potrzebujemy odpoczynku!}
 {180}{}{. Ja zapyta?}
-{181}{}{. Czy mogê ciê o coœ zapytaæ?}
-{182}{}{. Z przyjemnoœci¹ odpowiem na kilka pytañ.}
-{183}{}{Lepiej powiedz Grutharowi, ¿e komputer ju¿ dzia³a.}
+{181}{}{. Czy mogÄ™ ciÄ™ o coÅ› zapytaÄ‡?}
+{182}{}{. Z przyjemnoÅ›ciÄ… odpowiem na kilka pytaÅ„.}
+{183}{}{Lepiej powiedz Grutharowi, Å¼e komputer juÅ¼ dziaÅ‚a.}

@@ -1,51 +1,51 @@
-{100}{}{Widzisz kogoœ, kto móg³by byæ traperem.}
-{101}{}{Widzisz kogoœ odprê¿aj¹cego siê}
-{102}{}{Widzisz mieszkañca miasta.}
-{103}{}{Widzisz odprê¿aj¹cego siê robotnika.}
-{104}{}{Widzisz osobê spêdzaj¹c¹ czas przy kieliszku.}
+{100}{}{Widzisz kogoÅ›, kto mÃ³gÅ‚by byÄ‡ traperem.}
+{101}{}{Widzisz kogoÅ› odprÄ™Å¼ajÄ…cego siÄ™}
+{102}{}{Widzisz mieszkaÅ„ca miasta.}
+{103}{}{Widzisz odprÄ™Å¼ajÄ…cego siÄ™ robotnika.}
+{104}{}{Widzisz osobÄ™ spÄ™dzajÄ…cÄ… czas przy kieliszku.}
 {150}{}{Chyba to nie ta tawerna, co?}
-{151}{}{Nie potrzebujemy tu wagabundów.}
-{152}{}{Dzicy zawsze oznaczaj¹ k³opoty.}
-{153}{}{Pij œmia³o, tylko ¿eby ciê póŸniej ³ódk¹ albo koñmi nie wyci¹gali...}
-{154}{}{[mamrocze, mamrocze] ...¿a³osny grinhorn spoza miasta...}
-{155}{}{Nastêpny z gangu Duntona.}
-{156}{}{Na co siê gapisz?}
-{157}{}{OdejdŸ st¹d.}
+{151}{}{Nie potrzebujemy tu wagabundÃ³w.}
+{152}{}{Dzicy zawsze oznaczajÄ… kÅ‚opoty.}
+{153}{}{Pij Å›miaÅ‚o, tylko Å¼eby ciÄ™ pÃ³Åºniej Å‚Ã³dkÄ… albo koÅ„mi nie wyciÄ…gali...}
+{154}{}{[mamrocze, mamrocze] ...Å¼aÅ‚osny grinhorn spoza miasta...}
+{155}{}{NastÄ™pny z gangu Duntona.}
+{156}{}{Na co siÄ™ gapisz?}
+{157}{}{OdejdÅº stÄ…d.}
 {158}{}{Postaw wszystkim piwo przybyszu.}
-{159}{}{Mam nadziejê, ¿e potrafisz utrzymaæ w sobie alkohol.}
-{160}{}{Nie wygl¹dasz na ludo¿ercê.}
-{161}{}{¯adnych pokoi dla takich jak ty.}
-{162}{}{Stanowczo za du¿o obcych pojawi³o siê ostatnio w mieœcie.}
-{163}{}{No przynajmniej masz klawiaturê na miejscu.}
-{164}{}{Oooo, id¹ s¹siedzi.}
-{165}{}{A gdzie masz swoj¹ koœæ z nosa?}
-{166}{}{[Patrzy na ciebie i po prostu potrz¹sa g³ow¹]}
-{167}{}{[W bardzo subtelny sposób pokazuje ci bardzo nieuprzejmy gest]}
+{159}{}{Mam nadziejÄ™, Å¼e potrafisz utrzymaÄ‡ w sobie alkohol.}
+{160}{}{Nie wyglÄ…dasz na ludoÅ¼ercÄ™.}
+{161}{}{Å»adnych pokoi dla takich jak ty.}
+{162}{}{Stanowczo za duÅ¼o obcych pojawiÅ‚o siÄ™ ostatnio w mieÅ›cie.}
+{163}{}{No przynajmniej masz klawiaturÄ™ na miejscu.}
+{164}{}{Oooo, idÄ… sÄ…siedzi.}
+{165}{}{A gdzie masz swojÄ… koÅ›Ä‡ z nosa?}
+{166}{}{[Patrzy na ciebie i po prostu potrzÄ…sa gÅ‚owÄ…]}
+{167}{}{[W bardzo subtelny sposÃ³b pokazuje ci bardzo nieuprzejmy gest]}
 {168}{}{To pewnie ty odpowiadasz za okaleczenia bramin.}
-{169}{}{Kilku naszych myœliwych ostatnio zaginê³o. Ty pewnie jesteœ przyczyn¹.}
-{170}{}{Dooko³a miasta pe³nego jakichœ skorpioludów.}
-{171}{}{W kanionie na wschód od miasta jest duch.}
-{172}{}{Nie pozwól, aby dorwa³ ciê Wêdruj¹cy Duch!}
-{173}{}{Nawet nie próbuj kraœæ naszych bramin.}
+{169}{}{Kilku naszych myÅ›liwych ostatnio zaginÄ™Å‚o. Ty pewnie jesteÅ› przyczynÄ….}
+{170}{}{DookoÅ‚a miasta peÅ‚nego jakichÅ› skorpioludÃ³w.}
+{171}{}{W kanionie na wschÃ³d od miasta jest duch.}
+{172}{}{Nie pozwÃ³l, aby dorwaÅ‚ ciÄ™ WÄ™drujÄ…cy Duch!}
+{173}{}{Nawet nie prÃ³buj kraÅ›Ä‡ naszych bramin.}
 {174}{}{Mamy na ciebie oko.}
-{201}{}{Mi³o widzieæ kogoœ nowego w mieœcie.}
-{202}{}{Myœlê, ¿e koniec koñców dzicy nie s¹ tacy Ÿli.}
-{203}{}{Postaw nam kolejkê!}
-{204}{}{Czeœæ wszystkim.}
-{205}{}{Czy ty i Sulik nie jesteœcie czasem bliŸniêtami.}
-{206}{}{Znasz ju¿ Sulika?}
-{207}{}{Ostatnio wiele zwierz¹t ³apie siê w pu³apki.}
-{208}{}{Chyba pogoda niebawem siê zmieni.}
-{209}{}{Na po³udniu zastawi³em ca³¹ sieæ pu³apek.}
-{210}{}{Jeœli masz choæ trochê rozumu w g³owie, to trzymaj siê z daleka od Duntonów.}
-{211}{}{Jeœli chcesz siê odprê¿yæ, zajrzyj do £aŸni.}
-{212}{}{IdŸ na zachód do Miasteczka Traperów, jeœli poszukujesz miejsca do zagrzania.}
+{201}{}{MiÅ‚o widzieÄ‡ kogoÅ› nowego w mieÅ›cie.}
+{202}{}{MyÅ›lÄ™, Å¼e koniec koÅ„cÃ³w dzicy nie sÄ… tacy Åºli.}
+{203}{}{Postaw nam kolejkÄ™!}
+{204}{}{CzeÅ›Ä‡ wszystkim.}
+{205}{}{Czy ty i Sulik nie jesteÅ›cie czasem bliÅºniÄ™tami.}
+{206}{}{Znasz juÅ¼ Sulika?}
+{207}{}{Ostatnio wiele zwierzÄ…t Å‚apie siÄ™ w puÅ‚apki.}
+{208}{}{Chyba pogoda niebawem siÄ™ zmieni.}
+{209}{}{Na poÅ‚udniu zastawiÅ‚em caÅ‚Ä… sieÄ‡ puÅ‚apek.}
+{210}{}{JeÅ›li masz choÄ‡ trochÄ™ rozumu w gÅ‚owie, to trzymaj siÄ™ z daleka od DuntonÃ³w.}
+{211}{}{JeÅ›li chcesz siÄ™ odprÄ™Å¼yÄ‡, zajrzyj do ÅaÅºni.}
+{212}{}{IdÅº na zachÃ³d do Miasteczka TraperÃ³w, jeÅ›li poszukujesz miejsca do zagrzania.}
 {213}{}{Witaj, przyjacielu.}
-{214}{}{Mam nadziejê, ¿e lubisz nasze miasto.}
-{215}{}{Klamath to jest w³aœnie to miejsce.}
-{216}{}{Mi³o, ¿e jesteœ z nami.}
+{214}{}{Mam nadziejÄ™, Å¼e lubisz nasze miasto.}
+{215}{}{Klamath to jest wÅ‚aÅ›nie to miejsce.}
+{216}{}{MiÅ‚o, Å¼e jesteÅ› z nami.}
 {217}{}{[wznosi do ciebie kufel]}
 {218}{}{[puszcza do ciebie oczko]}
-{219}{}{Nigdy nie wêdruj w nocy.}
-{220}{}{Tam na wzgórzach jest pe³no Skorpioludów.}
-{221}{}{Jeden z naszych najlepszych traperów zagin¹³.}
+{219}{}{Nigdy nie wÄ™druj w nocy.}
+{220}{}{Tam na wzgÃ³rzach jest peÅ‚no SkorpioludÃ³w.}
+{221}{}{Jeden z naszych najlepszych traperÃ³w zaginÄ…Å‚.}

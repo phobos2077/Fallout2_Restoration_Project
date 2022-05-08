@@ -1,62 +1,62 @@
-{100}{}{Você verá um computador funcional.}
-{101}{}{Você vê o Terminal de Pesquisa e Desenvolvimento Top Secret da EPA.}
-{102}{}{Bem-vindo ao Terminal de Pesquisa e Desenvolvimento Top Secret da EPA. Erro ao inicializar o procedimento de acesso rápido. Por favor
-  procure algo específico.}
-{103}{}{Procure qualquer coisa de importância.}
-{104}{}{Fim de sessão.}
-{105}{}{Após 30 minutos de peneirar todos os arquivos, você encontrará quatro dos quais parecem úteis. Faça uma escolha abaixo.}
-{106}{}{Acesse o registro do histórico FEV.}
+{100}{}{VocÃª verÃ¡ um computador funcional.}
+{101}{}{VocÃª vÃª o Terminal de Pesquisa e Desenvolvimento Top Secret da EPA.}
+{102}{}{Bem-vindo ao Terminal de Pesquisa e Desenvolvimento Top Secret da EPA. Erro ao inicializar o procedimento de acesso rÃ¡pido. Por favor
+Â  procure algo especÃ­fico.}
+{103}{}{Procure qualquer coisa de importÃ¢ncia.}
+{104}{}{Fim de sessÃ£o.}
+{105}{}{ApÃ³s 30 minutos de peneirar todos os arquivos, vocÃª encontrarÃ¡ quatro dos quais parecem Ãºteis. FaÃ§a uma escolha abaixo.}
+{106}{}{Acesse o registro do histÃ³rico FEV.}
 {107}{}{Acesse o arquivo sobre cura de Epilepsia.}
 {108}{}{Continue procurando.}
-{109}{}{Faça uma escolha abaixo.}
-{110}{}{À medida que as tensões continuavam a aumentar entre os EUA e a China, um medo na vanguarda das mentes dos nossos oficiais militares
-  era que os chineses iriam implantar armas biológicas contra tropas americanas. Como resultado, a West Tek, uma das principais empreiteiras tecnologicas 
-  de alta tecnologia de defesa, foi contratada para desenvolver um agente contador. Isso levou à pesquisa da West Tek no Virion Pan-Immunity
-  Projeto (PVP) com a intenção de criar imunidade em soldados, reestruturando seu DNA. Durante o teste de PVP em 2076,
-  Foram observados efeitos colaterais anormais em indivíduos com teste. Os animais de teste começaram a crescer drasticamente e sua atividade cerebral
-  aumentou.}
+{109}{}{FaÃ§a uma escolha abaixo.}
+{110}{}{Ã€ medida que as tensÃµes continuavam a aumentar entre os EUA e a China, um medo na vanguarda das mentes dos nossos oficiais militares
+Â  era que os chineses iriam implantar armas biolÃ³gicas contra tropas americanas. Como resultado, a West Tek, uma das principais empreiteiras tecnologicas 
+  de alta tecnologia de defesa, foi contratada para desenvolver um agente contador. Isso levou Ã  pesquisa da West Tek no Virion Pan-Immunity
+Â  Projeto (PVP) com a intenÃ§Ã£o de criar imunidade em soldados, reestruturando seu DNA. Durante o teste de PVP em 2076,
+Â  Foram observados efeitos colaterais anormais em indivÃ­duos com teste. Os animais de teste comeÃ§aram a crescer drasticamente e sua atividade cerebral
+Â  aumentou.}
 {111}{}{[MAIS]}
-{112}{}{Vendo o potencial lá, o Exército rapidamente requisitou o projeto e renomeou-o FEV: Virus Evolutivo Forçado.
-  Não contente com a mera imunidade à doença, o VEF potencialmente transformaria os soldados em anormalmente fortes e inteligentes
-  "Super homens". Uma vez que os testes em animais chegaram a sua conclusão lógica, a pesquisa FEV foi transferida para sua localização atual na
-  Base Militar de Mariposa. Lá, aprendemos que os testes irão para o próximo nível, já que eles começam os ultimos
-  testes secretos em prisioneiros militares. Antecipamos ansiosamente os resultados dessas excitantes experiências.}
+{112}{}{Vendo o potencial lÃ¡, o ExÃ©rcito rapidamente requisitou o projeto e renomeou-o FEV: Virus Evolutivo ForÃ§ado.
+Â  NÃ£o contente com a mera imunidade Ã  doenÃ§a, o VEF potencialmente transformaria os soldados em anormalmente fortes e inteligentes
+Â  "Super homens". Uma vez que os testes em animais chegaram a sua conclusÃ£o lÃ³gica, a pesquisa FEV foi transferida para sua localizaÃ§Ã£o atual na
+Â  Base Militar de Mariposa. LÃ¡, aprendemos que os testes irÃ£o para o prÃ³ximo nÃ­vel, jÃ¡ que eles comeÃ§am os ultimos
+Â  testes secretos em prisioneiros militares. Antecipamos ansiosamente os resultados dessas excitantes experiÃªncias.}
 {113}{}{Voltar.}
-{120}{}{Uma das nossas pesquisas, o Dr. Hodkin, fez uma descoberta maravilhosa em suas pesquisas recentes sobre o modo como o cérebro humano
-  processa respostas verbais. Aparentemente, ao repetir uma série de letras com as inflexões apropriadas, um ouvinte pode ser
-  curado de uma série de doenças neurológicas, como autismo ou epilepsia. Incluído neste registro é a seqüência exata de letras
-  (e as inflexões apropriadas) usadas pelo Dr. Hodkin em suas experiências. Esta é uma notícia maravilhosa e é um excelente começo para
-  Pesquisa adicional sobre o tratamento de distúrbios neurológicos crônicos.}
-{121}{}{Isto poderá ser útil. Tome nota da seqüência de caracteres e procurar outra coisa.}
-{130}{}{Você não encontra mais nada de interesse.}
-{131}{}{Você ainda não encontra mais nada de interesse.}
-{132}{}{Talvez se você procurar um pouco mais, talvez encontre alguma coisa?}
+{120}{}{Uma das nossas pesquisas, o Dr. Hodkin, fez uma descoberta maravilhosa em suas pesquisas recentes sobre o modo como o cÃ©rebro humano
+Â  processa respostas verbais. Aparentemente, ao repetir uma sÃ©rie de letras com as inflexÃµes apropriadas, um ouvinte pode ser
+Â  curado de uma sÃ©rie de doenÃ§as neurolÃ³gicas, como autismo ou epilepsia. IncluÃ­do neste registro Ã© a seqÃ¼Ãªncia exata de letras
+Â  (e as inflexÃµes apropriadas) usadas pelo Dr. Hodkin em suas experiÃªncias. Esta Ã© uma notÃ­cia maravilhosa e Ã© um excelente comeÃ§o para
+Â  Pesquisa adicional sobre o tratamento de distÃºrbios neurolÃ³gicos crÃ´nicos.}
+{121}{}{Isto poderÃ¡ ser Ãºtil. Tome nota da seqÃ¼Ãªncia de caracteres e procurar outra coisa.}
+{130}{}{VocÃª nÃ£o encontra mais nada de interesse.}
+{131}{}{VocÃª ainda nÃ£o encontra mais nada de interesse.}
+{132}{}{Talvez se vocÃª procurar um pouco mais, talvez encontre alguma coisa?}
 {133}{}{Talvez mais uma pesquisa?}
-{134}{}{Após muita pesquisa dolorosa, você encontra um arquivo oculto.}
-{135}{}{Arquivo de acesso rotulado: Projeto de Fluoração de Massa.}
-{136}{}{No esforço contínuo para tornar os cidadãos dos Estados Unidos mais controláveis, a inclusão de sódio
-  O fluoreto em toda a água potável disponível é efetivo imediatamente. Os efeitos a longo prazo nos testes resultaram em
-  assuntos tornando-se mais "estúpidos e dóceis". Além disso, observou-se que o fluoreto de sódio causou danos leves a
-  uma parte específica do cérebro, tornando mais difícil para a pessoa afetada defender sua liberdade e 
-  fazendo com que o indivíduo se torne mais dócil em relação à autoridade.}
+{134}{}{ApÃ³s muita pesquisa dolorosa, vocÃª encontra um arquivo oculto.}
+{135}{}{Arquivo de acesso rotulado: Projeto de FluoraÃ§Ã£o de Massa.}
+{136}{}{No esforÃ§o contÃ­nuo para tornar os cidadÃ£os dos Estados Unidos mais controlÃ¡veis, a inclusÃ£o de sÃ³dio
+Â  O fluoreto em toda a Ã¡gua potÃ¡vel disponÃ­vel Ã© efetivo imediatamente. Os efeitos a longo prazo nos testes resultaram em
+Â  assuntos tornando-se mais "estÃºpidos e dÃ³ceis". AlÃ©m disso, observou-se que o fluoreto de sÃ³dio causou danos leves a
+Â  uma parte especÃ­fica do cÃ©rebro, tornando mais difÃ­cil para a pessoa afetada defender sua liberdade e 
+  fazendo com que o indivÃ­duo se torne mais dÃ³cil em relaÃ§Ã£o Ã  autoridade.}
 {137}{}{[MAIS]}
-{138}{}{Em nossa experimentação mais recente, nós escolhemos o oficial militar, General J. Ripper, como sujeito. Inicialmente,
-  Ele não sabia da nossa intenção, mas agora parece ter pegado. Ele ficou obcecado com a frase "precioso corporal
-  fluidos" e evita beber qualquer substância que ele não saiba de onde se originou. Ele mesmo parou de ter relações sexuais
-  intercurso porque teme que as mulheres busquem "a essência da vida".}
+{138}{}{Em nossa experimentaÃ§Ã£o mais recente, nÃ³s escolhemos o oficial militar, General J. Ripper, como sujeito. Inicialmente,
+Â  Ele nÃ£o sabia da nossa intenÃ§Ã£o, mas agora parece ter pegado. Ele ficou obcecado com a frase "precioso corporal
+Â  fluidos" e evita beber qualquer substÃ¢ncia que ele nÃ£o saiba de onde se originou. Ele mesmo parou de ter relaÃ§Ãµes sexuais
+Â  intercurso porque teme que as mulheres busquem "a essÃªncia da vida".}
 {139}{}{Voltar.}
-{150}{}{Modificação de gênero.}
-{151}{}{Carregados de vírus Moscas-das-Frutas.}
-{160}{}{Dr. Glen Wood alcançou um novo avanço na pesquisa sobre a modificação de gênero que ele alega
-  revolucionar os esforços de espionagem de nossos países. Com apenas um procedimento simples, um homem pode se tornar uma mulher, ou vice-versa.
-  Dr. Wood insistiu em ser o primeiro a sofrer a transformação radical. Uma vez concluída a operação, ele tem
-  pediu que ele, ou ela, fosse referido como Glenda.}
-{170}{}{As moscas de frutas mutantes agora estão carregando com sucesso o vírus. No entanto, antes de libertá-los em solo estrangeiro,
-  Decidiu-se que primeiro exporemos as moscas da fruta a uma pequena comunidade americana isolada, onde podemos monitorar
-  os efeitos fora de um ambiente de laboratório. As vítimas civis que provavelmente resultarão são infelizes, ainda assim
-  necessário, sacrifício. Além disso, qualquer americano verdadeiro seria honrado em desistir de sua vida pelo bem da nossa grande nação.}
-{200}{}{Você aprende sobre a verdadeira intenção de fluoretação da água.}
+{150}{}{ModificaÃ§Ã£o de gÃªnero.}
+{151}{}{Carregados de vÃ­rus Moscas-das-Frutas.}
+{160}{}{Dr. Glen Wood alcanÃ§ou um novo avanÃ§o na pesquisa sobre a modificaÃ§Ã£o de gÃªnero que ele alega
+Â  revolucionar os esforÃ§os de espionagem de nossos paÃ­ses. Com apenas um procedimento simples, um homem pode se tornar uma mulher, ou vice-versa.
+Â  Dr. Wood insistiu em ser o primeiro a sofrer a transformaÃ§Ã£o radical. Uma vez concluÃ­da a operaÃ§Ã£o, ele tem
+Â  pediu que ele, ou ela, fosse referido como Glenda.}
+{170}{}{As moscas de frutas mutantes agora estÃ£o carregando com sucesso o vÃ­rus. No entanto, antes de libertÃ¡-los em solo estrangeiro,
+Â  Decidiu-se que primeiro exporemos as moscas da fruta a uma pequena comunidade americana isolada, onde podemos monitorar
+Â  os efeitos fora de um ambiente de laboratÃ³rio. As vÃ­timas civis que provavelmente resultarÃ£o sÃ£o infelizes, ainda assim
+Â  necessÃ¡rio, sacrifÃ­cio. AlÃ©m disso, qualquer americano verdadeiro seria honrado em desistir de sua vida pelo bem da nossa grande naÃ§Ã£o.}
+{200}{}{VocÃª aprende sobre a verdadeira intenÃ§Ã£o de fluoretaÃ§Ã£o da Ã¡gua.}
 {311}{}{Whirrrr....}
 {312}{}{BEEP!!}
 {313}{}{Estalidos...}
-{1311}{}{Não desista. Algo está destinado a ser encontrado.}
+{1311}{}{NÃ£o desista. Algo estÃ¡ destinado a ser encontrado.}

@@ -1,2 +1,2 @@
-{100}{}{Le puits n'a pas fonctionné depuis un bon moment. Il a besoin d'être réparé.}
+{100}{}{Le puits n'a pas fonctionnÃ© depuis un bon moment. Il a besoin d'Ãªtre rÃ©parÃ©.}
 {101}{}{Le puits fonctionne bien.}

@@ -1,74 +1,74 @@
-{100}{}{Widzisz stra¿niczkê.}
-{101}{}{Widzisz stra¿nika w pancerzu wspomaganym.}
-{102}{}{Widzisz kogoœ w nietypowym pancerzu wspomaganym. Na napierœniku widnieje nieznany ci symbol.}
-{103}{}{U mnie wszystko w porz¹dku.}
+{100}{}{Widzisz straÅ¼niczkÄ™.}
+{101}{}{Widzisz straÅ¼nika w pancerzu wspomaganym.}
+{102}{}{Widzisz kogoÅ› w nietypowym pancerzu wspomaganym. Na napierÅ›niku widnieje nieznany ci symbol.}
+{103}{}{U mnie wszystko w porzÄ…dku.}
 {104}{}{Nic mi nie jest, a tobie?}
-{105}{}{¯o³nierzu, mo¿e lepiej udaj siê na swój posterunek? Niedobrze jest siê tu krêciæ.}
+{105}{}{Å»oÅ‚nierzu, moÅ¼e lepiej udaj siÄ™ na swÃ³j posterunek? Niedobrze jest siÄ™ tu krÄ™ciÄ‡.}
 {106}{}{Nie masz muduru.}
-{107}{}{Lepiej zg³oœ siê do sier¿anta po wyposa¿enie.}
-{108}{}{Chodz¹c bez munduru du¿o ryzykujesz. Lepiej zg³oœ siê do zaopatrzenia.}
-{109}{}{Kim wy u licha jesteœcie... Alarm! Intruzi!}
-{110}{}{Zostaliœmy zinfiltrowani! Alarm!}
-{111}{}{Liczni intruzi! Og³osiæ alarm!}
-{112}{}{Alarm! Zamkn¹æ bazê!}
-{113}{}{Zabezpieczyæ wszystkie odcinki! Mamy alarm!}
+{107}{}{Lepiej zgÅ‚oÅ› siÄ™ do sierÅ¼anta po wyposaÅ¼enie.}
+{108}{}{ChodzÄ…c bez munduru duÅ¼o ryzykujesz. Lepiej zgÅ‚oÅ› siÄ™ do zaopatrzenia.}
+{109}{}{Kim wy u licha jesteÅ›cie... Alarm! Intruzi!}
+{110}{}{ZostaliÅ›my zinfiltrowani! Alarm!}
+{111}{}{Liczni intruzi! OgÅ‚osiÄ‡ alarm!}
+{112}{}{Alarm! ZamknÄ…Ä‡ bazÄ™!}
+{113}{}{ZabezpieczyÄ‡ wszystkie odcinki! Mamy alarm!}
 {114}{}{Alarm! Intruzi! Kod czerwony!}
-{115}{}{Rozgnieciemy ciê!}
-{116}{}{Enklawa bêdzie rz¹dziæ œwiatem!}
-{117}{}{Umrzesz, by Enklawa mog³a przetrwaæ!}
+{115}{}{Rozgnieciemy ciÄ™!}
+{116}{}{Enklawa bÄ™dzie rzÄ…dziÄ‡ Å›wiatem!}
+{117}{}{Umrzesz, by Enklawa mogÅ‚a przetrwaÄ‡!}
 {200}{}{...dupek...}
-{201}{}{...lepiej st¹d spadaj...}
+{201}{}{...lepiej stÄ…d spadaj...}
 {202}{}{...co za trep...}
 {203}{}{...tak jest, sir!-kurwa-sir!...}
-{300}{}{Staæ. Co robisz z tym samolotem? Nie ma zaplanowanych ¿adnych lotów przez nastêpnych kilka dni.}
-{301}{}{Hê?}
-{302}{}{Zdajê sobie z tego sprawê.}
-{303}{}{Przepraszam. Tylko patrzê. Muszê ju¿ iœæ.}
-{304}{}{Plany lotów siê zmieni³y. Zabieram ten samolot.}
-{310}{}{Co? Oh, rozumiem. S³uchaj, nie dotykaj. Dobra? Dotkniesz jeszcze raz to zginiesz.}
-{311}{}{[Uœmiechasz siê i ... atakujesz.]}
-{312}{}{(OdejdŸ.)}
-{315}{}{O kurwa, wygl¹da na to, ¿e mamy intruza. Kod czerwony! Powtarzam, kod czerwony!}
-{316}{}{To brzmi nieŸle. Dotknij tego samolotu jeszcze raz, a zarobisz kulkê w ³eb.}
-{320}{}{Racja. I oto jesteœ...}
-{321}{}{W³aœnie sobie idê. Przepraszam za k³opot.}
-{322}{}{Mam dostarczyæ wa¿n¹ informacje do g³ównej bazy.}
-{323}{}{O, naprawdê? I co to za wiadomoœæ.}
-{324}{}{Jest super tajna. Nie mogê powiedzieæ.}
-{325}{}{Dobra powiem ci, ale jest niezwykle wa¿ne ¿ebyœ nie zdradzi³ tej informacji nikomu innemu, chcê unikn¹æ zbiorowej paniki.
- Widzisz, nie usz³o mojej uwadze, ¿e ostatni transport niewolników by³ zara¿ony nieznan¹ chorob¹, szczep wirusa o du¿ej œmiertelnoœci zara¿onych.
- Ja *muszê* jak najszybciej dostaæ siê do bazy, albo wszyscy zginiemy. A teraz przestañ marnowaæ mój czas, nie mam ani chwili do stracenia.}
-{326}{}{Jaaasne, wierzê ci. Wygl¹da, ¿e mamy intruza...}
-{327}{}{Cholera! A, wszystko jedno. Nikt mi nigdy nic nie mówi. Dobra. Rób swoje.}
-{328}{}{¯e co? To nie brzmi dobrze. Ruszaj, nie chcê byæ za to odpowiedzialny. A i nie martw siê, nikomu nie powiem.}
+{300}{}{StaÄ‡. Co robisz z tym samolotem? Nie ma zaplanowanych Å¼adnych lotÃ³w przez nastÄ™pnych kilka dni.}
+{301}{}{HÄ™?}
+{302}{}{ZdajÄ™ sobie z tego sprawÄ™.}
+{303}{}{Przepraszam. Tylko patrzÄ™. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{304}{}{Plany lotÃ³w siÄ™ zmieniÅ‚y. Zabieram ten samolot.}
+{310}{}{Co? Oh, rozumiem. SÅ‚uchaj, nie dotykaj. Dobra? Dotkniesz jeszcze raz to zginiesz.}
+{311}{}{[UÅ›miechasz siÄ™ i ... atakujesz.]}
+{312}{}{(OdejdÅº.)}
+{315}{}{O kurwa, wyglÄ…da na to, Å¼e mamy intruza. Kod czerwony! Powtarzam, kod czerwony!}
+{316}{}{To brzmi nieÅºle. Dotknij tego samolotu jeszcze raz, a zarobisz kulkÄ™ w Å‚eb.}
+{320}{}{Racja. I oto jesteÅ›...}
+{321}{}{WÅ‚aÅ›nie sobie idÄ™. Przepraszam za kÅ‚opot.}
+{322}{}{Mam dostarczyÄ‡ waÅ¼nÄ… informacje do gÅ‚Ã³wnej bazy.}
+{323}{}{O, naprawdÄ™? I co to za wiadomoÅ›Ä‡.}
+{324}{}{Jest super tajna. Nie mogÄ™ powiedzieÄ‡.}
+{325}{}{Dobra powiem ci, ale jest niezwykle waÅ¼ne Å¼ebyÅ› nie zdradziÅ‚ tej informacji nikomu innemu, chcÄ™ uniknÄ…Ä‡ zbiorowej paniki.
+ Widzisz, nie uszÅ‚o mojej uwadze, Å¼e ostatni transport niewolnikÃ³w byÅ‚ zaraÅ¼ony nieznanÄ… chorobÄ…, szczep wirusa o duÅ¼ej Å›miertelnoÅ›ci zaraÅ¼onych.
+ Ja *muszÄ™* jak najszybciej dostaÄ‡ siÄ™ do bazy, albo wszyscy zginiemy. A teraz przestaÅ„ marnowaÄ‡ mÃ³j czas, nie mam ani chwili do stracenia.}
+{326}{}{Jaaasne, wierzÄ™ ci. WyglÄ…da, Å¼e mamy intruza...}
+{327}{}{Cholera! A, wszystko jedno. Nikt mi nigdy nic nie mÃ³wi. Dobra. RÃ³b swoje.}
+{328}{}{Å»e co? To nie brzmi dobrze. Ruszaj, nie chcÄ™ byÄ‡ za to odpowiedzialny. A i nie martw siÄ™, nikomu nie powiem.}
 {329}{}{[dalej]}
-{400}{}{[Po pó³ godziny siedzenia w ciemnej ³adowni, czujesz jak samolot ponownie osiada na ziemi. Chwilê
- póŸniej, drzwi ³adowni otwieraj¹ siê, a przed nimi widzisz oddzia³ ¿o³nierzy w pancerzach wspomaganych. Jeden z nich przygl¹da ci siê uwa¿nie
- i odwraca do reszty.] Jasna cholera! Jakiœ zmutowany w³óczêga ukry³ siê w ptaku! ALARM! Mamy intruza!}
-{401}{}{[Po pó³ godziny siedzenia w ciemnej ³adowni, czujesz jak samolot ponownie osiada na ziemi. Chwilê
- póŸniej, drzwi ³adowni otwieraj¹ siê, a przed nimi widzisz oddzia³ ¿o³nierzy w pancerzach wspomaganych. Jeden z nich przygl¹da ci siê uwa¿nie
- i odwraca do reszty.] Jasna cholera! Jacyœ zmutowani w³óczêdzy ukryli siê w ptaku! ALARM! Mamy intruzów!}
-{402}{}{[Wyskocz i zobacz ilu uda ci siê œci¹gn¹æ zanim ciê wyp³aszcz¹.]}
-{403}{}{[Podnieœ rêce w geœcie poddania i licz na najlepsze.]}
-{410}{}{O, wygl¹da, ¿e mutek nie chce walczyæ. Mo¿e powinniœmy zabraæ go do Dowódcy, zobaczymy co on bêdzie chcia³ z nim zrobiæ.}
-{411}{}{O, wygl¹da, ¿e mutek nie chce walczyæ. Mo¿e powinniœmy zabraæ j¹ do Dowódcy, zobaczymy co on bêdzie chcia³ z ni¹ zrobiæ.}
-{412}{}{O, wygl¹da, ¿e mutki nie chc¹ walczyæ. Mo¿e powinniœmy zabraæ ich do Dowódcy, Zobaczymy co on bêdzie chcia³ z nimi zrobiæ.}
-{420}{}{[Po 30 minutach spêdzonych w ciemnej ³adowni, nagle czujesz, ¿e ziemia zadr¿a³a. Chwilê póŸniej
- drzwi ³adowni otwieraj¹ siê i widzisz oddzia³ ¿o³nierzy Enklawy. Jeden z nich zerka w twoj¹ stronê] Co ty tu do cholery robisz?
- Nie zosta³eœ upowa¿niony do tego zadania. Jak masz na imiê, ¿o³nierzu?}
-{421}{}{To jak siê nazywam nie ma najmniejszego znaczenia, nie przyby³em tu by rozmawiaæ. [Wyskocz i zacznij walczyæ]}
-{422}{}{Ja? Oh, ja, uh, * kaszel * be³kot * kaszel *. Nie powinienem ci przeszkadzaæ. W istocie, w³aœnie mia³em zamiar siê oddaliæ.
- [WyjdŸ i spróbuj odejœæ nonszalancko.]}
+{400}{}{[Po pÃ³Å‚ godziny siedzenia w ciemnej Å‚adowni, czujesz jak samolot ponownie osiada na ziemi. ChwilÄ™
+ pÃ³Åºniej, drzwi Å‚adowni otwierajÄ… siÄ™, a przed nimi widzisz oddziaÅ‚ Å¼oÅ‚nierzy w pancerzach wspomaganych. Jeden z nich przyglÄ…da ci siÄ™ uwaÅ¼nie
+ i odwraca do reszty.] Jasna cholera! JakiÅ› zmutowany wÅ‚Ã³czÄ™ga ukryÅ‚ siÄ™ w ptaku! ALARM! Mamy intruza!}
+{401}{}{[Po pÃ³Å‚ godziny siedzenia w ciemnej Å‚adowni, czujesz jak samolot ponownie osiada na ziemi. ChwilÄ™
+ pÃ³Åºniej, drzwi Å‚adowni otwierajÄ… siÄ™, a przed nimi widzisz oddziaÅ‚ Å¼oÅ‚nierzy w pancerzach wspomaganych. Jeden z nich przyglÄ…da ci siÄ™ uwaÅ¼nie
+ i odwraca do reszty.] Jasna cholera! JacyÅ› zmutowani wÅ‚Ã³czÄ™dzy ukryli siÄ™ w ptaku! ALARM! Mamy intruzÃ³w!}
+{402}{}{[Wyskocz i zobacz ilu uda ci siÄ™ Å›ciÄ…gnÄ…Ä‡ zanim ciÄ™ wypÅ‚aszczÄ….]}
+{403}{}{[PodnieÅ› rÄ™ce w geÅ›cie poddania i licz na najlepsze.]}
+{410}{}{O, wyglÄ…da, Å¼e mutek nie chce walczyÄ‡. MoÅ¼e powinniÅ›my zabraÄ‡ go do DowÃ³dcy, zobaczymy co on bÄ™dzie chciaÅ‚ z nim zrobiÄ‡.}
+{411}{}{O, wyglÄ…da, Å¼e mutek nie chce walczyÄ‡. MoÅ¼e powinniÅ›my zabraÄ‡ jÄ… do DowÃ³dcy, zobaczymy co on bÄ™dzie chciaÅ‚ z niÄ… zrobiÄ‡.}
+{412}{}{O, wyglÄ…da, Å¼e mutki nie chcÄ… walczyÄ‡. MoÅ¼e powinniÅ›my zabraÄ‡ ich do DowÃ³dcy, Zobaczymy co on bÄ™dzie chciaÅ‚ z nimi zrobiÄ‡.}
+{420}{}{[Po 30 minutach spÄ™dzonych w ciemnej Å‚adowni, nagle czujesz, Å¼e ziemia zadrÅ¼aÅ‚a. ChwilÄ™ pÃ³Åºniej
+ drzwi Å‚adowni otwierajÄ… siÄ™ i widzisz oddziaÅ‚ Å¼oÅ‚nierzy Enklawy. Jeden z nich zerka w twojÄ… stronÄ™] Co ty tu do cholery robisz?
+ Nie zostaÅ‚eÅ› upowaÅ¼niony do tego zadania. Jak masz na imiÄ™, Å¼oÅ‚nierzu?}
+{421}{}{To jak siÄ™ nazywam nie ma najmniejszego znaczenia, nie przybyÅ‚em tu by rozmawiaÄ‡. [Wyskocz i zacznij walczyÄ‡]}
+{422}{}{Ja? Oh, ja, uh, * kaszel * beÅ‚kot * kaszel *. Nie powinienem ci przeszkadzaÄ‡. W istocie, wÅ‚aÅ›nie miaÅ‚em zamiar siÄ™ oddaliÄ‡.
+ [WyjdÅº i sprÃ³buj odejÅ›Ä‡ nonszalancko.]}
 {423}{}{Jestem }
 {424}{}{. Gzie ja jestem?}
-{425}{}{Nie! Jakie jest twoje imiê, ¿o³nierzu?! Zosta³em tutaj sprowadzony aby ciê przetestowaæ i muszê powiedzieæ, ¿e zawiod³eœ.
- Gdybym by³ zamachowcem samobójc¹, ty i ca³a za³oga ju¿ by nie ¿y³a. To jest nie do przyjêcia! WeŸcie siê w garœæ ¿o³nierzu!}
-{426}{}{Uh . . . imiê }
-{427}{}{. Jazda na metalowy ptak byæ ekstra! Ja chcieæ jeszcze raz! Chcieæ iœæ znowu!}
-{428}{}{Ty nie potrzebowaæ imiê moja. Moja nie lubieæ twoja. Moja zabijaæ twoja. [Wyskocz i zacznij walczyæ.]}
-{430}{}{Czy ty jesteœ pijany? Wiesz, ¿e jesteœ w Navarro? Jeœli masz problemy z pamiêci¹, ¿o³nierzu, powiem ci gdzie mo¿esz siê wyrejestrowaæ? Mo¿e ktoœ z zewn¹trz zechce ciê przyj¹æ.}
-{440}{}{Nie wciskaj mi kitu. Jesteœ jednym z tych nowych rekrutów, prawda? Hehe. Ta twoja niewyparzona gêba doprowadzi Ciê tylko do wielu k³opotów. - A ja wprost nie mogê siê tego doczekaæ. Wracaj na swoje miejsce, ¿o³nierzu.}
+{425}{}{Nie! Jakie jest twoje imiÄ™, Å¼oÅ‚nierzu?! ZostaÅ‚em tutaj sprowadzony aby ciÄ™ przetestowaÄ‡ i muszÄ™ powiedzieÄ‡, Å¼e zawiodÅ‚eÅ›.
+ Gdybym byÅ‚ zamachowcem samobÃ³jcÄ…, ty i caÅ‚a zaÅ‚oga juÅ¼ by nie Å¼yÅ‚a. To jest nie do przyjÄ™cia! WeÅºcie siÄ™ w garÅ›Ä‡ Å¼oÅ‚nierzu!}
+{426}{}{Uh . . . imiÄ™ }
+{427}{}{. Jazda na metalowy ptak byÄ‡ ekstra! Ja chcieÄ‡ jeszcze raz! ChcieÄ‡ iÅ›Ä‡ znowu!}
+{428}{}{Ty nie potrzebowaÄ‡ imiÄ™ moja. Moja nie lubieÄ‡ twoja. Moja zabijaÄ‡ twoja. [Wyskocz i zacznij walczyÄ‡.]}
+{430}{}{Czy ty jesteÅ› pijany? Wiesz, Å¼e jesteÅ› w Navarro? JeÅ›li masz problemy z pamiÄ™ciÄ…, Å¼oÅ‚nierzu, powiem ci gdzie moÅ¼esz siÄ™ wyrejestrowaÄ‡? MoÅ¼e ktoÅ› z zewnÄ…trz zechce ciÄ™ przyjÄ…Ä‡.}
+{440}{}{Nie wciskaj mi kitu. JesteÅ› jednym z tych nowych rekrutÃ³w, prawda? Hehe. Ta twoja niewyparzona gÄ™ba doprowadzi CiÄ™ tylko do wielu kÅ‚opotÃ³w. - A ja wprost nie mogÄ™ siÄ™ tego doczekaÄ‡. Wracaj na swoje miejsce, Å¼oÅ‚nierzu.}
 {450}{}{Tak jest sir!}
 {451}{}{Tak jest ma'am!}
-{460}{}{[¯o³nierz spogl¹da na jednego z towarzyszy.] Mój Bo¿e, oto co robi ten ca³y kontakt ze wszystkimi mutantami i promieniowaniem. Widzisz? W³aœnie dlatego nigdy nie ma ochotnika do trasy na pustkowie. W ka¿dym razie, przegoñmy st¹d tego g³upiego skurwysyna, zanim nas czymœ zarazi.}
-{461}{}{[¯o³nierz spogl¹da na jednego z towarzyszy.] Mój Bo¿e, oto co robi ten ca³y kontakt ze wszystkimi mutantami i promieniowaniem. Widzisz? W³aœnie dlatego nigdy nie ma ochotnika do trasy na pustkowie. W ka¿dym razie, przegoñmy st¹d tê g³upi¹ zdzirê, zanim nas czymœ zarazi.}
+{460}{}{[Å»oÅ‚nierz spoglÄ…da na jednego z towarzyszy.] MÃ³j BoÅ¼e, oto co robi ten caÅ‚y kontakt ze wszystkimi mutantami i promieniowaniem. Widzisz? WÅ‚aÅ›nie dlatego nigdy nie ma ochotnika do trasy na pustkowie. W kaÅ¼dym razie, przegoÅ„my stÄ…d tego gÅ‚upiego skurwysyna, zanim nas czymÅ› zarazi.}
+{461}{}{[Å»oÅ‚nierz spoglÄ…da na jednego z towarzyszy.] MÃ³j BoÅ¼e, oto co robi ten caÅ‚y kontakt ze wszystkimi mutantami i promieniowaniem. Widzisz? WÅ‚aÅ›nie dlatego nigdy nie ma ochotnika do trasy na pustkowie. W kaÅ¼dym razie, przegoÅ„my stÄ…d tÄ™ gÅ‚upiÄ… zdzirÄ™, zanim nas czymÅ› zarazi.}

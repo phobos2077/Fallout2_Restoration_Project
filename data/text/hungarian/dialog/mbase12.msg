@@ -1,1 +1,1 @@
-{100}{}{A barlang falai természetes kövekb?l és ember alkotta falakból állnak. Valószín?leg hajdanán egy nagy robbanás elpusztította ezt a épületet.}
+{100}{}{A barlang falai termÃ©szetes kÃ¶vekb?l Ã©s ember alkotta falakbÃ³l Ã¡llnak. ValÃ³szÃ­n?leg hajdanÃ¡n egy nagy robbanÃ¡s elpusztÃ­totta ezt a Ã©pÃ¼letet.}

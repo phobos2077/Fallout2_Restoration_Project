@@ -1,197 +1,197 @@
 {100}{}{Ves a uno de los habituales del casino.}
 {150}{}{Ves a uno de los habituales del casino. Parece cansado.}
 {151}{}{Ves a uno de los habituales del casino. Tiene un brillo codicioso en los ojos.}
-{152}{}{Ves a uno de los habituales del casino. Está ahuecando la cara con sus manos.}
+{152}{}{Ves a uno de los habituales del casino. EstÃ¡ ahuecando la cara con sus manos.}
 {153}{}{Ves a uno de los habituales del casino. Parece un poco achispado.}
-{154}{}{Ves a uno de los habituales del casino. Te guiña un ojo y luego se va, tambaleándose.}
-{155}{}{Ves a uno de los habituales del casino. Está intentando atraer la atención de la camarera.}
+{154}{}{Ves a uno de los habituales del casino. Te guiÃ±a un ojo y luego se va, tambaleÃ¡ndose.}
+{155}{}{Ves a uno de los habituales del casino. EstÃ¡ intentando atraer la atenciÃ³n de la camarera.}
 {156}{}{Ves a una de los habituales del casino. Parece cansada.}
 {157}{}{Ves a una de los habituales del casino. Tiene un brillo codicioso en los ojos.}
-{158}{}{Ves a una de los habituales del casino. Está ahuecando la cara con sus manos.}
+{158}{}{Ves a una de los habituales del casino. EstÃ¡ ahuecando la cara con sus manos.}
 {159}{}{Ves a una de los habituales del casino. Parece un poco achispada.}
-{160}{}{Ves a una de los habituales del casino. Te guiña un ojo y luego se va, tambaleándose.}
-{161}{}{Ves a una de los habituales del casino. Está intentando atraer la atención del camarero.}
+{160}{}{Ves a una de los habituales del casino. Te guiÃ±a un ojo y luego se va, tambaleÃ¡ndose.}
+{161}{}{Ves a una de los habituales del casino. EstÃ¡ intentando atraer la atenciÃ³n del camarero.}
 {200}{}{::Aplausos::}
 {201}{}{::Brindis::}
-{202}{}{¡Qué forma de arrasar a esos bastardos del Enclave! ¡Así se hace!}
-{203}{}{Qué forma de aplastar al Enclave, }
+{202}{}{Â¡QuÃ© forma de arrasar a esos bastardos del Enclave! Â¡AsÃ­ se hace!}
+{203}{}{QuÃ© forma de aplastar al Enclave, }
 {204}{}{Enhorabuena por pisotear al Enclave, }
 {205}{}{Enhorabuena por pisotear al Enclave, }
 {206}{}{Oh-oh. Salid de su camino.}
-{207}{}{Sólo lo miraba… la miraba… *lo que quiera* que sea me da escalofríos.}
-{208}{}{¿Crees que esa cosa quiere cargarse a alguien?}
-{209}{}{Es la furia del infierno encarnada. Eh, bajo la armadura, claro está.}
+{207}{}{SÃ³lo lo mirabaâ€¦ la mirabaâ€¦ *lo que quiera* que sea me da escalofrÃ­os.}
+{208}{}{Â¿Crees que esa cosa quiere cargarse a alguien?}
+{209}{}{Es la furia del infierno encarnada. Eh, bajo la armadura, claro estÃ¡.}
 {210}{}{Alejaos del camino de esa cosa.}
-{211}{}{Hablando de apariencias peligrosas…}
+{211}{}{Hablando de apariencias peligrosasâ€¦}
 {212}{}{*Gulp*}
-{213}{}{Creo que ese tal Mr. Roboto me escaneó.}
-{214}{}{Creo que ese tanque andante me acaba de lanzar una mirada mortal. Me largo de aquí.}
-{215}{}{He oído que esa cosa fulminó a tres sicarios ayer mismo.}
-{216}{}{Sólo el cómo me mira me produce escalofríos.}
-{217}{}{¿Crees que está pensando en cargarse a alguien?}
+{213}{}{Creo que ese tal Mr. Roboto me escaneÃ³.}
+{214}{}{Creo que ese tanque andante me acaba de lanzar una mirada mortal. Me largo de aquÃ­.}
+{215}{}{He oÃ­do que esa cosa fulminÃ³ a tres sicarios ayer mismo.}
+{216}{}{SÃ³lo el cÃ³mo me mira me produce escalofrÃ­os.}
+{217}{}{Â¿Crees que estÃ¡ pensando en cargarse a alguien?}
 {218}{}{No te interpongas en el camino de esa mujer.}
-{219}{}{Creo que me miraba a mí.}
-{220}{}{Creo que me acaba de lanzar una mirada mortal. Me largo de aquí.}
-{221}{}{He oído que disparó a tres sicarios ayer mismo.}
+{219}{}{Creo que me miraba a mÃ­.}
+{220}{}{Creo que me acaba de lanzar una mirada mortal. Me largo de aquÃ­.}
+{221}{}{He oÃ­do que disparÃ³ a tres sicarios ayer mismo.}
 {222}{}{Oh-oh. Salid de su camino.}
 {223}{}{Es la furia del infierno encarnada.}
-{224}{}{Hablando de apariencias peligrosas…}
+{224}{}{Hablando de apariencias peligrosasâ€¦}
 {225}{}{*Gulp*}
-{226}{}{La Femme Nikita, y luego está el resto.}
-{227}{}{Sólo el cómo me mira me produce escalofríos.}
-{228}{}{¿Crees que está pensando en cargarse a alguien?}
-{229}{}{Creo que me miraba a mí.}
-{230}{}{Creo que me acaba de lanzar una mirada mortal. Me largo de aquí.}
-{231}{}{He oído que disparó a tres sicarios ayer mismo.}
-{232}{}{¡Qué duro! Eh, me refiero a ti, claro.}
-{233}{}{No pareces tan dura, señora Campeona.}
-{234}{}{Gané 20 fichas apostando por ti!}
-{235}{}{¡Hey, campeona! ¡Tu última pelea fue fantástica!}
+{226}{}{La Femme Nikita, y luego estÃ¡ el resto.}
+{227}{}{SÃ³lo el cÃ³mo me mira me produce escalofrÃ­os.}
+{228}{}{Â¿Crees que estÃ¡ pensando en cargarse a alguien?}
+{229}{}{Creo que me miraba a mÃ­.}
+{230}{}{Creo que me acaba de lanzar una mirada mortal. Me largo de aquÃ­.}
+{231}{}{He oÃ­do que disparÃ³ a tres sicarios ayer mismo.}
+{232}{}{Â¡QuÃ© duro! Eh, me refiero a ti, claro.}
+{233}{}{No pareces tan dura, seÃ±ora Campeona.}
+{234}{}{GanÃ© 20 fichas apostando por ti!}
+{235}{}{Â¡Hey, campeona! Â¡Tu Ãºltima pelea fue fantÃ¡stica!}
 {236}{}{Vi tu pelea en el ring. Lanzaste un gancho de derecha bueno de cojones.}
-{237}{}{¿Lo vas a dejar? Conseguí 30 fichas apostando por ti.}
-{238}{}{¿Cuántas flexiones haces?}
-{239}{}{¿Dónde entrenas?}
+{237}{}{Â¿Lo vas a dejar? ConseguÃ­ 30 fichas apostando por ti.}
+{238}{}{Â¿CuÃ¡ntas flexiones haces?}
+{239}{}{Â¿DÃ³nde entrenas?}
 {240}{}{Cuidado con el Masticador. Le gustan las orejas.}
-{241}{}{Te invitaría a una copa si no hubiera perdido todo mi dinero apostando a tu oponente.}
-{242}{}{No pareces tan dura, señorita Gancho Izquierdo.}
-{243}{}{¿Puedo ver cómo flexionas tus abdominales?}
+{241}{}{Te invitarÃ­a a una copa si no hubiera perdido todo mi dinero apostando a tu oponente.}
+{242}{}{No pareces tan dura, seÃ±orita Gancho Izquierdo.}
+{243}{}{Â¿Puedo ver cÃ³mo flexionas tus abdominales?}
 {244}{}{Caray. Mira eso.}
-{245}{}{¿Mirarías a *eso*?}
-{246}{}{::Masculla un 'madre mía'.::}
-{247}{}{SABÍA que debería haberme afeitado hoy.}
+{245}{}{Â¿MirarÃ­as a *eso*?}
+{246}{}{::Masculla un 'madre mÃ­a'.::}
+{247}{}{SABÃA que deberÃ­a haberme afeitado hoy.}
 {248}{}{Ven a charlar conmigo un momento, preciosidad.}
-{249}{}{¡Las tribales tienen tetas! ¡Quién lo diría!}
-{250}{}{Echa un vistazo a la estantería de esa tribal.}
-{251}{}{Esa de ahí es la yegua principal de mi rebaño.}
-{252}{}{Me bañaría por esa mujer.}
-{253}{}{Tengo tu veta madre justo aquí.}
-{254}{}{¡Muévelo!}
-{255}{}{¡Sigue así!}
+{249}{}{Â¡Las tribales tienen tetas! Â¡QuiÃ©n lo dirÃ­a!}
+{250}{}{Echa un vistazo a la estanterÃ­a de esa tribal.}
+{251}{}{Esa de ahÃ­ es la yegua principal de mi rebaÃ±o.}
+{252}{}{Me baÃ±arÃ­a por esa mujer.}
+{253}{}{Tengo tu veta madre justo aquÃ­.}
+{254}{}{Â¡MuÃ©velo!}
+{255}{}{Â¡Sigue asÃ­!}
 {256}{}{::Silbidos::}
-{257}{}{¿Esas piernas son así hasta arriba?}
+{257}{}{Â¿Esas piernas son asÃ­ hasta arriba?}
 {258}{}{Jooooooder.}
-{259}{}{¿No te calientas con ese meneo, preciosa?}
-{260}{}{Quizá baile esta noche.}
-{261}{}{¿Has visto su última película? Al rojo vivo, amigo, al rojo VIVO.}
-{262}{}{Perdóname. Tengo que ir al baño y, er, peinarme un poco.}
-{263}{}{Me gustaría ser su ropa interior.}
-{264}{}{Me encantaría ser su lencería.}
-{265}{}{Me gustaría oler sus bragas.}
-{266}{}{Eso es una auténtica zorra.}
-{267}{}{Maldición. Todas esas curvas y yo sin frenos.}
+{259}{}{Â¿No te calientas con ese meneo, preciosa?}
+{260}{}{QuizÃ¡ baile esta noche.}
+{261}{}{Â¿Has visto su Ãºltima pelÃ­cula? Al rojo vivo, amigo, al rojo VIVO.}
+{262}{}{PerdÃ³name. Tengo que ir al baÃ±o y, er, peinarme un poco.}
+{263}{}{Me gustarÃ­a ser su ropa interior.}
+{264}{}{Me encantarÃ­a ser su lencerÃ­a.}
+{265}{}{Me gustarÃ­a oler sus bragas.}
+{266}{}{Eso es una autÃ©ntica zorra.}
+{267}{}{MaldiciÃ³n. Todas esas curvas y yo sin frenos.}
 {268}{}{Vaya, hoooooola, semental.}
-{269}{}{¿Necesita una silla de montar un semental como tú? Estoy libre mañana por la noche.}
-{270}{}{¿Qué haces más tarde, marinero?}
-{271}{}{¿Puedo tocar tus músculos?}
-{272}{}{¿Cómo te las arreglas para no desmayarte cuando estás erecto?}
-{273}{}{¿Quieres venir a mi casa a tomar una copa?}
+{269}{}{Â¿Necesita una silla de montar un semental como tÃº? Estoy libre maÃ±ana por la noche.}
+{270}{}{Â¿QuÃ© haces mÃ¡s tarde, marinero?}
+{271}{}{Â¿Puedo tocar tus mÃºsculos?}
+{272}{}{Â¿CÃ³mo te las arreglas para no desmayarte cuando estÃ¡s erecto?}
+{273}{}{Â¿Quieres venir a mi casa a tomar una copa?}
 {274}{}{Quiero comerme la cena sobre tu pecho.}
-{275}{}{¿Necesitas una compañera para tu próxima película?}
-{276}{}{::Contempla tus bíceps.::}
-{277}{}{¿Eso que te sigue es alguna clase de máquina tragaperras?}
-{278}{}{¿Eso es una robo-máquina tragaperras?}
-{279}{}{¿Tu robot hace trucos? Eh… trucos mágicos, quiero decir.}
+{275}{}{Â¿Necesitas una compaÃ±era para tu prÃ³xima pelÃ­cula?}
+{276}{}{::Contempla tus bÃ­ceps.::}
+{277}{}{Â¿Eso que te sigue es alguna clase de mÃ¡quina tragaperras?}
+{278}{}{Â¿Eso es una robo-mÃ¡quina tragaperras?}
+{279}{}{Â¿Tu robot hace trucos? Ehâ€¦ trucos mÃ¡gicos, quiero decir.}
 {280}{}{Eso es una locura mayor que poner al zorro a cuidar del gallinero.}
 {281}{}{Tira los dados.}
 {282}{}{La nena necesita un nuevo par de zapatos...}
-{283}{}{Malditos turistas jugadores de poca monta…}
-{284}{}{¡Maldición! Eran *53* fichas, entonces…}
-{285}{}{De todo lo malvado que puedas imaginar…}
-{286}{}{¡Casi!}
-{287}{}{Esto es una inversión.}
-{288}{}{¿Yo? Haciéndome de oro. Mira cómo lo hago.}
+{283}{}{Malditos turistas jugadores de poca montaâ€¦}
+{284}{}{Â¡MaldiciÃ³n! Eran *53* fichas, entoncesâ€¦}
+{285}{}{De todo lo malvado que puedas imaginarâ€¦}
+{286}{}{Â¡Casi!}
+{287}{}{Esto es una inversiÃ³n.}
+{288}{}{Â¿Yo? HaciÃ©ndome de oro. Mira cÃ³mo lo hago.}
 {289}{}{La casa estaba en mi contra.}
 {290}{}{La fortuna estaba en mi contra.}
 {291}{}{Dama Fortuna, no me falles ahora.}
-{292}{}{La casa tiene misericordia de mí.}
-{293}{}{Entre apuestas y excesivos gastos para emborracharse…}
-{294}{}{Sigue apostando así, y vas a llamar hogar al Gólgota…}
-{295}{}{¡Camarera, otra bebida!}
-{296}{}{¡Camarero, otra bebida!}
-{297}{}{Esas bebidas saben… raras.}
-{298}{}{¡Tengo la fiebre!}
-{299}{}{¿Ya he perdido todas mis fichas?}
+{292}{}{La casa tiene misericordia de mÃ­.}
+{293}{}{Entre apuestas y excesivos gastos para emborracharseâ€¦}
+{294}{}{Sigue apostando asÃ­, y vas a llamar hogar al GÃ³lgotaâ€¦}
+{295}{}{Â¡Camarera, otra bebida!}
+{296}{}{Â¡Camarero, otra bebida!}
+{297}{}{Esas bebidas sabenâ€¦ raras.}
+{298}{}{Â¡Tengo la fiebre!}
+{299}{}{Â¿Ya he perdido todas mis fichas?}
 {300}{}{La suerte es una perra caprichosa, como mi suegra.}
-{301}{}{Más esclavistas en la ciudad en los últimos tiempos.}
-{302}{}{Me pregunto qué pasa en los establos de las afueras.}
-{303}{}{Pronto empezará otra riña.}
+{301}{}{MÃ¡s esclavistas en la ciudad en los Ãºltimos tiempos.}
+{302}{}{Me pregunto quÃ© pasa en los establos de las afueras.}
+{303}{}{Pronto empezarÃ¡ otra riÃ±a.}
 {304}{}{Malditos pardillos por todas partes...}
 {305}{}{Genial, otro apostador a la baja.}
 {306}{}{Tengo TANTO dinero.}
-{307}{}{Ya dormiré cuando esté muerto.}
+{307}{}{Ya dormirÃ© cuando estÃ© muerto.}
 {308}{}{Amigo, tengo que ir a mear o reviento.}
 {309}{}{Amigo, tengo que cambiar el agua del canario.}
-{310}{}{Maldición, ya dejan entrar a cualquiera aquí.}
+{310}{}{MaldiciÃ³n, ya dejan entrar a cualquiera aquÃ­.}
 {311}{}{Vamos, 7!}
 {312}{}{Tienes agallas, nena.}
-{313}{}{¿Quién es el gran ganador de esta noche? ¡Mikey!}
-{314}{}{No me jodas ahora… vamos…}
-{315}{}{Tengo Jet… si sabes a lo que me refiero.}
-{316}{}{Esto es una puñetera mierda.}
-{317}{}{Sólo he perdido 60 fichas. En los primeros cinco minutos, eso sí.}
-{318}{}{¡23 rojo! ¡23 rojo! Vamos… 23 rojo…}
-{319}{}{¡50 fichas al 15 negro…}
-{320}{}{Gira y gira y gira… y nadie sabe cuándo se para…}
-{321}{}{¡Qué forma de arrasar a esos bastardos del Enclave! ¡Así se hace!}
-{322}{}{Siempre supe que el Presidente quería matarnos a todos.}
-{323}{}{¿El Presidente estaba vivo? ¿Cuándo fueron las últimas elecciones?}
-{324}{}{Destruiste el Enclave, ¿eh? Bien, déjame invitarte a una copa.}
-{325}{}{Qué forma de aplastar al Enclave, }
-{326}{}{Con la destrucción del Enclave, has hecho de este casino un lugar mejor para mis hijos. ¿Cómo podría siquiera agradecértelo?}
-{327}{}{El Enclave nunca me molestó, pero me alegra que haya desaparecido.}
-{328}{}{No puedo creer que el Enclave siguiera en guerra después de todo este tiempo. Idiotas.}
-{329}{}{He sentido una gran conmoción… como si un centenar de malditos bastardos de una plataforma petrolífera hubieran gritado de terror
- y callado de repente. Qué extraño.}
+{313}{}{Â¿QuiÃ©n es el gran ganador de esta noche? Â¡Mikey!}
+{314}{}{No me jodas ahoraâ€¦ vamosâ€¦}
+{315}{}{Tengo Jetâ€¦ si sabes a lo que me refiero.}
+{316}{}{Esto es una puÃ±etera mierda.}
+{317}{}{SÃ³lo he perdido 60 fichas. En los primeros cinco minutos, eso sÃ­.}
+{318}{}{Â¡23 rojo! Â¡23 rojo! Vamosâ€¦ 23 rojoâ€¦}
+{319}{}{Â¡50 fichas al 15 negroâ€¦}
+{320}{}{Gira y gira y giraâ€¦ y nadie sabe cuÃ¡ndo se paraâ€¦}
+{321}{}{Â¡QuÃ© forma de arrasar a esos bastardos del Enclave! Â¡AsÃ­ se hace!}
+{322}{}{Siempre supe que el Presidente querÃ­a matarnos a todos.}
+{323}{}{Â¿El Presidente estaba vivo? Â¿CuÃ¡ndo fueron las Ãºltimas elecciones?}
+{324}{}{Destruiste el Enclave, Â¿eh? Bien, dÃ©jame invitarte a una copa.}
+{325}{}{QuÃ© forma de aplastar al Enclave, }
+{326}{}{Con la destrucciÃ³n del Enclave, has hecho de este casino un lugar mejor para mis hijos. Â¿CÃ³mo podrÃ­a siquiera agradecÃ©rtelo?}
+{327}{}{El Enclave nunca me molestÃ³, pero me alegra que haya desaparecido.}
+{328}{}{No puedo creer que el Enclave siguiera en guerra despuÃ©s de todo este tiempo. Idiotas.}
+{329}{}{He sentido una gran conmociÃ³nâ€¦ como si un centenar de malditos bastardos de una plataforma petrolÃ­fera hubieran gritado de terror
+ y callado de repente. QuÃ© extraÃ±o.}
 {330}{}{Enhorabuena por pisotear al Enclave, }
 {331}{}{Enhorabuena por pisotear al Enclave, }
-{332}{}{¿Estás buscando a tu hermano Robby? ¿Ya sabes, el robot? Vaya, no importa.}
-{333}{}{Lo siento, ¿estaba en su camino? Abandonaré la ciudad.}
-{334}{}{Perdón, ¿estaba respirando su mismo aire? Me detendré.}
-{335}{}{Temía que no hubieran hecho puertas de tu tamaño.}
-{336}{}{::Golpea la armadura con los nudillos.:: ¿Hay alguien ahí?}
-{337}{}{'¡Peligro, Will Robinson! ¡Peligro, Will Robinson!' je je. Eh… sólo era una broma.}
-{338}{}{Preciooooosa armadura. ¿Tiene aire acondicionado?}
-{339}{}{¿No tienes calor ahí dentro?}
-{340}{}{¿Puedo frotar estos dados en tu armadura para darme suerte?}
-{341}{}{¿Has perdido tu corazón, hombre de hojalata?}
-{342}{}{Eh, hola, señor… o señora… o lo que quiera que seas.}
+{332}{}{Â¿EstÃ¡s buscando a tu hermano Robby? Â¿Ya sabes, el robot? Vaya, no importa.}
+{333}{}{Lo siento, Â¿estaba en su camino? AbandonarÃ© la ciudad.}
+{334}{}{PerdÃ³n, Â¿estaba respirando su mismo aire? Me detendrÃ©.}
+{335}{}{TemÃ­a que no hubieran hecho puertas de tu tamaÃ±o.}
+{336}{}{::Golpea la armadura con los nudillos.:: Â¿Hay alguien ahÃ­?}
+{337}{}{'Â¡Peligro, Will Robinson! Â¡Peligro, Will Robinson!' je je. Ehâ€¦ sÃ³lo era una broma.}
+{338}{}{Preciooooosa armadura. Â¿Tiene aire acondicionado?}
+{339}{}{Â¿No tienes calor ahÃ­ dentro?}
+{340}{}{Â¿Puedo frotar estos dados en tu armadura para darme suerte?}
+{341}{}{Â¿Has perdido tu corazÃ³n, hombre de hojalata?}
+{342}{}{Eh, hola, seÃ±orâ€¦ o seÃ±oraâ€¦ o lo que quiera que seas.}
 {343}{}{Saluda de mi parte a quienquiera que te dio esa armadura.}
-{344}{}{¿Algo no va bien, señor… señora… eh, lo que quiera que seas?}
-{345}{}{¿Eres uno de los nuevos porteros? ¿O algún nuevo juego arcade andante?}
+{344}{}{Â¿Algo no va bien, seÃ±orâ€¦ seÃ±oraâ€¦ eh, lo que quiera que seas?}
+{345}{}{Â¿Eres uno de los nuevos porteros? Â¿O algÃºn nuevo juego arcade andante?}
 {346}{}{No, NO voy a lubricar tus juntas.}
-{347}{}{¿Tu armadura se puede transformar en un reactor para poder volar? Es sólo curiosidad.}
-{348}{}{Sí, sí, 'clank-whirrr-clank' para ti también.}
-{349}{}{Si te piensas que esa armadura me intimida... pues tienes razón.}
+{347}{}{Â¿Tu armadura se puede transformar en un reactor para poder volar? Es sÃ³lo curiosidad.}
+{348}{}{SÃ­, sÃ­, 'clank-whirrr-clank' para ti tambiÃ©n.}
+{349}{}{Si te piensas que esa armadura me intimida... pues tienes razÃ³n.}
 {350}{}{Debes ser una de esas consolas de juego de antes de la guerra.}
-{351}{}{Oye, por favor… no quiero problemas. Sólo estaré en la ciudad el día de hoy.}
-{352}{}{Oiga, por favor… no quiero problemas.}
-{353}{}{Lo siento, ¿estaba en su camino? Abandonaré la ciudad.}
-{354}{}{Perdón, ¿estaba respirando su mismo aire? Me detendré.}
-{355}{}{Déle saludos de mi parte a su jefe.}
-{356}{}{Eh… *gulp*… ¿algo va mal?}
-{357}{}{Oye, por favor… no quiero problemas. Sólo estaré en la ciudad el día de hoy.}
-{358}{}{Oiga, por favor… no quiero problemas.}
-{359}{}{¿Vendes?}
-{360}{}{¿Puedo comprar tus ropas? Quiero decir, ¿ahora mismo?}
-{361}{}{SABÍA que debería haberme afeitado hoy.}
+{351}{}{Oye, por favorâ€¦ no quiero problemas. SÃ³lo estarÃ© en la ciudad el dÃ­a de hoy.}
+{352}{}{Oiga, por favorâ€¦ no quiero problemas.}
+{353}{}{Lo siento, Â¿estaba en su camino? AbandonarÃ© la ciudad.}
+{354}{}{PerdÃ³n, Â¿estaba respirando su mismo aire? Me detendrÃ©.}
+{355}{}{DÃ©le saludos de mi parte a su jefe.}
+{356}{}{Ehâ€¦ *gulp*â€¦ Â¿algo va mal?}
+{357}{}{Oye, por favorâ€¦ no quiero problemas. SÃ³lo estarÃ© en la ciudad el dÃ­a de hoy.}
+{358}{}{Oiga, por favorâ€¦ no quiero problemas.}
+{359}{}{Â¿Vendes?}
+{360}{}{Â¿Puedo comprar tus ropas? Quiero decir, Â¿ahora mismo?}
+{361}{}{SABÃA que deberÃ­a haberme afeitado hoy.}
 {362}{}{Ven a charlar conmigo un momento, preciosidad.}
-{363}{}{Vamos, ricura… ven conmigo.}
-{364}{}{Eres una niña traviesa y ágil, ¿verdad?}
-{365}{}{Me bañaría por ti.}
-{366}{}{Tengo tu veta madre justo aquí.}
-{367}{}{¿Esas piernas son así hasta arriba?}
-{368}{}{¿Bailarás esta noche?}
-{369}{}{Perdóname. Tengo que ir al baño y, er, peinarme un poco.}
-{370}{}{Me gustaría ser tu ropa interior.}
-{371}{}{Me encantaría oler tu ropa interior.}
-{372}{}{Eres una auténtica zorra.}
-{373}{}{Corrígeme si me equivoco, cariño pero, ¿no quieres besarme?}
-{374}{}{Maldición. Todas esas curvas y yo sin frenos.}
-{375}{}{¿Sabes lo que te haría más llamativo? Yo.}
-{376}{}{Tus braguitas puede que no sean lo mejor que hay en la tierra, pero vaya si están cerca de ello, joder.}
+{363}{}{Vamos, ricuraâ€¦ ven conmigo.}
+{364}{}{Eres una niÃ±a traviesa y Ã¡gil, Â¿verdad?}
+{365}{}{Me baÃ±arÃ­a por ti.}
+{366}{}{Tengo tu veta madre justo aquÃ­.}
+{367}{}{Â¿Esas piernas son asÃ­ hasta arriba?}
+{368}{}{Â¿BailarÃ¡s esta noche?}
+{369}{}{PerdÃ³name. Tengo que ir al baÃ±o y, er, peinarme un poco.}
+{370}{}{Me gustarÃ­a ser tu ropa interior.}
+{371}{}{Me encantarÃ­a oler tu ropa interior.}
+{372}{}{Eres una autÃ©ntica zorra.}
+{373}{}{CorrÃ­geme si me equivoco, cariÃ±o pero, Â¿no quieres besarme?}
+{374}{}{MaldiciÃ³n. Todas esas curvas y yo sin frenos.}
+{375}{}{Â¿Sabes lo que te harÃ­a mÃ¡s llamativo? Yo.}
+{376}{}{Tus braguitas puede que no sean lo mejor que hay en la tierra, pero vaya si estÃ¡n cerca de ello, joder.}
 {503}{}{!}
-{504}{}{! ¡Pateas culos! ¡Pateas CULOS!}
-{505}{}{! ¡Eres ASOMBROSO!}
+{504}{}{! Â¡Pateas culos! Â¡Pateas CULOS!}
+{505}{}{! Â¡Eres ASOMBROSO!}
 {625}{}{!}
-{630}{}{! ¡Pateas culos! ¡Pateas CULOS!}
-{631}{}{! ¡Eres ASOMBROSO!}
+{630}{}{! Â¡Pateas culos! Â¡Pateas CULOS!}
+{631}{}{! Â¡Eres ASOMBROSO!}

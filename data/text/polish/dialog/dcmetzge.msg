@@ -1,241 +1,241 @@
-{100}{}{Widzisz wrednie wygl¹daj¹cego mê¿czyznê.}
+{100}{}{Widzisz wrednie wyglÄ…dajÄ…cego mÄ™Å¼czyznÄ™.}
 {101}{}{Widzisz Metzgera, handlarza niewolnikami.}
-{150}{}{Metzger jest g³ow¹ gildii ³owców niewolników.}
-{200}{}{Zap³acisz mi za to.}
-{210}{}{Czego tu kurwa szukasz? To jest gildia £owców Niewolników, a nie 
-przytu³ek dla jebanych æpunów.}
-{211}{}{Czego tu szukasz, paskudna suko? Tu jest gildia £owców, a nie pieprzony burdel.}
-{212}{}{Czego tu szukasz, cholerna suko? Tu jest gildia £owców, a nie jakiœ pieprzony burdel.}
-{213}{}{Zaczynasz mnie wkurwiaæ. Czego jeszcze chcesz?}
+{150}{}{Metzger jest gÅ‚owÄ… gildii Å‚owcÃ³w niewolnikÃ³w.}
+{200}{}{ZapÅ‚acisz mi za to.}
+{210}{}{Czego tu kurwa szukasz? To jest gildia ÅowcÃ³w NiewolnikÃ³w, a nie 
+przytuÅ‚ek dla jebanych Ä‡punÃ³w.}
+{211}{}{Czego tu szukasz, paskudna suko? Tu jest gildia ÅowcÃ³w, a nie pieprzony burdel.}
+{212}{}{Czego tu szukasz, cholerna suko? Tu jest gildia ÅowcÃ³w, a nie jakiÅ› pieprzony burdel.}
+{213}{}{Zaczynasz mnie wkurwiaÄ‡. Czego jeszcze chcesz?}
 {214}{}{Czego znowu?}
 {215}{}{Co?}
-{216}{}{Lepiej siê poœpiesz.}
-{217}{}{Mo¿e dla odmiany weŸmiesz siê do roboty?}
-{218}{}{Zaczynam siê oswajaæ z twoj¹ paskudn¹ gêb¹. No... szukasz tu czegoœ?}
-{219}{}{Czy ja wygl¹dam na twojego pieprzonego ojca? Mam cholern¹ nadziejê, ¿e nie. No, gadaj: czego chcesz?}
-{220}{}{No patrzcie pañstwo kto tu przyszed³. No i co tak stoisz? Gadaj o co chodzi albo spieprzaj.}
-{221}{}{Czego chcesz, £owco?}
-{222}{}{D³ugo mo¿esz tak staæ? Czego chcesz?}
-{223}{}{Gadaj. Nie bêdê tu czeka³ do jutra.}
-{230}{}{Och, a któ¿ to taki? Wiesz, ¿e to podró¿ w jedn¹ stronê?}
-{231}{}{Nie masz nikogo, kto by mnie interesowa³. Skupujê tylko ludzi... to znaczy: normalnych ludzi.}
-{232}{}{Co ja niby, kurwa, jestem. Pieprzony sklepikarz? Wróæ tutaj z jakimœ niewolnikiem to pogadamy. A po zakupy idŸ do pieprzonego sklepu.}
+{216}{}{Lepiej siÄ™ poÅ›piesz.}
+{217}{}{MoÅ¼e dla odmiany weÅºmiesz siÄ™ do roboty?}
+{218}{}{Zaczynam siÄ™ oswajaÄ‡ z twojÄ… paskudnÄ… gÄ™bÄ…. No... szukasz tu czegoÅ›?}
+{219}{}{Czy ja wyglÄ…dam na twojego pieprzonego ojca? Mam cholernÄ… nadziejÄ™, Å¼e nie. No, gadaj: czego chcesz?}
+{220}{}{No patrzcie paÅ„stwo kto tu przyszedÅ‚. No i co tak stoisz? Gadaj o co chodzi albo spieprzaj.}
+{221}{}{Czego chcesz, Åowco?}
+{222}{}{DÅ‚ugo moÅ¼esz tak staÄ‡? Czego chcesz?}
+{223}{}{Gadaj. Nie bÄ™dÄ™ tu czekaÅ‚ do jutra.}
+{230}{}{Och, a ktÃ³Å¼ to taki? Wiesz, Å¼e to podrÃ³Å¼ w jednÄ… stronÄ™?}
+{231}{}{Nie masz nikogo, kto by mnie interesowaÅ‚. SkupujÄ™ tylko ludzi... to znaczy: normalnych ludzi.}
+{232}{}{Co ja niby, kurwa, jestem. Pieprzony sklepikarz? WrÃ³Ä‡ tutaj z jakimÅ› niewolnikiem to pogadamy. A po zakupy idÅº do pieprzonego sklepu.}
 {233}{}{Miria}
 {234}{}{Davin}
 {235}{}{Vic}
 {236}{}{Myron}
 {237}{}{Cassidy}
 {238}{}{Sulik}
-{239}{}{Mogê ciê jeszcze o coœ zapytaæ?}
-{240}{}{To ja ju¿ podziêkujê. Czeœæ.}
+{239}{}{MogÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡?}
+{240}{}{To ja juÅ¼ podziÄ™kujÄ™. CzeÅ›Ä‡.}
 {241}{}{Dex}
 {242}{}{Kot Jules}
 {243}{}{Kitsune}
 {245}{}{No, dalej.}
 {246}{}{Taak?}
-{247}{}{Czy ja ci wygl¹dam na s³u¿¹cego, sprê¿aj siê.}
-{248}{}{Czego? Mam ma³o czasu.}
-{249}{}{Wal œmia³o.}
-{250}{}{Mo¿e.}
-{255}{}{Mam coœ na sprzeda¿.}
+{247}{}{Czy ja ci wyglÄ…dam na sÅ‚uÅ¼Ä…cego, sprÄ™Å¼aj siÄ™.}
+{248}{}{Czego? Mam maÅ‚o czasu.}
+{249}{}{Wal Å›miaÅ‚o.}
+{250}{}{MoÅ¼e.}
+{255}{}{Mam coÅ› na sprzedaÅ¼.}
 {256}{}{Porozmawiajmy o Vicu...}
 {257}{}{Szukam kupca.}
-{258}{}{Lara chcia³a ciê prosiæ o pozwolenie na walkê z Tylerem.}
-{259}{}{Chcê do³¹czyæ do gildii.}
+{258}{}{Lara chciaÅ‚a ciÄ™ prosiÄ‡ o pozwolenie na walkÄ™ z Tylerem.}
+{259}{}{ChcÄ™ doÅ‚Ä…czyÄ‡ do gildii.}
 {260}{}{Co to za gildia?}
-{261}{}{Chcê polowaæ na niewolników.}
-{262}{}{Niewa¿ne. Czeœæ.}
-{263}{}{ chce robiæ.}
+{261}{}{ChcÄ™ polowaÄ‡ na niewolnikÃ³w.}
+{262}{}{NiewaÅ¼ne. CzeÅ›Ä‡.}
+{263}{}{ chce robiÄ‡.}
 {264}{}{Na.}
-{265}{}{Z tego co widzê masz tu spory wybór niewolników, ale widzisz, ja mam bardzo, hmm...*wyszukane* gusta i ¿adne z nich nie jest tym czego szukam. Czy to wszyscy niewolnicy których masz do zaoferowania?}
-{270}{}{Myœlisz, ¿e dasz radê? Nie przyjmujê byle kogo... A zreszt¹. Jak coœ spieprzysz, najwy¿ej ciê sprzedam. Musisz sobie zrobiæ na czole tatua¿ ³owcy niewolników. Nie da siê go usun¹æ, wiêc lepiej dobrze siê zastanów!}
-{271}{}{O! Nasza ksiê¿niczka wróci³a... Zmiana planów? Jednak chcesz ten tatua¿?}
-{272}{}{No, mo¿esz siê nadaæ... W koñcu do tego nie trzeba byæ geniuszem. Jak coœ spieprzysz, to ciê sprzedam. Jeœli naprawdê chcesz do nas do³¹czyæ, musimy ci zrobiæ na czole tatua¿ ³owcy niewolników.}
-{273}{}{Zróbmy to.}
-{274}{}{Muszê siê jeszcze zastanowiæ. Porozmawiamy póŸniej.}
-{275}{}{Mo¿e lepiej nie. ¯egnam.}
-{276}{}{Uja! [kiwniêcie]}
+{265}{}{Z tego co widzÄ™ masz tu spory wybÃ³r niewolnikÃ³w, ale widzisz, ja mam bardzo, hmm...*wyszukane* gusta i Å¼adne z nich nie jest tym czego szukam. Czy to wszyscy niewolnicy ktÃ³rych masz do zaoferowania?}
+{270}{}{MyÅ›lisz, Å¼e dasz radÄ™? Nie przyjmujÄ™ byle kogo... A zresztÄ…. Jak coÅ› spieprzysz, najwyÅ¼ej ciÄ™ sprzedam. Musisz sobie zrobiÄ‡ na czole tatuaÅ¼ Å‚owcy niewolnikÃ³w. Nie da siÄ™ go usunÄ…Ä‡, wiÄ™c lepiej dobrze siÄ™ zastanÃ³w!}
+{271}{}{O! Nasza ksiÄ™Å¼niczka wrÃ³ciÅ‚a... Zmiana planÃ³w? Jednak chcesz ten tatuaÅ¼?}
+{272}{}{No, moÅ¼esz siÄ™ nadaÄ‡... W koÅ„cu do tego nie trzeba byÄ‡ geniuszem. Jak coÅ› spieprzysz, to ciÄ™ sprzedam. JeÅ›li naprawdÄ™ chcesz do nas doÅ‚Ä…czyÄ‡, musimy ci zrobiÄ‡ na czole tatuaÅ¼ Å‚owcy niewolnikÃ³w.}
+{273}{}{ZrÃ³bmy to.}
+{274}{}{MuszÄ™ siÄ™ jeszcze zastanowiÄ‡. Porozmawiamy pÃ³Åºniej.}
+{275}{}{MoÅ¼e lepiej nie. Å»egnam.}
+{276}{}{Uja! [kiwniÄ™cie]}
 {277}{}{Nie nie nie nie nie!}
-{285}{}{A jak kurwa myœlisz? To gildia ³owców niewolników. Kupujê i sprzedajê niewolników.}
-{286}{}{Sk¹d bierzecie niewolników?}
-{287}{}{Chcê do was do³¹czyæ.}
+{285}{}{A jak kurwa myÅ›lisz? To gildia Å‚owcÃ³w niewolnikÃ³w. KupujÄ™ i sprzedajÄ™ niewolnikÃ³w.}
+{286}{}{SkÄ…d bierzecie niewolnikÃ³w?}
+{287}{}{ChcÄ™ do was doÅ‚Ä…czyÄ‡.}
 {288}{}{Mam jeszcze jedno pytanie.}
 {289}{}{Rozumiem. Pa.}
-{300}{}{£apiemy ich gdzie popadnie. G³ównie dzikusów i nomadów.}
-{301}{}{Brzmi ciekawie. Mo¿na do was do³¹czyæ?}
+{300}{}{Åapiemy ich gdzie popadnie. GÅ‚Ã³wnie dzikusÃ³w i nomadÃ³w.}
+{301}{}{Brzmi ciekawie. MoÅ¼na do was doÅ‚Ä…czyÄ‡?}
 {302}{}{Mam jeszcze jedno pytanie.}
 {303}{}{Rozumiem. Pa.}
-{310}{}{No proszê, oby³o siê bez p³aczu. Jestem z ciebie taki dumny... Prawdê mówi¹c, dobrze ci z tym tatua¿em. Daj znaæ jak uznasz, ¿e ju¿ czas ruszyæ na pierwsze polowanie.}
-{311}{}{Dziêki. Na razie.}
-{312}{}{Chcê od razu wzi¹æ siê do roboty.}
-{313}{}{Muszê zabijaæ, JU¯!}
+{310}{}{No proszÄ™, obyÅ‚o siÄ™ bez pÅ‚aczu. Jestem z ciebie taki dumny... PrawdÄ™ mÃ³wiÄ…c, dobrze ci z tym tatuaÅ¼em. Daj znaÄ‡ jak uznasz, Å¼e juÅ¼ czas ruszyÄ‡ na pierwsze polowanie.}
+{311}{}{DziÄ™ki. Na razie.}
+{312}{}{ChcÄ™ od razu wziÄ…Ä‡ siÄ™ do roboty.}
+{313}{}{MuszÄ™ zabijaÄ‡, JUÅ»!}
 {314}{}{Dobra!}
-{320}{}{Dwóch moich ludzi podprowadzi ciê pod cel. Wynagrodzenie zale¿y od liczby niewolników, których mi przyprowadzicie. Uwa¿ajcie na siebie. Jeœli któryœ z was zginie, potr¹cê z pensji pozosta³ej dwójce.}
-{321}{}{Cholera. Okolica jest jak wymar³a. Musimy poczekaæ, a¿ znów pojawi¹ siê jakieœ dzikusy. Mo¿e powinniœmy zacz¹æ ich rozmna¿aæ? }
-{322}{}{Nie ma mowy. Po prostu mi siê to nie op³aca. To jest interes, a przez ciebie mam za du¿o strat.}
+{320}{}{DwÃ³ch moich ludzi podprowadzi ciÄ™ pod cel. Wynagrodzenie zaleÅ¼y od liczby niewolnikÃ³w, ktÃ³rych mi przyprowadzicie. UwaÅ¼ajcie na siebie. JeÅ›li ktÃ³ryÅ› z was zginie, potrÄ…cÄ™ z pensji pozostaÅ‚ej dwÃ³jce.}
+{321}{}{Cholera. Okolica jest jak wymarÅ‚a. Musimy poczekaÄ‡, aÅ¼ znÃ³w pojawiÄ… siÄ™ jakieÅ› dzikusy. MoÅ¼e powinniÅ›my zaczÄ…Ä‡ ich rozmnaÅ¼aÄ‡? }
+{322}{}{Nie ma mowy. Po prostu mi siÄ™ to nie opÅ‚aca. To jest interes, a przez ciebie mam za duÅ¼o strat.}
 {323}{}{Dobra. Po robocie.}
-{324}{}{Dobra, mo¿esz wracaæ do miasta.}
+{324}{}{Dobra, moÅ¼esz wracaÄ‡ do miasta.}
 {325}{}{No to ruszaj.}
-{326}{}{Dobra. Wróæ jak bêdzie po wszystkim.}
-{327}{}{W porz¹dku.}
+{326}{}{Dobra. WrÃ³Ä‡ jak bÄ™dzie po wszystkim.}
+{327}{}{W porzÄ…dku.}
 {328}{}{Uch.}
-{340}{}{Zabijaj tylko tych agresywnych. Jeœli ciê zaatakuj¹ - wal bez namys³u. Nie mam ochoty siê z nimi szarpaæ. Jak ju¿ skoñczysz, twoi kumple spêdz¹ i oznakuj¹ resztê.}
-{341}{}{W porz¹dku.}
+{340}{}{Zabijaj tylko tych agresywnych. JeÅ›li ciÄ™ zaatakujÄ… - wal bez namysÅ‚u. Nie mam ochoty siÄ™ z nimi szarpaÄ‡. Jak juÅ¼ skoÅ„czysz, twoi kumple spÄ™dzÄ… i oznakujÄ… resztÄ™.}
+{341}{}{W porzÄ…dku.}
 {342}{}{Och.}
-{350}{}{Jak zaczn¹ znakowanie, mo¿esz wracaæ do miasta. Poskramianie dzikusów nie jest takie ³atwe, na jakie wygl¹da, wiêc zostaw to profesjonalistom. Zreszt¹, rób co chcesz, tylko uwa¿aj, ¿eby nie uszkodziæ towaru.}
+{350}{}{Jak zacznÄ… znakowanie, moÅ¼esz wracaÄ‡ do miasta. Poskramianie dzikusÃ³w nie jest takie Å‚atwe, na jakie wyglÄ…da, wiÄ™c zostaw to profesjonalistom. ZresztÄ…, rÃ³b co chcesz, tylko uwaÅ¼aj, Å¼eby nie uszkodziÄ‡ towaru.}
 {351}{}{Dobrze.}
 {352}{}{Uhum.}
-{360}{}{Niez³a. Dam ci za ni¹ $}
-{361}{}{Mo¿e byæ. Kupie go od ciebie za... powiedzmy... $}
-{362}{}{Odbi³o ci? Po jak¹ cholerê mia³bym znowu braæ tego starego pierdziela? Diabli wiedz¹, ile czasu œlêcza³ nad tym pieprzonym radiem! Radiem! To ju¿ twój problem. Nie chcê go wiêcej ogl¹daæ.}
-{363}{}{Bo ja wiem? Taka szczapa... mówisz, ¿e nie g³upie to, to? Mo¿e siê na coœ przyda. Dam ci $}
-{364}{}{Wygl¹da na kogoœ, kto potrafi nieŸle przy³o¿yæ. Hmm... $}
-{365}{}{Znowu jakiœ dzikus. I to jeszcze jakiœ popapraniec. No, ale wygl¹da na silnego, mo¿e da siê go sprzedaæ. $}
-{366}{}{Mo¿e kogoœ innego?}
+{360}{}{NiezÅ‚a. Dam ci za niÄ… $}
+{361}{}{MoÅ¼e byÄ‡. Kupie go od ciebie za... powiedzmy... $}
+{362}{}{OdbiÅ‚o ci? Po jakÄ… cholerÄ™ miaÅ‚bym znowu braÄ‡ tego starego pierdziela? Diabli wiedzÄ…, ile czasu Å›lÄ™czaÅ‚ nad tym pieprzonym radiem! Radiem! To juÅ¼ twÃ³j problem. Nie chcÄ™ go wiÄ™cej oglÄ…daÄ‡.}
+{363}{}{Bo ja wiem? Taka szczapa... mÃ³wisz, Å¼e nie gÅ‚upie to, to? MoÅ¼e siÄ™ na coÅ› przyda. Dam ci $}
+{364}{}{WyglÄ…da na kogoÅ›, kto potrafi nieÅºle przyÅ‚oÅ¼yÄ‡. Hmm... $}
+{365}{}{Znowu jakiÅ› dzikus. I to jeszcze jakiÅ› popapraniec. No, ale wyglÄ…da na silnego, moÅ¼e da siÄ™ go sprzedaÄ‡. $}
+{366}{}{MoÅ¼e kogoÅ› innego?}
 {367}{}{Mam jeszcze jedno pytanie.}
-{368}{}{W porz¹dku.}
+{368}{}{W porzÄ…dku.}
 {369}{}{Dobra.}
-{370}{}{W porz¹dku.}
+{370}{}{W porzÄ…dku.}
 {371}{}{Nie warto.}
 {372}{}{Nie.}
-{380}{}{Dobra, ch³opaki, do zagrody z nim.}
-{381}{}{Dobra, ch³opaki, do zagrody z ni¹.}
-{382}{}{Robi siê, szefie.}
-{390}{}{No to nie marnuj mojego cennego czasu. Jak zechcesz siê czegoœ naprawdê pozbyæ, to pogadamy.}
-{391}{}{Chcê ciê jeszcze o coœ zapytaæ.}
+{380}{}{Dobra, chÅ‚opaki, do zagrody z nim.}
+{381}{}{Dobra, chÅ‚opaki, do zagrody z niÄ….}
+{382}{}{Robi siÄ™, szefie.}
+{390}{}{No to nie marnuj mojego cennego czasu. Jak zechcesz siÄ™ czegoÅ› naprawdÄ™ pozbyÄ‡, to pogadamy.}
+{391}{}{ChcÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡.}
 {392}{}{Dobra. Na razie.}
-{400}{}{Co j¹ raptem w dupê ugryz³o? Da³em ju¿ raz szansê tej suce. Kto by pomyœla³, ¿e ma doœæ jaj na tak¹ robotê.}
-{401}{}{O czym ty mówisz?}
-{402}{}{A wiêc zgadzasz siê?}
-{410}{}{Nie r¿nij g³upa. Dok³adnie wiem o co jej chodzi. Da³em jej kiedyœ szansê, ale wymiêk³a. Jeœli myœli, ¿e teraz da radê, to niech próbuje. Mi to zwisa...}
-{411}{}{A wiêc zgadzasz siê?}
-{420}{}{Mówi³em, ¿e drzwi stoj¹ ca³y czas otworem. Jak myœli, ¿e jest wystarczaj¹co silna, ¿eby skopaæ mu dupê i lepiej pilnowaæ mojego gówna...}
+{400}{}{Co jÄ… raptem w dupÄ™ ugryzÅ‚o? DaÅ‚em juÅ¼ raz szansÄ™ tej suce. Kto by pomyÅ›laÅ‚, Å¼e ma doÅ›Ä‡ jaj na takÄ… robotÄ™.}
+{401}{}{O czym ty mÃ³wisz?}
+{402}{}{A wiÄ™c zgadzasz siÄ™?}
+{410}{}{Nie rÅ¼nij gÅ‚upa. DokÅ‚adnie wiem o co jej chodzi. DaÅ‚em jej kiedyÅ› szansÄ™, ale wymiÄ™kÅ‚a. JeÅ›li myÅ›li, Å¼e teraz da radÄ™, to niech prÃ³buje. Mi to zwisa...}
+{411}{}{A wiÄ™c zgadzasz siÄ™?}
+{420}{}{MÃ³wiÅ‚em, Å¼e drzwi stojÄ… caÅ‚y czas otworem. Jak myÅ›li, Å¼e jest wystarczajÄ…co silna, Å¼eby skopaÄ‡ mu dupÄ™ i lepiej pilnowaÄ‡ mojego gÃ³wna...}
 {421}{}{No i?}
-{422}{}{Zgadzasz siê, czy nie?}
-{430}{}{S³uchaj, mam w dupie, które z nich bêdzie pilnowa³o towaru, tak d³ugo, jak towar pozostaje nienaruszony.}
+{422}{}{Zgadzasz siÄ™, czy nie?}
+{430}{}{SÅ‚uchaj, mam w dupie, ktÃ³re z nich bÄ™dzie pilnowaÅ‚o towaru, tak dÅ‚ugo, jak towar pozostaje nienaruszony.}
 {431}{}{Mam jeszcze jedno pytanie.}
-{432}{}{Dobra, dziêki.}
-{440}{}{Czego kurwa ode mnie wymagasz? Czy ja ci wygl¹dam na pieprzon¹ infor... a, czekaj. Pewnie szukasz Vica?}
-{441}{}{To ten, co specjalizuje siê w technologii z Krypt. Tak przynajmniej twierdzi. Teraz nale¿y do mnie. Nigdzie go nie puszczê.}
+{432}{}{Dobra, dziÄ™ki.}
+{440}{}{Czego kurwa ode mnie wymagasz? Czy ja ci wyglÄ…dam na pieprzonÄ… infor... a, czekaj. Pewnie szukasz Vica?}
+{441}{}{To ten, co specjalizuje siÄ™ w technologii z Krypt. Tak przynajmniej twierdzi. Teraz naleÅ¼y do mnie. Nigdzie go nie puszczÄ™.}
 {442}{}{Co z nim?}
 {443}{}{Tak, to on.}
-{444}{}{Czy mogê siê z nim zobaczyæ?}
+{444}{}{Czy mogÄ™ siÄ™ z nim zobaczyÄ‡?}
 {445}{}{Czemu go tu trzymasz?}
-{446}{}{Dobra, dziêki. Do zobaczenia.}
-{455}{}{Ten stary fiut sprzeda³ mi radio, które mia³o odbieraæ pewne transmisje. Nie odbiera³o. Z³apa³em go, jak próbowa³ wymkn¹æ siê z miasta. B³¹d. Nie dam siê wydymaæ. Ma farta, ¿e jeszcze ¿yje.}
-{456}{}{Jak ju¿ mówi³em, musi najpierw naprawiæ sprzêt. Potem zobaczê co z nim zrobiæ.}
-{457}{}{Niby naprawi³ ju¿ to cholerne radio, ale to nie znaczy, ¿e tak po prostu go puszczê.}
-{458}{}{Jakby nie by³o - próbowa³ mnie or¿n¹æ.}
-{459}{}{Czy mogê siê z nim zobaczyæ?}
+{446}{}{Dobra, dziÄ™ki. Do zobaczenia.}
+{455}{}{Ten stary fiut sprzedaÅ‚ mi radio, ktÃ³re miaÅ‚o odbieraÄ‡ pewne transmisje. Nie odbieraÅ‚o. ZÅ‚apaÅ‚em go, jak prÃ³bowaÅ‚ wymknÄ…Ä‡ siÄ™ z miasta. BÅ‚Ä…d. Nie dam siÄ™ wydymaÄ‡. Ma farta, Å¼e jeszcze Å¼yje.}
+{456}{}{Jak juÅ¼ mÃ³wiÅ‚em, musi najpierw naprawiÄ‡ sprzÄ™t. Potem zobaczÄ™ co z nim zrobiÄ‡.}
+{457}{}{Niby naprawiÅ‚ juÅ¼ to cholerne radio, ale to nie znaczy, Å¼e tak po prostu go puszczÄ™.}
+{458}{}{Jakby nie byÅ‚o - prÃ³bowaÅ‚ mnie orÅ¼nÄ…Ä‡.}
+{459}{}{Czy mogÄ™ siÄ™ z nim zobaczyÄ‡?}
 {460}{}{Jakie transmisje?}
-{461}{}{Dobra, dziêki.}
-{462}{}{Mo¿e trochê kasy pomo¿e ci podj¹æ decyzjê?}
-{463}{}{Wspomina³eœ ostatnio o jakichœ transmisjach...}
-{475}{}{Po kiego? A zreszt¹. Tylko nie przeszkadzaj mu w robocie. Ma naprawiæ to cholerne radio, zanim stracê cierpliwoœæ.}
+{461}{}{Dobra, dziÄ™ki.}
+{462}{}{MoÅ¼e trochÄ™ kasy pomoÅ¼e ci podjÄ…Ä‡ decyzjÄ™?}
+{463}{}{WspominaÅ‚eÅ› ostatnio o jakichÅ› transmisjach...}
+{475}{}{Po kiego? A zresztÄ…. Tylko nie przeszkadzaj mu w robocie. Ma naprawiÄ‡ to cholerne radio, zanim stracÄ™ cierpliwoÅ›Ä‡.}
 {476}{}{Czemu go tu trzymasz?}
-{477}{}{Dziêkujê.}
-{485}{}{Enklawa i Now... hej! Gówno ciê to obchodzi! Nie twój interes. Drugi raz nie pozwolê siê wydymaæ. Reszta nie powinna ciê obchodziæ.}
-{486}{}{Nie twój interes.}
-{487}{}{W porz¹dku.}
-{495}{}{Pewnie, ale bêdzie ciê to kosztowaæ $}
+{477}{}{DziÄ™kujÄ™.}
+{485}{}{Enklawa i Now... hej! GÃ³wno ciÄ™ to obchodzi! Nie twÃ³j interes. Drugi raz nie pozwolÄ™ siÄ™ wydymaÄ‡. Reszta nie powinna ciÄ™ obchodziÄ‡.}
+{486}{}{Nie twÃ³j interes.}
+{487}{}{W porzÄ…dku.}
+{495}{}{Pewnie, ale bÄ™dzie ciÄ™ to kosztowaÄ‡ $}
 {496}{}{$}
-{497}{}{Mo¿e jakoœ siê dogadamy?}
-{498}{}{Niech bêdzie. Proszê.}
-{499}{}{Mam jeszcze kilka pytañ.}
-{500}{}{Przykro mi, chwilowo nie mam tyle pieniêdzy.}
-{510}{}{Dobra, jest twój, ale niech st¹d spieprza, zanim zmieniê zdanie i rozwalê mu ten jego pusty ³eb.}
-{511}{}{Mogê ciê najpierw o coœ zapytaæ?}
-{512}{}{Dziêkujê.}
-{520}{}{No pewnie! Mo¿emy siê jakoœ umówiæ. Obni¿ê cenê o po³owê, jeœli odpowiednio siê postarasz...}
-{521}{}{Nie dra¿nij mnie, dziewczynko. Szybko tracê cierpliwoœæ.}
-{522}{}{Tylko je¿eli bêdziesz dla mnie dobry.}
+{497}{}{MoÅ¼e jakoÅ› siÄ™ dogadamy?}
+{498}{}{Niech bÄ™dzie. ProszÄ™.}
+{499}{}{Mam jeszcze kilka pytaÅ„.}
+{500}{}{Przykro mi, chwilowo nie mam tyle pieniÄ™dzy.}
+{510}{}{Dobra, jest twÃ³j, ale niech stÄ…d spieprza, zanim zmieniÄ™ zdanie i rozwalÄ™ mu ten jego pusty Å‚eb.}
+{511}{}{MogÄ™ ciÄ™ najpierw o coÅ› zapytaÄ‡?}
+{512}{}{DziÄ™kujÄ™.}
+{520}{}{No pewnie! MoÅ¼emy siÄ™ jakoÅ› umÃ³wiÄ‡. ObniÅ¼Ä™ cenÄ™ o poÅ‚owÄ™, jeÅ›li odpowiednio siÄ™ postarasz...}
+{521}{}{Nie draÅ¼nij mnie, dziewczynko. Szybko tracÄ™ cierpliwoÅ›Ä‡.}
+{522}{}{Tylko jeÅ¼eli bÄ™dziesz dla mnie dobry.}
 {523}{}{Pewnie, czemu nie.}
-{524}{}{Mo¿e póŸniej.}
+{524}{}{MoÅ¼e pÃ³Åºniej.}
 {530}{}{Masz to jak w banku.}
 {531}{}{To dobrze.}
 {540}{}{Masz tu $}
 {541}{}{Masz tu swoje $}
 {542}{}{Solidna robota. Tu jest twoje $}
-{543}{}{Masz tu swoj¹ kasê, }
+{543}{}{Masz tu swojÄ… kasÄ™, }
 {544}{}{$}
-{545}{}{Tym razem bêdzie $}
-{546}{}{Nie by³o tak Ÿle, co? Nastêpnym razem ma byæ jeszcze lepiej. Masz tu $}
+{545}{}{Tym razem bÄ™dzie $}
+{546}{}{Nie byÅ‚o tak Åºle, co? NastÄ™pnym razem ma byÄ‡ jeszcze lepiej. Masz tu $}
 {547}{}{$}
 {548}{}{Hej! $}
-{549}{}{Pamiêtaj, uwa¿aj na swoich kumpli i zabijaj tylko agresywnych dzikusów. Masz tu $}
+{549}{}{PamiÄ™taj, uwaÅ¼aj na swoich kumpli i zabijaj tylko agresywnych dzikusÃ³w. Masz tu $}
 {550}{}{Tylko $}
-{551}{}{Chcesz u mnie trochê zarobiæ czy nie? Zaczynasz mnie wkurzaæ. Przecie¿ to nie jest takie trudne! Masz tu swoje $}
-{552}{}{Co to, cholera, by³o? Tym razem gówno zarobisz. Mamy tu zbijaæ kasê, a nie siê opieprzaæ.}
-{553}{}{Nastêpnym razem lepiej siê postaram.}
-{554}{}{Wielkie dziêki... za nic.}
-{555}{}{Dziêkujê.}
+{551}{}{Chcesz u mnie trochÄ™ zarobiÄ‡ czy nie? Zaczynasz mnie wkurzaÄ‡. PrzecieÅ¼ to nie jest takie trudne! Masz tu swoje $}
+{552}{}{Co to, cholera, byÅ‚o? Tym razem gÃ³wno zarobisz. Mamy tu zbijaÄ‡ kasÄ™, a nie siÄ™ opieprzaÄ‡.}
+{553}{}{NastÄ™pnym razem lepiej siÄ™ postaram.}
+{554}{}{Wielkie dziÄ™ki... za nic.}
+{555}{}{DziÄ™kujÄ™.}
 {556}{}{Ug.}
-{570}{}{Cholerna suko, co to mia³o byæ?! Twój pierwszy raz? Za³o¿ê siê, ¿e to by³ twój pierwszy raz.}
-{571}{}{Cholera, dziewczyno? Twój pierwszy raz, czy co?}
-{572}{}{No, no... Ca³kiem nieŸle.}
-{573}{}{NieŸle, mo¿e to kiedyœ powtórzymy?}
-{574}{}{Cholera! By³o... warto.}
-{575}{}{Cholera! Najlepszy kawa³ dupy, jaki w ¿yciu mia³em. A mia³em sporo.}
-{600}{}{MASZ PRZEJEBANE! Jak œmiesz opuszczaæ kolegów na polu bitwy? [Pluje ci w twarz] ZABIÆ GO!}
+{570}{}{Cholerna suko, co to miaÅ‚o byÄ‡?! TwÃ³j pierwszy raz? ZaÅ‚oÅ¼Ä™ siÄ™, Å¼e to byÅ‚ twÃ³j pierwszy raz.}
+{571}{}{Cholera, dziewczyno? TwÃ³j pierwszy raz, czy co?}
+{572}{}{No, no... CaÅ‚kiem nieÅºle.}
+{573}{}{NieÅºle, moÅ¼e to kiedyÅ› powtÃ³rzymy?}
+{574}{}{Cholera! ByÅ‚o... warto.}
+{575}{}{Cholera! Najlepszy kawaÅ‚ dupy, jaki w Å¼yciu miaÅ‚em. A miaÅ‚em sporo.}
+{600}{}{MASZ PRZEJEBANE! Jak Å›miesz opuszczaÄ‡ kolegÃ³w na polu bitwy? [Pluje ci w twarz] ZABIÄ† GO!}
 {601}{}{Ale ja...}
-{602}{}{No to bêdzie bal.}
-{620}{}{Có¿, dobrze, ¿e jeszcze ¿yjesz.}
-{621}{}{Tak, ale ³atwo nie by³o.}
-{622}{}{Dziêki. Sprawy wymknê³y siê trochê spod kontroli.}
+{602}{}{No to bÄ™dzie bal.}
+{620}{}{CÃ³Å¼, dobrze, Å¼e jeszcze Å¼yjesz.}
+{621}{}{Tak, ale Å‚atwo nie byÅ‚o.}
+{622}{}{DziÄ™ki. Sprawy wymknÄ™Å‚y siÄ™ trochÄ™ spod kontroli.}
 {623}{}{Agra Mu ne!}
-{630}{}{A, chcesz pieniêdzy? Chcesz, ¿eby ci p³aciæ?}
+{630}{}{A, chcesz pieniÄ™dzy? Chcesz, Å¼eby ci pÅ‚aciÄ‡?}
 {631}{}{Tah.}
 {632}{}{Ugh.}
-{640}{}{Oczywiœcie CHÊTNIE bym ci pomóg³, ale... mam trochê w¹tpliwoœci w sprawie... strzelania do moich ludzi.}
-{641}{}{Przepraszam! To by³ przypadek - Znaczy... Ug?}
+{640}{}{OczywiÅ›cie CHÄ˜TNIE bym ci pomÃ³gÅ‚, ale... mam trochÄ™ wÄ…tpliwoÅ›ci w sprawie... strzelania do moich ludzi.}
+{641}{}{Przepraszam! To byÅ‚ przypadek - Znaczy... Ug?}
 {642}{}{Ych, ach.}
-{650}{}{Bez obaw. Na pewno jakoœ ci siê oddŸwiêczê... znaczy - odwdziêczê. Ch³opcy - dzieñ zap³aty.}
-{651}{}{Bez obaw. Na pewno jakoœ ci siê oddŸwiêczê... znaczy - odwdziêczê. Ch³opcy - zabiæ sukê..}
+{650}{}{Bez obaw. Na pewno jakoÅ› ci siÄ™ oddÅºwiÄ™czÄ™... znaczy - odwdziÄ™czÄ™. ChÅ‚opcy - dzieÅ„ zapÅ‚aty.}
+{651}{}{Bez obaw. Na pewno jakoÅ› ci siÄ™ oddÅºwiÄ™czÄ™... znaczy - odwdziÄ™czÄ™. ChÅ‚opcy - zabiÄ‡ sukÄ™..}
 {652}{}{Ups.}
 {653}{}{Garaka!}
 {654}{}{Uk... Dziank?}
-{670}{}{Zapewne. Widzisz, ta praca jest doœæ wymagaj¹ca. Opiera siê na zaufaniu i lojalnoœci. Jeden za wszystkich i tak dalej. To chyba dobre podejœcie, nie?}
+{670}{}{Zapewne. Widzisz, ta praca jest doÅ›Ä‡ wymagajÄ…ca. Opiera siÄ™ na zaufaniu i lojalnoÅ›ci. Jeden za wszystkich i tak dalej. To chyba dobre podejÅ›cie, nie?}
 {671}{}{Chyba tak.}
-{672}{}{Ee, co siê dzieje?}
+{672}{}{Ee, co siÄ™ dzieje?}
 {673}{}{Naturalnie.}
-{680}{}{Chyba? Jesteœ wiêkszym debilem, ni¿ myœla³em. [Metzger przypatruje ci siê uwa¿nie, a nastêpnie wskazuje ciê swoim stra¿nikom.]}
-{681}{}{Co siê dzieje?}
+{680}{}{Chyba? JesteÅ› wiÄ™kszym debilem, niÅ¼ myÅ›laÅ‚em. [Metzger przypatruje ci siÄ™ uwaÅ¼nie, a nastÄ™pnie wskazuje ciÄ™ swoim straÅ¼nikom.]}
+{681}{}{Co siÄ™ dzieje?}
 {682}{}{Co?}
-{690}{}{No proszê, mo¿e masz nieco wiêcej inteligencji, ni¿ myœla³em. Jaka szkoda. Widzisz, mam tu pewien problem. Ktoœ œmia³ zaatakowaæ moich ludzi.}
-{691}{}{Naprawdê?}
-{692}{}{To by³ wypadek!}
-{700}{}{Tak? Cieszê siê, ¿e siê zgadzamy. A co nale¿a³o by zrobiæ z kimœ, kto zawiód³ to zaufanie?}
-{701}{}{Daæ mu ostrze¿enie?}
-{702}{}{Pozwól, ¿e ci poka¿ê. [Zaatakuj]}
-{703}{}{Daæ mu popaliæ.}
-{710}{}{Tak myœlisz? Serio? No nie wiem. Mia³em na myœli coœ bardziej... trwa³ego. [Z ponurym uœmiechem, Metzger patrzy na swoich stra¿ników i kiwa g³ow¹.]}
+{690}{}{No proszÄ™, moÅ¼e masz nieco wiÄ™cej inteligencji, niÅ¼ myÅ›laÅ‚em. Jaka szkoda. Widzisz, mam tu pewien problem. KtoÅ› Å›miaÅ‚ zaatakowaÄ‡ moich ludzi.}
+{691}{}{NaprawdÄ™?}
+{692}{}{To byÅ‚ wypadek!}
+{700}{}{Tak? CieszÄ™ siÄ™, Å¼e siÄ™ zgadzamy. A co naleÅ¼aÅ‚o by zrobiÄ‡ z kimÅ›, kto zawiÃ³dÅ‚ to zaufanie?}
+{701}{}{DaÄ‡ mu ostrzeÅ¼enie?}
+{702}{}{PozwÃ³l, Å¼e ci pokaÅ¼Ä™. [Zaatakuj]}
+{703}{}{DaÄ‡ mu popaliÄ‡.}
+{710}{}{Tak myÅ›lisz? Serio? No nie wiem. MiaÅ‚em na myÅ›li coÅ› bardziej... trwaÅ‚ego. [Z ponurym uÅ›miechem, Metzger patrzy na swoich straÅ¼nikÃ³w i kiwa gÅ‚owÄ….]}
 {711}{}{Co?}
 {712}{}{O ludzie...}
-{720}{}{Cieszê siê, ¿e podzielasz moje zdanie. [Metzger patrzy na swoich stra¿ników.] Ch³opcy, pora zap³aty.}
+{720}{}{CieszÄ™ siÄ™, Å¼e podzielasz moje zdanie. [Metzger patrzy na swoich straÅ¼nikÃ³w.] ChÅ‚opcy, pora zapÅ‚aty.}
 {721}{}{Uch...}
-{730}{}{Tak. To smutne. Ta osoba ma naprawdê bardzo przechlapane. CHOLERNIE przechlapane! [Widzisz, jak Metzger daje znak swoim ludziom.] Czas na imprezê.}
+{730}{}{Tak. To smutne. Ta osoba ma naprawdÄ™ bardzo przechlapane. CHOLERNIE przechlapane! [Widzisz, jak Metzger daje znak swoim ludziom.] Czas na imprezÄ™.}
 {731}{}{Serio?}
 {732}{}{O, o.}
-{740}{}{No tak, wypadki czêsto zdarzaj¹ siê w tym zawodzie. Skoro o tym mowa: obawiam siê, ¿e nied³ugo tobie te¿ siê jakiœ przydarzy. [Metzger uœmiecha siê ponuro, poczym daje znak swoim ludziom.]}
+{740}{}{No tak, wypadki czÄ™sto zdarzajÄ… siÄ™ w tym zawodzie. Skoro o tym mowa: obawiam siÄ™, Å¼e niedÅ‚ugo tobie teÅ¼ siÄ™ jakiÅ› przydarzy. [Metzger uÅ›miecha siÄ™ ponuro, poczym daje znak swoim ludziom.]}
 {741}{}{No dawaj!}
 {742}{}{Nie ujdzie mi to na sucho, co?}
-{750}{}{Bêdzie zabawa. Zaufaj mi.}
-{751}{}{IdŸ siê jebaæ.}
-{752}{}{Uhm, w porz¹dku.}
-{800}{}{Przywódca gildii ³owców niewolników zgin¹³ z twojej rêki.}
-{900}{}{Co to kurwa za pytanie?! Zaczynasz mnie wkurwiaæ. Jest to co widaæ. Jak ci siê nie podoba mój towar, to spieprzaj mi sprzed oczu i przestañ marnowaæ mój czas.}
-{901}{}{Yyy, przepraszam. Pozwól, ¿e zapytam o coœ innego.}
-{902}{}{Dobra. Myœlê, ¿e czas ju¿ na mnie.}
-{903}{}{W³aœciwie, chyba *ciê* rozwalê, razem z ca³¹ tym pieprzonym interesem.}
-{910}{}{To wszystko co mam na stanie, tutaj, ty wybredny posrañcu, ale nowy towar zawsze dostajê z innego mojego obozu niewolników. Mo¿e jeœli wrócisz póŸniej, bêdê mia³ coœ co przykuje twoj¹ uwagê, ale wiêkszoœæ z nich to g³upie dzikusy, a oni wszyscy wygl¹daj¹ tak samo, wiêc jeœli to nie w twoim guœcie, to masz pecha.}
-{911}{}{S³uchaj, to mo¿e nie codzienna proœba, ale lubiê œwie¿y towar. Czy jest szansa zobaczyæ niewolników w twoim drugim obozie? Oczywiœcie, zap³acê ekstra.}
-{912}{}{Dobra, jeszcze tu zajrzê.}
-{913}{}{Œwietnie, ale nastêpnym razem zrób mi przys³ugê i nie marnuj mojego czasu o ile nie masz interesu do omówienia.}
-{914}{}{P³acisz ekstra, co? Wreszcie mówisz moim jêzykiem. Zwykle za³atwiamy sprzeda¿ tutaj, ale myœlê, ¿e mo¿emy zrobiæ wyj¹tek, o ile mówisz powa¿nie. Mogê ci powiedzieæ jak tam trafiæ, 
- ale lepiej to kurwa zachowaj dla siebie. Przysiêgam, jeœli oka¿esz siê szpiegiem zasranych Stra¿ników, dorwê ciê i obedrê ze skóry. [S³uchasz jego wskazówek i zaznaczasz po³o¿enie 
- Obozu £owców Niewolników na mapie w Pip-Boju.]}
-{915}{}{Mam to. Pozwól, ¿e jeszcze ciê o coœ zapytam.}
-{916}{}{Dziêki. Czas na mnie. Czeœæ.}
+{750}{}{BÄ™dzie zabawa. Zaufaj mi.}
+{751}{}{IdÅº siÄ™ jebaÄ‡.}
+{752}{}{Uhm, w porzÄ…dku.}
+{800}{}{PrzywÃ³dca gildii Å‚owcÃ³w niewolnikÃ³w zginÄ…Å‚ z twojej rÄ™ki.}
+{900}{}{Co to kurwa za pytanie?! Zaczynasz mnie wkurwiaÄ‡. Jest to co widaÄ‡. Jak ci siÄ™ nie podoba mÃ³j towar, to spieprzaj mi sprzed oczu i przestaÅ„ marnowaÄ‡ mÃ³j czas.}
+{901}{}{Yyy, przepraszam. PozwÃ³l, Å¼e zapytam o coÅ› innego.}
+{902}{}{Dobra. MyÅ›lÄ™, Å¼e czas juÅ¼ na mnie.}
+{903}{}{WÅ‚aÅ›ciwie, chyba *ciÄ™* rozwalÄ™, razem z caÅ‚Ä… tym pieprzonym interesem.}
+{910}{}{To wszystko co mam na stanie, tutaj, ty wybredny posraÅ„cu, ale nowy towar zawsze dostajÄ™ z innego mojego obozu niewolnikÃ³w. MoÅ¼e jeÅ›li wrÃ³cisz pÃ³Åºniej, bÄ™dÄ™ miaÅ‚ coÅ› co przykuje twojÄ… uwagÄ™, ale wiÄ™kszoÅ›Ä‡ z nich to gÅ‚upie dzikusy, a oni wszyscy wyglÄ…dajÄ… tak samo, wiÄ™c jeÅ›li to nie w twoim guÅ›cie, to masz pecha.}
+{911}{}{SÅ‚uchaj, to moÅ¼e nie codzienna proÅ›ba, ale lubiÄ™ Å›wieÅ¼y towar. Czy jest szansa zobaczyÄ‡ niewolnikÃ³w w twoim drugim obozie? OczywiÅ›cie, zapÅ‚acÄ™ ekstra.}
+{912}{}{Dobra, jeszcze tu zajrzÄ™.}
+{913}{}{Åšwietnie, ale nastÄ™pnym razem zrÃ³b mi przysÅ‚ugÄ™ i nie marnuj mojego czasu o ile nie masz interesu do omÃ³wienia.}
+{914}{}{PÅ‚acisz ekstra, co? Wreszcie mÃ³wisz moim jÄ™zykiem. Zwykle zaÅ‚atwiamy sprzedaÅ¼ tutaj, ale myÅ›lÄ™, Å¼e moÅ¼emy zrobiÄ‡ wyjÄ…tek, o ile mÃ³wisz powaÅ¼nie. MogÄ™ ci powiedzieÄ‡ jak tam trafiÄ‡, 
+ ale lepiej to kurwa zachowaj dla siebie. PrzysiÄ™gam, jeÅ›li okaÅ¼esz siÄ™ szpiegiem zasranych StraÅ¼nikÃ³w, dorwÄ™ ciÄ™ i obedrÄ™ ze skÃ³ry. [SÅ‚uchasz jego wskazÃ³wek i zaznaczasz poÅ‚oÅ¼enie 
+ Obozu ÅowcÃ³w NiewolnikÃ³w na mapie w Pip-Boju.]}
+{915}{}{Mam to. PozwÃ³l, Å¼e jeszcze ciÄ™ o coÅ› zapytam.}
+{916}{}{DziÄ™ki. Czas na mnie. CzeÅ›Ä‡.}
 {1360}{}{. No jak, robimy interes?}
 {1361}{}{?}
 {1363}{}{.}
@@ -243,17 +243,17 @@ przytu³ek dla jebanych æpunów.}
 {1365}{}{?}
 {1496}{}{.}
 {1540}{}{. Dobra kurde robota.}
-{1541}{}{. Kawa³ dobrej roboty. Tak trzymaæ.}
+{1541}{}{. KawaÅ‚ dobrej roboty. Tak trzymaÄ‡.}
 {1542}{}{.}
 {1543}{}{. $}
-{1544}{}{ to niema³o, ale mo¿esz zarabiaæ du¿o wiêcej.}
-{1545}{}{. Niez³a robota.}
+{1544}{}{ to niemaÅ‚o, ale moÅ¼esz zarabiaÄ‡ duÅ¼o wiÄ™cej.}
+{1545}{}{. NiezÅ‚a robota.}
 {1546}{}{.}
-{1547}{}{? NieŸle.}
-{1548}{}{? Mog³o byæ lepiej.}
+{1547}{}{? NieÅºle.}
+{1548}{}{? MogÅ‚o byÄ‡ lepiej.}
 {1549}{}{.}
-{1550}{}{! To¿ to ¿a³osne! Postaraj siê, albo ciê wykopiê.}
+{1550}{}{! ToÅ¼ to Å¼aÅ‚osne! Postaraj siÄ™, albo ciÄ™ wykopiÄ™.}
 {1551}{}{ i spieprzaj.}
 {2540}{}{.}
 {2543}{}{.}
-{15401}{}{. Kurwa ca³kiem niez³a robota, }
+{15401}{}{. Kurwa caÅ‚kiem niezÅ‚a robota, }

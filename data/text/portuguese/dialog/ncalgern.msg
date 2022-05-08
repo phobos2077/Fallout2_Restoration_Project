@@ -1,8 +1,8 @@
-{100}{}{Você vê o velho Algernon, um idiota.}
-{101}{}{Você vê Algernon.}
-{150}{}{Você vê um homem sujo e de queixo caído. Ele está balançando seus pés e
- assobiando ruídos baixos para si mesmo.}
-{151}{}{Você vê Algernon. Ele parece estar jogando Missile Command em sua cabeça.}
+{100}{}{VocÃª vÃª o velho Algernon, um idiota.}
+{101}{}{VocÃª vÃª Algernon.}
+{150}{}{VocÃª vÃª um homem sujo e de queixo caÃ­do. Ele estÃ¡ balanÃ§ando seus pÃ©s e
+ assobiando ruÃ­dos baixos para si mesmo.}
+{151}{}{VocÃª vÃª Algernon. Ele parece estar jogando Missile Command em sua cabeÃ§a.}
 {200}{}{Pew Pew}
 {201}{}{Thoom!}
 {202}{}{Zark! Zark!}
@@ -18,52 +18,52 @@
 {212}{}{Kablooie!}
 {213}{}{Ratta-tatta-tatta}
 {214}{}{Kaa-booom}
-{220}{}{(Algernon olha para você e dá um sorriso desdentado.) Boom! }
-{221}{}{(O jovem de queixo caído olha para você com um sorriso desdentado. Costurado em sua camisa há uma pequena etiqueta
+{220}{}{(Algernon olha para vocÃª e dÃ¡ um sorriso desdentado.) Boom! }
+{221}{}{(O jovem de queixo caÃ­do olha para vocÃª com um sorriso desdentado. Costurado em sua camisa hÃ¡ uma pequena etiqueta
  que diz "Algernon" em letras cursivas.) Boom! }
-{222}{}{(Quando vê suas armas, ele começa a apontar para elas com entusiasmo.) Boom!}
+{222}{}{(Quando vÃª suas armas, ele comeÃ§a a apontar para elas com entusiasmo.) Boom!}
 {223}{}{Boom!}
 {224}{}{Anda.}
-{225}{}{Uh... você quer ver uma dessas armas?}
-{226}{}{Sim, "boom" para você também. Algernon, você pode melhorar alguma dessas coisas que tenho aqui?}
+{225}{}{Uh... vocÃª quer ver uma dessas armas?}
+{226}{}{Sim, "boom" para vocÃª tambÃ©m. Algernon, vocÃª pode melhorar alguma dessas coisas que tenho aqui?}
 {227}{}{Uh, sem "boom" agora, obrigado. Tchau.}
-{230}{}{Hum! Hu-hu! (Algernon dá uma risada gorgolejante, então aponta o dedo para você como uma arma.) Blam Blam!}
-{231}{}{Você falhou, você falhou! Toma isto! (Você aponta o dedo para ele como uma arma) POW! POW!}
+{230}{}{Hum! Hu-hu! (Algernon dÃ¡ uma risada gorgolejante, entÃ£o aponta o dedo para vocÃª como uma arma.) Blam Blam!}
+{231}{}{VocÃª falhou, vocÃª falhou! Toma isto! (VocÃª aponta o dedo para ele como uma arma) POW! POW!}
 {232}{}{Ugh. Eu morto. Eu vou para um lugar melhor.}
-{235}{}{(Algernon fica com uma expressão chocada em seu rosto, então olha lentamente para o lugar onde você "atirou" nele.
- Ele de repente cambaleia, então seus olhos reviram em sua cabeça e ele cai morto.)}
+{235}{}{(Algernon fica com uma expressÃ£o chocada em seu rosto, entÃ£o olha lentamente para o lugar onde vocÃª "atirou" nele.
+ Ele de repente cambaleia, entÃ£o seus olhos reviram em sua cabeÃ§a e ele cai morto.)}
 {236}{}{Ah, Al? Tudo bem?}
 {237}{}{Uh-oh.}
-{240}{}{(Ele não se move.)}
-{241}{}{(você dá um tapinha nele)}
-{245}{}{(Ele não se levanta e também não está respirando.)}
-{250}{}{(O que você quer dar a ele?)}
+{240}{}{(Ele nÃ£o se move.)}
+{241}{}{(vocÃª dÃ¡ um tapinha nele)}
+{245}{}{(Ele nÃ£o se levanta e tambÃ©m nÃ£o estÃ¡ respirando.)}
+{250}{}{(O que vocÃª quer dar a ele?)}
 {251}{}{Da a ele uma de suas pistolas.}
 {252}{}{Da a ele um de seus rifles.}
-{253}{}{Da a ele o combustível do seu lança-chamas.}
+{253}{}{Da a ele o combustÃ­vel do seu lanÃ§a-chamas.}
 {254}{}{Da a ele uma de suas armas brancas.}
-{255}{}{Foi mal, acho que não tenho nada para te dar, Al. Talvez na próxima vez.}
-{256}{}{Na verdade, não acho que dar uma arma para um retardado seja uma ideia inteligente. Divertido, talvez, inteligente, não. Mais tarde.}
+{255}{}{Foi mal, acho que nÃ£o tenho nada para te dar, Al. Talvez na prÃ³xima vez.}
+{256}{}{Na verdade, nÃ£o acho que dar uma arma para um retardado seja uma ideia inteligente. Divertido, talvez, inteligente, nÃ£o. Mais tarde.}
 {260}{}{(Al pega o item e seus olhos se iluminam. Ele mexe nele por alguns minutos, depois mais alguns minutos,
- depois mais alguns... uma hora depois, Al o devolve com um aceno de cabeça e um sorriso.) *Booooooom.*}
-{261}{}{Diga... você pode melhorar ISSO?}
+ depois mais alguns... uma hora depois, Al o devolve com um aceno de cabeÃ§a e um sorriso.) *Booooooom.*}
+{261}{}{Diga... vocÃª pode melhorar ISSO?}
 {262}{}{Obrigado, Al.}
 {265}{}{[Qual?]}
 {266}{}{Sua .44 Magnum?}
 {267}{}{Sua Desert Eagle.}
 {268}{}{Sua Wattz 1000 laser pistol.}
 {269}{}{Sua Glock 86 Plasma Pistol.}
-{270}{}{Procure na sua mochila e dê a ele outra coisa...}
-{271}{}{Não importa, Al. Até mais.}
-{272}{}{Deixa pra lá, garoto... sem brinquedos para você hoje. Tchau.}
+{270}{}{Procure na sua mochila e dÃª a ele outra coisa...}
+{271}{}{NÃ£o importa, Al. AtÃ© mais.}
+{272}{}{Deixa pra lÃ¡, garoto... sem brinquedos para vocÃª hoje. Tchau.}
 {276}{}{Seu Colt hunting rifle.}
 {277}{}{Sua AK-112 assault rifle.}
 {278}{}{Seu FN FAL.}
 {279}{}{Seu Wattz 2000 Laser Rifle.}
-{280}{}{Seu Lança Chamas Flambe 450.}
+{280}{}{Seu LanÃ§a Chamas Flambe 450.}
 {281}{}{Seu Plasma Rifle.}
-{291}{}{Quer tomar um gole deste combustível de lança-chamas?}
-{292}{}{Aqui está um pouco de combustível de lança-chamas. Você pode fazer alguma coisa com isso?}
-{301}{}{Dê a ele seu Cattle prod. Uh... depois de ter certeza de que ele pega pelo cabo.}
+{291}{}{Quer tomar um gole deste combustÃ­vel de lanÃ§a-chamas?}
+{292}{}{Aqui estÃ¡ um pouco de combustÃ­vel de lanÃ§a-chamas. VocÃª pode fazer alguma coisa com isso?}
+{301}{}{DÃª a ele seu Cattle prod. Uh... depois de ter certeza de que ele pega pelo cabo.}
 {302}{}{Seu Power Fist "Bigger Frigger".}
-{400}{}{Eu matei Al. É melhor sumir daqui}
+{400}{}{Eu matei Al. Ã‰ melhor sumir daqui}

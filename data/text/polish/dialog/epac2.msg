@@ -1,71 +1,71 @@
 {100}{}{Widzisz Hologram.}
 {101}{}{Widzisz Dyrektora Naukowego.}
-{102}{}{Hologram 00000. Odpowiada za naukowe aspekty AOŒ.}
+{102}{}{Hologram 00000. Odpowiada za naukowe aspekty AOÅš.}
 {200}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
 {201}{}{Yy, co?}
 {210}{}{01000101 01101100 01100101 01100011 01110100 01110010 01101001 01100011 01100001 01101100 00100000 01110011
  01101000 01101111 01110010 01110100 00101110}
-{211}{}{Przepraszam, ale nie rozumiem co do mnie mówisz. Czeœæ.}
-{212}{}{Interesuj¹ce. Wygl¹da, ¿e mo¿esz siê porozumiewaæ tylko za pomoc¹ kodu binarnego. Poczekaj, jeœli tylko uda mi siê to zapisaæ, to mo¿e siê jakoœ dogadamy.}
-{220}{}{[Kilka godzin póŸniej, udaje ci siê skoñczyæ t³umaczenie. Zdaje siê, ¿e mówi “Pomó¿ mi! Zwarcie.”]}
-{221}{}{Có¿, faje siê to dekodowa³o. Do zobaczenia.}
-{222}{}{Zwarcie elektryczne na szpuli taœmy, co? Dobra, sprawdŸmy czy dam radê to naprawiæ.}
+{211}{}{Przepraszam, ale nie rozumiem co do mnie mÃ³wisz. CzeÅ›Ä‡.}
+{212}{}{InteresujÄ…ce. WyglÄ…da, Å¼e moÅ¼esz siÄ™ porozumiewaÄ‡ tylko za pomocÄ… kodu binarnego. Poczekaj, jeÅ›li tylko uda mi siÄ™ to zapisaÄ‡, to moÅ¼e siÄ™ jakoÅ› dogadamy.}
+{220}{}{[Kilka godzin pÃ³Åºniej, udaje ci siÄ™ skoÅ„czyÄ‡ tÅ‚umaczenie. Zdaje siÄ™, Å¼e mÃ³wi â€œPomÃ³Å¼ mi! Zwarcie.â€]}
+{221}{}{CÃ³Å¼, faje siÄ™ to dekodowaÅ‚o. Do zobaczenia.}
+{222}{}{Zwarcie elektryczne na szpuli taÅ›my, co? Dobra, sprawdÅºmy czy dam radÄ™ to naprawiÄ‡.}
 {230}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
 {231}{}{Tylko sprawdzam. Do zobaczenia.}
-{232}{}{Nie martw siê, pracujê na tym.}
+{232}{}{Nie martw siÄ™, pracujÄ™ na tym.}
 {240}{}{01010010 01100101 01100010 01101111 01101111 01110100 00100000 01101101 01100101 00100001}
-{241}{}{Dobra, poddajê siê. Przepraszam, ale nie dam rady.}
-{242}{}{Ci¹gle nie dzia³a? Czekaj odkoduje to.}
-{250}{}{[Tym razem uda³o siê znacznie szybciej: “Zresetuj mnie!”] No, jasne. [Resetujesz maszynê wyœwietlaj¹c¹ hologram. Dla zabicia czasu, gwi¿d¿esz w takt terkotu maszyny przechodz¹cej procedury startowe.]}
+{241}{}{Dobra, poddajÄ™ siÄ™. Przepraszam, ale nie dam rady.}
+{242}{}{CiÄ…gle nie dziaÅ‚a? Czekaj odkoduje to.}
+{250}{}{[Tym razem udaÅ‚o siÄ™ znacznie szybciej: â€œZresetuj mnie!â€] No, jasne. [Resetujesz maszynÄ™ wyÅ›wietlajÄ…cÄ… hologram. Dla zabicia czasu, gwiÅ¼dÅ¼esz w takt terkotu maszyny przechodzÄ…cej procedury startowe.]}
 {251}{}{[Dalej.]}
-{260}{}{Na Hawkinga, uda³o Ci siê! Mój program g³osowy by³ zaciêty w trybie binarnym od *lat*. Minê³o tyle czasu odk¹d mia³em przyjemnoœæ prowadziæ rozmowê z kimœ inteligentnym. Mo¿na by pomyœleæ, ¿e przez ten czas choæ *jeden* z moich towarzyszy móg³by byæ na tyle uprzejmy i nauczyæ siê binarnego, ale nieee.}
+{260}{}{Na Hawkinga, udaÅ‚o Ci siÄ™! MÃ³j program gÅ‚osowy byÅ‚ zaciÄ™ty w trybie binarnym od *lat*. MinÄ™Å‚o tyle czasu odkÄ…d miaÅ‚em przyjemnoÅ›Ä‡ prowadziÄ‡ rozmowÄ™ z kimÅ› inteligentnym. MoÅ¼na by pomyÅ›leÄ‡, Å¼e przez ten czas choÄ‡ *jeden* z moich towarzyszy mÃ³gÅ‚by byÄ‡ na tyle uprzejmy i nauczyÄ‡ siÄ™ binarnego, ale nieee.}
 {261}{}{Nie ma spra--}
-{270}{}{Widzisz, nie mieli dla mnie czasu. O nie, byli zbyt *zajêci* oddawaniem siê swoim biurokratycznym nonsensom.
- Zbyt zajêci nak³adaniem regulacji jeden na drugiego i sprzeczaniem siê jak g³upcy. I zobacz do czego ich to doprowadzi³o: zapêtleni bez koñca w sali konferencyjnej. Ha! Dobrze im tak.}
-{271}{}{Zapêtleni?}
-{272}{}{W³aœciwie to ju¿ po problemie. Nie s¹ ju¿ zapêtleni}
-{280}{}{Co, proszê? A, tak, tak, wydaje mi siê, ¿e jakaœ awaria spowodowa³a powstanie silnego pola magnetycznego, które kasuje ich pamiêæ krótkotrwa³¹ co kilka minut, skazuj¹c ich rodzaj czyœæca dla hologramów. Ale nie przejmuj siê nimi,
- lepiej nam bez nich. Z nimi odciêtymi w ich niekoñcz¹cej siê k³ótni, tylko ja, yyy, mia³em na myœli, *my*, zostaliœmy do zarz¹dzania t¹ placówk¹. Z moj¹ niezwyk³¹ inteligencj¹ i twoim fizycznym cia³em, tworzymy niez³y zespó³.}
-{281}{}{Najpierw, wyjaœnij mi, dok³adnie co to za miejsce?}
-{290}{}{Naprawdê? Wed³ug mnie, lepiej by³oby bez nich, ale jeœli Ty uwa¿asz inaczej, to kim ja jestem ¿eby narzekaæ. Z moja niezwyk³¹ inteligencja i twoim fizycznym cia³em, mo¿emy byæ dobry zespo³em, wiesz?}
-{291}{}{Najpierw, wyjaœnij mi, dok³adnie co to za miejsce?}
-{300}{}{Có¿, Agencja Ochrony Œrodowiska, oczywiœcie. Placówka rz¹dowa oryginalnie utworzona w celu nadzorowania gospodarowania chemikaliami
- i zapewnienia ochrony œrodowisku naturalnemu, ale sta³a siê czymœ znacznie wiêcej! W³aœnie stoisz w jednym z najlepszych narodowych oœrodków badawczych. Prowadzimy obecnie tyle ekscytuj¹cych badañ.
- Oczywiœcie, ostatnio prace postêpuj¹ nieco wolniej, przez ten upadek cywilizacji i tak dalej...}
-{301}{}{To zrozumia³e.}
-{302}{}{Apokalipsa to nie powód do oci¹gania siê.}
-{310}{}{Tak, gdybym tylko mia³ zdolnego cielesnego asystenta, móg³bym wreszcie posun¹æ na przód moje badania...}
+{270}{}{Widzisz, nie mieli dla mnie czasu. O nie, byli zbyt *zajÄ™ci* oddawaniem siÄ™ swoim biurokratycznym nonsensom.
+ Zbyt zajÄ™ci nakÅ‚adaniem regulacji jeden na drugiego i sprzeczaniem siÄ™ jak gÅ‚upcy. I zobacz do czego ich to doprowadziÅ‚o: zapÄ™tleni bez koÅ„ca w sali konferencyjnej. Ha! Dobrze im tak.}
+{271}{}{ZapÄ™tleni?}
+{272}{}{WÅ‚aÅ›ciwie to juÅ¼ po problemie. Nie sÄ… juÅ¼ zapÄ™tleni}
+{280}{}{Co, proszÄ™? A, tak, tak, wydaje mi siÄ™, Å¼e jakaÅ› awaria spowodowaÅ‚a powstanie silnego pola magnetycznego, ktÃ³re kasuje ich pamiÄ™Ä‡ krÃ³tkotrwaÅ‚Ä… co kilka minut, skazujÄ…c ich rodzaj czyÅ›Ä‡ca dla hologramÃ³w. Ale nie przejmuj siÄ™ nimi,
+ lepiej nam bez nich. Z nimi odciÄ™tymi w ich niekoÅ„czÄ…cej siÄ™ kÅ‚Ã³tni, tylko ja, yyy, miaÅ‚em na myÅ›li, *my*, zostaliÅ›my do zarzÄ…dzania tÄ… placÃ³wkÄ…. Z mojÄ… niezwykÅ‚Ä… inteligencjÄ… i twoim fizycznym ciaÅ‚em, tworzymy niezÅ‚y zespÃ³Å‚.}
+{281}{}{Najpierw, wyjaÅ›nij mi, dokÅ‚adnie co to za miejsce?}
+{290}{}{NaprawdÄ™? WedÅ‚ug mnie, lepiej byÅ‚oby bez nich, ale jeÅ›li Ty uwaÅ¼asz inaczej, to kim ja jestem Å¼eby narzekaÄ‡. Z moja niezwykÅ‚Ä… inteligencja i twoim fizycznym ciaÅ‚em, moÅ¼emy byÄ‡ dobry zespoÅ‚em, wiesz?}
+{291}{}{Najpierw, wyjaÅ›nij mi, dokÅ‚adnie co to za miejsce?}
+{300}{}{CÃ³Å¼, Agencja Ochrony Åšrodowiska, oczywiÅ›cie. PlacÃ³wka rzÄ…dowa oryginalnie utworzona w celu nadzorowania gospodarowania chemikaliami
+ i zapewnienia ochrony Å›rodowisku naturalnemu, ale staÅ‚a siÄ™ czymÅ› znacznie wiÄ™cej! WÅ‚aÅ›nie stoisz w jednym z najlepszych narodowych oÅ›rodkÃ³w badawczych. Prowadzimy obecnie tyle ekscytujÄ…cych badaÅ„.
+ OczywiÅ›cie, ostatnio prace postÄ™pujÄ… nieco wolniej, przez ten upadek cywilizacji i tak dalej...}
+{301}{}{To zrozumiaÅ‚e.}
+{302}{}{Apokalipsa to nie powÃ³d do ociÄ…gania siÄ™.}
+{310}{}{Tak, gdybym tylko miaÅ‚ zdolnego cielesnego asystenta, mÃ³gÅ‚bym wreszcie posunÄ…Ä‡ na przÃ³d moje badania...}
 {311}{}{Jakiej pomocy potrzebujesz?}
-{320}{}{Có¿, to zale¿y. Przypuszczam, ¿e nie masz ochoty przetestowaæ wspania³ej eksperymentalnej broni, prawda?}
-{321}{}{Jasne, ¿e mam!}
+{320}{}{CÃ³Å¼, to zaleÅ¼y. Przypuszczam, Å¼e nie masz ochoty przetestowaÄ‡ wspaniaÅ‚ej eksperymentalnej broni, prawda?}
+{321}{}{Jasne, Å¼e mam!}
 {322}{}{Jasne.}
-{323}{}{Myœlê, ¿e sobie darujê.}
-{330}{}{No có¿, rozumiem. Szkoda. Trudno, nie chowam urazy. Po prostu  poczekam, a¿ znowu ktoœ z krwi i koœci zawêdruje do tego oœrodka. W ci¹gu nastêpnego wieku czy dwóch na pewno ktoœ tu trafi. Do widzenia.}
-{340}{}{Witaj ponownie. Nie przypuszczam, ¿eby moja propozycja przetestowania eksperymentalnej broni zosta³a przez ciebie ponownie przemyœlana, prawda?}
-{341}{}{Nie s¹dzê. Przykro mi.}
-{342}{}{Jasne. Zgadzam siê.}
-{350}{}{Wyœmienicie! Doskonale siê do tego nadajesz. Widzisz, chc¹c pomóc wojsku staæ siê “przyjaznym œrodowisku”, stworzy³em broñ, która nie wymaga amunicji, potrzebuje jedynie *œwiat³a*. Nazwa³em j¹, 
- *S³oneczny Opiekacz*. Mimo, ¿e ma dopiero zostaæ przetestowany w pe³nym œwietle dziennym, co, oczywiœcie jest twoim zadaniem.}
-{351}{}{Czyli wszystko czego oczekujesz, to ¿e wezmê go na zewn¹trz i trochê postrzelam? To wszystko?}
-{352}{}{Tak, tak, po prostu daj mi wreszcie tê giwerê.}
-{360}{}{W skrócie, tak. Oczywiœcie, muszê wiedzieæ jak spisuje siê w warunkach bojowych, wiêc oczekujê, ¿e wyjdziesz i znajdziesz jak¹œ niebezpieczn¹ formê ¿ycia, której w spektakularny sposób, za pomoc¹ S³onecznego Opiekacza siê pozbêdziesz.}
-{361}{}{Iœæ na zewn¹trz i coœ zabiæ, jasne. Wiêc, gdzie jest ten S³oneczny Opiekacz?}
-{370}{}{Nie tak szybko, mój przyjacielu. Nie wystarczy, ¿e postrzelasz sobie w przypadkowych kierunkach. Muszê wiedzieæ jak nowa broñ spisuje siê w warunkach bojowych, wiêc oczekujê, ¿e wyjdziesz i znajdziesz jak¹œ niebezpieczn¹ formê ¿ycia, której w spektakularny sposób, za pomoc¹ S³onecznego Opiekacza siê pozbêdziesz.}
-{371}{}{Iœæ na zewn¹trz i coœ zabiæ, jasne. Wiêc, gdzie jest ten S³oneczny Opiekacz?}
-{380}{}{A, tak, jest w szafce na œcianie tam, obok mojego projektora. Kod dostêpu to 03141879.}
-{381}{}{Dobra, wypróbujê go i dam Ci znaæ jak posz³o.}
-{390}{}{Ah, witaj ponownie. Czy zdarzy³a Ci siê okazja do przetestowania S³onecznego Opiekacza?}
-{391}{}{Oczywiœcie, ¿e tak. Spala wszystkich jak nale¿y.}
-{392}{}{Jasne, ¿e tak, ale cholerne gówno siê zepsu³o i trzeba je by³o wyrzuciæ.}
+{323}{}{MyÅ›lÄ™, Å¼e sobie darujÄ™.}
+{330}{}{No cÃ³Å¼, rozumiem. Szkoda. Trudno, nie chowam urazy. Po prostu  poczekam, aÅ¼ znowu ktoÅ› z krwi i koÅ›ci zawÄ™druje do tego oÅ›rodka. W ciÄ…gu nastÄ™pnego wieku czy dwÃ³ch na pewno ktoÅ› tu trafi. Do widzenia.}
+{340}{}{Witaj ponownie. Nie przypuszczam, Å¼eby moja propozycja przetestowania eksperymentalnej broni zostaÅ‚a przez ciebie ponownie przemyÅ›lana, prawda?}
+{341}{}{Nie sÄ…dzÄ™. Przykro mi.}
+{342}{}{Jasne. Zgadzam siÄ™.}
+{350}{}{WyÅ›mienicie! Doskonale siÄ™ do tego nadajesz. Widzisz, chcÄ…c pomÃ³c wojsku staÄ‡ siÄ™ â€œprzyjaznym Å›rodowiskuâ€, stworzyÅ‚em broÅ„, ktÃ³ra nie wymaga amunicji, potrzebuje jedynie *Å›wiatÅ‚a*. NazwaÅ‚em jÄ…, 
+ *SÅ‚oneczny Opiekacz*. Mimo, Å¼e ma dopiero zostaÄ‡ przetestowany w peÅ‚nym Å›wietle dziennym, co, oczywiÅ›cie jest twoim zadaniem.}
+{351}{}{Czyli wszystko czego oczekujesz, to Å¼e wezmÄ™ go na zewnÄ…trz i trochÄ™ postrzelam? To wszystko?}
+{352}{}{Tak, tak, po prostu daj mi wreszcie tÄ™ giwerÄ™.}
+{360}{}{W skrÃ³cie, tak. OczywiÅ›cie, muszÄ™ wiedzieÄ‡ jak spisuje siÄ™ w warunkach bojowych, wiÄ™c oczekujÄ™, Å¼e wyjdziesz i znajdziesz jakÄ…Å› niebezpiecznÄ… formÄ™ Å¼ycia, ktÃ³rej w spektakularny sposÃ³b, za pomocÄ… SÅ‚onecznego Opiekacza siÄ™ pozbÄ™dziesz.}
+{361}{}{IÅ›Ä‡ na zewnÄ…trz i coÅ› zabiÄ‡, jasne. WiÄ™c, gdzie jest ten SÅ‚oneczny Opiekacz?}
+{370}{}{Nie tak szybko, mÃ³j przyjacielu. Nie wystarczy, Å¼e postrzelasz sobie w przypadkowych kierunkach. MuszÄ™ wiedzieÄ‡ jak nowa broÅ„ spisuje siÄ™ w warunkach bojowych, wiÄ™c oczekujÄ™, Å¼e wyjdziesz i znajdziesz jakÄ…Å› niebezpiecznÄ… formÄ™ Å¼ycia, ktÃ³rej w spektakularny sposÃ³b, za pomocÄ… SÅ‚onecznego Opiekacza siÄ™ pozbÄ™dziesz.}
+{371}{}{IÅ›Ä‡ na zewnÄ…trz i coÅ› zabiÄ‡, jasne. WiÄ™c, gdzie jest ten SÅ‚oneczny Opiekacz?}
+{380}{}{A, tak, jest w szafce na Å›cianie tam, obok mojego projektora. Kod dostÄ™pu to 03141879.}
+{381}{}{Dobra, wyprÃ³bujÄ™ go i dam Ci znaÄ‡ jak poszÅ‚o.}
+{390}{}{Ah, witaj ponownie. Czy zdarzyÅ‚a Ci siÄ™ okazja do przetestowania SÅ‚onecznego Opiekacza?}
+{391}{}{OczywiÅ›cie, Å¼e tak. Spala wszystkich jak naleÅ¼y.}
+{392}{}{Jasne, Å¼e tak, ale cholerne gÃ³wno siÄ™ zepsuÅ‚o i trzeba je byÅ‚o wyrzuciÄ‡.}
 {393}{}{Nie, jeszcze nie.}
-{394}{}{Zajmê siê tym.}
-{400}{}{Doskonale! Cieszy mnie, ¿e dzia³a tak jak zamierza³em. Dziêkuje za pomoc. Jest twój, wolê ¿eby go ktoœ u¿ywa³ ni¿ ¿eby tu le¿a³ i zbiera³ kurz.}
-{401}{}{Dziêki!}
-{402}{}{S³usznie, bo i tak nie zamierzam ci go oddaæ.}
-{410}{}{Oh . . . rozumiem. Nie rozumiem tylko, jak prototyp przeszed³ ciê¿kie próby laboratoryjne . . . [Potrz¹sa, ze smutkiem g³ow¹.] Mimo to, dziêkujê za pomoc.}
+{394}{}{ZajmÄ™ siÄ™ tym.}
+{400}{}{Doskonale! Cieszy mnie, Å¼e dziaÅ‚a tak jak zamierzaÅ‚em. DziÄ™kuje za pomoc. Jest twÃ³j, wolÄ™ Å¼eby go ktoÅ› uÅ¼ywaÅ‚ niÅ¼ Å¼eby tu leÅ¼aÅ‚ i zbieraÅ‚ kurz.}
+{401}{}{DziÄ™ki!}
+{402}{}{SÅ‚usznie, bo i tak nie zamierzam ci go oddaÄ‡.}
+{410}{}{Oh . . . rozumiem. Nie rozumiem tylko, jak prototyp przeszedÅ‚ ciÄ™Å¼kie prÃ³by laboratoryjne . . . [PotrzÄ…sa, ze smutkiem gÅ‚owÄ….] Mimo to, dziÄ™kujÄ™ za pomoc.}
 {411}{}{Jak chcesz.}
 {412}{}{Nie ma sprawy.}
-{420}{}{Mi³o cie znowu widzieæ. Ale, muszê ciê przeprosiæ, mam mnóstwo projektów które wymagaj¹ mojej uwagi.}
+{420}{}{MiÅ‚o cie znowu widzieÄ‡. Ale, muszÄ™ ciÄ™ przeprosiÄ‡, mam mnÃ³stwo projektÃ³w ktÃ³re wymagajÄ… mojej uwagi.}
 {421}{}{[Koniec.]}
 {500}{}{Naprawiasz Hologram 00000.}
-{510}{}{Testujesz S³oneczny Opiekacz dla Dyrektora Naukowego.}
+{510}{}{Testujesz SÅ‚oneczny Opiekacz dla Dyrektora Naukowego.}

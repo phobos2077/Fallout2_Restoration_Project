@@ -1,52 +1,52 @@
-{100}{}{Egy tömzsi fickót látsz mocskos ruhában.}
+{100}{}{Egy tÃ¶mzsi fickÃ³t lÃ¡tsz mocskos ruhÃ¡ban.}
 {101}{}{Brian.}
-{102}{}{Egy tömzsi fickót látsz mocskos ruhában. A szájában fogpiszkáló és tet?t?l talpig gépzsír borítja. A körmei is koszosak.}
-{103}{}{Lássuk, ehhez mit szólsz, te antiszociális köcsög!}
+{102}{}{Egy tÃ¶mzsi fickÃ³t lÃ¡tsz mocskos ruhÃ¡ban. A szÃ¡jÃ¡ban fogpiszkÃ¡lÃ³ Ã©s tet?t?l talpig gÃ©pzsÃ­r borÃ­tja. A kÃ¶rmei is koszosak.}
+{103}{}{LÃ¡ssuk, ehhez mit szÃ³lsz, te antiszociÃ¡lis kÃ¶csÃ¶g!}
 {104}{}{Mit akarsz?}
 {105}{}{Nyug aarg.}
 {106}{}{Ki vagy te?}
-{107}{}{Mi ez a hely tulajdonképpen?}
-{108}{}{Hallottál valaha az ÉLET-r?l?}
-{109}{}{Eric megkért, hogy állítsam át a házára jutó árammennyiséget. Azt mondja, túl sokat izzad.}
-{110}{}{Eric igazán boldog a jól h?tött kis házában, és a város sem szenvedett áram-csökkenést!}
-{111}{}{Beszéltem Erickel. Mesélte, hogy régebben ? is itt dolgozott. Szerinte b?ven van elég delej az urántöltetekben ahhoz, hogy senki se vegye észre azt kis plusz fogyasztást, amit ? okozna. Szóval tekerd fel az áramot, haver!}
-{112}{}{Semmit. Viszlát!}
-{113}{}{Én? Brian vagyok. Egyedül üzemeltetem a generátort, ami árammal látja el ezt a várost.}
-{114}{}{Akkor te vagy az, akire szükségem van. Eric azt mondja, hogy túl meleg van nála, és szüksége lenne még egy kis áramra a légkondícionálójához.}
-{115}{}{Értem. Nagyon érdekes. Biztos nagyon felel?sségteljes munka.}
-{116}{}{Nagyszer?! Kérdeznék még ezt-azt, ha nem probléma.}
-{117}{}{Ez itt Broken Hills áramellátó központja. Az én dolgom karbantartani itt mindent... biztosítani, hogy a gép rendesen üzemeljen. Jól is üzemel... urántöltetek hajtják.}
-{118}{}{Ez nagyszer?. Lenne még pár kérdésem.}
-{119}{}{Urántöltetek?}
-{120}{}{Érdekes. Viszlát!}
-{121}{}{ÉLET? Soha nem hallottam róla, és szerintem errefelé senki más sem. Hacsak nem arra a valamire gondolsz, ami ideköt minket erre a nukleáris sárgolyóra.}
+{107}{}{Mi ez a hely tulajdonkÃ©ppen?}
+{108}{}{HallottÃ¡l valaha az Ã‰LET-r?l?}
+{109}{}{Eric megkÃ©rt, hogy Ã¡llÃ­tsam Ã¡t a hÃ¡zÃ¡ra jutÃ³ Ã¡rammennyisÃ©get. Azt mondja, tÃºl sokat izzad.}
+{110}{}{Eric igazÃ¡n boldog a jÃ³l h?tÃ¶tt kis hÃ¡zÃ¡ban, Ã©s a vÃ¡ros sem szenvedett Ã¡ram-csÃ¶kkenÃ©st!}
+{111}{}{BeszÃ©ltem Erickel. MesÃ©lte, hogy rÃ©gebben ? is itt dolgozott. Szerinte b?ven van elÃ©g delej az urÃ¡ntÃ¶ltetekben ahhoz, hogy senki se vegye Ã©szre azt kis plusz fogyasztÃ¡st, amit ? okozna. SzÃ³val tekerd fel az Ã¡ramot, haver!}
+{112}{}{Semmit. ViszlÃ¡t!}
+{113}{}{Ã‰n? Brian vagyok. EgyedÃ¼l Ã¼zemeltetem a generÃ¡tort, ami Ã¡rammal lÃ¡tja el ezt a vÃ¡rost.}
+{114}{}{Akkor te vagy az, akire szÃ¼ksÃ©gem van. Eric azt mondja, hogy tÃºl meleg van nÃ¡la, Ã©s szÃ¼ksÃ©ge lenne mÃ©g egy kis Ã¡ramra a lÃ©gkondÃ­cionÃ¡lÃ³jÃ¡hoz.}
+{115}{}{Ã‰rtem. Nagyon Ã©rdekes. Biztos nagyon felel?ssÃ©gteljes munka.}
+{116}{}{Nagyszer?! KÃ©rdeznÃ©k mÃ©g ezt-azt, ha nem problÃ©ma.}
+{117}{}{Ez itt Broken Hills Ã¡ramellÃ¡tÃ³ kÃ¶zpontja. Az Ã©n dolgom karbantartani itt mindent... biztosÃ­tani, hogy a gÃ©p rendesen Ã¼zemeljen. JÃ³l is Ã¼zemel... urÃ¡ntÃ¶ltetek hajtjÃ¡k.}
+{118}{}{Ez nagyszer?. Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{119}{}{UrÃ¡ntÃ¶ltetek?}
+{120}{}{Ã‰rdekes. ViszlÃ¡t!}
+{121}{}{Ã‰LET? Soha nem hallottam rÃ³la, Ã©s szerintem errefelÃ© senki mÃ¡s sem. Hacsak nem arra a valamire gondolsz, ami idekÃ¶t minket erre a nukleÃ¡ris sÃ¡rgolyÃ³ra.}
 {122}{}{No, that's not what I'm looking for. I have more questions though.}
-{123}{}{Nem, nem arra gondolok. Viszlát!}
-{124}{}{Eric több áramot akar? Hát... Eric nem kaphat több áramot. Nagyon kényes egyensúlyt tartunk fenn, és ha Eric több áramot kap, leállhat a kórház. Vagy a világítás. Esetleg a bánya. Ezt nem engedhetjük meg.}
-{125}{}{Ha ez a szerkezet itt urántöltetekkel üzemel, több mint elég az energiátok egész Broken Hills ÉS New Reno ellátására. Észre se vennétek a különbséget. Gyerünk szépen!}
+{123}{}{Nem, nem arra gondolok. ViszlÃ¡t!}
+{124}{}{Eric tÃ¶bb Ã¡ramot akar? HÃ¡t... Eric nem kaphat tÃ¶bb Ã¡ramot. Nagyon kÃ©nyes egyensÃºlyt tartunk fenn, Ã©s ha Eric tÃ¶bb Ã¡ramot kap, leÃ¡llhat a kÃ³rhÃ¡z. Vagy a vilÃ¡gÃ­tÃ¡s. Esetleg a bÃ¡nya. Ezt nem engedhetjÃ¼k meg.}
+{125}{}{Ha ez a szerkezet itt urÃ¡ntÃ¶ltetekkel Ã¼zemel, tÃ¶bb mint elÃ©g az energiÃ¡tok egÃ©sz Broken Hills Ã‰S New Reno ellÃ¡tÃ¡sÃ¡ra. Ã‰szre se vennÃ©tek a kÃ¼lÃ¶nbsÃ©get. GyerÃ¼nk szÃ©pen!}
 {126}{}{De... de... Eric szenved!}
-{127}{}{Szóval, nincs esély semmiféle kis átállításra?}
+{127}{}{SzÃ³val, nincs esÃ©ly semmifÃ©le kis Ã¡tÃ¡llÃ­tÃ¡sra?}
 {128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
-{129}{}{Nahiszen... Viszlát!}
-{130}{}{Hé! Ne nyúlj semmihez! Ez egy finom m?szer! Kifelé! T?nés! Gyerünk! Menj haza!}
-{131}{}{Óóóh! Gombocskák!}
-{132}{}{Hát, nem, nem igazán az. Általában csak ülök itt, és figyelem a kijelz?ket. Néha állítgatok kicsit a szerkenty?n, kapcsolgatok pár gombot. Ez minden, bárki meg tudná csinálni.}
-{133}{}{Szóval mondd csak, nem tudnál kicsivel több energiát irányítani Eric házának?}
-{134}{}{Bárki, hm? Szeretnék valami mást kérdezni...}
-{135}{}{Kösz. Viszlát!}
-{136}{}{Nos, tekintve, hogy itt van az uránbánya, és figyelembe véve, hogy az atomenergia a jöv? energiaforrása, úgy t?nik, hogy lépést tartunk az id?vel. Lehet, hogy ez egy kisváros, de azért fejl?dik.}
-{137}{}{Hmm... Lenne még néhány kérdésem.}
-{138}{}{Szuper. Viszlát!}
-{139}{}{Hát, igen, technikailag igaz, de...}
-{140}{}{Semmi de! Egyszer?en csak lusta vagy. Gyerünk!}
+{129}{}{Nahiszen... ViszlÃ¡t!}
+{130}{}{HÃ©! Ne nyÃºlj semmihez! Ez egy finom m?szer! KifelÃ©! T?nÃ©s! GyerÃ¼nk! Menj haza!}
+{131}{}{Ã“Ã³Ã³h! GombocskÃ¡k!}
+{132}{}{HÃ¡t, nem, nem igazÃ¡n az. ÃltalÃ¡ban csak Ã¼lÃ¶k itt, Ã©s figyelem a kijelz?ket. NÃ©ha Ã¡llÃ­tgatok kicsit a szerkenty?n, kapcsolgatok pÃ¡r gombot. Ez minden, bÃ¡rki meg tudnÃ¡ csinÃ¡lni.}
+{133}{}{SzÃ³val mondd csak, nem tudnÃ¡l kicsivel tÃ¶bb energiÃ¡t irÃ¡nyÃ­tani Eric hÃ¡zÃ¡nak?}
+{134}{}{BÃ¡rki, hm? SzeretnÃ©k valami mÃ¡st kÃ©rdezni...}
+{135}{}{KÃ¶sz. ViszlÃ¡t!}
+{136}{}{Nos, tekintve, hogy itt van az urÃ¡nbÃ¡nya, Ã©s figyelembe vÃ©ve, hogy az atomenergia a jÃ¶v? energiaforrÃ¡sa, Ãºgy t?nik, hogy lÃ©pÃ©st tartunk az id?vel. Lehet, hogy ez egy kisvÃ¡ros, de azÃ©rt fejl?dik.}
+{137}{}{Hmm... Lenne mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{138}{}{Szuper. ViszlÃ¡t!}
+{139}{}{HÃ¡t, igen, technikailag igaz, de...}
+{140}{}{Semmi de! Egyszer?en csak lusta vagy. GyerÃ¼nk!}
 {141}{}{You don't have to be mean about it. [He ducks his head and turns a dial.] There. Please tell him to stop complaining now.}
-{142}{}{Csupa szív vagy, haver!}
-{143}{}{Remélem, büszke vagy magadra! Ne is várj köszönetet! Csak megnehezítetted azt, ami egyébként tök egyszer? lett volna.}
-{144}{}{Talán csak többször kellene fürdenie. Viszlát!}
-{145}{}{Viszlát!}
-{146}{}{Nem. Attól tartok, nincs. A város szükségletei fontosabbak, mint egy ember szükségletei.}
-{147}{}{Akkor kérdeznék valami mást.}
-{148}{}{Ez nem valami szép t?led. Megyek és megmondom Ericnek, hogy ? nem fontos. Viszlát!}
-{149}{}{Hmm... mi'... hö?}
+{142}{}{Csupa szÃ­v vagy, haver!}
+{143}{}{RemÃ©lem, bÃ¼szke vagy magadra! Ne is vÃ¡rj kÃ¶szÃ¶netet! Csak megnehezÃ­tetted azt, ami egyÃ©bkÃ©nt tÃ¶k egyszer? lett volna.}
+{144}{}{TalÃ¡n csak tÃ¶bbszÃ¶r kellene fÃ¼rdenie. ViszlÃ¡t!}
+{145}{}{ViszlÃ¡t!}
+{146}{}{Nem. AttÃ³l tartok, nincs. A vÃ¡ros szÃ¼ksÃ©gletei fontosabbak, mint egy ember szÃ¼ksÃ©gletei.}
+{147}{}{Akkor kÃ©rdeznÃ©k valami mÃ¡st.}
+{148}{}{Ez nem valami szÃ©p t?led. Megyek Ã©s megmondom Ericnek, hogy ? nem fontos. ViszlÃ¡t!}
+{149}{}{Hmm... mi'... hÃ¶?}
 {150}{}{Zzzzzz... hork...}
 {151}{}{Mit akarsz...? Hmm...? ::hork::}

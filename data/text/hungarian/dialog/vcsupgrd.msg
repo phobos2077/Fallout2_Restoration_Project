@@ -1,90 +1,90 @@
 {100}{}{Martin.}
-{101}{}{Egy remeg? szájú férfit látsz, aki nagyon s?r?n pislog.}
+{101}{}{Egy remeg? szÃ¡jÃº fÃ©rfit lÃ¡tsz, aki nagyon s?r?n pislog.}
 {102}{}{Martin.}
-{103}{}{Egy remeg? szájú férfit látsz, aki nagyon s?r?n pislog.}
-{104}{}{Köszönöm, hogy me-me-megmentettél minket. Még itt l-lent is hallottam rólad.}
-{105}{}{Se-segítség! Be-be-behatoló!}
-{106}{}{Egy mu-mu-mutáns! Se-se-segítség!}
-{107}{}{Egy gho-gho-ghoul! Se-se-segítség!}
+{103}{}{Egy remeg? szÃ¡jÃº fÃ©rfit lÃ¡tsz, aki nagyon s?r?n pislog.}
+{104}{}{KÃ¶szÃ¶nÃ¶m, hogy me-me-megmentettÃ©l minket. MÃ©g itt l-lent is hallottam rÃ³lad.}
+{105}{}{Se-segÃ­tsÃ©g! Be-be-behatolÃ³!}
+{106}{}{Egy mu-mu-mutÃ¡ns! Se-se-segÃ­tsÃ©g!}
+{107}{}{Egy gho-gho-ghoul! Se-se-segÃ­tsÃ©g!}
 {108}{}{::Bum-ba-bum-ba::}
 {109}{}{2 Seconds}
-{110}{}{"Talááááán"}
+{110}{}{"TalÃ¡Ã¡Ã¡Ã¡Ã¡n"}
 {111}{}{2 Seconds}
-{112}{}{"Rááám gondolsz maaajd..."}
+{112}{}{"RÃ¡Ã¡Ã¡m gondolsz maaajd..."}
 {113}{}{2 Seconds}
-{114}{}{"Ha a vááágyad haaajt..."}
+{114}{}{"Ha a vÃ¡Ã¡Ã¡gyad haaajt..."}
 {115}{}{2 Seconds}
 {116}{}{"Ha h???tlen leszeeeel..."}
 {117}{}{2 Seconds}
 {118}{}{"Maaajd mit tesszeeel..."}
 {119}{}{2 Seconds}
-{120}{}{*Eljátssza a tapsot, a tömeg üdvrivalgását*}
+{120}{}{*EljÃ¡tssza a tapsot, a tÃ¶meg Ã¼dvrivalgÃ¡sÃ¡t*}
 {121}{}{2 Seconds}
-{122}{}{Kö-kö-köszönöm, cso-csodás kö-közönség va-va-vagytok.}
+{122}{}{KÃ¶-kÃ¶-kÃ¶szÃ¶nÃ¶m, cso-csodÃ¡s kÃ¶-kÃ¶zÃ¶nsÃ©g va-va-vagytok.}
 {123}{}{2 Seconds}
-{124}{}{Egy rá-rá-adást?}
+{124}{}{Egy rÃ¡-rÃ¡-adÃ¡st?}
 {125}{}{*Szipp... szipp*}
 {126}{}{VOOO! AIEEEE!}
 {127}{}{AIEEEE!}
-{128}{}{HÉ! Mi van?}
-{129}{}{Mi az isten bajod van?! Nyugodj már le!}
-{130}{}{Ma-ma-majdnem ha-halálra i-ijesztettél.}
+{128}{}{HÃ‰! Mi van?}
+{129}{}{Mi az isten bajod van?! Nyugodj mÃ¡r le!}
+{130}{}{Ma-ma-majdnem ha-halÃ¡lra i-ijesztettÃ©l.}
 {131}{}{AIEEEE!}
-{132}{}{Sajnálom, barátom, nem akartam rád hozni a frászt.}
-{133}{}{Ta-ta-talán ha egy ki-kicsit odafigyelnél a kö-kö-környezetedre, nem ka-kapnánk MINDKETTEN szí-szi-szívrohamot, haver!}
-{134}{}{O-o-oké... }
+{132}{}{SajnÃ¡lom, barÃ¡tom, nem akartam rÃ¡d hozni a frÃ¡szt.}
+{133}{}{Ta-ta-talÃ¡n ha egy ki-kicsit odafigyelnÃ©l a kÃ¶-kÃ¶-kÃ¶rnyezetedre, nem ka-kapnÃ¡nk MINDKETTEN szÃ­-szi-szÃ­vrohamot, haver!}
+{134}{}{O-o-okÃ©... }
 {135}{}{Pe-pe-persze... }
-{136}{}{O-o-oké... csa-csa-csak nem tu-túl so-sok ember jö-jön le i-ide a Me-me-nedékbe.}
+{136}{}{O-o-okÃ©... csa-csa-csak nem tu-tÃºl so-sok ember jÃ¶-jÃ¶n le i-ide a Me-me-nedÃ©kbe.}
 {137}{}{(That's okay. It's just not many people come into the Vault.)}
 {138}{}{(Sorry. It's just not many people come into the Vault.)}
-{139}{}{Mit csinálsz itt?}
-{140}{}{Megmondanád, hol találom a Központi Számítógépet?}
-{141}{}{Nagy élmény volt veled beszélgetni. Viszlát!}
-{142}{}{Rö-rögtön itt va-van me-me-mellettünk. Az a be-beszl? szá-szá-számtógép az.}
+{139}{}{Mit csinÃ¡lsz itt?}
+{140}{}{MegmondanÃ¡d, hol talÃ¡lom a KÃ¶zponti SzÃ¡mÃ­tÃ³gÃ©pet?}
+{141}{}{Nagy Ã©lmÃ©ny volt veled beszÃ©lgetni. ViszlÃ¡t!}
+{142}{}{RÃ¶-rÃ¶gtÃ¶n itt va-van me-me-mellettÃ¼nk. Az a be-beszl? szÃ¡-szÃ¡-szÃ¡mtÃ³gÃ©p az.}
 {143}{}{(It's just over there. It's the talking computer.)}
-{144}{}{Mit csinálsz itt?}
-{145}{}{Kösz. Viszlát!}
-{146}{}{Csak sze-szemmel tartom a rak-raktárat itt le-lent. Meg zá-zá-zárva az aj... az aj.. az aj... a kapukat.}
+{144}{}{Mit csinÃ¡lsz itt?}
+{145}{}{KÃ¶sz. ViszlÃ¡t!}
+{146}{}{Csak sze-szemmel tartom a rak-raktÃ¡rat itt le-lent. Meg zÃ¡-zÃ¡-zÃ¡rva az aj... az aj.. az aj... a kapukat.}
 {147}{}{(Just keep an eye on things in storage down here. Make sure all the doors stay locked.)}
-{148}{}{Van hozzá kulcsod?}
-{149}{}{Mit tároltok itt lent?}
-{150}{}{Most mennem kell, viszlát!}
-{151}{}{Ne-ne-nem kell ku-kulcs, a legtöbb aj... aj... aj... kapu, be van szo-szo-szorulva.}
+{148}{}{Van hozzÃ¡ kulcsod?}
+{149}{}{Mit tÃ¡roltok itt lent?}
+{150}{}{Most mennem kell, viszlÃ¡t!}
+{151}{}{Ne-ne-nem kell ku-kulcs, a legtÃ¶bb aj... aj... aj... kapu, be van szo-szo-szorulva.}
 {152}{}{(Uh-uh. Doesn't matter, because most of the doors are jammed shut anyway.)}
-{153}{}{Mit tároltok itt lent?}
-{154}{}{Most mennem kell, viszlát!}
-{155}{}{Ta-ta-tartalék al-alkatrészeket... el-el-elátmányt... é-é-ércet.}
+{153}{}{Mit tÃ¡roltok itt lent?}
+{154}{}{Most mennem kell, viszlÃ¡t!}
+{155}{}{Ta-ta-tartalÃ©k al-alkatrÃ©szeket... el-el-elÃ¡tmÃ¡nyt... Ã©-Ã©-Ã©rcet.}
 {156}{}{(Spare parts, supplies, and ore.)}
-{157}{}{Érc?}
-{158}{}{Kösz!}
-{159}{}{É-é-ércet, Re-Reddingb?l... Má-má-már nincs tú-tú-túl sok.}
+{157}{}{Ã‰rc?}
+{158}{}{KÃ¶sz!}
+{159}{}{Ã‰-Ã©-Ã©rcet, Re-Reddingb?l... MÃ¡-mÃ¡-mÃ¡r nincs tÃº-tÃº-tÃºl sok.}
 {160}{}{(Ore from Redding. Not so much anymore.)}
-{161}{}{Nem kaptok ércet Reddingb?l? Miért?}
-{162}{}{Kösz!}
-{163}{}{Ne-ne-nem tu-tudom. Me-Me-McClure té-tényleg ag-ag-aggódik emiatt.}
+{161}{}{Nem kaptok Ã©rcet Reddingb?l? MiÃ©rt?}
+{162}{}{KÃ¶sz!}
+{163}{}{Ne-ne-nem tu-tudom. Me-Me-McClure tÃ©-tÃ©nyleg ag-ag-aggÃ³dik emiatt.}
 {164}{}{(Don't know. McClure's really worried about it.)}
-{165}{}{Elárulnád, hol van a Központi Számítógép?}
-{166}{}{Akkor megyek is, és beszélek vele.}
-{167}{}{Ü-ü-üdv! Szü-szü-szükséged van va-valamire?}
+{165}{}{ElÃ¡rulnÃ¡d, hol van a KÃ¶zponti SzÃ¡mÃ­tÃ³gÃ©p?}
+{166}{}{Akkor megyek is, Ã©s beszÃ©lek vele.}
+{167}{}{Ãœ-Ã¼-Ã¼dv! SzÃ¼-szÃ¼-szÃ¼ksÃ©ged van va-valamire?}
 {168}{}{(Hi, again. You need something?)}
-{169}{}{Ééééletth}
-{170}{}{Abbahagynád ezt az istenverte éneklést? Meg?rjítesz vele.}
-{171}{}{Remek hangod van, csak gyakorolj minél többet!}
-{172}{}{Tehát. Mit csinálsz te itt?}
-{173}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
-{174}{}{Kö-kö-kösz! Ke-ke-kedves, hogy ezt mo-mondod.}
-{175}{}{Tehát. Mit csinálsz te itt?}
-{176}{}{Vigyázz magadra!}
-{177}{}{Sa-sa-sa-sajnálom. Abba-abba-abba... befejezem.}
+{169}{}{Ã‰Ã©Ã©Ã©letth}
+{170}{}{AbbahagynÃ¡d ezt az istenverte Ã©neklÃ©st? Meg?rjÃ­tesz vele.}
+{171}{}{Remek hangod van, csak gyakorolj minÃ©l tÃ¶bbet!}
+{172}{}{TehÃ¡t. Mit csinÃ¡lsz te itt?}
+{173}{}{Vegye Ãºgy, hogy nem is szÃ³ltam! BocsÃ¡nat, hogy zavartam.}
+{174}{}{KÃ¶-kÃ¶-kÃ¶sz! Ke-ke-kedves, hogy ezt mo-mondod.}
+{175}{}{TehÃ¡t. Mit csinÃ¡lsz te itt?}
+{176}{}{VigyÃ¡zz magadra!}
+{177}{}{Sa-sa-sa-sajnÃ¡lom. Abba-abba-abba... befejezem.}
 {178}{}{(Sorry. I'll stop.)}
-{179}{}{Tehát. Mit csinálsz te itt?}
-{180}{}{Tégy egy szívességet a világnak, oké? Maradj csendben!}
+{179}{}{TehÃ¡t. Mit csinÃ¡lsz te itt?}
+{180}{}{TÃ©gy egy szÃ­vessÃ©get a vilÃ¡gnak, okÃ©? Maradj csendben!}
 {181}{}{Ma-ma-maradj cse-cse-csendben! Pssssssszt!}
-{182}{}{Saj.. saj.. nálom.}
-{183}{}{Mi-mi-mit csi-csinálsz te itt?}
-{184}{}{ÉLET}
-{185}{}{É-É-ÉLET? Meg-meg-megnézheted a szá-számítógépen. Itt va-van ez a-a be-be-beszél? do-do-doboz.}
-{186}{}{Okéééé.}
+{182}{}{Saj.. saj.. nÃ¡lom.}
+{183}{}{Mi-mi-mit csi-csinÃ¡lsz te itt?}
+{184}{}{Ã‰LET}
+{185}{}{Ã‰-Ã‰-Ã‰LET? Meg-meg-megnÃ©zheted a szÃ¡-szÃ¡mÃ­tÃ³gÃ©pen. Itt va-van ez a-a be-be-beszÃ©l? do-do-doboz.}
+{186}{}{OkÃ©Ã©Ã©Ã©.}
 {187}{}{Zuh-zuh-zuh-Zzzzzzzzz}
-{188}{}{Ma-ma-maradj tá-tá-távol attól az aj-aj-aj... kaputól!}
+{188}{}{Ma-ma-maradj tÃ¡-tÃ¡-tÃ¡vol attÃ³l az aj-aj-aj... kaputÃ³l!}
 {189}{}{Zzzzzzz.}

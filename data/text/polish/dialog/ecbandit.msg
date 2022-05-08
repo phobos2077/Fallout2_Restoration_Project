@@ -1,22 +1,22 @@
-{100}{}{Widzisz bandytê.}
-{101}{}{Widzisz grabie¿cê.}
-{102}{}{Widzisz z³odzieja.}
+{100}{}{Widzisz bandytÄ™.}
+{101}{}{Widzisz grabieÅ¼cÄ™.}
+{102}{}{Widzisz zÅ‚odzieja.}
 {103}{}{Widzisz rabusia.}
-{104}{}{Widzisz przestêpcê.}
-{200}{}{Poddaj siê!}
-{201}{}{Pieni¹dze albo ¿ycie!}
+{104}{}{Widzisz przestÄ™pcÄ™.}
+{200}{}{Poddaj siÄ™!}
+{201}{}{PieniÄ…dze albo Å¼ycie!}
 {202}{}{To jest napad!}
-{203}{}{Dawaj wszytkie kosztownoœci!}
-{204}{}{Nie ruszaæ siê! To napad!.}
-{205}{}{Rêce do góry!}
-{206}{}{Braæ siê za nich!}
-{207}{}{Bez paniki. Za minutê bêdzie po wszystkim.}
-{208}{}{Chcê widzieæ wasze rece. I ¿adnych sztuczek!}
-{209}{}{Kryjcie mnie ch³opaki.}
+{203}{}{Dawaj wszytkie kosztownoÅ›ci!}
+{204}{}{Nie ruszaÄ‡ siÄ™! To napad!.}
+{205}{}{RÄ™ce do gÃ³ry!}
+{206}{}{BraÄ‡ siÄ™ za nich!}
+{207}{}{Bez paniki. Za minutÄ™ bÄ™dzie po wszystkim.}
+{208}{}{ChcÄ™ widzieÄ‡ wasze rece. I Å¼adnych sztuczek!}
+{209}{}{Kryjcie mnie chÅ‚opaki.}
 {210}{}{Nie udawaj twardziela.}
-{211}{}{Zabieraæ wszystko.}
-{212}{}{Braæ ich ch³opcy.}
-{213}{}{Zabiæ wszystkich!}
-{214}{}{Obiecujê zabiæ ciê szybko i bezboleœnie.}
-{215}{}{Siêgnij nieba, he, he.}
+{211}{}{ZabieraÄ‡ wszystko.}
+{212}{}{BraÄ‡ ich chÅ‚opcy.}
+{213}{}{ZabiÄ‡ wszystkich!}
+{214}{}{ObiecujÄ™ zabiÄ‡ ciÄ™ szybko i bezboleÅ›nie.}
+{215}{}{SiÄ™gnij nieba, he, he.}
 {216}{}{Ani kroku dalej!}

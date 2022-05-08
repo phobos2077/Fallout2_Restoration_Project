@@ -1,14 +1,14 @@
-{100}{}{Ves al señor Tramposo.}
+{100}{}{Ves al seÃ±or Tramposo.}
 {101}{}{Te sigue pareciendo un tramposo.}
-{200}{}{Hola, soy el señor Tramposo. ¿Cómo puedo ayudarte?}
-{201}{}{¿Secuestrarías a mi tribu?}
-{202}{}{¿Me puedes meter en la misión de los Shi?}
-{203}{}{¿Me puedes meter en la misión de los Hubologistas?}
-{204}{}{¿Me puedes meter en la misión de la Hermandad?}
+{200}{}{Hola, soy el seÃ±or Tramposo. Â¿CÃ³mo puedo ayudarte?}
+{201}{}{Â¿SecuestrarÃ­as a mi tribu?}
+{202}{}{Â¿Me puedes meter en la misiÃ³n de los Shi?}
+{203}{}{Â¿Me puedes meter en la misiÃ³n de los Hubologistas?}
+{204}{}{Â¿Me puedes meter en la misiÃ³n de la Hermandad?}
 {205}{}{Haz como si ya hubiera llegado a la base militar.}
 {206}{}{He secuestrado a tu tribu.}
-{207}{}{Te he metido en la misión de los Shi.}
-{208}{}{Te he metido en la misión de los Hubologistas.}
-{209}{}{Te he metido en la misión de la Hermandad.}
+{207}{}{Te he metido en la misiÃ³n de los Shi.}
+{208}{}{Te he metido en la misiÃ³n de los Hubologistas.}
+{209}{}{Te he metido en la misiÃ³n de la Hermandad.}
 {210}{}{Ahora ya has estado en la base militar.}
-{211}{}{Gracias, señor Tramposo.}
+{211}{}{Gracias, seÃ±or Tramposo.}

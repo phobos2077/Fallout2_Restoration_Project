@@ -1,2 +1,2 @@
-{100}{}{Ein Gecko grinst dich höhnisch an.}
+{100}{}{Ein Gecko grinst dich hÃ¶hnisch an.}
 {101}{}{Ein Gecko grinst zu }

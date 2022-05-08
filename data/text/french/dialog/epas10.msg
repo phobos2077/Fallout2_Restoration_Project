@@ -1,1 +1,1 @@
-{100}{}{Tu entres dans un labyrinthe étrange constitué de vieux barils vides.}
+{100}{}{Tu entres dans un labyrinthe Ã©trange constituÃ© de vieux barils vides.}

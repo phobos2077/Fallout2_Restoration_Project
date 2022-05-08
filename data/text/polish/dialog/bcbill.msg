@@ -1,8 +1,8 @@
-{100}{}{Widzisz osiedleñca.}
-{101}{}{Widzisz Billa, osiedleñca.}
-{102}{}{Widzisz mê¿czyznê w œrednim wieku ubranego w podniszczone ubranie.}
-{103}{}{Przykro mi, ale nie mam czasu na pogawêdki z tob¹.}
-{104}{}{Hej, mówi³em, ¿e nie mam czasu na gadanie. Proszê, odejdŸ.}
-{105}{}{Dziêki za pomoc Rebece. To by³a niez³a robota.}
-{106}{}{Zostaw mnie. Nie jestem dla ciebie zagro¿eniem.}
-{107}{}{W porz¹dku, w porz¹dku. Ju¿ odchodzê.}
+{100}{}{Widzisz osiedleÅ„ca.}
+{101}{}{Widzisz Billa, osiedleÅ„ca.}
+{102}{}{Widzisz mÄ™Å¼czyznÄ™ w Å›rednim wieku ubranego w podniszczone ubranie.}
+{103}{}{Przykro mi, ale nie mam czasu na pogawÄ™dki z tobÄ….}
+{104}{}{Hej, mÃ³wiÅ‚em, Å¼e nie mam czasu na gadanie. ProszÄ™, odejdÅº.}
+{105}{}{DziÄ™ki za pomoc Rebece. To byÅ‚a niezÅ‚a robota.}
+{106}{}{Zostaw mnie. Nie jestem dla ciebie zagroÅ¼eniem.}
+{107}{}{W porzÄ…dku, w porzÄ…dku. JuÅ¼ odchodzÄ™.}

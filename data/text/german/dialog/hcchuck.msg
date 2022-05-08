@@ -1,17 +1,17 @@
-{100}{}{Du siehst einen verstaubten, schläfrigen Mann.}
+{100}{}{Du siehst einen verstaubten, schlÃ¤frigen Mann.}
 {101}{}{XXX}
 {102}{}{Ein Mann, der staubig und verschlafen wirkt. Seine Kleidung sieht sehr, SEHR altmodisch aus.}
-{103}{}{::Er reibt sich verschlafen die Augen:: Was... hä? Wo bin ich? Wie lange hab ich geschlafen?}
+{103}{}{::Er reibt sich verschlafen die Augen:: Was... hÃ¤? Wo bin ich? Wie lange hab ich geschlafen?}
 {104}{}{Grr?}
 {105}{}{Wer bist du?}
-{106}{}{Ich hab zwar keine Ahnung, wie lange du geschlafen hast, aber du bist in Broken Hills, in der Nähe der New California Republic.}
-{107}{}{Oh nein! Ich hab so lange geschlafen, dass die Welt jetzt vollkommen verrückt geworden ist! Aieeeeeeee! ::er läuft panisch davon::}
+{106}{}{Ich hab zwar keine Ahnung, wie lange du geschlafen hast, aber du bist in Broken Hills, in der NÃ¤he der New California Republic.}
+{107}{}{Oh nein! Ich hab so lange geschlafen, dass die Welt jetzt vollkommen verrÃ¼ckt geworden ist! Aieeeeeeee! ::er lÃ¤uft panisch davon::}
 {108}{}{[Fertig]}
-{109}{}{Ich bin Chuck Stodgers, der weltbeste Flugzeugpilot! Nur leider... bin ich abgestürzt. Ich bin in diese Höhle geklettert, um mich vor der Explosion zu schützen, aber der Rauch hat mich überwältigt.}
-{110}{}{Das klingt ganz verdächtig nach der Einleitung zu einer trivialen Comic Serie.}
-{111}{}{Neue WAS? KALIFORNIEN? HAT SICH DIE WELT SO SEHR VERÄNDERT? AIEEEEEEEEEEEEEEEEE! ::er läuft panisch davon::}
+{109}{}{Ich bin Chuck Stodgers, der weltbeste Flugzeugpilot! Nur leider... bin ich abgestÃ¼rzt. Ich bin in diese HÃ¶hle geklettert, um mich vor der Explosion zu schÃ¼tzen, aber der Rauch hat mich Ã¼berwÃ¤ltigt.}
+{110}{}{Das klingt ganz verdÃ¤chtig nach der Einleitung zu einer trivialen Comic Serie.}
+{111}{}{Neue WAS? KALIFORNIEN? HAT SICH DIE WELT SO SEHR VERÃ„NDERT? AIEEEEEEEEEEEEEEEEE! ::er lÃ¤uft panisch davon::}
 {112}{}{Hey, jetzt warte mal einen Moment...}
-{113}{}{Tja, so ist das, nicht wahr? Ich muss los, um zu sehen, was sich alles auf der Welt verändert hat. Viel Glück, mein Freund!}
-{114}{}{Für Sie auch, Herr Stodgers!}
+{113}{}{Tja, so ist das, nicht wahr? Ich muss los, um zu sehen, was sich alles auf der Welt verÃ¤ndert hat. Viel GlÃ¼ck, mein Freund!}
+{114}{}{FÃ¼r Sie auch, Herr Stodgers!}
 {115}{}{Du hast soeben eine weiteren seltsamen Beweis der Pop Kultur aufgetan.}
 {116}{}{Zzzzzzzzzzz.}

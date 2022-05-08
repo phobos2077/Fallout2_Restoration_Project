@@ -1,120 +1,120 @@
-{100}{}{A falu törzsf?jét látod.}
-{101}{}{A törzsf?.}
-{102}{}{A vezet? öreg, öregebb, mint emlékeztél. De még mindig megvan az ereje, hogy vezesse a falut, és átvészeljük ezeket a kemény id?ket.}
-{103}{aeld1}{Gratulálok, Kiválasztott, túlélted a Próbák Templomát. Készen állsz a küldetésre?}
-{104}{}{Mit tett? Megpróbált megöletni abban a templomban?!}
+{100}{}{A falu tÃ¶rzsf?jÃ©t lÃ¡tod.}
+{101}{}{A tÃ¶rzsf?.}
+{102}{}{A vezet? Ã¶reg, Ã¶regebb, mint emlÃ©keztÃ©l. De mÃ©g mindig megvan az ereje, hogy vezesse a falut, Ã©s Ã¡tvÃ©szeljÃ¼k ezeket a kemÃ©ny id?ket.}
+{103}{aeld1}{GratulÃ¡lok, KivÃ¡lasztott, tÃºlÃ©lted a PrÃ³bÃ¡k TemplomÃ¡t. KÃ©szen Ã¡llsz a kÃ¼ldetÃ©sre?}
+{104}{}{Mit tett? MegprÃ³bÃ¡lt megÃ¶letni abban a templomban?!}
 {105}{}{Persze.}
-{106}{}{Szeretnék még gondolkodni rajta.}
-{107}{aeld2a}{Örülök, Kiválasztott. Leküzdötted az akadályokat. Most meg kell keresned a 13-as Menedéket! 13-as Menedék. 13-as Menedék. Hazahozni ÉLET-et! ÉLET. Itt egy csillogó flaska. Vic adta ezt nekünk. Vic. ? keresked? Klamathban. Klamath. Menj Vichez! Keresd meg a 13-as Menedéket! Keresd meg az ÉLET-et! Gyere haza! Csináld, amilyen jól csak tudod!}
-{112}{aeld2b}{Nem találtad Menedék. Keresd Menedék! 13-as Menedék.}
-{113}{}{Öö.}
-{114}{aeld3}{Kiválasztott, azt akarod, hogy meghaljunk? Meg kell keresned a Menedéket!}
-{115}{}{Bocsánat, törzsf?. Nem fogok csalódást okozni.}
-{116}{}{Igen, igen. Hagyja abba a noszogatást!}
-{117}{aeld4}{Kiválasztott, miért vagy itt már megint?}
-{118}{}{Tudom, hol van a 13-as Menedék!}
-{119}{}{Készen állok a szent küldetésre.}
-{120}{}{Szükségem lenne némi információra.}
-{121}{}{Nem akarom megöletni magam!}
-{122}{}{Elmondaná újra, mit is kell csinálnom?}
-{123}{}{Most már megyek.}
-{124}{aeld5}{Ez jó hír, de nem elég ahhoz, hogy megmentsen minket. Hamarosan vissza kell térned az ÉLET-tel, különben meghalnak az embereink!}
-{125}{}{Szükségem lenne némi információra.}
-{126}{}{Rendben, most már megyek.}
-{127}{aeld6}{Túlélted. A Kiválasztott nem lehet gyenge, különben mindannyiunk sorsa megpecsétel?dik. Felkészültél a küldetésedre?}
-{128}{}{Túléltem a próbát. Természetesen készen állok.}
-{129}{}{Ezen még gondolkodnom kell.}
-{130}{}{Nem akarom megöletni magam!}
-{131}{aeld7}{Figyelj rám! Keresd meg a szent 13-as Menedéket, és hozd vissza az ÉLET-et! Vic, a Klamathbéli keresked?, hozott nekünk egy flaskát a szent tizenhármasból. Kezdd nála a keresést! A lemez emlékeztetni fog a feladatodra. A Menedék istenei talán vigyáznak majd rád.}
-{133}{}{Miel?tt elmennék, lenne néhány kérdésem.}
-{134}{}{Viszlát! Nem fogom cserbenhagyni a falut.}
-{135}{aeld8}{Hát jó. Szólj, ha döntöttél... de ne várj túl sokáig!}
-{136}{}{Viszlát!}
-{137}{aeld9}{Nem segíthetek túl sokat. Sok minden elveszett a Hosszú Id? alatt. Milyen bölcsességet keresel?}
-{138}{aeld9b}{Mire van szükséged?}
-{139}{}{Szeretnék többet megtudni az ÉLET-r?l.}
+{106}{}{SzeretnÃ©k mÃ©g gondolkodni rajta.}
+{107}{aeld2a}{Ã–rÃ¼lÃ¶k, KivÃ¡lasztott. LekÃ¼zdÃ¶tted az akadÃ¡lyokat. Most meg kell keresned a 13-as MenedÃ©ket! 13-as MenedÃ©k. 13-as MenedÃ©k. Hazahozni Ã‰LET-et! Ã‰LET. Itt egy csillogÃ³ flaska. Vic adta ezt nekÃ¼nk. Vic. ? keresked? Klamathban. Klamath. Menj Vichez! Keresd meg a 13-as MenedÃ©ket! Keresd meg az Ã‰LET-et! Gyere haza! CsinÃ¡ld, amilyen jÃ³l csak tudod!}
+{112}{aeld2b}{Nem talÃ¡ltad MenedÃ©k. Keresd MenedÃ©k! 13-as MenedÃ©k.}
+{113}{}{Ã–Ã¶.}
+{114}{aeld3}{KivÃ¡lasztott, azt akarod, hogy meghaljunk? Meg kell keresned a MenedÃ©ket!}
+{115}{}{BocsÃ¡nat, tÃ¶rzsf?. Nem fogok csalÃ³dÃ¡st okozni.}
+{116}{}{Igen, igen. Hagyja abba a noszogatÃ¡st!}
+{117}{aeld4}{KivÃ¡lasztott, miÃ©rt vagy itt mÃ¡r megint?}
+{118}{}{Tudom, hol van a 13-as MenedÃ©k!}
+{119}{}{KÃ©szen Ã¡llok a szent kÃ¼ldetÃ©sre.}
+{120}{}{SzÃ¼ksÃ©gem lenne nÃ©mi informÃ¡ciÃ³ra.}
+{121}{}{Nem akarom megÃ¶letni magam!}
+{122}{}{ElmondanÃ¡ Ãºjra, mit is kell csinÃ¡lnom?}
+{123}{}{Most mÃ¡r megyek.}
+{124}{aeld5}{Ez jÃ³ hÃ­r, de nem elÃ©g ahhoz, hogy megmentsen minket. Hamarosan vissza kell tÃ©rned az Ã‰LET-tel, kÃ¼lÃ¶nben meghalnak az embereink!}
+{125}{}{SzÃ¼ksÃ©gem lenne nÃ©mi informÃ¡ciÃ³ra.}
+{126}{}{Rendben, most mÃ¡r megyek.}
+{127}{aeld6}{TÃºlÃ©lted. A KivÃ¡lasztott nem lehet gyenge, kÃ¼lÃ¶nben mindannyiunk sorsa megpecsÃ©tel?dik. FelkÃ©szÃ¼ltÃ©l a kÃ¼ldetÃ©sedre?}
+{128}{}{TÃºlÃ©ltem a prÃ³bÃ¡t. TermÃ©szetesen kÃ©szen Ã¡llok.}
+{129}{}{Ezen mÃ©g gondolkodnom kell.}
+{130}{}{Nem akarom megÃ¶letni magam!}
+{131}{aeld7}{Figyelj rÃ¡m! Keresd meg a szent 13-as MenedÃ©ket, Ã©s hozd vissza az Ã‰LET-et! Vic, a KlamathbÃ©li keresked?, hozott nekÃ¼nk egy flaskÃ¡t a szent tizenhÃ¡rmasbÃ³l. Kezdd nÃ¡la a keresÃ©st! A lemez emlÃ©keztetni fog a feladatodra. A MenedÃ©k istenei talÃ¡n vigyÃ¡znak majd rÃ¡d.}
+{133}{}{Miel?tt elmennÃ©k, lenne nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{134}{}{ViszlÃ¡t! Nem fogom cserbenhagyni a falut.}
+{135}{aeld8}{HÃ¡t jÃ³. SzÃ³lj, ha dÃ¶ntÃ¶ttÃ©l... de ne vÃ¡rj tÃºl sokÃ¡ig!}
+{136}{}{ViszlÃ¡t!}
+{137}{aeld9}{Nem segÃ­thetek tÃºl sokat. Sok minden elveszett a HosszÃº Id? alatt. Milyen bÃ¶lcsessÃ©get keresel?}
+{138}{aeld9b}{Mire van szÃ¼ksÃ©ged?}
+{139}{}{SzeretnÃ©k tÃ¶bbet megtudni az Ã‰LET-r?l.}
 {140}{}{Hogyan juthatok el Klamathba?}
-{141}{}{Hol van a 13-as Menedék?}
-{142}{}{Most, hogy így végiggondoltam a dolgot, mégsincs szükségem segítségre. Viszlát!}
-{143}{aeld10}{Az ÉLET egy szent tárgy - Az Édenkert Létrehozást El?segít? Táska. A lemez azt ígérte, hogy földjeinket zölddé, a falut virágzóvá varázsolja. Meg fog minket menteni. Többet... én bizony nem tudok róla.}
-{144}{}{Szeretnék még többet tudni róla.}
-{145}{}{Viszlát!}
-{146}{aeld11}{Klamath keletre található.}
-{147}{}{Van néhány dolog, amit még szeretnék megtudni.}
-{148}{}{Készen állok. Viszlát!}
+{141}{}{Hol van a 13-as MenedÃ©k?}
+{142}{}{Most, hogy Ã­gy vÃ©giggondoltam a dolgot, mÃ©gsincs szÃ¼ksÃ©gem segÃ­tsÃ©gre. ViszlÃ¡t!}
+{143}{aeld10}{Az Ã‰LET egy szent tÃ¡rgy - Az Ã‰denkert LÃ©trehozÃ¡st El?segÃ­t? TÃ¡ska. A lemez azt Ã­gÃ©rte, hogy fÃ¶ldjeinket zÃ¶lddÃ©, a falut virÃ¡gzÃ³vÃ¡ varÃ¡zsolja. Meg fog minket menteni. TÃ¶bbet... Ã©n bizony nem tudok rÃ³la.}
+{144}{}{SzeretnÃ©k mÃ©g tÃ¶bbet tudni rÃ³la.}
+{145}{}{ViszlÃ¡t!}
+{146}{aeld11}{Klamath keletre talÃ¡lhatÃ³.}
+{147}{}{Van nÃ©hÃ¡ny dolog, amit mÃ©g szeretnÃ©k megtudni.}
+{148}{}{KÃ©szen Ã¡llok. ViszlÃ¡t!}
 {149}{aeld12}{The holy Thirteen? I cannot help you. Only the Vault Dweller knew. His tales have
  the sound of a perilous journey. }
-{150}{}{Értem. Szeretném, ha még mondana egy-két dolgot.}
-{151}{}{Minden jót, törzsf?!}
-{152}{aeld13}{Ha gyáva vagy, mind meghalunk! Te magad is... Teljesítetted a próbát a Templomban, bízunk benned. Szükségünk van rád.}
-{153}{}{Ne siettessen már, öregasszony! Kell egy kis id?, hogy gondolkozzam ezen!}
-{154}{}{Ahogy kívánja, törzsf?.}
-{155}{aeld14a}{Megtámadtál minket. Ezért pusztulni fogsz!}
-{156}{aeld14b}{Áruló vagy!}
-{157}{aeld14c}{Miért teszed ezt??}
-{158}{aeld14d}{Tudtam, hogy sötét lélek lakozik benned!}
-{159}{aeld15}{Akkor fogd ezt a flaskát! A szent tizenhármas Menedékb?l való. Egy Klamathbéli keresked?, Vic hozta nekünk. ? tudhatja, hol lehet a menedék. Szükséged lesz még valamire, amit ?k pénznek hívnak. Tessék...}
-{160}{}{Öö... Mi is lenne a feladatom?}
-{161}{}{Van még valami, amit érdemes lenne elmondania?}
-{162}{}{Kívánjon szerencsét, törzsf?, és meghálálom a bizalmat!}
-{163}{aeld16}{Keresd meg Vicet Klamathban! Számítunk rád.}
-{164}{aeld17}{Jó újra látni téged, gyermekem. Nem akarlak megbántani, de látom, hogy még nem teljesítetted a küldetést. Kérlek, ne vesztegesd az id?t beszélgetéssel! Nagy szükségünk van az ÉLET-re! Indulj, keresd meg a menedéket!}
-{165}{}{Én menni mostan.}
+{150}{}{Ã‰rtem. SzeretnÃ©m, ha mÃ©g mondana egy-kÃ©t dolgot.}
+{151}{}{Minden jÃ³t, tÃ¶rzsf?!}
+{152}{aeld13}{Ha gyÃ¡va vagy, mind meghalunk! Te magad is... TeljesÃ­tetted a prÃ³bÃ¡t a Templomban, bÃ­zunk benned. SzÃ¼ksÃ©gÃ¼nk van rÃ¡d.}
+{153}{}{Ne siettessen mÃ¡r, Ã¶regasszony! Kell egy kis id?, hogy gondolkozzam ezen!}
+{154}{}{Ahogy kÃ­vÃ¡nja, tÃ¶rzsf?.}
+{155}{aeld14a}{MegtÃ¡madtÃ¡l minket. EzÃ©rt pusztulni fogsz!}
+{156}{aeld14b}{ÃrulÃ³ vagy!}
+{157}{aeld14c}{MiÃ©rt teszed ezt??}
+{158}{aeld14d}{Tudtam, hogy sÃ¶tÃ©t lÃ©lek lakozik benned!}
+{159}{aeld15}{Akkor fogd ezt a flaskÃ¡t! A szent tizenhÃ¡rmas MenedÃ©kb?l valÃ³. Egy KlamathbÃ©li keresked?, Vic hozta nekÃ¼nk. ? tudhatja, hol lehet a menedÃ©k. SzÃ¼ksÃ©ged lesz mÃ©g valamire, amit ?k pÃ©nznek hÃ­vnak. TessÃ©k...}
+{160}{}{Ã–Ã¶... Mi is lenne a feladatom?}
+{161}{}{Van mÃ©g valami, amit Ã©rdemes lenne elmondania?}
+{162}{}{KÃ­vÃ¡njon szerencsÃ©t, tÃ¶rzsf?, Ã©s meghÃ¡lÃ¡lom a bizalmat!}
+{163}{aeld16}{Keresd meg Vicet Klamathban! SzÃ¡mÃ­tunk rÃ¡d.}
+{164}{aeld17}{JÃ³ Ãºjra lÃ¡tni tÃ©ged, gyermekem. Nem akarlak megbÃ¡ntani, de lÃ¡tom, hogy mÃ©g nem teljesÃ­tetted a kÃ¼ldetÃ©st. KÃ©rlek, ne vesztegesd az id?t beszÃ©lgetÃ©ssel! Nagy szÃ¼ksÃ©gÃ¼nk van az Ã‰LET-re! Indulj, keresd meg a menedÃ©ket!}
+{165}{}{Ã‰n menni mostan.}
 {166}{}{Rendben, indulok.}
-{167}{}{Nem fogok felsülni, törzsf?.}
-{168}{}{Még dolgozom rajta, rendben?}
-{169}{aeld18}{Megint csak az ÉLET nélkül tértél vissza. A termésünk kezd elrohadni, Kiválasztott. Nagyon nagy szükségünk van rá! Menj, keresd meg a szent tizenhármast!}
-{170}{}{Rendben, én menni mostan elfele.}
-{171}{}{Igenis, törzsf?!}
-{172}{}{Nem fogok felsülni, törzsf?.}
-{173}{}{Nézze, ha ön azt gondolja, hogy jobban meg tudná csinálni... }
-{174}{aeld19}{Kiválasztott, a dolgok rosszul állnak. A falu túléléséhez szükség van az ÉLET-re. Az emberek egyre gyengébbek, az ételkészletünk pedig már nem tart sokáig. Kérlek, keresd meg nekünk a Szent Tizenhármast. Indulj!}
-{175}{}{Én menni elfele.}
-{176}{}{Hát rendben. Máris indulok.}
-{177}{}{Megteszek mindent, hogy elhozhassam az ÉLET-et, és megmenthessem a falunkat.}
-{178}{}{Ne sürgessen, öregasszony! Minden t?lem telhet?t megteszek.}
-{179}{aeld20}{Gyermekem, nagyobb szükségünk van rá, mint valaha. Az emberek kezdenek megbetegedni, a brahminok döglenek, az étel elfogyott. Földünket csak az ÉLET-tel gyógyíthatjuk meg. Menj, keresd meg az ÉLET-et, és mentsd meg az emberek életét!}
-{180}{}{Én érteni.}
-{181}{}{Máris indulok.}
-{182}{}{Bocsánat, törzsf?. A lehet? leghamarabb megtalálom az ÉLET-et.}
-{183}{}{Igen, igen. Kezd úgy beszélni, mint egy törött lemez...}
-{200}{eeld1}{Kiválasztott! Hogy kerülsz te ide?}
-{201}{}{Öö...}
-{202}{}{Azért jöttem, hogy mindenkit kiszabadítsak.}
-{203}{}{Mi a fene történik itt?}
-{204}{eeld2}{Te, szörnyeteg! Azért jöttél, hogy engem is megölj?}
-{205}{}{Öh?}
-{206}{}{Nem-nem, én vagyok az, a Kiválasztott!}
-{207}{}{Pofa be, vén kurva! Én vagyok az, a Kiválasztott!}
-{208}{eeld3}{Ó, istenem... Figyelj... menj le! Keresd meg az energiaadó gépet! Öld meg a gépet! Öld meg a rossz embereket! Ölj meg mindenkit! Te ölsz, mi hazamegyünk. És ha nem lenne ÉLET nálad, akkor keresd itt az ÉLET-et! Kell az ÉLET, hogy megmentsük a falut. A szabadság nem ér semmit otthon nélkül, ahová visszatérhetnénk. Érted? Ó, istenem.}
-{209}{}{Ööö!}
-{210}{eeld4}{Óvatosan, ne érintsd meg a világító falat. Azt hiszem, egy alattunk lév? gép táplálja. Pusztítsd el, hogy elmenekülhessünk! Hogyan jutottál ide?}
-{211}{}{Van egy hajóm. }
-{212}{eeld5}{Emberek jöttek a falunkba, és repül? szerkezetekkel elvittek minket. Mások is voltak - a Szent Tizenhármasból! Azt hittem, megmentenek, és a mennybe visznek minket. (sóhajt)}
-{213}{}{És azután?}
-{214}{eeld5a}{Azután idehoztak minket, ebbe a pokolba. Legtöbbünket megölték valamivel, amit effévének hívnak. Mindannyiunkat meg fognak ölni! Tudod, mit kell csinálnod, Kiválasztott?}
-{215}{}{Effévé?}
+{167}{}{Nem fogok felsÃ¼lni, tÃ¶rzsf?.}
+{168}{}{MÃ©g dolgozom rajta, rendben?}
+{169}{aeld18}{Megint csak az Ã‰LET nÃ©lkÃ¼l tÃ©rtÃ©l vissza. A termÃ©sÃ¼nk kezd elrohadni, KivÃ¡lasztott. Nagyon nagy szÃ¼ksÃ©gÃ¼nk van rÃ¡! Menj, keresd meg a szent tizenhÃ¡rmast!}
+{170}{}{Rendben, Ã©n menni mostan elfele.}
+{171}{}{Igenis, tÃ¶rzsf?!}
+{172}{}{Nem fogok felsÃ¼lni, tÃ¶rzsf?.}
+{173}{}{NÃ©zze, ha Ã¶n azt gondolja, hogy jobban meg tudnÃ¡ csinÃ¡lni... }
+{174}{aeld19}{KivÃ¡lasztott, a dolgok rosszul Ã¡llnak. A falu tÃºlÃ©lÃ©sÃ©hez szÃ¼ksÃ©g van az Ã‰LET-re. Az emberek egyre gyengÃ©bbek, az Ã©telkÃ©szletÃ¼nk pedig mÃ¡r nem tart sokÃ¡ig. KÃ©rlek, keresd meg nekÃ¼nk a Szent TizenhÃ¡rmast. Indulj!}
+{175}{}{Ã‰n menni elfele.}
+{176}{}{HÃ¡t rendben. MÃ¡ris indulok.}
+{177}{}{Megteszek mindent, hogy elhozhassam az Ã‰LET-et, Ã©s megmenthessem a falunkat.}
+{178}{}{Ne sÃ¼rgessen, Ã¶regasszony! Minden t?lem telhet?t megteszek.}
+{179}{aeld20}{Gyermekem, nagyobb szÃ¼ksÃ©gÃ¼nk van rÃ¡, mint valaha. Az emberek kezdenek megbetegedni, a brahminok dÃ¶glenek, az Ã©tel elfogyott. FÃ¶ldÃ¼nket csak az Ã‰LET-tel gyÃ³gyÃ­thatjuk meg. Menj, keresd meg az Ã‰LET-et, Ã©s mentsd meg az emberek Ã©letÃ©t!}
+{180}{}{Ã‰n Ã©rteni.}
+{181}{}{MÃ¡ris indulok.}
+{182}{}{BocsÃ¡nat, tÃ¶rzsf?. A lehet? leghamarabb megtalÃ¡lom az Ã‰LET-et.}
+{183}{}{Igen, igen. Kezd Ãºgy beszÃ©lni, mint egy tÃ¶rÃ¶tt lemez...}
+{200}{eeld1}{KivÃ¡lasztott! Hogy kerÃ¼lsz te ide?}
+{201}{}{Ã–Ã¶...}
+{202}{}{AzÃ©rt jÃ¶ttem, hogy mindenkit kiszabadÃ­tsak.}
+{203}{}{Mi a fene tÃ¶rtÃ©nik itt?}
+{204}{eeld2}{Te, szÃ¶rnyeteg! AzÃ©rt jÃ¶ttÃ©l, hogy engem is megÃ¶lj?}
+{205}{}{Ã–h?}
+{206}{}{Nem-nem, Ã©n vagyok az, a KivÃ¡lasztott!}
+{207}{}{Pofa be, vÃ©n kurva! Ã‰n vagyok az, a KivÃ¡lasztott!}
+{208}{eeld3}{Ã“, istenem... Figyelj... menj le! Keresd meg az energiaadÃ³ gÃ©pet! Ã–ld meg a gÃ©pet! Ã–ld meg a rossz embereket! Ã–lj meg mindenkit! Te Ã¶lsz, mi hazamegyÃ¼nk. Ã‰s ha nem lenne Ã‰LET nÃ¡lad, akkor keresd itt az Ã‰LET-et! Kell az Ã‰LET, hogy megmentsÃ¼k a falut. A szabadsÃ¡g nem Ã©r semmit otthon nÃ©lkÃ¼l, ahovÃ¡ visszatÃ©rhetnÃ©nk. Ã‰rted? Ã“, istenem.}
+{209}{}{Ã–Ã¶Ã¶!}
+{210}{eeld4}{Ã“vatosan, ne Ã©rintsd meg a vilÃ¡gÃ­tÃ³ falat. Azt hiszem, egy alattunk lÃ©v? gÃ©p tÃ¡plÃ¡lja. PusztÃ­tsd el, hogy elmenekÃ¼lhessÃ¼nk! Hogyan jutottÃ¡l ide?}
+{211}{}{Van egy hajÃ³m. }
+{212}{eeld5}{Emberek jÃ¶ttek a falunkba, Ã©s repÃ¼l? szerkezetekkel elvittek minket. MÃ¡sok is voltak - a Szent TizenhÃ¡rmasbÃ³l! Azt hittem, megmentenek, Ã©s a mennybe visznek minket. (sÃ³hajt)}
+{213}{}{Ã‰s azutÃ¡n?}
+{214}{eeld5a}{AzutÃ¡n idehoztak minket, ebbe a pokolba. LegtÃ¶bbÃ¼nket megÃ¶ltÃ©k valamivel, amit effÃ©vÃ©nek hÃ­vnak. Mindannyiunkat meg fognak Ã¶lni! Tudod, mit kell csinÃ¡lnod, KivÃ¡lasztott?}
+{215}{}{EffÃ©vÃ©?}
 {216}{}{Igen.}
 {217}{}{Nem.}
-{218}{eeld6}{Ha elpusztítod a gépet, mi megtaláljuk a hajót. Siess, már csak néhányan maradtunk! }
-{219}{}{Mi történt?}
-{220}{}{Értem.}
+{218}{eeld6}{Ha elpusztÃ­tod a gÃ©pet, mi megtalÃ¡ljuk a hajÃ³t. Siess, mÃ¡r csak nÃ©hÃ¡nyan maradtunk! }
+{219}{}{Mi tÃ¶rtÃ©nt?}
+{220}{}{Ã‰rtem.}
 {221}{eeld7}{You must destroy the machine and kill the devils in this place. We will meet you outside! And Chosen One, if you have not found the GECK, seek it here. Our freedom is nothing if we cannot save our village. Now go!}
-{222}{}{Viszlát!}
-{223}{eeld8}{A törzsf? még mindig én vagyok. Emlékezz erre! Beszélj hozzám illend?en, vagy nem segítek többé!}
-{224}{}{Elnézést, ön tényleg nem vén kurva. Mi történt?}
-{225}{}{Itt akar segíteni? Baszódjon szét, és dögöljön meg!}
-{226}{eeld9}{Menj innen! Rosszabb vagy, mint ezek az ördögök! Visszaveszem t?led a Kiválasztott nevet.}
-{227}{eeld10}{Miért vagy itt? Minden elvesztegetett perc az embereink halálát eredményezi. És ne felejtsd el az ÉLET-et! Szükségünk van rá.}
+{222}{}{ViszlÃ¡t!}
+{223}{eeld8}{A tÃ¶rzsf? mÃ©g mindig Ã©n vagyok. EmlÃ©kezz erre! BeszÃ©lj hozzÃ¡m illend?en, vagy nem segÃ­tek tÃ¶bbÃ©!}
+{224}{}{ElnÃ©zÃ©st, Ã¶n tÃ©nyleg nem vÃ©n kurva. Mi tÃ¶rtÃ©nt?}
+{225}{}{Itt akar segÃ­teni? BaszÃ³djon szÃ©t, Ã©s dÃ¶gÃ¶ljÃ¶n meg!}
+{226}{eeld9}{Menj innen! Rosszabb vagy, mint ezek az Ã¶rdÃ¶gÃ¶k! Visszaveszem t?led a KivÃ¡lasztott nevet.}
+{227}{eeld10}{MiÃ©rt vagy itt? Minden elvesztegetett perc az embereink halÃ¡lÃ¡t eredmÃ©nyezi. Ã‰s ne felejtsd el az Ã‰LET-et! SzÃ¼ksÃ©gÃ¼nk van rÃ¡.}
 {228}{}{He??}
-{229}{}{Hová is kell mennem?}
-{230}{}{Csak meg akartam nézni, biztonságban vannak-e. Már keresem, ne aggódjon!}
-{231}{eeld11}{(sóhajt) Menj le! Ölj! Zúzd a gépeket! Indulj!}
+{229}{}{HovÃ¡ is kell mennem?}
+{230}{}{Csak meg akartam nÃ©zni, biztonsÃ¡gban vannak-e. MÃ¡r keresem, ne aggÃ³djon!}
+{231}{eeld11}{(sÃ³hajt) Menj le! Ã–lj! ZÃºzd a gÃ©peket! Indulj!}
 {232}{eeld12}{Listen this time! Go to the levels below us. Find the machine that makes power. Stop it and we can escape. The men here are not true to the Vault dream. They are evil. Also, if you have not yet found the GECK, seek it here. Our freedom is nothing if our village cannot be saved. Now go!}
-{233}{}{Értem.}
-{234}{eeld13}{Így hívják. T?ket szúrnak a b?rünkbe, akár a stimpakk, de utána szörny? dolog történik. Utána... (fulladozik)}
-{235}{}{Utána?}
+{233}{}{Ã‰rtem.}
+{234}{eeld13}{Ãgy hÃ­vjÃ¡k. T?ket szÃºrnak a b?rÃ¼nkbe, akÃ¡r a stimpakk, de utÃ¡na szÃ¶rny? dolog tÃ¶rtÃ©nik. UtÃ¡na... (fulladozik)}
+{235}{}{UtÃ¡na?}
 {236}{}{Ett?l rosszul leszek majd, igaz?}
-{237}{eeld13a}{Utána a b?r elkezd hólyagosodni, mintha férgek lennének alatta. Elkezd forrni, és olvadni. Vér folyik ki a fülb?l, a nyelv pedig felduzzad. A szerencsésebbek megfulladnak. Akik nem, azok...}
+{237}{eeld13a}{UtÃ¡na a b?r elkezd hÃ³lyagosodni, mintha fÃ©rgek lennÃ©nek alatta. Elkezd forrni, Ã©s olvadni. VÃ©r folyik ki a fÃ¼lb?l, a nyelv pedig felduzzad. A szerencsÃ©sebbek megfulladnak. Akik nem, azok...}
 {238}{}{Megfizetnek.}
-{239}{}{Ez undorító volt! Mit is kell tennem?}
+{239}{}{Ez undorÃ­tÃ³ volt! Mit is kell tennem?}

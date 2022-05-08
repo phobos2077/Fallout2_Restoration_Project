@@ -1,9 +1,9 @@
-{100}{}{Widzisz Jordana. Jak zwykle wywija w³óczni¹.}
-{101}{}{Widzisz Jordana. Jak zwykle wywija w³óczni¹.}
-{102}{}{Powodzenia! Ca³a wioska liczy na ciebie.}
-{103}{}{Dziecko Przeznaczenia, je¿eli nie nauczysz siê obchodziæ lepiej z w³óczni¹, skoñczysz jako kolacja dla gekonów. Mogê pokazaæ ci parê sztuczek.}
+{100}{}{Widzisz Jordana. Jak zwykle wywija wÅ‚Ã³czniÄ….}
+{101}{}{Widzisz Jordana. Jak zwykle wywija wÅ‚Ã³czniÄ….}
+{102}{}{Powodzenia! CaÅ‚a wioska liczy na ciebie.}
+{103}{}{Dziecko Przeznaczenia, jeÅ¼eli nie nauczysz siÄ™ obchodziÄ‡ lepiej z wÅ‚Ã³czniÄ…, skoÅ„czysz jako kolacja dla gekonÃ³w. MogÄ™ pokazaÄ‡ ci parÄ™ sztuczek.}
 {104}{}{Jasne.}
-{105}{}{Nie, dziêki.}
-{106}{}{To zajmie chwilkê.}
-{107}{}{Szybko siê uczysz - Wygl¹da na to, ¿e nauczy³em ciê wszystkiego, co potrafiê.}
-{108}{}{Dziêki, Jordan. To mi siê bardzo przyda.}
+{105}{}{Nie, dziÄ™ki.}
+{106}{}{To zajmie chwilkÄ™.}
+{107}{}{Szybko siÄ™ uczysz - WyglÄ…da na to, Å¼e nauczyÅ‚em ciÄ™ wszystkiego, co potrafiÄ™.}
+{108}{}{DziÄ™ki, Jordan. To mi siÄ™ bardzo przyda.}

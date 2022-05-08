@@ -1,27 +1,27 @@
-{100}{}{Egy nagy, rühes kutyát látsz.}
-{101}{}{Ez a kutya mocskos, sz?re sárgás és vastagon belepi a por.}
-{110}{}{Grrrrrr. Vaú! Vaú! Grrrrrrrr...}
-{111}{}{Vau, árf, árf?}
-{112}{}{(A kutya szemébe nézve) Grrrrr! Árrrrr! Grrrrrrrrrr!}
-{113}{}{Hmm, fogadok, hogy azért vagy mérges, mert akarsz valamit.}
-{114}{}{Éhes vagy öregfiú, nemde? Hadd nézzem meg, van-e nálam fincsi szárított hús, amit neked adhatnék.}
-{120}{}{Vaú! (A kutya el?reugrik a fogait vicsorítva, kikapja a húst a kezedb?l, és hangosan eszik)}
+{100}{}{Egy nagy, rÃ¼hes kutyÃ¡t lÃ¡tsz.}
+{101}{}{Ez a kutya mocskos, sz?re sÃ¡rgÃ¡s Ã©s vastagon belepi a por.}
+{110}{}{Grrrrrr. VaÃº! VaÃº! Grrrrrrrr...}
+{111}{}{Vau, Ã¡rf, Ã¡rf?}
+{112}{}{(A kutya szemÃ©be nÃ©zve) Grrrrr! Ãrrrrr! Grrrrrrrrrr!}
+{113}{}{Hmm, fogadok, hogy azÃ©rt vagy mÃ©rges, mert akarsz valamit.}
+{114}{}{Ã‰hes vagy Ã¶regfiÃº, nemde? Hadd nÃ©zzem meg, van-e nÃ¡lam fincsi szÃ¡rÃ­tott hÃºs, amit neked adhatnÃ©k.}
+{120}{}{VaÃº! (A kutya el?reugrik a fogait vicsorÃ­tva, kikapja a hÃºst a kezedb?l, Ã©s hangosan eszik)}
 {121}{}{Woof! (The mongrel happily grabs the yummy drymeat, dropping a key that he must have had in his
  mouth -- you pick up the key.)}
 {122}{}{Mmm, jerky.}
-{123}{}{Áh, szegény fickó, biztos nagyon éhes voltál. (Megsimogatod a fejét)}
-{130}{}{Grrr. Vaú! Vaú!}
-{131}{}{Árf-árf, kutyus. Hehe.}
-{132}{}{Viszlát, kutyus!}
-{133}{}{Bocs, de nincs nálam kutyakeksz.}
-{134}{}{El innen! Takarodj innen, büdös korcs!}
-{140}{}{Vaú, vaú. Vaú-vaú!}
-{141}{}{Vaú, vaú? Eru?}
-{142}{}{Jó kutyus, jófiú.}
-{143}{}{Éhes vagy, öregfiú, nemde? Hadd nézzem meg, van-e nálam fincsi szárított hús, amit neked adhatnék.}
-{200}{}{Vaú! (simi, simi, simi -- nyalás)}
+{123}{}{Ãh, szegÃ©ny fickÃ³, biztos nagyon Ã©hes voltÃ¡l. (Megsimogatod a fejÃ©t)}
+{130}{}{Grrr. VaÃº! VaÃº!}
+{131}{}{Ãrf-Ã¡rf, kutyus. Hehe.}
+{132}{}{ViszlÃ¡t, kutyus!}
+{133}{}{Bocs, de nincs nÃ¡lam kutyakeksz.}
+{134}{}{El innen! Takarodj innen, bÃ¼dÃ¶s korcs!}
+{140}{}{VaÃº, vaÃº. VaÃº-vaÃº!}
+{141}{}{VaÃº, vaÃº? Eru?}
+{142}{}{JÃ³ kutyus, jÃ³fiÃº.}
+{143}{}{Ã‰hes vagy, Ã¶regfiÃº, nemde? Hadd nÃ©zzem meg, van-e nÃ¡lam fincsi szÃ¡rÃ­tott hÃºs, amit neked adhatnÃ©k.}
+{200}{}{VaÃº! (simi, simi, simi -- nyalÃ¡s)}
 {201}{}{Woof-woof!}
 {202}{}{Vau!}
 {203}{}{Arf, arf, arf!}
-{204}{}{(Szeretet-teljesen néz rád)}
-{205}{}{Vaúú!}
+{204}{}{(Szeretet-teljesen nÃ©z rÃ¡d)}
+{205}{}{VaÃºÃº!}

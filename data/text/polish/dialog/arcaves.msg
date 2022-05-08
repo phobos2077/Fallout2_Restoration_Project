@@ -1,1 +1,1 @@
-{100}{}{Znajdujesz siê w staro¿ytnej, spowitej mrokiem œwi¹tyni. Niesamowite cienie zwodniczo tañcz¹ na œcianach. Z oddali dobiega cichy szelest.}
+{100}{}{Znajdujesz siÄ™ w staroÅ¼ytnej, spowitej mrokiem Å›wiÄ…tyni. Niesamowite cienie zwodniczo taÅ„czÄ… na Å›cianach. Z oddali dobiega cichy szelest.}

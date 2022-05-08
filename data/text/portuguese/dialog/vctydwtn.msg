@@ -1,1 +1,1 @@
-{100}{}{Você entrou no Centro da cidade de Vault City.}
+{100}{}{VocÃª entrou no Centro da cidade de Vault City.}

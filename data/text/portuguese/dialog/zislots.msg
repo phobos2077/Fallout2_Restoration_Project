@@ -20,13 +20,13 @@
 {252}{}{Play last $}
 {253}{}{.}
 {254}{}{Liga-o por um dia.}
-{255}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é noite".}
-{256}{}{Isso que é noite.}
-{257}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é dia."}
+{255}{}{VocÃª estÃ¡ quebrado e nÃ£o pode mais jogar. VocÃª Ã© forÃ§ado a dizer "Isso Ã© que Ã© noite".}
+{256}{}{Isso que Ã© noite.}
+{257}{}{VocÃª estÃ¡ quebrado e nÃ£o pode mais jogar. VocÃª Ã© forÃ§ado a dizer "Isso Ã© que Ã© dia."}
 {258}{}{That does it! I'm leaving!}
 {259}{}{That does it! I'm leaving!}
 {500}{}{The rolls spin on the machine... }
-{599}{}{… }
+{599}{}{â€¦ }
 {600}{}{Nothing. }
 {601}{}{One cherry. }
 {602}{}{Two cherries. }
@@ -51,42 +51,42 @@
 {1106}{}{melons}
 {1107}{}{sevens}
 {2000}{}{*Venha me jogar por um minuto, cowboy.*}
-{2001}{}{*Olá, marinheiro.*}
+{2001}{}{*OlÃ¡, marinheiro.*}
 {2002}{}{*Put in a cap, pull the arm. I'll be nice to you.*}
-{2003}{}{*Tick…Tick…Tiiiiick…*}
+{2003}{}{*Tickâ€¦Tickâ€¦Tiiiiickâ€¦*}
 {2004}{}{*Ding*}
 {2005}{}{*Bing*}
 {2006}{}{*Kaaa-ching*}
 {2007}{}{*Zzzzzzz*}
 {2008}{}{*Ring-a-ling*}
 {2009}{}{*Dingity-ding*}
-{2010}{}{*Ei, você! Venha me jogar um minutinho.*}
-{2011}{}{*Olá, beleza.*}
-{2012}{}{*Não é que você é uma gracinha... por que não vem me jogar um poquinho?*}
+{2010}{}{*Ei, vocÃª! Venha me jogar um minutinho.*}
+{2011}{}{*OlÃ¡, beleza.*}
+{2012}{}{*NÃ£o Ã© que vocÃª Ã© uma gracinha... por que nÃ£o vem me jogar um poquinho?*}
 {2100}{}{You see a strange golden metal box with three eyes and one arm. It is one of the
  prettiest things you have ever seen.}
 {2101}{}{Eu}
 {2102}{}{ who yu?}
-{2103}{}{Mim sente falta da mamãe. }
+{2103}{}{Mim sente falta da mamÃ£e. }
 {2104}{}{ sente saudade de ARR-YO. Mim quer ir pra casa.}
 {2105}{}{(Shake its hand)}
-{2106}{}{Você mutante estranho}
+{2106}{}{VocÃª mutante estranho}
 {2107}{}{Viva a Vault! Viva a Vault!}
-{2108}{}{Você ser um water chip?}
+{2108}{}{VocÃª ser um water chip?}
 {2109}{}{Sair; procurar por mais coisas brilhantes}
 {2110}{}{Deixar.}
-{2130}{}{A estranha caixa dourada de metal com três olhos e um braço parece não responder.}
+{2130}{}{A estranha caixa dourada de metal com trÃªs olhos e um braÃ§o parece nÃ£o responder.}
 {2131}{}{MIM }
 {2132}{}{! YU ANSWER ME!}
 {2133}{}{(Shake its hand)}
 {2134}{}{Me child of Vault Dweller. You talk to me NOW.}
-{2135}{}{Você mutante estranho}
-{2136}{}{Você ser um water chip?}
+{2135}{}{VocÃª mutante estranho}
+{2136}{}{VocÃª ser um water chip?}
 {2137}{}{Sair; procurar por mais coisas brilhantes}
 {2138}{}{(Vai embora.)}
 {2151}{}{You grab its arm and shake it warmly. As you do, there is a *bzzzzzzz,* and the box
  speaks! "Please... insert... money."}
-{2152}{}{Ahhhhh! Robô! Robô! Corrrran}
+{2152}{}{Ahhhhh! RobÃ´! RobÃ´! Corrrran}
 {2153}{}{(Vai embora.)}
 {2175}{}{(You stare at the slot machine realizing you don't have enough to play, and you curse your poverty. Perhaps another time...)}
 {2176}{}{Deixar.}
@@ -109,37 +109,37 @@
 {2251}{}{*Come on, sweetheart... try it again... grab the handle... grip it firmly... come on now...*}
 {2252}{}{*That's it, sweetheart... keep pulling the handle... faster, harder, faster... come on now...*}
 {2253}{}{*Ennnnghhhh! That's it, sweetheart! Who's your Daddy?! Who's your Daddy?!! Do it again! Yank it harder this time! Harder!*}
-{2280}{}{(Você vê um caça-níquel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno. O buraco de moedas te atrai e você sente seu rosto derreter de expectativas. Quando você olha pra ele. uma das três janelas pisca pra você. Do buraco de moedas você ouve uma voz suave) *Oláaaaaa, docinho. Quer mostrar pra uma garota quem é que manda?*}
-{2281}{}{(Você vê um caça-níquel. Ele é forte, robusto e tem a alavanca dourada brilhando como um deus do sol entre as luzes de New Reno. O buraco de moedas te atrai sedutivamente, e você sente suas coxas queimarem de expectativa. Quando você olha pra ele, ouve uma voz masculina sair do buraco de moedas.) *Nunca vi uma mulher tão linda como você por aqui, senhorita. Está procurando por um bom tratamento?*}
+{2280}{}{(VocÃª vÃª um caÃ§a-nÃ­quel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas Ã s luzes de New Reno. O buraco de moedas te atrai e vocÃª sente seu rosto derreter de expectativas. Quando vocÃª olha pra ele. uma das trÃªs janelas pisca pra vocÃª. Do buraco de moedas vocÃª ouve uma voz suave) *OlÃ¡aaaaa, docinho. Quer mostrar pra uma garota quem Ã© que manda?*}
+{2281}{}{(VocÃª vÃª um caÃ§a-nÃ­quel. Ele Ã© forte, robusto e tem a alavanca dourada brilhando como um deus do sol entre as luzes de New Reno. O buraco de moedas te atrai sedutivamente, e vocÃª sente suas coxas queimarem de expectativa. Quando vocÃª olha pra ele, ouve uma voz masculina sair do buraco de moedas.) *Nunca vi uma mulher tÃ£o linda como vocÃª por aqui, senhorita. EstÃ¡ procurando por um bom tratamento?*}
 {2282}{}{::Envermelhar-se de vergonha::}
-{2283}{}{Uh... olá?}
+{2283}{}{Uh... olÃ¡?}
 {2284}{}{::Respirar fundo, sair.::}
-{2300}{}{*Eu ainda estou aqui, bela donzela.* (O caça-níquel abaixa a voz) *Vem aqui... quer fazer uma aposta?*}
+{2300}{}{*Eu ainda estou aqui, bela donzela.* (O caÃ§a-nÃ­quel abaixa a voz) *Vem aqui... quer fazer uma aposta?*}
 {2301}{}{*Ah'm still here, sugah.* (The slot machine lowers its voice.) *You're one fine hunka man, you know that? Come on now... you wanna stick some coins in lil' old me?*}
 {2302}{}{Whooo *are* yoooo?}
-{2303}{}{Clauro... ô vô fager uma apoxta em voxê}
+{2303}{}{Clauro... Ã´ vÃ´ fager uma apoxta em voxÃª}
 {2304}{}{I think I better leave before I stick something in you I might regret. (Leave.)}
 {2305}{}{::Take a deep breath, walk away.:: (Leave.)}
 {2320}{}{*I'm your ideal man.* (The slot machine gives you a wink.) *Give me some coins, and I'll please you in ways no man has EVER pleased you.*}
 {2321}{}{*I'm your ideal woman, sugar. All's ah want is a little attention. Can you help pretty old me? Come on, just a coin or two?*}
-{2322}{}{Nósh não podemosh só conversá}
-{2340}{}{*Claro que podemos, coração, claro que podemos.* (O caça-níquel parece compreensível.) *O que perturba a sua cabecinha?*}
-{2341}{}{*Claro que podemos, docinho, claro que podemos.* (O caça-níquel parece compreensível) *O que está te perturbando, bonitão?* }
-{2342}{}{Mim saudades de MAMÃE e de ARROYO e mim... não consegue acha o GECK e... *snif*}
-{2343}{}{Mim saudades de MAMÃE e Arroyo foi ATACADA e mim... não sabe onde eles tão... e... *snif*}
-{2344}{}{Mim precisa consertar barco gigante... e mim não sabe COMO... e mamãe SE FOI e... *snif*}
-{2345}{}{Mim terminou o jogo... e agora só andar por aí... ter medo de ter acabado TUDO e... *snif*}
-{2346}{}{É puquê esse Fauált doiz não shuporta minha placa 3D Fxxxx e eu gastei muito dinhêro nela e... *snif*}
-{2347}{}{Eu tentei fazer um bom personage mas acho que gastei todos os pontus *errados*.. e agora eu tenho um personage cocô... e... *snif*}
-{2348}{}{eu tô cunversando com um caça-níquel, eu tô muito mal das perna}
-{2370}{}{*Isso, isso... não perturbe mais sua cabecinha por causa disso... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeça em mim. Isso mesmo. Jogue tudo pra fora.*}
-{2371}{}{*Isso, isso... não se perturbe mais por conta disso, docinho... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeça em mim. Isso mesmo. Jogue tudo pra fora.*}
-{2372}{}{Valeu, caça-níco *snif* 'cê é legal}
+{2322}{}{NÃ³sh nÃ£o podemosh sÃ³ conversÃ¡}
+{2340}{}{*Claro que podemos, coraÃ§Ã£o, claro que podemos.* (O caÃ§a-nÃ­quel parece compreensÃ­vel.) *O que perturba a sua cabecinha?*}
+{2341}{}{*Claro que podemos, docinho, claro que podemos.* (O caÃ§a-nÃ­quel parece compreensÃ­vel) *O que estÃ¡ te perturbando, bonitÃ£o?* }
+{2342}{}{Mim saudades de MAMÃƒE e de ARROYO e mim... nÃ£o consegue acha o GECK e... *snif*}
+{2343}{}{Mim saudades de MAMÃƒE e Arroyo foi ATACADA e mim... nÃ£o sabe onde eles tÃ£o... e... *snif*}
+{2344}{}{Mim precisa consertar barco gigante... e mim nÃ£o sabe COMO... e mamÃ£e SE FOI e... *snif*}
+{2345}{}{Mim terminou o jogo... e agora sÃ³ andar por aÃ­... ter medo de ter acabado TUDO e... *snif*}
+{2346}{}{Ã‰ puquÃª esse FauÃ¡lt doiz nÃ£o shuporta minha placa 3D Fxxxx e eu gastei muito dinhÃªro nela e... *snif*}
+{2347}{}{Eu tentei fazer um bom personage mas acho que gastei todos os pontus *errados*.. e agora eu tenho um personage cocÃ´... e... *snif*}
+{2348}{}{eu tÃ´ cunversando com um caÃ§a-nÃ­quel, eu tÃ´ muito mal das perna}
+{2370}{}{*Isso, isso... nÃ£o perturbe mais sua cabecinha por causa disso... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeÃ§a em mim. Isso mesmo. Jogue tudo pra fora.*}
+{2371}{}{*Isso, isso... nÃ£o se perturbe mais por conta disso, docinho... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeÃ§a em mim. Isso mesmo. Jogue tudo pra fora.*}
+{2372}{}{Valeu, caÃ§a-nÃ­co *snif* 'cÃª Ã© legal}
 {2373}{}{Yooo onlee *nice* pershun I met so far everybodee else is so meeen n' tried ta *hurt* me an' take my monee and...*sniff*}
-{2380}{}{*Você vai bem, certo, coração? Eu não me sinto bem em deixar você sair sozinho dessa maneira.*}
-{2381}{}{(Você descansa sua cabeça deprimida na máquina.)}
-{2382}{}{*Você vai bem, certo, docinho? Eu não me sinto bem em deixar você sair sozinho dessa maneira.*}
-{2383}{}{Ô vô ficar bem... 'cê foi legal em cunversá cumigo, caça-nico, ô te amo}
+{2380}{}{*VocÃª vai bem, certo, coraÃ§Ã£o? Eu nÃ£o me sinto bem em deixar vocÃª sair sozinho dessa maneira.*}
+{2381}{}{(VocÃª descansa sua cabeÃ§a deprimida na mÃ¡quina.)}
+{2382}{}{*VocÃª vai bem, certo, docinho? Eu nÃ£o me sinto bem em deixar vocÃª sair sozinho dessa maneira.*}
+{2383}{}{Ã” vÃ´ ficar bem... 'cÃª foi legal em cunversÃ¡ cumigo, caÃ§a-nico, Ã´ te amo}
 {2400}{}{*You're the only heroine we got in this two-bit world of bastards and thieves! You take care of yourself now, you hear, sweetheart?* (Turns away.) *You better go fore I start acting unmanly.*}
 {2401}{}{(A tear seems to form on one of the windows.) }
 {2402}{}{*You're the only hero we got in this two-bit world of bastards and thieves! You... you... take care of yourself now, you hear, sugah?* (Turns away.) *You better go before ah start sobbing.*}

@@ -1,253 +1,253 @@
-{100}{}{Widzisz niechlujnego mê¿czyznê w brudnej, br¹zowej koszuli. Jego rêce pokrywaj¹ ró¿owe krosty, które czêsto drapie.}
+{100}{}{Widzisz niechlujnego mÄ™Å¼czyznÄ™ w brudnej, brÄ…zowej koszuli. Jego rÄ™ce pokrywajÄ… rÃ³Å¼owe krosty, ktÃ³re czÄ™sto drapie.}
 {101}{}{To "doktor" Andrew.}
-{102}{}{Widzisz niechlujnego mê¿czyznê w brudnej, br¹zowej koszuli. Jego rêce pokrywaj¹ ró¿owe krosty, które czêsto drapie.}
-{103}{}{Widzê, ¿e trochê ci siê oberwa³o.}
-{104}{}{Jej... widzê, ¿e nieŸle ci siê oberwa³o.}
-{105}{}{Jej... widzê, ¿e bardzo ci siê oberwa³o.}
-{106}{}{Œwiêta...! Jak to mo¿liwe, ¿e jesteœ jeszcze w stanie chodziæ!}
-{107}{}{Jesteœ tu, ¿ebym ciê pozszywa³, tak?}
-{108}{}{Poszywa³.}
+{102}{}{Widzisz niechlujnego mÄ™Å¼czyznÄ™ w brudnej, brÄ…zowej koszuli. Jego rÄ™ce pokrywajÄ… rÃ³Å¼owe krosty, ktÃ³re czÄ™sto drapie.}
+{103}{}{WidzÄ™, Å¼e trochÄ™ ci siÄ™ oberwaÅ‚o.}
+{104}{}{Jej... widzÄ™, Å¼e nieÅºle ci siÄ™ oberwaÅ‚o.}
+{105}{}{Jej... widzÄ™, Å¼e bardzo ci siÄ™ oberwaÅ‚o.}
+{106}{}{ÅšwiÄ™ta...! Jak to moÅ¼liwe, Å¼e jesteÅ› jeszcze w stanie chodziÄ‡!}
+{107}{}{JesteÅ› tu, Å¼ebym ciÄ™ pozszywaÅ‚, tak?}
+{108}{}{PoszywaÅ‚.}
 {109}{}{Nie.}
-{110}{}{Tak, potrzebujê opieki lekarza.}
-{111}{}{Hmm, chcê ¿ebyœ mi coœ usun¹³. Mój szósty palec u nogi.}
-{112}{}{Prawdê mówi¹c, to mój przyjaciel potrzebuje opieki lekarza.}
-{113}{}{Prawdê mówi¹c, to moi przyjaciele potrzebuj¹ opieki lekarza.}
+{110}{}{Tak, potrzebujÄ™ opieki lekarza.}
+{111}{}{Hmm, chcÄ™ Å¼ebyÅ› mi coÅ› usunÄ…Å‚. MÃ³j szÃ³sty palec u nogi.}
+{112}{}{PrawdÄ™ mÃ³wiÄ…c, to mÃ³j przyjaciel potrzebuje opieki lekarza.}
+{113}{}{PrawdÄ™ mÃ³wiÄ…c, to moi przyjaciele potrzebujÄ… opieki lekarza.}
 {114}{}{Co to za miejsce?}
 {115}{}{A co to za miejsce?}
-{116}{}{W medycznej bazie danych Kryptopolis znajduj¹ siê schematy bojowego implantu. Móg³byœ przeprowadziæ operacjê wszczepienia?}
-{117}{}{Nie teraz. Nie jest a¿ tak Ÿle, jak wygl¹da.}
-{118}{}{Nie, nic mi nie jest. Tylko siê rozgl¹dam.}
-{119}{}{W porz¹dku... bêdzie ciê to kosztowaæ }
-{120}{}{ papierów. Jeœli masz kasê, to od razu bierzemy siê do roboty.}
-{121}{}{Oczywiœcie za doktorka na zapleczu nie mogê rêczyæ...}
-{122}{}{Poszywaæ? Poszywaæ! Ma pieni¹dze, poszywa dziury!}
+{116}{}{W medycznej bazie danych Kryptopolis znajdujÄ… siÄ™ schematy bojowego implantu. MÃ³gÅ‚byÅ› przeprowadziÄ‡ operacjÄ™ wszczepienia?}
+{117}{}{Nie teraz. Nie jest aÅ¼ tak Åºle, jak wyglÄ…da.}
+{118}{}{Nie, nic mi nie jest. Tylko siÄ™ rozglÄ…dam.}
+{119}{}{W porzÄ…dku... bÄ™dzie ciÄ™ to kosztowaÄ‡ }
+{120}{}{ papierÃ³w. JeÅ›li masz kasÄ™, to od razu bierzemy siÄ™ do roboty.}
+{121}{}{OczywiÅ›cie za doktorka na zapleczu nie mogÄ™ rÄ™czyÄ‡...}
+{122}{}{PoszywaÄ‡? PoszywaÄ‡! Ma pieniÄ…dze, poszywa dziury!}
 {123}{}{Pa pa.}
-{124}{}{Nie ma pieni¹¿ki. Pa-pa.}
+{124}{}{Nie ma pieniÄ…Å¼ki. Pa-pa.}
 {125}{}{Dobrze.}
-{126}{}{To trochê drogo. Mo¿e }
+{126}{}{To trochÄ™ drogo. MoÅ¼e }
 {127}{}{?}
-{128}{}{Niewa¿ne. A co z moim przyjacielem?}
-{129}{}{Niewa¿ne. A co z moimi przyjació³mi?}
+{128}{}{NiewaÅ¼ne. A co z moim przyjacielem?}
+{129}{}{NiewaÅ¼ne. A co z moimi przyjaciÃ³Å‚mi?}
 {130}{}{Co to za miejsce?}
-{131}{}{W medycznej bazie danych Kryptopolis znajduj¹ siê schematy bojowego implantu. Móg³byœ przeprowadziæ operacjê wszczepienia?}
-{132}{}{Nie mam a¿ tyle pieniêdzy. Wrócê, kiedy zbiorê trochê gotówki.}
-{133}{}{Nie, dziêki. Mo¿e innym razem.}
-{134}{}{Có¿... w porz¹dku. Brzmi uczciwie.}
-{135}{}{W takim razie bierzmy siê do roboty. Pod³¹czê ciê tylko do doktorka... wsuñ rêce w te szczeliny. Ja zacisnê opaski i zamknê klamry...}
-{136}{}{Œciemnienie przez 3 sekundy}
-{137}{}{Œwietnie! Wiedzia³em, ¿e stary doktorek mnie nie zawiedzie.}
+{131}{}{W medycznej bazie danych Kryptopolis znajdujÄ… siÄ™ schematy bojowego implantu. MÃ³gÅ‚byÅ› przeprowadziÄ‡ operacjÄ™ wszczepienia?}
+{132}{}{Nie mam aÅ¼ tyle pieniÄ™dzy. WrÃ³cÄ™, kiedy zbiorÄ™ trochÄ™ gotÃ³wki.}
+{133}{}{Nie, dziÄ™ki. MoÅ¼e innym razem.}
+{134}{}{CÃ³Å¼... w porzÄ…dku. Brzmi uczciwie.}
+{135}{}{W takim razie bierzmy siÄ™ do roboty. PodÅ‚Ä…czÄ™ ciÄ™ tylko do doktorka... wsuÅ„ rÄ™ce w te szczeliny. Ja zacisnÄ™ opaski i zamknÄ™ klamry...}
+{136}{}{Åšciemnienie przez 3 sekundy}
+{137}{}{Åšwietnie! WiedziaÅ‚em, Å¼e stary doktorek mnie nie zawiedzie.}
 {138}{}{Moja chce jeszcze raz! Jeszcze!}
 {139}{}{Papa.}
-{140}{}{Mo¿esz pomóc mojemu przyjacielowi?}
-{141}{}{Mo¿esz pomóc moim przyjacio³om?}
+{140}{}{MoÅ¼esz pomÃ³c mojemu przyjacielowi?}
+{141}{}{MoÅ¼esz pomÃ³c moim przyjacioÅ‚om?}
 {142}{}{Co to za miejsce?}
-{143}{}{W medycznej bazie danych Kryptopolis znajduj¹ siê schematy bojowego implantu. Móg³byœ przeprowadziæ operacjê wszczepienia?}
-{144}{}{Czujê siê ju¿ du¿o lepiej, dziêki.}
-{145}{}{Hmmm, no wiesz, to mo¿e nie byæ najlepszy pomys³. To nie jest zbyt bezpieczne. S¹dz¹c po tym, jak mówisz, widaæ, ¿e zdarzy³o ci siê ju¿ parê razy korzystaæ z doktorka. Ale jeœli nalegasz...}
-{146}{}{Œciemnienie przez 3 sekundy}
-{147}{}{Eee... jak siê czujesz? Lepiej? Gorzej?}
+{143}{}{W medycznej bazie danych Kryptopolis znajdujÄ… siÄ™ schematy bojowego implantu. MÃ³gÅ‚byÅ› przeprowadziÄ‡ operacjÄ™ wszczepienia?}
+{144}{}{CzujÄ™ siÄ™ juÅ¼ duÅ¼o lepiej, dziÄ™ki.}
+{145}{}{Hmmm, no wiesz, to moÅ¼e nie byÄ‡ najlepszy pomysÅ‚. To nie jest zbyt bezpieczne. SÄ…dzÄ…c po tym, jak mÃ³wisz, widaÄ‡, Å¼e zdarzyÅ‚o ci siÄ™ juÅ¼ parÄ™ razy korzystaÄ‡ z doktorka. Ale jeÅ›li nalegasz...}
+{146}{}{Åšciemnienie przez 3 sekundy}
+{147}{}{Eee... jak siÄ™ czujesz? Lepiej? Gorzej?}
 {148}{}{Jeszcze! Jeszcze! Jeszcze!}
 {149}{}{Moja czuje jak punty walki rosnom. Wszystko cacy. Pa.}
-{150}{}{No có¿, ostrzega³em ciê...}
-{151}{}{Œciemnienie przez 3 sekundy}
-{152}{}{O-o. Wygl¹da na to, ¿e tym razem doktorek zabra³ sobie spory kawa³ twojego cia³a.}
-{153}{}{Urrrkkk... moja boli... wœrotkuuu... moja ju¿ nigdy nie chce jeŸdziæ na ta z³a rzecz...}
-{154}{}{Có¿, nie jestem mechanikiem wiêc raczej nie pomogê ci z tym twoim mózgo-czymœ. Przykro mi.}
-{155}{}{Mo¿esz mnie uleczyæ?}
-{156}{}{Rozumiem. Chcê ciê jeszcze o coœ zapytaæ...}
-{157}{}{Och, trudno. Dziêki za wszystko.}
-{158}{}{W porz¹dku... bêdzie ciê to kosztowaæ }
-{159}{}{ papierów. Jeœli masz kasê, to od razu bierzemy siê do roboty.}
-{160}{}{Oczywiœcie nie mogê rêczyæ za starego doktorka na zapleczu...}
+{150}{}{No cÃ³Å¼, ostrzegaÅ‚em ciÄ™...}
+{151}{}{Åšciemnienie przez 3 sekundy}
+{152}{}{O-o. WyglÄ…da na to, Å¼e tym razem doktorek zabraÅ‚ sobie spory kawaÅ‚ twojego ciaÅ‚a.}
+{153}{}{Urrrkkk... moja boli... wÅ›rotkuuu... moja juÅ¼ nigdy nie chce jeÅºdziÄ‡ na ta zÅ‚a rzecz...}
+{154}{}{CÃ³Å¼, nie jestem mechanikiem wiÄ™c raczej nie pomogÄ™ ci z tym twoim mÃ³zgo-czymÅ›. Przykro mi.}
+{155}{}{MoÅ¼esz mnie uleczyÄ‡?}
+{156}{}{Rozumiem. ChcÄ™ ciÄ™ jeszcze o coÅ› zapytaÄ‡...}
+{157}{}{Och, trudno. DziÄ™ki za wszystko.}
+{158}{}{W porzÄ…dku... bÄ™dzie ciÄ™ to kosztowaÄ‡ }
+{159}{}{ papierÃ³w. JeÅ›li masz kasÄ™, to od razu bierzemy siÄ™ do roboty.}
+{160}{}{OczywiÅ›cie nie mogÄ™ rÄ™czyÄ‡ za starego doktorka na zapleczu...}
 {161}{}{Dobrze.}
-{162}{}{To trochê drogo. Mo¿e }
+{162}{}{To trochÄ™ drogo. MoÅ¼e }
 {163}{}{?}
-{164}{}{Niewa¿ne. A mo¿e pomo¿esz mi?}
+{164}{}{NiewaÅ¼ne. A moÅ¼e pomoÅ¼esz mi?}
 {165}{}{Co to za miejsce?}
-{166}{}{W medycznej bazie danych Kryptopolis znajduj¹ siê schematy bojowego implantu. Móg³byœ przeprowadziæ operacjê wszczepienia?}
-{167}{}{Nie mam a¿ tyle pieniêdzy. Wrócê, kiedy zbiorê trochê gotówki.}
-{168}{}{Chyba jednak zmieniê zdanie. Mo¿e innym razem...}
-{169}{}{No có¿... Wiesz co? }
-{170}{}{ papierów za was wszystkich i bêdziemy kwita. Co ty na to?}
+{166}{}{W medycznej bazie danych Kryptopolis znajdujÄ… siÄ™ schematy bojowego implantu. MÃ³gÅ‚byÅ› przeprowadziÄ‡ operacjÄ™ wszczepienia?}
+{167}{}{Nie mam aÅ¼ tyle pieniÄ™dzy. WrÃ³cÄ™, kiedy zbiorÄ™ trochÄ™ gotÃ³wki.}
+{168}{}{Chyba jednak zmieniÄ™ zdanie. MoÅ¼e innym razem...}
+{169}{}{No cÃ³Å¼... Wiesz co? }
+{170}{}{ papierÃ³w za was wszystkich i bÄ™dziemy kwita. Co ty na to?}
 {171}{}{Dobrze.}
-{172}{}{No nie wiem. To trochê drogo. A mo¿e }
-{173}{}{ dolarów?}
-{174}{}{Mo¿esz mnie uleczyæ?}
+{172}{}{No nie wiem. To trochÄ™ drogo. A moÅ¼e }
+{173}{}{ dolarÃ³w?}
+{174}{}{MoÅ¼esz mnie uleczyÄ‡?}
 {175}{}{Co to za miejsce?}
-{176}{}{W medycznej bazie danych Kryptopolis znajduj¹ siê schematy bojowego implantu. Móg³byœ przeprowadziæ operacjê wszczepienia?}
-{177}{}{Nie mam a¿ tyle pieniêdzy. Wrócê, kiedy zbiorê trochê gotówki.}
-{178}{}{Chyba jednak zmieniê zdanie. Mo¿e innym razem...}
-{179}{}{Có¿... w porz¹dku. Brzmi uczciwie.}
-{180}{}{W takim razie bierzmy siê do roboty. Pod³¹czê ciê tylko do doktorka... wsuñ rêce w te szczeliny. Ja zacisnê opaski i zamknê klamry...}
-{181}{}{Œciemnienie przez 3 sekundy}
-{182}{}{No, gotowe! Wiedzia³em, ¿e stary doktorek i tym razem mnie nie zawiedzie.}
-{183}{}{Dziêki. S³uchaj, potrzebujê jeszcze czegoœ...}
-{184}{}{Wielkie dziêki. Mo¿e jeszcze kiedyœ do ciebie zajrzymy.}
-{185}{}{Jesteœ we wspólnej lecznicy Kryptopolis. Ja i stary doktorek ³atamy tutaj wszystkich wymagaj¹cych ³atania.}
+{176}{}{W medycznej bazie danych Kryptopolis znajdujÄ… siÄ™ schematy bojowego implantu. MÃ³gÅ‚byÅ› przeprowadziÄ‡ operacjÄ™ wszczepienia?}
+{177}{}{Nie mam aÅ¼ tyle pieniÄ™dzy. WrÃ³cÄ™, kiedy zbiorÄ™ trochÄ™ gotÃ³wki.}
+{178}{}{Chyba jednak zmieniÄ™ zdanie. MoÅ¼e innym razem...}
+{179}{}{CÃ³Å¼... w porzÄ…dku. Brzmi uczciwie.}
+{180}{}{W takim razie bierzmy siÄ™ do roboty. PodÅ‚Ä…czÄ™ ciÄ™ tylko do doktorka... wsuÅ„ rÄ™ce w te szczeliny. Ja zacisnÄ™ opaski i zamknÄ™ klamry...}
+{181}{}{Åšciemnienie przez 3 sekundy}
+{182}{}{No, gotowe! WiedziaÅ‚em, Å¼e stary doktorek i tym razem mnie nie zawiedzie.}
+{183}{}{DziÄ™ki. SÅ‚uchaj, potrzebujÄ™ jeszcze czegoÅ›...}
+{184}{}{Wielkie dziÄ™ki. MoÅ¼e jeszcze kiedyÅ› do ciebie zajrzymy.}
+{185}{}{JesteÅ› we wspÃ³lnej lecznicy Kryptopolis. Ja i stary doktorek Å‚atamy tutaj wszystkich wymagajÄ…cych Å‚atania.}
 {186}{}{"Stary doktorek?"}
-{187}{}{Rozumiem. Mam do ciebie jeszcze kilka pytañ...}
-{188}{}{Hmmm. Mo¿e wrócê, kiedy bêdê potrzebowaæ waszych us³ug.}
-{189}{}{Aha, to nasz "Auto-doktor" na zapleczu. Wypo¿yczamy go z Kryptopolis.}
-{190}{}{Czasami jest trochê kapryœny, ale z regu³y dzia³a jak nale¿y. Z regu³y.}
-{191}{}{Na szczêœcie ostatnio dzia³a ca³kiem sprawnie. Dziêki temu coraz mniej mamy reklamacji.}
-{192}{}{Tak, po wymianie paru kabli i solidnym czyszczeniu nie powinno z nim byæ ¿adnych problemów.}
-{193}{}{Rozumiem. Mam do ciebie jeszcze kilka pytañ...}
-{194}{}{Kapryœny, tak? Mo¿e mogê rzuciæ na niego okiem?}
-{195}{}{Mi³o mi to s³yszeæ. Porozmawiamy póŸniej, Andrew.}
-{196}{}{Eee... có¿... piêkne dziêki. To mi³o z twojej strony, tak go naprawiæ za darmo.}
-{197}{}{Za darmo? Chyba ¿artujesz. Oczekujê jakiegoœ wynagrodzenia.}
-{198}{}{Mogê liczyæ na jakieœ zni¿ki w przysz³oœci?}
-{199}{}{¯aden problem. Mi³o by³o pomóc.}
-{200}{}{O, nie! Nie prosi³em ciê o tê naprawê wiêc nie dostaniesz ani grosza. Na twoim miejscu nie ciska³bym siê tak bardzo. W pobli¿u s¹ stra¿e.}
-{201}{}{Œmia³o, zawo³aj ich. Ciekawe, czy zd¹¿¹ uratowaæ twój ty³ek.}
-{202}{}{No có¿. Nie ma za co.}
-{203}{}{No i... Mogê ci jeszcze w czymœ pomóc?}
-{204}{}{W czym mogê ci pomóc?}
-{205}{}{Potrzebujê opieki lekarza.}
-{206}{}{Hmm, chcê ¿ebyœ mi coœ usun¹³. Mój szósty palec u nogi.}
-{207}{}{Prawdê mówi¹c, to mój przyjaciel potrzebuje pomocy lekarza.}
-{208}{}{Moi przyjaciele potrzebuj¹ opieki lekarza.}
+{187}{}{Rozumiem. Mam do ciebie jeszcze kilka pytaÅ„...}
+{188}{}{Hmmm. MoÅ¼e wrÃ³cÄ™, kiedy bÄ™dÄ™ potrzebowaÄ‡ waszych usÅ‚ug.}
+{189}{}{Aha, to nasz "Auto-doktor" na zapleczu. WypoÅ¼yczamy go z Kryptopolis.}
+{190}{}{Czasami jest trochÄ™ kapryÅ›ny, ale z reguÅ‚y dziaÅ‚a jak naleÅ¼y. Z reguÅ‚y.}
+{191}{}{Na szczÄ™Å›cie ostatnio dziaÅ‚a caÅ‚kiem sprawnie. DziÄ™ki temu coraz mniej mamy reklamacji.}
+{192}{}{Tak, po wymianie paru kabli i solidnym czyszczeniu nie powinno z nim byÄ‡ Å¼adnych problemÃ³w.}
+{193}{}{Rozumiem. Mam do ciebie jeszcze kilka pytaÅ„...}
+{194}{}{KapryÅ›ny, tak? MoÅ¼e mogÄ™ rzuciÄ‡ na niego okiem?}
+{195}{}{MiÅ‚o mi to sÅ‚yszeÄ‡. Porozmawiamy pÃ³Åºniej, Andrew.}
+{196}{}{Eee... cÃ³Å¼... piÄ™kne dziÄ™ki. To miÅ‚o z twojej strony, tak go naprawiÄ‡ za darmo.}
+{197}{}{Za darmo? Chyba Å¼artujesz. OczekujÄ™ jakiegoÅ› wynagrodzenia.}
+{198}{}{MogÄ™ liczyÄ‡ na jakieÅ› zniÅ¼ki w przyszÅ‚oÅ›ci?}
+{199}{}{Å»aden problem. MiÅ‚o byÅ‚o pomÃ³c.}
+{200}{}{O, nie! Nie prosiÅ‚em ciÄ™ o tÄ™ naprawÄ™ wiÄ™c nie dostaniesz ani grosza. Na twoim miejscu nie ciskaÅ‚bym siÄ™ tak bardzo. W pobliÅ¼u sÄ… straÅ¼e.}
+{201}{}{ÅšmiaÅ‚o, zawoÅ‚aj ich. Ciekawe, czy zdÄ…Å¼Ä… uratowaÄ‡ twÃ³j tyÅ‚ek.}
+{202}{}{No cÃ³Å¼. Nie ma za co.}
+{203}{}{No i... MogÄ™ ci jeszcze w czymÅ› pomÃ³c?}
+{204}{}{W czym mogÄ™ ci pomÃ³c?}
+{205}{}{PotrzebujÄ™ opieki lekarza.}
+{206}{}{Hmm, chcÄ™ Å¼ebyÅ› mi coÅ› usunÄ…Å‚. MÃ³j szÃ³sty palec u nogi.}
+{207}{}{PrawdÄ™ mÃ³wiÄ…c, to mÃ³j przyjaciel potrzebuje pomocy lekarza.}
+{208}{}{Moi przyjaciele potrzebujÄ… opieki lekarza.}
 {209}{}{Co to za miejsce?}
 {210}{}{Co to za miejsce?!}
-{211}{}{W medycznej bazie danych Kryptopolis znajduj¹ siê schematy bojowego implantu. Móg³byœ przeprowadziæ operacjê wszczepienia?}
-{212}{}{Chyba ju¿ w niczym, dziêki.}
-{213}{}{Bojowego implantu? Co masz na myœli?}
-{214}{}{Có¿, ¿e schematów wynika, ¿e do systemu kostnego cz³owieka mo¿na przymocowaæ p³yty uderzeniowe i membrany rozpraszaj¹ce ciep³o. Procedura wygl¹da nastêpuj¹co...}
-{215}{}{No có¿... Chyba z pomoc¹ starego doktorka móg³bym przeprowadziæ tê operacjê. Oczywiœcie najpierw musisz mi dostarczyæ p³yty i membrany... mo¿e uda siê je wyci¹gn¹æ z pancerza bojowego. Spróbuj jakiegoœ poszukaæ.}
-{216}{}{Mo¿esz mi powiedzieæ coœ wiêcej o implantach?}
-{217}{}{Mam przy sobie pancerz bojowy. Mo¿esz mi powiedzieæ coœ wiêcej o implantach?}
-{218}{}{Hmmm. W porz¹dku. Interesuje mnie coœ jeszcze...}
-{219}{}{Dziêki. Wrócê póŸniej.}
-{220}{}{He he! Widzê, ¿e nie ¿artujesz. Musisz sobie zdawaæ sprawê, ¿e to niezbyt bezpieczna operacja. Jeœli Obywatele dowiedz¹ siê do czego wykorzystujê doktorka, bêd¹ chcieli go zabraæ z powrotem.}
+{211}{}{W medycznej bazie danych Kryptopolis znajdujÄ… siÄ™ schematy bojowego implantu. MÃ³gÅ‚byÅ› przeprowadziÄ‡ operacjÄ™ wszczepienia?}
+{212}{}{Chyba juÅ¼ w niczym, dziÄ™ki.}
+{213}{}{Bojowego implantu? Co masz na myÅ›li?}
+{214}{}{CÃ³Å¼, Å¼e schematÃ³w wynika, Å¼e do systemu kostnego czÅ‚owieka moÅ¼na przymocowaÄ‡ pÅ‚yty uderzeniowe i membrany rozpraszajÄ…ce ciepÅ‚o. Procedura wyglÄ…da nastÄ™pujÄ…co...}
+{215}{}{No cÃ³Å¼... Chyba z pomocÄ… starego doktorka mÃ³gÅ‚bym przeprowadziÄ‡ tÄ™ operacjÄ™. OczywiÅ›cie najpierw musisz mi dostarczyÄ‡ pÅ‚yty i membrany... moÅ¼e uda siÄ™ je wyciÄ…gnÄ…Ä‡ z pancerza bojowego. SprÃ³buj jakiegoÅ› poszukaÄ‡.}
+{216}{}{MoÅ¼esz mi powiedzieÄ‡ coÅ› wiÄ™cej o implantach?}
+{217}{}{Mam przy sobie pancerz bojowy. MoÅ¼esz mi powiedzieÄ‡ coÅ› wiÄ™cej o implantach?}
+{218}{}{Hmmm. W porzÄ…dku. Interesuje mnie coÅ› jeszcze...}
+{219}{}{DziÄ™ki. WrÃ³cÄ™ pÃ³Åºniej.}
+{220}{}{He he! WidzÄ™, Å¼e nie Å¼artujesz. Musisz sobie zdawaÄ‡ sprawÄ™, Å¼e to niezbyt bezpieczna operacja. JeÅ›li Obywatele dowiedzÄ… siÄ™ do czego wykorzystujÄ™ doktorka, bÄ™dÄ… chcieli go zabraÄ‡ z powrotem.}
 {221}{}{Rozumiem. Ile za te implanty?}
-{222}{}{W takim razie zapomnijmy o sprawie. Interesuje mnie coœ innego.}
-{223}{}{No to trudno. Mo¿e innym razem.}
-{224}{}{Zale¿y od tego co ciê interesuje. O niskiej czy wysokiej odpornoœci uderzeniowej b¹dŸ termicznej? Ka¿dy z nich ma w³asn¹ cenê.}
-{225}{}{Który? Niska czy wysoka odpornoœæ na uderzenia b¹dŸ temperaturê?}
-{226}{}{Niska odpornoœæ na uderzenia.}
-{227}{}{Wysoka odpornoœæ na uderzenia.}
-{228}{}{Niska odpornoœæ na temperaturê.}
-{229}{}{Wysoka odpornoœæ na temperaturê.}
-{230}{}{Niewa¿ne. Mam kilka innych pytañ...}
-{231}{}{Niewa¿ne. Muszê ju¿ iœæ.}
-{232}{}{Standardowe Wspomaganie Antyuderzeniowe zmniejsza obra¿enia powodowane przez ró¿nego rodzaju eksplozje, ciosy, kopniêcia i temu podobne. O jakieœ... 5%. Muszê najpierw rozebraæ ten pancerz bojowy, a przygotowanie wszczepów zajmie mi dwa dni. 7 tysiêcy powinno wystarczyæ.}
-{233}{}{Niech bêdzie. Oto pancerz i gotówka.}
+{222}{}{W takim razie zapomnijmy o sprawie. Interesuje mnie coÅ› innego.}
+{223}{}{No to trudno. MoÅ¼e innym razem.}
+{224}{}{ZaleÅ¼y od tego co ciÄ™ interesuje. O niskiej czy wysokiej odpornoÅ›ci uderzeniowej bÄ…dÅº termicznej? KaÅ¼dy z nich ma wÅ‚asnÄ… cenÄ™.}
+{225}{}{KtÃ³ry? Niska czy wysoka odpornoÅ›Ä‡ na uderzenia bÄ…dÅº temperaturÄ™?}
+{226}{}{Niska odpornoÅ›Ä‡ na uderzenia.}
+{227}{}{Wysoka odpornoÅ›Ä‡ na uderzenia.}
+{228}{}{Niska odpornoÅ›Ä‡ na temperaturÄ™.}
+{229}{}{Wysoka odpornoÅ›Ä‡ na temperaturÄ™.}
+{230}{}{NiewaÅ¼ne. Mam kilka innych pytaÅ„...}
+{231}{}{NiewaÅ¼ne. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{232}{}{Standardowe Wspomaganie Antyuderzeniowe zmniejsza obraÅ¼enia powodowane przez rÃ³Å¼nego rodzaju eksplozje, ciosy, kopniÄ™cia i temu podobne. O jakieÅ›... 5%. MuszÄ™ najpierw rozebraÄ‡ ten pancerz bojowy, a przygotowanie wszczepÃ³w zajmie mi dwa dni. 7 tysiÄ™cy powinno wystarczyÄ‡.}
+{233}{}{Niech bÄ™dzie. Oto pancerz i gotÃ³wka.}
 {234}{}{7000?! Mam tylko 5000.}
 {235}{}{Hmmm. Opowiedz mi o innych implantach.}
-{236}{}{Niewa¿ne. Mam kilka innych pytañ...}
-{237}{}{Wrócê, gdy zdobêde wiêcej pieniêdzy.}
-{238}{}{Wrócê, kiedy zdobêdê ten pancerz wspomagany.}
-{239}{}{Rozumiem. Mo¿e innym razem.}
-{240}{}{Có¿, z technicznego punktu widzenia jest to Standardowe Wspomaganie Antyuderzeniowe z dodatkowymi p³ytami wszczepianymi pod skórê.}
-{241}{}{Dobra, najpierw potrzebne bêd¹ standardowe wszczepy.}
-{242}{}{W porz¹dku, czego potrzebujesz?}
+{236}{}{NiewaÅ¼ne. Mam kilka innych pytaÅ„...}
+{237}{}{WrÃ³cÄ™, gdy zdobÄ™de wiÄ™cej pieniÄ™dzy.}
+{238}{}{WrÃ³cÄ™, kiedy zdobÄ™dÄ™ ten pancerz wspomagany.}
+{239}{}{Rozumiem. MoÅ¼e innym razem.}
+{240}{}{CÃ³Å¼, z technicznego punktu widzenia jest to Standardowe Wspomaganie Antyuderzeniowe z dodatkowymi pÅ‚ytami wszczepianymi pod skÃ³rÄ™.}
+{241}{}{Dobra, najpierw potrzebne bÄ™dÄ… standardowe wszczepy.}
+{242}{}{W porzÄ…dku, czego potrzebujesz?}
 {243}{}{Opowiedz mi o innych implantach.}
-{244}{}{Niewa¿ne. Mam parê pytañ...}
-{245}{}{Rozumiem. Mo¿e innym razem.}
-{246}{}{Bêdê potrzebowa³ wiêcej p³yt, wiêc nie obêdzie siê bez dodatkowego pancerza bojowego. Dziêki nim wytrzyma³oœæ wszczepów wzroœnie dwukrotnie, wiêc bêd¹ poch³ania³y równe dziesiêæ procent energii. Tyle tylko, ¿e...}
+{244}{}{NiewaÅ¼ne. Mam parÄ™ pytaÅ„...}
+{245}{}{Rozumiem. MoÅ¼e innym razem.}
+{246}{}{BÄ™dÄ™ potrzebowaÅ‚ wiÄ™cej pÅ‚yt, wiÄ™c nie obÄ™dzie siÄ™ bez dodatkowego pancerza bojowego. DziÄ™ki nim wytrzymaÅ‚oÅ›Ä‡ wszczepÃ³w wzroÅ›nie dwukrotnie, wiÄ™c bÄ™dÄ… pochÅ‚aniaÅ‚y rÃ³wne dziesiÄ™Ä‡ procent energii. Tyle tylko, Å¼e...}
 {247}{}{Tak?}
 {248}{}{Opowiedz mi o innych implantach.}
-{249}{}{Niewa¿ne. Mam parê pytañ...}
-{250}{}{Rozumiem. Mo¿e innym razem.}
-{251}{}{To trochê zajmie... przynajmniej kilka dni, zak³adaj¹c, ¿e stary doktorek nie odmówi nagle pos³uszeñstwa. No i nie jest to tania impreza. Na moje oko - jakieœ 40 kawa³ków. No i... powiedzmy, ¿e nie poprawi to twojej urody.}
+{249}{}{NiewaÅ¼ne. Mam parÄ™ pytaÅ„...}
+{250}{}{Rozumiem. MoÅ¼e innym razem.}
+{251}{}{To trochÄ™ zajmie... przynajmniej kilka dni, zakÅ‚adajÄ…c, Å¼e stary doktorek nie odmÃ³wi nagle posÅ‚uszeÅ„stwa. No i nie jest to tania impreza. Na moje oko - jakieÅ› 40 kawaÅ‚kÃ³w. No i... powiedzmy, Å¼e nie poprawi to twojej urody.}
 {252}{}{A jak bardzo jej zaszkodzi?}
 {253}{}{Opowiedz mi o innych implantach.}
-{254}{}{Niewa¿ne. Mam parê pytañ...}
-{255}{}{Rozumiem. Mo¿e innym razem.}
-{256}{}{Jeœli siê nie mylê, wszystkie twoje kr¹g³oœci zamieni¹ siê w k¹ty proste.}
-{257}{}{Po wszczepieniu implantów bêdziesz wygl¹daæ jak szafa na nogach.}
-{258}{}{Wciœniêcie takiej kupy ¿elastwa pod twoj¹ skórê odbije siê negatywnie na twojej charyzmie. Chcesz mimo to zaryzykowaæ?}
-{259}{}{A co mi tam! Oto pieni¹dze i pancerz.}
-{260}{}{No nie wiem... 40 tysiêcy to niema³o. Mam tylko $30000.}
+{254}{}{NiewaÅ¼ne. Mam parÄ™ pytaÅ„...}
+{255}{}{Rozumiem. MoÅ¼e innym razem.}
+{256}{}{JeÅ›li siÄ™ nie mylÄ™, wszystkie twoje krÄ…gÅ‚oÅ›ci zamieniÄ… siÄ™ w kÄ…ty proste.}
+{257}{}{Po wszczepieniu implantÃ³w bÄ™dziesz wyglÄ…daÄ‡ jak szafa na nogach.}
+{258}{}{WciÅ›niÄ™cie takiej kupy Å¼elastwa pod twojÄ… skÃ³rÄ™ odbije siÄ™ negatywnie na twojej charyzmie. Chcesz mimo to zaryzykowaÄ‡?}
+{259}{}{A co mi tam! Oto pieniÄ…dze i pancerz.}
+{260}{}{No nie wiem... 40 tysiÄ™cy to niemaÅ‚o. Mam tylko $30000.}
 {261}{}{Opowiedz mi o innych implantach.}
-{262}{}{Niewa¿ne. Mam parê pytañ...}
-{263}{}{Wrócê, gdy zdobêde wiêcej pieniêdzy.}
-{264}{}{Wrócê, kiedy zdobêdê ten pancerz bojowy.}
-{265}{}{Rozumiem. Mo¿e innym razem.}
-{266}{}{Implanty typu Feniks zmniejszaj¹ obra¿enia powodowane przez ogieñ, lasery i broñ plazmow¹ o oko³o 5%. Muszê wyci¹gn¹æ membrany termiczne pancerza bojowego, a przygotowanie samych implantów zajmie jakieœ dwa dni. W sumie bêdzie ciê to kosztowa³o równe 10 kawa³ków.}
-{267}{}{Œwietnie. Oto pancerz i pieni¹dze.}
-{268}{}{$10000 to trochê za du¿o jak na mój portfel. Mo¿e wystarczy $8000?}
+{262}{}{NiewaÅ¼ne. Mam parÄ™ pytaÅ„...}
+{263}{}{WrÃ³cÄ™, gdy zdobÄ™de wiÄ™cej pieniÄ™dzy.}
+{264}{}{WrÃ³cÄ™, kiedy zdobÄ™dÄ™ ten pancerz bojowy.}
+{265}{}{Rozumiem. MoÅ¼e innym razem.}
+{266}{}{Implanty typu Feniks zmniejszajÄ… obraÅ¼enia powodowane przez ogieÅ„, lasery i broÅ„ plazmowÄ… o okoÅ‚o 5%. MuszÄ™ wyciÄ…gnÄ…Ä‡ membrany termiczne pancerza bojowego, a przygotowanie samych implantÃ³w zajmie jakieÅ› dwa dni. W sumie bÄ™dzie ciÄ™ to kosztowaÅ‚o rÃ³wne 10 kawaÅ‚kÃ³w.}
+{267}{}{Åšwietnie. Oto pancerz i pieniÄ…dze.}
+{268}{}{$10000 to trochÄ™ za duÅ¼o jak na mÃ³j portfel. MoÅ¼e wystarczy $8000?}
 {269}{}{Opowiedz mi o innych implantach.}
-{270}{}{Niewa¿ne. Mam parê pytañ...}
-{271}{}{Wrócê, gdy zdobêde wiêcej pieniêdzy.}
-{272}{}{Wrócê, kiedy zdobêdê ten pancerz bojowy.}
-{273}{}{Rozumiem. Mo¿e innym razem.}
-{274}{}{Có¿, z technicznego punktu widzenia s¹ to standardowe implanty typu Feniks z dodatkowymi poch³aniaczami ciep³a.}
-{275}{}{A wiêc najpierw musisz mieæ zwyk³e implanty typu Feniks.}
-{276}{}{W porz¹dku, czego potrzebujesz?}
+{270}{}{NiewaÅ¼ne. Mam parÄ™ pytaÅ„...}
+{271}{}{WrÃ³cÄ™, gdy zdobÄ™de wiÄ™cej pieniÄ™dzy.}
+{272}{}{WrÃ³cÄ™, kiedy zdobÄ™dÄ™ ten pancerz bojowy.}
+{273}{}{Rozumiem. MoÅ¼e innym razem.}
+{274}{}{CÃ³Å¼, z technicznego punktu widzenia sÄ… to standardowe implanty typu Feniks z dodatkowymi pochÅ‚aniaczami ciepÅ‚a.}
+{275}{}{A wiÄ™c najpierw musisz mieÄ‡ zwykÅ‚e implanty typu Feniks.}
+{276}{}{W porzÄ…dku, czego potrzebujesz?}
 {277}{}{Opowiedz mi o innych implantach.}
-{278}{}{Niewa¿ne. Mam parê pytañ...}
-{279}{}{Rozumiem. Mo¿e innym razem.}
-{280}{}{Có¿, muszê wyci¹gn¹æ rozpraszacze ciep³a z nastêpnego pancerza bojowego. Dziêki wzmocnieniu, implanty bêdê teraz poch³ania³y 10% energii cieplnej, ale...}
+{278}{}{NiewaÅ¼ne. Mam parÄ™ pytaÅ„...}
+{279}{}{Rozumiem. MoÅ¼e innym razem.}
+{280}{}{CÃ³Å¼, muszÄ™ wyciÄ…gnÄ…Ä‡ rozpraszacze ciepÅ‚a z nastÄ™pnego pancerza bojowego. DziÄ™ki wzmocnieniu, implanty bÄ™dÄ™ teraz pochÅ‚aniaÅ‚y 10% energii cieplnej, ale...}
 {281}{}{Tak?}
 {282}{}{Opowiedz mi o innych implantach.}
-{283}{}{Niewa¿ne. Mam parê pytañ...}
-{284}{}{Rozumiem. Mo¿e innym razem.}
-{285}{}{Twoja skóra zacznie pêkaæ. Bardzo. Ca³e twoje cia³o pokryje siê paskudnymi b¹blami, wiêc nie licz na powodzenie u p³ci przeciwnej. No i koszt te¿ nie jest ma³y - 50 kawa³ków. P³atne z góry.}
-{286}{}{A co mi tam. Oto pieni¹dze i nastêpny pancerz wspomagany.}
+{283}{}{NiewaÅ¼ne. Mam parÄ™ pytaÅ„...}
+{284}{}{Rozumiem. MoÅ¼e innym razem.}
+{285}{}{Twoja skÃ³ra zacznie pÄ™kaÄ‡. Bardzo. CaÅ‚e twoje ciaÅ‚o pokryje siÄ™ paskudnymi bÄ…blami, wiÄ™c nie licz na powodzenie u pÅ‚ci przeciwnej. No i koszt teÅ¼ nie jest maÅ‚y - 50 kawaÅ‚kÃ³w. PÅ‚atne z gÃ³ry.}
+{286}{}{A co mi tam. Oto pieniÄ…dze i nastÄ™pny pancerz wspomagany.}
 {287}{}{$40000 i dobijemy targu.}
 {288}{}{Opowiedz mi o innych implantach.}
-{289}{}{Niewa¿ne. Mam parê pytañ...}
-{290}{}{Wrócê, gdy zdobêde wiêcej pieniêdzy.}
-{291}{}{Wrócê, kiedy zdobêdê nastêpny pancerz bojowy.}
-{292}{}{Rozumiem. Mo¿e innym razem.}
-{293}{}{Có¿... to chyba uczciwy uk³ad.}
-{294}{}{W porz¹dku, pod³¹czê ciê teraz do starego doktorka... mam tylko nadziejê, ¿e uk³ad anestetyczny znowu nie wysi¹dzie... na wszelki wypadek zaciœnij zêby na tym kawa³ku skóry.}
-{295}{}{Eee... dobra. Ale ten Auto-doktor przechodzi regularne kontrole serwisowe, prawda? He he he. Chyba nic mi nie bêdzie, co?}
-{296}{}{Wiesz co? Zapomnijmy o ca³ej sprawie. Wolê nie ryzykowaæ. Ten "stary doktorek" nie budzi zaufania.}
+{289}{}{NiewaÅ¼ne. Mam parÄ™ pytaÅ„...}
+{290}{}{WrÃ³cÄ™, gdy zdobÄ™de wiÄ™cej pieniÄ™dzy.}
+{291}{}{WrÃ³cÄ™, kiedy zdobÄ™dÄ™ nastÄ™pny pancerz bojowy.}
+{292}{}{Rozumiem. MoÅ¼e innym razem.}
+{293}{}{CÃ³Å¼... to chyba uczciwy ukÅ‚ad.}
+{294}{}{W porzÄ…dku, podÅ‚Ä…czÄ™ ciÄ™ teraz do starego doktorka... mam tylko nadziejÄ™, Å¼e ukÅ‚ad anestetyczny znowu nie wysiÄ…dzie... na wszelki wypadek zaciÅ›nij zÄ™by na tym kawaÅ‚ku skÃ³ry.}
+{295}{}{Eee... dobra. Ale ten Auto-doktor przechodzi regularne kontrole serwisowe, prawda? He he he. Chyba nic mi nie bÄ™dzie, co?}
+{296}{}{Wiesz co? Zapomnijmy o caÅ‚ej sprawie. WolÄ™ nie ryzykowaÄ‡. Ten "stary doktorek" nie budzi zaufania.}
 {297}{}{Aaaaaaaa!}
 {298}{}{Odczekaj dwie sekundy.}
 {299}{}{O-o.}
-{300}{}{Gracz ginie w wyj¹tkowo paskudny sposób.}
+{300}{}{Gracz ginie w wyjÄ…tkowo paskudny sposÃ³b.}
 {301}{}{Odczekaj dwie sekundy.}
-{302}{}{Wygl¹da na to, ¿e stary doktorek jednak nie podo³a³ zadaniu...}
+{302}{}{WyglÄ…da na to, Å¼e stary doktorek jednak nie podoÅ‚aÅ‚ zadaniu...}
 {303}{}{Odczekaj dwie sekundy}
-{304}{}{Hmmm. £adne buty. Mo¿e uda mi siê je odsprzedaæ...}
-{305}{}{PrzejdŸ do ekranu œmierci.}
-{306}{}{Có¿... to chyba uczciwy uk³ad.}
-{307}{}{W porz¹dku, pod³¹czê ciê teraz do starego doktorka... mam tylko nadziejê, ¿e uk³ad anestetyczny znowu nie wysi¹dzie... na wszelki wypadek zaciœnij zêby na tym kawa³ku skóry.}
-{308}{}{Œciemnienie przez 3 sekundy}
-{309}{}{No tak, chyba siê przyjê³y. Jeœli chodzi o opuchliznê i otarcia - jestem pewien, ¿e po jakimœ czasie min¹. A ten k³uj¹cy ból, kiedy ruszasz ramionami - za kilka tygodni nie bêdzie po nim œladu.}
-{310}{}{S³yszysz mnie? Ufff. Ju¿ myœla³em, ¿e ca³e to ¿elastwo po prostu nie zmieœci siê w œrodku, ale uda³o mi siê usun¹æ ca³kiem sporo zbêdnej tkanki. Mam j¹ w tym s³oiku. Mo¿esz j¹ wzi¹æ, na pami¹tkê.}
-{311}{}{Litoœci... jeszcze nigdy nie przeprowadza³em operacji metod¹ prób i b³êdów. Skoñczy³o siê na tym, ¿e musia³em amputowaæ ci sporo zakoñczeñ nerwowych... To w³aœnie dlatego czujesz teraz to szczypanie i pieczenie. Spokojnie, za kilka tygodni wszystko wróci do normy.}
-{312}{}{Mam nadziejê, ¿e mnie teraz s³yszysz. S³uchaj, kiedy odzyskasz czucie mo¿esz doœwiadczyæ niemi³ego swêdzenia ca³ego cia³a. Pod ¿adnym pozorem nie próbuj siê drapaæ, chyba ¿e chcesz, ¿eby otworzy³y ci siê rany. Za kilka tygodni wszystko bêdzie OK, jasne?}
-{313}{}{Henki. Mohe cie jehcze o hoœ zahytaæ?}
+{304}{}{Hmmm. Åadne buty. MoÅ¼e uda mi siÄ™ je odsprzedaÄ‡...}
+{305}{}{PrzejdÅº do ekranu Å›mierci.}
+{306}{}{CÃ³Å¼... to chyba uczciwy ukÅ‚ad.}
+{307}{}{W porzÄ…dku, podÅ‚Ä…czÄ™ ciÄ™ teraz do starego doktorka... mam tylko nadziejÄ™, Å¼e ukÅ‚ad anestetyczny znowu nie wysiÄ…dzie... na wszelki wypadek zaciÅ›nij zÄ™by na tym kawaÅ‚ku skÃ³ry.}
+{308}{}{Åšciemnienie przez 3 sekundy}
+{309}{}{No tak, chyba siÄ™ przyjÄ™Å‚y. JeÅ›li chodzi o opuchliznÄ™ i otarcia - jestem pewien, Å¼e po jakimÅ› czasie minÄ…. A ten kÅ‚ujÄ…cy bÃ³l, kiedy ruszasz ramionami - za kilka tygodni nie bÄ™dzie po nim Å›ladu.}
+{310}{}{SÅ‚yszysz mnie? Ufff. JuÅ¼ myÅ›laÅ‚em, Å¼e caÅ‚e to Å¼elastwo po prostu nie zmieÅ›ci siÄ™ w Å›rodku, ale udaÅ‚o mi siÄ™ usunÄ…Ä‡ caÅ‚kiem sporo zbÄ™dnej tkanki. Mam jÄ… w tym sÅ‚oiku. MoÅ¼esz jÄ… wziÄ…Ä‡, na pamiÄ…tkÄ™.}
+{311}{}{LitoÅ›ci... jeszcze nigdy nie przeprowadzaÅ‚em operacji metodÄ… prÃ³b i bÅ‚Ä™dÃ³w. SkoÅ„czyÅ‚o siÄ™ na tym, Å¼e musiaÅ‚em amputowaÄ‡ ci sporo zakoÅ„czeÅ„ nerwowych... To wÅ‚aÅ›nie dlatego czujesz teraz to szczypanie i pieczenie. Spokojnie, za kilka tygodni wszystko wrÃ³ci do normy.}
+{312}{}{Mam nadziejÄ™, Å¼e mnie teraz sÅ‚yszysz. SÅ‚uchaj, kiedy odzyskasz czucie moÅ¼esz doÅ›wiadczyÄ‡ niemiÅ‚ego swÄ™dzenia caÅ‚ego ciaÅ‚a. Pod Å¼adnym pozorem nie prÃ³buj siÄ™ drapaÄ‡, chyba Å¼e chcesz, Å¼eby otworzyÅ‚y ci siÄ™ rany. Za kilka tygodni wszystko bÄ™dzie OK, jasne?}
+{313}{}{Henki. Mohe cie jehcze o hoÅ› zahytaÄ‡?}
 {314}{}{Henki, Adrew. Pa.}
-{315}{}{Có¿... w porz¹dku. Brzmi uczciwie.}
-{316}{}{W takim razie bierzmy siê do roboty. Pod³¹czê ciê tylko do doktorka... wsuñ rêce w te szczeliny. Ja zacisnê opaski i zamknê klamry...}
-{317}{}{Œciemnienie przez 3 sekundy}
-{318}{}{Hmmp. Stary doktorek znów odmawia wspó³pracy. Cholerny szmelc... Ca³e szczêœcie, ¿e uda³o mi siê otworzyæ klamry zanim zacz¹³ ci¹æ. Mo¿e nastêpnym razem pójdzie lepiej.}
-{319}{}{Co...? Oddawaj mi moje pieni¹dze!}
-{320}{}{Mam nadziejê! Interesuje mnie coœ jeszcze...}
-{321}{}{Tak, mo¿e. Wychodzê.}
-{322}{}{Przykro mi - ¿adnych gwarancji, ¿adnych zwrotów. Ponosisz ca³e ryzyko. Jeœli coœ ci nie odpowiada poskar¿ siê stra¿nikom.}
-{323}{}{Oddawaj mi pieni¹dze, albo sam zaraz wyl¹dujesz na "Starym doktorku".}
-{324}{}{Trudno. Mam jeszcze kilka pytañ...}
-{325}{}{Gadaj zdrów. Czeœæ.}
-{326}{}{Có¿, mogê spróbowaæ. Oczywiœcie nie mogê rêczyæ za starego doktorka na zapleczu. To ciê bêdzie kosztowaæ... i nie wiadomo, czy operacja wystarczy. On mo¿e odrosn¹æ.}
-{327}{}{Nie obchodzi mnie to. Masz go usun¹æ i ju¿.}
-{328}{}{No to trudno. Mam jeszcze kilka pytañ...}
-{329}{}{W takim razie zapomnij o ca³ej sprawie. Mo¿e zajrzê do ciebie jeszcze kiedyœ.}
-{330}{}{Hmmmmm. Piêæ stówek i umowa stoi. Nie wolno mi przeprowadzaæ amputacji przy u¿yciu Auto-doktora. Jeœli ktoœ siê dowie, stracê pracê.}
-{331}{}{Dobra. Piêæset. A teraz usuñ go wreszcie.}
-{332}{}{To trochê drogo. Mo¿e $300?}
-{333}{}{No to trudno. Mam jeszcze kilka pytañ...}
-{334}{}{W takim razie zapomnij o ca³ej sprawie. Mo¿e zajrzê do ciebie jeszcze kiedyœ.}
-{335}{}{Niewa¿ne. Nie mam przy sobie tyle gotówki. Mo¿e wrócê póŸniej.}
-{336}{}{Có¿... w porz¹dku. Brzmi uczciwie.}
-{337}{}{W takim razie bierzmy siê do roboty. Pod³¹czê ciê tylko do doktorka... wsuñ rêce w te szczeliny. Ja zacisnê opaski i zamknê klamry...}
-{338}{}{Œciemnienie przez 3 sekundy}
-{339}{}{Twojego ma³ego przyjaciela mamy ju¿ chyba z g³owy. Przynajmniej tak¹ mam nadziejê. Trudno wycisn¹æ wszystkie zmutowane komórki ze szpiku kostnego. Tak czy inaczej - zrobione.}
-{340}{}{Cieszê siê, ¿e mam to ju¿ z g³owy. S³uchaj, interesuje mnie coœ jeszcze...}
-{341}{}{Mam tylko nadziejê, ¿e tym razem nie odroœnie.}
-{342}{}{Wielkie dziêki. Mo¿e zajrzê do ciebie jeszcze kiedyœ.}
+{315}{}{CÃ³Å¼... w porzÄ…dku. Brzmi uczciwie.}
+{316}{}{W takim razie bierzmy siÄ™ do roboty. PodÅ‚Ä…czÄ™ ciÄ™ tylko do doktorka... wsuÅ„ rÄ™ce w te szczeliny. Ja zacisnÄ™ opaski i zamknÄ™ klamry...}
+{317}{}{Åšciemnienie przez 3 sekundy}
+{318}{}{Hmmp. Stary doktorek znÃ³w odmawia wspÃ³Å‚pracy. Cholerny szmelc... CaÅ‚e szczÄ™Å›cie, Å¼e udaÅ‚o mi siÄ™ otworzyÄ‡ klamry zanim zaczÄ…Å‚ ciÄ…Ä‡. MoÅ¼e nastÄ™pnym razem pÃ³jdzie lepiej.}
+{319}{}{Co...? Oddawaj mi moje pieniÄ…dze!}
+{320}{}{Mam nadziejÄ™! Interesuje mnie coÅ› jeszcze...}
+{321}{}{Tak, moÅ¼e. WychodzÄ™.}
+{322}{}{Przykro mi - Å¼adnych gwarancji, Å¼adnych zwrotÃ³w. Ponosisz caÅ‚e ryzyko. JeÅ›li coÅ› ci nie odpowiada poskarÅ¼ siÄ™ straÅ¼nikom.}
+{323}{}{Oddawaj mi pieniÄ…dze, albo sam zaraz wylÄ…dujesz na "Starym doktorku".}
+{324}{}{Trudno. Mam jeszcze kilka pytaÅ„...}
+{325}{}{Gadaj zdrÃ³w. CzeÅ›Ä‡.}
+{326}{}{CÃ³Å¼, mogÄ™ sprÃ³bowaÄ‡. OczywiÅ›cie nie mogÄ™ rÄ™czyÄ‡ za starego doktorka na zapleczu. To ciÄ™ bÄ™dzie kosztowaÄ‡... i nie wiadomo, czy operacja wystarczy. On moÅ¼e odrosnÄ…Ä‡.}
+{327}{}{Nie obchodzi mnie to. Masz go usunÄ…Ä‡ i juÅ¼.}
+{328}{}{No to trudno. Mam jeszcze kilka pytaÅ„...}
+{329}{}{W takim razie zapomnij o caÅ‚ej sprawie. MoÅ¼e zajrzÄ™ do ciebie jeszcze kiedyÅ›.}
+{330}{}{Hmmmmm. PiÄ™Ä‡ stÃ³wek i umowa stoi. Nie wolno mi przeprowadzaÄ‡ amputacji przy uÅ¼yciu Auto-doktora. JeÅ›li ktoÅ› siÄ™ dowie, stracÄ™ pracÄ™.}
+{331}{}{Dobra. PiÄ™Ä‡set. A teraz usuÅ„ go wreszcie.}
+{332}{}{To trochÄ™ drogo. MoÅ¼e $300?}
+{333}{}{No to trudno. Mam jeszcze kilka pytaÅ„...}
+{334}{}{W takim razie zapomnij o caÅ‚ej sprawie. MoÅ¼e zajrzÄ™ do ciebie jeszcze kiedyÅ›.}
+{335}{}{NiewaÅ¼ne. Nie mam przy sobie tyle gotÃ³wki. MoÅ¼e wrÃ³cÄ™ pÃ³Åºniej.}
+{336}{}{CÃ³Å¼... w porzÄ…dku. Brzmi uczciwie.}
+{337}{}{W takim razie bierzmy siÄ™ do roboty. PodÅ‚Ä…czÄ™ ciÄ™ tylko do doktorka... wsuÅ„ rÄ™ce w te szczeliny. Ja zacisnÄ™ opaski i zamknÄ™ klamry...}
+{338}{}{Åšciemnienie przez 3 sekundy}
+{339}{}{Twojego maÅ‚ego przyjaciela mamy juÅ¼ chyba z gÅ‚owy. Przynajmniej takÄ… mam nadziejÄ™. Trudno wycisnÄ…Ä‡ wszystkie zmutowane komÃ³rki ze szpiku kostnego. Tak czy inaczej - zrobione.}
+{340}{}{CieszÄ™ siÄ™, Å¼e mam to juÅ¼ z gÅ‚owy. SÅ‚uchaj, interesuje mnie coÅ› jeszcze...}
+{341}{}{Mam tylko nadziejÄ™, Å¼e tym razem nie odroÅ›nie.}
+{342}{}{Wielkie dziÄ™ki. MoÅ¼e zajrzÄ™ do ciebie jeszcze kiedyÅ›.}
 {343}{}{Zyskujesz +2 do maksymalnej liczby PW.}
 {344}{}{Zyskujesz +4 do maksymalnej liczby PW.}
 {345}{}{Tracisz -2 do maksymalnej liczby PW.}
-{346}{}{Eee... no dobrze, ale pamiêtaj, ¿e ciê ostrzega³em. To nie jest bezpieczne!}
-{347}{}{ za was wszystkich i jesteœmy kwita. Nie mogê pomóc twojemu robomózgowi. Co ty na to?}
-{348}{}{Œwietnie! Od dziecka marzê, ¿eby wygl¹daæ jak robocop! Oto pieni¹dze i pancerz.}
-{349}{}{W porz¹dku. Zaczynamy.}
+{346}{}{Eee... no dobrze, ale pamiÄ™taj, Å¼e ciÄ™ ostrzegaÅ‚em. To nie jest bezpieczne!}
+{347}{}{ za was wszystkich i jesteÅ›my kwita. Nie mogÄ™ pomÃ³c twojemu robomÃ³zgowi. Co ty na to?}
+{348}{}{Åšwietnie! Od dziecka marzÄ™, Å¼eby wyglÄ…daÄ‡ jak robocop! Oto pieniÄ…dze i pancerz.}
+{349}{}{W porzÄ…dku. Zaczynamy.}
 {350}{}{Tracisz -4 do maksymalnej liczby PW.}
-{351}{}{Cio? Ja ci¹gle czuæ siê nie dobrze. Ja iœæ teraz spaæ.}
+{351}{}{Cio? Ja ciÄ…gle czuÄ‡ siÄ™ nie dobrze. Ja iÅ›Ä‡ teraz spaÄ‡.}
 {352}{}{Uh...dbra. Czeeee.}

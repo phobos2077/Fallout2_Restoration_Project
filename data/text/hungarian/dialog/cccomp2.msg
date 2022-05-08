@@ -1,40 +1,40 @@
 {100}{}{Technikus.}
-{101}{}{Számítógép-technikus. }
-{102}{}{Egy fickót látsz laborköpenyben. Nagyon magabiztosnak t?nik.}
+{101}{}{SzÃ¡mÃ­tÃ³gÃ©p-technikus. }
+{102}{}{Egy fickÃ³t lÃ¡tsz laborkÃ¶penyben. Nagyon magabiztosnak t?nik.}
 {103}{}{Igen, katona?}
 {104}{}{Mi lenni ez hely?}
 {105}{}{Csak beugrani. Most pedig menni.}
-{106}{}{Mi ez a hely tulajdonképpen?}
+{106}{}{Mi ez a hely tulajdonkÃ©ppen?}
 {107}{}{Csak beugrottam. Most megyek.}
-{108}{}{Ez a gépterem. Az ott a f?egység, a terminál, mellette az interfésszel, azok ott pedig a hololemez-tároló egységek.}
-{109}{}{Óh! Mit csinálni itt?}
-{110}{}{Szóval, mi a munkája itt?}
-{111}{}{A rangid?s számítógép elemz? vagyok. Ezzel a sok cuccal kell tör?dnöm, és biztosítani, hogy m?ködjenek.}
-{112}{}{H???... Lehet használni csuda nagy gép?}
-{113}{}{Nem érteni. Inkább elmenni mostan.}
-{114}{}{Mondja csak, használhatnám a gépet egy percre? Tudja, kis ellen?rzés, meg miegymás...}
-{115}{}{Jó volt beszélgetni magával. Majd még találkozunk.}
-{116}{}{Hát... nem engedhetem, hogy a képzett személyzeten kívül más is használja a gépet. Ez egy komplex és érzékeny rendszer, ugye megérted?}
-{117}{}{Kérem! Megígérni, nem rontani széjjel.}
-{118}{}{Megígérem, hogy nem vágom gallyra.}
-{119}{}{Jól van. Beléphetsz a rendszerbe azon a terminálon keresztül. De csak óvatosan, kérlek. Mindkett?nket lel?nek, ha a gépnek baja lesz. Ja, a vendégjelszó "Csacsifül".}
-{120}{}{Sajnálom, de még a hivatalos állománynak sem engedhetem meg, hogy hozzányúljon a gépekhez.}
-{121}{}{Csacsifül? Mi az a csacsifül?}
-{122}{}{Ok. Én érteni els?re.}
-{123}{}{Csacsifül? Mi a rák ez?}
-{124}{}{Oké, értem.}
-{125}{}{"Csacsifül" a barátn?m beceneve. Szerintem kedves. ? az az ?r, aki kint áll az ajtó el?tt.}
-{126}{}{Ok, jó. Köszönni.}
-{127}{}{Ja... kedves. Köszönöm.}
+{108}{}{Ez a gÃ©pterem. Az ott a f?egysÃ©g, a terminÃ¡l, mellette az interfÃ©sszel, azok ott pedig a hololemez-tÃ¡rolÃ³ egysÃ©gek.}
+{109}{}{Ã“h! Mit csinÃ¡lni itt?}
+{110}{}{SzÃ³val, mi a munkÃ¡ja itt?}
+{111}{}{A rangid?s szÃ¡mÃ­tÃ³gÃ©p elemz? vagyok. Ezzel a sok cuccal kell tÃ¶r?dnÃ¶m, Ã©s biztosÃ­tani, hogy m?kÃ¶djenek.}
+{112}{}{H???... Lehet hasznÃ¡lni csuda nagy gÃ©p?}
+{113}{}{Nem Ã©rteni. InkÃ¡bb elmenni mostan.}
+{114}{}{Mondja csak, hasznÃ¡lhatnÃ¡m a gÃ©pet egy percre? Tudja, kis ellen?rzÃ©s, meg miegymÃ¡s...}
+{115}{}{JÃ³ volt beszÃ©lgetni magÃ¡val. Majd mÃ©g talÃ¡lkozunk.}
+{116}{}{HÃ¡t... nem engedhetem, hogy a kÃ©pzett szemÃ©lyzeten kÃ­vÃ¼l mÃ¡s is hasznÃ¡lja a gÃ©pet. Ez egy komplex Ã©s Ã©rzÃ©keny rendszer, ugye megÃ©rted?}
+{117}{}{KÃ©rem! MegÃ­gÃ©rni, nem rontani szÃ©jjel.}
+{118}{}{MegÃ­gÃ©rem, hogy nem vÃ¡gom gallyra.}
+{119}{}{JÃ³l van. BelÃ©phetsz a rendszerbe azon a terminÃ¡lon keresztÃ¼l. De csak Ã³vatosan, kÃ©rlek. Mindkett?nket lel?nek, ha a gÃ©pnek baja lesz. Ja, a vendÃ©gjelszÃ³ "CsacsifÃ¼l".}
+{120}{}{SajnÃ¡lom, de mÃ©g a hivatalos Ã¡llomÃ¡nynak sem engedhetem meg, hogy hozzÃ¡nyÃºljon a gÃ©pekhez.}
+{121}{}{CsacsifÃ¼l? Mi az a csacsifÃ¼l?}
+{122}{}{Ok. Ã‰n Ã©rteni els?re.}
+{123}{}{CsacsifÃ¼l? Mi a rÃ¡k ez?}
+{124}{}{OkÃ©, Ã©rtem.}
+{125}{}{"CsacsifÃ¼l" a barÃ¡tn?m beceneve. Szerintem kedves. ? az az ?r, aki kint Ã¡ll az ajtÃ³ el?tt.}
+{126}{}{Ok, jÃ³. KÃ¶szÃ¶nni.}
+{127}{}{Ja... kedves. KÃ¶szÃ¶nÃ¶m.}
 {128}{}{You're out of uniform. }
-{129}{}{Jobb lenne, ha felöltözne. A fegyvertár a terem végén van balra.}
-{130}{}{Nagy kockázatot válalsz, ha csak így flangálsz itt. Vegyél fel egy páncélt!}
-{131}{}{Kik ezek a fickók?... Behatolók! Riadó!}
-{132}{}{Megtámadtak bennünket! Riadó!}
-{133}{}{Behatolók! Riadó!}
-{134}{}{Picsába! Kezdjük gyorsan az archiválást!}
+{129}{}{Jobb lenne, ha felÃ¶ltÃ¶zne. A fegyvertÃ¡r a terem vÃ©gÃ©n van balra.}
+{130}{}{Nagy kockÃ¡zatot vÃ¡lalsz, ha csak Ã­gy flangÃ¡lsz itt. VegyÃ©l fel egy pÃ¡ncÃ©lt!}
+{131}{}{Kik ezek a fickÃ³k?... BehatolÃ³k! RiadÃ³!}
+{132}{}{MegtÃ¡madtak bennÃ¼nket! RiadÃ³!}
+{133}{}{BehatolÃ³k! RiadÃ³!}
+{134}{}{PicsÃ¡ba! KezdjÃ¼k gyorsan az archivÃ¡lÃ¡st!}
 {135}{}{Minden titkos m?veletet hagyjatok abba}
-{136}{}{Biztosítsátok a rendszert!}
-{137}{}{Tudós vagyok, nem katona!}
-{138}{}{"A hegyes végén lév? lézerdiódát irányítsa rá a célpontra, aztán húzza meg a ravaszt!"}
-{139}{}{Segítség! Er?sítést a számítógép-laborba!}
+{136}{}{BiztosÃ­tsÃ¡tok a rendszert!}
+{137}{}{TudÃ³s vagyok, nem katona!}
+{138}{}{"A hegyes vÃ©gÃ©n lÃ©v? lÃ©zerdiÃ³dÃ¡t irÃ¡nyÃ­tsa rÃ¡ a cÃ©lpontra, aztÃ¡n hÃºzza meg a ravaszt!"}
+{139}{}{SegÃ­tsÃ©g! Er?sÃ­tÃ©st a szÃ¡mÃ­tÃ³gÃ©p-laborba!}

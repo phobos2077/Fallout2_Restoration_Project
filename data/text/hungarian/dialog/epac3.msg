@@ -18,10 +18,10 @@
  through here since the war, and, here's the real kicker: were you to actually request toast, I'm not even sure I'd be up
  for the task. You see, I'm feeling a little under the weather inside. It's rather embarrassing, really.}
 {251}{}{That's, uh, quite tragic. So, why are you here?}
-{252}{}{…rtem. Kˆsz, hogy id?t szakÌtott·l r·m.}
+{252}{}{√ârtem. K√∂sz, hogy id?t szak√≠tott√°l r√°m.}
 {260}{}{I think he had a consignment of gas masks brought in before the accident. Some people even said that it was his errors that caused the problem in the first place.}
 {261}{}{So, why are you here?}
-{262}{}{Kˆszˆnˆm az inform·ciÛkat.}
+{262}{}{K√∂sz√∂n√∂m az inform√°ci√≥kat.}
 {270}{}{Why, to make your mornings as cheerful as they can be! Say, after all this talking you wouldn't happen to have made some room
  in your stomach for some toast after all, have you?}
 {271}{}{I thought we got past this!! I'm not hungry and never will be. So, why are you REALLY here?}
@@ -30,7 +30,7 @@
  why I happen to be sitting here with a wire hanging from my side, well, it seems Mr. Handy doesn't always live up to his
  namesake -- the bloke started breaking down right in the middle of my annual maintenance checkup. Of course, he scuttled off
  to a maintenance bay and left me hanging.}
-{281}{}{…rtem. Kˆsz, hogy feltarthattalak.}
+{281}{}{√ârtem. K√∂sz, hogy feltarthattalak.}
 {290}{}{Not a problem. Do stop by again. Maybe then you'll be hungry.}
 {291}{}{I doubt it. Bye.}
 {300}{}{I knew you you'd be back. They always are. So, do you want any toast now?}
@@ -38,15 +38,15 @@
 {302}{}{Not right now. I need to ask you something.}
 {303}{}{Nope. I must be going.}
 {310}{}{Sure, what would you like to know? I hope it's about toast.}
-{311}{}{Mi ez a hely tulajdonkÈppen?}
-{312}{}{Felejts¸k el! Viszl·t.}
+{311}{}{Mi ez a hely tulajdonk√©ppen?}
+{312}{}{Felejts√ºk el! Viszl√°t.}
 {350}{}{Hey, you fixed me! I knew Mr. Handy left the job unfinished. Now I feel better than ever! Thanks.}
 {351}{}{Sure, it's what I do. See you later.}
 {352}{}{Now hold on there. If you won't let me reward you with toast, then at least allow me give you a little tip. You
  know those slot machines you find in casinos? Well, I calculated a method that can jinx the machines out of their cash.
  I have an IQ of 6000, you know. When I'm not making toast, I like to ponder these kinds of things. For helping me out,
  I'll tell you these secret codes. Just use one of the machines like you normally would and...}
-{353}{}{[TOV¡BB]}
+{353}{}{[TOV√ÅBB]}
 {354}{}{...And that's all there is to it. You'll be rich in no time, eating toast to your heart's content.}
 {355}{}{Thanks. I appreciate this. So long.}
 {400}{}{You successfully repair the toaster.}

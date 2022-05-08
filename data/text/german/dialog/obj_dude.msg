@@ -1,21 +1,21 @@
 {100}{}{}
 {101}{}{}
-{110}{}{Deine Füße jucken fürchterlich.}
-{120}{}{Du entdeckst störende Schwellungen an jedem Fuß.}
-{130}{}{Deine Schuhe sind plötzlich zu eng, diese Schwellungen entzünden sich.}
-{140}{}{Diese Schwellungen an den Füßen scheinen sich zu einem sechsten Zeh auszuwachsen. Aber zumindest ist der ständige brennende Schmerz weg.}
+{110}{}{Deine FÃ¼ÃŸe jucken fÃ¼rchterlich.}
+{120}{}{Du entdeckst stÃ¶rende Schwellungen an jedem FuÃŸ.}
+{130}{}{Deine Schuhe sind plÃ¶tzlich zu eng, diese Schwellungen entzÃ¼nden sich.}
+{140}{}{Diese Schwellungen an den FÃ¼ÃŸen scheinen sich zu einem sechsten Zeh auszuwachsen. Aber zumindest ist der stÃ¤ndige brennende Schmerz weg.}
 {141}{}{Oh mein Gott, das ist ja Bess!}
-{150}{}{Du erhältst }
+{150}{}{Du erhÃ¤ltst }
 {151}{}{ Erfahrungspunkte, weil du das GECK gefunden hast.}
 {400}{}{Du kapierst nichts vom Text, aber die Bilder sind recht informativ.}
-{500}{}{Du bist süchtig nach Alkohol. Die Gier nach Alkohol wird dich bald vernichten.}
-{600}{}{In deinem Magen fühlt sich etwas nicht richtig an.}
-{601}{}{Du spürst einen starken Druck in deinem Magen.}
-{700}{}{Du fügst die zerrissenen Papierstücke zusammen, um eine Liste mit drei Passwörtern zu erhalten.}
+{500}{}{Du bist sÃ¼chtig nach Alkohol. Die Gier nach Alkohol wird dich bald vernichten.}
+{600}{}{In deinem Magen fÃ¼hlt sich etwas nicht richtig an.}
+{601}{}{Du spÃ¼rst einen starken Druck in deinem Magen.}
+{700}{}{Du fÃ¼gst die zerrissenen PapierstÃ¼cke zusammen, um eine Liste mit drei PasswÃ¶rtern zu erhalten.}
 {800}{}{Das Verlangen wird immer schlimmer.}
 {801}{}{You've got the shakes. You have this intense urge to drink something with alcohol in it.}
 {802}{}{You feel as if a great burden has been lifted from your mind. No longer do you crave the need to drink alcohol.}
-{900}{}{In deinem Magen fühlt sich etwas nicht richtig an.}
-{901}{}{Du spürst einen starken Druck in deinem Magen.}
-{1000}{}{Du kannst nicht klar denken. Du fühlst das brennende Verlangen, noch eine Schachtel Tragic Karten zu öffnen.}
+{900}{}{In deinem Magen fÃ¼hlt sich etwas nicht richtig an.}
+{901}{}{Du spÃ¼rst einen starken Druck in deinem Magen.}
+{1000}{}{Du kannst nicht klar denken. Du fÃ¼hlst das brennende Verlangen, noch eine Schachtel Tragic Karten zu Ã¶ffnen.}
 {1001}{}{You feel as if a great burden has been lifted from your mind. No longer is Tragic a constant part of your thoughts.}

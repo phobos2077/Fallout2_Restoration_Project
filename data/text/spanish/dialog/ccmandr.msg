@@ -1,58 +1,58 @@
 {100}{}{Ves a alguien con servoarmadura. }
 {101}{}{Ves al comandante de la base de Navarro.}
-{102}{}{Ves a alguien que lleva una servoarmadura de diseño inusual. Lleva una insignia en el peto con la que no estás familiarizado.}
-{103}{}{¿Quién demonios sois...? ¡Alerta! ¡Intrusos en la base!}
+{102}{}{Ves a alguien que lleva una servoarmadura de diseÃ±o inusual. Lleva una insignia en el peto con la que no estÃ¡s familiarizado.}
+{103}{}{Â¿QuiÃ©n demonios sois...? Â¡Alerta! Â¡Intrusos en la base!}
 {104}{}{No tengo tiempo para charlas con soldados. Puedes retirarte.}
 {105}{}{Hora de morir.}
 {106}{}{Vale.}
-{107}{}{Ya te dije que no tengo tiempo. Abandona esta oficina y no vuelvas a menos que te haga llamar. ¡Retírate!}
-{108}{}{Desobedecer la orden directa de un superior se considera traición. No tengo tiempo para consejos de guerra, así que me ocuparé personalmente de esto. ¡Guardias! ¡Matad a este idiota!}
+{107}{}{Ya te dije que no tengo tiempo. Abandona esta oficina y no vuelvas a menos que te haga llamar. Â¡RetÃ­rate!}
+{108}{}{Desobedecer la orden directa de un superior se considera traiciÃ³n. No tengo tiempo para consejos de guerra, asÃ­ que me ocuparÃ© personalmente de esto. Â¡Guardias! Â¡Matad a este idiota!}
 {109}{}{Vale.}
-{110}{}{¡Que te jodan!}
-{111}{}{El FOB está en el casillero de ahí. Dile al oficial al cargo que contacte conmigo una vez esté asegurado. ¡Retírate!}
-{112}{}{¡Sí, señor!}
-{113}{}{Date prisa, soldado, no tengo todo el día.}
-{114}{}{¡Sí, señor!}
-{115}{}{Deja mi casillero tranquilo o te daré una buena paliza.}
-{116}{}{¡Sí, señor!}
-{117}{}{Esta base está en alerta y no te reconozco. Enséñame tus papeles, soldado.}
-{118}{}{¿Qué papeles?}
-{119}{}{¡Chúpamela!}
+{110}{}{Â¡Que te jodan!}
+{111}{}{El FOB estÃ¡ en el casillero de ahÃ­. Dile al oficial al cargo que contacte conmigo una vez estÃ© asegurado. Â¡RetÃ­rate!}
+{112}{}{Â¡SÃ­, seÃ±or!}
+{113}{}{Date prisa, soldado, no tengo todo el dÃ­a.}
+{114}{}{Â¡SÃ­, seÃ±or!}
+{115}{}{Deja mi casillero tranquilo o te darÃ© una buena paliza.}
+{116}{}{Â¡SÃ­, seÃ±or!}
+{117}{}{Esta base estÃ¡ en alerta y no te reconozco. EnsÃ©Ã±ame tus papeles, soldado.}
+{118}{}{Â¿QuÃ© papeles?}
+{119}{}{Â¡ChÃºpamela!}
 {120}{}{Creo que no los llevo encima...}
-{121}{}{¿Papeles? ¡Tengo tus papeles aquí mismo!}
-{122}{}{Respuesta errónea, gusano. Debes llevar tus papales contigo en todo momento. ¡Deberías saberlo!}
+{121}{}{Â¿Papeles? Â¡Tengo tus papeles aquÃ­ mismo!}
+{122}{}{Respuesta errÃ³nea, gusano. Debes llevar tus papales contigo en todo momento. Â¡DeberÃ­as saberlo!}
 {123}{}{Vete a la mierda.}
-{124}{}{Deja mi casillero tranquilo o te daré una buena paliza.}
+{124}{}{Deja mi casillero tranquilo o te darÃ© una buena paliza.}
 {125}{}{Hora de morir.}
-{200}{}{Muy bien, vamos a terminar con esto--no me gusta muties apestando mi oficina, y me tienes nada que hacer. ¿Trabajas
+{200}{}{Muy bien, vamos a terminar con esto--no me gusta muties apestando mi oficina, y me tienes nada que hacer. Â¿Trabajas
  para los Salvatores? }
-{201}{}{Nada que te incumba, Imbécil.}
+{201}{}{Nada que te incumba, ImbÃ©cil.}
 {202}{}{No trabajo para nadie.}
-{203}{}{¿Y qué si es así?}
-{204}{}{Sí, trabajo para los Salvatores.}
-{205}{}{Antes de responder a cualquier pregunta, tengo algunas de las mías.}
-{210}{}{No tengo tiempo para esta mierda. ¡Guardias! ¡Maten a este muti!}
-{220}{}{Entonces, ¿estás diciendo que no eres más que una rata vagabunda que pasó por uno de nuestros vertibird?}
-{221}{}{Uh, sí, más o menos. . . a excepción de esa parte sobre mí siendo una rata.}
-{222}{}{Así es.}
-{223}{}{No, estoy diciendo que todo esto es solo un gran malentendido. No sé quienes son ustedes, y no me importa. Entonces, si no te importa, me ire ahora.}
-{230}{}{Bien, si estás actuando solo, entonces no tengo que perder otro segundo de mi tiempo contigo. ¡Guardias! Maten a este muti!}
-{240}{}{No te vas a ir de aquí vivo, mutante. No podría arriesgarme a que cuentes la ubicación de esta base a todos tus amigos del Yermo, ¿no? ¡Guardias! Maten a este muti!}
-{250}{}{Dime lo que quiero saber, y me aseguraré de que tu muerte sea rápida y ... relativamente indoloro. ¿Salvatore te metió en esto?}
-{251}{}{Uhh. . . ¿no? Espera, si. Tal vez.}
-{252}{}{Nop. Jugar al escondite en tu máquina voladora fue idea mía. Genio, lo sé.}
-{253}{}{Sí, pensó que endulzaría el negocio enviándome. Qué trato, ¿eh?}
-{254}{}{Antes de responder a cualquier pregunta, tengo algunas de las mías.}
-{260}{}{No tengo tiempo para esta mierda. ¡Guardias! ¡Maten a este muti!}
-{270}{}{¿Se supone que es gracioso, mutante? Creo que serás mucho más divertido para mí cuando seas un sangriento cadáver. ¡Guardias! Maten a este muti!}
-{280}{}{Oh, ¿tú? [Él se ríe.] Bien, ¿por qué no? Te estás muriendo de todos modos. ¿Qué quieres saber, mutante?}
-{281}{}{¿Por qué sigues llamándome mutante?}
-{282}{}{¿Quién diablos sois vosotros?}
-{283}{}{¿Dónde estoy?}
-{284}{}{¿Cómo puedo conseguir esa preciosa armadura?}
-{285}{}{Ya he oído bastante.}
-{290}{}{Porque lo ERES. Claro, puede que te veas un poco humano, pero no dejes que eso te engañe. Aún eres un mutante. Usted y todos los demás en el continente. Todos contaminado. ¿Próxima pregunta?}
-{300}{}{Somos el Enclave, el último bastión de la verdadera humanidad en este maldito planeta. Somos los únicos que seguimos manteniendo el honor de los viejos rojos, blancos y azules. Así es, somos verdaderos patriotas. Comemos águilas calvas y defecamos estrellas y rayas. Somos todo lo que queda de los grandes Estados Unidos de América. Pero somos suficientes. Oh, sí, somos los suficientes para arreglar las cosas. Puedes contar con eso, muti. ¿Próxima pregunta?}
-{310}{}{Aquí está Navarro, nuestra base secreta en tierra firme. Estamos sentados en la costa de California y el océano Pacífico. ¿Próxima pregunta?}
-{320}{}{Tomándolo de mi cadáver. Buena suerte con eso, muti. ¿Próxima pregunta?}
-{330}{}{Bien, porque estoy muy cansado de perder el aliento con un mutante. De hecho, todo esto es una pérdida de tiempo, porque no me importa una mierda lo que tienes que decirme. ¡Guardias! Maten a este muti!}
+{203}{}{Â¿Y quÃ© si es asÃ­?}
+{204}{}{SÃ­, trabajo para los Salvatores.}
+{205}{}{Antes de responder a cualquier pregunta, tengo algunas de las mÃ­as.}
+{210}{}{No tengo tiempo para esta mierda. Â¡Guardias! Â¡Maten a este muti!}
+{220}{}{Entonces, Â¿estÃ¡s diciendo que no eres mÃ¡s que una rata vagabunda que pasÃ³ por uno de nuestros vertibird?}
+{221}{}{Uh, sÃ­, mÃ¡s o menos. . . a excepciÃ³n de esa parte sobre mÃ­ siendo una rata.}
+{222}{}{AsÃ­ es.}
+{223}{}{No, estoy diciendo que todo esto es solo un gran malentendido. No sÃ© quienes son ustedes, y no me importa. Entonces, si no te importa, me ire ahora.}
+{230}{}{Bien, si estÃ¡s actuando solo, entonces no tengo que perder otro segundo de mi tiempo contigo. Â¡Guardias! Maten a este muti!}
+{240}{}{No te vas a ir de aquÃ­ vivo, mutante. No podrÃ­a arriesgarme a que cuentes la ubicaciÃ³n de esta base a todos tus amigos del Yermo, Â¿no? Â¡Guardias! Maten a este muti!}
+{250}{}{Dime lo que quiero saber, y me asegurarÃ© de que tu muerte sea rÃ¡pida y ... relativamente indoloro. Â¿Salvatore te metiÃ³ en esto?}
+{251}{}{Uhh. . . Â¿no? Espera, si. Tal vez.}
+{252}{}{Nop. Jugar al escondite en tu mÃ¡quina voladora fue idea mÃ­a. Genio, lo sÃ©.}
+{253}{}{SÃ­, pensÃ³ que endulzarÃ­a el negocio enviÃ¡ndome. QuÃ© trato, Â¿eh?}
+{254}{}{Antes de responder a cualquier pregunta, tengo algunas de las mÃ­as.}
+{260}{}{No tengo tiempo para esta mierda. Â¡Guardias! Â¡Maten a este muti!}
+{270}{}{Â¿Se supone que es gracioso, mutante? Creo que serÃ¡s mucho mÃ¡s divertido para mÃ­ cuando seas un sangriento cadÃ¡ver. Â¡Guardias! Maten a este muti!}
+{280}{}{Oh, Â¿tÃº? [Ã‰l se rÃ­e.] Bien, Â¿por quÃ© no? Te estÃ¡s muriendo de todos modos. Â¿QuÃ© quieres saber, mutante?}
+{281}{}{Â¿Por quÃ© sigues llamÃ¡ndome mutante?}
+{282}{}{Â¿QuiÃ©n diablos sois vosotros?}
+{283}{}{Â¿DÃ³nde estoy?}
+{284}{}{Â¿CÃ³mo puedo conseguir esa preciosa armadura?}
+{285}{}{Ya he oÃ­do bastante.}
+{290}{}{Porque lo ERES. Claro, puede que te veas un poco humano, pero no dejes que eso te engaÃ±e. AÃºn eres un mutante. Usted y todos los demÃ¡s en el continente. Todos contaminado. Â¿PrÃ³xima pregunta?}
+{300}{}{Somos el Enclave, el Ãºltimo bastiÃ³n de la verdadera humanidad en este maldito planeta. Somos los Ãºnicos que seguimos manteniendo el honor de los viejos rojos, blancos y azules. AsÃ­ es, somos verdaderos patriotas. Comemos Ã¡guilas calvas y defecamos estrellas y rayas. Somos todo lo que queda de los grandes Estados Unidos de AmÃ©rica. Pero somos suficientes. Oh, sÃ­, somos los suficientes para arreglar las cosas. Puedes contar con eso, muti. Â¿PrÃ³xima pregunta?}
+{310}{}{AquÃ­ estÃ¡ Navarro, nuestra base secreta en tierra firme. Estamos sentados en la costa de California y el ocÃ©ano PacÃ­fico. Â¿PrÃ³xima pregunta?}
+{320}{}{TomÃ¡ndolo de mi cadÃ¡ver. Buena suerte con eso, muti. Â¿PrÃ³xima pregunta?}
+{330}{}{Bien, porque estoy muy cansado de perder el aliento con un mutante. De hecho, todo esto es una pÃ©rdida de tiempo, porque no me importa una mierda lo que tienes que decirme. Â¡Guardias! Maten a este muti!}

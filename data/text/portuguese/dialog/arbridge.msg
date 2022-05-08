@@ -1,1 +1,1 @@
-{100}{}{Você está em pé na Grande Ponte, passagem de a sua aldeia para o vasto Deserto.}
+{100}{}{VocÃª estÃ¡ em pÃ© na Grande Ponte, passagem de a sua aldeia para o vasto Deserto.}

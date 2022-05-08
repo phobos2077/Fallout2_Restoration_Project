@@ -1,81 +1,81 @@
-{100}{}{Você vê um homem com um uniforme militar.}
-{101}{}{Você vê Quincy, o mecânico.}
-{102}{}{Você vê um homem com um uniforme militar. A julgar pelas manchas de graxa você acha
-ele é mais mecânico do que um soldado.}
-{103}{}{Nome Quincy, soldado. Por que você está batendo no meu ombro e está perdido?}
+{100}{}{VocÃª vÃª um homem com um uniforme militar.}
+{101}{}{VocÃª vÃª Quincy, o mecÃ¢nico.}
+{102}{}{VocÃª vÃª um homem com um uniforme militar. A julgar pelas manchas de graxa vocÃª acha
+ele Ã© mais mecÃ¢nico do que um soldado.}
+{103}{}{Nome Quincy, soldado. Por que vocÃª estÃ¡ batendo no meu ombro e estÃ¡ perdido?}
 {104}{}{Me preciso perguntar uma coisa.}
 {105}{}{Nada.}
-{106}{}{Olá. Eu preciso perguntar uma coisa.}
-{107}{}{Não importa.}
-{108}{}{Tudo bem, mas faça isso rápido. Tenho estoque para fazer.}
-{109}{}{O que você precisa saber?}
+{106}{}{OlÃ¡. Eu preciso perguntar uma coisa.}
+{107}{}{NÃ£o importa.}
+{108}{}{Tudo bem, mas faÃ§a isso rÃ¡pido. Tenho estoque para fazer.}
+{109}{}{O que vocÃª precisa saber?}
 {110}{}{O que este lugar?}
 {111}{}{- Me olhar para vertibird planos. Onde encontrar?}
-{112}{}{Técnico disse eu encontrar planos de vertibird aqui.}
+{112}{}{TÃ©cnico disse eu encontrar planos de vertibird aqui.}
 {113}{}{Eu vou agora.}
-{114}{}{O que é este lugar?}
-{115}{}{Estou à procura de planos vertibird. Você sabe onde eu posso encontrá-los?}
-{116}{}{Foi-me dito por um técnico que eu poderia encontrar os planos vertibird aqui.}
+{114}{}{O que Ã© este lugar?}
+{115}{}{Estou Ã  procura de planos vertibird. VocÃª sabe onde eu posso encontrÃ¡-los?}
+{116}{}{Foi-me dito por um tÃ©cnico que eu poderia encontrar os planos vertibird aqui.}
 {117}{}{Bem, tenho que ir.}
-{118}{}{Isso é manutenção. Reparamos praticamente qualquer coisa, exceto os vertibirds.}
-{119}{}{Onde o vertibird é reparado?}
-{120}{}{Onde os vertibirds são reparados?}
-{121}{}{Eles apenas se encaixam no hangar ou ao ar livre. Você descobriu a partir daí, ok?}
+{118}{}{Isso Ã© manutenÃ§Ã£o. Reparamos praticamente qualquer coisa, exceto os vertibirds.}
+{119}{}{Onde o vertibird Ã© reparado?}
+{120}{}{Onde os vertibirds sÃ£o reparados?}
+{121}{}{Eles apenas se encaixam no hangar ou ao ar livre. VocÃª descobriu a partir daÃ­, ok?}
 {122}{}{Ah... tudo bem.}
 {123}{}{Oh, sim. Eu entendi.}
-{124}{}{Bem ... eu tenho uma cópia dos planos, mas não posso apenas entregá-los para
-  qualquer pessoa que os solicite. O que você quer com eles?}
-{125}{}{Me tem amigos lá no sul que querem.}
+{124}{}{Bem ... eu tenho uma cÃ³pia dos planos, mas nÃ£o posso apenas entregÃ¡-los para
+Â  qualquer pessoa que os solicite. O que vocÃª quer com eles?}
+{125}{}{Me tem amigos lÃ¡ no sul que querem.}
 {126}{}{Uh... bem...}
-{127}{}{Tenho alguns amigos no sul que querem colocar as mãos sobre eles.}
-{128}{}{Foi-me dito pelo Sarge para obtê-los.}
-{129}{}{Mais para o sul... puta merda! Temos um espião aqui! Guardas! Alerta!}
+{127}{}{Tenho alguns amigos no sul que querem colocar as mÃ£os sobre eles.}
+{128}{}{Foi-me dito pelo Sarge para obtÃª-los.}
+{129}{}{Mais para o sul... puta merda! Temos um espiÃ£o aqui! Guardas! Alerta!}
 {130}{}{Opa.}
-{131}{}{Ooops. Atolei meu pé dessa vez.}
-{132}{}{Você está a uma curta distância de um clipe completo, não é? Bem, eles te chamam
-  grunhidos por um motivo. Olha, Einstein, não posso te dar os planos sem
-  autorização, está bem? Então, volte para quem o enviou aqui e obtenha a
-  papelada.}
-{133}{}{Olha, Einstein, eu não posso dar-lhe os planos, sem autorização, ok? Então, vá de volta para quem enviou você aqui e pegue a documentação necessária.}
+{131}{}{Ooops. Atolei meu pÃ© dessa vez.}
+{132}{}{VocÃª estÃ¡ a uma curta distÃ¢ncia de um clipe completo, nÃ£o Ã©? Bem, eles te chamam
+Â  grunhidos por um motivo. Olha, Einstein, nÃ£o posso te dar os planos sem
+Â  autorizaÃ§Ã£o, estÃ¡ bem? EntÃ£o, volte para quem o enviou aqui e obtenha a
+Â  papelada.}
+{133}{}{Olha, Einstein, eu nÃ£o posso dar-lhe os planos, sem autorizaÃ§Ã£o, ok? EntÃ£o, vÃ¡ de volta para quem enviou vocÃª aqui e pegue a documentaÃ§Ã£o necessÃ¡ria.}
 {134}{}{Ok, eu vou.}
-{135}{}{Não, me atirar em você, primeiro, encontrar planos de segundo, e então... o que vem depois de dois?}
-{136}{}{Ei, você entendeu.}
-{137}{}{Não, acho que vou atirar em você e olhar em volta para os planos enquanto
-  você sangra.}
-{138}{}{Uma tecnica disse ... Você quer dizer Raul? Ele enviou você?}
+{135}{}{NÃ£o, me atirar em vocÃª, primeiro, encontrar planos de segundo, e entÃ£o... o que vem depois de dois?}
+{136}{}{Ei, vocÃª entendeu.}
+{137}{}{NÃ£o, acho que vou atirar em vocÃª e olhar em volta para os planos enquanto
+Â  vocÃª sangra.}
+{138}{}{Uma tecnica disse ... VocÃª quer dizer Raul? Ele enviou vocÃª?}
 {139}{}{Uh... sim.}
-{140}{}{Uh, não.}
-{141}{}{Sim, esse é o cara.}
-{142}{}{Não, eu não acho que foi Raul.}
-{143}{}{Droga! Você sabe, Raul perderia a cabeça se não fosse colocada tão
-  firmemente na sua bunda! Esta é a terceira vez que ele perdeu aqueles
-  planos! E agora ele nem sequer tem as bolas para vir até mim
-  e pedir por eles? Tudo bem, eles estão no armário lá. Ah, e quando você
-  entregar a ele, conte a esse idiota que eu quero vê-lo.}
+{140}{}{Uh, nÃ£o.}
+{141}{}{Sim, esse Ã© o cara.}
+{142}{}{NÃ£o, eu nÃ£o acho que foi Raul.}
+{143}{}{Droga! VocÃª sabe, Raul perderia a cabeÃ§a se nÃ£o fosse colocada tÃ£o
+Â  firmemente na sua bunda! Esta Ã© a terceira vez que ele perdeu aqueles
+Â  planos! E agora ele nem sequer tem as bolas para vir atÃ© mim
+Â  e pedir por eles? Tudo bem, eles estÃ£o no armÃ¡rio lÃ¡. Ah, e quando vocÃª
+Â  entregar a ele, conte a esse idiota que eu quero vÃª-lo.}
 {144}{}{Obrigado.}
-{145}{}{Então você está de volta. Você conseguiu a autorização?}
-{146}{}{Você de novo? O que é isso agora?}
-{147}{}{Sim, eu tenho um rifle de plasma. Que é bom o suficiente para mim!}
-{148}{}{Não, ainda não.}
-{149}{}{Sim, tenho uma grande e foda arma. Isso é bom o suficiente para mim!}
-{150}{}{Não, ainda não.}
+{145}{}{EntÃ£o vocÃª estÃ¡ de volta. VocÃª conseguiu a autorizaÃ§Ã£o?}
+{146}{}{VocÃª de novo? O que Ã© isso agora?}
+{147}{}{Sim, eu tenho um rifle de plasma. Que Ã© bom o suficiente para mim!}
+{148}{}{NÃ£o, ainda nÃ£o.}
+{149}{}{Sim, tenho uma grande e foda arma. Isso Ã© bom o suficiente para mim!}
+{150}{}{NÃ£o, ainda nÃ£o.}
 {151}{}{- Me perguntar-lhe algo.}
 {152}{}{- Me apenas dizer 'Oi'.}
 {153}{}{Eu preciso perguntar uma coisa.}
 {154}{}{Nada, apenas dizendo 'Oi'.}
-{155}{}{Você é louco? Andando aqui fora de uniforme? Seja adequado!}
+{155}{}{VocÃª Ã© louco? Andando aqui fora de uniforme? Seja adequado!}
 {156}{}{Se o sargento o pegar fora do uniforme, ele vai entregar seu traseiro.}
-{157}{}{Por que você está fora de uniforme?}
+{157}{}{Por que vocÃª estÃ¡ fora de uniforme?}
 {158}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {159}{}{Intrusos! Chamar a guarda!!}
-{160}{}{Guarda! Intrusos na manutenção!}
-{161}{}{O que é? Estamos sob ataque?}
-{162}{}{Por isso o alerta? O que está acontecendo?}
-{163}{}{O que diabos está acontecendo?}
-{164}{}{Hey! Não se atreva a vasculhar as gavetas.}
-{165}{}{Eu lhe disse para não mexer com as minhas coisas! Guardas!}
-{200}{}{Sim. Bem, não acredite em tudo que você ouve.}
-{201}{}{Quem te disse isso? Porque ele é o próximo depois que eu toque um pouco de senso em você.}
-{300}{}{Você não vê que estou ocupado?}
-{301}{}{Hey! Não se atreva a vasculhar as gavetas!}
-{302}{}{Eu lhe disse para não mexer com as minhas coisas! Guardas!}
+{160}{}{Guarda! Intrusos na manutenÃ§Ã£o!}
+{161}{}{O que Ã©? Estamos sob ataque?}
+{162}{}{Por isso o alerta? O que estÃ¡ acontecendo?}
+{163}{}{O que diabos estÃ¡ acontecendo?}
+{164}{}{Hey! NÃ£o se atreva a vasculhar as gavetas.}
+{165}{}{Eu lhe disse para nÃ£o mexer com as minhas coisas! Guardas!}
+{200}{}{Sim. Bem, nÃ£o acredite em tudo que vocÃª ouve.}
+{201}{}{Quem te disse isso? Porque ele Ã© o prÃ³ximo depois que eu toque um pouco de senso em vocÃª.}
+{300}{}{VocÃª nÃ£o vÃª que estou ocupado?}
+{301}{}{Hey! NÃ£o se atreva a vasculhar as gavetas!}
+{302}{}{Eu lhe disse para nÃ£o mexer com as minhas coisas! Guardas!}

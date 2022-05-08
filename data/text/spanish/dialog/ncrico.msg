@@ -1,6 +1,6 @@
-{100}{}{Ves a un matón grandote.}
+{100}{}{Ves a un matÃ³n grandote.}
 {101}{}{Ves a Rico.}
-{150}{}{Ves a un hombre grande, de rostro pétreo. Parece capaz de masticar ladrillos.}
+{150}{}{Ves a un hombre grande, de rostro pÃ©treo. Parece capaz de masticar ladrillos.}
 {151}{}{Ves a Rico, el guardaespaldas de Monte. Parece capaz de masticar ladrillos.}
 {175}{}{Hurggg}
 {176}{}{Hnrfff}
@@ -8,19 +8,19 @@
 {178}{}{Urb-luu}
 {179}{}{Klurgggg}
 {180}{}{Oog}
-{200}{}{Yo amigo de Monte. ¿TÚ amigo de Monte?}
-{201}{}{Me golpeó a la gente. Monte me dice.}
-{202}{}{Me golpeó a la gente.}
-{203}{}{Me pegó con los puños como tocar el tambor.}
+{200}{}{Yo amigo de Monte. Â¿TÃš amigo de Monte?}
+{201}{}{Me golpeÃ³ a la gente. Monte me dice.}
+{202}{}{Me golpeÃ³ a la gente.}
+{203}{}{Me pegÃ³ con los puÃ±os como tocar el tambor.}
 {204}{}{Me gusta golpear.}
-{205}{}{::Sonríe con su boca desdentada::}
+{205}{}{::SonrÃ­e con su boca desdentada::}
 {206}{}{::Se rasca::}
-{207}{}{::Muestra los músculos::}
+{207}{}{::Muestra los mÃºsculos::}
 {208}{}{Grunt.}
 {209}{}{Grrr - Grrr}
 {210}{}{No gusto hablar.}
 {211}{}{Yoo olor guuud...}
-{212}{}{Yoo huele a mamá.}
-{213}{}{Yoo lindo. No Me golpeó.}
+{212}{}{Yoo huele a mamÃ¡.}
+{213}{}{Yoo lindo. No Me golpeÃ³.}
 {214}{}{Yoo me hacen sonrojar...}
 {215}{}{Uhhh...Yo Rico...}

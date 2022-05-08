@@ -1,16 +1,16 @@
-{100}{}{Você abre o armário e encontra linhas de arquivos e anotações.}
-{101}{}{Pesquisa da cômoda.}
+{100}{}{VocÃª abre o armÃ¡rio e encontra linhas de arquivos e anotaÃ§Ãµes.}
+{101}{}{Pesquisa da cÃ´moda.}
 {102}{}{Deixar.}
-{103}{}{Enquanto vasculha os registros na cômoda, você percebe uma maleta de couro fina cuidadosamente enfiada no fundo.}
+{103}{}{Enquanto vasculha os registros na cÃ´moda, vocÃª percebe uma maleta de couro fina cuidadosamente enfiada no fundo.}
 {104}{}{Puxe o porta-documentos.}
 {105}{}{Ignore a mensagem e continue lendo.}
-{106}{}{30 minutos passam e você não encontra nada de importância. Tudo o que descobriu é que o Chade possui registros
-  documentando cada momento de sua vida. Ele é um cara muito chato na verdade. Assim como você está prestes a fechar as gavetas, você
-  ouve uma tosse da porta da frente e uma alça girando ...}
+{106}{}{30 minutos passam e vocÃª nÃ£o encontra nada de importÃ¢ncia. Tudo o que descobriu Ã© que o Chade possui registros
+Â  documentando cada momento de sua vida. Ele Ã© um cara muito chato na verdade. Assim como vocÃª estÃ¡ prestes a fechar as gavetas, vocÃª
+Â  ouve uma tosse da porta da frente e uma alÃ§a girando ...}
 {107}{}{Puxe o porta-documentos.}
-{108}{}{Dentro da pasta você encontra documentos que comprovam um ano inteiro de furto de dinheiro
+{108}{}{Dentro da pasta vocÃª encontra documentos que comprovam um ano inteiro de furto de dinheiro
  das caravanas por Chad.}
-{109}{}{Olha só, parece que Chad estava realmente roubando dinheiro. Aparentemente ele está se preparando
- para fugir da cidade também, é melhor contar tudo isso para Marcus.}
-{110}{}{30 minutos se passam e você não encontra nada de importante. Tudo o que descobriu é que Chad possuí
- registros documentando cada momento de sua vida. Ele é um cara muito entediante, na verdade.}
+{109}{}{Olha sÃ³, parece que Chad estava realmente roubando dinheiro. Aparentemente ele estÃ¡ se preparando
+ para fugir da cidade tambÃ©m, Ã© melhor contar tudo isso para Marcus.}
+{110}{}{30 minutos se passam e vocÃª nÃ£o encontra nada de importante. Tudo o que descobriu Ã© que Chad possuÃ­
+ registros documentando cada momento de sua vida. Ele Ã© um cara muito entediante, na verdade.}

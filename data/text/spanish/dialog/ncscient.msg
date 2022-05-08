@@ -1,56 +1,56 @@
-{100}{}{Ves a un científico.}
-{150}{}{Ves a un hombre de mirada seria con un portapapeles y una aguja hipodérmica. Te ignora.}
+{100}{}{Ves a un cientÃ­fico.}
+{150}{}{Ves a un hombre de mirada seria con un portapapeles y una aguja hipodÃ©rmica. Te ignora.}
 {151}{}{Parece extremadamente cansado e irritable.}
 {152}{}{Ves a una mujer de mirada cansada. Comprueba un portapapeles y mira a su alrededor
  como si hubiera olvidado algo.}
-{153}{}{Está llenando una aguja hipodérmica, gruñendo ligeramente para sí misma.}
-{154}{}{Hola Myron, señor.}
-{155}{}{Myron... señor, ¿tiene un minuto…?}
-{156}{}{¿Alguna noticia sobre cuándo llegarán más esclavos, Myron, señor?}
-{157}{}{Myron... señor, estos nuevos resultados son muy prometedores…}
-{158}{}{¿Myron? ¿Un minuto de su tiempo, señor?}
-{159}{}{Dónde demonios está Myron…}
-{160}{}{Traed a Myron aquí. Debe ver esto.}
-{161}{}{Ojalá esos esclavos cerrasen la boca…}
-{162}{}{Dónde habré puesto esa jeringuilla…}
-{163}{}{¿Alguien a visto al Sujeto 31? Estaba aquí hace un segundo.}
-{164}{}{Que los esclavos traigan más Jet Beta.}
-{165}{}{Los resultados de las pruebas del Jet Beta son muy prometedores, pero…}
-{166}{}{El "subidón" dura de 15 minutos a una hora… calcula un período de una dosis/hora… hmmmmnnn.}
-{167}{}{El Sujeto 12 todavía tiene hemorragia pulmonar…}
-{168}{}{Es la quinta vez que el Sujeto 12 ha tenido ataques… aumenta la dosis, a ver qué pasa…}
-{169}{}{Bien, ¿qué TIPO de alucinaciones estaba teniendo?}
-{170}{}{Comprueba el pulso de aquel. Si aún está dentro de los límites tolerables, aumenta la dosis.}
-{171}{}{¿Por qué se suicidó la esclava del grupo de control? ¡Ni siquiera estábamos haciendo pruebas con ella!}
-{200}{}{Las pruebas se están desarrollando según lo planeado, Myron.}
-{201}{}{Esta nueva variedad de Jet es extremadamente adictiva, señor. Los esclavos casi están
+{153}{}{EstÃ¡ llenando una aguja hipodÃ©rmica, gruÃ±endo ligeramente para sÃ­ misma.}
+{154}{}{Hola Myron, seÃ±or.}
+{155}{}{Myron... seÃ±or, Â¿tiene un minutoâ€¦?}
+{156}{}{Â¿Alguna noticia sobre cuÃ¡ndo llegarÃ¡n mÃ¡s esclavos, Myron, seÃ±or?}
+{157}{}{Myron... seÃ±or, estos nuevos resultados son muy prometedoresâ€¦}
+{158}{}{Â¿Myron? Â¿Un minuto de su tiempo, seÃ±or?}
+{159}{}{DÃ³nde demonios estÃ¡ Myronâ€¦}
+{160}{}{Traed a Myron aquÃ­. Debe ver esto.}
+{161}{}{OjalÃ¡ esos esclavos cerrasen la bocaâ€¦}
+{162}{}{DÃ³nde habrÃ© puesto esa jeringuillaâ€¦}
+{163}{}{Â¿Alguien a visto al Sujeto 31? Estaba aquÃ­ hace un segundo.}
+{164}{}{Que los esclavos traigan mÃ¡s Jet Beta.}
+{165}{}{Los resultados de las pruebas del Jet Beta son muy prometedores, peroâ€¦}
+{166}{}{El "subidÃ³n" dura de 15 minutos a una horaâ€¦ calcula un perÃ­odo de una dosis/horaâ€¦ hmmmmnnn.}
+{167}{}{El Sujeto 12 todavÃ­a tiene hemorragia pulmonarâ€¦}
+{168}{}{Es la quinta vez que el Sujeto 12 ha tenido ataquesâ€¦ aumenta la dosis, a ver quÃ© pasaâ€¦}
+{169}{}{Bien, Â¿quÃ© TIPO de alucinaciones estaba teniendo?}
+{170}{}{Comprueba el pulso de aquel. Si aÃºn estÃ¡ dentro de los lÃ­mites tolerables, aumenta la dosis.}
+{171}{}{Â¿Por quÃ© se suicidÃ³ la esclava del grupo de control? Â¡Ni siquiera estÃ¡bamos haciendo pruebas con ella!}
+{200}{}{Las pruebas se estÃ¡n desarrollando segÃºn lo planeado, Myron.}
+{201}{}{Esta nueva variedad de Jet es extremadamente adictiva, seÃ±or. Los esclavos casi estÃ¡n
  dispuestos a matarse entre ellos por ella.}
-{202}{}{Los esclavos preferirían el Jet antes que la comida, tan potente es.}
-{203}{}{¿Quienes son esas personas que van con usted, Myron? ¿Nuevos sujetos?}
-{204}{}{El tercer grupo de pruebas parece ser el mejor de todos, Myron, señor.}
-{205}{}{Myron, opino que el siguiente grupo de pruebas debería incluir al menos tres niños, señor.}
-{206}{}{Myron, señor, el Sujeto 46 tuvo un ataque al corazón; ahora estamos restringiendo las dosis a
- seis veces al día.}
-{207}{}{¿Myron? Pronto necesitaremos un nuevo envío de agujas hipodérmicas de Ciudad Refugio. No podemos
+{202}{}{Los esclavos preferirÃ­an el Jet antes que la comida, tan potente es.}
+{203}{}{Â¿Quienes son esas personas que van con usted, Myron? Â¿Nuevos sujetos?}
+{204}{}{El tercer grupo de pruebas parece ser el mejor de todos, Myron, seÃ±or.}
+{205}{}{Myron, opino que el siguiente grupo de pruebas deberÃ­a incluir al menos tres niÃ±os, seÃ±or.}
+{206}{}{Myron, seÃ±or, el Sujeto 46 tuvo un ataque al corazÃ³n; ahora estamos restringiendo las dosis a
+ seis veces al dÃ­a.}
+{207}{}{Â¿Myron? Pronto necesitaremos un nuevo envÃ­o de agujas hipodÃ©rmicas de Ciudad Refugio. No podemos
  seguir reutilizando estas.}
-{208}{}{¡Myron, por fin! ¿Alguna noticia sobre cuándo llegarán más esclavos, señor?}
-{209}{}{Myron, señor, hemos trasladado tres esclavos del grupo de control al grupo de pruebas debido
+{208}{}{Â¡Myron, por fin! Â¿Alguna noticia sobre cuÃ¡ndo llegarÃ¡n mÃ¡s esclavos, seÃ±or?}
+{209}{}{Myron, seÃ±or, hemos trasladado tres esclavos del grupo de control al grupo de pruebas debido
  a los fallos respiratorios que ocurrieron la semana pasada.}
-{210}{}{Myron, señor... tuvimos que disparar a un esclavo que intentaba escapar. Fue un desperdicio.}
-{211}{}{Myron... este nuevo alucinógeno que has desarrollado es prometedor, pero no es tan adictivo como el Jet…}
-{212}{}{Si tienes alguna sugerencia, por favor escríbela en un trozo de papel y ponla justo
- en esa papelera de ahí.}
-{213}{}{¿Sí, sí, qué?}
-{214}{}{No seremos capaces de obtener resultados si continúas interrumpiéndonos.}
-{215}{}{Parece que hoy en día se permite pasear a cualquier hijo de vecino por aquí…}
-{216}{}{¿Qué quieres?}
-{217}{}{Por favor perdóname, *tengo* trabajo que hacer.}
+{210}{}{Myron, seÃ±or... tuvimos que disparar a un esclavo que intentaba escapar. Fue un desperdicio.}
+{211}{}{Myron... este nuevo alucinÃ³geno que has desarrollado es prometedor, pero no es tan adictivo como el Jetâ€¦}
+{212}{}{Si tienes alguna sugerencia, por favor escrÃ­bela en un trozo de papel y ponla justo
+ en esa papelera de ahÃ­.}
+{213}{}{Â¿SÃ­, sÃ­, quÃ©?}
+{214}{}{No seremos capaces de obtener resultados si continÃºas interrumpiÃ©ndonos.}
+{215}{}{Parece que hoy en dÃ­a se permite pasear a cualquier hijo de vecino por aquÃ­â€¦}
+{216}{}{Â¿QuÃ© quieres?}
+{217}{}{Por favor perdÃ³name, *tengo* trabajo que hacer.}
 {218}{}{Si tienes preguntas, habla con los guardias, no conmigo.}
-{219}{}{Sí, tengo la seguridad de que lo que quiera que necesites tiene una *enorme* importancia, pero tengo mis propias
+{219}{}{SÃ­, tengo la seguridad de que lo que quiera que necesites tiene una *enorme* importancia, pero tengo mis propias
  tareas.}
-{220}{}{¿Estás autorizado para estar aquí?}
-{221}{}{¿Quién te permitió entrar aquí?}
-{222}{}{Cuando Myron se entere de que en el laboratorio han entrado extraños…}
-{223}{}{¿Tienes esos resultados de las pruebas que te pedí… oh, lo siento. Creí que eras un técnico de laboratorio.}
+{220}{}{Â¿EstÃ¡s autorizado para estar aquÃ­?}
+{221}{}{Â¿QuiÃ©n te permitiÃ³ entrar aquÃ­?}
+{222}{}{Cuando Myron se entere de que en el laboratorio han entrado extraÃ±osâ€¦}
+{223}{}{Â¿Tienes esos resultados de las pruebas que te pedÃ­â€¦ oh, lo siento. CreÃ­ que eras un tÃ©cnico de laboratorio.}
 {224}{}{Demasiado ocupado para hablar ahora mismo, lo siento.}
-{225}{}{Necesitaremos una nueva inyección de esclavos pronto… estos se están quedando sin gas.}
+{225}{}{Necesitaremos una nueva inyecciÃ³n de esclavos prontoâ€¦ estos se estÃ¡n quedando sin gas.}

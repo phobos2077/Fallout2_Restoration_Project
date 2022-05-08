@@ -1,6 +1,6 @@
-{100}{}{Você vê um brahmin aparentemente doente.}
-{150}{}{Você vê um brahmin enorme e aparentemente doente. Sua barriga parece distendida e seus olhos estão injetados.}
-{151}{}{Você vê um brahmin enorme e aparentemente doente. Sua barriga parece distendida e seus olhos estão injetados. Ele parece muito doente. Talvez haja alguma maneira de ajudá-lo.}
+{100}{}{VocÃª vÃª um brahmin aparentemente doente.}
+{150}{}{VocÃª vÃª um brahmin enorme e aparentemente doente. Sua barriga parece distendida e seus olhos estÃ£o injetados.}
+{151}{}{VocÃª vÃª um brahmin enorme e aparentemente doente. Sua barriga parece distendida e seus olhos estÃ£o injetados. Ele parece muito doente. Talvez haja alguma maneira de ajudÃ¡-lo.}
 {198}{}{::Rnnnrrrrr?::}
 {199}{}{::Hrrnnnnr?::}
 {200}{}{Moo}
@@ -10,5 +10,5 @@
 {204}{}{::Rnnnrrrrr!!!::}
 {205}{}{::Gnnnnnrrrr!!!::}
 {206}{}{::Hrrnnnnr!!!::}
-{225}{}{Você tirou algo que estava alojado nos intestinos do brahmin.}
-{235}{}{Há algo alojado nos intestinos do brahmin, mas você não conseguiu pegá-lo.}
+{225}{}{VocÃª tirou algo que estava alojado nos intestinos do brahmin.}
+{235}{}{HÃ¡ algo alojado nos intestinos do brahmin, mas vocÃª nÃ£o conseguiu pegÃ¡-lo.}

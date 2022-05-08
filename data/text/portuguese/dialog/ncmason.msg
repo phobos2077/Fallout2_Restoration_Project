@@ -30,10 +30,10 @@
 {267}{}{Girl, you must be dumber than SHIT to be talking to me like that. One more word, just ONE more word, and
  yer a torch.}
 {268}{}{I SAID, I want to see Mr. Salvatore.}
-{270}{}{(Saindo em silÍncio.)}
+{270}{}{(Saindo em sil√™ncio.)}
 {275}{}{(His face reddens. He suddenly speaks to the air.) Excuse me, Mr. Salvatore, this is Mason. }
-{276}{}{Este... cara... diz que tem algo que vocÍ quer ouvir.}
-{277}{}{Esta... mulher... diz que tem algo que vocÍ quer ouvir.}
+{276}{}{Este... cara... diz que tem algo que voc√™ quer ouvir.}
+{277}{}{Esta... mulher... diz que tem algo que voc√™ quer ouvir.}
 {278}{}{(Wait...)}
 {279}{}{(Attack Mason before he can continue.)}
 {285}{}{Look, maybe you ain't HEARD, tribal, but this's Salvatore's place. MY job is to make sure the boss
@@ -45,7 +45,7 @@
 {305}{}{I WARNED you, asshole, now you're... (Mason suddenly pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore says you may come in... }
 {306}{}{Oh, I'll be going in all right. After I kill you.}
 {307}{}{Thanks, assholio, I'll be sure to mention your manners to Mr. Salvatore.}
-{308}{}{Est· certo ent„o.}
+{308}{}{Est√° certo ent√£o.}
 {315}{}{(Mason stops you.) Look... (Leans in, lowers voice.) ...Some ground rules, boy. }
 {316}{}{Look... (Leans in, lowers voice.) ...Some ground rules, girl. }
 {317}{}{Don't waste Mr. Salvatore's time, and don't give him any bullshit, or you'll answer to me.}
@@ -59,7 +59,7 @@
 {337}{}{Blow me.}
 {345}{}{Awright, that DOES it, smartass! You crossed the line...(Cracks knuckles.)...now yer gonna get hurt.}
 {346}{}{Hurt? William?}
-{347}{}{Vamos danÁar.}
+{347}{}{Vamos dan√ßar.}
 {348}{}{No, YOU'RE the one who's gonna get HURT! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S GONNA GET H --}
 {355}{}{'Bout time you showed, boy. }
 {356}{}{'Bout time you showed, girl. }
@@ -95,7 +95,7 @@
 {431}{}{Yeah, whatever. I'm outta --}
 {432}{}{I had some other qu --}
 {433}{}{All right then, I'll go check --}
-{440}{}{Est· certo ent„o.}
+{440}{}{Est√° certo ent√£o.}
 {442}{}{That's all I need to know. Now back off and let me get to work.}
 {465}{}{You found Lloyd yet?}
 {466}{}{(Scowls.) You BETTER have some good news for me. You found Lloyd yet?}
@@ -111,7 +111,7 @@
 {490}{}{I told you not to come back until you found Lloyd... I TOLD you. (Taps his head.) Are you stupid?! Must be,
  cause here you are talking to me again. Stupid... and DEAD.}
 {491}{}{Let's go, shitheel.}
-{492}{}{Traga ‡ mostra.}
+{492}{}{Traga √† mostra.}
 {493}{}{No, YOU'RE the one who's STUPID AND DEAD! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S STU --}
 {500}{}{(Stares at you in disbelief.) You screwed it up. We give you a simple job, and you screw. It. Up. }
 {501}{}{You must be the STUPIDEST son of a bitch alive. }
@@ -133,7 +133,7 @@
 {537}{}{(Scowls.) You BETTER have the money this time, dipshit. Mr. Salvatore's waiting.}
 {539}{}{Where was I supposed to collect from again?}
 {540}{}{Renesco's giving me shit. Says he gave two weeks ago, and he shouldn't have to pay for another month.}
-{542}{}{Uh... certo. Aqui est· o dinheiro.}
+{542}{}{Uh... certo. Aqui est√° o dinheiro.}
 {543}{}{Did it, but I don't have the money on me...}
 {544}{}{Almost. I'll have it next time, Mason.}
 {546}{}{Tenho sua homenagem bem aqui... homem morto.}
@@ -198,8 +198,8 @@
 {746}{}{Thanks, Mason.}
 {747}{}{Gee, Mason, thanks... except next time, why don't you call me, "sir?" I'd like that. HA HA HA HA HA HA...}
 {748}{}{Gee, Mason, thanks... except next time, why don't you call me, "ma'am?" I'd like that. HA HA HA HA HA HA...}
-{755}{}{Ol·... Senhor.}
-{756}{}{Ol·... senhora.}
+{755}{}{Ol√°... Senhor.}
+{756}{}{Ol√°... senhora.}
 {765}{}{(Mason pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore
  says you may come in, }
 {766}{}{Thanks, assholio. I'll be sure to mention your manners to Mr. Salvatore.}

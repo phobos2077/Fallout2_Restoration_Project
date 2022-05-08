@@ -1,49 +1,49 @@
-{100}{}{Widzisz ogromnego, silnego mutanta o zaciêtym spojrzeniu.}
-{101}{}{Widzisz jednego ze stra¿ników bankowych, wielkiego, twardego mutanta.}
-{102}{}{Widzisz uzbrojonego po zêby, czujnego stra¿nika - mutanta.}
-{103}{}{W czym mogê pomóc?}
+{100}{}{Widzisz ogromnego, silnego mutanta o zaciÄ™tym spojrzeniu.}
+{101}{}{Widzisz jednego ze straÅ¼nikÃ³w bankowych, wielkiego, twardego mutanta.}
+{102}{}{Widzisz uzbrojonego po zÄ™by, czujnego straÅ¼nika - mutanta.}
+{103}{}{W czym mogÄ™ pomÃ³c?}
 {104}{}{Arga arga!}
 {105}{}{Ja w budynku! Ojejej!}
-{106}{}{Tak siê tylko rozgl¹dam.}
+{106}{}{Tak siÄ™ tylko rozglÄ…dam.}
 {107}{}{Eee... raczej w niczym.}
-{108}{}{Jestem tu, ¿eby porozmawiaæ z waszymi wiêŸniami.}
-{109}{}{Przysz³o wam do g³owy, ¿e mo¿e przetrzymujecie tu tych wiêŸniów nielegalnie?}
-{110}{}{Och, œwietnie. Znowu. WyjdŸ proszê.}
+{108}{}{Jestem tu, Å¼eby porozmawiaÄ‡ z waszymi wiÄ™Åºniami.}
+{109}{}{PrzyszÅ‚o wam do gÅ‚owy, Å¼e moÅ¼e przetrzymujecie tu tych wiÄ™ÅºniÃ³w nielegalnie?}
+{110}{}{Och, Å›wietnie. Znowu. WyjdÅº proszÄ™.}
 {111}{}{Aaaaarga!}
-{112}{}{W-w porz¹dku!}
-{113}{}{Wiêc lepiej rozgl¹daj siê gdzie indziej. Trzymamy tu przestêpców. IdŸ ju¿.}
-{114}{}{Och. W porz¹dku.}
-{115}{}{Mo¿emy pomóc ka¿demu, kto przychodzi tu w jakimœ celu. Jeœli nie mo¿na ci pomóc, musisz st¹d iœæ. Uciekaj, zanim zaczniemy ci pomagaæ.}
-{116}{}{Spróbuj mnie zmusiæ?}
-{117}{}{Kapujê.}
-{118}{}{Chcesz z nimi rozmawiaæ, tak? Mo¿esz porozmawiaæ z nami. Co masz do powiedzenia?}
-{119}{}{Przysz³o wam do g³owy, ¿e mo¿e przetrzymujecie ich tu nielegalnie?}
-{120}{}{Wal siê, mutasie!}
-{121}{}{Zupe³nie nic. Muszê ju¿ iœæ.}
-{122}{}{Err... Co chesz powiedzieæ?}
-{123}{}{Jedyna zbrodnia jak¹ pope³nili to wypowiadanie niepochlebnych opinii o mutantach. Nie twierdzê, ¿e nie pope³ni³ jakiegoœ przestêpstwa... ale ty te¿ nie chcia³byœ zostaæ zamkniêty za zbrodniê, któr¹ MÓG£BYŒ pope³niæ, prawda?}
-{124}{}{To, ¿e prawo to potêga. A ja dysponujê potêg¹. Mam j¹ tutaj.}
-{125}{}{Nie, nie chcia³bym. Ale oni s¹ niebezpieczni.}
-{126}{}{Dopóki nie pope³ni¹ zbrodni, pozostaj¹ niewinni. Musz¹ najpierw mieæ konkretny plan i zacz¹æ go wykonywaæ. Rozumiesz?}
-{127}{}{Niebezpieczni? A ja to co? A ty?! A przecie¿ nie siedzimy w pace.}
+{112}{}{W-w porzÄ…dku!}
+{113}{}{WiÄ™c lepiej rozglÄ…daj siÄ™ gdzie indziej. Trzymamy tu przestÄ™pcÃ³w. IdÅº juÅ¼.}
+{114}{}{Och. W porzÄ…dku.}
+{115}{}{MoÅ¼emy pomÃ³c kaÅ¼demu, kto przychodzi tu w jakimÅ› celu. JeÅ›li nie moÅ¼na ci pomÃ³c, musisz stÄ…d iÅ›Ä‡. Uciekaj, zanim zaczniemy ci pomagaÄ‡.}
+{116}{}{SprÃ³buj mnie zmusiÄ‡?}
+{117}{}{KapujÄ™.}
+{118}{}{Chcesz z nimi rozmawiaÄ‡, tak? MoÅ¼esz porozmawiaÄ‡ z nami. Co masz do powiedzenia?}
+{119}{}{PrzyszÅ‚o wam do gÅ‚owy, Å¼e moÅ¼e przetrzymujecie ich tu nielegalnie?}
+{120}{}{Wal siÄ™, mutasie!}
+{121}{}{ZupeÅ‚nie nic. MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{122}{}{Err... Co chesz powiedzieÄ‡?}
+{123}{}{Jedyna zbrodnia jakÄ… popeÅ‚nili to wypowiadanie niepochlebnych opinii o mutantach. Nie twierdzÄ™, Å¼e nie popeÅ‚niÅ‚ jakiegoÅ› przestÄ™pstwa... ale ty teÅ¼ nie chciaÅ‚byÅ› zostaÄ‡ zamkniÄ™ty za zbrodniÄ™, ktÃ³rÄ… MÃ“GÅBYÅš popeÅ‚niÄ‡, prawda?}
+{124}{}{To, Å¼e prawo to potÄ™ga. A ja dysponujÄ™ potÄ™gÄ…. Mam jÄ… tutaj.}
+{125}{}{Nie, nie chciaÅ‚bym. Ale oni sÄ… niebezpieczni.}
+{126}{}{DopÃ³ki nie popeÅ‚niÄ… zbrodni, pozostajÄ… niewinni. MuszÄ… najpierw mieÄ‡ konkretny plan i zaczÄ…Ä‡ go wykonywaÄ‡. Rozumiesz?}
+{127}{}{Niebezpieczni? A ja to co? A ty?! A przecieÅ¼ nie siedzimy w pace.}
 {128}{}{I co z tego?}
-{129}{}{Ale... ale... rozumiem. Wypuœcimy ich. Na twoj¹ odpowiedzialnoœæ. Mam nadziejê, ¿e siê nie mylisz. Masz tu klucz.}
-{130}{}{To wspaniale. Dziêki. Do zobaczenia.}
-{131}{}{A mo¿e powinniœmy. Póki co - oni tam zostan¹. I bêd¹ tam siedzieæ, dopóki ktoœ nie przedstawi lepszych argumentów ni¿ ty. A teraz... wynoœ siê.}
+{129}{}{Ale... ale... rozumiem. WypuÅ›cimy ich. Na twojÄ… odpowiedzialnoÅ›Ä‡. Mam nadziejÄ™, Å¼e siÄ™ nie mylisz. Masz tu klucz.}
+{130}{}{To wspaniale. DziÄ™ki. Do zobaczenia.}
+{131}{}{A moÅ¼e powinniÅ›my. PÃ³ki co - oni tam zostanÄ…. I bÄ™dÄ… tam siedzieÄ‡, dopÃ³ki ktoÅ› nie przedstawi lepszych argumentÃ³w niÅ¼ ty. A teraz... wynoÅ› siÄ™.}
 {132}{}{Nie.}
 {133}{}{Dobrze.}
-{134}{}{To, ¿e póki co zostanê w pace. Musimy chroniæ spo³eczeñstwo. A teraz... wynoœ siê.}
+{134}{}{To, Å¼e pÃ³ki co zostanÄ™ w pace. Musimy chroniÄ‡ spoÅ‚eczeÅ„stwo. A teraz... wynoÅ› siÄ™.}
 {135}{}{Nie.}
 {136}{}{Dobrze.}
-{137}{}{Ty?! Co ty do cholery wyprawiasz? Wynoœ siê st¹d!}
-{138}{}{Teraz od³o¿ysz broñ.}
-{139}{}{Znowu ty? Potrzebujesz czegoœ?}
-{140}{}{Tak siê tylko rozgl¹dam.}
+{137}{}{Ty?! Co ty do cholery wyprawiasz? WynoÅ› siÄ™ stÄ…d!}
+{138}{}{Teraz odÅ‚oÅ¼ysz broÅ„.}
+{139}{}{Znowu ty? Potrzebujesz czegoÅ›?}
+{140}{}{Tak siÄ™ tylko rozglÄ…dam.}
 {141}{}{Eee... raczej w niczym.}
-{142}{}{Jestem tu, ¿eby porozmawiaæ z waszymi wiêŸniami.}
-{143}{}{Przysz³o wam do g³owy, ¿e mo¿e przetrzymujecie tu tych wiêŸniów nielegalnie?}
-{144}{}{Nie mo¿esz siê tu krêciæ. IdŸ ju¿ sobie.}
-{145}{}{Jeœli siê kiedyœ dowiem dok¹d uciekli ci przestêpcy, urz¹dzê im piek³o na ziemi!}
-{150}{}{Ale... ale... no dobra. Wychodz¹. Na twoj¹ odpowiedzialnoœæ. Mam tylko nadzieje, ¿e siê nie mylisz. Masz tu... Hej, gdzie siê podzia³ mój klucz!? Cholera, Marcus urwie mi g³owê jak go zgubi³em. Przepraszam, ale muszê ju¿ iœæ.}
+{142}{}{Jestem tu, Å¼eby porozmawiaÄ‡ z waszymi wiÄ™Åºniami.}
+{143}{}{PrzyszÅ‚o wam do gÅ‚owy, Å¼e moÅ¼e przetrzymujecie tu tych wiÄ™ÅºniÃ³w nielegalnie?}
+{144}{}{Nie moÅ¼esz siÄ™ tu krÄ™ciÄ‡. IdÅº juÅ¼ sobie.}
+{145}{}{JeÅ›li siÄ™ kiedyÅ› dowiem dokÄ…d uciekli ci przestÄ™pcy, urzÄ…dzÄ™ im piekÅ‚o na ziemi!}
+{150}{}{Ale... ale... no dobra. WychodzÄ…. Na twojÄ… odpowiedzialnoÅ›Ä‡. Mam tylko nadzieje, Å¼e siÄ™ nie mylisz. Masz tu... Hej, gdzie siÄ™ podziaÅ‚ mÃ³j klucz!? Cholera, Marcus urwie mi gÅ‚owÄ™ jak go zgubiÅ‚em. Przepraszam, ale muszÄ™ juÅ¼ iÅ›Ä‡.}
 {151}{}{Dobrze.}
-{152}{}{To ja mam klucz. I co zamierzasz z tym zrobiæ?}
+{152}{}{To ja mam klucz. I co zamierzasz z tym zrobiÄ‡?}

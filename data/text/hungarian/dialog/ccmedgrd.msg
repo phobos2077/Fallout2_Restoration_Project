@@ -1,29 +1,29 @@
-{100}{}{Egy ?rt látsz.}
-{101}{}{Egy harci páncélt visel? ?r.}
-{102}{}{Ez az ember harci páncélt visel. A mellkasán van egy jel, amit nem tudsz hova tenni.}
-{103}{}{Nincs jelenteni valóm.}
-{104}{}{Nálam semmi, és nálad?}
-{105}{}{Nem kéne a posztodon lenned? Nem jó, hogy itt csavarogsz.}
+{100}{}{Egy ?rt lÃ¡tsz.}
+{101}{}{Egy harci pÃ¡ncÃ©lt visel? ?r.}
+{102}{}{Ez az ember harci pÃ¡ncÃ©lt visel. A mellkasÃ¡n van egy jel, amit nem tudsz hova tenni.}
+{103}{}{Nincs jelenteni valÃ³m.}
+{104}{}{NÃ¡lam semmi, Ã©s nÃ¡lad?}
+{105}{}{Nem kÃ©ne a posztodon lenned? Nem jÃ³, hogy itt csavarogsz.}
 {106}{}{Nincs rajtad egyenruha.}
-{107}{}{Jelentkezz az ?rmesternél és kapj magadra egy páncélt!}
-{108}{}{Nagy kockázatot válalsz, ha csak így flangálsz itt. Vegyél fel egy páncélt!}
-{109}{}{Kik ezek a fickók?... Behatolók! Riadó!}
-{110}{}{Megtámadtak bennünket! Riadó!}
-{111}{}{Behatolók! Riadó!}
-{112}{}{Biztonsági riadó! Zárjátok le a bázist!}
+{107}{}{Jelentkezz az ?rmesternÃ©l Ã©s kapj magadra egy pÃ¡ncÃ©lt!}
+{108}{}{Nagy kockÃ¡zatot vÃ¡lalsz, ha csak Ã­gy flangÃ¡lsz itt. VegyÃ©l fel egy pÃ¡ncÃ©lt!}
+{109}{}{Kik ezek a fickÃ³k?... BehatolÃ³k! RiadÃ³!}
+{110}{}{MegtÃ¡madtak bennÃ¼nket! RiadÃ³!}
+{111}{}{BehatolÃ³k! RiadÃ³!}
+{112}{}{BiztonsÃ¡gi riadÃ³! ZÃ¡rjÃ¡tok le a bÃ¡zist!}
 {113}{}{Secure all stations! We're on alert!}
-{114}{}{Behatolók! Vörös kód!}
-{115}{}{Szétalázunk!}
-{116}{}{Az Enklávé lesz a világ ura!}
-{117}{}{Te elpusztulsz, az Enklávé fennmarad!}
-{118}{}{Sajnálom, de erre a területre tilos a belépés. Meg kell kérjelek, hogy távozz.}
-{119}{}{A doki akarja megölni Halá'karom. De nem ? maga.}
-{120}{}{Oké. Menni.}
-{121}{}{A doki megkért, csináljam ki a házi kedvencét. Nem akarja személyesen megtenni.}
-{122}{}{Tudtam, hogy a rohadéknak nem lesz vér a pucájában! Hát jó. (sóhajt) Bemehetsz. Sok szerencsét!}
-{123}{}{Köszi.}
-{124}{}{Miért nézel így rám?}
-{125}{}{Hallani te lenni Csacsifül. Hát, nagyon aranyos.}
-{126}{}{Hallottam, hogy Csacsifülnek hívnak. Szerintem aranyos.}
-{127}{}{Mi?... Elmondta? Ha letelik a szolgálati id?m, szétrúgom a seggét! Most menj! És töröld le az önelégült mosolyt a képedr?l!}
-{128}{}{Oké.}
+{114}{}{BehatolÃ³k! VÃ¶rÃ¶s kÃ³d!}
+{115}{}{SzÃ©talÃ¡zunk!}
+{116}{}{Az EnklÃ¡vÃ© lesz a vilÃ¡g ura!}
+{117}{}{Te elpusztulsz, az EnklÃ¡vÃ© fennmarad!}
+{118}{}{SajnÃ¡lom, de erre a terÃ¼letre tilos a belÃ©pÃ©s. Meg kell kÃ©rjelek, hogy tÃ¡vozz.}
+{119}{}{A doki akarja megÃ¶lni HalÃ¡'karom. De nem ? maga.}
+{120}{}{OkÃ©. Menni.}
+{121}{}{A doki megkÃ©rt, csinÃ¡ljam ki a hÃ¡zi kedvencÃ©t. Nem akarja szemÃ©lyesen megtenni.}
+{122}{}{Tudtam, hogy a rohadÃ©knak nem lesz vÃ©r a pucÃ¡jÃ¡ban! HÃ¡t jÃ³. (sÃ³hajt) Bemehetsz. Sok szerencsÃ©t!}
+{123}{}{KÃ¶szi.}
+{124}{}{MiÃ©rt nÃ©zel Ã­gy rÃ¡m?}
+{125}{}{Hallani te lenni CsacsifÃ¼l. HÃ¡t, nagyon aranyos.}
+{126}{}{Hallottam, hogy CsacsifÃ¼lnek hÃ­vnak. Szerintem aranyos.}
+{127}{}{Mi?... Elmondta? Ha letelik a szolgÃ¡lati id?m, szÃ©trÃºgom a seggÃ©t! Most menj! Ã‰s tÃ¶rÃ¶ld le az Ã¶nelÃ©gÃ¼lt mosolyt a kÃ©pedr?l!}
+{128}{}{OkÃ©.}

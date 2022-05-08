@@ -1,5 +1,5 @@
 {100}{}{Widzisz terminal.}
-{101}{}{Wydaje siê, ¿e terminal steruje drzwiami w tym obszarze.}
-{102}{}{S³yszysz otwieraj¹ce siê drzwi.}
-{110}{}{Zdaje siê, ¿e coœ nie tak.}
-{120}{}{Pod³oga pod napiêciem roz³adowuje siê.}
+{101}{}{Wydaje siÄ™, Å¼e terminal steruje drzwiami w tym obszarze.}
+{102}{}{SÅ‚yszysz otwierajÄ…ce siÄ™ drzwi.}
+{110}{}{Zdaje siÄ™, Å¼e coÅ› nie tak.}
+{120}{}{PodÅ‚oga pod napiÄ™ciem rozÅ‚adowuje siÄ™.}

@@ -1,64 +1,64 @@
-{100}{}{A bár egyik kuncsaftját látod.}
-{101}{}{? nem más, mint Stacy.}
-{102}{}{Szomorúnak látszik.}
+{100}{}{A bÃ¡r egyik kuncsaftjÃ¡t lÃ¡tod.}
+{101}{}{? nem mÃ¡s, mint Stacy.}
+{102}{}{SzomorÃºnak lÃ¡tszik.}
 {103}{}{Hagyd abba!}
 {104}{}{Hogy tehetted?}
 {105}{}{Takarodj a szemem el?l!}
-{106}{}{Miért?}
-{107}{}{Kérlek, hagyd abba!}
+{106}{}{MiÃ©rt?}
+{107}{}{KÃ©rlek, hagyd abba!}
 {108}{}{Gyilkos!}
-{109}{}{Szegény Mama! Ezért megfizetsz!}
+{109}{}{SzegÃ©ny Mama! EzÃ©rt megfizetsz!}
 {110}{}{Mama...}
 {111}{}{Pedig mindenkivel olyan kedves volt...}
-{112}{}{Sajnálom, semmi érdekessel nem tudok szolgálni.}
-{113}{}{Az agyam olyan, mint egy kiszáradt kút.}
+{112}{}{SajnÃ¡lom, semmi Ã©rdekessel nem tudok szolgÃ¡lni.}
+{113}{}{Az agyam olyan, mint egy kiszÃ¡radt kÃºt.}
 {114}{}{Ez az.}
 {115}{}{Szia!}
-{116}{}{Beköszöntél már a Mamához?}
-{117}{}{Ó, helló.}
-{118}{}{Ó, megint te vagy?}
-{119}{}{Mesélj nekem a macskádról.}
+{116}{}{BekÃ¶szÃ¶ntÃ©l mÃ¡r a MamÃ¡hoz?}
+{117}{}{Ã“, hellÃ³.}
+{118}{}{Ã“, megint te vagy?}
+{119}{}{MesÃ©lj nekem a macskÃ¡drÃ³l.}
 {120}{}{Why the glum face?}
-{121}{}{Gyakran jársz ide?}
-{122}{}{Kés?bb dumálunk. Szia.}
-{123}{}{Okké?}
+{121}{}{Gyakran jÃ¡rsz ide?}
+{122}{}{KÃ©s?bb dumÃ¡lunk. Szia.}
+{123}{}{OkkÃ©?}
 {124}{}{Ah...}
-{131}{}{Kérlek, ne zavarj. Nem vagyok épp a legjobb kedvemben.}
+{131}{}{KÃ©rlek, ne zavarj. Nem vagyok Ã©pp a legjobb kedvemben.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
-{134}{}{Semmi különös. Néha eszembe jut a mamám és a macskám. Nagyon hiányoznak.}
-{135}{}{A macskád?}
-{136}{}{Sajnálattal hallom. Na, szia...}
-{137}{}{Ja, Cirmos. Olyan aranyos volt. Nem szívesen beszélek róla... Legalábbis amíg meg nem hívsz egy italra. Az talán segít.}
-{138}{}{Ahogy mondtam, most nem szeretnék róla beszélni. Egy ital talán megoldaná a nyelvem.}
-{139}{}{Persze, hogy meghívlak. Szeretnék még többet hallani róla.}
+{134}{}{Semmi kÃ¼lÃ¶nÃ¶s. NÃ©ha eszembe jut a mamÃ¡m Ã©s a macskÃ¡m. Nagyon hiÃ¡nyoznak.}
+{135}{}{A macskÃ¡d?}
+{136}{}{SajnÃ¡lattal hallom. Na, szia...}
+{137}{}{Ja, Cirmos. Olyan aranyos volt. Nem szÃ­vesen beszÃ©lek rÃ³la... LegalÃ¡bbis amÃ­g meg nem hÃ­vsz egy italra. Az talÃ¡n segÃ­t.}
+{138}{}{Ahogy mondtam, most nem szeretnÃ©k rÃ³la beszÃ©lni. Egy ital talÃ¡n megoldanÃ¡ a nyelvem.}
+{139}{}{Persze, hogy meghÃ­vlak. SzeretnÃ©k mÃ©g tÃ¶bbet hallani rÃ³la.}
 {140}{}{Hogyne.}
-{141}{}{Sajnálom, de most nincs fölösleges 10 dollárom.}
-{142}{}{Természetesen.}
-{143}{}{Azt hiszed, vicces vagy? Magolj be jobb szöveget.}
+{141}{}{SajnÃ¡lom, de most nincs fÃ¶lÃ¶sleges 10 dollÃ¡rom.}
+{142}{}{TermÃ©szetesen.}
+{143}{}{Azt hiszed, vicces vagy? Magolj be jobb szÃ¶veget.}
 {144}{}{So why the glum face?}
 {145}{}{Na, persze... szia.}
-{146}{}{Hallottam, hogy voltak akkorák is, mint te vagy én. Brahmin-méret? állatokkal táplálkoztak. Hát ez bizony félelmetes.}
+{146}{}{Hallottam, hogy voltak akkorÃ¡k is, mint te vagy Ã©n. Brahmin-mÃ©ret? Ã¡llatokkal tÃ¡plÃ¡lkoztak. HÃ¡t ez bizony fÃ©lelmetes.}
 {147}{}{Ez semmi.}
 {148}{}{Igen, az.}
-{149}{}{Amir?l én beszélek, az kicsi és aranyos, nagyobb, mint egy patkány, de kisebb, mint egy kutya. Némelyikük bundás, mint az én Cirmosom, de van amelyiknek rövid sz?re van.}
-{150}{}{Igazán?}
-{151}{}{Háziállatok, mint a kutyák, de amikor simogatod ?ket, csodálatos, megnyugtató hangot hallatnak.}
-{152}{}{Érdekes.}
-{153}{}{Cirmos mindig segített az elalvásban. Minden éjjel rá gondolok, ha el akarok aludni.}
+{149}{}{Amir?l Ã©n beszÃ©lek, az kicsi Ã©s aranyos, nagyobb, mint egy patkÃ¡ny, de kisebb, mint egy kutya. NÃ©melyikÃ¼k bundÃ¡s, mint az Ã©n Cirmosom, de van amelyiknek rÃ¶vid sz?re van.}
+{150}{}{IgazÃ¡n?}
+{151}{}{HÃ¡ziÃ¡llatok, mint a kutyÃ¡k, de amikor simogatod ?ket, csodÃ¡latos, megnyugtatÃ³ hangot hallatnak.}
+{152}{}{Ã‰rdekes.}
+{153}{}{Cirmos mindig segÃ­tett az elalvÃ¡sban. Minden Ã©jjel rÃ¡ gondolok, ha el akarok aludni.}
 {154}{}{Aranyos.}
 {155}{}{Folytasd!}
-{156}{}{Még kicsi voltam, amikor elt?nt. Akkor még nem tudtam, mi történt vele, túl kicsi voltam hozzá.}
-{157}{}{Miért?}
-{158}{}{Akkoriban iszonyúan kevés élelem volt és az emberek éheztek. Eléggé szomorú dolog ez...}
+{156}{}{MÃ©g kicsi voltam, amikor elt?nt. Akkor mÃ©g nem tudtam, mi tÃ¶rtÃ©nt vele, tÃºl kicsi voltam hozzÃ¡.}
+{157}{}{MiÃ©rt?}
+{158}{}{Akkoriban iszonyÃºan kevÃ©s Ã©lelem volt Ã©s az emberek Ã©heztek. ElÃ©ggÃ© szomorÃº dolog ez...}
 {159}{}{Mi?}
-{160}{}{Az emberek vadásztak rájuk, mert könny? prédának bizonyultak. Mostanra már kihaltak.}
+{160}{}{Az emberek vadÃ¡sztak rÃ¡juk, mert kÃ¶nny? prÃ©dÃ¡nak bizonyultak. Mostanra mÃ¡r kihaltak.}
 {161}{}{Beteges dolog ez!}
-{162}{}{Megértem.}
-{163}{}{Az elvadultakra vadásztak, de biztos vagyok benne, hogy az enyémmel is ugyanaz történt. Most már legalább tudom, Mama miért figyelt rá mindig olyan árgus szemekkel.}
-{164}{}{Milyen szomorú...}
-{165}{}{Sajnálom.}
-{166}{}{Ó...}
-{167}{}{Szomorúsággal tölt el, ha erre gondolok...}
-{168}{}{Viszlát!}
-{169}{}{Stacy elmesélte a macskája, Cirmos szomorú történetét.}
+{162}{}{MegÃ©rtem.}
+{163}{}{Az elvadultakra vadÃ¡sztak, de biztos vagyok benne, hogy az enyÃ©mmel is ugyanaz tÃ¶rtÃ©nt. Most mÃ¡r legalÃ¡bb tudom, Mama miÃ©rt figyelt rÃ¡ mindig olyan Ã¡rgus szemekkel.}
+{164}{}{Milyen szomorÃº...}
+{165}{}{SajnÃ¡lom.}
+{166}{}{Ã“...}
+{167}{}{SzomorÃºsÃ¡ggal tÃ¶lt el, ha erre gondolok...}
+{168}{}{ViszlÃ¡t!}
+{169}{}{Stacy elmesÃ©lte a macskÃ¡ja, Cirmos szomorÃº tÃ¶rtÃ©netÃ©t.}

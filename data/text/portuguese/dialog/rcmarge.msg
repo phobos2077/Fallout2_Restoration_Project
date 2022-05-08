@@ -27,13 +27,13 @@
  would have kept the peace in town. What do you want?}
 {122}{}{You sure know how to spank a baby with an axe, don't you? Nobody needed to die over a bar-brawl.
  Just what the hell do you want from me, anyway?}
-{123}{}{Quem é você?}
+{123}{}{Quem Ã© vocÃª?}
 {124}{}{I wanted to ask you about something.}
 {125}{}{I was just walking past. I think I'll keep walking. Goodbye.}
 {126}{}{Hello there. I'm Marge. Marge LeBarge, and I run this mine.}
 {127}{}{What can Marge do you for?}
 {128}{}{What do you mine here?}
-{129}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
+{129}{}{VocÃª jÃ¡ ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
 {130}{}{Are you a Redding native?}
 {131}{}{Know about any jobs or anything else going on here?}
 {132}{}{I was just looking around a bit. Goodbye.}
@@ -58,7 +58,7 @@
 {148}{}{Well, there's always rumors... but I do have something that needs doing.}
 {149}{}{I'll get back to that. Let me ask you about something else first, though.}
 {150}{}{Tell me about the rumors.}
-{151}{}{O que é isso?}
+{151}{}{O que Ã© isso?}
 {152}{}{I bet you do. Sorry, but I'm too busy right now. Goodbye.}
 {153}{}{I've got a great big ol' digger machine down in my mine. Problem is that the control chip for it
  don't work anymore. I need a new one if I want to expand my operations.}
@@ -96,16 +96,16 @@
  us. I tell you, the NCR's our best bet - but they're all just out for our gold. Redding's still
  independent, so far.}
 {175}{}{What about the other rumors?}
-{176}{}{Acho que é tudo o que eu queria saber. Tchau.}
+{176}{}{Acho que Ã© tudo o que eu queria saber. Tchau.}
 {177}{}{A Wanamingo's just the single orneriest critter there is. Tall as two men, stronger than a bull
  brahmin, and with flappin' suckers instead of arms. Can't be hurt with guns, neither. S'posedly, injuns
  called 'em up for revenge on the white-man for what the war did. I don't put much stock in that, though.}
 {178}{}{What about the other rumors?}
-{179}{}{Acho que é tudo o que eu queria saber. Tchau.}
+{179}{}{Acho que Ã© tudo o que eu queria saber. Tchau.}
 {180}{}{Oh, yeah. Well, a couple of my miners were flying a bit themselves - Jetting around, if you catch
  my drift - a while back. They swore up-and-down that they saw a ship fly past, going southwest.}
 {181}{}{What about the other rumors?}
-{182}{}{Acho que é tudo o que eu queria saber. Tchau.}
+{182}{}{Acho que Ã© tudo o que eu queria saber. Tchau.}
 {183}{}{Well, Dan and his Morningstar boys favor those mobsters from New Reno. I guess that Redding'll be
  one big Jet addict slum before too long.}
 {184}{}{Not really my concern. Tell me about something else.}

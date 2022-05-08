@@ -1,327 +1,327 @@
-{150}{}{Widzisz opalonego m³odego mê¿czyznê nosz¹cego ³añcuchy i czarne skóry. Jego twarz jest pokryta œladami tr¹dziku.}
-{151}{}{Widzisz Ma³ego Jesusa Mordino.}
-{152}{}{Widzisz Ma³ego Jesusa Mordino. Jest ubrany g³ównie w czarne skóry. Bawi siê jednym ze swych no¿y.}
+{150}{}{Widzisz opalonego mÅ‚odego mÄ™Å¼czyznÄ™ noszÄ…cego Å‚aÅ„cuchy i czarne skÃ³ry. Jego twarz jest pokryta Å›ladami trÄ…dziku.}
+{151}{}{Widzisz MaÅ‚ego Jesusa Mordino.}
+{152}{}{Widzisz MaÅ‚ego Jesusa Mordino. Jest ubrany gÅ‚Ã³wnie w czarne skÃ³ry. Bawi siÄ™ jednym ze swych noÅ¼y.}
 {200}{}{Hej! }
 {201}{}{Zajebista robota, }
-{202}{}{::Unosi kciuki do góry::}
-{203}{}{::Gwi¿d¿e::}
-{220}{}{Jak ty siê odlewasz z ca³ym tym ¿elastwem na sobie?}
-{230}{}{Niez³a spluwa, }
-{240}{}{Po cholerê siê tak skradasz, co, }
+{202}{}{::Unosi kciuki do gÃ³ry::}
+{203}{}{::GwiÅ¼dÅ¼e::}
+{220}{}{Jak ty siÄ™ odlewasz z caÅ‚ym tym Å¼elastwem na sobie?}
+{230}{}{NiezÅ‚a spluwa, }
+{240}{}{Po cholerÄ™ siÄ™ tak skradasz, co, }
 {250}{}{Cojezd, }
 {251}{}{Heeej... }
-{252}{}{Ja pieprzê, ale gor¹c.}
+{252}{}{Ja pieprzÄ™, ale gorÄ…c.}
 {253}{}{Heeej! Powiedz, co porabiasz, }
-{254}{}{Dobrze ciê widzieæ, }
-{255}{}{Hej! ChodŸ zobaczyæ mój nowy nó¿, }
-{256}{}{Jakie gówno kaza³ ci znowu robiæ mój tatko, }
-{257}{}{Dziœ w nocy wyruszamy, }
-{258}{}{Mój nó¿ domaga siê krwi Bishopów...}
-{259}{}{Kiedyœ wyr¿nê tylu Salvatore, ¿e bêd¹ mnie nazywaæ "rzeŸnikiem"...}
-{270}{}{Hej! Cabron! Masz randkê z Anio³em Œmierci? Spieprzaj st¹d!}
-{271}{}{Musisz mieæ niez³e cojones, ¿e tu przy³azisz, }
+{254}{}{Dobrze ciÄ™ widzieÄ‡, }
+{255}{}{Hej! ChodÅº zobaczyÄ‡ mÃ³j nowy nÃ³Å¼, }
+{256}{}{Jakie gÃ³wno kazaÅ‚ ci znowu robiÄ‡ mÃ³j tatko, }
+{257}{}{DziÅ› w nocy wyruszamy, }
+{258}{}{MÃ³j nÃ³Å¼ domaga siÄ™ krwi BishopÃ³w...}
+{259}{}{KiedyÅ› wyrÅ¼nÄ™ tylu Salvatore, Å¼e bÄ™dÄ… mnie nazywaÄ‡ "rzeÅºnikiem"...}
+{270}{}{Hej! Cabron! Masz randkÄ™ z AnioÅ‚em Åšmierci? Spieprzaj stÄ…d!}
+{271}{}{Musisz mieÄ‡ niezÅ‚e cojones, Å¼e tu przyÅ‚azisz, }
 {272}{}{Hijo de puta...}
 {273}{}{Ty }
-{274}{}{Jeœli wci¹¿ tu bêdziesz, gdy skoñczê swojego drinka, to wyrzeŸbiê swoje imiê na twojej twarzy.}
-{275}{}{::Zaczyna groŸnie bawiæ siê swoim no¿em.::}
+{274}{}{JeÅ›li wciÄ…Å¼ tu bÄ™dziesz, gdy skoÅ„czÄ™ swojego drinka, to wyrzeÅºbiÄ™ swoje imiÄ™ na twojej twarzy.}
+{275}{}{::Zaczyna groÅºnie bawiÄ‡ siÄ™ swoim noÅ¼em.::}
 {276}{}{Szukasz swojego hermana, }
 {277}{}{Co do kur... ty! Co ty tu robisz?!}
-{278}{}{Hej! Puta! Masz randkê z Anio³em Œmierci? Spieprzaj st¹d!}
-{279}{}{Myœla³em, ¿e trzymali ciê zamkniêt¹ w twojej budzie, puta.}
-{280}{}{Jeœli nie przychodzisz tu, ¿eby poca³owaæ mnie w ty³ek, }
+{278}{}{Hej! Puta! Masz randkÄ™ z AnioÅ‚em Åšmierci? Spieprzaj stÄ…d!}
+{279}{}{MyÅ›laÅ‚em, Å¼e trzymali ciÄ™ zamkniÄ™tÄ… w twojej budzie, puta.}
+{280}{}{JeÅ›li nie przychodzisz tu, Å¼eby pocaÅ‚owaÄ‡ mnie w tyÅ‚ek, }
 {281}{}{Hija de puta...}
-{300}{}{Jo! Hombre, nie mo¿esz tym tak tutaj wymachiwaæ.}
-{301}{}{Hej! Koleœ, od³ó¿ tê spluwê zanim siê powa¿nie zdenerwujê.}
+{300}{}{Jo! Hombre, nie moÅ¼esz tym tak tutaj wymachiwaÄ‡.}
+{301}{}{Hej! KoleÅ›, odÅ‚Ã³Å¼ tÄ™ spluwÄ™ zanim siÄ™ powaÅ¼nie zdenerwujÄ™.}
 {310}{}{Hej! Chica, z gnatem tu nie wejdziesz.}
-{311}{}{Hej! Chica, od³ó¿ tê spluwê zanim siê powa¿nie zdenerwujê.}
-{320}{}{Po cholerê siê tak skradasz, }
-{330}{}{Po cholerê siê tak skradasz, chica? Z twoim prawym sierpowym nie musisz siê chyba nikogo obawiaæ?}
-{340}{}{Kto ciê nauczy³ tak walczyæ, }
+{311}{}{Hej! Chica, odÅ‚Ã³Å¼ tÄ™ spluwÄ™ zanim siÄ™ powaÅ¼nie zdenerwujÄ™.}
+{320}{}{Po cholerÄ™ siÄ™ tak skradasz, }
+{330}{}{Po cholerÄ™ siÄ™ tak skradasz, chica? Z twoim prawym sierpowym nie musisz siÄ™ chyba nikogo obawiaÄ‡?}
+{340}{}{Kto ciÄ™ nauczyÅ‚ tak walczyÄ‡, }
 {341}{}{Masz cojones prawdziwego Mordino.}
 {342}{}{Twoja ostatnia walka przejdzie do legendy.}
-{343}{}{Lata jak motyl, ¿¹dli jak pszczo³a. To w³aœnie ty - }
-{344}{}{Wiesz co, rodzinie Mordino przyda³by siê ktoœ taki jak ty, }
-{345}{}{Postawi³em na ciebie, to najlepsza lokata w moim ¿yciu. Twoje haki by³y bezkonkurencyjne.}
-{346}{}{Widzia³em ciê ostatnio na ringu, }
-{347}{}{Du¿o æwiczysz, }
+{343}{}{Lata jak motyl, Å¼Ä…dli jak pszczoÅ‚a. To wÅ‚aÅ›nie ty - }
+{344}{}{Wiesz co, rodzinie Mordino przydaÅ‚by siÄ™ ktoÅ› taki jak ty, }
+{345}{}{PostawiÅ‚em na ciebie, to najlepsza lokata w moim Å¼yciu. Twoje haki byÅ‚y bezkonkurencyjne.}
+{346}{}{WidziaÅ‚em ciÄ™ ostatnio na ringu, }
+{347}{}{DuÅ¼o Ä‡wiczysz, }
 {348}{}{Gdzie trenujesz?}
-{349}{}{Uwa¿aj na Prze¿uwacza. Lubi odgryzaæ ludziom uszy.}
-{350}{}{Postawi³bym ci drinka, ale przepuœci³em ca³¹ forsê stawiaj¹c na twojego przeciwnika.}
-{351}{}{Gdzie ciê nauczyli tak walczyæ? Jestem pod du¿ym wra¿eniem. Serio.}
-{352}{}{Kto ciê nauczy³ tak walczyæ, chica? Jesteœ zabójcza. Nikt siê nie porusza tak jak ty.}
-{353}{}{Ostatnia walka by³a kurde niesamowita, chica.}
-{354}{}{Gdzie trenujesz? Mo¿e przyda ci siê masa¿ysta?}
-{370}{}{Hej, hej! Chica, od³ó¿ w tej chwili swoj¹ broñ!}
-{371}{}{Mam ci zrobiæ rewizjê osobist¹, czy co? Natychmiast od³ó¿ tê broñ. Chyba nie chcesz, ¿ebym siê zdenerwowa³.}
-{390}{}{Nie da rady, ¿ebyœ siê przemknê³a ko³o Ma³ego Jesusa z takim cia³kiem, chica.}
-{400}{}{Twój film nie by³ z³y, ale zdecydowanie potrzebujesz kilku wskazówek ode mnie. ::Œmieje siê::}
+{349}{}{UwaÅ¼aj na PrzeÅ¼uwacza. Lubi odgryzaÄ‡ ludziom uszy.}
+{350}{}{PostawiÅ‚bym ci drinka, ale przepuÅ›ciÅ‚em caÅ‚Ä… forsÄ™ stawiajÄ…c na twojego przeciwnika.}
+{351}{}{Gdzie ciÄ™ nauczyli tak walczyÄ‡? Jestem pod duÅ¼ym wraÅ¼eniem. Serio.}
+{352}{}{Kto ciÄ™ nauczyÅ‚ tak walczyÄ‡, chica? JesteÅ› zabÃ³jcza. Nikt siÄ™ nie porusza tak jak ty.}
+{353}{}{Ostatnia walka byÅ‚a kurde niesamowita, chica.}
+{354}{}{Gdzie trenujesz? MoÅ¼e przyda ci siÄ™ masaÅ¼ysta?}
+{370}{}{Hej, hej! Chica, odÅ‚Ã³Å¼ w tej chwili swojÄ… broÅ„!}
+{371}{}{Mam ci zrobiÄ‡ rewizjÄ™ osobistÄ…, czy co? Natychmiast odÅ‚Ã³Å¼ tÄ™ broÅ„. Chyba nie chcesz, Å¼ebym siÄ™ zdenerwowaÅ‚.}
+{390}{}{Nie da rady, Å¼ebyÅ› siÄ™ przemknÄ™Å‚a koÅ‚o MaÅ‚ego Jesusa z takim ciaÅ‚kiem, chica.}
+{400}{}{TwÃ³j film nie byÅ‚ zÅ‚y, ale zdecydowanie potrzebujesz kilku wskazÃ³wek ode mnie. ::Åšmieje siÄ™::}
 {401}{}{Hej, }
-{402}{}{Jestem naprawdê dobry w te klocki. Mo¿e zatrudnisz mnie przy swoim nastêpnym filmie, co? Bêdzie z tego hicior. Mówiê ci, }
-{403}{}{Jestem idea³em latynoskiego kochanka. Kobiety marz¹ o kimœ takim jak ja.}
+{402}{}{Jestem naprawdÄ™ dobry w te klocki. MoÅ¼e zatrudnisz mnie przy swoim nastÄ™pnym filmie, co? BÄ™dzie z tego hicior. MÃ³wiÄ™ ci, }
+{403}{}{Jestem ideaÅ‚em latynoskiego kochanka. Kobiety marzÄ… o kimÅ› takim jak ja.}
 {404}{}{Wspomnij o mnie Braciom, dobra, }
-{405}{}{Rzuæ o mnie dobre s³ówko braciom, dobra?}
-{406}{}{Dobrze robisz uk³adaj¹c siê z rodzin¹ Mordino. Bêd¹ z ciebie ludzie.}
-{407}{}{Potrzebujesz prochów? Bimbru? Pieniêdzy? Mogê ci to za³atwiæ. Mam pod-wi¹zania, ³apiesz?}
-{408}{}{Mo¿e zagramy razem w jakimœ filmie, co? Poka¿ê ci co potrafi latynoski kochanek, chica.}
-{409}{}{Mo¿e zajrzysz do mnie po pracy?}
-{410}{}{Masz jakieœ kole¿anki?}
-{411}{}{Potrzebujesz Jetu? Mogê ci trochê za³atwiæ, chica.}
-{412}{}{Chica, przecie¿ wiesz, ¿e zrobiê dla ciebie wszystko... no ju¿, daj mi buziaka.}
-{425}{}{Nie wa³êsaj siê tu z broni¹ w rêku. Schowaj to.}
-{435}{}{Przestañ siê tak skradaæ, £owco. Jesteœ wœród przyjació³.}
-{445}{}{Hej! Na uszy ci pad³o, czy co? Od³ó¿ broñ, zanim zrobiê ci krzywdê.}
-{446}{}{Przewietrzyæ ci mózg? Schowaj broñ!}
-{447}{}{Hej, chica! G³ucha jesteœ, czy co? Od³ó¿ broñ, zanim zrobiê ci krzywdê.}
-{455}{}{Po cholerê siê tak skradasz? Chcesz zarobiæ kulkê?}
-{460}{}{Po cholerê siê tak skradasz, chica? Chcesz zarobiæ kulkê?}
-{465}{}{Zabieraj st¹d tê kupê z³omu.}
-{466}{}{Nie wpuszczamy tu robotów. Spadaj.}
-{467}{}{Zabieraj tego robota, zanim zrobiê z niego miazgê.}
-{475}{}{A tak mi coœ œmierdzia³o mutantem... Zabieraj go st¹d, zanim siê wkurzê.}
-{476}{}{A ty co - mi³oœnik mutantów? Zabieraj go st¹d.}
-{477}{}{Jeœli ten mutant bêdzie siê tu krêci³, zrobimy sobie z niego tarczê strzelnicz¹.}
-{485}{}{A tak mi coœ œmierdzia³o zgnilizn¹. Zabieraj st¹d to chodz¹ce œcierwo.}
-{486}{}{Zabieraj st¹d tego œmierdz¹cego ghula. Ale ju¿!}
-{487}{}{Jeœli ten ghul zaraz st¹d nie zniknie, bêdzie jeszcze bardziej martwy.}
-{495}{}{Hej, ty. ChodŸ tutaj i poka¿ mi swój nó¿.}
-{496}{}{£adny nó¿.}
-{497}{}{Mogê obejrzeæ ten nó¿?}
+{405}{}{RzuÄ‡ o mnie dobre sÅ‚Ã³wko braciom, dobra?}
+{406}{}{Dobrze robisz ukÅ‚adajÄ…c siÄ™ z rodzinÄ… Mordino. BÄ™dÄ… z ciebie ludzie.}
+{407}{}{Potrzebujesz prochÃ³w? Bimbru? PieniÄ™dzy? MogÄ™ ci to zaÅ‚atwiÄ‡. Mam pod-wiÄ…zania, Å‚apiesz?}
+{408}{}{MoÅ¼e zagramy razem w jakimÅ› filmie, co? PokaÅ¼Ä™ ci co potrafi latynoski kochanek, chica.}
+{409}{}{MoÅ¼e zajrzysz do mnie po pracy?}
+{410}{}{Masz jakieÅ› koleÅ¼anki?}
+{411}{}{Potrzebujesz Jetu? MogÄ™ ci trochÄ™ zaÅ‚atwiÄ‡, chica.}
+{412}{}{Chica, przecieÅ¼ wiesz, Å¼e zrobiÄ™ dla ciebie wszystko... no juÅ¼, daj mi buziaka.}
+{425}{}{Nie waÅ‚Ä™saj siÄ™ tu z broniÄ… w rÄ™ku. Schowaj to.}
+{435}{}{PrzestaÅ„ siÄ™ tak skradaÄ‡, Åowco. JesteÅ› wÅ›rÃ³d przyjaciÃ³Å‚.}
+{445}{}{Hej! Na uszy ci padÅ‚o, czy co? OdÅ‚Ã³Å¼ broÅ„, zanim zrobiÄ™ ci krzywdÄ™.}
+{446}{}{PrzewietrzyÄ‡ ci mÃ³zg? Schowaj broÅ„!}
+{447}{}{Hej, chica! GÅ‚ucha jesteÅ›, czy co? OdÅ‚Ã³Å¼ broÅ„, zanim zrobiÄ™ ci krzywdÄ™.}
+{455}{}{Po cholerÄ™ siÄ™ tak skradasz? Chcesz zarobiÄ‡ kulkÄ™?}
+{460}{}{Po cholerÄ™ siÄ™ tak skradasz, chica? Chcesz zarobiÄ‡ kulkÄ™?}
+{465}{}{Zabieraj stÄ…d tÄ™ kupÄ™ zÅ‚omu.}
+{466}{}{Nie wpuszczamy tu robotÃ³w. Spadaj.}
+{467}{}{Zabieraj tego robota, zanim zrobiÄ™ z niego miazgÄ™.}
+{475}{}{A tak mi coÅ› Å›mierdziaÅ‚o mutantem... Zabieraj go stÄ…d, zanim siÄ™ wkurzÄ™.}
+{476}{}{A ty co - miÅ‚oÅ›nik mutantÃ³w? Zabieraj go stÄ…d.}
+{477}{}{JeÅ›li ten mutant bÄ™dzie siÄ™ tu krÄ™ciÅ‚, zrobimy sobie z niego tarczÄ™ strzelniczÄ….}
+{485}{}{A tak mi coÅ› Å›mierdziaÅ‚o zgniliznÄ…. Zabieraj stÄ…d to chodzÄ…ce Å›cierwo.}
+{486}{}{Zabieraj stÄ…d tego Å›mierdzÄ…cego ghula. Ale juÅ¼!}
+{487}{}{JeÅ›li ten ghul zaraz stÄ…d nie zniknie, bÄ™dzie jeszcze bardziej martwy.}
+{495}{}{Hej, ty. ChodÅº tutaj i pokaÅ¼ mi swÃ³j nÃ³Å¼.}
+{496}{}{Åadny nÃ³Å¼.}
+{497}{}{MogÄ™ obejrzeÄ‡ ten nÃ³Å¼?}
 {505}{}{Hanh? }
-{506}{}{Chcesz czegoœ amigo?}
-{507}{}{Chcesz czegoœ chica?}
+{506}{}{Chcesz czegoÅ› amigo?}
+{507}{}{Chcesz czegoÅ› chica?}
 {508}{}{Chuu uuch?}
-{511}{}{OdejdŸ}
-{512}{}{Kim jesteœ?}
-{513}{}{Przepraszam. Wydawa³o mi siê, ¿e to inna osoba.}
+{511}{}{OdejdÅº}
+{512}{}{Kim jesteÅ›?}
+{513}{}{Przepraszam. WydawaÅ‚o mi siÄ™, Å¼e to inna osoba.}
 {522}{}{Ech...? Znowu ty? Czego chcesz tym razem?}
-{523}{}{Heeeej... cojezd? Jakieœ pomys³y krêc¹ ci siê po g³owie?}
+{523}{}{Heeeej... cojezd? JakieÅ› pomysÅ‚y krÄ™cÄ… ci siÄ™ po gÅ‚owie?}
 {524}{}{Ja z pod gdzie}
 {525}{}{Am-ig-go?}
 {526}{}{Cziii-ka Cziiik-aaaach}
-{529}{}{Mam kilka pytañ...}
-{530}{}{Niewa¿ne. Przepraszam za zawracanie g³owy.}
+{529}{}{Mam kilka pytaÅ„...}
+{530}{}{NiewaÅ¼ne. Przepraszam za zawracanie gÅ‚owy.}
 {540}{}{}
 {541}{}{}
-{542}{}{Hej, hej, hej! Ty jesteœ }
+{542}{}{Hej, hej, hej! Ty jesteÅ› }
 {544}{}{Daj do pieca no dawaj}
-{547}{}{Dziêki Jesus. Hej, mam do ciebie kilka pytañ...}
-{548}{}{Dziêki za komplement. Tylko têdy przechodzê, muszê ju¿ iœæ.}
-{549}{}{Jasne, nie potrzebujê, ¿ebyœ mówi³ mi takie rzeczy. Uwa¿aj na siebie.}
+{547}{}{DziÄ™ki Jesus. Hej, mam do ciebie kilka pytaÅ„...}
+{548}{}{DziÄ™ki za komplement. Tylko tÄ™dy przechodzÄ™, muszÄ™ juÅ¼ iÅ›Ä‡.}
+{549}{}{Jasne, nie potrzebujÄ™, Å¼ebyÅ› mÃ³wiÅ‚ mi takie rzeczy. UwaÅ¼aj na siebie.}
 {560}{}{Heeeej! Jak leci, }
-{562}{}{Wszystko w porz¹dku, czy mam zawo³aæ tu jakieœ putas do obs³ugi? Ha!}
-{563}{}{Wszystko w porz¹dku, czy mam zawo³aæ jak¹œ kelnerkê, ¿eby ciê obs³u¿y³a? Ha!}
-{567}{}{Nie trzeba, wszystko w porz¹dku. Wiesz co Jesus, mam do ciebie kilka pytañ...}
-{568}{}{Nie trzeba, trzymam siê dobrze. PóŸniej pogadamy.}
-{582}{}{Eh? Chcesz coœ sprzedaæ? Masz jakiœ towar, który chcesz tu wy³adowaæ?}
-{583}{}{Ja wy³adowaæ! Ja wy³adowaæ!}
-{586}{}{Pewnie. Czy to z tob¹ nale¿y o tym rozmawiaæ?}
-{587}{}{Nie teraz. Mam jednak kilka pytañ...}
-{588}{}{Nie teraz. Mo¿e póŸniej.}
-{600}{}{Heh. Za du¿o siedzisz na s³oñcu. Zmiataj.}
-{601}{}{Ech... jasne. Trzymaj siê amigo. PóŸniej pogadamy.}
-{602}{}{Ecg... jasne. Trzymaj siê chica. PóŸniej pogadamy.}
-{603}{}{Heh. Mo¿e lepiej wracaj i dalej siedŸ sobie na s³oñcu, dzikusie. Nie zanieczyszczaj tutejszego powietrza.}
+{562}{}{Wszystko w porzÄ…dku, czy mam zawoÅ‚aÄ‡ tu jakieÅ› putas do obsÅ‚ugi? Ha!}
+{563}{}{Wszystko w porzÄ…dku, czy mam zawoÅ‚aÄ‡ jakÄ…Å› kelnerkÄ™, Å¼eby ciÄ™ obsÅ‚uÅ¼yÅ‚a? Ha!}
+{567}{}{Nie trzeba, wszystko w porzÄ…dku. Wiesz co Jesus, mam do ciebie kilka pytaÅ„...}
+{568}{}{Nie trzeba, trzymam siÄ™ dobrze. PÃ³Åºniej pogadamy.}
+{582}{}{Eh? Chcesz coÅ› sprzedaÄ‡? Masz jakiÅ› towar, ktÃ³ry chcesz tu wyÅ‚adowaÄ‡?}
+{583}{}{Ja wyÅ‚adowaÄ‡! Ja wyÅ‚adowaÄ‡!}
+{586}{}{Pewnie. Czy to z tobÄ… naleÅ¼y o tym rozmawiaÄ‡?}
+{587}{}{Nie teraz. Mam jednak kilka pytaÅ„...}
+{588}{}{Nie teraz. MoÅ¼e pÃ³Åºniej.}
+{600}{}{Heh. Za duÅ¼o siedzisz na sÅ‚oÅ„cu. Zmiataj.}
+{601}{}{Ech... jasne. Trzymaj siÄ™ amigo. PÃ³Åºniej pogadamy.}
+{602}{}{Ecg... jasne. Trzymaj siÄ™ chica. PÃ³Åºniej pogadamy.}
+{603}{}{Heh. MoÅ¼e lepiej wracaj i dalej siedÅº sobie na sÅ‚oÅ„cu, dzikusie. Nie zanieczyszczaj tutejszego powietrza.}
 {604}{}{Dobraaa}
-{620}{}{Zmykaj st¹d.}
-{621}{}{PrzyjdŸ tu jeszcze raz, a tak ciê nafaszerujê o³owiem, ¿e nawet Superman nie móg³by ciê przeœwietliæ.}
-{622}{}{::GroŸnie bawi siê swoim no¿em::}
+{620}{}{Zmykaj stÄ…d.}
+{621}{}{PrzyjdÅº tu jeszcze raz, a tak ciÄ™ nafaszerujÄ™ oÅ‚owiem, Å¼e nawet Superman nie mÃ³gÅ‚by ciÄ™ przeÅ›wietliÄ‡.}
+{622}{}{::GroÅºnie bawi siÄ™ swoim noÅ¼em::}
 {623}{}{::Pluje ci pod nogi::}
-{624}{}{Wygl¹dasz na cz³owieka, który nie wie, ¿e igra ze œmierci¹.}
-{625}{}{Zmiataj zanim ciê skasujê.}
-{626}{}{PrzyjdŸ tu jeszcze raz, to ci wyrwê wszystkie flaki.}
-{640}{}{(Czyœci swoim no¿em paznokcie) Pytania... WSZYSCY siê o coœ pytaj¹...}
-{641}{}{(D³ubie sobie w zêbach brudnym paznokciem) Ach tak?}
-{642}{}{Co masz na myœli?}
-{643}{}{Mo¿esz powtórzyæ to, co mówi³eœ o Rodzinie Mordino?}
+{624}{}{WyglÄ…dasz na czÅ‚owieka, ktÃ³ry nie wie, Å¼e igra ze Å›mierciÄ….}
+{625}{}{Zmiataj zanim ciÄ™ skasujÄ™.}
+{626}{}{PrzyjdÅº tu jeszcze raz, to ci wyrwÄ™ wszystkie flaki.}
+{640}{}{(CzyÅ›ci swoim noÅ¼em paznokcie) Pytania... WSZYSCY siÄ™ o coÅ› pytajÄ…...}
+{641}{}{(DÅ‚ubie sobie w zÄ™bach brudnym paznokciem) Ach tak?}
+{642}{}{Co masz na myÅ›li?}
+{643}{}{MoÅ¼esz powtÃ³rzyÄ‡ to, co mÃ³wiÅ‚eÅ› o Rodzinie Mordino?}
 {644}{}{Szukam pracy.}
-{645}{}{Jak mo¿na siê zrelaksowaæ w Nowym Reno?}
-{646}{}{Wiesz coœ na temat przedawkowania Jetu przez Richarda Wrighta?}
-{647}{}{Mo¿esz nauczyæ mnie walki na no¿e?}
-{648}{}{Niewa¿ne. PóŸniej pogadamy.}
-{660}{}{Ja? Jeœli tak bardzo chcesz wiedzieæ... heh. Jestem Jesus. Jesus Mordino. Tak samo jak mój tato, ale on jest DU¯Y Jesus, g³owa CA£EJ rodziny Mordino z Nowego Reno. Wiêc wiêkszoœæ mówi na mnie Ma³y Jesus. Wiesz, to zapobiega krêpuj¹cym sytuacjom.}
+{645}{}{Jak moÅ¼na siÄ™ zrelaksowaÄ‡ w Nowym Reno?}
+{646}{}{Wiesz coÅ› na temat przedawkowania Jetu przez Richarda Wrighta?}
+{647}{}{MoÅ¼esz nauczyÄ‡ mnie walki na noÅ¼e?}
+{648}{}{NiewaÅ¼ne. PÃ³Åºniej pogadamy.}
+{660}{}{Ja? JeÅ›li tak bardzo chcesz wiedzieÄ‡... heh. Jestem Jesus. Jesus Mordino. Tak samo jak mÃ³j tato, ale on jest DUÅ»Y Jesus, gÅ‚owa CAÅEJ rodziny Mordino z Nowego Reno. WiÄ™c wiÄ™kszoÅ›Ä‡ mÃ³wi na mnie MaÅ‚y Jesus. Wiesz, to zapobiega krÄ™pujÄ…cym sytuacjom.}
 {661}{}{Rodzina Mordino? Kto to?}
-{662}{}{Mówiono mi ju¿ o waszej rodzinie. Podobno jesteœcie si³¹, z któr¹ nale¿y siê liczyæ.}
-{663}{}{Szukam pracy. Czy Rodzina Mordino szuka pracowników?}
-{665}{}{Jak mo¿na siê zrelaksowaæ w Nowym Reno?}
-{666}{}{Rozumiem. Mam kilka pytañ...}
-{680}{}{My, Mordino, bêdziemy rz¹dziæ Nowym Reno... i Redding te¿. Zobaczysz.}
-{681}{}{Rodzina MORDINO? Wzi¹³eœ za du¿o Jetu homes? My, Mordino, rz¹dzimy Nowym Reno... i Redding te¿.}
-{682}{}{Rodzina MORDINO? Wziê³aœ za du¿o Jetu chica? My, Mordino, rz¹dzimy Nowym Reno... i Redding te¿.}
-{683}{}{Wychodzi na to, ¿e Mordino s¹ rodzin¹, z któr¹ nale¿y trzymaæ... mo¿esz mnie jakoœ wkrêciæ?}
-{684}{}{Co masz na myœli mówi¹c o Redding?}
+{662}{}{MÃ³wiono mi juÅ¼ o waszej rodzinie. Podobno jesteÅ›cie siÅ‚Ä…, z ktÃ³rÄ… naleÅ¼y siÄ™ liczyÄ‡.}
+{663}{}{Szukam pracy. Czy Rodzina Mordino szuka pracownikÃ³w?}
+{665}{}{Jak moÅ¼na siÄ™ zrelaksowaÄ‡ w Nowym Reno?}
+{666}{}{Rozumiem. Mam kilka pytaÅ„...}
+{680}{}{My, Mordino, bÄ™dziemy rzÄ…dziÄ‡ Nowym Reno... i Redding teÅ¼. Zobaczysz.}
+{681}{}{Rodzina MORDINO? WziÄ…Å‚eÅ› za duÅ¼o Jetu homes? My, Mordino, rzÄ…dzimy Nowym Reno... i Redding teÅ¼.}
+{682}{}{Rodzina MORDINO? WziÄ™Å‚aÅ› za duÅ¼o Jetu chica? My, Mordino, rzÄ…dzimy Nowym Reno... i Redding teÅ¼.}
+{683}{}{Wychodzi na to, Å¼e Mordino sÄ… rodzinÄ…, z ktÃ³rÄ… naleÅ¼y trzymaÄ‡... moÅ¼esz mnie jakoÅ› wkrÄ™ciÄ‡?}
+{684}{}{Co masz na myÅ›li mÃ³wiÄ…c o Redding?}
 {685}{}{Redding? Gdzie to jest?}
-{686}{}{Wychodzi na to, ¿e Mordino maj¹ przed sob¹ œwietlan¹ przysz³oœæ. Wiesz co, mam kilka pytañ...}
-{687}{}{Mordino wal¹ du¿e gadki, ale maj¹ ma³e cojones. Jak mi na to odpowiesz, MA£Y Jesusie?}
-{700}{}{Na pó³nocnym zachodzie homes. }
-{701}{}{Na pó³nocnym zachodzie chica. }
-{702}{}{Jeœli jeszcze ciê tam nie by³o, to nic straconego. To banda bezszyjnych górników, którzy lubi¹ LATAÆ, jeœli wiesz, o czym mówiê.}
-{703}{}{Nie za bardzo. O czym mówisz?}
-{704}{}{To banda narkomanów?}
-{705}{}{Rozumiem. Mam kilka innych pytañ...}
-{706}{}{Muszê ju¿ iœæ. Na razie Jesus.}
-{720}{}{Banda bezszyjnych górników. Grzebi¹ siê w ziemi, ale lubi¹ lataæ, jeœli wiesz, o czym mówiê.}
-{740}{}{Widzisz, ci bezszyjni wydobywaj¹ z³oto, ale to co MY im dajemy, jest lepsze od z³ota, rozumiesz? Daj¹ nam CA£E z³oto, które wykopi¹, w zamian za ODROBINKÊ Jetu. Wszyscy s¹ szczêœliwi.}
-{742}{}{Na to wygl¹da. Mam kilka innych pytañ...}
-{760}{}{Jak ju¿ raz spróbowali Jetu, to nimi zostali. Tu siê nie da powiedzieæ: tylko ten jeden raz.}
-{761}{}{Sk¹d pochodzi Jet?}
-{762}{}{Rozumiem. Wiesz co, mam kilka innych pytañ...}
-{780}{}{Jet? On siê bierze ST¥D. Widzisz, my nie wykopujemy z³ota, my je ROBIMY: p³ynne z³oto. Jet. Dla górników wart jest fortunê, a koszt produkcji jest prawie ¿aden. Wysy³amy to do Redding, oni siê tym sztachaj¹, odlatuj¹, wysy³aj¹ nam z³oto. Proste.}
-{781}{}{Od jak dawna to trwa? Wychodzi na to, ¿e gdyby Jet by³ a¿ tak uzale¿niaj¹cy, to kontrolowalibyœcie ca³¹ Pó³nocn¹ Kaliforniê.}
-{800}{}{Masz racjê... widzisz, my nie zawsze MIELIŒMY Jet. Ale trafiliœmy na tego dzieciaka - popatrzy³ na te gówniane prochy, które wtedy sprzedawaliœmy i powiedzia³, ¿e on zrobi³by to lepiej. I zrobi³. Teraz pracuje dla nas. Proste.}
-{801}{}{Co to za dzieciak i gdzie siê znajduje?}
-{820}{}{Dzieciak nazywa siê Myron. A to, gdzie siê ZNAJDUJE, to ju¿ coœ, czego nie musisz wiedzieæ.}
-{821}{}{Dzieciak nazywa siê Myron. Trzymamy go w stajniach na pó³noc od miasta, gdzie testuje nowe prochy. Jeœli chcesz, to mo¿esz tam pójœæ i siê z nim zobaczyæ, ale on przez wiêkszoœæ czasu jest zajêty... prochami, albo kobietami.}
-{822}{}{A mo¿e przestañ siê wyg³upiaæ i mi to powiedz?}
-{823}{}{Rozumiem. Mam kilka innych pytañ...}
-{824}{}{Myron, tak? W porz¹dku Jesus, dziêki za rozmowê.}
-{840}{}{Homes, Desperado to najlepsze miejsce. Mamy Jet, gry, akcjê... a zaraz na zewn¹trz mamy wszystkie putas jakich ci tylko trzeba, gor¹ce i chêtne. Prawdziwy raj homes. Pra-dziwy-raj.}
-{841}{}{Chica, Desperado to najlepsze miejsce. Mamy Jet, gry, akcjê. Nie musisz iœæ nigdzie indziej.}
-{842}{}{Ach... wiêc chcesz re-laksu, co chica? He... wiêc co powiesz na prze¿ycie ze mn¹ s³odkiej przygody mi³osnej?}
-{843}{}{To kusz¹ce, ale teraz nie mam nawet dziesiêciu sekund na s³odkie przygody z tob¹, Ma³y Jesusie.}
-{844}{}{To mi³e, ale nie, dziêkujê. Mam kilka innych pytañ...}
-{846}{}{Szukam pracy. Wiesz mo¿e, gdzie tutaj szukaj¹ pracowników?}
-{847}{}{Dziêki za radê, naprawdê dziêki.}
-{848}{}{Czemu nie zabierzesz siê do tego beze mnie? Muszê ju¿ iœæ.}
-{860}{}{¯e co? O czym ty mów...? (Dociera do niego) Ty pieprzona PUTA! Lepiej zabieraj st¹d swój przechodzony ty³ek, zanim potnê ciê na tyle ma³ych kawa³ków, ¿e ciê rodzona matka nie pozna.}
-{861}{}{¯e co? O czym ty mów...? (Dociera do niego) Homes, lepiej zabieraj st¹d swój ty³ek, nim wezmê swój nó¿ i dorobiê ci drugi uœmiech na szyi.}
-{862}{}{Tylko spróbuj i zobacz, co siê stanie, MA£Y Jesusie.}
-{863}{}{Tylko spróbuj, a zrobiê ci na twarzy tyle blizn, ¿e bêdziesz wygl¹da³ jak puzzle.}
-{864}{}{Uspokój siê... tylko sobie ¿artujê.}
-{865}{}{Spokojnie. Mam kilka innych pytañ...}
-{867}{}{Odchodzê. Mi³o mi siê rozmawia³o z tak kulturaln¹ osob¹ jak ty.}
-{880}{}{Ha! Jezdeœ w porz¹dku chica. W porz¹deczku. Ma³y Jesus bêdzie mia³ na ciebie oko... nie to, ¿ebym nie móg³ sobie sam poradziæ. Co mogê dla ciebie zrobiæ?}
-{881}{}{Pierwsza rzecz, jak¹ mo¿esz dla mnie zrobiæ, MA£Y Jesusie, to zatrzymaæ swoje oczy dla siebie. Prêdzej zastanowiê siê nad r¿niêciem litej ska³y, ni¿ dotknê tego ksiê¿ycowego krajobrazu, który nazywasz twarz¹.}
-{882}{}{Szukam pracy. Znasz kogoœ, kto szuka pracownika?}
-{883}{}{Mam kilka innych pytañ...}
-{884}{}{W³aœciwie to muszê ju¿ iœæ. Mi³o siê z tob¹ rozmawia³o Jesus.}
-{890}{}{(Ogl¹da ciê ze wszystkich stron i potakuje) Zawsze szukamy œwie¿ej krwi... w szczególnoœci œwie¿ej krwi, która chce rozlewaæ krew, jeœli wiesz, o co mi chodzi. IdŸ na górê pogadaæ z tat¹. Powiedz mu, ¿e ciê przys³a³em, a mo¿e bêdziemy wspólnie robiæ interesy.}
-{891}{}{(Ogl¹da ciê ze wszystkich stron i potrz¹sa g³ow¹) Nie wynajmujemy chicas... z wyj¹tkiem pewnych konkretnych posad. Spróbuj pogadaæ z tat¹. Powiedz, ¿e ciê przys³a³em. Mo¿e uda ci siê ubiæ jakiœ interes.}
-{892}{}{Mo¿e. Mam kilka innych pytañ...}
-{893}{}{A wiêc pójdê siê z nim zobaczyæ. Jeszcze siê spotkamy Jesusie.}
-{900}{}{No nie wiem. Na moje oko nie wygl¹dasz na zbyt silnego... mo¿e spróbuj gdzie indziej homes.}
-{901}{}{Nie... nic mi nie przychodzi do g³owy. Nasza rodzina nie szuka pracowników, a inne rodziny prêdzej ciê zabij¹, ni¿ zechc¹ z tob¹ gadaæ. Homes, nie masz szczêœcia.}
-{902}{}{Nie... nie wiem nic o tym, ¿eby ktoœ szuka³ pracowników. Spróbuj znaleŸæ sobie alfonsa, a MO¯E zarobisz trochê kasy na wynajmowaniu swojego ty³ka.}
-{903}{}{MY nie szukamy pracowników, ale z takim cia³kiem mo¿esz spróbowaæ zaczepiæ siê w Studiu Braci Corsican parê kroków st¹d. (Szczerzy zêby w uœmiechu) A jeœli szukasz szybkiego zarobku, to mój pokój jest na górze...}
-{904}{}{W porz¹dku. Mam parê innych pytañ...}
-{905}{}{Uch, to nie dla mnie. Mam kilka innych pytañ...}
-{906}{}{Raczej nie, ale dziêki. Mam za to kilka innych pytañ...}
-{907}{}{Och, mogê siê za³o¿yæ, ¿e to BY£OBY szybkie. Nie, dziêkujê.}
-{908}{}{A wiêc zapomnijmy o tym. I tak dziêki.}
-{909}{}{Nie, dziêki. Lepiej ju¿ pójdê.}
-{920}{}{Och, to ma zmieniæ postaæ rzeczy, czy tak? (Pluje ci pod stopy) Wynoœ siê st¹d do diab³a, albo ciê zar¿nê.}
-{921}{}{Tylko spróbuj i zobacz, co siê stanie... MA£Y Jesusie.}
-{922}{}{Uspokój siê Jesus... s³uchaj, mam kilka innych pytañ...}
-{923}{}{Idê sobie.}
-{924}{}{Plujesz mi na buty? Pierdol siê! Ty pojebusie, zaraz nauczê ciê szacunku!}
-{930}{}{Nie, to nie ze mn¹ te sprawy... idŸ na górê do mojego taty. To z nim musisz o tym porozmawiaæ.}
-{931}{}{A ty jesteœ...?}
-{932}{}{Dobrze. Zanim pójdê, mam jeszcze kilka pytañ...}
-{933}{}{Dziêkujê.}
-{940}{}{PIERDOL siê. Wynoœ siê z kasyna mojej rodziny, zanim wytnê swoje inicja³y na twoim trupie.}
-{942}{}{Ju¿ ty mnie nie strasz, Jesus.}
-{943}{}{Zaczekaj - mam kilka innych pytañ...}
-{944}{}{Uspokój siê Jesus. Idê st¹d.}
-{950}{}{Ten ma³y siuœmajtek od Wrightów? Ha! Próbujesz zwaliæ to ca³e gówno na mnie? Masz pecha, nie jest mi przykro, ¿e ten ma³y jebus nie ¿yje, ale nie mia³em z tym NIC wspólnego.}
-{951}{}{Ach tak? Wiesz, Mordino to najwiêkszy dostawca Jetu w Nowym Reno. To sprawia, ¿e przede wszystkim was bêdzie siê o to obwiniaæ.}
-{952}{}{Nie wierzê ci. Myœlê, ¿e JESTEŒCIE odpowiedzialni. Ty i ca³a reszta rodziny Mordino.}
-{953}{}{Jak myœlisz, kto to móg³ zrobiæ?}
-{954}{}{Okej... S³uchaj, mam jeszcze kilka pytañ...}
-{955}{}{Ju¿ dobrze. Tylko siê pytam.}
-{965}{}{(Oczy mu siê zwê¿aj¹) Pos³uchaj, nie mam NIC wspólnego ze œmierci¹ tego dzieciaka. Nie wiem, co ci powiedziano, ale gdybym chcia³ go zabiæ, to bym go ciachn¹³ no¿em, a nie zmusi³ do kraksy na Jecie, rozumiesz? }
-{966}{}{No i co, ¿e bêdzie na nas? Nie mówiê, ¿e to ZROBILIŒMY. Ma³y gówniarz wzi¹³ za du¿o. Nie jest mi przykro, ¿e zgin¹³. A jak siê stary Wright zacznie rzucaæ, to pogrzebiemy go zaraz obok jego æpunowatego dzieciaka.}
-{967}{}{Wiesz co Jesus, jesteœ naprawdê humanitarny.}
+{686}{}{Wychodzi na to, Å¼e Mordino majÄ… przed sobÄ… Å›wietlanÄ… przyszÅ‚oÅ›Ä‡. Wiesz co, mam kilka pytaÅ„...}
+{687}{}{Mordino walÄ… duÅ¼e gadki, ale majÄ… maÅ‚e cojones. Jak mi na to odpowiesz, MAÅY Jesusie?}
+{700}{}{Na pÃ³Å‚nocnym zachodzie homes. }
+{701}{}{Na pÃ³Å‚nocnym zachodzie chica. }
+{702}{}{JeÅ›li jeszcze ciÄ™ tam nie byÅ‚o, to nic straconego. To banda bezszyjnych gÃ³rnikÃ³w, ktÃ³rzy lubiÄ… LATAÄ†, jeÅ›li wiesz, o czym mÃ³wiÄ™.}
+{703}{}{Nie za bardzo. O czym mÃ³wisz?}
+{704}{}{To banda narkomanÃ³w?}
+{705}{}{Rozumiem. Mam kilka innych pytaÅ„...}
+{706}{}{MuszÄ™ juÅ¼ iÅ›Ä‡. Na razie Jesus.}
+{720}{}{Banda bezszyjnych gÃ³rnikÃ³w. GrzebiÄ… siÄ™ w ziemi, ale lubiÄ… lataÄ‡, jeÅ›li wiesz, o czym mÃ³wiÄ™.}
+{740}{}{Widzisz, ci bezszyjni wydobywajÄ… zÅ‚oto, ale to co MY im dajemy, jest lepsze od zÅ‚ota, rozumiesz? DajÄ… nam CAÅE zÅ‚oto, ktÃ³re wykopiÄ…, w zamian za ODROBINKÄ˜ Jetu. Wszyscy sÄ… szczÄ™Å›liwi.}
+{742}{}{Na to wyglÄ…da. Mam kilka innych pytaÅ„...}
+{760}{}{Jak juÅ¼ raz sprÃ³bowali Jetu, to nimi zostali. Tu siÄ™ nie da powiedzieÄ‡: tylko ten jeden raz.}
+{761}{}{SkÄ…d pochodzi Jet?}
+{762}{}{Rozumiem. Wiesz co, mam kilka innych pytaÅ„...}
+{780}{}{Jet? On siÄ™ bierze STÄ„D. Widzisz, my nie wykopujemy zÅ‚ota, my je ROBIMY: pÅ‚ynne zÅ‚oto. Jet. Dla gÃ³rnikÃ³w wart jest fortunÄ™, a koszt produkcji jest prawie Å¼aden. WysyÅ‚amy to do Redding, oni siÄ™ tym sztachajÄ…, odlatujÄ…, wysyÅ‚ajÄ… nam zÅ‚oto. Proste.}
+{781}{}{Od jak dawna to trwa? Wychodzi na to, Å¼e gdyby Jet byÅ‚ aÅ¼ tak uzaleÅ¼niajÄ…cy, to kontrolowalibyÅ›cie caÅ‚Ä… PÃ³Å‚nocnÄ… KaliforniÄ™.}
+{800}{}{Masz racjÄ™... widzisz, my nie zawsze MIELIÅšMY Jet. Ale trafiliÅ›my na tego dzieciaka - popatrzyÅ‚ na te gÃ³wniane prochy, ktÃ³re wtedy sprzedawaliÅ›my i powiedziaÅ‚, Å¼e on zrobiÅ‚by to lepiej. I zrobiÅ‚. Teraz pracuje dla nas. Proste.}
+{801}{}{Co to za dzieciak i gdzie siÄ™ znajduje?}
+{820}{}{Dzieciak nazywa siÄ™ Myron. A to, gdzie siÄ™ ZNAJDUJE, to juÅ¼ coÅ›, czego nie musisz wiedzieÄ‡.}
+{821}{}{Dzieciak nazywa siÄ™ Myron. Trzymamy go w stajniach na pÃ³Å‚noc od miasta, gdzie testuje nowe prochy. JeÅ›li chcesz, to moÅ¼esz tam pÃ³jÅ›Ä‡ i siÄ™ z nim zobaczyÄ‡, ale on przez wiÄ™kszoÅ›Ä‡ czasu jest zajÄ™ty... prochami, albo kobietami.}
+{822}{}{A moÅ¼e przestaÅ„ siÄ™ wygÅ‚upiaÄ‡ i mi to powiedz?}
+{823}{}{Rozumiem. Mam kilka innych pytaÅ„...}
+{824}{}{Myron, tak? W porzÄ…dku Jesus, dziÄ™ki za rozmowÄ™.}
+{840}{}{Homes, Desperado to najlepsze miejsce. Mamy Jet, gry, akcjÄ™... a zaraz na zewnÄ…trz mamy wszystkie putas jakich ci tylko trzeba, gorÄ…ce i chÄ™tne. Prawdziwy raj homes. Pra-dziwy-raj.}
+{841}{}{Chica, Desperado to najlepsze miejsce. Mamy Jet, gry, akcjÄ™. Nie musisz iÅ›Ä‡ nigdzie indziej.}
+{842}{}{Ach... wiÄ™c chcesz re-laksu, co chica? He... wiÄ™c co powiesz na przeÅ¼ycie ze mnÄ… sÅ‚odkiej przygody miÅ‚osnej?}
+{843}{}{To kuszÄ…ce, ale teraz nie mam nawet dziesiÄ™ciu sekund na sÅ‚odkie przygody z tobÄ…, MaÅ‚y Jesusie.}
+{844}{}{To miÅ‚e, ale nie, dziÄ™kujÄ™. Mam kilka innych pytaÅ„...}
+{846}{}{Szukam pracy. Wiesz moÅ¼e, gdzie tutaj szukajÄ… pracownikÃ³w?}
+{847}{}{DziÄ™ki za radÄ™, naprawdÄ™ dziÄ™ki.}
+{848}{}{Czemu nie zabierzesz siÄ™ do tego beze mnie? MuszÄ™ juÅ¼ iÅ›Ä‡.}
+{860}{}{Å»e co? O czym ty mÃ³w...? (Dociera do niego) Ty pieprzona PUTA! Lepiej zabieraj stÄ…d swÃ³j przechodzony tyÅ‚ek, zanim potnÄ™ ciÄ™ na tyle maÅ‚ych kawaÅ‚kÃ³w, Å¼e ciÄ™ rodzona matka nie pozna.}
+{861}{}{Å»e co? O czym ty mÃ³w...? (Dociera do niego) Homes, lepiej zabieraj stÄ…d swÃ³j tyÅ‚ek, nim wezmÄ™ swÃ³j nÃ³Å¼ i dorobiÄ™ ci drugi uÅ›miech na szyi.}
+{862}{}{Tylko sprÃ³buj i zobacz, co siÄ™ stanie, MAÅY Jesusie.}
+{863}{}{Tylko sprÃ³buj, a zrobiÄ™ ci na twarzy tyle blizn, Å¼e bÄ™dziesz wyglÄ…daÅ‚ jak puzzle.}
+{864}{}{UspokÃ³j siÄ™... tylko sobie Å¼artujÄ™.}
+{865}{}{Spokojnie. Mam kilka innych pytaÅ„...}
+{867}{}{OdchodzÄ™. MiÅ‚o mi siÄ™ rozmawiaÅ‚o z tak kulturalnÄ… osobÄ… jak ty.}
+{880}{}{Ha! JezdeÅ› w porzÄ…dku chica. W porzÄ…deczku. MaÅ‚y Jesus bÄ™dzie miaÅ‚ na ciebie oko... nie to, Å¼ebym nie mÃ³gÅ‚ sobie sam poradziÄ‡. Co mogÄ™ dla ciebie zrobiÄ‡?}
+{881}{}{Pierwsza rzecz, jakÄ… moÅ¼esz dla mnie zrobiÄ‡, MAÅY Jesusie, to zatrzymaÄ‡ swoje oczy dla siebie. PrÄ™dzej zastanowiÄ™ siÄ™ nad rÅ¼niÄ™ciem litej skaÅ‚y, niÅ¼ dotknÄ™ tego ksiÄ™Å¼ycowego krajobrazu, ktÃ³ry nazywasz twarzÄ….}
+{882}{}{Szukam pracy. Znasz kogoÅ›, kto szuka pracownika?}
+{883}{}{Mam kilka innych pytaÅ„...}
+{884}{}{WÅ‚aÅ›ciwie to muszÄ™ juÅ¼ iÅ›Ä‡. MiÅ‚o siÄ™ z tobÄ… rozmawiaÅ‚o Jesus.}
+{890}{}{(OglÄ…da ciÄ™ ze wszystkich stron i potakuje) Zawsze szukamy Å›wieÅ¼ej krwi... w szczegÃ³lnoÅ›ci Å›wieÅ¼ej krwi, ktÃ³ra chce rozlewaÄ‡ krew, jeÅ›li wiesz, o co mi chodzi. IdÅº na gÃ³rÄ™ pogadaÄ‡ z tatÄ…. Powiedz mu, Å¼e ciÄ™ przysÅ‚aÅ‚em, a moÅ¼e bÄ™dziemy wspÃ³lnie robiÄ‡ interesy.}
+{891}{}{(OglÄ…da ciÄ™ ze wszystkich stron i potrzÄ…sa gÅ‚owÄ…) Nie wynajmujemy chicas... z wyjÄ…tkiem pewnych konkretnych posad. SprÃ³buj pogadaÄ‡ z tatÄ…. Powiedz, Å¼e ciÄ™ przysÅ‚aÅ‚em. MoÅ¼e uda ci siÄ™ ubiÄ‡ jakiÅ› interes.}
+{892}{}{MoÅ¼e. Mam kilka innych pytaÅ„...}
+{893}{}{A wiÄ™c pÃ³jdÄ™ siÄ™ z nim zobaczyÄ‡. Jeszcze siÄ™ spotkamy Jesusie.}
+{900}{}{No nie wiem. Na moje oko nie wyglÄ…dasz na zbyt silnego... moÅ¼e sprÃ³buj gdzie indziej homes.}
+{901}{}{Nie... nic mi nie przychodzi do gÅ‚owy. Nasza rodzina nie szuka pracownikÃ³w, a inne rodziny prÄ™dzej ciÄ™ zabijÄ…, niÅ¼ zechcÄ… z tobÄ… gadaÄ‡. Homes, nie masz szczÄ™Å›cia.}
+{902}{}{Nie... nie wiem nic o tym, Å¼eby ktoÅ› szukaÅ‚ pracownikÃ³w. SprÃ³buj znaleÅºÄ‡ sobie alfonsa, a MOÅ»E zarobisz trochÄ™ kasy na wynajmowaniu swojego tyÅ‚ka.}
+{903}{}{MY nie szukamy pracownikÃ³w, ale z takim ciaÅ‚kiem moÅ¼esz sprÃ³bowaÄ‡ zaczepiÄ‡ siÄ™ w Studiu Braci Corsican parÄ™ krokÃ³w stÄ…d. (Szczerzy zÄ™by w uÅ›miechu) A jeÅ›li szukasz szybkiego zarobku, to mÃ³j pokÃ³j jest na gÃ³rze...}
+{904}{}{W porzÄ…dku. Mam parÄ™ innych pytaÅ„...}
+{905}{}{Uch, to nie dla mnie. Mam kilka innych pytaÅ„...}
+{906}{}{Raczej nie, ale dziÄ™ki. Mam za to kilka innych pytaÅ„...}
+{907}{}{Och, mogÄ™ siÄ™ zaÅ‚oÅ¼yÄ‡, Å¼e to BYÅOBY szybkie. Nie, dziÄ™kujÄ™.}
+{908}{}{A wiÄ™c zapomnijmy o tym. I tak dziÄ™ki.}
+{909}{}{Nie, dziÄ™ki. Lepiej juÅ¼ pÃ³jdÄ™.}
+{920}{}{Och, to ma zmieniÄ‡ postaÄ‡ rzeczy, czy tak? (Pluje ci pod stopy) WynoÅ› siÄ™ stÄ…d do diabÅ‚a, albo ciÄ™ zarÅ¼nÄ™.}
+{921}{}{Tylko sprÃ³buj i zobacz, co siÄ™ stanie... MAÅY Jesusie.}
+{922}{}{UspokÃ³j siÄ™ Jesus... sÅ‚uchaj, mam kilka innych pytaÅ„...}
+{923}{}{IdÄ™ sobie.}
+{924}{}{Plujesz mi na buty? Pierdol siÄ™! Ty pojebusie, zaraz nauczÄ™ ciÄ™ szacunku!}
+{930}{}{Nie, to nie ze mnÄ… te sprawy... idÅº na gÃ³rÄ™ do mojego taty. To z nim musisz o tym porozmawiaÄ‡.}
+{931}{}{A ty jesteÅ›...?}
+{932}{}{Dobrze. Zanim pÃ³jdÄ™, mam jeszcze kilka pytaÅ„...}
+{933}{}{DziÄ™kujÄ™.}
+{940}{}{PIERDOL siÄ™. WynoÅ› siÄ™ z kasyna mojej rodziny, zanim wytnÄ™ swoje inicjaÅ‚y na twoim trupie.}
+{942}{}{JuÅ¼ ty mnie nie strasz, Jesus.}
+{943}{}{Zaczekaj - mam kilka innych pytaÅ„...}
+{944}{}{UspokÃ³j siÄ™ Jesus. IdÄ™ stÄ…d.}
+{950}{}{Ten maÅ‚y siuÅ›majtek od WrightÃ³w? Ha! PrÃ³bujesz zwaliÄ‡ to caÅ‚e gÃ³wno na mnie? Masz pecha, nie jest mi przykro, Å¼e ten maÅ‚y jebus nie Å¼yje, ale nie miaÅ‚em z tym NIC wspÃ³lnego.}
+{951}{}{Ach tak? Wiesz, Mordino to najwiÄ™kszy dostawca Jetu w Nowym Reno. To sprawia, Å¼e przede wszystkim was bÄ™dzie siÄ™ o to obwiniaÄ‡.}
+{952}{}{Nie wierzÄ™ ci. MyÅ›lÄ™, Å¼e JESTEÅšCIE odpowiedzialni. Ty i caÅ‚a reszta rodziny Mordino.}
+{953}{}{Jak myÅ›lisz, kto to mÃ³gÅ‚ zrobiÄ‡?}
+{954}{}{Okej... SÅ‚uchaj, mam jeszcze kilka pytaÅ„...}
+{955}{}{JuÅ¼ dobrze. Tylko siÄ™ pytam.}
+{965}{}{(Oczy mu siÄ™ zwÄ™Å¼ajÄ…) PosÅ‚uchaj, nie mam NIC wspÃ³lnego ze Å›mierciÄ… tego dzieciaka. Nie wiem, co ci powiedziano, ale gdybym chciaÅ‚ go zabiÄ‡, to bym go ciachnÄ…Å‚ noÅ¼em, a nie zmusiÅ‚ do kraksy na Jecie, rozumiesz? }
+{966}{}{No i co, Å¼e bÄ™dzie na nas? Nie mÃ³wiÄ™, Å¼e to ZROBILIÅšMY. MaÅ‚y gÃ³wniarz wziÄ…Å‚ za duÅ¼o. Nie jest mi przykro, Å¼e zginÄ…Å‚. A jak siÄ™ stary Wright zacznie rzucaÄ‡, to pogrzebiemy go zaraz obok jego Ä‡punowatego dzieciaka.}
+{967}{}{Wiesz co Jesus, jesteÅ› naprawdÄ™ humanitarny.}
 {968}{}{Wiesz co Jesus, to WIELKI tupet.}
-{969}{}{Wiesz kto sprzeda³ Richardowi Jet, który go zabi³?}
-{970}{}{Jak dla mnie, to zdecydowanie wyjaœnia sprawê. Mam kilka innych pytañ...}
-{971}{}{Dziêki za informacjê Jesus. By³eœ bardzo pomocny.}
-{980}{}{Pewnie, Renesco... "Rakieciarz". Sprzedaje tyle Jetu, ¿e móg³by ciê nim wystrzeliæ na ksiê¿yc. Mieszka w zachodniej dzielnicy, na terytorium Salvatore. On ani trochê nie lubi Wrightów, a jego Jet nie jest CZYSTY, jeœli wiesz o czym mówiê.}
-{981}{}{To nie mo¿e byæ jedyny dealer w mieœcie tej wielkoœci.}
-{982}{}{Zachodnia dzielnica, co? Mo¿e tam wpadnê. Ale mam jeszcze kilka pytañ...}
-{983}{}{Dobra, pójdê to sprawdziæ. Dziêki Jesus.}
-{990}{}{Nie, s¹ te¿ inni, ale to Renesco to zrobi³.}
-{991}{}{Czemu tak mówisz?}
-{992}{}{Kim s¹ inni dealerzy?}
-{993}{}{Tia, ju¿ to mówi³eœ. Mam kilka innych pytañ...}
-{994}{}{No dobra. Dziêki za info Jesus.}
-{1000}{}{PONIEWA¯ on jest pó³œlepym œwirem, który sprzedaje Z£E PROCHY, oto kurwa czemu. IdŸ siê z nim zobaczyæ, to zobaczysz, co mówi o dzieciaku Wrightów i WTEDY ujrzysz, ¿e mam racjê.}
-{1001}{}{Jacy s¹ tu jeszcze inni dealerzy?}
-{1002}{}{Mo¿e tak zrobiê. Mam kilka innych pytañ...}
-{1003}{}{No dobrze Jesus. Pójdê sprawdziæ tego Renesco.}
-{1010}{}{Jest jeszcze Jules, stoi przy wejœciu do miasta i naprzykrza siê g³ównie nowoprzyby³ym... i jeszcze Szramiasty Jimmy J na 2-giej ulicy, obok si³owni... nie mo¿na nie zauwa¿yæ tego palanta, bo kiedyœ lataj¹c na Jecie pokroi³ sobie ca³¹ twarz... jaka szkoda, ¿e teraz jego buzia jest ca³a w bliznach.}
-{1011}{}{Podobno ty te¿ sprzedajesz prochy. Jak to siê sta³o, ¿e TWOJEGO imienia nie ma na tej liœcie?}
-{1012}{}{Dlaczego myœlisz, ¿e to Renesco jest odpowiedzialny?}
-{1013}{}{Ciekawe. Mam jeszcze kilka pytañ...}
-{1014}{}{Renesco, Jules i Szramiasty Jimmy J. Zapamiêtam. Dziêki za informacje.}
-{1020}{}{PONIEWA¯, pieprzony jebusie NIE JESTEM dealerem. }
-{1021}{}{PONIEWA¯ NIE JESTEM DEALEREM, DZIWKO. }
-{1022}{}{Mo¿e czasem sprzedajê Jet, ale jestem Ma³ym Jesusem MORDINO, a nie jakimœ wciskaj¹cym wszystkim Jet kretynem od siedmiu boleœci, który musi ka¿dego dnia uzale¿niæ przynajmniej dziesiêciu klientów, ¿eby zarobiæ na jedzenie. Wiêc siê ODPIERDOL.}
-{1023}{}{Jesusie, w mojej obecnoœci nale¿y pilnowaæ jêzyka.}
-{1024}{}{Spokojnie, spokojnie, to tylko czysta ciekawoœæ... s³uchaj, mam kilka innych pytañ...}
-{1025}{}{No dobrze. Dziêki za informacje.}
-{1030}{}{(Ma³y Jesus spogl¹da na nó¿ w twojej d³oni, po czym potrz¹sa g³ow¹) }
-{1031}{}{(Mê¿czyzna spogl¹da na nó¿ w twojej d³oni, po czym potrz¹sa g³ow¹) }
-{1032}{}{*Pshhs* Czy ty homes nie wiesz, jak siê trzyma nó¿? }
-{1033}{}{*Pshhs* czy ty chica nie wiesz, jak siê trzyma nó¿? }
-{1034}{}{Zobacz, to siê robi tak... (Poprawia twój chwyt) Potrzebujesz ma³ego szkolenia.}
-{1035}{}{(Popatrz na nó¿. Popatrz na brzydkiego faceta. Popatrz na nó¿) Ty dotykaæ }
+{969}{}{Wiesz kto sprzedaÅ‚ Richardowi Jet, ktÃ³ry go zabiÅ‚?}
+{970}{}{Jak dla mnie, to zdecydowanie wyjaÅ›nia sprawÄ™. Mam kilka innych pytaÅ„...}
+{971}{}{DziÄ™ki za informacjÄ™ Jesus. ByÅ‚eÅ› bardzo pomocny.}
+{980}{}{Pewnie, Renesco... "Rakieciarz". Sprzedaje tyle Jetu, Å¼e mÃ³gÅ‚by ciÄ™ nim wystrzeliÄ‡ na ksiÄ™Å¼yc. Mieszka w zachodniej dzielnicy, na terytorium Salvatore. On ani trochÄ™ nie lubi WrightÃ³w, a jego Jet nie jest CZYSTY, jeÅ›li wiesz o czym mÃ³wiÄ™.}
+{981}{}{To nie moÅ¼e byÄ‡ jedyny dealer w mieÅ›cie tej wielkoÅ›ci.}
+{982}{}{Zachodnia dzielnica, co? MoÅ¼e tam wpadnÄ™. Ale mam jeszcze kilka pytaÅ„...}
+{983}{}{Dobra, pÃ³jdÄ™ to sprawdziÄ‡. DziÄ™ki Jesus.}
+{990}{}{Nie, sÄ… teÅ¼ inni, ale to Renesco to zrobiÅ‚.}
+{991}{}{Czemu tak mÃ³wisz?}
+{992}{}{Kim sÄ… inni dealerzy?}
+{993}{}{Tia, juÅ¼ to mÃ³wiÅ‚eÅ›. Mam kilka innych pytaÅ„...}
+{994}{}{No dobra. DziÄ™ki za info Jesus.}
+{1000}{}{PONIEWAÅ» on jest pÃ³Å‚Å›lepym Å›wirem, ktÃ³ry sprzedaje ZÅE PROCHY, oto kurwa czemu. IdÅº siÄ™ z nim zobaczyÄ‡, to zobaczysz, co mÃ³wi o dzieciaku WrightÃ³w i WTEDY ujrzysz, Å¼e mam racjÄ™.}
+{1001}{}{Jacy sÄ… tu jeszcze inni dealerzy?}
+{1002}{}{MoÅ¼e tak zrobiÄ™. Mam kilka innych pytaÅ„...}
+{1003}{}{No dobrze Jesus. PÃ³jdÄ™ sprawdziÄ‡ tego Renesco.}
+{1010}{}{Jest jeszcze Jules, stoi przy wejÅ›ciu do miasta i naprzykrza siÄ™ gÅ‚Ã³wnie nowoprzybyÅ‚ym... i jeszcze Szramiasty Jimmy J na 2-giej ulicy, obok siÅ‚owni... nie moÅ¼na nie zauwaÅ¼yÄ‡ tego palanta, bo kiedyÅ› latajÄ…c na Jecie pokroiÅ‚ sobie caÅ‚Ä… twarz... jaka szkoda, Å¼e teraz jego buzia jest caÅ‚a w bliznach.}
+{1011}{}{Podobno ty teÅ¼ sprzedajesz prochy. Jak to siÄ™ staÅ‚o, Å¼e TWOJEGO imienia nie ma na tej liÅ›cie?}
+{1012}{}{Dlaczego myÅ›lisz, Å¼e to Renesco jest odpowiedzialny?}
+{1013}{}{Ciekawe. Mam jeszcze kilka pytaÅ„...}
+{1014}{}{Renesco, Jules i Szramiasty Jimmy J. ZapamiÄ™tam. DziÄ™ki za informacje.}
+{1020}{}{PONIEWAÅ», pieprzony jebusie NIE JESTEM dealerem. }
+{1021}{}{PONIEWAÅ» NIE JESTEM DEALEREM, DZIWKO. }
+{1022}{}{MoÅ¼e czasem sprzedajÄ™ Jet, ale jestem MaÅ‚ym Jesusem MORDINO, a nie jakimÅ› wciskajÄ…cym wszystkim Jet kretynem od siedmiu boleÅ›ci, ktÃ³ry musi kaÅ¼dego dnia uzaleÅ¼niÄ‡ przynajmniej dziesiÄ™ciu klientÃ³w, Å¼eby zarobiÄ‡ na jedzenie. WiÄ™c siÄ™ ODPIERDOL.}
+{1023}{}{Jesusie, w mojej obecnoÅ›ci naleÅ¼y pilnowaÄ‡ jÄ™zyka.}
+{1024}{}{Spokojnie, spokojnie, to tylko czysta ciekawoÅ›Ä‡... sÅ‚uchaj, mam kilka innych pytaÅ„...}
+{1025}{}{No dobrze. DziÄ™ki za informacje.}
+{1030}{}{(MaÅ‚y Jesus spoglÄ…da na nÃ³Å¼ w twojej dÅ‚oni, po czym potrzÄ…sa gÅ‚owÄ…) }
+{1031}{}{(MÄ™Å¼czyzna spoglÄ…da na nÃ³Å¼ w twojej dÅ‚oni, po czym potrzÄ…sa gÅ‚owÄ…) }
+{1032}{}{*Pshhs* Czy ty homes nie wiesz, jak siÄ™ trzyma nÃ³Å¼? }
+{1033}{}{*Pshhs* czy ty chica nie wiesz, jak siÄ™ trzyma nÃ³Å¼? }
+{1034}{}{Zobacz, to siÄ™ robi tak... (Poprawia twÃ³j chwyt) Potrzebujesz maÅ‚ego szkolenia.}
+{1035}{}{(Popatrz na nÃ³Å¼. Popatrz na brzydkiego faceta. Popatrz na nÃ³Å¼) Ty dotykaÄ‡ }
 {1036}{}{Kagaguuuuuu}
-{1038}{}{Naprawdê? Mo¿esz mnie czegoœ nauczyæ?}
-{1040}{}{Prawdê mówi¹c, mam do ciebie kilka pytañ Jesusie...}
-{1041}{}{Mo¿e kiedy indziej, dziêki.}
+{1038}{}{NaprawdÄ™? MoÅ¼esz mnie czegoÅ› nauczyÄ‡?}
+{1040}{}{PrawdÄ™ mÃ³wiÄ…c, mam do ciebie kilka pytaÅ„ Jesusie...}
+{1041}{}{MoÅ¼e kiedy indziej, dziÄ™ki.}
 {1050}{}{Hmmmmm...}
-{1051}{}{No nie wiem homes... to znaczy, nie mam zbyt du¿o wolnego czasu, a walka na no¿e jest SZTUK¥, rozumiesz?}
-{1052}{}{No nie wiem chica... to znaczy, nie mam zbyt du¿o wolnego czasu, a walka na no¿e jest SZTUK¥, rozumiesz?}
-{1053}{}{No nie wiem chica... to znaczy, MÓG£BYM chcieæ zrobiæ wyj¹tek dla kobiety takiej jak ty, ale nie mam zbyt wiele wolnego czasu... a walka na no¿e jest SZTUK¥, rozumiesz?}
-{1054}{}{Dam ci sto dolarów.}
-{1055}{}{Dam ci dwieœcie dolarów.}
-{1056}{}{Uprawianie mi³oœci przeze mnie to te¿ sztuka. Chcesz siê wymieniæ stylami?}
-{1058}{}{W³aœciwie, to mam jeszcze kilka pytañ...}
-{1059}{}{A wiêc mo¿e kiedy indziej... kiedy bêdê mieæ wystarczaj¹co du¿o pieniêdzy, ¿eby ciê przekonaæ.}
-{1060}{}{A wiêc mo¿e innym razem. Dziêki.}
+{1051}{}{No nie wiem homes... to znaczy, nie mam zbyt duÅ¼o wolnego czasu, a walka na noÅ¼e jest SZTUKÄ„, rozumiesz?}
+{1052}{}{No nie wiem chica... to znaczy, nie mam zbyt duÅ¼o wolnego czasu, a walka na noÅ¼e jest SZTUKÄ„, rozumiesz?}
+{1053}{}{No nie wiem chica... to znaczy, MÃ“GÅBYM chcieÄ‡ zrobiÄ‡ wyjÄ…tek dla kobiety takiej jak ty, ale nie mam zbyt wiele wolnego czasu... a walka na noÅ¼e jest SZTUKÄ„, rozumiesz?}
+{1054}{}{Dam ci sto dolarÃ³w.}
+{1055}{}{Dam ci dwieÅ›cie dolarÃ³w.}
+{1056}{}{Uprawianie miÅ‚oÅ›ci przeze mnie to teÅ¼ sztuka. Chcesz siÄ™ wymieniÄ‡ stylami?}
+{1058}{}{WÅ‚aÅ›ciwie, to mam jeszcze kilka pytaÅ„...}
+{1059}{}{A wiÄ™c moÅ¼e kiedy indziej... kiedy bÄ™dÄ™ mieÄ‡ wystarczajÄ…co duÅ¼o pieniÄ™dzy, Å¼eby ciÄ™ przekonaÄ‡.}
+{1060}{}{A wiÄ™c moÅ¼e innym razem. DziÄ™ki.}
 {1070}{}{Hmmmmm. 200 i umowa stoi.}
-{1071}{}{Niaa... myœla³em o czymœ INNYM, rozumiesz? (Wodzi oczami po twoim ciele i oblizuje swoje popêkane wargi)}
-{1072}{}{Powiedz, ¿e chodzi ci o 200 dolców. PROSZÊ, powiedz, ¿e chodzi ci o 200 dolców.}
-{1073}{}{Och, myœla³eœ o seksie? No to myœl dalej, bo to siê nie zdarzy.}
-{1074}{}{Uch, no dobrze. Zróbmy to. Wszystko dla poprawy sprawnoœci w u¿ywaniu no¿y.}
-{1075}{}{Zgoda. Oto twoje pieni¹dze.}
-{1076}{}{Niewa¿ne. Uch, a kim ty w ogóle jesteœ?}
-{1077}{}{Niewa¿ne. Mam kilka innych pytañ...}
-{1079}{}{Mo¿e innym razem, dziêki. NAPRAWDÊ muszê ju¿ iœæ.}
-{1090}{}{Hmmmm... dobrze. Zrobiê to. Wygl¹dasz na kogoœ, kto ma do tego cojones. Widzisz, pierwsza rzecz, jak¹ musisz zrobiæ, to...}
-{1091}{}{Hmmmm... dobrze. Zrobiê to. Wygl¹dasz na kogoœ, kto ma do tego cojones... bez obrazy. Widzisz, pierwsza rzecz, jak¹ musisz zrobiæ, to...}
-{1092}{}{(Uœmiecha siê, pokazuj¹c spróchnia³e resztki zêbów) Dobra. Zrobiê to. Masz TERAZ trochê czasu chica? Wiêc ubijmy ten interes od rêki...}
-{1093}{}{W porz¹dku...}
-{1643}{}{Co to za Rodzina Mordino, o której wczeœniej mówi³eœ?}
-{2000}{}{Ma³y Jesus pokazuje ci kilka wrednych sztuczek. Twoje umiejêtnoœci w pos³ugiwaniu siê no¿ami rosn¹.}
-{2001}{}{Za cenê swojej godnoœci stajesz siê sprawniejsza w walce na no¿e. Poza tym desperacko potrzebujesz prysznica.}
-{5200}{}{! Enklawa nie mia³a szans!}
-{5201}{}{, teraz te g³upie jebusy z Enklawy wiedz¹, jak siê za³atwia sprawy w SRÓDMIEŒCIU.}
+{1071}{}{Niaa... myÅ›laÅ‚em o czymÅ› INNYM, rozumiesz? (Wodzi oczami po twoim ciele i oblizuje swoje popÄ™kane wargi)}
+{1072}{}{Powiedz, Å¼e chodzi ci o 200 dolcÃ³w. PROSZÄ˜, powiedz, Å¼e chodzi ci o 200 dolcÃ³w.}
+{1073}{}{Och, myÅ›laÅ‚eÅ› o seksie? No to myÅ›l dalej, bo to siÄ™ nie zdarzy.}
+{1074}{}{Uch, no dobrze. ZrÃ³bmy to. Wszystko dla poprawy sprawnoÅ›ci w uÅ¼ywaniu noÅ¼y.}
+{1075}{}{Zgoda. Oto twoje pieniÄ…dze.}
+{1076}{}{NiewaÅ¼ne. Uch, a kim ty w ogÃ³le jesteÅ›?}
+{1077}{}{NiewaÅ¼ne. Mam kilka innych pytaÅ„...}
+{1079}{}{MoÅ¼e innym razem, dziÄ™ki. NAPRAWDÄ˜ muszÄ™ juÅ¼ iÅ›Ä‡.}
+{1090}{}{Hmmmm... dobrze. ZrobiÄ™ to. WyglÄ…dasz na kogoÅ›, kto ma do tego cojones. Widzisz, pierwsza rzecz, jakÄ… musisz zrobiÄ‡, to...}
+{1091}{}{Hmmmm... dobrze. ZrobiÄ™ to. WyglÄ…dasz na kogoÅ›, kto ma do tego cojones... bez obrazy. Widzisz, pierwsza rzecz, jakÄ… musisz zrobiÄ‡, to...}
+{1092}{}{(UÅ›miecha siÄ™, pokazujÄ…c sprÃ³chniaÅ‚e resztki zÄ™bÃ³w) Dobra. ZrobiÄ™ to. Masz TERAZ trochÄ™ czasu chica? WiÄ™c ubijmy ten interes od rÄ™ki...}
+{1093}{}{W porzÄ…dku...}
+{1643}{}{Co to za Rodzina Mordino, o ktÃ³rej wczeÅ›niej mÃ³wiÅ‚eÅ›?}
+{2000}{}{MaÅ‚y Jesus pokazuje ci kilka wrednych sztuczek. Twoje umiejÄ™tnoÅ›ci w posÅ‚ugiwaniu siÄ™ noÅ¼ami rosnÄ….}
+{2001}{}{Za cenÄ™ swojej godnoÅ›ci stajesz siÄ™ sprawniejsza w walce na noÅ¼e. Poza tym desperacko potrzebujesz prysznica.}
+{5200}{}{! Enklawa nie miaÅ‚a szans!}
+{5201}{}{, teraz te gÅ‚upie jebusy z Enklawy wiedzÄ…, jak siÄ™ zaÅ‚atwia sprawy w SRÃ“DMIEÅšCIU.}
 {5230}{}{.}
-{5240}{}{? Mordino chodz¹ dumnie.}
+{5240}{}{? Mordino chodzÄ… dumnie.}
 {5250}{}{?}
 {5251}{}{! Que pasa?}
 {5253}{}{?}
-{5254}{}{. Gdzie ciê nosi³o?}
+{5254}{}{. Gdzie ciÄ™ nosiÅ‚o?}
 {5255}{}{.}
 {5256}{}{?}
 {5257}{}{. Idziesz z nami?}
-{5271}{}{. Rozwal ich i odejdŸ, albo jakoœ inaczej.}
-{5273}{}{ próbuje z nami zadzieraæ? Niech spróbuje, a wszyscy pójdziecie karmiæ robaki. Spadaj st¹d!}
-{5276}{}{? W³aœnie skoñczy³a ca³owaæ mój ty³ek. Ty te¿ lepiej st¹d zmiataj.}
-{5280}{}{, lepiej st¹d odejdŸ.}
-{5320}{}{? Z takim prawym sierpowym nie masz chyba czego siê obawiaæ.}
-{5340}{}{? Jesteœ niebezpieczny. Dobrze siê RUSZASZ, hombre.}
+{5271}{}{. Rozwal ich i odejdÅº, albo jakoÅ› inaczej.}
+{5273}{}{ prÃ³buje z nami zadzieraÄ‡? Niech sprÃ³buje, a wszyscy pÃ³jdziecie karmiÄ‡ robaki. Spadaj stÄ…d!}
+{5276}{}{? WÅ‚aÅ›nie skoÅ„czyÅ‚a caÅ‚owaÄ‡ mÃ³j tyÅ‚ek. Ty teÅ¼ lepiej stÄ…d zmiataj.}
+{5280}{}{, lepiej stÄ…d odejdÅº.}
+{5320}{}{? Z takim prawym sierpowym nie masz chyba czego siÄ™ obawiaÄ‡.}
+{5340}{}{? JesteÅ› niebezpieczny. Dobrze siÄ™ RUSZASZ, hombre.}
 {5343}{}{.}
-{5344}{}{. Na sam twój widok pozosta³e rodziny popuszcz¹ w gacie.}
-{5346}{}{. Ten facet by³ *skoñczony*.}
+{5344}{}{. Na sam twÃ³j widok pozostaÅ‚e rodziny popuszczÄ… w gacie.}
+{5346}{}{. Ten facet byÅ‚ *skoÅ„czony*.}
 {5347}{}{?}
-{5380}{}{? No ju¿, przestañ.}
-{5401}{}{! Que pasa? Za³atwisz mi spotkanie z Braæmi?}
+{5380}{}{? No juÅ¼, przestaÅ„.}
+{5401}{}{! Que pasa? ZaÅ‚atwisz mi spotkanie z BraÄ‡mi?}
 {5402}{}{, hicior!}
-{5404}{}{... no chodŸ. Umiem to *zrobiæ*.}
-{5542}{}{! Wielki, stary, dobry wojownik! Facet, jesteœ niez³y!}
-{5543}{}{! Wredna chica - wojowniczka! Jesteœ niez³a, chica!}
+{5404}{}{... no chodÅº. Umiem to *zrobiÄ‡*.}
+{5542}{}{! Wielki, stary, dobry wojownik! Facet, jesteÅ› niezÅ‚y!}
+{5543}{}{! Wredna chica - wojowniczka! JesteÅ› niezÅ‚a, chica!}
 {5560}{}{? }
-{6035}{}{ rêka Nie DOTYKA }
-{7035}{}{ rêka }
+{6035}{}{ rÄ™ka Nie DOTYKA }
+{7035}{}{ rÄ™ka }
 {8035}{}{ NIE LUBI}

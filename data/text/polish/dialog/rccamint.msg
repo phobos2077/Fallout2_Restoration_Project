@@ -1,82 +1,82 @@
-{100}{}{Widzisz niskiego, przypakowanego górnika z krêconymi, czarnymi w³osami.}
-{101}{}{Widzisz Caminetta, awanturniczego górnika z kopalni Kokoweef.}
-{102}{}{Widzisz umiêœnionego mê¿czyznê, który wygl¹da na kogoœ, kto nieŸle umie siê biæ.}
-{103}{}{Caminetto, wszyscy wasi górnicy z kopalni Kokoweef s¹ tacy sami. Przyszliœcie i nic...}
-{104}{}{Ju¿ wkrótce *nic* bêdzie jedyn¹ rzecz¹, jak¹ bêdziesz widzieæ, Blasphemous Bette.}
-{105}{}{S³owo nic dobrze oddaje to, co mo¿esz mi zrobiæ!}
-{106}{}{Nic ci jeszcze nie zrobi³em, bo nie mogê siê zmusiæ, by podejœæ do ciebie!}
-{107}{}{Nie pochlebiaj sobie, ty ma³y wieprzku!}
-{108}{}{Mo¿e i jestem wieprzkiem, ale wy za to wcale nie umiecie obs³ugiwaæ maszyn górniczych!}
-{109}{}{Czemu tak uwa¿asz? U nas wiert³a wytrzymuj¹ d³u¿ej ni¿ 30 sekund, nie tak jak u was!}
-{110}{}{30 sekund... To pewnie dlatego maszyny w Morningstar psuj¹ siê tak czêsto.}
-{111}{}{Zaraz moje piêœci zepsuj¹ twoj¹ twarz!}
-{112}{}{Twoje piêœci? Wystarczy sam oddech!}
-{113}{}{Ty za to œmierdzisz ca³y... Pewnie dlatego, ¿e nie my³eœ siê ju¿ ze 3 tygodnie.}
-{114}{}{Za to samo patrzenie na ciebie mo¿e wywo³aæ ból!}
-{115}{}{Co ty tam wiesz o bólu? Ja ci zaraz poka¿ê ból!}
-{116}{}{Ty mi poka¿esz?}
-{117}{}{Pewnie, bo twoja mamusia najwyraŸniej zapomnia³a!}
-{118}{}{Zaczynasz naje¿d¿aæ na moj¹ matkê? Jakie¿ to pomys³owe.}
-{119}{}{Zajmij siê lepiej wymyœlaniem nowej twarzy dla siebie, na tê star¹ a¿ ¿al patrzeæ!}
-{120}{}{Nic mi nie zrobisz, jesteœ za s³aba!}
-{121}{}{Rozwalê ciê bez problemu! I mogê siê za³o¿yæ, ¿e my, ekipa z Morningstar za³atwimy was, frajerów z Kokoweef, kiedy tylko bêdziemy chcieli!}
-{122}{}{Nie s¹dzê. Kokoweef tu rz¹dzi. Muszê ciê tego dobrze nauczyæ.}
-{123}{}{Trudno ci bêdzie uczyæ, gdy bêdziesz nieprzytomny.}
-{124}{}{Liczysz na szczêœcie, hê?}
-{125}{}{Nie potrzebujê szczêœcia, by ciê obiæ...}
-{126}{}{Obiæ? Chyba swoim brzuchem! Zaczynam siê baæ!}
-{127}{}{Lepiej zacznij siê biæ, albo siê przymknij!}
-{128}{}{No dalej, wiedŸmo!}
-{129}{}{I kto tu teraz liczy na szczêœcie?}
-{130}{}{Mam tego doœæ, ju¿ po tobie!}
-{131}{}{Hej, ktoœ nas podgl¹da!}
-{132}{}{To ktos obcy! Hej, to sprawa osobista! Ju¿ nie ¿yjesz!}
-{133}{}{Chocia¿ raz siê zgadzamy. Ju¿ nie ¿yjesz!}
-{134}{}{NieŸle ci to wysz³o. Wpakowa³eœ wszystkich górników z Redding za kratki.}
-{135}{}{Masz tupet, pakuj¹c nas tutaj!}
-{136}{}{Tylko siê zabawialiœmy. Wypuœæ nas.}
-{137}{}{To, co robiliœmy, to nie by³ twój interes.}
-{138}{}{Wynoœ siê st¹d, do cholery.}
-{139}{}{Uwolnij mnie st¹d.}
-{140}{}{Hej, wypuœæ mnie!}
+{100}{}{Widzisz niskiego, przypakowanego gÃ³rnika z krÄ™conymi, czarnymi wÅ‚osami.}
+{101}{}{Widzisz Caminetta, awanturniczego gÃ³rnika z kopalni Kokoweef.}
+{102}{}{Widzisz umiÄ™Å›nionego mÄ™Å¼czyznÄ™, ktÃ³ry wyglÄ…da na kogoÅ›, kto nieÅºle umie siÄ™ biÄ‡.}
+{103}{}{Caminetto, wszyscy wasi gÃ³rnicy z kopalni Kokoweef sÄ… tacy sami. PrzyszliÅ›cie i nic...}
+{104}{}{JuÅ¼ wkrÃ³tce *nic* bÄ™dzie jedynÄ… rzeczÄ…, jakÄ… bÄ™dziesz widzieÄ‡, Blasphemous Bette.}
+{105}{}{SÅ‚owo nic dobrze oddaje to, co moÅ¼esz mi zrobiÄ‡!}
+{106}{}{Nic ci jeszcze nie zrobiÅ‚em, bo nie mogÄ™ siÄ™ zmusiÄ‡, by podejÅ›Ä‡ do ciebie!}
+{107}{}{Nie pochlebiaj sobie, ty maÅ‚y wieprzku!}
+{108}{}{MoÅ¼e i jestem wieprzkiem, ale wy za to wcale nie umiecie obsÅ‚ugiwaÄ‡ maszyn gÃ³rniczych!}
+{109}{}{Czemu tak uwaÅ¼asz? U nas wiertÅ‚a wytrzymujÄ… dÅ‚uÅ¼ej niÅ¼ 30 sekund, nie tak jak u was!}
+{110}{}{30 sekund... To pewnie dlatego maszyny w Morningstar psujÄ… siÄ™ tak czÄ™sto.}
+{111}{}{Zaraz moje piÄ™Å›ci zepsujÄ… twojÄ… twarz!}
+{112}{}{Twoje piÄ™Å›ci? Wystarczy sam oddech!}
+{113}{}{Ty za to Å›mierdzisz caÅ‚y... Pewnie dlatego, Å¼e nie myÅ‚eÅ› siÄ™ juÅ¼ ze 3 tygodnie.}
+{114}{}{Za to samo patrzenie na ciebie moÅ¼e wywoÅ‚aÄ‡ bÃ³l!}
+{115}{}{Co ty tam wiesz o bÃ³lu? Ja ci zaraz pokaÅ¼Ä™ bÃ³l!}
+{116}{}{Ty mi pokaÅ¼esz?}
+{117}{}{Pewnie, bo twoja mamusia najwyraÅºniej zapomniaÅ‚a!}
+{118}{}{Zaczynasz najeÅ¼dÅ¼aÄ‡ na mojÄ… matkÄ™? JakieÅ¼ to pomysÅ‚owe.}
+{119}{}{Zajmij siÄ™ lepiej wymyÅ›laniem nowej twarzy dla siebie, na tÄ™ starÄ… aÅ¼ Å¼al patrzeÄ‡!}
+{120}{}{Nic mi nie zrobisz, jesteÅ› za sÅ‚aba!}
+{121}{}{RozwalÄ™ ciÄ™ bez problemu! I mogÄ™ siÄ™ zaÅ‚oÅ¼yÄ‡, Å¼e my, ekipa z Morningstar zaÅ‚atwimy was, frajerÃ³w z Kokoweef, kiedy tylko bÄ™dziemy chcieli!}
+{122}{}{Nie sÄ…dzÄ™. Kokoweef tu rzÄ…dzi. MuszÄ™ ciÄ™ tego dobrze nauczyÄ‡.}
+{123}{}{Trudno ci bÄ™dzie uczyÄ‡, gdy bÄ™dziesz nieprzytomny.}
+{124}{}{Liczysz na szczÄ™Å›cie, hÄ™?}
+{125}{}{Nie potrzebujÄ™ szczÄ™Å›cia, by ciÄ™ obiÄ‡...}
+{126}{}{ObiÄ‡? Chyba swoim brzuchem! Zaczynam siÄ™ baÄ‡!}
+{127}{}{Lepiej zacznij siÄ™ biÄ‡, albo siÄ™ przymknij!}
+{128}{}{No dalej, wiedÅºmo!}
+{129}{}{I kto tu teraz liczy na szczÄ™Å›cie?}
+{130}{}{Mam tego doÅ›Ä‡, juÅ¼ po tobie!}
+{131}{}{Hej, ktoÅ› nas podglÄ…da!}
+{132}{}{To ktos obcy! Hej, to sprawa osobista! JuÅ¼ nie Å¼yjesz!}
+{133}{}{ChociaÅ¼ raz siÄ™ zgadzamy. JuÅ¼ nie Å¼yjesz!}
+{134}{}{NieÅºle ci to wyszÅ‚o. WpakowaÅ‚eÅ› wszystkich gÃ³rnikÃ³w z Redding za kratki.}
+{135}{}{Masz tupet, pakujÄ…c nas tutaj!}
+{136}{}{Tylko siÄ™ zabawialiÅ›my. WypuÅ›Ä‡ nas.}
+{137}{}{To, co robiliÅ›my, to nie byÅ‚ twÃ³j interes.}
+{138}{}{WynoÅ› siÄ™ stÄ…d, do cholery.}
+{139}{}{Uwolnij mnie stÄ…d.}
+{140}{}{Hej, wypuÅ›Ä‡ mnie!}
 {141}{}{Jestem niewinny.}
-{142}{}{Ja nic nie zrobi³em.}
-{143}{}{Szeryfie? Muszê siê wysikaæ.}
+{142}{}{Ja nic nie zrobiÅ‚em.}
+{143}{}{Szeryfie? MuszÄ™ siÄ™ wysikaÄ‡.}
 {144}{}{Czego do cholery chcesz?}
-{145}{}{Nie pozwolê wam siê pobiæ.}
-{146}{}{Tak siê tylko zastanawiam, co siê tu dzieje.}
-{147}{}{Ja i moi ludzie dadz¹ nauczkê tym ciotom z Morningstar. Poczynaj¹c od Blasphemous Bette.}
-{148}{}{Czemu? Jak to siê zaczê³o?}
-{149}{}{Aha. Nie mogê na to pozwoliæ. Musicie siê rozejœæ.}
-{150}{}{Znudzi³o siê nam, ¿e smrodz¹ w NASZYM barze.}
-{151}{}{To trochê za ma³o. Nie pozwolê na bójke.}
-{152}{}{No tak, to jest problem. Nie winiê was. Powodzenia.}
+{145}{}{Nie pozwolÄ™ wam siÄ™ pobiÄ‡.}
+{146}{}{Tak siÄ™ tylko zastanawiam, co siÄ™ tu dzieje.}
+{147}{}{Ja i moi ludzie dadzÄ… nauczkÄ™ tym ciotom z Morningstar. PoczynajÄ…c od Blasphemous Bette.}
+{148}{}{Czemu? Jak to siÄ™ zaczÄ™Å‚o?}
+{149}{}{Aha. Nie mogÄ™ na to pozwoliÄ‡. Musicie siÄ™ rozejÅ›Ä‡.}
+{150}{}{ZnudziÅ‚o siÄ™ nam, Å¼e smrodzÄ… w NASZYM barze.}
+{151}{}{To trochÄ™ za maÅ‚o. Nie pozwolÄ™ na bÃ³jke.}
+{152}{}{No tak, to jest problem. Nie winiÄ™ was. Powodzenia.}
 {153}{}{Tak... A jak nas powstrzymasz?}
-{154}{}{Zabijê pierwsz¹ osobê, która uderzy.}
-{155}{}{Poproszê was bardzo grzecznie. Nastêpnie za³adujê broñ i poczekam, a¿ zacznie siê zabawa w strzelnicê.}
-{156}{}{Szeryf poprosi³ mnie, by go zast¹piæ, dopóki nie wykuruje nogi. Muszê dotrzymaæ s³owa.}
-{157}{}{Dobra, dla szeryfa mo¿emy daæ sobie na wstrzymanie.}
-{158}{}{Dziêki. Cieszê siê, ¿e te¿ tak to widzisz. Do widzenia.}
-{159}{}{Ale¿ z ciebie mi³a osóbka. Nie podoba mi siê twój ton...}
-{160}{}{Nie musi ci siê podobaæ. Pójdziesz ze mn¹ do paki, albo zaci¹gnê tam twoje zw³oki. Twój wybór.}
-{161}{}{Przepraszam za moj¹ niegrzecznoœæ. Ju¿ sobie idê. Do widzenia.}
-{162}{}{Dobra, dobra. Pójdê, ale tylko wtedy, jeœli wpakujesz te¿ Bette. Brzmi to sprawiedliwie!}
-{163}{}{To ju¿ nie twoja decyzja.}
-{164}{}{Niez³y pomys³. Oddzielenie was kratkami powinno och³odziæ trochê atmosferê pomiedzy wami. No, idziemy.}
-{165}{}{Nie zgarniesz nas bez rozlewu krwi. Myœlisz, ¿e szeryfowi siê to spodoba?}
+{154}{}{ZabijÄ™ pierwszÄ… osobÄ™, ktÃ³ra uderzy.}
+{155}{}{PoproszÄ™ was bardzo grzecznie. NastÄ™pnie zaÅ‚adujÄ™ broÅ„ i poczekam, aÅ¼ zacznie siÄ™ zabawa w strzelnicÄ™.}
+{156}{}{Szeryf poprosiÅ‚ mnie, by go zastÄ…piÄ‡, dopÃ³ki nie wykuruje nogi. MuszÄ™ dotrzymaÄ‡ sÅ‚owa.}
+{157}{}{Dobra, dla szeryfa moÅ¼emy daÄ‡ sobie na wstrzymanie.}
+{158}{}{DziÄ™ki. CieszÄ™ siÄ™, Å¼e teÅ¼ tak to widzisz. Do widzenia.}
+{159}{}{AleÅ¼ z ciebie miÅ‚a osÃ³bka. Nie podoba mi siÄ™ twÃ³j ton...}
+{160}{}{Nie musi ci siÄ™ podobaÄ‡. PÃ³jdziesz ze mnÄ… do paki, albo zaciÄ…gnÄ™ tam twoje zwÅ‚oki. TwÃ³j wybÃ³r.}
+{161}{}{Przepraszam za mojÄ… niegrzecznoÅ›Ä‡. JuÅ¼ sobie idÄ™. Do widzenia.}
+{162}{}{Dobra, dobra. PÃ³jdÄ™, ale tylko wtedy, jeÅ›li wpakujesz teÅ¼ Bette. Brzmi to sprawiedliwie!}
+{163}{}{To juÅ¼ nie twoja decyzja.}
+{164}{}{NiezÅ‚y pomysÅ‚. Oddzielenie was kratkami powinno ochÅ‚odziÄ‡ trochÄ™ atmosferÄ™ pomiedzy wami. No, idziemy.}
+{165}{}{Nie zgarniesz nas bez rozlewu krwi. MyÅ›lisz, Å¼e szeryfowi siÄ™ to spodoba?}
 {166}{}{No, raczej nie.}
-{167}{}{Jak dla mnie to nie jest to wa¿ne, bo nie bêdzie to moja krew.}
-{168}{}{No dobra. Pójdê z tob¹. [do kumpli] IdŸcie do kopalni, zobaczymy siê jutro.}
-{169}{}{Dobry wybór.}
-{170}{}{Nie martw siê. Bette dotrzyma ci towarzystwa. Prawda, Bette?}
-{171}{}{To siê tak nie skoñczy... Myœlê, ¿e rozwalê ciê razem z Bette.}
-{172}{}{W takim razie pójdziesz do paki razem z Bette.}
-{173}{}{W takim razie zabijê was, i ciebie, i Bette.}
-{174}{}{Chyba potrzebuj¹ mnie w innej czêœci Redding. Muszê iœæ. Do widzenia.}
-{175}{}{Po prostu pójdŸ do szeryfa i powiedz mu, ¿e nic nie uda³o ci siê zd¹¿yæ zrobiæ.}
-{176}{}{Dobra. Mam doœæ twojego gadania. Ostatnia szansa: chodŸ ze mn¹, albo rozerwê ciê na kawa³ki.}
-{177}{}{Tak te¿ zrobiê. W koñcu nie chcê nikogo krzywdziæ. Do widzenia.}
-{178}{}{Dobra, chyba to wreszcie do nas dotar³o - no nie, Bette? [Bette przytakuje] Idziemy, szeryfie.}
-{179}{}{No, tak ju¿ lepiej.}
-{180}{}{Teraz nigdzie ju¿ nie pójdziecie... Zaraz zacznie siê niez³a jatka... }
-{181}{}{Nie martw siê. Nie bêdê sprawia³ ¿adnych k³opotów dziœ wieczorem.}
+{167}{}{Jak dla mnie to nie jest to waÅ¼ne, bo nie bÄ™dzie to moja krew.}
+{168}{}{No dobra. PÃ³jdÄ™ z tobÄ…. [do kumpli] IdÅºcie do kopalni, zobaczymy siÄ™ jutro.}
+{169}{}{Dobry wybÃ³r.}
+{170}{}{Nie martw siÄ™. Bette dotrzyma ci towarzystwa. Prawda, Bette?}
+{171}{}{To siÄ™ tak nie skoÅ„czy... MyÅ›lÄ™, Å¼e rozwalÄ™ ciÄ™ razem z Bette.}
+{172}{}{W takim razie pÃ³jdziesz do paki razem z Bette.}
+{173}{}{W takim razie zabijÄ™ was, i ciebie, i Bette.}
+{174}{}{Chyba potrzebujÄ… mnie w innej czÄ™Å›ci Redding. MuszÄ™ iÅ›Ä‡. Do widzenia.}
+{175}{}{Po prostu pÃ³jdÅº do szeryfa i powiedz mu, Å¼e nic nie udaÅ‚o ci siÄ™ zdÄ…Å¼yÄ‡ zrobiÄ‡.}
+{176}{}{Dobra. Mam doÅ›Ä‡ twojego gadania. Ostatnia szansa: chodÅº ze mnÄ…, albo rozerwÄ™ ciÄ™ na kawaÅ‚ki.}
+{177}{}{Tak teÅ¼ zrobiÄ™. W koÅ„cu nie chcÄ™ nikogo krzywdziÄ‡. Do widzenia.}
+{178}{}{Dobra, chyba to wreszcie do nas dotarÅ‚o - no nie, Bette? [Bette przytakuje] Idziemy, szeryfie.}
+{179}{}{No, tak juÅ¼ lepiej.}
+{180}{}{Teraz nigdzie juÅ¼ nie pÃ³jdziecie... Zaraz zacznie siÄ™ niezÅ‚a jatka... }
+{181}{}{Nie martw siÄ™. Nie bÄ™dÄ™ sprawiaÅ‚ Å¼adnych kÅ‚opotÃ³w dziÅ› wieczorem.}

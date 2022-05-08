@@ -1,7 +1,7 @@
-{100}{}{Widzisz star¹ konsolê.}
-{101}{}{Wygl¹da, ¿e ta konsola steruje ³adowaniem i odpalaniem torped. Jak wszystko inne na okrêcie, jest przerdzewia³a i ledwie dzia³a.}
-{200}{}{Wy³¹czenie tego podsystemu, powinno zapobiec za³adowaniu tub zapasowymi torpedami. Samo wy³¹czenie nie powinno byæ specjalnie trudne - metal dos³ownie siê rozsypuje i mo¿esz z ³atwoœci¹ zobaczyæ lampy pró¿niowe w œrodku.}
-{210}{}{Tak jak ci siê wydawa³o - metal ³atwo ustêpuje i konsola wkrótce jest roz³o¿ona. Nie prêdko ten okrêt bêdzie móg³ prze³adowaæ swoje wyrzutnie torped.}
-{211}{}{Nie uda³o ci siê wy³¹czyæ systemu.}
+{100}{}{Widzisz starÄ… konsolÄ™.}
+{101}{}{WyglÄ…da, Å¼e ta konsola steruje Å‚adowaniem i odpalaniem torped. Jak wszystko inne na okrÄ™cie, jest przerdzewiaÅ‚a i ledwie dziaÅ‚a.}
+{200}{}{WyÅ‚Ä…czenie tego podsystemu, powinno zapobiec zaÅ‚adowaniu tub zapasowymi torpedami. Samo wyÅ‚Ä…czenie nie powinno byÄ‡ specjalnie trudne - metal dosÅ‚ownie siÄ™ rozsypuje i moÅ¼esz z Å‚atwoÅ›ciÄ… zobaczyÄ‡ lampy prÃ³Å¼niowe w Å›rodku.}
+{210}{}{Tak jak ci siÄ™ wydawaÅ‚o - metal Å‚atwo ustÄ™puje i konsola wkrÃ³tce jest rozÅ‚oÅ¼ona. Nie prÄ™dko ten okrÄ™t bÄ™dzie mÃ³gÅ‚ przeÅ‚adowaÄ‡ swoje wyrzutnie torped.}
+{211}{}{Nie udaÅ‚o ci siÄ™ wyÅ‚Ä…czyÄ‡ systemu.}
 {212}{}{*biip*}
 {213}{}{*biiboop*}
